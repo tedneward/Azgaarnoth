@@ -1,11 +1,13 @@
 # The Ancient World
 
-## The Eldar=ruled World
+## The Eldar-ruled World
 It is said that the Eldar were the ones that brought arcane magic into the world, and that their close proximity to the gods is what enabled the granting of divine magic as well. Eldar are said to have fought toe-to-toe with the worst of the demon lords and devil princes, and supposedly stood alongside the gods when the fiends were banished to the Outer Planes and the Compact (which prevents fiends from ever calling the mortal plane home) was imposed upon them. Great works of architecture, art, music, craft, poetry, and even dance were said to be the hallmark of Eldar culture and presence.
 
-The population of the Eldar never rose beyond a million, even at their peak, and in order to carry out the various tasks that were required, the Eldar forged the [firstborn](Firstborn.md) races, dwarves and elves, to assist in their tasks: dwarves, with their affinity for the earth, and elves, with their affinity for the woods and the air. It is rumored that other races were also forged to care for the air and the seas, but if so, these have long since disappeared.
+The population of the Eldar never rose beyond a million, even at their peak, and in order to carry out the various tasks that were required, the Eldar forged the [firstborn](../Races/Firstborn.md) races, dwarves and elves, to assist in their tasks: dwarves, with their affinity for the earth, and elves, with their affinity for the woods and the air. It is rumored that other races were also forged to care for the air and the seas, but if so, these have long since disappeared.
 
-Despite the aid of the firstborn, the Eldar realized that they required a more adaptable, sturdy race to carry out a variety of tasks that had no common purpose or environment, and thus were the humans created. Shorter-lived in order to encourage their adaptability, humans quickly became the servant race of the Eldar, and dwarves and elves were given more leeway and latitude to carry out their tasks without Eldar oversight.
+Despite the aid of the firstborn, the Eldar realized that they required a more adaptable, sturdy race to carry out a variety of tasks that had no common purpose or environment, and thus were the first [humans](../Races/Humans.md) created. Shorter-lived in order to encourage their adaptability, humans quickly became the servant race of the Eldar, and dwarves and elves were given more leeway and latitude to carry out their tasks without Eldar oversight.
+
+(The relationship with the Hordes)
 
 ## The Fall
 At some point in the distant past, the Eldar suffered a great Fall. It is not clear what the nature of this event was, however; legends speak of a disease, or of a cosmic upheaval, or even of a betrayal from within, but no concrete evidence has been found that supports any of these theories beyond wild conjecture. Regardless of its cause, the Eldar--apparently greatly weakened in number and power--withdrew from the world almost entirely, centering their presence in the world around Mt Bezulb in Shemkanar near the border of Zabalasa and Alalihat. Centuries would pass before an Eldar was seen outside of their home, and visitors were quietly discouraged from visiting. 
