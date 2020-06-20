@@ -1,3 +1,4 @@
 # Eldar
 
-The Eldar are a race, potentially the ancestors of the (firstborn)[Firstborn.md], that owned the world before their Fall.
+The Eldar are the race that owned the world before their Fall. Though they are supposedly immortal, they do not appear in the world today, and amongst the Al'Uma, they are worshipped as gods. Eldar commonly paired with dragons when entering combat, and the disappearance of Eldar has also led to the withdrawal of dragons from the world, although periodically chromatic dragons are spotted and metallic dragons will frequently respond when that happens.
+
