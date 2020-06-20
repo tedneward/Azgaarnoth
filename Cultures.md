@@ -4,9 +4,9 @@
 
 ## Dail: Human Arcane
 
-## Al'Uma: Human Divine
+## Al'Uma: Human Divine (Arabic)
 
-## Anor: Eldar
+## Anor: Human Extraplanar (Tiefling)
 
 ## Uruk, Ugluk: Horde
 
@@ -16,6 +16,6 @@
 
 ## Durinn: Human and Horde
 
-## Rakhnid: Unitarian
+## Rakhnid: Unitarian (Asian)
 Human, Eldar, and Horde, mixed together into a strangely compelling pragmatic mix.
 
