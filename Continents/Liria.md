@@ -1,2 +1,0 @@
-# Liria: Ancestral Human home
-
