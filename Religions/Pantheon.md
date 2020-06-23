@@ -1,0 +1,7 @@
+# The Pantheon / The "Old Gods"
+
+"The Pantheon" is the general label, alongside the slightly more derogatory "Old Gods", to refer to the pantheon of gods that are thought to have created the Eldar in the first place. The Pantheon of divinities are thought to be distantly observing the progress of the world, though whether in judgment or keen interest is not clear. The Gods have made no presence felt in Azgaarnoth in recorded history, although the clerics who worship them receive spells and (according to those clerics) guidance, suggesting that the Pantheon is every bit as real as the Eldar were (or are).
+
+Each member of the Pantheon has sway over a particular domain, and while some have a wide number of followers, others seem to be more obscure and only known to a few. While most of the Pantheon is fundamentally of a "good" cosmic perspective, whispers of "evil" gods are always present, and if these gods exist, their worshippers (and temples and ceremonies) are buried deep in society.
+
+Most Pantheon worship is decentralized, with scattered temples and buildings across Azgaarnoth, usually close to the physical expression of the god's domain. (Examples.) Becoming a cleric of a Pantheon god is usually a matter of finding an existing cleric to take on an apprentice/acolyte, study and worship, and if the god finds the individual worthy, that individual finds "the god's voice" and hears the call of the god's wishes for the future.
