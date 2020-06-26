@@ -8,5 +8,24 @@ The most obvious of these disputes is the dispute between the Prophet [Alalihat]
 
 ## Alalihatian Prophecy
 
+
 ## Zalabasan Sect
 
+
+## Game notes
+A cleric of the Al'Uman religion is always of either the Alalihatian, Zalabasan, or Alamalz traditions; there are no other traditions recognized within Al'Uma (although apostasy is always possible, it's up the GM whether apostate Al'Uman clerics are actually receiving spells, and from whom--or what).
+
+### Alalihatian Cleric
+Domain: Light
+Preferred equipment: mace, leather armor, light crossbow, shield
+Holy symbol: A mirror-bright disk with etchings of the ancient symbols of the Eldar
+
+### Alamalz Cleric
+Domain: Life
+Preferred equipment: mace, leather armor, light crossbow, shield
+Holy symbol: A mirror-bright disk, with an etching of a sun rising over a rounded shape (hill)
+
+### Zalabasan Cleric
+Domain: War
+Preferred equipment: mace, scale mail or chain mail, light crossbow, shield
+Holy symbol: A mirror-bright disk, with an etching of an upraised clenched fist
