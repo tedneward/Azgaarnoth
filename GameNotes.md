@@ -54,10 +54,12 @@ Several major religions dot the surface of Azgaarnoth:
 
 
 ### Dragonbound (from *The Book of Dragons*)
-Dragonbound are always either members of the [Draconic Order]() or the [CultOfTheWyrm](); given that actual dragons (as opposed to their agents or the Order) are exceedingly rare in the world, a dragonbound will be an immediate target for both groups as soon as even the slightest whisper of their existence leaks forth--campaigns involving a dragonbound should expect to be fast, furious, and epic.
+Dragonbound are always either members of the [Draconic Order](/Organizations/DraconicOrder/DraconicOrder.md) or the [CultOfTheWyrm](/Organizations/CultOfTheWyrm.md); given that actual dragons (as opposed to their agents or the Order) are exceedingly rare in the world, a dragonbound will be an immediate target for both groups as soon as even the slightest whisper of their existence leaks forth--campaigns involving a dragonbound should expect to be fast, furious, and epic.
 
 ### Druid
 Druids follow the path of [Druidism](/Religions/Druidism.md) and carve their own path.
+
+[Additional Circles](/Supplements/UA_Druid.pdf) (the Circle of Dreams, Circle of the Shepherd, and Circle of Twilight) are available to Azgaarnothian druids.
 
 Druids following the Circle of Dragons (from *The Book of Dragons*) will almost inevitably come under the eye of the [Draconic Order](/Organizations/DraconicOrder/DraconicOrder.md), most likely one of the [Copper](/Organizations/DraconicOrder/Copper.md), for security.
 
@@ -68,6 +70,8 @@ Champion Martial Archetypes are frequently found in [Mercenary Companies](/Organ
 Battle Master Martial Archetypes are frequently found in [Mercenary Companies](/Organizations/MercCompanies/MercCompanies.md), and often at some point study at the Great Academy maintained by the [Order of the Bronze Dragon](/Organizations/DraconicOrder/Bronze.md).
 
 Eldritch Knight Martial Archetypes are often found near or around [Mage Schools](/Organizations/MageSchools/MageSchools.md), particularly the [FieryFist](/Organizations/MageSchools/FieryFirst.md) or [CrimsonSunrise](/Organizations/MageSchools/CrimsonSunrise.md) schools; that said, there are dozens of mage schools that focus on combat magic, and an Eldritch Knight would be welcome in any of them.
+
+[Mariner Martial Archetypes](/Supplements/UA_Waterborne_v3.pdf) are common on any of the ships that ply the Deepwaters.
 
 Dragon Knight Martial Archetypes (from *The Book of Dragons*) are members of a [Draconic Order](/Organizations/DraconicOrder/DraconicOrder.md), usually the [Gold](/Organizations/DraconicOrder/Gold.md) or the [Bronze](/Organizations/DraconicOrder/Bronze.md).
 
@@ -95,6 +99,13 @@ Rangers who wish to join a Conclave of Dragonstalkers (from *The Book of Dragons
 
 ### Rogue
 The [Soulknife Roguish Archetype](/Supplements/UA-PsychicSoulPsionics.pdf) usually manifest on their own, with no master needed, but rumors persist of a Rogues' Guild of assassins that seek to bring all of the Soulknives in the world under their control (or at least within their influence).
+
+The [Swashbuckler Roguish Archetype](/Supplements/UA_Waterborne_v3.pdf) is quite common in many of the cities in Azgaarnoth, and in fact many of the larger cities sport [Dueling Colleges](/Organizations/DuelingColleges.md) for both sport, decisions of honor, or even simply exercise.
+
+### Sorcerer
+[Storm sorcerers](/Supplements/UA_Waterborne_v3.pdf) are extremely common among the *al'maera* of the [Al'Uma](/Cultures/AlUma.md).
+
+[Firespeakers](/Supplements/Class/FireSpeakers.md) are rare among most races, but appear more commonly among the dwarvish genetic tree (dwarves and their subraces, and gnomes and their subraces; halflings do not seem to manifest it often).
 
 ### Warlock
 

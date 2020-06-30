@@ -21,8 +21,8 @@ Centaurs are found among the lands of the Hordes ([Ulm](/Nations/Ulm.md) and [Tr
 Kobolds are thought to be the remnants of the first experiments of the [Eldar](Eldar.md) to create [dragonborn](Created.md), but saying such to any dragonborn is insulting and typically grounds for feud or duel. Nevertheless, the shared draconic lineage between kobold and dragonborn is hard to miss, and some scholars believe that at some point, there was some shared history of the two races.
 
 ## Minotaurs
-(from [*UA: Centaurs*](/Supplements/UA-Centaur.pdf))
-Minotaurs are found among the lands of the Hordes ([Ulm](/Nations/Ulm.md) and [Tragekia](/Nations/Tragekia.md)), as well as in the wilds of [North Bedia](/Nations/Bedia.md). Minotaurs may be of any alignment, and can expect suspicion when moving around in any of the other lands beyond the Hordeslands.
+(from [*UA: Centaurs*](/Supplements/UA-Centaur.pdf) or [*UA: Waterborne*](/Supplements/UA_Waterborne_v3.pdf))
+Minotaurs are found among the lands of the Hordes ([Ulm](/Nations/Ulm.md) and [Tragekia](/Nations/Tragekia.md)), as well as in the wilds of [North Bedia](/Nations/Bedia.md). Minotaurs may be of any alignment, and can expect suspicion when moving around in any of the other lands beyond the Hordeslands. (Note that many minotaurs do take to the seas, so the Sea Ravers template from *UA: Waterborne* should be considered for these; however, these are not minotaurs of Krynn, and do not come from that society.)
 
 ## Trolls
 
