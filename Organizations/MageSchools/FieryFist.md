@@ -1,4 +1,6 @@
-# Mage School: Fiery Fist (Home: [Mighal](/Cities/Mighal))
+# Mage School: Fiery Fist
+Home: [Mighal](/Cities/Mighal)
+
 Fiery Fist magi are focused on combat, and in particular, serving as the "heavy artillery" in any fight. They look to bring extremely loud, powerful, high-damage magic to bear on any conflict, and since most situations are likely ready to erupt into conflict, they are always ready to toss a fireball into whatever situation faces them. As a result, they are often found charging into the front lines of any combat, from which they can toss their spells of death, engage their enemies, and defeat their foes.
 
 Fiery Fist magi are usually not found within cities, except when taking leave from a combat unit or traveling between assignments.

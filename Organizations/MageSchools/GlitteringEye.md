@@ -1,4 +1,6 @@
 # Mage School: Glittering Eye
+Home:
+
 The Glittering Eye school is focused on misdirection, illusion, and the presentation of things that aren't as they really are... or masking reality in favor of a different reality. Who's to say what's real, what's not real, and what's the product of hard work?
  
 Glittering Eye members are often as flamboyant as they are secretive--the less the world knows about the true goings-on inside the school, the better, for all the better to confuse the world when nobody knows what the truth really is. Since illusion can also be woven with more than just magic, or put another way, the belief in the magic can be enhanced through the use of mundane means, Glittering Eye members often include those that aren't magical at all--psionicists often find a home here, as do straight charlatans and disguise-forgers.
