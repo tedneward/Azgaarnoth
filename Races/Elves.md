@@ -1,6 +1,8 @@
 # Elves
 
-The following traits are true of all elves (except for the gith).
+Elves may be [dragonmarked](Dragonmarked.md) with the Mark of Shadow; see that entry for details.
+
+The following traits are true of all elves.
 
 * **Ability Score Increase**. Your Dexterity score increases by 2.
 

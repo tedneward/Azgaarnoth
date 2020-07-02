@@ -3,6 +3,8 @@ There are no halfling "subraces", per se, but halflings will identify closely wi
 
 It is rumored that many halflings are also high-ranking members of various Rogues' Guilds, including some of the most nefarious assassin organizations, but this has never been proven.
 
+Halflings may be [dragonmarked](Dragonmarked.md) with the Mark of Healing or the Mark of Hospitality; see that entry for details.
+
 ### Lightfoot and Stout halflings
 These halflings are pretty intermixed amongst each other by this point in Azgaarnoth's history, and no non-halfling can tell them apart. Culturally, there is no difference or differentiation between them.
 

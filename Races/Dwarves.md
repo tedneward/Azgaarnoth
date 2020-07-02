@@ -1,5 +1,7 @@
 # Dwarves
 
+Dwarves may be [dragonmarked](Dragonmarked.md) with the Mark of Warding; see that entry for details.
+
 * Ability Score Increase. Your Constitution score increases by 2.
 
 * Age. Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.

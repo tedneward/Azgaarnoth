@@ -3,11 +3,12 @@ The "halves" races are always mixed-parent offspring, and as such will frequentl
 
 ## Half-Elves
 
+Half-elves may be [dragonmarked](Dragonmarked.md) with the Mark of Detection or the Mark of Storm; see that entry for more details.
 
 
 ## Half-Orcs
 
-
+Half-orcs may be [dragonmarked](Dragonmarked.md) with the Mark of Finding; see that entry for more details.
 
 ## Half-Dragons
 (from The Book of Dragons)
