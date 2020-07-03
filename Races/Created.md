@@ -7,6 +7,9 @@ While the origins of the [elves](Firstborn.md) are thought to be wrapped up in t
 ## Dragonkin(Dragonkin.md)
 Dragonkin are also a Created race, though their actual history is more murky. Many seem to be of chromatic descent, making them less trustworthy than their Dragonborn cousins, and would explain for the two races' intrinsic hatred of each other. Dragonkin are often found among the [Hordes](Hordes.md), albeit in small numbers, which would lend credence to their chromatic backgrounds, but an equal number are found in the lands of [North Bedia](/Geography/Bedia.md), which certainly would not. Regardless, dragonkin do walk the lands of Azgaarnoth.
 
+## [Dragonmarked](Dragonmarked.md)
+A dragonmark is a mystic sigil that appears on the skin. The mark is a source of mystical power and enhances the bearer’s ability to perform certain tasks.
+
 ## [Tiefling](Tiefling.md)
 That tieflings are a Created race is also clear and unmistakable--where the mystery lies is from which fiendish line they originate. Tieflings will often form exclusive communities of their own, which is not surprising given the prejudice they frequently encounter. What is not widely known is that tieflings can mate with humans, and the second- or third-generation product of such unions usually have lost all vestiges of their ancestral fiendish roots; even many first-generation tiefling/human unions find their tiefling heritage absent.
 

@@ -5,4 +5,3 @@ Humans may be [dragonmarked](Dragonmarked.md) with the Mark of Handling, the Mar
 
 Human society is broken into several distinct cultures: [Al'Uma](/Cultures/AlUma.md), [Gozdor](/Cultures/Gozdor.md), [Anor](/Cultures/Anor.md), and [Dail](/Cultures/Dail.md).
 
-
