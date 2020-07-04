@@ -70,7 +70,7 @@ You produce your artificer spell effects through your tools. You must have a spe
 After you gain the Infuse Item feature at 2nd level, you can also use any item bearing one of your infusions as a spellcasting focus.
 
 ### Cantrips
-At 1st level, you know two cantrips of your choice from the [artificer spell list](/Spells/Artificer.md). At higher levels, you learn additional artificer cantrips of your choice, as shown in the Cantrips Known column of the Artificer table.
+At 1st level, you know two cantrips of your choice from the [artificer spell list](/Magic/Spells/Artificer.md). At higher levels, you learn additional artificer cantrips of your choice, as shown in the Cantrips Known column of the Artificer table.
 
 When you gain a level in this class, you can replace one of the artificer cantrips you know with another cantrip from the artificer spell list.
 
