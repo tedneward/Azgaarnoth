@@ -1,7 +1,7 @@
 # Liria
-Government: Confederation/Empire
-Capital: [Flakew](/Cities/Flakew.md)
-Population: 6+ million
+* **Government**: Confederation/Empire
+* **Capital**: [Flakew](/Cities/Flakew.md)
+* **Population**: 6+ million (~40% human, ~40% firstborn, ~15% Created, ~5% other)
 
 Dominant nation in Azgaarnoth. Originally Liria spanned all of the west and south, with the Hordes alone confronting them in the east (near where the [Principality of Yilith](Yilith.md) lies now). Liria is an "old" nation, and many of her cities have ruins of previous generations of city buildings lying beneath them, having been razed somewhere in their history and then rebuilt.
 
