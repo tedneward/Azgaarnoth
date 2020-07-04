@@ -74,7 +74,7 @@ At 1st level, you know two cantrips of your choice from the [artificer spell lis
 
 When you gain a level in this class, you can replace one of the artificer cantrips you know with another cantrip from the artificer spell list.
 
-### Preparing and Casting Spells
+## Preparing and Casting Spells
 The Artificer table shows how many spell slots you have to cast your artificer spells. To cast one of your artificer spells of 1st level or higher, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
 You prepare the list of artificer spells that are available for you to cast, choosing from the artificer spell list. When you do so, choose a number of artificer spells equal to your Intelligence modifier + half your artificer level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
@@ -106,7 +106,7 @@ Your infusion remains in an item indefinitely, but when you die, the infusion va
 You can infuse more than one nonmagical object at the end of a long rest; the maximum number of objects appears in the Infused Items column of the Artificer table. You must touch each of the objects, and each of your infusions can be in only one object at a time. If you try to exceed your maximum number of infusions, the oldest infusion immediately ends, and then the new infusion applies.
 
 ## Artificer Specialist
-At 3rd level, you choose the type of specialist you are: [Alchemist](Alchemists.md), [Archivist](Archivists.md), [Artillerist](Artillerists.md), or [Battle Smith](BattleSmiths.md). Your choice grants you features at 3rd level and again at 6th and 14th level.
+At 3rd level, you choose the type of specialist you are: [Alchemist](Alchemists.md), [Archivist](Archivists.md), [Armorer](Armorer.md), [Artillerist](Artillerists.md), or [Battle Smith](BattleSmiths.md).
 
 ### Tool Expertise
 Starting at 3rd level, your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.
@@ -117,7 +117,7 @@ When you reach 4th, 8th, 12th, 16th, and 19th level, you can increase one abilit
 ### Arcane Armament
 Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn, but one of the attacks must be made with a magic weapon, the magic of which you use to propel the attack.
 
-## The Right Cantrip for the Job
+### The Right Cantrip for the Job
 At 10th level, you gain the ability to make sure you have the right magical tool for a job. Whenever you finish a short or long rest, you can replace one of the artificer cantrips you know with another cantrip from the artificer spell list.
 
 ### Spell-Storing Item
@@ -135,6 +135,22 @@ The description of each infusion tells you the type of item that can receive it.
 
 Some infusions specify a minimum artificer level. You can’t learn such an infusion until you are at least that level.
 Unless an infusion’s description says otherwise, you can’t learn the infusion more than once.
+
+#### Armor of Magical Strength
+*Prerequisite*: 10th-level artificer
+
+*Item*: A suit of armor (requires attunement)
+
+While wearing this armor, a creature can use its Intelligence modifier in place of its Strength modifier when making Strength checks and Strength saving throws.
+
+The armor has 4 charges. As a reaction when it would be knocked prone, the wearer can expend 1 charge to not be knocked prone. The armor regains 1d4 expended charges daily at dawn.
+
+#### Armor of Tools
+*Item*: A suit of armor
+
+As an action, a creature wearing this infused armor can integrate into it artisan’s tools or thieves’ tools. The tools remain integrated in the armor for 8 hours or until the wearer removes the tools as an action. The armor can have only one tool integrated at a time.
+
+The wearer can add its Intelligence modifier to any ability checks it makes with the integrated tool. The wearer must have a hand free to use the tool.
 
 #### Boots of the Winding Path
 *Prerequisite*: 4th-level artificer
@@ -163,6 +179,13 @@ This magic weapon grants a +1 bonus to attack and damage rolls made with it.
 
 The bonus increases to +2 when you reach 12th level in this class.
 
+#### Helm of Awareness
+*Prerequisite*: 10th-level artificer 
+
+*Item*: A helmet (requires attunement)
+
+While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can’t be surprised, provided it isn’t incapacitated.
+
 #### Many-Handed Pouch
 *Prerequisite*: 4th-level artificer 
 
@@ -171,6 +194,11 @@ The bonus increases to +2 when you reach 12th level in this class.
 The infused pouches all share one interdimensional space of the same capacity as a single pouch. Thus, reaching into any of the pouches allows access to the same storage space. A pouch operates as long as it is within 100 miles of another one of the pouches; the pouch is otherwise empty and won’t accept any contents.
 
 If this infusion ends, the items stored in the shared space move into one of the pouches, determined at random. The rest of the pouches become empty.
+
+#### Mind Sharpener
+*Item*: A suit of armor or robes
+
+The infused item can send a jolt to the wearer to refocus their mind. While wearing this infused item, whenever the creature fails a Constitution saving throw to maintain concentration on a spell, it can use its reaction to succeed instead.
 
 #### Radiant Weapon
 *Prerequisite*: 8th-level artificer
@@ -274,3 +302,10 @@ While wearing this armor, a creature has resistance to one of the following dama
 *Item*: A simple or martial weapon with the thrown property
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder’s hand immediately after it is used to make a ranged attack.
+
+#### Spell-Refueling Ring
+*Prerequisite*: 6th-level artificer 
+
+*Item*: A ring (requires attunement)
+
+While wearing this ring, the creature can recover one expended spell slot as an action. The maximum level of the recovered slot is equal to the number of magic items the wearer is currently attuned to. Once used, the ring can’t be used again until the next dawn.

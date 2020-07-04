@@ -21,6 +21,7 @@ Sourebooks used, all 5th Edition unless noted otherwise:
 
 All copyrights are held by their respective owners; I have only included the PDFs of freely-available material from the D&D website as a convenience to my players, and anyone not a part of my play group should obtain the materials from there, instead.
 
+Note that much of this material is moving over into specific entries, so I can better control the customization and application of the material to the world.
 
 ## Races
 The world used to belong to the [Eldar](/Races/Eldar.md) but they have long disappeared. [Humans](/Races/Human.md) are the numerically dominant (~50%) race. Dwarves and elves are plentiful, not restricted to traditional roles or geography, and are referred to as the [Firstborn](/Races/Firstborn.md). Dragonborn, tieflings, and aasimar were/are [Created](/Races/Created.md). Players seeking to play a non-traditional race almost certainly come from the [Hordes](/Races/Hordes.md) somewhere in their background.
@@ -32,9 +33,7 @@ The world used to belong to the [Eldar](/Races/Eldar.md) but they have long disa
 
 ## Classes
 
-### [Artificer](/Supplements/UA-Artificer2.pdf)
-This includes the [Armorer](/Supplements/UA2020-Subclasses.pdf) subclass.
-
+### [Artificer](Classes/Artificer.md)
 Artificers are almost always recruited at some point by [Merchant Guilds](/Organizations/MerchantGuilds/MerchantGuilds.md), [Mercenary Companies](/Organizations/MercCompanies/MercCompanies.md), or the [Order of the Steel Dragon](/Organizations/DraconicOrder/Steel.md), in that order, depending on the level/quality of the work produced by the artificer. (The Steels want only the best as part of their Order, and the merchants want anything they can sell regardless of quality.)
 
 Rumors persist that the [Dread Emperor](/People/DreadEmperor.md) has been known to kidnap promising artificers, and force them to artifice on his behalf.
@@ -82,7 +81,7 @@ Dragonbound are always either members of the [Draconic Order](/Organizations/Dra
 ### Druid
 Druids follow the path of [Druidism](/Religions/Druidism.md) and carve their own path.
 
-[Additional Circles](/Supplements/UA_Druid.pdf) (the Circle of Dreams, Circle of the Shepherd, and Circle of Twilight) are available to Azgaarnothian druids. The [Circle of Spores](/Supplements/UA-3) is available to those druids who find that calling, though they are often not welcome within cities or mercenary camps. [Circle of Stars](/Supplements/UA2020-Subclasses.pdf) druids believe they are following in the footsteps of the study of the [Eldar](/Races/Eldar.md), and claim to be a long tradition dating back to the days before the Fall.
+[Additional Circles](Druid.md) (the Circle of Dreams, Circle of the Shepherd, and Circle of Twilight) are available to Azgaarnothian druids. The [Circle of Spores](/Supplements/UA-3) is available to those druids who find that calling, though they are often not welcome within cities or mercenary camps. [Circle of Stars](/Supplements/UA2020-Subclasses.pdf) druids believe they are following in the footsteps of the study of the [Eldar](/Races/Eldar.md), and claim to be a long tradition dating back to the days before the Fall.
 
 Druids following the Circle of Dragons (from *The Book of Dragons*) will almost inevitably come under the eye of the [Draconic Order](/Organizations/DraconicOrder/DraconicOrder.md), most likely one of the [Copper](/Organizations/DraconicOrder/Copper.md), for security.
 
@@ -103,8 +102,6 @@ Dragon Knight Martial Archetypes (from *The Book of Dragons*) are members of a [
 Dragon Slayer Martial Archetypes (from *The Book of Dragons*) are only available to characters who have close ties to the [Dread Emperor](/People/DreadEmperor.md) of [Dradehalia](/Nations/Dradehalia.md); any Dragon Slayer met by any member of a [Draconic Order](/Organizations/DraconicOrder/DraconicOrder.md) will often be attacked on sight.
 
 [Psi Knight Martial Archetypes](/Supplements/UA2020_PsionicOptions.pdf) are only available to characters who have close ties to the [MindMage](/Organizations/MageSchools/MindMage.md) mage school. They will be welcome among any [Mercenary Company](/Organizations/MercCompanies/MercCompanies.md) if they wish to take employment.
-
-[Rune Knight Martial Archetypes](/Supplements/UA-RuneSwarmRevisited.pdf) are relatively rare throughout Azgaarnoth, but often have worked with or for the [School of the Eldar](/Organizations/MageSchools/SchoolOfTheEldar.md)
 
 
 ### Monk

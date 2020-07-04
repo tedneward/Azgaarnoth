@@ -1,5 +1,4 @@
 # Artificer Specialist: Alchemist
-
 An Alchemist is an expert at combining exotic reagents to produce mystical effects. Among
 artificers, members of this subclass are the greatest healers, as well as the ones most adept at wielding dangerous chemicals.
 
