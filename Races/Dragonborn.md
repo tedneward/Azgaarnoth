@@ -5,23 +5,17 @@ Platinum dragonborn (from The Book of Dragons) are found within Azgaarnoth, thou
  
 Dragonborn, though not nearly as numerous as humans, are found throughout Azgaarnoth, in almost any climate or environment.
 
-## Ability Score increase
-Your Strength score increases by 2, and your Charisma score increases by 1.
+* **Ability Score increase**. Your Strength score increases by 2, and your Charisma score increases by 1.
 
-## Age
-Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.
+* **Age**. Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.
 
-## Alignment
-Dragonborn tend towards extremes, making a conscious choice for one side or the other between Good and Evil (represented by Bahamut and Tiamat, respectively). More side with Bahamut than Tiamat (whose non-dragon followers are mostly kobolds), but villainous dragonborn can be quite terrible indeed. Some rare few choose to devote themselves to lesser dragon deities, such as Chronepsis (Neutral), and fewer still choose to worship Io, the Ninefold Dragon, who is all alignments at once.
+* **Alignment**. Dragonborn tend towards extremes, making a conscious choice for one side or the other between Good and Evil (represented by Bahamut and Tiamat, respectively). More side with Bahamut than Tiamat (whose non-dragon followers are mostly kobolds), but villainous dragonborn can be quite terrible indeed. Some rare few choose to devote themselves to lesser dragon deities, such as Chronepsis (Neutral), and fewer still choose to worship Io, the Ninefold Dragon, who is all alignments at once.
 
-## Size
-Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.
+* **Size**. Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.
 
-## Speed
-Your base walking speed is 30 feet.
+* **Speed**. Your base walking speed is 30 feet.
 
-## Languages
-You can read, speak, and write Common and Draconic.
+* **Languages**. You can read, speak, and write Common and Draconic.
 
 ## Draconic Ancestry
 You are distantly related to a particular kind of dragon. Choose a type of dragon; this determines the damage and area of your breath weapon, and the type of resistance you gain.
@@ -42,8 +36,8 @@ Platinum | ? | ?
 Silver |	Cold | 15' cone (CON save)
 Steel | ? | ?
 
-## Breath Weapon
+### Breath Weapon
 You can use your action to exhale destructive energy. It deals damage in an area according to your ancestry. When you use your breath weapon, all creatures in the area must make a saving throw, the type of which is determined by your ancestry. The DC of this saving throw is 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increase to 3d6 at 6th level, 4d6 at 11th, and 5d6 at 16th level. You may use your breath weapon a number of times equal to your Constitution modifier. You regain expended uses on a long rest.
 
-## Damage Resistance
+### Damage Resistance
 You have resistance to the damage type associated with your ancestry.

@@ -37,30 +37,30 @@ Zhi is made up of four provinces:
 * **Cinhu** is made up of two "fragments" of land: the Island of Cinhu off the Zhian northwestern coast, and a small portion of land purchased from the Dheubpurwen tribe of the Yithi. These lands seem to be given over almost entirely to the [yuan-ti](/Races/YuanTi.md) and [lizardfolk](/Races/Lizardfolk.md) 
 
 ## Relations
-[Alalihat](Alalihat.md):
+**[Alalihat](Alalihat.md)**:
 
-[Almalz](Almalz.md):
+**[Almalz](Almalz.md)**:
 
-[Bagonbia](Bagonbia.md): Neutral.
+**[Bagonbia](Bagonbia.md)**: Neutral.
 
-[Bedia](Bedia.md): Neutral. Zhi has almost no contact with Bedia.
+**[Bedia](Bedia.md)**: Neutral. Zhi has almost no contact with Bedia.
 
-[Dradehalia](Dradehalia.md): Suspicion.
+**[Dradehalia](Dradehalia.md)**: Suspicion.
 
-[Liria](Liria.md):
+**[Liria](Liria.md)**:
 
-[Mighalia](Mighalia.md):
+**[Mighalia](Mighalia.md)**:
 
-[Tragekia](Tragekia.md):
+**[Tragekia](Tragekia.md)**:
 
-[Travenia](Travenia.md):
+**[Travenia](Travenia.md)**:
 
-[Travesimia](Travesimia.md):
+**[Travesimia](Travesimia.md)**:
 
-[Ulm](Ulm.md):
+**[Ulm](Ulm.md)**:
 
-[Whaveminsia](Whaveminsia.md):
+**[Whaveminsia](Whaveminsia.md)**:
 
-[Yithi](Yithi.md): 
+**[Yithi](Yithi.md)**: 
 
-[Zabalasa](Zabalasa.md):
+**[Zabalasa](Zabalasa.md)**:

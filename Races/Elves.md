@@ -50,6 +50,7 @@ High elves and wood elves are, by this point in Azgaarnoth's history, fairly wel
 
 ## Eladrin
 (from [*UA: EladrinGith*](/Supplements/UA-Eladrin-Gith.pdf))
+
 Eladrin are elves native to the Feywild, a realm of beauty, unpredictable emotion, and boundless magic.  They are most often found in the wilds of [North Bedia](/Nations/Bedia.md), or on any of the scattered islands around Azgaarnoth. Intriguingly, they are also commonly found in the lands of the [Hordes](/Races/Hordes.md), without being forced into extensive combat against their neighbors.
 
 An eladrin is associated with one of the four seasons and has coloration reminiscent of that season, which can also affect the eladrin's mood:
@@ -78,16 +79,32 @@ Some eladrin remain associated with a particular season for their entire lives, 
 
 ## Avariel ("Winged Elves")
 (from [*UA: ElfSubraces*](/Supplements/UA-ElfSubraces.pdf))
-If the avariel are present on Azgaarnoth, they do an excellent job keeping themselves hidden from common sight. Nevertheless, the avariel were some of the first elves created as part of the Eldars' Firstborn, and many were tasked with supporting and pairing with the dragons that partnered with the Eldar. Legend held that they often lived in great aeyries in the highest mountains.
+
+The avariel are winged elves. If the avariel are still present on Azgaarnoth, they do an excellent job keeping themselves hidden from common sight. Nevertheless, the avariel were some of the first elves created as part of the Eldars' Firstborn, and many were tasked with supporting and pairing with the dragons that partnered with the Eldar. Legend held that they often lived in great aeyries in the highest mountains.
+
+* **Flight**. You have a flying speed of 30 feet. To use this speed, you can’t be wearing medium or heavy armor.
+
+* **Languages**. You can speak, read, and write Auran.
 
 
 ## Grugach ("Wild Elves")
 (from [*UA: ElfSubraces*](/Supplements/UA-ElfSubraces.pdf))
+
 The grugach are those elves that sought to escape the world into the wilds, and for the most part, they reside almost exclusively in [North Bedia](/Nations/Bedia.md) in the wilderness far from any civilization. Periodically, a young grugach will seek a different path, and venture into civilization, and these often make fierce scouts or rangers, either in partnership with druids or working on behalf of a [Mercenary Company](/Organizations/MercCompanies/MercCompanies.md), particularly in the incessant battles on [Chidia](/Geography/Chidia.md). Grugach look almost identical to any other elves, and so will generally not raise an eyebrow when seen.
 
+If anyone is fool enough to disturb a grugach realm, these elves take to arms and fight in earnest. Grugach master the basic weapons needed to hunt and forage in the wood. Every copse of trees becomes a sniper’s nest, and each forest meadow is an ambush point. The grugach set pits filled with stakes, snares that leave an intruder helpless to grugach arrows, and other snares designed to kill rather than capture. The grugach fight to the death to preserve their realms.
+
+* **Ability Score Increase**. Your Strength score increases by 1.
+
+* **Grugach Weapon Training**. You have proficiency with the spear, shortbow, longbow, and net.
+
+* **Cantrip**. You know one cantrip of your choice from the druid spell list. Wisdom is your spellcasting ability for it.
+
+* **Languages**. Unlike other elves, you don’t speak, read, or write Common. You instead speak, read, and write Sylvan.
 
 ## Maerach ("Sea Elves")
 (from [*UA: ElfSubraces*](/Supplements/UA-ElfSubraces.pdf))
+
 The maerach are those elves that chose the oceans and seas as their home, and with Eldar assistance, came to own them as any other elf does their woods. The maerach discovered, however, that like the lands they had left, the seas were also home to numerous creatures that sought mastery and domination. Maerach have found themselves in conflict with these creatures of the Undersea ever since. Fortunately, the maerach retain their ability to breath air, and have often aided surface mortals against the creatures of the Undersea in exchange for knowledge, tactics, and sometimes even mercenary help. Individual maerach are sometimes dispatched to the surface to learn of events there, carry messages, and create friendships, and a few port cities are even called "home" to some maerach who find the surface interesting. Maerach look strikingly similar to elves, aside from a small set of gills set just below their ears, which long hair (worn loosely) can usually hide.
 
 * **Ability Score Increase**. Your Constitution score increases by 1.
@@ -103,6 +120,7 @@ The maerach are those elves that chose the oceans and seas as their home, and wi
 
 ## Shadar-kai ("Shadow Elves")
 (from [*UA: ElfSubraces*](/Supplements/UA-ElfSubraces.pdf))
+
 These elves remain a mystery even to their kin--their origins are lost, their homes are undiscovered, and their motives and allegiances are absolutely indiscernible. Individual shadar-kai have been seen wandering the world, identifiable more by their piercings and tatoos than anything else, leaving many to wonder if other shadar-kai, unpierced and untattooed, also wander the world--and why.
 
 Eladrin and shadar-kai are like reflections of each other: one bursting with emotion, the other nearly devoid of it.
