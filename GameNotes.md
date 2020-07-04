@@ -140,8 +140,6 @@ The [Soulknife Roguish Archetype](/Supplements/UA2020_PsionicOptions.pdf) usuall
 
 The [Swashbuckler Roguish Archetype](/Supplements/UA_Waterborne_v3.pdf) is quite common in many of the cities in Azgaarnoth, and in fact many of the larger cities sport [Dueling Colleges](/Organizations/DuelingColleges.md) for both sport, decisions of honor, or even simply exercise.
 
-The [Revived Roguish Archetype](/Supplements/UA-RuneSwarmRevived.pdf) are often found in [Dradehalia](/Nations/Dradehalia.md); whether this is because that nation has been through so much conflict and war that they're more common to revive, or something darker to do with the [Dread Emperor](/People/DreadEmporer.md)'s willingness to explore dark activities is not clear.
-
 
 ### Sorcerer
 [Storm sorcerers](/Supplements/UA_Waterborne_v3.pdf) are extremely common among the *al'maera* of the [Al'Uma](/Cultures/AlUma.md).

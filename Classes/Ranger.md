@@ -1,5 +1,5 @@
-# Class: Ranger
+# Ranger
 
 
 ## Ranger Archetype
-[FeyWanderer](FeyWanderer.md), [Swarmkeeper](Swarmkeeper.md)
+[FeyWanderer](Ranger/FeyWanderer.md), [Swarmkeeper](Ranger/Swarmkeeper.md)

@@ -1,4 +1,7 @@
 # Dragonmarked
+[Dragonmarked](/Supplements/UA_Dragonmarks.pdf) are generally "born wild" and, once known, very quickly hunted down by either the [Draconic Order](/Organizations/DraconicOrder/DraconicOrder.md) or the [Cult of the Wyrm](/Organizations/CultOfTheWyrm.md), to either recruit or destroy. Dragonmarked are not part of a particular [noble House](/Organizations/Houses/Houses.md), but bloodlines do carry, and many of the noble Houses carry the dragonmark within their bloodlines... as do most of the other races by this point in Azgaarnoth's history, although perhaps not as strongly as the nobility. 
+
+It is believed that the dragonmark dates back to the very earliest days of the [Eldar](/Races/Eldar.md), and that the Eldar handed out the dragonmark to favored [Firstborn](/Races/Firstborn.md) or [humans](/Races/Humans.md) as rewards for excellent service. No [Created](/Races/Created.md) have ever borne a dragonmark, and for many milennia, it was believed that no [Hordes](/Races/Hordes.md)ish race could bear one, but time has proven since that to be a false assumption.
 
 Dragonmarks are associated with race and are represented by a combination of variant races and subraces.
 * For humans, a dragonmark is a variant race that replaces the normal traits associated with those races.
@@ -164,3 +167,10 @@ The Mark of Warding manifests exclusively on dwarves. If your character has the 
 Ability Score Increase. Your Dexterity and Intelligence scores increase by 1.
 Master of Locks. When you make an Intelligence (History), Intelligence (Investigation), or Thieves' Tools check involving lock and trap mechanisms, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
 Wards and Seals. You can use your mark to cast the alarm spell as a ritual. Starting at 3rd level you can cast arcane lock once with this trait and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for these spells.
+
+
+## Greater Dragonmark Feat
+TODO
+
+## Aberrant Dragonmark Feat
+TODO

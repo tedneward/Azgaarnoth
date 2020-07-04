@@ -1,4 +1,4 @@
-# Class: Artificers
+# Artificer
 Masters of unlocking magic in everyday objects, artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting temporary and permanent magical objects. To cast a spell, an artificer could use alchemist’s supplies to create a potent elixir, calligrapher’s supplies to inscribe a sigil of power on an ally’s armor, or tinker’s tools to craft a temporary charm. The magic of artificers is tied to their tools and their talents.
 
 Level | Proficiency Bonus | Features | Infusions Known | Infused Items | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th
@@ -106,7 +106,7 @@ Your infusion remains in an item indefinitely, but when you die, the infusion va
 You can infuse more than one nonmagical object at the end of a long rest; the maximum number of objects appears in the Infused Items column of the Artificer table. You must touch each of the objects, and each of your infusions can be in only one object at a time. If you try to exceed your maximum number of infusions, the oldest infusion immediately ends, and then the new infusion applies.
 
 ## Artificer Specialist
-At 3rd level, you choose the type of specialist you are: [Alchemist](Alchemists.md), [Archivist](Archivists.md), [Armorer](Armorer.md), [Artillerist](Artillerists.md), or [Battle Smith](BattleSmiths.md).
+At 3rd level, you choose the type of specialist you are: [Alchemist](Alchemist.md), [Archivist](Archivist.md), [Armorer](Armorer.md), [Artillerist](Artillerist.md), or [Battle Smith](BattleSmith.md).
 
 ### Tool Expertise
 Starting at 3rd level, your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.

@@ -1,0 +1,48 @@
+# Cleric Domain: Order
+The Order domain represents discipline, as well as service to a society or an institution, whether that service is rendered in obedience to or enforcement of the law—-civil, religious, or both. [Kaevar](/Religions/KaevarianChurch.md) believes strongly in Order, or so his clergy claim, but it is well known in other religions as well, at least well enough for clerics to take it as a Divine Domain.
+
+The ideal of order is obedience to the law above all else, rather than to a specific individual or the passing influence of emotion or popular rule. Clerics of order are typically concerned with how things are done, rather than whether an action’s results are just. Following the law and obeying its edicts is critical, especially when it benefits these clerics and their deities.
+
+More importantly, law establishes hierarchies. Those selected by the law to lead must be obeyed. Those who obey must do so to the best of their ability. In this manner, law creates an intricate web of obligations that allows society to forge order and security in a chaotic multiverse.
+
+**Order Domain Features**
+Cleric Level | Feature
+------------ | -------
+1st | Bonus Proficiency, Voice of Authority
+2nd | Channel Divinity: Order’s Demand
+6th | Order’s Dominion
+8th | Divine Strike
+17th | Order’s Wrath
+
+## Domain Spells
+You gain domain spells at the cleric levels listed in the Order Domain Spells table. See the Divine Domain class feature for how domain spells work.
+
+**Order Domain Spells**
+Cleric Level | Spells
+------------ | ------
+1st | command, heroism
+3rd | enhance ability, hold person
+5th | mass healing word, slow
+7th | compulsion, locate creature
+9th | commune, dominate person
+    
+## Bonus Proficiency
+When you choose this domain at 1st level, you gain proficiency with heavy armor.
+
+## Voice of Authority
+Starting at 1st level, you can invoke the power of law to drive an ally to attack. Immediately after you cast a spell on an ally using a spell slot of 1st level or higher, that ally can use their reaction to make one weapon attack against a target of your choice that you can see. If the spell targets more than one ally, you choose the ally who can make the attack.
+
+## Channel Divinity: Order’s Demand
+Starting at 2nd level, you can use your Channel Divinity to exert an intimidating presence over others.
+
+As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be charmed by you until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the charmed creatures to fall prone when they fail the saving throw.
+
+## Order’s Dominion
+At 6th level, you become extraordinarily adept at channeling magical energy to compel others.
+When you cast a spell of the enchantment school using a spell slot of 2nd level or higher, you regain one expended spell slot. The slot you regain must be of a level lower than the spell you cast and can’t be higher than 5th level.
+
+## Divine Strike
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 force damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+
+## Order’s Wrath
+Starting at 17th level, enemies you designate for destruction wilt under the combined efforts of you and your allies. If you deal your Divine Strike damage to a creature, that creature takes an extra 2d8 force damage the first time each turn that any ally of yours hits it with a weapon attack. This benefit lasts until the start of your next turn.
