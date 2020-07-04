@@ -3,15 +3,15 @@ Masters of unlocking magic in everyday objects, artificers are supreme inventors
 
 Level | Proficiency Bonus | Features | Infusions Known | Infused Items | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th
 ----- | ----------------- | -------- | --------------- | ------------- | -------------- | --- | --- | --- | --- | ---
-1st | +2 | Magical Tinkering, Spellcasting      | - | - | 2 | 2 | - | - | - | -
-2nd | +2 | Infuse Item                          | 3 | 2 | 2 | 2 | - | - | - | -
-3rd | +2 | Artificer Specialist, Tool Expertise | 3 | 2 | 2 | 3 | - | - | - | -
-4th | +2 | Ability Score Improvement            | 4 | 2 | 2 | 3 | - | - | - | -
-5th | +3 | Arcane Armament                      | 4 | 2 | 2 | 4 | 2 | - | - | -
-6th | +3 | Artificer Specialist feature         | 4 | 3 | 2 | 4 | 2 | - | - | -
-7th | +3 | --                                   | 5 | 3 | 2 | 4 | 3 | - | - | -
-8th | +3 | Ability Score Improvement            | 5 | 3 | 2 | 4 | 3 | - | - | -
-9th | +4 | --                                   | 5 | 3 | 2 | 4 | 3 | 2 | - | -
+1st  | +2 | Magical Tinkering, Spellcasting      | - | - | 2 | 2 | - | - | - | -
+2nd  | +2 | Infuse Item                          | 3 | 2 | 2 | 2 | - | - | - | -
+3rd  | +2 | Artificer Specialist, Tool Expertise | 3 | 2 | 2 | 3 | - | - | - | -
+4th  | +2 | Ability Score Improvement            | 4 | 2 | 2 | 3 | - | - | - | -
+5th  | +3 | Arcane Armament                      | 4 | 2 | 2 | 4 | 2 | - | - | -
+6th  | +3 | Artificer Specialist feature         | 4 | 3 | 2 | 4 | 2 | - | - | -
+7th  | +3 | --                                   | 5 | 3 | 2 | 4 | 3 | - | - | -
+8th  | +3 | Ability Score Improvement            | 5 | 3 | 2 | 4 | 3 | - | - | -
+9th  | +4 | --                                   | 5 | 3 | 2 | 4 | 3 | 2 | - | -
 10th | +4 | The Right Cantrip for the Job       | 5 | 3 | 3 | 4 | 3 | 2 | - | -
 11th | +4 | --                                  | 6 | 4 | 3 | 4 | 3 | 3 | - | -
 12th | +4 | Ability Score Improvement           | 6 | 4 | 3 | 4 | 3 | 3 | - | -
@@ -108,22 +108,169 @@ You can infuse more than one nonmagical object at the end of a long rest; the ma
 ## Artificer Specialist
 At 3rd level, you choose the type of specialist you are: [Alchemist](Alchemists.md), [Archivist](Archivists.md), [Artillerist](Artillerists.md), or [Battle Smith](BattleSmiths.md). Your choice grants you features at 3rd level and again at 6th and 14th level.
 
-## Tool Expertise
+### Tool Expertise
 Starting at 3rd level, your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.
 
-## Ability Score Increase
+### Ability Score Increase
 When you reach 4th, 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-## Arcane Armament
+### Arcane Armament
 Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn, but one of the attacks must be made with a magic weapon, the magic of which you use to propel the attack.
 
 ## The Right Cantrip for the Job
 At 10th level, you gain the ability to make sure you have the right magical tool for a job. Whenever you finish a short or long rest, you can replace one of the artificer cantrips you know with another cantrip from the artificer spell list.
 
-## Spell-Storing Item
+### Spell-Storing Item
 When you reach 18th level, you learn how to store a spell in an object for repeated use. Whenever you finish a long rest, you can touch one simple or martial weapon or an item that you can use as a spellcasting focus and store a spell in it, choosing one 1st- or 2nd-level spell from the artificer spell list that requires 1 action to cast (you don’t need to have the spell prepared). With the object in hand, a creature can take an action to produce the spell’s effect from it, using your spellcasting ability modifier.
 
 The spell stays in the object until it has been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again.
 
-## Soul of Artifice
+### Soul of Artifice
 At 20th level, your understanding of magic items is unmatched, allowing you to mingle your soul with items linked to you. You can attune to up to six magic items at once. In addition, you gain a +1 bonus to all saving throws per magic item you are currently attuned to.
+
+## Artificer Infusions
+Artificers have invented numerous magical infusions that rapidly create magic items. To the untrained, artificers seem like wonderworkers, accomplishing in hours what others need weeks to complete.
+
+The description of each infusion tells you the type of item that can receive it. The description also tells you if the resulting magic item requires attunement.
+
+Some infusions specify a minimum artificer level. You can’t learn such an infusion until you are at least that level.
+Unless an infusion’s description says otherwise, you can’t learn the infusion more than once.
+
+#### Boots of the Winding Path
+*Prerequisite*: 4th-level artificer
+
+*Item*: A pair of boots (requires attunement)
+
+While wearing these boots, a creature can teleport up to 15 feet as a bonus action to an unoccupied space the creature can see. The creature must have occupied that space at some point during the current turn.
+
+#### Enhanced Defense
+*Item*: A suit of armor or a shield
+
+A creature gains a +1 bonus to Armor Class while wearing (armor) or wielding (shield) the infused item.
+The bonus increases to +2 when you reach 12th level in this class.
+
+#### Enhanced Wand
+*Item*: A wand (requires attunement)
+
+While holding this wand, a creature gains a +1 bonus to spell attack rolls. In addition, the creature ignores half cover when making a spell attack.
+
+The bonus increases to +2 when you reach 12th level in this class.
+
+#### Enhanced Weapon
+*Item*: A simple or martial weapon
+
+This magic weapon grants a +1 bonus to attack and damage rolls made with it.
+
+The bonus increases to +2 when you reach 12th level in this class.
+
+#### Many-Handed Pouch
+*Prerequisite*: 4th-level artificer 
+
+*Item*: 2–5 pouches
+
+The infused pouches all share one interdimensional space of the same capacity as a single pouch. Thus, reaching into any of the pouches allows access to the same storage space. A pouch operates as long as it is within 100 miles of another one of the pouches; the pouch is otherwise empty and won’t accept any contents.
+
+If this infusion ends, the items stored in the shared space move into one of the pouches, determined at random. The rest of the pouches become empty.
+
+#### Radiant Weapon
+*Prerequisite*: 8th-level artificer
+
+*Item*: A simple or martial weapon (requires attunement)
+
+This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.
+
+As a reaction immediately after being hit by a melee attack, the wielder can cause the attacker to be blinded until the end of the attacker’s next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. Once used, this reaction can’t be used again until the wielder finishes a short or long rest.
+
+#### Repeating Shot
+*Item*: A simple or martial weapon with the ammunition property (requires attunement)
+
+This magic weapon grants a +1 bonus to attack and damage rolls made with it when it’s used to make a ranged attack, and it ignores the loading property if it has it.
+
+The weapon requires no ammunition; it magically produces one piece of ammunition each time you make a ranged attack with it, unless you manually load it. The ammunition produced by the weapon vanishes the instant after the it hits or misses a target.
+
+#### Replicate Magic Item
+*Prerequisite*: See below
+
+Using this infusion, you replicate a particular magic item. You can learn this infusion multiple times; each time you do so, choose a different magic item that you can make with it, picking from the Replicable Magic Items tables below. If a table has a level in its title, you must be of at least that level in this class to choose an item from the table.
+
+In the tables, an item’s entry tells you whether the item requires attunement. See the item’s description in the *Dungeon Master’s Guide* for more information about it, including the type of object required for its making.
+
+**Replicable Magic Items**
+Magic Item | Attunement
+---------- | ----------
+Alchemy jug | No 
+Bag of holding | No 
+Cap of water breathing | No 
+Cloak of the manta ray | No 
+Goggles of night | No 
+Lantern of revealing | No 
+Rope of climbing | No 
+Sending stones | No
+Wand of magic detection | No 
+Wand of secrets No
+
+**Replicable Magic Items (12th-Level Artificer)**
+Magic Item | Attunement
+---------- | ----------
+Boots of elvenkind | No
+Boots of striding and springing | Yes
+Boots of the winterlands | Yes
+Bracers of archery | Yes
+Brooch of shielding | Yes
+Cloak of elvenkind | Yes
+Cloak of protection | Yes
+Eyes of charming | Yes
+Eyes of the eagle | Yes
+Gauntlets of ogre power | Yes
+Gloves of missile snaring | Yes
+Gloves of swimming and climbing | Yes
+Gloves of thievery | No
+Hat of disguise | Yes
+Headband of intellect | Yes
+Helm of telepathy | Yes
+Medallion of thoughts | Yes
+Periapt of wound closure | Yes
+Pipes of haunting | No
+Pipes of the sewers | Yes
+Quiver of Ehlonna | No
+Ring of jumping | Yes
+Ring of mind shielding | Yes
+Ring of water walking | No
+Slippers of spider climbing | Yes 
+Winged boots | Yes
+
+
+**Replicable Magic Items (16th-Level Artificer)**
+Magic Item | Attunement
+---------- | ----------
+Amulet of health | Yes
+Belt of hill giant strength | Yes 
+Boots of levitation | Yes 
+Boots of speed | Yes 
+Bracers of defense | Yes 
+Cloak of the bat | Yes 
+Dimensional shackles | No 
+Gem of seeing | Yes 
+Horn of blasting | No 
+Ring of free action | Yes 
+Ring of protection | Yes 
+Ring of the ram | Yes
+
+#### Repulsion Shield
+*Prerequisite*: 8th-level artificer 
+
+*Item*: A shield (requires attunement)
+
+A creature gains a +1 bonus to Armor Class while wielding this shield. While holding it, the wielder can use a reaction immediately after being hit by a melee attack to push the attacker up to 15 feet away. Once used, this reaction can’t be used again until the wielder finishes a short or long rest.
+
+#### Resistant Armor
+*Prerequisite*: 8th-level artificer
+
+*Item*: A suit of armor (requires attunement)
+
+While wearing this armor, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
+
+#### Returning Weapon
+*Item*: A simple or martial weapon with the thrown property
+
+This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder’s hand immediately after it is used to make a ranged attack.
