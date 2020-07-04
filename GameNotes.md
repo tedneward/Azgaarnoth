@@ -141,35 +141,9 @@ The [Soulknife Roguish Archetype](/Supplements/UA2020_PsionicOptions.pdf) usuall
 The [Swashbuckler Roguish Archetype](/Supplements/UA_Waterborne_v3.pdf) is quite common in many of the cities in Azgaarnoth, and in fact many of the larger cities sport [Dueling Colleges](/Organizations/DuelingColleges.md) for both sport, decisions of honor, or even simply exercise.
 
 
-### Sorcerer
-[Storm sorcerers](/Supplements/UA_Waterborne_v3.pdf) are extremely common among the *al'maera* of the [Al'Uma](/Cultures/AlUma.md).
-
-[Psionic Soul sorcerers](/Supplements/UA2020_PsionicOptions.pdf) 
-
-[Firespeakers](/Supplements/Class/FireSpeakers.md) are rare among most races, but appear more commonly among the dwarvish genetic tree (dwarves and their subraces, and gnomes and their subraces; halflings do not seem to manifest it often).
-
 
 ### Warlock
 
 
 ### Wizard
 The [Psionics Arcane Tradition](/Supplements/UA-PsychicSoulPsionics.pdf) is embodied in the [MindMage](/Organizations/MageSchools/MindMage.md) mage school, and most practitioners of this tradition hail from that school. A few "wilder" wizards may also have the tradition and are willing to teach, but these will be few and far between.
-
-
-## Feats
-
-[Metabolic Control](/Supplements/UA2020_PsionicOptions.pdf), [Telekinetic](/Supplements/UA2020_PsionicOptions.pdf), [Telepathic](/Supplements/UA2020_PsionicOptions.pdf), [Tower of Iron Will](/Supplements/UA2020_PsionicOptions.pdf), and [Wild Talent](/Supplements/UA2020_PsionicOptions.pdf) feats are all accessible to characters, under the usual justifications for feats.
-
-## Miscellaneous
-
-### Runes
-Runic knowledge is rare in Azgaarnoth, frequently because it is associated directly with the Eldar; it is thought that runes are, in their purest form, the expression of magic that the Eldar chose most often, or was their most powerful expression of magic (depending on which scholars are speaking on the subject). While mortals' understanding of runes is quite limited--and some scholars believe that runes only truly attained their full power when scribed by the Eldar--many scholars and magi continue to pursue the study of runes, seeking that breakthrough that will unlock the Eldars' power.
-
-Runes are openly studied at the tiny but well-funded [School of the Eldar](/Organizations/MageSchools/SchoolOfTheEldar.md). They are constantly on the hunt for new runes or new application of existing runes, and frequently journey to the corners of Azgaarnoth in the company of paid mercenaries/adventurers to conduct their research.
-
-### Magic Tattoos
-Tattoos are the [Hordes](/Races/Hordes.md)' expression of runes, inscribing magic into the skin rather than into another surface. The Hordes have long believed that the power of the tattoo exceeds that of the rune because the tattoo can draw upon the power of the body upon which is scribed, where runes must be imbued with power from the outside (the scribe, at the time of the scribing). This has never been demonstrated true or false in any event.
-
-Because of the origin of tattoos with the Hordes, in places where the Hordes are looked upon with suspicion (particularly [Dradehalia](/Nations/Dradehalia.md)), open tattoos are equally suspect and can cause negative reactions from surrounding onlookers. For the same reasons, [Yithia](/Nations/Yithi.md) and [Zhi](/Nations/Zhi.md) are quite comfortable with tattoos, and it is quite common to see nonmagical tattoos among the nobility there, which only fuels much of the ongoing hostility between those two nations and Dradehalia to the south.
-
-

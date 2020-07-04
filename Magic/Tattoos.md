@@ -1,0 +1,5 @@
+# Magic Tattoos
+Tattoos are the [Hordes](/Races/Hordes.md)' expression of runes, inscribing magic into the skin rather than into another surface. The Hordes have long believed that the power of the tattoo exceeds that of the rune because the tattoo can draw upon the power of the body upon which is scribed, where runes must be imbued with power from the outside, which the scribe, at the time of the scribing, must channel. This has never been demonstrated true or false in any event.
+
+Because of the origin of tattoos with the Hordes, in places where the Hordes are looked upon with suspicion (particularly [Dradehalia](/Nations/Dradehalia.md)), open tattoos are equally suspect and can cause negative reactions from surrounding onlookers. For the same reasons, [Yithia](/Nations/Yithi.md) and [Zhi](/Nations/Zhi.md) are quite comfortable with tattoos, and it is quite common to see nonmagical tattoos among the nobility there, which only fuels much of the ongoing hostility between those two nations and Dradehalia to the south.
+

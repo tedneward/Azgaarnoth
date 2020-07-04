@@ -70,7 +70,7 @@ You produce your artificer spell effects through your tools. You must have a spe
 After you gain the Infuse Item feature at 2nd level, you can also use any item bearing one of your infusions as a spellcasting focus.
 
 ### Cantrips
-At 1st level, you know two cantrips of your choice from the [artificer spell list](/Spells/Aritificer.md). At higher levels, you learn additional artificer cantrips of your choice, as shown in the Cantrips Known column of the Artificer table.
+At 1st level, you know two cantrips of your choice from the [artificer spell list](/Spells/Artificer.md). At higher levels, you learn additional artificer cantrips of your choice, as shown in the Cantrips Known column of the Artificer table.
 
 When you gain a level in this class, you can replace one of the artificer cantrips you know with another cantrip from the artificer spell list.
 
@@ -106,7 +106,7 @@ Your infusion remains in an item indefinitely, but when you die, the infusion va
 You can infuse more than one nonmagical object at the end of a long rest; the maximum number of objects appears in the Infused Items column of the Artificer table. You must touch each of the objects, and each of your infusions can be in only one object at a time. If you try to exceed your maximum number of infusions, the oldest infusion immediately ends, and then the new infusion applies.
 
 ## Artificer Specialist
-At 3rd level, you choose the type of specialist you are: [Alchemist](Alchemist.md), [Archivist](Archivist.md), [Armorer](Armorer.md), [Artillerist](Artillerist.md), or [Battle Smith](BattleSmith.md).
+At 3rd level, you choose the type of specialist you are: [Alchemist](Artificer/Alchemist.md), [Archivist](Artificer/Archivist.md), [Armorer](Artificer/Armorer.md), [Artillerist](Artificer/Artillerist.md), or [Battle Smith](Artificer/BattleSmith.md).
 
 ### Tool Expertise
 Starting at 3rd level, your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.
