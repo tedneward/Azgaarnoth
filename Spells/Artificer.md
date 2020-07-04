@@ -25,6 +25,7 @@
 1st Level
 * Absorb Elements
 * Alarm (ritual)
+* [arcane weapon](1st/arcane-weapon.md)
 * Catapult
 * Cure Wounds
 * Detect Magic (ritual)
