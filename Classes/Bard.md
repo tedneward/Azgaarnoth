@@ -3,8 +3,8 @@
 
 *You must have a Charisma score of 13 or higher in order to multiclass in or out of this class.*
 
-Level|Proficiency Bonus|Features|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th
------|-----------------|--------|--------------|---|---|---|---|---|---|---|---|---
+Level|Proficiency Bonus|Features|Cantrips Known|Spells Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th
+-----|-----------------|--------|--------------|------------|---|---|---|---|---|---|---|---|---
 1st|+2|Spellcasting, Bardic Inspiration (d6)|2|4|2|-|-|-|-|-|-|-|-
 2nd|+2|Jack of All Trades, Song of Rest (d6)|2|5|3|-|-|-|-|-|-|-|-
 3rd|+2|Bard College, Expertise|2|6|4|2|-|-|-|-|-|-|-
