@@ -1,4 +1,5 @@
-# Paladin spells
+# Common Paladin List of Spells
+These spells are all commonly known within Azgaarnoth.
 
 ## 1st Level
 * [Bless](http://dnd5e.wikidot.com/spell:bless)

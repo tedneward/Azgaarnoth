@@ -1,6 +1,5 @@
 # Artificer Specialist: Alchemist
-An Alchemist is an expert at combining exotic reagents to produce mystical effects. Among
-artificers, members of this subclass are the greatest healers, as well as the ones most adept at wielding dangerous chemicals.
+An Alchemist is an expert at combining exotic reagents to produce mystical effects. Among artificers, members of this subclass are the greatest healers, as well as the ones most adept at wielding dangerous chemicals.
 
 ## Tools of the Trade
 By the time you adopt this specialty at 3rd level, you’re deeply familiar with employing its tools.

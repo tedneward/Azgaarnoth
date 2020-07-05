@@ -1,4 +1,5 @@
-# Sorcerer spells
+# Common Sorcerer List of Spells
+These spells are all commonly known within Azgaarnoth.
 
 Cantrips
 * [acid splash](https://www.dndbeyond.com/spells/acid-splash)

@@ -1,4 +1,5 @@
-# Ranger spells
+# Common Ranger List of Spells
+These spells are all commonly known within Azgaarnoth.
 
 ## 1st Level
 * Absorb Elements

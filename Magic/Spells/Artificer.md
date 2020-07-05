@@ -1,4 +1,5 @@
-# Artificer spells
+# Common Artificer List of Spells
+These spells are all commonly known within Azgaarnoth.
 
 ## Cantrips
 * [acid splash](http://dnd5e.wikidot.com/spell:acid-splash)

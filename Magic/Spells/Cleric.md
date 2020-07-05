@@ -1,4 +1,5 @@
-# Cleric spells
+# Common Cleric List of Spells
+These spells are all commonly known within Azgaarnoth.
 
 Cantrips
 * Guidance

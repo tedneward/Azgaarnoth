@@ -1,4 +1,5 @@
-# Warlock spells
+# Common Warlock List of Spells
+These spells are all commonly known within Azgaarnoth.
 
 ## Cantrips
 * Blade Ward

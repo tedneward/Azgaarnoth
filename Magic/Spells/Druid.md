@@ -1,4 +1,5 @@
-# Druid spells
+# Common Druid List of Spells
+These spells are all commonly known within Azgaarnoth.
 
 Cantrips
 * Control Flames
