@@ -1,7 +1,7 @@
 # Feats
-These feats, unless noted, are available to any character class. Any prerequisites must be met before the feat can be taken, however.
+These feats, unless noted, are available to any character race or class. Any prerequisites must be met before the feat can be taken, however.
 
-## Feat: Aberrant [Dragonmark](/Races/Dragonmarked.md)
+## Aberrant [Dragonmark](/Races/Dragonmarked.md)
 *Prerequisite: No existing dragonmark.*
 
 The twelve original dragonmarks, passed down from the Eldar through countless generations, have prven to be reliable and predictable, and their powers are constructive. They create; they heal; they protect.
@@ -68,8 +68,17 @@ You study the arcane arts, gaining the following benefits:
 * You learn the [prestidigitation]() and [detect magic]() spells. You can cast [detect magic]() once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
 
 ## Athlete
+You have undergone extensive physical training to gain the following benefits:
+* Increase your Strength or Dexterity score by 1, to a maximum of 20.
+* When you are prone, standing up uses only 5 feet of your movement.
+* Climbing doesn’t cost you extra movement.
+* You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
 
 ## Blade Mastery
+You master the shortsword, longsword, scimitar, rapier, and greatsword. You gain the following benefits when using any of them:
+* You gain a +1 bonus to attack rolls you make with the weapon.
+* On your turn, you can use your reaction to assume a parrying stance, provided you have the weapon in hand. Doing so grants a +1 bonus to your AC until the start of your next turn or until you're not holding the weapon.
+* When you make an opportunity attack with the weapon, you have advantage on the attack roll.
 
 ## Brawny
 You become stronger, gaining the following benefits:
@@ -78,12 +87,23 @@ You become stronger, gaining the following benefits:
 * You count as if you were one size larger for the purpose of determining your carrying capacity.
 
 ## Burglar
+You pride yourself on your quickness and your close study of certain clandestine activities. You gain the following benefits:
+* Increase your Dexterity score by 1, to a maximum of 20.
+* You gain proficiency with thieves’ tools. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.
 
 ## Charger
+When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature. If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack’s damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
 
 ## Crossbow Expert
+Thanks to extensive practice with the crossbow, you gain the following benefits:
+* You ignore the loading quality of crossbows with which you are proficient.
+* Being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.
+* When you use the Attack action and attack with a one handed weapon, you can use a bonus action to attack with a hand crossbow you are holding.
 
 ## Defensive Duelist
+*Prerequisite: Dexterity 13 or higher*
+
+When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.
 
 ## Diplomat
 You master the arts of diplomacy, gaining the following benefits:
@@ -92,10 +112,22 @@ You master the arts of diplomacy, gaining the following benefits:
 * If you spend 1 minute talking to someone who can understand what you say, you can make a Charisma (Persuasion) check contested by the creature’s Wisdom (Insight) check. If you or your companions are fighting the creature, your check automatically fails. If your check succeeds, the target is charmed by you as long as it remains within 60 feet of you and for 1 minute thereafter.
 
 ## Dual Wielder
+You master fighting with two weapons, gaining the following benefits:
+* You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.
+* You can use two-weapon fighting even when the one handed melee weapons you are wielding aren’t light.
+* You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
 
 ## Dungeon Delver
+Alert to the hidden traps and secret doors found in many dungeons, you gain the following benefits:
+* You have advantage on Wisdom (Perception) and Intelligence (Investigation) made to detect the presence of secret doors.
+* You have advantage on saving throws made to avoid or resist traps.
+* You have resistance to the damage dealt by traps.
+* You can search for traps while traveling at a normal pace, instead of only at a slow pace
 
 ## Durable
+Hardy and resilient, you gain the following benefits:
+* Increase your Constitution score by 1, to a maximum of 20.
+* When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
 
 ## Empathic
 You possess keen insight into how other people think and feel. You gain the following benefits:
@@ -104,16 +136,41 @@ You possess keen insight into how other people think and feel. You gain the foll
 * You can use your action to try to get uncanny insight about one humanoid you can see within 30 feet of you. Make a Wisdom (Insight) check contested by the target’s Charisma (Deception) check. If your check succeeds, you have advantage on attack rolls and ability checks against the target until the end of your next turn.
 
 ## Elemental Adept
+*Prerequisite: The ability to cast at least one spell*
+
+When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder. Spells you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2. You can select this feat multiple times. Each time you do so, you must choose a different damage type.
 
 ## Fell Handed
+You master the handaxe, battleaxe, greataxe, warhammer, and maul. You gain the following benefits when using any of them:
+* You gain a +1 bonus to attack rolls you make with the weapon.
+* Whenever you have advantage on a melee attack roll you make with the weapon and hit, you can also knock the target prone if the lower of the two d20 rolls would also hit the target.
+* Whenever you have disadvantage on a melee attack roll you make with the weapon, the target takes bludgeoning damage equal to your Strength modifier (minimum of 0) if the attack misses but the higher of the two d20 rolls would have hit.
+* If you use the Help action to aid an ally's melee attack while you're wielding the weapon, you knock the target's shield aside momentarily. In addition to the ally gaining advantage on the attack roll, the ally gains a +2 bonus to the roll if the target is using a shield
 
 ## Flail Mastery
+The flail is a tricky weapon to use, but you have spent countless hours mastering it. You gain the following benefits:
+* You gain a +1 bonus to attack rolls you make with a flail.
+* As a bonus action on your turn, you can prepare yourself to extend your flail to sweep over targets’ shields. Until the end of this turn, your attack rolls with a flail gain a +2 bonus against any target using a shield.
+* When you hit with an opportunity attack using a flail, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked prone.
 
 ## Gourmand
+You have mastered a variety of special recipes, allowing you to prepare exotic dishes with useful effects. You gain the following benefits:
+* Increase your Constitution score by 1, to a maximum of 20.
+* You gain proficiency with cook’s utensils. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.
+* As an action, you can inspect a drink or plate of food within 5 feet of you and determine whether it is poisoned, provided that you can see and smell it.
+* During a long rest, you can prepare and serve a meal that helps you and your allies recover from the rigors of adventuring, provided you have suitable food, cook’s utensils, and other supplies on hand. The meal serves up to six people, and each person who eats it regains two additional Hit Dice at the end of the long rest. In addition, those who partake of the meal have advantage on Constitution saving throws against disease for the next 24 hours.
 
 ## Grappler
+*Prerequisite: Strength 13 or higher*
+
+You've developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
+* You have advantage on attack rolls against a creature you are grappling.
+* You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
 
 ## Great Weapon Master
+You’ve learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
+* On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
+* Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack’s damage.
 
 ## Healer
 
@@ -149,9 +206,7 @@ You have an eye for detail and can pick out the smallest clues. You gain the fol
 
 ## Martial Adept
 You have martial training that allows you to perform special combat [maneuvers](Fighter/Maneuvers.md). You gain the following benefits.
-
 * You learn two [maneuvers](Fighter/Maneuvers.md) of your choice . If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
-
 * You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
 ## Master of Disguise
