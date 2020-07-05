@@ -1,5 +1,99 @@
 # Feats
-These feats, unless noted, are available to any character class.
+These feats, unless noted, are available to any character class. Any prerequisites must be met before the feat can be taken, however.
+
+## Feat: Aberrant [Dragonmark](/Races/Dragonmarked.md)
+*Prerequisite: No existing dragonmark.*
+
+The twelve original dragonmarks, passed down from the Eldar through countless generations, have prven to be reliable and predictable, and their powers are constructive. They create; they heal; they protect.
+
+But there is another kind of dragonmark: marks that are unpredictable and dangerous to both the bearer and the people around them. Someone with such a mark can kill with a touch or control minds with a glance. Aberrant marks often appear when people from different dragonmarked families produce a child, and for this reason such unions are absolutely forbidden by the Twelve. But aberrant dragonmarks can appear on members of any race, at any age, regardless of bloodline. No two aberrant dragonmarks are exactly alike; even if they grant the same power, they may appear and manifest in different ways. If two aberrant marks might grant fire bolt, one mark may be formed from scar tissue while another is traced on the skin in lines of cold fire.
+
+You have manifested such an aberrant dragonmark. Determine its appearance and the flaw associated with it.
+
+While aberrant dragonmarks can be disturbing, on the surface an aberrant mark seems no more dangerous or threatening than the powers of a sorcerer. So, what makes them significant? Aberrant marks always have flaws. These may not actively hurt a character, but they are always a burden in some way—-a burden that could drive a weak-willed person to madness. If you develop an aberrant mark, you can choose a flaw from this list, or you and the DM can develop a unique flaw of your own.
+
+**Aberrant Mark Flaw**
+1d8 | Aberrant Mark Flaw
+--- | ------------------
+1 | Your mark is a source of constant pain.
+2 | Your mark whispers to you, though you may not understand what it says.
+3 | In times of stress, your mark may trigger a cantrip effect involuntarily.
+4 | The skin around your mark has an unusual appearance: burned, scaly, withered, etc.
+5 | Mundane animals become uneasy around you.
+6 | You have dramatic mood swings any time you use your mark.
+7 | Your appearance changes in some minor way every time you use your mark.
+8 | You have horrific nightmares after you use your mark.
+
+You gain the following benefits.
+* Increase your Constitution score by 1, to a maximum of 20.
+* You learn a cantrip from the sorcerer spell list. In addition, choose a 1st-level spell from the sorcerer spell list. You learn that spell and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again. Constitution is your spellcasting ability for these spells.
+* You can increase the power of your aberrant spells at the risk of your own vitality. When you cast a spell with your aberrant mark, you can use one of your Hit Die to increase the spell’s level by 1. Immediately after you cast the spell, roll the Hit Die. You take damage equal to the number rolled.
+
+## Acrobat
+You become more nimble, gaining the following benefits:
+* Increase your Dexterity score by 1, to a maximum of 20.
+* You gain proficiency in the Acrobatics skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+* As a bonus action, you can make a DC 15 Dexterity (Acrobatics) check. If you succeed, difficult terrain doesn’t cost you extra movement until the end of the current turn.
+
+## Animal Handler
+You master the techniques needed to train and handle animals. You gain the following benefits.
+* Increase your Wisdom score by 1, to a maximum of 20.
+* You gain proficiency in the Animal Handling skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+* You can use a bonus action on your turn to command one friendly beast within 60 feet of you that can hear you and that isn’t currently following the command of someone else. You decide now what action the beast will take and where it will move during its next turn, or you issue a general command that lasts for 1 minute, such as to guard a particular area.
+
+## Arcanist
+You study the arcane arts, gaining the following benefits:
+* Increase your Intelligence score by 1, to a maximum of 20.
+* You gain proficiency in the Arcana skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+* You learn the [prestidigitation]() and [detect magic]() spells. You can cast [detect magic]() once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+
+## Brawny
+You become stronger, gaining the following benefits:
+* Increase your Strength score by 1, to a maximum of 20.
+* You gain proficiency in the Athletics skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+* You count as if you were one size larger for the purpose of determining your carrying capacity.
+
+## Diplomat
+You master the arts of diplomacy, gaining the following benefits:
+* Increase your Charisma score by 1, to a maximum of 20.
+* You gain proficiency in the Persuasion skill. If you are already proficient in this skill, you add double your proficiency bonus to checks you make with it.
+* If you spend 1 minute talking to someone who can understand what you say, you can make a Charisma (Persuasion) check contested by the creature’s Wisdom (Insight) check. If you or your companions are fighting the creature, your check automatically fails. If your check succeeds, the target is charmed by you as long as it remains within 60 feet of you and for 1 minute thereafter.
+
+## Empathic
+You possess keen insight into how other people think and feel. You gain the following benefits:
+* Increase your Wisdom score by 1, to a maximum of 20.
+* You gain proficiency in the Insight skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+* You can use your action to try to get uncanny insight about one humanoid you can see within 30 feet of you. Make a Wisdom (Insight) check contested by the target’s Charisma (Deception) check. If your check succeeds, you have advantage on attack rolls and ability checks against the target until the end of your next turn.
+
+## Historian
+Your study of history rewards you with the following benefits:
+* Increase your Intelligence score by 1, to a maximum of 20.
+* You gain proficiency in the History skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+* When you take the Help action to aid another creature’s ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature’s check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you’re saying.
+
+## Investigator
+You have an eye for detail and can pick out the smallest clues. You gain the following benefits:
+* Increase your Intelligence score by 1, to a maximum of 20.
+* You gain proficiency in the Investigation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+* You can take the Search action as a bonus action.
+
+## Medic
+You master the physician’s arts, gaining the following benefits:
+* Increase your Wisdom score by 1, to a maximum of 20.
+* You gain proficiency in the Medicine skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+* During a short rest, you can clean and bind the wounds of up to six willing beasts and humanoids. Make a DC 15 Wisdom (Medicine) check for each creature. On a success, if a creature spends a Hit Die during this rest, that creature can forgo the roll and instead regain the maximum number of hit points the die can restore. A creature can do so only once per rest, regardless of how many Hit Dice it spends.
+
+## Martial Adept
+You become quite adept at the use of [maneuvers](Fighter/Maneuvers.md) in combat, gaining the following benefits:
+* Increase your Constitution score by 1, to a maximum of 20.
+* You gain two maneuvers from the list.
+* You have two superiority dice (these dice is added to any superiority dice you have from another source), which are d6s.
+
+## Menacing
+You become fearsome to others, gaining the following benefits:
+* Increase your Charisma score by 1, to a maximum of 20.
+* You gain proficiency in the Intimidation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+* When you take the Attack action on your turn, you can replace one attack with an attempt to demoralize one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Intimidation) check contested by the target’s Wisdom (Insight) check. If your check succeeds, the target is frightened until the end of your next turn. If your check fails, the target can’t be frightened by you in this way for 1 hour.
 
 ## Metabolic Control
 *Prerequisite*: Psionic Talent feature or Wild Talent feat
@@ -8,6 +102,48 @@ You have refined psionic control over your body’s functions. You gain the foll
 * Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
 * If your Psionic Talent die is available, you can take an action to channel your psionic power to nourish yourself for the next 24 hours, as if you consumed sufficient food and water for a day. When you take this action, your Psionic Talent die decreases by one die size.
 * If your Psionic Talent die is available, you can meditate for 1 minute, at the end of which you gain the benefits of finishing a short rest, and your Psionic Talent die decreases by one die size. You can’t meditate in this way again until you finish a long rest.
+
+## Naturalist
+Your extensive study of nature rewards you with the following benefits:
+* Increase your Intelligence score by 1, to a maximum of 20.
+* You gain proficiency in the Nature skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+* You learn the [druidcraft]() and [detect poison and disease]() spells. You can cast [detect poison and disease]() once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+
+## Perceptive
+You hone your senses until they become razor sharp. You gain the following benefits:
+* Increase your Wisdom score by 1, to a maximum of 20.
+* You gain proficiency in the Perception skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+* Being in a lightly obscured area doesn’t impose disadvantage on your Wisdom (Perception) checks if you can both see and hear.
+
+## Performer
+You master performance so that you can command any stage. You gain the following benefits:
+* Increase your Charisma score by 1, to a maximum of 20.
+* You gain proficiency in the Performance skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+* While performing, you can try to distract one humanoid you can see who can see and hear you. Make a Charisma (Performance) check contested by the humanoid’s Wisdom (Insight) check. If your check succeeds, you grab the humanoid’s attention enough that it makes Wisdom (Perception) and Intelligence (Investigation) checks with disadvantage until you stop performing.
+
+## Quick-Fingered
+Your nimble fingers and agility let you perform sleight of hand. You gain the following benefits:
+* Increase your Dexterity score by 1, to a maximum of 20.
+* You gain proficiency in the Sleight of Hand skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+* As a bonus action, you can make a Dexterity (Sleight of Hand) check to plant something on someone else, conceal an object on a creature, lift a purse, or take something from a pocket.
+
+## Silver-Tongued
+You develop your conversational skill to better deceive others. You gain the following benefits:
+* Increase your Charisma score by 1, to a maximum of 20.
+* You gain proficiency in the Deception skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+* When you take the Attack action on your turn, you can replace one attack with an attempt to deceive one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Deception) check contested by the target’s Wisdom (Insight) check. If your check succeeds, your movement doesn’t provoke opportunity attacks from the target and your attack rolls against it have advantage; both benefits last until the end of your next turn or until you use this ability on a different target. If your check fails, the target can’t be deceived by you in this way for 1 hour.
+
+## Stealthy
+You know how best to hide. You gain the following benefits:
+* Increase your Dexterity score by 1, to a maximum of 20.
+* You gain proficiency in the Stealth skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+* If you are hidden, you can move up to 10 feet in the open without revealing yourself if you end the move in a position where you’re not clearly visible.
+
+## Survivalist
+You master wilderness lore, gaining the following benefits:
+* Increase your Wisdom score by 1, to a maximum of 20.
+* You gain proficiency in the Survival skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+* You learn the [alarm]() spell. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
 
 ## Telekinetic
 *Prerequisite*: Psionic Talent feature or Wild Talent feat
@@ -24,6 +160,12 @@ You awaken the ability to mentally connect with others. You gain the following b
 * Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 * You can speak telepathically to any creature you can see within 30 feet of you. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn’t give the creature the ability to respond to you telepathically.
 * If your Psionic Talent die is available, you can cast the detect thoughts spell, requiring no components. When you start casting the spell, your Psionic Talent die decreases by one die size. Your spellcasting ability for the spell is the ability increased by this feat.
+
+## Theologian
+Your extensive study of religion rewards you with the following benefits:
+* Increase your Intelligence score by 1, to a maximum of 20.
+* You gain proficiency in the Religion skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+* You learn the [thaumaturgy]() and [detect evil and good]() spells. You can cast [detect evil and good]() once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
 
 ## Tower of Iron Will
 *Prerequisite*: Psionic Talent feature or Wild Talent feat

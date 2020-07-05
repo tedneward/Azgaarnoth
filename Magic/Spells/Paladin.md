@@ -2,44 +2,49 @@
 These spells are all commonly known within Azgaarnoth.
 
 ## 1st Level
-* [Bless](http://dnd5e.wikidot.com/spell:bless)
-* [Command](http://dnd5e.wikidot.com/spell:command)
-* [Compelled Duel](http://dnd5e.wikidot.com/spell:compelled-duel)
-* [Cure Wounds](http://dnd5e.wikidot.com/spell:cure-wounds)
-* [Detect Evil and Good](http://dnd5e.wikidot.com/spell:detect-evil-and-good)
-* [Detect Magic](http://dnd5e.wikidot.com/spell:detect-magic)
-* [Detect Poison and Disease](http://dnd5e.wikidot.com/spell:detect-poison-and-disease)
-* [Divine Favor](http://dnd5e.wikidot.com/spell:divine-favor)
-* [Heroism](http://dnd5e.wikidot.com/spell:heroism)
-* [Protection from Evil and Good](http://dnd5e.wikidot.com/spell:protection-from-evil-and-good)
-* [Purify Food and Drink](http://dnd5e.wikidot.com/spell:purify-food-and-drink)
-* [Searing Smite](http://dnd5e.wikidot.com/spell:searing-smite)
-* [Shield of Faith](http://dnd5e.wikidot.com/spell:shield-of-faith)
-* [Thunderous Smite](http://dnd5e.wikidot.com/spell:thunderous-smite)
-* [Wrathful Smite](http://dnd5e.wikidot.com/spell:wrathful-smite)
+* [bless](https://www.dndbeyond.com/spells/bless)
+* [command](https://www.dndbeyond.com/spells/command)
+* [compelled duel](https://www.dndbeyond.com/spells/compelled-duel)
+* [cure wounds](https://www.dndbeyond.com/spells/cure-wounds)
+* [detect evil and good](https://www.dndbeyond.com/spells/detect-evil-and-good)
+* [detect magic](https://www.dndbeyond.com/spells/detect-magic)
+* [detect poison and disease](https://www.dndbeyond.com/spells/detect-poison-and-disease)
+* [divine favor](https://www.dndbeyond.com/spells/divine-favor)
+* [heroism](https://www.dndbeyond.com/spells/heroism)
+* [protection from evil and good](https://www.dndbeyond.com/spells/protection-from-evil-and-good)
+* [purify food and drink](https://www.dndbeyond.com/spells/purify-food-and-drink)
+* [searing smite](https://www.dndbeyond.com/spells/searing-smite)
+* [shield of faith](https://www.dndbeyond.com/spells/shield-of-faith)
+* [thunderous smite](https://www.dndbeyond.com/spells/thunderous-smite)
+* [wrathful smite](https://www.dndbeyond.com/spells/wrathful-smite)
 
 ## 2nd Level
-* [Aid](http://dnd5e.wikidot.com/spell:aid)
-* [Branding Smite](http://dnd5e.wikidot.com/spell:branding-smite)
-* [Find Steed](http://dnd5e.wikidot.com/spell:find-steed)
-* [Lesser Restoration](http://dnd5e.wikidot.com/spell:lesser-restoration)
-* [Locate Object](http://dnd5e.wikidot.com/spell:locate-object)
-* [Magic Weapon](http://dnd5e.wikidot.com/spell:magic-weapon)
-* [Protection from Poison](http://dnd5e.wikidot.com/spell:protection-from-poison)
-* [Zone of Truth](http://dnd5e.wikidot.com/spell:zone-of-truth)
+* [aid](https://www.dndbeyond.com/spells/aid)
+* [branding smite](https://www.dndbeyond.com/spells/branding-smite)
+* [find steed](https://www.dndbeyond.com/spells/find-steed)
+* [gentle repose](https://www.dndbeyond.com/spells/gentle-repose)
+* [lesser restoration](https://www.dndbeyond.com/spells/lesser-restoration)
+* [locate object](https://www.dndbeyond.com/spells/locate-object)
+* [magic weapon](https://www.dndbeyond.com/spells/magic-weapon)
+* [prayer of healing](https://www.dndbeyond.com/spells/prayer-of-healing)
+* [protection from poison](https://www.dndbeyond.com/spells/protection-from-poison)
+* [warding bond](https://www.dndbeyond.com/spells/warding-bond)
+* [zone of truth](https://www.dndbeyond.com/spells/zone-of-truth)
 
 ## 3rd Level
-* Aura of Vitality
-* Blinding Smite
-* Create Food and Water
-* Crusader's Mantle
-* Daylight
-* Dispel Magic
-* Elemental Weapon
-* Magic Circle
-* Remove Curse
-* Revivify
-* Spirit Shroud (UA)
+* [aura of vitality](https://www.dndbeyond.com/spells/aura-of-vitality)
+* [blinding smite](https://www.dndbeyond.com/spells/blinding-smite)
+* [create food and water](https://www.dndbeyond.com/spells/create-food-and-water)
+* [crusader's mantle](https://www.dndbeyond.com/spells/crusaders-mantle)
+* [daylight](https://www.dndbeyond.com/spells/daylight)
+* [dispel magic](https://www.dndbeyond.com/spells/dispel-magic)
+* [elemental weapon](https://www.dndbeyond.com/spells/elemental-weapon)
+* [life transference](https://www.dndbeyond.com/spells/life-transference)
+* [magic circle](https://www.dndbeyond.com/spells/magic-circle)
+* [remove curse](https://www.dndbeyond.com/spells/remove-curse)
+* [revivify](https://www.dndbeyond.com/spells/revivify)
+* [spirit guardians](https://www.dndbeyond.com/spells/spirit-guardians)
+* [spirit shroud](https://www.dndbeyond.com/spells/spirit-shroud)
 
 ## 4th Level
 * Aura of Life
@@ -52,8 +57,10 @@ These spells are all commonly known within Azgaarnoth.
 ## 5th Level
 * Banishing Smite
 * Circle of Power
+* [dawn](https://www.dndbeyond.com/spells/dawn)
 * Destructive Wave
 * Dispel Evil and Good
+* [flame strike](https://www.dndbeyond.com/spells/flame-strike)
 * Geas
 * Raise Dead
 * Summon Celestial Spirit (UA)

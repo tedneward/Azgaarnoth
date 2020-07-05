@@ -2,28 +2,28 @@
 These spells are all commonly known within Azgaarnoth.
 
 ## Cantrips
-* [acid splash](http://dnd5e.wikidot.com/spell:acid-splash)
-* [create bonfire](http://dnd5e.wikidot.com/spell:create-bonfire)
-* [dancing lights](http://dnd5e.wikidot.com/spell:dancing-lights)
-* [fire bolt](http://dnd5e.wikidot.com/spell:fire-bolt)
-* [frostbite](http://dnd5e.wikidot.com/spell:frostbite)
-* Guidance
-* [light](http://dnd5e.wikidot.com/spell:light)
-* [mage hand](http://dnd5e.wikidot.com/spell:mage-hand)
-* Magic Stone
-* [mending](http://dnd5e.wikidot.com/spell:mending)
-* [message](http://dnd5e.wikidot.com/spell:message)
-* [poison spray](http://dnd5e.wikidot.com/spell:poison-spray)
-* [prestidigitation](http://dnd5e.wikidot.com/spell:prestidigitation)
-* [ray of frost](http://dnd5e.wikidot.com/spell:ray-of-frost)
-* Resistance
-* [shocking grasp](http://dnd5e.wikidot.com/spell:shocking-grasp)
-* Spare the Dying
-* Thorn Whip
-* [thunderclap](http://dnd5e.wikidot.com/spell:thunderclap)
+* [acid splash](https://www.dndbeyond.com/spells/acid-splash)
+* [create bonfire](https://www.dndbeyond.com/spells/create-bonfire)
+* [dancing lights](https://www.dndbeyond.com/spells/dancing-lights)
+* [fire bolt](https://www.dndbeyond.com/spells/fire-bolt)
+* [frostbite](https://www.dndbeyond.com/spells/frostbite)
+* [guidance](https://www.dndbeyond.com/spells/guidance)
+* [light](https://www.dndbeyond.com/spells/light)
+* [mage hand](https://www.dndbeyond.com/spells/mage-hand)
+* [magic stone](https://www.dndbeyond.com/spells/magic-stone)
+* [mending](https://www.dndbeyond.com/spells/mending)
+* [message](https://www.dndbeyond.com/spells/message)
+* [poison spray](https://www.dndbeyond.com/spells/poison-spray)
+* [prestidigitation](https://www.dndbeyond.com/spells/prestidigitation)
+* [ray of frost](https://www.dndbeyond.com/spells/ray-of-frost)
+* [resistance](https://www.dndbeyond.com/spells/resistance)
+* [shocking grasp](https://www.dndbeyond.com/spells/shocking-grasp)
+* [spare the dying](https://www.dndbeyond.com/spells/spare-the-dying)
+* [thorn whip](https://www.dndbeyond.com/spells/thorn-whip)
+* [thunderclap](https://www.dndbeyond.com/spells/thunderclap)
 
 
-1st Level
+## 1st Level
 * Absorb Elements
 * Alarm (ritual)
 * [arcane weapon](1st/arcane-weapon.md)
@@ -43,7 +43,7 @@ These spells are all commonly known within Azgaarnoth.
 * Sanctuary
 * Snare
 
-2nd Level
+## 2nd Level
 * Aid
 * Alter Self
 * Arcane Lock
@@ -67,7 +67,7 @@ These spells are all commonly known within Azgaarnoth.
 * Spider Climb
 * Web
 
-3rd Level
+## 3rd Level
 * Blink
 * Catnap
 * Create Food and Water
@@ -81,7 +81,7 @@ These spells are all commonly known within Azgaarnoth.
 * Water Breathing (ritual)
 * Water Walk (ritual)
 
-4th Level
+## 4th Level
 * Arcane Eye
 * Elemental Bane
 * Fabricate
@@ -93,7 +93,7 @@ These spells are all commonly known within Azgaarnoth.
 * Stone Shape
 * Stoneskin
 
-5th Level
+## 5th Level
 * Animate Objects
 * Bigby's Hand
 * Creation

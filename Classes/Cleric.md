@@ -59,6 +59,9 @@ As a conduit for divine power, you can cast cleric spells.
 ### Cantrips
 At 1st level, you know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Cleric table.
 
+### Cantrip Versatility
+Whenever you gain a level in this class, you can replace one cantrip you learned from this Spellcasting feature with another cantrip from the cleric spell list.
+
 ### Spell Slots
 The Cleric table shows how many spell slots you have to cast your spells of lst level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
@@ -121,11 +124,19 @@ As an action, you present your holy symbol and speak a prayer censuring the unde
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
+## Channel Divinity: Harness Divine Power
+Starting at 2nd level, you can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended 1st-level spell slot.
+
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ## Destroy Undead
 Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Cleric table above.
+
+## Blessed Strikes (replaces Divine Strike or Potent Spellcasting from Divine Domain features)
+Starting at the 8th level, in battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can’t use this feature again until the start of your next turn.
+
+A player may choose Blessed Strikes instead of Divine Strike or Potent Spellcasting in their Domain feature list. This choice may be revisited each time the cleric reaches a new level.
 
 ## Divine Intervention
 Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.

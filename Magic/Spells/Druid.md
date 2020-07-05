@@ -2,6 +2,7 @@
 These spells are all commonly known within Azgaarnoth.
 
 Cantrips
+* Acid Splash
 * Control Flames
 * Create Bonfire
 * Druidcraft
@@ -25,6 +26,7 @@ Cantrips
 * Absorb Elements
 * Animal Friendship
 * Beast Bond
+* Ceremony (ritual)
 * Charm Person
 * Create or Destroy Water
 * Cure Wounds
@@ -40,6 +42,7 @@ Cantrips
 * Ice Knife
 * Jump
 * Longstrider
+* Protection from evil and good
 * Purify Food and Drink
 * Speak with Animals
 * Thunderwave
@@ -47,12 +50,15 @@ Cantrips
 
 2nd Level
 * Animal Messenger
+* Augury (ritual)
 * Barkskin
 * Beast Sense
+* Continual Flame
 * Darkvision
 * Dust Devil
 * Earthbind
 * Enhance Ability
+* Enlarge/Reduce
 * Find Traps
 * Flame Blade
 * Flaming Sphere
@@ -67,24 +73,29 @@ Cantrips
 * Protection from Poison
 * Skywrite
 * Spike Growth
-* Summon Bestial Spirit (UA)
+* Summon Bestial Spirit
 * Warding Wind
 
 3rd Level
+* Aura of Vitality
 * Call Lightning
 * Conjure Animals
 * Daylight
 * Dispel Magic
+* Elemental Weapon
 * Erupting Earth
 * Feign Death
 * Flame Arrows
 * Meld into Stone
 * Plant Growth
 * Protection from Energy
+* Revivify
 * Sleet Storm
 * Speak with Plants
-* Summon Fey Spirit (UA)
+* Summon Fey Spirit
+* Thunder step
 * Tidal Wave
+* Wall of Sand
 * Wall of Water
 * Water Breathing
 * Water Walk
@@ -96,8 +107,10 @@ Cantrips
 * Conjure Minor Elementals
 * Conjure Woodland Beings
 * Control Water
+* Divination (ritual)
 * Dominate Beast
 * Elemental Bane
+* Fire shield
 * Freedom of Movement
 * Giant Insect
 * Grasping Vine
@@ -116,11 +129,14 @@ Cantrips
 * Antilife Shell
 * Awaken
 * Commune with Nature
+* Cone of Cold
 * Conjure Elemental
 * Contagion
 * Control Winds
+* Dawn
 * Geas
 * Greater Restoration
+* Immolation
 * Insect Plague
 * Maelstrom
 * Mass Cure Wounds
@@ -135,6 +151,7 @@ Cantrips
 * Bones of the Earth
 * Conjure Fey
 * Find the Path
+* Flesh to Stone
 * Heal
 * Heroes' Feast
 * Investiture of Flame
@@ -154,6 +171,7 @@ Cantrips
 * Plane Shift
 * Regenerate
 * Reverse Gravity
+* Symbol
 * Whirlwind
 
 8th Level
@@ -162,11 +180,14 @@ Cantrips
 * Control Weather
 * Earthquake
 * Feeblemind
+* Incendiary Cloud
 * Sunburst
 * Tsunami
 
 9th Level
 * Foresight
+* Mass polymorph
+* Powe Word: Heal
 * Shapechange
 * Storm of Vengeance
 * True Resurrection

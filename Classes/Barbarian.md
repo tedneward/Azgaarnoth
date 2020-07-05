@@ -69,8 +69,10 @@ Once you have raged the number of times shown for your barbarian level in the Ra
 ## Unarmored Defense
 While you are not wearing any armor, your armor class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
 
-## Danger Sense
-At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
+## Survival Instincts
+Starting at 2nd level, you become proficient in your choice of two of the following skills: Animal Handling, Medicine, Nature, Perception, or Survival.
+
+Your proficiency bonus is doubled for any ability check you make that uses either of those skills.
 
 ## Reckless Attack
 Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
@@ -93,8 +95,8 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 ## Extra Attack
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-## Fast Movement
-Starting at 5th level, your speed increases by 10 feet while you aren't wearing heavy armor.
+## Instinctive Pounce
+Starting at 5th level, when a creature ends its turn within 15 feet of you, you can use your reaction to move up to half your speed to a space closer to the creature. This movement doesn’t provoke opportunity attacks.
 
 ## Feral Instinct
 By 7th level, your instincts are so honed that you have advantage on initiative rolls.

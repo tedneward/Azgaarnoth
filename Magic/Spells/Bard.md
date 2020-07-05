@@ -18,7 +18,10 @@ These spells are all commonly known within Azgaarnoth.
 ## 1st Level
 * Animal Friendship
 * Bane
+* Cause Fear
 * Charm Person
+* Color Spray
+* Command
 * Comprehend Languages
 * Cure Wounds
 * Detect Magic
@@ -45,6 +48,7 @@ These spells are all commonly known within Azgaarnoth.
 * Unseen Servant
 
 ## 2nd Level
+* Aid
 * Animal Messenger
 * Blindness/Deafness
 * Calm Emotions
@@ -52,6 +56,7 @@ These spells are all commonly known within Azgaarnoth.
 * Crown of Madness
 * Detect Thoughts
 * Enhance Ability
+* Enlarge/reduce
 * Enthrall
 * Heat Metal
 * Hold Person
@@ -61,6 +66,8 @@ These spells are all commonly known within Azgaarnoth.
 * Locate Animals or Plants
 * Locate Object
 * Magic Mouth
+* Mind spike
+* Mirror Image
 * Phantasmal Force
 * Pyrotechnics
 * See Invisibility
@@ -82,13 +89,16 @@ These spells are all commonly known within Azgaarnoth.
 * Hypnotic Pattern
 * Leomund's Tiny Hut
 * Major Image
+* Mass Healing Word
 * Nondetection
 * Plant Growth
 * Sending
+* Slow
 * Speak with Dead
 * Speak with Plants
 * Stinking Cloud
-* Summon Fey Spirit (UA)
+* Summon Fey Spirit
+* Tiny Servant
 * Tongues
 
 ## 4th Level
@@ -99,11 +109,13 @@ These spells are all commonly known within Azgaarnoth.
 * Greater Invisibility
 * Hallucinatory Terrain
 * Locate Creature
+* Phantasmal Killer
 * Polymorph
 
 ## 5th Level
 * Animate Objects
 * Awaken
+* Contact other plane (ritual)
 * Dominate Person
 * Dream
 * Geas
@@ -115,6 +127,7 @@ These spells are all commonly known within Azgaarnoth.
 * Modify Memory
 * Planar Binding
 * Raise Dead
+* Rary's telepathic bond (ritual)
 * Scrying
 * Seeming
 * Teleportation Circle
@@ -123,9 +136,13 @@ These spells are all commonly known within Azgaarnoth.
 * Eyebite
 * Find the Path
 * Guards and Wards
+* Heroes' feast
 * Mass Suggestion
+* Mental prison
 * Otto's Irresistible Dance
 * Programmed Illusion
+* Scatter
+* Tenser's transformation
 * True Seeing
 
 ## 7th Level
@@ -134,6 +151,8 @@ These spells are all commonly known within Azgaarnoth.
 * Mirage Arcane
 * Mordenkainen's Magnificent Mansion
 * Mordenkainen's Sword
+* Power Word: Pain
+* Prismatic Spray
 * Project Image
 * Regenerate
 * Resurrection
@@ -141,9 +160,11 @@ These spells are all commonly known within Azgaarnoth.
 * Teleport
 
 ## 8th Level
+* Antipathy/Sympathy
 * Dominate Monster
 * Feeblemind
 * Glibness
+* Maze
 * Mind Blank
 * Power Word: Stun
 
@@ -151,5 +172,6 @@ These spells are all commonly known within Azgaarnoth.
 * Foresight
 * Power Word: Heal
 * Power Word: Kill
+* Prismatic Wall
 * True Polymorph
 

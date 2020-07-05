@@ -1,21 +1,22 @@
 # Common Cleric List of Spells
 These spells are all commonly known within Azgaarnoth.
 
-Cantrips
-* Guidance
-* Word of Radiance
-* Light
-* Mending
-* Resistance
-* Sacred Flame
-* Spare the Dying
-* Thaumaturgy
-* Toll the Dead
-* Virtue
+## Cantrips
+* [guidance](https://www.dndbeyond.com/spells/guidance)
+* [word of radiance](https://www.dndbeyond.com/spells/word-of-radiance)
+* [light](https://www.dndbeyond.com/spells/light)
+* [nending](https://www.dndbeyond.com/spells/mending)
+* [resistance](https://www.dndbeyond.com/spells/resistance)
+* [sacred flame](https://www.dndbeyond.com/spells/sacred-flame)
+* [spare the dying](https://www.dndbeyond.com/spells/spare-the-dying)
+* [thaumaturgy](https://www.dndbeyond.com/spells/thaumaturgy)
+* [toll the dead](https://www.dndbeyond.com/spells/toll-the-dead)
+* [virtue](https://www.dndbeyond.com/spells/virtue)
 
-1st Level
+## 1st Level
 * Bane
 * Bless
+* Cause Fear
 * Command
 * Create or Destroy Water
 * Cure Wounds
@@ -31,11 +32,13 @@ Cantrips
 * Purify Food and Drink
 * Sanctuary
 * Shield of Faith
+* Wrathful Smite
 
-2nd Level
+## 2nd Level
 * Aid
 * Augury
 * Blindness/Deafness
+* Branding Smite
 * Calm Emotions
 * Continual Flame
 * Enhance Ability
@@ -51,8 +54,9 @@ Cantrips
 * Warding Bond
 * Zone of Truth
 
-3rd Level
+## 3rd Level
 * Animate Dead
+* Aura of Vitality
 * Beacon of Hope
 * Bestow Curse
 * Clairvoyance
@@ -74,7 +78,9 @@ Cantrips
 * Tongues
 * Water Walk
 
-4th Level
+## 4th Level
+* Aura of Life
+* Aura of Purity
 * Banishment
 * Control Water
 * Death Ward
@@ -84,7 +90,7 @@ Cantrips
 * Locate Creature
 * Stone Shape
 
-5th Level
+## 5th Level
 * Commune
 * Contagion
 * Dispel Evil and Good
@@ -98,9 +104,11 @@ Cantrips
 * Planar Binding
 * Raise Dead
 * Scrying
+* Skill empowerment
 * Summon Celestial Spirit (UA)
+* Wall of light
 
-6th Level
+## 6th Level
 * Blade Barrier
 * Create Undead
 * Find the Path
@@ -113,7 +121,7 @@ Cantrips
 * True Seeing
 * Word of Recall
 
-7th Level
+## 7th Level
 * Conjure Celestial
 * Divine Word
 * Etherealness
@@ -123,15 +131,16 @@ Cantrips
 * Resurrection
 * Symbol
 
-8th Level
+## 8th Level
 * Antimagic Field
 * Control Weather
 * Earthquake
 * Holy Aura
 
-9th Level
+## 9th Level
 * Astral Projection
 * Gate
 * Mass Heal
+* Power Word: Heal
 * True Resurrection
 
