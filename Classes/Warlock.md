@@ -1,27 +1,28 @@
-# Common Warlock List of Spells
-These spells are all commonly known within Azgaarnoth.
+# Warlock
+
+# Warlock Spells
 
 ## Cantrips
-* Blade Ward
-* Booming Blade
-* Chill Touch
-* Create Bonfire
-* Eldritch Blast
-* Friends
-* Frostbite
-* Green Flame Blade
-* Infestation
-* Lightning Lure
-* Mage Hand
-* Mind Sliver (UA)
-* Magic Stone
-* Minor Illusion
-* Poison Spray
-* Prestidigitation
-* Sword Burst
-* Thunderclap
-* Toll the Dead
-* True Strike
+* [blade ward](https://www.dndbeyond.com/spells/blade-ward)
+* [booming blade](https://www.dndbeyond.com/spells/booming-blade)
+* [chill touch](https://www.dndbeyond.com/spells/chill-touch)
+* [create bonfire](https://www.dndbeyond.com/spells/create-bonfire)
+* [eldritch blast](https://www.dndbeyond.com/spells/eldritch-blast)
+* [friends](https://www.dndbeyond.com/spells/friends)
+* [frostbite](https://www.dndbeyond.com/spells/frostbite)
+* [green flame blade](https://www.dndbeyond.com/spells/green-flame-blade)
+* [infestation](https://www.dndbeyond.com/spells/infestation)
+* [lightning lure](https://www.dndbeyond.com/spells/lightning-lure)
+* [mage hand](https://www.dndbeyond.com/spells/mage-hand)
+* [mind sliver](https://www.dndbeyond.com/spells/mind-sliver)
+* [magic stone](https://www.dndbeyond.com/spells/magic-stone)
+* [minor illusion](https://www.dndbeyond.com/spells/minor-illusion)
+* [poison spray](https://www.dndbeyond.com/spells/poison-spray)
+* [prestidigitation](https://www.dndbeyond.com/spells/prestidigitation)
+* [sword burst](https://www.dndbeyond.com/spells/sword-burst)
+* [thunderclap](https://www.dndbeyond.com/spells/thunderclap)
+* [toll the dead](https://www.dndbeyond.com/spells/toll-the-dead)
+* [true strike](https://www.dndbeyond.com/spells/true-strike)
 
 ## 1st Level
 * Armor of Agathys

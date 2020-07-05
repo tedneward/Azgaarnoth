@@ -1,5 +1,6 @@
-# Common Wizard List of Spells
-These spells are all commonly known within Azgaarnoth.
+# Wizard
+
+# Wizard Spells
 
 ## Cantrips
 * [acid splash](https://www.dndbeyond.com/spells/acid-splash)

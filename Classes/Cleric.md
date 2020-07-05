@@ -144,3 +144,149 @@ Beginning at 10th level, you can call on your deity to intervene on your behalf 
 Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
 
 At 20th level, your call for intervention succeeds automatically, no roll required.
+
+# Cleric Spells
+
+## Cantrips
+* [guidance](https://www.dndbeyond.com/spells/guidance)
+* [word of radiance](https://www.dndbeyond.com/spells/word-of-radiance)
+* [light](https://www.dndbeyond.com/spells/light)
+* [nending](https://www.dndbeyond.com/spells/mending)
+* [resistance](https://www.dndbeyond.com/spells/resistance)
+* [sacred flame](https://www.dndbeyond.com/spells/sacred-flame)
+* [spare the dying](https://www.dndbeyond.com/spells/spare-the-dying)
+* [thaumaturgy](https://www.dndbeyond.com/spells/thaumaturgy)
+* [toll the dead](https://www.dndbeyond.com/spells/toll-the-dead)
+* [virtue](https://www.dndbeyond.com/spells/virtue)
+
+## 1st Level
+* [bane](https://www.dndbeyond.com/spells/bane)
+* [bless](https://www.dndbeyond.com/spells/bless)
+* [cause fear](https://www.dndbeyond.com/spells/cause-fear)
+* [command](https://www.dndbeyond.com/spells/command)
+* [create or destroy water](https://www.dndbeyond.com/spells/create-or-destroy-water)
+* [cure wounds](https://www.dndbeyond.com/spells/cure-wounds)
+* [detect evil and good](https://www.dndbeyond.com/spells/detect-evil-and-good)
+* [detect magic](https://www.dndbeyond.com/spells/detect-magic)
+* [detect poison and disease](https://www.dndbeyond.com/spells/detect-poison-and-disease)
+* [divine favor](https://www.dndbeyond.com/spells/divine-favor)
+* [guiding bolt](https://www.dndbeyond.com/spells/guiding-bolt)
+* [guiding hand](https://www.dndbeyond.com/spells/guiding-hand)
+* [healing word](https://www.dndbeyond.com/spells/healing-word)
+* [inflict wounds](https://www.dndbeyond.com/spells/inflict-wounds)
+* [protection from evil and good](https://www.dndbeyond.com/spells/protection-from-evil-and-good)
+* [purify food and drink](https://www.dndbeyond.com/spells/purify-food-and-drink)
+* [sanctuary](https://www.dndbeyond.com/spells/sanctuary)
+* [shield of faith](https://www.dndbeyond.com/spells/shield-of-faith)
+* [wrathful smite](https://www.dndbeyond.com/spells/wrathful-smite)
+
+## 2nd Level
+* [aid](https://www.dndbeyond.com/spells/aid)
+* [augury](https://www.dndbeyond.com/spells/augury)
+* [blindness/deafness](https://www.dndbeyond.com/spells/blindness-deafness)
+* [branding smite](https://www.dndbeyond.com/spells/branding-smite)
+* [calm emotions](https://www.dndbeyond.com/spells/calm-emotions)
+* [continual flame](https://www.dndbeyond.com/spells/continual-flame)
+* [enhance ability](https://www.dndbeyond.com/spells/enhance-ability)
+* [find traps](https://www.dndbeyond.com/spells/find-traps)
+* [gentle repose](https://www.dndbeyond.com/spells/gentle-repose)
+* [hold person](https://www.dndbeyond.com/spells/hold-person)
+* [lesser restoration](https://www.dndbeyond.com/spells/lesser-restoration)
+* [locate object](https://www.dndbeyond.com/spells/locate-object)
+* [prayer of healing](https://www.dndbeyond.com/spells/prayer-of-healing)
+* [protection from poison](https://www.dndbeyond.com/spells/protection-from-poison)
+* [silence](https://www.dndbeyond.com/spells/silence)
+* [spiritual weapon](https://www.dndbeyond.com/spells/spiritual-weapon)
+* [warding bond](https://www.dndbeyond.com/spells/warding-bond)
+* [zone of truth](https://www.dndbeyond.com/spells/zone-of-truth)
+
+## 3rd Level
+* Animate Dead
+* Aura of Vitality
+* Beacon of Hope
+* Bestow Curse
+* Clairvoyance
+* Create Food and Water
+* Daylight
+* Dispel Magic
+* Feign Death
+* Glyph of Warding
+* Magic Circle
+* Mass Healing Word
+* Meld into Stone
+* Protection from Energy
+* Remove Curse
+* Revivify
+* Sending
+* Speak with Dead
+* Spirit Guardians
+* Spirit Shroud (UA)
+* Tongues
+* Water Walk
+
+## 4th Level
+* Aura of Life
+* Aura of Purity
+* Banishment
+* Control Water
+* Death Ward
+* Divination
+* Freedom of Movement
+* Guardian of Faith
+* Locate Creature
+* Stone Shape
+
+## 5th Level
+* Commune
+* Contagion
+* Dispel Evil and Good
+* Flame Strike
+* Geas
+* Greater Restoration
+* Hallow
+* Insect Plague
+* Legend Lore
+* Mass Cure Wounds
+* Planar Binding
+* Raise Dead
+* Scrying
+* Skill empowerment
+* Summon Celestial Spirit (UA)
+* Wall of light
+
+## 6th Level
+* Blade Barrier
+* Create Undead
+* Find the Path
+* Forbiddance
+* Harm
+* Heal
+* Heroes' Feast
+* Otherworldly Form (UA)
+* Planar Ally
+* True Seeing
+* Word of Recall
+
+## 7th Level
+* Conjure Celestial
+* Divine Word
+* Etherealness
+* Fire Storm
+* Plane Shift
+* Regenerate
+* Resurrection
+* Symbol
+
+## 8th Level
+* Antimagic Field
+* Control Weather
+* Earthquake
+* Holy Aura
+
+## 9th Level
+* Astral Projection
+* Gate
+* Mass Heal
+* Power Word: Heal
+* True Resurrection
+
