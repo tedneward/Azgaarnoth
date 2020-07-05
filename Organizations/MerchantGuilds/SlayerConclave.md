@@ -1,0 +1,2 @@
+# Merchant Guild: Slayer Conclave
+The Slayer Conclave is a merchant guild that offers a particular, unique service: the disposal of creatures that are otherwise too difficult for a village or town (or even a city) to deal with on their own. The Slayer Conclave, for a price, will handle any and all threats, including but not limited to: 

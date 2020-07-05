@@ -1,5 +1,216 @@
 # Ranger
+Far from the bustle of cities and towns, past the hedges that shelter the most distant farms from the terrors of the wild, amid the dense-packed trees of trackless forests and across wide and empty plains, rangers keep their unending watch.
+
+*You must have a Dexterity score and a Wisdom score of 13 or higher in order to multiclass in or out of this class.*
+
+Level|Proficiency Bonus|Features|Spells Known|1st|2nd|3rd|4th|5th
+-----|-----------------|--------|------------|---|---|---|---|---
+1st|+2|Favored Enemy, Natural Explorer|-|-|-|-|-|-
+2nd|+2|Fighting Style, Spellcasting|2|2|-|-|-|-
+3rd|+2|Primeval Awareness, Ranger Conclave|3|3|-|-|-|-
+4th|+2|Ability Score Improvement|3|3|-|-|-|-
+5th|+3|Ranger Conclave feature|4|4|2|-|-|-
+6th|+3|Greater Favored Enemy|4|4|2|-|-|-
+7th|+3|Ranger Conclave feature|5|4|3|-|-|-
+8th|+3|Ability Score Improvement, Fleet of Foot|5|4|3|-|-|-
+9th|+4||6|4|3|2|-|-
+10th|+4|Hide in Plain Sight|6|4|3|2|-|-
+11th|+4|Ranger Conclave feature|7|4|3|3|-|-
+12th|+4|Ability Score Improvement|7|4|3|3|-|-
+13th|+5||8|4|3|3|1|-
+14th|+5|Vanish|8|4|3|3|1|-
+15th|+5|Ranger Conclave feature|9|4|3|3|2|-
+16th|+5|Ability Score Improvement|9|4|3|3|2|-
+17th|+6||10|4|3|3|3|1
+18th|+6|Feral Senses|10|4|3|3|3|1
+19th|+6|Ability Score Improvement|11|4|3|3|3|2
+20th|+6|Foe Slayer|11|4|3|3|3|2
+
+As a ranger, you gain the following class features.
+
+## Hit Points
+**Hit Dice**: 1d10 per ranger level
+
+**Hit Points at 1st Level**: 10 + your Constitution modifier
+
+**Hit Points at Higher Levels**: 1d10 (or 6) + your Constitution modifier per ranger level after 1st
+
+## Proficiencies
+**Armor**: Light armor, medium armor, shields
+
+**Weapons**: Simple weapons, martial weapons
+
+**Tools**: None
+
+**Saving Throws**: Strength, Dexterity
+
+**Skills**: Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
+
+## Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+• (a) scale mail or (b) leather armor
+• (a) two shortswords or (b) two simple melee weapons
+• (a) a dungeoneer's pack or (b) an explorer's pack
+• A longbow and a quiver of 20 arrows
+
+## Favored Foe
+You can call on your bond with nature to mark a creature as your favored enemy for a time: you know the [hunter’s mark]() spell, and Wisdom is your spellcasting ability for it. You can use it a certain number of times without expending a spell slot and without requiring concentration—a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+
+When you gain the Spellcasting feature at 2nd level, [hunter’s mark]() doesn’t count against the number of ranger spells you know.
+
+## Deft Explorer
+You are an unsurpassed explorer and survivor. Choose one of the following benefits, and then choose another one at 6th and 10th level.
+
+### Canny
+Choose one skill: Animal Handling, Athletics, History, Insight, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You gain proficiency in the chosen skill if you don’t already have it, and you can add double your proficiency bonus to ability checks using that skill.
+
+In addition, thanks to your extensive wandering, you are able to speak, read, and write two languages of your choice.
+
+### Roving
+Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.
+
+### Tireless
+As an action, you can give yourself a number of temporary hit points equal to 1d10 + your Wisdom modifier. You can use this special action a number of times equal to your Wisdom modifier (a minimum of once), and you regain all expended uses when you finish a long rest.
+
+In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1.
+
+## Fighting Style
+At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the [styles available](Fighter/Styles.md). You can't take a Fighting Style option more than once, even if you later get to choose again.
+
+In addition, you have access to the following fighting style:
+
+* **Druidic Warrior**
+  You learn two cantrips of your choice from the druid spell list. They count as ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.
 
 
-## Ranger Archetype
-[FeyWanderer](Ranger/FeyWanderer.md), [Swarmkeeper](Ranger/Swarmkeeper.md)
+## Spellcasting
+By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does.
+
+### Spell Slots
+The Ranger table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+For example, if you know the 1st-level spell Animal Friendship and have a 1st-level and a 2nd-level spell slot available, you can cast Animal Friendship using either slot.
+
+### Spells Known of 1st Level and Higher
+You know two 1st-level spells of your choice from the ranger spell list.
+The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.
+
+Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots.
+
+### Spellcasting Ability
+Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
+
+**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+
+**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+
+### Spell Versatility
+Whenever you finish a long rest, you can replace one spell you learned from this Spellcasting feature with another spell from the ranger spell list. The new spell must be the same level as the spell you replace.
+
+### Spellcasting Focus
+You can use a druidic focus as a spellcasting focus for your ranger spells. See chapter 5, “Equipment,” of the *Player’s Handbook* for a list of things that count as druidic focuses.
+
+## Animal Companion
+At 3rd level, you learn to use your magic to create a powerful bond with a creature of the natural world.
+
+With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you call forth an animal from the wilderness to serve as your faithful companion. You normally select you companion from among the following animals: an ape, a black bear, a boar, a giant badger, a giant weasel, a mule, a panther, or a wolf. However, your DM might pick one of these animals for you, based on the surrounding terrain and on what types of creatures would logically be present in the area.
+
+At the end of the 8 hours, your animal companion appears and gains all the benefits of your Companion’s Bond ability. You can have only one animal companion at a time.
+
+If your animal companion is ever slain, the magical bond you share allows you to return it to life. With 8 hours of work and the expenditure of 25 gp worth of rare herbs and fine food, you call forth your companion’s spirit and use your magic to create a new body for it. You can return an animal companion to life in this manner even if you do not possess any part of its body.
+
+If you use this ability to return a former animal companion to life while you have a current animal companion, your current companion leaves you and is replaced by the restored companion.
+
+## Companion's Bond
+Your animal companion gains a variety of benefits while it is linked to you.
+
+The animal companion loses its Multiattack action, if it has one.
+
+The companion obeys your commands as best it can. It rolls for initiative like any other creature, but you determine its actions, decisions, attitudes, and so on. If you are incapacitated or absent, your companion acts on its own.
+
+When using your Natural Explorer feature, you and your animal companion can both move stealthily at a normal pace.
+
+Your animal companion has abilities and game statistics determined in part by your level. Your companion uses your proficiency bonus rather than its own. In addition to the areas where it normally uses its proficiency bonus, an animal companion also adds its proficiency bonus to its AC and to its damage rolls.
+
+Your animal companion gains proficiency in two skills of your choice. It also becomes proficient with all saving throws.
+
+For each level you gain after 3rd, your animal companion gains an additional hit die and increases its hit points accordingly.
+
+Whenever you gain the Ability Score Improvement class feature, your companion’s abilities also improve. Your companion can increase one ability score of your choice by 2, or it can increase two ability scores of your choice by 1. As normal, your companion can’t increase an ability score above 20 using this feature unless its description specifies otherwise.
+
+Your companion shares your alignment, and has a personality trait and a flaw that you can roll for or select from the tables below. Your companion shares your ideal, and its bond is always, “The ranger who travels with me is a beloved companion for whom I would gladly give my life.”
+
+Your animal companion gains the benefits of your Favored Enemy feature, and of your Greater Favored Enemy feature when you gain that feature at 6th level. It uses the favored enemies you selected for those features.
+
+d6|Trait
+--|------
+1|I’m dauntless in the face of adversity.
+2|Threaten my friends, threaten me.
+3|I stay on alert so others can rest.
+4|People see an animal and underestimate me. I use that to my advantage.
+5|I have a knack for showing up in the nick of time.
+6|I put my friends’ needs before my own in all things.
+
+d6|Flaw
+--|----
+1|If there’s food left unattended, I’ll eat it.
+2|I growl at strangers, and all people except my ranger are strangers to me.
+3|Any time is a good time for a belly rub.
+4|I’m deathly afraid of water.
+5|My idea of hello is a flurry of licks to the face.
+6|I jump on creatures to tell them how much I love them.
+
+
+## Primeval Awareness
+Beginning at 3rd level, you can focus your awareness through the interconnections of nature: you learn additional spells when you reach certain levels in this class if you don’t already know them, as shown in the Primal Awareness Spells table. These spells don’t count against the number of ranger spells you know.
+
+**Primal Awareness Spells**
+Ranger Level | Spell
+------------ | -----
+3rd | detect magic, speak with animals
+5th | beast sense, locate animals or plants
+9th | speak with plants
+13th | locate creature
+17th | commune with nature
+
+You can cast each of these spells once without expending a spell slot. Once you cast a spell in this way, you can’t do so again until you finish a long rest.
+
+## Ranger Conclave
+At 3rd level, you choose to emulate the ideals and training of a ranger conclave:
+• [Beast Master](Ranger/BeastMaster.md)
+• [Fey Wanderer](Ranger/FeyWanderer.md)
+• [Gloom Stalker](Ranger/GloomStalker.md)
+• [Horizon Walker](Ranger/HorizonWalker.md)
+• [Hunter](Ranger/Hunter.md)
+• [Monster Slayer](Ranger/MonsterSlayer.md)
+• [Primeval Guardian](Ranger/PrimevalGuardian.md)
+• [Swarmkeeper](Ranger/Swarmkeeper.md)
+
+Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
+
+## Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+## Greater Favored Enemy
+At 6th level, you are ready to hunt even deadlier game. Choose a type of greater favored enemy: aberrations, celestials, constructs, dragons, elementals, fiends, or giants. You gain all the benefits against this chosen enemy that you normally gain against your favored enemy, including an additional language. Your bonus to damage rolls against all your favored enemies increases to +4.
+
+Additionally, you have advantage on saving throws against the spells and abilities used by a greater favored enemy.
+
+## Fleet of Foot
+Beginning at 8th level, you can use the Dash action as a bonus action on your turn.
+
+## Fade Away
+Starting at 10th level, you can use a bonus action to magically become invisible, along with any equipment you are wearing or carrying, until the start of your next turn.
+
+Once you use this feature, you can’t use it again until you finish a short or long rest.
+
+## Vanish
+Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
+
+## Feral Senses
+At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.
+
+You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.
+
+## Foe Slayer
+At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
