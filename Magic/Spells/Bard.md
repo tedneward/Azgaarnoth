@@ -2,18 +2,18 @@
 These spells are all commonly known within Azgaarnoth.
 
 ## Cantrips
-* Blade Ward
-* Dancing Lights
-* Friends
-* Light
-* Mage Hand
-* Mending
-* Message
-* Minor Illusion
-* Prestidigitation
-* Thunderclap
-* True Strike
-* Vicious Mockery
+* [blade ward](https://www.dndbeyond.com/spells/blade-ward)
+* [dancing lights](https://www.dndbeyond.com/spells/dancing-lights)
+* [friends](https://www.dndbeyond.com/spells/friends)
+* [light](https://www.dndbeyond.com/spells/light)
+* [mage hand](https://www.dndbeyond.com/spells/mage-hand)
+* [mending](https://www.dndbeyond.com/spells/mending)
+* [message](https://www.dndbeyond.com/spells/message)
+* [minor illusion](https://www.dndbeyond.com/spells/minor-illusion)
+* [prestidigitation](https://www.dndbeyond.com/spells/prestidigitation)
+* [thunderclap](https://www.dndbeyond.com/spells/thunderclap)
+* [true strike](https://www.dndbeyond.com/spells/true-strike)
+* [vicious mockery](https://www.dndbeyond.com/spells/vicious-mockery)
 
 ## 1st Level
 * Animal Friendship

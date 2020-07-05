@@ -1,7 +1,6 @@
-# Common Sorcerer List of Spells
-These spells are all commonly known within Azgaarnoth.
+# Sorcerer Spells
 
-Cantrips
+## Cantrips
 * [acid splash](https://www.dndbeyond.com/spells/acid-splash)
 * [blade ward](https://www.dndbeyond.com/spells/blade-ward)
 * [booming blade](https://www.dndbeyond.com/spells/booming-blade)
@@ -32,36 +31,36 @@ Cantrips
 * [thunderclap](https://www.dndbeyond.com/spells/thunderclap)
 * [true strike](https://www.dndbeyond.com/spells/true-strike)
 
-1st Level
-* Acid Stream (UA)
-* Burning Hands
-* Catapult
-* Charm Person
-* Chaos Bolt
-* Chromatic Orb
-* Color Spray
-* Comprehend Languages
-* Detect Magic
-* Disguise Self
-* Earth Tremor
-* Expeditious Retreat
-* False Life
-* Feather Fall
-* Fog Cloud
-* Ice Knife
-* ID Insinuation (UA)
-* Jump
-* Mage Armor
-* Magic Missile
-* Ray of Sickness
-* Shield
-* Silent Image
-* Sleep
-* Sudden Awakening
-* Thunderwave
-* Witch Bolt
+## 1st Level
+* [acid stream](https://www.dndbeyond.com/spells/acid-stream)
+* [burning hands](https://www.dndbeyond.com/spells/burning-hands)
+* [catapult](https://www.dndbeyond.com/spells/catapult)
+* [charm person](https://www.dndbeyond.com/spells/charm-person)
+* [chaos bolt](https://www.dndbeyond.com/spells/chaos-bolt)
+* [chromatic orb](https://www.dndbeyond.com/spells/chromatic-orb)
+* [color spray](https://www.dndbeyond.com/spells/color-spray)
+* [comprehend languages](https://www.dndbeyond.com/spells/comprehend-languages)
+* [detect magic](https://www.dndbeyond.com/spells/detect-magic)
+* [disguise self](https://www.dndbeyond.com/spells/disguise-self)
+* [earth tremor](https://www.dndbeyond.com/spells/earth-tremor)
+* [expeditious retreat](https://www.dndbeyond.com/spells/expeditious-retreat)
+* [false life](https://www.dndbeyond.com/spells/false-life)
+* [feather fall](https://www.dndbeyond.com/spells/feather-fall)
+* [fog cloud](https://www.dndbeyond.com/spells/fog-cloud)
+* [ice knife](https://www.dndbeyond.com/spells/ice-knife)
+* [id insinuation](https://www.dndbeyond.com/spells/id-insinuation)
+* [jump](https://www.dndbeyond.com/spells/jump)
+* [mage armor](https://www.dndbeyond.com/spells/mage-armor)
+* [magic missile](https://www.dndbeyond.com/spells/magic-missile)
+* [ray of sickness](https://www.dndbeyond.com/spells/ray-of-sickness)
+* [shield](https://www.dndbeyond.com/spells/shield)
+* [silent image](https://www.dndbeyond.com/spells/silent-image)
+* [sleep](https://www.dndbeyond.com/spells/sleep)
+* [sudden awakening](https://www.dndbeyond.com/spells/sudden-awakening)
+* [thunderwave](https://www.dndbeyond.com/spells/thunderwave)
+* [witch bolt](https://www.dndbeyond.com/spells/witch-bolt)
 
-2nd Level
+## 2nd Level
 * Aganazzar's Scorcher
 * Alter Self
 * Blindness/Deafness
@@ -98,7 +97,7 @@ Cantrips
 * Warding Wind
 * Web
 
-3rd Level
+## 3rd Level
 * Blink
 * Clairvoyance
 * Counterspell
@@ -129,7 +128,7 @@ Cantrips
 * Water Breathing
 * Water Walk
 
-4th Level
+## 4th Level
 * Banishment
 * Blight
 * Confusion
@@ -149,7 +148,7 @@ Cantrips
 * Wall of Fire
 * Watery Sphere
 
-5th Level
+## 5th Level
 * Animate Objects
 * Cloudkill
 * Cone of Cold
@@ -166,7 +165,7 @@ Cantrips
 * Teleportation Circle
 * Wall of Stone
 
-6th Level
+## 6th Level
 * Arcane Gate
 * Chain Lightning
 * Circle of Death
@@ -184,7 +183,7 @@ Cantrips
 * Sunbeam
 * True Seeing
 
-7th Level
+## 7th Level
 * Conjure Hezrou
 * Delayed Blast Fireball
 * Etherealness
@@ -195,7 +194,7 @@ Cantrips
 * Reverse Gravity
 * Teleport
 
-8th Level
+## 8th Level
 * Abi-Dalzim's Horrid Wilting
 * Dominate Monster
 * Earthquake
@@ -203,7 +202,7 @@ Cantrips
 * Power Word: Stun
 * Sunburst
 
-9th Level
+## 9th Level
 * Gate
 * Meteor Swarm
 * Power Word: Kill
