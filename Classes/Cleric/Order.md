@@ -5,17 +5,8 @@ The ideal of order is obedience to the law above all else, rather than to a spec
 
 More importantly, law establishes hierarchies. Those selected by the law to lead must be obeyed. Those who obey must do so to the best of their ability. In this manner, law creates an intricate web of obligations that allows society to forge order and security in a chaotic multiverse.
 
-**Order Domain Features**
-Cleric Level | Feature
------------- | -------
-1st | Bonus Proficiency, Voice of Authority
-2nd | Channel Divinity: Order’s Demand
-6th | Order’s Dominion
-8th | Divine Strike
-17th | Order’s Wrath
-
 ## Domain Spells
-You gain domain spells at the cleric levels listed in the Order Domain Spells table. See the Divine Domain class feature for how domain spells work.
+Starting at 1st level, you gain domain spells at the cleric levels listed in the Order Domain Spells table. See the Divine Domain class feature for how domain spells work.
 
 **Order Domain Spells**
 Cleric Level | Spells
