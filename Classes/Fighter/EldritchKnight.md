@@ -1,6 +1,8 @@
 # Fighter Martial Archetype: Eldritch Knight
 The archetypal Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic. Eldritch Knights use magical techniques similar to those practiced by wizards. They focus their study on two of the eight schools of magic: abjuration and evocation. Abjuration spells grant an Eldritch Knight additional protection in battle, and evocation spells deal damage to many foes at once, extending the fighter's reach in combat. These knights learn a comparatively small number of spells, committing them to memory instead of keeping them in a spellbook.
 
+Eldritch Knight Martial Archetypes are often found near or around [Mage Schools](/Organizations/MageSchools/MageSchools.md), particularly the [FieryFist](/Organizations/MageSchools/FieryFirst.md) or [CrimsonSunrise](/Organizations/MageSchools/CrimsonSunrise.md) schools; that said, there are dozens of mage schools that focus on combat magic, and an Eldritch Knight would be welcome in any of them.
+
 Fighter Level|Cantrips Known|Spells Known|1st|2nd|3rd|4th
 -------------|--------------|------------|---|---|---|---
 3rd|2|3|2|-|-|-

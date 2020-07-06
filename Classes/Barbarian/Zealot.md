@@ -1,5 +1,5 @@
 # Primal Path: Path of the Zealot
-Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots – warriors who channel their rage into powerful displays of divine power. Many clerics of [Kaevar](/Religions/KaevarianChurch.md) end up taking this path when the world fails their insistent urge to convert entirely; many barbarians of [Al'Uma](/Relgions/AlUma.md) similarly end up down this path.
+Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots – warriors who channel their rage into powerful displays of divine power. These barbarians are quite common among the [Al'Uma](/Cultures/AlUma.md), particularly among the nomads, but are also frequently bound to one of the [Pantheonic gods](/Religions/Pantheon.md) or even, at times, the [Kaevarian Church](/Religions/KaevarianChurch.md), though in the latter case usually in [Dradehalia](/Nations/Dradehalia.md).
 
 ## Divine Fury
 Starting when you choose this path at 3rd level, you can channel divine fury into your weapon strikes. While you're raging, the first creature you hit on each of your turns with a weapon attack takes extra damage equal to 1d6 + half your Barbarian level. The extra damage is necrotic or radiant; you choose the type of damage when you gain this feature.

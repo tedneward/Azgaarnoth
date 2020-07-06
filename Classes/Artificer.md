@@ -1,6 +1,11 @@
 # Artificer
 Masters of unlocking magic in everyday objects, artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting temporary and permanent magical objects. To cast a spell, an artificer could use alchemist’s supplies to create a potent elixir, calligrapher’s supplies to inscribe a sigil of power on an ally’s armor, or tinker’s tools to craft a temporary charm. The magic of artificers is tied to their tools and their talents.
 
+Artificers are almost always recruited at some point by [Merchant Guilds](/Organizations/MerchantGuilds/MerchantGuilds.md), [Mercenary Companies](/Organizations/MercCompanies/MercCompanies.md), or the [Order of the Steel Dragon](/Organizations/DraconicOrder/Steel.md), in that order, depending on the level/quality of the work produced by the artificer. (The Steels want only the best as part of their Order, and the merchants want anything they can sell regardless of quality.)
+
+Rumors persist that the [Dread Emperor](/People/DreadEmperor.md) has been known to kidnap promising artificers, and force them to artifice on his behalf.
+
+
 Level | Proficiency Bonus | Features | Infusions Known | Infused Items | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th
 ----- | ----------------- | -------- | --------------- | ------------- | -------------- | --- | --- | --- | --- | ---
 1st  | +2 | Magical Tinkering, Spellcasting      | - | - | 2 | 2 | - | - | - | -

@@ -1,6 +1,8 @@
 # Paladin Sacred Oath: Oath of Devotion
 The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels – the perfect servants of good – as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
 
+Oaths of Devotion are often sworn to the [Order of the Gold Dragon](/Organizations/DraconicOrder/Gold.md) or [Order of the Platinum Dragon](/Organizations/DraconicOrder/Platinum.md).
+
 ## Tenets of Devotion
 Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.
 

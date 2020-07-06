@@ -1,6 +1,8 @@
 # Ranger Archetype: Fey Wanderer
 As a Fey Wanderer, you guard the border between the Feywild and the Material Plane, guiding the lost out of the Feywild and preventing dangerous fey from damaging the Material Plane. Your experience with both domains makes you an exceptional negotiator between inhabitants of these worlds, as you understand both humanoid mindsets and the wiles of the fey courts.
 
+Fey Wanderer rangers often find their guardianship strained by the frequent battles and wars among the Azgaarnoth nations and organizations. Nevertheless, they seek to protect the world against the Feywild, which they believe to be encouraging the conflict so as to weaken the mortals and leave it open to the predations of the darker fey.
+
 Fey Wanderers possess a preternatural blessing from a fey ally or a place of fey power. Choose your blessing from the Feywild Gifts table or determine it randomly.
 
 **Feywild Gifts**

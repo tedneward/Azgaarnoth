@@ -1,5 +1,5 @@
 # Barbarian Path: Path of the Wild Soul
-The realm of the Feywild abounds with beauty, unpredictable emotion, and rampant magic. A barbarian exposed to this realm feels emotions powerfully and magic saturates their body. When a barbarian who follows this path rages, it is a bellowing roar for freedom, an explosion of expression, manifesting in unpredictable ways.
+The realm of the Feywild abounds with beauty, unpredictable emotion, and rampant magic. A barbarian exposed to this realm feels emotions powerfully and magic saturates their body. When a barbarian who follows this path rages, it is a bellowing roar for freedom, an explosion of expression, manifesting in unpredictable ways. These barbarians are rare, and often found in [Zhi](/Nations/Zhi.md) owing to that nation's deep emphasis on the appreciation of beauty. Many of them journey into [Yithi](/Nations/Yithi.md), or beyond, in search of greater beauty.
 
 ## Lingering Magic
 At 3rd level, your body reacts to the presence of magic. You can cast the Detect Magic spell without using a spell slot or components. Constitution is your spellcasting ability for this spell. You faintly glow a color corresponding to the school of magic you detect (you choose the colors).

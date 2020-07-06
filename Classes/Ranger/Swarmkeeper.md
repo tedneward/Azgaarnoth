@@ -1,6 +1,8 @@
 # Ranger Archetype: Swarmkeeper
 Feeling a deep connection to the world around them, some rangers reach out through their magical connection to nature and gather a host of fey spirits, which take the form of swarming beasts—be they buzzing insects, fluttering birds, slippery squids, or otherwise. The swarm becomes a potent force in battle, as well as helpful—if potentially disturbing—company for the ranger. Some Swarmkeepers are outcasts or hermits, keeping to themselves and their attendant swarms rather than dealing with the discomfort of others. Other Swarmkeepers enjoy building vibrant communities that work for the mutual benefit of all those they consider part of their swarm.
 
+Swarmkeeper rangers are found in many corners of Azgaarnoth, particularly in the wilds of [North Bedia](/Nations/Bedia.md). Several cities have been known to use a Swarmkeeper to keep rats and other swarming city-dwelling creatures under control, however.
+
 ## Swarmkeeper Magic
 3rd-level Swarmkeeper feature
 At the 3rd level, you learn the [mage hand]() cantrip if you don’t already know it. When you cast it, the hand takes the form of swarming nature spirits.

@@ -3,6 +3,8 @@ Some barbarians hail from cultures that revere their ancestors. These tribes tea
 
 Barbarians who draw on their ancestral guardians can better fight to protect their tribes and their allies. In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors’ deeds. These tattoos tell sagas of victories against terrible monsters and other fearsome rivals.
 
+These barbarians are most commonly found among the [United Hordes](/Nations/Tragekia.md) or [Yithi](/Nations/Yithi.md).
+
 ## Ancestral Protectors
 Starting when you choose this path at 3rd level, spectral warriors appear when you enter your rage. While you’re raging, the first creature you hit with an attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has disadvantage on any attack roll that isn't against you, and when the target hits a creature other than you with an attack, that creature has resistance to the damage of the target’s attacks.
 

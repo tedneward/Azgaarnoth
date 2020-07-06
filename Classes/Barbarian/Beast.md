@@ -1,5 +1,5 @@
 # Primal Path: Path of the Beast
-Barbarians who walk the Path of Beast draw their rage from a bestial spark burning within their souls. That beast howls to be released and bursts forth in the throes of rage.
+Barbarians who walk the Path of Beast draw their rage from a bestial spark burning within their souls. That beast howls to be released and bursts forth in the throes of rage. These barbarians are often found at the fringes of civilization, in [North Bedia](/Nations/Bedia.md); some may have emerged amongst the chaos in [Chidia](/Geography/Chidia.md) but will generally want to keep their bestial nature a little disguised.
 
 ## Form of the Beast
 Starting when you choose this path at 3rd level, when you enter your rage, you can transform, revealing the bestial power within you. Until your rage ends, you manifest a natural melee weapon, choosing one of the following options each time you rage:

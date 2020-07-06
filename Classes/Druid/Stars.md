@@ -1,9 +1,9 @@
 # Druidic Circle: Circle of the Stars
-(from *UA2020-Subclasses*)
-
 An ancient lineage, the Circle of Stars allows druids to draw on the power of starlight. These druids have tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By revealing and understanding these secrets, the Circle of the Stars seeks to harness the powers of the cosmos.
 
 Many druids of this circle keep detailed records of the stars and their effects on the world. Some groups document these observations at megalithic sites, which serve as enigmatic libraries of lore. These repositories might take the form of stone circles, pyramids, petroglyphs, and underground temples—any construction durable enough to protect the circle's sacred knowledge even against a great cataclysm.
+
+These druids believe they are following in the footsteps of the study of the [Eldar](/Races/Eldar.md), and claim to be a long tradition dating back to the days before the Fall.
 
 ## Star Map
 By the time you've reached 2nd level, you've created a star map as part of your study of the heavens. The map is a Tiny object and can serve as a spellcasting focus for your druid spells. You decide what form the object takes, or you can determine what it is by rolling on the Star Map table.
