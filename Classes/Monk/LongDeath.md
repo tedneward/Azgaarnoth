@@ -3,7 +3,7 @@ Monks of the Way of the Long Death are obsessed with the meaning and mechanics o
 
 Owing to their rather macabre interests, monasteries dedicated to the Way of the Long Death are often not welcome near settlements; however, many of the Long Death adherents can be found in the *hospitals* of the [Way of Mercy](Mercy.md), as the study of death is equally important to both Traditions. Masters of Mercy will frequently take on a Long Death student, and Masters of the Long Death will frequently reciprocate. Additionally, Long Death monks will often accompany Mercy monks as escorts and sparring partners when Mercy must travel to far-off places.
 
-Masters of the Long Death are also frequently found in the company of magi of the [Night's Blessing](/Organizations/MageSchools/NightsBlessing.md), and as part of several [mercenary companies](/Organizations/MercCompanies/MercCompanies.md).
+Masters of the Long Death are also frequently found in the company of magi of the [Night's Blessing](/Organizations/MageSchools/NightsBlessing.md) and sometimes the [Twilight Star](/Organizations/MageSchools/TwilightStar.md), and, less often, as part of several [mercenary companies](/Organizations/MercCompanies/MercCompanies.md).
 
 ## Touch of Death
 Starting when you choose this tradition at 3rd level, your study of death allows you to extract vitality from another creature as it nears its demise. When you reduce a creature within 5 feet of you to 0 hit points, you gain temporary hit points equal to your Wisdom modifier + your monk level (minimum of 1 temporary hit point).

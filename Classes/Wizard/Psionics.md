@@ -3,7 +3,7 @@ Wizards study magical power in all its forms, including the magic of psionics. T
 
 Psionicists channel their magic by focusing their minds. By doing so they can transcend their physical bodies, adopting forms of pure thought, casting spells psionically to bypass the need for components, and perceiving the world with a broader range of senses.
 
-As a member of the Psionics tradition, you might have awoken your psionic potential through the strain of your esoteric studies, or perhaps you joined a scholarly order dedicated to unlocking the magic of the mind.
+As a member of the Psionics tradition, you might have awoken your psionic potential through the strain of your esoteric studies, or perhaps you joined a scholarly order dedicated to unlocking the magic of the mind. In the latter case, you likely joined the [MindMage](/Organizations/MageSchools/MindMage.md) school, one of the very few that focuses on the use of psionics. It's also possible that you had the channels to your mind's power opened by a wandering ex-member of that school, but this happens quite rarely--most psionic wizards prefer to study within the walls of their *sanctum sanctorum* in [Mighal](/Cities/Mighal.md).
 
 ## Psionic Focus
 Starting at the 2nd level, you have learned to channel psionic energy through a special object: a psionic focus. You gain the object with this feature (see the “Your Psionic Focus” sidebar for how you might have acquired the item).
