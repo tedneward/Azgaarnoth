@@ -73,6 +73,8 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 ## Cunning Action
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
 
+You may also your Cunning Action to carefully aim your next attack. As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven’t moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
+
 ## Roguish Archetype
 At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities:
 * [Arcane Trickster](Rogue/ArcaneTrickster.md)

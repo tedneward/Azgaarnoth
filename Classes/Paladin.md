@@ -68,10 +68,13 @@ Alternatively, you can expend 5 hit points from your pool of healing to cure the
 This feature has no effect on undead and constructs.
 
 ## Fighting Style
-You adopt a particular style of fighting as your specialty. Choose one of the [available styles](Fighter/Styles.md). You can't take a Fighting Style option more than once, even if you later get to choose again. In addition, Paladins also have the following styles available to them:
+At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the [available styles](Fighter/Styles.md). You can't take a Fighting Style option more than once, even if you later get to choose again. In addition, Paladins also have the following styles available to them:
 
-### Blessed Warrior
-You learn two cantrips of your choice from the cleric spell list. They count as paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the cleric spell list.
+* **Blessed Warrior**
+  You learn two cantrips of your choice from the cleric spell list. They count as paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the cleric spell list.
+
+## Martial Versatility
+Whenever you gain a level, you can replace a fighting style you know with another style available to your class. This change represents a shift of focus in your martial training and practice, causing you to lose the benefits of one style and gain the benefits of another style.
 
 ## Spellcasting
 By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does.

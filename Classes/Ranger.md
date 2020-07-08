@@ -82,6 +82,8 @@ In addition, you have access to the following fighting style:
 * **Druidic Warrior**
   You learn two cantrips of your choice from the druid spell list. They count as ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.
 
+### Martial Versatility
+Whenever you gain a level, you can replace a fighting style you know with another style available to your class. This change represents a shift of focus in your martial training and practice, causing you to lose the benefits of one style and gain the benefits of another style.
 
 ## Spellcasting
 By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does.

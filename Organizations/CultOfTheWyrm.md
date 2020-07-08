@@ -3,7 +3,7 @@ The Cult of the Wyrm is the name given to the various small (10 - 50 members, ma
  
 Wrym Cultists will never miss an opportunity to take a cheap shot at members of a [Draconic Order](DraconicOrder.md), particularly if they can embarrass them or outright destroy a chapterhouse or cell.
 
-It is rumored that the [Dread Emperor](/People/DreadEmporer.md) has made contact with several cells of the Cult, and offers them sanctuary in return for favors; if this is true, it means the Emperor has taken a dangerous step, for allies of chromatic dragons are generally not long for this life... but the same can be said of the allies the Emperor if they distract him from his goals.
+It is rumored that the [Dread Emperor](/People/DreadEmperor.md) has made contact with several cells of the Cult, and offers them sanctuary in return for favors; if this is true, it means the Emperor has taken a dangerous step, for allies of chromatic dragons are generally not long for this life... but the same can be said of the allies the Emperor if they distract him from his goals.
 
 Cult cells have been found in all corners of Azgaarnoth, particularly anywhere remote where a young chromatic dragon might be able to grow without attracting notice. They tend to lie low, since rumors of a Cult cell has been known to draw Draconic Order expeditions from all the way across Azgaarnoth to exterminate them.
 

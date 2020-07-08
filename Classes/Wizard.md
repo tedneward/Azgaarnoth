@@ -48,16 +48,19 @@ As a wizard, you gain the following class features.
 
 ## Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
-• (a) a quarterstaff or (b) a dagger
-• (a) a component pouch or (b) an arcane focus
-• (a) a scholar's pack or (b) an explorer's pack
-• A spellbook
+* (a) a quarterstaff or (b) a dagger
+* (a) a component pouch or (b) an arcane focus
+* (a) a scholar's pack or (b) an explorer's pack
+* A spellbook
 
 ## Spellcasting
 As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power.
 
 ### Cantrips
 At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table.
+
+### Cantrip Versatility
+Whenever you gain a level in this class, you can replace one cantrip you learned from this Spellcasting feature with another cantrip from the wizard spell list.
 
 ### Spellbook
 At 1st level, you have a spellbook containing six 1st-level wizard spells of your choice.
@@ -108,23 +111,21 @@ For example, if you're a 4th-level wizard, you can recover up to two levels wort
 
 ## Arcane Tradition
 When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of the following schools:
-• Abjuration
-• Bladesinger
-• Chronurgy
-• Conjuration
-• Divination
-• Enchantment
-• Evocation
-• Graviturgy
-• Illusion
-• [Invention](Wizard/Invention.md)
-• Lore Mastery (UA)
-• Necromancy
-• Onomancy (UA)
-• Psionics (UA)
-• [Theurgy](Wizard/Theurgy.md)
-• Transmutation
-• War Magic
+* [Abjuration](Wizard/Abjuration.md)
+* [Bladesinger](Wizard/Bladesinger.md)
+* [Conjuration](Wizard/Conjuration.md)
+* [Divination](Wizard/Divination.md)
+* [Enchantment](Wizard/Enchantment.md)
+* [Evocation](Wizard/Evocation.md)
+* [Illusion](Wizard/Illusion.md)
+* [Invention](Wizard/SchoolOfInvention.md)
+* [Lore Mastery](Wizard/LoreMastery.md)
+* [Necromancy](Wizard/Necromancy.md)
+* [Onomancy](Wizard/Onomancy.md)
+* [Psionics](Wizard/Psionics.md)
+* [Theurgy](Wizard/Theurgy.md)
+* [Transmutation](Wizard/Transmutation.md)
+* [War Magic](Wizard/WarMagic.md)
 Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
 ## Ability Score Improvement
@@ -229,6 +230,7 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 * Aganazzar's Scorcher
 * Alter Self
 * Arcane Lock
+* augury
 * Blindness/Deafness
 * Blur
 * Cloud of Daggers
@@ -240,6 +242,7 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 * Dragon's Breath
 * Dust Devil
 * Earthbind
+* enhance ability
 * Enlarge/Reduce
 * Flaming Sphere
 * Flock of Familiars
@@ -306,6 +309,7 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 * Sending
 * Sleet Storm
 * Slow
+* speak with dead
 * Spirit Shroud (UA)
 * Stinking Cloud
 * Summon Fey Spirit (UA)
@@ -328,6 +332,7 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 * Conjure Shadow Demon
 * Control Water
 * Dimension Door
+* divination (ritual)
 * Ego Whip (UA)
 * Elemental Bane
 * Evard's Black Tentacles

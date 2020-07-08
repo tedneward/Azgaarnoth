@@ -64,6 +64,9 @@ The Sorcerer table shows how many spell slots you have to cast your spells of 1s
 
 For example, if you know the 1st-level spell Burning Hands and have a 1st-level and a 2nd-level spell slot available, you can cast Burning Hands using either slot.
 
+### Spell Versatility
+Whenever you finish a long rest, you can replace one spell you learned from this Spellcasting feature with another spell from the sorcerer spell list. The new spell must be the same level as the spell you replace.
+
 ### Spells Known of 1st Level and Higher
 You know two 1st-level spells of your choice from the sorcerer spell list.
 
@@ -121,6 +124,12 @@ Spell Slot Level|Sorcery Point Cost
 
 ***Converting a Spell Slot to Sorcery Points***. As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
 
+***Empowering Reserves***. When you make an ability check on your turn, you can spend 2 sorcery points to gain advantage on the check.
+
+***Imbuing Touch***. As an action, you can touch one nonmagical weapon and spend 2 sorcery points to imbue it with magic for 1 minute. For the duration, the weapon is considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.
+
+***Sorcerous Fortitude***. As an action, you can spend any number of sorcery points to roll a d4 for each point expended. You gain a number of temporary hit points equal to the total rolled.
+
 ## Metamagic
 At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.
 
@@ -133,6 +142,9 @@ You can use only one Metamagic option on a spell when you cast it, unless otherw
   When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell.
 
   When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet.
+
+* **Elemental Spell** 
+  When you cast a spell that deals a type of damage from the following list, you can spend 1 sorcery point to change that damage type to one of the other listed types: acid, cold, fire, lightning, thunder.
 
 * **Empowered Spell**
   When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.
@@ -148,11 +160,19 @@ You can use only one Metamagic option on a spell when you cast it, unless otherw
 * **Quickened Spell**
   When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
 
+* **Seeking Spell**
+  When you cast a spell that requires you to make a spell attack roll or that forces a target to make a Dexterity saving throw, you can spend 1 sorcery point to ignore the effects of half- and three-quarters cover against targets of the spell.
+
 * **Subtle Spell**
   When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
 
 * **Twinned Spell**
   When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip). To be eligible for Twinned Spell, a spell must be incapable of targeting more than one creature at the spell's current level.
+
+* **Unerring Spell**
+  If you make an attack roll for a spell and miss, you can spend 2 sorcery points to reroll the attack roll. You must use the result of the second roll.
+  
+  You can use Unerring Spell even if you have already used a different Metamagic option during the casting of the spell.
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -186,6 +206,7 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 * [mold earth](https://www.dndbeyond.com/spells/mold-earth)
 * [poison spray](https://www.dndbeyond.com/spells/poison-spray)
 * [prestidigitation](https://www.dndbeyond.com/spells/prestidigitation)
+* primal savagery
 * [ray of frost](https://www.dndbeyond.com/spells/ray-of-frost)
 * [shape water](https://www.dndbeyond.com/spells/shape-water)
 * [shocking grasp](https://www.dndbeyond.com/spells/shocking-grasp)
@@ -209,11 +230,13 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 * [false life](https://www.dndbeyond.com/spells/false-life)
 * [feather fall](https://www.dndbeyond.com/spells/feather-fall)
 * [fog cloud](https://www.dndbeyond.com/spells/fog-cloud)
+* grease
 * [ice knife](https://www.dndbeyond.com/spells/ice-knife)
 * [id insinuation](https://www.dndbeyond.com/spells/id-insinuation)
 * [jump](https://www.dndbeyond.com/spells/jump)
 * [mage armor](https://www.dndbeyond.com/spells/mage-armor)
 * [magic missile](https://www.dndbeyond.com/spells/magic-missile)
+* protection from evil and good
 * [ray of sickness](https://www.dndbeyond.com/spells/ray-of-sickness)
 * [shield](https://www.dndbeyond.com/spells/shield)
 * [silent image](https://www.dndbeyond.com/spells/silent-image)
@@ -237,6 +260,8 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 * earthbind
 * enhance ability
 * enlarge/reduce
+* flame blade
+* flaming sphere
 * gust of wind
 * [hold person](https://www.dndbeyond.com/spells/hold-person)
 * invisibility
@@ -286,6 +311,7 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 * Summon Fey Spirit (UA)
 * Summon Shadow Spirit (UA)
 * Tongues
+* vampiric touch
 * Wall of Water
 * Water Breathing
 * Water Walk
@@ -298,7 +324,8 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 * Conjure Shadow Demon
 * Dimension Door
 * Dominate Beast
-* Ego Whip (UA)
+* Ego Whip
+* fire shield
 * Greater Invisibility
 * Ice Storm
 * Polymorph
@@ -333,6 +360,7 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 * Circle of Death
 * Disintegrate
 * Eyebite
+* flesh to stone
 * Globe of Invulnerability
 * Investiture of Flame
 * Investiture of Ice
@@ -358,6 +386,7 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 
 ## 8th Level
 * Abi-Dalzim's Horrid Wilting
+* demiplane
 * Dominate Monster
 * Earthquake
 * Incendiary Cloud
@@ -365,6 +394,7 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 * Sunburst
 
 ## 9th Level
+* foresight
 * Gate
 * Meteor Swarm
 * Power Word: Kill
