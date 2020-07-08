@@ -3,6 +3,8 @@ The College of Glamour is the home of bards who mastered their craft in the vibr
 
 The bards of this college are regarded with a mixture of awe and fear. Their performances are the stuff of legend. These bards are so eloquent that a speech or song that one of them performs can cause captors to release the bard unharmed and can lull a furious dragon into complacency. The same magic that allows them to quell beasts can also bend minds. Villainous bards of this college can leech off a community for weeks, abusing their magic to turn their hosts into thralls. Heroic bards of this college instead use this power to gladden the downtrodden and undermine oppressors.
 
+This college is quite popular among the [Mercenary Companies](/Organizations/MercCompanies/MercCompanies.md) as they incite the troops to greater and greater ideals, or tell the oral histories of the companies around the campfire during the march. Many universities that host this College are found in cities which has a mercenary company wintering nearby. Rumors abound, however, of Colleges funded by more shadowy organizations that seek to use these bards in more nefarious ways; the [Order of the Copper Dragon](/Organizations/DraconicOrder/Copper.md) has been rumored to use Glamour to ferret out secrets in non-violent ways.
+
 ## Mantle of Inspiration
 When you join the College of Glamour at 3rd level, you gain the ability to weave a song of fey magic that imbues your allies with vigor and speed.
 

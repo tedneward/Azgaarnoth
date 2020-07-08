@@ -5,7 +5,7 @@ Several major religions dot the surface of Azgaarnoth:
 * The [Pantheon](/Religions/Pantheon.md) is the classic multitheistic panoply of gods and goddesses arranged (more or less) by domain of the cosmos. Within the Pantheon, the following domains are available: [Arcana](Cleric/Arcana.md), [Life](Cleric/Life.md), [Death](Cleric/Death.md), [Grave](Cleric/Grave.md), [Trickery](Cleric/Trickery.md), [War](Cleric/War.md), [Tempest](Cleric/Tempest.md), [Forge](Cleric/Forge.md), [Knowledge](Cleric/Knowledge.md), [Light](Cleric/Light.md), [Twilight](Cleric/Twilight.md), Shadow, [Nature](Cleric/Nature), Draconic (from *The Book of Dragons*).
 
 * The [Al'Uma](/Religions/AlUma.md) believe that the world has entered its current state because mortals did not worship the beings that maintained it, and therefore it is mortals' responsibility to correct that, by either worship, combat, or both. 
-  * Alalihatian Cleric
+  * **Alalihatian Cleric**
 
     Domain (choose one): [Life](Cleric/Life.md), [Light](Cleric/Light.md), or [Order](Cleric/Order.md)
 
@@ -13,7 +13,7 @@ Several major religions dot the surface of Azgaarnoth:
 
     Holy symbol: A mirror-bright disk with etchings of the ancient symbols of the Eldar
 
-  * Alamalzish Cleric
+  * **Alamalzish Cleric**
 
     Domain (choose one): [Arcana](Cleric/Arcana.md), [Knowledge](Cleric/Knowledge.md), [Life](Cleric/Life.md), [Light](Cleric/Light.md), [Nature](Cleric/Nature.md), [Order](Cleric/Order.md), [Protection](Cleric/Protection.md), [Unity](Cleric/Unity.md), [War](Cleric/War.md) or [Zeal](Cleric/Zeal.md).
 
@@ -21,7 +21,7 @@ Several major religions dot the surface of Azgaarnoth:
 
     Holy symbol: A mirror-bright disk, with an etching of a sun rising over a rounded shape (hill)
 
-  * Zalabasan Cleric
+  * **Zalabasan Cleric**
 
     Domain (choose one): [War](Cleric/War.md), [Life](Cleric/Life.md), or [Order](Cleric/Order.md)
 
@@ -29,7 +29,7 @@ Several major religions dot the surface of Azgaarnoth:
 
     Holy symbol: A mirror-bright disk, with an etching of an upraised clenched fist
 
-  * *al'maeran* Cleric
+  * ***al'maeran* Cleric**
 
     Domain (choose one): [Nature](Cleric/Nature.md) (with an emphasis on the sea) or [Tempest](Cleric/Tempest.md)
     
@@ -39,7 +39,7 @@ Several major religions dot the surface of Azgaarnoth:
 
 * The [Kaevarian Church](/Religions/KaevarianChurch.md) is a monotheistic religion that actually encompasses all of the Pantheon (and the Eldar) as agents of a singular entity (Kaevar). Generally these clerics will be of  [Life](Cleric/Life.md), [Order](Cleric/Order.md), [Knowledge](Cleric/Knowledge.md), [Light](Cleric/Light.md) or [Unity](Cleric/Unity.md) domains, but a player wishing to be Kaevarian of a different domain can make the theological argument that since "all is Kaevar", so, too, should this domain be represented, and have solid theological ground on which to stand. Most Kaevarians would reject anything to do with chaos or evil; however, the branches of the Kaevarian Church in [Dradehalia](/Nations/Dradehalia.md) have been known to flirt with those domains as part of the [Dread Emperor](/People/DreadEmperor.md)'s plans.
 
-* Draconic Domain (from *The Book of Dragons*) clerics are always a member of the [Draconic Order](/Organizations/DraconicOrder/DraconicOrder.md), or (for evil clerics) a member of the [Cult of the Wyrm](/Organizations/CultOfTheWyrm.md), depending on whether they follow a metallic or chromatic dragon.
+* [Draconic](Cleric/Dragon.md) clerics are almost always a member of the [Draconic Order](/Organizations/DraconicOrder/DraconicOrder.md), or (for evil clerics) a member of the [Cult of the Wyrm](/Organizations/CultOfTheWyrm.md), depending on whether they follow a metallic or chromatic dragon.
 
 *You must have a Wisdom score of 13 or higher in order to multiclass in or out of this class.*
 

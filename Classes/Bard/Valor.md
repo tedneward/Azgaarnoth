@@ -1,6 +1,8 @@
 # Bardic College: College of Valor
 Bards of the College of Valor are daring skalds whose tales keep alive the memory of the great heroes of the past, and thereby inspire a new generation of heroes. These bards gather in mead halls or around great bonfires to sing the deeds of the mighty, both past and present. They travel the land to witness great events firsthand and to ensure that the memory of those events doesn't pass from the world. With their songs, they inspire others to reach the same heights of accomplishment as the heroes of old.
 
+The College of Valor is one of the most-restrictive of the Bardic Colleges, and its most famous instance is found in [Flakew](/Cities/Flakew.md) operated by the [Lirian Imperial Court](/Nations/Liria.md). They are frequently charged with wandering the countryside and inspiring the people to press onwards in Liria's struggles to recover from the blows she has suffered since the [Fall of the Eldar](/History/Ancient.md). Many of the other nations, including [Dradehalia](/Nations/Dradehalia.md) have followed suit, and as such bards of this college but opposing nations have frequently gotten into "battles of the bards" in roadside taverns as each tries to out-inspire the other(s).
+
 ## Bonus Proficiencies
 When you join the College of Valor at 3rd level, you gain proficiency with medium armor, shields, and martial weapons.
 

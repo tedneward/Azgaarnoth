@@ -86,6 +86,16 @@ You become stronger, gaining the following benefits:
 * You gain proficiency in the Athletics skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * You count as if you were one size larger for the purpose of determining your carrying capacity.
 
+## Brave
+You are used to staring down dangerous monsters and running straight into deadly situations. You gain the following benefits:
+* Your Wisdom score increases by 1, to a maximum of 20.
+* You have advantage on saving throws to resist becoming frightened.
+* All of your allies within 30 feet of you are rallied by your bravery. They also have advantage on saving throws to resist becoming frightened, as long as you are conscious.
+
+## Breath Weapon Training
+*Prerequisite: must be a Half-Dragon*
+You have had a draconic mentor teach you how to maximize the effectiveness of your breath weapon. Your breath weapon deals an extra d6 of damage.
+
 ## Burglar
 You pride yourself on your quickness and your close study of certain clandestine activities. You gain the following benefits:
 * Increase your Dexterity score by 1, to a maximum of 20.
@@ -104,6 +114,22 @@ Thanks to extensive practice with the crossbow, you gain the following benefits:
 *Prerequisite: Dexterity 13 or higher*
 
 When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.
+
+## Deft Strike
+*Prerequisite: proficiency in Perception or Investigation*
+Given enough time, you can find weak points in an opponent's armor and exploit them. You can use an action to search for weak points in another creature's armor, natural or not. Make an Investigation check contested by the creature's Armor Class. If you succeed, your next attack ignores all armor bonuses that the creature has, and its effective AC against your attack becomes 10 + the creature's Dexterity
+modifier.
+
+You can only gain this benefit if you are wielding a weapon that deals piercing or slashing damage. If you are using a ranged weapon, the creature must be within 30 feet of you for you to gain this benefit.
+
+## Dragon Familiar
+*Prerequisite: must be a spellcaster with the ability to have a familiar, such as a [Warlock: Pact of the Chain]() or a wizard with the [find familiar]() spell.*
+
+Your familiar can take the form of a dragon wyrmling. You may use the rules for keeping a psuedodragon as a familiar for your wyrmling, at the DM's disgression. The dragon you choose must be within one step of your alignment, and can have a Challenge Rating as high as your character level divided by 4. The DM has the dragon's statistics. 
+
+If you take this feat, decide with your DM how you met your dragon familiar. Why did she agree to accompany you? What are her bonds and flaws?
+
+Eventually, the dragon's nature will require her to leave and seek her own fortune. This time may be years down the road, but it is inevitable. Worse, she might die in combat. When that time comes, discuss with your DM how to resolve this conflict of character. Consider keeping this feat in the form of a dragon friend whom you can count on for help or advice, or consider choosing a new feat when your wyrmling leaves (or dies).
 
 ## Diplomat
 You master the arts of diplomacy, gaining the following benefits:
@@ -173,10 +199,26 @@ You’ve learned to put the weight of a weapon to your advantage, letting its mo
 * Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack’s damage.
 
 ## Healer
+You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
+
+* When you use a healer's kit to stabilize a dying creature, that creature also regains 1 hit point.
+* As an action. you can spend one use of a healer's kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from this feat again until it finishes a short or long rest.
 
 ## Heavily Armored
+*Prerequisite: Proficiency with medium armor*
+
+You have trained to master the use of heavy armor, gaining the following benefits:
+
+* Increase your Strength score by 1, to a maximum of 20.
+* You gain proficiency with heavy armor.
 
 ## Heavy Armor Master
+*Prerequisite: Proficiency with heavy armor*
+
+You can use your armor to deflect strikes that would kill others. You gain the following benefits:
+
+* Increase your Strength score by 1, to a maximum of 20.
+* While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from nonmagical weapons is reduced by 3.
 
 ## Historian
 Your study of history rewards you with the following benefits:
@@ -185,6 +227,9 @@ Your study of history rewards you with the following benefits:
 * When you take the Help action to aid another creature’s ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature’s check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you’re saying.
 
 ## Inspiring Leader
+*Prerequisite: Charisma 13 or higher*
+
+You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
 
 ## Investigator
 You have an eye for detail and can pick out the smallest clues. You gain the following benefits:
@@ -193,16 +238,48 @@ You have an eye for detail and can pick out the smallest clues. You gain the fol
 * You can take the Search action as a bonus action.
 
 ## Keen Mind
+You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits.
+
+* Increase your Intelligence score by 1, to a maximum of 20.
+* You always know which way is north.
+* You always know the number of hours left before the next sunrise or sunset.
+* You can accurately recall anything you have seen or heard within the past month.
 
 ## Lightly Armored
+You have trained to master the use of light armor, gaining the following benefits.
+
+* Increase your Strength or Dexterity score by 1, to a maximum of 20.
+* You gain proficiency with light armor.
 
 ## Linguist
+You have studied languages and codes, gaining the following benefits:
+
+* Increase your Intelligence score by 1, to a maximum of 20.
+* You learn three languages of your choice.
+* You can ably create written ciphers. Others can't decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use magic to decipher it.
 
 ## Lucky
+You have inexplicable luck that seems to kick in at just the right moment.
+
+You have 3 luck points. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend one of your luck points after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw.
+
+You can also spend one luck point when an attack roll is made against you. Roll a d20 and then choose whether the attack uses the attacker's roll or yours.
+
+If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled.
+
+You regain your expended luck points when you finish a long rest.
 
 ## Mage Slayer
+You have practiced techniques in melee combat against spellcasters, gaining the following benefits.
+
+* When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature.
+* When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration.
+* You have advantage on saving throws against spells cast by creatures within 5 feet of you.
 
 ## Magic Initiate
+Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class's spell list. In addition, choose one 1st-level spell to learn from that same list. Using this feat, you can cast the spell once at its lowest level, and you must finish a long rest before you can cast it in this way again.
+
+Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
 ## Martial Adept
 You have martial training that allows you to perform special combat [maneuvers](Fighter/Maneuvers.md). You gain the following benefits.
@@ -210,6 +287,10 @@ You have martial training that allows you to perform special combat [maneuvers](
 * You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
 ## Master of Disguise
+You have honed your ability to shape your personality and to read the personalities of others. You gain the following benefits:
+* Increase your Charisma score by 1, to a maximum of 20.
+* You gain proficiency with the disguise kit. If you are already proficient with it, you add double your proficiency bonus to checks you make with it.
+* If you spend 1 hour observing a creature, you can then spend 8 hours crafting a disguise you can quickly don to mimic that creature. Making the disguise requires a disguise kit. You must make checks as normal to disguise yourself, but you can assume the disguise as an action.
 
 ## Medic
 You master the physician’s arts, gaining the following benefits:
@@ -218,6 +299,11 @@ You master the physician’s arts, gaining the following benefits:
 * During a short rest, you can clean and bind the wounds of up to six willing beasts and humanoids. Make a DC 15 Wisdom (Medicine) check for each creature. On a success, if a creature spends a Hit Die during this rest, that creature can forgo the roll and instead regain the maximum number of hit points the die can restore. A creature can do so only once per rest, regardless of how many Hit Dice it spends.
 
 ## Medium Armor Master
+*Prerequisite: Proficiency with medium armor*
+
+You have practiced moving in medium armor to gain the following benefits:
+* Wearing medium armor doesn't impose disadvantage on your Dexterity (Stealth) checks.
+* When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.
 
 ## Menacing
 You become fearsome to others, gaining the following benefits:
@@ -267,6 +353,11 @@ Your nimble fingers and agility let you perform sleight of hand. You gain the fo
 * You gain proficiency in the Sleight of Hand skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * As a bonus action, you can make a Dexterity (Sleight of Hand) check to plant something on someone else, conceal an object on a creature, lift a purse, or take something from a pocket.
 
+## Recharge Breath
+*Prerequisite: must have a breath weapon*
+
+After you use your innate breath weapon, you may roll a d6 at the beginning of each of your turns. On a 6, your breath weapon is recharged. If your breath already recharges on a 6, it instead recharges on a 5 or a 6. You may take this feat up to two times, but the recharge cannot go below 5.
+
 ## Resilient
 
 ## Ritual Caster
@@ -274,6 +365,11 @@ Your nimble fingers and agility let you perform sleight of hand. You gain the fo
 ## Savage Attacker
 
 ## Sentinel
+
+## Shape Breath
+*Prerequisite: must have a breath weapon*
+
+You have gained the ability to control the shape of your breath weapon. Whenever you use your breath weapon, you may choose whether its shape is a 30-foot line that is 5 feet wide, or a 15-foot cone.
 
 ## Sharpshooter
 
