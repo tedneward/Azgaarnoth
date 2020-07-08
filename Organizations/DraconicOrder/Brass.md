@@ -1,5 +1,5 @@
 # Order of the Brass Dragon
-Leader: Archdean (Lady) Yurem Alborlon
+**Leader**: Archdean (Lady) Yurem Alborlon
 
 The Order of the Brass Dragon is the [Draconic Order](DraconicOrder.md)s' collection of sages, researchers, philosophers, and investigators. Like their namesake, Brass brothers and sisters love to talk, to the exclusion of most else. They love to engage friends (and foes) alike in hours of long-winded conversation, and it is not unusual for a Brass to be fluent in many different languages.
  
@@ -7,7 +7,7 @@ The Brass Order founded and operates a number of Universities in many of the maj
  
 As a result, attendance at a Brass University is a highly-coveted thing, and Brass University graduates are often found in some of the most influential places; political graduates often find positions as advisers to the throne or council rooms all over the Northern Realms, economics graduates often sit at the highest levels in the Merchant Guilds, religious graduates are often found leading services in Kaevarian Churches and Old God services alike, and mystical graduates frequent the halls of most Mage Schools. Anywhere that knowledge is useful, the Brass have people looking to enhance, add, and refine it.
 
-In fact, one of the crowning glories of the Brass Order is the Great Library, located in the Brass home chapter adjacent to the [Order of the Platinum Dragon](Platinum.md)'s home chapterhouse in ZZZ, which aims to be the greatest collection of information in the world. Open to the public (under escort, since most seekers don't really understand how to use a library), the Brass use the Great Library as a way to track anything and everything about the world, the gods, history, and more. Every Brass discovery gets sent and cataloged in the Great Library, and is rumored to include the world's greatest collection of spells (in scroll and spellbook form).
+In fact, one of the crowning glories of the Brass Order is the Great Library, located in the Brass home chapter adjacent to the [Order of the Platinum Dragon](Platinum.md)'s home chapterhouse in [Flakew](/Cities/Flakew.md), which aims to be the greatest collection of information in the world. Open to the public (under escort, since most seekers don't really understand how to use a library), the Brass use the Great Library as a way to track anything and everything about the world, the gods, history, and more. Every Brass discovery gets sent and cataloged in the Great Library, and is rumored to include the world's greatest collection of spells (in scroll and spellbook form).
  
 While members of the Brass Order do not, as a general rule, crave the action or adventure that other Orders might, Brass members will frequently commission and/or join expeditions that have a scholarly angle. (Whether they join the expedition usually depends on how "necessary" a firsthand view of the expedition's explorations and experiences are deemed to be.) Additionally, the [Copper](Copper.md)s' abilities to ferret out information makes them a natural pairing to the Brass, and it is not uncommon to see Brass/Copper pairings spill over into marriage/mated-pairings.
 
