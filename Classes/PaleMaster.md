@@ -9,6 +9,7 @@ The secrets of necromancy not only allow them to be successful in this quest, bu
 
 > A frenzied undead creature lumbers toward a stoic halfdrow. As the zombie is about to tear into her, she calmly touches its forehead with her own skeletal appendage. The creature turns its rage-fueled eyes back towards the others of its pack, compelled to protect the one it previously sought to feed upon.
 
+Typically those who are capable of performing [undead grafts](/Magic/UndeadGrafts.md) are pale masters.
 
 ## Pre-eminence in Necromancy
 Pale Masters are arcane casters who draw upon necromantic lore that provides a macabre power all its own. Some aspire to live forever, effectively becoming immortal. Others are fascinated with death and the fate of souls that are unable to pass into the afterlife. Some pale masters seek to gain power through raising an army of once fallen soldiers to continue the battle once more.
@@ -130,7 +131,7 @@ You can use this feature a number of times equal to your Intelligence modifier (
 At 2nd level, you gain the ability to enhance mundane items with undead enchantments. The magic items you create with this feature are take the form of undead armors, weapons or wonderous items.
 
 ### Macabre Creations Known
-When you gain this feature, pick three pale master macabre creations to learn, choosing from the "Macabre Creations' section. You learn additional creations of your choice when you reach certain level in this class, as shown in the Creations Known column of the Pale Master table.
+When you gain this feature, pick three pale master macabre creations to learn, choosing from the ["Macabre Creations" page](PaleMaster/MacabreCreations.md). You learn additional creations of your choice when you reach certain level in this class, as shown in the Creations Known column of the Pale Master table.
 
 Whenever you gain a level in this class, you can replace one of the macabre creations you learned with a new one.
 

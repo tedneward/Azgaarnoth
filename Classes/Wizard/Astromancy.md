@@ -19,18 +19,18 @@ At 14th level, you’ve mastered manipulating the gravity of the planet itself. 
 # Astromancer Unique Spells
 
 ## Cantrips
-* [Melf's most minute meteor](/Magic/Spells/Cantrips/melfs-most-minute-meteor.md)
+* [Melf's most minute meteor](/Magic/Spells/melfs-most-minute-meteor.md)
 
 ## 2nd
-* [gravity ward](/Magic/Spells/2nd/gravity-ward.md) (ritual)
+* [gravity ward](/Magic/Spells/gravity-ward.md) (ritual)
 
 ## 3rd
-* [remove gravity](/Magic/Spells/3rd/remove-gravity.md)
+* [remove gravity](/Magic/Spells/remove-gravity.md)
 
 ## 5th
-* [pulsar shield](/Magic/Spells/5th/pulsar-shield.md)
+* [pulsar shield](/Magic/Spells/pulsar-shield.md)
 
 ## 9th
-* [singularity](/Magic/Spells/9th/singularity.md)
+* [singularity](/Magic/Spells/singularity.md)
 
 *Source: Blackstaff's Tome of Wizardry*

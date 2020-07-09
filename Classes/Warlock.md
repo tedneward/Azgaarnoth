@@ -109,41 +109,41 @@ Additionally, when you gain a level in this class, you can choose one of the inv
 
 A level prerequisite in an invocation refers to warlock level, not character level.
 
-## Agonizing Blast
+### Agonizing Blast
 *Prerequisite: eldritch blast cantrip*
 
 When you cast eldritch blast, add your Charisma modifier to the damage it deals on a hit.
 
-## Armor of Shadows
+### Armor of Shadows
 You can cast mage armor on yourself at will, without expending a spell slot or material components.
 
-## Ascendant Step
+### Ascendant Step
 *Prerequisite: 9th level*
 
 You can cast levitate on yourself at will, without expending a spell slot or material components.
 
-## Aspect of the Moon
+### Aspect of the Moon
 *Prerequisite: Pact of the Tome feature*
 
 You no longer need to sleep and can’t be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.
 
-## Beast Speech
+### Beast Speech
 You can cast speak with animals at will, without expending a spell slot.
 
-## Beguiling Influence
+### Beguiling Influence
 You gain proficiency in the Deception and Persuasion skills.
 
-## Bewitching Whispers
+### Bewitching Whispers
 *Prerequisite: 7th level*
 
-You can cast compulsion once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast [compulsion]() once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
 ### Bond of the Talisman
 *Prerequisite: 12th level, Pact of the Talisman feature*
 
 While someone else is wearing your talisman, you can use your action to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using their action to teleport to you.
 
-## Book of Ancient Secrets
+### Book of Ancient Secrets
 *Prerequisite: Pact of the Tome feature*
 
 You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class’s spell list (the two needn’t be from the same list). The spells appear in the book and don’t count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
@@ -389,10 +389,6 @@ You can cast speak with dead at will, without expending a spell slot.
 *Prerequisite: 15th level*
 
 You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.
-
-
-
-
 
 ## Pact Boon
 At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.

@@ -108,7 +108,7 @@ Appendage: eye
 
 Rare Component: a docile beholder's eye
 
-A crimson eye from an unusually docile beholder, which fits into your empty eye socket. The graft gives you resistance to fire damage and lets you cast the fireball spell once per day, recharging at dusk.
+A crimson eye from an unusually docile beholder, which fits into your empty eye socket. The graft gives you resistance to fire damage and lets you cast the [fireball]() spell once per day, recharging at dusk.
 
 ### Lich’s Heart
 *Undead graft, legendary*
