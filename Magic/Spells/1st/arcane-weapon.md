@@ -1,4 +1,4 @@
-# Spell: Arcane Weapon
+# Arcane Weapon
 *1st-level transmutation*
 
 **Casting Time**: 1 bonus action

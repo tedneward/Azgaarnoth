@@ -422,7 +422,17 @@ You learn to move things with your mind. You gain the following benefits:
 You awaken the ability to mentally connect with others. You gain the following benefits:
 * Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 * You can speak telepathically to any creature you can see within 30 feet of you. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn’t give the creature the ability to respond to you telepathically.
-* If your Psionic Talent die is available, you can cast the detect thoughts spell, requiring no components. When you start casting the spell, your Psionic Talent die decreases by one die size. Your spellcasting ability for the spell is the ability increased by this feat.
+* If your Psionic Talent die is available, you can cast the [detect thoughts]() spell, requiring no components. When you start casting the spell, your Psionic Talent die decreases by one die size. Your spellcasting ability for the spell is the ability increased by this feat.
+
+## Telepathic Bond
+*Prerequisite*: Telepathic feat in two creatures
+
+You form a deep, mind-linked bond with another Telepathic creature. You each gain the following benefits:
+* Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 21.
+* So long as you are each within 60 feet of each other, you may communicate without requiring speech (or even air).
+* When in combat, each of you rolls Initiative, but you share the higher of the two Initiative die rolls.
+* You may pool your Psionic Talent dice.
+If one of the bond dies, the other faces deep anguish, insanity, and often death.
 
 ## Theologian
 Your extensive study of religion rewards you with the following benefits:

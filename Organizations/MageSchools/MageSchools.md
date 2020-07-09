@@ -6,12 +6,16 @@ Typically, a Mage School is built around a particular concept or magic concept, 
  
 Hundreds of mage schools of all size are present on Azgaarnoth. Currently the more widely-known include:
 
-* [White Winds](WhiteWinds.md) (general)
-* [Fiery Fist](FieryFist.md) (combat)
-* [Glittering Eye](GlitteringEye.md) (illusion)
-* [Gathering Mist](GatheringMist.md) (illusion)
-* [Silent Tower](SilentTower.md) (divination)
+* [White Winds](WhiteWinds.md)
+* [Fiery Fist](FieryFist.md)
+* [Crimson Sunrise](CrimsonSunrise.md)
+* [Glittering Eye](GlitteringEye.md)
+* [MindMage](MindMage.md)
+* [Heavens' Gate](HeavensGate.md)
+* [High Tower](HighTower.md)
+* [Silent Tower](SilentTower.md)
 * [Twilight Star](TwilightStar.md) (necromancy)
+* [Gathering Mist](GatheringMist.md) (illusion)
 * [Blue Sky](BlueSky.md) (weather, air)
 * [Night's Blessing](NightsBlessing.md) (healing, necromancy)
 * [Ruby Tongue](RubyTongue.md) (fire)
@@ -19,8 +23,6 @@ Hundreds of mage schools of all size are present on Azgaarnoth. Currently the mo
 * [Dark Cauldron](DarkCauldron.md) (alchemy)
 * [Animalists](Animalists.md)
 * [Four Moons](FourMoons.md)
-* [Crimson Sunrise](CrimsonSunrise.md) (combat)
-* [MindMage](MindMage.md) (psionics)
 * [Order of the Awakened](OrderAwakened.md) (Mystic Order)
 * [Order of the Wu Jen](WuJen.md) (Mystic Order)
 
@@ -28,4 +30,5 @@ There are always rumors of additional schools that aren't formal or popular, suc
 
 Many of these in turn have connections to other organizations, such as merchant guilds, mercenary companies, or the Draconic Orders.
 
-Most mage schools have a "home" (the location of the heads of their school), particular membership conditions, and certain tendencies, as described in each school's individual entry.
+Most mage schools have a "home" (the location of the heads of their school), particular membership conditions, and certain tendencies, as described in each school's individual entry. The "enrollment" lists only the number of actual spellcasters, and does not include any sort of guards, support staff, or extended agent networks (if applicable).
+

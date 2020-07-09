@@ -15,4 +15,4 @@ Northern Wind magi are frequently commissioned to conduct thorough research on a
 
 
 ## Game Notes
-Most of the wizards of this school follow the [School of Invention](/Classes/Wizard/SchoolOfInvention); a much smaller percentage of Northern Wind magi are [diviners](/Classes/Wizard/Divination.md).
+Most of the wizards of this school are either of the [School of Invention](/Classes/Wizard/Invention.md) or are [Arcane Experimenters](/Classes/Wizard/ArcaneExperimenter.md); a much smaller percentage of Northern Wind magi are [diviners](/Classes/Wizard/Divination.md).
