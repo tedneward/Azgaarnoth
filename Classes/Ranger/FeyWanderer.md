@@ -36,6 +36,9 @@ At the 3rd level, you augment your attacks with mind-scarring magic, drawn from 
 
 When you engage in two-weapon fighting, you can imbue your weapons as part of the same bonus action you use to make the attack.
 
+## Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
 ## Blessings of the Courts
 At the 7th level, you have learned eerie techniques from both the Gloaming Court and the Summer Court of the Feywild. Once during each of your turns, when you hit a creature with a weapon attack, you can expend a spell slot to deal extra psychic damage. The extra damage is 3d6 psychic damage and the creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of you until the end of your next turn.
 

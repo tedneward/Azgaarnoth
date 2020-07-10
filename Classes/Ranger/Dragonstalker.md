@@ -8,6 +8,9 @@ When you choose this conclave at 3rd level, you gain the ability to find and exp
 
 If you have a similar ability (such as the Rogue's Sneak Attack), you must choose to use one class feature or the other; you cannot use both on a single attack roll.
 
+## Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
 ## Skulker
 When you reach 7th level, you have learned to evade the detection abilities of even the most perceptive of creatures. You can spend one minute preparing yourself to mask your scent. While masked in this way, if the DM determines that you can hide from a creature, that creature gains no benefit from its blindsight or darkvision to percieve you. This effect lasts for one hour. Additionally, while hidden in this way, you can choose to move silently. While moving silently, your movement speed for that turn is halved.
 

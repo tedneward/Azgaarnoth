@@ -12,4 +12,5 @@
 ## Connections
 
 ## Game Notes
-Diviners, ...
+Diviners, [Scrymancers](/Classes/Wizard/Scrymancy.md), ...
+

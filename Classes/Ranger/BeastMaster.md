@@ -49,6 +49,9 @@ Maul. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1d6 + 2 slas
 ## Coordinated Attack
 Beginning at 5th level, you and your animal companion form a more potent fighting team. When you use the Attack action on your turn, if your companion can see you, it can use its reaction to make a melee attack.
 
+## Extra Attack.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
 ## Beast's Defense
 At 7th level, while your companion can see you, it has advantage on all saving throws.
 

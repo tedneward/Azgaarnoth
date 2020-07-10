@@ -21,6 +21,9 @@ Ranger Level|Spell Gained
 13th|greater invisibility 
 17th|seeming
 
+## Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
 ## Iron Mind
 At 7th level, you gain proficiency in Wisdom saving throws.
 

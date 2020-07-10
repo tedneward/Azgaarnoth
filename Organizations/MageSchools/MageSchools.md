@@ -32,6 +32,7 @@ Hundreds of mage schools of all size are present on Azgaarnoth. Currently the mo
 * [Green Star Adepts](GreenStar.md)
 * [Four Moons](FourMoons.md)
 * [Night's Blessing](NightsBlessing.md)
+* [Spinning Hands](SpinningHands.md)
 * [Twilight Star](TwilightStar.md) (necromancy)
 * [Gathering Mist](GatheringMist.md) (illusion)
 * [Blue Sky](BlueSky.md) (weather, air)
@@ -43,9 +44,8 @@ Hundreds of mage schools of all size are present on Azgaarnoth. Currently the mo
 * [Order of the Wu Jen](WuJen.md) (Mystic Order)
 * [Symbarchs](Symbarchs.md)
 
-There are always rumors of additional schools that aren't formal or popular, such as a school dedicated to enchantment (which is feared by the common folk because of the obvious perils of abuse by said enchanters), and not all magi need join a school in order to thrive. School-affiliated magi, however, will look down on "wilders" as "uncivilized" or "uneducated", and many "wilders" in turn look upon their school-affiliated brethren as "sellouts" or "kept magi".
+There are always rumors of additional schools that aren't formal or popular, such as a school dedicated to enchantment (which is feared by the common folk because of the obvious perils of abuse by said enchanters), and not all magi need join a school in order to thrive. School-affiliated magi, however, will look down on "wilders" as "uncivilized" or "uneducated", and many "wilders" in turn look upon their school-affiliated brethren as "sellouts" or "kept magi". These "wilders" will often be of the [Hedge Magi](/Classes/Wizard/HedgeMagi.md) arcane tradition.
 
-Many of these in turn have connections to other organizations, such as merchant guilds, mercenary companies, or the Draconic Orders.
+Many of these schools have explicit connections to other organizations, such as merchant guilds, mercenary companies, or the Draconic Orders. More frequently, a mage school will hire a mercenary company for a variety of tasks (including escort and guard duties), engage in trade with merchant guilds, and consult (or be consulted) with the Draconic Orders, particularly the [Brass](/Organizations/DraconicOrder/Brass.md)
 
 Most mage schools have a "home" (the location of the heads of their school), particular membership conditions, and certain tendencies, as described in each school's individual entry. The "enrollment" lists only the number of actual spellcasters, and does not include any sort of guards, support staff, or extended agent networks (if applicable).
-

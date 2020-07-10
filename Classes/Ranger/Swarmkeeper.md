@@ -26,6 +26,9 @@ As a bonus action, you can agitate the swarm for 1 minute. For the duration, som
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
+## Extra Attack.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
 ## Writhing Tide
 At the 7th level, you can condense part of your swarm into a focused mass that lifts or sweeps you along. Whenever you activate your Gathered Swarm feature, choose one of the following additional benefits:
 * Your walking speed increases by 10 feet, and you can take the Disengage action as a bonus action.
