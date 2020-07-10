@@ -34,7 +34,7 @@ Hundreds of mage schools of all size are present on Azgaarnoth. Currently the mo
 * [Night's Blessing](NightsBlessing.md)
 * [Spinning Hands](SpinningHands.md)
 * [Twilight Star](TwilightStar.md) (necromancy)
-* [Gathering Mist](GatheringMist.md) (illusion)
+* [Gathering Mist](GatheringMist.md)
 * [Blue Sky](BlueSky.md) (weather, air)
 * [Ruby Tongue](RubyTongue.md) (fire)
 * [Hewn Arch](HewnArch.md) (earth, stone, masonry)
@@ -49,3 +49,19 @@ There are always rumors of additional schools that aren't formal or popular, suc
 Many of these schools have explicit connections to other organizations, such as merchant guilds, mercenary companies, or the Draconic Orders. More frequently, a mage school will hire a mercenary company for a variety of tasks (including escort and guard duties), engage in trade with merchant guilds, and consult (or be consulted) with the Draconic Orders, particularly the [Brass](/Organizations/DraconicOrder/Brass.md)
 
 Most mage schools have a "home" (the location of the heads of their school), particular membership conditions, and certain tendencies, as described in each school's individual entry. The "enrollment" lists only the number of actual spellcasters, and does not include any sort of guards, support staff, or extended agent networks (if applicable).
+
+
+# Mage School: 
+**Home**: [Mighal](/Cities/Mighal.md)
+
+**Enrollment**: ~250
+
+**Motto**: ""
+
+Description
+
+## Membership
+
+## Tendencies
+
+## Connections
