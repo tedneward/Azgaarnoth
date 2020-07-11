@@ -83,6 +83,7 @@ At 3rd level, you choose an archetype that you strive to emulate in your combat 
 * [Samurai](Fighter/Samurai.md)
 * [Scout](Fighter/Scout.md)
 * [Sharpshooter](Fighter/Sharpshooter.md)
+
 The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 
 ## Ability Score Improvement

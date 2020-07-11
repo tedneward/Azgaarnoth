@@ -86,6 +86,7 @@ At 3rd level, you choose an archetype that you emulate in the exercise of your r
 * [Soulknife](Rogue/Soulknife.md)
 * [Swashbuckler](Rogue/Swashbuckler.md)
 * [Thief](Rogue/Thief.md)
+
 Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
 
 ## Ability Score Improvement

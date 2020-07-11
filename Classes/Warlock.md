@@ -67,6 +67,7 @@ At 1st level, you have struck a bargain with an otherworldly being of your choic
 * [Seeker](Warlock/Seeker.md)
 * [Undying](Warlock/Undying.md)
 * [UndyingLight](Warlock/UndyingLight.md)
+
 Your choice grants you features at 1st level and again at 6th, 10th, and 14th level.
 
 ## Pact Magic
