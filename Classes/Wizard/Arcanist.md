@@ -37,7 +37,6 @@ When you cast a spell you prepared via the spellpool, it is cast normally, with 
 
 All spells prepared using the spellpool return to the spellpool the next time you finish a long rest. Having successfully prepared a spell with this feature before does not allow you to prepare it with this feature again, nor does it alter your chances of finding that same spell available the next time you search for it.
 
-
 ## Master of Wizardry
 At 14th level, you are elevated to your guild’s trusted inner circle of wise, experienced masters, and you’ve spent so much time interacting with other mages that you can quickly analyze their casting and seek to counter it. When a spell cast by another creature you can see allows you to make a saving throw to take only half damage, if you succeed on the saving throw, you can expend a wizard spell slot of 1st-level or higher as a reaction to instead take no damage at all.
 

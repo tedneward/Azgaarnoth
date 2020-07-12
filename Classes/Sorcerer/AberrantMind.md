@@ -14,7 +14,7 @@ Sorcerer Level | Spells
 3rd | calm emotions, detect thoughts
 5th | hunger of Hadar, sending
 7th | compulsion, Evard’s black tentacles
-9th modify memory, Rary’s telepathic bond
+9th | modify memory, Rary’s telepathic bond
 
 ## Warped Being
 Starting at 1st level, your aberrant origin protects you from harm. Your body might have a coating of viscous slime, tough hide, scales, or an invisible psionic barrier (choose the form of protection when you gain this feature). Whatever form the protection takes, your AC equals 13 + your Dexterity modifier while you aren’t wearing armor.

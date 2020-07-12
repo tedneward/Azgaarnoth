@@ -320,10 +320,26 @@ You have refined psionic control over your body’s functions. You gain the foll
 * If your Psionic Talent die is available, you can meditate for 1 minute, at the end of which you gain the benefits of finishing a short rest, and your Psionic Talent die decreases by one die size. You can’t meditate in this way again until you finish a long rest.
 
 ## Mobile
+You are exceptionally speedy and agile. You gain the following benefits:
+
+* Your speed increases by 10 feet.
+* When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.
+* When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
 
 ## Moderately Armored
+*Prerequisite: Proficiency with light armor*
+
+You have trained to master the use of medium armor and shields, gaining the following benefits:
+
+* Increase your Strength or Dexterity score by 1, to a maximum of 20.
+* You gain proficiency with medium armor and shields.
 
 ## Mounted Combatant
+You are a dangerous foe to face while mounted. While you are mounted and aren't incapacitated, you gain the following benefits:
+
+* You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount.
+* You can force an attack targeted at your mount to target you instead.
+* If your mount is subjected to an effect that allows it to make Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
 ## Naturalist
 Your extensive study of nature rewards you with the following benefits:
@@ -332,6 +348,11 @@ Your extensive study of nature rewards you with the following benefits:
 * You learn the [druidcraft]() and [detect poison and disease]() spells. You can cast [detect poison and disease]() once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
 
 ## Observant
+Quick to notice details of your environment, you gain the following benefits:
+
+* Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
+* If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips.
+* You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.
 
 ## Perceptive
 You hone your senses until they become razor sharp. You gain the following benefits:
@@ -346,6 +367,10 @@ You master performance so that you can command any stage. You gain the following
 * While performing, you can try to distract one humanoid you can see who can see and hear you. Make a Charisma (Performance) check contested by the humanoid’s Wisdom (Insight) check. If your check succeeds, you grab the humanoid’s attention enough that it makes Wisdom (Perception) and Intelligence (Investigation) checks with disadvantage until you stop performing.
 
 ## Polearm Master
+You gain the following benefits:
+
+* When you take the Attack action and attack with only a glaive, halberd, quarterstaff, or spear, you can use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifier as the primary attack. The weapon's damage die for this attack is a d4, and it deals bludgeoning damage.
+* While you are wielding a glaive, halberd, pike, quarterstaff, or spear, other creatures provoke an opportunity attack from you when they enter the reach you have with that weapon.
 
 ## Quick-Fingered
 Your nimble fingers and agility let you perform sleight of hand. You gain the following benefits:
@@ -359,12 +384,29 @@ Your nimble fingers and agility let you perform sleight of hand. You gain the fo
 After you use your innate breath weapon, you may roll a d6 at the beginning of each of your turns. On a 6, your breath weapon is recharged. If your breath already recharges on a 6, it instead recharges on a 5 or a 6. You may take this feat up to two times, but the recharge cannot go below 5.
 
 ## Resilient
+Choose one ability score. You gain the following benefits:
+
+* Increase the chosen ability score by 1, to a maximum of 20.
+* You gain proficiency in saving throws using the chosen ability.
 
 ## Ritual Caster
+*Prerequisite: Intelligence or Wisdom of 13 or higher*
+
+You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
+
+When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your spells from that class's spell list, and the spells you choose must have the ritual tag. The class you choose also must have the ritual tag. The class you choose also determines your spellcasting ability for these spells: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+
+If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents the material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
 
 ## Savage Attacker
+Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon's damage dice and use either total.
 
 ## Sentinel
+You have mastered techniques to take advantage of every drop in any enemy's guard, gaining the following benefits.
+
+* When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn.
+* Creatures provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
+* When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
 
 ## Shape Breath
 *Prerequisite: must have a breath weapon*
@@ -372,8 +414,18 @@ After you use your innate breath weapon, you may roll a d6 at the beginning of e
 You have gained the ability to control the shape of your breath weapon. Whenever you use your breath weapon, you may choose whether its shape is a 30-foot line that is 5 feet wide, or a 15-foot cone.
 
 ## Sharpshooter
+You have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits:
+
+* Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
+* Your ranged weapon attacks ignore half and three-quarters cover.
+* Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If that attack hits, you add +10 to the attack's damage.
 
 ## Shield Master
+You use shields not just for protection but also for offense. You gain the following benefits while you are wielding a shield:
+
+* If you take the Attack action on your turn, you can use a bonus action to try to shove a creature within 5 feet of you with your shield.
+* If you aren't incapacitated, you can add your shield's AC bonus to any Dexterity saving throw you make against a spell or other harmful effect that targets only you.
+* If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.
 
 ## Silver-Tongued
 You develop your conversational skill to better deceive others. You gain the following benefits:
@@ -382,12 +434,36 @@ You develop your conversational skill to better deceive others. You gain the fol
 * When you take the Attack action on your turn, you can replace one attack with an attempt to deceive one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Deception) check contested by the target’s Wisdom (Insight) check. If your check succeeds, your movement doesn’t provoke opportunity attacks from the target and your attack rolls against it have advantage; both benefits last until the end of your next turn or until you use this ability on a different target. If your check fails, the target can’t be deceived by you in this way for 1 hour.
 
 ## Skilled
+You gain proficiency in any combination of three skills or tools of your choice.
 
 ## Skulker
+*Prerequisite: Dexterity 13 or higher*
+
+You are an expert at slinking through shadows. You gain the following benefits:
+
+* You can try to hide when you are lightly obscured from the creature from which you are hiding.
+* When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.
+* Dim light doesn't impose disadvantage on your Wisdom (Perception) checks relying on sight.
 
 ## Spear Mastery
+Though the spear is a simple weapon to learn, it rewards you for the time you have taken to master it. You gain the following benefits:
+
+* You gain a +1 bonus to attack rolls you make with a spear.
+
+* When you use a spear, its damage die changes from a d6 to a d8, and from a d8 to a d10 when wielded with two hands. (This benefit has no effect if another feature has already improved the weapon’s die.)
+
+* You can set your spear to receive a charge. As a bonus action, choose a creature you can see that is at least 20 feet away from you. If that creatures moves within your spear’s reach on its next turn, you can make a melee attack against it with your spear as a reaction. If the attack hits, the target takes an extra 1d8 piercing damage, or an extra 1d10 piercing damage if you wield the spear with two hands. You can’t use this ability if the creature used the Disengage action before moving.
+
+* As a bonus action on your turn, you can increase your reach with a spear by 5 feet for the rest of your turn.
 
 ## Spell Sniper
+*Prerequisite: The ability to cast at least one spell*
+
+You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:
+
+* When you cast a spell that requires you to make an attack roll, the spell's range is doubled.
+* Your ranged spell attacks ignore half cover and three-quarters cover.
+* You learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you chose from: Charisma for bard, sorcerer, and warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
 ## Stealthy
 You know how best to hide. You gain the following benefits:
