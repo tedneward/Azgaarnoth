@@ -115,6 +115,7 @@ When you reach 3rd level, you swear the oath that binds you as a paladin forever
 * [Watchers](Paladin/Watchers.md)
 * [Oathbreaker](Paladin/Oathbreaker.md)
 * [Treachery](Paladin/Treachery.md)
+
 Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.
 
 ### Oath Spells

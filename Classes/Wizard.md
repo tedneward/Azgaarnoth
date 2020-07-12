@@ -144,6 +144,7 @@ When you reach 2nd level, you choose an arcane tradition, shaping your practice 
 * [Transmutation](Wizard/Transmutation.md)
 * [Voidmancy](Wizard/Voidmancy.md)
 * [War Magic](Wizard/WarMagic.md)
+
 Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
 Note that many of the [Mage Schools](/Organizations/MageSchools/MageSchools.md) have their own, unique, arcane traditions; more options are found there.

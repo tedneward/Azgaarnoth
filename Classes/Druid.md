@@ -127,6 +127,7 @@ At 2nd level, you choose to identify with a circle of druids:
 * [Circle of the Stars](Druid/Stars.md)
 * [Circle of Twilight](Druid/Twilight.md)
 * [Circle of Wildfire](Druid/Wildfire.md)
+
 Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
 ## Ability Score Improvement
