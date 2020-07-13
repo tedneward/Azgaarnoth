@@ -93,3 +93,36 @@ Tieflings with a blood tie to Zariel are stronger than the typical tiefling and 
 * **Ability Score Increase**. Your Strength score increases by 1.
 
 * **Legacy of Avernus**. You know the Thaumaturgy cantrip. Once you reach 3rd level, you can cast the Searing Smite spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the Branding Smite spell once as a 3rd-level spell. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells.
+
+# Tiefling Racial Feat
+
+## Barbed Hide
+*Prerequisite: The ability to cast at least one spell*
+
+You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:
+
+* When you cast a spell that requires you to make an attack roll, the spell's range is doubled.
+* Your ranged spell attacks ignore half cover and three-quarters cover.
+* You learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you chose from: Charisma for bard, sorcerer, and warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+
+## Flames Of Phlegethos
+*Prerequisite: Tiefling*
+
+You learn to call on hellfire to serve your commands. You gain the following benefits:
+
+* Increase your Intelligence or Charisma score by 1, to a maximum of 20.
+
+* When you roll fire damage for a spell you cast, you can reroll any roll of 1 on the fire damage dice, but you must use the new roll, even if it is another 1.
+
+* Whenever you cast a spell that deals fire damage, you can cause flames to wreathe you until the end of your next turn. The flames don’t harm you or your possessions, and they shed bright light out to 30 feet and dim light for an additional 30 feet. While the flames are present, any creature within 5 feet of you that hits you with a melee attack takes 1d4 fire damage.
+
+## Infernal Constitution
+*Prerequisite: Tiefling*
+
+Fiendish blood runs strong in you, unlocking a resilience akin to that possessed by some fiends. You gain the following benefits:
+
+* Increase your Constitution score by 1, up to a maximum of 20.
+
+* You have resistance to cold damage and poison damage.
+
+* You have advantage on saving throws against being poisoned.

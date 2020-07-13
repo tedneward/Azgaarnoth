@@ -49,3 +49,40 @@ Rumors persist of clans of dwarves that never participated as part of the Exodus
 * **Duergar Magic**. When you reach 3rd level, you can cast the Enlarge/Reduce spell on yourself once with this trait, using only the spell's enlarge option. When you reach 5th level, you can cast the Invisibility spell on yourself once with this trait. You don't need material components for either spell, and you can't cast them while you're in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells.
 
 * **Sunlight Sensitivity**. You have disadvantage on Attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+
+# Dragon Racial Feats
+
+## Dwarven Resilience
+*Prerequisite: Dwarf*
+
+You have the blood of dwarf heroes flowing through your veins. You gain the following benefits:
+
+Increase your Constitution score by 1, to a maximum of 20.
+
+Whenever you take the Dodge action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1).
+
+## Grudge Bearer
+*Prerequisite: Dwarf*
+
+You have a deep hatred for a particular kind of creature. Choose your foes, a type of creature to bear the burden of your wrath: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can choose two races of humanoid (such as gnolls and orcs). You gain the following benefits:
+
+* Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20.
+
+* During the first round of any combat against your chosen foes, your attack rolls against any of them have advantage.
+
+* When any of your chosen foes makes an opportunity attack against you, it makes the attack roll with disadvantage.
+
+* Whenever you make an Intelligence (Arcana, History, Nature, or Religion) check to recall information about your chosen foes, you add double your proficiency bonus to the check, even if you’re not normally proficient.
+
+## Squat Nimbleness
+*Prerequisite: Dwarf or a Small race*
+
+You are uncommonly nimble for your race. You gain the following benefits:
+
+* Increase your Strength or Dexterity score by 1, to a maximum of 20.
+
+* Increase your walking speed by 5 feet.
+
+* You gain proficiency in the Acrobatics or Athletics skill (your choice).
+
+* You have advantage on any Strength (Athletics) or Dexterity (Acrobatics) check you make to escape from being grappled.

@@ -19,3 +19,16 @@
 • Powerful Build. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
 • Languages. You can speak, read, and write Common and Orc.
+
+### Squat Nimbleness
+*Prerequisite: Dwarf or a Small race*
+
+You are uncommonly nimble for your race. You gain the following benefits:
+
+* Increase your Strength or Dexterity score by 1, to a maximum of 20.
+
+* Increase your walking speed by 5 feet.
+
+* You gain proficiency in the Acrobatics or Athletics skill (your choice).
+
+* You have advantage on any Strength (Athletics) or Dexterity (Acrobatics) check you make to escape from being grappled.

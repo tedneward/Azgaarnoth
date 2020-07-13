@@ -24,6 +24,17 @@ The following traits are true of all elves.
 
 * **Languages**. You can speak, read, and write Common and Elven.
 
+### Elvish Racial Feats
+
+#### Elven Accuracy
+*Prerequisite: Elf or half-elf*
+
+The accuracy of elves is legendary, especially that of elf archers and spellcasters. You have uncanny aim with attacks that rely on precision rather than brute force. You gain the following benefits:
+
+Increase your Dexterity, Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20
+
+Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma, you can reroll one of the dice once.
+
 
 ## High Elf
 High elves and wood elves are, by this point in Azgaarnoth's history, fairly well intermixed and are found in most locations where elves are found; no non-elf can tel the difference between them.
@@ -35,6 +46,19 @@ High elves and wood elves are, by this point in Azgaarnoth's history, fairly wel
 * **Elf Weapon Training**. You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
 * **Extra Language**. You can read, speak, and write one additional language of your choice.
+
+### High Elf Racial Feats
+
+#### Fey Teleportation
+*Prerequisite: Elf (high)*
+
+Your study of high elven lore has unlocked fey power that few other elves possess, except your eladrin cousins. Drawing on your fey ancestry, you can momentarily stride through the Feywild to shorten your path from one place to another. You gain the following benefits:
+
+* Increase your Intelligence or Charisma score by 1, to a maximum of 20.
+
+* You learn to speak, read, and write Sylvan
+
+* You learn the [misty step]() spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest. Intelligence is your spellcasting ability for this spell.
 
 
 ## Wood Elf
@@ -48,9 +72,13 @@ High elves and wood elves are, by this point in Azgaarnoth's history, fairly wel
 
 * **Mask of the Wild**. You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
-## Eladrin
-(from [*UA: EladrinGith*](/Supplements/UA-Eladrin-Gith.pdf))
+### Wood Elf Racial Feat
+*Prerequisite: Elf (wood)*
 
+You learn the magic of the primeval woods, which are revered and protected by your people. You learn one druid cantrip of your choice. You also learn the [longstrider]() and [pass without trace]() spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Wisdom is your spellcasting ability for all three spells.
+
+
+## Eladrin
 Eladrin are elves native to the Feywild, a realm of beauty, unpredictable emotion, and boundless magic.  They are most often found in the wilds of [North Bedia](/Nations/Bedia.md), or on any of the scattered islands around Azgaarnoth. Intriguingly, they are also commonly found in the lands of the [Hordes](/Races/Hordes.md), without being forced into extensive combat against their neighbors.
 
 An eladrin is associated with one of the four seasons and has coloration reminiscent of that season, which can also affect the eladrin's mood:
@@ -78,8 +106,6 @@ Some eladrin remain associated with a particular season for their entire lives, 
 
 
 ## Avariel ("Winged Elves")
-(from [*UA: ElfSubraces*](/Supplements/UA-ElfSubraces.pdf))
-
 The avariel are winged elves. If the avariel are still present on Azgaarnoth, they do an excellent job keeping themselves hidden from common sight. Nevertheless, the avariel were some of the first elves created as part of the Eldars' Firstborn, and many were tasked with supporting and pairing with the dragons that partnered with the Eldar. Legend held that they often lived in great aeyries in the highest mountains.
 
 * **Flight**. You have a flying speed of 30 feet. To use this speed, you can’t be wearing medium or heavy armor.
@@ -88,8 +114,6 @@ The avariel are winged elves. If the avariel are still present on Azgaarnoth, th
 
 
 ## Grugach ("Wild Elves")
-(from [*UA: ElfSubraces*](/Supplements/UA-ElfSubraces.pdf))
-
 The grugach are those elves that sought to escape the world into the wilds, and for the most part, they reside almost exclusively in [North Bedia](/Nations/Bedia.md) in the wilderness far from any civilization. Periodically, a young grugach will seek a different path, and venture into civilization, and these often make fierce scouts or rangers, either in partnership with druids or working on behalf of a [Mercenary Company](/Organizations/MercCompanies/MercCompanies.md), particularly in the incessant battles on [Chidia](/Geography/Chidia.md). Grugach look almost identical to any other elves, and so will generally not raise an eyebrow when seen.
 
 If anyone is fool enough to disturb a grugach realm, these elves take to arms and fight in earnest. Grugach master the basic weapons needed to hunt and forage in the wood. Every copse of trees becomes a sniper’s nest, and each forest meadow is an ambush point. The grugach set pits filled with stakes, snares that leave an intruder helpless to grugach arrows, and other snares designed to kill rather than capture. The grugach fight to the death to preserve their realms.
@@ -103,8 +127,6 @@ If anyone is fool enough to disturb a grugach realm, these elves take to arms an
 * **Languages**. Unlike other elves, you don’t speak, read, or write Common. You instead speak, read, and write Sylvan.
 
 ## Maerach ("Sea Elves")
-(from [*UA: ElfSubraces*](/Supplements/UA-ElfSubraces.pdf))
-
 The maerach are those elves that chose the oceans and seas as their home, and with Eldar assistance, came to own them as any other elf does their woods. The maerach discovered, however, that like the lands they had left, the seas were also home to numerous creatures that sought mastery and domination. Maerach have found themselves in conflict with these creatures of the Undersea ever since. Fortunately, the maerach retain their ability to breath air, and have often aided surface mortals against the creatures of the Undersea in exchange for knowledge, tactics, and sometimes even mercenary help. Individual maerach are sometimes dispatched to the surface to learn of events there, carry messages, and create friendships, and a few port cities are even called "home" to some maerach who find the surface interesting. Maerach look strikingly similar to elves, aside from a small set of gills set just below their ears, which long hair (worn loosely) can usually hide.
 
 * **Ability Score Increase**. Your Constitution score increases by 1.
@@ -119,8 +141,6 @@ The maerach are those elves that chose the oceans and seas as their home, and wi
 
 
 ## Shadar-kai ("Shadow Elves")
-(from [*UA: ElfSubraces*](/Supplements/UA-ElfSubraces.pdf))
-
 These elves remain a mystery even to their kin--their origins are lost, their homes are undiscovered, and their motives and allegiances are absolutely indiscernible. Individual shadar-kai have been seen wandering the world, identifiable more by their piercings and tatoos than anything else, leaving many to wonder if other shadar-kai, unpierced and untattooed, also wander the world--and why.
 
 Eladrin and shadar-kai are like reflections of each other: one bursting with emotion, the other nearly devoid of it.
@@ -146,3 +166,8 @@ Most drow seem to hail from the Daw Mountains near the only active volcano in Az
 * **Superior Darkvision**. Your darkvision has a range of 120 feet, instead of 60.
 
 * **Sunlight Sensitivity**. You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight.
+
+### Drow Racial Feats
+*Prerequisite: Elf (drow)*
+
+You learn more of the magic typical of dark elves. You learn the detect magic spell and can cast it at will, without expending a spell slot. You also learn levitate and dispel magic, each of which you can cast once without expending a spell slot. You regain the ability to cast the spell in this way when you finish a long rest. Charisma is your spellcasting ability for these spells.

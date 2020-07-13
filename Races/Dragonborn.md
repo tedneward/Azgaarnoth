@@ -97,3 +97,29 @@ Every head of the [Platinum Order](/Organizations/DraconicOrder/Platinum.md) has
 
     * **Draconic Fortitude**. When an attack hits you and the damage dealt would reduce you to 0 hit points, it reduces you to 1 hit point instead. You can't use this ability again until you finish a long rest.
 
+# Dragonborn racial feats
+
+## Dragon Fear
+*Prerequisite: Dragonborn*
+
+When angered, you radiate menace. You gain the following benefits:
+
+Increase your Strength, Constitution, or Charisma score by 1, to a maximum of 20.
+
+Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds on the save if it can’t hear or see you. On a failed save, a target becomes frightened for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
+
+## Dragon Hide
+*Prerequisite: Dragonborn*
+
+You manifest scales and claws reminiscent of your draconic ancestors. You gain the following benefits:
+
+Increase your Strength, Constitution, or Charisma score by 1, up to a maximum of 20.
+
+Your scales harden. While you aren't wearing armor, you can calculate your AC as 13 + your Dexterity modifier. You can use a shield and still gain this benefit.
+
+You can grow retractable claws from the tips of your fingers. Extending or retracting the claws requires no action. The claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the normal bludgeoning damage for an unarmed strike.
+
+## Dragon Wings
+*Prerequisite: Dragonborn*
+
+You sprout draconic wings. With your wings, you have a flying speed of 20 feet if you aren’t wearing heavy armor and aren't exceeding your carrying capacity.
