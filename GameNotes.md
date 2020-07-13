@@ -4,6 +4,11 @@ Sourebooks used, all 5th Edition unless noted otherwise:
 * "Dungeon Master's Guide"
 * "Mordenkainen's Tome of Foes"
 * "Xanathar's Guide to Everything"
+* Unearthed Arcana supplements:
+  * "*Psionics_and_Mystic_V2.pdf*"
+  * "*UA-RuneSwarmRevived.pdf*"
+  * "*UA2020_PsionicOptions.pdf*"
+  * "*UAMystic3.pdf*"
 * "*The Book of Dragons*" (written by Conner McCall)
 
 All copyrights are held by their respective owners; I have only included the PDFs of freely-available material from the D&D website as a convenience to my players, and anyone not a part of my play group should obtain the materials from there, instead.
