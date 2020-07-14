@@ -1,5 +1,30 @@
 # Generalized Game Notes
-Sourebooks used, all 5th Edition unless noted otherwise:
+Welcome to Azgaarnoth.
+
+## Guide
+Start with the [Overview](Overview.md) to get a sense of the world and its history. The [map](Azgaarnoth.jpeg) is a view of the world from the top, and several sections have zoomed-in pieces of it to better highlight certain areas. Each map should have a ruler legend in the lower-right corner to offer scale.
+
+## Playing in Azgaarnoth
+Azgaarnoth is a world that is the collision of three major Earth-ish cultures (Western, Arabic, and Asian) alongside a more traditional Tolkien-esque "bad guy horde" (the Hordes). However, several deliberate steps have been thrown in to distance Azgaarnoth's nations and cultures from the traditional fantasy trope.
+
+For starters, Azgaarnoth lies south of the equator, thus the various climates grow hotter to the north, and colder to the south. More than that, the world has been in steady decline for the last several milennia, and is just starting to pull its way back out. Owing to the near-constant state of conflict over the last ten milennia, the population of Azgaarnoth is quite light, as population counts go, though certainly large numbers of creatures that would never sit for a census count also populate the world. Major cities are 25,000 in size; most cities are closer to 5k to 10k beings.
+
+Secondly, the "hordes" have fractured and split--twice. The "classic" orcs-and-goblin-hordes are in the far south, battling against a "dark" empire, whose "darkness" stems from an iron and unbending will to survive against that Horde. The second Hordes group are to the north of that, and they have begun to discover the power of civilization--and some of the restrictions and rules around it, putting them on a knife's edge of either sliding back into barbarism or moving to join the rest of the world in civilized discourse. The third is even further north, and further down the path of societal growth. Made up of stragglers who chose not to flee south, this group was ruthlessly united by a far-thinking minotaur two milennia ago, and is by far the most racially-egalitarian, not only of the Hordish world, but all of Azgaarnoth. Yithia--the lands of the Principality of Yithi and the Theocracy of Zhi--is a land that truly cares more for what one does than how one was born. This is the Asian-inspired culture, complete with many of the traditionlly Asian approaches to the world, including a strong faith in acnestral spirits and mysticism, and Yithia sports a hot, wet, grassland-and-swamp climate to go with that Asian mindset.
+
+Thirdly, the Arabic nations--the Al'Uma--do not ride over wide dunes of sand, but grasslands. The land is still hot, but water is plentiful, and grasslands stretch from horizon to horizon. This distinctly Arab-influenced culture is split between two religious figures from their history, related by theology but distanced by doctrine, and the two battle each other incessantly only when they do not battle their more ancient enemies, the Hordes--even though those Hordes migrated south (and then south again) ages ago. The Al'Uma slowly teeter towards religious chaos as the unifying force that held them together slowly seems to be less and less relevant.
+
+Lastly, the "Western" nations, Liria and her rebellious spawn (Travenia, Travesimia, Bedia, and so on) are nations exhausted by conflict from both inside and out. Liria was once a proud empire stretching from one corner of the map to the other, doing battle against her ancient Hordish enemies. But the stress of governance and fighting an implacable foe led to first one rebellion, then another and another that she was unable to dispute, and unable to reclaim. Such rebellious children found governance no easier, however, and each in turn faced their own internal rebellions as well. An uneasy peace has settled across the nations of the West, but ancient distrust and unforgotten history could easily flare into open war once again.
+
+If there is one thing the Western nations agree upon, however, it is their mututal distrust to the south, in the lands of Dradehalia, where a dark, mysterious, and genuinely frightening figure has forged an iron weapon out of the darkest of crises. The Dread Emperor rules Dradehalia with an iron fist, and nothing is known of this figure--not even if his rule for the past centuries years is by one person, or if each successor takes up the name and mantle to keep their enemies guessing. The Dread Emperor came to power by being willing to do whatever was necessary to ensure his nation's survival against the Hordes of Ulm crashing down upon his people--but in the time since, a more disturbing question arises: Is the Dread Emperor willing to let go of whatever dark and foul magics and deeds he felt necessary to secure his peoples' freedom, or will he seek to conquer the known world, in the name of that "security"?
+
+## The common world
+Being a commoner in Azgaarnoth is not as dark as the above summarization might imply; in fact, compared to the Dark Ages of Western Europe, commoners enjoy a relatively brisk and peaceful life--although the details may differ depending on which land one calls hoome. For most of the world, life is similar to that of the Earthen Renaissance: life offers a great deal of options to those who choose to stay at home and apprentice to a master, learn a craft, hone it through years of use, eventually becoming a master and opening up apprenticeships for a new generation. Food is, for the most part, plentiful, thanks to the intervention of gods and clerics. Bandits are generally rare, though certainly not unknown, and while most cities certainly have their "poor quarter", it is still a zone in which the lower classes are not relegating to crushing poverty of the deepest despair. Monstrous raids on isolated villages do happen, generally once or twice in the average villager's lifetime, but less often than having a son or brother or cousin go off to war and never to return.
+
+## Magic
+Like most worlds, magic is found throughout Azgaarnoth, but to the average citizen, it is an unachievable dream to wield it. Aside from those few who are born with it in their veins and go on to become sorcerers (training or no), or those who forge unthinkable pacts with unfathomable beings to become warlocks, magic remains the province of deep study, commitment, and practice. The magic of clerics, paladins, and druids requires dedication to a higher calling; the magic of bards, rangers, and monks requires study and practice. Mind-magic, aka psionics, is available in more widespread fashion in Yithia, but is still available for study in the West--if one has the dedication and time to devote to it.
+
+## Game Source Material
+Sourcebooks used, all D&D 5th Edition unless noted otherwise:
 * "Player's Handbook"
 * "Dungeon Master's Guide"
 * "Mordenkainen's Tome of Foes"
@@ -9,25 +34,12 @@ Sourebooks used, all 5th Edition unless noted otherwise:
   * "*UA-RuneSwarmRevived.pdf*"
   * "*UA2020_PsionicOptions.pdf*"
   * "*UAMystic3.pdf*"
+* "*Blackstaff's Tome of Wizardry*" (from DMs Guild)
 * "*The Book of Dragons*" (written by Conner McCall)
+* "*Disturbed Graves*" (from DMs Guild)
+* "*Elminster's Guide to Magic*" (from DMs Guild)
+* "*Grimlore's Grimoire*" (from DMs Guild)
 
 All copyrights are held by their respective owners; I have only included the PDFs of freely-available material from the D&D website as a convenience to my players, and anyone not a part of my play group should obtain the materials from there, instead.
 
-Note that much of this material is moving over into specific entries, so I can better control the customization and application of the material to the world.
-
-## Races
-The world used to belong to the [Eldar](/Races/Eldar.md) but they have long disappeared. [Humans](/Races/Human.md) are the numerically dominant (~50%) race. Dwarves and elves are plentiful, not restricted to traditional roles or geography, and are referred to as the [Firstborn](/Races/Firstborn.md). Dragonborn, tieflings, and aasimar were/are [Created](/Races/Created.md). Players seeking to play a non-traditional race almost certainly come from the [Hordes](/Races/Hordes.md) somewhere in their background.
-
-*The Book of Dragons* describes platinum dragonborn, dragonkin, and half-dragons as playable races. These are all present in Azgaarnoth.
-
-## Classes
-
-### [Mystic](/Supplements/UAMystic3.pdf)
-Mystics are found in a number of mage schools, and are thicker than thieves in the Great Library of the [Order of the Brass Dragon](/Organizations/DraconicOrder/Brass.md). In fact, it is said that mystics were the first thing that the Library began collecting.
-
-The various mystic Orders are scattered throughout the culture of Azgaarnoth:
-* The Order of the Immortal is usually found among the [Mercenary Companies](/Organizations/MercCompanies/MercCompanies.md) and [Dueling Colleges](/Organizations/DuelingColleges.md).
-* The Order of the Awakened is a [Mage School](/Organizations/MageSchools/MageSchools.md).
-* The Order of the Nomad is most often found among the barbarians of the Ravenlands.
-* The Order of the Soul Knife is found within several [Dueling Colleges](/Organizations/DuelingColleges.md), though they do not advertise, preferring instead to approach those who display talent and introduce them to the discipline. (Doing so immediately "retires" them from active competition, and Soul Knife duelists usually become clandestine or take up a more mercenary career.)
-* The Order of the Wu Jen is a [Mage School](/Organizations/MageSchools/MageSchools.md), most often found in [Zhi](/Nations/Zhi.md)
+Note that much of this material is moving over into specific entries, so I can better control the customization and application of the material to the world. Not all material from each book is relevant to this world, so I am incorporating and weaving it in as time (and game demand) permits, so as to present a more seamless whole.
