@@ -23,35 +23,42 @@ Paladin Level|Spells
 11th|[death ward](), [dimension door]()
 17th|[steel wind strike](), [teleportation circle]()
 
-Channel Divinity
+## Channel Divinity
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
-Dweomerbreaker. When you use your Divine Smite feature, you can use your Channel Divinity as a bonus action to
+
+**Dweomerbreaker**. When you use your Divine Smite feature, you can use your Channel Divinity as a bonus action to
 imbue that weapon with anti-magic energy bestowed by your deity. If the target takes damage from the attack, any spell that is on the target ends if it is of a level equal to or lower than the spell slot you expended for your Divine Smite.
-Spellfire Shield. When you make a successful saving throw against a spell, or a spell attack misses you, as a reaction you can use your Channel Divinity to reflect the spell onto an enemy. Choose the spellcaster or another creature you can see within 30 feet. The spell targets the chosen creature instead of you. If the spell forced a saving throw, the chosen creature makes its own save. If the spell was an attack, the same attack roll is rerolled against that creature.
-Arcane Cantrips
+
+**Spellfire Shield**. When you make a successful saving throw against a spell, or a spell attack misses you, as a reaction you can use your Channel Divinity to reflect the spell onto an enemy. Choose the spellcaster or another creature you can see within 30 feet. The spell targets the chosen creature instead of you. If the spell forced a saving throw, the chosen creature makes its own save. If the spell was an attack, the same attack roll is rerolled against that creature.
+
+## Arcane Cantrips
 At 3rd level when you take this oath, choose one of the following cantrips: blade ward, challenger’s mark, booming blade, echoing blow, frostwind blade, greenflame blade, lightning lure, looming shadow, punishing strike, resistance, or sword burst. You learn that cantrip in addition to your paladin spells. At 11th level, you learn one additional cantrip from the same list.
 
-Aegis Aura
+## Aegis Aura
 Starting at 7th level, you radiate an aura of arcane energy that allows you to counter attacks against your allies with cunning battle magic. Choose one of the following aura options: Assault, Ensnarement, or Shielding. When a creature besides yourself within 10 feet of you is hit by a melee attack, you can use your reaction to inflict one of the following effects on the attacker before the damage from the triggering attack is inflicted. The effect is determined by the aura option you chose, as follows:
-• Assault Aura: As a reaction, you teleport to an unoccupied space you can see within 5 feet of the attacker. You can then
+* **Assault Aura**: As a reaction, you teleport to an unoccupied space you can see within 5 feet of the attacker. You can then
 make a melee spell attack against the attacker as part of the same reaction. On a hit, this spell attack inflicts 2d4 radiant
 damage.
-• Ensnarement Aura: As a reaction, you make a melee spell attack against the attacker (even if they are out of reach). On
+* **Ensnarement Aura**: As a reaction, you make a melee spell attack against the attacker (even if they are out of reach). On
 a hit, this spell attack inflicts 2d4 psychic damage on the target, and it is pulled up to 10 feet in a straight line toward you.
-• Shielding Aura: As a reaction, you make a melee spell attack against the attacker (even if they are out of reach). On a hit, this spell attack inflicts 2d4 force damage and the target of the triggering attack gains temporary hit points equal to
+* **Shielding Aura**: As a reaction, you make a melee spell attack against the attacker (even if they are out of reach). On a hit, this spell attack inflicts 2d4 force damage and the target of the triggering attack gains temporary hit points equal to
 the force damage inflicted.
+
 In addition, when you reach 9th level in your paladin class, you gain an additional 3rd-level oath spell depending on the aura option you chose for this feature, as follows:
-• Assault Aura: aegis of assault*
-• Ensnarement Aura: aegis of ensnarement*
-• Shielding Aura: aegis of shielding*
+* **Assault Aura**: aegis of assault*
+* **Ensnarement Aura**: aegis of ensnarement*
+* **Shielding Aura**: aegis of shielding*
+
 This spell is added to your oath spell list, and like your other oath spells, it is always prepared. At 18th level, the range of your Aegis Aura increases to 30 feet.
 
-Swordmage’s Swiftness
+## Swordmage’s Swiftness
 Starting at 15th level, you can expend 10 hit points from the pool of healing granted by your Lay on Hands to use a bonus action to cast a cantrip gained from your Arcane Favor feature that has a casting time of 1 action, changing the casting time to 1 bonus action for this casting.
-One with the Weave
+
+## One with the Weave
 At 20th level, you can open up your mind and body to become one with the very substance of magic. As an action, you wreathe yourself in a maelstrom of spellfire. For one minute, you gain the following benefits:
-• Whenever you expend a spell slot of 3rd level or lower to cast one of your oath spells, you can expend 10 hit points from the pool of healing granted by your Lay on Hands feature to regain that spell slot.
-• Hostile creatures within 30 feet of you suffer disadvantage on opportunity attacks they make against your allies.
-• When you roll damage for a cantrip, you can reroll up to 4 of the damage dice. You must use the new rolls.
-• When you use your action to a cast a paladin spell, you can make one weapon attack as a bonus action.
+* Whenever you expend a spell slot of 3rd level or lower to cast one of your oath spells, you can expend 10 hit points from the pool of healing granted by your Lay on Hands feature to regain that spell slot.
+* Hostile creatures within 30 feet of you suffer disadvantage on opportunity attacks they make against your allies.
+* When you roll damage for a cantrip, you can reroll up to 4 of the damage dice. You must use the new rolls.
+* When you use your action to a cast a paladin spell, you can make one weapon attack as a bonus action.
+
 Once you use this feature, you can’t use it again until you finish a long rest.

@@ -7,4 +7,4 @@ Chromatic dragons will sometimes gift these gems to their most prized followers 
 
 These gems can be seen worked into weapons and armor.
 
-See the variants [Armor of Breath Absorption](ArmorOfBreathAbsorption.md) and [Weapon of Breath Absorption](WeaponOfBreathAbsorption.md) for details.
+See the variants [armor of breath absorption](armor-of-breath-absorption.md) and [weapon of breath absorption](weapon-of-breath-absorption.md) for details.
