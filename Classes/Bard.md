@@ -109,6 +109,7 @@ At 3rd level, you delve into the advanced techniques of a bard college of your c
 * [Glamour](Bard/Glamour.md)
 * [Lore](Bard/Lore.md)
 * [Satire](Bard/Satire.md)
+* [Secrets](Bard/Secrets.md)
 * [Swords](Bard/Swords.md)
 * [Valor](Bard/Valor.md)
 * [Whispers](Bard/Whispers.md)

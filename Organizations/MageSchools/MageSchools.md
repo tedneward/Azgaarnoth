@@ -35,12 +35,16 @@ Hundreds of mage schools of all size are present on Azgaarnoth. Currently the mo
 * [Spinning Hands](SpinningHands.md)
 * [Twilight Star](TwilightStar.md)
 * [Gathering Mist](GatheringMist.md)
-* [Blue Sky](BlueSky.md) (weather, air)
-* [Ruby Tongue](RubyTongue.md) (fire)
-* [Hewn Arch](HewnArch.md) (earth, stone, masonry)
-* [Dark Cauldron](DarkCauldron.md) (alchemy)
+* [Blue Sky](BlueSky.md)
+* [Ruby Tongue](RubyTongue.md)
+* [Hewn Arch](HewnArch.md)
+* [Dark Cauldron](DarkCauldron.md)
 * [Animalists](Animalists.md)
 * [Symbarchs](Symbarchs.md)
+
+There are always rumors of additional schools that aren't formal or popular, such as a school dedicated to enchantment (which is feared by the common folk because of the obvious perils of abuse by said enchanters), and not all magi need join a school in order to thrive. School-affiliated magi, however, will look down on "wilders" as "uncivilized" or "uneducated", and many "wilders" in turn look upon their school-affiliated brethren as "sellouts" or "kept magi". These "wilders" will often be of the [Hedge Magi](/Classes/Wizard/HedgeMagi.md) arcane tradition.
+
+> Still other schools are known to exist or have existed in the past, such as the Infinite Cylinder, Pylon of the Void, Miasmal Minaret, Pillar of the Endless Stair, Stone of Eternity, Nonesuch Monument, Chthonic Pylon, Belfry of the Forgotten Fane, Rock of Sorrow, Cylinder of Silence, Celestial Monument, Spiral Tower, Spire of Crimson, Bronze Turret, Colossal Column, Elemental Obelisk, Gilded Rock, Monument of the Emerald Rune, Shimmering Spire, Finger of the Phoenix, Rock of Oblivion, Edifice of the Endless Dark, Eldritch Column, Immaculate Cylinder, Obelisk of the Worm, Tower of the Brazen Delve, Greenstone Cylinder, Enchanted Tower, Purple Column, Fey Stone, Dusk Tower, Astral Spire, Turret of Chaos, Twisted Stone, Illusory Monument, Siltstone Rock, Turret of Sorrow, Cylinder of the Mist, Edifice of Iniquity, Grinding Turret, Ebony Stone, Scarlet Obelisk, Lightless Stone, and still others. Some had no more than a dozen members and a tower for a time, others rose to hundreds of members, and then obliterated themselves in spectacular fashion. Their histories may be waiting to be (re)discovered, if only the brave and the foolhardy are willing to explore their ruins....
 
 Many of these schools have explicit connections to other organizations, such as merchant guilds, mercenary companies, or the Draconic Orders. More frequently, a mage school will hire a mercenary company for a variety of tasks (including escort and guard duties), engage in trade with merchant guilds, and consult (or be consulted) with the Draconic Orders, particularly the [Brass](/Organizations/DraconicOrder/Brass.md)
 
