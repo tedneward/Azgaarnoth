@@ -20,7 +20,7 @@ Once you use this feature, you can’t use it again until you finish a short or 
 ## Pact Boon: Pact of the Star Chain
 At 3rd level, a character dedicated to the Seeker can select this option instead of one of the warlock’s existing Pact Boon options.
 
-The Seeker grants you a chain forged from starlight, decorated with seven gleaming motes of brightness. While  the chain is on your person, you know the augury spell and can cast it as a ritual. The spell doesn’t count against your number of spells known. 
+The Seeker grants you a chain forged from starlight, decorated with seven gleaming motes of brightness. While  the chain is on your person, you know the [augury](https://www.dndbeyond.com/spells/augury) spell and can cast it as a ritual. The spell doesn’t count against your number of spells known. 
 
 Additionally, you can invoke the Seeker’s power to gain advantage on an Intelligence check while you carry this item. Once you use this ability, you cannot use it again until you complete a short or long rest.
 

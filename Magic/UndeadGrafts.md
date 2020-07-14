@@ -237,7 +237,7 @@ Appendage: entire body
 
 Rare Component: remains from an incorporeal undead
 
-Whisps of shadow or ectoplasumn remains from a ghost, which are infused into your pours. The graft lets you cast the [misty step]() spell once per day, recharging at dusk. 
+Whisps of shadow or ectoplasumn remains from a ghost, which are infused into your pours. The graft lets you cast the [misty step](https://www.dndbeyond.com/spells/misty-step) spell once per day, recharging at dusk. 
 
 ### Undead Skin
 *Undead graft, rare*

@@ -291,7 +291,7 @@ You can cast disguise self at will, without expending a spell slot.
 ## Master of Myriad Forms
 *Prerequisite: 15th level*
 
-You can cast alter self at will, without expending a spell slot.
+You can cast [alter self](https://www.dndbeyond.com/spells/alter-self) at will, without expending a spell slot.
 
 ## Minions of Chaos
 *Prerequisite: 9th level*
@@ -474,7 +474,7 @@ At 20th level, you can draw on your inner reserve of mystical power while entrea
 * [puppet](https://www.dndbeyond.com/spells/puppet)
 * [sense emotion](https://www.dndbeyond.com/spells/sense-emotion)
 * [unseen servant](https://www.dndbeyond.com/spells/unseen-servant)
-* thunderwave
+* [thunderwave](https://www.dndbeyond.com/spells/thunderwave)
 * [witch bolt](https://www.dndbeyond.com/spells/witch-bolt)
 
 ## 2nd Level
@@ -490,7 +490,7 @@ At 20th level, you can draw on your inner reserve of mystical power while entrea
 * Mental Barrier (UA)
 * Mind Thrust (UA)
 * Mirror Image
-* Misty Step
+* [misty step](https://www.dndbeyond.com/spells/misty-step)
 * Ray of Enfeeblement
 * Shatter
 * Spider Climb

@@ -78,7 +78,7 @@ The great miser Mammon loves coins above all else. Tieflings tied to him excel a
 
 * **Ability Score Increase**. Your Intelligence score increases by 1.
 
-* **Legacy of Minauros**. You know the Mage Hand cantrip. Once you reach 3rd level, you can cast the Tenser's Floating Disk spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the Arcane Lock spell once. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells.
+* **Legacy of Minauros**. You know the Mage Hand cantrip. Once you reach 3rd level, you can cast the Tenser's Floating Disk spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the [arcane lock](https://www.dndbeyond.com/spells/arcane-lock) spell once. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells.
 
 ## Bloodline of Mephistopheles
 In the frozen realm of Cania, Mephistopheles offers arcane power to those who entreat with him. Tieflings linked to him master some arcane magic.

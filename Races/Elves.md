@@ -58,7 +58,7 @@ Your study of high elven lore has unlocked fey power that few other elves posses
 
 * You learn to speak, read, and write Sylvan
 
-* You learn the [misty step]() spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest. Intelligence is your spellcasting ability for this spell.
+* You learn the [misty step](https://www.dndbeyond.com/spells/) spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest. Intelligence is your spellcasting ability for this spell.
 
 
 ## Wood Elf

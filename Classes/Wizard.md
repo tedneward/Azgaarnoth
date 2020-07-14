@@ -248,54 +248,54 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 * [wristpocket](https://www.dndbeyond.com/spells/wristpocket)
 
 ## 2nd Level
-* Aganazzar's Scorcher
-* Alter Self
-* Arcane Lock
-* augury
-* Blindness/Deafness
-* Blur
-* Cloud of Daggers
-* Continual Flame
-* Crown of Madness
-* Darkness
-* Darkvision
-* Detect Thoughts
-* Dragon's Breath
-* Dust Devil
-* Earthbind
-* enhance ability
-* Enlarge/Reduce
-* Flaming Sphere
-* Flock of Familiars
-* Gentle Repose
-* Gust of Wind
-* Hold Person
-* Invisibility
-* Knock
-* Levitate
-* Locate Object
-* Magic Mouth
-* Magic Weapon
-* Maximillian's Earthen Grasp
-* Melf's Acid Arrow
-* Mental Barrier (UA)
-* Mind Thrust (UA)
-* Mirror Image
-* Misty Step
-* Nystul's Magic Aura
-* Phantasmal Force
-* Pyrotechnics
-* Ray of Enfeeblement
-* Rope Trick
-* Scorching Ray
-* See Invisibility
-* Shatter
-* Skywrite
-* Snilloc's Snowball Storm
-* Spider Climb
-* Suggestion
-* Thought Shield (UA)
-* Web
+* [aganazzar's scorcher](https://www.dndbeyond.com/spells/aganazzars-scorcher)
+* [alter self](https://www.dndbeyond.com/spells/alter-self)
+* [arcane lock](https://www.dndbeyond.com/spells/arcane-lock)
+* [augury](https://www.dndbeyond.com/spells/augury)
+* [blindness/deafness](https://www.dndbeyond.com/spells/blindness-deafness)
+* [blur](https://www.dndbeyond.com/spells/blur)
+* [cloud of daggers](https://www.dndbeyond.com/spells/cloud-of-daggers)
+* [continual flame](https://www.dndbeyond.com/spells/continual-flame)
+* [crown of madness](https://www.dndbeyond.com/spells/crown-of-madness)
+* [darkness](https://www.dndbeyond.com/spells/darkness)
+* [darkvision](https://www.dndbeyond.com/spells/darkvision)
+* [detect thoughts](https://www.dndbeyond.com/spells/detect-thoughts)
+* [dragon's breath](https://www.dndbeyond.com/spells/dragons-breath)
+* [dust devil](https://www.dndbeyond.com/spells/dust-devil)
+* [earthbind](https://www.dndbeyond.com/spells/earthbind)
+* [enhance ability](https://www.dndbeyond.com/spells/enhance-ability)
+* [enlarge/reduce](https://www.dndbeyond.com/spells/enlarge-reduce)
+* [flaming sphere](https://www.dndbeyond.com/spells/flaming-sphere)
+* [flock of familiars](https://www.dndbeyond.com/spells/flock-of-familiars)
+* [gentle repose](https://www.dndbeyond.com/spells/gentle-repose)
+* [gust of wind](https://www.dndbeyond.com/spells/gust-of-wind)
+* [hold person](https://www.dndbeyond.com/spells/hold-person)
+* [invisibility](https://www.dndbeyond.com/spells/invisibility)
+* [knock](https://www.dndbeyond.com/spells/knock)
+* [levitate](https://www.dndbeyond.com/spells/levitate)
+* [locate object](https://www.dndbeyond.com/spells/locate-object)
+* [magic mouth](https://www.dndbeyond.com/spells/magic-mouth) (ritual)
+* [magic weapon](https://www.dndbeyond.com/spells/magic-weapon)
+* [Maximillian's earthen grasp](https://www.dndbeyond.com/spells/maximillians-earthen-grasp)
+* [Melf's acid arrow](https://www.dndbeyond.com/spells/melfs-acid-arrow)
+* [mental narrier](https://www.dndbeyond.com/spells/mental-barrier)
+* [mind thrust](https://www.dndbeyond.com/spells/mind-thrust)
+* [mirror image](https://www.dndbeyond.com/spells/mirror-image)
+* [misty step](https://www.dndbeyond.com/spells/misty-step)
+* [Nystul's Magic Aura](https://www.dndbeyond.com/spells/nystuls-magic-aura)
+* [phantasmal force](https://www.dndbeyond.com/spells/phantasmal-force)
+* [pyrotechnics](https://www.dndbeyond.com/spells/pyrotechnics)
+* [ray of enfeeblement](https://www.dndbeyond.com/spells/ray-of-enfeeblement)
+* [rope trick](https://www.dndbeyond.com/spells/rope-trick)
+* [scorching ray](https://www.dndbeyond.com/spells/scorching-ray)
+* [see invisibility](https://www.dndbeyond.com/spells/see-invisibility)
+* [shatter](https://www.dndbeyond.com/spells/shatter)
+* [skywrite](https://www.dndbeyond.com/spells/skywrite) (ritual)
+* [Snilloc's snowball storm](https://www.dndbeyond.com/spells/snillocs-snowball-storm)
+* [spider climb](https://www.dndbeyond.com/spells/spider-climb)
+* [suggestion](https://www.dndbeyond.com/spells/suggestion)
+* [thought shield](https://www.dndbeyond.com/spells/thought-shield)
+* [web](https://www.dndbeyond.com/spells/web)
 
 ## 3rd Level
 * Animate Dead

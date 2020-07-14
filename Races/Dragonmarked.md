@@ -166,7 +166,7 @@ The Mark of Warding helps its bearers protect things of value. Using the mark, a
 The Mark of Warding manifests exclusively on dwarves. If your character has the Mark of Warding, this is your dwarf subrace.
 Ability Score Increase. Your Dexterity and Intelligence scores increase by 1.
 Master of Locks. When you make an Intelligence (History), Intelligence (Investigation), or Thieves' Tools check involving lock and trap mechanisms, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
-Wards and Seals. You can use your mark to cast the alarm spell as a ritual. Starting at 3rd level you can cast arcane lock once with this trait and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for these spells.
+Wards and Seals. You can use your mark to cast the alarm spell as a ritual. Starting at 3rd level you can cast [arcane lock](https://www.dndbeyond.com/spells/arcane-lock) once with this trait and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for these spells.
 
 
 ## Feat: Greater Dragonmark

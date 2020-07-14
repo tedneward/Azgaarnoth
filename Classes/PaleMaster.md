@@ -245,7 +245,7 @@ Elemental Anguish (GG)
 Gentle Repose
 Grimlore’s Shadowgrasp (GG)
 Manacle of Burden (GG)
-Misty Step
+[misty step](https://www.dndbeyond.com/spells/misty-step)
 Necrotic Visage (GG)
 Ray of Enfeeblement
 Shadow Blade

@@ -22,7 +22,7 @@ At the 3rd leve, you learn an additional spell when you reach certain levels in 
 Ranger Level | Spell
 ------------ | -----
 3rd | [charm person]()
-5th | [misty step]()
+5th | [misty step](https://www.dndbeyond.com/spells/misty-step)
 9th | [dispel magic]()
 13th | [banishment]()
 17th | [mislead]()

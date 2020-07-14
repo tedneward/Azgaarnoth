@@ -206,7 +206,7 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 * [mold earth](https://www.dndbeyond.com/spells/mold-earth)
 * [poison spray](https://www.dndbeyond.com/spells/poison-spray)
 * [prestidigitation](https://www.dndbeyond.com/spells/prestidigitation)
-* primal savagery
+* [primal savagery](https://www.dndbeyond.com/spells/primal-savagery)
 * [ray of frost](https://www.dndbeyond.com/spells/ray-of-frost)
 * [shape water](https://www.dndbeyond.com/spells/shape-water)
 * [shocking grasp](https://www.dndbeyond.com/spells/shocking-grasp)
@@ -230,13 +230,13 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 * [false life](https://www.dndbeyond.com/spells/false-life)
 * [feather fall](https://www.dndbeyond.com/spells/feather-fall)
 * [fog cloud](https://www.dndbeyond.com/spells/fog-cloud)
-* grease
+* [grease](https://www.dndbeyond.com/spells/grease)
 * [ice knife](https://www.dndbeyond.com/spells/ice-knife)
 * [id insinuation](https://www.dndbeyond.com/spells/id-insinuation)
 * [jump](https://www.dndbeyond.com/spells/jump)
 * [mage armor](https://www.dndbeyond.com/spells/mage-armor)
 * [magic missile](https://www.dndbeyond.com/spells/magic-missile)
-* protection from evil and good
+* [protection from evil and good](https://www.dndbeyond.com/spells/protection-from-evil-and-good)
 * [ray of sickness](https://www.dndbeyond.com/spells/ray-of-sickness)
 * [shield](https://www.dndbeyond.com/spells/shield)
 * [silent image](https://www.dndbeyond.com/spells/silent-image)
@@ -246,43 +246,43 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 * [witch bolt](https://www.dndbeyond.com/spells/witch-bolt)
 
 ## 2nd Level
-* Aganazzar's scorcher
-* alter self
+* [aganazzar's scorcher](https://www.dndbeyond.com/spells/aganazzars-scorcher)
+* [[alter self](https://www.dndbeyond.com/spells/alter-self)](https://www.dndbeyond.com/spells/alter-self)
 * [blindness/deafness](https://www.dndbeyond.com/spells/blindness-deafness)
-* blur
+* [blur](https://www.dndbeyond.com/spells/blur)
 * cloud of daggers
 * crown of madness
 * darkness
-* darkvision
+* [darkvision](https://www.dndbeyond.com/spells/darkvision)
 * detect thoughts
-* dragon's breath
+* [dragon's breath](https://www.dndbeyond.com/spells/dragons-breath)
 * dust devil
 * earthbind
-* enhance ability
-* enlarge/reduce
+* [enhance ability](https://www.dndbeyond.com/spells/enhance-ability)
+* [enlarge/reduce](https://www.dndbeyond.com/spells/enlarge-reduce)
 * flame blade
 * flaming sphere
 * gust of wind
 * [hold person](https://www.dndbeyond.com/spells/hold-person)
-* invisibility
+* [invisibility](https://www.dndbeyond.com/spells/invisibility)
 * knock
-* levitate
+* [levitate](https://www.dndbeyond.com/spells/levitate)
 * Maximillian's earthen grasp
 * mental barrier
 * mind thrust
 * mirror image
-* misty step
+* [misty step](https://www.dndbeyond.com/spells/misty-step)
 * phantasmal force
-* pyrotechnics
+* [pyrotechnics](https://www.dndbeyond.com/spells/pyrotechnics)
 * scorching ray
-* see invisibility
+* [see invisibility](https://www.dndbeyond.com/spells/see-invisibility)
 * shatter
 * Snilloc's snowball storm
-* spider climb
+* [spider climb](https://www.dndbeyond.com/spells/spider-climb)
 * suggestion
 * thought shield
 * [warding wind](https://www.dndbeyond.com/spells/warding-wind)
-* web
+* [web](https://www.dndbeyond.com/spells/web)
 
 ## 3rd Level
 * Blink

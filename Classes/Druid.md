@@ -193,7 +193,7 @@ At 20th level, you can use your Wild Shape an unlimited number of times.
 
 ## 2nd Level
 * Animal Messenger
-* Augury (ritual)
+* [augury](https://www.dndbeyond.com/spells/augury) (ritual)
 * Barkskin
 * Beast Sense
 * Continual Flame

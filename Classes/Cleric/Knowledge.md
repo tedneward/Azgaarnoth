@@ -7,7 +7,7 @@ Starting at 1st level, you gain domain spells at the cleric levels listed in the
 Cleric Level |	Spells
 ------------ | -----
 1st	| Command, Identify
-3rd	| Augury, Suggestion
+3rd	| [augury](https://www.dndbeyond.com/spells/augury), Suggestion
 5th	| Nondetection, Speak with Dead
 7th	| Arcane Eye, Confusion
 9th	| Legend Lore, Scrying

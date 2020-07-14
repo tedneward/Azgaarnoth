@@ -22,7 +22,7 @@ Within Azgaarnoth, gith are thought to be [elves](Elves.md) captured by the illi
 
 * **Githyanki Psionics**. You know the Mage Hand cantrip, and the hand is invisible when you cast the cantrip with this trait.
 
-  When you reach 3rd level, you can cast the Jump spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Misty Step spell once with this trait, and you regain the ability to do so when you finish a long rest.
+  When you reach 3rd level, you can cast the Jump spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [misty step](https://www.dndbeyond.com/spells/misty-step) spell once with this trait, and you regain the ability to do so when you finish a long rest.
 
   Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.
 

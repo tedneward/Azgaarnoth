@@ -1,7 +1,7 @@
 # Divine Domain: Life
 
 ## Domain Spells
-Starting at 1st level, you gain domain spells at the cleric levels listed in the Unity Domain Spells table. See the Life Domain class feature for how domain spells work.
+Starting at 1st level, you gain domain spells at the cleric levels listed in the Life Domain Spells table. See the Life Domain class feature for how domain spells work.
 
 **Life Domain Spells**
 Cleric Level |	Spells

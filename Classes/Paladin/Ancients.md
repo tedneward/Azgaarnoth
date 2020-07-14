@@ -21,7 +21,7 @@ You gain oath spells at the paladin levels listed.
 Paladin Level|Spells
 -------------|------
 3rd|	Ensnaring Strike, Speak with Animals
-5th|	Moonbeam, Misty Step
+5th|	Moonbeam, [misty step](https://www.dndbeyond.com/spells/misty-step)
 9th|	Plant Growth, Protection from Energy
 13th|	Ice Storm, Stoneskin
 17th|	Commune with Nature, Tree Stride

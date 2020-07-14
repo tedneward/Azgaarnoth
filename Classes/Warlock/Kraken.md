@@ -10,7 +10,7 @@ The Kraken lets you choose from an expanded list of spells when you learn a warl
 Spell Level|Spells
 -----------|------
 1st|Create or Destroy Water, Thunderwave
-2nd|Augury, Gust of Wind
+2nd|[augury](https://www.dndbeyond.com/spells/augury), Gust of Wind
 3rd|Call Lightning, Water Breathing
 4th|Control Water, Evard's Black Tentacles
 5th|Commune With Nature, Cone of Cold

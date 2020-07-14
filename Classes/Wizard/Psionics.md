@@ -100,7 +100,7 @@ mental barrier
 mind spike (Xanathar’s Guide) 
 mind thrust
 mirror image
-misty step
+[misty step](https://www.dndbeyond.com/spells/misty-step)
 phantasmal force
 see invisibility
 suggestion

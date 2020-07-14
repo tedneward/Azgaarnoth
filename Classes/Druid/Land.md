@@ -27,7 +27,7 @@ Artic regions will be found only in southernmost [Dradehalia](/Nations/Dradehali
 **Coast**
 Druid Level|	Circle Spells
 ---------- | --------------
-3rd	|Mirror Image, Misty Step
+3rd	|Mirror Image, [misty step](https://www.dndbeyond.com/spells/misty-step)
 5th	|Water Breathing, Water Walk
 7th	|Control Water, Freedom of Movement
 9th	|Conjure Elemental, Scrying

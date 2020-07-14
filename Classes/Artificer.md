@@ -340,48 +340,48 @@ While wearing this ring, the creature can recover one expended spell slot as an 
 
 
 ## 1st Level
-* Absorb Elements
-* Alarm (ritual)
-* [arcane weapon](1st/arcane-weapon.md)
-* Catapult
-* Cure Wounds
-* Detect Magic (ritual)
-* Disguise Self
-* Expeditious Retreat
-* Faerie Fire
-* False Life
-* Feather Fall
-* Grease
-* Identify (ritual)
-* Jump
-* Longstrider
-* Purify Food and Drink
-* Sanctuary
-* Snare
+* [absorb elements](https://www.dndbeyond.com/spells/absorb-elements)
+* [alarm](https://www.dndbeyond.com/spells/alarm) (ritual)
+* [arcane weapon](/Magic/Spells/arcane-weapon.md)
+* [catapult](https://www.dndbeyond.com/spells/catapult)
+* [cure wounds](https://www.dndbeyond.com/spells/cure-wounds)
+* [detect magic](https://www.dndbeyond.com/spells/detect-magic) (ritual)
+* [disguise self](https://www.dndbeyond.com/spells/disguise-self)
+* [expeditious retreat](https://www.dndbeyond.com/spells/expeditious-retreat)
+* [faerie fire](https://www.dndbeyond.com/spells/faerie-fire)
+* [false life](https://www.dndbeyond.com/spells/false-life)
+* [feather fall](https://www.dndbeyond.com/spells/feather-fall)
+* [grease](https://www.dndbeyond.com/spells/grease)
+* [identify](https://www.dndbeyond.com/spells/identify) (ritual)
+* [jump](https://www.dndbeyond.com/spells/jump)
+* [longstrider](https://www.dndbeyond.com/spells/longstrider)
+* [purify food and drink](https://www.dndbeyond.com/spells/purify-food-and-drink)
+* [sanctuary](https://www.dndbeyond.com/spells/sanctuary)
+* [snare](https://www.dndbeyond.com/spells/snare)
 
 ## 2nd Level
-* Aid
-* Alter Self
-* Arcane Lock
-* Blur
-* Continual Flame
-* Darkvision
-* Dragon's Breath
-* Enhance Ability
-* Enlarge/Reduce
-* Heat Metal
-* Invisibility
-* Lesser Restoration
-* Levitate
-* Magic Mouth (ritual)
-* Magic Weapon
-* Protection from Poison
-* Pyrotechnics
-* Rope Trick
-* See Invisibility
-* Skywrite (ritual)
-* Spider Climb
-* Web
+* [aid](https://www.dndbeyond.com/spells/aid)
+* [[alter self](https://www.dndbeyond.com/spells/alter-self)](https://www.dndbeyond.com/spells/alter-self)
+* [arcane lock](https://www.dndbeyond.com/spells/arcane-lock)
+* [blur](https://www.dndbeyond.com/spells/blur)
+* [continual flame](https://www.dndbeyond.com/spells/continual-flame)
+* [darkvision](https://www.dndbeyond.com/spells/darkvision)
+* [dragon's breath](https://www.dndbeyond.com/spells/dragons-breath)
+* [enhance ability](https://www.dndbeyond.com/spells/enhance-ability)
+* [enlarge/reduce](https://www.dndbeyond.com/spells/enlarge-reduce)
+* [heat metal](https://www.dndbeyond.com/spells/heat-metal)
+* [invisibility](https://www.dndbeyond.com/spells/invisibility)
+* [lesser restoration](https://www.dndbeyond.com/spells/lesser-restoration)
+* [levitate](https://www.dndbeyond.com/spells/levitate)
+* [magic mouth](https://www.dndbeyond.com/spells/magic-mouth) (ritual)
+* [magic weapon](https://www.dndbeyond.com/spells/magic-weapon)
+* [protection from poison](https://www.dndbeyond.com/spells/protection-from-poison)
+* [pyrotechnics](https://www.dndbeyond.com/spells/pyrotechnics)
+* [rope trick](https://www.dndbeyond.com/spells/rope-trick)
+* [see invisibility](https://www.dndbeyond.com/spells/see-invisibility)
+* [skywrite](https://www.dndbeyond.com/spells/skywrite) (ritual)
+* [spider climb](https://www.dndbeyond.com/spells/spider-climb)
+* [web](https://www.dndbeyond.com/spells/web)
 
 ## 3rd Level
 * Blink

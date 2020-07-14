@@ -20,4 +20,4 @@ Starting at 6th level, your attacks in beast form count as magical for the purpo
 At 10th level, you can expend two uses of Wild Shape at the same time to transform into an air elemental, an earth elemental, a fire elemental, or a water elemental.
 
 ## Thousand Forms
-By 14th level, you have learned to use magic to alter your physical form in more subtle ways. You can cast the [Alter Self]() spell at will.
+By 14th level, you have learned to use magic to alter your physical form in more subtle ways. You can cast the [[alter self](https://www.dndbeyond.com/spells/alter-self)]() spell at will.

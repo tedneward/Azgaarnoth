@@ -17,7 +17,7 @@ You gain oath spells at the paladin levels listed. See the Sacred Oath class fea
 Paladin Level|Spells
 -------------|------
 3rd|alarm, chromatic orb
-5th|augury, moonbeam
+5th|[augury](https://www.dndbeyond.com/spells/augury), moonbeam
 9th|counterspell, nondetection
 13th|aura of purity, banishment
 17th|hold monster, hallow

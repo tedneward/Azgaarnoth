@@ -21,7 +21,7 @@ You gain oath spells at the paladin levels listed.
 Paladin Level|Spells
 -------------|-------
 3rd|Bane, Hunter's Mark
-5th|Hold Person, Misty Step
+5th|Hold Person, [misty step](https://www.dndbeyond.com/spells/misty-step)
 9th|Haste, Protection from Energy
 13th|Banishment, Dimension Door
 17th|Hold Monster, Scrying

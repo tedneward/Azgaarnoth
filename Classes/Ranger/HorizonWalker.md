@@ -8,7 +8,7 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 Ranger Level|Spells
 ------------|------
 3rd|[protection from evil and good]()
-5th|[alter self]()
+5th|[[alter self](https://www.dndbeyond.com/spells/alter-self)]()
 9th|[protection from energy]()
 13th|[banishment]()
 17th|[teleportation circle]()
