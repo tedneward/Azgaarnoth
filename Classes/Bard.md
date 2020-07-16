@@ -106,6 +106,7 @@ Beginning at 2nd level, you can use soothing music or oration to help revitalize
 At 3rd level, you delve into the advanced techniques of a bard college of your choice:
 
 * [Creation](Bard/Creation.md)
+* [Dragonsong](Bard/Dragonsong.md)
 * [Glamour](Bard/Glamour.md)
 * [Lore](Bard/Lore.md)
 * [Satire](Bard/Satire.md)

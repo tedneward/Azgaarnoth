@@ -9,7 +9,7 @@ Starting at 2nd level, as a bonus action, you are able to exert influence on any
 • You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.
 • You instantaneously extinguish the flames. 
 • You can double or halve the area of bright light and dim light cast by the flame, change its color, or both. These changes last for 1 hour.
-• You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear and animate within the flames, as you like. These shapes last for 1 hour. This ability replicates the effects of the control flames cantrip, but is not considered a spell.
+• You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear and animate within the flames, as you like. These shapes last for 1 hour. This ability replicates the effects of the [control flames](https://www.dndbeyond.com/spells/control-flames) cantrip, but is not considered a spell.
 
 ## Heart of Fire
 Starting at 6th level, you take no damage from natural or mundane sources of flame or heat and you gain immunity to environmental, heat-based exhaustion. You also have advantage on saving throws against fire-based spells and effects.

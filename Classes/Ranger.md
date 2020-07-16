@@ -48,10 +48,10 @@ As a ranger, you gain the following class features.
 
 ## Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
-• (a) scale mail or (b) leather armor
-• (a) two shortswords or (b) two simple melee weapons
-• (a) a dungeoneer's pack or (b) an explorer's pack
-• A longbow and a quiver of 20 arrows
+* (a) scale mail or (b) leather armor
+* (a) two shortswords or (b) two simple melee weapons
+* (a) a dungeoneer's pack or (b) an explorer's pack
+* A longbow and a quiver of 20 arrows
 
 ## Favored Foe
 You can call on your bond with nature to mark a creature as your favored enemy for a time: you know the [hunter’s mark]() spell, and Wisdom is your spellcasting ability for it. You can use it a certain number of times without expending a spell slot and without requiring concentration—a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
@@ -169,24 +169,26 @@ Beginning at 3rd level, you can focus your awareness through the interconnection
 **Primal Awareness Spells**
 Ranger Level | Spell
 ------------ | -----
-3rd | detect magic, speak with animals
-5th | beast sense, locate animals or plants
-9th | speak with plants
-13th | locate creature
-17th | commune with nature
+3rd | [detect magic](https://www.dndbeyond.com/spells/detect-magic), [speak with animals](https://www.dndbeyond.com/spells/speak-with-animals)
+5th | [beast sense](https://www.dndbeyond.com/spells/beast-sense), [locate animals or plants](https://www.dndbeyond.com/spells/locate-animals-or-plants)
+9th | [speak with plants](https://www.dndbeyond.com/spells/speak-with-plants)
+13th | [locate creature](https://www.dndbeyond.com/spells/locate-creature)
+17th | [commune with nature](https://www.dndbeyond.com/spells/commune-with-nature)
 
 You can cast each of these spells once without expending a spell slot. Once you cast a spell in this way, you can’t do so again until you finish a long rest.
 
 ## Ranger Conclave
 At 3rd level, you choose to emulate the ideals and training of a ranger conclave:
-• [Beast Master](Ranger/BeastMaster.md)
-• [Fey Wanderer](Ranger/FeyWanderer.md)
-• [Gloom Stalker](Ranger/GloomStalker.md)
-• [Horizon Walker](Ranger/HorizonWalker.md)
-• [Hunter](Ranger/Hunter.md)
-• [Monster Slayer](Ranger/MonsterSlayer.md)
-• [Primeval Guardian](Ranger/PrimevalGuardian.md)
-• [Swarmkeeper](Ranger/Swarmkeeper.md)
+* [Beast Master](Ranger/BeastMaster.md)
+* [Deep Stalker](Ranger/DeepStalker.md)
+* [Dragonstalker](Ranger/Dragonstalker.md)
+* [Fey Wanderer](Ranger/FeyWanderer.md)
+* [Gloom Stalker](Ranger/GloomStalker.md)
+* [Horizon Walker](Ranger/HorizonWalker.md)
+* [Hunter](Ranger/Hunter.md)
+* [Monster Slayer](Ranger/MonsterSlayer.md)
+* [Primeval Guardian](Ranger/PrimevalGuardian.md)
+* [Swarmkeeper](Ranger/Swarmkeeper.md)
 
 Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
 
@@ -218,50 +220,54 @@ You are also aware of the location of any invisible creature within 30 feet of y
 At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
 
 # Ranger Spells
+The following spells listed are known (but not necessarily accessible, depending on the conclave chosen) to all rangers throughout Azgaarnoth; this is not the complete list of all ranger spells, however. Certain conclaves may have additional spells that are only known to them, and thus are not accessible to other conclaves. Rangers can learn new spells by visiting druidic circles, communing with nature for significant periods of time, studying with another ranger of a different conclave, and so on. (In other words, DMs can release new ranger spells, but all rangers do not have access to them by default.)
+
+Rangers can, at the discretion of the DM, learn spells from other druids or rangers, but generally this requires some exchange, usually a deed done on behalf of the spell's source.
 
 ## 1st Level
-* Absorb Elements
-* Alarm
-* Animal Friendship
-* Beast Bond
-* Cure Wounds
-* Detect Magic
-* Detect Poison and Disease
-* Ensnaring Strike
-* Entangle
-* Fog Cloud
-* Goodberry
-* Hail of Thorns
-* Hunter's Mark
-* Jump
-* Longstrider
-* Searing Smite
-* Snare
-* Speak with Animals
-* Sudden Awakening
-* Wild Cunning
-* Zephyr Strike
+* [absorb elements](https://www.dndbeyond.com/spells/absorb-elements)
+* [alarm](https://www.dndbeyond.com/spells/alarm)
+* [animal friendship](https://www.dndbeyond.com/spells/animal-friendship)
+* [beast bond](https://www.dndbeyond.com/spells/beast-bond)
+* [cure wounds](https://www.dndbeyond.com/spells/cure-wounds)
+* [detect magic](https://www.dndbeyond.com/spells/detect-magic)
+* [detect poison and disease](https://www.dndbeyond.com/spells/detect-poison-and-disease)
+* [ensnaring strike](https://www.dndbeyond.com/spells/ensnaring-strike)
+* [entangle](https://www.dndbeyond.com/spells/entangle)
+* [fog cloud](https://www.dndbeyond.com/spells/fog-cloud)
+* [goodberry](https://www.dndbeyond.com/spells/goodberry)
+* [hail of thorns](https://www.dndbeyond.com/spells/hail-of-thorns)
+* [hunter's mark](https://www.dndbeyond.com/spells/hunters-mark)
+* [jump](https://www.dndbeyond.com/spells/jump)
+* [longstrider](https://www.dndbeyond.com/spells/longstrider)
+* [searing smite](https://www.dndbeyond.com/spells/searing-smite)
+* [snare](https://www.dndbeyond.com/spells/snare)
+* [speak with animals](https://www.dndbeyond.com/spells/speak-with-animals)
+* [sudden awakening](https://www.dndbeyond.com/spells/sudden-awakening)
+* [wild cunning](https://www.dndbeyond.com/spells/wild-cunning)
+* [zephyr strike](https://www.dndbeyond.com/spells/zephyr-strike)
 
 ## 2nd Level
-* Aid
-* Animal Messenger
-* Barkskin
-* Beast Sense
-* Cordon of Arrows
-* Darkvision
-* Enhance Ability
-* Find Traps
-* Gust of Wind
-* Lesser Restoration
-* Locate Animals or Plants
-* Locate Object
-* Magic Weapon
-* Pass Without Trace
-* Protection from Poison
-* Silence
-* Spike Growth
-* Summon Bestial Spirit
-* Warding Bond
+* [aid](https://www.dndbeyond.com/spells/aid)
+* [animal messenger](https://www.dndbeyond.com/spells/animal-messenger)
+* [barkskin](https://www.dndbeyond.com/spells/barkskin)
+* [beast sense](https://www.dndbeyond.com/spells/beast-sense)
+* [cordon of arrows](https://www.dndbeyond.com/spells/cordon-of-arrows)
+* [darkvision](https://www.dndbeyond.com/spells/darkvision)
+* [enhance ability](https://www.dndbeyond.com/spells/enhance-ability)
+* [find traps](https://www.dndbeyond.com/spells/find-traps)
+* [gust of wind](https://www.dndbeyond.com/spells/gust-of-wind)
+* [lesser restoration](https://www.dndbeyond.com/spells/lesser-restoration)
+* [locate animals or plants](https://www.dndbeyond.com/spells/locate-animals-or-plants)
+* [locate object](https://www.dndbeyond.com/spells/locate-object)
+* [magic weapon](https://www.dndbeyond.com/spells/magic-weapon)
+* [pass without trace](https://www.dndbeyond.com/spells/pass-without-trace)
+* [protection from poison](https://www.dndbeyond.com/spells/protection-from-poison)
+* [silence](https://www.dndbeyond.com/spells/silence)
+* [spike growth](https://www.dndbeyond.com/spells/spike-growth)
+* [summon bestial spirit](https://www.dndbeyond.com/spells/summon-bestial-spirit)
+* [warding bond](https://www.dndbeyond.com/spells/warding-bond)
+
 
 ## 3rd Level
 * Bliding Smite
@@ -275,7 +281,7 @@ At 20th level, you become an unparalleled hunter of your enemies. Once on each o
 * Plant Growth
 * Protection from Energy
 * Revivify
-* Speak with Plants
+* [speak with plants](https://www.dndbeyond.com/spells/speak-with-plants)
 * Tongues
 * Water Breathing
 * Water Walk
@@ -288,12 +294,12 @@ At 20th level, you become an unparalleled hunter of your enemies. Once on each o
 * Freedom of Movement
 * Grasping Vine
 * Guardian of Nature
-* Locate Creature
+* [locate creature](https://www.dndbeyond.com/spells/locate-creature)
 * Stoneskin
 
 ## 5th Level
 * Awaken
-* Commune with Nature
+* [commune with nature](https://www.dndbeyond.com/spells/commune-with-nature)
 * Conjure Volley
 * Greater Restoration
 * Swift Quiver

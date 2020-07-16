@@ -20,7 +20,7 @@ Within Azgaarnoth, gith are thought to be [elves](Elves.md) captured by the illi
 
 * **Martial Prodigy**. You are proficient with light and medium armor and with shortswords, longswords, and greatswords.
 
-* **Githyanki Psionics**. You know the Mage Hand cantrip, and the hand is invisible when you cast the cantrip with this trait.
+* **Githyanki Psionics**. You know the [mage hand](https://www.dndbeyond.com/spells/mage-hand) cantrip, and the hand is invisible when you cast the cantrip with this trait.
 
   When you reach 3rd level, you can cast the Jump spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [misty step](https://www.dndbeyond.com/spells/misty-step) spell once with this trait, and you regain the ability to do so when you finish a long rest.
 
@@ -41,7 +41,7 @@ Within Azgaarnoth, gith are thought to be [elves](Elves.md) captured by the illi
 
 * **Mental Discipline**. You have advantage on saving throws against the charmed and frightened conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds.
 
-* **Githzerai Psionics**. You know the Mage Hand cantrip, and the hand is invisible when you cast the cantrip with this trait.
+* **Githzerai Psionics**. You know the [mage hand](https://www.dndbeyond.com/spells/mage-hand) cantrip, and the hand is invisible when you cast the cantrip with this trait.
 
   When you reach 3rd level, you can cast the Shield spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Detect Thoughts spell once with this trait, and you regain the ability to do so when you finish a long rest.
 

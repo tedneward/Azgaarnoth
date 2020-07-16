@@ -6,15 +6,30 @@ Such guilds arose for many reasons. Some exist to preserve arcane traditions and
 
 When guilds have hierarchies, adepts of greater seniority and status often have the authority to assign missions to lesser members and review their activities. 
 
-Mage Schools usually divide the world into members and non-members; members have access to all the resources and tools owned by the School (although not always for free), whereas non-members are simply servants or, worse, petitioners. Members are often of any spellcasting class; not only wizards and sorcerers, but warlocks, bards, clerics, druids, even the traditionally "martial" classes that have spellcasting abilities are often welcome. They may not be treated exactly equivalently within the school--this depends on the mission and values of the school--but typically if an individual can touch the Weave, they can find entry within a school.
-
 When members reach higher levels in their class, they may become a high-ranking master. Depending on the school and your campaign (and subject to the DM’s discretion), a member can usually speak for their order, with the implicit promise that the School will back the member to the greatest extent possible. These members are expected to be careful about taking stands or making promises that are difficult for their guild to support, but fellow members will generally trust each other to know when difficult tasks are necessary. Holding an office gives a member significant power to influence their order’s actions, but requires time and commitment. Many masters
-choose to avoid these responsibilities and prefer to busy themselves with their own affairs. 
+choose to avoid these responsibilities and prefer to busy themselves with their own affairs.
 
 > ### Game Notes
 > Whether you agree to ake a position in your order’s leadership or remain free of such responsibilities is up to you and the DM.
 
-Typically, a Mage School is built around a particular concept or magic concept, such as the [White Winds](WhiteWinds.md)'s focus on general-purpose practicality, or the [Fiery Fist](FieryFist.md)'s obsession with combat. Each school has its own entrance criteria, membership rosters, and frequently they maintain distinct spells, items, and training for their members.
+## Membership benefits
+Mage Schools usually divide the world into members and non-members; members have access to all the resources and tools owned by the School (although not always for free), whereas non-members are simply servants or, worse, petitioners. Members are often of any spellcasting class; not only wizards and sorcerers, but warlocks, bards, clerics, druids, even the traditionally "martial" classes that have spellcasting abilities are often welcome. They may not be treated exactly equivalently within the school--this depends on the mission and values of the school--but typically if an individual can touch the Weave, they can find entry within a school.
+
+Mage schools often serve as a "home" for wizards before they strike out to construct their own tower (or found a branch of the mage school in a new city), and as such, members of the school will typically have a dedicated space for them somewhere within the school's tower or grounds--this is a safe place in which to keep spellbooks, coin, treasure, and other items a member might not wish to have on their person as they go out into the world. Note that while a tower of the same mage school will try to accommodate a visiting magi of the same school, it will usually be a guest bed that doesn't necessarily have the same quality or storage capacity.
+
+Some schools will offer services to members for free or a nominal charge, depending on the value of the service; such services might include, but are not limited to:
+* identifying an unknown magic item
+* assisting in the research of a spell (of a form favored by the school)
+* scholarly research
+* ritual casting
+* assisting in the enchantment of a magic item (of a form favored by the school)
+
+Many mage schools understand that their narrow specialization limits their own capabilities, and will often "exchange" services at member rates to members of other schools if there is some reasonable expectation of reciprocity. This will often require some form of verification that the requestor is, in fact, a member in good standing with the other school. Some schools have a close bond to one another and may engage in this magical-exchange market more freely.
+
+Such services may be offered to non-members, but at much higher rates (if at all).
+
+## Organizations
+Typically, a school is built around a particular concept or magic concept, such as the [White Winds](WhiteWinds.md)'s focus on general-purpose practicality, or the [Fiery Fist](FieryFist.md)'s obsession with combat. Each school has its own entrance criteria, membership rosters, and frequently they maintain distinct spells, items, and training for their members.
  
 Hundreds of mage schools of all size are present on Azgaarnoth. Currently the more widely-known include:
 
@@ -31,15 +46,15 @@ Hundreds of mage schools of all size are present on Azgaarnoth. Currently the mo
 * [Five Elements](FiveElements.md): earth/air/fire/water/void
 * [Green Star Adepts](GreenStar.md): a mage school around a particular mystical stone
 * [Four Moons](FourMoons.md): lunar magic
-* [Night's Blessing](NightsBlessing.md)
+* [Night's Blessing](NightsBlessing.md): necromancy's healing
 * [Spinning Hands](SpinningHands.md)
-* [Twilight Star](TwilightStar.md)
-* [Gathering Mist](GatheringMist.md)
-* [Blue Sky](BlueSky.md)
-* [Ruby Tongue](RubyTongue.md)
-* [Hewn Arch](HewnArch.md)
-* [Dark Cauldron](DarkCauldron.md)
-* [Animalists](Animalists.md)
+* [Twilight Star](TwilightStar.md): necromancy's power
+* [Gathering Mist](GatheringMist.md): shadows
+* [Blue Sky](BlueSky.md): air, weather, storms
+* [Ruby Tongue](RubyTongue.md): fire
+* [Hewn Arch](HewnArch.md): earth, stone, masonry
+* [Dark Cauldron](DarkCauldron.md): alchemy
+* [Animalists](Animalists.md): natural kingdom
 * [Symbarchs](Symbarchs.md)
 
 There are always rumors of additional schools that aren't formal or popular, such as a school dedicated to enchantment (which is feared by the common folk because of the obvious perils of abuse by said enchanters), and not all magi need join a school in order to thrive. School-affiliated magi, however, will look down on "wilders" as "uncivilized" or "uneducated", and many "wilders" in turn look upon their school-affiliated brethren as "sellouts" or "kept magi". These "wilders" will often be of the [Hedge Magi](/Classes/Wizard/HedgeMagi.md) arcane tradition.

@@ -82,6 +82,8 @@ At 3rd level, you choose a path that shapes the nature of your rage:
 * [Ancestral Guardian](Barbarian/AncestralGuardian.md)
 * [Beast](Barbarian/Beast.md)
 * [Berserker](Barbarian/Berserker.md)
+* [Depths](Barbarian/Depths.md)
+* [Dragon](Barbarian/Dragon.md)
 * [Storm Herald](Barbarian/StormHerald.md)
 * [Totem Warrior](Barbarian/TotemWarrior.md)
 * [Wild Soul](Barbarian/WildSoul.md)

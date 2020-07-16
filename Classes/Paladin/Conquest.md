@@ -14,7 +14,8 @@ A paladin who takes this oath has the tenets of conquest seared on the upper arm
 ## Oath Spells
 You gain oath spells at the paladin levels listed.
 **Oath of Conquest Spells**
-Paladin Level | Spells 
+Paladin Level | Spells
+--------------|--------
 3rd | armor of Agathys, command
 5th | hold person, spiritual weapon
 9th | bestow curse, fear

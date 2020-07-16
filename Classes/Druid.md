@@ -119,10 +119,12 @@ When you cast the spell in this way, the familiar is a fey instead of a beast, a
 
 ## Druid Circle
 At 2nd level, you choose to identify with a circle of druids:
+* [Circle of Dragons](Druid/Dragons.md)
 * [Circle of Dreams](Druid/Dreams.md)
-* [Circle of the Moon](Druid/Moon.md)
 * [Circle of the Land](Druid/Land.md)
+* [Circle of the Moon](Druid/Moon.md)
 * [Circle of the Shepherd](Druid/Shepherd.md)
+* [Circle of the Solstice](Druid/Solstice.md)
 * [Circle of Spores](Druid/Spores.md)
 * [Circle of the Stars](Druid/Stars.md)
 * [Circle of Twilight](Druid/Twilight.md)
@@ -143,6 +145,9 @@ Beginning at 18th level, you can cast many of your druid spells in any shape you
 At 20th level, you can use your Wild Shape an unlimited number of times.
 
 # Druid Spells
+The following spells listed are known (but not necessarily accessible, depending on the circle chosen) to all druids throughout Azgaarnoth; this is not the complete list of all druid spells, however. Certain circles may have additional spells that are only known to them, and thus are not accessible to other circles. Druids can learn new spells by visiting foreign circles, communing with nature for significant periods of time, and so on. (In other words, DMs can release new druid spells, but the druids do not have access to them by default.)
+
+Druids can, at the discretion of the DM, learn spells from other circles, but generally this requires some exchange, usually a deed done on behalf of the gifting circle or druid.
 
 ## Cantrips
 * [acid splash](https://www.dndbeyond.com/spells/acid-splash)
@@ -166,58 +171,58 @@ At 20th level, you can use your Wild Shape an unlimited number of times.
 * [thunderclap](https://www.dndbeyond.com/spells/thunderclap)
 
 ## 1st Level
-* Absorb Elements
-* Animal Friendship
-* Beast Bond
-* Ceremony (ritual)
-* Charm Person
-* Create or Destroy Water
-* Cure Wounds
-* Detect Magic
-* Detect Poison and Disease
-* Earth Tremor
-* Entangle
-* Faerie Fire
-* Fog Cloud
-* Goodberry
-* Guiding Hand
-* Healing Word
-* Ice Knife
-* Jump
-* Longstrider
-* Protection from evil and good
-* Purify Food and Drink
-* Speak with Animals
-* Thunderwave
-* Wild Cunning
+* [absorb elements](https://www.dndbeyond.com/spells/absorb-elements)
+* [animal friendship](https://www.dndbeyond.com/spells/animal-friendship)
+* [beast bond](https://www.dndbeyond.com/spells/beast-bond)
+* [ceremony](https://www.dndbeyond.com/spells/ceremony) (ritual)
+* [charm person](https://www.dndbeyond.com/spells/charm-person)
+* [create or destroy water](https://www.dndbeyond.com/spells/create-or-destroy-water)
+* [cure wounds](https://www.dndbeyond.com/spells/cure-wounds)
+* [detect magic](https://www.dndbeyond.com/spells/detect-magic)
+* [detect poison and disease](https://www.dndbeyond.com/spells/detect-poison-and-disease)
+* [earth tremor](https://www.dndbeyond.com/spells/earth-tremo)
+* [entangle](https://www.dndbeyond.com/spells/entangle)
+* [faerie fire](https://www.dndbeyond.com/spells/faerie-fire)
+* [fog cloud](https://www.dndbeyond.com/spells/fog-cloud)
+* [goodberry](https://www.dndbeyond.com/spells/goodberry)
+* [guiding hand](https://www.dndbeyond.com/spells/guiding-hand)
+* [healing word](https://www.dndbeyond.com/spells/healing-word)
+* [ice knife](https://www.dndbeyond.com/spells/ice-knife)
+* [jump](https://www.dndbeyond.com/spells/jump)
+* [longstrider](https://www.dndbeyond.com/spells/longstrider)
+* [protection from evil and good](https://www.dndbeyond.com/spells/protection-from-evil-and-good)
+* [purify food and drink](https://www.dndbeyond.com/spells/purify-food-and-drink)
+* [speak with animals](https://www.dndbeyond.com/spells/speak-with-animals)
+* [thunderwave](https://www.dndbeyond.com/spells/thunderwave)
+* [wild cunning](https://www.dndbeyond.com/spells/wild-cunning)
 
 ## 2nd Level
-* Animal Messenger
+* [animal messenger](https://www.dndbeyond.com/spells/animal-messenger)
 * [augury](https://www.dndbeyond.com/spells/augury) (ritual)
-* Barkskin
-* Beast Sense
-* Continual Flame
-* Darkvision
-* Dust Devil
-* Earthbind
-* Enhance Ability
-* Enlarge/Reduce
-* Find Traps
-* Flame Blade
-* Flaming Sphere
-* Gust of Wind
-* Heat Metal
-* Hold Person
-* Lesser Restoration
-* Locate Animals or Plants
-* Locate Object
-* Moonbeam
-* Pass Without Trace
-* Protection from Poison
-* Skywrite
-* Spike Growth
-* Summon Bestial Spirit
-* Warding Wind
+* [barkskin](https://www.dndbeyond.com/spells/barkskin)
+* [beast sense](https://www.dndbeyond.com/spells/beast-sense)
+* [continual flame](https://www.dndbeyond.com/spells/continual-flame)
+* [darkness](https://www.dndbeyond.com/spells/darkness)
+* [dust devil](https://www.dndbeyond.com/spells/dust-devil)
+* [earthbind](https://www.dndbeyond.com/spells/earthbind)
+* [enhance ability](https://www.dndbeyond.com/spells/enhance-ability)
+* [enlarge/reduce](https://www.dndbeyond.com/spells/enlarge-reduce)
+* [find traps](https://www.dndbeyond.com/spells/find-traps)
+* [flame blade](https://www.dndbeyond.com/spells/flame-blade)
+* [flaming sphere](https://www.dndbeyond.com/spells/flaming-sphere)
+* [gust of wind](https://www.dndbeyond.com/spells/gust-of-wind)
+* [heat metal](https://www.dndbeyond.com/spells/heat-metal)
+* [hold person](https://www.dndbeyond.com/spells/hold-person)
+* [lesser restoration](https://www.dndbeyond.com/spells/lesser-restoration)
+* [locate animals or plants](https://www.dndbeyond.com/spells/locate-animals-or-plants)
+* [locate object](https://www.dndbeyond.com/spells/locate-object)
+* [moonbeam](https://www.dndbeyond.com/spells/moonbeam)
+* [pass without trace](https://www.dndbeyond.com/spells/pass-without-trace)
+* [protection from poison](https://www.dndbeyond.com/spells/protection-from-poison)
+* [skywrite](https://www.dndbeyond.com/spells/skywrite) (ritual)
+* [spike growth](https://www.dndbeyond.com/spells/spike-growth)
+* [summon bestial spirit](https://www.dndbeyond.com/spells/summon-bestial-spirit)
+* [warding wind](https://www.dndbeyond.com/spells/warding-wind)
 
 ## 3rd Level
 * Aura of Vitality

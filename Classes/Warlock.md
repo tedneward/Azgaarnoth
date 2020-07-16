@@ -478,24 +478,24 @@ At 20th level, you can draw on your inner reserve of mystical power while entrea
 * [witch bolt](https://www.dndbeyond.com/spells/witch-bolt)
 
 ## 2nd Level
-* Cloud of Daggers
-* Crown of Madness
-* Darkness
-* Earthbind
-* Enthrall
-* Flock of Familiars
-* Hold Person
-* Invisibility
-* knock
-* Mental Barrier (UA)
-* Mind Thrust (UA)
-* Mirror Image
+* [cloud of daggers](https://www.dndbeyond.com/spells/cloud-of-daggers)
+* [crown of madness](https://www.dndbeyond.com/spells/crown-of-madness)
+* [darkness](https://www.dndbeyond.com/spells/darkness)
+* [earthbind](https://www.dndbeyond.com/spells/earthbind)
+* [enthrall](https://www.dndbeyond.com/spells/enthrall)
+* [flock of familiars](https://www.dndbeyond.com/spells/flock-of-familiars)
+* [hold person](https://www.dndbeyond.com/spells/hold-person)
+* [invisibility](https://www.dndbeyond.com/spells/invisibility)
+* [knock](https://www.dndbeyond.com/spells/knock)
+* [mental barrier](https://www.dndbeyond.com/spells/mental-barrier)
+* [mind thrust](https://www.dndbeyond.com/spells/mind-thrust)
+* [mirror image](https://www.dndbeyond.com/spells/mirror-image)
 * [misty step](https://www.dndbeyond.com/spells/misty-step)
-* Ray of Enfeeblement
-* Shatter
-* Spider Climb
-* Suggestion
-* Thought Shield (UA)
+* [ray of enfeeblement](https://www.dndbeyond.com/spells/ray-of-enfeeblement)
+* [shatter](https://www.dndbeyond.com/spells/shatter)
+* [spider climb](https://www.dndbeyond.com/spells/spider-climb)
+* [suggestion](https://www.dndbeyond.com/spells/suggestion)
+* [thought shield](https://www.dndbeyond.com/spells/thought-shield)
 
 ## 3rd Level
 * animate dead

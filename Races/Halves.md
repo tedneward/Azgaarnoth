@@ -36,7 +36,7 @@ Half-elves may be [dragonmarked](Dragonmarked.md) with the Mark of Detection or 
     * **Fleet of Foot**. Your base walking speed increases to 35 feet.
     * **Mask of the Wild**. You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
-  * **Dark Elf**. Your elvish parent came from Dark Elf (drow) stock. This gives you access to some of the drow magic. You know the Dancing Lights cantrip. When you reach 3rd level, you can cast Faerie Fire once, and it recharges after a long rest. When you reach 5th level, you can cast Darkness once, and it recharges after a long rest. Charisma is your spellcasting ability for these spells.
+  * **Dark Elf**. Your elvish parent came from Dark Elf (drow) stock. This gives you access to some of the drow magic. You know the [dancing lights](https://www.dndbeyond.com/spells/dancing-lights) cantrip. When you reach 3rd level, you can cast Faerie Fire once, and it recharges after a long rest. When you reach 5th level, you can cast Darkness once, and it recharges after a long rest. Charisma is your spellcasting ability for these spells.
 
   * **Sea Elf**. Your elvish parent came from Sea Elf (maerach) stock. You have a swimming speed of 30 feet.
 

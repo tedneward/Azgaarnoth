@@ -129,6 +129,8 @@ You can use a holy symbol as a spellcasting focus for your cleric spells.
 Choose one domain:
 * [Arcana](Cleric/Arcana.md)
 * [Death](Cleric/Death.md)
+* [Defier](Cleric/Defier.md)
+* [Dragon](Cleric/Dragon.md)
 * [Forge](Cleric/Forge.md)
 * [Grave](Cleric/Grave.md)
 * [Knowledge](Cleric/Knowledge.md)
@@ -187,6 +189,7 @@ Imploring your deity's aid requires you to use your action. Describe the assista
 At 20th level, your call for intervention succeeds automatically, no roll required.
 
 # Cleric Spells
+The following spells listed are known (but not necessarily accessible, depending on the domain chosen) to all clerics throughout Azgaarnoth; this is not the complete list of all spells, however. Certain domains may have additional spells that are only known to their domain, which are not accessible to other domains (unless, by chance, the gods to whom the cleric prays chooses to make them available, and then generally only on an as-needed basis). Clerics can learn new spells by visiting foreign temples, uncovering new prayer books in ancient ruins, and so on. The gods may also choose to reveal select spells to clerics as needed, albeit rarely.
 
 ## Cantrips
 * [guidance](https://www.dndbeyond.com/spells/guidance)
@@ -198,7 +201,7 @@ At 20th level, your call for intervention succeeds automatically, no roll requir
 * [spare the dying](https://www.dndbeyond.com/spells/spare-the-dying)
 * [thaumaturgy](https://www.dndbeyond.com/spells/thaumaturgy)
 * [toll the dead](https://www.dndbeyond.com/spells/toll-the-dead)
-* [virtue](https://www.dndbeyond.com/spells/virtue)
+* [virtue](/Magic/Spells/virtue.md)
 
 ## 1st Level
 * [bane](https://www.dndbeyond.com/spells/bane)
@@ -243,27 +246,28 @@ At 20th level, your call for intervention succeeds automatically, no roll requir
 
 ## 3rd Level
 * Animate Dead
-* Aura of Vitality
+* [aura of vitality](https://www.dndbeyond.com/spells/aura-of-vitality)
 * Beacon of Hope
 * Bestow Curse
 * Clairvoyance
-* Create Food and Water
-* Daylight
-* Dispel Magic
+* [create food and water](https://www.dndbeyond.com/spells/create-food-and-water)
+* [daylight](https://www.dndbeyond.com/spells/daylight)
+* [dispel magic](https://www.dndbeyond.com/spells/dispel-magic)
 * Feign Death
 * Glyph of Warding
-* Magic Circle
+* [magic circle](https://www.dndbeyond.com/spells/magic-circle)
 * Mass Healing Word
 * Meld into Stone
 * Protection from Energy
-* Remove Curse
-* Revivify
+* [remove curse](https://www.dndbeyond.com/spells/remove-curse)
+* [revivify](https://www.dndbeyond.com/spells/revivify)
 * Sending
 * Speak with Dead
-* Spirit Guardians
-* Spirit Shroud (UA)
+* [spirit guardians](https://www.dndbeyond.com/spells/spirit-guardians)
+* [spirit shroud](https://www.dndbeyond.com/spells/spirit-shroud)
 * Tongues
 * Water Walk
+
 
 ## 4th Level
 * Aura of Life

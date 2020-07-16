@@ -5,7 +5,7 @@ Swarmkeeper rangers are found in many corners of Azgaarnoth, particularly in the
 
 ## Swarmkeeper Magic
 3rd-level Swarmkeeper feature
-At the 3rd level, you learn the [mage hand]() cantrip if you don’t already know it. When you cast it, the hand takes the form of swarming nature spirits.
+At the 3rd level, you learn the [mage hand](https://www.dndbeyond.com/spells/mage-hand) cantrip if you don’t already know it. When you cast it, the hand takes the form of swarming nature spirits.
 
 You also learn an additional spell when you reach certain levels in this class, as shown in the Swarmkeeper Spells table. These spells count as ranger spells for you, but don’t count against the number of ranger spells you know.
 

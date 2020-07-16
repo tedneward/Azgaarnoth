@@ -90,7 +90,7 @@ They may not always have gold, but a halfling with the Mark of Hospitality is su
 ### Traits
 The Mark of Hospitality manifests exclusively on halflings. If your character has the Mark of Hospitality, this is your halfling subrace.
 Ability Score Increase. Your Charisma score increases by 1.
-Innkeeper’s Charms. You know the cantrips friends and prestidigitation. Charisma is your spellcasting ability for them.
+Innkeeper’s Charms. You know the cantrips [friends](https://www.dndbeyond.com/spells/friends)and prestidigitation. Charisma is your spellcasting ability for them.
 Ever Hospitable. When you make a Charisma (Persuasion) check or an ability check involving brewer’s supplies or cook’s utensils, you can roll one Intuition die (a d4) and add the number rolled to the ability check.
 
 ## The Mark of Making
@@ -133,7 +133,7 @@ The Mark of Sentinel warns and protects. It heightens senses and reflexes, allow
 The Mark of Sentinel only manifests on humans. If your character has the Mark of Sentinel, these traits replace the human’s Ability Score Increase trait given in the Player’s Handbook.
 Ability Score Increase. Your Strength and Wisdom scores both increase by 1. In addition, one ability score of your choice increases by 1.
 Sentinel’s Intuition. When you roll for Initiative or make a Wisdom (Perception) check to notice a threat, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
-Sentinel’s Shield. You know the blade ward cantrip. You can cast the shield spell once with this trait and you regain ability to do so after you finish a short or long rest.
+Sentinel’s Shield. You know the [blade ward](https://www.dndbeyond.com/spells/blade-ward) cantrip. You can cast the shield spell once with this trait and you regain ability to do so after you finish a short or long rest.
 Vigilant Guardian. As an action, you can designate an ally you can see as your ward. You have advantage on Wisdom (Insight) and Wisdom (Perception) checks made to spot threats to your ward. In addition, when you are within 5 feet of your ward, and that creature is the target of an attack that you can see, you can use your reaction to swap places with your ward. When you do, you become the target of the attack.
 
 ## The Mark of Shadow

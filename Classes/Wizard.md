@@ -79,6 +79,8 @@ If you lose your spellbook, you can use the same procedure to transcribe the spe
 
 ***The Book's Appearance***. Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
 
+There is no limit to the number of spells in a wizard's spellbook, and many wizards of great experience and renown have not just one spellbook, but vast libraries. These are guarded fiercely, and many a powerful wizard's library has served as the core nucleus (and monetary source) of a new [mage school](/Organizations/MageSchools/MageSchools.md)'s spell library.
+
 ### Preparing and Casting Spells
 The Wizard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
@@ -164,6 +166,9 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 
 
 # Wizard Spells
+This is a list of the spells accessible to any wizard throughout Azgaarnoth (under most normal circumstances--it is possible, for example, that a wizard character came to power outside of any of the normal backgrounds thus has a very paltry spellbook to start as a handicap). Specifically, these spells are known to the [White Winds](/Organizations/MageSchools/WhiteWinds.md) school, and are always accessible for copy into a wizard's spellbook for a nominal fee.
+
+Wizards are free to copy any arcane (wizard) spell into their spellbook, regardless of origin, and as such, mage schools often make a fair amount of money from selling access to their unique spell lists to other non-member schools for a hefty fee.
 
 ## Cantrips
 * [acid splash](https://www.dndbeyond.com/spells/acid-splash)

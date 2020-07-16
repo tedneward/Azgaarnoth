@@ -31,80 +31,80 @@ If the spell you cast isn’t a wizard spell, it is nonetheless a wizard spell f
 **Reckless Casting**
 d10 | Cantrip
 --- | -------
-1 | acid splash
-2 | chill touch
-3 | fire bolt
-4 | light
-5 | poison spray
-6 | ray of frost
-7 | shocking grasp
-8 | sacred flame
-9 | thorn whip
+1 | [acid splash](https://www.dndbeyond.com/spells/acid-splash)
+2 | [chill touch](https://www.dndbeyond.com/spells/chill-touch)
+3 | [fire bolt](https://www.dndbeyond.com/spells/fire-bolt)
+4 | [light](https://www.dndbeyond.com/spells/light)
+5 | [poison spray](https://www.dndbeyond.com/spells/poison-spray)
+6 | [ray of frost](https://www.dndbeyond.com/spells/ray-of-frost)
+7 | [shocking grasp](https://www.dndbeyond.com/spells/shocking-grasp)
+8 | [sacred flame](https://www.dndbeyond.com/spells/sacred-flame)
+9 | [thorn whip](https://www.dndbeyond.com/spells/thorn-whip)
 10 | Roll twice and cast each spell, but if you roll another 10 on either die, you cast nothing, wasting your action but not the spell slot.
 
 d10 | 1st-Level Spell
 --- | -------
-1 | burning hands
-2 | chromatic orb 
-3 | color spray
-4 | faerie fire
-5 | false life
-6 | fog cloud
-7 | jump
-8 | magic missile 
-9 | thunderwave
+1 | [burning hands](https://www.dndbeyond.com/spells/burning-hands)
+2 | [chromatic orb](https://www.dndbeyond.com/spells/chromatic-orb)
+3 | [color spray](https://www.dndbeyond.com/spells/color-spray)
+4 | [faerie fire](https://www.dndbeyond.com/spells/faerie-fire)
+5 | [false life](https://www.dndbeyond.com/spells/false-life)
+6 | [fog cloud](https://www.dndbeyond.com/spells/fog-cloud)
+7 | [jump](https://www.dndbeyond.com/spells/jump)
+8 | [magic missile](https://www.dndbeyond.com/spells/magic-missile)
+9 | [thunderwave](https://www.dndbeyond.com/spells/thunderwave)
 10 | Roll twice and cast each spell, but if you roll another 10 on either die, you cast nothing, wasting your action but not the spell slot.
 
 d10 | 2nd-Level Spell
 --- | -------
-1 | blur
-2 | darkness
-3 | enlarge/reduce
-4 | gust of wind
-5 | invisibility
-6 | levitate
-7 | Melf’s acid arrow
-8 | scorching ray
-9 | shatter
+1 | [blur](https://www.dndbeyond.com/spells/blur)
+2 | [darkness](https://www.dndbeyond.com/spells/darkness)
+3 | [enlarge/reduce](https://www.dndbeyond.com/spells/enlarge-reduce)
+4 | [gust of wind](https://www.dndbeyond.com/spells/gust-of-wind)
+5 | [invisibility](https://www.dndbeyond.com/spells/invisibility)
+6 | [levitate](https://www.dndbeyond.com/spells/levitate)
+7 | [Melf’s acid arrow](https://www.dndbeyond.com/spells/melfs-acid-arrow)
+8 | [scorching ray](https://www.dndbeyond.com/spells/scorching-ray)
+9 | [shatter](https://www.dndbeyond.com/spells/shatter)
 10 | Roll twice and cast each spell, but if you roll another 10 on either die, you cast nothing, wasting your action but not the spell slot.
 
 d10 | 3rd-Level Spell
 --- | -------
-1 | blink
-2 |fear
-3 |feign death
-4 |fireball
-5 |fly
-6 |gaseous form
-7 |lightning bolt
-8 |sleet storm
-9 |stinking cloud
+1 | [blink](https://www.dndbeyond.com/spells/blink)
+2 |[fear](https://www.dndbeyond.com/spells/fear)
+3 |[feign death](https://www.dndbeyond.com/spells/feign-death)
+4 |[fireball](https://www.dndbeyond.com/spells/fireball)
+5 |[fly](https://www.dndbeyond.com/spells/fly)
+6 |[gaseous form](https://www.dndbeyond.com/spells/gaseous-form)
+7 |[lightning bolt](https://www.dndbeyond.com/spells/lightning-bolt)
+8 |[sleet storm](https://www.dndbeyond.com/spells/sleet-storm)
+9 |[stinking cloud](https://www.dndbeyond.com/spells/stinking-cloud)
 10 | Roll twice and cast each spell, but if you roll another 10 on either die, you cast nothing, wasting your action but not the spell slot.
 
 d10 | 4th-Level Spell
 --- | -------
-1 |blight
-2 |confusion
-3 |Evard’s black tentacles
-4 |fire shield
-5 |greater invisibility
-6 |ice storm
-7 |phantasmal killer
-8 |stoneskin
-9 |wall of fire
+1 |[blight](https://www.dndbeyond.com/spells/blight)
+2 |[confusion](https://www.dndbeyond.com/spells/confusion)
+3 |[Evard’s black tentacles](https://www.dndbeyond.com/spells/evards-black-tentacles)
+4 |[fire shield](https://www.dndbeyond.com/spells/fire-shield)
+5 |[greater invisibility](https://www.dndbeyond.com/spells/greater-invisibility)
+6 |[ice storm](https://www.dndbeyond.com/spells/ice-storm)
+7 |[phantasmal killer](https://www.dndbeyond.com/spells/phantasmal-killer)
+8 |[stoneskin](https://www.dndbeyond.com/spells/stoneskin)
+9 |[wall of fire](https://www.dndbeyond.com/spells/wall-of-fire)
 10 | Roll twice and cast each spell, but if you roll another 10 on either die, you cast nothing, wasting your action but not the spell slot.
 
 d10 | 5th-Level Spell
 --- | -------
-1 |cloudkill
-2 |cone of cold
-3 |destructive wave
-4 |flame strike
-5 |hold monster
-6 |insect plague
-7 |mass cure wounds
-8 |wall of force
-9 |wall of stone
+1 |[cloudkill](https://www.dndbeyond.com/spells/cloudkill)
+2 |[cone of cold](https://www.dndbeyond.com/spells/cone-of-cold)
+3 |[destructive wave](https://www.dndbeyond.com/spells/destructive-wave)
+4 |[flame strike](https://www.dndbeyond.com/spells/flame-strike)
+5 |[hold monster](https://www.dndbeyond.com/spells/hold-monster)
+6 |[insect plague](https://www.dndbeyond.com/spells/insect-plague)
+7 |[mass cure wounds](https://www.dndbeyond.com/spells/mass-cure-wounds)
+8 |[wall of force](https://www.dndbeyond.com/spells/wall-of-force)
+9 |[wall of stone](https://www.dndbeyond.com/spells/wall-of-stone)
 10 | Roll twice and cast each spell, but if you roll another 10 on either die, you cast nothing, wasting your action but not the spell slot.
 
 ## Alchemical Casting

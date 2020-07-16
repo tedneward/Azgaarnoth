@@ -13,7 +13,7 @@ Cleric Level |	Spells
 9th	| Flame Strike, Scrying
 
 ## Bonus Cantrip
-When you choose this domain at 1st level, you gain the Light cantrip if you don't already know it.
+When you choose this domain at 1st level, you gain the [light](https://www.dndbeyond.com/spells/light) cantrip if you don't already know it.
 
 ## Warding Flare
 Also at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature.

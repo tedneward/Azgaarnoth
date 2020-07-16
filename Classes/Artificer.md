@@ -361,7 +361,7 @@ While wearing this ring, the creature can recover one expended spell slot as an 
 
 ## 2nd Level
 * [aid](https://www.dndbeyond.com/spells/aid)
-* [[alter self](https://www.dndbeyond.com/spells/alter-self)](https://www.dndbeyond.com/spells/alter-self)
+* [alter self](https://www.dndbeyond.com/spells/alter-self)
 * [arcane lock](https://www.dndbeyond.com/spells/arcane-lock)
 * [blur](https://www.dndbeyond.com/spells/blur)
 * [continual flame](https://www.dndbeyond.com/spells/continual-flame)

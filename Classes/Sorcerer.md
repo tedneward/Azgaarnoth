@@ -86,19 +86,20 @@ You can use an arcane focus as a spellcasting focus for your sorcerer spells.
 
 ## Sorcerous Origin
 Choose a sorcerous origin, which describes the source of your innate magical power:
-* [Aberrant Mind](Sorcerer/AberrantMind.md)
+* [Aberrant Mind](Sorcerer/AberrantMind.md) sorcerers have been touched by creatures of the astral deep
 * [Clockwork Soul](Sorcerer/ClockworkSoul.md) means the powers of neutrality call to you.
 * [Divine Soul](Sorcerer/DivineSoul.md) sorcerers have found favor with celestial beings.
 * [Draconic Bloodline](Sorcerer/DraconicBloodline.md) suggests that the dragons, somewhere, somewhen, fit into your family tree; alternatively, you might have had a [dragonmarked](/Races/Dragonmarked.md) somewhere in your family line.
 * [Elemancy](Sorcerer/Elemancy.md) sorcerers have a primal power burning within them.
-* [Firespeaker](Sorcerer/Firespeaker.md) sorcerers hear the calls within the flame from the Elemental Plane of FIre.
+* [Firespeaker](Sorcerer/Firespeaker.md) sorcerers hear the calls within the flame from the Elemental Plane of Fire.
 * [Giant Soul](Sorcerer/GiantSoul.md) sorcerers have ancient giantish blood within them.
+* [Green Star](Sorcerer/GreenStar.md) sorcerers feel the power of an ancient stone of power in their blood somehow.
 * [Phoenix](Sorcerer/Phoenix.md) sorcerers have the power of the ancient phoenix within them.
 * [Psionic Soul](Sorcerer/PsionicSoul.md) sorcerers have touched the power of the mind. 
 * [Sea](Sorcerer/Sea.md) sorcerers tap the primal forces of the sea.
 * [Shadow](Sorcerer/Shadow.md) sorcerers have been touched by the Shadowfell.
 * [Stone](Sorcerer/Stone.md) sorcerers feel the deep thrum of the earth.
-* [Storm](Sorcerer/Storm.md) sorcerers are extremely common among the *al'maera* of the [Al'Uma](/Cultures/AlUma.md).
+* [Storm](Sorcerer/Storm.md) sorcerers feel the power of the storm, and are extremely common (and valued) among the *al'maera* of the [Al'Uma](/Cultures/AlUma.md).
 * [Wild Magic](Sorcerer/WildMagic.md) sorcerers wrestle with power beyond control.
 
 Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
@@ -111,6 +112,7 @@ You have 2 sorcery points, and you gain more as you reach higher levels, as show
 
 ### Flexible Casting
 You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.
+
 ***Creating Spell Slots***. You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th. The created spell slots vanish at the end of a long rest.
 
 **Creating Spell Slots**
@@ -181,6 +183,15 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.
 
 # Sorcerer Spells
+This is a list of all the sorcerer spells known to any sorcerer in Azgaarnoth. However, sorcerer spells beyond these are known to exist, but a sorcerer must have access to a source (another sorcerer, or optionally, a scroll or book written by a sorcerer) who knows the new spell the sorcerer wishes to learn. Note this is not a spellbook--a sorcerer, once they know a spell, does not need to return to the book to re-learn it. Understanding how to shape the power correctly, however, can sometimes require guidance and inspiration.
+
+> ### Game Notes
+> The sorcerer spells found in Azgaarnoth that are not on this list are thus under the DM's discretion regarding their release into player hands. Some DMs will want to keep them out of player hands, simply to keep the players guessing and trying to prepare for the unknown when those spells are used against them.
+
+Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorcerer spells that are not on this list, and those schools can (and frequently do) share those secrets with other sorcerers... for a price.
+
+> ### Game Notes
+> It is important to note that having access to a wizard's spell book does not serve as a sufficient source for a sorcerer to learn a spell; one is casting spells by strict recipe, the other by a far more intuitive process. A sorcerer might have some advantage in trying to recreate a wizard spell as a sorcerer spell if they have access to a wizard's spellbook describing the spell, but that is entirely up to the DM.
 
 ## Cantrips
 * [acid splash](https://www.dndbeyond.com/spells/acid-splash)
@@ -247,40 +258,40 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 
 ## 2nd Level
 * [aganazzar's scorcher](https://www.dndbeyond.com/spells/aganazzars-scorcher)
-* [[alter self](https://www.dndbeyond.com/spells/alter-self)](https://www.dndbeyond.com/spells/alter-self)
+* [alter self](https://www.dndbeyond.com/spells/alter-self)
 * [blindness/deafness](https://www.dndbeyond.com/spells/blindness-deafness)
 * [blur](https://www.dndbeyond.com/spells/blur)
-* cloud of daggers
-* crown of madness
-* darkness
+* [cloud of daggers](https://www.dndbeyond.com/spells/cloud-of-daggers)
+* [crown of madness](https://www.dndbeyond.com/spells/crown-of-madness)
+* [darkness](https://www.dndbeyond.com/spells/darkness)
 * [darkvision](https://www.dndbeyond.com/spells/darkvision)
-* detect thoughts
+* [detect thoughts](https://www.dndbeyond.com/spells/detect-thoughts)
 * [dragon's breath](https://www.dndbeyond.com/spells/dragons-breath)
-* dust devil
-* earthbind
+* [dust devil](https://www.dndbeyond.com/spells/dust-devil)
+* [earthbind](https://www.dndbeyond.com/spells/earthbind)
 * [enhance ability](https://www.dndbeyond.com/spells/enhance-ability)
 * [enlarge/reduce](https://www.dndbeyond.com/spells/enlarge-reduce)
-* flame blade
-* flaming sphere
-* gust of wind
+* [flame blade](https://www.dndbeyond.com/spells/flame-blade)
+* [flaming sphere](https://www.dndbeyond.com/spells/flaming-sphere)
+* [gust of wind](https://www.dndbeyond.com/spells/gust-of-wind)
 * [hold person](https://www.dndbeyond.com/spells/hold-person)
 * [invisibility](https://www.dndbeyond.com/spells/invisibility)
-* knock
+* [knock](https://www.dndbeyond.com/spells/knock)
 * [levitate](https://www.dndbeyond.com/spells/levitate)
-* Maximillian's earthen grasp
-* mental barrier
-* mind thrust
-* mirror image
+* [Maximillian's earthen grasp](https://www.dndbeyond.com/spells/maximillians-earthen-grasp)
+* [mental barrier](https://www.dndbeyond.com/spells/mental-barrier)
+* [mind thrust](https://www.dndbeyond.com/spells/mind-thrust)
+* [mirror image](https://www.dndbeyond.com/spells/mirror-image)
 * [misty step](https://www.dndbeyond.com/spells/misty-step)
-* phantasmal force
+* [phantasmal force](https://www.dndbeyond.com/spells/phantasmal-force)
 * [pyrotechnics](https://www.dndbeyond.com/spells/pyrotechnics)
-* scorching ray
+* [scorching ray](https://www.dndbeyond.com/spells/scorching-ray)
 * [see invisibility](https://www.dndbeyond.com/spells/see-invisibility)
-* shatter
-* Snilloc's snowball storm
+* [shatter](https://www.dndbeyond.com/spells/shatter)
+* [Snilloc's snowball storm](https://www.dndbeyond.com/spells/snillocs-snowball-storm)
 * [spider climb](https://www.dndbeyond.com/spells/spider-climb)
-* suggestion
-* thought shield
+* [suggestion](https://www.dndbeyond.com/spells/suggestion)
+* [thought shield](https://www.dndbeyond.com/spells/thought-shield)
 * [warding wind](https://www.dndbeyond.com/spells/warding-wind)
 * [web](https://www.dndbeyond.com/spells/web)
 

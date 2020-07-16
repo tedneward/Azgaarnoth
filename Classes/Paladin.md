@@ -1,5 +1,5 @@
 # Paladin
-Whether sworn before a god's altar and the witness of a priest, in a sacred glade before nature spirits and fey beings, or in a moment of desperation and grief with the dead as the only witness, a paladin's oath is a powerful bond.
+Whether sworn before a god's altar and the witness of a priest, in a sacred glade before nature spirits and fey beings, or in a moment of desperation and grief with the dead as the only witness, a paladin's oath is a powerful bond. Paladins are often champions of [Pantheonic gods](/Religions/Pantheon.md), the [Kaevarian Church](/Religions/KaevarianChurch.md), and many have found a home inside one of the [Orders of the Dragon](/Organizations/DraconicOrder/DraconicOrder.md).
 
 *You must have a Charisma score and a Strength score of 13 or higher in order to multiclass in or out of this class.*
 
@@ -110,9 +110,11 @@ When you reach 3rd level, you swear the oath that binds you as a paladin forever
 * [Conquest](Paladin/Conquest.md)
 * [Crown](Paladin/Crown.md)
 * [Devotion](Paladin/Devotion.md)
+* [Heroism](Paladin/Heroism.md)
 * [Redemption](Paladin/Redemption.md)
 * [Vengeance](Paladin/Vengeance.md)
 * [Watchers](Paladin/Watchers.md)
+.. or, you are an "anti-paladin", and you have sworn one of the following oaths:
 * [Oathbreaker](Paladin/Oathbreaker.md)
 * [Treachery](Paladin/Treachery.md)
 
@@ -158,6 +160,7 @@ Beginning at 14th level, you can use your action to end one spell on yourself or
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.
 
 # Paladin Spells
+The following spells listed are known (but not necessarily accessible, depending on the domain chosen) to all paladins throughout Azgaarnoth; this is not the complete list of all paladin spells, however. Certain oaths may have additional spells that are only known to those oath-bound paladins. Paladins can learn new spells by visiting foreign orders, uncovering new oath books in ancient ruins, and so on. (In other words, DM's choice about adding new paladin spells to the "known" list for a paladin, and the paladin may need to do some in-game activity or adventure to obtain them.)
 
 ## 1st Level
 * [bless](https://www.dndbeyond.com/spells/bless)

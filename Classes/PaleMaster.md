@@ -177,186 +177,186 @@ Once you use this feature, you can't use it again until you complete a short or 
 # Pale Master Spells
 
 ## Cantrips (0 Level)
-Blood Siphon (GG)
-Bloodlink (GG)
-Chill Touch
-Corruption (GG)
-Dancing Lights
-Eidolic Chains (GG)
-Grimlore’s Influence (GG)
-Gloom (GG)
-Grim Scythe (GG)
-Infestation
-Manipulate Shadow (GG)
-Minor Illusion
-Night Terror (GG)
-Pacify (GG)
-Peaceful Valediction (GG)
-Poison Spray
-Rancorous-Mist Blade (GG)
-Scourge (GG)
-Shadow Embrace (GG)
-Shadow Ink (GG)
-Shawl of the Unseen (GG)
-Shocking Grasp
-Song of the Dead
-Spare the Dying
-Spare the Living (GG)
-Toll the Dead
-Unholy Flame (GG)
-Waning Touch (GG)
+* Blood Siphon (GG)
+* Bloodlink (GG)
+* [chill touch](https://www.dndbeyond.com/spells/chill-touch)
+* Corruption (GG)
+* [dancing lights](https://www.dndbeyond.com/spells/dancing-lights)
+* Eidolic Chains (GG)
+* Grimlore’s Influence (GG)
+* Gloom (GG)
+* Grim Scythe (GG)
+* Infestation
+* Manipulate Shadow (GG)
+* Minor Illusion
+* Night Terror (GG)
+* Pacify (GG)
+* Peaceful Valediction (GG)
+* Poison Spray
+* Rancorous-Mist Blade (GG)
+* Scourge (GG)
+* Shadow Embrace (GG)
+* Shadow Ink (GG)
+* Shawl of the Unseen (GG)
+* Shocking Grasp
+* Song of the Dead
+* Spare the Dying
+* Spare the Living (GG)
+* Toll the Dead
+* Unholy Flame (GG)
+* Waning Touch (GG)
 
 ## 1st Level
-Acrid Delight (GG)
-Alacritous Interpretation (GG)
-Animate Cranium (GG)
-Arms of Hadar
-Bane
-Bone Storm (GG)
-Cause Fear
-Creeping Crawling Claw (GG)
-Cursed with Undeath (GG)
-Death's Grasp (GG)
-Dread (GG)
-False Life
-Grimlore’s Shadowblight (GG)
-Guillotine (GG)
-Inaudible (GG)
-Inflict Wounds
-Interpret Bone (GG)
-Larloch's Minor Drain (GG)
-Misery (GG)
-Murmurs of the Restless (GG)
-Ray of Sickness
-Rot (GG)
-Shed Skin (GG)
-Unseen Servant
-Witch Bolt
+* Acrid Delight (GG)
+* Alacritous Interpretation (GG)
+* Animate Cranium (GG)
+* Arms of Hadar
+* Bane
+* Bone Storm (GG)
+* Cause Fear
+* Creeping Crawling Claw (GG)
+* Cursed with Undeath (GG)
+* Death's Grasp (GG)
+* Dread (GG)
+* False Life
+* Grimlore’s Shadowblight (GG)
+* Guillotine (GG)
+* Inaudible (GG)
+* Inflict Wounds
+* Interpret Bone (GG)
+* Larloch's Minor Drain (GG)
+* Misery (GG)
+* Murmurs of the Restless (GG)
+* Ray of Sickness
+* Rot (GG)
+* Shed Skin (GG)
+* Unseen Servant
+* Witch Bolt
 
 ## 2nd Level
-Analyze Blood (GG)
-Blindness/Deafness
-Darkness
-Darkvision
-Desecration (GG)
-Detect Familiar (GG)
-Drain Life (GG)
-Elemental Anguish (GG)
-Gentle Repose
-Grimlore’s Shadowgrasp (GG)
-Manacle of Burden (GG)
-[misty step](https://www.dndbeyond.com/spells/misty-step)
-Necrotic Visage (GG)
-Ray of Enfeeblement
-Shadow Blade
-Shadow Bind (GG)
-Silence
-Silvanus' Blessing
-Unseat Hand (GG)
+* Analyze Blood (GG)
+* Blindness/Deafness
+* Darkness
+* Darkvision
+* Desecration (GG)
+* Detect Familiar (GG)
+* Drain Life (GG)
+* Elemental Anguish (GG)
+* Gentle Repose
+* Grimlore’s Shadowgrasp (GG)
+* Manacle of Burden (GG)
+* [misty step](https://www.dndbeyond.com/spells/misty-step)
+* Necrotic Visage (GG)
+* Ray of Enfeeblement
+* Shadow Blade
+* Shadow Bind (GG)
+* Silence
+* Silvanus' Blessing
+* Unseat Hand (GG)
 
 ## 3rd Level
-Animate Dead
-Bestow Curse
-Counterspell
-Dispel Magic
-Fear
-Feign Death
-Grimlore’s Affliction (GG)
-Life Transference
-Lunar Blessing (GG)
-Mummify (GG)
-Phantom Steed
-Poisoned Heart (GG)
-Remove Curse
-Revivify
-Speak with Dead
-Stinking Cloud
-Tongues
-Vampiric Touch
-Water Breathing
+* Animate Dead
+* Bestow Curse
+* Counterspell
+* Dispel Magic
+* Fear
+* Feign Death
+* Grimlore’s Affliction (GG)
+* Life Transference
+* Lunar Blessing (GG)
+* Mummify (GG)
+* Phantom Steed
+* Poisoned Heart (GG)
+* Remove Curse
+* Revivify
+* Speak with Dead
+* Stinking Cloud
+* Tongues
+* Vampiric Touch
+* Water Breathing
 
 ## 4th Level
-Army of the Dead (GG)
-Black Tentacles
-Blight
-Devastate Undead (GG)
-Dusk Arrows (GG)
-Embers (GG)
-Evard's Black Tentacles
-Grimlore’s Withering Coils (GG)
-Hallowing Curse (GG)
-Hemorrhage (GG)
-Phantasmal Killer
-Plague (GG)
-Shadow of Moil
-Vacillate (GG)
+* Army of the Dead (GG)
+* Black Tentacles
+* Blight
+* Devastate Undead (GG)
+* Dusk Arrows (GG)
+* Embers (GG)
+* Evard's Black Tentacles
+* Grimlore’s Withering Coils (GG)
+* Hallowing Curse (GG)
+* Hemorrhage (GG)
+* Phantasmal Killer
+* Plague (GG)
+* Shadow of Moil
+* Vacillate (GG)
 
 ## 5th Level
-Animate Shadow (GG)
-Armor of Bones (GG)
-Banshee's Grievance (GG)
-Cloudkill
-Contagion
-Danse Macabre
-Defile (GG)
-Enervation
-Grimlore’s Touch of Undeath (GG)
-Hallow
-Ilmater's Fortune (GG)
-Insect Plague
-Midnight (GG)
-Mislead
-Negative Energy Flood
-Oghma's Knowledge
-Transferal (GG)
-Raise Dead
-Reincarnate
-Scrying
+* Animate Shadow (GG)
+* Armor of Bones (GG)
+* Banshee's Grievance (GG)
+* Cloudkill
+* Contagion
+* Danse Macabre
+* Defile (GG)
+* Enervation
+* Grimlore’s Touch of Undeath (GG)
+* Hallow
+* Ilmater's Fortune (GG)
+* Insect Plague
+* Midnight (GG)
+* Mislead
+* Negative Energy Flood
+* Oghma's Knowledge
+* Transferal (GG)
+* Raise Dead
+* Reincarnate
+* Scrying
 
 ## 6th Level
-Bound into Obedience (GG)
-Circle of Death
-Create Undead
-Disintegrate
-Eyebite
-Grace of Shar (GG)
-Grimlore’s Aphotic Armor (GG)
-Harm
-Investiture of Necrosis (GG)
-Magic Jar
-Myrkul's Power (GG)
-Soul Cage
-Soultap (GG)
-True Seeing
+* Bound into Obedience (GG)
+* Circle of Death
+* Create Undead
+* Disintegrate
+* Eyebite
+* Grace of Shar (GG)
+* Grimlore’s Aphotic Armor (GG)
+* Harm
+* Investiture of Necrosis (GG)
+* Magic Jar
+* Myrkul's Power (GG)
+* Soul Cage
+* Soultap (GG)
+* True Seeing
 
 ## 7th Level
-Etherealness
-Finger of Death
-Forcecage
-Grimlore’s Doom (GG)
-Resurrection
-Symbol
-Vampiric Aura (GG)
+* Etherealness
+* Finger of Death
+* Forcecage
+* Grimlore’s Doom (GG)
+* Resurrection
+* Symbol
+* Vampiric Aura (GG)
 
 ## 8th Level
-Abi-Dalzim’s Horrid Wilting
-Armament of Irritants (GG)
-Ascendancy of Vecna (GG)
-Chalice of the Night (GG)
-Clone
-Grimlore’s Crippling
-Incursion (GG)
-Feeblemind
-Mind Blank
-Power Word Stun
-Scornful Mantle of the
-Undaunted (GG)
-Soul Imprisonment (GG)
+* Abi-Dalzim’s Horrid Wilting
+* Armament of Irritants (GG)
+* Ascendancy of Vecna (GG)
+* Chalice of the Night (GG)
+* Clone
+* Grimlore’s Crippling
+* Incursion (GG)
+* Feeblemind
+* Mind Blank
+* Power Word Stun
+* Scornful Mantle of the
+* Undaunted (GG)
+* Soul Imprisonment (GG)
 
 ## 9th Level
-Astral Projection
-Bixmodeus' Binding of Perduring Possession (GG)
-Grimlore’s Calamity (GG)
-Power Word Kill
-Tamara's Rebirth (GG)
-True Resurrection
+* Astral Projection
+* Bixmodeus' Binding of Perduring Possession (GG)
+* Grimlore’s Calamity (GG)
+* Power Word Kill
+* Tamara's Rebirth (GG)
+* True Resurrection

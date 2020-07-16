@@ -26,7 +26,7 @@ Starting at the 2nd level, your study of psionics begins to unleash your mind’
 
 While your psionic focus is on your person, you can cast the chosen cantrip as a bonus action, requiring no components, and with the modification listed below:
 * **Friends**. When the spell ends, the target doesn’t become hostile to you.
-* **Mage Hand**. You can make the hand invisible when you cast the spell, and controlling the spell is a bonus action for you.
+* **[mage hand](https://www.dndbeyond.com/spells/mage-hand)**. You can make the hand invisible when you cast the spell, and controlling the spell is a bonus action for you.
 * **Message**. You don’t need to point toward the target or whisper your message out loud.
 
 ## Thought Form
@@ -64,130 +64,129 @@ Spell selection is part of what defines a wizard and their individual fields of 
 Here is a list of wizard spells that fit with these themes. Spells marked with an asterisk are spells presented in this document.
 
 #### Cantrips (0 Level)
-friends
-mage hand
-message 
-mind sliver 
-minor illusion 
-true strike
+* friends
+* [mage hand](https://www.dndbeyond.com/spells/mage-hand)
+* message 
+* mind sliver 
+* minor illusion 
+* true strike
 
 #### 1st Level
-alarm (ritual)
-catapult (Xanathar’s Guide)
-cause fear (Xanathar’s Guide)
-charm person
-comprehend languages (ritual) 
-disguise 
-self
-id insinuation
-identify (ritual)
-magic missile
-silent image
-sleep
-Tasha’s hideous laughter 
-unseen servant (ritual)
+* alarm (ritual)
+* catapult (Xanathar’s Guide)
+* cause fear (Xanathar’s Guide)
+* charm person
+* comprehend languages (ritual) 
+* disguise self
+* id insinuation
+* identify (ritual)
+* magic missile
+* silent image
+* sleep
+* Tasha’s hideous laughter 
+* unseen servant (ritual)
 
 #### 2nd Level
-blindness/deafness
-blur
-crown of madness
-detect thoughts
-hold person
-invisibility
-levitate
-locate object
-mental barrier
-mind spike (Xanathar’s Guide) 
-mind thrust
-mirror image
-[misty step](https://www.dndbeyond.com/spells/misty-step)
-phantasmal force
-see invisibility
-suggestion
-thought shield
+* blindness/deafness
+* blur
+* crown of madness
+* detect thoughts
+* hold person
+* invisibility
+* levitate
+* locate object
+* mental barrier
+* mind spike (Xanathar’s Guide) 
+* mind thrust
+* mirror image
+* [misty step](https://www.dndbeyond.com/spells/misty-step)
+* phantasmal force
+* see invisibility
+* suggestion
+* thought shield
 
 #### 3rd Level
-blink
-catnap (Xanathar’s Guide) 
-clairvoyance
-enemies abound (Xanathar’s Guide) 
-fear
-fly
-hypnotic pattern
-major image
-nondetection
-psionic blast*
-sending
-tongues
+* blink
+* catnap (Xanathar’s Guide) 
+* clairvoyance
+* enemies abound (Xanathar’s Guide) 
+* fear
+* fly
+* hypnotic pattern
+* major image
+* nondetection
+* psionic blast*
+* sending
+* tongues
 
 #### 4th Level
-arcane eye
-charm monster (Xanathar’s Guide) 
-confusion
-dimension door
-ego whip*
-greater invisibility
-hallucinatory terrain 
-locate creature
-Otiluke’s resilient sphere
-phantasmal killer
+* arcane eye
+* charm monster (Xanathar’s Guide) 
+* confusion
+* dimension door
+* ego whip*
+* greater invisibility
+* hallucinatory terrain 
+* locate creature
+* Otiluke’s resilient sphere
+* phantasmal killer
 
 #### 5th Level
-Bigby’s hand
-contact other plane (ritual)
-dominate person
-dream
-far step (Xanathar’s Guide)
-geas
-hold monster
-intellect fortress*
-legend lore
-mislead
-modify memory
-Rary’s telepathic bond (ritual)
-scrying
-seeming
-skill empowerment (Xanathar’s Guide) 
-synaptic static (Xanathar’s Guide) telekinesis
-teleportation circle
-wall of force
+* Bigby’s hand
+* contact other plane (ritual)
+* dominate person
+* dream
+* far step (Xanathar’s Guide)
+* geas
+* hold monster
+* intellect fortress*
+* legend lore
+* mislead
+* modify memory
+* Rary’s telepathic bond (ritual)
+* scrying
+* seeming
+* skill empowerment (Xanathar’s Guide) 
+* synaptic static (Xanathar’s Guide) telekinesis
+* teleportation circle
+* wall of force
 
 #### 6th Level
-arcane gate
-Drawmij’s instant summons (ritual) 
-eyebite
-magic jar
-mass suggestion
-mental prison (Xanathar’s Guide) 
-Otto’s irresistible dance 
-programmed illusion
-psychic crush
-scatter (Xanathar’s Guide)
-true seeing
+* arcane gate
+* Drawmij’s instant summons (ritual) 
+* eyebite
+* magic jar
+* mass suggestion
+* mental prison (Xanathar’s Guide) 
+* Otto’s irresistible dance 
+* programmed illusion
+* psychic crush
+* scatter (Xanathar’s Guide)
+* true seeing
 
 #### 7th Level
-etherealness
-forcecage
-mirage arcane
-plane shift
-power word pain (Xanathar’s Guide) 
-project image
-reverse gravity 
-sequester 
-teleport
+* etherealness
+* forcecage
+* mirage arcane
+* plane shift
+* power word pain (Xanathar’s Guide) 
+* project image
+* reverse gravity 
+* sequester 
+* teleport
 
 #### 8th Level
-antipathy/sympathy
-dominate monster
-feeblemind
-illusory dragon (Xanathar’s Guide) 
-maddening darkness (Xanathar’s Guide) 
-mind blank
-power word stun 
-telepathy
+* antipathy/sympathy
+* dominate monster
+* feeblemind
+* illusory dragon (Xanathar’s Guide) 
+* maddening darkness (Xanathar’s Guide) 
+* mind blank
+* power word stun 
+* telepathy
 
 #### 9th Level
-astral projection
-foresight
-imprisonment
-psychic scream (Xanathar’s Guide)
+* astral projection
+* foresight
+* imprisonment
+* psychic scream (Xanathar’s Guide)
