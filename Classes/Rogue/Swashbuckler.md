@@ -21,3 +21,5 @@ You complete difficult maneuvers with practiced ease. Starting at 13th level, yo
 
 ## Master Duelist
 At 17th level your mastery of the blade lets you turn failure to success in combat. If you miss with an attack, you can choose to roll the attack again with advantage. Once you use this ability, you cannot use it again until you finish a short or long rest.
+
+*Source: [Unearthed Arcana: Waterborne Adventures](https://dnd.wizards.com/articles/unearthed-arcana/unearthed-arcana-waterborne-adventures)*

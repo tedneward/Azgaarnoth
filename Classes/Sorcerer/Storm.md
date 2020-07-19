@@ -33,3 +33,5 @@ At 14th level, the storm energy you channel through your magic seethes within yo
 
 ## Wind Soul
 At 18th level, you gain a flying speed of 60 feet and immunity to lightning and thunder damage. As an action, you can reduce your flying speed to 30 feet for one hour and choose a number of creatures within 30 feet of you equal to 3 + your Charisma modifier. The chosen creatures gain a flying speed of 30 feet for 1 hour.
+
+*Source: [Unearthed Arcana: Waterborne Adventures](https://dnd.wizards.com/articles/unearthed-arcana/unearthed-arcana-waterborne-adventures)*

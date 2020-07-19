@@ -128,9 +128,11 @@ You can use a holy symbol as a spellcasting focus for your cleric spells.
 ## Divine Domain
 Choose one domain:
 * [Arcana](Cleric/Arcana.md)
+* Chaos
 * [Death](Cleric/Death.md)
 * [Defier](Cleric/Defier.md)
 * [Dragon](Cleric/Dragon.md)
+* Elements
 * [Forge](Cleric/Forge.md)
 * [Grave](Cleric/Grave.md)
 * [Knowledge](Cleric/Knowledge.md)
@@ -139,6 +141,7 @@ Choose one domain:
 * [Nature](Cleric/Nature.md)
 * [Order](Cleric/Order.md)
 * [Protection](Cleric/Protection.md)
+* Shadow
 * [Tempest](Cleric/Tempest.md)
 * [Trickery](Cleric/Trickery.md)
 * [Twilight](Cleric/Twilight.md)
