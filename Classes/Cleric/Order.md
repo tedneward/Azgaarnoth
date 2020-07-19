@@ -37,3 +37,5 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 
 ## Order’s Wrath
 Starting at 17th level, enemies you designate for destruction wilt under the combined efforts of you and your allies. If you deal your Divine Strike damage to a creature, that creature takes an extra 2d8 force damage the first time each turn that any ally of yours hits it with a weapon attack. This benefit lasts until the start of your next turn.
+
+*Source: [Unearthed Arcana: Order Domain](https://dnd.wizards.com/articles/unearthed-arcana/order-domain)*

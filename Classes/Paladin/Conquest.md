@@ -41,3 +41,4 @@ At 20th level, you gain the ability to harness extraordinary martial prowess. As
 * Your melee weapon attacks score a critical hit on a roll of 19 or 20.
 Once you use this feature, you can’t use it again until you finish a long rest.
 
+*Source: [Unearthed Arcana: Revised Class Options](https://dnd.wizards.com/articles/unearthed-arcana/revised-class-options)*

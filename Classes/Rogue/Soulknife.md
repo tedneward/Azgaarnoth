@@ -37,3 +37,5 @@ Once you use this feature, you can’t do so again until you finish a long rest,
 At the 17th level, you can sweep your Psychic Blades directly through a creature’s mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier). Unless the save succeeds, the target is stunned until the end of your next turn.
 
 Once you use this feature, you can’t do so again until you finish a long rest, unless you decrease your Psionic Talent die by one die size to use this feature again.
+
+*Source: [Unearthed Arcana: Psionic Options](https://dnd.wizards.com/articles/unearthed-arcana/psionic-options-revisited)*

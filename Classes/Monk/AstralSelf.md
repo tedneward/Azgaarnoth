@@ -34,3 +34,5 @@ While your astral self is summoned, you gain the following benefits.
 * **Armor of the Spirit**. You gain a +2 bonus to AC while you aren’t incapacitated.
 * **Astral Barrage**. Whenever you use the Extra Attack feature to attack twice, you can instead attack three times using your astral arms.
 * **Ki Consumption**. When a creature within 10 feet of you is reduced to 0 hit points, you can use your reaction to regain ki points equal to your Wisdom modifier (minimum 1).
+
+*Source: [Unearthed Arcana: Barbarian and Monk](https://dnd.wizards.com/articles/unearthed-arcana/barbarian-and-monk)*

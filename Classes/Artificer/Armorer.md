@@ -55,3 +55,5 @@ At the 15th level, your power armor gains additional benefits based on its model
   You can use this reaction a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses of it when you finish a long rest.
 
 * ***Infiltrator***. Any creature that takes lightning damage from your Lightning Launcher glimmers with light until the start of your next turn. The glimmering creature sheds dim light in a 5 foot radius, and the next attack roll against it by a creature other than you has advantage. If that attack hits, it deals an extra 1d6 lightning damage.
+
+*Original content: [Unearthed Arcana - Subclasses 3](https://dnd.wizards.com/articles/unearthed-arcana/subclasses_part3)*

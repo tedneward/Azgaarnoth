@@ -3,10 +3,10 @@ Your magic springs from a mystical link between your soul and the magic of eleme
 
 Your link to earth magic grants you extraordinary resilience, and stone sorcerers have a natural affinity for combat. A steel blade feels like a natural extension of your body, and sorcerers with this origin have a knack for wielding both shields and weapons. In combat your place is amid the fray. You rely on your elemental nature to shield you from harm and your magic and metal weapons to overwhelm your foes.
 
-Bonus Proficiencies
+## Bonus Proficiencies
 At 1st level, you gain proficiency with shields, simple weapons, and martial weapons.
 
-Metal Magic
+## Metal Magic
 Your affinity for metal gives you the option to learn some non-sorcerer spells that focus on weapon attacks. When your Spellcasting feature lets you learn a sorcerer spell of 1st level or higher, you can select the spell from the following list of spells, in addition to the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.
 
 **Stone Sorcery Spells**
@@ -34,3 +34,5 @@ Starting at 14th level, your mastery of earth magic allows you to add the force 
 
 ## Earth Master's Aegis
 Beginning at 18th level, when you use your Stone’s Aegis to protect an ally, you can choose up to three creatures to gain its benefits.
+
+*Source: [Unearthed Arcana: Sorcerer](https://dnd.wizards.com/articles/unearthed-arcana/sorcerer)*

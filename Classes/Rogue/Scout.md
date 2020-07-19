@@ -17,3 +17,5 @@ You have advantage on initiative rolls. In addition, the first creature you hit 
 
 ## Sudden Strike
 Starting at 17th level, you can strike with deadly speed. If you take the Attack action on your turn, you can make one additional attack as a bonus action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can't use your Sneak Attack against the same target more than once in a turn.
+
+*Source: [Unearthed Arcana: Ranger and Rogue](https://dnd.wizards.com/articles/unearthed-arcana/ranger-and-rogue)*

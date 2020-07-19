@@ -38,3 +38,4 @@ Additionally, when a creature chosen for your Emboldening Bond is reduced to 0 h
 * The creature gains resistance to all damage
 * As an action, the creature can touch their bonded partner to expend and roll any number of Hit Dice. Their bonded partner regains a number of hit points equal to the total rolled.
 
+*Original content: [Unearthed Arcana - Subclasses 2](https://dnd.wizards.com/articles/unearthed-arcana/subclasses_part2)*

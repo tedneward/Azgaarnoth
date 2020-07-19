@@ -36,3 +36,5 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 At 14th level,The bond with your wildfire spirit is exceptionally strong, even fatal blows only fuel your defiance. If you drop to 0 hit points and don’t die outright, you drop to 1 hit point instead and gain temporary hit points equal to five times your druid level, and each creature of your choice within 30 feet of you that you can see takes fire damage equal to 2d10 + your druid level.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
+
+*Source: [Unearthed Arcana: Cleric, Druid, and Wizard](https://dnd.wizards.com/articles/unearthed-arcana/cleric-druid-wizard)*

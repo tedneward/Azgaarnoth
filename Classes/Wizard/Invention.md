@@ -119,3 +119,5 @@ At 10th level, you have attained a greater mastery of spell preparation. As a bo
 
 ## Controlled Chaos
 At 14th level, your ability to improvise magic grows stronger. Whenever you roll on a Reckless Casting table for a spell other than a cantrip, you can roll on the table that is one level higher than the expended spell slot.
+
+*Source: [Unearthed Arcana: Three Subclasses](https://dnd.wizards.com/articles/unearthed-arcana/three-subclasses)*

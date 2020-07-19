@@ -47,3 +47,5 @@ At the 10th level, while your Starry Form feature is active, you become partiall
 At the 14th level, your connection to the cosmos allows you to conjure brilliant starlight. As an action, you conjure a burst of light in a 30-foot-radius sphere centered on a point you can see within 120 feet of you. You can immediately teleport each willing creature in the sphere to an unoccupied space within 30 feet of it. Each creature remaining in the sphere must succeed on a Constitution saving throw against your spell save DC or take 4d10 radiant damage and be blinded until the end of your next turn.
 
 Once you have used this action, you can’t use it again until you finish a long rest or until you expend a spell slot of 5th level or higher to use it again.
+
+*Original content: [Unearthed Arcana - Subclasses 3](https://dnd.wizards.com/articles/unearthed-arcana/subclasses_part3)*

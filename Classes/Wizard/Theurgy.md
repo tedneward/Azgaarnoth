@@ -37,3 +37,5 @@ At 10th level, you gain your chosen domain’s 6th-­level benefits. Your faith 
 
 ## Arcane High Priest
 At 14th level, you gain your chosen domain’s 17th-­level benefits. Your academic nature and understanding of magic and doctrine allow you to master this ability sooner than a cleric of your domain.
+
+*Source: [Unearthed Arcana: Wizard Revisited](https://dnd.wizards.com/articles/unearthed-arcana/wizard-revisited)*

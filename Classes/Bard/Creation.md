@@ -26,3 +26,5 @@ Starting at 14th level, your performance can manipulate the magic of creation, b
 The created item disappears at the end of your next turn, unless you use your action to maintain it. Each time you use your action in this way, the item’s duration is extended to the end of your next turn, up to a maximum of 1 minute. If you maintain the item for the full minute, it continues to exist for a number of hours equal to your bard level.
 
 Once you create an item with this feature, you can’t do so again until you finish a long rest or until you expend a spell slot of 5th level or higher to use this feature. You can have only one item created by this feature at a time; if you use this action and already have an item from this feature, the first one immediately vanishes.
+
+*Original content: [Unearthed Arcana - Subclasses 2](https://dnd.wizards.com/articles/unearthed-arcana/subclasses_part2)*

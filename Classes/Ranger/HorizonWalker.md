@@ -37,3 +37,5 @@ If you attack at least two different creatures with the action, you can make one
 
 ## Spectral Defense
 At 15th level, your ability to move between planes becomes even more finely tuned. As a reaction when you take damage, you can halve that damage against you. For a moment, you slip into the planar boundary to lessen the harm.
+
+*Source: [Unearthed Arcana: Ranger and Rogue](https://dnd.wizards.com/articles/unearthed-arcana/ranger-and-rogue)*

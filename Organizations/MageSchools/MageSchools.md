@@ -34,6 +34,7 @@ Typically, a school is built around a particular concept or magic concept, such 
 Hundreds of mage schools of all size are present on Azgaarnoth. Currently the more widely-known include:
 
 * [White Winds](WhiteWinds.md): generalists and arcanists
+* [Scriveners](Scriveners.md): scribes, historians, scholars, and more
 * [Fiery Fist](FieryFist.md): combat
 * [Crimson Sunrise](CrimsonSunrise.md): combat
 * [Glittering Eye](GlitteringEye.md): illusion

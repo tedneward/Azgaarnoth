@@ -33,3 +33,5 @@ At 10th level, the magic crackling within your soul lashes out. When a creature 
 
 ## Chaotic Fury
 At 14th level, you become a wellspring of wild magic while you are raging. As a bonus action, you can reroll on the Wild Surge table, replacing your current effect with the new one.
+
+*Source: [Unearthed Arcana: Barbarian and Monk](https://dnd.wizards.com/articles/unearthed-arcana/barbarian-and-monk)*

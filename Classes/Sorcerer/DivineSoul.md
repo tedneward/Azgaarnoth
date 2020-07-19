@@ -35,3 +35,5 @@ The affinity you chose for your Divine Magic feature determines the appearance o
 At 18th level, you gain the ability to overcome grievous injuries. As a bonus action when you have fewer than half of your hit points remaining, you can regain a number of hit points equal to half your hit point maximum.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
+
+*Source: [Unearthed Arcana: Revised Subclasses](https://dnd.wizards.com/articles/unearthed-arcana/revised-subclasses)* (renamed to "Divine Soul" to differentiate against "Favored Soul")

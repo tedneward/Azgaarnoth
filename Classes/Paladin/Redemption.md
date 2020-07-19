@@ -52,3 +52,5 @@ At 20th level, you become an avatar of peace, which gives you two benefits:
 * Whenever a creature damages you, it takes damage equal to half the amount it dealt to you.
 
 If you attack a creature, deal damage to it, or force it to make a saving throw, neither benefit works against that creature until you finish a long rest.
+
+*Source: [Unearthed Arcana: A Trio of Subclasses](https://dnd.wizards.com/articles/unearthed-arcana/trio-subclasses)*

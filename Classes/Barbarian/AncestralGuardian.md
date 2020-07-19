@@ -20,3 +20,5 @@ After you cast either spell in this way, you can’t use this feature again unti
 
 ## Vengeful Ancestors
 At 14th level, your ancestral spirits grow powerful enough to retaliate. When you use your Spirit Shield to reduce the damage of an attack, the attacker takes an amount of force damage that your Spirit Shield prevents.
+
+*Source: [Unearthed Arcana: Revised Subclasses](https://dnd.wizards.com/articles/unearthed-arcana/revised-subclasses)*

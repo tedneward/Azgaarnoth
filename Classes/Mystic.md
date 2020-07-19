@@ -178,3 +178,4 @@ At 20th level, your mastery of psionic power causes your mind to transcend the b
 * You are immune to disease, poison damage, and the poisoned condition.
 * If you die, roll a d20. On a 10 or higher, you discorporate with 0 hit points, instead of dying, and you fall unconscious. You and your gear disappear. You appear at a spot of your choice 1d3 days later on the plane of existence where you died, having gained the benefits of one long rest.
 
+*Source: [Unearthed Arcana: The Mystic Class](https://dnd.wizards.com/articles/unearthed-arcana/mystic-class)*

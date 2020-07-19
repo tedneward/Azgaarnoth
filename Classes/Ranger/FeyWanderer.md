@@ -54,3 +54,4 @@ At the 15th level, you can magically remove yourself from one creature’s perce
 
 Once you’ve used this bonus action, you can’t use it again until you finish a long rest or until you expend a spell slot of 4th level or higher to use it again.
 
+*Original content: [Unearthed Arcana - Subclasses 3](https://dnd.wizards.com/articles/unearthed-arcana/subclasses_part3)*

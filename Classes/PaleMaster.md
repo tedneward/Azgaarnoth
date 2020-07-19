@@ -76,19 +76,26 @@ At 1st level, you know three cantrips of your choice from the pale master spell 
 When you gain a level in this class, you can replace one of the pale master cantrips you know with another cantrip from the pale master spell list.
 
 ### Grimoire
-At 1st level, you obtain a grimoire, which is the repository of all spells available to pale master.
+At 1st level, you obtain a grimoire, which is the repository of all spells available to you as a pale master. 
+
+> ### A Pale Master's Grimoire
+> As this tome contains a significant amount of information about necromancy, as well as a large number of the known necromancy spells in the multiverse, it is quite a rare item indeed. Players may wish to share the details how, where, and from whom they received their grimoire in their character's backstory. Some grimoires have been handed from master to apprentice down through centuries; many pale masters will undertake great risks to obtain another pale master's grimoire in the unfortunate case of the grimoire becoming lost, lest it fall into "the wrong hands."
 
 ### Preparing and Casting Spells
 The Pale Master table shows how many spell slots you have to cast your pale master spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
 
 You prepare the list of pale master spells that are available for you to cast. To do so, choose a number of pale master spells from your grimoire equal to your Intelligence modifier + half your pale master level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you’re a 4th-level pale master, you have three 1st-level and three 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination, chosen from your grimoire. If you prepare the 1st-level spell false life, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+For example, if you’re a 4th-level pale master, you have three 1st-level and three 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination, chosen from your grimoire. If you prepare the 1st-level spell [false life](https://www.dndbeyond.com/spells/false-life), you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of pale master spells requires time spent studying your grimoire and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
 
-> ### A Pale Master's Grimoire
-> All pale masters are given a grimoire at 1st level. As this tome contains all known necromancy spells in the multiverse, it is quite a rare item indeed. Player's may wish to share the details how, where, and from whom they received their grimoire in their character's backstory.
+### Copying a Spell into the Grimoire
+When you find an arcane spell of 1st level or higher, you can add it to your spellbook if it is of a level for which you have spell slots and if you can spare the time to decipher and copy it.
+
+Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard or pale master who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
+
+For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
 
 ### Spellcasting Ability
 Intelligence is your spellcasting ability for your pale master spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a pale master spell you cast and when making an attack roll with one.
@@ -103,9 +110,11 @@ You can cast a pale master spell as a ritual if that spell has the ritual tag an
 You can use an arcane focus as a spellcasting focus for your pale master spells. At 3rd level, you obtain your Undead Graft, which becomes your spellcasting focus for your magic, allowing you to cast spells with it and perform the somatic components of spells even when you have weapons or a shield in one or both hands.
 
 ### Your Grimoire
-Your grimoire contains all of the spells available to pale masters. Your ability to prepare and cast the spells contained within grows, reflecting the research you conduct on your own, as well as intellectual breakthroughs while studying the undead creatures you keep in your cohort.
+Your grimoire contains all of the spells you can prepare for use. Your ability to prepare and cast the spells contained within grows, reflecting the research you conduct on your own, as well as intellectual breakthroughs while studying the undead creatures you keep in your cohort.
 
-**Replacing the Book**. The grimoire you receive at 1st level is invaluable, entrusted to you when beginning your journey as a pale master. If you lose your grimoire, it will cost you 50 gp per pale master level to replace. 
+Despite the singular nature of the term, the grimoire can span across multiple physical books.
+
+**Replacing the Book**. The grimoire you receive at 1st level is invaluable, entrusted to you when beginning your journey as a pale master. If you lose your grimoire, it will cost you 50 gp per pale master level to replace, and this is before the cost of copying spells into it. Many pale masters will have copies of their grimoire squirreled away in safe locations as backups.
 
 **The Grimoire’s Appearance**. A pale master's grimoire tends to be emblazoned with runes inlaid into a black leather cover, which symbolize the dark magic contained within.
 
@@ -175,6 +184,10 @@ At 20th level, when you take a single source of damage that would knock you unco
 Once you use this feature, you can't use it again until you complete a short or long rest.
 
 # Pale Master Spells
+Pale master spells are a mix of the arcane, the divine, and the necrotic. However, principally they draw upon arcane forces for their spells, and as such their spells can be learned by wizards. Pale masters are also able to learn wizard spells, but typically choose not to, since doing so would distract from their more... pure... work.
+
+> ### Game Notes
+> Pale masters are capable of copying spells out of a wizard spell book, and likewise for wizards out of a pale master spellbook for the usual time and cost.
 
 ## Cantrips (0 Level)
 * Blood Siphon (GG)
@@ -186,23 +199,23 @@ Once you use this feature, you can't use it again until you complete a short or 
 * Grimlore’s Influence (GG)
 * Gloom (GG)
 * Grim Scythe (GG)
-* Infestation
+* [infestation](https://www.dndbeyond.com/spells/infestation)
 * Manipulate Shadow (GG)
-* Minor Illusion
+* [minor illusion](https://www.dndbeyond.com/spells/minor-illusion)
 * Night Terror (GG)
 * Pacify (GG)
 * Peaceful Valediction (GG)
-* Poison Spray
+* [poison spray](https://www.dndbeyond.com/spells/poison-spray)
 * Rancorous-Mist Blade (GG)
 * Scourge (GG)
 * Shadow Embrace (GG)
 * Shadow Ink (GG)
 * Shawl of the Unseen (GG)
-* Shocking Grasp
-* Song of the Dead
-* Spare the Dying
+* [shocking grasp](https://www.dndbeyond.com/spells/shocking-grasp)
+* [song of the dead](https://www.dndbeyond.com/spells/song-of-the-dead)
+* [spare the dying](https://www.dndbeyond.com/spells/spare-the-dying)
 * Spare the Living (GG)
-* Toll the Dead
+* [toll the dead](https://www.dndbeyond.com/spells/toll-the-dead)
 * Unholy Flame (GG)
 * Waning Touch (GG)
 
@@ -210,48 +223,48 @@ Once you use this feature, you can't use it again until you complete a short or 
 * Acrid Delight (GG)
 * Alacritous Interpretation (GG)
 * Animate Cranium (GG)
-* Arms of Hadar
-* Bane
+* [arms of hadar](https://www.dndbeyond.com/spells/arms-of-hadar)
+* [bane](https://www.dndbeyond.com/spells/bane)
 * Bone Storm (GG)
-* Cause Fear
+* [cause fear](https://www.dndbeyond.com/spells/cause-fear)
 * Creeping Crawling Claw (GG)
 * Cursed with Undeath (GG)
 * Death's Grasp (GG)
 * Dread (GG)
-* False Life
+* [false life](https://www.dndbeyond.com/spells/false-life)
 * Grimlore’s Shadowblight (GG)
 * Guillotine (GG)
 * Inaudible (GG)
-* Inflict Wounds
+* [inflict wounds](https://www.dndbeyond.com/spells/inflict-wounds)
 * Interpret Bone (GG)
 * Larloch's Minor Drain (GG)
 * Misery (GG)
 * Murmurs of the Restless (GG)
-* Ray of Sickness
+* [ray of sickness](https://www.dndbeyond.com/spells/ray-of-sickness)
 * Rot (GG)
 * Shed Skin (GG)
-* Unseen Servant
-* Witch Bolt
+* [unseen servant](https://www.dndbeyond.com/spells/unseen-servant)
+* [witch bolt](https://www.dndbeyond.com/spells/witch-bolt)
 
 ## 2nd Level
 * Analyze Blood (GG)
-* Blindness/Deafness
-* Darkness
-* Darkvision
+* [blindness/deafness](https://www.dndbeyond.com/spells/blindness-deafness)
+* [darkness](https://www.dndbeyond.com/spells/darkness)
+* [darkvision](https://www.dndbeyond.com/spells/darkvision)
 * Desecration (GG)
 * Detect Familiar (GG)
 * Drain Life (GG)
 * Elemental Anguish (GG)
-* Gentle Repose
+* [gentle repose](https://www.dndbeyond.com/spells/gentle-repose)
 * Grimlore’s Shadowgrasp (GG)
 * Manacle of Burden (GG)
 * [misty step](https://www.dndbeyond.com/spells/misty-step)
 * Necrotic Visage (GG)
-* Ray of Enfeeblement
-* Shadow Blade
+* [ray of enfeeblement](https://www.dndbeyond.com/spells/ray-of-enfeeblement)
+* [shadow blade](https://www.dndbeyond.com/spells/shadow-blade)
 * Shadow Bind (GG)
-* Silence
-* Silvanus' Blessing
+* [silence](https://www.dndbeyond.com/spells/silence)
+* [Silvanus' blessing](https://www.dndbeyond.com/spells/silvanus-blessing)
 * Unseat Hand (GG)
 
 ## 3rd Level

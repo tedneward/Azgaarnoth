@@ -41,3 +41,5 @@ At 10th level, your hex grows more powerful. If the target cursed by your Hexbla
 
 ## Master of Hexes
 Starting at 14th level, you can spread your Hexblade's Curse from a slain creature to another creature. When the creature cursed by your Hexblade's Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren't incapacitated. When you apply the curse in this way, you don't regain hit points from the death of the previously cursed creature.
+
+*Source: [Unearthed Arcana: Warlock and Wizard](https://dnd.wizards.com/articles/unearthed-arcana/warlock-and-wizard)*

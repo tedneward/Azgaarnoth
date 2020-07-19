@@ -49,3 +49,5 @@ At the 14th level, you can now use the psi that flows through you to give your b
 At the 18th level, if your Psionic Talent die is available, you can unleash your psionic power in a crackling aura of psychic energy; as a bonus action, you can magically radiate this transparent, 30-foot- radius aura for 1 minute or until you’re incapacitated or lose the use of your Psionic Talent die.
 
 Whenever a creature starts its turn in the aura or moves into it for the first time on a turn, you can roll your Psionic Talent die and deal psychic damage to the creature, equaling the number rolled plus your Charisma modifier. If the creature takes any of this damage, its speed is halved until the start of its next turn.
+
+*Source: [Unearthed Arcana: Psionic Options](https://dnd.wizards.com/articles/unearthed-arcana/psionic-options-revisited)*

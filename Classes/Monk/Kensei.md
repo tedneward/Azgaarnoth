@@ -21,3 +21,5 @@ This bonus lasts for 1 minute or until you use this feature again.
 
 ## Unerring Accuracy
 At 17th level, your mastery of weapons grants you extraordinary accuracy. If you make an attack roll with a monk weapon and miss, you can reroll it. You can use this feature only once on each of your turns.
+
+*Source: [Unearthed Arcana: Revised Subclasses](https://dnd.wizards.com/articles/unearthed-arcana/revised-subclasses)*

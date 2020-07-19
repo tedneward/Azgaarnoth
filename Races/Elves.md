@@ -24,18 +24,6 @@ The following traits are true of all elves.
 
 * **Languages**. You can speak, read, and write Common and Elven.
 
-### Elvish Racial Feats
-
-#### Elven Accuracy
-*Prerequisite: Elf or half-elf*
-
-The accuracy of elves is legendary, especially that of elf archers and spellcasters. You have uncanny aim with attacks that rely on precision rather than brute force. You gain the following benefits:
-
-Increase your Dexterity, Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20
-
-Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma, you can reroll one of the dice once.
-
-
 ## High Elf
 High elves and wood elves are, by this point in Azgaarnoth's history, fairly well intermixed and are found in most locations where elves are found; no non-elf can tel the difference between them.
 
@@ -46,19 +34,6 @@ High elves and wood elves are, by this point in Azgaarnoth's history, fairly wel
 * **Elf Weapon Training**. You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
 * **Extra Language**. You can read, speak, and write one additional language of your choice.
-
-### High Elf Racial Feats
-
-#### Fey Teleportation
-*Prerequisite: Elf (high)*
-
-Your study of high elven lore has unlocked fey power that few other elves possess, except your eladrin cousins. Drawing on your fey ancestry, you can momentarily stride through the Feywild to shorten your path from one place to another. You gain the following benefits:
-
-* Increase your Intelligence or Charisma score by 1, to a maximum of 20.
-
-* You learn to speak, read, and write Sylvan
-
-* You learn the [misty step](https://www.dndbeyond.com/spells/) spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest. Intelligence is your spellcasting ability for this spell.
 
 
 ## Wood Elf
@@ -71,11 +46,6 @@ High elves and wood elves are, by this point in Azgaarnoth's history, fairly wel
 * **Fleet of Foot**. Your base walking speed increases to 35 feet.
 
 * **Mask of the Wild**. You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
-
-### Wood Elf Racial Feat
-*Prerequisite: Elf (wood)*
-
-You learn the magic of the primeval woods, which are revered and protected by your people. You learn one druid cantrip of your choice. You also learn the [longstrider]() and [pass without trace]() spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Wisdom is your spellcasting ability for all three spells.
 
 
 ## Eladrin
@@ -167,7 +137,4 @@ Most drow seem to hail from the Daw Mountains near the only active volcano in Az
 
 * **Sunlight Sensitivity**. You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight.
 
-### Drow Racial Feats
-*Prerequisite: Elf (drow)*
-
-You learn more of the magic typical of dark elves. You learn the detect magic spell and can cast it at will, without expending a spell slot. You also learn levitate and dispel magic, each of which you can cast once without expending a spell slot. You regain the ability to cast the spell in this way when you finish a long rest. Charisma is your spellcasting ability for these spells.
+*Sources: [Unearthed Arcana: Elf Subraces](https://dnd.wizards.com/articles/unearthed-arcana/elf-subraces), [Unearthed Arcana: Race Options - Eldarin and Gith](https://dnd.wizards.com/articles/unearthed-arcana/race-options-eladrin-and-gith)*

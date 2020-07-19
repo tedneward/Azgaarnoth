@@ -43,3 +43,5 @@ At 18th level, you finally master the spark of fire that dances within you. Whil
 * You have resistance to all damage.
 
 * If you use your Phoenix Spark, that feature deals an extra 20 fire damage to each creature.
+
+*Source: [Unearthed Arcana: Sorcerer](https://dnd.wizards.com/articles/unearthed-arcana/sorcerer)*

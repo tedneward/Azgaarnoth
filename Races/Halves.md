@@ -48,32 +48,6 @@ Half-elves may be [dragonmarked](Dragonmarked.md) with the Mark of Detection or 
 
 ### Half-elvish Racial Feats
 
-#### Elven Accuracy
-*Prerequisite: Elf or half-elf*
-
-The accuracy of elves is legendary, especially that of elf archers and spellcasters. You have uncanny aim with attacks that rely on precision rather than brute force. You gain the following benefits:
-
-* Increase your Dexterity, Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20
-
-* Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma, you can reroll one of the dice once.
-
-#### Everybody's Friend
-*Prerequisite: Half-elf*
-
-You develop your magnetic personality to ease your way through the world. You gain the following benefits:
-
-* Increase your Charisma score by 1, up to a maximum of 20.
-
-* You gain proficiency in Deception and Persuasion skills. If you’re already proficient in either skill, your proficiency bonus is doubled for any check you make with that skill.
-
-#### Prodigy
-*Prerequisite: Half-elf, half-orc or human*
-
-You have a knack for learning new things. You gain the following benefits:
-
-You gain one skill proficiency of your choice, one tool proficiency of your choice, and fluency in one language of your choice.
-
-Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn't already benefiting from a feature, such as Expertise, that doubles your proficiency bonus
 
 ## Half-Orcs
 When alliances between humans and orcs are sealed by marriages, half-orcs are born. Some half-orcs rise to become proud chiefs of orc tribes, their human blood giving them an edge over their full-blooded orc rivals. Some venture into the world to prove their worth among humans and other more civilized races. Many of these become adventurers, achieving greatness for their mighty deeds and notoriety for their barbaric customs and savage fury.
@@ -100,32 +74,6 @@ Half-orcs may be [dragonmarked](Dragonmarked.md) with the Mark of Finding; see t
 
 * **Languages**. You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.
 
-### Half-Orc Racial Feats
-
-#### Orcish Aggression
-*Prerequisite: Half-orc*
-
-As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.
-
-#### Orcish Fury
-*Prerequisite: Half-orc*
-
-Your fury burns tirelessly. You gain the following benefits:
-
-* Increase your Strength or Constitution score by 1, up to a maximum of 20.
-
-* When you hit with an attack made with a simple or martial weapon, you can roll one of the weapon’s damage dice an additional time and add it as extra damage of the weapon’s damage type. Once you use this ability, you can’t use it again until you finish a short or long rest.
-
-* Immediately after you use your Relentless Endurance trait, you can use your reaction to make one weapon attack.
-
-### Prodigy
-*Prerequisite: Half-elf, half-orc or human*
-
-You have a knack for learning new things. You gain the following benefits:
-
-You gain one skill proficiency of your choice, one tool proficiency of your choice, and fluency in one language of your choice.
-
-Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn't already benefiting from a feature, such as Expertise, that doubles your proficiency bonus
 
 ## Half-Dragons
 (from *The Book of Dragons*)

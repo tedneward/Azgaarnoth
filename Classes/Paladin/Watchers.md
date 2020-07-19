@@ -47,3 +47,5 @@ At the 20th level, you manifest a spark of your deity’s power in defense of yo
 * When you hit a creature with an attack and deal damage to it, you can also force it to make a Charisma saving throw. On a failed save, the creature is magically banished to its native plane of existence if it’s currently not there. On a successful save, the creature can’t be banished by this feature for 24 hours.
 
 Once you use this bonus action, you can’t use it again until you finish a long rest. 
+
+*Original content: [Unearthed Arcana - Subclasses 1](https://dnd.wizards.com/articles/unearthed-arcana/subclasses1)*

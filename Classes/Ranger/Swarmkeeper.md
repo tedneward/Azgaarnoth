@@ -48,3 +48,5 @@ At the 15th level, your swarm can expel a seething storm of spirits that drains 
 When you activate this feature, you can choose any number of creatures you can see to be unaffected by it.
 
 Once you use this feature, you can’t do so again until you finish a long rest. You can also use it again by expending a spell slot of 4th level or higher.
+
+*Source: [Unearthed Arcana: Fighter, Ranger, and Rogue](https://dnd.wizards.com/articles/unearthed-arcana/fighter-ranger-rogue)*

@@ -21,3 +21,5 @@ Starting at 11th level, your skill in manipulating your ki to heal increases. Wh
 By 17th level your mastery of life energy opens the door to the ultimate respite technique. As an action, you can touch a creature, expend 4 ki points, and force the creature to make a Constitution saving throw (a creature can willingly fail this save). Unless the save succeeds, the creature enters a state of suspended animation for a number of days equal to your monk level or until you end the effect early (no action required). During this time, the creature is paralyzed, has immunity to all damage, and any curse, disease, or poison affecting it is suspended. The creature appears dead to all outward inspection and to spells used to determine the creature’s status.
 
 You can have only one creature under the effect of this feature at a time.
+
+*Original content: [Unearthed Arcana - Subclasses 1](https://dnd.wizards.com/articles/unearthed-arcana/subclasses1)*

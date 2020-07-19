@@ -1,7 +1,9 @@
 # Rogue Archetype: Revived
 You’ve had a soul-shaking realization: you’ve been dead before, yet somehow you are alive again. This life isn’t your first; it might not even be your second. Your past life, or lives, are unclear to you, but you know that you passed through the gates of death. And the powers of death, or some other influence, wasn’t done with you. You might have convinced a deity to let you return to the Material Plane, perhaps you signed a deal with a fiend, or maybe you used an artifact that revived you. Whatever force brought you back, you now know the truth about yourself: that you are one of death’s representatives among the living.
 
-The [Revived Roguish Archetype](/Supplements/UA-RuneSwarmRevived.pdf) are often found in [Dradehalia](/Nations/Dradehalia.md); whether this is because that nation has been through so much conflict and war that they're more common to revive, or something darker to do with the [Dread Emperor](/People/DreadEmporer.md)'s willingness to explore dark activities is not clear.
+Revived are often mistaken for [Phantoms](Phantoms.md), and vice versa.
+
+The Revived are often found in [Dradehalia](/Nations/Dradehalia.md); whether this is because that nation has been through so much conflict and war that they're more common to revive, or something darker to do with the [Dread Emperor](/People/DreadEmporer.md)'s willingness to explore dark activities is not clear.
 
 ## Tokens of Past Lives
 At 3rd level, you remember talents you had in your previous life. When you finish a long rest, you gain one skill or tool proficiency of your choice. You can replace this proficiency with another when you finish a long rest.

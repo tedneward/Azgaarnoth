@@ -24,3 +24,5 @@ Starting at 15th level, when you score a critical hit with a weapon attack, you 
 
 ## Survivor
 At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns in combat, you regain hit points equal to 5 + your Constitution modifier (minimum of 1 hit point). You don’t gain this benefit if you have 0 hit points or if you have more than half of your hit points left.
+
+*Source: [Unearthed Arcana: Three Subclasses](https://dnd.wizards.com/articles/unearthed-arcana/three-subclasses)*

@@ -17,17 +17,17 @@ Level | Proficiency Bonus | Features | Infusions Known | Infused Items | Cantrip
 7th  | +3 | --                                   | 5 | 3 | 2 | 4 | 3 | - | - | -
 8th  | +3 | Ability Score Improvement            | 5 | 3 | 2 | 4 | 3 | - | - | -
 9th  | +4 | --                                   | 5 | 3 | 2 | 4 | 3 | 2 | - | -
-10th | +4 | The Right Cantrip for the Job       | 5 | 3 | 3 | 4 | 3 | 2 | - | -
-11th | +4 | --                                  | 6 | 4 | 3 | 4 | 3 | 3 | - | -
-12th | +4 | Ability Score Improvement           | 6 | 4 | 3 | 4 | 3 | 3 | - | -
-13th | +5 | --                                  | 6 | 4 | 3 | 4 | 3 | 3 | 1 | -
-14th | +5 | Artificer Specialist feature        | 6 | 4 | 4 | 4 | 3 | 3 | 1 | -
-15th | +5 | --                                  | 7 | 4 | 4 | 4 | 3 | 3 | 2 | -
-16th | +5 | Ability Score Improvement           | 7 | 5 | 4 | 4 | 3 | 3 | 2 | -
-17th | +6 | --                                  | 7 | 5 | 4 | 4 | 3 | 3 | 3 | 1
-18th | +6 | Spell-Storing Item                  | 7 | 5 | 4 | 4 | 3 | 3 | 3 | 1
-19th | +6 | --                                  | 8 | 5 | 4 | 4 | 3 | 3 | 3 | 2
-20th | +6 | Soul of Artifice                    | 8 | 5 | 4 | 4 | 3 | 3 | 3 | 2
+10th | +4 | The Right Cantrip for the Job        | 5 | 3 | 3 | 4 | 3 | 2 | - | -
+11th | +4 | --                                   | 6 | 4 | 3 | 4 | 3 | 3 | - | -
+12th | +4 | Ability Score Improvement            | 6 | 4 | 3 | 4 | 3 | 3 | - | -
+13th | +5 | --                                   | 6 | 4 | 3 | 4 | 3 | 3 | 1 | -
+14th | +5 | Artificer Specialist feature         | 6 | 4 | 4 | 4 | 3 | 3 | 1 | -
+15th | +5 | --                                   | 7 | 4 | 4 | 4 | 3 | 3 | 2 | -
+16th | +5 | Ability Score Improvement            | 7 | 5 | 4 | 4 | 3 | 3 | 2 | -
+17th | +6 | --                                   | 7 | 5 | 4 | 4 | 3 | 3 | 3 | 1
+18th | +6 | Spell-Storing Item                   | 7 | 5 | 4 | 4 | 3 | 3 | 3 | 1
+19th | +6 | Ability Score Improvement            | 8 | 5 | 4 | 4 | 3 | 3 | 3 | 2
+20th | +6 | Soul of Artifice                     | 8 | 5 | 4 | 4 | 3 | 3 | 3 | 2
 
 
 ## Class Features
@@ -111,7 +111,7 @@ Your infusion remains in an item indefinitely, but when you die, the infusion va
 You can infuse more than one nonmagical object at the end of a long rest; the maximum number of objects appears in the Infused Items column of the Artificer table. You must touch each of the objects, and each of your infusions can be in only one object at a time. If you try to exceed your maximum number of infusions, the oldest infusion immediately ends, and then the new infusion applies.
 
 ## Artificer Specialist
-At 3rd level, you choose the type of specialist you are: [Alchemist](Artificer/Alchemist.md), [Archivist](Artificer/Archivist.md), [Armorer](Artificer/Armorer.md), [Artillerist](Artificer/Artillerist.md), or [Battle Smith](Artificer/BattleSmith.md).
+At 3rd level, you choose the type of specialist you are: [Alchemist](Artificer/Alchemist.md), [Armorer](Artificer/Armorer.md), [Artillerist](Artificer/Artillerist.md), or [Battle Smith](Artificer/BattleSmith.md).
 
 ### Tool Expertise
 Starting at 3rd level, your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.
@@ -418,3 +418,4 @@ While wearing this ring, the creature can recover one expended spell slot as an 
 * Transmute Rock
 * Wall of Stone
 
+*Source: [Unearthed Arcana: Artificer Returns](https://dnd.wizards.com/articles/unearthed-arcana/artificer-returns)*

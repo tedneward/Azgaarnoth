@@ -42,3 +42,5 @@ At 11th level, you gain the ability to twist and turn the ground beneath you. Wh
 
 ## Guardian Aura
 Starting at 15th level, your guardian form emanates a magical aura that fortifies your injured allies. When any ally starts their turn within 30 feet of your guardian form, that ally regains a number of hit points equal to half your ranger level. This aura has no effect on a creature that has half or more of its hit points, and it has no effect on undead and constructs.
+
+*Source: [Unearthed Arcana: Ranger and Rogue](https://dnd.wizards.com/articles/unearthed-arcana/ranger-and-rogue)*

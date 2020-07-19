@@ -38,3 +38,5 @@ At 10th level, the Raven Queen grants you a protective blessing. You gain advant
 
 ## Queen's Right Hand
 Starting at 14th level, you can channel the Raven Queen’s power to slay a creature. You can cast Finger of Death. After you cast the spell with this feature, you can’t do so again until you finish a long rest.
+
+*Source: [Unearthed Arcana: Warlock and Wizard](https://dnd.wizards.com/articles/unearthed-arcana/warlock-and-wizard)*

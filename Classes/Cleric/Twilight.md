@@ -42,3 +42,5 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 
 ## Midnight Shroud
 At 17th level, you can harness the shrouding power of night to protect your allies and stymie your foes. Whenever you cast the Darkness spell using a spell slot, you can choose a number of creatures that you can see (including yourself) equal to your Wisdom modifier (minimum of one). The chosen creatures can see through the darkness.
+
+*Source: [Unearthed Arcana: Cleric, Druid, and Wizard](https://dnd.wizards.com/articles/unearthed-arcana/cleric-druid-wizard)*

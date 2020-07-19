@@ -38,3 +38,5 @@ At 18th level, you become the focal point of a reality-warping anomaly. As an ac
 As a bonus action, you can end the aura early. If you do so, you and any number of creatures you choose within the aura are teleported to a location you can see within 1 mile of you. Each creature must appear within 20 feet of you and in an unoccupied space. An unwilling creature that succeeds on a Charisma saving throw against your spell save DC is not teleported.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
+
+*Source: [Unearthed Arcana: Sorcerer and Warlock](https://dnd.wizards.com/articles/unearthed-arcana/sorcerer-and-warlock)*

@@ -34,3 +34,5 @@ Once you use this feature, you can’t do so again until you finish a long rest,
 
 ## Telekinetic Master
 At the 18th level, Your ability to move creatures and objects with your mind is matched by few. If your Psionic Talent die is available, you can cast the [telekinesis]() spell, requiring no components. Your spellcasting ability for the spell is Intelligence. When you cast this spell, your Psionic Talent die decreases by one die size.
+
+*Source: [Unearthed Arcana: Psionic Options](https://dnd.wizards.com/articles/unearthed-arcana/psionic-options-revisited)*

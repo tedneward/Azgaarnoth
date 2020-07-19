@@ -36,3 +36,4 @@ At 10th level, you gain the ability to seed an area with deadly spores. As a bon
 ## Fungal Body
 At 14th level, the fungal spores in your body alter you: you can’t be blinded, deafened, frightened, or poisoned, and if an attack is a critical hit against you, it doesn’t deal its extra damage to you.
 
+*Source: [Unearthed Arcana: Three Subclasses](https://dnd.wizards.com/articles/unearthed-arcana/three-subclasses)*

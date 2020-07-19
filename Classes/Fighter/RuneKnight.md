@@ -79,3 +79,4 @@ In addition, you learn one new rune of your choice from the Rune Magic feature (
 ## Blessing of the All Father
 At the 18th level, you learn how to share your rune magic with your allies. When you use your Giant Might feature, you can choose one willing creature you can see within 60 feet of you. The chosen creature also gains the benefits of your Giant Might feature.
 
+*Source: [Unearthed Arcana: Fighter, Ranger, and Rogue](https://dnd.wizards.com/articles/unearthed-arcana/fighter-ranger-rogue)*

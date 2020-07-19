@@ -36,3 +36,5 @@ At 10th level, you have attained a greater mastery of spell preparation. As a bo
 At 14th level, your knowledge of magic allows you to duplicate almost any spell. As a bonus action, you can call to mind the ability to cast one spell of your choice from any class’s spell list. The spell must be of a level for which you have spell slots, you mustn’t have it prepared, and you follow the normal rules for casting it, including expending a spell slot. If the spell isn’t a wizard spell, it counts as a wizard spell when you cast it. The ability to cast the spell vanishes from your mind when you cast it or when the current turn ends.
 
 You can’t use this feature again until you finish a long rest.
+
+*Source: [Unearthed Arcana: Warlock and Wizard](https://dnd.wizards.com/articles/unearthed-arcana/warlock-and-wizard)*

@@ -32,3 +32,5 @@ Centaur are rare within Azgaarnoth, but can be found more often within the [Rave
 * **Survivor**. You have proficiency in one of the following skills: Animal Handling, Medicine, Nature, or Survival.
 
 * **Languages**. You can speak, read, and write Common and Sylvan.
+
+*Source: [Unearthed Arcana: Centaurs and Minotaurs](https://dnd.wizards.com/articles/unearthed-arcana/centaurs-and-minotaurs)*

@@ -37,7 +37,7 @@ Minotaur clan names originate with a great hero whose descendants take on that n
 
 * **Hammering Horns**. When you use the Attack action during your turn to make a melee attack, you can attempt to shove a creature with your horns as a bonus action. You cannot use this shove attempt to knock a creature prone.
 
-* **Labyrinthine Recall**. You can perfectly recall any path you have traveled.
+* **Menacing.** You	have proficiency in the Intimidation skill. 
 
 * **Languages**. You can speak, read, and write Common.
 
@@ -48,13 +48,19 @@ Minotaur clan names originate with a great hero whose descendants take on that n
 ## Subraces / Variants
 
 ### Sea Reaver
-The Sea Reaver minotaurs are those minotaurs who, early in the Hordes' existence, took to the sea as sailors, pirates, and merchants. They found a love for the sea that balanced against their love of order, and never looked back. Bound by the sea on all sides, the minotaurs focused their tenacity, strength, and cunning to become some of the most skilled and ferocious mariners in the world. They range across the water in their ships, raiding and pillaging as they wish. Minotaurs sometimes engage in trade, but they much prefer to take what they want by force. After all, as the strongest of all folk, they deserve the treasures and goods that lesser creatures have gathered.
+The Sea Reaver minotaurs are those minotaurs who, early in the Hordes' existence, took to the sea as sailors, pirates, and merchants. They found a love for the sea that balanced against their love of order, and never looked back. Bound by the sea on all sides, the minotaurs focused their tenacity, strength, and cunning to become some of the most skilled and ferocious mariners in the world. They range across the water in their ships, raiding and pillaging as they wish. Sea Reavers sometimes engage in trade, but they much prefer to take what they want by force. After all, as the strongest of all folk, they deserve the treasures and goods that lesser creatures have gathered.
 
 Some Sea Reavers have found that there is more gain to be had from trade than pillage, but they are often set upon by their fellow minotaurs for weakness. Many Sea Reavers have found employ within the various [Merchant Guilds](/Organizations/MerchantGuilds/MerchantGuilds.md) as both escorts and privateers, and many a Sea Reaver has combined the two activities in one trip.
+
+Sea Reavers have the following additional features:
 
 * **Sailor**. You gain proficiency with navigator’s tools and vehicles (water).
 
 ### Marshal
 Marshal minotaurs are those minotaurs within [Yithi](/Nations/Yithi.md) and [Zhi](/Nations/Zhi.md) that have chosen to take up a life of civilization and enforcing the law. They form a loose network of roaming adjudicators and magistrates, often dispensing rough justice in places where bringing a criminal to trial would be problematic or impossible. They will frequently work together when the time arises, may demand logistical support of any governor, and are always well-equipped. Many minotaur Marshals are paladins.
 
+Marshals have the following additional features:
+
 * **Magistrate**. You have deep knowledge of the law. Additionally, while within the borders of your home nation, you have the resources of the Court to draw upon for equipment, including small numbers of common magic items (if the GM deems it available in the city or township).
+
+*Source: [Unearthed Arcana: Centaurs and Minotaurs](https://dnd.wizards.com/articles/unearthed-arcana/centaurs-and-minotaurs)*

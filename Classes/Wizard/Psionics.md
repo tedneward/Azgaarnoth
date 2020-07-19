@@ -190,3 +190,5 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 * foresight
 * imprisonment
 * psychic scream (Xanathar’s Guide)
+
+*Source: [Unearthed Arcana: Fighter, Rogue, and Wizard](https://dnd.wizards.com/articles/unearthed-arcana/unearthed-arcana-fighter-rogue-and-wizard)*

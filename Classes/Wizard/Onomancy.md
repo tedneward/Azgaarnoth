@@ -2,6 +2,11 @@
 Practitioners of magic well know the power of names, but wizards who follow the tradition of Onomancy use their magic to manipulate the words that encompass existence. Onomancers expand their study into language itself, searching for threads of magical significance that weave through names. Something that is named stands out in the multiverse, distinct from the tapestry of creation all around it. 
 That distinction creates power that onomancers seek to tap. By speaking a target’s true name, the wizard’s spells slip between the cracks of the target’s defenses, conforming to its essential nature through the power of its name. To protect themselves, wizards who follow this tradition often hide their true names, typically by adopting monikers and pseudonyms.
 
+> ### Game Notes
+> Onomancy, or naming magic, is a method of spellcasting that uses a creature’s true name to enhance a spell’s effects. A true name is the name by which a self-aware creature identifies itself. This name might be the name a person was given at birth, or one a person chose or earned later in life. Whatever a name’s origin, the simplest way for you to know your true name is to think truthfully about yourself and then think, "My name is ..." Your true name is how you finish that sentence.
+> You can try to hide your true name by using a pseudonym, but you must be wary not to inhabit that false name too deeply. If a false name comes to be the best expression of who you are, it becomes your true name. Changing one’s true name is never a quick choice; it’s something that happens over time as a name becomes the creature’s truth.
+> As a quick guide, a creature has a true name if it understands at least one language or it has an alignment.
+
 Onomancers believe that their power derives from the studies of runes themselves, the thought being that runes are the names of some of the core foundations of the power of the world, and thus they are closest to the recovery of rune magic.
 
 Onomancers generally do not cluster within schools, preferring instead to conduct their research and investigation alone.
@@ -50,3 +55,5 @@ At 10th level, you learn two new Resonants of your choice from your Resonant Utt
 
 ## Relentless Naming
 At 14th level, you have learned how to bypass a named creature’s defenses against certain types of damage. When you cast a spell that deals damage to a creature whose true name you speak as part of casting the spell, you can cause the spell to deal force or psychic damage to the creature, instead of the spell’s normal damage type.
+
+*Source: [Unearthed Arcana: Cleric, Druid, and Wizard](https://dnd.wizards.com/articles/unearthed-arcana/cleric-druid-wizard)*
