@@ -18,3 +18,4 @@ At 10th level, you gain resistance to necrotic and radiant damage. In addition, 
 ## Paths of the Dead
 At 14th level, your mastery of death allows you to tread the paths used by ghosts and other spirits. Using this feature, you can cast etherealness. Once the spell ends, you can’t cast it with this feature again until you finish a short or long rest.
 
+*Source: [Unearthed Arcana: Druid Circles and Wild Shape](https://dnd.wizards.com/articles/unearthed-arcana/druid-circles-and-wild-shape)*

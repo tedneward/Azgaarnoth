@@ -44,3 +44,5 @@ While you gain no knowledge of this secret, the target is convinced you know it.
 When the effect ends, the creature has no understanding of why it held you in such fear.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
+
+*Source: [Unearthed Arcana: Bard Colleges](https://dnd.wizards.com/articles/unearthed-arcana/bard-colleges)*

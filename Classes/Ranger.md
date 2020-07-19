@@ -53,26 +53,26 @@ You start with the following equipment, in addition to the equipment granted by 
 * (a) a dungeoneer's pack or (b) an explorer's pack
 * A longbow and a quiver of 20 arrows
 
-## Favored Foe
-You can call on your bond with nature to mark a creature as your favored enemy for a time: you know the [hunter’s mark]() spell, and Wisdom is your spellcasting ability for it. You can use it a certain number of times without expending a spell slot and without requiring concentration—a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+## Favored Enemy
+Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy commonly encountered in the wilds.
 
-When you gain the Spellcasting feature at 2nd level, [hunter’s mark]() doesn’t count against the number of ranger spells you know.
+Choose a type of favored enemy: beasts, fey, humanoids, monstrosities, or undead. You gain a +2 bonus to damage rolls with weapon attacks against creatures of the chosen type. Additionally, you have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
 
-## Deft Explorer
-You are an unsurpassed explorer and survivor. Choose one of the following benefits, and then choose another one at 6th and 10th level.
+When you gain this feature, you also learn one language of your choice, typically one spoken by your favored enemy or creatures associated with it. However, you are free to pick any language you wish to learn.
 
-### Canny
-Choose one skill: Animal Handling, Athletics, History, Insight, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You gain proficiency in the chosen skill if you don’t already have it, and you can add double your proficiency bonus to ability checks using that skill.
+## Natural Explorer
+You are a master of navigating the natural world, and you react with swift and decisive action when attacked. This grants you the following benefits:
+* You ignore difficult terrain.
+* You have advantage on initiative rolls.
+* On your first turn during combat, you have advantage on attack rolls against creatures that have not yet acted.
 
-In addition, thanks to your extensive wandering, you are able to speak, read, and write two languages of your choice.
-
-### Roving
-Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.
-
-### Tireless
-As an action, you can give yourself a number of temporary hit points equal to 1d10 + your Wisdom modifier. You can use this special action a number of times equal to your Wisdom modifier (a minimum of once), and you regain all expended uses when you finish a long rest.
-
-In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1.
+In addition, you are skilled at navigating the wilderness. You gain the following benefits when traveling for an hour or more:
+* Difficult terrain doesn’t slow your group’s travel.
+* Your group can’t become lost except by magical means.
+* Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
+* If you are traveling alone, you can move stealthily at a normal pace.
+* When you forage, you find twice as much food as you normally would.
+* While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
 
 ## Fighting Style
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the [styles available](Fighter/Styles.md). You can't take a Fighting Style option more than once, even if you later get to choose again.
@@ -164,18 +164,11 @@ d6|Flaw
 
 
 ## Primeval Awareness
-Beginning at 3rd level, you can focus your awareness through the interconnections of nature: you learn additional spells when you reach certain levels in this class if you don’t already know them, as shown in the Primal Awareness Spells table. These spells don’t count against the number of ranger spells you know.
+Beginning at 3rd level, your mastery of ranger lore allows you to establish a powerful link to beasts and to the land around you.
 
-**Primal Awareness Spells**
-Ranger Level | Spell
------------- | -----
-3rd | [detect magic](https://www.dndbeyond.com/spells/detect-magic), [speak with animals](https://www.dndbeyond.com/spells/speak-with-animals)
-5th | [beast sense](https://www.dndbeyond.com/spells/beast-sense), [locate animals or plants](https://www.dndbeyond.com/spells/locate-animals-or-plants)
-9th | [speak with plants](https://www.dndbeyond.com/spells/speak-with-plants)
-13th | [locate creature](https://www.dndbeyond.com/spells/locate-creature)
-17th | [commune with nature](https://www.dndbeyond.com/spells/commune-with-nature)
+You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast as an action, and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it to not attack. You cannot use this ability against a creature that you have attacked within the past 10 minutes.
 
-You can cast each of these spells once without expending a spell slot. Once you cast a spell in this way, you can’t do so again until you finish a long rest.
+Additionally, you can attune your senses to determine if any of your favored enemies lurk nearby. By spending 1 uninterrupted minute in concentration (as if you were concentrating on a spell), you can sense whether any of your favored enemies are present within 5 miles of you. This feature reveals which of your favored enemies are present, their numbers, and the creatures’ general direction and distance (in miles) from you. If there are multiple groups of your favored enemies within range, you learn this information for each group.
 
 ## Ranger Conclave
 At 3rd level, you choose to emulate the ideals and training of a ranger conclave:
@@ -203,10 +196,21 @@ Additionally, you have advantage on saving throws against the spells and abiliti
 ## Fleet of Foot
 Beginning at 8th level, you can use the Dash action as a bonus action on your turn.
 
-## Fade Away
-Starting at 10th level, you can use a bonus action to magically become invisible, along with any equipment you are wearing or carrying, until the start of your next turn.
+## Hide in Plain Sight
+Starting at 10th level, you can remain perfectly 
+still for long periods of time to set up ambushes.
+When you attempt to hide on your turn, you 
+can opt to not move on that turn. If you avoid 
+moving, creatures that attempt to detect you 
+take a −10 penalty to their Wisdom (Perception) 
+checks until the start of your next turn. You lose 
+this benefit if you move or fall prone, either voluntarily or because of some external effect.
+You are still automatically detected if any effect 
+or action causes you to no longer be hidden.
+If you are still hidden on your next turn, you 
+can continue to remain motionless and gain this 
+benefit until you are detected.
 
-Once you use this feature, you can’t use it again until you finish a short or long rest.
 
 ## Vanish
 Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
@@ -304,3 +308,5 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 * Greater Restoration
 * Swift Quiver
 * Tree Stride
+
+*Source: [Unearthed Arcana: Ranger, Revised](https://dnd.wizards.com/articles/features/unearthed-arcana-ranger-revised)*

@@ -52,3 +52,5 @@ At 20th level, you gain the ability to emanate feelings of treachery. As an acti
 * If you have advantage on an attack roll, you gain a bonus to its damage roll equal to your paladin level.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
+
+*Source: [Unearthed Arcana: Paladin Sacred Oaths](https://dnd.wizards.com/articles/unearthed-arcana/paladin-sacred-oaths)*

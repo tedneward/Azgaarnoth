@@ -42,3 +42,5 @@ By performing a special ritual over the course of 5 minutes, you shift yourself 
 During this short rest, you and the creatures you sequester can make use of any options available during a rest that affect only you and the creatures you sequester.
 
 Once you use this ability, you  cannot use it again until you complete a long rest.
+
+*Source: [Unearthed Arcana: The Faithful](https://dnd.wizards.com/articles/features/faithful)*

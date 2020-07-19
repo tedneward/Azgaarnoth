@@ -33,3 +33,5 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 At 17th level, you gain resistance to two damage types of your choice, choosing from bludgeoning, necrotic, piercing, radiant, and slashing. Whenever you finish a short or long rest, you can change the damage types you chose.
 
 As an action, you can temporarily give up this resistance and transfer it to one creature you touch. The creature keeps the resistance until the end of your next short or long rest or until you transfer it back to yourself as a bonus action.
+
+*Source: [Unearthed Arcana: Cleric Divine Domains](https://dnd.wizards.com/articles/unearthed-arcana/cleric-divine-domains)*
