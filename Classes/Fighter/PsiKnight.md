@@ -5,6 +5,7 @@ The Psi Knight Martial Archetype is only available to characters who have close 
 
 ## Psionic Talent
 At the 3rd level, you harbor a wellspring of psionic power within yourself, an energy that ebbs and flows as you channel it in various ways. This power is represented by your Psionic Talent die, the starting size of which is a d6.
+
 ***Psionic Talent Options***. You can use your Psionic Talent die in the following ways:
 * **Protective Field**. When you or another creature you can see within 30 feet of you takes damage, you can use your reaction to roll your Psionic Talent die and reduce the damage taken by the number rolled plus your Intelligence modifier (minimum reduction of 1), as you create a momentary shield of telekinetic force.
 * **Psi-Powered Leap**. When you make a high or long jump, you can roll your Psionic Talent die and extend the distance of the jump, up to a number of feet equal to twice the number rolled plus twice your Intelligence modifier (minimum of 1 extra foot). This extra distance costs you only 1 foot of movement.

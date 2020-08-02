@@ -101,6 +101,7 @@ For each level of the spell, the process takes 2 hours and costs 50 gp. The cost
 Intelligence is your spellcasting ability for your pale master spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a pale master spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
+
 **Spell attack modifier** = your proficiency bonus + your Intelligence modifier
 
 ### Ritual Casting
@@ -362,8 +363,7 @@ Pale master spells are a mix of the arcane, the divine, and the necrotic. Howeve
 * Feeblemind
 * Mind Blank
 * Power Word Stun
-* Scornful Mantle of the
-* Undaunted (GG)
+* Scornful Mantle of the Undaunted (GG)
 * Soul Imprisonment (GG)
 
 ## 9th Level

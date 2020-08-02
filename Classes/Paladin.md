@@ -114,6 +114,7 @@ When you reach 3rd level, you swear the oath that binds you as a paladin forever
 * [Redemption](Paladin/Redemption.md)
 * [Vengeance](Paladin/Vengeance.md)
 * [Watchers](Paladin/Watchers.md)
+
 .. or, you are an "anti-paladin", and you have sworn one of the following oaths:
 * [Oathbreaker](Paladin/Oathbreaker.md)
 * [Treachery](Paladin/Treachery.md)

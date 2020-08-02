@@ -128,11 +128,11 @@ You can use a holy symbol as a spellcasting focus for your cleric spells.
 ## Divine Domain
 Choose one domain:
 * [Arcana](Cleric/Arcana.md)
-* Chaos
+* [Chaos](Cleric/Chaos.md)
 * [Death](Cleric/Death.md)
 * [Defier](Cleric/Defier.md)
 * [Dragon](Cleric/Dragon.md)
-* Elements
+* Elements: [Air](Cleric/Air.md), [Earth](Cleric/Earth.md), [Fire](Cleric/Fire.md), [Water](Cleric/Water.md)
 * [Forge](Cleric/Forge.md)
 * [Grave](Cleric/Grave.md)
 * [Knowledge](Cleric/Knowledge.md)
@@ -141,7 +141,7 @@ Choose one domain:
 * [Nature](Cleric/Nature.md)
 * [Order](Cleric/Order.md)
 * [Protection](Cleric/Protection.md)
-* Shadow
+* [Shadow](Cleric/Shadow.md)
 * [Tempest](Cleric/Tempest.md)
 * [Trickery](Cleric/Trickery.md)
 * [Twilight](Cleric/Twilight.md)
@@ -157,7 +157,7 @@ Each domain has a list of spells-its domain spells that you gain at the cleric l
 If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
 ## Channel Divinity
-At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
+At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with three such effects: Turn Undead, Harness Divine Power, and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
 
 When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
 
@@ -177,9 +177,20 @@ Starting at 2nd level, you can expend a use of your Channel Divinity to fuel you
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ## Destroy Undead
-Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Cleric table above.
+Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown below:
 
-## Blessed Strikes (replaces Divine Strike or Potent Spellcasting from Divine Domain features)
+**Destroy Undead Table**
+Cleric Level | Destroys Undead of CR ...
+-------------|--------------------------
+5th | 1/2 or lower
+8th | 1 or lower
+11th| 2 or lower
+14th| 3 or lower
+17th| 4 or lower
+
+## Blessed Strikes
+(*Replaces Divine Strike or Potent Spellcasting from Divine Domain features*)
+
 Starting at the 8th level, in battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can’t use this feature again until the start of your next turn.
 
 A player may choose Blessed Strikes instead of Divine Strike or Potent Spellcasting in their Domain feature list. This choice may be revisited each time the cleric reaches a new level.
