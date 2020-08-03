@@ -1,8 +1,8 @@
 # Roguish Archetype: Arcane Trickster
 Some rogues enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion. These rogues include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers.
 
-Arcane Trickster Spellcasting|Spell Slots per Spell Level
-Fighter Level|Cantrips Known|Spells Known|1st|2nd|3rd|4th
+## Arcane Trickster Spellcasting
+Rogue Level|Cantrips Known|Spells Known|1st|2nd|3rd|4th
 -------------|--------------|------------|---|---|---|---
 3rd|Mage Hand + 2|3|2|-|-|-
 4th|Mage Hand + 2|4|3|-|-|-
@@ -24,7 +24,7 @@ Fighter Level|Cantrips Known|Spells Known|1st|2nd|3rd|4th
 20th|Mage Hand + 3|13|4|3|3|1
 
 ## Spellcasting
-When you reach 3rd level, you augment your martial prowess with the ability to cast spells.
+When you reach 3rd level, you augment your roguish prowess with the ability to cast spells.
 
 ### Cantrips
 You learn three cantrips: [mage hand](https://www.dndbeyond.com/spells/mage-hand) and two other cantrips of your choice from the wizard spell list. You learn another wizard cantrip of your choice at 10th level.
