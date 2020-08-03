@@ -96,6 +96,7 @@ At 9th level, you gain the ability to move along vertical surfaces and across li
 ## Monastic Tradition
 When you reach 3rd level, you commit yourself to a monastic tradition:
 * [Astral Self](Monk/AstralSelf.md)
+* [Dragon](Monk/Dragon.md)
 * [Drunken Master](Monk/DrunkenMaster.md)
 * [Four Elements](Monk/FourElements.md)
 * [Kensei](Monk/Kensai.md)

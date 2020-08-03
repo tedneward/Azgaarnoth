@@ -107,6 +107,7 @@ At 3rd level, you delve into the advanced techniques of a bard college of your c
 
 * [Creation](Bard/Creation.md)
 * [Dragonsong](Bard/Dragonsong.md)
+* [Eloquence](Bard/Eloquence.md)
 * [Glamour](Bard/Glamour.md)
 * [Lore](Bard/Lore.md)
 * [Satire](Bard/Satire.md)

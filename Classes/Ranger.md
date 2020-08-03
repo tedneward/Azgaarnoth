@@ -179,6 +179,7 @@ At 3rd level, you choose to emulate the ideals and training of a ranger conclave
 * [Gloom Stalker](Ranger/GloomStalker.md)
 * [Horizon Walker](Ranger/HorizonWalker.md)
 * [Hunter](Ranger/Hunter.md)
+* [Justicar](Ranger/Justicar.md)
 * [Monster Slayer](Ranger/MonsterSlayer.md)
 * [Primeval Guardian](Ranger/PrimevalGuardian.md)
 * [Swarmkeeper](Ranger/Swarmkeeper.md)

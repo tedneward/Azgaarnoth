@@ -72,10 +72,12 @@ Once you use this feature, you must finish a short or long rest before you can u
 At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques:
 * [Arcane Archer](Fighter/ArcaneArcher.md)
 * [Banneret](Fighter/Banneret.md)
-* [Brute](Fighter/Brute.md)
 * [Battle Master](Fighter/BattleMaster.md)
+* [Brute](Fighter/Brute.md)
 * [Cavalier](Fighter/Cavalier.md)
 * [Champion](Fighter/Champion.md)
+* [Dragon Knight](Fighter/DragonKnight.md)
+* [Dragon Slayer](Fighter/DragonSlayer.md)
 * [Eldritch Knight](Fighter/EldritchKnight.md)
 * [Monster Hunter](Fighter/MonsterHunter.md)
 * [Psi Knight](Fighter/PsiKnight.md)

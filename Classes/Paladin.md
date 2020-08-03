@@ -110,10 +110,12 @@ When you reach 3rd level, you swear the oath that binds you as a paladin forever
 * [Conquest](Paladin/Conquest.md)
 * [Crown](Paladin/Crown.md)
 * [Devotion](Paladin/Devotion.md)
+* [Dragon](Paladin/Dragon.md)
 * [Heroism](Paladin/Heroism.md)
 * [Redemption](Paladin/Redemption.md)
 * [Vengeance](Paladin/Vengeance.md)
 * [Watchers](Paladin/Watchers.md)
+* [Weave](Paladin/Weave.md)
 
 .. or, you are an "anti-paladin", and you have sworn one of the following oaths:
 * [Oathbreaker](Paladin/Oathbreaker.md)
