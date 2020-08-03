@@ -76,15 +76,21 @@ At 3rd level, you choose an archetype that you strive to emulate in your combat 
 * [Brute](Fighter/Brute.md)
 * [Cavalier](Fighter/Cavalier.md)
 * [Champion](Fighter/Champion.md)
+* [Dervish](Fighter/Dervish.md)
+* [Dwarven Defender](Fighter/Defender.md)
 * [Dragon Knight](Fighter/DragonKnight.md)
 * [Dragon Slayer](Fighter/DragonSlayer.md)
+* [Dragoon](Fighter/Dragoon.md)
+* [Duelist](Fighter/Duelist.md)
 * [Eldritch Knight](Fighter/EldritchKnight.md)
+* [Ghost Warrior](Fighter/GhostWarrior.md)
 * [Monster Hunter](Fighter/MonsterHunter.md)
 * [Psi Knight](Fighter/PsiKnight.md)
 * [Rune Knight](Fighter/RuneKnight.md)
 * [Samurai](Fighter/Samurai.md)
 * [Scout](Fighter/Scout.md)
 * [Sharpshooter](Fighter/Sharpshooter.md)
+* [Weapon Master](Fighter/WeaponMaster.md)
 
 The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 

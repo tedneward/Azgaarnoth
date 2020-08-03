@@ -11,13 +11,13 @@ Brinwal has a healthy shipping lane that goes back and forth between itself and 
 * Verrasa Kaal (Human female Rogue (Mastermind) 9, LE), Lady of [House Kaal](/Organizations/Houses/Kaal.md), leader of [Kaalean Mercantile Compact](/Organizations/MerchantGuilds/KaaleanMercantileCompact.md) in Brinwal; secretly allied to Black Knives
 * Immerstal "the Red" Paedralian (Dwarf Wizard (Aeromancer) 9, CG), head of local [Five Elements](/Organizations/MageSchools/FiveElements.md) school
 * Rillor Paln (Human Rogue (Thief) 11, NE), master of the [Black Knives](/Organizations/RoguesGuilds/BlackKnives.md); secretly allied to House Kaal
-* Eldremma Axenhaft (Dwarf female Fighter (Champion) 4, Rogue (Rogue) 3, LN), of the [Hammerfist Compact](/Organizations/MerchantGuilds/HammerfistCompact.md)
+* Eldremma Axenhaft (Dwarf female Fighter (Dwarven Defender) 4, Rogue (Rogue) 3, LN), of the [Hammerfist Compact](/Organizations/MerchantGuilds/HammerfistCompact.md)
 * Tredora Goldenbrow (Aasimar female Cleric (Light) 8 of Pelor, LG), heads the Cathedral of Pelor; currently in a relationship with Kerden Jarmaath
 
 Brinwal is a small city on the western coast of the Ravensound, just south of [Stagrorest](Stagrorest.md). A major trade road, the Dawn Way, connects Brinwal to [Shimberg](Shimberg.md), and Brinwal has a major port that handles shipping all up and down the Ravensound. 
 
 ## Military Units
-**The Lion Guard** The army of Brinwal, acting as City Watch and garrison. Composition: 40 Fighter 3, 50 Fighter 2, 110 Fighter 1. Leaders ("the Lions of Brindol"): One Fighter 5, four Fighter 4, 12 Fighter 3.
+**The Lion Guard** The army of Brinwal, acting as City Watch and garrison. Composition: 40 Fighter 3, 50 Fighter 2, 110 Fighter 1. Leaders ("the Lions of Brindol"): One Fighter (Cavalier) 5, four Fighter (Cavalier) 4, 12 Fighter () 3.
 
 **House Kaal Guard** Bodyguards and guards sworn to [House Kaal](/Organizations/Houses/Kaal.md). Composition: two Rogue 4, three Rogue 3, four Rogue 2, six Rogue 1, eleven Fighter 3, sixteen Fighter 2, twenty-two Fighter 1. Leaders ("House Kaal Elite Guards"): Fighter 6, four Fighter 4.
 
