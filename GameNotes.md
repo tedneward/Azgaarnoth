@@ -17,6 +17,11 @@ Lastly, the "Western" nations, Liria and her rebellious spawn (Travenia, Travesi
 
 If there is one thing the Western nations agree upon, however, it is their mututal distrust to the south, in the lands of Dradehalia, where a dark, mysterious, and genuinely frightening figure has forged an iron weapon out of the darkest of crises. The Dread Emperor rules Dradehalia with an iron fist, and nothing is known of this figure--not even if his rule for the past centuries years is by one person, or if each successor takes up the name and mantle to keep their enemies guessing. The Dread Emperor came to power by being willing to do whatever was necessary to ensure his nation's survival against the Hordes of Ulm crashing down upon his people--but in the time since, a more disturbing question arises: Is the Dread Emperor willing to let go of whatever dark and foul magics and deeds he felt necessary to secure his peoples' freedom, or will he seek to conquer the known world, in the name of that "security"?
 
+## Homebrew Rules
+
+### Magic Item Attunement
+You can attune three magic items, or equal to your proficiency bonus, whichever is greater.
+
 ## Game Source Material
 Sourcebooks used, all D&D 5th Edition unless noted otherwise:
 * "Player's Handbook"

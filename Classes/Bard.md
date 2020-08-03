@@ -158,67 +158,67 @@ At 20th level, when you roll initiative and have no uses of Bardic Inspiration l
 * [vicious mockery](https://www.dndbeyond.com/spells/vicious-mockery)
 
 ## 1st Level
-* Animal Friendship
-* Bane
-* Cause Fear
-* Charm Person
-* Color Spray
-* Command
-* Comprehend Languages
-* Cure Wounds
-* Detect Magic
-* Disguise Self
-* Dissonant Whispers
-* Earth Tremor
-* Faerie Fire
-* False Life
-* Feather Fall
-* Guiding Hand
-* Healing Word
-* Heroism
-* Identify
-* Illusory Script
-* Longstrider
-* Sense Emotion
-* Silent Image
-* Sleep
-* Speak with Animals
-* Sudden Awakening
-* Tasha's Hideous Laughter
-* Thunderwave
-* Unearthly Chorus
-* Unseen Servant
+* [animal friendship](https://www.dndbeyond.com/spells/animal-friendship)
+* [bane](https://www.dndbeyond.com/spells/bane)
+* [cause fear](https://www.dndbeyond.com/spells/cause-fear)
+* [charm person](https://www.dndbeyond.com/spells/charm-person)
+* [color spray](https://www.dndbeyond.com/spells/color-spray)
+* [command](https://www.dndbeyond.com/spells/command)
+* [comprehend languages](https://www.dndbeyond.com/spells/comprehend-languages)
+* [cure wounds](https://www.dndbeyond.com/spells/cure-wounds)
+* [detect magic](https://www.dndbeyond.com/spells/detect-magic)
+* [disguise self](https://www.dndbeyond.com/spells/disguise-self)
+* [dissonant whispers](https://www.dndbeyond.com/spells/dissonant-whispers)
+* [earth tremor](https://www.dndbeyond.com/spells/earth-tremo)
+* [faerie fire](https://www.dndbeyond.com/spells/faerie-fire)
+* [false life](https://www.dndbeyond.com/spells/false-life)
+* [feather fall](https://www.dndbeyond.com/spells/feather-fall)
+* [guiding hand](https://www.dndbeyond.com/spells/guiding-hand)
+* [healing word](https://www.dndbeyond.com/spells/healing-word)
+* [heroism](https://www.dndbeyond.com/spells/heroism)
+* [identify](https://www.dndbeyond.com/spells/identify)
+* [illusory script](https://www.dndbeyond.com/spells/illusory-script)
+* [longstrider](https://www.dndbeyond.com/spells/longstrider)
+* [sense emotion](https://www.dndbeyond.com/spells/sense-emotion)
+* [silent image](https://www.dndbeyond.com/spells/silent-image)
+* [sleep](https://www.dndbeyond.com/spells/sleep)
+* [speak with animals](https://www.dndbeyond.com/spells/speak-with-animals)
+* [sudden awakening](https://www.dndbeyond.com/spells/sudden-awakening)
+* [tasha's hideous laughter](https://www.dndbeyond.com/spells/tashas-hideous-laughter)
+* [thunderwave](https://www.dndbeyond.com/spells/thunderwave)
+* [unearthly chorus](https://www.dndbeyond.com/spells/unearthly-chorus)
+* [unseen servant](https://www.dndbeyond.com/spells/unseen-servant)
 
 ## 2nd Level
-* Aid
-* Animal Messenger
-* Blindness/Deafness
-* Calm Emotions
-* Cloud of Daggers
-* Crown of Madness
-* Detect Thoughts
-* Enhance Ability
-* Enlarge/reduce
-* Enthrall
-* Heat Metal
-* Hold Person
-* Invisibility
-* Knock
-* Lesser Restoration
-* Locate Animals or Plants
-* Locate Object
-* Magic Mouth
-* Mind spike
-* Mirror Image
-* Phantasmal Force
-* Pyrotechnics
-* See Invisibility
-* Shatter
-* Silence
-* Skywrite
-* Suggestion
-* Warding Wind
-* Zone of Truth
+* [aid](https://www.dndbeyond.com/spells/aid)
+* [animal messenger](https://www.dndbeyond.com/spells/animal-messenger)
+* [blindness/deafness](https://www.dndbeyond.com/spells/blindness-deafness)
+* [calm emotions](https://www.dndbeyond.com/spells/calm-emotions)
+* [cloud of daggers](https://www.dndbeyond.com/spells/cloud-of-daggers)
+* [crown of madness](https://www.dndbeyond.com/spells/crown-of-madness)
+* [detect thoughts](https://www.dndbeyond.com/spells/detect-thoughts)
+* [enhance ability](https://www.dndbeyond.com/spells/enhance-ability)
+* [enlarge/reduce](https://www.dndbeyond.com/spells/enlarge-reduce)
+* [Enthrall](https://www.dndbeyond.com/spells/enthrall)
+* [heat metal](https://www.dndbeyond.com/spells/heat-metal)
+* [hold person](https://www.dndbeyond.com/spells/hold-person)
+* [invisibility](https://www.dndbeyond.com/spells/invisibility)
+* [knock](https://www.dndbeyond.com/spells/knock)
+* [lesser restoration](https://www.dndbeyond.com/spells/lesser-restoration)
+* [locate animals or plants](https://www.dndbeyond.com/spells/locate-animals-or-plants)
+* [locate object](https://www.dndbeyond.com/spells/locate-object)
+* [magic mouth](https://www.dndbeyond.com/spells/magic-mouth) (ritual)
+* [mind spike](https://www.dndbeyond.com/spells/mind-spike)
+* [mirror image](https://www.dndbeyond.com/spells/mirror-image)
+* [phantasmal force](https://www.dndbeyond.com/spells/phantasmal-force)
+* [pyrotechnics](https://www.dndbeyond.com/spells/pyrotechnics)
+* [see invisibility](https://www.dndbeyond.com/spells/see-invisibility)
+* [shatter](https://www.dndbeyond.com/spells/shatter)
+* [silence](https://www.dndbeyond.com/spells/silence)
+* [skywrite](https://www.dndbeyond.com/spells/skywrite) (ritual)
+* [suggestion](https://www.dndbeyond.com/spells/suggestion)
+* [warding wind](https://www.dndbeyond.com/spells/warding-wind)
+* [zone of truth](https://www.dndbeyond.com/spells/zone-of-truth)
 
 ## 3rd Level
 * Bestow Curse

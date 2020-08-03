@@ -79,9 +79,12 @@ A halfling with the Mark of Healing can save a life with a touch, restoring vita
 
 ### Traits
 The Mark of Healing manifests exclusively on halflings. If your character has the Mark of Healing, this is your halfling subrace.
-Ability Score Increase. Your Wisdom score increases by 1.
-Medical Intuition. When you make a Wisdom (Medicine) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
-Healing Touch. As an action, you can draw power from your dragonmark to spend one of your Hit Dice and revitalize yourself or a creature you touch. Roll the die, add your Wisdom modifier, and the creature regains a number of hit points equal to the total. Once you use this trait, you can’t use it again until you finish a short or long rest.
+
+* **Ability Score Increase**. Your Wisdom score increases by 1.
+
+* **Medical Intuition**. When you make a Wisdom (Medicine) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
+
+* **Healing Touch**. As an action, you can draw power from your dragonmark to spend one of your Hit Dice and revitalize yourself or a creature you touch. Roll the die, add your Wisdom modifier, and the creature regains a number of hit points equal to the total. Once you use this trait, you can’t use it again until you finish a short or long rest.
 Jorasco’s Blessing. You know the cantrip spare the dying. Wisdom is your spellcasting ability for this.
 
 ## The Mark of Hospitality
@@ -90,30 +93,42 @@ They may not always have gold, but a halfling with the Mark of Hospitality is su
 ### Traits
 The Mark of Hospitality manifests exclusively on halflings. If your character has the Mark of Hospitality, this is your halfling subrace.
 Ability Score Increase. Your Charisma score increases by 1.
-Innkeeper’s Charms. You know the cantrips [friends](https://www.dndbeyond.com/spells/friends)and prestidigitation. Charisma is your spellcasting ability for them.
-Ever Hospitable. When you make a Charisma (Persuasion) check or an ability check involving brewer’s supplies or cook’s utensils, you can roll one Intuition die (a d4) and add the number rolled to the ability check.
+
+* **Innkeeper’s Charms**. You know the cantrips [friends](https://www.dndbeyond.com/spells/friends) and prestidigitation. Charisma is your spellcasting ability for them.
+
+* **Ever Hospitable**. When you make a Charisma (Persuasion) check or an ability check involving brewer’s supplies or cook’s utensils, you can roll one Intuition die (a d4) and add the number rolled to the ability check.
 
 ## The Mark of Making
 The Mark of Making guides its bearer through any act of creation. The bearer of the mark can mend broken things with a touch, and always has a minor magic item they’ve been working on. An artificer or a wizard will get the most out of the mark, but anyone can find a use for an enchanted blade.
 
 ### Traits
 The Mark of Making only manifests on humans. If your character has the Mark of Making, these traits replace the human’s Ability Score Increase trait given in the Player’s Handbook.
-Ability Score Increase. Your Intelligence and Dexterity scores increase by 1. Increase either Intelligence or Dexterity by an additional 1 point.
-Artisan’s Intuition. When you make an ability check with artisan’s tools, roll 1d4 and add it to the result.
-Maker’s Gift. You know the cantrip mending. You gain proficiency with one type of artisan’s tools.
-Magecraft. You can create a temporary magic item out of common materials. Choose a cantrip from the wizard spell list. Describe the item connected to it. As long as you possess the item, you know that cantrip. At the end of a long rest, you can replace this with a new item and select a new cantrip from the wizard spell list. Intelligence is your spellcasting ability for these cantrips.
-Spellsmith. You can spend one minute to weave a temporary enchantment into a nonmagical suit of armor or weapon. For the next hour the object becomes a magic item, gaining a +1 bonus to AC if it’s armor or a +1 bonus to hit and damage if it’s a weapon. Once you use this trait, you can’t use it again until you finish a long rest.
+
+**Ability Score Increase**. Your Intelligence and Dexterity scores increase by 1. Increase either Intelligence or Dexterity by an additional 1 point.
+
+**Artisan’s Intuition**. When you make an ability check with artisan’s tools, roll 1d4 and add it to the result.
+
+**Maker’s Gift**. You know the cantrip mending. You gain proficiency with one type of artisan’s tools.
+
+**Magecraft**. You can create a temporary magic item out of common materials. Choose a cantrip from the wizard spell list. Describe the item connected to it. As long as you possess the item, you know that cantrip. At the end of a long rest, you can replace this with a new item and select a new cantrip from the wizard spell list. Intelligence is your spellcasting ability for these cantrips.
+
+**Spellsmith**. You can spend one minute to weave a temporary enchantment into a nonmagical suit of armor or weapon. For the next hour the object becomes a magic item, gaining a +1 bonus to AC if it’s armor or a +1 bonus to hit and damage if it’s a weapon. Once you use this trait, you can’t use it again until you finish a long rest.
 
 ## The Mark of Passage
 The Mark of Passage governs motion, allowing its bearer to move with uncanny speed and precision. Running, leaping, climbing—the Mark of Passage enhances every form of movement. The bearer of the mark can even slip through space, leaping from point to point in the blink of an eye.
 
 ### Traits
 The Mark of Passage only manifests on humans. If your character has the Mark of Passage, these traits replace the human’s Ability Score Increase trait given in the Player’s Handbook.
-Ability Score Increase. Your Dexterity score increases by 2, and one other ability score of your choice increases by 1.
-Courier’s Speed. Your base walking speed increases to 40 ft.
-Intuitive Motion. When you make a Strength (Athletics) check or any ability check to operate or maintain a land vehicle, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
-Orien’s Grace. During your turn, you can spend an amount of movement equal to half your speed to activate this trait. Once you activate Orien’s Grace, you don’t provoke opportunity attacks for the rest of the turn.
-Shared Passage. You can use your bonus action to teleport up to your speed to an unoccupied space that you can see. You can bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you. Once you use this trait, you can’t use it again until you finish a long rest.
+
+**Ability Score Increase**. Your Dexterity score increases by 2, and one other ability score of your choice increases by 1.
+
+**Courier’s Speed**. Your base walking speed increases to 40 ft.
+
+**Intuitive Motion**. When you make a Strength (Athletics) check or any ability check to operate or maintain a land vehicle, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
+
+**Orien’s Grace**. During your turn, you can spend an amount of movement equal to half your speed to activate this trait. Once you activate Orien’s Grace, you don’t provoke opportunity attacks for the rest of the turn.
+
+**Shared Passage**. You can use your bonus action to teleport up to your speed to an unoccupied space that you can see. You can bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you. Once you use this trait, you can’t use it again until you finish a long rest.
 
 ## The Mark of Scribing
 The Mark of Scribing deals with communication—both the written and spoken word. A gnome who bears the mark can feel words as though they are living creatures, struggling to make their meaning known. The mark provides a range of gifts. It translates languages, but it also allows its bearer to speak to others at a distance and to inscribe their words wherever they wish.
@@ -121,20 +136,28 @@ The Mark of Scribing deals with communication—both the written and spoken word
 ### Traits
 The Mark of Scribing manifests exclusively on gnomes. If your character has the Mark of Scribing, this is your gnome subrace.
 Ability Score Increase. Your Charisma score increases by 1.
-Gifted Scribe. You are proficient with calligrapher’s supplies and forgery kits. When you make an ability check using either one of these tools, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
-Scribe’s Insight. You can cast comprehend languages once with this trait, and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for it.
-Whispering Wind. You know the message cantrip. Intelligence is your spellcasting ability for it.
-Extra Language. You can speak, read, and write one extra language of your choice.
+
+**Gifted Scribe**. You are proficient with calligrapher’s supplies and forgery kits. When you make an ability check using either one of these tools, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
+
+**Scribe’s Insight**. You can cast comprehend languages once with this trait, and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for it.
+
+**Whispering Wind**. You know the message cantrip. Intelligence is your spellcasting ability for it.
+
+**Extra Language**. You can speak, read, and write one extra language of your choice.
 
 ## The Mark of Sentinel
 The Mark of Sentinel warns and protects. It heightens senses and reflexes, allowing an heir to respond to threats with uncanny speed. It can shield its bearer from harm. Whether on the battlefield or the ballroom, someone who carries the Mark of Sentinel is always prepared for danger.
 
 ### Traits
 The Mark of Sentinel only manifests on humans. If your character has the Mark of Sentinel, these traits replace the human’s Ability Score Increase trait given in the Player’s Handbook.
-Ability Score Increase. Your Strength and Wisdom scores both increase by 1. In addition, one ability score of your choice increases by 1.
-Sentinel’s Intuition. When you roll for Initiative or make a Wisdom (Perception) check to notice a threat, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
-Sentinel’s Shield. You know the [blade ward](https://www.dndbeyond.com/spells/blade-ward) cantrip. You can cast the shield spell once with this trait and you regain ability to do so after you finish a short or long rest.
-Vigilant Guardian. As an action, you can designate an ally you can see as your ward. You have advantage on Wisdom (Insight) and Wisdom (Perception) checks made to spot threats to your ward. In addition, when you are within 5 feet of your ward, and that creature is the target of an attack that you can see, you can use your reaction to swap places with your ward. When you do, you become the target of the attack.
+
+**Ability Score Increase**. Your Strength and Wisdom scores both increase by 1. In addition, one ability score of your choice increases by 1.
+
+**Sentinel’s Intuition**. When you roll for Initiative or make a Wisdom (Perception) check to notice a threat, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
+
+**Sentinel’s Shield**. You know the [blade ward](https://www.dndbeyond.com/spells/blade-ward) cantrip. You can cast the shield spell once with this trait and you regain ability to do so after you finish a short or long rest.
+
+**Vigilant Guardian**. As an action, you can designate an ally you can see as your ward. You have advantage on Wisdom (Insight) and Wisdom (Perception) checks made to spot threats to your ward. In addition, when you are within 5 feet of your ward, and that creature is the target of an attack that you can see, you can use your reaction to swap places with your ward. When you do, you become the target of the attack.
 
 ## The Mark of Shadow
 The Mark of Shadow lets an elf weave illusions from shadows, crafting sounds and images to distract or delight. The mark also allows its bearer to draw on the shadows, making it an easy matter to avoid detection or even disappear while in plain sight. It is a valuable tool for an entertainer, a spy, or an assassin; each elf who bears it will have to decide which path to follow.
@@ -142,31 +165,44 @@ The Mark of Shadow lets an elf weave illusions from shadows, crafting sounds and
 ### Traits
 The Mark of Shadow only manifests on elves. If your character has the Mark of Shadow, this is your elf subrace.
 Ability Score Increase. Your Charisma score increases by 1.
-Natural Talent. You gain proficiency with one musical instrument or the Performance skill.
-Gift of the Shadows. When you make a Charisma (Performance) or Dexterity (Stealth) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
-Shape Shadows. You know the minor illusion cantrip. Charisma is your spellcasting ability for this trait.
-Slip Into Shadow. You can use the Hide action as a bonus action, even if you have no cover or if you’re under observation. Regardless of whether you succeed or fail, once you use this ability, you can’t use it again until you finish a short or long rest.
+
+**Natural Talent**. You gain proficiency with one musical instrument or the Performance skill.
+
+**Gift of the Shadows**. When you make a Charisma (Performance) or Dexterity (Stealth) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
+
+**Shape Shadows**. You know the minor illusion cantrip. Charisma is your spellcasting ability for this trait.
+
+**Slip Into Shadow**. You can use the Hide action as a bonus action, even if you have no cover or if you’re under observation. Regardless of whether you succeed or fail, once you use this ability, you can’t use it again until you finish a short or long rest.
 
 ## The Mark of Storm
 Wind and water welcome the half-elf who carries the Mark of Storms. The wind catches them when they fall, and they swim with remarkable speed. Those who possess the Greater Dragonmark and dragonshard focus items can call on even greater powers, shaping the weather and calling on the power of the storm.
 
 ### Traits
 The Mark of Storm manifests exclusively on half-elves. If your character has the Mark of Detection, these traits replace the half-elf’s Ability Score Increase, Skill Versatility, and Languages given in the Player’s Handbook.
-Ability Score Increase. Your Dexterity and Charisma scores both increase by 1. In addition, one ability score of your choice increases by 1.
-Sea Monkey. Your base walking speed is 30 feet, and you have a swim speed of 30 feet.
-Windwright’s Intuition. When you make a Dexterity (Acrobatics) check or any ability check involving operating or maintaining a water or air vehicle, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
-Storm’s Blessing. You have resistance to lightning damage.
-Headwinds. You know the [gust](https://www.dndbeyond.com/spells/gust) cantrip. When you reach 3rd level, you can cast the gust of wind spell once with this trait and regain the ability to do so when you finish a long rest.
-Languages. You can speak, read, and write Common and Elvish.
+
+**Ability Score Increase**. Your Dexterity and Charisma scores both increase by 1. In addition, one ability score of your choice increases by 1.
+
+**Sea Monkey**. Your base walking speed is 30 feet, and you have a swim speed of 30 feet.
+
+**Windwright’s Intuition**. When you make a Dexterity (Acrobatics) check or any ability check involving operating or maintaining a water or air vehicle, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
+
+**Storm’s Blessing**. You have resistance to lightning damage.
+
+**Headwinds**. You know the [gust](https://www.dndbeyond.com/spells/gust) cantrip. When you reach 3rd level, you can cast the gust of wind spell once with this trait and regain the ability to do so when you finish a long rest.
+
+**Languages**. You can speak, read, and write Common and Elvish.
 
 ## The Mark of Warding
 The Mark of Warding helps its bearers protect things of value. Using the mark, a dwarf can weave wards and seal portals with mystic force. It also provides its bearer with an intuitive understanding of locks and mechanisms used to protect and seal. The decision each heir has to make is whether they’ll use this power to keep things safe, or whether they’re more interested in opening locks and taking what’s inside.
 
 ### Traits
 The Mark of Warding manifests exclusively on dwarves. If your character has the Mark of Warding, this is your dwarf subrace.
-Ability Score Increase. Your Dexterity and Intelligence scores increase by 1.
-Master of Locks. When you make an Intelligence (History), Intelligence (Investigation), or Thieves' Tools check involving lock and trap mechanisms, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
-Wards and Seals. You can use your mark to cast the alarm spell as a ritual. Starting at 3rd level you can cast [arcane lock](https://www.dndbeyond.com/spells/arcane-lock) once with this trait and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for these spells.
+
+**Ability Score Increase**. Your Dexterity and Intelligence scores increase by 1.
+
+**Master of Locks**. When you make an Intelligence (History), Intelligence (Investigation), or Thieves' Tools check involving lock and trap mechanisms, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
+
+**Wards and Seals**. You can use your mark to cast the alarm spell as a ritual. Starting at 3rd level you can cast [arcane lock](https://www.dndbeyond.com/spells/arcane-lock) once with this trait and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for these spells.
 
 
 ## Feat: Greater Dragonmark
@@ -175,6 +211,7 @@ The Greater Dragonmark feat represents the evolution of a dragonmark—an expone
 Only a fraction of dragonmarked ever develop a Greater Dragonmark. The powers that they possess are more powerful than the wide magic that serves as the foundation of the magical economy. Teleportation, instant communication across vast distances—these services are rare, remarkable, and largely unique to the dragonmarked.
 
 *Prerequisite: 8th level, Character must possess a dragonmark*
+
 Your dragonmark has grown in size and power. This enhances your existing dragonmark, and the benefits are based on the mark that you already possess. A greater dragonmark provides the following benefits:
 * The die type of your dragonmarked Intuition Die increases by one.
 * Increase one ability score by 1, to a maximum of 20. The abilities available to you are based on your mark, as shown on the Greater Dragonmark Benefits table.
