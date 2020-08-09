@@ -18,6 +18,7 @@ Abstracts/concepts
   Love
   Loyalty
   Medicine
+  Secrets
   Strategy
   Travel
   Trickery
@@ -55,7 +56,6 @@ Manifestations of skill
   Poetry
   Smithing
   Speech
-Family
 Home
 Hunting
 Life
@@ -63,7 +63,10 @@ Magic
 Marriage
 Mirth
 Motherhood
-Secrets
+People
+  Family
+  Thieves
+  Warriors
 Weather/violence-in-nature/storms
   Desert
   Earthquakes
@@ -72,10 +75,8 @@ Weather/violence-in-nature/storms
   Thunder
 Strength
 Strife
-Thieves
 Underworld
 War
-Warriors
 Watchfulness
 Wine
 Writing

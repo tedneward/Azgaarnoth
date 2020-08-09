@@ -17,11 +17,11 @@ Brinwal has a healthy shipping lane that goes back and forth between itself and 
 Brinwal is a small city on the western coast of the Ravensound, just south of [Stagrorest](Stagrorest.md). A major trade road, the Dawn Way, connects Brinwal to [Shimberg](Shimberg.md), and Brinwal has a major port that handles shipping all up and down the Ravensound. 
 
 ## Military Units
-**The Lion Guard** The army of Brinwal, acting as City Watch and garrison. Composition: 40 Fighter 3, 50 Fighter 2, 110 Fighter 1. Leaders ("the Lions of Brindol"): One Fighter (Cavalier) 5, four Fighter (Cavalier) 4, 12 Fighter () 3.
+**The Lion Guard** The army of Brinwal, acting as City Watch and garrison. Composition: 40 Fighter (Cavalier) 3, 50 Fighter (Cavalier) 2, 110 Fighter 1. *Leaders* ("the Lions of Brindol"): One Fighter (Cavalier) 5, four Fighter (Cavalier) 4, 12 Fighter (Cavalier) 3. (Total: ~200)
 
-**House Kaal Guard** Bodyguards and guards sworn to [House Kaal](/Organizations/Houses/Kaal.md). Composition: two Rogue 4, three Rogue 3, four Rogue 2, six Rogue 1, eleven Fighter 3, sixteen Fighter 2, twenty-two Fighter 1. Leaders ("House Kaal Elite Guards"): Fighter 6, four Fighter 4.
+**House Kaal Guard** Bodyguards and guards sworn to [House Kaal](/Organizations/Houses/Kaal.md). Composition: two Rogue 4, three Rogue 3, four Rogue 2, six Rogue 1, eleven Fighter 3, sixteen Fighter 2, twenty-two Fighter 1. *Leaders* ("House Kaal Elite Guards"): Fighter 6, four Fighter 4. (Total: ~65)
 
-**Militia** Mustered on demand. 40 Commoner 3, 120 Commoner 2, 440 Commoner 1, twenty Fighter 3, sixty Fighter 2, one-hundred sixty Fighter 1.
+**Militia** Mustered on demand. 50 Fighter 3, 180 Fighter 2, 750 Fighter 1. (Total: ~1000)
 
 ## Draconic Order
 The Draconic Order maintains no chapterhouse here, but a Claw (squad) of Knights of the Copper are here: 1 Rogue 4, 4 Fighter 1. They reside in the Lion Guard barracks in exchange for conducting the odd investigation on behalf of the Guard.
@@ -59,16 +59,14 @@ Haskinar is in a bitter feud of words with House Kaal; specifically, Rhola Haski
 ## Mage Schools
 
 ### Red Magic College
-A small (~12) [Five Elements](/Organizations/MageSchools/FiveElements.md) school is here, headed by Immerstal "the Red" Paedralian, though in truth he heads the school only so that the Five Elements will partly fund his workshop and research. He is not known to be a great teacher, though he is by all accounts an extremely competent mage. Students here are mostly self-taught, and have no loyalty to Immerstal or the school. 
+A small (~12) [Five Elements](/Organizations/MageSchools/FiveElements.md) school is here, headed by Immerstal "the Red" Paedralian. The school's "tower" is a two-story building, in which the basement serves as Immerstal's workshop, the first floor as a magic shop, and the second floor as private residential space for Immerstal and his partner Alandri. The shop routinely sells *common* magic items, and the prices are non-negotiable. Many items of *uncommon* rarity can be commissioned, with half the price up front as a deposit.
 
-Immerstal's partner (Alandri, who, unbeknownst to him, is a polymorphed [gynosphinx](https://www.dndbeyond.com/sources/mm/monsters-s#Gynosphinx) studying mortalkind up close) runs the shop on the first floor of his "tower" (really a two-story building with a basement that serves as his workshop, with a few additional rooms for the students to sleep). 
+Immerstal is by all accounts an extremely competent mage, but he is not known to be a great teacher. In truth he heads the school only so that the Five Elements will partly fund his workshop, which he uses to fund his research. Students here are mostly self-taught, and have no loyalty to Immerstal or the school. The Red is openly disdainful of "wilders" and "rootless vagabond" magi who insist on traveling, and has more than once seen another arcane spellcaster passing through town as a rival--sometimes even going so far as to openly declare an arcane duel.
 
-The Red is openly disdainful of "wilders" and "rootless vagabond" magi who insist on traveling, and has more than once seen another arcane spellcaster passing through town as a rival--sometimes even going so far as to openly declare an arcane duel.
-
-Immerstal's shop/school routinely sells *common* magic items, and the prices are non-negotiable. Many items of *uncommon* rarity can be commissioned, with half the price up front as a deposit.
+Immerstal's partner Alandri (who, unbeknownst to him, is a polymorphed [gynosphinx](https://www.dndbeyond.com/sources/mm/monsters-s#Gynosphinx) studying mortalkind up close) runs the shop. She refuses to negotiate prices, and will either refuse service or escort out of the shop entirely those who do not understand that concept. She is much closer to the students than Immerstal is, and some few students have a not-so-secret crush on her. Why she chooses to partner with Immerstal is, to all onlookers, a complete mystery, and subject of much speculation.
 
 ## Mercenary Companies
-No mercenary companies are currently under contract to Brinwal, but the [Shining Axe Company](/Organizations/MercCompanies/ShiningAxeCompany.md) quarters in the nearby town of Hammerfist Holds when they are not under contract, and have a long history of working for Brinwal.
+No mercenary companies are currently under contract to Brinwal, but the [Shining Axe Company](/Organizations/MercCompanies/ShiningAxeCompany.md) quarters in the nearby town of Hammerfist Holds when they are not under contract, and have a long history of working for Brinwal. 
 
 ## Religions
 
@@ -78,7 +76,6 @@ The Church maintains a small diocese (~250 attendants) here, and has some ties t
 The Church has a staff of 3 clerics (all Cleric 1) to aid the Bishop, and they sell some common divine magic items, including potions of healing.
 
 ### Pantheon
-
 The dominant worship center of Brinwal is the Cathedral of Pelor, headed by Tredora Goldenbrow. She has a few clerics that aid her in her duties, and her temple has the largest (~1000) number of celebrants here.
 
 The Pantheon has several smaller (roughly a hundred or so each) temples/cells here of various dieties, to [Brigantia](/Religions/Pantheon/Brigantia.md), [Ehlonna](/Religions/Pantheon/Ehlonna.md), [Gond](/Religions/Pantheon/Gond.md), and [Larethian](/Religions/Pantheon/Larethian.md).
