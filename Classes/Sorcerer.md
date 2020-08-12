@@ -90,15 +90,12 @@ Choose a sorcerous origin, which describes the source of your innate magical pow
 * [Clockwork Soul](Sorcerer/ClockworkSoul.md) means the powers of neutrality call to you.
 * [Divine Soul](Sorcerer/DivineSoul.md) sorcerers have found favor with celestial beings.
 * [Draconic Bloodline](Sorcerer/DraconicBloodline.md) suggests that the dragons, somewhere, somewhen, fit into your family tree; alternatively, you might have had a [dragonmarked](/Races/Dragonmarked.md) somewhere in your family line.
-* [Elemancy](Sorcerer/Elemancy.md) sorcerers have a primal power burning within them.
-* [Firespeaker](Sorcerer/Firespeaker.md) sorcerers hear the calls within the flame from the Elemental Plane of Fire.
+* [Firespeaker](Sorcerer/Firespeaker.md), [Seacaller](Sorcerer/Seacaller.md), [Stoneshaper](Sorcerer/Stoneshaper.md), and [Windtalker](Sorcerer/Windtalker) sorcerers hear the calls within the elements from the Elemental Planes themselves; they hear the elements, all around them.
 * [Giant Soul](Sorcerer/GiantSoul.md) sorcerers have ancient giantish blood within them.
 * [Green Star](Sorcerer/GreenStar.md) sorcerers feel the power of an ancient stone of power in their blood somehow.
 * [Phoenix](Sorcerer/Phoenix.md) sorcerers have the power of the ancient phoenix within them.
 * [Psionic Soul](Sorcerer/PsionicSoul.md) sorcerers have touched the power of the mind. 
-* [Sea](Sorcerer/Sea.md) sorcerers tap the primal forces of the sea.
 * [Shadow](Sorcerer/Shadow.md) sorcerers have been touched by the Shadowfell.
-* [Stone](Sorcerer/Stone.md) sorcerers feel the deep thrum of the earth.
 * [Storm](Sorcerer/Storm.md) sorcerers feel the power of the storm, and are extremely common (and valued) among the *al'maera* of the [Al'Uma](/Cultures/AlUma.md).
 * [Wild Magic](Sorcerer/WildMagic.md) sorcerers wrestle with power beyond control.
 

@@ -79,8 +79,11 @@ You may also your Cunning Action to carefully aim your next attack. As a bonus a
 At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities:
 * [Arcane Trickster](Rogue/ArcaneTrickster.md)
 * [Assassin](Rogue/Assassin.md)
+* [Burglar](Rogue/Burglar.md)
 * [Inquisitive](Rogue/Inquisitive.md)
+* [Inquisitor](Rogue/Inquisitor.md)
 * [Mastermind](Rogue/Mastermind.md)
+* [Phantom](Rogue/Phantom.md)
 * [Revived](Rogue/Revived.md)
 * [Scout](Rogue/Scout.md)
 * [Soulknife](Rogue/Soulknife.md)
