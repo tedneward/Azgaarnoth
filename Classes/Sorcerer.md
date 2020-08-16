@@ -330,6 +330,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * Confusion
 * Conjure Barlgura
 * Conjure Shadow Demon
+* [detect curses](/Magic/Spells/detect-curses.md)
 * Dimension Door
 * Dominate Beast
 * Ego Whip

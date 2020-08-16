@@ -100,7 +100,7 @@ Your Bardic Inspiration die changes when you reach certain levels in this class.
 Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
 
 ## Song of Rest
-Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance spend one or more Hit Dice to regain hit points at the end of the short rest, each of those creatures regains an extra 1d6 hit points.
+Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points
 
 ## Bard College
 At 3rd level, you delve into the advanced techniques of a bard college of your choice:
@@ -133,7 +133,7 @@ Beginning when you reach 5th level, you regain all of your expended uses of Bard
 At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
 
 ## Magical Secrets
-By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.
+By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.
 
 The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.
 
@@ -247,6 +247,7 @@ At 20th level, when you roll initiative and have no uses of Bardic Inspiration l
 ## 4th Level
 * Compulsion
 * Confusion
+* [detect curses](/Magic/Spells/detect-curses.md)
 * Dimension Door
 * Freedom of Movement
 * Greater Invisibility
