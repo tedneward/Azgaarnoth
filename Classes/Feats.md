@@ -45,6 +45,16 @@ Skilled at mimicry and dramatics, you gain the following benefits:
 * You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine that the effect is faked.
 
 
+## Aerial Mounted Combatant
+You have learned how to ride a flying mount during both air-to-air and air-to-ground combat. This means you are a dangerous foe to face while mounted. While you are mounted and aren't incapacitated, you gain the following benefits:
+
+* You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount. You also have advantage on any ground-bound creature while you are in flight.
+* You can force an attack targeted at your mount to target you instead.
+* If your mount is subjected to an effect that allows it to make Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+
+This feat may be a prerequisite for other aerial combat feats.
+
+
 ## Animal Handler
 You master the techniques needed to train and handle animals. You gain the following benefits.
 * Increase your Wisdom score by 1, to a maximum of 20.
@@ -363,6 +373,10 @@ The flail is a tricky weapon to use, but you have spent countless hours masterin
 * As a bonus action on your turn, you can prepare yourself to extend your flail to sweep over targets’ shields. Until the end of this turn, your attack rolls with a flail gain a +2 bonus against any target using a shield.
 * When you hit with an opportunity attack using a flail, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked prone.
 
+## Flyby
+*Prerequisite: Aerial mounted combat, or some form of flight*
+
+You have learned how to attack while moving swiftly through the air. As a result, if you move and attack a creature, you may use Disengage as a bonus action to avoid a reaction melee attack from the target.
 
 ## Flames Of Phlegethos
 *Prerequisite: Tiefling*
