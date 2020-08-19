@@ -215,6 +215,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * Aura of Purity
 * Banishment
 * Death Ward
+* [detect curses](/Magic/Spells/detect-curses.md)
 * Locate Creature
 * Staggering Smite
 

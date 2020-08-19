@@ -74,14 +74,13 @@ Some eladrin remain associated with a particular season for their entire lives, 
   When finishing a long rest, any eladrin can change their season. An eladrin might choose the season that is present in the world or perhaps the season that most closely matches the eladrin's current emotional state. For example, an eladrin might shift to autumn if filled with contentment, another eladrin could change to winter if plunged into sorrow, still another might be bursting with joy and become an eladrin of spring, and fury might cause an eladrin to change to summer.
 
 
-
-
 ## Avariel ("Winged Elves")
 The avariel are winged elves. If the avariel are still present on Azgaarnoth, they do an excellent job keeping themselves hidden from common sight. Nevertheless, the avariel were some of the first elves created as part of the Eldars' Firstborn, and many were tasked with supporting and pairing with the dragons that partnered with the Eldar. Legend held that they often lived in great aeyries in the highest mountains.
 
 * **Flight**. You have a flying speed of 30 feet. To use this speed, you can’t be wearing medium or heavy armor.
 
 * **Languages**. You can speak, read, and write Auran.
+
 
 
 ## Grugach ("Wild Elves")
@@ -97,6 +96,8 @@ If anyone is fool enough to disturb a grugach realm, these elves take to arms an
 
 * **Languages**. Unlike other elves, you don’t speak, read, or write Common. You instead speak, read, and write Sylvan.
 
+
+
 ## Maerach ("Sea Elves")
 The maerach are those elves that chose the oceans and seas as their home, and with Eldar assistance, came to own them as any other elf does their woods. The maerach discovered, however, that like the lands they had left, the seas were also home to numerous creatures that sought mastery and domination. Maerach have found themselves in conflict with these creatures of the Undersea ever since. Fortunately, the maerach retain their ability to breath air, and have often aided surface mortals against the creatures of the Undersea in exchange for knowledge, tactics, and sometimes even mercenary help. Individual maerach are sometimes dispatched to the surface to learn of events there, carry messages, and create friendships, and a few port cities are even called "home" to some maerach who find the surface interesting. Maerach look strikingly similar to elves, aside from a small set of gills set just below their ears, which long hair (worn loosely) can usually hide.
 
@@ -111,6 +112,7 @@ The maerach are those elves that chose the oceans and seas as their home, and wi
 * **Languages**. You can speak, read, and write Aquan.
 
 
+
 ## Shadar-kai ("Shadow Elves")
 These elves remain a mystery even to their kin--their origins are lost, their homes are undiscovered, and their motives and allegiances are absolutely indiscernible. Individual shadar-kai have been seen wandering the world, identifiable more by their piercings and tatoos than anything else, leaving many to wonder if other shadar-kai, unpierced and untattooed, also wander the world--and why.
 
@@ -121,6 +123,7 @@ Eladrin and shadar-kai are like reflections of each other: one bursting with emo
 * **Necrotic Resistance**. You have resistance to necrotic damage.
 
 * **Blessing of the Raven Queen**. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a long rest. Starting at 3rd level, you also gain resistance to all damage when you teleport using this trait. The resistance lasts until the start of your next turn. During that time, you appear ghostly and translucent.
+
 
 
 ## Drow (Dark Elf)

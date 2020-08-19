@@ -45,6 +45,16 @@ Skilled at mimicry and dramatics, you gain the following benefits:
 * You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine that the effect is faked.
 
 
+## Aerial Mounted Combatant
+You have learned how to ride a flying mount during both air-to-air and air-to-ground combat. This means you are a dangerous foe to face while mounted. While you are mounted and aren't incapacitated, you gain the following benefits:
+
+* You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount. You also have advantage on any ground-bound creature while you are in flight.
+* You can force an attack targeted at your mount to target you instead.
+* If your mount is subjected to an effect that allows it to make Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+
+This feat may be a prerequisite for other aerial combat feats.
+
+
 ## Animal Handler
 You master the techniques needed to train and handle animals. You gain the following benefits.
 * Increase your Wisdom score by 1, to a maximum of 20.
@@ -56,7 +66,7 @@ You master the techniques needed to train and handle animals. You gain the follo
 Always on the lookout for danger, you gain the following benefits:
 * You can’t be surprised while you are conscious.
 * You gain a +5 bonus to initiative.
-* Other creatures don’t gain advantage on attack rolls against you as a result of being hidden from you.
+* Other creatures don’t gain advantage on attack rolls against you as a result of being unseen by you.
 
 
 ## Alchemist
@@ -213,6 +223,7 @@ If you take this feat, decide with your DM how you met your dragon familiar. Why
 
 Eventually, the dragon's nature will require her to leave and seek her own fortune. This time may be years down the road, but it is inevitable. Worse, she might die in combat. When that time comes, discuss with your DM how to resolve this conflict of character. Consider keeping this feat in the form of a dragon friend whom you can count on for help or advice, or consider choosing a new feat when your wyrmling leaves (or dies).
 
+
 ## Dragon Fear
 *Prerequisite: Dragonborn*
 
@@ -221,6 +232,7 @@ When angered, you radiate menace. You gain the following benefits:
 Increase your Strength, Constitution, or Charisma score by 1, to a maximum of 20.
 
 Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds on the save if it can’t hear or see you. On a failed save, a target becomes frightened for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
+
 
 ## Dragon Hide
 *Prerequisite: Dragonborn*
@@ -233,10 +245,12 @@ Your scales harden. While you aren't wearing armor, you can calculate your AC as
 
 You can grow retractable claws from the tips of your fingers. Extending or retracting the claws requires no action. The claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the normal bludgeoning damage for an unarmed strike.
 
+
 ## Dragon Wings
 *Prerequisite: Dragonborn*
 
 You sprout draconic wings. With your wings, you have a flying speed of 20 feet if you aren’t wearing heavy armor and aren't exceeding your carrying capacity.
+
 
 ## Drow High Magic
 *Prerequisite: Elf (drow)*
@@ -250,17 +264,20 @@ You master fighting with two weapons, gaining the following benefits:
 * You can use two-weapon fighting even when the one handed melee weapons you are wielding aren’t light.
 * You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
 
+
 ## Dungeon Delver
 Alert to the hidden traps and secret doors found in many dungeons, you gain the following benefits:
-* You have advantage on Wisdom (Perception) and Intelligence (Investigation) made to detect the presence of secret doors.
+* Traveling at a fast pace doesn’t impose the normal −5 penalty on your passive Wisdom (Perception) score.
 * You have advantage on saving throws made to avoid or resist traps.
 * You have resistance to the damage dealt by traps.
 * You can search for traps while traveling at a normal pace, instead of only at a slow pace
+
 
 ## Durable
 Hardy and resilient, you gain the following benefits:
 * Increase your Constitution score by 1, to a maximum of 20.
 * When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
+
 
 ## Dwarven Resilience
 *Prerequisite: Dwarf*
@@ -271,6 +288,7 @@ Increase your Constitution score by 1, to a maximum of 20.
 
 Whenever you take the Dodge action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1).
 
+
 ## Eldritch Adept
 *Prerequisite: Spellcasting or Pact Magic feature*
 
@@ -278,16 +296,19 @@ Studying occult lore, you have unlocked eldritch power within yourself: you lear
 
 Whenever you gain a level, you can replace the invocation with another one from the warlock class.
 
+
 ## Empathic
 You possess keen insight into how other people think and feel. You gain the following benefits:
 * Increase your Wisdom score by 1, to a maximum of 20.
 * You gain proficiency in the Insight skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * You can use your action to try to get uncanny insight about one humanoid you can see within 30 feet of you. Make a Wisdom (Insight) check contested by the target’s Charisma (Deception) check. If your check succeeds, you have advantage on attack rolls and ability checks against the target until the end of your next turn.
 
+
 ## Elemental Adept
 *Prerequisite: The ability to cast at least one spell*
 
 When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder. Spells you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2. You can select this feat multiple times. Each time you do so, you must choose a different damage type.
+
 
 ## Elven Accuracy
 *Prerequisite: Elf or half-elf*
@@ -331,6 +352,7 @@ Your study of high elven lore has unlocked fey power that few other elves posses
 * You learn to speak, read, and write Sylvan
 * You learn the [misty step](https://www.dndbeyond.com/spells/misty-step) spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest. Intelligence is your spellcasting ability for this spell.
 
+
 ## Fey Touched
 Your exposure to the Feywild or one of its denizens has left a magical mark on you. You gain the following benefits:
 * Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
@@ -351,7 +373,10 @@ The flail is a tricky weapon to use, but you have spent countless hours masterin
 * As a bonus action on your turn, you can prepare yourself to extend your flail to sweep over targets’ shields. Until the end of this turn, your attack rolls with a flail gain a +2 bonus against any target using a shield.
 * When you hit with an opportunity attack using a flail, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked prone.
 
+## Flyby
+*Prerequisite: Aerial mounted combat, or some form of flight*
 
+You have learned how to attack while moving swiftly through the air. As a result, if you move and attack a creature, you may use Disengage as a bonus action to avoid a reaction melee attack from the target.
 
 ## Flames Of Phlegethos
 *Prerequisite: Tiefling*
@@ -438,6 +463,7 @@ Fiendish blood runs strong in you, unlocking a resilience akin to that possessed
 
 You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
 
+
 ## Intelligent Caster
 *Prerequisite: One or more levels in at least one class that allows you to cast spells using Charisma or Wisdom as your spellcasting ability*
 
@@ -448,11 +474,13 @@ Though spellcasting abilities of a type you practice are usually fueled by faith
 * You learn one cantrip of your choice from the wizard’s spell list.
 * If Charisma or Wisdom is a prerequisite for multiclassing from the class you chose for this feat, you may substitute Intelligence for Charisma or Wisdom when multiclassing from that class.
 
+
 ## Investigator
 You have an eye for detail and can pick out the smallest clues. You gain the following benefits:
 * Increase your Intelligence score by 1, to a maximum of 20.
 * You gain proficiency in the Investigation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * You can take the Search action as a bonus action.
+
 
 ## Keen Mind
 You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits.
@@ -462,11 +490,13 @@ You have a mind that can track time, direction, and detail with uncanny precisio
 * You always know the number of hours left before the next sunrise or sunset.
 * You can accurately recall anything you have seen or heard within the past month.
 
+
 ## Lightly Armored
 You have trained to master the use of light armor, gaining the following benefits.
 
 * Increase your Strength or Dexterity score by 1, to a maximum of 20.
 * You gain proficiency with light armor.
+
 
 ## Linguist
 You have studied languages and codes, gaining the following benefits:
@@ -474,6 +504,7 @@ You have studied languages and codes, gaining the following benefits:
 * Increase your Intelligence score by 1, to a maximum of 20.
 * You learn three languages of your choice.
 * You can ably create written ciphers. Others can't decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use magic to decipher it.
+
 
 ## Lucky
 You have inexplicable luck that seems to kick in at just the right moment.
@@ -486,6 +517,7 @@ If more than one creature spends a luck point to influence the outcome of a roll
 
 You regain your expended luck points when you finish a long rest.
 
+
 ## Mage Slayer
 You have practiced techniques in melee combat against spellcasters, gaining the following benefits.
 
@@ -493,15 +525,18 @@ You have practiced techniques in melee combat against spellcasters, gaining the 
 * When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration.
 * You have advantage on saving throws against spells cast by creatures within 5 feet of you.
 
+
 ## Magic Initiate
-Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class's spell list. In addition, choose one 1st-level spell to learn from that same list. Using this feat, you can cast the spell once at its lowest level, and you must finish a long rest before you can cast it in this way again.
+Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class's spell list. In addition, choose one 1st-level spell to learn from that same list. Using this feat, you can cast that spell once at its lowest level, and you must finish a long rest before you can cast it in this way again.
 
 Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+
 
 ## Martial Adept
 You have martial training that allows you to perform special combat [maneuvers](Fighter/Maneuvers.md). You gain the following benefits.
 * You learn two [maneuvers](Fighter/Maneuvers.md) of your choice . If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 * You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
+
 
 ## Master of Disguise
 You have honed your ability to shape your personality and to read the personalities of others. You gain the following benefits:
@@ -509,11 +544,13 @@ You have honed your ability to shape your personality and to read the personalit
 * You gain proficiency with the disguise kit. If you are already proficient with it, you add double your proficiency bonus to checks you make with it.
 * If you spend 1 hour observing a creature, you can then spend 8 hours crafting a disguise you can quickly don to mimic that creature. Making the disguise requires a disguise kit. You must make checks as normal to disguise yourself, but you can assume the disguise as an action.
 
+
 ## Medic
 You master the physician’s arts, gaining the following benefits:
 * Increase your Wisdom score by 1, to a maximum of 20.
 * You gain proficiency in the Medicine skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * During a short rest, you can clean and bind the wounds of up to six willing beasts and humanoids. Make a DC 15 Wisdom (Medicine) check for each creature. On a success, if a creature spends a Hit Die during this rest, that creature can forgo the roll and instead regain the maximum number of hit points the die can restore. A creature can do so only once per rest, regardless of how many Hit Dice it spends.
+
 
 ## Medium Armor Master
 *Prerequisite: Proficiency with medium armor*
@@ -528,6 +565,7 @@ You become fearsome to others, gaining the following benefits:
 * You gain proficiency in the Intimidation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * When you take the Attack action on your turn, you can replace one attack with an attempt to demoralize one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Intimidation) check contested by the target’s Wisdom (Insight) check. If your check succeeds, the target is frightened until the end of your next turn. If your check fails, the target can’t be frightened by you in this way for 1 hour.
 
+
 ## Metabolic Control
 *Prerequisite*: Psionic Talent feature or Wild Talent feat
 
@@ -536,6 +574,7 @@ You have refined psionic control over your body’s functions. You gain the foll
 * If your Psionic Talent die is available, you can take an action to channel your psionic power to nourish yourself for the next 24 hours, as if you consumed sufficient food and water for a day. When you take this action, your Psionic Talent die decreases by one die size.
 * If your Psionic Talent die is available, you can meditate for 1 minute, at the end of which you gain the benefits of finishing a short rest, and your Psionic Talent die decreases by one die size. You can’t meditate in this way again until you finish a long rest.
 
+
 ## Metamagic Adept
 *Prerequisite: Spellcasting or Pact Magic feature*
 
@@ -543,12 +582,14 @@ You’ve learned how to exert your will on your spells to alter how they functio
 * You learn two Metamagic options of your choice from the [sorcerer](Sorcerer.md) class. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. Whenever you gain a level, you can replace one of your Metamagic options with another one from the sorcerer class.
 * You gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source but can be used only on Metamagic). You regain all spent sorcery points when you finish a long rest.
 
+
 ## Mobile
 You are exceptionally speedy and agile. You gain the following benefits:
 
 * Your speed increases by 10 feet.
 * When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.
 * When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
+
 
 ## Moderately Armored
 *Prerequisite: Proficiency with light armor*
@@ -558,12 +599,14 @@ You have trained to master the use of medium armor and shields, gaining the foll
 * Increase your Strength or Dexterity score by 1, to a maximum of 20.
 * You gain proficiency with medium armor and shields.
 
+
 ## Mounted Combatant
 You are a dangerous foe to face while mounted. While you are mounted and aren't incapacitated, you gain the following benefits:
 
 * You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount.
 * You can force an attack targeted at your mount to target you instead.
 * If your mount is subjected to an effect that allows it to make Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+
 
 ## Naturalist
 Your extensive study of nature rewards you with the following benefits:

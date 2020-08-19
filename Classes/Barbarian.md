@@ -8,7 +8,7 @@ Level |	Proficiency Bonus |	Features	| Rages | Rage Damage
 2nd	|+2	|Reckless Attack, Danger Sense |2|	+2
 3rd	|+2	|Primal Path	|3|	+2
 4th	|+2	|Ability Score Improvement	|3|	+2
-5th	|+3	|Extra Attack, Fast Movement	|3|	+2
+5th	|+3	|Extra Attack, Instinctive Pounce	|3|	+2
 6th	|+3	|Path feature	|4|	+2
 7th	|+3	|Feral Instinct	|4|	+2
 8th	|+3	|Ability Score Improvement	|4|	+2
