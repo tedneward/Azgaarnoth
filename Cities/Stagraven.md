@@ -4,6 +4,23 @@ Port, Citadel, Walled, Marketplace, Shantytown
 
 Stagraven sits at an important juncture: the southern end of the Ravensound, and the southwestern point of the Daw Mountains, it also marks the southern "border" of the Ravenslands and the last point of civilization along the Ravensroad that (more or less) travels down the western coast of Liria before one crosses the Daws to get to Dawsilent.
 
+## Geography
+
+## Authority Figures
+* *Baron Stagraven*: Lord [Torshon Ciallin](/People/TorshonCiallin.md) (Human Male Fighter (Swashbuckler) 5, LN)
+* *Captain of the Guard*: 
+* City Councilor Bishop [Berian Cademintal](/People/BerianCademintal.md) of the Cathedral of the Kaevarian Church
+* City Councilor [Kathendrion Orrental](/People/KathendrionOrrental.md)
+* City Councilor 
+* City Councilor 
+* City Councilor 
+* Lord Martial [Nisan Sigthar](/People/NisanSigthar.md), Precentor Martial of the Draconic Order in Stagraven 
+
+## Military Units
+**The Raven Guard**:
+
+**Draconic Order**:
+
 ## Great Houses
 
 ### [House Ciallin](/Organizations/Houses/Ciallin.md)
@@ -20,10 +37,10 @@ House Cademintal is currently a minor player in the Stagraven Game of Houses, bu
 
 ## Draconic Order
 Stagraven has a chapterhouse of the [Gold Order](/Organizations/DraconicOrder/Gold.md), which also serves as home for any of the other members of the Order; it is well known that the Coppers have a strong presence here, as do the Silver and Steel.
-* Gold: Lord Martial Nisan Sigthar: Human Paladin (Oath of Devotion) 15, LG
-* Copper: Lord Mallin Swinleb: Half-elf Fighter (Psi Knight) 10/Rogue (Soul Knife) 7, CG; Mallin goes to great lengths to hide his psi abilities, and will not hesitate to use his talents to ensure his secret remains safe (blackmail first, elimiation if necessary)
-* Steel: Lord Artificer Thalkar Firelight: Half-orc Artificer 14, LG
-* Brass: Lord Archivist Comin Daylor: Elf (High) Wizard (Scryomancer) 16, NG; visiting here for a while on his way to [Dawsilent](Dawsilent.md) to continue research into coastal weather patterns
+* Gold: Lord Martial [Nisan Sigthar](/People/NisanSigthar.md): Human Paladin (Oath of Devotion) 15, LG
+* Copper: Lord [Mallin Swinleb](/People/MallinSwinleb.md): Half-elf Fighter (Psi Knight) 10/Rogue (Soul Knife) 7, CG; Mallin goes to great lengths to hide his psi abilities, and will not hesitate to use his talents to ensure his secret remains safe (blackmail first, elimination if necessary)
+* Steel: Lord Artificer [Thalkar Firelight](/People/ThalkarFirelight.md): Half-orc Artificer 14, LG
+* Brass: Lord Archivist [Comin Daylor](/People/CominDaylor.md): Elf (High) Wizard (Scryomancer) 16, NG; visiting here for a while on his way to [Dawsilent](Dawsilent.md) to continue research into coastal weather patterns
 
 ## Rogues' Guilds
 
@@ -62,12 +79,11 @@ Thanks to the [Order of the Gold Dragon](/Organizations/DraconicOrder/Gold.md)'s
 ## Religions
 
 ### Kaevarian Church
-The Church maintains a medium-sized diocese (~1000 attendants) here, and has some ties to the community. This is the religion to which all four of the noble houses listed above (Ciallin, Nerris, Elhol, and Cademintal) belong openly, and their donations have allowed the Church to build a grand temple for worship. The Stagraven Diocese is led by Bishop Berian Cademintal (Elf (Wood) Male Cleric (Order) 7, LN), who is a distant (and unaffiliated) son of House Cademintal. Bishop Cademintal is stern, dedicated to order, and convinced that only the worship of Kaevar is necessary. He has been leading a quiet, but civil, purge against the Dailish Heretics as a way to test his influence with the City Council; thus far he has been mostly unsuccessful, though he has managed to turn most citizens' interest away from it.
+The Church maintains a medium-sized diocese (~1000 attendants) here, and has some ties to the community. This is the religion to which all four of the noble houses listed above (Ciallin, Nerris, Elhol, and Cademintal) belong openly, and their donations have allowed the Church to build a grand temple for worship. The Stagraven Diocese is led by Bishop [Berian Cademintal](/People/BerianCademintal.md) (Elf (Wood) Male Cleric (Order) 7, LN), who is a distant (and unaffiliated) son of House Cademintal. Bishop Cademintal is stern, dedicated to order, and convinced that only the worship of Kaevar is necessary. He has been leading a quiet, but civil, purge against the Dailish Heretics as a way to test his influence with the City Council; thus far he has been mostly unsuccessful, though he has managed to turn most citizens' interest away from it.
 
 The Church has a staff of 12 clerics to aid the Bishop, and they sell some common divine magic items, including potions of healing.
 
 ### Pantheonist Churches
-
 The Pantheon has several smaller (roughly a hundred or so each) temples/cells here.
 
 ### Dailish Heretics

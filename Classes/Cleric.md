@@ -209,7 +209,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * [guidance](https://www.dndbeyond.com/spells/guidance)
 * [word of radiance](https://www.dndbeyond.com/spells/word-of-radiance)
 * [light](https://www.dndbeyond.com/spells/light)
-* [nending](https://www.dndbeyond.com/spells/mending)
+* [mending](https://www.dndbeyond.com/spells/mending)
 * [resistance](https://www.dndbeyond.com/spells/resistance)
 * [sacred flame](https://www.dndbeyond.com/spells/sacred-flame)
 * [spare the dying](https://www.dndbeyond.com/spells/spare-the-dying)
