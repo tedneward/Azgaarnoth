@@ -1,5 +1,5 @@
 # Brinwal ([Liria](/Nations/Liria.md))
-**Population:** 8,500 -- 40% human, 45% Firstborn, 15% Created
+**Population:** 8,500 -- 50% human, 35% Firstborn, 15% Created
 
 **Features:** Port, Walled, Marketplace, Shantytown
 
@@ -21,7 +21,7 @@ Brinwal has a healthy shipping lane that goes back and forth between itself and 
 * [Immerstal "the Red" Paedralian](/People/ImmerstalPaedralian.md) (Dwarf Wizard (Aeromancer) 9, CG), head of local [Five Elements](/Organizations/MageSchools/FiveElements.md) school
 * [Rillor Paln](/People/RillorPaln.md) (Human Rogue (Thief) 11, NE), Nightmaster of the [Black Knives](/Organizations/RoguesGuilds/BlackKnives.md); secretly allied to House Kaal
 * [Eldremma Axenhaft](/People/EldremmaAxenhaft.md) (Dwarf female Fighter (Dwarven Defender) 4, Rogue (Rogue) 3, LN), of the [Hammerfist Compact](/Organizations/MerchantGuilds/HammerfistCompact.md)
-* [Tredora Goldenbrow](/People/TredoraGoldenbow.md) (Aasimar female Cleric (Light) 8 of Pelor, LG), heads the Cathedral of [Pelor](/Religions/Pantheon/Pelor.md); currently in a relationship with Kerden Jarmaath
+* [Tredora Goldenbow](/People/TredoraGoldenbow.md) (Aasimar female Cleric (Light) 8 of Pelor, LG), heads the Cathedral of [Pelor](/Religions/Pantheon/Pelor.md); currently in a relationship with Kerden Jarmaath
 
 ## Military Units
 **The Lion Guard** The army of Brinwal, acting as City Watch and garrison. Composition: 40 Fighter (Cavalier) 3, 50 Fighter (Cavalier) 2, 110 Fighter 1. *Leaders* ("the Lions of Brinwal"): One Fighter (Cavalier) 5, four Fighter (Cavalier) 4, 12 Fighter (Cavalier) 3. (Total: ~200)
