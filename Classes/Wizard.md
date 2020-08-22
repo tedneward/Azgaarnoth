@@ -357,6 +357,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Conjure Minor Elementals
 * Conjure Shadow Demon
 * Control Water
+* [detect curses](/Magic/Spells/detect-curses.md)
 * Dimension Door
 * divination (ritual)
 * Ego Whip (UA)

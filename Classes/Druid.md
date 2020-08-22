@@ -69,7 +69,7 @@ Whenever you gain a level in this class, you can replace one cantrip you learned
 ### Preparing and Casting Spells
 The Druid table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these druid spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to your Wisdom modifier + your Druid level (minimum of one spell). The spells must be of a level for which you have spell slots.
+You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. (Note that at the DM's discretion, the list of druid spells available for preparation may not be the entire list of druid spells in the world.) When you do so, choose a number of druid spells equal to your Wisdom modifier + your Druid level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
 For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell Cure Wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
@@ -255,6 +255,7 @@ Druids can, at the discretion of the DM, learn spells from other circles, but ge
 * Conjure Minor Elementals
 * Conjure Woodland Beings
 * Control Water
+* [detect curses](/Magic/Spells/detect-curses.md)
 * Divination (ritual)
 * Dominate Beast
 * Elemental Bane
