@@ -31,7 +31,7 @@ Brinwal has a healthy shipping lane that goes back and forth between itself and 
 **Militia** Mustered on demand. 50 Fighter 3, 180 Fighter 2, 750 Fighter 1. (Total: ~1000)
 
 ## Draconic Order
-The Draconic Order maintains no chapterhouse here, but a Claw (squad) of Knights of the Copper are here: 1 Rogue 4, 4 Fighter 1. They reside in the Lion Guard barracks in exchange for conducting the odd investigation on behalf of the Guard.
+The Draconic Order maintains no chapterhouse here, but a Talon (squad) of Knights of the Copper are here: [Arbur Suncloud](/People/ArburSuncloud.md), 4 Fighter 1. They reside in the Lion Guard barracks in exchange for conducting the odd investigation on behalf of the Guard.
 
 ## Dueling Schools
 There are no dueling schools in Brinwal.
@@ -52,11 +52,9 @@ Lord [Kerden Jarmaath](/People/KerdenJarmaath.md) is a solid figure of the House
 Lady Verrasa Kaal is struggling to rekindle the reputation of her House, even as she secretly consorts with the various sorts of people that has brought her House low in recent decades. Verrasa Kaal has chosen to take a quieter approach than her siblings in other cities, however, and seeks to leverage the mercantile power of her House's merchant guild to make loans and forgive debts as necessary to call in favors. She will not openly oppose House Jarmaath, even as she secretly undermines them for her own House's benefit, but in truth she has no desire for the Baronial Seat, since that would make it harder for her to keep her relationship with Rillor Paln. She would rather keep Jarmaath on the throne and work from the shadows.
 
 ### [House Teskerwill](/Organizations/Houses/Teskerwill.md)
-House Teskerwill in Brinwal is headed by the widower [Owen Teskerwill](/People/OwenTeskerwill.md) (Human male Commoner, NG). Continuing the long tradition of Teskerwill horsebreeding, Owen has built a sizable holding here, and looks forward to handing it over to one of his three adult children (Kharra (Human female Fighter 3 (Cavalier) NG), Hurndahl (Human male Fighter 2), and Danella (Human female Commoner)) to carry on after his passing.
+House Teskerwill in Brinwal is headed by the widower [Owen Teskerwill](/People/OwenTeskerwill.md). Continuing the long tradition of Teskerwill horsebreeding, Owen has built a sizable holding here, and looks forward to handing it over to his three adult children ([Kharra](/People/KharraTeskerwill.md), [Hurndahl](/People/HurndahlTeskerwill.md), and [Danella](/People/DanellaTeskerwill.md)) to carry on after his passing.
 
-Danella currently is dating a cousin of House Jarmaath, and will likely marry into that House before long, cementing further ties between Jarmaath and Teskerwill.
-
-### House Haskinar
+### [House Haskinar](/Organizations/Houses/Haskinar.md)
 House Haskinar is a recent addition to the Game of Houses, with [Rhola Haskinar](/People/RholaHaskinar.md) having received a patent of royalty from Kedren Jarmaath a decade ago. Haskinar has leveraged that to gain deep economic commitments from the farmers around Brinwal, and now Haskinar either owns, finances, or has alliances with virtually all of the farmers that surround the city.
 
 Haskinar is in a bitter feud of words with House Kaal; specifically, Rhola Haskinar cannot stand Verrasa Kaal (and vice versa), and the war of words between the two frequently spills out into the streets.
@@ -64,11 +62,9 @@ Haskinar is in a bitter feud of words with House Kaal; specifically, Rhola Haski
 ## Mage Schools
 
 ### Red Magic College
-A small (~12) [Five Elements](/Organizations/MageSchools/FiveElements.md) school is here, headed by Immerstal "the Red" Paedralian. The school's "tower" is a two-story building, in which the basement serves as Immerstal's workshop, the first floor as a magic shop, and the second floor as private residential space for Immerstal and his partner Alandri. The shop routinely sells *common* magic items, and the prices are non-negotiable. Many items of *uncommon* rarity can be commissioned, with half the price up front as a deposit.
+A small (~12) [Five Elements](/Organizations/MageSchools/FiveElements.md) school is here, headed by [Immerstal "the Red" Paedralian](/People/ImmerstalPaedralian.md). The school's "tower" is a two-story building, in which the basement serves as Immerstal's workshop, the first floor as a magic shop, and the second floor as private residential space for Immerstal and his partner [Alandri](/People/AlandriPaedralian.md). The shop routinely sells *common* magic items, and the prices are non-negotiable. Many items of *uncommon* rarity can be commissioned, with half the price up front as a deposit.
 
-Immerstal is by all accounts an extremely competent mage, but he is not known to be a great teacher. In truth he heads the school only so that the Five Elements will partly fund his workshop, which he uses to fund his research. Students here are mostly self-taught, and have no loyalty to Immerstal or the school. The Red is openly disdainful of "wilders" and "rootless vagabond" magi who insist on traveling, and has more than once seen another arcane spellcaster passing through town as a rival--sometimes even going so far as to openly declare an arcane duel.
-
-Immerstal's partner Alandri (who, unbeknownst to him, is a polymorphed [gynosphinx](https://www.dndbeyond.com/sources/mm/monsters-s#Gynosphinx) studying mortalkind up close) runs the shop. She refuses to negotiate prices, and will either refuse service or escort out of the shop entirely those who do not understand that concept. She is much closer to the students than Immerstal is, and some few students have a not-so-secret crush on her. Why she chooses to partner with Immerstal is, to all onlookers, a complete mystery, and subject of much speculation.
+Immerstal's partner Alandri runs the shop. She refuses to negotiate prices, and will either refuse service or escort out of the shop entirely those who do not understand that concept. She is much closer to the students than Immerstal is, and some few students have a not-so-secret crush on her. Why she chooses to partner with Immerstal is, to all onlookers, a complete mystery, and subject of much speculation.
 
 ## Mercenary Companies
 No mercenary companies are currently under contract to Brinwal, but the [Shining Axe Company](/Organizations/MercCompanies/ShiningAxeCompany.md) quarters in the nearby town of Hammerfist Holds when they are not under contract, and have a long history of working for Brinwal. 
@@ -83,7 +79,7 @@ The Church has a staff of 3 clerics (all Cleric 1) to aid the Bishop, and they s
 ### Pantheon
 The dominant worship center of Brinwal is the Cathedral of Pelor, headed by Tredora Goldenbrow. She has a few clerics that aid her in her duties, and her temple has the largest (~1000) number of celebrants here.
 
-The Pantheon has several smaller (roughly a hundred or so each) temples/cells here of various dieties, to [Brigantia](/Religions/Pantheon/Brigantia.md), [Ehlonna](/Religions/Pantheon/Ehlonna.md), [Gond](/Religions/Pantheon/Gond.md), and [Larethian](/Religions/Pantheon/Larethian.md).
+The Pantheon has several smaller (roughly a hundred or so worshippers each) temples/cells here of various dieties, to [Brigantia](/Religions/Pantheon/Brigantia.md), [Ehlonna](/Religions/Pantheon/Ehlonna.md), [Gond](/Religions/Pantheon/Gond.md), and [Larethian](/Religions/Pantheon/Larethian.md).
 
 Additionally, a high priestess of [Wee Jas](/Religions/Pantheon/WeeJas.md), High Mourner [Mhiram Tarethian](/People/MhiramTarethian.md) built a gradiose and soaring temple over the Brinwal Graveyard. It is not clear from where the funds came from for that building, but the populace bears the priests no ill will; for as long as Brinwal has stood, the clerics of Wee Jas have been faithfully performing funerals and burial rites for free for those who cannot afford them, and Brinwal has remained remarkably free of undead for as far back as anyone can remember. The High Mourner has two more assistants (Cleric (Death) of Wee Jas 3) to assist her, and currently has about a hundred worshippers. She and Tredora Goldenbrow constantly seek to draw off worshippers from each others' congregations, but the rivalry is mostly good-natured, and the two frequently meet along with the Bishop of Kaevar to discuss divine matters.
 
