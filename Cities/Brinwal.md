@@ -15,16 +15,16 @@ North of the Witchwood lies the Blackfens, a marsh that runs from the coast to t
 Brinwal has a healthy shipping lane that goes back and forth between itself and [Stagraven](Stagraven.md), [Northraven](Northraven.md), [Crystargar](Crystargar.md), and many ships from further beyond. It generally doesn't ship to [Stagrorest](Stagrorest.md) or [Shimberg](Shimberg.md), since land routes are generally cheaper, though this has become less common as merchants report some unusual activity in the local Daws range (nicknamed the "Wyrmsmoke Mountains").
 
 ## Authority Figures
-* *Lord of Brinwal*: [Kerden Jarmaath](/People/KerdenJarmaath.md) (Human male Fighter (Cavalier) 7, NG); currently in a relationship with Tredora Goldenbrow
-* *Captain of the Lion Guard*: [Lars Ulverth](/People/LarsUlverth.md) (Human male Fighter (Cavalier) 7, LG)
-* [Verrasa Kaal](/People/VerrasaKaal.md) (Human female Rogue (Mastermind) 9, LE), Lady of [House Kaal](/Organizations/Houses/Kaal.md), leader of [Kaalean Mercantile Compact](/Organizations/MerchantGuilds/KaaleanMercantileCompact.md) in Brinwal; secretly allied to Black Knives
-* [Immerstal "the Red" Paedralian](/People/ImmerstalPaedralian.md) (Dwarf Wizard (Aeromancer) 9, CG), head of local [Five Elements](/Organizations/MageSchools/FiveElements.md) school
-* [Rillor Paln](/People/RillorPaln.md) (Human Rogue (Thief) 11, NE), Nightmaster of the [Black Knives](/Organizations/RoguesGuilds/BlackKnives.md); secretly allied to House Kaal
-* [Eldremma Axenhaft](/People/EldremmaAxenhaft.md) (Dwarf female Fighter (Dwarven Defender) 4, Rogue (Rogue) 3, LN), of the [Hammerfist Compact](/Organizations/MerchantGuilds/HammerfistCompact.md)
-* [Tredora Goldenbow](/People/TredoraGoldenbow.md) (Aasimar female Cleric (Light) 8 of Pelor, LG), heads the Cathedral of [Pelor](/Religions/Pantheon/Pelor.md); currently in a relationship with Kerden Jarmaath
+* *Lord of Brinwal*: [Kerden Jarmaath](/People/KerdenJarmaath.md)
+* *Captain of the Lion Guard*: [Lars Ulverth](/People/LarsUlverth.md)
+* Lady [Verrasa Kaal](/People/VerrasaKaal.md)
+* [Immerstal "the Red" Paedralian](/People/ImmerstalPaedralian.md)
+* [Rillor Paln](/People/RillorPaln.md)
+* [Eldremma Axenhaft](/People/EldremmaAxenhaft.md)
+* [Tredora Goldenbow](/People/TredoraGoldenbow.md)
 
 ## Military Units
-**The Lion Guard** The army of Brinwal, acting as City Watch and garrison. Composition: 40 Fighter (Cavalier) 3, 50 Fighter (Cavalier) 2, 110 Fighter 1. *Leaders* ("the Lions of Brinwal"): One Fighter (Cavalier) 5, four Fighter (Cavalier) 4, 12 Fighter (Cavalier) 3. (Total: ~200)
+**The Lion Guard** The army of Brinwal, acting as City Watch and garrison. Composition: 40 Fighter (Cavalier) 3, 50 Fighter (Cavalier) 2, 110 Fighter 1. *Leaders* ("the Lions of Brinwal"): Captain [Lars Ulverth](/People/LarsUlverth.md), four Fighter (Cavalier) 4, 12 Fighter (Cavalier) 3. (Total: ~200)
 
 **House Kaal Guard** Bodyguards and guards sworn to [House Kaal](/Organizations/Houses/Kaal.md). Composition: two Rogue 4, three Rogue 3, four Rogue 2, six Rogue 1, eleven Fighter 3, sixteen Fighter 2, twenty-two Fighter 1. *Leaders* ("House Kaal Elite Guards"): Fighter 6, four Fighter 4. (Total: ~65)
 
@@ -49,7 +49,7 @@ The Brinwal Academy routinely puts on shows for the populace at Velorian's (a pl
 Lord [Kerden Jarmaath](/People/KerdenJarmaath.md) is a solid figure of the House Jarmaath in Brinwal, and rules both his city and his House with a firm but fair hand. He has numerous siblings that he has seen placed in positions of authority throughout the peninsula, but currently lacks a wife or heir, which makes plenty of people nervous, thinking that Brinwal is one assassin's knife away from rulership by House Kaal.
 
 ### [House Kaal](/Organizations/Houses/Kaal.md)
-Lady Verrasa Kaal is struggling to rekindle the reputation of her House, even as she secretly consorts with the various sorts of people that has brought her House low in recent decades. Verrasa Kaal has chosen to take a quieter approach than her siblings in other cities, however, and seeks to leverage the mercantile power of her House's merchant guild to make loans and forgive debts as necessary to call in favors. She will not openly oppose House Jarmaath, even as she secretly undermines them for her own House's benefit, but in truth she has no desire for the Baronial Seat, since that would make it harder for her to keep her relationship with Rillor Paln. She would rather keep Jarmaath on the throne and work from the shadows.
+Lady [Verrasa Kaal](/People/VerrasaKaal.md) is struggling to rekindle the reputation of her House, even as she secretly consorts with the various sorts of people that has brought her House low in recent decades. Verrasa Kaal has chosen to take a quieter approach than her siblings in other cities, however, and seeks to leverage the mercantile power of her House's merchant guild to make loans and forgive debts as necessary to call in favors. She will not openly oppose House Jarmaath, even as she secretly undermines them for her own House's benefit, but in truth she has no desire for the Baronial Seat, since that would make it harder for her to keep her relationship with Rillor Paln. She would rather keep Jarmaath on the throne and work from the shadows.
 
 ### [House Teskerwill](/Organizations/Houses/Teskerwill.md)
 House Teskerwill in Brinwal is headed by the widower [Owen Teskerwill](/People/OwenTeskerwill.md). Continuing the long tradition of Teskerwill horsebreeding, Owen has built a sizable holding here, and looks forward to handing it over to his three adult children ([Kharra](/People/KharraTeskerwill.md), [Hurndahl](/People/HurndahlTeskerwill.md), and [Danella](/People/DanellaTeskerwill.md)) to carry on after his passing.

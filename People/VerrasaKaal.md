@@ -6,6 +6,4 @@
 ## Description
 Leader of [Kaalean Mercantile Compact](/Organizations/MerchantGuilds/KaaleanMercantileCompact.md) in Brinwal
 
-Secretly allied to Black Knives.
-
-In a relationship with [Rillor Paln](/People/RillorPaln.md).
+Secretly allied to Black Knives through her romantic relationship with [Rillor Paln](/People/RillorPaln.md).
