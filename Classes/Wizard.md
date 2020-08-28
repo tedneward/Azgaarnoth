@@ -164,7 +164,6 @@ When you reach 20th level, you gain mastery over two powerful spells and can cas
 
 If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
-
 # Wizard Spells
 This is a list of the spells accessible to any wizard throughout Azgaarnoth (under most normal circumstances--it is possible, for example, that a wizard character came to power outside of any of the normal backgrounds thus has a very paltry spellbook to start as a handicap). Specifically, these spells are known to the [White Winds](/Organizations/MageSchools/WhiteWinds.md) school, and are always accessible for copy into a wizard's spellbook for a nominal fee.
 
@@ -196,7 +195,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [poison spray](https://www.dndbeyond.com/spells/poison-spray)
 * [prestidigitation](https://www.dndbeyond.com/spells/prestidigitation)
 * [ray of frost](https://www.dndbeyond.com/spells/ray-of-frost)
-* [sapping sting (Dunamancy)](https://www.dndbeyond.com/spells/sapping-sting)
+* [sapping sting](https://www.dndbeyond.com/spells/sapping-sting)
 * [shape water](https://www.dndbeyond.com/spells/shape-water)
 * [shocking grasp](https://www.dndbeyond.com/spells/shocking-grasp)
 * [sword burst](https://www.dndbeyond.com/spells/sword-burst)
@@ -283,11 +282,11 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [magic weapon](https://www.dndbeyond.com/spells/magic-weapon)
 * [Maximillian's earthen grasp](https://www.dndbeyond.com/spells/maximillians-earthen-grasp)
 * [Melf's acid arrow](https://www.dndbeyond.com/spells/melfs-acid-arrow)
-* [mental narrier](https://www.dndbeyond.com/spells/mental-barrier)
+* [mental barrier](https://www.dndbeyond.com/spells/mental-barrier)
 * [mind thrust](https://www.dndbeyond.com/spells/mind-thrust)
 * [mirror image](https://www.dndbeyond.com/spells/mirror-image)
 * [misty step](https://www.dndbeyond.com/spells/misty-step)
-* [Nystul's Magic Aura](https://www.dndbeyond.com/spells/nystuls-magic-aura)
+* [Nystul's magic aura](https://www.dndbeyond.com/spells/nystuls-magic-aura)
 * [phantasmal force](https://www.dndbeyond.com/spells/phantasmal-force)
 * [pyrotechnics](https://www.dndbeyond.com/spells/pyrotechnics)
 * [ray of enfeeblement](https://www.dndbeyond.com/spells/ray-of-enfeeblement)
@@ -303,50 +302,50 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [web](https://www.dndbeyond.com/spells/web)
 
 ## 3rd Level
-* Animate Dead
-* Bestow Curse
-* Blink
-* Clairvoyance
-* Conjure Lesser Demons
-* Counterspell
-* Dispel Magic
-* Enemies Abound
-* Erupting Earth
-* Fear
-* Feign Death
-* Fireball
-* Flame Arrows
-* Fly
-* Galder's Tower
-* Gaseous Form
-* Glyph of Warding
-* Haste
-* Hypnotic Pattern
-* Leomund's Tiny Hut
-* Lightning Bolt
-* Magic Circle
-* Major Image
-* Melf's Minute Meteors
-* Nondetection
-* Phantom Steed
-* Protection from Energy
-* Psionic Blast (UA)
-* Remove Curse
-* Sending
-* Sleet Storm
-* Slow
+* animate dead
+* bestow curse
+* blink
+* clairvoyance
+* conjure lesser demons
+* counterspell
+* dispel magic
+* enemies abound
+* erupting earth
+* fear
+* feign death
+* fireball
+* flame arrows
+* fly
+* galder's tower
+* gaseous form
+* glyph of warding
+* haste
+* hypnotic pattern
+* leomund's tiny hut
+* lightning bolt
+* magic circle
+* major image
+* melf's minute meteors
+* nondetection
+* phantom steed
+* protection from energy
+* psionic blast
+* remove curse
+* sending
+* sleet storm
+* slow
 * speak with dead
-* Spirit Shroud (UA)
-* Stinking Cloud
-* Summon Fey Spirit (UA)
-* Summon Shadow Spirt (UA)
-* Summon Undead Spirit (UA)
-* Tidal Wave
-* Tongues
-* Vampiric Touch
-* Wall of Sand
-* Wall of Water
-* Water Breathing
+* spirit shroud
+* stinking cloud
+* summon fey spirit (UA)
+* summon shadow spirt (UA)
+* summon undead spirit (UA)
+* tidal wave
+* tongues
+* vampiric touch
+* wall of sand
+* wall of water
+* water breathing
 
 ## 4th Level
 * Arcane Eye
