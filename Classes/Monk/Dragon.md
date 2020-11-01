@@ -29,8 +29,7 @@ Monk Levels|Maximum Ki Points for a Spell
 17th-20th|6
 
 ## Draconic Disciplines
-The draconic disciplines are listed in alphabetical order. If a discipline requires a level, you must be that level in this class
-to learn the discipline.
+The draconic disciplines are listed in alphabetical order. If a discipline requires a level, you must be that level in this class to learn the discipline.
 
 * **Dragon's Breath** *(6th Level Required)*. You can spend 3 ki points to cast [dragon's breath]().
 * **Dragon's Charm** *(6th Level Required)*. You can spend 3 ki points to cast [charm person]().
@@ -52,6 +51,6 @@ to learn the discipline.
 * **Path of the Copper Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [wall of stone]().
 * **Path of the Gold Wyrm** *(17th Level Required)*. You can spend 6 ki points to gain the foresight of the gold wyrm. For as long as you maintain concentration (as if concentrating on a spell), for up to one minute, your attack rolls have advantage and attack rolls against you have disadvantage.
 * **Path of the Green Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [geas]().
-* **Path of the Red Wyrm** (17th Level Required). You can spend 6 ki points to cast [immolation]().
+* **Path of the Red Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [immolation]().
 * **Path of the Silver Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [cone of cold]().
-* **Path of the White Wyrm** (17th Level Required). You can spend 6 ki points to cast [cone of cold]().
+* **Path of the White Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [cone of cold]().

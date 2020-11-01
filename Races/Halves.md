@@ -46,8 +46,6 @@ Half-elves may be [dragonmarked](Dragonmarked.md) with the Mark of Detection or 
 
   * **Sky Elf**. Your elvish parent came from Sky Elf (avariel) stock. ???
 
-### Half-elvish Racial Feats
-
 
 ## Half-Orcs
 When alliances between humans and orcs are sealed by marriages, half-orcs are born. Some half-orcs rise to become proud chiefs of orc tribes, their human blood giving them an edge over their full-blooded orc rivals. Some venture into the world to prove their worth among humans and other more civilized races. Many of these become adventurers, achieving greatness for their mighty deeds and notoriety for their barbaric customs and savage fury.
