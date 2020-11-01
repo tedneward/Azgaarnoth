@@ -175,6 +175,7 @@ At 3rd level, you choose to emulate the ideals and training of a ranger conclave
 * [Beast Master](Ranger/BeastMaster.md)
 * [Deep Stalker](Ranger/DeepStalker.md)
 * [Dragonstalker](Ranger/Dragonstalker.md)
+* [Drakewarden](Ranger/Drakewarden.md)
 * [Fey Wanderer](Ranger/FeyWanderer.md)
 * [Gloom Stalker](Ranger/GloomStalker.md)
 * [Horizon Walker](Ranger/HorizonWalker.md)
