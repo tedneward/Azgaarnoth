@@ -25,7 +25,7 @@ Deity | Description |Alignment | Domains | Symbol
 [Lathander](Pantheon/Lathander.md)|God of birth and renewal|NG|Life, Light|Road traveling into a sunrise
 [Lugh](Pantheon/Lugh.md)|God of arts, travel, and commerce|CN|Knowledge, Life|Pair of long hands
 [Malar](Pantheon/Malar.md)|God of the hunt|CN|Nature|Clawed paw
-[Milil](Pantheon/Milil.md)|God of poetry and song|NG|Light, Trickery|Five-stringed harp made of leaves
+[Milil](Pantheon/Milil.md)|Goddess of poetry and song|NG|Light, Trickery|Five-stringed harp made of leaves
 [Onatar](Pantheon/Onatar.md)|God of craft|NG|Fire, Forge, Knowledge|Crossed hammer and tongs
 [Pelor](Pantheon/Pelor.md)|God of sun, summer, agriculture, and time|LG|Light, Life, Nature|Blazing sunburst
 [Sashelas](Pantheon/Sashelas.md)|God of the sea|CG|Nature, Tempest, Water|Dolphin

@@ -1,5 +1,4 @@
 # Sorcerous Origin: Fire Speakers
-
 Your innate magic comes from the power of elemental fire. Perhaps you were born near a volcano or during a raging firestorm nearby that decimated an entire forest. Your lineage might include the influence of a potent creature of fire such as efreeti. Whatever the case, the magic of the flame permeates your soul, and you can hear the whispers of the flame speaking to you.
 
 Firespeakers are invaluable members to a variety of different groups--a firespeaker can coax much hotter flame out of a normal forge, allowing them to more effectively coax the shape desired out of the metal, for example. Their abilities also prove useful in repelling attacks by anything harmed by fire, although they are at their weakest when confronted by creatures of water.

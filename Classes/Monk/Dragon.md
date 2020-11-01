@@ -3,6 +3,10 @@ The monks who follow the Way of the Dragon learn to channel their ki to emulate 
 
 Rumors swirl around these monks, usually around the idea that a dragon is at the head of a monastary studying the Way of the Dragon. Regardless of the truth of that, each Dragon monastery studies a particular dragon type, and that dragon's type will have an enormous sway over the monks of that monastary; not only on what disciplines they study, but on their actions within the wider world.
 
+This monastic tradition is different from the [Way of the Ascendant Dragon](AscendantDragon.md), in that this tradition is one which studies dragonkind as a whole, rather than a particular species (within the chromatic or metallic spectrum). The Ascendant Dragons believe their style provides greater versatility, and thus, superior skill.
+
+Dragon monks are often closely associated with the [Cult of the Wyrm](/Organizations/CultOfTheWyrm.md), largely because many of the Dragon monasteries are, in fact, run by Wyrmcult dragons. However, this does not mean all Dragon monks are evil--far from it. Many would be horrified to find they were in fact perpetrating the actions of evil. Nevertheless, Dragon tradition monks can often be found allied with the Wyrmcult, and as such frequently find themselves at odds with the [Knights of the Draconic Order](/Organizations/DraconicOrder/DraconicOrder.md), at least at first.
+
 ## Dragon Disciple
 When you choose this discipline at 3rd level, you learn draconic disciplines that teach you to channel your ki to harness draconic techniques. A discipline requires you to spend ki points each time you use it. 
 
@@ -25,8 +29,7 @@ Monk Levels|Maximum Ki Points for a Spell
 17th-20th|6
 
 ## Draconic Disciplines
-The draconic disciplines are listed in alphabetical order. If a discipline requires a level, you must be that level in this class
-to learn the discipline.
+The draconic disciplines are listed in alphabetical order. If a discipline requires a level, you must be that level in this class to learn the discipline.
 
 * **Dragon's Breath** *(6th Level Required)*. You can spend 3 ki points to cast [dragon's breath]().
 * **Dragon's Charm** *(6th Level Required)*. You can spend 3 ki points to cast [charm person]().
@@ -48,6 +51,6 @@ to learn the discipline.
 * **Path of the Copper Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [wall of stone]().
 * **Path of the Gold Wyrm** *(17th Level Required)*. You can spend 6 ki points to gain the foresight of the gold wyrm. For as long as you maintain concentration (as if concentrating on a spell), for up to one minute, your attack rolls have advantage and attack rolls against you have disadvantage.
 * **Path of the Green Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [geas]().
-* **Path of the Red Wyrm** (17th Level Required). You can spend 6 ki points to cast [immolation]().
+* **Path of the Red Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [immolation]().
 * **Path of the Silver Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [cone of cold]().
-* **Path of the White Wyrm** (17th Level Required). You can spend 6 ki points to cast [cone of cold]().
+* **Path of the White Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [cone of cold]().

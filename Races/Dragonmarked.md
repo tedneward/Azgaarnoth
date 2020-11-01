@@ -43,7 +43,7 @@ The Mark of Detection manifests exclusively on half-elves. If your character has
 
 * Deductive Intuition. When you make an Intelligence (Investigation) or Wisdom (Insight) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
 
-* Sense Threats. You can cast the detect magic and detect poison and disease spells, but only as rituals. Intelligence is your spellcasting ability for these spells.
+* Sense Threats. You can cast the *detect magic* and *detect poison and disease* spells, but only as rituals. Intelligence is your spellcasting ability for these spells.
 
 * Languages. You can speak, read, and write Common and Elvish.
 
