@@ -7,12 +7,13 @@
 
 **Speed** 20 ft., fly 60 ft.
 
-STR DEX CON INT WIS CHA
-18 (+4) 6 (-2) 18 (+4) 3 (-4) 6 (-2) 5 (-3)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+18 (+4)|6 (-2) |18 (+4)|3 (-4) |6 (-2) |5 (-3)
 
 **Senses** darkvision 60 ft., passive Perception 8
 
-((Languages)) Understands the languages of its creator but can't speak
+**Languages** Understands the languages of its creator but can't speak
 
 **Challenge** 6 (2,300 XP)
 

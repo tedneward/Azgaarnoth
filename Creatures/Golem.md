@@ -4,7 +4,8 @@ Armor Class 15 (natural armor)
 Hit Points 11 (2d8+2)
 Speed 25 ft.
 
-STR DEX CON INT WIS CHA
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
 14 (+2) 12 (+1) 12 (+1) 3 (–4) 8 (–1) 1 (–5)
 
 Damage Immunities poison, psychic

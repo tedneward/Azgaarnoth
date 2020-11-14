@@ -25,6 +25,16 @@
 
 **Furtive.** The giant can take the Hide action as a bonus action on each of its turns.
 
+**Land's Stride**. Moving through nonmagical difficult terrain costs the forest giant no extra movement. They can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard. In addition, they have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell.)
+
+**Hide in Plain Sight**. The forest giant can magically camouflage themselves to hide by pressing up against a solid surface, such as a tree or wall, that is at least as tall and wide as they are. The giant gains a +10 bonus to Dexterity (Stealth) checks as long as they remain there without moving or taking actions.
+
+**Innate Spellcasting**. The giant's innate spellcasting ability is Wisdom (spell save DC 15). It can innately cast the following spells, requiring no material components:
+
+*At will*: barksin, freedom of movement, plant growth, spider climb
+
+*3/day each*: call lightning, pass without trace, speak with plants
+
 ## Actions
 **Multiattack.** The giant makes two attacks with its spear.
 

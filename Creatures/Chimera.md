@@ -1,4 +1,4 @@
-# Chimera (white)
+# Chimera (chromatic)
 *Large monstrosity, chaotic evil*
 
 **Armor Class** 14 (Natural Armor)

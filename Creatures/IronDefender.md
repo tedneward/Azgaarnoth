@@ -1,14 +1,15 @@
 # Creature: Iron Defender
-
 *Medium construct, neutral*
 
-Armor Class 15 (natural armor)
+**Armor Class** 15 (natural armor)
 
-Hit Points equal to five times [Battle Smith](/Classes/BattleSmith.md)'s level + [Battle Smith](/Classes/BattleSmith.md)'s Intelligence modifier + the iron defender’s Constitution modifier
+**Hit Points** equal to five times [Battle Smith](/Classes/BattleSmith.md)'s level + [Battle Smith](/Classes/BattleSmith.md)'s Intelligence modifier + the iron defender’s Constitution modifier
 
-Speed 40 ft.
+**Speed** 40 ft.
 
-**STR** 14 (+2) **DEX** 12 (+1) **CON** 14 (+2) **INT** 4 (−4) **WIS** 10 (+0) **CHA** 6 (−2)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+14 (+2)|12 (+1)|14 (+2)|4 (−4) |10 (+0)| 6 (−2)
 
 **Skills** Perception +4
 
