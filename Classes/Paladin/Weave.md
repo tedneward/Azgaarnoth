@@ -17,19 +17,19 @@ You gain Oath Spells at the Paladin levels listed:
 
 Paladin Level|Spells
 -------------|------
-3rd|[detect magic](), [shield of faith]()
-5th|[misty step](), [warding bond]()
-9th|[thunder step]()
-11th|[death ward](), [dimension door]()
-17th|[steel wind strike](), [teleportation circle]()
+3rd|[detect magic](https://www.dndbeyond.com/spells/detect-magic), [shield of faith](https://www.dndbeyond.com/spells/shield-of-faith)
+5th|[misty step](https://www.dndbeyond.com/spells/misty-step), [warding bond](https://www.dndbeyond.com/spells/warding-bond)
+9th|[thunder step](https://www.dndbeyond.com/spells/thunder-step)
+11th|[death ward](https://www.dndbeyond.com/spells/death-ward), [dimension door](https://www.dndbeyond.com/spells/dimension-door)
+17th|[steel wind strike](https://www.dndbeyond.com/spells/steel-wind-strike), [teleportation circle](https://www.dndbeyond.com/spells/teleportation-circle)
 
 ## Channel Divinity
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-**Dweomerbreaker**. When you use your Divine Smite feature, you can use your Channel Divinity as a bonus action to
+* **Dweomerbreaker**. When you use your Divine Smite feature, you can use your Channel Divinity as a bonus action to
 imbue that weapon with anti-magic energy bestowed by your deity. If the target takes damage from the attack, any spell that is on the target ends if it is of a level equal to or lower than the spell slot you expended for your Divine Smite.
 
-**Spellfire Shield**. When you make a successful saving throw against a spell, or a spell attack misses you, as a reaction you can use your Channel Divinity to reflect the spell onto an enemy. Choose the spellcaster or another creature you can see within 30 feet. The spell targets the chosen creature instead of you. If the spell forced a saving throw, the chosen creature makes its own save. If the spell was an attack, the same attack roll is rerolled against that creature.
+* **Spellfire Shield**. When you make a successful saving throw against a spell, or a spell attack misses you, as a reaction you can use your Channel Divinity to reflect the spell onto an enemy. Choose the spellcaster or another creature you can see within 30 feet. The spell targets the chosen creature instead of you. If the spell forced a saving throw, the chosen creature makes its own save. If the spell was an attack, the same attack roll is rerolled against that creature.
 
 ## Arcane Cantrips
 At 3rd level when you take this oath, choose one of the following cantrips: [blade ward](https://www.dndbeyond.com/spells/blade-ward), challenger’s mark, [booming blade](https://www.dndbeyond.com/spells/booming-blade), echoing blow, frostwind blade, greenflame blade, lightning lure, looming shadow, punishing strike, resistance, or sword burst. You learn that cantrip in addition to your paladin spells. At 11th level, you learn one additional cantrip from the same list.

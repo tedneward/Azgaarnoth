@@ -28,16 +28,12 @@ Sourcebooks used, all D&D 5th Edition unless noted otherwise:
 * "Dungeon Master's Guide"
 * "Mordenkainen's Tome of Foes"
 * "Xanathar's Guide to Everything"
-* Unearthed Arcana supplements:
-  * "*Psionics_and_Mystic_V2.pdf*"
-  * "*UA-RuneSwarmRevived.pdf*"
-  * "*UA2020_PsionicOptions.pdf*"
-  * "*UAMystic3.pdf*"
 * "*Blackstaff's Tome of Wizardry*" (from DMs Guild)
+* "*Elminster's Guide to Magic*" (from DMs Guild)
 * "*The Book of Dragons*" (written by Conner McCall)
 * "*Disturbed Graves*" (from DMs Guild)
-* "*Elminster's Guide to Magic*" (from DMs Guild)
 * "*Grimlore's Grimoire*" (from DMs Guild)
+* And a great many of the Unearthed Arcana supplements, as noted
 
 All copyrights are held by their respective owners; I have only included the PDFs of freely-available material from the D&D website as a convenience to my players, and anyone not a part of my play group should obtain the materials from there, instead.
 

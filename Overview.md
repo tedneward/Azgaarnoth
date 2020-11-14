@@ -1,7 +1,7 @@
 # Welcome to Azgaarnoth
-**Population**: ~35 million
+**Population**: ~35 million (not counting those not under census; all told, probably closer to ~70 million)
 
-**Area**: ~5.5 million square miles
+**Area**: ~5.5 million square miles of land
 
 **States**: 15
 
