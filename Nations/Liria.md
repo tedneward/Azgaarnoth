@@ -11,8 +11,6 @@ Liria is also a nation that is collapsing at the seams, with a very weak central
 
 If Liria could ever see a strong leader emerge onto its Imperial Throne, it is likely that the nation could be re-forged into a single entity, and Liria might be able to recapture much of its former glory. Beset with all of the battles on all of its fronts, however, Liria struggles to make gains, and as such sits on the edge of either chaos or resurgence.
 
-40% human, 15% dwarven, 15% elven, 15% halfing, 10% Created (dragonborn, tiefling, aasimari), and the remainder a smattering of just about every race found anywhere Azgaarnoth. Even Hordes races can be found living in Liria, usually under a cloud of suspicion within the cities.
-
 ## Relations
 [**Alalihat**](/Nations/Alalihat.md): Strained. Lirians in general don't think a great deal about Alalihatian theology, and find their insistence on matters of ancient history to be tiring and irrelevant. The average Lirian would rather focus on the modern problem, rather than pining after the past.
 
