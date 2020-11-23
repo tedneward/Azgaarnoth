@@ -4,6 +4,8 @@
 **Features:** Port, Walled, Marketplace, Shantytown
 
 ## Geography
+![Brinwal and surrounds](Brinwal-Shimberg.jpeg)
+
 Brinwal is a small city on the western coast of the Ravensound, just south of [Stagrorest](Stagrorest.md). A major trade road, the Dawn Way, connects Brinwal to [Shimberg](Shimberg.md), and Brinwal has a major port that handles shipping all up and down the Ravensound. Numerous towns and villages dot the lands around Brinwal, particularly along the Dawn Way. The Wyrmsmoke mountains lie to the west and southwest of Brinwal, forming a barrier between it and Lions Plains.
 
 The Elsir River runs from the Ravensound west, into the Wyrmsmoke mountains, with numerous smaller tributaries feeding many of the villages and towns around the area.
