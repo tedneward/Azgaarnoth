@@ -1,5 +1,9 @@
 # Dradehalia / Dradehalian Empire / "Dread Empure"
 
+## Geography
+![Dradehalian geography](Dradehalia.jpeg)
+
+
 ## Relations
 [Alalihat](/Nations/Alalihat.md):
 [Almalz](/Nations/Almalz.md):

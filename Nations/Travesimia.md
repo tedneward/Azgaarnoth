@@ -1,6 +1,10 @@
 # Travesimia / Kingdom of Travesimia
 Capital: [Dirter](/Cities/Dirter.md)
 
+## Geography
+![Travesimian geography](Travesimia.jpeg)
+
+
 ## Relations
 [Alalihat](/Nations/Alalihat.md):
 [Almalz](/Nations/Almalz.md):

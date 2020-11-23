@@ -1,6 +1,10 @@
 # Travenia / The Travenian Oligarchy
 Capital: [Silbel](/Cities/Silbel.md)
 
+## Geography
+![Travenian geography](Travenia.jpeg)
+
+
 ## Relations
 [Alalihat](/Nations/Alalihat.md):
 [Almalz](/Nations/Almalz.md):

@@ -1,6 +1,10 @@
 # Bedia / The Kingdom of Bedia
 Capital: [Dradow](/Cities/Dradow.md)
 
+## Geography
+![Bedian geography](Bedia.jpeg)
+
+
 ## Relations
 [Alalihat](/Nations/Alalihat.md):
 [Almalz](/Nations/Almalz.md):

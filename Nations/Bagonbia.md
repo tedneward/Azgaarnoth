@@ -1,6 +1,9 @@
 # Bagonbia / The Kingdom of Bagonbia
 Capital: [Mis](/Cities/Mis.md)
 
+## Geography
+![Bagonbian geography](Bagonbia.jpeg)
+
 
 ## Relations
 [Alalihat](/Nations/Alalihat.md):

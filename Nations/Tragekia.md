@@ -1,6 +1,10 @@
 # Tragekia / The United Hordes
 Capital: [Swagab](/Cities/Swagab.md)
 
+## Geography
+![Tragekian geography](Tragekia.jpeg)
+
+
 ## Relations
 [Alalihat](/Nations/Alalihat.md):
 [Almalz](/Nations/Almalz.md):

@@ -15,6 +15,8 @@ In the centuries since, Mighalia has become something of a wonder to the rest of
 The quarter-million population of the city of Mighal is about as egalitarian as anywhere on the planet, with roughly an even mix of human, Created, Firstborn, and Horde. If ever there was a city that represented a true "melting pot" of the races, Mighal is it. Another quarter-million fill out the rest of the nation of Mighalia, and most of the surrounding towns, villages, and hamlets are far more integrated than most of their Lirian equivalents. While racial tensions are sometimes still prevalent, most Mighalians believe themselves to be "beyond" such things.
 
 ## Geography
+![Mighalian geography](Mighalia.jpeg)
+
 Mighalia--the city of Mighal and an area roughly 100 miles radius around it--sits at the southwestern end of the Mighalian Narrows, at the eastern end of the Lirian Highway and near the mouth of the Autumband River. Swampy marsh to the north makes Mighal difficult to approach overland, and the Miglenian mountain range to the southwest leaves the Highway the only viable land route to Mighal, and one that's relatively easily defended.
 
 The city itself is vast, and most of the land north of the Miglenian range is a collection of farms organized into hamlets, villages, towns, and even the odd small city. Like the rest of the Lirian Plains from which northern Mighalia was pulled from, the ground is often gently rolling hills and open plainslands, with ample moisture from rains and rivers providing plenty of fertile ground to grow a variety of crops or livestock.

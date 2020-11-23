@@ -11,6 +11,8 @@ While Yithi sought to bring the remaining tribes in the south under a direct, st
 Without a doubt, Zhi is the most evenly-populated nation in all of Azgaarnoth, if lightly so. Almost a million sentient beings are mostly evenly divided among her three larger provinces (the fourth, Cinhu, being by far the smallest by an order of magnitude), and generally the races intermingle freely and openly--it is extremely rare to find a "elves' quarter" or "halfling shire" anywhere within the borders of Zhi, although it is often that some of the racial styles are populated by a cross-section of races. In fact, in Yeqasha Province the halfling "shire" style of architecture--that of "halfling-holes" in the ground--is quite popular among all the races, as homes buried in ground are quite cool during the hottest parts of the day. Some have even found ways to farm the ground above their home.
 
 ## Geography
+![Zhian geography](Zhi.jpeg)
+
 Surrounded by water on three sides, the lands of Zhi are hot and wet. Swamps, marshlands, and grasslands dominate the geography of Zhi, making rice a staple for the diet of Zhis. Much of her goods are moved either over merchant shipping around the coastline, or over the Great Road that runs from [Nacoal](/Cities/Nacoal.md) to [Kraston](/Cities/Kraston.md).
 
 The geography suits the Zhis, however--their daily regiment will often consist of farming or other menial tasks in the mornings and evenings, when it is cool, retiring indoors to shade and breeze to study or meditate during the hottest parts of the day. Frequent rainstorms during the afternoons will often aid in the contemplation of the universe.

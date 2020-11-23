@@ -13,6 +13,8 @@ By the time Yithi lay on his deathbed in his tent, the nation he sought to creat
 
 
 ## Geography
+![Yithian geography](Yithi.jpeg)
+
 Geographically, Yithi is a large collection of rainforest, grasslands, and periodic stretches of swamp. A range of hills extend out from the end of the Daw Mountain range in western Yithi, but for the most part, the land is flat, hot, and wet. As one moves further south, the wetlands dry out, the forests become more deciduous, and the wetlands turn more into grasslands.
 
 The most dominant feature of Yithi, Lake Venerinat, is a cultural center of the nation; supposedly it was here, on its shores, that Yithi first began to give his public oration around a future of less war and more life. Legend holds that it was here, on the lake, that Yithi convinced the leaders of four other tribes to give his ideas a try, and it was here that the tribes forged the Five Nations Pact that created what would later become the Principality of Yihi. 

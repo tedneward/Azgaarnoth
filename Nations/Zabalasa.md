@@ -1,6 +1,9 @@
 # Zabalasa / Caliphate of Zabalasa
 Capital: [Svishek](/Cities/Svishek.md)
 
+## Geography
+![Zabalasan geography](Zabalasa.jpeg)
+
 (Arabic grasslands/plains)
 
 ## Relations

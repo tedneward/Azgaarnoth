@@ -1,6 +1,10 @@
 # Whaveminsia
 Capital: [Lashal](/Cities/Lashal.md)
 
+## Geography
+![Whaveminsian geography](Whaveminsia.jpeg)
+
+
 ## Relations
 [Alalihat](/Nations/Alalihat.md):
 [Almalz](/Nations/Almalz.md):

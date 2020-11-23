@@ -1,6 +1,7 @@
 # Mighal ([Mighalia](/Nations/Mighalia/md))
-Population: 235,000 -- 40% human, 40% firstborn, 15% Created, 5% Hordes
-Port, Citadel, Walled, Major trade center, Religious center, Shantytown
+**Population**: 235,000 -- 40% human, 40% firstborn, 15% Created, 5% Hordes
+
+**Features:** Port, Citadel, Walled, Major trade center, Religious center, Shantytown
 
 The Free City of Mighal is the capital of [Mighalia](/Nations/Mighalia.md), though most just use the name Mighal to refer to the city and its surrounds. An open city of magic and the home to most of the world's mage schools, it is also home to numerous merchant guilds and mercenary companies, and likely a number of other more shadowy organizations.
 
