@@ -5,6 +5,7 @@ Port, Citadel, Walled, Marketplace, Shantytown
 Stagraven sits at an important juncture: the southern end of the Ravensound, and the southwestern point of the Daw Mountains, it also marks the southern "border" of the Ravenslands and the last point of civilization along the Ravensroad that (more or less) travels down the western coast of Liria before one crosses the Daws to get to Dawsilent.
 
 ## Geography
+![Stagraven and surrounds](Stagraven.jpeg)
 
 ## Authority Figures
 * *Baron Stagraven*: Lord [Torshon Ciallin](/People/TorshonCiallin.md) (Human Male Fighter (Swashbuckler) 5, LN)
@@ -61,7 +62,7 @@ A guild from [Storber](Storber.md), the Golden Skull Guild, has made a play for 
 * Bailan Ranthar: smuggling/shipping
 * Anyra Lasenther: intelligence/seduction/recruitment
 
-These five have all recently perished, and with their detahs the Golden Skull's momentum has broken.
+These five have all recently perished, and with their deaths the Golden Skull's momentum has broken.
 
 ## Mage Schools
 * The [Animalists](/Organizations/MageSchools/Animalists.md) maintain a "school" here, though they tend to be out of the city most days; they are in close ties with a small, local [Circle of the Shepherd](/Classes/Druid/Shepherd.md) circle led by Kathendrion Orrental (Half-orc Druid (Shepherd) 14, NG) who often aids them in escorting large wild predators away from city limits.
