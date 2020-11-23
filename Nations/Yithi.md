@@ -77,7 +77,7 @@ The twenty-four tribes of the Yithi; each corresponds to one of the cities withi
 
 * Zisarlaarlathi:
 
-Yithi's own tribe, which named itself after him, built [Kraston](/Cities/Kraston.md), but then disbanded as a tribe, charged by Yithi to form a different set of tribes, "homeless" in nature, that would govern the provinces of the cities but be forced to live within the tribal boundaries of those city-hosting tribes:
+  Yithi's own tribe, which named itself after him, built [Kraston](/Cities/Kraston.md), but then disbanded as a tribe, charged by Yithi to form a different set of tribes, "homeless" in nature, that would govern the provinces of the cities but be forced to live within the tribal boundaries of those city-hosting tribes:
 
 * Zachoqal:
 
@@ -97,33 +97,33 @@ Yithi's own tribe, which named itself after him, built [Kraston](/Cities/Kraston
 
 * Athaladatu:
 
-These "homeless" tribes provide tribal structure to those who find themselves cast out of a tribe elsewhere within Yithi. These are associated to the provinces themselves, as opposed to a city within the province, and frequently the provincial Governor is the Chieftain of these tribes (although not always); Yithi deliberately arranged this system so that the "homeless" tribes would have a check against the power of the tribal Chieftains in the cities, and for the most part the distinction has served the Principality well.
+  These "homeless" tribes provide tribal structure to those who find themselves cast out of a tribe elsewhere within Yithi. These are associated to the provinces themselves, as opposed to a city within the province, and frequently the provincial Governor is the Chieftain of these tribes (although not always); Yithi deliberately arranged this system so that the "homeless" tribes would have a check against the power of the tribal Chieftains in the cities, and for the most part the distinction has served the Principality well.
 
 ## Relations
-**[Alalihat](/Nations/Alalihat.md)**: While not quite as fervent about exterminating the Principality as [Zalabasa](Zalabasa.md) is, Alalihat definitely has no love for the ex-Hordes nation to its east. Alalihatian sailors, too, find the [Sea Reavers](/Organizations/MercCompanies/SeaReavers.md) a constant irritant, and constantly urge the Caliphate to take stronger action against those pirates.
+**[Alalihat](/Nations/Alalihat.md)**: Neutral. While not quite as fervent about exterminating the Principality as [Zalabasa](Zalabasa.md) is, Alalihat definitely has no love for the ex-Hordes nation to its east. Alalihatian sailors, too, find the [Sea Reavers](/Organizations/MercCompanies/SeaReavers.md) a constant irritant, and constantly urge the Caliphate to take stronger action against those pirates.
 
-**[Almalz](/Nations/Almalz.md)**: Of all the nations of the [Al'Uma](/Religions/AlUma.md), Almalz is the least hostile to the Principality, and Yithi sees no reason to worsen that relationship; they also, however, see no reason to improve it, particularly given the deep philosophical differences between the Prophet and the Seers.
+**[Almalz](/Nations/Almalz.md)**: Friendly. Of all the nations of the [Al'Uma](/Religions/AlUma.md), Almalz is the least hostile to the Principality, and Yithi sees no reason to worsen that relationship; they also, however, see no reason to improve it, particularly given the deep philosophical differences between the Prophet and the Seers.
 
 [Bagonbia](/Nations/Bagonbia.md): Neutral.
 
-[Bedia](/Nations/Bedia.md):
+[Bedia](/Nations/Bedia.md): Apathetic.
 
-**[Dradehalia](/Nations/Dradehalia.md)**: Yithi's heritage means the [Dread Emperor](/People/DreadEmperor.md) will never trust the Principality completely, and currently he seems convinced that Yithi, [Tragekia](Tragekia.md), and [Ulm](Ulm.md) are secretly brokering an alliance to destroy his nation. As such, relations with Yithi are close to open hostility, and are not aided by the constant predations of the [Sea Reavers](/Organizations/MercCompanies/SeaReavers.md).
+**[Dradehalia](/Nations/Dradehalia.md)**: Suspicious. Yithi's heritage means the [Dread Emperor](/People/DreadEmperor.md) will never trust the Principality completely, and currently he seems convinced that Yithi, [Tragekia](Tragekia.md), and [Ulm](Ulm.md) are secretly brokering an alliance to destroy his nation. As such, relations with Yithi are close to open hostility, and are not aided by the constant predations of the [Sea Reavers](/Organizations/MercCompanies/SeaReavers.md).
 
-[Liria](/Nations/Liria.md):
+[Liria](/Nations/Liria.md): Concerned.
 
-[Mighalia](/Nations/Mighalia.md):
+[Mighalia](/Nations/Mighalia.md): Friendly.
 
-**[Tragekia](/Nations/Tragekia.md)**: When the United Hordes chose to follow some of the same path as Yithi, the Yithi chose to respond with cautious optimism. The two nations are not friendly, having had too many years of near-constant warfare with one another to be truly trusting, but currently the two have avoided conflict for close to a century, and their shared racial legacies do leave some room for either growth or renewed hostilities.
+**[Tragekia](/Nations/Tragekia.md)**: Suspicious. When the United Hordes chose to follow some of the same path as Yithi, the Yithi chose to respond with cautious optimism. The two nations are not friendly, having had too many years of near-constant warfare with one another to be truly trusting, but currently the two have avoided conflict for close to a century, and their shared racial legacies do leave some room for either growth or renewed hostilities.
 
-[Travenia](/Nations/Travenia.md):
+[Travenia](/Nations/Travenia.md): Apathetic.
 
-**[Travesimia](/Nations/Travesimia.md)**:
+**[Travesimia](/Nations/Travesimia.md)**: Apathetic.
 
-**[Ulm](/Nations/Ulm.md)**: Yithi and Ulm are in a near-constant state of warfare, and members of each nation hate and loathe the other on sight. Yithi sees Ulm as everything they sought to evolve away from; Ulm sees Yithi as a constant reminder of weakness and failure.
+**[Ulm](/Nations/Ulm.md)**: Hostile. Yithi and Ulm are in a near-constant state of warfare, and members of each nation hate and loathe the other on sight. Yithi sees Ulm as everything they sought to evolve away from; Ulm sees Yithi as a constant reminder of weakness and failure.
 
-**[Whaveminsia](/Nations/Whaveminsia.md)**:
+**[Whaveminsia](/Nations/Whaveminsia.md)**: Apathetic.
 
-**[Zabalasa](/Nations/Zabalasa.md)**: The Zalabasans still see the Yithi as the inheritors of the legacy of the Hordes, and the long conflict between the Hordes and Eldar mean, to the Zalabasans, that there is a moral imperative to crush Yithi. Thus, Zalabasa currently stands in open war against Yithi, creating a constant set of tension and open battles along Yithi's western border. Practically, the war is at something of a standstill, as the Zabalasans are not yet comfortable with operating out of the Daw Mountains, and the Yithi are really not all that interested in pushing west except to reclaim lands west of the Srontacha and Szacah Rivers. (The Dheubpurwen tribe has territorial ambitions to the west, to be sure, but for the most part those are thwarted in the Prince's Council in the name of attempts at peace with Zabalasa.) In particular, Zabalasa has yet to find a way to crack the three-city fortress line of Dheubpurwen, Jernovalrimi, and Krikal, and the longer the Yithi have to fortify those positions, the less likely the war will progress beyond that line. At sea, Yithi ships generally win out in combats over the Zabalasan vessels, and the [Sea Reavers](/Organizations/MercCompanies/SeaReavers.md)  
+**[Zabalasa](/Nations/Zabalasa.md)**: Hostile. The Zalabasans still see the Yithi as the inheritors of the legacy of the Hordes, and the long conflict between the Hordes and Eldar mean, to the Zalabasans, that there is a moral imperative to crush Yithi. Thus, Zalabasa currently stands in open war against Yithi, creating a constant set of tension and open battles along Yithi's western border. Practically, the war is at something of a standstill, as the Zabalasans are not yet comfortable with operating out of the Daw Mountains, and the Yithi are really not all that interested in pushing west except to reclaim lands west of the Srontacha and Szacah Rivers. (The Dheubpurwen tribe has territorial ambitions to the west, to be sure, but for the most part those are thwarted in the Prince's Council in the name of attempts at peace with Zabalasa.) In particular, Zabalasa has yet to find a way to crack the three-city fortress line of Dheubpurwen, Jernovalrimi, and Krikal, and the longer the Yithi have to fortify those positions, the less likely the war will progress beyond that line. At sea, Yithi ships generally win out in combats over the Zabalasan vessels, and the [Sea Reavers](/Organizations/MercCompanies/SeaReavers.md)  
 
-**[Zhi](/Nations/Zhi.md)**: Where Yithi is a nation built around practicality and progress, Zhi is a nation of stargazing and mysticism, and as such the two nations see each other as useful complements to the whole. The two nations have shared history, shared culture, and their connections and relationships are deeply intertwined.
+**[Zhi](/Nations/Zhi.md)**: Allied. Where Yithi is a nation built around practicality and progress, Zhi is a nation of stargazing and mysticism, and as such the two nations see each other as useful complements to the whole. The two nations have shared history, shared culture, and their connections and relationships are deeply intertwined.

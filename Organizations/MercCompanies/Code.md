@@ -1,6 +1,5 @@
 # Mercenary's Code
-
-When discussed, most mercenaries agree that the Code consists of the following:
+While the Code has yet to be fully formalized into law, the Mercenary Bond Council has made it clear that at a minimum, the Code consists of the following:
 
 * "Surrender is always an option." Once offered, it must be accepted, and it must be honored. A surrendering company must immediately move to vacate the battlefield. Victors may offer the surrendered company field support (healing, food/water, etc), but the offer is not required, nor is acceptance.
 * "Death is not the only victory." Most mercenary companies will battle by maneuver, seeking to put opposing forces into an untenable position rather than win by sheer attrition or casualties.
