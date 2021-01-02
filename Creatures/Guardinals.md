@@ -21,7 +21,7 @@ Planar Creatures. Despite not being celestials, elementas or fiends, guardinals 
 
 ***Roleplay tips for guardinals:*** A guardinal should always be finding the silver lining in a situation. They’re always smiling, enjoying themselves, whatever situation they find themselves in. They’re fun and kind when treated as equals and with respect. However, any sign of an evil deed will have them as quick to act as a bulwark, placing themselves directly between that evil and its goals.
 
-
+---
 
 ## Avoral
 *Medium monstrosity, neutral good*
@@ -74,8 +74,7 @@ Planar Creatures. Despite not being celestials, elementas or fiends, guardinals 
 #### Description
 With unmatched eyesight, the avoral are the perfect scouts for the guardinals. Their great skill at flying, mixed with excellent spellcasting, make them revered wherever they go. Rarely found alone, those that are alone are typically on an important mission, otherwise, they’re generally found in the company of other guardinals.
 
-
-
+---
 
 ## Cerdeval
 *Medium monstrosity, neutral good*
@@ -126,7 +125,7 @@ With unmatched eyesight, the avoral are the perfect scouts for the guardinals. T
 #### Description
 The ram-headed cerdeval are said to resemble satyrs, a statement they’ll outright and flatly deny. Perhaps the differences are subtle, but it is more likely that of all the guardinals, the cerdeval have the most pride. Contrary to their powerful physical build, most cerdeval prefer to avoid conflict whenever possible through the use of their magic.
 
-
+---
 
 ## Equinal
 *Large monstrosity, neutral good*
@@ -177,7 +176,7 @@ The ram-headed cerdeval are said to resemble satyrs, a statement they’ll outri
 #### Description
 The most reserved of the guardinals, the equinal is a deadly warrior. Able to survive damage that would end lesser creatures, they spend most of their lives perfecting a specific art, honing it in the same way they would their martial prowess. Warrior poets, artists, and songwriters are common ways of life for an equinal.
 
-
+---
 
 ## Leonal
 *Medium monstrosity, neutral good*
@@ -230,7 +229,7 @@ The most reserved of the guardinals, the equinal is a deadly warrior. Able to su
 Leonals are charismatic, natural leaders, and paragons of bravery. The leonals are exceptional combatants, with powerful magic to back their natural weapons. When found with other guardinals, they take on a commanding role. When found alone, they’re often in a self-exile, searching for meaning in the universe.
 
 
-
+---
 
 ## Lupinal
 *Medium monstrosity, neutral good*
@@ -284,7 +283,7 @@ Leonals are charismatic, natural leaders, and paragons of bravery. The leonals a
 #### Description
 The wolf-headed lupinal is an incomparable hunter; tracking down prey unerringly and quickly finishing them off. Lupinals very rarely congregate, with the sole exception of grand hunts. When a lupinal has found very difficult prey, they’ll often seek out other lupinals to assist them.
 
-
+---
 
 ## Musteval
 *Tiny monstrosity, neutral good*
@@ -328,7 +327,7 @@ The wolf-headed lupinal is an incomparable hunter; tracking down prey unerringly
 #### Description
 Resembling mice, rats, or ferrets, the rodent-headed musteval is the lowest order of guardinal and one the most recent additions.  Unlike other guardinals, they tend to find packs to travel with, rarely adventuring alone.
 
-
+---
 
 ## Ursinal
 *Large monstrosity, neutral good*

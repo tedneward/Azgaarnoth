@@ -199,11 +199,11 @@ After a few years in combat as part of the tribe or Legion, a hobgoblin warrior 
 **Javelin (Ranged).** Ranged Weapon Attack: +9 to hit, reach 30/120 ft., one target. Hit: (1d6 + 3) piercing damage.
 
 **Leadership (Recharges after a Short or Long Rest).** For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is incapacitated.
-**Leadership** *(Recharges after a Short or Long Rest)*. For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is incapacitated.
 
 #### Description
+Hobgoblin Captains are the sub-commanders of the Warlords, and are often given high-level missions to carry out on the behalf of the Legion without requiring oversight. It is not uncommon to see a Captain in charge of hundreds of Hobgoblin Regulars and Veterans, with a half-dozen or more Sergeants to carry out more specific orders, supported by a half-dozen Devastators or War Adepts.
 
-
+> Aside from the troops they command, Captains are often powerful warriors in their own right, and many have adventured solo or undertaken other activities to increase their personal martial skill; any such additional levels of Fighter would add on to this template.
 
 ---
 
@@ -251,6 +251,8 @@ After a few years in combat as part of the tribe or Legion, a hobgoblin warrior 
 #### Description
 Hobgoblin Warlords are the leaders of Legions, or the direct subcommanders of those that do. Warlords are cunning, clever, and well-versed in the arts of war, having spent decades under arms and leading warriors.
 
+> Aside from the troops they command, Warlords are often powerful warriors in their own right, and many have adventured solo or undertaken other activities to increase their personal martial skill; any such additional levels of Fighter would add on to this template.
+
 ---
 
 ## Bladebearer
@@ -286,7 +288,9 @@ Hobgoblin Warlords are the leaders of Legions, or the direct subcommanders of th
 **Heavy Crossbow**. Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.
 
 #### Description
-Hobgoblin Bladebearers are the solitary, legendary warriors of the hobgoblin species, spending hours in solitary training and meditation around nothing but combat and the mastery of the form. When pressed, they can use crossbows for ranged combat, but would much prefer to engage with their blades--and most of all against what appears to be the most skilled of the opponents facing them.
+Hobgoblin Bladebearers are the solitary, legendary warriors of the hobgoblin species, spending hours in intense training and meditation around nothing but combat and the mastery of the form. When pressed, they can use crossbows for ranged combat, but would much prefer to engage with their blades--and most of all against what appears to be the most skilled of the opponents facing them.
+
+> Bladebearers are often powerful warriors in their own right, and many have adventured solo or undertaken other activities to increase their personal martial skill; any such additional levels of Fighter would add on to this template. Many choose to specialize; the most popular specialization classes being [Weapon Master](/Classes/Fighter/WeaponMaster.md) and [Duelist](/Classes/Fighter/Duelist.md), but many also explore the mysteries of the [Psi Knight](/Classes/Fighter/PsiKnight.md), and a rare few have taken up the cause of the [Samurai](/Classes/Fighter/Samurai.md), particularly in the East.
 
 Among the [Tragedian United Hordes](/Nations/Tragekia.md), Bladebearers are known to participate and be members of the various [Dueling Colleges](/Organizations/DuelingColleges.md) there. Some will occasionally wander into [Liria](/Nations/Liria.md) in similar pursuit, though often meet with high amounts of distrust and unease, particularly if (when) they win.
 
@@ -460,7 +464,7 @@ It is rumored that the Order of Iron Shadows is organized precisely along the sa
 **Shortsword.**
 
 #### Description
-The Mindbenders are Hobgoblin bards that serve as political officers across the Hobgoblin ranks. Among other Hobgoblins, they look to persuade the members of the Legions to act steadfast and true to the cause, as well as "re-educating" those Hobgoblins that seem to question or doubt. The Mindbenders are an offshoot of the [College of Whispers](/Classes/Bard/Whispers.md), and likely a direct copy of that bardic school.
+The Mindbenders are Hobgoblin bards that serve as political officers across the Hobgoblin ranks. Among other Hobgoblins, they look to persuade the members of the Legions to act steadfast and true to the cause, as well as "re-educating" those Hobgoblins that seem to question or doubt. The Mindbenders are an offshoot of the [College of Whispers](/Classes/Bard/Whispers.md), and likely the result of a direct copy of that bardic college by Hobgoblin spies millennia ago.
 
 ---
 
