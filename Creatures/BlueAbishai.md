@@ -26,8 +26,8 @@
 **Challenge** 7 (2,900 XP)
 
 **Innate Spellcasting.** The abishai’s innate spellcasting ability is Charisma (spell save DC 14). The abishai can innately cast the following spells, requiring no material components:
-* *At will* *cause fear*, *disguise self*, *minor illusion*, *suggestion*
-* *3/day (each)* *animate dead*, *charm person*, *command*, *hold person*, *dominate monster*
+* *At will*: *cause fear*, *disguise self*, *minor illusion*, *suggestion*
+* *3/day (each)*: *animate dead*, *charm person*, *command*, *hold person*, *dominate monster*
 
 **Devil's Sight.** Magical darkness doesn't impede the abishi’s darkvision.
 
@@ -35,7 +35,7 @@
 
 **Regeneration.** The devil regains 7 hit points at the start of its turn if it has at least 1 hit point.
 
-## Actions
+#### Actions
 **Multiattack.** The devil makes two claw attacks, one bite attack, and one sting attack.
 
 **Claw.** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 3 (1d4+1) slashing damage.

@@ -1,6 +1,8 @@
 # Aristocrat
 *Male or female humanoid, any alignment*
 
+Aristocrats can be found in any ruling environment, of a variety of different races. Whether advisors to the King, chiefs to the Clan-Chief, or dandies to the Council, aristocrats are those who have reached the middle levels of political power, and use that for the benefit of the people and themselves and their families, in varying order.
+
 ## Aristocrat 1
 **Armor Class**: 13 (Padded)
 

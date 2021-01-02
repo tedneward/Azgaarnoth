@@ -23,12 +23,14 @@
 
 **Magic Resistance.** The achaierai has advantage on saving throws against spells and other magical effects.
 
-## Actions
+#### Actions
 **Multiattack.** The achaierai makes three attacks: one with its beak and two with its claws.
 
 **Beak.** Melee Weapon Attack: +7 to hit, reach 10ft., one target. Hit: 18 (4d6+4) piercing damage.
 
 **Claws.** Melee Weapon Attack: +7 to hit, reach 10ft., one target. Hit: 11 (2d6+4) slashing damage. On a hit the target is grappled and restrained if its size is medium or smaller. A grappled target may, as an action, attempt to free itself by winning a Strength contest against the achaierai on each of its turns. The achaierai will always attack a grappled creature with its beak, having advantage on the attack roll. Only one creature may be grappled as the achaierai needs its other three legs to move.
 
-## Reactions
+#### Reactions
 **Black Cloud (3/day).** It releases a toxic black cloud when it feels threatened. Any creature within 10 feet immediately takes 14 (4d6) necrotic damage and become Poisoned. They must also succeed on a DC 15 Constitution saving throw or become Confused. The saving throw can be made at the end of each of the character's turns. If a creature succeeds on the initial saving throw or if the effect ends for it, it becomes immune to the effects of the confusion, but not to the poison damage.
+
+#### Description

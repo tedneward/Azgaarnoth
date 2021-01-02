@@ -33,11 +33,12 @@
 
 **Innate Spellcasting**. The barghest's innate spellcasting ability is Charisma (spell save DC 12). The barghest can innately cast the following spells, requiring no material components:
 
-*At will*: levitate, minor illusion, pass without trace
+* *At will*: levitate, minor illusion, pass without trace
+* *1/day each*: charm person, dimension door, suggestion
 
-*1/day each*: charm person, dimension door, suggestion
-
-## ACTIONS
+#### Actions
 **Bite**. Melee Weapon Attack (true form only): +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
 
 **Claws**. Melee Weapon Attack. +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
+
+#### Description

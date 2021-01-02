@@ -1,2 +1,30 @@
 # Merchant Guild: Slayer Conclave
 The Slayer Conclave is a merchant guild that offers a particular, unique service: the disposal of creatures that are otherwise too difficult for a village or town (or even a city) to deal with on their own. The Slayer Conclave, for a price, will handle any and all threats, including but not limited to: 
+
+* "feral" humanoids (trolls, shambling mounds, hags, etc)
+* "lesser" undead (skeletons, zombies, wraiths, ghouls, ghasts, ghosts, shadows, spectres, wights, banshees)
+* "intelligent" undead (revenants, mummies, vampires, death knights, lichs, dracolichs)
+* "monstrosities" (ankhegs, remorhazes, hydrae, medusae, gorgons, bullettes, basilisks, golems, oozes, purple worms)
+* lycanthropes
+* fiends (summoned demons and devils)
+
+... in short, anything that might hamper the existence of a village, township, or even a city. It is interesting to note that two sorts of threats are entirely "out-of-bounds" for the Conclave: dragons, and giants. No Conclave member will take a contract to eliminate either of those threats, regardless of type or degree of threat--and no Conclave member ever speaks why.
+
+Members of the Slayer Conclave frequently operate in pairs, wandering from town to town in search of creatures that require slaying, but the COnclave also maintains a permanent presence in large cities (usually population 10,000 or more), and particularly large "infestations" will require larger teams.
+
+Originally a small group of Monster Slayer Rangers, the Conclave grew from an informal, loose organization of isolated individuals to incorporate a more diverse membership, including members of all classes, and operate under more formalized contracts and rules. While individual slayer pairs may work off of verbal agreements, in many cases the Conclave will require formal contracts (most Conclave members carry copies of the standard contract form with them when they go out) which stipulate methods of payment, price guidelines, and expectations of the employers (such as recovery efforts and the return of effects) in the event of disaster.
+
+Members of the Slayer Conclave have recently (within the last several centuries) began to operate at sea, providing escort duties for merchant ships operating in the Deepwaters against the usual "creatures of the below", a relative departure from their usual land-based operations. These "Sea Slayers" draw very sharp distinction between "monsters" and more contemporary threats (pirates or warring national factions), and it is not uncommon for a pirate to run down a merchant, discover a Slayer pair or team on board their target, offer to take over the Slayer contract, and after the peaceful transition of the Slayer team to the merchant, either set the merchant free (which Slayers will often stipulate as part of the contract takeover) or "gently" plunder the merchant before turning it loose.
+
+## Contractual Terms
+Conclave contracts usually stipulate clauses to the effect of:
+
+* **All information regarding the target must be made available.** Holding out knowledge of the intended target from the Conclave is grounds to break the contract, or if discovered after the target's elimination, doubling of the rates. Failure to do so violates the contract.
+
+* **Slayers must be provided with any and all mundane goods and services.** While under contract, Conclave members must be provided with reasonable room and board until the target's elimination, the contract's termination, or the Conclave members have not made contact with the target for three consecutive days. Failure to provide room and board violates the contract; failure (on the part of the Conclave) to actively engage in pursuit of the target requires the Conclave to reimburse the employers at market prices. (Conclave members who defraud employers using this clause are actively hunted down, prosecuted, and removed from the Guild.)
+
+* **Slayers must be provided all available medical assistance and support.** While under contract, Conclave members that are injured in the course of their duties must be provided with convalescent care until such time as they are able to resume some portion of their duties. Should that period exceed two weeks, employers are to contact the nearest Slayer Guild faction as both notification and to obtain additional medical relief for the Conclave members. Failure to do so violates the contract.
+
+* **Payment terms and target definition must be agreed upon prior to engagement.** Attempts to renegotiate either after the contract's engagement can only be done so with the agreement of both parties, and must be drawn up as a separate contract. Generally, deviations in numbers or size within a certain range are acceptable, but Conclave members are taught to know their limits and if the target is determined to exceed their limits, to call for reinforcements from the Conclave. Calling for reinforcements inevitably requires a renegotiation of the contract, and will typically be handled by a representative from the local Conclave faction while the reinforcements go about their preparations.
+
+Violating the contract inevitably results in a period of refusal to engage on the part of the Conclave (usually for years, if not decades), which often has tragic results for the village, township, or city that chose to violate the contract. History is filled with stories of mayors or town councils that sought to renege on a contract after the Conclave's duties were performed, only to be revisited by horrors that dwarfed the original problem that met with silence from the Conclave and (usually) tragedy on the reneging citizenry. The Conclave takes great pains to document each contract violation very carefully and very objectively, and comes down harshly on Conclave members that seek to manipulate contracts to selfish ends; this has created high degrees of trust on the part of the citizenry for the Slayer Conclave, and it is not common to hear commoners refer to "the word of a Slayer" as a euphemism for truth or honesty.
