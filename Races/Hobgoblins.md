@@ -1,10 +1,11 @@
 # Hobgoblins
+See the [Creatures entry on Hobgoblins](/Creatures/Hobgoblin.md) for background and details.
 
 * **Ability Score Increase**. Your Constitution score increases by 2, and your Intelligence score increases by 1.
 
 * **Age**. Hobgoblins mature at the same rate as humans and have lifespans similar in length to theirs.
 
-* **Alignment**. Hobgoblin society is built on fidelity to a rigid, unforgiving code of conduct. As such, they tend toward lawful evil.
+* **Alignment**. Hobgoblin society is built on fidelity to a rigid, unforgiving code of conduct. As such, they tend toward lawful evil or lawful neutral. Lawful good hobgoblins are not unknown, but generally have converted to a good ethos due to events in their past.
 
 * **Size**. Hobgoblins are between 5 and 6 feet tall and weigh between 150 and 200 pounds. Your size is Medium.
 

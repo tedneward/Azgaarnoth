@@ -1,5 +1,6 @@
 # Ogre
 
+> Jump to: [Ogre](#ogre) [Ogre Magi](#ogre-magi) [Cleric of Gruumsh](#cleric-of-gruumsh)
 
 ## Ogre
 *Large giant, chaotic evil*

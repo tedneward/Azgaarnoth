@@ -1,6 +1,4 @@
 # Dragonkin
-(from *The Book of Dragons*)
-
 Thought to be a distant branch off of the same genetic line that created [dragonborn](Dragonborn.md), dragonkin are the larger, more muscular but more violent cousins to dragonborn. Most dragonkin originated out of the lands of the [Hordes](Hordes.md), though now dragonkin can be found all over Azgaarnoth, albeit rarely.
 
 Dragonkin seem to hate dragonborn, and many will attack a dragonborn on sight. Even dragonborn are not sure why, though many theories have been put forth regarding potential shared ancestry (which most dragonborn reject wholeheartedly).
@@ -23,8 +21,6 @@ Dragonkin seem to hate dragonborn, and many will attack a dragonborn on sight. E
 
 * **Natural Armor**. You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.
 
-* **Powerful Build**. You count as one size larger when
-determining your carrying capacity and the weight you can
-push, drag, or lift.
+* **Powerful Build**. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
 * **Languages**. You can read, speak, and write Common and Draconic.

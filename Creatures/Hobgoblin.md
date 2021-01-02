@@ -1,35 +1,41 @@
 # Hobgoblin
-War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as Hobgoblins march to battle. Across the borderlands of civilization, Settlements and settlers must contend with these aggressive Humanoids, whose thirst for conquest is never satisfied.
+War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as Hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive Humanoids, whose thirst for conquest is never satisfied.
 
-Jump to: [Warrior](#warrior) [Regular](#regular) [Veteran](#veteran)
+> Jump to: [Warrior](#warrior) [Regular](#regular) [Veteran](#veteran) [Sergeant](#sergeant) [Captain](#captain) [Bladebearer (Fighter)](#bladebearer) [Iron Shadow (Monk)](#iron-shadow) [Devastator (Sorceror)](#devastator) [Mindbender (Bard)](#mindbender) [War Adept (Mage)](#war-adept) [Child of Maglubiyet (Cleric)](#child-of-maglubiyet)
 
-Hobgoblins have dark orange or red-orange skin, and hair ranging from dark red-brown to dark gray. Yellow or dark brown eyes peer out beneath their beetling brows, and their wide mouths sport sharp and yellowed teeth. A male Hobgoblin might have a large blue or red nose, which symbolizes virility and power among goblinkin. Hobgoblins can live as long as Humans, though their love of Warfare and battle means that few do.
+Hobgoblins have dark orange or red-orange skin, and hair ranging from dark red-brown to dark gray. Yellow or dark brown eyes peer out beneath their beetling brows, and their wide mouths sport sharp and yellowed teeth. A male Hobgoblin might have a large blue or red nose, which symbolizes virility and power among goblinkin. Hobgoblins can live as long as Humans, though their love of warfare and battle means that few do.
 
-***Goblinoids.*** Hobgoblins belong to a Family of creatures called Goblinoids. They are often found lording over their cousins, the smaller Goblins and the ferocious Bugbears.
+Hobgoblins have no distinction between males and females of their kind, and females often rise to power as spellcasters even as the males rise as warriors. Within the Goblin tongue, a single pronoun, "tee", refers to both males and females equally, which many Azgaarnothian scholars translate (often incorrectly) as "he" or "him". Hobgoblin females are often even more hardy than their male counterparts, however, and it is not uncommon for a female Hobgoblin to ride to battle even in a late-stage pregnancy, deliver her child, and then ride back to battle within the week.
 
-***Martial Might.*** A Hobgoblin measures virtue by physical Strength and martial Prowess, caring about nothing except the opportunity to demonstrate skill and cunning in battle. Hobgoblins of high Military rank attain their positions by force, then hold those positions by imposing their authority through draconian measures.
+Hobgoblins are, in many ways, the backbone of many of the [Hordes]() across Azgaarnoth, and as the Hordes have come to understand that a different path to life is useful, so too have many of the hobgoblin Legions. In current-day Azgaarnoth, it is not uncommon to see a Hobgoblin Legion acting as a [mercenary company](/Organizations/MercCompanies/MercCompanies.md) to earn cash for the tribe "back home", particularly in the eastern parts of the world. These mercenary legions are some of the most feared in the world, as they present a fearsome, well-disciplined order of battle, complete with divine and arcane support, and adhere strictly to the [Code](/Organizations/MercCompanies/Code.md).
 
-Hobgoblins train to fight with a variety of Weapons, and have great skill at Crafting arms, armor, siege engines, and other Military devices. Organized and disciplined, they take exceptional care of their Weapons, armor, and personal possessions. They favor the bold colors associated with their tribes, and trim their often-elaborate uniforms with blood-red piping and leather dyed black.
+***Goblinoids.*** Hobgoblins belong to a Family of creatures called Goblinoids. They are often found lording over their cousins, the smaller [Goblins](Goblins.md) and the ferocious [Bugbears](Bugbears.md).
 
-***Military Legions.*** Hobgoblins organize themselves into tribal bands known as legions. In their martial society, every Hobgoblin has a rank, from the powerful leaders and champions, to the rank-and-file foot soldiers, to the Goblins that find themselves driven into the front lines at spear point. A Legion is headed by a Warlord with several captains serving under its Command. A Hobgoblin Warlord is a ruthless tyrant more interested in strategy, victory, glory, reputation, and dominion than leading troops into battle.
+***Martial Might.*** A Hobgoblin measures virtue by physical strength and martial prowess, caring about nothing except the opportunity to demonstrate skill and cunning in battle. Hobgoblins of high military rank attain their positions by force, then hold those positions by imposing their authority through draconian measures.
+
+Hobgoblins train to fight with a variety of weapons, and have great skill at crafting arms, armor, siege engines, and other military devices. Organized and disciplined, they take exceptional care of their weapons, armor, and personal possessions. They favor the bold colors associated with their tribes, and trim their often-elaborate uniforms with blood-red piping and leather dyed black.
+
+***Military Legions.*** Hobgoblins organize themselves into tribal bands known as Legions. In their martial society, every Hobgoblin has a rank, from the powerful leaders and champions, to the rank-and-file foot soldiers, to the goblins that find themselves driven into the front lines at spear point. A Legion is headed by a [Warlord](#warlord) with several [Captains](#captain) serving under its command, each in turn commanding a number of [Sergeants](#sergeant), and so on. A Hobgoblin [Warlord](#warlord) is a ruthless tyrant more interested in strategy, victory, glory, reputation, and dominion than leading troops into battle.
 
 As loyal and disciplined as Hobgoblins are in their own Legion, rival legions compete constantly for reputation and status. Meetings between legions erupt in violence if troops aren’t Restrained, and only exceptionally powerful leaders can force legions to cooperate on the battlefield.
 
-***Strategic Thinkers.*** Hobgoblins have a strong grasp of Tactics and discipline, and can carry out sophisticated battle plans under the direction of a strategically minded leader. However, they hate elves and Attack them first in battle over any other opponents, even if doing so would be a tactical error.
+Legions often supplement their ranks with less reliable and more expendable troops, including [Goblins](goblin.md), [Bugbears](Bugbear.md), [orcs](Orc.md), evil [Firsborn](/Races/Firstborn.md) and [Humans](/Races/Humans.md), [ogres](Ogre.md), and [Giants](Giant.md). Legions are often a core backbone to the [Hordes](/Races/Hordes.md) along with [Orcs](/Races/Orc.md), but often clash with their chaotic counterparts on a regular basis, as well.
 
-Legions often supplement their ranks with less reliable and more expendable troops, including [Goblins](goblin.md), [Bugbears](Bugbear.md), [orcs](Orc.md), evil Humans, [ogres](Ogre.md), and [Giants](Giant.md).
+***Strategic Thinkers.*** Hobgoblins have a strong grasp of tactics and discipline, and can carry out sophisticated battle plans under the direction of a strategically minded leader.
 
-***Beast Trainers.*** Hobgoblins have a long History of Training animals to service. Like the more civilized races, they use oxen and horses to transport goods and weaponry over long distances. They communicate with each other using trained ravens, and keep Vicious wolves to guard prisoners and protect Hobgoblin camps. Hobgoblin cavalry use trained worgs as steeds, in the same way that Goblins ride wolves. Some tribes even keep carnivorous apes as Fighting Beasts.
+***Beast Trainers.*** Hobgoblins have a long history of training animals to service. Like the more civilized races, they use oxen and horses to transport goods and weaponry over long distances. They communicate with each other using trained ravens, and keep vicious wolves (including Hell Hounds and other arcane lupines) to guard prisoners and protect Hobgoblin camps. Hobgoblin cavalry often use trained worgs as steeds, in the same way that Goblins do. Some of the most powerful Legions have been been known to raise [Wyverns](Wyvern.md) and other dragonkin as guards or even steeds.
 
-***Conquer and Control.*** Hobgoblins claim lands with abundant resources, and they can be found in forests and mountains, near mines and Humanoid Settlements, and anywhere else that wood, metal, and potential Slaves can be found. They build and conquer strongholds in strategically advantageous locations, which they then use as staging areas to expand their territory.
+***Conquer and Control.*** Hobgoblins claim lands with abundant resources, and they can be found in forests and mountains, near mines and humanoid settlements, and anywhere else that wood, metal, and potential slaves can be found. They build and conquer strongholds in strategically advantageous locations, which they then use as staging areas to expand their territory.
 
-Hobgoblin warlords never tire of Combat, but they don’t take up arms lightly. Before they Attack, Hobgoblins conduct thorough reconnaissance to gauge the strengths and weaknesses of their foes. When assaulting a stronghold, they surround it first to cut off Escape routes and supply lines, then slowly starve their enemies out.
+Hobgoblin warlords never tire of combat, but they don’t take up arms lightly. Before they Attack, Hobgoblins conduct thorough reconnaissance to gauge the strengths and weaknesses of their foes. When assaulting a stronghold, they surround it first to cut off escape routes and supply lines, then slowly starve their enemies out.
 
-Hobgoblins fortify their own holdings, bolstering existing defenses with innovations of their own. Whether they lair in cavern complexes, Dungeons, ruins, or forests, they protect their strongholds with ditches, fences, gates, guard towers, pit traps, and crude catapults or ballistas.
+Hobgoblins fortify their own holdings, bolstering existing defenses with innovations of their own. Whether they lair in cavern complexes, dungeons, ruins, or forests, they protect their strongholds with ditches, fences, gates, guard towers, pit traps, and crude catapults or ballistas.
 
-***Legion of Maglubiyet.*** Hobgoblins Worship Maglubiyet the Mighty One, the greater god of Goblinoids. As terrifying as this figure is, Hobgoblins don’t fear death, believing that when they die in battle, their spirits join the honored ranks of Maglubiyet’s army on the plane of Acheron.
+***Legion of Maglubiyet.*** Traditional Hobgoblins worship [Maglubiyet the Mighty One](/Religions/Pantheon/Maglubiyet.md), the greater god of Goblinoids. As terrifying as this figure is, Hobgoblins don’t fear death, believing that when they die in battle, their spirits join the honored ranks of Maglubiyet’s army on the plane of Acheron.
 
-***Secret Organizations.*** Hobgoblins of the cruelest bent gain admittance to elite Organizations that provide Special Training above and beyond what Military service has to offer. The [Academy of Devastation](#devastator) and the [Iron Shadows](#iron-shadow) are two such Organizations, and their graduates are feared among the ranks of goblinkind.
+More recently, hobgoblins have come to revere [Lythtzu](/Religions/Pantheon/Lythtzu.md), the god of battle and combat, as an alternative to Maglubiyet. The followers of Lythtzu believe in honor and adherence to the principles of honor, even beyond the ethos of good or evil. As such, followers of Lythtzu still don't fear death, believing that when they die in battle, their spirits join Lythtzu's army in the Blood Wars of the afterlife, fighting to maintain the cosmic balance, even against Maglubiyet's followers. (As a result, Maglubiyet's followers and Lythtzu's followers tend to fight on sight of each other.)
+
+***Secret Organizations.*** Hobgoblins of the cruelest bent gain admittance to elite organizations and traditions that provide special training above and beyond what military service has to offer. The [Academy of Devastation](#devastator) and the [Iron Shadows](#iron-shadow) are two such, and their graduates are feared among the ranks of goblinkind.
 
 
 
@@ -60,7 +66,7 @@ Hobgoblins fortify their own holdings, bolstering existing defenses with innovat
 **Longbow**. *Ranged Weapon Attack*: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
 
 #### Description
-Any fully-grown male of a hobgoblin tribe is trained in the arts of war, unless something prevents them from doing so (crippling disease, or perhaps shunted off into one of the other hobgoblin disciplines).
+Any fully-grown member (male or female) of a hobgoblin tribe is trained in the arts of war, unless something prevents them from doing so (crippling disease, or perhaps shunted off into one of the other hobgoblin disciplines).
 
 
 ## Regular
@@ -137,7 +143,7 @@ After a few years in combat as part of the tribe or Legion, a hobgoblin warrior 
 
 **STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
 -------|-------|-------|-------|-------|-------
-15(+2)  14(+2)  14(+2)  12(+1)  10(+0)  13(+1)
+15(+2) |14(+2) |14(+2) |12(+1) |10(+0) |13(+1)
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -397,7 +403,52 @@ Their masks also signify the supposed Origin of their Fighting Techniques. The P
 
 
 ## Mindbender
+*Medium humanoid (hobgoblin) Bard (College of Whispers) 7, lawful evil*
 
+**Armor Class** 16 (studded leather + DEX)
+
+**Hit Points** 49 (7d8 + 14)
+
+**Speed** 40 ft
+
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+10 (+0)|14 (+2)|14 (+2)|10 (+0)|15 (+2)|17 (+3)
+
+**Skills** Perception +6, Deception +6, Intimidation +6
+
+**Senses** darkvision 60 ft, telepathy 100 ft, passive Perception 17
+
+**Languages** Goblin, Abyssal
+
+**Challenge**
+
+**Bardic Inspiration (d8)** Mindbenders can inspire others through stirring words or music. To do so, they use a bonus action on their turn to choose one creature other than themselves within 60 feet of them who can hear them. That creature gains one Bardic Inspiration die, a d8. Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time. If a creature has a Bardic Inspiration die from the mindbender and casts a spell, the creature can roll that die and add the number rolled to one damage or healing roll of the spell. The Bardic Inspiration die is then lost. Mindbenders can use this feature a number of times equal to their Charisma modifier (a minimum of once). They regain any expended uses when they finish a long rest.
+
+**Song of Rest** Mindbenders can use soothing music or oration to help revitalize their wounded allies during a short rest. If a mindbender or any friendly creatures who can hear their performance regains hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.
+
+**Countercharm** Mindbenders have the ability to use words of power to disrupt mind-influencing effects. As an action, they can start a performance that lasts until the end of their next turn. During that time, they and any friendly creatures within 30 feet of them have advantage on saving throws against being frightened or charmed. A creature must be able to hear them to gain this benefit. The performance ends early if them are incapacitated or silenced or if they voluntarily end it (no action required).
+
+**Psychic Blades** Mindbenders have the ability to make their weapon attacks magically toxic to a creature's mind. When they hit a creature with a weapon attack, they can expend one use of their Bardic Inspiration to deal an additional 3d6 psychic damage to that target. They can do so only once per round on their turn.
+
+**Words of Terror** If a mindbender speaks to a humanoid alone for at least 1 minute, they can attempt to seed paranoia and fear into its mind. At the end of the conversation, the target must succeed on a Wisdom saving throw against the mindbender's spell save DC or be frightened of the mindbender or another creature of the mindbender's choice. The target is frightened in this way for 1 hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged. If the target succeeds on its saving throw, the target has no hint that the mindbender tried to frighten it. This feature cannot be used again until after a short rest or long rest.
+
+**Mantle of Whispers** Mindbenders have the ability to adopt a humanoid's persona. When a humanoid dies within 30 feet of them, they can magically capture its shadow using their reaction. They retain this shadow until they use it or they finish a long rest. The mindbender can use the shadow as an action. When it does so, it vanishes, magically transforming into a disguise that appears on it. It now looks like the dead person, but healthy and alive. This disguise lasts for 1 hour or until the mindbender ends it as a bonus action. While in the disguise, the mindbender gains access to all information that the humanoid would freely share with a casual acquaintance. Such information includes general details on its background and personal life, but doesn't include secrets. The information is enough that the mindbender can pass itself off as the person by drawing on its memories. Another creature can see through this disguise by succeeding on a Wisdom (Insight) check contested by the mindbender's Charisma (Deception) check. The mindbender gains a +5 bonus to the check. Once the mindbender captures a shadow with this feature, it can't capture another one with it until it finishes a short or long rest.
+
+**Spellcasting Focus** Mindbenders can use their weapons as an arcane focus for their spells.
+
+**Spellcaster** Bard caster level 7th, spell attack bonus +6, Spell Save DC 14.
+
+* *Cantrips*: blade ward, message, minor illusion
+* *1st (4 slots)*: charm person, detect magic, disguise self
+* *2nd (3 slots)*: cloud of daggers, detect thoughts, suggestion
+* *3rd (3 slots)*: hypnotic pattern, major image
+* *4th (1 slot)*: greater invisibility, phantasmal killer
+
+#### Actions
+**Shortbow.**
+
+**Shortsword.**
 
 #### Description
 The Mindbenders are Hobgoblin bards that serve as political officers across the Hobgoblin ranks. Among other Hobgoblins, they look to persuade the members of the Legions to act steadfast and true to the cause, as well as "re-educating" those Hobgoblins that seem to question or doubt.
@@ -454,3 +505,16 @@ The Mindbenders are Hobgoblin bards that serve as political officers across the 
 **Shortsword.**
 
 #### Description
+
+
+
+## Child of Maglubiyet
+*Medium humanoid (hobgoblin) Cleric () 6, lawful evil*
+
+
+
+#### Description
+Those who show a particular penchant for omens (either in drawing them out or simply being one around whom omens appear) marks a hobgoblin child for the divine order of Maglubiyet, and they are taken at a young age to learn His ways--usually via the combined teachings of chant and battleaxe (Maglubiyet's favorite weapon).
+
+The names of these are often translated as "Sons of Maglubiyet", which is an incorrect translation (owning to the unigender pronoun mentioned in the general description above); nevertheless, while many of the Children are female, when speaking with non-Goblinoids, they will often refer to themselves as "sons" to keep confusion to a minimum.
+
