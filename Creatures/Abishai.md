@@ -52,8 +52,7 @@ Each abishai was once a mortal who somehow won Tiamat’s favor before death and
 **Creeping Darkness (Recharge 6).** The abishai casts darkness at a point within 120 feet of it, requiring no components. Wisdom is its spellcasting ability for this spell. While the spell persists, the abishai can move the area of darkness up to 60 feet as a bonus action.
 
 #### Description
-![Black Abishai](Abishai-Black.png)
-Expert assassins and infiltrators, black abishais can weave shadows to mask their presence, allowing them to reach a location from where they can deliver a fatal strike to their targets.
+![Black Abishai](Abishai-Black.png) Expert assassins and infiltrators, black abishais can weave shadows to mask their presence, allowing them to reach a location from where they can deliver a fatal strike to their targets.
 
 
 
@@ -111,9 +110,7 @@ Expert assassins and infiltrators, black abishais can weave shadows to mask thei
 **Bite.** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d10 + 2) piercing damage plus 14 (4d6) lightning damage.
 
 #### Description
-![Blue Abishai](Abishai-Blue.png)
-
-Seekers of forgotten lore and lost relics, blue abishais are the most cunning and learned of their kind. Their research into occult subjects gleaned from tomes and grimoires plundered from across the multiverse enables them to become accomplished spellcasters. They use their magic to devastate their mistress’s enemies.
+![Blue Abishai](Abishai-Blue.png) Seekers of forgotten lore and lost relics, blue abishais are the most cunning and learned of their kind. Their research into occult subjects gleaned from tomes and grimoires plundered from across the multiverse enables them to become accomplished spellcasters. They use their magic to devastate their mistress’s enemies.
 
 
 
@@ -166,9 +163,7 @@ Seekers of forgotten lore and lost relics, blue abishais are the most cunning an
 **Claws.** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or take 11 (2d10) poison damage and become poisoned for 1 minute. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 #### Description
-![Green Abishai](Abishai-Green.png)
-
-The envoys of Tiamat’s armies, green abishais represent the god’s interests in the Nine Hells and beyond. Their keen senses make them adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure that they can manipulate even the shrewdest opponents.
+![Green Abishai](Abishai-Green.png) The envoys of Tiamat’s armies, green abishais represent the god’s interests in the Nine Hells and beyond. Their keen senses make them adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure that they can manipulate even the shrewdest opponents.
 
 
 
@@ -223,8 +218,7 @@ The envoys of Tiamat’s armies, green abishais represent the god’s interests 
 **Power of the Dragon Queen.** The abishai targets one dragon it can see within 120 feet of it. The dragon must make a DC 18 Charisma saving throw. A chromatic dragon makes this save with disadvantage. On a successful save, the target is immune to the abishai’s Power of the Dragon Queen for 1 hour. On a failed save, the target is charmed by the abishai for 1 hour. While charmed in this way, the target regards the abishai as a trusted friend to be heeded and protected. This effect ends if the abishai or its companions deal damage to the target.
 
 #### Description
-![Red Abishai](Abishai-Red.png)
-Red abishais have no equals among the abishais when it comes to leadership ability and raw power. They can invoke Tiamat’s authority to bend even dragons to their will. Red abishais lead other devils into battle or take charge of troublesome cults to ensure that they continue to carry out Tiamat’s commands. A red abishai cuts a fearsome figure, and that sight can be inspiring to the abishai’s allies, filling them with a fanatical willingness to fight.
+![Red Abishai](Abishai-Red.png) Red abishais have no equals among the abishais when it comes to leadership ability and raw power. They can invoke Tiamat’s authority to bend even dragons to their will. Red abishais lead other devils into battle or take charge of troublesome cults to ensure that they continue to carry out Tiamat’s commands. A red abishai cuts a fearsome figure, and that sight can be inspiring to the abishai’s allies, filling them with a fanatical willingness to fight.
 
 
 
@@ -276,8 +270,7 @@ Red abishais have no equals among the abishais when it comes to leadership abili
 **Vicious Reprisal.** In response to taking damage, the abishai makes a bite attack against a random creature within 5 feet of it. If no creature is within reach, the abishai moves up to half its speed toward an enemy it can see, without provoking opportunity attacks.
 
 #### Description
-![White Abishai](Abishai-White.png)
-Though they are the least of their kind, white abishais fight with a reckless fury, making them ideally suited for bolstering the ranks of Tiamat’s armies. White abishais fight without fear, becoming whirlwinds of destruction on the battlefield.
+![White Abishai](Abishai-White.png) Though they are the least of their kind, white abishais fight with a reckless fury, making them ideally suited for bolstering the ranks of Tiamat’s armies. White abishais fight without fear, becoming whirlwinds of destruction on the battlefield.
 
 
 
