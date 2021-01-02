@@ -1,5 +1,5 @@
 # Deathlock
-[!Deathlock](Deathlock.png)
+![Deathlock](Deathlock.png)
 
 The forging of a pact between a warlock and a patron is no minor occasion — at least not for the warlock. The consequences of breaking that pact can be dire and, in some cases, lethal. A warlock who fails to live up to a bargain with an evil patron runs the risk of rising from the dead as a deathlock, a foul undead driven to serve its otherworldly patron from beyond the grave.
 

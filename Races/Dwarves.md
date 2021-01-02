@@ -2,7 +2,7 @@
 
 Dwarves may be [dragonmarked](Dragonmarked.md) with the Mark of Warding; see that entry for details.
 
-* ****Ability Score Increase****. Your Constitution score increases by 2.
+* **Ability Score Increase**. Your Constitution score increases by 2.
 
 * **Age**. Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.
 
@@ -24,6 +24,8 @@ Dwarves may be [dragonmarked](Dragonmarked.md) with the Mark of Warding; see tha
 
 * **Languages**. You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
 
+
+
 ### Hill dwarf and Mountain dwarf
 These are essentially small genetic differences within the dwarven bloodline, but at this point in Azgaarnoth's history they are essentially meaningless as cultural differentiators--hill dwarves often work in the mountains as part of their guild/clan, and mountain dwarves are often found in hills for similar reasons. In fact, it's more common to see them in cities than in hills or mountains. Most non-dwarves can't even tell the difference between them.
 
@@ -37,6 +39,8 @@ These are essentially small genetic differences within the dwarven bloodline, bu
 
 * **Dwarven Armor Training**. You have proficiency with light and medium armor.
 
+
+
 ### Dark dwarves (duergar) ("Underdark dwarf")
 Rumors persist of clans of dwarves that never participated as part of the Exodus (or were left behind either accidentally or deliberately, depending on the rumor), and were forced into hard living and driven deeper into the depths to survive. Some theorize that these clans were actually captured by the illithid (mind flayers) at the same time elves were captured. Whether these "dark dwarves" are myth or real has yet to be substantiated in any credible form. These rumors generally also tie into the rumors of tunnels that connect the western and eastern reaches of the Daw mountain range underneath the Ravensound, as such tunnels would provide adequate depth to hide them from the Hordes that precipitated the Exodus.
 
@@ -49,3 +53,9 @@ Rumors persist of clans of dwarves that never participated as part of the Exodus
 * **Duergar Magic**. When you reach 3rd level, you can cast the Enlarge/Reduce spell on yourself once with this trait, using only the spell's enlarge option. When you reach 5th level, you can cast the Invisibility spell on yourself once with this trait. You don't need material components for either spell, and you can't cast them while you're in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells.
 
 * **Sunlight Sensitivity**. You have disadvantage on Attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+
+
+
+### [Derro](/Creatures/Derro.md) ("The Lost Clans")
+Still other rumors tell of clans of non-Exodus dwarves that were then captured by [mind flayers](/Creatures/MindFlayer.md) and enslaved until they could either escape or were freed by the [Gith](Gith.md); according to the Duergar, they were clans that refused to join the Duergar in their initial battles for freedom, fearing the mind flayers' power, and suffered worse for it when the Duergar were able to win free. Eventually the Derro slipped away, but hideously changed for the experience.
+
