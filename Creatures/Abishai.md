@@ -14,18 +14,9 @@ Each abishai was once a mortal who somehow won Tiamat’s favor before death and
 
 **Speed** 30 ft., fly 40 ft.
 
-STR
-14(+2)
-DEX
-17(+3)
-CON
-14(+2)
-INT
-13(+1)
-WIS
-16(+3)
-CHA
-11(+0)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+14(+2) |17(+3) |14(+2) |13(+1) |16(+3) |11(+0)
 
 **Saving Throws** Dex +6, Wis +6
 
@@ -75,18 +66,9 @@ Expert assassins and infiltrators, black abishais can weave shadows to mask thei
 
 **Speed** 30 ft., fly 50 ft.
 
-STR
-15(+2)
-DEX
-14(+2)
-CON
-17(+3)
-INT
-22(+6)
-WIS
-23(+6)
-CHA
-18(+4)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+15(+2) |14(+2) |17(+3) |22(+6) |23(+6) |18(+4)
 
 **Saving Throws** Int +12, Wis +12
 
@@ -144,18 +126,9 @@ Seekers of forgotten lore and lost relics, blue abishais are the most cunning an
 
 **Speed** 30 ft., fly 40 ft.
 
-STR
-12(+1)
-DEX
-17(+3)
-CON
-16(+3)
-INT
-17(+3)
-WIS
-12(+1)
-CHA
-19(+4)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+12(+1) |17(+3) |16(+3) |17(+3) |12(+1) |19(+4)
 
 **Saving Throws** Int +8, Cha +9
 
@@ -208,18 +181,9 @@ The envoys of Tiamat’s armies, green abishais represent the god’s interests 
 
 **Speed** 30 ft., fly 50 ft.
 
-STR
-23(+6)
-DEX
-16(+3)
-CON
-19(+4)
-INT
-14(+2)
-WIS
-15(+2)
-CHA
-19(+4)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+23(+6) |16(+3) |19(+4) |14(+2) |15(+2) |19(+4)
 
 **Saving Throws** Str +12, Con +10, Wis +8
 
@@ -273,18 +237,9 @@ Red abishais have no equals among the abishais when it comes to leadership abili
 
 **Speed** 30 ft., fly 40 ft.
 
-STR
-16(+3)
-DEX
-11(+0)
-CON
-18(+4)
-INT
-11(+0)
-WIS
-12(+1)
-CHA
-13(+1)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+16(+3) |11(+0) |18(+4) |11(+0) |12(+1) |13(+1)
 
 **Saving Throws** Str +6, Con +7
 
