@@ -43,6 +43,8 @@ Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they 
 
 **Javelin.** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.
 
+#### Description
+
 
 
 ## Chief
@@ -79,6 +81,8 @@ Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they 
 
 **Javelin.** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 10 (2d6 + 3) piercing damage in melee or 6 (1d6 + 3) piercing damage at range.
 
+#### Description
+
 
 
 ## Blood Ghost Berserker
@@ -110,10 +114,11 @@ Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they 
 
 **Reckless**. At the start of its turn, the blood ghost berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
 
-### Actions
+#### Actions
 **Multiattack**: The blood ghost berserker makes two attacks.
 
 **Greataxe**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.
 
 **Handaxe**. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 02/60 ft., one target. Hit: 5 (1d6 + 3) piercing damage in melee or 5 (1d6 + 3) piercing damage at range.
 
+#### Description

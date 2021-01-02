@@ -601,6 +601,12 @@ You have trained to master the use of medium armor and shields, gaining the foll
 * You gain proficiency with medium armor and shields.
 
 
+## Mounted Charge / Flyby
+*Prerequisite: Mounted Combatant, or flight abilities*
+
+As a mounted combatant (or as a flying creature), you have learned how to charge past an opponent and execute your attacks (including those of your mount) and pass the target without triggering attacks of opportunity.
+
+
 ## Mounted Combatant
 You are a dangerous foe to face while mounted. While you are mounted and aren't incapacitated, you gain the following benefits:
 
