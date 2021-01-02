@@ -102,18 +102,9 @@ Some Goblin Worg Riders have learned to ride [Dire Wolves](DireWolf.md) or [Hell
 
 **Speed** 30 ft.
 
-STR
-10(+0)
-DEX
-14(+2)
-CON
-10(+0)
-INT
-10(+0)
-WIS
-8(−1)
-CHA
-10(+0)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+10(+0) |14(+2) |10(+0) |10(+0) |8(−1)  |10(+0)
 
 **Skills** Stealth +6
 

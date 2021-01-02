@@ -1,12 +1,12 @@
 # Militia
-*male human, any alignment*
+*male or female humanoid, any alignment*
 
 ## Militia Level 1
 **Armor Class**: 11 (Leather)
 
 **Hit Points**: 9 (2d8 +0)
 
-**Speed**: 30ft (9m / 6 sqr)
+**Speed**: 30ft
 
 **STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
 -------|-------|-------|-------|-------|-------

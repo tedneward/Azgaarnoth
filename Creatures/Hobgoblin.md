@@ -1,7 +1,7 @@
 # Hobgoblin
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as Hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive Humanoids, whose thirst for conquest is never satisfied.
 
-> Jump to: [Warrior](#warrior) [Regular](#regular) [Veteran](#veteran) [Sergeant](#sergeant) [Captain](#captain) [Bladebearer (Fighter)](#bladebearer) [Iron Shadow (Monk)](#iron-shadow) [Devastator (Sorceror)](#devastator) [Mindbender (Bard)](#mindbender) [War Adept (Mage)](#war-adept) [Child of Maglubiyet (Cleric)](#child-of-maglubiyet)
+> Jump to: [Warrior](#warrior) [Regular](#regular) [Veteran](#veteran) [Sergeant](#sergeant) [Captain](#captain) [Warlord](#warlord) [Bladebearer (Fighter)](#bladebearer) [Iron Shadow (Monk)](#iron-shadow) [Devastator (Sorceror)](#devastator) [Kulkor Zhul Mindbender (Bard)](#mindbender) [Kulkor Zhul War Adept (Mage)](#war-adept) [Child of Maglubiyet (Cleric)](#child-of-maglubiyet)
 
 Hobgoblins have dark orange or red-orange skin, and hair ranging from dark red-brown to dark gray. Yellow or dark brown eyes peer out beneath their beetling brows, and their wide mouths sport sharp and yellowed teeth. A male Hobgoblin might have a large blue or red nose, which symbolizes virility and power among goblinkin. Hobgoblins can live as long as Humans, though their love of warfare and battle means that few do.
 
@@ -37,7 +37,7 @@ More recently, hobgoblins have come to revere [Lythtzu](/Religions/Pantheon/Lyth
 
 ***Secret Organizations.*** Hobgoblins of the cruelest bent gain admittance to elite organizations and traditions that provide special training above and beyond what military service has to offer. The [Academy of Devastation](#devastator) and the [Iron Shadows](#iron-shadow) are two such, and their graduates are feared among the ranks of goblinkind.
 
-
+---
 
 ## Warrior
 *Medium humanoid (goblinoid), lawful evil*
@@ -68,6 +68,7 @@ More recently, hobgoblins have come to revere [Lythtzu](/Religions/Pantheon/Lyth
 #### Description
 Any fully-grown member (male or female) of a hobgoblin tribe is trained in the arts of war, unless something prevents them from doing so (crippling disease, or perhaps shunted off into one of the other hobgoblin disciplines).
 
+---
 
 ## Regular
 *Medium humanoid (goblinoid), lawful evil*
@@ -97,7 +98,7 @@ Any fully-grown member (male or female) of a hobgoblin tribe is trained in the a
 
 #### Description
 
-
+---
 
 ## Veteran
 *Medium humanoid (goblinoid), lawful evil*
@@ -130,7 +131,7 @@ Any fully-grown member (male or female) of a hobgoblin tribe is trained in the a
 #### Description
 After a few years in combat as part of the tribe or Legion, a hobgoblin warrior has learned a few things--and is that much deadlier as a result.
 
-
+---
 
 ## Sergeant
 *Medium humanoid (goblinoid), lawful evil*
@@ -163,6 +164,7 @@ After a few years in combat as part of the tribe or Legion, a hobgoblin warrior 
 **Javelin**. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 
 
+---
 
 ## Captain
 *Medium humanoid (goblinoid), lawful evil*
@@ -202,6 +204,8 @@ After a few years in combat as part of the tribe or Legion, a hobgoblin warrior 
 #### Description
 
 
+
+---
 
 ## Warlord
 *Medium humanoid (goblinoid), lawful evil*
@@ -247,7 +251,7 @@ After a few years in combat as part of the tribe or Legion, a hobgoblin warrior 
 #### Description
 Hobgoblin Warlords are the leaders of Legions, or the direct subcommanders of those that do. Warlords are cunning, clever, and well-versed in the arts of war, having spent decades under arms and leading warriors.
 
-
+---
 
 ## Bladebearer
 *Medium humanoid (goblinoid), lawful evil*
@@ -284,7 +288,9 @@ Hobgoblin Warlords are the leaders of Legions, or the direct subcommanders of th
 #### Description
 Hobgoblin Bladebearers are the solitary, legendary warriors of the hobgoblin species, spending hours in solitary training and meditation around nothing but combat and the mastery of the form. When pressed, they can use crossbows for ranged combat, but would much prefer to engage with their blades--and most of all against what appears to be the most skilled of the opponents facing them.
 
+Among the [Tragedian United Hordes](/Nations/Tragekia.md), Bladebearers are known to participate and be members of the various [Dueling Colleges](/Organizations/DuelingColleges.md) there. Some will occasionally wander into [Liria](/Nations/Liria.md) in similar pursuit, though often meet with high amounts of distrust and unease, particularly if (when) they win.
 
+---
 
 ## Devastator
 *Medium humanoid (goblinoid), lawful evil*
@@ -347,7 +353,9 @@ Other cultures might view the use of such Abilities as a short cut to glory, but
 
 The Academy of Devastation believes that an academic approach to magic is a sign of weakness and inefficiency. A Warrior doesn’t Need to Know about metallurgy to wield a blade, so why should a Wizard care about where magic comes from? Devastators love to prove their superiority in battle by seeking out enemy spellcasters and destroying them.
 
+If they survive long enough, Devastators usually end up looking to join one of the Evocation-friendly [Mage Schools](/Organizations/MageSchools/MageSchools.md) to further their education, and return to their Legion even more frightening and powerful.
 
+---
 
 ## Iron Shadow
 *Medium humanoid (goblinoid), lawful evil*
@@ -387,20 +395,21 @@ The Academy of Devastation believes that an academic approach to magic is a sign
 **Shadow Jaunt.** The hobgoblin magically teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see. Both the space it is leaving and its destination must be in dim light or darkness.
 
 #### Description
-The Iron Shadows are Hobgoblin monks that serve as Secret police, scouts, and assassins. Among other Hobgoblins, they spy to ferret out treachery, rebellion, and betrayal.
+The Iron Shadows are Hobgoblin monks that serve as secret police, scouts, and assassins. Among other Hobgoblins, they spy to ferret out treachery, rebellion, and betrayal.
 
 ***Trained in Secret.*** Iron Shadows are recruited from across the Hobgoblin ranks. Each member keeps her eyes open for potential recruits, those whose agility and stamina are matched only by an ironclad commitment to Maglubiyet’s will.
 
 A candidate for admission undergoes a series of tests designed to reveal any potential for treachery. Those who fail are slain, while those who pass receive Secret Training in the magical and Martial Arts. This indoctrination is a slow and arduous process; many aspirants don’t finish it, and years might go by during which the Iron Shadows welcome no new Members into their ranks. While a recruit is in Training, it serves the Iron Shadows by looking for and reporting suspicious behavior.
 
-***Masters of Shadow and Fist.*** When a recruit’s Training is complete, she is ready to wield a deadly combination of Unarmed Fighting Techniques and Shadow Magic to deceive and defeat her foes. She continues to spy on other Hobgoblins, but is now also empowered to conduct assassinations and spy missions, both against enemies and among Goblinoids. These missions are ordained by the clerics of Maglubiyet, who keep a careful eye on the goblinoid community to ensure that it functions according to Maglubiyet’s will.
+***Masters of Shadow and Fist.*** When a recruit’s training is complete, she is ready to wield a deadly combination of unarmed fighting techniques and shadow magic to deceive and defeat her foes. She continues to spy on other Hobgoblins, but is now also empowered to conduct assassinations and spy missions, both against enemies and among Goblinoids. These missions are ordained by the Children of Maglubiyet, who keep a careful eye on the goblinoid community to ensure that it functions according to Maglubiyet’s will.
 
-***Masked Devils.*** Iron Shadows on a Secret mission wear masks crafted to resemble devils, both to conceal their identities and to strike fear into their foes.
+***Masked Devils.*** Iron Shadows on a secret mission wear masks crafted to resemble devils, both to conceal their identities and to strike fear into their foes.
 
-Their masks also signify the supposed Origin of their Fighting Techniques. The Priests of Maglubiyet teach that the Great One stole the Secrets of shadows from an archdevil, allowing his followers to conceal their identities, walk between shadows, and craft illusions to confuse and confound their enemies.
+Their masks also signify the supposed origin of their fighting techniques. The Children of Maglubiyet teach that the Great One stole the secrets of shadows from an archdevil, allowing his followers to conceal their identities, walk between shadows, and craft illusions to confuse and confound their enemies.
 
+It is rumored that the Order of Iron Shadows is organized precisely along the same lines as any [Monastic Order](/Organizations/MonasticOrders/MonasticOrders.md), and could--if a candidate were dedicated enough--accept candidates of other races. This is, however, entirely unproven.
 
-
+---
 
 ## Mindbender
 *Medium humanoid (hobgoblin) Bard (College of Whispers) 7, lawful evil*
@@ -451,10 +460,9 @@ Their masks also signify the supposed Origin of their Fighting Techniques. The P
 **Shortsword.**
 
 #### Description
-The Mindbenders are Hobgoblin bards that serve as political officers across the Hobgoblin ranks. Among other Hobgoblins, they look to persuade the members of the Legions to act steadfast and true to the cause, as well as "re-educating" those Hobgoblins that seem to question or doubt.
+The Mindbenders are Hobgoblin bards that serve as political officers across the Hobgoblin ranks. Among other Hobgoblins, they look to persuade the members of the Legions to act steadfast and true to the cause, as well as "re-educating" those Hobgoblins that seem to question or doubt. The Mindbenders are an offshoot of the [College of Whispers](/Classes/Bard/Whispers.md), and likely a direct copy of that bardic school.
 
-
-
+---
 
 ## War Adept
 *Medium humanoid (hobgoblin) Sorcerer (Draconic Ancestry) 8, lawful evil*
@@ -506,7 +514,7 @@ The Mindbenders are Hobgoblin bards that serve as political officers across the 
 
 #### Description
 
-
+---
 
 ## Child of Maglubiyet
 *Medium humanoid (hobgoblin) Cleric () 6, lawful evil*

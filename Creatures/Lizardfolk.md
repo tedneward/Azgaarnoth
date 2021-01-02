@@ -131,7 +131,7 @@ Lizardfolk born in Sess’inek’s image are larger and more cunning than other 
 
 **Bite (Crocodile Form Only).** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 7 (1d10 + 2) piercing damage in crocodile form. If the lizardfolk is in crocodile form and the target is a Large or smaller creature, the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the lizardfolk can’t bite another target. If the lizardfolk reverts to its true form, the grapple ends.
 
-**Change Shape (Recharges after a Short or Long Rest).** The lizardfolk shaman magically polymorphs into a [crocodile](Crocodile.md), remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
+**Change Shape (Recharges after a Short or Long Rest).** The lizardfolk shaman magically polymorphs into a [giant crocodile](GiantCrocodile.md), remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
 
 

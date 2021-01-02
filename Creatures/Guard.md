@@ -1,5 +1,5 @@
 # Human Guard
-*male or female human, any alignment*
+*male or female humanoid, any alignment*
 
 **Armor Class**: 16 (Ring mail, Shield)
 
