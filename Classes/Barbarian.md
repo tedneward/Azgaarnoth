@@ -87,7 +87,7 @@ At 3rd level, you choose a path that shapes the nature of your rage:
 * [Rage Mage](Barbarian/Rage.md)
 * [Storm Herald](Barbarian/StormHerald.md)
 * [Totem Warrior](Barbarian/TotemWarrior.md)
-* [Wild Soul](Barbarian/WildSoul.md)
+* [Wild Magic](Barbarian/WildMagic.md)
 * [Zealot](Barbarian/Zealot.md)
 
 Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
