@@ -1,7 +1,95 @@
 # Gith
-The descendants of an ancient people — so old their original name has been lost — have turned against each other, becoming vicious enemies divided over mortality, purpose, and the machinations of their leaders. The bellicose githyanki terrorize the Astral Plane, raiding into other worlds to plunder the multiverse of its magic and riches. The githzerai live apart from the rest of the cosmos, content within the confines of their fortresses floating through the chaos of Limbo. Although the two groups of gith despise each other, their hatred for the [mind flayers](MindFlayer.md) from whom they escaped endures, and both githyanki and githzerai are dedicated to hunting their ancestral foes.
+The warlike githyanki and the contemplative githzerai are a sundered people — two cultures that utterly despise one another. Before there were githyanki or githzerai, these creatures were a single race enslaved by the mind flayers. Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the mind flayers enslaved and changed them, none can say. Not even the original name of their race remains from that distant time. Although they attempted to overthrow their masters many times, their rebellions were repeatedly crushed until a great leader named Gith arose.
 
-> Jump to: [Githyanki Gish](#gish) [Githyanki Kith'rak](#kithrak) [Githyanki Supreme Commander](#supreme-commander) [Githzerai Anarch](#anarch) [Githzerai Enlightened](#enlightened)
+After much bloodshed, Gith and her followers threw off the yoke of their illithid masters, but another leader named Zerthimon emerged in the aftermath of battle. Zerthimon challenged Gith’s motives, claiming that her strict martial leadership and desire for vengeance amounted to little more than another form of slavery for her people. A rift erupted between followers of each leader, and they eventually became the two races whose enmity endures to this day.
+
+> Jump to: [Githyanki](#githyanki) [Githyanki Warrior](#warrior) [Githyanki Knight](#knight) [Githyanki Gish](#gish) [Githyanki Kith'rak](#kithrak) [Githyanki Supreme Commander](#supreme-commander) 
+> Jump to: [Githzerai](#githzerai) [Githzerai Monk](#monk) [Githzerai Zerth](#zerth) [Githzerai Anarch](#anarch) [Githzerai Enlightened](#enlightened)
+
+The bellicose githyanki terrorize the Astral Plane, raiding into other worlds to plunder the multiverse of its magic and riches. The githzerai live apart from the rest of the cosmos, content within the confines of their fortresses floating through the chaos of Limbo. Although the two groups of gith despise each other, their hatred for the [mind flayers](MindFlayer.md) from whom they escaped endures, and both githyanki and githzerai are dedicated to hunting their ancestral foes.
+
+## Githyanki
+The githyanki plunder countless worlds from the decks of their astral vessels and the backs of red dragons. Feathers, beads, gems, and precious metals decorate their armor and weapons — the legendary silver swords with which they cut through their foes. Since winning their freedom from the mind flayers, the githyanki have become ruthless conquerors under the rulership of their dread lich-queen, Vlaakith.
+
+**Astral Raiders.** The githyanki despise all other races, undertaking devastating raids that take them from their strongholds in the Astral Plane to the farflung corners of the multiverse. War is the ultimate expression of githyanki culture, and their pitiless black eyes know no mercy. After a raid, they leave shattered survivors enough food and resources to weakly endure. Later, the githyanki return to their conquered foes, plundering them again and again.
+
+**Followers of Gith.** In their own language, githyanki means “followers of Gith.” Under the guidance of Gith, the githyanki stratified into a militaristic society, with a strict caste system, dedicated to the ongoing fight against the victims and sworn enemies of their race. When their leader Gith perished, she was replaced by her undead adviser, Vlaakith. The lich-queen forbade worship of all beings except herself.
+
+Of all their enemies, the githyanki most hate their former masters, the mind flayers. Their close kin, the githzerai, are second in their enmity. All other creatures are treated with simple contempt by the githyanki, whose xenophobic pride defines their view of inferior races.
+
+**Silver Swords.** In ancient times, gith knights created special weapons to combat their mind flayer masters. These silver swords channel the force of the wielder’s will, dealing psychic as well as physical damage. A githyanki can’t become a knight until it masters the singular discipline needed to will such a blade into existence. A silver sword is equivalent to a greatsword, and takes on the properties of a +3 greatsword in the hands of its creator.
+
+In the eyes of the githyanki, each silver sword is a priceless relic and a work of art. Githyanki knights will hunt down and destroy any non-githyanki that dares to carry or wield a silver sword, reclaiming it for their people.
+
+**Red Dragon Riders.** In the uprising against the illithids, Gith sought allies. Her adviser Vlaakith appealed to Tiamat, the goddess of evil dragonkind, and Gith ventured into the Nine Hells to meet with her. Only Tiamat now knows what passed between them, but Vlaakith returned to the Astral Plane with the Dragon Queen’s red dragon consort Ephelomon, who proclaimed that his kind would forever act as allies to the githyanki. Not all red dragons honor the alliance kindled so long ago, but most at least don’t consider the githyanki their enemies.
+
+Outposts in the Mortal Realm. Since creatures that dwell on the Astral Plane don’t age, the githyanki establish creches in remote areas of the Material Plane to raise their young. Doubling as military academies, these creches train young githyanki to harness their psychic and combat abilities. When a githyanki grows to adulthood and slays a mind flayer as part of a sacred rite of passage, it is permitted to rejoin its people on the Astral Plane.
+
+
+## Warrior
+*Medium humanoid (gith), lawful evil*
+
+**Armor Class** 17 (half plate)
+
+**Hit Points** 49 (9d8 + 9)
+
+**Speed** 30 ft.
+
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+15(+2) |14(+2) |12(+1) |13(+1) |13(+1) | 10(+0)
+
+**Saving Throws** Con +3, Int +3, Wis +3
+
+**Senses** passive Perception 11
+
+**Languages** Gith
+
+**Challenge** 3 (700 XP)
+
+**Innate Spellcasting (Psionics).** The githyanki’s innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:
+
+* *At will*: mage hand (the hand is invisible)
+* *3/day each*: jump, misty step, nondetection (self only)
+
+#### Actions
+**Multiattack.** The githyanki makes two greatsword attacks.
+
+**Greatsword.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage plus 7 (2d6) psychic damage.
+
+
+
+## Knight
+*Medium humanoid (gith), lawful evil*
+
+**Armor Class** 18 (plate)
+
+**Hit Points** 91 (14d8 + 28)
+
+**Speed** 30 ft.
+
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+16(+3) |14(+2) |15(+2) | 14(+2)| 14(+2)|15(+2)
+
+**Saving Throws** Con +5, Int +5, Wis +5
+
+**Senses** passive Perception 12
+
+**Languages** Gith
+
+**Challenge** 8 (3,900 XP)
+
+**Innate Spellcasting (Psionics).** The githyanki’s innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no components:
+
+* *At will*: mage hand (the hand is invisible)
+* *3/day each*: jump, misty step, nondetection (self only), tongues
+* *1/day each*: plane shift, telekinesis
+
+#### Actions
+**Multiattack.** The githyanki makes two silver greatsword attacks.
+
+**Silver Greatsword.** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage plus 10 (3d6) psychic damage. This is a magic weapon attack. On a critical hit against a target in an astral body (as with the astral projection spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
 
 
 
@@ -149,6 +237,146 @@ Supreme commanders lead the githyanki armies, each one commanding ten kith’rak
 
 
 
+
+## Githzerai
+Focused philosophers and austere ascetics, the githzerai pursue lives of rigid order. Lean and muscular, they wear unadorned clothing free of ornamentation, keeping their own counsel and trusting few creatures outside of their own kind. Having turned their backs on their warlike githyanki kin, the githzerai maintain a strict monastic lifestyle, dwelling on islands of order in the vast sea of chaos that is the plane of Limbo.
+
+**Psionic Adepts.** The progenitors of the githzerai adapted to — and were transformed by — the psychic environment imposed on them by their illithid overlords. Under the teachings of Zerthimon, who called on his people to abandon the warlike ambitions of Gith, the githzerai focused their mental energy on creating physical and psychic barriers to protect them from attack, psychic or otherwise. Fighting is personal to a githzerai, which uses its mind to daze and incapacitate opponents, leaving them vulnerable to physical punishment.
+
+**Order amid Chaos.** The githzerai willingly dwell in the heart of utter chaos in Limbo — a twisting, mercurial plane prone to manipulation and subjugation by githzerai minds strong enough to master it. Limbo is a maelstrom of primal matter and energy, its terrain a storm of rock and earth swept up in torrents of murky liquid, buffeted by strong winds, blasted by fire, and chilled by crushing walls of ice.
+
+The forces of Limbo react to sentience, however. Using the power of their minds, the githzerai tame the plane’s chaotic elements, causing them to settle into fixed and survivable forms and creating oases and sanctuaries within the maelstrom.
+
+Githzerai fortress-monasteries stand resolute against the chaos that surrounds them, virtually impervious to the turmoil of their surroundings, because the githzerai will it. Each monastery is overseen by monks that impose a strict schedule of chants, meals, martial arts training, and devotions according to their own philosophy. Behind their psionically fortified walls, the githzerai embrace thought, learning, psionic power, order, and discipline above all other things.
+
+The social hierarchy of the githzerai is based on merit, and those githzerai who are the wisest teachers and the most skilled at physical and mental combat become leaders. The githzerai revere great heroes and teachers of the past, emulating those figures’ virtues in their everyday lives.
+
+**Disciples of Zerthimon.** Githzerai revere Zerthimon, the founder of their race. Although Gith won their people’s freedom, Zerthimon saw her as unfit to lead. He believed that her warmongering would soon make her a tyrant no better than the mind flayers.
+
+Skilled githzerai monks that best exemplify the teachings and principles of Zerthimon are called zerths. These powerful and disciplined monks can shift their bodies from one plane to another using only the power of their minds.
+
+**Beyond Limbo.** Though githzerai rarely deal with the realms beyond Limbo, advanced monks of other races sometimes seek out a githzerai monastery and attempt to gain admittance as students. More rarely, a githzerai master establishes a hidden monastery on the Material Plane to train young githzerai or to spread the philosophy and teachings of Zerthimon.
+
+As disciplined as they are, the githzerai have never forgotten their long imprisonment by the mind flayers. As a special devotion, they organize a *rrakkma* — an illithid hunting party — to other planes, not returning to their monasteries until they slay at least as many illithids as there are hunters in the party.
+
+## Monk
+*Medium humanoid (gith), lawful neutral*
+
+**Armor Class** 14
+
+**Hit Points** 38 (7d8 + 7)
+
+**Speed** 30 ft.
+
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+12(+1) |15(+2) |12(+1) |13(+1) | 14(+2)|10(+0)
+
+**Saving Throws** Str +3, Dex +4, Int +3, Wis +4
+
+**Skills** Insight +4, Perception +4
+
+**Senses** passive Perception 14
+
+**Languages** Gith
+
+**Challenge** 2 (450 XP)
+
+**Innate Spellcasting (Psionics).** The githzerai’s innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:
+
+* *At will*: mage hand (the hand is invisible)
+* *3/day each*: feather fall, jump, see invisibility, shield
+
+**Psychic Defense.** While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
+
+#### Actions
+**Multiattack.** The githzerai makes two unarmed strikes.
+
+**Unarmed Strike.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage plus 9 (2d8) psychic damage. This is a magic weapon attack.
+
+
+
+## Zerth
+*Medium humanoid (gith), lawful neutral*
+
+**Armor Class** 17
+
+**Hit Points** 84 (13d8 + 26)
+
+**Speed** 30 ft.
+
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+13(+1) |18(+4) |15(+2) |16(+3) |17(+3) |12(+1)
+
+**Saving Throws** Str +4, Dex +7, Int +6, Wis +6
+
+**Skills** Arcana +6, Insight +6, Perception +6
+
+**Senses** passive Perception 16
+
+**Languages** Gith
+
+**Challenge** 6 (2,300 XP)
+
+**Innate Spellcasting (Psionics).** The githzerai’s spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no components:
+
+* *At will*: mage hand (the hand is invisible)
+* *3/day each*: feather fall, jump, see invisibility, shield
+* *1/day each*: phantasmal killer, plane shift
+
+**Psychic Defense.** While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
+
+#### Actions
+**Multiattack.** The githzerai makes two unarmed strikes.
+
+**Unarmed Strike.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage plus 13 (3d8) psychic damage. This is a magic weapon attack.
+
+
+
+## Enlightened
+*Medium humanoid (gith), lawful neutral*
+
+**Armor Class** 18
+
+**Hit Points** 112 (15d8 + 45)
+
+**Speed** 30 ft.
+
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+14(+2) |19(+4) |16(+3) |17(+3) |19(+4) |13(+1 )
+
+**Saving Throws** Str +6, Dex +8, Int +7, Wis +8
+
+**Skills** Arcana +7, Insight +8, Perception +8
+
+**Senses** passive Perception 18
+
+**Languages** Gith
+
+**Challenge** 10 (5,900 XP)
+
+**Innate Spellcasting (Psionics).** The githzerai’s innate spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no components:
+
+* *At will*: mage hand (the hand is invisible)
+* *3/day each*: blur, expeditious retreat, feather fall, jump, see invisibility, shield
+* *1/day each*: haste, plane shift, teleport
+
+**Psychic Defense.** While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
+
+#### Actions
+**Multiattack.** The githzerai makes three unarmed strikes.
+
+**Unarmed Strike.** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage plus 13 (3d8) psychic damage.
+
+**Temporal Strike (Recharge 6).** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) bludgeoning damage plus 52 (8d12) psychic damage. The target must succeed on a DC 16 Wisdom saving throw or move 1 round forward in time. A target moved forward in time vanishes for the duration. When the effect ends, the target reappears in the space it left or in an unoccupied space nearest to that space if it’s occupied.
+
+#### Description
+Githzerai never stop training. They spend long hours in meditation to transcend the limits of their forms and to apprehend the nature of reality. Zerths who complete the next tier of their training become one of the githzerai known as the enlightened.
+
+
+
 ## Anarch
 *Medium humanoid (gith), lawful neutral*
 
@@ -212,47 +440,3 @@ In Limbo, githzerai anarchs create islands of tranquility in the otherwise turbu
 * The anarch stabilizes any object created in Limbo and brought to the Material Plane for as long as the anarch remains within 1 mile of it (no action required).
 
 If the anarch dies, these effects end after 1d6 rounds. All formed substance becomes a chaotic churn of energy and matter, unraveling into unformed substance that dissipates 1d6 rounds later.
-
-
-
-## Enlightened
-*Medium humanoid (gith), lawful neutral*
-
-**Armor Class** 18
-
-**Hit Points** 112 (15d8 + 45)
-
-**Speed** 30 ft.
-
-**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
--------|-------|-------|-------|-------|-------
-14(+2) |19(+4) |16(+3) |17(+3) |19(+4) |13(+1 )
-
-**Saving Throws** Str +6, Dex +8, Int +7, Wis +8
-
-**Skills** Arcana +7, Insight +8, Perception +8
-
-**Senses** passive Perception 18
-
-**Languages** Gith
-
-**Challenge** 10 (5,900 XP)
-
-**Innate Spellcasting (Psionics).** The githzerai’s innate spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no components:
-
-* *At will*: mage hand (the hand is invisible)
-* *3/day each*: blur, expeditious retreat, feather fall, jump, see invisibility, shield
-* *1/day each*: haste, plane shift, teleport
-
-**Psychic Defense.** While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
-
-#### Actions
-**Multiattack.** The githzerai makes three unarmed strikes.
-
-**Unarmed Strike.** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage plus 13 (3d8) psychic damage.
-
-**Temporal Strike (Recharge 6).** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) bludgeoning damage plus 52 (8d12) psychic damage. The target must succeed on a DC 16 Wisdom saving throw or move 1 round forward in time. A target moved forward in time vanishes for the duration. When the effect ends, the target reappears in the space it left or in an unoccupied space nearest to that space if it’s occupied.
-
-#### Description
-Githzerai never stop training. They spend long hours in meditation to transcend the limits of their forms and to apprehend the nature of reality. Zerths who complete the next tier of their training become one of the githzerai known as the enlightened.
-

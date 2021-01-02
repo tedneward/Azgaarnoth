@@ -3,7 +3,7 @@ Ogres are as lazy of mind as they are strong of body. They live by raiding, scav
 
 Ogres are infamously dim-witted, but with enough time and patience, some of them can be trained to carry out specialized missions in battle. The names they are given — the battering ram, the bolt launcher, the chain brute, and the howdah — reflect their particular functions. These jobs are simple, but they’re tailored to take advantage of an ogre’s strengths.
 
-> Jump to: [Ogre](#ogre) [Ogre Magi](#ogre-magi) [Cleric of Gruumsh](#cleric-of-gruumsh) [Battering Ram](#battering-ram) [Bolt Launcher](#bolt-launcher) [Chain Brute](#chain-brute) [Howdah](#howdah)
+> Jump to: [Ogre](#ogre) [Battering Ram](#battering-ram) [Bolt Launcher](#bolt-launcher) [Chain Brute](#chain-brute) [Howdah](#howdah) [Ogre Mage](#ogre-mage) [Ogre Priest (Cleric of Vaprak)](#ogre-priest) [Ogre Warpriest (Cleric of Gruumsh)](#ogre-warpriest)
 
 > See also: [Ogrillon](Ogrillon.md)
 
@@ -48,18 +48,6 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 **Javelin.** *Melee or Ranged Weapon Attack*: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
 
 #### Description
-
-
-
-## Ogre Magi
-
-
-
-## Ogre (Cleric of Gruumsh)
-
-
-
-## Ogre (Way of the Elements)
 
 
 
@@ -182,6 +170,63 @@ An ogre chain brute wields a great spiked chain. It swings this chain with both 
 
 #### Description
 ![Ogre Howdah](Ogre-Howdah.png) The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort is big enough to serve as a fighting platform for up to four small humanoids. Ogre howdahs are most often seen bearing goblins equipped with bows and spears into battle, but they could just as easily transport kobolds, deep gnomes, or other humanoids of similar size.
+
+
+
+## Ogre Mage
+*Large giant, chaotic evil*
+
+**Armor Class** 14 (hide armor, shield)
+
+**Hit Points** 119 (14d10 + 42)
+
+**Speed** 40 ft.
+
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+17 (+3)|10 (+0)|16 (+3)|8 (-1) |12 (+1)|14 (+2)
+
+**Saving Throws** Int +2
+
+**Senses** darkvision 60 ft., passive Perception 11
+
+**Languages** Common, Draconic, Giant
+
+**Challenge** 6 (2,300 XP)
+
+**Spellcasting.** The ogre is an 8th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
+
+* *Cantrips (at will)*: acid splash, dancing lights, firesweep, prestidigitation, radiant blade
+* *1st level (4 slots)*: fog cloud, jump, venomous ray
+* *2nd level (3 slots)*: gust of wind, shatter
+* *3rd level (3 slots)*: counterspell, lightning bolt
+* *4th level (2 slots)*: banishment, wall of fire
+
+**Sorcery Points.** The ogre has 8 sorcery points. As a bonus action, it can spend a number of sorcery points to create a spell slot, as a sorcerer does. Alternatively, it can, as a bonus action, sacrifice a spell slot to restore spent sorcery points equal to or less than the level of the spell slot sacrificed. It can spend 1 or more sorcery points to gain one of the following benefits:
+
+* **Quickened Spell.** When the ogre casts a spell that has a casting time of 1 action, it can spend 2 sorcery points to change the spell's casting time to 1 bonus action.
+
+* **Twinned Spell.** When the ogre casts a spell that can target only one creature and doesn't have a range of Self, it can spend a number of sorcery points equal to the spell's level to target a second creature within range with the same spell. If the spell is a cantrip, the ogre spends 1 sorcery point to use this feature.
+
+#### Actions
+**Morningstar.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 3) piercing damage.
+
+#### Description
+Ogres are not known for their magical prowess. Few have any amount of respect for nature, though many ogres worship Vaprak, few rise to become clerics and the stupid and impatient ogres make for poor scholars. Therefore, most ogre spellcasters are sorcerers, but even among these sorcerers, it is rare that their talents are respected by their fellows and rarer still for the ogres in question to have any real understanding of the forces they wield in battle. Some few, however, are born with greater intelligence (or wisdom, or cunning, depending on how you look at it), and become incredibly dangerous creatures.
+
+
+
+## Ogre Priest
+
+#### Description
+Ogres, when they stop to think about gods, generally find themselves aligned with the principles of Vaprak--when they even stop to consider principles at all. Some ogres, however, are born with some slightly better insight (or learn it from being thrust into a subservient role and told to learn--sometimes at the hands of a darker master), and learn to channel the divine power of Vaprak to ogrish benefit. It is said in some quarters that the Ogre Priests of Vaprak are divinely blessed to naturally immortal--that is, though they can still be killed, they do not age--because Vaprak needs them to wander the countryside, tending to the flock of ogres, lest they all kill themselves off... and leave Vaprak without a sizable number of worshippers.
+
+
+
+## Ogre Warpriest
+
+#### Description
+Some ogres prefer the much simpler canon of Gruumsh, the god of the Orcs: Kill as many as you can. Of those ogres who fall in with Gruumsh, some are elevated by the god to a clerical function, serving as a bastion of support and strength for the orcs around them--the better to kill as many as they can.
 
 
 
