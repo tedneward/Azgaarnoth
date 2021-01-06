@@ -7,6 +7,7 @@ Abstracts/concepts
   Beauty
   Civilization
   Courage
+  Desire
   Evil
   Fortune (good, bad, whatever), Luck
   Good
@@ -17,6 +18,7 @@ Abstracts/concepts
   Law
   Love
   Loyalty
+  Luck
   Medicine
   Secrets
   Strategy

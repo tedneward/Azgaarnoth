@@ -751,6 +751,12 @@ When you choose this feat, you acquire a ritual book holding two 1st-level spell
 If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents the material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
 
 
+## Rune Lore
+You have learned one of the [Runes](/Magic/Runes.md) of the Eldar. You know one rune (so long as you meet all the prerequisites for that rune), and cannot learn any more unless taking this feat a second (or more) time.
+
+Whenever you finish a long rest, you can touch a number of objects equal to the number of runes you know, and you inscribe a different rune onto each of the objects. To be eligible, an object must be a weapon, a suit of armor, a shield, a piece of jewelry, or something else you can wear or hold in a hand. Your rune remains on an object until you finish a long rest, and an object can bear only one of your runes at a time.
+
+
 ## Savage Attacker
 Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon's damage dice and use either total.
 
