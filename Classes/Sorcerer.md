@@ -398,11 +398,13 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * demiplane
 * Dominate Monster
 * Earthquake
+* [fist of flame](/Magic/Spells/fist-of-flame.md)
 * Incendiary Cloud
 * Power Word: Stun
 * Sunburst
 
 ## 9th Level
+* [blood to flame](/Magic/Spells/blood-to-flame.md)
 * foresight
 * Gate
 * Meteor Swarm

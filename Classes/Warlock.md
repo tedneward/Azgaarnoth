@@ -577,6 +577,7 @@ At 20th level, you can draw on your inner reserve of mystical power while entrea
 
 ## 9th Level
 * Astral Projection
+* [blood to flame](/Magic/Spells/blood-to-flame.md)
 * Foresight
 * gate
 * Imprisonment

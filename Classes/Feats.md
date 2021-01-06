@@ -199,6 +199,16 @@ modifier.
 You can only gain this benefit if you are wielding a weapon that deals piercing or slashing damage. If you are using a ranged weapon, the creature must be within 30 feet of you for you to gain this benefit.
 
 
+## Destined
+*Prerequisite: must have backstory elements and DM's approval to take this feat*
+
+You are part of a tapestry of purpose beyond your reckoning, and you are destined for great things, not to be stymied by the whims of luck or karma. You know that you will leave a mark on the story that unfolds around you, and perhaps even on the world You gain the following benefits:
+* You increase one ability score of your choice by 1.
+* Choose two backgrounds that are different than the one you started with. You gain those backgrounds' features in addition to your original background feature. This does not grant you additional proficiencies or equipment.
+* You have 3 destiny points. When you make an ability check and see the total but before you know the result of the check, you can spend 1 Destiny Point to change the number you rolled on the d20 to 15. You cannot use this to alter a check that affects a spell (such as for telekinesis or counterspell), a check that affects a grapple, or a Concentration check.
+* You regain all expended Destiny Points when you finish a long rest.
+
+
 ## Determination
 *Prerequisite: human*
 
@@ -212,6 +222,17 @@ You master the arts of diplomacy, gaining the following benefits:
 * Increase your Charisma score by 1, to a maximum of 20.
 * You gain proficiency in the Persuasion skill. If you are already proficient in this skill, you add double your proficiency bonus to checks you make with it.
 * If you spend 1 minute talking to someone who can understand what you say, you can make a Charisma (Persuasion) check contested by the creature’s Wisdom (Insight) check. If you or your companions are fighting the creature, your check automatically fails. If your check succeeds, the target is charmed by you as long as it remains within 60 feet of you and for 1 minute thereafter.
+
+
+## Doomed
+*Prerequisite: must have backstory elements and DM's approval to take this feat*
+
+You are not long for this world though you have no idea of this fate. Despite your abilities as an adventurer, you are not a part of this world's great stories, and you will soon exit the stage, but perhaps not before a grand finale. You gain the following benefits and drawbacks:
+* You can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1.
+* You gain the same benefits as those granted by the [Lucky](#lucky) feat. You can have both this feat and that one.
+* You can be critically hit by attacks on a roll of 19-20.
+* You have disadvantage on death saving throws, and other creatures have disadvantage on checks made to stabilize you. If you die, you cannot be resurrected by any means. While dying in combat, fate itself seems to compel enemies to go out of their way to quickly finish you off.
+* If you die, your allies will be inspired by your courage. When you do so, you may choose any number of creatures who can see or hear you. Those creatures gain temporary hit points equal to three times your level.
 
 
 ## Dragon Familiar
@@ -320,7 +341,7 @@ Increase your Dexterity, Intelligence, Wisdom, or Charisma score by 1, to a maxi
 Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma, you can reroll one of the dice once.
 
 
-#### Everybody's Friend
+## Everybody's Friend
 *Prerequisite: Half-elf*
 
 You develop your magnetic personality to ease your way through the world. You gain the following benefits:

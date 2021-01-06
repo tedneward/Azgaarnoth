@@ -1,6 +1,8 @@
 # Divine Domain: Arcana
 
 ## Domain Spells
+*1st-level Arcana Domain feature* 
+
 Starting at 1st level, you gain domain spells at the cleric levels listed in the Unity Domain Spells table. See the Arcana Domain class feature for how domain spells work.
 
 **Arcana Domain Spells**
@@ -13,10 +15,14 @@ Cleric Level |	Spells
 9th	| Planar Binding, Teleportation Circle
 
 ## Arcane Initiate
-When you choose this domain at 1st level, you gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips.
+*1st-level Arcana Domain feature* 
+
+You gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips.
 
 ## Channel Divinity: Arcane Abjuration
-Starting at 2nd level, you can use your Channel Divinity to abjure otherworldly creatures.
+*2nd-level Arcana Domain feature* 
+
+You can use your Channel Divinity to abjure otherworldly creatures.
 
 As an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a Wisdom saving throw, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
@@ -34,10 +40,16 @@ Cleric Level |	Banishes Creatures of CR...
 17th | 4 or lower
 
 ## Spell Breaker
-Starting at 6th level, when you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell.
+*6th-level Arcana Domain feature* 
+
+When you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell.
 
 ## Potent Spellcasting
-Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
+*8th-level Arcana Domain feature* 
+
+You add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
 ## Arcane Mastery
-At 17th level, you choose four spells from the wizard spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of domain spells. Like your other domain spells, they are always prepared and count as cleric spells for you.
+*17th-level Arcana Domain feature* 
+
+You choose four spells from the wizard spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of domain spells. Like your other domain spells, they are always prepared and count as cleric spells for you.

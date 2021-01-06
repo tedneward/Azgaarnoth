@@ -22,18 +22,9 @@ Among trolls, Vaprak is believed to devour those on the brink of death, but only
 
 **Speed** 30 ft.
 
-STR
-18(+4)
-DEX
-13(+1)
-CON
-20(+5)
-INT
-7(−2)
-WIS
-9(−1)
-CHA
-7(−2)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+18(+4) |13(+1) |20(+5) | 7(−2) | 9(−1) | 7(−2)
 
 **Skills** Perception +2
 
@@ -65,18 +56,9 @@ CHA
 
 **Speed** 40 ft.
 
-STR
-22(+6)
-DEX
-15(+2)
-CON
-21(+5)
-INT
-9(−1)
-WIS
-11(+0)
-CHA
-5(−3)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+22(+6) |15(+2) |21(+5) |9(−1)  |11(+0) |5(−3)
 
 **Saving Throws** Wis +5, Cha +2
 
@@ -121,18 +103,9 @@ Dire trolls also increase their size by grafting flesh and organs onto themselve
 
 **Speed** 30 ft.
 
-STR
-18(+4)
-DEX
-13(+1)
-CON
-22(+6)
-INT
-5(−3)
-WIS
-8(−1)
-CHA
-4(−3)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+18(+4) |13(+1) |22(+6) | 5(−3) | 8(−1) | 4(−3)
 
 **Skills** Perception +3
 
@@ -167,19 +140,11 @@ CHA
 
 **Speed** 30 ft.
 
-STR
-1(−5)
-DEX
-17(+3)
-CON
-13(+1)
-INT
-8(−1)
-WIS
-9(−1)
-CHA
-16(+3)
-Skills Perception +3
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+ 1(−5) | 17(+3)| 13(+1)| 8(−1) | 9(−1) |16(+3)
+
+**Skills** Perception +3
 
 **Damage Resistances** acid, cold, fire, lightning, thunder
 
@@ -218,18 +183,9 @@ Skills Perception +3
 
 **Speed** 30 ft.
 
-STR
-18(+4)
-DEX
-13(+1)
-CON
-20(+5)
-INT
-7(−2)
-WIS
-9(−1)
-CHA
-7(-2)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+18(+4) | 13(+1)| 20(+5)| 7(−2) | 9(−1) | 7(-2)
 
 **Skills** Perception +2
 

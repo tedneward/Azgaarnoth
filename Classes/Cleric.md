@@ -131,6 +131,7 @@ Choose one domain:
 * [Chaos](Cleric/Chaos.md)
 * [Death](Cleric/Death.md)
 * [Defier](Cleric/Defier.md)
+* [Desire](Cleric/Desire.md)
 * [Dragon](Cleric/Dragon.md)
 * Elements: [Air](Cleric/Air.md), [Earth](Cleric/Earth.md), [Fire](Cleric/Fire.md), [Water](Cleric/Water.md)
 * [Forge](Cleric/Forge.md)
@@ -138,6 +139,7 @@ Choose one domain:
 * [Knowledge](Cleric/Knowledge.md)
 * [Life](Cleric/Life.md)
 * [Light](Cleric/Light.md)
+* [Luck](Cleric/Luck.md)
 * [Nature](Cleric/Nature.md)
 * [Order](Cleric/Order.md)
 * [Protection](Cleric/Protection.md)
@@ -157,7 +159,9 @@ Each domain has a list of spells-its domain spells that you gain at the cleric l
 If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
 ## Channel Divinity
-At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with three such effects: Turn Undead, Harness Divine Power, and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
+*2nd-level cleric feature*
+
+You gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with three such effects: Turn Undead, Harness Divine Power, and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
 
 When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
 
@@ -171,10 +175,15 @@ As an action, you present your holy symbol and speak a prayer censuring the unde
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 ## Channel Divinity: Harness Divine Power
-Starting at 2nd level, you can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended 1st-level spell slot.
+Starting at 2nd level, you can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended 1st-level spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+## Cantrip Versatility
+*4th-level cleric feature*
+
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the cleric spell list. 
 
 ## Destroy Undead
 Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown below:
@@ -189,11 +198,9 @@ Cleric Level | Destroys Undead of CR ...
 17th| 4 or lower
 
 ## Blessed Strikes
-(*Replaces Divine Strike or Potent Spellcasting from Divine Domain features*)
+*8th-level cleric feature; replaces Divine Strike or Potent Spellcasting from Divine Domain features*
 
-Starting at the 8th level, in battle, you are blessed with divine might. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can’t use this feature again until the start of your next turn.
-
-A player may choose Blessed Strikes instead of Divine Strike or Potent Spellcasting in their Domain feature list. This choice may be revisited each time the cleric reaches a new level.
+You are blessed with divine might in battle. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can’t use this feature again until the start of your next turn.
 
 ## Divine Intervention
 Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.
@@ -236,6 +243,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * [purify food and drink](https://www.dndbeyond.com/spells/purify-food-and-drink)
 * [sanctuary](https://www.dndbeyond.com/spells/sanctuary)
 * [shield of faith](https://www.dndbeyond.com/spells/shield-of-faith)
+* [shield of vanity](/Magic/Spells/shield-of-vanity.md)
 * [wrathful smite](https://www.dndbeyond.com/spells/wrathful-smite)
 
 ## 2nd Level
@@ -297,6 +305,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * Stone Shape
 
 ## 5th Level
+* [blessing of luck](/Magic/Spells/blessing-of-luck.md)
 * Commune
 * Contagion
 * Dispel Evil and Good
@@ -311,7 +320,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * Raise Dead
 * Scrying
 * Skill empowerment
-* Summon Celestial Spirit (UA)
+* Summon Celestial
 * Wall of light
 
 ## 6th Level
@@ -324,6 +333,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * Heroes' Feast
 * Otherworldly Form (UA)
 * Planar Ally
+* sunbeam
 * True Seeing
 * Word of Recall
 
@@ -342,6 +352,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * Control Weather
 * Earthquake
 * Holy Aura
+* sunburst
 
 ## 9th Level
 * Astral Projection

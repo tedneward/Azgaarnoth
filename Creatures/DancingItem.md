@@ -1,17 +1,17 @@
-# Creature: Dancing Item
+# Dancing Item
 *Large or smaller construct, neutral*
 
 **Armor Class** 16 (natural armor)
 
-**Hit Points** equal the dancing item’s Constitution modifier + your Charisma modifier + five times your level in this class 
+**Hit Points**10 + five times the creator's bard level
 
-**Speed** 40 ft.
+**Speed** 30 ft., fly 30 ft (hover)
 
 **STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
 -------|-------|-------|-------|-------|-------
 18 (+4)|14 (+2)|16 (+3)|4 (−4) |10 (+0)| 6 (−2)
 
-**Damage Immunities** poison
+**Damage Immunities** poison, pyschic
 
 **Condition Immunities** charmed, exhaustion, poisoned, frightened
 
@@ -19,10 +19,12 @@
 
 **Languages** understands the languages you speak
 
-**Endless Waltz.** Immediately after the item makes a slam attack, it can take the Dodge action as a bonus action.
+**Challenge** -- **Proficiency Bonus** equals the creator's bonus
 
 **Immutable Form.** The item is immune to any spell or effect that would alter its form.
 
-## Actions (Requires Your Bonus Action)
-**Force-Empowered Slam.** Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target you can see. Hit: 1d10 + your Charisma modifier force damage.
+**Irrepressible Dance.** When any creature starts its turn within 10 feet of the item, the item can increase or decrease (your choice) the walking speed of that creature by 10 feet until the end of the turn, provided the item isn't incapacitated.
+
+## Actions
+**Force-Empowered Slam.** Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target you can see. Hit: 1d10 + PB force damage.
 

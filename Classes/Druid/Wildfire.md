@@ -1,40 +1,51 @@
 # Druidic Circle: Circle of Wildfire
-Druids who are members of the Circle of Wildfire understand the necessity of destruction, such as how a forest fire promotes growth. These druids bond with a primal spirit that harbors destructive endencies, allowing the druids to use their power to create controlled flames that help flora and fauna reproduce and grow.
+Druids within the Circle of Wildfire understand that destruction is sometimes the precursor of creation, such as when a forest fire promotes later growth. These druids bond with a primal spirit that harbors both destructive and creative power, allowing the druids to create controlled flames that burn away one thing but give life to another. 
 
 ## Circle Spells
-You have formed a mystical bond with a wildfire spirit, a primal being of creation and destruction. Your link with this spirit grants you access to certain spells. At 2nd level, you learn the [fire bolt](https://www.dndbeyond.com/spells/fire-bolt)cantrip. When you reach certain levels in this class, you gain access to the spells listed for that level in the Circle of Wildfire Spells table. Once you gain access to one of these spells, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
+*2nd-level Circle of Wildfire feature*
+
+You have formed a bond with a wildfire spirit, a primal being of creation and destruction. Your link with this spirit grants you access to some spells when you reach certain levels in this class, as shown on the Circle of Wildfire Spells table.
+
+Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
 Druid Level| Spells
 ---------- | ------
-3rd|	Locate Animals or Plants, Scorching Ray
-5th|	Fireball, Plant Growth
-7th|	Aura of Life, Fire Shield
-9th|	Flame Strike, Raise Dead
+2nd| burning hands, cure wounds
+3rd| flaming sphere, Scorching Ray
+5th| Plant Growth, revivify
+7th| Aura of Life, Fire Shield
+9th| flame strike, mass cure wounds
 
 ## Summon Wildfire
-At 2nd level, you can summon the primal spirit bound to your soul. As an action, you can expend one use of your Wild Shape feature to summon your [wildfire spirit](/Creatures/WildfireSpirit.md), rather than assuming a beast form.
+*2nd-level Circle of Wildfire feature*
 
-The spirit appears in an unoccupied space of your choice you can see within 30 feet of you. Each creature within 10 feet of the spirit (other than you) when it appears must succeed on a Dexterity saving throw against your spell save DC or take 2d10 fire damage.
+You can summon the primal spirit bound to your soul. As an action, you can expend one use of your Wild Shape feature to summon your [wildfire spirit](/Creatures/WildfireSpirit.md), rather than assuming a beast form.
 
-The wildfire spirit is friendly to you and your companions and obeys your commands. See this creature’s game statistics in the wildfire spirit stat block. You determine the spirit’s appearance. Some spirits take the form of a humanoid figure made of gnarled branches covered in flame, while others look like beasts wreathed in fire.
+The spirit appears in an unoccupied space of your choice that you can see within 30 feet of you. Each creature within 10 feet of the spirit (other than you) when it appears must succeed on a Dexterity saving throw against your spell save DC or take 2d6 fire damage.
 
-In combat, the wildfire spirit shares your initiative count, but it takes its turn immediately after yours. The only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take one of the actions in its stat block or to take the Dash, Disengage, Help, or Hide action.
+The spirit is friendly to you and your companions and obeys your commands. You determine the spirit's appearance. Some spirits take the form of a humanoid figure made of gnarled branches covered in flame, while others look like beasts wreathed in fire.
 
-The wildfire spirit manifests for 1 hour, until it is reduced to 0 hit points, or until you use your Wild Shape again.
+In combat, the spirit shares your initiative count, but it takes its turn immediately after yours. The only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the spirit can take any action of its choice, not just Dodge.
+
+The spirit manifests for 1 hour, until it is reduced to 0 hit points, until you use this feature to summon the spirit again, or until you die.
 
 ## Enhanced Bond
-At 6th level, the bond with your wildfire spirit enhances your destructive and restorative spells. Whenever you cast a spell that deals fire damage or restores hit points while your wildfire spirit is summoned, roll a d8, and you gain a bonus to one roll of the spell equal to the number rolled.
+*6th-level Circle of Wildfire feature*
 
-In addition, when you cast a spell with a range other than self, the spell can originate from you or your wildfire spirit.
+The bond with your wildfire spirit enhances your destructive and restorative spells. Whenever you cast a spell that deals fire damage or restores hit points while your wildfire spirit is summoned, roll a d8, and you gain a bonus equal to the number rolled to one damage or healing roll of the spell.
 
-## Flames of Life
-You gain the ability to turn death into flames of vitality. When a Small or larger creature that you can see dies within 30 feet of you or your wildfire spirit, you can use your reaction to cause primal flames to spring from the body. When a creature you can see touches these flames, the creature regains hit points or takes fire damage (your choice) equal to 2d10 + your Wisdom modifier. The flames vanish after a creature has touched them or after 1 minute.
+In addition, when you cast a spell with a range other than self, the spell can originate from you or your wildfire spirit. 
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.
+## Cauterizing Flames
+*10th-level Circle of Wildfire feature*
 
-## Blazing Endurance
-At 14th level,The bond with your wildfire spirit is exceptionally strong, even fatal blows only fuel your defiance. If you drop to 0 hit points and don’t die outright, you drop to 1 hit point instead and gain temporary hit points equal to five times your druid level, and each creature of your choice within 30 feet of you that you can see takes fire damage equal to 2d10 + your druid level.
+You gain the ability to turn death into magical flames that can heal or incinerate. When a Small or larger creature dies withiff 30 feet of you or your wildfire spirit, a harmless spectral flame springs forth in the dead creature's space and flickers there for 1 minute. When a creature you can see enters that space, you can use your reaction to extinguish the spectral flame there and either heal the creature or deal fire damage to it. The healing or damage equals 2d10 + your Wisdom modifier. 
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. 
 
-*Source: [Unearthed Arcana: Cleric, Druid, and Wizard](https://dnd.wizards.com/articles/unearthed-arcana/cleric-druid-wizard)*
+## Blazing Revival
+*14th-level Circle of Wildfire feature*
+
+The bond with your wildfire spirit can save you from death. If the spirit is within 120 feet of you when you are reduced to 0 hit points and thereby fall unconscious, you can cause the spirit to drop to 0 hit points. You then regain half your hit points and immediately rise to your feet. 
+
+Once you use this feature, you can't use it again until you finish a long rest.

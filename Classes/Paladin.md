@@ -179,6 +179,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * [purify food and drink](https://www.dndbeyond.com/spells/purify-food-and-drink)
 * [searing smite](https://www.dndbeyond.com/spells/searing-smite)
 * [shield of faith](https://www.dndbeyond.com/spells/shield-of-faith)
+* [shield of vanity](/Magic/Spells/shield-of-vanity.md)
 * [thunderous smite](https://www.dndbeyond.com/spells/thunderous-smite)
 * [wrathful smite](https://www.dndbeyond.com/spells/wrathful-smite)
 

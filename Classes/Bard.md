@@ -96,14 +96,25 @@ You can use this feature a number of times equal to your Charisma modifier (a mi
 
 Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
 
+## Magical Inspiration
+*2nd-level bard feature*
+
+If a creature has a Bardic Inspiration die from you and casts a spell that restores hit points or deals damage, the creature can roll that die and choose a target affected by the spell. Add the number rolled as a bonus to the hit points regained or the damage dealt. The Bardic Inspiration die is then lost.
+
 ## Jack of All Trades
-Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
+*2nd-level bard feature*
+
+You can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
 
 ## Song of Rest
-Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.
+*2nd-level bard feature*
+
+You can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.
 
 ## Bard College
-At 3rd level, you delve into the advanced techniques of a bard college of your choice:
+*3rd-level bard feature*
+
+You delve into the advanced techniques of a bard college of your choice:
 
 * [Creation](Bard/Creation.md)
 * [Dragonsong](Bard/Dragonsong.md)
@@ -119,11 +130,23 @@ At 3rd level, you delve into the advanced techniques of a bard college of your c
 Your choice grants you features at 3rd level and again at 6th and 14th level.
 
 ## Expertise
-At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+*3rd-level bard feature*
+
+Choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 
 At 10th level, you can choose another two skill proficiencies to gain this benefit.
 
+## Bardic Versatility
+*4th-level bard feature*
+
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change in focus as you use your skills and magic:
+
+* Replace one of the skills you chose for the Expertise feature with one of your other skill proficiencies that isn't benefiting from Expertise.
+* Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the bard spell list.
+
 ## Ability Score Improvement
+*4th-level bard feature*
+
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ## Font of Inspiration
@@ -181,6 +204,7 @@ At 20th level, when you roll initiative and have no uses of Bardic Inspiration l
 * [illusory script](https://www.dndbeyond.com/spells/illusory-script)
 * [longstrider](https://www.dndbeyond.com/spells/longstrider)
 * [sense emotion](https://www.dndbeyond.com/spells/sense-emotion)
+* [shield of vanity](/Magic/Spells/shield-of-vanity.md)
 * [silent image](https://www.dndbeyond.com/spells/silent-image)
 * [sleep](https://www.dndbeyond.com/spells/sleep)
 * [speak with animals](https://www.dndbeyond.com/spells/speak-with-animals)
@@ -230,6 +254,7 @@ At 20th level, when you roll initiative and have no uses of Bardic Inspiration l
 * Feign Death
 * Glyph of Warding
 * Hypnotic Pattern
+* intellect fortress
 * Leomund's Tiny Hut
 * Major Image
 * Mass Healing Word
@@ -255,10 +280,12 @@ At 20th level, when you roll initiative and have no uses of Bardic Inspiration l
 * Locate Creature
 * Phantasmal Killer
 * Polymorph
+* [twist fate](/Magic/Spells/twist-fate.md)
 
 ## 5th Level
 * Animate Objects
 * Awaken
+* [blessing of luck](/Magic/Spells/blessing-of-luck.md)
 * Contact other plane (ritual)
 * Dominate Person
 * Dream
@@ -290,6 +317,7 @@ At 20th level, when you roll initiative and have no uses of Bardic Inspiration l
 * True Seeing
 
 ## 7th Level
+* dream of the blue veil
 * Etherealness
 * Forcecage
 * Mirage Arcane

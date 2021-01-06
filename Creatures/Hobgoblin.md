@@ -1,7 +1,7 @@
 # Hobgoblin
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as Hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive Humanoids, whose thirst for conquest is never satisfied.
 
-> Jump to: [Warrior](#warrior) [Regular](#regular) [Veteran](#veteran) [Sergeant](#sergeant) [Captain](#captain) [Warlord](#warlord) [Bladebearer (Fighter)](#bladebearer) [Iron Shadow (Monk)](#iron-shadow) [Devastator (Sorceror)](#devastator) [Kulkor Zhul Mindbender (Bard)](#mindbender) [Kulkor Zhul War Adept (Mage)](#war-adept) [Child of Maglubiyet (Cleric)](#child-of-maglubiyet)
+> Jump to: [Warrior](#warrior) [Regular](#regular) [Veteran](#veteran) [Sergeant](#sergeant) [Captain](#captain) [Warlord](#warlord) [Bladebearer (Fighter)](#bladebearer) [Iron Shadow (Monk)](#iron-shadow) [Devastator (Sorceror)](#devastator) [Kulkor Zhul Mindbender (Bard)](#mindbender) [Kulkor Zhul War Adept (Mage)](#war-adept) [Child of Maglubiyet (Cleric)](#child-of-maglubiyet) [Doom Hand Cleric](#doom-hand-cleric) [Doom Fist Monk](#doom-fist-monk)
 
 Hobgoblins have dark orange or red-orange skin, and hair ranging from dark red-brown to dark gray. Yellow or dark brown eyes peer out beneath their beetling brows, and their wide mouths sport sharp and yellowed teeth. A male Hobgoblin might have a large blue or red nose, which symbolizes virility and power among goblinkin. Hobgoblins can live as long as Humans, though their love of warfare and battle means that few do.
 
@@ -459,9 +459,9 @@ It is rumored that the Order of Iron Shadows is organized precisely along the sa
 * *4th (1 slot)*: greater invisibility, phantasmal killer
 
 #### Actions
-**Shortbow.**
+**Shortbow.** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 
-**Shortsword.**
+**Scimitar.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 
 #### Description
 The Mindbenders are Hobgoblin bards that serve as political officers across the Hobgoblin ranks. Among other Hobgoblins, they look to persuade the members of the Legions to act steadfast and true to the cause, as well as "re-educating" those Hobgoblins that seem to question or doubt. The Mindbenders are an offshoot of the [College of Whispers](/Classes/Bard/Whispers.md), and likely the result of a direct copy of that bardic college by Hobgoblin spies millennia ago.
@@ -512,11 +512,12 @@ The Mindbenders are Hobgoblin bards that serve as political officers across the 
 * *4th (2 slots)*: ice storm, summon aberrant spirit
 
 #### Actions
-**Shortbow.**
+**Shortbow.** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 
-**Shortsword.**
+**Scimitar.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 
 #### Description
+The Kulkor Zhul War Adepts are a sect of hobgoblin that have embraced their sorcerous draconic heritage and used that to arcane advantage. They are crafty, cunning casters, and often lead hobgoblin detachments as well as support them with their spells.
 
 ---
 
@@ -530,3 +531,86 @@ Those who show a particular penchant for omens (either in drawing them out or si
 
 The names of these are often translated as "Sons of Maglubiyet", which is an incorrect translation (owning to the unigender pronoun mentioned in the general description above); nevertheless, while many of the Children are female, when speaking with non-Goblinoids, they will often refer to themselves as "sons" to keep confusion to a minimum.
 
+---
+
+## Doom Hand Cleric
+*Medium hobgoblin, lawful evil*
+
+**Armor Class** 16 (Chain Mail)
+
+**Hit Points** 36 (6d8 + 12) 
+
+**Speed** 30 ft.
+
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+14 (+2)|14 (+2)|14 (+2)|10 (0) |13 (+1)|14 (+2)
+
+**Skills** Deception +4, Persuasion +4, Religion +2 
+
+**Senses** passive Perception 11 Darkvision 60 ft. 
+
+**Languages** Common, Goblin
+
+**Challenge** 2 (450 XP)
+
+**Martial Advantage**. Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
+
+**Dark Devotion**. The doom hand cleric has advantage on saving throws against being charmed or frightened.
+
+**Spellcasting**. The doom hand cleric is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The doom hand has the following cleric spells prepared:
+
+* *Cantrips* (at will): [resistance](https://www.dndbeyond.com/spells/resistance), [spare the dying](https://www.dndbeyond.com/spells/spare-the-dying), [thaumaturgy](https://www.dndbeyond.com/spells/thaumaturgy)
+
+* *1st level* (4 slots): [bane](https://www.dndbeyond.com/spells/bane)/[bless](https://www.dndbeyond.com/spells/bless), [inflict wounds](https://www.dndbeyond.com/spells/inflict-wounds), [guiding bolt](https://www.dndbeyond.com/spells/guiding-bolt), [shield of faith](https://www.dndbeyond.com/spells/shield-of-faith)
+
+* *2nd level* (3 slots): [hold person](https://www.dndbeyond.com/spells/hold-person), [invisibility](https://www.dndbeyond.com/spells/invisibility), [spiritual weapon](https://www.dndbeyond.com/spells/spiritual-weapon)
+
+#### Actions
+**Multiattack**. The doom hand makes two melee attacks. 
+
+**Scimitar**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (2d4 + 2) slashing damage.
+
+#### Description
+The Doom Hand Clerics are a sect of Maglubiyet worshippers dedicated to the advancement of hobgoblin supremacy. They frequently rally around any Legion that makes a strong move towards the conquest of lands or cities that will benefit goblinoidkind anywhere across Azgaarnoth. While they do not bear any ill will to the Children of Maglubiyet, the two sects often disagree on the will of the Mighty One, and sometimes find themselves working to cross purposes.
+
+---
+
+## Doom Fist Monk
+*Medium humanoid (Goblinoid), lawful evil*
+
+**Armor Class** 15 (DEX, unarmored defense)
+
+**Hit Points** 32 (5d8 + 10) 
+
+**Speed** 40 ft.
+
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+14 (+2)|16 (+3)|15 (+2)|14 (+2)|15 (+2)|11 (0)
+
+**Skills** Acrobatics +5, Athletics +4, Stealth +5
+
+**Senses** darkvision 60ft, passive Perception 12
+
+**Languages** Common, Goblin
+
+**Challenge** 2 (450 XP)
+
+**Unarmored Defense**. While the doom fist monk is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
+
+**Spellcasting**. The doom fist monk is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The doom fist has the following spells prepared:
+
+* *Cantrips* (at will): acid splash, fire bolt, ray of frost
+
+* *1st level* (4 slots): burning hands, mage armor, thunderwave
+
+#### Actions
+**Multiattack**. The doom fist monk makes four attacks, each of which can be an unarmed strike or a dart attack.
+
+**Unarmed Strike**. Melee Weapon Attack. Hit: +5, Reach 5ft, One target, 1d8+3 bludgeoning damage.
+
+**Javelin.** Ranged Weapon Attack. Hit: +5, Range 20/60, One target, 1d8+3 piercing damage.
+
+#### Description
+The Doom First Monks are a monastic order of hobgoblins dedicated to the cause of hobgoblin supremacy. They frequently rally around any Legion that makes a strong move towards the conquest of lands or cities that will benefit goblinoidkind anywhere across Azgaarnoth. The location of their chapterhouses are a closely-guarded secret, and they are second only to the Iron Shadow Monks in number.

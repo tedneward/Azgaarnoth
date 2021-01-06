@@ -434,6 +434,7 @@ While wearing this ring, the creature can recover one expended spell slot as an 
 * [longstrider](https://www.dndbeyond.com/spells/longstrider)
 * [purify food and drink](https://www.dndbeyond.com/spells/purify-food-and-drink)
 * [sanctuary](https://www.dndbeyond.com/spells/sanctuary)
+* [shield of vanity](/Magic/Spells/shield-of-vanity.md)
 * [snare](https://www.dndbeyond.com/spells/snare)
 
 ## 2nd Level

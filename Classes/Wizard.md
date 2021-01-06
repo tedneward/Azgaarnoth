@@ -380,6 +380,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Storm Sphere
 * Summon Abberant Spirit (UA)
 * Summon Elemental Spirit (UA)
+* [twist fate](/Magic/Spells/twist-fate.md)
 * Vitriolic Sphere
 * Wall of Fire
 * Watery Sphere
@@ -471,6 +472,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Demiplane
 * Dominate Monster
 * Feeblemind
+* [fist of flame](/Magic/Spells/fist-of-flame.md)
 * Incendiary Cloud
 * Maze
 * Mind Blank
@@ -480,6 +482,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 
 ## 9th Level
 * Astral Projection
+* [blood to flame](/Magic/Spells/blood-to-flame.md)
 * Foresight
 * Gate
 * Imprisonment

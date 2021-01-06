@@ -58,13 +58,12 @@ You start with the following equipment, in addition to the equipment granted by 
 You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.
 
 ## Spellcasting
+*1st-level druid feature*
+
 Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will.
 
 ### Cantrips
-At 1st level, you know two cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Druid table.
-
-### Cantrip Versatility
-Whenever you gain a level in this class, you can replace one cantrip you learned from this Spellcasting feature with another cantrip from the druid spell list.
+You know two cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Druid table.
 
 ### Preparing and Casting Spells
 The Druid table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these druid spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
@@ -87,7 +86,9 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 You can use a druidic focus as a spellcasting focus for your druid spells.
 
 ## Wild Shape
-Starting at 2nd level, you can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or long rest.
+*2nd-level druid feature*
+
+You can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or long rest.
 
 Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn't have a flying or swimming speed.
 
@@ -112,8 +113,10 @@ While you are transformed, the following rules apply:
 
 * You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
-### Wild Companion
-Starting at 2nd level, you gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the [find familiar]() spell, without material components.
+## Wild Companion
+*2nd-level druid feature*
+
+You gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the [find familiar]() spell, without material components.
 
 When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after a number of hours equal to half your druid level.
 
@@ -122,11 +125,12 @@ At 2nd level, you choose to identify with a circle of druids:
 * [Circle of Dragons](Druid/Dragons.md)
 * [Circle of Dreams](Druid/Dreams.md)
 * [Circle of the Land](Druid/Land.md)
+* [Circle of the Molt](Druid/Molt.md)
 * [Circle of the Moon](Druid/Moon.md)
 * [Circle of the Shepherd](Druid/Shepherd.md)
 * [Circle of the Solstice](Druid/Solstice.md)
 * [Circle of Spores](Druid/Spores.md)
-* [Circle of the Stars](Druid/Stars.md)
+* [Circle of Stars](Druid/Stars.md)
 * [Circle of Twilight](Druid/Twilight.md)
 * [Circle of Wildfire](Druid/Wildfire.md)
 
@@ -135,14 +139,25 @@ Your choice grants you features at 2nd level and again at 6th, 10th, and 14th le
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
+## Cantrip Versatility
+*4th-level druid feature*
+
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the druid spell list. 
+
 ## Timeless Body
-Starting at 18th level, the primal magic that you wield causes you to age more slowly. For every 10 years that pass, your body ages only 1 year.
+*18th-level druid feature*
+
+The primal magic that you wield causes you to age more slowly. For every 10 years that pass, your body ages only 1 year.
 
 ## Beast Shapes
-Beginning at 18th level, you can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren't able to provide material components.
+*18th-level druid feature*
+
+You can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren't able to provide material components.
 
 ## Archdruid
-At 20th level, you can use your Wild Shape an unlimited number of times.
+*20th-level druid feature*
+
+You can use your Wild Shape an unlimited number of times.
 
 # Druid Spells
 The following spells listed are known (but not necessarily accessible, depending on the circle chosen) to all druids throughout Azgaarnoth; this is not the complete list of all druid spells, however. Certain circles may have additional spells that are only known to them, and thus are not accessible to other circles. Druids can learn new spells by visiting foreign circles, communing with nature for significant periods of time, and so on. (In other words, DMs can release new druid spells, but the druids do not have access to them by default.)
@@ -221,6 +236,7 @@ Druids can, at the discretion of the DM, learn spells from other circles, but ge
 * [protection from poison](https://www.dndbeyond.com/spells/protection-from-poison)
 * [skywrite](https://www.dndbeyond.com/spells/skywrite) (ritual)
 * [spike growth](https://www.dndbeyond.com/spells/spike-growth)
+* summon beast
 * [summon bestial spirit](https://www.dndbeyond.com/spells/summon-bestial-spirit)
 * [warding wind](https://www.dndbeyond.com/spells/warding-wind)
 
@@ -240,6 +256,7 @@ Druids can, at the discretion of the DM, learn spells from other circles, but ge
 * Revivify
 * Sleet Storm
 * Speak with Plants
+* summon fey
 * Summon Fey Spirit
 * Thunder step
 * Tidal Wave
@@ -270,6 +287,7 @@ Druids can, at the discretion of the DM, learn spells from other circles, but ge
 * Polymorph
 * Stone Shape
 * Stoneskin
+* summon elemental
 * Summon Elemental Spirit (UA)
 * Wall of Fire
 * Watery Sphere

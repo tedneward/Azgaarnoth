@@ -1,41 +1,56 @@
-# Cleric Domain: Order
+# Divine Domain: Order
 The Order domain represents discipline, as well as service to a society or an institution, whether that service is rendered in obedience to or enforcement of the law—-civil, religious, or both. [Kaevar](/Religions/KaevarianChurch.md) believes strongly in Order, or so his clergy claim, but it is well known in other religions as well, at least well enough for clerics to take it as a Divine Domain.
 
-The ideal of order is obedience to the law above all else, rather than to a specific individual or the passing influence of emotion or popular rule. Clerics of order are typically concerned with how things are done, rather than whether an action’s results are just. Following the law and obeying its edicts is critical, especially when it benefits these clerics and their deities.
-
-More importantly, law establishes hierarchies. Those selected by the law to lead must be obeyed. Those who obey must do so to the best of their ability. In this manner, law creates an intricate web of obligations that allows society to forge order and security in a chaotic multiverse.
+The ideal of order is obedience to the law above all else, rather than to a specific individual or the passing influence of emotion or popular rule. Clerics of Order believe that well-crafted laws establish legitimate hierarchies, and those selected by law to lead must be obeyed. Those who obey must do so to the best of their ability, and if those who lead fail to protect the law, they must be replaced. More importantly, law establishes hierarchies. Those selected by the law to lead must be obeyed. Those who obey must do so to the best of their ability. In this manner, law creates an intricate web of obligations that allows society to forge order and security in a chaotic multiverse.
 
 ## Domain Spells
-Starting at 1st level, you gain domain spells at the cleric levels listed in the Order Domain Spells table. See the Divine Domain class feature for how domain spells work.
+*1st-level Order Domain feature* 
+
+You gain domain spells at the cleric levels listed in the Order Domain Spells table. See the Divine Domain class feature for how domain spells work.
 
 **Order Domain Spells**
 Cleric Level | Spells
 ------------ | ------
 1st | command, heroism
-3rd | enhance ability, hold person
+3rd | hold person, zone of truth
 5th | mass healing word, slow
 7th | compulsion, locate creature
 9th | commune, dominate person
     
-## Bonus Proficiency
-When you choose this domain at 1st level, you gain proficiency with heavy armor.
+## Bonus Proficiencies
+*1st-level Order Domain feature*
+
+You gain proficiency with heavy armor. You also gain proficiency in the Intimidation or Persuasion skill (your choice). 
 
 ## Voice of Authority
-Starting at 1st level, you can invoke the power of law to drive an ally to attack. Immediately after you cast a spell on an ally using a spell slot of 1st level or higher, that ally can use their reaction to make one weapon attack against a target of your choice that you can see. If the spell targets more than one ally, you choose the ally who can make the attack.
+*1st-level Order Domain feature*
+
+You can invoke the power of law to embolden an ally to attack. If you cast a spell with a spell slot of 1st level or higher and target an ally with the spell, that ally can use their reaction immediately after the spell to make one weapon attack against a creature of your choice that you can see. 
+
+If the spell targets more than one ally, you choose the ally who can make the attack. 
 
 ## Channel Divinity: Order’s Demand
-Starting at 2nd level, you can use your Channel Divinity to exert an intimidating presence over others.
+*2nd-level Order Domain feature*
 
-As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be charmed by you until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the charmed creatures to fall prone when they fail the saving throw.
+You can use your Channel Divinity to exert an intimidating presence over others.
 
-## Order’s Dominion
-At 6th level, you become extraordinarily adept at channeling magical energy to compel others.
-When you cast a spell of the enchantment school using a spell slot of 2nd level or higher, you regain one expended spell slot. The slot you regain must be of a level lower than the spell you cast and can’t be higher than 5th level.
+As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be charmed by you until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the charmed creatures to drop what they are holding when they fail the saving throw. 
+
+## Embodiment of the Law
+*6th-level Order Domain feature*
+
+You have become remarkably adept at channeling magical energy to compel others.
+
+If you cast a spell of the enchantment school using a spell slot of 1st level or higher, you can change the spell's casting time to 1 bonus action for this casting, provided the spell's casting time is normally 1 action.
+
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
 
 ## Divine Strike
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 force damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+*8th-level Order Domain feature*
 
-## Order’s Wrath
-Starting at 17th level, enemies you designate for destruction wilt under the combined efforts of you and your allies. If you deal your Divine Strike damage to a creature, that creature takes an extra 2d8 force damage the first time each turn that any ally of yours hits it with a weapon attack. This benefit lasts until the start of your next turn.
+You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 psychic damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
-*Source: [Unearthed Arcana: Order Domain](https://dnd.wizards.com/articles/unearthed-arcana/order-domain)*
+## Order's Wrath
+*17th-level Order Domain feature*
+
+Enemies you designate for destruction wilt under the combined efforts of you and your allies. If you deal your Divine Strike damage to a creature on your turn, you can curse that creature until the start of your next turn. The next time one of your allies hits the cursed creature with an attack, the target also takes 2d8 psychic damage, and the curse ends. You can curse a creature in this way only once per turn. 
