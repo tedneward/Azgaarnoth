@@ -3,23 +3,54 @@ Monks of the Way of Mercy learn to manipulate the life force of others to bring 
 
 Monks of Mercy are revered everywhere they travel, and no sentient creature on Azgaarnoth will deliberately attack a monk of Mercy without extreme provocation. (In return, however, most creatures will also expect the same sort of pacifism out of a Mercy monk, and violations of that expectation can often turn extremely violent.) The monks maintain a monastery--what they call a *hospital*--in the capital of every nation of Azgaarnoth, and many Masters of Mercy travel with a small retinue of other Mercy monks as a sort of "traveling hospital" to the various villages, towns, cities, and holdings. The monks are also willing to take any sort--from the smallet kobold to the boldest giant--as an initiate, so long as they abide by the Law of Mercy.
 
-## Hands of Healing
-At 3rd level, your mystical touch can mend wounds. As an action, you can spend 1 ki point to touch a creature and restore a number of hit points equal to a roll of your Martial Arts die + your Wisdom modifier. When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this feature without spending its ki cost.
+## Implements of Mercy
+*3rd-level Way of Mercy feature*
+
+You gain proficiency in the Insight and Medicine skills, and you gain proficiency with the
+herbalism kit.
+
+You also gain a special mask, which you often wear when using the features of this subclass. You determine its appearance, or generate it randomly by rolling on the Merciful Mask table. 
+
+**Merciful Mask**
+d6 Mask|Appearance
+1 |Raven
+2 |Blank and white
+3 |Crying visage
+4 |Laughing visage
+5 |Skull
+6 |Butterfly
+
+## Hand of Healing
+*3rd-level Way of Mercy feature*
+
+Your mystical touch can mend wounds. As an action, you can spend 1 ki point to touch a creature and restore a number of hit points equal to a roll of your Martial Arts die + your Wisdom modifier.
+
+When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this feature without spending a ki point for the healing.
 
 ## Hands of Harm
-At 3rd level, you use your ki to inflict wounds. When you hit a creature with an unarmed strike, you can spend 1 ki point to deal extra necrotic damage equal to one roll of your Martial Arts die. If the creature is incapacitated or poisoned, the creature instead takes necrotic damage equal to three rolls of your Martial Arts die instead. You can use this feature only once on each of your turns.
+*3rd-level Way of Mercy feature*
 
-## Noxious Aura
-Starting at 6th level, as a bonus action, you spend 1 ki point to turn your ki into an aura of toxic miasma. The aura extends 5 feet from you in every direction, but not through total cover. It lasts for 1 minute, until you’re incapacitated, or you dismiss it (no action required).
+You use your ki to inflict wounds. When you hit a creature with an unarmed strike, you can spend 1 ki point to deal extra necrotic damage equal to one roll of your Martial Arts die + your Wisdom modifier. You can use this feature only once on each of your turns.
 
-While your aura is active, ranged attacks have disadvantage against you. Any other creature that starts its turn in the aura must succeed on a Constitution saving throw or become poisoned until the end of your next turn and take poison damage equal to your Wisdom modifier (minimum of 0 damage).
+## Physician's Touch
+*6th-level Way of Mercy feature*
 
-## Healing Technique
-Starting at 11th level, your skill in manipulating your ki to heal increases. When you restore hit points to a creature using your Hands of Healing, you can also end one disease or a condition from the following list affecting the target: blinded, deafened, paralyzed, or poisoned.
+You can administer even greater cures with a touch, and if you feel it's necessary, you can use your knowledge to cause harm.
 
-## Hand of Mercy
-By 17th level your mastery of life energy opens the door to the ultimate respite technique. As an action, you can touch a creature, expend 4 ki points, and force the creature to make a Constitution saving throw (a creature can willingly fail this save). Unless the save succeeds, the creature enters a state of suspended animation for a number of days equal to your monk level or until you end the effect early (no action required). During this time, the creature is paralyzed, has immunity to all damage, and any curse, disease, or poison affecting it is suspended. The creature appears dead to all outward inspection and to spells used to determine the creature’s status.
+When you use Hand of Healing on a creature, you can also end one disease or one of the following conditions affecting the creature: blinded, deafened, paralyzed, poisoned, or stunned.
 
-You can have only one creature under the effect of this feature at a time.
+When you use Hand of Harm on a creature, you can subject that creature to the poisoned condition until the end of your next turn.
 
-*Original content: [Unearthed Arcana - Subclasses 1](https://dnd.wizards.com/articles/unearthed-arcana/subclasses1)*
+## Flurry of Healing and Harm
+*11th-level Way of Mercy feature*
+
+You can now mete out a flurry of comfort and hurt. When you use Flurry of Blows, you can now replace each of the unarmed strikes with a use of your Hand of Healing, without spending ki points for the healing.
+
+In addition, when you make an unarmed strike with Flurry of Blows, you can use Hand of Harm with that strike without spending the ki point for Hand of Harm. You can still use Hand of Harm only once per turn.
+
+## Hand of Ultimate Mercy
+*17th-level Way of Mercy feature*
+
+Your mastery of life energy opens the door to the ultimate mercy. As an action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 ki points. The creature then returns to life, regaining a number of hit points equal to 4d10 + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: blinded, deafened, paralyzed, poisoned, and stunned. 
+
+Once you use this feature, you can't use it again until you finish a long rest. 

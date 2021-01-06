@@ -393,6 +393,7 @@ This magic weapon grants a + 1 bonus to attack and damage rolls made with it, an
 While wearing this ring, the creature can recover one expended spell slot as an action. The recovered slot can be of 3rd level or lower. Once used, the ring can't be used again until the next dawn.
 
 # Artificer Spells
+The following spells listed are available (but not necessarily accessible) to all artificers throughout Azgaarnoth; this is not the complete list of all artificer spells, however. Certain specializations may have additional spells that are only known to their members. Artificers can learn new spells by visiting foreign shops, uncovering new books in ancient ruins, and so on. (In other words, DM's choice about adding new artificer spells to the "known" list, and the artificer may need to do some in-game activity or adventure to obtain them.)
 
 ## Cantrips
 * [acid splash](https://www.dndbeyond.com/spells/acid-splash)

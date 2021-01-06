@@ -162,8 +162,6 @@ You can use your Wild Shape an unlimited number of times.
 # Druid Spells
 The following spells listed are known (but not necessarily accessible, depending on the circle chosen) to all druids throughout Azgaarnoth; this is not the complete list of all druid spells, however. Certain circles may have additional spells that are only known to them, and thus are not accessible to other circles. Druids can learn new spells by visiting foreign circles, communing with nature for significant periods of time, and so on. (In other words, DMs can release new druid spells, but the druids do not have access to them by default.)
 
-Druids can, at the discretion of the DM, learn spells from other circles, but generally this requires some exchange, usually a deed done on behalf of the gifting circle or druid.
-
 ## Cantrips
 * [acid splash](https://www.dndbeyond.com/spells/acid-splash)
 * [control flames](https://www.dndbeyond.com/spells/control-flames)

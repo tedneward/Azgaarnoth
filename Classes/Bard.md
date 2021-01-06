@@ -166,6 +166,7 @@ You learn two additional spells from any class at 14th level and again at 18th l
 At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
 
 # Bard Spells
+The following spells listed are available (but not necessarily accessible) to all bards throughout Azgaarnoth; this is not the complete list of all bard spells, however. Certain colleges may have additional spells that are only known to their members. Bards can learn new spells by visiting foreign colleges, uncovering new books in ancient ruins, traveling with other bards of different backgrounds, and so on. (In other words, DM's choice about adding new bard spells to the "known" list, and the bard may need to do some in-game activity or adventure to obtain them.)
 
 ## Cantrips
 * [blade ward](https://www.dndbeyond.com/spells/blade-ward)
@@ -224,7 +225,7 @@ At 20th level, when you roll initiative and have no uses of Bardic Inspiration l
 * [detect thoughts](https://www.dndbeyond.com/spells/detect-thoughts)
 * [enhance ability](https://www.dndbeyond.com/spells/enhance-ability)
 * [enlarge/reduce](https://www.dndbeyond.com/spells/enlarge-reduce)
-* [Enthrall](https://www.dndbeyond.com/spells/enthrall)
+* [enthrall](https://www.dndbeyond.com/spells/enthrall)
 * [heat metal](https://www.dndbeyond.com/spells/heat-metal)
 * [hold person](https://www.dndbeyond.com/spells/hold-person)
 * [invisibility](https://www.dndbeyond.com/spells/invisibility)

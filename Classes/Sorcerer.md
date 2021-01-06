@@ -180,7 +180,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.
 
 # Sorcerer Spells
-This is a list of all the sorcerer spells known to any sorcerer in Azgaarnoth. However, sorcerer spells beyond these are known to exist, but a sorcerer must have access to a source (another sorcerer, or optionally, a scroll or book written by a sorcerer) who knows the new spell the sorcerer wishes to learn. Note this is not a spellbook--a sorcerer, once they know a spell, does not need to return to the book to re-learn it. Understanding how to shape the power correctly, however, can sometimes require guidance and inspiration.
+This is a list of all the sorcerer spells known to any sorcerer in Azgaarnoth. However, sorcerer spells beyond these are known to exist, but a sorcerer must have access to a source (another sorcerer, or a scroll or book written by a sorcerer, and so on) who knows the new spell the sorcerer wishes to learn. Note this is not a spellbook--a sorcerer, once they know a spell, does not need to return to the book to re-learn it. Understanding how to shape the power correctly, however, can sometimes require guidance and inspiration.
 
 > ### Game Notes
 > The sorcerer spells found in Azgaarnoth that are not on this list are thus under the DM's discretion regarding their release into player hands. Some DMs will want to keep them out of player hands, simply to keep the players guessing and trying to prepare for the unknown when those spells are used against them.

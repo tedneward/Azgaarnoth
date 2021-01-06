@@ -210,7 +210,7 @@ Imploring your deity's aid requires you to use your action. Describe the assista
 At 20th level, your call for intervention succeeds automatically, no roll required.
 
 # Cleric Spells
-The following spells listed are known (but not necessarily accessible, depending on the domain chosen) to all clerics throughout Azgaarnoth; this is not the complete list of all spells, however. Certain domains may have additional spells that are only known to their domain, which are not accessible to other domains (unless, by chance, the gods to whom the cleric prays chooses to make them available, and then generally only on an as-needed basis). Clerics can learn new spells by visiting foreign temples, uncovering new prayer books in ancient ruins, and so on. The gods may also choose to reveal select spells to clerics as needed, albeit rarely.
+The following spells listed are available (but not necessarily accessible) to all clerics throughout Azgaarnoth; this is not the complete list of all cleric spells, however. Certain domains may have additional spells that are only known to their members. Clerics can learn new spells by visiting foreign temples, uncovering new prayer books in ancient ruins, or even beseeching their gods/goddesses for new knowledge, and so on. (In other words, DM's choice about adding new cleric spells to the "known" list, and the cleric may need to do some in-game activity or adventure to obtain them.)
 
 ## Cantrips
 * [guidance](https://www.dndbeyond.com/spells/guidance)

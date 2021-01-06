@@ -1,5 +1,5 @@
 # Monastic Tradition: Way of the Astral Self
-Monks of the Way of the Astral Self have an internal struggle with their ki. They see their mystical energy as a representation of their true form, an astral self. This form has the capacity to be a force of good or destruction, with some monasteries training students to either temper their nature or embrace their impulses.
+A monk who follows the Way of the Astral Self believes their body is an illusion. They see their ki as a representation of their true form, an astral self. This astral self has the capacity to be a force of order or disorder, with some monasteries training students to use their power to protect the weak and other instructing aspirants in how to manifest their true selves in service to the mighty. 
 
 > ### Forms of Your Astral Self
 > The astral self is a translucent embodiment of the monk’s psyche and soul. As a result, the form of an astral self reflects the mind of the monk who manifests it. Your astral self could be a humanoid knight with a helmeted face and large, muscular arms, or it could be a golden metallic form with thin arms like a modron.
@@ -7,32 +7,46 @@ Monks of the Way of the Astral Self have an internal struggle with their ki. The
 > When choosing this path, consider the quirks that define your monk. Are they obsessed with something? Are you driven by justice or a selfish desire? Any of these motivations could manifest in the form of your astral self.
 
 ## Arms of the Astral Self
-At 3rd level, your mastery of your ki allows you to summon a portion of your astral self. On your turn, you can spend 2 ki points as a bonus action to summon the arms of your astral self for 10 minutes. These spectral arms hover near your shoulders. You determine the arms’ appearance based on the qualities of your character.
+*3rd-level Way of the Astral Self feature*
 
-While your astral arms are summoned, you gain the following benefits:
+Your mastery of your ki allows you to summon a portion of your astral self. As a bonus action, you can spend 1 ki point to summon the arms of your astral self. When you do so, each creature of your choice that you can see within 10 feet of you must succeed on a Dexterity saving throw or take force damage equal to two rolls of your Martial Arts die.
+
+For 10 minutes, these spectral arms hover near your shoulders or surround your arms (your choice). You determine the arms' appearance, and they vanish early if you are incapacitated or die. While the spectral arms are present, you gain the
+following benefits:
 * You can use your Wisdom modifier in place of your Strength modifier when making Strength checks and Strength saving throws.
-* The arms are monk weapons and have a reach of 10 feet. The arms deal radiant or necrotic damage (your choice). When you attack with the arms, you can use your Wisdom modifier instead of your Strength or Dexterity modifier for the attack and damage rolls.
-* Immediately after you use the Attack action with your astral arms on your turn, you can make one extra attack with your astral arms as a bonus action. The number of extra attacks increases when you reach certain levels in this class, increasing to two at 11th level and three at 17th level.
+* You can use the spectral arms to make unarmed strikes.
+* When you make an unarmed strike with the arms on your turn, your reach for it is 5 feet greater than normal.
+* The unarmed strikes you make with the arms can use your Wisdom modifier in place of your Strength or Dexterity modifier for the attack and damage rolls, and their damage type is force.
 
 ## Visage of the Astral Self
-Starting at 6th level, you can summon the visage of your astral self. On your turn, you can spend 1 ki point as a bonus action, or as part of summoning your astral arms, to summon this visage for 10 minutes. The spectral visage covers your face like a helmet or mask. You determine its appearance based on the qualities of your character.
+*6th-level Way of the Astral Self feature*
 
-While your visage is summoned, you gain the following benefits.
-* **Wisdom of the Spirit**. You have advantage on Wisdom (Insight) and Charisma (Intimidation) checks.
-* **Astral Sight**. You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
+You can summon the visage of your astral self. As a bonus action, or as part of the bonus action you take to activate Arms of the Astral Self, you can spend 1 ki point to summon this visage for 10 minutes. It vanishes early if you are incapacitated or die. 
 
-## Awakening of the Astral Self
-Starting at 11th level, you tap into the greater power of your astral self. While you have both your astral arms and visage summoned, you gain the following benefits.
-* **Deflect Energy**. When you take acid, cold, fire, lightning, or force damage, you can use your reaction to deflect it. When you do so, the damage you take is reduced by 1d10 + your Wisdom modifier + your monk level.
-* **Empowered Arms**. Once on each of your turns when you hit a target with your astral arms, you can deal extra damage to the target equal to your Martial Arts die.
-* **Word of the Spirit**. When you speak through your visage, you can direct your words to a creature of your choice that you can see within 30 feet of you, making it so only that creature can hear you. Alternatively, you can amplify your voice so that all creatures within 600 feet can hear you.
+The spectral visage covers your face like a helmet or mask. You determine its appearance. 
 
-## Complete Astral Self
-Starting at 17th level, your connection to your astral self is complete, allowing you summon it entirely. On your turn, you can spend 10 ki points as a bonus action to summon the arms, visage, and body of your astral self for 10 minutes. This spectral body covers your physical form like a suit of armor, connecting with the arms and visage. You determine its appearance based on the qualities of your character.
+While the spectral visage is present, you gain the following benefits.
 
-While your astral self is summoned, you gain the following benefits.
-* **Armor of the Spirit**. You gain a +2 bonus to AC while you aren’t incapacitated.
-* **Astral Barrage**. Whenever you use the Extra Attack feature to attack twice, you can instead attack three times using your astral arms.
+* **Astral Sight.** You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
+* **Wisdom of the Spirit.** You have advantage on Wisdom (Insight) and Charisma (Intimidation) checks.
+* **Word of the Spirit.** When you speak, you can direct your words to a creature of your choice that you can see within 60 feet of you, making it so only that creature can hear you. Alternatively, you can amplify your voice so that all creatures within 600 feet can hear you.
+
+## Body of the Astral Self
+*11th-level Way of the Astral Self feature*
+
+When you have both your astral arms and visage summoned, you can cause the body of your astral self to appear (no action required). This spectral body covers your physical form like a suit of armor, connecting with the arms and visage. You determine its appearance. 
+
+While the spectral body is present, you gain the following benefits.
+* **Deflect Energy.** When you take acid, cold, fire, force, lightning, or thunder damage, you can use your reaction to deflect it. When you do so, the damage you take is reduced by 1d10 + your Wisdom modifier (minimum reduction of 1).
+* **Empowered Arms.** Once on each of your turns when you hit a target with the Arms of the Astral Self, you can deal extra damage to the target equal to your Martial Arts die.
+
+## Awakened Astral Self
+*17th-level Way of the Astral Self feature*
+
+Your connection to your astral self is complete, allowing you to unleash its full potential. As a bonus action, you can spend 5 ki points to summon the arms, visage, and body of your astral self and awaken it for 10 minutes. This awakening ends early if you are incapacitated or die.
+
+While your astral self is awakened, you gain the following benefits. 
+
+* **Armor ofthe Spirit.** You gain a +2 bonus to Armor Class.
+* **Astral Barrage.** Whenever you use the Extra Attack feature to attack twice, you can instead attack three times if all the attacks are made with your astral arms. 
 * **Ki Consumption**. When a creature within 10 feet of you is reduced to 0 hit points, you can use your reaction to regain ki points equal to your Wisdom modifier (minimum 1).
-
-*Source: [Unearthed Arcana: Barbarian and Monk](https://dnd.wizards.com/articles/unearthed-arcana/barbarian-and-monk)*

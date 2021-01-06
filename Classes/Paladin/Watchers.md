@@ -16,36 +16,42 @@ You gain oath spells at the paladin levels listed. See the Sacred Oath class fea
 **Oath of the Watchers Spells**
 Paladin Level|Spells
 -------------|------
-3rd|alarm, chromatic orb
-5th|[augury](https://www.dndbeyond.com/spells/augury), moonbeam
+3rd|alarm, detect magic
+5th|moonbeam, see invisibility
 9th|counterspell, nondetection
 13th|aura of purity, banishment
-17th|hold monster, hallow
+17th|hold monster, scrying
 
 ## Channel Divinity
-At the 3rd level, you gain the following Channel Divinity options. See the Sacred Oath class feature for how Channel Divinity works.
+*3rd-level Oath of the Watchers feature*
 
-***Watcher’s Will***. You can use your Channel Divinity to invest your presence with the warding power of your faith. As an action, you can choose a number of creatures you can see within 30 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). For 1 minute, all the chosen creatures have advantage on Intelligence, Wisdom, and Charisma saving throws.
+You gain the following Channel Divinity options. See the Sacred Oath class feature for how Channel Divinity works.
 
-***Abjure the Extraplanar***. You can use your Channel Divinity to castigate unworldly beings. As an action, you present your holy symbol and each elemental, fey, fiend, or aberration within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.
+* ***Watcher’s Will***. You can use your Channel Divinity to invest your presence with the warding power of your faith. As an action, you can choose a number of creatures you can see within 30 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). For 1 minute, all the chosen creatures have advantage on Intelligence, Wisdom, and Charisma saving throws.
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+* ***Abjure the Extraplanar***. You can use your Channel Divinity to castigate unworldly beings. As an action, you present your holy symbol and each elemental, fey, fiend, or aberration within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.
+
+  A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 
 ## Aura of the Sentinel
+*7th-level Oath of the Watchers feature*
+
 At the 7th level, you emit an aura of alertness while you aren’t incapacitated. When you and any creature of your choice within 10 feet of you rolls initiative, you each gain a bonus to initiative equal to your Charisma modifier (minimum of +1).
 
 At 18th level, the range of this aura increases to 30 feet.
 
 ## Vigilant Rebuke
-At the 15th level, you’ve learned how to magically chastise anyone who dares cast unwanted spells at you and your wards. Whenever you or a creature you can see within 30 feet of you succeeds on a saving throw against a spell, you can use your reaction to deal 2d8 + your Charisma modifier force damage to the spellcaster.
+*15th-level Oath of the Watchers feature*
+
+You’ve learned how to magically chastise anyone who dares cast unwanted spells at you and your wards. Whenever you or a creature you can see within 30 feet of you succeeds on a saving throw against a spell, you can use your reaction to deal 2d8 + your Charisma modifier force damage to the creature that forced the saving throw.
 
 ## Mortal Bulwark
-At the 20th level, you manifest a spark of your deity’s power in defense of your sacred oath. As a bonus action, you gain the following benefits for 1 minute:
+*20th-level Oath of the Watchers feature*
+
+You manifest a spark of your deity’s power in defense of your sacred oath. As a bonus action, you gain the following benefits for 1 minute:
 
 * You gain truesight in a 120-foot radius.
 * You have advantage on attack rolls against elementals, fey, fiends, and aberrations.
 * When you hit a creature with an attack and deal damage to it, you can also force it to make a Charisma saving throw. On a failed save, the creature is magically banished to its native plane of existence if it’s currently not there. On a successful save, the creature can’t be banished by this feature for 24 hours.
 
-Once you use this bonus action, you can’t use it again until you finish a long rest. 
-
-*Original content: [Unearthed Arcana - Subclasses 1](https://dnd.wizards.com/articles/unearthed-arcana/subclasses1)*
+Once you use this bonus action, you can’t use it again until you finish a long rest, unless you expend a 5th-level slot to use it again.

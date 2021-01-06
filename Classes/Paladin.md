@@ -3,28 +3,28 @@ Whether sworn before a god's altar and the witness of a priest, in a sacred glad
 
 *You must have a Charisma score and a Strength score of 13 or higher in order to multiclass in or out of this class.*
 
-Level|Proficiency Bonus|Features|1st|2nd|3rd|4th|5th
------|-----------------|--------|---|---|---|---|---
-1st|+2|Divine Sense, Lay on Hands|-|-|-|-|-
-2nd|+2|Fighting Style, Spellcasting, Divine Smite|2|-|-|-|-
-3rd|+2|Divine Health, Sacred Oath|3|-|-|-|-
-4th|+2|Ability Score Improvement|3|-|-|-|-
-5th|+3|Extra Attack|4|2|-|-|-
-6th|+3|Aura of Protection|4|2|-|-|-
-7th|+3|Sacred Oath feature|4|3|-|-|-
-8th|+3|Ability Score Improvement|4|3|-|-|-
-9th|+4||4|3|2|-|-
-10th|+4|Aura of Courage|4|3|2|-|-
-11th|+4|Improved Divine Smite|4|3|3|-|-
-12th|+4|Ability Score Improvement|4|3|3|-|-
-13th|+5||4|3|3|1|-
-14th|+5|Cleansing Touch|4|3|3|1|-
-15th|+5|Sacred Oath feature|4|3|3|2|-
-16th|+5|Ability Score Improvement|4|3|3|2|-
-17th|+6||4|3|3|3|1
-18th|+6|Aura improvements|4|3|3|3|1
-19th|+6|Ability Score Improvement|4|3|3|3|2
-20th|+6|Sacred Oath feature|4|3|3|3|2
+Level|Proficiency Bonus|1st|2nd|3rd|4th|5th|Features                                  
+-----|-----------------|---|---|---|---|---|------------------------------------------
+1st  |+2               | - | - | - | - | - |[Divine Sense](#divine-sense), [Lay on Hands](#lay-on-hands)
+2nd  |+2               | 2 | - | - | - | - |[Fighting Style](#fighting-style), [Spellcasting](#spellcasting), [Divine Smite](#divine-smite)
+3rd  |+2               | 3 | - | - | - | - |[Divine Health](#divine-health), [Sacred Oath](#sacred-oath)
+4th  |+2               | 3 | - | - | - | - |Ability Score Improvement
+5th  |+3               | 4 | 2 | - | - | - |[Extra Attack](#extra-attack)
+6th  |+3               | 4 | 2 | - | - | - |[Aura of Protection](#aura-of-protection)
+7th  |+3               | 4 | 3 | - | - | - |Sacred Oath feature  
+8th  |+3               | 4 | 3 | - | - | - |Ability Score Improvement
+9th  |+4               | 4 | 3 | 2 | - | - |
+10th |+4               | 4 | 3 | 2 | - | - |[Aura of Courage](#aura-of-courage)
+11th |+4               | 4 | 3 | 3 | - | - |Improved Divine Smite
+12th |+4               | 4 | 3 | 3 | - | - |Ability Score Improvement
+13th |+5               | 4 | 3 | 3 | 1 | - |
+14th |+5               | 4 | 3 | 3 | 1 | - |[Cleansing Touch](#cleansing-touch)
+15th |+5               | 4 | 3 | 3 | 2 | - |Sacred Oath feature
+16th |+5               | 4 | 3 | 3 | 2 | - |Ability Score Improvement
+17th |+6               | 4 | 3 | 3 | 3 | 1 |
+18th |+6               | 4 | 3 | 3 | 3 | 1 |Aura improvements
+19th |+6               | 4 | 3 | 3 | 3 | 2 |Ability Score Improvement
+20th |+6               | 4 | 3 | 3 | 3 | 2 |Sacred Oath feature
 
 As a paladin, you gain the following class features.
 
@@ -54,11 +54,15 @@ You start with the following equipment, in addition to the equipment granted by 
 * Chain mail and a holy symbol
 
 ## Divine Sense
+*1st-level paladin feature*
+
 The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the Hallow spell.
 
 You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
 ## Lay on Hands
+*1st-level paladin feature*
+
 Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level x 5.
 
 As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature. up to the maximum amount remaining in your pool.
@@ -68,15 +72,18 @@ Alternatively, you can expend 5 hit points from your pool of healing to cure the
 This feature has no effect on undead and constructs.
 
 ## Fighting Style
-At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the [available styles](Fighter/Styles.md). You can't take a Fighting Style option more than once, even if you later get to choose again. In addition, Paladins also have the following styles available to them:
+*2nd-level paladin feature*
+
+You adopt a particular style of fighting as your specialty. Choose one of the [available styles](Fighter/Styles.md). You can't take a Fighting Style option more than once, even if you later get to choose again. In addition, Paladins also have the following styles available to them:
 
 * **Blessed Warrior**
   You learn two cantrips of your choice from the cleric spell list. They count as paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the cleric spell list.
 
-## Martial Versatility
 Whenever you gain a level, you can replace a fighting style you know with another style available to your class. This change represents a shift of focus in your martial training and practice, causing you to lose the benefits of one style and gain the benefits of another style.
 
 ## Spellcasting
+*2nd-level paladin feature*
+
 By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does.
 
 ### Preparing and Casting Spells
@@ -99,20 +106,29 @@ Charisma is your spellcasting ability for your paladin spells, since their power
 You can use a holy symbol as a spellcasting focus for your paladin spells.
 
 ## Divine Smite
-Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend, to a maximum of 6d8.
+*2nd-level paladin feature*
+
+When you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend, to a maximum of 6d8.
 
 ## Divine Health
-By 3rd level, the divine magic flowing through you makes you immune to disease.
+*3rd-level paladin feature*
+
+The divine magic flowing through you makes you immune to disease.
 
 ## Sacred Oath
+*3rd-level paladin feature*
+
 When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose one of the following oaths:
+* [Abyss](Paladin/Abyss.md)
 * [Ancients](Paladin/Ancients.md)
 * [Conquest](Paladin/Conquest.md)
 * [Crown](Paladin/Crown.md)
 * [Devotion](Paladin/Devotion.md)
 * [Dragon](Paladin/Dragon.md)
+* [Glory](Paladin/Glory.md)
 * [Heroism](Paladin/Heroism.md)
 * [Redemption](Paladin/Redemption.md)
+* [Stalker](Paladin/Stalker.md)
 * [Vengeance](Paladin/Vengeance.md)
 * [Watchers](Paladin/Watchers.md)
 * [Weave](Paladin/Weave.md)
@@ -128,7 +144,9 @@ Each oath has a list of associated spells. You gain access to these spells at th
 
 If you gain an oath spell that doesn't appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
 
-### Channel Divinity
+## Channel Divinity
+*3rd-level paladin feature*
+
 Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it.
 
 When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again.
@@ -136,34 +154,46 @@ When you use your Channel Divinity, you choose which option to use. You must the
 Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.
 
 ### Channel Divinity: Harness Divine Power
-Starting at the 3rd level, you can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended 1st-level spell slot.
+*3rd-level paladin feature*
+
+You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 3rd level, once; 7th level, twice; and 15th level, thrice. You regain all expended uses when you finish a long rest. 
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ## Extra Attack
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+*5th-level paladin feature*
+
+You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ## Aura of Protection
-Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.
+*6th-level paladin feature*
+
+Whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.
 
 At 18th level, the range of this aura increases to 30 feet.
 
 ## Aura of Courage
-Starting at 10th level, you and friendly creatures within 10 feet of you can't be frightened while you are conscious.
+*10th-level paladin feature*
+
+You and friendly creatures within 10 feet of you can't be frightened while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 
 ## Improved Divine Smite
-By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage.
+*11th-level paladin feature*
+
+You are so suffused with divine might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage.
 
 ## Cleansing Touch
-Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.
+*14th-level paladin feature*
+
+You can use your action to end one spell on yourself or on one willing creature that you touch.
 
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.
 
 # Paladin Spells
-The following spells listed are known (but not necessarily accessible, depending on the domain chosen) to all paladins throughout Azgaarnoth; this is not the complete list of all paladin spells, however. Certain oaths may have additional spells that are only known to those oath-bound paladins. Paladins can learn new spells by visiting foreign orders, uncovering new oath books in ancient ruins, and so on. (In other words, DM's choice about adding new paladin spells to the "known" list for a paladin, and the paladin may need to do some in-game activity or adventure to obtain them.)
+The following spells listed are known (but not necessarily accessible, depending on the domain chosen) to all paladins throughout Azgaarnoth; this is not the complete list of all paladin spells, however. Certain oaths may have additional spells that are only known to their members. Paladins can learn new spells by visiting foreign orders, uncovering new oath books in ancient ruins, and so on. (In other words, DM's choice about adding new paladin spells to the "known" list for a paladin, and the paladin may need to do some in-game activity or adventure to obtain them.)
 
 ## 1st Level
 * [bless](https://www.dndbeyond.com/spells/bless)
@@ -229,4 +259,4 @@ The following spells listed are known (but not necessarily accessible, depending
 * [flame strike](https://www.dndbeyond.com/spells/flame-strike)
 * Geas
 * Raise Dead
-* Summon Celestial Spirit (UA)
+* Summon Celestial
