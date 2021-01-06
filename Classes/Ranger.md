@@ -3,28 +3,28 @@ Far from the bustle of cities and towns, past the hedges that shelter the most d
 
 *You must have a Dexterity score and a Wisdom score of 13 or higher in order to multiclass in or out of this class.*
 
-Level|Proficiency Bonus|Features|Spells Known|1st|2nd|3rd|4th|5th
------|-----------------|--------|------------|---|---|---|---|---
-1st|+2|Favored Enemy, Natural Explorer|-|-|-|-|-|-
-2nd|+2|Fighting Style, Spellcasting|2|2|-|-|-|-
-3rd|+2|Primeval Awareness, Ranger Conclave|3|3|-|-|-|-
-4th|+2|Ability Score Improvement|3|3|-|-|-|-
-5th|+3|Ranger Conclave feature|4|4|2|-|-|-
-6th|+3|Greater Favored Enemy|4|4|2|-|-|-
-7th|+3|Ranger Conclave feature|5|4|3|-|-|-
-8th|+3|Ability Score Improvement, Fleet of Foot|5|4|3|-|-|-
-9th|+4||6|4|3|2|-|-
-10th|+4|Hide in Plain Sight|6|4|3|2|-|-
-11th|+4|Ranger Conclave feature|7|4|3|3|-|-
-12th|+4|Ability Score Improvement|7|4|3|3|-|-
-13th|+5||8|4|3|3|1|-
-14th|+5|Vanish|8|4|3|3|1|-
-15th|+5|Ranger Conclave feature|9|4|3|3|2|-
-16th|+5|Ability Score Improvement|9|4|3|3|2|-
-17th|+6||10|4|3|3|3|1
-18th|+6|Feral Senses|10|4|3|3|3|1
-19th|+6|Ability Score Improvement|11|4|3|3|3|2
-20th|+6|Foe Slayer|11|4|3|3|3|2
+Level|Proficiency Bonus|Spells Known|1st|2nd|3rd|4th|5th|Features
+-----|-----------------|------------|---|---|---|---|---|--------
+1st  |+2 | - |-|-|-|-|-|[Favored Foe](#favored-foe), [Deft Explorer](#deft-explorer)
+2nd  |+2 | 2 |2|-|-|-|-|[Fighting Style](#fighting-style), [Spellcasting](#spellcasting)
+3rd  |+2 | 3 |3|-|-|-|-|[Primeval Awareness](#primeval-awareness), [Ranger Conclave](#ranger-conclave)
+4th  |+2 | 3 |3|-|-|-|-|Ability Score Improvement
+5th  |+3 | 4 |4|2|-|-|-|Ranger Conclave feature
+6th  |+3 | 4 |4|2|-|-|-|[Greater Favored Enemy](#greater-favored-enemy)
+7th  |+3 | 5 |4|3|-|-|-|Ranger Conclave feature
+8th  |+3 | 5 |4|3|-|-|-|Ability Score Improvement, [Fleet of Foot](#fleet-of-foot)
+9th  |+4 | 6 |4|3|2|-|-|
+10th |+4 | 6 |4|3|2|-|-|[Nature's Veil](#natures-veil)
+11th |+4 | 7 |4|3|3|-|-|Ranger Conclave feature
+12th |+4 | 7 |4|3|3|-|-|Ability Score Improvement
+13th |+5 | 8 |4|3|3|1|-|
+14th |+5 | 8 |4|3|3|1|-|[Vanish](#vanish)
+15th |+5 | 9 |4|3|3|2|-|Ranger Conclave feature
+16th |+5 | 9 |4|3|3|2|-|Ability Score Improvement
+17th |+6 | 10|4|3|3|3|1|
+18th |+6 | 10|4|3|3|3|1|[Feral Senses](#feral-senses)
+19th |+6 | 11|4|3|3|3|2|Ability Score Improvement
+20th |+6 | 11|4|3|3|3|2|[Foe Slayer](#foe-slayer)
 
 As a ranger, you gain the following class features.
 
@@ -53,29 +53,45 @@ You start with the following equipment, in addition to the equipment granted by 
 * (a) a dungeoneer's pack or (b) an explorer's pack
 * A longbow and a quiver of 20 arrows
 
-## Favored Enemy
-Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy commonly encountered in the wilds.
+## Favored Foe
+*1st-level ranger feature*
 
-Choose a type of favored enemy: beasts, fey, humanoids, monstrosities, or undead. You gain a +2 bonus to damage rolls with weapon attacks against creatures of the chosen type. Additionally, you have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
+When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your concentration (as if you were concentrating on a spell).
 
-When you gain this feature, you also learn one language of your choice, typically one spoken by your favored enemy or creatures associated with it. However, you are free to pick any language you wish to learn.
+The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by 1d4.
 
-## Natural Explorer
-You are a master of navigating the natural world, and you react with swift and decisive action when attacked. This grants you the following benefits:
-* You ignore difficult terrain.
-* You have advantage on initiative rolls.
-* On your first turn during combat, you have advantage on attack rolls against creatures that have not yet acted.
+You can use this feature to mark a favored enemy a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-In addition, you are skilled at navigating the wilderness. You gain the following benefits when traveling for an hour or more:
-* Difficult terrain doesn’t slow your group’s travel.
-* Your group can’t become lost except by magical means.
-* Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
-* If you are traveling alone, you can move stealthily at a normal pace.
-* When you forage, you find twice as much food as you normally would.
-* While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
+This feature's extra damage increases when you reach certain levels in this class: to 1d6 at 6th level and to 1d8 at 14th level. 
+
+## Deft Explorer
+*1st-level ranger feature; cannot be taken with Natural Explorer*
+
+You are an unsurpassed explorer and survivor, both in the wilderness and in dealing with others on your travels. You gain the Canny benefit below, and you gain an additional benefit below when you reach 6th level and 10th level in this class.
+
+### Canny
+*1st-level Deft Explorer ranger feature*
+
+Choose one of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses the chosen skill. 
+
+You can also speak, read, and write two additional languages of your choice.
+
+### Roving
+*6th-level Deft Explorer ranger feature*
+
+Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.
+
+### Tireless
+*10th-level Deft Explorer ranger feature*
+
+As an action, you can give yourself a number of temporary hit points equal to 1d8 + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1. 
 
 ## Fighting Style
-At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the [styles available](Fighter/Styles.md). You can't take a Fighting Style option more than once, even if you later get to choose again.
+*2nd-level ranger feature*
+
+You adopt a particular style of fighting as your specialty. Choose one of the [styles available](Fighter/Styles.md). You can't take a Fighting Style option more than once, even if you later get to choose again.
 
 In addition, you have access to the following fighting style:
 
@@ -198,22 +214,6 @@ Additionally, you have advantage on saving throws against the spells and abiliti
 ## Fleet of Foot
 Beginning at 8th level, you can use the Dash action as a bonus action on your turn.
 
-## Hide in Plain Sight
-Starting at 10th level, you can remain perfectly 
-still for long periods of time to set up ambushes.
-When you attempt to hide on your turn, you 
-can opt to not move on that turn. If you avoid 
-moving, creatures that attempt to detect you 
-take a −10 penalty to their Wisdom (Perception) 
-checks until the start of your next turn. You lose 
-this benefit if you move or fall prone, either voluntarily or because of some external effect.
-You are still automatically detected if any effect 
-or action causes you to no longer be hidden.
-If you are still hidden on your next turn, you 
-can continue to remain motionless and gain this 
-benefit until you are detected.
-
-
 ## Vanish
 Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
 
@@ -271,7 +271,7 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 * [protection from poison](https://www.dndbeyond.com/spells/protection-from-poison)
 * [silence](https://www.dndbeyond.com/spells/silence)
 * [spike growth](https://www.dndbeyond.com/spells/spike-growth)
-* [summon bestial spirit](https://www.dndbeyond.com/spells/summon-bestial-spirit)
+* [summon beast](https://www.dndbeyond.com/spells/summon-beast)
 * [warding bond](https://www.dndbeyond.com/spells/warding-bond)
 
 

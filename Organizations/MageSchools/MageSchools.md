@@ -56,7 +56,7 @@ Hundreds of mage schools of all size are present on Azgaarnoth. Currently the mo
 * [Hewn Arch](HewnArch.md): earth, stone, masonry
 * [Dark Cauldron](DarkCauldron.md): alchemy
 * [Animalists](Animalists.md): natural kingdom
-* [Symbarchs](Symbarchs.md)
+* [Symbarchs](Symbarchs.md): followers of an ancient mage
 
 There are always rumors of additional schools that aren't formal or popular, such as a school dedicated to enchantment (which is feared by the common folk because of the obvious perils of abuse by said enchanters), and not all magi need join a school in order to thrive. School-affiliated magi, however, will look down on "wilders" as "uncivilized" or "uneducated", and many "wilders" in turn look upon their school-affiliated brethren as "sellouts" or "kept magi". These "wilders" will often be of the [Hedge Magi](/Classes/Wizard/HedgeMagi.md) arcane tradition.
 

@@ -17,28 +17,28 @@ Pale Masters are arcane casters who draw upon necromantic lore that provides a m
 With this obsession to learn every shred of obscure knowledge surrounding the necromantic arts, a sacrifice happens as the pale master tends to become uninterested in other types of magic, except for a select few spells they feel can help them achieve their goals faster. As a result, pale masters have a smaller subset of arcane spells to draw upon when compared to their other arcane brethren. This lack of
 breadth is offset by the unique abilities they gain while studying their undead subjects.
 
-Level|Proficiency Bonus|Features|Creations Known|Macabre Enchantments|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th
------|-----------------|--------|---------------|--------------------|--------------|---|---|---|---|---|---|---
-1st|+2|Spellcasting, Aspect of the Dead, Undead Affinity|—|—|3|2|—|—|—|—|—|—
-2nd|+2|Macabre Creations|3|2|3|3|—|—|—|—|—|—
-3rd|+2|Deathless Axiom|3|2|3|3|2|—|—|—|—|—
-4th|+2|Ability Score Improvement|4|2|3|3|3|—|—|—|—|—
-5th|+3|Raise Incorporeal Undead|4|2|4|4|3|—|—|—|—|—
-6th|+3|Deathless Axiom feature|4|2|4|4|3|2|—|—|—|—
-7th|+3|—|5|3|4|4|3|3|—|—|—|—
-8th|+3|Ability Score Improvement|5|3|4|4|3|3|—|—|—|—
-9th|+4|—|5|3|4|4|3|3|1|—|—|—
-10th|+4|Undead Cohort|5|3|4|4|3|3|2|—|—|—
-11th|+4|—|6|3|4|4|3|3|2|—|—|—
-12th|+4|Ability Score Improvement|6|3|4|4|3|3|3|1|—|—
-13th|+5|—|6|4|5|4|3|3|3|2|—|—
-14th|+5|Deathless Axiom feature|6|4|5|4|3|3|3|2|—|—
-15th|+5|—|6|4|5|4|3|3|3|2|1|—
-16th|+5|Ability Score Improvement|7|4|5|4|3|3|3|2|1|—
-17th|+6|—|7|4|5|4|3|3|3|2|1|—
-18th|+6|Necromastery|7|4|5|4|3|3|3|2|1|1
-19th|+6|Ability Score Improvement|7|5|5|4|3|3|3|2|1|1
-20th|+6|Amaranthine Shroud|7|5|5|4|3|3|3|2|1|1
+Level|Proficiency Bonus|Creations Known|Macabre Enchantments|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|Features
+-----|-----------------|---------------|--------------------|--------------|---|---|---|---|---|---|---|--------
+1st  |+2|—|—|3|2|—|—|—|—|—|—|[Spellcasting](#spellcasting), [Aspect of the Dead](#aspect-of-the-dead), [Undead Affinity](#undead-affinity)
+2nd  |+2|3|2|3|3|—|—|—|—|—|—|[Macabre Creations](#macabre-creations)
+3rd  |+2|3|2|3|3|2|—|—|—|—|—|[Deathless Axiom](#deathless-axiom)
+4th  |+2|4|2|3|3|3|—|—|—|—|—|Ability Score Improvement
+5th  |+3|4|2|4|4|3|—|—|—|—|—|[Raise Incorporeal Undead](#raise-incorporeal-undead)
+6th  |+3|4|2|4|4|3|2|—|—|—|—|Deathless Axiom feature
+7th  |+3|5|3|4|4|3|3|—|—|—|—|-
+8th  |+3|5|3|4|4|3|3|—|—|—|—|Ability Score Improvement
+9th  |+4|5|3|4|4|3|3|1|—|—|—|—
+10th |+4|5|3|4|4|3|3|2|—|—|—|[Undead Cohort](#undead-cohort)
+11th |+4|6|3|4|4|3|3|2|—|—|—|—
+12th |+4|6|3|4|4|3|3|3|1|—|—|Ability Score Improvement
+13th |+5|6|4|5|4|3|3|3|2|—|—|—
+14th |+5|6|4|5|4|3|3|3|2|—|—|Deathless Axiom feature
+15th |+5|6|4|5|4|3|3|3|2|1|—|—
+16th |+5|7|4|5|4|3|3|3|2|1|—|Ability Score Improvement
+17th |+6|7|4|5|4|3|3|3|2|1|—|—
+18th |+6|7|4|5|4|3|3|3|2|1|1|[Necromastery](#necromastery)
+19th |+6|7|5|5|4|3|3|3|2|1|1|Ability Score Improvement
+20th |+6|7|5|5|4|3|3|3|2|1|1|[Amaranthine Shroud](#amaranthine-shroud)
 
 As a pale master, you gain the following class features.
 
@@ -68,6 +68,8 @@ You start with the following equipment, in addition to the equipment granted by 
 * A grimoire
 
 ## Spellcasting
+*1st-level Pale Master feature*
+
 As a student of necromantic magic, you have obtained a grimoire from which to study spells dealing with the dark arts. Although your study of arcane magic is similar to that of a traditional wizard, you forgo some of their spellcasting prowess in favor of obtaining specialized gifts from your undead subjects.
 
 ### Cantrips
@@ -120,6 +122,8 @@ Despite the singular nature of the term, the grimoire can span across multiple p
 **The Grimoire’s Appearance**. A pale master's grimoire tends to be emblazoned with runes inlaid into a black leather cover, which symbolize the dark magic contained within.
 
 ## Aspect of the Dead
+*1st-level Pale Master feature*
+
 Your form begins to take on the qualities of undeath: an unnerving side effect of spending long periods of time around the dead. This transformation becomes more pronounced as you gain levels in this class.
 
 At 1st level, your composure allows you to shrug off an attack that would normally break your concentration. Once per long rest, when you are concentrating on a spell from the school of necromancy and take damage, you may roll your concentration check with advantage.
@@ -131,14 +135,18 @@ At 11th level, your time spent among decay has inured you to the ravages of corp
 At 17th level, your form bears a close resemblance to the undead you study, allowing you to age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are immune to being magically aged.
 
 ## Undead Affinity
-At 1st level, your mere touch can force an undead creature to follow your commands for a short time. Make a melee spell attack against an undead creature with a challenge rating equal to or less than half of your pale master level (rounded down). On a hit, the creature will follow your commands for 1 round per pale master level. When the duration expires, the undead creature returns to its former allegiance, if any. 
+*1st-level pale master feature*
+
+Your mere touch can force an undead creature to follow your commands for a short time. Make a melee spell attack against an undead creature with a challenge rating equal to or less than half of your pale master level (rounded down). On a hit, the creature will follow your commands for 1 round per pale master level. When the duration expires, the undead creature returns to its former allegiance, if any. 
 
 If the undead creature has an Intelligence of 6 or more, you make the attack with disadvantage. If it has an Intelligence of 12 or more it is immune to this feature.
 
 You can use this feature a number of times equal to your Intelligence modifier (a minimum of once), but can only control one undead creature at a time. You regain expended uses when you finish a long rest.
 
 ## Macabre Creations
-At 2nd level, you gain the ability to enhance mundane items with undead enchantments. The magic items you create with this feature are take the form of undead armors, weapons or wonderous items.
+*2nd-level pale master feature*
+
+You gain the ability to enhance mundane items with undead enchantments. The magic items you create with this feature are take the form of undead armors, weapons or wonderous items.
 
 ### Macabre Creations Known
 When you gain this feature, pick three pale master macabre creations to learn, choosing from the ["Macabre Creations" page](PaleMaster/MacabreCreations.md). You learn additional creations of your choice when you reach certain level in this class, as shown in the Creations Known column of the Pale Master table.
@@ -153,9 +161,16 @@ The magical properties of a macabre creation remain indefinitely, but when you d
 You can only create one macabre creation per long rest. The maximum number of macabre creations you can have active at a time appears in the Macabre Enchantments column of the Pale Master table. If you try to exceed your maximum number of creations, the oldest one immediately loses its magical properties, and then the newest macabre creation is completed.
 
 ## Deathless Axioms
+*3rd-level pale master feature*
+
 The study of the dark arts is ancient, stretching back to the earliest discoveries of magic.
 
-At 3rd level, you choose an deathless axiom, which forms the foundation of your unending subjugation of the dark arts. The boons of undeath are granted as a result of your obsession in studying one of five elegies: [Decay](PaleMaster/Decay.md), [Dread](PaleMaster/Dread.md), [Enduring](PaleMaster/Enduring.md), [Revenge](PaleMaster/Revenge.md), or [Twilight](PaleMaster/Twilight.md).
+You choose a deathless axiom, which forms the foundation of your unending subjugation of the dark arts. The boons of undeath are granted as a result of your obsession in studying one of five elegies: 
+* [Decay](PaleMaster/Decay.md)
+* [Dread](PaleMaster/Dread.md)
+* [Enduring](PaleMaster/Enduring.md)
+* [Revenge](PaleMaster/Revenge.md)
+* [Twilight](PaleMaster/Twilight.md).
 
 Your choice grants you features at 3rd level and again at 6th and 14th level.
 
@@ -163,32 +178,40 @@ Your choice grants you features at 3rd level and again at 6th and 14th level.
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ## Raise Incorporeal Undead
-At 5th level, you can create an undead servant from the fading soul of a fallen creature. You choose a humanoid that has been dead no longer than 24 hours and create a specter (the DM has the creature’s game statistics). Roll initiative for the specter, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the specter, it defends itself but otherwise takes no actions. The specter is under your control for 10 minutes, after which it disappears. 
+*5th-level pale master feature*
+
+You can create an undead servant from the fading soul of a fallen creature. You choose a humanoid that has been dead no longer than 24 hours and create a specter (the DM has the creature’s game statistics). Roll initiative for the specter, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the specter, it defends itself but otherwise takes no actions. The specter is under your control for 10 minutes, after which it disappears. 
 
 Beginning at 12th level, you can raise a banshee instead of a specter.
 
 You can use this feature a number of times equal to your Intelligence modifier (a minimum of once), but can only raise one incorporeal undead at a time. You regain any expended uses when you finish a long rest.
 
 ## Undead Cohort
-At 10th level, you are able to create an undead creature specific to your chosen archetype.
+*10th-level pale master feature*
+
+You are able to create an undead creature specific to your chosen archetype.
 
 ## Necromastery
-At 18th level, you have gained mastery over certain necromancy spells, allowing you to cast them at will. 
+*10th-level pale master feature*
+
+You have gained mastery over certain necromancy spells, allowing you to cast them at will. 
 
 Choose a 1st-level pale master spell and a 2nd-level pale master spell that are in your grimoire and belong to the necromancy school of magic. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal. 
 
 By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
 
 ## Amaranthine Shroud
-At 20th level, when you take a single source of damage that would knock you unconscious or kill you outright, you may use this feature as a reaction to take no damage instead.
+*20th-level pale master feature*
+
+When you take a single source of damage that would knock you unconscious or kill you outright, you may use this feature as a reaction to take no damage instead.
 
 Once you use this feature, you can't use it again until you complete a short or long rest.
 
 # Pale Master Spells
-Pale master spells are a mix of the arcane, the divine, and the necrotic. However, principally they draw upon arcane forces for their spells, and as such their spells can be learned by wizards. Pale masters are also able to learn wizard spells, but typically choose not to, since doing so would distract from their more... pure... work.
+Pale master spells are a mix of the arcane, the divine, and the necrotic. However, principally they draw upon arcane forces for their spells, and as such their spells can be learned by wizards. Pale masters are also able to learn wizard spells, but typically choose not to, since doing so would distract from their more... pure... work. Wizards can certainly learn pale master spells, but often find the influence of doing so to be... life-altering... and often choose not to. (Unless, of course, the wizard is already studying necromancy; many of the necromantic-minded find themselves drawn to multiclass as a pale master eventually anyway.)
 
 > ### Game Notes
-> Pale masters are capable of copying spells out of a wizard spell book, and likewise for wizards out of a pale master spellbook for the usual time and cost.
+> Pale masters are capable of copying spells out of a wizard spell book, and likewise for wizards out of a pale master spellbook for the usual time and cost. They have a similar relationship to sorcerer and warlock spells as wizards do.
 
 ## Cantrips (0 Level)
 * Blood Siphon (GG)

@@ -6,28 +6,28 @@ Artificers are almost always recruited at some point by [Merchant Guilds](/Organ
 Rumors persist that the [Dread Emperor](/People/DreadEmperor.md) has been known to kidnap promising artificers, and force them to artifice on his behalf.
 
 
-Level | Proficiency Bonus | Features | Infusions Known | Infused Items | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th
------ | ----------------- | -------- | --------------- | ------------- | -------------- | --- | --- | --- | --- | ---
-1st  | +2 | Magical Tinkering, Spellcasting      | - | - | 2 | 2 | - | - | - | -
-2nd  | +2 | Infuse Item                          | 4 | 2 | 2 | 2 | - | - | - | -
-3rd  | +2 | Artificer Specialist, Right Tool for the Job | 4 | 2 | 2 | 3 | - | - | - | -
-4th  | +2 | Ability Score Improvement            | 4 | 2 | 2 | 3 | - | - | - | -
-5th  | +3 | Artificer Specialist feature         | 4 | 2 | 2 | 4 | 2 | - | - | -
-6th  | +3 | Tool Expertise                       | 6 | 3 | 2 | 4 | 2 | - | - | -
-7th  | +3 | Flash of Genius                      | 6 | 3 | 2 | 4 | 3 | - | - | -
-8th  | +3 | Ability Score Improvement            | 6 | 3 | 2 | 4 | 3 | - | - | -
-9th  | +4 | Artificer Specialist feature         | 6 | 3 | 2 | 4 | 3 | 2 | - | -
-10th | +4 | Magic Item Adept                     | 8 | 4 | 3 | 4 | 3 | 2 | - | -
-11th | +4 | Spell-Storing Item                   | 8 | 4 | 3 | 4 | 3 | 3 | - | -
-12th | +4 | Ability Score Improvement            | 8 | 4 | 3 | 4 | 3 | 3 | - | -
-13th | +5 | --                                   | 8 | 4 | 3 | 4 | 3 | 3 | 1 | -
-14th | +5 | Magic Item Savant                    |10 | 5 | 4 | 4 | 3 | 3 | 1 | -
-15th | +5 | Artificer Specialist feature         |10 | 5 | 4 | 4 | 3 | 3 | 2 | -
-16th | +5 | Ability Score Improvement            |10 | 5 | 4 | 4 | 3 | 3 | 2 | -
-17th | +6 | --                                   |10 | 5 | 4 | 4 | 3 | 3 | 3 | 1
-18th | +6 | Magic Item Master                    |12 | 6 | 4 | 4 | 3 | 3 | 3 | 1
-19th | +6 | Ability Score Improvement            |12 | 6 | 4 | 4 | 3 | 3 | 3 | 2
-20th | +6 | Soul of Artifice                     |12 | 6 | 4 | 4 | 3 | 3 | 3 | 2
+Level| Proficiency Bonus | Infusions | Infused Items | Cantrips |1st|2nd|3rd|4th|5th|Features
+-----| ----------------- | --------- | ------------- | -------- |---|---|---|---|---|-------- 
+1st  | +2                | -         | -             | 2        | 2 | - | - | - | - |[Magical Tinkering](#magical-tinkering), [Spellcasting](#spellcasting)      
+2nd  | +2                | 4         | 2             | 2        | 2 | - | - | - | - |[Infuse Item](#infuse-item)
+3rd  | +2                | 4         | 2             | 2        | 3 | - | - | - | - |[Artificer Specialist](#artificer-specialist), [Right Tool for the Job](#the-right-tool-for-the-job)
+4th  | +2                | 4         | 2             | 2        | 3 | - | - | - | - |Ability Score Improvement            
+5th  | +3                | 4         | 2             | 2        | 4 | 2 | - | - | - |Artificer Specialist feature         
+6th  | +3                | 6         | 3             | 2        | 4 | 2 | - | - | - |[Tool Expertise](#tool-expertise)
+7th  | +3                | 6         | 3             | 2        | 4 | 3 | - | - | - |[Flash of Genius](#flash-of-genius)
+8th  | +3                | 6         | 3             | 2        | 4 | 3 | - | - | - |Ability Score Improvement
+9th  | +4                | 6         | 3             | 2        | 4 | 3 | 2 | - | - |Artificer Specialist feature
+10th | +4                | 8         | 4             | 3        | 4 | 3 | 2 | - | - |[Magic Item Adept](#magic-item-adept)
+11th | +4                | 8         | 4             | 3        | 4 | 3 | 3 | - | - |[Spell-Storing Item](#spell-storing-item)
+12th | +4                | 8         | 4             | 3        | 4 | 3 | 3 | - | - |Ability Score Improvement            
+13th | +5                | 8         | 4             | 3        | 4 | 3 | 3 | 1 | - | --                                   
+14th | +5                |10         | 5             | 4        | 4 | 3 | 3 | 1 | - |[Magic Item Savant](#magic-item-savant)
+15th | +5                |10         | 5             | 4        | 4 | 3 | 3 | 2 | - |Artificer Specialist feature
+16th | +5                |10         | 5             | 4        | 4 | 3 | 3 | 2 | - |Ability Score Improvement
+17th | +6                |10         | 5             | 4        | 4 | 3 | 3 | 3 | 1 | --                                   
+18th | +6                |12         | 6             | 4        | 4 | 3 | 3 | 3 | 1 |[Magic Item Master](#magic-item-master)
+19th | +6                |12         | 6             | 4        | 4 | 3 | 3 | 3 | 2 |Ability Score Improvement            
+20th | +6                |12         | 6             | 4        | 4 | 3 | 3 | 3 | 2 |[Soul of Artifice](#soul-of-artifice)
 
 
 ## Class Features
@@ -59,12 +59,6 @@ You start with the following equipment, in addition to the equipment granted by 
 * thieves’ tools and a dungeoneer’s pack
 
 If you forgo this starting equipment, as well as the items offered by your background, you start with 5d4 × 10 gp to buy your equipment.
-
-> ### Multiclassing and the Artificer
-> If your group uses the optional rule on multiclassing in the Player's Handbook, here's what you need to know if you choose artificer as one of your classes.
-> **Ability Score Minimum.** As a multiclass character, you must have at least an Intelligence score of 13 to take a level in this class, or to take a level in another class if you are already an artificer.
-> **Proficiencies Cained.** If artificer isn't your initial class, here are the proficiencies you gain when you take your first level as an artificer: light armor, medium armor, shields, thieves' tools, tinker's tools.
-> **Spell Slots.** Add half your levels (rounded up) in the artificer class to the appropriate levels from other classes to determine your available spell slots. 
 
 ## Magical Tinkering
 *1st-level artificer feature*
@@ -143,8 +137,6 @@ Choose the type of specialist you are: [Alchemist](Artificer/Alchemist.md), [Arm
 You've learned how to produce exactly the tool you need: with thieves' tools or artisan's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
 
 ## Ability Score Improvement
-*4th-level artificer feature*
-
 When you reach 4th level and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. 
 
 ## Tool Expertise
