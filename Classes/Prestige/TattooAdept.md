@@ -20,7 +20,7 @@ Level|Cantrips Known|Spells Known|Spell Slots|Slot Level|Features
 2nd  | 1 | 3 | 3 | 1st | [Quick Ink](#quick-ink), [Tattoo Mastery](#tattoo-mastery)
 3rd  | 2 | 4 | 4 | 2nd | 
 4th  | 2 | 4 | 4 | 2nd | [Eldritch Tattoo](#eldritch-tattoo)
-5th  | 3 | 5 | 5 | 3rd |
+5th  | 3 | 5 | 5 | 3rd | [Craft Tattoo](#craft-tattoo)
 
 There is no level progression beyond the 5th level in tattoo adept, though certainly the character can continue to gain experience and apply it to other classes.
 
@@ -58,7 +58,6 @@ You learn how to store magical energy in a tattoo to be released at a later time
 
 You can have only one spell stored in this way at a time. You can cast the stored spell a number of times equal to your Intelligence or Charisma modifier, at its usual level, without expending any spell slots. Once you have done so, your Dancing Ink tattoo fades but can be recharged by exercising this feature again.
 
-
 ## Tattoo Focus
 *1st-level tattoo adept feature*
 
@@ -72,7 +71,7 @@ You can inscribe a Dancing Ink spell at the end of a short or long rest.
 ## Tattoo Mastery
 *2nd-level tattoo adept feature*
 
-Your proficiency bonus is doubled when you make an ability check that uses tattooist’s supplies. When you create magic tattoos, you require only half the usual downtime.
+Your proficiency bonus is doubled when you make an ability check that uses tattooist’s supplies.
 
 When you activate a one of your Dancing Ink tattoos or another magic tattoo that normally grants you some bonus or benefit for a duration, you can grant the effects to one willing creature you touch instead of yourself. You can’t transfer the ability to cast a spell or any permanent benefit.
 
@@ -84,3 +83,8 @@ You can ink a tattoo on your person to duplicate one warlock eldritch invocation
 Only one such tattoo can be on your person at a time, though it can be replaced at any time. Once you have inked this tattoo, you cannot ink another one until you have finished a long rest.
 
 When the tattoo's power is used, it glows on your skin, casting dim light in a 5ft radius for the duration of the effect. The eldritch invocation effect can be turned off at any time as a bonus action, and the light fades but the tattoo remains active until the tattoo adept chooses to replace it.
+
+## Craft Tattoo
+*5th-level tattoo adept feature*
+
+You have begun the study of crafting magic [tattoos](/Magic/Tattoos.md). This follows all the usual rules of crafting magic items, as described in the *Dungeon Master's Guide*, save that when you create magic tattoos, you require only half the usual downtime.
