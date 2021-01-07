@@ -56,6 +56,53 @@ When the dragon dies, these effects fade over the course of 1d10 days. Plants re
 > * attack rolls against the creature have advantage any melee weapon attack that would hit the creature is automatically a critical hit
 > * the creature automatically fails Strength and Dexterity saving throws
 
+## Mithral Dragon [Feats](DraconicFeats.md)
+
+### Blinding Breath
+A creature that fails its saving throw against the dragon's breath weapon is also blinded until the end of its next turn.
+
+
+### Dimension Strike
+*Prerequisite: must have Multiattack.*
+
+As a part of its Multiattack, the dragon can teleport up to 30 feet to an unoccupied space that it can see. It has advantage on the first melee weapon attack it makes after teleporting.
+
+
+### Mithral Prescience
+The dragon can use a bonus action to designate a creature within 50 feet of it. This creature takes a -2 penalty to AC against all of the dragon's melee attacks until the dragon is incapacitated or until the dragon designates a new creature.
+
+
+### Portent
+The dragon gains glimpses of the future. When it finishes a long rest, roll three d20s and record the numbers rolled. The dragon can replace any attack roll, saving throw, or ability check made by itself or a creature that it can see with one of these foretelling rolls. It must choose to do so before the roll, and it can replace a roll in this way only once per turn. 
+
+Each foretelling roll can be used only once. When it finishes a long rest, the dragon loses any unused foretelling rolls.
+
+
+### Prophet
+*Prerequisite: Prophetic Defense; must be Ancient or older.*
+
+The dragon has advantage on all saving throws.
+
+
+### Prophetic Defense
+The dragon gains the following reaction:
+
+**Prophetic Defense.** When the dragon is hit by an attack, it gains a +3 bonus to its AC against that attack. If the attack misses, the dragon can then teleport up to 30 feet to an unoccupied space that it can see.
+
+
+### Radiant Teleportation
+When the dragon uses its Teleport action, the space it previously occupied explodes with bright radiant energy. Each creature within 20 feet of that space must succeed on a Dexterity saving throw (save DC = Breath Weapon save DC) or take 18 (4d8) radiant damage. If the save fails by 5 or more, the creature is also blinded until the end of its next turn.
+
+
+### Time Stop
+*Prerequisite: must be Mature Adult or older.*
+
+The dragon gains the following action option:
+
+**Time Stop (1/Day).** The dragon innately casts the spell [time stop]() without expending a spell slot or any innate casting uses.
+
+---
+
 ## Wyrmling Mithral Dragon
 Medium dragon, lawful good
 Armor Class 17 (natural armor)
@@ -96,8 +143,9 @@ ending the effect on itself on a success. The
 effect ends early if the creature takes damage or
 is otherwise interacted with in any way.
 
-## Very Young Mithral
-Dragon
+---
+
+## Very Young Mithral Dragon
 Medium dragon, lawful good
 Armor Class 17 (natural armor)
 Hit Points 114 (12d10 + 48)
@@ -136,6 +184,8 @@ the save again at the end of each of its turns,
 ending the effect on itself on a success. The
 effect ends early if the creature takes damage or
 is otherwise interacted with in any way.
+
+---
 
 ## Young Mithral Dragon
 Large dragon, lawful good
@@ -176,6 +226,8 @@ the save again at the end of each of its turns,
 ending the effect on itself on a success. The
 effect ends early if the creature takes damage or
 is otherwise interacted with in any way.
+
+---
 
 ## Juvenile Mithral Dragon
 Large dragon, lawful good
@@ -223,6 +275,8 @@ attempt the save again at the end of each of its turns,
 ending the effect on itself on a success. The effect
 ends early if the creature takes damage or is
 otherwise interacted with in any way.
+
+---
 
 ## Young Adult Mithral Dragon
 Huge dragon, lawful good
@@ -280,6 +334,8 @@ attempt the save again at the end of each of its turns,
 ending the effect on itself on a success. The effect
 ends early if the creature takes damage or is
 otherwise interacted with in any way.
+
+---
 
 ## Adult Mithral Dragon
 Huge dragon, lawful good
@@ -355,8 +411,9 @@ or take 14 (2d6 + 7) bludgeoning damage and be
 knocked prone. The dragon can then fly up to half
 its flying speed.
 
-## Mature Adult Mithral
-Dragon
+---
+
+## Mature Adult Mithral Dragon
 Huge dragon, lawful good
 Armor Class 19 (natural armor)
 Hit Points 275 (19d12 + 152)
@@ -445,6 +502,8 @@ must succeed on a DC 22 Dexterity saving throw
 or take 15 (2d6 + 8) bludgeoning damage and be
 knocked prone. The dragon can then fly up to half
 its flying speed.
+
+---
 
 ## Old Mithral Dragon
 Gargantuan dragon, lawful good
@@ -536,6 +595,8 @@ or take 16 (2d6 + 9) bludgeoning damage and be
 knocked prone. The dragon can then fly up to half
 its flying speed.
 
+---
+
 ## Elder Mithral Dragon
 Gargantuan dragon, lawful good
 Armor Class 21 (natural armor)
@@ -625,6 +686,8 @@ must succeed on a DC 24 Dexterity saving throw
 or take 16 (2d6 + 9) bludgeoning damage and be
 knocked prone. The dragon can then fly up to half
 its flying speed.
+
+---
 
 ## Ancient Mithral Dragon
 Colossal dragon, lawful good
@@ -716,6 +779,8 @@ or take 17 (2d6 + 10) bludgeoning damage and be
 knocked prone. The dragon can then fly up to half
 its flying speed.
 
+---
+
 ## Wyrm Mithral Dragon
 Colossal dragon, lawful good
 Armor Class 23 (natural armor)
@@ -805,6 +870,8 @@ must succeed on a DC 26 Dexterity saving throw
 or take 17 (2d6 + 10) bludgeoning damage and be
 knocked prone. The dragon can then fly up to half
 its flying speed.
+
+---
 
 ## Great Wyrm Mithral Dragon
 Colossal dragon, lawful good

@@ -49,6 +49,47 @@ The region containing a legendary iron dragon's lair is warped by the dragon's m
 * Creatures that cannot normally speak Draconic have the ability to do so within 1 mile of the lair.
 * Reptiles are unusually active within 1 mile of the lair.
 
+---
+
+## Iron Dragon [Feats](DraconicFeats.md)
+
+### Ambusher
+The dragon gains advantage on attack rolls against creatures it has surprised.
+
+
+### Brutal Ferocity
+The dragon scores a critical hit on an attack roll of 19 or 20 on the d20.
+
+
+### Iron Scales
+Bludgeoning, piercing, and slashing damage that the dragon takes from nonmagical weapons is reduced by 2. This cannot reduce the damage below 1.
+
+This feat stacks with Hard Scales.
+
+
+### Iron Defense
+The dragon gains the following reaction:
+
+**Iron Defense.** When the dragon is hit by an attack or fails a Constitution or Dexterity saving throw, it gains a +3 bonus to its saving throw or its AC against that attack.
+
+
+### Iron Shroud
+*Prerequisite: Iron Defense.*
+
+The dragon gains the following reaction, which replaces Iron Defense:
+
+**Iron Shroud.** When the dragon is hit by an attack or fails a Constitution or Dexterity saving throw, it gains a +3 bonus to its saving throw or its AC against that attack. If the attack still hits, or if the dragon still takes damage from the effect, it gains resistance to all damage from that attack or effect.
+
+
+### Lightning Lure
+If a creature fails its saving throw against the dragon's Lightning Breath, the dragon can choose to pull the creature up to 10 feet closer to it.
+
+
+### Sneak Attack
+The dragon automatically scores a critical hit if the attack roll would hit and it has advantage on the attack.
+
+---
+
 ## Wyrmling Iron Dragon
 Tiny dragon, neutral good
 Armor Class 17 (natural armor)
@@ -81,6 +122,8 @@ the dragon or the dragon's companions do
 anything harmful to the creature, it can repeat the
 saving throw, ending the effect on itself on a
 success.
+
+---
 
 ## Very Young iron Dragon
 Small dragon, neutral good
@@ -115,6 +158,8 @@ anything harmful to the creature, it can repeat the
 saving throw, ending the effect on itself on a
 success.
 
+---
+
 ## Young Iron Dragon
 Medium dragon, neutral good
 Armor Class 17 (natural armor)
@@ -147,6 +192,8 @@ the dragon or the dragon's companions do
 anything harmful to the creature, it can repeat the
 saving throw, ending the effect on itself on a
 success.
+
+---
 
 ## Juvenile Iron Dragon
 Medium dragon, neutral good
@@ -182,10 +229,11 @@ succeed on a DC 15 Wisdom saving throw or be
 charmed by the dragon for 1 minute. Each time
 the dragon or the dragon's companions do
 anything harmful to the creature, it can repeat the
-saving throw, ending the effect on itself on a
+saving throw, ending the effect on itself on a success.
 
-## Young Adult Iron
-Dragon
+---
+
+## Young Adult Iron Dragon
 Large dragon, neutral good
 Armor Class 18 (natural armor)
 Hit Points 147 (14d10 + 70)
@@ -230,6 +278,8 @@ the dragon for 1 minute. Each time the dragon or the
 dragon's companions do anything harmful to the
 creature, it can repeat the saving throw, ending the
 effect on itself on a success.
+
+---
 
 ## Adult Iron Dragon
 Large dragon, neutral good
@@ -294,8 +344,9 @@ or take 12 (2d6 + 5) bludgeoning damage and be
 knocked prone. The dragon can then fly up to half
 its flying speed.
 
-## Mature Adult Iron
-Dragon
+---
+
+## Mature Adult Iron Dragon
 Huge dragon, neutral good
 Armor Class 19 (natural armor)
 Hit Points 212 (17d12 + 102)
@@ -372,6 +423,8 @@ must succeed on a DC 19 Dexterity saving throw
 or take 13 (2d6 + 6) bludgeoning damage and be
 knocked prone. The dragon can then fly up to half
 its flying speed.
+
+---
 
 ## Old Iron Dragon
 Huge dragon, neutral good
@@ -451,6 +504,8 @@ or take 14 (2d6 + 7) bludgeoning damage and be
 knocked prone. The dragon can then fly up to half
 its flying speed.
 
+---
+
 ## Elder Iron Dragon
 Huge dragon, neutral good
 Armor Class 21 (natural armor)
@@ -528,6 +583,8 @@ must succeed on a DC 21 Dexterity saving throw
 or take 14 (2d6 + 7) bludgeoning damage and be
 knocked prone. The dragon can then fly up to half
 its flying speed.
+
+---
 
 ## Ancient Iron Dragon
 Huge dragon, neutral good
@@ -607,6 +664,8 @@ or take 15 (2d6 + 8) bludgeoning damage and be
 knocked prone. The dragon can then fly up to half
 its flying speed.
 
+---
+
 ## Wyrm Iron Dragon
 Gargantuan dragon, neutral good
 Armor Class 23 (natural armor)
@@ -684,6 +743,8 @@ must succeed on a DC 24 Dexterity saving throw
 or take 16 (2d6 + 9) bludgeoning damage and be
 knocked prone. The dragon can then fly up to half
 its flying speed.
+
+---
 
 ## Great Wyrm Iron Dragon
 Gargantuan dragon, lawful neutral

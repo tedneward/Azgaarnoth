@@ -1,6 +1,7 @@
 # Stagraven ([Liria](/Nations/Liria.md))
-Population: 9,000 -- 40% human, 45% Firstborn, 15% Created
-Port, Citadel, Walled, Marketplace, Shantytown
+*Population: 9,000 -- 40% human, 45% Firstborn, 15% Created*
+
+**Facilities:** Port, Citadel, Walled, Marketplace, Shantytown
 
 Stagraven sits at an important juncture: the southern end of the Ravensound, and the southwestern point of the Daw Mountains, it also marks the southern "border" of the Ravenslands and the last point of civilization along the Ravensroad that (more or less) travels down the western coast of Liria before one crosses the Daws to get to Dawsilent.
 
@@ -15,7 +16,7 @@ Stagraven sits at an important juncture: the southern end of the Ravensound, and
 * City Councilor 
 * City Councilor 
 * City Councilor 
-* Lord Martial [Nisan Sigthar](/People/NisanSigthar.md), Precentor Martial of the Draconic Order in Stagraven 
+* Lord Martial [Nisan Sigthar](/People/NisanSigthar.md)
 
 ## Military Units
 **The Raven Guard**:
