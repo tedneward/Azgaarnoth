@@ -1,11 +1,11 @@
 # Dragonspawn
-The dragonspawn are an alchemical and magical experiment to stiffen the ranks of the chromatic dragons by the Cult of the Wyrm, among others. In essence, by taking a clutch of chromatic dragon eggs (most of which won't survive, owing to the predatory nature of chromatic dragon hatchlings) and bathing them in a particular alchemical stew accompanied by some twisted magic during their time in the egg, a half-dragon-like creature can emerge from the egg, ready almost immediately to wreak havoc on whatever happens to be nearby.
+The dragonspawn are an alchemical and magical experiment to stiffen the ranks of the chromatic dragons by the [Cult of the Wyrm](/Organizations/CultOfTheWyrm.md), among others. In essence, by taking a clutch of chromatic dragon eggs (most of which won't survive, owing to the predatory nature of chromatic dragon hatchlings) and bathing them in a particular alchemical stew accompanied by some twisted magic during their time in the egg, a half-dragon-like creature can emerge from the egg, ready almost immediately to wreak havoc on whatever happens to be nearby.
 
 > Jump to: [Blackspawn Raider](#blackspawn-raider) [Bluespawn Thunderlizard](#bluespawn-thunderlizard) [Greenspawn Razorfiend](#greenspawn-razorfiend) [Whitespawn Frostlizard](#whitespawn-frostlizard)
 
 For whatever reasons, red dragon eggs seem immune to the treatment.
 
-Unlike dragonborn, dragonspawn aren't always humanoid in nature--blackspawn emerge that way, but the rest take more to the animalistic nature of the dragon, and are four-legged creatures.
+Unlike dragonborn, dragonspawn aren't always humanoid in nature--blackspawn emerge that way, but the rest take more to the animalistic nature of the dragon and are four-legged creatures.
 
 ## Blackspawn Raider
 *Medium humanoid (dragonborn), chaotic evil*

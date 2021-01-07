@@ -1,5 +1,5 @@
 # Order of the Platinum Dragon
-Leader: Lord Targio Marduk
+Leader: [Lord Targio Marduk](/People/TargioMarduk.md)
 
 The Draconic Orders' highest pinnacle of martial skill and servitude, members of the Platinum Order are considered the elite of the elite, bordering on the reverent. One of the strictest of the martial orders within the Draconic Order, Platinum Knights represent the highest ideals of draconic integrity, calling, and moral standing. Platinum Knights serve as de facto leadership of the Draconic Orders when cross-Order organization and communication is required. However, the Platinums understand that simply being a Platinum Knight does not make them wiser in battlefield combat than the [Bronze](Bronze.md), more scholarly than the [Brass](Brass.md), or craftier than the [Copper](Copper.md); leadership means finding ways to put each of the elements of the Draconic Order into maximum effect, and serving as the rallying point when necessary.
  

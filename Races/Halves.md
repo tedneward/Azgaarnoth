@@ -1,5 +1,5 @@
 # Halves (Half-Elves, Half-Orcs, Half-Dragons)
-The "halves" races are always mixed-parent offspring, and as such will frequently find that even within the surprisingly tolerant world of Azgaarnoth, they aren't always trusted completely (whether deserved or not). Such characters are often searching for a place to call their own, and often find themselves drawn to one side of their legacy over the other.
+The "halves" races are always mixed-parent offspring, and as such will frequently find that even within the surprisingly tolerant world of Azgaarnoth, they aren't always trusted completely (deserved or not). Such characters are often searching for a place to call their own, and often find themselves drawn to one side of their legacy over the other.
 
 ## Half-Elves
 
@@ -23,28 +23,32 @@ Half-elves may be [dragonmarked](Dragonmarked.md) with the Mark of Detection or 
 
 * **Elf Heritage.** Choose one of the following elvish subraces as your elvish parent's heritage:
 
-  * **Mixed**. Your elvish parent was of mixed elvish blood, and not of any particular subrace. You gain proficiency in two skills of your choice.
+  * **Mixed.** Your elvish parent was of mixed elvish blood, and not of any particular subrace. You gain proficiency in two skills of your choice.
 
-  * **High Elf**. Your elvish parent came from High Elf stock. This grants you:
-    * **Elf Weapon Training**. You have proficiency with the longsword, shortsword, shortbow, and longbow.
+  * **Bright Elf.**
 
-    * **Cantrip**. You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+  * **High Elf.** Your elvish parent came from High Elf stock. This grants you:
+    * **Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
 
+    * **Cantrip.** You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
 
-  * **Wood Elf**. Your elvish parent came from Wood Elf stock. This grants you:
-    * **Elf Weapon Training**. You have proficiency with the longsword, shortsword, shortbow, and longbow.
-    * **Fleet of Foot**. Your base walking speed increases to 35 feet.
-    * **Mask of the Wild**. You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+  * **Wood Elf.** Your elvish parent came from Wood Elf stock. This grants you:
+    * **Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
+    * **Fleet of Foot.** Your base walking speed increases to 35 feet.
+    * **Mask of the Wild.** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
-  * **Dark Elf**. Your elvish parent came from Dark Elf (drow) stock. This gives you access to some of the drow magic. You know the [dancing lights](https://www.dndbeyond.com/spells/dancing-lights) cantrip. When you reach 3rd level, you can cast Faerie Fire once, and it recharges after a long rest. When you reach 5th level, you can cast Darkness once, and it recharges after a long rest. Charisma is your spellcasting ability for these spells.
+  * **Dark Elf.** Your elvish parent came from Dark Elf (*drow*) stock. This grants you:
+    * ***Drow* Magic.** You know the [dancing lights](https://www.dndbeyond.com/spells/dancing-lights) cantrip. When you reach 3rd level, you can cast Faerie Fire once, and it recharges after a long rest. When you reach 5th level, you can cast Darkness once, and it recharges after a long rest. Charisma is your spellcasting ability for these spells.
 
-  * **Sea Elf**. Your elvish parent came from Sea Elf (maerach) stock. You have a swimming speed of 30 feet.
+  * **Sea Elf.** Your elvish parent came from Sea Elf (*maerach*) stock. You have a swimming speed of 30 feet.
 
-  * **Fey Elf**. Your elvish parent came from Fey Elf (eladrin) stock. ???
+  * **Fey Elf.** Your elvish parent came from Fey Elf (*eladrin*) stock. ???
 
-  * **Wild Elf**. Your elvish parent came from Wild Elf (grugach) stock. ???
+  * **Wild Elf.** Your elvish parent came from Wild Elf (*grugach*) stock. ???
 
-  * **Sky Elf**. Your elvish parent came from Sky Elf (avariel) stock. ???
+  * **Sky Elf.** Your elvish parent came from Sky Elf (*avariel*) stock. ???
+
+  * **Shadow Elf.** Your elvish parent came from Shadow Elf (*shadar-kai*) stock. ???
 
 
 ## Half-Orcs
@@ -74,15 +78,18 @@ Half-orcs may be [dragonmarked](Dragonmarked.md) with the Mark of Finding; see t
 
 
 ## Half-Dragons
-(from *The Book of Dragons*)
+Half-Dragons are begotten from the union of a *polymorphed* dragon and some other creature, often a humanoid. As fertile as dragons usually are, half-dragons do not occur particularly often. No record of any half-dragon of metallic dragon parentage have ever been found; the only half-dragons seen have been of chromatic descent, and generally in the close company of members of the [Cult of the Wyrm](/Organizations/CultOfTheWyrm.md), who consider them blessed and semi-divine. Half-dragons are begotten from the union of a polymorphed dragon and some other creature, often a humanoid (and, given the nature of chromatic dragons, often with evil intent somewhere). There are other methods of creating half-dragons, most of them magical, some of them profane, and all of them known to the [Cult of the Wyrm](/Organizations/CultOfTheWyrm.md). There are other methods of creating Half-Dragons, most of them magical and some of them profane, and Half-Dragons are just as unique as the methods used to create them.
 
-No record of any half-dragon of metallic dragon parentage have ever been found; the only half-dragons seen have been of chromatic descent, and generally in the close company of members of the [Cult of the Wyrm](/Organizations/CultOfTheWyrm.md), who consider them blessed and semi-divine. Half-dragons are begotten from the union of a polymorphed dragon and some other creature, often a humanoid (and, given the nature of chromatic dragons, often with evil intent somewhere). There are other methods of creating half-dragons, most of them magical, some of them profane, and all of them known to the [Cult of the Wyrm](/Organizations/CultOfTheWyrm.md). Regardless of how they came to exist, half-dragons are just as unique as the methods used to create them. 
+When they appear, half-dragons are dealt with cautiously at best, and with blunt hostility at worst. Merchants, innkeepers, and other people may be unwilling to speak or deal with you.
 
 As a half-dragon, you look like your draconic parent. You take on the appearance of your parent, including teeth and horns, and you have scales and saurian legs, though you stand upright like any other humanoid.
 
+> Player Note: The first thing to consider about playing a Half-Dragon is "how am I a half-dragon"? Perhaps you were begotten by the union of a red dragon and a human. Perhaps you were cursed by a powerful wizard or deity for some act of hypocrisy. Perhaps you pledged yourself in service to a particular dragon and undertook a ritual to change yourself physically to emulate them. Often this will have some sort of connection to the [Cult of the Wyrm](/Organizations/CultOfTheWyrm.md) if it is not a story of tragic love or cruel abandonment. Once that is decided, decide the race of your other parent. The most common races are human, elf, and half-elf, though the others are not impossible, including dragonborn or other [Created](Created.md). 
+> Then decide your relationship with your parents. Did your draconic mother take you in and raise you as her own? Were you considered an abomination at birth and disowned? Is your draconic father a tyrant who expects you to follow his every command? Did your white dragon mother fall under the sway of love (or perhaps obedience) to a powerful human and feel maternal towards you, offering guidance and assistance? Take into account the dragon's type when determining this. Black dragons tend to be cruel, while a red dragon is simply too prideful to accept you would do anything but his will. Consider how many children your dragon parent has. What is your relationship with your half-siblings? Are they your rivals, or are they your companions and close friends?
+
 * **Ability Score Increase**. Your Strength, Constitution, and Charisma scores each increase by 1.
 
-* **Age**. You are expected to live about twice as long as your base race.
+* **Age**. You are expected to live about twice as long as your base (non-draconic) race.
 
 * **Alignment**. A half-dragon's alignment is strongly influenced by its parentage; thus, chromatic half-dragons tend to be evil, but there are anomalies. You may also retain the tendencies of your base race. For example: if your other parent was an elf, you still might be inclined towards chaotic alignments.
 

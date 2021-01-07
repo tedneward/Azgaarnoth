@@ -1,5 +1,5 @@
 # Order of the Gold Dragon
-Leader: Precentor Martial (Lord) Aftenish Tamarand
+Leader: [Precentor Martial (Lord) Aftenish Tamarand](/People/AftenishTamarand.md)
 
 The Order of the Gold Dragon is the militant arm of the Draconic Orders, ready to take to the front lines with sword (and sometimes spell) to fight evil. Like their namesakes, Golds are often graceful and wise, and they are relentless and dedicated foes of evil, injustice, and foul play.  While respected for their fairness and knowledge, Golds also have a reputation of being grim and reserved, and often avoid casual contact with other members of the Draconic Orders except when necessary. Strong believers in the greater good and in the rule of order, Golds are sometimes viewed as arrogant and dismissive. They tend to avoid philosophical or ethical discussions with beings they deem inferior, although they enjoy arguing in favor of law.
  

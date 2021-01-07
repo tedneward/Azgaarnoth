@@ -1,2 +1,2 @@
-# People: Yithi
+# Yithi
 

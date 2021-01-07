@@ -1,5 +1,5 @@
 # Order of the Steel Dragon
-Leader: MasterSmith (Lord) Ironhand Glowforge
+Leader: MasterSmith (Lord) [Ironhand Glowforge](/People/IronhandGlowforge.md)
 
 The Steels are the artificers, because not all of what determines the outcome of the battle will happen on the battlefield; he who comes with the better axe and chain, she who comes with the better mace and shield, not only wins the battle, but lives to win the war. Like their namesakes, the Steels are amiable, curious, and witty, constantly looking for new ways to improve their craft and the materials they provide to the Orders. 
  
@@ -9,11 +9,4 @@ Steels generally get along well with all of the other Orders, and in particular 
 
 ## Membership
 Steels are craftspeople, and as such accept anyone within their ranks, particularly if they are dedicated to the production of something useful, beautiful, or both. Dwarves are frequently drawn to join the Order (sometimes on sabbatical from a merchant guild/clan), as do elves (and their love of working with the wood of the forest). Dragonborn are less often members, generally preferring action in the field over manufacture in the chapterhouse. A few halflings manage vast fields to grow food (and, yes, beer) for the Order, although the senior leaders of the Steels sometimes turn away in smiles when a halfling member reports a "wee slippage" in food production around their birthday.
-
-## Leader profile: Lord Ironhand Glowforge
-Dwarf Fighter 5, LG
-
-Lord Ironhand Glowforge, formerly known as Morthen Glowforge, the current MasterSmith of the Order of the Steel Dragon, is called such for obvious reasons: his entire lower right arm is made of dwarven adamantium, magically replacing the half-arm he lost in combat years ago while serving in the [Order of the Silver Dragon](Silver.md). He generally doesn't really talk about it, but the legend is known widely among the Orders and he doesn't mind others telling it: He lost the arm in combat with the current Precentor Martial of the [Order of the Gold Dragon](Gold.md), Lord Aftenish Tamarand, while the pair were facing off against an adult red dragon. The two battled the wyrm for hours; when Aftenish stumbled from a vicious claw-rake from the wyrm, Morthen raised his shield to defend them both from the dragon's breath weapon. The fire melted his shield and charred his arm, but gave Aftenish the time to recover. When the dragon finally paused, convinced it had roasted both to cinders, Aftenish sprang past his Silver partner, struck the beast a critical blow, and ended the dragon's life. Despite immediate attempts to heal the charred remnants of his arm, Morthen would never again hold a shield.
- 
-When the master forgers of the Steel Order heard of the valiant dwarf, they immediately set to work with the best healers of the Silvers and the best researchers of the [Order of the Brass Dragon](Brass.md) to determine how to make the artifact "Ironhand" now bears. It grants him greater strength and finer muscle control than he ever had, and he swore to return the favor by returning to his dwarven roots and crafting the best weapons and mail the Order could ever require. He routinely looks for ways to create similar artifacts for all members of the Order, and from his forge has come some amazing items in use all across the Draconic Orders.
 
