@@ -13,7 +13,6 @@ To gain levels as an Incarnate, you must meet the following requirements (in add
 
 The would-be Incarnate must rediscover an "incarnate soul," usually though very intense and realistic dreams of past lives. Many Incarnates arise from druids who (re)discover this potential within themselves; others come from the ranks of those who were troubled by visions of the past and then sought out druids to help them awaken their potential. [Primeval Guardian rangers](../Ranger/PrimevalGuardian.md) are also common Incarnates. [Revived rogues](../Rogue/Revived.md) frequently find themselves in company with Incarnates, and sometimes even become them.
 
-There is no level progression beyond the 5th level in Incarnate, though certainly the character can continue to gain experience and apply it to other classes.
 
 ## Class Features
 As an Incarnate, you gain the following class features.
@@ -25,6 +24,8 @@ Level|Cantrips Known|1st|2nd|Features
 3rd  |1|3|—|[Wild Incarnation](#wild-incarnation)
 4th  |2|3|—|[Wild Incarnation](#wild-incarnation)
 5th  |2|4|2|[Wild Incarnation](#wild-incarnation)
+
+There is no level progression beyond the 5th level in Incarnate, though certainly the character can continue to gain experience and apply it to other classes.
 
 ### Hit Points
 **Hit Dice:** 1d8 per Incarnate level

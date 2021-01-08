@@ -1,5 +1,5 @@
 # Captain Lars [Ulverth](/Organizations/Houses/Ulverth.md)
-*Human male Fighter (Cavalier) 7, LG*
+*Human male Fighter (Cavalier) 7/Leader 2, LG*
 
 
 
