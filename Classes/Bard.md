@@ -169,7 +169,9 @@ At 20th level, when you roll initiative and have no uses of Bardic Inspiration l
 The following spells listed are available (but not necessarily accessible) to all bards throughout Azgaarnoth; this is not the complete list of all bard spells, however. Certain colleges may have additional spells that are only known to their members. Bards can learn new spells by visiting foreign colleges, uncovering new books in ancient ruins, traveling with other bards of different backgrounds, and so on. (In other words, DM's choice about adding new bard spells to the "known" list, and the bard may need to do some in-game activity or adventure to obtain them.)
 
 ## Cantrips
+* [balance](/Magic/Spells/balance.md)
 * [blade ward](https://www.dndbeyond.com/spells/blade-ward)
+* [bolster](/Magic/Spells/bolster.md)
 * [dancing lights](https://www.dndbeyond.com/spells/dancing-lights)
 * [friends](https://www.dndbeyond.com/spells/friends)
 * [light](https://www.dndbeyond.com/spells/light)
@@ -178,12 +180,14 @@ The following spells listed are available (but not necessarily accessible) to al
 * [message](https://www.dndbeyond.com/spells/message)
 * [minor illusion](https://www.dndbeyond.com/spells/minor-illusion)
 * [prestidigitation](https://www.dndbeyond.com/spells/prestidigitation)
+* [renewal](/Magic/Spells/renewal.md)
 * [thunderclap](https://www.dndbeyond.com/spells/thunderclap)
 * [true strike](https://www.dndbeyond.com/spells/true-strike)
 * [vicious mockery](https://www.dndbeyond.com/spells/vicious-mockery)
 
 ## 1st Level
 * [animal friendship](https://www.dndbeyond.com/spells/animal-friendship)
+* [attract projectiles](/Magic/Spells/attract-projectiles.md)
 * [bane](https://www.dndbeyond.com/spells/bane)
 * [cause fear](https://www.dndbeyond.com/spells/cause-fear)
 * [charm person](https://www.dndbeyond.com/spells/charm-person)
@@ -254,11 +258,13 @@ The following spells listed are available (but not necessarily accessible) to al
 * Fear
 * Feign Death
 * Glyph of Warding
+* [healing wave](/Magic/Spells/healing-wave.md)
 * Hypnotic Pattern
 * intellect fortress
 * Leomund's Tiny Hut
 * Major Image
 * Mass Healing Word
+* [mass shield](/Magic/Spells/mass-shield.md)
 * Nondetection
 * Plant Growth
 * Sending
@@ -277,6 +283,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * Dimension Door
 * Freedom of Movement
 * Greater Invisibility
+* [greater renewal](/Magic/Spells/greater-renewal.md)
 * Hallucinatory Terrain
 * Locate Creature
 * Phantasmal Killer
@@ -300,6 +307,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * Planar Binding
 * Raise Dead
 * Rary's telepathic bond (ritual)
+* [reverse projectiles](/Magic/Spells/reverse-projectiles.md)
 * Scrying
 * Seeming
 * Teleportation Circle
@@ -316,6 +324,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * Scatter
 * Tenser's transformation
 * True Seeing
+* [zone of restoration](/Magic/Spells/zone-of-restoration.md)
 
 ## 7th Level
 * dream of the blue veil
@@ -343,6 +352,7 @@ The following spells listed are available (but not necessarily accessible) to al
 
 ## 9th Level
 * Foresight
+* [omnisight](/Magic/Spells/omnisight.md)
 * Power Word: Heal
 * Power Word: Kill
 * Prismatic Wall

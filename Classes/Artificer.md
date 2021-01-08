@@ -389,6 +389,8 @@ The following spells listed are available (but not necessarily accessible) to al
 
 ## Cantrips
 * [acid splash](https://www.dndbeyond.com/spells/acid-splash)
+* [balance](/Magic/Spells/balance.md)
+* [bolster](/Magic/Spells/bolster.md)
 * [create bonfire](https://www.dndbeyond.com/spells/create-bonfire)
 * [dancing lights](https://www.dndbeyond.com/spells/dancing-lights)
 * [fire bolt](https://www.dndbeyond.com/spells/fire-bolt)
@@ -402,6 +404,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [poison spray](https://www.dndbeyond.com/spells/poison-spray)
 * [prestidigitation](https://www.dndbeyond.com/spells/prestidigitation)
 * [ray of frost](https://www.dndbeyond.com/spells/ray-of-frost)
+* [renewal](/Magic/Spells/renewal.md)
 * [resistance](https://www.dndbeyond.com/spells/resistance)
 * [shocking grasp](https://www.dndbeyond.com/spells/shocking-grasp)
 * [spare the dying](https://www.dndbeyond.com/spells/spare-the-dying)
@@ -413,6 +416,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [absorb elements](https://www.dndbeyond.com/spells/absorb-elements)
 * [alarm](https://www.dndbeyond.com/spells/alarm) (ritual)
 * [arcane weapon](/Magic/Spells/arcane-weapon.md)
+* [attract projectiles](/Magic/Spells/attract-projectiles.md)
 * [catapult](https://www.dndbeyond.com/spells/catapult)
 * [cure wounds](https://www.dndbeyond.com/spells/cure-wounds)
 * [detect magic](https://www.dndbeyond.com/spells/detect-magic) (ritual)
@@ -463,6 +467,8 @@ The following spells listed are available (but not necessarily accessible) to al
 * Fly
 * Glyph of Warding
 * Haste
+* [healing wave](/Magic/Spells/healing-wave.md)
+* [mass shield](/Magic/Spells/mass-shield.md)
 * Protection from Energy
 * Revivify
 * Water Breathing (ritual)
@@ -471,8 +477,10 @@ The following spells listed are available (but not necessarily accessible) to al
 ## 4th Level
 * Arcane Eye
 * Elemental Bane
+* [enhance body](/Magic/Spells/enhance-body.md)
 * Fabricate
 * Freedom of Movement
+* [greater renewal](/Magic/Spells/greater-renewal.md)
 * Leomund's Secret Chest
 * Mordenkainen's Faithful Hound
 * Mordenkainen's Private Sanctum
@@ -485,8 +493,8 @@ The following spells listed are available (but not necessarily accessible) to al
 * Bigby's Hand
 * Creation
 * Greater Restoration
+* [reverse projectiles](/Magic/Spells/reverse-projectiles.md)
 * Skill Empowerment
 * Transmute Rock
 * Wall of Stone
 
-*Source: [Unearthed Arcana: Artificer Returns](https://dnd.wizards.com/articles/unearthed-arcana/artificer-returns)*

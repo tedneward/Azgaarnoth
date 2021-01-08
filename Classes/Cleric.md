@@ -213,10 +213,13 @@ At 20th level, your call for intervention succeeds automatically, no roll requir
 The following spells listed are available (but not necessarily accessible) to all clerics throughout Azgaarnoth; this is not the complete list of all cleric spells, however. Certain domains may have additional spells that are only known to their members. Clerics can learn new spells by visiting foreign temples, uncovering new prayer books in ancient ruins, or even beseeching their gods/goddesses for new knowledge, and so on. (In other words, DM's choice about adding new cleric spells to the "known" list, and the cleric may need to do some in-game activity or adventure to obtain them.)
 
 ## Cantrips
+* [balance](/Magic/Spells/balance.md)
+* [bolster](/Magic/Spells/bolster.md)
 * [guidance](https://www.dndbeyond.com/spells/guidance)
 * [word of radiance](https://www.dndbeyond.com/spells/word-of-radiance)
 * [light](https://www.dndbeyond.com/spells/light)
 * [mending](https://www.dndbeyond.com/spells/mending)
+* [renewal](/Magic/Spells/renewal.md)
 * [resistance](https://www.dndbeyond.com/spells/resistance)
 * [sacred flame](https://www.dndbeyond.com/spells/sacred-flame)
 * [spare the dying](https://www.dndbeyond.com/spells/spare-the-dying)
@@ -225,6 +228,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [virtue](/Magic/Spells/virtue.md)
 
 ## 1st Level
+* [attract projectiles](/Magic/Spells/attract-projectiles.md)
 * [bane](https://www.dndbeyond.com/spells/bane)
 * [bless](https://www.dndbeyond.com/spells/bless)
 * [cause fear](https://www.dndbeyond.com/spells/cause-fear)
@@ -277,8 +281,10 @@ The following spells listed are available (but not necessarily accessible) to al
 * [dispel magic](https://www.dndbeyond.com/spells/dispel-magic)
 * Feign Death
 * Glyph of Warding
+* [healing wave](/Magic/Spells/healing-wave.md)
 * [magic circle](https://www.dndbeyond.com/spells/magic-circle)
 * Mass Healing Word
+* [mass shield](/Magic/Spells/mass-shield.md)
 * Meld into Stone
 * Protection from Energy
 * [remove curse](https://www.dndbeyond.com/spells/remove-curse)
@@ -299,7 +305,9 @@ The following spells listed are available (but not necessarily accessible) to al
 * Death Ward
 * [detect curses](/Magic/Spells/detect-curses.md)
 * Divination
+* [enhance body](/Magic/Spells/enhance-body.md)
 * Freedom of Movement
+* [greater renewal](/Magic/Spells/greater-renewal.md)
 * Guardian of Faith
 * Locate Creature
 * Stone Shape
@@ -318,6 +326,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * Mass Cure Wounds
 * Planar Binding
 * Raise Dead
+* [reverse projectiles](/Magic/Spells/reverse-projectiles.md)
 * Scrying
 * Skill empowerment
 * Summon Celestial
@@ -336,6 +345,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * sunbeam
 * True Seeing
 * Word of Recall
+* [zone of restoration](/Magic/Spells/zone-of-restoration.md)
 
 ## 7th Level
 * Conjure Celestial
@@ -358,6 +368,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * Astral Projection
 * Gate
 * Mass Heal
+* [omnisight](/Magic/Spells/omnisight.md)
 * Power Word: Heal
 * True Resurrection
 

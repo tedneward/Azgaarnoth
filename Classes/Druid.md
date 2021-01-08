@@ -164,6 +164,8 @@ The following spells listed are known (but not necessarily accessible, depending
 
 ## Cantrips
 * [acid splash](https://www.dndbeyond.com/spells/acid-splash)
+* [balance](/Magic/Spells/balance.md)
+* [bolster](/Magic/Spells/bolster.md)
 * [control flames](https://www.dndbeyond.com/spells/control-flames)
 * [create bonfire](https://www.dndbeyond.com/spells/create-bonfire)
 * [druidcraft](https://www.dndbeyond.com/spells/druidcraft)
@@ -177,6 +179,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * [poison spray](https://www.dndbeyond.com/spells/poison-spray)
 * [primal savagery](https://www.dndbeyond.com/spells/primal-savagery)
 * [produce flame](https://www.dndbeyond.com/spells/produce-flame)
+* [renewal](/Magic/Spells/renewal.md)
 * [resistance](https://www.dndbeyond.com/spells/resistance)
 * [shape water](https://www.dndbeyond.com/spells/shape-water)
 * [shillelagh](https://www.dndbeyond.com/spells/shillelagh)
@@ -248,6 +251,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * Erupting Earth
 * Feign Death
 * Flame Arrows
+* [healing wave](/Magic/Spells/healing-wave.md)
 * Meld into Stone
 * Plant Growth
 * Protection from Energy
@@ -278,6 +282,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * Freedom of Movement
 * Giant Insect
 * Grasping Vine
+* [greater renewal](/Magic/Spells/greater-renewal.md)
 * Guardian of Nature
 * Hallucinatory Terrain
 * Ice Storm
@@ -329,6 +334,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * Transport via Plants
 * Wall of Thorns
 * Wind Walk
+* [zone of restoration](/Magic/Spells/zone-of-restoration.md)
 
 ## 7th Level
 * Fire Storm
@@ -352,7 +358,8 @@ The following spells listed are known (but not necessarily accessible, depending
 ## 9th Level
 * Foresight
 * Mass polymorph
-* Powe Word: Heal
+* [omnisight](/Magic/Spells/omnisight.md)
+* Power Word: Heal
 * Shapechange
 * Storm of Vengeance
 * True Resurrection

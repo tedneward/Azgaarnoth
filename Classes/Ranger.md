@@ -102,7 +102,9 @@ In addition, you have access to the following fighting style:
 Whenever you gain a level, you can replace a fighting style you know with another style available to your class. This change represents a shift of focus in your martial training and practice, causing you to lose the benefits of one style and gain the benefits of another style.
 
 ## Spellcasting
-By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does.
+*2nd-level ranger feature*
+
+You have learned to use the magical essence of nature to cast spells, much as a druid does.
 
 ### Spell Slots
 The Ranger table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
@@ -129,7 +131,9 @@ Whenever you finish a long rest, you can replace one spell you learned from this
 You can use a druidic focus as a spellcasting focus for your ranger spells. See chapter 5, “Equipment,” of the *Player’s Handbook* for a list of things that count as druidic focuses.
 
 ## Animal Companion
-At 3rd level, you learn to use your magic to create a powerful bond with a creature of the natural world.
+*3rd-level ranger feature*
+
+You learn to use your magic to create a powerful bond with a creature of the natural world.
 
 With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you call forth an animal from the wilderness to serve as your faithful companion. You normally select you companion from among the following animals: an ape, a black bear, a boar, a giant badger, a giant weasel, a mule, a panther, or a wolf. However, your DM might pick one of these animals for you, based on the surrounding terrain and on what types of creatures would logically be present in the area.
 
@@ -180,14 +184,18 @@ d6|Flaw
 
 
 ## Primeval Awareness
-Beginning at 3rd level, your mastery of ranger lore allows you to establish a powerful link to beasts and to the land around you.
+*3rd-level ranger feature*
+
+Your mastery of ranger lore allows you to establish a powerful link to beasts and to the land around you.
 
 You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast as an action, and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it to not attack. You cannot use this ability against a creature that you have attacked within the past 10 minutes.
 
 Additionally, you can attune your senses to determine if any of your favored enemies lurk nearby. By spending 1 uninterrupted minute in concentration (as if you were concentrating on a spell), you can sense whether any of your favored enemies are present within 5 miles of you. This feature reveals which of your favored enemies are present, their numbers, and the creatures’ general direction and distance (in miles) from you. If there are multiple groups of your favored enemies within range, you learn this information for each group.
 
 ## Ranger Conclave
-At 3rd level, you choose to emulate the ideals and training of a ranger conclave:
+*3rd level ranger feature*
+
+You choose to emulate the ideals and training of a ranger conclave:
 * [Beast Master](Ranger/BeastMaster.md)
 * [Deep Stalker](Ranger/DeepStalker.md)
 * [Dragonstalker](Ranger/Dragonstalker.md)
@@ -200,6 +208,7 @@ At 3rd level, you choose to emulate the ideals and training of a ranger conclave
 * [Monster Slayer](Ranger/MonsterSlayer.md)
 * [Primeval Guardian](Ranger/PrimevalGuardian.md)
 * [Swarmkeeper](Ranger/Swarmkeeper.md)
+* [Wrangler](Ranger/Wrangler.md)
 
 Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
 
@@ -207,23 +216,33 @@ Your choice grants you features at 3rd level and again at 7th, 11th, and 15th le
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ## Greater Favored Enemy
-At 6th level, you are ready to hunt even deadlier game. Choose a type of greater favored enemy: aberrations, celestials, constructs, dragons, elementals, fiends, or giants. You gain all the benefits against this chosen enemy that you normally gain against your favored enemy, including an additional language. Your bonus to damage rolls against all your favored enemies increases to +4.
+*6th-level ranger feature*
+
+You are ready to hunt even deadlier game. Choose a type of greater favored enemy: aberrations, celestials, constructs, dragons, elementals, fiends, or giants. You gain all the benefits against this chosen enemy that you normally gain against your favored enemy, including an additional language. Your bonus to damage rolls against all your favored enemies increases to +4.
 
 Additionally, you have advantage on saving throws against the spells and abilities used by a greater favored enemy.
 
 ## Fleet of Foot
-Beginning at 8th level, you can use the Dash action as a bonus action on your turn.
+*8th-level ranger feature*
+
+You can use the Dash action as a bonus action on your turn.
 
 ## Vanish
-Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
+*14th-level ranger feature*
+
+You can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
 
 ## Feral Senses
-At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.
+*18th-level ranger feature*
+
+You gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.
 
 You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.
 
 ## Foe Slayer
-At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
+*20th-level ranger feature*
+
+You become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
 
 # Ranger Spells
 The following spells listed are known (but not necessarily accessible, depending on the conclave chosen) to all rangers throughout Azgaarnoth; this is not the complete list of all ranger spells, however. Certain conclaves may have additional spells that are only known to them, and thus are not accessible to other conclaves. Rangers can learn new spells by visiting druidic circles, communing with nature for significant periods of time, studying with another ranger of a different conclave, and so on. (In other words, DMs can release new ranger spells, but all rangers do not have access to them by default.)
@@ -234,6 +253,7 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 * [absorb elements](https://www.dndbeyond.com/spells/absorb-elements)
 * [alarm](https://www.dndbeyond.com/spells/alarm)
 * [animal friendship](https://www.dndbeyond.com/spells/animal-friendship)
+* [attract projectiles](/Magic/Spells/attract-projectiles.md)
 * [beast bond](https://www.dndbeyond.com/spells/beast-bond)
 * [cure wounds](https://www.dndbeyond.com/spells/cure-wounds)
 * [detect magic](https://www.dndbeyond.com/spells/detect-magic)
@@ -281,6 +301,7 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 * Conjure Barrage
 * Daylight
 * Flame Arrows
+* [healing wave](/Magic/Spells/healing-wave.md)
 * Lightning Arrow
 * Meld Into Stone
 * Nondetection
@@ -297,8 +318,10 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 * Conjure Woodland Beings
 * Death Ward
 * Dominate Beast
+* [enhance body](/Magic/Spells/enhance-body.md)
 * Freedom of Movement
 * Grasping Vine
+* [greater renewal](/Magic/Spells/greater-renewal.md)
 * Guardian of Nature
 * [locate creature](https://www.dndbeyond.com/spells/locate-creature)
 * Stoneskin
@@ -308,7 +331,6 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 * [commune with nature](https://www.dndbeyond.com/spells/commune-with-nature)
 * Conjure Volley
 * Greater Restoration
+* [reverse projectiles](/Magic/Spells/reverse-projectiles.md)
 * Swift Quiver
 * Tree Stride
-
-*Source: [Unearthed Arcana: Ranger, Revised](https://dnd.wizards.com/articles/features/unearthed-arcana-ranger-revised)*

@@ -450,7 +450,9 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 > Game notes: In other words, DM's choice about adding new warlock spells to the "known" list, and the warlock may need to do some in-game activity or adventure to obtain them.
 
 ## Cantrips
+* [balance](/Magic/Spells/balance.md)
 * [blade ward](https://www.dndbeyond.com/spells/blade-ward)
+* [bolster](/Magic/Spells/bolster.md)
 * [booming blade](https://www.dndbeyond.com/spells/booming-blade)
 * [chill touch](https://www.dndbeyond.com/spells/chill-touch)
 * [create bonfire](https://www.dndbeyond.com/spells/create-bonfire)
@@ -567,6 +569,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * Investiture of Wind
 * magic jar
 * Mass Suggestion
+* [possess object](/Magic/Spells/possess-object.md)
 * Psychic Crush (UA)
 * Summon Fiendish Spirit (UA)
 * True Seeing
@@ -592,6 +595,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * Foresight
 * gate
 * Imprisonment
+* [omnisight](/Magic/Spells/omnisight.md)
 * Power Word: Kill
 * shapechange
 * True Polymorph

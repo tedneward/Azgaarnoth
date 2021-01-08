@@ -192,7 +192,9 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 
 ## Cantrips
 * [acid splash](https://www.dndbeyond.com/spells/acid-splash)
+* [balance](/Magic/Spells/balance.md)
 * [blade ward](https://www.dndbeyond.com/spells/blade-ward)
+* [bolster](/Magic/Spells/bolster.md)
 * [booming blade](https://www.dndbeyond.com/spells/booming-blade)
 * [chill touch](https://www.dndbeyond.com/spells/chill-touch)
 * [control flames](https://www.dndbeyond.com/spells/control-flames)
@@ -334,6 +336,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * Dimension Door
 * Dominate Beast
 * Ego Whip
+* [enhance body](/Magic/Spells/enhance-body.md)
 * fire shield
 * Greater Invisibility
 * Ice Storm
@@ -378,6 +381,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * Mass Suggestion
 * Move Earth
 * Otherworldly Form (UA)
+* [possess object](/Magic/Spells/possess-object.md)
 * Psychic Crush (UA)
 * Sunbeam
 * True Seeing

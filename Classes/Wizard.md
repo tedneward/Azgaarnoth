@@ -171,7 +171,9 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 
 ## Cantrips
 * [acid splash](https://www.dndbeyond.com/spells/acid-splash)
+* [balance](/Magic/Spells/balance.md)
 * [blade ward](https://www.dndbeyond.com/spells/blade-ward)
+* [bolster](/Magic/Spells/bolster.md)
 * [booming blade](https://www.dndbeyond.com/spells/booming-blade)
 * [chill touch](https://www.dndbeyond.com/spells/chill-touch)
 * [control flames](https://www.dndbeyond.com/spells/control-flames)
@@ -325,6 +327,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * lightning bolt
 * magic circle
 * major image
+* [mass shield](/Magic/Spells/mass-shield.md)
 * melf's minute meteors
 * nondetection
 * phantom steed
@@ -361,6 +364,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * divination (ritual)
 * Ego Whip (UA)
 * Elemental Bane
+* [enhance body](/Magic/Spells/enhance-body.md)
 * Evard's Black Tentacles
 * Fabricate
 * Fire Shield
@@ -407,6 +411,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Passwall
 * Planar Binding
 * Rary's Telepathic Bond
+* [reverse projectiles](/Magic/Spells/reverse-projectiles.md)
 * Scrying
 * Seeming
 * Telekinesis
@@ -437,6 +442,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Otherworldly Form (UA)
 * Otiluke's Freezing Sphere
 * Otto's Irresistible Dance
+* [possess object](/Magic/Spells/possess-object.md)
 * Programmed Illusion
 * Psychic Crush (UA)
 * Sunbeam
@@ -487,6 +493,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Gate
 * Imprisonment
 * Meteor Swarm
+* [omnisight](/Magic/Spells/omnisight.md)
 * Power Word: Kill
 * Prismatic Wall
 * Shapechange

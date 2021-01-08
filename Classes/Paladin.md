@@ -196,6 +196,7 @@ You can use this feature a number of times equal to your Charisma modifier (a mi
 The following spells listed are known (but not necessarily accessible, depending on the domain chosen) to all paladins throughout Azgaarnoth; this is not the complete list of all paladin spells, however. Certain oaths may have additional spells that are only known to their members. Paladins can learn new spells by visiting foreign orders, uncovering new oath books in ancient ruins, and so on. (In other words, DM's choice about adding new paladin spells to the "known" list for a paladin, and the paladin may need to do some in-game activity or adventure to obtain them.)
 
 ## 1st Level
+* [attract projectiles](/Magic/Spells/attract-projectiles.md)
 * [bless](https://www.dndbeyond.com/spells/bless)
 * [command](https://www.dndbeyond.com/spells/command)
 * [compelled duel](https://www.dndbeyond.com/spells/compelled-duel)
@@ -234,8 +235,10 @@ The following spells listed are known (but not necessarily accessible, depending
 * [daylight](https://www.dndbeyond.com/spells/daylight)
 * [dispel magic](https://www.dndbeyond.com/spells/dispel-magic)
 * [elemental weapon](https://www.dndbeyond.com/spells/elemental-weapon)
+* [healing wave](/Magic/Spells/healing-wave.md)
 * [life transference](https://www.dndbeyond.com/spells/life-transference)
 * [magic circle](https://www.dndbeyond.com/spells/magic-circle)
+* [mass shield](/Magic/Spells/mass-shield.md)
 * [remove curse](https://www.dndbeyond.com/spells/remove-curse)
 * [revivify](https://www.dndbeyond.com/spells/revivify)
 * [spirit guardians](https://www.dndbeyond.com/spells/spirit-guardians)
@@ -247,6 +250,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * Banishment
 * Death Ward
 * [detect curses](/Magic/Spells/detect-curses.md)
+* [enhance body](/Magic/Spells/enhance-body.md)
 * Locate Creature
 * Staggering Smite
 
