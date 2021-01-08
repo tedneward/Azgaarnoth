@@ -88,6 +88,14 @@ If a creature fails its saving throw against the dragon's Lightning Breath, the 
 ### Sneak Attack
 The dragon automatically scores a critical hit if the attack roll would hit and it has advantage on the attack.
 
+
+### Superior Charming
+The duration of the dragon's charm effect from its Charming Breath increases to 24 hours for a number of creatures equal to its Charisma modifier.
+
+
+### Sure-Footed
+The dragon has advantage on Strength and Dexterity saving throws made against effects that would knock it prone or move the dragon against its will.
+
 ---
 
 ## Wyrmling Iron Dragon

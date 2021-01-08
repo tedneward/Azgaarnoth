@@ -15,6 +15,9 @@ To gain levels as a glyph caster, you must meet the following requirements (in a
 
 In order to gain levels as a glyph caster, you must find a mentor willing to teach you this art. Many glyph casters are members of the [School of the Eldar](/Organizations/MageSchools/SchoolOfTheEldar.md), but often are jealous, secretive, and difficult to engage with. To have any chance of learning their skills, prospective students often must perform acts of service before gaining entrance to the school. Independent glyph masters may also roam the lands, willing to teach, but many guard their secrets just as jealously.
 
+## Class Features
+As a glyph caster, you gain the following class features.
+
 **Glyph Caster**
 Level|Cantrips Known|Spells Known|Spell Slots Per Spell Level|Inscribed Runes|Max Rune Level|1st|2nd|3rd|Features
 -----|--------------|------------|---------------------------|---------------|--------------|---|---|---|--------
@@ -25,9 +28,6 @@ Level|Cantrips Known|Spells Known|Spell Slots Per Spell Level|Inscribed Runes|Ma
 5th  |3|6|4|3|2|4|5th|Rune Master
 
 There is no level progression beyond the 5th level in glyph casting, though certainly the character can continue to gain experience and apply it to other classes.
-
-## Class Features
-As a glyph caster, you gain the following class features.
 
 ### Hit Points
 **Hit Dice:** 1d8 per glyph caster level

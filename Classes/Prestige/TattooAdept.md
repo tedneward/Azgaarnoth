@@ -13,6 +13,9 @@ To gain levels as a tattoo adept, you must meet the following requirements (in a
 
 In order to be accepted as a pupil by an established tattoo adept, you must have demonstrated that you are a skilled magician and tattoo artist in your own right. You must maintain a tattoo parlor for a period of at least one year, and you must have produced exceptional tattoos for a handful of noteworthy individuals who can spread the word of your talent.
 
+## Class Features
+As a tattoo adept, you gain the following class features.
+
 **Tattoo Adept**
 Level|Cantrips Known|Spells Known|Spell Slots|Slot Level|Features
 -----|--------------|------------|-----------|----------|--------
@@ -23,9 +26,6 @@ Level|Cantrips Known|Spells Known|Spell Slots|Slot Level|Features
 5th  | 3 | 5 | 5 | 3rd | [Craft Tattoo](#craft-tattoo)
 
 There is no level progression beyond the 5th level in tattoo adept, though certainly the character can continue to gain experience and apply it to other classes.
-
-## Class Features
-As a tattoo adept, you gain the following class features.
 
 ### Hit Points
 **Hit Dice:** 1d6 per tattoo adept level
