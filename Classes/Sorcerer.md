@@ -268,7 +268,9 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * [darkness](https://www.dndbeyond.com/spells/darkness)
 * [darkvision](https://www.dndbeyond.com/spells/darkvision)
 * [detect thoughts](https://www.dndbeyond.com/spells/detect-thoughts)
+* [dive](/Magic/Spells/dive.md)
 * [dragon's breath](https://www.dndbeyond.com/spells/dragons-breath)
+* [drown](/Magic/Spells/drown.md)
 * [dust devil](https://www.dndbeyond.com/spells/dust-devil)
 * [earthbind](https://www.dndbeyond.com/spells/earthbind)
 * [enhance ability](https://www.dndbeyond.com/spells/enhance-ability)
@@ -342,6 +344,8 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * Ego Whip
 * [enhance body](/Magic/Spells/enhance-body.md)
 * fire shield
+* [glistening acid slick](/Magic/Spells/glistening-acid-slick.md)
+* [gravelslide](/Magic/Spells/gravelslide.md)
 * Greater Invisibility
 * Ice Storm
 * Polymorph
@@ -356,6 +360,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 
 ## 5th Level
 * Animate Objects
+* [burrow](/Magic/Spells/burrow.md)
 * Cloudkill
 * Cone of Cold
 * Conjure Vrock
@@ -387,25 +392,30 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * Investiture of Ice
 * Investiture of Stone
 * Investiture of Wind
+* [liquefy](/Magic/Spells/liquefy.md)
 * Mass Suggestion
 * Move Earth
 * Otherworldly Form (UA)
 * [possess object](/Magic/Spells/possess-object.md)
 * Psychic Crush (UA)
+* [seismic jaws](/Magic/Spells/seismic-jaws.md)
 * Sunbeam
 * True Seeing
 
 ## 7th Level
+* [Beluud's bile blossom](/Magic/Spells/beluuds-bile-blossom.md)
 * Conjure Hezrou
 * Delayed Blast Fireball
 * Etherealness
 * Finger of Death
 * Fire Storm
+* [light to shadow](/Magic/Spells/light-to-shadow.md)
 * [living burial](/Magic/Spells/living-burial.md)
 * Plane Shift
 * Prismatic Spray
 * Reverse Gravity
 * Teleport
+* [thundercrash cannon](/Magic/Spells/thundercrash-cannon.md)
 
 ## 8th Level
 * Abi-Dalzim's Horrid Wilting

@@ -443,6 +443,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [blur](https://www.dndbeyond.com/spells/blur)
 * [continual flame](https://www.dndbeyond.com/spells/continual-flame)
 * [darkvision](https://www.dndbeyond.com/spells/darkvision)
+* [dive](/Magic/Spells/dive.md)
 * [dragon's breath](https://www.dndbeyond.com/spells/dragons-breath)
 * [enhance ability](https://www.dndbeyond.com/spells/enhance-ability)
 * [enlarge/reduce](https://www.dndbeyond.com/spells/enlarge-reduce)
@@ -495,6 +496,7 @@ The following spells listed are available (but not necessarily accessible) to al
 ## 5th Level
 * Animate Objects
 * Bigby's Hand
+* [burrow](/Magic/Spells/burrow.md)
 * Creation
 * Greater Restoration
 * [reverse projectiles](/Magic/Spells/reverse-projectiles.md)

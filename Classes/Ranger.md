@@ -284,6 +284,8 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 * [blades of grass](/Magic/Spells/blades-of-grass.md)
 * [cordon of arrows](https://www.dndbeyond.com/spells/cordon-of-arrows)
 * [darkvision](https://www.dndbeyond.com/spells/darkvision)
+* [dive](/Magic/Spells/dive.md)
+* [drown](/Magic/Spells/drown.md)
 * [enhance ability](https://www.dndbeyond.com/spells/enhance-ability)
 * [find traps](https://www.dndbeyond.com/spells/find-traps)
 * [gust of wind](https://www.dndbeyond.com/spells/gust-of-wind)
@@ -333,6 +335,7 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 
 ## 5th Level
 * Awaken
+* [burrow](/Magic/Spells/burrow.md)
 * [commune with nature](https://www.dndbeyond.com/spells/commune-with-nature)
 * Conjure Volley
 * Greater Restoration

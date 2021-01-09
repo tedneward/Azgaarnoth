@@ -269,7 +269,9 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [darkness](https://www.dndbeyond.com/spells/darkness)
 * [darkvision](https://www.dndbeyond.com/spells/darkvision)
 * [detect thoughts](https://www.dndbeyond.com/spells/detect-thoughts)
+* [dive](/Magic/Spells/dive.md)
 * [dragon's breath](https://www.dndbeyond.com/spells/dragons-breath)
+* [drown](/Magic/Spells/drown.md)
 * [dust devil](https://www.dndbeyond.com/spells/dust-devil)
 * [earthbind](https://www.dndbeyond.com/spells/earthbind)
 * [enhance ability](https://www.dndbeyond.com/spells/enhance-ability)
@@ -373,6 +375,8 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Fabricate
 * Fire Shield
 * Galder's Speedy Courier
+* [glistening acid slick](/Magic/Spells/glistening-acid-slick.md)
+* [gravelslide](/Magic/Spells/gravelslide.md)
 * Greater Invisibility
 * Hallucinatory Terrain
 * Ice Storm
@@ -397,6 +401,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 ## 5th Level
 * Animate Objects
 * Bigby's Hand
+* [burrow](/Magic/Spells/burrow.md)
 * Cloudkill
 * Cone of Cold
 * Conjure Elemental
@@ -445,6 +450,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Investiture of Ice
 * Investiture of Stone
 * Investiture of Wind
+* [liquefy](/Magic/Spells/liquefy.md)
 * Magic Jar
 * Mass Suggestion
 * Move Earth
@@ -454,17 +460,20 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [possess object](/Magic/Spells/possess-object.md)
 * Programmed Illusion
 * Psychic Crush (UA)
+* [seismic jaws](/Magic/Spells/seismic-jaws.md)
 * Sunbeam
 * Summon Fiendish Spirit (UA)
 * True Seeing
 * Wall of Ice
 
 ## 7th Level
+* [Beluud's bile blossom](/Magic/Spells/beluuds-bile-blossom.md)
 * Conjure Hezrou
 * Delayed Blast Fireball
 * Etherealness
 * Finger of Death
 * Forcecage
+* [light to shadow](/Magic/Spells/light-to-shadow.md)
 * [living burial](/Magic/Spells/living-burial.md)
 * Mirage Arcane
 * Mordenkainen's Magnificent Mansion
@@ -477,6 +486,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Simulacrum
 * Symbol
 * Teleport
+* [thundercrash cannon](/Magic/Spells/thundercrash-cannon.md)
 * Whirlwind
 
 ## 8th Level

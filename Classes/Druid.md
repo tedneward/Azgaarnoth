@@ -221,6 +221,8 @@ The following spells listed are known (but not necessarily accessible, depending
 * [beast sense](https://www.dndbeyond.com/spells/beast-sense)
 * [continual flame](https://www.dndbeyond.com/spells/continual-flame)
 * [darkness](https://www.dndbeyond.com/spells/darkness)
+* [dive](/Magic/Spells/dive.md)
+* [drown](/Magic/Spells/drown.md)
 * [dust devil](https://www.dndbeyond.com/spells/dust-devil)
 * [earthbind](https://www.dndbeyond.com/spells/earthbind)
 * [enhance ability](https://www.dndbeyond.com/spells/enhance-ability)
@@ -284,6 +286,8 @@ The following spells listed are known (but not necessarily accessible, depending
 * Fire shield
 * Freedom of Movement
 * Giant Insect
+* [glistening acid slick](/Magic/Spells/glistening-acid-slick.md)
+* [gravelslide](/Magic/Spells/gravelslide.md)
 * Grasping Vine
 * [greater renewal](/Magic/Spells/greater-renewal.md)
 * Guardian of Nature
@@ -302,6 +306,7 @@ The following spells listed are known (but not necessarily accessible, depending
 ## 5th Level
 * Antilife Shell
 * Awaken
+* [burrow](/Magic/Spells/burrow.md)
 * Commune with Nature
 * Cone of Cold
 * Conjure Elemental
@@ -337,6 +342,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * Investiture of Wind
 * Move Earth
 * Primordial Ward
+* [seismic jaws](/Magic/Spells/seismic-jaws.md)
 * Sunbeam
 * Transport via Plants
 * Wall of Thorns
