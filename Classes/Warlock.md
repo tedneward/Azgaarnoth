@@ -543,6 +543,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * Galder's Speedy Courier
 * Summon Abberant Spirit (UA)
 * Hallucinatory Terrain
+* [wind funnel](/Magic/Spells/wind-funnel.md)
 
 ## 5th Level
 * Contact Other Plane
@@ -553,6 +554,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * modify memory
 * planar binding
 * Scrying
+* [soar](/Magic/Spells/soar.md)
 * teleportation circle
 
 ## 6th Level
@@ -563,6 +565,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * Create Undead
 * Eyebite
 * Flesh to Stone
+* [globe of winter](/Magic/Spells/globe-of-winter.md)
 * Investiture of Flame
 * Investiture of Ice
 * Investiture of Stone
@@ -578,6 +581,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * Etherealness
 * Finger of Death
 * Forcecage
+* [living burial](/Magic/Spells/living-burial.md)
 * Plane Shift
 * project image
 
@@ -585,6 +589,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * Abi-Dalzim's horrid wilting
 * Demiplane
 * Dominate Monster
+* [encasing ice](/Magic/Spells/encasing-ice.md)
 * Feeblemind
 * Glibness
 * Power Word: Stun

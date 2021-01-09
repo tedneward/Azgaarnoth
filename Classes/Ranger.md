@@ -261,15 +261,18 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 * [ensnaring strike](https://www.dndbeyond.com/spells/ensnaring-strike)
 * [entangle](https://www.dndbeyond.com/spells/entangle)
 * [fog cloud](https://www.dndbeyond.com/spells/fog-cloud)
+* [glide](/Magic/Spells/glide.md)
 * [goodberry](https://www.dndbeyond.com/spells/goodberry)
 * [hail of thorns](https://www.dndbeyond.com/spells/hail-of-thorns)
 * [hunter's mark](https://www.dndbeyond.com/spells/hunters-mark)
 * [jump](https://www.dndbeyond.com/spells/jump)
+* [leaf shield](/Magic/Spells/leaf-shield.md)
 * [longstrider](https://www.dndbeyond.com/spells/longstrider)
 * [searing smite](https://www.dndbeyond.com/spells/searing-smite)
 * [snare](https://www.dndbeyond.com/spells/snare)
 * [speak with animals](https://www.dndbeyond.com/spells/speak-with-animals)
 * [sudden awakening](https://www.dndbeyond.com/spells/sudden-awakening)
+* [swoop](/Magic/Spells/swoop.md)
 * [wild cunning](https://www.dndbeyond.com/spells/wild-cunning)
 * [zephyr strike](https://www.dndbeyond.com/spells/zephyr-strike)
 
@@ -278,6 +281,7 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 * [animal messenger](https://www.dndbeyond.com/spells/animal-messenger)
 * [barkskin](https://www.dndbeyond.com/spells/barkskin)
 * [beast sense](https://www.dndbeyond.com/spells/beast-sense)
+* [blades of grass](/Magic/Spells/blades-of-grass.md)
 * [cordon of arrows](https://www.dndbeyond.com/spells/cordon-of-arrows)
 * [darkvision](https://www.dndbeyond.com/spells/darkvision)
 * [enhance ability](https://www.dndbeyond.com/spells/enhance-ability)
@@ -325,6 +329,7 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 * Guardian of Nature
 * [locate creature](https://www.dndbeyond.com/spells/locate-creature)
 * Stoneskin
+* [wind funnel](/Magic/Spells/wind-funnel.md)
 
 ## 5th Level
 * Awaken
@@ -332,5 +337,6 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 * Conjure Volley
 * Greater Restoration
 * [reverse projectiles](/Magic/Spells/reverse-projectiles.md)
+* [soar](/Magic/Spells/soar.md)
 * Swift Quiver
 * Tree Stride

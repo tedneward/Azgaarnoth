@@ -310,6 +310,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [reverse projectiles](/Magic/Spells/reverse-projectiles.md)
 * Scrying
 * Seeming
+* [sonic boom](/Magic/Spells/sonic-boom.md)
 * Teleportation Circle
 
 ## 6th Level

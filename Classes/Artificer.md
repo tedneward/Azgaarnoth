@@ -425,6 +425,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [faerie fire](https://www.dndbeyond.com/spells/faerie-fire)
 * [false life](https://www.dndbeyond.com/spells/false-life)
 * [feather fall](https://www.dndbeyond.com/spells/feather-fall)
+* [glide](/Magic/Spells/glide.md)
 * [grease](https://www.dndbeyond.com/spells/grease)
 * [identify](https://www.dndbeyond.com/spells/identify) (ritual)
 * [jump](https://www.dndbeyond.com/spells/jump)
@@ -433,6 +434,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [sanctuary](https://www.dndbeyond.com/spells/sanctuary)
 * [shield of vanity](/Magic/Spells/shield-of-vanity.md)
 * [snare](https://www.dndbeyond.com/spells/snare)
+* [swoop](/Magic/Spells/swoop.md)
 
 ## 2nd Level
 * [aid](https://www.dndbeyond.com/spells/aid)
@@ -445,6 +447,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [enhance ability](https://www.dndbeyond.com/spells/enhance-ability)
 * [enlarge/reduce](https://www.dndbeyond.com/spells/enlarge-reduce)
 * [heat metal](https://www.dndbeyond.com/spells/heat-metal)
+* [ice sculpture](/Magic/Spells/ice-sculpture.md)
 * [invisibility](https://www.dndbeyond.com/spells/invisibility)
 * [lesser restoration](https://www.dndbeyond.com/spells/lesser-restoration)
 * [levitate](https://www.dndbeyond.com/spells/levitate)
@@ -487,6 +490,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * Otiluke's Resilient Sphere
 * Stone Shape
 * Stoneskin
+* [wind funnel](/Magic/Spells/wind-funnel.md)
 
 ## 5th Level
 * Animate Objects
@@ -495,6 +499,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * Greater Restoration
 * [reverse projectiles](/Magic/Spells/reverse-projectiles.md)
 * Skill Empowerment
+* [soar](/Magic/Spells/soar.md)
 * Transmute Rock
 * Wall of Stone
 

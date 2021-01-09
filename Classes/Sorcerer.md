@@ -239,7 +239,9 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * [expeditious retreat](https://www.dndbeyond.com/spells/expeditious-retreat)
 * [false life](https://www.dndbeyond.com/spells/false-life)
 * [feather fall](https://www.dndbeyond.com/spells/feather-fall)
+* [flash](/Magic/Spells/flash.md)
 * [fog cloud](https://www.dndbeyond.com/spells/fog-cloud)
+* [glide](/Magic/Spells/glide.md)
 * [grease](https://www.dndbeyond.com/spells/grease)
 * [ice knife](https://www.dndbeyond.com/spells/ice-knife)
 * [id insinuation](https://www.dndbeyond.com/spells/id-insinuation)
@@ -252,6 +254,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * [silent image](https://www.dndbeyond.com/spells/silent-image)
 * [sleep](https://www.dndbeyond.com/spells/sleep)
 * [sudden awakening](https://www.dndbeyond.com/spells/sudden-awakening)
+* [swoop](/Magic/Spells/swoop.md)
 * [thunderwave](https://www.dndbeyond.com/spells/thunderwave)
 * [witch bolt](https://www.dndbeyond.com/spells/witch-bolt)
 
@@ -274,6 +277,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * [flaming sphere](https://www.dndbeyond.com/spells/flaming-sphere)
 * [gust of wind](https://www.dndbeyond.com/spells/gust-of-wind)
 * [hold person](https://www.dndbeyond.com/spells/hold-person)
+* [ice sculpture](/Magic/Spells/ice-sculpture.md)
 * [invisibility](https://www.dndbeyond.com/spells/invisibility)
 * [knock](https://www.dndbeyond.com/spells/knock)
 * [levitate](https://www.dndbeyond.com/spells/levitate)
@@ -348,6 +352,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * Vitriolic Sphere
 * Wall of Fire
 * Watery Sphere
+* [wind funnel](/Magic/Spells/wind-funnel.md)
 
 ## 5th Level
 * Animate Objects
@@ -362,6 +367,9 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * Insect Plague
 * Intellect Fortress (UA)
 * Seeming
+* [sinking maw](/Magic/Spells/sinking-maw.md)
+* [soar](/Magic/Spells/soar.md)
+* [sonic boom](/Magic/Spells/sonic-boom.md)
 * Telekinesis
 * Teleportation Circle
 * Wall of Stone
@@ -374,6 +382,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * Eyebite
 * flesh to stone
 * Globe of Invulnerability
+* [globe of winter](/Magic/Spells/globe-of-winter.md)
 * Investiture of Flame
 * Investiture of Ice
 * Investiture of Stone
@@ -392,6 +401,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * Etherealness
 * Finger of Death
 * Fire Storm
+* [living burial](/Magic/Spells/living-burial.md)
 * Plane Shift
 * Prismatic Spray
 * Reverse Gravity
@@ -402,6 +412,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * demiplane
 * Dominate Monster
 * Earthquake
+* [encasing ice](/Magic/Spells/encasing-ice.md)
 * [fist of flame](/Magic/Spells/fist-of-flame.md)
 * Incendiary Cloud
 * Power Word: Stun

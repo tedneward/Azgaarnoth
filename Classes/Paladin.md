@@ -205,6 +205,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * [detect magic](https://www.dndbeyond.com/spells/detect-magic)
 * [detect poison and disease](https://www.dndbeyond.com/spells/detect-poison-and-disease)
 * [divine favor](https://www.dndbeyond.com/spells/divine-favor)
+* [flash](/Magic/Spells/flash.md)
 * [heroism](https://www.dndbeyond.com/spells/heroism)
 * [protection from evil and good](https://www.dndbeyond.com/spells/protection-from-evil-and-good)
 * [purify food and drink](https://www.dndbeyond.com/spells/purify-food-and-drink)
@@ -248,6 +249,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * Aura of Life
 * Aura of Purity
 * Banishment
+* [corona](/Magic/Spells/corona.md)
 * Death Ward
 * [detect curses](/Magic/Spells/detect-curses.md)
 * [enhance body](/Magic/Spells/enhance-body.md)

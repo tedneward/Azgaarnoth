@@ -200,6 +200,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * [entangle](https://www.dndbeyond.com/spells/entangle)
 * [faerie fire](https://www.dndbeyond.com/spells/faerie-fire)
 * [fog cloud](https://www.dndbeyond.com/spells/fog-cloud)
+* [glide](/Magic/Spells/glide.md)
 * [goodberry](https://www.dndbeyond.com/spells/goodberry)
 * [guiding hand](https://www.dndbeyond.com/spells/guiding-hand)
 * [healing word](https://www.dndbeyond.com/spells/healing-word)
@@ -209,6 +210,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * [protection from evil and good](https://www.dndbeyond.com/spells/protection-from-evil-and-good)
 * [purify food and drink](https://www.dndbeyond.com/spells/purify-food-and-drink)
 * [speak with animals](https://www.dndbeyond.com/spells/speak-with-animals)
+* [swoop](/Magic/Spells/swoop.md)
 * [thunderwave](https://www.dndbeyond.com/spells/thunderwave)
 * [wild cunning](https://www.dndbeyond.com/spells/wild-cunning)
 
@@ -229,6 +231,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * [gust of wind](https://www.dndbeyond.com/spells/gust-of-wind)
 * [heat metal](https://www.dndbeyond.com/spells/heat-metal)
 * [hold person](https://www.dndbeyond.com/spells/hold-person)
+* [ice sculpture](/Magic/Spells/ice-sculpture.md)
 * [lesser restoration](https://www.dndbeyond.com/spells/lesser-restoration)
 * [locate animals or plants](https://www.dndbeyond.com/spells/locate-animals-or-plants)
 * [locate object](https://www.dndbeyond.com/spells/locate-object)
@@ -294,6 +297,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * Summon Elemental Spirit (UA)
 * Wall of Fire
 * Watery Sphere
+* [wind funnel](/Magic/Spells/wind-funnel.md)
 
 ## 5th Level
 * Antilife Shell
@@ -313,6 +317,8 @@ The following spells listed are known (but not necessarily accessible, depending
 * Planar Binding
 * Reincarnate
 * Scrying
+* [sinking maw](/Magic/Spells/sinking-maw.md)
+* [sonic boom](/Magic/Spells/sonic-boom.md)
 * Transmute Rock
 * Tree Stride
 * Wall of Stone
@@ -322,6 +328,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * Conjure Fey
 * Find the Path
 * Flesh to Stone
+* [globe of winter](/Magic/Spells/globe-of-winter.md)
 * Heal
 * Heroes' Feast
 * Investiture of Flame
@@ -338,6 +345,7 @@ The following spells listed are known (but not necessarily accessible, depending
 
 ## 7th Level
 * Fire Storm
+* [living burial](/Magic/Spells/living-burial.md)
 * Mirage Arcane
 * Plane Shift
 * Regenerate
@@ -350,12 +358,14 @@ The following spells listed are known (but not necessarily accessible, depending
 * Antipathy/Sympathy
 * Control Weather
 * Earthquake
+* [encasing ice](/Magic/Spells/encasing-ice.md)
 * Feeblemind
 * Incendiary Cloud
 * Sunburst
 * Tsunami
 
 ## 9th Level
+* [caldera](/Magic/Spells/caldera.md)
 * Foresight
 * Mass polymorph
 * [omnisight](/Magic/Spells/omnisight.md)

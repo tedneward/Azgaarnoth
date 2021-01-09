@@ -223,9 +223,11 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [false life](https://www.dndbeyond.com/spells/false-life)
 * [feather fall](https://www.dndbeyond.com/spells/feather-fall)
 * [find familiar](https://www.dndbeyond.com/spells/find-familiar)
+* [flash](/Magic/Spells/flash.md)
 * [fog cloud](https://www.dndbeyond.com/spells/fog-cloud)
 * [fortune's favor](https://www.dndbeyond.com/spells/fortunes-favor)
 * [gift of alacrity](https://www.dndbeyond.com/spells/gift-of-alacrity)
+* [glide](/Magic/Spells/glide.md)
 * [grease](https://www.dndbeyond.com/spells/grease)
 * [ice knife](https://www.dndbeyond.com/spells/ice-knife)
 * [id insinuation](https://www.dndbeyond.com/spells/id-insinuation)
@@ -246,6 +248,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [snare](https://www.dndbeyond.com/spells/snare)
 * [sleep](https://www.dndbeyond.com/spells/sleep)
 * [sudden awakening](https://www.dndbeyond.com/spells/sudden-awakening)
+* [swoop](/Magic/Spells/swoop.md)
 * [tasha's hideous laughter](https://www.dndbeyond.com/spells/tashas-hideous-laughter)
 * [tenser's floating disk](https://www.dndbeyond.com/spells/tensers-floating-disk)
 * [thunderwave](https://www.dndbeyond.com/spells/thunderwave)
@@ -276,6 +279,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [gentle repose](https://www.dndbeyond.com/spells/gentle-repose)
 * [gust of wind](https://www.dndbeyond.com/spells/gust-of-wind)
 * [hold person](https://www.dndbeyond.com/spells/hold-person)
+* [ice sculpture](/Magic/Spells/ice-sculpture.md)
 * [invisibility](https://www.dndbeyond.com/spells/invisibility)
 * [knock](https://www.dndbeyond.com/spells/knock)
 * [levitate](https://www.dndbeyond.com/spells/levitate)
@@ -388,6 +392,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Vitriolic Sphere
 * Wall of Fire
 * Watery Sphere
+* [wind funnel](/Magic/Spells/wind-funnel.md)
 
 ## 5th Level
 * Animate Objects
@@ -414,6 +419,9 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [reverse projectiles](/Magic/Spells/reverse-projectiles.md)
 * Scrying
 * Seeming
+* [sinking maw](/Magic/Spells/sinking-maw.md)
+* [soar](/Magic/Spells/soar.md)
+* [sonic boom](/Magic/Spells/sonic-boom.md)
 * Telekinesis
 * Teleportation Circle
 * Transmute Rock
@@ -431,6 +439,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Eyebite
 * Flesh to Stone
 * Globe of Invulnerability
+* [globe of winter](/Magic/Spells/globe-of-winter.md)
 * Guards and Wards
 * Investiture of Flame
 * Investiture of Ice
@@ -456,6 +465,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Etherealness
 * Finger of Death
 * Forcecage
+* [living burial](/Magic/Spells/living-burial.md)
 * Mirage Arcane
 * Mordenkainen's Magnificent Mansion
 * Mordenkainen's Sword
@@ -477,6 +487,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Control Weather
 * Demiplane
 * Dominate Monster
+* [encasing ice](/Magic/Spells/encasing-ice.md)
 * Feeblemind
 * [fist of flame](/Magic/Spells/fist-of-flame.md)
 * Incendiary Cloud
@@ -489,6 +500,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 ## 9th Level
 * Astral Projection
 * [blood to flame](/Magic/Spells/blood-to-flame.md)
+* [caldera](/Magic/Spells/caldera.md)
 * Foresight
 * Gate
 * Imprisonment

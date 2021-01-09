@@ -239,6 +239,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [detect magic](https://www.dndbeyond.com/spells/detect-magic)
 * [detect poison and disease](https://www.dndbeyond.com/spells/detect-poison-and-disease)
 * [divine favor](https://www.dndbeyond.com/spells/divine-favor)
+* [flash](/Magic/Spells/flash.md)
 * [guiding bolt](https://www.dndbeyond.com/spells/guiding-bolt)
 * [guiding hand](https://www.dndbeyond.com/spells/guiding-hand)
 * [healing word](https://www.dndbeyond.com/spells/healing-word)
@@ -302,6 +303,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * Aura of Purity
 * Banishment
 * Control Water
+* [corona](/Magic/Spells/corona.md)
 * Death Ward
 * [detect curses](/Magic/Spells/detect-curses.md)
 * Divination
