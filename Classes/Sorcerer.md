@@ -3,39 +3,40 @@ Sorcerers carry a magical birthright conferred upon them by an exotic bloodline,
 
 *You must have a Charisma score of 13 or higher in order to multiclass in or out of this class.*
 
-Level|Proficiency Bonus|Sorcery Points|Features|Cantrips Known|Spells Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th
------|-----------------|--------------|--------|--------------|------------|---|---|---|---|---|---|---|---|---
-1st|+2|-|Spellcasting, Sorcerous Origin|4|2|2|-|-|-|-|-|-|-|-
-2nd|+2|2|Font of Magic|4|3|3|-|-|-|-|-|-|-|-
-3rd|+2|3|Metamagic|4|4|4|2|-|-|-|-|-|-|-
-4th|+2|4|Ability Score Improvement|5|5|4|3|-|-|-|-|-|-|-
-5th|+3|5||5|6|4|3|2|-|-|-|-|-|-
-6th|+3|6|Sorcerous Origin feature|5|7|4|3|3|-|-|-|-|-|-
-7th|+3|7||5|8|4|3|3|1|-|-|-|-|-
-8th|+3|8|Ability Score Improvement|5|9|4|3|3|2|-|-|-|-|-
-9th|+4|9||5|10|4|3|3|3|1|-|-|-|-
-10th|+4|10|Metamagic|6|11|4|3|3|3|2|-|-|-|-
-11th|+4|11||6|12|4|3|3|3|2|1|-|-|-
-12th|+4|12|Ability Score Improvement|6|12|4|3|3|3|2|1|-|-|-
-13th|+5|13||6|13|4|3|3|3|2|1|1|-|-
-14th|+5|14|Sorcerous Origin feature|6|13|4|3|3|3|2|1|1|-|-
-15th|+5|15||6|14|4|3|3|3|2|1|1|1|-
-16th|+5|16|Ability Score Improvement|6|14|4|3|3|3|2|1|1|1|-
-17th|+6|17|Metamagic|6|15|4|3|3|3|2|1|1|1|1
-18th|+6|18|Sorcerous Origin feature|6|15|4|3|3|3|3|1|1|1|1
-19th|+6|19|Ability Score Improvement|6|15|4|3|3|3|3|2|1|1|1
-20th|+6|20|Sorcerous Restoration|6|15|4|3|3|3|3|2|2|1|1
-
+## Class Features
 As a sorcerer, you gain the following class features.
 
-## Hit Points
+Level|Proficiency Bonus|Sorcery Points|Cantrips Known|Spells Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|Features
+-----|-----------------|--------------|--------------|------------|---|---|---|---|---|---|---|---|---|--------
+1st  |+2| -|4| 2|2|-|-|-|-|-|-|-|-|[Spellcasting](#spellcasting), [Sorcerous Origin](#sorcerous-origin)
+2nd  |+2| 2|4| 3|3|-|-|-|-|-|-|-|-|[Font of Magic](#font-of-magic)
+3rd  |+2| 3|4| 4|4|2|-|-|-|-|-|-|-|[Metamagic](#metamagic)
+4th  |+2| 4|5| 5|4|3|-|-|-|-|-|-|-|Ability Score Improvement
+5th  |+3| 5|5| 6|4|3|2|-|-|-|-|-|-|
+6th  |+3| 6|5| 7|4|3|3|-|-|-|-|-|-|[Sorcerous Origin](#sorcerous-origin) feature
+7th  |+3| 7|5| 8|4|3|3|1|-|-|-|-|-|
+8th  |+3| 8|5| 9|4|3|3|2|-|-|-|-|-|Ability Score Improvement
+9th  |+4| 9|5|10|4|3|3|3|1|-|-|-|-|
+10th |+4|10|6|11|4|3|3|3|2|-|-|-|-|[Metamagic](#metamagic)
+11th |+4|11|6|12|4|3|3|3|2|1|-|-|-|
+12th |+4|12|6|12|4|3|3|3|2|1|-|-|-|Ability Score Improvement
+13th |+5|13|6|13|4|3|3|3|2|1|1|-|-|
+14th |+5|14|6|13|4|3|3|3|2|1|1|-|-|[Sorcerous Origin](#sorcerous-origin) feature
+15th |+5|15|6|14|4|3|3|3|2|1|1|1|-|
+16th |+5|16|6|14|4|3|3|3|2|1|1|1|-|Ability Score Improvement
+17th |+6|17|6|15|4|3|3|3|2|1|1|1|1|[Metamagic](#metamagic)
+18th |+6|18|6|15|4|3|3|3|3|1|1|1|1|[Sorcerous Origin](#sorcerous-origin) feature
+19th |+6|19|6|15|4|3|3|3|3|2|1|1|1|Ability Score Improvement
+20th |+6|20|6|15|4|3|3|3|3|2|2|1|1|Sorcerous Restoration
+
+### Hit Points
 **Hit Dice**: 1d6 per sorcerer level
 
 **Hit Points at 1st Level**: 6 + your Constitution modifier
 
 **Hit Points at Higher Levels**: 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st
 
-## Proficiencies
+### Proficiencies
 **Armor**: None
 
 **Weapons**: Daggers, darts, slings, quarterstaffs, light crossbows
@@ -46,7 +47,7 @@ As a sorcerer, you gain the following class features.
 
 **Skills**: Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
 
-## Equipment
+### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) a light crossbow and 20 bolts or (b) any simple weapon
 * (a) a component pouch or (b) an arcane focus
@@ -87,10 +88,11 @@ You can use an arcane focus as a spellcasting focus for your sorcerer spells.
 ## Sorcerous Origin
 Choose a sorcerous origin, which describes the source of your innate magical power:
 * [Aberrant Mind](Sorcerer/AberrantMind.md) sorcerers have been touched by creatures of the astral deep
+* [Blood](Sorcerer/Blood.md) is the magic within all, and you use none more than your own.
 * [Clockwork Soul](Sorcerer/ClockworkSoul.md) means the powers of neutrality call to you.
 * [Divine Soul](Sorcerer/DivineSoul.md) sorcerers have found favor with celestial beings.
 * [Draconic Bloodline](Sorcerer/DraconicBloodline.md) suggests that the dragons, somewhere, somewhen, fit into your family tree; alternatively, you might have had a [dragonmarked](/Races/Dragonmarked.md) somewhere in your family line.
-* [Firespeaker](Sorcerer/Firespeaker.md), [Seacaller](Sorcerer/Seacaller.md), [Stoneshaper](Sorcerer/Stoneshaper.md), and [Windtalker](Sorcerer/Windtalker) sorcerers hear the calls within the elements from the Elemental Planes themselves; they hear the elements, all around them.
+* [Firespeaker](Sorcerer/Firespeaker.md), [Seacaller](Sorcerer/Seacaller.md), [Stoneshaper](Sorcerer/Stoneshaper.md), and [Windtalker](Sorcerer/Windtalker) sorcerers hear the Elemental Planes themselves, through the elements all around them, guiding them.
 * [Giant Soul](Sorcerer/GiantSoul.md) sorcerers have ancient giantish blood within them.
 * [Green Star](Sorcerer/GreenStar.md) sorcerers feel the power of an ancient stone of power in their blood somehow.
 * [Phoenix](Sorcerer/Phoenix.md) sorcerers have the power of the ancient phoenix within them.
@@ -101,8 +103,10 @@ Choose a sorcerous origin, which describes the source of your innate magical pow
 
 Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
 
-### Font of Magic
-At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
+## Font of Magic
+*2nd-level sorcerer feature*
+
+You tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
 
 ### Sorcery Points
 You have 2 sorcery points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer table. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest.
@@ -130,7 +134,9 @@ Spell Slot Level|Sorcery Point Cost
 ***Sorcerous Fortitude***. As an action, you can spend any number of sorcery points to roll a d4 for each point expended. You gain a number of temporary hit points equal to the total rolled.
 
 ## Metamagic
-At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.
+*3rd-level sorcerer feature*
+
+You gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 
@@ -177,13 +183,16 @@ You can use only one Metamagic option on a spell when you cast it, unless otherw
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ## Sorcerous Restoration
-At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.
+*20th-level sorcerer feature*
+
+You regain 4 expended sorcery points whenever you finish a short rest.
+
+---
 
 # Sorcerer Spells
-This is a list of all the sorcerer spells known to any sorcerer in Azgaarnoth. However, sorcerer spells beyond these are known to exist, but a sorcerer must have access to a source (another sorcerer, or a scroll or book written by a sorcerer, and so on) who knows the new spell the sorcerer wishes to learn. Note this is not a spellbook--a sorcerer, once they know a spell, does not need to return to the book to re-learn it. Understanding how to shape the power correctly, however, can sometimes require guidance and inspiration.
+This is a list of all the sorcerer spells known to any sorcerer in Azgaarnoth. Not all of these spells are necessarily available to players, however; any spell in the core *Player's Handbook* is a common enough spell, but anything not in the core PHB may or may not be available to a player.
 
-> ### Game Notes
-> The sorcerer spells found in Azgaarnoth that are not on this list are thus under the DM's discretion regarding their release into player hands. Some DMs will want to keep them out of player hands, simply to keep the players guessing and trying to prepare for the unknown when those spells are used against them.
+In addition, sorcerer spells beyond these are known to exist, but a sorcerer must have access to a source (another sorcerer, or a scroll or book written by a sorcerer, and so on) who knows the new spell the sorcerer wishes to learn. Note this is not a spellbook--a sorcerer, once they know a spell, never needs to re-learn it, so few actually bother to write such things down. Understanding how to shape the power correctly the first time, however, can sometimes require guidance and inspiration.
 
 Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorcerer spells that are not on this list, and those schools can (and frequently do) share those secrets with other sorcerers... for a price.
 
@@ -261,6 +270,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 ## 2nd Level
 * [aganazzar's scorcher](https://www.dndbeyond.com/spells/aganazzars-scorcher)
 * [alter self](https://www.dndbeyond.com/spells/alter-self)
+* [Beluud's brutal jaunt](/Magic/Spells/beluuds-brutal-jaunt.md)
 * [blindness/deafness](https://www.dndbeyond.com/spells/blindness-deafness)
 * [blur](https://www.dndbeyond.com/spells/blur)
 * [cloud of daggers](https://www.dndbeyond.com/spells/cloud-of-daggers)
@@ -321,6 +331,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * Melf's Minute Meteors
 * Protection from Energy
 * Psionic Blast (UA)
+* [relocate](/Magic/Spells/relocate.md)
 * Sleet Storm
 * Slow
 * Stinking Cloud
@@ -349,6 +360,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * Greater Invisibility
 * Ice Storm
 * Polymorph
+* [stockade sprouts](/Magic/Spells/stockade-sprouts.md)
 * Stoneskin
 * Storm Sphere
 * Summon Abberant Spirt (UA)
@@ -371,10 +383,12 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * Immolation
 * Insect Plague
 * Intellect Fortress (UA)
+* [molten upheaval](/Magic/Spells/molten-upheaval.md)
 * Seeming
 * [sinking maw](/Magic/Spells/sinking-maw.md)
 * [soar](/Magic/Spells/soar.md)
 * [sonic boom](/Magic/Spells/sonic-boom.md)
+* [sun flower](/Magic/Spells/sun-flower.md)
 * Telekinesis
 * Teleportation Circle
 * Wall of Stone
@@ -412,6 +426,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * [light to shadow](/Magic/Spells/light-to-shadow.md)
 * [living burial](/Magic/Spells/living-burial.md)
 * Plane Shift
+* [primordial tides](/Magic/Spells/primordial-tides.md)
 * Prismatic Spray
 * Reverse Gravity
 * Teleport
@@ -427,6 +442,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * Incendiary Cloud
 * Power Word: Stun
 * Sunburst
+* [wall of lava](/Magic/Spells/wall-of-lava.md)
 
 ## 9th Level
 * [blood to flame](/Magic/Spells/blood-to-flame.md)

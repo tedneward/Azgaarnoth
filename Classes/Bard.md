@@ -267,6 +267,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [mass shield](/Magic/Spells/mass-shield.md)
 * Nondetection
 * Plant Growth
+* [relocate](/Magic/Spells/relocate.md)
 * Sending
 * Slow
 * Speak with Dead

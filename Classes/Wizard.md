@@ -261,6 +261,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [alter self](https://www.dndbeyond.com/spells/alter-self)
 * [arcane lock](https://www.dndbeyond.com/spells/arcane-lock)
 * [augury](https://www.dndbeyond.com/spells/augury)
+* [Beluud's brutal jaunt](/Magic/Spells/beluuds-brutal-jaunt.md)
 * [blindness/deafness](https://www.dndbeyond.com/spells/blindness-deafness)
 * [blur](https://www.dndbeyond.com/spells/blur)
 * [cloud of daggers](https://www.dndbeyond.com/spells/cloud-of-daggers)
@@ -339,6 +340,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * phantom steed
 * protection from energy
 * psionic blast
+* [relocate](/Magic/Spells/relocate.md)
 * remove curse
 * sending
 * sleet storm
@@ -387,6 +389,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Otiluke's Resilient Sphere
 * Phantasmal Killer
 * Polymorph
+* [stockade sprouts](/Magic/Spells/stockade-sprouts.md)
 * Stone Shape
 * Stoneskin
 * Storm Sphere
@@ -400,6 +403,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 
 ## 5th Level
 * Animate Objects
+* [arcane armor](/Magic/Spells/arcane-armor.md)
 * Bigby's Hand
 * [burrow](/Magic/Spells/burrow.md)
 * Cloudkill
@@ -418,6 +422,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Legend Lore
 * Mislead
 * Modify Memory
+* [molten upheaval](/Magic/Spells/molten-upheaval.md)
 * Passwall
 * Planar Binding
 * Rary's Telepathic Bond
@@ -427,6 +432,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [sinking maw](/Magic/Spells/sinking-maw.md)
 * [soar](/Magic/Spells/soar.md)
 * [sonic boom](/Magic/Spells/sonic-boom.md)
+* [sun flower](/Magic/Spells/sun-flower.md)
 * Telekinesis
 * Teleportation Circle
 * Transmute Rock
@@ -506,6 +512,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Power Word: Stun
 * Sunburst
 * Telepathy
+* [wall of lava](/Magic/Spells/wall-of-lava.md)
 
 ## 9th Level
 * Astral Projection

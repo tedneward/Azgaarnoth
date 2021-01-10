@@ -11,7 +11,7 @@ Level|Proficiency Bonus|1st|2nd|3rd|4th|5th|Features
 4th  |+2               | 3 | - | - | - | - |Ability Score Improvement
 5th  |+3               | 4 | 2 | - | - | - |[Extra Attack](#extra-attack)
 6th  |+3               | 4 | 2 | - | - | - |[Aura of Protection](#aura-of-protection)
-7th  |+3               | 4 | 3 | - | - | - |Sacred Oath feature  
+7th  |+3               | 4 | 3 | - | - | - |[Sacred Oath](#sacred-oath) feature  
 8th  |+3               | 4 | 3 | - | - | - |Ability Score Improvement
 9th  |+4               | 4 | 3 | 2 | - | - |
 10th |+4               | 4 | 3 | 2 | - | - |[Aura of Courage](#aura-of-courage)
@@ -19,12 +19,12 @@ Level|Proficiency Bonus|1st|2nd|3rd|4th|5th|Features
 12th |+4               | 4 | 3 | 3 | - | - |Ability Score Improvement
 13th |+5               | 4 | 3 | 3 | 1 | - |
 14th |+5               | 4 | 3 | 3 | 1 | - |[Cleansing Touch](#cleansing-touch)
-15th |+5               | 4 | 3 | 3 | 2 | - |Sacred Oath feature
+15th |+5               | 4 | 3 | 3 | 2 | - |[Sacred Oath](#sacred-oath) feature
 16th |+5               | 4 | 3 | 3 | 2 | - |Ability Score Improvement
 17th |+6               | 4 | 3 | 3 | 3 | 1 |
 18th |+6               | 4 | 3 | 3 | 3 | 1 |Aura improvements
 19th |+6               | 4 | 3 | 3 | 3 | 2 |Ability Score Improvement
-20th |+6               | 4 | 3 | 3 | 3 | 2 |Sacred Oath feature
+20th |+6               | 4 | 3 | 3 | 3 | 2 |[Sacred Oath](#sacred-oath) feature
 
 As a paladin, you gain the following class features.
 
@@ -134,6 +134,7 @@ When you reach 3rd level, you swear the oath that binds you as a paladin forever
 * [Weave](Paladin/Weave.md)
 
 .. or, you are an "anti-paladin", and you have sworn one of the following oaths:
+* [Grief](Paladin/Grief.md)
 * [Oathbreaker](Paladin/Oathbreaker.md)
 * [Treachery](Paladin/Treachery.md)
 
@@ -262,6 +263,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * [dawn](https://www.dndbeyond.com/spells/dawn)
 * Destructive Wave
 * Dispel Evil and Good
+* [divine armor](/Magic/Spells/divine-armor.md)
 * [flame strike](https://www.dndbeyond.com/spells/flame-strike)
 * Geas
 * Raise Dead

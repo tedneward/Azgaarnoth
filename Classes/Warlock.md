@@ -493,6 +493,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * [witch bolt](https://www.dndbeyond.com/spells/witch-bolt)
 
 ## 2nd Level
+* [Beluud's brutal jaunt](/Magic/Spells/beluuds-brutal-jaunt.md)
 * [cloud of daggers](https://www.dndbeyond.com/spells/cloud-of-daggers)
 * [crown of madness](https://www.dndbeyond.com/spells/crown-of-madness)
 * [darkness](https://www.dndbeyond.com/spells/darkness)

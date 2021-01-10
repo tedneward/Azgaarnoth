@@ -5,6 +5,8 @@ Artificers are almost always recruited at some point by [Merchant Guilds](/Organ
 
 Rumors persist that the [Dread Emperor](/People/DreadEmperor.md) has been known to kidnap promising artificers, and force them to artifice on his behalf.
 
+## Class Features
+As an artificer, you gain the following class features.
 
 Level| Proficiency Bonus | Infusions | Infused Items | Cantrips |1st|2nd|3rd|4th|5th|Features
 -----| ----------------- | --------- | ------------- | -------- |---|---|---|---|---|-------- 
@@ -29,9 +31,6 @@ Level| Proficiency Bonus | Infusions | Infused Items | Cantrips |1st|2nd|3rd|4th
 19th | +6                |12         | 6             | 4        | 4 | 3 | 3 | 3 | 2 |Ability Score Improvement            
 20th | +6                |12         | 6             | 4        | 4 | 3 | 3 | 3 | 2 |[Soul of Artifice](#soul-of-artifice)
 
-
-## Class Features
-As an artificer, you gain the following class features.
 
 ### Hit Points
 **Hit Dice**: 1d8 per artificer level
@@ -474,6 +473,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [healing wave](/Magic/Spells/healing-wave.md)
 * [mass shield](/Magic/Spells/mass-shield.md)
 * Protection from Energy
+* [relocate](/Magic/Spells/relocate.md)
 * Revivify
 * Water Breathing (ritual)
 * Water Walk (ritual)

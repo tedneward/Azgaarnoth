@@ -330,6 +330,7 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 * [greater renewal](/Magic/Spells/greater-renewal.md)
 * Guardian of Nature
 * [locate creature](https://www.dndbeyond.com/spells/locate-creature)
+* [stockade sprouts](/Magic/Spells/stockade-sprouts.md)
 * Stoneskin
 * [wind funnel](/Magic/Spells/wind-funnel.md)
 

@@ -295,6 +295,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * Ice Storm
 * Locate Creature
 * Polymorph
+* [stockade sprouts](/Magic/Spells/stockade-sprouts.md)
 * Stone Shape
 * Stoneskin
 * summon elemental
@@ -318,12 +319,14 @@ The following spells listed are known (but not necessarily accessible, depending
 * Immolation
 * Insect Plague
 * Maelstrom
+* [molten upheaval](/Magic/Spells/molten-upheaval.md)
 * Mass Cure Wounds
 * Planar Binding
 * Reincarnate
 * Scrying
 * [sinking maw](/Magic/Spells/sinking-maw.md)
 * [sonic boom](/Magic/Spells/sonic-boom.md)
+* [sun flower](/Magic/Spells/sun-flower.md)
 * Transmute Rock
 * Tree Stride
 * Wall of Stone
@@ -354,6 +357,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * [living burial](/Magic/Spells/living-burial.md)
 * Mirage Arcane
 * Plane Shift
+* [primordial tides](/Magic/Spells/primordial-tides.md)
 * Regenerate
 * Reverse Gravity
 * Symbol

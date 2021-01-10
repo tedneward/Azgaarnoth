@@ -319,6 +319,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * Commune
 * Contagion
 * Dispel Evil and Good
+* [divine armor](/Magic/Spells/divine-armor.md)
 * Flame Strike
 * Geas
 * Greater Restoration
