@@ -190,6 +190,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * [absorb elements](https://www.dndbeyond.com/spells/absorb-elements)
 * [animal friendship](https://www.dndbeyond.com/spells/animal-friendship)
 * [beast bond](https://www.dndbeyond.com/spells/beast-bond)
+* [blackout](/Magic/Spells/blackout.md)
 * [ceremony](https://www.dndbeyond.com/spells/ceremony) (ritual)
 * [charm person](https://www.dndbeyond.com/spells/charm-person)
 * [create or destroy water](https://www.dndbeyond.com/spells/create-or-destroy-water)

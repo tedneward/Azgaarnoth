@@ -189,6 +189,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [animal friendship](https://www.dndbeyond.com/spells/animal-friendship)
 * [attract projectiles](/Magic/Spells/attract-projectiles.md)
 * [bane](https://www.dndbeyond.com/spells/bane)
+* [blackout](/Magic/Spells/blackout.md)
 * [cause fear](https://www.dndbeyond.com/spells/cause-fear)
 * [charm person](https://www.dndbeyond.com/spells/charm-person)
 * [color spray](https://www.dndbeyond.com/spells/color-spray)

@@ -140,6 +140,7 @@ Choose one domain:
 * [Life](Cleric/Life.md)
 * [Light](Cleric/Light.md)
 * [Luck](Cleric/Luck.md)
+* [Madness](Cleric/Madness.md)
 * [Nature](Cleric/Nature.md)
 * [Order](Cleric/Order.md)
 * [Protection](Cleric/Protection.md)
@@ -230,6 +231,7 @@ The following spells listed are available (but not necessarily accessible) to al
 ## 1st Level
 * [attract projectiles](/Magic/Spells/attract-projectiles.md)
 * [bane](https://www.dndbeyond.com/spells/bane)
+* [blackout](/Magic/Spells/blackout.md)
 * [bless](https://www.dndbeyond.com/spells/bless)
 * [cause fear](https://www.dndbeyond.com/spells/cause-fear)
 * [command](https://www.dndbeyond.com/spells/command)

@@ -255,6 +255,7 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 * [animal friendship](https://www.dndbeyond.com/spells/animal-friendship)
 * [attract projectiles](/Magic/Spells/attract-projectiles.md)
 * [beast bond](https://www.dndbeyond.com/spells/beast-bond)
+* [blackout](/Magic/Spells/blackout.md)
 * [cure wounds](https://www.dndbeyond.com/spells/cure-wounds)
 * [detect magic](https://www.dndbeyond.com/spells/detect-magic)
 * [detect poison and disease](https://www.dndbeyond.com/spells/detect-poison-and-disease)

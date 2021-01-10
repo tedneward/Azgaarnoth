@@ -24,6 +24,7 @@ Deity | Description |Alignment | Domains | Symbol
 [Larethian](Pantheon/Larethian.md)|Deity of art and magic|CG|Air, Light|Quarter moon or starburst
 [Lathander](Pantheon/Lathander.md)|God of birth and renewal|NG|Life, Light|Road traveling into a sunrise
 [Lugh](Pantheon/Lugh.md)|God of arts, travel, and commerce|CN|Knowledge, Life|Pair of long hands
+[Lyssa](Pantheon/Lyssa.md)|Goddess of madness and ecstasy|CN|Madness, Desire|Hands clasped to a screaming face
 [Lythtzu](Pantheon/Lythtzu.md)|God of battle|LN|War, Life|A gleaming blade in the light
 [Malar](Pantheon/Malar.md)|God of the hunt|CN|Nature|Clawed paw
 [Milil](Pantheon/Milil.md)|Goddess of poetry and song|NG|Light, Trickery|Five-stringed harp made of leaves

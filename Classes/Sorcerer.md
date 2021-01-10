@@ -235,6 +235,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 
 ## 1st Level
 * [acid stream](https://www.dndbeyond.com/spells/acid-stream)
+* [blackout](/Magic/Spells/blackout.md)
 * [burning hands](https://www.dndbeyond.com/spells/burning-hands)
 * [catapult](https://www.dndbeyond.com/spells/catapult)
 * [charm person](https://www.dndbeyond.com/spells/charm-person)
@@ -373,6 +374,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 ## 5th Level
 * Animate Objects
 * [burrow](/Magic/Spells/burrow.md)
+* [chilling darkness](/Magic/Spells/chilling-darkness.md)
 * Cloudkill
 * Cone of Cold
 * Conjure Vrock

@@ -118,7 +118,7 @@ The divine magic flowing through you makes you immune to disease.
 ## Sacred Oath
 *3rd-level paladin feature*
 
-When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose one of the following oaths:
+You swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose one of the following oaths:
 * [Abyss](Paladin/Abyss.md)
 * [Ancients](Paladin/Ancients.md)
 * [Conquest](Paladin/Conquest.md)
@@ -128,6 +128,7 @@ When you reach 3rd level, you swear the oath that binds you as a paladin forever
 * [Glory](Paladin/Glory.md)
 * [Heroism](Paladin/Heroism.md)
 * [Redemption](Paladin/Redemption.md)
+* [Shadows](Paladin/Shadows.md)
 * [Stalker](Paladin/Stalker.md)
 * [Vengeance](Paladin/Vengeance.md)
 * [Watchers](Paladin/Watchers.md)

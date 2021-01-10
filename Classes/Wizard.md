@@ -3,30 +3,31 @@ Wizards are supreme magic-users, defined and united as a class by the spells the
 
 You must have an Intelligence score of 13 or higher in order to multiclass in or out of this class.
 
-Level|Proficiency Bonus|Features|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th
------|-----------------|--------|--------------|---|---|---|---|---|---|---|---|---
-1st|+2|Spellcasting, Arcane Recovery|3|2|-|-|-|-|-|-|-|-
-2nd|+2|Arcane Tradition|3|3|-|-|-|-|-|-|-|-
-3rd|+2||3|4|2|-|-|-|-|-|-|-
-4th|+2|Ability Score Improvement|4|4|3|-|-|-|-|-|-|-
-5th|+3||4|4|3|2|-|-|-|-|-|-
-6th|+3|Arcane Tradition feature|4|4|3|3|-|-|-|-|-|-
-7th|+3||4|4|3|3|1|-|-|-|-|-
-8th|+3|Ability Score Improvement|4|4|3|3|2|-|-|-|-|-
-9th|+4||4|4|3|3|3|1|-|-|-|-
-10th|+4|Arcane Tradition feature|5|4|3|3|3|2|-|-|-|-
-11th|+4||5|4|3|3|3|2|1|-|-|-
-12th|+4|Ability Score Improvement|5|4|3|3|3|2|1|-|-|-
-13th|+5||5|4|3|3|3|2|1|1|-|-
-14th|+5|Arcane Tradition feature|5|4|3|3|3|2|1|1|-|-
-15th|+5||5|4|3|3|3|2|1|1|1|-
-16th|+5|Ability Score Improvement|5|4|3|3|3|2|1|1|1|-
-17th|+6||5|4|3|3|3|2|1|1|1|1
-18th|+6|Spell Mastery|5|4|3|3|3|3|1|1|1|1
-19th|+6|Ability Score Improvement|5|4|3|3|3|3|2|1|1|1
-20th|+6|Signature Spells|5|4|3|3|3|3|2|2|1|1
-
+## Class Features
 As a wizard, you gain the following class features.
+
+Level|Proficiency Bonus|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|Features
+-----|-----------------|--------------|---|---|---|---|---|---|---|---|---|--------
+1st  |+2|3|2|-|-|-|-|-|-|-|-|Spellcasting, Arcane Recovery
+2nd  |+2|3|3|-|-|-|-|-|-|-|-|Arcane Tradition
+3rd  |+2|3|4|2|-|-|-|-|-|-|-|
+4th  |+2|4|4|3|-|-|-|-|-|-|-|Ability Score Improvement
+5th  |+3|4|4|3|2|-|-|-|-|-|-|
+6th  |+3|4|4|3|3|-|-|-|-|-|-|Arcane Tradition feature
+7th  |+3|4|4|3|3|1|-|-|-|-|-|
+8th  |+3|4|4|3|3|2|-|-|-|-|-|Ability Score Improvement
+9th  |+4|4|4|3|3|3|1|-|-|-|-|
+10th |+4|5|4|3|3|3|2|-|-|-|-|Arcane Tradition feature
+11th |+4|5|4|3|3|3|2|1|-|-|-|
+12th |+4|5|4|3|3|3|2|1|-|-|-|Ability Score Improvement
+13th |+5|5|4|3|3|3|2|1|1|-|-|
+14th |+5|5|4|3|3|3|2|1|1|-|-|Arcane Tradition feature
+15th |+5|5|4|3|3|3|2|1|1|1|-|
+16th |+5|5|4|3|3|3|2|1|1|1|-|Ability Score Improvement
+17th |+6|5|4|3|3|3|2|1|1|1|1|
+18th |+6|5|4|3|3|3|3|1|1|1|1|Spell Mastery
+19th |+6|5|4|3|3|3|3|2|1|1|1|Ability Score Improvement
+20th |+6|5|4|3|3|3|3|2|2|1|1|Signature Spells
 
 ## Hit Points
 **Hit Dice**: 1d6 per wizard level
@@ -54,13 +55,15 @@ You start with the following equipment, in addition to the equipment granted by 
 * A spellbook
 
 ## Spellcasting
+*1st-level wizard feature*
+
 As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power.
 
 ### Cantrips
 At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table.
 
 ### Cantrip Versatility
-Whenever you gain a level in this class, you can replace one cantrip you learned from this Spellcasting feature with another cantrip from the wizard spell list.
+Whenever you gain a level in this class, you can replace one cantrip you learned from this Spellcasting with another cantrip from the wizard spell list.  feature
 
 ### Spellbook
 At 1st level, you have a spellbook containing six 1st-level wizard spells of your choice.
@@ -107,12 +110,16 @@ You can use an arcane focus as a spellcasting focus for your wizard spells.
 Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook.
 
 ## Arcane Recovery
+*1st-level wizard feature*
+
 You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
 
 For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.
 
 ## Arcane Tradition
-When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of the following schools:
+*2nd-level wizard feature*
+
+You choose an arcane tradition, shaping your practice of magic through one of the following schools:
 * [Abjuration](Wizard/Abjuration.md)
 * [Arcane Experimenter](Wizard/ArcaneExperimenter.md)
 * [Arcanist](Wizard/Arcanist.md)
@@ -129,6 +136,7 @@ When you reach 2nd level, you choose an arcane tradition, shaping your practice 
 * [Floramancy](Wizard/Floramancy.md)
 * [Geomancy](Wizard/Geomancy.md)
 * [Hedge Magi](Wizard/HedgeMagi.md)
+* [Hemomancy](Wizard/Hemomancy.md)
 * [Hydromancy](Wizard/Hydromancy.md)
 * [Illusion](Wizard/Illusion.md)
 * [Incantation](Wizard/Incantation.md)
@@ -147,25 +155,31 @@ When you reach 2nd level, you choose an arcane tradition, shaping your practice 
 * [Voidmancy](Wizard/Voidmancy.md)
 * [War Magic](Wizard/WarMagic.md)
 
-Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
+Your choice grants yous at 2nd level and again at 6th, 10th, and 14th level.  feature
 
 Note that many of the [Mage Schools](/Organizations/MageSchools/MageSchools.md) have their own, unique, arcane traditions; more options are found there. While many mage schools have an arcane tradition, not all arcane traditions belong exclusively to a mage school.
 
 ## Ability Score Improvement
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this.  feature
 
 ## Spell Mastery
-At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+*18th-level wizard feature*
+
+You have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
 By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
 
 ## Signature Spells
-When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.
+*20th-level wizard feature*
+
+You gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.
 
 If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
+---
+
 # Wizard Spells
-This is a list of the spells accessible to any wizard throughout Azgaarnoth (under most normal circumstances--it is possible, for example, that a wizard character came to power outside of any of the normal backgrounds thus has a very paltry spellbook to start as a handicap). Specifically, these spells are known to the [White Winds](/Organizations/MageSchools/WhiteWinds.md) school, and are always accessible for copy into a wizard's spellbook for a nominal fee.
+This is a list of the spells accessible to any wizard throughout Azgaarnoth (under most normal circumstances--it is possible, for example, that a wizard character came to power outside of any of the normal backgrounds thus has a very paltry spellbook to start as a handicap). Specifically, the spells listed in the *Player's Handbook* are spells are known to the [White Winds](/Organizations/MageSchools/WhiteWinds.md) school, and are always accessible for copy into a wizard's spellbook for a nominal fee.
 
 Wizards are free to copy any arcane (wizard) spell into their spellbook, regardless of origin, and as such, mage schools often make a fair amount of money from selling access to their unique spell lists to other non-member schools for a hefty fee.
 
@@ -209,6 +223,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [absorb elements](https://www.dndbeyond.com/spells/absorb-elements)
 * [acid stream](https://www.dndbeyond.com/spells/acid-stream)
 * [alarm](https://www.dndbeyond.com/spells/alarm)
+* [blackout](/Magic/Spells/blackout.md)
 * [burning hands](https://www.dndbeyond.com/spells/burning-hands)
 * [catapult](https://www.dndbeyond.com/spells/catapult)
 * [cause fear](https://www.dndbeyond.com/spells/cause-fear)
@@ -406,6 +421,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [arcane armor](/Magic/Spells/arcane-armor.md)
 * Bigby's Hand
 * [burrow](/Magic/Spells/burrow.md)
+* [chilling darkness](/Magic/Spells/chilling-darkness.md)
 * Cloudkill
 * Cone of Cold
 * Conjure Elemental
@@ -530,4 +546,3 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * True Polymorph
 * Weird
 * Wish
-

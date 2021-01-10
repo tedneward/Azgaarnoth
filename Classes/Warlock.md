@@ -476,6 +476,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 ## 1st Level
 * [armor of agathys](https://www.dndbeyond.com/spells/armor-of-agathys)
 * [arms of hadar](https://www.dndbeyond.com/spells/arms-of-hadar)
+* [blackout](/Magic/Spells/blackout.md)
 * [cause fear](https://www.dndbeyond.com/spells/cause-fear)
 * [charm person](https://www.dndbeyond.com/spells/charm-person)
 * [comprehend languages](https://www.dndbeyond.com/spells/comprehend-languages)
@@ -547,6 +548,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * [wind funnel](/Magic/Spells/wind-funnel.md)
 
 ## 5th Level
+* [chilling darkness](/Magic/Spells/chilling-darkness.md)
 * Contact Other Plane
 * Dream
 * Intellect Fortress (UA)

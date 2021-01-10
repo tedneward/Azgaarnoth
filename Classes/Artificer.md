@@ -416,6 +416,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [alarm](https://www.dndbeyond.com/spells/alarm) (ritual)
 * [arcane weapon](/Magic/Spells/arcane-weapon.md)
 * [attract projectiles](/Magic/Spells/attract-projectiles.md)
+* [blackout](/Magic/Spells/blackout.md)
 * [catapult](https://www.dndbeyond.com/spells/catapult)
 * [cure wounds](https://www.dndbeyond.com/spells/cure-wounds)
 * [detect magic](https://www.dndbeyond.com/spells/detect-magic) (ritual)
