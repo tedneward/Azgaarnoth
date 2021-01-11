@@ -232,5 +232,5 @@ Passage |  Dexterity or Constitution | blink, teleportation circle | Constitutio
 Scribing | Intelligence or Charisma | sending, tongues | Intelligence | Long or Short
 Sentinel | Strength or Wisdom | compelled duel, warding bond | Wisdom | Long or Short
 Shadow | Charisma or Dexterity | nondetection, mislead | Charisma | Long
-Storm | Charisma or Dexterity | control water, control winds | Charisma | Long
+Storm | Charisma or Dexterity | control water, [control winds](/Magic/Spells/control-winds.md) | Charisma | Long
 Warding | Dexterity or Intelligence | glyph of warding, knock, Leomund’s secret chest* | Intelligence | Long

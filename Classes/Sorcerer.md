@@ -207,8 +207,8 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * [bolster](/Magic/Spells/bolster.md)
 * [booming blade](https://www.dndbeyond.com/spells/booming-blade)
 * [chill touch](https://www.dndbeyond.com/spells/chill-touch)
-* [control flames](https://www.dndbeyond.com/spells/control-flames)
-* [create bonfire](https://www.dndbeyond.com/spells/create-bonfire)
+* [control flames](/Magic/Spells/control-flames.md)
+* [create bonfire](/Magic/Spells/create-bonfire.md)
 * [dancing lights](https://www.dndbeyond.com/spells/dancing-lights)
 * [fire bolt](https://www.dndbeyond.com/spells/fire-bolt)
 * [friends](https://www.dndbeyond.com/spells/friends)
@@ -241,9 +241,9 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * [blackout](/Magic/Spells/blackout.md)
 * [blood reading](/Magic/Spells/blood-reading.md)
 * [burning hands](https://www.dndbeyond.com/spells/burning-hands)
-* [catapult](https://www.dndbeyond.com/spells/catapult)
+* [catapult](/Magic/Spells/catapult.md)
 * [charm person](https://www.dndbeyond.com/spells/charm-person)
-* [chaos bolt](https://www.dndbeyond.com/spells/chaos-bolt)
+* [chaos bolt](/Magic/Spells/chaos-bolt.md)
 * [chromatic orb](https://www.dndbeyond.com/spells/chromatic-orb)
 * [color spray](https://www.dndbeyond.com/spells/color-spray)
 * [comprehend languages](https://www.dndbeyond.com/spells/comprehend-languages)
@@ -274,7 +274,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * [witch bolt](https://www.dndbeyond.com/spells/witch-bolt)
 
 ## 2nd Level
-* [aganazzar's scorcher](https://www.dndbeyond.com/spells/aganazzars-scorcher)
+* [aganazzar's scorcher](/Magic/Spells/aganazzars-scorcher.md)
 * [alter self](https://www.dndbeyond.com/spells/alter-self)
 * [Beluud's brutal jaunt](/Magic/Spells/beluuds-brutal-jaunt.md)
 * [blindness/deafness](https://www.dndbeyond.com/spells/blindness-deafness)
@@ -362,6 +362,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 ## 4th Level
 * Banishment
 * Blight
+* [charm monster](/Magic/Spells/charm-monster.md)
 * Confusion
 * Conjure Barlgura
 * Conjure Shadow Demon
@@ -395,7 +396,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * Cloudkill
 * Cone of Cold
 * Conjure Vrock
-* Control Winds
+* [control winds](/Magic/Spells/control-winds.md)
 * Creation
 * Dominate Person
 * Hold Monster
@@ -440,6 +441,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 ## 7th Level
 * [Beluud's bile blossom](/Magic/Spells/beluuds-bile-blossom.md)
 * Conjure Hezrou
+* [crown of stars](/Magic/Spells/crown-of-stars.md)
 * [death's door](/Magic/Spells/deaths-door.md)
 * Delayed Blast Fireball
 * Etherealness
@@ -455,7 +457,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * [thundercrash cannon](/Magic/Spells/thundercrash-cannon.md)
 
 ## 8th Level
-* Abi-Dalzim's Horrid Wilting
+* [Abi-Dalzim's horrid wilting](/Magic/Spells/abi-dalzims-horrid-wilting.md)
 * demiplane
 * Dominate Monster
 * Earthquake

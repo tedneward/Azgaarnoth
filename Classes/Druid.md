@@ -168,8 +168,8 @@ The following spells listed are known (but not necessarily accessible, depending
 * [acid splash](https://www.dndbeyond.com/spells/acid-splash)
 * [balance](/Magic/Spells/balance.md)
 * [bolster](/Magic/Spells/bolster.md)
-* [control flames](https://www.dndbeyond.com/spells/control-flames)
-* [create bonfire](https://www.dndbeyond.com/spells/create-bonfire)
+* [control flames](/Magic/Spells/control-flames.md)
+* [create bonfire](/Magic/Spells/create-bonfire.md)
 * [druidcraft](https://www.dndbeyond.com/spells/druidcraft)
 * [frostbite](https://www.dndbeyond.com/spells/frostbite)
 * [guidance](https://www.dndbeyond.com/spells/guidance)
@@ -189,11 +189,11 @@ The following spells listed are known (but not necessarily accessible, depending
 * [thunderclap](https://www.dndbeyond.com/spells/thunderclap)
 
 ## 1st Level
-* [absorb elements](https://www.dndbeyond.com/spells/absorb-elements)
+* [absorb elements](/Magic/Spells/absorb-elements.md)
 * [animal friendship](https://www.dndbeyond.com/spells/animal-friendship)
-* [beast bond](https://www.dndbeyond.com/spells/beast-bond)
+* [beast bond](/Magic/Spells/beast-bond.md)
 * [blackout](/Magic/Spells/blackout.md)
-* [ceremony](https://www.dndbeyond.com/spells/ceremony) (ritual)
+* [ceremony](/Magic/Spells/ceremony.md) (ritual)
 * [charm person](https://www.dndbeyond.com/spells/charm-person)
 * [create or destroy water](https://www.dndbeyond.com/spells/create-or-destroy-water)
 * [cure wounds](https://www.dndbeyond.com/spells/cure-wounds)
@@ -278,6 +278,7 @@ The following spells listed are known (but not necessarily accessible, depending
 
 ## 4th Level
 * Blight
+* [charm monster](/Magic/Spells/charm-monster.md)
 * Confusion
 * Conjure Minor Elementals
 * Conjure Woodland Beings
@@ -316,7 +317,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * Cone of Cold
 * Conjure Elemental
 * Contagion
-* Control Winds
+* [control winds](/Magic/Spells/control-winds.md)
 * Dawn
 * Geas
 * Greater Restoration
@@ -336,7 +337,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * Wall of Stone
 
 ## 6th Level
-* Bones of the Earth
+* [bones of the earth](/Magic/Spells/bones-of-the-earth.md)
 * Conjure Fey
 * Find the Path
 * Flesh to Stone

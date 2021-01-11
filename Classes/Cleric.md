@@ -2,9 +2,9 @@
 Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
 
 Several major religions dot the surface of Azgaarnoth:
-* The [Pantheon](/Religions/Pantheon.md) is the classic multitheistic panoply of gods and goddesses arranged (more or less) by domain of the cosmos. Within the Pantheon, the following domains are available: [Arcana](Cleric/Arcana.md), [Life](Cleric/Life.md), [Death](Cleric/Death.md), [Grave](Cleric/Grave.md), [Trickery](Cleric/Trickery.md), [War](Cleric/War.md), [Tempest](Cleric/Tempest.md), [Forge](Cleric/Forge.md), [Knowledge](Cleric/Knowledge.md), [Light](Cleric/Light.md), [Twilight](Cleric/Twilight.md), Shadow, [Nature](Cleric/Nature), Draconic (from *The Book of Dragons*).
+* The [Pantheon](/Religions/Pantheon.md) is the classic multitheistic panoply of gods and goddesses arranged (more or less) by domain of the cosmos. Within the Pantheon, a huge variety of domains are available, and potentially others lurk in the deepest corners of the world. Each of the gods and goddesses waxes and wanes as their followers surge and shrink, and new gods are born or discovered every day, it seems.
 
-* The [Al'Uma](/Religions/AlUma.md) believe that the world has entered its current state because mortals did not worship the beings that maintained it, and therefore it is mortals' responsibility to correct that, by either worship, combat, or both. 
+* The [Al'Uma](/Religions/AlUma.md) believe that the world has entered its current state because mortals did not worship the beings that maintained it, and therefore it is mortals' responsibility to correct that, by either worship, combat, or both.
   * **Alalihatian Cleric**
 
     Domain (choose one): [Life](Cleric/Life.md), [Light](Cleric/Light.md), or [Order](Cleric/Order.md)
@@ -41,41 +41,40 @@ Several major religions dot the surface of Azgaarnoth:
 
 * [Draconic](Cleric/Dragon.md) clerics are almost always a member of the [Draconic Order](/Organizations/DraconicOrder/DraconicOrder.md), or (for evil clerics) a member of the [Cult of the Wyrm](/Organizations/CultOfTheWyrm.md), depending on whether they follow a metallic or chromatic dragon.
 
-*You must have a Wisdom score of 13 or higher in order to multiclass in or out of this class.*
-
-Level |Proficiency Bonus | Features |Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th
------ | ---------------- | -------- | ------------- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-1st|+2|Spellcasting, Divine Domain|3|2|-|-|-|-|-|-|-|-
-2nd|+2|Channel Divinity (x1), Divine Domain feature|3|3|-|-|-|-|-|-|-|-
-3rd|+2||3|4|2|-|-|-|-|-|-|-
-4th|+2|Ability Score Improvement|4|4|3|-|-|-|-|-|-|-
-5th|+3|Destroy Undead (CR 1/2)|4|4|3|2|-|-|-|-|-|-
-6th|+3|Channel Divinity (x2), Divine Domain feature|4|4|3|3|-|-|-|-|-|-
-7th|+3||4|4|3|3|1|-|-|-|-|-
-8th|+3|Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature|4|4|3|3|2|-|-|-|-|-
-9th|+4||4|4|3|3|3|1|-|-|-|-
-10th|+4|Divine Intervention|5|4|3|3|3|2|-|-|-|-
-11th|+4|Destroy Undead (CR 2)|5|4|3|3|3|2|1|-|-|-
-12th|+4|Ability Score Improvement|5|4|3|3|3|2|1|-|-|-
-13th|+5||5|4|3|3|3|2|1|1|-|-
-14th|+5|Destroy Undead (CR 3)|5|4|3|3|3|2|1|1|-|-
-15th|+5||5|4|3|3|3|2|1|1|1|-
-16th|+5|Ability Score Improvement|5|4|3|3|3|2|1|1|1|-
-17th|+6|Destroy Undead (CR 4), Divine Domain feature|5|4|3|3|3|2|1|1|1|1
-18th|+6|Channel Divinity (x3)|5|4|3|3|3|3|1|1|1|1
-19th|+6|Ability Score Improvement|5|4|3|3|3|3|2|1|1|1
-20th|+6|Divine Intervention improvement|5|4|3|3|3|3|2|2|1|1
-
+## Class features
 As a cleric, you gain the following class features.
 
-## Hit Points
+Level|Proficiency Bonus|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|Features
+-----|-----------------|--------------|---|---|---|---|---|---|---|---|---|--------
+1st  |+2|3|2|-|-|-|-|-|-|-|-|Spellcasting, Divine Domain
+2nd  |+2|3|3|-|-|-|-|-|-|-|-|Channel Divinity (x1), Divine Domain feature
+3rd  |+2|3|4|2|-|-|-|-|-|-|-|
+4th  |+2|4|4|3|-|-|-|-|-|-|-|Ability Score Improvement
+5th  |+3|4|4|3|2|-|-|-|-|-|-|Destroy Undead (CR 1/2)
+6th  |+3|4|4|3|3|-|-|-|-|-|-|Channel Divinity (x2), Divine Domain feature
+7th  |+3|4|4|3|3|1|-|-|-|-|-|
+8th  |+3|4|4|3|3|2|-|-|-|-|-|Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature
+9th  |+4|4|4|3|3|3|1|-|-|-|-|
+10th |+4|5|4|3|3|3|2|-|-|-|-|Divine Intervention
+11th |+4|5|4|3|3|3|2|1|-|-|-|Destroy Undead (CR 2)
+12th |+4|5|4|3|3|3|2|1|-|-|-|Ability Score Improvement
+13th |+5|5|4|3|3|3|2|1|1|-|-|
+14th |+5|5|4|3|3|3|2|1|1|-|-|Destroy Undead (CR 3)
+15th |+5|5|4|3|3|3|2|1|1|1|-|
+16th |+5|5|4|3|3|3|2|1|1|1|-|Ability Score Improvement
+17th |+6|5|4|3|3|3|2|1|1|1|1|Destroy Undead (CR 4), Divine Domain feature
+18th |+6|5|4|3|3|3|3|1|1|1|1|Channel Divinity (x3)
+19th |+6|5|4|3|3|3|3|2|1|1|1|Ability Score Improvement
+20th |+6|5|4|3|3|3|3|2|2|1|1|Divine Intervention improvement
+
+### Hit Points
 **Hit Dice**: 1d8 per cleric level
 
 **Hit Points at 1st Level**: 8 + your Constitution modifier
 
 **Hit Points at Higher Levels**: 1d8 (or 5) + your Constitution modifier per cleric level after 1st
 
-## Proficiencies
+### Proficiencies
 **Armor**: Light armor, medium armor, shields
 
 **Weapons**: All simple weapons
@@ -86,7 +85,7 @@ As a cleric, you gain the following class features.
 
 **Skills**: Choose two from History, Insight, Medicine, Persuasion, and Religion
 
-## Equipment
+### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) a mace or (b) a warhammer (if proficient)
 * (a) scale mail, (b) leather armor, or (c) chain mail (if proficient)
@@ -95,6 +94,8 @@ You start with the following equipment, in addition to the equipment granted by 
 * A shield and a holy symbol
 
 ## Spellcasting
+*1st-level cleric feature*
+
 As a conduit for divine power, you can cast cleric spells.
 
 ### Cantrips
@@ -126,6 +127,8 @@ You can cast a cleric spell as a ritual if that spell has the ritual tag and you
 You can use a holy symbol as a spellcasting focus for your cleric spells.
 
 ## Divine Domain
+*1st-level cleric feature*
+
 Choose one domain:
 * [Arcana](Cleric/Arcana.md)
 * [Chaos](Cleric/Chaos.md)
@@ -156,6 +159,8 @@ Choose one domain:
 Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
 ## Domain Spells
+*1st-level cleric feature*
+
 Each domain has a list of spells-its domain spells that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
 
 If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
@@ -172,12 +177,16 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
 
 ## Channel Divinity: Turn Undead
+*2nd-level cleric feature*
+
 As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 ## Channel Divinity: Harness Divine Power
-Starting at 2nd level, you can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended 1st-level spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.
+*2nd-level cleric feature*
+
+You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended 1st-level spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -188,7 +197,9 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the cleric spell list. 
 
 ## Destroy Undead
-Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown below:
+*5th-level cleric feature*
+
+When an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown below:
 
 **Destroy Undead Table**
 Cleric Level | Destroys Undead of CR ...
@@ -235,7 +246,8 @@ The following spells listed are available (but not necessarily accessible) to al
 * [blackout](/Magic/Spells/blackout.md)
 * [bless](https://www.dndbeyond.com/spells/bless)
 * [blood reading](/Magic/Spells/blood-reading.md)
-* [cause fear](https://www.dndbeyond.com/spells/cause-fear)
+* [cause fear](/Magic/Spells/cause-fear.md)
+* [ceremony](/Magic/Spells/ceremony.md) (ritual)
 * [command](https://www.dndbeyond.com/spells/command)
 * [create or destroy water](https://www.dndbeyond.com/spells/create-or-destroy-water)
 * [cure wounds](https://www.dndbeyond.com/spells/cure-wounds)

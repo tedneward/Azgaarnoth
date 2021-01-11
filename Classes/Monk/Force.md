@@ -15,7 +15,7 @@ Whenever you learn a new discipline, you can also replace one discipline that yo
 ### Casting Discipline Spells
 Some disciplines allow you to cast spells. To cast one of these spells, you use its casting time and other rules, but you don't need to provide material components for it.
 
-Once you reach 5th level in this class, you can spend additional ki points to increase the level of a discipline spell that you cast, provided that the spell has an enhanced effect at a higher level, as catapult does. The spell's level increases by 1 for each additional ki point you spend. For example, if you are a 5th-level monk and use Forceful Throw to cast [catapult](), you can spend 3 ki points to cast it as a 2nd-level spell (the discipline's base cost of 2 ki points plus 1). The maximum number of ki points you can spend to cast a spell in this way (including its base ki point cost and any additional ki points you spend to increase its level) is determined by your monk level, as shown in the Spells and Ki Points table.
+Once you reach 5th level in this class, you can spend additional ki points to increase the level of a discipline spell that you cast, provided that the spell has an enhanced effect at a higher level, as catapult does. The spell's level increases by 1 for each additional ki point you spend. For example, if you are a 5th-level monk and use Forceful Throw to cast [catapult](/Magic/Spells/catapult.md), you can spend 3 ki points to cast it as a 2nd-level spell (the discipline's base cost of 2 ki points plus 1). The maximum number of ki points you can spend to cast a spell in this way (including its base ki point cost and any additional ki points you spend to increase its level) is determined by your monk level, as shown in the Spells and Ki Points table.
 
 **Spells and Ki Points**
 Monk Levels|Maximum Ki Points for a Spell
@@ -51,7 +51,7 @@ The force disciplines are presented in alphabetical order. If a discipline requi
 
 **Forceful Returning.** Immediately after you make a ranged weapon attack with a thrown monk weapon, you can spend a ki point to manipulate the binding force and cause that weapon to fly back to your hand.
 
-**Forceful Throw.** You can spend 2 ki points to cast [catapult](). 
+**Forceful Throw.** You can spend 2 ki points to cast [catapult](/Magic/Spells/catapult.md). 
 
 **Mind Domination (17th Level Required).** You can spend 6 ki points to cast dominate person.
 
@@ -59,7 +59,7 @@ The force disciplines are presented in alphabetical order. If a discipline requi
 
 **Mystic Senses (17th Level Required).** You can spend 5 ki points to cast [locate creature]().
 
-**Powerful Mind Trick (17th Level Required).** You can spend 5 ki points to cast [charm monster]().
+**Powerful Mind Trick (17th Level Required).** You can spend 5 ki points to cast [charm monster](/Magic/Spells/charm-monster.md).
 
 **Spirit Lightning. (11th Level Required).** You can spend 4 ki points to cast [lightning bolt]().
 

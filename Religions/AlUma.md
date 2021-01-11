@@ -15,22 +15,35 @@ The most obvious of these disputes is the dispute between the Prophet [Alalihat]
 ## Game notes
 A cleric of the Al'Uman religion is always of either the Alalihatian, Zalabasan, or Alamalz traditions; there are no other traditions recognized within Al'Uma (although apostasy is always possible, it's up the GM whether apostate Al'Uman clerics are actually receiving spells, and from whom--or what).
 
-### Alalihatian Cleric
-Domain (choose one): [Life](https://www.dndbeyond.com/classes/cleric#LifeDomain), [Light](https://www.dndbeyond.com/classes/cleric#LightDomain), or [Order](/Supplements/UA_OrderDomain.pdf)
-Preferred equipment: mace, leather armor, light crossbow, shield
-Holy symbol: A mirror-bright disk with etchings of the ancient symbols of the Eldar
+* **Alalihatian Cleric**
 
-### Alamalzish Cleric
-Domain (choose one): [Arcana](http://dnd5e.wikidot.com/cleric:arcana), [Knowledge](https://www.dndbeyond.com/classes/cleric#KnowledgeDomain), [Life](https://www.dndbeyond.com/classes/cleric#LifeDomain), [Light](https://www.dndbeyond.com/classes/cleric#LightDomain), [Nature](https://www.dndbeyond.com/classes/cleric#NatureDomain), [Order](/Supplements/UA_OrderDomain.pdf), [Protection](http://dnd5e.wikidot.com/cleric:protection), [Unity](https://www.dndbeyond.com/classes/cleric#UnityDomainUA), [War](https://www.dndbeyond.com/classes/cleric#WarDomain) or [Zeal](http://dnd5e.wikidot.com/cleric:zeal).
-Preferred equipment: mace, leather armor, light crossbow, shield
-Holy symbol: A mirror-bright disk, with an etching of a sun rising over a rounded shape (hill)
+  **Domain (choose one):** [Life](Cleric/Life.md), [Light](Cleric/Light.md), or [Order](Cleric/Order.md)
 
-### Zalabasan Cleric
-Domain (choose one): [War](https://www.dndbeyond.com/classes/cleric#WarDomain), [Life](https://www.dndbeyond.com/classes/cleric#LifeDomain), or [Order](/Supplements/UA_OrderDomain.pdf)
-Preferred equipment: mace, scale mail or chain mail, light crossbow, shield
-Holy symbol: A mirror-bright disk, with an etching of an upraised clenched fist
+  **Preferred equipment:** mace, leather armor, light crossbow, shield
 
-### *al'maeran* Cleric
-Domain (choose one): [Nature](https://www.dndbeyond.com/classes/cleric#NatureDomain) (with an emphasis on the sea) or [Tempest](https://www.dndbeyond.com/classes/cleric#TempestDomain)
-Preferred equipment: spear or trident, light crossbow, leather armor
+  **Holy symbol:** A mirror-bright disk with etchings of the ancient symbols of the Eldar
+
+* **Alamalzish Cleric**
+
+  **Domain (choose one):** [Arcana](Cleric/Arcana.md), [Knowledge](Cleric/Knowledge.md), [Life](Cleric/Life.md), [Light](Cleric/Light.md), [Nature](Cleric/Nature.md), [Order](Cleric/Order.md), [Protection](Cleric/Protection.md), [Unity](Cleric/Unity.md), [War](Cleric/War.md) or [Zeal](Cleric/Zeal.md).
+
+  **Preferred equipment:** mace, leather armor, light crossbow, shield
+
+  **Holy symbol:** A mirror-bright disk, with an etching of a sun rising over a rounded shape (hill)
+
+* **Zalabasan Cleric**
+
+  **Domain (choose one):** [War](Cleric/War.md), [Life](Cleric/Life.md), or [Order](Cleric/Order.md)
+
+  **Preferred equipment:** mace, scale mail or chain mail, light crossbow, shield
+
+  **Holy symbol:** A mirror-bright disk, with an etching of an upraised clenched fist
+
+* ***al'maeran* Cleric**
+
+  **Domain (choose one):** [Nature](Cleric/Nature.md) (with an emphasis on the sea) or [Tempest](Cleric/Tempest.md)
+  
+  **Preferred equipment:** spear or trident, light crossbow, leather armor
+
+  **Holy symbol:** A conch (or some other mollusk) shell, cleaned and polished
 

@@ -14,8 +14,10 @@ Typically those who are capable of performing [undead grafts](/Magic/UndeadGraft
 ## Pre-eminence in Necromancy
 Pale Masters are arcane casters who draw upon necromantic lore that provides a macabre power all its own. Some aspire to live forever, effectively becoming immortal. Others are fascinated with death and the fate of souls that are unable to pass into the afterlife. Some pale masters seek to gain power through raising an army of once fallen soldiers to continue the battle once more.
 
-With this obsession to learn every shred of obscure knowledge surrounding the necromantic arts, a sacrifice happens as the pale master tends to become uninterested in other types of magic, except for a select few spells they feel can help them achieve their goals faster. As a result, pale masters have a smaller subset of arcane spells to draw upon when compared to their other arcane brethren. This lack of
-breadth is offset by the unique abilities they gain while studying their undead subjects.
+With this obsession to learn every shred of obscure knowledge surrounding the necromantic arts, a sacrifice happens as the pale master tends to become uninterested in other types of magic, except for a select few spells they feel can help them achieve their goals faster. As a result, pale masters have a smaller subset of arcane spells to draw upon when compared to their other arcane brethren. This lack of breadth is offset by the unique abilities they gain while studying their undead subjects.
+
+## Class features
+As a pale master, you gain the following class features.
 
 Level|Proficiency Bonus|Creations Known|Macabre Enchantments|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|Features
 -----|-----------------|---------------|--------------------|--------------|---|---|---|---|---|---|---|--------
@@ -40,16 +42,14 @@ Level|Proficiency Bonus|Creations Known|Macabre Enchantments|Cantrips Known|1st|
 19th |+6|7|5|5|4|3|3|3|2|1|1|Ability Score Improvement
 20th |+6|7|5|5|4|3|3|3|2|1|1|[Amaranthine Shroud](#amaranthine-shroud)
 
-As a pale master, you gain the following class features.
-
-## Hit Points
+### Hit Points
 **Hit Dice**: 1d8 per pale master level
 
 **Hit Points at 1st Level**: 8 + your Constitution modifier
 
 **Hit Points at Higher Levels**: 1d8 (or 5) + your Constitution modifier per pale master level after 1st
 
-## Proficiencies
+### Proficiencies
 **Armor**: light armor
 
 **Weapons**: Daggers, light hammers, sickles, quarterstaffs
@@ -60,7 +60,7 @@ As a pale master, you gain the following class features.
 
 **Skills**: Choose two from Arcana, Deception, History, Intimidation, Investigation, Religion, and Stealth
 
-## Equipment
+### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) a sickle or (b) a quarterstaff
 * (a) a component pouch or (b) an arcane focus
@@ -250,7 +250,7 @@ Pale master spells are a mix of the arcane, the divine, and the necrotic. Howeve
 * [arms of hadar](https://www.dndbeyond.com/spells/arms-of-hadar)
 * [bane](https://www.dndbeyond.com/spells/bane)
 * Bone Storm (GG)
-* [cause fear](https://www.dndbeyond.com/spells/cause-fear)
+* [cause fear](/Magic/Spells/cause-fear.md)
 * Creeping Crawling Claw (GG)
 * Cursed with Undeath (GG)
 * Death's Grasp (GG)
@@ -376,7 +376,7 @@ Pale master spells are a mix of the arcane, the divine, and the necrotic. Howeve
 * Vampiric Aura (GG)
 
 ## 8th Level
-* Abi-Dalzim’s Horrid Wilting
+* [Abi-Dalzim’s horrid wilting](/Magic/Spells/abi-dalzims-horrid-wilting.md)
 * Armament of Irritants (GG)
 * Ascendancy of Vecna (GG)
 * Chalice of the Night (GG)

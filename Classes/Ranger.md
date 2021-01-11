@@ -250,11 +250,11 @@ The following spells listed are known (but not necessarily accessible, depending
 Rangers can, at the discretion of the DM, learn spells from other druids or rangers, but generally this requires some exchange, usually a deed done on behalf of the spell's source.
 
 ## 1st Level
-* [absorb elements](https://www.dndbeyond.com/spells/absorb-elements)
+* [absorb elements](/Magic/Spells/absorb-elements.md)
 * [alarm](https://www.dndbeyond.com/spells/alarm)
 * [animal friendship](https://www.dndbeyond.com/spells/animal-friendship)
 * [attract projectiles](/Magic/Spells/attract-projectiles.md)
-* [beast bond](https://www.dndbeyond.com/spells/beast-bond)
+* [beast bond](/Magic/Spells/beast-bond.md)
 * [blackout](/Magic/Spells/blackout.md)
 * [cure wounds](https://www.dndbeyond.com/spells/cure-wounds)
 * [detect magic](https://www.dndbeyond.com/spells/detect-magic)

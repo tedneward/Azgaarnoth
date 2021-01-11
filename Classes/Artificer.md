@@ -261,7 +261,7 @@ The homunculus is friendly to you and your companions, and it obeys your command
 
 In combat, the homunculus shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the homunculus can take any action of its choice, not just Dodge.
 
-The homunculus regains 2d6 hit points if the mending spell is cast on it. If you or the homunculus dies, it vanishes, leaving its heart in its space. 
+The homunculus regains 2d6 hit points if the [mending]() spell is cast on it. If you or the homunculus dies, it vanishes, leaving its heart in its space. 
 
 #### Mind Sharpener
 *Item: A suit of armor or robes*
@@ -390,7 +390,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [acid splash](https://www.dndbeyond.com/spells/acid-splash)
 * [balance](/Magic/Spells/balance.md)
 * [bolster](/Magic/Spells/bolster.md)
-* [create bonfire](https://www.dndbeyond.com/spells/create-bonfire)
+* [create bonfire](/Magic/Spells/create-bonfire.md)
 * [dancing lights](https://www.dndbeyond.com/spells/dancing-lights)
 * [fire bolt](https://www.dndbeyond.com/spells/fire-bolt)
 * [frostbite](https://www.dndbeyond.com/spells/frostbite)
@@ -412,12 +412,12 @@ The following spells listed are available (but not necessarily accessible) to al
 
 
 ## 1st Level
-* [absorb elements](https://www.dndbeyond.com/spells/absorb-elements)
+* [absorb elements](/Magic/Spells/absorb-elements.md)
 * [alarm](https://www.dndbeyond.com/spells/alarm) (ritual)
 * [arcane weapon](/Magic/Spells/arcane-weapon.md)
 * [attract projectiles](/Magic/Spells/attract-projectiles.md)
 * [blackout](/Magic/Spells/blackout.md)
-* [catapult](https://www.dndbeyond.com/spells/catapult)
+* [catapult](/Magic/Spells/catapult.md)
 * [cure wounds](https://www.dndbeyond.com/spells/cure-wounds)
 * [detect magic](https://www.dndbeyond.com/spells/detect-magic) (ritual)
 * [disguise self](https://www.dndbeyond.com/spells/disguise-self)
@@ -465,7 +465,7 @@ The following spells listed are available (but not necessarily accessible) to al
 
 ## 3rd Level
 * Blink
-* Catnap
+* [catnap](/Magic/Spells/catnap.md)
 * Create Food and Water
 * [disguise other](/Magic/Spells/disguise-other.md)
 * Dispel Magic

@@ -7,7 +7,7 @@ Cleric Level|Spells
 1st|Charm Person, Command
 3rd|Enthrall, Locate Object
 5th|Excite Emotions (new), Vampiric Touch
-7th|Charm Monster (XCE), Compulsion
+7th|[charm monster](/Magic/Spells/charm-monster.md), Compulsion
 9th|Dominate Person, geas
 
 ## Honeyed Words

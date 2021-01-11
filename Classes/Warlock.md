@@ -456,7 +456,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * [bolster](/Magic/Spells/bolster.md)
 * [booming blade](https://www.dndbeyond.com/spells/booming-blade)
 * [chill touch](https://www.dndbeyond.com/spells/chill-touch)
-* [create bonfire](https://www.dndbeyond.com/spells/create-bonfire)
+* [create bonfire](/Magic/Spells/create-bonfire.md)
 * [eldritch blast](https://www.dndbeyond.com/spells/eldritch-blast)
 * [friends](https://www.dndbeyond.com/spells/friends)
 * [frostbite](https://www.dndbeyond.com/spells/frostbite)
@@ -481,7 +481,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * [arms of hadar](https://www.dndbeyond.com/spells/arms-of-hadar)
 * [blackout](/Magic/Spells/blackout.md)
 * [blood reading](/Magic/Spells/blood-reading.md)
-* [cause fear](https://www.dndbeyond.com/spells/cause-fear)
+* [cause fear](/Magic/Spells/cause-fear.md)
 * [charm person](https://www.dndbeyond.com/spells/charm-person)
 * [comprehend languages](https://www.dndbeyond.com/spells/comprehend-languages)
 * [delude](/Magic/Spells/delude.md)
@@ -549,6 +549,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 ## 4th Level
 * Banishment
 * Blight
+* [charm monster](/Magic/Spells/charm-monster.md)
 * Dimension Door
 * Ego Whip (UA)
 * Elemental Bane
@@ -578,7 +579,6 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * Arcane Gate
 * Circle of Death
 * Conjure Fey
-* create homunculus
 * Create Undead
 * Eyebite
 * Flesh to Stone
@@ -596,6 +596,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * True Seeing
 
 ## 7th Level
+* [crown of stars](/Magic/Spells/crown-of-stars.md)
 * [death's door](/Magic/Spells/deaths-door.md)
 * [dire jinx](/Magic/Spells/dire-jinx.md)
 * Etherealness

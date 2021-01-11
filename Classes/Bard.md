@@ -190,7 +190,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [attract projectiles](/Magic/Spells/attract-projectiles.md)
 * [bane](https://www.dndbeyond.com/spells/bane)
 * [blackout](/Magic/Spells/blackout.md)
-* [cause fear](https://www.dndbeyond.com/spells/cause-fear)
+* [cause fear](/Magic/Spells/cause-fear.md)
 * [charm person](https://www.dndbeyond.com/spells/charm-person)
 * [color spray](https://www.dndbeyond.com/spells/color-spray)
 * [command](https://www.dndbeyond.com/spells/command)
@@ -284,6 +284,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [veiled blade](/Magic/Spells/veiled-blade.md)
 
 ## 4th Level
+* [charm monster](/Magic/Spells/charm-monster.md)
 * Compulsion
 * Confusion
 * [detect curses](/Magic/Spells/detect-curses.md)

@@ -191,8 +191,8 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [bolster](/Magic/Spells/bolster.md)
 * [booming blade](https://www.dndbeyond.com/spells/booming-blade)
 * [chill touch](https://www.dndbeyond.com/spells/chill-touch)
-* [control flames](https://www.dndbeyond.com/spells/control-flames)
-* [create bonfire](https://www.dndbeyond.com/spells/create-bonfire)
+* [control flames](/Magic/Spells/control-flames.md)
+* [create bonfire](/Magic/Spells/create-bonfire.md)
 * [dancing lights](https://www.dndbeyond.com/spells/dancing-lights)
 * [encode thoughts](https://www.dndbeyond.com/spells/encode-thoughts)
 * [fire bolt](https://www.dndbeyond.com/spells/fire-bolt)
@@ -223,14 +223,14 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [true strike](https://www.dndbeyond.com/spells/true-strike)
 
 ## 1st Level
-* [absorb elements](https://www.dndbeyond.com/spells/absorb-elements)
+* [absorb elements](/Magic/Spells/absorb-elements.md)
 * [acid stream](https://www.dndbeyond.com/spells/acid-stream)
 * [alarm](https://www.dndbeyond.com/spells/alarm)
 * [blackout](/Magic/Spells/blackout.md)
 * [blood reading](/Magic/Spells/blood-reading.md)
 * [burning hands](https://www.dndbeyond.com/spells/burning-hands)
-* [catapult](https://www.dndbeyond.com/spells/catapult)
-* [cause fear](https://www.dndbeyond.com/spells/cause-fear)
+* [catapult](/Magic/Spells/catapult.md)
+* [cause fear](/Magic/Spells/cause-fear.md)
 * [charm person](https://www.dndbeyond.com/spells/charm-person)
 * [chromatic orb](https://www.dndbeyond.com/spells/chromatic-orb)
 * [color spray](https://www.dndbeyond.com/spells/color-spray)
@@ -277,7 +277,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [wristpocket](https://www.dndbeyond.com/spells/wristpocket)
 
 ## 2nd Level
-* [aganazzar's scorcher](https://www.dndbeyond.com/spells/aganazzars-scorcher)
+* [aganazzar's scorcher](/Magic/Spells/aganazzars-scorcher.md)
 * [alter self](https://www.dndbeyond.com/spells/alter-self)
 * [arcane lock](https://www.dndbeyond.com/spells/arcane-lock)
 * [augury](https://www.dndbeyond.com/spells/augury)
@@ -392,6 +392,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Arcane Eye
 * Banishment
 * Blight
+* [charm monster](/Magic/Spells/charm-monster.md)
 * Confusion
 * Conjure Barlgura
 * Conjure Minor Elementals
@@ -447,7 +448,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Conjure Elemental
 * Conjure Vrock
 * Contact Other Plane
-* Control Winds
+* [control winds](/Magic/Spells/control-winds.md)
 * Creation
 * Dominate Person
 * Dream
@@ -481,6 +482,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Chain Lightning
 * Circle of Death
 * Contingency
+* [create homunculus](/Magic/Spells/create-homunculus.md)
 * Create Undead
 * Disintegrate
 * Drawmij's Instant Summons
@@ -513,6 +515,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 ## 7th Level
 * [Beluud's bile blossom](/Magic/Spells/beluuds-bile-blossom.md)
 * Conjure Hezrou
+* [crown of stars](/Magic/Spells/crown-of-stars.md)
 * [death's door](/Magic/Spells/deaths-door.md)
 * Delayed Blast Fireball
 * [dire jinx](/Magic/Spells/dire-jinx.md)
@@ -537,7 +540,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Whirlwind
 
 ## 8th Level
-* Abi-Dalzim's Horrid Wilting
+* [Abi-Dalzim's horrid wilting](/Magic/Spells/abi-dalzims-horrid-wilting.md)
 * Antimagic Field
 * Antipathy/Sympathy
 * Clone

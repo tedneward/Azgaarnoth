@@ -3,7 +3,7 @@
 **Fertility Domain Spells**
 Cleric Level|Spells
 ------------|------
-1st|ceremony, charm person
+1st|[ceremony](/Magic/Spells/ceremony.md), charm person
 3rd|calm emotions, warding bond
 5th|aura of vitality, beacon of hope
 7th|aura of life, aura of purity

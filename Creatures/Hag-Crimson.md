@@ -20,7 +20,7 @@ Innate Spellcasting. The hag's innate spellcasting ability
 is Charisma (spell save DC 13, +5 to hit with spell
 attacks). She can innately cast the following spells,
 requiring no material components:
-At will: burning hands, control flames, produce flame
+At will: burning hands, [control flames](/Magic/Spells/control-flames.md), produce flame
 (see "Actions" below)
 2/day each: disguise self, fog cloud, pyrokinesis (new)
 1 /day each: crown of madness, heat metal, stinking

@@ -73,8 +73,8 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 
 #### 1st Level
 * alarm (ritual)
-* catapult (Xanathar’s Guide)
-* cause fear (Xanathar’s Guide)
+* [catapult](/Magic/Spells/catapult.md)
+* [cause fear](/Magic/Spells/cause-fear.md)
 * charm person
 * comprehend languages (ritual) 
 * disguise self
@@ -107,7 +107,7 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 
 #### 3rd Level
 * blink
-* catnap (Xanathar’s Guide) 
+* [catnap](/Magic/Spells/catnap.md)
 * clairvoyance
 * enemies abound (Xanathar’s Guide) 
 * fear
@@ -121,7 +121,7 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 
 #### 4th Level
 * arcane eye
-* charm monster (Xanathar’s Guide) 
+* [charm monster](/Magic/Spells/charm-monster.md) 
 * confusion
 * dimension door
 * ego whip*
@@ -190,5 +190,3 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 * foresight
 * imprisonment
 * psychic scream (Xanathar’s Guide)
-
-*Source: [Unearthed Arcana: Fighter, Rogue, and Wizard](https://dnd.wizards.com/articles/unearthed-arcana/unearthed-arcana-fighter-rogue-and-wizard)*

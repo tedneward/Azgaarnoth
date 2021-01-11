@@ -48,7 +48,7 @@ The abomination’s creator, if within 60 feet of the berserk abomination, can t
 **Slam.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 
 ## Description
-An abomination, like a [Flesh abomination](abomination-Flesh.md), is a grisly assortment of humanoid body parts stitched and bolted together into a muscled brute imbued with formidable strength. Its brain is capable of simple reason, though its thoughts are no more sophisticated than those of a young child. The abomination’s muscle tissue is imbued with necrotic power, invigorating the creature with vitality and strength. Powerful enchantments protect the abomination’s skin, deflecting spells and all but the most potent weapons.
+An abomination, like a [Flesh golem](Golem-Flesh.md), is a grisly assortment of humanoid body parts stitched and bolted together into a muscled brute imbued with formidable strength. Its brain is capable of simple reason, though its thoughts are no more sophisticated than those of a young child. The abomination’s muscle tissue is imbued with necrotic power, invigorating the creature with vitality and strength. Powerful enchantments protect the abomination’s skin, deflecting spells and all but the most potent weapons.
 
 An abomination lurches with a stiff-jointed gait, as if not in complete control of its body. Its undead binding isn't always perfect, which causes the abomination to sometimes howl incoherently to vent its outrage. If the spirit breaks free of its creator’s will, the abomination goes berserk until calmed, or until its shell of flesh is destroyed or completely healed.
 

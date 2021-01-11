@@ -22,7 +22,7 @@ At will: dancing lights, disguise self, gust of wind,
 minor illusion, thunderwave
 3/day each: charm person, cyclone (new), wind funnel
 (new), wind wall
-l /day each: control winds
+l /day each: [control winds](/Magic/Spells/control-winds.md)
 See Invisibility. The hag can see invisible creatures and
 objects as if they were visible, and she can see into the
 Ethereal Plane. Ethereal creatures and objects appear
