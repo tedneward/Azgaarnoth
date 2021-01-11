@@ -1,7 +1,8 @@
 # Monk
 Monks are united in their ability to magically harness the energy that flows in their bodies. Whether channeled as a striking display of combat prowess or a subtler focus of defensive ability and speed, this energy infuses all that a monk does.
 
-*You must have a Dexterity score and a Wisdom score of 13 or higher in order to multiclass in or out of this class.*
+## Class Features
+As a monk, you gain the following class features.
 
 Level|Proficiency Bonus|Martial Arts|Ki Points|Unarmored Movement|Features
 -----|-----------------|------------|---------|------------------|--------
@@ -26,16 +27,14 @@ Level|Proficiency Bonus|Martial Arts|Ki Points|Unarmored Movement|Features
 19th |+6               |1d10        |19       |+30 ft.|Ability Score Improvement
 20th |+6               |1d10        |20       |+30 ft.|[Perfect Self](#perfect-self)
 
-As a monk, you gain the following class features.
-
-## Hit Points
+### Hit Points
 **Hit Dice**: 1d8 per monk level
 
 **Hit Points at 1st Level**: 8 + your Constitution modifier
 
 **Hit Points at Higher Levels**: 1d8 (or 5) + your Constitution modifier per monk level after 1st
 
-## Proficiencies
+### Proficiencies
 **Armor**: None
 
 **Weapons**: Simple weapons, shortswords
@@ -46,7 +45,7 @@ As a monk, you gain the following class features.
 
 **Skills**: Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
 
-## Equipment
+### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) a shortsword or (b) any simple weapon
 * (a) a dungeoneer's pack or (b) an explorer's pack
@@ -119,6 +118,7 @@ If you spend 1 ki point or more as part of your action on your turn, you can mak
 You commit yourself to a monastic tradition:
 * [Ascendant Dragon](Monk/AscendantDragon.md)
 * [Astral Self](Monk/AstralSelf.md)
+* [Binding Force](Monk/Force.md)
 * [Dragon](Monk/Dragon.md)
 * [Drunken Master](Monk/DrunkenMaster.md)
 * [Four Elements](Monk/FourElements.md)
@@ -130,6 +130,7 @@ You commit yourself to a monastic tradition:
 * [Soul Knife](Monk/SoulKnife.md)
 * [Sun Soul](Monk/SunSoul.md)
 * [Tranquility](Monk/Tranquility.md)
+* [Weave](Monk/Weave.md)
 
 Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.
 

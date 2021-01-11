@@ -196,6 +196,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [command](https://www.dndbeyond.com/spells/command)
 * [comprehend languages](https://www.dndbeyond.com/spells/comprehend-languages)
 * [cure wounds](https://www.dndbeyond.com/spells/cure-wounds)
+* [delude](/Magic/Spells/delude.md)
 * [detect magic](https://www.dndbeyond.com/spells/detect-magic)
 * [disguise self](https://www.dndbeyond.com/spells/disguise-self)
 * [dissonant whispers](https://www.dndbeyond.com/spells/dissonant-whispers)
@@ -254,6 +255,7 @@ The following spells listed are available (but not necessarily accessible) to al
 ## 3rd Level
 * Bestow Curse
 * Clairvoyance
+* [disguise other](/Magic/Spells/disguise-other.md)
 * Dispel Magic
 * Enemies Abound
 * Fear
@@ -261,11 +263,13 @@ The following spells listed are available (but not necessarily accessible) to al
 * Glyph of Warding
 * [healing wave](/Magic/Spells/healing-wave.md)
 * Hypnotic Pattern
+* [incite self-harm](/Magic/Spells/incite-self-harm.md)
 * intellect fortress
 * Leomund's Tiny Hut
 * Major Image
 * Mass Healing Word
 * [mass shield](/Magic/Spells/mass-shield.md)
+* [mirror weapon](/Magic/Spells/mirror-weapon.md)
 * Nondetection
 * Plant Growth
 * [relocate](/Magic/Spells/relocate.md)
@@ -277,6 +281,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * Summon Fey Spirit
 * Tiny Servant
 * Tongues
+* [veiled blade](/Magic/Spells/veiled-blade.md)
 
 ## 4th Level
 * Compulsion
@@ -287,9 +292,12 @@ The following spells listed are available (but not necessarily accessible) to al
 * Greater Invisibility
 * [greater renewal](/Magic/Spells/greater-renewal.md)
 * Hallucinatory Terrain
+* [hoodwink](/Magic/Spells/hoodwink.md)
+* [jinx](/Magic/Spells/jinx.md)
 * Locate Creature
 * Phantasmal Killer
 * Polymorph
+* [strangulate](/Magic/Spells/strangulate.md)
 * [twist fate](/Magic/Spells/twist-fate.md)
 
 ## 5th Level
@@ -306,6 +314,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * Mass Cure Wounds
 * Mislead
 * Modify Memory
+* [phantasmal plunge](/Magic/Spells/phantasmal-plunge.md)
 * Planar Binding
 * Raise Dead
 * Rary's telepathic bond (ritual)
@@ -330,6 +339,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [zone of restoration](/Magic/Spells/zone-of-restoration.md)
 
 ## 7th Level
+* [dire jinx](/Magic/Spells/dire-jinx.md)
 * dream of the blue veil
 * Etherealness
 * Forcecage
@@ -341,6 +351,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * Project Image
 * Regenerate
 * Resurrection
+* [sift memory](/Magic/Spells/sift-memory.md)
 * Symbol
 * Teleport
 
@@ -354,6 +365,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * Power Word: Stun
 
 ## 9th Level
+* [amnesia](/Magic/Spells/amnesia.md)
 * Foresight
 * [omnisight](/Magic/Spells/omnisight.md)
 * Power Word: Heal

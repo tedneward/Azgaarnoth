@@ -1,5 +1,5 @@
 # Paladin
-Whether sworn before a god's altar and the witness of a priest, in a sacred glade before nature spirits and fey beings, or in a moment of desperation and grief with the dead as the only witness, a paladin's oath is a powerful bond. Paladins are often champions of [Pantheonic gods](/Religions/Pantheon.md), the [Kaevarian Church](/Religions/KaevarianChurch.md), and many have found a home inside one of the [Orders of the Dragon](/Organizations/DraconicOrder/DraconicOrder.md).
+Whether sworn before a god's altar and the witness of a priest, in a sacred glade before nature spirits and fey beings, or in a moment of desperation and grief with the dead as the only witness, a paladin's oath is a powerful bond. Paladins are often champions of [Pantheonic gods](/Religions/Pantheon.md), the [Kaevarian Church](/Religions/KaevarianChurch.md), and many have found a home inside one of the [Orders of the Dragon](/Organizations/DraconicOrder/DraconicOrder.md). Others are sworn to a calling, or to themselves, bound to a purpose that a rare few can understand. Not all paladins serve purity and light--some see darkness as the only true salvation, or have simply embraced the darkness within. What is true of all paladins is their zeal and devotion to their cause, whatever it may be.
 
 *You must have a Charisma score and a Strength score of 13 or higher in order to multiclass in or out of this class.*
 
@@ -56,7 +56,7 @@ You start with the following equipment, in addition to the equipment granted by 
 ## Divine Sense
 *1st-level paladin feature*
 
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the Hallow spell.
+The presence of strong ethos (evil or good) registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the Hallow spell.
 
 You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
@@ -84,7 +84,7 @@ Whenever you gain a level, you can replace a fighting style you know with anothe
 ## Spellcasting
 *2nd-level paladin feature*
 
-By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does.
+You have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does.
 
 ### Preparing and Casting Spells
 The Paladin table shows how many spell slots you have to cast your spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
@@ -194,6 +194,8 @@ You can use your action to end one spell on yourself or on one willing creature 
 
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.
 
+---
+
 # Paladin Spells
 The following spells listed are known (but not necessarily accessible, depending on the domain chosen) to all paladins throughout Azgaarnoth; this is not the complete list of all paladin spells, however. Certain oaths may have additional spells that are only known to their members. Paladins can learn new spells by visiting foreign orders, uncovering new oath books in ancient ruins, and so on. (In other words, DM's choice about adding new paladin spells to the "known" list for a paladin, and the paladin may need to do some in-game activity or adventure to obtain them.)
 
@@ -222,6 +224,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * [branding smite](https://www.dndbeyond.com/spells/branding-smite)
 * [find steed](https://www.dndbeyond.com/spells/find-steed)
 * [gentle repose](https://www.dndbeyond.com/spells/gentle-repose)
+* [infuse blood](/Magic/Spells/infuse-blood.md)
 * [lesser restoration](https://www.dndbeyond.com/spells/lesser-restoration)
 * [locate object](https://www.dndbeyond.com/spells/locate-object)
 * [magic weapon](https://www.dndbeyond.com/spells/magic-weapon)
@@ -257,6 +260,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * [enhance body](/Magic/Spells/enhance-body.md)
 * Locate Creature
 * Staggering Smite
+* [strangulate](/Magic/Spells/strangulate.md)
 
 ## 5th Level
 * Banishing Smite

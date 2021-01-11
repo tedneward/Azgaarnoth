@@ -146,6 +146,7 @@ Choose one domain:
 * [Protection](Cleric/Protection.md)
 * [Shadow](Cleric/Shadow.md)
 * [Tempest](Cleric/Tempest.md)
+* [Time](Cleric/Time.md)
 * [Trickery](Cleric/Trickery.md)
 * [Twilight](Cleric/Twilight.md)
 * [Unity](Cleric/Unity.md)
@@ -233,6 +234,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [bane](https://www.dndbeyond.com/spells/bane)
 * [blackout](/Magic/Spells/blackout.md)
 * [bless](https://www.dndbeyond.com/spells/bless)
+* [blood reading](/Magic/Spells/blood-reading.md)
 * [cause fear](https://www.dndbeyond.com/spells/cause-fear)
 * [command](https://www.dndbeyond.com/spells/command)
 * [create or destroy water](https://www.dndbeyond.com/spells/create-or-destroy-water)
@@ -264,6 +266,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [find traps](https://www.dndbeyond.com/spells/find-traps)
 * [gentle repose](https://www.dndbeyond.com/spells/gentle-repose)
 * [hold person](https://www.dndbeyond.com/spells/hold-person)
+* [infuse blood](/Magic/Spells/infuse-blood.md)
 * [lesser restoration](https://www.dndbeyond.com/spells/lesser-restoration)
 * [locate object](https://www.dndbeyond.com/spells/locate-object)
 * [prayer of healing](https://www.dndbeyond.com/spells/prayer-of-healing)
@@ -313,8 +316,11 @@ The following spells listed are available (but not necessarily accessible) to al
 * Freedom of Movement
 * [greater renewal](/Magic/Spells/greater-renewal.md)
 * Guardian of Faith
+* [hemorrhage](/Magic/Spells/hemorrhage.md)
+* [jinx](/Magic/Spells/jinx.md)
 * Locate Creature
 * Stone Shape
+* [strangulate](/Magic/Spells/strangulate.md)
 
 ## 5th Level
 * [blessing of luck](/Magic/Spells/blessing-of-luck.md)
@@ -347,6 +353,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * Heroes' Feast
 * Otherworldly Form (UA)
 * Planar Ally
+* [soul blade](/Magic/Spells/soul-blade.md)
 * sunbeam
 * True Seeing
 * Word of Recall
@@ -354,6 +361,8 @@ The following spells listed are available (but not necessarily accessible) to al
 
 ## 7th Level
 * Conjure Celestial
+* [death's door](/Magic/Spells/deaths-door.md)
+* [dire jinx](/Magic/Spells/dire-jinx.md)
 * Divine Word
 * Etherealness
 * Fire Storm
@@ -367,13 +376,17 @@ The following spells listed are available (but not necessarily accessible) to al
 * Control Weather
 * Earthquake
 * Holy Aura
+* [soul expulsion](/Magic/Spells/soul-expulsion.md)
 * sunburst
+* [vertigo](/Magic/Spells/vertigo.md)
 
 ## 9th Level
 * Astral Projection
+* [frailty](/Magic/Spells/frailty.md)
 * Gate
 * Mass Heal
 * [omnisight](/Magic/Spells/omnisight.md)
 * Power Word: Heal
+* [raise abomination](/Magic/Spells/raise-abomination.md)
 * True Resurrection
 

@@ -8,9 +8,9 @@ Cleric Level|Spells
 ------------|------
 lst|Dissonant Whispers, Tasha's Hideous Laughter
 3rd|Crown of Madness, Phantasmal Force
-5th|Fear, Incite Self-Harm (new)
+5th|Fear, [incite self-harm](/Magic/Spells/incite-self-harm.md)
 7th|Phantasmal Killer, Staggering Smite
-9th|Modify Memory, Phantasmal Plunge (new)
+9th|Modify Memory, [phantasmal plunge](/Magic/Spells/phantasmal-plunge.md)
 
 
 BONUS CANTRIP

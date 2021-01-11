@@ -187,6 +187,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [acid splash](https://www.dndbeyond.com/spells/acid-splash)
 * [balance](/Magic/Spells/balance.md)
 * [blade ward](https://www.dndbeyond.com/spells/blade-ward)
+* [blood boil](/Magic/Spells/blood-boil.md)
 * [bolster](/Magic/Spells/bolster.md)
 * [booming blade](https://www.dndbeyond.com/spells/booming-blade)
 * [chill touch](https://www.dndbeyond.com/spells/chill-touch)
@@ -197,8 +198,10 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [fire bolt](https://www.dndbeyond.com/spells/fire-bolt)
 * [friends](https://www.dndbeyond.com/spells/friends)
 * [frostbite](https://www.dndbeyond.com/spells/frostbite)
+* [gore spike](/Magic/Spells/gore-spike.md)
 * [green flame blade](https://www.dndbeyond.com/spells/green-flame-blade)
 * [gust](https://www.dndbeyond.com/spells/gust)
+* [hemokinesis](/Magic/Spells/hemokinesis.md)
 * [infestation](https://www.dndbeyond.com/spells/infestation)
 * [light](https://www.dndbeyond.com/spells/light)
 * [lightning lure](https://www.dndbeyond.com/spells/lightning-lure)
@@ -224,6 +227,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [acid stream](https://www.dndbeyond.com/spells/acid-stream)
 * [alarm](https://www.dndbeyond.com/spells/alarm)
 * [blackout](/Magic/Spells/blackout.md)
+* [blood reading](/Magic/Spells/blood-reading.md)
 * [burning hands](https://www.dndbeyond.com/spells/burning-hands)
 * [catapult](https://www.dndbeyond.com/spells/catapult)
 * [cause fear](https://www.dndbeyond.com/spells/cause-fear)
@@ -231,6 +235,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [chromatic orb](https://www.dndbeyond.com/spells/chromatic-orb)
 * [color spray](https://www.dndbeyond.com/spells/color-spray)
 * [comprehend languages](https://www.dndbeyond.com/spells/comprehend-languages)
+* [delude](/Magic/Spells/delude.md)
 * [detect magic](https://www.dndbeyond.com/spells/detect-magic)
 * [disguise self](https://www.dndbeyond.com/spells/disguise-self)
 * [earth tremor](https://www.dndbeyond.com/spells/earth-tremo)
@@ -279,6 +284,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [Beluud's brutal jaunt](/Magic/Spells/beluuds-brutal-jaunt.md)
 * [blindness/deafness](https://www.dndbeyond.com/spells/blindness-deafness)
 * [blur](https://www.dndbeyond.com/spells/blur)
+* [carnage blast](/Magic/Spells/carnage-blast.md)
 * [cloud of daggers](https://www.dndbeyond.com/spells/cloud-of-daggers)
 * [continual flame](https://www.dndbeyond.com/spells/continual-flame)
 * [crown of madness](https://www.dndbeyond.com/spells/crown-of-madness)
@@ -298,9 +304,11 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [gust of wind](https://www.dndbeyond.com/spells/gust-of-wind)
 * [hold person](https://www.dndbeyond.com/spells/hold-person)
 * [ice sculpture](/Magic/Spells/ice-sculpture.md)
+* [infuse blood](/Magic/Spells/infuse-blood.md)
 * [invisibility](https://www.dndbeyond.com/spells/invisibility)
 * [knock](https://www.dndbeyond.com/spells/knock)
 * [levitate](https://www.dndbeyond.com/spells/levitate)
+* [living bomb](/Magic/Spells/living-bomb.md)
 * [locate object](https://www.dndbeyond.com/spells/locate-object)
 * [magic mouth](https://www.dndbeyond.com/spells/magic-mouth) (ritual)
 * [magic weapon](https://www.dndbeyond.com/spells/magic-weapon)
@@ -329,9 +337,11 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * animate dead
 * bestow curse
 * blink
+* [blood extraction](/Magic/Spells/blood-extraction.md)
 * clairvoyance
 * conjure lesser demons
 * counterspell
+* [disguise other](/Magic/Spells/disguise-other.md)
 * dispel magic
 * enemies abound
 * erupting earth
@@ -345,16 +355,19 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * glyph of warding
 * haste
 * hypnotic pattern
+* [incite self-harm](/Magic/Spells/incite-self-harm.md)
 * leomund's tiny hut
 * lightning bolt
 * magic circle
 * major image
 * [mass shield](/Magic/Spells/mass-shield.md)
 * melf's minute meteors
+* [mirror weapon](/Magic/Spells/mirror-weapon.md)
 * nondetection
 * phantom steed
 * protection from energy
 * psionic blast
+* [ray of fatigue](/Magic/Spells/ray-of-fatigue.md)
 * [relocate](/Magic/Spells/relocate.md)
 * remove curse
 * sending
@@ -368,7 +381,9 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * summon undead spirit (UA)
 * tidal wave
 * tongues
+* [toxic breath](/Magic/Spells/toxic-breath.md)
 * vampiric touch
+* [veiled blade](/Magic/Spells/veiled-blade.md)
 * wall of sand
 * wall of water
 * water breathing
@@ -388,6 +403,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Ego Whip (UA)
 * Elemental Bane
 * [enhance body](/Magic/Spells/enhance-body.md)
+* [envenomed weapon](/Magic/Spells/envenomed-weapon.md)
 * Evard's Black Tentacles
 * Fabricate
 * Fire Shield
@@ -396,7 +412,10 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [gravelslide](/Magic/Spells/gravelslide.md)
 * Greater Invisibility
 * Hallucinatory Terrain
+* [hemorrhage](/Magic/Spells/hemorrhage.md)
+* [hoodwink](/Magic/Spells/hoodwink.md)
 * Ice Storm
+* [jinx](/Magic/Spells/jinx.md)
 * Leomund's Secret Chest
 * Locate Creature
 * Mordenkainen's Faithful Hound
@@ -408,6 +427,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Stone Shape
 * Stoneskin
 * Storm Sphere
+* [strangulate](/Magic/Spells/strangulate.md)
 * Summon Abberant Spirit (UA)
 * Summon Elemental Spirit (UA)
 * [twist fate](/Magic/Spells/twist-fate.md)
@@ -440,6 +460,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Modify Memory
 * [molten upheaval](/Magic/Spells/molten-upheaval.md)
 * Passwall
+* [phantasmal plunge](/Magic/Spells/phantasmal-plunge.md)
 * Planar Binding
 * Rary's Telepathic Bond
 * [reverse projectiles](/Magic/Spells/reverse-projectiles.md)
@@ -483,6 +504,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Programmed Illusion
 * Psychic Crush (UA)
 * [seismic jaws](/Magic/Spells/seismic-jaws.md)
+* [soul blade](/Magic/Spells/soul-blade.md)
 * Sunbeam
 * Summon Fiendish Spirit (UA)
 * True Seeing
@@ -491,7 +513,9 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 ## 7th Level
 * [Beluud's bile blossom](/Magic/Spells/beluuds-bile-blossom.md)
 * Conjure Hezrou
+* [death's door](/Magic/Spells/deaths-door.md)
 * Delayed Blast Fireball
+* [dire jinx](/Magic/Spells/dire-jinx.md)
 * Etherealness
 * Finger of Death
 * Forcecage
@@ -505,6 +529,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Project Image
 * Reverse Gravity
 * Sequester
+* [sift memory](/Magic/Spells/sift-memory.md)
 * Simulacrum
 * Symbol
 * Teleport
@@ -526,21 +551,28 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Maze
 * Mind Blank
 * Power Word: Stun
+* [soul expulsion](/Magic/Spells/soul-expulsion.md)
 * Sunburst
 * Telepathy
+* [vertigo](/Magic/Spells/vertigo.md)
 * [wall of lava](/Magic/Spells/wall-of-lava.md)
 
 ## 9th Level
+* [amnesia](/Magic/Spells/amnesia.md)
 * Astral Projection
 * [blood to flame](/Magic/Spells/blood-to-flame.md)
 * [caldera](/Magic/Spells/caldera.md)
 * Foresight
+* [frailty](/Magic/Spells/frailty.md)
 * Gate
+* [gravity well](/Magic/Spells/gravity-well.md)
+* [grevious star](/Magic/Spells/gravity-well.md)
 * Imprisonment
 * Meteor Swarm
 * [omnisight](/Magic/Spells/omnisight.md)
 * Power Word: Kill
 * Prismatic Wall
+* [raise abomination](/Magic/Spells/raise-abomination.md)
 * Shapechange
 * Time Stop
 * True Polymorph

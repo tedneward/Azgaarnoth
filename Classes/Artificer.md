@@ -449,6 +449,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [enlarge/reduce](https://www.dndbeyond.com/spells/enlarge-reduce)
 * [heat metal](https://www.dndbeyond.com/spells/heat-metal)
 * [ice sculpture](/Magic/Spells/ice-sculpture.md)
+* [infuse blood](/Magic/Spells/infuse-blood.md)
 * [invisibility](https://www.dndbeyond.com/spells/invisibility)
 * [lesser restoration](https://www.dndbeyond.com/spells/lesser-restoration)
 * [levitate](https://www.dndbeyond.com/spells/levitate)
@@ -466,6 +467,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * Blink
 * Catnap
 * Create Food and Water
+* [disguise other](/Magic/Spells/disguise-other.md)
 * Dispel Magic
 * Elemental Weapon
 * Fly
@@ -473,6 +475,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * Haste
 * [healing wave](/Magic/Spells/healing-wave.md)
 * [mass shield](/Magic/Spells/mass-shield.md)
+* [mirror weapon](/Magic/Spells/mirror-weapon.md)
 * Protection from Energy
 * [relocate](/Magic/Spells/relocate.md)
 * Revivify
@@ -483,9 +486,11 @@ The following spells listed are available (but not necessarily accessible) to al
 * Arcane Eye
 * Elemental Bane
 * [enhance body](/Magic/Spells/enhance-body.md)
+* [envenomed weapon](/Magic/Spells/envenomed-weapon.md)
 * Fabricate
 * Freedom of Movement
 * [greater renewal](/Magic/Spells/greater-renewal.md)
+* [hoodwink](/Magic/Spells/hoodwink.md)
 * Leomund's Secret Chest
 * Mordenkainen's Faithful Hound
 * Mordenkainen's Private Sanctum

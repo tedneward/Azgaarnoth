@@ -1,40 +1,39 @@
 # Barbarian
 
-*You must have a Strength score of 13 or higher in order to multiclass in or out of this class.*
-
-Level |	Proficiency Bonus |	Features	| Rages | Rage Damage
------ | ----------------- | --------- | ----- | -----------
-1st |+2	|Rage, Unarmored Defense |2	|+2
-2nd	|+2	|Reckless Attack, Danger Sense |2|	+2
-3rd	|+2	|Primal Path	|3|	+2
-4th	|+2	|Ability Score Improvement	|3|	+2
-5th	|+3	|Extra Attack, Instinctive Pounce	|3|	+2
-6th	|+3	|Path feature	|4|	+2
-7th	|+3	|Feral Instinct	|4|	+2
-8th	|+3	|Ability Score Improvement	|4|	+2
-9th	|+4	|Brutal Critical (1 die)	|4|	+3
-10th |+4	|Path feature	|4|	+3
-11th |+4	|Relentless Rage	|4|	+3
-12th |+4	|Ability Score Improvement	|5|	+3
-13th |+5	|Brutal Critical (2 dice)	|5|	+3
-14th |+5	|Path feature	|5|	+3
-15th |+5	|Persistent Rage	|5|	+3
-16th |+5	|Ability Score Improvement	|5|	+4
-17th |+6	|Brutal Critical (3 dice)	|6|	+4
-18th |+6	|Indomitable Might	|6|	+4
-19th |+6	|Ability Score Improvement	|6|	+4
-20th |+6	|Primal Champion	|Unlimited|	+4
-
+## Class features
 As a barbarian, you gain the following class features.
 
-## Hit Points
+Level|Proficiency Bonus|Rages|Rage Damage|Features
+-----|-----------------|-----|-----------|--------
+1st  |+2|2|+2|[Rage](#rage), [Unarmored Defense](#unarmored-defense)
+2nd	 |+2|2|+2|[Reckless Attack](#reckless-attack), [Danger Sense](#danger-sense)
+3rd	 |+2|3|+2|[Primal Path](#primal-path)
+4th	 |+2|3|+2|Ability Score Improvement
+5th	 |+3|3|+2|[Extra Attack](#extra-attack), [Instinctive Pounce](#instinctive-pounce)
+6th	 |+3|4|+2|Path feature
+7th	 |+3|4|+2|[Feral Instinct](#feral-instinct)
+8th	 |+3|4|+2|Ability Score Improvement	
+9th	 |+4|4|+3|[Brutal Critical](#brutal-critical) (1 die)
+10th |+4|4|+3|Path feature
+11th |+4|4|+3|[Relentless Rage](#relentless-rage)
+12th |+4|5|+3|Ability Score Improvement	
+13th |+5|5|+3|[Brutal Critical](#brutal-critical) (2 dice)
+14th |+5|5|+3|Path feature
+15th |+5|5|+3|[Persistent Rage](#persistent-rage)
+16th |+5|5|+4|Ability Score Improvement	
+17th |+6|6|+4|[Brutal Critical](#brutal-critical) (3 dice)
+18th |+6|6|+4|[Indomitable Might](#indomitable-might)
+19th |+6|6|+4|Ability Score Improvement	
+20th |+6|Unlimited|+4|[Primal Champion](#primal-champion)
+
+### Hit Points
 **Hit Dice**: 1d12 per barbarian level
 
 **Hit Points at 1st Level**: 12 + your Constitution modifier
 
 **Hit Points at Higher Levels**: 1d12 (or 7) + your Constitution modifier per barbarian level after 1st
 
-## Proficiencies
+### Proficiencies
 **Armor**: Light armor, medium armor, shields
 
 **Weapons**: Simple weapons, martial weapons
@@ -45,13 +44,15 @@ As a barbarian, you gain the following class features.
 
 **Skills**: Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
 
-## Equipment
+### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) a greataxe or (b) any martial melee weapon
 * (a) two handaxes or (b) any simple weapon
 * An explorer's pack and four javelins
 
 ## Rage
+*1st-level barbarian feature*
+
 In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
 
 While raging, you gain the following benefits if you aren't wearing heavy armor:
@@ -67,6 +68,8 @@ Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if
 Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.
 
 ## Unarmored Defense
+*1st-level barbarian feature*
+
 While you are not wearing any armor, your armor class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
 
 ## Survival Instincts
@@ -84,18 +87,20 @@ You can throw aside all concern for defense to attack with fierce desperation. W
 ## Primal Knowledge
 *3rd-level optional barbarian feature*
 
-When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to barbarians at 1 st level.
+When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to barbarians at 1st level.
 
 ## Primal Path
 At 3rd level, you choose a path that shapes the nature of your rage:
 * [Ancestral Guardian](Barbarian/AncestralGuardian.md)
 * [Beast](Barbarian/Beast.md)
 * [Berserker](Barbarian/Berserker.md)
+* [Blood Drinker](Barbarian/BloodDrinker.md)
 * [Depths](Barbarian/Depths.md)
 * [Dragon](Barbarian/Dragon.md)
 * [Rage Mage](Barbarian/Rage.md)
 * [Storm Herald](Barbarian/StormHerald.md)
 * [Totem Warrior](Barbarian/TotemWarrior.md)
+* [Were-Beast](Barbarian/WereBeast.md)
 * [Wild Magic](Barbarian/WildMagic.md)
 * [Zealot](Barbarian/Zealot.md)
 

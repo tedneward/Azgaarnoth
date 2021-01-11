@@ -8,50 +8,23 @@ As you advance in levels, you might primarily remain a member of your original c
 ## Multiclass Requirements
 To qualify for a new class, you must meet all the prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher-than-average ability scores.
 
-### Artificer
-**Ability Score Minimum.** As a multiclass character, you must have at least an Intelligence score of 13 to take a level in this class, or to take a level in another class if you are already an artificer.
-
-### Barbarian
-**Ability Score Minimum.** Strength 13
-
-### Bard
-**Ability Score Minimum.** Charisma 13
-
-### Cleric
-**Ability Score Minimum.** Wisdom 13
-
-### Druid
-**Ability Score Minimum.** Wisdom 13
-
-### Fighter
-**Ability Score Minimum.** Strength 13 or Dexterity 13
-
-### Monk
-**Ability Score Minimum.** Dexterity 13 and Wisdom 13
-
-### Mystic
-**Ability Score Minimum.** Intelligence 13
-
-### Paladin
-**Ability Score Minimum.** Strength 13 and Charisma 13
-
-### Pale Master
-**Ability Score Minimum.** Intelligence 13
-
-### Ranger
-**Ability Score Minimum.** Dexterity 13 and Wisdom 13
-
-### Rogue
-**Ability Score Minimum.** Dexterity 13
-
-### Sorcerer
-**Ability Score Minimum.** Charisma 13
-
-### Warlock
-**Ability Score Minimum.** Charisma 13
-
-### Wizard
-**Ability Score Minimum.** Intelligence 13
+Class | Ability Score Minimum
+------|----------------------
+Artificer | Intelligence 13
+Barbarian | Strength 13
+Bard | Charisma 13
+Cleric | Wisdom 13
+Druid | Wisdom 13
+Fighter |  Strength 13 or Dexterity 13
+Monk | Dexterity 13 and Wisdom 13
+Mystic | Intelligence 13
+Paladin | Strength 13 and Charisma 13
+Pale Master | Intelligence 13
+Ranger | Dexterity 13 and Wisdom 13
+Rogue | Dexterity 13
+Sorcerer | Charisma 13
+Warlock | Charisma 13
+Wizard | Intelligence 13
 
 ## Experience Points
 The experience point cost to gain a level is always based on your total character level, as shown in the Character Advancement table, not your level in a particular class. So, if you are a cleric 6/fighter 1, you must gain enough XP to reach 8th level before you can take your second level as a fighter or your seventh level as a cleric.

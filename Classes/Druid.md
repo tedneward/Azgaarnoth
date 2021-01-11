@@ -5,39 +5,40 @@ Druids follow the path of [Druidism](/Religions/Druidism.md) and carve their own
 
 *You must have a Wisdom score of 13 or higher in order to multiclass in or out of this class.*
 
-Level|Proficiency Bonus|Features|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th
------|-----------------|--------|--------------|---|---|---|---|---|---|---|---|---
-1st|+2|Druidic, Spellcasting|2|2|-|-|-|-|-|-|-|-
-2nd|+2|Wild Shape, Druid Circle|2|3|-|-|-|-|-|-|-|-
-3rd|+2||2|4|2|-|-|-|-|-|-|-
-4th|+2|Wild Shape improvement, Ability Score Improvement|3|4|3|-|-|-|-|-|-|-
-5th|+3||3|4|3|2|-|-|-|-|-|-
-6th|+3|Druid Circle feature|3|4|3|3|-|-|-|-|-|-
-7th|+3||3|4|3|3|1|-|-|-|-|-
-8th|+3|Wild Shape improvement, Ability Score Improvement|3|4|3|3|2|-|-|-|-|-
-9th|+4||3|4|3|3|3|1|-|-|-|-
-10th|+4|Druid Circle feature|4|4|3|3|3|2|-|-|-|-
-11th|+4||4|4|3|3|3|2|1|-|-|-
-12th|+4|Ability Score Improvement|4|4|3|3|3|2|1|-|-|-
-13th|+5||4|4|3|3|3|2|1|1|-|-
-14th|+5|Druid Circle feature|4|4|3|3|3|2|1|1|-|-
-15th|+5||4|4|3|3|3|2|1|1|1|-
-16th|+5|Ability Score Improvement|4|4|3|3|3|2|1|1|1|-
-17th|+6||4|4|3|3|3|2|1|1|1|1
-18th|+6|Timeless Body, Beast Spells|4|4|3|3|3|3|1|1|1|1
-19th|+6|Ability Score Improvement|4|4|3|3|3|3|2|1|1|1
-20th|+6|Archdruid|4|4|3|3|3|3|2|2|1|1
-
+## Class features
 As a druid, you gain the following class features.
 
-## Hit Points
+Level|Proficiency Bonus|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|Features
+-----|-----------------|--------------|---|---|---|---|---|---|---|---|---|--------
+1st  |+2|2|2|-|-|-|-|-|-|-|-|Druidic, Spellcasting
+2nd  |+2|2|3|-|-|-|-|-|-|-|-|Wild Shape, Druid Circle
+3rd  |+2|2|4|2|-|-|-|-|-|-|-|
+4th  |+2|3|4|3|-|-|-|-|-|-|-|Wild Shape improvement, Ability Score Improvement
+5th  |+3|3|4|3|2|-|-|-|-|-|-|
+6th  |+3|3|4|3|3|-|-|-|-|-|-|Druid Circle feature
+7th  |+3|3|4|3|3|1|-|-|-|-|-|
+8th  |+3|3|4|3|3|2|-|-|-|-|-|Wild Shape improvement, Ability Score Improvement
+9th  |+4|3|4|3|3|3|1|-|-|-|-|
+10th |+4|4|4|3|3|3|2|-|-|-|-|Druid Circle feature
+11th |+4|4|4|3|3|3|2|1|-|-|-|
+12th |+4|4|4|3|3|3|2|1|-|-|-|Ability Score Improvement
+13th |+5|4|4|3|3|3|2|1|1|-|-|
+14th |+5|4|4|3|3|3|2|1|1|-|-|Druid Circle feature
+15th |+5|4|4|3|3|3|2|1|1|1|-|
+16th |+5|4|4|3|3|3|2|1|1|1|-|Ability Score Improvement
+17th |+6|4|4|3|3|3|2|1|1|1|1|
+18th |+6|4|4|3|3|3|3|1|1|1|1|Timeless Body, Beast Spells
+19th |+6|4|4|3|3|3|3|2|1|1|1|Ability Score Improvement
+20th |+6|4|4|3|3|3|3|2|2|1|1|Archdruid
+
+### Hit Points
 **Hit Dice**: 1d8 per druid level
 
 **Hit Points at 1st Level**: 8 + your Constitution modifier
 
 **Hit Points at Higher Levels**: 1d8 (or 5) + your Constitution modifier per druid level after 1st
 
-## Proficiencies
+### Proficiencies
 **Armor**: Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
 
 **Weapons**: Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
@@ -48,13 +49,13 @@ As a druid, you gain the following class features.
 
 **Skills**: Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival
 
-## Equipment
+### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) a wooden shield or (b) any simple weapon
 * (a) a scimitar or (b) any simple melee weapon
 * Leather armor, an explorer's pack, and a druidic focus
 
-## Druidic
+### Druidic
 You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.
 
 ## Spellcasting
@@ -97,7 +98,7 @@ Level|Max. CR|Limitations|Example
 -----|-------|-----------|--------
 2nd|1/4|No flying or swimming speed|Wolf
 4th|1/2|No flying speed|Crocodile
-8th|1||Giant eagle
+8th|1|Giant eagle|
 
 You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
 
@@ -124,6 +125,7 @@ When you cast the spell in this way, the familiar is a fey instead of a beast, a
 At 2nd level, you choose to identify with a circle of druids:
 * [Circle of Dragons](Druid/Dragons.md)
 * [Circle of Dreams](Druid/Dreams.md)
+* [Circle of the Hybrid](Druid/Hybrid.md)
 * [Circle of the Land](Druid/Land.md)
 * [Circle of the Molt](Druid/Molt.md)
 * [Circle of the Moon](Druid/Moon.md)
@@ -284,6 +286,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * Divination (ritual)
 * Dominate Beast
 * Elemental Bane
+* [envenomed weapon](/Magic/Spells/envenomed-weapon.md)
 * Fire shield
 * Freedom of Movement
 * Giant Insect
@@ -374,10 +377,12 @@ The following spells listed are known (but not necessarily accessible, depending
 * Incendiary Cloud
 * Sunburst
 * Tsunami
+* [vertigo](/Magic/Spells/vertigo.md)
 
 ## 9th Level
 * [caldera](/Magic/Spells/caldera.md)
 * Foresight
+* [frailty](/Magic/Spells/frailty.md)
 * Mass polymorph
 * [omnisight](/Magic/Spells/omnisight.md)
 * Power Word: Heal

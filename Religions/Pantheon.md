@@ -29,9 +29,9 @@ Deity | Description |Alignment | Domains | Symbol
 [Malar](Pantheon/Malar.md)|God of the hunt|CN|Nature|Clawed paw
 [Milil](Pantheon/Milil.md)|Goddess of poetry and song|NG|Light, Trickery|Five-stringed harp made of leaves
 [Onatar](Pantheon/Onatar.md)|God of craft|NG|Fire, Forge, Knowledge|Crossed hammer and tongs
-[Pelor](Pantheon/Pelor.md)|God of sun, summer, agriculture, and time|LG|Light, Life, Nature|Blazing sunburst
+[Pelor](Pantheon/Pelor.md)|God of sun, summer, and time|LG|Light, Life, Time|Blazing sunburst
 [Sashelas](Pantheon/Sashelas.md)|God of the sea|CG|Nature, Tempest, Water|Dolphin
-[Savras](Pantheon/Savras.md)|God of divination and fate|LN|Knowledge, Order|Crystal ball containing many kinds of eyes
+[Savras](Pantheon/Savras.md)|God of divination and fate|LN|Time, Order|Crystal ball containing many kinds of eyes
 [Silvanus](Pantheon/Silvanus.md)|God of wild nature|N|Nature|Oak leaf
 [Talos](Pantheon/Talos.md)|God of storms|CE|Air, Tempest, Zeal|Three lightning bolts radiating from a central point
 [The Keeper](Pantheon/Keeper.md)|God of greed and death|NE|Death, Grave|Obsidian tone in the shape of a fang

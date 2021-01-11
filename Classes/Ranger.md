@@ -317,6 +317,7 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 * Revivify
 * [speak with plants](https://www.dndbeyond.com/spells/speak-with-plants)
 * Tongues
+* [veiled blade](/Magic/Spells/veiled-blade.md)
 * Water Breathing
 * Water Walk
 * Wind Wall
@@ -326,6 +327,7 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 * Death Ward
 * Dominate Beast
 * [enhance body](/Magic/Spells/enhance-body.md)
+* [envenomed weapon](/Magic/Spells/envenomed-weapon.md)
 * Freedom of Movement
 * Grasping Vine
 * [greater renewal](/Magic/Spells/greater-renewal.md)

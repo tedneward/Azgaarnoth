@@ -452,6 +452,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 ## Cantrips
 * [balance](/Magic/Spells/balance.md)
 * [blade ward](https://www.dndbeyond.com/spells/blade-ward)
+* [blood boil](/Magic/Spells/blood-boil.md)
 * [bolster](/Magic/Spells/bolster.md)
 * [booming blade](https://www.dndbeyond.com/spells/booming-blade)
 * [chill touch](https://www.dndbeyond.com/spells/chill-touch)
@@ -459,7 +460,9 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * [eldritch blast](https://www.dndbeyond.com/spells/eldritch-blast)
 * [friends](https://www.dndbeyond.com/spells/friends)
 * [frostbite](https://www.dndbeyond.com/spells/frostbite)
+* [gore spike](/Magic/Spells/gore-spike.md)
 * [green flame blade](https://www.dndbeyond.com/spells/green-flame-blade)
+* [hemokinesis](/Magic/Spells/hemokinesis.md)
 * [infestation](https://www.dndbeyond.com/spells/infestation)
 * [lightning lure](https://www.dndbeyond.com/spells/lightning-lure)
 * [mage hand](https://www.dndbeyond.com/spells/mage-hand)
@@ -477,9 +480,11 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * [armor of agathys](https://www.dndbeyond.com/spells/armor-of-agathys)
 * [arms of hadar](https://www.dndbeyond.com/spells/arms-of-hadar)
 * [blackout](/Magic/Spells/blackout.md)
+* [blood reading](/Magic/Spells/blood-reading.md)
 * [cause fear](https://www.dndbeyond.com/spells/cause-fear)
 * [charm person](https://www.dndbeyond.com/spells/charm-person)
 * [comprehend languages](https://www.dndbeyond.com/spells/comprehend-languages)
+* [delude](/Magic/Spells/delude.md)
 * [expeditious retreat](https://www.dndbeyond.com/spells/expeditious-retreat)
 * [healing elixir](https://www.dndbeyond.com/spells/healing-elixir)
 * [hellish rebuke](https://www.dndbeyond.com/spells/hellish-rebuke)
@@ -495,6 +500,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 
 ## 2nd Level
 * [Beluud's brutal jaunt](/Magic/Spells/beluuds-brutal-jaunt.md)
+* [carnage blast](/Magic/Spells/carnage-blast.md)
 * [cloud of daggers](https://www.dndbeyond.com/spells/cloud-of-daggers)
 * [crown of madness](https://www.dndbeyond.com/spells/crown-of-madness)
 * [darkness](https://www.dndbeyond.com/spells/darkness)
@@ -516,6 +522,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 
 ## 3rd Level
 * animate dead
+* [blood extraction](/Magic/Spells/blood-extraction.md)
 * Counterspell
 * Dispel Magic
 * Enemies Abound
@@ -524,10 +531,12 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * Gaseous Form
 * Hunger of Hadar
 * Hypnotic Pattern
+* [incite self-harm](/Magic/Spells/incite-self-harm.md)
 * life transference
 * Magic Circle
 * Major Image
 * Psionic Blast (UA)
+* [ray of fatigue](/Magic/Spells/ray-of-fatigue.md)
 * Remove Curse
 * Spirit Shroud (UA)
 * Summon Fey Spirit (UA)
@@ -535,6 +544,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * Summon Undead Spirit (UA)
 * Tongues
 * Vampiric Touch
+* [veiled blade](/Magic/Spells/veiled-blade.md)
 
 ## 4th Level
 * Banishment
@@ -543,6 +553,9 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * Ego Whip (UA)
 * Elemental Bane
 * Galder's Speedy Courier
+* [hemorrhage](/Magic/Spells/hemorrhage.md)
+* [jinx](/Magic/Spells/jinx.md)
+* [strangulate](/Magic/Spells/strangulate.md)
 * Summon Abberant Spirit (UA)
 * Hallucinatory Terrain
 * [wind funnel](/Magic/Spells/wind-funnel.md)
@@ -555,6 +568,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * Hold Monster
 * mislead
 * modify memory
+* [phantasmal plunge](/Magic/Spells/phantasmal-plunge.md)
 * planar binding
 * Scrying
 * [soar](/Magic/Spells/soar.md)
@@ -577,10 +591,13 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * Mass Suggestion
 * [possess object](/Magic/Spells/possess-object.md)
 * Psychic Crush (UA)
+* [soul blade](/Magic/Spells/soul-blade.md)
 * Summon Fiendish Spirit (UA)
 * True Seeing
 
 ## 7th Level
+* [death's door](/Magic/Spells/deaths-door.md)
+* [dire jinx](/Magic/Spells/dire-jinx.md)
 * Etherealness
 * Finger of Death
 * Forcecage
@@ -596,15 +613,19 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * Feeblemind
 * Glibness
 * Power Word: Stun
+* [vertigo](/Magic/Spells/vertigo.md)
 
 ## 9th Level
+* [amnesia](/Magic/Spells/amnesia.md)
 * Astral Projection
 * [blood to flame](/Magic/Spells/blood-to-flame.md)
 * Foresight
+* [frailty](/Magic/Spells/frailty.md)
 * gate
 * Imprisonment
 * [omnisight](/Magic/Spells/omnisight.md)
 * Power Word: Kill
+* [raise abomination](/Magic/Spells/raise-abomination.md)
 * shapechange
 * True Polymorph
 * weird
