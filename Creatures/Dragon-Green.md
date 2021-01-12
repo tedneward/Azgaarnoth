@@ -54,6 +54,7 @@ Wisdom (Perception or Insight) checks made to ascertain the dragon's intentions 
 
 ### Mind of Steel
 *Prerequisite: Inscrutable.*
+
 The dragon has resistance to psychic damage.
 
 ### Persistent Poison
@@ -63,6 +64,7 @@ After the dragon uses its breath weapon, a cloud of gas lingers in the breath we
 
 ### Poison Environment
 *Prerequisite: must be Adult or older.*
+
 The dragon can, over time, poison the thorns and branches of plants in the area around its lair. Any creature that makes contact with a poisoned plant takes 2 (1d4) poison damage and must succeed on a Constitution saving throw (save DC = Poison Breath save DC) or be poisoned for 1 hour.
 
 ### Poisonous Blood
@@ -85,7 +87,7 @@ The dragon can add double its proficiency bonus to Deception and Persuasion abil
 
 ---
 
-## Green Dragon Wyrmling
+## Wyrmling Green Dragon
 *Small dragon, lawful evil*
 
 **Armor Class** 17 (natural armor)
@@ -94,7 +96,8 @@ The dragon can add double its proficiency bonus to Deception and Persuasion abil
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-STR DEX CON INT WIS CHA
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
 15 (+2) 12 (+1) 13 (+1) 14 (+2) 11 (+0) 13 (+1)
 
 **Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
@@ -118,6 +121,8 @@ STR DEX CON INT WIS CHA
 
 **Poison Breath (Recharge 5-6).** The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
 
+(1 [draconic feat](DraconicFeats.md))
+
 ---
 
 ## Very Young Green Dragon
@@ -129,8 +134,9 @@ STR DEX CON INT WIS CHA
 
 **Speed** 35 ft., fly 70 ft., swim 35 ft.
 
-STR DEX CON INT WIS CHA
-16 (+3) 12 (+1) 14 (+2) 15 (+2) 11 (+0) 13 (+1)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+16 (+3)|12 (+1)|14 (+2)|15 (+2)|11 (+0)|13 (+1)
 
 **Saving Throws** Dex +3, Con +4, Wis +2, Cha +3
 
@@ -153,10 +159,90 @@ STR DEX CON INT WIS CHA
 
 **Poison Breath (Recharge 5-6).** The dragon exhales poisonous gas in a 20-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 28 (8d6) poison damage on a failed save, or half as much damage on a successful one.
 
+(2 [draconic feats](DraconicFeats.md))
+
 ---
 
-## Young Adult Green Dragon
+## Young Green Dragon
+*Medium dragon, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 105 (14d8 + 42)
+
+**Speed** 35 ft., fly 70 ft., swim 35 ft.
+
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+17 (+3)|12 (+1)|16 (+3)|15 (+2)|11 (+0)|14 (+2)
+
+**Saving Throws** Dex +4, Con +6, Wis +3, Cha +5
+
+**Skills** Perception +6, Stealth +4
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 16
+
+**Languages** Draconic
+
+**Challenge** 5 (1,800 XP)
+
+**Amphibious.** The dragon can breathe air and water.
+
+#### Actions
+**Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage plus 5 (1d10) poison damage.
+
+**Poison Breath (Recharge 5-6).** The dragon exhales poisonous gas in a 25-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 35 (10d6) poison damage on a failed save, or half as much damage on a successful one.
+
+(3 [draconic feats](DraconicFeats.md))
+
+---
+
+## Juvenile Green Dragon
 *Large dragon, lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 136 (16d10 + 48)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4 Damage Immunities poison
+
+**Condition Immunities** poisoned
+
+**Senses blindsight** 30 ft., darkvision 120 ft., passive
+
+**Perception** 17 Languages Common, Draconic
+
+**Challenge** 8 (3,900 XP)
+
+**Amphibious**. The dragon can breathe air and water.
+
+#### Actions
+**Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.
+
+**Bite.** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage.
+
+**Claw.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+
+**Poison Breath** (Recharge 5-6). The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one. 
+
+(4 [draconic feat](DraconicFeats.md))  
+
+--- 
+
+## Young Adult Green Dragon 
+*Large dragon, lawful evil* 
 
 **Armor Class** 18 (natural armor)
 
@@ -164,8 +250,9 @@ STR DEX CON INT WIS CHA
 
 **Speed** 40 ft., swim 40 ft., fly 80 ft.
 
-STR DEX CON INT WIS CHA
-20 (+5) 12 (+1) 18 (+4) 17 (+3) 13 (+1) 15 (+2)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+20 (+5)|12 (+1)|18 (+4)|17 (+3)|13 (+1)|15 (+2)
 
 **Saving Throws** Dex +5, Con +8, Wis +5, Cha +6
 
@@ -183,25 +270,33 @@ STR DEX CON INT WIS CHA
 
 **Amphibious.** The dragon can breathe air and water.
 
+(5 [draconic feats](DraconicFeats.md))
+
 #### Actions
-****Multiattack.**** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+**Multiattack.** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
 **Bite.** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage plus 7 (2d6) poison damage.
 
-****Claw.**** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 +5) slashing damage.  
+**Claw.** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 +5) slashing damage.
 
-****Frightful** Presence.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become  rightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is .
-successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
-**
-**Poison Breath** (Recharge 5-6).** The dragon exhales poisonous gas in a 40-foot cone. Each creature in that area must make a DC 16 Constitution saving throw, taking 45 (13d6)  oison damage on a failed save, or half as much damage on a successful one.  ---
- ## Adult Green Dragon *Huge dragon, lawful evil* 
-**Armor Class** 18 (natural armor)  **Hit Points** 180 (19d10 + 76)
+**Frightful Presence.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
+**Poison Breath (Recharge 5-6).** The dragon exhales poisonous gas in a 40-foot cone. Each creature in that area must make a DC 16 Constitution saving throw, taking 45 (13d6) poison damage on a failed save, or half as much damage on a successful one.
+
+---
+
+## Adult Green Dragon
+*Huge dragon, lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 180 (19d10 + 76)
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-STR DEX CON INT WIS CHA
-21 (+5) 12 (+1) 19 (+4) 17 (+3) 13 (+1) 16 (+3)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+21 (+5)|12 (+1)|19 (+4)|17 (+3)|13 (+1)|16 (+3)
 
 **Saving Throws** Dex +6, Con +9, Wis +6, Cha +8
 
@@ -219,19 +314,23 @@ STR DEX CON INT WIS CHA
 
 **Amphibious.** The dragon can breathe air and water.
 
+(6 [draconic feats](DraconicFeats.md))
+
 #### Actions
-****Multiattack.**** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+**Multiattack.** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
 **Bite.** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage plus 7 (2d6) poison damage.
 
-****Claw.**** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage. 
+**Claw.** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
 
-****Tail**.** Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 14 (2d8 +5) bludgeoning damage. .
+**Tail.** Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 14 (2d8 +5) bludgeoning damage.
 
-****Frightful Presence**.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become  rightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is  uccessful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
-**Poison Breath (Recharge 5-6).** The dragon exhales poisonous gas in a 50-foot cone. Each creature in that area must  ake a DC 17 Constitution saving throw, taking 49 (14d6)  oison damage on a failed save, or half as much damage on a successful one. 
-#### Legendary Actions The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of  nother creature's turn. The dragon regains spent legendary actions at the start of its turn.
+**Frightful Presence.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
+**Poison Breath (Recharge 5-6).** The dragon exhales poisonous gas in a 50-foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 49 (14d6) poison damage on a failed save, or half as much damage on a successful one.
+
+#### Legendary Actions
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn 
 
 **Detect.** The dragon makes a Wisdom (Perception) check.
 
@@ -250,7 +349,8 @@ STR DEX CON INT WIS CHA
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-STR DEX CON INT WIS CHA
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
 23 (+6) 12 (+1) 21 (+5) 18 (+4) 15 (+2) 17 (+3)
 
 **Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
@@ -271,19 +371,27 @@ STR DEX CON INT WIS CHA
 
 **Legendary Resistance (3/Day).** If the dragon fails a saving throw, it can choose to succeed instead.
 
+(7 [draconic feats](DraconicFeats.md))
+
 #### Actions
-****Multiattack.**** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+**Multiattack.** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
 **Bite.** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 7 (2d6) poison damage.
 
-****Claw.**** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage. 
+**Claw.** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.
 
-****Tail**.** Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 15 (2d8 +6) bludgeoning damage. .
+**Tail.** Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 15 (2d8 +6) bludgeoning damage.
 
-****Frightful Presence**.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become  rightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is  uccessful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
-**Poison Breath (Recharge 5-6).** The dragon exhales poisonous gas in a 60-foot cone. Each creature in that area must  ake a DC 18 Constitution saving throw, taking 56 (16d6)  oison damage on a failed save, or half as much damage on a successful one. 
-#### Legendary Actions The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of  nother creature's turn. The dragon regains spent legendary actions at the start of its turn.
+**Frightful Presence.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
+Poison Breath (Recharge 5-6). The dragon exhales
+poisonous gas in a 60-foot cone. Each creature in that
+area must make a DC 18 Constitution saving throw,
+taking 56 (16d6) poison damage on a failed save, or
+half as much damage on a successful one.
+
+#### Legendary Actions
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn
 
 **Detect.** The dragon makes a Wisdom (Perception) check.
 
@@ -302,8 +410,9 @@ STR DEX CON INT WIS CHA
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-STR DEX CON INT WIS CHA
-24 (+7) 12 (+1) 22 (+6) 19 (+4) 15 (+2) 17 (+3)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+24 (+7)|12 (+1)|22 (+6)|19 (+4)|15 (+2)|17 (+3)
 
 **Saving Throws** Dex +7, Con +12, Wis +8, Cha +9
 
@@ -323,19 +432,23 @@ STR DEX CON INT WIS CHA
 
 **Legendary Resistance (3/Day).** If the dragon fails a saving throw, it can choose to succeed instead.
 
+(8 [draconic feats](DraconicFeats.md))
+
 #### Actions
-****Multiattack.**** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+**Multiattack.** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
 **Bite.** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 18 (2d10 + 7) piercing damage plus 9 (2d8) poison damage.
 
-****Claw.**** Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage. 
+**Claw.** Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage.
 
-****Tail**.** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 16 (2d8 +7) bludgeoning damage. .
+**Tail.** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 16 (2d8 +7) bludgeoning damage.
 
-****Frightful Presence**.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become  rightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is  uccessful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
-**Poison Breath (Recharge 5-6).** The dragon exhales poisonous gas in a 70-foot cone. Each creature in that area must  ake a DC 20 Constitution saving throw, taking 63 (18d6)  oison damage on a failed save, or half as much damage on a successful one. 
-#### Legendary Actions The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of  nother creature's turn. The dragon regains spent legendary actions at the start of its turn.
+**Frightful Presence.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
+**Poison Breath (Recharge 5-6).** The dragon exhales poisonous gas in a 70-foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 63 (18d6) poison damage on a failed save, or half as much damage on a successful one.
+
+#### Legendary Actions
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn
 
 **Detect.** The dragon makes a Wisdom (Perception) check.
 
@@ -354,7 +467,8 @@ STR DEX CON INT WIS CHA
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-STR DEX CON INT WIS CHA
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
 25 (+7) 12 (+1) 23 (+6) 19 (+4) 15 (+2) 18 (+4)
 
 **Saving Throws** Dex +7, Con +12, Wis +8, Cha +10
@@ -375,19 +489,23 @@ STR DEX CON INT WIS CHA
 
 **Legendary Resistance (3/Day).** If the dragon fails a saving throw, it can choose to succeed instead.
 
+(9 [draconic feats](DraconicFeats.md))
+
 #### Actions
-****Multiattack.**** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+**Multiattack.** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
 **Bite.** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 18 (2d10 + 7) piercing damage plus 9 (2d8) poison damage.
 
-****Claw.**** Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage. 
+**Claw.** Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage.
 
-****Tail**.** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 16 (2d8 +7) bludgeoning damage. .
+**Tail.** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 16 (2d8 +7) bludgeoning damage.
 
-****Frightful Presence**.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become  rightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is  uccessful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
-**Poison Breath (Recharge 5-6).** The dragon exhales poisonous gas in a 80-foot cone. Each creature in that area must  ake a DC 20 Constitution saving throw, taking 70 (20d6)  oison damage on a failed save, or half as much damage on a successful one. 
-#### Legendary Actions The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of  nother creature's turn. The dragon regains spent legendary actions at the start of its turn.
+**Frightful Presence.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
+**Poison Breath (Recharge 5-6).** The dragon exhales poisonous gas in a 80-foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 70 (20d6) poison damage on a failed save, or half as much damage on a successful one.
+
+#### Legendary Actions
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn
 
 **Detect.** The dragon makes a Wisdom (Perception) check.
 
@@ -406,8 +524,9 @@ STR DEX CON INT WIS CHA
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-STR DEX CON INT WIS CHA
-27 (+8) 12 (+1) 25 (+7) 20 (+5) 17 (+3) 19 (+4)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|19 (+4)
 
 **Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
 
@@ -427,19 +546,24 @@ STR DEX CON INT WIS CHA
 
 **Legendary Resistance (3/Day).** If the dragon fails a saving throw, it can choose to succeed instead.
 
+(10 [draconic feats](DraconicFeats.md))
+
 #### Actions
-****Multiattack.**** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+**Multiattack.** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
 **Bite.** Melee Weapon Attack: +15 to hit, reach 15 ft., one target. Hit: 19 (2d10 + 8) piercing damage plus 10 (3d6) poison damage.
 
-****Claw.**** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 15 (2d6 + 8) slashing damage.  
+**Claw.** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 15 (2d6 + 8) slashing damage.
 
-****Tail**.** Melee Weapon Attack: +15 to hit, reach 20 ft., one target. Hit: 17 (2d8 + 8) bludgeoning damage.  .
+**Tail.** Melee Weapon Attack: +15 to hit, reach 20 ft., one target. Hit: 17 (2d8 + 8) bludgeoning damage.
 
-****Frightful Presence**.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become  rightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is  uccessful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
-**Poison Breath (Recharge 5-6).** The dragon exhales poisonous gas in a 90-foot cone. Each creature in that area must  ake a DC 22 Constitution saving throw, taking 77 (22d6)  oison damage on a failed save, or half as much damage on a successful one. 
-#### Legendary Actions The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of  nother creature's turn. The dragon regains spent legendary actions at the start of its turn.
+**Frightful Presence.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or
+the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
 
+**Poison Breath (Recharge 5-6).** The dragon exhales poisonous gas in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful one.
+
+#### Legendary Actions
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn 
 
 **Detect.** The dragon makes a Wisdom (Perception) check.
 
@@ -458,8 +582,9 @@ STR DEX CON INT WIS CHA
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-STR DEX CON INT WIS CHA
-28 (+9) 12 (+1) 26 (+8) 21 (+5) 17 (+3) 19 (+4)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+28 (+9)|12 (+1)|26 (+8)|21 (+5)|17 (+3)|19 (+4)
 
 **Saving Throws** Dex +8, Con +15, Wis +10, Cha +11
 
@@ -479,6 +604,8 @@ STR DEX CON INT WIS CHA
 
 **Legendary Resistance (3/Day).** If the dragon fails a saving throw, it can choose to succeed instead.
 
+(11 [draconic feats](DraconicFeats.md))
+
 #### Actions
 **Multiattack.** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -486,20 +613,20 @@ STR DEX CON INT WIS CHA
 
 **Claw.** Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 16 (2d6 + 9) slashing damage.
 
-**Tail.** Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 18 (2d8 + 9) bludgeoning damage..
+**Tail.** Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 18 (2d8 + 9) bludgeoning damage.
 
 **Frightful Presence.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
 **Poison Breath (Recharge 5-6).** The dragon exhales poisonous gas in a 90-foot cone. Each creature in that area must make a DC 23 Constitution saving throw, taking 84 (24d6) poison damage on a failed save, or half as much damage on a successful one.
 
 #### Legendary Actions
-The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn
 
 **Detect.** The dragon makes a Wisdom (Perception) check.
 
 **Tail Attack.** The dragon makes a tail attack.
 
-**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ---
 
@@ -512,8 +639,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-STR DEX CON INT WIS CHA
-29 (+9) 12 (+1) 27 (+8) 22 (+6) 17 (+3) 20 (+5)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+29 (+9)|12 (+1)|27 (+8)|22 (+6)|17 (+3)|20 (+5)
 
 **Saving Throws** Dex +9, Con +16, Wis +11, Cha +13
 
@@ -533,6 +661,8 @@ STR DEX CON INT WIS CHA
 
 **Legendary Resistance (3/Day).** If the dragon fails a saving throw, it can choose to succeed instead.
 
+(12 [draconic feats](DraconicFeats.md))
+
 #### Actions
 **Multiattack.** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -540,16 +670,17 @@ STR DEX CON INT WIS CHA
 
 **Claw.** Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 16 (2d6 + 9) slashing damage.
 
-**Tail.** Melee Weapon Attack: +17 to hit, reach 20 ft., one target. Hit: 18 (2d8 + 9) bludgeoning damage.
+**Tail.** Melee Weapon Attack: +17 to hit, reach 20 ft., one target. Hit: 18 (2d8 + 9) bludgeoning damage
 
 **Frightful Presence.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
 **Poison Breath (Recharge 5-6).** The dragon exhales poisonous gas in a 90-foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 91 (26d6) poison damage on a failed save, or half as much damage on a successful one.
 
 #### Legendary Actions
-The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn Detect. The dragon makes a Wisdom (Perception) check.
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
 
 **Tail Attack.** The dragon makes a tail attack.
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-
