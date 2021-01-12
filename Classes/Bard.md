@@ -170,8 +170,11 @@ The following spells listed are available (but not necessarily accessible) to al
 
 ## Cantrips
 * [balance](/Magic/Spells/balance.md)
+* [benediction](/Magic/Spells/benediction.md)
 * [blade ward](https://www.dndbeyond.com/spells/blade-ward)
 * [bolster](/Magic/Spells/bolster.md)
+* [brace](/Magic/Spells/brace.md)
+* [courage](/Magic/Spells/courage.md)
 * [dancing lights](https://www.dndbeyond.com/spells/dancing-lights)
 * [friends](https://www.dndbeyond.com/spells/friends)
 * [light](https://www.dndbeyond.com/spells/light)

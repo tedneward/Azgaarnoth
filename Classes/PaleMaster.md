@@ -211,13 +211,13 @@ Once you use this feature, you can't use it again until you complete a short or 
 Pale master spells are a mix of the arcane, the divine, and the necrotic. However, principally they draw upon arcane forces for their spells, and as such their spells can be learned by wizards. Pale masters are also able to learn wizard spells, but typically choose not to, since doing so would distract from their more... pure... work. Wizards can certainly learn pale master spells, but often find the influence of doing so to be... life-altering... and often choose not to. (Unless, of course, the wizard is already studying necromancy; many of the necromantic-minded find themselves drawn to multiclass as a pale master eventually anyway.)
 
 > ### Game Notes
-> Pale masters are capable of copying spells out of a wizard spell book, and likewise for wizards out of a pale master spellbook for the usual time and cost. They have a similar relationship to sorcerer and warlock spells as wizards do.
+> Pale masters are capable of copying spells out of a wizard spell book, and likewise for wizards out of a pale master spellbook, for the usual time and cost. Pale masters have a similar relationship to sorcerer and warlock spells as wizards do.
 
-## Cantrips (0 Level)
-* Blood Siphon (GG)
-* Bloodlink (GG)
+## Cantrips
+* [blood siphon](/Magic/Spells/blood-siphon.md)
+* [bloodlink](/Magic/Spells/bloodlink.md)
 * [chill touch](https://www.dndbeyond.com/spells/chill-touch)
-* Corruption (GG)
+* [corruption](/Magic/Spells/corruption.md)
 * [dancing lights](https://www.dndbeyond.com/spells/dancing-lights)
 * Eidolic Chains (GG)
 * Grimlore’s Influence (GG)

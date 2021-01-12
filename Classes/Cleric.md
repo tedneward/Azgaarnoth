@@ -226,8 +226,14 @@ At 20th level, your call for intervention succeeds automatically, no roll requir
 The following spells listed are available (but not necessarily accessible) to all clerics throughout Azgaarnoth; this is not the complete list of all cleric spells, however. Certain domains may have additional spells that are only known to their members. Clerics can learn new spells by visiting foreign temples, uncovering new prayer books in ancient ruins, or even beseeching their gods/goddesses for new knowledge, and so on. (In other words, DM's choice about adding new cleric spells to the "known" list, and the cleric may need to do some in-game activity or adventure to obtain them.)
 
 ## Cantrips
+* [ascending flame](/Magic/Spells/ascending-flame.md)
 * [balance](/Magic/Spells/balance.md)
+* [benediction](/Magic/Spells/benediction.md)
+* [bloodlink](/Magic/Spells/bloodlink.md)
 * [bolster](/Magic/Spells/bolster.md)
+* [brace](/Magic/Spells/brace.md)
+* [commendation](/Magic/Spells/commendation.md)
+* [courage](/Magic/Spells/courage.md)
 * [guidance](https://www.dndbeyond.com/spells/guidance)
 * [word of radiance](https://www.dndbeyond.com/spells/word-of-radiance)
 * [light](https://www.dndbeyond.com/spells/light)

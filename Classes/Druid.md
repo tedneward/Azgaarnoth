@@ -169,6 +169,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * [balance](/Magic/Spells/balance.md)
 * [bolster](/Magic/Spells/bolster.md)
 * [control flames](/Magic/Spells/control-flames.md)
+* [courage](/Magic/Spells/courage.md)
 * [create bonfire](/Magic/Spells/create-bonfire.md)
 * [druidcraft](https://www.dndbeyond.com/spells/druidcraft)
 * [frostbite](https://www.dndbeyond.com/spells/frostbite)
