@@ -273,4 +273,3 @@ The following spells listed are known (but not necessarily accessible, depending
 * [geas](/Magic/Spells/spells/geas.md)
 * [raise dead](/Magic/Spells/spells/raise-dead.md)
 * [summon celestial](/Magic/Spells/spells/summon-celestial.md)
-

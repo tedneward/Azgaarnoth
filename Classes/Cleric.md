@@ -321,24 +321,23 @@ The following spells listed are available (but not necessarily accessible) to al
 * [tongues](/Magic/Spells/tongues.md)
 * [water walk](/Magic/Spells/water-walk.md) (ritual)
 
-
 ## 4th Level
-* Aura of Life
-* Aura of Purity
-* Banishment
-* Control Water
+* [aura of life](/Magic/Spells/spells/aura-of-life.md)
+* [aura of purity](/Magic/Spells/spells/aura-of-purity.md)
+* [banishment](/Magic/Spells/banishment.md)
+* [control water](/Magic/Spells/control-water.md)
 * [corona](/Magic/Spells/corona.md)
-* Death Ward
+* [death ward](/Magic/Spells/death-ward.md)
 * [detect curses](/Magic/Spells/detect-curses.md)
-* Divination
+* [divination](/Magic/Spells/divination.md)
 * [enhance body](/Magic/Spells/enhance-body.md)
-* Freedom of Movement
+* [freedom of movement](/Magic/Spells/freedom-of-movement.md)
 * [greater renewal](/Magic/Spells/greater-renewal.md)
-* Guardian of Faith
+* [guardian of faith](/Magic/Spells/guardian-of-faith.md)
 * [hemorrhage](/Magic/Spells/hemorrhage.md)
 * [jinx](/Magic/Spells/jinx.md)
-* Locate Creature
-* Stone Shape
+* [locate creature](/Magic/Spells/locate-creature.md)
+* [stone shape](/Magic/Spells/stone-shape.md)
 * [strangulate](/Magic/Spells/strangulate.md)
 
 ## 5th Level
@@ -349,7 +348,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [divine armor](/Magic/Spells/divine-armor.md)
 * Flame Strike
 * Geas
-* Greater Restoration
+* [greater restoration](/Magic/Spells/greater-restoration.md)
 * Hallow
 * Insect Plague
 * Legend Lore
@@ -358,7 +357,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * Raise Dead
 * [reverse projectiles](/Magic/Spells/reverse-projectiles.md)
 * Scrying
-* Skill empowerment
+* [skill empowerment](/Magic/Spells/skill-empowerment.md)
 * Summon Celestial
 * Wall of light
 

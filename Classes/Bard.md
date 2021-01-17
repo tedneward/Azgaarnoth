@@ -293,7 +293,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * Confusion
 * [detect curses](/Magic/Spells/detect-curses.md)
 * Dimension Door
-* Freedom of Movement
+* [freedom of movement](/Magic/Spells/freedom-of-movement.md)
 * Greater Invisibility
 * [greater renewal](/Magic/Spells/greater-renewal.md)
 * Hallucinatory Terrain
@@ -306,14 +306,14 @@ The following spells listed are available (but not necessarily accessible) to al
 * [twist fate](/Magic/Spells/twist-fate.md)
 
 ## 5th Level
-* Animate Objects
+* [animate objects](/Magic/Spells/animate-objects.md)
 * Awaken
 * [blessing of luck](/Magic/Spells/blessing-of-luck.md)
 * Contact other plane (ritual)
 * Dominate Person
 * Dream
 * Geas
-* Greater Restoration
+* [greater restoration](/Magic/Spells/greater-restoration.md)
 * Hold Monster
 * Legend Lore
 * Mass Cure Wounds

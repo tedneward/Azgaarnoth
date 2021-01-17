@@ -410,7 +410,6 @@ The following spells listed are available (but not necessarily accessible) to al
 * [thorn whip](/Magic/Spells/thorn-whip.md)
 * [thunderclap](/Magic/Spells/thunderclap.md)
 
-
 ## 1st Level
 * [absorb elements](/Magic/Spells/absorb-elements.md)
 * [alarm](/Magic/Spells/alarm) (ritual.md)
@@ -484,19 +483,19 @@ The following spells listed are available (but not necessarily accessible) to al
 
 ## 4th Level
 * [arcane eye](/Magic/Spells/arcane-eye.md)
-* Elemental Bane
+* [elemental bane](/Magic/Spells/elemental-bane.md)
 * [enhance body](/Magic/Spells/enhance-body.md)
 * [envenomed weapon](/Magic/Spells/envenomed-weapon.md)
-* Fabricate
-* Freedom of Movement
+* [fabricate](/Magic/Spells/fabricate.md)
+* [freedom of movement](/Magic/Spells/freedom-of-movement.md)
 * [greater renewal](/Magic/Spells/greater-renewal.md)
 * [hoodwink](/Magic/Spells/hoodwink.md)
-* Leomund's Secret Chest
-* Mordenkainen's Faithful Hound
-* Mordenkainen's Private Sanctum
-* Otiluke's Resilient Sphere
-* Stone Shape
-* Stoneskin
+* [Leomund's secret chest](/Magic/Spells/leomunds-secret-chest.md)
+* [Mordenkainen's faithful hound](/Magic/Spells/mordenkainens-faithful-hound.md)
+* [Mordenkainen's private sanctum](/Magic/Spells/mordenkainens-private-sanctum.md)
+* [Otiluke's resilient sphere](/Magic/Spells/otilukes-resilient-sphere.md)
+* [stone shape](/Magic/Spells/stone-shape.md)
+* [stoneskin](/Magic/Spells/stoneskin.md)
 * [wind funnel](/Magic/Spells/wind-funnel.md)
 
 ## 5th Level
@@ -504,10 +503,9 @@ The following spells listed are available (but not necessarily accessible) to al
 * [Bigby's hand](/Magic/Spells/bigbys-hand.md)
 * [burrow](/Magic/Spells/burrow.md)
 * [creation](/Magic/Spells/creation.md)
-* Greater Restoration
+* [greater restoration](/Magic/Spells/greater-restoration.md)
 * [reverse projectiles](/Magic/Spells/reverse-projectiles.md)
-* Skill Empowerment
+* [skill empowerment](/Magic/Spells/skill-empowerment.md)
 * [soar](/Magic/Spells/soar.md)
-* Transmute Rock
-* Wall of Stone
-
+* [transmute rock](/Magic/Spells/transmute-rock.md)
+* [wall of stone](/Magic/Spells/wall-of-stone.md)

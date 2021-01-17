@@ -441,9 +441,9 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [wind funnel](/Magic/Spells/wind-funnel.md)
 
 ## 5th Level
-* Animate Objects
+* [animate objects](/Magic/Spells/animate-objects.md)
 * [arcane armor](/Magic/Spells/arcane-armor.md)
-* Bigby's Hand
+* [Bigby's hand](/Magic/Spells/bigbys-hand.md)
 * [burrow](/Magic/Spells/burrow.md)
 * [chilling darkness](/Magic/Spells/chilling-darkness.md)
 * Cloudkill
@@ -452,7 +452,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Conjure Vrock
 * Contact Other Plane
 * [control winds](/Magic/Spells/control-winds.md)
-* Creation
+* [creation](/Magic/Spells/creation.md)
 * Dominate Person
 * Dream
 * Geas
@@ -476,9 +476,9 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [sun flower](/Magic/Spells/sun-flower.md)
 * Telekinesis
 * Teleportation Circle
-* Transmute Rock
+* [transmute rock](/Magic/Spells/transmute-rock.md)
 * Wall of Force
-* Wall of Stone
+* [wall of stone](/Magic/Spells/wall-of-stone.md)
 
 ## 6th Level
 * Arcane Gate

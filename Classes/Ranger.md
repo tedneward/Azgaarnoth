@@ -301,20 +301,19 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 * [summon beast](/Magic/Spells/summon-beast.md)
 * [warding bond](/Magic/Spells/warding-bond.md)
 
-
 ## 3rd Level
-* [blinding smite](/Magic/Spells/spells/blinding-smite.md)
-* conjure animals
-* conjure barrage
-* [daylight](/Magic/Spells/spells/daylight.md)
+* [blinding smite](/Magic/Spells/blinding-smite.md)
+* [conjure animals](/Magic/Spells/conjure-animals.md)
+* [conjure barrage](/Magic/Spells/conjure-barrage.md)
+* [daylight](/Magic/Spells/daylight.md)
 * [flame arrows](/Magic/Spells/flame-arrows.md)
 * [healing wave](/Magic/Spells/healing-wave.md)
-* lightning arrow
+* [lightning arrow](/Magic/Spells/lightning-arrow.md)
 * [meld into stone](/Magic/Spells/meld-into-stone.md)
-* nondetection
+* [nondetection](/Magic/Spells/nondetection.md)
 * [plant growth](/Magic/Spells/plant-growth.md)
 * [protection from energy](/Magic/Spells/protection-from-energy.md)
-* [revivify](/Magic/Spells/spells/revivify.md)
+* [revivify](/Magic/Spells/revivify.md)
 * [speak with plants](/Magic/Spells/speak-with-plants.md)
 * [tongues](/Magic/Spells/tongues.md)
 * [veiled blade](/Magic/Spells/veiled-blade.md)
@@ -323,27 +322,27 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 * [wind wall](/Magic/Spells/wind-wall.md)
 
 ## 4th Level
-* Conjure Woodland Beings
-* Death Ward
-* Dominate Beast
+* [conjure woodland beings](/Magic/Spells/conjure-woodland-beings.md)
+* [death ward](/Magic/Spells/death-ward.md)
+* [dominate beast](/Magic/Spells/dominate-beast.md)
 * [enhance body](/Magic/Spells/enhance-body.md)
 * [envenomed weapon](/Magic/Spells/envenomed-weapon.md)
-* Freedom of Movement
-* Grasping Vine
+* [freedom of movement](/Magic/Spells/freedom-of-movement.md)
+* [grasping vine](/Magic/Spells/grasping-vine.md)
 * [greater renewal](/Magic/Spells/greater-renewal.md)
-* Guardian of Nature
+* [guardian of nature](/Magic/Spells/guardian-of-nature.md)
 * [locate creature](/Magic/Spells/locate-creature.md)
 * [stockade sprouts](/Magic/Spells/stockade-sprouts.md)
-* Stoneskin
+* [stoneskin](/Magic/Spells/stoneskin.md)
 * [wind funnel](/Magic/Spells/wind-funnel.md)
 
 ## 5th Level
-* Awaken
+* [awaken](/Magic/Spells/awaken.md)
 * [burrow](/Magic/Spells/burrow.md)
 * [commune with nature](/Magic/Spells/commune-with-nature.md)
-* Conjure Volley
-* Greater Restoration
+* [conjure volley](/Magic/Spells/conjure-volley.md)
+* [greater restoration](/Magic/Spells/greater-restoration.md)
 * [reverse projectiles](/Magic/Spells/reverse-projectiles.md)
 * [soar](/Magic/Spells/soar.md)
-* Swift Quiver
-* Tree Stride
+* [swift quiver](/Magic/Spells/swift-quiver.md)
+* [tree stride](/Magic/Spells/tree-stride.md)

@@ -394,7 +394,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * [wind funnel](/Magic/Spells/wind-funnel.md)
 
 ## 5th Level
-* Animate Objects
+* [animate objects](/Magic/Spells/animate-objects.md)
 * [burrow](/Magic/Spells/burrow.md)
 * [chilling darkness](/Magic/Spells/chilling-darkness.md)
 * Cloudkill
@@ -416,7 +416,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * [sun flower](/Magic/Spells/sun-flower.md)
 * Telekinesis
 * Teleportation Circle
-* Wall of Stone
+* [wall of stone](/Magic/Spells/wall-of-stone.md)
 
 ## 6th Level
 * Arcane Gate

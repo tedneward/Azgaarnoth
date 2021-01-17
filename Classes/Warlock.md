@@ -556,13 +556,13 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * [charm monster](/Magic/Spells/charm-monster.md)
 * Dimension Door
 * Ego Whip (UA)
-* Elemental Bane
+* [elemental bane](/Magic/Spells/elemental-bane.md)
 * Galder's Speedy Courier
+* Hallucinatory Terrain
 * [hemorrhage](/Magic/Spells/hemorrhage.md)
 * [jinx](/Magic/Spells/jinx.md)
 * [strangulate](/Magic/Spells/strangulate.md)
 * Summon Abberant Spirit (UA)
-* Hallucinatory Terrain
 * [wind funnel](/Magic/Spells/wind-funnel.md)
 
 ## 5th Level

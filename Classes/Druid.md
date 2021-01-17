@@ -287,10 +287,10 @@ The following spells listed are known (but not necessarily accessible, depending
 * [detect curses](/Magic/Spells/detect-curses.md)
 * Divination (ritual)
 * Dominate Beast
-* Elemental Bane
+* [elemental bane](/Magic/Spells/elemental-bane.md)
 * [envenomed weapon](/Magic/Spells/envenomed-weapon.md)
 * Fire shield
-* Freedom of Movement
+* [freedom of movement](/Magic/Spells/freedom-of-movement.md)
 * Giant Insect
 * [glistening acid slick](/Magic/Spells/glistening-acid-slick.md)
 * [gravelslide](/Magic/Spells/gravelslide.md)
@@ -302,8 +302,8 @@ The following spells listed are known (but not necessarily accessible, depending
 * Locate Creature
 * Polymorph
 * [stockade sprouts](/Magic/Spells/stockade-sprouts.md)
-* Stone Shape
-* Stoneskin
+* [stone shape](/Magic/Spells/stone-shape.md)
+* [stoneskin](/Magic/Spells/stoneskin.md)
 * summon elemental
 * Summon Elemental Spirit (UA)
 * Wall of Fire
@@ -321,7 +321,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * [control winds](/Magic/Spells/control-winds.md)
 * Dawn
 * Geas
-* Greater Restoration
+* [greater restoration](/Magic/Spells/greater-restoration.md)
 * Immolation
 * Insect Plague
 * Maelstrom
@@ -333,9 +333,9 @@ The following spells listed are known (but not necessarily accessible, depending
 * [sinking maw](/Magic/Spells/sinking-maw.md)
 * [sonic boom](/Magic/Spells/sonic-boom.md)
 * [sun flower](/Magic/Spells/sun-flower.md)
-* Transmute Rock
+* [transmute rock](/Magic/Spells/transmute-rock.md)
 * Tree Stride
-* Wall of Stone
+* [wall of stone](/Magic/Spells/wall-of-stone.md)
 
 ## 6th Level
 * [bones of the earth](/Magic/Spells/bones-of-the-earth.md)
