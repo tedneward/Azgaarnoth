@@ -469,18 +469,18 @@ The following spells listed are available (but not necessarily accessible) to al
 * [create food and water](/Magic/Spells/create-food-and-water.md)
 * [disguise other](/Magic/Spells/disguise-other.md)
 * [dispel magic](/Magic/Spells/dispel-magic.md)
-* elemental Weapon
-* Fly
-* Glyph of Warding
-* Haste
+* [elemental weapon](/Magic/Spells/elemental-weapon.md)
+* [fly](/Magic/Spells/fly.md)
+* [glyph of warding](/Magic/Spells/glyph-of-warding.md)
+* [haste](/Magic/Spells/haste.md)
 * [healing wave](/Magic/Spells/healing-wave.md)
 * [mass shield](/Magic/Spells/mass-shield.md)
 * [mirror weapon](/Magic/Spells/mirror-weapon.md)
-* Protection from Energy
+* [protection from energy](/Magic/Spells/protection-from-energy.md)
 * [relocate](/Magic/Spells/relocate.md)
-* Revivify
-* Water Breathing (ritual)
-* Water Walk (ritual)
+* [revivify](/Magic/Spells/revivify.md)
+* [water breathing](/Magic/Spells/water-breathing.md) (ritual)
+* [water walk](/Magic/Spells/water-walk.md) (ritual)
 
 ## 4th Level
 * [arcane eye](/Magic/Spells/arcane-eye.md)

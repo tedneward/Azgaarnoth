@@ -337,60 +337,59 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [web](/Magic/Spells/web.md)
 
 ## 3rd Level
-* animate dead
-* bestow curse
+* [animate dead](/Magic/Spells/animate-dead.md)
+* [bestow curse](/Magic/Spells/bestow-curse.md)
 * [blink](/Magic/Spells/blink.md)
 * [blood extraction](/Magic/Spells/blood-extraction.md)
 * [clairvoyance](/Magic/Spells/clarivoyance.md)
-* conjure lesser demons
-* counterspell
+* [conjure lesser demons](/Magic/Spells/conjure-lesser-demons.md)
+* [counterspell](/Magic/Spells/counterspell.md)
 * [disguise other](/Magic/Spells/disguise-other.md)
 * [dispel magic](/Magic/Spells/dispel-magic.md)
-* enemies abound
-* erupting earth
-* fear
-* feign death
-* fireball
-* flame arrows
-* fly
-* galder's tower
-* gaseous form
-* glyph of warding
-* haste
-* hypnotic pattern
+* [enemies abound](/Magic/Spells/enemies-abound.md)
+* [erupting earth](/Magic/Spells/erupting-earth.md)
+* [fear](/Magic/Spells/fear.md)
+* [feign death](/Magic/Spells/feign-death.md)
+* [fireball](/Magic/Spells/fireball.md)
+* [flame arrows](/Magic/Spells/flame-arrows.md)
+* [fly](/Magic/Spells/fly.md)
+* [galder's tower](/Magic/Spells/galders-tower.md)
+* [gaseous form](/Magic/Spells/gaseous-form.md)
+* [glyph of warding](/Magic/Spells/glyph-of-warding.md)
+* [haste](/Magic/Spells/haste.md)
+* [hypnotic pattern](/Magic/Spells/hypnotic-pattern.md)
 * [incite self-harm](/Magic/Spells/incite-self-harm.md)
-* leomund's tiny hut
-* lightning bolt
-* magic circle
-* major image
+* [leomund's tiny hut](/Magic/Spells/leomunds-tiny-hut.md)
+* [lightning bolt](/Magic/Spells/lightning-bolt.md)
+* [magic circle](/Magic/Spells/magic-circle.md)
+* [major image](/Magic/Spells/major-image.md)
 * [mass shield](/Magic/Spells/mass-shield.md)
-* melf's minute meteors
+* [melf's minute meteors](/Magic/Spells/melfs-minute-meteors.md)
 * [mirror weapon](/Magic/Spells/mirror-weapon.md)
-* nondetection
-* phantom steed
-* protection from energy
-* psionic blast
+* [nondetection](/Magic/Spells/nondetection.md)
+* [phantom steed](/Magic/Spells/phantom-steed.md)
+* [protection from energy](/Magic/Spells/protection-from-energy.md)
+* [psionic blast](/Magic/Spells/psionic-blast.md)
 * [ray of fatigue](/Magic/Spells/ray-of-fatigue.md)
 * [relocate](/Magic/Spells/relocate.md)
-* remove curse
-* sending
-* sleet storm
-* slow
-* speak with dead
-* spirit shroud
-* stinking cloud
-* summon fey spirit (UA)
-* summon shadow spirt (UA)
-* summon undead spirit (UA)
-* tidal wave
-* tongues
+* [remove curse](/Magic/Spells/remove-curse.md)
+* [sending](/Magic/Spells/sending.md)
+* [sleet storm](/Magic/Spells/sleet-storm.md)
+* [slow](/Magic/Spells/slow.md)
+* [speak with dead](/Magic/Spells/speak-with-dead.md)
+* [spirit shroud](/Magic/Spells/spirit-shroud.md)
+* [stinking cloud](/Magic/Spells/stinking-cloud.md)
+* [summon fey](/Magic/Spells/summon-fey.md)
+* [summon shadow](/Magic/Spells/summon-shadow.md)
+* [summon undead](/Magic/Spells/summon-undead.md)
+* [tidal wave](/Magic/Spells/tidal-wave.md)
+* [tongues](/Magic/Spells/tongues.md)
 * [toxic breath](/Magic/Spells/toxic-breath.md)
-* vampiric touch
+* [vampiric touch](/Magic/Spells/vampiric-touch.md)
 * [veiled blade](/Magic/Spells/veiled-blade.md)
-* wall of sand
-* wall of water
-* water breathing
-
+* [wall of sand](/Magic/Spells/wall-of-sand.md)
+* [wall of water](/Magic/Spells/wall-of-water.md)
+* [water breathing](/Magic/Spells/water-breathing.md) (ritual)
 
 ## 4th Level
 * Arcane Eye

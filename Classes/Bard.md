@@ -261,30 +261,30 @@ The following spells listed are available (but not necessarily accessible) to al
 * [clairvoyance](/Magic/Spells/clarivoyance.md)
 * [disguise other](/Magic/Spells/disguise-other.md)
 * [dispel magic](/Magic/Spells/dispel-magic.md)
-* Enemies Abound
-* Fear
-* Feign Death
-* Glyph of Warding
+* [enemies abound](/Magic/Spells/enemies-abound.md)
+* [fear](/Magic/Spells/fear.md)
+* [feign death](/Magic/Spells/feign-death.md)
+* [glyph of warding](/Magic/Spells/glyph-of-warding.md)
 * [healing wave](/Magic/Spells/healing-wave.md)
-* Hypnotic Pattern
+* [hypnotic pattern](/Magic/Spells/hypnotic-pattern.md)
 * [incite self-harm](/Magic/Spells/incite-self-harm.md)
-* intellect fortress
-* Leomund's Tiny Hut
-* Major Image
-* Mass Healing Word
+* [intellect fortress](/Magic/Spells/intellect-fortress.md)
+* [Leomund's tiny hut](/Magic/Spells/leomunds-tiny-hut.md)
+* [major image](/Magic/Spells/major-image.md)
+* [mass healing word](/Magic/Spells/mass-healing-word.md)
 * [mass shield](/Magic/Spells/mass-shield.md)
 * [mirror weapon](/Magic/Spells/mirror-weapon.md)
-* Nondetection
-* Plant Growth
+* [nondetection](/Magic/Spells/nondetection.md)
+* [plant growth](/Magic/Spells/plant-growth.md)
 * [relocate](/Magic/Spells/relocate.md)
-* Sending
-* Slow
-* Speak with Dead
-* Speak with Plants
-* Stinking Cloud
-* Summon Fey Spirit
-* Tiny Servant
-* Tongues
+* [sending](/Magic/Spells/sending.md)
+* [slow](/Magic/Spells/slow.md)
+* [speak with dead](/Magic/Spells/speak-with-dead.md)
+* [speak with plants](/Magic/Spells/speak-with-plants.md)
+* [stinking cloud](/Magic/Spells/stinking-cloud.md)
+* [summon fey](/Magic/Spells/summon-fey.md)
+* [tiny servant](/Magic/Spells/tiny-servant.md)
+* [tongues](/Magic/Spells/tongues.md)
 * [veiled blade](/Magic/Spells/veiled-blade.md)
 
 ## 4th Level

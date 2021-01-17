@@ -257,26 +257,25 @@ The following spells listed are known (but not necessarily accessible, depending
 * [conjure animals](/Magic/Spells/conjure-animals.md)
 * [daylight](/Magic/Spells/daylight.md)
 * [dispel magic](/Magic/Spells/dispel-magic.md)
-* Elemental Weapon
-* Erupting Earth
-* Feign Death
-* Flame Arrows
+* [elemental weapon](/Magic/Spells/elemental-weapon.md)
+* [erupting earth](/Magic/Spells/erupting-earth.md)
+* [feign death](/Magic/Spells/feign-death.md)
+* [flame arrows](/Magic/Spells/flame-arrows.md)
 * [healing wave](/Magic/Spells/healing-wave.md)
-* Meld into Stone
-* Plant Growth
-* Protection from Energy
+* [meld into stone](/Magic/Spells/meld-into-stone.md)
+* [plant growth](/Magic/Spells/plant-growth.md)
+* [protection from energy](/Magic/Spells/protection-from-energy.md)
 * [revivify](/Magic/Spells/spells/revivify.md)
-* Sleet Storm
-* Speak with Plants
-* summon fey
-* Summon Fey Spirit
-* Thunder step
-* Tidal Wave
-* Wall of Sand
-* Wall of Water
-* Water Breathing
-* Water Walk
-* Wind Wall
+* [sleet storm](/Magic/Spells/sleet-storm.md)
+* [speak with plants](/Magic/Spells/speak-with-plants.md)
+* [summon fey](/Magic/Spells/summon-fey.md)
+* [thunder step](/Magic/Spells/thunder-step.md)
+* [tidal wave](/Magic/Spells/tidal-wave.md)
+* [wall of sand](/Magic/Spells/wall-of-sand.md)
+* [wall of water](/Magic/Spells/wall-of-water.md)
+* [water breathing](/Magic/Spells/water-breathing.md) (ritual)
+* [water walk](/Magic/Spells/water-walk.md) (ritual)
+* [wind wall](/Magic/Spells/wind-wall.md)
 
 ## 4th Level
 * Blight

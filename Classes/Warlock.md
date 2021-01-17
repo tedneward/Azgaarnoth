@@ -525,29 +525,29 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * [thought shield](/Magic/Spells/thought-shield.md)
 
 ## 3rd Level
-* animate dead
+* [animate dead](/Magic/Spells/animate-dead.md)
 * [blood extraction](/Magic/Spells/blood-extraction.md)
-* Counterspell
-* Dispel Magic
-* Enemies Abound
-* Fear
-* Fly
-* Gaseous Form
-* Hunger of Hadar
-* Hypnotic Pattern
+* [counterspell](/Magic/Spells/counterspell.md)
+* [dispel magic](/Magic/Spells/dispel-magic.md)
+* [enemies abound](/Magic/Spells/enemies-abound.md)
+* [fear](/Magic/Spells/fear.md)
+* [fly](/Magic/Spells/fly.md)
+* [gaseous form](/Magic/Spells/gaseous-form.md)
+* [hunger of hadar](/Magic/Spells/hunger-of-hadar.md)
+* [hypnotic pattern](/Magic/Spells/hypnotic-pattern.md)
 * [incite self-harm](/Magic/Spells/incite-self-harm.md)
-* life transference
-* Magic Circle
-* Major Image
-* Psionic Blast (UA)
+* [life transference](/Magic/Spells/life-transference.md)
+* [magic circle](/Magic/Spells/magic-circle.md)
+* [major image](/Magic/Spells/major-image.md)
+* [psionic blast](/Magic/Spells/psionic-blast.md)
 * [ray of fatigue](/Magic/Spells/ray-of-fatigue.md)
-* Remove Curse
-* Spirit Shroud (UA)
-* Summon Fey Spirit (UA)
-* Summon Shadow Spirit (UA)
-* Summon Undead Spirit (UA)
-* Tongues
-* Vampiric Touch
+* [remove curse](/Magic/Spells/remove-curse.md)
+* [spirit shroud](/Magic/Spells/spirit-shroud.md)
+* [summon fey](/Magic/Spells/summon-fey.md)
+* [summon shadow](/Magic/Spells/summon-shadow.md)
+* [summon undead](/Magic/Spells/summon-undead.md)
+* [tongues](/Magic/Spells/tongues.md)
+* [vampiric touch](/Magic/Spells/vampiric-touch.md)
 * [veiled blade](/Magic/Spells/veiled-blade.md)
 
 ## 4th Level

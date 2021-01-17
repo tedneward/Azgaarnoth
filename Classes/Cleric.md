@@ -304,22 +304,22 @@ The following spells listed are available (but not necessarily accessible) to al
 * [create food and water](/Magic/Spells/create-food-and-water.md)
 * [daylight](/Magic/Spells/daylight.md)
 * [dispel magic](/Magic/Spells/dispel-magic.md)
-* Feign Death
-* Glyph of Warding
+* [feign death](/Magic/Spells/feign-death.md)
+* [glyph of warding](/Magic/Spells/glyph-of-warding.md)
 * [healing wave](/Magic/Spells/healing-wave.md)
 * [magic circle](/Magic/Spells/magic-circle.md)
-* Mass Healing Word
+* [mass healing word](/Magic/Spells/mass-healing-word.md)
 * [mass shield](/Magic/Spells/mass-shield.md)
-* Meld into Stone
-* Protection from Energy
+* [meld into stone](/Magic/Spells/meld-into-stone.md)
+* [protection from energy](/Magic/Spells/protection-from-energy.md)
 * [remove curse](/Magic/Spells/remove-curse.md)
 * [revivify](/Magic/Spells/revivify.md)
-* Sending
-* Speak with Dead
+* [sending](/Magic/Spells/sending.md)
+* [speak with dead](/Magic/Spells/speak-with-dead.md)
 * [spirit guardians](/Magic/Spells/spirit-guardians.md)
 * [spirit shroud](/Magic/Spells/spirit-shroud.md)
-* Tongues
-* Water Walk
+* [tongues](/Magic/Spells/tongues.md)
+* [water walk](/Magic/Spells/water-walk.md) (ritual)
 
 
 ## 4th Level

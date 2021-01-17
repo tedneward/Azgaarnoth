@@ -324,44 +324,44 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * [web](/Magic/Spells/web.md)
 
 ## 3rd Level
-* Blink
+* [blink](/Magic/Spells/blink.md)
 * [blood extraction](/Magic/Spells/blood-extraction.md)
-* Clairvoyance
-* Counterspell
-* Conjure Lesser Demons
-* Daylight
+* [clairvoyance](/Magic/Spells/clarivoyance.md)
+* [counterspell](/Magic/Spells/counterspell.md)
+* [conjure lesser demons](/Magic/Spells/conjure-lesser-demons.md)
+* [daylight](/Magic/Spells/daylight.md)
 * [disguise other](/Magic/Spells/disguise-other.md)
-* Dispel Magic
-* Enemies Abound
-* Erupting Earth
-* Fear
-* Fireball
-* Flame Arrows
-* Fly
-* Gaseous Form
-* Haste
-* Hypnotic Pattern
+* [dispel magic](/Magic/Spells/dispel-magic.md)
+* [enemies abound](/Magic/Spells/enemies-abound.md)
+* [erupting earth](/Magic/Spells/erupting-earth.md)
+* [fear](/Magic/Spells/fear.md)
+* [fireball](/Magic/Spells/fireball.md)
+* [flame arrows](/Magic/Spells/flame-arrows.md)
+* [fly](/Magic/Spells/fly.md)
+* [gaseous form](/Magic/Spells/gaseous-form.md)
+* [haste](/Magic/Spells/haste.md)
+* [hypnotic pattern](/Magic/Spells/hypnotic-pattern.md)
 * [incite self-harm](/Magic/Spells/incite-self-harm.md)
-* Lightning Bolt
-* Major Image
-* Melf's Minute Meteors
+* [lightning bolt](/Magic/Spells/lightning-bolt.md)
+* [major image](/Magic/Spells/major-image.md)
+* [melf's minute meteors](/Magic/Spells/melfs-minute-meteors.md)
 * [mirror weapon](/Magic/Spells/mirror-weapon.md)
-* Protection from Energy
-* Psionic Blast (UA)
+* [protection from energy](/Magic/Spells/protection-from-energy.md)
+* [psionic blast](/Magic/Spells/psionic-blast.md) (UA)
 * [ray of fatigue](/Magic/Spells/ray-of-fatigue.md)
 * [relocate](/Magic/Spells/relocate.md)
-* Sleet Storm
-* Slow
-* Stinking Cloud
-* Summon Fey Spirit (UA)
-* Summon Shadow Spirit (UA)
-* Tongues
+* [sleet storm](/Magic/Spells/sleet-storm.md)
+* [slow](/Magic/Spells/slow.md)
+* [stinking cloud](/Magic/Spells/stinking-cloud.md)
+* [summon fey](/Magic/Spells/summon-fey.md)
+* [summon shadow](/Magic/Spells/summon-shadow.md)
+* [tongues](/Magic/Spells/tongues.md)
 * [toxic breath](/Magic/Spells/toxic-breath.md)
-* vampiric touch
+* [vampiric touch](/Magic/Spells/vampiric-touch.md)
 * [veiled blade](/Magic/Spells/veiled-blade.md)
-* Wall of Water
-* Water Breathing
-* Water Walk
+* [wall of water](/Magic/Spells/wall-of-water.md)
+* [water breathing](/Magic/Spells/water-breathing.md) (ritual)
+* [water walk](/Magic/Spells/water-walk.md) (ritual)
 
 ## 4th Level
 * Banishment

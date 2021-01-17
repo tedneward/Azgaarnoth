@@ -304,23 +304,23 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 
 ## 3rd Level
 * [blinding smite](/Magic/Spells/spells/blinding-smite.md)
-* Conjure Animals
-* Conjure Barrage
+* conjure animals
+* conjure barrage
 * [daylight](/Magic/Spells/spells/daylight.md)
-* Flame Arrows
+* [flame arrows](/Magic/Spells/flame-arrows.md)
 * [healing wave](/Magic/Spells/healing-wave.md)
-* Lightning Arrow
-* Meld Into Stone
-* Nondetection
-* Plant Growth
-* Protection from Energy
+* lightning arrow
+* [meld into stone](/Magic/Spells/meld-into-stone.md)
+* nondetection
+* [plant growth](/Magic/Spells/plant-growth.md)
+* [protection from energy](/Magic/Spells/protection-from-energy.md)
 * [revivify](/Magic/Spells/spells/revivify.md)
 * [speak with plants](/Magic/Spells/speak-with-plants.md)
-* Tongues
+* [tongues](/Magic/Spells/tongues.md)
 * [veiled blade](/Magic/Spells/veiled-blade.md)
-* Water Breathing
-* Water Walk
-* Wind Wall
+* [water breathing](/Magic/Spells/water-breathing.md) (ritual)
+* [water walk](/Magic/Spells/water-walk.md) (ritual)
+* [wind wall](/Magic/Spells/wind-wall.md)
 
 ## 4th Level
 * Conjure Woodland Beings
