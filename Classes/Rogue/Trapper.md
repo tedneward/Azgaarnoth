@@ -105,70 +105,55 @@ Finally, you can use Precision Planning an unlimited number of times without hav
 **Activation Effect:** A gout of flame emanates from the trap, blasting all creatures within a line 30 feet long and 5 feet wide. Each creature in the area must make a Dexterity saving throw. On a failed saving throw, a creature takes 2d6 fire damage. This damage increases to 4d6 at 7th level to 6d6 damage at 13th level and to 8d6 at 19th level.
 
 ### NET TRAP
-Materials: Tinker's tools and 2 nets.
-Requirements: A place to arrange on a wall or ceiling.
-Activation Range: 15 feet
-Activation Effect: Up to two creatures within 30 feet of the
-trap must make a Dexterity saving throw. On a failed saving
-throw, a creature is hit by an attack using a net.
+**Materials:** Tinker's tools and 2 nets.
+
+**Requirements:** A place to arrange on a wall or ceiling.
+
+**Activation Range:** 15 feet
+
+**Activation Effect:** Up to two creatures within 30 feet of the trap must make a Dexterity saving throw. On a failed saving throw, a creature is hit by an attack using a net.
 
 ### PIT TRAP
-Materials: Disguise kit, tinker's tools, or materials gathered
-from the nearby area with a DC 12 Wisdom (Survival)
-check.
-Requirements: A hole dug in the floor at least 5 feet deep,
-with a maximum radius of 5 feet and a maximum depth of
-a number of feet equal to 20 + your rogue level The trap
-must be arranged within the space of the top of the hole.
-Activation Range: The pit's entire area
-Activation Effect: The pit, which was covered and disguised,
-is revealed as the covering falls through and any who were
-standing on top of the pit must make a Dexterity saving
-throw. On a failed saving throw, a creature falls into the pit.
-On a successful saving throw, it instead falls into a space at
-the edge of the pit. Either way, it is knocked prone.
+**Materials:** Disguise kit, tinker's tools, or materials gathered from the nearby area with a DC 12 Wisdom (Survival) check.
+
+**Requirements:** A hole dug in the floor at least 5 feet deep, with a maximum radius of 5 feet and a maximum depth of a number of feet equal to 20 + your rogue level. The trap must be arranged within the space of the top of the hole.
+
+**Activation Range:** The pit's entire area
+
+**Activation Effect:** The pit, which was covered and disguised, is revealed as the covering falls through and any who were standing on top of the pit must make a Dexterity saving throw. On a failed saving throw, a creature falls into the pit. On a successful saving throw, it instead falls into a space at the edge of the pit. Either way, it is knocked prone.
 
 ### POISON-GAS TRAP
-Materials: Thieves' tools and poisoner's kit
-Requirements: A place to arrange on a wall floor, or ceiling,
-or in a locked object.
-Activation Range: 5 feet
-Activation Effect: A hiss of visible, colorful gas escapes from
-the trap, causing all creatures within 10 feet of the trap to
-make a Constitution saving throw. On a failed saving throw,
-a creature is poisoned A poisoned creature repeats the
-saving throw at the end of each of their turns, ending the
-effect on a success.
+**Materials:** Thieves' tools and poisoner's kit
+
+**Requirements:** A place to arrange on a wall floor, or ceiling, or in a locked object.
+
+**Activation Range:** 5 feet
+
+**Activation Effect:** A hiss of visible, colorful gas escapes from the trap, causing all creatures within 10 feet of the trap to make a Constitution saving throw. On a failed saving throw, a creature is poisoned A poisoned creature repeats the saving throw at the end of each of their turns, ending the effect on a success.
 
 ### SWINGING TRAP
-Materials: Tinker's tools and thieves' tools
-Requirements: A place to arrange on a wall or ceiling, or in a
-locked object.
-Activation Range: 5 feet
-Activation Effect: Up to two creatures within 5 feet of the
-trap must make a Dexterity saving throw. On a failed saving
-throw, the creature takes 2d10 bludgeoning damage and is
-knocked prone.
+**Materials:** Tinker's tools and thieves' tools
+
+**Requirements:** A place to arrange on a wall or ceiling, or in a locked object.
+
+**Activation Range:** 5 feet
+
+**Activation Effect:** Up to two creatures within 5 feet of the trap must make a Dexterity saving throw. On a failed saving throw, the creature takes 2d10 bludgeoning damage and is knocked prone.
 
 ### THUNDERBLAST TRAP
-Materials: Tinker's tools and alchemist's supplies
-Requirements: A place to arrange on a wall floor, or ceiling.
-Activation Range: 5 feet
-Activation Effect: A blast of air pressure releases from the
-trap, causing each creature within 10 feet of the trap to
-make a Strength saving throw. On a failed saving throw, a
-creature takes ld8 thunder damage, is pushed 10 feet, and
-is knocked prone. This damage increases to 2d8 at 7th
-level to 3d8 damage at 13th level and to 4d8 at 19th level
+**Materials:** Tinker's tools and alchemist's supplies
+
+**Requirements:** A place to arrange on a wall floor, or ceiling.
+
+**Activation Range:** 5 feet
+
+**Activation Effect:** A blast of air pressure releases from the trap, causing each creature within 10 feet of the trap to make a Strength saving throw. On a failed saving throw, a creature takes ld8 thunder damage, is pushed 10 feet, and is knocked prone. This damage increases to 2d8 at 7th level to 3d8 damage at 13th level and to 4d8 at 19th level.
 
 ### WEB TRAP
-Materials: Thieves' tools and alchemist's supplies
-Requirements: A place to arrange on a wall or floor, or in a
-locked object.
-Activation Range: 5 feet
-Activation Effect: A burst of sticky webbing releases from
-the trap, covering each creature within 10 feet of the trap
-and forcing them to make a Dexterity saving throw. On a
-failed saving throw, a creature is grappled by the trap (the
-escape DC is your Trap DC) and restrained while it is
-grappled in this way. 
+**Materials:** Thieves' tools and alchemist's supplies
+
+**Requirements:** A place to arrange on a wall or floor, or in a locked object.
+
+**Activation Range:** 5 feet
+
+**Activation Effect:** A burst of sticky webbing releases from the trap, covering each creature within 10 feet of the trap and forcing them to make a Dexterity saving throw. On a failed saving throw, a creature is grappled by the trap (the escape DC is your Trap DC) and restrained while it is grappled in this way. 
