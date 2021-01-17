@@ -176,6 +176,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [brace](/Magic/Spells/brace.md)
 * [courage](/Magic/Spells/courage.md)
 * [dancing lights](/Magic/Spells/dancing-lights.md)
+* [dazzle](/Magic/Spells/dazzle.md)
 * [friends](/Magic/Spells/friends.md)
 * [light](/Magic/Spells/light.md)
 * [mage hand](/Magic/Spells/mage-hand.md)
@@ -256,10 +257,10 @@ The following spells listed are available (but not necessarily accessible) to al
 * [zone of truth](/Magic/Spells/zone-of-truth.md)
 
 ## 3rd Level
-* Bestow Curse
-* Clairvoyance
+* [bestow curse](/Magic/Spells/bestow-curse.md)
+* [clairvoyance](/Magic/Spells/clarivoyance.md)
 * [disguise other](/Magic/Spells/disguise-other.md)
-* Dispel Magic
+* [dispel magic](/Magic/Spells/dispel-magic.md)
 * Enemies Abound
 * Fear
 * Feign Death

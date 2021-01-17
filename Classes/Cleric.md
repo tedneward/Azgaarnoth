@@ -234,6 +234,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [brace](/Magic/Spells/brace.md)
 * [commendation](/Magic/Spells/commendation.md)
 * [courage](/Magic/Spells/courage.md)
+* [dazzle](/Magic/Spells/dazzle.md)
 * [guidance](/Magic/Spells/guidance.md)
 * [light](/Magic/Spells/light.md)
 * [mending](/Magic/Spells/mending.md)
@@ -295,11 +296,11 @@ The following spells listed are available (but not necessarily accessible) to al
 * [zone of truth](/Magic/Spells/zone-of-truth.md)
 
 ## 3rd Level
-* Animate Dead
+* [animate dead](/Magic/Spells/animate-dead.md)
 * [aura of vitality](/Magic/Spells/aura-of-vitality.md)
-* Beacon of Hope
-* Bestow Curse
-* Clairvoyance
+* [beacon of hope](/Magic/Spells/beacon-of-hope.md)
+* [bestow curse](/Magic/Spells/bestow-curse.md)
+* [clairvoyance](/Magic/Spells/clarivoyance.md)
 * [create food and water](/Magic/Spells/create-food-and-water.md)
 * [daylight](/Magic/Spells/daylight.md)
 * [dispel magic](/Magic/Spells/dispel-magic.md)

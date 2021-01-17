@@ -303,10 +303,10 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 
 
 ## 3rd Level
-* Bliding Smite
+* [blinding smite](/Magic/Spells/spells/blinding-smite.md)
 * Conjure Animals
 * Conjure Barrage
-* Daylight
+* [daylight](/Magic/Spells/spells/daylight.md)
 * Flame Arrows
 * [healing wave](/Magic/Spells/healing-wave.md)
 * Lightning Arrow
@@ -314,7 +314,7 @@ Rangers can, at the discretion of the DM, learn spells from other druids or rang
 * Nondetection
 * Plant Growth
 * Protection from Energy
-* Revivify
+* [revivify](/Magic/Spells/spells/revivify.md)
 * [speak with plants](/Magic/Spells/speak-with-plants.md)
 * Tongues
 * [veiled blade](/Magic/Spells/veiled-blade.md)

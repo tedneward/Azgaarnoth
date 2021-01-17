@@ -251,25 +251,26 @@ The following spells listed are known (but not necessarily accessible, depending
 * [spirit shroud](/Magic/Spells/spells/spirit-shroud.md)
 
 ## 4th Level
-* Aura of Life
-* Aura of Purity
-* Banishment
+* [aura of life](/Magic/Spells/spells/aura-of-life.md)
+* [aura of purity](/Magic/Spells/spells/aura-of-purity.md)
+* [banishment](/Magic/Spells/banishment.md)
 * [corona](/Magic/Spells/corona.md)
-* Death Ward
+* [death ward](/Magic/Spells/death-ward.md)
 * [detect curses](/Magic/Spells/detect-curses.md)
 * [enhance body](/Magic/Spells/enhance-body.md)
-* Locate Creature
-* Staggering Smite
+* [locate creature](/Magic/Spells/locate-creature.md)
+* [staggering smite](/Magic/Spells/staggering-smite.md)
 * [strangulate](/Magic/Spells/strangulate.md)
 
 ## 5th Level
-* Banishing Smite
-* Circle of Power
+* [banishing smite](/Magic/Spells/banishing-smite.md)
+* [circle of power](/Magic/Spells/circle-of-power.md)
 * [dawn](/Magic/Spells/spells/dawn.md)
-* Destructive Wave
-* Dispel Evil and Good
+* [destructive wave](/Magic/Spells/destructive-wave.md)
+* [dispel evil and good](/Magic/Spells/dispel-evil-and-good.md)
 * [divine armor](/Magic/Spells/divine-armor.md)
 * [flame strike](/Magic/Spells/spells/flame-strike.md)
-* Geas
-* Raise Dead
-* Summon Celestial
+* [geas](/Magic/Spells/spells/geas.md)
+* [raise dead](/Magic/Spells/spells/raise-dead.md)
+* [summon celestial](/Magic/Spells/spells/summon-celestial.md)
+

@@ -292,11 +292,11 @@ Pale master spells are a mix of the arcane, the divine, and the necrotic. Howeve
 * Unseat Hand (GG)
 
 ## 3rd Level
-* Animate Dead
-* Bestow Curse
-* Counterspell
-* Dispel Magic
-* Fear
+* [animate dead](/Magic/Spells/animate-dead.md)
+* [bestow curse](/Magic/Spells/bestow-curse.md)
+* [counterspell](/Magic/Spells/counterspell.md)
+* [dispel magic](/Magic/Spells/dispel-magic.md)
+* [fear](/Magic/Spells/fear.md)
 * Feign Death
 * Grimlore’s Affliction (GG)
 * Life Transference
@@ -304,7 +304,7 @@ Pale master spells are a mix of the arcane, the divine, and the necrotic. Howeve
 * Mummify (GG)
 * Phantom Steed
 * Poisoned Heart (GG)
-* Remove Curse
+* [remove curse](/Magic/Spells/remove-curse.md)
 * Revivify
 * Speak with Dead
 * Stinking Cloud

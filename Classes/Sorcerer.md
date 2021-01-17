@@ -478,7 +478,10 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * [blood to flame](/Magic/Spells/blood-to-flame.md)
 * foresight
 * Gate
+* [glacial tide](/Magic/Spells/glacial-tide.md)
 * Meteor Swarm
+* [obliteration beam](/Magic/Spells/obliteration-beam.md)
 * Power Word: Kill
+* [thunderous tornado](/Magic/Spells/thunderous-tornado.md)
 * Time Stop
 * Wish

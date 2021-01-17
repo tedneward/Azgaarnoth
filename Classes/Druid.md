@@ -171,6 +171,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * [control flames](/Magic/Spells/control-flames.md)
 * [courage](/Magic/Spells/courage.md)
 * [create bonfire](/Magic/Spells/create-bonfire.md)
+* [dazzle](/Magic/Spells/dazzle.md)
 * [druidcraft](/Magic/Spells/druidcraft.md)
 * [frostbite](/Magic/Spells/frostbite.md)
 * [guidance](/Magic/Spells/guidance.md)
@@ -246,16 +247,16 @@ The following spells listed are known (but not necessarily accessible, depending
 * [protection from poison](/Magic/Spells/protection-from-poison.md)
 * [skywrite](/Magic/Spells/skywrite) (ritual.md)
 * [spike growth](/Magic/Spells/spike-growth.md)
-* summon beast
+* [summon beast](/Magic/Spells/summon-beast.md)
 * [summon bestial spirit](/Magic/Spells/summon-bestial-spirit.md)
 * [warding wind](/Magic/Spells/warding-wind.md)
 
 ## 3rd Level
-* Aura of Vitality
-* Call Lightning
-* Conjure Animals
-* Daylight
-* Dispel Magic
+* [aura of vitality](/Magic/Spells/aura-of-vitality.md)
+* [call lightning](/Magic/Spells/call-lightning.md)
+* [conjure animals](/Magic/Spells/conjure-animals.md)
+* [daylight](/Magic/Spells/daylight.md)
+* [dispel magic](/Magic/Spells/dispel-magic.md)
 * Elemental Weapon
 * Erupting Earth
 * Feign Death
@@ -264,7 +265,7 @@ The following spells listed are known (but not necessarily accessible, depending
 * Meld into Stone
 * Plant Growth
 * Protection from Energy
-* Revivify
+* [revivify](/Magic/Spells/spells/revivify.md)
 * Sleet Storm
 * Speak with Plants
 * summon fey

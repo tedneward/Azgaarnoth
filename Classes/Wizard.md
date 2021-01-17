@@ -63,7 +63,7 @@ As a student of arcane magic, you have a spellbook containing spells that show t
 At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table.
 
 ### Cantrip Versatility
-Whenever you gain a level in this class, you can replace one cantrip you learned from this Spellcasting with another cantrip from the wizard spell list.  feature
+Whenever you gain a level in this class, you can replace one cantrip you learned from this Spellcasting with another cantrip from the wizard spell list. 
 
 ### Spellbook
 At 1st level, you have a spellbook containing six 1st-level wizard spells of your choice.
@@ -196,6 +196,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [corruption](/Magic/Spells/corruption.md)
 * [create bonfire](/Magic/Spells/create-bonfire.md)
 * [dancing lights](/Magic/Spells/dancing-lights.md)
+* [dazzle](/Magic/Spells/dazzle.md)
 * [encode thoughts](/Magic/Spells/encode-thoughts.md)
 * [fire bolt](/Magic/Spells/fire-bolt.md)
 * [friends](/Magic/Spells/friends.md)
@@ -338,13 +339,13 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 ## 3rd Level
 * animate dead
 * bestow curse
-* blink
+* [blink](/Magic/Spells/blink.md)
 * [blood extraction](/Magic/Spells/blood-extraction.md)
-* clairvoyance
+* [clairvoyance](/Magic/Spells/clarivoyance.md)
 * conjure lesser demons
 * counterspell
 * [disguise other](/Magic/Spells/disguise-other.md)
-* dispel magic
+* [dispel magic](/Magic/Spells/dispel-magic.md)
 * enemies abound
 * erupting earth
 * fear
@@ -389,6 +390,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * wall of sand
 * wall of water
 * water breathing
+
 
 ## 4th Level
 * Arcane Eye
@@ -564,21 +566,24 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 
 ## 9th Level
 * [amnesia](/Magic/Spells/amnesia.md)
-* Astral Projection
+* [astral projection](/Magic/Spells/astral-projection.md)
 * [blood to flame](/Magic/Spells/blood-to-flame.md)
 * [caldera](/Magic/Spells/caldera.md)
-* Foresight
+* [foresight](/Magic/Spells/foresight.md)
 * [frailty](/Magic/Spells/frailty.md)
 * Gate
+* [glacial tide](/Magic/Spells/glacial-tide.md)
 * [gravity well](/Magic/Spells/gravity-well.md)
 * [grevious star](/Magic/Spells/gravity-well.md)
 * Imprisonment
 * Meteor Swarm
+* [obliteration beam](/Magic/Spells/obliteration-beam.md)
 * [omnisight](/Magic/Spells/omnisight.md)
 * Power Word: Kill
 * Prismatic Wall
 * [raise abomination](/Magic/Spells/raise-abomination.md)
 * Shapechange
+* [thunderous tornado](/Magic/Spells/thunderous-tornado.md)
 * Time Stop
 * True Polymorph
 * Weird
