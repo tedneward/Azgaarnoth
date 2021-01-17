@@ -26,14 +26,14 @@ Brinwal has a healthy shipping lane that goes back and forth between itself and 
 * [Tredora Goldenbow](/People/TredoraGoldenbow.md)
 
 ## Military Units
-**The Lion Guard** The army of Brinwal, acting as City Watch and garrison. Composition: 40 Fighter (Cavalier) 3, 50 Fighter (Cavalier) 2, 110 Fighter 1. *Leaders* ("the Lions of Brinwal"): Captain [Lars Ulverth](/People/LarsUlverth.md), four Fighter (Cavalier) 4, 12 Fighter (Cavalier) 3. (Total: ~200)
+**The Lion Guard** The army of Brinwal, acting as City Watch and garrison. Composition: 40xFighter (Cavalier) 3, 50xFighter (Cavalier) 2, 110xFighter 1. *Leaders* ("the Lions of Brinwal"): Captain [Lars Ulverth](/People/LarsUlverth.md), four Fighter (Cavalier) 4, 12xFighter (Cavalier) 3. (Total: ~200)
 
 **House Kaal Guard** Bodyguards and guards sworn to [House Kaal](/Organizations/Houses/Kaal.md). Composition: two Rogue 4, three Rogue 3, four Rogue 2, six Rogue 1, eleven Fighter 3, sixteen Fighter 2, twenty-two Fighter 1. *Leaders* ("House Kaal Elite Guards"): Fighter 6, four Fighter 4. (Total: ~65)
 
-**Militia** Mustered on demand. 50 Fighter 3, 180 Fighter 2, 750 Fighter 1. (Total: ~1000)
+**Militia** Mustered on demand. 50xFighter 3, 180xFighter 2, 750xFighter 1. (Total: ~1000)
 
 ## Draconic Order
-The Draconic Order maintains no chapterhouse here, but a Talon (squad) of Knights of the Copper are here: [Arbur Suncloud](/People/ArburSuncloud.md), 4 Fighter 1. They reside in the Lion Guard barracks in exchange for conducting the odd investigation on behalf of the Guard.
+The Draconic Order maintains no chapterhouse here, but a Talon (squad) of Knights of the Copper are here: [Arbur Suncloud](/People/ArburSuncloud.md), 4xFighter 1. They reside in the Lion Guard barracks in exchange for conducting the odd investigation on behalf of the Guard.
 
 ## Dueling Schools
 There are no dueling schools in Brinwal.
