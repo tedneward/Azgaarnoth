@@ -1,5 +1,5 @@
 # Prestige Class: Glyph Caster
-Glyphs are believed to be an offshoot branch of magic dating back to the time of the ancient Eldar, and related distantly to the power of runes. Some scholars believe that the power of glyphs are a scaled-down version of Eldar runes, because mortals could not handle the full power of runes, but most importantly, glyphs interact with magic of all forms, enabling glyphs to transcend classes. Glpyh casters are highly respected among many races, particularly the dwarves, but much is demanded of them as well. Glyph casters guard their secrets jealously, and rarely if ever share them with outsiders.
+Glyphs are believed to be an offshoot branch of magic dating back to the time of the ancient Eldar, and related distantly to the power of glyphs. Some scholars believe that the power of glyphs are a scaled-down version of Eldar glyphs, because mortals could not handle the full power of glyphs, but most importantly, glyphs interact with magic of all forms, enabling glyphs to transcend classes. Glpyh casters are highly respected among many races, particularly the dwarves, but much is demanded of them as well. Glyph casters guard their secrets jealously, and rarely if ever share them with outsiders.
 
 Glyph casters apply their legendary affinity for crafting to the mysteries of both arcane and divine energies. These intensely focused spellcasters learn how to solidify the energy of a spell into a tangible object, saving it for later release or, in cases of dire necessity, shatter them to produce devastating explosions.
 
@@ -19,13 +19,13 @@ In order to gain levels as a glyph caster, you must find a mentor willing to tea
 As a glyph caster, you gain the following class features.
 
 **Glyph Caster**
-Level|Cantrips Known|Spells Known|Spell Slots Per Spell Level|Inscribed Runes|Max Rune Level|1st|2nd|3rd|Features
+Level|Cantrips Known|Spells Known|Spell Slots Per Spell Level|Inscribed glyphs|Max glyph Level|1st|2nd|3rd|Features
 -----|--------------|------------|---------------------------|---------------|--------------|---|---|---|--------
 1st  |1|2|2|—|—|2|1st|[Glyph Magic](#glyph-magic), [Spellcasting](#spellcasting)
-2nd  |1|3|3|—|—|3|2nd|Runestore
-3rd  |2|4|4|2|—|3|3rd|Rune Adept
-4th  |2|5|4|3|—|4|4th|Runeshatter
-5th  |3|6|4|3|2|4|5th|Rune Master
+2nd  |1|3|3|—|—|3|2nd|glyphstore
+3rd  |2|4|4|2|—|3|3rd|glyph Adept
+4th  |2|5|4|3|—|4|4th|glyphshatter
+5th  |3|6|4|3|2|4|5th|glyph Master
 
 There is no level progression beyond the 5th level in glyph casting, though certainly the character can continue to gain experience and apply it to other classes.
 
@@ -40,15 +40,15 @@ The glyph caster prestige class provides you a spellbook at no charge, if you do
 ## Glyph Magic
 *1st-level glyph caster feature*
 
-You can inscribe a spell you know as a rune or sigil onto an object or surface. If you choose a surface, the glyph can cover an area of the surface no larger than 5 feet square. If you choose an object, the object must be no smaller than a cup or flask and no larger than a lute or backpack, and it must be made of a material you can etch upon using your artisan’s tools.
+You can inscribe a spell you know as a glyph or sigil onto an object or surface. If you choose a surface, the glyph can cover an area of the surface no larger than 5 feet square. If you choose an object, the object must be no smaller than a cup or flask and no larger than a lute or backpack, and it must be made of a material you can etch upon using your artisan’s tools.
 
 To inscribe the glyph, you must cast the spell as a ritual (even if it is not normally a ritual spell). The spell being stored has no immediate effect when cast in this way. Once inscribed with a spell, the glyph remains in place, but inert, until it is triggered or dispelled.
 
-The glyph is nearly invisible and requires a successful Intelligence (Investigation) check against your spell save DC to be found. Once the glyph spell is triggered, the rune or sigil remains etched in the surface, but the magical energy within dissipates and cannot be used again. If the spell requires concentration, it lasts until the end of its full duration.
+The glyph is nearly invisible and requires a successful Intelligence (Investigation) check against your spell save DC to be found. Once the glyph spell is triggered, the glyph or sigil remains etched in the surface, but the magical energy within dissipates and cannot be used again. If the spell requires concentration, it lasts until the end of its full duration.
 
 A glpyh spell is used in one of two ways: as a helpful glyph or a trap glyph.
 
-* **Helpful Glyph:** The inscribed spell must target one or more creatures. Choose a creature other than yourself when you create the glyph. That creature can use an action to trigger the glyph by touching it or speaking its name aloud. In either case, the creature must be within 10 feet of the glyph, whether it is inscribed on an object or a surface. When the glyph is triggered, the stored spell is cast, targeting the creature that triggered the glyph. If the spell targets multiple creatures, the creature that triggered the rune may decide what other creatures within range are targeted.
+* **Helpful Glyph:** The inscribed spell must target one or more creatures. Choose a creature other than yourself when you create the glyph. That creature can use an action to trigger the glyph by touching it or speaking its name aloud. In either case, the creature must be within 10 feet of the glyph, whether it is inscribed on an object or a surface. When the glyph is triggered, the stored spell is cast, targeting the creature that triggered the glyph. If the spell targets multiple creatures, the creature that triggered the glyph may decide what other creatures within range are targeted.
 
 * **Trap Glyph:** The inscribed spell must target a single creature or an area. When the glyph is triggered, the stored spell is cast. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the glyph and attack the creature that triggered it.
 
@@ -60,7 +60,7 @@ A glpyh spell is used in one of two ways: as a helpful glyph or a trap glyph.
 
 **Inscribed Glyphs.** The Glyph Caster table shows the number of times you can inscribe a spell as a glyph. At 1st level, you can use this feature twice. You regain all expended uses of it when you finish a long rest.
 
-**Maximum Rune Level.** The Glyph Caster table shows the maximum level of spell slot you may inscribe within a glyph.
+**Maximum glyph Level.** The Glyph Caster table shows the maximum level of spell slot you may inscribe within a glyph.
 
 ## Spellcasting
 *1st-level glyph caster feature*
@@ -90,11 +90,11 @@ For example, if you know the 1st-level spell burning hands and have a 1st-level 
 ## Glyphstore
 *2nd-level glyph caster feature*
 
-You can “store” a spell. You cast the spell as a ritual (even if it is not normally a ritual spell). The spell does not have its usual effect when cast in this way. Instead, the glyphstored spell appears as a glowing, immaterial rune floating near you, giving off dim light in a 5-foot radius. It may be targeted normally with dispel magic spells and similar effects. The glyphstored spell lasts until you finish your next long rest or you fall unconscious.
+You can “store” a spell. You cast the spell as a ritual (even if it is not normally a ritual spell). The spell does not have its usual effect when cast in this way. Instead, the glyphstored spell appears as a glowing, immaterial glyph floating near you, giving off dim light in a 5-foot radius. It may be targeted normally with dispel magic spells and similar effects. The glyphstored spell lasts until you finish your next long rest or you fall unconscious.
 
 While your glyphstored spell lasts, you may trigger it as a reaction, at which time it takes effect normally as if you had just cast it. You determine targets and other variable aspects of the spell when you trigger it.
 
-A glyphstored spell counts as an inscribed rune.
+A glyphstored spell counts as an inscribed glyph.
 
 ## Glyph Ward
 *3rd-level glyph caster feature* 
@@ -113,4 +113,4 @@ You can bend the magical energies to avoid one or more creatures within range. C
 ## Glyph Master
 *5th-level glyph caster feature*
 
-While you have at least one runestored spell, you have advantage on saving throws against spells and magical effects.
+While you have at least one glyphstored spell, you have advantage on saving throws against spells and magical effects.
