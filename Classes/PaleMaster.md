@@ -297,20 +297,20 @@ Pale master spells are a mix of the arcane, the divine, and the necrotic. Howeve
 * [counterspell](/Magic/Spells/counterspell.md)
 * [dispel magic](/Magic/Spells/dispel-magic.md)
 * [fear](/Magic/Spells/fear.md)
-* Feign Death
+* [feign death](/Magic/Spells/feign-death.md)
 * Grimlore’s Affliction (GG)
-* Life Transference
+* [life transference](/Magic/Spells/spells/life-transference.md)
 * Lunar Blessing (GG)
 * Mummify (GG)
-* Phantom Steed
+* [phantom steed](/Magic/Spells/phantom-steed.md)
 * Poisoned Heart (GG)
 * [remove curse](/Magic/Spells/remove-curse.md)
-* Revivify
-* Speak with Dead
-* Stinking Cloud
-* Tongues
-* Vampiric Touch
-* Water Breathing
+* [revivify](/Magic/Spells/revivify.md)
+* [speak with dead](/Magic/Spells/speak-with-dead.md)
+* [stinking cloud](/Magic/Spells/stinking-cloud.md)
+* [tongues](/Magic/Spells/tongues.md)
+* [vampiric touch](/Magic/Spells/vampiric-touch.md)
+* [water breathing](/Magic/Spells/water-breathing.md) (ritual)
 
 ## 4th Level
 * Army of the Dead (GG)
