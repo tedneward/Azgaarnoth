@@ -1,0 +1,17 @@
+name: spellmanager
+version: 0.1.0
+
+authors:
+  - Ted Neward <ted@tedneward.com>
+
+crystal: 0.35.1
+
+targets:
+  spellmanager:
+    main: src/spellmanager.cr
+
+dependencies:
+  sqlite3:
+    github: crystal-lang/crystal-sqlite3
+
+license: MIT
