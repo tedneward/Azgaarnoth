@@ -41,6 +41,8 @@ def parseSpell(spellfile):
                 # Website style
 
 def main():
+
+def unused():
 	argparser = argparse.ArgumentParser(description="Process spells in Markdown format.")
 	argparser.add_argument(
 	        'infile',

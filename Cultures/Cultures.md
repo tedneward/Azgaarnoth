@@ -1,23 +1,22 @@
 # Cultures of Azgaarnoth
 
 
+## [Gozdor](Gozdor.md): Human
 
-## Gozdor: Human
+## [Dail](Dail.md): Human Arcane
 
-## Dail: Human Arcane
+## [Al'Uma](AlUma.md): Human Divine (Arabic)
 
-## Al'Uma: Human Divine (Arabic)
+## [Anor](Anor.md): Human Extraplanar (Tiefling)
 
-## Anor: Human Extraplanar (Tiefling)
-
-## Uruk, Ugluk: Horde
+## [Uruk](Uruk.md), [Ugluk](Ugluk.md): Horde
 
 ## Dokalfar: ???
 
-## Kobblin: Chaotic Horde
+## [Kobblin](Kobblin.md): Chaotic Horde
 
-## Durinn: Human and Horde
+## [Durinn](Durinn.md): Human and Horde
 
-## Rakhnid: Unitarian (Asian)
+## [Rakhnid](Rakhnid.md): Unitarian (Asian)
 Human, Eldar, and Horde, mixed together into a strangely compelling pragmatic mix.
 
