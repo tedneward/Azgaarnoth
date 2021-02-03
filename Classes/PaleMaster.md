@@ -219,7 +219,7 @@ Pale master spells are a mix of the arcane, the divine, and the necrotic. Howeve
 * [chill touch](/Magic/Spells/chill-touch.md)
 * [corruption](/Magic/Spells/corruption.md)
 * [dancing lights](/Magic/Spells/dancing-lights.md)
-* Eidolic Chains (GG)
+* [eidolic chains](/Magic/Spells/eidolic-chains.md)
 * Grimlore’s Influence (GG)
 * Gloom (GG)
 * Grim Scythe (GG)

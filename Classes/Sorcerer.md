@@ -214,6 +214,7 @@ Some of the [mage schools](/Organizations/MageSchools/MageSchools.md) know sorce
 * [control flames](/Magic/Spells/control-flames.md)
 * [create bonfire](/Magic/Spells/create-bonfire.md)
 * [dancing lights](/Magic/Spells/dancing-lights.md)
+* [eidolic chains](/Magic/Spells/eidolic-chains.md)
 * [fire bolt](/Magic/Spells/fire-bolt.md)
 * [friends](/Magic/Spells/friends.md)
 * [frostbite](/Magic/Spells/frostbite.md)

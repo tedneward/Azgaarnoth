@@ -46,26 +46,26 @@ As a cleric, you gain the following class features.
 
 Level|Proficiency Bonus|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|Features
 -----|-----------------|--------------|---|---|---|---|---|---|---|---|---|--------
-1st  |+2|3|2|-|-|-|-|-|-|-|-|Spellcasting, Divine Domain
-2nd  |+2|3|3|-|-|-|-|-|-|-|-|Channel Divinity (x1), Divine Domain feature
+1st  |+2|3|2|-|-|-|-|-|-|-|-|[Spellcasting](#spellcasting), [Divine Domain](#divine-domain)
+2nd  |+2|3|3|-|-|-|-|-|-|-|-|[Channel Divinity](#channel-divinity) (x1), [Divine Domain](#divine-domain) feature
 3rd  |+2|3|4|2|-|-|-|-|-|-|-|
 4th  |+2|4|4|3|-|-|-|-|-|-|-|Ability Score Improvement
-5th  |+3|4|4|3|2|-|-|-|-|-|-|Destroy Undead (CR 1/2)
-6th  |+3|4|4|3|3|-|-|-|-|-|-|Channel Divinity (x2), Divine Domain feature
+5th  |+3|4|4|3|2|-|-|-|-|-|-|[Destroy Undead](#destroy-undead) (CR 1/2)
+6th  |+3|4|4|3|3|-|-|-|-|-|-|[Channel Divinity](#channel-divinity) (x2), [Divine Domain](#divine-domain) feature
 7th  |+3|4|4|3|3|1|-|-|-|-|-|
-8th  |+3|4|4|3|3|2|-|-|-|-|-|Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature
+8th  |+3|4|4|3|3|2|-|-|-|-|-|Ability Score Improvement, [Destroy Undead](#destroy-undead) (CR 1), [Divine Domain](#divine-domain) feature
 9th  |+4|4|4|3|3|3|1|-|-|-|-|
-10th |+4|5|4|3|3|3|2|-|-|-|-|Divine Intervention
-11th |+4|5|4|3|3|3|2|1|-|-|-|Destroy Undead (CR 2)
+10th |+4|5|4|3|3|3|2|-|-|-|-|[Divine Intervention](#divine-intervention)
+11th |+4|5|4|3|3|3|2|1|-|-|-|[Destroy Undead](#destroy-undead) (CR 2)
 12th |+4|5|4|3|3|3|2|1|-|-|-|Ability Score Improvement
 13th |+5|5|4|3|3|3|2|1|1|-|-|
-14th |+5|5|4|3|3|3|2|1|1|-|-|Destroy Undead (CR 3)
+14th |+5|5|4|3|3|3|2|1|1|-|-|[Destroy Undead](#destroy-undead) (CR 3)
 15th |+5|5|4|3|3|3|2|1|1|1|-|
 16th |+5|5|4|3|3|3|2|1|1|1|-|Ability Score Improvement
-17th |+6|5|4|3|3|3|2|1|1|1|1|Destroy Undead (CR 4), Divine Domain feature
-18th |+6|5|4|3|3|3|3|1|1|1|1|Channel Divinity (x3)
+17th |+6|5|4|3|3|3|2|1|1|1|1|[Destroy Undead](#destroy-undead) (CR 4), [Divine Domain](#divine-domain) feature
+18th |+6|5|4|3|3|3|3|1|1|1|1|[Channel Divinity](#channel-divinity) (x3)
 19th |+6|5|4|3|3|3|3|2|1|1|1|Ability Score Improvement
-20th |+6|5|4|3|3|3|3|2|2|1|1|Divine Intervention improvement
+20th |+6|5|4|3|3|3|3|2|2|1|1|[Divine Intervention](#divine-intervention) improvement
 
 ### Hit Points
 **Hit Dice**: 1d8 per cleric level
@@ -156,7 +156,7 @@ Choose one domain:
 * [War](Cleric/War.md)
 * [Zeal](Cleric/Zeal.md)
 
-Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
+Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use [Channel Divinity](#channel-divinity) when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
 ## Domain Spells
 *1st-level cleric feature*
@@ -170,11 +170,11 @@ If you have a domain spell that doesn't appear on the cleric spell list, the spe
 
 You gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with three such effects: Turn Undead, Harness Divine Power, and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
 
-When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
+When you use your [Channel Divinity](#channel-divinity), you choose which effect to create. You must then finish a short or long rest to use your [Channel Divinity](#channel-divinity) again.
 
-Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.
+Some [Channel Divinity](#channel-divinity) effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.
 
-Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
+Beginning at 6th level, you can use your [Channel Divinity](#channel-divinity) twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
 
 ## Channel Divinity: Turn Undead
 *2nd-level cleric feature*
@@ -186,7 +186,7 @@ A turned creature must spend its turns trying to move as far away from you as it
 ## Channel Divinity: Harness Divine Power
 *2nd-level cleric feature*
 
-You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended 1st-level spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.
+You can expend a use of your [Channel Divinity](#channel-divinity) to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -211,12 +211,14 @@ Cleric Level | Destroys Undead of CR ...
 17th| 4 or lower
 
 ## Blessed Strikes
-*8th-level cleric feature; replaces Divine Strike or Potent Spellcasting from Divine Domain features*
+*8th-level cleric feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can’t use this feature again until the start of your next turn.
 
 ## Divine Intervention
-Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.
+*10th-level cleric feature*
+
+You can call on your deity to intervene on your behalf when your need is great.
 
 Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
 
@@ -235,6 +237,7 @@ The following spells listed are available (but not necessarily accessible) to al
 * [commendation](/Magic/Spells/commendation.md)
 * [courage](/Magic/Spells/courage.md)
 * [dazzle](/Magic/Spells/dazzle.md)
+* [disarm](/Magic/Spells/disarm.md)
 * [guidance](/Magic/Spells/guidance.md)
 * [light](/Magic/Spells/light.md)
 * [mending](/Magic/Spells/mending.md)

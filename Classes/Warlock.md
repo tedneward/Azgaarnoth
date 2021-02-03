@@ -461,6 +461,7 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * [chill touch](/Magic/Spells/chill-touch.md)
 * [corruption](/Magic/Spells/corruption.md)
 * [create bonfire](/Magic/Spells/create-bonfire.md)
+* [eidolic chains](/Magic/Spells/eidolic-chains.md)
 * [eldritch blast](/Magic/Spells/eldritch-blast.md)
 * [friends](/Magic/Spells/friends.md)
 * [frostbite](/Magic/Spells/frostbite.md)
