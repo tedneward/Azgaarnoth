@@ -116,6 +116,13 @@ You master the shortsword, longsword, scimitar, rapier, and greatsword. You gain
 * When you make an opportunity attack with the weapon, you have advantage on the attack roll.
 
 
+## Blood Crazed
+*Prerequisite: Gnoll, Con 13+*
+
+When in the depths of pain and madness you gain a savage strength.
+
+* When suffering enough damage to be 50% or less of your normal hit points, you gain a +2 morale bonus to damage.
+
 ## Bountiful Luck
 *Prerequisite: Halfling*
 
@@ -161,6 +168,14 @@ Time and effort spent mastering the culinary arts has paid off. You gain the fol
 * You gain proficiency with cook’s utensils if you don’t already have it.
 * As part of a short rest, you can cook special food, provided you have ingredients and cook’s utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 + your proficiency bonus. At the end of the short rest, any creature who eats the food and spends one or more Hit Dice to regain hit points regains an extra 1d8 hit points.
 * With one hour of work or when you finish a long rest, you can cook a number of treats equal to your proficiency bonus. These special treats last 8 hours after being made. A creature can use a bonus action to eat one of those treats to gain temporary hit points equal to your proficiency bonus.
+
+
+## Confusing Onslaught
+*Prerequisites: Chaotic alignment, Gnoll*
+
+The gnolls charge, howling wildly and their chaotic attack confuses their opponents.
+
+The first time you charge in combat, creatures you target during that charge become flat-footed.
 
 
 ## Critter Friend
@@ -388,6 +403,14 @@ Your martial training has helped you develop a particular style of fighting. As 
 Whenever you gain a level, you can replace this feat’s fighting style with another one from the fighter class that you don’t have.
 
 
+## Filed Teeth
+*Prerequisites: Gnoll, bite attack*
+
+Your teeth are filed to razor-sharp points.
+
+Your bite deals +1 point of damage and inflicts 1 point of bleed on critical hits.
+
+
 ## Flail Mastery
 The flail is a tricky weapon to use, but you have spent countless hours mastering it. You gain the following benefits:
 * You gain a +1 bonus to attack rolls you make with a flail.
@@ -478,11 +501,26 @@ You can use your armor to deflect strikes that would kill others. You gain the f
 * While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from nonmagical weapons is reduced by 3.
 
 
+## Herding the Cattle
+*Prerequisites: Confusing Onslaught feat, Int 13+*
+
+You panic your foes and lead them right to the slaughter.
+
+Panicked creatures moving into or out of your threatened area incur attacks of opportunity.
+
 ## Historian
 Your study of history rewards you with the following benefits:
 * Increase your Intelligence score by 1, to a maximum of 20.
 * You gain proficiency in the History skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * When you take the Help action to aid another creature’s ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature’s check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you’re saying.
+
+
+## Improved Vicious Bite
+*Prerequisites: Vicious Bite feat*
+
+Some gnolls are famed for tearing out their opponent’s throats with a single bite.
+
+Your bite’s critical threat range improves to 19-20 and deals x3 critical damage.
 
 
 ## Infernal Constitution
@@ -527,6 +565,13 @@ You have a mind that can track time, direction, and detail with uncanny precisio
 * You can accurately recall anything you have seen or heard within the past month.
 
 
+## Legacy of Hatred
+*Prerequisites: Gnoll, Int 13+*
+
+You have long battled your race’s ancient foes, and know their treacherous ways.
+
+You gain a +1 racial bonus on attack rolls and a +1 dodge bonus to AC against elves, dwarves and humans.
+
 ## Lightly Armored
 You have trained to master the use of light armor, gaining the following benefits.
 
@@ -566,6 +611,14 @@ You have practiced techniques in melee combat against spellcasters, gaining the 
 Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class's spell list. In addition, choose one 1st-level spell to learn from that same list. Using this feat, you can cast that spell once at its lowest level, and you must finish a long rest before you can cast it in this way again.
 
 Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
+
+
+## Manslayer
+*Prerequisites: Must have slain 100+ HD worth of humans*
+
+Your name alone brings cold creeping fear to the humans who hear it.
+
+Humans suffer a -2 penalty on all saves against fear when within 30’ of you. In addition, you gain a +2 circumstance bonus on all attempts to Intimidate humans.
 
 
 ## Martial Adept
@@ -684,6 +737,14 @@ Your fury burns tirelessly. You gain the following benefits:
 * Immediately after you use your Relentless Endurance trait, you can use your reaction to make one weapon attack.
 
 
+## Pack Master
+*Prerequisites: Gnoll, BAB +1*
+
+When taking down prey, the gnolls would surround dangerous opponents, rendering them ineffective in combat.
+
+When flanking an opponent, you gain a +1 dodge bonus to armor class against that opponent for each other gnoll (or other packmate) that is also flanking the opponent.
+
+
 ## Perceptive
 You hone your senses until they become razor sharp. You gain the following benefits:
 * Increase your Wisdom score by 1, to a maximum of 20.
@@ -726,7 +787,7 @@ You have honed your proficiency with particular skills or tools, gaining the fol
 * Choose one of your skill or tool proficiencies. Your proficiency bonus is doubled for any ability check you make that uses the chosen proficiency. 
 
 
-#### Prodigy
+## Prodigy
 *Prerequisite: Half-elf, half-orc or human*
 
 You have a knack for learning new things. You gain the following benefits:
@@ -775,6 +836,13 @@ Whenever you finish a long rest, you can touch a number of objects equal to the 
 ## Savage Attacker
 Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon's damage dice and use either total.
 
+
+## Savage Charge
+*Prerequisites: Gnoll*
+
+You can make a bite attack at the end of a charge in addition to your normal action.
+
+When taking the charge action, the gnoll may also make a bite attack as a swift action.
 
 ## Second Chance
 *Prerequisite: Halfling*
@@ -895,6 +963,14 @@ You know how best to hide. You gain the following benefits:
 * If you are hidden, you can move up to 10 feet in the open without revealing yourself if you end the move in a position where you’re not clearly visible.
 
 
+## Stench of Death
+*Prerequisites: Gnoll*
+
+Known to languish in piles of filth and carrion, gnolls sometimes reek of things worse than urine.
+
+You exude a terrible scent as a 15-foot aura that nearly every other creature finds repulsive. All living creatures (except those with the stench aura ability) within the aura must succeed at a Fortitude saving throw (DC 10 + 1/2 the gnoll’s character level + Constitution modifier) or be sickened for 5 rounds. Creatures that succeed at the saving throw cannot be sickened by the same creature's stench aura for 24 hours. A [delay poison](/Magic/Spells/delay-poison.md) or [neutralize poison](/Magic/Spells/neutralize-poison.md) spell or similar effect removes the effect from the sickened creature. This is a poison effect.
+
+
 ## Survivalist
 You master wilderness lore, gaining the following benefits:
 * Increase your Wisdom score by 1, to a maximum of 20.
@@ -953,6 +1029,14 @@ You form a deep, mind-linked bond with another Telepathic creature. You each gai
 If one of the bond dies, the other faces deep anguish, insanity, and often death.
 
 
+## Terrifying Howl
+*Prerequisites: Gnoll*
+
+Your howl is that of the stalking predator, and can terrify your quarry.
+
+Non-gnolls in 60’ radius must make Will save DC 10 + 1/2 HD + Cha mod or become shaken for 1d4 rounds plus 1 round per additional 5 rolled over the DC. Gnolls use this howl before combat and often from stealth. Each additional gnoll using this feat in the radius of effect grants a +1 cumulative DC to the effect.
+
+
 ## Theologian
 Your extensive study of religion rewards you with the following benefits:
 * Increase your Intelligence score by 1, to a maximum of 20.
@@ -975,6 +1059,14 @@ You have spent time hunting creatures and honed your skills, gaining the followi
 * Increase your Wisdom score by 1, to a maximum of 20.
 * You learn the [hunter’s mark]() spell. You can cast it once without expending a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast the spell using any spell slots you have. Wisdom is your spellcasting ability for this spell.
 * You have advantage on Wisdom (Survival) checks to track creatures.
+
+
+## Vicious Bite
+*Prerequisites: Str 13+, gnoll*
+
+You have developed a ferocious bite that even other gnolls fear.
+
+You gain a bite attack that deals 1d6 points of damage, plus half of your Strength modifier. You are considered proficient with this attack and can apply feats or effects that modify natural attacks to your bite. If used as part of a full attack action, the bite is considered a secondary attack and is made at your full base attack bonus -5, and it adds only half your Strength modifier to damage.
 
 
 ## War Caster
@@ -1009,6 +1101,14 @@ Whenever you finish a long rest, your Psionic Talent die resets to its starting 
 If you have a Psionic Talent die from another source, such as a class feature, you don’t get more than one die; use only the one with the largest starting size.
 
 ***Psi Replenishment***. As a bonus action, you can calm your mind for a moment and restore your Psionic Talent die to its starting size. You then can’t use Psi Replenishment again until you finish a long rest.
+
+
+## Wintry Breath
+*Prerequisites: Winter gnoll, Con 13+* 
+
+You gain a freezing breath attack like your winter wolf ancestry.
+
+You gain a breath weapon attack that deals 2d6 cold damage in a 15’ cone. This breath weapon is usable a number of times per day equal to your Con modifier (minimum 1). You must wait at least 1 minute between uses.
 
 
 ## Wonder Maker

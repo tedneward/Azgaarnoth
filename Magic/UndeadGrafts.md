@@ -3,7 +3,7 @@
 ## New Player Options
 Undead grafts are formed by attaching dead flesh or parts to a still-living body, the results of vile experimentation by pale masters seeking to become more like the undead creatures they keep in the study, while still retaining some sense of mortality. The grafts detailed in this section have no statistics of their own. Instead, a graft may improve some ability or characteristic of the creature it's attached to, or grant the creature a new ability entirely.
 
-While [pale masters](/Classes/PaleMaster.md) obtain an undead graft upon reaching third level and selecting their deathless axiom, this section has been included for other classes to obtain an undead graft. Those considering this need to deeply consider the ramifications of grafting an undead appendage; Some who consider undead creatures as vile abominations might not openly accept deformation of the living with undead appendages, and those few who revere the undead may take offense at the idea of carving them up into parts for use by the living.
+While [pale masters](/Classes/PaleMaster.md) obtain an undead graft upon reaching third level and selecting their deathless axiom, this section has been included for other classes to obtain an undead graft. Those considering this need to deeply consider the ramifications of grafting an undead appendage; some who consider undead creatures as vile abominations might not openly accept deformation of the living with undead appendages, and those few who revere the undead may take offense at the idea of carving them up into parts for use by the living.
 
 ## Master Grafter Crafter
 As this type of work is typically shunned in civilized areas throughout the realms, most of those that specialize in these types of operations are not adventurers: it is not easy being one skilled enough to do the work and carries an inventory of undead appendages -- gods have mercy if players want to try this on their own...
@@ -12,7 +12,7 @@ This NPC will want to be in a quiet and comfortable setting to conduct their wor
 
 The list of grafts included below have a price-range based on their quality, much like that of other items. This price includes all of the mundane components and the cost of the surgery, as well as a list of specialized materials. It is up to the DM if they wish to include these specialized materials in the cost of the graft, or perhaps send the players on a quest to fetch a rare component.
 
-Also, it is important to note that grafts are not magic items, even though in game terms they function very much like they are. A graft does not radiate magic once completed, and it does not require attunment to be worn. It is very hard, if not impossible, to salvage another creature's graft as treasure.
+Also, it is important to note that grafts are not magic items, even though in game terms they function very much like they are. A graft does not radiate magic once completed, and it does not require attunment to be worn. It is very hard, if not impossible (meaning, "at the DM's discretion and somewhat discouraged"), to salvage another creature's graft as treasure.
 
 ## Grafts in the Multiverse
 The following list of undead grafts is available to players, should they be willing to pay the price to obtain them. If the graft grants a unique feature with a limited number of uses (per day or total), it is indicated in the charges heading for the graft. Also, a character can only obtain the undead gifts from each graft once: if they graft two zombie arms onto their body, they only gain the benefit from one arm, for example.
@@ -30,7 +30,7 @@ Appendage: tongue
 
 Rare Component: a humanoid tongue
 
-A dehydrated appendage from a body whose spirit became a banshee, which replaces your tongue. Your graft has 1 charge, which recharges at dusk. You release a mournful wail, causing creatures within 30 feet of you that can hear you to succeed on a DC 15 Constitution saving throw or drop to 0 hit points. This wail has no effect on constructs and undead.
+A dehydrated appendage from a body whose spirit became a banshee, which replaces your tongue. Your graft has 1 charge, which recharges at dusk (local time). You release a mournful wail, causing creatures within 30 feet of you that can hear you to succeed on a DC 15 Constitution saving throw or drop to 0 hit points. This wail has no effect on constructs and undead.
 
 ### Bonemail
 *Undead graft, rare*
