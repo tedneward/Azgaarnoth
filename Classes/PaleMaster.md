@@ -1,5 +1,5 @@
 # Pale Master
-> Kneeling down beside the skeletal remains left behind in the aftermath of conflict, the elderly human begins to cast an incantation. The man's irides lose their color and his pupils constrict for a moment. To the horror of his companions, the mindless undead they fought to hard so defeat just moments ago rise up to walk among the living once again, but this time as an army of the dead under their comrade's control. 
+> Kneeling down beside the skeletal remains left behind in the aftermath of conflict, the elderly human begins to cast an incantation. The man's irises lose their color and his pupils constrict for a moment. To the horror of his companions, the mindless undead they fought so hard so defeat just moments ago rise up to walk among the living once again, but this time as an army of the dead under their comrade's control. 
 
 The Pale Master is a magic user obsessed with the study of life and death and with harnessing this newfound knowledge to raise an unending cohort of the dead to do their bidding.
 
