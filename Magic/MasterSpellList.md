@@ -16,6 +16,7 @@ Complete list of all spells in Azgaarnoth, from all spell lists.
 * [bolster](/Magic/Spells/bolster.md)
 * [booming blade](/Magic/Spells/booming-blade.md)
 * [brace](/Magic/Spells/brace.md)
+* [ceremony](/Magic/Spells/ceremony.md)
 * [chill touch](/Magic/Spells/chill-touch.md)
 * [commendation](/Magic/Spells/commendation.md)
 * [conflagrate](/Magic/Spells/conflagrate.md)
@@ -72,6 +73,7 @@ Complete list of all spells in Azgaarnoth, from all spell lists.
 * [virtue](/Magic/Spells/virtue.md)
 * [word of radiance](/Magic/Spells/word-of-radiance.md)
 * [vicious mockery](/Magic/Spells/vicious-mockery.md)
+* [zephyr strike](/Magic/Spells/zephyr-strike.md)
 
 ## 1st Level
 * [absorb elements](/Magic/Spells/absorb-elements.md)
@@ -209,6 +211,7 @@ Complete list of all spells in Azgaarnoth, from all spell lists.
 * [flock of familiars](/Magic/Spells/flock-of-familiars.md)
 * [gentle repose](/Magic/Spells/gentle-repose.md)
 * [gust of wind](/Magic/Spells/gust-of-wind.md)
+* [healing spirit](/Magic/Spells/healing-spirit.md)
 * [heat metal](/Magic/Spells/heat-metal.md)
 * [hold person](/Magic/Spells/hold-person.md)
 * [ice sculpture](/Magic/Spells/ice-sculpture.md)
@@ -241,6 +244,7 @@ Complete list of all spells in Azgaarnoth, from all spell lists.
 * [scorching ray](/Magic/Spells/scorching-ray.md)
 * [see invisibility](/Magic/Spells/see-invisibility.md)
 * [shatter](/Magic/Spells/shatter.md)
+* [shadow blade](/Magic/Spells/shadow-blade.md)
 * [silence](/Magic/Spells/silence.md)
 * [skywrite](/Magic/Spells/skywrite) (ritual.md)
 * [Snilloc's snowball storm](/Magic/Spells/snillocs-snowball-storm.md)
@@ -301,7 +305,7 @@ Complete list of all spells in Azgaarnoth, from all spell lists.
 * [mass healing word](/Magic/Spells/mass-healing-word.md)
 * [mass shield](/Magic/Spells/mass-shield.md)
 * [meld into stone](/Magic/Spells/meld-into-stone.md)
-* [melf's minute meteors](/Magic/Spells/melfs-minute-meteors.md)
+* [Melf's minute meteors](/Magic/Spells/melfs-minute-meteors.md)
 * [mirror weapon](/Magic/Spells/mirror-weapon.md)
 * [nondetection](/Magic/Spells/nondetection.md)
 * [plant growth](/Magic/Spells/plant-growth.md)
@@ -321,6 +325,7 @@ Complete list of all spells in Azgaarnoth, from all spell lists.
 * [spirit shroud](/Magic/Spells/spirit-shroud.md)
 * [stinking cloud](/Magic/Spells/stinking-cloud.md)
 * [summon fey](/Magic/Spells/summon-fey.md)
+* [summon lesser demons](/Magic/Spells/summon-lesser-demons.md)
 * [summon shadow](/Magic/Spells/summon-shadow.md)
 * [summon undead](/Magic/Spells/summon-undead.md)
 * [thunder step](/Magic/Spells/thunder-step.md)
@@ -362,9 +367,11 @@ Complete list of all spells in Azgaarnoth, from all spell lists.
 * [envenomed weapon](/Magic/Spells/envenomed-weapon.md)
 * Evard's Black Tentacles
 * [fabricate](/Magic/Spells/fabricate.md)
+* [find greater steed](/Magic/Spells/find-greater-steed.md)
 * Fire Shield
 * [freedom of movement](/Magic/Spells/freedom-of-movement.md)
 * Galder's Speedy Courier
+* [guardian of nature](/Magic/Spells/guardian-of-nature.md)
 * Giant Insect
 * [glistening acid slick](/Magic/Spells/glistening-acid-slick.md)
 * [gravelslide](/Magic/Spells/gravelslide.md)
@@ -385,18 +392,21 @@ Complete list of all spells in Azgaarnoth, from all spell lists.
 * [Otiluke's resilient sphere](/Magic/Spells/otilukes-resilient-sphere.md)
 * Phantasmal Killer
 * Polymorph
+* [shadow of moil](/Magic/Spells/shadow-of-moil.md)
+* [sickening radiance](/Magic/Spells/sickening-radiance.md)
 * [staggering smite](/Magic/Spells/staggering-smite.md)
 * [stockade sprouts](/Magic/Spells/stockade-sprouts.md)
 * [stone shape](/Magic/Spells/stone-shape.md)
 * [stoneskin](/Magic/Spells/stoneskin.md)
-* Storm Sphere
+* [storm sphere](/Magic/Spells/storm-sphere.md)
 * [strangulate](/Magic/Spells/strangulate.md)
 * Summon Abberant Spirit (UA)
 * Summon Elemental Spirit (UA)
+* [summon greater demon](/Magic/Spells/summon-greater-demon.md)
 * [twist fate](/Magic/Spells/twist-fate.md)
-* Vitriolic Sphere
+* [vitriolic sphere](/Magic/Spells/vitriolic-sphere.md)
 * Wall of Fire
-* Watery Sphere
+* [watery sphere](/Magic/Spells/watery-sphere.md)
 * [wind funnel](/Magic/Spells/wind-funnel.md)
 
 ## 5th Level
@@ -421,26 +431,32 @@ Complete list of all spells in Azgaarnoth, from all spell lists.
 * Contagion
 * [control winds](/Magic/Spells/control-winds.md)
 * [creation](/Magic/Spells/creation.md)
+* [danse macabre](/Magic/Spells/danse-macabre.md)
 * [dawn](/Magic/Spells/spells/dawn.md)
 * [destructive wave](/Magic/Spells/destructive-wave.md)
 * [dispel evil and good](/Magic/Spells/dispel-evil-and-good.md)
 * [divine armor](/Magic/Spells/divine-armor.md)
 * Dominate Person
 * Dream
+* [enervation](/Magic/Spells/enervation.md)
+* [far step](/Magic/Spells/far-step.md)
 * [flame strike](/Magic/Spells/spells/flame-strike.md)
 * [geas](/Magic/Spells/spells/geas.md)
 * [greater restoration](/Magic/Spells/greater-restoration.md)
 * Hallow
 * Hold Monster
-* Immolation
+* [holy weapon](/Magic/Spells/holy-weapon.md)
+* [immolation](/Magic/Spells/immolation.md)
+* [infernal calling](/Magic/Spells/infernal-calling.md)
 * Insect Plague
 * Intellect Fortress (UA)
 * Legend Lore
-* Maelstrom
+* [maelstrom](/Magic/Spells/maelstrom.md)
 * Mass Cure Wounds
 * Mislead
 * Modify Memory
 * [molten upheaval](/Magic/Spells/molten-upheaval.md)
+* [negative energy flood](/Magic/Spells/negative-energy-flood.md)
 * Passwall
 * [phantasmal plunge](/Magic/Spells/phantasmal-plunge.md)
 * Planar Binding
@@ -454,16 +470,19 @@ Complete list of all spells in Azgaarnoth, from all spell lists.
 * [skill empowerment](/Magic/Spells/skill-empowerment.md)
 * [soar](/Magic/Spells/soar.md)
 * [sonic boom](/Magic/Spells/sonic-boom.md)
+* [steel wind strike](/Magic/Spells/steel-wind-strike.md)
 * [summon celestial](/Magic/Spells/spells/summon-celestial.md)
 * [sun flower](/Magic/Spells/sun-flower.md)
 * [swift quiver](/Magic/Spells/swift-quiver.md)
+* [synaptic static](/Magic/Spells/synaptic-static.md)
 * Telekinesis
 * Teleportation Circle
 * [transmute rock](/Magic/Spells/transmute-rock.md)
 * [tree stride](/Magic/Spells/tree-stride.md)
 * Wall of Force
-* Wall of light
+* [wall of light](/Magic/Spells/wall-of-light.md)
 * [wall of stone](/Magic/Spells/wall-of-stone.md)
+* [wrath of nature](/Magic/Spells/wrath-of-nature.md)
 
 ## 6th Level
 * Arcane Gate
@@ -477,6 +496,7 @@ Complete list of all spells in Azgaarnoth, from all spell lists.
 * Create Undead
 * Disintegrate
 * Drawmij's Instant Summons
+* [druid grove](/Magic/Spells/druid-grove.md)
 * Eyebite
 * Find the Path
 * Flesh to Stone
@@ -487,29 +507,30 @@ Complete list of all spells in Azgaarnoth, from all spell lists.
 * Harm
 * Heal
 * Heroes' Feast
-* Investiture of Flame
-* Investiture of Ice
-* Investiture of Stone
-* Investiture of Wind
+* [investiture of flame](/Magic/Spells/investiture-of-flame.md)
+* [investiture of ice](/Magic/Spells/investiture-of-ice.md)
+* [investiture of stone](/Magic/Spells/investiture-of-stone.md)
+* [investiture of wind](/Magic/Spells/investiture-of-wind.md)
 * [liquefy](/Magic/Spells/liquefy.md)
 * Magic Jar
 * Mass Suggestion
-* Mental prison
+* [mental prison](/Magic/Spells/mental-prison.md)
 * Move Earth
 * Otherworldly Form (UA)
 * Otiluke's Freezing Sphere
 * Otto's Irresistible Dance
 * Planar Ally
 * [possess object](/Magic/Spells/possess-object.md)
-* Primordial Ward
+* [primordial ward](/Magic/Spells/primordial-ward.md)
 * Programmed Illusion
 * Psychic Crush (UA)
-* Scatter
+* [scatter](/Magic/Spells/scatter.md)
 * [seismic jaws](/Magic/Spells/seismic-jaws.md)
 * [soul blade](/Magic/Spells/soul-blade.md)
+* [soul cage](/Magic/Spells/soul-cage.md)
 * Sunbeam
 * Summon Fiend
-* Tenser's transformation
+* [Tenser's transformation](/Magic/Spells/tensers-transformation.md)
 * Transport via Plants
 * True Seeing
 * Wall of Ice
@@ -538,7 +559,7 @@ Complete list of all spells in Azgaarnoth, from all spell lists.
 * Mordenkainen's Magnificent Mansion
 * Mordenkainen's Sword
 * Plane Shift
-* Power Word: Pain
+* [power word: pain](/Magic/Spells/power-word-pain.md)
 * [primordial tides](/Magic/Spells/primordial-tides.md)
 * Prismatic Spray
 * Project Image
@@ -550,8 +571,9 @@ Complete list of all spells in Azgaarnoth, from all spell lists.
 * Simulacrum
 * Symbol
 * Teleport
+* [temple of the gods](/Magic/Spells/temple-of-the-gods.md)
 * [thundercrash cannon](/Magic/Spells/thundercrash-cannon.md)
-* Whirlwind
+* [whirlwind](/Magic/Spells/whirlwind.md)
 
 ## 8th Level
 * [Abi-Dalzim's horrid wilting](/Magic/Spells/abi-dalzims-horrid-wilting.md)
@@ -568,8 +590,11 @@ Complete list of all spells in Azgaarnoth, from all spell lists.
 * [fist of flame](/Magic/Spells/fist-of-flame.md)
 * Glibness
 * Holy Aura
+* [illusory dragon](/Magic/Spells/illusory-dragon.md)
 * Incendiary Cloud
+* [maddening darkness](/Magic/Spells/maddening-darkness.md)
 * Maze
+* [mighty fortress](/Magic/Spells/mighty-fortress.md)
 * Mind Blank
 * Power Word: Stun
 * [soul expulsion](/Magic/Spells/soul-expulsion.md)
@@ -591,14 +616,16 @@ Complete list of all spells in Azgaarnoth, from all spell lists.
 * [gravity well](/Magic/Spells/gravity-well.md)
 * [grevious star](/Magic/Spells/gravity-well.md)
 * Imprisonment
+* [invulnerability](/Magic/Spells/invulnerability.md)
 * Mass Heal
-* Mass polymorph
+* [mass polymorph](/Magic/Spells/mass-polymorph.md)
 * Meteor Swarm
 * [obliteration beam](/Magic/Spells/obliteration-beam.md)
 * [omnisight](/Magic/Spells/omnisight.md)
-* Power Word: Heal
-* Power Word: Kill
+* [power word: heal](/Magic/Spells/power-word-heal.md)
+* [power word: kill](/Magic/Spells/power-word-kill.md)
 * Prismatic Wall
+* [psychic scream](/Magic/Spells/psychic-scream.md)
 * [raise abomination](/Magic/Spells/raise-abomination.md)
 * Shapechange
 * Storm of Vengeance

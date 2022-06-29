@@ -28,22 +28,22 @@ You can attune three magic items, or a number equal to your proficiency bonus, w
 
 ## Game Source Material
 Sourcebooks used, all D&D 5th Edition unless noted otherwise:
-* "Player's Handbook"
-* "Dungeon Master's Guide"
+* *Player's Handbook*
+* *Dungeon Master's Guide*
 * *Acquisitions Incorporated* (though not much, to be honest)
 * *Eberron--Rising from the Last War* (in particular, dragonmarks)
 * *Mordenkainen's Tome of Foes*
 * *Xanathar's Guide to Everything*
 * *Volo's Guide to Monsters*
 * *Tasha's Cauldron of Everything*
-* "*Blackstaff's Tome of Wizardry*" (from DMs Guild)
-* "*Elminster's Guide to Magic*" (from DMs Guild)
-* "*The Book of Dragons*" (by Conner McCall)
-* "*Disturbed Graves*" (from DMs Guild)
-* "*Grimlore's Grimoire*" (from DMs Guild)
-* "*Scarred Lands*" (from DMs Guild)
-* "*The Elemental Spellbook*" (from DMs Guild)
-* "*Altered Beasts: Gnolls, Vol I"* (Brian Berg)
+* *Blackstaff's Tome of Wizardry* (from DMs Guild)
+* *Elminster's Guide to Magic* (from DMs Guild)
+* *The Book of Dragons* (by Conner McCall)
+* *Disturbed Graves* (from DMs Guild)
+* *Grimlore's Grimoire* (from DMs Guild)
+* *Scarred Lands* (from DMs Guild)
+* *The Elemental Spellbook* (from DMs Guild)
+* *Altered Beasts: Gnolls, Vol I* (Brian Berg)
 * And a great many of the Unearthed Arcana supplements (where not replaced by released sourcebooks)
 
 All copyrights are held by their respective owners; anyone not a part of my play group should feel obligated to obtain the original materials for any purpose beyond that of playing in my group.
