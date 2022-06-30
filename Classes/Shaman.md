@@ -32,6 +32,7 @@ Once you’ve chosen a calling and settled on the experience of being called, co
 You can make a shaman quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the [outlander background](/Cultures/Backgrounds.md).
 
 ## The Shaman
+
 Level|Proficiency Bonus|Features|Cantrips Known|Spirit Points|Maximum Spell Level|Invocations Known
 -----|-----------------|------------|--------|-----|-----|-----|-----
 1st|+2|Shamanic Calling, Spirit Magic|1|1|1st|—
