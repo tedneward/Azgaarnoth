@@ -34,27 +34,27 @@ You can make a shaman quickly by following these suggestions. First, Charisma sh
 ## The Shaman
 
 Level|Proficiency Bonus|Features|Cantrips Known|Spirit Points|Maximum Spell Level|Invocations Known
------|-----------------|------------|--------|-----|-----|-----|-----
-1st|+2|Shamanic Calling, Spirit Magic|1|1|1st|—
-2nd|+2|Shamanic Invocations|1|2|1st|1
-3rd|+2|Spiritual Gift|1|3|2nd|1
-4th|+2|Ability Score Improvement|2|4|2nd|1
-5th|+3|—|2|5|3rd|2
-6th|+3|Shamanic Calling feature|2|6|3rd|2
-7th|+3|—|2|7|4th|3
-8th|+3|Ability Score Improvement|2|8|4th|3
-9th|+4|—|2|9|5th|4
-10th|+4|Shamanic Calling feature|3|10|5th|4
-11th|+4|Hidden Lore (6th level)|3|11|5th|4
-12th|+4|Ability Score Improvement|3|12|5th|5
-13th|+5|Hidden Lore (7th level)|3|13|5th|5
-14th|+5|Shamanic Calling feature|3|14|5th|5
-15th|+5|Hidden Lore (8th level)|3|15|5th|6
-16th|+5|Ability Score Improvement|3|16|5th|6
-17th|+6|Hidden Lore (9th level)|3|17|5th|6
-18th|+6|Timeless Body|3|18|5th|7
-19th|+6|Ability Score Improvement|3|19|5th|7
-20th|+6|Spiritual Master|3|20|5th|7
+-----|-----------------|--------|--------------|-------------|-------------------|-----------------
+1st  |+2|Shamanic Calling, Spirit Magic|1|1|1st|—
+2nd  |+2|Shamanic Invocations|1|2|1st|1
+3rd  |+2|Spiritual Gift|1|3|2nd|1
+4th  |+2|Ability Score Improvement|2|4|2nd|1
+5th  |+3|—|2|5|3rd|2
+6th  |+3|Shamanic Calling feature|2|6|3rd|2
+7th  |+3|—|2|7|4th|3
+8th  |+3|Ability Score Improvement|2|8|4th|3
+9th  |+4|—|2|9|5th|4
+10th |+4|Shamanic Calling feature|3|10|5th|4
+11th |+4|Hidden Lore (6th level)|3|11|5th|4
+12th |+4|Ability Score Improvement|3|12|5th|5
+13th |+5|Hidden Lore (7th level)|3|13|5th|5
+14th |+5|Shamanic Calling feature|3|14|5th|5
+15th |+5|Hidden Lore (8th level)|3|15|5th|6
+16th |+5|Ability Score Improvement|3|16|5th|6
+17th |+6|Hidden Lore (9th level)|3|17|5th|6
+18th |+6|Timeless Body|3|18|5th|7
+19th |+6|Ability Score Improvement|3|19|5th|7
+20th |+6|Spiritual Master|3|20|5th|7
 
 ## Class Features
 As a shaman, you gain the following class features.
