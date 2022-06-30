@@ -116,100 +116,100 @@ Drawing on the power of spirits, as directed by your calling, you can cast spell
 You know one cantrip of your choice from the below spell list. You learn additional shaman cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Shaman table.
 
 #### Cantrips
-[create bonfire](/Magic/Spells/create-bonfire.md)
-[druidcraft](/Magic/Spells/druidcraft.md)
-[guidance](/Magic/Spells/guidance.md)
-[mending](/Magic/Spells/mending.md)
-[message](/Magic/Spells/message.md)
-[resistance](/Magic/Spells/resistance.md)
+[create bonfire](/Magic/Spells/create-bonfire.md),
+[druidcraft](/Magic/Spells/druidcraft.md),
+[guidance](/Magic/Spells/guidance.md),
+[mending](/Magic/Spells/mending.md),
+[message](/Magic/Spells/message.md),
+[resistance](/Magic/Spells/resistance.md),
 [vicious mockery](/Magic/Spells/vicious-mockery.md)
 
 ### Shaman Spells
 
 #### 1st Level
-[absorb elements](/Magic/Spells/absorb-elements.md)
-[beast bond](/Magic/Spells/beast-bond.md)
-[charm person](/Magic/Spells/charm-person.md)
-[command](/Magic/Spells/command.md)
-[cure wounds](/Magic/Spells/cure-wounds.md)
-[detect poison and disease](/Magic/Spells/detect-poison-and-disease.md)
-[dissonant whispers](/Magic/Spells/dissonant-whispers.md)
-[entangle](/Magic/Spells/entangle.md)
-[faerie fire](/Magic/Spells/faerie-fire.md)
-[fog cloud](/Magic/Spells/fog-cloud.md)
-[heroism](/Magic/Spells/heroism.md)
-[hex](/Magic/Spells/hex.md)
+[absorb elements](/Magic/Spells/absorb-elements.md),
+[beast bond](/Magic/Spells/beast-bond.md),
+[charm person](/Magic/Spells/charm-person.md),
+[command](/Magic/Spells/command.md),
+[cure wounds](/Magic/Spells/cure-wounds.md),
+[detect poison and disease](/Magic/Spells/detect-poison-and-disease.md),
+[dissonant whispers](/Magic/Spells/dissonant-whispers.md),
+[entangle](/Magic/Spells/entangle.md),
+[faerie fire](/Magic/Spells/faerie-fire.md),
+[fog cloud](/Magic/Spells/fog-cloud.md),
+[heroism](/Magic/Spells/heroism.md),
+[hex](/Magic/Spells/hex.md),
 [protection from evil and good](/Magic/Spells/protection-from-evil-and-good.md)
 
 #### 2nd Level
-[barkskin](/Magic/Spells/barkskin.md)
-[darkness](/Magic/Spells/darkness.md)
-[enhance ability](/Magic/Spells/enhance-ability.md)
-[hold person](/Magic/Spells/hold-person.md)
-[misty step](/Magic/Spells/misty-step.md)
-[moonbeam](/Magic/Spells/moonbeam.md)
-[pass without trace](/Magic/Spells/pass-without-trace.md)
-[protection from poison](/Magic/Spells/protection-from-poison.md)
-[spider climb](/Magic/Spells/spider-climb.md)
-[spike growth](/Magic/Spells/spike-growth.md)
+[barkskin](/Magic/Spells/barkskin.md),
+[darkness](/Magic/Spells/darkness.md),
+[enhance ability](/Magic/Spells/enhance-ability.md),
+[hold person](/Magic/Spells/hold-person.md),
+[misty step](/Magic/Spells/misty-step.md),
+[moonbeam](/Magic/Spells/moonbeam.md),
+[pass without trace](/Magic/Spells/pass-without-trace.md),
+[protection from poison](/Magic/Spells/protection-from-poison.md),
+[spider climb](/Magic/Spells/spider-climb.md),
+[spike growth](/Magic/Spells/spike-growth.md),
 [warding bond](/Magic/Spells/warding-bond.md)
 
 #### 3rd Level
-[clairvoyance](/Magic/Spells/clairvoyance.md)
-[daylight](/Magic/Spells/daylight.md)
-[dispel magic](/Magic/Spells/dispel-magic.md)
-[elemental weapon](/Magic/Spells/elemental-weapon.md)
-[gaseous form](/Magic/Spells/gaseous-form.md)
-[magic circle](/Magic/Spells/magic-circle.md)
-[plant growth](/Magic/Spells/plant-growth.md)
-[protection from energy](/Magic/Spells/protection-from-energy.md)
-[remove curse](/Magic/Spells/remove-curse.md)
+[clairvoyance](/Magic/Spells/clairvoyance.md),
+[daylight](/Magic/Spells/daylight.md),
+[dispel magic](/Magic/Spells/dispel-magic.md),
+[elemental weapon](/Magic/Spells/elemental-weapon.md),
+[gaseous form](/Magic/Spells/gaseous-form.md),
+[magic circle](/Magic/Spells/magic-circle.md),
+[plant growth](/Magic/Spells/plant-growth.md),
+[protection from energy](/Magic/Spells/protection-from-energy.md),
+[remove curse](/Magic/Spells/remove-curse.md),
 [spirit guardians](/Magic/Spells/spirit-guardians.md) *(Rather than appearing angelic, fey, or fiendish, the guardians appear as spirits associated with the shaman’s calling.)*
 
 #### 4th Level
-[dominate beast](/Magic/Spells/dominate-beast.md)
-[elemental bane](/Magic/Spells/elemental-bane.md)
-[fire shield](/Magic/Spells/fire-shield.md)
-[hallucinatory terrain](/Magic/Spells/hallucinatory-terrain.md)
-[stoneskin](/Magic/Spells/stoneskin.md)
+[dominate beast](/Magic/Spells/dominate-beast.md),
+[elemental bane](/Magic/Spells/elemental-bane.md),
+[fire shield](/Magic/Spells/fire-shield.md),
+[hallucinatory terrain](/Magic/Spells/hallucinatory-terrain.md),
+[stoneskin](/Magic/Spells/stoneskin.md),
 
 #### 5th Level
-[hold monster](/Magic/Spells/hold-monster.md)
-[scrying](/Magic/Spells/scrying.md)
-[telekinesis](/Magic/Spells/telekinesis.md)
-[tree stride](/Magic/Spells/tree-stride.md)
+[hold monster](/Magic/Spells/hold-monster.md),
+[scrying](/Magic/Spells/scrying.md),
+[telekinesis](/Magic/Spells/telekinesis.md),
+[tree stride](/Magic/Spells/tree-stride.md),
 
 #### 6th Level
-[bones of the earth](/Magic/Spells/bones-of-the-earth.md)
-[chain lightning](/Magic/Spells/chain-lightning.md)
-[find the path](/Magic/Spells/find-the-path.md)
-[heroes’ feast](/Magic/Spells/heroes-feast.md)
-[mass suggestion](/Magic/Spells/mass-suggestion.md)
-[move earth](/Magic/Spells/move-earth.md)
-[sunbeam](/Magic/Spells/sunbeam.md)
-[transport via plants](/Magic/Spells/transport-via-plants.md)
-[true seeing](/Magic/Spells/true-seeing.md)
-[wall of ice](/Magic/Spells/wall-of-ice.md)
+[bones of the earth](/Magic/Spells/bones-of-the-earth.md),
+[chain lightning](/Magic/Spells/chain-lightning.md),
+[find the path](/Magic/Spells/find-the-path.md),
+[heroes’ feast](/Magic/Spells/heroes-feast.md),
+[mass suggestion](/Magic/Spells/mass-suggestion.md),
+[move earth](/Magic/Spells/move-earth.md),
+[sunbeam](/Magic/Spells/sunbeam.md),
+[transport via plants](/Magic/Spells/transport-via-plants.md),
+[true seeing](/Magic/Spells/true-seeing.md),
+[wall of ice](/Magic/Spells/wall-of-ice.md),
 [wind walk](/Magic/Spells/wind-walk.md)
 
 #### 7th Level
-[etherealness](/Magic/Spells/etherealness.md)
-[mirage arcane](/Magic/Spells/mirage-arcane.md)
-[plane shift](/Magic/Spells/plane-shift.md)
-[regenerate](/Magic/Spells/regenerate.md)
-[reverse gravity](/Magic/Spells/reverse-gravity.md)
+[etherealness](/Magic/Spells/etherealness.md),
+[mirage arcane](/Magic/Spells/mirage-arcane.md),
+[plane shift](/Magic/Spells/plane-shift.md),
+[regenerate](/Magic/Spells/regenerate.md),
+[reverse gravity](/Magic/Spells/reverse-gravity.md),
 [whirlwind](/Magic/Spells/whirlwind.md)
 
 #### 8th Level
-[animal shapes](/Magic/Spells/animal-shapes.md)
-[antipathy/sympathy](/Magic/Spells/antipathy-sympathy.md)
-[control weather](/Magic/Spells/control-weather.md)
+[animal shapes](/Magic/Spells/animal-shapes.md),
+[antipathy/sympathy](/Magic/Spells/antipathy-sympathy.md),
+[control weather](/Magic/Spells/control-weather.md),
 [earthquake](/Magic/Spells/earthquake.md)
 
 #### 9th Level
-[astral projection](/Magic/Spells/astral-projection.md)
-[foresight](/Magic/Spells/foresight.md)
-[shapechange](/Magic/Spells/shapechange.md)
+[astral projection](/Magic/Spells/astral-projection.md),
+[foresight](/Magic/Spells/foresight.md),
+[shapechange](/Magic/Spells/shapechange.md),
 [true resurrection](/Magic/Spells/true-resurrection.md)
 
 ### Spirit Points
