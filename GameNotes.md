@@ -44,6 +44,7 @@ Sourcebooks used, all D&D 5th Edition unless noted otherwise:
 * *Scarred Lands* (from DMs Guild)
 * *The Elemental Spellbook* (from DMs Guild)
 * *Altered Beasts: Gnolls, Vol I* (Brian Berg)
+* *Shaman* (class) (Michael Wolf)
 * And a great many of the Unearthed Arcana supplements (where not replaced by released sourcebooks)
 
 All copyrights are held by their respective owners; anyone not a part of my play group should feel obligated to obtain the original materials for any purpose beyond that of playing in my group.
