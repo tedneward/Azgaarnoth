@@ -393,7 +393,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * [water breathing](/Magic/Spells/water-breathing.md) (ritual)
 
 ## 4th Level
-* Arcane Eye
+* [arcane eye](/Magic/Spells/arcane-eye.md)
 * Banishment
 * Blight
 * [charm monster](/Magic/Spells/charm-monster.md)

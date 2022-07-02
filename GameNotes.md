@@ -44,6 +44,8 @@ Sourcebooks used, all D&D 5th Edition unless noted otherwise:
 * *Scarred Lands* (from DMs Guild)
 * *The Elemental Spellbook* (from DMs Guild)
 * *Altered Beasts: Gnolls, Vol I* (Brian Berg)
+* *Arcane Legacy* (Jacob S Kellogg)
+* *Divine Agent* (Scott Sampson)
 * *Shaman* (class) (Michael Wolf)
 * And a great many of the Unearthed Arcana supplements (where not replaced by released sourcebooks)
 

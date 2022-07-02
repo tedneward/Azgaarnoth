@@ -158,6 +158,17 @@ You pride yourself on your quickness and your close study of certain clandestine
 * You gain proficiency with thieves’ tools. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.
 
 
+## Channeler
+You are one of the rare people who have the innate talent to control raw magic and express it in raw, fiery form. This grants the following benefits:
+* If you already have channeling dice, you gain one more; otherwise, you have two channeling dice, which are d6’s. These channeling dice are used to fuel the uses described below. A channeling die is expended when you use it. You regain all of your expended channeling dice when you finish a long rest. If you are in an area where spells are suppressed or cannot be cast (such as an antimagic field spell), you cannot use channeling dice. You can only spend 1 channeling die per turn.
+* When you take cold damage or damage from a spell, you can use your reaction to expend 1 or more channeling dice and regain hit points equal to the total number rolled on your channeling dice.
+* Whenever you inflict fire damage with a spell or cantrip, you can use your bonus action to expend 1 or more channeling dice to inflict extra damage against one target of that fire damage (even if that target took no fire damage due to immunity or a similar effect). The target takes force damage equal to your total channeling dice roll, and you can push the target up to 10 feet away from you.
+* As an action, you can expend 1 channeling die to cast [detect magic](/Magic/Spells/detect-magic.md).
+* Whenever you spend 1 or more channeling dice, you shed bright light in a 30-foot radius and dim light for an additional 30 feet. If you spend 4 or more channeling dice at once, these radii are doubled.
+* As long as you have at least one unexpended channeling die remaining, you are considered naturally adapted to cold climates, and you have the ability to start fires with a touch. As an action, you can magically ignite a flammable object you touch with your hand--an object such as a torch, a piece of tinder, or the hem of drapes.
+* You learn the [produce flame](/Magic/Spells/produce-flame.md) cantrip.
+
+
 ## Charger
 When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature. If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack’s damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
 
@@ -934,6 +945,16 @@ Though the spear is a simple weapon to learn, it rewards you for the time you ha
 * You can set your spear to receive a charge. As a bonus action, choose a creature you can see that is at least 20 feet away from you. If that creatures moves within your spear’s reach on its next turn, you can make a melee attack against it with your spear as a reaction. If the attack hits, the target takes an extra 1d8 piercing damage, or an extra 1d10 piercing damage if you wield the spear with two hands. You can’t use this ability if the creature used the Disengage action before moving.
 
 * As a bonus action on your turn, you can increase your reach with a spear by 5 feet for the rest of your turn.
+
+
+## Spellscarred Savant
+*Prerequisite: You have a spellscar (any character can be assumed to have a spellscar with DM approval, or a spellscar may be gained by some means in play).*
+
+History has lost the origin of the hideous disease known as Spellplague, but it continues to quietly make its way across Azgaarnoth, claiming a few victims every year. Most such "spellscarred" sow madness and fear whenever they appear, but to a select few, the spellscar that mars their flesh is no curse, but rather a powerful boon. You are one of these few, a spellscarred savant. You wear your scar as a badge of power and a fell warning to your foes. You have learned to harness the dark gift of your spellscar and channel its disrupting power. The erratic forces behind your spellscar are yours to command now. Your mastery of your spellscar allows you to tap into raw magical energy, either to harm others with its sizzling power or invigorate your own body. As your power grows, you can wield the fury of this raw magic as easily as a warrior does a blade, calling down the untempered essence of magic gone mad to burn foes to ash. This grants you the following abilities:
+* **Flamespeed.** You can use a bonus action to increase your speed by 10 feet until the end of your next turn. Blue flame momentarily licks the ground where your feet touch it. Once you use this ability, you cannot do so again until you finish a short or long rest.
+* **Larger than Life.** When you make a melee attack, you can increase that attack’s reach by 5 feet. Once you use this ability, you cannot do so again until you finish a long rest.
+* **Sight of the Unseen.** As a bonus action, or as a reaction when light around you dims, you gain the ability to see in both dim light and darkness as if they were bright light, but only out to a range of 5 feet. You can only end this effect during your turn, but doing so does not require an action. However, if the space you are in is exposed to bright light while this effect is active, you suffer disadvantage on sight-based Wisdom (Perception) checks until the end of your next turn. While this effect is active, your eyes are backlit with a dancing blue flame.
+* **Spellscarred Strike.** When you strike an enemy, you can lash out with a flicker of blue fire that passes through their flesh and removes something vital. As an action, you can make an unarmed strike against a target within 5 feet. You may use either your Strength modifier or your Dexterity modifier to modify the attack roll, but you do not add either ability modifier to damage. On a hit, the target takes 1d4 fire damage and 1d4 force damage. The next time the target makes an attack roll before the end of its next turn, it coughs up sickly blue-black blood, and must either accept disadvantage on that attack roll or take 1d8 necrotic damage. Once you use this ability, you cannot do so again until after the end of your next turn.
 
 
 ## Spell Sniper

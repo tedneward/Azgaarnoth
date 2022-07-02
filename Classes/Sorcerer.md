@@ -87,11 +87,14 @@ You can use an arcane focus as a spellcasting focus for your sorcerer spells.
 
 ## Sorcerous Origin
 Choose a sorcerous origin, which describes the source of your innate magical power:
-* [Aberrant Mind](Sorcerer/AberrantMind.md) sorcerers have been touched by creatures of the astral deep
+* [Aberrant Mind](Sorcerer/AberrantMind.md) sorcerers have been touched by creatures of the astral deep.
+* [Arcane Legacy](Sorcerer/ArcaneLegacy.md) sorcerers have a long bloodline of powerful arcane users.
 * [Blood](Sorcerer/Blood.md) is the magic within all, and you use none more than your own.
+* [Channeler](Sorcerer/Channeler.md) sorcerers are those who have an innate gift to absorb the raw power of magic and turn it to their own ends.
 * [Clockwork Soul](Sorcerer/ClockworkSoul.md) means the powers of neutrality call to you.
 * [Divine Soul](Sorcerer/DivineSoul.md) sorcerers have found favor with celestial beings.
 * [Draconic Bloodline](Sorcerer/DraconicBloodline.md) suggests that the dragons, somewhere, somewhen, fit into your family tree; alternatively, you might have had a [dragonmarked](/Races/Dragonmarked.md) somewhere in your family line.
+* [Elemancy](Sorcerer/Elemancy.md)
 * [Firespeaker](Sorcerer/Firespeaker.md), [Seacaller](Sorcerer/Seacaller.md), [Stoneshaper](Sorcerer/Stoneshaper.md), and [Windtalker](Sorcerer/Windtalker) sorcerers hear the Elemental Planes themselves, through the elements all around them, guiding them.
 * [Giant Soul](Sorcerer/GiantSoul.md) sorcerers have ancient giantish blood within them.
 * [Green Star](Sorcerer/GreenStar.md) sorcerers feel the power of an ancient stone of power in their blood somehow.

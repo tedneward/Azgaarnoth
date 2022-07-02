@@ -27,8 +27,7 @@ As an action, you can channel the magic of the Song of Creation to create one no
 
 Once you create an item with this feature, you can't do so again until you finish a long rest, unless you expend a spell slot of 2nd level or higher to use this feature again. You can have only one item created by this feature at a time; if you use this action and already have an item from this feature, the first one immediately vanishes.
 
-The size of the item you can create with this feature increases by one size category when you reach
-6th level (Large) and 14th level (Huge). 
+The size of the item you can create with this feature increases by one size category when you reach 6th level (Large) and 14th level (Huge). 
 
 ## Animating Performance
 *6th-level College of Creation feature*
