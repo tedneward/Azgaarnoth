@@ -220,75 +220,75 @@ Pale master spells are a mix of the arcane, the divine, and the necrotic. Howeve
 * [corruption](/Magic/Spells/corruption.md)
 * [dancing lights](/Magic/Spells/dancing-lights.md)
 * [eidolic chains](/Magic/Spells/eidolic-chains.md)
+* [infestation](/Magic/Spells/infestation.md)
+* [minor illusion](/Magic/Spells/minor-illusion.md)
+* [poison spray](/Magic/Spells/poison-spray.md)
+* [shocking grasp](/Magic/Spells/shocking-grasp.md)
+* [song of the dead](/Magic/Spells/song-of-the-dead.md)
+* [spare the dying](/Magic/Spells/spare-the-dying.md)
+* [toll the dead](/Magic/Spells/toll-the-dead.md)
 * Grimlore’s Influence (GG)
 * Gloom (GG)
 * Grim Scythe (GG)
-* [infestation](/Magic/Spells/infestation.md)
 * Manipulate Shadow (GG)
-* [minor illusion](/Magic/Spells/minor-illusion.md)
 * Night Terror (GG)
 * Pacify (GG)
 * Peaceful Valediction (GG)
-* [poison spray](/Magic/Spells/poison-spray.md)
 * Rancorous-Mist Blade (GG)
 * Scourge (GG)
 * Shadow Embrace (GG)
 * Shadow Ink (GG)
 * Shawl of the Unseen (GG)
-* [shocking grasp](/Magic/Spells/shocking-grasp.md)
-* [song of the dead](/Magic/Spells/song-of-the-dead.md)
-* [spare the dying](/Magic/Spells/spare-the-dying.md)
 * Spare the Living (GG)
-* [toll the dead](/Magic/Spells/toll-the-dead.md)
 * Unholy Flame (GG)
 * Waning Touch (GG)
 
 ## 1st Level
+* [arms of hadar](/Magic/Spells/arms-of-hadar.md)
+* [bane](/Magic/Spells/bane.md)
+* [cause fear](/Magic/Spells/cause-fear.md)
+* [false life](/Magic/Spells/false-life.md)
+* [inflict wounds](/Magic/Spells/inflict-wounds.md)
+* [ray of sickness](/Magic/Spells/ray-of-sickness.md)
+* [unseen servant](/Magic/Spells/unseen-servant.md)
+* [witch bolt](/Magic/Spells/witch-bolt.md)
 * Acrid Delight (GG)
 * Alacritous Interpretation (GG)
 * Animate Cranium (GG)
-* [arms of hadar](/Magic/Spells/arms-of-hadar.md)
-* [bane](/Magic/Spells/bane.md)
 * Bone Storm (GG)
-* [cause fear](/Magic/Spells/cause-fear.md)
 * Creeping Crawling Claw (GG)
 * Cursed with Undeath (GG)
 * Death's Grasp (GG)
 * Dread (GG)
-* [false life](/Magic/Spells/false-life.md)
 * Grimlore’s Shadowblight (GG)
 * Guillotine (GG)
 * Inaudible (GG)
-* [inflict wounds](/Magic/Spells/inflict-wounds.md)
 * Interpret Bone (GG)
 * Larloch's Minor Drain (GG)
 * Misery (GG)
 * Murmurs of the Restless (GG)
-* [ray of sickness](/Magic/Spells/ray-of-sickness.md)
 * Rot (GG)
 * Shed Skin (GG)
-* [unseen servant](/Magic/Spells/unseen-servant.md)
-* [witch bolt](/Magic/Spells/witch-bolt.md)
 
 ## 2nd Level
-* Analyze Blood (GG)
 * [blindness/deafness](/Magic/Spells/blindness-deafness.md)
 * [darkness](/Magic/Spells/darkness.md)
 * [darkvision](/Magic/Spells/darkvision.md)
+* [gentle repose](/Magic/Spells/gentle-repose.md)
+* [misty step](/Magic/Spells/misty-step.md)
+* [ray of enfeeblement](/Magic/Spells/ray-of-enfeeblement.md)
+* [shadow blade](/Magic/Spells/shadow-blade.md)
+* [silence](/Magic/Spells/silence.md)
+* [Silvanus' blessing](/Magic/Spells/silvanus-blessing.md)
+* Analyze Blood (GG)
 * Desecration (GG)
 * Detect Familiar (GG)
 * Drain Life (GG)
 * Elemental Anguish (GG)
-* [gentle repose](/Magic/Spells/gentle-repose.md)
 * Grimlore’s Shadowgrasp (GG)
 * Manacle of Burden (GG)
-* [misty step](/Magic/Spells/misty-step.md)
 * Necrotic Visage (GG)
-* [ray of enfeeblement](/Magic/Spells/ray-of-enfeeblement.md)
-* [shadow blade](/Magic/Spells/shadow-blade.md)
 * Shadow Bind (GG)
-* [silence](/Magic/Spells/silence.md)
-* [Silvanus' blessing](/Magic/Spells/silvanus-blessing.md)
 * Unseat Hand (GG)
 
 ## 3rd Level
@@ -298,12 +298,8 @@ Pale master spells are a mix of the arcane, the divine, and the necrotic. Howeve
 * [dispel magic](/Magic/Spells/dispel-magic.md)
 * [fear](/Magic/Spells/fear.md)
 * [feign death](/Magic/Spells/feign-death.md)
-* Grimlore’s Affliction (GG)
 * [life transference](/Magic/Spells/spells/life-transference.md)
-* Lunar Blessing (GG)
-* Mummify (GG)
 * [phantom steed](/Magic/Spells/phantom-steed.md)
-* Poisoned Heart (GG)
 * [remove curse](/Magic/Spells/remove-curse.md)
 * [revivify](/Magic/Spells/revivify.md)
 * [speak with dead](/Magic/Spells/speak-with-dead.md)
@@ -311,88 +307,91 @@ Pale master spells are a mix of the arcane, the divine, and the necrotic. Howeve
 * [tongues](/Magic/Spells/tongues.md)
 * [vampiric touch](/Magic/Spells/vampiric-touch.md)
 * [water breathing](/Magic/Spells/water-breathing.md) (ritual)
+* Grimlore’s Affliction (GG)
+* Lunar Blessing (GG)
+* Mummify (GG)
+* Poisoned Heart (GG)
 
 ## 4th Level
+* [blight](/Magic/Spells/blight.md)
+* [evard's black tentacles](/Magic/Spells/evards-black-tentacles.md)
+* [phantasmal killer](/Magic/Spells/phantasmal-killer.md)
+* [shadow of moil](/Magic/Spells/shadow-of-moil.md)
 * Army of the Dead (GG)
-* Black Tentacles
-* Blight
 * Devastate Undead (GG)
 * Dusk Arrows (GG)
 * Embers (GG)
-* Evard's Black Tentacles
+* Plague (GG)
 * Grimlore’s Withering Coils (GG)
 * Hallowing Curse (GG)
 * Hemorrhage (GG)
-* Phantasmal Killer
-* Plague (GG)
-* Shadow of Moil
 * Vacillate (GG)
 
 ## 5th Level
+* [cloudkill](/Magic/Spells/cloudkill.md)
+* [contagion](/Magic/Spells/contagion.md)
+* [danse macabre](/Magic/Spells/danse-macabre.md)
+* [enervation](/Magic/Spells/enervation.md)
+* [hallow](/Magic/Spells/hallow.md)
+* [insect plague](/Magic/Spells/insect-plague.md)
+* [mislead](/Magic/Spells/mislead.md)
+* [negative energy flood](/Magic/Spells/negative-energy-flood.md)
+* [oghma's knowledge](/Magic/Spells/oghmas-knowledge.md) ***GG???***
+* [raise dead](/Magic/Spells/raise-dead.md)
+* [reincarnate](/Magic/Spells/reincarnate.md)
+* [scrying](/Magic/Spells/scrying.md)
 * Animate Shadow (GG)
 * Armor of Bones (GG)
 * Banshee's Grievance (GG)
-* Cloudkill
-* Contagion
-* Danse Macabre
 * Defile (GG)
-* Enervation
 * Grimlore’s Touch of Undeath (GG)
-* Hallow
 * Ilmater's Fortune (GG)
-* Insect Plague
 * Midnight (GG)
-* Mislead
-* Negative Energy Flood
-* Oghma's Knowledge
 * Transferal (GG)
-* Raise Dead
-* Reincarnate
-* Scrying
 
 ## 6th Level
+* [circle of death](/Magic/Spells/circle-of-death.md)
+* [create undead](/Magic/Spells/create-undead.md)
+* [disintegrate](/Magic/Spells/disintegrate.md)
+* [eyebite](/Magic/Spells/eyebite.md)
+* [harm](/Magic/Spells/harm.md)
+* [magic jar](/Magic/Spells/magic-jar.md)
+* [soul cage](/Magic/Spells/soul-cage.md)
+* [true seeing](/Magic/Spells/true-seeing.md)
 * Bound into Obedience (GG)
-* Circle of Death
-* Create Undead
-* Disintegrate
-* Eyebite
 * Grace of Shar (GG)
 * Grimlore’s Aphotic Armor (GG)
-* Harm
 * Investiture of Necrosis (GG)
-* Magic Jar
 * Myrkul's Power (GG)
-* Soul Cage
 * Soultap (GG)
-* True Seeing
 
 ## 7th Level
-* Etherealness
-* Finger of Death
-* Forcecage
+* [etherealness](/Magic/Spells/etherealness.md)
+* [finger of death](/Magic/Spells/finger-of-death.md)
+* [forcecage](/Magic/Spells/forcecage.md)
+* [resurrection](/Magic/Spells/resurrection.md)
+* [symbol](/Magic/Spells/symbol.md)
 * Grimlore’s Doom (GG)
-* Resurrection
-* Symbol
 * Vampiric Aura (GG)
 
 ## 8th Level
 * [Abi-Dalzim’s horrid wilting](/Magic/Spells/abi-dalzims-horrid-wilting.md)
+* [clone](/Magic/Spells/clone.md)
+* [grimlore’s crippling](/Magic/Spells/grimlores-crippling.md) ***GG???***
+* [feeblemind](/Magic/Spells/feeblemind.md)
+* [mind blank](/Magic/Spells/mind-blank.md)
+* [power word stun](/Magic/Spells/power-word-stun.md)
 * Armament of Irritants (GG)
 * Ascendancy of Vecna (GG)
 * Chalice of the Night (GG)
-* Clone
-* Grimlore’s Crippling
 * Incursion (GG)
-* Feeblemind
-* Mind Blank
-* Power Word Stun
 * Scornful Mantle of the Undaunted (GG)
 * Soul Imprisonment (GG)
 
 ## 9th Level
-* Astral Projection
+* [astral projection](/Magic/Spells/astral-projection.md)
+* [power word kill](/Magic/Spells/power-word-kill.md)
+* [true resurrection](/Magic/Spells/true-resurrection.md)
 * Bixmodeus' Binding of Perduring Possession (GG)
 * Grimlore’s Calamity (GG)
-* Power Word Kill
 * Tamara's Rebirth (GG)
-* True Resurrection
