@@ -1,4 +1,4 @@
-# Nacoal ([Zhi](/Nations/Zhi.md))
+# Swagab ([Tragekia](/Nations/Tragekia.md))
 **Population:** 
 
 **Features:** 

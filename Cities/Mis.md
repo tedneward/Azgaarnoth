@@ -1,4 +1,4 @@
-# Nacoal ([Zhi](/Nations/Zhi.md))
+# Mis ([Bagonbia](/Nations/Bagonbia.md))
 **Population:** 
 
 **Features:** 

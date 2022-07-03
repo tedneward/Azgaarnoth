@@ -1,4 +1,4 @@
-# Nacoal ([Zhi](/Nations/Zhi.md))
+# Heral ([Yithi](/Nations/Yithi.md))
 **Population:** 
 
 **Features:** 

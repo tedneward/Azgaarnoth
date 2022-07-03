@@ -1,4 +1,4 @@
-# Nacoal ([Zhi](/Nations/Zhi.md))
+# Rebun ([Zabalasa](/Nations/Zabalasa.md))
 **Population:** 
 
 **Features:** 

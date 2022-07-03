@@ -7,6 +7,8 @@ Roaring the name of an ancient warrior, a female halforc charges forward, swingi
 
 Shamans serve as intermediaries between the mortal world and the realms of spirits, called by the spirits to speak for them among mortals. These spirits come in a variety of forms, ranging from elemental nature spirits to the souls of fallen ancestors, and often take on animalistic shapes. While most shamans revere the spirits for which they speak, they rarely worship them outright. More often, a shaman negotiates with the spirits, being granted power both as a means to fulfill the spirits’ needs and as a reward for doing so.
 
+Shamans are often the connection to the spirit realm for those who eschew or ignore the divine; as such, shamans are frequently found in [Yithi](/Nations/Yithi.md) and [Zhi](/Nations/Zhi.md), including on the Council of Seers. The spirit world also seems to prefer those who live away from urban environments, such as in [North Bedia](/Nations/Bedia.md) or in the [Ravenslands](/Geography/Ravenlands.md), but shamans have been called from within the slums of [Mighal](/Cities/Mighal.md), so clearly civilization is no barrier to the spirits. Many of the [*al'maera*](/Geography/AlUma.md) find themselves called as Speakers of Winds or Waters
+
 ## Speakers for Spirits
 Though a shaman usually awakens in response to a specific spirit’s call, she is thereafter bound to the type of spirit that called her, not the individual spirit itself. As such, relationships between a shaman and the various spirits she encounters tend to be less absolute in their tone than that between a cleric and his god or a warlock and his patron. A shaman traveling to a new land must acquaint herself with entirely new spirits and persuade them to grant her some of their power. While holding to the spirits’ obeisances is the easiest way to make these negotiations run smoothly, some spirits may require that a shaman perform some task with the power that they provide.
 
@@ -171,13 +173,13 @@ You know one cantrip of your choice from the below spell list. You learn additio
 [elemental bane](/Magic/Spells/elemental-bane.md),
 [fire shield](/Magic/Spells/fire-shield.md),
 [hallucinatory terrain](/Magic/Spells/hallucinatory-terrain.md),
-[stoneskin](/Magic/Spells/stoneskin.md),
+[stoneskin](/Magic/Spells/stoneskin.md)
 
 #### 5th Level
 [hold monster](/Magic/Spells/hold-monster.md),
 [scrying](/Magic/Spells/scrying.md),
 [telekinesis](/Magic/Spells/telekinesis.md),
-[tree stride](/Magic/Spells/tree-stride.md),
+[tree stride](/Magic/Spells/tree-stride.md)
 
 #### 6th Level
 [bones of the earth](/Magic/Spells/bones-of-the-earth.md),

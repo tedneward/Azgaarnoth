@@ -1,4 +1,4 @@
-# Nacoal ([Zhi](/Nations/Zhi.md))
+# Dradow ([Bedia](/Nations/Bedia.md))
 **Population:** 
 
 **Features:** 
