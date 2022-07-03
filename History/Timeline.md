@@ -50,40 +50,6 @@ The second millennium after the Fall is characterized primarily by one world-sha
 * **1115 AF**: The [White Winds](/Organizations/MageSchools/WhiteWinds.md) mage school, first of the [Mage Schools](/Organizations/MageSchools/MageSchools.md), is founded.
 
 * **1137 AF - 1861 AF**: **Dwarven Exodus.** The first of the [Seventeen Dwarven Cities](/Geography/SeventeenCities.md), Khun Ladur, deep underground near the city of [Dukomi](/Cities/Dukomi.md), falls as the Hordes begin to bring the full weight of their numbers to bear against the dwarves. The dwarvish refugees of Khun Ladur flee to Bhem Buldar. As subsequent cities fall, the steady migration/retreat/exile of the dwarves from their cities in the Underdark become collectively known as the Exodus, and will continue for the next eight hundred years.
-    * **1137 AF**: Khun Ladur, first of the Seventeen Cities, falls to the Hordes.
-
-    * **1156 AF**: Bhem Buldar, second of the Seventeen Cities, falls to the Hordes.
-
-    * **1201 AF**: Khun Boldohr, third of the Seventeen Cities, falls to the Hordes.
-
-    * **1247 AF**: Khun Huldun, fourth of the Seventeen Cities, falls to the Hordes.
-
-    * **1301 AF**: Bhem Boram, fifth of the Seventeen Cities, falls to the Hordes.
-
-    * **1303 AF**: Khun Buldihr, sixth of the Seventeen Cities, falls to the Hordes.
-
-    * **1373 AF**: Kher Todihr, seventh of the Seventeen Cities, falls to the Hordes.
-
-    * **1422 AF**: Khun Kulgrin, eighth of the Seventeen Cities, falls to the Hordes.
-
-    * **1451 AF**: Bhem Thaghdihm, ninth of the Seventeen Cities, falls to the Hordes.
-
-    * **1512 AF**: Bhem Meraruhm, tenth of the Seventeen Cities, falls to the Hordes.
-
-    * **1557 AF**: Khun Gogbaduhr, eleventh of the Seventeen Cities, falls to the Hordes.
-
-    * **1587 AF**: Kher Darwohrum, twelfth of the Seventeen Cities, falls to the Hordes.
-
-    * **1642 AF**: Kher Khinturm, thirteenth of the Seventeen Cities, falls to the Hordes.
-
-    * **1690 AF**: Khun Mamalduhr, fourteenth of the Seventeen Cities, falls to the Hordes.
-
-    * **1776 AF**: Kolgalir, fifteenth (and greatest) of the Seveteen Cities, falls to the Hordes.
-
-    * **1821 AF**: Khun Damkuldihr, sixteenth of the Seventeen Cities, falls to the Hordes.
-
-    * **1861 AF**: Khun Bernkuldir, seventeenth of the Seventeen Cities, falls to the Hordes. 
-
     After Khun Bernkuldir's Fall, no dwarven city in the Underdark remains east of the Mighalian Narrows (in either Yithi or Tragekia). Rumors persist that there are passages through the Underdark under the Narrows (particularly poignant given the Narrows' relative shallow drafts), but no dwarven undercity under Lirian soil is ever assaulted.
 
 ## Third Milennium (2000 - 3000AF): Recovery; Returns; Reorganization
@@ -122,11 +88,17 @@ While the dwarves stabilized their lines in the Underdark against the Hordes, so
 
 * **3771 - 3781 AF**: **Sixth Dwarven Return.**
 
-## Fifth Millennium (4000 - 5000AF)
+* **3912 - 3975 AF**: Hordish Plague sweeps through the Underdark cities beneath [Tragekia](/Nations/Tragekia.md), causing massive suffering and death. Hordish medicine has no answers; sadly, Western medicine could and would have saved many, but few Western healers are known to the Hordes or available to help. For many of the hordechiefs, this is a sign from their gods that they must abandon their old ways and take up a newer, more pacifist way of life, if they are to survive in this world.
+
+## Fifth Millennium (4000 - 5000AF): Prophecy and Finality
+The Fifth Millennium came to be dominated by several major events: the emergence of the Prophet, his Disciple, and their schism; the start of the Hordish Soulwar; and the last Return.
 
 * **4075 AF**: Travesemian Breakway
 
-* **4103 - 4252 AF**: **Seventh Dwarven Return.**
+* **~4100 AF**: Tragekian Hordes begin their slow rebellion against the "uncivilized" Hordish tribes.
+
+* **4103 - 4252 AF**: **Seventh Dwarven Return.** The longest and most successful Return in dwarvish history, started almost accidentally when a dwarvish hero and his comrades journey to [Nytharion](/Cities/Nytharion.md) to scout out Khun Bernkuldir, and find it nearly deserted. *(Tragekia's imminent breakaway, coupled with the Hordish Plague, has led many Hordes to abandon their Underdark homes.)* Quickly sending word back to the Dwarven Courts and Courts-in-Exile, the group settles in to defend the city. When no counterattacks come, the group leads several scouting forays and columns and discovers several other of the Lost Cities are similarly vacant, and again move to fill in the vacuum.
+    Within fifty years, a third of the Lost Cities (Khun Bernkuldir, ..., ..., ..., ..., and ...) have been liberated, and dwarves and their kin pour into the Cities to make their homes anew.
 
 * **4237 AF**: Alalihat emerges from the desert
 
@@ -134,11 +106,11 @@ While the dwarves stabilized their lines in the Underdark against the Hordes, so
 
 * **4455 AF**: Zalabasan Calphate declares independence from Alalihat
 
-* **4500 AF**: Tragekian Hordes begin their slow rebellion against the "uncivilized" Hordish tribes
+* **4517 AF**: Tragekian Hordes announce the foundation of [Tragekia](/Nations/Tragekia.md), and expel all Hordish who will not swear loyalty to the Tragekian Courts. Western nations welcome the relief, but grow wary when the Tragekian Hordes demand ownership of all of western Tragekia as a peace price. War erupts between Liria and Tragekia shortly thereafter, although at a much more limited scale than prior conflicts. Most conflict centers around control of the Bumundunar River, since it almost neatly bisects Tragekia, and many new mercenary companies are formed out of Tragekian ex-patriate Hordish tribes that welcome opportunities to attack their former comrades.
 
-* **4581 AF**: Founding of the open city of Merevets and [Almalz](/Nations/Almalz.md)
+* **4417 - 4449 AF**: **Eighth Dwarven Return.** Today known as "the Last Return", the Dwarven Courts and Courts-in-Exile pool an awe-inspiring amount of resources to form the largest army the Returns have ever fielded. It splits into eight separate forces, attacking simultaneously across all Seventeen Cities, on the theory that the reasons for failure of previous Returns was that any small number of Lost Cities was able to be reinforced by those not under attack--by attacking all of them simultaneously, that reinforcement is impossible. It appears to work for several decades, and the Return looks like it will finally achieve success. However, in 4448 the dwarves suffer a significant series of setbacks, and rather than try to dig in and fight to the death, the Return commanders elect to return to the surface intending to reinforce, rearm, and resupply; instead, when they reach the surface, they find the Dwarven Courts and Courts-in-Exile embroiled in a massive schism, with no fresh troops, supplies, or funds at hand. The Return dissolves, many dwarves swearing oaths to leave the Cities to their fate, and no further Return is ever forged.
 
-* **4417 - 4449 AF**: **Eighth Dwarven Return.** Known today as "the Last Return", the Dwarven Courts and Courts-in-Exile pool an awe-inspiring amount of resources to form the largest army the Returns have ever fielded. It splits into eight separate forces, attacking simultaneously across all Seventeen Cities, on the theory that the reasons for failure of previous Returns was that any small number of Lost Cities was able to be reinforced by those not under attack--by attacking all of them simultaneously, that reinforcement is impossible. It appears to work for several decades, and the Return looks like it will finally achieve success. However, in 4448 the dwarves suffer a significant series of setbacks, and rather than try to dig in and fight to the death, the Return commanders elect to return to the surface to recruit, rearm, and resupply; instead, when they return, they find the Dwarven Courts and Courts-in-Exile embroiled in a massive schism, and no subsequent Return is ever forged.
+* **4581 AF**: Founding of the open city of Merevets and the nation of [Almalz](/Nations/Almalz.md) around it.
 
 ## Sixth Millennium (5000 - 6000AF)
 * **5000 AF**: Ulmhorde begins its descent upon Dradehalia, laying the foundation for the massive invasion that will begin a half-century from now
@@ -146,23 +118,27 @@ While the dwarves stabilized their lines in the Underdark against the Hordes, so
 * **5387 AF**: Bagonbian Breakaway
 
 * **5566 - 5984AF**: **Dradehalian Descent and Rise.**
-    The landing of the Ulmhorde on eastern Dradehalia took those populations by surprise, and the humans and elves living there found themselves dreadfully outnumbered. Over the next hundred years, the Hordes moved west steadily, and city after city fell to Horde forces. Swagab, the Hordes' principal landing point, was rebuilt, however, as the Hordes began to learn and adapt to human and firstborn ways, and in time the Hordes came to call Swagab their "capital", and begin to lay down the trappings of Hordish society.
+    The landing of the Ulmhorde on eastern Dradehalia took those populations by surprise, and the humans and elves living there found themselves dreadfully outnumbered. Over the next hundred years, as the more vicious and bloodthirsty of the Hordes moved west steadily, city after city fell to Horde forces. Swagab, the Hordes' principal landing point, was rebuilt, but their Tragekian neighbors to the north, determined to not allow Ulm uncontested control of the southern continent, begin to infiltrate the Ulmhorde. As the Hordes begin to learn and adapt to human and firstborn ways, those not directly involved in the battles to the west begin to call Swagab their "capital", and start to adopt Tragekian ways. Meanwhile, as city after city falls to the vicious Hordish assault, Dradehalians grow increasingly desperate. Cries for Lirian rescue go either unheard or ignored, and Dradehalian society begins to break down just as steadily as the Hordish march west. 
 
-    The Dradehalians, however, took no notice of the gradual civilization claiming their Hordish neighbors, and grew increasingly desperate. Cries for Lirian rescue went either unheard or ignored, and Dradehalian society began to break down just as steadily as the Hordish march west. When the Shavew, the largest settlement on Dradehalia, was threatened by Hordish bands in 5617, Dradehalia found itself on the cusp of becoming a Horde territory. Much of the continent's food is grown along the shores of the Sunterses River, and if Shavew fell to the Horde, it was reasonable to assume that much of that food would not reach the cities to the west that depended on it. Should Shavew fall, so would fall human mastery of the southern continent. Relocation further west was discussed and explored, but for most of the leaders of the southron humans, it was clear that their last stand was likely at Shavew.
+    * **5617 - 5623 AF**: Siege of Shavew begins: When the Shavew, the largest settlement on Dradehalia, is threatened by Hordish bands, Dradehalia finds itself on the cusp of becoming a Horde territory. Much of the continent's food is grown along the shores of the Sunterses River, so if Shavew falls to the Horde, it is reasonable to assume that much of that food would not reach the cities to the west that depend on it. Thus, should Shavew fall, so would fall human mastery of the southern continent. Relocation further west was discussed and explored, but for most of the leaders of the southron humans, it was clear that their last stand was likely at Shavew.
 
-    Cursing the Lirians who had abandoned them and forced them into such measures, the Dradehalians began to explore any and all measures (military, arcane, divine, or otherwise) that would enable them any measure of success against the Hordes. Thus began the Dradehalians' slow descent into collective madness. Agents were dispatched all over the continent to pursue any and all sort of options, even including several quests to obtain fiendish assistance, if it could be found. It was during the five-year siege of Shavew that a figure emerged of notorious brutality, naming himself only "the Dread Emperor". Before long the Hordes came to fear his presence as his cruelty was eclipsed only by his military successes, and through repeated pitched battles the Hordes came to understand they had met someone who could perhaps be their match. A decade after the siege of Shavew started, the Dread Emperor broke the siege, forced the Hordes back to Eagmeaybar and Snaven, and paused.
+        Cursing the Lirians who had abandoned them and forced them into such measures, Dradehalians begin to explore any and all measures (military, arcane, divine, or otherwise) that would enable them any measure of success against the Hordes. Thus begins the Dradehalians' slow descent into collective madness. Agents are dispatched all over the continent to pursue any and all sort of options, even including several quests to obtain fiendish assistance, if it could be found. 
+        
+    * **5620 AF**: Emergence of the Dread Emperor: It was during the Siege of Shavew a figure emerges of notorious brutality, naming himself only "the Dread Emperor". Before long the Hordes came to fear his presence as his cruelty was eclipsed only by his military successes, and through repeated pitched battles the Hordes came to understand they had met someone who could perhaps be their match. A decade after the siege of Shavew started, the Dread Emperor broke the siege, forced the Hordes back to Eagmeaybar and Snaven, and paused.
 
-    Over the next two hundred years, all of Dradehelia would come to understand the nature of the bargain they had made for their freedom, for once the Hordes were entrenched, the Dread Emperor took the bulk of his army and marched north and west, brutally subjugating the remainder of Dradehalia by conquest, diplomacy, or treachery. Periodically, the Hordes to the east would challenge, and the Dread Emperor would race his armies to meet the incursion and beat them back, then the reclamation of Dradehalia would resume. For some, the conquest was met with reluctant enthusiasm at the idea of a leader who could face down the Hordes; for others, resigned acceptance of their fate; still others continued to curse Liria for her indifference, and eagerly embraced the new order if it meant turning their attentions northward.
+        Over the next two hundred years, all of Dradehelia would come to understand the nature of the bargain they had made for their freedom, for once the Hordes were entrenched, the Dread Emperor took the bulk of his army and marched north and west, brutally subjugating the remainder of Dradehalia by conquest, diplomacy, or treachery. Periodically, the Hordes to the east would challenge, and the Dread Emperor would race his armies to meet the incursion and beat them back, then the reclamation of Dradehalia would resume. For some, the conquest was met with reluctant enthusiasm at the idea of a leader who could face down the Hordes; for others, resigned acceptance of their fate; still others continued to curse Liria for her indifference, and eagerly embraced the new order if it meant turning their attentions northward.
 
-    Once Dradehalia was secure, the Dread Emperor turned his attention eastward again, but by this time two new factors had emerged: the three-way battles for the Chidian continent were in full swing, threatening (he believed) his western flank, and the Hordes to the east had learned from his  actions and were themselves embracing a deeper level of brutality than before. (In fact, the Hordes were facing a schism of their own, between those that sought a more civilized and peaceful Hordish existence to the north in Trakegia, and those in the south in Dradehalia who sought to return to their fiercer roots of conquest and subjugation.) The Dread Emperor found that his Empire was stretched thin, particularly if he wished to have the level of control over the populace that his governance style required, and he chose that control over expansion. After pushing the Hordes east of the Golpoint River, he declared the Hordes "beaten" and began his long campaign of subversion and treachery in all directions.
+        Once Dradehalia was secure, the Dread Emperor turned his attention eastward again, but by this time two new factors had emerged: the three-way battles for the Chidian continent were in full swing, threatening (he believed) his western flank, and the Ulmhorde had not been quiescent, learning from his actions and themselves embracing a deeper level of brutality than before. The Dread Emperor found that his Empire was stretched thin, particularly if he wished to have the level of control over the populace that his governance style required, and he chose that control over expansion. After pushing the Hordes east of the Golpoint River, he declared the Hordes "beaten" and began his long campaign of subversion and treachery in all directions.
 
-* **5572 AF**: Yithi emerges; Pact of the Five Nations signed
+* **5572 AF**: Yithi emerges; Pact of the Five Nations signed.
 
-* **5608 AF**: Yithi dies, Five Nations declares themselves to the be Principality of Yithi
+* **5608 AF**: Yithi dies, Five Nations become the Principality of Yithi. Alalihat and Zabalasa both send emissaries, but are still distrustful of the Hordes and resume skirmishing and raiding. Yithi tribes return the favor for several hundred years.
 
 * **5699 AF**: Whavesimian Breakaway
 
-* **5744 AF**: Council of Seers declares the nation of Zhi; immediately recognized by Yithi
+* **5712 AF**: Tragekia announces incorporation of many of the Ulmhorde tribes into the Tragekian United Hordes. Ulmhorde reaction is swift and brutal, but met head-on. The Tragekians settle in simply to hold the lines; the Ulmhorde prepares to annihiliate their former brethren. Hordes battle for a hundred years in the harsh forests of Chox, [Driord](/Cities/Driord.md) and [Gigdilk](/Cities/Gigdilk.md) with little to show for the effort. Hordes residing in [Paxi](/Cities/Paxi.md) routinely switch sides for profit. Several tribes in Chox betray the Ulmhorde and move east into Tragekia, founding a new city in a defensible valley and call it [Eastern Chox](/Cities/EasternChox.md). 
+
+* **5744 AF**: Council of Seers declares the nation of Zhi; immediately recognized by Yithi. Tragekia sends emissaries.
 
 * **5987 AF**: Bedian Breakaway
 

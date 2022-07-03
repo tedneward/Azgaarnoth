@@ -18,5 +18,5 @@ Kher Khinturm | 1642 AF | near... |
 Khun Mamalduhr | 1690 AF | near... | Drow
 Kolgalir | 1776 AF | near [Nyllar](/Cities/Nyllar.md) | Mind flayers?
 Khun Damkuldirh | 1821 AF | near... | Orc-kin
-Khun Bernkuldir | 1861 AF | near [Nytherion](/Cities/Nytherion.md) | Goblin-kin
+Khun Bernkuldir | 1861 AF | near [Nytharion](/Cities/Nytharion.md) | Goblin-kin
 
