@@ -4,17 +4,16 @@ A collection of backgrounds for characters in Azgaarnoth.
 ## Stereotypes
 These backgrounds are found all over Azgaarnoth, though players will generally want to "tune" the background to the particular region of Azgaarnoth they call home.
 
-* Anthropologist
-* Archaeologist
-* City Watch
+* [City Watch](Backgrounds/CityWatch.md)
 * Clan Crafter
-* Cloistered Scholar
-* Courtier
-* Criminal
+* [Cloistered Scholar](Backgrounds/CloisteredScholar.md)
+* [Courtier](Backgrounds/Courtier.md)
+* [Criminal](Backgrounds/Criminal.md)
 * Entertainer
 * Faceless
 * Faction Agent
 * Far Traveler
+* Field Scholar
 * Folk Hero
 * Gladiator
 * Guild Artisan
@@ -44,10 +43,10 @@ These backgrounds are those specifically of Al'Uman background.
 
 * [Acolyte](Backgrounds/Acolyte.md)
 * [Charlatan](Backgrounds/Charlatan.md)
-* City Watch
-* Cloistered Scholar
-* Courtier
-* Criminal
+* [City Watch](Backgrounds/CityWatch.md)
+* [Cloistered Scholar](Backgrounds/CloisteredScholar.md)
+* [Courtier](Backgrounds/Courtier.md)
+* [Criminal](Backgrounds/Criminal.md)
 * Entertainer
 * Faceless
 * Faction Agent
@@ -73,11 +72,11 @@ This includes the minor nations of Mighalia, Whavesimia, and Bagonbia.
 
 * [Acolyte](Backgrounds/Acolyte.md)
 * [Charlatan](Backgrounds/Charlatan.md)
-* City Watch
+* [City Watch](Backgrounds/CityWatch.md)
 * Clan Crafter
-* Cloistered Scholar
-* Courtier
-* Criminal
+* [Cloistered Scholar](Backgrounds/CloisteredScholar.md)
+* [Courtier](Backgrounds/Courtier.md)
+* [Criminal](Backgrounds/Criminal.md)
 * [Duelist](Backgrounds/Duelist.md)
 * Entertainer
 * Faceless
@@ -108,11 +107,11 @@ These backgrounds are appropriate for characters from Yithia (Yithi and Zhi).
 
 * Anthropologist
 * Archaeologist
-* City Watch
+* [City Watch](Backgrounds/CityWatch.md)
 * (Clan) Crafter
-* Cloistered Scholar
-* Courtier
-* Criminal
+* [Cloistered Scholar](Backgrounds/CloisteredScholar.md)
+* [Courtier](Backgrounds/Courtier.md)
+* [Criminal](Backgrounds/Criminal.md)
 * [Duelist](Backgrounds/Duelist.md)
 * Entertainer
 * Faceless
@@ -141,11 +140,11 @@ These backgrounds are appropriate for characters from Yithia (Yithi and Zhi).
 These backgrounds can be found amongst the Horde nations (Tragekia and Ulm).
 
 * [Charlatan](Backgrounds/Charlatan.md)
-* City Watch
+* [City Watch](Backgrounds/CityWatch.md)
 * Clan Crafter
-* Cloistered Scholar
-* Courtier
-* Criminal
+* [Cloistered Scholar](Backgrounds/CloisteredScholar.md)
+* [Courtier](Backgrounds/Courtier.md)
+* [Criminal](Backgrounds/Criminal.md)
 * Entertainer
 * Faceless
 * Faction Agent
@@ -177,11 +176,11 @@ These backgrounds can be found amongst the Horde nations (Tragekia and Ulm).
 These backgrounds come specifically from the Dread Empire itself.
 
 * [Charlatan](Backgrounds/Charlatan.md)
-* City Watch
+* [City Watch](Backgrounds/CityWatch.md)
 * Clan Crafter
-* Cloistered Scholar
-* Courtier
-* Criminal
+* [Cloistered Scholar](Backgrounds/CloisteredScholar.md)
+* [Courtier](Backgrounds/Courtier.md)
+* [Criminal](Backgrounds/Criminal.md)
 * Entertainer
 * Faceless
 * Faction Agent
@@ -211,11 +210,11 @@ These backgrounds come specifically from the Dread Empire itself.
 These backgrounds are commonly found amongst the hardy folk of Bedia.
 
 * [Acolyte](Backgrounds/Acolyte.md)
-* City Watch
+* [City Watch](Backgrounds/CityWatch.md)
 * Clan Crafter
-* Cloistered Scholar
-* Courtier
-* Criminal
+* [Cloistered Scholar](Backgrounds/CloisteredScholar.md)
+* [Courtier](Backgrounds/Courtier.md)
+* [Criminal](Backgrounds/Criminal.md)
 * Entertainer
 * Faceless
 * Faction Agent
