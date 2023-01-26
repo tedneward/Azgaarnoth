@@ -1,24 +1,12 @@
 # Background: Far Traveler
-Almost all of the common people and other folk that one
-might encounter along the Sword Coast or in the North
-have one thing in common: they live out their lives without
-ever traveling more than a few miles from where
-they were born.
+Almost all of the common people and other folk that one might encounter along the Sword Coast or in the North have one thing in common: they live out their lives without ever traveling more than a few miles from where they were born.
+
 You aren't one of those folk.
-You are from a distant place, one so remote that few
-of the common folk in the North realize that it exists,
-and chances are good that even if some people you meet
-have heard of your homeland, they know merely the
-CHAPTER 5 I BACKGROUNDS
-name and perhaps a few outrageous stories. You have
-come to this part of Faerun for your own reasons, which
-you might or might not choose to share.
-Although you will undoubtedly find some of this land's
-ways to be strange and discomfiting, you can also be
-sure that some things its people take for granted will be
-to you new wonders that you've never laid eyes on before.
-By the same token, you're a person of interest, for
-good or ill, to those around you almost anywhere you go.
+
+You are from a distant place, one so remote that few of the common folk in the North realize that it exists, and chances are good that even if some people you meet have heard of your homeland, they know merely the name and perhaps a few outrageous stories. You have come to this part of Faerun for your own reasons, which you might or might not choose to share.
+
+Although you will undoubtedly find some of this land's ways to be strange and discomfiting, you can also be sure that some things its people take for granted will be to you new wonders that you've never laid eyes on before. By the same token, you're a person of interest, for good or ill, to those around you almost anywhere you go. 
+
 Skill Proficiencies: Insight, Perception
 Tool Proficiencies: Any one musical instrument or
 gaming set of your choice, likely something native to
