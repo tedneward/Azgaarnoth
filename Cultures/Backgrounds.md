@@ -3,8 +3,9 @@ A collection of backgrounds for characters in Azgaarnoth.
 
 ## Common Backgrounds
 
-These are present in all lands, or are not region-specific in any way.
+These are present in all lands, or are not region-specific in any way. They can be found in all nations of Azgaarnoth.
 
+* [Blacksmith](Backgrounds/Blacksmith.md): no matter where in Azgaarnoth, everyone needs smiths.
 * [City Watch](Backgrounds/CityWatch.md)
 * [Courtier](Backgrounds/Courtier.md): where there is a court, there are courtiers.
 * [Criminal](Backgrounds/Criminal.md): where there is law, there are those who see value in circumventing it.
@@ -23,12 +24,12 @@ These are present in all lands, or are not region-specific in any way.
 * [Smuggler](Backgrounds/Smuggler.md): where there is trade, there are those who seek to bypass legal restrictions on it.
 * Soldier
 * Spy
-* Urchin
+* [Urchin](Backgrounds/Urchin.md): not all children have happy childhoods.
 
 ## Al'Uman Backgrounds
 These backgrounds are those specifically of Al'Uman background: [Alalihat](/Nations/Alalihat.md), [Zalabasa](/Nations/Zabalasa.md), and [Almalz](/Nations/Almalz.md).
 
-* [Acolyte](Backgrounds/Acolyte.md): Al'Uman acolytes are almost always of their tribe's established religion (Alilihatian or Zalabasan).
+* [Acolyte](Backgrounds/Acolyte.md): Al'Uman acolytes are almost always of their tribe's established religion (Alalihatian or Zalabasan).
 * [Artisan](Backgrounds/Artisan.md): one thing, regardless of religious dispute, that all Al'Umans agree upon is a love of beauty--whether expressed in stone, glass, paint, or jewelry, artisans are revered and sometimes even coveted among the Courts of the Grasslands.
 * [Athlete](Backgrounds/Athlete.md): Al'Uman tribes frequently hold physical contests of skill during festivals, and more than one tribal rivalry has been born of a lost wager on an athletic competition.
 * [Charlatan](Backgrounds/Charlatan.md): tales of notorious tricksters and con-men litter the Al'Uman legends, and many seek to emulate those who came before them.
@@ -37,6 +38,7 @@ These backgrounds are those specifically of Al'Uman background: [Alalihat](/Nati
 * [Courtier](Backgrounds/Courtier.md): Al'Uman court ceremony is the source of legends, and courtiers are often revered for their ability to navigate the courts, even if they serve no other useful purpose.
 * [Criminal](Backgrounds/Criminal.md): it is said that in the Land of Fate, if you cannot make your way, you take your way. Romantic tales of criminals stir even the most cynical Al'Uman heart.
 * [Dailan Scholar](Backgrounds/DailanScholar.md): though secretive, Dailan scholars are everywhere in Azgaarnoth.
+* [Duelist](Backgrounds/Duelist.md): though less fond of the dueling colleges than the Gozdoran nations, Al'Umans still appreciate the fine art of woven steel between two competitors.
 * [Entertainer](Backgrounds/Entertainer.md)
 * [Far Traveler](Backgrounds/FarTraveler.md):
 * [Folk Hero](Backgrounds/FolkHero.md):
@@ -44,7 +46,7 @@ These backgrounds are those specifically of Al'Uman background: [Alalihat](/Nati
 * [Guild Merchant](Backgrounds/GuildMerchant.md): Merchant Guilds have less pull in Al'Uma than they do in the Gozdoran lands, but still they are present, and many Al'Umans find Merchant Guilds to be an effective counterweight to the pull of tribe or Court.
 * [Hermit](Backgrounds/Hermit.md): among the Al'Uma, hermits are often homeless vagabonds who earn nothing but scorn.
 * [Mercenary Veteran](Backgrounds/MercenaryVeteran.md): some went to fight their religious rivals over the border, some went to fight the accursed Hordes to their east and south, some even joined a mercenary company and fought the world over; all came home with scars, both body and soul.
-* [Nomad](Backgrounds/Nomad.md): nearly half of the population of Al'Uma come from nomadic tribes who roam the grasslands.
+* [Nomad](Backgrounds/AlUmanNomad.md): nearly half of the population of Al'Uma come from nomadic tribes who roam the grasslands.
 * [Smuggler](Backgrounds/Smuggler.md): the nobility of Al'Uma despise them, but the citizenry often romanticize them, and more than one tribe has been known to sponsor their activities to the tribe's benefit (and/or to a rival tribe's detriment).
 
 
@@ -57,11 +59,11 @@ These backgrounds are commonly found amongst the hardy folk of [Bedia and Northe
 * [Cloistered Scholar](Backgrounds/CloisteredScholar.md)
 * [Courtier](Backgrounds/Courtier.md)
 * [Criminal](Backgrounds/Criminal.md): Where civilization is scarce, so is law, and where law is scarce, criminals often gather.
+* [Failed Merchant](Backgrounds/FailedMerchant.md): it is said, when you need to start a new life, start it in Bedia.
 * Far Traveler
 * Folk Hero
 * [Guild Artisan](Backgrounds/GuildArtisan.md): Bedian artisans are often recruited into a Merchant Guild and enjoy a life of luxury compared to home.
 * [Guild Merchant](Backgrounds/GuildMerchant.md): Merchant Guilds have not penetrated deeply into Bedia the way they have other nations, but some see the nation and the continents as opportunities for growth.
-* Haunted One
 * House Agent
 * Hermit
 * Investigator
@@ -79,18 +81,22 @@ These backgrounds are commonly found amongst the hardy folk of [Bedia and Northe
 ## Dradehalian Backgrounds
 These backgrounds come specifically from the [Dread Empire](/Nations/Dradehalia.md).
 
+* [BattleBorn](Backgrounds/BattleBorn.md): of all the nations on Azgaarnoth, Dradehalia knows what happens when people are not ready for war.
+* [Bodyguard](Backgrounds/Bodyguard.md): the intrigue surrounding the Dradehalian nobility begat an industry in people trained to protect others.
+* [Bounty Hunter](Backgrounds/BountyHunter.md)
 * [Charlatan](Backgrounds/Charlatan.md)
 * [City Watch](Backgrounds/CityWatch.md)
 * [Cloistered Scholar](Backgrounds/CloisteredScholar.md)
 * [Courtier](Backgrounds/Courtier.md)
+* [Conscript](Backgrounds/Conscript.md): many of those who fight for the Dread Emperor were not asked their opinion of the idea.
 * [Criminal](Backgrounds/Criminal.md)
+* [Dread Inquisitor](Backgrounds/DreadInquisitor.md)
 * Faction Agent
 * Far Traveler
 * Gladiator
 * Guild Artisan
 * Guild Merchant
-* Haunted One
-* Investigator
+* [Haunted One](Backgrounds/HauntedOne.md)
 * Knight
 * Knight of the Order
 * Mercenary Veteran
@@ -116,14 +122,13 @@ This includes [Liria](/Nations/Liria.md), [Travenia](/Nations/Travenia.md), [Tra
 * [Courtier](Backgrounds/Courtier.md)
 * [Criminal](Backgrounds/Criminal.md)
 * [Duelist](Backgrounds/Duelist.md)
+* [Eldritch Legacy](Backgrounds/EldritchLegacy.md): many of the Gozdorans find they have magic much closer to their lives than they realized.
 * Faction Agent
 * Far Traveler
 * Folk Hero
 * Guild Artisan
 * Guild Merchant
-* Haunted One
 * House Agent
-* Hermit
 * Inheritor
 * Investigator
 * Knight of the (Draconic) Order
@@ -139,10 +144,12 @@ This includes [Liria](/Nations/Liria.md), [Travenia](/Nations/Travenia.md), [Tra
 ## Horde Backgrounds
 These backgrounds can be found amongst the Horde nations ([Tragekia](/Nations/Tragekia.md) and [Ulm](/Nations/Ulm.md)).
 
-* [Charlatan](Backgrounds/Charlatan.md)
+* [BattleBorn](Backgrounds/BattleBorn.md): life in a Hordish tribe is often one battle after another.
+* [Bounty Hunter](Backgrounds/BountyHunter.md)
 * [City Watch](Backgrounds/CityWatch.md)
 * Clan Crafter
 * [Cloistered Scholar](Backgrounds/CloisteredScholar.md)
+* [Conscript](Backgrounds/Conscript.md): many of those who fight for the Hordes were not asked their opinion of the idea.
 * [Courtier](Backgrounds/Courtier.md)
 * [Criminal](Backgrounds/Criminal.md)
 * Faction Agent
@@ -168,21 +175,23 @@ These backgrounds can be found amongst the Horde nations ([Tragekia](/Nations/Tr
 * Spy
 * Urban Bounty Hunter
 * Urchin
-* [Hordes Tribe Member](Backgrounds/HordesTribeMember.md)
+* [Ulmhordes Tribe Member](Backgrounds/UlmhordesTribeMember.md)
+* [United Hordes Tribe Member](Backgrounds/UnitedHordesTribeMember.md)
 
 ## Yithian Backgrounds
 These backgrounds are appropriate for characters from Yithia (Yithi and Zhi).
 
+* [Bounty Hunter](Backgrounds/BountyHunter.md)
 * [City Watch](Backgrounds/CityWatch.md)
 * (Clan) Crafter
 * [Cloistered Scholar](Backgrounds/CloisteredScholar.md)
 * [Courtier](Backgrounds/Courtier.md)
 * [Criminal](Backgrounds/Criminal.md)
 * [Duelist](Backgrounds/Duelist.md)
+* [Eldritch Legacy](Backgrounds/EldritchLegacy.md): many of the Yithians find they have magic much closer to their lives than they realized.
 * Far Traveler
 * [Guild Artisan](Backgrounds/GuildArtisan.md)
 * [Guild Merchant](Backgrounds/GuildMerchant.md)
-* Haunted One
 * [Hermit](Backgrounds/Hermit.md): within Yithi and Zhi, hermits are often seen as revered philosophers worthy of study.
 * Investigator
 * Mercenary Veteran
@@ -191,6 +200,6 @@ These backgrounds are appropriate for characters from Yithia (Yithi and Zhi).
 * Sailor
 * Soldier
 * Spy
-* Urchin
+* [Urban Bounty Hunter](Backgrounds/UrbanBountyHunter.md)
 * [Yithi Tribe Member](Backgrounds/YithiTribeMember.md)
 
