@@ -1,4 +1,5 @@
 # Background: Battle Born
+
 You were born, bred, and trained for combat. From
 the earliest age, you learned how to fight, how to
 kill, and how to survive. You survived the most

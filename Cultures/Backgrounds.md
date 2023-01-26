@@ -114,10 +114,10 @@ These backgrounds come specifically from the [Dread Empire](/Nations/Dradehalia.
 ## Gozdoran Backgrounds
 This includes [Liria](/Nations/Liria.md), [Travenia](/Nations/Travenia.md), [Travesimia](/Nations/Travesimia.md), and the minor nations of [Mighalia](/Nations/Mighalia.md), [Whavesimia](/Nations/Whaveminsia.md), and [Bagonbia](/Nations/Bagonbia.md).
 
+* [Artisan](Backgrounds/Artisan.md)
 * [Acolyte](Backgrounds/Acolyte.md)
 * [Charlatan](Backgrounds/Charlatan.md)
 * [City Watch](Backgrounds/CityWatch.md)
-* Clan Crafter
 * [Cloistered Scholar](Backgrounds/CloisteredScholar.md)
 * [Courtier](Backgrounds/Courtier.md)
 * [Criminal](Backgrounds/Criminal.md)
@@ -147,17 +147,17 @@ These backgrounds can be found amongst the Horde nations ([Tragekia](/Nations/Tr
 * [BattleBorn](Backgrounds/BattleBorn.md): life in a Hordish tribe is often one battle after another.
 * [Bounty Hunter](Backgrounds/BountyHunter.md)
 * [City Watch](Backgrounds/CityWatch.md)
-* Clan Crafter
+* Clan Crafter (that is, an [Artisan](Backgrounds/Artisan.md)): Hordish tribes often revere those who can create something out of nothing, particularly if it relates to helping the tribe grow stronger (Tragekia) or mightier (Ulm).
 * [Cloistered Scholar](Backgrounds/CloisteredScholar.md)
 * [Conscript](Backgrounds/Conscript.md): many of those who fight for the Hordes were not asked their opinion of the idea.
 * [Courtier](Backgrounds/Courtier.md)
 * [Criminal](Backgrounds/Criminal.md)
 * Faction Agent
 * Far Traveler
-* Folk Hero
+* [Folk Hero](Backgrounds/FolkHero.md)
 * Gladiator
-* Guild Artisan
-* Guild Merchant
+* [Guild Artisan](Backgrounds/GuildArtisan.md): while the Ulmhorde has little use for Merchant Guilds, they still respect the skill of their artisans; Tragekia, however, has welcomed the Merchant Guilds with open arms and delights in seeing Hordish artisans deepening their relationships within the Merchant Guilds.
+* [Guild Merchant](Backgrounds/GuildMerchant.md): 
 * Haunted One
 * House Agent
 * Hermit

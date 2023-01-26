@@ -1,4 +1,5 @@
 # Background: Blacksmith
+
 War never changes. There are winners and losers.
 Madmen and kings. Generals and pawns. They all
 require one thing in order to fight and die for their
