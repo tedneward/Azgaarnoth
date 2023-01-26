@@ -1,5 +1,7 @@
-# Western (Waterdhavian) Noble
+# Noble
 You are a scion of one of the great [noble families](/Organizations/Houses/Houses.md) of Azgaarnoth.
+
+
 
 Human families who jealously guard their privilege
 and place in the City of Splendors, Waterdhavian
@@ -22,6 +24,7 @@ and schemes. You might be part of the main line
 of your family, possibly in line to become its leader one
 day. Or you might be one of any number of cousins, with
 less prestige but also less responsibility.
+
 Skill Proficiencies: History, Persuasion
 Tool Proficiencies: One type of gaming set or one
 musical instrument
@@ -29,6 +32,7 @@ Languages: One of your choice
 Equipment: A set of fine clothes, a signet ring or
 brooch, a scroll of pedigree, a skin of fine zzar or
 wine, and a purse containing 20 gp
+
 FEATURE: KEPT IN STYLE
 While you are in Waterdeep or elsewhere in the North
 your house sees to your everyday needs. Your name a~d
@@ -42,6 +46,7 @@ the cost of a wealthy or aristocratic lifestyle by that
 amount. You may not maintain a less affluent lifestyle
 and use the difference as income-the benefit is a line of
 credit, not an actual monetary reward.
+
 SUGGESTED CHARACTERISTICS
 Use the tables for the noble background in the Player's
 Handbook as the basis for your traits and motivations,
