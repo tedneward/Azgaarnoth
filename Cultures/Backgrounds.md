@@ -6,21 +6,22 @@ A collection of backgrounds for characters in Azgaarnoth.
 These are present in all lands, or are not region-specific in any way. They can be found in all nations of Azgaarnoth.
 
 * [Blacksmith](Backgrounds/Blacksmith.md): no matter where in Azgaarnoth, everyone needs smiths.
-* [City Watch](Backgrounds/CityWatch.md)
+* [City Watch](Backgrounds/CityWatch.md): the ever-present guards of cities, towns, villages, even the smallest hamlets.
 * [Courtier](Backgrounds/Courtier.md): where there is a court, there are courtiers.
 * [Criminal](Backgrounds/Criminal.md): where there is law, there are those who see value in circumventing it.
 * [Dailan Scholar](Backgrounds/DailanScholar.md): though secretive, Dailan scholars are everywhere in Azgaarnoth.
-* [Entertainer](Backgrounds/Entertainer.md)
+* [Entertainer](Backgrounds/Entertainer.md): there's always that one person who has to be the center of attention....
 * [Faceless](Backgrounds/Faceless.md): always there are those who "pass" as something else in order to pursue their dreams.
 * [Faction Agent](Backgrounds/FactionAgent.md): details about the Faction will vary with the Nation, Organization, or Religion to which the Agent belongs.
 * [Far Traveler](Backgrounds/FarTraveler.md): from every nation, a select few travel the world for their own reasons and purposes.
 * [Inheritor](Backgrounds/Inheritor.md)
 * [Knight](Backgrounds/Knight.md): every nation has its army, and mercenary companies provide even more opportunities for the militant-minded.
+* [Marine](Backgrounds/Marine.md): those who sail the seas to carry the fight to the enemy.
 * [Noble](Backgrounds/Noble.md): a member (however distant) of a [Noble House](/Organizations/Houses/Houses.md).
 * [Outlander](Backgrounds/Outlander.md): those who grow up far from the comforts of civilization and city life.
 * [Pirate](Backgrounds/Pirate.md): those who prey upon the merchants (and other naval vessels) on the high seas.
 * Sage
-* Sailor
+* [Sailor](Backgrounds/Sailor.md): those who sail the seas for trade.
 * [Smuggler](Backgrounds/Smuggler.md): where there is trade, there are those who seek to bypass legal restrictions on it.
 * Soldier
 * Spy
@@ -75,7 +76,7 @@ These backgrounds are commonly found amongst the hardy folk of [Bedia and Northe
 * Sailor
 * Soldier
 * Spy
-* Urchin
+* [Urchin](Backgrounds/Urchin.md)
 
 
 ## Dradehalian Backgrounds
@@ -108,7 +109,7 @@ These backgrounds come specifically from the [Dread Empire](/Nations/Dradehalia.
 * Soldier
 * Spy
 * Urban Bounty Hunter
-* Urchin
+* [Urchin](Backgrounds/Urchin.md)
 
 
 ## Gozdoran Backgrounds
@@ -125,21 +126,22 @@ This includes [Liria](/Nations/Liria.md), [Travenia](/Nations/Travenia.md), [Tra
 * [Eldritch Legacy](Backgrounds/EldritchLegacy.md): many of the Gozdorans find they have magic much closer to their lives than they realized.
 * Faction Agent
 * Far Traveler
-* Folk Hero
-* Guild Artisan
-* Guild Merchant
+* [Folk Hero](Backgrounds/FolkHero.md): though not quite as widespread in Liria as in other nations of the West, still villages and towns find themselves rallying around an individual of humble origins, particularly when the Crown cannot.
+* [Guild Artisan](Backgrounds/GuildArtisan.md)
+* [Guild Merchant](Backgrounds/GuildMerchant.md)
 * House Agent
-* Inheritor
-* Investigator
-* Knight of the (Draconic) Order
-* Mercenary Veteran
+* [Inheritor](Backgrounds/Inheritor.md)
+* [Investigator](Backgrounds/Investigator.md): many of the Courts employ one or more individuals who specialize in the careful examination of evidence when pursuing a crime.
+* [Knight of the Order](Backgrounds/KnightOfTheOrder.md): many Courts have fashioned their own militant orders, though none as well-respected or popular or effective as the [Order of the Dragon](/Organizations/DraconicOrder/DraconicOrder.md).
+* [Marine](Backgrounds/Marine.md): many men and women have joined national (or mercenary) service as warriors on board ship.
+* [Mercenary Veteran](Backgrounds/MercenaryVeteran.md): numerous men and women have marched off to battle as part of a mercenary company, and many returned with more than just their merc's pay.
 * Pirate
 * Sage
 * Sailor
 * Soldier
 * Spy
 * Urban Bounty Hunter
-* Urchin
+* [Urchin](Backgrounds/Urchin.md)
 
 ## Horde Backgrounds
 These backgrounds can be found amongst the Horde nations ([Tragekia](/Nations/Tragekia.md) and [Ulm](/Nations/Ulm.md)).
@@ -174,7 +176,7 @@ These backgrounds can be found amongst the Horde nations ([Tragekia](/Nations/Tr
 * Soldier
 * Spy
 * Urban Bounty Hunter
-* Urchin
+* [Urchin](Backgrounds/Urchin.md)
 * [Ulmhordes Tribe Member](Backgrounds/UlmhordesTribeMember.md)
 * [United Hordes Tribe Member](Backgrounds/UnitedHordesTribeMember.md)
 
