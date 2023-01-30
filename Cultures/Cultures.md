@@ -2,13 +2,13 @@
 
 ## [Gozdor](Gozdor.md): Human
 
-When the humans were first created by the Eldar, they found themselves in a wondrous world, a utopia that has never been equalled in history. Legends tell of fabled cities, spires that reached the heavens, and lifespans of hundreds of years, all under the care of the fabled Eldar. Gozdor was one of the great chroniclers of the age, and much of what is known about that time descends from his writings, which many still cling to as a guide for life. Agragrian
+When the humans were first created by the Eldar, they found themselves in a wondrous world, a utopia that has never been equalled in history. Legends tell of fabled cities, spires that reached the heavens, and lifespans of hundreds of years, all under the care of the fabled Eldar. Gozdor was one of the great chroniclers of the age, and much of what is known about that time descends from his writings, which many still cling to as a guide for life. Agrarian 
 
 ## [Dail](Dail.md): Human Arcane
 
 ## [Al'Uma](AlUma.md): Human Divine (Arabic)
 
-## [Anor](Anor.md): Human Extraplanar (Tiefling)
+## [Anor](Anor.md): Human Extraplanar
 
 ## [Uruk](Uruk.md), [Ugluk](Ugluk.md): Horde
 
