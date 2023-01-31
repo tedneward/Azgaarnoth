@@ -11,6 +11,8 @@ Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they 
 
 **Specialists.** Some bugbear tribes have begun to learn from the smaller ones around them how to specialize and improve themselves, and have developed some startlingly good skills. The [Blood Ghost Berserker](#blood-ghost-berserker) tribe is one such tribe that has spread its knowledge to other tribes, and many bugbears now openly follow their ways.
 
+Note that Bugbears are also a [playable race](/Races/Bugbear.md)--use those rules if creating a PC or NPC.
+
 
 
 ## Bugbear
@@ -122,3 +124,4 @@ Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they 
 **Handaxe**. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 02/60 ft., one target. Hit: 5 (1d6 + 3) piercing damage in melee or 5 (1d6 + 3) piercing damage at range.
 
 #### Description
+

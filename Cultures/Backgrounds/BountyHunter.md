@@ -1,5 +1,5 @@
 # Background: Bounty Hunter
-Bounty Hunter
+
 Most of the time, the constables, sheriffs, and
 watchmen of the world capture the bad guys and
 administer the necessary justice. From time to

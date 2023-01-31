@@ -25,7 +25,9 @@
 
 **Echolocation.** The bat can't use its blindsight while deafened.
 
-**Keen Hearing.** The bat has advantage on Wisdom (Perception) checks that rely on hearing. One with the Night. The bat has advantage on Dexterity (Stealth) checks made to hide in dim light or darkness.
+**Keen Hearing.** The bat has advantage on Wisdom (Perception) checks that rely on hearing. 
+
+**One with the Night.** The bat has advantage on Dexterity (Stealth) checks made to hide in dim light or darkness.
 
 ## Actions
 **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, plus 3 (1d6) necrotic damage.

@@ -1,10 +1,10 @@
 # Background: Knight of the Order
-You belong to an order of knights who have sworn
-oaths to achieve a certain goal. The nature of this goal
-depends on the order you serve, but in your eyes it is
-without question a vital and honorable endeavor. FaerO.n
-has a wide variety of knightly orders, all of which have
-a similar outlook concerning their actions and responsibilities.
+You belong to a militant order who have sworn oaths to achieve a certain goal. The nature of this goal depends on the order you serve, but in your eyes it is without question a vital and honorable endeavor. The most obvious of these is the [Order of the Dragon](/Organizations/DraconicOrder/DraconicOrder.md), but other, smaller, knighthoods exist, including the Dread Order of the Emperor (a militant order devoted to the Dread Emperor of Dradehalia) and the [Marshals](/Organizations/Marshals.md) (a militant order devoted to upholding the law in Yithi and Zhi).
+
+
+
+
+
 Though the term "knight" conjures ideas of mounted,
 heavily armored warriors of noble blood, most knightly
 orders in FaerO.n don't restrict their membership to such
@@ -17,6 +17,7 @@ The "Knightly Orders of FaerO.n" sidebar details
 several of the orders that are active at present and is designed
 to help inform your decision about which group
 you owe allegiance to.
+
 Skill Proficiencies: Persuasion, plus one from among
 Arcana, History, Nature, and Religion, as appropriate
 for your order

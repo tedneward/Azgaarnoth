@@ -25,6 +25,6 @@
 
 **Irrepressible Dance.** When any creature starts its turn within 10 feet of the item, the item can increase or decrease (your choice) the walking speed of that creature by 10 feet until the end of the turn, provided the item isn't incapacitated.
 
-## Actions
+#### Actions
 **Force-Empowered Slam.** Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target you can see. Hit: 1d10 + PB force damage.
 

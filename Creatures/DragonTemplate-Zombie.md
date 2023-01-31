@@ -1,9 +1,9 @@
 # Creature Template: Zombie Dragon
-Zombie dragons are created through spells such as [animate dead](). Such a dragon has no memory of its former life or self, and functions identically to any other zombie, though it retains some of its abilities and powers because of its draconic nature.
+Zombie dragons are created through spells such as [animate dead](/Magic/Spells/animate-dead.md). Such a dragon has no memory of its former life or self, and functions identically to any other zombie, though it retains some of its abilities and powers because of its draconic nature.
 
 When a dragon becomes a zombie dragon, it retains its statistics, except as described below. The dragon loses any trait, such as Amphibious, that assumes a living physiology. The dragon retains none of its lair actions or legendary actions.
 
-**Type.** The dragon's type changes from dragon to undead, and it no longer requires air, food, drink, or sleep.
+**Type.** The dragon's type changes from Dragon to Undead, and it no longer requires air, food, drink, or sleep.
 
 **Speed.** All of the dragon's speeds are reduced by 10 feet.
 

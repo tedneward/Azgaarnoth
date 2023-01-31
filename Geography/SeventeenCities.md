@@ -25,6 +25,6 @@ Khun Gogbaduhr| | 1557 AF |
 Kher Darwohrum| | 1587 AF |
 Kher Khinturm| | 1642 AF |
 Khun Mamalduhr| | 1690 AF |
-Kolgalir| | 1776 AF | The greatest of the Seventeen, capitol of the Dwarven Cities
+Kolgalir| | 1776 AF | The greatest of the Seventeen, capitol of the Dwarven Cities and home of some of their most impressive engineering feats
 Khun Damkuldihr| | 1821 AF |
 Khun Bernkuldir|Near [Nytherion](/Cities/Nytherion.md)| 1861 AF |
