@@ -60,7 +60,7 @@ The Mark of Finding only manifests on half-orcs. If your character has the Mark 
 * **Imprint Prey**. As a bonus action, choose one creature you can see within 30 feet of you. The target is imprinted in your mind until it dies or you use this trait again. Alternatively, you can imprint a creature as your quarry whenever you succeed on a Wisdom (Survival) check to track it.
   When you are tracking your quarry, double the result of your Intuition die. When your quarry is within 60 feet of you, you have a general sense of its location. Your attacks against it ignore half cover. If you can’t see the target when you attack it, your inability to see it doesn’t impose disadvantage on the attack roll. Likewise, your quarry doesn’t doesn’t gain advantage on attack rolls against you due to being hidden or invisible. Once you use this trait, you cannot use it again until you finish a short or long rest.
 
-* **Nature’s Voice**. When you reach 3rd level you gain the ability to cast locate animals or plants, but only as a ritual.
+* **Nature’s Voice**. When you reach 3rd level you gain the ability to cast [locate animals or plants](/Magic/Spells/locate-animals-or-plants.md), but only as a ritual.
 
 ## The Mark of Handling
 The Mark of Handling gives its bearer a primal connection to beasts and the natural world, granting the power to calm and coax. This extends beyond purely natural animals; the mark allows its bearer to guide a hippogriff as easily as a horse.
@@ -94,7 +94,7 @@ They may not always have gold, but a halfling with the Mark of Hospitality is su
 The Mark of Hospitality manifests exclusively on halflings. If your character has the Mark of Hospitality, this is your halfling subrace.
 Ability Score Increase. Your Charisma score increases by 1.
 
-* **Innkeeper’s Charms**. You know the cantrips [friends](https://www.dndbeyond.com/spells/friends) and prestidigitation. Charisma is your spellcasting ability for them.
+* **Innkeeper’s Charms**. You know the cantrips [friends](/Magic/Spells/friends.md) and [prestidigitation](/Magic/Spells/prestidigitation.md). Charisma is your spellcasting ability for them.
 
 * **Ever Hospitable**. When you make a Charisma (Persuasion) check or an ability check involving brewer’s supplies or cook’s utensils, you can roll one Intuition die (a d4) and add the number rolled to the ability check.
 
@@ -108,9 +108,35 @@ The Mark of Making only manifests on humans. If your character has the Mark of M
 
 **Artisan’s Intuition**. When you make an ability check with artisan’s tools, roll 1d4 and add it to the result.
 
-**Maker’s Gift**. You know the cantrip mending. You gain proficiency with one type of artisan’s tools.
+**Maker’s Gift**. You know the cantrip [mending](/Magic/Spells/mending.md). You gain proficiency with one type of artisan’s tools.
 
-**Magecraft**. You can create a temporary magic item out of common materials. Choose a cantrip from the wizard spell list. Describe the item connected to it. As long as you possess the item, you know that cantrip. At the end of a long rest, you can replace this with a new item and select a new cantrip from the wizard spell list. Intelligence is your spellcasting ability for these cantrips.
+**Magecraft**. You can create a temporary magic item out of common materials. Choose a cantrip from the spell list below. Describe the item connected to it. As long as you possess the item, you know that cantrip. At the end of a long rest, you can replace this with a new item and select a new cantrip from the list. Intelligence is your spellcasting ability for these cantrips.
+
+*Magecraft Cantrip Spell List*
+
+* [balance](/Magic/Spells/balance.md)
+* [blade ward](/Magic/Spells/blade-ward.md)
+* [blood boil](/Magic/Spells/blood-boil.md)
+* [bolster](/Magic/Spells/bolster.md)
+* [booming blade](/Magic/Spells/booming-blade.md)
+* [control flames](/Magic/Spells/control-flames.md)
+* [create bonfire](/Magic/Spells/create-bonfire.md)
+* [dancing lights](/Magic/Spells/dancing-lights.md)
+* [dazzle](/Magic/Spells/dazzle.md)
+* [disarm](/Magic/Spells/disarm.md)
+* [friends](/Magic/Spells/friends.md)
+* [frostbite](/Magic/Spells/frostbite.md)
+* [gust](/Magic/Spells/gust.md)
+* [light](/Magic/Spells/light.md)
+* [mage hand](/Magic/Spells/mage-hand.md)
+* [mending](/Magic/Spells/mending.md)
+* [message](/Magic/Spells/message.md)
+* [mold earth](/Magic/Spells/mold-earth.md)
+* [prestidigitation](/Magic/Spells/prestidigitation.md)
+* [sapping sting](/Magic/Spells/sapping-sting.md)
+* [shape water](/Magic/Spells/shape-water.md)
+* [shocking grasp](/Magic/Spells/shocking-grasp.md)
+* [thunderclap](/Magic/Spells/thunderclap.md)
 
 **Spellsmith**. You can spend one minute to weave a temporary enchantment into a nonmagical suit of armor or weapon. For the next hour the object becomes a magic item, gaining a +1 bonus to AC if it’s armor or a +1 bonus to hit and damage if it’s a weapon. Once you use this trait, you can’t use it again until you finish a long rest.
 
@@ -134,14 +160,15 @@ The Mark of Passage only manifests on humans. If your character has the Mark of 
 The Mark of Scribing deals with communication—both the written and spoken word. A gnome who bears the mark can feel words as though they are living creatures, struggling to make their meaning known. The mark provides a range of gifts. It translates languages, but it also allows its bearer to speak to others at a distance and to inscribe their words wherever they wish.
 
 ### Traits
-The Mark of Scribing manifests exclusively on gnomes. If your character has the Mark of Scribing, this is your gnome subrace.
-Ability Score Increase. Your Charisma score increases by 1.
+The Mark of Scribing manifests exclusively on gnomes. If your character has the Mark of Scribing, this is your gnome subrace. 
+
+**Ability Score Increase.** Your Charisma score increases by 1.
 
 **Gifted Scribe**. You are proficient with calligrapher’s supplies and forgery kits. When you make an ability check using either one of these tools, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
 
-**Scribe’s Insight**. You can cast comprehend languages once with this trait, and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for it.
+**Scribe’s Insight**. You can cast [comprehend languages](/Magic/Spells/comprehend-languages.md) once with this trait, and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for it.
 
-**Whispering Wind**. You know the message cantrip. Intelligence is your spellcasting ability for it.
+**Whispering Wind**. You know the [message](/Magic/Spells/message.md) cantrip. Intelligence is your spellcasting ability for it.
 
 **Extra Language**. You can speak, read, and write one extra language of your choice.
 
@@ -155,7 +182,7 @@ The Mark of Sentinel only manifests on humans. If your character has the Mark of
 
 **Sentinel’s Intuition**. When you roll for Initiative or make a Wisdom (Perception) check to notice a threat, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
 
-**Sentinel’s Shield**. You know the [blade ward](https://www.dndbeyond.com/spells/blade-ward) cantrip. You can cast the shield spell once with this trait and you regain ability to do so after you finish a short or long rest.
+**Sentinel’s Shield**. You know the [blade ward](/Magic/Spells/blade-ward.md) cantrip. You can cast the shield spell once with this trait and you regain ability to do so after you finish a short or long rest.
 
 **Vigilant Guardian**. As an action, you can designate an ally you can see as your ward. You have advantage on Wisdom (Insight) and Wisdom (Perception) checks made to spot threats to your ward. In addition, when you are within 5 feet of your ward, and that creature is the target of an attack that you can see, you can use your reaction to swap places with your ward. When you do, you become the target of the attack.
 
@@ -170,7 +197,7 @@ Ability Score Increase. Your Charisma score increases by 1.
 
 **Gift of the Shadows**. When you make a Charisma (Performance) or Dexterity (Stealth) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
 
-**Shape Shadows**. You know the minor illusion cantrip. Charisma is your spellcasting ability for this trait.
+**Shape Shadows**. You know the [minor illusion](/Magic/Spells/minor-illusion.md) cantrip. Charisma is your spellcasting ability for this trait.
 
 **Slip Into Shadow**. You can use the Hide action as a bonus action, even if you have no cover or if you’re under observation. Regardless of whether you succeed or fail, once you use this ability, you can’t use it again until you finish a short or long rest.
 
@@ -188,7 +215,7 @@ The Mark of Storm manifests exclusively on half-elves. If your character has the
 
 **Storm’s Blessing**. You have resistance to lightning damage.
 
-**Headwinds**. You know the [gust](https://www.dndbeyond.com/spells/gust) cantrip. When you reach 3rd level, you can cast the gust of wind spell once with this trait and regain the ability to do so when you finish a long rest.
+**Headwinds**. You know the [gust](/Magic/Spells/gust.md) cantrip. When you reach 3rd level, you can cast the [gust of wind](/Magic/Spells/gust-of-wind.md) spell once with this trait and regain the ability to do so when you finish a long rest.
 
 **Languages**. You can speak, read, and write Common and Elvish.
 
@@ -202,7 +229,7 @@ The Mark of Warding manifests exclusively on dwarves. If your character has the 
 
 **Master of Locks**. When you make an Intelligence (History), Intelligence (Investigation), or Thieves' Tools check involving lock and trap mechanisms, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
 
-**Wards and Seals**. You can use your mark to cast the alarm spell as a ritual. Starting at 3rd level you can cast [arcane lock](https://www.dndbeyond.com/spells/arcane-lock) once with this trait and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for these spells.
+**Wards and Seals**. You can use your mark to cast the alarm spell as a ritual. Starting at 3rd level you can cast [arcane lock](/Magic/Spells/arcane-lock.md) once with this trait and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for these spells.
 
 
 ## Feat: Greater Dragonmark
@@ -213,6 +240,7 @@ Only a fraction of dragonmarked ever develop a Greater Dragonmark. The powers th
 *Prerequisite: 8th level, Character must possess a dragonmark*
 
 Your dragonmark has grown in size and power. This enhances your existing dragonmark, and the benefits are based on the mark that you already possess. A greater dragonmark provides the following benefits:
+
 * The die type of your dragonmarked Intuition Die increases by one.
 * Increase one ability score by 1, to a maximum of 20. The abilities available to you are based on your mark, as shown on the Greater Dragonmark Benefits table.
 * You learn a set of spells, each of which you can cast once without expending a spell slot or using a material component. The list of spells, the spellcasting ability for these spells, and the type of rest you must complete in order to regain the use of these spells are shown on the Greater Dragonmark Benefits table.
@@ -222,15 +250,15 @@ To cast Leomund's secret chest using this feat and the Mark of Warding, you must
 **Greater Dragonmark Benefits**
 Dragonmark | Ability Score Increase | Spells | Spellcasting Ability | Rest Required
 ---------- | ---------------------- | ------ | -------------------- | -------------
-Detection | Charisma or Intelligence | see invisibility, true seeing | Intelligence | Long
-Finding | Dexterity, Strength, or Wisdom | find the path, locate creature | Wisdom | Long
-Handling | Dexterity or Wisdom | beast sense, dominate beast | Wisdom | Long
-Healing | Dexterity or Wisdom | greater restoration, mass healing word | Wisdom | Long
-Hospitality | Charisma or Dexterity | Mordenkainen’s magnificent mansion, sanctuary | Charisma | Long
-Making | Dexterity or Intelligence | creation, fabricate | Intelligence | Long 
-Passage |  Dexterity or Constitution | blink, teleportation circle | Constitution | Long
-Scribing | Intelligence or Charisma | sending, tongues | Intelligence | Long or Short
-Sentinel | Strength or Wisdom | compelled duel, warding bond | Wisdom | Long or Short
-Shadow | Charisma or Dexterity | nondetection, mislead | Charisma | Long
-Storm | Charisma or Dexterity | control water, [control winds](/Magic/Spells/control-winds.md) | Charisma | Long
-Warding | Dexterity or Intelligence | glyph of warding, knock, Leomund’s secret chest* | Intelligence | Long
+Detection | Charisma or Intelligence | [see invisibility](/Magic/Spells/see-invisibility.md), [true seeing](/Magic/Spells/true-seeing.md) | Intelligence | Long
+Finding | Dexterity, Strength, or Wisdom | [find the path](/Magic/Spells/find-the-path.md), [locate creature](/Magic/Spells/locate-creature.md) | Wisdom | Long
+Handling | Dexterity or Wisdom | [beast sense](/Magic/Spells/beast-sense.md), [dominate beast](/Magic/Spells/dominate-beast.md) | Wisdom | Long
+Healing | Dexterity or Wisdom | [greater restoration](/Magic/Spells/greater-restoration.md), [mass healing word](/Magic/Spells/mass-healing-word.md) | Wisdom | Long
+Hospitality | Charisma or Dexterity | [magnificent mansion](/Magic/Spells/mordenkainens-magnificient-mansion.md), [sanctuary](/Magic/Spells/sanctuary.md) | Charisma | Long
+Making | Dexterity or Intelligence | [creation](/Magic/Spells/creation.md), [fabricate](/Magic/Spells/fabricate.md) | Intelligence | Long 
+Passage |  Dexterity or Constitution | [blink](/Magic/Spells/blink.md), [teleportation circle](/Magic/Spells/teleportation-circle.md) | Constitution | Long
+Scribing | Intelligence or Charisma | [sending](/Magic/Spells/sending.md), [tongues](/Magic/Spells/tongues.md) | Intelligence | Long or Short
+Sentinel | Strength or Wisdom | [compelled duel](/Magic/Spells/compelled-duel.md), [warding bond](/Magic/Spells/warding-bond.md) | Wisdom | Long or Short
+Shadow | Charisma or Dexterity | [nondetection](/Magic/Spells/nondetection.md), [mislead](/Magic/Spells/mislead.md) | Charisma | Long
+Storm | Charisma or Dexterity | [control water](/Magic/Spells/control-water.md), [control winds](/Magic/Spells/control-winds.md) | Charisma | Long
+Warding | Dexterity or Intelligence | [glyph of warding](/Magic/Spells/glyph-of-warding.md), [knock](/Magic/Spells/knock.md), [secret chest](/Magic/Spells/leomunds-secret-chest.md) | Intelligence | Long
