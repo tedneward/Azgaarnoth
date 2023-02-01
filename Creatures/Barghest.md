@@ -50,7 +50,7 @@ While in wolf form, the barghest can't speak, its walking speed is 40 feet and i
 **Feed**. The barghest targets one creature with 0 hit points it can see within 5 feet of it. The target must make a Constitution saving throw against the barghet's spell DC. On failure, the target dies and cannot be resurrected by spells or spell like features until the barghest is killed.
 
 #### Description
-![Barghest](Barghest.jpeg)
+![Barghest](Barghest.jpg)
 
 A barghest is a lupine fiend that can take the shape of a wolf or goblin. In its natural form, it resembles a goblin-wolf hybrid with terrible jaws and sharp claws. Barghests come into the world to feed on blood and souls to grow stronger.
 
