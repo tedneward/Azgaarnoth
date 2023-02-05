@@ -26,7 +26,7 @@ Yithi is a Republic led by a Prince, the current one being the latest in the lin
 
 Yithi currently is made up of twenty-four tribes, each one in control of a city within the borders. (The capital is not owned by any particular tribe, but instead is governed by the Prince directly, who is of "all tribes and none".) Each tribe has a long history within the nation, and the first five (Feldadar, Malauth, Sahramar, Shiagan, and Artar) were the Five Nations that formed the original Pact that Yithi led to unite the rest of the remaining tribes. These five tribes nominally have an equal voice in the Prince's Council, but in practical reality these five are the first among equals. Jockeying among the tribes for prominence is typical, but in most cases, when the Prince speaks, all the tribes listen, and most large crises can be acted on quickly. Each tribe is headed by a Chieftain, and each tribe decides for itself how it selects its Chieftain and how the Chieftain arrives at the decisions required for effective governance of the tribe.
 
-Like Zhi, Yithi has roving magistrates called [Marshals](/Organizations/Marshals.md) that provide an independent legal entity across the land.
+Like Zhi, Yithi has roving magistrates called [Marshals](/Organizations/MilitantOrders/Marshals.md) that provide an independent legal entity across the land.
 
 The twenty-four tribes of the Yithi; each corresponds to one of the cities within the Principality:
 

@@ -1,5 +1,5 @@
 # Background: Knight of the Order
-You belong to a militant order who have sworn oaths to achieve a certain goal. The nature of this goal depends on the order you serve, but in your eyes it is without question a vital and honorable endeavor. The most obvious of these is the [Order of the Dragon](/Organizations/DraconicOrder/DraconicOrder.md), but other, smaller, knighthoods exist, including the Dread Order of the Emperor (a militant order devoted to the Dread Emperor of Dradehalia) and the [Marshals](/Organizations/Marshals.md) (a militant order devoted to upholding the law in Yithi and Zhi).
+You belong to a militant order who have sworn oaths to achieve a certain goal. The nature of this goal depends on the order you serve, but in your eyes it is without question a vital and honorable endeavor. The most obvious of these is the [Order of the Dragon](/Organizations/DraconicOrder/DraconicOrder.md), but other, smaller, knighthoods exist, including the Dread Order of the Emperor (a militant order devoted to the Dread Emperor of Dradehalia) and the [Marshals](/Organizations/MilitantOrders/Marshals.md) (a militant order devoted to upholding the law in Yithi and Zhi).
 
 
 
