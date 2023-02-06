@@ -26,14 +26,14 @@ With civilization comes those who prefer to find "easier" ways of making a livin
 ## Militant Orders
 Several organizations are primarily "militant" in nature, often with long histories stretching back for generations.
 
-### [Draconic Order](DraconicOrder/DraconicOrder.md)
-The Knights of the Draconic Orders are some of the most fearsome and respected people in Azgaarnoth, and they fight to preserve civilization and its benefits for everyone in Azgaarnoth. Defined into a half-dozen separate and distinct orders, each taking after a distinct species of metallic dragon, each leverages their own skills and capabilities as part of a larger effort, and periodically work together to defeat threats to the world.
-
-### [Cult of the Wyrm](./CultOfTheWyrm.md)
-A cross between a Rogues' Guild, a religion, and militant order, the Wyrmcult is a force that, like the Draconic Order, is closely aligned to dragons, but chromatic rather than metallic. Deep-seated enmity between the Cultists and the Draconic Order--stemming from both the enmity of metallic and chromatic dragons as well as their own history of thousands of years of battle--has driven the Cultists into hiding, but they are no less vicious (or, it is feared, numerous) than they were when operating out of the shadows.
-
 ### [Marshals](MilitantOrders/Marshals.md)
 The Marshals are another force for law in Azgaarnoth, founded and funded by the Prince's Council of [Yithi](/Nations/Yithi.md) and often equipped by the scholars of [Zhi](/Nations/Zhi.md). Marshals move about the towns and cities of Yithi and Zhi (and sometimes beyond), acting as an independent force of law beyond that of the Twenty-Four Tribes, to ensure that there is always a counterbalance to the power of the nobility. Each Marshal generally operates independently of one another, pursuing their own investigations and/or concerns, though they have been known to be given missions by the Prince's Council, and/or partner with other organizations if the end result furthers the citizenry of Yithi and Zhi.
+
+## [Draconic Order](DraconicOrder/DraconicOrder.md)
+The Knights of the Draconic Orders are some of the most fearsome and respected people in Azgaarnoth, and they fight to preserve civilization and its benefits for everyone in Azgaarnoth. Defined into a half-dozen separate and distinct orders, each taking after a distinct species of metallic dragon, each leverages their own skills and capabilities as part of a larger effort, and periodically work together to defeat threats to the world.
+
+## [Cult of the Wyrm](./CultOfTheWyrm.md)
+A cross between a Rogues' Guild, a religion, and militant order, the Wyrmcult is a force that, like the Draconic Order, is closely aligned to dragons, but chromatic rather than metallic. Deep-seated enmity between the Cultists and the Draconic Order--stemming from both the enmity of metallic and chromatic dragons as well as their own history of thousands of years of battle--has driven the Cultists into hiding, but they are no less vicious (or, it is feared, numerous) than they were when operating out of the shadows.
 
 ## [Dueling Colleges](DuelingColleges.md)
 As wars wound down into embers rather than full-fledged bonfires, various mercenaries sought ways to test their skills against one another without all the cost involved. What emerged were a series of traditions--the duel--wherein different parties could try their martial skills against one another. Singly, pairs, groups, and all manner of permutations therein began to emerge, and with it a set of guidelines that formalized much of the context of the duels. Eventually these became full organizations, with standing structures, that came to be known as the "dueling colleges", and they thrive today, particularly as an entertainment venue for many of the citizens of cities large enough to support a dueling college.
