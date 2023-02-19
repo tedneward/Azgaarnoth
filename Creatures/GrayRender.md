@@ -27,7 +27,7 @@
 
 **Savage Attack.** Once per turn the DM rerolls the render's damage dice and takes the highest result.
 
-## Actions
+#### Actions
 **Multiattack.** The render makes two claw attacks. It can choose to grapple a target that it has successfully hit with its claws.
 
 **Claw.** Melee Weapon Attack: +7 to hit, reach 10 ft., Hit: 19 (4d8 + 5) slashing damage.

@@ -7,18 +7,9 @@
 
 **Speed** 30 ft.
 
-STR
-22(+6)
-DEX
-9(−1)
-CON
-20(+5)
-INT
-3(−4)
-WIS
-11(+0)
-CHA
-1(−5)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+22 (+6)| 9 (−1)|20 (+5)| 3 (−4)|11 (+0)| 1 (−5)
 
 **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t adamantine
 

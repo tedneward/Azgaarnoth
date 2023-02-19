@@ -31,11 +31,11 @@
 
 **Innate Spellcasting**. The giant's innate spellcasting ability is Wisdom (spell save DC 15). It can innately cast the following spells, requiring no material components:
 
-*At will*: barksin, freedom of movement, plant growth, spider climb
+*At will*: [barksin](/Magic/Spells/barkskin.md), [freedom of movement](/Magic/Spells/freedom-of-movement.md), [plant growth](/Magic/Spells/plant-growth.md), [spider climb](/Magic/Spells/spider-climb.md)
 
-*3/day each*: call lightning, pass without trace, speak with plants
+*3/day each*: [call lightning](/Magic/Spells/call-lightning.md), [pass without trace](/Magic/Spells/pass-without-trace.md), [speak with plants](/Magic/Spells/speak-with-plants.md)
 
-## Actions
+#### Actions
 **Multiattack.** The giant makes two attacks with its spear.
 
 **Spear.** Melee or Ranged Weapon Attack: +9 to hit, reach 15 ft. or range 60/240 ft., one target. Hit: 16 (3d6 + 6) piercing damage or 19 (3d8 + 6) piercing damage when wielded with two hands as a melee weapon.

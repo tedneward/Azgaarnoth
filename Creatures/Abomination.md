@@ -1,5 +1,5 @@
 # Abomination
-Large undead, chaotic evil
+*Large undead, chaotic evil*
 
 **Armor Class** 9
 
@@ -7,18 +7,9 @@ Large undead, chaotic evil
 
 **Speed** 30 ft.
 
-STR
-19(+4)
-DEX
-9(−1)
-CON
-18(+4)
-INT
-6(−2)
-WIS
-10(+0)
-CHA
-5(−3)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+19(+4) | 9(−1) | 18(+4)| 6(−2) | 10(+0)| 5(−3)
 
 **Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t adamantine
 

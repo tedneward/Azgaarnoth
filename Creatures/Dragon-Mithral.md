@@ -16,6 +16,26 @@ Mithral dragons prefer their home plane, living in the domains of deities. While
 
 On the Material Plane, mithral dragons don't favor any particular terrain. That said, if a mithral dragon does make a lair on the Material Plane, it will try to find a place where it can attune to the will of deity, which usually happens best in abandoned temples or other important religious areas. If one of these areas cannot be found, the dragon may settle for a mine where it can attempt to read gemstone deposits, and there glean glimpses of future events.
 
+#### Lair Actions
+On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
+* The dragon can choose any number creatures that it can see that are within 60 feet of it. Each of those creatures must make a DC 15 Dexterity saving throw as a beam of radiance shoots toward it, taking 5 (1d10) radiant damage on a failed save.
+* The dragon glimpses the future, so it has advantage on attack rolls, ability checks, and saving throws until initiative count 20 on the next round.
+* The dragon's scales reflect an intense otherworldly light in a 30-foot radius around it. Each creature in that area must succeed on a DC 15 Constitution saving throw or be blinded for 1 minute. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+#### Regional Effects
+The region containing a legendary mithral dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
+* The area for 6 miles around the dragon's lair turns into a lush paradise, even if it lives in a place where plants don't normally grow.
+* Within 1 mile of the lair, beasts with 4 Intelligence or less and that are not hostile to the dragon become the dragon's zealous guards and spies. They alert the dragon to threats, and defend the dragon with their lives.
+* Whenever a creature with at least 5 Intelligence finishes a long rest within 1 mile of the lair, it must make a DC 20 Wisdom saving throw. On a success, it involuntarily glimpses the future in the form of a short vision. The DM determines the content and nature of this vision. 
+
+When the dragon dies, these effects fade over the course of 1d10 days. Plants remain where they have grown, unless they don't normally grow in that terrain.
+
+> **Frozen in Time** 
+> A mithral dragon's secondary breath weapon freezes its opponents in time, almost as if with a [time stop](/Magic/Spells/time-stop.md) spell. While a creature is thus affected, it suffers these conditions:
+> * the creature is incapacitated, can't move or speak, and is unaware of its surroundings
+> * attack rolls against the creature have advantage any melee weapon attack that would hit the creature is automatically a critical hit
+> * the creature automatically fails Strength and Dexterity saving throws
+
 ## Physical Characteristics
 A mithral dragon's scales are snow white when it first hatches, and darken to silvery mithral as it ages; older dragons retain some snowy color in the form of intricate white striations that follow their musculature. Their scales glow faintly.
 
@@ -36,25 +56,6 @@ Mithral dragons only fight when and where they want to. If a dragon isn't lookin
 
 If the dragon does fight, it will choose an area with lots of obstructions and difficult terrain, so that it can most effectively utilize its teleportation ability. It uses its foresight to determine the most powerful foes and target them first, using its Time Stop Breath or teleportation to get into advantageous positions. A mithral dragon then prefers to spread its attacks across all of its foes, rather than focus down a single one, (especially if the dragon has the Dimension Strike dragon feat).
 
-## Lair Actions
-On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
-* The dragon can choose any number creatures that it can see that are within 60 feet of it. Each of those creatures must make a DC 15 Dexterity saving throw as a beam of radiance shoots toward it, taking 5 (1d10) radiant damage on a failed save.
-* The dragon glimpses the future, so it has advantage on attack rolls, ability checks, and saving throws until initiative count 20 on the next round.
-* The dragon's scales reflect an intense otherworldly light in a 30-foot radius around it. Each creature in that area must succeed on a DC 15 Constitution saving throw or be blinded for 1 minute. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-## Regional Effects
-The region containing a legendary mithral dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
-* The area for 6 miles around the dragon's lair turns into a lush paradise, even if it lives in a place where plants don't normally grow.
-* Within 1 mile of the lair, beasts with 4 Intelligence or less and that are not hostile to the dragon become the dragon's zealous guards and spies. They alert the dragon to threats, and defend the dragon with their lives.
-* Whenever a creature with at least 5 Intelligence finishes a long rest within 1 mile of the lair, it must make a DC 20 Wisdom saving throw. On a success, it involuntarily glimpses the future in the form of a short vision. The DM determines the content and nature of this vision. 
-
-When the dragon dies, these effects fade over the course of 1d10 days. Plants remain where they have grown, unless they don't normally grow in that terrain.
-
-> **Frozen in Time** 
-> A mithral dragon's secondary breath weapon freezes its opponents in time, almost as if with a [time stop]() spell. While a creature is thus affected, it suffers these conditions:
-> * the creature is incapacitated, can't move or speak, and is unaware of its surroundings
-> * attack rolls against the creature have advantage any melee weapon attack that would hit the creature is automatically a critical hit
-> * the creature automatically fails Strength and Dexterity saving throws
 
 ## Mithral Dragon [Feats](DraconicFeats.md)
 

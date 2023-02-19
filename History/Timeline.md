@@ -144,7 +144,7 @@ The Fifth Millennium came to be dominated by several major events: the emergence
 
 ## 5900AF: Beginning of the Modern World
 
-* **5906 AF**: First two [Dueling Colleges](/Organizations/DuelingColleges.md) is founded in Mighalia; by the end of the century dueling colleges can be found in almost every city of more than 50,000 citizens.
+* **5906 AF**: First two [Dueling Colleges](/Organizations/DuelingColleges.md) founded in Mighalia; by the end of the century dueling colleges can be found in almost every city of more than 50,000 citizens.
 
 * **6902 AF**: Mighalia declares independence.
 

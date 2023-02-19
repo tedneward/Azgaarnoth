@@ -35,7 +35,7 @@ Deity | Description |Alignment | Domains | Symbol
 [Savras](Pantheon/Savras.md)|God of divination and fate|LN|Time, Order|Crystal ball containing many kinds of eyes
 [Silvanus](Pantheon/Silvanus.md)|God of wild nature|N|Nature|Oak leaf
 [Talos](Pantheon/Talos.md)|God of storms|CE|Air, Tempest, Zeal|Three lightning bolts radiating from a central point
-[The Keeper](Pantheon/Keeper.md)|God of greed and death|NE|Death, Grave|Obsidian tone in the shape of a fang
+[The Keeper](Pantheon/Keeper.md)|God of greed and death|NE|Death, Grave|Obsidian tome in the shape of a fang
 [The Traveler](Pantheon/Traveler.md)|Deity of chaos and change|CN|Chaos, Twilight, Trickery|Four crossed, rune-inscribed bones
 [Tiamat](Pantheon/Tiamat.md)|Dragon goddess of evil|LE|Dragon, Trickery|Dragon head with five claw marks
 [Wee Jas](Pantheon/WeeJas.md)|Goddess of magic and death|LN|Arcana, Death|Red skull in front of fireball
