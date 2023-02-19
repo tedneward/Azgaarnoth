@@ -2,11 +2,15 @@
 
 ## [Gozdor](Gozdor.md): Human
 
-When the humans were first created by the Eldar, they found themselves in a wondrous world, a utopia that has never been equalled in history. Legends tell of fabled cities, spires that reached the heavens, and lifespans of hundreds of years, all under the care of the fabled Eldar. Gozdor was one of the great chroniclers of the age, and much of what is known about that time descends from his writings, which many still cling to as a guide for life. Agrarian 
+When the humans were first created by the Eldar, they found themselves in a wondrous world, a utopia that has never been equalled in history. Legends tell of fabled cities, spires that reached the heavens, and lifespans of hundreds of years, all under the care of the fabled Eldar. Gozdor was one of the great chroniclers of the age, and much of what is known about that time descends from his writings, which many still cling to as a guide for life.
+
+Most Gozdorans believe in the power of nature and natural life. Agrarian 
 
 ## [Dail](Dail.md): Human Arcane
 
 ## [Al'Uma](AlUma.md): Human Divine (Arabic)
+
+The Al'Uma are a fierce, passionate people, reveling in emotion. They value family, tribe, friends, and consider loyalty to be the most precious of all the emotional spectrum. To betray family, tribe, or friends is to cut oneself off of all things Al'Uman, and many legends and tales are told of tragic heroes faced with impossible choices between two family/friends/tribes and the need to betray one to hold faith with the other.
 
 ## [Anor](Anor.md): Human Extraplanar
 
