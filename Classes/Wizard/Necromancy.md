@@ -12,7 +12,7 @@ Beginning when you select this school at 2nd level, the gold and time you must s
 At 2nd level, you gain the ability to reap life energy from creatures you kill with your spells. Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain hit points equal to twice the spell's level, or three times its level if the spell belongs to the School of Necromancy. You don't gain this benefit for killing constructs or undead.
 
 ## Undead Thralls
-At 6th level, you add the [animate dead]() spell to your spellbook if it is not there already. When you cast [animate dead](), you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.
+At 6th level, you add the [animate dead](/Magic/Spells/animate-dead.md) spell to your spellbook if it is not there already. When you cast [animate dead](/Magic/Spells/animate-dead.md), you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.
 
 Whenever you create an undead using a necromancy spell, it has additional benefits:
 

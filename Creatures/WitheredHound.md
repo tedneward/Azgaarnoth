@@ -1,5 +1,5 @@
 # Withered Hound
-*Medium undead, shares master's alignment*
+*medium undead, shares master's alignment*
 
 **Armor Class** 13
 

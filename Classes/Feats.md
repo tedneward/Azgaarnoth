@@ -141,14 +141,6 @@ You can channel cosmic forces of order that lock the multiverse into patterns. Y
 * **Stasis Strike**. Once per turn when you damage a creature you can see within 60 feet of yourself, you can deal an extra 1d8 force damage to the target, and it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + the modifier of the ability score increased by this feat) or be restrained by spectral bindings until the start of your next turn. These bindings manifest as chains, gears, encasing stone, or some other symbol of stasis. You can use this benefit a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 
-## Animal Handler
-You master the techniques needed to train and handle animals. You gain the following benefits.
-
-* Increase your Wisdom score by 1, to a maximum of 20.
-* You gain proficiency in the Animal Handling skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
-* You can use a bonus action on your turn to command one friendly beast within 60 feet of you that can hear you and that isn’t currently following the command of someone else. You decide now what action the beast will take and where it will move during its next turn, or you issue a general command that lasts for 1 minute, such as to guard a particular area.
-
-
 ## Alert
 Always on the lookout for danger, you gain the following benefits:
 
@@ -164,6 +156,14 @@ You have studied the secrets of alchemy and are an expert in its practice, gaini
 * You gain proficiency with alchemist’s supplies. If you are already proficient with them, you double your proficiency bonus to checks you make with them.
 * As an action, you can identify one potion within 5 feet of you, as if you had tasted it. You must see the liquid for this benefit to work.
 * Over the course of any short rest, you can temporarily improve the potency of one potion of healing of any rarity. To use this benefit, you must have alchemist’s supplies with you, and the potion must be within reach. If the potion is drunk no more than 1 hour after the short rest ends, the creature drinking the potion can forgo the potion’s die roll and regains the maximum number of hit points that the potion can restore.
+
+
+## Animal Handler
+You master the techniques needed to train and handle animals. You gain the following benefits.
+
+* Increase your Wisdom score by 1, to a maximum of 20.
+* You gain proficiency in the Animal Handling skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+* You can use a bonus action on your turn to command one friendly beast within 60 feet of you that can hear you and that isn’t currently following the command of someone else. You decide now what action the beast will take and where it will move during its next turn, or you issue a general command that lasts for 1 minute, such as to guard a particular area.
 
 
 ## Arcanist
@@ -226,6 +226,7 @@ You master the shortsword, longsword, scimitar, rapier, and greatsword. You gain
 When in the depths of pain and madness you gain a savage strength.
 
 * When suffering enough damage to be 50% or less of your normal hit points, you gain a +2 morale bonus to damage.
+
 
 ## Bountiful Luck
 *Prerequisite: Halfling*

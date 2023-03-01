@@ -7,8 +7,9 @@
 
 **Speed** 60 ft., [burrow](/Supplements/Underground.md#burrow) 30 ft., fly 30 ft. (hover)
 
-S1R DEX CON INT WIS CHA
-10(+0) 20(+5) 15(+2) 9(-2) 14(+2) 12(+1)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+10 (+0)|20 (+5)|15 (+2)|9 (-2) |14 (+2)|12(+1)
 
 **Saving Throws** Dex +9
 
