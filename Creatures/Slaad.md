@@ -557,8 +557,9 @@ The cyan slaad are slaad that are infused with chaos and air.
 
 **Speed** 30 ft.
 
-STR	DEX	CON	INT	WIS	CHA
-20 (+5)	19 (+4)	24 (+7)	19 (+4)	25 (+7)	22 (+6)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+20 (+5)|19 (+4)|24 (+7)|19 (+4)|25 (+7)|22 (+6)
 
 **Saving Throws** Str +12, Dex +11, Con +14
 
@@ -628,8 +629,9 @@ Many white slaad believe that the Spawning Stone was not created by Primus, but 
 
 **Speed** 30 ft.
 
-STR	DEX	CON	INT	WIS	CHA
-24 (+7)	22 (+6)	27 (+8)	22 (+6)	26 (+8)	24 (+7)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+24 (+7)|22 (+6)|27 (+8)|22 (+6)|26 (+8)|24 (+7)
 
 **Saving Throws** Str +16, Dex +15, Con +17
 
