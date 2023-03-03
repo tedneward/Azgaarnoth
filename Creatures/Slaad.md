@@ -2,7 +2,7 @@
 
 Slaadi are beings of pure chaos, native to the outer plane of Limbo, vaguely resembling humanoid salamanders. There’s no good reason for them to be hanging out on the prime material plane, but being beings of chaos, they don’t need one; in fact, they don't need a good reason to be doing anything.
 
-> Jump to [Red](#red-slaad) [Blue](#blue-slaad) [Green](#green-slaad) [Gray](#gray-slaad) [Black](#black-slaad) [Orange](#orange-slaad) [Brown](#brown-slaad) [Indigo](#indigo-slaad) [Cyan](#cyan-slaad) [Tadpole](#slaad-tadpole-slaadpole)
+> Jump to [Tadpole](#slaad-tadpole-slaadpole) [Mud](#mud-slaad) [Red](#red-slaad) [Blue](#blue-slaad) [Green](#green-slaad) [Gray](#gray-slaad) [Orange](#orange-slaad) [Brown](#brown-slaad) [Indigo](#indigo-slaad) [Cyan](#cyan-slaad) [Death](#death-slaad) [White](#white-slaad) [Black](#black-slaad) [Chaos](#chaos-slaad) [Gormeel](#gormeel)
 
 ## Description
 In their base form, resemble large, bipedal frogs with long, sharp claws, wide mouths filled with pointed teeth and huge heads. Embedded in most of their skulls is a gemstone the size and shape of a human child's fist, a jewel that shared their color and that could be barely seen beneath their forehead skin. Looking closely, one can see that symbols are carved into the shard, markings unique to the slaad which could be used to determine its past kills, conquests, duels and other deeds. If one could decipher the meaning of the tattoo, it could be used to determine the relative strength of the slaad, with other slaads being able to immediately identify the slaad by their mark.
@@ -14,20 +14,18 @@ Other potential differences include additional body parts and organs, features o
 ## History
 Long ago, Primus, overlord of the modrons, created a gigantic, geometrically complex stone imbued with the power of law. He then cast it adrift in Limbo, believing that the stone would bring order to the chaos of that plane and halt the spread of chaos to other planes. As the stone’s power grew, it became possible for creatures with ordered minds, such as modrons and githzerai, to create enclaves in Limbo. However, Primus’s creation had an unforeseen side effect: the chaotic energy absorbed by the stone spawned the horrors that came to be known as slaadi. Sages refer to Primus’s massive creation as the Spawning Stone for this reason.
 
-However, this legend may not be entirely correct--some planar scholars have theorized that the slaadi are actually refugees from previous universes/multiverses that were destroyed somehow, and the shock of the transition drove them to their current chaotic mindset. Or one theory holds that slaadi are creatures that embraced Chaos as a power source, and it slowly (or quickly) corrupted them into the slaadi they are today. In all of these stories, however, the one constant is the Spawning Stone, 
+However, this legend may not be entirely correct--some planar scholars have theorized that the slaadi are actually refugees from previous universes/multiverses that were destroyed somehow, and the shock of the transition drove them to their current chaotic mindset. Or one theory holds that slaadi are creatures that embraced Chaos as a power source, and it slowly (or quickly) corrupted them into the slaadi they are today. In all of these stories, however, the one constant is the Spawning Stone, and the slaadi's equal reverence and hatred of it.
+
+## Slaadi Control Gems
+Every slaadi born from the Spawning Stone or ever in close proximity to the ancient artifact contains a piece of the Spawning Stone in their brain called a control gem. These gems can be magically extracted from a slaad using old magic and risky surgeries. Once someone holds a slaad’s control gem, they control the slaad. However, if the gem is ever destroyed, the holder no longer controls the slaad. It is believed that just as a slaad is controlled by its control gem, if one could control the Spawning Stone, one could gain control over all slaadi throughout the planes.
+
+Scholars disagree on whether these control gems will regrow if removed and destroyed; what is known is that just as many slaadi encountered have them as those that don't. Despite the obvious convenience of using a control gem to control its underlings, no slaadi has ever been seen using a control gem to control other slaadi. 
 
 ## Birth and Transformation
 Slaadi have horrific cycles of reproduction. Slaadi reproduce either by implanting humanoid hosts with eggs or by infecting them with a transformative disease called chaos phage. Each color of slaad reproduces or transforms in a different way, with red slaadi spawning blue and green slaadi, and blue slaadi spawning red and green. Each green slaad undergoes a lifelong cycle of transformation into the more powerful gray and death slaadi. With each transformation, the slaad retains its memories.
 
-## Slaadi Control Gems
-Every slaadi born from the Spawning Stone or ever in close proximity to the ancient artifact contains a piece of the Spawning Stone in their brain called a control gem. These gems can be magically extracted from a slaad using old magic and risky surgeries. Once someone holds a slaad’s control gem, they control the slaad. However, if the gem is ever destroyed, the holder no longer controls the slaad.
-
-Scholars disagree on whether these control gems will regrow if removed and destroyed; what is known is that just as many slaadi encountered have them as those that don't. Despite the obvious convenience of using a control gem to control its underlings, no slaadi has ever been seen using a control gem to control other slaadi.
-
 ## Interaction
 As creatures of utter chaos, slaadi can't be said to have common reactions to any particular race other than "whatever the slaadi feels like doing at the moment". Some of the upper hierarchy slaadi may have long-term plans that include alliance or betrayal of others, but generally the lower in the hierarchy, the more chaotic the slaadi reaction. In general, however, a few things seem consistent: Slaadi loathe modrons and attack them on sight, and treat all gith with contempt and hatred.
-
-**Shapechangers.** Some slaadi can transform into the humanoid creatures from which they were originally spawned. These slaadi return to the Material Plane to sow discord in the guise of their former selves.
 
 ---
 
@@ -64,35 +62,48 @@ As creatures of utter chaos, slaadi can't be said to have common reactions to an
 ## Mud Slaad
 *Medium aberration, chaotic evil*
 
-Armor Class 13 (natural armor)
-Hit Points 52 (8d8 + 16)
-Speed 30ft.
-STR	DEX	CON	INT	WIS	CHA
-14 (+2)	13 (+1)	15 (+2)	6 (-2)	6 (-2)	7 (-2)
-Skills Perception +0
-Damage Resistances acid, cold, fire, lightning, thunder
-Senses darkvision 60 ft., passive Perception 10
-Languages Slaad
-Challenge 4 (1,100 XP)
-Magic Resistance. The slaad has advantage on saving throws against spells and other magical effects.
+**Armor Class** 13 (natural armor)
 
-Regeneration. The slaad regains 5 hit points at the start of its turn if it has at least 1 hit point.
+**Hit Points** 52 (8d8 + 16)
 
-Actions
-Multiattack. The slaad makes a two attacks: one bite attack and one claw attack.
+**Speed** 30ft.
 
-Bite. Melee Weapon Attack: +4 to hit, reach 5ft., one target. Hit 4 (1d4 + 2) piercing damage.
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+14 (+2)|13 (+1)|15 (+2)|6 (-2) |6 (-2) | 7 (-2)
 
-Claw. Melee Weapon Attack: +4 to hit, reach 5ft., one target. Hit 5 (1d6 + 2) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be be infected with a disease called chaos phage. While infected, the target can’t regain hit points, and its hit point maximum is reduced by 3 (1d6) every 24 hours. If the disease reduces the target’s hit point maximum to 0, the target instantly transforms into a mud slaad.
+**Skills** Perception +0
 
-Screech (Recharge 4-6). The slaad emits a tremendous screech. All creatures within 30 ft., of the slaad must succeed on a DC 12 Constitution saving throw, taking 21 (6d6) thunder damage on a failed save, or half as much on a successful one.
+**Damage Resistances** acid, cold, fire, lightning, thunder
+
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** Slaad
+
+**Challenge** 4 (1,100 XP)
+
+**Magic Resistance.** The slaad has advantage on saving throws against spells and other magical effects.
+
+**Regeneration.** The slaad regains 5 hit points at the start of its turn if it has at least 1 hit point.
+
+#### Actions
+**Multiattack.** The slaad makes a two attacks: one bite attack and one claw attack.
+
+**Bite.** Melee Weapon Attack: +4 to hit, reach 5ft., one target. Hit 4 (1d4 + 2) piercing damage.
+
+**Claw.** Melee Weapon Attack: +4 to hit, reach 5ft., one target. Hit 5 (1d6 + 2) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be be infected with a disease called chaos phage. While infected, the target can’t regain hit points, and its hit point maximum is reduced by 3 (1d6) every 24 hours. If the disease reduces the target’s hit point maximum to 0, the target instantly transforms into a mud slaad.
+
+**Screech (Recharge 4-6).** The slaad emits a tremendous screech. All creatures within 30 ft., of the slaad must succeed on a DC 12 Constitution saving throw, taking 21 (6d6) thunder damage on a failed save, or half as much on a successful one.
+
+#### Description
+Where and how mud slaad come into existence is still unclear and hotly debated among the few scholars who study slaadi. What is known is that they are cowardly, generally seeking their own survival over that of any other plan or mission--for this reason, some scholars believe that mud slaad are what emerge from tadpoles injected into some lesser or smaller races (such as kobolds or goblins) or even animals (like rats).
 
 ---
 
 ## Red Slaad
 *large aberration, chaotic neutral* 
 
-**Armor Class:**  14 (natural armor)
+**Armor Class:** 14 (natural armor)
 
 **Hit Points:** 93 (11d10 + 33)
 
@@ -331,6 +342,134 @@ In general, having higher Strength and Dexterity than Constitution (though all t
 
 ---
 
+## Orange Slaad
+*medium aberration (shapechanger), chaotic neutral*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 170 (20d8 + 80)
+
+**Speed** 30 ft.
+
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+20 (+5)|15 (+2)|19 (+4)|15 (+2)|10 (+0)|16 (+3)
+
+**Skills** Arcana +6, Perception +8
+
+**Damage Resistances** Acid, Cold, Lightning, Thunder
+
+**Damage Immunity** Fire
+
+**Senses** Blindsight 60 ft., Darkvision 60 ft., Passive Perception 18
+
+**Languages** Slaad, Ignan, Telepathy 60 ft.
+
+**Challenge** 10 (5,900 XP)
+
+**Proficiency Bonus** +4
+
+**Shapechanger.** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
+
+**Innate Spellcasting.** The slaad’s innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:
+
+* *At will:* detect magic, detect thoughts, invisibility (self only), mage hand, major image
+* *2/day each:* fear, fireball, fly, tongues
+* *1/day each:* cloudkill, plane shift
+
+**Magic Resistance.** The slaad has advantage on saving throws against spells and other magical effects.
+
+**Magic Weapons.** The slaad’s weapon attacks are magical.
+
+**Regeneration.** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
+
+#### Actions
+**Multiattack.** The slaad makes three attacks: one with its bite and two with its claws. Alternatively, it uses its Hurl Flame twice.
+
+**Bite (Slaad Form Only).** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) fire damage.
+
+**Claws (Slaad Form Only).** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) fire damage.
+
+**Hurl Flame.** Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 20 (5d6) fire damage. The fire ignites flammable objects that aren’t being worn or carried.
+
+#### Description
+The orange slaad are slaad that are infused with chaos and fire, born when a green slaad transforms not into a gray, but into something born of heat and ash. Like the gray, orange can only ascend to become death slaadi by consuming the corpse of a death slaadi, so like the gray, orange slaadi choose a death slaad to serve in exchange for the opportunity to become a death slaadi. However, some orange slaadi can also ascend by consuming one of their cousin-kin (the brown, indigo, or cyan), though it's not consistent as to when or how.
+
+In their natural form, orange slaadi are ...
+
+---
+
+## Brown Slaad
+*medium aberration (shapechanger), chaotic neutral*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 170 (20d8 + 80)
+
+**Speed** 30 ft.
+
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+20 (+5)|15 (+2)|19 (+4)|15 (+2)|10 (+0)|16 (+3)
+
+**Skills** Arcana +6, Perception +8
+
+**Damage Resistances** Acid, Cold, Fire, Lightning, Thunder
+
+**Senses** Blindsight 60 ft., Darkvision 60 ft., Passive Perception 18
+
+**Languages** Slaad, Terran, Telepathy 60 ft.
+
+**Challenge** 10 (5,900 XP)
+
+**Proficiency Bonus** +4
+
+**Shapechanger.** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
+
+**Innate Spellcasting.** The slaad’s innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:
+
+* *At will:* detect magic, detect thoughts, invisibility (self only), mage hand, major image
+* *2/day each:* fear, erupting earth, fly, tongues
+* *1/day each:* cloudkill, plane shift
+
+**Magic Resistance.** The slaad has advantage on saving throws against spells and other magical effects.
+
+**Magic Weapons.** The slaad’s weapon attacks are magical.
+
+**Regeneration.** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
+
+#### Actions
+**Multiattack.** The slaad makes three attacks: one with its bite and two with its claws. Alternatively, it uses its Hurl Flame twice.
+
+**Bite (Slaad Form Only).** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) fire damage.
+
+**Claws (Slaad Form Only).** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) fire damage.
+
+**Hurl Stone.** Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 22 (5d6) bludgeoning damage. The stone may cause structural damage to any location on a miss, and on a hit may push the target back by 5ft if they fail a CON save at DC 15.
+
+#### Description
+The brown slaad are slaad that are infused with chaos and earth, born when a green slaad transforms not into a gray, but into somethinb born of rock and stone. Like the gray, brown can only ascend to become death slaadi by consuming the corpse of a death slaadi, so like the gray, brown slaadi choose a death slaad to serve in exchange for the opportunity to become a death slaadi. However, some brown slaadi can also ascend by consuming one of their cousin-kin (the orange, indigo, or cyan), though it's not consistent as to when or how.
+
+In their normal form, brown slaadi are ...
+
+Brown slaadi are some of the least chaotic slaadi in their temperament and actions, but when they act, they often do so determinedly and unwaveringly, heedless of the outcome. Browns are often desirable to death slaadi as underlings, as they will resolutely carry out whatever mission they are assigned, but often they lack creativity to work around obstacles--they'd rather plow right through them.
+
+---
+
+## Indigo Slaad
+
+#### Description
+The indigo slaad are slaad that are infused with chaos and water.
+
+---
+
+## Cyan Slaad
+
+#### Description
+The cyan slaad are slaad that are infused with chaos and air.
+
+---
+
 ## Death Slaad
 *Medium Aberration (Shapechanger), Chaotic Evil*
 
@@ -415,136 +554,6 @@ In addition to all the powers of the gray slaad, death slaadi have one daily use
 Like gray slaadi, death slaadi will prefer to use their greatswords rather than their claws in melee combat, and they’ll prefer to fight in their slaad form rather than their humanoid form, in order to include biting in their Multiattack. They’ll retreat when seriously injured (reduced to 68 hp or fewer), using plane shift to escape.
 
 Alone among slaadi, death slaadi are canny enough to be able to guess at PCs’ alignments, and they’ll zero in on lawful characters. After defeating one, they’ll move on to another lawful character, who may not necessarily be the nearest. If and when all lawful opponents have been defeated, only then will they move on to other PCs, choosing targets largely at random.
-
----
-
-## Orange Slaad
-*medium aberration (shapechanger), chaotic neutral*
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 170 (20d8 + 80)
-
-**Speed** 30 ft.
-
-**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
--------|-------|-------|-------|-------|-------
-20 (+5)|15 (+2)|19 (+4)|15 (+2)|10 (+0)|16 (+3)
-
-**Skills** Arcana +6, Perception +8
-
-**Damage Resistances** Acid, Cold, Lightning, Thunder
-
-**Damage Immunity** Fire
-
-**Senses** Blindsight 60 ft., Darkvision 60 ft., Passive Perception 18
-
-**Languages** Slaad, Ignan, Telepathy 60 ft.
-
-**Challenge** 10 (5,900 XP)
-
-**Proficiency Bonus** +4
-
-**Shapechanger.** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
-
-**Innate Spellcasting.** The slaad’s innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:
-
-* *At will:* detect magic, detect thoughts, invisibility (self only), mage hand, major image
-* *2/day each:* fear, fireball, fly, tongues
-* *1/day each:* cloudkill, plane shift
-
-**Magic Resistance.** The slaad has advantage on saving throws against spells and other magical effects.
-
-**Magic Weapons.** The slaad’s weapon attacks are magical.
-
-**Regeneration.** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
-
-#### Actions
-**Multiattack.** The slaad makes three attacks: one with its bite and two with its claws. Alternatively, it uses its Hurl Flame twice.
-
-**Bite (Slaad Form Only).** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) fire damage.
-
-**Claws (Slaad Form Only).** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) fire damage.
-
-**Hurl Flame.** Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 20 (5d6) fire damage. The fire ignites flammable objects that aren’t being worn or carried.
-
-#### Description
-The orange slaad are slaad that are infused with chaos and fire, born when a green slaad transforms not into a gray, but into something born of heat and ash. Like the gray, orange can only ascend to become death slaadi by consuming the corpse of a death slaadi, so like the gray, orange slaadi choose a death slaad to serve in exchange for the opportunity to become a death slaadi. However, some orange slaadi can also ascend by consuming one of their cousin-kin (the brown, indigo, or cyan), though it's not consistent as to when or how.
-
-In their natural form, orange slaadi are 
-
----
-
-## Brown Slaad
-*medium aberration (shapechanger), chaotic neutral*
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 170 (20d8 + 80)
-
-**Speed** 30 ft.
-
-**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
--------|-------|-------|-------|-------|-------
-20 (+5)|15 (+2)|19 (+4)|15 (+2)|10 (+0)|16 (+3)
-
-**Skills** Arcana +6, Perception +8
-
-**Damage Resistances** Acid, Cold, Fire, Lightning, Thunder
-
-**Senses** Blindsight 60 ft., Darkvision 60 ft., Passive Perception 18
-
-**Languages** Slaad, Terran, Telepathy 60 ft.
-
-**Challenge** 10 (5,900 XP)
-
-**Proficiency Bonus** +4
-
-**Shapechanger.** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
-
-**Innate Spellcasting.** The slaad’s innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:
-
-* *At will:* detect magic, detect thoughts, invisibility (self only), mage hand, major image
-* *2/day each:* fear, erupting earth, fly, tongues
-* *1/day each:* cloudkill, plane shift
-
-**Magic Resistance.** The slaad has advantage on saving throws against spells and other magical effects.
-
-**Magic Weapons.** The slaad’s weapon attacks are magical.
-
-**Regeneration.** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
-
-#### Actions
-**Multiattack.** The slaad makes three attacks: one with its bite and two with its claws. Alternatively, it uses its Hurl Flame twice.
-
-**Bite (Slaad Form Only).** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) fire damage.
-
-**Claws (Slaad Form Only).** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) fire damage.
-
-**Hurl Stone.** Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 22 (5d6) bludgeoning damage. The stone may cause structural damage to any location on a miss, and on a hit may push the target back by 5ft if they fail a CON save at DC 15.
-
-#### Description
-The brown slaad are slaad that are infused with chaos and earth, born when a green slaad transforms not into a gray, but into somethinb born of rock and stone. Like the gray, brown can only ascend to become death slaadi by consuming the corpse of a death slaadi, so like the gray, brown slaadi choose a death slaad to serve in exchange for the opportunity to become a death slaadi. However, some brown slaadi can also ascend by consuming one of their cousin-kin (the orange, indigo, or cyan), though it's not consistent as to when or how.
-
-Brown slaadi are some of the least chaotic slaadi in their temperament and actions, but when they act, they often do so determinedly and unwaveringly, heedless of the outcome. Browns are often desirable to death slaadi as underlings, as they will resolutely carry out whatever mission they are assigned, but often they lack creativity to work around obstacles--they'd rather plow right through them.
-
----
-
-## Indigo Slaad
-
-#### Description
-The indigo slaad are slaad that are infused with chaos and water.
-
----
-
-## Cyan Slaad
-
-#### Description
-The cyan slaad are slaad that are infused with chaos and air.
-
----
-
-## Mud Slaad
 
 ---
 
@@ -692,7 +701,86 @@ Black slaadi are an enigma, for little has been written on these vastly powerful
 
 ---
 
-## Golden Slaad
+## Chaos Slaad
+*Large Aberration (Shapechanger), chaotic neutral*
+
+**Armor Class:** 15
+
+**Hit Points:** 150 (18d10 + 18)
+
+Speed: 30 ft
+
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+12 (+1)|12 (+1)|12 (+1)| 8 (-1)| 6 (-2)|12 (+1)
+
+**Saving Throws:** All are at +(1d6 + 3)
+
+**Skills:** Perception: +(1d6 + 3)
+
+**Senses:** Blindsight 60, Darkvision 60, Telepathy 60 ft
+
+**Languages:** Slaad, telepathy 60 ft.
+
+**Instinct:** Each Slaad possesses an innate desire that guides their current behavior. At the beginning of an encounter, roll a d6.
+
+d6 | Result
+-- | ------
+ 1 | **Alternate.** The Slaad temporary has other ideas in its head. Maybe it believes in peace, religion, unifying its people. The DM is free to make whatever drive is suitable, though it never lasts.
+2-5| **Spread.** The Slaad will attack a viable target to spread its eggs, and will switch targets after accomplishing the goal. Slaad will ignore creatures that cannot carry their eggs.
+ 6 | **Destroy.** The Slaad attempts to kill any non-Slaad creature it can see.
+
+**Form:** Slaads can have fins, gills, wings, multiple legs, and vary greatly in size. At the beginning of an encounter, roll a d6 and check this chart
+
+d6| Result
+--| ------
+1 | **Reduced.** The Slaads size is reduced by 1 category, and damage is reduced by 1d6.
+2 | **Enhanced.** The Slaads size is increased by 1 category, and damage is increased by 1d6.
+3 | **Swim.** Slaad can breathe water and gains a swim speed equal to its speed.
+4 | **Fly.** Slaad has wings and gains a fly speed equal to its speed.
+5 | **Altered Speed.** Add (1d6 - 2) x 5 to the creature's speed.
+6 | Roll 2d6 and consult the chart twice.
+
+**Magic Weapons.** The Slaad's weapon attacks are magical.
+
+**Children of Chaos:** Slaad add 1d6 to all attacks, saves, checks, saving throw DCs, and damage rolls (already adjusted).
+
+**Entropic Resistance:** The first time the Slaad is hit with a weapon type (bludgeoning, slashing, piercing) or an energy type, roll a d6 and consult the chart. Repeat this check for each new type the Slaad is effected by. The effect lasts for the encounter.
+
+d6 | Result
+-- | ------
+1  | Slaad is vulnerable to that type
+2-3| Normal
+4-5| Slaad is resistant to that type
+6  | Slaad is immune to that type
+
+**Regeneration:** The slaad regains 3d6 hit points at the start of its turn if it has 1 hitpoint. When a Slaad reaches 0 hitpoint, roll a d6. On a 6, the Slaad immediately performs regeneration.
+
+#### Actions
+**Multiattack.** Make 3 attacks, which can be any combination of Limb and Surge of Chaos
+
+**Limb.** Melee Weapon Attack: +1d6 + 5 to hit, reach 5 ft, one target. Hit: 3d6 piercing, slashing, or bludgeoning damage. If the target is humanoid, it must succeed on a DC 12 + 1d6 Constitution saving throw or be infected with a disease called Chaos phase. While infected, the target cannot regain hitpoints. In 1d20 x 24 hours, roll a d6. On a 6, the host turns into a Slaad. Otherwise, the host is killed as a Slaad tadpole chews its way out of the host.
+
+**Surge of Chaos.** Roll a d6.
+
+d6 | Result
+-- | ------
+1-2| Nothing Happens.
+3-4| Fires a Chaos Bolt
+5-6| Uses Chaos Casting
+
+**Chaos Bolt (requires Surge of Chaos to use).** Ranged Spell Attack: +1d6 +2 to hit. Range 60 ft, one target. Hit: 3d6 Force Damage.
+
+**Chaos Casting (requires Surge of Chaos to use).** Cast one of the following spells, the same spell cannot be chosen twice in an encounter. The DC is 12 + 1d6.
+
+* Invisibility
+* Fear
+* Fly
+* Fireball
+* PlaneShift
+
+#### Description
+Chaos slaadi are slaad who have been entirely subverted by the chaos of Chaos itself, and fall entirely outside the usual taxonomy of the slaad. For this reason, chaos slaadi are entirely unpredictable, even to another slaad, and often chaos slaadi will break out into attacks on other slaadi just as often as they work with them. The gestation and lifecyle of chaos slaadi are entirely unknown, as are their goals or intentions.
 
 ---
 
