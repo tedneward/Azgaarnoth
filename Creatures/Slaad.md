@@ -27,6 +27,8 @@ Slaadi have horrific cycles of reproduction. Slaadi reproduce either by implanti
 ## Interaction
 As creatures of utter chaos, slaadi can't be said to have common reactions to any particular race other than "whatever the slaadi feels like doing at the moment". Some of the upper hierarchy slaadi may have long-term plans that include alliance or betrayal of others, but generally the lower in the hierarchy, the more chaotic the slaadi reaction. In general, however, a few things seem consistent: Slaadi loathe modrons and attack them on sight, and treat all gith with contempt and hatred.
 
+The important thing to remember is that slaad are creatures of Chaos. While Order is imprisoned in its preordained path, Chaos is so fickle it can never make real headway, always caught in shifting sands. If slaad were just a bit more organized they would be nigh unstoppable, but they simply can't help themselves. Their constantly shifting goals means they can never make even moderately long connections or alliances. A slaad may be planting eggs one moment, become interested in poetry the next, and just as quickly begin slaughtering all around them.
+
 ---
 
 ## Slaad Tadpole ("Slaadpole")
@@ -754,7 +756,7 @@ d6 | Result
 4-5| Slaad is resistant to that type
 6  | Slaad is immune to that type
 
-**Regeneration:** The slaad regains 3d6 hit points at the start of its turn if it has 1 hitpoint. When a Slaad reaches 0 hitpoint, roll a d6. On a 6, the Slaad immediately performs regeneration.
+**Regeneration:** The slaad regains 3d6 hit points at the start of its turn if it has 1 hitpoint. When a Slaad reaches 0 hitpoint, roll a d6. On a 6, the Slaad immediately performs regeneration. If the Slaad gets the maximum result on this special regeneration roll, it instead becomes a [death slaad](#death-slaad) at the start of its next turn.
 
 #### Actions
 **Multiattack.** Make 3 attacks, which can be any combination of Limb and Surge of Chaos
@@ -780,7 +782,13 @@ d6 | Result
 * PlaneShift
 
 #### Description
-Chaos slaadi are slaad who have been entirely subverted by the chaos of Chaos itself, and fall entirely outside the usual taxonomy of the slaad. For this reason, chaos slaadi are entirely unpredictable, even to another slaad, and often chaos slaadi will break out into attacks on other slaadi just as often as they work with them. The gestation and lifecyle of chaos slaadi are entirely unknown, as are their goals or intentions.
+Chaos slaadi are slaad who have been entirely subverted by the chaos of Chaos itself, and fall entirely outside the usual taxonomy of the slaad. For this reason, chaos slaadi are entirely unpredictable, even to another slaad, and often chaos slaadi will break out into attacks on other slaadi just as often as they work with them. The gestation and lifecyle of chaos slaadi are entirely unknown, as are their goals or intentions. Chaos slaadi are being of pure instinct, and that instinct is fickle. They don't build organizations, they don't make alliances, they don't sneak around pretending to be humanoids, they are a viral plague upon the multiverse, left unchecked they become an unstoppable legion.
+
+#### DM Notes
+* Rolls Instinct and Form at the beginning of the encounter. This highlights that you can never predict what a Slaad you meet will look or act like. Even the Slaad you saw 10 minutes ago may now be completely different. However, we assume this to be constant for a single encounter, to take some burden off the DM.
+* Entropic Resistance can be rolled multiple times, but the results for a given type are kept for the whole encounter. This was my favorite new ability, and it really threw my party for a loop when they encountered it the first time. It really shakes up a fight, sometimes your favorite weapons are useless. Other times you get to enjoy vulnerability (which is critically underused in 5e), to give players some joy when a Slaad that has ridiculous power in other areas....is crazy vulnerable to the fire mages blast.
+* Children of Chaos allows us to mimic constantly changing stats without so much book work. Nothing is certain, not even saving throw DCs!
+* With Regeneration, we left the HP static, using this mechanic to showcase variable resiliency for the Slaad. I also wanted to keep in some notion of Slaad evolution or improvement, so I used the idea that once a Slaad is killed there is a small chance (1 in 1,296 to be precise) that it becomes a Greater Slaad (aka Death Slaad). That helps both the random fun of Slaad, but also help explain how Death Slaad emerge in the culture.
 
 ---
 
