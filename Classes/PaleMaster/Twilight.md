@@ -4,7 +4,7 @@ In an attempt to become one with the darkness itself, twilight pale masters devo
 Their haunting devotion gives them unique abilities unavailable to other pale masters, ones which allow them to become a terrifying form partially illuminated by the moon's eerie gaze.
 
 ## Undead Graft: Umbral Arm
-Beginning when you select this elegy at 3rd level, you infuse the pours of your arm with small traces of necrotic energies that manifest and wreath your arm in shadow.
+Beginning when you select this elegy at 3rd level, you infuse the pores of your arm with small traces of necrotic energies that manifest and wreath your arm in shadow.
 
 Your undead graft becomes a spellcasting focus for your magic, allowing you to cast spells with it and perform the somatic components of spells even when you have weapons or a shield in one or both hands. Additionally, you may attack with your graft as if it were a simple weapon with which you are proficient. To do so, you make a melee spell attack against a creature, dealing 1d8 necrotic damage on a hit.
 
@@ -13,7 +13,7 @@ At 6th level, your graft gains a +1 bonus to melee attacks and damage rolls. Thi
 ## Summon Shadow
 At 3rd level, you are able to assert your control over shadows that lurk in the dark.
 
-While in dim light or darkness, you spend 1 minute conjuring a shadow from the darkness (your DM has the shadow's statistics). Roll initiative for the shadow, which has its own turns. It obeys your verbal commands and is under your control for 10 minutes, at which point it vanishes. You can only have one shadow summoned at a time. If a shadow under your control dies, 10 minutes pass, or you dismiss it as an action, you cannot use this feature again until you complete a long rest.
+While in dim light or darkness, you spend 1 minute conjuring a [shadow](/Creatures/Shadow.md) from the darkness. Roll initiative for the shadow, which has its own turns. It obeys your verbal commands and is under your control for 10 minutes, at which point it vanishes. You can only have one shadow summoned at a time. If a shadow under your control dies, 10 minutes pass, or you dismiss it as an action, you cannot use this feature again until you complete a long rest.
 
 ## Fearful Touch
 Starting at 6th level, when you hit a creature with a melee spell attack from your undead graft, you can instill irrational terror. The target takes an additional 2d8 necrotic damage and must succeed on a Wisdom saving throw or become frightened for 1 minute. A creature frightened in this manner must take the Dash action and move away from you by the safest available route on each of its turns. If there is nowhere to move, the creature stays in its current location, but takes 2d8 necrotic damage.

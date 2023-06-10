@@ -49,7 +49,7 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 
 #### Description
 
-
+---
 
 ## Battering Ram
 *Large giant, chaotic evil*
@@ -81,7 +81,7 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 ![Ogre Battering Ram](Ogre-BatteringRam.png)
 An ogre battering ram carries an enormous club used primarily for bashing doors into kindling, but which also works well for smashing foes. These ogres are drilled in two simple tasks: rushing forward to shatter enemy fortifications, and using their weapons to force an advancing enemy to halt.
 
-
+---
 
 ## Bolt Launcher
 *Large giant, chaotic evil*
@@ -110,7 +110,7 @@ An ogre battering ram carries an enormous club used primarily for bashing doors 
 #### Description
 A bolt launcher carries a gigantic crossbow — a weapon so large it’s essentially an ogre-held ballista. An ogre bolt launcher can load this immense weapon and loose its deadly missile as quickly as a dwarf handles a crossbow. The bolts are so large that few ogres can carry more than a half-dozen at a time, but bolt launchers have been known to uproot small trees or tear beams out of buildings and launch those when their ammunition runs low.
 
-
+---
 
 ## Chain Brute
 *Large giant, chaotic evil*
@@ -142,7 +142,7 @@ A bolt launcher carries a gigantic crossbow — a weapon so large it’s essenti
 An ogre chain brute wields a great spiked chain. It swings this chain with both hands in a wide circle around itself to knock foes off their feet. Alternatively, it can swing the chain in a crushing overhead smash that’s nearly impossible to block or deflect.
 
 
-
+---
 
 ## Howdah
 *Large giant, chaotic evil*
@@ -171,7 +171,7 @@ An ogre chain brute wields a great spiked chain. It swings this chain with both 
 #### Description
 ![Ogre Howdah](Ogre-Howdah.png) The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort is big enough to serve as a fighting platform for up to four small humanoids. Ogre howdahs are most often seen bearing goblins equipped with bows and spears into battle, but they could just as easily transport kobolds, deep gnomes, or other humanoids of similar size.
 
-
+---
 
 ## Ogre Mage
 *Large giant, chaotic evil*
@@ -214,14 +214,14 @@ An ogre chain brute wields a great spiked chain. It swings this chain with both 
 #### Description
 Ogres are not known for their magical prowess. Few have any amount of respect for nature, though many ogres worship Vaprak, few rise to become clerics and the stupid and impatient ogres make for poor scholars. Therefore, most ogre spellcasters are sorcerers, but even among these sorcerers, it is rare that their talents are respected by their fellows and rarer still for the ogres in question to have any real understanding of the forces they wield in battle. Some few, however, are born with greater intelligence (or wisdom, or cunning, depending on how you look at it), and become incredibly dangerous creatures.
 
-
+---
 
 ## Ogre Priest
 
 #### Description
 Ogres, when they stop to think about gods, generally find themselves aligned with the principles of Vaprak--when they even stop to consider principles at all. Some ogres, however, are born with some slightly better insight (or learn it from being thrust into a subservient role and told to learn--sometimes at the hands of a darker master), and learn to channel the divine power of Vaprak to ogrish benefit. It is said in some quarters that the Ogre Priests of Vaprak are divinely blessed to naturally immortal--that is, though they can still be killed, they do not age--because Vaprak needs them to wander the countryside, tending to the flock of ogres, lest they all kill themselves off... and leave Vaprak without a sizable number of worshippers.
 
-
+---
 
 ## Ogre Warpriest
 

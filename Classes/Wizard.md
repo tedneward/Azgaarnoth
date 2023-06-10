@@ -394,19 +394,19 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 
 ## 4th Level
 * [arcane eye](/Magic/Spells/arcane-eye.md)
-* Banishment
-* Blight
+* [banishment](/Magic/Spells/banishment.md)
+* [blight](/Magic/Spells/blight.md)
 * [charm monster](/Magic/Spells/charm-monster.md)
-* Confusion
-* Conjure Barlgura
-* Conjure Minor Elementals
+* [confusion](/Magic/Spells/confusion.md)
+* [conjure Barlgura](/Magic/Spells/conjure-barlgura.md) (TODO)
+* [conjure minor elementals](/Magic/Spells/conjure-minor-elementals.md)
 * Conjure Shadow Demon
-* Control Water
+* [control water](/Magic/Spells/control-water.md)
 * [detect curses](/Magic/Spells/detect-curses.md)
-* Dimension Door
-* divination (ritual)
-* Ego Whip (UA)
-* Elemental Bane
+* [dimension door](/Magic/Spells/dimension-door.md)
+* [divination](/Magic/Spells/divination.md) (ritual)
+* [ego whip](/Magic/Spells/ego-whip.md) (TODO)
+* [elemental bane](/Magic/Spells/elemental-bane.md)
 * [enhance body](/Magic/Spells/enhance-body.md)
 * [envenomed weapon](/Magic/Spells/envenomed-weapon.md)
 * Evard's Black Tentacles
@@ -419,12 +419,12 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
 * Hallucinatory Terrain
 * [hemorrhage](/Magic/Spells/hemorrhage.md)
 * [hoodwink](/Magic/Spells/hoodwink.md)
-* Ice Storm
+* [ice storm](/Magic/Spells/ice-storm.md)
 * [jinx](/Magic/Spells/jinx.md)
 * Leomund's Secret Chest
 * Locate Creature
-* Mordenkainen's Faithful Hound
-* Mordenkainen's Private Sanctum
+* [mordenkainen's faithful hound](/Magic/Spells/mordenkainens-faithful-hound.md)
+* [mordenkainen's private sanctum](/Magic/Spells/mordenkainens-private-sanctum.md)
 * Otiluke's Resilient Sphere
 * Phantasmal Killer
 * Polymorph

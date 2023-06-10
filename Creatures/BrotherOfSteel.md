@@ -3,7 +3,7 @@
 
 **Armor Class** 16
 
-**Hit Points** 22 (4d12 + 12)
+**Hit Points** 45 (4d12 + 12)
 
 **Speed** 20 ft.
 

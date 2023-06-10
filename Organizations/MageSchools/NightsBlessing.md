@@ -52,7 +52,7 @@ Select a humanoid or beast of Small, Medium, or Large size, with a challenge rat
 
 In combat, the reanimated servant shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but unless commanded otherwise by you, the only action it can take on its turn is the Dodge action. If you use your bonus action to command it, your reanimated servant can take one of the following actions: Dash, Disengage, Help, Hide, Search, or Use an Object.
 
-If the servant is killed, you can return it to life by magical means, such as with the revivify spell. In addition, over the course of a long rest, you can repair a slain servant if you have access to its body and your alchemist’s supplies, and you expend a spell slot of 1st level or higher. If you do so, at the end of the long rest, the reanimated servant returns to life with all its hit points restored.
+If the servant is killed, you can return it to life by magical means, such as with the [revivify](/Magic/Spells/revivify.md) spell. In addition, over the course of a long rest, you can repair a slain servant if you have access to its body and your alchemist’s supplies, and you expend a spell slot of 1st level or higher. If you do so, at the end of the long rest, the reanimated servant returns to life with all its hit points restored.
 
 At the end of a long rest, you can create a new reanimated servant if you have your alchemist’s supplies with you. You can only have one reanimated servant at any given time using this feature. If you already have a reanimated servant and create a new one, the original reanimated servant is immediately destroyed.
 
