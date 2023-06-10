@@ -7,10 +7,12 @@ The population of the Eldar never rose beyond a million, even at their peak, and
 
 Despite the aid of the firstborn, the Eldar realized that they required a more adaptable, sturdy race to carry out a variety of tasks that had no common purpose or environment, and thus were the first [humans](/Races/Humans.md) born. Shorter-lived in order to encourage their adaptability, humans quickly became the servant race of the Eldar, and dwarves and elves were given more leeway and latitude to carry out their tasks without Eldar oversight.
 
-## The Eldar and the Hordes
-Contrary to some religious screed or scholars' beliefs, the [Hordes](Hordes.md) have always been a part of Azgaarnoth; for as long as the Eldar have been here, so have the Hordes. Some scholars theorize that the two are symbiotes at some cosmic level, others that the Hordes are refugees from an extraplanar conflict. Regardless of their origins, the Hordes have plagued Azgaarnoth in some way since the beginning.
+Not long before the Fall, the [Created](/Races/Created.md) emerged into the world, though their origins (aside from the [dragonborn](/Races/Dragonborn.md)) are not thought to be Eldar-created.
 
-Originally, the Hordes were limited to eastern 
+## The Eldar and the Hordes
+For as long as the Eldar have been in Azgaarnoth, so have the [Hordes](Hordes.md). Some theorize that the Hordes are a natural part of the world, others believe they came when the Eldar began to travel through the stars and the planes. Either way, the result was the same: a brutal and incessant conflict that began five millennia before the Fall, and continued long after. Some scholars theorize that the Eldar and Hordes are symbiotes at some cosmic level, others that the Hordes are refugees from an extraplanar conflict. Regardless of their origins, the Hordes have plagued Azgaarnoth in some way since the beginning.
+
+Originally, the Hordes were limited to eastern Yithi, but as time passed, they were able to escape the "containment"  
 
 ## The Fall
 At some point in the distant past, the Eldar suffered a great Fall. It is not clear what the nature of this event was, however; legends speak of a disease, or of a cosmic upheaval, or even of a betrayal from within, but no concrete evidence has been found that supports any of these theories beyond wild conjecture. Regardless of its cause, the Eldar--apparently greatly weakened in number and power--withdrew from the world almost entirely, centering their presence in the world around Mt Bezulb in Shemkanar near the border of Zabalasa and Alalihat. Centuries would pass before an Eldar was seen outside of their home, and visitors were quietly discouraged from visiting. 

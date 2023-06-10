@@ -249,6 +249,17 @@ The following spells listed are available (but not necessarily accessible) to al
 * [toll the dead](/Magic/Spells/toll-the-dead.md)
 * [virtue](/Magic/Spells/virtue.md)
 * [word of radiance](/Magic/Spells/word-of-radiance.md)
+* Amanuensis
+* Astral Seal
+* Blazing Starfall 
+* Blood Curse 
+* Challenger’s Mark 
+* Fortifying Cry
+* Hand of Radiance
+* Leading Strike
+* Reaver’s Touch
+* Virtuous Strike
+* Voice of Battle
 
 ## 1st Level
 * [attract projectiles](/Magic/Spells/attract-projectiles.md)
@@ -276,6 +287,23 @@ The following spells listed are available (but not necessarily accessible) to al
 * [shield of faith](/Magic/Spells/shield-of-faith.md)
 * [shield of vanity](/Magic/Spells/shield-of-vanity.md)
 * [wrathful smite](/Magic/Spells/wrathful-smite.md)
+* Air Jaunt
+* Celestial Fist
+* Cleanse
+* Deathwatch
+* Dictation
+* Entropic Shield
+* Foundation of Stone
+* Frightful Strike
+* Numinous Shield
+* Prophesied Strike
+* Protection from Aerial Attack
+* Rejuvenate Self
+* Summons of Justice
+* Thundering Armor
+* Updraft
+* Vigor
+* Wailing Wind
 
 ## 2nd Level
 * [aid](/Magic/Spells/aid.md)
@@ -297,6 +325,24 @@ The following spells listed are available (but not necessarily accessible) to al
 * [spiritual weapon](/Magic/Spells/spiritual-weapon.md)
 * [warding bond](/Magic/Spells/warding-bond.md)
 * [zone of truth](/Magic/Spells/zone-of-truth.md)
+* Alicorn Lance
+* Align Weapon 
+* Blood Bond
+* Blood Wind
+* Body Blades
+* Chilling Scythe
+* Command Minor Beast
+* Curse of Ill Fortune
+* Desecrate
+* Elemental Blade
+* Energized Shield 
+* Invigorating Strike
+* Knight’s Move
+* Lava Missile
+* Lifetap
+* Sticks to Snakes
+* Unluck
+* Whip of Flame
 
 ## 3rd Level
 * [animate dead](/Magic/Spells/animate-dead.md)
@@ -323,6 +369,25 @@ The following spells listed are available (but not necessarily accessible) to al
 * [spirit shroud](/Magic/Spells/spirit-shroud.md)
 * [tongues](/Magic/Spells/tongues.md)
 * [water walk](/Magic/Spells/water-walk.md) (ritual)
+* Blade of Pain and Fear
+* Cloak of Bravery 
+* Clutch of Orcus
+* Grace
+* Hearth Spirit
+* Holy Storm
+* Ice Axe
+* Knightly Intercession
+* Life Drain
+* Nauseating Breath
+* Poison
+* Predatory Shards
+* Quickening Breeze 
+* Redirect Spell 
+* Searing Light 
+* Shield of Warding 
+* Shroud of Undeath 
+* Storm Cone
+* Storm Shield
 
 ## 4th Level
 * [aura of life](/Magic/Spells/spells/aura-of-life.md)
@@ -342,72 +407,149 @@ The following spells listed are available (but not necessarily accessible) to al
 * [locate creature](/Magic/Spells/locate-creature.md)
 * [stone shape](/Magic/Spells/stone-shape.md)
 * [strangulate](/Magic/Spells/strangulate.md)
+* Anyspell
+* Blistering Radiance
+* Blood Mantle
+* Breath of the Elements
+* Calm Winds
+* Consumptive Field
+* Crown of Light
+* Dragon Breath
+* Moon Bolt
+* Recitation
+* Resistance, Greater 
+* Sacred Strike
+* Shield of Faith, Mass
+* Spark of Life
+* Thunderous Reprisal
+* Wrack
 
 ## 5th Level
 * [blessing of luck](/Magic/Spells/blessing-of-luck.md)
-* Commune
-* Contagion
-* Dispel Evil and Good
+* [commune](/Magic/Spells/commune.md)
+* [contagion](/Magic/Spells/contagion.md)
+* [dispel evil and good](/Magic/Spells/dispel-evil-and-good.md)
 * [divine armor](/Magic/Spells/divine-armor.md)
-* Flame Strike
-* Geas
+* [flame strike](/Magic/Spells/flame-strike.md)
+* [geas](/Magic/Spells/geas.md)
 * [greater restoration](/Magic/Spells/greater-restoration.md)
-* Hallow
-* Insect Plague
-* Legend Lore
-* Mass Cure Wounds
-* Planar Binding
-* Raise Dead
+* [hallow](/Magic/Spells/hallow.md)
+* [insect plague](/Magic/Spells/insect-plague.md)
+* [legend lore](/Magic/Spells/legend-lore.md)
+* [mass cure wounds](/Magic/Spells/mass-cure-wounds.md)
+* [planar binding](/Magic/Spells/planar-binding.md)
+* [raise dead](/Magic/Spells/raise-dead.md)
 * [reverse projectiles](/Magic/Spells/reverse-projectiles.md)
-* Scrying
+* [scrying](/Magic/Spells/scrying.md)
 * [skill empowerment](/Magic/Spells/skill-empowerment.md)
-* Summon Celestial
-* Wall of light
+* [summon celestial](/Magic/Spells/summon-celestial.md)
+* [wall of light](/Magic/Spells/wall-of-light.md)
+* Caging Glaive
+* Champion’s Strength
+* Code of Secrecy
+* Curse of Ill Fortune, Mass
+* Doomtide
+* Earth Reaver
+* Lesser Chainfire
+* Life’s Grace
+* Pocket Cave
+* Righteous Might
+* Sanctuary, Mass
+* Soul Scour
+* Stalwart Pact
+* Stone Body
+* Valiant Fury
 
 ## 6th Level
-* Blade Barrier
-* Create Undead
-* Find the Path
-* Forbiddance
-* Harm
-* Heal
-* Heroes' Feast
-* Otherworldly Form (UA)
-* Planar Ally
+* [blade barrier](/Magic/Spells/blade-barrier.md)
+* [create undead](/Magic/Spells/create-undead.md)
+* [find the path](/Magic/Spells/find-the-path.md)
+* [forbiddance](/Magic/Spells/forbiddance.md)
+* [harm](/Magic/Spells/harm.md)
+* [heal](/Magic/Spells/heal.md)
+* [heroes' feast](/Magic/Spells/heroes-feast.md)
+* [otherworldly form](/Magic/Spells/otherworldly-form.md) (UA*)
+* [planar ally](/Magic/Spells/planar-ally.md)
 * [soul blade](/Magic/Spells/soul-blade.md)
-* sunbeam
-* True Seeing
-* Word of Recall
+* [sunbeam](/Magic/Spells/sunbeam.md)
+* [true seeing](/Magic/Spells/true-seeing.md)
+* [word of recall](/Magic/Spells/word-of-recall.md)
 * [zone of restoration](/Magic/Spells/zone-of-restoration.md)
+* Azuth’s Alteration Mantle
+* Bolt of Glory
+* Chain Madness
+* Crawling Darkness
+* Curse of the Everbleeding Wounds
+* Energy Immunity
+* Gravedust Cloud
+* Resistance, Superior
+* Shield of Warding, Mass 
+* Zealot Pact
 
 ## 7th Level
-* Conjure Celestial
+* [conjure celestial](/Magic/Spells/conjure-celestial.md)
 * [death's door](/Magic/Spells/deaths-door.md)
 * [dire jinx](/Magic/Spells/dire-jinx.md)
-* Divine Word
-* Etherealness
-* Fire Storm
-* Plane Shift
-* Regenerate
-* Resurrection
-* Symbol
+* [divine word](/Magic/Spells/divine-word.md)
+* [etherealness](/Magic/Spells/etherealness.md)
+* [fire storm](/Magic/Spells/fire-storm.md)
+* [plane shift](/Magic/Spells/plane-shift.md)
+* [regenerate](/Magic/Spells/regenerate.md)
+* [resurrection](/Magic/Spells/resurrection.md)
+* [symbol](/Magic/Spells/symbol.md)
+* Azuth’s Spell Shield
+* Brilliant Blade
+* Chariot of Sustarre 
+* Conjure Remorhaz 
+* Create Revenant
+* Death Dragon
+* Holy Star
+* Holy Word
+* Instill Vulnerability 
+* Mark of the Unfaithful
+* Radiant Assault
+* Stone Shape, Greater 
+* Symphonic Nightmare 
+* Vigorous Circle
+* Vortex
 
 ## 8th Level
-* Antimagic Field
-* Control Weather
-* Earthquake
-* Holy Aura
+* [antimagic field](/Magic/Spells/antimagic-field.md)
+* [control weather](/Magic/Spells/control-weather.md)
+* [earthquake](/Magic/Spells/earthquake.md)
+* [holy aura](/Magic/Spells/holy-aura.md)
 * [soul expulsion](/Magic/Spells/soul-expulsion.md)
-* sunburst
+* [sunburst](/Magic/Spells/sunburst.md)
 * [vertigo](/Magic/Spells/vertigo.md)
+* Brain Spider
+* Brand of Fire 
+* Brilliant Aura 
+* Conjure Dragon 
+* Crown of Glory 
+* Death Spider 
+* Dragon’s Roar 
+* General of Undeath 
+* Heat Drain
+* Mass Death Ward 
+* Stone Walk 
+* Stormrage
 
 ## 9th Level
-* Astral Projection
+* [astral projection](/Magic/Spells/astral-projection.md)
 * [frailty](/Magic/Spells/frailty.md)
-* Gate
-* Mass Heal
+* [gate](/Magic/Spells/gate.md)
+* [mass heal](/Magic/Spells/mass-heal.md)
 * [omnisight](/Magic/Spells/omnisight.md)
-* Power Word: Heal
+* [power word: heal](/Magic/Spells/power-word-heal.md)
 * [raise abomination](/Magic/Spells/raise-abomination.md)
-* True Resurrection
+* [true resurrection](/Magic/Spells/true-resurrection.md)
+* Anathema
+* Awaken Construct
+* Energy Drain
+* Implosion
+* Monstrous Thrall
+* Plague of Undead 
+* Undeath’s Eternal Foe 
+* Visage of the Deity, Greater 
+* Volcanic Eruption
 

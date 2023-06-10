@@ -1,5 +1,5 @@
 # Background: Bodyguard
-Bodyguard
+
 You were a bright, shining star when you started
 your career in the city guard. Perhaps you stopped
 a kidnapping attempt on the Prince Consort, or

@@ -278,116 +278,115 @@ The following spells listed are known (but not necessarily accessible, depending
 * [wind wall](/Magic/Spells/wind-wall.md)
 
 ## 4th Level
-* Blight
+* [blight](/Magic/Spells/blight.md)
 * [charm monster](/Magic/Spells/charm-monster.md)
-* Confusion
-* Conjure Minor Elementals
-* Conjure Woodland Beings
-* Control Water
+* [confusion](/Magic/Spells/confusion.md)
+* [conjure minor elementals](/Magic/Spells/conjure-minor-elementals.md)
+* [conjure woodland beings](/Magic/Spells/conjure-woodland-beings.md)
+* [control water](/Magic/Spells/control-water.md)
 * [detect curses](/Magic/Spells/detect-curses.md)
-* Divination (ritual)
-* Dominate Beast
+* [divination](/Magic/Spells/divination.md) (ritual)
+* [dominate beast](/Magic/Spells/dominate-beast.md)
 * [elemental bane](/Magic/Spells/elemental-bane.md)
 * [envenomed weapon](/Magic/Spells/envenomed-weapon.md)
-* Fire shield
+* [fire shield](/Magic/Spells/fire-shield.md)
 * [freedom of movement](/Magic/Spells/freedom-of-movement.md)
-* Giant Insect
+* [giant insect](/Magic/Spells/giant-insect.md)
 * [glistening acid slick](/Magic/Spells/glistening-acid-slick.md)
 * [gravelslide](/Magic/Spells/gravelslide.md)
-* Grasping Vine
+* [grasping vine](/Magic/Spells/grasping-vine.md)
 * [greater renewal](/Magic/Spells/greater-renewal.md)
-* Guardian of Nature
-* Hallucinatory Terrain
-* Ice Storm
-* Locate Creature
-* Polymorph
+* [guardian of nature](/Magic/Spells/guardian-of-nature.md)
+* [hallucinatory terrain](/Magic/Spells/hallucinatory-terrain.md)
+* [ice storm](/Magic/Spells/ice-storm.md)
+* [locate creature](/Magic/Spells/locate-creature.md)
+* [polymorph](/Magic/Spells/polymorph.md)
 * [stockade sprouts](/Magic/Spells/stockade-sprouts.md)
 * [stone shape](/Magic/Spells/stone-shape.md)
 * [stoneskin](/Magic/Spells/stoneskin.md)
-* summon elemental
-* Summon Elemental Spirit (UA)
-* Wall of Fire
-* Watery Sphere
+* [summon elemental](/Magic/Spells/summon-elemental.md)
+* [wall of fire](/Magic/Spells/wall-of-fire.md)
+* [watery sphere](/Magic/Spells/watery-sphere.md)
 * [wind funnel](/Magic/Spells/wind-funnel.md)
 
 ## 5th Level
-* Antilife Shell
-* Awaken
+* [antilife shell](/Magic/Spells/antilife-shell.md)
+* [awaken](/Magic/Spells/awaken.md)
 * [burrow](/Magic/Spells/burrow.md)
-* Commune with Nature
-* Cone of Cold
-* Conjure Elemental
-* Contagion
+* [commune with nature](/Magic/Spells/commune-with-nature.md)
+* [cone of cold](/Magic/Spells/cone-of-cold.md)
+* [conjure elemental](/Magic/Spells/conjure-elemental.md)
+* [contagion](/Magic/Spells/contagion.md)
 * [control winds](/Magic/Spells/control-winds.md)
-* Dawn
-* Geas
+* [dawn](/Magic/Spells/dawn.md)
+* [geas](/Magic/Spells/geas.md)
 * [greater restoration](/Magic/Spells/greater-restoration.md)
-* Immolation
-* Insect Plague
-* Maelstrom
+* [immolation](/Magic/Spells/immolation.md)
+* [insect plague](/Magic/Spells/insect-plague.md)
+* [maelstrom](/Magic/Spells/maelstrom.md)
 * [molten upheaval](/Magic/Spells/molten-upheaval.md)
-* Mass Cure Wounds
-* Planar Binding
-* Reincarnate
-* Scrying
+* [mass cure wounds](/Magic/Spells/mass-cure-wounds.md)
+* [planar binding](/Magic/Spells/planar-binding.md)
+* [reincarnate](/Magic/Spells/reincarnate.md)
+* [scrying](/Magic/Spells/scrying.md)
 * [sinking maw](/Magic/Spells/sinking-maw.md)
 * [sonic boom](/Magic/Spells/sonic-boom.md)
 * [sun flower](/Magic/Spells/sun-flower.md)
 * [transmute rock](/Magic/Spells/transmute-rock.md)
-* Tree Stride
+* [tree stride](/Magic/Spells/tree-stride.md)
 * [wall of stone](/Magic/Spells/wall-of-stone.md)
 
 ## 6th Level
 * [bones of the earth](/Magic/Spells/bones-of-the-earth.md)
-* Conjure Fey
-* Find the Path
-* Flesh to Stone
+* [conjure fey](/Magic/Spells/conjure-fey.md)
+* [find the path](/Magic/Spells/find-the-path.md)
+* [flesh to stone](/Magic/Spells/flesh-to-stone.md)
 * [globe of winter](/Magic/Spells/globe-of-winter.md)
-* Heal
-* Heroes' Feast
-* Investiture of Flame
-* Investiture of Ice
-* Investiture of Stone
-* Investiture of Wind
-* Move Earth
-* Primordial Ward
+* [heal](/Magic/Spells/heal.md)
+* [heroes' feast](/Magic/Spells/heroes-feast.md)
+* [investiture of flame](/Magic/Spells/investiture-of-flame.md)
+* [investiture of ice](/Magic/Spells/investiture-of-ice.md)
+* [investiture of stone](/Magic/Spells/investiture-of-stone.md)
+* [investiture of wind](/Magic/Spells/investiture-of-wind.md)
+* [move earth](/Magic/Spells/move-earth.md)
+* [primordial ward](/Magic/Spells/primordial-ward.md)
 * [seismic jaws](/Magic/Spells/seismic-jaws.md)
-* Sunbeam
-* Transport via Plants
-* Wall of Thorns
-* Wind Walk
+* [sunbeam](/Magic/Spells/sunbeam.md)
+* [transport via plants](/Magic/Spells/transport-via-plants.md)
+* [wall of thorns](/Magic/Spells/wall-of-thorns.md)
+* [wind walk](/Magic/Spells/wind-walk.md)
 * [zone of restoration](/Magic/Spells/zone-of-restoration.md)
 
 ## 7th Level
-* Fire Storm
+* [fire storm](/Magic/Spells/fire-storm.md)
 * [living burial](/Magic/Spells/living-burial.md)
-* Mirage Arcane
-* Plane Shift
+* [mirage arcane](/Magic/Spells/mirage-arcane.md)
+* [plane shift](/Magic/Spells/plane-shift.md)
 * [primordial tides](/Magic/Spells/primordial-tides.md)
-* Regenerate
-* Reverse Gravity
-* Symbol
-* Whirlwind
+* [regenerate](/Magic/Spells/regenerate.md)
+* [reverse gravity](/Magic/Spells/reverse-gravity.md)
+* [symbol](/Magic/Spells/symbol.md)
+* [whirlwind](/Magic/Spells/whirlwind.md)
 
 ## 8th Level
-* Animal Shapes
-* Antipathy/Sympathy
-* Control Weather
-* Earthquake
+* [animal shapes](/Magic/Spells/animal-shapes.md)
+* [antipathy/sympathy](/Magic/Spells/antipathy-sympathy.md)
+* [control weather](/Magic/Spells/control-weather.md)
+* [earthquake](/Magic/Spells/earthquake.md)
 * [encasing ice](/Magic/Spells/encasing-ice.md)
-* Feeblemind
-* Incendiary Cloud
-* Sunburst
-* Tsunami
+* [feeblemind](/Magic/Spells/feeblemind.md)
+* [incendiary cloud](/Magic/Spells/incendiary-cloud.md)
+* [sunburst](/Magic/Spells/sunburst.md)
+* [tsunami](/Magic/Spells/tsunami.md)
 * [vertigo](/Magic/Spells/vertigo.md)
 
 ## 9th Level
 * [caldera](/Magic/Spells/caldera.md)
-* Foresight
+* [foresight](/Magic/Spells/foresight.md)
 * [frailty](/Magic/Spells/frailty.md)
-* Mass polymorph
+* [mass polymorph](/Magic/Spells/mass-polymorph.md)
 * [omnisight](/Magic/Spells/omnisight.md)
-* Power Word: Heal
-* Shapechange
-* Storm of Vengeance
-* True Resurrection
+* [power word: heal](/Magic/Spells/power-word-heal.md)
+* [shapechange](/Magic/Spells/shapechange.md)
+* [storm of vengeance](/Magic/Spells/storm-of-vengeance.md)
+* [true resurrection](/Magic/Spells/true-resurrection.md)

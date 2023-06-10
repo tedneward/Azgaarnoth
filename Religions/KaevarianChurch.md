@@ -25,4 +25,7 @@ Kaevarian priests, strangely enough, encompass nearly all the clerical domains a
 * [War](/Classes/Cleric/War.md)
 * [Zeal](/Classes/Cleric/Zeal.md)
 
-The Kaevarian Church is 
+Kaevarian paladins are rare, however, and are almost always assumed to be divinely inspired by Kaevar to accomplish a singular mission (of large scale, usually to take a lifetime) before their death.
+
+## Singularian Heresy
+It is rumored that there is a heretical religious order within the Kaevarian Church that secretly works to eliminate all other religious worship in favor of Kaevar alone; while the Kaevarian Church disavows their theology and openly hunts those who promote the Singularian Heresy, it continues to operate, masquerading as Kaevarian clergy and subtly seeking to steer Kaevarian events to a universal worship of the One-and-only-True-God-of-All.

@@ -23,7 +23,7 @@ You research how to reawaken dead flesh, not by animating it with necrotic energ
 Necromancers tend to become death’s allies or servants, but you seek to conquer death forever with rigorous experimentation. Students of this arcane tradition are experts in anatomy, alchemy, and chirurgery, approaching their work with a more scholarly and scientific approach than most wizards employ. Most reanimators are soon ousted by any academic institution or arcane order once they begin their macabre projects in this area. However, such a lack of vision on the part of their alleged peers is seldom enough to dissuade a reanimator. You know that one day your discoveries could grant the option of eternal life to all mortal beings, and those who called you mad will be exposed for the fools they are.
 
 ## Student of the Body
-At 2nd level when you choose this arcane tradition, you have made an academic study of the energies that sustain living creatures around you. You learn the [spare the dying]() cantrip, and you add the [false life]() and [find familiar]() spells to your spellbook. When you cast [find familiar](), your familiar’s creature type changes to construct, instead of one of the normal types for that spell.
+At 2nd level when you choose this arcane tradition, you have made an academic study of the energies that sustain living creatures around you. You learn the [spare the dying](/Magic/Spells/spare-the-dying.md) cantrip, and you add the [false life](/Magic/Spells/false-life.md) and [find familiar](/Magic/Spells/find-familiar.md) spells to your spellbook. When you cast [find familiar](/Magic/Spells/find-familiar.md), your familiar’s creature type changes to construct, instead of one of the normal types for that spell.
 
 You also gain proficiency with alchemist’s supplies and the Medicine skill if you don't already have it. Your proficiency bonus is doubled for any ability check you make related to beasts, constructs, humanoids, or undead that uses this proficiency.
 
@@ -52,21 +52,22 @@ Select a humanoid or beast of Small, Medium, or Large size, with a challenge rat
 
 In combat, the reanimated servant shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but unless commanded otherwise by you, the only action it can take on its turn is the Dodge action. If you use your bonus action to command it, your reanimated servant can take one of the following actions: Dash, Disengage, Help, Hide, Search, or Use an Object.
 
-If the servant is killed, you can return it to life by magical means, such as with the revivify spell. In addition, over the course of a long rest, you can repair a slain servant if you have access to its body and your alchemist’s supplies, and you expend a spell slot of 1st level or higher. If you do so, at the end of the long rest, the reanimated servant returns to life with all its hit points restored.
+If the servant is killed, you can return it to life by magical means, such as with the [revivify](/Magic/Spells/revivify.md) spell. In addition, over the course of a long rest, you can repair a slain servant if you have access to its body and your alchemist’s supplies, and you expend a spell slot of 1st level or higher. If you do so, at the end of the long rest, the reanimated servant returns to life with all its hit points restored.
 
 At the end of a long rest, you can create a new reanimated servant if you have your alchemist’s supplies with you. You can only have one reanimated servant at any given time using this feature. If you already have a reanimated servant and create a new one, the original reanimated servant is immediately destroyed.
 
-Additionally, when you gain this feature, you add the [animate dead]() and [revivify]() spells to your spellbook. 
+Additionally, when you gain this feature, you add the [animate dead](/Magic/Spells/animate-dead.md) and [revivify](/Magic/Spells/revivify.md) spells to your spellbook. 
 
 ## Energies of Life
 Beginning at 10th level, performing the ritual for your Alchemical Vitalism feature can change up to three vials of water into curative admixtures, and you can have up to three curative admixtures active at once instead of two. Additionally, a creature that regains hit points by using one of your curative admixtures also gains temporary hit points equal to your Intelligence modifier (minimum of 1).
 
 While a creature still has temporary hit points gained from this feature, it gains a bonus to melee weapon damage rolls equal to the number of temporary hit points it has remaining.
 
-Additionally, when you gain this feature, you add the [modify memory]() and [reincarnate]() spells to your spellbook.
+Additionally, when you gain this feature, you add the [modify memory](/Magic/Spells/modify-memory.md) and [reincarnate](/Magic/Spells/reincarnate.md) spells to your spellbook.
 
 ## Improved Servant
-At 14th level, as a ritual, you can spend 8 hours and expend one spell slot of 6th level or higher to transform your reanimated servant into a powerful construct akin to a fl esh golem. The reanimated servant is transformed in the following ways:
+At 14th level, as a ritual, you can spend 8 hours and expend one spell slot of 6th level or higher to transform your reanimated servant into a powerful construct akin to a flesh golem. The reanimated servant is transformed in the following ways:
+
 * Its Strength score becomes 19 if it was lower.
 * Its Constitution score becomes 18 if it was lower.
 * It becomes immune to any spell or effect that would alter its form.

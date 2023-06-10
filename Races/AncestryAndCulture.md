@@ -11,17 +11,8 @@ To that end, this page permits PCs to create a "custom" racial build that better
 
 3. **Select culture.** Despite how/where/to whom they were born, PCs are also raised within a culture, which determines their skills and languages.
 
-Within Azgaarnoth, there are several prominent cultures to choose from:
-* ...
+    Within Azgaarnoth, there are several prominent cultures to choose from:
+
+    * ...
 
 4. **Ability score increases.** Rather than tying this to any particular racial/physical build, choose +2 in any one ability score, and +1 in another.
-
-
-Original tweet(s):
-> "First, choose your ancestry, representing your parents or biological lineage. This grants you certain ancestral traits, like Age, Size, Darkvision, Breath Weapon, Fey Ancestry, Flight, Amphibious, etc. These work just like one half of the Race trait list."
-
-> "Next, those a culture you were raised in, like elven or gnomish, or maybe mountain or coast, which grants traits like skills and languages. Combined with ancestry, these complete the '#Race' trait list."
-
-> "Last, for ability score increases, add +2 to one and +1 to another ability score, just as #Tashas suggests. Swap out a skill or language as well, if you like."
-
-

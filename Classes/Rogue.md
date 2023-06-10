@@ -54,14 +54,14 @@ You start with the following equipment, in addition to the equipment granted by 
 * Leather armor, two daggers, and thieves' tools
 
 ## Expertise
-*1st-level rogue fatigue*
+*1st-level rogue feature*
 
 Choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 
 At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.
 
 ## Sneak Attack
-*1st-level rogue fatigue*
+*1st-level rogue feature*
 
 You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
 

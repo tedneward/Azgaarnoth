@@ -15,13 +15,14 @@ These feats can be taken by a dragon of any type. Each dragon sub-type lists add
 
 ## Alert
 The dragon is particularly aware of its surrounding. It gains the following benefits:
+
 * The dragon gains a +5 bonus to initiative rolls.
 * The dragon cannot be surprised while it is conscious.
 * Creatures do not gain advantage on attack rolls by being hidden from the dragon.
 
 
 ## Arcane Immunity
-The dragon is immune to magic [sleep]() effects, and to the paralyzed and petrified conditions.
+The dragon is immune to magic [sleep](/Magic/Spells/sleep.md) effects, and to the paralyzed and petrified conditions.
 
 
 ## Armor Training
@@ -41,10 +42,12 @@ The dragon exudes such a terrifying aura that creatures near it lose their will 
 
 The dragon deals an extra die of damage whenever it hits with a melee weapon attack.
 
+
 ## Change Shape
 *Prerequisite: must not already have the Change Shape action option.*
 
 The dragon shapeshifts according to the Change Shape ability possessed by metallic dragons. Chromatic dragons rarely have this ability mastered in the way that metallic dragons do, and so only have one or two alternate forms. For example, a blue dragon may possess the ability to shapeshift into a storm giant. They rarely take the form of humanoids (especially reds) because they see themselves as the pinnacle of perfection. However, a green or purple dragon may find practical use for a humanoid form.
+
 
 ## Charge
 If the dragon takes the Dash action on its turn, it can make a melee attack as a bonus action on the same turn. If the dragon travels at least 10 feet toward the target before making the attack, and the attack hits, it can choose to either gain a +5 to the attack's damage roll, or knock the target prone and push it 5 feet in any direction it chooses.
@@ -110,26 +113,32 @@ Great Wyrm| 4d8
 
 The first time the dragon is reduced to 0 hit points as a result of taking damage, it is reduced to 1 hit point instead, unless the damage was from a critical hit. Once the dragon uses this feat, it can't do so again until it finishes a long rest.
 
+
 ## Epic Intellect
 The dragon gains proficiency in Intelligence saving throws.
+
 
 ## Epic Reflexes
 *Prerequisite: proficiency in Dexterity saving throws.*
 
 The dragon doubles its proficiency bonus on Dexterity saving throws.
 
+
 ## Epic Strength
 The dragon gains proficiency in Strength saving throws.
+
 
 ## Epic Will
 *Prerequisite: proficiency in Wisdom saving throws.*
 
 The dragon doubles its proficiency bonus on Wisdom saving throws.
 
+
 ## Flyby
 *Prerequisite: Mobile.*
 
 The dragon doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+
 
 ## Furious Onslaught
 *Prerequisite: must have Multiattack.*
@@ -138,28 +147,34 @@ The dragon gains a new action option:
 
 **Furious Onslaught.** The dragon can use its Frightful Presence. It then makes a claw attack against every creature in its reach. It can also make one bite attack.
 
+
 ## Hard Scales
 *Prerequisite: Constitution 18.*
 
 Bludgeoning, piercing, and slashing damage that the dragon takes from nonmagical weapons is reduced by 2. This cannot reduce the damage below 1.
 
+
 ## Hover
 The dragon can fly, remaining stationary in the air, without expending movement. Additionally, if the dragon is subjected to an effect that would reduce its flying speed to 0, the dragon does not fall and instead hovers in the air. If the dragon is subjected to an effect that would otherwise cause it to fall, the dragon falls at a rate of 60 feet per round and lands on its feet without taking damage from falling.
+
 
 ## Improved Spellcasting
 *Prerequisite: Innate Spellcasting, Intelligence 15.*
 
 The highest level spell that the dragon can cast increases by one level.
 
+
 ## Indomitable Will
 *Prerequisite: Epic Will (green dragons ignore this requirement).*
 
 The dragon is immune to being charmed or dominated.
 
+
 ## Infernal Blood
 *Prerequisite: must be a dragon of evil alignment, and had extensive experience with devils.*
 
 The dragon has been touched by the hand of devils in some way, perhaps by being exposed to their magic for long periods of time, by being trapped within the Nine Hells, or even by forging a pact with an archdevil. As a result, the dragon gains resistance to fire, cold, and poison damage, and has advantage on saving throws to resist becoming poisoned.
+
 
 ## Innate Spellcasting
 *Prerequisite: Charisma 12.*
@@ -203,58 +218,70 @@ If the dragon has legendary actions, it also gains the following Legendary Actio
 
 **Innate Casting (Costs 3 Actions).** The dragon casts a spell.
 
+
 ## Large and In Charge
 *Prerequisite: size Large or larger.*
 
 The dragon can make opportunity attacks against creatures that enter its reach.
+
 
 ## Limited Magic Immunity
 *Prerequisite: Spell Resistance; must be Mature Adult or older.*
 
 The dragon is immune to 1st level spells and cantrips, unless it wishes to be affected. A dragon can take this feat multiple times, increasing its spell resistance by 1 level every time it takes the feat, to a maximum of 5th level spells.
 
+
 ## Magic Resistance
 *Prerequisite: Arcane Immunity, Intelligence 15.*
 
 The dragon has advantage on saving throws against spells and magical effects.
+
 
 ## Magic Weaponry
 *Prerequisite: Arcane Immunity.*
 
 The dragon’s weapon attacks are considered magical weapons for the purpose of overcoming resistances.
 
+
 ## Maximize Breath
 *Prerequisite: Charisma 18.*
 
 When the dragon uses its Breath Weapon, it can choose to expend all of its movement and Legendary Actions (if it has them) for that round. If it does, its Breath Weapon deals maximum damage. If the dragon uses its Breath Weapon in this way, it recharges on a 6 rather than on a 5-6. 
 
+
 ## Mobile
 The dragon can take the Dash action as a bonus action.
+
 
 ## Mundane Weapon Immunity
 *Prerequisites: Mundane Weapon Resistance, must be Ancient or older.*
 
 The dragon gains immunity to bludgeoning, piercing, and slashing damage from nonmagical weapons.
 
+
 ## Mundane Weapon Resistance
 *Prerequisites: Arcane Immunity, must be Juvenile or older.*
 
 The dragon gains resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.
+
 
 ## Recover Breath
 *Prerequisite: Charisma 18.*
 
 The dragon's Breath Weapon recovers on a 4-6 rather than a 5-6. If used jointly with Maximize Breath, it recharges on a 5-6 rather than on a 6.
 
+
 ## Reflective Scales
 *Prerequisite: Limited Magic Immunity.*
 
 If the dragon is targeted by a ranged spell attack to which it is immune, (including magic missile), roll a d6. On a 1-5, nothing happens, and the dragon is unaffected. On a 6, the spell is reflected, treating the caster as the target and the dragon as the caster as if the spell had originated from the dragon.
 
+
 ## Rend
 *Prerequisite: Strength 20 (White dragons ignore this requirement).*
 
 If the dragon hits a creature with two claw attacks in the same turn, the second claw attack deals double damage. 
+
 
 ## Roar
 *Prerequisite: must be Huge or larger.*
@@ -263,6 +290,7 @@ The dragon gains the Roar action option:
 
 **Roar (Rechage 5-6).** The dragon unleashes a powerful roar. Each creature within 100 feet of the dragon that can hear it must make a Constitution saving throw (save DC = 8 + the dragon's proficiency bonus + the dragon's Charisma modifier) or take 11 (3d6) thunder damage and be stunned until the end of its next turn. On a successful save, the creature takes half as much damage and isn't stunned.
 
+
 ## Sacred Warder
 *Prerequisites: any good alignment, Arcane Immunity, Wisdom 14, and has to have extensive experience worshipping Bahamut.*
 
@@ -270,25 +298,30 @@ The dragon is an avid zealot of Bahamut, and so has been gifted with the ability
 
 **Holy Shield (1/Day).** As an action, the dragon can create a holy shield around itself that covers its body and anything it is wearing. The shield has a number of hit points equal to 10 times the dragon's age category, and shares all of the dragon's resistances and immunities. Any time that the dragon takes damage, the shield takes that damage instead. If the shield is reduced to 0 hit points, any remaining damage is transferred to the dragon. The shield lasts for 10 minutes or until it is reduced to 0 hit points.
 
+
 ## Sacred Warder of Bahamut
 *Prerequisites: Sacred Warder, Wisdom 15.*
 
 Because of the dragon's faithfulness to Bahamut, it can extend its holy shield to protect other creatures. When the dragon uses its Holy Shield ability, instead of protecting itself, it can choose a point on the ground or a willing creature (including itself). The shield guards an area with a 30-foot radius that moves with the designated creature. The shield blocks all incoming attacks, though it does not block attacks from inside the shield, and no creatures can enter the shield unless the dragon wills it. The shield otherwise has the same statistics as with the Sacred Warder dragon feat.
+
 
 ## Scary
 *Prerequisite: must have Frightful Presence.*
 
 The dragon has advantage on Intimidation checks, and it gains a +2 bonus to the save DC of its Frightful Presence.
 
+
 ## Siege Monster
 *Prerequisites: size Huge or larger, Strength 25.*
 
 The dragon deals double damage to objects and buildings.
 
+
 ## Shape Breath
 *Prerequisite: Charisma 15.*
 
 If the dragon's breath weapon is cone-shaped, it can instead change the shape to a line that is 5 feet wide and double its range. If the dragon's breath weapon is line-shaped, it can instead change the shape to a cone and halve its range.
+
 
 ## Shockwave
 *Prerequisite: size Large or larger.*
@@ -301,28 +334,36 @@ If the dragon has legendary actions, it also gains the following Legendary Actio
 
 **Shockwave (Costs 2 Actions).** The dragon makes a Shockwave attack.
 
+
 ## Silent Walk
 The dragon can walk silently if it moves no more than half of its speed on its turn. If it does so, it has advantage on Dexterity (Stealth) checks until the start of its next turn.
 
+
 ## Snatch
 When the dragon hits with a claw or bite attack, instead of dealing damage, it can choose to grapple the target, as long as it is a creature that is two or more sizes smaller than the dragon. Handle the grapple as any other. The dragon can grapple a total of 3 creatures simultaneously; one in each front claw, and one in its jaws.
+
 
 ## Spell Resistance
 *Prerequisite: Magic Resistance.*
 
 The dragon gains resistance to all damage from spells.
 
+
 ## Stealthy
 The dragon gains double its proficiency bonus on Dexterity (Stealth) checks.
+
 
 ## Strafing
 If the dragon is flying when it uses its breath weapon, it can add the area directly underneath its travel (since the start of its turn) to the area of the breath weapon.
 
+
 ## Sweeping Claws
 When the dragon hits with a claw attack, it can choose another creature within 5 feet of the original target and within its reach. If the original attack roll would hit the second creature, that creature takes the same damage as the original target.
 
+
 ## Swift
 Each of the dragon's speeds increases by 25%.
+
 
 ## Tail Sweep
 *Prerequisite: must have a Tail Attack.*
@@ -334,6 +375,7 @@ The dragon gains the Tail Sweep action option:
 If the dragon has legendary actions, it also gains the following Legendary Action:
 
 **Tail Sweep (Costs 2 Actions).** The dragon makes a tail sweep attack.
+
 
 ## Tempest Breath
 *Prerequisites: size Large or larger.*
@@ -348,18 +390,22 @@ Huge|10 feet
 Gargantuan|15 feet
 Colossal|20 feet
 
+
 ## Terrifying Presence
 *Prerequisite: must have Frightful Presence.*
 
 When the dragon uses its Frightful Presence ability, creatures with immunity to being frightened have advantage instead, and creatures normally with advantage (or resistance) do not have advantage. Otherwise a creature has disadvantage on the initial saving throw.
 
+
 ## Tough
 The dragon gains a number of hitpoints equal to 2 times its number of hit dice. Whenever the dragon gains hit dice (as a result of taking class levels or of aging), its hit point maximum increases by 2 for every hit die it gained.
+
 
 ## Unstoppable
 *Prerequisite: Arcane Immunity.*
 
 If the dragon is subjected to an effect that would inflict the restrained or stunned condition, it instead loses its next use (one action) of its legendary actions and its speed is reduced by half for the duration of the spell or effect. The loss of legendary actions is cumulative, but the loss of speed is not.
+
 
 ## Wingstorm
 *Prerequisites: Hover, size Large or larger.*

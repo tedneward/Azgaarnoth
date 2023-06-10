@@ -7,18 +7,9 @@ Medium construct, neutral
 
 **Speed** 30 ft.
 
-STR
-19(+4)
-DEX
-9(−1)
-CON
-18(+4)
-INT
-6(−2)
-WIS
-10(+0)
-CHA
-5(−3)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+19 (+4)| 9 (−1)|18 (+4)| 6 (−2)|10 (+0)| 5 (−3)
 
 **Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t adamantine
 
@@ -52,7 +43,7 @@ The golem’s creator, if within 60 feet of the berserk golem, can try to calm i
 ## Description
 Golems are made from humble materials — clay, flesh and bones, iron, or stone — but they possess astonishing power and durability. A golem has no ambitions, needs no sustenance, feels no pain, and knows no remorse. An unstoppable juggernaut, it exists to follow its creator’s orders, and it protects or attacks as that creator demands.
 
-To create a golem, one requires a [manual of golems](). The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
+To create a golem, one requires a [manual of golems](/Magic/Items/manual-of-golems.md). The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
 
 **Elemental Spirit in Material Form.** The construction of a golem begins with the building of its body, requiring great command of the craft of sculpting, stonecutting, ironworking, or surgery. Sometimes a golem’s creator is the master of the art, but often the individual who desires a golem must enlist master artisans to do the work.
 
