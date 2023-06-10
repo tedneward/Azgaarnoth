@@ -33,7 +33,7 @@ Brinwal has a healthy shipping lane that goes back and forth between itself and 
 **Militia** Mustered on demand. 50xFighter 3, 180xFighter 2, 750xFighter 1. (Total: ~1000)
 
 ## Draconic Order
-The Draconic Order maintains no chapterhouse here, but a Talon (squad) of Knights of the Copper are here: [Arbur Suncloud](/People/ArburSuncloud.md), 4xFighter 1. They reside in the Lion Guard barracks in exchange for conducting the odd investigation on behalf of the Guard.
+The Draconic Order maintains no chapterhouse here, but a Talon (squad) of Knights of the Copper are here: [Arbur Suncloud](/People/ArburSuncloud.md), 4xFighter 1, Paladin 2, Cleric (Life) 2. They reside in the Lion Guard barracks in exchange for conducting the odd investigation on behalf of the Guard.
 
 ## Dueling Schools
 There are no dueling schools in Brinwal.

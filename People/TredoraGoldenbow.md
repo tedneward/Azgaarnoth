@@ -1,7 +1,7 @@
 # Tredora Goldenbow
-*female aasimar Cleric (Light) 8 of Pelor, LG*
+*lawful good female aasimar cleric (Light) 8 of Pelor*
 
-**Armor Class** 21 (Chain Mail (16) + 1, Shield (+2) + 1, Amulet (+1))
+**Armor Class** 21 (Chain Mail (16) +1, Shield (+2) +1, Amulet (+1))
 
 **Hit Points** 66 (8d8 + 24)
 
@@ -21,7 +21,7 @@
 
 **Healing Hands**. As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest.
 
-**Light Bearer**. You know the [light](https://www.dndbeyond.com/spells/light) cantrip. Charisma is your spellcasting ability for it.
+**Light Bearer**. You know the [light](https://github.com/tedneward/Azgaarnoth/blob/master/Magic/Spells/light.md) cantrip. Charisma is your spellcasting ability for it.
 
 **Warding Flare**. You can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 

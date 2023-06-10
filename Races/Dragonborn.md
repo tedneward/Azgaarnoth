@@ -60,8 +60,7 @@ Every head of the [Platinum Order](/Organizations/DraconicOrder/Platinum.md) has
 
 * **Alignment**. To even be considered for the ritual, the humanoid must not be evil. They retain their original alignment, but most are good. A select few are neutral.
 
-* **Size**. Platinum dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost
-250 pounds. Your size is Medium.
+* **Size**. Platinum dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.
 
 * **Speed**. Your base walking speed is 30 feet.
 
