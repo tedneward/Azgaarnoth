@@ -1,5 +1,5 @@
 #### Encode Thoughts
-*Enchantment cantrip*
+*Enchantment cantrip* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

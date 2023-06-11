@@ -1,5 +1,5 @@
 #### Poison Spray
-*Conjuration cantrip*
+*Conjuration cantrip* (Artificer, Druid, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 10 feet

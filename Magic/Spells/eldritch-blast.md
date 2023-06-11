@@ -1,5 +1,5 @@
 #### Eldritch Blast
-*Evocation cantrip*
+*Evocation cantrip* (Warlock)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

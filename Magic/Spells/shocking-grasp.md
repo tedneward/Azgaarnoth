@@ -1,5 +1,5 @@
 #### Shocking Grasp
-*Evocation cantrip*
+*Evocation cantrip* (Artificer, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

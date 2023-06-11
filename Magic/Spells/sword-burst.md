@@ -1,5 +1,5 @@
 # Sword Burst
-*conjuration cantrip*
+*conjuration cantrip* (Artificer, Sorcerer, Warlock, Wizard)
 
 **Casting Time:** 1 action
 

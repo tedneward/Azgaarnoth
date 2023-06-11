@@ -1,5 +1,5 @@
 #### Infestation
-*Conjuration cantrip*
+*Conjuration cantrip* (Druid, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet
