@@ -338,6 +338,9 @@ def main():
                 found.append(spell)
         return found
 
+    def snakecasefilename(name):
+        return name.replace(' ', '-').replace('\'', '').replace('/', '-').lower()
+
     # Are we doing lists?
     if args.listtext != None:
         classTarget = str(args.listtext)
@@ -359,6 +362,30 @@ def main():
                     print("* [" + str(spell.name) + "](" + spell.filename + ")")
             print(" ")
 
+    elif args.writemd != None:
+        prefix = args.writemd
+        # Create prefix directory if it doesn't exist
+        if os.path.isdir(prefix):
+            pass
+        else:
+            print("Directory does not exist! Creating it.")
+            os.mkdir(prefix)
+
+        # Write out all the spells
+        for spell in spells:
+            filename = prefix + '/' + snakecasefilename(spell.name) + ".md"
+            print("Writing " + filename)
+            with open(filename, 'w') as file:
+                file.write(spell.printMD())
+
+    elif args.writexml != None:
+        prefix = args.writexml
+        # Create prefix directory if it doesn't exist
+
+        # Write out all the spells
+        for spell in spells:
+            filename = prefix + '/' + snakecasefilename(spell.name) + ".xml"
+            print("Writing out " + filename)
 
 def oldmain():
     # Examine passed options
