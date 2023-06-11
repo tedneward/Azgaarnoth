@@ -244,9 +244,23 @@ class Spell:
     # description VARCHAR(1024)
     # );
     def writeRow(self, conn):
-        sql = "INSERT INTO spell VALUES("
-        sql += self.name + ","
+        sql = "INSERT INTO spell (name, level, ritual, type, classes, castingtime, range, duration, components, description) "
+        sql += "VALUES("
+        sql += "\"" + self.name + "\","
+        sql += "\"" + self.level + "\","
+        if self.ritual:
+            sql += "'Y',"
+        else:
+            sql += "'N',"
+        sql += "\"" + self.type + "\","
+        sql += "\"" + ",".join(self.classes) + "\","
+        sql += "\"" + self.casting_time + "\","
+        sql += "\"" + self.range + "\","
+        sql += "\"" + self.duration + "\","
+        sql += "\"" + self.components + "\","
+        sql += "\"" + "".join(self.description) + "\""
         sql += ")"
+        print("Executing " + sql)
         conn.execute(sql)
 
 spells = []
@@ -350,20 +364,21 @@ def main():
                 return
 
             with sqlite3.connect(target) as conn:
-                conn.execute("""
-CREATE TABLE spell(
+                sql = """CREATE TABLE spell(
 id INTEGER PRIMARY KEY AUTOINCREMENT,
 name VARCHAR(80),
 level VARCHAR(10),
 ritual VARCHAR(2),
 type VARCHAR(20),
-classes VARCHAR(80).
+classes VARCHAR(80),
 castingtime VARCHAR(80),
 range VARCHAR(80),
 duration VARCHAR(80),
 components VARCHAR(80),
 description VARCHAR(1024)
-);""")
+);"""
+                conn.execute(sql)
+
                 for spell in spells:
                     spell.writeRow(conn)
 
