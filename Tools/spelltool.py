@@ -365,9 +365,7 @@ def main():
     elif args.writemd != None:
         prefix = args.writemd
         # Create prefix directory if it doesn't exist
-        if os.path.isdir(prefix):
-            pass
-        else:
+        if os.path.isdir(prefix) == False:
             print("Directory does not exist! Creating it.")
             os.mkdir(prefix)
 
@@ -381,11 +379,16 @@ def main():
     elif args.writexml != None:
         prefix = args.writexml
         # Create prefix directory if it doesn't exist
+        if os.path.isdir(prefix) == False:
+            print("Directory does not exist! Creating it.")
+            os.mkdir(prefix)
 
         # Write out all the spells
         for spell in spells:
             filename = prefix + '/' + snakecasefilename(spell.name) + ".xml"
-            print("Writing out " + filename)
+            print("Writing " + filename)
+            with open(filename, 'w') as file:
+                file.write(spell.printXML())
 
 def oldmain():
     # Examine passed options
