@@ -10,6 +10,7 @@
 **Duration:** Concentration, up to 1 minute
 
 You touch one creature, imbuing the target with magic that enhances and empowers its body. Choose either Strength or Dexterity to empower. Until the spell ends, the target gains the following benefits:
+
 * The target has advantage on ability checks that use the chosen ability score and on saving throws to maintain concentration.
 * The target's speed increases by 10 feet.
 * The target has advantage on weapon attacks.
