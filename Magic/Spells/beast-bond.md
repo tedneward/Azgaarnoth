@@ -1,5 +1,5 @@
 # Beast Bond
-*1st-level divination*
+*1st-level divination* (Druid, Ranger)
 
 **Casting Time:** 1 action
 

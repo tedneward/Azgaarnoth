@@ -1,5 +1,5 @@
 #### Color Spray
-*1st-level illusion*
+*1st-level illusion* (Bard, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (15-foot cone)

@@ -1,5 +1,5 @@
 #### Comprehend Languages
-*1st-level divination (ritual)*
+*1st-level divination (ritual)* (Bard, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

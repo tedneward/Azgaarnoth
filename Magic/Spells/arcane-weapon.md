@@ -1,5 +1,5 @@
 # Arcane Weapon
-*1st-level transmutation*
+*1st-level transmutation* (Artificer)
 
 **Casting Time**: 1 bonus action
 

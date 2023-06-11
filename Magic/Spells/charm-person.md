@@ -1,5 +1,5 @@
 #### Charm Person
-*1st-level enchantment*
+*1st-level enchantment* (Bard, Druid, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

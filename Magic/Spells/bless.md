@@ -1,5 +1,5 @@
 #### Bless
-*1st-level enchantment*
+*1st-level enchantment* (Cleric, Paladin)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

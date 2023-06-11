@@ -1,5 +1,5 @@
 #### Command
-*1st-level enchantment*
+*1st-level enchantment* (Bard, Cleric, Paladin)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

@@ -1,5 +1,5 @@
 #### Armor of Agathys
-*1st-level abjuration*
+*1st-level abjuration* (Warlock)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self
