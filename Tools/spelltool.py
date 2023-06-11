@@ -1,3 +1,4 @@
+import argparse
 import os
 import sqlite3
 import sys
@@ -14,13 +15,17 @@ import sys
 #   parsexml (xmlfile): Draw spells in from XML;
 #       if (xmlfile) is specified, read them all from a single XML file
 #
+# Listing options:
+#   listmd (artificer|bard|cleric|druid|...|all|none):
+#       write a list of (class) spells in Markdown to STDOUT
+#   listtext (artificer|bard|cleric|druid|...|all|none):
+#       write a list of (class) spells in plain text to STDOUT
+#   listxml (artificer|bard|cleric|druid|...|all|none):
+#       write a list of (class) spells in XML to STDOUT
+#
 # Output options:
 #   writemd: Write spells out in markdown format
 #   writexml: Write spells out to xml
-#   writemdlist (bard|cleric|druid|...):
-#       write a list of all (class) spells in Markdown to STDOUT
-#   writexmllist (bard|cleric|druid|...):
-#       write a list of all (class) spells in XML to STDOUT
 
 classes = ["Artificer", "Bard", "Cleric", "Druid", "Mystic",
            "Paladin", "PaleMaster","Ranger", "Shaman",
@@ -82,7 +87,7 @@ class Spell:
 
             spell.classes = extractClasses(subtitle)
             if spell.classes == []:
-                print("WARNING: No classes found in parse")
+                pass #print("WARNING: No classes found in parse: " + spell.filename)
             else:
                 classStartIdx = subtitle.find('(')
                 subtitle = subtitle[0:classStartIdx]
@@ -140,37 +145,37 @@ class Spell:
 
             spell.classes = extractClasses(subtitle)
             if spell.classes == []:
-                print("WARNING: " + spell.name + ": No classes found in parse")
+                pass #print("WARNING: No classes found in parse: " + spell.filename)
             else:
                 classStartIdx = subtitle.find('(')
                 subtitle = subtitle[0:classStartIdx]
 
             if subtitle.startswith("1st-"):
-                spell.level = "1"
+                spell.level = "1st"
                 spell.type = subtitle[10:].strip()
             elif subtitle.startswith("2nd-"):
-                spell.level = "2"
+                spell.level = "2nd"
                 spell.type = subtitle[10:].strip()
             elif subtitle.startswith("3rd-"):
-                spell.level = "3"
+                spell.level = "3rd"
                 spell.type = subtitle[10:].strip()
             elif subtitle.startswith("4th-"):
-                spell.level = "4"
+                spell.level = "4th"
                 spell.type = subtitle[10:].strip()
             elif subtitle.startswith("5th-"):
-                spell.level = "5"
+                spell.level = "5th"
                 spell.type = subtitle[10:].strip()
             elif subtitle.startswith("6th-"):
-                spell.level = "6"
+                spell.level = "6th"
                 spell.type = subtitle[10:].strip()
             elif subtitle.startswith("7th-"):
-                spell.level = "7"
+                spell.level = "7th"
                 spell.type = subtitle[10:].strip()
             elif subtitle.startswith("8th-"):
-                spell.level = "8"
+                spell.level = "8th"
                 spell.type = subtitle[10:].strip()
             elif subtitle.startswith("9th-"):
-                spell.level = "9"
+                spell.level = "9th"
                 spell.type = subtitle[10:].strip()
             else:
                 spell.level = "cantrip"
@@ -202,7 +207,20 @@ class Spell:
     
     def printMD(self):
         text = "#### " + self.name + "\n"
-        text += "*" + self.level + "-level " + self.type + "* (" + ",".join(self.classes) + ")\n"
+        text += "*"
+        if self.level == "cantrip":
+            text += self.type + " " + self.level
+        else:
+            text += self.level + "-level " + self.type + "*"
+
+        if self.ritual:
+            text += " *(ritual)*"
+
+        if len(self.classes) == 0:
+            text += " (WARNING: NO CLASSES LISTED)\n"
+        else:
+            text += " (" + ",".join(self.classes) + ")\n"
+
         text += "___\n"
         text += "- **Casting Time:** " + self.casting_time + "\n"
         text += "- **Range:** " + self.range + "\n"
@@ -266,56 +284,91 @@ class Spell:
 spells = []
 
 def main():
+    classOpts = ['all', 'none'] + classes
+
+    parser = argparse.ArgumentParser(
+                    prog='SpellTool',
+                    description='A spell list(s) and contents tool',
+                    epilog='Text at the bottom of help')
+    parser.add_argument('--version', action='version', version='%(prog)s 1.0')
+    # Input commands
+    parser.add_argument('--parsemd', help='File or directory for parsing MD file(s)')
+    parser.add_argument('--parsesql', help='SQLite file to use as input database')
+    parser.add_argument('--parsexml', help='File or directory for parsing XML file(s)')
+    # Lists commands
+    parser.add_argument('--listmd', choices=classOpts, help='Produce an MD spell list for the passed class')
+    parser.add_argument('--listtext', choices=classOpts, help='Produce a plain-text spell list for the passed class')
+    # Output commands
+    parser.add_argument('--writemd', help='Directory to which to write MD files')
+    parser.add_argument('--writesql', help='SQLite filename to write spells to')
+    parser.add_argument('--writexml', help='Directory to which to write XML files')
+
+    # Process arguments
+    args = parser.parse_args()
+    #print(vars(args))
+
+    # Get input
+    if args.parsemd != None:
+        target = args.parsemd
+        files = os.listdir(target)
+        for f in files:
+            spell = Spell.parseMDSpell(target + "/" + f)
+            spells.append(spell)
+    elif args.parsexml != None:
+        target = args.parsexml
+        files = os.listdir(target)
+        for f in files:
+            spell = Spell.parseXMLSpell(target + "/" + f)
+            spells.append(spell)
+    elif args.parsesql != None:
+        target = args.parsesql
+        with sqlite3.connect(target) as conn:
+            # SELECT * FROM spell
+            pass
+    else:
+        print('No input source specified; exiting')
+        return
+    
+    def findClassSpells(classname):
+        found = []
+        for spell in spells:
+            if classname == 'all' or classname in spell.classes:
+                found.append(spell)
+            if classname == 'none' and spell.classes == []:
+                found.append(spell)
+        return found
+
+    # Are we doing lists?
+    if args.listtext != None:
+        classTarget = str(args.listtext)
+        found = findClassSpells(classTarget)
+        print(classTarget + " Spells")
+        for spell in found:
+            print(str(spell.name) + " (" + spell.filename + ")")
+
+    elif args.listmd != None:
+        classTarget = str(args.listmd)
+        found = findClassSpells(classTarget)
+        print("# " + classTarget + " Spells")
+        print(" ")
+
+        for level in ["cantrip", "1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th"]:
+            print("## " + level + "-Level Spells")
+            for spell in found:
+                if spell.level == level:
+                    print("* [" + str(spell.name) + "](" + spell.filename + ")")
+            print(" ")
+
+
+def oldmain():
     # Examine passed options
     argi = 1
     while argi < len(sys.argv):
         command = sys.argv[argi]
 
         ################
-        # Parse SQLite
-        if command == "parsesql":
-            argi += 1
-
-            target = ""
-            if argi <= len(sys.argv):
-                target = sys.argv[argi]
-                argi += 1
-            else:
-                print("You must specify a SQLite database file")
-                return
-            
-            with sqlite3.connect(target) as conn:
-                pass
-
-        ################
-        # Parse Markdown
-        if command == "parsemd":
-            argi += 1
-
-            target = "."
-            if (argi) <= len(sys.argv):
-                target = sys.argv[argi]
-                argi += 1
-            
-            if os.path.isfile(target):
-                spell = Spell.parseMDSpell(target)
-                spells.append(spell)
-            elif os.path.isdir(target):
-                files = os.listdir(target)
-                for f in files:
-                    spell = Spell.parseMDSpell(target + "/" + f)
-                    spells.append(spell)
-
-        ################
-        # Parse XML
-        elif command == "parsexml":
-            print("XML not yet support as an input format")
-            argi += 1
-            return
-
-        ################
         # Write Markdown
-        elif command == "writemd":
+        if command == "writemd":
             argi += 1
 
             target = "."
