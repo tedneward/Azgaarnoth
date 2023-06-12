@@ -1,7 +1,7 @@
 # Gravity Ward
 *2nd-level transmutation*
 
-**Casting Time**: 1 minute (ritual)
+**Casting Time**: 1 minute
 
 **Range**: 30 feet
 

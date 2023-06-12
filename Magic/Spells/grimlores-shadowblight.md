@@ -1,5 +1,5 @@
 # Grimlore's Shadowblight
-*1st-level necromancy* (Pale Master, Sorcerer, Warlock, Wizard)
+*1st-level necromancy* (Pale Master, Shaman, Sorcerer, Warlock, Wizard)
 
 **Casting Time:** 1 action
 

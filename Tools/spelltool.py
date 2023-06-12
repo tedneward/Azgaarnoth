@@ -11,6 +11,7 @@ import sys
 classes = ["Artificer", "Bard", "Cleric", "Druid",
            "Paladin", "Pale Master","Ranger", "Shaman",
            "Sorcerer", "Warlock", "Wizard"]
+levels = ["cantrip", "1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th"]
 
 def extractClasses(subtitle):
     clazzes = []
@@ -283,7 +284,7 @@ class Spell:
 spells = []
 
 def main():
-    classOpts = ['all', 'none'] + classes
+    classOpts = ['all'] + classes
 
     parser = argparse.ArgumentParser(
                     prog='SpellTool',
@@ -299,7 +300,8 @@ def main():
     # Lists commands
     parser.add_argument('--listmd', choices=classOpts, help='Produce an MD spell list for the passed class')
     parser.add_argument('--listtext', choices=classOpts, help='Produce a plain-text spell list for the passed class')
-    parser.add_argument('--summarymd', help='Produce an MD spell summary for all spells')
+    parser.add_argument('--ritualsmd', choices=classOpts, help='Produce an MD ritual list for the passed class')
+#    parser.add_argument('--summarymd', help='Produce an MD spell summary for all spells')
     # Output commands
     parser.add_argument('--writemd', help='Directory to which to write MD files')
     parser.add_argument('--writesql', help='SQLite filename to write spells to')
@@ -373,26 +375,55 @@ def main():
     elif args.listmd != None:
         classTarget = str(args.listmd)
         found = findClassSpells(classTarget)
-        print("# " + classTarget + " Spells")
+        if classTarget == 'all':
+            print("# Master List of Spells")
+            print("For all spellcasting classes (" + ", ".join(classes) + ")")
+        else:
+            print("# " + classTarget + " Spells")
         print(" ")
 
-        for level in ["cantrip", "1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th"]:
+        for level in levels:
             print("## " + level + "-Level Spells")
             for spell in found:
                 if spell.level == level:
-                    print("* [" + str(spell.name) + "](" + spell.filename + ")")
+                    if classTarget == 'all':
+                        print("* [" + str(spell.name) + "](" + spell.filename + "): " + ", ".join(spell.classes))
+                    else:
+                        print("* [" + str(spell.name) + "](" + spell.filename + ")")
             print(" ")
-    
-    elif args.summarymd != None:
-        print("# Summary Spell List")
-        print("For all spellcasting classes (" + ", ".join(classes) + ")")
+
+    elif args.ritualsmd != None:
+        classTarget = str(args.ritualsmd)
+        found = findClassSpells(classTarget)
+        if classTarget == 'all':
+            print("# Master List of Rituals")
+            print("For all spellcasting classes (" + ", ".join(classes) + ")")
+        else:
+            print("# " + classTarget + " Rituals")
         print(" ")
-        for level in ["cantrip", "1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th"]:
-            print("## " + level + "-Level Spells")
-            for spell in spells:
-                if spell.level == level:
-                    print("* [" + str(spell.name) + "](" + spell.filename + "): " + ", ".join(spell.classes))
+
+        for level in levels:
+            print("## " + level + "-Level Rituals")
+            for spell in found:
+                if spell.level == level and spell.ritual == True:
+                    if classTarget == 'all':
+                        print("* [" + str(spell.name) + "](" + spell.filename + "): " + ", ".join(spell.classes))
+                    else:
+                        print("* [" + str(spell.name) + "](" + spell.filename + ")")
             print(" ")
+
+# This is only useful if I'm worried that spells are being lost in the
+# from the lists somehow.
+#    elif args.summarymd != None:
+#        print("# Summary Spell List")
+#        print("For all spellcasting classes (" + ", ".join(classes) + ")")
+#        print(" ")
+#        for level in levels:
+#            print("## " + level + "-Level Spells")
+#            for spell in spells:
+#                if spell.level == level:
+#                    print("* [" + str(spell.name) + "](" + spell.filename + "): " + ", ".join(spell.classes))
+#            print(" ")
 
     elif args.writemd != None:
         prefix = args.writemd

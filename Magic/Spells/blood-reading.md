@@ -1,5 +1,5 @@
 # Blood Reading
-*1st-level divination* (Cleric, Sorcerer, Warlock, Wizard)
+*1st-level divination* (Cleric, Shaman, Sorcerer, Warlock, Wizard)
 
 **Casting Time:** 10 minutes
 
@@ -10,6 +10,7 @@
 **Duration:** Instantaneous
 
 You weave dark magic to pull information out of at least one ounce of blood (or around 30 grams) which the spell consumes as a material component. This blood must have come from a creature that is alive or has been dead for less than 1 hour, and the spell fails without enough blood to use. Choose two of the following options below each time you cast the spell to determine what information about the creature you learn from its blood:
+
 * You learn the creature's type and its maximum hit points. You also learn all its resistances, vulnerabilities, and immunities.
 * You learn the direction to the creature, and you learn if it is within 1 mile, within 100 miles, or beyond that (which also includes other planes of existence).
 * You learn the identity of any poisons, diseases, curses, and blessings that are affecting the creature. Successful knowledge checks may also grant you insight into the nature and function of these conditions.
