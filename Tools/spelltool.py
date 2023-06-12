@@ -120,16 +120,19 @@ class Spell:
             spell.description = lines[8:]
 
         elif lines[0].startswith('#'):
+            # This form is one I originally used, and it's more bare-boned
+            # but somewhat easier to translate from cut/pasted PDF sources.
+            # A future form might remove the blank lines but let's see.
             spell.name = lines[0][2:].replace('\n', '')
 
             subtitle = lines[1].replace('*', '') # *1st-level necromancy (ritual)* (classes)
             subtitle = lines[1].replace('*', '')
 
             # Does subtitle have "ritual" in it?
-            if subtitle.find("(ritual)") > 0:
+            if subtitle.find("ritual") > 0:
                 spell.ritual = True
-                subtitle.replace('(ritual)', '')
-                subtitle.replace('ritual', '')
+                subtitle = subtitle.replace('(ritual)', '')
+                subtitle = subtitle.replace('ritual', '')
 
             spell.classes = extractClasses(subtitle)
             if spell.classes == []:
