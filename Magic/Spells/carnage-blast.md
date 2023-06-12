@@ -1,5 +1,5 @@
 # Carnage Blast
-*2nd-level (Blood) necromancy* (Sorcerer, Warlock, Wizard)
+*2nd-level necromancy* (Sorcerer, Warlock, Wizard)
 
 **Casting Time:** 1 action
 

@@ -1,5 +1,5 @@
 # Gore Spike
-*(Blood) Necromancy cantrip* (Sorcerer; Warlock, Wizard)
+*Necromancy cantrip* (Sorcerer; Warlock, Wizard)
 
 **Casting Time:** 1 action
 

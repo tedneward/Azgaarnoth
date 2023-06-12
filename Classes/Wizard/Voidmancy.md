@@ -34,3 +34,5 @@ Beginning at 14th level, aware of your infinitesimally inconsequential nature ag
 ## 5th-level
 * [echoes of the void](/Magic/Spells/echoes-of-the-void.md)
 
+## 9th-level
+* [ravenous void](/Magic/Spells/ravenous-void.md)

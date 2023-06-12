@@ -1,5 +1,5 @@
 # Detect Curses
-*4th-level divination (ritual)*
+*4th-level divination* (ritual)
 
 **Casting time**: 1 action
 

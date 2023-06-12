@@ -1,5 +1,5 @@
 # Infuse Blood
-*2nd-level (Blood) abjuration* (Artificer, Cleric, Paladin, Sorcerer, Wizard)
+*2nd-level abjuration* (Artificer, Cleric, Paladin, Sorcerer, Wizard)
 
 **Casting Time:** 1 action
 

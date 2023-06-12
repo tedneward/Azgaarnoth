@@ -1,5 +1,5 @@
 # Hemorrhage
-*4th-level (Blood) necromancy* (Cleric, Sorcerer, Warlock, Wizard)
+*4th-level necromancy* (Cleric, Sorcerer, Warlock, Wizard)
 
 **Casting Time:** 1 action
 

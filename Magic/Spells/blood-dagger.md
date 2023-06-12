@@ -1,10 +1,13 @@
 # Blood Dagger
 *conjuration cantrip* (Sorcerer, Warlock)
 
-Casting Time: 1 bonus action
-Range: Self
-Components: V, S
-Duration: Up to 1 minute
+**Casting Time:** 1 bonus action
+
+**Range:** Self
+
+**Components:** V, S
+
+**Duration:** Up to 1 minute
 
 As a bonus action on your turn, you are able to create a weapon from the very life-force that sustains you. Casting this spell causes you to immediately take 1d6 psychic damage, as a small blade that resembles a dagger made of flowing blood appears clutched in your hand.
 

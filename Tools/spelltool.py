@@ -58,6 +58,9 @@ class Spell:
         lines = file.readlines()
 
         if lines[0].startswith('####'):
+            # The #### form is something I downloaded from the Web, but prefer it
+            # as a display format. THis is likely to be the format most often
+            # encountered when parsing spells from this repository.
             spell.name = lines[0][5:].strip()
 
             subtitle = lines[1].replace('*', '')
@@ -65,8 +68,8 @@ class Spell:
             # Does subtitle have "ritual" in it?
             if subtitle.find("(ritual)") > 0:
                 spell.ritual = True
-                subtitle.replace('(ritual)', '')
-                subtitle.replace('ritual', '')
+                subtitle = subtitle.replace('(ritual)', '')
+                subtitle = subtitle.replace('ritual', '')
 
             spell.classes = extractClasses(subtitle)
             if spell.classes == []:
@@ -296,7 +299,7 @@ def main():
     parser.add_argument('--parsesql', help='SQLite file to use as input database')
     parser.add_argument('--parsexml', help='File or directory for parsing XML file(s)')
     # Verification commands
-    parser.add_argument('--lint', choices=['classes', 'all'], help='Examine parsed spells for oddness')
+    parser.add_argument('--lint', choices=['classes', 'general', 'name', 'type', 'all'], help='Examine parsed spells for oddness')
     # Lists commands
     parser.add_argument('--listmd', choices=classOpts, help='Produce an MD spell list for the passed class')
     parser.add_argument('--listtext', choices=classOpts, help='Produce a plain-text spell list for the passed class')
@@ -360,6 +363,15 @@ def main():
                 loweredType = spell.type.lower()
                 if loweredType not in ['abjuration', 'conjuration', 'divination', 'evocation', 'enchantment', 'illusion', 'necromancy', 'transmutation']:
                     print(spell.name + ': Unrecognized spell type: ' + loweredType)
+            if args.lint == 'general' or args.lint == 'all':
+                if spell.casting_time == "":
+                    print(spell.name + ": No parsed casting time")
+                if spell.range == "":
+                    print(spell.name + ": No parsed range")
+                if spell.components == "":
+                    print(spell.name + ": No parsed components")
+                if spell.duration == "":
+                    print(spell.name + ": No parsed duration")
 
     def snakecasefilename(name):
         return name.replace(' ', '-').replace('\'', '').replace('/', '-').lower()

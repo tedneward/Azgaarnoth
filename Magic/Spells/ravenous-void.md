@@ -1,5 +1,5 @@
 #### Ravenous Void
-*9th-level evocation*
+*9th-level evocation* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 1000 feet
