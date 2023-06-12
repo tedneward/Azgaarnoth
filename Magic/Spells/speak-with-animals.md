@@ -1,5 +1,5 @@
 #### Speak with Animals
-*1st-level divination (ritual)*
+*1st-level divination (ritual)*  (Bard, Druid, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

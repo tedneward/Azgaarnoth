@@ -1,5 +1,5 @@
 #### Tenser's Floating Disk
-*1st-level conjuration (ritual)*
+*1st-level conjuration (ritual)*  (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

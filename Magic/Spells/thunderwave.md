@@ -1,5 +1,5 @@
 #### Thunderwave
-*1st-level evocation*
+*1st-level evocation* (Bard, Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (15-foot cube)

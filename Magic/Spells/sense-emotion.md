@@ -1,5 +1,5 @@
 # Sense Emotion
-*1st-level divination*
+*1st-level divination* (Bard, Warlock, Wizard)
 
 **Casting Time**: 1 action
 

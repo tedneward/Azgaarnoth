@@ -1,5 +1,5 @@
 #### Expeditious Retreat
-*1st-level transmutation*
+*1st-level transmutation* (Artificer, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

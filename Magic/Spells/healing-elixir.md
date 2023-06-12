@@ -1,5 +1,5 @@
 # Healing Elixir
-*1st-level conjuration*
+*1st-level conjuration* (Warlock, Wizard)
 
 **Casting Time**: 1 minute
 

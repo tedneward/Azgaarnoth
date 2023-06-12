@@ -1,5 +1,5 @@
 #### Ray of Sickness
-*1st-level necromancy*
+*1st-level necromancy* (Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

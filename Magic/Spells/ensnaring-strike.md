@@ -1,5 +1,5 @@
 #### Ensnaring Strike
-*1st-level conjuration*
+*1st-level conjuration* (Ranger)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

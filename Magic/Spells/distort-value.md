@@ -1,5 +1,5 @@
 #### Distort Value
-*1st-level illusion*
+*1st-level illusion* (Bard, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Touch

@@ -1,5 +1,5 @@
 # Sudden Awakening
-*enchantment cantrip*
+*enchantment cantrip*  (Bard, Ranger, Sorcerer, Wizard)
 
 **Casting Time**: 1 bonus action
 

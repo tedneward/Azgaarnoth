@@ -1,5 +1,5 @@
 #### Magic Missile
-*1st-level evocation*
+*1st-level evocation* (Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

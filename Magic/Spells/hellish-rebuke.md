@@ -1,5 +1,5 @@
 #### Hellish Rebuke
-*1st-level evocation*
+*1st-level evocation* (Warlock)
 ___
 - **Casting Time:** 1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see
 - **Range:** 60 feet

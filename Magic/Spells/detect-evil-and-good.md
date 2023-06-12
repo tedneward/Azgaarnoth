@@ -1,5 +1,5 @@
 #### Detect Evil and Good
-*1st-level divination*
+*1st-level divination* (Cleric, Paladin)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

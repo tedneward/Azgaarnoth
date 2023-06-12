@@ -1,5 +1,5 @@
 #### Unseen Servant
-*1st-level conjuration (ritual)*
+*1st-level conjuration (ritual)* (Bard, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

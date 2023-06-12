@@ -1,5 +1,5 @@
 #### Wrathful Smite
-*1st-level evocation*
+*1st-level evocation* (Paladin)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

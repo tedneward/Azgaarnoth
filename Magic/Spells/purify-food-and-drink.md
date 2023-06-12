@@ -1,5 +1,5 @@
 #### Purify Food and Drink
-*1st-level transmutation (ritual)*
+*1st-level transmutation (ritual)* (Artificer, Cleric, Druid, Paladin)
 ___
 - **Casting Time:** 1 action
 - **Range:** 10 feet

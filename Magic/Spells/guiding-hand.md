@@ -1,5 +1,5 @@
 # Guiding Hand
-*1st-level divination* (ritual)
+*1st-level divination* (ritual) (Bard, Cleric, Druid, Wizard)
 
 **Casting Time**: 1 minute
 

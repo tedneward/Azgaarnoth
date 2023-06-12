@@ -1,5 +1,5 @@
 #### Feather Fall
-*1st-level transmutation*
+*1st-level transmutation* (Artificer, Bard, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 reaction, which you take when you or a creature within 60 feet of you falls
 - **Range:** 60 feet

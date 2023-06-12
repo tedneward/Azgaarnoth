@@ -1,5 +1,5 @@
 #### Hunter's Mark
-*1st-level divination*
+*1st-level divination* (Ranger)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 90 feet

@@ -1,5 +1,5 @@
 #### Guiding Bolt
-*1st-level evocation*
+*1st-level evocation* (Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

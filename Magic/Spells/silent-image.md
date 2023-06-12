@@ -1,5 +1,5 @@
 #### Silent Image
-*1st-level illusion*
+*1st-level illusion* (Bard, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

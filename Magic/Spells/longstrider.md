@@ -1,5 +1,5 @@
 #### Longstrider
-*1st-level transmutation*
+*1st-level transmutation* (Artificer, Bard, Druid, Ranger, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch
