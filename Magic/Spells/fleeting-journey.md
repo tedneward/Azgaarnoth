@@ -1,5 +1,5 @@
 # Fleeting Journey
-*5th-level conjuration*
+*5th-level conjuration* (Wizard)
 
 **Casting Time**: 1 action
 

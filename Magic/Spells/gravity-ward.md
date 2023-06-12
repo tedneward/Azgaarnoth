@@ -1,5 +1,5 @@
 # Gravity Ward
-*2nd-level transmutation*
+*2nd-level transmutation (ritual)* (Wizard)
 
 **Casting Time**: 1 minute
 

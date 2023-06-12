@@ -1,5 +1,5 @@
 # Singularity
-*9th-level transmutation*
+*9th-level transmutation* (Wizard)
 
 **Casting Time**: 1 action
 

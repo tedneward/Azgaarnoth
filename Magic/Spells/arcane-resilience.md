@@ -1,5 +1,5 @@
 # Arcane Resilience
-*4th-level abjuration*
+*4th-level abjuration* (Wizard)
 
 **Casting Time**: 1 reaction, which you take when you suffer a critical hit
 

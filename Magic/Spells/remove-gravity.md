@@ -1,5 +1,5 @@
 # Remove Gravity
-*3rd-level transmutation*
+*3rd-level transmutation* (Wizard)
 
 **Casting Time**: 1 action
 

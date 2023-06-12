@@ -1,5 +1,5 @@
 # Lesser Charm of Second Chance
-*2nd-level divination*
+*2nd-level divination* (Wizard)
 
 **Casting Time**: 1 reaction, which you take when you make a saving throw, ability check, or attack roll
 

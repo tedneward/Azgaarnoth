@@ -1,5 +1,5 @@
 # Melf's Most Mintue Meteor
-*evocation cantrip*
+*evocation cantrip* (Wizard)
 
 **Casting Time**: 1 action
 

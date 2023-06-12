@@ -1,5 +1,5 @@
 # Pulsar Shield
-*5th-level evocation*
+*5th-level evocation* (Wizard)
 
 **Casting Time**: 1 reaction, which you take when you are targeted by an attack or spell effect.
 

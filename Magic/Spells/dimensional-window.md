@@ -1,5 +1,5 @@
 # Dimensional Window
-*1st-level conjuration*
+*1st-level conjuration* (Wizard)
 
 **Casting Time**: 1 action
 

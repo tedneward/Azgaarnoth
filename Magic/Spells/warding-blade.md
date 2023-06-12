@@ -1,5 +1,5 @@
 # Warding Blade
-*1st-level abjuration*
+*1st-level abjuration* (Wizard)
 
 **Casting Time**: 1 bonus action
 

@@ -1,5 +1,5 @@
 # Dimensional Reach
-*2nd-level conjuration*
+*2nd-level conjuration* (Wizard)
 
 **Casting Time**: 1 action
 

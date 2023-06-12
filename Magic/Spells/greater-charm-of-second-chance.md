@@ -1,5 +1,5 @@
 # Greater Charm of Second Chance
-*4th-level divination*
+*4th-level divination* (Wizard)
 
 **Casting Time**: 1 reaction, which you take when you make a saving throw, ability check, or attack roll
 

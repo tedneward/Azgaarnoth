@@ -1,5 +1,5 @@
 # Ablative Body Ward
-*3rd-level abjuration*
+*3rd-level abjuration* (Wizard)
 
 **Casting Time**: 1 bonus action
 

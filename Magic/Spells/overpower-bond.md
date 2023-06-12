@@ -1,5 +1,5 @@
 # Overpower Bond
-*2nd-level transmutation*
+*2nd-level transmutation* (Wizard)
 
 **Casting Time**: 1 action
 
