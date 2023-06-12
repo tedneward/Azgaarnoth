@@ -1,5 +1,5 @@
 # Bolster
-*Transmutation cantrip* (All Cantrip Classes)
+*Transmutation cantrip* (Artificer, Bard, Cleric, Druid, Mystic, Paladin, Pale Master, Ranger, Shaman, Sorcerer, Warlock, Wizard)
 
 **Casting Time:** 1 action
 

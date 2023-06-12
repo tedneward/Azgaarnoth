@@ -1,5 +1,5 @@
 # Sun Flower
-*5th Level conjuration* (Druid, Sorcerer, Wizard)
+*5th-level conjuration* (Druid, Sorcerer, Wizard)
 
 **Casting Time:** 1 action
 

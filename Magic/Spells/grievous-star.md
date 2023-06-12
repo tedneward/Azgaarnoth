@@ -1,5 +1,5 @@
 # Grievous Star
-*9th Level evocation* (Wizard only)
+*9th-level evocation* (Wizard)
 
 **Casting Time:** 1 action
 

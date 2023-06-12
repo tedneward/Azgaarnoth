@@ -67,7 +67,7 @@ class Spell:
 
             spell.classes = extractClasses(subtitle)
             if spell.classes == []:
-                print("WARNING: No classes found in parse: " + spell.filename)
+                pass # print("WARNING: No classes found in parse: " + spell.filename)
             else:
                 classStartIdx = subtitle.find('(')
                 subtitle = subtitle[0:classStartIdx]
@@ -100,8 +100,10 @@ class Spell:
                 spell.level = "9th"
                 spell.type = subtitle[10:].strip()
             else:
-                spell.level = "Cantrip"
+                spell.level = "cantrip"
                 # need to get spell type
+                typeEndIdx = subtitle.find("antrip") - 1
+                spell.type = subtitle[0:typeEndIdx].strip()
 
             # lines[2] is ___
             spell.casting_time = lines[3][20:].strip() # - **Casting Time:** 1 action
@@ -125,7 +127,7 @@ class Spell:
 
             spell.classes = extractClasses(subtitle)
             if spell.classes == []:
-                print("WARNING: No classes found in parse: " + spell.filename)
+                pass # print("WARNING: No classes found in parse: " + spell.filename)
             else:
                 classStartIdx = subtitle.find('(')
                 subtitle = subtitle[0:classStartIdx]
@@ -275,9 +277,12 @@ def main():
     parser.add_argument('--parsemd', help='File or directory for parsing MD file(s)')
     parser.add_argument('--parsesql', help='SQLite file to use as input database')
     parser.add_argument('--parsexml', help='File or directory for parsing XML file(s)')
+    # Verification commands
+    parser.add_argument('--lint', choices=['classes', 'all'], help='Examine parsed spells for oddness')
     # Lists commands
     parser.add_argument('--listmd', choices=classOpts, help='Produce an MD spell list for the passed class')
     parser.add_argument('--listtext', choices=classOpts, help='Produce a plain-text spell list for the passed class')
+    parser.add_argument('--summarymd', help='Produce an MD spell summary for all spells')
     # Output commands
     parser.add_argument('--writemd', help='Directory to which to write MD files')
     parser.add_argument('--writesql', help='SQLite filename to write spells to')
@@ -318,6 +323,22 @@ def main():
                 found.append(spell)
         return found
 
+    if args.lint != None:
+        for spell in spells:
+            if args.lint == 'classes' or args.lint == 'all':
+                if spell.classes == []:
+                    print(spell.name + ": No classes found")
+                for c in spell.classes:
+                    if c not in classes:
+                        print(spell.name + ": Unrecognized class in class list: " + c)
+            if args.lint == 'name' or args.lint == 'all':
+                if spell.name == "" or len(spell.name) < 1:
+                    print(spell.filename + " failed to pase spell name")
+            if args.lint == 'type' or args.lint == 'all':
+                loweredType = spell.type.lower()
+                if loweredType not in ['abjuration', 'conjuration', 'divination', 'evocation', 'enchantment', 'illusion', 'necromancy', 'transmutation']:
+                    print(spell.name + ': Unrecognized spell type: ' + loweredType)
+
     def snakecasefilename(name):
         return name.replace(' ', '-').replace('\'', '').replace('/', '-').lower()
 
@@ -340,6 +361,14 @@ def main():
             for spell in found:
                 if spell.level == level:
                     print("* [" + str(spell.name) + "](" + spell.filename + ")")
+            print(" ")
+    
+    elif args.summarymd != None:
+        for level in ["cantrip", "1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th"]:
+            print("## " + level + "-Level Spells")
+            for spell in spells:
+                if spell.level == level:
+                    print("* [" + str(spell.name) + "](" + spell.filename + "): " + ",".join(spell.classes))
             print(" ")
 
     elif args.writemd != None:

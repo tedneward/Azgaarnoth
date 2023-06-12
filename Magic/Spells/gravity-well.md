@@ -1,5 +1,5 @@
 # Gravity Well
-*9th Level transmutation* (Wizard only)
+*9th-level transmutation* (Wizard)
 
 **Casting Time:** 1 action
 

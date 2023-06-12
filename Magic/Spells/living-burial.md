@@ -1,5 +1,5 @@
 # Living Burial
-*7th Level transmutation spell* (Druid, Sorcerer, Warlock, Wizard)
+*7th-level transmutation* (Druid, Sorcerer, Warlock, Wizard)
 
 **Casting Time:** 1 action
 

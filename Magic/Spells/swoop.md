@@ -1,5 +1,5 @@
 # Swoop
-*1st Level transmutation* spell (Artificer, Druid, Ranger, Sorcerer, Wizard)
+*1st-Level transmutation* (Artificer, Druid, Ranger, Sorcerer, Wizard)
 
 **Casting Time:** 1 reaction, which you take immediately after your turn begins
 

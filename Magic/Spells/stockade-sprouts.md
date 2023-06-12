@@ -1,5 +1,5 @@
 # Stockade Sprouts
-*4th Level conjuration* (Druid, Ranger, Sorcerer, Wizard)
+*4th-level conjuration* (Druid, Ranger, Sorcerer, Wizard)
 
 **Casting Time:** 1 action
 

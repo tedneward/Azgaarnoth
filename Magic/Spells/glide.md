@@ -1,5 +1,5 @@
 # Glide
-*1st Level transmutation spell* (Artificer, Druid, Ranger, Sorcerer, Wizard)
+*1st-level transmutation* (Artificer, Druid, Ranger, Sorcerer, Wizard)
 
 **Casting Time:** 1 reaction, which you take when you fall
 

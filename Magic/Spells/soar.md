@@ -1,5 +1,5 @@
 # Soar
-*5th Level transmutation* spell (Artificer, Ranger, Sorcerer, Warlock, Wizard)
+*5th-level transmutation* (Artificer, Ranger, Sorcerer, Warlock, Wizard)
 
 **Casting Time:** 1 action
 

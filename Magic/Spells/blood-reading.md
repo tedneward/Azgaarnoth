@@ -1,5 +1,5 @@
 # Blood Reading
-*1st-level (Blood) divination* (Cleric, Sorcerer, Warlock, Wizard)
+*1st-level divination* (Cleric, Sorcerer, Warlock, Wizard)
 
 **Casting Time:** 10 minutes
 
