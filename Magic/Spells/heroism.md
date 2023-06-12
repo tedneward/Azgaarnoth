@@ -1,5 +1,5 @@
 #### Heroism
-*1st-level enchantment* (Bard, Paladin)
+*1st-level enchantment* (Bard, Paladin, Shaman)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

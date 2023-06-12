@@ -1,5 +1,5 @@
 #### Gaseous Form
-*3rd-level transmutation* (Sorcerer, Warlock, Wizard)
+*3rd-level transmutation* (Shaman, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

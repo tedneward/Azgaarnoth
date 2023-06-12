@@ -1,5 +1,5 @@
 #### Cure Wounds
-*1st-level evocation* (Artificer, Bard, Cleric, Druid, Paladin, Ranger)
+*1st-level evocation* (Artificer, Bard, Cleric, Druid, Paladin, Ranger, Shaman)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

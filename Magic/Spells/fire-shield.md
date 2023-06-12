@@ -1,5 +1,5 @@
 #### Fire Shield
-*4th-level evocation* (Druid, Sorcerer, Wizard)
+*4th-level evocation* (Druid, Shaman, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

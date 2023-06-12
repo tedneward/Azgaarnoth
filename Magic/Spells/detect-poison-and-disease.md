@@ -1,5 +1,5 @@
 #### Detect Poison and Disease
-*1st-level divination (ritual)* (Cleric, Druid, Paladin, Ranger)
+*1st-level divination (ritual)* (Cleric, Druid, Paladin, Ranger, Shaman)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

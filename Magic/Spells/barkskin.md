@@ -1,5 +1,5 @@
 #### Barkskin
-*2nd-level transmutation* (Druid, Ranger)
+*2nd-level transmutation* (Druid, Ranger, Shaman)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

@@ -1,5 +1,5 @@
 #### Plant Growth
-*3rd-level transmutation* (Bard, Druid, Ranger)
+*3rd-level transmutation* (Bard, Druid, Ranger, Shaman)
 ___
 - **Casting Time:** 1 action or 8 hours
 - **Range:** 150 feet

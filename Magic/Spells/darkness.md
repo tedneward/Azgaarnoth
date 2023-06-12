@@ -1,5 +1,5 @@
 #### Darkness
-*2nd-level evocation* (Sorcerer, Warlock, Wizard)
+*2nd-level evocation* (Shaman, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

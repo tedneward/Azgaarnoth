@@ -1,5 +1,5 @@
 #### Elemental Weapon
-*3rd-level transmutation* (Artificer, Druid, Paladin, Ranger)
+*3rd-level transmutation* (Artificer, Druid, Paladin, Ranger, Shaman)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

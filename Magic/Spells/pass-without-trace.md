@@ -1,5 +1,5 @@
 #### Pass without Trace
-*2nd-level abjuration* (Druid, Ranger)
+*2nd-level abjuration* (Druid, Ranger, Shaman)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

@@ -1,5 +1,5 @@
 #### Dissonant Whispers
-*1st-level enchantment* (Bard)
+*1st-level enchantment* (Bard, Shaman)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

@@ -1,5 +1,5 @@
 #### Druidcraft
-*Transmutation cantrip* (Druid)
+*Transmutation cantrip* (Druid, Shaman)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

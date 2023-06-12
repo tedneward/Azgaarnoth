@@ -1,5 +1,5 @@
 #### Fog Cloud
-*1st-level conjuration* (Druid, Ranger, Sorcerer, Wizard)
+*1st-level conjuration* (Druid, Ranger, Shaman, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

@@ -1,5 +1,5 @@
 #### Faerie Fire
-*1st-level evocation* (Artificer, Bard, Druid)
+*1st-level evocation* (Artificer, Bard, Druid, Shaman)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

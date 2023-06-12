@@ -1,5 +1,5 @@
 #### Protection from Evil and Good
-*1st-level abjuration* (Cleric, Druid, Paladin, Warlock, Wizard)
+*1st-level abjuration* (Cleric, Druid, Paladin, Shaman, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

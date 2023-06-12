@@ -1,5 +1,5 @@
 #### Warding Bond
-*2nd-level abjuration* (Cleric, Paladin)
+*2nd-level abjuration* (Cleric, Paladin, Shaman)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

@@ -1,5 +1,5 @@
 #### Enhance Ability
-*2nd-level transmutation* (Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard)
+*2nd-level transmutation* (Artificer, Bard, Cleric, Druid, Ranger, Shaman, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

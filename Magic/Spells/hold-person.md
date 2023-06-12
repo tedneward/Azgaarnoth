@@ -1,5 +1,5 @@
 #### Hold Person
-*2nd-level enchantment* (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)
+*2nd-level enchantment* (Bard, Cleric, Druid, Shaman, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

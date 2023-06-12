@@ -1,5 +1,5 @@
 #### Stoneskin
-*4th-level abjuration* (Artificer, Druid, Ranger, Sorcerer, Wizard)
+*4th-level abjuration* (Artificer, Druid, Ranger, Shaman, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

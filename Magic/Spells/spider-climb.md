@@ -1,5 +1,5 @@
 #### Spider Climb
-*2nd-level transmutation* (Artificer, Sorcerer, Warlock, Wizard)
+*2nd-level transmutation* (Artificer, Shaman, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

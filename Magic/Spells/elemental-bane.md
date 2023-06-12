@@ -1,5 +1,5 @@
 #### Elemental Bane
-*4th-level transmutation* (Artificer, Druid, Warlock, Wizard)
+*4th-level transmutation* (Artificer, Druid, Shaman, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 90 feet

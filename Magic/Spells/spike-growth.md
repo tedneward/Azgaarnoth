@@ -1,5 +1,5 @@
 #### Spike Growth
-*2nd-level transmutation* (Druid, Ranger)
+*2nd-level transmutation* (Druid, Ranger, Shaman)
 ___
 - **Casting Time:** 1 action
 - **Range:** 150 feet

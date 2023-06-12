@@ -1,5 +1,5 @@
 #### Message
-*Transmutation cantrip* (Artificer, Bard, Sorcerer, Wizard)
+*Transmutation cantrip* (Artificer, Bard, Shaman, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

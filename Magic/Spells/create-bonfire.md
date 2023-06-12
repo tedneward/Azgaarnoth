@@ -1,5 +1,5 @@
 # Create Bonfire
-*conjuration cantrip* (Artificer, Druid, Sorcerer, Warlock, Wizard)
+*conjuration cantrip* (Artificer, Druid, Shaman, Sorcerer, Warlock, Wizard)
 
 **Casting Time:** 1 action
 

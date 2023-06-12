@@ -1,5 +1,5 @@
 #### Hex
-*1st-level enchantment* (Warlock)
+*1st-level enchantment* (Shaman, Warlock)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 90 feet

@@ -1,9 +1,9 @@
 # Mystic
-A minotaur clad in simple robes walks along a forest path. A gang of goblins emerges from the brush, arrows trained on him, their smiles wide at their good fortune of finding such easy prey for the legion’s slave pens. Their smiles turn to shrieks of terror as the traveler grows to huge size and leaps at them, his staff now a deadly cudgel.
+*A minotaur clad in simple robes walks along a forest path. A gang of goblins emerges from the brush, arrows trained on him, their smiles wide at their good fortune of finding such easy prey for the legion’s slave pens. Their smiles turn to shrieks of terror as the traveler grows to huge size and leaps at them, his staff now a deadly cudgel.*
 
-The militia forms in ranks to prepare for the orcs’ charge. The growling brutes howl their battle cries and surge forward. To their surprise, the goblin rabble holds its ground and fights with surprising ferocity. Suddenly, mindless fear clings to the orcs’ minds and they, despite facing a far inferior foe, turn and run, never noticing the calm half-orc standing amid the militia and directing its efforts.
+*The militia forms in ranks to prepare for the orcs’ charge. The growling brutes howl their battle cries and surge forward. To their surprise, the goblin rabble holds its ground and fights with surprising ferocity. Suddenly, mindless fear clings to the orcs’ minds and they, despite facing a far inferior foe, turn and run, never noticing the calm half-orc standing amid the militia and directing its efforts.*
 
-Baron von Ludwig was always proud of his grand library. Little did he know that each evening, a gnome laden with blank scrolls slipped past his guards each night and dutifully copied his most heavily guarded archives. When the duke’s men arrived to arrest him for dealing with demons, he never guessed that the gnome scribe traveling with them had spent more time in his keep than he had over the past year.
+*Baron von Ludwig was always proud of his grand library. Little did he know that each evening, a gnome laden with blank scrolls slipped past his guards each night and dutifully copied his most heavily guarded archives. When the duke’s men arrived to arrest him for dealing with demons, he never guessed that the gnome scribe traveling with them had spent more time in his keep than he had over the past year.*
 
 These are all mystics, followers of a strange and mysterious form of power. Mystics shun the world to turn their eyes inward, mastering the full potential of their minds and exploring their psyches before turning to face the world. Mystics are incredibly rare, and most prefer to keep the nature of their abilities secret. Using their inner, psychic strength, they can read minds, fade into invisibility, transform their bodies into living iron, and seize control of the physical world and bend it to their will.
 
@@ -173,6 +173,7 @@ You have one use of this feature, and you regain any expended use of it with a l
 
 ## Psionic Body
 At 20th level, your mastery of psionic power causes your mind to transcend the body. Your physical form is infused with psionic energy. You gain the following benefits:
+
 * You gain resistance to bludgeoning, piercing, and slashing damage.
 * You no longer age.
 * You are immune to disease, poison damage, and the poisoned condition.

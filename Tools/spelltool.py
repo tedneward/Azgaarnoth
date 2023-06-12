@@ -8,7 +8,7 @@ import sys
 # From there, Spell objects can be manipulated to create spell lists,
 # reformatted and reprinted, stored to XML.
 
-classes = ["Artificer", "Bard", "Cleric", "Druid", "Mystic",
+classes = ["Artificer", "Bard", "Cleric", "Druid",
            "Paladin", "Pale Master","Ranger", "Shaman",
            "Sorcerer", "Warlock", "Wizard"]
 

@@ -1,5 +1,5 @@
 # Absorb Elements
-*1st-level abjuration* (Artificer, Druid, Ranger, Sorcerer, Wizard)
+*1st-level abjuration* (Artificer, Druid, Ranger, Shaman, Sorcerer, Wizard)
 
 **Casting Time:** 1 reaction, which you take when you take acid, cold, fire, lightning, or thunder damage
 
