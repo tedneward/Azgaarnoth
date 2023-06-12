@@ -1,5 +1,5 @@
 #### Conjure Minor Elementals
-*4th-level conjuration*
+*4th-level conjuration* (Druid, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** 90 feet

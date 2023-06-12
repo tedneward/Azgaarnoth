@@ -1,5 +1,5 @@
 #### Dimension Door
-*4th-level conjuration*
+*4th-level conjuration* (Bard, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 500 feet

@@ -1,5 +1,5 @@
 #### Arcane Eye
-*4th-level divination*
+*4th-level divination* (Artificer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

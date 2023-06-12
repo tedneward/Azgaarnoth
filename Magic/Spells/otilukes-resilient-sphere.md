@@ -1,5 +1,5 @@
 #### Otiluke's Resilient Sphere
-*4th-level evocation*
+*4th-level evocation* (Artificer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

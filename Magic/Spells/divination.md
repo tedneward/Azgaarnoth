@@ -1,5 +1,5 @@
 #### Divination
-*4th-level divination (ritual)*
+*4th-level divination (ritual)* (Cleric, Druid, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

@@ -1,5 +1,5 @@
 #### Death Ward
-*4th-level abjuration*
+*4th-level abjuration* (Cleric, Paladin)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

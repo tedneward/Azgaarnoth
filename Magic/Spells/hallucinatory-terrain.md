@@ -1,5 +1,5 @@
 #### Hallucinatory Terrain
-*4th-level illusion*
+*4th-level illusion* (Bard, Druid, Warlock, Wizard)
 ___
 - **Casting Time:** 10 minutes
 - **Range:** 300 feet

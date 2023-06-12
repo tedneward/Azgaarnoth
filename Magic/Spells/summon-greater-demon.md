@@ -1,12 +1,12 @@
 #### Summon Greater Demon
-*4th-level conjuration*
+*4th-level conjuration* (Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Components:** V, S, M (a vial of blood from a humanoid killed within the past 24 hours)
 - **Duration:** Concentration, up to 1 hour
 ---
-You utter foul words, summoning one demon from the chaos of the Abyss. You choose the demon's type, which must be one of challenge rating 5 or lower, such as a **shadow demon** or a **barlgura**. The demon appears in an unoccupied space you can see within range, and the demon disappears when it drops to 0 hit points or when the spell ends.
+You utter foul words, summoning one demon from the chaos of the Abyss. You choose the demon's type, which must be one of challenge rating 5 or lower, such as a [shadow demon](/Creatures/Demon-Shadow.md) or a [barlgura](/Creatures/Demon-Barlgura.md). The demon appears in an unoccupied space you can see within range, and the demon disappears when it drops to 0 hit points or when the spell ends.
 
 Roll initiative for the demon, which has its own turns. When you summon it and on each of your turns thereafter, you can issue a verbal command to it (requiring no action on your part), telling it what it must do on its next turn. If you issue no command, it spends its turn attacking any creature within reach that has attacked it.
 

@@ -1,5 +1,5 @@
 #### Grasping Vine
-*4th-level conjuration*
+*4th-level conjuration* (Druid, Ranger)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 30 feet

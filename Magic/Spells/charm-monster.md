@@ -1,5 +1,5 @@
 # Charm Monster
-*4th-level enchantment*
+*4th-level enchantment* (Bard, Druid, Sorcerer, Warlock, Wizard)
 
 **Casting Time:** 1 action
 

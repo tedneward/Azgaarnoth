@@ -1,5 +1,5 @@
 #### Control Water
-*4th-level transmutation*
+*4th-level transmutation* (Cleric, Druid, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 300 feet

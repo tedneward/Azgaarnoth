@@ -1,5 +1,5 @@
 #### Greater Invisibility
-*4th-level illusion*
+*4th-level illusion* (Bard, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch
