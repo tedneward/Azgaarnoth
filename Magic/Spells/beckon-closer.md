@@ -1,5 +1,5 @@
 # Beckon Closer
-*6th-level conjuration*
+*6th-level conjuration* (Wizard)
 
 **Casting Time**: 1 action
 

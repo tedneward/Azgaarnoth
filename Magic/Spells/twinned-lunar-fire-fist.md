@@ -1,5 +1,5 @@
 # Twinned Lunar Fire Fist
-*5th-level evocation*
+*5th-level evocation* (Wizard)
 
 **Casting Time**: 1 action
 

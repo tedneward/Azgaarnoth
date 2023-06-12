@@ -1,5 +1,5 @@
 # Rust Field
-*6th-level transmutation*
+*6th-level transmutation* (Wizard)
 
 **Casting Time**: 1 action
 

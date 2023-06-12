@@ -1,5 +1,5 @@
 # Mind Hold
-*5th-level abjuration*
+*5th-level abjuration* (Wizard)
 
 **Casting Time**: 1 reaction, which you take when you are target with a melee attack
 

@@ -1,5 +1,5 @@
 # Maladweomer
-*3rd-level enchantment*
+*3rd-level enchantment* (Wizard)
 
 **Casting Time**: 1 action
 

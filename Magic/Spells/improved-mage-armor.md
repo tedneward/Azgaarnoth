@@ -1,5 +1,5 @@
 # Improved Mage Armor
-*3rd-level abjuration*
+*3rd-level abjuration* (Wizard)
 
 **Casting Time**: 1 action
 

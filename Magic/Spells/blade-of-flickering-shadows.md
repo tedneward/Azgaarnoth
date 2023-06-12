@@ -1,5 +1,5 @@
 # Blade of Flickering Shadows
-*4th-level necromancy*
+*4th-level necromancy* (Wizard)
 
 **Casting Time**: 1 bonus action
 

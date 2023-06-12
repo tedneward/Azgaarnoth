@@ -1,5 +1,5 @@
 # Duel Ward
-*5th-level abjuration*
+*5th-level abjuration* (Wizard)
 
 **Casting Time**: 1 bonus action
 

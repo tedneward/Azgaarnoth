@@ -1,5 +1,5 @@
 # X-ray Vision
-*3rd-level divination*
+*3rd-level divination* (Wizard)
 
 **Casting Time**: 1 action
 

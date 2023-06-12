@@ -1,5 +1,5 @@
 # Locate Favored Enemy
-*5th-level divination*
+*5th-level divination* (Wizard)
 
 **Casting Time**: 1 action
 

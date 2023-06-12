@@ -1,5 +1,5 @@
 # Peep-Hole
-*Divination cantrip*
+*Divination cantrip* (Wizard)
 
 **Casting Time**: 1 bonus action
 

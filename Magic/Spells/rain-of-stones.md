@@ -1,5 +1,5 @@
 # Rain of Stones
-*3rd-level evocation*
+*3rd-level evocation* (Wizard)
 
 **Casting Time**: 1 action
 

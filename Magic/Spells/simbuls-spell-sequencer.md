@@ -1,5 +1,5 @@
 # Simbul's Spell Sequencer
-*7th-level enchantment*
+*7th-level enchantment* (Wizard)
 
 **Casting Time**: 1 action
 

@@ -1,5 +1,5 @@
 # Dead Man's Tell
-*1st-level divination* (ritual)
+*1st-level divination* (ritual) (Pale Master, Wizard)
 
 **Casting Time**: 1 minute
 

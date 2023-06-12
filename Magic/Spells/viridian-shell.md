@@ -1,5 +1,5 @@
 # Viridian Shell
-*1st-level transmutation*
+*1st-level transmutation* (Wizard)
 
 **Casting Time**: 1 action
 

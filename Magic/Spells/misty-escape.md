@@ -1,5 +1,5 @@
 # Misty Escape
-*3rd-level conjuration*
+*3rd-level conjuration* (Wizard)
 
 **Casting Time**: 1 reaction, which you take when you are targeted by an attack
 

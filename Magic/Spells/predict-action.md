@@ -1,5 +1,5 @@
 # Predict Action
-*7th-level divination*
+*7th-level divination* (Wizard)
 
 **Casting Time**: 1 action
 

@@ -1,5 +1,5 @@
 # Temporal Visions
-*6th-level divination*
+*6th-level divination* (Wizard)
 
 **Casting Time**: 1 action
 

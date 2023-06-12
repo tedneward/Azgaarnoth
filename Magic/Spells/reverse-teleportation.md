@@ -1,5 +1,5 @@
 # Reverse Teleportation
-*8th-level conjuration*
+*8th-level conjuration* (Wizard)
 
 **Casting Time**: 10 minutes
 

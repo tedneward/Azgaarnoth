@@ -1,5 +1,5 @@
 # Detect Magical Object
-*4th-level divination*
+*4th-level divination* (Wizard)
 
 **Casting Time**: 1 action
 

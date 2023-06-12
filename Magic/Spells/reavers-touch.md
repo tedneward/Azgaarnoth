@@ -1,5 +1,5 @@
 # Reaver's Touch
-*Necromancy cantrip*
+*Necromancy cantrip* (Pale Master, Wizard)
 
 **Casting Time**: 1 action
 

@@ -1,5 +1,5 @@
 # Rain
-*2nd-level conjuration (ritual)*
+*2nd-level conjuration (ritual)* (Wizard)
 
 **Casting Time**: 10 minutes
 

@@ -1,5 +1,5 @@
 # Whimsybloom
-*Illusion cantrip*
+*Illusion cantrip* (Wizard)
 
 **Casting Time**: 1 action
 

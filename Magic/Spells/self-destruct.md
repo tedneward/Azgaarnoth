@@ -1,5 +1,5 @@
 # Self Destruct
-*2nd-level evocation*
+*2nd-level evocation* (Wizard)
 
 **Casting Time**: 1 action
 

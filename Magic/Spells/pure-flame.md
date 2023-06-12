@@ -1,5 +1,5 @@
 # Pure Flame
-*1st-level evocation*
+*1st-level evocation* (Wizard)
 
 **Casting Time**: 1 action
 

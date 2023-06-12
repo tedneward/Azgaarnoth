@@ -1,5 +1,5 @@
 # No More Lies
-*3rd-level enchantment*
+*3rd-level enchantment* (Wizard)
 
 **Casting Time**: 1 reaction, which you take when you make a Charisma (Intimidation) or Wisdom (Insight) check against a creature you can see within range
 

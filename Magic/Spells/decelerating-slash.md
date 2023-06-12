@@ -1,5 +1,5 @@
 # Decelerating Slash
-*4th-level transmutation*
+*4th-level transmutation* (Wizard)
 
 **Casting Time**: 1 action
 

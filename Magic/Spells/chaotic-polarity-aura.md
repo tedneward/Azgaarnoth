@@ -1,5 +1,5 @@
 # Chaotic Polarity Aura
-*2nd-level enchantment*
+*2nd-level enchantment* (Wizard)
 
 **Casting Time**: 1 action
 

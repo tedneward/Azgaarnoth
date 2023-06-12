@@ -1,5 +1,5 @@
 # Greater Telepathic Bond
-*8th-level divination*
+*8th-level divination* (Wizard)
 
 **Casting Time**: 1 action
 

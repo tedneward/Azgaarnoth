@@ -1,5 +1,5 @@
 # Jade Clone
-*4th-level illusion*
+*4th-level illusion* (Wizard)
 
 **Casting Time**: 1 action
 

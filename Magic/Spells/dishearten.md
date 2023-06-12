@@ -1,5 +1,5 @@
 # Dishearten
-*1st-level enchantment*
+*1st-level enchantment* (Shaman, Wizard)
 
 **Casting Time**: 1 action
 

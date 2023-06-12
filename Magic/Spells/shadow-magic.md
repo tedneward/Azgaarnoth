@@ -1,5 +1,5 @@
 # Shadow Magic
-*5th-level illusion*
+*5th-level illusion* (Wizard)
 
 **Casting Time**: 1 action
 
@@ -9,7 +9,8 @@
 
 **Duration**: Instantaneous
 
-You cast an illusory version of one of the following spells: [fireball](), [cone of cold](), or [lightning bolt](). Treat this as if the spell had been cast but with the following exceptions:
+You cast an illusory version of one of the following spells: [fireball](/Magic/Spells/fireball.md), [cone of cold](/Magic/Spells/cone-of-cold.md), or [lightning bolt](/Magic/Spells/lightning-bolt.md). Treat this as if the spell had been cast but with the following exceptions:
+
 * Targets make a Charisma saving throw instead of the normal saving throw for the imitated spell.
 * Instead of the normal damage for the imitated spell, a creatures that fails its Charisma saving throw take 4d6 necrotic damage and 4d6 psychic damage on a failed save, or half as much damage on a successful one.
 * A creature reduced to zero hit points by this spell is not killed, but is stable and unconscious at zero hit points. A creature that falls unconscious due to damage from this spell can make a Wisdom saving throw at the end of each of its turns. On a success, it regains hit points equal to the psychic damage this spell inflicted.

@@ -1,5 +1,5 @@
 # Aegis of Shielding
-*3rd-level abjuration*
+*3rd-level abjuration* (Wizard)
 
 **Casting Time**: 1 reaction, which you take when a creature within range succeeds on a melee attack roll that would hit one of your allies
 

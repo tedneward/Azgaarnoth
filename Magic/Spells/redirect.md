@@ -1,5 +1,5 @@
 # Redirect
-*5th-level transmutation*
+*5th-level transmutation* (Wizard)
 
 **Casting Time**: 1 reaction
 

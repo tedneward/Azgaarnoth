@@ -1,5 +1,5 @@
 # Voidwhisper
-*Evocation cantrip*
+*Evocation cantrip* (Wizard)
 
 **Casting Time**: 1 action
 

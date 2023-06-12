@@ -1,5 +1,5 @@
 # Emparadweomer
-*1st-level enchantment*
+*1st-level enchantment* (Wizard)
 
 **Casting Time**: 1 bonus action
 

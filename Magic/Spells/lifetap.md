@@ -1,5 +1,5 @@
 # Lifetap
-*2nd-level necromancy*
+*2nd-level necromancy* (Pale Master, Wizard)
 
 **Casting Time**: 1 action
 

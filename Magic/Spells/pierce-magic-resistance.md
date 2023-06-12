@@ -1,5 +1,5 @@
 # Pierce Magic Resistance
-*4th-level enchantment*
+*4th-level enchantment* (Wizard)
 
 **Casting Time**: 1 action
 

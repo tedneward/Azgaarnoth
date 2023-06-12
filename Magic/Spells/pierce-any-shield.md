@@ -1,5 +1,5 @@
 # Pierce Any Shield
-*9th-level enchantment*
+*9th-level enchantment* (Wizard)
 
 **Casting Time**: 1 action
 

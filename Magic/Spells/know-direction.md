@@ -1,5 +1,5 @@
 # Know Direction
-*Divination cantrip*
+*Divination cantrip* (Wizard)
 
 **Casting Time**: 1 action
 

@@ -1,5 +1,5 @@
 # Preserve Plant
-*evocation cantrip*
+*evocation cantrip* (Wizard)
 
 **Casting Time**: 1 action
 

@@ -1,5 +1,5 @@
 # Create Revenant
-*7th-level necromancy*
+*7th-level necromancy* (Pale Master, Wizard)
 
 **Casting Time**: 10 minutes
 
@@ -9,7 +9,7 @@
 
 **Duration**: Concentration, up to 24 hours
 
-You raise one corpse of a Medium or Small humanoid as a [revenant]() under your temporary influence. (The DM has game statistics for revenants).
+You raise one corpse of a Medium or Small humanoid as a [revenant](/Creatures/Revenant.md) under your temporary influence.
 
 Once raised, the revenant is friendly to you and your companions for the duration. It obeys any verbal commands that you issue to it (no action required by you). The revenant is under your control for 24 hours, after which time it stops obeying any command you have given it.
 

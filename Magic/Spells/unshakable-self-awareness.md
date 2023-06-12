@@ -1,5 +1,5 @@
 # Unshakable Self Awareness
-*5th-level enchantment*
+*5th-level enchantment* (Wizard)
 
 **Casting Time**: 1 action
 

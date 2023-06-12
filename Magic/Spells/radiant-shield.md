@@ -1,5 +1,5 @@
 # Radiant Shield
-*4th-level abjuration*
+*4th-level abjuration* (Wizard)
 
 **Casting Time**: 1 bonus action
 

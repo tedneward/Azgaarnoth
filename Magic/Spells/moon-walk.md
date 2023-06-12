@@ -1,5 +1,5 @@
 # Moon Walk
-*5th-level illusion*
+*5th-level illusion* (Wizard)
 
 **Casting Time**: 1 reaction, which you take when you are hit by an attack
 

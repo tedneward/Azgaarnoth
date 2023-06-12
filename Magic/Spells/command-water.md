@@ -1,5 +1,5 @@
 # Command Water
-*4th-level conjuration*
+*4th-level conjuration* (Wizard)
 
 **Casting Time**: 1 action
 

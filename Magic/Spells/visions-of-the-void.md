@@ -1,5 +1,5 @@
 # Visions of the Void
-*3rd-level illusion*
+*3rd-level illusion* (Wizard)
 
 **Casting Time**: 1 action
 

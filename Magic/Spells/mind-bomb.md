@@ -1,5 +1,5 @@
 # Mind Bomb
-*8th-level evocation*
+*8th-level evocation* (Wizard)
 
 **Casting Time**: 1 action
 

@@ -1,5 +1,5 @@
 # Conjure Plants
-*3rd-level conjuration*
+*3rd-level conjuration* (Wizard)
 
 **Casting Time**: 1 action
 

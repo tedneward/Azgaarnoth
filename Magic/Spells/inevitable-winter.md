@@ -1,5 +1,5 @@
 # Inevitable Winter
-*6th-level necromancy*
+*6th-level necromancy* (Wizard)
 
 **Casting Time**: 1 action
 

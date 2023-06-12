@@ -1,5 +1,5 @@
 # Symbiotic Confidence
-*2nd-level enchantment*
+*2nd-level enchantment* (Shaman, Wizard)
 
 **Casting Time**: 1 action
 

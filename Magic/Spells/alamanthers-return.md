@@ -1,5 +1,5 @@
 # Alamanther's Return
-*9th-level transmutation*
+*9th-level transmutation* (Wizard)
 
 **Casting Time**: 1 reaction, which you take when you are targeted by a spell of 8th-level or lower or included in such a spell’s area of effect
 

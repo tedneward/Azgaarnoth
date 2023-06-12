@@ -1,5 +1,5 @@
 # Fleet Foot
-*Transmutation cantrip*
+*Transmutation cantrip* (Wizard)
 
 **Casting Time**: 1 bonus action
 

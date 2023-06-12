@@ -1,5 +1,5 @@
 # Tidy
-*2nd-level conjuration* (ritual)
+*2nd-level conjuration* (ritual) (Wizard)
 
 **Casting Time**: 1 action
 

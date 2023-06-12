@@ -1,5 +1,5 @@
 # Pyroclastic Cataclysm
-*9th-level evocation*
+*9th-level evocation* (Wizard)
 
 **Casting Time**: 1 action
 

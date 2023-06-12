@@ -1,5 +1,5 @@
 # Greater Darkness
-*6th-level evocation*
+*6th-level evocation* (Wizard)
 
 **Casting Time**: 1 action
 

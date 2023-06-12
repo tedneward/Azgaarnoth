@@ -1,5 +1,5 @@
 # Voidsight
-*2nd-level divination*
+*2nd-level divination* (Wizard)
 
 **Casting Time**: 1 action
 
