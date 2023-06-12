@@ -1,5 +1,5 @@
 #### Contact Other Plane
-*5th-level divination* (ritual)
+*5th-level divination* (ritual) (Shaman, Warlock, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Self

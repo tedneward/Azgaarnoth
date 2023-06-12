@@ -1,5 +1,5 @@
 #### Antilife Shell
-*5th-level abjuration*
+*5th-level abjuration* (Druid)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (10-foot radius)

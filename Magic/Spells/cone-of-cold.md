@@ -1,5 +1,5 @@
 #### Cone of Cold
-*5th-level evocation*
+*5th-level evocation* (Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (60-foot cone)

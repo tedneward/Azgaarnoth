@@ -1,5 +1,5 @@
 #### Flame Strike
-*5th-level evocation*
+*5th-level evocation* (Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

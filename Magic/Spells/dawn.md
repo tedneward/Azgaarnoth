@@ -1,5 +1,5 @@
 #### Dawn
-*5th-level evocation*
+*5th-level evocation* (Cleric, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

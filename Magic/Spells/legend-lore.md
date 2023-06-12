@@ -1,5 +1,5 @@
 #### Legend Lore
-*5th-level divination*
+*5th-level divination* (Bard, Cleric, Wizard)
 ___
 - **Casting Time:** 10 minutes
 - **Range:** Self

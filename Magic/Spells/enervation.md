@@ -1,5 +1,5 @@
 #### Enervation
-*5th-level necromancy*
+*5th-level necromancy* (Bard, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

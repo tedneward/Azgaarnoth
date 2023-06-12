@@ -1,5 +1,5 @@
 #### Wrath of Nature
-*5th-level evocation*
+*5th-level evocation* (Druid, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

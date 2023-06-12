@@ -1,5 +1,5 @@
 #### Transmute Rock
-*5th-level transmutation*
+*5th-level transmutation* (Druid, Wizard, Artificer)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

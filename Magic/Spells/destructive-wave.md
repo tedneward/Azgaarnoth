@@ -1,5 +1,5 @@
 #### Destructive Wave
-*5th-level evocation*
+*5th-level evocation* (Paladin)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (30-foot radius)

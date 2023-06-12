@@ -1,5 +1,5 @@
 #### Wall of Stone
-*5th-level evocation*
+*5th-level evocation* (Artificer, Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

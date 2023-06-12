@@ -1,5 +1,5 @@
 #### Seeming
-*5th-level illusion*
+*5th-level illusion* (Bard, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

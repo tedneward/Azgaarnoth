@@ -1,5 +1,5 @@
 #### Negative Energy Flood
-*5th-level necromancy*
+*5th-level necromancy* (Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

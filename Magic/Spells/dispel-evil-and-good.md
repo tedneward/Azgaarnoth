@@ -1,5 +1,5 @@
 #### Dispel Evil and Good
-*5th-level abjuration*
+*5th-level abjuration* (Cleric, Paladin)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

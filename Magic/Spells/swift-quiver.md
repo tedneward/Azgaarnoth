@@ -1,5 +1,5 @@
 #### Swift Quiver
-*5th-level transmutation*
+*5th-level transmutation* (Ranger)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Touch

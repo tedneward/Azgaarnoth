@@ -1,5 +1,5 @@
 #### Rary's Telepathic Bond
-*5th-level divination (ritual)*
+*5th-level divination (ritual)* (Bard, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

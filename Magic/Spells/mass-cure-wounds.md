@@ -1,5 +1,5 @@
 #### Mass Cure Wounds
-*5th-level evocation*
+*5th-level evocation* (Bard, Cleric, Druid)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

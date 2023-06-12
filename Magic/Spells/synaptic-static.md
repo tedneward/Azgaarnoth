@@ -1,5 +1,5 @@
 #### Synaptic Static
-*5th-level enchantment*
+*5th-level enchantment* (Bard, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

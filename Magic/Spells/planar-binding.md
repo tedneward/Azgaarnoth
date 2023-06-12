@@ -1,5 +1,5 @@
 #### Planar Binding
-*5th-level abjuration*
+*5th-level abjuration* (Bard, Cleric, Druid, Warlock, Wizard)
 ___
 - **Casting Time:** 1 hour
 - **Range:** 60 feet

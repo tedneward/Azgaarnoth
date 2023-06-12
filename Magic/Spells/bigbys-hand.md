@@ -1,5 +1,5 @@
 #### Bigby's Hand
-*5th-level evocation*
+*5th-level evocation* (Artificer, Sorcerer (Optional), Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

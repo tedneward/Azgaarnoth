@@ -1,5 +1,5 @@
 #### Immolation
-*5th-level evocation*
+*5th-level evocation* (Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 90 feet

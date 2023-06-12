@@ -1,5 +1,5 @@
 #### Animate Objects
-*5th-level transmutation*
+*5th-level transmutation* (Artificer, Bard, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

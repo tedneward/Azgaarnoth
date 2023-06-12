@@ -1,5 +1,5 @@
 #### Geas
-*5th-level enchantment*
+*5th-level enchantment* (Bard, Cleric, Druid, Paladin, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** 60 feet

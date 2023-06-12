@@ -1,5 +1,5 @@
 #### Skill Empowerment
-*5th-level transmutation*
+*5th-level transmutation* (Artificer, Bard, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

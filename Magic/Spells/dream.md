@@ -1,5 +1,5 @@
 #### Dream
-*5th-level illusion*
+*5th-level illusion* (Bard, Warlock, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Special

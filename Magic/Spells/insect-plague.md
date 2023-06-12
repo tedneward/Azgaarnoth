@@ -1,5 +1,5 @@
 #### Insect Plague
-*5th-level conjuration*
+*5th-level conjuration* (Cleric, Druid, Sorcerer)
 ___
 - **Casting Time:** 1 action
 - **Range:** 300 feet

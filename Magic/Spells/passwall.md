@@ -1,5 +1,5 @@
 #### Passwall
-*5th-level transmutation*
+*5th-level transmutation* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

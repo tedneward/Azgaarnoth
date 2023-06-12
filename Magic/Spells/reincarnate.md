@@ -1,5 +1,5 @@
 #### Reincarnate
-*5th-level transmutation*
+*5th-level transmutation* (Druid)
 ___
 - **Casting Time:** 1 hour
 - **Range:** Touch

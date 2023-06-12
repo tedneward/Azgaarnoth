@@ -1,5 +1,5 @@
 #### Steel Wind Strike
-*5th-level conjuration*
+*5th-level conjuration* (Ranger, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

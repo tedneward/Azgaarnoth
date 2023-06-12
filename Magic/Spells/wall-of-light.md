@@ -1,5 +1,5 @@
 #### Wall of Light
-*5th-level evocation*
+*5th-level evocation* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

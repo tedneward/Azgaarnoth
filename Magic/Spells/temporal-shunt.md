@@ -1,5 +1,5 @@
 #### Temporal Shunt
-*5th-level transmutation*
+*5th-level transmutation* (Wizard)
 ___
 - **Casting Time:** 1 reaction, taken when a creature you can see makes an attack roll or starts to cast a spell
 - **Range:** 120 feet

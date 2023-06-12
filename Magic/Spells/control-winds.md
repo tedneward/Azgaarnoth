@@ -1,5 +1,5 @@
 # Control Winds
-*5th-level transmutation*
+*5th-level transmutation* (Druid, Sorcerer, Wizard)
 
 **Casting Time:** 1 action
 

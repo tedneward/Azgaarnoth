@@ -1,5 +1,5 @@
 #### Dominate Person
-*5th-level enchantment*
+*5th-level enchantment* (Bard, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

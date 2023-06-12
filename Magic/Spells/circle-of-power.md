@@ -1,5 +1,5 @@
 #### Circle of Power
-*5th-level abjuration*
+*5th-level abjuration* (Paladin)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (30-foot radius)

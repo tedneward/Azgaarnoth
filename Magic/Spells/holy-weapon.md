@@ -1,5 +1,5 @@
 #### Holy Weapon
-*5th-level evocation*
+*5th-level evocation* (Cleric, Paladin)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Touch

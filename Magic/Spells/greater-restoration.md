@@ -1,5 +1,5 @@
 #### Greater Restoration
-*5th-level abjuration*
+*5th-level abjuration* (Artificer, Bard, Cleric, Druid, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

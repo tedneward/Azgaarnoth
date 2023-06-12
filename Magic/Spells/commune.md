@@ -1,5 +1,5 @@
 #### Commune
-*5th-level divination (ritual)*
+*5th-level divination (ritual)* (Cleric)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Self

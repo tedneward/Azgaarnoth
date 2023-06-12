@@ -1,5 +1,5 @@
 #### Telekinesis
-*5th-level transmutation*
+*5th-level transmutation* (Shaman, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet
@@ -17,5 +17,3 @@ On subsequent rounds, you can use your action to attempt to maintain your teleki
 If the object is worn or carried by a creature, you must make an ability check with your spellcasting ability contested by that creature's Strength check. If you succeed, you pull the object away from that creature and can move it up to 30 feet in any direction but not beyond the range of this spell.
 
 You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.
-
-Shaman

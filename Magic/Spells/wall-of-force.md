@@ -1,5 +1,5 @@
 #### Wall of Force
-*5th-level evocation*
+*5th-level evocation* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

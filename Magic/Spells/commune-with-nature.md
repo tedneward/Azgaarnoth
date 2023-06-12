@@ -1,5 +1,5 @@
 #### Commune with Nature
-*5th-level divination* (ritual)
+*5th-level divination* (ritual) (Druid, Ranger)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Self

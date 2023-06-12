@@ -1,5 +1,5 @@
 #### Banishing Smite
-*5th-level abjuration*
+*5th-level abjuration* (Paladin)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

@@ -1,5 +1,5 @@
 #### Raise Dead
-*5th-level necromancy*
+*5th-level necromancy* (Bard, Cleric, Paladin)
 ___
 - **Casting Time:** 1 hour
 - **Range:** Touch

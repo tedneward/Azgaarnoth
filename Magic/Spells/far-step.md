@@ -1,5 +1,5 @@
 #### Far Step
-*5th-level conjuration*
+*5th-level conjuration* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

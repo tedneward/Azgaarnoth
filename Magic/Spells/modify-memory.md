@@ -1,5 +1,5 @@
 #### Modify Memory
-*5th-level enchantment*
+*5th-level enchantment* (Bard, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

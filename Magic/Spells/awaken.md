@@ -1,5 +1,5 @@
 #### Awaken
-*5th-level transmutation*
+*5th-level transmutation* (Bard, Druid)
 ___
 - **Casting Time:** 8 hours
 - **Range:** Touch

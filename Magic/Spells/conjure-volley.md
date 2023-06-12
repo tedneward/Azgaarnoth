@@ -1,5 +1,5 @@
 #### Conjure Volley
-*5th-level conjuration*
+*5th-level conjuration* (Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** 150 feet

@@ -1,5 +1,5 @@
 #### Creation
-*5th-level illusion*
+*5th-level illusion* (Artificer, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** 30 feet

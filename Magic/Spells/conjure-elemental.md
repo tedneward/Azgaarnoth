@@ -1,5 +1,5 @@
 #### Conjure Elemental
-*5th-level conjuration*
+*5th-level conjuration* (Druid, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** 90 feet

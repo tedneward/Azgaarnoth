@@ -1,5 +1,5 @@
 #### Teleportation Circle
-*5th-level conjuration*
+*5th-level conjuration* (Bard, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** 10 feet
