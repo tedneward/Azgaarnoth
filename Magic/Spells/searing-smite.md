@@ -1,5 +1,5 @@
 #### Searing Smite
-*1st-level evocation*
+*1st-level evocation* (Paladin, Ranger)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

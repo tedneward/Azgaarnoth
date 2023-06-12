@@ -1,5 +1,5 @@
 #### Rope Trick
-*2nd-level transmutation*
+*2nd-level transmutation* (Artificer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

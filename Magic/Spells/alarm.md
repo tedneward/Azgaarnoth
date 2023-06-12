@@ -1,5 +1,5 @@
 #### Alarm
-*1st-level abjuration (ritual)*
+*1st-level abjuration (ritual)* (Artificer, Ranger, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** 30 feet

@@ -1,5 +1,5 @@
 #### Leomund's Tiny Hut
-*3rd-level evocation (ritual)*
+*3rd-level evocation (ritual)* (Bard, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Self (10-foot-radius hemisphere)

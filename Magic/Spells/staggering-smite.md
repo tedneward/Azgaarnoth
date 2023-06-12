@@ -1,5 +1,5 @@
 #### Staggering Smite
-*4th-level evocation*
+*4th-level evocation* (Paladin)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

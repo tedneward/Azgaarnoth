@@ -1,5 +1,5 @@
 #### Gift of Alacrity
-*1st-level divination*
+*1st-level divination* (Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Touch

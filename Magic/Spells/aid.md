@@ -1,5 +1,5 @@
 # Aid
-*2nd-level abjuration*
+*2nd-level abjuration* (Artificer, Bard, Cleric, Paladin, Ranger)
 
 **Casting Time:** 1 action
 

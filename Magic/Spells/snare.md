@@ -1,5 +1,5 @@
 #### Snare
-*1st-level abjuration*
+*1st-level abjuration*  (Artificer, Druid, Ranger, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Touch

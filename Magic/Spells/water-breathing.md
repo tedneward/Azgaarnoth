@@ -1,5 +1,5 @@
 #### Water Breathing
-*3rd-level transmutation (ritual)*
+*3rd-level transmutation (ritual)* (Artificer, Druid, Ranger, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

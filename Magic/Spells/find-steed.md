@@ -1,5 +1,5 @@
 #### Find Steed
-*2nd-level conjuration*
+*2nd-level conjuration* (Paladin)
 ___
 - **Casting Time:** 10 minutes
 - **Range:** 30 feet

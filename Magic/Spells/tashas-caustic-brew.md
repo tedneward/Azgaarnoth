@@ -1,5 +1,5 @@
 #### Tasha's Caustic Brew
-*1st-level evocation*
+*1st-level evocation*  (Artificer, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (30-foot line)

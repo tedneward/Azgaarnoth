@@ -1,5 +1,5 @@
 #### Protection from Energy
-*3rd-level abjuration*
+*3rd-level abjuration* (Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

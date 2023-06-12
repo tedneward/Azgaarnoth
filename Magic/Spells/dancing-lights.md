@@ -1,5 +1,5 @@
 #### Dancing Lights
-*Evocation cantrip*
+*Evocation cantrip* (Artificer, Bard, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

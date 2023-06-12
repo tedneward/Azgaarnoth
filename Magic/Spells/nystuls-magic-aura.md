@@ -1,5 +1,5 @@
 #### Nystul's Magic Aura
-*2nd-level illusion*
+*2nd-level illusion* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

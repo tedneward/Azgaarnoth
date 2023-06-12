@@ -1,5 +1,5 @@
 #### Healing Word
-*1st-level evocation*
+*1st-level evocation* (Bard, Cleric, Druid)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 60 feet

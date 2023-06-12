@@ -1,5 +1,5 @@
 #### Watery Sphere
-*4th-level conjuration*
+*4th-level conjuration* (Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 90 feet

@@ -1,5 +1,5 @@
 #### Shield of Faith
-*1st-level abjuration*
+*1st-level abjuration* (Cleric, Paladin)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 60 feet

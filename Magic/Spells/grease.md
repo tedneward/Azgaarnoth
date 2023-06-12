@@ -1,5 +1,5 @@
 #### Grease
-*1st-level conjuration*
+*1st-level conjuration* (Artificer, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

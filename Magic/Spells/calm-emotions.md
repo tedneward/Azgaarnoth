@@ -1,5 +1,5 @@
 #### Calm Emotions
-*2nd-level enchantment*
+*2nd-level enchantment* (Bard, Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

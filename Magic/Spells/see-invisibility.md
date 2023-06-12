@@ -1,5 +1,5 @@
 #### See Invisibility
-*2nd-level divination*
+*2nd-level divination* (Artificer, Bard, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

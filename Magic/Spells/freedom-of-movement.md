@@ -1,5 +1,5 @@
 #### Freedom of Movement
-*4th-level abjuration*
+*4th-level abjuration* (Artificer, Bard, Cleric, Druid, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

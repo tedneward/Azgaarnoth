@@ -1,5 +1,5 @@
 #### Immovable Object
-*2nd-level transmutation*
+*2nd-level transmutation* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

@@ -1,5 +1,5 @@
 #### Arcane Lock
-*2nd-level abjuration*
+*2nd-level abjuration* (Artificer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

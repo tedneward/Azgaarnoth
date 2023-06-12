@@ -1,5 +1,5 @@
 #### Nondetection
-*3rd-level abjuration*
+*3rd-level abjuration* (Bard, Ranger, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

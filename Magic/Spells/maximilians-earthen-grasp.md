@@ -1,5 +1,5 @@
 #### Maximilian's Earthen Grasp
-*2nd-level transmutation*
+*2nd-level transmutation* (Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

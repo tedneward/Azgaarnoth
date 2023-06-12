@@ -1,5 +1,5 @@
 #### Fabricate
-*4th-level transmutation*
+*4th-level transmutation* (Artificer, Wizard)
 ___
 - **Casting Time:** 10 minutes
 - **Range:** 120 feet

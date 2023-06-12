@@ -1,5 +1,5 @@
 #### Guidance
-*Divination cantrip*
+*Divination cantrip* (Artificer, Cleric, Druid)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

@@ -1,5 +1,5 @@
 #### Cloud of Daggers
-*2nd-level conjuration*
+*2nd-level conjuration* (Bard, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

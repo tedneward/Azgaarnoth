@@ -1,5 +1,5 @@
 #### Gentle Repose
-*2nd-level necromancy (ritual)*
+*2nd-level necromancy (ritual)* (Cleric, Paladin, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

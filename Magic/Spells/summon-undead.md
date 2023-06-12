@@ -1,5 +1,5 @@
 #### Summon Undead
-*3rd-level necromancy*
+*3rd-level necromancy* (Pale Master, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 90 feet

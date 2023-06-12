@@ -1,5 +1,5 @@
 #### Bane
-*1st-level enchantment*
+*1st-level enchantment* (Bard, Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

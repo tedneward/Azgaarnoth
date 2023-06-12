@@ -1,5 +1,5 @@
 #### Enthrall
-*2nd-level enchantment*
+*2nd-level enchantment* (Bard, Warlock)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

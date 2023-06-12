@@ -1,5 +1,5 @@
 #### Intellect Fortress
-*3rd-level abjuration*
+*3rd-level abjuration* (Artificer, Bard, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

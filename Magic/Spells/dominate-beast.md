@@ -1,5 +1,5 @@
 #### Dominate Beast
-*4th-level enchantment*
+*4th-level enchantment* (Druid, Ranger, Sorcerer)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

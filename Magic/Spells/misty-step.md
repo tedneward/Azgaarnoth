@@ -1,5 +1,5 @@
 #### Misty Step
-*2nd-level conjuration*
+*2nd-level conjuration* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

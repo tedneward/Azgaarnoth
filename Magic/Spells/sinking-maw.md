@@ -1,5 +1,5 @@
 # Sinking Maw
-*5th Level transmutation spell* (Druid, Sorcerer, Wizard)
+*5th-level transmutation* (Druid, Sorcerer, Wizard)
 
 **Casting Time:** 1 action
 

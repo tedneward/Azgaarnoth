@@ -1,5 +1,5 @@
 #### Phantasmal Force
-*2nd-level illusion*
+*2nd-level illusion* (Bard, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

@@ -1,5 +1,5 @@
 #### Contact Other Plane
-*5th-level divination (ritual)*
+*5th-level divination* (ritual)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Self

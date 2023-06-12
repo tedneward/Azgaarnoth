@@ -1,5 +1,5 @@
 #### Friends
-*Enchantment cantrip*
+*Enchantment cantrip* (Bard, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

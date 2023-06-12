@@ -1,5 +1,5 @@
 #### Speak with Plants
-*3rd-level transmutation*
+*3rd-level transmutation* (Bard, Druid, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (30-foot radius)

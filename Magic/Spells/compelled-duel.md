@@ -1,5 +1,5 @@
 #### Compelled Duel
-*1st-level enchantment*
+*1st-level enchantment* (Paladin)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 30 feet

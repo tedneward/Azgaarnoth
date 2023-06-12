@@ -1,5 +1,5 @@
 #### Clairvoyance
-*3rd-level divination*
+*3rd-level divination* (Bard, Cleric, Sorcerer, Wizard)
 ___
 - **Casting Time:** 10 minutes
 - **Range:** 1 mile

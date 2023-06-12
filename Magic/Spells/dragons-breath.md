@@ -1,5 +1,5 @@
 #### Dragon's Breath
-*2nd-level transmutation*
+*2nd-level transmutation* (Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Touch

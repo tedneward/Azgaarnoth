@@ -1,5 +1,5 @@
 #### Enlarge/Reduce
-*2nd-level transmutation*
+*2nd-level transmutation* (Artificer, Bard, Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

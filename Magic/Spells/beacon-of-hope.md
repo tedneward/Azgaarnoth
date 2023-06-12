@@ -1,5 +1,5 @@
 #### Beacon of Hope
-*3rd-level abjuration*
+*3rd-level abjuration* (Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

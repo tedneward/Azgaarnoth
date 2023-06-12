@@ -1,5 +1,5 @@
 # Acid Splash
-*conjuration cantrip*
+*conjuration cantrip* (Artificer, Sorcerer, Wizard)
 
 **Casting Time:** 1 action
 

@@ -1,5 +1,5 @@
 #### Lightning Bolt
-*3rd-level evocation*
+*3rd-level evocation* (Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (100-foot line)

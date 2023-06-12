@@ -1,5 +1,5 @@
 #### Spiritual Weapon
-*2nd-level evocation*
+*2nd-level evocation* (Cleric)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 60 feet

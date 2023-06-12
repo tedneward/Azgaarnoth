@@ -1,5 +1,5 @@
 #### Call Lightning
-*3rd-level conjuration*
+*3rd-level conjuration* (Druid)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

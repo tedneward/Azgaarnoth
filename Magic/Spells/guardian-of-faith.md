@@ -1,5 +1,5 @@
 #### Guardian of Faith
-*4th-level conjuration*
+*4th-level conjuration* (Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

@@ -1,5 +1,5 @@
 #### Lesser Restoration
-*2nd-level abjuration*
+*2nd-level abjuration* (Artificer, Bard, Cleric, Druid, Paladin, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

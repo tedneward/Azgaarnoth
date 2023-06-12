@@ -1,5 +1,5 @@
 #### Conjure Animals
-*3rd-level conjuration*
+*3rd-level conjuration* (Druid, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

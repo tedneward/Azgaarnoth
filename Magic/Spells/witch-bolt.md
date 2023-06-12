@@ -1,5 +1,5 @@
 #### Witch Bolt
-*1st-level evocation*
+*1st-level evocation* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

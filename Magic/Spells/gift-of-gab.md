@@ -1,5 +1,5 @@
 #### Gift of Gab
-*2nd-level enchantment*
+*2nd-level enchantment* (Bard, Wizard)
 ___
 - **Casting Time:** 1 reaction, which you take when you speak to another creature
 - **Range:** Self

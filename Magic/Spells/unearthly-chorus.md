@@ -1,5 +1,5 @@
 # Unearthly Chorus
-*1st-level illusion*
+*1st-level illusion* (Bard)
 
 **Casting Time**: 1 action
 

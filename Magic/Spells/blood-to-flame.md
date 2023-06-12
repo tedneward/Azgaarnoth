@@ -1,5 +1,5 @@
 # Blood to Flame
-*9th-level (Blood) transmutation (Sorcerer; Warlock, Wizard)*
+*9th-level transmutation* (Sorcerer, Warlock, Wizard)
 
 **Casting Time:** 1 action
 

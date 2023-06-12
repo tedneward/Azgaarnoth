@@ -1,5 +1,5 @@
 #### Compulsion
-*4th-level enchantment*
+*4th-level enchantment* (Bard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

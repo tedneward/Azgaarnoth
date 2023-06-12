@@ -1,5 +1,5 @@
 #### Detect Magic
-*1st-level divination (ritual)*
+*1st-level divination (ritual)* (Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

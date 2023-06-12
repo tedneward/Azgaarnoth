@@ -1,5 +1,5 @@
 # Lightning Lure
-*evocation cantrip*
+*evocation cantrip* (Artificer, Sorcerer, Warlock, Wizard)
 
 **Casting Time:** 1 action
 

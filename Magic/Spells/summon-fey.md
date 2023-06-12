@@ -1,5 +1,5 @@
 #### Summon Fey
-*3rd-level conjuration*
+*3rd-level conjuration* (Druid, Ranger, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 90 feet

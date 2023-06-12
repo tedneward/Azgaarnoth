@@ -1,5 +1,5 @@
 #### Thunderclap
-*Evocation cantrip*
+*Evocation cantrip* (Artificer, Bard, Druid, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 5 feet

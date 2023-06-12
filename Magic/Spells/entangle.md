@@ -1,5 +1,5 @@
 #### Entangle
-*1st-level conjuration*
+*1st-level conjuration* (Druid, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** 90 feet

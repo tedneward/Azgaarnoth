@@ -1,5 +1,5 @@
 #### Leomund's Secret Chest
-*4th-level conjuration*
+*4th-level conjuration* (Artificer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

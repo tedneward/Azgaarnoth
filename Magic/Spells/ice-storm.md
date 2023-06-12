@@ -1,5 +1,5 @@
 #### Ice Storm
-*4th-level evocation*
+*4th-level evocation* (Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 300 feet

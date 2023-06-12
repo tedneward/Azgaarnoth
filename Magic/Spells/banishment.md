@@ -1,5 +1,5 @@
 #### Banishment
-*4th-level abjuration*
+*4th-level abjuration* (Cleric, Paladin, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

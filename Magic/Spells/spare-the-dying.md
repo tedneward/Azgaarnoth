@@ -1,5 +1,5 @@
 #### Spare the Dying
-*Necromancy cantrip*
+*Necromancy cantrip* (Artificer, Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

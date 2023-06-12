@@ -1,5 +1,5 @@
 #### Locate Animals or Plants
-*2nd-level divination (ritual)*
+*2nd-level divination (ritual)* (Bard, Druid, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

@@ -1,5 +1,5 @@
 #### Magic Weapon
-*2nd-level transmutation*
+*2nd-level transmutation* (Artificer, Paladin, Ranger, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Touch

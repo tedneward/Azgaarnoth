@@ -1,5 +1,5 @@
 #### Stone Shape
-*4th-level transmutation*
+*4th-level transmutation* (Artificer, Cleric, Druid, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

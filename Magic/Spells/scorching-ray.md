@@ -1,5 +1,5 @@
 #### Scorching Ray
-*2nd-level evocation*
+*2nd-level evocation* (Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

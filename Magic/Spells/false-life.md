@@ -1,5 +1,5 @@
 #### False Life
-*1st-level necromancy*
+*1st-level necromancy* (Artificer, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

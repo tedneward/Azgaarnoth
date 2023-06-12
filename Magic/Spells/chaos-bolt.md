@@ -1,5 +1,5 @@
 # Chaos Bolt
-*1st-level evocation*
+*1st-level evocation* (Sorcerer)
 
 **Casting Time:** 1 action
 

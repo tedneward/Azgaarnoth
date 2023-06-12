@@ -1,5 +1,5 @@
 #### Polymorph
-*4th-level transmutation*
+*4th-level transmutation* (Bard, Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

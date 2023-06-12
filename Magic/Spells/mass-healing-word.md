@@ -1,5 +1,5 @@
 #### Mass Healing Word
-*3rd-level evocation*
+*3rd-level evocation* (Bard, Cleric)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 60 feet

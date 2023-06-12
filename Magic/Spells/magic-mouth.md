@@ -1,5 +1,5 @@
 #### Magic Mouth
-*2nd-level illusion (ritual)*
+*2nd-level illusion (ritual)* (Artificer, Bard, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** 30 feet

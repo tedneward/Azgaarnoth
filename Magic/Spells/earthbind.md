@@ -1,5 +1,5 @@
 #### Earthbind
-*2nd-level transmutation*
+*2nd-level transmutation* (Druid, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 300 feet

@@ -1,5 +1,5 @@
 #### Shape Water
-*Transmutation cantrip*
+*Transmutation cantrip* (Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

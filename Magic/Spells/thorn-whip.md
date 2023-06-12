@@ -1,5 +1,5 @@
 #### Thorn Whip
-*Transmutation cantrip*
+*Transmutation cantrip* (Artificer, Druid)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

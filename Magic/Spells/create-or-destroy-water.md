@@ -1,5 +1,5 @@
 #### Create or Destroy Water
-*1st-level transmutation*
+*1st-level transmutation* (Cleric, Druid)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

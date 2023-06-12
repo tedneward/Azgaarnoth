@@ -1,5 +1,5 @@
 #### Blinding Smite
-*3rd-level evocation*
+*3rd-level evocation* (Paladin)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

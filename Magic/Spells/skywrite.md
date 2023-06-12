@@ -1,5 +1,5 @@
 #### Skywrite
-*2nd-level transmutation (ritual)*
+*2nd-level transmutation (ritual)* (Artificer, Bard, Druid, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Sight

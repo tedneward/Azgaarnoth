@@ -1,5 +1,5 @@
 #### Shatter
-*2nd-level evocation*
+*2nd-level evocation* (Bard, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

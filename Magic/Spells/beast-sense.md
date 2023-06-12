@@ -1,5 +1,5 @@
 #### Beast Sense
-*2nd-level divination (ritual)*
+*2nd-level divination (ritual)* (Druid, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

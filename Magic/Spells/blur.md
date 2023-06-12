@@ -1,5 +1,5 @@
 #### Blur
-*2nd-level illusion*
+*2nd-level illusion* (Artificer, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

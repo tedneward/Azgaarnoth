@@ -1,5 +1,5 @@
 #### Sanctuary
-*1st-level abjuration*
+*1st-level abjuration* (Artificer, Cleric)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 30 feet

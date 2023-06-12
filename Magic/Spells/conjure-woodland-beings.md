@@ -1,5 +1,5 @@
 #### Conjure Woodland Beings
-*4th-level conjuration*
+*4th-level conjuration* (Druid, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

@@ -1,5 +1,5 @@
 #### Illusory Script
-*1st-level illusion (ritual)*
+*1st-level illusion (ritual)* (Bard, Warlock, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Touch

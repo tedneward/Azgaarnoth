@@ -1,5 +1,5 @@
 #### Disguise Self
-*1st-level illusion*
+*1st-level illusion* (Artificer, Bard, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

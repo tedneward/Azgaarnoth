@@ -1,5 +1,5 @@
 # Blood Extraction
-*3rd-level (Blood) necromancy* (Sorcerer; Warlock, Wizard)
+*3rd-level necromancy* (Sorcerer, Warlock, Wizard)
 
 **Casting Time:** 1 action
 

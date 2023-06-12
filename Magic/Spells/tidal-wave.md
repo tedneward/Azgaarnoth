@@ -1,5 +1,5 @@
 #### Tidal Wave
-*3rd-level conjuration*
+*3rd-level conjuration* (Druid, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

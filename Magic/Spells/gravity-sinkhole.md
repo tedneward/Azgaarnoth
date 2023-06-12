@@ -1,5 +1,5 @@
 #### Gravity Sinkhole
-*4th-level evocation*
+*4th-level evocation* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

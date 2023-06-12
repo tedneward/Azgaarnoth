@@ -1,5 +1,5 @@
 #### Cordon of Arrows
-*2nd-level transmutation*
+*2nd-level transmutation* (Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** 5 feet

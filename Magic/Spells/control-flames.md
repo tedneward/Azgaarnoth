@@ -1,5 +1,5 @@
 # Control Flames
-*Transmutation cantrip*
+*Transmutation cantrip* (Druid, Sorcerer, Wizard)
 
 **Casting Time:** 1 action
 

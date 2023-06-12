@@ -1,5 +1,5 @@
 #### Tongues
-*3rd-level divination*
+*3rd-level divination* (Bard, Cleric, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

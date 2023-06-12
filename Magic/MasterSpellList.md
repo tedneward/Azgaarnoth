@@ -1,6 +1,8 @@
 # Master Spell List
 Complete list of all spells in Azgaarnoth, from all spell lists. 
 
+ (Artificer, Bard, Cleric, Druid, Mystic, Paladin, Pale Master, Ranger, Shaman, Sorcerer, Warlock, Wizard)
+
 (Really need to build a markdown-spell-parser in Python or something, to be able to assemble some lists like this automatically.)
 
 ## Cantrips
@@ -635,14 +637,5 @@ Complete list of all spells in Azgaarnoth, from all spell lists.
 * True Resurrection
 * Weird
 * Wish
-
-
-
-
-
-
-
-
-
 
 

@@ -1,5 +1,5 @@
 #### Sickening Radiance
-*4th-level evocation*
+*4th-level evocation* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

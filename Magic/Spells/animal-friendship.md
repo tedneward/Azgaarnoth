@@ -1,5 +1,5 @@
 #### Animal Friendship
-*1st-level enchantment*
+*1st-level enchantment* (Bard, Druid, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

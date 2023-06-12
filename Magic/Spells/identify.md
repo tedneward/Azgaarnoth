@@ -1,5 +1,5 @@
 #### Identify
-*1st-level divination (ritual)*
+*1st-level divination (ritual)* (Artificer, Bard, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Touch

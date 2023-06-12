@@ -1,5 +1,5 @@
 # Wild Cunning
-*1st-level transmutation* (ritual)
+*1st-level transmutation* (ritual)  (Druid, Ranger)
 
 **Casting Time**: 1 action
 

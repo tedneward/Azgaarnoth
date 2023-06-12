@@ -1,5 +1,5 @@
 #### Invisibility
-*2nd-level illusion*
+*2nd-level illusion* (Artificer, Bard, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

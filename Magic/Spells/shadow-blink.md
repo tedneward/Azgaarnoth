@@ -1,5 +1,5 @@
 #### Shadow Blink
-*2nd Level transmutation*
+*2nd-Level transmutation*
 ___
 - **Casting Time:** 1 Action
 - **Range:** Self

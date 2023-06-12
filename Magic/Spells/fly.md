@@ -1,5 +1,5 @@
 #### Fly
-*3rd-level transmutation*
+*3rd-level transmutation* (Artificer, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

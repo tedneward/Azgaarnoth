@@ -1,5 +1,5 @@
 #### Find Traps
-*2nd-level divination*
+*2nd-level divination* (Cleric, Druid, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

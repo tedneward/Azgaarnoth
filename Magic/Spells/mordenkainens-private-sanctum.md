@@ -1,5 +1,5 @@
 #### Mordenkainen's Private Sanctum
-*4th-level abjuration*
+*4th-level abjuration* (Artificer, Wizard)
 ___
 - **Casting Time:** 10 minutes
 - **Range:** 120 feet

@@ -1,5 +1,5 @@
 #### Glyph of Warding
-*3rd-level abjuration*
+*3rd-level abjuration* (Artificer, Bard, Cleric, Wizard)
 ___
 - **Casting Time:** 1 hour
 - **Range:** Touch

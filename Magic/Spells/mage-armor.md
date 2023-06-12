@@ -1,5 +1,5 @@
 #### Mage Armor
-*1st-level abjuration*
+*1st-level abjuration* (Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

@@ -1,5 +1,5 @@
 #### Levitate
-*2nd-level transmutation*
+*2nd-level transmutation* (Artificer, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

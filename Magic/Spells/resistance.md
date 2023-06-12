@@ -1,5 +1,5 @@
 #### Resistance
-*Abjuration cantrip*
+*Abjuration cantrip* (Artificer, Cleric, Druid)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

@@ -1,5 +1,5 @@
 # Virtue
-*Abjuration cantrip*
+*Abjuration cantrip* (Cleric)
 
 **Casting Time**: 1 action
 

@@ -1,5 +1,5 @@
 #### Melf's Minute Meteors
-*3rd-level evocation*
+*3rd-level evocation* (Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

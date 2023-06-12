@@ -1,5 +1,5 @@
 #### Life Transference
-*3rd-level necromancy*
+*3rd-level necromancy* (Cleric, Pale Master, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

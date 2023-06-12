@@ -1,5 +1,5 @@
 #### Wind Wall
-*3rd-level evocation*
+*3rd-level evocation* (Druid, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet
