@@ -1,5 +1,5 @@
 #### Protection from Poison
-*2nd-level abjuration*
+*2nd-level abjuration* (Artificer, Cleric, Druid, Paladin, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

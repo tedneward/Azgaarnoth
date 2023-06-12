@@ -1,5 +1,5 @@
 #### Tasha's Mind Whip
-*2nd-level enchantment*
+*2nd-level enchantment* (Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 90 feet

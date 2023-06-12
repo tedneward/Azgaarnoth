@@ -1,5 +1,5 @@
 #### Summon Beast
-*2nd-level conjuration*
+*2nd-level conjuration* (Druid, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** 90 feet

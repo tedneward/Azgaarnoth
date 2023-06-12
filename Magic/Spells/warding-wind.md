@@ -1,5 +1,5 @@
 #### Warding Wind
-*2nd-level evocation*
+*2nd-level evocation* (Bard, Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

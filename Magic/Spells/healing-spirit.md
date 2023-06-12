@@ -1,5 +1,5 @@
 #### Healing Spirit
-*2nd-level conjuration*
+*2nd-level conjuration* (Druid, Ranger, Shaman)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 60 feet

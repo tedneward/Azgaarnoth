@@ -1,5 +1,5 @@
 #### Ray of Enfeeblement
-*2nd-level necromancy*
+*2nd-level necromancy* (Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

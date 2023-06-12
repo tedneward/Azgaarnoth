@@ -1,5 +1,5 @@
 #### Mirror Image
-*2nd-level illusion*
+*2nd-level illusion* (Bard, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

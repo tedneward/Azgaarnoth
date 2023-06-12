@@ -1,5 +1,5 @@
 #### Animal Messenger
-*2nd-level enchantment (ritual)*
+*2nd-level enchantment (ritual)* (Bard, Druid, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

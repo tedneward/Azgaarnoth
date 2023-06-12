@@ -1,5 +1,5 @@
 #### Prayer of Healing
-*2nd-level evocation*
+*2nd-level evocation* (Cleric, Paladin)
 ___
 - **Casting Time:** 10 minutes
 - **Range:** 30 feet

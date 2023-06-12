@@ -1,5 +1,5 @@
 #### Mind Spike
-*2nd-level divination*
+*2nd-level divination* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

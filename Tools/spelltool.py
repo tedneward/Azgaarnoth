@@ -7,28 +7,8 @@ import sys
 # From there, Spell objects can be manipulated to create spell lists,
 # reformatted and reprinted, stored to XML.
 
-# Input options:
-#   parsemd mdfile|dir: Parse spells in markdown format;
-#       if (mdfile) is a file, parse that single file;
-#       if (dir) is a directory, parse the directory
-#       default is ".", the current directory
-#   parsexml (xmlfile): Draw spells in from XML;
-#       if (xmlfile) is specified, read them all from a single XML file
-#
-# Listing options:
-#   listmd (artificer|bard|cleric|druid|...|all|none):
-#       write a list of (class) spells in Markdown to STDOUT
-#   listtext (artificer|bard|cleric|druid|...|all|none):
-#       write a list of (class) spells in plain text to STDOUT
-#   listxml (artificer|bard|cleric|druid|...|all|none):
-#       write a list of (class) spells in XML to STDOUT
-#
-# Output options:
-#   writemd: Write spells out in markdown format
-#   writexml: Write spells out to xml
-
 classes = ["Artificer", "Bard", "Cleric", "Druid", "Mystic",
-           "Paladin", "PaleMaster","Ranger", "Shaman",
+           "Paladin", "Pale Master","Ranger", "Shaman",
            "Sorcerer", "Warlock", "Wizard"]
 
 def extractClasses(subtitle):
@@ -87,7 +67,7 @@ class Spell:
 
             spell.classes = extractClasses(subtitle)
             if spell.classes == []:
-                pass #print("WARNING: No classes found in parse: " + spell.filename)
+                print("WARNING: No classes found in parse: " + spell.filename)
             else:
                 classStartIdx = subtitle.find('(')
                 subtitle = subtitle[0:classStartIdx]
@@ -145,7 +125,7 @@ class Spell:
 
             spell.classes = extractClasses(subtitle)
             if spell.classes == []:
-                pass #print("WARNING: No classes found in parse: " + spell.filename)
+                print("WARNING: No classes found in parse: " + spell.filename)
             else:
                 classStartIdx = subtitle.find('(')
                 subtitle = subtitle[0:classStartIdx]

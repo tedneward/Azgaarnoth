@@ -1,5 +1,5 @@
 #### Zone of Truth
-*2nd-level enchantment*
+*2nd-level enchantment* (Bard, Cleric, Paladin)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

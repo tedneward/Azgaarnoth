@@ -1,5 +1,5 @@
 #### Wristpocket
-*2nd-level conjuration (ritual)*
+*2nd-level conjuration (ritual)* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

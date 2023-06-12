@@ -1,5 +1,5 @@
 #### Crown of Madness
-*2nd-level enchantment*
+*2nd-level enchantment* (Bard, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

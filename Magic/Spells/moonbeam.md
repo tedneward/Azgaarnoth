@@ -1,5 +1,5 @@
 #### Moonbeam
-*2nd-level evocation*
+*2nd-level evocation* (Druid)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

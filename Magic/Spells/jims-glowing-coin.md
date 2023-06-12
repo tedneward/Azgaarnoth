@@ -1,5 +1,5 @@
 #### Jim's Glowing Coin
-*2nd-level enchantment*
+*2nd-level enchantment* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

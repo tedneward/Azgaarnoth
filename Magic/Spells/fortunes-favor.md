@@ -1,5 +1,5 @@
 #### Fortune's Favor
-*2nd-level divination*
+*2nd-level divination* (Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** 60 feet

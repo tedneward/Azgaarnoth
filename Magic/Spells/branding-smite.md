@@ -1,5 +1,5 @@
 #### Branding Smite
-*2nd-level evocation*
+*2nd-level evocation* (Paladin)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

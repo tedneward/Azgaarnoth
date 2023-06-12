@@ -1,5 +1,5 @@
 #### Continual Flame
-*2nd-level evocation*
+*2nd-level evocation* (Artificer, Cleric, Druid, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

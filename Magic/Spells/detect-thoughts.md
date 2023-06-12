@@ -1,5 +1,5 @@
 #### Detect Thoughts
-*2nd-level divination*
+*2nd-level divination* (Bard, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

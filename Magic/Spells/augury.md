@@ -1,5 +1,5 @@
 #### Augury
-*2nd-level divination (ritual)*
+*2nd-level divination (ritual)* (Cleric, Druid, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Self

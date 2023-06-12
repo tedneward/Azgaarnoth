@@ -1,5 +1,5 @@
 # Aganazzar's Scorcher
-*2nd-level evocation*
+*2nd-level evocation*  (Sorcerer, Wizard)
 
 **Casting Time:** 1 action
 

@@ -1,5 +1,5 @@
 #### Locate Object
-*2nd-level divination*
+*2nd-level divination* (Bard, Cleric, Druid, Paladin, Ranger, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

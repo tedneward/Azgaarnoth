@@ -1,5 +1,5 @@
 #### Melf's Acid Arrow
-*2nd-level evocation*
+*2nd-level evocation* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 90 feet

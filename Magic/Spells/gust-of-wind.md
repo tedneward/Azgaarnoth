@@ -1,5 +1,5 @@
 #### Gust of Wind
-*2nd-level evocation*
+*2nd-level evocation* (Druid, Ranger, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (60-foot line)
