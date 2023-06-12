@@ -1,5 +1,5 @@
 #### Toll the Dead
-*Necromancy cantrip* (Cleric, Warlock, Wizard)
+*Necromancy cantrip* (Cleric, Pale Master, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

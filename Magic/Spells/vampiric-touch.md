@@ -1,5 +1,5 @@
 #### Vampiric Touch
-*3rd-level necromancy* (Sorcerer, Wizard)
+*3rd-level necromancy* (Pale Master, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

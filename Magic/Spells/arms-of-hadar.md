@@ -1,5 +1,5 @@
 #### Arms of Hadar
-*1st-level conjuration* (Warlock)
+*1st-level conjuration* (Pale Master, Warlock)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (10-foot radius)

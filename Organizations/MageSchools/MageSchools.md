@@ -18,6 +18,7 @@ Mage Schools usually divide the world into members and non-members; members have
 Mage schools often serve as a "home" for wizards before they strike out to construct their own tower (or found a branch of the mage school in a new city), and as such, members of the school will typically have a dedicated space for them somewhere within the school's tower or grounds--this is a safe place in which to keep spellbooks, coin, treasure, and other items a member might not wish to have on their person as they go out into the world. Note that while a tower of the same mage school will try to accommodate a visiting magi of the same school, it will usually be a guest bed that doesn't necessarily have the same quality or storage capacity.
 
 Some schools will offer services to members for free or a nominal charge, depending on the value of the service; such services might include, but are not limited to:
+
 * identifying an unknown magic item
 * assisting in the research of a spell (of a form favored by the school)
 * scholarly research
@@ -48,7 +49,7 @@ Hundreds of mage schools of all size are present on Azgaarnoth. Currently the mo
 * [Green Star Adepts](GreenStar.md): a mage school around a particular mystical stone
 * [Four Moons](FourMoons.md): lunar magic
 * [Night's Blessing](NightsBlessing.md): necromancy's healing
-* [Spinning Hands](SpinningHands.md)
+* [Spinning Hands](SpinningHands.md): time and chronomancy
 * [Twilight Star](TwilightStar.md): necromancy's power
 * [Gathering Mist](GatheringMist.md): shadows
 * [Blue Sky](BlueSky.md): air, weather, storms
@@ -57,6 +58,7 @@ Hundreds of mage schools of all size are present on Azgaarnoth. Currently the mo
 * [Dark Cauldron](DarkCauldron.md): alchemy
 * [Animalists](Animalists.md): natural kingdom
 * [Symbarchs](Symbarchs.md): followers of an ancient mage
+* [Bloodmancers](Bloodmancers.md): practioners of ancient blood arts
 
 There are always rumors of additional schools that aren't formal or popular, such as a school dedicated to enchantment (which is feared by the common folk because of the obvious perils of abuse by said enchanters), and not all magi need join a school in order to thrive. School-affiliated magi, however, will look down on "wilders" as "uncivilized" or "uneducated", and many "wilders" in turn look upon their school-affiliated brethren as "sellouts" or "kept magi". These "wilders" will often be of the [Hedge Magi](/Classes/Wizard/HedgeMagi.md) arcane tradition.
 

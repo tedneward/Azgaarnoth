@@ -80,6 +80,7 @@ At 3rd level, you choose an archetype that you strive to emulate in your combat 
 * [Arcane Archer](Fighter/ArcaneArcher.md)
 * [Banneret](Fighter/Banneret.md)
 * [Battle Master](Fighter/BattleMaster.md)
+* [Blood Thrall](Fighter/BloodThrall.md)
 * [Brute](Fighter/Brute.md)
 * [Cavalier](Fighter/Cavalier.md)
 * [Champion](Fighter/Champion.md)

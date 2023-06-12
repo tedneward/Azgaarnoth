@@ -155,9 +155,13 @@ You choose an arcane tradition, shaping your practice of magic through one of th
 * [Voidmancy](Wizard/Voidmancy.md)
 * [War Magic](Wizard/WarMagic.md)
 
-Your choice grants yous at 2nd level and again at 6th, 10th, and 14th level.  feature
+Your choice grants yous at 2nd level and again at 6th, 10th, and 14th level.
 
 Note that many of the [Mage Schools](/Organizations/MageSchools/MageSchools.md) have their own, unique, arcane traditions; more options are found there. While many mage schools have an arcane tradition, not all arcane traditions belong exclusively to a mage school.
+
+Additionally, there are some arcane traditions which dare not be practiced openly:
+
+* [Bloodmancers](Wizard/Bloodmancer.md) and [NeoBloodmancers](Wizard/NeoBloodmancer.md): Those who draw power from life's blood can expect to be persecuted on sight
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this.  feature

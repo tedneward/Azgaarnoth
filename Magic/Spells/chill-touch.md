@@ -1,5 +1,5 @@
 #### Chill Touch
-*Necromancy cantrip* (PaleMaster, Sorcerer, Warlock, Wizard)
+*Necromancy cantrip* (Pale Master, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

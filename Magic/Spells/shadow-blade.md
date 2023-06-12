@@ -1,5 +1,5 @@
 #### Shadow Blade
-*2nd-level illusion* (Sorcerer, Warlock, Wizard)
+*2nd-level illusion* (Pale Master, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

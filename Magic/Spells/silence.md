@@ -1,5 +1,5 @@
 #### Silence
-*2nd-level illusion (ritual)* (Bard, Cleric, Ranger)
+*2nd-level illusion (ritual)* (Bard, Cleric, Pale Master, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

@@ -1,5 +1,5 @@
 #### Speak with Dead
-*3rd-level necromancy* (Bard, Cleric, Wizard)
+*3rd-level necromancy* (Bard, Cleric, Pale Master, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 10 feet

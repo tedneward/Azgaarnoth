@@ -1,5 +1,5 @@
 #### Inflict Wounds
-*1st-level necromancy* (Cleric)
+*1st-level necromancy* (Cleric, Pale Master)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

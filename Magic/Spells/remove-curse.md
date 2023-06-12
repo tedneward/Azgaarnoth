@@ -1,5 +1,5 @@
 #### Remove Curse
-*3rd-level abjuration* (Cleric, Paladin, Shaman, Warlock, Wizard)
+*3rd-level abjuration* (Cleric, Paladin, Pale Master, Shaman, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

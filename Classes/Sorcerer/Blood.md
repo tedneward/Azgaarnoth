@@ -36,4 +36,4 @@ You learn how to make use of the blood your enemies have already spilled from yo
 
 You learn how to force your magic into the body of a mortally wounded creature with such ease and force as to create an explosion of magic. When you deal damage to a creature and reduce it to 0 hit points, you can spend 2 sorcery points to cause the creature to explode violently. The target fails one death saving throw automatically. Each creature within a 15-foot sphere centered on the target must make a Constitution saving throw. On a failed saving throw, a creature takes 7d6 necrotic damage. On a successful saving throw, a creature takes half damage.
 
-For the purpose of any other Sorcerer class feature, you treat each explosion from this class feature as if it were a Necromancy (**Blood**) spell that you know as a sorcerer.
+For the purpose of any other Sorcerer class feature, you treat each explosion from this class feature as if it were a Necromancy spell that you know as a sorcerer.

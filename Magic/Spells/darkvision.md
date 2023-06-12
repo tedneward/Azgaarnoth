@@ -1,5 +1,5 @@
 #### Darkvision
-*2nd-level transmutation* (Artificer, Druid, Ranger, Sorcerer, Wizard)
+*2nd-level transmutation* (Artificer, Druid, Pale Master, Ranger, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

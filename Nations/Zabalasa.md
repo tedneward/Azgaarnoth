@@ -22,3 +22,6 @@ Capital: [Svishek](/Cities/Svishek.md)
 [Yithi](/Nations/Yithi.md): 
 [Zabalasa](/Nations/Zabalasa.md):
 [Zhi](/Nations/Zhi.md):
+
+## Tribes of Zabalasa
+

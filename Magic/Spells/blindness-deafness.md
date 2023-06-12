@@ -1,5 +1,5 @@
 #### Blindness/Deafness
-*2nd-level necromancy* (Bard, Cleric, Sorcerer, Wizard)
+*2nd-level necromancy* (Bard, Cleric, Pale Master, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

@@ -1,5 +1,5 @@
 #### Phantom Steed
-*3rd-level illusion (ritual)* (Wizard)
+*3rd-level illusion (ritual)* (Pale Master, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** 30 feet

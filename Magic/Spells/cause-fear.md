@@ -1,5 +1,5 @@
 # Cause Fear
-*1st-level necromancy* (Warlock, Wizard)
+*1st-level necromancy* (Pale Master, Warlock, Wizard)
 
 **Casting Time:** 1 action
 

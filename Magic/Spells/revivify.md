@@ -1,5 +1,5 @@
 #### Revivify
-*3rd-level necromancy* (Artificer, Cleric, Druid, Paladin, Ranger)
+*3rd-level necromancy* (Artificer, Cleric, Druid, Paladin, Pale Master, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

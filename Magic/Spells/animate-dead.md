@@ -1,5 +1,5 @@
 #### Animate Dead
-*3rd-level necromancy* (Cleric, Wizard)
+*3rd-level necromancy* (Cleric, Pale Master, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** 10 feet

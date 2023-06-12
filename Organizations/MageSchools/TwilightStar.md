@@ -1,7 +1,7 @@
 # Mage School: Twilight Star
 **Home**: [Swamleverc](/Cities/Swamleverc.md)
 
-**Enrollment**: ~250
+**Enrollment**: ~750
 
 **Motto**: "In Death You Serve"
 
@@ -13,5 +13,12 @@ Membership in the Twilight Star is open to any who would explore the powers of t
 ## Tendencies
 Contrary to popular belief, not all of the Twilight's Star magi are evil--some in fact see the undead as a powerful and untapped resource that deserves deeper exploration as service to the living--but those that aren't are clearly in the minority. Contrary to the canonical "insane loner" stereotype of the necromancer, however, Twilight Star magi are quite comfortable working together, seem quite sane (aside from their chosen profession, that is), and have no deep desire to conquer the world. (Most of them, anyway.) The magi of the Twilight Star understand that real power lies not in mundane conquest of land, but in the conquest of death via unlife.
 
+Most Twilight Star schools are no larger than a half-dozen in size, and usually made up of one Master, one Journeyman, and several apprentices.
+
 ## Connections
+In most of the nations of the west and north, the Twilight Star school is illegal, and its students (and particularly its instructors) are openly hunted and arrested. Although participation itself is not a crime, most of the nations of the west and north have laws against almost anything the Twilight Star does (including practicing necromancy on non-sentient creatures and beasts), and usually an investigator can find evidence enough for a conviction.
+
+In the east, among the Hordes, the Twilight Star has a deeper meaning, simultaneously more respectful and more fearful--for many centuries, Hordish wizards practiced necromancy as part of their incessant wars with the Firstborn, and that reverance and fear carries over to this day. Because the Twilight Star is not openly hunted here, many schools have lived here in (relative) peace. However, many of the Hordes have long memories, and no Hordish chieftain or mayor has ever arrested anyone when a mob has burned a Twilight Star school to the ground on nothing more than rumor. (In fact, it's not unusual for a chieftain or mayor to start said rumors, if the Twilight Star school isn't willing to become a wary ally.)
+
+In the south, open practice of necromancy is ostensibly illegal, but rumors whisper that the Dread Emperor is a secret backer of the school, and that the school is welcome within Dradehalia, so long as it is kept secret from commonfolks' knowledge.
 
