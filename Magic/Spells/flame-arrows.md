@@ -1,5 +1,5 @@
 #### Flame Arrows
-*3rd-level transmutation*
+*3rd-level transmutation* (Artificer, Druid, Ranger, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

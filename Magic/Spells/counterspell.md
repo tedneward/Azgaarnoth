@@ -1,5 +1,5 @@
 #### Counterspell
-*3rd-level abjuration*
+*3rd-level abjuration* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 reaction, which you take when you see a creature within 60 feet of you casting a spell
 - **Range:** 60 feet

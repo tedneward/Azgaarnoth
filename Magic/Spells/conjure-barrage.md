@@ -1,5 +1,5 @@
 #### Conjure Barrage
-*3rd-level conjuration*
+*3rd-level conjuration* (Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (60-foot cone)

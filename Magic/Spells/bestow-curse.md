@@ -1,5 +1,5 @@
 #### Bestow Curse
-*3rd-level necromancy*
+*3rd-level necromancy* (Bard, Cleric, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

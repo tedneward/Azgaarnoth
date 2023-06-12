@@ -1,5 +1,5 @@
 # Catnap
-*3rd-level enchantment*
+*3rd-level enchantment* (Artificer, Bard, Sorcerer, Wizard)
 
 **Casting Time:** 1 action
 

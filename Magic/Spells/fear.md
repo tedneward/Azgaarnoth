@@ -1,5 +1,5 @@
 #### Fear
-*3rd-level illusion*
+*3rd-level illusion* (Bard, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (30-foot cone)

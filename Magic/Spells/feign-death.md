@@ -1,5 +1,5 @@
 #### Feign Death
-*3rd-level necromancy (ritual)*
+*3rd-level necromancy (ritual)* (Bard, Cleric, Druid, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

@@ -1,5 +1,5 @@
 #### Fast Friends
-*3rd-level enchantment*
+*3rd-level enchantment* (Bard, Cleric, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

@@ -1,5 +1,5 @@
 #### Enemies Abound
-*3rd-level enchantment*
+*3rd-level enchantment* (Bard, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

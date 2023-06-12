@@ -1,5 +1,5 @@
 #### Hunger of Hadar
-*3rd-level conjuration*
+*3rd-level conjuration* (Warlock)
 ___
 - **Casting Time:** 1 action
 - **Range:** 150 feet

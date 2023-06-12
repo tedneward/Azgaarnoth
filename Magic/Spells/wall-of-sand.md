@@ -1,5 +1,5 @@
 #### Wall of Sand
-*3rd-level evocation*
+*3rd-level evocation* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 90 feet

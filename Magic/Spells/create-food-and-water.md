@@ -1,5 +1,5 @@
 #### Create Food and Water
-*3rd-level conjuration*
+*3rd-level conjuration* (Artificer, Cleric, Paladin)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

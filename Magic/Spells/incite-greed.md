@@ -1,5 +1,5 @@
 #### Incite Greed
-*3rd-level enchantment*
+*3rd-level enchantment* (Cleric, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

@@ -1,5 +1,5 @@
 #### Lightning Arrow
-*3rd-level transmutation*
+*3rd-level transmutation* (Ranger)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

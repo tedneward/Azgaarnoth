@@ -1,5 +1,5 @@
 #### Sleet Storm
-*3rd-level conjuration*
+*3rd-level conjuration* (Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 150 feet

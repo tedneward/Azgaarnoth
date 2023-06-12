@@ -1,5 +1,5 @@
 #### Fireball
-*3rd-level evocation*
+*3rd-level evocation* (Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 150 feet

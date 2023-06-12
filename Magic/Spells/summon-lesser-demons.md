@@ -1,5 +1,5 @@
 #### Summon Lesser Demons
-*3rd-level conjuration*
+*3rd-level conjuration* (Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

@@ -1,5 +1,5 @@
 #### Motivational Speech
-*3rd-level enchantment*
+*3rd-level enchantment* (Bard, Cleric)
 ___
 - **Casting Time:** 1 minute
 - **Range:** 60 feet

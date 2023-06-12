@@ -1,5 +1,5 @@
 #### Magic Circle
-*3rd-level abjuration*
+*3rd-level abjuration* (Cleric, Paladin, Warlock, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** 10 feet

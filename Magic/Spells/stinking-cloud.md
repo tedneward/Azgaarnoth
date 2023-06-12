@@ -1,5 +1,5 @@
 #### Stinking Cloud
-*3rd-level conjuration*
+*3rd-level conjuration* (Bard, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 90 feet

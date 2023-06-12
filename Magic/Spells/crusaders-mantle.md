@@ -1,5 +1,5 @@
 #### Crusader's Mantle
-*3rd-level evocation*
+*3rd-level evocation* (Paladin)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (30-foot radius)

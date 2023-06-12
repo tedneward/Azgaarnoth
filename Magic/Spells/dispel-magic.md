@@ -1,5 +1,5 @@
 #### Dispel Magic
-*3rd-level abjuration*
+*3rd-level abjuration* (Artificer, Bard, Cleric, Druid, Paladin, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

@@ -1,5 +1,5 @@
 #### Slow
-*3rd-level transmutation*
+*3rd-level transmutation* (Bard, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

@@ -1,5 +1,5 @@
 # Galder's Tower
-*3rd-level conjuration*
+*3rd-level conjuration* (Wizard)
 
 **Casting Time:** 10 minutes
 

@@ -1,5 +1,5 @@
 # Animate Cranium
-*1st-level necromancy* (ritual) (PaleMaster)
+*1st-level necromancy* (ritual) (Pale Master)
 
 **Casting Time:** 1 action
 

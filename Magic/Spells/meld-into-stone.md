@@ -1,5 +1,5 @@
 #### Meld into Stone
-*3rd-level transmutation (ritual)*
+*3rd-level transmutation (ritual)* (Cleric, Druid, Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

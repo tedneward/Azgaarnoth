@@ -1,5 +1,5 @@
 #### Spirit Shroud
-*3rd-level necromancy*
+*3rd-level necromancy* (Cleric, Paladin, Shaman, Warlock, Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

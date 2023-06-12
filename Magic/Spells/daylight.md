@@ -1,5 +1,5 @@
 #### Daylight
-*3rd-level evocation*
+*3rd-level evocation* (Cleric, Druid, Paladin, Ranger, Sorcerer)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

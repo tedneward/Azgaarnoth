@@ -1,5 +1,5 @@
 #### Wall of Water
-*3rd-level evocation*
+*3rd-level evocation* (Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

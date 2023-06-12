@@ -1,5 +1,5 @@
 #### Spirit Guardians
-*3rd-level conjuration*
+*3rd-level conjuration* (Cleric, Shaman)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (15-foot radius)
