@@ -1,5 +1,5 @@
 # Spirit of Death
-*4th-level necromancy* (Sorcerer, Warlock, Wizard)
+*4th-level necromancy* (Shaman, Sorcerer, Warlock, Wizard)
 
 **Casting Time:** 1 action
 

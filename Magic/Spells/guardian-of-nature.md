@@ -1,5 +1,5 @@
 #### Guardian of Nature
-*4th-level transmutation* (Druid, Ranger)
+*4th-level transmutation* (Druid, Ranger, Shaman)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self
