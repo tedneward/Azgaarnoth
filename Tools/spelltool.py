@@ -364,11 +364,14 @@ def main():
             print(" ")
     
     elif args.summarymd != None:
+        print("# Summary Spell List")
+        print("For all spellcasting classes (" + ", ".join(classes) + ")")
+        print(" ")
         for level in ["cantrip", "1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th"]:
             print("## " + level + "-Level Spells")
             for spell in spells:
                 if spell.level == level:
-                    print("* [" + str(spell.name) + "](" + spell.filename + "): " + ",".join(spell.classes))
+                    print("* [" + str(spell.name) + "](" + spell.filename + "): " + ", ".join(spell.classes))
             print(" ")
 
     elif args.writemd != None:
@@ -399,86 +402,26 @@ def main():
             with open(filename, 'w') as file:
                 file.write(spell.printXML())
 
-def oldmain():
-    # Examine passed options
-    argi = 1
-    while argi < len(sys.argv):
-        command = sys.argv[argi]
+    elif args.writesql != None:
+        spelldb = args.writesql
+        
+        with sqlite3.connect(spelldb) as conn:
+            pass
+        
 
-        ################
-        # Write Markdown
-        if command == "writemd":
-            argi += 1
-
-            target = "."
-            if (argi + 1) <= len(sys.argv):
-                target = sys.argv[argi + 1]
-                argi += 1
-
-            if len(spells) > 1:
-                for spell in spells:
-                    print(spell.printMD())
-                    print(" ")
-                    print("----------")
-                    print("  ")
-            else:
-                print(spells[0].printMD())
-
-        ################
-        # Write XML
-        elif command == "writexml":
-            argi += 1
-
-            target = "-"
-            if (argi + 1) <= len(sys.argv):
-                target = sys.argv[argi + 1]
-                argi += 1
-
-            if len(spells) > 1:
-                print("<spellbook>")
-                for spell in spells:
-                    print(spell.printXML())
-                print("</spellbook>")
-            else:
-                print(spells[0].printXML())
-
-        ################
-        # Write SQLite
-        elif command == "writesql":
-            argi += 1
-
-            target = ""
-            if argi <= len(sys.argv):
-                target = sys.argv[argi]
-                argi += 1
-            else:
-                print("You must specify a SQLite database file")
-                return
-
-            with sqlite3.connect(target) as conn:
-                sql = """CREATE TABLE spell(
-id INTEGER PRIMARY KEY AUTOINCREMENT,
-name VARCHAR(80),
-level VARCHAR(10),
-ritual VARCHAR(2),
-type VARCHAR(20),
-classes VARCHAR(80),
-castingtime VARCHAR(80),
-range VARCHAR(80),
-duration VARCHAR(80),
-components VARCHAR(80),
-description VARCHAR(1024)
-);"""
-                conn.execute(sql)
-
-                for spell in spells:
-                    spell.writeRow(conn)
-
-        ################
-        # Unrecognized
-        else:
-            print("Unrecognized option: " + sys.argv[argi])
-            return
+#                sql = """CREATE TABLE spell(
+#id INTEGER PRIMARY KEY AUTOINCREMENT,
+#name VARCHAR(80),
+#level VARCHAR(10),
+#ritual VARCHAR(2),
+#type VARCHAR(20),
+#classes VARCHAR(80),
+#castingtime VARCHAR(80),
+#range VARCHAR(80),
+#duration VARCHAR(80),
+#components VARCHAR(80),
+#description VARCHAR(1024)
+#);"""
 
 if __name__ == '__main__':
 	main()
