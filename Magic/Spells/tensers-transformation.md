@@ -1,5 +1,5 @@
 #### Tenser's Transformation
-*6th-level transmutation*
+*6th-level transmutation* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

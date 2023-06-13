@@ -1,5 +1,5 @@
 #### Dream of the Blue Veil
-*7th-level conjuration*
+*7th-level conjuration* (Bard, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 10 minutes
 - **Range:** 20 feet

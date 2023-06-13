@@ -1,5 +1,5 @@
 #### Contingency
-*6th-level evocation*
+*6th-level evocation* (Wizard)
 ___
 - **Casting Time:** 10 minutes
 - **Range:** Self

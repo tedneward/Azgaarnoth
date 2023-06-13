@@ -1,5 +1,5 @@
 #### Tether Essence
-*7th-level necromancy*
+*7th-level necromancy* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

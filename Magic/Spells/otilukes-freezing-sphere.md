@@ -1,5 +1,5 @@
 #### Otiluke's Freezing Sphere
-*6th-level evocation*
+*6th-level evocation* (Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 300 feet

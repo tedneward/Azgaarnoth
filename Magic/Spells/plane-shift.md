@@ -1,5 +1,5 @@
 #### Plane Shift
-*7th-level conjuration*
+*7th-level conjuration* (Cleric, Druid, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

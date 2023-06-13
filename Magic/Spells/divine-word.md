@@ -1,5 +1,5 @@
 #### Divine Word
-*7th-level evocation*
+*7th-level evocation* (Cleric)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 30 feet

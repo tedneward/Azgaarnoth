@@ -1,5 +1,5 @@
 #### Druid Grove
-*6th-level abjuration*
+*6th-level abjuration* (Druid)
 ___
 - **Casting Time:** 10 minutes
 - **Range:** Touch

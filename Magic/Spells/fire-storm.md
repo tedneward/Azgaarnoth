@@ -1,5 +1,5 @@
 #### Fire Storm
-*7th-level evocation*
+*7th-level evocation* (Cleric, Druid, Sorcerer)
 ___
 - **Casting Time:** 1 action
 - **Range:** 150 feet

@@ -1,5 +1,5 @@
 #### Conjure Fey
-*6th-level conjuration*
+*6th-level conjuration* (Druid, Warlock)
 ___
 - **Casting Time:** 1 minute
 - **Range:** 90 feet

@@ -1,5 +1,5 @@
 #### Sequester
-*7th-level transmutation*
+*7th-level transmutation* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

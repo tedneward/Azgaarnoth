@@ -1,5 +1,5 @@
 #### Circle of Death
-*6th-level necromancy*
+*6th-level necromancy* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 150 feet

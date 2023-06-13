@@ -1,5 +1,5 @@
 #### Etherealness
-*7th-level transmutation*
+*7th-level transmutation* (Bard, Cleric, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

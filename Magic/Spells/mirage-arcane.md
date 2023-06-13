@@ -1,5 +1,5 @@
 #### Mirage Arcane
-*7th-level illusion*
+*7th-level illusion* (Bard, Druid, Wizard)
 ___
 - **Casting Time:** 10 minutes
 - **Range:** Sight

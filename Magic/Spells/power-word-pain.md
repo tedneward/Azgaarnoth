@@ -1,5 +1,5 @@
 #### Power Word Pain
-*7th-level enchantment*
+*7th-level enchantment* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

@@ -1,5 +1,5 @@
 #### Mordenkainen's Magnificent Mansion
-*7th-level conjuration*
+*7th-level conjuration* (Bard, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** 300 feet

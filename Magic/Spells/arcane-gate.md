@@ -1,5 +1,5 @@
 #### Arcane Gate
-*6th-level conjuration*
+*6th-level conjuration* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 500 feet

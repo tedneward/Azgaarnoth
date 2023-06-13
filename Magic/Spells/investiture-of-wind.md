@@ -1,5 +1,5 @@
 #### Investiture of Wind
-*6th-level transmutation*
+*6th-level transmutation* (Druid, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

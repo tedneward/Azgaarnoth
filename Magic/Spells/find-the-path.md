@@ -1,5 +1,5 @@
 #### Find the Path
-*6th-level divination*
+*6th-level divination* (Bard, Cleric, Druid)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Self

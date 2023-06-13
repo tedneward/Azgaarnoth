@@ -1,5 +1,5 @@
 #### Planar Ally
-*6th-level conjuration*
+*6th-level conjuration* (Cleric)
 ___
 - **Casting Time:** 10 minutes
 - **Range:** 60 feet

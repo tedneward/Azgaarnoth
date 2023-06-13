@@ -1,5 +1,5 @@
 #### Primordial Ward
-*6th-level abjuration*
+*6th-level abjuration* (Druid)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

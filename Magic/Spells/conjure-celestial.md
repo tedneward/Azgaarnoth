@@ -1,5 +1,5 @@
 #### Conjure Celestial
-*7th-level conjuration*
+*7th-level conjuration* (Cleric)
 ___
 - **Casting Time:** 1 minute
 - **Range:** 90 feet

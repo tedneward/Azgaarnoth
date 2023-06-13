@@ -1,5 +1,5 @@
 #### Otto's Irresistible Dance
-*6th-level enchantment*
+*6th-level enchantment* (Bard, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

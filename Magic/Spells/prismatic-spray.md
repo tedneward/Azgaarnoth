@@ -1,5 +1,5 @@
 #### Prismatic Spray
-*7th-level evocation*
+*7th-level evocation* (Bard, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (60-foot cone)

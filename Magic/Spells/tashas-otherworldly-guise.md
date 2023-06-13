@@ -1,5 +1,5 @@
 #### Tasha's Otherworldly Guise
-*6th-level transmutation*
+*6th-level transmutation* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

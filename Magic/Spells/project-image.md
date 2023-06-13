@@ -1,5 +1,5 @@
 #### Project Image
-*7th-level illusion*
+*7th-level illusion* (Bard, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 500 miles

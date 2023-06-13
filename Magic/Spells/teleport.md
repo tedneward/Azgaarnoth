@@ -1,5 +1,5 @@
 #### Teleport
-*7th-level conjuration*
+*7th-level conjuration* (Bard, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 10 feet

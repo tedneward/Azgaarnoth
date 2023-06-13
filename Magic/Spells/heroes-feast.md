@@ -1,5 +1,5 @@
 #### Heroes' Feast
-*6th-level conjuration*
+*6th-level conjuration* (Bard, Cleric, Druid)
 ___
 - **Casting Time:** 10 minutes
 - **Range:** 30 feet

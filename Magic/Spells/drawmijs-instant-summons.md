@@ -1,5 +1,5 @@
 #### Drawmij's Instant Summons
-*6th-level conjuration (ritual)*
+*6th-level conjuration (ritual)* (Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Touch

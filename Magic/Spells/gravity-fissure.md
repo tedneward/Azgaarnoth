@@ -1,5 +1,5 @@
 #### Gravity Fissure
-*6th-level evocation*
+*6th-level evocation* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (100-foot line)

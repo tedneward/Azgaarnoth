@@ -1,5 +1,5 @@
 #### Wall of Thorns
-*6th-level conjuration*
+*6th-level conjuration* (Druid)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

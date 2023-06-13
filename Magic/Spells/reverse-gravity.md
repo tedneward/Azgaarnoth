@@ -1,5 +1,5 @@
 #### Reverse Gravity
-*7th-level transmutation*
+*7th-level transmutation* (Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 100 feet

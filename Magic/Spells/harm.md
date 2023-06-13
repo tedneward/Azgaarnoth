@@ -1,5 +1,5 @@
 #### Harm
-*6th-level necromancy*
+*6th-level necromancy* (Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

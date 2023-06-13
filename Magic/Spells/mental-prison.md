@@ -1,5 +1,5 @@
 #### Mental Prison
-*6th-level illusion*
+*6th-level illusion* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

@@ -1,5 +1,5 @@
 #### Guards and Wards
-*6th-level abjuration*
+*6th-level abjuration* (Bard, Wizard)
 ___
 - **Casting Time:** 10 minutes
 - **Range:** Touch

@@ -1,5 +1,5 @@
 #### Move Earth
-*6th-level transmutation*
+*6th-level transmutation* (Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

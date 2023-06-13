@@ -1,5 +1,5 @@
 #### Simulacrum
-*7th-level illusion*
+*7th-level illusion* (Wizard)
 ___
 - **Casting Time:** 12 hours
 - **Range:** Touch

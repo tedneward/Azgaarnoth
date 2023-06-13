@@ -1,5 +1,5 @@
 # Bones of the Earth
-*6th-level transmutation*
+*6th-level transmutation* (Druid)
 
 **Casting Time:** 1 action
 

@@ -1,5 +1,5 @@
 #### Symbol
-*7th-level abjuration*
+*7th-level abjuration* (Bard, Cleric, Druid, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Touch

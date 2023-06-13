@@ -1,5 +1,5 @@
 #### Programmed Illusion
-*6th-level illusion*
+*6th-level illusion* (Bard, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

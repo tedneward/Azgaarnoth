@@ -1,5 +1,5 @@
 #### Blade Barrier
-*6th-level evocation*
+*6th-level evocation* (Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** 90 feet

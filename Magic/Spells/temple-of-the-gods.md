@@ -1,5 +1,5 @@
 #### Temple of the Gods
-*7th-level conjuration*
+*7th-level conjuration* (Cleric)
 ___
 - **Casting Time:** 1 hour
 - **Range:** 120 feet

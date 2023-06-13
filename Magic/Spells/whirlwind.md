@@ -1,5 +1,5 @@
 #### Whirlwind
-*7th-level evocation*
+*7th-level evocation* (Druid, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 300 feet

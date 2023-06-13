@@ -1,5 +1,5 @@
 # Crown of Stars
-*7th-level evocation*
+*7th-level evocation* (Sorcerer, Warlock, Wizard)
 
 **Casting Time:** 1 action
 

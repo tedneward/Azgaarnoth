@@ -1,5 +1,5 @@
 #### Word of Recall
-*6th-level conjuration*
+*6th-level conjuration* (Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** 5 feet

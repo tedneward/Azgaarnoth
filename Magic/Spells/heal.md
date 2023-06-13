@@ -1,5 +1,5 @@
 #### Heal
-*6th-level evocation*
+*6th-level evocation* (Cleric, Druid)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

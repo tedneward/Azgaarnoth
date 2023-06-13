@@ -1,5 +1,5 @@
 #### Sunbeam
-*6th-level evocation*
+*6th-level evocation* (Cleric, Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (60-foot line)

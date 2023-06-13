@@ -1,5 +1,5 @@
 #### Forbiddance
-*6th-level abjuration (ritual)*
+*6th-level abjuration (ritual)* (Cleric)
 ___
 - **Casting Time:** 10 minutes
 - **Range:** Touch
