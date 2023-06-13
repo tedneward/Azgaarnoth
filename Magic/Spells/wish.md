@@ -1,5 +1,5 @@
 #### Wish
-*9th-level conjuration*
+*9th-level conjuration* (Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

@@ -1,5 +1,5 @@
 #### Storm of Vengeance
-*9th-level conjuration*
+*9th-level conjuration* (Druid)
 ___
 - **Casting Time:** 1 action
 - **Range:** Sight

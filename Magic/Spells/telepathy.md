@@ -1,5 +1,5 @@
 #### Telepathy
-*8th-level evocation*
+*8th-level evocation* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Unlimited

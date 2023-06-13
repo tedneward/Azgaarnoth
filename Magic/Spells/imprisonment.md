@@ -1,5 +1,5 @@
 #### Imprisonment
-*9th-level abjuration*
+*9th-level abjuration* (Warlock, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** 30 feet

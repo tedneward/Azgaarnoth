@@ -1,5 +1,5 @@
 #### Blade of Disaster
-*9th-level conjuration*
+*9th-level conjuration* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 60 feet

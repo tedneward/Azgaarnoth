@@ -1,5 +1,5 @@
 #### Dominate Monster
-*8th-level enchantment*
+*8th-level enchantment* (Bard, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

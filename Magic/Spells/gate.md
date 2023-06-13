@@ -1,5 +1,5 @@
 #### Gate
-*9th-level conjuration*
+*9th-level conjuration* (Cleric, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

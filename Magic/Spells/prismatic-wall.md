@@ -1,5 +1,5 @@
 #### Prismatic Wall
-*9th-level abjuration*
+*9th-level abjuration* (Bard, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

@@ -1,5 +1,5 @@
 #### Maze
-*8th-level conjuration*
+*8th-level conjuration* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

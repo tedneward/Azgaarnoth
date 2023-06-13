@@ -1,5 +1,5 @@
 #### Weird
-*9th-level illusion*
+*9th-level illusion* (Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

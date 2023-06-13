@@ -1,5 +1,5 @@
 #### Antimagic Field
-*8th-level abjuration*
+*8th-level abjuration* (Cleric, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (10-foot radius)

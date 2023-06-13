@@ -1,5 +1,5 @@
 #### Animal Shapes
-*8th-level transmutation*
+*8th-level transmutation* (Druid)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

@@ -1,5 +1,5 @@
 #### Power Word Heal
-*9th-level evocation*
+*9th-level evocation* (Bard, Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

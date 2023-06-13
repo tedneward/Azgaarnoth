@@ -1,5 +1,5 @@
 #### Time Ravage
-*9th-level necromancy*
+*9th-level necromancy* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 90 feet

@@ -1,5 +1,5 @@
 #### Meteor Swarm
-*9th-level evocation*
+*9th-level evocation* (Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 1 mile

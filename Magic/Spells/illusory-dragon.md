@@ -1,5 +1,5 @@
 #### Illusory Dragon
-*8th-level illusion*
+*8th-level illusion* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

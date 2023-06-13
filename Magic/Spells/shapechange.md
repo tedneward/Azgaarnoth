@@ -1,5 +1,5 @@
 #### Shapechange
-*9th-level transmutation*
+*9th-level transmutation* (Druid, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

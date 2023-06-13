@@ -1,5 +1,5 @@
 #### Mass Polymorph
-*9th-level transmutation*
+*9th-level transmutation* (Bard, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

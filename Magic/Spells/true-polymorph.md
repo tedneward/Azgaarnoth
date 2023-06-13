@@ -1,5 +1,5 @@
 #### True Polymorph
-*9th-level transmutation*
+*9th-level transmutation* (Bard, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

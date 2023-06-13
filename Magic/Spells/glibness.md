@@ -1,5 +1,5 @@
 #### Glibness
-*8th-level transmutation*
+*8th-level transmutation* (Bard, Druid, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

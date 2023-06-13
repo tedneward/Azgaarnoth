@@ -1,5 +1,5 @@
 #### Clone
-*8th-level necromancy*
+*8th-level necromancy* (Wizard)
 ___
 - **Casting Time:** 1 hour
 - **Range:** Touch

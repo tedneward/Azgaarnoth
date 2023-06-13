@@ -1,5 +1,5 @@
 #### Incendiary Cloud
-*8th-level conjuration*
+*8th-level conjuration* (Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 150 feet

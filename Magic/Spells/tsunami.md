@@ -1,5 +1,5 @@
 #### Tsunami
-*8th-level conjuration*
+*8th-level conjuration* (Druid)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Sight

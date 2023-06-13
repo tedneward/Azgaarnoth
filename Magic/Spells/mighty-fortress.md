@@ -1,5 +1,5 @@
 #### Mighty Fortress
-*8th-level conjuration*
+*8th-level conjuration* (Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** 1 mile

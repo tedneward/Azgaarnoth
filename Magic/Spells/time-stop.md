@@ -1,5 +1,5 @@
 #### Time Stop
-*9th-level transmutation*
+*9th-level transmutation* (Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

@@ -1,5 +1,5 @@
 #### Demiplane
-*8th-level conjuration*
+*8th-level conjuration* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet
