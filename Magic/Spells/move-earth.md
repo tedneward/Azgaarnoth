@@ -1,5 +1,5 @@
 #### Move Earth
-*6th-level transmutation* (Druid, Sorcerer, Wizard)
+*6th-level transmutation* (Druid, Shaman, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet
@@ -15,5 +15,3 @@ Because the terrain's transformation occurs slowly, creatures in the area can't 
 This spell can't manipulate natural stone or stone construction. Rocks and structures shift to accommodate the new terrain. If the way you shape the terrain would make a structure unstable, it might collapse.
 
 Similarly, this spell doesn't directly affect plant growth. The moved earth carries any plants along with it.
-
-Shaman, 

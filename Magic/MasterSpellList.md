@@ -1,9 +1,5 @@
 # Master Spell List
-Complete list of all spells in Azgaarnoth, from all spell lists. 
-
- (Artificer, Bard, Cleric, Druid, Mystic, Paladin, Pale Master, Ranger, Shaman, Sorcerer, Warlock, Wizard)
-
-(Really need to build a markdown-spell-parser in Python or something, to be able to assemble some lists like this automatically.)
+Complete list of all spells in Azgaarnoth, from all spell lists. Compare this against MasterList to make sure there's nothing missing, and once that's reasonably clear, replace this file with one spelltool-generated.
 
 ## Cantrips
 * [acid splash](/Magic/Spells/acid-splash.md)
