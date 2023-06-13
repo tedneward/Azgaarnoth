@@ -1,5 +1,5 @@
 #### Shadow Blink
-*2nd-Level transmutation*
+*2nd-Level transmutation* (Bard, Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 Action
 - **Range:** Self

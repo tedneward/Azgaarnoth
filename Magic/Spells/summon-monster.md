@@ -1,5 +1,5 @@
 # Summon Monster
-*1st-level conjuration*
+*1st-level conjuration* (Druid, Ranger, Shaman, Sorcerer, Warlock, Wizard)
 
 **Casting Time**: 1 round
 
