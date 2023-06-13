@@ -1,5 +1,5 @@
 #### Thunderlance
-*4th-level evocation*
+*4th-level evocation* (Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

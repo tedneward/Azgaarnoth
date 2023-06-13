@@ -1,5 +1,5 @@
 #### Thunderous Reprisal
-*4th-level abjuration*
+*4th-level abjuration* (Artificer, Bard, Cleric, Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 reaction, which you take in response to being damaged by a creature within 30 feet of you that you can see
 - **Range:** Self (30-foot radius)

@@ -1,5 +1,5 @@
 # Attract Projectiles
-*1st-level abjuration*
+*1st-level abjuration* (Artificer, Bard, Cleric, Paladin, Ranger)
 
 **Casting Time:** 1 reaction, which you take when you or a creature within range is targeted with a ranged weapon attack, but before the attack roll
 
