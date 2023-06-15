@@ -54,26 +54,26 @@ d20|Quirk
 
 Level|Proficiency Bonus|Features|Talents Known|Disciplines Known|Psi Points|Psi Limit
 -----|-----------------|--------|-------------|-----------------|----------|---------
-1st|+2|1|1|4|Psionics, Mystic Order|2
-2nd|+2|1|1|6|Mystical Recovery, Telepathy|2
-3rd|+2|2|2|14|Mystic Order feature|3
-4th|+2|2|2|17|Ability Score Improvement, Strength of Mind|3
-5th|+3|2|3|27|—|5
-6th|+3|2|3|32|Mystic Order feature|5
-7th|+3|2|4|38|—|6
-8th|+3|2|4|44|Ability Score Improvement, Potent Psionics (1d8)|6
-9th|+4|2|5|57|—|7
-10th|+4|3|5|64|Consumptive Power|7
-11th|+4|3|5|64|Psionic Mastery (1/day|7
-12th|+4|3|6|64|Ability Score Improvement|7
-13th|+5|3|6|64|Psionic Mastery (2/day)|7
-14th|+5|3|6|64|Mystic Order feature, Potent Psionics (2d8)|7
-15th|+5|3|7|64|Psionic Mastery (3/day)|7
-16th|+5|3|7|64|Ability Score Improvement|7
-17th|+6|4|7|64|Psionic Mastery (4/day)|7
-18th|+6|4|8|71|—|7
-19th|+6|4|8|71|Ability Score Improvement|7
-20th|+6|4|8|71|Psionic Body|7
+1st|+2|Psionics, Mystic Order|1|1|4|2
+2nd|+2|Mystical Recovery, Telepathy|1|1|6|2
+3rd|+2|Mystic Order feature|2|2|14|3
+4th|+2|Ability Score Improvement, Strength of Mind|2|2|17|3
+5th|+3|—|2|3|27|5
+6th|+3|Mystic Order feature|2|3|32|5
+7th|+3|—|2|4|38|6
+8th|+3|Ability Score Improvement, Potent Psionics (1d8)|2|4|44|6
+9th|+4|—|2|5|57|7
+10th|+4|Consumptive Power|3|5|64|7
+11th|+4|Psionic Mastery (1/day)|3|5|64|7
+12th|+4|Ability Score Improvement|3|6|64|7
+13th|+5|Psionic Mastery (2/day)|3|6|64|7
+14th|+5|Mystic Order feature, Potent Psionics (2d8)|3|6|64|7
+15th|+5|Psionic Mastery (3/day)|3|7|64|7
+16th|+5|Ability Score Improvement|3|7|64|7
+17th|+6|Psionic Mastery (4/day)|4|7|64|7
+18th|+6|—|4|8|71|7
+19th|+6|Ability Score Improvement|4|8|71|7
+20th|+6|Psionic Body|4|8|71|7
 
 As a mystic, you gain the following class features.
 
