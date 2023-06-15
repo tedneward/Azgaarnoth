@@ -3,9 +3,13 @@ You have answered the call of the spirits of the ancestors, those bound to the b
 
 ## Obeisance of Ancestors
 Shamans who speak for the ancestors walk the line between life and death, mastering necromantic magic that many dare not explore. However, these shamans do not seek to exploit the dead in the way of many necromancers, and view life and death as inseparable halves of a single cycle. Theirs is a path of balance and understanding, not desecration and malice.
+
 **Family.** Above all else, ancestral spirits wish to watch over and protect their kin. Shamans who speak for these spirits often recognize the importance of family and cherish their relationships with those that share their blood. Such shamans are often quick to mediate in disputes between family members, hoping to keep such relationships from falling apart.
+
 **Acceptance.** Ancestral spirits do not attempt to fool themselves: they recognize and accept that every member of their families must someday die. Of those that once lived as mortals, few seek a return to life, content instead to watch over the world and influence it through the shamans that serve them. Shamans who are called to the ancestors are regularly confronted by their own mortality. Those who can accept this inevitability rarely attempt to avoid other unpleasant truths, accepting them for what they are and speaking of them bluntly.
+
 **Tradition.** Spirits of the ancestors can be born of many different eras, and many hold strongly to the way things were in their times. In many cases, traces of these old ways persist in traditions that have been passed down since those days. Ancestral shamans often express their reverence for the spirits by embracing traditions and helping to keep them alive. While such shamans may acknowledge the need for change in day-to-day affairs, they are often passionate about the need to preserve rituals and formalities from ages past.
+
 **Balance.** Ancestral spirits occupy a strange place, as they accept death but are still drawn to the living. No longer alive, but unwilling or unable to pass on to the realms of the dead, they exist in a precarious balance between life and death. The shamans of these spirits often see the point of balance in any situation as having special significance, and seek balance in all things. In some cases, balance may come in the form of a natural cycle: from the shadow of death, new life can emerge.
 
 **Speaker of Ancestors Calling Spells**

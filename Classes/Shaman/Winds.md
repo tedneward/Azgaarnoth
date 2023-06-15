@@ -3,9 +3,13 @@ You have answered the call of the spirits of air, unpredictable beings that are 
 
 ## Obeisance of Winds
 Shamans who speak for the wind embody the restlessness and freedom of air. Constantly driven onward by ambition and wanderlust, they rarely allow themselves to be tied down or their time to be wasted.
+
 **Aspiration.** The wind is never satisfied. No matter how far it has blown, it never rests for long before moving on after a new goal. Even if it has crossed the entire world, the wind will keep searching. In the same way, shamans who speak for the wind often feel driven to accomplish great things. Like the wind, they are rarely content with what they have achieved, always looking for something more.
+
 **Exploration.** No part of the world is beyond the reach of the wind, and it eagerly explores anywhere it has not been. Many shamans of the air share this wanderlust, becoming restless whenever others speak of lands or sights they have not seen. Wandering shamans who meet one another on their journeys often share stories with one another, and may well change course to explore what they hear from one another.
+
 **Independence.** Air and wind refuse to be tied down or denied. No shackle can hold the wind, and no words can command it. It is common for wind shamans to emulate this freedom and independence in their own lives, forming only fleeting connections with people and places. In some cases, a shaman gains this independence not through choice, but through loss.
+
 **Utility.** As it blows, the wind wears away the surface of all things. In the end, only the underlying structure of something truly lasts. For this reason, shamans of air often ignore ornamentation as pointless—what truly matters is the functional purpose. These utilitarian shamans do not discriminate based on appearances, but they also often forgo niceties in conversation.
 
 **Speaker of Winds Calling Spells**

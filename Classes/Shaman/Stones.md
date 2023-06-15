@@ -3,9 +3,13 @@ You have answered the call of the spirits of earth, reclusive tenders of the lan
 
 ## Obeisance of Stones
 Shamans who speak for stones embody the strength and vitality of the earth. They appreciate the world for the beauty and wonder that it contains, and will stand against any force in order to protect it.
+
 **Preservation.** Unlike the more volatile elements, earth and stone do not seek to change themselves or their environment. A boulder may roll down a mountainside, but, once it has found its place, it will remain there. Shamans who speak for stone tend towards contentment and acceptance of the world as it is. Rather than seeking change in the world, these shamans find it more important to preserve what exists and allow things to follow their natural course.
+
 **Diligence.** No matter what stands against it, stone endures. Drawing upon this endurance, stone-called shamans are indefatigable. No matter what stands in her way, a shaman will push through to complete her task or achieve her goal.
+
 **Growth.** While the earth does not change itself, it is the source of life and growth. Rich, healthy soil gives rise to lush vegetation, which in turn feeds a variety of animals. Viewing this interconnectivity as a grand structure that connects all things, many shamans of the earth seek to promote natural growth and allow themselves and those around them to flourish.
+
 **Beauty.** From dazzling gemstones to unusual rock formations, the earth is a source of wonders. It is common for shamans who are called to stone to have an appreciation for beauty, both in nature and in art. While shamans may not necessarily have any artistic talent of their own, they often have refined tastes, and will take the time to admire the works of others.
 
 **Speaker of Stones Calling Spells**

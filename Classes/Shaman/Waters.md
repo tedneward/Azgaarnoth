@@ -4,8 +4,11 @@ You have answered the call of the spirits of water, calm keepers of knowledge th
 ## Obeisance of Waters
 Shamans who speak for waters embody the depth and mystery of the seas. They value thought over action, and seek understanding of all things.
 **Reflection.** The seas do not seek to engulf the world, nor do they strive to build upon it. Instead, water contains the world within itself, reflecting everything that is. Rivers reflect the lands through which they flow, bringing knowledge of them to the seas. Similarly, a shaman of water is less concerned with making her mark on the world than she is with learning all that there is to learn. Wandering water shamans travel not out of whim or wanderlust, but out of an overwhelming thirst for understanding.
+
 **Placidity.** Even in the fiercest storm, only the surface of the sea is troubled: beneath the waves, all remains calm. Shamans called to the seas seek to emulate this placidity, rarely allowing outside events to provoke true emotional response.
+
 **Patience.** Though a river can wear down a mountain or carve out a valley, it does so slowly, over the course of decades. A single wave that crashes over the banks accomplishes nothing. Reflecting this, water shamans tend towards careful thought and extensive deliberation, rather than immediate action.
+
 **Austerity.** Those who are weighed down by possessions or luxuries will drown, unable to swim freely. Those shamans who speak for the waters eschew worldly goods and connections, viewing such things as unnecessary attachments that would sink them.
 
 **Speaker of Waters Calling Spells**

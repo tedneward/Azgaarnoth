@@ -3,10 +3,14 @@ You have answered the call of the spirits of fire, impetuous beings that delight
 
 ## Obeisance of Flames
 Shamans who speak for flames embody the passion and creativity of fire. Through their works and actions, they work to bring light to the world and joy to themselves and those around them.
+
 **Creation.** From the forge of a master smith to the seeds that can only sprout after a blaze, fire is inexorably
 linked to processes of transformation and creation. A fire shaman always has some piece of creative work that is in progress, though it can take anywhere from days to years for a piece to be completed. Wandering shamans tend to favor easily carried crafts such as whittling or scrimshaw.
+
 **Passion.** Just as flames burn high and low, emotions can flare up and die down. Shamans called to flames do not reign in or quash their emotions, nor do they attempt to calm themselves from the throes of passion. Instead, they listen to and act upon their feelings, often making judgments based more on emotion than logic.
+
 **Action.** The life of a flame is short and unpredictable, allowing little time for deliberation. Shamans of the flame often take a similar view of mortal life and choose to live in the moment, acting on their impulses instead of wasting time on sophistry.
+
 **Indulgence.** A fire does not refrain from burning its fuel—it consumes whatever is placed before it. So, too, do shamans of the fire indulge their desires. Whether for fine food, luxurious accommodations, or other amenities, a fire shaman seeks satisfaction and enjoyment from life.
 
 **Speaker of Flames Calling Spells**
