@@ -1,5 +1,5 @@
 #### True Seeing
-*6th-level divination* (Bard, Cleric, Shaman, Sorcerer, Warlock, Wizard)
+*6th-level divination* (Bard, Cleric, Pale Master, Shaman, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

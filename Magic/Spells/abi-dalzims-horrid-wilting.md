@@ -1,5 +1,5 @@
 # Abi-Dalzim's Horrid Wilting
-*8th-level necromancy* (Sorcerer, Wizard)
+*8th-level necromancy* (Pale Master, Sorcerer, Wizard)
 
 **Casting Time:** 1 action
 

@@ -1,5 +1,5 @@
 #### Mind Blank
-*8th-level abjuration* (Bard, Wizard)
+*8th-level abjuration* (Bard, Pale Master, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

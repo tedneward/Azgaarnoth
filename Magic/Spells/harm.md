@@ -1,5 +1,5 @@
 #### Harm
-*6th-level necromancy* (Cleric)
+*6th-level necromancy* (Cleric, Pale Master)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

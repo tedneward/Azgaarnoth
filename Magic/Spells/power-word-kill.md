@@ -1,5 +1,5 @@
 #### Power Word Kill
-*9th-level enchantment* (Bard, Sorcerer, Warlock, Wizard)
+*9th-level enchantment* (Bard, Pale Master, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

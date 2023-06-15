@@ -1,5 +1,5 @@
 #### Resurrection
-*7th-level necromancy* (Bard, Cleric)
+*7th-level necromancy* (Bard, Cleric, Pale Master)
 ___
 - **Casting Time:** 1 hour
 - **Range:** Touch

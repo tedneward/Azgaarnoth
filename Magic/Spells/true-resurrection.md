@@ -1,5 +1,5 @@
 #### True Resurrection
-*9th-level necromancy* (Cleric, Druid, Shaman)
+*9th-level necromancy* (Cleric, Druid, Pale Master, Shaman)
 ___
 - **Casting Time:** 1 hour
 - **Range:** Touch

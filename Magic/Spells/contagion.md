@@ -1,5 +1,5 @@
 #### Contagion
-*5th-level necromancy* (Cleric, Druid)
+*5th-level necromancy* (Cleric, Druid, Pale Master)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

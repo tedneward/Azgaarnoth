@@ -1,5 +1,5 @@
 #### Finger of Death
-*7th-level necromancy* (Sorcerer, Warlock, Wizard)
+*7th-level necromancy* (Pale Master, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

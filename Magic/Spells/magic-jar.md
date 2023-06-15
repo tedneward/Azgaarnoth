@@ -1,5 +1,5 @@
 #### Magic Jar
-*6th-level necromancy* (Wizard)
+*6th-level necromancy* (Pale Master, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Self

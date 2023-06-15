@@ -1,5 +1,5 @@
 #### Hallow
-*5th-level evocation* (Cleric)
+*5th-level evocation* (Cleric, Pale Master)
 ___
 - **Casting Time:** 24 hours
 - **Range:** Touch

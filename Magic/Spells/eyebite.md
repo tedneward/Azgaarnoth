@@ -1,5 +1,5 @@
 #### Eyebite 
-*6th-level necromancy* (Bard, Sorcerer, Warlock, Wizard)
+*6th-level necromancy* (Bard, Pale Master, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

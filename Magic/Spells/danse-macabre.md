@@ -1,5 +1,5 @@
 #### Danse Macabre
-*5th-level necromancy* (Warlock, Wizard)
+*5th-level necromancy* (Pale Master, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet
