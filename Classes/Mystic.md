@@ -106,7 +106,7 @@ As a student of psionics, you can master and use psionic talents and disciplines
 A [psionic talent](Mystic/Talents.md) is a minor psionic effect you have mastered. At 1st level, you know one psionic talent of your choice. You learn additional talents of your choice at higher levels. The Talents Known column of the Mystic table shows the total number of talents you know at each level; when that number goes up for you, choose a new talent.
 
 ### Psionic Disciplines
-A [psionic discipline](Mystic/PsiDisciplines.md) is a rigid set of mental exercises that allows a mystic to manifest psionic power. A mystic masters only a few disciplines at a time.
+A [psionic discipline](Mystic/Disciplines.md) is a rigid set of mental exercises that allows a mystic to manifest psionic power. A mystic masters only a few disciplines at a time.
 
 At 1st level, you know one psionic discipline of your choice. The Disciplines Known column of the Mystic table shows the total number of disciplines you know at each level; when that number goes up for you, choose a new discipline.
 

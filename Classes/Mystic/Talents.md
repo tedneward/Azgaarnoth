@@ -1,5 +1,6 @@
 # Psionic Talents
 Psionic talents are minor abilities that require psionic aptitude but don’t drain a mystic’s reservoir of psionic power. Talents are similar to disciplines and use the same rules, but with three important exceptions:
+
 * You can never use your psychic focus on a talent.
 * Talents don’t require you to spend psi points to use them.
 * Talents aren’t linked to Mystic Orders.
