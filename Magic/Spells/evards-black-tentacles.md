@@ -1,5 +1,5 @@
 #### Evard's Black Tentacles
-*4th-level conjuration* (Wizard)
+*4th-level conjuration* (Pale Master, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 90 feet

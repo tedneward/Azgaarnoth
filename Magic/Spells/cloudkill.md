@@ -1,5 +1,5 @@
 #### Cloudkill
-*5th-level conjuration* (Sorcerer, Wizard)
+*5th-level conjuration* (Pale Master, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

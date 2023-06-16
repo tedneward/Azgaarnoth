@@ -1,5 +1,5 @@
 #### Blight
-*4th-level necromancy* (Druid, Sorcerer, Warlock, Wizard)
+*4th-level necromancy* (Druid, Pale Master, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

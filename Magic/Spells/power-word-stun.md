@@ -1,5 +1,5 @@
 #### Power Word Stun
-*8th-level enchantment* (Bard, Sorcerer, Warlock, Wizard)
+*8th-level enchantment* (Bard, Pale Master, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

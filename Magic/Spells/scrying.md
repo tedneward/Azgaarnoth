@@ -1,5 +1,5 @@
 #### Scrying
-*5th-level divination* (Bard, Cleric, Druid, Shaman, Warlock, Wizard)
+*5th-level divination* (Bard, Cleric, Druid, Pale Master, Shaman, Warlock, Wizard)
 ___
 - **Casting Time:** 10 minutes
 - **Range:** Self

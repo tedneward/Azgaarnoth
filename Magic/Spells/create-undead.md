@@ -1,5 +1,5 @@
 #### Create Undead
-*6th-level necromancy* (Cleric, Warlock, Wizard)
+*6th-level necromancy* (Cleric, Pale Master, Warlock, Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** 10 feet

@@ -1,5 +1,5 @@
 #### Forcecage
-*7th-level evocation* (Bard, Warlock, Wizard)
+*7th-level evocation* (Bard, Pale Master, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 100 feet

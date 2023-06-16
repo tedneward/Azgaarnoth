@@ -5,6 +5,7 @@ Psionic disciplines were each discovered by different orders and tend to reflect
 
 ## Using a Discipline
 Each psionic discipline has several ways you can use it, all contained in its description. The discipline specifies the type of action and number of psi points it requires. It also details whether you must concentrate on its effects, how many targets it affects, what saving throws it requires, and so on.
+
 The following sections go into more detail on using a discipline. Psionic disciplines are magical and function similarly to spells.
 
 ### Psychic Focus
@@ -41,3 +42,4 @@ The effects of different psionic disciplines add together while the durations of
 
 Psionics and spells are separate effects, and therefore their benefits and drawbacks overlap. A psionic effect that reproduces a spell is an exception to this rule.
 
+The full list of disciplines is [here](/Magic/Disciplines/).

@@ -1,5 +1,5 @@
 #### Astral Projection
-*9th-level necromancy* (Cleric, Shaman, Warlock, Wizard)
+*9th-level necromancy* (Cleric, Pale Master, Shaman, Warlock, Wizard)
 ___
 - **Casting Time:** 1 hour
 - **Range:** 10 feet

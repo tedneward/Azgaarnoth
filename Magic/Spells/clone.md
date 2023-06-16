@@ -1,5 +1,5 @@
 #### Clone
-*8th-level necromancy* (Wizard)
+*8th-level necromancy* (Pale Master, Wizard)
 ___
 - **Casting Time:** 1 hour
 - **Range:** Touch

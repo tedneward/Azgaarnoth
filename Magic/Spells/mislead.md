@@ -1,5 +1,5 @@
 #### Mislead
-*5th-level illusion* (Bard, Warlock, Wizard)
+*5th-level illusion* (Bard, Pale Master, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

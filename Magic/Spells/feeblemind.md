@@ -1,5 +1,5 @@
 #### Feeblemind
-*8th-level enchantment* (Bard, Druid, Warlock, Wizard)
+*8th-level enchantment* (Bard, Druid, Pale Master, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 150 feet

@@ -1,5 +1,6 @@
 # Mystic Order: Order of the Soul Knife
 The Order of the Soul Knife sacrifices the breadth of knowledge other mystics gain to focus on a specific psionic technique. These mystics learn to manifest a deadly weapon of pure psychic energy that they can use to cleave through foes.
+
 Soul knives vary widely in their approach to this path. Some follow it out of a desire to achieve martial perfection. Others are ruthless assassins who seek to become the perfect killer.
 
 ## Martial Training
@@ -14,6 +15,7 @@ As a bonus action, you can prepare to use the blades to parry; you gain a +2 bon
 
 ## Hone the Blade
 Starting at 3rd level, you can spend psi points to augment your soul knife’s attack rolls and damage. You gain a bonus to attack and damage rolls with your soul knives depending on the number of psi points spent, as shown on the table below. This bonus lasts for 10 minutes.
+
 Psi Points|Attack and Damage Bonus
 ----------|-------------------
 2|+1

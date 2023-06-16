@@ -1,5 +1,5 @@
 #### Shadow of Moil
-*4th-level necromancy* (Warlock)
+*4th-level necromancy* (Pale Master, Warlock)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

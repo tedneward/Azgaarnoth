@@ -1,5 +1,5 @@
 #### Phantasmal Killer
-*4th-level illusion* (Bard, Wizard)
+*4th-level illusion* (Bard, Pale Master, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

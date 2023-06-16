@@ -1,5 +1,5 @@
 #### Soul Cage
-*6th-level necromancy* (Warlock, Wizard)
+*6th-level necromancy* (Pale Master, Warlock, Wizard)
 ___
 - **Casting Time:** 1 reaction, which you take when a humanoid you can see within 60 feet of you dies
 - **Range:** 60 feet

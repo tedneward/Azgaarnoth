@@ -1,5 +1,5 @@
 #### Disintegrate
-*6th-level transmutation* (Sorcerer, Wizard)
+*6th-level transmutation* (Pale Master, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet
