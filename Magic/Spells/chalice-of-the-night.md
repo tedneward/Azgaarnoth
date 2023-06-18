@@ -1,5 +1,5 @@
 # Chalice of the Night
-*8th-level necromancy*
+*8th-level necromancy* (Pale Master, Warlock, Wizard)
 
 **Casting Time:** 1 hour
 

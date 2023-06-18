@@ -1,5 +1,5 @@
 # Wall
-*5th-level abjuration*
+*5th-level abjuration* (Sorcerer, Wizard)
 
 **Casting Time:** 1 reaction, which you take when you are hit by an attack or targeted by the [magic missile](/Magic/Spells/magic-missile.md) spell
 
