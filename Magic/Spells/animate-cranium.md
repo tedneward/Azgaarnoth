@@ -10,4 +10,4 @@ You infuse a skull with dark energy, granting it the foul mimicry of life. The s
 
 For the duration, if the skull is destroyed while the spell is active, the dark energies seep out the remains. Every creature within a 15-foot radius circle around the skull must make a Constitution saving throw or take 2d4 necrotic damage. You can only animate one cranium with this spell at a time. If you cast this spell again, the other animated cranium is destroyed, dealing the necrotic damage.
 
-**At Higher Levels.** If you cast this spell using a spell slot of 3rd level or higher, the Duration is 24 hours. If you use a spell slot of 5th level or higher, the Duration is 10 days. If you use a spell slot of 7th level or higher, the Duration is 30 days. If you use a 9th level spell slot, the spell lasts until it is dispelled.
+***At Higher Levels.*** If you cast this spell using a spell slot of 3rd level or higher, the Duration is 24 hours. If you use a spell slot of 5th level or higher, the Duration is 10 days. If you use a spell slot of 7th level or higher, the Duration is 30 days. If you use a 9th level spell slot, the spell lasts until it is dispelled.

@@ -10,4 +10,4 @@ You weave warding magic that attracts weapon projectiles such as arrows, javelin
 
 Until the start of your next turn, your magic enables you to continue attracting projectiles. You can choose to make any ranged weapon attacks that target a creature you can see within 30 feet target you instead even if the attacker cannot see you. Projectiles attracted by this spell are pulled toward you around corners and obstacles, avoiding cover if possible.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the temporary hit points gained increase by 2d6 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the temporary hit points gained increase by 2d6 for each slot level above 1st.
