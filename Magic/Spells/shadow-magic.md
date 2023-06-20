@@ -1,5 +1,5 @@
 # Shadow Magic
-*5th-level illusion* (Wizard)
+*5th-level illusion* (Sorcerer, Warlock, Wizard)
 
 **Casting Time**: 1 action
 

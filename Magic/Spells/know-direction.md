@@ -1,5 +1,5 @@
 # Know Direction
-*Divination cantrip* (Wizard)
+*Divination cantrip* (Druid, Wizard)
 
 **Casting Time**: 1 action
 

@@ -1,5 +1,5 @@
 # Earthen Grace
-*1st-level abjuration* (Wizard)
+*1st-level abjuration* (Druid, Ranger, Sorcerer, Wizard)
 
 **Casting Time**: 1 action
 

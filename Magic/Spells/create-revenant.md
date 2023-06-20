@@ -1,5 +1,5 @@
 # Create Revenant
-*7th-level necromancy* (Pale Master, Wizard)
+*7th-level necromancy* (Cleric, Pale Master, Warlock, Wizard)
 
 **Casting Time**: 10 minutes
 
