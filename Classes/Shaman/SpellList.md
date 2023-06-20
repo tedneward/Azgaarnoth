@@ -88,8 +88,10 @@
 * [Stoneskin](../../Magic/Spells/stoneskin.md)
  
 ## 5th-Level Spells
+* [Armor of Bones](../../Magic/Spells/armor-of-bones.md)
 * [Contact Other Plane](../../Magic/Spells/contact-other-plane.md)
 * [Hold Monster](../../Magic/Spells/hold-monster.md)
+* [Ilmater's Fortune](../../Magic/Spells/ilmaters-fortune.md)
 * [Scrying](../../Magic/Spells/scrying.md)
 * [Summon Draconic Spirit](../../Magic/Spells/summon-draconic-spirit.md)
 * [Telekinesis](../../Magic/Spells/telekinesis.md)
@@ -100,6 +102,8 @@
 * [Chain Lightning](../../Magic/Spells/chain-lightning.md)
 * [Find the Path](../../Magic/Spells/find-the-path.md)
 * [Heroes' Feast](../../Magic/Spells/heroes-feast.md)
+* [Inevitable Winter](../../Magic/Spells/inevitable-winter.md)
+* [Mantle of Malar](../../Magic/Spells/mantle-of-malar.md)
 * [Mass Suggestion](../../Magic/Spells/mass-suggestion.md)
 * [Move Earth](../../Magic/Spells/move-earth.md)
 * [Sunbeam](../../Magic/Spells/sunbeam.md)
@@ -109,6 +113,7 @@
 * [Wind Walk](../../Magic/Spells/wind-walk.md)
  
 ## 7th-Level Spells
+* [Conjure Shambling Mound](../../Magic/Spells/conjure-shambling-mound.md)
 * [Etherealness](../../Magic/Spells/etherealness.md)
 * [Mirage Arcane](../../Magic/Spells/mirage-arcane.md)
 * [Plane Shift](../../Magic/Spells/plane-shift.md)
