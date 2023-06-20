@@ -6,24 +6,22 @@ ___
 - **Components:** V, S, M (a slaad's eye)
 - **Duration:** Instantaneous
 ---
-A shimmering hammer made of multicolored light
-appears above you and slams into the ground,
-exploding into a terrifying energy blast. Every
-creature within range must make a Dexterity saving
-throw. Creatures that are not of chaotic alignment
-take 8d8 damage on a failed save, or half as much
-on a success. Creatures of chaotic alignment do not
-take damage equal to the total rolled; instead, such
-creatures only take damage equal to the highest
-number rolled on any one of the damage dice, or
-half that much on a success.
-Creatures that are not of lawful or chaotic
-alignment (such as neutral or unaligned creatures)
-have resistance against all damage from this spell.
-Immediately after you roll dice for the damage of
-this spell, you count the total number of those
-damage dice that roll an even number. That total
-determines the type of the damage, as follows:
-At Higher Levels. You can cast this spell using a
-5th level or higher spell slot. It does an extra 1d8
-damage for every spell slot above 4th.
+A shimmering hammer made of multicolored light appears above you and slams into the ground, exploding into a terrifying energy blast. Every creature within range must make a Dexterity saving throw. Creatures that are not of chaotic alignment take 8d8 damage on a failed save, or half as much on a success. Creatures of chaotic alignment do not take damage equal to the total rolled; instead, such creatures only take damage equal to the highest number rolled on any one of the damage dice, or half that much on a success.
+
+Creatures that are not of lawful or chaotic alignment (such as neutral or unaligned creatures) have resistance against all damage from this spell.
+
+Immediately after you roll dice for the damage of this spell, you count the total number of those damage dice that roll an even number. That total determines the type of the damage, as follows:
+
+Number of Damage Dice that Rolled Even Numbers | Damage Type
+---- | ----------
+None | Psychic
+1 | Poison
+2 | Acid
+3 | Cold
+4 | Fire
+5 | Lightning
+6 | Thunder
+7 | Necrotic
+8 or more | Radiant
+
+***At Higher Levels.*** You can cast this spell using a 5th level or higher spell slot. It does an extra 1d8 damage for every spell slot above 4th.
