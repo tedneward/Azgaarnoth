@@ -57,133 +57,138 @@ class Spell:
 
         spell.filename = spellfile
         file = open(spellfile, 'r')
-        lines = file.readlines()
 
-        if lines[0].startswith('####'):
-            # The #### form is something I downloaded from the Web, but prefer it
-            # as a display format. THis is likely to be the format most often
-            # encountered when parsing spells from this repository.
-            spell.name = lines[0][5:].strip()
+        try:
+            lines = file.readlines()
 
-            subtitle = lines[1].replace('*', '')
+            if lines[0].startswith('####'):
+                # The #### form is something I downloaded from the Web, but prefer it
+                # as a display format. THis is likely to be the format most often
+                # encountered when parsing spells from this repository.
+                spell.name = lines[0][5:].strip()
 
-            # Does subtitle have "ritual" in it?
-            if subtitle.find("(ritual)") > 0:
-                spell.ritual = True
-                subtitle = subtitle.replace('(ritual)', '')
-                subtitle = subtitle.replace('ritual', '')
+                subtitle = lines[1].replace('*', '')
 
-            spell.classes = extractClasses(subtitle)
-            if spell.classes == []:
-                pass # print("WARNING: No classes found in parse: " + spell.filename)
-            else:
-                classStartIdx = subtitle.find('(')
-                subtitle = subtitle[0:classStartIdx]
+                # Does subtitle have "ritual" in it?
+                if subtitle.find("(ritual)") > 0:
+                    spell.ritual = True
+                    subtitle = subtitle.replace('(ritual)', '')
+                    subtitle = subtitle.replace('ritual', '')
 
-            if subtitle.startswith("1st-"):
-                spell.level = "1st"
-                spell.type = subtitle[10:].strip()
-            elif subtitle.startswith("2nd-"):
-                spell.level = "2nd"
-                spell.type = subtitle[10:].strip()
-            elif subtitle.startswith("3rd-"):
-                spell.level = "3rd"
-                spell.type = subtitle[10:].strip()
-            elif subtitle.startswith("4th-"):
-                spell.level = "4th"
-                spell.type = subtitle[10:].strip()
-            elif subtitle.startswith("5th-"):
-                spell.level = "5th"
-                spell.type = subtitle[10:].strip()
-            elif subtitle.startswith("6th-"):
-                spell.level = "6th"
-                spell.type = subtitle[10:].strip()
-            elif subtitle.startswith("7th-"):
-                spell.level = "7th"
-                spell.type = subtitle[10:].strip()
-            elif subtitle.startswith("8th-"):
-                spell.level = "8th"
-                spell.type = subtitle[10:].strip()
-            elif subtitle.startswith("9th-"):
-                spell.level = "9th"
-                spell.type = subtitle[10:].strip()
-            else:
-                spell.level = "cantrip"
-                # need to get spell type
-                typeEndIdx = subtitle.find("antrip") - 1
-                spell.type = subtitle[0:typeEndIdx].strip()
+                spell.classes = extractClasses(subtitle)
+                if spell.classes == []:
+                    pass # print("WARNING: No classes found in parse: " + spell.filename)
+                else:
+                    classStartIdx = subtitle.find('(')
+                    subtitle = subtitle[0:classStartIdx]
 
-            # lines[2] is ___
-            spell.casting_time = lines[3][20:].strip() # - **Casting Time:** 1 action
-            spell.range = lines[4][13:].strip() # - **Range:** 120 feet
-            spell.components = lines[5][18:].strip() # - **Components:** V, S, M (a small piece of phosphorus)
-            spell.duration = lines[6][16:].strip() # - **Duration:** Concentration, up to 1 minute
-            # lines[7[ is ---
-            spell.description = lines[8:]
+                if subtitle.startswith("1st-"):
+                    spell.level = "1st"
+                    spell.type = subtitle[10:].strip()
+                elif subtitle.startswith("2nd-"):
+                    spell.level = "2nd"
+                    spell.type = subtitle[10:].strip()
+                elif subtitle.startswith("3rd-"):
+                    spell.level = "3rd"
+                    spell.type = subtitle[10:].strip()
+                elif subtitle.startswith("4th-"):
+                    spell.level = "4th"
+                    spell.type = subtitle[10:].strip()
+                elif subtitle.startswith("5th-"):
+                    spell.level = "5th"
+                    spell.type = subtitle[10:].strip()
+                elif subtitle.startswith("6th-"):
+                    spell.level = "6th"
+                    spell.type = subtitle[10:].strip()
+                elif subtitle.startswith("7th-"):
+                    spell.level = "7th"
+                    spell.type = subtitle[10:].strip()
+                elif subtitle.startswith("8th-"):
+                    spell.level = "8th"
+                    spell.type = subtitle[10:].strip()
+                elif subtitle.startswith("9th-"):
+                    spell.level = "9th"
+                    spell.type = subtitle[10:].strip()
+                else:
+                    spell.level = "cantrip"
+                    # need to get spell type
+                    typeEndIdx = subtitle.find("antrip") - 1
+                    spell.type = subtitle[0:typeEndIdx].strip()
 
-        elif lines[0].startswith('#'):
-            # This form is one I originally used, and it's more bare-boned
-            # but somewhat easier to translate from cut/pasted PDF sources.
-            # A future form might remove the blank lines but let's see.
-            spell.name = lines[0][2:].replace('\n', '')
+                # lines[2] is ___
+                spell.casting_time = lines[3][20:].strip() # - **Casting Time:** 1 action
+                spell.range = lines[4][13:].strip() # - **Range:** 120 feet
+                spell.components = lines[5][18:].strip() # - **Components:** V, S, M (a small piece of phosphorus)
+                spell.duration = lines[6][16:].strip() # - **Duration:** Concentration, up to 1 minute
+                # lines[7[ is ---
+                spell.description = lines[8:]
 
-            subtitle = lines[1].replace('*', '') # *1st-level necromancy (ritual)* (classes)
-            subtitle = lines[1].replace('*', '')
+            elif lines[0].startswith('#'):
+                # This form is one I originally used, and it's more bare-boned
+                # but somewhat easier to translate from cut/pasted PDF sources.
+                # A future form might remove the blank lines but let's see.
+                spell.name = lines[0][2:].replace('\n', '')
 
-            # Does subtitle have "ritual" in it?
-            if subtitle.find("ritual") > 0:
-                spell.ritual = True
-                subtitle = subtitle.replace('(ritual)', '')
-                subtitle = subtitle.replace('ritual', '')
+                subtitle = lines[1].replace('*', '') # *1st-level necromancy (ritual)* (classes)
+                subtitle = lines[1].replace('*', '')
 
-            spell.classes = extractClasses(subtitle)
-            if spell.classes == []:
-                pass # print("WARNING: No classes found in parse: " + spell.filename)
-            else:
-                classStartIdx = subtitle.find('(')
-                subtitle = subtitle[0:classStartIdx]
+                # Does subtitle have "ritual" in it?
+                if subtitle.find("ritual") > 0:
+                    spell.ritual = True
+                    subtitle = subtitle.replace('(ritual)', '')
+                    subtitle = subtitle.replace('ritual', '')
 
-            if subtitle.startswith("1st-"):
-                spell.level = "1st"
-                spell.type = subtitle[10:].strip()
-            elif subtitle.startswith("2nd-"):
-                spell.level = "2nd"
-                spell.type = subtitle[10:].strip()
-            elif subtitle.startswith("3rd-"):
-                spell.level = "3rd"
-                spell.type = subtitle[10:].strip()
-            elif subtitle.startswith("4th-"):
-                spell.level = "4th"
-                spell.type = subtitle[10:].strip()
-            elif subtitle.startswith("5th-"):
-                spell.level = "5th"
-                spell.type = subtitle[10:].strip()
-            elif subtitle.startswith("6th-"):
-                spell.level = "6th"
-                spell.type = subtitle[10:].strip()
-            elif subtitle.startswith("7th-"):
-                spell.level = "7th"
-                spell.type = subtitle[10:].strip()
-            elif subtitle.startswith("8th-"):
-                spell.level = "8th"
-                spell.type = subtitle[10:].strip()
-            elif subtitle.startswith("9th-"):
-                spell.level = "9th"
-                spell.type = subtitle[10:].strip()
-            else:
-                spell.level = "cantrip"
-                cantripIdx = subtitle.find(" cantrip")
-                spell.type = subtitle[0:cantripIdx]
-            # lines[2] is blank
-            spell.casting_time = lines[3][18:].strip() # **Casting Time:** 1 action 
-            # lines[4] is blank
-            spell.range = lines[5][11:].strip() # **Range:** 60 feet
-            # lines[6] is blank
-            spell.components = lines[7][16:].strip() # **Components:** V, S
-            # lines[8] is blank
-            spell.duration = lines[9][14:].strip() # **Duration:** 1 hour
-            # lines[10] is blank
-            spell.description = lines[11:]
+                spell.classes = extractClasses(subtitle)
+                if spell.classes == []:
+                    pass # print("WARNING: No classes found in parse: " + spell.filename)
+                else:
+                    classStartIdx = subtitle.find('(')
+                    subtitle = subtitle[0:classStartIdx]
+
+                if subtitle.startswith("1st-"):
+                    spell.level = "1st"
+                    spell.type = subtitle[10:].strip()
+                elif subtitle.startswith("2nd-"):
+                    spell.level = "2nd"
+                    spell.type = subtitle[10:].strip()
+                elif subtitle.startswith("3rd-"):
+                    spell.level = "3rd"
+                    spell.type = subtitle[10:].strip()
+                elif subtitle.startswith("4th-"):
+                    spell.level = "4th"
+                    spell.type = subtitle[10:].strip()
+                elif subtitle.startswith("5th-"):
+                    spell.level = "5th"
+                    spell.type = subtitle[10:].strip()
+                elif subtitle.startswith("6th-"):
+                    spell.level = "6th"
+                    spell.type = subtitle[10:].strip()
+                elif subtitle.startswith("7th-"):
+                    spell.level = "7th"
+                    spell.type = subtitle[10:].strip()
+                elif subtitle.startswith("8th-"):
+                    spell.level = "8th"
+                    spell.type = subtitle[10:].strip()
+                elif subtitle.startswith("9th-"):
+                    spell.level = "9th"
+                    spell.type = subtitle[10:].strip()
+                else:
+                    spell.level = "cantrip"
+                    cantripIdx = subtitle.find(" cantrip")
+                    spell.type = subtitle[0:cantripIdx]
+                # lines[2] is blank
+                spell.casting_time = lines[3][18:].strip() # **Casting Time:** 1 action 
+                # lines[4] is blank
+                spell.range = lines[5][11:].strip() # **Range:** 60 feet
+                # lines[6] is blank
+                spell.components = lines[7][16:].strip() # **Components:** V, S
+                # lines[8] is blank
+                spell.duration = lines[9][14:].strip() # **Duration:** 1 hour
+                # lines[10] is blank
+                spell.description = lines[11:]
+
+        except UnicodeDecodeError:
+            print("Error parsing " + spellfile)
 
         file.close()
         return spell
@@ -377,6 +382,8 @@ def main():
                     print(spell.name + ": No parsed components")
                 if spell.duration == "":
                     print(spell.name + ": No parsed duration")
+                if (" ".join(spell.description).find("At Higher Levels") > -1) and (" ".join(spell.description).find("***At Higher Levels") < 0):
+                    print(spell.name + ": At Higher Levels probably not bolded")
 
     def snakecasefilename(name):
         return name.replace(' ', '-').replace('\'', '').replace('/', '-').lower()

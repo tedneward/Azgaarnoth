@@ -1,5 +1,5 @@
 #### Pilfer
-*enchantment cantrip* (Sorcerer, Wizard)
+*enchantment cantrip (Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30ft

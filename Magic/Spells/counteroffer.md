@@ -1,5 +1,5 @@
 #### Counteroffer
-*3rd-level enchantment* (Bard, Cleric, Warlock)
+*3rd-level enchantment* (Bard,Cleric,Warlock)
 ___
 - **Casting Time:** 1 reaction, which you take when you see a creature within 60 feet of you make an attack roll.
 - **Range:** 60ft
