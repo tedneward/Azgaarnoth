@@ -1,5 +1,5 @@
 # Shifting Shadow
-*Conjuration cantrip* (Wizard)
+*Conjuration cantrip* (Sorcerer, Warlock, Wizard)
 
 **Casting Time**: 1 action
 

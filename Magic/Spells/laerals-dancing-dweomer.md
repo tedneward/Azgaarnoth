@@ -1,5 +1,5 @@
 # Laeral's Dancing Dweomer
-*3rd-level illusion* (Wizard)
+*3rd-level illusion* (Artificer, Sorcerer, Wizard)
 
 **Casting Time**: 1 reaction, which you take when any creature within range casts a spell, begins its turn, or ends its turn
 
