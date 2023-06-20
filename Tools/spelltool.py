@@ -228,7 +228,8 @@ class Spell:
         if self.level == "cantrip":
             text += self.type + " " + self.level
         else:
-            text += self.level + "-level " + self.type + "*"
+            text += self.level + "-level " + self.type
+        text += "*"
 
         if self.ritual:
             text += " *(ritual)*"
