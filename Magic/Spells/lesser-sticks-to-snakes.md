@@ -1,4 +1,4 @@
-#### Sticks to Snakes
+#### Lesser Sticks to Snakes
 *2nd-level transmutation* (Cleric,Druid,Ranger)
 ___
 - **Casting Time:** 1 action

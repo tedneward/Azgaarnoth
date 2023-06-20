@@ -1,4 +1,4 @@
-#### Maelstrom
+#### Greater Maelstrom
 *8th-level conjuration* (Druid)
 ___
 - **Casting Time:** 1 action
@@ -14,6 +14,7 @@ water that is caught within 60 feet of the vortex
 must make a Dexterity saving throw. On a failed
 save, the creature is sucked into the vortex's
 swirling waters.
+
 A creature that starts its turn within the vortex's
 swirling waters must make a Dexterity saving
 throw. On a failed save, the creature takes 2d6
@@ -27,6 +28,7 @@ center. On a success, the creature can swim at half
 its speed, unless it has a swimming speed, in which
 case it can use this full movement. On a failed
 check, the creature doesn't make any progress.
+
 A creature that starts its turn in the vortex's
 center, must make a Strength saving throw. On a
 failed save, the creature takes 2d6 bludgeoning
