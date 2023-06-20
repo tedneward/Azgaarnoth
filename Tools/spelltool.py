@@ -122,6 +122,7 @@ class Spell:
                 spell.duration = lines[6][16:].strip() # - **Duration:** Concentration, up to 1 minute
                 # lines[7[ is ---
                 spell.description = lines[8:]
+                # pull "At Higher Levels" out of the description, if present
 
             elif lines[0].startswith('#'):
                 # This form is one I originally used, and it's more bare-boned
@@ -186,11 +187,13 @@ class Spell:
                 spell.duration = lines[9][14:].strip() # **Duration:** 1 hour
                 # lines[10] is blank
                 spell.description = lines[11:]
+                # pull "At Higher Levels" out of the description, if present
 
-        except UnicodeDecodeError:
-            print("Error parsing " + spellfile)
+        except UnicodeDecodeError as udex:
+            print("Error parsing " + spellfile + ": " + udex)
+        else:
+            file.close()
 
-        file.close()
         return spell
     
     def parseXML(spellfile):
@@ -208,6 +211,7 @@ class Spell:
         spell.duration = root.findall('duration').text
         spell.range = root.findall('range').text
         spell.description = root.findall('description').text
+        #spell.at_higher_levels = root.findall('at-higher-levels').text
 
         return spell
     
@@ -241,6 +245,8 @@ class Spell:
         text += "- **Duration:** " + self.duration + "\n"
         text += "---\n"
         text += "".join(self.description)
+        #text += "\n"
+        #text += "***At Higher Levels.*** " + "".join(self.at_higher_levels)
 
         return text
     
@@ -257,6 +263,7 @@ class Spell:
         text += "  <components>" + self.components + "</components>"
         text += "  <duration>" + self.duration + "</duration>"
         text += "  <description>" + "".join(self.description) + "</description>"
+        #text += "  <at-higher-levels>"" + "".join(self.at_higher_levels) + "</at-higher-levels>"
         text += "</spell>"
         return text
 

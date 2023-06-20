@@ -12,4 +12,4 @@ Whenever the target takes the extra damage from this spell, until the end of its
 
 If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.
 
-***At Higher Levels.***  When you cast this spell using a spell slot of 5th level or higher, you can maintain your concentr ⁠ation on the spell for up to 24 hours.
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
