@@ -1,5 +1,5 @@
 # Ability Rip
-*6th-level necromancy*
+*6th-level necromancy* (Sorcerer, Warlock, Wizard)
 
 **Casting Time:** 1 action
 
