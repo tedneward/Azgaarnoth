@@ -1,7 +1,7 @@
 # Marshal's cloak
-*Wondrous item, rare*
+*rare (requires attunement)*
 
-This cloak, given only to the Marshals of Yithi, provides two benefits to its wearer:
+This cloak is only given to the Marshals of Yithi and/or those who have done the Marshals a great service, provides two benefits to its wearer:
 
 * **Protection from all non-magical weather.** While wearing this cloak, the wearer suffers no exhaustion from the weather or environment. Regardless of the weather, the wearer always feels comfortable, though the cloak does not provide any ability to avoid or resist any other non-weather-related effects. (This will not provide any resistance to poison gas, for example, nor to breathe underwater.)
 * **Many pockets.** The cloak has 24 pockets of extradimensional space into which non-magical items (food, clothes, tools, and other supplies) can be stored and retrieved. Storing or retrieving an item from a pocket requires a bonus action during a round. Each pocket can hold roughly 5 cubic foot of space, though the dimensions can be stretched in various directions. Items do not age while in the pockets.
