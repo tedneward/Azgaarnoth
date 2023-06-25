@@ -77,6 +77,7 @@ Once you use this feature, you must finish a short or long rest before you can u
 
 ## Martial Archetype
 At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques:
+
 * [Arcane Archer](Fighter/ArcaneArcher.md)
 * [Banneret](Fighter/Banneret.md)
 * [Battle Master](Fighter/BattleMaster.md)
