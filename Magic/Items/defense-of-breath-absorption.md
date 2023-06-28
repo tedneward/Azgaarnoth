@@ -1,5 +1,5 @@
-# Armor of Breath Absorption
-*Armor (any), legendary*
+# *Defense* of Breath Absorption
+*Defense, legendary*
 
 This armor has a [gem of breath absorption](gem-of-breath-absorption.md) worked into it. This gem functions as normal, with all of its associated powers. See [gem of breath absorption](gem-of-breath-absorption.md) for details.
 

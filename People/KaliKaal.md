@@ -1,5 +1,5 @@
 # Kali Kaal
-*undead (human) NE Wizard (Necromancy) 20/Pale Master (Elegy of Decay) 16/Sorceror (Arcane Legacy) 20, NE*
+*undead (human) NE Wizard (Necromancy) 20/Pale Master (Elegy of Decay) 20/Sorceror (Arcane Legacy) 20, NE*
 
 ## History
 Little is known of the ancient lich of millennia; even any sure knowledge of its gender is lost. 
@@ -11,13 +11,13 @@ Stories and rumors abound that Kali has even managed to find ways to be a [Warlo
 What is known is that it is long past any concern for humanity, including its own. Its goals are inscrutable, its resources are nearly unlimited, and its morals are entirely nonexistent.
 
 ## GM Notes
-Kali runs the [Red Rose](../Organizations/RoguesGuilds/RedRose.md) rogues' guild and works towards its own mysterious ends. It has some kind of historical relationship to the [Twilight Star](/Organizations/MageSchools/TwilightStar.md) school, but it is not clear whether it is antagonistic or a rivalry.
+Kali runs the [Red Rose](/Organizations/RoguesGuilds/RedRose.md) rogues' guild and works towards its own mysterious ends. It has some kind of historical relationship to the [Twilight Star](/Organizations/MageSchools/TwilightStar.md) school, but it is not clear whether it is antagonistic or a rivalry.
 
-Statistics are provided below, but few beings on Azgaarnoth could even last a single round against it. Its knowledge of arcana is unparalleled, its resources vast, and its lair is entirely secret except to a few "privileged" individuals high within the organization of the Red Rose--usually as a means of keeping them more firmly under its thumb. If PCs begin a search for Kali, it will know about it long before the PCs come anywhere remotely close; if they find a lair, it will be because Kali desires it. If they encounter it outside of its lair, it will be entirely prepared for any attempt to strike at it or entrap it; in fact, most "encounters" with Kali are elaborate illusion magic unless Kali wants to be physically present (usually in order to administer a physical touch or spell).
+Statistics are provided below, but few beings on Azgaarnoth could even last a single round against it. Its knowledge of arcana is unparalleled, its resources vast, and its lair is entirely secret except to a few "privileged" individuals high within the organization of the Red Rose--usually as a means of keeping them more firmly under its thumb. If PCs begin a search for Kali, it will know about it long before the PCs come anywhere remotely close; if they find a lair, it will be because Kali desires it. If they encounter it outside of its lair, it will be entirely prepared for any attempt to strike at it or entrap it; in fact, most "encounters" with Kali are elaborate illusion magic unless Kali wants to be physically present.
 
 **Armor Class** 21 (natural armor)
 
-**Hit Points** 135 (18d8 + 54)
+**Hit Points** 435 (60d8 + 180)
 
 **Speed** 30 ft.
 
@@ -43,46 +43,21 @@ Statistics are provided below, but few beings on Azgaarnoth could even last a si
 
 **Rejuvenation**. Kali has learned to support multiple phylacteries; so long as any one of his phylacteries exists, Kali gains a new body in 1d10 days, appearing within 5 feet of any one of his phylacteries (its choice), regaining all its hit points and becoming active again.
 
-**Spellcasting**. Kali is an 20th-level spellcaster as a Sorceror, Wizard, and Pale Master. Its spellcasting ability is Intelligence (spell save DC 36, +19 to hit with spell attacks). 
+**Spellcasting**. Kali is an 20th-level spellcaster as a Sorceror, Wizard, and Pale Master. Its spellcasting ability is Intelligence (spell save DC 36, +19 to hit with spell attacks).
 
-Kali often has the following wizard spells prepared:
+Kali's long existence means that it has seen almost any scenario possible play out, and this means it has the ability to anticipate its needs for any situation that might arise. For any encounter with Kali, should it actually descend into any form of combat (and Kali wishes to continue with it), it is safe to assume that it has prepared ahead of time any spells it may find useful.
 
-* *Cantrips (at will)*: mage hand, prestidigitation, ray of frost
-* *1st level (4 slots)*: detect magic, magic missile, shield, thunderwave
-* *2nd level (3 slots)*: acid arrow, detect thoughts, invisibility, mirror image
-* *3rd level (3 slots)*: animate dead, counterspell, dispel magic, fireball
-* *4th level (3 slots)*: blight, dimension door
-* *5th level (3 slots)*: cloudkill, scrying
-* *6th level (1 slot)*: disintegrate, globe of invulnerability
-* *7th level (1 slot)*: finger of death, plane shift
-* *8th level (1 slot)*: dominate monster, power word stun
-* *9th level (1 slot)*: power word kill
+Kali's spell slots are also entirely interchangable, so that it has the following slots at each level:
 
-It will have the following pale master spells ready:
-
-* *Cantrips (at will)*: 
-* *1st level (4 slots)*: 
-* *2nd level (3 slots)*: 
-* *3rd level (3 slots)*: 
-* *4th level (3 slots)*: 
-* *5th level (3 slots)*: 
-* *6th level (1 slot)*: 
-* *7th level (1 slot)*: 
-* *8th level (1 slot)*: 
-* *9th level (1 slot)*: 
-
-It also has the following sorcerous spells ready:
-
-* *Cantrips (at will)*: 
-* *1st level (4 slots)*: 
-* *2nd level (3 slots)*: 
-* *3rd level (3 slots)*: 
-* *4th level (3 slots)*: 
-* *5th level (3 slots)*: 
-* *6th level (1 slot)*: 
-* *7th level (1 slot)*: 
-* *8th level (1 slot)*: 
-* *9th level (1 slot)*: 
+* 1st: 12 slots
+* 2nd: 9 slots
+* 3rd: 9 slots
+* 4th: 9 slots
+* 5th: 9 slots
+* 6th: 3 slots
+* 7th: 3 slots
+* 8th: 3 slots
+* 9th: 3 slots
 
 In addition, Kali has spent a millennium assembling spell books of all kinds and schools, and if given time to prepare, will have access to any spell ever developed anywhere on the continent of Azgaarnoth.
 

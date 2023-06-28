@@ -1,4 +1,4 @@
-# Bracers of Charming
+# *Clothing/Defense/Ornament* of Charming
 *rare (requires attunement by a Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard)*
 
 While wearing these decorative and tasteful bracers, you can use an action to expend 1 of its 10 charges to cast [charm person](/Magic/Spells/charm-person.md), [command](/Magic/Spells/command.md), or [comprehend languages](/Magic/Spells/comprehend-languages.md) from it using your spell save DC.
