@@ -130,7 +130,7 @@ The troll can breathe underwater.
 
 Dire trolls also increase their size by grafting flesh and organs onto themselves. When a slab of quivering troll flesh is bound against a fresh wound on the dire troll, its regenerative capacity incorporates the new mass into its own musculature. Even more horrifying are the multiple arms, eyes, claws, and other organs that a dire troll tears from its victims and grafts onto itself. Over time, these creatures can accumulate many limbs.
 
-
+---
 
 ## Rot Troll
 *Large giant, chaotic evil*
@@ -167,7 +167,7 @@ Dire trolls also increase their size by grafting flesh and organs onto themselve
 #### Description
 ![Rot Troll](Troll-Rot.png) A troll that is infused with waves of necrotic energy as it regenerates can develop a symbiotic relationship with that deathly power. The troll’s body withers, and its flesh falls away from the body as quickly as it forms. Eventually a rot troll becomes unable to regenerate, though it still heals normally. The creature courses with necrotic energy that flows out of its withered form. Simply standing near a rot troll exposes other creatures to its lethal emanations.
 
-
+---
 
 ## Spirit Troll
 *Large giant, chaotic evil*
@@ -210,7 +210,7 @@ Dire trolls also increase their size by grafting flesh and organs onto themselve
 #### Description
 ![Spirit Troll](Troll-Spirit.png) A troll blasted with psychic energy can take a nonphysical form when it regenerates. Its psyche survives, but the body of a spirit troll is as insubstantial as shadow. The troll might be unaware of the transition — it still moves and attacks with teeth and claws as it always did — but now it strikes at its victim’s mind.
 
-
+---
 
 ## Venom Troll
 *Large giant, chaotic evil*

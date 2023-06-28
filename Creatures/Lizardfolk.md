@@ -1,7 +1,7 @@
 # Lizardfolk
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
 
-> Jump to: [Hunter](#hunter) [Warrior](#warrior) [Shaman](#shaman) [King/Queen](#queen)
+> Jump to: [Hunter](#hunter) | [Warrior](#warrior) | [Shaman](#shaman) | [King/Queen](#kingqueen)
 
 Territorial Xenophobes. Lizardfolk deal and trade with other races only rarely. Fiercely territorial, they use camouflaged scouts to guard the perimeter of their domain. When unwelcome visitors are detected, a tribe sends a hunting band to harass or drive the trespassers off, or tricks them into blundering into the lairs of crocodiles and other dangerous creatures.
 
@@ -20,6 +20,8 @@ Occasions might arise when lizardfolk will form alliances with their neighbors. 
 Lizardfolk born in Sess’inek’s image are larger and more cunning than other lizardfolk, and are thoroughly evil. These lizard kings and queens dominate lizardfolk tribes, usurping a shaman’s authority and inspiring uncharacteristic aggression among their subjects.
 
 **Dragon Worshipers.** Lizardfolk speak Draconic, which they are thought to have learned from dragons in ancient times. A tribe that wanders into the territory of a dragon will offer it tribute to win its favor. An evil dragon might exploit lizardfolk for its own vile ends, turning them into raiders and plunderers.
+
+---
 
 ## Hunter
 *Medium humanoid (lizardfolk), neutral*
@@ -44,7 +46,7 @@ Lizardfolk born in Sess’inek’s image are larger and more cunning than other 
 
 **Hold Breath.** The lizardfolk can hold its breath for 15 minutes.
 
-## Actions
+#### Actions
 **Multiattack.** The lizardfolk makes two melee attacks, each one with a different weapon.
 
 **Bite.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
@@ -55,7 +57,7 @@ Lizardfolk born in Sess’inek’s image are larger and more cunning than other 
 
 **Spiked Shield.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
 
-
+---
 
 ## Warrior
 *Medium humanoid (lizardfolk), neutral*
@@ -80,7 +82,7 @@ Lizardfolk born in Sess’inek’s image are larger and more cunning than other 
 
 **Hold Breath.** The lizardfolk can hold its breath for 15 minutes.
 
-## Actions
+#### Actions
 **Multiattack.** The lizardfolk makes two melee attacks, each one with a different weapon.
 
 **Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 3) piercing damage.
@@ -91,15 +93,14 @@ Lizardfolk born in Sess’inek’s image are larger and more cunning than other 
 
 **Spiked Shield.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 3) piercing damage.
 
-
+--
 
 ## Shaman
-# Lizardfolk Shaman
 *Medium humanoid (lizardfolk), neutral*
 
 **Armor Class** 13 (Natural Armor)
 
-**Hit Points** 27 (5d8 + 5)
+**Hit Points** 35 (5d8 + 5)
 
 **Speed** 30 ft., swim 30 ft.
 
@@ -124,7 +125,7 @@ Lizardfolk born in Sess’inek’s image are larger and more cunning than other 
 * *2nd Level (3 slots):* heat metal, spike growth
 * *3rd Level (2 slots):* conjure animals (reptiles only), plant growth
 
-## Actions
+#### Actions
 **Multiattack (Lizardfolk Form Only).** The lizardfolk makes two attacks: one with its bite and one with its claws.
 
 **Claws (Lizardfolk Form Only).** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.
@@ -133,9 +134,9 @@ Lizardfolk born in Sess’inek’s image are larger and more cunning than other 
 
 **Change Shape (Recharges after a Short or Long Rest).** The lizardfolk shaman magically polymorphs into a [giant crocodile](GiantCrocodile.md), remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
+---
 
-
-## Lizardfolk Queen
+## King/Queen
 *Medium humanoid (lizardfolk), chaotic evil*
 
 **Armor Class** 15 (natural armor)

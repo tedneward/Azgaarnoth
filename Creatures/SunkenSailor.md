@@ -21,7 +21,7 @@
 
 **Languages** understands the languages it knew in life but can't speak
 
-**Challenge** 1/4 (50 XP)
+**Challenge** 1
 
 **Proficiency Bonus** +2
 

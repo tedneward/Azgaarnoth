@@ -86,10 +86,10 @@ Medium humanoid (sahuagin), lawful evil
 
 **Spellcasting.** The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following cleric spells prepared:
 
-* Cantrips (at will): guidance, thaumaturgy
-* 1st level (4 slots): bless, detect magic, guiding bolt
-* 2nd level (3 slots): hold person, spiritual weapon (trident)
-* 3rd level (3 slots): mass healing word, tongues
+* Cantrips (at will): [guidance](/Magic/Spells/guidance.md), [thaumaturgy](/Magic/Spells/thaumaturgy.md)
+* 1st level (4 slots): [bless](/Magic/Spells/bless.md), [detect magic](/Magic/Spells/detect-magic.md), [guiding bolt](/Magic/Spells/guiding-bolt.md)
+* 2nd level (3 slots): [hold person](/Magic/Spells/hold-person.md), [spiritual weapon](/Magic/Spells/spiritual-weapon.md) (trident)
+* 3rd level (3 slots): [mass healing word](/Magic/Spells/mass-healing-word.md), [tongues](/Magic/Spells/tongues.md)
 
 #### Actions
 **Multiattack.** The sahuagin makes two attacks: one with her bite and one with her claws.
