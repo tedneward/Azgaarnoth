@@ -1,6 +1,8 @@
 # Races of the Undersea
 Within the last few centuries, scholars have begun to seek opportunities to explore this more deeply, and many are convinced that there is just as widespread a civilization and political system under the surface of the water as there is above it. This is collectively referred to as the "Undersea", and not much is known about it to the Abovesea.
 
+Although the total population of the Undersea is not known, it is thought to be at least approaching that of the Abovesea, though with a much lower population density (since there is much more sea in which to live than land). Some scholars postulate that the increased presence of Undersea races is due to a population "crunch" beneath the waves, leading some Undersea tribes, clans, or families to consider live closer to, or even on, the shore.
+
 ## [Water Genasi](Genasi.md#water)
 Water genasi have lived among the Undersea for some time, it seems.
 
@@ -14,4 +16,4 @@ The fabled siren, once thought to be mindless predators luring ships to their do
 Seafarers have reported encountering tortle in various places all throughout the Deepwaters and oceans, but it's never been clear if they maintain a civilization, cities, or just nomadic bands.
 
 ## [Triton](Tritons.md)
-Likewise, tritons have become more and more visible to the Abovesea folk. Their relationship with the tortle is not clear, but it does appear that they are on good terms with [sea elves](/Races/Elves.md). They also seem to have some sort of trade relationships with [lizardfolk](/Races/Lizardfolk.md) and [yuan-ti](/Races/YuanTi.md).
+Likewise, tritons have become more and more visible to the Abovesea folk. Their relationship with the tortle is not clear, but it does appear that tritons are on good terms with [sea elves](/Races/Elves.md). They also seem to have some sort of trade relationships with [lizardfolk](/Races/Lizardfolk.md) and [yuan-ti](/Races/YuanTi.md).

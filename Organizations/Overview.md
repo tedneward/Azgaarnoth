@@ -23,11 +23,8 @@ Scattered far and wide across the continent are numerous monastic orders, each p
 ## [Rogues' Guilds](RoguesGuilds/RoguesGuilds.md)
 With civilization comes those who prefer to find "easier" ways of making a living, and it doesn't take long before they figure out it often helps to work in tandem with others. Before long, a group of them gather, and new opportunities emerge. Some of these groups focus on providing goods and services to citizenry that lawful authorities would prefer not be sold; some of these groups look to convince citizens that payments help avoid accidents; some others still look to create those accidents to eliminate individuals who are presenting "difficulties" of one form or another. All are called Rogues' Guilds by the common populace, and while many are local to the city in which the members live, some span across provinces, nations, or even continents.
 
-## Militant Orders
+## [Militant Orders](MilitantOrders/MilitantOrders.md)
 Several organizations are primarily "militant" in nature, often with long histories stretching back for generations.
-
-### [Marshals](MilitantOrders/Marshals.md)
-The Marshals are another force for law in Azgaarnoth, founded and funded by the Prince's Council of [Yithi](/Nations/Yithi.md) and often equipped by the scholars of [Zhi](/Nations/Zhi.md). Marshals move about the towns and cities of Yithi and Zhi (and sometimes beyond), acting as an independent force of law beyond that of the Twenty-Four Tribes, to ensure that there is always a counterbalance to the power of the nobility. Each Marshal generally operates independently of one another, pursuing their own investigations and/or concerns, though they have been known to be given missions by the Prince's Council, and/or partner with other organizations if the end result furthers the citizenry of Yithi and Zhi.
 
 ## [Draconic Order](DraconicOrder/DraconicOrder.md)
 The Knights of the Draconic Orders are some of the most fearsome and respected people in Azgaarnoth, and they fight to preserve civilization and its benefits for everyone in Azgaarnoth. Defined into a half-dozen separate and distinct orders, each taking after a distinct species of metallic dragon, each leverages their own skills and capabilities as part of a larger effort, and periodically work together to defeat threats to the world.
