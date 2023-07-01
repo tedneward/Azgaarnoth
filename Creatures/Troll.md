@@ -7,11 +7,13 @@ Born with horrific appetites, trolls eat anything they can catch and devour. The
 
 Trolls that are nearly obliterated but survive and regenerate from mere scraps of flesh can display bizarre mutations. One of these warped trolls is especially likely to arise if the creature regenerates in the presence of magical emanations, planar energy, disease, or death on a vast scale, or if its body was damaged by elemental forces. These mutated forms can also be produced and shaped by the ritual magic of evil spellcasters.
 
-> Jump to: [Standard Troll](#troll) [Dire Troll](#dire-troll) [Rot Troll](#rot-troll) [Spirit Troll](#spirit-troll) [Venom Troll](#venom-troll)
+> Jump to: [Standard Troll](#troll) | [Aquatic Troll (Scrag)](#aquatic-troll) | [Dire Troll](#dire-troll) | [Rot Troll](#rot-troll) | [Spirit Troll](#spirit-troll) | [Venom Troll](#venom-troll)
 
 **VAPRAK THE DESTROYER.** Although trolls are hardly devout and seldom ponder spiritual questions, they do fear and venerate the entity known as Vaprak the Destroyer. As with many lesser deities, Vaprak’s true nature is something of a mystery, but it is always portrayed as a horrid, misshapen, greenish creature strongly resembling a troll. It’s given to fits of mindless destruction and is constantly paranoid about the plots and ambitions of other deities.
 
 Among trolls, Vaprak is believed to devour those on the brink of death, but only if the troll is already cooked or digested (slain by fire or acid). Otherwise, the god spits the soul back into the world to regenerate a new body, no matter how little of its previous form remained. Thus, only trolls slain by acid or fire remain dead, because only those are consumed by Vaprak.
+
+---
 
 ## Troll
 *Large giant, chaotic evil*
@@ -45,7 +47,43 @@ Among trolls, Vaprak is believed to devour those on the brink of death, but only
 
 **Claw.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
 
+---
 
+## Aquatic Troll (Scrag)
+*Large giant, chaotic evil*
+
+**Armor Class:** 15 (natural armor)
+
+**Hit Points:** 84 (8d10 + 40)
+
+**Speed:** 30 ft., swim 30 ft.
+
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+18 (+4)|13 (+1)|20 (+5)|7 (-2) | 9 (-1)| 7 (-2)
+
+**Skills** Perception +2
+
+**Senses:** darkvision 60 ft., passive Perception 12
+
+**Languages:** Aquan
+
+**Challenge Rating:** 5 (1800 XP)
+
+The troll can breathe underwater.
+
+**Keen Smell.** The troll has advantage on Wisdom (Perception) checks that rely on smell.
+
+**Regeneration.** The troll regains 10 hit points at the start of its turn if any part of it is immersed in water (either salt or fresh, whichever it resides in). If the troll takes lightning damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
+
+#### Actions
+**Multiattack.** The troll makes three attacks: one with its bite and two with its claws.
+
+**Bite.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+
+**Claw.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+
+---
 
 ## Dire Troll
 *Huge giant, chaotic evil*
@@ -92,7 +130,7 @@ Among trolls, Vaprak is believed to devour those on the brink of death, but only
 
 Dire trolls also increase their size by grafting flesh and organs onto themselves. When a slab of quivering troll flesh is bound against a fresh wound on the dire troll, its regenerative capacity incorporates the new mass into its own musculature. Even more horrifying are the multiple arms, eyes, claws, and other organs that a dire troll tears from its victims and grafts onto itself. Over time, these creatures can accumulate many limbs.
 
-
+---
 
 ## Rot Troll
 *Large giant, chaotic evil*
@@ -129,7 +167,7 @@ Dire trolls also increase their size by grafting flesh and organs onto themselve
 #### Description
 ![Rot Troll](Troll-Rot.png) A troll that is infused with waves of necrotic energy as it regenerates can develop a symbiotic relationship with that deathly power. The troll’s body withers, and its flesh falls away from the body as quickly as it forms. Eventually a rot troll becomes unable to regenerate, though it still heals normally. The creature courses with necrotic energy that flows out of its withered form. Simply standing near a rot troll exposes other creatures to its lethal emanations.
 
-
+---
 
 ## Spirit Troll
 *Large giant, chaotic evil*
@@ -172,7 +210,7 @@ Dire trolls also increase their size by grafting flesh and organs onto themselve
 #### Description
 ![Spirit Troll](Troll-Spirit.png) A troll blasted with psychic energy can take a nonphysical form when it regenerates. Its psyche survives, but the body of a spirit troll is as insubstantial as shadow. The troll might be unaware of the transition — it still moves and attacks with teeth and claws as it always did — but now it strikes at its victim’s mind.
 
-
+---
 
 ## Venom Troll
 *Large giant, chaotic evil*
