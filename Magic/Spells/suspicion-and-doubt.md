@@ -1,5 +1,5 @@
 #### Suspicion and Doubt
-*3rd-level enchantment* (Wizard)
+*3rd-level enchantment* (Bard, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 100 feet
