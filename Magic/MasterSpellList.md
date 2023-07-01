@@ -922,7 +922,6 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Dissonant Chord](Spells/dissonant-chord.md): Bard
 * [Distracting Visions](Spells/distracting-visions.md): Bard, Sorcerer, Wizard
 * [Distressing Melody](Spells/distressing-melody.md): Bard
-* [Distressing Melody](Spells/distressing-memory.md): Bard
 * [Dragonskin](Spells/dragonskin.md): Artificer, Sorcerer, Wizard
 * [Dread Carapace](Spells/dread-carapace.md): Artificer, Druid, Warlock, Wizard
 * [Dread Word](Spells/dread-word.md): Sorcerer, Warlock, Wizard
@@ -949,7 +948,6 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Fly](Spells/fly.md): Artificer, Sorcerer, Warlock, Wizard
 * [Flying Step Stance](Spells/flying-step-stance.md): Paladin, Ranger, Sorcerer, Warlock, Wizard
 * [Fool's Speech](Spells/fools-speech.md): Bard, Cleric, Sorcerer, Wizard
-* [Four-Winds Bag](Spells/four-winds-bag-.md): Artificer, Bard, Druid, Ranger, Sorcerer, Warlock
 * [Four-Winds Bag](Spells/four-winds-bag.md): Artificer, Bard, Druid, Ranger, Sorcerer, Warlock
 * [Freedom of the Waves](Spells/freedom-of-the-waves.md): Druid, Ranger, Sorcerer
 * [Frost Armor](Spells/frost-armor.md): Druid, Sorcerer, Wizard

@@ -6,6 +6,4 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ---
-You touch and end one mind-affecting condition 
-affecting the target. You can end the frightened, 
-charmed, paralyzed, or stunned condition. 
+You touch and end one mind-affecting condition affecting the target. You can end the frightened, charmed, paralyzed, or stunned condition. 

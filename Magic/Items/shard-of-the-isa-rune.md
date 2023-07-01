@@ -1,7 +1,7 @@
 # Shard of the *isa* Rune
 *[master rune](/Magic/Runes.md), rare (requires attunement)*
 
-This long, slender shard of diamong is roughly the size of a dagger. The *isa* rune—the rune of ice—glows within the shard. When first grasped, the shard emits a painful cold that leaves your hand and arm numb. That feeling passes after a moment, allowing the shard to be handled normally.
+This long, slender shard of diamond is roughly the size of a dagger. The *isa* rune—the rune of ice—glows within the shard. When first grasped, the shard emits a painful cold that leaves your hand and arm numb. That feeling passes after a moment, allowing the shard to be handled normally.
 
 This rune has both simple and complex properties; simple properties are available to anyone who attunes the master rune, while complex properties require you to have the Rune Lore feature to unlock and use.
 
