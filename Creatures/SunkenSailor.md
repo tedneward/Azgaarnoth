@@ -41,4 +41,4 @@
 ---
 
 ## Description
-Sunken sailors are the soulless but not lifeless cadavers of sailors lost at sea. They haunt the locations of their death: underwater or coastal areas where there is treasure present - especially if the treasure was taken from the ship upon which they lost their lives.
+Sunken sailors are the soulless but not lifeless cadavers of sailors lost at sea. They haunt the locations of their death: underwater or coastal areas where there is treasure present--especially if the treasure was taken from the ship upon which they lost their lives.
