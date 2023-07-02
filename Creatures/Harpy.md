@@ -17,6 +17,8 @@
 
 **Challenge** 1 (200 XP)
 
+**Flyby.** Harpies have learned how to attack while moving swiftly through the air. As a result, if a harpy moves and attacks a creature, it may use Disengage as a bonus action to avoid a reaction melee attack from the target.
+
 ## Actions
 **Multiattack.** The harpy makes two attacks: one with its claws and one with its club.
 
