@@ -1,0 +1,70 @@
+# Bandit
+Bandits rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
+
+> Jump to [ruffian](#ruffian) | [captain](#captain)
+
+It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The bandit captain has these qualities in spades.
+
+More than treasure, a bandit captain craves infamy. A prisoner who appeals to the captain’s vanity or ego is more likely to be treated fairly than a prisoner who does not or claims not to know anything of the captain’s colorful reputation.
+
+## Ruffian
+*Medium humanoid (any race), any non-lawful alignment*
+
+**Armor Class** 12 (leather armor)
+
+**Hit Points** 11 (2d8 + 2)
+
+**Speed** 30 ft.
+
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+11 (+0)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|10 (+0)
+
+**Senses** passive Perception 10
+
+**Languages** any one language (usually Common)
+
+**Challenge** 1/8 (25 XP)
+
+#### Actions
+
+**Scimitar.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
+
+**Light Crossbow.** Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
+
+---
+
+## Captain
+*Medium humanoid (any race), any non-lawful alignment*
+
+**Armor Class** 15 (studded leather)
+
+**Hit Points** 65 (10d8 + 20)
+
+**Speed** 30 ft.
+
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+15 (+2)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|14 (+2)
+
+**Saving Throws** Str +4, Dex +5, Wis +2
+
+**Skills** Athletics +4, Deception +4
+
+**Senses** passive Perception 10
+
+**Languages** any two languages
+
+**Challenge** 2 (450 XP)
+
+#### Actions
+
+**Multiattack.** The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.
+
+**Scimitar.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+
+**Dagger.** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
+
+#### Reactions
+
+**Parry.** The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.

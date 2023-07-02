@@ -20,6 +20,7 @@
 **Challenge** 3
 
 **Sorcery Points** 8 sorcery points, which can be used as follows:
+
 * **Creating Spell Slots** 1st requires 2 points, 2nd requires 3 points, 3rd requires 5 points, 4th requires 6 points.
 * **Converting a Spell Slot to Sorcery Points** Expend one spell slot and gain a number of sorcery points equal to the slot's level.
 * **Empowering Reserves** When you make an ability check on your turn, you can spend 2 sorcery points to gain advantage on the check.
@@ -27,6 +28,7 @@
 * **Sorcerous Fortitude** As an action, you can spend any number of sorcery points to roll a d4 for each point expended. You gain a number of temporary hit points equal to the total rolled.
 
 **Metamagic** You can only use one metamagic option on a spell when you cast it, unless otherwise noted.
+
 * **Empowered Spell** When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.
 * **Elemental Spell** When you cast a spell that deals a type of damage from the following list, you can spend 1 sorcery point to change that damage type to one of the other listed types: acid, cold, fire, lightning, thunder.
 
