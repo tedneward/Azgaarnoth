@@ -6,5 +6,4 @@ ___
 - **Components:** S
 - **Duration:** Instantaneous
 ---
-As part of the action of casting this spell, you take
-the Dodge action.
+As part of the action of casting this spell, you take the Dodge action.

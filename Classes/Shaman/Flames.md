@@ -19,11 +19,11 @@ Shaman Level | Calling Spells
 1st | [burning hands](/Magic/Spells/burning-hands.md), [healing word](/Magic/Spells/healing-word.md)
 3rd | [heat metal](/Magic/Spells/heat-metal.md), [pyrotechnics](/Magic/Spells/pyrotechnics.md)
 5th | [fireball](/Magic/Spells/fireball.md), [revivify](/Magic/Spells/revivify.md)
-7th | [fabricate](/Magic/Spells/fabricate.md), [wall of fire](/Magic/Spells/wall-of-fire.md)
+7th | [fire enchantment](/Magic/Spells/fire-enchantment.md), [wall of fire](/Magic/Spells/wall-of-fire.md)
 9th | [immolation](/Magic/Spells/immolation.md), [mass cure wounds](/Magic/Spells/mass-cure-wounds.md)
 
 ## Blessings of Flame
-When you choose this calling at 1st level, you gain the [control flames](/Magic/Spells/control-flames.md), [fire bolt](/Magic/Spells/fire-bolt.md), and [produce flame](/Magic/Spells/produce-flame.md) cantrips and learn the Ignan dialect of the Primordial language. You also become proficient with one type of artisan’s tools.
+When you choose this calling at 1st level, you gain the [control flames](/Magic/Spells/control-flames.md), [fire bolt](/Magic/Spells/fire-bolt.md), [fire hawk](/Magic/Spells/fire-hawk.md) and [produce flame](/Magic/Spells/produce-flame.md) cantrips and learn the Ignan dialect of the Primordial language. You also become proficient with one type of artisan’s tools.
 
 ## Flamespeaker
 Also at 1st level, you gain the ability to speak with fire. As an action, you can call to the spirit of a fire within 10 feet of you, allowing it to communicate with you in Ignan and answer questions that you pose. You can ask the fire up to three questions before the effect ends. A fire knows only what has occurred around it since it was lit, though it can usually describe the individual who lit it and always knows the nature of objects and materials that it has burned. 
