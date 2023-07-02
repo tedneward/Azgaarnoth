@@ -1,6 +1,8 @@
 # Abishai
 Each abishai was once a mortal who somehow won Tiamat’s favor before death and, as a reward, found its soul transformed into a hideous devil to serve at her pleasure in the Nine Hells.
 
+> Jump to [Black](#black-abishai) | [Blue](#blue-abishai) | [Green](#green-abishai) | [Red](#red-abishai) | [White](#white-abishai)
+
 **Emissaries of Doom.** Tiamat deploys abishais as emissaries, sending them to represent her interests in the Hells and across the multiverse. Some have simple tasks, such as delivering a message to cultists or taking charge of worshipers to carry out a sensitive mission. Others have greater responsibilities, such as leading large groups, assassinating targets, and serving in armies. In all cases, abishais are fanatically loyalty to Tiamat, ready to lay down their lives if needed.
 
 **Outsiders in Hell.** Abishais stand outside the normal hierarchy of the Nine Hells, having their own chain of command and ultimately answering to Tiamat (and Asmodeus, when the dark lord chooses to use them). Other archdevils can command abishais to work for them, but most archdevils do so rarely, since it is never clear whether an abishai follows Tiamat’s orders or Asmodeus’s. There is inherent risk in countermanding an order given by Tiamat, but interfering with Asmodeus’s plans invites certain destruction.
@@ -54,7 +56,7 @@ Each abishai was once a mortal who somehow won Tiamat’s favor before death and
 #### Description
 ![Black Abishai](Abishai-Black.png) Expert assassins and infiltrators, black abishais can weave shadows to mask their presence, allowing them to reach a location from where they can deliver a fatal strike to their targets.
 
-
+---
 
 ## Blue Abishai
 *Medium fiend (devil), lawful evil*
@@ -112,7 +114,7 @@ Each abishai was once a mortal who somehow won Tiamat’s favor before death and
 #### Description
 ![Blue Abishai](Abishai-Blue.png) Seekers of forgotten lore and lost relics, blue abishais are the most cunning and learned of their kind. Their research into occult subjects gleaned from tomes and grimoires plundered from across the multiverse enables them to become accomplished spellcasters. They use their magic to devastate their mistress’s enemies.
 
-
+---
 
 ## Green Abishai
 *Medium fiend (devil), lawful evil*
@@ -165,7 +167,7 @@ Each abishai was once a mortal who somehow won Tiamat’s favor before death and
 #### Description
 ![Green Abishai](Abishai-Green.png) The envoys of Tiamat’s armies, green abishais represent the god’s interests in the Nine Hells and beyond. Their keen senses make them adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure that they can manipulate even the shrewdest opponents.
 
-
+---
 
 ## Red Abishai
 *Medium fiend (devil), lawful evil*
@@ -220,7 +222,7 @@ Each abishai was once a mortal who somehow won Tiamat’s favor before death and
 #### Description
 ![Red Abishai](Abishai-Red.png) Red abishais have no equals among the abishais when it comes to leadership ability and raw power. They can invoke Tiamat’s authority to bend even dragons to their will. Red abishais lead other devils into battle or take charge of troublesome cults to ensure that they continue to carry out Tiamat’s commands. A red abishai cuts a fearsome figure, and that sight can be inspiring to the abishai’s allies, filling them with a fanatical willingness to fight.
 
-
+---
 
 ## White Abishai
 *Medium fiend (devil), lawful evil*
