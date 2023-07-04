@@ -27,7 +27,7 @@
 
 **Undead Fortitude.** If damage reduces the sunken sailor to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the sunken sailor drops to 1 hit point instead.
 
-**Regeneration.** A sunken sailor regenerates 1d8 hit points if it is in contact with salt water and within 1 mile of the place where it sank/died.
+**Turn Resistance.** A sunken sailor has advantage on saving throws on Turn Undead attempts if the sunken sailor is on the vessel they died on.
 
 **Create Spawn.** Any humanoid reduced to zero hit points by a sunken sailor's drowning touch that then fails their death saves becomes a sunken sailor under the control of its killer at dawn the next morning. Any holy blessing can prevent this.
 
