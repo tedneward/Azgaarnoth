@@ -6,6 +6,4 @@ ___
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 ---
-You invoke divine inspiration to bolster the ranged
-attacks of your allies. Each ally within range gains a
-+2 bonus to ranged attack rolls for the duration.
+You invoke divine inspiration to bolster the ranged attacks of your allies. Each ally within range gains a +2 bonus to ranged attack rolls for the duration.
