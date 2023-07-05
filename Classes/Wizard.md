@@ -128,6 +128,7 @@ You choose an arcane tradition, shaping your practice of magic through one of th
 * [Bladesinger](Wizard/Bladesinger.md)
 * [Conjuration](Wizard/Conjuration.md)
 * [Divination](Wizard/Divination.md)
+* [Divinity](Wizard/Divinity.md)
 * [Emomancy](Wizard/Emomancy.md)
 * [Enchantment](Wizard/Enchantment.md)
 * [Evocation](Wizard/Evocation.md)
@@ -162,6 +163,8 @@ Note that many of the [Mage Schools](/Organizations/MageSchools/MageSchools.md) 
 Additionally, there are some arcane traditions which dare not be practiced openly:
 
 * [Bloodmancers](Wizard/Bloodmancer.md) and [NeoBloodmancers](Wizard/NeoBloodmancer.md): Those who draw power from life's blood can expect to be persecuted on sight
+
+Note that in Azgaarnoth, any wizard who is not part of a mage school is generally considered to be a "hedge mage" (a term of degradation) or a "wilder" (not to be confused with wild magic). Such wizards are often shunned or refused service from a mage school of any popular standing, though some schools openly court and/or welcome such wizards.
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this.  feature

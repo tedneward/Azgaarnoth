@@ -2,9 +2,11 @@
 Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
 
 Several major religions dot the surface of Azgaarnoth:
+
 * The [Pantheon](/Religions/Pantheon.md) is the classic multitheistic panoply of gods and goddesses arranged (more or less) by domain of the cosmos. Within the Pantheon, a huge variety of domains are available, and potentially others lurk in the deepest corners of the world. Each of the gods and goddesses waxes and wanes as their followers surge and shrink, and new gods are born or discovered every day, it seems.
 
 * The [Al'Uma](/Religions/AlUma.md) believe that the world has entered its current state because mortals did not worship the beings that maintained it, and therefore it is mortals' responsibility to correct that, by either worship, combat, or both.
+
   * **Alalihatian Cleric**
 
     Domain (choose one): [Life](Cleric/Life.md), [Light](Cleric/Light.md), or [Order](Cleric/Order.md)
