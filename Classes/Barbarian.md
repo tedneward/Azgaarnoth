@@ -8,22 +8,22 @@ Level|Proficiency Bonus|Rages|Rage Damage|Features
 1st  |+2|2|+2|[Rage](#rage), [Unarmored Defense](#unarmored-defense)
 2nd	 |+2|2|+2|[Reckless Attack](#reckless-attack), [Danger Sense](#danger-sense)
 3rd	 |+2|3|+2|[Primal Path](#primal-path)
-4th	 |+2|3|+2|Ability Score Improvement
+4th	 |+2|3|+2|[Ability Score Improvement](#ability-score-improvement) or [Feat](./Feats.md)
 5th	 |+3|3|+2|[Extra Attack](#extra-attack), [Instinctive Pounce](#instinctive-pounce)
 6th	 |+3|4|+2|Path feature
 7th	 |+3|4|+2|[Feral Instinct](#feral-instinct)
-8th	 |+3|4|+2|Ability Score Improvement	
+8th	 |+3|4|+2|[Ability Score Improvement](#ability-score-improvement) or [Feat](./Feats.md)	
 9th	 |+4|4|+3|[Brutal Critical](#brutal-critical) (1 die)
 10th |+4|4|+3|Path feature
 11th |+4|4|+3|[Relentless Rage](#relentless-rage)
-12th |+4|5|+3|Ability Score Improvement	
+12th |+4|5|+3|[Ability Score Improvement](#ability-score-improvement) or [Feat](./Feats.md)	
 13th |+5|5|+3|[Brutal Critical](#brutal-critical) (2 dice)
 14th |+5|5|+3|Path feature
 15th |+5|5|+3|[Persistent Rage](#persistent-rage)
-16th |+5|5|+4|Ability Score Improvement	
+16th |+5|5|+4|[Ability Score Improvement](#ability-score-improvement) or [Feat](./Feats.md)	
 17th |+6|6|+4|[Brutal Critical](#brutal-critical) (3 dice)
 18th |+6|6|+4|[Indomitable Might](#indomitable-might)
-19th |+6|6|+4|Ability Score Improvement	
+19th |+6|6|+4|[Ability Score Improvement](#ability-score-improvement) or [Feat](./Feats.md)	
 20th |+6|Unlimited|+4|[Primal Champion](#primal-champion)
 
 ### Hit Points
