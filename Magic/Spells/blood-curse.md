@@ -1,5 +1,5 @@
 #### Blood Curse
-*Necromancy cantrip (Cleric,Pale Master,Shaman,Warlock,Wizard)
+*Necromancy cantrip* (Cleric,Pale Master,Shaman,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

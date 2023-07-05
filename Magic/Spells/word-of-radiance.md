@@ -2,7 +2,7 @@
 *Evocation cantrip (Cleric)
 ___
 - **Casting Time:** 1 action
-- **Range:** 5 feet
+- **Range:** 15 feet
 - **Components:** V, M (a holy symbol)
 - **Duration:** Instantaneous
 ---
