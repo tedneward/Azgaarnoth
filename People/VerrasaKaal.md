@@ -1,5 +1,5 @@
 # Verrasa [Kaal](/Organizations/Houses/Kaal.md)
-*female human Rogue (Mastermind) 9, LE* 
+*female half-elf Rogue (Mastermind) 9, LE* 
 
 
 
