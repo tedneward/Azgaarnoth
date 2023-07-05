@@ -6,7 +6,4 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ---
-You spit a bubble of black, tarry goo at your
-opponent. Make a ranged spell attack. If you hit, the
-target is blinded until it or a companion uses an
-action to clean its eyes.
+You spit a bubble of black, tarry goo at your opponent. Make a ranged spell attack. If you hit, the target is blinded until it or a companion uses an action to clean its eyes.

@@ -6,12 +6,4 @@ ___
 - **Components:** V
 - **Duration:** Instantaneous
 ---
-You channel the shifting energies of battle from
-chaotic Ysgard, twisting space and time and hoping
-for the best. You reroll your Dexterity check for
-initiative and must use the new roll. You also roll a
-d6. You and each creature within range that is
-friendly to you adds the the result of the d6 to its
-initiative roll, while each creature that is hostile to
-you subtracts the same result from its initiative roll
-unless it is immune to being charmed.
+You channel the shifting energies of battle from chaotic Ysgard, twisting space and time and hoping for the best. You reroll your Dexterity check for initiative and must use the new roll. You also roll a d6. You and each creature within range that is friendly to you adds the the result of the d6 to its initiative roll, while each creature that is hostile to you subtracts the same result from its initiative roll unless it is immune to being charmed.

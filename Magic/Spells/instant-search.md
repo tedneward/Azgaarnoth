@@ -6,6 +6,4 @@ ___
 - **Components:** V, S
 - **Duration:** 1 round
 ---
-You may make either a Wisdom (Perception) or
-Intelligence (Investigation) check with advantage
-when searching a room.
+You may make either a Wisdom (Perception) or Intelligence (Investigation) check with advantage when searching a room.

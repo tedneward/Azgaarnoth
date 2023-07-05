@@ -1,5 +1,5 @@
 #### Gloom
-*Evocation cantrip (Bard,Cleric,Druid,Pale Master,Warlock,Wizard)
+*Evocation cantrip* (Bard,Cleric,Druid,Pale Master,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch (15-foot sphere)
