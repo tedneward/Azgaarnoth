@@ -1,4 +1,14 @@
-# Wyvern Zombie
+# Wyvern 
+
+> Jump to: [standard](#normal) | [zombie](#wyvern-zombie)
+
+---
+
+## Normal Wyvern
+
+---
+
+## Wyvern Zombie
 *Large undead dragon, unaligned*
 
 **Armor Class** 8
