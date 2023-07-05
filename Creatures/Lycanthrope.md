@@ -1,7 +1,7 @@
 # Lycanthropes
 One of the most ancient and feared of all curses, lycanthropy can transform the most civilized humanoid into a ravening beast. In its natural humanoid form, a creature cursed by lycanthropy appears as its normal self. Over time, however, many lycanthropes acquire features suggestive of their animal form. In that animal form, a lycanthrope resembles a powerful version of a normal animal. On close inspection, its eyes show a faint spark of unnatural intelligence and might glow red in the dark.
 
-> Jump to: [Werebear](#werebear) [Wereboar](#wereboar) [Wererat](#wererat) [Weretiger](#weretiger) [Werewolf](#werewolf)
+> Jump to: [Werebear](#werebear) | [Wereboar](#wereboar) | [Werejaguar](#werejaguar) | [Wererat](#wererat) | [Weretiger](#weretiger) | [Werewolf](#werewolf)
 
 Evil lycanthropes hide among normal folk, emerging in animal form at night to spread terror and bloodshed, especially under a full moon. Good lycanthropes are reclusive and uncomfortable around other civilized creatures, often living alone in wilderness areas far from villages and towns.
 
