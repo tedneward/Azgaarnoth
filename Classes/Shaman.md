@@ -112,7 +112,7 @@ If you have a calling spell that doesn’t appear on the shaman spell list, the 
 ## Spirit Magic
 *1st-level shaman feature*
 
-Drawing on the power of spirits, as directed by your calling, you can cast spells to shape the world around you. See chapter 10 of the Player’s Handbook for the general rules of spellcasting.
+Drawing on the power of spirits, as directed by your calling, you can cast spells to shape the world around you.
 
 ### Cantrips
 You know one cantrip of your choice from the shaman spell list. You learn additional shaman cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Shaman table.

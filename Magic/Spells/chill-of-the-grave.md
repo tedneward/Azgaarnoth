@@ -6,6 +6,4 @@ ___
 - **Components:** V, S, M (a knuckle bone)
 - **Duration:** Concentration, up to 1 minute
 ---
-Choose one undead creature within 50 feet. For the
-duration, whenever the target hits with a melee
-attack, that attack inflicts an extra 1d8 cold damage.
+Choose one undead creature within 50 feet. For the duration, whenever the target hits with a melee attack, that attack inflicts an extra 1d8 cold damage.

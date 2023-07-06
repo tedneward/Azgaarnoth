@@ -91,7 +91,6 @@
 * [Entropic Shield](../../Magic/Spells/entropic-shield.md)
 * [Flare](../../Magic/Spells/flare.md)
 * [Flash](../../Magic/Spells/flash.md)
-* [Foundation of Stone](../../Magic/Spells/foundation-of-stone-.md)
 * [Foundation of Stone](../../Magic/Spells/foundation-of-stone.md)
 * [Frightful Strike](../../Magic/Spells/frightful-strike.md)
 * [Frost Fingers](../../Magic/Spells/frost-fingers.md)
