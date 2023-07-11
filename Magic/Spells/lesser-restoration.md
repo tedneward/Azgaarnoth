@@ -6,4 +6,4 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ---
-You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
+You touch a creature and can end either one disease or one condition afflicting it, or heal one point of ability damage. The condition can be blinded, deafened, paralyzed, or poisoned.

@@ -1,5 +1,5 @@
 #### Astral Seal
-*Evocation cantrip (Cleric)
+*Evocation cantrip* (Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** 10 feet

@@ -1,7 +1,7 @@
 # Bugbear
 Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
 
-> Jump to: [Bugbear (standard)](#bugbear) [Bugbear Chief](#chief) [Blood Ghost Berserker](#blood-ghost-berserker)
+> Jump to: [Bugbear (standard)](#bugbear) | [Bugbear Chief](#chief) | [Blood Ghost Berserker](#blood-ghost-berserker)
 
 **Goblinoids.** Bugbears are often found in the company of their cousins, hobgoblins and goblins. Bugbears usually enslave goblins they encounter, and they bully hobgoblins into giving them gold and food in return for serving as scouts and shock troops. Even when paid, bugbears are at best unreliable allies, yet goblins and hobgoblins understand that no matter how much bugbears might drain a tribe of resources, these creatures are a potent force.
 

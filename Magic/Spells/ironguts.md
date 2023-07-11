@@ -6,5 +6,4 @@ ___
 - **Components:** V, S, M (a vial of mixed poisons)
 - **Duration:** Concentration, up to 1 hour
 ---
-The target has advantage on all saving throws to
-resist poison and resistance to poison damage.
+The target has advantage on all saving throws to resist poison and resistance to poison damage.

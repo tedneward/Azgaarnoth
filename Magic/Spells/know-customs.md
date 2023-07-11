@@ -6,10 +6,4 @@ ___
 - **Components:** V, S
 - **Duration:** 1 hour
 ---
-Choose a person within range. That person may
-make a Wisdom saving throw to resist the spell. If
-they succeed, you learn nothing. If they fail, you
-learn all of the local laws and customs that target
-subscribes too. For the duration, you have
-advantage on any Charisma check involving a
-member of that community.
+Choose a person within range. That person may make a Wisdom saving throw to resist the spell. If they succeed, you learn nothing. If they fail, you learn all of the local laws and customs that target subscribes too. For the duration, you have advantage on any Charisma check involving a member of that community.

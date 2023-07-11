@@ -74,7 +74,7 @@ The troll can breathe underwater.
 
 **Keen Smell.** The troll has advantage on Wisdom (Perception) checks that rely on smell.
 
-**Regeneration.** The troll regains 10 hit points at the start of its turn if any part of it is immersed in water (either salt or fresh, whichever it resides in). If the troll takes lightning damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
+**Regeneration.** The troll regains 10 hit points at the start of its turn if any part of it is immersed in water (either salt or fresh, whichever it calls home). If the troll takes lightning damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
 #### Actions
 **Multiattack.** The troll makes three attacks: one with its bite and two with its claws.

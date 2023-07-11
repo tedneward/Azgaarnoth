@@ -6,10 +6,4 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ---
-Choose targets, which can include yourself, within
-range and within 50 feet of each other. Those
-targets switch places. The targets can try to resist by
-making a successful Wisdom saving throw. If one
-target successfully saves, the spell fails. The switch
-happens instantly and does not provoke attacks of
-opportunity.
+Choose targets, which can include yourself, within range and within 50 feet of each other. Those targets switch places. The targets can try to resist by making a successful Wisdom saving throw. If one target successfully saves, the spell fails. The switch happens instantly and does not provoke attacks of opportunity.

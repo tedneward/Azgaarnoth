@@ -6,10 +6,4 @@ ___
 - **Components:** V, S
 - **Duration:** 1 round
 ---
-You erect a psychic shield to protect your mind
-from assault, and you ward your allies as well.
-Choose a number of creatures within range of this
-spell. Until the start of your next turn, you and the
-creatures you choose have advantage on
-Intelligence and Charisma saves (including against
-the triggering effect).
+You erect a psychic shield to protect your mind from assault, and you ward your allies as well. Choose a number of creatures within range of this spell. Until the start of your next turn, you and the creatures you choose have advantage on Intelligence and Charisma saves (including against the triggering effect).

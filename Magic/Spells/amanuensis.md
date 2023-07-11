@@ -1,5 +1,5 @@
 #### Amanuensis
-*Transmutation cantrip (Artificer,Bard,Cleric,Sorcerer,Warlock,Wizard)
+*Transmutation cantrip* (Artificer,Bard,Cleric,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

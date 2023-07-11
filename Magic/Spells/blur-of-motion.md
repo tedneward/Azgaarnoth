@@ -6,7 +6,4 @@ ___
 - **Components:** S
 - **Duration:** Instantaneous
 ---
-Until the end of the turn, you are invisible and can
-take the Dash action as a bonus action. This effect
-ends early if you make an attack roll or cast another
-spell.
+Until the end of the turn, you are invisible and can take the Dash action as a bonus action. This effect ends early if you make an attack roll or cast another spell.

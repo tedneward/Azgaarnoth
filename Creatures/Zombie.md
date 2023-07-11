@@ -1,6 +1,10 @@
 # Zombie
-*medium undead (humanoid), neutral evil*
+Undead zombies move with a jerky, uneven gait. They are clad in the moldering apparel they wore when put to rest, and carry the stench of decay.
 
+> Jump to: [standard](#standard) | [greater](#greater) | [ogre](#ogre)
+
+## Standard
+*medium undead (humanoid), neutral evil*
 **Armor Class** 8
 
 **Hit Points** 22 (3d8 + 9)
@@ -30,5 +34,5 @@
 #### Actions
 **Slam.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.
 
-## Description
-Undead zombies move with a jerky, uneven gait. They are clad in the moldering apparel they wore when put to rest, and carry the stench of decay.
+---
+

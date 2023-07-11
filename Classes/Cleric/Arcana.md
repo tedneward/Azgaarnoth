@@ -6,7 +6,7 @@ The gods of this domain are often associated with knowledge, as learning and arc
 ## Domain Spells
 *1st-level Arcana Domain feature* 
 
-Starting at 1st level, you gain domain spells at the cleric levels listed in the Unity Domain Spells table. See the Arcana Domain class feature for how domain spells work.
+Starting at 1st level, you gain domain spells at the cleric levels listed in the Arcana Domain Spells table. See the Arcana Domain class feature for how domain spells work.
 
 **Arcana Domain Spells**
 Cleric Level |	Spells

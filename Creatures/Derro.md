@@ -1,7 +1,7 @@
 # Derro
 Derro slink through the subterranean realms, seeking places that are safe from the perils of the Underdark. Equal parts fearful and vicious, bands of these dwarf-kin prey on those weaker than themselves, while giving simpering obeisance to any creatures they deem more powerful. Wild-haired, haggard, shuddering, and shabbily dressed, a lone derro seems a pitiable creature, but when a cackling, spitting, growling, howling horde of them attacks, the sight inspires both fear and revulsion.
 
-> Jump to: [Derro Tribe Member](#derro) [Savant](#savant)
+> Jump to: [Derro Tribe Member](#derro) | [Savant](#savant)
 
 **Madness and Sorcery.** Fractious in groups and individually weak, derro would have been driven to extinction long ago but for two elements of their character. They have an inborn tendency toward paranoia, a peculiarity that serves them well as they navigate the dangers of the Underdark and its societies. They also have a stronger-than-normal tendency to develop sorcerous power. Individuals who do so become their leaders, known as [savants](#savant). The derro consider these sorcerers to be specially blessed by their deity, Diirinka.
 
