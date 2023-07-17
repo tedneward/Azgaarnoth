@@ -323,6 +323,9 @@ def main():
     parser.add_argument('--listtext', choices=classOpts, help='Produce a plain-text spell list for the passed class')
     parser.add_argument('--ritualsmd', choices=classOpts, help='Produce an MD ritual list for the passed class')
 #    parser.add_argument('--summarymd', help='Produce an MD spell summary for all spells')
+    # Find commands
+    parser.add_argument('--findtext', help='Find keywords in spell text or title')
+    parser.add_argument('--findtype', help='Find spells by type')
     # Output commands
     parser.add_argument('--writemd', help='Directory to which to write MD files')
     parser.add_argument('--writesql', help='SQLite filename to write spells to')
@@ -357,6 +360,16 @@ def main():
         print('No input source specified; exiting')
         return
     
+    def findSpells(predicate):
+        found = []
+        for spell in spells:
+            if predicate(spell) == True:
+                found.append(spell)
+        return found
+
+    def findSpellsByClass(classname):
+        return findSpells(lambda s : (classname == 'all' or classname in s.classes) or (classname == 'none' and s.classes == []))
+        
     def findClassSpells(classname):
         found = []
         for spell in spells:
@@ -396,7 +409,7 @@ def main():
     def snakecasefilename(name):
         return name.replace(' ', '-').replace('\'', '').replace('/', '-').lower()
 
-    # Are we doing lists?
+    # Are we doing a search, or lists?
     if args.listtext != None:
         classTarget = str(args.listtext)
         found = findClassSpells(classTarget)
