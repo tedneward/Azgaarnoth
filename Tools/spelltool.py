@@ -63,7 +63,7 @@ class Spell:
 
             if lines[0].startswith('####'):
                 # The #### form is something I downloaded from the Web, but prefer it
-                # as a display format. THis is likely to be the format most often
+                # as a display format. This is likely to be the format most often
                 # encountered when parsing spells from this repository.
                 spell.name = lines[0][5:].strip()
 
