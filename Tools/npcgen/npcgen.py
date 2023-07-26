@@ -4,7 +4,6 @@ import argparse
 import importlib.machinery
 import importlib.util
 import os
-import sys
 
 # This script parses class options in directories and applies them
 # (imperatively/script-like) to the creation of NPCs.
@@ -24,6 +23,7 @@ class NPC:
         self.WIS = 0
         self.CHA = 0
         self.speed = ''
+        self.senses = ['passive Perception']
         self.savingthrows = []
         self.skills = []
         self.resistances = []
@@ -50,7 +50,6 @@ class NPC:
         return desc
 
     def classdesc(self):
-        print(self.classes)
         classmap = {}
         for cl in self.classes:
             if cl in classmap:
@@ -113,6 +112,7 @@ class Race:
 # that needs to be sorted to make that work. Right now hobgoblin.py can't see
 # `features`, so maybe try to figure that out in the future.
 features = {
+    'amphibious' : "**Amphibious**. You can breathe air and water.",
     'darkvision' : "**Darkvision**. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
 }
 
@@ -142,30 +142,69 @@ def replace(text, list, newtext):
             list.remove(it)
     list.append(newtext)
 
-def choose(text, choices) -> int:
+def choose(text, choices):
     """Present a list of choices to the engine for selection"""
     print(text)
-    choiceIdx = 0
-    for c in choices:
-        choiceIdx += 1
-        print(f'{choiceIdx}: {c}')
+    if isinstance(choices, list):
+        choiceidx = 0
+        for c in choices:
+            choiceidx += 1
+            print(f'{choiceidx}: {c}')
 
-    response = None
-    while response == None:
-        response = input(">>> ")
-        if not response.isnumeric:
-            response = None
-        if int(response) < 1:
-            response = None
-        if int(response) > len(choices):
-            response = None
+        response = None
+        while response == None:
+            response = input(">>> ")
+            if not response.isnumeric:
+                response = None
+            if int(response) < 1:
+                response = None
+            if int(response) > len(choices):
+                response = None
 
-    response = int(response) - 1 # Account for zero-based index
-    return choices[response]
+        response = int(response) - 1 # Account for zero-based index
+        return choices[response]
+    elif isinstance(choices, dict):
+        choiceidx = 0
+        for c in choices.items():
+            choiceidx += 1
+            print(f'{choiceidx}: {c[0]}: {c[1]}')
+
+        response = None
+        while response == None:
+            response = input(">>> ")
+            if not response.isnumeric:
+                response = None
+            if int(response) < 1:
+                response = None
+            if int(response) > len(choices):
+                response = None
+
+        responseidx = int(response) - 1 # Account for zero-based index
+        responsekey = list(choices.keys())[responseidx]
+        print(responsekey, choices[responsekey])
+        return (responsekey, choices[responsekey])
+    else:
+        raise BaseException('Unrecognized type of choices: ' + str(type(choices)))
 
 def levelinvoke(module, level, npc):
-    (getattr(module, 'level' + str(level)))(npc)
+    levelfn = getattr(module, 'level' + str(level))
+    if levelfn == None:
+        print("No level function found for " + module + " for level " + str(level))
+    levelfn(npc)
 
+def abilityscoreimprovement(npc):
+    abilities = [ 'STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA']
+    abilityidx = choose("Improve an ability score by 1:", abilities)
+    ability = abilities[abilityidx]
+    newvalue = int(getattr(npc, ability)) + 1
+    setattr(npc, ability, newvalue)
+    abilityidx = choose("Improve an ability score by 1:", abilities)
+    ability = abilities[abilityidx]
+    newvalue = int(getattr(npc, ability)) + 1
+    setattr(npc, ability, newvalue)
+
+def feat(npc):
+    pass
 
 def populateModule(module):
     module.features = features
@@ -214,6 +253,19 @@ def loadclasses():
 
 def main():
     npc = NPC()
+
+    # What do we do for ability scores? Hand entry, random gen, weighted average, ...?
+    # TODO: DO a choose(...) against the different strategies, each of which is a function, then execute that
+    print("Ability scores:")
+
+    def handentry(npc):
+        npc.STR = int(input("  STR: "))
+        npc.DEX = int(input("  DEX: "))
+        npc.CON = int(input("  CON: "))
+        npc.INT = int(input("  INT: "))
+        npc.WIS = int(input("  WIS: "))
+        npc.CHA = int(input("  CHA: "))
+    handentry(npc)
 
     # Load all races into the array
     races = loadraces()
