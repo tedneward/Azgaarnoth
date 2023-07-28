@@ -85,3 +85,13 @@ def apply_race(npc):
     npc.bonusactions.append("**Hammering Horns**. When you use the Attack action during your turn to make a melee attack, you can attempt to shove a creature with your horns as a bonus action. You cannot use this shove attempt to knock a creature prone.")
 
 subraces = []
+
+def generate_name(npc):
+    # Male names never end in a vowel
+    male_surnames = ['Beliminorgath', 'Cinmac', 'Dastrun', 'Edder', 'Galdar', 'Ganthirogan', 'Hecariveran', 'Kyris', 'Tosher', 'Zurgas']
+    # Female names always end in a vowel
+    female_surnames = ['Ayasha', 'Calina', 'Fliara', 'Helati', 'Keeli', 'Kyri', 'Mogara', 'Sekra', 'Tariki', 'Telia']
+    # Family names
+    family_names = ['Athak', 'Bregan', 'Entragath', 'Kaziganthi', 'Lagrangli', 'Mascun', 'Orilg', 'Sumarr', 'Teskos', 'Yithi', 'Zhakan']
+
+    

@@ -9,6 +9,9 @@ import random
 # This script parses class options in directories and applies them
 # (imperatively/script-like) to the creation of NPCs.
 
+def spelllinkify(name):
+    return "["+ name+"](https://github.com/tedneward/Azgaarnoth/tree/master/Magic/Spells/"+ name.replace(' ', '-') + ".md)"
+
 def abilitybonus(score):
     bonus = {
         1: -5,
@@ -62,12 +65,14 @@ class NPC:
         self.hitpoints = 0
         self.hitconbonus = 0
         self.hitdice = { 'd6':0, 'd8':0, 'd10':0, 'd12':0, 'd20':0 }
+
         self.STR = 0
         self.DEX = 0
         self.CON = 0
         self.INT = 0
         self.WIS = 0
         self.CHA = 0
+
         self.speed = ''
         self.senses = ['passive Perception']
         self.savingthrows = []
@@ -79,9 +84,17 @@ class NPC:
         self.skills = []
         self.languages = []
         self.features = []
+
+        self.cantripsknown = []
+        self.spellsknown = []
+        self.spellcastingattribute = ''
+        self.maxspellsknown = 0
+        self.spellslots = {}
+
         self.actions = []
         self.bonusactions = []
         self.reactions = []
+
         self.description = []
 
     def proficiencybonus(self):
@@ -159,10 +172,16 @@ class NPC:
         print("")
         print("**Senses** " + ", ".join(self.senses))
         print("")
-        print("**Languagess** " + ", ".join(self.languages))
+        print("**Languages** " + ", ".join(self.languages))
         print("")
         for feature in self.features:
             print(feature)
+            print("")
+        if len(self.cantripsknown) > 0: 
+            print(self.print_cantrips())
+            print("")
+        if len(self.spellsknown) > 0: 
+            print(self.print_spells())
             print("")
         print("#### Actions")
         for action in self.actions:
@@ -224,7 +243,20 @@ class NPC:
             return skill + " +" + str(self.proficiencybonus() + abilitybonus(getattr(self, skillmap[skill])))
         skilllist = map(mapskill, self.skills)
         return desc + ", ".join(skilllist)
+    
+    def print_cantrips(self):
+        cantriplinks = map(spelllinkify, self.cantripsknown)
+        desc = "**Cantrips.** You know the following cantrips: " + ", ".join(cantriplinks)
+        return desc
 
+    def print_spells(self):
+        spelllinks = map(spelllinkify, self.spellsknown)
+
+        desc = "**Spellcasting.** Spell save DC = 8 + your proficiency bonus + " + self.spellcastingattribute + " bonus. Spell attack modifier =proficiency bonus + " + self.spellcastingattribute + " modifier.\n"
+        desc += "Spells known (Max " + str(self.maxspellsknown) + "): " + ", ".join(spelllinks)
+        for lvl in self.spellslots.keys():
+            desc += str(lvl) + ": " + str(self.spellslots[lvl]) + "\n"
+        return desc
 
 # Be nice if there was a way to get race/class modules to be able to share
 # a common pool of common features, but there's probably some scoping mechanism
@@ -263,7 +295,8 @@ def replace(text, list, newtext):
     list.append(newtext)
 
 # scriptedinput declared in process()
-
+global scriptedinput
+scriptedinput = []
 inputhistory = []
 def choose(text, choices):
     """Present a list of choices to the engine for selection"""
@@ -398,6 +431,7 @@ def populateModule(module):
     module.levelinvoke = levelinvoke
     module.abilityscoreimprovement = abilityscoreimprovement
     module.feat = feat
+    module.spelllinkify = spelllinkify
 
 # Slurp functions--these pull in races and classes
 #
@@ -493,6 +527,7 @@ def gennpc():
     racemodule.apply_race(npc)
     if len(racemodule.subraces) > 0:
         subrace = choose("Choose subrace:", racemodule.subraces)
+        npc.subrace = subrace
         racemodule.apply_subrace(subrace, npc)
 
     level = 0
@@ -521,7 +556,7 @@ def main():
                     prog='NPCGen',
                     description='A tool for generating 5th-ed NPCs')
     parser.add_argument('--version', action='version', version='%(prog)s 1.0')
-    parser.add_argument('scripts', type=process, nargs='+',
+    parser.add_argument('scripts', type=process, nargs='?',
                     help='Generate an NPC from script rather than interactive')
     args = parser.parse_args()
 
