@@ -145,14 +145,7 @@ class NPC:
         print("")
         print("**Speed** " + self.speed)
         print("")
-        print("**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**")
-        print("-------|-------|-------|-------|-------|-------")
-        print(str(self.STR) + "(" + str(abilitybonus(self.STR)) + ") | " + 
-              str(self.DEX) + "(" + str(abilitybonus(self.DEX)) + ") | " + 
-              str(self.CON) + "(" + str(abilitybonus(self.CON)) + ") | " + 
-              str(self.INT) + "(" + str(abilitybonus(self.INT)) + ") | " + 
-              str(self.WIS) + "(" + str(abilitybonus(self.WIS)) + ") | " + 
-              str(self.CHA) + "(" + str(abilitybonus(self.CHA)) + ")")
+        print(self.print_stats())
         print("")
         print("**Proficiency Bonus** +" + str(self.proficiencybonus()))
         print("")
@@ -190,6 +183,17 @@ class NPC:
         print("----")
         print('\n'.join(self.description))
 
+    def print_stats(self):
+        print("**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**")
+        print("-------|-------|-------|-------|-------|-------")
+        print(str(self.STR) + "(" + str(abilitybonus(self.STR)) + ") | " + 
+              str(self.DEX) + "(" + str(abilitybonus(self.DEX)) + ") | " + 
+              str(self.CON) + "(" + str(abilitybonus(self.CON)) + ") | " + 
+              str(self.INT) + "(" + str(abilitybonus(self.INT)) + ") | " + 
+              str(self.WIS) + "(" + str(abilitybonus(self.WIS)) + ") | " + 
+              str(self.CHA) + "(" + str(abilitybonus(self.CHA)) + ")")
+        print("")
+
     def print_savingthrows(self):
         desc = "**Saving Throws** "
         savingthrowlist = map(lambda attr: attr + " +" + str(self.proficiencybonus() + abilitybonus(getattr(self, attr))), self.savingthrows)
@@ -217,13 +221,11 @@ class NPC:
             'Stealth' : 'DEX', 
             'Survival' : 'WIS'
         }
-        skilllist = map(lambda skill: skill + " +" + str(self.proficiencybonus() + abilitybonus(getattr(self, skillmap[skill]))), self.skills)
+        def mapskill(skill):
+            return skill + " +" + str(self.proficiencybonus() + abilitybonus(getattr(self, skillmap[skill])))
+        skilllist = map(mapskill, self.skills)
         return desc + ", ".join(skilllist)
 
-
-class Race:
-    def __init__(self):
-        pass
 
 # Be nice if there was a way to get race/class modules to be able to share
 # a common pool of common features, but there's probably some scoping mechanism
@@ -261,14 +263,17 @@ def replace(text, list, newtext):
             list.remove(it)
     list.append(newtext)
 
+# scriptedinput declared in process()
+
 inputhistory = []
 def choose(text, choices):
     """Present a list of choices to the engine for selection"""
     print(text)
-    if isinstance(choices, list):
-        choices.sort()
+
+    def choosefromlist(choicelist):
+        choicelist.sort()
         choiceidx = 0
-        for c in choices:
+        for c in choicelist:
             choiceidx += 1
             print(f'{choiceidx}: {c}')
 
@@ -279,19 +284,42 @@ def choose(text, choices):
                 response = None
             if int(response) < 1:
                 response = None
-            if int(response) > len(choices):
+            if int(response) > len(choicelist):
                 response = None
 
         response = int(response) - 1 # Account for zero-based index
-        print("You chose " + choices[response])
+        print("You chose " + choicelist[response])
         inputhistory.append(str(response))
         return choices[response]
-    elif isinstance(choices, dict):
+
+    def scriptfromlist(choicelist):
+        choicelist.sort()
         choiceidx = 0
-        for c in choices.items():
+        for c in choicelist:
+            choiceidx += 1
+            print(f'{choiceidx}: {c}')
+
+        response = scriptedinput.pop(0).strip()
+        if response.isdigit():
+            response = int(response)
+            print("You chose " + choicelist[response])
+            return choicelist[response]
+        elif response == "random":
+            responseidx = random.randrange(0, len(choicelist))
+            print("You chose " + choicelist[responseidx])
+            return choicelist[responseidx]
+        else:
+            responseidx = choicelist.index(response)
+            print("You chose " + choicelist[responseidx])
+            return response
+
+    def choosefrommap(choicemap):
+        choiceidx = 0
+        for c in choicemap.items():
             choiceidx += 1
             print(f'{choiceidx}: {c[0]} ({c[1]})')
 
+        # Interactive
         response = None
         while response == None:
             response = input(">>> ")
@@ -299,14 +327,42 @@ def choose(text, choices):
                 response = None
             if int(response) < 1:
                 response = None
-            if int(response) > len(choices):
+            if int(response) > len(choicemap):
                 response = None
 
         responseidx = int(response) - 1 # Account for zero-based index
-        responsekey = list(choices.keys())[responseidx]
+        responsekey = list(choicemap.keys())[responseidx]
         inputhistory.append(str(responseidx))
-        print("You chose " + str((responsekey, choices[responsekey])))
-        return (responsekey, choices[responsekey])
+        print("You chose " + str((responsekey, choicemap[responsekey])))
+        return (responsekey, choicemap[responsekey])
+
+    def scriptfrommap(choicemap):
+        choiceidx = 0
+        for c in choicemap.items():
+            choiceidx += 1
+            print(f'{choiceidx}: {c[0]} ({c[1]})')
+
+        response = scriptedinput.pop(0).strip()
+        if response.isdigit():
+            responseidx = int(response) - 1
+            responsekey = list(choicemap.keys())[responseidx]
+            result = (responsekey, choicemap[responsekey])
+            print("You chose numerically " + str(result))
+            return result
+        elif response == "random":
+            responseidx = random.randrange(0, len(choicemap))
+            responsekey = list(choicemap.keys())[responseidx]
+            result = (responsekey, choicemap[responsekey])
+            print("Random sez... " + str(result))
+            return result
+        else:
+            print("You chose " + str((response, choicemap[response])))
+            return (response, choicemap[response])
+
+    if isinstance(choices, list) and len(scriptedinput) == 0: return choosefromlist(choices)
+    elif isinstance(choices, dict) and len(scriptedinput) == 0: return choosefrommap(choices)
+    elif isinstance(choices, list) and len(scriptedinput) > 0: return scriptfromlist(choices)
+    elif isinstance(choices, dict) and len(scriptedinput) > 0: return scriptfrommap(choices)
     else:
         raise BaseException('Unrecognized type of choices: ' + str(type(choices)))
 
@@ -381,33 +437,36 @@ def loadclasses():
     return results
 
 def process(script):
-    print("Process " + script)
+    scriptfile = open(script, 'r')
+    with scriptfile:
+        text = scriptfile.readline()
+    global scriptedinput
+    scriptedinput = text.split(",")
 
-def main():
+def gennpc():
     npc = NPC()
 
-    #parser = argparse.ArgumentParser(
-    #                prog='NPCGen',
-    #                description='A tool for generating 5th-ed NPCs')
-    #parser.add_argument('--version', action='version', version='%(prog)s 1.0')
-    #parser.add_argument('scripts', type=process, nargs='*',
-    #                help='Generate an NPC from script rather than interactive')
-    #args = parser.parse_args()
-    #print(vars(args))
+    # Preload what we need
+    races = loadraces()
+    classes = loadclasses()
 
-    # Input commands/args/switches
-    #any argument passed assumed to be an XML script
-
+    def roll():
+        return random.randrange(1,6) + random.randrange(1,6) + random.randrange(1,6)
     def handentry(npc):
-        npc.STR = int(input("  STR: "))
-        npc.DEX = int(input("  DEX: "))
-        npc.CON = int(input("  CON: "))
-        npc.INT = int(input("  INT: "))
-        npc.WIS = int(input("  WIS: "))
-        npc.CHA = int(input("  CHA: "))
+        def numberorrandom():
+            maybe = scriptedinput.pop(0).strip()
+            if maybe == "random":
+                return roll()
+            else:
+                return int(maybe)
+            
+        npc.STR = numberorrandom()
+        npc.DEX = numberorrandom()
+        npc.CON = numberorrandom()
+        npc.INT = numberorrandom()
+        npc.WIS = numberorrandom()
+        npc.CHA = numberorrandom()
     def randomgen(npc):
-        def roll():
-            return random.randrange(1,6) + random.randrange(1,6) + random.randrange(1,6)
         npc.STR = roll()
         npc.DEX = roll()
         npc.CON = roll()
@@ -421,10 +480,11 @@ def main():
         npc.INT = 11
         npc.WIS = 11
         npc.CHA = 11
-    (choose("Ability score generation:", {"Hand-entry": handentry, "Randomly generated": randomgen, "Strict average": average}))[1](npc)
+    method = choose("Ability score generation:", {"Hand-entry": handentry, "Randomgen": randomgen, "Average": average})
+    print(method)
+    method[1](npc)
+    npc.print_stats()
 
-    # Load all races into the array
-    races = loadraces()
     racemodule = choose("Choose race:", races)[1]
     npc.race = racemodule
     racemodule.apply_race(npc)
@@ -433,8 +493,6 @@ def main():
         subrace = choose("Choose subrace:", racemodule.subraces)
         racemodule.apply_subrace(subrace, npc)
 
-    # Load all classes into the array
-    classes = loadclasses()
     level = 0
     levelup = True
     while levelup == True:
@@ -449,11 +507,25 @@ def main():
         # not the total levels of the NPC.
 
         levelinvoke(clss, level, npc)
-        levelup = (input(">>> Currently level " + str(level) + "; Another level? ") == 'y')
+        if len(scriptedinput) == 0:
+            levelup = (input(">>> Currently level " + str(level) + "; Another level? ") == 'y')
+        else:
+            continue
 
-    print("Choices: " + str(inputhistory))
+    return npc
+
+def main():
+    parser = argparse.ArgumentParser(
+                    prog='NPCGen',
+                    description='A tool for generating 5th-ed NPCs')
+    parser.add_argument('--version', action='version', version='%(prog)s 1.0')
+    parser.add_argument('scripts', type=process, nargs='+',
+                    help='Generate an NPC from script rather than interactive')
+    args = parser.parse_args()
+    print(vars(args))
+
+    npc = gennpc()
     npc.print_markdown()
-
 
 if __name__ == '__main__':
 	main()
