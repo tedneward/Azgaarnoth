@@ -180,7 +180,7 @@ class NPC:
         if len(self.cantripsknown) > 0: 
             print(self.print_cantrips())
             print("")
-        if len(self.spellsknown) > 0: 
+        if self.maxspellsknown > 0:
             print(self.print_spells())
             print("")
         print("#### Actions")
@@ -252,16 +252,15 @@ class NPC:
     def print_spells(self):
         spelllinks = map(spelllinkify, self.spellsknown)
 
-        desc = "**Spellcasting.** Spell save DC = 8 + your proficiency bonus + " + self.spellcastingattribute + " bonus. Spell attack modifier =proficiency bonus + " + self.spellcastingattribute + " modifier.\n"
-        desc += "Spells known (Max " + str(self.maxspellsknown) + "): " + ", ".join(spelllinks)
+        desc = "**Spellcasting.** Spell save DC = 8 + your proficiency bonus + " + self.spellcastingattribute + " bonus. Spell attack modifier = your proficiency bonus + " + self.spellcastingattribute + " modifier.\n"
+        desc += "Spells known (Max " + str(self.maxspellsknown) + "): " + ", ".join(spelllinks) + "\n"
+        ordinals = [ "", "1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th" ]
+        desc += "Spell slots:\n"
         for lvl in self.spellslots.keys():
-            desc += str(lvl) + ": " + str(self.spellslots[lvl]) + "\n"
+            desc += "* " + ordinals[lvl] + ": " + str(self.spellslots[lvl]) + "\n"
         return desc
 
-# Be nice if there was a way to get race/class modules to be able to share
-# a common pool of common features, but there's probably some scoping mechanism
-# that needs to be sorted to make that work. Right now hobgoblin.py can't see
-# `features`, so maybe try to figure that out in the future.
+# This dict is shared to all race/class modules for consistent feature text.
 commonfeatures = {
     'amphibious' : "**Amphibious.**. You can breathe air and water.",
     'darkvision30' : "**Darkvision.**. You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
@@ -558,8 +557,8 @@ def main():
                     description='A tool for generating 5th-ed NPCs')
     parser.add_argument('--version', action='version', version='%(prog)s 1.0')
     parser.add_argument('scripts', type=process, nargs='?',
-                    help='Generate an NPC from script rather than interactive')
-    args = parser.parse_args()
+                    help='Generate an NPC from script rather than interactively')
+    parser.parse_args()
 
     npc = gennpc()
     npc.print_markdown()

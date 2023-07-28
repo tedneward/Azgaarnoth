@@ -367,6 +367,17 @@ def main():
                 found.append(spell)
         return found
 
+    if args.findtype != None:
+        type = args.findtype
+        print("Finding spells of type " + type)
+        found = findSpells(lambda s: s.type == args.findtype)
+        for level in levels:
+            print("## " + level + "-Level Spells")
+            for spell in found:
+                if spell.level == level:
+                    print("* [" + str(spell.name) + "](" + spell.filename + "): " + ", ".join(spell.classes))
+            print(" ")
+
     def findSpellsByClass(classname):
         return findSpells(lambda s : (classname == 'all' or classname in s.classes) or (classname == 'none' and s.classes == []))
         
