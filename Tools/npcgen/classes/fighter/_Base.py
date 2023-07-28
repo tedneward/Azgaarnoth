@@ -1,11 +1,8 @@
-# Fighter
 name = 'Fighter'
-
-subclasses = []
 
 def everylevel(npc):
     npc.classes.append(name)
-    npc.hitdice["d10"] += 1
+    npc.hits('d10')
 
 def archery(npc):
     npc.features.append("**Fighting Style: Archery.** You gain a +2 bonus to attack rolls you make with ranged weapons.")
@@ -71,7 +68,7 @@ def level1(npc):
     npc.skills.append(choose("Choose:", skills))
     npc.skills.append(choose("Choose:", skills))
 
-    npc.bonusactions.append("**Second Wind.** On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.\nOnce you use this feature, you must finish a short or long rest before you can use it again.")
+    npc.bonusactions.append("**Second Wind.** On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. Once you use this feature, you must finish a short or long rest before you can use it again.")
 
     # Fighting Style
     style = choose("Choose a Fighting Style:", styles)
@@ -80,22 +77,22 @@ def level1(npc):
 
 def level2(npc):
     everylevel(npc)
-    npc.features.append("**Action Surge.** On your turn, you can take one additional action on top of your regular action and a possible bonus action.\nOnce you use this feature, you must finish a short or long rest before you can use it again.")
+    npc.features.append("**Action Surge.** On your turn, you can take one additional action on top of your regular action and a possible bonus action. Once you use this feature, you must finish a short or long rest before you can use it again.")
 
 def level3(npc):
     everylevel(npc)
 
     # Choose subclass
-    subclasses = subclassload('classes/fighter')
-    subclasskey = choose("Choose a Martial Archetype:", list(subclasses.keys()))
-    subclass = subclasses[subclasskey]
-    npc.subclasses['Fighter'] = subclass
+    subclasses = discover('classes/fighter')
+    subclasspair = choose("Choose a Martial Archetype:", subclasses)
+    npc.subclasses['Fighter'] = subclasspair[1]
     levelinvoke(npc.subclasses['Fighter'], 3, npc)
 
 def level4(npc):
     everylevel(npc)
 
     # Choose ability score improvement (or Feat)
+    abilityscoreimprovement(npc)
 
 def level5(npc):
     everylevel(npc)
@@ -106,6 +103,7 @@ def level6(npc):
     everylevel(npc)
 
     # Choose ability score improvement (or Feat)
+    abilityscoreimprovement(npc)
 
 def level7(npc):
     everylevel(npc)
@@ -116,6 +114,7 @@ def level8(npc):
     everylevel(npc)
 
     # Choose ability score improvement (or Feat)
+    abilityscoreimprovement(npc)
 
 def level9(npc):
     everylevel(npc)
@@ -135,6 +134,7 @@ def level12(npc):
     everylevel(npc)
 
     # Choose ability score improvement (or Feat)
+    abilityscoreimprovement(npc)
 
 def level13(npc):
     everylevel(npc)
@@ -146,6 +146,7 @@ def level14(npc):
     everylevel(npc)
 
     # Choose ability score improvement (or Feat)
+    abilityscoreimprovement(npc)
 
 def level15(npc):
     everylevel(npc)
@@ -156,6 +157,7 @@ def level16(npc):
     everylevel(npc)
 
     # Choose ability score improvement (or Feat)
+    abilityscoreimprovement(npc)
 
 def level17(npc):
     everylevel(npc)
@@ -172,6 +174,7 @@ def level19(npc):
     everylevel(npc)
 
     # Choose ability score improvement (or Feat)
+    abilityscoreimprovement(npc)
 
 def level20(npc):
     everylevel(npc)

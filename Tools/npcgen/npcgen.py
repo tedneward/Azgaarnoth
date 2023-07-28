@@ -4,17 +4,63 @@ import argparse
 import importlib.machinery
 import importlib.util
 import os
+import random
 
 # This script parses class options in directories and applies them
 # (imperatively/script-like) to the creation of NPCs.
 
+def abilitybonus(score):
+    bonus = {
+        1: -5,
+        2: -4,
+        3: -4,
+        4: -3,
+        5: -3,
+        6: -2,
+        7: -2,
+        8: -1,
+        9: -1,
+        10: 0,
+        11:	0,
+        12: 1,
+        13:	1,
+        14: 2,
+        15:	2,
+        16: 3,
+        17:	3,
+        18: 4,
+        19:	4,
+        20: 5,
+        21:	5,
+        22: 6,
+        23:	6,
+        24: 7,
+        25:	7,
+        26: 8,
+        27:	8,
+        28: 9,
+        29: 9,
+        30: 10
+    }
+    return bonus[score]
+
 class NPC:
     def __init__(self):
         self.size = ''
-        self.race = ''
-        self.subrace = ''
-        self.classes = []   # This will be a list of each level of class taken, e.g., "[Fighter, Fighter, Monk, Monk, Fighter]" for 1-5 level
-        self.subclasses = {}# This will be a map of the subclasses mapped to a class, e.g., "{Fighter:Defender, Wizard:Necromancer}", etc
+
+        # Race is the module for the race selected
+        self.race = None
+        # Subrace is a string (easier)
+        self.subrace = None
+        # Classes is a list of the modules for each class taken
+        # e.g, '[<fighter>,<fighter>,<monk>,<monk>,<fighter>] for a Fighter 3/Monk 2 NPC
+        self.classes = []
+        # Subclasses is a map of the classmodule.name : subclassmodule
+        # e.g, '{'Fighter':<samurai>,'Wizard':<necromancer>}
+        self.subclasses = {}
+
+        self.hitpoints = 0
+        self.hitconbonus = 0
         self.hitdice = { 'd6':0, 'd8':0, 'd10':0, 'd12':0, 'd20':0 }
         self.STR = 0
         self.DEX = 0
@@ -25,16 +71,31 @@ class NPC:
         self.speed = ''
         self.senses = ['passive Perception']
         self.savingthrows = []
-        self.skills = []
         self.resistances = []
         self.immunities = []
+        # Skills and proficiencies are basically the same thing; having a proficiency
+        # in a skill means adding your profbonus to the skill's ability bonus
         self.proficiencies = []
+        self.skills = []
         self.languages = []
         self.features = []
         self.actions = []
         self.bonusactions = []
         self.reactions = []
         self.description = []
+
+    def proficiencybonus(self):
+        return (len(self.classes) // 4) + 2
+
+    def hits(self, die):
+        self.hitdice[die] += 1
+        if len(self.classes) == 1:
+            self.hitpoints += int(die[1:]) # Strip off the 'd'
+        else:
+            top = int(die[1:])
+            self.hitpoints += random.randrange(4, top)
+        self.hitconbonus += abilitybonus(self.CON)
+        self.hitpoints += abilitybonus(self.CON)
 
     def hitdicedesc(self):
         dicelist = []
@@ -44,8 +105,8 @@ class NPC:
         return " + ".join(dicelist)
 
     def racedesc(self):
-        desc = self.race
-        if self.subrace != '':
+        desc = self.race.name
+        if self.subrace != None:
             desc = desc + " (" + self.subrace + ")"
         return desc
 
@@ -59,30 +120,52 @@ class NPC:
         classlist = []
         for pair in classmap.items():
             if pair[0] in self.subclasses:
-                classlist.append(pair[0] + " (" + self.subclasses[pair[0]] + ") " + str(pair[1]))
+                classlist.append(pair[0] + " (" + self.subclasses[pair[0]].name + ") " + str(pair[1]))
             else:
                 classlist.append(pair[0] + " " + str(pair[1]))
         return ", ".join(classlist)
+    
+    def classlevel(self, clss):
+        cl = 0
+        for cl in self.classes:
+            if cl == clss:
+                cl += 1
+        return cl
+    
+    def level(self):
+        return len(self.classes)
 
     def print_markdown(self):
-        print("# NPC")
-        print("*" + self.size + " " + self.racedesc() + " " + self.classdesc() + " (any alignment)*")
+        print("# Name")
+        print("*" + self.size + " " + self.racedesc() + " " + self.classdesc() + " (alignment)*")
         print("")
-        print("**Armor Class** 10")
+        print("**Armor Class** 10") # Maybe stack up AC bonuses?
         print("")
-        print("**Hit Points** ?? (" + str(self.hitdicedesc()) + ")") # Need to incorporate CON bonus later
+        print("**Hit Points** " + str(self.hitpoints) + " (" + str(self.hitdicedesc()) + " + " + str(self.hitconbonus) + ")")
         print("")
         print("**Speed** " + self.speed)
         print("")
         print("**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**")
         print("-------|-------|-------|-------|-------|-------")
-        print(str(self.STR) + " | " + str(self.DEX) + " | " + str(self.CON) + " | " + str(self.INT) + " | " + str(self.WIS) + " | " + str(self.CHA))
+        print(str(self.STR) + "(" + str(abilitybonus(self.STR)) + ") | " + 
+              str(self.DEX) + "(" + str(abilitybonus(self.DEX)) + ") | " + 
+              str(self.CON) + "(" + str(abilitybonus(self.CON)) + ") | " + 
+              str(self.INT) + "(" + str(abilitybonus(self.INT)) + ") | " + 
+              str(self.WIS) + "(" + str(abilitybonus(self.WIS)) + ") | " + 
+              str(self.CHA) + "(" + str(abilitybonus(self.CHA)) + ")")
         print("")
-        print("**Saving Throws** " + ", ".join(self.savingthrows))
+        print("**Proficiency Bonus** +" + str(self.proficiencybonus()))
         print("")
-        print("**Skills** " + ", ".join(self.skills))
+        print("**Damage Resistances** " + ", ".join(self.resistances))
         print("")
-        print("**Senses** ")
+        print("**Damage Immunities** " + ", ".join(self.immunities))
+        print("")
+        print(self.print_savingthrows())
+        print("")
+        #print("**Skills** " + ", ".join(self.skills))
+        print(self.print_skills())
+        print("")
+        print("**Senses** " + ", ".join(self.senses))
         print("")
         print("**Languagess** " + ", ".join(self.languages))
         print("")
@@ -92,16 +175,51 @@ class NPC:
         print("#### Actions")
         for action in self.actions:
             print(action)
+            print("")
         print("")
         print("#### Bonus Actions")
         for action in self.bonusactions:
             print(action)
+            print("")
         print("")
         print("#### Reactions")
         for action in self.reactions:
             print(action)
+            print("")
+        print("")
         print("----")
         print('\n'.join(self.description))
+
+    def print_savingthrows(self):
+        desc = "**Saving Throws** "
+        savingthrowlist = map(lambda attr: attr + " +" + str(self.proficiencybonus() + abilitybonus(getattr(self, attr))), self.savingthrows)
+        return desc + ", ".join(savingthrowlist)
+    
+    def print_skills(self):
+        desc = "**Skills** "
+        skillmap = {
+            'Acrobatics' : 'DEX', 
+            'Animal Handling' : 'WIS', 
+            'Arcana' : 'INT',
+            'Athletics' : 'STR',
+            'Deception' : 'CHA', 
+            'History' : 'INT',
+            'Insight' : 'WIS',
+            'Intimidation' : 'CHA',
+            'Investigation' : 'INT',
+            'Medicine' : 'WIS',
+            'Nature' : 'INT',
+            'Perception' : 'WIS',
+            'Performance' : 'CHA', 
+            'Persuasion' : 'CHA',
+            'Religion' : 'INT', 
+            'Sleight of Hand' : 'DEX', 
+            'Stealth' : 'DEX', 
+            'Survival' : 'WIS'
+        }
+        skilllist = map(lambda skill: skill + " +" + str(self.proficiencybonus() + abilitybonus(getattr(self, skillmap[skill]))), self.skills)
+        return desc + ", ".join(skilllist)
+
 
 class Race:
     def __init__(self):
@@ -111,12 +229,13 @@ class Race:
 # a common pool of common features, but there's probably some scoping mechanism
 # that needs to be sorted to make that work. Right now hobgoblin.py can't see
 # `features`, so maybe try to figure that out in the future.
-features = {
+commonfeatures = {
     'amphibious' : "**Amphibious**. You can breathe air and water.",
-    'darkvision' : "**Darkvision**. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+    'darkvision' : "**Darkvision**. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
+    'superiordarkvision' : "**Superior Darkvision**. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
 }
 
-def subclassload(dirname):
+def discover(dirname):
     results = {}
     for file in os.listdir(dirname):
         if file == '__pycache__':
@@ -142,10 +261,12 @@ def replace(text, list, newtext):
             list.remove(it)
     list.append(newtext)
 
+inputhistory = []
 def choose(text, choices):
     """Present a list of choices to the engine for selection"""
     print(text)
     if isinstance(choices, list):
+        choices.sort()
         choiceidx = 0
         for c in choices:
             choiceidx += 1
@@ -162,12 +283,14 @@ def choose(text, choices):
                 response = None
 
         response = int(response) - 1 # Account for zero-based index
+        print("You chose " + choices[response])
+        inputhistory.append(str(response))
         return choices[response]
     elif isinstance(choices, dict):
         choiceidx = 0
         for c in choices.items():
             choiceidx += 1
-            print(f'{choiceidx}: {c[0]}: {c[1]}')
+            print(f'{choiceidx}: {c[0]} ({c[1]})')
 
         response = None
         while response == None:
@@ -181,37 +304,39 @@ def choose(text, choices):
 
         responseidx = int(response) - 1 # Account for zero-based index
         responsekey = list(choices.keys())[responseidx]
-        print(responsekey, choices[responsekey])
+        inputhistory.append(str(responseidx))
+        print("You chose " + str((responsekey, choices[responsekey])))
         return (responsekey, choices[responsekey])
     else:
         raise BaseException('Unrecognized type of choices: ' + str(type(choices)))
 
 def levelinvoke(module, level, npc):
-    levelfn = getattr(module, 'level' + str(level))
-    if levelfn == None:
-        print("No level function found for " + module + " for level " + str(level))
+    def nop(npc): pass
+
+    levelfn = getattr(module, 'level' + str(level), nop)
     levelfn(npc)
 
 def abilityscoreimprovement(npc):
     abilities = [ 'STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA']
-    abilityidx = choose("Improve an ability score by 1:", abilities)
-    ability = abilities[abilityidx]
+    ability = choose("Improve an ability score by 1:", abilities)
     newvalue = int(getattr(npc, ability)) + 1
     setattr(npc, ability, newvalue)
-    abilityidx = choose("Improve an ability score by 1:", abilities)
-    ability = abilities[abilityidx]
+    ability = choose("Improve an ability score by 1:", abilities)
     newvalue = int(getattr(npc, ability)) + 1
     setattr(npc, ability, newvalue)
 
 def feat(npc):
     pass
 
+
 def populateModule(module):
-    module.features = features
+    module.commonfeatures = commonfeatures
     module.replace = replace
     module.choose = choose
-    module.subclassload = subclassload
+    module.discover = discover
     module.levelinvoke = levelinvoke
+    module.abilityscoreimprovement = abilityscoreimprovement
+    module.feat = feat
 
 # Slurp functions--these pull in races and classes
 #
@@ -231,7 +356,11 @@ def loadraces():
 
         # "import" some useful definitions from here
         populateModule(mymodule)
-    return results
+    # Sort the results
+    keys = list(results.keys())
+    keys.sort()
+    sortedresults = {i: results[i] for i in keys}
+    return sortedresults
 
 def loadclasses():
     results = {}
@@ -251,12 +380,23 @@ def loadclasses():
         populateModule(mymodule)
     return results
 
+def process(script):
+    print("Process " + script)
+
 def main():
     npc = NPC()
 
-    # What do we do for ability scores? Hand entry, random gen, weighted average, ...?
-    # TODO: DO a choose(...) against the different strategies, each of which is a function, then execute that
-    print("Ability scores:")
+    #parser = argparse.ArgumentParser(
+    #                prog='NPCGen',
+    #                description='A tool for generating 5th-ed NPCs')
+    #parser.add_argument('--version', action='version', version='%(prog)s 1.0')
+    #parser.add_argument('scripts', type=process, nargs='*',
+    #                help='Generate an NPC from script rather than interactive')
+    #args = parser.parse_args()
+    #print(vars(args))
+
+    # Input commands/args/switches
+    #any argument passed assumed to be an XML script
 
     def handentry(npc):
         npc.STR = int(input("  STR: "))
@@ -265,15 +405,33 @@ def main():
         npc.INT = int(input("  INT: "))
         npc.WIS = int(input("  WIS: "))
         npc.CHA = int(input("  CHA: "))
-    handentry(npc)
+    def randomgen(npc):
+        def roll():
+            return random.randrange(1,6) + random.randrange(1,6) + random.randrange(1,6)
+        npc.STR = roll()
+        npc.DEX = roll()
+        npc.CON = roll()
+        npc.INT = roll()
+        npc.WIS = roll()
+        npc.CHA = roll()
+    def average(npc):
+        npc.STR = 11 
+        npc.DEX = 11
+        npc.CON = 11
+        npc.INT = 11
+        npc.WIS = 11
+        npc.CHA = 11
+    (choose("Ability score generation:", {"Hand-entry": handentry, "Randomly generated": randomgen, "Strict average": average}))[1](npc)
 
     # Load all races into the array
     races = loadraces()
-    race = races[choose("Choose race:", list(races.keys()))]
-    race.apply_race(npc)
-    if len(race.subraces) > 0:
-        subrace = choose("Choose subrace:", race.subraces)
-        race.apply_subrace(subrace, npc)
+    racemodule = choose("Choose race:", races)[1]
+    npc.race = racemodule
+    racemodule.apply_race(npc)
+    if len(racemodule.subraces) > 0:
+        print(racemodule.subraces)
+        subrace = choose("Choose subrace:", racemodule.subraces)
+        racemodule.apply_subrace(subrace, npc)
 
     # Load all classes into the array
     classes = loadclasses()
@@ -281,33 +439,20 @@ def main():
     levelup = True
     while levelup == True:
         level += 1
-        clss = classes[choose("Choose class:", list(classes.keys()))]
+
+        # Any racial/subracial level advancements?
+        levelinvoke(npc.race, level, npc)
+
+        clss = choose("Choose class:", classes)[1]
 
         # TODO: For multiclassing, we need to get the level of JUST the chosen class
         # not the total levels of the NPC.
 
-        #(getattr(clss, 'level' + str(level)))(npc)
         levelinvoke(clss, level, npc)
         levelup = (input(">>> Currently level " + str(level) + "; Another level? ") == 'y')
 
+    print("Choices: " + str(inputhistory))
     npc.print_markdown()
-
-def oldmain():
-    parser = argparse.ArgumentParser(
-                    prog='NPCGen',
-                    description='A tool for generating 5th-ed NPCs')
-    parser.add_argument('--version', action='version', version='%(prog)s 1.0')
-    # Input commands
-    #parser.add_argument('--class', help='Class to generate')
-    #parser.add_argument('--subclass', help='Subclass to generate')
-    #parser.add_argument('--race', help='Race to generate')
-    #parser.add_argument('--subrace', help='Subrace to generate')
-    #parser.add_argument('--level', help='Level to generate to')
-
-    # Process arguments
-    args = parser.parse_args()
-    print(vars(args))
-
 
 
 if __name__ == '__main__':

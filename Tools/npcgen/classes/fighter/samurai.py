@@ -37,12 +37,9 @@ Once you use this feature, you can’t use it again until you finish a long rest
 name = "Samurai"
 
 def level3(npc):
-    npc.subclasses['Fighter'] = name
-
     npc.description.append("The Samurai is a fighter who draws on an implacable fighting spirit to overcome enemies. A samurai's resolve is nearly unbreakable, and the enemies in a samurai's path have two choices: yield or die fighting.")
 
-    proficiencies = ['History', 'Insight', 'Performance', 'Persuasion']
-    npc.proficiencies.append(choose("Choose a bonus proficiency:", proficiencies))
+    npc.skills.append(choose("Choose a bonus skill:", ['History', 'Insight', 'Performance', 'Persuasion']))
 
     npc.bonusactions.append("**Fighting Spirit.** You can give yourself advantage on all weapon attack rolls until the end of the current turn. When you do so, you also gain 5 temporary hit points.\nYou can use this feature three times. You regain all expended uses of it when you finish a long rest.")
 

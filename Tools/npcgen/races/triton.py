@@ -24,7 +24,6 @@ Tritons guard the ocean depths, building small settlements beside deep trenches,
 """
 name = "Triton"
 def apply_race(npc):
-    npc.race = name
     npc.description.append("Tritons guard the ocean depths, building small settlements beside deep trenches, portals to the elemental planes, and other dangerous spots far from the eyes of land-bound folk. Long-established guardians of the deep ocean floor, the noble tritons have gradually become increasingly active in the world above.")
 
     npc.STR += 1
@@ -35,9 +34,9 @@ def apply_race(npc):
 
     npc.speed = '30ft; swimming 30ft'
 
-    npc.features.append(features['amphibious'])
+    npc.features.append(commonfeatures['amphibious'])
 
-    npc.features.append("**Control Air and Water**. A child of the sea, you can call on the magic of elemental air and water. You can cast [fog cloud](/Magic/Spells/fog-cloud.md) with this trait. Starting at 3rd level, you can cast [gust of wind](/Magic/Spells/gust-of-wind.md) with it, and starting at 5th level, you can also cast [wall of water](/Magic/Spells/wall-of-water.md) with it. Once you cast a spell with this trait, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells.")
+    npc.actions.append("**Control Air and Water**. You can cast [fog cloud](/Magic/Spells/fog-cloud.md) with this trait. Once you cast a spell with this trait, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells.")
 
     npc.features.append("**Emissary of the Sea**. Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return.")
 
@@ -48,3 +47,9 @@ def apply_race(npc):
     npc.languages.append("Aquan")
 
 subraces = []
+
+def level3(npc):
+    replace("**Control Air and Water**.", npc.actions, "**Control Air and Water**. You can cast [fog cloud](/Magic/Spells/fog-cloud.md) or [gust of wind](/Magic/Spells/gust-of-wind.md) with this trait. Once you cast a spell with this trait, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells.")
+
+def level5(npc):
+    replace("**Control Air and Water**.", npc.actions, "**Control Air and Water**. You can cast [fog cloud](/Magic/Spells/fog-cloud.md), [gust of wind](/Magic/Spells/gust-of-wind.md) or [wall of water](/Magic/Spells/wall-of-water.md) with this trait. Once you cast a spell with this trait, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells.")

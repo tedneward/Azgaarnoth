@@ -65,8 +65,6 @@ arcane_shots = {
 }
 
 def level3(npc):
-    npc.subclasses['Fighter'] = name
-
     npc.description.append("An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. Among elves, Arcane Archers are some of their most elite warriors. These archers stand watch over the fringes of elven domains, keeping a keen eye out for trespassers and using magic-infused arrows to defeat monsters and invaders before they can reach elven settlements. Over the centuries, the methods of these elf archers have been learned by members of other races who can also balance arcane aptitude with archery.")
     npc.features.append("**Magic Arrow.** Whenever you fire a nonmagical arrow from a shortbow or longbow, you can make it a magic arrow, with a +1 bonus to the attack and damage rolls. The magic fades from the arrow immediately after it hits or misses its target.")
 

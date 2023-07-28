@@ -60,7 +60,6 @@ name = 'Aasimari'
 def apply_race(npc):
     npc.CHA += 2
 
-    npc.race = 'Aasimar'
     npc.size = 'Medium'
     npc.speed = '30ft'
 
