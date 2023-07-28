@@ -126,11 +126,11 @@ class NPC:
         return ", ".join(classlist)
     
     def classlevel(self, clss):
-        cl = 0
-        for cl in self.classes:
-            if cl == clss:
-                cl += 1
-        return cl
+        count = 0
+        for cli in self.classes:
+            if cli == clss:
+                count += 1
+        return count
     
     def level(self):
         return len(self.classes)
@@ -368,10 +368,21 @@ def levelinvoke(module, level, npc):
 
 def abilityscoreimprovement(npc):
     abilities = [ 'STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA']
-    ability = choose("Improve an ability score by 1:", abilities)
+
+    def interactive():
+        return choose("Improve an ability score by 1:", abilities) 
+
+    def scripted():
+        scriptedin = scriptedinput.pop(0).strip()
+        if scriptedin.isdigit():
+            return abilities[int(scriptedin)]
+        else:
+            return scriptedin
+
+    ability = interactive() if len(scriptedinput) > 0 else scripted()
     newvalue = int(getattr(npc, ability)) + 1
     setattr(npc, ability, newvalue)
-    ability = choose("Improve an ability score by 1:", abilities)
+    ability = interactive() if len(scriptedinput) > 0 else scripted()
     newvalue = int(getattr(npc, ability)) + 1
     setattr(npc, ability, newvalue)
 
@@ -488,18 +499,18 @@ def gennpc():
     levelup = True
     while levelup == True:
         level += 1
+        print("-------- Level " + str(level))
 
         # Any racial/subracial level advancements?
         levelinvoke(npc.race, level, npc)
 
         clss = choose("Choose class:", classes)[1]
 
-        # TODO: For multiclassing, we need to get the level of JUST the chosen class
-        # not the total levels of the NPC.
+        clsslevel = npc.classlevel(clss.name) + 1
+        levelinvoke(clss, clsslevel, npc)
 
-        levelinvoke(clss, level, npc)
         if len(scriptedinput) == 0:
-            levelup = (input(">>> Now level " + str(npc.level()) + "; Another level? ") == 'y')
+            levelup = (input("Another level? ") == 'y')
         else:
             continue
 
