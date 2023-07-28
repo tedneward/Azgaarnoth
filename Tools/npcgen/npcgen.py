@@ -155,7 +155,6 @@ class NPC:
         print("")
         print(self.print_savingthrows())
         print("")
-        #print("**Skills** " + ", ".join(self.skills))
         print(self.print_skills())
         print("")
         print("**Senses** " + ", ".join(self.senses))
@@ -184,15 +183,15 @@ class NPC:
         print('\n'.join(self.description))
 
     def print_stats(self):
-        print("**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**")
-        print("-------|-------|-------|-------|-------|-------")
-        print(str(self.STR) + "(" + str(abilitybonus(self.STR)) + ") | " + 
-              str(self.DEX) + "(" + str(abilitybonus(self.DEX)) + ") | " + 
-              str(self.CON) + "(" + str(abilitybonus(self.CON)) + ") | " + 
-              str(self.INT) + "(" + str(abilitybonus(self.INT)) + ") | " + 
-              str(self.WIS) + "(" + str(abilitybonus(self.WIS)) + ") | " + 
-              str(self.CHA) + "(" + str(abilitybonus(self.CHA)) + ")")
-        print("")
+        desc =  "**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**\n"
+        desc += "-------|-------|-------|-------|-------|-------\n"
+        desc += (str(self.STR) + "(" + str(abilitybonus(self.STR)) + ") | " + 
+                 str(self.DEX) + "(" + str(abilitybonus(self.DEX)) + ") | " + 
+                 str(self.CON) + "(" + str(abilitybonus(self.CON)) + ") | " + 
+                 str(self.INT) + "(" + str(abilitybonus(self.INT)) + ") | " + 
+                 str(self.WIS) + "(" + str(abilitybonus(self.WIS)) + ") | " + 
+                 str(self.CHA) + "(" + str(abilitybonus(self.CHA)) + ")")
+        return desc
 
     def print_savingthrows(self):
         desc = "**Saving Throws** "
@@ -300,17 +299,14 @@ def choose(text, choices):
             print(f'{choiceidx}: {c}')
 
         response = scriptedinput.pop(0).strip()
+        print(">>> " + str(response))
         if response.isdigit():
             response = int(response)
-            print("You chose " + choicelist[response])
             return choicelist[response]
         elif response == "random":
             responseidx = random.randrange(0, len(choicelist))
-            print("You chose " + choicelist[responseidx])
             return choicelist[responseidx]
         else:
-            responseidx = choicelist.index(response)
-            print("You chose " + choicelist[responseidx])
             return response
 
     def choosefrommap(choicemap):
@@ -343,20 +339,18 @@ def choose(text, choices):
             print(f'{choiceidx}: {c[0]} ({c[1]})')
 
         response = scriptedinput.pop(0).strip()
+        print(">>> " + str(response))
         if response.isdigit():
             responseidx = int(response) - 1
             responsekey = list(choicemap.keys())[responseidx]
             result = (responsekey, choicemap[responsekey])
-            print("You chose numerically " + str(result))
             return result
         elif response == "random":
             responseidx = random.randrange(0, len(choicemap))
             responsekey = list(choicemap.keys())[responseidx]
             result = (responsekey, choicemap[responsekey])
-            print("Random sez... " + str(result))
             return result
         else:
-            print("You chose " + str((response, choicemap[response])))
             return (response, choicemap[response])
 
     if isinstance(choices, list) and len(scriptedinput) == 0: return choosefromlist(choices)
@@ -473,6 +467,7 @@ def gennpc():
         npc.INT = roll()
         npc.WIS = roll()
         npc.CHA = roll()
+        print(npc.print_stats())
     def average(npc):
         npc.STR = 11 
         npc.DEX = 11
@@ -480,16 +475,12 @@ def gennpc():
         npc.INT = 11
         npc.WIS = 11
         npc.CHA = 11
-    method = choose("Ability score generation:", {"Hand-entry": handentry, "Randomgen": randomgen, "Average": average})
-    print(method)
-    method[1](npc)
-    npc.print_stats()
+    (choose("Ability score generation:", {"Hand": handentry, "Randomgen": randomgen, "Average": average}))[1](npc)
 
     racemodule = choose("Choose race:", races)[1]
     npc.race = racemodule
     racemodule.apply_race(npc)
     if len(racemodule.subraces) > 0:
-        print(racemodule.subraces)
         subrace = choose("Choose subrace:", racemodule.subraces)
         racemodule.apply_subrace(subrace, npc)
 
@@ -508,7 +499,7 @@ def gennpc():
 
         levelinvoke(clss, level, npc)
         if len(scriptedinput) == 0:
-            levelup = (input(">>> Currently level " + str(level) + "; Another level? ") == 'y')
+            levelup = (input(">>> Now level " + str(npc.level()) + "; Another level? ") == 'y')
         else:
             continue
 
@@ -522,7 +513,6 @@ def main():
     parser.add_argument('scripts', type=process, nargs='+',
                     help='Generate an NPC from script rather than interactive')
     args = parser.parse_args()
-    print(vars(args))
 
     npc = gennpc()
     npc.print_markdown()
