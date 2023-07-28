@@ -263,9 +263,10 @@ class NPC:
 # that needs to be sorted to make that work. Right now hobgoblin.py can't see
 # `features`, so maybe try to figure that out in the future.
 commonfeatures = {
-    'amphibious' : "**Amphibious**. You can breathe air and water.",
-    'darkvision' : "**Darkvision**. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
-    'superiordarkvision' : "**Superior Darkvision**. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+    'amphibious' : "**Amphibious.**. You can breathe air and water.",
+    'darkvision30' : "**Darkvision.**. You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
+    'darkvision' : "**Darkvision.**. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
+    'superiordarkvision' : "**Superior Darkvision.**. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
 }
 
 def discover(dirname):

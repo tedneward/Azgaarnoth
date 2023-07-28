@@ -127,7 +127,7 @@ Still other rumors tell of clans of non-Exodus dwarves that were then captured b
 
     npc.languages.append("Undercommon")
 
-    npc.features.append("**Sunlight Sensitivity**. You have disadvantage on Attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.")
+    npc.features.append("**Sunlight Sensitivity.**. You have disadvantage on Attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.")
 
     npc.features.append("**Eldritch Resilience.** You have advantage on Constitution saving throws against spells.")
 
@@ -204,4 +204,7 @@ def level18(npc):
     if npc.subrace == 'Hill': npc.hitpoints += 1
 
 def level19(npc): 
+    if npc.subrace == 'Hill': npc.hitpoints += 1
+
+def level20(npc): 
     if npc.subrace == 'Hill': npc.hitpoints += 1
