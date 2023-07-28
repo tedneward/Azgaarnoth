@@ -413,10 +413,10 @@ def abilityscoreimprovement(npc):
         else:
             return scriptedin
 
-    ability = interactive() if len(scriptedinput) > 0 else scripted()
+    ability = interactive() if len(scriptedinput) == 0 else scripted()
     newvalue = int(getattr(npc, ability)) + 1
     setattr(npc, ability, newvalue)
-    ability = interactive() if len(scriptedinput) > 0 else scripted()
+    ability = interactive() if len(scriptedinput) == 0 else scripted()
     newvalue = int(getattr(npc, ability)) + 1
     setattr(npc, ability, newvalue)
 
