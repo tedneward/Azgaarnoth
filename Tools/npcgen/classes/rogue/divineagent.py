@@ -28,6 +28,9 @@ def level7(npc):
 def level8(npc):
     npc.maxspellsknown = 6
 
+def level9(npc):
+    npc.features.append(commonfeatures('lucky'))
+
 def level10(npc):
     npc.cantripsknown.append(spelllinkify('(placeholder)'))
     npc.maxspellsknown = 7
