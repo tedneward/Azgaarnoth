@@ -1,4 +1,4 @@
-# Arcane Weapon
+# Shrapnel Ray
 *1st-level evocation* (Wizard)
 
 **Casting Time**: 1 action

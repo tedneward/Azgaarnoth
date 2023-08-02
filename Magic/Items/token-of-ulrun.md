@@ -1,5 +1,5 @@
 # Token of Ulrun Anyuthvar
-*(jewelry/necklace, unique)*
+*(unique)*
 
 This emerald gem in a simple silver setting on a thin necklace is the token of favor of Ulrun Anyuthvar, the Guardian of Heathwyck.
 
