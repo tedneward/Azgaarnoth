@@ -3,20 +3,6 @@
 ## [Eldar](Eldar.md)
 The Eldar, mythical beings that supposedly walked the earth in the ancient times, no longer exist, but drive much of the history of Azgaarnoth. It is believed they are the ones who created first the [Firstborn](Firstborn.md), then later the [Humans](Humans.md) and then the [Created](Created.md). Physical descriptions of the Eldar are rare, but what is known is that they were humanoid in shape, thought to be often eight to twelve feet in height, and glowing with mysical power. (There is a school of thought that giants are their long-descended and -fallen kin, but much remains inexplicable if that is the case--including how the Eldar fell so far.)
 
-## [Hordes](Hordes.md)
-Legend holds that the Hordes descended upon Azgaarnoth from "someplace else", but from there the legends vary wildly as to the origin of the massive numbers of humanoids that sought to take Azgaarnoth by force from the Eldar.
-
-* [Bugbear](Bugbear.md)
-* [Centaur](Centaurs.md)
-* [Gnoll](Gnoll.md)
-* Goblin
-* [Hobgoblin](Hobgoblins.md)
-* [Kenku](Kenku.md)
-* Kobold
-* [Minotaur](Minotaurs.md)
-* [Orc](Orc.md)
-* [Tabaxi](Tabaxi.md)
-
 ## [Firstborn](Firstborn.md)
 The Firstborn include the dwarves (and their cousins, the gnomes and halflings) and the elves. Each was given a different part of the world to caretake, and all were involved in the war against the [Hordes](Hordes.md) when they arrived. The Eldar's Dragon companions later sought to aid the Firstborn by bestowing the [Dragonmark](Dragonmarked.md) upon several, which turned out (intentional or otherwise) to be something that could be passed down through generations to both Firstborn and humans.
 
@@ -39,12 +25,32 @@ The third of the racial groups that the Eldar brought into being, the Created re
 * [Aasimari](Aasimari.md)
 * [Dragonborn](Dragonborn.md)
 * [Dragonkin](Dragonkin.md)
+* [Genasi](Genasi.md)
 * [Tiefling](Tiefling.md)
 
-## [Undersea](Undersea.md)
+## [Hordes](Hordes.md)
+Legend holds that the Hordes descended upon Azgaarnoth from "someplace else", but from there the legends vary wildly as to the origin of the massive numbers of humanoids that sought to take Azgaarnoth by force from the Eldar.
 
+* [Bugbear](Bugbear.md)
+* [Centaur](Centaurs.md)
+* [Gnoll](Gnoll.md)
+* [Goblin](Goblin.md)
+* [Hobgoblin](Hobgoblins.md)
+* [Kenku](Kenku.md)
+* [Kobold](Kobold.md)
+* [Minotaur](Minotaurs.md)
+* [Orc](Orc.md)
+* [Tabaxi](Tabaxi.md)
+
+## [Underdark](Underdark.md)
+Many races inhabit the deep cavern systems that burrow throughout the continent, collectively known as the "Underdark".
+
+## [Undersea](Undersea.md)
 Recently, visitors claiming to be from under the surface of the waves have appeared on Azgaarnothian shores, and the Sea Elves confirm that these races have just as rich a history and culture as any race of the land.
 
 * [Lizardfolk](Lizardfolk.md)
+* [Merfolk](Merfolk.md)
+* [Sahuagin](Sahuagin.md)
+* [Siren](Siren.md)
 * [Tortle](Tortles.md)
 * [Triton](Tritons.md)

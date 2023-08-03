@@ -1,5 +1,5 @@
 # Geography: The Seventeen Cities
-These are a list of cities, originally built by the [dwarves](/Races/Dwarves.md) in the [Underdark](/Geography/Underdark.md) under the [Daw Mountains](/Geography/DawMountains.md), that fell to the [Hordes](/Races/Hordes.md). In time, as city after city fell, dwarven clans were forced to relocate further and further west in a general retreat that came to stand as a symbol of shame and regret; this was later called the Exodus. 
+These are a list of cities, originally built by the [dwarves](../Races/Dwarves.md) in the [Underdark](Underdark.md) under the [Daw Mountains](../Geography/DawMountains.md), that fell to the [Hordes](../Races/Hordes.md). In time, as city after city fell, dwarven clans were forced to relocate further and further west in a general retreat that came to stand as a symbol of shame and regret; this was later called the Exodus. 
 
 Little is known about the Seventeens' current state--or occupancy--but they factor prominently in dwarven poetry, literature, song, and history. Dwarvish music often alternates between the glories of the Seventeen, the tragedy of their fall, the evils of those who took them, and the triumphant Return that will someday return them to dwarvish hands.
 
@@ -11,7 +11,7 @@ The names of the Seventeen are known, but their locations are less clear; what i
 
 Name | Rough Location | Date of Fall | Notes
 -----|----------------|--------------|---------
-Khun Ladur|Near [Dukomi](/Cities/Dukomi.md)|1137 AF|First to fall; fabled for its rich gemstone deposits
+Khun Ladur|Near [Dukomi](../Cities/Dukomi.md)|1137 AF|First to fall; fabled for its rich gemstone deposits
 Bhem Buldar| | 1156 AF |
 Khun Boldohr| | 1201 AF |
 Khun Huldun| | 1247 AF |
@@ -27,4 +27,4 @@ Kher Khinturm| | 1642 AF |
 Khun Mamalduhr| | 1690 AF |
 Kolgalir| | 1776 AF | The greatest of the Seventeen, capitol of the Dwarven Cities and home of some of their most impressive engineering feats
 Khun Damkuldihr| | 1821 AF |
-Khun Bernkuldir|Near [Nytherion](/Cities/Nytherion.md)| 1861 AF |
+Khun Bernkuldir|Near [Nytherion](../Cities/Nytherion.md)| 1861 AF |
