@@ -261,6 +261,10 @@ class NPC:
         return desc
 
 # This dict is shared to all race/class modules for consistent feature text.
+feats = {
+    'Lucky' : "**Lucky.** You have 3 luck points. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend one of your luck points after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw. You can also spend one luck point when an attack roll is made against you. Roll a d20 and then choose whether the attack uses the attacker's roll or yours. If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled. You regain your expended luck points when you finish a long rest.",
+}
+
 commonfeatures = {
     'amphibious' : "**Amphibious.**. You can breathe air and water.",
     'darkvision30' : "**Darkvision.**. You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
@@ -422,6 +426,11 @@ def abilityscoreimprovement(npc):
 def feat(npc):
     pass
 
+def asiorfeat(npc):
+    choice = choose("Ability Score Improvement or Feat?", ["ABI", "Feat"])
+    if choice == "ABI": return abilityscoreimprovement(npc)
+    elif choice == "Feat": return feat(npc)
+    else: raise BaseException("Unrecognized input: " + choice)
 
 def populateModule(module):
     module.commonfeatures = commonfeatures
@@ -429,6 +438,7 @@ def populateModule(module):
     module.choose = choose
     module.discover = discover
     module.levelinvoke = levelinvoke
+    module.asiorfeat = asiorfeat
     module.abilityscoreimprovement = abilityscoreimprovement
     module.feat = feat
     module.spelllinkify = spelllinkify
@@ -475,6 +485,24 @@ def loadclasses():
         populateModule(mymodule)
     return results
 
+def loadfeats():
+    results = {}
+    for file in os.listdir("feats"):
+        if file == '__pycache__':
+            continue
+
+        loader = importlib.machinery.SourceFileLoader( file, 'feats/' + file )
+        spec = importlib.util.spec_from_loader( file, loader )
+        mymodule = importlib.util.module_from_spec( spec )
+        loader.exec_module( mymodule )
+
+        # Use mymodule
+        results[mymodule.name] = mymodule
+
+        # "import" some useful definitions from here
+        populateModule(mymodule)
+    return results
+
 def process(script):
     scriptfile = open(script, 'r')
     with scriptfile:
@@ -488,6 +516,7 @@ def gennpc():
     # Preload what we need
     races = loadraces()
     classes = loadclasses()
+    #feats = loadfeats()
 
     def roll():
         return random.randrange(1,6) + random.randrange(1,6) + random.randrange(1,6)
