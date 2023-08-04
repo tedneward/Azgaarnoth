@@ -1,16 +1,16 @@
 # Dragonmarked
-It is believed that the dragonmark dates back to the very earliest days of the [Eldar](/Races/Eldar.md), and that the Eldar handed out the dragonmark to favored [Firstborn](/Races/Firstborn.md) or [humans](/Races/Humans.md) as rewards for excellent service. No [Created](/Races/Created.md) have ever borne a dragonmark, and for many milennia, it was believed that no [Hordes](/Races/Hordes.md)ish race could bear one, but time has proven that to be a false assumption--at least, for those of mixed parentage.
+It is believed that the dragonmark dates back to the very earliest days of the [Eldar](Eldar.md), and that the Eldar handed out the dragonmark to favored [Firstborn](Firstborn.md) or [humans](Humans.md) as rewards for excellent service. No [Created](Created.md) have ever borne a dragonmark, and for many milennia, it was believed that no [Hordes](Hordes.md)ish race could bear one, but time has proven that to be a false assumption--at least, for those of mixed parentage.
 
-Dragonmarked are generally "born wild" and, once known, very quickly hunted down by either the [Draconic Order](/Organizations/DraconicOrder/DraconicOrder.md) or the [Cult of the Wyrm](/Organizations/CultOfTheWyrm.md), to either recruit or destroy. Dragonmarked are not part of a particular [noble House](/Organizations/Houses/Houses.md), but bloodlines do carry through genetic lines (or so it seems), and many of the noble Houses carry the dragonmark within their bloodlines... as do most of the other races by this point in Azgaarnoth's history, although perhaps not as strongly as the nobility.
+Dragonmarked are generally "born wild" and, once known, very quickly hunted down by either the [Draconic Order](../Organizations/DraconicOrder/DraconicOrder.md) or the [Cult of the Wyrm](../Organizations/CultOfTheWyrm.md), to either recruit or destroy. Dragonmarked are not part of a particular [noble House](../Organizations/Houses/Houses.md), but bloodlines do carry through genetic lines (or so it seems), and many of the noble Houses carry the dragonmark within their bloodlines... as do most of the other races by this point in Azgaarnoth's history, although perhaps not as strongly as the nobility.
 
 Dragonmarks are associated with race and are represented by a combination of variant races and subraces.
 
 * For humans, a dragonmark is a variant race that replaces the normal traits associated with those races.
 * For half-elves and half-orcs, a dragonmark is a variant race. You keep some of the standard traits and replace others with the traits associated with your mark.
 * For dwarves, elves, gnomes, and halflings, the dragonmark replaces your subrace. So, for example, if you’re making an elf character, you can choose to take the [Mark of Shadow](#the-mark-of-shadow) instead of being a wood elf or high elf.
-* Other races have not yet reliably developed stable marks. That said, any character (race and/or class) can take the [Aberrant Dragonmark feat](/Classes/Feats.md#aberrant-dragonmark), which grants limited but dangerous magical abilities to those who are not dragonmarked with a stable mark. 
+* Other races have not yet reliably developed stable marks. That said, any character (race and/or class) can take the [Aberrant Dragonmark feat](../Classes/Feats.md#aberrant-dragonmark), which grants limited but dangerous magical abilities to those who are not dragonmarked with a stable mark. 
 
-As a dragonmarked character grows in level, you can take the [Greater Dragonmark feat](/Classes/Feats#greater-dragonmark) to reflect the growing power of your dragonmark. This represents the evolution of a dragonmark--an exponential increase in both the size of the dragonmark and the powers it bestows. Only a fraction of dragonmarked ever develop a Greater Dragonmark. This brings attention to the bearer of the Mark--both wanted and unwanted.
+As a dragonmarked character grows in level, you can take the [Greater Dragonmark feat](../Classes/Feats#greater-dragonmark) to reflect the growing power of your dragonmark. This represents the evolution of a dragonmark--an exponential increase in both the size of the dragonmark and the powers it bestows. Only a fraction of dragonmarked ever develop a Greater Dragonmark. This brings attention to the bearer of the Mark--both wanted and unwanted.
 
 ## Intuition Dice
 A dragonmark improves your ability to perform a specific type of task. The Mark of Finding sharpens your senses and improves your perception, while the Mark of Making guides your hands when you work with artisan’s tools.
@@ -30,7 +30,7 @@ While dragonmarks share the same general appearance, your dragonmark could have 
 1d6 | Quirk
 --- | -----
 1 | Your dragonmark is unusually small or remarkably large.
-2 | Your dragonmakr slowly moves around your body.
+2 | Your dragonmark slowly moves around your body.
 3 | Your dragonmark glows dramatically when you use it.
 4 | Your dragonmark tingles when you’re near someone with the same mark.
 5 | Your dragonmark tickles when you use it.

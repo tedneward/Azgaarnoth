@@ -1,7 +1,7 @@
 # Minotaurs
-Born the strongest of the [Hordes](Hordes.md), minotaurs swiftly discovered that they had no love of leadership or organization, and swiftly moved to either take what was theirs by right, or by force, and soon separated from the rest into their own clans. They could be brought out to join the Hordes in battle as a clan if persuaded by the right amounts of tribute, treasure, or other offerings, and many believe the minotaur clans were the first [Mercenary Companies](/Organizations/MercCompanies/MercCompanies.md). (In fact, several mercenary companies are either made up entirely out of a minotaur clan, or feature minotaurs prominently in the leadership structure today.)
+Born the strongest of the Hordes, minotaurs swiftly discovered that they had no love of leadership or organization, and swiftly moved to either take what was theirs by right, or by force, and soon separated from the rest into their own clans. They could be brought out to join the Hordes in battle as a clan if persuaded by the right amounts of tribute, treasure, or other offerings, and many believe the minotaur clans were the first [Mercenary Companies](../Organizations/MercCompanies/MercCompanies.md). (In fact, several mercenary companies are either made up entirely out of a minotaur clan, or feature minotaurs prominently in the leadership structure today.)
 
-Minotaurs found in [Yithi](/Nations/Yithi.md) and (less often) [Zhi](/Nations/Zhi.md) are quite strikingly different from their Horde-homed brethren, frequently solitary, thoughtful, and quite committed to rule of law and order.
+Minotaurs found in [Yithi](../Nations/Yithi.md) and (less often) [Zhi](../Nations/Zhi.md) are quite strikingly different from their Horde-homed brethren, frequently solitary, thoughtful, and quite committed to rule of law and order.
 
 Minotaurs are often drawn to the more martial classes, such as fighter or barbarian, but minotaurs are found within all of the classes.
 
@@ -44,23 +44,3 @@ Minotaur clan names originate with a great hero whose descendants take on that n
 * **Alignment**. Minotaurs believe in a strict code of honor, and thus tend toward law. They are loyal to the death and make implacable enemies, even as their brutal culture and disdain for weakness push them toward evil.
 
 * **Hybrid Nature**. You have two creature types: humanoid and monstrosity. You can be affected by a game effect if it works on either of your creature types.
-
-## Subraces / Variants
-
-### Sea Reaver
-The Sea Reaver minotaurs are those minotaurs who, early in the Hordes' existence, took to the sea as sailors, pirates, and merchants. They found a love for the sea that balanced against their love of order, and never looked back. Bound by the sea on all sides, the minotaurs focused their tenacity, strength, and cunning to become some of the most skilled and ferocious mariners in the world. They range across the water in their ships, raiding and pillaging as they wish. Sea Reavers sometimes engage in trade, but they much prefer to take what they want by force. After all, as the strongest of all folk, they deserve the treasures and goods that lesser creatures have gathered.
-
-Some Sea Reavers have found that there is more gain to be had from trade than pillage, but they are often set upon by their fellow minotaurs for weakness. Many Sea Reavers have found employ within the various [Merchant Guilds](/Organizations/MerchantGuilds/MerchantGuilds.md) as both escorts and privateers, and many a Sea Reaver has combined the two activities in one trip.
-
-Sea Reavers have the following additional features:
-
-* **Sailor**. You gain proficiency with navigator’s tools and vehicles (water).
-
-### Marshal
-Marshal minotaurs are those minotaurs within [Yithi](/Nations/Yithi.md) and [Zhi](/Nations/Zhi.md) that have chosen to take up a life of civilization and enforcing the law. They form a loose network of roaming adjudicators and magistrates, often dispensing rough justice in places where bringing a criminal to trial would be problematic or impossible. They will frequently work together when the time arises, may demand logistical support of any governor, and are always well-equipped. Many minotaur Marshals are paladins.
-
-Marshals have the following additional features:
-
-* **Magistrate**. You have deep knowledge of the law. Additionally, while within the borders of your home nation, you have the resources of the Court to draw upon for equipment, including small numbers of common magic items (if the GM deems it available in the city or township).
-
-*Source: [Unearthed Arcana: Centaurs and Minotaurs](https://dnd.wizards.com/articles/unearthed-arcana/centaurs-and-minotaurs)*
