@@ -40,7 +40,7 @@ While it is not unknown for a tale or concept to form its own spirit, it is very
 
 As these spirits are conceptual entities, rather than physical ones, they are far more prone to travel than spirits of other classifications. However, they still cannot stray too far from the lands where their ideas are discussed and valued unless they are following one or more entities that carry those ideas with them.
 
-## Spirits and [Shamans](/Classes/Shaman.md)
+## Spirits and [Shamans](../Classes/Shaman.md)
 The separation between the spiritual and physical worlds necessitates the existence of shamans: intermediaries that bridge the two worlds and keep them in balance. Problems in one world can often be traced to sources in the other, and it is the responsibility of a shaman to restore order in both worlds by resolving such conflicts.
 
 While shamans of the mortal world are our primary focus, it should be noted that, as noted before, there is nothing spiritually unique about mortal races. Shamans or shaman analogues can be found in all corners of both worlds. Dryads, for example, sometimes come into being when the spirit of a tree feels a shamanic call to the mortal world.
