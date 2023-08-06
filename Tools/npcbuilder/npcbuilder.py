@@ -5,7 +5,7 @@ import importlib.machinery
 import importlib.util
 import os
 import random
-import commonmark
+import types
 
 # This script parses the markdown files in /Races, /Classes, and /Backgrounds
 # loading the Python code found in each .md file into a script that is then
@@ -178,8 +178,9 @@ def populatemodule(module):
 def discover(directory, loadfn):
     files = os.listdir(directory)
     for f in files:
-        if f != '__pycache__':
-            loadfn(directory + "/" + f)
+        filename = directory + "/" + f
+        if os.path.isfile(filename):
+            loadfn(filename)
 
 def parsemd(mdfilename):
     pythoncode = ""
@@ -197,15 +198,26 @@ def parsemd(mdfilename):
         print("WARNING: No literate Python found")
     return pythoncode
 
+def definemodule(modulename, code):
+    codeObject = compile(code, modulename, 'exec')
+    module = types.ModuleType(modulename)
+    #function = types.FunctionType(codeObject.co_consts[0], globals(), modulename)
+    return module
+
 # We expect race modules to contain the following top-level symbols:
 # Mandatory:
-# name : string
-# level0(npc) : function
-# subraces : map<string, modules>
+#   name : string
+#   level0(npc) : function
+#   subraces : map<string, modules>
+# Optional:
+#   levelX(npc) : function
 def loadraces():
     def loadrace(mdfilename):
         print("Loading " + str(mdfilename))
         code = parsemd(mdfilename)
+        racemodulename = mdfilename[mdfilename.rindex("/")+1:-3]
+        print("Defining code in module " + racemodulename)
+        racemodule = definemodule(racemodulename, code)
 
     discover(REPOROOT + 'Races', loadrace)
 
