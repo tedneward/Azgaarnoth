@@ -1,4 +1,4 @@
-# Lars [Teskerwill](/Organizations/Houses/Teskerwill.md)
+# Lars [Teskerwill](../Organizations/Houses/Teskerwill.md)
 *Human male Fighter (Cavalier) 5, LG*
 
 ## Description

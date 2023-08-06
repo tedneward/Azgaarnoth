@@ -9,7 +9,7 @@ These are all mystics, followers of a strange and mysterious form of power. Myst
 
 Mysticism has always been a part of the fabric of life in Azgaarnoth, but when the advisors left [Yithi](/People/Yithi.md) and moved north into [Zhi](/Nations/Zhi.md) to form their Council of Seers there many years later, they found that a new source of power--that of the mind--was open to those willing to put the time and discipline into it. Seeing in this new branch of study an opportunity to leave some of the shackles of arcane and divine behind, the Council put a significant amount of energy into its study, and in time, found a whole new category of power-users. As a result, mystics are far more common among the [Yithi](/Nations/Yithi.md) and [Zhi](/Nations/Zhi.md), but many of the secrets of mysticism have had the time required to move all across the world.
 
-Some [mage schools](/Organizations/MageSchools/MageSchools.md) have begun to form around mysticism, but as of yet those schools are extremely small, few, and far apart; those who seek to study the mystic arts are encouraged to journey east, particularly into [Zhi](/Nations/Zhi.md) to find the master they seek.
+Some [mage schools](../../Organizations/MageSchools/MageSchools.md) have begun to form around mysticism, but as of yet those schools are extremely small, few, and far apart; those who seek to study the mystic arts are encouraged to journey east, particularly into [Zhi](/Nations/Zhi.md) to find the master they seek.
 
 ## Hermits and Outcasts
 Mystics are loners. Most discover the secrets of their power through vague references in tomes of lore or by ingratiating themselves to a master of the power.

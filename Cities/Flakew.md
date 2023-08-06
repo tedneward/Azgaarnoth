@@ -13,7 +13,7 @@ Control over the Lithalian Narrows put Flakew in a strong position to exert its 
 ## Military Units
 
 ## Draconic Order
-Flakew is the home of the [Draconic Order](/Organizations/DraconicOrder/DraconicOrders.md), and has its home chapterhouse here, which serves as the central point of administration for all of the orders. The lone chapterhouse of the Platinum is here, as is the Great Library of the Brass and the Bronze Academy. It is rumored that the Coppers' presence here is merely for show, preferring to do most of their actual work in a different location (so as to keep secrets more effectively), and the Steel Forges are located further up the coast, nearer to [Storber](/Cities/Storber.md) for easier shipment.
+Flakew is the home of the [Draconic Order](../Organizations/DraconicOrder/DraconicOrders.md), and has its home chapterhouse here, which serves as the central point of administration for all of the orders. The lone chapterhouse of the Platinum is here, as is the Great Library of the Brass and the Bronze Academy. It is rumored that the Coppers' presence here is merely for show, preferring to do most of their actual work in a different location (so as to keep secrets more effectively), and the Steel Forges are located further up the coast, nearer to [Storber](/Cities/Storber.md) for easier shipment.
 
 ## Dueling Schools
 

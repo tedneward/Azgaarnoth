@@ -32,7 +32,7 @@ Druid Level|	Circle Spells
 7th	|Control Water, Freedom of Movement
 9th	|Conjure Elemental, Scrying
 
-Many coastal Druids of the Land are found within the [*al'meara*](/Cultures/AlUma.md). Many [Sea Reavers](/Organizations/MercCompanies/SeaReavers.md) also have druids of this Circle on their decks.
+Many coastal Druids of the Land are found within the [*al'meara*](/Cultures/AlUma.md). Many [Sea Reavers](../../Organizations/MercCompanies/SeaReavers.md) also have druids of this Circle on their decks.
 
 **Forest**
 Druid Level|	Circle Spells

@@ -1,7 +1,7 @@
 # Warlock Patron: Kraken
 You have made a pact with a kraken that lurks somewhere far to the north, in the murkiest depths of the Northern Oceans. Krakens are ancient and terrifying creatures; incomprehensible alien knowledge lurks within their minds. Krakens are known to control the rain and storms in the region around them, thus drawing many farmers or sailors to worship krakens in hopes of fair weather. Numerous expeditions north have been lost to the kraken's (or krakens') icy clutches, and you channel that power.
 
-Warlocks of the Kraken are often employed as guards on long sea voyages by a variety of different organizations; many who have fallen afoul of governments or organizations have found a welcome home among the [Sea Reavers](/Organizations/MercCompanies/SeaReavers.md), though more than a few have also been found "guilty of witchery at sea" and punished via exotic means. Many a Warlock of the Kraken has chosen to keep their Patron a secret when journeying by sea, lest they be blamed for any ill fate that befalls the voyage.
+Warlocks of the Kraken are often employed as guards on long sea voyages by a variety of different organizations; many who have fallen afoul of governments or organizations have found a welcome home among the [Sea Reavers](../../Organizations/MercCompanies/SeaReavers.md), though more than a few have also been found "guilty of witchery at sea" and punished via exotic means. Many a Warlock of the Kraken has chosen to keep their Patron a secret when journeying by sea, lest they be blamed for any ill fate that befalls the voyage.
 
 ## Expanded Spell List
 The Kraken lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.

@@ -16,6 +16,8 @@ Starting at 10th level, as a bonus action, you can expend a spell slot to manife
 ## Master of Gravity
 At 14th level, you’ve mastered manipulating the gravity of the planet itself. You know the reverse gravity spell and copy it into your spellbook. You can cast it once per long rest without expending a spell slot. Additionally, while the spell is active, you gain a fly speed equal to your movement speed.
 
+---
+
 # Astromancer Unique Spells
 
 ## Cantrips

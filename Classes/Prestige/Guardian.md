@@ -82,8 +82,7 @@ You can use this ability up to a number of times equal to your Constitution modi
 *3rd-level guardian feature*
 You practice and master unique abilities that you use to strike against enemies who defy your bulwark.
 
-Choose two of the techniques below to learn permanently. When you gain another level in the guardian class, you can
-choose to change one of the techniques you learned for this feature to a different technique.
+Choose two of the techniques below to learn permanently. When you gain another level in the guardian class, you can choose to change one of the techniques you learned for this feature to a different technique.
 
 When a creature within 60 feet of you that is marked by you and that you can see deals damage to a creature other than you, you can use your reaction to perform one of these techniques, with that enemy as your target. If a technique enables you to make a melee weapon attack, that attack counts as an opportunity attack.
 

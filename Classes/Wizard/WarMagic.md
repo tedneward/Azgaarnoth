@@ -1,5 +1,5 @@
 # Arcane Tradition: War Magic
-A variety of arcane colleges (most notably the [Fiery Fist](/Organizations/MageSchools/FieryFist.md) and [Crimson Sun](/Organizations/MageSchools/CrimsonSun.md) schools) specialize in training wizards for war. The tradition of War Magic blends principles of evocation and abjuration, rather than specializing in either of those schools. It teaches techniques that empower a caster’s spells, while also providing methods for wizards to bolster their own defenses.
+A variety of arcane colleges (most notably the [Fiery Fist](../../Organizations/MageSchools/FieryFist.md) and [Crimson Sun](../../Organizations/MageSchools/CrimsonSun.md) schools) specialize in training wizards for war. The tradition of War Magic blends principles of evocation and abjuration, rather than specializing in either of those schools. It teaches techniques that empower a caster’s spells, while also providing methods for wizards to bolster their own defenses.
 
 Followers of this tradition are known as war mages. They see their magic as both a weapon and armor, a resource superior to any piece of steel. War mages act fast in battle, using their spells to seize tactical control of a situation. Their spells strike hard, while their defensive skills foil their opponents’ attempts to counterattack. War mages are also adept at turning other spellcasters' magical energy against them.
 
@@ -26,4 +26,5 @@ Beginning at 10th level, the magic you channel helps ward off harm. While you ma
 ## Deflecting Shroud
 At 14th level, your Arcane Deflection becomes infused with deadly magic. When you use your Arcane Deflection feature, you can cause magical energy to arc from you. Up to three creatures of your choice within 60 feet of you each take force damage equal to half your wizard level.
 
-*Source: [Unearthed Arcana: Wizard Revisited](https://dnd.wizards.com/articles/unearthed-arcana/wizard-revisited)*
+---
+

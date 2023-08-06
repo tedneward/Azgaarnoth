@@ -1,4 +1,4 @@
-# Lord Torshon [Ciallin](/Organizations/Houses/Ciallin.md)
+# Lord Torshon [Ciallin](../Organizations/Houses/Ciallin.md)
 *male human Fighter (Duelist) 5, LN*
 
 **Armor Class** 13 (Natural armor + DEX)
@@ -38,4 +38,4 @@ Torshon Ciallin is Baron Stagraven.
 
 A young man just recently elevated to his seat, Torshon Ciallin fancies himself a dashing swordsman, and spent many years in the Stagraven Dueling scene, seeking to master his command of rapier and artful flourish. In a duel a few years ago, however, just before his marriage and ascension, he nearly lost his life to a badly-misjudged opponent, and it sobered his outlook on life and brought many of his chaotic tendencies under a more lawful bent. He is still prone to act the dashing swordsman at times, but he now has a much deeper appreciation for those who are professionals at war, and those who only play at it.
 
-His wife, Marissa (Human Female, LG) is originaly of [House Elhol](/Organizations/Houses/Elhol.md), and it was a combination of her House's influence and her resolute desire to do well by her marriage that propelled Torshon into the baronial seat. They have no children as of yet, and after five years' of marriage, which after five years of marriage, is the subject of much speculation and rumor.
+His wife, Marissa (Human Female, LG) is originaly of [House Elhol](../Organizations/Houses/Elhol.md), and it was a combination of her House's influence and her resolute desire to do well by her marriage that propelled Torshon into the baronial seat. They have no children as of yet, and after five years' of marriage, which after five years of marriage, is the subject of much speculation and rumor.

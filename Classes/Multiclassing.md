@@ -77,7 +77,7 @@ Your capacity for spellcasting depends partly on your combined levels in all you
 
 **Spell Slots.** You determine your available spell slots by adding together all your levels in full spellcaster classes, and half your levels (rounded down) in the half-spellcaster classes. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.
 
-* Full spellcaster classes: bard, cleric, druid, pale master, sorcerer, wizard
+* Full spellcaster classes: bard, cleric, druid, pale master, shaman, sorcerer, wizard
 * Half-spellcaster classes: artificer, paladin, ranger
 
 **Multiclass Spellcaster**: Spell Slots per Spell Level

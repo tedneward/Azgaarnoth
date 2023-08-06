@@ -1,4 +1,4 @@
-# Lord Kerden [Jarmaath](/Organizations/Houses/Jarmaath.md), Count of Brinwal
+# Lord Kerden [Jarmaath](../Organizations/Houses/Jarmaath.md), Count of Brinwal
 *male human Fighter (Cavalier) 7, NG*
 
 ## Description

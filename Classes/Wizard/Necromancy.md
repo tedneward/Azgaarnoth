@@ -3,7 +3,7 @@ Necromancers explore the cosmic forces of life, death, and undeath. As you focus
 
 Most people see necromancers as menacing, or even villainous, due to the close association with death. Not all necromancers are evil, but the forces they manipulate are considered taboo by many societies.
 
-Necromancers are rumored to be highly concentrated in [Dradehalia](/Nations/Dradehalia.md), but a fair number are also members of several [mage schools](/Organizations/MageSchools/MageSchools.md).
+Necromancers are rumored to be highly concentrated in [Dradehalia](/Nations/Dradehalia.md), but a fair number are also members of several [mage schools](../../Organizations/MageSchools/MageSchools.md).
 
 ## Necromancy Savant
 Beginning when you select this school at 2nd level, the gold and time you must spend to copy a Necromancy spell into your spellbook is halved.

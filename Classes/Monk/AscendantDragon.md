@@ -15,7 +15,7 @@ d6|Origin
 
 This monastic tradition is different from the [Way of the Dragon](Dragon.md), in that this tradition is one which studies dragonkind as a whole, rather than a particular species (within the chromatic or metallic spectrum). The Ascendant Dragons believe their style provides greater versatility, and thus, superior skill.
 
-This Tradition is mostly closely aligned with the [Knights of the Draconic Order](/Organizations/DraconicOrder/DraconicOrder.md), but they are not subservient in any way; an Ascendant Dragon monk will often find common cause with the Draconic Order (given a monk's generally lawful background), but Ascendant Dragon monks have been known to ally with the [Cult of the Wyrm](/Organizations/CultOfTheWyrm.md) instead, usually when the Wyrmcult offers opportunities of access to the dragon leading the cell.
+This Tradition is mostly closely aligned with the [Knights of the Draconic Order](../../Organizations/DraconicOrder/DraconicOrder.md), but they are not subservient in any way; an Ascendant Dragon monk will often find common cause with the Draconic Order (given a monk's generally lawful background), but Ascendant Dragon monks have been known to ally with the [Cult of the Wyrm](../../Organizations/CultOfTheWyrm.md) instead, usually when the Wyrmcult offers opportunities of access to the dragon leading the cell.
 
 ## Draconic Disciple
 *3rd-level Way of the Ascendant Dragon feature*

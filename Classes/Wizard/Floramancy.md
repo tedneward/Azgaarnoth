@@ -1,7 +1,7 @@
 # Arcane Tradition: Floramancy
 Floramancy wizards are sometimes confused with or mistaken for druids. They tend their gardens, protect their woods, or study in cabins buried deep in the lush jungles of the world, living in harmony with the plants, animals, and nature that they revere. Their abodes are often decorated with the preserved green-things of the world, delicately displayed for visitors to truly see the beauty of nature. Floramancy wizards dedicate themselves to magic that evokes the strength, beauty, and fortitude of the natural world.
 
-Floramancers are frequently found in the [Animalist](/Organizations/MageSchools/Animalist.md) school, when they're found indoors at all.
+Floramancers are frequently found in the [Animalist](../../Organizations/MageSchools/Animalist.md) school, when they're found indoors at all.
 
 ## Nature Savant
 At 2nd level, you gain proficiency in the Nature skill.

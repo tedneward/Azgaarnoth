@@ -1,7 +1,7 @@
 # Fighter Martial Archetype: Rune Knight
 You discovered how to enhance your martial prowess using the supernatural power of [runes](/Magic/Runes.md). You likely learned your methods first or second hand from one of the few who know how to scribe such runes, or found an ancient rune carved into a hill or cave. In time, you learned how to carve and apply runes to your equipment and how to invoke their magic, ultimately becoming a Rune Knight.
 
-> Rune Knights either have in the past or will in the future run into or work with the [School of the Eldar](/Organizations/MageSchools/SchoolOfTheEldar.md) at some point in their career. In fact, it's highly likely that even if the Rune Knight hasn't directly met up with a member of that school, the school has had the Rune Knight under observation and simply chosen not to approach.
+> Rune Knights either have in the past or will in the future run into or work with the [School of the Eldar](../../Organizations/MageSchools/SchoolOfTheEldar.md) at some point in their career. In fact, it's highly likely that even if the Rune Knight hasn't directly met up with a member of that school, the school has had the Rune Knight under observation and simply chosen not to approach.
 
 ## Bonus Proficiencies
 *3rd-level Rune Knight feature*

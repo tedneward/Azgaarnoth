@@ -1,5 +1,5 @@
 # Fighter Martial Archetype: Champion
-The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows. Champion Martial Archetypes are frequently found in [Mercenary Companies](/Organizations/MercCompanies/MercCompanies.md). They are often not the leader of the company, but used as a rallying point during combat.
+The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows. Champion Martial Archetypes are frequently found in [Mercenary Companies](../../Organizations/MercCompanies/MercCompanies.md). They are often not the leader of the company, but used as a rallying point during combat.
 
 ## Improved Critical
 Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.

@@ -18,7 +18,7 @@ In order to advance as a leader, you must meet the following prerequisites (in a
 
 The leader must be in a position where they can command others. The two main ways to achieve this are to either lead or head an organization (or portion thereof) of at least five people, but you may discuss with your DM whether you can fulfill other criteria to meet this important prerequisite (such as perhaps changing an NPC's alignment to match your own). Frequently the opportunity to lead comes with a rise in military rank, nobility, ascension within a merchant guild, and so on, that often comes with a rise in character level.
 
-Note that acceptance to the [Academy of the Bronze Dragon](/Organizations/DraconicOrder/Bronze.md) is sufficient in its own right to begin levels in this prestige class, and that many students of the Academy do not leave until they have attained 5th level in this prestige class. (The Academy will often take students that don't have the prerequisites and "farm them out" as fosters with the other Orders to help them reach the necessary levels before beginning their leadership studies in earnest.)
+Note that acceptance to the [Academy of the Bronze Dragon](../Organizations/DraconicOrder/Bronze.md) is sufficient in its own right to begin levels in this prestige class, and that many students of the Academy do not leave until they have attained 5th level in this prestige class. (The Academy will often take students that don't have the prerequisites and "farm them out" as fosters with the other Orders to help them reach the necessary levels before beginning their leadership studies in earnest.)
 
 ## Class Features
 As a leader, you gain the following class features:
@@ -57,6 +57,7 @@ When you gain your first level in this prestige class, you gain access to abilit
 Stratagems are not magical and cannot be counterspelled or dispelled. They can be used at-will at any time, and do not have a limited number of uses. You can only use Stratagems that you know.
 
 All stratagems describe affecting an "ally" or "allies." Stratagems can only affect allied creatures as an "ally" target if they meet all of the following conditions:
+
 * Ally targets must willingly allow you to affect them (or must be charmed and unwillingly allow you to do so)
 * Ally targets must be able to see and hear you (even via telepathy, illusion, or other magic)
 * Ally targets must be able to take reactions (even if they have already used their reaction this round)

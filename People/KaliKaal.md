@@ -11,7 +11,7 @@ Stories and rumors abound that Kali has even managed to find ways to be a [Warlo
 What is known is that it is long past any concern for humanity, including its own. Its goals are inscrutable, its resources are nearly unlimited, and its morals are entirely nonexistent.
 
 ## GM Notes
-Kali runs the [Red Rose](/Organizations/RoguesGuilds/RedRose.md) rogues' guild and works towards its own mysterious ends. It has some kind of historical relationship to the [Twilight Star](/Organizations/MageSchools/TwilightStar.md) school, but it is not clear whether it is antagonistic or a rivalry.
+Kali runs the [Red Rose](../Organizations/RoguesGuilds/RedRose.md) rogues' guild and works towards its own mysterious ends. It has some kind of historical relationship to the [Twilight Star](../Organizations/MageSchools/TwilightStar.md) school, but it is not clear whether it is antagonistic or a rivalry.
 
 Statistics are provided below, but few beings on Azgaarnoth could even last a single round against it. Its knowledge of arcana is unparalleled, its resources vast, and its lair is entirely secret except to a few "privileged" individuals high within the organization of the Red Rose--usually as a means of keeping them more firmly under its thumb. If PCs begin a search for Kali, it will know about it long before the PCs come anywhere remotely close; if they find a lair, it will be because Kali desires it. If they encounter it outside of its lair, it will be entirely prepared for any attempt to strike at it or entrap it; in fact, most "encounters" with Kali are elaborate illusion magic unless Kali wants to be physically present.
 

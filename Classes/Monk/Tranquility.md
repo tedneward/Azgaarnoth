@@ -1,7 +1,7 @@
 # Monastic Tradition: Way of Tranquility
 Monks of the Way of Tranquility see violence as a last resort. They use diplomacy, mercy, and understanding to resolve conflicts. If pushed, though, they are capable warriors who can bring an end to the unjust or cruel folk who refuse to listen to reason. When adventuring, these monks make excellent diplomats. They are also skilled in the healing arts, and can preserve their allies in the face of daunting foes.
 
-Many monks of Tranquility are members of the [Order of the Silver Dragon](/Organizations/DraconicOrder/Silver.md). Those who are not of the Silver often wear white robes and carry a intertwined snake staff, which is the unofficial symbol of their order, and are given free passage almost anywhere in Azgaarnoth.
+Many monks of Tranquility are members of the [Order of the Silver Dragon](../../Organizations/DraconicOrder/Silver.md). Those who are not of the Silver often wear white robes and carry a intertwined snake staff, which is the unofficial symbol of their order, and are given free passage almost anywhere in Azgaarnoth.
 
 ## Path of Tranquility
 When you choose this tradition at 3rd level, you can become an island of calm in even the most chaotic of situations. With this feature, you can cast the Sanctuary spell on yourself, no material component required, and it lasts up to 8 hours. Its saving throw DC equals 8 + your proficiency bonus + your Wisdom modifier. A creature that succeeds on the save is immune to this effect for 1 hour.

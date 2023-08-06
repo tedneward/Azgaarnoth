@@ -7,7 +7,7 @@ Hobgoblins have dark orange or red-orange skin, and hair ranging from dark red-b
 
 Hobgoblins have no distinction between males and females of their kind, and females often rise to power as spellcasters even as the males rise as warriors. Within the Goblin tongue, a single pronoun, "tee", refers to both males and females equally, which many Azgaarnothian scholars translate (often incorrectly) as "he" or "him". Hobgoblin females are often even more hardy than their male counterparts, however, and it is not uncommon for a female Hobgoblin to ride to battle even in a late-stage pregnancy, deliver her child, and then ride back to battle within the week.
 
-Hobgoblins are, in many ways, the backbone of many of the [Hordes]() across Azgaarnoth, and as the Hordes have come to understand that a different path to life is useful, so too have many of the hobgoblin Legions. In current-day Azgaarnoth, it is not uncommon to see a Hobgoblin Legion acting as a [mercenary company](/Organizations/MercCompanies/MercCompanies.md) to earn cash for the tribe "back home", particularly in the eastern parts of the world. These mercenary legions are some of the most feared in the world, as they present a fearsome, well-disciplined order of battle, complete with divine and arcane support, and adhere strictly to the [Code](/Organizations/MercCompanies/Code.md).
+Hobgoblins are, in many ways, the backbone of many of the [Hordes]() across Azgaarnoth, and as the Hordes have come to understand that a different path to life is useful, so too have many of the hobgoblin Legions. In current-day Azgaarnoth, it is not uncommon to see a Hobgoblin Legion acting as a [mercenary company](../Organizations/MercCompanies/MercCompanies.md) to earn cash for the tribe "back home", particularly in the eastern parts of the world. These mercenary legions are some of the most feared in the world, as they present a fearsome, well-disciplined order of battle, complete with divine and arcane support, and adhere strictly to the [Code](../Organizations/MercCompanies/Code.md).
 
 ***Goblinoids.*** Hobgoblins belong to a Family of creatures called Goblinoids. They are often found lording over their cousins, the smaller [Goblins](Goblins.md) and the ferocious [Bugbears](Bugbears.md).
 
@@ -292,7 +292,7 @@ Hobgoblin Bladebearers are the solitary, legendary warriors of the hobgoblin spe
 
 > Bladebearers are often powerful warriors in their own right, and many have adventured solo or undertaken other activities to increase their personal martial skill; any such additional levels of Fighter would add on to this template. Many choose to specialize; the most popular specialization classes being [Weapon Master](/Classes/Fighter/WeaponMaster.md) and [Duelist](/Classes/Fighter/Duelist.md), but many also explore the mysteries of the [Psi Knight](/Classes/Fighter/PsiKnight.md), and a rare few have taken up the cause of the [Samurai](/Classes/Fighter/Samurai.md), particularly in the East.
 
-Among the [Tragedian United Hordes](/Nations/Tragekia.md), Bladebearers are known to participate and be members of the various [Dueling Colleges](/Organizations/DuelingColleges.md) there. Some will occasionally wander into [Liria](/Nations/Liria.md) in similar pursuit, though often meet with high amounts of distrust and unease, particularly if (when) they win.
+Among the [Tragedian United Hordes](/Nations/Tragekia.md), Bladebearers are known to participate and be members of the various [Dueling Colleges](../Organizations/DuelingColleges.md) there. Some will occasionally wander into [Liria](/Nations/Liria.md) in similar pursuit, though often meet with high amounts of distrust and unease, particularly if (when) they win.
 
 ---
 
@@ -357,7 +357,7 @@ Other cultures might view the use of such Abilities as a short cut to glory, but
 
 The Academy of Devastation believes that an academic approach to magic is a sign of weakness and inefficiency. A Warrior doesn’t Need to Know about metallurgy to wield a blade, so why should a Wizard care about where magic comes from? Devastators love to prove their superiority in battle by seeking out enemy spellcasters and destroying them.
 
-If they survive long enough, Devastators usually end up looking to join one of the Evocation-friendly [Mage Schools](/Organizations/MageSchools/MageSchools.md) to further their education, and return to their Legion even more frightening and powerful.
+If they survive long enough, Devastators usually end up looking to join one of the Evocation-friendly [Mage Schools](../Organizations/MageSchools/MageSchools.md) to further their education, and return to their Legion even more frightening and powerful.
 
 ---
 
@@ -411,7 +411,7 @@ A candidate for admission undergoes a series of tests designed to reveal any pot
 
 Their masks also signify the supposed origin of their fighting techniques. The Children of Maglubiyet teach that the Great One stole the secrets of shadows from an archdevil, allowing his followers to conceal their identities, walk between shadows, and craft illusions to confuse and confound their enemies.
 
-It is rumored that the Order of Iron Shadows is organized precisely along the same lines as any [Monastic Order](/Organizations/MonasticOrders/MonasticOrders.md), and could--if a candidate were dedicated enough--accept candidates of other races. This is, however, entirely unproven.
+It is rumored that the Order of Iron Shadows is organized precisely along the same lines as any [Monastic Order](../Organizations/MonasticOrders/MonasticOrders.md), and could--if a candidate were dedicated enough--accept candidates of other races. This is, however, entirely unproven.
 
 ---
 
