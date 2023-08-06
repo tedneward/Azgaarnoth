@@ -18,6 +18,7 @@ Some disciplines allow you to cast spells. To cast one of these spells, you use 
 Once you reach 5th level in this class, you can spend additional ki points to increase the level of a discipline spell that you cast, provided that the spell has an enhanced effect at a higher level, as catapult does. The spell's level increases by 1 for each additional ki point you spend. For example, if you are a 5th-level monk and use Forceful Throw to cast [catapult](../../Magic/Spells/catapult.md), you can spend 3 ki points to cast it as a 2nd-level spell (the discipline's base cost of 2 ki points plus 1). The maximum number of ki points you can spend to cast a spell in this way (including its base ki point cost and any additional ki points you spend to increase its level) is determined by your monk level, as shown in the Spells and Ki Points table.
 
 **Spells and Ki Points**
+
 Monk Levels|Maximum Ki Points for a Spell
 -----------|-------------------
 5th–8th|3
@@ -28,19 +29,20 @@ Monk Levels|Maximum Ki Points for a Spell
 ## Force Disciplines
 The force disciplines are presented in alphabetical order. If a discipline requires a level, you must be that level in this class to learn the discipline.
 
-**Controlling Grasp (17th Level Required).** You can spend 6 ki points to cast [telekinesis]().
+**Controlling Grasp (17th Level Required).** You can spend 6 ki points to cast [telekinesis](../../Magic/Spells/telekinesis.md).
 
-**Constricting Grasp (6th Level Required).** You can spend 3 ki points to cast [hold person]().
+**Constricting Grasp (6th Level Required).** You can spend 3 ki points to cast [hold person](../../Magic/Spells/hold-person.md).
 
 **Empowered Weapon.** As a bonus action, you can expend 2 ki points to channel the binding force into one monk weapon you’re holding. For the next 1 minute, you deal an extra 1d6 radiant damage to any target you hit with the weapon. If the weapon isn’t magical, it becomes a magic weapon for the spell’s duration.
 
-**Extraordinary Speed (11th Level Required).** You can spend 4 ki points to cast [haste](), targeting yourself.
+**Extraordinary Speed (11th Level Required).** You can spend 4 ki points to cast [haste](../../Magic/Spells/haste.md), targeting yourself.
 
-**Far-Reaching Voice (11th Level Required).** You can spend 4 ki points to cast [sending]().
+**Far-Reaching Voice (11th Level Required).** You can spend 4 ki points to cast [sending](../../Magic/Spells/sending.md).
 
-**Focused Mind Trick (6th Level Required).** You can spend 3 ki points to cast [suggestion]().
+**Focused Mind Trick (6th Level Required).** You can spend 3 ki points to cast [suggestion](../../Magic/Spells/suggestion.md).
 
 **Forceful Abilities.** You can use your action and your understanding of the binding force to create one of the following effects at a point you can see within range:
+
 * One Medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.
 * You create a small blast of force capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn’t pushed with enough force to cause damage.
 * You create a harmless sensory affect, such as causing leaves to rustle, shutters to slam shut, or your clothing to ripple.
@@ -55,12 +57,12 @@ The force disciplines are presented in alphabetical order. If a discipline requi
 
 **Mind Domination (17th Level Required).** You can spend 6 ki points to cast dominate person.
 
-**Mind Trick.** You can spend 2 ki points to cast [charm person]().
+**Mind Trick.** You can spend 2 ki points to cast [charm person](../../Magic/Spells/charm-person.md).
 
-**Mystic Senses (17th Level Required).** You can spend 5 ki points to cast [locate creature]().
+**Mystic Senses (17th Level Required).** You can spend 5 ki points to cast [locate creature](../../Magic/Spells/locate-creature.md).
 
 **Powerful Mind Trick (17th Level Required).** You can spend 5 ki points to cast [charm monster](../../Magic/Spells/charm-monster.md).
 
-**Spirit Lightning. (11th Level Required).** You can spend 4 ki points to cast [lightning bolt]().
+**Spirit Lightning. (11th Level Required).** You can spend 4 ki points to cast [lightning bolt](../../Magic/Spells/lightning-bolt.md).
 
-**Supernatural Agility.** You can spend 2 ki points to cast either [jump]() or [longstrider](), targeting yourself.
+**Supernatural Agility.** You can spend 2 ki points to cast either [jump](../../Magic/Spells/jump.md) or [longstrider](../../Magic/Spells/longstrider.md), targeting yourself.

@@ -116,21 +116,21 @@ If you spend 1 ki point or more as part of your action on your turn, you can mak
 *3rd-level monk feature*
 
 You commit yourself to a monastic tradition:
-* [Ascendant Dragon](Monk/AscendantDragon.md)
-* [Astral Self](Monk/AstralSelf.md)
-* [Binding Force](Monk/Force.md)
-* [Dragon](Monk/Dragon.md)
-* [Drunken Master](Monk/DrunkenMaster.md)
-* [Four Elements](Monk/FourElements.md)
-* [Kensei](Monk/Kensai.md)
-* [Long Death](Monk/LongDeath.md)
-* [Mercy](Monk/Mercy.md)
-* [Open Hand](Monk/OpenHand.md)
-* [Shadow](Monk/Shadow.md)
-* [Soul Knife](Monk/SoulKnife.md)
-* [Sun Soul](Monk/SunSoul.md)
-* [Tranquility](Monk/Tranquility.md)
-* [Weave](Monk/Weave.md)
+* [Ascendant Dragon](AscendantDragon.md)
+* [Astral Self](AstralSelf.md)
+* [Binding Force](Force.md)
+* [Dragon](Dragon.md)
+* [Drunken Master](DrunkenMaster.md)
+* [Four Elements](FourElements.md)
+* [Kensei](Kensai.md)
+* [Long Death](LongDeath.md)
+* [Mercy](Mercy.md)
+* [Open Hand](OpenHand.md)
+* [Shadow](Shadow.md)
+* [Soul Knife](SoulKnife.md)
+* [Sun Soul](SunSoul.md)
+* [Tranquility](Tranquility.md)
+* [Weave](Weave.md)
 
 Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.
 

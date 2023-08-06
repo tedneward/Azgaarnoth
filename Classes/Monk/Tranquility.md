@@ -33,5 +33,3 @@ This effect ends if the target is attacked, takes damage, or is forced to make a
 At 17th level, you gain the ability to visit vengeance on someone who fells others. If you see a creature reduce another creature to 0 hit points, you can use your reaction to grant yourself a bonus to all damage rolls against the aggressor until the end of your next turn. The bonus equals your monk level.
 
 Once you use this ability, you can’t use it again until you finish a short or long rest.
-
-*Source: [Unearthed Arcana: Monk Monastic Traditions](https://dnd.wizards.com/articles/unearthed-arcana/monk-monastic-traditions)*

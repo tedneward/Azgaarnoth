@@ -1,7 +1,7 @@
 # Monastic Tradition: Way of the Weave
 The Weave is a fabric of magic that underlies the planes and is arguably the source of power for all arcane magic. Monks of the Way of the Weave have, through their manipulation of ki, discovered how to tap into the Weave and channel its energy to cast spells. While many monks use this deep understanding of the Weave to explore the secrets of the multiverse, some Way of the Weave monks choose to wield this arcane power against their foes.
 
-This is probably one of the most public of the monastic traditions in Azgaarnoth, as nearly all of the [mage schools](../../Organizations/MageSchools/MageSchools.md) make use of Weave monks as bodyguards, assistants, and companions. It is not entirely clear what the monks get out of the partnership, however, though speculation is rife. To join one of the Weave monks, however, is simple: walk up to any Weave monk, ask how to join, and instructions will be made clear (usually a small quest to test the sincerity of the request, followed by directions to a monastery somewhere on the continent). Regardless of whatever other agreements mage schools have with Weave monks, the one consistent factor is that the Way of the Weave is always open to new students, of any race, at any time. It is for this reason, as well, that any race found anywhere on Azgaarnoth can be accepted as a Weave monk--human, Firstborn, Created, Horde, even Undersea, all are welcome, embraced, and taught.
+This is probably one of the most public of the monastic traditions in Azgaarnoth, as nearly all of the [mage schools](../../Organizations/MageSchools/index.md) make use of Weave monks as bodyguards, assistants, and companions. It is not entirely clear what the monks get out of the partnership, however, though speculation is rife. To join one of the Weave monks, however, is simple: walk up to any Weave monk, ask how to join, and instructions will be made clear (usually a small quest to test the sincerity of the request, followed by directions to a monastery somewhere on the continent). Regardless of whatever other agreements mage schools have with Weave monks, the one consistent factor is that the Way of the Weave is always open to new students, of any race, at any time. It is for this reason, as well, that any race found anywhere on Azgaarnoth can be accepted as a Weave monk--human, Firstborn, Created, Horde, even Undersea, all are welcome, embraced, and taught.
 
 ## Spellcasting
 *3rd-level Way of the Weave feature*
@@ -9,6 +9,7 @@ This is probably one of the most public of the monastic traditions in Azgaarnoth
 You gain the ability to cast spells from the sorcerer spell list.
 
 **Way of the Weave Spellcasting**
+
 Level|Cantrips Known|Spells Known|1st|2nd|3rd|4th
 -----|--------------|------------|---|---|---|---
 3rd  | 2| 3 | 2| —| —| —
@@ -67,6 +68,7 @@ Additionally, immediately after you use your action to cast a cantrip on your tu
 You can transform your ki points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 4th.
 
 **Creating Spell Slots**
+
 Spell Slot Level|Ki Point Cost
 ----------------|-------------
 1st| 2

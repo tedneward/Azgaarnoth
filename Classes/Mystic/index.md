@@ -7,7 +7,7 @@
 
 These are all mystics, followers of a strange and mysterious form of power. Mystics shun the world to turn their eyes inward, mastering the full potential of their minds and exploring their psyches before turning to face the world. Mystics are incredibly rare, and most prefer to keep the nature of their abilities secret. Using their inner, psychic strength, they can read minds, fade into invisibility, transform their bodies into living iron, and seize control of the physical world and bend it to their will.
 
-Mysticism has always been a part of the fabric of life in Azgaarnoth, but when the advisors left [Yithi](/People/Yithi.md) and moved north into [Zhi](../../Nations/Zhi.md) to form their Council of Seers there many years later, they found that a new source of power--that of the mind--was open to those willing to put the time and discipline into it. Seeing in this new branch of study an opportunity to leave some of the shackles of arcane and divine behind, the Council put a significant amount of energy into its study, and in time, found a whole new category of power-users. As a result, mystics are far more common among the [Yithi](../../Nations/Yithi.md) and [Zhi](../../Nations/Zhi.md), but many of the secrets of mysticism have had the time required to move all across the world.
+Mysticism has always been a part of the fabric of life in Azgaarnoth, but when the advisors left [Yithi](../People/Yithi.md) and moved north into [Zhi](../../Nations/Zhi.md) to form their Council of Seers there many years later, they found that a new source of power--that of the mind--was open to those willing to put the time and discipline into it. Seeing in this new branch of study an opportunity to leave some of the shackles of arcane and divine behind, the Council put a significant amount of energy into its study, and in time, found a whole new category of power-users. As a result, mystics are far more common among the [Yithi](../../Nations/Yithi.md) and [Zhi](../../Nations/Zhi.md), but many of the secrets of mysticism have had the time required to move all across the world.
 
 Some [mage schools](../../Organizations/MageSchools/MageSchools.md) have begun to form around mysticism, but as of yet those schools are extremely small, few, and far apart; those who seek to study the mystic arts are encouraged to journey east, particularly into [Zhi](../../Nations/Zhi.md) to find the master they seek.
 
@@ -29,6 +29,7 @@ While these taboos are harmless, they help cast mystics as outsiders. Few feel a
 To add some texture to your mystic, consider the quirks your character has acquired. These behaviors have no game effect, but your character might become irritated or upset if forced to break them. They’re a great roleplaying tool to add character to the game. You can roll on or pick from the table below, or create your own quirks. Aim to create two quirks, to give them more of a chance to come into play. Finally, consider why your character chose these behaviors. What do they say about your character’s personality or background? Are they based on a specific incident or a belief?
 
 **Mystic Quirks**
+
 d20|Quirk
 ---|-----
 1|You never cut your hair.
@@ -103,10 +104,10 @@ Alternatively, you can ignore the equipment here and in your background, and buy
 As a student of psionics, you can master and use psionic talents and disciplines. Mystic psionics is a special form of magic use, distinct from spellcasting.
 
 ### Psionic Talents
-A [psionic talent](Mystic/Talents.md) is a minor psionic effect you have mastered. At 1st level, you know one psionic talent of your choice. You learn additional talents of your choice at higher levels. The Talents Known column of the Mystic table shows the total number of talents you know at each level; when that number goes up for you, choose a new talent.
+A [psionic talent](Talents.md) is a minor psionic effect you have mastered. At 1st level, you know one psionic talent of your choice. You learn additional talents of your choice at higher levels. The Talents Known column of the Mystic table shows the total number of talents you know at each level; when that number goes up for you, choose a new talent.
 
 ### Psionic Disciplines
-A [psionic discipline](Mystic/Disciplines.md) is a rigid set of mental exercises that allows a mystic to manifest psionic power. A mystic masters only a few disciplines at a time.
+A [psionic discipline](../../Magic/Disciplines/index.md) is a rigid set of mental exercises that allows a mystic to manifest psionic power. A mystic masters only a few disciplines at a time.
 
 At 1st level, you know one psionic discipline of your choice. The Disciplines Known column of the Mystic table shows the total number of disciplines you know at each level; when that number goes up for you, choose a new discipline.
 
@@ -133,7 +134,7 @@ Intelligence is your psionic ability for your psionic disciplines. You use your 
 **Discipline attack modifier** = your proficiency bonus + your Intelligence modifier
 
 ## Mystic Order
-At 1st level, you choose a Mystic Order: the [Order of the Avatar](Mystic/Avatar.md), the [Order of the Awakened](Mystic/Awakened.md), the [Order of the Immortal](Mystic/Immortal.md), the [Order of the Nomad](Mystic/Nomad.md), the [Order of the Soul Knife](Mystic/SoulKnife.md), or the [Order of the Wu Jen](Mystic/WuJen.md), each of which is detailed at the end of the class description. Each order specializes in a specific approach to psionics.
+At 1st level, you choose a Mystic Order: the [Order of the Avatar](Avatar.md), the [Order of the Awakened](Awakened.md), the [Order of the Immortal](Immortal.md), the [Order of the Nomad](Nomad.md), the [Order of the Soul Knife](SoulKnife.md), or the [Order of the Wu Jen](WuJen.md), each of which is detailed at the end of the class description. Each order specializes in a specific approach to psionics.
 
 Your order gives you features when you choose it at 1st level and additional features at 3rd, 6th, and 14th level.
 
@@ -178,5 +179,3 @@ At 20th level, your mastery of psionic power causes your mind to transcend the b
 * You no longer age.
 * You are immune to disease, poison damage, and the poisoned condition.
 * If you die, roll a d20. On a 10 or higher, you discorporate with 0 hit points, instead of dying, and you fall unconscious. You and your gear disappear. You appear at a spot of your choice 1d3 days later on the plane of existence where you died, having gained the benefits of one long rest.
-
-*Source: [Unearthed Arcana: The Mystic Class](https://dnd.wizards.com/articles/unearthed-arcana/mystic-class)*
