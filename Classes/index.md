@@ -4,7 +4,7 @@ Azgaarnoth has a wide range of classes available.
 The core list of classes available:
 
 ## [Artificer](Artificer)
-The Artificer is a masters of invention, using ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions.
+The artificer is a masters of invention, using ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions.
 
 ## [Barbarian](Barbarian)
 
@@ -16,6 +16,7 @@ Whether scholar, skald, or scoundrel, a bard weaves magic through words and musi
 Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
 
 ## [Druid](Druid)
+The druid cals on the elemental forces of nature, sometimes emulating the creatures of the animal world, demonstrating an embodiment of nature's resilience, cunning, and fury. They claim no mastery over nature, but see themselves as extensions of nature's indomitable will.
 
 ## [Fighter](Fighter)
 

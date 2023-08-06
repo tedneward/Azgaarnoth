@@ -10,6 +10,7 @@ Starting at 2nd level, when you choose this archetype, you can roll a d4 in plac
 Starting at 2nd level, when you choose this archetype, you can call on your tie to a bestial spirit to briefly transform part of your body. If you are not wearing heavy armor, you can take a bonus action on each of your turns in combat to gain temporary hit points equal to your druid level + your Wisdom modifier. If you wish, when you do so, you can expend one spell slot to regain 1d8 hit points per level of the spell slot expended instead of gaining temporary hit points.
 
 When you gain this feature, choose one of the following options. Whenever you use your Shifting Action feature during your turn, you also create the chosen effect, as follows:
+
 • **Charging Elk**. When you use your bonus action on this feature, until the end of your next turn, if you move at least 20
 feet straight towards a Large or smaller creature during your turn, the next Strength-based unarmed strike or attack with a natural weapon you make against that creature before the end of that same turn is made at advantage and inflicts extra damage equal to your Wisdom modifier. In addition, as part of this same bonus action, you may immediately move up to 20 feet.
 * **Eagle Wing Leap**. When you use your bonus action on this feature, until the end of your next turn, your jumping distance is doubled, and you gain a climb speed equal to your walking speed. In addition, as part of this same bonus action, you may immediately move up to half your speed.
@@ -24,6 +25,7 @@ At 6th level, your unarmed strikes and your natural weapon attacks in a beast fo
 
 ## Solstice Aspect
 At 6th level, you choose what kind of druid of this circle you are going to be, taking on the seasonal aspect of Summer or Winter. You gain resistance to bludgeoning, piercing, and slashing damage that is not silver, but you also gain vulnerability to silver, and you must choose one of the following two aspects, which grants you further abilities.
+
 * **Aspect of Summer**. You have resistance to fire damage, and you are considered naturally adapted to warm climates. If
 you are not in a cold climate, you have advantage on Wisdom (Perception) checks related to hearing or smell.
 * **Aspect of Winter**. You have resistance to cold damage, and you are considered naturally adapted to cold climates. If you

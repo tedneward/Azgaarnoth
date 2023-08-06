@@ -15,6 +15,7 @@ Your mystical connection to the land infuses you with the ability to cast certai
 Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
 **Arctic**
+
 Druid Level|	Circle Spells
 ---------- | --------------
 3rd	|Hold Person, Spike Growth
@@ -22,9 +23,10 @@ Druid Level|	Circle Spells
 7th	|Freedom of Movement, Ice Storm
 9th	|Commune with Nature, Cone of Cold
 
-Artic regions will be found only in southernmost [Dradehalia](/Nations/Dradehalia.md) or [Chidia](/Geography/Chidia.md).
+Artic regions will be found only in southernmost [Dradehalia](../../Nations/Dradehalia.md) or [Chidia](../../Geography/Chidia.md).
 
 **Coast**
+
 Druid Level|	Circle Spells
 ---------- | --------------
 3rd	|Mirror Image, [misty step](https://www.dndbeyond.com/spells/misty-step)
@@ -32,9 +34,10 @@ Druid Level|	Circle Spells
 7th	|Control Water, Freedom of Movement
 9th	|Conjure Elemental, Scrying
 
-Many coastal Druids of the Land are found within the [*al'meara*](/Cultures/AlUma.md). Many [Sea Reavers](../../Organizations/MercCompanies/SeaReavers.md) also have druids of this Circle on their decks.
+Many coastal Druids of the Land are found within the [*al'meara*](../../Cultures/AlUma.md). Many [Sea Reavers](../../Organizations/MercCompanies/SeaReavers.md) also have druids of this Circle on their decks.
 
 **Forest**
+
 Druid Level|	Circle Spells
 ---------- | --------------
 3rd	|Barkskin, Spider Climb
@@ -43,6 +46,7 @@ Druid Level|	Circle Spells
 9th	|Commune with Nature, Tree Stride
 
 **Grassland**
+
 Druid Level|	Circle Spells
 ---------- | --------------
 3rd	|Invisibility, Pass Without Trace
@@ -50,9 +54,10 @@ Druid Level|	Circle Spells
 7th	|Divination, Freedom of Movement
 9th	|Dream, Insect Plague
 
-Grassland areas include the [Ravenlands](/Geography/Ravenlands.md), most of [Al'Uma](/Geography/AlUma.md), [Yithia](/Geography/Yithia.md), among other places.
+Grassland areas include the [Ravenlands](../../Geography/Ravenlands.md), most of [Al'Uma](../../Geography/AlUma.md), [Yithia](../../Geography/Yithia.md), among other places.
 
 **Mountain**
+
 Druid Level|	Circle Spells
 ---------- | --------------
 3rd	|Spider Climb, Spike Growth
@@ -63,6 +68,7 @@ Druid Level|	Circle Spells
 The Daws mountains represent most of the mountainous regions in Azgaarnoth.
 
 **Swamp**
+
 Druid Level|	Circle Spells
 ---------- | --------------
 3rd	|Darkness, Melf's Acid Arrow
@@ -70,9 +76,10 @@ Druid Level|	Circle Spells
 7th	|Freedom of Movement, Locate Creature
 9th	|Insect Plague, Scrying
 
-Swamps abound in [Yithia](/Geography/Yithia.md), and in southeatern [Liria](/Nations/Liria.md).
+Swamps abound in [Yithia](../../Geography/Yithia.md), and in southeatern [Liria](../../Nations/Liria.md).
 
 **Underdark**
+
 Druid Level|	Circle Spells
 ---------- | --------------
 3rd	|Spider Climb, Web
