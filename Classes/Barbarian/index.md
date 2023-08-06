@@ -8,22 +8,22 @@ Level|Proficiency Bonus|Rages|Rage Damage|Features
 1st  |+2|2|+2|[Rage](#rage), [Unarmored Defense](#unarmored-defense)
 2nd	 |+2|2|+2|[Reckless Attack](#reckless-attack), [Danger Sense](#danger-sense)
 3rd	 |+2|3|+2|[Primal Path](#primal-path)
-4th	 |+2|3|+2|[Ability Score Improvement](#ability-score-improvement) or [Feat](./Feats.md)
+4th	 |+2|3|+2|[Ability Score Improvement](#ability-score-improvement) or [Feat](../Feats.md)
 5th	 |+3|3|+2|[Extra Attack](#extra-attack), [Instinctive Pounce](#instinctive-pounce)
 6th	 |+3|4|+2|Path feature
 7th	 |+3|4|+2|[Feral Instinct](#feral-instinct)
-8th	 |+3|4|+2|[Ability Score Improvement](#ability-score-improvement) or [Feat](./Feats.md)	
+8th	 |+3|4|+2|[Ability Score Improvement](#ability-score-improvement) or [Feat](../Feats.md)	
 9th	 |+4|4|+3|[Brutal Critical](#brutal-critical) (1 die)
 10th |+4|4|+3|Path feature
 11th |+4|4|+3|[Relentless Rage](#relentless-rage)
-12th |+4|5|+3|[Ability Score Improvement](#ability-score-improvement) or [Feat](./Feats.md)	
+12th |+4|5|+3|[Ability Score Improvement](#ability-score-improvement) or [Feat](../Feats.md)	
 13th |+5|5|+3|[Brutal Critical](#brutal-critical) (2 dice)
 14th |+5|5|+3|Path feature
 15th |+5|5|+3|[Persistent Rage](#persistent-rage)
-16th |+5|5|+4|[Ability Score Improvement](#ability-score-improvement) or [Feat](./Feats.md)	
+16th |+5|5|+4|[Ability Score Improvement](#ability-score-improvement) or [Feat](../Feats.md)	
 17th |+6|6|+4|[Brutal Critical](#brutal-critical) (3 dice)
 18th |+6|6|+4|[Indomitable Might](#indomitable-might)
-19th |+6|6|+4|[Ability Score Improvement](#ability-score-improvement) or [Feat](./Feats.md)	
+19th |+6|6|+4|[Ability Score Improvement](#ability-score-improvement) or [Feat](../Feats.md)	
 20th |+6|Unlimited|+4|[Primal Champion](#primal-champion)
 
 ### Hit Points
@@ -91,18 +91,19 @@ When you reach 3rd level and again at 10th level, you gain proficiency in one sk
 
 ## Primal Path
 At 3rd level, you choose a path that shapes the nature of your rage:
-* [Ancestral Guardian](Barbarian/AncestralGuardian.md)
-* [Beast](Barbarian/Beast.md)
-* [Berserker](Barbarian/Berserker.md)
-* [Blood Drinker](Barbarian/BloodDrinker.md)
-* [Depths](Barbarian/Depths.md)
-* [Dragon](Barbarian/Dragon.md)
-* [Rage Mage](Barbarian/Rage.md)
-* [Storm Herald](Barbarian/StormHerald.md)
-* [Totem Warrior](Barbarian/TotemWarrior.md)
-* [Were-Beast](Barbarian/WereBeast.md)
-* [Wild Magic](Barbarian/WildMagic.md)
-* [Zealot](Barbarian/Zealot.md)
+
+* [Ancestral Guardian](./AncestralGuardian.md)
+* [Beast](./Beast.md)
+* [Berserker](./Berserker.md)
+* [Blood Drinker](./BloodDrinker.md)
+* [Depths](./Depths.md)
+* [Dragon](./Dragon.md)
+* [Rage Mage](./Rage.md)
+* [Storm Herald](./StormHerald.md)
+* [Totem Warrior](./TotemWarrior.md)
+* [Were-Beast](./WereBeast.md)
+* [Wild Magic](./WildMagic.md)
+* [Zealot](./Zealot.md)
 
 Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
 

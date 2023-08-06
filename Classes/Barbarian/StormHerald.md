@@ -1,7 +1,7 @@
 # Primal Path: Path of the Storm Herald
 Typical barbarians harbor a fury that dwells within. Their rage grants them superior strength, durability, and speed. Barbarians who follow the Path of the Storm Herald learn instead to transform their rage into a mantle of primal magic that swirls around them. When in a fury, a barbarian of this path taps into nature to create powerful, magical effects.
 
-Storm heralds are typically elite champions who train alongside druids, rangers, and others sworn to protect the natural realm. Other storm heralds hone their craft in elite lodges founded in regions wracked by storms, in the frozen reaches at the world’s end, or deep in the hottest deserts. These barbarians can be found in quite a few places, most notably in the [Ravenlands](/Geography/Ravenlands.md), the [United Hordes](/Nations/Tragekia.md), or [North Bedia](/Nations/Bedia.md).
+Storm heralds are typically elite champions who train alongside druids, rangers, and others sworn to protect the natural realm. Other storm heralds hone their craft in elite lodges founded in regions wracked by storms, in the frozen reaches at the world’s end, or deep in the hottest deserts. These barbarians can be found in quite a few places, most notably in the [Ravenlands](../../Geography/Ravenlands.md), the [United Hordes](../../Nations/Tragekia.md), or [North Bedia](../../Nations/Bedia.md).
 
 ## Storm Aura
 When you select this path at 3rd level, you emanate a stormy, magical aura while you rage. The aura extends 10 feet from you in every direction, but not through total cover.
@@ -36,5 +36,3 @@ At 14th level, the power of the storm you channel grows mightier, lashing out at
 * **Sea**. When you hit a creature in your aura with an attack, you can use your reaction to force that creature to make a Strength saving throw. On a failed save, the creature is knocked prone, as if struck by a wave.
 
 * **Tundra**. Whenever the effect of your Storm Aura is activated, you can choose one creature you can see in the aura. That creature must succeed on a Strength saving throw, or its speed is reduced to 0 until the start of your next turn, as magical frost covers it.
-
-*Source: [Unearthed Arcana: Barbarian Primal Paths](https://dnd.wizards.com/articles/unearthed-arcana/barbarian-primal-paths)*

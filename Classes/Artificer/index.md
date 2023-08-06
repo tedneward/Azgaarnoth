@@ -1,9 +1,9 @@
 # Artificer
-Masters of invention, artificers use ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions. You can find everything you need to play one of these inventors in the next few sections. Artificers use a variety of tools to channel their arcane power. To cast a spell, an artificer might use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power, or tinker's tools to craft a temporary charm. The magic of artificers is tied to their tools and their talents, and few other characters can produce the right tool for a job as well as an artificer.
+Masters of invention, artificers use ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions. Artificers use a variety of tools to channel their arcane power. To cast a spell, an artificer might use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power, or tinker's tools to craft a temporary charm. The magic of artificers is tied to their tools and their talents, and few other characters can produce the right tool for a job as well as an artificer.
 
 Artificers are almost always recruited at some point by [Merchant Guilds](../../Organizations/MerchantGuilds/MerchantGuilds.md), [Mercenary Companies](../../Organizations/MercCompanies/MercCompanies.md), or the [Order of the Steel Dragon](../../Organizations/DraconicOrder/Steel.md), in that order, depending on the level/quality of the work produced by the artificer. (The Steels want only the best as part of their Order, and the merchants want anything they can sell regardless of quality.)
 
-Rumors persist that the [Dread Emperor](/People/DreadEmperor.md) has been known to kidnap promising artificers, and force them to artifice on his behalf.
+Rumors persist that the [Dread Emperor](../../People/DreadEmperor.md) has been known to kidnap promising artificers, and force them to artifice on his behalf.
 
 ## Class Features
 As an artificer, you gain the following class features.
@@ -13,22 +13,22 @@ Level| Proficiency Bonus | Infusions | Infused Items | Cantrips |1st|2nd|3rd|4th
 1st  | +2                | -         | -             | 2        | 2 | - | - | - | - |[Magical Tinkering](#magical-tinkering), [Spellcasting](#spellcasting)      
 2nd  | +2                | 4         | 2             | 2        | 2 | - | - | - | - |[Infuse Item](#infuse-item)
 3rd  | +2                | 4         | 2             | 2        | 3 | - | - | - | - |[Artificer Specialist](#artificer-specialist), [Right Tool for the Job](#the-right-tool-for-the-job)
-4th  | +2                | 4         | 2             | 2        | 3 | - | - | - | - |Ability Score Improvement            
+4th  | +2                | 4         | 2             | 2        | 3 | - | - | - | - |[Ability Score Improvement](#ability-score-improvement) or [Feat](../Feats.md)
 5th  | +3                | 4         | 2             | 2        | 4 | 2 | - | - | - |Artificer Specialist feature         
 6th  | +3                | 6         | 3             | 2        | 4 | 2 | - | - | - |[Tool Expertise](#tool-expertise)
 7th  | +3                | 6         | 3             | 2        | 4 | 3 | - | - | - |[Flash of Genius](#flash-of-genius)
-8th  | +3                | 6         | 3             | 2        | 4 | 3 | - | - | - |Ability Score Improvement
+8th  | +3                | 6         | 3             | 2        | 4 | 3 | - | - | - |[Ability Score Improvement](#ability-score-improvement) or [Feat](../Feats.md)
 9th  | +4                | 6         | 3             | 2        | 4 | 3 | 2 | - | - |Artificer Specialist feature
 10th | +4                | 8         | 4             | 3        | 4 | 3 | 2 | - | - |[Magic Item Adept](#magic-item-adept)
 11th | +4                | 8         | 4             | 3        | 4 | 3 | 3 | - | - |[Spell-Storing Item](#spell-storing-item)
-12th | +4                | 8         | 4             | 3        | 4 | 3 | 3 | - | - |Ability Score Improvement            
+12th | +4                | 8         | 4             | 3        | 4 | 3 | 3 | - | - |[Ability Score Improvement](#ability-score-improvement) or [Feat](../Feats.md)
 13th | +5                | 8         | 4             | 3        | 4 | 3 | 3 | 1 | - | --                                   
 14th | +5                |10         | 5             | 4        | 4 | 3 | 3 | 1 | - |[Magic Item Savant](#magic-item-savant)
 15th | +5                |10         | 5             | 4        | 4 | 3 | 3 | 2 | - |Artificer Specialist feature
-16th | +5                |10         | 5             | 4        | 4 | 3 | 3 | 2 | - |Ability Score Improvement
+16th | +5                |10         | 5             | 4        | 4 | 3 | 3 | 2 | - |[Ability Score Improvement](#ability-score-improvement) or [Feat](../Feats.md)
 17th | +6                |10         | 5             | 4        | 4 | 3 | 3 | 3 | 1 | --                                   
 18th | +6                |12         | 6             | 4        | 4 | 3 | 3 | 3 | 1 |[Magic Item Master](#magic-item-master)
-19th | +6                |12         | 6             | 4        | 4 | 3 | 3 | 3 | 2 |Ability Score Improvement            
+19th | +6                |12         | 6             | 4        | 4 | 3 | 3 | 3 | 2 |[Ability Score Improvement](#ability-score-improvement) or [Feat](../Feats.md)            
 20th | +6                |12         | 6             | 4        | 4 | 3 | 3 | 3 | 2 |[Soul of Artifice](#soul-of-artifice)
 
 
@@ -128,7 +128,7 @@ If an infusion ends on an item that contains other things, like a *bag of holdin
 ## Artificer Specialist
 *3rd-level artificer feature*
 
-Choose the type of specialist you are: [Alchemist](Artificer/Alchemist.md), [Armorer](Artificer/Armorer.md), [Artillerist](Artificer/Artillerist.md), or [Battle Smith](Artificer/BattleSmith.md).
+Choose the type of specialist you are: [Alchemist](Alchemist.md), [Armorer](Armorer.md), [Artillerist](Artillerist.md), [Battle Smith](BattleSmith.md), or [Tattoist](Tattooist.md).
 
 ## The Right Tool for the Job
 *3rd-level artificer feature*
@@ -383,8 +383,10 @@ This magic weapon grants a + 1 bonus to attack and damage rolls made with it, an
 
 While wearing this ring, the creature can recover one expended spell slot as an action. The recovered slot can be of 3rd level or lower. Once used, the ring can't be used again until the next dawn.
 
-# Artificer Spells
-The following spells listed are available (but not necessarily accessible) to all artificers throughout Azgaarnoth; this is not the complete list of all artificer spells, however. Certain specializations may have additional spells that are only known to their members. Artificers can learn new spells by visiting foreign shops, uncovering new books in ancient ruins, and so on. (In other words, DM's choice about adding new artificer spells to the "known" list, and the artificer may need to do some in-game activity or adventure to obtain them.)
+---
+
+# "Core" Artificer Spells
+The following spells listed are available to all artificers throughout Azgaarnoth; this is not the complete list of all artificer spells, however. Certain specializations may have additional spells that are only known to their members. Artificers can learn new spells by visiting foreign shops, uncovering new books in ancient ruins, and so on. (In other words, DM's choice about adding new artificer spells to the "known" list, and the artificer may need to do some in-game activity or adventure to obtain them.)
 
 ## Cantrips
 * [acid splash](/Magic/Spells/acid-splash.md)

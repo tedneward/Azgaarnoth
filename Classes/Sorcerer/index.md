@@ -122,6 +122,7 @@ You can use your sorcery points to gain additional spell slots, or sacrifice spe
 ***Creating Spell Slots***. You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th. The created spell slots vanish at the end of a long rest.
 
 **Creating Spell Slots**
+
 Spell Slot Level|Sorcery Point Cost
 ----------------|------------------
 1st|2

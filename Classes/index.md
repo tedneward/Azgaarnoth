@@ -1,36 +1,42 @@
 # Classes
-Azgaarnoth has a wide range of classes available:
+Azgaarnoth has a wide range of classes available.
 
-## [Artificer](Artificer.md)
+The core list of classes available:
 
-## [Barbarian](Barbarian.md)
+## [Artificer](Artificer)
+The Artificer is a masters of invention, using ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions.
 
-## [Bard](Bard.md)
+## [Barbarian](Barbarian)
 
-## [Cleric](Cleric.md)
 
-## [Druid](Druid.md)
+## [Bard](Bard)
+Whether scholar, skald, or scoundrel, a bard weaves magic through words and music to inspire allies, demoralize foes, manipulate minds, create illusions, and even heal wounds. The bard is a master of song, speech, and the magic they contain.
 
-## [Fighter](Fighter.md)
+## [Cleric](Cleric)
+Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
 
-## [Monk](Monk.md)
+## [Druid](Druid)
 
-## [Mystic](Mystic.md)
+## [Fighter](Fighter)
 
-## [Paladin](Paladin.md)
+## [Monk](Monk)
 
-## [Pale Master](PaleMaster.md)
+## [Mystic](Mystic)
 
-## [Ranger](Ranger.md)
+## [Paladin](Paladin)
 
-## [Rogue](Rogue.md)
+## [Pale Master](PaleMaster)
 
-## [Shaman](Shaman.md)
+## [Ranger](Ranger)
+
+## [Rogue](Rogue)
+
+## [Shaman](Shaman)
 
 ## [Sorcerer](Sorcerer)
 The Sorcerer is born with arcane power flowing through their veins. Relying on instinct and intuition instead of careful study and analysis, they often have a better "feel" for magic than their Wizard cousins, at the expense of a deeper understanding of what they can cast.
 
-## [Warlock](Warlock.md)
+## [Warlock](Warlock)
 The Warlock forms a pact with a divine or near-divine figure to gain occult power, sometimes at hideous cost to themselves.
 
 ## [Wizard](Wizard)
