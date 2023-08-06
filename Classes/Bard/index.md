@@ -9,22 +9,22 @@ Level|Proficiency Bonus|Cantrips Known|Spells Known|1st|2nd|3rd|4th|5th|6th|7th|
  1st |+2|2| 4|2|-|-|-|-|-|-|-|-|[Spellcasting](#spellcasting), [Bardic Inspiration](#bardic-inspiration) (d6)
  2nd |+2|2| 5|3|-|-|-|-|-|-|-|-|[Jack of All Trades](#jack-of-all-trades), [Song of Rest](#song-of-rest) (d6)
  3rd |+2|2| 6|4|2|-|-|-|-|-|-|-|[Bard College](#bard-college), [Expertise](#expertise)
- 4th |+2|3| 7|4|3|-|-|-|-|-|-|-|[Ability Score Improvement](#ability-score-improvement)
+ 4th |+2|3| 7|4|3|-|-|-|-|-|-|-|[Ability Score Improvement](#ability-score-improvement) or [Feat](../Feats.md)
  5th |+3|3| 8|4|3|2|-|-|-|-|-|-|[Bardic Inspiration](#bardic-inspiration) (d8), [Font of Inspiration](#font-of-inspiration)
  6th |+3|3| 9|4|3|3|-|-|-|-|-|-|[Countercharm](#countercharm), [Bard College](#bard-college) feature
  7th |+3|3|10|4|3|3|1|-|-|-|-|-|
- 8th |+3|3|11|4|3|3|2|-|-|-|-|-|[Ability Score Improvement](#ability-score-improvement)
+ 8th |+3|3|11|4|3|3|2|-|-|-|-|-|[Ability Score Improvement](#ability-score-improvement) or [Feat](../Feats.md)
  9th |+4|3|12|4|3|3|3|1|-|-|-|-|[Song of Rest](#song-of-rest) (d8)
 10th |+4|4|14|4|3|3|3|2|-|-|-|-|[Bardic Inspiration](#bardic-inspiration) (d10), [Expertise](#expertise), [Magical Secrets](#magical-secrets)
 11th |+4|4|15|4|3|3|3|2|1|-|-|-|
-12th |+4|4|15|4|3|3|3|2|1|-|-|-|[Ability Score Improvement](#ability-score-improvement)
+12th |+4|4|15|4|3|3|3|2|1|-|-|-|[Ability Score Improvement](#ability-score-improvement) or [Feat](../Feats.md)
 13th |+5|4|16|4|3|3|3|2|1|1|-|-|[Song of Rest](#song-of-rest) (d10)
 14th |+5|4|18|4|3|3|3|2|1|1|-|-|[Magical Secrets](#magical-secrets), [Bard College](#bard-college) feature
 15th |+5|4|19|4|3|3|3|2|1|1|1|-|[Bardic Inspiration](#bardic-inspiration) (d12)
-16th |+5|4|19|4|3|3|3|2|1|1|1|-|[Ability Score Improvement](#ability-score-improvement)
+16th |+5|4|19|4|3|3|3|2|1|1|1|-|[Ability Score Improvement](#ability-score-improvement) or [Feat](../Feats.md)
 17th |+6|4|20|4|3|3|3|2|1|1|1|1|[Song of Rest](#song-of-rest) (d12)
 18th |+6|4|22|4|3|3|3|3|1|1|1|1|[Magical Secrets](#magical-secrets)
-19th |+6|4|22|4|3|3|3|3|2|1|1|1|[Ability Score Improvement](#ability-score-improvement)
+19th |+6|4|22|4|3|3|3|3|2|1|1|1|[Ability Score Improvement](#ability-score-improvement) or [Feat](../Feats.md)
 20th |+6|4|22|4|3|3|3|3|2|2|1|1|[Superior Inspiration](#superior-inspiration)
 
 ### Hit Points
@@ -118,16 +118,16 @@ You can use soothing music or oration to help revitalize your wounded allies dur
 
 You delve into the advanced techniques of a [bard college](#bard-college) of your choice:
 
-* [Creation](Bard/Creation.md)
-* [Dragonsong](Bard/Dragonsong.md)
-* [Eloquence](Bard/Eloquence.md)
-* [Glamour](Bard/Glamour.md)
-* [Lore](Bard/Lore.md)
-* [Satire](Bard/Satire.md)
-* [Secrets](Bard/Secrets.md)
-* [Swords](Bard/Swords.md)
-* [Valor](Bard/Valor.md)
-* [Whispers](Bard/Whispers.md)
+* [Creation](Creation.md)
+* [Dragonsong](Dragonsong.md)
+* [Eloquence](Eloquence.md)
+* [Glamour](Glamour.md)
+* [Lore](Lore.md)
+* [Satire](Satire.md)
+* [Secrets](Secrets.md)
+* [Swords](Swords.md)
+* [Valor](Valor.md)
+* [Whispers](Whispers.md)
 
 Your choice grants you features at 3rd level and again at 6th and 14th level.
 
@@ -169,104 +169,52 @@ You learn two additional spells from any class at 14th level and again at 18th l
 ## Superior Inspiration
 At 20th level, when you roll initiative and have no uses of [Bardic Inspiration](#bardic-inspiration) left, you regain one use.
 
-# Bard Spells
-The following spells listed are available (but not necessarily accessible) to all bards throughout Azgaarnoth; this is not the complete list of all bard spells, however. Certain colleges may have additional spells that are only known to their members. Bards can learn new spells by visiting foreign colleges, uncovering new books in ancient ruins, traveling with other bards of different backgrounds, and so on. (In other words, DM's choice about adding new bard spells to the "known" list, and the bard may need to do some in-game activity or adventure to obtain them.)
+---
+
+# "Core" Bard Spells
+The following spells listed are available to all bards throughout Azgaarnoth; this is not the complete list of all bard spells, however. Certain colleges may have additional spells that are only known to their members, and many bardic spells have been lost in the past. Bards can learn new spells by visiting foreign colleges to learn from bards who know the new spells, uncovering new books of bardic lore in ancient ruins, traveling with other bards of different backgrounds, or study with other arcane scholars and "re-develop" the bardic understanding of the new spell.
+
+> ### GM Notes
+> In other words, it's really the DM's choice about when, where, and how to add new spells to a bard's "known" list;  the bard may need to do some in-game activity or adventure to obtain them.
 
 ## Cantrips
-* [balance](/Magic/Spells/balance.md)
-* [benediction](/Magic/Spells/benediction.md)
-* [blade ward](/Magic/Spells/blade-ward.md)
-* [bolster](/Magic/Spells/bolster.md)
-* [brace](/Magic/Spells/brace.md)
-* [courage](/Magic/Spells/courage.md)
 * [dancing lights](/Magic/Spells/dancing-lights.md)
-* [dazzle](/Magic/Spells/dazzle.md)
-* [disarm](/Magic/Spells/disarm.md)
-* [eidolic chains](/Magic/Spells/eidolic-chains.md)
-* [friends](/Magic/Spells/friends.md)
 * [light](/Magic/Spells/light.md)
 * [mage hand](/Magic/Spells/mage-hand.md)
 * [mending](/Magic/Spells/mending.md)
 * [message](/Magic/Spells/message.md)
 * [minor illusion](/Magic/Spells/minor-illusion.md)
 * [prestidigitation](/Magic/Spells/prestidigitation.md)
-* [renewal](/Magic/Spells/renewal.md)
-* [thunderclap](/Magic/Spells/thunderclap.md)
 * [true strike](/Magic/Spells/true-strike.md)
 * [vicious mockery](/Magic/Spells/vicious-mockery.md)
-* Amanuensis 
-* Create Item 
-* Echoing Blow 
-* Fortifying Cry 
-* Jinx Shot 
-* Leading Strike 
-* Project Object 
-* Voice of Battle
 
 ## 1st Level
 * [animal friendship](/Magic/Spells/animal-friendship.md)
-* [attract projectiles](/Magic/Spells/attract-projectiles.md)
 * [bane](/Magic/Spells/bane.md)
-* [blackout](/Magic/Spells/blackout.md)
-* [cause fear](/Magic/Spells/cause-fear.md)
 * [charm person](/Magic/Spells/charm-person.md)
-* [color spray](/Magic/Spells/color-spray.md)
-* [command](/Magic/Spells/command.md)
 * [comprehend languages](/Magic/Spells/comprehend-languages.md)
 * [cure wounds](/Magic/Spells/cure-wounds.md)
-* [delude](/Magic/Spells/delude.md)
 * [detect magic](/Magic/Spells/detect-magic.md)
 * [disguise self](/Magic/Spells/disguise-self.md)
-* [dissonant whispers](/Magic/Spells/dissonant-whispers.md)
-* [earth tremor](/Magic/Spells/earth-tremo.md)
 * [faerie fire](/Magic/Spells/faerie-fire.md)
-* [false life](/Magic/Spells/false-life.md)
 * [feather fall](/Magic/Spells/feather-fall.md)
-* [guiding hand](/Magic/Spells/guiding-hand.md)
 * [healing word](/Magic/Spells/healing-word.md)
 * [heroism](/Magic/Spells/heroism.md)
 * [identify](/Magic/Spells/identify.md)
 * [illusory script](/Magic/Spells/illusory-script.md)
 * [longstrider](/Magic/Spells/longstrider.md)
-* [sense emotion](/Magic/Spells/sense-emotion.md)
-* [shield of vanity](/Magic/Spells/shield-of-vanity.md)
 * [silent image](/Magic/Spells/silent-image.md)
 * [sleep](/Magic/Spells/sleep.md)
 * [speak with animals](/Magic/Spells/speak-with-animals.md)
-* [sudden awakening](/Magic/Spells/sudden-awakening.md)
-* [tasha's hideous laughter](/Magic/Spells/tashas-hideous-laughter.md)
 * [thunderwave](/Magic/Spells/thunderwave.md)
-* [unearthly chorus](/Magic/Spells/unearthly-chorus.md)
 * [unseen servant](/Magic/Spells/unseen-servant.md)
-* Chameleon
-* Cleanse
-* Critical Strike
-* Dictation
-* Easy Trail
-* Enrage Animals
-* Entropic Shield
-* Frightful Strike
-* Herald’s Call
-* Know Greatest Enemy
-* Misdirected Mark 
-* Nerveskitter
-* Prophesied Strike
-* Protection from Aerial Attack 
-* Speed of Thought 
-* Thundering Armor 
-* Undersong
-* Wailing Wind
 
 ## 2nd Level
-* [aid](/Magic/Spells/aid.md)
 * [animal messenger](/Magic/Spells/animal-messenger.md)
 * [blindness/deafness](/Magic/Spells/blindness-deafness.md)
 * [calm emotions](/Magic/Spells/calm-emotions.md)
-* [cloud of daggers](/Magic/Spells/cloud-of-daggers.md)
-* [crown of madness](/Magic/Spells/crown-of-madness.md)
 * [detect thoughts](/Magic/Spells/detect-thoughts.md)
 * [enhance ability](/Magic/Spells/enhance-ability.md)
-* [enlarge/reduce](/Magic/Spells/enlarge-reduce.md)
 * [enthrall](/Magic/Spells/enthrall.md)
 * [heat metal](/Magic/Spells/heat-metal.md)
 * [hold person](/Magic/Spells/hold-person.md)
@@ -276,119 +224,41 @@ The following spells listed are available (but not necessarily accessible) to al
 * [locate animals or plants](/Magic/Spells/locate-animals-or-plants.md)
 * [locate object](/Magic/Spells/locate-object.md)
 * [magic mouth](/Magic/Spells/magic-mouth.md) (ritual)
-* [mind spike](/Magic/Spells/mind-spike.md)
-* [mirror image](/Magic/Spells/mirror-image.md)
-* [phantasmal force](/Magic/Spells/phantasmal-force.md)
-* [pyrotechnics](/Magic/Spells/pyrotechnics.md)
 * [see invisibility](/Magic/Spells/see-invisibility.md)
 * [shatter](/Magic/Spells/shatter.md)
 * [silence](/Magic/Spells/silence.md)
-* [skywrite](/Magic/Spells/skywrite.md) (ritual)
 * [suggestion](/Magic/Spells/suggestion.md)
-* [warding wind](/Magic/Spells/warding-wind.md)
 * [zone of truth](/Magic/Spells/zone-of-truth.md)
-* Backbiter
-* Balancing Lorecall 
-* Blinding Spittle 
-* Command Minor Beast 
-* Curse of Ill Fortune 
-* Daggerspell Stance
-* Dread Mercy
-* Easy Climb 
-* Elemental Blade 
-* Elonia’s Glamour 
-* Invigorating Strike
-* Knight’s Move 
-* Lifetap
-* Listening Lorecall 
-* Moon Rune
-* Sudden Transposition 
-* Tactical Precision 
-* Unluck
-* War Cry 
-* Whirling Blade 
-* Wraithstrike
 
 ## 3rd Level
 * [bestow curse](/Magic/Spells/bestow-curse.md)
 * [clairvoyance](/Magic/Spells/clarivoyance.md)
-* [disguise other](/Magic/Spells/disguise-other.md)
 * [dispel magic](/Magic/Spells/dispel-magic.md)
-* [enemies abound](/Magic/Spells/enemies-abound.md)
 * [fear](/Magic/Spells/fear.md)
-* [feign death](/Magic/Spells/feign-death.md)
 * [glyph of warding](/Magic/Spells/glyph-of-warding.md)
-* [healing wave](/Magic/Spells/healing-wave.md)
 * [hypnotic pattern](/Magic/Spells/hypnotic-pattern.md)
-* [incite self-harm](/Magic/Spells/incite-self-harm.md)
-* [intellect fortress](/Magic/Spells/intellect-fortress.md)
-* [Leomund's tiny hut](/Magic/Spells/leomunds-tiny-hut.md)
 * [major image](/Magic/Spells/major-image.md)
-* [mass healing word](/Magic/Spells/mass-healing-word.md)
-* [mass shield](/Magic/Spells/mass-shield.md)
-* [mirror weapon](/Magic/Spells/mirror-weapon.md)
 * [nondetection](/Magic/Spells/nondetection.md)
 * [plant growth](/Magic/Spells/plant-growth.md)
-* [relocate](/Magic/Spells/relocate.md)
 * [sending](/Magic/Spells/sending.md)
-* [slow](/Magic/Spells/slow.md)
 * [speak with dead](/Magic/Spells/speak-with-dead.md)
 * [speak with plants](/Magic/Spells/speak-with-plants.md)
 * [stinking cloud](/Magic/Spells/stinking-cloud.md)
-* [summon fey](/Magic/Spells/summon-fey.md)
-* [tiny servant](/Magic/Spells/tiny-servant.md)
 * [tongues](/Magic/Spells/tongues.md)
-* [veiled blade](/Magic/Spells/veiled-blade.md)
-* Allegro 
-* Celebration
-* Clarity of Mind 
-* Cloak of Bravery 
-* Four-Winds Bag 
-* Grace
-* Great Thunderclap 
-* Hearth Spirit 
-* Love’s Lament 
-* Magnetism 
-* Nauseating Breath 
-* Nightscar 
-* Quickening Breeze 
-* Redirect Spell 
-* Shroud of Undeath 
-* Sleep of Horror
 
 ## 4th Level
-* [charm monster](/Magic/Spells/charm-monster.md)
 * [compulsion](/Magic/Spells/compulsion.md)
 * [confusion](/Magic/Spells/confusion.md)
-* [detect curses](/Magic/Spells/detect-curses.md)
 * [dimension door](/Magic/Spells/dimension-door.md)
 * [freedom of movement](/Magic/Spells/freedom-of-movement.md)
 * [greater invisibility](/Magic/Spells/greater-invisibility.md)
-* [greater renewal](/Magic/Spells/greater-renewal.md)
 * [hallucinatory terrain](/Magic/Spells/hallucinatory-terrain.md)
-* [hoodwink](/Magic/Spells/hoodwink.md)
-* [jinx](/Magic/Spells/jinx.md)
 * [locate creature](/Magic/Spells/locate-creature.md)
-* [phantasmal killer](/Magic/Spells/phantasmal-killer.md)
 * [polymorph](/Magic/Spells/polymorph.md)
-* [strangulate](/Magic/Spells/strangulate.md)
-* [twist fate](/Magic/Spells/twist-fate.md)
-* Battle Hymn
-* Breath of the Elements 
-* Crown of Light
-* Eye for An Eye
-* Pain
-* Premonitory Vision 
-* Recitation
-* Resistance, Greater 
-* Thunderous Reprisal
-* Watchware
 
 ## 5th Level
 * [animate objects](/Magic/Spells/animate-objects.md)
 * [awaken](/Magic/Spells/awaken.md)
-* [blessing of luck](/Magic/Spells/blessing-of-luck.md)
-* [contact other plane](/Magic/Spells/contact-other-plane.md) (ritual)
 * [dominate person](/Magic/Spells/dominate-person.md)
 * [dream](/Magic/Spells/dream.md)
 * [geas](/Magic/Spells/geas.md)
@@ -398,98 +268,41 @@ The following spells listed are available (but not necessarily accessible) to al
 * [mass cure wounds](/Magic/Spells/mass-cure-wounds.md)
 * [mislead](/Magic/Spells/mislead.md)
 * [modify memory](/Magic/Spells/modify-memory.md)
-* [phantasmal plunge](/Magic/Spells/phantasmal-plunge.md)
 * [planar binding](/Magic/Spells/planar-binding.md)
 * [raise dead](/Magic/Spells/raise-dead.md)
-* [rary's telepathic bond](/Magic/Spells/rarys-telepathic-bond.md) (ritual)
-* [reverse projectiles](/Magic/Spells/reverse-projectiles.md)
 * [scrying](/Magic/Spells/scrying.md)
 * [seeming](/Magic/Spells/seeming.md)
-* [sonic boom](/Magic/Spells/sonic-boom.md)
 * [teleportation circle](/Magic/Spells/teleportation-circle.md)
-* Code of Secrecy
-* Conduit
-* Curse of Ill Fortune, Mass
-* Doomtide
-* Dragonsight
-* Guiding Snarl
-* Immunity to Poison and Disease
-* Lesser Chainfire
-* Servant Army
-* Shadow Form
-* Unexpected Clarity
-* Weaken Ability
 
 ## 6th Level
 * [eyebite](/Magic/Spells/eyebite.md)
 * [find the path](/Magic/Spells/find-the-path.md)
 * [guards and wards](/Magic/Spells/guards-and-wards.md)
-* [heroes' feast](/Magic/Spells/heroes-feast.md)
 * [mass suggestion](/Magic/Spells/mass-suggestion.md)
-* [mental prison](/Magic/Spells/mental-prison.md)
 * [otto's irresistible dance](/Magic/Spells/ottos-irresistable-dance.md)
 * [programmed illusion](/Magic/Spells/programmed-illusion.md)
-* [scatter](/Magic/Spells/scatter.md)
-* [tenser's transformation](/Magic/Spells/tensers-transformation.md)
 * [true seeing](/Magic/Spells/true-seeing.md)
-* [zone of restoration](/Magic/Spells/zone-of-restoration.md)
-* Chain Madness
-* Howling Chain
-* Inevitable Winter
-* Lorloveim’s Shadowy Transformation 
-* Note of Aggression
-* Opportune Lacuna 
-* Read Object 
-* Resistance, Superior
 
 ## 7th Level
-* [dire jinx](/Magic/Spells/dire-jinx.md)
-* [dream of the blue veil](/Magic/Spells/dream-of-the-blue-veil.md)
 * [etherealness](/Magic/Spells/etherealness.md)
 * [forcecage](/Magic/Spells/forcecage.md)
 * [mirage arcane](/Magic/Spells/mirage-arcane.md)
-* [mordenkainen's magnificent mansion](/Magic/Spells/mordenkainens-magnificient-mansion.md)
 * [mordenkainen's sword](/Magic/Spells/mordenkainens-sword.md)
-* [power word: pain](/Magic/Spells/power-word-pain.md)
-* [prismatic spray](/Magic/Spells/prismatic-spray.md)
 * [project image](/Magic/Spells/project-image.md)
 * [regenerate](/Magic/Spells/regenerate.md)
 * [resurrection](/Magic/Spells/resurrection.md)
-* [sift memory](/Magic/Spells/sift-memory.md)
 * [symbol](/Magic/Spells/symbol.md)
 * [teleport](/Magic/Spells/teleport.md)
-* Hiss of Sleep 
-* Inevitability of the Grave 
-* Instill Vulnerability 
-* Simbul’s Spell Sequencer 
-* Symphonic Nightmare
 
 ## 8th Level
-* [antipathy/sympathy](/Magic/Spells/antipathy-sympathy.md)
 * [dominate monster](/Magic/Spells/dominate-monster.md)
 * [feeblemind](/Magic/Spells/feeblemind.md)
 * [glibness](/Magic/Spells/glibness.md)
-* [maze](/Magic/Spells/maze.md)
 * [mind blank](/Magic/Spells/mind-blank.md)
 * [power word: stun](/Magic/Spells/power-word-stun.md)
-* Brain Spider 
-* Invisibility, Superior 
-* Lasting Breath 
-* Prismal’s Wormhole 
-* Pummelling Drumbeat 
-* Shifting Paths 
-* Wrathful Castigation
 
 ## 9th Level
-* [amnesia](/Magic/Spells/amnesia.md)
 * [foresight](/Magic/Spells/foresight.md)
-* [omnisight](/Magic/Spells/omnisight.md)
-* [power word: heal](/Magic/Spells/power-word-heal.md)
 * [power word: kill](/Magic/Spells/power-word-kill.md)
-* [prismatic wall](/Magic/Spells/prismatic-wall.md)
 * [true polymorph](/Magic/Spells/true-polymorph.md)
-* Instant Refuge
-* Monstrous Thrall
-* Saga of Foretold Doom 
-* Wail of the Banshee
 
