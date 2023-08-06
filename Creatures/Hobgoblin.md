@@ -292,7 +292,7 @@ Hobgoblin Bladebearers are the solitary, legendary warriors of the hobgoblin spe
 
 > Bladebearers are often powerful warriors in their own right, and many have adventured solo or undertaken other activities to increase their personal martial skill; any such additional levels of Fighter would add on to this template. Many choose to specialize; the most popular specialization classes being [Weapon Master](/Classes/Fighter/WeaponMaster.md) and [Duelist](/Classes/Fighter/Duelist.md), but many also explore the mysteries of the [Psi Knight](/Classes/Fighter/PsiKnight.md), and a rare few have taken up the cause of the [Samurai](/Classes/Fighter/Samurai.md), particularly in the East.
 
-Among the [Tragedian United Hordes](/Nations/Tragekia.md), Bladebearers are known to participate and be members of the various [Dueling Colleges](../Organizations/DuelingColleges.md) there. Some will occasionally wander into [Liria](/Nations/Liria.md) in similar pursuit, though often meet with high amounts of distrust and unease, particularly if (when) they win.
+Among the [Tragedian United Hordes](../Nations/Tragekia.md), Bladebearers are known to participate and be members of the various [Dueling Colleges](../Organizations/DuelingColleges.md) there. Some will occasionally wander into [Liria](../Nations/Liria.md) in similar pursuit, though often meet with high amounts of distrust and unease, particularly if (when) they win.
 
 ---
 

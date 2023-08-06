@@ -1,4 +1,4 @@
-# Merevets ([Almalz](/Nations/Almalz.md))
+# Merevets ([Almalz](../Nations/Almalz.md))
 **Population:** 
 
 **Features:** 

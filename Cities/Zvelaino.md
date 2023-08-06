@@ -1,4 +1,4 @@
-# Zvelaino ([Alalihat](/Nations/Alihat.md))
+# Zvelaino ([Alalihat](../Nations/Alihat.md))
 **Population:** 
 
 **Features:** 

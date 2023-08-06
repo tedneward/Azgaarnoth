@@ -1,7 +1,7 @@
 # Arcane Tradition: Soulbinding
 The Soulbound are a cadre of wizards specializing in imbuing an object, as a focus for directing and empowering their spells. Soulbound wizards literally bind a portion of their life force into the object, making this discipline dangerous for the wizard – for should the object be lost, destroyed, or even just fall into a foe’s grasp, the consequences could be disastrous. For all the risk, Soulbound gain significant arcane might from their focus object.
 
-Soulbinding is tradition that seems limited entirely to magi found within [Zhi](/Nations/Zhi.md) (and, to a lesser degree, [Yithi](/Nations/Yithi.md)); no mage school around soulbinding exists.
+Soulbinding is tradition that seems limited entirely to magi found within [Zhi](../../Nations/Zhi.md) (and, to a lesser degree, [Yithi](../../Nations/Yithi.md)); no mage school around soulbinding exists.
 
 ## Soulbond
 Starting at 2nd level, you undertake a ritual to bond with a single, nonmagical, inanimate object of your choice. The ritual takes 24 hours, during which you cannot move or undertake any activity other than the ritual, and if interrupted, the ritual must be restarted.

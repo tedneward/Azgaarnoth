@@ -58,7 +58,7 @@ The Mark of Detection manifests exclusively on half-elves. If your character has
 ---
 
 ## The Mark of Finding
-The Mark of Finding sharpens the senses of those who carry it, guiding the hunter to their prey. It first appeared in the [United Hordes](/Nations/Tragekia.md), where Hordes scouts used it to find their prey. The mark helped unite humans and orcs in the [United Hordes](/Nations/Tragekia.md) and brought House Thar'ashk to lead the Five Hordes for a time.
+The Mark of Finding sharpens the senses of those who carry it, guiding the hunter to their prey. It first appeared in the [United Hordes](../Nations/Tragekia.md), where Hordes scouts used it to find their prey. The mark helped unite humans and orcs in the [United Hordes](../Nations/Tragekia.md) and brought House Thar'ashk to lead the Five Hordes for a time.
 
 ### Traits
 The Mark of Finding only manifests on half-orcs. If your character has the Mark of Finding, these traits replace the Ability Score Increase, Menacing, Relentless Endurance, and Savage Attacks given in the Player’s Handbook. Despite their orcish blood, heirs of the Mark of Finding often resemble their human parents in appearance and temperament. When you create your character, decide if the signs of your orcish ancestry are obvious or subtle.

@@ -88,7 +88,7 @@ While the dwarves stabilized their lines in the Underdark against the Hordes, so
 
 * **3771 - 3781 AF**: **Sixth Dwarven Return.**
 
-* **3912 - 3975 AF**: Hordish Plague sweeps through the Underdark cities beneath [Tragekia](/Nations/Tragekia.md), causing massive suffering and death. Hordish medicine has no answers; sadly, Western medicine could and would have saved many, but few Western healers are known to the Hordes or available to help. For many of the hordechiefs, this is a sign from their gods that they must abandon their old ways and take up a newer, more pacifist way of life, if they are to survive in this world.
+* **3912 - 3975 AF**: Hordish Plague sweeps through the Underdark cities beneath [Tragekia](../Nations/Tragekia.md), causing massive suffering and death. Hordish medicine has no answers; sadly, Western medicine could and would have saved many, but few Western healers are known to the Hordes or available to help. For many of the hordechiefs, this is a sign from their gods that they must abandon their old ways and take up a newer, more pacifist way of life, if they are to survive in this world.
 
 ## Fifth Millennium (4000 - 5000AF): Prophecy and Finality
 The Fifth Millennium came to be dominated by several major events: the emergence of the Prophet, his Disciple, and their schism; the start of the Hordish Soulwar; and the last Return.
@@ -106,11 +106,11 @@ The Fifth Millennium came to be dominated by several major events: the emergence
 
 * **4455 AF**: Zalabasan Calphate declares independence from Alalihat
 
-* **4517 AF**: Tragekian Hordes announce the foundation of [Tragekia](/Nations/Tragekia.md), and expel all Hordish who will not swear loyalty to the Tragekian Courts. Western nations welcome the relief, but grow wary when the Tragekian Hordes demand ownership of all of western Tragekia as a peace price. War erupts between Liria and Tragekia shortly thereafter, although at a much more limited scale than prior conflicts. Most conflict centers around control of the Bumundunar River, since it almost neatly bisects Tragekia, and many new mercenary companies are formed out of Tragekian ex-patriate Hordish tribes that welcome opportunities to attack their former comrades.
+* **4517 AF**: Tragekian Hordes announce the foundation of [Tragekia](../Nations/Tragekia.md), and expel all Hordish who will not swear loyalty to the Tragekian Courts. Western nations welcome the relief, but grow wary when the Tragekian Hordes demand ownership of all of western Tragekia as a peace price. War erupts between Liria and Tragekia shortly thereafter, although at a much more limited scale than prior conflicts. Most conflict centers around control of the Bumundunar River, since it almost neatly bisects Tragekia, and many new mercenary companies are formed out of Tragekian ex-patriate Hordish tribes that welcome opportunities to attack their former comrades.
 
 * **4417 - 4449 AF**: **Eighth Dwarven Return.** Today known as "the Last Return", the Dwarven Courts and Courts-in-Exile pool an awe-inspiring amount of resources to form the largest army the Returns have ever fielded. It splits into eight separate forces, attacking simultaneously across all Seventeen Cities, on the theory that the reasons for failure of previous Returns was that any small number of Lost Cities was able to be reinforced by those not under attack--by attacking all of them simultaneously, that reinforcement is impossible. It appears to work for several decades, and the Return looks like it will finally achieve success. However, in 4448 the dwarves suffer a significant series of setbacks, and rather than try to dig in and fight to the death, the Return commanders elect to return to the surface intending to reinforce, rearm, and resupply; instead, when they reach the surface, they find the Dwarven Courts and Courts-in-Exile embroiled in a massive schism, with no fresh troops, supplies, or funds at hand. The Return dissolves, many dwarves swearing oaths to leave the Cities to their fate, and no further Return is ever forged.
 
-* **4581 AF**: Founding of the open city of Merevets and the nation of [Almalz](/Nations/Almalz.md) around it.
+* **4581 AF**: Founding of the open city of Merevets and the nation of [Almalz](../Nations/Almalz.md) around it.
 
 ## Sixth Millennium (5000 - 6000AF)
 * **5000 AF**: Ulmhorde begins its descent upon Dradehalia, laying the foundation for the massive invasion that will begin a half-century from now

@@ -1,4 +1,4 @@
-# Nyllar ([Alilahat](/Nations/Alalihat.md))
+# Nyllar ([Alilahat](../Nations/Alalihat.md))
 **Population:** 
 
 **Features:** 
