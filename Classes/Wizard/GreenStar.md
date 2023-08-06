@@ -25,9 +25,9 @@ Starting at 14th level, your appearance looks like a sculpture of carved emerald
 # Green Star Unique Spells
 
 ## 1st-level
-* [emerald bands](/Magic/Spells/emerald-bands.md)
-* [gemstone fission](/Magic/Spells/gemstone-fission.md)
-* [viridian shell](/Magic/Spells/viridian-shell.md)
+* [emerald bands](../../Magic/Spells/emerald-bands.md)
+* [gemstone fission](../../Magic/Spells/gemstone-fission.md)
+* [viridian shell](../../Magic/Spells/viridian-shell.md)
 
 ## 4th-level
-* [jade clone](/Magic/Spells/jade-clone.md)
+* [jade clone](../../Magic/Spells/jade-clone.md)

@@ -28,15 +28,15 @@ Starting at 14th level, whenever you cast a conjuration spell with a duration th
 # Jaunter Spells
 
 ## Cantrips
-* [peep-hole](/Magic/Spells/peep-hole.md)
+* [peep-hole](../../Magic/Spells/peep-hole.md)
 
 ## 2nd-level
-* [tidy](/Magic/Spells/tidy.md)
+* [tidy](../../Magic/Spells/tidy.md)
 
 ## 5th-level
-* [redirect](/Magic/Spells/redirect.md)
+* [redirect](../../Magic/Spells/redirect.md)
 
 ## 6th-level
-* [beckon closer](/Magic/Spells/beckon-closer.md)
-* [temporal visions](/Magic/Spells/temporal-visions.md)
+* [beckon closer](../../Magic/Spells/beckon-closer.md)
+* [temporal visions](../../Magic/Spells/temporal-visions.md)
 

@@ -24,14 +24,14 @@ White Winds was the first to develop the [Arcanist](/Classes/Wizard/Arcanist.md)
 These are actually quite common across Azgaarnoth, but require a White Winds mage to teach them.
 
 ## Cantrips
-* [dire radiance](/Magic/Spells/dire-radiance.md)
+* [dire radiance](../../Magic/Spells/dire-radiance.md)
 
 ## 3rd-level
-* [aegis of shielding](/Magic/Spells/aegis-of-shielding.md)
+* [aegis of shielding](../../Magic/Spells/aegis-of-shielding.md)
 
 ## 4th-level
-* [decelerating slash](/Magic/Spells/decelerating-slash.md)
+* [decelerating slash](../../Magic/Spells/decelerating-slash.md)
 
 ## 5th-level
-* [duel ward](/Magic/Spells/duel-ward.md)
+* [duel ward](../../Magic/Spells/duel-ward.md)
 

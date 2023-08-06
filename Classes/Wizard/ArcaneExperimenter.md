@@ -57,15 +57,15 @@ These spells are known generally just to arcane experimenters.
 ## Cantrips
 
 ## 2nd-level
-* [lesser charm of second chance](/Magic/Spells/lesser-charm-of-second-chance.md)
+* [lesser charm of second chance](../../Magic/Spells/lesser-charm-of-second-chance.md)
 
 ## 3rd-level
-* [ablative body ward](/Magic/Spells/ablative-body-ward.md)
+* [ablative body ward](../../Magic/Spells/ablative-body-ward.md)
 
 ## 4th-level
-* [greater charm of second chance](/Magic/Spells/greater-charm-of-second-chance.md)
+* [greater charm of second chance](../../Magic/Spells/greater-charm-of-second-chance.md)
 
 ## 5th-level
-* [prismatic-cloud](/Magic/Spells/prismatic-cloud.md)
+* [prismatic-cloud](../../Magic/Spells/prismatic-cloud.md)
 
 *Source: Blackstaff's Tome of Wizardry*

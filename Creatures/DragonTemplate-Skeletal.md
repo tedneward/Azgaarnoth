@@ -1,5 +1,5 @@
 # Creature Template: Skeletal Dragon
-Skeletal dragons are created through spells such as [animate dead](/Magic/Spells/animate-dead.md). Such a dragon has no memory of its former life or self, and functions identically to any other skeleton, though it retains some of its abilities and powers because of its draconic nature. 
+Skeletal dragons are created through spells such as [animate dead](../Magic/Spells/animate-dead.md). Such a dragon has no memory of its former life or self, and functions identically to any other skeleton, though it retains some of its abilities and powers because of its draconic nature. 
 
 When a dragon becomes a skeletal dragon, it retains its statistics, except as described below. The dragon loses any trait, such as Amphibious, that assumes a living physiology. The dragon retains none of its lair actions or legendary actions.
 

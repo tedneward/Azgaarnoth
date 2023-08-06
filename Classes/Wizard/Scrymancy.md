@@ -4,7 +4,7 @@ The scrymancers are the spies amongst the wizarding schools. While not as adroit
 Scrymancers are highly sought after by a variety of parties: in addition to the [Silent Tower](../../Organizations/MageSchools/SilentTower.md) school, the [Noble Houses](../../Organizations/Houses/Houses.md) seek scrymancers to gain an upper hand on their rivals (and allies) in the Great Game, [Rogues Guilds](../../Organizations/RoguesGuilds/RoguesGuilds.md) are always looking for those that can help them plan a job, [Militant Orders](../../Organizations/MilitantOrders/MilitantOrders.md) and [Mercenary Companies](../../Organizations/MercCompanies/MercCompanies.md) often need up-to-the-moment intelligence, and so on.  
 
 ## Eyes That See
-At 2nd level, you learn little tricks to see the hidden. You add the [faerie fire](/Magic/Spells/faerie-fire.md) spell to your spellbook.
+At 2nd level, you learn little tricks to see the hidden. You add the [faerie fire](../../Magic/Spells/faerie-fire.md) spell to your spellbook.
 
 ## Stealthy Casting
 Aso at 2nd level, you’ve learned how to cast spells without being detected. As part of casting a spell, you can make a Dexterity (Stealth) check. All creatures with a passive Perception lower than the total of your roll do not notice you casting the spell. You gain proficiency in the Stealth skill if you don’t already have it, and casting a spell only reveals your position if you inflict damage on a creature or object.
@@ -23,17 +23,17 @@ At 14th level, your spells fuel your perception. When you cast a divination spel
 # Scrymancy Spells
 
 ## Cantrips
-* [piercing vision](/Magic/Spells/piercing-vision.md)
+* [piercing vision](../../Magic/Spells/piercing-vision.md)
 
 ## 3rd-level
-* [x-ray vision](/Magic/Spells/x-ray-vision.md)
+* [x-ray vision](../../Magic/Spells/x-ray-vision.md)
 
 ## 6th-level
-* [greater darkness](/Magic/Spells/greater-darkness.md)
+* [greater darkness](../../Magic/Spells/greater-darkness.md)
 
 ## 7th-level
-* [predict action](/Magic/Spells/predict-action.md)
+* [predict action](../../Magic/Spells/predict-action.md)
 
 ## 8th-level
-* [greater telepathic bond](/Magic/Spells/greater-telepathic-bond.md)
+* [greater telepathic bond](../../Magic/Spells/greater-telepathic-bond.md)
 

@@ -26,16 +26,16 @@ Beginning at 14th level, aware of your infinitesimally inconsequential nature ag
 In addition to the core spell list, Voidmancers will typically have access to the following spells:
 
 ## Cantrip
-* [voidwhisper](/Magic/Spells/voidwhisper.md)
+* [voidwhisper](../../Magic/Spells/voidwhisper.md)
 
 ## 2nd-level
-* [voidsight](/Magic/Spells/voidsight.md)
+* [voidsight](../../Magic/Spells/voidsight.md)
 
 ## 3rd-level
-* [visions of the void](/Magic/Spells/visions-of-the-void.md)
+* [visions of the void](../../Magic/Spells/visions-of-the-void.md)
 
 ## 5th-level
-* [echoes of the void](/Magic/Spells/echoes-of-the-void.md)
+* [echoes of the void](../../Magic/Spells/echoes-of-the-void.md)
 
 ## 9th-level
-* [ravenous void](/Magic/Spells/ravenous-void.md)
+* [ravenous void](../../Magic/Spells/ravenous-void.md)

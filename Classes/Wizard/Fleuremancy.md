@@ -24,18 +24,18 @@ Starting at 14th level, you can impose disadvantage on saving throws made by cre
 # Fleuremancy Spells
 
 ## 1st-level
-* [night vision](/Magic/Spells/night-vision.md)
+* [night vision](../../Magic/Spells/night-vision.md)
 
 ## 2nd-level
-* [radiant burst](/Magic/Spells/radiant-burst.md)
-* [radiant weapon](/Magic/Spells/radiant-weapon.md)
+* [radiant burst](../../Magic/Spells/radiant-burst.md)
+* [radiant weapon](../../Magic/Spells/radiant-weapon.md)
 
 ## 3rd-level
-* [light lance](/Magic/Spells/light-lance.md)
+* [light lance](../../Magic/Spells/light-lance.md)
 
 ## 4th-level
-* [radiant shield](/Magic/Spells/radiant-shield.md)
+* [radiant shield](../../Magic/Spells/radiant-shield.md)
 
 ## 5th-level
-* [prismatic ray](/Magic/Spells/prismatic-ray.md)
+* [prismatic ray](../../Magic/Spells/prismatic-ray.md)
 

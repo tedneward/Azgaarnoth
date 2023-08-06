@@ -88,7 +88,7 @@ The Pale Master table shows how many spell slots you have to cast your pale mast
 
 You prepare the list of pale master spells that are available for you to cast. To do so, choose a number of pale master spells from your grimoire equal to your Intelligence modifier + half your pale master level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you’re a 4th-level pale master, you have three 1st-level and three 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination, chosen from your grimoire. If you prepare the 1st-level spell [false life](/Magic/Spells/false-life), you can cast it using a.md 1st-level or a 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+For example, if you’re a 4th-level pale master, you have three 1st-level and three 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination, chosen from your grimoire. If you prepare the 1st-level spell [false life](../../Magic/Spells/false-life), you can cast it using a.md 1st-level or a 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of pale master spells requires time spent studying your grimoire and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
 

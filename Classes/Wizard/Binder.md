@@ -45,11 +45,11 @@ The creature you summon is based on the creature that was bound to you:
 # Binder Unique Spell List
 
 ## 2nd
-* [disconnect bond](/Magic/Spells/disconnect-bond.md)
-* [overpower bond](/Magic/Spells/overpower-bond.md)
+* [disconnect bond](../../Magic/Spells/disconnect-bond.md)
+* [overpower bond](../../Magic/Spells/overpower-bond.md)
 
 ## 3rd
-* [ethereal quiver](/Magic/Spells/ethereal-quiver.md)
+* [ethereal quiver](../../Magic/Spells/ethereal-quiver.md)
 
 ## 5th
-* [Tenser's recall](/Magic/Spells/tensers-recall.md)
+* [Tenser's recall](../../Magic/Spells/tensers-recall.md)

@@ -31,13 +31,13 @@ After using this ability you cannot use it again until after you finish a long r
 These spells are never shared with anyone outside of Crimson Sunrise.
 
 ## Cantrips
-* [alchemical grenade](/Magic/Spells/alchemical-grenade.md)
+* [alchemical grenade](../../Magic/Spells/alchemical-grenade.md)
 
 ## 1st-level
-* [shrapnel ray](/Magic/Spells/shrapnel-ray.md)
+* [shrapnel ray](../../Magic/Spells/shrapnel-ray.md)
 
 ## 3rd-level
-* [arcane ball bearings](/Magic/Spells/arcane-ball-bearings.md)
+* [arcane ball bearings](../../Magic/Spells/arcane-ball-bearings.md)
 
 ## 5th-level
-* [fires of Avernus](/Magic/Spells/fires-of-Avernus.md)
+* [fires of Avernus](../../Magic/Spells/fires-of-Avernus.md)

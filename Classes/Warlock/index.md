@@ -295,7 +295,7 @@ You can cast [disguise self]() at will, without expending a spell slot.
 ### Master of Myriad Forms
 *Prerequisite: 15th level*
 
-You can cast [alter self](/Magic/Spells/alter-self) at will, without expending a spell slot.md.
+You can cast [alter self](../../Magic/Spells/alter-self) at will, without expending a spell slot.md.
 
 ### Minions of Chaos
 *Prerequisite: 9th level*
@@ -450,134 +450,134 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 > Game notes: In other words, DM's choice about adding new warlock spells to the "known" list, and the warlock may need to do some in-game activity or adventure to obtain them.
 
 ## Cantrips
-* [balance](/Magic/Spells/balance.md)
-* [blade ward](/Magic/Spells/blade-ward.md)
-* [blood boil](/Magic/Spells/blood-boil.md)
-* [blood dagger](/Magic/Spells/blood-dagger.md)
-* [blood siphon](/Magic/Spells/blood-siphon.md)
-* [bloodlink](/Magic/Spells/bloodlink.md)
-* [bolster](/Magic/Spells/bolster.md)
-* [booming blade](/Magic/Spells/booming-blade.md)
-* [chill touch](/Magic/Spells/chill-touch.md)
-* [corruption](/Magic/Spells/corruption.md)
-* [create bonfire](/Magic/Spells/create-bonfire.md)
-* [eidolic chains](/Magic/Spells/eidolic-chains.md)
-* [eldritch blast](/Magic/Spells/eldritch-blast.md)
-* [friends](/Magic/Spells/friends.md)
-* [frostbite](/Magic/Spells/frostbite.md)
-* [gore spike](/Magic/Spells/gore-spike.md)
-* [green flame blade](/Magic/Spells/green-flame-blade.md)
-* [hemokinesis](/Magic/Spells/hemokinesis.md)
-* [infestation](/Magic/Spells/infestation.md)
-* [lightning lure](/Magic/Spells/lightning-lure.md)
-* [mage hand](/Magic/Spells/mage-hand.md)
-* [mind sliver](/Magic/Spells/mind-sliver.md)
-* [magic stone](/Magic/Spells/magic-stone.md)
-* [minor illusion](/Magic/Spells/minor-illusion.md)
-* [poison spray](/Magic/Spells/poison-spray.md)
-* [prestidigitation](/Magic/Spells/prestidigitation.md)
-* [sword burst](/Magic/Spells/sword-burst.md)
-* [thunderclap](/Magic/Spells/thunderclap.md)
-* [toll the dead](/Magic/Spells/toll-the-dead.md)
-* [true strike](/Magic/Spells/true-strike.md)
+* [balance](../../Magic/Spells/balance.md)
+* [blade ward](../../Magic/Spells/blade-ward.md)
+* [blood boil](../../Magic/Spells/blood-boil.md)
+* [blood dagger](../../Magic/Spells/blood-dagger.md)
+* [blood siphon](../../Magic/Spells/blood-siphon.md)
+* [bloodlink](../../Magic/Spells/bloodlink.md)
+* [bolster](../../Magic/Spells/bolster.md)
+* [booming blade](../../Magic/Spells/booming-blade.md)
+* [chill touch](../../Magic/Spells/chill-touch.md)
+* [corruption](../../Magic/Spells/corruption.md)
+* [create bonfire](../../Magic/Spells/create-bonfire.md)
+* [eidolic chains](../../Magic/Spells/eidolic-chains.md)
+* [eldritch blast](../../Magic/Spells/eldritch-blast.md)
+* [friends](../../Magic/Spells/friends.md)
+* [frostbite](../../Magic/Spells/frostbite.md)
+* [gore spike](../../Magic/Spells/gore-spike.md)
+* [green flame blade](../../Magic/Spells/green-flame-blade.md)
+* [hemokinesis](../../Magic/Spells/hemokinesis.md)
+* [infestation](../../Magic/Spells/infestation.md)
+* [lightning lure](../../Magic/Spells/lightning-lure.md)
+* [mage hand](../../Magic/Spells/mage-hand.md)
+* [mind sliver](../../Magic/Spells/mind-sliver.md)
+* [magic stone](../../Magic/Spells/magic-stone.md)
+* [minor illusion](../../Magic/Spells/minor-illusion.md)
+* [poison spray](../../Magic/Spells/poison-spray.md)
+* [prestidigitation](../../Magic/Spells/prestidigitation.md)
+* [sword burst](../../Magic/Spells/sword-burst.md)
+* [thunderclap](../../Magic/Spells/thunderclap.md)
+* [toll the dead](../../Magic/Spells/toll-the-dead.md)
+* [true strike](../../Magic/Spells/true-strike.md)
 
 ## 1st Level
-* [armor of agathys](/Magic/Spells/armor-of-agathys.md)
-* [arms of hadar](/Magic/Spells/arms-of-hadar.md)
-* [blackout](/Magic/Spells/blackout.md)
-* [blood reading](/Magic/Spells/blood-reading.md)
-* [cause fear](/Magic/Spells/cause-fear.md)
-* [charm person](/Magic/Spells/charm-person.md)
-* [comprehend languages](/Magic/Spells/comprehend-languages.md)
-* [delude](/Magic/Spells/delude.md)
-* [expeditious retreat](/Magic/Spells/expeditious-retreat.md)
-* [healing elixir](/Magic/Spells/healing-elixir.md)
-* [hellish rebuke](/Magic/Spells/hellish-rebuke.md)
-* [hex](/Magic/Spells/hex.md)
-* [id insinuation](/Magic/Spells/id-insinuation) (UA.md)
-* [illusory script](/Magic/Spells/illusory-script.md)
-* [protection from evil and good](/Magic/Spells/protection-from-evil-and-good.md)
-* [puppet](/Magic/Spells/puppet.md)
-* [sense emotion](/Magic/Spells/sense-emotion.md)
-* [unseen servant](/Magic/Spells/unseen-servant.md)
-* [thunderwave](/Magic/Spells/thunderwave.md)
-* [witch bolt](/Magic/Spells/witch-bolt.md)
+* [armor of agathys](../../Magic/Spells/armor-of-agathys.md)
+* [arms of hadar](../../Magic/Spells/arms-of-hadar.md)
+* [blackout](../../Magic/Spells/blackout.md)
+* [blood reading](../../Magic/Spells/blood-reading.md)
+* [cause fear](../../Magic/Spells/cause-fear.md)
+* [charm person](../../Magic/Spells/charm-person.md)
+* [comprehend languages](../../Magic/Spells/comprehend-languages.md)
+* [delude](../../Magic/Spells/delude.md)
+* [expeditious retreat](../../Magic/Spells/expeditious-retreat.md)
+* [healing elixir](../../Magic/Spells/healing-elixir.md)
+* [hellish rebuke](../../Magic/Spells/hellish-rebuke.md)
+* [hex](../../Magic/Spells/hex.md)
+* [id insinuation](../../Magic/Spells/id-insinuation) (UA.md)
+* [illusory script](../../Magic/Spells/illusory-script.md)
+* [protection from evil and good](../../Magic/Spells/protection-from-evil-and-good.md)
+* [puppet](../../Magic/Spells/puppet.md)
+* [sense emotion](../../Magic/Spells/sense-emotion.md)
+* [unseen servant](../../Magic/Spells/unseen-servant.md)
+* [thunderwave](../../Magic/Spells/thunderwave.md)
+* [witch bolt](../../Magic/Spells/witch-bolt.md)
 
 ## 2nd Level
-* [Beluud's brutal jaunt](/Magic/Spells/beluuds-brutal-jaunt.md)
-* [carnage blast](/Magic/Spells/carnage-blast.md)
-* [cloud of daggers](/Magic/Spells/cloud-of-daggers.md)
-* [crown of madness](/Magic/Spells/crown-of-madness.md)
-* [darkness](/Magic/Spells/darkness.md)
-* [earthbind](/Magic/Spells/earthbind.md)
-* [enthrall](/Magic/Spells/enthrall.md)
-* [flock of familiars](/Magic/Spells/flock-of-familiars.md)
-* [hold person](/Magic/Spells/hold-person.md)
-* [invisibility](/Magic/Spells/invisibility.md)
-* [knock](/Magic/Spells/knock.md)
-* [mental barrier](/Magic/Spells/mental-barrier.md)
-* [mind thrust](/Magic/Spells/mind-thrust.md)
-* [mirror image](/Magic/Spells/mirror-image.md)
-* [misty step](/Magic/Spells/misty-step.md)
-* [ray of enfeeblement](/Magic/Spells/ray-of-enfeeblement.md)
-* [shatter](/Magic/Spells/shatter.md)
-* [spider climb](/Magic/Spells/spider-climb.md)
-* [suggestion](/Magic/Spells/suggestion.md)
-* [thought shield](/Magic/Spells/thought-shield.md)
+* [Beluud's brutal jaunt](../../Magic/Spells/beluuds-brutal-jaunt.md)
+* [carnage blast](../../Magic/Spells/carnage-blast.md)
+* [cloud of daggers](../../Magic/Spells/cloud-of-daggers.md)
+* [crown of madness](../../Magic/Spells/crown-of-madness.md)
+* [darkness](../../Magic/Spells/darkness.md)
+* [earthbind](../../Magic/Spells/earthbind.md)
+* [enthrall](../../Magic/Spells/enthrall.md)
+* [flock of familiars](../../Magic/Spells/flock-of-familiars.md)
+* [hold person](../../Magic/Spells/hold-person.md)
+* [invisibility](../../Magic/Spells/invisibility.md)
+* [knock](../../Magic/Spells/knock.md)
+* [mental barrier](../../Magic/Spells/mental-barrier.md)
+* [mind thrust](../../Magic/Spells/mind-thrust.md)
+* [mirror image](../../Magic/Spells/mirror-image.md)
+* [misty step](../../Magic/Spells/misty-step.md)
+* [ray of enfeeblement](../../Magic/Spells/ray-of-enfeeblement.md)
+* [shatter](../../Magic/Spells/shatter.md)
+* [spider climb](../../Magic/Spells/spider-climb.md)
+* [suggestion](../../Magic/Spells/suggestion.md)
+* [thought shield](../../Magic/Spells/thought-shield.md)
 
 ## 3rd Level
-* [animate dead](/Magic/Spells/animate-dead.md)
-* [blood extraction](/Magic/Spells/blood-extraction.md)
-* [counterspell](/Magic/Spells/counterspell.md)
-* [dispel magic](/Magic/Spells/dispel-magic.md)
-* [enemies abound](/Magic/Spells/enemies-abound.md)
-* [fear](/Magic/Spells/fear.md)
-* [fly](/Magic/Spells/fly.md)
-* [gaseous form](/Magic/Spells/gaseous-form.md)
-* [hunger of hadar](/Magic/Spells/hunger-of-hadar.md)
-* [hypnotic pattern](/Magic/Spells/hypnotic-pattern.md)
-* [incite self-harm](/Magic/Spells/incite-self-harm.md)
-* [life transference](/Magic/Spells/life-transference.md)
-* [magic circle](/Magic/Spells/magic-circle.md)
-* [major image](/Magic/Spells/major-image.md)
-* [psionic blast](/Magic/Spells/psionic-blast.md)
-* [ray of fatigue](/Magic/Spells/ray-of-fatigue.md)
-* [remove curse](/Magic/Spells/remove-curse.md)
-* [spirit shroud](/Magic/Spells/spirit-shroud.md)
-* [summon fey](/Magic/Spells/summon-fey.md)
-* [summon shadow](/Magic/Spells/summon-shadow.md)
-* [summon undead](/Magic/Spells/summon-undead.md)
-* [tongues](/Magic/Spells/tongues.md)
-* [vampiric touch](/Magic/Spells/vampiric-touch.md)
-* [veiled blade](/Magic/Spells/veiled-blade.md)
+* [animate dead](../../Magic/Spells/animate-dead.md)
+* [blood extraction](../../Magic/Spells/blood-extraction.md)
+* [counterspell](../../Magic/Spells/counterspell.md)
+* [dispel magic](../../Magic/Spells/dispel-magic.md)
+* [enemies abound](../../Magic/Spells/enemies-abound.md)
+* [fear](../../Magic/Spells/fear.md)
+* [fly](../../Magic/Spells/fly.md)
+* [gaseous form](../../Magic/Spells/gaseous-form.md)
+* [hunger of hadar](../../Magic/Spells/hunger-of-hadar.md)
+* [hypnotic pattern](../../Magic/Spells/hypnotic-pattern.md)
+* [incite self-harm](../../Magic/Spells/incite-self-harm.md)
+* [life transference](../../Magic/Spells/life-transference.md)
+* [magic circle](../../Magic/Spells/magic-circle.md)
+* [major image](../../Magic/Spells/major-image.md)
+* [psionic blast](../../Magic/Spells/psionic-blast.md)
+* [ray of fatigue](../../Magic/Spells/ray-of-fatigue.md)
+* [remove curse](../../Magic/Spells/remove-curse.md)
+* [spirit shroud](../../Magic/Spells/spirit-shroud.md)
+* [summon fey](../../Magic/Spells/summon-fey.md)
+* [summon shadow](../../Magic/Spells/summon-shadow.md)
+* [summon undead](../../Magic/Spells/summon-undead.md)
+* [tongues](../../Magic/Spells/tongues.md)
+* [vampiric touch](../../Magic/Spells/vampiric-touch.md)
+* [veiled blade](../../Magic/Spells/veiled-blade.md)
 
 ## 4th Level
 * Banishment
 * Blight
-* [charm monster](/Magic/Spells/charm-monster.md)
+* [charm monster](../../Magic/Spells/charm-monster.md)
 * Dimension Door
 * Ego Whip (UA)
-* [elemental bane](/Magic/Spells/elemental-bane.md)
+* [elemental bane](../../Magic/Spells/elemental-bane.md)
 * Galder's Speedy Courier
 * Hallucinatory Terrain
-* [hemorrhage](/Magic/Spells/hemorrhage.md)
-* [jinx](/Magic/Spells/jinx.md)
-* [strangulate](/Magic/Spells/strangulate.md)
+* [hemorrhage](../../Magic/Spells/hemorrhage.md)
+* [jinx](../../Magic/Spells/jinx.md)
+* [strangulate](../../Magic/Spells/strangulate.md)
 * Summon Abberant Spirit (UA)
-* [wind funnel](/Magic/Spells/wind-funnel.md)
+* [wind funnel](../../Magic/Spells/wind-funnel.md)
 
 ## 5th Level
-* [chilling darkness](/Magic/Spells/chilling-darkness.md)
+* [chilling darkness](../../Magic/Spells/chilling-darkness.md)
 * Contact Other Plane
 * Dream
 * Intellect Fortress (UA)
 * Hold Monster
 * mislead
 * modify memory
-* [phantasmal plunge](/Magic/Spells/phantasmal-plunge.md)
+* [phantasmal plunge](../../Magic/Spells/phantasmal-plunge.md)
 * planar binding
 * Scrying
-* [soar](/Magic/Spells/soar.md)
+* [soar](../../Magic/Spells/soar.md)
 * teleportation circle
 
 ## 6th Level
@@ -587,27 +587,27 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * Create Undead
 * Eyebite
 * Flesh to Stone
-* [globe of winter](/Magic/Spells/globe-of-winter.md)
+* [globe of winter](../../Magic/Spells/globe-of-winter.md)
 * Investiture of Flame
 * Investiture of Ice
 * Investiture of Stone
 * Investiture of Wind
 * magic jar
 * Mass Suggestion
-* [possess object](/Magic/Spells/possess-object.md)
+* [possess object](../../Magic/Spells/possess-object.md)
 * Psychic Crush (UA)
-* [soul blade](/Magic/Spells/soul-blade.md)
+* [soul blade](../../Magic/Spells/soul-blade.md)
 * Summon Fiendish Spirit (UA)
 * True Seeing
 
 ## 7th Level
-* [crown of stars](/Magic/Spells/crown-of-stars.md)
-* [death's door](/Magic/Spells/deaths-door.md)
-* [dire jinx](/Magic/Spells/dire-jinx.md)
+* [crown of stars](../../Magic/Spells/crown-of-stars.md)
+* [death's door](../../Magic/Spells/deaths-door.md)
+* [dire jinx](../../Magic/Spells/dire-jinx.md)
 * Etherealness
 * Finger of Death
 * Forcecage
-* [living burial](/Magic/Spells/living-burial.md)
+* [living burial](../../Magic/Spells/living-burial.md)
 * Plane Shift
 * project image
 
@@ -615,23 +615,23 @@ Warlock spells, despite being similar in some respects to arcane spells cast by 
 * Abi-Dalzim's horrid wilting
 * Demiplane
 * Dominate Monster
-* [encasing ice](/Magic/Spells/encasing-ice.md)
+* [encasing ice](../../Magic/Spells/encasing-ice.md)
 * Feeblemind
 * Glibness
 * Power Word: Stun
-* [vertigo](/Magic/Spells/vertigo.md)
+* [vertigo](../../Magic/Spells/vertigo.md)
 
 ## 9th Level
-* [amnesia](/Magic/Spells/amnesia.md)
+* [amnesia](../../Magic/Spells/amnesia.md)
 * Astral Projection
-* [blood to flame](/Magic/Spells/blood-to-flame.md)
+* [blood to flame](../../Magic/Spells/blood-to-flame.md)
 * Foresight
-* [frailty](/Magic/Spells/frailty.md)
+* [frailty](../../Magic/Spells/frailty.md)
 * gate
 * Imprisonment
-* [omnisight](/Magic/Spells/omnisight.md)
+* [omnisight](../../Magic/Spells/omnisight.md)
 * Power Word: Kill
-* [raise abomination](/Magic/Spells/raise-abomination.md)
+* [raise abomination](../../Magic/Spells/raise-abomination.md)
 * shapechange
 * True Polymorph
 * weird

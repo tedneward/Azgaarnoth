@@ -24,14 +24,14 @@ Starting at 14th level, using your action, you are able to generate and maintain
 The Shining Door is actually quite willing to sell copies of their unique spells to magi willing to buy them, at a hefty price. Bards from Mighal also may, at the DM's discretion, have access to these spells.
 
 ## 1st
-* [dimensional window](/Magic/Spells/dimensional-window.md)
+* [dimensional window](../../Magic/Spells/dimensional-window.md)
 
 ## 2nd
-* [dimensional reach](/Magic/Spells/dimensional-reach.md)
+* [dimensional reach](../../Magic/Spells/dimensional-reach.md)
 
 ## 3rd
-* [dimensional doorway](/Magic/Spells/dimensional-doorway.md)
+* [dimensional doorway](../../Magic/Spells/dimensional-doorway.md)
 
 ## 5th
-* [fleeting journey](/Magic/Spells/fleeting-journey.md)
+* [fleeting journey](../../Magic/Spells/fleeting-journey.md)
 

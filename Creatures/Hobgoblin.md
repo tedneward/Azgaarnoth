@@ -506,7 +506,7 @@ The Mindbenders are Hobgoblin bards that serve as political officers across the 
 **Spellcaster** Sorcerer caster level 8th, spell attack bonus +7, Spell Save DC 15. 5 cantrips known, 9 spells known
 
 * *Cantrips*: acid splash, blade ward, fire bolt, message, true strike
-* *1st (4 slots)*: [chaos bolt](/Magic/Spells/chaos-bolt.md), fog cloud, shield
+* *1st (4 slots)*: [chaos bolt](../Magic/Spells/chaos-bolt.md), fog cloud, shield
 * *2nd (3 slots)*: cloud of daggers, invisibility
 * *3rd (3 slots)*: fireball, haste
 * *4th (2 slots)*: ice storm, summon aberrant spirit

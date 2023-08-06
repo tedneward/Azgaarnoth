@@ -7,7 +7,7 @@ Illusionists frequently find a home within the [Glittering Eye](../../Organizati
 Beginning when you select this school at 2nd level, the gold and time you must spend to copy a Illusion spell into your spellbook is halved.
 
 ## Improved Minor Illusion
-When you choose this school at 2nd level, you learn the [Minor Illusion](/Magic/Spells/minor-illusion.md) cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
+When you choose this school at 2nd level, you learn the [Minor Illusion](../../Magic/Spells/minor-illusion.md) cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
 When you cast Minor Illusion, you can create both a sound and an image with a single casting of the spell.
 

@@ -34,18 +34,18 @@ Unwilling creatures can make a successful Charisma saving throw to resist the ef
 # Emomancy Spells
 
 ## 1st-level
-* [dishearten](/Magic/Spells/dishearten.md)
-* [positive foundations](/Magic/Spells/positive-foundations.md)
+* [dishearten](../../Magic/Spells/dishearten.md)
+* [positive foundations](../../Magic/Spells/positive-foundations.md)
 
 ## 2nd-level
-* [passionate pursuit](/Magic/Spells/passionate-pursuit.md)
-* [symbiotic confidence](/Magic/Spells/symbiotic-confidence.md)
+* [passionate pursuit](../../Magic/Spells/passionate-pursuit.md)
+* [symbiotic confidence](../../Magic/Spells/symbiotic-confidence.md)
 
 ## 3rd-level
-* [suspicion and doubt](/Magic/Spells/suspicion-and-doubt.md)
+* [suspicion and doubt](../../Magic/Spells/suspicion-and-doubt.md)
 
 ## 5th-level
-* [unshakable self awareness](/Magic/Spells/unshakable-self-awareness.md)
+* [unshakable self awareness](../../Magic/Spells/unshakable-self-awareness.md)
 
 ## 9th-level
-* [exemplar of self](/Magic/Spells/examplar-of-self.md)
+* [exemplar of self](../../Magic/Spells/examplar-of-self.md)

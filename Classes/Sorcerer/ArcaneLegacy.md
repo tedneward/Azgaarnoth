@@ -12,11 +12,11 @@ You learn extra spells at certain levels, as shown in the Legacy Spells chart be
 **Legacy Spells**
 Sorcerer Level|Spell
 --------------|-----
-1st|[find familiar](/Magic/Spells/find-familiar.md)
-3rd|[silence](/Magic/Spells/silence.md)
-5th|[Leomund’s tiny hut](/Magic/Spells/leomunds-tiny-hut.md)
-7th|[detect curses](/Magic/Spells/detect-curses.md)
-9th|[Rary’s telepathic bond](/Magic/Spells/rarys-telepathic-bond.md)
+1st|[find familiar](../../Magic/Spells/find-familiar.md)
+3rd|[silence](../../Magic/Spells/silence.md)
+5th|[Leomund’s tiny hut](../../Magic/Spells/leomunds-tiny-hut.md)
+7th|[detect curses](../../Magic/Spells/detect-curses.md)
+9th|[Rary’s telepathic bond](../../Magic/Spells/rarys-telepathic-bond.md)
 
 ## Magical Knack
 Beginning at 6th level, whenever you make an Intelligence (Arcana) check, you can add your Charisma modifier to the roll. If you make the check intentionally (such as to examine something), you can expend 1 sorcery point to give yourself advantage on the roll.

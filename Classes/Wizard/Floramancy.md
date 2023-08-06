@@ -31,12 +31,12 @@ After you have used the regeneration part of this ability, you cannot use it aga
 # Floramancy Spells
 
 ## Cantrips
-* [preserve plant](/Magic/Spells/preserve-plant.md)
-* [whimsybloom](/Magic/Spells/whimsybloom.md)
+* [preserve plant](../../Magic/Spells/preserve-plant.md)
+* [whimsybloom](../../Magic/Spells/whimsybloom.md)
 
 ## 3rd-level
-* [conjure plants](/Magic/Spells/conjure-plants.md)
+* [conjure plants](../../Magic/Spells/conjure-plants.md)
 
 ## 5th-level
-* [sunglow](/Magic/Spells/sunglow.md)
+* [sunglow](../../Magic/Spells/sunglow.md)
 

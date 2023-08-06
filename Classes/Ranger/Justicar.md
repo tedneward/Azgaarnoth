@@ -8,7 +8,7 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 **Justicar Spells**
 You gain these spells at the ranger levels listed:
-* 3rd level: [cause fear](/Magic/Spells/cause-fear.md)
+* 3rd level: [cause fear](../../Magic/Spells/cause-fear.md)
 * 5th level: [detect thoughts]()
 * 9th level: [clarity of mind]()
 * 11th level: [locate creature]() 

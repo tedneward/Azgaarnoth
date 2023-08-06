@@ -17,11 +17,11 @@ Air genasi’s skin tones include many shades of blue, along with the full range
 
 **Lightning Resistance.** You have resistance to lightning damage.
 
-**Mingle with the Wind.** You know the [Shocking Grasp](/Magic/Spells/shocking-grasp.md) cantrip. 
+**Mingle with the Wind.** You know the [Shocking Grasp](../../Magic/Spells/shocking-grasp.md) cantrip. 
 
-Starting at 3rd level, you can cast the [Feather Fall](/Magic/Spells/feather-fall.md) spell with this trait, without requiring a material component. 
+Starting at 3rd level, you can cast the [Feather Fall](../../Magic/Spells/feather-fall.md) spell with this trait, without requiring a material component. 
 
-Starting at 5th level, you can also cast the [Levitate](/Magic/Spells/levitate.md) spell with this trait, without requiring a material component. 
+Starting at 5th level, you can also cast the [Levitate](../../Magic/Spells/levitate.md) spell with this trait, without requiring a material component. 
 
 Once you cast Feather Fall or Levitate with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level. 
 

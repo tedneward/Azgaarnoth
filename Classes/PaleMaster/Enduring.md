@@ -19,7 +19,7 @@ Starting at 6th level, when you hit a creature with a melee spell attack from yo
 You can use this feature once per long rest at 6th level. You gain an additional use at 12th level and again at 17th level. Expended uses are regained when you finish a long rest.
 
 ## Invigorate the Dead
-Starting at 6th level, you can cast the [animate dead](/Magic/Spells/animate-dead.md) spell using one of your spell slots, but it does not count towards your number of prepared spells. When you cast animate dead, each skeleton or zombie animated has its maximum number of hit points. Additionally, each undead created with this spell adds your spellcasting modifier to its attack and damage rolls.
+Starting at 6th level, you can cast the [animate dead](../../Magic/Spells/animate-dead.md) spell using one of your spell slots, but it does not count towards your number of prepared spells. When you cast animate dead, each skeleton or zombie animated has its maximum number of hit points. Additionally, each undead created with this spell adds your spellcasting modifier to its attack and damage rolls.
 
 ## Undead Cohort: Flameskull
 At 10th level, you are able to taint the remains of a recently slain creature. You choose the corpse of a creature that died in the last 24 hour and instill the foul mimicry of life, animating its head as a flameskull under your control. 

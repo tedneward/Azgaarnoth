@@ -19,4 +19,4 @@ These effects last for 24 hours or until you use this property again.
 
 **Shrieking Bolt (Complex Property).** As an action, you scribe this rune in the air between you and a creature you can see while you expend a spell slot. The creature must make a Strength saving throw (DC 12 + the spell slot’s level). On a failure, it takes 2d8 bludgeoning damage plus 1d8 bludgeoning damage per level of the expended spell slot, and is pushed in a straight line directly away from you for 10 feet per level of the expended spell slot. On a successful saving throw, the creature takes half as much damage and is not pushed away from you.
 
-**Wind Walker (Complex Property).** While you are attuned to this rune, you can cast [levitate](/Magic/Spells/levitate.md) as a bonus action. You regain this ability after a short or long rest.
+**Wind Walker (Complex Property).** While you are attuned to this rune, you can cast [levitate](../Spells/levitate.md) as a bonus action. You regain this ability after a short or long rest.

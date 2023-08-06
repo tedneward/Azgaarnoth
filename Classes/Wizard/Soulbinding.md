@@ -29,11 +29,11 @@ Starting at 14th level, if you would die due to being reduced to zero hit points
 # Soulbinder Spells
 
 ## Cantrips
-* [duplicate soul object](/Magic/Spells/duplicate-soul-object.md)
+* [duplicate soul object](../../Magic/Spells/duplicate-soul-object.md)
 
 ## 1st-level
-* [soulshare](/Magic/Spells/soulshare.md)
+* [soulshare](../../Magic/Spells/soulshare.md)
 
 ## 3rd-level
-* [object sight](/Magic/Spells/object-sight.md)
-* [soulburn](/Magic/Spells/soulburn.md)
+* [object sight](../../Magic/Spells/object-sight.md)
+* [soulburn](../../Magic/Spells/soulburn.md)

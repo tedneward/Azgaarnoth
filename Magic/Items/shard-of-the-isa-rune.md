@@ -19,4 +19,4 @@ In addition, you can expend a spell slot while using this property to grant the 
 
 These effects last for 24 hours or until you use this property again.
 
-**Winter’s Howl (Complex Property).** While you are attuned to this rune, you can cast [sleet storm](/Magic/Spells/sleet-storm.md) as an action. You regain this ability after a short or long rest.
+**Winter’s Howl (Complex Property).** While you are attuned to this rune, you can cast [sleet storm](../Spells/sleet-storm.md) as an action. You regain this ability after a short or long rest.

@@ -18,11 +18,11 @@ Each paladin who swears to the Oath of Shadows decides for themselves what is tr
 
 Paladin Level|Spells
 -------------|------
-3rd|[blackout](/Magic/Spells/blackout.md), Disguise Self
+3rd|[blackout](../../Magic/Spells/blackout.md), Disguise Self
 5th|Darkness, Misty Step
 9th|Fear, Nondetection
 13th|Greater Invisibility, Phantasmal Killer
-17th|[chilling darkness](/Magic/Spells/chilling-darkness.md), Seeming
+17th|[chilling darkness](../../Magic/Spells/chilling-darkness.md), Seeming
 
 ## Channel Divinity
 *3rd-level Oath of Shadows feature*
