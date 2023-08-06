@@ -1,5 +1,5 @@
 # Kali Kaal
-*undead (human) NE Wizard (Necromancy) 20/Pale Master (Elegy of Decay) 20/Sorceror (Arcane Legacy) 20, NE*
+*undead (human) NE Wizard (Necromancy) 20/Pale Master (Elegy of Decay) 20/Sorceror (Arcane Legacy) 20*
 
 ## History
 Little is known of the ancient lich of millennia; even any sure knowledge of its gender is lost. 
