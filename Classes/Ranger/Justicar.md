@@ -1,14 +1,14 @@
 # Ranger Conclave: Justicar
 You are a master of observation, intuition, and interrogation, equally at home hunting your prey down the streets of a crowded metropolis or across the savage wilderness. Rangers of your Conclave specialize in solving intricate mysteries and outwitting the most intelligent and devious opponents. Sometimes known as Thief Takers, Stalkers, or Sleuths, they bring justice to enemies with a combination of preternatural senses and perfect deductive logic. While others with such skills might confine their activities to one wilderness region or city-state, you pursue foes across any border or frontier.
 
-The most famous of the Justicars are the Marshals of [Yithi](/Nations/Yithi.md). The success of that group has led several other nations to seek to follow in their example, with varying results.
+The most famous of the Justicars are the Marshals of [Yithi](../../Nations/Yithi.md). The success of that group has led several other nations to seek to follow in their example, with varying results.
 
 ## Justicar Magic
 Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Justicar Spells table. The spell counts as a ranger spell for you, but it doesn’t count against the number of ranger spells you know.
 
 **Justicar Spells**
 You gain these spells at the ranger levels listed:
-* 3rd level: [cause fear](/Magic/Spells/cause-fear.md)
+* 3rd level: [cause fear](../../Magic/Spells/cause-fear.md)
 * 5th level: [detect thoughts]()
 * 9th level: [clarity of mind]()
 * 11th level: [locate creature]() 

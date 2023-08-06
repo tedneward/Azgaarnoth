@@ -12,6 +12,7 @@ herbalism kit.
 You also gain a special mask, which you often wear when using the features of this subclass. You determine its appearance, or generate it randomly by rolling on the Merciful Mask table. 
 
 **Merciful Mask**
+
 d6 Mask|Appearance
 1 |Raven
 2 |Blank and white

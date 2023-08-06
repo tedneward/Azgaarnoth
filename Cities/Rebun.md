@@ -1,4 +1,4 @@
-# Rebun ([Zabalasa](/Nations/Zabalasa.md))
+# Rebun ([Zabalasa](../Nations/Zabalasa.md))
 **Population:** 
 
 **Features:** 

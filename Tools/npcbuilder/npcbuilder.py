@@ -221,6 +221,13 @@ def loadraces():
 
     discover(REPOROOT + 'Races', loadrace)
 
+# We expect class modules to contain the following top-level symbols:
+# name : string
+# level0(npc) : function
+#
+# We expect subclass modules to contain the following top-level symbols:
+# name : string
+# levelX(npc) : function (where X is the subclass steps)
 def loadclasses():
     classes = os.listdir(REPOROOT + 'Classes')
     for c in classes:

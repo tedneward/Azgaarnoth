@@ -1,4 +1,4 @@
-# Danella [Teskerwill](/Organizations/Houses/Teskerwill.md)
+# Danella [Teskerwill](../Organizations/Houses/Teskerwill.md)
 *Human female Commoner*
 
 ## Description

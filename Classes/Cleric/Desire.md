@@ -2,12 +2,13 @@
 Gods and Goddesses of the Desire Domain take many forms, but all wield power over the feeling of raw desire, whether it be desire for money, food, fame, love, drugs, or even darker delights. Some deities of this domain are known as Gods and Goddesses of lust or beauty, such as Aphrodite or Freyja. Others are known as deities of wine and hedonism, like Olidammara (Greyhawk) or Dionysus. Some are respected lords of commerce, like Waukeen (Faerun), and others reviled masters of greed and thievery, like The Keeper (Eberron}.
 
 **DESIRE DOMAIN SPELLS**
+
 Cleric Level|Spells
 ------------|------
 1st|Charm Person, Command
 3rd|Enthrall, Locate Object
 5th|Excite Emotions (new), Vampiric Touch
-7th|[charm monster](/Magic/Spells/charm-monster.md), Compulsion
+7th|[charm monster](../../Magic/Spells/charm-monster.md), Compulsion
 9th|Dominate Person, geas
 
 ## Honeyed Words

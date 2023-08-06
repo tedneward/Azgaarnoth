@@ -3,7 +3,7 @@ The School of Abjuration emphasizes magic that blocks, banishes, or protects. De
 
 Called abjurers, members of this school are sought when baleful spirits require exorcism, when important locations must be guarded against magical spying, and when portals to other planes of existence must be closed.
 
-Abjurers are found fairly equally among all the [Mage Schools](/Organizations/MageSchools/MageSchools.md), but more of them gather within the halls of the [High Tower](/Organizations/MageSchools/HighTower.md) than any other.
+Abjurers are found fairly equally among all the [Mage Schools](../../Organizations/MageSchools/index.md), but more of them gather within the halls of the [High Tower](../../Organizations/MageSchools/HighTower.md) than any other.
 
 ## Abjuration Savant
 Beginning when you select this school at 2nd level, the gold and time you must spend to copy a abjuration spell into your spellbook is halved.

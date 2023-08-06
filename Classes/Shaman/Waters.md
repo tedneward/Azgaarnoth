@@ -14,14 +14,14 @@ Shamans who speak for waters embody the depth and mystery of the seas. They valu
 **Speaker of Waters Calling Spells**
 Shaman Level | Calling Spells
 ------------ | --------------
-1st | [create or destroy water](/Magic/Spells/create-or-destroy-water.md), [ice knife](/Magic/Spells/ice-knife.md)
-3rd | [calm emotions](/Magic/Spells/calm-emotions.md), [zone of truth](/Magic/Spells/zone-of-truth.md)
-5th | [counterspell](/Magic/Spells/counterspell.md), [tidal wave](/Magic/Spells/tidal-wave.md)
-7th | [control water](/Magic/Spells/control-water.md), [locate creature](/Magic/Spells/locate-creature.md)
-9th | [dominate person](/Magic/Spells/dominate-person.md), [maelstrom](/Magic/Spells/maelstrom.md)
+1st | [create or destroy water](../../Magic/Spells/create-or-destroy-water.md), [ice knife](../../Magic/Spells/ice-knife.md)
+3rd | [calm emotions](../../Magic/Spells/calm-emotions.md), [zone of truth](../../Magic/Spells/zone-of-truth.md)
+5th | [counterspell](../../Magic/Spells/counterspell.md), [tidal wave](../../Magic/Spells/tidal-wave.md)
+7th | [control water](../../Magic/Spells/control-water.md), [locate creature](../../Magic/Spells/locate-creature.md)
+9th | [dominate person](../../Magic/Spells/dominate-person.md), [maelstrom](../../Magic/Spells/maelstrom.md)
 
 ## Blessings of Waters
-When you choose this calling at 1st level, you gain the [acid splash](/Magic/Spells/acid-splash.md), [frostbite](/Magic/Spells/frostbite.md), and [shape water](/Magic/Spells/shape-water.md) cantrips and learn the Aquan dialect of the Primordial language. You also become proficient in the Investigation skill.
+When you choose this calling at 1st level, you gain the [acid splash](../../Magic/Spells/acid-splash.md), [frostbite](../../Magic/Spells/frostbite.md), and [shape water](../../Magic/Spells/shape-water.md) cantrips and learn the Aquan dialect of the Primordial language. You also become proficient in the Investigation skill.
 
 ## Waterspeaker
 Also at 1st level, you gain the ability to speak with water. As an action, you can call to the spirit of a body of water that you touch, allowing it to communicate with you in Aquan and answer the questions that you pose. You can ask the water up to three questions before the effect ends. Water cannot see creatures, objects, or events on dry land, but it can hear normally. A body of water is completely aware of any creatures of objects that have moved through it or are currently within it, and can provide complete descriptions of them, as well as any events that have occurred beneath its surface. If a creature has drunk from the body of water within the past 10 days, it can answer one question about what that creature knows or intends. Answers are often cryptic or repetitive, but the water usually answers honestly.

@@ -18,9 +18,9 @@ At 6th level, you gain a superior talent for teleportation. When you use a psion
 ## Effortless Journey
 Starting at 14th level, your mind can mystically move your body. Once on each of your turns, you can forfeit up to 30 feet of your movement to teleport the distance you forfeited. You must teleport to an unoccupied space you can see.
 
-# Nomad Psionic Disciplines
-* [nomadic arrow](/Magic/Disciplines/nomadic-arrow.md)
-* [nomadic chameleon](/Magic/Disciplines/nomadic-chameleon.md)
-* [nomadic mind](/Magic/Disciplines/nomadic-mind.md)
-* [nomadic step](/Magic/Disciplines/nomadic-step.md)
-* [third eye](/Magic/Disciplines/third-eye.md)
+## Nomad Psionic Disciplines
+* [nomadic arrow](../../Magic/Disciplines/nomadic-arrow.md)
+* [nomadic chameleon](../../Magic/Disciplines/nomadic-chameleon.md)
+* [nomadic mind](../../Magic/Disciplines/nomadic-mind.md)
+* [nomadic step](../../Magic/Disciplines/nomadic-step.md)
+* [third eye](../../Magic/Disciplines/third-eye.md)

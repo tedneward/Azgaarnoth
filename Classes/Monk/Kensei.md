@@ -11,6 +11,7 @@ You gain the following benefits:
 
 ## One with the Blade
 At 6th level, you extend your ki into your kensei weapons, granting you the following benefits.
+
 * **Magic Kensei Weapons**. Your attacks with your kensei weapons count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. 
 * **Precise Strike**. When you hit a target with a kensei weapon, you can spend 1 ki point to cause the weapon to deal extra damage to the target equal to your Martial Arts die. You can use this feature only once on each of your turns.
 
@@ -21,5 +22,3 @@ This bonus lasts for 1 minute or until you use this feature again.
 
 ## Unerring Accuracy
 At 17th level, your mastery of weapons grants you extraordinary accuracy. If you make an attack roll with a monk weapon and miss, you can reroll it. You can use this feature only once on each of your turns.
-
-*Source: [Unearthed Arcana: Revised Subclasses](https://dnd.wizards.com/articles/unearthed-arcana/revised-subclasses)*

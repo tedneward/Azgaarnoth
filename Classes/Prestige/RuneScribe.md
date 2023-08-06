@@ -1,10 +1,11 @@
 # Prestige Class: Rune Scribe
-A rune scribe masters the secrets of [runes](/Magic/Runes.md)—ancient sigils that embody the fundamental magic of creation. Rune magic is exceedingly rare. Some of its secrets have been lost, and what lore remains is jealously guarded. Few rune scribes share their lore with others. Indeed, most rune scribes take on new students only if doing so allows them to gain access to a forgotten or missing rune.
+A rune scribe masters the secrets of [runes](../../Magic/Runes.md)—ancient sigils that embody the fundamental magic of creation. Rune magic is exceedingly rare. Some of its secrets have been lost, and what lore remains is jealously guarded. Few rune scribes share their lore with others. Indeed, most rune scribes take on new students only if doing so allows them to gain access to a forgotten or missing rune.
 
 The rune scribe prestige class uses the rules for rune magic presented at the end of this article.
 
 ## Prerequisites
 In order to advance as a rune scribe, you must meet the following prerequisites (in addition to the multiclassing prerequisites for your existing class):
+
 * **Dexterity 13.** Rune scribes need agile fingers to master the intricate patterns of a rune.
 * **Intelligence 13.** Rune lore requires intense study and knowledge.
 * **Proficiency in the Arcana skill.** Rune mastery requires an understanding of arcane lore.
@@ -43,7 +44,7 @@ The rune scribe prestige class does not grant any special equipment.
 
 You learn the basics of scribing runes, and are able to activate a master rune’s full range of properties when you are properly attuned to it.
 
-The “Rune Magic” section below contains information on master runes and descriptions of  runes and their properties.
+The “Rune Magic” section below contains information on master runes and descriptions of runes and their properties.
 
 The first rune you master is the rune you found and presented to your tutor to qualify for this prestige class. Your entrance to the class includes the process of mastering that rune’s secrets.
 

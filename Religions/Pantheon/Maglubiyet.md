@@ -5,7 +5,7 @@ Maglubiyet's divine realm is Clangor, located in Avalas, the first layer of the 
 
 From his throne of flaming iron, Maglubiyet commands the souls of goblins, hobgoblins, and worgs to wage eternal war against the orcish petitioners of [Gruumsh](Gruumsh.md). He also employed baatezu to bolster his armies.
 
-Maglubiyet allowed the gods Khurgorbaeyag and Nomog-Geaya to live in his realm, if only just to keep an eye on them.[20]
+Maglubiyet allowed the gods Khurgorbaeyag and Nomog-Geaya to live in his realm, if only just to keep an eye on them.
 
 ## Worshippers
 The priests and shamans of Maglubiyet were his mouthpieces on the Material Plane. They fulfilled his demands for blood sacrifices by dispatching victims with an axe. They believed that these sacrifices strengthened Maglubiyet. His clergy was almost always drawn from the goblin and hobgoblin races. The tasloi also worshiped an aspect of Maglubiyet.

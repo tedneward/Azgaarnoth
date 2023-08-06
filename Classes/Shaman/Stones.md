@@ -15,11 +15,11 @@ Shamans who speak for stones embody the strength and vitality of the earth. They
 **Speaker of Stones Calling Spells**
 Shaman Level | Calling Spells
 ------------ | --------------
-1st | [earth tremor](/Magic/Spells/earth-tremor.md), [sanctuary](/Magic/Spells/sanctuary.md)
-3rd | [earthbind](/Magic/Spells/earthbind.md), [lesser restoration](/Magic/Spells/lesser-restoration.md)
-5th | [erupting earth](/Magic/Spells/erupting-earth.md), [meld into stone](/Magic/Spells/meld-into-stone.md)
-7th | [grasping vine](/Magic/Spells/grasping-vine.md), [stone shape](/Magic/Spells/stone-shape.md)
-9th | [greater restoration](/Magic/Spells/greater-restoration.md), [transmute rock](/Magic/Spells/transmute-rock.md)
+1st | [earth tremor](../../Magic/Spells/earth-tremor.md), [sanctuary](../../Magic/Spells/sanctuary.md)
+3rd | [earthbind](../../Magic/Spells/earthbind.md), [lesser restoration](../../Magic/Spells/lesser-restoration.md)
+5th | [erupting earth](../../Magic/Spells/erupting-earth.md), [meld into stone](../../Magic/Spells/meld-into-stone.md)
+7th | [grasping vine](../../Magic/Spells/grasping-vine.md), [stone shape](../../Magic/Spells/stone-shape.md)
+9th | [greater restoration](../../Magic/Spells/greater-restoration.md), [transmute rock](../../Magic/Spells/transmute-rock.md)
 
 ## Blessings of Stone
 When you choose this calling at 1st level, you gain the magic stoneEE, mold earthEE, and thorn whip cantrips and learn the Terran dialect of the Primordial language. You also become proficient in the Athletics skill.

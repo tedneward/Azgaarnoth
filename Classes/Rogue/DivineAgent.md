@@ -54,6 +54,6 @@ At 9th level, you gain the Lucky feat. If you already have the Lucky feat, you i
 Starting at 13th level, once on each of your turns when you hit a creature with a weapon attack you can cause the attack to deal an extra 2d6 radiant damage to the target.
 
 ## Vessel of the Many Forms
-At 17th level, your deity has bestowed the power upon you to take many different faces and forms to assist you in doing their bidding. You can cast [alter self](/Magic/Spells/alter-self.md) at will, without expending a spell slot.
+At 17th level, your deity has bestowed the power upon you to take many different faces and forms to assist you in doing their bidding. You can cast [alter self](../../Magic/Spells/alter-self.md) at will, without expending a spell slot.
 
 For you, this spell does not require concentration and lasts until it is dispelled.

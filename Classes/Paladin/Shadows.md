@@ -1,7 +1,7 @@
 # Sacred Oath: Oath of Shadows
 The Oath of Shadows is a secretive code, sworn by those paladins who realize that they cannot do what they must by the light of day. They take to the night and shadows, cloaking themselves in power drawn from the shadowfell turning the darkness against their foes. Some are selfish blackguards seeking personal wealth, while others are vigilante heroes seeking to root out evil that is normally shielded by the law.
 
-It is rumored that the [Order of the Copper Dragon](/Organizations/DraconicOrder/Copper.md) has a branch buried deep within it that are Shadow Paladins sworn to this Oath, but the Coppers vehemently deny any such rumor. It is believed almost beyond a doubt that the [Dread Emperor](/People/DreadEmperor.md) has those within his service sworn to the Shadows, and some posit that his personal bodyguards, the Dread Guard, are all Shadow Paladins.
+It is rumored that the [Order of the Copper Dragon](../../Organizations/DraconicOrder/Copper.md) has a branch buried deep within it that are Shadow Paladins sworn to this Oath, but the Coppers vehemently deny any such rumor. It is believed almost beyond a doubt that the [Dread Emperor](/People/DreadEmperor.md) has those within his service sworn to the Shadows, and some posit that his personal bodyguards, the Dread Guard, are all Shadow Paladins.
 
 ## Tenets of Shadows
 Each paladin who swears to the Oath of Shadows decides for themselves what is truly right and wrong, and though they range from good to evil they are rarely lawful. Still they share certain tenets about how to enact their morality on the world.
@@ -18,11 +18,11 @@ Each paladin who swears to the Oath of Shadows decides for themselves what is tr
 
 Paladin Level|Spells
 -------------|------
-3rd|[blackout](/Magic/Spells/blackout.md), Disguise Self
+3rd|[blackout](../../Magic/Spells/blackout.md), Disguise Self
 5th|Darkness, Misty Step
 9th|Fear, Nondetection
 13th|Greater Invisibility, Phantasmal Killer
-17th|[chilling darkness](/Magic/Spells/chilling-darkness.md), Seeming
+17th|[chilling darkness](../../Magic/Spells/chilling-darkness.md), Seeming
 
 ## Channel Divinity
 *3rd-level Oath of Shadows feature*

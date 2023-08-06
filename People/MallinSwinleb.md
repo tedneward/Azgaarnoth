@@ -1,7 +1,7 @@
 # Lord Mallin Swinleb 
 *male half-elf Fighter (Psi Knight) 10/Rogue (Soul Knife) 7, CG*
 
-**Title:** Lord, [Order of the Copper Dragon](/Organizations/DraconicOrder/Copper.md)
+**Title:** Lord, [Order of the Copper Dragon](../Organizations/DraconicOrder/Copper.md)
 
 **Residence:** [Stagraven](/Cities/Stagraven.md)
 

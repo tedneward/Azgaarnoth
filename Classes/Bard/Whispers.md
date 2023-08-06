@@ -3,7 +3,7 @@ Most folk are happy to welcome a bard into their midst. Bards of the College of 
 
 Many other bards hate the College of Whispers, viewing it as a parasite that uses the bards’ reputation to acquire wealth and power. For this reason, these bards rarely reveal their true nature unless they must. They typically claim to follow some other college, or keep their true nature secret in order to better infiltrate and exploit royal courts and other settings of power.
 
-Rumors suggest that the College of Whispers is run by the [Copper Order](/Organizations/DraconicOrder/Copper.md), although it is also said that they are operated by the [Dread Emperor](/People/DreadEmperor.md), or any of the other nations of Azgaarnoth. It is entirely possible (and likely) that, like the [College of Valor](Valor.md), there are multiple colleges of Whispers within Azgaarnoth.
+Rumors suggest that the College of Whispers is run by the [Copper Order](../../Organizations/MilitantOrders/DraconicOrder/Copper.md), although it is also said that they are operated by the [Dread Emperor](../../People/DreadEmperor.md), or any of the other nations of Azgaarnoth. It is entirely possible (and likely) that, like the [College of Valor](Valor.md), there are multiple colleges of Whispers within Azgaarnoth.
 
 ## Psychic Blades
 When you join the College of Whispers at 3rd level, you gain the ability to make your weapon attacks magically toxic to a creature's mind.
@@ -44,5 +44,3 @@ While you gain no knowledge of this secret, the target is convinced you know it.
 When the effect ends, the creature has no understanding of why it held you in such fear.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
-
-*Source: [Unearthed Arcana: Bard Colleges](https://dnd.wizards.com/articles/unearthed-arcana/bard-colleges)*

@@ -52,8 +52,11 @@ You can only remember a number of blood scents equal to twice your Wisdom modifi
 *10th-level Blood Drinker feature*
 
 Your body takes on a demonic change as your blood power grows stronger with each consumption. Choose one of the following benefits to gain permanently:
+
 * **Claws.** You grow huge knife-like talons on your fingers and toes. These claws are retractable. You can use a bonus action on your turn to hide or reveal them. While they are revealed you gain a base climbing speed of 30 feet that you must have at least one free hand to use, and your unarmed strikes are a special melee weapon that you are proficient with which deals slashing damage equal to 1d10 + your Strength modifier.
+
 * **Fangs.** Your teeth lengthen into huge ghoulish fangs that struggle to fit into your closed mouth. You can survive on meals made of rotting meat, blood or old bones and suffer no ill effects, including diseases or poisons. You have advantage on Charisma (Intimidation) ability checks made against creatures that have seen your teeth, and your bite is a natural weapon, which you can use to make unarmed strikes. You have proficiency with this bite, and it deals piercing damage equal to ldlO + your Strength modifier.
+
 * **Wings.** You grow a pair of gigantic, leathery, batlike wings from your back. You have a base flying speed of 30 feet.
 
 ## Gore Strike

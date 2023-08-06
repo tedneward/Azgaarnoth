@@ -17,25 +17,25 @@ Whatever the goal, it always reflects the patron’s interests, ranging from sma
 
     * Deathlock Warlock
 
-        * Archfey patron: [blink](/Magic/Spells/blink.md), [faerie fire](/Magic/Spells/faerie-fire.md), [hunger of Hadar](/Magic/Spells/hunger-of-hadar.md), [hypnotic pattern](/Magic/Spells/hypnotic-pattern.md), [phantasmal force](/Magic/Spells/phantasmal-force.md), [sleep](/Magic/Spells/sleep.md)
+        * Archfey patron: [blink](../Magic/Spells/blink.md), [faerie fire](../Magic/Spells/faerie-fire.md), [hunger of Hadar](../Magic/Spells/hunger-of-hadar.md), [hypnotic pattern](../Magic/Spells/hypnotic-pattern.md), [phantasmal force](../Magic/Spells/phantasmal-force.md), [sleep](../Magic/Spells/sleep.md)
 
-        * Fiend patron: [blindness/deafness](/Magic/Spells/blindness-deafness.md), [burning hands](/Magic/Spells/burning-hands.md), [command](/Magic/Spells/command.md), [fireball](/Magic/Spells/fireball.md), [hellish rebuke](/Magic/Spells/hellish-rebuke.md), [scorching ray](/Magic/Spells/scorching-ray.md)
+        * Fiend patron: [blindness/deafness](../Magic/Spells/blindness-deafness.md), [burning hands](../Magic/Spells/burning-hands.md), [command](../Magic/Spells/command.md), [fireball](../Magic/Spells/fireball.md), [hellish rebuke](../Magic/Spells/hellish-rebuke.md), [scorching ray](../Magic/Spells/scorching-ray.md)
 
-        * Great Old One patron: [armor of Agathys](/Magic/Spells/armor-of-agathys.md), [detect thoughts](/Magic/Spells/detect-thoughts.md), [dissonant whispers](/Magic/Spells/dissonant-whispers.md), [hunger of Hadar](/Magic/Spells/hunger-of-hadar.md), [Tasha’s hideous laughter](/Magic/Spells/tashas-hideous-laughter.md), [phantasmal force](/Magic/Spells/phantasmal-force.md)
+        * Great Old One patron: [armor of Agathys](../Magic/Spells/armor-of-agathys.md), [detect thoughts](../Magic/Spells/detect-thoughts.md), [dissonant whispers](../Magic/Spells/dissonant-whispers.md), [hunger of Hadar](../Magic/Spells/hunger-of-hadar.md), [Tasha’s hideous laughter](../Magic/Spells/tashas-hideous-laughter.md), [phantasmal force](../Magic/Spells/phantasmal-force.md)
 
     * Deathlock Mastermind
 
-        * Archfey patron: [blink](/Magic/Spells/blink.md), [dominate beast](/Magic/Spells/dominate-beast.md), [dominate person](/Magic/Spells/dominate-person.md), [faerie fire](/Magic/Spells/faerie-fire.md), [greater invisibility](/Magic/Spells/greater-invisibility.md), [hunger of Hadar](/Magic/Spells/hunger-of-hadar.md), [hypnotic pattern](/Magic/Spells/hypnotic-pattern.md), [phantasmal force](/Magic/Spells/phantasmal-force.md), [seeming](/Magic/Spells/seeming.md), [sleep](/Magic/Spells/sleep.md)
+        * Archfey patron: [blink](../Magic/Spells/blink.md), [dominate beast](../Magic/Spells/dominate-beast.md), [dominate person](../Magic/Spells/dominate-person.md), [faerie fire](../Magic/Spells/faerie-fire.md), [greater invisibility](../Magic/Spells/greater-invisibility.md), [hunger of Hadar](../Magic/Spells/hunger-of-hadar.md), [hypnotic pattern](../Magic/Spells/hypnotic-pattern.md), [phantasmal force](../Magic/Spells/phantasmal-force.md), [seeming](../Magic/Spells/seeming.md), [sleep](../Magic/Spells/sleep.md)
 
-        * Fiend patron: [blindness/deafness](/Magic/Spells/blindness-deafness.md), [burning hands](/Magic/Spells/burning-hands.md), [command](/Magic/Spells/command.md), [fire shield](/Magic/Spells/fire-shield.md), [fireball](/Magic/Spells/fireball.md), [flame strike](/Magic/Spells/flame-strike.md), [hellish rebuke](/Magic/Spells/hellish-rebuke.md), [scorching ray](/Magic/Spells/scorching-ray.md), [stinking cloud](/Magic/Spells/stinking-cloud.md), [wall of fire](/Magic/Spells/wall-of-fire.md)
+        * Fiend patron: [blindness/deafness](../Magic/Spells/blindness-deafness.md), [burning hands](../Magic/Spells/burning-hands.md), [command](../Magic/Spells/command.md), [fire shield](../Magic/Spells/fire-shield.md), [fireball](../Magic/Spells/fireball.md), [flame strike](../Magic/Spells/flame-strike.md), [hellish rebuke](../Magic/Spells/hellish-rebuke.md), [scorching ray](../Magic/Spells/scorching-ray.md), [stinking cloud](../Magic/Spells/stinking-cloud.md), [wall of fire](../Magic/Spells/wall-of-fire.md)
 
-        * Great Old One patron: [clairvoyance](/Magic/Spells/clairvoyance.md), [detect thoughts](/Magic/Spells/detect-thoughts.md), [dissonant whispers](/Magic/Spells/dissonant-whispers.md), [dominate person](/Magic/Spells/dominate-person.md), [Evard’s black tentacles](/Magic/Spells/evards-black-tentacles.md), [hunger of Hadar](/Magic/Spells/hunger-of-hadar.md), [phantasmal force](/Magic/Spells/phantasmal-force.md), [sending](/Magic/Spells/sending.md), [Tasha’s hideous laughter](/Magic/Spells/tashas-hideous-laughter.md), [telekinesis](/Magic/Spells/telekinesis.md)
+        * Great Old One patron: [clairvoyance](../Magic/Spells/clairvoyance.md), [detect thoughts](../Magic/Spells/detect-thoughts.md), [dissonant whispers](../Magic/Spells/dissonant-whispers.md), [dominate person](../Magic/Spells/dominate-person.md), [Evard’s black tentacles](../Magic/Spells/evards-black-tentacles.md), [hunger of Hadar](../Magic/Spells/hunger-of-hadar.md), [phantasmal force](../Magic/Spells/phantasmal-force.md), [sending](../Magic/Spells/sending.md), [Tasha’s hideous laughter](../Magic/Spells/tashas-hideous-laughter.md), [telekinesis](../Magic/Spells/telekinesis.md)
 
 
 ## Deathlock Warlock
 *Medium undead, neutral evil*
 
-**Armor Class** 12 (15 with [mage armor](/Magic/Spells/mage-armor.md))
+**Armor Class** 12 (15 with [mage armor](../Magic/Spells/mage-armor.md))
 
 **Hit Points** 36 (8d8)
 
@@ -63,13 +63,13 @@ Whatever the goal, it always reflects the patron’s interests, ranging from sma
 
 **Innate Spellcasting.** The deathlock’s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:
 
-* At will: [detect magic](/Magic/Spells/detect-magic.md), [disguise self](/Magic/Spells/disguise-self.md), [mage armor](/Magic/Spells/mage-armor.md)
+* At will: [detect magic](../Magic/Spells/detect-magic.md), [disguise self](../Magic/Spells/disguise-self.md), [mage armor](../Magic/Spells/mage-armor.md)
 
 **Spellcasting.** The deathlock is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 
-* Cantrips (at will): [chill touch](/Magic/Spells/chill-touch.md), [eldritch blast](/Magic/Spells/eldritch-blast.md), [mage hand](/Magic/Spells/mage-hand.md)
+* Cantrips (at will): [chill touch](../Magic/Spells/chill-touch.md), [eldritch blast](../Magic/Spells/eldritch-blast.md), [mage hand](../Magic/Spells/mage-hand.md)
 
-* 1st–3rd level (2 3rd-level slots): [arms of Hadar](/Magic/Spells/arms-of-hadar.md), [dispel magic](/Magic/Spells/dispel-magic.md), [hold person](/Magic/Spells/hold-person.md), [[hunger of Hadar](/Magic/Spells/hunger-of-hadar.md)](/Magic/Spells/hunger-of-hadar.md), [invisibility](/Magic/Spells/invisibility.md), [spider climb](/Magic/Spells/spider-climb.md)
+* 1st–3rd level (2 3rd-level slots): [arms of Hadar](../Magic/Spells/arms-of-hadar.md), [dispel magic](../Magic/Spells/dispel-magic.md), [hold person](../Magic/Spells/hold-person.md), [[hunger of Hadar](../Magic/Spells/hunger-of-hadar.md)](../Magic/Spells/hunger-of-hadar.md), [invisibility](../Magic/Spells/invisibility.md), [spider climb](../Magic/Spells/spider-climb.md)
 
 **Turn Resistance.** The deathlock has advantage on saving throws against any effect that turns undead.
 
@@ -84,7 +84,7 @@ Whatever the goal, it always reflects the patron’s interests, ranging from sma
 ## Deathlock Mastermind
 *Medium undead, neutral evil*
 
-**Armor Class** 13 (16 with [mage armor](/Magic/Spells/mage-armor.md))
+**Armor Class** 13 (16 with [mage armor](../Magic/Spells/mage-armor.md))
 
 **Hit Points** 110 (20d8 + 20)
 
@@ -112,13 +112,13 @@ Whatever the goal, it always reflects the patron’s interests, ranging from sma
 
 **Innate Spellcasting.** The deathlock’s innate spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no material components:
 
-* At will: [detect magic](/Magic/Spells/detect-magic.md), [disguise self](/Magic/Spells/disguise-self.md), [mage armor](/Magic/Spells/mage-armor.md)
+* At will: [detect magic](../Magic/Spells/detect-magic.md), [disguise self](../Magic/Spells/disguise-self.md), [mage armor](../Magic/Spells/mage-armor.md)
 
 **Spellcasting.** The deathlock is a 10th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 
-* Cantrips (at will): [chill touch](/Magic/Spells/chill-touch.md), [mage hand](/Magic/Spells/mage-hand.md), [minor illusion](/Magic/Spells/minor-illusion.md), [poison spray](/Magic/Spells/poison-spray.md)
+* Cantrips (at will): [chill touch](../Magic/Spells/chill-touch.md), [mage hand](../Magic/Spells/mage-hand.md), [minor illusion](../Magic/Spells/minor-illusion.md), [poison spray](../Magic/Spells/poison-spray.md)
 
-* 1st–5th level (2 5th-level slots): [arms of Hadar](/Magic/Spells/arms-of-hadar.md), [blight](/Magic/Spells/blight.md), [counterspell](/Magic/Spells/counterspell.md), [crown of madness](/Magic/Spells/crown-of-madness.md), [darkness](/Magic/Spells/darkness.md), [dimension door](/Magic/Spells/dimension-door.md), [dispel magic](/Magic/Spells/dispel-magic.md), [fly](/Magic/Spells/fly.md), [hold monster](/Magic/Spells/hold-monster.md), [invisibility](/Magic/Spells/invisibility.md)
+* 1st–5th level (2 5th-level slots): [arms of Hadar](../Magic/Spells/arms-of-hadar.md), [blight](../Magic/Spells/blight.md), [counterspell](../Magic/Spells/counterspell.md), [crown of madness](../Magic/Spells/crown-of-madness.md), [darkness](../Magic/Spells/darkness.md), [dimension door](../Magic/Spells/dimension-door.md), [dispel magic](../Magic/Spells/dispel-magic.md), [fly](../Magic/Spells/fly.md), [hold monster](../Magic/Spells/hold-monster.md), [invisibility](../Magic/Spells/invisibility.md)
 
 **Turn Resistance.** The deathlock has advantage on saving throws against any effect that turns undead.
 
@@ -136,7 +136,7 @@ Though deathlocks exist to serve their patrons, they retain some freedom when it
 ## Deathlock Wight
 *Medium undead, neutral evil*
 
-**Armor Class** 12 (15 with [mage armor](/Magic/Spells/mage-armor.md))
+**Armor Class** 12 (15 with [mage armor](../Magic/Spells/mage-armor.md))
 
 **Hit Points** 37 (5d8 + 15)
 
@@ -164,9 +164,9 @@ Though deathlocks exist to serve their patrons, they retain some freedom when it
 
 **Innate Spellcasting.** The wight’s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no verbal or material components:
 
-* At will: [detect magic](/Magic/Spells/detect-magic.md), [disguise self](/Magic/Spells/disguise-self.md), [mage armor](/Magic/Spells/mage-armor.md)
+* At will: [detect magic](../Magic/Spells/detect-magic.md), [disguise self](../Magic/Spells/disguise-self.md), [mage armor](../Magic/Spells/mage-armor.md)
 
-* 1/day each: [fear](/Magic/Spells/fear.md), [hold person](/Magic/Spells/hold-person.md), [misty step](/Magic/Spells/misty-step.md)
+* 1/day each: [fear](../Magic/Spells/fear.md), [hold person](../Magic/Spells/hold-person.md), [misty step](../Magic/Spells/misty-step.md)
 
 **Sunlight Sensitivity.** While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 

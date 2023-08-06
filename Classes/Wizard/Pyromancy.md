@@ -13,7 +13,7 @@ As a bonus action, you are able to exert influence on any non-magical flame that
 * You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.
 * You instantaneously extinguish the flames. 
 * You can double or halve the area of bright light and dim light cast by the flame, change its color, or both. These changes last for 1 hour.
-* You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear and animate within the flames, as you like. These shapes last for 1 hour. This ability replicates the effects of the [control flames](/Magic/Spells/control-flames.md) cantrip, but is not considered a spell.
+* You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear and animate within the flames, as you like. These shapes last for 1 hour. This ability replicates the effects of the [control flames](../../Magic/Spells/control-flames.md) cantrip, but is not considered a spell.
 
 ## Heart of Fire
 *6th-level Pyromancy feature*
@@ -33,17 +33,17 @@ Fire and flames you generate are so hot they pierce most protections. Your spell
 # Pyromancy Spells
 
 ## 1st-level
-* [pure flame](/Magic/Spells/pure-flame.md)
+* [pure flame](../../Magic/Spells/pure-flame.md)
 
 ## 4th-level
-* [fire trap](/Magic/Spells/fire-trap.md)
+* [fire trap](../../Magic/Spells/fire-trap.md)
 
 ## 5th-level
-* [curse of combustion](/Magic/Spells/curse-of-combustion.md)
+* [curse of combustion](../../Magic/Spells/curse-of-combustion.md)
 
 ## 6th-level
-* [greater fire trap](/Magic/Spells/greater-fire-trap.md)
+* [greater fire trap](../../Magic/Spells/greater-fire-trap.md)
 
 ## 9th-level
-* [pyroclastic cataclysm](/Magic/Spells/pyroclastic-cataclysm.md)
+* [pyroclastic cataclysm](../../Magic/Spells/pyroclastic-cataclysm.md)
 

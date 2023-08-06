@@ -17,6 +17,7 @@ Once you reach 5th level in this class, you can spend additional ki points to in
 The maximum number of ki points you can spend to cast a spell in this way (including its base ki point cost and any additional ki points you spend to increase its level) is determined by your monk level, as shown in the Spells and Ki Points table.
 
 **Spells and Ki Points**
+
 Monk Levels|Maximum Ki Points for a Spell
 -----------|-----------------------------
 5th-8th     |3

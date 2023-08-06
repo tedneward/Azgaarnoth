@@ -1,4 +1,4 @@
-# Bumundunar ([Tragekia](/Nations/Tragekia.md))
+# Bumundunar ([Tragekia](../Nations/Tragekia.md))
 **Population:** 
 
 **Features:** 

@@ -1,7 +1,7 @@
 # Arcane Tradition: Battle Magi
 Battlemages are the frontline warriors in magical warfare. Unlike evokers and war mages, battlemages do not provide long range tactical support or magical assault, instead they lead from the front, steel on steel with the foe, wielding their mageblades in tandem with casting magic, devastating their enemies. Whilst in the fray, battlemages rely on their protective enchantments to guard and protect them. In melee, battlemages are a power to be reckoned with; often unexpected and underestimated, though rarely twice.
 
-Battle magi are most commonly found among the [Fiery Fist](/Organizations/MageSchools/FieryFist.md) and [Crimson Sunrise](/Organizations/MageSchools/CrimsonSunrise.md) schools, but many "wilder" practitioners are also found in the world. Some teach at the Academy of the [Order of the Bronze Dragon](/Organizations/DraconicOrder/Bronze.md), and many also receive formal training in [Dradehalia](/Nations/Dradehalia.md). Additionally, many magi among the [Hordes](/Races/Hordes.md) follow this tradition quite keenly.
+Battle magi are most commonly found among the [Fiery Fist](../../Organizations/MageSchools/FieryFist.md) and [Crimson Sunrise](../../Organizations/MageSchools/CrimsonSunrise.md) schools, but many "wilder" practitioners are also found in the world. Some teach at the Academy of the [Order of the Bronze Dragon](../../Organizations/MilitantOrders//DraconicOrder/Bronze.md), and many also receive formal training in [Dradehalia](../../Nations/Dradehalia.md). Additionally, many magi among the Hordes follow this tradition quite keenly.
 
 ## Bonus Proficiencies
 When you choose this school at 2nd level, you gain proficiency with martial weapons.
@@ -21,21 +21,23 @@ Starting at 10th level, on your next turn after activating Kinetic Shield, you c
 ## Kinetic Assault
 Starting at 14th level, on your next turn after using Kinetic Shield, you can take one additional action on your turn to make an attack or cast a spell. This ability allows you to break the restrictions on casting two spells (that both require an action to cast), on the same turn. This ability cannot be used in conjunction with Action Surge or any other ability that allows the casting of multiple spells on a single turn. You regain the use of this ability after completing a long rest.
 
+---
+
 # Battle Mage Unique Spells
 
 ## 1st-level
-* [warding blade](/Magic/Spells/warding-blade.md)
+* [warding blade](../../Magic/Spells/warding-blade.md)
 
 ## 2nd-level
-* [aggressive surge](/Magic/Spells/aggressive-surge.md)
+* [aggressive surge](../../Magic/Spells/aggressive-surge.md)
 
 ## 3rd-level
-* [hungering blade](/Magic/Spells/hungering-blade.md)
+* [hungering blade](../../Magic/Spells/hungering-blade.md)
 
 ## 4th-level
-* [arcane resilience](/Magic/Spells/arcane-resilience.md)
+* [arcane resilience](../../Magic/Spells/arcane-resilience.md)
 
 ## 5th-level
-* [blessing of the elements](/Magic/Spells/blessing-of-the-elements.md)
+* [blessing of the elements](../../Magic/Spells/blessing-of-the-elements.md)
 
 *Source: Blackstaff's Tome of Wizardry*

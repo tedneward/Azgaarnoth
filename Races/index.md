@@ -27,7 +27,7 @@ Humans were brought into being by the Eldar as a swiftly-breeding and general-pu
 * [Half-Elf](Half-Elves.md)
 * [Half-Orc](Half-Orcs.md)
 
-## [Created](Created.md)
+## Created
 The third of the racial groups that the Eldar brought into being, the Created represent the Eldar's efforts to imbue their creations with more gifts and abilities than their previous creations, as a final effort to help tip the scales against the might of the Hordes. In particular, it is said that the Created were made with the aid of the Eldar's Dragon partners, and the influences definitely show.
 
 ### [Aasamari](Aasimari.md)
@@ -109,6 +109,19 @@ These are exceedingly rare, and (openly) found only in the deepest parts of [Zhi
 
 ## Underdark
 Many races inhabit the deep cavern systems that burrow throughout the continent, collectively known as the "Underdark".
+
+* [Rock Gnomes](Gnomes.md#rock-gnomes)
+* [Svirfneblin](Gnomes.md#svirfneblin-deep-gnomes)
+* [Dark Dwarves](Dwarves/Dark.md)
+* [Dark Elves](Elves/Dark.md)
+* [Dark Gnomes](Gnomes.md#dark-gnomes)
+* [Goblins](Goblin.md)
+* [Hobgoblins](Hobgoblin.md)
+* [Orcs](Orc.md)
+* [Kobolds](Kobold.md)
+* Kuo-Toa?
+* others?
+
 
 ## Undersea
 Within the last few centuries, scholars have begun to seek opportunities to explore this more deeply, and many are convinced that there is just as widespread a civilization and political system under the surface of the water as there is above it. This is collectively referred to as the "Undersea", and not much is known about it to the Abovesea.

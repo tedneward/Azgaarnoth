@@ -1,12 +1,12 @@
 # Arcane Tradition: Hedge Magic
 Wizards who wander the realms devoting their time to discovering better ways to use magic to aid their allies and defeat their foes, hedge mages are a complementary addition to any adventuring party. These wizards often join forces with others to defeat common enemies, choosing a favored enemy during their adventures to hedge their magic power against, both offensive and defensive. They do not join a formal school of magic but refine their skills with magic during their adventures.
 
-Hedge magi, by definition, do not belong to any school. In fact, most [mage schools](/Organizations/MageSchools/MageSchools.md) look down their noses at the hedge magi, considering them to be "unlettered oafs" barely worth a civil conversation. These "wilders" are often not welcome on mage school grounds, unless it is to apply to join the school or admit the School's superiority in some way. The hedge magi are often equally dismissive of their academic-leaning cousins, and see no reason to spend time shuffling around in books and dusty libraries when much more can be learned in the world of "applicative magic".
+Hedge magi, by definition, do not belong to any school. In fact, most [mage schools](../../Organizations/MageSchools/MageSchools.md) look down their noses at the hedge magi, considering them to be "unlettered oafs" barely worth a civil conversation. These "wilders" are often not welcome on mage school grounds, unless it is to apply to join the school or admit the School's superiority in some way. The hedge magi are often equally dismissive of their academic-leaning cousins, and see no reason to spend time shuffling around in books and dusty libraries when much more can be learned in the world of "applicative magic".
 
 > ### Game Notes
 > Hedge magi often share spells amongst themselves, so player hedge magi who run into other hedge magi should take time to exchange ideas, look for opportunities to exchange spells, and compare notes. Two hedge magi who share a common favored enemy will always be initially favorable to one another.
 
-Hedge magi are quite common among the [Hordes](/Races/Hordes.md), [Dradehalia](/Nations/Dradehalia.md), and [Bedia](/Nations/Bedia.md). Ironically, hedge magic has almost reached the level of an academic discipline in [Zhi](/Nations/Zhi.md).
+Hedge magi are quite common among the [Hordes](../../Races/Hordes.md), [Dradehalia](../../Nations/Dradehalia.md), and [Bedia](../../Nations/Bedia.md). Ironically, hedge magic has almost reached the level of an academic discipline in [Zhi](../../Nations/Zhi.md).
 
 ## Favored Enemy
 Beginning at 2nd level, when you choose this arcane tradition, you have gained enough knowledge about certain creatures to gain a heightened chance to affect them with your spells. Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fi ends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can choose two races of humanoid (such as gnolls and orcs) as favored enemies.
@@ -37,12 +37,12 @@ At 14th level, your ability to hedge against spell effects targeting you and you
 These spells are in wide circulation among hedge magi.
 
 ## Cantrips
-* [know direction](/Magic/Spells/know-direction.md)
+* [know direction](../../Magic/Spells/know-direction.md)
 
 ## 3rd-level
-* [improved mage armorr](/Magic/Spells/improved-mage-armor.md)
-* [misty escape](/Magic/Spells/misty-escape.md)
+* [improved mage armorr](../../Magic/Spells/improved-mage-armor.md)
+* [misty escape](../../Magic/Spells/misty-escape.md)
 
 ## 5th-level
-* [locate favored enemy](/Magic/Spells/locate-favored-enemy.md)
+* [locate favored enemy](../../Magic/Spells/locate-favored-enemy.md)
 

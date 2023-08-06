@@ -1,5 +1,5 @@
 # Arcane Tradition: School of Invention
-The School of Invention claims credit for inventing the other schools of magic—a claim other wizards find absurd. Wizards of this school push magic to its limits. They stretch the known laws of arcane power and strive to reveal important truths about the nature of the multiverse.
+The School of Invention claims credit for inventing the other schools of magic, a claim other wizards find absurd. Wizards of this school push magic to its limits. They stretch the known laws of arcane power and strive to reveal important truths about the nature of the multiverse.
 
 Adherents of this school believe that innovation is best served through experimentation. They have a reputation for acting first, thinking second. Most wizards are scholars who have mastered their craft through careful study, rigorous practice, and endless hours of repetition. These wizards would rather throw spells together and see what happens.
 
@@ -7,7 +7,7 @@ Many wizards of this tradition are gnomes, alchemists, or both, and they take pr
 
 Wizards of this tradition are regarded as savants to their faces, but wizards of other traditions often think of them as lunatics.
 
-Most wizards of this tradition belong to the [School of the Northern Wind](/Organizations/MageSchools/NorthernWind.md).
+Most wizards of this tradition belong to the [School of the Northern Wind](../../Organizations/MageSchools/NorthernWind.md).
 
 ## Tools of the Inventor
 At 2nd level, you gain proficiency with two tools of your choice.

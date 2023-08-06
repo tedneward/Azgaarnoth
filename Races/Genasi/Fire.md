@@ -13,11 +13,11 @@ Descended from efreet, the genies of the Elemental Plane of Fire, fire genasi ch
 
 **Fire Resistance.** You have resistance to fire damage.
 
-**Reach to the Blaze.** You know the [Produce Flame](/Magic/Spells/produce-flame.md) cantrip. 
+**Reach to the Blaze.** You know the [Produce Flame](../../Magic/Spells/produce-flame.md) cantrip. 
 
-Starting at 3rd level, you can cast the [Burning Hands](/Magic/Spells/burning-hands.md) spell with this trait.
+Starting at 3rd level, you can cast the [Burning Hands](../../Magic/Spells/burning-hands.md) spell with this trait.
 
-Starting at 5th level, you can also cast the [Flame Blade](/Magic/Spells/flame-blade.md) spell with this trait, without requiring a material component. 
+Starting at 5th level, you can also cast the [Flame Blade](../../Magic/Spells/flame-blade.md) spell with this trait, without requiring a material component. 
 
 Once you cast Burning Hands or Flame Blade with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 

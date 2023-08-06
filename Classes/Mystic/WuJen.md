@@ -32,12 +32,12 @@ Whenever you gain a level in this class, you can replace one of the chosen wizar
 ## Elemental Mastery
 Starting at 14th level, if you have resistance to a type of damage, you can spend 2 psi points as a reaction when you take damage of that type to ignore that damage; you gain immunity to that damage type until the end of your next turn.
 
-# WuJen Psionic Disciplines
-* [Mastery of Air](/Magic/Disciplines/mastery-of-air.md)
-* [Mastery of Fire](/Magic/Disciplines/mastery-of-fire.md)
-* [Mastery of Force](/Magic/Disciplines/mastery-of-force.md)
-* [Mastery of Ice](/Magic/Disciplines/mastery-of-ice.md)
-* [Mastery of Light and Darkness](/Magic/Disciplines/mastery-of-light-and-darkness.md)
-* [Mastery of Water](/Magic/Disciplines/mastery-of-water.md)
-* [Mastery of Weather](/Magic/Disciplines/mastery-of-weather.md)
-* [Mastery of Wood and Earth](/Magic/Disciplines/mastery-of-wood-and-earth.md)
+## WuJen Psionic Disciplines
+* [Mastery of Air](../../Magic/Disciplines/mastery-of-air.md)
+* [Mastery of Fire](../../Magic/Disciplines/mastery-of-fire.md)
+* [Mastery of Force](../../Magic/Disciplines/mastery-of-force.md)
+* [Mastery of Ice](../../Magic/Disciplines/mastery-of-ice.md)
+* [Mastery of Light and Darkness](../../Magic/Disciplines/mastery-of-light-and-darkness.md)
+* [Mastery of Water](../../Magic/Disciplines/mastery-of-water.md)
+* [Mastery of Weather](../../Magic/Disciplines/mastery-of-weather.md)
+* [Mastery of Wood and Earth](../../Magic/Disciplines/mastery-of-wood-and-earth.md)

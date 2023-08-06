@@ -4,6 +4,7 @@ Druids of the Circle of the Shepherd commune with the spirits of beasts. While t
 ## Spirit Bond
 Starting at 2nd level, you gain the ability to call forth animal spirits and use them to influence the world around you. As a bonus action, you magically summon a Medium spirit to an unoccupied space you can see within 60 feet of you. The spirit creates an aura in a 30-foot radius around it, it doesn’t occupy its space, it is immobile, and it counts as neither a creature nor an object.
 The nature of the aura depends on the type of spirit you choose to summon:
+
 * **Bear**. The bear spirit grants you and your allies its might and endurance. You and your allies who are in the aura when the spirit appears each gain temporary hit points equal to 5 + your druid level. In addition, you and your allies gain advantage on Strength checks and Strength saving throws while in the aura.
 * **Hawk**. The hawk spirit is a consummate hunter, marking your enemies with its keen sight. You and your allies gain advantage on ranged attack rolls against targets in the spirit’s aura.
 * **Wolf**. The wolf spirit lends you and your allies its precise senses, while your magic works to benefit the members of your pack. You and your allies gain advantage on all ability checks made to detect creatures in the spirit’s aura. In addition, if you cast a spell with a spell slot that restores hit points to anyone inside or outside the aura, each of your allies in the aura also regains hit points equal to your druid level.
@@ -25,4 +26,3 @@ Starting at 14th level, the bestial spirits you commune with protect you when yo
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 
-*Source: [Unearthed Arcana: Revised Class Options](https://dnd.wizards.com/articles/unearthed-arcana/revised-class-options)*

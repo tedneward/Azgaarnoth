@@ -15,14 +15,14 @@ Shamans who speak for the wind embody the restlessness and freedom of air. Const
 **Speaker of Winds Calling Spells**
 Shaman Level | Calling Spells
 ------------ | --------------
-1st | [catapult](/Magic/Spells/catapult.md), [feather fall](/Magic/Spells/feather-fall.md)
-3rd | [blur](/Magic/Spells/blur.md), [gust of wind](/Magic/Spells/gust-of-wind.md)
-5th | [fly](/Magic/Spells/fly.md), [lightning bolt](/Magic/Spells/lightning-bolt.md)
-7th | [freedom of movement](/Magic/Spells/freedom-of-movement.md), [storm sphere](/Magic/Spells/storm-sphere.md)
-9th | [control winds](/Magic/Spells/control-winds.md), [passwall](/Magic/Spells/passwall.md)
+1st | [catapult](../../Magic/Spells/catapult.md), [feather fall](../../Magic/Spells/feather-fall.md)
+3rd | [blur](../../Magic/Spells/blur.md), [gust of wind](../../Magic/Spells/gust-of-wind.md)
+5th | [fly](../../Magic/Spells/fly.md), [lightning bolt](../../Magic/Spells/lightning-bolt.md)
+7th | [freedom of movement](../../Magic/Spells/freedom-of-movement.md), [storm sphere](../../Magic/Spells/storm-sphere.md)
+9th | [control winds](../../Magic/Spells/control-winds.md), [passwall](../../Magic/Spells/passwall.md)
 
 ## Blessings of the Wind
-When you choose this calling at 1st level, you gain the [gust](/Magic/Spells/gust.md), [lashing wind](/Magic/Spells/lashing-wind.md), and [shocking grasp](/Magic/Spells/shocking-grasp.md) cantrips and learn the Auran dialect of the Primordial language. You also become proficient in the Acrobatics skill.
+When you choose this calling at 1st level, you gain the [gust](../../Magic/Spells/gust.md), [lashing wind](../../Magic/Spells/lashing-wind.md), and [shocking grasp](../../Magic/Spells/shocking-grasp.md) cantrips and learn the Auran dialect of the Primordial language. You also become proficient in the Acrobatics skill.
 
 ## Windspeaker
 Also at 1st level, you gain the ability to speak with the wind. If you are outdoors and the wind is blowing, you can use an action to call to the spirit of the wind, allowing it to communicate with you in Auran and answer questions that you pose. You can ask the wind up to three questions before the effect ends. The wind knows only what has occurred outdoors and above ground, and usually only remembers details that it has encountered over the last 5 miles and within the last hour. Answers are always brief, often as short as one word or phrase, but the wind usually answers honestly.

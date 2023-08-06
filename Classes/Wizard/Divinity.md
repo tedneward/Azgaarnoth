@@ -32,7 +32,7 @@ Your spells become laced with holy power. Fiends and Undead have disadvantage on
 You have learned to emulate certain miracles of the gods. You can perform the following miracles:
 
 * **Purify.** As an action, you touch a willing creature. All curses, diseases, sicknesses, and other ailments afflicting that creature are ended.
-* **Raise Dead.** You cast [Raise Dead](/Magic/Spells/raise-dead.md) without expending a spell slot. This spell does not require any material components when you cast it using this feature, and has a casting time of one action.
+* **Raise Dead.** You cast [Raise Dead](../../Magic/Spells/raise-dead.md) without expending a spell slot. This spell does not require any material components when you cast it using this feature, and has a casting time of one action.
 * **Restore.** As an action, you touch a willing creature. That creature regains all its hit points, and any missing or damaged body parts are restored.
 
 Performing these miracles is incredibly taxing on you. You gain 2 levels of exhaustion each time you use this feature. This exhaustion can not be reduced by any means other than by taking a long rest.
