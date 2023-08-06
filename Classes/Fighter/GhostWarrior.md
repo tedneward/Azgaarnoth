@@ -33,7 +33,7 @@ When you add a spirit to your choir, select from those described below. Once you
 
 When you gain a new fighter level, you can change one of your spirits for another.
 
-***Baresark***. His rage clouds your mind, blocking your foe’s honeyed words. You do not summon this spirit, but rather he appears unbidden. If you fail a saving throw against an effect that imposes the charmed condition, each round thereafter at the beginning of your turn you may reroll the saving throw with advantage. If you succeed, the charm effect ends. If you fail, however, you suffer 1 hit point per level of damage. This feature continues until you break free of the charm or drop to 0 hit points—you cannot voluntarily end this feature.
+***Berserker***. His rage clouds your mind, blocking your foe’s honeyed words. You do not summon this spirit, but rather he appears unbidden. If you fail a saving throw against an effect that imposes the charmed condition, each round thereafter at the beginning of your turn you may reroll the saving throw with advantage. If you succeed, the charm effect ends. If you fail, however, you suffer 1 hit point per level of damage. This feature continues until you break free of the charm or drop to 0 hit points—you cannot voluntarily end this feature.
 
 ***Butcher***. He bleeds your enemies of their vitality, granting it to you. You can invoke this spirit as a bonus action. Choose a number of enemies equal to your proficiency bonus that you can see within 30 feet. Each target must make a Constitution saving throw or suffer 2 points of necrotic damage. You regain half of this amount as temporary hit points. Summoning the butcher counts as invoking two of your spirit uses.
 

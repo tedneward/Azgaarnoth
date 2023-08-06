@@ -9,7 +9,7 @@ Your undead graft becomes a spellcasting focus for your magic, allowing you to c
 At 6th level, your graft gains a +1 bonus to melee attack and damage rolls. This increases to a +2 bonus at 12th level and a +3 bonus at 17th level.
 
 ## Mummified Servant
-At 3rd level, you learn the [find familiar](/Magic/Spells/find-familiar.md) spell and can cast it as a ritual. The spell doesn’t count against your number of prepared spells.
+At 3rd level, you learn the [find familiar](../../Magic/Spells/find-familiar.md) spell and can cast it as a ritual. The spell doesn’t count against your number of prepared spells.
 
 When you cast the spell, you can choose only from the following withered creatures: bat, hound, or rat.
 

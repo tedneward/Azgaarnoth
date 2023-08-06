@@ -32,6 +32,6 @@
 #### Actions
 **Innate Spellcasting** The Brothers of Spell are imbued with arcane energy, and as such are capable of casting spells. It ius a 5th-level caster, its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following wizard spells:
 
-* Cantrips (at will): [chill touch](/Magic/Spells/chill-touch.md), [eldritch blast](/Magic/Spells/eldritch-blast.md), [mage hand](/Magic/Spells/mage-hand.md)
+* Cantrips (at will): [chill touch](../Magic/Spells/chill-touch.md), [eldritch blast](../Magic/Spells/eldritch-blast.md), [mage hand](../Magic/Spells/mage-hand.md)
 
-* 1st–3rd level (3 1st-, 2 2nd-, 2 3rd-level slots): [arms of Hadar](/Magic/Spells/arms-of-hadar.md), [dispel magic](/Magic/Spells/dispel-magic.md), [hold person](/Magic/Spells/hold-person.md), [hunger of Hadar](/Magic/Spells/hunger-of-hadar.md), [invisibility](/Magic/Spells/invisibility.md), [spider climb](/Magic/Spells/spider-climb.md)
+* 1st–3rd level (3 1st-, 2 2nd-, 2 3rd-level slots): [arms of Hadar](../Magic/Spells/arms-of-hadar.md), [dispel magic](../Magic/Spells/dispel-magic.md), [hold person](../Magic/Spells/hold-person.md), [hunger of Hadar](../Magic/Spells/hunger-of-hadar.md), [invisibility](../Magic/Spells/invisibility.md), [spider climb](../Magic/Spells/spider-climb.md)

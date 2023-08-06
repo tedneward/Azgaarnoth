@@ -1,13 +1,16 @@
 # Divine Domain: Fertility
 
 **Fertility Domain Spells**
+
 Cleric Level|Spells
 ------------|------
-1st|[ceremony](/Magic/Spells/ceremony.md), charm person
+1st|[ceremony](../../Magic/Spells/ceremony.md), charm person
 3rd|calm emotions, warding bond
 5th|aura of vitality, beacon of hope
 7th|aura of life, aura of purity
 9th|dominate person, greater restoration
+
+Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
 ## Blessing of Allure
 At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: Deception, Insight, Performance, or Persuasion.

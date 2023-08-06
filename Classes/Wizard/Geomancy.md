@@ -28,12 +28,12 @@ While you are transformed, the following rules apply:
 # Geomancy Spells
 
 ## 1st-level
-* [earthen grace](/Magic/Spells/earthen-grace.md)
-* [sandblast](/Magic/Spells/sandblast.md)
+* [earthen grace](../../Magic/Spells/earthen-grace.md)
+* [sandblast](../../Magic/Spells/sandblast.md)
 
 ## 2nd-level
-* [fist of stone](/Magic/Spells/fist-of-stone.md)
+* [fist of stone](../../Magic/Spells/fist-of-stone.md)
 
 ## 3rd-level
-* [rain of stones](/Magic/Spells/rain-of-stones.md)
+* [rain of stones](../../Magic/Spells/rain-of-stones.md)
 

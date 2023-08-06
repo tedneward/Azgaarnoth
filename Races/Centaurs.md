@@ -9,7 +9,7 @@ Centaurs have a strong sense of the interconnectedness of the natural world, and
 
 Centaurs’ given names are passed down through family lines. The name given to a new foal is typically the name of the most recently deceased family member of the same gender, keeping alive the memory—and, the centaurs believe, some shard of the spirit—of the departed. Centaurs rarely use family names, but wear symbols that represent their family membership. These symbols might include graphical representations of plants or animals, printed mottos, braids and beads worn in the hair and tail, or even specific patterns of woven fabric.
 
-Centaur are rare within Azgaarnoth, but can be found more often within the [Ravenlands](/Geography/Ravenlands.md) and [North Bedia](/Nations/Bedia.md). They usually move around in "herds", which are more properly tribes, led by a powerful centaur of some experience. They are nomads, for the most part, but extremely skilled, and are quite capable of artisanry when they choose to put their minds and hands to it.
+Centaur are rare within Azgaarnoth, but can be found more often within the [Ravenlands](/Geography/Ravenlands.md) and [North Bedia](../Nations/Bedia.md). They usually move around in "herds", which are more properly tribes, led by a powerful centaur of some experience. They are nomads, for the most part, but extremely skilled, and are quite capable of artisanry when they choose to put their minds and hands to it.
 
 * **Ability Score Increase**. Your Strength score increases by 2, and your Wisdom score increases by 1.
 

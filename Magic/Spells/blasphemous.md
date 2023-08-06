@@ -15,4 +15,4 @@ You utter a phrase so baneful that it pains those who hear it, possibly even kil
 
 At any point during the spell's duration, if an affected creature's current hit points are reduced to a point that would cause it to suffer a different effect, the creature must make a Consitution saving throw. On a failed save, the creature suffers the new effect. On a success, the spell ends for that creature.
 
-Any creature who is killed by this spell can be restored to life only by means of a [true resurrection](/Magic/Spells/true-resurrection.md) or a [wish](/Magic/Spells/wish.md) spell.
+Any creature who is killed by this spell can be restored to life only by means of a [true resurrection](./true-resurrection.md) or a [wish](./wish.md) spell.

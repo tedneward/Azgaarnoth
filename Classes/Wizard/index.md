@@ -202,7 +202,8 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 # "Core" Wizard Spells
 This is a list of the spells accessible to any wizard throughout Azgaarnoth (under most normal circumstances--it is possible, for example, that a wizard character came to power outside of any of the normal backgrounds thus has a very paltry spellbook to start as a handicap). 
 
-> GM Notes: These are all the spells found in the *Player's Handbook*, with no additions. In game terms, these spells are common spells as classified by the [White Winds](../../Organizations/MageSchools/WhiteWinds.md) school, and are always accessible for copy into a wizard's spellbook for a nominal fee.
+> ### GM Notes
+> These are all the spells found in the *Player's Handbook*, with no additions. In game terms, these spells are common spells as classified by the [White Winds](../../Organizations/MageSchools/WhiteWinds.md) school, and are always accessible for copy into a wizard's spellbook for a nominal fee.
 
 ## Cantrips
 * [acid splash](../../Magic/Spells/acid-splash.md)

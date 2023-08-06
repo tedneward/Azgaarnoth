@@ -19,7 +19,7 @@ Druid Level| Spells
 ## Summon Wildfire
 *2nd-level Circle of Wildfire feature*
 
-You can summon the primal spirit bound to your soul. As an action, you can expend one use of your Wild Shape feature to summon your [wildfire spirit](/Creatures/WildfireSpirit.md), rather than assuming a beast form.
+You can summon the primal spirit bound to your soul. As an action, you can expend one use of your Wild Shape feature to summon your [wildfire spirit](../../Creatures/WildfireSpirit.md), rather than assuming a beast form.
 
 The spirit appears in an unoccupied space of your choice that you can see within 30 feet of you. Each creature within 10 feet of the spirit (other than you) when it appears must succeed on a Dexterity saving throw against your spell save DC or take 2d6 fire damage.
 

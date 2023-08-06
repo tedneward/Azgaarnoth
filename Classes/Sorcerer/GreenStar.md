@@ -9,10 +9,10 @@ Starting at 1st level, your tie to the Star changes your mind in subtle but prof
 **Green Star Spells**
 Sorcerer Level | Spells 
 -------------- | ------
-1st | [emerald bands](/Magic/Spells/emerald-bands.md),[viridian shell](/Magic/Spells/viridian-shell.md)
-3rd | [magic weapon](https://www.dndbeyond.com/spells/magic-weapon),  [gemstone fission](/Magic/Spells/gemstone-fission.md)
+1st | [emerald bands](../../Magic/Spells/emerald-bands.md),[viridian shell](../../Magic/Spells/viridian-shell.md)
+3rd | [magic weapon](https://www.dndbeyond.com/spells/magic-weapon),  [gemstone fission](../../Magic/Spells/gemstone-fission.md)
 5th | [call lightning](https://www.dndbeyond.com/spells/call-lightning) (jade in color), [meld into stone](https://www.dndbeyond.com/spells/meld-into-stone)
-7th | [resilient sphere](https://www.dndbeyond.com/spells/resilient-sphere) (jade in color), [jade clone](/Magic/Spells/jade-clone.md)
+7th | [resilient sphere](https://www.dndbeyond.com/spells/resilient-sphere) (jade in color), [jade clone](../../Magic/Spells/jade-clone.md)
 9th | [arcane hand](https://www.dndbeyond.com/spells/arcane-hand), [wall of force](https://www.dndbeyond.com/spells/wall-of-force) (jade in color)
 
 ## Jade Skin

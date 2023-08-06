@@ -67,9 +67,9 @@ You specialize in a particular style of defending your allies. You choose one op
 
 * **Sacrificial Dive.** When a creature within 5 feet of you is hit by an attack, you can use your reaction to force the attack to hit you instead The attack hits you regardless of your AC or other abilities. Damage resistances, damage immunities, and condition immunities still apply--the attack still hits, but may have no effect.
 
-* **Warding Magic.** *Prerequisite: The ability to cast at least one spell* Choose one class you have levels in that you can learn or prepare spells as. If you prepare spells as that class, you always have [shield other](/Magic/Spells/shield-other.md) prepared, and it doesn't count against the number of spells you can prepare as that class. If not, you learn [shield other](/Magic/Spells/shield-other.md), and it doesn't count against the number of spells you can learn as that class.
+* **Warding Magic.** *Prerequisite: The ability to cast at least one spell* Choose one class you have levels in that you can learn or prepare spells as. If you prepare spells as that class, you always have [shield other](../../Magic/Spells/shield-other.md) prepared, and it doesn't count against the number of spells you can prepare as that class. If not, you learn [shield other](../../Magic/Spells/shield-other.md), and it doesn't count against the number of spells you can learn as that class.
 
-  [Shield other](/Magic/Spells/shield-other.md) also counts as a class spell of that class for you, and uses that class's spellcasting ability score. Example: If you chose wizard, [shield other](/Magic/Spells/shield-other.md) is also a wizard spell for you now, and Intelligence is your spellcasting ability for this spell.
+  [Shield other](../../Magic/Spells/shield-other.md) also counts as a class spell of that class for you, and uses that class's spellcasting ability score. Example: If you chose wizard, [shield other](../../Magic/Spells/shield-other.md) is also a wizard spell for you now, and Intelligence is your spellcasting ability for this spell.
 
 ## Withstand Pain
 *2nd-level guardian feature*

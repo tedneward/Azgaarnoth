@@ -60,7 +60,7 @@ When a werebear transforms, it grows to enormous size, lashing out with weapons 
 
 Solitary creatures, werebears act as wardens over their territory, protecting flora and fauna alike from humanoid or monstrous intrusion. Though most werebears are of good alignment, some are every bit as evil as other lycanthropes.
 
-Werebears are strikingly more common in the wilds of [Northern Bedia](/Nations/Bedia.md), where they can roam a solitary life almost entirely openly, without the concerns of civilization encroaching too far.
+Werebears are strikingly more common in the wilds of [Northern Bedia](../Nations/Bedia.md), where they can roam a solitary life almost entirely openly, without the concerns of civilization encroaching too far.
 
 **PCs as a werebear.** The character gains a Strength of 19 if his or her score isn’t already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 
@@ -105,7 +105,7 @@ Werebears are strikingly more common in the wilds of [Northern Bedia](/Nations/B
 #### Description
 Wereboars are ill-tempered and vulgar brutes. As humanoids, they are stocky and muscular, with short, stiff hair. In their humanoid and hybrid forms, they use heavy weapons, while in hybrid or animal form, they gain a devastating goring attack through which their curse is spread. A wereboar infects other creatures indiscriminately, relishing the fact that the more its victims resist the curse, the more savage and bestial they become.
 
-Wereboars live in small family groups in remote forest areas, building ramshackle huts or dwelling in caves. They are suspicious of strangers but sometimes ally themselves with orcs. In particular, wereboars seem to find comfortable homes among the [Ulmhorde](/Nations/Ulm.md) and sometimes [Tragekian Hordes](/Nations/Tragekia.md), though the latter tends to view the curse less positively than the former.
+Wereboars live in small family groups in remote forest areas, building ramshackle huts or dwelling in caves. They are suspicious of strangers but sometimes ally themselves with orcs. In particular, wereboars seem to find comfortable homes among the [Ulmhorde](../Nations/Ulm.md) and sometimes [Tragekian Hordes](../Nations/Tragekia.md), though the latter tends to view the curse less positively than the former.
 
 **PCs as a wereboar.** The character gains a Strength of 17 if his or her score isn’t already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character’s proficiency bonus + Strength modifier.
 
@@ -246,7 +246,7 @@ Weretigers live in jungles on the fringes of humanoid civilization, traveling to
 #### Description
 A werewolf is a savage predator. In its humanoid form, a werewolf has heightened senses, a fiery temper, and a tendency to eat rare meat. Its wolf form is a fearsome predator, but its hybrid form is more terrifying by far — a furred and well-muscled humanoid body topped by a ravening wolf’s head. A werewolf can wield weapons in hybrid form, though it prefers to tear foes apart with its powerful claws and bite.
 
-Most werewolves flee civilized lands not long after becoming afflicted. Those that reject the curse fear what will happen if they remain among their friends and family. Those that embrace the curse fear discovery and the consequences of their murderous acts. In the wild, werewolves form packs that also include wolves and dire wolves. Werewolves are rumored to rampant in [Dradehalia](/Nations/Dradehalia.md), but this only seems to add to the legends and myths of that land--no proof ever seems to hold up under scrutiny.
+Most werewolves flee civilized lands not long after becoming afflicted. Those that reject the curse fear what will happen if they remain among their friends and family. Those that embrace the curse fear discovery and the consequences of their murderous acts. In the wild, werewolves form packs that also include wolves and dire wolves. Werewolves are rumored to rampant in [Dradehalia](../Nations/Dradehalia.md), but this only seems to add to the legends and myths of that land--no proof ever seems to hold up under scrutiny.
 
 **PCs as a werewolf.** The character gains a Strength of 15 if his or her score isn’t already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 

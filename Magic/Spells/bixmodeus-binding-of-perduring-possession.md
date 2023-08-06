@@ -14,4 +14,4 @@ The item used as a vessel gains a magical aura about it and is inured to wear an
 
 ***Ending the Spell.*** The spell may be ended through a ceremonial ritual where diamonds worth at least 500gp per Hit Die of the bound target are fired in a brazier for 24 hours, stoked and fueled with rare herbs native to the target's place of birth. The item must be laid upon the diamonds for the duration of the ceremony, and the true name of the target chanted at its zenith. Performing this ritual will expunge the target's soul from the item, releasing it to its expected destination upon death, and destroying the possessed item along with all resources used in the ritual. 
 
-A [dispel magic](/Magic/Spells/dispel-magic.md) spell can end the spell only if it is cast as a 9th-level spell, targeting the item.
+A [dispel magic](./dispel-magic.md) spell can end the spell only if it is cast as a 9th-level spell, targeting the item.

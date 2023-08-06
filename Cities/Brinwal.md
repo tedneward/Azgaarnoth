@@ -1,4 +1,4 @@
-# Brinwal ([Liria](/Nations/Liria.md))
+# Brinwal ([Liria](../Nations/Liria.md))
 **Population:** 8,500 -- 50% human, 35% Firstborn, 15% Created
 
 **Features:** Port, Walled, Marketplace, Shantytown

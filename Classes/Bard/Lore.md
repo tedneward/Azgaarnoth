@@ -3,7 +3,7 @@ Bards of the College of Lore know something about most things, collecting bits o
 
 The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic.
 
-The college's members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority. Many of these bards were trained at the Lore College one operated out of the Great Library of the [Brass Dragon](../../Organizations/DraconicOrder/Brass.md). These bards are often scholars and are paid by the Academy to discover new facts about Azgaarnoth. Numerous other universities also host a Lore College.
+The college's members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority. Many of these bards were trained at the Lore College one operated out of the Great Library of the [Brass Dragon](../../Organizations/MilitantOrders/DraconicOrder/Brass.md). These bards are often scholars and are paid by the Academy to discover new facts about Azgaarnoth. Numerous other universities also host a Lore College.
 
 ## Bonus Proficiencies
 When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice.

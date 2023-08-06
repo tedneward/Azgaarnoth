@@ -7,7 +7,7 @@ Strangely, the lore surrounding the Eldars' creation of the Firstborn and humans
 Regardless, the tabaxi can be found anywhere in Azgaarnoth, wandering, exploring, investigating anything and everything that piques their curiosity.
 
 ## Wandering Outcasts
-The largest concentrations of tabaxi are found in the [Ravenlands](/Geography/Ravenlands.md), [Yithi](/Nations/Yithi.md) and [Zhi](/Nations/Zhi.md), although many also wander with the Caliphates across the endless grasslands. Most tabaxi remain content to dwell in small, tight clans, hunting for food, crafting goods, and largely keeping to themselves.
+The largest concentrations of tabaxi are found in the [Ravenlands](/Geography/Ravenlands.md), [Yithi](../Nations/Yithi.md) and [Zhi](../Nations/Zhi.md), although many also wander with the Caliphates across the endless grasslands. Most tabaxi remain content to dwell in small, tight clans, hunting for food, crafting goods, and largely keeping to themselves.
 
 However, not all tabaxi are satisfied with such a life. The Cat Lord, the divine figure responsible for the creation of the tabaxi, gifts each of his children with one specific feline trait. Those tabaxi gifted with curiosity are compelled to wander far and wide. They seek out stories, artifacts, and lore. Those who survive this period of wanderlust return home in their elder years to share news of the outside world. In this manner, the tabaxi remain isolated but never ignorant of the world beyond their home.
 

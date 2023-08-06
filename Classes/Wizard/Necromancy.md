@@ -3,7 +3,7 @@ Necromancers explore the cosmic forces of life, death, and undeath. As you focus
 
 Most people see necromancers as menacing, or even villainous, due to the close association with death. Not all necromancers are evil, but the forces they manipulate are considered taboo by many societies.
 
-Necromancers are rumored to be highly concentrated in [Dradehalia](/Nations/Dradehalia.md), but a fair number are also members of several [mage schools](../../Organizations/MageSchools/MageSchools.md).
+Necromancers are rumored to be highly concentrated in [Dradehalia](../../Nations/Dradehalia.md), but a fair number are also members of several [mage schools](../../Organizations/MageSchools/MageSchools.md).
 
 ## Necromancy Savant
 Beginning when you select this school at 2nd level, the gold and time you must spend to copy a Necromancy spell into your spellbook is halved.
@@ -12,7 +12,7 @@ Beginning when you select this school at 2nd level, the gold and time you must s
 At 2nd level, you gain the ability to reap life energy from creatures you kill with your spells. Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain hit points equal to twice the spell's level, or three times its level if the spell belongs to the School of Necromancy. You don't gain this benefit for killing constructs or undead.
 
 ## Undead Thralls
-At 6th level, you add the [animate dead](/Magic/Spells/animate-dead.md) spell to your spellbook if it is not there already. When you cast [animate dead](/Magic/Spells/animate-dead.md), you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.
+At 6th level, you add the [animate dead](../../Magic/Spells/animate-dead.md) spell to your spellbook if it is not there already. When you cast [animate dead](../../Magic/Spells/animate-dead.md), you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.
 
 Whenever you create an undead using a necromancy spell, it has additional benefits:
 

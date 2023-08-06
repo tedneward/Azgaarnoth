@@ -55,7 +55,7 @@ Equipment
 ## Fighting Style
 *1st-level fighter feature* 
 
-You adopt a particular style of fighting as your specialty. Choose one of the [styles](Fighter/Styles.md) available. You can't take a Fighting Style option more than once, even if you later get to choose again.
+You adopt a particular style of fighting as your specialty. Choose one of the [styles](Styles.md) available. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
 ### Martial Versatility
 *4th-level fighter feature*
@@ -78,30 +78,30 @@ Once you use this feature, you must finish a short or long rest before you can u
 ## Martial Archetype
 At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques:
 
-* [Arcane Archer](Fighter/ArcaneArcher.md)
-* [Banneret](Fighter/Banneret.md)
-* [Battle Master](Fighter/BattleMaster.md)
-* [Blood Thrall](Fighter/BloodThrall.md)
-* [Brute](Fighter/Brute.md)
-* [Cavalier](Fighter/Cavalier.md)
-* [Champion](Fighter/Champion.md)
-* [Dervish](Fighter/Dervish.md)
-* [Dwarven Defender](Fighter/Defender.md)
-* [Dragon Knight](Fighter/DragonKnight.md)
-* [Dragon Slayer](Fighter/DragonSlayer.md)
-* [Dragoon](Fighter/Dragoon.md)
-* [Dreadnought](Fighter/Dreadnought.md)
-* [Duelist](Fighter/Duelist.md)
-* [Eldritch Knight](Fighter/EldritchKnight.md)
-* [Elemental Blade](Fighter/ElementalBlade.md)
-* [Ghost Warrior](Fighter/GhostWarrior.md)
-* [Monster Hunter](Fighter/MonsterHunter.md)
-* [Psi Knight](Fighter/PsiKnight.md)
-* [Rune Knight](Fighter/RuneKnight.md)
-* [Samurai](Fighter/Samurai.md)
-* [Scout](Fighter/Scout.md)
-* [Sharpshooter](Fighter/Sharpshooter.md)
-* [Weapon Master](Fighter/WeaponMaster.md)
+* [Arcane Archer](ArcaneArcher.md)
+* [Banneret](Banneret.md)
+* [Battle Master](BattleMaster.md)
+* [Blood Thrall](BloodThrall.md)
+* [Brute](Brute.md)
+* [Cavalier](Cavalier.md)
+* [Champion](Champion.md)
+* [Dervish](Dervish.md)
+* [Dwarven Defender](Defender.md)
+* [Dragon Knight](DragonKnight.md)
+* [Dragon Slayer](DragonSlayer.md)
+* [Dragoon](Dragoon.md)
+* [Dreadnought](Dreadnought.md)
+* [Duelist](Duelist.md)
+* [Eldritch Knight](EldritchKnight.md)
+* [Elemental Blade](ElementalBlade.md)
+* [Ghost Warrior](GhostWarrior.md)
+* [Monster Hunter](MonsterHunter.md)
+* [Psi Knight](PsiKnight.md)
+* [Rune Knight](RuneKnight.md)
+* [Samurai](Samurai.md)
+* [Scout](Scout.md)
+* [Sharpshooter](Sharpshooter.md)
+* [Weapon Master](WeaponMaster.md)
 
 The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 

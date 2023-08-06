@@ -1,4 +1,4 @@
-# Shavew ([Dradehalia](/Nations/Dradehalia.md))
+# Shavew ([Dradehalia](../Nations/Dradehalia.md))
 **Population:** 
 
 **Features:** 

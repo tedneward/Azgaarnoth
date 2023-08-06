@@ -22,7 +22,7 @@ The dragon is particularly aware of its surrounding. It gains the following bene
 
 
 ## Arcane Immunity
-The dragon is immune to magic [sleep](/Magic/Spells/sleep.md) effects, and to the paralyzed and petrified conditions.
+The dragon is immune to magic [sleep](../Magic/Spells/sleep.md) effects, and to the paralyzed and petrified conditions.
 
 
 ## Armor Training
@@ -187,18 +187,18 @@ Preferred spells by dragon type are given here:
 * **Black Dragons:** acid splash, chill touch, darkness, plant growth, vampiric touch, insect plague, melf's acid arrow, stinking cloud, circle of death, contagion, cloudkill, finger of death, harm.
 * **Blue Dragons:** lightning bolt, minor illusion, shocking grasp, thunderclap, call lightning, major image, silent image, hallucinatory terrain, project image, mirage arcane, storm of vengeance, storm sphere, control weather.
 * **Green Dragons:** friends, poison spray, suggestion, thorn whip, charm person, cloudkill, command, dominate beast, dominate person, entangle, glibness, mass suggestion, plant growth, dominate monster, wall of thorns.
-* **Red Dragons:** [control flames](/Magic/Spells/control-flames.md), [create bonfire](/Magic/Spells/create-bonfire.md), firebolt, locate object, produce flame, clairvoyance, delayed blast fireball, fireball, heat metal, immolation, scrying, wall of fire, firestorm, incendiary cloud.
+* **Red Dragons:** [control flames](../Magic/Spells/control-flames.md), [create bonfire](../Magic/Spells/create-bonfire.md), firebolt, locate object, produce flame, clairvoyance, delayed blast fireball, fireball, heat metal, immolation, scrying, wall of fire, firestorm, incendiary cloud.
 * **White Dragons:** frostbite, fog cloud, gust of wind, sleet storm, ice storm, cone of cold, investiture of ice, wall of ice, investiture of wind, control weather.
-* **Brown Dragons:** [create bonfire](/Magic/Spells/create-bonfire.md), mold earth, heat metal, erupting earth, earthbind, wall of sand, transmute rock, move earth, earthquake.
+* **Brown Dragons:** [create bonfire](../Magic/Spells/create-bonfire.md), mold earth, heat metal, erupting earth, earthbind, wall of sand, transmute rock, move earth, earthquake.
 * **Gray Dragons:** shield, telekinesis, counterspell, globe of invulnerability.
 * **Purple Dragons:** charm person, clairvoyance, command, enthrall, hex, suggestion, clairvoyance, dominate monster, dominate person, invisibility, locate creature, mass
 suggestion, glibness, teleport.
-* **Brass Dragons:** [control flames](/Magic/Spells/control-flames.md), firebolt, friends, minor illusion, produce flame, speak with animals, charm person, [control winds](/Magic/Spells/control-winds.md), heat metal, legend lore, major illusion, suggestion, control weather, delayed blast fireball, glibness, wall of sand.
+* **Brass Dragons:** [control flames](../Magic/Spells/control-flames.md), firebolt, friends, minor illusion, produce flame, speak with animals, charm person, [control winds](../Magic/Spells/control-winds.md), heat metal, legend lore, major illusion, suggestion, control weather, delayed blast fireball, glibness, wall of sand.
 * **Bronze Dragons:** control water, shape water, speak with animals, thunderclap, water walk, call lightning, create/destroy water, detect thoughts, fog cloud, lightning bolt, tidal wave, zone of truth, control weather, tsunami.
 * **Copper Dragons:** charm person, command, erupting earth, glibness, major image, maximilian's earthen grasp, tasha's hideous laughter, transmute rock, silent image, suggestion, bones of the earth, flesh to stone, mass suggestion, wall of stone.
 * **Gold Dragons:** bless, daylight, guidance, light, resistance, spare the dying, arcane eye, beacon of hope, geas, heat metal, heroism, sanctuary, foresight, heal, sunburst.
-* **Silver Dragons:** [control winds](/Magic/Spells/control-winds.md), frostbite, feather fall, fog cloud, legend lore, moonbeam, scrying, sleet storm, control weather, reverse gravity.
-* **Iron Dragons:** charm person, [create bonfire](/Magic/Spells/create-bonfire.md), enthrall, thunderclap, dominate beast, suggestion, thunderwave, dominate monster, mass suggestion.
+* **Silver Dragons:** [control winds](../Magic/Spells/control-winds.md), frostbite, feather fall, fog cloud, legend lore, moonbeam, scrying, sleet storm, control weather, reverse gravity.
+* **Iron Dragons:** charm person, [create bonfire](../Magic/Spells/create-bonfire.md), enthrall, thunderclap, dominate beast, suggestion, thunderwave, dominate monster, mass suggestion.
 * **Mithral Dragons:** any, but they prefer spells from the cleric spell list.
 
 **Dragon Innate Casting**

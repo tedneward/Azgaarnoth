@@ -1,4 +1,4 @@
-# Heral ([Yithi](/Nations/Yithi.md))
+# Heral ([Yithi](../Nations/Yithi.md))
 **Population:** 
 
 **Features:** 

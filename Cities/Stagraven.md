@@ -1,4 +1,4 @@
-# Stagraven ([Liria](/Nations/Liria.md))
+# Stagraven ([Liria](../Nations/Liria.md))
 *Population: 9,000 -- 40% human, 45% Firstborn, 15% Created*
 
 **Facilities:** Port, Citadel, Walled, Marketplace, Shantytown

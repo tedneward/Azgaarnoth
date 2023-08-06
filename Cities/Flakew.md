@@ -1,4 +1,4 @@
-# Flakew ([Liria](/Nations/Liria.md))
+# Flakew ([Liria](../Nations/Liria.md))
 **Population:** 45,000 -- 40% human, 45% Firstborn, 15% Created
 
 **Features:** Capital, Port, Citadel, Walled, Marketplace, Shantytown

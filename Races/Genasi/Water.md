@@ -15,11 +15,11 @@ Their skin is often shades of blue or green, sometimes a blend of the two. If th
 
 **Acid Resistance.** You have resistance to acid damage.
 
-**Call to the Wave.** You know the [Acid Splash](/Magic/Spells/acid-splash.md) cantrip. 
+**Call to the Wave.** You know the [Acid Splash](../../Magic/Spells/acid-splash.md) cantrip. 
 
-Starting at 3rd level, you can cast the [Create or Destroy Water](/Magic/Spells/create-or-destroy-water.md) spell with this trait. 
+Starting at 3rd level, you can cast the [Create or Destroy Water](../../Magic/Spells/create-or-destroy-water.md) spell with this trait. 
 
-Starting at 5th level, you can also cast the [Water Walk](/Magic/Spells/water-walk.md) spell with this trait, without requiring a material component. 
+Starting at 5th level, you can also cast the [Water Walk](../../Magic/Spells/water-walk.md) spell with this trait, without requiring a material component. 
 
 Once you cast Create or Destroy Water or Water Walk with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 

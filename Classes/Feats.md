@@ -178,7 +178,7 @@ You study the arcane arts, gaining the following benefits:
 
 * Increase your Intelligence score by 1, to a maximum of 20.
 * You gain proficiency in the Arcana skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
-* You learn the [prestidigitation](/Magic/Spells/prestidigitation.md) and [detect magic](/Magic/Spells/detect-magic.md) spells. You can cast [detect magic](/Magic/Spells/detect-magic.md) once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+* You learn the [prestidigitation](../Magic/Spells/prestidigitation.md) and [detect magic](../Magic/Spells/detect-magic.md) spells. You can cast [detect magic](../Magic/Spells/detect-magic.md) once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
 
 Note that if you choose to be a member of a [Mage School](../Organizations/MageSchools/MageSchools.md), your cantrip and 1st-level spell may vary, according to the DM.
 
@@ -280,7 +280,7 @@ You pride yourself on your quickness and your close study of certain clandestine
 You have learned to channel your magic through a deck of playing cards, granting you these benefits:
 
 * **Card Focus.** You can use a deck of cards as your spellcasting focus. When you use the deck as a focus to cast a spell that deals damage, roll a d4. You gain a bonus to one damage roll of the spell equal to the number rolled. This bonus applies to one creature of your choice that you can see damaged by the spell; you can use this benefit a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
-* **Card Tricks.** You learn the [prestidigitation](/Magic/Spells/prestidigitation.md) cantrip and can use it to create illusions that duplicate the effects of stage magic. When you use [prestidigitation](/Magic/Spells/prestidigitation.md) in this way, you can conceal the verbal and somatic components of the spell as mundane conversation and card-handling.
+* **Card Tricks.** You learn the [prestidigitation](../Magic/Spells/prestidigitation.md) cantrip and can use it to create illusions that duplicate the effects of stage magic. When you use [prestidigitation](../Magic/Spells/prestidigitation.md) in this way, you can conceal the verbal and somatic components of the spell as mundane conversation and card-handling.
 * **Hidden Ace.** When you finish a long rest, you can choose one spell you know and imbue it into a card; the chosen spell must have a casting time of 1 action, and its level must be less than or equal to your proficiency bonus. While the card is imbued with the spell, you can use your bonus action to flourish the card and cast the spell within. The card then immediately loses its magic.
 
 
@@ -292,10 +292,10 @@ This grants the following benefits:
 * If you already have channeling dice, you gain one more; otherwise, you have two channeling dice, which are d6’s. These channeling dice are used to fuel the uses described below. A channeling die is expended when you use it. You regain all of your expended channeling dice when you finish a long rest. If you are in an area where spells are suppressed or cannot be cast (such as an antimagic field spell), you cannot use channeling dice. You can only spend 1 channeling die per turn.
 * When you take cold damage or damage from a spell, you can use your reaction to expend 1 or more channeling dice and regain hit points equal to the total number rolled on your channeling dice.
 * Whenever you inflict fire damage with a spell or cantrip, you can use your bonus action to expend 1 or more channeling dice to inflict extra damage against one target of that fire damage (even if that target took no fire damage due to immunity or a similar effect). The target takes force damage equal to your total channeling dice roll, and you can push the target up to 10 feet away from you.
-* As an action, you can expend 1 channeling die to cast [detect magic](/Magic/Spells/detect-magic.md).
+* As an action, you can expend 1 channeling die to cast [detect magic](../Magic/Spells/detect-magic.md).
 * Whenever you spend 1 or more channeling dice, you shed bright light in a 30-foot radius and dim light for an additional 30 feet. If you spend 4 or more channeling dice at once, these radii are doubled.
 * As long as you have at least one unexpended channeling die remaining, you are considered naturally adapted to cold climates, and you have the ability to start fires with a touch. As an action, you can magically ignite a flammable object you touch with your hand--an object such as a torch, a piece of tinder, or the hem of drapes.
-* You learn the [produce flame](/Magic/Spells/produce-flame.md) cantrip.
+* You learn the [produce flame](../Magic/Spells/produce-flame.md) cantrip.
 
 
 ## Charger
@@ -343,7 +343,7 @@ The first time you charge in combat, creatures you target during that charge bec
 
 Your friendship with animals mystically deepens. You gain the following benefits:
 * You gain proficiency in the Animal Handling skill. If you’re already proficient in it, your proficiency bonus is doubled for any check you make with it.
-* You learn the [speak with animals](/Magic/Spells/speak-with-animals.md) spell and can cast it at will, without expending a spell slot. You also learn the [animal friendship](/Magic/Spells/animal-friendship.md) spell, and you can cast it once with this feat, without expending a spell slot. You regain the ability to cast it in this way when you finish a long rest. Wisdom is your spellcasting ability for these spells.
+* You learn the [speak with animals](../Magic/Spells/speak-with-animals.md) spell and can cast it at will, without expending a spell slot. You also learn the [animal friendship](../Magic/Spells/animal-friendship.md) spell, and you can cast it once with this feat, without expending a spell slot. You regain the ability to cast it in this way when you finish a long rest. Wisdom is your spellcasting ability for these spells.
 
 
 ## Crossbow Expert
@@ -414,13 +414,13 @@ Your connection to your god deepens, granting you these benefits:
 
 * **Ability Score Increase**. Increase the ability score of the spellcasting ability chosen when you gained the Divinely Favored feat by 1, to a maximum of 20.
 * **Celestial Tongues**. You learn to speak, read, and write Celestial, and two other languages of your choice.
-* **Divine Omens**. You can cast the [augury](/Magic/Spells/augury.md) and [commune](/Magic/Spells/commune.md) spell without a spell slot, and you must finish 1d4 long rests before you can cast it in this way again. You can also cast the spell using spell slots you have of the appropriate level. The spell’s spellcasting ability is the one chosen when you gained the Divinely Favored feat.
+* **Divine Omens**. You can cast the [augury](../Magic/Spells/augury.md) and [commune](../Magic/Spells/commune.md) spell without a spell slot, and you must finish 1d4 long rests before you can cast it in this way again. You can also cast the spell using spell slots you have of the appropriate level. The spell’s spellcasting ability is the one chosen when you gained the Divinely Favored feat.
 
 
 ## Divinely Favored
 A god has chosen you to carry a spark of their divine power.
 
-You learn the [thaumaturgy](/Magic/Spells/thaumaturgy.md) cantrip and one 1st-level spell based on the alignment of your character, as specified in the below table:
+You learn the [thaumaturgy](../Magic/Spells/thaumaturgy.md) cantrip and one 1st-level spell based on the alignment of your character, as specified in the below table:
 
 Alignment	| 1st-level Spells
 --------- | --------------
@@ -544,7 +544,7 @@ When you gain this feat, choose one of the following damage types: acid, cold, f
 
 
 ## Elemental Touched
-You’ve been exposed to the primordial magic of the Elemental Planes, granting you a measure of control over the natural world around you. You learn the either the [druidcraft](/Magic/Spells/druidcraft.md) or [thaumaturgy](/Magic/Spells/thaumaturgy.md) cantrip, using Intelligence, Wisdom, or Charisma as the spellcasting ability (choose when you gain this feat).
+You’ve been exposed to the primordial magic of the Elemental Planes, granting you a measure of control over the natural world around you. You learn the either the [druidcraft](../Magic/Spells/druidcraft.md) or [thaumaturgy](../Magic/Spells/thaumaturgy.md) cantrip, using Intelligence, Wisdom, or Charisma as the spellcasting ability (choose when you gain this feat).
 
 Whenever you finish a long rest, you can choose which element you are attuned to: Air, Earth, Fire, or Water. Depending on your choice, you can use a bonus action to cause one of the following effects:
 
@@ -680,7 +680,7 @@ You’ve manifested some of the power of gem dragons, granting you the following
 ## Gift of the Metallic Dragon
 You’ve manifested some of the power of metallic dragons, granting you the following benefits:
 
-* **Draconic Healing.** You learn the [cure wounds](/Magic/Spells/cure-wounds.md) spell. You can cast this spell without expending a spell slot. Once you cast this spell in this way, you can’t do so again until you finish a long rest. You can also cast this spell using spell slots you have. The spell’s spellcasting ability is Intelligence, Wisdom, or Charisma when you cast it with this feat (choose when you gain the feat).
+* **Draconic Healing.** You learn the [cure wounds](../Magic/Spells/cure-wounds.md) spell. You can cast this spell without expending a spell slot. Once you cast this spell in this way, you can’t do so again until you finish a long rest. You can also cast this spell using spell slots you have. The spell’s spellcasting ability is Intelligence, Wisdom, or Charisma when you cast it with this feat (choose when you gain the feat).
 * **Protective Wings.** You can manifest protective wings that can shield you or others. When you or another creature you can see within 5 feet of you is hit by an attack roll, you can use your reaction to manifest spectral wings from your back for a moment. You grant a bonus to the target’s AC equal to your proficiency bonus against that attack roll, potentially causing it to miss. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 
@@ -730,7 +730,7 @@ Your dragonmark has grown in size and power. This enhances your existing dragonm
 * Increase one ability score by 1, to a maximum of 20. The abilities available to you are based on your mark, as shown on the Greater Dragonmark Benefits table.
 * You learn a set of spells, each of which you can cast once without expending a spell slot or using a material component. The list of spells, the spellcasting ability for these spells, and the type of rest you must complete in order to regain the use of these spells are shown on the Greater Dragonmark Benefits table.
 
-To cast [Leomund's secret chest](/Magic/Spells/leomunds-secret-chest.md) using this feat and the [Mark of Warding](/Races/Dragonmarked.md#the-mark-of-warding), you must have a dragonshard with a value of at least 100 gp. While you have this dragonshard in hand, it serves as the spell's focus, and you can use it to summon and dismiss the chest.
+To cast [Leomund's secret chest](../Magic/Spells/leomunds-secret-chest.md) using this feat and the [Mark of Warding](/Races/Dragonmarked.md#the-mark-of-warding), you must have a dragonshard with a value of at least 100 gp. While you have this dragonshard in hand, it serves as the spell's focus, and you can use it to summon and dismiss the chest.
 
 **Greater Dragonmark Benefits**
 Dragonmark | Ability Score Increase | Spells | Spellcasting Ability | Rest Required
@@ -745,7 +745,7 @@ Passage |  Dexterity or Constitution | blink, teleportation circle | Constitutio
 Scribing | Intelligence or Charisma | sending, tongues | Intelligence | Long or Short
 Sentinel | Strength or Wisdom | compelled duel, warding bond | Wisdom | Long or Short
 Shadow | Charisma or Dexterity | nondetection, mislead | Charisma | Long
-Storm | Charisma or Dexterity | control water, [control winds](/Magic/Spells/control-winds.md) | Charisma | Long
+Storm | Charisma or Dexterity | control water, [control winds](../Magic/Spells/control-winds.md) | Charisma | Long
 Warding | Dexterity or Intelligence | glyph of warding, knock, Leomund’s secret chest* | Intelligence | Long
 
 
@@ -1181,12 +1181,12 @@ Whether planar essence infuses you or you have extraplanar ancestry, your connec
 
 Plane | Damage Resistance | Cantrip
 ----- | ----------------- | -------
-Astral Plane | Psychic | [message](/Magic/Spells/message.md)
-Chaotic Outer Plane | Necrotic | [minor illusion](/Magic/Spells/minor-illusion.md)
-Evil Outer Plane | Necrotic | [chill touch](/Magic/Spells/chill-touch.md)
-Good Outer Plane | Radiant | [sacred flame](/Magic/Spells/sacred-flame.md)
-Lawful Outer Plane | Radiant | [guidance](/Magic/Spells/guidance.md)
-The Outlands | Psychic | [mage hand](/Magic/Spells/mage-hand.md)
+Astral Plane | Psychic | [message](../Magic/Spells/message.md)
+Chaotic Outer Plane | Necrotic | [minor illusion](../Magic/Spells/minor-illusion.md)
+Evil Outer Plane | Necrotic | [chill touch](../Magic/Spells/chill-touch.md)
+Good Outer Plane | Radiant | [sacred flame](../Magic/Spells/sacred-flame.md)
+Lawful Outer Plane | Radiant | [guidance](../Magic/Spells/guidance.md)
+The Outlands | Psychic | [mage hand](../Magic/Spells/mage-hand.md)
 
 
 ## Second Chance
@@ -1346,7 +1346,7 @@ You know how best to hide. You gain the following benefits:
 
 Known to languish in piles of filth and carrion, gnolls sometimes reek of things worse than urine.
 
-You exude a terrible scent as a 15-foot aura that nearly every other creature finds repulsive. All living creatures (except those with the stench aura ability) within the aura must succeed at a Fortitude saving throw (DC 10 + 1/2 the gnoll’s character level + Constitution modifier) or be sickened for 5 rounds. Creatures that succeed at the saving throw cannot be sickened by the same creature's stench aura for 24 hours. A [delay poison](/Magic/Spells/delay-poison.md) or [neutralize poison](/Magic/Spells/neutralize-poison.md) spell or similar effect removes the effect from the sickened creature. This is a poison effect.
+You exude a terrible scent as a 15-foot aura that nearly every other creature finds repulsive. All living creatures (except those with the stench aura ability) within the aura must succeed at a Fortitude saving throw (DC 10 + 1/2 the gnoll’s character level + Constitution modifier) or be sickened for 5 rounds. Creatures that succeed at the saving throw cannot be sickened by the same creature's stench aura for 24 hours. A [delay poison](../Magic/Spells/delay-poison.md) or [neutralize poison](../Magic/Spells/neutralize-poison.md) spell or similar effect removes the effect from the sickened creature. This is a poison effect.
 
 
 ## Strike of the Giants
@@ -1434,7 +1434,7 @@ Non-gnolls in 60’ radius must make Will save DC 10 + 1/2 HD + Cha mod or becom
 Your extensive study of religion rewards you with the following benefits:
 * Increase your Intelligence score by 1, to a maximum of 20.
 * You gain proficiency in the Religion skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
-* You learn the [thaumaturgy](/Magic/Spells/thaumaturgy.md) and [detect evil and good](/Magic/Spells/detect-evil-and-good.md) spells. You can cast [detect evil and good](/Magic/Spells/detect-evil-and-good.md) once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+* You learn the [thaumaturgy](../Magic/Spells/thaumaturgy.md) and [detect evil and good](../Magic/Spells/detect-evil-and-good.md) spells. You can cast [detect evil and good](../Magic/Spells/detect-evil-and-good.md) once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
 
 
 ## Tough
@@ -1451,7 +1451,7 @@ Your mind’s defenses are formidable. After you or another creature you can see
 You have spent time hunting creatures and honed your skills, gaining the following benefits:
 
 * Increase your Wisdom score by 1, to a maximum of 20.
-* You learn the [hunter’s mark](/Magic/Spells/hunters-mark.md) spell. You can cast it once without expending a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast the spell using any spell slots you have. Wisdom is your spellcasting ability for this spell.
+* You learn the [hunter’s mark](../Magic/Spells/hunters-mark.md) spell. You can cast it once without expending a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast the spell using any spell slots you have. Wisdom is your spellcasting ability for this spell.
 * You have advantage on Wisdom (Survival) checks to track creatures.
 
 
@@ -1534,4 +1534,4 @@ You master the tinker techniques of your people. You gain the following benefits
 ## Wood Elf Magic
 *Prerequisite: Elf (wood)*
 
-You learn the magic of the primeval woods, which are revered and protected by your people. You learn one druid cantrip of your choice. You also learn the [longstrider](/Magic/Spells/longstrider.md) and [pass without trace](/Magic/Spells/pass-without-trace.md) spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Wisdom is your spellcasting ability for all three spells.
+You learn the magic of the primeval woods, which are revered and protected by your people. You learn one druid cantrip of your choice. You also learn the [longstrider](../Magic/Spells/longstrider.md) and [pass without trace](../Magic/Spells/pass-without-trace.md) spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Wisdom is your spellcasting ability for all three spells.

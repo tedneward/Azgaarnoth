@@ -1,4 +1,4 @@
-# Sylveinhold ([Liria](/Nations/Liria.md))
+# Sylveinhold ([Liria](../Nations/Liria.md))
 **Population:** 
 
 **Features:** 

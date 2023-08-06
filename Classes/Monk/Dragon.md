@@ -41,7 +41,7 @@ The draconic disciplines are listed in alphabetical order. If a discipline requi
 * **Dragon's Sight**. You can spend 2 ki points to gain darkvision out to 60 feet.
 * **Dragon's Strength** *(6th Level Required)*. You have learned to channel the unstoppable might of the dragons through your ki. You can spend 3 ki points on your bonus action to activate this ability. For as long as you maintain concentration (as if concentrating on a spell), for up to one minute, you gain advantage on Strength ability checks and saving throws, and you count as one size larger when determining your carrying capacity and the amount of weight you can manipulate.
 * **Dragon's Strike**. When you hit with a melee weapon attack, you can spend 2 ki points to deal extra damage. Choose a damage type: acid, cold, fire, lightning, or poison. Your attack deals an extra 1d10 damage of that type, plus 1d10 for every extra ki point above 2 that you spend.
-* **Dragon's Visage**. You can spend 2 ki points to cast [cause fear](/Magic/Spells/cause-fear.md).
+* **Dragon's Visage**. You can spend 2 ki points to cast [cause fear](../../Magic/Spells/cause-fear.md).
 * **Dragon's Will**. You can spend 2 ki points to make your mind nearly impenetrable. For as long as you maintain concentration (as if concentrating on a spell), for up to one minute, you become immune to fear and charming effects, and you have advantage on Wisdom saving throws.
 * **Dragon's Wings** *(11th Level Required)*. You can spend 4 ki points to cast fly, targeting yourself.
 * **Path of the Black Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [contagion]() as a fifth-level spell.

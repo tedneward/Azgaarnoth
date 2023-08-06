@@ -39,7 +39,7 @@ Several major religions dot the surface of Azgaarnoth:
 
     Holy symbol: A conch (or some other mollusk) shell, cleaned and polished
 
-* The [Kaevarian Church](/Religions/KaevarianChurch.md) is a monotheistic religion that actually encompasses all of the Pantheon (and the Eldar) as agents of a singular entity (Kaevar). Generally these clerics will be of  [Life](Cleric/Life.md), [Order](Cleric/Order.md), [Knowledge](Cleric/Knowledge.md), [Light](Cleric/Light.md) or [Unity](Cleric/Unity.md) domains, but a player wishing to be Kaevarian of a different domain can make the theological argument that since "all is Kaevar", so, too, should this domain be represented, and have solid theological ground on which to stand. Most Kaevarians would reject anything to do with chaos or evil; however, the branches of the Kaevarian Church in [Dradehalia](/Nations/Dradehalia.md) have been known to flirt with those domains as part of the [Dread Emperor](/People/DreadEmperor.md)'s plans.
+* The [Kaevarian Church](/Religions/KaevarianChurch.md) is a monotheistic religion that actually encompasses all of the Pantheon (and the Eldar) as agents of a singular entity (Kaevar). Generally these clerics will be of  [Life](Cleric/Life.md), [Order](Cleric/Order.md), [Knowledge](Cleric/Knowledge.md), [Light](Cleric/Light.md) or [Unity](Cleric/Unity.md) domains, but a player wishing to be Kaevarian of a different domain can make the theological argument that since "all is Kaevar", so, too, should this domain be represented, and have solid theological ground on which to stand. Most Kaevarians would reject anything to do with chaos or evil; however, the branches of the Kaevarian Church in [Dradehalia](../../Nations/Dradehalia.md) have been known to flirt with those domains as part of the [Dread Emperor](/People/DreadEmperor.md)'s plans.
 
 * [Draconic](Cleric/Dragon.md) clerics are almost always a member of the [Draconic Order](../../Organizations/DraconicOrder/DraconicOrder.md), or (for evil clerics) a member of the [Cult of the Wyrm](../../Organizations/CultOfTheWyrm.md), depending on whether they follow a metallic or chromatic dragon.
 
@@ -132,38 +132,37 @@ You can use a holy symbol as a spellcasting focus for your cleric spells.
 *1st-level cleric feature*
 
 Choose one domain:
-* [Arcana](Cleric/Arcana.md)
-* [Chaos](Cleric/Chaos.md)
-* [Death](Cleric/Death.md)
-* [Defier](Cleric/Defier.md)
-* [Desire](Cleric/Desire.md)
-* [Dragon](Cleric/Dragon.md)
-* Elements: [Air](Cleric/Air.md), [Earth](Cleric/Earth.md), [Fire](Cleric/Fire.md), [Water](Cleric/Water.md)
-* [Forge](Cleric/Forge.md)
-* [Grave](Cleric/Grave.md)
-* [Knowledge](Cleric/Knowledge.md)
-* [Life](Cleric/Life.md)
-* [Light](Cleric/Light.md)
-* [Luck](Cleric/Luck.md)
-* [Madness](Cleric/Madness.md)
-* [Nature](Cleric/Nature.md)
-* [Order](Cleric/Order.md)
-* [Protection](Cleric/Protection.md)
-* [Shadow](Cleric/Shadow.md)
-* [Tempest](Cleric/Tempest.md)
-* [Time](Cleric/Time.md)
-* [Trickery](Cleric/Trickery.md)
-* [Twilight](Cleric/Twilight.md)
-* [Unity](Cleric/Unity.md)
-* [War](Cleric/War.md)
-* [Zeal](Cleric/Zeal.md)
+* [Arcana](Arcana.md)
+* [Chaos](Chaos.md) (***NOTE:*** Requires GM work)
+* [Death](Death.md)
+* [Defier](Defier.md)
+* [Desire](Desire.md)
+* [Dragon](Dragon.md)
+* [Forge](Forge.md)
+* [Grave](Grave.md)
+* [Knowledge](Knowledge.md)
+* [Life](Life.md)
+* [Light](Light.md)
+* [Luck](Luck.md)
+* [Madness](Madness.md)
+* [Nature](Nature.md)
+* [Order](Order.md)
+* [Protection](Protection.md)
+* [Shadow](Shadow.md) (***NOTE:*** Requires GM work)
+* [Tempest](Tempest.md)
+* [Time](Time.md)
+* [Trickery](Trickery.md)
+* [Twilight](Twilight.md)
+* [Unity](Unity.md)
+* [War](War.md)
+* [Zeal](Zeal.md)
 
 Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use [Channel Divinity](#channel-divinity) when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
 ## Domain Spells
 *1st-level cleric feature*
 
-Each domain has a list of spells-its domain spells that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
+Each domain has a list of spells--its domain spells that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
 
 If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
@@ -204,6 +203,7 @@ Whenever you reach a level in this class that grants the Ability Score Improveme
 When an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown below:
 
 **Destroy Undead Table**
+
 Cleric Level | Destroys Undead of CR ...
 -------------|--------------------------
 5th | 1/2 or lower
@@ -226,332 +226,138 @@ Imploring your deity's aid requires you to use your action. Describe the assista
 
 At 20th level, your call for intervention succeeds automatically, no roll required.
 
-# Cleric Spells
-The following spells listed are available (but not necessarily accessible) to all clerics throughout Azgaarnoth; this is not the complete list of all cleric spells, however. Certain domains may have additional spells that are only known to their members. Clerics can learn new spells by visiting foreign temples, uncovering new prayer books in ancient ruins, or even beseeching their gods/goddesses for new knowledge, and so on. (In other words, DM's choice about adding new cleric spells to the "known" list, and the cleric may need to do some in-game activity or adventure to obtain them.)
+---
+
+# "Core" Cleric Spells
+The following spells listed are available to all clerics throughout Azgaarnoth; this is not the complete list of all cleric spells, however. Certain domains may have additional spells that are only known to their clergy. Clerics learn new spells by visiting foreign temples, uncovering domain-relevant prayer books in ancient ruins, or even beseeching their gods/goddesses for new knowledge, and so on.
+
+> ### GM Notes
+> These are all the spells found in the *Player's Handbook*, with no additions. In game terms, these spells are common spells, and are always accessible (subject to domain restrictions) for preparation.
+
 
 ## Cantrips
-* [ascending flame](/Magic/Spells/ascending-flame.md)
-* [balance](/Magic/Spells/balance.md)
-* [benediction](/Magic/Spells/benediction.md)
-* [bloodlink](/Magic/Spells/bloodlink.md)
-* [bolster](/Magic/Spells/bolster.md)
-* [brace](/Magic/Spells/brace.md)
-* [commendation](/Magic/Spells/commendation.md)
-* [courage](/Magic/Spells/courage.md)
-* [dazzle](/Magic/Spells/dazzle.md)
-* [disarm](/Magic/Spells/disarm.md)
-* [guidance](/Magic/Spells/guidance.md)
-* [light](/Magic/Spells/light.md)
-* [mending](/Magic/Spells/mending.md)
-* [renewal](/Magic/Spells/renewal.md)
-* [resistance](/Magic/Spells/resistance.md)
-* [sacred flame](/Magic/Spells/sacred-flame.md)
-* [spare the dying](/Magic/Spells/spare-the-dying.md)
-* [thaumaturgy](/Magic/Spells/thaumaturgy.md)
-* [toll the dead](/Magic/Spells/toll-the-dead.md)
-* [virtue](/Magic/Spells/virtue.md)
-* [word of radiance](/Magic/Spells/word-of-radiance.md)
-* Amanuensis
-* Astral Seal
-* Blazing Starfall 
-* Blood Curse 
-* Challenger’s Mark 
-* Fortifying Cry
-* Hand of Radiance
-* Leading Strike
-* Reaver’s Touch
-* Virtuous Strike
-* Voice of Battle
+* [guidance](../../Magic/Spells/guidance.md)
+* [light](../../Magic/Spells/light.md)
+* [mending](../../Magic/Spells/mending.md)
+* [resistance](../../Magic/Spells/resistance.md)
+* [sacred flame](../../Magic/Spells/sacred-flame.md)
+* [spare the dying](../../Magic/Spells/spare-the-dying.md)
+* [thaumaturgy](../../Magic/Spells/thaumaturgy.md)
 
 ## 1st Level
-* [attract projectiles](/Magic/Spells/attract-projectiles.md)
-* [bane](/Magic/Spells/bane.md)
-* [blackout](/Magic/Spells/blackout.md)
-* [bless](/Magic/Spells/bless.md)
-* [blood reading](/Magic/Spells/blood-reading.md)
-* [cause fear](/Magic/Spells/cause-fear.md)
-* [ceremony](/Magic/Spells/ceremony.md) (ritual)
-* [command](/Magic/Spells/command.md)
-* [create or destroy water](/Magic/Spells/create-or-destroy-water.md)
-* [cure wounds](/Magic/Spells/cure-wounds.md)
-* [detect evil and good](/Magic/Spells/detect-evil-and-good.md)
-* [detect magic](/Magic/Spells/detect-magic.md)
-* [detect poison and disease](/Magic/Spells/detect-poison-and-disease.md)
-* [divine favor](/Magic/Spells/divine-favor.md)
-* [flash](/Magic/Spells/flash.md)
-* [guiding bolt](/Magic/Spells/guiding-bolt.md)
-* [guiding hand](/Magic/Spells/guiding-hand.md)
-* [healing word](/Magic/Spells/healing-word.md)
-* [inflict wounds](/Magic/Spells/inflict-wounds.md)
-* [protection from evil and good](/Magic/Spells/protection-from-evil-and-good.md)
-* [purify food and drink](/Magic/Spells/purify-food-and-drink.md)
-* [sanctuary](/Magic/Spells/sanctuary.md)
-* [shield of faith](/Magic/Spells/shield-of-faith.md)
-* [shield of vanity](/Magic/Spells/shield-of-vanity.md)
-* [wrathful smite](/Magic/Spells/wrathful-smite.md)
-* Air Jaunt
-* Celestial Fist
-* Cleanse
-* Deathwatch
-* Dictation
-* Entropic Shield
-* Foundation of Stone
-* Frightful Strike
-* Numinous Shield
-* Prophesied Strike
-* Protection from Aerial Attack
-* Rejuvenate Self
-* Summons of Justice
-* Thundering Armor
-* Updraft
-* Vigor
-* Wailing Wind
+* [bane](../../Magic/Spells/bane.md)
+* [bless](../../Magic/Spells/bless.md)
+* [command](../../Magic/Spells/command.md)
+* [create or destroy water](../../Magic/Spells/create-or-destroy-water.md)
+* [cure wounds](../../Magic/Spells/cure-wounds.md)
+* [detect evil and good](../../Magic/Spells/detect-evil-and-good.md)
+* [detect magic](../../Magic/Spells/detect-magic.md)
+* [detect poison and disease](../../Magic/Spells/detect-poison-and-disease.md)
+* [guiding bolt](../../Magic/Spells/guiding-bolt.md)
+* [healing word](../../Magic/Spells/healing-word.md)
+* [inflict wounds](../../Magic/Spells/inflict-wounds.md)
+* [protection from evil and good](../../Magic/Spells/protection-from-evil-and-good.md)
+* [purify food and drink](../../Magic/Spells/purify-food-and-drink.md)
+* [sanctuary](../../Magic/Spells/sanctuary.md)
+* [shield of faith](../../Magic/Spells/shield-of-faith.md)
 
 ## 2nd Level
-* [aid](/Magic/Spells/aid.md)
-* [augury](/Magic/Spells/augury.md)
-* [blindness/deafness](/Magic/Spells/blindness-deafness.md)
-* [branding smite](/Magic/Spells/branding-smite.md)
-* [calm emotions](/Magic/Spells/calm-emotions.md)
-* [continual flame](/Magic/Spells/continual-flame.md)
-* [enhance ability](/Magic/Spells/enhance-ability.md)
-* [find traps](/Magic/Spells/find-traps.md)
-* [gentle repose](/Magic/Spells/gentle-repose.md)
-* [hold person](/Magic/Spells/hold-person.md)
-* [infuse blood](/Magic/Spells/infuse-blood.md)
-* [lesser restoration](/Magic/Spells/lesser-restoration.md)
-* [locate object](/Magic/Spells/locate-object.md)
-* [prayer of healing](/Magic/Spells/prayer-of-healing.md)
-* [protection from poison](/Magic/Spells/protection-from-poison.md)
-* [silence](/Magic/Spells/silence.md)
-* [spiritual weapon](/Magic/Spells/spiritual-weapon.md)
-* [warding bond](/Magic/Spells/warding-bond.md)
-* [zone of truth](/Magic/Spells/zone-of-truth.md)
-* Alicorn Lance
-* Align Weapon 
-* Blood Bond
-* Blood Wind
-* Body Blades
-* Chilling Scythe
-* Command Minor Beast
-* Curse of Ill Fortune
-* Desecrate
-* Elemental Blade
-* Energized Shield 
-* Invigorating Strike
-* Knight’s Move
-* Lava Missile
-* Lifetap
-* Sticks to Snakes
-* Unluck
-* Whip of Flame
+* [aid](../../Magic/Spells/aid.md)
+* [augury](../../Magic/Spells/augury.md)
+* [blindness/deafness](../../Magic/Spells/blindness-deafness.md)
+* [calm emotions](../../Magic/Spells/calm-emotions.md)
+* [continual flame](../../Magic/Spells/continual-flame.md)
+* [enhance ability](../../Magic/Spells/enhance-ability.md)
+* [find traps](../../Magic/Spells/find-traps.md)
+* [gentle repose](../../Magic/Spells/gentle-repose.md)
+* [hold person](../../Magic/Spells/hold-person.md)
+* [lesser restoration](../../Magic/Spells/lesser-restoration.md)
+* [locate object](../../Magic/Spells/locate-object.md)
+* [prayer of healing](../../Magic/Spells/prayer-of-healing.md)
+* [protection from poison](../../Magic/Spells/protection-from-poison.md)
+* [silence](../../Magic/Spells/silence.md)
+* [spiritual weapon](../../Magic/Spells/spiritual-weapon.md)
+* [warding bond](../../Magic/Spells/warding-bond.md)
+* [zone of truth](../../Magic/Spells/zone-of-truth.md)
 
 ## 3rd Level
-* [animate dead](/Magic/Spells/animate-dead.md)
-* [aura of vitality](/Magic/Spells/aura-of-vitality.md)
-* [beacon of hope](/Magic/Spells/beacon-of-hope.md)
-* [bestow curse](/Magic/Spells/bestow-curse.md)
-* [clairvoyance](/Magic/Spells/clarivoyance.md)
-* [create food and water](/Magic/Spells/create-food-and-water.md)
-* [daylight](/Magic/Spells/daylight.md)
-* [dispel magic](/Magic/Spells/dispel-magic.md)
-* [feign death](/Magic/Spells/feign-death.md)
-* [glyph of warding](/Magic/Spells/glyph-of-warding.md)
-* [healing wave](/Magic/Spells/healing-wave.md)
-* [magic circle](/Magic/Spells/magic-circle.md)
-* [mass healing word](/Magic/Spells/mass-healing-word.md)
-* [mass shield](/Magic/Spells/mass-shield.md)
-* [meld into stone](/Magic/Spells/meld-into-stone.md)
-* [protection from energy](/Magic/Spells/protection-from-energy.md)
-* [remove curse](/Magic/Spells/remove-curse.md)
-* [revivify](/Magic/Spells/revivify.md)
-* [sending](/Magic/Spells/sending.md)
-* [speak with dead](/Magic/Spells/speak-with-dead.md)
-* [spirit guardians](/Magic/Spells/spirit-guardians.md)
-* [spirit shroud](/Magic/Spells/spirit-shroud.md)
-* [tongues](/Magic/Spells/tongues.md)
-* [water walk](/Magic/Spells/water-walk.md) (ritual)
-* Blade of Pain and Fear
-* Cloak of Bravery 
-* Clutch of Orcus
-* Grace
-* Hearth Spirit
-* Holy Storm
-* Ice Axe
-* Knightly Intercession
-* Life Drain
-* Nauseating Breath
-* Poison
-* Predatory Shards
-* Quickening Breeze 
-* Redirect Spell 
-* Searing Light 
-* Shield of Warding 
-* Shroud of Undeath 
-* Storm Cone
-* Storm Shield
+* [animate dead](../../Magic/Spells/animate-dead.md)
+* [beacon of hope](../../Magic/Spells/beacon-of-hope.md)
+* [bestow curse](../../Magic/Spells/bestow-curse.md)
+* [clairvoyance](../../Magic/Spells/clarivoyance.md)
+* [create food and water](../../Magic/Spells/create-food-and-water.md)
+* [daylight](../../Magic/Spells/daylight.md)
+* [dispel magic](../../Magic/Spells/dispel-magic.md)
+* [glyph of warding](../../Magic/Spells/glyph-of-warding.md)
+* [magic circle](../../Magic/Spells/magic-circle.md)
+* [mass healing word](../../Magic/Spells/mass-healing-word.md)
+* [mass shield](../../Magic/Spells/mass-shield.md)
+* [meld into stone](../../Magic/Spells/meld-into-stone.md)
+* [protection from energy](../../Magic/Spells/protection-from-energy.md)
+* [remove curse](../../Magic/Spells/remove-curse.md)
+* [revivify](../../Magic/Spells/revivify.md)
+* [sending](../../Magic/Spells/sending.md)
+* [speak with dead](../../Magic/Spells/speak-with-dead.md)
+* [spirit guardians](../../Magic/Spells/spirit-guardians.md)
+* [tongues](../../Magic/Spells/tongues.md)
+* [water walk](../../Magic/Spells/water-walk.md) (ritual)
 
 ## 4th Level
-* [aura of life](/Magic/Spells/spells/aura-of-life.md)
-* [aura of purity](/Magic/Spells/spells/aura-of-purity.md)
-* [banishment](/Magic/Spells/banishment.md)
-* [control water](/Magic/Spells/control-water.md)
-* [corona](/Magic/Spells/corona.md)
-* [death ward](/Magic/Spells/death-ward.md)
-* [detect curses](/Magic/Spells/detect-curses.md)
-* [divination](/Magic/Spells/divination.md)
-* [enhance body](/Magic/Spells/enhance-body.md)
-* [freedom of movement](/Magic/Spells/freedom-of-movement.md)
-* [greater renewal](/Magic/Spells/greater-renewal.md)
-* [guardian of faith](/Magic/Spells/guardian-of-faith.md)
-* [hemorrhage](/Magic/Spells/hemorrhage.md)
-* [jinx](/Magic/Spells/jinx.md)
-* [locate creature](/Magic/Spells/locate-creature.md)
-* [stone shape](/Magic/Spells/stone-shape.md)
-* [strangulate](/Magic/Spells/strangulate.md)
-* Anyspell
-* Blistering Radiance
-* Blood Mantle
-* Breath of the Elements
-* Calm Winds
-* Consumptive Field
-* Crown of Light
-* Dragon Breath
-* Moon Bolt
-* Recitation
-* Resistance, Greater 
-* Sacred Strike
-* Shield of Faith, Mass
-* Spark of Life
-* Thunderous Reprisal
-* Wrack
+* [banishment](../../Magic/Spells/banishment.md)
+* [control water](../../Magic/Spells/control-water.md)
+* [death ward](../../Magic/Spells/death-ward.md)
+* [divination](../../Magic/Spells/divination.md)
+* [freedom of movement](../../Magic/Spells/freedom-of-movement.md)
+* [guardian of faith](../../Magic/Spells/guardian-of-faith.md)
+* [locate creature](../../Magic/Spells/locate-creature.md)
+* [stone shape](../../Magic/Spells/stone-shape.md)
 
 ## 5th Level
-* [blessing of luck](/Magic/Spells/blessing-of-luck.md)
-* [commune](/Magic/Spells/commune.md)
-* [contagion](/Magic/Spells/contagion.md)
-* [dispel evil and good](/Magic/Spells/dispel-evil-and-good.md)
-* [divine armor](/Magic/Spells/divine-armor.md)
-* [flame strike](/Magic/Spells/flame-strike.md)
-* [geas](/Magic/Spells/geas.md)
-* [greater restoration](/Magic/Spells/greater-restoration.md)
-* [hallow](/Magic/Spells/hallow.md)
-* [insect plague](/Magic/Spells/insect-plague.md)
-* [legend lore](/Magic/Spells/legend-lore.md)
-* [mass cure wounds](/Magic/Spells/mass-cure-wounds.md)
-* [planar binding](/Magic/Spells/planar-binding.md)
-* [raise dead](/Magic/Spells/raise-dead.md)
-* [reverse projectiles](/Magic/Spells/reverse-projectiles.md)
-* [scrying](/Magic/Spells/scrying.md)
-* [skill empowerment](/Magic/Spells/skill-empowerment.md)
-* [summon celestial](/Magic/Spells/summon-celestial.md)
-* [wall of light](/Magic/Spells/wall-of-light.md)
-* Caging Glaive
-* Champion’s Strength
-* Code of Secrecy
-* Curse of Ill Fortune, Mass
-* Doomtide
-* Earth Reaver
-* Lesser Chainfire
-* Life’s Grace
-* Pocket Cave
-* Righteous Might
-* Sanctuary, Mass
-* Soul Scour
-* Stalwart Pact
-* Stone Body
-* Valiant Fury
+* [commune](../../Magic/Spells/commune.md)
+* [contagion](../../Magic/Spells/contagion.md)
+* [dispel evil and good](../../Magic/Spells/dispel-evil-and-good.md)
+* [flame strike](../../Magic/Spells/flame-strike.md)
+* [geas](../../Magic/Spells/geas.md)
+* [greater restoration](../../Magic/Spells/greater-restoration.md)
+* [hallow](../../Magic/Spells/hallow.md)
+* [insect plague](../../Magic/Spells/insect-plague.md)
+* [legend lore](../../Magic/Spells/legend-lore.md)
+* [mass cure wounds](../../Magic/Spells/mass-cure-wounds.md)
+* [planar binding](../../Magic/Spells/planar-binding.md)
+* [raise dead](../../Magic/Spells/raise-dead.md)
+* [scrying](../../Magic/Spells/scrying.md)
 
 ## 6th Level
-* [blade barrier](/Magic/Spells/blade-barrier.md)
-* [create undead](/Magic/Spells/create-undead.md)
-* [find the path](/Magic/Spells/find-the-path.md)
-* [forbiddance](/Magic/Spells/forbiddance.md)
-* [harm](/Magic/Spells/harm.md)
-* [heal](/Magic/Spells/heal.md)
-* [heroes' feast](/Magic/Spells/heroes-feast.md)
-* [otherworldly form](/Magic/Spells/otherworldly-form.md) (UA*)
-* [planar ally](/Magic/Spells/planar-ally.md)
-* [soul blade](/Magic/Spells/soul-blade.md)
-* [sunbeam](/Magic/Spells/sunbeam.md)
-* [true seeing](/Magic/Spells/true-seeing.md)
-* [word of recall](/Magic/Spells/word-of-recall.md)
-* [zone of restoration](/Magic/Spells/zone-of-restoration.md)
-* Azuth’s Alteration Mantle
-* Bolt of Glory
-* Chain Madness
-* Crawling Darkness
-* Curse of the Everbleeding Wounds
-* Energy Immunity
-* Gravedust Cloud
-* Resistance, Superior
-* Shield of Warding, Mass 
-* Zealot Pact
+* [blade barrier](../../Magic/Spells/blade-barrier.md)
+* [create undead](../../Magic/Spells/create-undead.md)
+* [find the path](../../Magic/Spells/find-the-path.md)
+* [forbiddance](../../Magic/Spells/forbiddance.md)
+* [harm](../../Magic/Spells/harm.md)
+* [heal](../../Magic/Spells/heal.md)
+* [heroes' feast](../../Magic/Spells/heroes-feast.md)
+* [planar ally](../../Magic/Spells/planar-ally.md)
+* [true seeing](../../Magic/Spells/true-seeing.md)
+* [word of recall](../../Magic/Spells/word-of-recall.md)
 
 ## 7th Level
-* [conjure celestial](/Magic/Spells/conjure-celestial.md)
-* [death's door](/Magic/Spells/deaths-door.md)
-* [dire jinx](/Magic/Spells/dire-jinx.md)
-* [divine word](/Magic/Spells/divine-word.md)
-* [etherealness](/Magic/Spells/etherealness.md)
-* [fire storm](/Magic/Spells/fire-storm.md)
-* [plane shift](/Magic/Spells/plane-shift.md)
-* [regenerate](/Magic/Spells/regenerate.md)
-* [resurrection](/Magic/Spells/resurrection.md)
-* [symbol](/Magic/Spells/symbol.md)
-* Azuth’s Spell Shield
-* Brilliant Blade
-* Chariot of Sustarre 
-* Conjure Remorhaz 
-* Create Revenant
-* Death Dragon
-* Holy Star
-* Holy Word
-* Instill Vulnerability 
-* Mark of the Unfaithful
-* Radiant Assault
-* Stone Shape, Greater 
-* Symphonic Nightmare 
-* Vigorous Circle
-* Vortex
+* [conjure celestial](../../Magic/Spells/conjure-celestial.md)
+* [divine word](../../Magic/Spells/divine-word.md)
+* [etherealness](../../Magic/Spells/etherealness.md)
+* [fire storm](../../Magic/Spells/fire-storm.md)
+* [plane shift](../../Magic/Spells/plane-shift.md)
+* [regenerate](../../Magic/Spells/regenerate.md)
+* [resurrection](../../Magic/Spells/resurrection.md)
+* [symbol](../../Magic/Spells/symbol.md)
 
 ## 8th Level
-* [antimagic field](/Magic/Spells/antimagic-field.md)
-* [control weather](/Magic/Spells/control-weather.md)
-* [earthquake](/Magic/Spells/earthquake.md)
-* [holy aura](/Magic/Spells/holy-aura.md)
-* [soul expulsion](/Magic/Spells/soul-expulsion.md)
-* [sunburst](/Magic/Spells/sunburst.md)
-* [vertigo](/Magic/Spells/vertigo.md)
-* Brain Spider
-* Brand of Fire 
-* Brilliant Aura 
-* Conjure Dragon 
-* Crown of Glory 
-* Death Spider 
-* Dragon’s Roar 
-* General of Undeath 
-* Heat Drain
-* Mass Death Ward 
-* Stone Walk 
-* Stormrage
+* [antimagic field](../../Magic/Spells/antimagic-field.md)
+* [control weather](../../Magic/Spells/control-weather.md)
+* [earthquake](../../Magic/Spells/earthquake.md)
+* [holy aura](../../Magic/Spells/holy-aura.md)
 
 ## 9th Level
-* [astral projection](/Magic/Spells/astral-projection.md)
-* [frailty](/Magic/Spells/frailty.md)
-* [gate](/Magic/Spells/gate.md)
-* [mass heal](/Magic/Spells/mass-heal.md)
-* [omnisight](/Magic/Spells/omnisight.md)
-* [power word: heal](/Magic/Spells/power-word-heal.md)
-* [raise abomination](/Magic/Spells/raise-abomination.md)
-* [true resurrection](/Magic/Spells/true-resurrection.md)
-* Anathema
-* Awaken Construct
-* Energy Drain
-* Implosion
-* Monstrous Thrall
-* Plague of Undead 
-* Undeath’s Eternal Foe 
-* Visage of the Deity, Greater 
-* Volcanic Eruption
+* [astral projection](../../Magic/Spells/astral-projection.md)
+* [gate](../../Magic/Spells/gate.md)
+* [mass heal](../../Magic/Spells/mass-heal.md)
+* [true resurrection](../../Magic/Spells/true-resurrection.md)
 

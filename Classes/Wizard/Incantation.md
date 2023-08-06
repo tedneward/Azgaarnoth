@@ -29,17 +29,17 @@ Starting at 14th level, you have advantage on saving throws against spells and o
 # Incantation Spells
 
 ## 1st-level
-* [emparadweomer](/Magic/Spells/emparadweomer.md)
+* [emparadweomer](../../Magic/Spells/emparadweomer.md)
 
 ## 3rd-level
-* [maladweomer](/Magic/Spells/maladweomer.md)
+* [maladweomer](../../Magic/Spells/maladweomer.md)
 
 ## 4th-level
-* [pierce magic resistance](/Magic/Spells/pierce-magic-resistance.md)
+* [pierce magic resistance](../../Magic/Spells/pierce-magic-resistance.md)
 
 ## 7th-level
-* [spellsteal](/Magic/Spells/spellsteal.md)
+* [spellsteal](../../Magic/Spells/spellsteal.md)
 
 ## 9th-level
-* [pierce-any-shield](/Magic/Spells/pierce-any-shield.md)
+* [pierce-any-shield](../../Magic/Spells/pierce-any-shield.md)
 

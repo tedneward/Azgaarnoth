@@ -17,6 +17,6 @@ In addition, you can expend a spell slot to grant the weapon a bonus to attack r
 
 These effects last for 24 hours or until you use this property again.
 
-**Earthen Step (Complex Property).** While you are attuned to this rune, you can cast [meld into stone](/Magic/Spells/meld-into-stone.md) as a bonus action. You regain this ability after a short or long rest.
+**Earthen Step (Complex Property).** While you are attuned to this rune, you can cast [meld into stone](../Spells/meld-into-stone.md) as a bonus action. You regain this ability after a short or long rest.
 
 **Overwhelming Bolt (Complex Property).** As an action, you scribe this rune using dirt or crushed rock onto a creature within your reach as you expend a spell slot. The creature must succeed on a Strength saving throw (DC 12 + the level of the expended spell slot). On a failure, the creature takes 2d8 bludgeoning damage plus 1d8 bludgeoning damage per level of the expended spell slot and is knocked prone. On a successful saving throw, the creature takes half as much damage and is not knocked prone.

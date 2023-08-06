@@ -25,8 +25,8 @@
 
 **Innate Spellcasting**. The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 
-* *At will*: [fog cloud](/Magic/Spells/fog-cloud.md), [scorching ray](/Magic/Spells/scorching-ray.md)
-* *1/day each*: [heat metal](/Magic/Spells/heat-metal.md), [hellish rebuke](/Magic/Spells/hellish-rebuke.md), [stinking cloud](/Magic/Spells/stinking-cloud.md)
+* *At will*: [fog cloud](../Magic/Spells/fog-cloud.md), [scorching ray](../Magic/Spells/scorching-ray.md)
+* *1/day each*: [heat metal](../Magic/Spells/heat-metal.md), [hellish rebuke](../Magic/Spells/hellish-rebuke.md), [stinking cloud](../Magic/Spells/stinking-cloud.md)
 
 **Magic Resistance**. The hag has advantage on saving throws against spells and other magical effects.
 
@@ -50,7 +50,7 @@ Cinder hags often bind creatures of elemental fire into serving them. Most cinde
 
 **Covens**. A cinder hag that is part of a [coven](Hag-Covens.md) has a challenge rating of 7 (2,900 XP).
 
-Every cinder hag tends a large fire called a grimflame. A grimflame must be at least 10 feet high and 10 feet wide for the hag to use its magic. While the hag is within 10 feet of her grimflame, she can use an action to percieve anything happening within 1 mile of the grimflame, as if she had cast the [scrying](/Magic/Spells/scrying.md) spell.
+Every cinder hag tends a large fire called a grimflame. A grimflame must be at least 10 feet high and 10 feet wide for the hag to use its magic. While the hag is within 10 feet of her grimflame, she can use an action to percieve anything happening within 1 mile of the grimflame, as if she had cast the [scrying](../Magic/Spells/scrying.md) spell.
 
 As an action, the hag can command the grimflame to rise into a mobile form for 1 minute. The grimflame uses the below statistics and obeys any verbal commands given to it by the hag.
 

@@ -36,12 +36,12 @@ At 14th level, when you roll a 1 or 2 on a radiant damage die, you can reroll th
 # Luna Magi Spells
 
 ## 2nd-level
-* [lunar fire fist](/Magic/Spells/lunar-fire-fist.md)
+* [lunar fire fist](../../Magic/Spells/lunar-fire-fist.md)
 
 ## 3rd-level
-* [moon soul revival](/Magic/Spells/moon-soul-revival.md)
+* [moon soul revival](../../Magic/Spells/moon-soul-revival.md)
 
 ## 5th-level
-* [moon walk](/Magic/Spells/moon-walk.md)
-* [twinned lunar fire fist](/Magic/Spells/twinned-lunar-fire-fist.md)
+* [moon walk](../../Magic/Spells/moon-walk.md)
+* [twinned lunar fire fist](../../Magic/Spells/twinned-lunar-fire-fist.md)
 

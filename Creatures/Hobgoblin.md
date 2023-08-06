@@ -292,7 +292,7 @@ Hobgoblin Bladebearers are the solitary, legendary warriors of the hobgoblin spe
 
 > Bladebearers are often powerful warriors in their own right, and many have adventured solo or undertaken other activities to increase their personal martial skill; any such additional levels of Fighter would add on to this template. Many choose to specialize; the most popular specialization classes being [Weapon Master](/Classes/Fighter/WeaponMaster.md) and [Duelist](/Classes/Fighter/Duelist.md), but many also explore the mysteries of the [Psi Knight](/Classes/Fighter/PsiKnight.md), and a rare few have taken up the cause of the [Samurai](/Classes/Fighter/Samurai.md), particularly in the East.
 
-Among the [Tragedian United Hordes](/Nations/Tragekia.md), Bladebearers are known to participate and be members of the various [Dueling Colleges](../Organizations/DuelingColleges.md) there. Some will occasionally wander into [Liria](/Nations/Liria.md) in similar pursuit, though often meet with high amounts of distrust and unease, particularly if (when) they win.
+Among the [Tragedian United Hordes](../Nations/Tragekia.md), Bladebearers are known to participate and be members of the various [Dueling Colleges](../Organizations/DuelingColleges.md) there. Some will occasionally wander into [Liria](../Nations/Liria.md) in similar pursuit, though often meet with high amounts of distrust and unease, particularly if (when) they win.
 
 ---
 
@@ -506,7 +506,7 @@ The Mindbenders are Hobgoblin bards that serve as political officers across the 
 **Spellcaster** Sorcerer caster level 8th, spell attack bonus +7, Spell Save DC 15. 5 cantrips known, 9 spells known
 
 * *Cantrips*: acid splash, blade ward, fire bolt, message, true strike
-* *1st (4 slots)*: [chaos bolt](/Magic/Spells/chaos-bolt.md), fog cloud, shield
+* *1st (4 slots)*: [chaos bolt](../Magic/Spells/chaos-bolt.md), fog cloud, shield
 * *2nd (3 slots)*: cloud of daggers, invisibility
 * *3rd (3 slots)*: fireball, haste
 * *4th (2 slots)*: ice storm, summon aberrant spirit

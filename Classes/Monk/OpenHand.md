@@ -1,7 +1,7 @@
 # Monastic Tradition: Way of the Open Hand
 Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
 
-Open Hand monks are some of the easiest to find, and their monasteries equally so; many are found in cities (though heavily cordoned off from the city outside), and several are in fact attached to a [dueling college](../../Organizations/DuelingColleges.md) for a variety of reasons (both economical and spiritual). In [Yithi](/Nations/Yithi.md) and [Zhi](/Nations/Zhi.md), Open Hand monks and [Kensai](Kensai.md) monks are frequently found sparring against one another, though (usually) friendly.
+Open Hand monks are some of the easiest to find, and their monasteries equally so; many are found in cities (though heavily cordoned off from the city outside), and several are in fact attached to a [dueling college](../../Organizations/DuelingColleges.md) for a variety of reasons (both economical and spiritual). In [Yithi](../../Nations/Yithi.md) and [Zhi](../../Nations/Zhi.md), Open Hand monks and [Kensai](Kensai.md) monks are frequently found sparring against one another, though (usually) friendly.
 
 Many [mercenary companies](../../Organizations/MercCompanies/MercCompanies.md) employ Open Hand monks, frequently as teachers, however, rather than front-line troops.
 

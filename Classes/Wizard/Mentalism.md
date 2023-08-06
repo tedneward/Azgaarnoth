@@ -25,15 +25,15 @@ Starting at 14th level, when you take damage from an enemy's attack, you can use
 These spells are available to any wizard caster belonging to the school.
 
 ## 3rd-level
-* [psychic wind](/Magic/Spells/psychic-wind.md)
+* [psychic wind](../../Magic/Spells/psychic-wind.md)
 
 ## 5th-level
-* [mind hold](/Magic/Spells/mind-hold.md)
-* [tethered mind](/Magic/Spells/tethered-mind.md)
+* [mind hold](../../Magic/Spells/mind-hold.md)
+* [tethered mind](../../Magic/Spells/tethered-mind.md)
 
 ## 6th-level
-* [psychic armor](/Magic/Spells/psychic-armor.md)
+* [psychic armor](../../Magic/Spells/psychic-armor.md)
 
 ## 8th-level
-* [mind bomb](/Magic/Spells/mind-bomb.md)
+* [mind bomb](../../Magic/Spells/mind-bomb.md)
 

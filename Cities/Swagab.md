@@ -1,4 +1,4 @@
-# Swagab ([Tragekia](/Nations/Tragekia.md))
+# Swagab ([Tragekia](../Nations/Tragekia.md))
 **Population:** 
 
 **Features:** 

@@ -5,7 +5,9 @@ These druids seek out lands that have been tainted by undeath. Such places are g
 
 ## Harvest’s Scythe
 Starting at 2nd level, you learn to unravel and harvest the life energy of other creatures. You can augment your spells to drain the life force from creatures. You have a pool of energy represented by a number of d10s equal to your druid level.
+
 When you roll damage for a spell, you can increase that damage by spending dice from the pool. You can spend a number of dice equal to half your druid level or less. Roll the spent dice and add them to the damage as necrotic damage. If you kill one or more hostile creatures with a spell augmented in this way, you or an ally of your choice that you can see within 30 feet of you regains 2 hit points per die spent to increase the spell’s damage, or 5 hit points per die if at least one of the slain creatures was undead.
+
 You regain the expended dice when you finish a long rest.
 
 ## Speech Beyond the Grave
@@ -17,5 +19,3 @@ At 10th level, you gain resistance to necrotic and radiant damage. In addition, 
 
 ## Paths of the Dead
 At 14th level, your mastery of death allows you to tread the paths used by ghosts and other spirits. Using this feature, you can cast etherealness. Once the spell ends, you can’t cast it with this feature again until you finish a short or long rest.
-
-*Source: [Unearthed Arcana: Druid Circles and Wild Shape](https://dnd.wizards.com/articles/unearthed-arcana/druid-circles-and-wild-shape)*

@@ -26,18 +26,18 @@ Starting at 14th level, on your next turn after using Kinetic Shield, you can ta
 # Battle Mage Unique Spells
 
 ## 1st-level
-* [warding blade](/Magic/Spells/warding-blade.md)
+* [warding blade](../../Magic/Spells/warding-blade.md)
 
 ## 2nd-level
-* [aggressive surge](/Magic/Spells/aggressive-surge.md)
+* [aggressive surge](../../Magic/Spells/aggressive-surge.md)
 
 ## 3rd-level
-* [hungering blade](/Magic/Spells/hungering-blade.md)
+* [hungering blade](../../Magic/Spells/hungering-blade.md)
 
 ## 4th-level
-* [arcane resilience](/Magic/Spells/arcane-resilience.md)
+* [arcane resilience](../../Magic/Spells/arcane-resilience.md)
 
 ## 5th-level
-* [blessing of the elements](/Magic/Spells/blessing-of-the-elements.md)
+* [blessing of the elements](../../Magic/Spells/blessing-of-the-elements.md)
 
 *Source: Blackstaff's Tome of Wizardry*

@@ -11,33 +11,33 @@
 (Arabic grasslands/plains)
 
 ## Relations
-[Almalz](/Nations/Almalz.md):
+[Almalz](../Nations/Almalz.md):
 
-[Bagonbia](/Nations/Bagonbia.md): Neutral.
+[Bagonbia](../Nations/Bagonbia.md): Neutral.
 
-[Bedia](/Nations/Bedia.md):
+[Bedia](../Nations/Bedia.md):
 
-[Dradehalia](/Nations/Dradehalia.md):
+[Dradehalia](../Nations/Dradehalia.md):
 
-**[Liria](/Nations/Liria.md)**: Alalihat's adherence to the words of the Prophet create tensions between Liria and Alalihat, since Alilhatians believe Liria "screwed it up" by not adopting the Prophet's theology sooner. As a result, most Alalihatians believe Lirians to be ignorant at best, deliberately deceitful at worst.
+**[Liria](../Nations/Liria.md)**: Alalihat's adherence to the words of the Prophet create tensions between Liria and Alalihat, since Alilhatians believe Liria "screwed it up" by not adopting the Prophet's theology sooner. As a result, most Alalihatians believe Lirians to be ignorant at best, deliberately deceitful at worst.
 
-[Mighalia](/Nations/Mighalia.md):
+[Mighalia](../Nations/Mighalia.md):
 
-[Tragekia](/Nations/Tragekia.md):
+[Tragekia](../Nations/Tragekia.md):
 
-[Travenia](/Nations/Travenia.md):
+[Travenia](../Nations/Travenia.md):
 
-[Travesimia](/Nations/Travesimia.md):
+[Travesimia](../Nations/Travesimia.md):
 
-[Ulm](/Nations/Ulm.md):
+[Ulm](../Nations/Ulm.md):
 
-[Whaveminsia](/Nations/Whaveminsia.md):
+[Whaveminsia](../Nations/Whaveminsia.md):
 
-[Yithi](/Nations/Yithi.md): 
+[Yithi](../Nations/Yithi.md): 
 
-[Zabalasa](/Nations/Zabalasa.md):
+[Zabalasa](../Nations/Zabalasa.md):
 
-[Zhi](/Nations/Zhi.md):
+[Zhi](../Nations/Zhi.md):
 
 ## Tribes of Alalihat
 

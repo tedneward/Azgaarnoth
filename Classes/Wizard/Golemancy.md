@@ -32,12 +32,12 @@ Whenever the golem has a spell stored within it, at the start of each of its tur
 # Golemancy Spells
 
 ## 2nd-level
-* [siege imbuement](/Magic/Spells/siege-imbuement.md)
-* [self destruct](/Magic/Spells/self-destruct.md)
+* [siege imbuement](../../Magic/Spells/siege-imbuement.md)
+* [self destruct](../../Magic/Spells/self-destruct.md)
 
 ## 3rd-level
-* [corrosive covering](/Magic/Spells/corrosive-covering.md)
+* [corrosive covering](../../Magic/Spells/corrosive-covering.md)
 
 ## 4th-level
-* [detect magical object](/Magic/Spells/detect-magical-object.md)
+* [detect magical object](../../Magic/Spells/detect-magical-object.md)
 

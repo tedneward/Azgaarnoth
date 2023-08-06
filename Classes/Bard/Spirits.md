@@ -25,6 +25,7 @@ You can retain only one of these tales in mind at a time, and rolling on the Spi
 If the tale requires a saving throw, the DC equals your spell save DC.
 
 **Spirits’ Tales**
+
 Bardic Insp. Die|Tale
 ----------------|----
 1|**Beast.** You recite the tale of a clever animal. For 1 minute, the target has advantage on Wisdom (Perception) checks and advantage on attack rolls against a creature if another enemy is within 5 feet of it, and that enemy isn’t incapacitated.
@@ -42,24 +43,12 @@ Bardic Insp. Die|Tale
 
 ## Spirit Session
 6th-level College of Spirits feature
-You can channel spirits to gain insights into
-magic. You can conduct an hour-long ritual
-channeling spirits (which can be done during a
-short or long rest) using your Spiritual Focus. You can conduct the ritual with a number of
-creatures equal to your proficiency bonus
-(including yourself). At the end of the ritual, you
-temporarily learn one spell of your choice from
-any class.
-The spell you choose must be of a level equal
-to the number of creatures that conducted the
-ritual or less, the spell must of a level you can
-cast, and it must be in the school of divination or
-necromancy. The chosen spell counts as a bard
-spell for you but doesn’t count against the
-number of bard spells you know.
-Once you perform the ritual, you can’t do so
-again until you start a long rest, and you know
-the chosen spell until you start a long rest.
+
+You can channel spirits to gain insights into magic. You can conduct an hour-long ritual channeling spirits (which can be done during a short or long rest) using your Spiritual Focus. You can conduct the ritual with a number of creatures equal to your proficiency bonus (including yourself). At the end of the ritual, you temporarily learn one spell of your choice from any class.
+
+The spell you choose must be of a level equal to the number of creatures that conducted the ritual or less, the spell must of a level you can cast, and it must be in the school of divination or necromancy. The chosen spell counts as a bard spell for you but doesn’t count against the number of bard spells you know.
+
+Once you perform the ritual, you can’t do so again until you start a long rest, and you know the chosen spell until you start a long rest.
 
 ## Mystical Connection
 *14th-level College of Spirits feature*

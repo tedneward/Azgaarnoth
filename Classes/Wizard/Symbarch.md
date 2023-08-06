@@ -36,12 +36,12 @@ Once you use this feature, you cannot use it again until you finish a short or l
 # Symbarch Spells
 
 ## 3rd-level
-* [Laeral's dancing dweomer](/Magic/Spells/laerals-dancing-dweomer.md)
-* [no more lies](/Magic/Spells/no-more-lies.md)
+* [Laeral's dancing dweomer](../../Magic/Spells/laerals-dancing-dweomer.md)
+* [no more lies](../../Magic/Spells/no-more-lies.md)
 
 ## 7th-level
-* [Simbul's spell sequencer](/Magic/Spells/simbuls-spell-sequencer.md)
+* [Simbul's spell sequencer](../../Magic/Spells/simbuls-spell-sequencer.md)
 
 ## 9th-level
-* [Alamanther's return](/Magic/Spells/alamanthers-return.md)
+* [Alamanther's return](../../Magic/Spells/alamanthers-return.md)
 

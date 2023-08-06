@@ -1,4 +1,4 @@
-# Silbel ([Travenia](/Nations/Travenia.md))
+# Silbel ([Travenia](../Nations/Travenia.md))
 **Population:** 
 
 **Features:** 

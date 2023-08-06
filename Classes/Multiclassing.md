@@ -105,7 +105,7 @@ Level|1st|2nd|3rd|4th|5th|6th|7th|8th|9th
 19th | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 |1
 20th | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 |1
 
-If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like [burning hands](/Magic/Spells/burning-hands.md), has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
+If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like [burning hands](../../Magic/Spells/burning-hands.md), has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
 
 For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know — and potentially enhance their effects.
 

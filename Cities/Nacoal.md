@@ -1,4 +1,4 @@
-# Nacoal ([Zhi](/Nations/Zhi.md))
+# Nacoal ([Zhi](../Nations/Zhi.md))
 **Population:** 
 
 **Features:** 

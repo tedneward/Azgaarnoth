@@ -21,21 +21,21 @@ You can use this ability once per long rest.
 # Ferromancy Spells
 
 ## Cantrips
-* [flechette](/Magic/Spells/flechette.md)
+* [flechette](../../Magic/Spells/flechette.md)
 
 ## 2nd-level
-* [chaotic polarity aura](/Magic/Spells/chaotic-polarity-aura.md)
+* [chaotic polarity aura](../../Magic/Spells/chaotic-polarity-aura.md)
 
 ## 3rd-level
-* [flechette spray](/Magic/Spells/flechette-spray.md)
-* [rusting grasp](/Magic/Spells/rusting-grasp.md)
+* [flechette spray](../../Magic/Spells/flechette-spray.md)
+* [rusting grasp](../../Magic/Spells/rusting-grasp.md)
 
 ## 4th-level
-* [rusting burst](/Magic/Spells/rusting-burst.md)
+* [rusting burst](../../Magic/Spells/rusting-burst.md)
 
 ## 5th-level
-* [flechette storm](/Magic/Spells/flechette-storm.md)
+* [flechette storm](../../Magic/Spells/flechette-storm.md)
 
 ## 6th-level
-* [rust field](/Magic/Spells/rust-field.md)
+* [rust field](../../Magic/Spells/rust-field.md)
 
