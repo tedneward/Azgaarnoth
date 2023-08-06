@@ -7,22 +7,12 @@ Zhi is a nation of fascinating energy and culture. Long ago, this territory (and
 
 While Yithi sought to bring the remaining tribes in the south under a direct, strong control, many of his more intellectual and spiritual advisors moved north, partly to escape the ongoing conflict, and partly because they felt a calling to find a place where they could study Yithi's message more deeply and holistically. Eventually finding a comfortable site near where [Nacoal](/Cities/Nacoal.md) now rests, these formed the first Council of Seers, and over time, those of the ex-Hordes who felt more drawn to martial pursuits or a more regimented society moved south, to join the tribes of the Principality, while those who felt drawn to higher learning and contemplative life moved north, and slowly populated the (then-)empty lands. Over time, Zhi became a nation thoroughly mixed of farmers, heders, and philosophers, and as Yithi found itself battling Zalabasa to the west and the Hordes to the south, Zhi became a haven and source of foodstuff, spiritual and arcane advice, and other support.
 
-## Population
-Without a doubt, Zhi is the most evenly-populated nation in all of Azgaarnoth, if lightly so. Almost a million sentient beings are mostly evenly divided among her three larger provinces (the fourth, Cinhu, being by far the smallest by an order of magnitude), and generally the races intermingle freely and openly--it is extremely rare to find a "elves' quarter" or "halfling shire" anywhere within the borders of Zhi, although it is often that some of the racial styles are populated by a cross-section of races. In fact, in Yeqasha Province the halfling "shire" style of architecture--that of "halfling-holes" in the ground--is quite popular among all the races, as homes buried in ground are quite cool during the hottest parts of the day. Some have even found ways to farm the ground above their home.
-
 ## Geography
 ![Zhian geography](Zhi.jpeg)
 
 Surrounded by water on three sides, the lands of Zhi are hot and wet. Swamps, marshlands, and grasslands dominate the geography of Zhi, making rice a staple for the diet of Zhis. Much of her goods are moved either over merchant shipping around the coastline, or over the Great Road that runs from [Nacoal](../Cities/Nacoal.md) to [Kraston](../Cities/Kraston.md).
 
 The geography suits the Zhis, however--their daily regiment will often consist of farming or other menial tasks in the mornings and evenings, when it is cool, retiring indoors to shade and breeze to study or meditate during the hottest parts of the day. Frequent rainstorms during the afternoons will often aid in the contemplation of the universe.
-
-## Culture
-Zhi is a nation of philosophers, astronomers, poets, artists, and more. Higher learning is the highest calling among the Zhi, and as a nation they show little reverence for gods or Eldar, but instead choose to commune with the spirits of those who have come before them, or with beings far beyond mortal comprehension. They openly welcome all religious thought, however, because if the mysteries of the universe are beyond mortal comprehension, who is to say that which religion is right, or wrong, or even real?
-
-Today, Zhi is a land of quiet contemplation, with much energy devoted to the unraveling of the secrets of the universe. Monastic orders are found in quite a few places, and monks are frequently found wandering the roads, trading manual labor in the fields in return for a night's room and board, which the villagers are entirely happy to provide. The unbelievably equal mix of races in Zhi means that racial differences are almost entirely unseen; it is not uncommon to see orcs and elves studying the stars together, dwarves and goblins will often toil together over the same book or forge, and halflings will happily feed them all.
-
-Zhi is also home to the small numbers of [yuan-ti](../Races/YuanTi.md) and [kenku](../Races/Kenku.md) within Azgaarnoth, and recently have seen settlements of [lizardfolk](../Races/Lizardfolk.md) and even more open visitations from [tortles](../Races/Tortles.md) and [tritons](../Races/Tritons.md), which make more than a few in the south and the west somewhat nervous at what might be happening there without their knowledge.
 
 ## Government
 Zhi is a theocracy, governed by a Council of Seers, of whom they periodically select one of their own to stand in as executive for a time of some years (the number is never declared ahead of time). This High Theocrat serves as the deciding vote in any Council discussion, and their decision is final--until the next High Theocrat chooses to listen to a challenge to that decision brought within the Council. To many outsiders, this way of governing seems pointless and redundant, but to the Zhi, any decision important enough must be revisited from time to time, and they find this mode works for them--as it has for the past milennium.
@@ -41,6 +31,16 @@ Zhi is made up of four provinces:
 * **Onhaven** to the southwest of Rhial, bordering on Yithi.
 
 * **Cinhu** is made up of two "fragments" of land: the Island of Cinhu off the Zhian northwestern coast, and a small portion of land purchased from the Dheubpurwen tribe of the Yithi. These lands seem to be given over almost entirely to the [yuan-ti](../Races/YuanTi.md) and [lizardfolk](../Races/Lizardfolk.md) 
+
+## Population
+Without a doubt, Zhi is the most evenly-populated nation in all of Azgaarnoth, if lightly so. Almost a million sentient beings are mostly evenly divided among her three larger provinces (the fourth, Cinhu, being by far the smallest by an order of magnitude), and generally the races intermingle freely and openly--it is extremely rare to find a "elves' quarter" or "halfling shire" anywhere within the borders of Zhi, although it is often that some of the racial styles are populated by a cross-section of races. In fact, in Yeqasha Province the halfling "shire" style of architecture--that of "halfling-holes" in the ground--is quite popular among all the races, as homes buried in ground are quite cool during the hottest parts of the day. Some have even found ways to farm the ground above their home.
+
+Zhi is also home to the small numbers of [yuan-ti](../Races/YuanTi.md) and [kenku](../Races/Kenku.md) within Azgaarnoth, and recently have seen settlements of [lizardfolk](../Races/Lizardfolk.md) and even more open visitations from [tortles](../Races/Tortles.md) and [tritons](../Races/Tritons.md), which make more than a few in the south and the west somewhat nervous at what might be happening there without their knowledge.
+
+## Culture
+Zhi is a nation of philosophers, astronomers, poets, artists, and more. Higher learning is the highest calling among the Zhi, and as a nation they show little reverence for gods or Eldar, but instead choose to commune with the spirits of those who have come before them, or with beings far beyond mortal comprehension. They openly welcome all religious thought, however, because if the mysteries of the universe are beyond mortal comprehension, who is to say that which religion is right, or wrong, or even real?
+
+Today, Zhi is a land of quiet contemplation, with much energy devoted to the unraveling of the secrets of the universe. Monastic orders are found in quite a few places, and monks are frequently found wandering the roads, trading manual labor in the fields in return for a night's room and board, which the villagers are entirely happy to provide. The unbelievably equal mix of races in Zhi means that racial differences are almost entirely unseen; it is not uncommon to see orcs and elves studying the stars together, dwarves and goblins will often toil together over the same book or forge, and halflings will happily feed them all.
 
 ## Relations
 **[Alalihat](Alalihat.md)**:

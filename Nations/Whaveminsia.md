@@ -1,11 +1,19 @@
 # Whaveminsia
-* **Government**: Confederation/Empire
+* **Government**: Confederation
 * **Capital**: [Lashal](../Cities/Lashal.md)
 * **Population**: (~40% human, ~40% firstborn, ~15% Created, ~5% other)
 
 ## Geography
 ![Whaveminsian geography](Whaveminsia.jpeg)
 
+## Government
+**TODO**, First Minister
+
+## Political Structure
+
+## Population
+
+## Culture
 
 ## Relations
 [Alalihat](../Nations/Alalihat.md):

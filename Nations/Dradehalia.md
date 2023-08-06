@@ -6,6 +6,13 @@
 ## Geography
 ![Dradehalian geography](Dradehalia.jpeg)
 
+## Government
+
+## Political Structure
+
+## Population
+
+## Culture
 
 ## Relations
 [Alalihat](../Nations/Alalihat.md):

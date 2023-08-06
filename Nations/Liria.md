@@ -11,12 +11,17 @@ Liria is also a nation that is collapsing at the seams, with a very weak central
 
 If Liria could ever see a strong leader emerge onto its Imperial Throne, it is likely that the nation could be re-forged into a single entity, and Liria might be able to recapture much of its former glory. Beset with all of the battles on all of its fronts, however, Liria struggles to make gains, and as such sits on the edge of either chaos or resurgence.
 
-## Population
-
 ## Geography
 ![Lirian geography](Liria.jpeg)
 
+## Government
+**TODO**, Emperor of the Lirian Confederation, Lord of Azgaarnoth, General of the Armies of the Eldar
 
+## Political Structure
+
+## Population
+
+## Culture
 
 ## Relations
 [**Alalihat**](../Nations/Alalihat.md): Strained. Lirians in general don't think a great deal about Alalihatian theology, and find their insistence on matters of ancient history to be tiring and irrelevant. The average Lirian would rather focus on the modern problem, rather than pining after the past.

@@ -3,22 +3,33 @@
 * **Capital**: [Zvelaino](../Cities/Zvelaino.md)
 * **Population**: 
 
-
 ## Geography
 ![Alalihatian geography](Alalihat.jpeg)
 
 (Arabic grasslands/plains)
 
+## Government
+**TODO**, Caliph of Alalihat, Defender of the Faith
+
+Alalihat is a caliphate...
+
+## Political Structure
+
+## Population
+Alalihat's population, like that of the other two nations on the Al'Uman continent, is split between those who dwell within the cities, and those who continue the nomadic traditions of their ancestors. 
+
+## Culture
+
 ## Relations
-**[Almalz](Almalz.md)**:
+**[Almalz](Almalz.md)**: Peace. Almalz is filled with cousins and relatives of the Zabalasan tribes, and officially is the sacred Caliphate that guards the relics of the Prophet and his Disciple. Zabalasans and Alalihatians will stab each other mercilessly outside of Almalz, but within, maintain a tense and careful peace. (Of course, this in no way stops espionage and spycraft, and many's the murder in the Almalzian city that goes officially uninvestigated.)
 
-**[Bagonbia](Bagonbia.md)**: Neutral.
+**[Bagonbia](Bagonbia.md)**: Neutral; indifferent. A distant trading partner, but little to no official contact beyond that.
 
-**[Bedia](Bedia.md)**:
+**[Bedia](Bedia.md)**: Neutral; indifferent. A distant trading partner, but little to no official contact beyond that.
 
-**[Dradehalia](Dradehalia.md)**:
+**[Dradehalia](Dradehalia.md)**: Cautious. 
 
-**[Liria](Liria.md)**: Alalihat's adherence to the words of the Prophet create tensions between Liria and Alalihat, since Alilhatians believe Liria "screwed it up" by not adopting the Prophet's theology sooner. As a result, most Alalihatians believe Lirians to be ignorant at best, deliberately deceitful at worst.
+**[Liria](Liria.md)**: Cautious; skirmishes. Alalihat's adherence to the words of the Prophet create tensions between Liria and Alalihat, since Alilhatians believe Liria "screwed it up" by not adopting the Prophet's theology sooner. As a result, most Alalihatians believe Lirians to be ignorant at best, deliberately deceitful at worst. The two nations have been at war in the past, but not recently, and the war with the infidels to the east consumes more of the common Alalihatian's interest and passion than battles with the ignorant west.
 
 **[Mighalia](Mighalia.md)**:
 

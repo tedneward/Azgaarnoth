@@ -3,12 +3,19 @@
 * **Capital**: [Merevets](../Cities/Merevets.md)
 * **Population**: 
 
-## Population
-
 ## Geography
 ![Almalzish geography](Almalz.jpeg)
 
 ## Government
+**TODO**, Caliph of Almalz, Defender of the Faith
+
+Almalz is a caliphate...
+
+## Political Structure
+
+## Population
+
+## Culture
 
 ## Relations
 [Alalihat](../Nations/Alalihat.md):
