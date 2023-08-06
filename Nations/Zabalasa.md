@@ -1,5 +1,7 @@
 # Zabalasa / Caliphate of Zabalasa
-Capital: [Svishek](/Cities/Svishek.md)
+* **Government**: Confederation/Empire
+* **Capital**: [Svishek](../Cities/Svishek.md)
+* **Population**: 
 
 ## Geography
 ![Zabalasan geography](Zabalasa.jpeg)

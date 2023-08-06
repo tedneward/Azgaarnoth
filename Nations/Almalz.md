@@ -1,5 +1,7 @@
 # Almalz / Protectorate of Almalz
-Capital: [Merevets](/Cities/Merevets.md)
+* **Government**: Caliphate
+* **Capital**: [Merevets](../Cities/Merevets.md)
+* **Population**: 
 
 ## Population
 

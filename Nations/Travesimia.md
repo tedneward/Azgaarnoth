@@ -1,5 +1,7 @@
 # Travesimia / Kingdom of Travesimia
-Capital: [Dirter](/Cities/Dirter.md)
+* **Government**: Kingdom
+* **Capital**: [Dirter](../Cities/Dirter.md)
+* **Population**: (~40% human, ~40% firstborn, ~15% Created, ~5% other)
 
 ## Geography
 ![Travesimian geography](Travesimia.jpeg)

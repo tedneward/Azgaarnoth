@@ -1,5 +1,7 @@
 # Ulm / The Horde of Ulm / The Ulmhorde
-Capital: [Klilim](/Cities/Klilim.md)
+* **Government**: Tribal Dictatorship
+* **Capital**: [Klilim](../Cities/Klilim.md)
+* **Population**: 5+ million (~80% Hordish, ~10% human, ~5% Created, ~5% Firstborn)
 
 ## Geography
 ![Ulmish geography](Ulm.jpeg)

@@ -1,5 +1,7 @@
 # Whaveminsia
-Capital: [Lashal](/Cities/Lashal.md)
+* **Government**: Confederation/Empire
+* **Capital**: [Lashal](../Cities/Lashal.md)
+* **Population**: (~40% human, ~40% firstborn, ~15% Created, ~5% other)
 
 ## Geography
 ![Whaveminsian geography](Whaveminsia.jpeg)

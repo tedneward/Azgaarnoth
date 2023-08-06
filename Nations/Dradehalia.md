@@ -1,4 +1,7 @@
 # Dradehalia / Dradehalian Empire / "Dread Empure"
+* **Government**: Empire
+* **Capital**: 
+* **Population**: 3+ million (~40% human, ~40% firstborn, ~20% Created, ~1% Hordish)
 
 ## Geography
 ![Dradehalian geography](Dradehalia.jpeg)
