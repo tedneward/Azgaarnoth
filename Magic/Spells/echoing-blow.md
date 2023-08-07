@@ -1,5 +1,5 @@
 #### Echoing Blow
-*Abjuration cantrip (Artificer,Bard,Sorcerer,Warlock,Wizard)
+*Abjuration cantrip* (Artificer,Bard,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet
@@ -18,6 +18,7 @@ addition, if this attack causes the target to make a
 Constitution saving throw to maintain
 concentration on a spell, that saving throw is made
 with disadvantage.
+
 This spell's damage increases when you reach
 higher levels. At 5th level, the melee attack deals an
 extra 1d6 thunder damage to the target (whether or

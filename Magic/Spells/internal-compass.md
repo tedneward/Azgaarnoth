@@ -1,5 +1,5 @@
 #### Internal Compass
-*Divination cantrip (Artificer,Druid)
+*Divination cantrip* (Artificer,Druid)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 90 feet

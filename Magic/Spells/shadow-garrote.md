@@ -1,5 +1,5 @@
 #### Shadow Garrote
-*evocation cantrip (Bard,Druid,Ranger,Shaman,Sorcerer,Wizard)
+*evocation cantrip* (Bard,Druid,Ranger,Shaman,Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 Action
 - **Range:** 30ft

@@ -1,5 +1,5 @@
 #### Thought Projection
-*Enchantment cantrip (Sorcerer)
+*Enchantment cantrip* (Sorcerer)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 30 feet

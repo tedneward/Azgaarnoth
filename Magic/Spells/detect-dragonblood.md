@@ -1,5 +1,5 @@
 #### Detect Dragonblood
-*Divination cantrip (Druid,Sorcerer)
+*Divination cantrip* (Druid,Sorcerer)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet
@@ -16,8 +16,3 @@ a Wisdom saving throw against your spell save DC.
 On a failed save, you are frightened by the nearest
 dragon or half-dragon you detect until the end of
 your next turn.
-"This cantrip be one of a handful of
-divinations which offer powerful
-glimpses into the true nature of
-creatures around ye. Glimpse too often,
-however, and the creatures ye seek

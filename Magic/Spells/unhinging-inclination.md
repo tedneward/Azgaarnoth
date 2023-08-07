@@ -1,5 +1,5 @@
 #### Unhinging Inclination
-*Divination cantrip (Bard,Cleric)
+*Divination cantrip* (Bard,Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

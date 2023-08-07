@@ -1,5 +1,5 @@
 #### Rancorous-Mist Blade
-*Conjuration cantrip (Pale Master,Sorcerer,Warlock,Wizard)
+*Conjuration cantrip* (Pale Master,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 5 feet

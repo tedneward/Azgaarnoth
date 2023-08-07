@@ -1,5 +1,5 @@
 #### Eidolic Chains
-*conjuration cantrip (Bard,Pale Master,Sorcerer,Warlock,Wizard)
+*conjuration cantrip* (Bard,Pale Master,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

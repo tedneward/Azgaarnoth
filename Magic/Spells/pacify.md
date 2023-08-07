@@ -1,5 +1,5 @@
 #### Pacify
-*Evocation cantrip (Bard,Cleric,Druid,Pale Master)
+*Evocation cantrip* (Bard,Cleric,Druid,Pale Master)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

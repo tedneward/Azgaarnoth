@@ -1,5 +1,5 @@
 #### Challenger's Mark
-*Enchantment cantrip (Artificer,Cleric,Sorcerer,Warlock,Wizard)
+*Enchantment cantrip* (Artificer,Cleric,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 5 feet

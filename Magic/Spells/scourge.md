@@ -1,5 +1,5 @@
 #### Scourge
-*Necromancy cantrip (Pale Master)
+*Necromancy cantrip* (Pale Master)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

@@ -1,5 +1,5 @@
 #### Melf's Most Mintue Meteor
-*evocation cantrip (Wizard)
+*evocation cantrip* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

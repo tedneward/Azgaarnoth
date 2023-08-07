@@ -1,5 +1,5 @@
 #### Fleet Foot
-*Transmutation cantrip (Wizard)
+*Transmutation cantrip* (Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Touch

@@ -1,5 +1,5 @@
 #### Peaceful Valediction
-*Necromancy cantrip (Cleric,Druid,Pale Master)
+*Necromancy cantrip* (Cleric,Druid,Pale Master)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Touch

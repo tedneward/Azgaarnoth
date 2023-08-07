@@ -1,5 +1,5 @@
 #### Icon of Fear
-*Necromancy cantrip (Artificer,Bard,Cleric,Sorcerer,Warlock,Wizard)
+*Necromancy cantrip* (Artificer,Bard,Cleric,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 5 feet

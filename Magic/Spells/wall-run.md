@@ -1,5 +1,5 @@
 #### Wall Run
-*Transmutation cantrip (Artificer,Warlock)
+*Transmutation cantrip* (Artificer,Warlock)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

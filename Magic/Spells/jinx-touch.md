@@ -1,5 +1,5 @@
 #### Jinx Touch
-*Necromancy cantrip (Cleric,Pale Master,Sorcerer,Warlock,Wizard)
+*Necromancy cantrip* (Cleric,Pale Master,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

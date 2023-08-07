@@ -1,5 +1,5 @@
 #### Inevitable Wave
-*Enchantment cantrip (Artificer,Bard,Cleric,Warlock,Wizard)
+*Enchantment cantrip* (Artificer,Bard,Cleric,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 5 feet

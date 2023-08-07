@@ -1,5 +1,5 @@
 #### Catfeet
-*Abjuration cantrip (Artificer,Druid)
+*Abjuration cantrip* (Artificer,Druid)
 ___
 - **Casting Time:** 1 reaction, which you take when you would take damage from falling
 - **Range:** Self

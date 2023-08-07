@@ -1,5 +1,5 @@
 #### Fortifying Cry
-*Enchantment cantrip (Artificer,Bard,Cleric)
+*Enchantment cantrip* (Artificer,Bard,Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

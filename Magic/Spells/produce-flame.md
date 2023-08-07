@@ -1,5 +1,5 @@
 #### Produce Flame
-*Conjuration cantrip (Druid)
+*Conjuration cantrip* (Druid)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

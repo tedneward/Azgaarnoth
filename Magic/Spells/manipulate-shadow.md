@@ -1,5 +1,5 @@
 #### Manipulate Shadow
-*Illusion cantrip (Bard,Druid,Pale Master,Sorcerer,Warlock,Wizard)
+*Illusion cantrip* (Bard,Druid,Pale Master,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

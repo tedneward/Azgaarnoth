@@ -1,5 +1,5 @@
 #### Far Realm Gaze
-*Divination cantrip (Cleric,Warlock,Wizard)
+*Divination cantrip* (Cleric,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

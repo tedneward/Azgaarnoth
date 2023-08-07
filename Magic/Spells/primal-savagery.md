@@ -1,5 +1,5 @@
 #### Primal Savagery
-*Transmutation cantrip (Druid)
+*Transmutation cantrip* (Druid)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

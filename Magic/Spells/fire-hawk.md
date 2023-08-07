@@ -1,5 +1,5 @@
 #### Fire Hawk
-*Evocation cantrip (Druid)
+*Evocation cantrip* (Druid)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

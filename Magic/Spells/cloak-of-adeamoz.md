@@ -1,5 +1,5 @@
 #### Cloak of Adeamoz
-*Abjuration cantrip (Artificer,Cleric)
+*Abjuration cantrip* (Artificer,Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

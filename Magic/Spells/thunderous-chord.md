@@ -1,5 +1,5 @@
 #### Thunderous Chord
-*Evocation cantrip (Bard)
+*Evocation cantrip* (Bard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

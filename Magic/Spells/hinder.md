@@ -1,5 +1,5 @@
 #### Hinder
-*Abjuration cantrip (Sorcerer,Warlock,Wizard)
+*Abjuration cantrip* (Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 90 feet

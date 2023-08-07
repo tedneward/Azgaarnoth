@@ -1,5 +1,5 @@
 #### Blade Ward
-*Abjuration cantrip (Bard,Sorcerer,Warlock,Wizard)
+*Abjuration cantrip* (Bard,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

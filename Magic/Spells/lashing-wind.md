@@ -1,5 +1,5 @@
 #### Lashing Wind
-*Transmutation cantrip (Shaman)
+*Transmutation cantrip* (Shaman)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

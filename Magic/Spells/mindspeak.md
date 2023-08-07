@@ -1,5 +1,5 @@
 #### Mindspeak
-*Divination cantrip (Bard,Druid,Sorcerer)
+*Divination cantrip* (Bard,Druid,Sorcerer)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

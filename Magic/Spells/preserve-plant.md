@@ -1,5 +1,5 @@
 #### Preserve Plant
-*evocation cantrip (Wizard)
+*evocation cantrip* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

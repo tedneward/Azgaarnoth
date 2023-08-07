@@ -1,5 +1,5 @@
 #### Bolster
-*Transmutation cantrip (Artificer,Bard,Cleric,Druid,Paladin,Pale Master,Ranger,Shaman,Sorcerer,Warlock,Wizard)
+*Transmutation cantrip* (Artificer,Bard,Cleric,Druid,Paladin,Pale Master,Ranger,Shaman,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

@@ -1,5 +1,5 @@
 #### Renewal
-*Transmutation cantrip (Artificer,Bard,Cleric,Druid)
+*Transmutation cantrip* (Artificer,Bard,Cleric,Druid)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Touch

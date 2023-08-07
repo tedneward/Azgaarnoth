@@ -1,5 +1,5 @@
 #### Touch of Madness
-*Enchantment cantrip (Shaman)
+*Enchantment cantrip* (Shaman)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

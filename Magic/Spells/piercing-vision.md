@@ -1,5 +1,5 @@
 #### Piercing Vision
-*Divination cantrip (Wizard)
+*Divination cantrip* (Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Touch

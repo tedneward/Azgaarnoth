@@ -1,5 +1,5 @@
 #### Quickling Step
-*Transmutation cantrip (Artificer,Druid,Sorcerer,Warlock,Wizard)
+*Transmutation cantrip* (Artificer,Druid,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

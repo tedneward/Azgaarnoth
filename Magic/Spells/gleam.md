@@ -1,5 +1,5 @@
 #### Gleam
-*evocation cantrip (Bard,Cleric,Sorcerer,Wizard)
+*evocation cantrip* (Bard,Cleric,Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 reaction
 - **Range:** Self

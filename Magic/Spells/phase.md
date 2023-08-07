@@ -1,5 +1,5 @@
 #### Phase
-*Abjuration cantrip (Sorcerer,Wizard)
+*Abjuration cantrip* (Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 reaction
 - **Range:** Self

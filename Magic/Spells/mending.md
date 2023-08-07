@@ -1,5 +1,5 @@
 #### Mending
-*Transmutation cantrip (Artificer,Bard,Cleric,Druid,Shaman,Sorcerer,Wizard)
+*Transmutation cantrip* (Artificer,Bard,Cleric,Druid,Shaman,Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Touch

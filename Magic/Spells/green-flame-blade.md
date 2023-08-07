@@ -1,5 +1,5 @@
 #### Green-Flame Blade
-*evocation cantrip (Artificer,Sorcerer,Warlock,Wizard)
+*evocation cantrip* (Artificer,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 5 feet

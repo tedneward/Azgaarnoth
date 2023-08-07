@@ -1,5 +1,5 @@
 #### Courage
-*enchantment cantrip (Bard,Cleric,Druid)
+*enchantment cantrip* (Bard,Cleric,Druid)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

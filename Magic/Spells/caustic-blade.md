@@ -1,5 +1,5 @@
 #### Caustic Blade
-*Evocation cantrip (Sorcerer,Warlock,Wizard)
+*Evocation cantrip* (Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 5 feet

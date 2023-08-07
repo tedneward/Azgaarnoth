@@ -1,5 +1,5 @@
 #### Magecraft Focus
-*Divination cantrip (Artificer,Sorcerer,Wizard)
+*Divination cantrip* (Artificer,Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

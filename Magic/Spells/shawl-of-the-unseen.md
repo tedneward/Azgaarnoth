@@ -1,5 +1,5 @@
 #### Shawl of the Unseen
-*Conjuration cantrip (Bard,Pale Master,Wizard)
+*Conjuration cantrip* (Bard,Pale Master,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

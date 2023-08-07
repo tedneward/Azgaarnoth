@@ -1,5 +1,5 @@
 #### True Strike
-*Divination cantrip (Bard,Sorcerer,Warlock,Wizard)
+*Divination cantrip* (Bard,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet
