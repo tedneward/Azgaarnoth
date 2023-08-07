@@ -24,6 +24,7 @@ free by using its action to make a Strength saving
 throw. On your turn, you can use a bonus action to
 constrict grappled creatures, automatically dealing
 the bludgeoning damage again.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 8th level, the bludgeoning damage
 increases to 2d4 + your spellcasting ability modifier.

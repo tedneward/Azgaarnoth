@@ -26,7 +26,8 @@ foot radius. A creature caught in the blast
 radius must make a Dexterity saving throw.
 On a successful save, the creature takes half the
 fire damage.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 7th level or higher, you can create one
 additional acorn or two additional holly berries for
 each slot level above 6th.

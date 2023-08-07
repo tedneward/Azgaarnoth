@@ -23,7 +23,8 @@ the end of your next turn. While it is within 5
 feet of you, a creature marked by you has
 disadvantage on any attack roll that doesn't
 target you.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th or 6th level, you can concentrate
 on the spell for up to 8 hours. With a slot that's 7th
 level or higher, you can concentrate for up to 24

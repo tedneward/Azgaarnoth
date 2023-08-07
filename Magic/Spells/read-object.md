@@ -26,7 +26,8 @@ emotional state the last time it touched the object
 creature was not capable of emotion, or if its mental
 state was too alien for you to understand, the DM
 will tell you that instead.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 7th level or higher, if the object has
 been handled by multiple creatures within the last
 week, you get the same information about each

@@ -25,6 +25,7 @@ damage on a creature more than once during
 your turn, you gain advantage on saving throws
 against spells cast by that creature until the start
 of your next turn.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th level or higher, you can maintain
 your concentration on the spell for up to 1 hour.

@@ -35,7 +35,8 @@ spell. When the spell's effect ends, a creature that
 never succeeded on any saving throws against this
 spell is unaware it was magically influenced,
 believing its fear of you was merely natural.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 3rd level or higher, the duration is
 increased to 1 hour. If you cast this spell using a
 spell slot of 6th level or higher, the duration is

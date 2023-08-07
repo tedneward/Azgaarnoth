@@ -17,6 +17,7 @@ of your blade before it erupts in a blossom of hellish
 flames. The target you hit and each creature within
 10 feet of it must succeed on a Dexterity saving
 throw or take 4d6 fire damage.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th level or higher, the fire damage
 increases by 1d6 for each slot level above 1st.

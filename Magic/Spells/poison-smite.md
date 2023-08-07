@@ -14,7 +14,8 @@ creature is poisoned for 1 minute. The creature can
 make a new saving throw at the end of each of its
 turns to end the poisoned condition early. On a
 successful save, the spell ends.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 2nd level or higher, the initial poison
 damage increases by 1d6 for each slot level above
 1st.

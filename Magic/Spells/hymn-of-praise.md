@@ -18,7 +18,8 @@ Until the spell ends, if an ally within 30 feet of
 you uses a Channel Divinity feature that requires an
 attack roll or saving throw, it gains the same
 bonuses for that use of Channel Divinity that this
-spell would grant for casting a spell. At Higher Levels.  When you cast this spell using
+spell would grant for casting a spell. 
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th level or higher, you gain an
 additional +1 bonus to the spell's saving throw DC
 or attack roll for every two slot levels above 3rd.

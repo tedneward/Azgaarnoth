@@ -28,7 +28,8 @@ A tattoo projectile vanishes when you expend it,
 decreasing your total number of tattoo projectiles.
 When you use up all your tattoo projectiles, this
 spell ends.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 4th level or higher, the number of
 phantasmal throwing star tattoos created increases
 by two for each slot level above 3rd. 

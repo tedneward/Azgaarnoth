@@ -44,7 +44,8 @@ This spell ends when its duration expires, when
 you cast this spell again, or when you have spent all
 your speed points . When the spell ends, any unspent
 speed points  are lost.
-At Higher Levels.  If you cast this spell with a
+
+***At Higher Levels.***  If you cast this spell with a
 spell slot of 2nd level or higher, the extra damage
 you inflict with melee weapon attacks against
 opponents when you move 20 feet increases by 1d4 for each slot level above 1st. In addition, if you cast

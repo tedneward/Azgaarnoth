@@ -16,6 +16,7 @@ a bonus action to force the creature to make the
 save and suffer the damage again.
 If a creature is reduced to 0 hit points by this
 spell, it dies as it is ripped in half.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 6th level or higher, the damage
 increases by 1d10 for every two slot levels above 5th.

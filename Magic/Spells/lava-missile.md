@@ -23,6 +23,7 @@ gargoyle  or salamander ), it does not inflict
 damage on the creature. Instead, that creature is
 healed, regaining 1d4 hit points for each lava missile
 that hits. Only firenewts  or creatures of the
-elemental type can benefit from this effect. At Higher Levels.  When you cast this spell using
+elemental type can benefit from this effect. 
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 3rd level or higher, the spell creates
 one more dart for each slot level above 2nd.

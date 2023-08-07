@@ -18,6 +18,7 @@ disadvantages affecting it (either ability checks,
 attack rolls, or saving throws). Once a creature
 makes three saving throws, the spell ends for that
 creature.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 6th level or higher, you can affect one
 additional creature for each slot level above 5th.

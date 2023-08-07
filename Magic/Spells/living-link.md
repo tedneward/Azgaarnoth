@@ -13,7 +13,8 @@ target experiences through the chosen sense,
 gaining any special senses the creature possesses.
 However, your own sense of that type doesn't
 function while you are linked to the creature.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 3rd level or higher, you can choose
 one additional sense and the range increases by 100
 feet for every two slot levels above 1st. 

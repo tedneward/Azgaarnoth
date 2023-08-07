@@ -19,6 +19,7 @@ and doesn't have disadvantage on Strength checks.
 The dirge can be heard up to 150 feet away (or
 farther with a successful Wisdom (Perception)
 check as determined by your DM).
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 7th level or higher, the damage
 increases by 1d10 for each slot level above 6th.

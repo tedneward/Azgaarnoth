@@ -21,7 +21,8 @@ attack roll made against this target before the end
 of your next turn has advantage. On a successful
 save, a creature takes half as much damage but
 suffers no other effects.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 7th level or higher, the psychic
 damage increases by 1d12 for each slot level above
 6th.

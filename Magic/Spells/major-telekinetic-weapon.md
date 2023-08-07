@@ -36,7 +36,8 @@ as your eyes. This weapon has the simplest possible
 geometric shape it can have while still functioning
 as the chosen type of weapon. At the end of the
 spell's duration, it dissipates harmlessly.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 4th level or higher, it gains a magical
 +1 bonus to attack rolls, and inflicts an additional
 1d6 force damage on a hit. When you use a spell slot

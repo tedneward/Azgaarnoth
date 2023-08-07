@@ -20,7 +20,8 @@ to transform, if that creature does not wish the
 sticks to be affected by this spell, you must make a
 melee spell attack as part of the action of casting
 this spell. If the attack misses, the spell fails.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 4th level, you transmute the sticks
 into giant constrictor snakes . If you cast the spell
 using a spell slot of 5th level or higher, you

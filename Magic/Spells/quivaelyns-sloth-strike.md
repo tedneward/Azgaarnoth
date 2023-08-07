@@ -19,7 +19,8 @@ an action or a bonus action, not both. Regardless of
 the creature's abilities or magic items, it can't make
 more than one melee or ranged attack during its
 turn.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 3rd level or higher, the initial extra
 damage dealt by the attack increases by 1d10 for
 each slot level above 2nd.

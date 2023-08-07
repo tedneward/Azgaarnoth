@@ -13,6 +13,7 @@ saving throw. The target takes 6d10 lightning
 damage on a failed save or half as much on a
 success. The creature has disadvantage on the
 saving throw if it is wearing metal armor.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 5th level or higher, the damage
 increases by 1d10 for every slot level above 4th.

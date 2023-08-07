@@ -13,7 +13,8 @@ more, then its vision is extended another 30 feet.
 In addition, the target can see in magical
 darkness cast at the same level or lower as if it were
 lightly obscured.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 5th level or higher, you can touch and
 affect one additional creature for every two slot
 levels above 3rd.

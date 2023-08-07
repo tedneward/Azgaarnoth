@@ -16,7 +16,8 @@ creature, such as "happy," "confused," "afraid," or
 about creatures that are not living (such as
 constructs or undead) or from creatures which are
 immune to psychic damage.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 2nd level or higher, the number of
 creatures whose mood you can read with this spell
 is increased by two for each slot level above 1st.

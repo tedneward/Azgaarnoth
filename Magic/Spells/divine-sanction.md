@@ -18,7 +18,8 @@ If the target drops to 0 hit points before the spell
 ends, you can use a bonus action on your turn to
 move the spell's effect to a new creature within
 range.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 3rd or 4th level, you can maintain
 your concentration on the spell for up to 8 hours.
 When you use a spell slot of 5th level or higher, you

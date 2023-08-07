@@ -16,7 +16,8 @@ under the cylinder becomes a sticky morass as the
 earth and stone dissolve. The area covered by the
 cylinder becomes difficult terrain for 10 minutes
 after he spell is cast.
-At Higher Levels. You can cast this spell using a
+
+***At Higher Levels.*** You can cast this spell using a
 spell slot of 5th level or higher. You can increase the
 radius of the cylinder by 10 feet or the damage by
 1d6 for each spell level above 4th.

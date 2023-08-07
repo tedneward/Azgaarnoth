@@ -39,7 +39,8 @@ creatures of the
 elemental type can
 benefit from this
 effect.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 4th level or higher, the bludgeoning
 damage and fire damage each increase by 1d6 for
 each slot level above 3rd.

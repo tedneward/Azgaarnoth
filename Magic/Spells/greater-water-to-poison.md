@@ -46,7 +46,8 @@ creature fails the saving throw by 5 or more, its
 Constitution score is reduced by 1d4. Creatures that
 succeed on their save take half damage, but suffer
 no other effects.
-At Higher Levels. When you cast this spell
+
+***At Higher Levels.*** When you cast this spell
 using a spell slot of 6th level or higher, you can
 affect one additional creature who is drinking at the
 same time, and the damage increases by 1d8 for

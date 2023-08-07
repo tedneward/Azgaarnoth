@@ -19,7 +19,8 @@ the ongoing necrotic damage from that wound and
 causes the creature to be immune to the effects of
 this spell for 1 minute. A creature can suffer from
 only one festering wound at a time.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 3rd level or higher, the amount of
 necrotic damage increases by 5 for each slot level
 above 2nd.

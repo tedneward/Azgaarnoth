@@ -23,6 +23,7 @@ make this attack as a reaction, the reach is increased
 to 30 feet, and any remnants of the poison on the
 creature's person become caustic if you hit, causing
 it to take an additional 2d10 acid damage.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 4th level or higher, the fire damage
 increases by 1d8 for each slot level above 3rd.

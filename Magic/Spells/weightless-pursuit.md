@@ -26,7 +26,8 @@ from your original space than the creature is.
 Moreover, for the duration, you have resistance
 against all damage from falling and immunity to
 any damage taken from falling less than 100 feet.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 2nd level or higher, the duration is
 increased to 10 minutes. If the spell slot used is 3rd
 level or higher, you gain a flying speed equal to your

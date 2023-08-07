@@ -14,6 +14,7 @@ range. Make a ranged spell attack. If you hit, you
 inflict 2d6 fire damage and 2d6 bludgeoning
 damage. Once all of the meteors have been
 launched or the duration expires, the spell ends.
-At Higher Levels. You can cast this spell using a
+
+***At Higher Levels.*** You can cast this spell using a
 spell slot of 6th level or higher. You create one more
 meteor for every two spell slot levels above 4th.

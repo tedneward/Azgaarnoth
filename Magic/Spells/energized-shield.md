@@ -20,7 +20,8 @@ The shield returns to normal when the duration
 expires. Only you can wield the shield safely.
 Another creature that touches the shield takes the
 damage as described above.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 4th level or higher, the elemental
 damage increases by 1d6 for every two slot levels
 above 2nd.

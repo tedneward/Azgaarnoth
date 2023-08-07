@@ -19,7 +19,8 @@ this case, the spell's effect is instantaneous, and the
 target must make a Constitution saving throw. The
 target takes 2d10 cold damage on a failed save, or
 half as much damage on a successful one.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 2nd level or higher, the spell scales in
 two different ways. If you cast the spell to affect a
 fire, the volume increases by a 10-foot cube and the

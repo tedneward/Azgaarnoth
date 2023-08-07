@@ -16,6 +16,7 @@ next time the target makes an attack roll against
 you or a creature friendly to you before the end of
 its next turn, it takes psychic damage equal to your
 spellcasting ability modifier.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 2nd level or higher, the extra damage
 increases by 1d8 for each slot level above 1st.

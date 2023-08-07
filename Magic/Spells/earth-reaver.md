@@ -19,8 +19,10 @@ aren't being worn or carried.
 After the spell ends, the area of the spell becomes
 difficult terrain until it is cleared. Each 5-foot-square portion of the area requires at least 1 minute
 to clear by hand.
+
 Earth-based or fire-based elemental creatures do
 not take damage from this spell.
-At Higher Levels.  When you cast this spell
+
+***At Higher Levels.***  When you cast this spell
 using a spell slot of 5th level or higher, the fire
 damage increases by 1d6 for each level above 4th.

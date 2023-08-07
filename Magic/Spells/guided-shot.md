@@ -14,7 +14,8 @@ doesn't extend a weapon's range beyond its normal
 limitations.
 In addition, your ranged weapon attacks ignore
 up to three-quarters cover until the spell ends.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 2nd level or higher, the duration of
 the spell increases by 1 round for every slot level
 above 1st. 

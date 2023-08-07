@@ -13,6 +13,7 @@ throw. They take 6d6 necrotic damage on a failed
 saving throw and half as much on a successful one.
 The creature's hit point maximum is also reduced
 by the amount of damage taken.
-At Higher Levels.  You can cast this spell using a
+
+***At Higher Levels.***  You can cast this spell using a
 5th level or higher spell slot. You inflict plus 1d6
 damage for each spell level above 4th.

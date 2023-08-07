@@ -20,7 +20,8 @@ chimney has a narrow shaft with sturdy bars at the
 top.
 In addition, an unseen servant  provides service to
 the lodge's occupants for the duration.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 6th level or higher, the cottage's area
 increases by a 10-foot square and the DC for the
 Investigation check to discover its true nature increases by 1 for every slot level above 5th.

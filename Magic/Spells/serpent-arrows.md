@@ -34,7 +34,8 @@ themselves.
 Each snake changes back into a piece of
 ammunition when it drops to 0 hit points or when
 the spell ends.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th level or higher, the number of
 pieces of ammunition you can affect increases by
 two for each slot level above 4th.

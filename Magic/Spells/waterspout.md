@@ -33,7 +33,8 @@ Dexterity saving throw or take the vortex's full
 damage and suffer its effects. A creature takes half
 the damage on a successful save and doesn't suffer
 the vortex's effects.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 8th level or higher, both the
 bludgeoning damage for contacting the vortex and
 for creatures restrained within increases by 1d8 for

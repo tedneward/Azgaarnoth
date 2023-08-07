@@ -28,7 +28,8 @@ This spell can only duplicate 1st level spell scrolls
 (see exception below). In addition, you can't use a
 spell focus to substitute for the components when
 copying scrolls.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a higher-level spell slot than 4th level, you can copy
 a spell scroll one level higher for every two slot
 levels above 4th. For example, you could copy a 2nd

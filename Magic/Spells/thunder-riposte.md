@@ -22,7 +22,8 @@ doesn't fall prone.
 The sound of this spell can be heard up to 500
 feet away (or farther with a successful Wisdom
 (Perception) check as determined by your DM).
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 7th level or higher, the thunder
 damage increases by 1d8 for each slot level above
 6th.

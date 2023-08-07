@@ -17,7 +17,8 @@ that failure would cause it to be surprised, it can
 reroll that ability check. It must use the second roll.
 The spell ends early on a target whenever that
 creature makes an ability check for initiative.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 3rd level or higher, you can touch and
 affect one extra creature for every two spell levels
 above 1st.

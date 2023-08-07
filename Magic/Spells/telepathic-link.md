@@ -19,7 +19,8 @@ you even if it lacks a language. The creature can
 respond to you telepathically as well, but it must
 understand at least one language in order to
 communicate this way.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 4th level or higher, the duration
 increases to 10 minutes, and if either you or the
 creature you are linked to are surprised, while both

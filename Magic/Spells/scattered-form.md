@@ -15,7 +15,8 @@ half as much on a success. If at least one creature
 fails its saving throw, you gain resistance to
 nonmagical bludgeoning, piercing, and slashing
 damage until the end of your next turn.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 2nd level or higher, the piercing
 damage increases by a 1d10 for each slot level above
 first.

@@ -27,7 +27,8 @@ detect the disguise. The spell masks the disguised
 creature from divination spells that detect undead.
 To such a divination spell, the creature appears as
 the type of creature the disguise emulates.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 4th level or higher, you can touch and
 affect one additional undead for every two slot
 levels above 2nd.

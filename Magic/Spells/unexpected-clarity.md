@@ -15,6 +15,7 @@ reach. On a hit, the target suffers the attack's
 normal effects. In addition, the target takes an
 additional 1d12 psychic damage, and is frightened of
 you until the end of its next turn.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 6th level or higher, the psychic
 damage increases by 1d12 for each level above 5th.

@@ -16,7 +16,8 @@ the normal ability modifier used for the
 attack. If you score a hit with the blade
 against a living creature, it takes 2d8 radiant damage. If you hit an undead with the
 blade, it takes 3d8 radiant damage.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 5th level or higher, the radiant
 damage increases by 1d8 for every two slot levels
 above 3rd.

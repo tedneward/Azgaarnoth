@@ -11,7 +11,8 @@ enemy, allowing your ally to strike true. The ally can
 reroll the triggering attack roll with advantage. If
 the attack hits, it deals an extra 2d10 psychic
 damage.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 6th level or higher, the psychic
 damage increases by 1d10 for each slot level above
 5th.

@@ -27,7 +27,8 @@ each of its turns, ending the incapacitated condition
 on a success. Afterwards, it can stand but has
 disadvantage on attack rolls and Wisdom saving
 throws for the spell's duration.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th level or higher, the amount of
 radiant damage increases by 1d4 for each slot level
 above 4th.

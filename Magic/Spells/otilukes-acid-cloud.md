@@ -17,6 +17,7 @@ obscured. Any creature that moves into the cloud or
 starts its turn there must make a Dexterity saving
 throw. Creatures take 5d6 acid damage on a failed
 save, and half as much on a successful one.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 4th level or higher, the damage
 increases by 1d6 for each spell level above 3rd.

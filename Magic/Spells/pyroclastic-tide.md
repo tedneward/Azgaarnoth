@@ -27,7 +27,8 @@ requires at least 1 minute to clear by hand.
 Firenewts and earth-based or fire-based
 elemental creatures (such as gargoyles or
 salamanders) do not take damage from this spell.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 4th level or higher, the bludgeoning
 damage and fire damage both increase by 1d6 for
 each slot level above 3rd.

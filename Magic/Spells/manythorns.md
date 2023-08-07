@@ -14,7 +14,8 @@ piercing damage at the start of your turn. On your
 turn you may use an action to make a melee attack
 against the creature. If you hit, you inflict 1d6 plus
 your Strength modifier piercing damage.
-At Higher Levels. You can cast this spell using a
+
+***At Higher Levels.*** You can cast this spell using a
 spell slot of 3rd level or higher. If you use a 3rd level
 slot the damage dice (both the beginning of turn
 and the melee attack) become 2d6. If you use a 5th

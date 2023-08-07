@@ -22,6 +22,7 @@ target that friendly creature. This spell ends early if
 the friendly creature dies or is incapacitated, or if
 the target marked with this spell is marked by a
 creature besides the friendly creature.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 2nd level or higher, the damage
 increases by 1d6 for each slot level above 1st.

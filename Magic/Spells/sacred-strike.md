@@ -38,7 +38,8 @@ effects. In addition, rather than being healed, when
 you damage an undead creature with this spell, you
 take damage equal to half the necrotic damage
 inflicted.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 6th level or higher, the amount of
 necrotic damage increases by 1d4 for every two slot
 levels above 4th.

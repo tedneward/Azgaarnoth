@@ -14,7 +14,8 @@ saving throw. If it fails, you can push it up to 30 feet
 away from you. If the target ends this movement
 adjacent to a solid obstacle (such as a wall), the
 target is restrained until the end of your next turn.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th level or higher, the piercing
 damage increases by 1d10 for each slot level above
 4th.

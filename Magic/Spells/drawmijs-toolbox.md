@@ -22,7 +22,8 @@ can't call forth these items if you have already
 summoned a set of tools as described above, nor
 can you summon a set of tools if you have already
 called forth the alternate items described here.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 5th level or higher, the weight of the
 tools you can conjure increases by 5 pounds and the
 duration is extended for another hour for each slot

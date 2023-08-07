@@ -15,7 +15,8 @@ information about its emotional state. You can
 discern whether a creature is hungry or fatigued, or
 whether it feels hatred, friendliness, curiosity, or
 rage.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 2nd level or higher, you can determine
 one additional piece of information about the
 general emotions of one more creature for each slot

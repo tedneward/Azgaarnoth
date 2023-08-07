@@ -18,7 +18,8 @@ bolt streaks out up to 120 feet toward a target you
 can see within range. The creature must make a
 Dexterity saving throw or take 4d6 lightning
 damage or have as much on a successful save.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 8th level or higher, the bludgeoning
 damage from the winds increases by 1d6, and you
 can call one additional lightning bolt for each slot

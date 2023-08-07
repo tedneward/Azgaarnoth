@@ -22,6 +22,7 @@ takes fire damage from this spell, friendly creatures
 of your choice within 5 feet of the damaged creature
 regain hit points equal to half the amount of fire
 damage dealt.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 4th level or higher, the fire damage
 increases by 1d6 for each slot level above 3rd.

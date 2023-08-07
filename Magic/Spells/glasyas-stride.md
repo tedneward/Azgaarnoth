@@ -15,7 +15,8 @@ within 5 feet that you haven't yet attacked as a part
 of this spell, and make a melee spell attack against
 that creature. On a hit, the target takes 8d6 necrotic
 damage, and you push it 5 feet away from you.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 8th level or higher, the number of feet
 you move as part of this spell is increased by 10 feet
 for each slot level above 7th.

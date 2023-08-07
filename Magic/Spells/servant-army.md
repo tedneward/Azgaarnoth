@@ -45,7 +45,8 @@ taking 6 points of damage. (They do not make
 saving throws). If you attempt to send a servant
 beyond the spell's range (measured from your
 current position), that servant ceases to exist.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 6th level or higher, you create 1d4
 additional servants for every slot level above 5th.
 When you cast it using a spell slot of 7th level or

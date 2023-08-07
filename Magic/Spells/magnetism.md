@@ -63,7 +63,8 @@ disadvantage on rolls to do so. When the spell ends,
 if you are holding, wearing, or carrying an object
 that is too heavy for you, it falls softly to the
 ground, landing harmlessly at your feet.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 4th level or higher, the weight limit of
 objects you can move with this spell increases by 10
 pounds for each slot level above 3rd. When you cast

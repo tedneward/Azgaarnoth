@@ -18,6 +18,7 @@ Creatures that only have hit points equal to half
 their hit point maximum or fewer have
 disadvantage on the saving throw, and are pushed
 back 15 feet on a failed saving throw.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 2nd level or higher, the damage
 increases by a 1d10 for each slot level above 1st.

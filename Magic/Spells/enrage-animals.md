@@ -37,7 +37,8 @@ some reason, the beast attacks an object within
 range, which may be the ground or a wall.
 The first two attacks by beasts enraged by this
 spell are made with advantage.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 2nd level or higher, roll an additional
 2d10 for each slot level above 1st. When you cast it
 with a spell slot of 3rd level or higher, you can also

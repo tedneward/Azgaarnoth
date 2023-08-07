@@ -15,7 +15,8 @@ throws and on all Dexterity checks that are not
 Dexterity (Stealth) checks, and any melee weapon
 you wield deals one extra die of its damage when
 you hit with it.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th level or higher, melee weapons
 you wield deal one additional extra die of their
 damage for every two slot levels above 3rd.

@@ -16,6 +16,7 @@ ranged attack roll against itself. On a hit, the
 creature takes the attack's damage. The creature
 can attempt a new saving throw at the end of each
 of its turns, and on a success, the spell ends for that
-creature. At Higher Levels. When you cast this spell using
+creature. 
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 5th level or higher, you can affect one
 additional creature for each slot level above 4th.

@@ -15,7 +15,8 @@ made exactly as if you were using the weapon
 emulated. The cantrip does not confer any other
 benefits beyond those stated above (such as weapon
 proficiency).
-At Higher Levels.  This spell's damage increases
+
+***At Higher Levels.***  This spell's damage increases
 when you reach higher levels. At 5th level, if the
 attack hits, it deals an extra 1d4 force damage to the
 target. This extra damage increases to 2d4 at 11th

@@ -13,6 +13,7 @@ take 12d6 fire damage on a failed save and half as
 much on a successful saving throw. This fire
 damage treats immunity as resistance and ignores
 resistance.
-At Higher Levels.  You can cast this spell using a
+
+***At Higher Levels.***  You can cast this spell using a
 8th level or higher spell slot, and it inflicts plus 1d6
 damage for every spell slot above 7th.

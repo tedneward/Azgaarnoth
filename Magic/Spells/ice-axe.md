@@ -15,6 +15,7 @@ of melee attacks using it. On a hit, a target takes
 slashing damage.
 You cannot be disarmed of the ice axe  for the
 flies back to your hand immediately.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th level or higher, the cold damage
 increases by 1d12 for every two slot levels above 3rd.

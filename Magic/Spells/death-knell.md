@@ -15,6 +15,7 @@ and inflict an extra 1d8 necrotic damage to the
 target. If you reduce that creature to 0 hit points
 this turn, you have advantage on your next attack
 roll and you inflict an extra 1d8 necrotic damage.
-At Higher Levels. You can cast this spell using a
+
+***At Higher Levels.*** You can cast this spell using a
 spell slot of 3rd level or higher. You inflict an extra
 1d8 damage per level above 2nd.

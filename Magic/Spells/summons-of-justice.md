@@ -15,6 +15,7 @@ a hit, the target takes 2d6 radiant damage, and you
 can pull it up to 15 feet closer to you.
 You also take 2 points of radiant damage for each
 ray that hit, which cannot be reduced by any means.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 2nd level or higher, you create one
 additional ray for each slot level above 1st.

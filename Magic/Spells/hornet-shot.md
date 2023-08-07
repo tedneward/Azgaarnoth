@@ -25,7 +25,8 @@ the motes and must make a Constitution saving
 throw. The creature takes 2d6 poison damage on a
 failed save, or half as much damage on a successful
 one.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 6th level or higher, the piercing
 damage increases by 1d10 for each slot level above
 5th.

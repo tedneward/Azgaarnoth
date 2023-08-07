@@ -12,6 +12,7 @@ its turn within the field must make a Wisdom
 saving throw or be paralyzed until the end of its
 next turn. On a successful save, the creature is
 unaffected that turn.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 9th level, the radius of the paralytic
 field increases to 20 feet.

@@ -17,6 +17,7 @@ can use a bonus action to move the fist up to 20 feet
 to an unoccupied space within range and repeat the
 attack against a creature or object within 5 feet of
 the fist.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 3rd level or higher, the damage
 increases by 1d6 for every two slot levels above 1st.

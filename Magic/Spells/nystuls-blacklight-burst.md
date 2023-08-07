@@ -20,6 +20,7 @@ half the damage inflicted by the spell. This damage
 bypasses resistance and immunity. If you succeed
 you maintain control of the spell and take no
 damage.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th level or higher, you inflict 1d6
 extra damage for every level above 4th.

@@ -37,7 +37,8 @@ advantage on saving throws against poison and
 resistance to poison damage.
 This spell ends when you finish a long rest, or
 when you cast it again.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 4th level or higher, the pool of self-
 healing it confers is increased by 5 hit points for
 each slot level above 3rd.

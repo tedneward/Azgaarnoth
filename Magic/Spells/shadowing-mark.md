@@ -20,7 +20,8 @@ hit and scores a critical hit on a roll of 19 or 20.
 If the target drops to 0 hit points before this spell
 ends, you can use a bonus action on a subsequent
 turn of yours to mark a new creature.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 3rd level or higher, you can maintain
 your concentration on the spell for up to 24 hours,
 and you add your proficiency bonus to the psychic

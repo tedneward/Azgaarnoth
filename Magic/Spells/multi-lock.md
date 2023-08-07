@@ -10,7 +10,9 @@ foot cube instantly slam shut and are secured with
 an arcane lock. Each opening is secured with its
 own arcane lock, which must be dispelled
 separately.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.*** 
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 7th level or higher, the size of the
 cube increases by 10 feet for each slot level above
 6th.

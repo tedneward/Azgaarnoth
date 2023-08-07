@@ -12,7 +12,8 @@ a ranged spell attack. If the attack hits, the target
 takes 3d6 piercing damage, and 3d6 cold damage. In
 addition, the target must make a Constitution
 saving throw, or be stunned until the end of its next
-turn.  At Higher Levels.  When you cast this spell using
+turn.  
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 4th level or higher, the amount of cold
 and piercing damage both increase by 1d6 for each
 slot level above 3rd.

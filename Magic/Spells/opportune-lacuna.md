@@ -16,6 +16,7 @@ target's turns before the spell ends, the target must
 succeed on a Wisdom saving throw or take 5d12
 psychic damage. On a successful save, the spell
 ends.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 7th level or higher, the damage
 increases by 1d12 for each slot level above 6th.

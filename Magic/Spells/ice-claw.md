@@ -22,7 +22,8 @@ a number of hit points equal to your normal hit
 point maximum. In addition, the claw makes saving
 throws using your bonuses, but has immunity to
 cold damage, and vulnerability to fire.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 8th level or higher, the claw's grapple
 bonus and Armor Class both increase by 1, and the
 amount of cold damage increases by 1d6 for each

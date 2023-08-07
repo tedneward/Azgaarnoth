@@ -25,7 +25,8 @@ hit, the creature takes 2d4 necrotic damage, and if it
 is a living creature, it must make a Strength saving
 throw. On a failed save, the creature drops whatever
 it is holding due to the excruciating pain.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 7th level or higher, the necrotic
 damage increases by 2d4 against a single target or
 1d4 against multiple targets for every two slot levels

@@ -14,6 +14,7 @@ magic. However, if the object is forced open by any
 means (physical or magical), the sigil explodes in
 30-foot radius for 10d4 force damage. A successful
 Dexterity saving throw halves the damage.
-At Higher Levels.  When you cast this spell using a spell slot of 4th level or higher, the amount of
+
+***At Higher Levels.***  When you cast this spell using a spell slot of 4th level or higher, the amount of
 force damage increases by 1d4 per slot level above
 3rd.

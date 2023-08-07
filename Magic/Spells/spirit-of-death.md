@@ -10,4 +10,5 @@ You call forth a spirit that embodies death itself. Choose a creature you can se
 
 The [reaper spirit](/Creatures/Spirit-Reaper.md) is an ally to you and your companions. In combat, the spirit shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you), but it will only attack the haunted creature. If you don’t issue the spirit any commands, it takes the Dodge action and uses its move to avoid danger
 
-At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell’s level appears in the stat block.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell’s level appears in the stat block.

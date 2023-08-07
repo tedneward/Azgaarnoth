@@ -50,6 +50,7 @@ extra 1d4 lightning damage if it is wearing metal
 armor.
 * Poison. The creature is poisoned until the end
 of its next turn.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a 4th level or higher spell slot, the damage on a hit
 increases by ld4 for every two slot levels above 2nd.

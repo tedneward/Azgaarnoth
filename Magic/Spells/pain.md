@@ -33,5 +33,6 @@ saving throw, it takes 3d6 psychic damage. A
 creature that fails this saving throw four times in a
 row is incapacitated with pain, in addition to the
 spell's other effects.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th level or higher, roll an additional

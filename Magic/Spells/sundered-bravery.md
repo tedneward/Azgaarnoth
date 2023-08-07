@@ -17,6 +17,7 @@ frightened of you, and its speed is halved until the
 start of your next round. Undead, constructs, and
 creatures immune to being frightened aren't
 affected by this spell.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 8th level or higher, the damage
 increases by 1d12 for each slot level above 7th.

@@ -16,6 +16,7 @@ to the level of the spell slot you used to cast the
 spell. While the bonus from this spell is +2 or
 higher, your spell attacks deal an extra 1d4 force
 damage on a hit.
-At Higher Levels.  If you cast this spell using a
+
+***At Higher Levels.***  If you cast this spell using a
 spell slot of 2nd level or higher, the initial bonus
 improves by +1 for each spell level above 3rd. 

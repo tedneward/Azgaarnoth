@@ -12,7 +12,8 @@ comfortably endure cold or hot conditions between
 suffering any negative effects. This spell offers no
 protection from cold or fire damage, only against
 the negative effects of environmental exposure.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 3rd level or higher, you can touch and
 ward one additional creature from the effects of
 environmental exposure for every two slot levels

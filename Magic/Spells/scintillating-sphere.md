@@ -14,6 +14,7 @@ radius. Each creature within the area must make a
 Dexterity saving throw or take 5d10 lightning
 damage, or half as much on a successful save. Creatures wearing metal armor have disadvantage
 on the save.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 4th level or higher, the damage
 increases by 1d10 for every slot level above 3rd.

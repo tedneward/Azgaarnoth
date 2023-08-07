@@ -15,7 +15,8 @@ throw. On a failed save, a creature takes 4d6 force
 damage, or half as much on a successful save.
 Objects within range automatically miss the saving
 throw.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 5th level or higher, the damage from
 the blast increases by 1d6 for each slot level above
 4th.

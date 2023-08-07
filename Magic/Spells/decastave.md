@@ -21,7 +21,8 @@ In addition, once per turn, when you hit with the
 weapon you can choose to inflict an additional 1d8
 necrotic damage. You regain hit points equal to half
 the amount of necrotic damage you inflicted.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 3rd level or higher, the necrotic
 damage increases by 1d8 for each slot level above
 2nd.

@@ -14,7 +14,8 @@ saving throw at the end of each of its turns. If the
 target fails the save, it takes 3d10 damage and
 remains poisoned until the end of its next turn. If it
 succeeds, the spell ends.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 4th or higher level, the duration you
 may concentrate increases by 1 minute for each slot
 level above 3rd.

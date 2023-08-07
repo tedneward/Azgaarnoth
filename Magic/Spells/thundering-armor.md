@@ -21,7 +21,8 @@ save, the target takes half damage and is not
 pushed.
 You cannot cast this spell on yourself. The sound
 of this spell can be heard up to 100 feet away.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 2nd-level or higher, the thunder
 damage increases by 1d8 for each slot level above
 1st.

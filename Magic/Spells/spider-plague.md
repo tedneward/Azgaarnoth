@@ -15,6 +15,7 @@ for the duration. The spiders obey your commands
 without you having to spend an action; if you don't
 issue a command, the spiders defend themselves if
 they are threatened.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 8th level, you summon two extra
 spiders.

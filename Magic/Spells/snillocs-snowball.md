@@ -12,6 +12,7 @@ attack. If you hit you inflict 1d6 plus your
 spellcasting ability modifier cold damage. For the
 duration, you can use your action to summon and
 hurl another sphere of freezing energy.
-At Higher Levels.  You can cast this spell using a
+
+***At Higher Levels.***  You can cast this spell using a
 2nd level or higher spell slot, and you inflict plus
 1d6 damage for every spell level above 1st.
