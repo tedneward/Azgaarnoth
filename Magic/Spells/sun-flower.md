@@ -16,4 +16,4 @@ If you choose to blast a single target, make a ranged spell attack originating f
 
 When the spell ends, the spectral flower vanishes into petals and pollen on the wind.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage dealt increases by 1d6 for each slot level above 5th.
+***At Higher Levels.***When you cast this spell using a spell slot of 6th level or higher, the damage dealt increases by 1d6 for each slot level above 5th.

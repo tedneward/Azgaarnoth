@@ -13,4 +13,4 @@ In addition, bright soul-light shines out in rays from the target's body, washin
 
 When this spell targets an incorporeal undead, such as a ghost or wraith, or a soul that is removed from its body, the spell ignores resistance or immunity to necrotic damage and the target has disadvantage on the Charisma saving throw.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 9th level the necrotic damage and radiant damage dealt increases by 2d8.
+***At Higher Levels.***When you cast this spell using a spell slot of 9th level the necrotic damage and radiant damage dealt increases by 2d8.

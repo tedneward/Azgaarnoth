@@ -12,4 +12,4 @@ The magical shield is lightweight and flexible, and it has straps made of stem, 
 
 The shield has resistance to all damage and is selfrepairing, regaining up to 1 hit point every round When the spell ends, it withers to dust.
 
-**At Higher Levels.** If you cast this spell using a spell slot of 3rd level or higher, the duration is 1 hour. If you use a spell slot of 5th leveJ or higher, it is 8 hours.
+***At Higher Levels.***If you cast this spell using a spell slot of 3rd level or higher, the duration is 1 hour. If you use a spell slot of 5th leveJ or higher, it is 8 hours.

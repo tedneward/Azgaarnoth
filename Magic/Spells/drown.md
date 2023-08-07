@@ -10,4 +10,4 @@ You conjure a swirling globe of magical water around an enemy's head to drown it
 
 At the end of each of its turns, the creature can repeat the saving throw. On a success, the creature breaks free and the spell ends. Creatures that can breathe water or do not have to breathe automatically succeed on the saving throw.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage dealt increases by ld8 for each slot level above 2nd. When you cast this spell using a spell slot of 5th level or higher, the duration increases to be Concentration up to 10 minutes, and the target can only hold its breath for up to 30 seconds before suffocating.
+***At Higher Levels.***When you cast this spell using a spell slot of 3rd level or higher, the damage dealt increases by ld8 for each slot level above 2nd. When you cast this spell using a spell slot of 5th level or higher, the duration increases to be Concentration up to 10 minutes, and the target can only hold its breath for up to 30 seconds before suffocating.

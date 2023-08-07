@@ -12,4 +12,4 @@ The ice has hit points equal to 5d8 + twice your spellcasting modifier (minimum 
 
 The ice melts after 2d4 minutes in a hot environment, and only 1 minute in an extremely hot environment.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the hit points of the ice increase by 2d8 for each slot level above 2nd, and the maximum size of the object increases by 5 feet for every 3 slot levels above 2nd.
+***At Higher Levels.***When you cast this spell using a spell slot of 3rd level or higher, the hit points of the ice increase by 2d8 for each slot level above 2nd, and the maximum size of the object increases by 5 feet for every 3 slot levels above 2nd.

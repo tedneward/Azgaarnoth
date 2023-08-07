@@ -12,4 +12,4 @@ As a bonus action on your turn, you are able to release the blade down upon your
 
 The target may use their action to attempt a Strength saving throw to break the chains at the start of each turn. This removes the restrained condition and ends the spell without doing any damage.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the initial damage increases by 1d8 for each slot level above 1st.
+***At Higher Levels.***When you cast this spell using a spell slot of 2nd level or higher, the initial damage increases by 1d8 for each slot level above 1st.

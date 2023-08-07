@@ -10,4 +10,4 @@ You beckon with magic toward one creature who can hear you within range, attempt
 
 On a successful saving throw, the target immediately makes one weapon attack with disadvantage against itself, but suffers no other effects from the spell. You choose which weapon the target uses for its attack.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the psychic damage dealt increases by 1d8 for each slot level above 3rd.
+***At Higher Levels.***When you cast this spell using a spell slot of 4th level or higher, the psychic damage dealt increases by 1d8 for each slot level above 3rd.

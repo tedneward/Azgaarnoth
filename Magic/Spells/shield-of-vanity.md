@@ -14,4 +14,4 @@ Creatures that cannot be charmed that are blinded that have less than 6 Intellig
 
 If you stop holding the shield the spell ends immediately. 
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the radius of the saving throw effect, the bright light, and the dim light increases by 5 feet for each slot level above 1st, and the bonus to AC  increases by 1 for every three slot levels above 1st.
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the radius of the saving throw effect, the bright light, and the dim light increases by 5 feet for each slot level above 1st, and the bonus to AC  increases by 1 for every three slot levels above 1st.

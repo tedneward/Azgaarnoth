@@ -14,4 +14,4 @@ If you choose an object, you may have it appear as any creature or object of the
 
 The target makes an Intelligence saving throw at the end of each of its turns. On a successful saving throw, it realizes that its senses have been deceived, and the effect ends for it.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them, and they all perceive the same alterations to the same subject.
+***At Higher Levels.***When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them, and they all perceive the same alterations to the same subject.

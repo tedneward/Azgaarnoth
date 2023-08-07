@@ -10,4 +10,4 @@ Choose up to 6 creatures that you can see within range. You fabricate a vivid il
 
 On a successful saving throw, a target takes half damage and suffers no other effects from the spell.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you can choose an additional target for each slot level above 5th.
+***At Higher Levels.***When you cast this spell using a spell slot of 6th level or higher, you can choose an additional target for each slot level above 5th.

@@ -18,4 +18,4 @@ This spell ignites flammable objects in the area that aren't being worn or carri
 
 If you maintain your concentration on this spell for its whole duration, the wall hardens into permanent obsidian stone and can't be dispelled instead of vanishing. Without the spell's magic, the destruction of these panels might now cause connected panels to collapse at the DM's discretion.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 9th level the damage dealt by being near the wall increases by 1d8 and all other damage rolls for the spell increase by 2d8.
+***At Higher Levels.***When you cast this spell using a spell slot of 9th level the damage dealt by being near the wall increases by 1d8 and all other damage rolls for the spell increase by 2d8.

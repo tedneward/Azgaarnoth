@@ -10,4 +10,4 @@ You unleash a powerful torrent of swirling wind that pulls in a roaring cyclone 
 
 Unsecured objects that are completely within the area of effect are automatically pulled 30 feet closer to you by the spell's effect.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the bludgeoning damage dealt increases by ld8 and the distance a creature or object is pulled increases by 10 feet for each slot level above 4th.
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the bludgeoning damage dealt increases by ld8 and the distance a creature or object is pulled increases by 10 feet for each slot level above 4th.

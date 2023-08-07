@@ -10,4 +10,4 @@ Your magic forces one willing creature that you can see within range to expend g
 
 This spell has no effect on constructs, undead, or creatures that are naturally immune to exhaustion.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the hit points restored increases by 2d6 for each slot level above 4th. 
+***At Higher Levels.***When you cast this spell using a spell slot of 5th level or higher, the hit points restored increases by 2d6 for each slot level above 4th. 
