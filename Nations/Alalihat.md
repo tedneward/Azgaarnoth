@@ -25,18 +25,19 @@ In the south, the Daws Mountains range shelter the very southern coast of Alalih
 North of the mountain range, however, Alalihat is an endless grassland punctuated by rolling hills, thick copses of trees that provide shade to the nomads who wander with their herds, rivers snaking their way from the western coast inland, and the odd road that aids in the transport of goods from one city to another. "The further north, hotter the days and wetter the rain", an old Al'Uman saying goes, and the landscape reflects that--it is said that in some places, the height of the grass stands fully taller than a full-grown halfling.
 
 ## Government
-**TODO**, Caliph of Alalihat, Sultan of Zvelaino, Defender of the Faith
+**TODO**, Caliph of Alalihat, Sultan of Zvelaino, Defender of the Faith, Rightful Caliph of Al'Uma
 
 Alalihat is a caliphate...
 
 ## Political Structure: The Tribes and the Cities
 Nominally, the Caliph is the undisputed ruler of Alalihat, his words as law upon any whose ears hear them. Practically, the Caliph governs Zvelaino, and gives governance of the other major cities to Sultans who each govern their city and (in theory) its surroundings. Ostensibly, collectively the Sultans hold sway over the vast grasslands that make up the bulk of Alalihatian lands; in practice, the Sultans govern their city and a roughly fifty radius around the city, and beyond that, the tribes operate independently.
 
-Once per year, the Caliph demands the Sultans attend upon him in Court in Zvelaino, as part of a three-week festival holiday (**TODO**). Six months after the festival, the Caliph returns the favor by bringing his Court to one of the Sultans' cities, again as part of a festival holiday (name **TODO**). The choice of city for this second festival is a hotly-debated and fiercely-argued one, and Caliphs of Alalihat have used it for centuries to balance the political powers of the Sultans against one another. Sultans will argue, cajole, wheedle, and bribe to bring the festival to their city, and more than once a well-timed scandal against a Sultan (or member of his family) has steered the Caliph away from their city--and caused blood to run in the streets shortly thereafter.
+Once per year, the Caliph demands the Sultans attend upon him in Court in Zvelaino, as part of a three-week festival holiday (name **TODO**). Six months after the festival, the Caliph returns the favor by bringing his Court to one of the Sultans' cities, again as part of a festival holiday (name **TODO**). The choice of city for this second festival is a hotly-debated and fiercely-argued one, and Caliphs of Alalihat have used it for centuries to balance the political powers of the Sultans against one another. Sultans will argue, cajole, wheedle, and bribe to bring the festival to their city, and more than once a well-timed scandal against a Sultan (or member of his family) has steered the Caliph away from their city--and caused blood to run in the streets shortly thereafter.
 
 ### The Sultans of Alalihat
 Each Sultan rules one of the major cities of Alalihat:
 
+* Zvelaino
 * Roslasil
 * Nytharion
 * Rechiy
@@ -78,9 +79,6 @@ A dwindling tribe of 1,500 in the southern ranges of Alalihat, the House of Thaw
 
 #### Clan of the Pony
 The majority of House Bakr lives in the city of **TODO**--a fairly recent development highly criticized by the tribal elders. Those 500 or so who remain in the grasslands are fiercely conservative and believe in protecting and maintaining their customs above all else. Both the Rais (leader) of those remaining in the grasslands and his son have experienced terrible visions of a dire fate for those in the city.
-
-
-
 
 ## Population
 Alalihat's population, like that of the other two nations on the Al'Uman continent, is split between those who dwell within the cities, and those who continue the nomadic traditions of their ancestors. 

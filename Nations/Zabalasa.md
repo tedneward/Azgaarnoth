@@ -21,19 +21,26 @@ Today, the Caliphate of Zabalasa carries on its ancient traditions, its ancient 
 (Arabic grasslands/plains)
 
 ## Government
-**TODO**, Caliph of Zabalasa, First Sultan of Damam
+**TODO**, Caliph of Zabalasa, First Sultan, Guardian of the West, Rightful Caliph of Al'Uma
 
 ## Political Structure
-Zabalasa is broken into several provinces, each of which are governed by a Sultan. The Caliph, for example, also holds the title as Sultan of the province of Damam.
+Zabalasa is broken into several provinces, each of which are governed by a Sultan. The Caliph, for example, also holds the title as Sultan of the province of Damam. The Caliph holds the power to appoint--and retract--governorship (and therefore the Sultanate title) of the province, but theoretically no direct rulership within those provinces. In practice, Caliphs will often rotate Sultans around the different cities, to ensure that no one Sultan grows too comfortable--or too powerful--on their throne. While dynastic inheritance of the Sultanates are not unheard of, it is far more common for a given individual to rule one city while maintaining private residences and lands in an entirely different province (which they consider their home).
 
-* Damam County: home to the cities of [Svishek](), [Gorod](), [Bunov](), [Mlin](), [Ternit](), [Trigov](), and [Yulidychin]().
-* Mirbah Territory: [Rebun](), [Samborna](), [Eshamerino](), [Dukoml](), [Kogorokipo](), and [Mochu]().
-* Janaradad County:
-* Alalharaqa Earldom:
-* Suwaiqa County:
-* Al Sibarmia Earldom:
-* Al Mayitahia Earldom:
-* Al Thuma County:
+* *Damam County*: Home to the cities of [Svishek](), [Gorod](), [Bunov](), [Mlin](), [Ternit](), [Trigov](), and [Yulidychin](), Damam is ruled as a County, despite being one of the richest provinces in the Caliphate, since few of the Sultans find it beneficial to try and govern in the same province in which the Caliph resides.
+
+* *Al Sibarmia Earldom*: 
+
+* *Al Mayitahia Earldom*: Straddling the narrow isthmus of land that connects the northwest of Zabalasa from its southeast (and border with Yithi), this is militarily one of the most important--and hotly contested--provinces in all of Zabalasa. (Alalihat would love nothing more than to push the border all the way to the coastline by taking the cities of [Gosalk](), [Sterh](), and Ludechev. While this wouldn't significantly hurt Zabalasan movements--much already occurs by sea vessel around the northeastern coastline of Zabalasa--it would be a significant moral victory.) As such, this province is often governed by Sultans with deep military experience, and always maintains a higher-than-average miltary presence, second only to that of Mirbah. Much of the military offensive conducted here is with an eye to taking back the cities of [Hogilos]() and [Pororys](), which Alalihat was able to take when it finally concluded its seventy-year siege of [Alunenor]() two centuries ago.  
+
+* *Alalharaqa Earldom*: 
+
+* *Janaradad County*: Nestled tightly in between Al Mayitahia to the northwest, and Mirbah to the southeast, Janaradad is one of the smallest provinces in Zabalasa, yet [Mitfelaron]()'s position on the **TODO** Road puts it in high strategic importance, and yields significant tax and tariff revenue. Much of this revenue is spent maintaining its defenses in [Ludechev]() against incursion from Alalihatian forces operating out of [Pororys](). Fortunately the hills that make up the county landscape are ore-rich, and Janaradad has long had strong treaties with dwarven clans and [Merchant Guilds](../Organizations/MerchantGuilds/index.md) that turn both a tidy profit and high-quality arms and armor 
+
+* *Suwaiqa County*: 
+
+* *Al Thuma County*: 
+
+* *Mirbah Territory*: Primarily made up of territory "liberated" from Yithi, this territory is the only one governed explicitly by a commanding general who also holds the title of Sultan. Mirbah Territory is a frontier space, with little to no settlement except in well-defended (and easily-accessible) places, such as along the Tartonton River (where [Rebun]() and [Mochu]() lie), or in the mountains ([Dukoml]() and [Eshamerino]()), or along the coast ([Samborna]() and [Kogorokipo]()). This is unfortunate, as Mirbah Territory boasts some of the most fertile farmlands on the continent, both north and south of the mountains.
 
 Each of the Sultans maintains a Court in each city, as well as one in Svishek, each Court staffed with officers and proxies for the Sultan, who travels between their cities and Svishek, holding hearings and adminstering to their staff. 
 

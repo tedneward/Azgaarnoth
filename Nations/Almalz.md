@@ -12,6 +12,10 @@
 Almalz is a caliphate...
 
 ## Political Structure
+Almalz is made up of two provinces (one each from Alalihat and Zabalasa):
+
+* Mushu County: the donation from Zabalasa, it includes the capital city [Merevets]()
+* Al Jib County: 
 
 ## Population
 
