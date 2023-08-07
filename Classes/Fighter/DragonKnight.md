@@ -1,5 +1,5 @@
 # Fighter Martial Archetype: Dragon Knight
-Dragon Knights--almost all of them [Knights of the Draconic Order](/Organizations/DraconicOrder/DraconicOrder.md)--are known for their valor in battle and for their great personal charm during the victory feasts afterward. Their blades carry the sting of dragon's breath, and their resolve carries them ever onward into the eternal war between good and evil. But some few Dragon Knights are the agents of the [Cult of the Wyrm](/Organizations/CultOfTheWyrm.md), and they inevitably wreak great havoc and fear on their immediate vicinity. Woe to those who draw the ire of a Dragon Knight.
+Dragon Knights--almost all of them [Knights of the Draconic Order](../../Organizations/MilitantOrders/DraconicOrder/)--are known for their valor in battle and for their great personal charm during the victory feasts afterward. Their blades carry the sting of dragon's breath, and their resolve carries them ever onward into the eternal war between good and evil. But some few Dragon Knights are the agents of the [Cult of the Wyrm](../../Organizations/CultOfTheWyrm.md), and they inevitably wreak great havoc and fear on their immediate vicinity. Woe to those who draw the ire of a Dragon Knight.
 
 Dragon Knights of the Draconic Order develop their class traits as part of rituals performed within the Order at each level progression; the trait may not be used until the ritual is performed. (Whether this ritual is arcane, divine, or simple communion with an actual metallic dragon is not clear, and the Order isn't saying.) Dragon Knights of the Cult of the Wyrm are usually bound to a particular dragon directly, and their traits manifest automatically. However, where Dragon Knights of the Draconic Order may operate openly, Dragon Knights of the Cult must keep their identity a secret if they do not wish to bring the full power of the Draconic Order in the area down upon their heads, at least in lands that are "civilized".
 
@@ -12,6 +12,7 @@ When you choose this archetype, you develop a close tie to either the Draconic O
 In rare cases, a particularly studious individual can learn enough about dragons and their powers and abilities to become a Dragon Knight without having a Draconic Lord. If you are such an anomaly, work with your DM to see how you were able to harness this power. Is it through bloodline? Perhaps an inexplicable magical bond?
 
 **Draconic Lord**
+
 Dragon Type|Damage Type|Draconic Eminence Ability
 -----------|-----------|-------------------------
 Black|acid|you gain blindsight with a radius of 30 feet and can breathe underwater for the next minute

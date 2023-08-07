@@ -11,5 +11,5 @@ Sirens are humanoid creatures with birdlike features. Their long, slender arms e
 * **Size.** Sirens stand about 5 to 6 feet tall, but their bodies are slender and their bones partially hollow to facilitate their flight. Your size is Medium.
 * **Speed.** Your base walking speed is 25 feet.
 * **Flight.** You have a flying speed of 30 feet. You can’t use your flying speed while you wear medium or heavy armor.
-* **Siren’s Song.** You know the [friends](/Magic/Spells/friends.md) cantrip and can cast it without material components.
+* **Siren’s Song.** You know the [friends](../Magic/Spells/friends.md) cantrip and can cast it without material components.
 * **Languages.** You can speak, read, and write Common, Siren, and Aquan.

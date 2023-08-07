@@ -1,4 +1,4 @@
-# Svishek ([Zabalasa](/Nations/Zabalasa.md))
+# Svishek ([Zabalasa](../Nations/Zabalasa.md))
 **Population:** 
 
 **Features:** 

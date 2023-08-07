@@ -67,9 +67,9 @@ You specialize in a particular style of defending your allies. You choose one op
 
 * **Sacrificial Dive.** When a creature within 5 feet of you is hit by an attack, you can use your reaction to force the attack to hit you instead The attack hits you regardless of your AC or other abilities. Damage resistances, damage immunities, and condition immunities still apply--the attack still hits, but may have no effect.
 
-* **Warding Magic.** *Prerequisite: The ability to cast at least one spell* Choose one class you have levels in that you can learn or prepare spells as. If you prepare spells as that class, you always have [shield other](/Magic/Spells/shield-other.md) prepared, and it doesn't count against the number of spells you can prepare as that class. If not, you learn [shield other](/Magic/Spells/shield-other.md), and it doesn't count against the number of spells you can learn as that class.
+* **Warding Magic.** *Prerequisite: The ability to cast at least one spell* Choose one class you have levels in that you can learn or prepare spells as. If you prepare spells as that class, you always have [shield other](../../Magic/Spells/shield-other.md) prepared, and it doesn't count against the number of spells you can prepare as that class. If not, you learn [shield other](../../Magic/Spells/shield-other.md), and it doesn't count against the number of spells you can learn as that class.
 
-  [Shield other](/Magic/Spells/shield-other.md) also counts as a class spell of that class for you, and uses that class's spellcasting ability score. Example: If you chose wizard, [shield other](/Magic/Spells/shield-other.md) is also a wizard spell for you now, and Intelligence is your spellcasting ability for this spell.
+  [Shield other](../../Magic/Spells/shield-other.md) also counts as a class spell of that class for you, and uses that class's spellcasting ability score. Example: If you chose wizard, [shield other](../../Magic/Spells/shield-other.md) is also a wizard spell for you now, and Intelligence is your spellcasting ability for this spell.
 
 ## Withstand Pain
 *2nd-level guardian feature*
@@ -82,8 +82,7 @@ You can use this ability up to a number of times equal to your Constitution modi
 *3rd-level guardian feature*
 You practice and master unique abilities that you use to strike against enemies who defy your bulwark.
 
-Choose two of the techniques below to learn permanently. When you gain another level in the guardian class, you can
-choose to change one of the techniques you learned for this feature to a different technique.
+Choose two of the techniques below to learn permanently. When you gain another level in the guardian class, you can choose to change one of the techniques you learned for this feature to a different technique.
 
 When a creature within 60 feet of you that is marked by you and that you can see deals damage to a creature other than you, you can use your reaction to perform one of these techniques, with that enemy as your target. If a technique enables you to make a melee weapon attack, that attack counts as an opportunity attack.
 

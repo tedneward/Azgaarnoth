@@ -13,7 +13,7 @@ To gain levels as a glyph caster, you must meet the following requirements (in a
 * **Spellcasting class feature.** To become a glyph caster, you must have at least some competence in the magical arts.
 * **Character level 7th.** You must already be a 7th-level character before you can gain glyph caster levels.
 
-In order to gain levels as a glyph caster, you must find a mentor willing to teach you this art. Many glyph casters are members of the [School of the Eldar](/Organizations/MageSchools/SchoolOfTheEldar.md), but often are jealous, secretive, and difficult to engage with. To have any chance of learning their skills, prospective students often must perform acts of service before gaining entrance to the school. Independent glyph masters may also roam the lands, willing to teach, but many guard their secrets just as jealously.
+In order to gain levels as a glyph caster, you must find a mentor willing to teach you this art. Many glyph casters are members of the [School of the Eldar](../Organizations/MageSchools/SchoolOfTheEldar.md), but often are jealous, secretive, and difficult to engage with. To have any chance of learning their skills, prospective students often must perform acts of service before gaining entrance to the school. Independent glyph masters may also roam the lands, willing to teach, but many guard their secrets just as jealously.
 
 ## Class Features
 As a glyph caster, you gain the following class features.

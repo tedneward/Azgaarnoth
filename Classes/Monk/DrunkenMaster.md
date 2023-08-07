@@ -13,5 +13,3 @@ Starting at 11th level, you always seem to get a lucky bounce at just the right 
 
 ## Intoxicated Frenzy
 At 17th level, you gain the ability to make an overwhelming number of attacks against a group of enemies. When you use your Flurry of Blows, you can make up to three additional attacks with it (up to a total of five attacks), provided that each Flurry of Blows attack targets a different creature this turn.
-
-*Source: [Unearthed Arcana: A Trio of Subclasses](https://dnd.wizards.com/articles/unearthed-arcana/trio-subclasses)*

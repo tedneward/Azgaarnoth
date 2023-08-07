@@ -22,6 +22,7 @@ save or be poisoned for 1 minute and take 1d8
 poison damage, or 2d8 if the poison is ingested).
 Creatures that succeed on their save take half
 damage, but suffer no other effects.
+
 A poison you create can only be used by you,
 and has no value if you try to sell it. If you cast this
 spell again, any doses of poison you have previously
@@ -29,7 +30,8 @@ created with this spell instantly become water
 again. Otherwise, poison doses created with this
 spell retain their potency until the next time you
 finish a long rest, at which point they return to being water.
-At Higher Levels. When you cast this spell
+
+***At Higher Levels.*** When you cast this spell
 using a spell slot of 3rd level or higher, you create
 one additional dose of poison for every two levels
 above 1st. When you cast this spell using a spell slot

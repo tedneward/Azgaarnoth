@@ -17,5 +17,4 @@ At 6th level, while you are transformed by Wild Shape, when you hit with a melee
 When you reach 10th level, you learn the dragon's breath spell, which counts as a druid spell for you and doesn't count against the number of druid spells you know. Additionally, you can cast this spell (at 2nd level) once using this ability without expending a spell slot. Once you cast the spell in this way, you cannot do so again until you finish a long rest.
 
 ## Lingering Resistance
-When you reach 14th level, you have to ability to retain the resistances of your alternate forms. When you revert back to your normal form after using Wild Shape, you retain all resistances of that form, which carry over to your normal form. If your Wild Shape had any immunities, you get resistance to those damage types to which it was immune. You retain these resistances until you use your Wild Shape
-again, or until the end of your next long rest.
+When you reach 14th level, you have to ability to retain the resistances of your alternate forms. When you revert back to your normal form after using Wild Shape, you retain all resistances of that form, which carry over to your normal form. If your Wild Shape had any immunities, you get resistance to those damage types to which it was immune. You retain these resistances until you use your Wild Shape again, or until the end of your next long rest.

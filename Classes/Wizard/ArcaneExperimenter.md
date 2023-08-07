@@ -3,7 +3,7 @@ The wizardry disciplines tend towards fastidious structure, dedicated study, and
 
 But there are those who believe to truly learn, to truly understand, requires not only careful analysis but practice; even if that process is considered reckless. The quickest way to test if a spell formula works isn’t to pore over it for months or years, assessing its flaws, but to simply try it in a variety of situations and environments, and against a variety of foes.
 
-Members of this tradition are frequently found in the [School of the Northern Wind](/Organizations/MageSchools/NorthernWind.md).
+Members of this tradition are frequently found in the [School of the Northern Wind](../../Organizations/MageSchools/NorthernWind.md).
 
 ## Experimenter's Kit
 At 2nd level, you gain proficiency with alchemist’s supplies, a fundamental of arcane experimentation.
@@ -57,15 +57,15 @@ These spells are known generally just to arcane experimenters.
 ## Cantrips
 
 ## 2nd-level
-* [lesser charm of second chance](/Magic/Spells/lesser-charm-of-second-chance.md)
+* [lesser charm of second chance](../../Magic/Spells/lesser-charm-of-second-chance.md)
 
 ## 3rd-level
-* [ablative body ward](/Magic/Spells/ablative-body-ward.md)
+* [ablative body ward](../../Magic/Spells/ablative-body-ward.md)
 
 ## 4th-level
-* [greater charm of second chance](/Magic/Spells/greater-charm-of-second-chance.md)
+* [greater charm of second chance](../../Magic/Spells/greater-charm-of-second-chance.md)
 
 ## 5th-level
-* [prismatic-cloud](/Magic/Spells/prismatic-cloud.md)
+* [prismatic-cloud](../../Magic/Spells/prismatic-cloud.md)
 
 *Source: Blackstaff's Tome of Wizardry*

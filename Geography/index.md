@@ -1,13 +1,22 @@
-# An Overview of Azgaarnoth's Geography
-
+# The Geography of Azgaarnoth
 Azgaarnoth is the name given to the collection of continents that lie in a quarter of the globe south of the equator.
+
+![](../Azgaarnoth.jpeg)
 
 Celestially, Azgaarnoth is approximately 95 million miles from its sun, which burns slightly hotter than Earth's Sol. Few, if any, Azgaarnothians spend much time staring up at the stars, and if there are any sister planets in Azgaarnoth's solar system, their names have long been lost. Little to no importance is attached to constellations or stellar movement.
 
 Large bodies of water surround Azgaarnoth's continents. Azgaarnoth's tides are a complicated mess, owing to the fact that they are under the influence of no less than [four lunar satellites](Moons.md). A few scholars have claimed to have worked out the celestial mechanics of the moons and their influence on the tides, and published charts detailing high- and low-tide information, but most sailors have either come to rely on arcane/divine means of determining tidal data, or "go with their gut".
 
-The waters also isolate Azgaarnothians from the rest of their globe. The Great Northern Ocean is legendary for its storms, and the Deepwaters stretch to perilous depths. Azgaarnothians sail, but any attempts at journeying beyond the sight of Azgaarnothian lands have disappeared into the distance with no return, response, or explanation. Some scholars posit that these are the only lands on the planet, while others suggest that other continents are present but uninhabitable. Still others whisper of strange races and distant empires, but nothing even remotely resembling evidence has ever been produced. Some scholars theorize that dragons fled Azgaarnoth over the milennia to parts elsewhere on the globe, 
+> ### Game Notes
+> This approach allows (and in some ways encourages) the Game Master to be entirely erratic (some might say random) with the tidal schedules, rather than being required or expected to be held to some kind of routine schedule. (DMs, you're welcome.)
 
+The waters also isolate Azgaarnothians from the rest of their globe. The Great Northern Ocean is legendary for its storms, and the Deepwaters stretch to perilous depths. Azgaarnothians sail, but any attempts at journeying beyond the sight of Azgaarnothian lands have disappeared into the distance with no return, response, or explanation. Some scholars posit that these are the only lands on the planet, while others suggest that other continents are present but uninhabitable. Still others whisper of strange races and distant empires, but nothing even remotely resembling evidence has ever been produced. Some scholars theorize that dragons fled Azgaarnoth over the milennia to parts elsewhere on the globe, but until these other continents are found, nothing can be said for certain.
+
+Azgaarnoth's waters are primarily defined by the [Deepwaters](Deepwaters.md) and the [Sea of Liria](SeaOfLiria.md), though other (smaller) bodies of water certainly exist, such as the [Lishalsound](Lishalsound.md) and the [Ravensound](Ravensound.md), for example.
+
+## Land masses
 Most of the lands are flat, with a few mountain ranges that climb to merely 5,000ft at most. The highest point in Azgaarnoth is [Mount Bezulb](MtBezulb.md), an active volcano that has continuously erupted since recorded memory began. Periodically, randomly (or seemingly so), Mt Bezulb will erupt more forcefully, and a period of tectonic disturbance radiates throughout Azgaarnoth, but as of this writing these periods of unstability occur only every few centuries.
 
 Thanks also to the mass of water surrounding and permeating Azgaarnoth lands, weather is unpredictable across most of the continents. Where lands are flat, slow and steady rains are common year-round, though more common in winter and less in summer. Temperatures range from hotter in the north to colder in the south, but overall Azgaarnoth is remarkably temperate and mild. Where the lands meet oceans, swamp and marshlands are common, with wide swaths of grassland further inland. Forests are common, though thousands of years of civilization have taken its toll on some of them.
+
+The major land masses of Azgaarnoth include [Liria](Liria.md), [Al'Uma](AlUma.md), [Dradehalia](Dradehalia.md), [Bedia](Bedia.md), [Chidia](Chidia.md), [Tragekia](Tragekia.md), [Travenia](Travenia.md), [Travesimia](Travesimia.md), and [Yithia](Yithia.md).

@@ -1,5 +1,5 @@
 # Fey Elves (*eladrin*)
-The *eladrin* are elves native to the Feywild, a realm of beauty, unpredictable emotion, and boundless magic.  They are most often found in the wilds of [North Bedia](/Nations/Bedia.md), or on any of the scattered islands around Azgaarnoth. Intriguingly, they are also commonly found in the lands of the [Hordes](/Races/Hordes.md), without being forced into extensive combat against their neighbors.
+The *eladrin* are elves native to the Feywild, a realm of beauty, unpredictable emotion, and boundless magic.  They are most often found in the wilds of [North Bedia](../../Nations/Bedia.md), or on any of the scattered islands around Azgaarnoth. Intriguingly, they are also commonly found in the lands of the [Hordes](/Races/Hordes.md), without being forced into extensive combat against their neighbors.
 
 An *eladrin* is associated with one of the four seasons and has coloration reminiscent of that season, which can also affect the *eladrin*'s mood:
 

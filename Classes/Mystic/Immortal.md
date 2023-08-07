@@ -22,14 +22,15 @@ You can’t use this feature if you can’t use your psychic focus.
 ## Immortal Will
 Starting at 14th level, you can draw on your reserves of psionic power to survive beyond death. At the end of your turn while at 0 hit points, you can spend 5 psi points to immediately regain a number of hit points equal to your mystic level + your Constitution modifier.
 
-# Immortal Psionic Disciplines
-* [adaptive body](/Magic/Disciplines/adaptive-body.md)
-* [bestial form](/Magic/Disciplines/bestial-form.md)
-* [brute force](/Magic/Disciplines/brute-force.md)
-* [celerity](/Magic/Disciplines/celerity.md)
-* [corrosive metabolism](/Magic/Disciplines/corrosive-meltdown.md)
-* [diminution](/Magic/Disciplines/diminution.md)
-* [giant growth](/Magic/Disciplines/giant-growth.md)
-* [iron durability](/Magic/Disciplines/iron-durability.md)
-* [psionic restoration](/Magic/Disciplines/psionic-restoration.md)
-* [psionic weapon](/Magic/Disciplines/psionic-weapon.md)
+## Immortal Psionic Disciplines
+
+* [adaptive body](../../Magic/Disciplines/adaptive-body.md)
+* [bestial form](../../Magic/Disciplines/bestial-form.md)
+* [brute force](../../Magic/Disciplines/brute-force.md)
+* [celerity](../../Magic/Disciplines/celerity.md)
+* [corrosive metabolism](../../Magic/Disciplines/corrosive-meltdown.md)
+* [diminution](../../Magic/Disciplines/diminution.md)
+* [giant growth](../../Magic/Disciplines/giant-growth.md)
+* [iron durability](../../Magic/Disciplines/iron-durability.md)
+* [psionic restoration](../../Magic/Disciplines/psionic-restoration.md)
+* [psionic weapon](../../Magic/Disciplines/psionic-weapon.md)

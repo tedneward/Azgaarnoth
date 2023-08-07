@@ -1,7 +1,7 @@
 # Fighter Martial Archetype: Rune Knight
-You discovered how to enhance your martial prowess using the supernatural power of [runes](/Magic/Runes.md). You likely learned your methods first or second hand from one of the few who know how to scribe such runes, or found an ancient rune carved into a hill or cave. In time, you learned how to carve and apply runes to your equipment and how to invoke their magic, ultimately becoming a Rune Knight.
+You discovered how to enhance your martial prowess using the supernatural power of [runes](../../Magic/Runes.md). You likely learned your methods first or second hand from one of the few who know how to scribe such runes, or found an ancient rune carved into a hill or cave. In time, you learned how to carve and apply runes to your equipment and how to invoke their magic, ultimately becoming a Rune Knight.
 
-> Rune Knights either have in the past or will in the future run into or work with the [School of the Eldar](/Organizations/MageSchools/SchoolOfTheEldar.md) at some point in their career. In fact, it's highly likely that even if the Rune Knight hasn't directly met up with a member of that school, the school has had the Rune Knight under observation and simply chosen not to approach.
+> Rune Knights either have in the past or will in the future run into or work with the [School of the Eldar](../../Organizations/MageSchools/SchoolOfTheEldar.md) at some point in their career. In fact, it's highly likely that even if the Rune Knight hasn't directly met up with a member of that school, the school has had the Rune Knight under observation and simply chosen not to approach.
 
 ## Bonus Proficiencies
 *3rd-level Rune Knight feature*
@@ -14,6 +14,7 @@ You gain proficiency with smith's tools, and you learn to speak, read, and write
 You can use magic runes to enhance your gear. You can inscribe up to two runes of your choice, from among the [list below](#runes), and each time you gain a level in this class, you can replace one rune you know with a different one from this feature. When you reach certain levels in this class, you learn additional runes, as shown in the Runes Known table.
 
 **Runes Inscribed**
+
 Fighter Level|Number of Runes
 -------------|---------------
 3rd | 2
@@ -55,6 +56,7 @@ In addition, you can invoke the rune as a bonus action to enter a prophetic stat
 *3rd-level Rune Knight feature*
 
 You have learned how to imbue yourself with the power of runes. As a bonus action, you magically gain the following benefits, which last for 1 minute:
+
 * If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn't change.
 * You have advantage on Strength checks and Strength saving throws.
 * Once on each of your turns, one of your attacks with a weapon or an unarmed strike can deal an extra ld6 damage to a target on a hit.

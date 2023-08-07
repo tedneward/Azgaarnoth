@@ -27,13 +27,14 @@ At 14th level, you gain the ability to become a ghostly figure of psionic energy
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 
-# Awakened Psionic Disciplines
-* [aura sight](/Magic/Disciplines/aura-sight.md)
-* [intellect fortress](/Magic/Disciplines/intellect-fortress.md)
-* [mantle of awe](/Magic/Disciplines/mantle-of-awe.md)
-* [precognition](/Magic/Disciplines/precognition.md)
-* [psychic assault](/Magic/Disciplines/psychic-assault.md) 
-* [psychic disruption](/Magic/Disciplines/psychic-disruption.md)
-* [psychic inquisition](/Magic/Disciplines/psychic-inquisition.md)
-* [psychic phantoms](/Magic/Disciplines/psychic-phantoms.md)
-* [telepathic contact](/Magic/Disciplines/telepathic-contact.md)
+## Awakened Psionic Disciplines
+
+* [aura sight](../../Magic/Disciplines/aura-sight.md)
+* [intellect fortress](../../Magic/Disciplines/intellect-fortress.md)
+* [mantle of awe](../../Magic/Disciplines/mantle-of-awe.md)
+* [precognition](../../Magic/Disciplines/precognition.md)
+* [psychic assault](../../Magic/Disciplines/psychic-assault.md) 
+* [psychic disruption](../../Magic/Disciplines/psychic-disruption.md)
+* [psychic inquisition](../../Magic/Disciplines/psychic-inquisition.md)
+* [psychic phantoms](../../Magic/Disciplines/psychic-phantoms.md)
+* [telepathic contact](../../Magic/Disciplines/telepathic-contact.md)

@@ -1,7 +1,7 @@
 # Monastic Tradition: Way of the Sun Soul
 Monks of the Way of the Sun Soul learn to channel their own life energy into searing bolts of light. They teach that meditation can unlock the ability to unleash the indomitable light shed by the soul of every living creature.
 
-Many of these monks are found in the desert of [Al'Uma](/Geography/AlUma.md), both for the metaphorical light of the Prophet and/or his Disciple, as well as for the presence of the sun itself.
+Many of these monks are found in the desert of [Al'Uma](../../Geography/AlUma.md), both for the metaphorical light of the Prophet and/or his Disciple, as well as for the presence of the sun itself.
 
 ## Radiant Sun Bolt
 Starting when you choose this tradition at 3rd level, you can hurl searing bolts of magical radiance.

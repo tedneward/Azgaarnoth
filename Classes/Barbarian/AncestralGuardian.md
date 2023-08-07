@@ -3,7 +3,7 @@ Some barbarians hail from cultures that revere their ancestors. These tribes tea
 
 Barbarians who draw on their ancestral guardians can better fight to protect their tribes and their allies. In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors’ deeds. These tattoos tell sagas of victories against terrible monsters and other fearsome rivals.
 
-These barbarians are most commonly found among the [United Hordes](/Nations/Tragekia.md) or [Yithi](/Nations/Yithi.md).
+These barbarians are most commonly found among the [United Hordes](../../Nations/Tragekia.md) or [Yithi](../../Nations/Yithi.md).
 
 ## Ancestral Protectors
 Starting when you choose this path at 3rd level, spectral warriors appear when you enter your rage. While you’re raging, the first creature you hit with an attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has disadvantage on any attack roll that isn't against you, and when the target hits a creature other than you with an attack, that creature has resistance to the damage of the target’s attacks.
@@ -14,11 +14,9 @@ Beginning at 6th level, the guardian spirits that aid you can provide supernatur
 When you reach certain levels in this class, you can reduce the damage by more: by 3d6 at 10th level and by 4d6 at 14th level.
 
 ## Consult the Spirits
-At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the [augury](https://www.dndbeyond.com/spells/augury) or Clairvoyance spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of Clairvoyance invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
+At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the [augury](../../Magic/Spells/augury.md) or [Clairvoyance](../../Magic/Spells/clairvoyance.md) spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of Clairvoyance invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
 
 After you cast either spell in this way, you can’t use this feature again until you finish a short or long rest.
 
 ## Vengeful Ancestors
 At 14th level, your ancestral spirits grow powerful enough to retaliate. When you use your Spirit Shield to reduce the damage of an attack, the attacker takes an amount of force damage that your Spirit Shield prevents.
-
-*Source: [Unearthed Arcana: Revised Subclasses](https://dnd.wizards.com/articles/unearthed-arcana/revised-subclasses)*

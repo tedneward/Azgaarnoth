@@ -1,7 +1,7 @@
 # Roguish Archetype: Swashbuckler
 You focus your training on the art of the blade, relying on speed, elegance, and charisma in equal parts. While other warriors are  brutes clad in heavy armor, your method of fighting looks more like performance. A swashbuckler excels in single combat, and can fight with two weapons while safely darting away from an opponent. Swashbucklers are especially talented at making difficult maneuvers to escape enemies or attack from an unexpected direction.
 
-Swashbucklers are frequently found in the [dueling colleges](/Organizations/DuelingColleges.md), either competing or practicing when they're not out engaging in other more roguish activities. (They are rogues, after all.) Many swashbucklers also find themselves employed as guards at sea for the various [Merchant Guilds](/Organizations/MerchantGuilds/MerchantGuilds.md). A great number of the [Sea Reavers](/Organizations/MercCompanies/SeaReavers.md) are of this archetype, as well.
+Swashbucklers are frequently found in the [dueling colleges](../../Organizations/DuelingColleges.md), either competing or practicing when they're not out engaging in other more roguish activities. (They are rogues, after all.) Many swashbucklers also find themselves employed as guards at sea for the various [Merchant Guilds](../../Organizations/MerchantGuilds/MerchantGuilds.md). A great number of the [Sea Reavers](../../Organizations/MercCompanies/SeaReavers.md) are of this archetype, as well.
 
 ## Fancy Footwork
 Starting at 3rd level, you are a continuous blur of motion in battle as you dart in, attack, and slip away to safety. During your turn, if you make a melee attack against a creature, that creature cannot make opportunity attacks against you for the rest of your turn.

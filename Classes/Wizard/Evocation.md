@@ -1,7 +1,7 @@
 # Arcane Tradition: School of Evocation
 You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.
 
-Evokers are drawn naturally to the [Fiery Fist](/Organizations/MageSchools/FieryFist.md) and [Crimson Sunrise](/Organizations/MageSchools/CrimsonSunrise.md) mage schools and numerous [mercenary companies](/Organizations/MercCompanies/MercCompanies.md).
+Evokers are drawn naturally to the [Fiery Fist](../../Organizations/MageSchools/FieryFist.md) and [Crimson Sunrise](../../Organizations/MageSchools/CrimsonSunrise.md) mage schools and numerous [mercenary companies](../../Organizations/MercCompanies/MercCompanies.md).
 
 ## Evocation Savant
 Beginning when you select this school at 2nd level, the gold and time you must spend to copy a Evocation spell into your spellbook is halved.

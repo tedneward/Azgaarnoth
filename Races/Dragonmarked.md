@@ -51,14 +51,14 @@ The Mark of Detection manifests exclusively on half-elves. If your character has
 
 * **Deductive Intuition.** When you make an Intelligence (Investigation) or Wisdom (Insight) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
 
-* **Sense Threats.** You can cast the [detect magic](/Magic/Spells/detect-magic.md) and [detect poison and disease](/Magic/Spells/detect-poison-and-disease.md) spells, but only as rituals. Intelligence is your spellcasting ability for these spells.
+* **Sense Threats.** You can cast the [detect magic](../Magic/Spells/detect-magic.md) and [detect poison and disease](../Magic/Spells/detect-poison-and-disease.md) spells, but only as rituals. Intelligence is your spellcasting ability for these spells.
 
 * **Languages.** You can speak, read, and write Common and Elvish.
 
 ---
 
 ## The Mark of Finding
-The Mark of Finding sharpens the senses of those who carry it, guiding the hunter to their prey. It first appeared in the [United Hordes](/Nations/Tragekia.md), where Hordes scouts used it to find their prey. The mark helped unite humans and orcs in the [United Hordes](/Nations/Tragekia.md) and brought House Thar'ashk to lead the Five Hordes for a time.
+The Mark of Finding sharpens the senses of those who carry it, guiding the hunter to their prey. It first appeared in the [United Hordes](../Nations/Tragekia.md), where Hordes scouts used it to find their prey. The mark helped unite humans and orcs in the [United Hordes](../Nations/Tragekia.md) and brought House Thar'ashk to lead the Five Hordes for a time.
 
 ### Traits
 The Mark of Finding only manifests on half-orcs. If your character has the Mark of Finding, these traits replace the Ability Score Increase, Menacing, Relentless Endurance, and Savage Attacks given in the Player’s Handbook. Despite their orcish blood, heirs of the Mark of Finding often resemble their human parents in appearance and temperament. When you create your character, decide if the signs of your orcish ancestry are obvious or subtle.
@@ -70,7 +70,7 @@ The Mark of Finding only manifests on half-orcs. If your character has the Mark 
 * **Imprint Prey**. As a bonus action, choose one creature you can see within 30 feet of you. The target is imprinted in your mind until it dies or you use this trait again. Alternatively, you can imprint a creature as your quarry whenever you succeed on a Wisdom (Survival) check to track it.
     When you are tracking your quarry, double the result of your Intuition die. When your quarry is within 60 feet of you, you have a general sense of its location. Your attacks against it ignore half cover. If you can’t see the target when you attack it, your inability to see it doesn’t impose disadvantage on the attack roll. Likewise, your quarry doesn’t doesn’t gain advantage on attack rolls against you due to being hidden or invisible. Once you use this trait, you cannot use it again until you finish a short or long rest.
 
-* **Nature’s Voice**. When you reach 3rd level you gain the ability to cast [locate animals or plants](/Magic/Spells/locate-animals-or-plants.md), but only as a ritual.
+* **Nature’s Voice**. When you reach 3rd level you gain the ability to cast [locate animals or plants](../Magic/Spells/locate-animals-or-plants.md), but only as a ritual.
 
 ---
 
@@ -83,7 +83,7 @@ The Mark of Handling only manifests on humans. If your character has the Mark of
 * **Ability Score Increase**. Your Dexterity and Wisdom scores both increase by 1. In addition, one ability score of your choice increases by 1.
 * **Wild Intuition**. When you make a Wisdom (Animal Handling) or Intelligence (Nature) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
 * **Expert Handling**. You can use the Help action to aid an ally animal companion or mount within 30 feet of you, rather than 5 feet of you.
-* **Primal Connection**. You can cast [animal friendship](/Magic/Spells/animal-friendship.md) once with this trait and regain the ability to do so when you finish a short or long rest. Wisdom is your spellcasting ability for this spell.
+* **Primal Connection**. You can cast [animal friendship](../Magic/Spells/animal-friendship.md) once with this trait and regain the ability to do so when you finish a short or long rest. Wisdom is your spellcasting ability for this spell.
 * **The Bigger They Are**. When you cast a spell that affects only beasts, it also affects monstrosities with an Intelligence score of 3 or lower.
 
 ---
@@ -100,7 +100,7 @@ The Mark of Healing manifests exclusively on halflings. If your character has th
 
 * **Healing Touch**. As an action, you can draw power from your dragonmark to spend one of your Hit Dice and revitalize yourself or a creature you touch. Roll the die, add your Wisdom modifier, and the creature regains a number of hit points equal to the total. Once you use this trait, you can’t use it again until you finish a short or long rest.
 
-* **Jorasco’s Blessing**. You know the cantrip [spare the dying](/Magic/Spells/spare-the-dying.md). Wisdom is your spellcasting ability for this.
+* **Jorasco’s Blessing**. You know the cantrip [spare the dying](../Magic/Spells/spare-the-dying.md). Wisdom is your spellcasting ability for this.
 
 ---
 
@@ -111,7 +111,7 @@ They may not always have gold, but a halfling with the Mark of Hospitality is su
 The Mark of Hospitality manifests exclusively on halflings. If your character has the Mark of Hospitality, this is your halfling subrace.
 Ability Score Increase. Your Charisma score increases by 1.
 
-* **Innkeeper’s Charms**. You know the cantrips [friends](/Magic/Spells/friends.md) and [prestidigitation](/Magic/Spells/prestidigitation.md). Charisma is your spellcasting ability for them.
+* **Innkeeper’s Charms**. You know the cantrips [friends](../Magic/Spells/friends.md) and [prestidigitation](../Magic/Spells/prestidigitation.md). Charisma is your spellcasting ability for them.
 
 * **Ever Hospitable**. When you make a Charisma (Persuasion) check or an ability check involving brewer’s supplies or cook’s utensils, you can roll one Intuition die (a d4) and add the number rolled to the ability check.
 
@@ -127,35 +127,35 @@ The Mark of Making only manifests on humans. If your character has the Mark of M
 
 **Artisan’s Intuition**. When you make an ability check with artisan’s tools, roll 1d4 and add it to the result.
 
-**Maker’s Gift**. You know the cantrip [mending](/Magic/Spells/mending.md). You gain proficiency with one type of artisan’s tools.
+**Maker’s Gift**. You know the cantrip [mending](../Magic/Spells/mending.md). You gain proficiency with one type of artisan’s tools.
 
 **Magecraft**. You can create a temporary magic item out of common materials. Choose a cantrip from the spell list below. Describe the item connected to it. As long as you possess the item, you know that cantrip. At the end of a long rest, you can replace this with a new item and select a new cantrip from the list. Intelligence is your spellcasting ability for these cantrips.
 
 *Magecraft Cantrip Spell List*
 
-* [balance](/Magic/Spells/balance.md)
-* [blade ward](/Magic/Spells/blade-ward.md)
-* [blood boil](/Magic/Spells/blood-boil.md)
-* [bolster](/Magic/Spells/bolster.md)
-* [booming blade](/Magic/Spells/booming-blade.md)
-* [control flames](/Magic/Spells/control-flames.md)
-* [create bonfire](/Magic/Spells/create-bonfire.md)
-* [dancing lights](/Magic/Spells/dancing-lights.md)
-* [dazzle](/Magic/Spells/dazzle.md)
-* [disarm](/Magic/Spells/disarm.md)
-* [friends](/Magic/Spells/friends.md)
-* [frostbite](/Magic/Spells/frostbite.md)
-* [gust](/Magic/Spells/gust.md)
-* [light](/Magic/Spells/light.md)
-* [mage hand](/Magic/Spells/mage-hand.md)
-* [mending](/Magic/Spells/mending.md)
-* [message](/Magic/Spells/message.md)
-* [mold earth](/Magic/Spells/mold-earth.md)
-* [prestidigitation](/Magic/Spells/prestidigitation.md)
-* [sapping sting](/Magic/Spells/sapping-sting.md)
-* [shape water](/Magic/Spells/shape-water.md)
-* [shocking grasp](/Magic/Spells/shocking-grasp.md)
-* [thunderclap](/Magic/Spells/thunderclap.md)
+* [balance](../Magic/Spells/balance.md)
+* [blade ward](../Magic/Spells/blade-ward.md)
+* [blood boil](../Magic/Spells/blood-boil.md)
+* [bolster](../Magic/Spells/bolster.md)
+* [booming blade](../Magic/Spells/booming-blade.md)
+* [control flames](../Magic/Spells/control-flames.md)
+* [create bonfire](../Magic/Spells/create-bonfire.md)
+* [dancing lights](../Magic/Spells/dancing-lights.md)
+* [dazzle](../Magic/Spells/dazzle.md)
+* [disarm](../Magic/Spells/disarm.md)
+* [friends](../Magic/Spells/friends.md)
+* [frostbite](../Magic/Spells/frostbite.md)
+* [gust](../Magic/Spells/gust.md)
+* [light](../Magic/Spells/light.md)
+* [mage hand](../Magic/Spells/mage-hand.md)
+* [mending](../Magic/Spells/mending.md)
+* [message](../Magic/Spells/message.md)
+* [mold earth](../Magic/Spells/mold-earth.md)
+* [prestidigitation](../Magic/Spells/prestidigitation.md)
+* [sapping sting](../Magic/Spells/sapping-sting.md)
+* [shape water](../Magic/Spells/shape-water.md)
+* [shocking grasp](../Magic/Spells/shocking-grasp.md)
+* [thunderclap](../Magic/Spells/thunderclap.md)
 
 **Spellsmith**. You can spend one minute to weave a temporary enchantment into a nonmagical suit of armor or weapon. For the next hour the object becomes a magic item, gaining a +1 bonus to AC if it’s armor or a +1 bonus to hit and damage if it’s a weapon. Once you use this trait, you can’t use it again until you finish a long rest.
 
@@ -189,9 +189,9 @@ The Mark of Scribing manifests exclusively on gnomes. If your character has the 
 
 **Gifted Scribe**. You are proficient with calligrapher’s supplies and forgery kits. When you make an ability check using either one of these tools, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
 
-**Scribe’s Insight**. You can cast [comprehend languages](/Magic/Spells/comprehend-languages.md) once with this trait, and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for it.
+**Scribe’s Insight**. You can cast [comprehend languages](../Magic/Spells/comprehend-languages.md) once with this trait, and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for it.
 
-**Whispering Wind**. You know the [message](/Magic/Spells/message.md) cantrip. Intelligence is your spellcasting ability for it.
+**Whispering Wind**. You know the [message](../Magic/Spells/message.md) cantrip. Intelligence is your spellcasting ability for it.
 
 **Extra Language**. You can speak, read, and write one extra language of your choice.
 
@@ -207,7 +207,7 @@ The Mark of Sentinel only manifests on humans. If your character has the Mark of
 
 **Sentinel’s Intuition**. When you roll for Initiative or make a Wisdom (Perception) check to notice a threat, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
 
-**Sentinel’s Shield**. You know the [blade ward](/Magic/Spells/blade-ward.md) cantrip. You can cast the shield spell once with this trait and you regain ability to do so after you finish a short or long rest.
+**Sentinel’s Shield**. You know the [blade ward](../Magic/Spells/blade-ward.md) cantrip. You can cast the shield spell once with this trait and you regain ability to do so after you finish a short or long rest.
 
 **Vigilant Guardian**. As an action, you can designate an ally you can see as your ward. You have advantage on Wisdom (Insight) and Wisdom (Perception) checks made to spot threats to your ward. In addition, when you are within 5 feet of your ward, and that creature is the target of an attack that you can see, you can use your reaction to swap places with your ward. When you do, you become the target of the attack.
 
@@ -224,7 +224,7 @@ Ability Score Increase. Your Charisma score increases by 1.
 
 **Gift of the Shadows**. When you make a Charisma (Performance) or Dexterity (Stealth) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
 
-**Shape Shadows**. You know the [minor illusion](/Magic/Spells/minor-illusion.md) cantrip. Charisma is your spellcasting ability for this trait.
+**Shape Shadows**. You know the [minor illusion](../Magic/Spells/minor-illusion.md) cantrip. Charisma is your spellcasting ability for this trait.
 
 **Slip Into Shadow**. You can use the Hide action as a bonus action, even if you have no cover or if you’re under observation. Regardless of whether you succeed or fail, once you use this ability, you can’t use it again until you finish a short or long rest.
 
@@ -244,7 +244,7 @@ The Mark of Storm manifests exclusively on half-elves. If your character has the
 
 **Storm’s Blessing**. You have resistance to lightning damage.
 
-**Headwinds**. You know the [gust](/Magic/Spells/gust.md) cantrip. When you reach 3rd level, you can cast the [gust of wind](/Magic/Spells/gust-of-wind.md) spell once with this trait and regain the ability to do so when you finish a long rest.
+**Headwinds**. You know the [gust](../Magic/Spells/gust.md) cantrip. When you reach 3rd level, you can cast the [gust of wind](../Magic/Spells/gust-of-wind.md) spell once with this trait and regain the ability to do so when you finish a long rest.
 
 **Languages**. You can speak, read, and write Common and Elvish.
 
@@ -260,4 +260,4 @@ The Mark of Warding manifests exclusively on dwarves. If your character has the 
 
 **Master of Locks**. When you make an Intelligence (History), Intelligence (Investigation), or Thieves' Tools check involving lock and trap mechanisms, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
 
-**Wards and Seals**. You can use your mark to cast the [alarm](/Magic/Spells/alarm.md) spell as a ritual. Starting at 3rd level you can cast [arcane lock](/Magic/Spells/arcane-lock.md) once with this trait and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for these spells.
+**Wards and Seals**. You can use your mark to cast the [alarm](../Magic/Spells/alarm.md) spell as a ritual. Starting at 3rd level you can cast [arcane lock](../Magic/Spells/arcane-lock.md) once with this trait and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for these spells.

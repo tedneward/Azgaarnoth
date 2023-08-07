@@ -16,12 +16,14 @@ damage, and has disadvantage on attack rolls until
 the end of its next turn. On a successful save, the
 target is unaffected that round, but the hands
 remain attached.
+
 For the duration, as a bonus action on each of
 your turns, you can force the target to make a new
 Constitution saving throw or suffer the bludgeoning
 damage and disadvantage on attack rolls until the
 end of its next turn. The spell ends if the creature
 dies or loses consciousness.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 3rd level or higher, the damage
 increases by 1d10 for each slot level above 2nd.

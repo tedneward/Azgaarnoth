@@ -6,7 +6,7 @@ ___
 - **Components:** V, S, M (severed hand of a creature)
 - **Duration:** Concentration, up to 1 hour
 ---
-Choose the hand of a creature that has been severed from its body for longer than 24 hours and grant it sentience. For the duration of the spell, the [crawling claw](/Creatures/Crawling-Claw.md) is under your control and can be commanded using your bonus action. The claw can only understand simple commands.
+Choose the hand of a creature that has been severed from its body for longer than 24 hours and grant it sentience. For the duration of the spell, the [crawling claw](../../Creatures/Crawling-Claw.md) is under your control and can be commanded using your bonus action. The claw can only understand simple commands.
 
 The claw is under your control for 1 hour, after which it stops obeying you. To reassert control for another hour or to assert control over an existing crawling claw, you may cast this spell again.
 

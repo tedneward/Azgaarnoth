@@ -24,7 +24,7 @@
 >***Portent from Weather.*** At the start of each day, the hag peers into the sky or the ocean for at least 1 minute, then the DM rolls three d20s and records the numbers rolled. During that day, the hag can replace any attack roll, saving throw, or ability check made by her or a creature that she can see with one of these foretelling rolls before the roll is made.
 >
 >***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 16). She can innately cast the following spells, requiring no material components, although she can only cast *divination* or *scrying* by staring at the sky, the currents of the ocean, or a storm that she has trapped or bottled:
->* *At will*: [call lightning](/Magic/Spells/call-lightning.md), [disguise self](/Magic/Spells/disguise-self.md), [druidcraft](/Magic/Spells/druidcraft.md), [feather fall](/Magic/Spells/feather-fall.md), [fly](/Magic/Spells/fly.md) (self only), [gaseous form](/Magic/Spells/gaseous-form.md), [gust of wind](/Magic/Spells/gust-of-wind.md)
+>* *At will*: [call lightning](../Magic/Spells/call-lightning.md), [disguise self](../Magic/Spells/disguise-self.md), [druidcraft](../Magic/Spells/druidcraft.md), [feather fall](../Magic/Spells/feather-fall.md), [fly](../Magic/Spells/fly.md) (self only), [gaseous form](../Magic/Spells/gaseous-form.md), [gust of wind](../Magic/Spells/gust-of-wind.md)
 >* *3/day each*: control water, fog cloud (as 5th-level), lightning bolt (as 5th-level), water breathing
 >* *1/day each*: control weather, divination, geas, scrying, wind walk
 >

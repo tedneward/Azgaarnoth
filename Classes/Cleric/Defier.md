@@ -6,9 +6,10 @@ To maintain spellcasting abilities that equal those of religious clerics, some d
 Other defiers instead align themselves with the supreme force they call "the Great Unknown." This entity transcends the alleged gods (whom they consider to be powerful beings rather than divine creators worthy of worship). After all, some force must’ve created the planes of reality and given mortals their innate sense of good and evil. Such a force could not merely be one of the petty powers, however, wrangling with rivals and driven by greedy narcissism to seek worship. Rather, the force behind all creation must be unequalled and beyond such temporal concerns. Defiers aligned with the Great Unknown call themselves the Athar, and they are a very influential faction in some parts of the Outer Planes.
 
 ## Domain Spells
-You gain domain spells at the cleric levels listed in the Defier Domain Spells table. See the Divine Domain class feature for how domain spells work.
+You gain domain spells at the cleric levels listed in the Defier Domain Spells table. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
 **Defier Domain Spells**
+
 Cleric Level | Spells
 ------------ | ------
 1st|detect evil and good, nerveskitter

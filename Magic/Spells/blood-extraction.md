@@ -12,4 +12,4 @@ If a creature is reduced to 0 hit points by this spell the orb collects some of 
 
 Creatures without blood are immune to this spell.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage dealt increases by 1d6 and 1d12 respectively for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage dealt increases by 1d6 and 1d12 respectively for each slot level above 3rd.

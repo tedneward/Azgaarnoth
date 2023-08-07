@@ -16,6 +16,7 @@ saving throws while it is within 10 feet of you. If a
 creature friendly to you is within 10 feet of you
 when you first cast the spell, it also gains 10
 temporary hit points.
+
 The aura is centered on you, but if you move
 more than half your speed in a single turn, the spell
 ends early.

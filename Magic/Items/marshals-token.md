@@ -11,15 +11,15 @@ In the hands of its attuned Marshal, the *token* expend charges to do any of the
 
 * ***Detection. (1 charge)*** The *token* can detect one of the following within a 60 foot range:
 
-    * Chaos and order (as per the [detect chaos and order](/Magic/Spells/detect-chaos-and-order.md) spell)
-    * Evil and good (as per [detect evil and good](/Magic/Spells/detect-evil-and-good.md))
-    * Magic (as per [detect magic](/Magic/Spells/detect-magic.md))
-    * Poison and disease (as per [detect poison and disease](/Magic/Spells/detect-poison-and-disease.md))
-    * Thoughts (as per [detect thoughts](/Magic/Spells/detect-thoughts.md))
-    * Undead (as per [detect undead](/Magic/Spells/detect-undead.md))
+    * Chaos and order (as per the [detect chaos and order](../Spells/detect-chaos-and-order.md) spell)
+    * Evil and good (as per [detect evil and good](../Spells/detect-evil-and-good.md))
+    * Magic (as per [detect magic](../Spells/detect-magic.md))
+    * Poison and disease (as per [detect poison and disease](../Spells/detect-poison-and-disease.md))
+    * Thoughts (as per [detect thoughts](../Spells/detect-thoughts.md))
+    * Undead (as per [detect undead](../Spells/detect-undead.md))
 
     Doing so requires an action and concentration on the part of the Marshal. They must be holding the *token* and not engaging in other activity (such as combat) while doing so.
-* ***Sending. (1 charge)*** The *token* can enchant an ordinary rock into a one half of a pair of *sending stones*, the other half being the *token* itself. While the Marshal holds their *token*, they can use an action to cast the [sending](/Magic/Spells/sending.md) spell from it. The target is the bearer of the other stone. If no creature bears the other stone, you know that fact as soon as you use the stone. The *token* can enchant up to the Marshal's Proficiency Bonus number of stones, and the Marshal can contact a stone using a charge. Marshals can also contact their Sherriff, as well as other Marshals, using this power, to a range of 1,000 miles. It cannot be used across planes of existence.
+* ***Sending. (1 charge)*** The *token* can enchant an ordinary rock into a one half of a pair of *sending stones*, the other half being the *token* itself. While the Marshal holds their *token*, they can use an action to cast the [sending](../Spells/sending.md) spell from it. The target is the bearer of the other stone. If no creature bears the other stone, you know that fact as soon as you use the stone. The *token* can enchant up to the Marshal's Proficiency Bonus number of stones, and the Marshal can contact a stone using a charge. Marshals can also contact their Sherriff, as well as other Marshals, using this power, to a range of 1,000 miles. It cannot be used across planes of existence.
 * ***Seeing. (2 charges)*** As an action, the *token* can allow the Marshal to see the immediate surroundings of anyone holding a rock enchanted by the *token* above. The vision lasts for one round, and the Marshal sees and hears only what the holder of the enchanted stone sees and hears, as if the Marshal were standing in the 5-foot square next to the holder, up to a range of 30 feet. The Marshal cannot Send while Seeing (or vice versa).
 
 Each *token* holds 6 charges, and recharges the following dawn. However, if a Marshal wishes to expend charges when their *token* is currently at 0 charges, the Marshal can sacrifice vitality (in the form of Hit Dice) to power the *token*, at a rate of three Hit Dice per charge.

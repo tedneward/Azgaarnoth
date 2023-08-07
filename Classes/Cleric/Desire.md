@@ -1,19 +1,22 @@
 # Divine Domain: Desire
-Gods and Goddesses of the Desire Domain take many forms, but all wield power over the feeling of raw desire, whether it be desire for money, food, fame, love, drugs, or even darker delights. Some deities of this domain are known as Gods and Goddesses of lust or beauty, such as Aphrodite or Freyja. Others are known as deities of wine and hedonism, like Olidammara (Greyhawk) or Dionysus. Some are respected lords of commerce, like Waukeen (Faerun), and others reviled masters of greed and thievery, like The Keeper (Eberron}.
+Gods and Goddesses of the Desire Domain take many forms, but all wield power over the feeling of raw desire, whether it be desire for money, food, fame, love, drugs, or even darker delights.
+
+
 
 **DESIRE DOMAIN SPELLS**
+
 Cleric Level|Spells
 ------------|------
-1st|Charm Person, Command
-3rd|Enthrall, Locate Object
-5th|Excite Emotions (new), Vampiric Touch
-7th|[charm monster](/Magic/Spells/charm-monster.md), Compulsion
-9th|Dominate Person, geas
+1st|[charm person](../../Magic/Spells/charm-person.md), [command](../../Magic/Spells/command.md)
+3rd|[enthrall](../../Magic/Spells/enthrall.md), [locate object](../../Magic/Spells/locate-object.md)
+5th|[excite emotions](../../Magic/Spells/excite-emotions.md), [vampiric touch](../../Magic/Spells/vampiric-touch.md)
+7th|[charm monster](../../Magic/Spells/charm-monster.md), [compulsion](../../Magic/Spells/compulsion.md)
+9th|[dominate person](../../Magic/Spells/dominate-person.md), [geas](../../Magic/Spells/geas.md)
 
 ## Honeyed Words
 *1st-level Desire Domain feature*
 
-When you choose this domain at 1st level you learn the friends and vicious mockery cantrips, which don't count against the number of cleric cantrips you know.
+When you choose this domain at 1st level you learn the [friends](../../Magic/Spells/friends.md) and [vicious mockery](../../Magic/Spells/vicious-mockery.md) cantrips, which don't count against the number of cleric cantrips you know.
 
 You also gain proficiency in one of the following skills of your choice: Deception, Performance, or Persuasion.
 

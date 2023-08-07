@@ -29,6 +29,8 @@ As one might expect, followers of The Traveler have little in the way of formal 
 ## Orders
 The Midknights of Misadventure are an informal fellowship composed primarily of halfling clerics and fighter/thieves. While hardly a formal military order, small bands of Midknights perform jailbreaks and other rescue operations in situations where an imprisoned follower of The Traveler faces death or torture and escaping without assistance is very unlikely. The composition and membership of a particular band varies widely, but half a dozen or so Midknights of widely varying skills and abilities are typically available at any given time in cities or regions with sizable halfling populations.
 
+Many [Rogues' Guilds](../../Organizations/RoguesGuilds/index.md), particularly those that focus more on thievery than violence, are informal or formal worshipers of The Traveler, and more than one Guild is in fact a temple to Misadventure.
+
 ## Dogma
 Seek excitement and danger wherever your feet take you, for risk-taking leads to life's greatest rewards. Lust for the thrill, not for the treasure, for greed obscures the true prize of the experience. At the end of the day, the halfling with the wildest tale is the most honored in the eyes of the Irrepressible Scamp.
 

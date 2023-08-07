@@ -7,5 +7,25 @@ God of the sun and summer, Pelor is the keeper of time. He supports those in nee
 
 * Be watchful against evil.
 
-Domains:
+## Clerical details
+Domains: 
 
+Weapon: 
+
+## Worshipers, Clergy & Temples
+
+## Vestments
+
+## Hierarchy
+
+## Temples
+
+## Rituals
+
+## Festivals
+
+## Orders
+
+## Dogma
+
+## Appearance, Manifestations

@@ -3,7 +3,7 @@ Bards of the College of Swords are called blades, and they entertain through dar
 
 Blades who abandon lives as entertainers have often run into trouble that makes maintaining their secret activities impossible. A blade caught stealing or engaging in vigilante justice is too great a liability for most troupes. With their weapon skills and magic, these blades either take up work as enforcers for Rogues’ guilds or strike out on their own as adventurers.
 
-Being one of the least-restrictive among the Bardic Colleges, the Colleges of Swords are found in universities all over Azgaarnoth; additionally, Sword bards are often taking on promising individuals, teaching them the rudiments, and then passing them on with a referral or endorsement to a nearby Sword College. These bards are often found out in the sketchiest places of the world, and many have found employment as an agent of the [Copper Order](/Organizations/DraconicOrder/Copper.md). Many also join [mercenary companies](/Organizations/MercCompanies/MercCompanies.md) as soldiers, support staff, or advisers, and still more sign on with [merchant guilds](/Organizations/MerchantGuilds/MerchantGuilds.md) as guards, entertainment, or just to travel.
+Being one of the least-restrictive among the Bardic Colleges, the Colleges of Swords are found in universities all over Azgaarnoth; additionally, Sword bards are often taking on promising individuals, teaching them the rudiments, and then passing them on with a referral or endorsement to a nearby Sword College. These bards are often found out in the sketchiest places of the world, and many have found employment as an agent of the [Copper Order](../../Organizations/MilitantOrders/DraconicOrder/Copper.md). Many also join [mercenary companies](../../Organizations/MercCompanies/) as soldiers, support staff, or advisers, and still more sign on with [merchant guilds](../../Organizations/MerchantGuilds/) as guards, entertainment, or just to travel.
 
 ## Bonus Proficiencies
 When you join the College of Blades at 3rd level, you gain proficiency with medium armor and scimitars.
@@ -12,6 +12,7 @@ If you’re proficient with a simple or martial melee weapon, you can use it as 
 
 ## Fighting Style
 At 3rd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if something in the game lets you choose again.
+
 * **Dueling**. When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
 * **Two-Weapon Fighting**. When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
@@ -28,5 +29,3 @@ Beginning at 6th level, you can attack twice, instead of once, whenever you use 
 
 ## Master’s Flourish
 Starting at 14th level, whenever you use a Blade Flourish option, you can roll a d6 and use it instead of expending a Bardic Inspiration die.
-
-*Source: [Unearthed Arcana: Revised Subclasses](https://dnd.wizards.com/articles/unearthed-arcana/revised-subclasses)*

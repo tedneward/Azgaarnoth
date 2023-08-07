@@ -12,6 +12,7 @@ transformed into magical cold fire for the duration,
 with blue-tinged flames. The affected area deals 1d6
 cold damage to any creature that starts its turn
 within the cube.
+
 You can alternatively target a fire elemental or a
 creature that has vulnerability to cold damage. In
 this case, the spell's effect is instantaneous, and the

@@ -1,5 +1,5 @@
 # Awakened
-An awakened shrub or tree is an ordinary shrub or tree given sentience and mobility by the [awaken](/Magic/Spells/awaken.md) spell or similar magic.
+An awakened shrub or tree is an ordinary shrub or tree given sentience and mobility by the [awaken](../Magic/Spells/awaken.md) spell or similar magic.
 
 > Jump to [shrub](#shrub) | [tree](#tree)
 

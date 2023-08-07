@@ -8,7 +8,7 @@ ___
 ---
 You become magically attuned to the earth and ground around you, enabling you to traverse it like a fish in water.
 
-Until the spell ends, you have [tremorsense](/Supplements/Underground.md#tremorsense) that extends out to 60 feet around you, you gain a [burrowing speed](/Supplements/Underground.md#burrow) of 60 feet, and you can hold your breath for 10 times the normal limit.
+Until the spell ends, you have [tremorsense](../../GameNotes.md#tremorsense) that extends out to 60 feet around you, you gain a [burrowing speed](../../GameNotes.md#burrow) of 60 feet, and you can hold your breath for 10 times the normal limit.
 
 While burrowing using this spell you can use an action on your turn to make a melee spell attack against another creature that is above the ground within 5 feet of you. On a hit, if the target doesn't have a burrowing speed, you pull the target's legs (or similar appendages) beneath the ground, causing them to become grappled (escape DC equal to your spell saving throw DC) and restrained while grappled, though it is not a magical effect, and they are grappled by the earth, not a creature or spell.
 

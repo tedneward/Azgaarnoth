@@ -1,7 +1,7 @@
 # Arcane Tradition: Incantation
 Incanters (or Incantifer or Incantrix) – also called metamages – manipulate the raw magical potential in themselves and others, augmenting or suppressing the magical energy they are able to draw upon. Incanters can be a boon for allies, and a nightmare for enemy spellcasters.
 
-Incanters are frequently found in any of the [Mage Schools](/Organizations/MageSchools/MageSchools.md), often as "support staff" to augment or safeguard the research being done by the rest of the school.
+Incanters are frequently found in any of the [Mage Schools](../../Organizations/MageSchools/index.md), often as "support staff" to augment or safeguard the research being done by the rest of the school.
 
 ## Spell Savant
 Starting at 2nd level, you gain proficiency in the Arcana skill if you don’t already have it, and you can identify spells that you can see being cast, as a free action. To identify a spell you must make a successful Intelligence (Arcana) check. The DC equals 10 + the spell’s level.
@@ -24,20 +24,22 @@ You regain the use of this ability after completing a long rest.
 ## Magic Resistance
 Starting at 14th level, you have advantage on saving throws against spells and other magical effects.
 
+---
+
 # Incantation Spells
 
 ## 1st-level
-* [emparadweomer](/Magic/Spells/emparadweomer.md)
+* [emparadweomer](../../Magic/Spells/emparadweomer.md)
 
 ## 3rd-level
-* [maladweomer](/Magic/Spells/maladweomer.md)
+* [maladweomer](../../Magic/Spells/maladweomer.md)
 
 ## 4th-level
-* [pierce magic resistance](/Magic/Spells/pierce-magic-resistance.md)
+* [pierce magic resistance](../../Magic/Spells/pierce-magic-resistance.md)
 
 ## 7th-level
-* [spellsteal](/Magic/Spells/spellsteal.md)
+* [spellsteal](../../Magic/Spells/spellsteal.md)
 
 ## 9th-level
-* [pierce-any-shield](/Magic/Spells/pierce-any-shield.md)
+* [pierce-any-shield](../../Magic/Spells/pierce-any-shield.md)
 

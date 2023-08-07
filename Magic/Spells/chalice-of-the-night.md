@@ -6,7 +6,7 @@ ___
 - **Components:** V, S, M (1 ounce of vampire's blood, which the spell consumes, and a chalice worth 2,500 gp)
 - **Duration:** Up to 24 hours
 ---
-You assume the form of a [vampire](/Creatures/Vampire.md) until the next dawn, or the spell's duration, whichever happens first. You transform into an average vampire, one without any class levels or the Spellcasting trait.
+You assume the form of a [vampire](../../Creatures/Vampire.md) until the next dawn, or the spell's duration, whichever happens first. You transform into an average vampire, one without any class levels or the Spellcasting trait.
 
 Your game statistics are replaced by the statistics of a vampire, though you retain your alignment and Intelligence, Wisdom, and Charisma scores if they are greater. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of a vampire. If the vampire has the same proficiency as you and the bonus listed in its statistics is higher than yours, use the vampire's bonus in place of yours. You cannot use its Legendary Resistance or its legendary actions in the new form. As a vampire, you do not age.
 

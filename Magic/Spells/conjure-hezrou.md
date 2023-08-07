@@ -6,7 +6,7 @@ ___
 - **Components:** V, S, M (food worth at least 100 gp, which the spell consumes)
 - **Duration:** Concentration, up to 1 hour
 ---
-You summon a [hezrou](/Creatures/Demon-Hezrou.md) that appears in an unoccupied space you can see within range. The hezrou disappears when it drops to 0 hit points or when the spell ends.
+You summon a [hezrou](../../Creatures/Demon-Hezrou.md) that appears in an unoccupied space you can see within range. The hezrou disappears when it drops to 0 hit points or when the spell ends.
 
 The hezrou’s attitude depends on the value of the food used as a material component for this spell. Roll initiative for the hezrou, which has its own turns. At the start of the hezrou’s turn, the DM makes a secret Charisma check on your behalf, with a bonus equal to the food’s value divided by 20. The check DC starts at 10 and increases by 2 each round. You can issue orders to the hezrou and have it obey you as long as you succeed on the Charisma check.
 

@@ -1,7 +1,7 @@
 # Talon Arbur Suncloud
 *chaotic good male dragonborn (copper) rogue (Arcane Trickster) 4*
 
-**Title:** Talon, [Order of the Copper Dragon](/Organizations/DraconicOrder/Copper.md)
+**Title:** Talon, [Order of the Copper Dragon](../Organizations/DraconicOrder/Copper.md)
 
 **Residence:** [Brinwal](/Cities/Brinwal.md)
 

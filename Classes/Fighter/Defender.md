@@ -1,8 +1,7 @@
 # Martial Archetype: Dwarven Defender
 Dwarves are well-known for their stubborn, head-on approach on things. Give them a suit of armor, a shield, and centuries of war history, and you have a typical dwarven defender. Ironclad, both literally and metaphorically, these juggernauts embody a valuable lesson of why dwarves are not meant to be trifled with. Those who are foolish enough to taunt these guardians' physical appearance tend to regret what they just did, often while being stomped to death to the half-pints they've been wooing a minute before.
 
-## Restrictions: Dwarves Only
-Only dwarves can be the Dwarven Defender. Dwarven Defender fills a particular niche in dwarven society and culture. If a non-dwarf wants to take this archetype, they must be trained by a dwarf, and sworn with deeply-binding oaths to never reveal the secrets to any who is not a dwarf; only dwarves may teach the ways of the Defender.
+Over the millennia, dwarves have learned to teach these martial skills to others (most notably humans). However, most defenders are dwarven still to this day, and any who take up this archetype likely have strong dwarven influence in their lives.
 
 ## Stands Like A Rock, Hits Like A Rock
 Starting at 3rd level when you choose this subclass, your training as a dwarven fighter grants you a special stance that allows you to hold your ground firmly. You gain the following benefits:

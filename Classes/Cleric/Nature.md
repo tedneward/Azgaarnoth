@@ -1,19 +1,21 @@
 # Divine Domain: Nature
+This domain is available to those who worship [Ehlonna](../../Religions/Pantheon/Ehlonna.md), ...
 
 ## Domain Spells
-Starting at 1st level, you gain domain spells at the cleric levels listed in the Unity Domain Spells table. See the Nature Domain class feature for how domain spells work.
+Starting at 1st level, you gain domain spells at the cleric levels listed in the Nature Domain Spells table. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
 **Nature Domain Spells**
+
 Cleric Level |	Spells
 ------------ | -----
-1st	| Animal Friendship, Speak with Animals
-3rd	|Barkskin, Spike Growth
-5th	|Plant Growth, Wind Wall
-7th	|Dominate Beast, Grasping Vine
-9th	|Insect Plague, Tree Stride
+1st	|[Animal Friendship](../../Magic/Spells/animal-friendship.md), [Speak with Animals](../../Magic/Spells/speak-with-animals.md)
+3rd	|[Barkskin](../../Magic/Spells/barkskin.md), [Spike Growth](../../Magic/Spells/spike-growth.md)
+5th	|[Plant Growth](../../Magic/Spells/plant-growth.md), [Wind Wall](../../Magic/Spells/wind-wall.md)
+7th	|[Dominate Beast](../../Magic/Spells/dominate-beast.md), [Grasping Vine](../../Magic/Spells/grasping-vine.md)
+9th	|[Insect Plague](../../Magic/Spells/insect-plague.md), [Tree Stride](../../Magic/Spells/tree-stride.md)
 
 ## Acolyte of Nature
-At 1st level, you learn one cantrip of your choice from the druid spell list. You also gain proficiency in one of the following skills of your choice: Animal Handling, Nature, or Survival.
+At 1st level, you learn one cantrip of your choice from the [druid "core" spell list](../Druid/index.md#core-druid-spells). You also gain proficiency in one of the following skills of your choice: Animal Handling, Nature, or Survival.
 
 ## Bonus Proficiency
 Also at 1st level, you gain proficiency with heavy armor.

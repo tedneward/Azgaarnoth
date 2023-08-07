@@ -25,5 +25,3 @@ Starting at 15th level, you learn to trade accuracy for swift strikes. If you ha
 
 ## Snap Shot
 Starting at 18th level, you are ever ready to spring into action. If you take the Attack action on your first turn of a combat, you can make one additional ranged weapon attack as part of that action.
-
-*Source: [Unearthed Arcana: Fighter](https://dnd.wizards.com/articles/unearthed-arcana/fighter)*

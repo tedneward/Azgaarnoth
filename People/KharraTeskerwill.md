@@ -1,4 +1,4 @@
-# Kharra [Teskerwill](/Organizations/Houses/Teskerwill.md)
+# Kharra [Teskerwill](../Organizations/Houses/Teskerwill.md)
 *Human female Fighter 3 (Cavalier) NG*
 
 ## Description

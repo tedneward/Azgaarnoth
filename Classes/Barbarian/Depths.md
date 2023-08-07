@@ -1,5 +1,5 @@
 # Barbarian Path: Path of the Depths (Partnered)
-Encounters with the terrors of the deep can break the minds of the weak-willed, but some forge their trauma into weapons never seen above the waves. The barbarian who walks this path has survived such an encounter and has gained extraordinary abilities from the experience. These barbarians are always (almost without exception) of the *al'maera* of the [Al'Uma](/Religions/AlUma.md), and are often sworn to destroy some enemy of the [Undersea](/Geography/Undersea.md), most often the one that caused the trauma to the barbarian in the first place.
+Encounters with the terrors of the deep can break the minds of the weak-willed, but some forge their trauma into weapons never seen above the waves. The barbarian who walks this path has survived such an encounter and has gained extraordinary abilities from the experience. These barbarians are always (almost without exception) of the *al'maera* of the [Al'Uma](../../Religions/AlUma.md), and are often sworn to destroy some enemy of the [Undersea](../../Geography/Undersea.md), most often the one that caused the trauma to the barbarian in the first place.
 
 ## Gift of the Drowned Ones
 At 3rd level when you adopt this path, you gain a swimming speed equal to your walking speed and gain the ability to breathe underwater.
