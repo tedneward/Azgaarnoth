@@ -1,7 +1,7 @@
 # The Nature of Spirits
 *Beings of the Other World*
 
-*The Dungeons and Dragons System Reference Document mentions "bodiless spirits, such as ghosts and specters" in its description of the Undead type. As such, in reading the shaman class, one might be forgiven for being a touch confused: what exactly are the spirits with whom shamans commune? Only the Speaker of Ancestors mentions spirits as having once been alive, and it makes no mention of them having been brought back in a state of undeath.*
+*The Dungeons and Dragons System Reference Document mentions "bodiless spirits, such as ghosts and specters" in its description of the Undead type. As such, in reading the shaman class, one might be forgiven for being a touch confused: what exactly are the spirits with whom [shamans](../Classes/Shaman/) commune? Only the Speaker of Ancestors mentions spirits as having once been alive, and it makes no mention of them having been brought back in a state of undeath.*
 
 *The word "spirit" is to blame for this confusion, as it has a multitude of definitions, some of which seem only tangentially related to one another. One might discuss a warrior’s unbreakable "spirit," or else make plans to "spirit" the young prince away from his castle to protect him from assassins. Even within Dungeons and Dragons alone, the word is used with a variety of different meanings, which must be determined through context.*
 

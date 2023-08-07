@@ -1,4 +1,4 @@
-# Auril
+# Pantheon: Auril
 *Frostmaiden, Icedawn, the Cold Goddess*
 
 Auril, also known as the Frostmaiden, is a deity of cold and evil. She is a fickle and vain deity, who is primarily venerated out of fear. She is worshipped mostly in northern Faerûn due to its cold climate, usually out of fear rather than adoration.

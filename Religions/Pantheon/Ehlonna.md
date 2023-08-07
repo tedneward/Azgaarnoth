@@ -1,4 +1,4 @@
-# Ehlonna
+# Pantheon: Ehlonna
 *Ehlonna of the Forests, Goddess of the woodlands*
 
 Ehlonna has many aspects: hunter, ranger, woman of the woods, protector of elves and half-elves, or goddess of fertility.
@@ -55,6 +55,4 @@ Knotty Forest Prowlers: This group seeks first and foremost to protect the Knott
 Ehlonna teaches that the animals and plants of the forests are gifts, and are not to be stolen. She is often the goddess of rangers and druids and opposes those who hunt for sport, and anyone who would exploit the land for fun or profit.
 
 ## Appearance, Manifestations
-Ehlonna is variously depicted as an elven or human woman, and often associates with unicorns and other sylvan creatures. When in human form, Ehlonna appears as a dark-haired human woman, but will at times appear as a golden-haired elven maiden. Her eyes are deep blue or startling violet. Her garments may be the practical garb of a ranger or the rich gown of an elven princess. She carries a longbow that always hits its target.
-
-Her human aspect has special powers over horses, while as Ehlenestra she has similar command over unicorns.
+Ehlonna is variously depicted as an elven or human woman, often around unicorns and other sylvan creatures. When depicted in human form, Ehlonna appears as a dark-haired human woman; when depicted in elvish form, she appears as a golden-haired elven maiden. Her eyes are deep blue or startling violet. Her garments may be the practical garb of a ranger or the rich gown of an elven princess. She carries a longbow that always hits its target.
