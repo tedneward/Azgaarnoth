@@ -5,7 +5,7 @@ Azgaarnoth has a wide range of classes available:
 The artificer is a masters of invention, using ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions.
 
 ## [Barbarian](Barbarian)
-
+A barbarian is defined by their rage: unbridled, unquenchable, and unthinking fury. More than a mere emotion, their anger is the ferocity of a cornered predator, the unrelenting assault of a storm, the churning turmoil of the sea.
 
 ## [Bard](Bard)
 Whether scholar, skald, or scoundrel, a bard weaves magic through words and music to inspire allies, demoralize foes, manipulate minds, create illusions, and even heal wounds. The bard is a master of song, speech, and the magic they contain.
