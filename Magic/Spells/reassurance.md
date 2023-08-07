@@ -1,5 +1,5 @@
 #### Reassurance
-*Enchantment cantrip (Cleric,Druid)
+*Enchantment cantrip* (Cleric,Druid)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

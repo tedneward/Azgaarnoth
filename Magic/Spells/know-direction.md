@@ -1,5 +1,5 @@
 #### Know Direction
-*Divination cantrip (Druid,Wizard)
+*Divination cantrip* (Druid,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

@@ -1,5 +1,5 @@
 #### Hemokinesis
-*transmutation cantrip (Sorcerer,Warlock,Wizard)
+*transmutation cantrip* (Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

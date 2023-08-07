@@ -1,5 +1,5 @@
 #### Thought Blast
-*Enchantment cantrip (Sorcerer)
+*Enchantment cantrip* (Sorcerer)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (5-foot radius)

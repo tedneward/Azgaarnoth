@@ -1,5 +1,5 @@
 #### Bloodlink
-*necromancy cantrip (Cleric,Pale Master,Sorcerer,Warlock)
+*necromancy cantrip* (Cleric,Pale Master,Sorcerer,Warlock)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

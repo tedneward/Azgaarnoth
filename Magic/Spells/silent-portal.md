@@ -1,5 +1,5 @@
 #### Silent Portal
-*Illusion cantrip (Bard,Sorcerer,Wizard)
+*Illusion cantrip* (Bard,Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

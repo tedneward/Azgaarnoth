@@ -1,5 +1,5 @@
 #### Minor Telekinetic Weapon
-*Conjuration cantrip (Artificer,Sorcerer)
+*Conjuration cantrip* (Artificer,Sorcerer)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

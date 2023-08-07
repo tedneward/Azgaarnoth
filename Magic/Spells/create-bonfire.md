@@ -1,5 +1,5 @@
 #### Create Bonfire
-*conjuration cantrip (Artificer,Druid,Shaman,Sorcerer,Warlock,Wizard)
+*conjuration cantrip* (Artificer,Druid,Shaman,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

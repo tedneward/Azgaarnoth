@@ -1,5 +1,5 @@
 #### Disarm
-*evocation cantrip (Bard,Cleric,Wizard)
+*evocation cantrip* (Bard,Cleric,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

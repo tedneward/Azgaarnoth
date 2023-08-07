@@ -1,5 +1,5 @@
 #### Glimmering Blade
-*Conjuration cantrip (Artificer,Druid,Sorcerer,Warlock,Wizard)
+*Conjuration cantrip* (Artificer,Druid,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 10 feet

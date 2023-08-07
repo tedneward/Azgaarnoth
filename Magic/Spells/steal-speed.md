@@ -1,5 +1,5 @@
 #### Steal Speed
-*Necromancy cantrip (Artificer,Sorcerer,Warlock,Wizard)
+*Necromancy cantrip* (Artificer,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

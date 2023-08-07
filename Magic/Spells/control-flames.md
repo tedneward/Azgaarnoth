@@ -1,5 +1,5 @@
 #### Control Flames
-*Transmutation cantrip (Druid,Sorcerer,Wizard)
+*Transmutation cantrip* (Druid,Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

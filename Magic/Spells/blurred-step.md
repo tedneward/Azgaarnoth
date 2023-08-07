@@ -1,5 +1,5 @@
 #### Blurred Step
-*Conjuration cantrip (Sorcerer)
+*Conjuration cantrip* (Sorcerer)
 ___
 - **Casting Time:** 1 reaction, which you take when a creature within 5 feet of you uses the Disengage action
 - **Range:** 5 feet

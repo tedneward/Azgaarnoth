@@ -1,5 +1,5 @@
 #### Force Push
-*Evocation cantrip (Sorcerer)
+*Evocation cantrip* (Sorcerer)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

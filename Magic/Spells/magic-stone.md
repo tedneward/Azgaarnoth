@@ -1,5 +1,5 @@
 #### Magic Stone
-*Transmutation cantrip (Artificer,Druid,Warlock)
+*Transmutation cantrip* (Artificer,Druid,Warlock)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Touch

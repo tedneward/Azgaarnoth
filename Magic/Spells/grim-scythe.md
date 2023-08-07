@@ -1,5 +1,5 @@
 #### Grim Scythe
-*Transmutation cantrip (Pale Master,Warlock,Wizard)
+*Transmutation cantrip* (Pale Master,Warlock,Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

@@ -1,5 +1,5 @@
 #### Zeal
-*2nd-level abjuration (WARNING: NO CLASSES LISTED)* (WARNING: NO CLASSES LISTED)
+*2nd-level abjuration* (Cleric,Paladin)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

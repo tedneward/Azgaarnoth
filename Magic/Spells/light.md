@@ -1,5 +1,5 @@
 #### Light
-*Evocation cantrip (Artificer,Bard,Cleric,Sorcerer,Wizard)
+*Evocation cantrip* (Artificer,Bard,Cleric,Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

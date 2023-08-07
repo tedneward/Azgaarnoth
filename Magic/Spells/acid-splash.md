@@ -1,5 +1,5 @@
 #### Acid Splash
-*conjuration cantrip (Artificer,Sorcerer,Wizard)
+*conjuration cantrip* (Artificer,Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

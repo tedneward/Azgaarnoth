@@ -1,5 +1,5 @@
 #### Night Terror
-*Conjuration cantrip (Pale Master,Warlock,Wizard)
+*Conjuration cantrip* (Pale Master,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

@@ -1,5 +1,5 @@
 #### Ghostharp
-*Divination cantrip (Bard)
+*Divination cantrip* (Bard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

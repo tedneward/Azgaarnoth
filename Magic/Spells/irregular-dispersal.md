@@ -1,5 +1,5 @@
 #### Irregular Dispersal
-*Abjuration cantrip (Artificer,Wizard)
+*Abjuration cantrip* (Artificer,Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 60 feet

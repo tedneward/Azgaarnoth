@@ -1,5 +1,5 @@
 #### Commendation
-*abjuration cantrip (Cleric)
+*abjuration cantrip* (Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

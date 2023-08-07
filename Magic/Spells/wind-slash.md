@@ -1,5 +1,5 @@
 #### Wind Slash
-*Conjuration cantrip (Druid,Wizard)
+*Conjuration cantrip* (Druid,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 15 feet

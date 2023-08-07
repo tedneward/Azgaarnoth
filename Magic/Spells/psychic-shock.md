@@ -1,5 +1,5 @@
 #### Psychic Shock
-*Illusion cantrip (Sorcerer)
+*Illusion cantrip* (Sorcerer)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

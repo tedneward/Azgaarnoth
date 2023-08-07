@@ -1,5 +1,5 @@
 #### Focused Discipline
-*Evocation cantrip (Bard,Cleric,Wizard)
+*Evocation cantrip* (Bard,Cleric,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 5 feet

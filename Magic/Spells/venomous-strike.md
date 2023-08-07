@@ -1,5 +1,5 @@
 #### Venomous Strike
-*Transmutation cantrip (Bard,Druid)
+*Transmutation cantrip* (Bard,Druid)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

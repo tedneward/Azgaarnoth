@@ -1,5 +1,5 @@
 #### Mind Sliver
-*Enchantment cantrip (Sorcerer,Warlock,Wizard)
+*Enchantment cantrip* (Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

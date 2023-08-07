@@ -1,5 +1,5 @@
 #### Fell Strike
-*Necromancy cantrip (Cleric,Druid,Sorcerer,Warlock,Wizard)
+*Necromancy cantrip* (Cleric,Druid,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 5 feet

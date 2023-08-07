@@ -1,5 +1,5 @@
 #### Reaver's Touch
-*Necromancy cantrip (Cleric,Druid,Pale Master,Warlock,Wizard)
+*Necromancy cantrip* (Cleric,Druid,Pale Master,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

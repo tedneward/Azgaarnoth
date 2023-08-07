@@ -1,5 +1,5 @@
 #### Prestidigitation
-*Transmutation cantrip (Artificer,Bard,Sorcerer,Warlock,Wizard)
+*Transmutation cantrip* (Artificer,Bard,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 10 feet

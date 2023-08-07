@@ -1,5 +1,5 @@
 #### Shadow Ink
-*Conjuration cantrip (Pale Master,Wizard)
+*Conjuration cantrip* (Pale Master,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

@@ -1,5 +1,5 @@
 #### Feywild Guardian
-*Conjuration cantrip (Druid,Sorcerer,Warlock,Wizard)
+*Conjuration cantrip* (Druid,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 reaction, which you take when a hostile creature you can see within 10 feet of you takes the Disengage action or makes an attack that does not target you
 - **Range:** 10 feet

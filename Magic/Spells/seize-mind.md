@@ -1,5 +1,5 @@
 #### Seize Mind
-*Enchantment cantrip (Sorcerer,Wizard)
+*Enchantment cantrip* (Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

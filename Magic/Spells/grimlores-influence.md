@@ -1,5 +1,5 @@
 #### Grimlore's Influence
-*Necromancy cantrip (Pale Master,Sorcerer,Warlock,Wizard)
+*Necromancy cantrip* (Pale Master,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 30 feet

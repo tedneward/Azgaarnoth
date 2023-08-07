@@ -1,5 +1,5 @@
 #### Launch Ammunition
-*Transmutation cantrip (Artificer,Wizard)
+*Transmutation cantrip* (Artificer,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch
