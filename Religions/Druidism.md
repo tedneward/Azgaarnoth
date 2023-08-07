@@ -15,4 +15,4 @@ Within [Bedian lands](../Nations/Bedia.md), druids are extremely common, owing t
 [Dradehalia](../Nations/Dradehalia.md), meanwhile, has a great number of druids, but they tend to lay very low within communities inside of the Dread Empire, as the suggestion that anything is more important than the survial of the nation or the [Dread Emperor](../People/DreadEmperor.md) is often not a long-term survivability tactic within those borders.
 
 ## Shamans and spirits
-Most druids (and rangers) find themselves very comfortable in the presence of [shamans](../Classes/Shaman.md), particularly those whose calling takes them to a more "natural" bent. It is not uncommon for druids and rangers to pair up with shamans for some period of time.
+Most druids (and rangers) find themselves very comfortable in the presence of [shamans](../Classes/Shaman), particularly those whose calling takes them to a more "natural" bent. It is not uncommon for druids and rangers to pair up with shamans for some period of time.

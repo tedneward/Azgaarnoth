@@ -1,4 +1,5 @@
 # Divine Domain: Life
+This is a domain granted by the [Alalihatian tradition](../../Religions/AlUma.md#alalihatian-cleric), the [Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric), the [Zabalasan tradition](../../Religions/AlUma.md#zabalasan-cleric), the [Kaevarian Church](../../Religions/KaevarianChurch.md), ...
 
 ## Domain Spells
 Starting at 1st level, you gain domain spells at the cleric levels listed in the Life Domain Spells table. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.

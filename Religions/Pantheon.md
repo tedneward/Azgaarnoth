@@ -6,6 +6,7 @@ Each member of the Pantheon has sway over one or more particular domains, and wh
 Among the known gods/goddesses of the Pantheon (and their associated domains) are:
 
 **Gods of Azgaarnoth**
+
 Deity | Description |Alignment | Domains | Symbol
 ------|-------------|----------|---------|--------
 [Arawn](Pantheon/Arawn.md)|God of life and death|NE|Life, Death|Black star on gray background
