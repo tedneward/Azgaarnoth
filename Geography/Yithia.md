@@ -1,5 +1,7 @@
 # Yithia: The East
 
+![](AlUma-and-Yithia.jpeg)
+
 Yithia, the continent to the east of [Al'Uma](./AlUma.md), is the home of the nations of [Yithi](../Nations/Yithi.md) and [Zhi](../Nations/Zhi.md). Although scholars argue about whether Yithia is, in fact, its own continent, the geography is just different enough (flat compared to the Al'Uma's rolling hills, with the weather more mild than the Al'Uman storms) to merit the possibility, and Zhi scholars insist that Yithia is, in fact, a separate land mass that merged with Al'Uma countless centuries ago. Regardless of the truth of the matter, the Yithians consider themselves "separate and apart" from the rest of the world, geographically speaking, and the rest of the world really has enough issues to bother arguing.
 
 The end of the [Daw mountain range](./DawMountains.md) tapers off as the continent of Yithia begins, leaving most of Yithia flat, with little changes in elevation, and grasslands as far as the eye can see. Owing to the large landmass with little by way of geographic boundaries, cities tend to be more spread out, the most extreme example of this being [Fenpreloval](../Cities/Fenpreloval.md), the "Marketplace of the East", which straddles the Yithian Road for several miles before it branches north (the [Zhian Route](./Roads.md)) and southeast: almost every building is one or two stories tall at most, with a sprawling network of back alleys, side roads, and numerous street-market bazaars forming the majority of the city's permanent structure.
