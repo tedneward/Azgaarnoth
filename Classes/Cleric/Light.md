@@ -1,4 +1,5 @@
 # Divine Domain: Light
+This domain is available to those who revere [Ehlonna](../../Religions/Pantheon/Ehlonna.md), ....
 
 ## Domain Spells
 Starting at 1st level, you gain domain spells at the cleric levels listed in the Light Domain Spells table. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
@@ -7,14 +8,14 @@ Starting at 1st level, you gain domain spells at the cleric levels listed in the
 
 Cleric Level |	Spells
 ------------ | -----
-1st	| Burning Hands, Faerie Fire
-3rd	| Flaming Sphere, Scorching Ray
-5th	| Daylight, Fireball
-7th	| Guardian of Faith, Wall of Fire
-9th	| Flame Strike, Scrying
+1st	| [Burning Hands](../../Magic/Spells/burning-hands.md), [Faerie Fire](../../Magic/Spells/faerie-fire.md)
+3rd	| [Flaming Sphere](../../Magic/Spells/flaming-sphere.md), [Scorching Ray](../../Magic/Spells/scorching-ray.md)
+5th	| [Daylight](../../Magic/Spells/daylight.md), [Fireball](../../Magic/Spells/fireball.md)
+7th	| [Guardian of Faith](../../Magic/Spells/guardian-of-faith.md), [Wall of Fire](../../Magic/Spells/wall-of-fire.md)
+9th	| [Flame Strike](../../Magic/Spells/flame-strike.md), [Scrying](../../Magic/Spells/scrying.md)
 
 ## Bonus Cantrip
-When you choose this domain at 1st level, you gain the [light](https://www.dndbeyond.com/spells/light) cantrip if you don't already know it.
+When you choose this domain at 1st level, you gain the [light](../../Magic/Spells/light.md) cantrip if you don't already know it.
 
 ## Warding Flare
 Also at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature.

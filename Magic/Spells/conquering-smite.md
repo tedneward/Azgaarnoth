@@ -15,6 +15,7 @@ target falls prone. Until the start of your next turn,
 if the target stands up from being prone, you may
 use your reaction to make one melee attack against
 the target.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 3rd level or higher, the extra damage
 increases by 1d6 for each slot level above 2nd.

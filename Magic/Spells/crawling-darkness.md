@@ -12,6 +12,7 @@ Your form becomes wrapped in shadows, and
 tentacles burst from your shoulders and spine. You
 cannot be identified, except by the spell true seeing ,
 or a similar magical effect.
+
 You gain a +4 bonus to AC and for the duration
 you are immune to falling damage and can walk on
 water and other liquids (as if you were the subject

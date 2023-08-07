@@ -13,6 +13,7 @@ exhaustion, fear, the poisoned condition, or disease,
 they are considered naturally adapted to both hot
 and cold climates. and they don't require food,
 drink, or rest for the duration.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 4th level or higher, you can affect one
 additional creature for each slot level above 3rd.

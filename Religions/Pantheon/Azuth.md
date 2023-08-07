@@ -1,7 +1,7 @@
 # Pantheon: Azuth
 
 ## Clerical details
-Domains: 
+Domains: [Arcana](../../Classes/Cleric/Arcana.md), [Knowledge](../../Classes/Cleric/Knowledge.md)
 
 Weapon: 
 

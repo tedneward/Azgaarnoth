@@ -10,7 +10,7 @@ Ehlonna is gentle and benevolent, but hard against the evil humanoids and the ma
 Symbol: Rampant Unicorn (or a unicorn horn)
 
 ## Clerical details
-Domains: Good, Plant, Sun
+Domains: [Protection](../../Classes/Cleric/Protection.md), [Nature](../../Classes/Cleric/Nature.md), [Sun (Light)](../../Classes/Cleric/Light.md)
 
 Weapon: Longbow
 

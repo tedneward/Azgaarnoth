@@ -13,6 +13,7 @@ hostile creature within 5 feet of that ally must make
 a Dexterity saving throw. A creature takes 4d6
 radiant damage on a failed save, or half as much
 damage on a successful one.
+
 In addition, the chosen ally gains temporary hit
 points equal to 5 + your spellcasting ability
 modifier, and it is considered proficient with all

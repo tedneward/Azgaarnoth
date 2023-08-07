@@ -14,6 +14,7 @@ fire damage on a failed save, or half as much
 damage on a successful one. All unattended objects
 within 10 feet of the target catch on fire from the
 intense heat.
+
 In addition, if a creature ends its turn within 10
 feet of the target, it must make a Dexterity saving
 throw, taking 2d6 fire damage on a failed save, or

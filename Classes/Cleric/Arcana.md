@@ -12,16 +12,16 @@ Starting at 1st level, you gain domain spells at the cleric levels listed in the
 
 Cleric Level |	Spells
 ------------ | -----
-1st |	Detect Magic, Magic Missile
-3rd	| Magic Weapon, Nystul's Magic Aura
-5th	| Dispel Magic, Magic Circle
-7th	| Arcane Eye, Leomund's Secret Chest
-9th	| Planar Binding, Teleportation Circle
+1st | [Detect Magic](../../Magic/Spells/detect-magic.md), [Magic Missile](../../Magic/Spells/magic-missile.md)
+3rd	| [Magic Weapon](../../Magic/Spells/magic-weapon.md), [Nystul's Magic Aura](../../Magic/Spells/nystuls-magic-aura.md)
+5th	| [Dispel Magic](../../Magic/Spells/dispel-magic.md), [Magic Circle](../../Magic/Spells/magic-circle.md)
+7th	| [Arcane Eye](../../Magic/Spells/arcane-eye.md), [Leomund's Secret Chest](../../Magic/Spells/leomunds-secret-chest.md)
+9th	| [Planar Binding](../../Magic/Spells/planar-binding.md), [Teleportation Circle](../../Magic/Spells/teleportation-circle.md)
 
 ## Arcane Initiate
 *1st-level Arcana Domain feature* 
 
-You gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips.
+You gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the [wizard "core" spell list](../Wizard/index.md#core-wizard-spells). For you, these cantrips count as cleric cantrips.
 
 ## Channel Divinity: Arcane Abjuration
 *2nd-level Arcana Domain feature* 

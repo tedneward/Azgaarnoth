@@ -6,7 +6,7 @@ ___
 - **Components:** S, M (the corpse of a blackbird and one black onyx stone worth 250 gp)
 - **Duration:** Concentration, up to 24 hours
 ---
-You raise one corpse of a Medium or Small humanoid as a [revenant](/Creatures/Revenant.md) under your temporary influence.
+You raise one corpse of a Medium or Small humanoid as a [revenant](../../Creatures/Revenant.md) under your temporary influence.
 
 Once raised, the revenant is friendly to you and your companions for the duration. It obeys any verbal commands that you issue to it (no action required by you). The revenant is under your control for 24 hours, after which time it stops obeying any command you have given it.
 

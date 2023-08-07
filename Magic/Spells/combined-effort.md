@@ -16,7 +16,8 @@ the target must make a Wisdom saving throw. On a
 failed save, until the end of its next turn it cannot
 take reactions, and it has disadvantage on attack
 rolls against you and your allies.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 4th level or higher, the extra psychic
 damage increases by 1d6 for each slot level above
 3rd.

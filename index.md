@@ -1,5 +1,5 @@
 # Welcome to Azgaarnoth
-**Population**: ~35 million (not counting those not under census; all told, probably closer to ~70 million)
+**Population**: ~70 million (not counting those not under census; all told, probably closer to ~110 million)
 
 **Area**: ~5.5 million square miles of land
 
@@ -40,9 +40,13 @@ Curious as to the history of Azgaarnoth? Start with the [Timeline](History/Timel
 Azgaarnoth has [four moons](/Geography/Moons.md), sits fourth in its solar system of seven planets, and orbits a yellow sun similar to Earth's. It has an annual cycle of 360 days (which is broken into twelve months of 30 days each, though the different nations have different names for the months) and a daily cycle of 24 hours.
 
 ## The common world
-Being a commoner in Azgaarnoth is not as dark as some might expect; in fact, compared to the Dark Ages of Western Europe, commoners enjoy a relatively brisk and peaceful life--although the details may differ depending on which land one calls hoome. For most of the world, life is similar to that of the European Renaissance: life offers a great deal of options to those who choose to stay at home and apprentice to a master, learn a craft, hone it through years of use, eventually becoming a master and opening up apprenticeships for a new generation.
+Azgaarnoth's population density is relatively sparse, approximately 20 people per square mile. (For comparison, Europe in 1300 had around 80 million people over an area of just under 4 million square miles, which is the same rough population density: 20/sq mi.) Of these, roughly 8 million live in urban areas (cities), approximately 10% of the total population. (Contrast this to the modern world, where ~80% of the population of North America or Europe live in urban areas; in 1300's Europe, that figure was 5%.)
 
-Food is, for the most part, plentiful, thanks to the intervention of gods and clerics.Agriculture remains a dominant role for the commoners of Azgaarnoth, with many of the traditional cereals (grains), vegetables, fruits, oils, meat, milk, fungi and eggs that players would know from European and Asian backgrounds. Rice is particularly common among diets across Azgaarnoth. Fishing is a staple activity, and the preponderance of rivers across the continents means that fishermen are often found even several hundred miles from the nearest coastline. Much of Al'Uma agriculture is nomadic pastoralism (herds of livestock moved across the grasslands for pasture) combined with subsistence farming, where much of the rest of Azgaarnoth practices a combination of subsistence farming and intensive farming. Several merchant guilds specialize in the growth and distribution of intensive farming agriculture, and most intensive farming heads to the various cities around Azgaarnoth.
+Being a commoner in Azgaarnoth is not as dark as some might expect; in fact, compared to the Dark Ages of Western Europe, commoners enjoy a relatively brisk and peaceful life--although the details may differ depending on which land one calls home. For most of the world, life is similar to that of the European Renaissance: life offers a great deal of options to those who choose to stay at home and apprentice to a master, learn a craft, hone it through years of use, eventually becoming a master and opening up apprenticeships for a new generation.
+
+Food is, for the most part, plentiful, thanks to the intervention of gods and clerics. Agriculture remains a dominant role for the commoners of Azgaarnoth, with many of the traditional cereals (grains), vegetables, fruits, oils, meat, milk, fungi, and eggs that players would know from European and Asian backgrounds. Rice is particularly common among diets across Azgaarnoth. Fishing is a staple activity, and the preponderance of rivers across the continents means that fishermen are often found even several hundred miles from the nearest coastline. Much of Al'Uma agriculture is nomadic pastoralism (herds of livestock moved across the grasslands for pasture) combined with subsistence farming, where much of the rest of Azgaarnoth practices a combination of subsistence farming and intensive farming. Several merchant guilds specialize in the growth and distribution of intensive farming agriculture, and most intensive farming heads to the various cities around Azgaarnoth.
+
+Towns and villages dot the landscape across most of the continent, though some lands (particularly the Al'Uma to the northeast) are more sharply divided between urban dwellers and nomads. Villages usually boast some economic activity beyond just subsistence farming, and towns often have artisans that make goods for sale locally or remotely through a system of guilds that transport and sell wares abroad. Most villages have at least one inn, which often doubles as the tavern and local meeting place, and most village inns run at at least half capacity most of the time. Most towns will have several inns, several taverns, a few general stores, and usually one or more shops of specialty. Some towns, depending on cultural, religious, or organizational influences, may even sport a bookseller (that often acts as a library and/or schoolhouse to the locals). 
 
 Bandits in most parts of the world are generally rare, though certainly not unknown, and while most cities certainly have their "poor quarter", lower classes are not relegated to crushing poverty of the deepest despair. Raids on isolated villages do happen (particularly in the "wilder" lands of Northern Bedia, or where open warfare dominates the land, such as on the continent of Chidia), generally once or twice in the average villager's lifetime, but less often than having a son or brother or cousin go off to war and never to return. "Monsters" are more prevalent, since what one commoner may term a "monster" is what another might term "fellow citizen", but what traditional D&D considers "monsters" generally fall within the descriptor of "the Hordes", and the Hordes have founded, and administer, their own nations.
 
@@ -61,8 +65,11 @@ In addition, several new classes roam the Azgaarnothian lands: [Artificer](Class
 
 Additionally, for those players whose characters have reached some success and are looking for futher specialization, several [prestige classes](Classes/Prestige) are available for multiclass. *(I haven't used prestige classes before, so let's talk before you get your heart set on them--we may need to tinker.)*
 
-### [Nations](Nations)
-No world would be complete without courts, kings and queens, nobility, intrigue, espionage, and warfare. The [nations](Nations) of Azgaarnoth have all that in high amounts, with enemies and allies in all directions--both within and without.
+### Backgrounds
+**TODO**
+
+### [Nations](Nations) and [Cities](Cities)
+No world would be complete without courts, kings and queens, nobility, intrigue, espionage, and warfare. The [nations](Nations) of Azgaarnoth have all that in high amounts, with enemies and allies in all directions--both within and without. Players may also want to take a look at the various [Cities](Cities) of Azgaarnoth, as a way of developing their character's backstory.
 
 ### [Organizations](Organizations)
 Curious to know where and how your character fits in to the Azgaarnothian fabric of society? Consider the various [cultures](/Cultures/Cultures.md) and [Backgrounds](/Cultures/Backgrounds.md) available. *(Note that this is not particularly strongly fleshed-out yet.)* 
@@ -71,3 +78,6 @@ Then take a look at the various [organizations](Organizations) that make up the 
 
 ### Religions
 Azgaarnoth holds many different beings as divine: the [Kaevarian Church](Religions/KaevarianChurch.md) is monotheistic, believing that Kaevar, the One, is the only being worthy of veneration. The [Trinitarians](Religions/Trinitarian.md) broke from Kaevar millennia ago, believing in the Three-in-One instead. The [Al'Uma](Religions/AlUma.md), on the other hand, put their faith in the Prophet... or his Disciple, the Apostate... instead. Still others quietly believe in the [Dailian Heresy](Religions/Dail.md) and seek to avoid drawing on any divine power whatsoever, lest they reduce the gods to nothing. Others hold beliefs in a [pantheon of deities](Religions/Pantheon.md), while still others seek to find the [divine in nature](Religions/Druidism.md) or in [spirits](Religions/Spirits.md). No one religion dominates the world--and most have strong opinions over which one should.
+
+### Homebrew notes
+Be sure to check out the [Game Notes](./GameNotes.md) for some notes on homebrew options I like to use.

@@ -1,5 +1,5 @@
 #### Create Item
-*Conjuration cantrip (Artificer,Bard,Druid,Sorcerer,Wizard)
+*Conjuration cantrip* (Artificer,Bard,Druid,Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self
@@ -11,6 +11,7 @@ with a simple implement you need. You summon
 one piece of adventuring gear worth 2 gp or less
 which you can hold in one hand, and which must
 weigh less than 10 pounds.
+
 If the item is more than 10 feet away from you at
 the end of your turn, the spell ends. This object may
 simulate the effects of a tool which requires

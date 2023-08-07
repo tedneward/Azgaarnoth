@@ -1,9 +1,9 @@
 # Pantheon: Arawn
 
 ## Clerical details
-Domains: Life, Death
+Domains: [Life](../../Classes/Cleric/Life.md), [Death](../../Classes/Cleric/Death.md), [Grave](../../Classes/Cleric/Grave.md)
 
-Weapon: 
+Weapon: Dagger
 
 ## Worshipers, Clergy & Temples
 

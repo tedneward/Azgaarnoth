@@ -8,4 +8,4 @@ ___
 ---
 You conjure shards of bone to shoot forth from your hand in a 15-foot cone in front of you. Creatures in the area must make a Dexterity saving throw or take 5d4 piercing damage. 
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d4 and the size of the cone increases by 5 feet for each spell slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d4 and the size of the cone increases by 5 feet for each spell slot level above 1st.

@@ -11,6 +11,7 @@ volume and turn it into a fragile crystalline
 substance that shatters easily upon impact. You can
 transform any metal object or even a creature made
 of metal such as an iron golem.
+
 If you target an item worn or carried by another
 creature, or if you target a creature made of metal,
 you must make a successful melee spell attack

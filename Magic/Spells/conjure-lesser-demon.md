@@ -6,7 +6,7 @@ ___
 - **Components:** V, S, M (a vial of blood from an intelligent humanoid killed within the past 24 hours)
 - **Duration:** Concentration, up to 1 hour
 ---
-You summon up to a total of eight [manes](/Creatures/Demon-Mane.md) or [dretches](/Creatures/Demon-Dretch.md) that appear in unoccupied spaces you can see within range. A manes or dretch disappears when it drops to 0 hit points or when the spell ends.
+You summon up to a total of eight [manes](../../Creatures/Demon-Mane.md) or [dretches](../../Creatures/Demon-Dretch.md) that appear in unoccupied spaces you can see within range. A manes or dretch disappears when it drops to 0 hit points or when the spell ends.
 
 The demons are hostile to all creatures. Roll initiative for the summoned demons as a group, which has its own turns. The demons attack the nearest non-demons to the best of their ability.
 
