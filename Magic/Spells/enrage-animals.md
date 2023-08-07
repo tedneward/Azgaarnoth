@@ -14,6 +14,7 @@ range are affected in ascending order of their
 current hit points (ignoring unconscious creatures,
 non-beasts, or beasts with an Intelligence score of 4
 or higher, who are unaffected).
+
 Starting with the creature that has the lowest
 current hit points, each creature affected by this
 spell enters a terrible rage for the duration. Subtract
@@ -22,12 +23,14 @@ moving on to the creature with the next lowest hit
 points. A creature's hit points must be equal to or
 less than the remaining total for that creature to be
 affected.
+
 A beast that is magically bound to a master or
 trained only to attack on order is allowed a Wisdom
 saving throw against this effect; other beasts are
 not. Creatures who succeed on their saving throws
 are still deducted from the total number of hit
 points of creatures you can affect.
+
 At the beginning of its turn, an affected creature
 must make a melee attack against a creature within
 reach. If a beast affected by this spell has no

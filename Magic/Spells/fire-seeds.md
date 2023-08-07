@@ -15,6 +15,7 @@ the acorns on your turn; make a ranged spell attack
 against a target of your choice within 100 feet; on a
 hit, the acorn explodes and deals 4d6 fire damage to
 the target.
+
 If you choose to imbue the holly berries with this
 spell's magic, they can't be thrown effectively, so
 they are usually placed in specific locations and

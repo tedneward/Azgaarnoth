@@ -10,4 +10,4 @@ Your magic corrupts the health of one creature you can see within range. The tar
 
 The target repeats the saving throw at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails saves three times, it stops making saving throws against the spell. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.
 
-If you maintain your concentration on this spell for the entire possible duration, the frailty becomes permanent. It can only be ended by [greater restoration](), [heal](), or [wish]() cast as a 9th-level spell.
+If you maintain your concentration on this spell for the entire possible duration, the frailty becomes permanent. It can only be ended by [greater restoration](./greater-restoration.md), [heal](./heal.md), or [wish](./wish.md) cast as a 9th-level spell.

@@ -11,6 +11,7 @@ you can see within range. The thunderous boom is
 audible for 500 feet, and each creature within 20
 feet of the chosen point must make a Constitution
 saving throw.
+
 On a failed save, the creature is deafened for 1
 minute, it is pushed 10 feet away from the center of
 the blast, and it is knocked prone.

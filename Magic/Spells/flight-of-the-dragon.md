@@ -9,6 +9,7 @@ ___
 When you cast this spell, small dragon wings grow
 from your back and you gain a flying speed of 60
 feet for the duration.
+
 If your game uses the optional encumbrance
 rules, you cannot fly with this spell while
 encumbered. 

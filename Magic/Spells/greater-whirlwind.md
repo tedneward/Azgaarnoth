@@ -14,6 +14,7 @@ move the whirlwind up to 30 feet in any direction
 along the ground. The whirlwind sucks up any large
 or smaller objects in its area that aren't secured,
 worn, or carried by any creature.
+
 A creature must make a Dexterity saving throw
 the first time on a turn that it enters the whirlwind's
 area, or when the whirlwind enters its space,
@@ -28,6 +29,7 @@ start of each of its turns while inside the whirlwind
 unless it is already at the top. The creature moves
 with the whirlwind and falls when the spell ends,
 unless it has some means to stay aloft.
+
 A creature restrained by the whirlwind can use an
 action to make a Strength or Dexterity check
 against the spellcaster's save DC. On a success, the

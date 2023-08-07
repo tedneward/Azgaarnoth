@@ -4,8 +4,6 @@ ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet
 - **Components:** V, S, M (a water skin)
-- **Duration:** Concentration, up to 1 minute Choose a point within range. No fire can burn
+- **Duration:** Concentration, up to 1 minute 
 ---
-within 40 feet of that point. Even dragon's breath or
-magical fire cannot burn within 40 feet of that
-point.
+Choose a point within range. No fire can burn within 40 feet of that point. Even dragon's breath or magical fire cannot burn within 40 feet of that point.

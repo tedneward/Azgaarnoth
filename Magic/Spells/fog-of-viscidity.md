@@ -12,6 +12,7 @@ area of effect, causing the speed of any creature that
 is within the fog's area, enters it, or starts its turn
 there, to be reduced by half until the start of its next
 turn.
+
 The fog obscures all vision, even darkvision. Any
 creature within the fog is heavily obscured to
 creatures more than 5 feet away, and lightly

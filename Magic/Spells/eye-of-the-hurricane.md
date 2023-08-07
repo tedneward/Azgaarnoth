@@ -19,21 +19,20 @@ projectiles, such as thrown or catapulted boulders,
 can be used to attack despite the winds, but even
 attacks with such weapons are made at
 disadvantage.
+
 Any creature that moves into the area of the
 violent winds or starts its turn there must make a
 Strength saving throw. If they fail, they suffer one of
 the following effects, depending on their size and
-whether they are flying. * Medium and smaller creatures are moved 1d4 x
-10 feet in a random direction, knocked prone,
-and take 1d6 points of bludgeoning damage for
-every 10 feet this effect moves them.
-* Medium flying creatures are pushed back 1d6 x
-10 feet.
+whether they are flying.
+
+* Medium and smaller creatures are moved 1d4 x 10 feet in a random direction, knocked prone, and take 1d6 points of bludgeoning damage for every 10 feet this effect moves them.
+* Medium flying creatures are pushed back 1d6 x 10 feet.
 * Large creatures are knocked prone.
 * Large flying creatures are pushed 1d6 x 5 feet.
-* Huge creatures make no progress through the
-winds.
+* Huge creatures make no progress through the winds.
 * Huge flying creatures are pushed 1d4 x 5 feet.
+
 You can move at half your movement speed while
 concentrating on the storm, and it moves with you.
 However, if your movement causes the storm's

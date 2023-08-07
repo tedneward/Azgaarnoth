@@ -16,6 +16,7 @@ throw is knocked prone and takes additional
 bludgeoning damage equal to the fire damage. The
 fire also ignites flammable objects in the area that
 aren't being worn or carried.
+
 After the spell ends, the area of the spell becomes
 difficult terrain until it is cleared. Each 5-foot-square portion of the area requires at least 1 minute
 to clear by hand.

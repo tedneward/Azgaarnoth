@@ -17,6 +17,7 @@ creature or object takes 10d6 thunder damage;
 creatures are also deafened for 1 minute. On a
 successful save a creature takes half the damage and
 isn't deafened.
+
 A creature made of inorganic material such as
 stone, crystal, or metal has disadvantage on this
 saving throw. A nonmagical object that isn't being

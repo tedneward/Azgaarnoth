@@ -11,6 +11,7 @@ useless to hold items or make fine gestures, but it
 excels as a weapon. When you swipe the claw
 through the air, wounds open on your victim. Make
 a ranged spell attack against an opponent in range.
+
 If you hit they take 2d6 plus your spellcasting ability
 modifier slashing damage. If you roll a critical hit
 then, in addition to the extra damage, at the start of

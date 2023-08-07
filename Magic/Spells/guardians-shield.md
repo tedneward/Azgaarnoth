@@ -18,7 +18,6 @@ damage (magical or otherwise) before the end of
 your next turn, the creature that inflicted that
 damage takes 2d6 fire damage.
 
-***At Higher Levels.*** 
 ***At Higher Levels.*** When you cast this spell
 using a spell slot of 4th level or higher, the fire
 damage increases by 1d6 for each slot level above

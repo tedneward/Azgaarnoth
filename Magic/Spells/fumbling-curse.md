@@ -15,6 +15,7 @@ affected creature makes an attack roll with a hand-
 held weapon and misses the attack by 5 or more, it
 drops the weapon in a space of its choice other than
 its own within 5 feet of it.
+
 An affected creature can try a new saving throw
 at the end of each of its turns, ending the effect
 early on itself with a success.
