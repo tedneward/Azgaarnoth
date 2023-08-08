@@ -1,5 +1,5 @@
 # Divine Domain: Death
-This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md),
+This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Arawn](../../Religions/Pantheon/Arawn.md), ...
 
 ## Domain Spells
 *1st-level Death Domain feature* 
