@@ -8,7 +8,7 @@ Merevets is a city of religion. The home of the Al'Uman religion in many ways, M
 ## Geography
 
 ## Authority Figures
-The Caliph of Merevets (ZZZ Name) is carefully neutral in all political affairs, and prefers to follow in his family's footsteps of quiet contemplative meditation of religious affairs. Nominally the head of the Al'Uman religious world, the Caliph realizes that his command over Al'Uman religious dictates is only as far as the Caliphs of Alalihat and Zabalasa allow, and as such he takes great care to remain neutral in everything he can manage to remain neutral to.
+The Sultan of Merevets (name **TODO**) is carefully neutral in all political affairs, and prefers to follow in his family's footsteps of quiet contemplative meditation of religious affairs. Nominally the head of the Al'Uman religious world, the Caliph realizes that his command over Al'Uman religious dictates is only as far as the Caliphs of Alalihat and Zabalasa allow, and as such he takes great care to remain neutral in everything he can manage to remain neutral to.
 
 ## Military Units
 
