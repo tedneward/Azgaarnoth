@@ -3,7 +3,7 @@ Clerics are intermediaries between the mortal world and the distant planes of th
 
 Several major religions dot the surface of Azgaarnoth:
 
-* The [Pantheon](/Religions/Pantheon.md) is the classic multitheistic panoply of gods and goddesses arranged (more or less) by domain of the cosmos. Within the Pantheon, a huge variety of domains are available, and potentially others lurk in the deepest corners of the world. Each of the gods and goddesses waxes and wanes as their followers surge and shrink, and new gods are born or discovered every day, it seems.
+* The [Pantheon](/Religions/Pantheon/index.md) is the classic multitheistic panoply of gods and goddesses arranged (more or less) by domain of the cosmos. Within the Pantheon, a huge variety of domains are available, and potentially others lurk in the deepest corners of the world. Each of the gods and goddesses waxes and wanes as their followers surge and shrink, and new gods are born or discovered every day, it seems.
 
 * The [Al'Uma](/Religions/AlUma.md) believe that the world has entered its current state because mortals did not worship the beings that maintained it, and therefore it is mortals' responsibility to correct that, by either worship, combat, or both.
 

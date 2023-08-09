@@ -3,7 +3,7 @@ Magic is an energy that suffuses the multiverse and that fuels both destruction 
 
 The gods of this domain are often associated with knowledge, as learning and arcane power tend to go hand-in-hand.
 
-This is a domain granted by [the Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric), the [Kaevarian Church](../../Religions/KaevarianChurch.md), ...
+This is a domain granted by [the Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric), the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Azuth](../../Religions/Pantheon/Azuth.md), ...
 
 ## Domain Spells
 *1st-level Arcana Domain feature* 

@@ -406,6 +406,10 @@ def main():
                 if loweredType not in ['abjuration', 'conjuration', 'divination', 'evocation', 'enchantment', 'illusion', 'necromancy', 'transmutation']:
                     print(spell.name + ': Unrecognized spell type: ' + loweredType)
             if args.lint == 'general' or args.lint == 'all':
+                if spell.level in ['6th', '7th', '8th', '9th']:
+                    for c in ['Artificer', 'Paladin', 'Ranger']:
+                        if c in spell.classes:
+                            print(spell.name + ': Unusable by half-caster ' + c)
                 if spell.casting_time == "":
                     print(spell.name + ": No parsed casting time")
                 if spell.range == "":
