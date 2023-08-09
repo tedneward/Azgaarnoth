@@ -12,6 +12,12 @@ The Al'Uman Road is one of the engineering marvels of the Azgaarnothian world, m
 ## The Lirian Kingsroad
 *(runs from [Flakew](../Cities/Flakew.md) to [Mighal](../Cities/Mighal.md) around the entirety of the [Sea of Liria](SeaOfLiria.md))*
 
+The Lirian Kingsroad, one of the "Great Roads" dating back to the time of the Eldar, stretches across nearly the entire crescent of the Lirian continent, from [Flakew](../Cities/Flakew.md) all the way around the Sea of Liria to [Mighal](../Cities/Mighal.md). Ancient pylons near [Lithal](../Cities/Lithal.md) suggest that at one time there was a bridge stretching across the narrow isthmus of water at the opening of the Sea, but if so it has long since fallen into the Sea. Ferries still run from [Flakew](../Cities/Flakew.md) to [Lithal](../Cities/Lithal.md), however, possibly following the same route the bridge once took.
+
+The Kingsroad is well-traveled, and the Lirian Kingsguard make regular patrols down the road on a daily basis, making it one of the safest routes for merchant traffic anywhere in Lithia. These patrols also do light maintenance on the Kingsroad as part of their patrol, ensuring no convenient copse of trees for bandit ambush. Inns and towns lie either alongside the road or down very short roads branching off of the Kingsroad, and many of those inns have regular standing barracks for Lirian Kingsguard to use during patrols. These inns are almost always of above-average quality, and moderately priced.
+
+Many of the Kingsroad inns are also homes to small [mercenary companies](../Organizations/MercCompanies/index.md) that focus on caravan escort--this is often the work taken up by older mercenaries who are not quite ready for retirement. Quite a few [merchant guilds](../Organizations/MerchantGuilds/index.md) have offices and warehouses along the Kingsroad, as well, and it is not uncommon to see a town that sprang up almost entirely around a couple of guild warehouses.
+
 ## The Yithian Road
 *(runs from [Zvelaino](../Cities/Zvelaino.md) to [Fenpreloval](../Cities/Fenpreloval.md) before turning southeast to [Heral](../Cities/Heral.md))*
 

@@ -340,8 +340,11 @@ def main():
         target = args.parsemd
         files = os.listdir(target)
         for f in files:
-            spell = Spell.parseMDSpell(target + "/" + f)
-            spells.append(spell)
+            if f == "." or f == ".." or f == "index.md":
+                continue
+            else:
+                spell = Spell.parseMDSpell(target + "/" + f)
+                spells.append(spell)
     elif args.parsexml != None:
         target = args.parsexml
         files = os.listdir(target)
@@ -444,13 +447,15 @@ def main():
 
         for level in levels:
             print("## " + level + "-Level Spells")
-            for spell in found:
-                if spell.level == level:
-                    if classTarget == 'all':
-                        print("* [" + str(spell.name) + "](" + spell.filename + "): " + ", ".join(spell.classes))
-                    else:
-                        print("* [" + str(spell.name) + "](" + spell.filename + ")")
+            levelspells = list(filter(lambda s: s.level.strip() == level.strip(), found))
+            levelspells.sort(key=lambda s: s.name)
+            for spell in levelspells:
+                if classTarget == 'all':
+                    print("* [" + str(spell.name) + "](" + spell.filename + "): " + ", ".join(spell.classes))
+                else:
+                    print("* [" + str(spell.name) + "](" + spell.filename + ")")
             print(" ")
+
 
     elif args.ritualsmd != None:
         classTarget = str(args.ritualsmd)

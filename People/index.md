@@ -1,13 +1,13 @@
 # NPCs of Azgaarnoth
 
 ## Historical Figures
-* [Alalihat](Alalihat.md)
-* [Kali Kaal](KaliKaal.md)
-* [Ulm](Ulm.md)
-* [Yithi](Yithi.md)
-* [Zabalasa](Zabalasa.md)
+* [Alalihat](Alalihat.md), "The Prophet"
+* [Kali Kaal](KaliKaal.md), "The Ancient One"
+* [Ulm](Ulm.md), "The Hordemaster"
+* [Yithi](Yithi.md), "The Unifier"
+* [Zabalasa](Zabalasa.md), "The Disciple"
 
-## Contemporary
+## Contemporary Figures
 
 * [Aftenish Tamarand](AftenishTamarand.md)
 * [Alandri Paedralian](AlandriPaedralian.md)
