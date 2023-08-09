@@ -1,7 +1,10 @@
 # Whaveminsia
-* **Government**: Confederation
-* **Capital**: [Lashal](../Cities/Lashal.md)
-* **Population**: (~40% human, ~40% firstborn, ~15% Created, ~5% other)
+___
+- **Government**: Confederation
+- **Capital**: [Lashal](../Cities/Lashal.md)
+- **Population**: 650,000 (~40% human, ~40% firstborn, ~15% Created, ~5% other)
+- **Area**: 30,000 sq mi
+---
 
 ## Geography
 ![Whaveminsian geography](Whaveminsia.jpeg)

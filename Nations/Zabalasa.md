@@ -1,7 +1,10 @@
 # Zabalasa / Caliphate of Zabalasa
-* **Government**: Confederation/Empire
-* **Capital**: [Svishek](../Cities/Svishek.md)
-* **Population**: 
+___
+- **Government**: Confederation/Empire
+- **Capital**: [Svishek](../Cities/Svishek.md)
+- **Population**: 7 million (~40% human, ~30% Firstborn, ~25% Created, ~5% other; 5% urban)
+- **Area**: ~650,000 sq mi
+---
 
 When the Eldar created the humans, many of them found the vast, open lands of the Northeastern continent to be the perfect place to raise herds and indulge in wanderlust. The hot, well-hydrated climate of the Al'Uman lands appealed to those who found great joy in horsemanship and nomadic life.
 

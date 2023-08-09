@@ -1,7 +1,10 @@
 # Almalz / Protectorate of Almalz
-* **Government**: Caliphate
-* **Capital**: [Merevets](../Cities/Merevets.md)
-* **Population**: 
+___
+- **Government**: Caliphate
+- **Capital**: [Merevets](../Cities/Merevets.md)
+- **Population**: 2 million (~30% human, ~30% firstborn, ~25% Created, ~15% other; 15% urban)
+- **Area**: 170,000 sq mi
+---
 
 ## Geography
 ![Almalzish geography](Almalz.jpeg)

@@ -1,7 +1,11 @@
 # Bagonbia / The Kingdom of Bagonbia
-* **Government**: Kingdom
-* **Capital**: [Mis](../Cities/Mis.md)
-* **Population**: (~35% human, ~35% firstborn, ~15% Created, ~15% Hordish)
+___
+- **Government**: Kingdom
+- **Capital**: [Mis](../Cities/Mis.md)
+- **Population**: 2 million (~35% human, ~35% firstborn, ~15% Created, ~15% Hordish)
+- **Area**: 100,000 sq mi
+---
+* **Population**: 
 
 ## Geography
 ![Bagonbian geography](Bagonbia.jpeg)

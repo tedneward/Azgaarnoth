@@ -1,7 +1,10 @@
 # Tragekia / The United Hordes
-* **Government**: Oligarchy (Council of Tribes)
-* **Capital**: [Swagab](../Cities/Swagab.md)
-* **Population**: (~50% Hordish, ~20% human, ~20% Created, ~10% Firstborn)
+___
+- **Government**: Oligarchy (Council of Tribes)
+- **Capital**: [Swagab](../Cities/Swagab.md)
+- **Population**: 8 million (~50% Hordish, ~20% human, ~20% Created, ~10% Firstborn)
+- **Area**: 264,000 sq mi
+---
 
 ## Geography
 ![Tragekian geography](Tragekia.jpeg)

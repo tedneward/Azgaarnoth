@@ -1,8 +1,10 @@
 # Dwarven Courts-in-Exile
-
-* **Government**: Oligarchy (Council of Cities)
-* **Capital**: offically Kolgalir (occupied by Hordes); currently, [Mighalia](../Cities/Mighalia.md)
-* **Population**: officially 0; practically, the clans that make up the Lost Seventeen Cities make up around 500,000 (~20% human, ~60% firstborn, ~15% Created, ~5% other)
+___
+- **Government**: Oligarchy (Council of Cities)
+- **Capital**: officially Kolgalir (occupied by Hordes); currently, [Mighalia](../Cities/Mighalia.md)
+- **Population**: The Courts claim some level of governance over the clans that make up the Lost Seventeen Cities; these in theory total up to around 1.5m; realistically, they directly govern ~500,000 (~10% human, ~70% firstborn (mostly dwarves and kin), ~15% Created, ~5% other)
+- **Area**: officially 1.1 million sq mi (in the Underdark); practially 0
+---
 
 Originally formed from the seventeen Clan Lords of the Lost Seventeen Cities, the Dwarven Courts-in-Exile have since become a political power among the dwarves even though they lack any actual land. Built entirely out of the power of the constituent dwarven merchant guilds, and dedicated to the Return to reclaim the Lost Seventeen, the Dwarven Courts-in-Exile have found their power somewhat diminished since the failed Eighth Return three thousand years ago.
 

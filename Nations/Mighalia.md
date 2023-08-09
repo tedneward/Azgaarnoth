@@ -1,7 +1,10 @@
 # Mighalia / The Free City of Mighal
-* **Government**: Oligarchy (Ruling Council)
-* **Capital**: [Mighal](../Cities/Mighal.md)
-* **Population**: ~500,000 (~25% human, ~25% firstborn, ~25% Created, ~20% Horde, ~5% other)
+___
+- **Government**: Oligarchy (Ruling Council)
+- **Capital**: [Mighal](../Cities/Mighal.md)
+- **Population**: 1.5 million (~25% human, ~25% firstborn, ~25% Created, ~20% Horde, ~5% other; 50% urban)
+- **Area**: 32,000 sq mi
+---
 
 Five centuries ago, the ruling ducal family of the city of Mighal began to contemplate something that would've seemed unthinkable to their Lirian loyalist ancestors: separation from the Empire of Liria. Beset by raids from the Caliphate across the water, with no help forthcoming from Flakew, the Dukes of Mighal began to realize that if they considered their first responsibility to their people (which they did), and the people were not going to rank first in the eyes of the Empire (which it certainly seemed like they didn't), then perhaps the best course of action for the people of Mighal was to chart their own path--one not contrary to the interests of Liria, as ancient loyalties can only be stretched so far, but one that put the people of Mighal first and foremost.
 

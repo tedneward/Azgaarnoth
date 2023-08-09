@@ -1,7 +1,10 @@
 # Alalihat / Caliphate of Alalihat
-* **Government**: Caliphate
-* **Capital**: [Zvelaino](../Cities/Zvelaino.md)
-* **Population**: 
+___
+- **Government**: Caliphate
+- **Capital**: [Zvelaino](../Cities/Zvelaino.md)
+- **Population**: 7 million (~40% human, ~40% Firstborn, ~15% Created, ~5% other; 15% urban)
+- **Area**: 460,000 sq mi
+---
 
 When the Eldar created the humans, many of them found the vast, open lands of the Northeastern continent to be the perfect place to raise herds and indulge in wanderlust. The hot, well-hydrated climate of the Al'Uman lands appealed to those who found great joy in horsemanship and nomadic life.
 
@@ -78,7 +81,7 @@ The 3,000 members of the House of Dubb are primarily herders, though they do hav
 A dwindling tribe of 1,500 in the southern ranges of Alalihat, the House of Thawr has long been losing young people to easy employment in the cities. What began as retaliatory raids against the city now have escalated into a perpetual, if low-intensity, war. Pinned between the cities and House Bakr to the north, House Thawr's sheik holds fast to a vision of a cleansing wind that will vanquish his enemies.
 
 #### Clan of the Pony
-The majority of House Bakr lives in the city of **TODO**--a fairly recent development highly criticized by the tribal elders. Those 500 or so who remain in the grasslands are fiercely conservative and believe in protecting and maintaining their customs above all else. Both the Rais (leader) of those remaining in the grasslands and his son have experienced terrible visions of a dire fate for those in the city.
+The majority of House Bakr lives in the city of [Adag](../Cities/Adag.md)--a fairly recent development highly criticized by the tribal elders. Those 500 or so who remain in the grasslands are fiercely conservative and believe in protecting and maintaining their customs above all else. Both the Rais (leader) of those remaining in the grasslands and his son have experienced terrible visions of a dire fate for those in the city.
 
 ## Population
 Alalihat's population, like that of the other two nations on the Al'Uman continent, is split between those who dwell within the cities, and those who continue the nomadic traditions of their ancestors. 

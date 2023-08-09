@@ -1,7 +1,10 @@
 # Travenia / The Travenian Oligarchy
-* **Government**: Oligarchy (Council of Houses)
-* **Capital**: [Silbel](../Cities/Silbel.md)
-* **Population**: (~40% human, ~40% firstborn, ~15% Created, ~5% other)
+___
+- **Government**: Oligarchy (Council of Houses)
+- **Capital**: [Silbel](../Cities/Silbel.md)
+- **Population**: 6.5 million (~40% human, ~40% firstborn, ~15% Created, ~5% other)
+- **Area**: 375,000 sq mi
+---
 
 ## Geography
 ![Travenian geography](Travenia.jpeg)

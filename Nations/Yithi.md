@@ -1,7 +1,10 @@
 # Yithi / Principality of Yithi
-* **Government**: Republic
-* **Capital**: [Kraston](../Cities/Kraston.md)
-* **Population**: 2+ million (~20% human, ~20% firstborn, ~15% Created, ~45% Hordish)
+___
+- **Government**: Republic
+- **Capital**: [Kraston](../Cities/Kraston.md)
+- **Population**: 6 million (~20% human, ~20% firstborn, ~15% Created, ~45% Hordish)
+- **Area**: 330,000 sq mi
+---
 
 Yithi is a nation of fascinating energy and culture. Long ago, this territory (and that of [Zhi](Zhi.md), to the north) were the lands of the [Hordes](../Races/index.md#hordes): a land of brutal tribes bent on conquest of the world. Over millennia, however, repeated stalemates, alternating meaningless victories and defeats, and even the periodic peaceful contact with other races led the more militaristic tribes to sail south to take up their war against [Dradehalia](Dradehalia.md). The tribes that remained, led by a charismatic minotaur named Yithi, chose instead to look for ways to improve themselves and their lives and create a civilization of their own that didn't rely on constant warfare. Yithi first gathered five tribes to meet with his, and on the shores of Lake Venerinat, they signed the Pact of the Five Nations that bound their tribes to his guidance and wisdom, with the explicit intent to unify all of the tribes in the former Hordes lands, to find a better life.
 

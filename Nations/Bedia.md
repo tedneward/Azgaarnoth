@@ -1,7 +1,10 @@
 # Bedia / The Kingdom of Bedia
-* **Government**: Kingdom
-* **Capital**: [Dradow](../Cities/Dradow.md)
-* **Population**: (~35% human, ~35% firstborn, ~15% Created, ~15% Hordish)
+___
+- **Government**: Kingdom
+- **Capital**: [Dradow](../Cities/Dradow.md)
+- **Population**: 2 million (~30% human, ~30% firstborn, ~20% Created, ~20% Hordish; 10% urban)
+- **Area**: 500,000 sq mi
+---
 
 ## Geography
 ![Bedian geography](Bedia.jpeg)
