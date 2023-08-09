@@ -12,6 +12,17 @@ Cleric Level	Spells
 5th	Beacon of Hope, Protection from Energy
 7th	FReedom of Movement, Stoneskin
 9th	Fire Shield, Hallow 
+
+**Domain Spells**
+
+Cleric Level | Spells
+------------ | ------
+1st	| 
+3rd	| 
+5th	| 
+7th	| 
+9th	| 
+
 Bonus Proficiency
 When you choose this domain at 1st level, you gain proficiency with heavy armor.
 

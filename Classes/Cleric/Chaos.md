@@ -5,6 +5,17 @@ Clerics of the Chaos Domain often aspire to be just as unpredictable as their de
 
 Chaos Domain Spells
 Cleric Level	Spell
+
+**Domain Spells**
+
+Cleric Level | Spells
+------------ | ------
+1st	| 
+3rd	| 
+5th	| 
+7th	| 
+9th	| 
+
 1st bane, chaos bolt
 
 3rd alter self, shatter

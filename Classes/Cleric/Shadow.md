@@ -4,7 +4,15 @@ The gods of Shadow though sometimes evil, are not always.  They are the patrons 
 Domain Spells
 You gain domain spells at the cleric levels listed in the Shadow Domain Spells table. See the Divine Domain class feature for how domain spells work.
 
-Forge Domain Spells
+**Domain Spells**
+
+Cleric Level | Spells
+------------ | ------
+1st	| 
+3rd	| 
+5th	| 
+7th	| 
+9th	| 
 
 Cleric Level                   Spell
 1st                                    Disguise self, Longstrider

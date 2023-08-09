@@ -1,6 +1,16 @@
 # Divine Domain: Phoenix
 Some believe that creation and destruction are two sides of the same coin. Those who respect the power and danger of fire while admiring its beauty and light are drawn to worship the Phoenix. A neutral, though benevolent, spirit, they embody the dichotomy between renewal and relentless destructive power. Life and death are inextricably linked in an enduring cycle, one to be celebrated and protected in equal measure. Clerics who follow the Phoenix understand that new life can rise from the ashes of destruction, that fire can both harm and heal, and that adapting to change is the most powerful constant.
 
+**Domain Spells**
+
+Cleric Level | Spells
+------------ | ------
+1st	| 
+3rd	| 
+5th	| 
+7th	| 
+9th	| 
+
 Phoenix Domain Spells
 1st - Burning Hands, Cure Wounds
 3rd - Flaming Sphere, Gentle Repose

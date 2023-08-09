@@ -11,6 +11,17 @@ Cleric Level	Spells
 5th	Beacon of Hope, Remove Curse
 7th	Death Ward, Resilient Sphere
 9th	Greater Restoration, Contagion
+
+**Domain Spells**
+
+Cleric Level | Spells
+------------ | ------
+1st	| 
+3rd	| 
+5th	| 
+7th	| 
+9th	| 
+
 Gifted Healer
 Whenever you use a spell to restore hit points to a creature, the creature regains additional hit points equal to your Wisdom modifier times the level of the spell cast.
 

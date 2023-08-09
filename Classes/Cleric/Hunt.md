@@ -11,6 +11,17 @@ Cleric level	Spells
 5th	clairvoyance, conjure animals
 7th	dominate beast, locate creature
 9th	scrying, tree stride
+
+**Domain Spells**
+
+Cleric Level | Spells
+------------ | ------
+1st	| 
+3rd	| 
+5th	| 
+7th	| 
+9th	| 
+
 Bonus Proficiency
 At 1st level, you gain proficiency with martial weapons.
 

@@ -11,6 +11,17 @@ CLERIC LEVEL	SPELLS
 5th	sleet storm, slow
 7th	control water, ice storm
 9th	cone of cold, maelstrom
+
+**Domain Spells**
+
+Cleric Level | Spells
+------------ | ------
+1st	| 
+3rd	| 
+5th	| 
+7th	| 
+9th	| 
+
 Bonus Cantrip
 When you choose this domain at 1st level, you gain the frostbite cantrip. 
 

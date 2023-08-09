@@ -14,6 +14,16 @@ Cleric Level	Spells
 7th greater invisibility, hallucinatory terrain
 9th dream, passwall
 
+**Domain Spells**
+
+Cleric Level | Spells
+------------ | ------
+1st	| 
+3rd	| 
+5th	| 
+7th	| 
+9th	| 
+
 Clarity of Catha
 1st-level Moon Domain feature
 

@@ -18,6 +18,17 @@ CLERIC LEVEL	SPELL
 5th	fear, bestow curse
 7th	greater invisibility, phantasmal killer
 9th	telepathic bond, dream
+
+**Domain Spells**
+
+Cleric Level | Spells
+------------ | ------
+1st	| 
+3rd	| 
+5th	| 
+7th	| 
+9th	| 
+
 Eyes of Black
 Your eyes are a dark void from which no light escapes.  When you choose this domain at 1st level, you can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
 
