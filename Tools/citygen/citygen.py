@@ -2,6 +2,7 @@
 
 import argparse
 import csv
+import random
 import os
 import sqlite3
 import sys
@@ -16,13 +17,14 @@ class City:
     def __init__(self):
         self.name = ''
         self.state = ''
+        self.description = ''
         self.province = ''
         self.geography = ''
         self.features = []
         self.authorities = []
         self.populationct = 0
-        self.populationbreakdown = { 'Human': 0, 'Firstborn' : 0, 'Created': 0, 'Hordish': 0}
-        self.military = []
+        self.populationbreakdown = { 'Human': 0, 'Firstborn' : 0, 'Created': 0, 'Hordish': 0 }
+        self.militaryunits = []
         self.houses = []
         self.militantorders = []
         self.roguesguilds = []
@@ -31,16 +33,118 @@ class City:
         self.duelingcolleges = []
         self.religions = []
     
+    def calculatemilitia(self):
+        results = "**Militia.** "
+        onepercentpopulation = self.populationct // 100
+        if self.populationct > 25000:
+            # Militia is 4-6% of total
+            militia = onepercentpopulation * (4 + random.randint(0, 2))
+            onepercentmilitia = militia // 100
+            # 1% level 5; 4% level 4; 10% level 3; 25% level 2; 60% level 1
+            level5 = onepercentmilitia
+            level4 = onepercentmilitia * 4
+            level3 = onepercentmilitia * 10
+            level2 = onepercentmilitia * 25
+            level1 = militia - (level5 + level4 + level3 + level2)
+            results += f'Mustered on demand. {level1}xFighter1, {level2}xFighter2, {level3}xFighter3, {level4}xFighter4, {level5}xFighter5 (Total: ~{militia})'
+        elif self.populationct > 10000:
+            # Militia is around 8-12% of total
+            militia = onepercentpopulation * (8 + random.randint(0, 4))
+            onepercentmilitia = militia // 100
+            # 1% level4; 5-9% level3; 15-20% level2; rest level1
+            level4 = onepercentmilitia
+            level3 = onepercentmilitia * (random.randint(5, 9))
+            level2 = onepercentmilitia * (random.randint(15, 20))
+            level1 = militia - (level4 + level3 + level2)
+            results += f'Mustered on demand. {level1}xFighter1, {level2}xFighter2, {level3}xFighter3, {level4}xFighter4 (Total: ~{militia})'
+        elif self.populationct > 5000:
+            # Militia is around 15-25% of total
+            militia = onepercentpopulation * (15 + random.randint(0, 10))
+            onepercentmilitia = militia // 100
+            # 3-5% level3; 15-20% level2; rest level1
+            level3 = onepercentmilitia * (random.randint(3, 5))
+            level2 = onepercentmilitia * (random.randint(15, 20))
+            level1 = militia - (level3 + level2)
+            results += f'Mustered on demand. {level1}xFighter1, {level2}xFighter2, {level3}xFighter3 (Total: ~{militia})'
+        else:
+            # Militia is 30-50% of total
+            militia = onepercentpopulation * (30 + random.randint(0, 20))
+            onepercentmilitia = militia // 100
+            # level 2, 1-10%; level1 for the rest
+            level2 = onepercentmilitia * (random.randint(1, 10))
+            level1 = militia - level2
+            results += f'Mustered on demand. {level1}xFighter1, {level2}xFighter2 (Total: ~{militia})'
+        self.militaryunits.append(results)
+        return results
+    
+    def calculateduelingcolleges(self):
+        pass
+    
+    def calculatepopulationbreakdown(self):
+        baseproportions = {
+            # AlUma
+            ['Alalihat', 'Almalz', 'Zabalasa'] : { 'Human': 50, 'Firstborn' : 30, 'Created': 15, 'Hordish': 5 },
+            # Liria
+            ['Liria', 'Mighalia', ] : { 'Human': 40, 'Firstborn' : 20, 'Created': 20, 'Hordish': 20 },
+            # Travesimia
+            ['Travesimia', 'Bagonbia', 'Lashal'] : { 'Human': 35, 'Firstborn' : 25, 'Created': 25, 'Hordish': 15 },
+            # Travenia
+            ['Travenia'] : { 'Human': 35, 'Firstborn' : 25, 'Created': 25, 'Hordish': 15 },
+            # Dradehalia
+            ['Dradehalia'] : { 'Human': 65, 'Firstborn' : 15, 'Created': 15, 'Hordish': 5 },
+            # Hordes
+            ['Tragekia', 'Ulm'] : { 'Human': 10, 'Firstborn' : 20, 'Created': 20, 'Hordish': 50 },
+            # Yithia
+            ['Yithi', 'Zhi'] : { 'Human': 0, 'Firstborn' : 0, 'Created': 0, 'Hordish': 0 },
+        }
+        def randomize5(value):
+            return value + int((value / 100) * random.randint(-25, 25))
+
+        baseprops = {}
+        for states in baseproportions.keys():
+            if self.state in states:
+                baseprops = baseproportions[states]
+
     def parsecsvrow(self, row):
         self.name = row[1]
         self.province = row[2]
         self.state = row[4]
         self.religions.append(row[7])
-        self.populationct = row[8]
+        self.populationct = int(row[8])
+
+    def parsemd(self, lines):
+        pass
 
     def formatmd(self):
-        results = f"# {self.name} [{self.state}](../Nations/{self.state}.md)\n"
-        results += f"**Population:** {self.populationct} -- {self.populationbreakdown}"
+        results = f"# {self.name} [{self.state}](../Nations/{self.state}.md), {self.province}\n"
+        results += f"**Population:** {self.populationct} -- {self.populationbreakdown}\n"
+        results += "**Features:** " + ", ".join(self.features) + "\n"
+        results += "\n"
+        results += self.description + "\n"
+        results += "\n"
+        results += "## Geography\n"
+        results += self.geography + "\n"
+        results += "## Authority Figures\n"
+        results += "\n"
+        results += "## Military Units\n"
+        results += "\n".join(self.militaryunits) + "\n"
+        results += self.calculatemilitia() + "\n"
+        results += "\n"
+        results += "## Militant Orders\n"
+        results += "\n"
+        results += "## Mercenary Companies\n"
+        results += "\n"
+        results += "## Dueling Colleges\n"
+        results += "\n"
+        results += "## Great Houses\n"
+        results += "\n"
+        results += "## Mage Schools\n"
+        results += "\n"
+        results += "## Religious Organizations\n"
+        results += "\n"
+        results += "## Rogues' Guilds\n"
+        results += "\n"
+
         return results
 
 burbs = []
@@ -79,15 +183,19 @@ def main():
 
     global burbs
     if args.parsecsv != None:
-	    burbs = parsecsv(args.parsecsv)
+        burbs = parsecsv(args.parsecsv)
     elif args.parsemd != None:
-	    burbs = parsemd(args.parsemd)
+        burbs = parsemd(args.parsemd)
     else:
         parser.print_help()
         exit()
 
     for burb in burbs:
-        print(burb.formatmd())
+        if args.out != None:
+            with open(args.out + "/" + burb.name + ".md", 'w') as outfile:
+                outfile.write(burb.formatmd())
+        else:
+            print(burb.formatmd())
 
 if __name__ == '__main__':
 	main()
