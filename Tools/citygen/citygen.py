@@ -33,6 +33,43 @@ class City:
         self.duelingcolleges = []
         self.religions = []
     
+    def parsecsvrow(self, row):
+        self.name = row[1]
+        self.province = row[2]
+        self.state = row[4]
+        self.religions.append(row[7])
+        self.populationct = int(row[8])
+
+    def parsemd(self, lines):
+        pass
+
+    def calculatepopulationbreakdown(self):
+        baseproportions = {
+            # AlUma
+            ['Alalihat', 'Almalz', 'Zabalasa'] : { 'Human': 50, 'Firstborn' : 30, 'Created': 15, 'Hordish': 5 },
+            # Liria
+            ['Liria', 'Mighalia', ] : { 'Human': 40, 'Firstborn' : 20, 'Created': 20, 'Hordish': 20 },
+            # Travesimia
+            ['Travesimia', 'Bagonbia', 'Whavesimia'] : { 'Human': 35, 'Firstborn' : 25, 'Created': 25, 'Hordish': 15 },
+            # Travenia
+            ['Travenia'] : { 'Human': 35, 'Firstborn' : 25, 'Created': 25, 'Hordish': 15 },
+            # Dradehalia
+            ['Dradehalia'] : { 'Human': 65, 'Firstborn' : 15, 'Created': 15, 'Hordish': 5 },
+            # Hordes
+            ['Tragekia', 'Ulm'] : { 'Human': 10, 'Firstborn' : 20, 'Created': 20, 'Hordish': 50 },
+            # Yithia
+            ['Yithi', 'Zhi'] : { 'Human': 0, 'Firstborn' : 0, 'Created': 0, 'Hordish': 0 },
+        }
+        def randomize5(value):
+            return value + int((value / 100) * random.randint(-25, 25))
+
+        baseprops = {}
+        for states in baseproportions.keys():
+            if self.state in states:
+                baseprops = baseproportions[states]
+        for race in self.populationbreakdown.keys():
+            self.populationbreakdown[race] = randomize5(baseprops[race])
+
     def calculatemilitia(self):
         results = "**Militia.** "
         onepercentpopulation = self.populationct // 100
@@ -119,14 +156,18 @@ class City:
         results = f"# {self.name}\n"
         results += f"*({self.province}, [{self.state}](../Nations/{self.state}.md))*\n"
         results += "\n"
-        results += f"**Population:** {self.populationct} -- {self.populationbreakdown}\n"
-        results += "\n"
+        results += f"**Population:** {self.populationct}\n"
+        results += (f"*(Humans: {self.populationbreakdown['Human']}, " + 
+            f"Firstborn: {self.populationbreakdown['Firstborn']}" + 
+            f"Created: {self.populationbreakdown['Created']}" + 
+            f"Hordish: {self.populationbreakdown['Hordish']}" + 
+            ")*\n")
         results += "**Features:** " + ", ".join(self.features) + "\n"
         results += "\n"
         results += self.description + "\n"
         results += "\n"
         results += "## Geography\n"
-        results += self.geography + "\n"
+        results += f"![]({self.name}.jpeg)" + "\n"
         results += "## Authority Figures\n"
         results += "\n"
         results += "## Military Units\n"
