@@ -87,7 +87,7 @@ class City:
             # Liria
             ['Liria', 'Mighalia', ] : { 'Human': 40, 'Firstborn' : 20, 'Created': 20, 'Hordish': 20 },
             # Travesimia
-            ['Travesimia', 'Bagonbia', 'Lashal'] : { 'Human': 35, 'Firstborn' : 25, 'Created': 25, 'Hordish': 15 },
+            ['Travesimia', 'Bagonbia', 'Whaveminsia'] : { 'Human': 35, 'Firstborn' : 25, 'Created': 25, 'Hordish': 15 },
             # Travenia
             ['Travenia'] : { 'Human': 35, 'Firstborn' : 25, 'Created': 25, 'Hordish': 15 },
             # Dradehalia
@@ -116,8 +116,11 @@ class City:
         pass
 
     def formatmd(self):
-        results = f"# {self.name} [{self.state}](../Nations/{self.state}.md), {self.province}\n"
+        results = f"# {self.name}\n"
+        results += f"*({self.province}, [{self.state}](../Nations/{self.state}.md))*\n"
+        results += "\n"
         results += f"**Population:** {self.populationct} -- {self.populationbreakdown}\n"
+        results += "\n"
         results += "**Features:** " + ", ".join(self.features) + "\n"
         results += "\n"
         results += self.description + "\n"
@@ -156,15 +159,12 @@ def parsecsv(csvfilename):
         burb_count = -1
         for row in csv_reader:
             if burb_count == -1:
-                print(f'Column names are {", ".join(row)}')
                 burb_count = 0
             else:
-                print(f'\t{row[1]} is in the {row[2]} province of {row[4]}.')
                 burb = City()
                 burb.parsecsvrow(row)
                 results.append(burb)
                 burb_count += 1
-        print(f'Processed {burb_count} lines.')
     return results
 
 def parsemd(mddirname):
@@ -178,7 +178,8 @@ def main():
     parser.add_argument('--version', action='version', version='%(prog)s 0.1')
     parser.add_argument('--parsemd', help='File or directory for parsing MD file(s)')
     parser.add_argument('--parsecsv', help='CSV file to use as input database')
-    parser.add_argument('--out', help='Directory to which to write generated cities')
+    parser.add_argument('--writeindex', help='Create an index.md page for all cities')
+    parser.add_argument('--writecities', help='Write out MD descriptions of cities to given target directory')
     args = parser.parse_args()
 
     global burbs
@@ -186,16 +187,29 @@ def main():
         burbs = parsecsv(args.parsecsv)
     elif args.parsemd != None:
         burbs = parsemd(args.parsemd)
+
+    if args.writeindex != None:
+        print("# Cities in Azgaarnoth\n\n")
+        states = ['Alalihat', 'Almalz', 'Zabalasa', 'Liria', 'Mighalia', 
+                  'Travesimia', 'Bagonbia', 'Whaveminsia', 'Travenia','Dradehalia', 
+                  'Tragekia', 'Ulm', 'Yithi', 'Zhi']
+        for state in states:
+            print(f"## [{state}](../Nations/{state}.md)")
+            stateburbs = list(filter(lambda city: city.state == state, burbs))
+            stateburbs.sort(key=lambda city: city.name)
+            for burb in stateburbs:
+                print(f"* [{burb.name}]({burb.name}.md) *({burb.province})*")
+            print("\n")
+        sys.exit()
+    elif args.writecities != None:
+        target = args.writecities
+        for burb in burbs:
+            with open(target + "/" + burb.name + ".md", 'w') as outfile:
+                outfile.write(burb.formatmd())
     else:
         parser.print_help()
         exit()
 
-    for burb in burbs:
-        if args.out != None:
-            with open(args.out + "/" + burb.name + ".md", 'w') as outfile:
-                outfile.write(burb.formatmd())
-        else:
-            print(burb.formatmd())
 
 if __name__ == '__main__':
 	main()
