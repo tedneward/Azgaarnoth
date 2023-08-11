@@ -13,62 +13,185 @@ import sys
 # of detail pages into /Cities, but I don't know yet if I'll want to
 # re-run for particular cities or not.
 
+def namegen(which):
+    if which == 'roguesguild':
+        prefixes = [
+            'Order of the ', 'Council of the '
+        ]
+        descriptors = [
+            'Mercury', 'Night', 'Midnight', 'Raven', 'Grey', 'Fire', 'Dusk',
+            'Nightshade'
+        ]
+        nouns = [
+            'Blades', 'Knives', 'Star', 'Consortium', 'Syndicate', 'Cabal', 'Court',
+            'Daggers', 'Gang', 'Boys'
+        ]
+        desc = descriptors[random.randint(0, len(descriptors))] + ' ' + nouns[random.randint(0, len(nouns))]
+        if random.randint(0, 100) > 50:
+            desc = prefixes[random.randint(0, len(prefixes))] + ' ' + desc
+        return desc
+    elif which == 'mageschool':
+        if random.randint(0, 100) > 60:
+            schools = os.listdir('../../Organizations/MageSchools')
+            school = schools[random.randint(0, len(schools))][0:-3]
+            return school
+        else:
+            descriptors = [
+                'Infinite', 'Miasmal', 'Nonesuch', 'Chthonic', 'Celestial', 'Spiral', 
+                'Crimson', 'Silent', 'Bronze', 'Colossal', 'Elemental', 'Gilded',
+                'Shimmering', 'Eldritch', 'Immaculate', 'Fey', 'Astral', 'Chaos',
+                'Enduring', 'Everlasting'
+            ]
+            nouns = [
+                'Cylinder', 'Minaret', 'Monument', 'Pylon', 'Tower', 'Spire', 'Turret', 
+                'Column', 'Obelisk', 'Rock', 'Eye', 'Tome'
+            ]
+            descriptor = descriptors[random.randint(0, len(descriptors))]
+            noun = nouns[random.randint(0, len(nouns))]
+            return descriptor + ' ' + noun
+    elif which == 'bardiccollege':
+        return "**BARDIC COLLEGE**"
+    elif which == 'duelingcollege':
+        return "**DUELING COLLEGE**"
+    elif which == 'merchantguild':
+        return "**DUELING COLLEGE**"
+    elif which == 'mercenarycompany':
+        return "**MERC COMPANY**"
+    elif which == 'monasticorder':
+        return "**MONASTIC ORDER**"
+    else:
+        return "UNRECOGNIZED NAME: '" + which + "'"
+    pass
+
 class City:
     def __init__(self):
         self.name = ''
         self.state = ''
-        self.description = ''
+        self.description = []
         self.province = ''
         self.geography = ''
-        self.features = []
+        self.capital = False
+        self.port = False
+        self.citadel = False
+        self.walls = False
+        self.plaza = False
+        self.temple = False
+        self.shantytown = False
         self.authorities = []
         self.populationct = 0
         self.populationbreakdown = { 'Human': 0, 'Firstborn' : 0, 'Created': 0, 'Hordish': 0 }
         self.militaryunits = []
+        self.mercenarycompanies = []
         self.houses = []
         self.militantorders = []
         self.roguesguilds = []
         self.merchantguilds = []
         self.mageschools = []
         self.duelingcolleges = []
-        self.religions = []
+        self.religion = ''      # The dominant religion in the city
+        self.religiousgroups = []
+        self.monasticorders = []
     
     def parsecsvrow(self, row):
+        # 0: Id, 1: Burg, 2: Province, 3: Province Full Name,
+        # 4: State, 5: State Full Name, 6: Culture, 7: Religion,
+        # 8: Population, 9: Latitude, 10: Longitude,
+        # 11: Elevation (ft),
+        # 12: Capital, 13: Port, 14: Citadel, 15: Walls, 16: Plaza, 17: Temple, 18: Shanty Town
         self.name = row[1]
         self.province = row[2]
         self.state = row[4]
-        self.religions.append(row[7])
+        self.religion = row[7]
         self.populationct = int(row[8])
+
+        if row[12] != '':
+            self.capital = True
+            self.description.append(f"{self.name} is the capital of {self.state}, and ...")
+        if row[13] != '':
+            self.port = True
+            self.militaryunits.append(f"**Marines.** These are typically rotated between port guard duty, tariff duty in incoming vessels, and extended patrols out into the waters around {self.name}. **TODO**")
+            self.description.append(f"{self.name} boasts a port for maritime shipping....")
+        if row[14] != '':
+            self.citadel = True
+            if self.populationct > 5000:
+                self.militaryunits.append(f"**Palace Guard.** These typically rotate between citidel guard duty and special missions as dictated by city authorities. 75xFighter 3-5, 20xWizard/Sorcerer 3-5, 30xCleric/Druid 3-5, 25xRogue 3-5.")
+                self.description.append(f"{self.name} retains a citadel for the upper ranks and guests, and much of the elite guard resides there.")
+            else:
+                self.description.append(f"An ancient citadel stands within {self.name}'s city limits, but currently is all but abandoned.")
+        if row[15] != '':
+            self.walls = True
+            wallprob = random.randint(1,100)
+            if  wallprob > 50:
+                self.description.append(f"The walls are in good shape, kept in good order by the city authorities.")
+            elif wallprob > 25:
+                self.description.append(f"The city walls still stand, but clearly have seen neglect over the years.")
+            else:
+                self.description.append(f"{self.name}'s walls are crumbling and in disrepair, with obvious gaps from previous sieges or battles still as yet unrepaired.")
+        if row[16] != '':
+            self.plaza = True
+            if self.populationct > 10000:
+                self.description.append(f"{self.name}'s city center boasts a large plaza, called **TODO**, which is a central place in the lives of many within the city.")
+            elif self.populationct > 5000:
+                self.description.append(f"{self.name}'s city center has a central plaza that provides common, day-to-day shopping and farmer's markets, made up primarily of foodstuff's and artisan's shops.")
+            else:
+                self.description.append("The city has a central area of shops which sees much traffic. Already several fountains and other decorative statues mark the rough edges of this plaze.")
+        if row[17] != '':
+            self.temple = True
+            self.description.append(f"The {self.religion} religion has a large temple here near the city center.")
+        if row[18] != '':
+            self.shantytown = True
+            poppercent = (random.randint(1, 8) * 5) 
+            desc = f"Sadly, {self.name} has a shantytown. Roughly {poppercent}% of the city live within it. "
+            if poppercent > 25:
+                desc += "Most of the city's guards and other law enforcement avoid or outright refuse to enter. "
+            else:
+                desc += "The city's guards and other law enforcement groups struggle to keep the inhabitants safe. "
+            if len(self.roguesguilds) > 1:
+                desc += "The various Rogues' Guilds battle here for dominance and recruits, as well as to carve out the freedom to carry out their activities. "
+            desc += "\n"
+            self.description.append(desc)
+
 
     def parsemd(self, lines):
         pass
 
-    def calculatepopulationbreakdown(self):
-        baseproportions = {
-            # AlUma
-            ['Alalihat', 'Almalz', 'Zabalasa'] : { 'Human': 50, 'Firstborn' : 30, 'Created': 15, 'Hordish': 5 },
-            # Liria
-            ['Liria', 'Mighalia', ] : { 'Human': 40, 'Firstborn' : 20, 'Created': 20, 'Hordish': 20 },
-            # Travesimia
-            ['Travesimia', 'Bagonbia', 'Whavesimia'] : { 'Human': 35, 'Firstborn' : 25, 'Created': 25, 'Hordish': 15 },
-            # Travenia
-            ['Travenia'] : { 'Human': 35, 'Firstborn' : 25, 'Created': 25, 'Hordish': 15 },
-            # Dradehalia
-            ['Dradehalia'] : { 'Human': 65, 'Firstborn' : 15, 'Created': 15, 'Hordish': 5 },
-            # Hordes
-            ['Tragekia', 'Ulm'] : { 'Human': 10, 'Firstborn' : 20, 'Created': 20, 'Hordish': 50 },
-            # Yithia
-            ['Yithi', 'Zhi'] : { 'Human': 0, 'Firstborn' : 0, 'Created': 0, 'Hordish': 0 },
-        }
-        def randomize5(value):
-            return value + int((value / 100) * random.randint(-25, 25))
+    def calculate(self):
+        self.calculatepopulationbreakdown()
+        self.calculateauthorities()
+        self.calculatemilitia()
+        self.calculateduelingcolleges()
+        #self.calculatemercenaries()
+        #self.calculatemageschools()
+        #self.calculatereligiousgroups()
+        #self.calculateroguesguilds()
+        #self.calculatemerchantguilds()
+        #self.calculatemonasticorders()
 
-        baseprops = {}
-        for states in baseproportions.keys():
-            if self.state in states:
-                baseprops = baseproportions[states]
-        for race in self.populationbreakdown.keys():
-            self.populationbreakdown[race] = randomize5(baseprops[race])
+    def calculatepopulationbreakdown(self):
+        pass
+
+    def calculateauthorities(self):
+        # Police chief/law enforcement
+        if self.populationct > 10000:
+            # The Guard
+            self.militaryunits.append("**City Guard.** **TODO**")
+            # Captain of the Guard
+            self.authorities.append("**TODO**, Captain of the City Guard")
+        else:
+            self.militaryunits.append("**Town Guard.** **TODO**")
+            self.authorities.append("**TODO**, Captain of the Guard")
+
+        # Religious figures
+        if self.temple:
+            self.authorities.append("**TODO**, High Priest of ${self.religion}")
+
+        # Rogues Guild
+        if len(self.roguesguilds) > 2:
+            self.authorities.append(f"**TODO**, Guildmaster of the {self.roguesguilds[random.randint(0, len(self.roguesguilds))]} Rogues' Guild.")
+
+        # Mage Schools
+        if len(self.mageschools) > 1:
+            self.authorities.append(f"**TODO**, Arcane Master of the ${self.mageschools[random.randint(0, len(self.mageschools))]} Mage School.")
 
     def calculatemilitia(self):
         results = "**Militia.** "
@@ -115,78 +238,61 @@ class City:
         return results
     
     def calculateduelingcolleges(self):
+        numcolleges = self.militaryunits
+        if len(self.mercenarycompanies) > 0:
+            numcolleges *= 2
+        pass
+
+    def calculateroguesguilds(self):
+        numguilds = self.populationct // 5000
+        if self.shantytown:
+            numguilds *= 2
+        numguilds -= len(self.militaryunits)
         pass
     
-    def calculatepopulationbreakdown(self):
-        baseproportions = {
-            # AlUma
-            ['Alalihat', 'Almalz', 'Zabalasa'] : { 'Human': 50, 'Firstborn' : 30, 'Created': 15, 'Hordish': 5 },
-            # Liria
-            ['Liria', 'Mighalia', ] : { 'Human': 40, 'Firstborn' : 20, 'Created': 20, 'Hordish': 20 },
-            # Travesimia
-            ['Travesimia', 'Bagonbia', 'Whaveminsia'] : { 'Human': 35, 'Firstborn' : 25, 'Created': 25, 'Hordish': 15 },
-            # Travenia
-            ['Travenia'] : { 'Human': 35, 'Firstborn' : 25, 'Created': 25, 'Hordish': 15 },
-            # Dradehalia
-            ['Dradehalia'] : { 'Human': 65, 'Firstborn' : 15, 'Created': 15, 'Hordish': 5 },
-            # Hordes
-            ['Tragekia', 'Ulm'] : { 'Human': 10, 'Firstborn' : 20, 'Created': 20, 'Hordish': 50 },
-            # Yithia
-            ['Yithi', 'Zhi'] : { 'Human': 0, 'Firstborn' : 0, 'Created': 0, 'Hordish': 0 },
-        }
-        def randomize5(value):
-            return value + int((value / 100) * random.randint(-25, 25))
-
-        baseprops = {}
-        for states in baseproportions.keys():
-            if self.state in states:
-                baseprops = baseproportions[states]
-
-    def parsecsvrow(self, row):
-        self.name = row[1]
-        self.province = row[2]
-        self.state = row[4]
-        self.religions.append(row[7])
-        self.populationct = int(row[8])
-
-    def parsemd(self, lines):
-        pass
-
     def formatmd(self):
         results = f"# {self.name}\n"
         results += f"*({self.province}, [{self.state}](../Nations/{self.state}.md))*\n"
         results += "\n"
         results += f"**Population:** {self.populationct}\n"
         results += (f"*(Humans: {self.populationbreakdown['Human']}, " + 
-            f"Firstborn: {self.populationbreakdown['Firstborn']}" + 
-            f"Created: {self.populationbreakdown['Created']}" + 
-            f"Hordish: {self.populationbreakdown['Hordish']}" + 
-            ")*\n")
-        results += "**Features:** " + ", ".join(self.features) + "\n"
-        results += "\n"
-        results += self.description + "\n"
+            f"Firstborn: {self.populationbreakdown['Firstborn']} " + 
+            f"Created: {self.populationbreakdown['Created']} " + 
+            f"Hordish: {self.populationbreakdown['Hordish']})*\n\n")
+        results += "\n\n".join(self.description) + "\n"
         results += "\n"
         results += "## Geography\n"
-        results += f"![]({self.name}.jpeg)" + "\n"
+        results += f"![]({self.name}.jpeg)\n\n"
         results += "## Authority Figures\n"
-        results += "\n"
-        results += "## Military Units\n"
-        results += "\n".join(self.militaryunits) + "\n"
-        results += self.calculatemilitia() + "\n"
-        results += "\n"
-        results += "## Militant Orders\n"
-        results += "\n"
-        results += "## Mercenary Companies\n"
-        results += "\n"
-        results += "## Dueling Colleges\n"
+        results += "\n\n".join(self.authorities) + "\n"
         results += "\n"
         results += "## Great Houses\n"
+        results += "\n\n".join(self.houses) + "\n"
+        results += "\n"
+        results += "## Military Units\n"
+        results += "\n\n".join(self.militaryunits) + "\n"
+        results += "\n"
+        results += "## Militant Orders\n"
+        results += "\n\n".join(self.militantorders) + "\n"
+        results += "\n"
+        results += "## Mercenary Companies\n"
+        results += "\n\n".join(self.mercenarycompanies) + "\n"
+        results += "\n"
+        results += "## Dueling Colleges\n"
+        results += "\n\n".join(self.duelingcolleges) + "\n"
         results += "\n"
         results += "## Mage Schools\n"
+        results += "\n\n".join(self.mageschools) + "\n"
         results += "\n"
         results += "## Religious Organizations\n"
+        results += "\n\n".join(self.religiousgroups) + "\n"
+        results += "\n"
+        results += "## Monastic Orders\n"
+        results += "\n\n".join(self.monasticorders) + "\n"
         results += "\n"
         results += "## Rogues' Guilds\n"
+        results += "Like any city, " + self.name + " has its share of crimincals and seedy activity; however, the Rogues' Guilds that prominently domainte that activity include:\n\n"
+        results += "\n\n".join(self.roguesguilds) + "\n"
         results += "\n"
 
         return results
@@ -246,6 +352,7 @@ def main():
         target = args.writecities
         for burb in burbs:
             with open(target + "/" + burb.name + ".md", 'w') as outfile:
+                burb.calculate()
                 outfile.write(burb.formatmd())
     else:
         parser.print_help()
