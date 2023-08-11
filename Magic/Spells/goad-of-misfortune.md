@@ -16,7 +16,8 @@ In addition, if you drop a creature to 0 hit points
 with the weapon, you can immediately use your
 reaction to teleport up to 30 feet to an unoccupied
 space you can see.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 7th level or higher, the necrotic
 damage dealt increases by plus 1d6 for each slot
 level above 6th.

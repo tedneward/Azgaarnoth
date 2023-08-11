@@ -1,7 +1,7 @@
 # The Nature of Spirits
 *Beings of the Other World*
 
-*The Dungeons and Dragons System Reference Document mentions "bodiless spirits, such as ghosts and specters" in its description of the Undead type. As such, in reading the shaman class, one might be forgiven for being a touch confused: what exactly are the spirits with whom shamans commune? Only the Speaker of Ancestors mentions spirits as having once been alive, and it makes no mention of them having been brought back in a state of undeath.*
+*The Dungeons and Dragons System Reference Document mentions "bodiless spirits, such as ghosts and specters" in its description of the Undead type. As such, in reading the shaman class, one might be forgiven for being a touch confused: what exactly are the spirits with whom [shamans](../Classes/Shaman/) commune? Only the Speaker of Ancestors mentions spirits as having once been alive, and it makes no mention of them having been brought back in a state of undeath.*
 
 *The word "spirit" is to blame for this confusion, as it has a multitude of definitions, some of which seem only tangentially related to one another. One might discuss a warrior’s unbreakable "spirit," or else make plans to "spirit" the young prince away from his castle to protect him from assassins. Even within Dungeons and Dragons alone, the word is used with a variety of different meanings, which must be determined through context.*
 
@@ -40,7 +40,7 @@ While it is not unknown for a tale or concept to form its own spirit, it is very
 
 As these spirits are conceptual entities, rather than physical ones, they are far more prone to travel than spirits of other classifications. However, they still cannot stray too far from the lands where their ideas are discussed and valued unless they are following one or more entities that carry those ideas with them.
 
-## Spirits and [Shamans](/Classes/Shaman.md)
+## Spirits and [Shamans](../Classes/Shaman)
 The separation between the spiritual and physical worlds necessitates the existence of shamans: intermediaries that bridge the two worlds and keep them in balance. Problems in one world can often be traced to sources in the other, and it is the responsibility of a shaman to restore order in both worlds by resolving such conflicts.
 
 While shamans of the mortal world are our primary focus, it should be noted that, as noted before, there is nothing spiritually unique about mortal races. Shamans or shaman analogues can be found in all corners of both worlds. Dryads, for example, sometimes come into being when the spirit of a tree feels a shamanic call to the mortal world.

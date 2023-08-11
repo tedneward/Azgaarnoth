@@ -1,5 +1,5 @@
 #### Jinx Shot
-*Enchantment cantrip (Artificer,Bard,Warlock)
+*Enchantment cantrip* (Artificer,Bard,Warlock)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

@@ -31,14 +31,14 @@ Additionally, when you cast a conjuration spell that summons or creates one or m
 # Nethermantic Spells
 
 ## Cantrips
-* [shifting shadow](/Magic/Spells/shifting-shadow.md)
+* [shifting shadow](../../Magic/Spells/shifting-shadow.md)
 
 ## 4th-level
-* [blade of flickering shadows](/Magic/Spells/blade-of-flickering-shadows.md)
+* [blade of flickering shadows](../../Magic/Spells/blade-of-flickering-shadows.md)
 
 ## 5th-level
-* [shadow magic](/Magic/Spells/shadow-magic.md)
+* [shadow magic](../../Magic/Spells/shadow-magic.md)
 
 ## 6th-level
-* [inevitable winter](/Magic/Spells/inevitable-winter.md)
+* [inevitable winter](../../Magic/Spells/inevitable-winter.md)
 

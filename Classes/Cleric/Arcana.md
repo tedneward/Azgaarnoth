@@ -3,24 +3,27 @@ Magic is an energy that suffuses the multiverse and that fuels both destruction 
 
 The gods of this domain are often associated with knowledge, as learning and arcane power tend to go hand-in-hand.
 
+This is a domain granted by [the Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric), the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Azuth](../../Religions/Pantheon/Azuth.md), ...
+
 ## Domain Spells
 *1st-level Arcana Domain feature* 
 
-Starting at 1st level, you gain domain spells at the cleric levels listed in the Arcana Domain Spells table. See the Arcana Domain class feature for how domain spells work.
+Starting at 1st level, you gain domain spells at the cleric levels listed in the Arcana Domain Spells table. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
 **Arcana Domain Spells**
+
 Cleric Level |	Spells
 ------------ | -----
-1st |	Detect Magic, Magic Missile
-3rd	| Magic Weapon, Nystul's Magic Aura
-5th	| Dispel Magic, Magic Circle
-7th	| Arcane Eye, Leomund's Secret Chest
-9th	| Planar Binding, Teleportation Circle
+1st | [Detect Magic](../../Magic/Spells/detect-magic.md), [Magic Missile](../../Magic/Spells/magic-missile.md)
+3rd	| [Magic Weapon](../../Magic/Spells/magic-weapon.md), [Nystul's Magic Aura](../../Magic/Spells/nystuls-magic-aura.md)
+5th	| [Dispel Magic](../../Magic/Spells/dispel-magic.md), [Magic Circle](../../Magic/Spells/magic-circle.md)
+7th	| [Arcane Eye](../../Magic/Spells/arcane-eye.md), [Leomund's Secret Chest](../../Magic/Spells/leomunds-secret-chest.md)
+9th	| [Planar Binding](../../Magic/Spells/planar-binding.md), [Teleportation Circle](../../Magic/Spells/teleportation-circle.md)
 
 ## Arcane Initiate
 *1st-level Arcana Domain feature* 
 
-You gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips.
+You gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the [wizard "core" spell list](../Wizard/index.md#core-wizard-spells). For you, these cantrips count as cleric cantrips.
 
 ## Channel Divinity: Arcane Abjuration
 *2nd-level Arcana Domain feature* 

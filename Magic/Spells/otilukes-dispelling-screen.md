@@ -13,7 +13,8 @@ come into contact with the wall is hit with a 3rd
 level dispel magic as if it was cast by the same caster
 who conjured the wall. Once a creature has come
 into contact with the wall, the spell ends.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 5th level or higher spell, you may increase the level
 of dispel magic by one level for every spell level
 above 4th.

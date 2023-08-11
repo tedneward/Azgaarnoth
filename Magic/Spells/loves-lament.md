@@ -16,6 +16,7 @@ saving throw takes 3d10 psychic damage and is
 poisoned until the end of its next turn, as it calls to
 mind memories of all its lost loves and
 disappointments in life.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 4th level or higher, the damage
 increases by 1d10 for each slot level above 3rd.

@@ -28,7 +28,8 @@ creature is healed, regaining hit points equal to half
 the fire damage inflicted. Only firenewts or
 creatures of the elemental type can benefit from
 this effect.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 5th level or higher, the bludgeoning
 damage and fire damage each increase by 1d6 for
 each level above 4th.

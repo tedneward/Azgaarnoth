@@ -12,6 +12,7 @@ creature and granting it strong magical protection.
 As an action on your turn, you can transfer the orbs
 (and their protection) to another recipient within
 range.
+
 When a spell forces the protected creature to
 make a saving throw, or when the creature is
 targeted by a spell attack, it can expend one of the

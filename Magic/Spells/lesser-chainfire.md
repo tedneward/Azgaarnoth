@@ -31,7 +31,8 @@ from harm. If it is in a position of authority, affected
 creatures do not obey its orders. When the effect
 ends, all affected creatures regain their normal
 memories.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 6th level or higher, the psychic
 damage increases by 1d6 for each slot level above
 5th.

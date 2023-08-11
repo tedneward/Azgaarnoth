@@ -18,7 +18,8 @@ You can only move it in a straight line through
 space unimpeded by creatures, objects, or obstacles.
 You can also move the creature up into the air,
 which may cause it to fall.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 2nd level or higher, the psychic
 damage increases by 1d4 for each slot level above
 1st. If the spell slot is of 5th level or higher, you may

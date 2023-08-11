@@ -1,7 +1,7 @@
 # Arcane Tradition: School of Divination
 The counsel of a diviner is sought by royalty and commoners alike, for all seek a clearer understanding of the past, present, and future. As a diviner, you strive to part the veils of space, time, and consciousness so that you can see clearly. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.
 
-Many diviners are a part of the [Silent Tower](/Organizations/MageSchools/SilentTower.md), and many more are paid advisers to the various [noble Houses](/Organizations/Houses/Houses.md).
+Many diviners are a part of the [Silent Tower](../../Organizations/MageSchools/SilentTower.md), and many more are paid advisers to the various [noble Houses](../../Organizations/Houses/index.md).
 
 ## Divination Savant
 Beginning when you select this school at 2nd level, the gold and time you must spend to copy a Divination spell into your spellbook is halved.

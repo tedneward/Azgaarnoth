@@ -1,5 +1,5 @@
 #### Frostwind Blade
-*Evocation cantrip (Druid,Sorcerer,Warlock,Wizard)
+*Evocation cantrip* (Druid,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 5 feet
@@ -19,6 +19,7 @@ or to take 1d6 cold damage and make the attack roll
 normally. A creature within 5 feet of you that takes
 cold damage from this spell reduces its speed by
 half until the end of your next turn.
+
 This spell's damage increases when you reach
 higher levels. At 5th level, the melee attack deals an
 extra 1d6 cold damage to the target, and the damage

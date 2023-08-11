@@ -27,7 +27,8 @@ you hit.
 For the spell's duration, you also
 suffer disadvantage on Charisma
 (Persuasion) checks.
-At Higher Levels.  When you
+
+***At Higher Levels.***  When you
 cast this spell using a spell slot
 of 2nd level or higher, the bludgeoning
 damage increases by 1d4 for each slot level above

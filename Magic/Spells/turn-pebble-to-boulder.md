@@ -13,6 +13,7 @@ hit your opponent takes 6d6 bludgeoning damage.
 The boulder shatters after hitting its target. You
 may use an action to hurl a pebble on your turn for
 the duration.
-At Higher Levels. You can cast this spell using a
+
+***At Higher Levels.*** You can cast this spell using a
 5th level or higher spell slot. It inflicts 1d6 extra
 damage for every spell level above 4th.

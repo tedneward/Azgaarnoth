@@ -1,5 +1,5 @@
 # Primal Path: Path of the Berserker
-For some barbarians, rage is a means to an end – that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being. This path is actually a very common path for barbarians who join up with one of the [Mercenary Companies](/Organizations/MercCompanies/MercCompanies.md).
+For some barbarians, rage is a means to an end – that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being. This path is actually a very common path for barbarians who join up with one of the [Mercenary Companies](../../Organizations/MercCompanies/MercCompanies.md).
 
 ## Frenzy
 Starting when you choose this path at 3rd level, you can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion.

@@ -15,14 +15,14 @@ Shamans who speak for dreams must balance their waking lives with the nature of 
 **Speaker of Dreams Calling Spells**
 Shaman Level | Calling Spells
 ------------ | --------------
-1st | [silent image](/Magic/Spells/silent-image.md), [sleep](/Magic/Spells/sleep.md)
-3rd | [phantasmal force](/Magic/Spells/phantasmal-force.md), [suggestion](/Magic/Spells/suggestion.md)
-5th | [major image](/Magic/Spells/major-image.md), [sending](/Magic/Spells/sending.md)
-7th | [dimension door](/Magic/Spells/dimension-door.md), [phantasmal killer](/Magic/Spells/phantasmal-killer.md)
-9th | [dream](/Magic/Spells/dream.md), [seeming](/Magic/Spells/seeming.md)
+1st | [silent image](../../Magic/Spells/silent-image.md), [sleep](../../Magic/Spells/sleep.md)
+3rd | [phantasmal force](../../Magic/Spells/phantasmal-force.md), [suggestion](../../Magic/Spells/suggestion.md)
+5th | [major image](../../Magic/Spells/major-image.md), [sending](../../Magic/Spells/sending.md)
+7th | [dimension door](../../Magic/Spells/dimension-door.md), [phantasmal killer](../../Magic/Spells/phantasmal-killer.md)
+9th | [dream](../../Magic/Spells/dream.md), [seeming](../../Magic/Spells/seeming.md)
 
 ## Blessings of Dream
-When you choose this calling at 1st level, you gain the [minor illusion](/Magic/Spells/minor-illusion.md), [prestidigitation](/Magic/Spells/prestidigitation.md), and [touch of madness](/Magic/Spells/touch-of-madness.md) cantrips. You also become proficient in your choice of one of the following skills: Deception, Performance, Sleight of Hand, or Stealth.
+When you choose this calling at 1st level, you gain the [minor illusion](../../Magic/Spells/minor-illusion.md), [prestidigitation](../../Magic/Spells/prestidigitation.md), and [touch of madness](../../Magic/Spells/touch-of-madness.md) cantrips. You also become proficient in your choice of one of the following skills: Deception, Performance, Sleight of Hand, or Stealth.
 
 ## Dreamreader
 Also at 1st level, your connection to dreams allows you to touch the minds of other creatures. You can communicate telepathically with any creature you can see within 30 feet of you. You don’t need to share a language with the creature for it to understand your telepathic communication, but the creature must be able to understand at least one language.

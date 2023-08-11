@@ -1,5 +1,5 @@
 #### Tormenting Flame
-*Evocation cantrip (Sorcerer,Warlock,Wizard)
+*Evocation cantrip* (Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 reaction
 - **Range:** 60 feet

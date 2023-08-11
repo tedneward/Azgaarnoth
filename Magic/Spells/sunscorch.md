@@ -26,7 +26,8 @@ until the end of your next turn.
 The false sun vanishes at the end of the turn, but
 until then it sheds bright light in a 20-foot radius
 and dim light for an additional 20 feet.
-At Higher Levels.  You can cast this spell using a
+
+***At Higher Levels.***  You can cast this spell using a
 spell slot of 2nd level or higher, increasing the
 damage by 1d6 (1d8 against undead) for each spell
 level above 1st.

@@ -13,7 +13,8 @@ target is undead, it takes maximum damage, and
 must make a Wisdom saving throw. On a failed
 save, the target is stunned until the end of its next
 turn.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 4th level or higher, the radiant
 damage increases by 1d10 (or max damage against
 undead) for every slot level above 3rd.

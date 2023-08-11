@@ -14,7 +14,8 @@ next turn. If the target successfully saves they take
 damage but are otherwise unaffected. If the target is
 immune to cold damage, they make this save
 automatically.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 2nd level or higher, you increase the
 damage by 1d4 for spell slot above 1st. If you use a
 spell slot of 4th level or higher, the target is

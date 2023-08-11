@@ -25,11 +25,11 @@ Starting at 14th level, the magic of water lives in every cell of your body. You
 * [scalding sphere](Magic/Spells/scalding-sphere.md)
 
 ## 2nd-level
-* [rain](/Magic/Spells/rain.md)
+* [rain](../../Magic/Spells/rain.md)
 
 ## 3rd-level
-* [water lasso](/Magic/Spells/water-lasso.md)
+* [water lasso](../../Magic/Spells/water-lasso.md)
 
 ## 4th-level
-* [command water](/Magic/Spells/command-water.md)
+* [command water](../../Magic/Spells/command-water.md)
 

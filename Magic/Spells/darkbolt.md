@@ -20,6 +20,7 @@ At the start of each of your turns for the duration,
 one more bolt of dark force appears. You can use an
 action to make a ranged spell attack with the bolt at
 a target you can see within range.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 6th level or higher, the force damage
 increases by 1d8 for each slot level above 5th.

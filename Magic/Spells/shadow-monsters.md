@@ -16,7 +16,8 @@ duration, you can use a bonus action
 to command the shadows to move up
 to their full speed and attack creatures
 of your choice within their reach.
-At Higher Levels. When you cast
+
+***At Higher Levels.*** When you cast
 this spell with a 6th level spell
 slot, you summon 8 shadows.
 When you cast this spell with an

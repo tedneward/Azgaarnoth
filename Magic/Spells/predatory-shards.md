@@ -20,7 +20,8 @@ then filled with magical shards. The
 target and each creature within 5 feet of
 it must succeed on a Dexterity saving
 throw or take 5d6 force damage.
-At Higher Levels.  When you cast
+
+***At Higher Levels.***  When you cast
 this spell using a spell slot of 4th level or
 higher, the force damage increases
 by 1d6 for each slot level

@@ -1,13 +1,13 @@
 # Arcane Tradition: School of Illusion
 You focus your studies on magic that dazzles the senses, befuddles the mind, and tricks even the wisest folk. Your magic is subtle, but the illusions crafted by your keen mind make the impossible seem real. Some illusionists – including many gnome wizards – are benign tricksters who use their spells to entertain. Others are more sinister masters of deception, using their illusions to frighten and fool others for their personal gain.
 
-Illusionists frequently find a home within the [Glittering Eye](/Organizations/MageSchools/GlitteringEye.md) school. Many others find much gainful employment among [mercenary companies](/Organizations/MercCompanies/MercCompanies.md), since deceit is always a strategic tool on the battlefield.
+Illusionists frequently find a home within the [Glittering Eye](../../Organizations/MageSchools/GlitteringEye.md) school. Many others find much gainful employment among [mercenary companies](../../Organizations/MercCompanies/MercCompanies.md), since deceit is always a strategic tool on the battlefield.
 
 ## Illusion Savant
 Beginning when you select this school at 2nd level, the gold and time you must spend to copy a Illusion spell into your spellbook is halved.
 
 ## Improved Minor Illusion
-When you choose this school at 2nd level, you learn the [Minor Illusion](/Magic/Spells/minor-illusion.md) cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
+When you choose this school at 2nd level, you learn the [Minor Illusion](../../Magic/Spells/minor-illusion.md) cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
 When you cast Minor Illusion, you can create both a sound and an image with a single casting of the spell.
 

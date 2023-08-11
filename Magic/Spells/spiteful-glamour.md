@@ -1,5 +1,5 @@
 #### Spiteful Glamour
-*Enchantment cantrip (Artificer,Bard,Warlock)
+*Enchantment cantrip* (Artificer,Bard,Warlock)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

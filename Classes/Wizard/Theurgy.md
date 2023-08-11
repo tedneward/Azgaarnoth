@@ -3,7 +3,7 @@ A number of deities claim arcane magic as their domain. While the idea of a divi
 
 Such deities often have clerics, but many gods of magic bid their followers to take up the study of wizardry. These religious magic-­users follow the arcane tradition of Theurgy, and are commonly known as theurgists. Such spellcasters are as dedicated and scholarly as any other wizard, but they blend their arcane study with religious teachings.
 
-Strangely enough, while a few [Pantheon](/Religions/Pantheon.md) gods are revered for their domain of magic, the [Kaevarian Church](/Religions/KaevarianChurch.md) has a much larger collection of practicing Theurgist wizards. Those who are not part of the Church inevitably find their way to the [Divine Power](/Organizations/MageSchools/DivinePower.md) school.
+Strangely enough, while a few [Pantheon](/Religions/Pantheon/index.md) gods are revered for their domain of magic, the [Kaevarian Church](/Religions/KaevarianChurch.md) has a much larger collection of practicing Theurgist wizards. Those who are not part of the Church inevitably find their way to the [Divine Power](../../Organizations/MageSchools/DivinePower.md) school.
 
 ## Divine Inspiration
 When you select this tradition at 2nd level, pick a divine domain from your chosen deity’s list of eligible domains. Alternatively, the Arcana, Knowledge, and light domains are thematically appropriate and easily compatible with the theurgist concept.

@@ -1,12 +1,14 @@
 # Arcane Tradition: Arcanist
-Arcanists are those wizards who, rather than pursue an arcane tradition specific to an area of magic or pursuit of study, choose instead to dedicate their time and energy to the [mage school](/Organizations/MageSchools/MageSchools.md) in which they are a member. (Arcanists are always members of a mage school; should they lose their membership for some reason, they must immediately join a new school, or lose some of their particular traits, at the DM's discretion.)
+Arcanists are those wizards who, rather than pursue an arcane tradition specific to an area of magic or pursuit of study, choose instead to dedicate their time and energy to the [mage school](../../Organizations/MageSchools/index.md) in which they are a member. (Arcanists are always members of a mage school; should they lose their membership for some reason, they must immediately join a new school, or lose some of their particular traits, at the DM's discretion.)
 
-The [White Winds](/Organizations/MageSchools/WhiteWinds.md) were the first to use arcanists, and remain by far the most common source of arcanists in Azgaarnoth.
+The [White Winds](../../Organizations/MageSchools/WhiteWinds.md) were the first to use arcanists, and remain by far the most common source of arcanists in Azgaarnoth.
 
 ## Arcanist's Privileges
 Beginning when you select this arcane tradition at 2nd level, your membership allows you to access to your guild’s vast library of spellbooks, and grants you prestige and insight when interacting with other spellcasters, granting you the following benefits:
+
 * Whenever you gain a wizard level, in addition to the normal spells you learn, you can choose one extra wizard spell of a level you can cast (preferably of the school's unique spell list, if any) and copy it into your spellbook for half the usual price in gold.
 * You gain a bonus on all your Charisma checks to interact with other spellcasters, equal to half your Intelligence modifier (minimum 1).
+
 In exchange for these benefits, you must pay dues of 10 gp per month to the guild, and if you have spent at least 1 day of downtime in the past month, you must spend 1 additional downtime day to maintain your guild duties. If you miss payments, you must make up back dues (in both gold and in downtime, if applicable) to remain in your guild’s good graces. If you are behind on payments, you do not enjoy any of the benefits of this feature. 
 
 When you reach 14th level in your wizard class, you no longer need to pay these dues in gold or downtime, and can always use this feature’s benefits, whether or not you have paid for them.

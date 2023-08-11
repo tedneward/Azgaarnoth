@@ -12,7 +12,8 @@ saving throw. They take 6d6 fire damage on a failed
 save and half as much damage on a successful one.
 You may then use your bonus action to teleport to
 any empty space in range of the spell.
-At Higher Levels. You can cast this spell using a
+
+***At Higher Levels.*** You can cast this spell using a
 5th level or higher spell slot. You may increase the
 damage by 1d6 or increase the cone by 10 feet for
 every spell level above 4th.

@@ -16,4 +16,4 @@ You weave dark magic to pull information out of at least one ounce of blood (or 
 
 When you cast the spell if the target is still alive, it feels a tingling sensation in its veins and knows the exact direction to you, though it doesn't necessarily know who you are or what you are doing.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can choose one additional option for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can choose one additional option for each slot level above 1st.

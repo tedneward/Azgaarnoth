@@ -15,7 +15,8 @@ throw, you are healed by the amount of damage
 dealt. Alternatively, you can transfer these hit
 points to an ally that you touch when you cast the
 spell.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 6th level or higher, the necrotic
 damage dealt increases by 1d6 for every slot level
 above 5th.

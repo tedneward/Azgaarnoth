@@ -15,6 +15,7 @@ You also get a sense of the target's physical and
 emotional wellbeing (whether it isinjured, sleepy,
 hungry, etc.). If the target is on a different plane,
 the spell fails.
+
 If the target is unwilling to be located, it can
 make a Wisdom saving throw. On success, the spell
 fails.

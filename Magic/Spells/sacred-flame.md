@@ -1,5 +1,5 @@
 #### Sacred Flame
-*Evocation cantrip (Cleric)
+*Evocation cantrip* (Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

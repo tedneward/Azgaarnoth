@@ -12,4 +12,4 @@ Cracks and fissures filled with molten lava open up in the area and chum the rem
 
 This spell ignites flammable objects in the area that aren't being worn or carried When the spell ends, the ground in the area cools and solidifies, becoming difficult terrain until cleared. Each 5-foot-square portion of ground in the area requires at least 10 minutes to clear using mason's tools.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the fire damage dealt increases by ld6 for each slot level above 5th.
+***At Higher Levels.***When you cast this spell using a spell slot of 6th level or higher, the fire damage dealt increases by ld6 for each slot level above 5th.

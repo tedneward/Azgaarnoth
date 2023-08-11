@@ -9,6 +9,7 @@ ___
 You raise your weapon defiantly and shout a
 magical imprecation at a foe that dares to assault
 your comrade.
+
 Make a weapon attack against the attacker. If you
 attack with a melee weapon, your reach for this
 attack is increased to 30 feet. If the attack hits, it

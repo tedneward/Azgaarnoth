@@ -17,5 +17,6 @@ choice must be made as damage is assigned if the
 creature drops to 0 hit points. An unconscious
 creature is stabilized at 0 hit points, as if by the
 spare the dying  cantrip.
-At Higher Levels.  The damage increases by 1d4
+
+***At Higher Levels.***  The damage increases by 1d4
 for each slot level above 2nd.

@@ -14,6 +14,7 @@ In addition, you gain the ability to use rods, staffs, and wands as spellcasting
 Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Artillerist Spells table. These spells count as artificer spells for you, but they don’t count against the number of artificer spells you prepare.
 
 **Artillerist Spells**
+
 Artificer Level | Spell
 --------------- | -----
 3rd | shield, thunderwave

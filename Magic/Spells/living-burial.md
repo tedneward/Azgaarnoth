@@ -19,4 +19,4 @@ A creature can use an action on its turn to attempt to escape. The target must m
 
 If the spell ends early, the target is propelled magically back to the surface, causing it to immediately transition to the partially unburied state. If the spell lasts its full duration, however, the target is left buried underground to suffocate without the aid of magic.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the damage dealt increases by ld6 for each slot level above 7th.
+***At Higher Levels.***When you cast this spell using a spell slot of 8th level or higher, the damage dealt increases by ld6 for each slot level above 7th.

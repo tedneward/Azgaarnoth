@@ -22,7 +22,8 @@ In addition, the area within the mists is heavily
 obscured. Wind does not affect the cloud's direction
 or speed. However, a moderate wind disperses the
 cloud in 4 rounds.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th level or higher, the amount of fire
 damage increases by 1d6 for each slot level above
 4th.

@@ -1,5 +1,5 @@
 #### Word of Radiance
-*Evocation cantrip (Cleric)
+*Evocation cantrip* (Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** 15 feet

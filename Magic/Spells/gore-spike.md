@@ -1,5 +1,5 @@
 #### Gore Spike
-*Necromancy cantrip (Sorcerer,Warlock,Wizard)
+*Necromancy cantrip* (Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet

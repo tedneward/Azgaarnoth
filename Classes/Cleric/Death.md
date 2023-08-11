@@ -1,11 +1,13 @@
 # Divine Domain: Death
+This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Arawn](../../Religions/Pantheon/Arawn.md), ...
 
-##  Domain Spells
+## Domain Spells
 *1st-level Death Domain feature* 
 
-You gain domain spells at the cleric levels listed in the Death Domain Spells table. See the Divine Domain class feature for how domain spells work.
+You gain domain spells at the cleric levels listed in the Death Domain Spells table. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
 **Death Domain Spells**
+
 Cleric Level | Spells
 ------------ | ------
 1st | False Life, Ray of Sickness

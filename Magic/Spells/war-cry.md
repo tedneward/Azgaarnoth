@@ -15,7 +15,8 @@ damage of the weapon's type.
 In addition, if you hit with the attack, your foe
 must succeed on a Strength saving throw or be
 knocked prone.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 4th level or higher, you deal an extra
 d10 damage on a successful attack for every two slot
 levels above 2nd.

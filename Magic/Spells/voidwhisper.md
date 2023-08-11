@@ -1,5 +1,5 @@
 #### Voidwhisper
-*Evocation cantrip (Wizard)
+*Evocation cantrip* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

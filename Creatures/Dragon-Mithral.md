@@ -31,7 +31,7 @@ The region containing a legendary mithral dragon's lair is warped by the dragon'
 When the dragon dies, these effects fade over the course of 1d10 days. Plants remain where they have grown, unless they don't normally grow in that terrain.
 
 > **Frozen in Time** 
-> A mithral dragon's secondary breath weapon freezes its opponents in time, almost as if with a [time stop](/Magic/Spells/time-stop.md) spell. While a creature is thus affected, it suffers these conditions:
+> A mithral dragon's secondary breath weapon freezes its opponents in time, almost as if with a [time stop](../Magic/Spells/time-stop.md) spell. While a creature is thus affected, it suffers these conditions:
 > * the creature is incapacitated, can't move or speak, and is unaware of its surroundings
 > * attack rolls against the creature have advantage any melee weapon attack that would hit the creature is automatically a critical hit
 > * the creature automatically fails Strength and Dexterity saving throws

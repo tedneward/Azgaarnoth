@@ -1,5 +1,5 @@
 #### Lesser Acupuncture
-*Necromancy cantrip (Artificer,Cleric,Druid,Sorcerer)
+*Necromancy cantrip* (Artificer,Cleric,Druid,Sorcerer)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Touch

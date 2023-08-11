@@ -6,6 +6,8 @@ ___
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 ---
-This spell functions the same as curse of ill fortune ,
-except that you may select any number of targets
-within a 20-foot cube you choose within range.
+When you cast this spell, you bestow a minor curse on any number of targets within a 20-foot cube you choose within range. Those creatures must make a successful Wisdom saving throw, or suffer your choice of one of the following effects for the duration:
+
+* The target has disadvantage on ability checks and saving throws with an ability of your choice.
+* The target has disadvantage on attack rolls against you for the spell's duration.
+* Your attacks and spells deal an extra 1d8 necrotic damage to the target.

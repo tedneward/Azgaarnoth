@@ -3,7 +3,7 @@ Practitioners of emomancy often term themselves as emomantics rather than emoman
 
 Emomantics generally eschew the clumsy “brute force” charms and dominations in favor of delicately manipulating the existing emotions of creatures. While most emomantics prefer to focus on enhancing positive emotions, all see value in pacifying destructive urges inherent in passionate beings.
 
-Like [enchanters](Enchantment.md), emomantics are often deeply distrusted by all walks of life, and in [Travenia](/Nations/Travenia.md) the practice of emomancy is openly banned. Despite the open hostility to emomancy, the tradition carries on, which suggests that emomantic masters are far more subtle than most believe--or they have clandestine support from various quarters.
+Like [enchanters](Enchantment.md), emomantics are often deeply distrusted by all walks of life, and in [Travenia](../../Nations/Travenia.md) the practice of emomancy is openly banned. Despite the open hostility to emomancy, the tradition carries on, which suggests that emomantic masters are far more subtle than most believe--or they have clandestine support from various quarters.
 
 ## Bonus Proficiencies
 Starting at 2nd level, you gain proficiency with the Insight skill if you don’t already have it, and your proficiency bonus is doubled for any ability check you make when using this skill.
@@ -23,25 +23,29 @@ At 10th level, your spells that affect emotions are difficult to resist. You can
 
 ## Emotion Overwhelming
 Starting at 14th level, you are able to project an aura of overwhelming emotion, sharing your current emotional state with all creatures within a 30-foot radius, centered on you, and magnified many times over. The aura moves with you. In addition to sharing an emotional mood which all creatures understand to be yours, it generates one of the following effects of your choice:
+
 * Positive Emotions – all creatures within the aura have advantage on all skill checks and saving throws.
 * Negative Emotions – all creatures within the aura have disadvantage on all skill checks and saving throws.
+
 Unwilling creatures can make a successful Charisma saving throw to resist the effects. The aura lasts for 1 minute, and after using this ability you cannot use it again until after you have completed a long rest.
+
+---
 
 # Emomancy Spells
 
 ## 1st-level
-* [dishearten](/Magic/Spells/dishearten.md)
-* [positive foundations](/Magic/Spells/positive-foundations.md)
+* [dishearten](../../Magic/Spells/dishearten.md)
+* [positive foundations](../../Magic/Spells/positive-foundations.md)
 
 ## 2nd-level
-* [passionate pursuit](/Magic/Spells/passionate-pursuit.md)
-* [symbiotic confidence](/Magic/Spells/symbiotic-confidence.md)
+* [passionate pursuit](../../Magic/Spells/passionate-pursuit.md)
+* [symbiotic confidence](../../Magic/Spells/symbiotic-confidence.md)
 
 ## 3rd-level
-* [suspicion and doubt](/Magic/Spells/suspicion-and-doubt.md)
+* [suspicion and doubt](../../Magic/Spells/suspicion-and-doubt.md)
 
 ## 5th-level
-* [unshakable self awareness](/Magic/Spells/unshakable-self-awareness.md)
+* [unshakable self awareness](../../Magic/Spells/unshakable-self-awareness.md)
 
 ## 9th-level
-* [exemplar of self](/Magic/Spells/examplar-of-self.md)
+* [exemplar of self](../../Magic/Spells/examplar-of-self.md)

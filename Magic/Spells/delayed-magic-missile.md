@@ -16,6 +16,7 @@ trigger word, chosen by you, is spoken. You can
 speak the trigger word a bonus action. If you do
 not speak the trigger word by the time the spell
 ends, the missiles are not fired.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th level or higher, one extra missile is
 created for each slot level above 4th.

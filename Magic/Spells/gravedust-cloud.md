@@ -19,7 +19,8 @@ radius sphere. Each target regains temporary hit
 points equal to half the necrotic damage you rolled
 (whether any creature fails its saving throw or not).
 This spell has no effect on undead or constructs.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 7th level or higher, the necrotic damage increases by
 1d8 for each slot level
 above 6th.

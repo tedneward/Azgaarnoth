@@ -1,5 +1,5 @@
 #### Peep-Hole
-*Divination cantrip (Wizard)
+*Divination cantrip* (Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 5 feet

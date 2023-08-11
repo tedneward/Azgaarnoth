@@ -1,5 +1,5 @@
 #### Blood Dagger
-*conjuration cantrip (Sorcerer,Warlock)
+*conjuration cantrip* (Sorcerer,Warlock)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

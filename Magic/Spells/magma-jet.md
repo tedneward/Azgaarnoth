@@ -14,6 +14,7 @@ In addition, anyone who fails the saving throw takes
 2d8 fire damage at the beginning of your next turn.
 The area covered by the cone of magma counts as
 difficult terrain for one minute after the spell is cast.
-At Higher Levels.  You can cast this spell using a
+
+***At Higher Levels.***  You can cast this spell using a
 spell slot of 4th level or higher. The initial damage
 increases by 1d8 for every spell level above 3rd.

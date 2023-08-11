@@ -14,4 +14,4 @@ While restrained by this spell the target takes 4d6 force damage at the start of
 
 A restrained target can use an action on its tum to make a Strength saving throw against the spell escaping the effect on a successful saving throw.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.
+***At Higher Levels.***When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.

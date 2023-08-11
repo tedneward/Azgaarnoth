@@ -19,7 +19,8 @@ understand others as you would normally), and
 neither of you can cast any spell that requires verbal
 components, nor use any spell or other effect that
 requires others to be able to hear you.
-At Higher Levels.  If you cast this spell using a
+
+***At Higher Levels.***  If you cast this spell using a
 spell slot of 3rd level or higher, the psychic damage
 inflicted increases by an additional 1d10 for every
 spell level above 2nd.

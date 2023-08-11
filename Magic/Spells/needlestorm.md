@@ -12,7 +12,8 @@ must make a Dexterity saving throw. They take 2d6
 piercing damage on a failed save and half as much
 on a successful one. This damage counts as magical
 for the purposes of overcoming damage resistance.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 3rd level or higher, the damage
 increases by 1d6 piercing damage for each spell slot
 above 3rd.

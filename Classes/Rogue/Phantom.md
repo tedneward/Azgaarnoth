@@ -1,7 +1,7 @@
 # Roguish Archetype: Phantom
 Many rogues walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some rogues discover a mystical connection to death itself. These rogues take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts. Rogues’ guilds value them as highly effective information gatherers and spies.
 
-Many shadar-kai of the Shadowfell are masters of these macabre techniques, and some are willing to teach this path. In places where many necromancers practice their craft, a Phantom can become a wizard’s confidant and right hand. In temples of gods of death, the Phantom works as an agent to track down those who try to cheat death and to recover knowledge that might otherwise be lost to the grave. Phantoms are found all over Azgaarnoth, but they tend to end up in the company of the [Night's Blessing](/Organizations/MageSchools/NightsBlessing.md) or [Twilight Star](/Organizations/MageSchools/TwilightStar.md) magi over time.
+Many shadar-kai of the Shadowfell are masters of these macabre techniques, and some are willing to teach this path. In places where many necromancers practice their craft, a Phantom can become a wizard’s confidant and right hand. In temples of gods of death, the Phantom works as an agent to track down those who try to cheat death and to recover knowledge that might otherwise be lost to the grave. Phantoms are found all over Azgaarnoth, but they tend to end up in the company of the [Night's Blessing](../../Organizations/MageSchools/NightsBlessing.md) or [Twilight Star](../../Organizations/MageSchools/TwilightStar.md) magi over time.
 
 Phantoms are often mistaken for [Revived](Revived.md), and vice versa.
 

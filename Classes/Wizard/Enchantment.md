@@ -1,7 +1,7 @@
 # Arcane Tradition: School of Enchantment
 As a member of the School of Enchantment, you have honed your ability to magically entrance and beguile other people and monsters. Some enchanters are peacemakers who bewitch the violent to lay down their arms and charm the cruel into showing mercy. Others are tyrants who magically bind the unwilling into their service. Most enchanters fall somewhere in between.
 
-Enchanters are widely distrusted all across Azgaarnoth, and are the only major arcane tradition that do not have their own [Mage School](/Organizations/MageSchools/MageSchools.md) focusing on that tradition. However, enchanters are stil quite common in other schools; many, for example, find themselves quietly welcome amongst the [MindMage](/Organizations/MageSchools/MindMage.md) school, and many more are welcome to use their talents on behalf of the [Dread Emperor](/People/DreadEmperor.md).
+Enchanters are widely distrusted all across Azgaarnoth, and are the only major arcane tradition that do not have their own [Mage School](../../Organizations/MageSchools/MageSchools.md) focusing on that tradition. However, enchanters are stil quite common in other schools; many, for example, find themselves quietly welcome amongst the [MindMage](../../Organizations/MageSchools/MindMage.md) school, and many more are welcome to use their talents on behalf of the [Dread Emperor](../../People/DreadEmperor.md).
 
 ## Enchantment Savant
 Beginning when you select this school at 2nd level, the gold and time you must spend to copy a Enchantment spell into your spellbook is halved.

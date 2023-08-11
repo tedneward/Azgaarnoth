@@ -1,5 +1,5 @@
 #### Vicious Mockery
-*Enchantment cantrip (Bard,Shaman)
+*Enchantment cantrip* (Bard,Shaman)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

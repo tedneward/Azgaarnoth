@@ -19,7 +19,8 @@ creature loses the trail and has
 disadvantage on all further ability
 checks to track the affected
 creatures for the duration.
-At Higher Levels. When
+
+***At Higher Levels.*** When
 you cast this spell
 using a spell
 slot of 2nd

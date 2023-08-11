@@ -6,7 +6,7 @@ ___
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 ---
-You transform up to ten centipedes, three spiders, five wasps, or one scorpion within range into giant versions of their natural forms for the duration. A centipede becomes a [giant centipede](/Creatures/GiantCentipede.md), a spider becomes a [giant spider](/Creatures/GiantSpider.md), a wasp becomes a [giant wasp](/Creatures/GiantWasp.md), and a scorpion becomes a [giant scorpion](/Creatures/GiantScorpion.md).
+You transform up to ten centipedes, three spiders, five wasps, or one scorpion within range into giant versions of their natural forms for the duration. A centipede becomes a [giant centipede](../../Creatures/GiantCentipede.md), a spider becomes a [giant spider](../../Creatures/GiantSpider.md), a wasp becomes a [giant wasp](../../Creatures/GiantWasp.md), and a scorpion becomes a [giant scorpion](../../Creatures/GiantScorpion.md).
 
 Each creature obeys your verbal commands, and in combat, they act on your turn each round. The DM has the statistics for these creatures and resolves their actions and movement.
 

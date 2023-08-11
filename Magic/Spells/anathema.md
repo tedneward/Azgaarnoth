@@ -17,6 +17,6 @@ If you target a higher-level spellcaster than yourself with this spell, the spel
 
 The anathema  spell marks the subject as accursed to others of your faith. If they are aware that a creature is anathema, members of your faith feel instinctively that they will displease their deity if they speak to that creature, look at it, or even acknowledge its existence. Clerics, paladins, druids, and rangers of your faith automatically detect an anathema effect simply by looking at the subject.
 
-The effect is permanent until lifted, either by you or another member of your faith of higher level who can cast this spell. This spell is unaffected by [dispel magic](/Magic/Spells/dispel-magic.md) or [counterspell](/Magic/Spells/counterspell.md), and it can be neither copied nor undone by a [wish](/Magic/Spells/wish.md) spell.
+The effect is permanent until lifted, either by you or another member of your faith of higher level who can cast this spell. This spell is unaffected by [dispel magic](./dispel-magic.md) or [counterspell](./counterspell.md), and it can be neither copied nor undone by a [wish](./wish.md) spell.
 
 In campaigns featuring less traditional faiths (such as worship of whole pantheons or sub-groups of gods, gods with multiple aspects, a non-personal sacred philosophy, etc.), the DM determines the effects of this spell relative to such beliefs and explains them when you acquire this spell.

@@ -20,7 +20,7 @@ The brutal realities that the Oath of Grief hold as tenets may be painfuL but th
 You gain oath spells at the paladin levels listed
 Paladin Level | Spells
 --------------|--------
-3rd | [cause fear](/Magic/Spells/cause-fear.md), Dissonant Whispers
+3rd | [cause fear](../../Magic/Spells/cause-fear.md), Dissonant Whispers
 5th | Calm Emotions, Earthbind (XGE)
 9th | Enemies Abound (XGE), Fear
 13th | Confusion, Phantasmal Killer

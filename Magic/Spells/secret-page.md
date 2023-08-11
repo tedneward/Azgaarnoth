@@ -24,7 +24,8 @@ are unrecoverable.
 A true seeing  spell will reveal the true nature of
 the page, but it does not give its caster knowledge
 of any languages required to decipher the text.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot higher than 2nd level, you can affect one
 additional page, and the difficulty of dispelling its
 magic increases accordingly.

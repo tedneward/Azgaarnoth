@@ -16,7 +16,8 @@ Undead with fewer than 6 Hit Dice have
 disadvantage on the saving throw; undead with 10
 or more hit dice have advantage on the saving
 throw.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 8th level or higher, the hit dice
 threshold for each saving throw tier is increased by 1
 for every slot level above 7th.

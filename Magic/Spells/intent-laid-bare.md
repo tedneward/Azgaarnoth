@@ -1,5 +1,5 @@
 #### Intent Laid Bare
-*Divination cantrip (Bard,Cleric,Druid,Sorcerer,Warlock,Wizard)
+*divination cantrip* (Bard,Cleric,Druid,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 5 feet

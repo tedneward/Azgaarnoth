@@ -1,5 +1,5 @@
 #### Shillelagh
-*Transmutation cantrip (Druid)
+*Transmutation cantrip* (Druid)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Touch

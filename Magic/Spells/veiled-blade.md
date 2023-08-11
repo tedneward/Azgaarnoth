@@ -10,4 +10,4 @@ Make a ranged spell attack against one target you can see within range as you hu
 
 Also, if you have the sneak attack class feature and you hit with this spell attack, you can trigger your sneak attack off of the attack as if it were a ranged weapon attack that dealt piercing damage.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage dealt increases by 2d4 for each slot level above 3rd.
+***At Higher Levels.***When you cast this spell using a spell slot of 4th level or higher, the damage dealt increases by 2d4 for each slot level above 3rd.

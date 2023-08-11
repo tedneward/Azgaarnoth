@@ -24,7 +24,8 @@ at the start of each of the creature's turns before the
 spell ends, it must succeed on a Constitution saving
 throw or take 4d8 poison damage. On a successful
 save, the spell ends.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th level or higher, you can affect one
 additional creature who is drinking at the same
 time, and the damage increases by 1d8 for each slot

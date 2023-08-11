@@ -1,5 +1,5 @@
 #### Blood Siphon
-*Necromancy cantrip (Pale Master,Sorcerer,Warlock,Wizard)
+*Necromancy cantrip* (Pale Master,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

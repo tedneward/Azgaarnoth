@@ -17,7 +17,8 @@ In addition, an affected creature can move over
 water, but rough seas or waves higher than 1-foot
 above the surface disrupt the levitation field and
 end the spell early.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 2nd level or higher, the duration is
 extended for another 10 minutes for each slot level
 above 1st.

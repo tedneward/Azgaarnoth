@@ -1,5 +1,5 @@
 #### Steal Speed
-*Necromancy cantrip (Artificer,Sorcerer,Warlock,Wizard)
+*Necromancy cantrip* (Artificer,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -14,7 +14,8 @@ next turn. Until the start of your next turn, you add
 a number of feet to your own speed equal to the
 number of feet by which you reduced the target's
 speed.
-At Higher Levels.  This spell's damage increases
+
+***At Higher Levels.***  This spell's damage increases
 by 1d4 when you reach 5th level (2d4), 11th level
 (3d4), and 17th level (4d4). In addition, the speed
 you steal increases by 5 feet as well when you reach

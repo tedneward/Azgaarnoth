@@ -16,4 +16,4 @@ The insides of the branches have poisonous thorns. When a grappled target makes 
 
 When the grapple ends on a target, they fall if they cannot fly or climb the tree using a climbing speed. The trees last until the spell ends, even with no prisoners inside. When the spell ends, the trees disintegrate into leaves, soil and slime.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can conjure one additional tree for each slot level above 5th.
+***At Higher Levels.***When you cast this spell using a spell slot of 5th level or higher, you can conjure one additional tree for each slot level above 5th.

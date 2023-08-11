@@ -14,6 +14,7 @@ you can make a melee spell attack against a creature
 within your reach. On a hit, the creature takes cold
 damage equal to 1d10 + your spellcasting ability
 modifier.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 4th level or higher, the cold damage
 increases by 1d10 for every two slot levels above 2nd. 

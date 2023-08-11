@@ -1,5 +1,5 @@
 #### Voice of Battle
-*Enchantment cantrip (Artificer,Bard,Cleric)
+*Enchantment cantrip* (Artificer,Bard,Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** 5 ft.

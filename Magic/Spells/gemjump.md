@@ -13,6 +13,7 @@ this spell, you can be transported to the location of
 one of the gems by holding the other one in your
 hand and speaking its command word as a bonus
 action.
+
 You can transport up to six willing Medium size
 or smaller creatures with you, none of which can be
 carrying gear in excess of their carrying capacity.

@@ -1,5 +1,5 @@
 # Ranger Archetype: Monster Slayer
-Rangers of the [Slayer Conclave](/Organizations/MerchantGuilds/SlayerConclave.md) seek out vampires, evil fey, fiends, and other powerful magical threats. Trained in a variety of arcane and divine techniques to overcome such monsters, slayers are experts at unearthing and defeating mighty foes.
+Rangers of the [Slayer Conclave](../../Organizations/MerchantGuilds/SlayerConclave.md) seek out vampires, evil fey, fiends, and other powerful magical threats. Trained in a variety of arcane and divine techniques to overcome such monsters, slayers are experts at unearthing and defeating mighty foes.
 
 ## Slayer’s Mysticism
 You learn an additional spell when you reach certain levels in this class, as shown in the Slayer Spells table. The spell counts as a ranger spell for you but doesn’t count against the number of ranger spells you know.

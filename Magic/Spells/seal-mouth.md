@@ -16,7 +16,8 @@ nonsensical stories or children's nursery rhymes
 from which no relevant meaning can be discerned.
 If the creature succeeds on this Wisdom saving
 throw, the spell ends.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 4th or 5th level, the spell does not end
 until the creature has succeeded on the Wisdom
 saving throw twice. If the spell slot is 6th level or

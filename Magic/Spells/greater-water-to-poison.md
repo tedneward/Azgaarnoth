@@ -20,6 +20,7 @@ currently submerged into water you have
 transformed with this spell must make a make a
 Constitution saving throw at the beginning of any
 turn in which they are so submerged.
+
 On a failure, the creature is poisoned for the
 duration, and they take 4d8 poison damage. If the
 creature fails the saving throw by 5 or more, its
@@ -31,6 +32,7 @@ start of each of the creature's turns before the spell
 ends, it must succeed on a Constitution saving
 throw or take 3d10 poison damage. On a successful
 save, the spell ends.
+
 Creatures who do not need to save against the
 spell but who are within 5 feet of the transformed
 water can use an action to apply poison to one
@@ -46,7 +48,8 @@ creature fails the saving throw by 5 or more, its
 Constitution score is reduced by 1d4. Creatures that
 succeed on their save take half damage, but suffer
 no other effects.
-At Higher Levels. When you cast this spell
+
+***At Higher Levels.*** When you cast this spell
 using a spell slot of 6th level or higher, you can
 affect one additional creature who is drinking at the
 same time, and the damage increases by 1d8 for

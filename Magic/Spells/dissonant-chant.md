@@ -20,7 +20,8 @@ spell save DC, or lose concentration on the spell.
 In addition, any creature within the area has
 advantage on saving throws against spells that
 depend upon language, such as charm person.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 3rd level or higher, the radius of the
 effect increases by 10 feet for every slot level above
 2nd.

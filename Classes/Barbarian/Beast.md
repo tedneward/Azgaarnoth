@@ -1,5 +1,5 @@
 # Primal Path: Path of the Beast
-Barbarians who walk the Path of Beast draw their rage from a bestial spark burning within their souls. That beast howls to be released and bursts forth in the throes of rage. Such a barbarian might be inhabited by a primal spirit or be descended from shape-shifters. You can choose the origin of your feral might or determine it by rolling on the Origin of the Beast table. These barbarians are often found at the fringes of civilization, in [North Bedia](/Nations/Bedia.md); some may have emerged amongst the chaos in [Chidia](/Geography/Chidia.md) but will generally want to keep their bestial nature a little disguised.
+Barbarians who walk the Path of Beast draw their rage from a bestial spark burning within their souls. That beast howls to be released and bursts forth in the throes of rage. Such a barbarian might be inhabited by a primal spirit or be descended from shape-shifters. You can choose the origin of your feral might or determine it by rolling on the Origin of the Beast table. These barbarians are often found at the fringes of civilization, in [North Bedia](../../Nations/Bedia.md); some may have emerged amongst the chaos in [Chidia](../../Geography/Chidia.md) but will generally want to keep their bestial nature a little disguised.
 
 **Origin of the Beast**
 

@@ -10,4 +10,4 @@ You touch a willing creature. The target gains a flying speed of 120 feet for th
 
 When the spell ends, the target falls if it is still aloft, unless it can stop the fall.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature in range for each slot level above 5th.
+***At Higher Levels.***When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature in range for each slot level above 5th.

@@ -14,6 +14,7 @@ saving throw. They take 8d8 poison damage and are
 poisoned until the start of your next turn if they fail.
 If they succeed the liquid is not transformed and
 the target is unaffected.
-At Higher Levels. You may cast this spell using a
+
+***At Higher Levels.*** You may cast this spell using a
 spell slot of 6th level or higher, it adds 1d8 poison
 damage for every level above 5th.

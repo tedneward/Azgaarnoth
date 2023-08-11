@@ -14,9 +14,10 @@ When you join the College of Satire at 3rd level, you gain proficiency with thie
 
 ## Tumbling Fool
 At 3rd level, you master a variety of acrobatic techniques that allow you to evade danger. As a bonus action, you can tumble. When you tumble, you gain the following benefits for the rest of your turn:
-• You gain the benefits of taking the Dash and Disengage actions.
-• You gain a climbing speed equal to your current speed.
-• You take half damage from falling.
+
+* You gain the benefits of taking the Dash and Disengage actions.
+* You gain a climbing speed equal to your current speed.
+* You take half damage from falling.
 
 ## Fool's Insight
 At 6th level, your ability to gather stories and lore gains a supernatural edge. You can cast Detect Thoughts up to a number of times equal to your Charisma modifier. You regain any expended uses of this ability after completing a long rest.

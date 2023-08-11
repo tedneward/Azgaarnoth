@@ -14,7 +14,8 @@ damage.
 In addition, a creature struck by the orb must
 make a Constitution saving throw, or its speed is
 reduced by half until the end of its next turn.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th level or higher, the damage
 increases by 1d6 for each slot level above 4th.
 "There are other versions of this spell

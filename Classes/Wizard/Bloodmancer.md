@@ -1,5 +1,5 @@
 # Bloodmancer
-*"My blood courses with arcane power while your blood, when I begin, will simply spill from your body."*
+*"My blood courses with arcane power; your blood will simply spill from your body."*
 
 Blood mages learn to heighten their spellcraft by uniting the power of blood and arcane might. Blood is life, though wizards that travel this path of magic view the sanguine fluid flowing through their veins as a wellspring of arcane power.
 

@@ -16,6 +16,7 @@ Once you hit a creature and deal damage, the
 spell ends if the target succeeded on its saving
 throw; otherwise, the spell ends after the target's
 next turn on a failed save.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 3rd or higher level, the poison damage
 increases by 1d10 for each slot level above 2nd.

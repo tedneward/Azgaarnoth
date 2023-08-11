@@ -25,7 +25,8 @@ escape at the end of each of its turns.
 The mists can be dispersed within 4 rounds by
 moderate winds, or within 1 round by a gust of wind
 spell.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 6th level or higher, you can create an
 additional 10-foot cube of mists for each slot level
 above 5th.

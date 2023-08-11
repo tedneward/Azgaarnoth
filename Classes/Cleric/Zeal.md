@@ -1,22 +1,24 @@
 # Divine Domain: Zeal
+This is a domain granted by [the Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric),the [Kaevarian Church](../../Religions/KaevarianChurch.md), ...
 
 ## Domain Spells
-Starting at 1st level, you gain domain spells at the cleric levels listed in the Unity Domain Spells table. See the Zeal Domain class feature for how domain spells work.
+Starting at 1st level, you gain domain spells at the cleric levels listed in the Unity Domain Spells table. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
 **Zeal Domain Spells**
+
 Cleric Level |	Spells
 ------------ | -----
-1st	| Searing Smite, Thunderous Smite
-3rd	| Magic Weapon, Shatter
-5th	| Haste, Fireball
-7th	| Fire Shield (warm shield only), Freedom of Movement
-9th	| Destructive Wave, Flame Strike
+1st	| [Searing Smite](../../Magic/Spells/searing-smite.md), [Thunderous Smite](../../Magic/Spells/thunderous-smite.md)
+3rd	| [Magic Weapon](../../Magic/Spells/magic-weapon.md), [Zeal](../../Magic/Spells/zeal.md)
+5th	| [Haste](../../Magic/Spells/haste.md), [Fireball](../../Magic/Spells/fireball.md)
+7th	| [Fire Shield](../../Magic/Spells/fire-shield.md) (warm shield only), [Freedom of Movement](../../Magic/Spells/freedom-of-movement.md)
+9th	| [Destructive Wave](../../Magic/Spells/destructive-wave.md), [Flame Strike](../../Magic/Spells/flame-strike.md)
 
 ## Bonus Proficiencies
 At 1st level, you gain proficiency with martial weapons and heavy armor.
 
 ## Priest of Zeal
-From 1st level, Hazoret delivers bolts of inspiration to you while you are engaged in battle. When you use the Attack action, you can make one weapon attack as a bonus action.
+From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the Attack action, you can make one weapon attack as a bonus action.
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 

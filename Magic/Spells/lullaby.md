@@ -1,5 +1,5 @@
 #### Lullaby
-*Enchantment cantrip (Bard)
+*Enchantment cantrip* (Bard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

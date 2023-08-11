@@ -1,5 +1,5 @@
 #### Fortifying Cry
-*Enchantment cantrip (Artificer,Bard,Cleric)
+*Enchantment cantrip* (Artificer,Bard,Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self
@@ -16,6 +16,7 @@ the end of your next turn. You do not gain these
 temporary hit points if you have gained temporary
 hit points from casting this spell within the past
 minute.
+
 When you cast this spell, you may also choose a
 creature within 5 feet of you and force it to roll a
 Wisdom saving throw. If it fails, it takes 1d4 psychic

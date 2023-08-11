@@ -15,7 +15,8 @@ movement equal to 5 × your spellcasting ability
 modifier. At the end of the turn in which you cast
 this spell, you float gently to the ground if you are
 still aloft.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 2nd level or higher, you can rise an
 additional 20 feet, and move horizontally by
 another 5 feet, for each slot level above 1st.

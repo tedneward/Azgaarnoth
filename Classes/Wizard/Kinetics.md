@@ -21,14 +21,14 @@ Finally, you can cast [misty step](https://www.dndbeyond.com/spells/misty-step) 
 # Kinetic Spells
 
 ## Cantrips
-* [fleet foot](/Magic/Spells/fleet-foot.md)
+* [fleet foot](../../Magic/Spells/fleet-foot.md)
 
 ## 2nd-level
-* [elastic tether](/Magic/Spells/elastic-tether.md)
+* [elastic tether](../../Magic/Spells/elastic-tether.md)
 
 ## 3rd-lvel
-* [portal sense](/Magic/Spells/portal-sense.md)
+* [portal sense](../../Magic/Spells/portal-sense.md)
 
 ## 8th-level
-* [reverse teleportation](/Magic/Spells/reverse-teleportation.md)
+* [reverse teleportation](../../Magic/Spells/reverse-teleportation.md)
 

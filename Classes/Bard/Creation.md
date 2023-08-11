@@ -5,7 +5,7 @@ Members of this college might have developed their powers during experiences on 
 
 Dwarves and gnomes often encourage their bards to become students of the Song of Creation. And among dragonborn, the Song of Creation is revered, for legends portray Bahamut and Tiamat-the greatest of dragons-as two of the song's first singers.
 
-This college is quite popular among the [Al'Uma](/Religions/Al'Uma.md), though of course the bards are singing of the [Eldar](/Races/Eldar.md) when they speak of the power of creation. Universities offering this College can be found in many Al'Uman cities, and in a few outside of Al'Uma as well.
+This college is quite popular among the [Al'Uma](../../Religions/Al'Uma.md), though of course the bards are singing of the Eldar when they speak of the power of creation. Universities offering this College can be found in many Al'Uman cities, and in a few outside of Al'Uma as well.
 
 ## Mote of Potential
 *3rd-level College of Creation feature*
@@ -32,7 +32,7 @@ The size of the item you can create with this feature increases by one size cate
 ## Animating Performance
 *6th-level College of Creation feature*
 
-As an action, you can target a Large or smaller nonmagical item you can see within 30 feet of you and animate it. The animate item uses the [Dancing Item](/Creatures/DancingItem.md) stat block, which uses your proficiency bonus (PB). The item is friendly to you and your companions and obeys your commands. It lives for 1 hour, until it is reduced to 0 hit points, or until you die.
+As an action, you can target a Large or smaller nonmagical item you can see within 30 feet of you and animate it. The animate item uses the [Dancing Item](../../Creatures/DancingItem.md) stat block, which uses your proficiency bonus (PB). The item is friendly to you and your companions and obeys your commands. It lives for 1 hour, until it is reduced to 0 hit points, or until you die.
 
 In combat, the item shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the item can take any action of its choice, not just Dodge.
 

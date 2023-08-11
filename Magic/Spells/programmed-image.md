@@ -19,6 +19,7 @@ where you cast the spell and lasts for 10 minutes,
 after which time the spell ends. You can pre-
 program the image to move around once activated,
 in a similar manner to silent image.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 an 8th level spell slot you can add sound to the
 image.

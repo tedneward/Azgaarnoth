@@ -4,6 +4,7 @@ Monks who follow the Way of the Ascendant Dragon revere the power and grandeur o
 As a follower of this Monastic Tradition, you decide how you unlocked the power of dragons through your ki. The Ascendant Dragon Origin table offers some possibilities.
 
 **Ascendant Dragon Origin**
+
 d6|Origin
 --|------
 1 |You found that you are the ancient offspring of a dragonmarked individual of power, and that discovery connected you to the draconic power flowing within you.
@@ -15,12 +16,13 @@ d6|Origin
 
 This monastic tradition is different from the [Way of the Dragon](Dragon.md), in that this tradition is one which studies dragonkind as a whole, rather than a particular species (within the chromatic or metallic spectrum). The Ascendant Dragons believe their style provides greater versatility, and thus, superior skill.
 
-This Tradition is mostly closely aligned with the [Knights of the Draconic Order](/Organizations/DraconicOrder/DraconicOrder.md), but they are not subservient in any way; an Ascendant Dragon monk will often find common cause with the Draconic Order (given a monk's generally lawful background), but Ascendant Dragon monks have been known to ally with the [Cult of the Wyrm](/Organizations/CultOfTheWyrm.md) instead, usually when the Wyrmcult offers opportunities of access to the dragon leading the cell.
+This Tradition is mostly closely aligned with the [Knights of the Draconic Order](../../Organizations/MilitantOrders/DraconicOrder), but they are not subservient in any way; an Ascendant Dragon monk will often find common cause with the Draconic Order (given a monk's generally lawful background), but Ascendant Dragon monks have been known to ally with the [Cult of the Wyrm](../../Organizations/CultOfTheWyrm.md) instead, usually when the Wyrmcult offers opportunities of access to the dragon leading the cell.
 
 ## Draconic Disciple
 *3rd-level Way of the Ascendant Dragon feature*
 
 You can channel your draconic ki to imbue your unarmed strikes with the essence of a dragon’s breath and to use your connection with draconic creatures to magnify your presence. You gain the following benefits:
+
 * When you damage a target with an unarmed strike, you can change the damage type to acid, cold, fire, lightning, or poison.
 * If you can’t already, you learn to speak, read, and write Draconic.
 * If you fail a Charisma (Intimidation) or Charisma (Persuasion) check, you can use your reaction to reroll the check, as you tap into the mighty presence of dragons. Once this feature turns a failure into a success, you can’t use it again until you finish a long rest.

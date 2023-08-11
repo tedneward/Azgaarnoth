@@ -10,11 +10,13 @@ You teleport yourself up to 30 feet to an unoccupied
 space that you can see. You can bring along objects
 as long as their weight doesn't exceed what you can
 carry.
+
 If you wish, you can also take one creature with
 you when you cast this spell, provided that creature
 is within 5 feet of you, it is Medium or smaller, and
 it is not carrying gear in excess of its carrying
 capacity.
+
 When you take a creature with you, each of you
 is teleported to an unoccupied space of your choice
 within 30 feet. Your new space and that of the
@@ -28,6 +30,7 @@ a success, it is not teleported. A creature has
 advantage on this saving throw if it can see you,
 unless you are in combat with it and it has not yet
 taken a turn.
+
 When you use this spell to teleport another
 creature, a loud popping sound emanates from that
 creature's location when you first cast the spell,

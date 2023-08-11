@@ -17,7 +17,8 @@ feet as rays of darkfire shoot
 from your eyes. On a hit, the
 creature takes 3d10 necrotic
 damage.
-At Higher Levels. When
+
+***At Higher Levels.*** When
 you cast this spell using a
 spell slot of 3rd level or
 higher, the necrotic

@@ -12,7 +12,7 @@ On a miss, the target takes half damage and it isn't stunned, pushed, or knocked
 
 If the target is an object, it automatically fails any saving throws for this spell This spell ignites flammable objects that aren't being worn or carried
 
-**At Higher Levels.** When you cast this spell using a spell slot of 9th level the fire and force damage dealt both increase by 2d8.
+***At Higher Levels.***When you cast this spell using a spell slot of 9th level the fire and force damage dealt both increase by 2d8.
 
 ## Spell Variants: (not sure if I want them in here or not)
 ASTRAL FLARE

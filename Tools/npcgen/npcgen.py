@@ -8,6 +8,24 @@ import random
 
 # This script parses class options in directories and applies them
 # (imperatively/script-like) to the creation of NPCs.
+# I think I want to rewrite this to take advantage of two
+# ideas:
+# 1) Literate Python programming. Put the Python modules into
+# the Markdown descriptions so as to keep text and code together.
+# This also means the modules are coming out of /Races, /Classes, etc.
+# 2) Include Backgrounds as part of NPC generation.
+# 3) Include name suggestions.
+# 4) Include suggested personality traits (quirks, etc) from tables.
+# 5) Have "scripts" be lambdas/functions that are executed all
+# at once rather than level-at-a-time; this will make it easier
+# to include specific modifier text correctly (such as the ability
+# gained at level 1 that uses the NPC's proficiency bonus, which could
+# easily be higher because of later levels).
+# 6) Assume links will be to a MkDocs-generated website rather
+# than to GitHub directly.
+# 7) Magic items! NPCs get goodies, too, you know....
+# 8) Spell lists
+# 9) Feats
 
 def spelllinkify(name):
     return "["+ name+"](https://github.com/tedneward/Azgaarnoth/tree/master/Magic/Spells/"+ name.replace(' ', '-') + ".md)"
@@ -421,9 +439,6 @@ def abilityscoreimprovement(npc):
         else:
             return scriptedin
 
-    ability = interactive() if len(scriptedinput) == 0 else scripted()
-    newvalue = int(getattr(npc, ability)) + 1
-    setattr(npc, ability, newvalue)
     ability = interactive() if len(scriptedinput) == 0 else scripted()
     newvalue = int(getattr(npc, ability)) + 1
     setattr(npc, ability, newvalue)

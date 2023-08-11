@@ -17,17 +17,19 @@ Beginning at 10th level, you can call upon the wind to help aid you in your trav
 ## Wings of Air
 At 14th level, you gain the ability to sprout a pair of wings that look as if they are made of swirling clouds and feathers. As a bonus action, you can cause the wings to sprout from your back, giving you a flying speed of 40 feet. The wings last for 1 hour or until you use your bonus action to dismiss them. You can use this feature twice, regaining expended uses of this ability after completing a long rest.
 
+---
+
 # Aeromancy Spells
 
 ## 3rd-level
-* [breath of life](/Magic/Spells/breath-of-life.md)
+* [breath of life](../../Magic/Spells/breath-of-life.md)
 
 ## 4th-level
-* [air lift](/Magic/Spells/air-lift.md)
+* [air lift](../../Magic/Spells/air-lift.md)
 
 ## 5th-level
-* [remove oxygen](/Magic/Spells/remove-oxygen.md)
+* [remove oxygen](../../Magic/Spells/remove-oxygen.md)
 
 ## 6th-level
-* [ensnaring draft](/Magic/Spells/ensnaring-draft.md)
+* [ensnaring draft](../../Magic/Spells/ensnaring-draft.md)
 

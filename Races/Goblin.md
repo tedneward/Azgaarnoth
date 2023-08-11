@@ -1,6 +1,4 @@
-# Race: Goblin
-
-
+# Goblin
 
 * **Ability Score Increase.** Your Dexterity score increases by 2, and your Constitution score increases by 1.
 

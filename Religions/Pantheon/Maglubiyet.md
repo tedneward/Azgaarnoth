@@ -5,9 +5,14 @@ Maglubiyet's divine realm is Clangor, located in Avalas, the first layer of the 
 
 From his throne of flaming iron, Maglubiyet commands the souls of goblins, hobgoblins, and worgs to wage eternal war against the orcish petitioners of [Gruumsh](Gruumsh.md). He also employed baatezu to bolster his armies.
 
-Maglubiyet allowed the gods Khurgorbaeyag and Nomog-Geaya to live in his realm, if only just to keep an eye on them.[20]
+Maglubiyet allowed the gods Khurgorbaeyag and Nomog-Geaya to live in his realm, if only just to keep an eye on them.
 
-## Worshippers
+## Clerical details
+Domains: 
+
+Weapon: 
+
+## Worshipers, Clergy & Temples
 The priests and shamans of Maglubiyet were his mouthpieces on the Material Plane. They fulfilled his demands for blood sacrifices by dispatching victims with an axe. They believed that these sacrifices strengthened Maglubiyet. His clergy was almost always drawn from the goblin and hobgoblin races. The tasloi also worshiped an aspect of Maglubiyet.
 
 Maglubiyet communed with his priests through omens. Blood flowing from the edge of an axe, abnormal behavior in worgs and wolves, and speaking directly through shamans in a trance were all ways he made his will known.
@@ -17,3 +22,19 @@ Maglubiyet's holy day is the new moon and his holy weapon is the battleaxe. His 
 Maglubiyet is served by Khurgorbaeyag, goblin god of slavery, oppression, and morale, and Bargrivyek, the god of co-operation and territory among the goblins. Nomog-Geaya, said to be the mother diety of hobgoblins, serves as his consort and pays fealty to Maglubiyet, despite potentially being even stronger than he.
 
 Maglubiyet is an unpopular deity across the Pantheon.
+
+## Vestments
+
+## Hierarchy
+
+## Temples
+
+## Rituals
+
+## Festivals
+
+## Orders
+
+## Dogma
+
+## Appearance, Manifestations

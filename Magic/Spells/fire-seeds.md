@@ -15,6 +15,7 @@ the acorns on your turn; make a ranged spell attack
 against a target of your choice within 100 feet; on a
 hit, the acorn explodes and deals 4d6 fire damage to
 the target.
+
 If you choose to imbue the holly berries with this
 spell's magic, they can't be thrown effectively, so
 they are usually placed in specific locations and
@@ -26,7 +27,8 @@ foot radius. A creature caught in the blast
 radius must make a Dexterity saving throw.
 On a successful save, the creature takes half the
 fire damage.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 7th level or higher, you can create one
 additional acorn or two additional holly berries for
 each slot level above 6th.

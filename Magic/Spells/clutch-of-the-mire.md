@@ -17,6 +17,7 @@ opening up a shallow bog which hinders movement.
 A 15-foot cube that includes the space occupied by
 the target of your attack becomes difficult terrain
 until the end of your next turn.
+
 Whenever a creature ends its turn within difficult
 terrain created by this spell, it must make a
 Strength saving throw. Creatures wearing medium

@@ -1,4 +1,4 @@
-# Dradow ([Bedia](/Nations/Bedia.md))
+# Dradow ([Bedia](../Nations/Bedia.md))
 **Population:** 
 
 **Features:** 

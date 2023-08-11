@@ -24,7 +24,8 @@ miss, until the spell ends, the weapon gains a +1
 bonus to its attack and damage rolls, unless it is a
 magic weapon that already has a bonus to those
 rolls.
-At Higher Levels.  When you use a spell slot of
+
+***At Higher Levels.***  When you use a spell slot of
 5th or 6th level to cast this spell, the weapon's
 magical bonus increases to +2. When you cast it
 with a spell slot of 7th level or higher, the bonus is

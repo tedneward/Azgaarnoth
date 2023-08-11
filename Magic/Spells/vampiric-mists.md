@@ -23,6 +23,7 @@ spell once a round.
 The mists moves 10 feet away from you at the
 start of your turn. The vapors are heavier than air
 and sink to lowest level of the land.
-At Higher Levels. You can cast this spell using a
+
+***At Higher Levels.*** You can cast this spell using a
 spell slot of 7th level or higher, the damage
 increases by 1d8 for each spell level above 6th.

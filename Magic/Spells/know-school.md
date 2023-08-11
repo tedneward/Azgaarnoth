@@ -1,5 +1,5 @@
 #### Know School
-*Divination cantrip (Artificer,Wizard)
+*Divination cantrip* (Artificer,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

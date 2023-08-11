@@ -1,5 +1,5 @@
 #### Thieves' Ruse
-*Illusion cantrip (Bard,Wizard)
+*Illusion cantrip* (Bard,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

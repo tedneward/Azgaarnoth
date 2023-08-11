@@ -16,6 +16,7 @@ frightened of you until the end of your next turn. A
 creature must also make the save when it starts its
 turn within the sphere. A construct or an undead is
 immune to this effect.
+
 As a bonus action on each of your turns until the
 spell ends, you can either move the sphere up to 15
 feet or push a creature within the sphere's area up

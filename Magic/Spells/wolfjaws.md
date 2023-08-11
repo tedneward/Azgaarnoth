@@ -14,6 +14,7 @@ the creature takes 2d6 piercing damage. If you have
 the Extra Attack feature or another ability that
 allows you to make extra attacks, you can make
 multiple attacks using the wolf jaws.
+
 You can choose to end the transformation using a
 bonus action, and when doing so, you can choose to
 eliminate the damage inflicted from the last attack

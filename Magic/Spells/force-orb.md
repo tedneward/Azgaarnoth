@@ -13,6 +13,7 @@ but no two targets can be more than 30 feet apart.
 Make a ranged spell attack for each orb. On a hit,
 the target takes 2d8 force damage. On a miss, the
 target takes 2 force damage.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th level or higher, the spell creates
 one more orb for each slot level above 4th.

@@ -24,7 +24,8 @@ damage.
 While it is charmed by you, the creature will not
 attack you or seek to harm you, but otherwise it is
 not forced to obey your commands.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th level or higher, the necrotic
 damage inflicted increases by 1d6 for each slot level
 above 4th.

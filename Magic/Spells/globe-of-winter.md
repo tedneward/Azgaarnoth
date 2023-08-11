@@ -10,4 +10,4 @@ A fierce blizzard suddenly rages in a 30-foot radius sphere centered on you befo
 
 A creature with reduced speed because of this spell recovers up to 10 feet of its missing speed at the end of each of its turns, but not when it is also restrained by this spell. As you cast the spell the ground in the area freezes, becoming difficult terrain for 10 minutes. This difficult terrain thaws instantly where there is fire or intense heat.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the cold damage dealt increases by 2d8 for each slot level above 7th.
+***At Higher Levels.***When you cast this spell using a spell slot of 8th level or higher, the cold damage dealt increases by 2d8 for each slot level above 7th.

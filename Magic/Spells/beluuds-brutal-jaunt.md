@@ -10,4 +10,4 @@ You leap through space in a blur, smashing into an enemy as you pass between rea
 
 On a failed saving throw, the target takes 3d10 force damage and is knocked prone. On a successful saving throw, the target takes half damage and is not knocked prone.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the maximum number of creatures you can target increases by one for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the maximum number of creatures you can target increases by one for each slot level above 2nd.

@@ -16,6 +16,7 @@ writing within 120 feet that are not behind total
 cover glow with white light. The glyph of revealing
 can be moved safely for the duration without
 ending the spell.
+
 This spell reveals magical glyphs and symbols but
 doesn't prevent them from being triggered if
 conditions are met.

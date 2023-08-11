@@ -22,6 +22,7 @@ more than 60 feet away from the duplicate, the spell
 ends. The duplicate mimics your actions to a
 degree, but no matter where you are, it seeks to
 remain close to the target.
+
 If the target ends its turn more than 5 feet away
 from the duplicate, the duplicate moves up to 60
 feet to an unoccupied space within 5 feet of the
@@ -55,6 +56,7 @@ die, the attack
 targets the
 duplicate instead
 of you.
+
 The duplicate's
 AC equals your spellcasting DC. If an attack hits a duplicate, the
 duplicate is destroyed. A duplicate can be destroyed

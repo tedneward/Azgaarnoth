@@ -1,4 +1,4 @@
-# Mis ([Bagonbia](/Nations/Bagonbia.md))
+# Mis ([Bagonbia](../Nations/Bagonbia.md))
 **Population:** 
 
 **Features:** 

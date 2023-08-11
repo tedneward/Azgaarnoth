@@ -1,5 +1,5 @@
 #### Corruption
-*necromancy cantrip (Pale Master,Warlock,Wizard)
+*necromancy cantrip* (Pale Master,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

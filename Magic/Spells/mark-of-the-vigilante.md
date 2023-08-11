@@ -38,7 +38,8 @@ and it automatically succeeds if it is a construct or
 undead. On a failure, a creature takes 1d6 psychic
 damage and becomes frightened of you until the
 end of your next turn.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 3rd or 4th level, you can concentrate
 on the spell for up to 8 hours. With a slot that's 5th
 level or higher, you can concentrate for up to 24

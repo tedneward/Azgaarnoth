@@ -1,5 +1,5 @@
 #### Arcane Sensitivity
-*Divination cantrip (Sorcerer,Wizard)
+*Divination cantrip* (Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

@@ -1,4 +1,4 @@
-# Owen [Teskerwill](/Organizations/Houses/Teskerwill.md)
+# Owen [Teskerwill](../Organizations/Houses/Teskerwill.md)
 *Human male Commoner, NG*
 
 ## Description

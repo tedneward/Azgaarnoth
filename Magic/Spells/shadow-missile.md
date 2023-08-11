@@ -24,6 +24,7 @@ one or more levels of exhaustion gains a new level
 of exhaustion from this spell, it becomes immune to
 gaining further levels of exhaustion from this spell
 for 24 hours.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a 2nd level or higher spell slot, the necrotic damage
 increases by ld8 for each slot level above 2nd.

@@ -30,7 +30,8 @@ this way, you can only perceive the area as it was
 when you cast this spell, and this spell grants no
 awareness of any ways in which the area might have
 changed since then.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 4th or 5th level, you can concentrate
 on the spell for up to 8 hours. With a slot that's 6th
 level or higher, you can concentrate for up to 24

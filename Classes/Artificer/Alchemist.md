@@ -12,13 +12,14 @@ By the time you adopt this specialty at 3rd level, you’re deeply familiar with
 Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don’t count against the number of artificer spells you prepare.
 
 **Alchemist Spells**
+
 Artificer Level | Spell
 --------------- | -----
-3rd | [purify food and drink](https://www.dndbeyond.com/spells/purify-food-and-drink), [ray of sickness](https://www.dndbeyond.com/spells/ray-of-sickness)
-5th | [Melf’s acid arrow](https://www.dndbeyond.com/spells/melfs-acid-arrow), [web](https://www.dndbeyond.com/spells/web)
-9th | [create food and water](https://www.dndbeyond.com/spells/create-food-and-water), [stinking cloud](https://www.dndbeyond.com/spells/stinking-cloud)
-13th | [blight](https://www.dndbeyond.com/spells/blight), [death ward](https://www.dndbeyond.com/spells/death-ward)
-17th | [cloudkill](https://www.dndbeyond.com/spells/cloudkill), [raise dead](https://www.dndbeyond.com/spells/raise-dead)
+3rd | [purify food and drink](../../Magic/Spells/purify-food-and-drink.md), [ray of sickness](../../Magic/Spells/ray-of-sickness.md)
+5th | [Melf’s acid arrow](../../Magic/Spells/melfs-acid-arrow.md), [web](../../Magic/Spells/web.md)
+9th | [create food and water](../../Magic/Spells/create-food-and-water.md), [stinking cloud](../../Magic/Spells/stinking-cloud.md)
+13th | [blight](../../Magic/Spells/blight.md), [death ward](../../Magic/Spells/death-ward.md)
+17th | [cloudkill](../../Magic/Spells/cloudkill.md), [raise dead](../../Magic/Spells/raise-dead.md)
 
 ## Alchemical Homunculus
 At 3rd level, you learn ancient methods for magically creating a special homunculus that is formed by alchemical substances.

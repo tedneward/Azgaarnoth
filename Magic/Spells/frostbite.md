@@ -1,5 +1,5 @@
 #### Frostbite
-*Evocation cantrip (Artificer,Druid,Sorcerer,Warlock,Wizard)
+*Evocation cantrip* (Artificer,Druid,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

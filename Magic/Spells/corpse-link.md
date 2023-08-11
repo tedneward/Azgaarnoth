@@ -16,7 +16,8 @@ special senses the corpse possessed in life.
 While you use the senses of the corpse, your own
 equivalent sensory organ is occupied. You can end
 the spell at any time.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 2nd level or higher, the range
 increases by 100 feet and the duration increases by
 10 minutes for each slot level above 1st.

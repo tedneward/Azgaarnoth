@@ -3,7 +3,7 @@ You’ve had a soul-shaking realization: you’ve been dead before, yet somehow 
 
 Revived are often mistaken for [Phantoms](Phantoms.md), and vice versa.
 
-The Revived are often found in [Dradehalia](/Nations/Dradehalia.md); whether this is because that nation has been through so much conflict and war that they're more common to revive, or something darker to do with the [Dread Emperor](/People/DreadEmporer.md)'s willingness to explore dark activities is not clear.
+The Revived are often found in [Dradehalia](../../Nations/Dradehalia.md); whether this is because that nation has been through so much conflict and war that they're more common to revive, or something darker to do with the [Dread Emperor](/People/DreadEmporer.md)'s willingness to explore dark activities is not clear.
 
 ## Tokens of Past Lives
 At 3rd level, you remember talents you had in your previous life. When you finish a long rest, you gain one skill or tool proficiency of your choice. You can replace this proficiency with another when you finish a long rest.

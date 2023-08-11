@@ -23,7 +23,8 @@ throws to maintain concentration on spells. An
 affected creature can make a new saving throw at
 the end of each of its turns, ending the spell's effect
 on it with a success.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 5th level or higher, the cube's size
 increases by 10 feet for every two slot levels above
 3rd.

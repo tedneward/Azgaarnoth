@@ -1,5 +1,5 @@
 #### Song of the Dead
-*Necromancy cantrip (Bard,Pale Master)
+*Necromancy cantrip* (Bard,Pale Master)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

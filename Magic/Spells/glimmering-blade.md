@@ -1,5 +1,5 @@
 #### Glimmering Blade
-*Conjuration cantrip (Artificer,Druid,Sorcerer,Warlock,Wizard)
+*Conjuration cantrip* (Artificer,Druid,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 10 feet
@@ -15,6 +15,7 @@ unoccupied space of your choice within 10 feet of
 you. If you teleport to a space within 5 feet of the
 target, the target cannot take reactions until the
 end of your next turn.
+
 The damage of attacks you make with this spell
 increases when you reach higher levels. At 5th level,
 the melee attack deals an extra 1d6 radiant damage

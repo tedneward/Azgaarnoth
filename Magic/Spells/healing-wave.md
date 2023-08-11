@@ -10,4 +10,4 @@ You swirl with restorative energy that washes over you and nearby allies in wave
 
 This spell has no effect on undead or constructs.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the healing increases by 1 (both waves) for each slot level above 3rd.
+***At Higher Levels.***When you cast this spell using a spell slot of 4th level or higher, the healing increases by 1 (both waves) for each slot level above 3rd.

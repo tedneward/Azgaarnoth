@@ -18,7 +18,8 @@ you cast the spell. On each successive turn, you can
 use an action to fire any remaining motes. If a turn
 passes without firing any motes, the spell ends, and
 all remaining motes vanish.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 6th level or higher, the amount of
 lightning damage increases by 1d6 for each slot level
 above 5th.

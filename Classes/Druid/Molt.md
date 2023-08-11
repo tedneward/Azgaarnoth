@@ -33,6 +33,7 @@ In addition, you can cast polymorph with the range reduced to Touch, without exp
 
 At 14th levei as you embrace the spirits of your circle, the magic of change grants you the ability to enter a state of perpetual metamorphosis. You can use a bonus action to transform using the rules for your wild shape, but without expending a wild shape usage, causing you to enter this state for 10 minutes. While in this state,
 you gain the following benefits:
+
 * At the start of each of your turns, you can choose to transform into a different creature using your wild shape rules (even if you are not in your natural form) or back to your natural form, at no cost.
 * You have advantage on ability checks and saving throws made to avoid or escape being grappled.
 

@@ -12,6 +12,7 @@ failed save, or half as much damage on a successful
 one. In addition, its hit point maximum is reduced
 by the amount of damage it takes. After a long rest,
 the target's hit point maximum returns to normal.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a 5th level or higher spell slot, the damage increases
 by 1d8 for each slot level above 4th.

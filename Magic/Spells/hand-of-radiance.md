@@ -1,5 +1,5 @@
 #### Hand of Radiance
-*Evocation cantrip (Cleric)
+*Evocation cantrip* (Cleric)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (5-foot radius)

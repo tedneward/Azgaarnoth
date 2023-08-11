@@ -20,4 +20,4 @@ The interior of the tower is warm and dry, regardless of conditions outside. Any
 
 You can cast this spell again while it is active to maintain the tower’s existence for another 24 hours. You can create a permanent tower by casting this spell in the same location and with the same configuration every day for one year.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the tower can have one additional story for each slot level beyond 3rd.
+***At Higher Levels.***When you cast this spell using a spell slot of 4th level or higher, the tower can have one additional story for each slot level beyond 3rd.

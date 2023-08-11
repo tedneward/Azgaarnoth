@@ -1,5 +1,5 @@
 #### Brace
-*abjuration cantrip (Bard,Cleric)
+*abjuration cantrip* (Bard,Cleric)
 ___
 - **Casting Time:** 1 reaction
 - **Range:** Self

@@ -1,5 +1,5 @@
 #### Far Hearing
-*Divination cantrip (Bard,Druid,Sorcerer,Warlock,Wizard)
+*Divination cantrip* (Bard,Druid,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 60 feet

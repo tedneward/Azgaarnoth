@@ -14,7 +14,8 @@ saving throw. On a failed save, the creature takes
 creature takes half as much damage.
 An undead creature that starts its turn within 10
 feet of you gains 1d10 hit points.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 6th level or higher, the necrotic
 damage dealt to living creatures or the amount of
 hit points healed for undead creatures increases by

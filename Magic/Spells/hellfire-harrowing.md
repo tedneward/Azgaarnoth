@@ -12,6 +12,7 @@ make a Dexterity saving throw. It takes 10d6 fire
 damage on failed save, and half as much on a
 success. This damage treats immunity to fire
 damage as resistance and ignores resistance.
-At Higher Levels. You can cast this spell using a
+
+***At Higher Levels.*** You can cast this spell using a
 5th level or higher spell slot, and you inflict plus 1d6
 damage per spell level above 4th.

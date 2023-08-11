@@ -40,6 +40,7 @@ particular symbol or weapon (such as the black
 hand of Bane or the flaming sword of Tempus)
 usually conjure a dreadful warrior bearing that
 symbol or weapon.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 4th level of or higher, the damage
 increases by 1d10 for every two slot levels above 3rd. 

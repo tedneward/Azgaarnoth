@@ -22,7 +22,8 @@ the initiative roll and on attack rolls until the end of
 their next turn.
 Creatures that don't rely on eyesight are immune
 to this spell.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 3rd level or higher, the radius of the
 effect increases by 5 feet for every slot level above
 2nd.

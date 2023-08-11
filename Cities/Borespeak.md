@@ -1,4 +1,4 @@
-# Borespeak ([Dradehalia](/Nations/Dradehalia.md))
+# Borespeak ([Dradehalia](../Nations/Dradehalia.md))
 **Population:** 
 
 **Features:** 

@@ -26,7 +26,8 @@ on a failed save, or half as much damage on a
 successful one (rounding up).
 You can move through or remain within your
 own whirl of fangs  without taking damage.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 7th level of higher, both types of
 damage increase by 1d6 for each slot level above the
 6th.

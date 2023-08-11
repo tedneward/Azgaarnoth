@@ -11,4 +11,4 @@ You release a blast of chaotic magic that washes out from you in a 60-foot cone.
 * **Round 2.** Targets must make a Strength saving throw. On a failure, a target takes 4d6 lightning damage and 3d6 thunder damage and is knocked prone. On a success, a target takes half damage and isn't knocked prone.
 * **Round 3.** Targets must make a Dexterity saving throw. On a failure, a target takes 7 d6 fire damage and is lit ablaze.  Until someone takes an action to douse the fire, the target takes 1d10 fire damage at the start of each of its turns. On a success, a target takes half damage and is not lit ablaze.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the fire, cold, and lightning damage dealt all increase by ld6 for each slot level above 7th.
+***At Higher Levels.***When you cast this spell using a spell slot of 8th level or higher, the fire, cold, and lightning damage dealt all increase by ld6 for each slot level above 7th.

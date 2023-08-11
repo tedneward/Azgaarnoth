@@ -19,6 +19,7 @@ creature affected by this spell makes another
 Wisdom saving throw at the end of its turn. On a
 successful save, the effect ends for it.
 This spell has no effect on undead and constructs.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 3rd level or higher, the damage
 increases by 1d4 for each slot level above 2nd.

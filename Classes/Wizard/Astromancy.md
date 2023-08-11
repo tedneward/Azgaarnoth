@@ -16,21 +16,23 @@ Starting at 10th level, as a bonus action, you can expend a spell slot to manife
 ## Master of Gravity
 At 14th level, you’ve mastered manipulating the gravity of the planet itself. You know the reverse gravity spell and copy it into your spellbook. You can cast it once per long rest without expending a spell slot. Additionally, while the spell is active, you gain a fly speed equal to your movement speed.
 
+---
+
 # Astromancer Unique Spells
 
 ## Cantrips
-* [Melf's most minute meteor](/Magic/Spells/melfs-most-minute-meteor.md)
+* [Melf's most minute meteor](../../Magic/Spells/melfs-most-minute-meteor.md)
 
 ## 2nd
-* [gravity ward](/Magic/Spells/gravity-ward.md) (ritual)
+* [gravity ward](../../Magic/Spells/gravity-ward.md) (ritual)
 
 ## 3rd
-* [remove gravity](/Magic/Spells/remove-gravity.md)
+* [remove gravity](../../Magic/Spells/remove-gravity.md)
 
 ## 5th
-* [pulsar shield](/Magic/Spells/pulsar-shield.md)
+* [pulsar shield](../../Magic/Spells/pulsar-shield.md)
 
 ## 9th
-* [singularity](/Magic/Spells/singularity.md)
+* [singularity](../../Magic/Spells/singularity.md)
 
 *Source: Blackstaff's Tome of Wizardry*

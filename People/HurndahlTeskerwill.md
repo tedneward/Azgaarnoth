@@ -1,4 +1,4 @@
-# Hurndahl [Teskerwill](/Organizations/Houses/Teskerwill.md)
+# Hurndahl [Teskerwill](../Organizations/Houses/Teskerwill.md)
 *Human male Fighter 2*
 
 ## Description

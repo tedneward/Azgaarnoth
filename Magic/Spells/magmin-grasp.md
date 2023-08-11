@@ -25,6 +25,7 @@ success, the target is freed.
 When a target begins its turn restrained by this
 spell, all flammable objects in its space that aren't
 being worn or carried are ignited.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 2nd level or higher, you can choose an
 additional target for each slot level above 1st.

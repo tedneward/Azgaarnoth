@@ -3,7 +3,7 @@ An ancient lineage, the Circle of Stars allows druids to draw on the power of st
 
 Many druids of this circle keep detailed records of the stars and their effects on the world. Some groups document these observations at megalithic sites, which serve as enigmatic libraries of lore. These repositories might take the form of stone circles, pyramids, petroglyphs, and underground temples--any construction durable enough to protect the circle's sacred knowledge even against a great cataclysm.
 
-These druids believe they are following in the footsteps of the study of the [Eldar](/Races/Eldar.md), and claim to be a long tradition dating back to the days before the Fall.
+These druids believe they are following in the footsteps of the study of the Eldar, and claim to be a long tradition dating back to the days before the Fall.
 
 ## Star Map
 *2nd-level Circle of the Stars feature*
@@ -18,6 +18,7 @@ While holding this map, you have these benefits:
 If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a short or Jong rest, and it destroys the previous map.
 
 **Star Map**
+
 d6|Map Form
 --|--------
 1 | A scroll covered with depictions of constel lations
@@ -44,6 +45,7 @@ Whenever you assume your starry form, choose which of the following constellatio
 *6th-level Circle of the Stars feature*
 
 Whenever you finish a long rest, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next long rest, you gain access to a special reaction based on whether you rolled an even or an odd number on the die:
+
 * **Weal (even).** Whenever a creature you can see within 30 feet of you is about to make an attack roll, a saving throw, or an ability check, you can use your reaction to roll a d6 and add the number rolled to the total.
 * **Woe (odd).** Whenever a creature you can see within 30 feet of you is about to make an attack roll, a saving throw, or an ability check, you can use your reaction to roll a d6 and subtract the number rolled from the total.
 

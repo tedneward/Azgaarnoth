@@ -10,4 +10,4 @@ You thin, agitate, and accelerate the blood of one creature that you can see wit
 
 On a successful saving throw, the target takes half damage and is otherwise unaffected. Creatures without blood are immune to the effects of this spell.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the initial damage dealt increases by 1d8 for each slot level above 4th.
+***At Higher Levels.***When you cast this spell using a spell slot of 5th level or higher, the initial damage dealt increases by 1d8 for each slot level above 4th.

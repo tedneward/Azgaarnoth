@@ -15,6 +15,7 @@ attack roll misses, you take necrotic damage equal
 to your level, which cannot be reduced or redirected
 by any means. If damage from this spell reduces you
 to 0 hit points, you immediately fail one death save.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of or higher, the force damage inflicted
 increases by 1d4 for each slot level above 2nd.

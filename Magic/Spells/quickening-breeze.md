@@ -13,7 +13,8 @@ saving throws rolled by your allies within that area
 before the spell ends are made with advantage.
 Once the third saving throw is rolled with
 advantage, the spell ends.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th level or higher, the number of
 saving throws made at advantage are increased by 1
 for every 2 slot levels above 3rd.

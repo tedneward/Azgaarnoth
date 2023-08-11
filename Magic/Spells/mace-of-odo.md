@@ -17,6 +17,9 @@ absorb the spell with the mace. Doing so destroys
 the mace. This cancels the spell's effect on you, but
 not on anyone else who is in the spell's area of
 effect.
-At Higher Levels. You can cast this spell using a
+
+***At Higher Levels.*** 
+***At Higher Levels.*** 
+***At Higher Levels.*** You can cast this spell using a
 4th level or higher spell slot. You inflict plus 1d8
 force damage for every spell level above 3rd.

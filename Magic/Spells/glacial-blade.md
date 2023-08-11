@@ -1,5 +1,5 @@
 #### Glacial Blade
-*evocation cantrip (Sorcerer,Warlock,Wizard)
+*evocation cantrip* (Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 5 feet

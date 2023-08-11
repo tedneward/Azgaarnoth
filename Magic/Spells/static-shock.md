@@ -1,5 +1,5 @@
 #### Static Shock
-*Abjuration cantrip (Artificer,Sorcerer,Wizard)
+*Abjuration cantrip* (Artificer,Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 15 feet

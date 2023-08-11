@@ -1,5 +1,5 @@
 #### Sword Burst
-*conjuration cantrip (Artificer,Sorcerer,Warlock,Wizard)
+*conjuration cantrip* (Artificer,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 5 feet

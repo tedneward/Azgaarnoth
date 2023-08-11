@@ -14,7 +14,8 @@ temporary hit point for every 5 points of damage
 you inflicted with your most damaging attack. The
 maximum number of temporary hit points you can gain in this way in one turn is equal to your
 spellcasting ability modifier.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a 2nd-level or higher spell slot, you increase the
 duration of the spell to 10 minutes. If you use a 3rd-
 level or higher spell slot, the duration increases to 1

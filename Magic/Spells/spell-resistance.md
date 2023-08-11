@@ -9,7 +9,8 @@ ___
 The creature you touch has advantage on saving
 throws against spells, and has resistance to damage
 from spells for the duration.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 7th level or higher, you can touch and
 affect one extra creature for every two slot levels
 above 5th.

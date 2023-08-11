@@ -1,5 +1,5 @@
 #### Minor Illusion
-*Illusion cantrip (Bard,Pale Master,Sorcerer,Warlock,Wizard)
+*Illusion cantrip* (Bard,Pale Master,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet

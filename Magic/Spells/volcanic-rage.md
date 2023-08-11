@@ -19,7 +19,8 @@ over, forcing creatures within 5 feet of you to make
 a Constitution saving throw. They take 2d6 fire
 damage and 2d6 bludgeoning damage if they fail
 the saving throw, or half as much on a success.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 7th level or higher, the fire damage
 and bludgeoning damage you can inflict with a
 bonus action increase by 1d6 for each slot level

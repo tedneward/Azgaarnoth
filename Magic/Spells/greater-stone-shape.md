@@ -6,7 +6,7 @@ ___
 - **Components:** V, S, M (a miniature cloak)
 - **Duration:** Concentration, up to 1 minute
 ---
-This spell functions like stone shape , but you may
+This spell functions like [stone shape](./stone-shape.md), but you may
 shape a stone object of Huge size or smaller. The
 stone object you touch can be up to 15 feet in any
 dimension. You can also mold intricate detail into

@@ -1,5 +1,5 @@
 #### Sudden Awakening
-*enchantment cantrip (Bard,Ranger,Sorcerer,Wizard)
+*enchantment cantrip* (Bard,Ranger,Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 10 feet

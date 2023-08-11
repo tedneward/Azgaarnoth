@@ -19,6 +19,7 @@ spell instead of a d4.
 Whether or not you choose yourself as a target of
 this spell, you gain a +2 bonus to your Armor Class
 for the duration.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th level or higher, you can target one
 additional creature for each slot level above 4th.

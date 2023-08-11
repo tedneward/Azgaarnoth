@@ -20,7 +20,8 @@ duration.
 As a bonus action on each of your turns, you can
 move the fist up to 20 feet and repeat the attack as
 described above.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 6th level or higher, the fire damage
 from the fist's attack increases by 1d8 for every two
 slot levels above 4th.

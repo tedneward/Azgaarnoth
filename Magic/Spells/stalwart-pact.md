@@ -13,7 +13,8 @@ temporary hit points, resistance to bludgeoning,
 piercing and slashing damage, and a +1 bonus to
 saving throws for 1 minute. Once the effect is
 triggered and the duration expires, the spell ends.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 7th level or higher, you gain an
 additional 5 temporary hit points and an extra +1 to
 saving throws for every two slot levels above 5th.

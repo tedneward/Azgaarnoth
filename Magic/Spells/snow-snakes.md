@@ -13,7 +13,8 @@ your action on subsequent turns, you can direct the
 snakes to move and attack creatures within their
 reach. When a snake hits a target with its attack,
 the creature takes an additional 1d6 cold damage.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 7th level or higher, you create one
 extra giant constrictor snake for every two slot
 levels above 5th.

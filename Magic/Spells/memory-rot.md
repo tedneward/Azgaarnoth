@@ -22,7 +22,8 @@ You can use an action on each of your turns
 for the duration to force the target to make another
 Constitution saving throw or suffer the spell's
 damage and effects.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 6th level or higher, the psychic
 damage increases by 1d6 for each slot level above
 5th.

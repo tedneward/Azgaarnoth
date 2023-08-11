@@ -30,6 +30,7 @@ stampede area, those creatures must make the
 saving throw against the stampede's damage. If you
 end your turn without having moved the stampede
 area in this way, the spell ends.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 6th level or higher, the damage
 increases by 1d12 for each slot level above 5th.

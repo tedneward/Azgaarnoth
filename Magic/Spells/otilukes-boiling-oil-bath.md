@@ -12,7 +12,8 @@ boiling oil on the creature below. The creature
 below must make a Dexterity saving throw. The
 target takes 5d4 fire damage on a failed save, and
 half as much on a successful one.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 3rd level or higher, the damage
 increases by 1d4 for each spell level above 2nd.
 Otiluke's Bubbling

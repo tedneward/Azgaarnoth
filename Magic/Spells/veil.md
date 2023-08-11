@@ -1,5 +1,5 @@
 #### Veil
-*Conjuration cantrip (Wizard)
+*Conjuration cantrip* (Wizard)
 ___
 - **Casting Time:** 1 reaction, which you take when you are hit by a melee attack that deals damage
 - **Range:** Self

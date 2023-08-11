@@ -15,7 +15,8 @@ the orb hits or misses, it returns to you at the end of
 your turn.
 If you direct the orb to hit an undead ally, that
 ally gains 20 temporary hit points.
-At Higher Levels.  You can cast this spell using a
+
+***At Higher Levels.***  You can cast this spell using a
 6th level or higher spell slot, you inflict plus 1d8
 damage for each spell level above 5th. An undead
 ally will gain 2 temporary hit points per spell level

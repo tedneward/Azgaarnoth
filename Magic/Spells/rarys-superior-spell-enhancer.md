@@ -17,7 +17,8 @@ one of the effects described above deals damage,
 you can reroll any damage die that rolls a 1. You
 must use the second roll for each die, even if the
 damage is lower.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 7th level or higher, when rerolling
 damage dice for a spell you enhanced, you can reroll
 any damage die that rolls a 1 or a 2.

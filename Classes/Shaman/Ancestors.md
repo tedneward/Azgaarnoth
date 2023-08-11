@@ -15,14 +15,14 @@ Shamans who speak for the ancestors walk the line between life and death, master
 **Speaker of Ancestors Calling Spells**
 Shaman Level | Calling Spells
 ------------ | --------------
-1st | [inflict wounds](/Magic/Spells/inflict-wounds.md), [unseen servant](/Magic/Spells/unseen-servant.md)
-3rd | [blindness/deafness](/Magic/Spells/blindness-deafness.md), [gentle repose](/Magic/Spells/gentle-repose.md)
-5th | [feign death](/Magic/Spells/feign-death.md), [revivify](/Magic/Spells/revivify.md)
-7th | [banishment](/Magic/Spells/banishment.md), [blight](/Magic/Spells/blight.md)
-9th | [antilife shell](/Magic/Spells/antilife-shell.md), [legend lore](/Magic/Spells/legend-lore.md)
+1st | [inflict wounds](../../Magic/Spells/inflict-wounds.md), [unseen servant](../../Magic/Spells/unseen-servant.md)
+3rd | [blindness/deafness](../../Magic/Spells/blindness-deafness.md), [gentle repose](../../Magic/Spells/gentle-repose.md)
+5th | [feign death](../../Magic/Spells/feign-death.md), [revivify](../../Magic/Spells/revivify.md)
+7th | [banishment](../../Magic/Spells/banishment.md), [blight](../../Magic/Spells/blight.md)
+9th | [antilife shell](../../Magic/Spells/antilife-shell.md), [legend lore](../../Magic/Spells/legend-lore.md)
 
 ## Blessing of the Ancestors
-When you choose this calling at 1st level, you gain the [chill touch](/Magic/Spells/chill-touch.md), [spare the dying](/Magic/Spells/spare-the-dying.md), and [thaumaturgy](/Magic/Spells/thaumaturgy.md) cantrips and learn one language of your choice. You also become proficient in the History skill.
+When you choose this calling at 1st level, you gain the [chill touch](../../Magic/Spells/chill-touch.md), [spare the dying](../../Magic/Spells/spare-the-dying.md), and [thaumaturgy](../../Magic/Spells/thaumaturgy.md) cantrips and learn one language of your choice. You also become proficient in the History skill.
 
 ## Channel Divinity: Turn Undead
 Also at 1st level, you gain the ability to channel divine energy from the ancestral spirits that you serve, using that energy to fuel magical effects. You start with one such effect: Turn Undead.

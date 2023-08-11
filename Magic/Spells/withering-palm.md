@@ -12,6 +12,7 @@ must make a Constitution saving throw. On a failed
 save, the creature suffers two levels of exhaustion.
 On a successful save, the creature suffers one level
 of exhaustion instead.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 8th level or higher, the damage
 increases by 1d6 for every slot level above 7th.

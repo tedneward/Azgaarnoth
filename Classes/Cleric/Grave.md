@@ -1,9 +1,11 @@
 # Divine Domain: Grave
+This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Arawn](../../Religions/Pantheon/Arawn.md), ...
 
 ## Domain Spells
-Starting at 1st level, you gain domain spells at the cleric levels listed in the Grave Domain Spells table. See the Divine Domain class feature for how domain spells work.
+Starting at 1st level, you gain domain spells at the cleric levels listed in the Grave Domain Spells table. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
 **Grave Domain Spells**
+
 Cleric Level | Spells
 ------------ | ------
 1st | Bane, False Life
@@ -37,5 +39,3 @@ Starting at 8th level, you add your Wisdom modifier to the damage you deal with 
 
 ## Keeper of Souls
 At 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 30 feet of you, you or one ally of your choice that is within 30 feet of you regains hit points equal to the enemy’s number of Hit Dice. You can use this feature only if you aren't incapacitated. Once you use it, you can't do so again until the start of your next turn.
-
-*Source: [Unearthed Arcana: Cleric Divine Domains](https://dnd.wizards.com/articles/unearthed-arcana/cleric-divine-domains)*

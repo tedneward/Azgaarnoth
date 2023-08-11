@@ -1,5 +1,5 @@
 #### Summons of Khirad
-*3rd-level conjuration (WARNING: NO CLASSES LISTED)* (WARNING: NO CLASSES LISTED)
+*3rd-level conjuration* (Warlock)
 ___
 - **Casting Time:** 1 action
 - **Range:** 70 feet

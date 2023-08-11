@@ -15,7 +15,8 @@ target cannot be surprised, and it gains a bonus on
 all Dexterity checks for initiative equal to your
 spellcasting ability modifier. It also gains advantage
 on all Wisdom (Perception) checks to spot traps.
-At Higher Levels. You can cast this spell using a
+
+***At Higher Levels.*** You can cast this spell using a
 3rd level or higher spell slot. You can target one
 other ally within range for each spell level above
 3rd. 

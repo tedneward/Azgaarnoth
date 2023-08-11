@@ -24,6 +24,7 @@ speaks gibberish mixed with its more intelligible
 words. The creature can attempt a new saving
 throw at the end of each of its turns, and on a
 success, the spell ends.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 3rd level or higher, you can target one
 extra creature for every two slot levels above 1st.

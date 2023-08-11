@@ -27,7 +27,8 @@ checks and saving throws for the selected ability are
 affected. Thus, it requires two castings of greater
 restoration  or heal (or one of each) to remove all the
 effects of this spell.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 6th level or higher, the psychic
 damage increases by 1d6 for each slot level above
 5th.

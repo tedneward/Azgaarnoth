@@ -18,7 +18,8 @@ your choice that you can see within 5 feet of
 it. The second creature takes lightning
 damage equal to 1d6 + your spellcasting
 ability modifier.
-At Higher Levels.  When you
+
+***At Higher Levels.***  When you
 cast this spell using a spell slot of
 2nd level or higher, the lightning
 damage increases by 1d6 for each

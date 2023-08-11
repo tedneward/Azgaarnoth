@@ -13,6 +13,7 @@ Each creature caught within the cylinder must
 make a Dexterity saving throw. On a failed save, a
 creature takes 5d4 bludgeoning damage, or half as
 much on a successful one.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 3rd level or higher, the bludgeoning
 damage increases by 1d4 per slot level above 2nd.

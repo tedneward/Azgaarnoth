@@ -1,5 +1,5 @@
 #### Minor Disguise
-*Transmutation cantrip (Bard,Sorcerer,Wizard)
+*Transmutation cantrip* (Bard,Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

@@ -15,7 +15,8 @@ damage as links of solid eldritch energy burst from
 its flesh, binding its bones to the ground. The
 creature you hit is restrained until the end of its
 next turn.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 2nd level or higher, the initial extra
 damage dealt by the attack increases by 1d6 for each
 slot level above 1st.

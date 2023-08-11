@@ -1,5 +1,5 @@
 #### Force Push
-*Evocation cantrip (Sorcerer)
+*Evocation cantrip* (Sorcerer)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet
@@ -15,5 +15,6 @@ takes 1d6 force damage and you can push it up to 10
 feet in a straight line away from you. It must end
 this movement on a surface that can support its
 weight.
+
 This spell's damage increases by 1d6 when you
 reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).

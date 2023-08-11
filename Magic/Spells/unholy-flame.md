@@ -1,5 +1,5 @@
 #### Unholy Flame
-*Evocation cantrip (Cleric,Pale Master)
+*Evocation cantrip* (Cleric,Pale Master)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

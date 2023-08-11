@@ -32,7 +32,8 @@ attempt to probe deeper into the creature's
 mind, as if with the detect thoughts spell.
 If you or the target are knocked unconscious or
 killed, the spell ends early.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 5th level or higher, the psychic
 damage increases by 1d10 for each slot level above
 4th. 

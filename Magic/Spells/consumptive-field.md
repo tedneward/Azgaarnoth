@@ -17,10 +17,12 @@ advantage on Strength ability checks and saving
 throws until the end of your next turn. In addition,
 you gain temporary hit points equal to the necrotic
 damage inflicted.
+
 On a successful save, the creature takes half
 damage, and you don't gain advantage on Strength
 ability checks or saving throws, nor do you gain any
 temporary hit points.
+
 Until the spell ends, once during each of your
 turns you can use your action to force another
 creature with half its hit point maximum or less to

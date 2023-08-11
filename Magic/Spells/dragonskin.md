@@ -12,6 +12,7 @@ and hued with the color of the dragon you selected.
 For the duration, you gain a +2 bonus to your AC,
 and resistance according to the dragon type you
 white, lightning for blue, and fire for red.
-At Higher Levels.  When you cast this spell using
+
+***At Higher Levels.***  When you cast this spell using
 a spell slot of 4th level or higher, the bonus to your
 AC increases by 1 for each slot level above 3rd.

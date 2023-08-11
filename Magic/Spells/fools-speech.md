@@ -11,6 +11,7 @@ other when the spell is cast can speak and
 understand a secret language that is unintelligible
 to others. A comprehend languages or tongues spell
 will not decipher the language.
-At Higher Levels. When you cast this spell using
+
+***At Higher Levels.*** When you cast this spell using
 a spell slot of 4th level or higher, the duration
 increases by 1 hour for every slot level above 3rd.
