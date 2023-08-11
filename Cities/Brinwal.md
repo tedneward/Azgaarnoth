@@ -44,7 +44,7 @@ Bards are highly welcome in Brinwal, and frequently pass through on their way we
 ### Brinwal Academy
 Brinwal has a school for higher learning, the Brinwal Academy (very roughly patterned on the Great Library of the Brass), and teaches history, magical theory, geography, culture, and most of all, the entertainment arts. 
 
-The Brinwal Academy routinely puts on shows for the populace at Velorian's (a playhouse), and at least one Bard 1 graduates the Academy every year, and many return to take up study of the Bardic [College of Lore](/Classes/Bard/Lore.md) before departing again. A few study the [College of Satire](/Classes/Bard/Satire.md).
+The Brinwal Academy routinely puts on shows for the populace at Velorian's (a playhouse), and at least one Bard 1 graduates the Academy every year, and many return to take up study of the Bardic [College of Lore](../Classes/Bard/Lore.md) before departing again. A few study the [College of Satire](../Classes/Bard/Satire.md).
 
 ## Great Houses
 

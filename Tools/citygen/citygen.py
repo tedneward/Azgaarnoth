@@ -20,11 +20,11 @@ def namegen(which):
         ]
         descriptors = [
             'Mercury', 'Night', 'Midnight', 'Raven', 'Grey', 'Fire', 'Dusk',
-            'Nightshade'
+            'Nightshade', 'Reviled', 'Umbral', 'Stained', "Butcher's", 'Cursed'
         ]
         nouns = [
             'Blades', 'Knives', 'Star', 'Consortium', 'Syndicate', 'Cabal', 'Court',
-            'Daggers', 'Gang', 'Boys'
+            'Daggers', 'Gang', 'Boys', 'Hand', 'Coil', 'Alliance', 'Maggots'
         ]
         desc = descriptors[random.randint(0, len(descriptors))] + ' ' + nouns[random.randint(0, len(nouns))]
         if random.randint(0, 100) > 50:
@@ -56,9 +56,29 @@ def namegen(which):
     elif which == 'merchantguild':
         return "**DUELING COLLEGE**"
     elif which == 'mercenarycompany':
+        if random.randint(0, 100) > 50:
+            names = []
+            collective = [
+                'Reavers', 'Scoundrels', 'Devils', 'Demons', 'Knights', 'Dragoons',
+                'Cavaliers', 'Warriors', 'Raptors', ''
+            ]
+        else:
+            descriptors = [
+                'Shining', 'Gleaming', 'Barking'
+            ]
+            weapons = [
+                'Axe', 'Knife', 'Swords', 'Blades'
+            ]
+            organization = [
+                'Compact', 'Company', 'Pact', 'Dragoons', 'Knights'
+            ]
         return "**MERC COMPANY**"
     elif which == 'monasticorder':
         return "**MONASTIC ORDER**"
+    elif which == 'house':
+        houses = os.listdir('../../Organizations/Houses')
+        house = houses[random.randint(0, len(houses))][0:-3]
+        return house
     else:
         return "UNRECOGNIZED NAME: '" + which + "'"
     pass

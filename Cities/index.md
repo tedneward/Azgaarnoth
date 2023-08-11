@@ -114,7 +114,7 @@
 * [Gathizdus](Gathizdus.md) *(Akhilgilukkian)*
 * [Grastar](Grastar.md) *(Akhilgilukkian)*
 * [Gridesimes](Gridesimes.md) *(Neverront)*
-* [Hell's Reach](Hell's Reach.md) *(Akhilgilukkian)*
+* [Hell's Reach](HellsReach.md) *(Akhilgilukkian)*
 * [Khazindush](Khazindush.md) *(Khazindushian)*
 * [Knigreak](Knigreak.md) *(Shimbergar)*
 * [Kuniavar](Kuniavar.md) *(Alhafji)*
