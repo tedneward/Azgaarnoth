@@ -15,25 +15,32 @@ import sys
 
 def namegen(which):
     if which == 'roguesguild':
-        prefixes = [
-            'Order of the ', 'Council of the '
-        ]
-        descriptors = [
-            'Mercury', 'Night', 'Midnight', 'Raven', 'Grey', 'Fire', 'Dusk',
-            'Nightshade', 'Reviled', 'Umbral', 'Stained', "Butcher's", 'Cursed'
-        ]
-        nouns = [
-            'Blades', 'Knives', 'Star', 'Consortium', 'Syndicate', 'Cabal', 'Court',
-            'Daggers', 'Gang', 'Boys', 'Hand', 'Coil', 'Alliance', 'Maggots'
-        ]
-        desc = descriptors[random.randint(0, len(descriptors))] + ' ' + nouns[random.randint(0, len(nouns))]
         if random.randint(0, 100) > 50:
-            desc = prefixes[random.randint(0, len(prefixes))] + ' ' + desc
+            guilds = os.listdir('../../Organizations/RoguesGuilds')
+            guilds.remove('index.md')
+            guild = open('../../Organizations/RoguesGuilds/' + guilds[random.randint(0, len(guilds))], 'r').readlines()[0][len('# Rogues Guild: '):-1]
+            return guild
+        else:
+            prefixes = [
+                'Order of the ', 'Council of the '
+            ]
+            descriptors = [
+                'Mercury', 'Night', 'Midnight', 'Raven', 'Grey', 'Fire', 'Dusk',
+                'Nightshade', 'Reviled', 'Umbral', 'Stained', "Butcher's", 'Cursed'
+            ]
+            nouns = [
+                'Blades', 'Knives', 'Star', 'Consortium', 'Syndicate', 'Cabal', 'Court',
+                'Daggers', 'Gang', 'Boys', 'Hand', 'Coil', 'Alliance', 'Maggots'
+            ]
+            desc = descriptors[random.randint(0, len(descriptors))] + ' ' + nouns[random.randint(0, len(nouns))]
+            if random.randint(0, 100) > 50:
+                desc = prefixes[random.randint(0, len(prefixes))] + ' ' + desc
         return desc
     elif which == 'mageschool':
         if random.randint(0, 100) > 60:
             schools = os.listdir('../../Organizations/MageSchools')
-            school = schools[random.randint(0, len(schools))][0:-3]
+            schools.remove('index.md')
+            school = open('../../Organizations/MageSchools/' + schools[random.randint(0, len(schools))], 'r').readlines()[0][len('# Mage School: '):-1]
             return school
         else:
             descriptors = [
