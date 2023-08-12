@@ -14,9 +14,13 @@ import sys
 # re-run for particular cities or not.
 
 def namegen(which):
+    organizations = [
+        'Compact', 'Company', 'Pact', 'Dragoons', 'Knights'
+    ]
     if which == 'roguesguild':
         prefixes = [
-            'Order of the ', 'Council of the '
+            'Order of the ', 'Council of the ', 'Collective of the ',
+            'Congress of the ', 'Gathering of the '
         ]
         descriptors = [
             'Mercury', 'Night', 'Midnight', 'Raven', 'Grey', 'Fire', 'Dusk',
@@ -54,25 +58,23 @@ def namegen(which):
     elif which == 'duelingcollege':
         return "**DUELING COLLEGE**"
     elif which == 'merchantguild':
-        return "**DUELING COLLEGE**"
+        return organizations[random.randint(0, len(organizations)-1)]
     elif which == 'mercenarycompany':
         if random.randint(0, 100) > 50:
-            names = []
-            collective = [
+            names = [ '**TODO**' ]
+            collectives = [
                 'Reavers', 'Scoundrels', 'Devils', 'Demons', 'Knights', 'Dragoons',
-                'Cavaliers', 'Warriors', 'Raptors', ''
+                'Cavaliers', 'Warriors', 'Raptors', 'Avengers', 'Angels', 'Brutes'
             ]
+            return names[random.randint(0, len(names)-1)] + "'s " + collectives[random.randint(0, len(collectives)-1)]
         else:
             descriptors = [
-                'Shining', 'Gleaming', 'Barking'
+                'Shining', 'Gleaming', 'Barking', 'Bright', 'Vorpal', 'Savage',
             ]
             weapons = [
-                'Axe', 'Knife', 'Swords', 'Blades'
+                'Axe', 'Knife', 'Swords', 'Blades', 'Dragoons', 'Dogs', 'Knights'
             ]
-            organization = [
-                'Compact', 'Company', 'Pact', 'Dragoons', 'Knights'
-            ]
-        return "**MERC COMPANY**"
+        return descriptors[random.randint(0, len(descriptors)-1)] + ' ' + weapons[random.randint(0, len(weapons)-1)]
     elif which == 'monasticorder':
         return "**MONASTIC ORDER**"
     elif which == 'house':
@@ -123,6 +125,9 @@ class City:
         self.state = row[4]
         self.religion = row[7]
         self.populationct = int(row[8])
+        self.latitude = float(row[9])
+        self.longitude = float(row[10])
+        self.elevation = row[11]
 
         if row[12] != '':
             self.capital = True
@@ -157,11 +162,11 @@ class City:
                 self.description.append("The city has a central area of shops which sees much traffic. Already several fountains and other decorative statues mark the rough edges of this plaze.")
         if row[17] != '':
             self.temple = True
-            self.description.append(f"The {self.religion} religion has a large temple here near the city center.")
+            self.description.append(f"A large temple to **TODO** here sits near to the city center.")
         if row[18] != '':
             self.shantytown = True
             poppercent = (random.randint(1, 8) * 5) 
-            desc = f"Sadly, {self.name} has a shantytown. Roughly {poppercent}% of the city live within it. "
+            desc = f"{self.name}'s shantytown is home to roughly {poppercent}% of the city. "
             if poppercent > 25:
                 desc += "Most of the city's guards and other law enforcement avoid or outright refuse to enter. "
             else:
@@ -183,7 +188,7 @@ class City:
         #self.calculatemercenaries()
         #self.calculatemageschools()
         #self.calculatereligiousgroups()
-        #self.calculateroguesguilds()
+        self.calculateroguesguilds()
         #self.calculatemerchantguilds()
         #self.calculatemonasticorders()
 
@@ -257,6 +262,21 @@ class City:
         self.militaryunits.append(results)
         return results
     
+    def calculatemercenaries(self):
+        pass
+
+    def calculatemageschools(self):
+        pass
+
+    def calculatereligiousgroups(self):
+        pass
+
+    def calculatemerchantguilds(self):
+        pass
+    
+    def calculatemonasticorders(self):
+        pass
+
     def calculateduelingcolleges(self):
         numcolleges = self.militaryunits
         if len(self.mercenarycompanies) > 0:
@@ -274,7 +294,7 @@ class City:
         results = f"# {self.name}\n"
         results += f"*({self.province}, [{self.state}](../Nations/{self.state}.md))*\n"
         results += "\n"
-        results += f"**Population:** {self.populationct}\n"
+        results += f"**Population:** {self.populationct}  "
         results += (f"*(Humans: {self.populationbreakdown['Human']}, " + 
             f"Firstborn: {self.populationbreakdown['Firstborn']} " + 
             f"Created: {self.populationbreakdown['Created']} " + 
@@ -282,7 +302,13 @@ class City:
         results += "\n\n".join(self.description) + "\n"
         results += "\n"
         results += "## Geography\n"
-        results += f"![]({self.name}.jpeg)\n\n"
+        results += "\n"
+        results += f"![]({self.name}.jpeg)\n"
+        results += "\n"
+        results += f"Latitude: {self.latitude}, Longitude: {self.longitude}\n"
+        results += "\n"
+        results += f"City Elevation: {self.elevation}\n"
+        results += "\n"
         results += "## Authority Figures\n"
         results += "\n\n".join(self.authorities) + "\n"
         results += "\n"
@@ -339,9 +365,9 @@ def parsemd(mddirname):
 
 def main():
     parser = argparse.ArgumentParser(
-                    prog='SpellTool',
-                    description='A spell list(s) and contents tool',
-                    epilog='Text at the bottom of help')
+                    prog='CityGen',
+                    description='A tool for generating random settings for a city',
+                    epilog='Written in Python with love')
     parser.add_argument('--version', action='version', version='%(prog)s 0.1')
     parser.add_argument('--parsemd', help='File or directory for parsing MD file(s)')
     parser.add_argument('--parsecsv', help='CSV file to use as input database')
@@ -376,7 +402,6 @@ def main():
                 outfile.write(burb.formatmd())
     else:
         parser.print_help()
-        exit()
 
 
 if __name__ == '__main__':
