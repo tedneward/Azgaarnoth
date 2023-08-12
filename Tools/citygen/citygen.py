@@ -17,7 +17,9 @@ def namegen(which):
     if which == 'roguesguild':
         if random.randint(0,100) > 50:
             guilds = os.listdir('../../Organizations/RoguesGuilds')
-            return guilds[random.randint(0, len(guilds)-1)][0:-3]
+            guilds.remove('index.md')
+            guild = open('../../Organizations/RoguesGuilds/' + guilds[random.randint(0, len(guilds)-1)], 'r').readlines()[0][len('# Rogues Guild: '):-1]
+            return guild
         else:
             prefixes = ['Order of the', 'Council of the']
             descriptors = [
@@ -50,7 +52,7 @@ def namegen(which):
                 'Cylinder', 'Minaret', 'Monument', 'Pylon', 'Tower', 'Spire', 'Turret', 
                 'Column', 'Obelisk', 'Rock', 'Eye', 'Tome'
             ]
-            descriptor = descriptors[random.randint(0, len(descriptors))]
+            descriptor = descriptors[random.randint(0, len(descriptors)-1)]
             noun = nouns[random.randint(0, len(nouns)-1)]
             return descriptor + ' ' + noun
     elif which == 'bardiccollege':
@@ -58,14 +60,22 @@ def namegen(which):
     elif which == 'duelingcollege':
         return "**DUELING COLLEGE**"
     elif which == 'merchantguild':
-        return "**MERCHANT GUILD**"
+        if random.randint(0, 100) > 60:
+            guilds = os.listdir('../../Organizations/MerchantGuilds')
+            guilds.remove('index.md')
+            guild = open('../../Organizations/MerchantGuilds/' + guilds[random.randint(0, len(guilds)-1)], 'r').readlines()[0][len('# Merchant Guild: '):-1]
+            return guild
+        else:
+            organizations = [
+                'Compact', 'Company', 'Pact', 'Guild'
+            ]
+            return "**MERCHANT GUILD**"
     elif which == 'mercenarycompany':
         if random.randint(0, 100) > 50:
-            names = []
-            collective = [
-                'Reavers', 'Scoundrels', 'Devils', 'Demons', 'Knights', 'Dragoons',
-                'Cavaliers', 'Warriors', 'Raptors', ''
-            ]
+            mercs = os.listdir('../../Organizations/MercenaryCompanies')
+            mercs.remove('index.md')
+            merc = open('../../Organizations/MercenaryCompanies/' + mercs[random.randint(0, len(mercs)-1)], 'r').readlines()[0][len('# Mercenary Company: '):-1]
+            return merc
         else:
             descriptors = [
                 'Shining', 'Gleaming', 'Barking'
@@ -73,10 +83,11 @@ def namegen(which):
             weapons = [
                 'Axe', 'Knife', 'Swords', 'Blades'
             ]
-            organization = [
-                'Compact', 'Company', 'Pact', 'Dragoons', 'Knights'
+            collective = [
+                'Reavers', 'Scoundrels', 'Devils', 'Demons', 'Knights', 'Dragoons',
+                'Cavaliers', 'Warriors', 'Raptors', ''
             ]
-        return "**MERC COMPANY**"
+            return "**MERC COMPANY**"
     elif which == 'monasticorder':
         return "**MONASTIC ORDER**"
     elif which == 'house':
@@ -208,13 +219,25 @@ class City:
         if self.temple:
             self.authorities.append(f"**TODO**, High Priest of {self.religion}")
 
-        # Rogues Guild
-        if len(self.roguesguilds) > 2:
-            self.authorities.append(f"**TODO**, Guildmaster of the {self.roguesguilds[random.randint(0, len(self.roguesguilds))]} Rogues' Guild.")
+        # Rogues Guild (1 per 3 Guilds)
+        for _ in range((len(self.roguesguilds) // 3)):
+            self.authorities.append(f"**TODO**, Guildmaster of the {self.roguesguilds[random.randint(0, len(self.roguesguilds))]}")
 
-        # Mage Schools
+        # Mage Schools (just 1, no matter how many schools)
         if len(self.mageschools) > 1:
-            self.authorities.append(f"**TODO**, Arcane Master of the ${self.mageschools[random.randint(0, len(self.mageschools))]} Mage School.")
+            self.authorities.append(f"**TODO**, Arcane Master of the ${self.mageschools[random.randint(0, len(self.mageschools))]}")
+
+        # Dueling Colleges (1 per 4 Colleges)
+        for _ in range((len(self.duelingcolleges) // 4)):
+            self.authorities.append(f"**TODO**, Master of the {self.duelingcolleges[random.randint(0, len(self.duelingcolleges))]}")
+
+        # Merchant Guilds (1 per 2 Guilds)
+        for _ in range((len(self.merchantguilds) // 2)):
+            self.authorities.append(f"**TODO**, Guildmaster of the {self.merchantguilds[random.randint(0, len(self.merchantguilds))]}")
+
+        # Mercenary Companies (1 per 2 Companies)
+        for _ in range((len(self.mercenarycompanies) // 2)):
+            self.authorities.append(f"**TODO**, Captain of the {self.mercenarycompanies[random.randint(0, len(self.mercenarycompanies))]}")
 
     def calculatemilitia(self):
         results = "**Militia.** "
@@ -310,7 +333,7 @@ class City:
 
         for _ in range(numguilds):
             g = namegen('roguesguild')
-            self.roguesguilds.append(g)
+            self.roguesguilds.append(f'**[{g}](../Organizations/RoguesGuilds/{g}.md**')
             self.authorities.append(f"**TODO**, Guildmaster of the {g} rogue's guild")
     
     def formatmd(self):
