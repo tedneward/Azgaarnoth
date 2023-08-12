@@ -96,6 +96,7 @@ class NPC:
         self.savingthrows = []
         self.resistances = []
         self.immunities = []
+        self.conditionimmunities = []
         # Skills and proficiencies are basically the same thing; having a proficiency
         # in a skill means adding your profbonus to the skill's ability bonus
         self.proficiencies = []
@@ -183,6 +184,8 @@ class NPC:
         print("**Damage Resistances** " + ", ".join(self.resistances))
         print("")
         print("**Damage Immunities** " + ", ".join(self.immunities))
+        print("")
+        print("**Condition Immunities** " + ", ".join(self.conditionimmunities))
         print("")
         print(self.print_savingthrows())
         print("")
@@ -287,6 +290,8 @@ commonfeatures = {
     'amphibious' : "**Amphibious.**. You can breathe air and water.",
     'darkvision30' : "**Darkvision.**. You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
     'darkvision' : "**Darkvision.**. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
+    'sea-emissary' : "**Emissary of the Sea**. Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return.",
+    'sunlight-sensitivity' : "**Sunlight Sensitivity**. You have disadvantage on Attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.",
     'superiordarkvision' : "**Superior Darkvision.**. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
 }
 

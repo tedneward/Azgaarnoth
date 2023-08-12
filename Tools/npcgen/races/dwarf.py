@@ -45,7 +45,7 @@ def apply_race(npc):
     npc.languages.append("Common")
     npc.languages.append("Dwarvish")
 
-    npc.description.append("Dwarves ...")
+    npc.description.append("**Race: Dwarf.** Dwarves ...")
 
 # -------------
 # Subraces
@@ -107,7 +107,7 @@ Most of the *duergar* encountered tend to be bitter and resentful, angry at the 
 
     npc.features.append("**Duergar Resilience**. You have advantage on saving throws against illusions and against being charmed or paralyzed.")
 
-    npc.features.append("**Sunlight Sensitivity**. You have disadvantage on Attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.")
+    npc.features.append(commonfeatures['sunlight-sensitivity'])
 
     npc.languages.append("Undercommon")
 
@@ -127,7 +127,7 @@ Still other rumors tell of clans of non-Exodus dwarves that were then captured b
 
     npc.languages.append("Undercommon")
 
-    npc.features.append("**Sunlight Sensitivity.**. You have disadvantage on Attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.")
+    npc.features.append(commonfeatures['sunlight-sensitivity'])
 
     npc.features.append("**Eldritch Resilience.** You have advantage on Constitution saving throws against spells.")
 

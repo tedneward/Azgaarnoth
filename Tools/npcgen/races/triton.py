@@ -38,7 +38,7 @@ def apply_race(npc):
 
     npc.actions.append("**Control Air and Water**. You can cast [fog cloud](/Magic/Spells/fog-cloud.md) with this trait. Once you cast a spell with this trait, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells.")
 
-    npc.features.append("**Emissary of the Sea**. Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return.")
+    npc.features.append(commonfeatures['sea-emissary'])
 
     npc.resistances.append("cold")
     npc.features.append("**Guardians of the Depths**. Adapted to even the most extreme ocean depths, you have resistance to cold damage, and you ignore any of the drawbacks caused by a deep, underwater environment.")

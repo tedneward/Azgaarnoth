@@ -36,7 +36,8 @@ def namegen(which):
     elif which == 'mageschool':
         if random.randint(0, 100) > 60:
             schools = os.listdir('../../Organizations/MageSchools')
-            school = schools[random.randint(0, len(schools)-1)][0:-3]
+            schools.remove('index.md')
+            school = open('../../Organizations/MageSchools/' + schools[random.randint(0, len(schools))], 'r').readlines()[0][len('# Mage School: '):-1]
             return school
         else:
             descriptors = [
@@ -57,7 +58,7 @@ def namegen(which):
     elif which == 'duelingcollege':
         return "**DUELING COLLEGE**"
     elif which == 'merchantguild':
-        return "**DUELING COLLEGE**"
+        return "**MERCHANT GUILD**"
     elif which == 'mercenarycompany':
         if random.randint(0, 100) > 50:
             names = []
