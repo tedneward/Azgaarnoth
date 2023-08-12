@@ -18,26 +18,29 @@ def namegen(which):
         'Compact', 'Company', 'Pact', 'Dragoons', 'Knights'
     ]
     if which == 'roguesguild':
-        prefixes = [
-            'Order of the ', 'Council of the ', 'Collective of the ',
-            'Congress of the ', 'Gathering of the '
-        ]
-        descriptors = [
-            'Mercury', 'Night', 'Midnight', 'Raven', 'Grey', 'Fire', 'Dusk',
-            'Nightshade', 'Reviled', 'Umbral', 'Stained', "Butcher's", 'Cursed'
-        ]
-        nouns = [
-            'Blades', 'Knives', 'Star', 'Consortium', 'Syndicate', 'Cabal', 'Court',
-            'Daggers', 'Gang', 'Boys', 'Hand', 'Coil', 'Alliance', 'Maggots'
-        ]
-        desc = descriptors[random.randint(0, len(descriptors))] + ' ' + nouns[random.randint(0, len(nouns))]
-        if random.randint(0, 100) > 50:
-            desc = prefixes[random.randint(0, len(prefixes))] + ' ' + desc
-        return desc
+        if random.randint(0,100) > 50:
+            guilds = os.listdir('../../Organizations/RoguesGuilds')
+            return guilds[random.randint(0, len(guilds)-1)][0:-3]
+        else:
+            prefixes = ['Order of the', 'Council of the']
+            descriptors = [
+                'Mercury', 'Night', 'Midnight', 'Raven', 'Grey', 'Fire', 'Dusk',
+                'Nightshade', 'Reviled', 'Umbral', 'Stained', "Butcher's", 'Cursed',
+                'Long', 'Crow',
+            ]
+            nouns = [
+                'Blades', 'Knives', 'Star', 'Consortium', 'Syndicate', 'Cabal', 'Court',
+                'Daggers', 'Gang', 'Boys', 'Hand', 'Coil', 'Alliance', 'Maggots', 'Rats'
+            ]
+            desc = descriptors[random.randint(0, len(descriptors)-1)] + ' ' + nouns[random.randint(0, len(nouns))]
+            if random.randint(0, 100) > 75:
+                desc = prefixes[random.randint(0, len(prefixes)-1)] + ' ' + desc
+            return desc
     elif which == 'mageschool':
         if random.randint(0, 100) > 60:
             schools = os.listdir('../../Organizations/MageSchools')
-            school = schools[random.randint(0, len(schools))][0:-3]
+            schools.remove('index.md')
+            school = open('../../Organizations/MageSchools/' + schools[random.randint(0, len(schools))], 'r').readlines()[0][len('# Mage School: '):-1]
             return school
         else:
             descriptors = [
@@ -51,7 +54,7 @@ def namegen(which):
                 'Column', 'Obelisk', 'Rock', 'Eye', 'Tome'
             ]
             descriptor = descriptors[random.randint(0, len(descriptors))]
-            noun = nouns[random.randint(0, len(nouns))]
+            noun = nouns[random.randint(0, len(nouns)-1)]
             return descriptor + ' ' + noun
     elif which == 'bardiccollege':
         return "**BARDIC COLLEGE**"
@@ -79,11 +82,10 @@ def namegen(which):
         return "**MONASTIC ORDER**"
     elif which == 'house':
         houses = os.listdir('../../Organizations/Houses')
-        house = houses[random.randint(0, len(houses))][0:-3]
+        house = houses[random.randint(0, len(houses)-1)][0:-3]
         return house
     else:
         return "UNRECOGNIZED NAME: '" + which + "'"
-    pass
 
 class City:
     def __init__(self):
@@ -139,7 +141,7 @@ class City:
         if row[14] != '':
             self.citadel = True
             if self.populationct > 5000:
-                self.militaryunits.append(f"**Palace Guard.** These typically rotate between citidel guard duty and special missions as dictated by city authorities. 75xFighter 3-5, 20xWizard/Sorcerer 3-5, 30xCleric/Druid 3-5, 25xRogue 3-5.")
+                self.militaryunits.append("**Palace Guard.** These typically rotate between citidel guard duty and special missions as dictated by city authorities. 75xFighter 3-5, 20xWizard/Sorcerer 3-5, 30xCleric/Druid 3-5, 25xRogue 3-5.")
                 self.description.append(f"{self.name} retains a citadel for the upper ranks and guests, and much of the elite guard resides there.")
             else:
                 self.description.append(f"An ancient citadel stands within {self.name}'s city limits, but currently is all but abandoned.")
@@ -147,9 +149,9 @@ class City:
             self.walls = True
             wallprob = random.randint(1,100)
             if  wallprob > 50:
-                self.description.append(f"The walls are in good shape, kept in good order by the city authorities.")
+                self.description.append("The walls are in good shape, kept in good order by the city authorities.")
             elif wallprob > 25:
-                self.description.append(f"The city walls still stand, but clearly have seen neglect over the years.")
+                self.description.append("The city walls still stand, but clearly have seen neglect over the years.")
             else:
                 self.description.append(f"{self.name}'s walls are crumbling and in disrepair, with obvious gaps from previous sieges or battles still as yet unrepaired.")
         if row[16] != '':
@@ -185,12 +187,12 @@ class City:
         self.calculateauthorities()
         self.calculatemilitia()
         self.calculateduelingcolleges()
-        #self.calculatemercenaries()
-        #self.calculatemageschools()
-        #self.calculatereligiousgroups()
+        self.calculatemercenaries()
+        self.calculatemageschools()
+        self.calculatereligiousgroups()
         self.calculateroguesguilds()
-        #self.calculatemerchantguilds()
-        #self.calculatemonasticorders()
+        self.calculatemerchantguilds()
+        self.calculatemonasticorders()
 
     def calculatepopulationbreakdown(self):
         pass
@@ -201,14 +203,14 @@ class City:
             # The Guard
             self.militaryunits.append("**City Guard.** **TODO**")
             # Captain of the Guard
-            self.authorities.append("**TODO**, Captain of the City Guard")
+            self.authorities.append("**TODO**, Fighter 8, Captain of the City Guard")
         else:
             self.militaryunits.append("**Town Guard.** **TODO**")
-            self.authorities.append("**TODO**, Captain of the Guard")
+            self.authorities.append("**TODO**, Fighter 5, Captain of the Town Guard")
 
         # Religious figures
         if self.temple:
-            self.authorities.append("**TODO**, High Priest of ${self.religion}")
+            self.authorities.append(f"**TODO**, High Priest of {self.religion}")
 
         # Rogues Guild
         if len(self.roguesguilds) > 2:
@@ -278,21 +280,49 @@ class City:
         pass
 
     def calculateduelingcolleges(self):
-        numcolleges = self.militaryunits
+        numcolleges = len(self.militaryunits)
         if len(self.mercenarycompanies) > 0:
-            numcolleges *= 2
-        pass
+            numcolleges += len(self.mercenarycompanies)
+        if self.populationct < 10000:
+            numcolleges -= 1
+        if self.populationct < 5000:
+            numcolleges -= 1
+        if self.populationct < 2500:
+            numcolleges -= 1
+
+        numcolleges += random.randint(-2, 2)
+        if numcolleges < 0: numcolleges = 0
+
+        # Read the different fighting styles from ../../Classes/Fighter/Styles.md
+        # Use these in the text for each dueling college--each college offers
+        # study in a style.
+        # Styles should factor into the name generation too, I would think....
+
+        for _ in range(numcolleges):
+            dc = namegen('duelingcollege')
+            self.duelingcolleges.append(dc)
+            self.authorities.append(f"**TODO**, Head of the {dc} dueling college")
 
     def calculateroguesguilds(self):
         numguilds = self.populationct // 5000
         if self.shantytown:
             numguilds *= 2
         numguilds -= len(self.militaryunits)
-        pass
+
+        numguilds += random.randint(-2, 2)
+        if numguilds < 0: numguilds = 0
+
+        for _ in range(numguilds):
+            g = namegen('roguesguild')
+            self.roguesguilds.append(g)
+            self.authorities.append(f"**TODO**, Guildmaster of the {g} rogue's guild")
     
     def formatmd(self):
         results = f"# {self.name}\n"
-        results += f"*({self.province}, [{self.state}](../Nations/{self.state}.md))*\n"
+        if self.province != '':
+            results += f"*({self.province}, [{self.state}](../Nations/{self.state}.md))*\n"
+        else:
+            results += f"*([{self.state}](../Nations/{self.state}.md))*\n"
         results += "\n"
         results += f"**Population:** {self.populationct}  "
         results += (f"*(Humans: {self.populationbreakdown['Human']}, " + 
@@ -363,6 +393,9 @@ def parsecsv(csvfilename):
 def parsemd(mddirname):
 	return []
 
+states = ['Alalihat', 'Almalz', 'Zabalasa', 'Liria', 'Mighalia', 
+            'Travesimia', 'Bagonbia', 'Whaveminsia', 'Travenia','Dradehalia', 
+            'Tragekia', 'Ulm', 'Yithi', 'Zhi']
 def main():
     parser = argparse.ArgumentParser(
                     prog='CityGen',
@@ -371,8 +404,10 @@ def main():
     parser.add_argument('--version', action='version', version='%(prog)s 0.1')
     parser.add_argument('--parsemd', help='File or directory for parsing MD file(s)')
     parser.add_argument('--parsecsv', help='CSV file to use as input database')
-    parser.add_argument('--writeindex', help='Create an index.md page for all cities')
-    parser.add_argument('--writecities', help='Write out MD descriptions of cities to given target directory')
+    parser.add_argument('--out', help='Target directory for any written files')
+    parser.add_argument('--writeindex', choices=states + ['all'], help='Create an index.md page for all cities in given state')
+    parser.add_argument('--writecities', choices=states + ['all'], help='Write out MD descriptions of cities for given state')
+    parser.add_argument('--writecity', help='Write out MD description of specific city passed')
     args = parser.parse_args()
 
     global burbs
@@ -381,25 +416,51 @@ def main():
     elif args.parsemd != None:
         burbs = parsemd(args.parsemd)
 
+    target = ''
+    if args.out == None:
+        target = '.'
+    else:
+        target = args.out
+
     if args.writeindex != None:
-        print("# Cities in Azgaarnoth\n\n")
-        states = ['Alalihat', 'Almalz', 'Zabalasa', 'Liria', 'Mighalia', 
-                  'Travesimia', 'Bagonbia', 'Whaveminsia', 'Travenia','Dradehalia', 
-                  'Tragekia', 'Ulm', 'Yithi', 'Zhi']
-        for state in states:
-            print(f"## [{state}](../Nations/{state}.md)")
-            stateburbs = list(filter(lambda city: city.state == state, burbs))
-            stateburbs.sort(key=lambda city: city.name)
-            for burb in stateburbs:
-                print(f"* [{burb.name}]({burb.name}.md) *({burb.province})*")
-            print("\n")
-        sys.exit()
+        if args.writeindex == 'all':
+            with open(target + "/index.md", 'w') as outfile:
+                print("# Cities in Azgaarnoth\n\n")
+                for state in states:
+                    outfile.write(f"## [{state}](../Nations/{state}.md)")
+                    stateburbs = list(filter(lambda city: city.state == state, burbs))
+                    stateburbs.sort(key=lambda city: city.name)
+                    for burb in stateburbs:
+                        outfile.write(f"* [{burb.name}]({burb.name}.md) *({burb.province})*")
+                    outfile.write("\n")
+        else:
+            with open(target + "/" + args.writeindex + ".md", 'w') as outfile:
+                stateburbs = list(filter(lambda city: city.state == state, burbs))
+                stateburbs.sort(key=lambda city: city.name)
+                for burb in stateburbs:
+                    outfile.write(f"* [{burb.name}]({burb.name}.md) *({burb.province})*")
+                outfile.write("\n")
+
+
     elif args.writecities != None:
-        target = args.writecities
-        for burb in burbs:
-            with open(target + "/" + burb.name + ".md", 'w') as outfile:
-                burb.calculate()
-                outfile.write(burb.formatmd())
+        if args.writecities == 'all':
+            for burb in burbs:
+                with open(target + "/" + burb.name + ".md", 'w') as outfile:
+                    burb.calculate()
+                    outfile.write(burb.formatmd())
+        else:
+            stateburbs = list(filter(lambda city: city.state == state, burbs))
+            stateburbs.sort()
+            for burb in stateburbs:
+                with open(target + "/" + burb.name + ".md", 'w') as outfile:
+                    burb.calculate()
+                    outfile.write(burb.formatmd())
+    elif args.writecity != None:
+        cityname = args.writecity
+        burb = list(filter(lambda city: city.name == cityname, burbs))[0]
+        with open(target + "/" + burb.name + ".md", 'w') as outfile:
+            burb.calculate()
+            outfile.write(burb.formatmd())
     else:
         parser.print_help()
 
