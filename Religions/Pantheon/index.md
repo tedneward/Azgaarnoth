@@ -1,7 +1,7 @@
 # The Pantheon / The "Old Gods"
 "The Pantheon" is the general label, alongside the slightly more derogatory "Old Gods", to refer to the pantheon of gods that are thought to have created the Eldar in the first place. The Pantheon of divinities are thought to be distantly observing the progress of the world, though whether in judgment or keen interest is not clear. The Gods have made no presence felt in Azgaarnoth in recorded history, although the clerics who worship them receive spells and (according to those clerics) guidance, suggesting that the Pantheon is every bit as real as the Eldar were (or are).
 
-Each member of the Pantheon has sway over one or more particular domains, and while some have a wide number of followers, others seem to be more obscure and only known to a few. While most of the Pantheon is fundamentally of a "good" cosmic perspective, whispers of "evil" gods are always present, and if these gods exist, their worshippers (and temples and ceremonies) are buried deep in society. This is not to say the evil gods do not exist--they simply are not worshipped openly. (Ugly rumors persist that the [Dread Emperor](../People/DreadEmperor.md) has offered a home to many of the darker or more evil Pantheonic religions, in exchange for their service to his throne, but nothing has been proven, and certainly the Dread Emperor himself will not say.) 
+Each member of the Pantheon has sway over one or more particular domains, and while some have a wide number of followers, others seem to be more obscure and only known to a few. While most of the Pantheon is fundamentally of a "good" cosmic perspective, whispers of "evil" gods are always present, and if these gods exist, their worshippers (and temples and ceremonies) are buried deep in society. This is not to say the evil gods do not exist--they simply are not worshipped openly. (Ugly rumors persist that the [Dread Emperor](../../People/DreadEmperor.md) has offered a home to many of the darker or more evil Pantheonic religions, in exchange for their service to his throne, but nothing has been proven, and certainly the Dread Emperor himself will not say.) 
 
 Among the known gods/goddesses of the Pantheon (and their associated domains) are:
 
@@ -11,10 +11,11 @@ Deity | Description |Alignment | Domains | Symbol
 ------|-------------|----------|---------|--------
 [Arawn](Arawn.md)|God of life and death|NE|Life, Death, Grave|Black star on gray background
 [Auril](Auril.md)|Goddess of winter|NE|Nature, Tempest, Water|Six-pointed snowflake
-[Azuth](Azuth.md)|God of wizards|LN|Arcana, Knowledge, ???|Left hand pointing upward, outlined in fire
+[Azuth](Azuth.md)|God of wizards|CG|Arcana, Knowledge, ???|Left hand pointing upward, outlined in fire
 [Bahamut](Bahamut.md)|Dragon god of good|LG|Dragon, Life, War|Dragon’s head in profile
-[Brigantia](Brigantia.md)|Goddess of rivers and livestock|NG|Life, Water, ???|Footbridge
-[Cat Lord](CatLord.md)|God of curiosity and lore ^1|CN|Trickery, Knowledge, Chaos, Cat|Cat's paw
+[Brigantia](Brigantia.md)|Goddess of rivers and livestock|NG|Arcana, Nature, Fertility, Water|Footbridge
+[Cat Lord](CatLord.md)|God of curiosity and lore ^1|CN|Trickery, Vengeance, Chaos, Cat|Cat's paw
+[Cyric](Cyric.md)|God of murder, lies, intrigue, deception|CE|Chaos, Destruction, Illusion|...
 [Daghdha](Daghda.md)|God of weather and crops|CG|Life, Nature, Trickery|Bubbling cauldron or shield
 [Diancecht](Diancecht.md)|God of medicine and healing|LG|Life, Protection, Healing|Crossed oak and mistletoe branches
 [Dunatis](Dunatis.md)|God of mountains and peaks|N|Earth, Forge, Nature|Red sun-capped mountain peak
@@ -52,4 +53,3 @@ Additionally, some of these gods are known beyond Azgaarnoth; this should not su
 Most Pantheon worship is decentralized, with scattered temples and buildings across Azgaarnoth, usually close to the physical expression of the god's domain. Some temples consist of the home of a cleric living within a village, or a concrete building attended by villagers on a regular basis; it depends greatly on the domain, the cleric, and the village.
 
 Becoming a cleric of a Pantheon god (often known as being a "Patheonite") is usually a matter of finding an existing cleric willing to take on an apprentice/acolyte, then engaging in study and worship, and if the god finds the individual worthy, that individual finds "the god's voice" and hears the call of the god's wishes for the future.
-
