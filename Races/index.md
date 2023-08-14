@@ -60,7 +60,7 @@ That tieflings are a Created race is also clear and unmistakable--where the myst
 ## Hordes
 Legend holds that the Hordes descended upon Azgaarnoth from "someplace else", but from there the legends vary wildly as to the origin of the massive numbers of humanoids that sought to take Azgaarnoth by force from the Eldar. The Hordes have always been here, according to the Hordes, and if you ask any of them, they will be here long after Firstborn, humans and Created die off. Hordish society is generally more loose-knit than human or Firstborn, but within the last milennia the Hordes appear to be learning lessons about the benefits of civilization, and many are looking for ways to live in greater sense of peace and harmony than before.
 
-### [Bugbears](Bugbears.md)
+### [Bugbears](Bugbear.md)
 Given their innate (and impressive) laziness, it's a wonder that any bugbears ever made their way through the sky to set foot on Azgaarnoth. That said, most bugbears chose to remain faithful to the "Old Ways", and as a result the highest concentration of them is in [Ulm](../Nations/Ulm.md), at least when they're not leading troops into [Dradehalia](../Nations/Dradehalia.md).
 
 ### [Centaurs](Centaurs.md)
@@ -82,7 +82,7 @@ Lizardfolk are populous in the marshes around [Mudhear](../Cities/Mudhear.md), a
 Kenku are found anywhere in Azgaarnoth, though sparingly.
 
 ### [Kobolds](Kobold.md)
-Kobolds are thought to be the remnants of the first experiments of the [Eldar](Eldar.md) to create [dragonborn](index.md#created), but saying such to any dragonborn is insulting and typically grounds for feud or duel. Nevertheless, the shared draconic lineage between kobold and dragonborn is hard to miss, and some scholars believe that at some point, there was some shared history of the two races.
+Kobolds are thought to be the remnants of the first experiments of the [Eldar](../History/Eldar.md) to create [dragonborn](index.md#created), but saying such to any dragonborn is insulting and typically grounds for feud or duel. Nevertheless, the shared draconic lineage between kobold and dragonborn is hard to miss, and some scholars believe that at some point, there was some shared history of the two races.
 
 ### [Minotaurs](Minotaurs.md)
 Minotaurs are found among the lands of the Hordes ([Ulm](../Nations/Ulm.md) and [Tragekia](../Nations/Tragekia.md)), as well as in the wilds of [North Bedia](../Nations/Bedia.md). Minotaurs may be of any alignment, and can expect suspicion when moving around in any of the other lands beyond the Hordeslands.

@@ -22,6 +22,7 @@ Each abishai was once a mortal who somehow won Tiamat’s favor before death and
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14(+2) |17(+3) |14(+2) |13(+1) |16(+3) |11(+0)|
+>
 >___
 >- **Saving Throws** Dex +6, Wis +6
 >- **Damage Immunities** acid, fire, poison
@@ -202,7 +203,8 @@ Each abishai was once a mortal who somehow won Tiamat’s favor before death and
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|16(+3) |11(+0) |18(+4) |11(+0) |12(+1) |13(+1)|
+>|16(+3)|11(+0)|18(+4)|11(+0)|12(+1)|13(+1)|
+>
 >___
 >- **Saving Throws** Str +6, Con +7
 >- **Damage Immunities** cold, fire, poison

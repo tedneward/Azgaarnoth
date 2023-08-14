@@ -1,7 +1,7 @@
 # Sorcerous Origin: Giant Soul
 The giants once dwelled in a fabled realm known as Ostoria, a paradise for their folk that reflected their mastery of the mortal realm. In time, Ostoria fell, and the giants were scattered and broken. During that mythic era, the giants granted a few chosen individuals among the small folk a shard of their great power. These favored people were caught in the same tragedy that sundered Ostoria. Since that time, they have spread across the many worlds of the multiverse. Now and again, one of their descendants manifests the gifts imparted by the giants, granting them sorcerous magic that allows them to command the elements and gain the might of a giant.
 
-(The giants speak of "Ostoria", but a few scholars understand that the root giantish word, "ostor", is a synonym for "old" or "elderly", leading many to wonder if the word isn't actually referring to the lands ruled by the ancient giants--which could, in some circles, suggest that the giants are, or are of the descendants of, the fallen [Eldar](/Races/Eldar.md).)
+(The giants speak of "Ostoria", but a few scholars understand that the root giantish word, "ostor", is a synonym for "old" or "elderly", leading many to wonder if the word isn't actually referring to the lands ruled by the ancient giants--which could, in some circles, suggest that the giants are, or are of the descendants of, the fallen [Eldar](../../History/Eldar.md).)
 
 ## Jotun Resilience
 The resilience of giants flows through your body. At 1st level, your hit point maximum increases by 1, and it increases by 1 again whenever you gain a level in this class.

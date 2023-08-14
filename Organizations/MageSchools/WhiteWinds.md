@@ -14,7 +14,7 @@ White Winds magi can usually be found in almost every city in Azgaarnoth, partic
 ## Membership
 Any arcane-using creature is welcome at a White Winds school, as either student or instructor, and membership in the school usually requires only an application form, brief interview, and demonstration of arcane skill (at any level). If offered, membership in the school requires annual fees, and periodic participation in some aspect of the school: research, instruction, or artifice. Research is both the creation of new spells as well as deepening the understanding of the world; instruction is as it sounds, teaching subjects to students about some aspect of arcane (or even divine) magic; artifice is the construction of various magical items that are then sold from the school through many of the merchant guilds with which the White Winds has connections and contracts. (Most common magic items found in Azgaarnoth are of White Winds manufacture, in fact.)
 
-White Winds was the first to develop the [Arcanist](/Classes/Wizard/Arcanist.md) arcane tradition, and theirs is one of the deepest spellpools in Azgaarnoth, reducing the DC for the Spellpool trait by 5. (It is also rumored that the White Winds spellpool holds a copy of every spell ever prepared in Azgaarnoth, but this the White Winds Adepts will neither confirm nor deny.)
+White Winds was the first to develop the [Arcanist](../../Classes/Wizard/Arcanist.md) arcane tradition, and theirs is one of the deepest spellpools in Azgaarnoth, reducing the DC for the Spellpool trait by 5. (It is also rumored that the White Winds spellpool holds a copy of every spell ever prepared in Azgaarnoth, but this the White Winds Adepts will neither confirm nor deny.)
 
 ## Tendencies
 
