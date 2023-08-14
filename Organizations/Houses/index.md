@@ -1,4 +1,5 @@
-# Houses of nobility / Noble Houses
+# Houses of nobility / Noble Houses / "Great Houses"
+A noble family is considered a Noble House if it has held some office of authority within a city for more than three generations; it is a Great House if it has done so across more than three cities for that same span.
 
 ## Relationships
 Many noble Houses over the centuries have found that close ties with a Guild can help offset the nobility's constant hunger for currency to finance their operations, and so often marry second or third sons or daughters into a Guild. This doesn't always guarantee that Guilds will finance House operations, or that Guilds will be able to influence court activities, but it does guarantee that the Great Game takes on vastly new dimensions across Houses and Guilds.

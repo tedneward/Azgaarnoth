@@ -117,7 +117,7 @@ Skilled at mimicry and dramatics, you gain the following benefits:
 
 
 ## Adept of the Mage School
-*Prerequisite: 4th Level, [Arcanist feat](#arcanist), member of [a mage school](../Organizations/MageSchools/MageSchools.md)*
+*Prerequisite: 4th Level, [Arcanist feat](#arcanist), member of [a mage school](../Organizations/MageSchools/index.md)*
 
 Your ambition and loyalty to the school has been recognized, granting you these benefits:
 
@@ -180,7 +180,7 @@ You study the arcane arts, gaining the following benefits:
 * You gain proficiency in the Arcana skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * You learn the [prestidigitation](../Magic/Spells/prestidigitation.md) and [detect magic](../Magic/Spells/detect-magic.md) spells. You can cast [detect magic](../Magic/Spells/detect-magic.md) once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
 
-Note that if you choose to be a member of a [Mage School](../Organizations/MageSchools/MageSchools.md), your cantrip and 1st-level spell may vary, according to the DM.
+Note that if you choose to be a member of a [Mage School](../Organizations/MageSchools/index.md), your cantrip and 1st-level spell may vary, according to the DM.
 
 
 ## Artificer Initiate

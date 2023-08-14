@@ -25,6 +25,6 @@ Seafolk Defenders often prey on [Merchant Guild](/Organizations/MerchantGuilds/M
 
 [Rogues Guilds](/Organizations/RoguesGuilds/RoguesGuilds.md), on the other hand, find themselves in a natural position of partnership with the Defenders--the Merfolk often want to disrupt seaborne shipping, and most rogues in the area are happy to comply with a few of the Defenders' superstitions and pay lip service to the goals and aims of the Defenders if it will yield up much cargo for little work.
 
-Most [Mage Schools](/Organizations/MageSchools/MageSchools.md) have little to nothing to do with the Defenders; likewise most [Monastic Orders](/Organizations/MonasticOrders/MonasticOrders.md), except where either has specific interest in the seas (such as the [Five Elements](/Organizations/MageSchools/FiveElements.md) mage school, for example).
+Most [Mage Schools](/Organizations/MageSchools/index.md) have little to nothing to do with the Defenders; likewise most [Monastic Orders](/Organizations/MonasticOrders/MonasticOrders.md), except where either has specific interest in the seas (such as the [Five Elements](/Organizations/MageSchools/FiveElements.md) mage school, for example).
 
 The Seafolk Defenders try very hard to remain unnoticed by the [Draconic Order](/Organizations/DraconicOrder/DraconicOrder.md), thinking (correctly) that the Dragon Knights would find the Defenders' divine assumption of worldly control to be in conflict with Draconic ideals.

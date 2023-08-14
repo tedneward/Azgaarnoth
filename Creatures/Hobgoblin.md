@@ -357,7 +357,7 @@ Other cultures might view the use of such Abilities as a short cut to glory, but
 
 The Academy of Devastation believes that an academic approach to magic is a sign of weakness and inefficiency. A Warrior doesn’t Need to Know about metallurgy to wield a blade, so why should a Wizard care about where magic comes from? Devastators love to prove their superiority in battle by seeking out enemy spellcasters and destroying them.
 
-If they survive long enough, Devastators usually end up looking to join one of the Evocation-friendly [Mage Schools](../Organizations/MageSchools/MageSchools.md) to further their education, and return to their Legion even more frightening and powerful.
+If they survive long enough, Devastators usually end up looking to join one of the Evocation-friendly [Mage Schools](../Organizations/MageSchools/index.md) to further their education, and return to their Legion even more frightening and powerful.
 
 ---
 

@@ -4,10 +4,10 @@ The races of Azgaarnoth are almost all, in some way or another, tied to the anci
 ## Firstborn
 These are called such because they are those born of the Eldar themselves, created for the Eldar's own reasons well back in the deepest recesses of Azgaarnoth's history. The Firstborn include the dwarves (and their cousins, the gnomes and halflings) and the elves (and their respective offshoots as well). Each was given a different part of the world to caretake, and all became involved in the war against the Hordes when they arrived. The Eldar's Dragon companions later sought to aid the Firstborn by bestowing the [Dragonmark](Dragonmarked.md) upon several, which turned out (intentional or otherwise) to be something that could be passed down through generations to both Firstborn and humans.
 
-### [Elves](Elves.md)
+### [Elves](Elves/index.md)
 Elves stand as the inheritors of the legacy of the Eldar, but owing to their long lifespans and slow reproductive rates, have more or less chosen to surrender this world into the hands of the humans that have slowly come to outnumber them. Elves have long since wandered to every corner of Azgaarnoth, and learned how to adapt to any environment, usually seeking to live in some semblance of harmony with the environment around them, but elves have long since become comfortable with human cities. Elves are almost as diverse as humans in their occupations, entertainments, and while most elves have a strong familial tie between them, numerous elves have wandered away from home to make their mark within the world, then to return and take up familial responsibilities. Elves revere their familial ancestors, and will often have a shrine to a favored ancestor, but elves do not see their familial ancestors as gods, and many elves are quite comfortable serving in a religious order even as they put offerings to their revered ancestors out on important holidays.
 
-### [Dwarves](Dwarves.md)
+### [Dwarves](Dwarves/index.md)
 Dwarves, for the most part, have found, after the Exodus and several attempted Returns, that they care less about governance and governments as they do mining, craftwork, and trade. The ancient dwarvish clan gave rise to the modern merchant guild, and today most dwarvish clans are organized as merchant guilds (rather than kingdoms), giving them access across national boundaries. This suits the dwarves fine, who for the most part eschew the politics that have kept Liria and its neighbors embroiled for many years. Individual dwarves are welcome in mercenary companies, militant orders, and religious halls, particularly those who have either left or been cast out of clan-and-guild, but returns to clan-and-guild after a long career are commonplace, particularly if the returning dwarf brings opportunities for trade. Dwarves have reached a point where the sense of "clan" is built around the guild, and dwarves choosing to leave one guild to join another are not uncommon; for the modern dwarf, guild ties are stronger than familial ties in most cases.
 
 ### [Gnomes](Gnomes.md)
@@ -45,7 +45,7 @@ A dragonmark is a mystic sigil that appears on the skin. The mark is a source of
 ### [Genasi](Genasi.md)
 The elemental genasi are thought to be Created, though the Eldars' reasons for doing so aren't entirely clear; if the Created were intended to be the Eldars' final weapons against the Hordes, the genasi were not a succesful effort, since the genasi in general show no animosity to the Hordes whatsoever. It is also theorized that the genasi were, in fact, retribution from beings of other planes, demonstrating to the Eldar that others, too, could meddle with the people of Azgaarnoth.
 
-### [Half-Dragons](Halves.md)
+### [Half-Dragons](Half-Dragons.md)
 Half-dragons are entirely rare in the world, if they even exist at all. Most of those known half-dragons, at least through history, have been the product of a chromatic dragon and a mortal, and have had violent stories attached to them. It is not known whether metallic dragons do not have children by mortals; if they do, they clearly seek to keep them more well-hidden or remote. Chromatic half-dragons are often found amongst the Hordes, and often as part of the [Ulmhorde](../Nations/Ulm.md) in recent years.
 
 ### [Reborn](Reborn.md)
@@ -95,19 +95,16 @@ Orcs and goblins make up the mainstay of the Hordes populations, and are most co
 
 Despite the racial stereotype, orcs are no more prone to brutish violence than humans or other mortals. They are not as common in the west as they are in the east, but enough of them have migrated out of the Hordeslands that they are not rare.
 
-### [Half-orcs](Halves.md)
+### [Half-orcs](Half-Orcs.md)
 While many half-orcs are found in Hordes lands ([Tragekia](../Nations/Tragekia.md) and [Ulm](../Nations/Ulm.md)) as the children of orcs and captured humans, many more are found in [Yithi](../Nations/Yithi.md) and [Zhi](../Nations/Zhi.md) as the result of much more stable (and less violent) relationships, and still more are found all across Azgaarnoth by this point. It appears that the half-orc genetic trait breeds true: if two half-orcs have children, their child is a half-orc (and not a "true" human or "true" orc, except rarely).
 
-Despite the racial stereotype, half-orcs are no more prone to brutish violence or thuggery than humans or any of the Firstborn. In fact, some of the sharpest instructors in magic are half-orcs at the various [Mage Schools](../Organizations/MageSchools/MageSchools.md).
+Despite the racial stereotype, half-orcs are no more prone to brutish violence or thuggery than humans or any of the Firstborn. In fact, some of the sharpest instructors in magic are half-orcs at the various [Mage Schools](../Organizations/MageSchools/index.md).
 
-### Trolls
-(Playable race?)
-
-### [Yuan-ti Pureblood](http://dnd5e.wikidot.com/yuan-ti)
+### [Yuan-ti Pureblood](YuanTi.md)
 These are exceedingly rare, and (openly) found only in the deepest parts of [Zhi](../Nations/Zhi.md). It is thought that some yuan-ti have taken up with the lizardfolk in the marshes around [Mudhear](../Cities/Mudhear.md), but there is no clear answer.
 
 
-## Underdark
+## [Underdark](../Geography/Underdark.md)
 Many races inhabit the deep cavern systems that burrow throughout the continent, collectively known as the "Underdark".
 
 * [Rock Gnomes](Gnomes.md#rock-gnomes)
@@ -119,11 +116,9 @@ Many races inhabit the deep cavern systems that burrow throughout the continent,
 * [Hobgoblins](Hobgoblin.md)
 * [Orcs](Orc.md)
 * [Kobolds](Kobold.md)
-* Kuo-Toa?
-* others?
 
 
-## Undersea
+## [Undersea](../Geography/Undersea.md)
 Within the last few centuries, scholars have begun to seek opportunities to explore this more deeply, and many are convinced that there is just as widespread a civilization and political system under the surface of the water as there is above it. This is collectively referred to as the "Undersea", and not much is known about it to the Abovesea.
 
 Although the total population of the Undersea is not known, it is thought to be at least approaching that of the Abovesea, though with a much lower population density (since there is much more sea in which to live than land). Some scholars postulate that the increased presence of Undersea races is due to a population "crunch" beneath the waves, leading some Undersea tribes, clans, or families to consider live closer to, or even on, the shore.
@@ -138,4 +133,4 @@ The fabled siren, once thought to be mindless predators luring ships to their do
 Seafarers have reported encountering tortle in various places all throughout the Deepwaters and oceans, but it's never been clear if they maintain a civilization, cities, or just nomadic bands.
 
 ### [Triton](Tritons.md)
-Likewise, tritons have become more and more visible to the Abovesea folk. Their relationship with the tortle is not clear, but it does appear that tritons are on good terms with [sea elves](/Races/Elves.md). They also seem to have some sort of trade relationships with [lizardfolk](/Races/Lizardfolk.md) and [yuan-ti](/Races/YuanTi.md).
+Likewise, tritons have become more and more visible to the Abovesea folk. Their relationship with the tortle is not clear, but it does appear that tritons are on good terms with [sea elves](Elves/Sea.md). They also seem to have some trade relationships with [lizardfolk](Lizardfolk.md) and [yuan-ti](YuanTi.md).
