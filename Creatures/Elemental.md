@@ -21,7 +21,7 @@ The elemental planes of water, earth, fire, and air align on planar borders; whe
 
 The strength of the magic and materials that bind an elemental determines how well the elemental functions in a bound form. Golems are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can’t bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely.
 
-> Jump to: [Invisible Stalker](#invisible-stalker) | [Sand Assassin](#sand-assassin)
+> Jump to: [Invisible Stalker](#invisible-stalker) | [Magmin](#magmin) | [Sand Assassin](#sand-assassin)
 
 ---
 
@@ -161,6 +161,45 @@ Anything that touches an magma elemental is magically scalded by an intense burn
 >***Smash.*** Melee Weapon Attack: +8 to hit, reach 10ft., one creature. Hit: 16 (2d 10 + 5) bludgeoning damage plus 21 (6d6) fire damage, and the target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is not flying, on a hit or a miss, the area of ground in a 15-foot diameter circle centered beneath the target becomes filled with lava. The area is difficult terrain for the next 10 minutes, and any creature who enters the area or ends its turn there takes 21 (6d6) fire damage.
 >
 >***Meteor Breath.*** The elemental spews tiny chunks of burning stone. Each creature in a 10-foot radius sphere centered on a point within 60 feet of the elemental must make a DC 16 Dexterity saving throw. On a failure, a target takes 10 (3d6) bludgeoning damage plus 10 (3d6) fire damage, or half as much damage on a success. Each object within the area that isn't being held or carried also takes full damage, and is ignited if it is flammable.
+
+---
+
+## Magmin
+A grinning, mischievous magmin resembles a stumpy humanoid sculpted from a black shell of magma. Even when it isn’t ablaze and radiating heat like a bonfire, small jets of flame erupt from its porous skin.
+
+![](Elemental-Magmin.png)
+
+***Summoned Pyromaniacs.*** Magmins are fire elemental essence bound into physical form by magic, and they appear in the Material Plane only when summoned. It takes little time for them to develop personalities, and those personalities tend to be pyromaniacal. They view flammable objects as kindling for a grand conflagration, and only the magical control exerted by their summoners keeps them from setting everything they touch ablaze. Their propensity for fire and havoc makes them ideal for spreading chaos and destruction. A mob of magmins summoned inside a castle can reduce it to a burning shell within minutes.
+
+***Fiery Destruction.*** Although its flame is potent, the magmin’s hard magma shell prevents it from instantly igniting everything it comes into contact with. However, like the fires inside them, magmins are capricious and unpredictable. Moreover, as simple elemental creations, they are oblivious to the harm their native element causes creatures of the Material Plane.
+
+If it has the opportunity while in service to its master, a magmin seeks out areas of great heat, such as forest fires or the bubbling magma of an active volcano. At other times, a magmin compulsively looses fire from its fingertips, delighting in setting objects ablaze.
+
+>## Magmin
+>*Small elemental, chaotic neutral*
+>___
+>- **Armor Class** 14 (natural armor)
+>- **Hit Points** 9 (2d6 + 2)
+>- **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|7 (−2) | 15 (+2) | 12 (+1) | 8 (−1) | 11 (+0) | 10 (+0)|
+>___
+>- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Damage Immunities** fire
+>- **Senses** darkvision 60 ft., passive Perception 10
+>- **Languages** Ignan
+>- **Challenge** 1/2 (100 XP)
+>___
+>***Feature.***   
+>
+>***Death Burst.*** When the magmin dies, it explodes in a burst of fire and magma. Each creature within 10 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. Flammable objects that aren’t being worn or carried in that area are ignited.
+>
+>***Ignited Illumination.*** As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+>
+>### Actions
+>***Touch.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the creature takes 3 (1d6) fire damage at the end of each of its turns.
 
 ---
 

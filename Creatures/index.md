@@ -29,6 +29,8 @@ These creatures are found in various places across the map. Over time, all these
 ## L
 
 ## M
+- [Magmin](Elemental.md#magmin)
+- [Mephit](Mephit.md)
 
 ## N
 
@@ -87,8 +89,3 @@ General description
 >***Feature.***   
 >
 >### Actions
->***Multiattack.*** The magen makes two melee attacks.  
->
->***Greatsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage.  
->
->***Light Crossbow.*** *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
