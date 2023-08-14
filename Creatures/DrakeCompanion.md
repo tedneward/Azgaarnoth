@@ -1,7 +1,7 @@
 # Drake Companion
 *Small dragon*
 
-> ***NOTE:*** The "PB" is the summoning [Drakewarden Ranger's](/Classes/Ranger/Drakewarden.md) proficiency bonus.
+> ***NOTE:*** The "PB" is the summoning [Drakewarden Ranger's](../Classes/Ranger/Drakewarden.md) proficiency bonus.
 
 **Armor Class** 14 + PB (natural armor)
 

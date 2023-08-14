@@ -3,7 +3,7 @@
 
 The forging of a pact between a warlock and a patron is no minor occasion — at least not for the warlock. The consequences of breaking that pact can be dire and, in some cases, lethal. A warlock who fails to live up to a bargain with an evil patron runs the risk of rising from the dead as a deathlock, a foul undead driven to serve its otherworldly patron from beyond the grave.
 
-> Jump to: [Deathlock Warlock](#deathlock-warlock) [Deathlock Mastermind](#deathlock-mastermind) [Deathlock Wight](#deathlock-wight)
+> Jump to: [Deathlock Warlock](#deathlock-warlock) | [Deathlock Mastermind](#deathlock-mastermind) | [Deathlock Wight](#deathlock-wight)
 
 An extraordinarily powerful necromancer might also discover the dark methods of creating a deathlock and then bind it to service, acting in this respect as the deathlock’s patron.
 
