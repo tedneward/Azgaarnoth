@@ -1,4 +1,4 @@
-# Martial Order: Seafolk Defenders
+# Militant Order: Seafolk Defenders
 *(~2,500 fighters, paladins, and clerics)*
 
 Among those of the Undersea, Seafolk Defenders constitute a sub-group which splintered off from ordinary merfolk based on their uniquely religious fervor and unusually hostile attitude toward land-dwelling creatures. Seafolk Defenders see themselves as defenders of the primal power of the water gods, and believe the gods of the other elements - particularly those of the earth - constantly seek to destroy the water gods and everything they created. Therefore, they hate and fear land-based creatures instinctively, and are more than likely to attack any they come across on sight. 

@@ -1,5 +1,7 @@
 # Pantheon: Arawn
-Arawn was given governance of the underworld when his sister [Brigantia](Brigantia.md) came into the fullness of her being. When [Gruumsh](Gruumsh.md) killed her husband [Azuth](Azuth.md), he swore his help to [Brigantia](Brigantia.md), and journeyed with her and frequently helped her avoid the snares of the Land of the Dead. His countenance may be dour and gloomy, but death, in his view, is simply the last stage of life, and something to be considered a reward for service, not a place of fear and punishment.
+*The Lord of Death, the Silent One, the Grim Reaper*
+
+Arawn was given governance of the underworld when his sister [Brigantia](Brigantia.md) came into the fullness of her being. When [Gruumsh](Gruumsh.md) killed her husband [Azuth](Azuth.md), he swore his help to [Brigantia](Brigantia.md), and journeyed with her and frequently helped her avoid the snares of the Land of the Dead. His countenance may be dour and gloomy, but death, in his view, is simply the last stage of life, and something to be considered a reward for service, not a place of fear and punishment. His aspect as the "grim reaper" is that of carrying out an obligation in the natural cycle of life, looking to ease the departed into the afterlife.
 
 ## Clerical details
 Domains: [Life](../../Classes/Cleric/Life.md), [Death](../../Classes/Cleric/Death.md), [Grave](../../Classes/Cleric/Grave.md)
@@ -26,6 +28,4 @@ Arawn's temples typically celebrate no festivals, as few wish to be reminded of 
 
 ## Dogma
 Unlike some deities whose portfolio includes death, Arawn is not particularly malicious or hateful toward the mortals whose souls come to his realm. Death, he teaches, is the lot of all mortals, the thing that sets them apart from deities, and it must be accepted even if it brings grief. Arawn also sees no opposition in life, and often works to help those who died "before their time" to return to life to fulfill their destinies.
-
-## Appearance, Manifestations
 

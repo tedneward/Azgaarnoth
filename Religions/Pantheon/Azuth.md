@@ -1,4 +1,6 @@
 # Pantheon: Azuth
+*The High One, Patron of Mages, Lord of Spells*
+
 Azuth, the Lord of Spells, is the god of wizards and mages and to a much lesser degree, all spellcasters. Azuth is [Brigantia](Brigantia.md)'s husband, friend, and advisor. She took on his aspect of Arcana when he was killed by [Gruumsh](./Gruumsh.md). He took the domain back when she raised him back to life, but shares it with his divine wife. Some of his time in death changed him, however, and much of his aspect took on the unpredictability of chaos.
 
 ## Clerical details
@@ -42,5 +44,3 @@ The Azuthian church has seen the formation of two sects:
 ## Dogma
 Reason is the best way to approach magic, and magic can be examined and reduced to its component parts through study and meditation. Maintain calm and use caution in your spellcasting and magic use to avoid making mistakes that even magic cannot undo. Use the art wisely, and always be mindful of when it is best not to use magic. Teach the wielding of magic and dispense learning throughout Azgaarnoth that the use and knowledge of magic may spread. Live and teach the idea that with magical power comes grave responsibility. Learn every new spell you discover and make a copy for the temple library. Do not hoard your knowledge, and encourage creativity in magic in all ways and at all times. Always be vigilant for the ever-creeping chance that spell-madness can create.
 
-## Appearance, Manifestations
-The Lord of Spells often appears as an elderly man with a long, white beard garbed in antique clothes and wielding a gem-topped staff. He often comes across as crotchety and cantankerous, even to other gods, and is often somewhat misunderstood. His dry wit and unending devotion to the pursuit of the arcane rubbed others the wrong way. Periodically, however, his crotchety and cantankerous nature would give way to a moment of madness, leaving others around him even more guarded about his motives.

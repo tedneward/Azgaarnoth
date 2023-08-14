@@ -1,4 +1,4 @@
-# Knights of the Dread Order
+# Militant Order: The Knights of Dread
 
 The Knights of the Dread Order, or the Knights of the Dradehalian Order as they were originally known, are a militant order of individuals dedicated first to the survival, then to the aims, of the Dread Emperor of Dradehalia. They span all classes, and include most of the races of Azgaarnoth, with careful exception of any of the traditionally Hordish races--no Orc-kin, no Goblin-kin, no Minotaurs, none of the races that have any degree of authority or power in any of the Hordes are allowed except by direct order of the Emperor. (The Dread Emperor has a few prejudices.)
 

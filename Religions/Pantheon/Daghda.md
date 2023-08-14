@@ -3,8 +3,10 @@
 
 Daghda is the goddess of the harvest and agriculture, presiding over grains and the fertility of the earth. She also presided over the sacred law, and the cycle of life and death. Her cult titles include Sito, "she of the Grain", as the giver of food or grain, and Thesmophoros, "Law-Bringer", as a mark of the civilized existence of agricultural society.
 
+Ironically, it is said that the first [hag covens](../../Creatures/Hag-Covens.md) were followers of Daghda, but corrupted over time by the steady influence of [Cyric](Cyric.md) until they were fully and irredeemably evil. Daghda's worshippers despise hags, as a result, and the hags often go out of their way to blaspheme their former god; many's a temple to Daghda that has been "converted" to the use of a hag coven.
+
 ## Clerical details
-Domains: Life, Nature, Trickery
+Domains: [Life](../../Classes/Cleric/Life.md), [Nature](../../Classes/Cleric/Nature.md), [Trickery](../../Classes/Cleric/Trickery.md)
 
 Weapon: 
 
@@ -28,6 +30,3 @@ Daghda's temples are widespread, and they range from elaborate structures to sim
 
 ## Dogma
 Daghda holds sway over the earth's yearly cycle of growth and decay. Farmers in particular revere her, offering special prayers and sacrifices to her at planting, throughout the growing season, and at harvest time. Daghda urges her followers to treat the earth with care and respect, and she dictates agricultural procedures to ensure the continued fertility of the soil, such as rotating crops and leaving fields fallow.
-
-## Appearance, Manifestations
-She appears as a motherly woman, draped in robes the color of vegetation: lush green in the spring and summer, gold in autumn, and brown or black in winter which is when she mourns for the natural world's retreat into the cold.

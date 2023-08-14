@@ -63,7 +63,3 @@ The most famous of Bahamut's orders is, of course, the [Draconic Order](../../Or
 ## Dogma
 Defend the weak and downtrodden against unjust attackers and those who take pleasure in harming the defenseless. Value life above all. Pride is necessary for any creature to be magnanimous; One has to believe in standards for themselves, and strive to surpass them, before standards can be applied to others.
 
-## Appearance, Manifestations
-In his natural form, Bahamut is a massive dragon (approx 180 feet long) with a tail the same length as his body, with platinum scales that glow with a faint blue sheen. Bahamut's catlike eyes are deep blue, as azure as a midsummer sky, some say. Others insist that Bahamut's eyes are a frosty indigo, like the heart of a glacier. Perhaps the colors merely reflect the Platinum Dragon's shifting mood.
-
-It is said that when he wished to wander the mortal world, he usually took the appearance of an old human or demihuman dressed in peasant robes accompanied by seven canaries. Some sages believe Bahamut uses this humanoid guise to not frighten non-dragon beings. They also believe that while Bahamut is fond of his old man guise, he has other guises as well. Other recorded guises included that of a prince with a carriage drawn by seven horses, an urchin accompanied by seven friends, and a beggar followed by seven dogs.

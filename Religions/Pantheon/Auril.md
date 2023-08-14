@@ -1,7 +1,7 @@
 # Pantheon: Auril
 *Frostmaiden, Icedawn, the Cold Goddess*
 
-Auril, also known as the Frostmaiden, is a deity of cold and evil. She is a fickle and vain deity, who is primarily venerated out of fear. She is worshipped mostly in northern Faerûn due to its cold climate, usually out of fear rather than adoration.
+Auril, also known as the Frostmaiden, is a deity of cold and evil. She is a fickle and vain deity, who is primarily venerated out of fear. She is worshipped mostly in southern Azgaarnoth due to its cold climate, and usually out of fear rather than adoration.
 
 Symbol: A white snowflake in a gray diamond (a heraldic lozenge) with a white border
 
@@ -44,5 +44,3 @@ Auril's church has no affiliated military or knightly orders. She is just not of
 ## Dogma
 Cover all the lands with ice. Quench fire wherever it is found. Let in the winds and the cold; cut down windbreaks and chop holes in walls and roofs that her breath may come in. Work darkness to hide the cursed sun so that the chill Auril brings may kill. Take the life of an arctic creature only in great need, but slay all others at will. Make all Faerûn fear the Frostmaiden. Revere the Cold Goddess and sing her praises into any chill breeze or winter wind. Do not raise your hand against any other cleric of Auril.
 
-## Appearance, Manifestations
-Auril often appears as a fit female with long white hair, and transparent skin made of ice. She often wears a long white flowing gown, adorned with diamonds or ice.

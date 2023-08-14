@@ -1,4 +1,4 @@
-# The Draconic Orders
+# Militant Order: The Draconic Orders
 *(~25,000 members, all classes)*
 
 The Draconic Orders were formed ages ago as a quasi-religious, -arcane, and -militant organization seeking to wrest order from the chaos and evil they saw in the world. Each Order is built around a different metallic dragon and their characteristics, and the members of each Order seek to make the world a safer, more civilized place, each in their own way.

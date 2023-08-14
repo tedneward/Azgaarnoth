@@ -6,23 +6,15 @@ However, some gods of cold seek to bring the world to a complete stop--to enmesh
 ## Domain Spells
 You gain domain spells at the cleric levels listed in the Cold Domain Spells table. See the Divine Domain class feature for how domain spells work.
 
-Cold Domain Spells
-CLERIC LEVEL	SPELLS
-1st	armor of agathys, ice knife
-3rd	gust of wind, snilloc’s snowball swarm
-5th	sleet storm, slow
-7th	control water, ice storm
-9th	cone of cold, maelstrom
-
 **Cold Domain Spells**
 
 Cleric Level | Spells
 ------------ | ------
-1st	| 
-3rd	| 
-5th	| 
-7th	| 
-9th	| 
+1st	| [armor of agathys](../../Magic/Spells/armor-of-agathys.md), [ice knife](../../Magic/Spells/ice-knife.md)
+3rd	| [frost backlash](../../Magic/Spells/frost-backlash.md), [snilloc’s snowball swarm](../../Magic/Spells/snillocs-snowball-storm.md)
+5th	| [sleet storm](../../Magic/Spells/sleet-storm.md), [frost armor](../../Magic/Spells/frost-armor.md)
+7th	| [ice storm](../../Magic/Spells/ice-storm.md), [orb of cold](../../Magic/Spells/orb-of-cold.md)
+9th	| [cone of cold](../../Magic/Spells/cone-of-cold.md), [consume flame](../../Magic/Spells/consume-flame.md)
 
 ## Bonus Cantrip
 When you choose this domain at 1st level, you gain the frostbite cantrip. 

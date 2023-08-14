@@ -1,4 +1,4 @@
-# Orgnization: Marshals
+# Militant Order: Marshals
 *(~10,000 of all different classes; no restrictions)*
 
 The Marshals are individuals that roam Yithi and Zhi (and sometimes further) offering a traveling system of justice to the outlying villages. A Marshal's visitation is often a time of quiet celebration, as long-standing civil disputes can be adjudicated, wrongs can be fixed, and pleas can be carried to the provincial capital or even the Council of Seers themselves. Marshals answer only to their own organization, which is operated directly by the Prince's Council, and act as an important check on the power that might be used for corrupt purposes by less-honorable tribal leaders. A Marshal's report is given great weight, and many a Chieftain has faced eviction or even conviction based on the word of a Marshal alone.
