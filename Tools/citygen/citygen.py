@@ -35,48 +35,67 @@ def namegen(which):
         'Compact', 'Company', 'Pact', 'Dragoons', 'Knights'
     ]
     if which == 'roguesguild':
-        prefixes = ['Order of the', 'Council of the']
-        descriptors = [
-            'Mercury', 'Night', 'Midnight', 'Raven', 'Grey', 'Fire', 'Dusk',
-            'Nightshade', 'Reviled', 'Umbral', 'Stained', "Butcher's", 'Cursed',
-            'Long', 'Crow',
-        ]
-        nouns = [
-            'Blades', 'Knives', 'Star', 'Consortium', 'Syndicate', 'Cabal', 'Court',
-            'Daggers', 'Gang', 'Boys', 'Hand', 'Coil', 'Alliance', 'Maggots', 'Rats'
-        ]
-        desc = descriptors[random.randint(0, len(descriptors)-1)] + ' ' + nouns[random.randint(0, len(nouns)-1)]
-        if random.randint(0, 100) > 75:
-            desc = prefixes[random.randint(0, len(prefixes)-1)] + ' ' + desc
-        return desc
+        if random.randint(0,100) > 50:
+            guilds = os.listdir('../../Organizations/RoguesGuilds')
+            guilds.remove('index.md')
+            guild = open('../../Organizations/RoguesGuilds/' + guilds[random.randint(0, len(guilds)-1)], 'r').readlines()[0][len('# Rogues Guild: '):-1]
+            return guild
+        else:
+            prefixes = ['Order of the', 'Council of the']
+            descriptors = [
+                'Mercury', 'Night', 'Midnight', 'Raven', 'Grey', 'Fire', 'Dusk',
+                'Nightshade', 'Reviled', 'Umbral', 'Stained', "Butcher's", 'Cursed',
+                'Long', 'Crow',
+            ]
+            nouns = [
+                'Blades', 'Knives', 'Star', 'Consortium', 'Syndicate', 'Cabal', 'Court',
+                'Daggers', 'Gang', 'Boys', 'Hand', 'Coil', 'Alliance', 'Maggots', 'Rats'
+            ]
+            desc = descriptors[random.randint(0, len(descriptors)-1)] + ' ' + nouns[random.randint(0, len(nouns))]
+            if random.randint(0, 100) > 75:
+                desc = prefixes[random.randint(0, len(prefixes)-1)] + ' ' + desc
+            return desc
     elif which == 'mageschool':
-        descriptors = [
-            'Infinite', 'Miasmal', 'Nonesuch', 'Crystallic', 'Celestial', 'Spiral', 
-            'Crimson', 'Silent', 'Bronze', 'Colossal', 'Elemental', 'Gilded',
-            'Shimmering', 'Eldritch', 'Immaculate', 'Fey', 'Astral', 'Chaos',
-            'Enduring', 'Everlasting'
-        ]
-        nouns = [
-            'Cylinder', 'Minaret', 'Monument', 'Pylon', 'Tower', 'Spire', 'Turret', 
-            'Column', 'Obelisk', 'Rock', 'Eye', 'Tome'
-        ]
-        descriptor = descriptors[random.randint(0, len(descriptors)-1)]
-        noun = nouns[random.randint(0, len(nouns)-1)]
-        return descriptor + ' ' + noun
+        if random.randint(0, 100) > 60:
+            schools = os.listdir('../../Organizations/MageSchools')
+            schools.remove('index.md')
+            school = open('../../Organizations/MageSchools/' + schools[random.randint(0, len(schools))], 'r').readlines()[0][len('# Mage School: '):-1]
+            return school
+        else:
+            descriptors = [
+                'Infinite', 'Miasmal', 'Nonesuch', 'Chthonic', 'Celestial', 'Spiral', 
+                'Crimson', 'Silent', 'Bronze', 'Colossal', 'Elemental', 'Gilded',
+                'Shimmering', 'Eldritch', 'Immaculate', 'Fey', 'Astral', 'Chaos',
+                'Enduring', 'Everlasting'
+            ]
+            nouns = [
+                'Cylinder', 'Minaret', 'Monument', 'Pylon', 'Tower', 'Spire', 'Turret', 
+                'Column', 'Obelisk', 'Rock', 'Eye', 'Tome'
+            ]
+            descriptor = descriptors[random.randint(0, len(descriptors)-1)]
+            noun = nouns[random.randint(0, len(nouns)-1)]
+            return descriptor + ' ' + noun
     elif which == 'bardiccollege':
         return "**BARDIC COLLEGE**"
     elif which == 'duelingcollege':
         return "**DUELING COLLEGE**"
     elif which == 'merchantguild':
-        return organizations[random.randint(0, len(organizations)-1)]
+        if random.randint(0, 100) > 60:
+            guilds = os.listdir('../../Organizations/MerchantGuilds')
+            guilds.remove('index.md')
+            guild = open('../../Organizations/MerchantGuilds/' + guilds[random.randint(0, len(guilds)-1)], 'r').readlines()[0][len('# Merchant Guild: '):-1]
+            return guild
+        else:
+            organizations = [
+                'Compact', 'Company', 'Pact', 'Guild'
+            ]
+            return "**MERCHANT GUILD**"
     elif which == 'mercenarycompany':
         if random.randint(0, 100) > 50:
-            names = [ '**TODO**' ]
-            collectives = [
-                'Reavers', 'Scoundrels', 'Devils', 'Demons', 'Knights', 'Dragoons',
-                'Cavaliers', 'Warriors', 'Raptors', 'Avengers', 'Angels', 'Brutes'
-            ]
-            return names[random.randint(0, len(names)-1)] + "'s " + collectives[random.randint(0, len(collectives)-1)]
+            mercs = os.listdir('../../Organizations/MercenaryCompanies')
+            mercs.remove('index.md')
+            merc = open('../../Organizations/MercenaryCompanies/' + mercs[random.randint(0, len(mercs)-1)], 'r').readlines()[0][len('# Mercenary Company: '):-1]
+            return merc
         else:
             descriptors = [
                 'Shining', 'Gleaming', 'Barking', 'Bright', 'Vorpal', 'Savage',
@@ -84,7 +103,11 @@ def namegen(which):
             weapons = [
                 'Axe', 'Knife', 'Swords', 'Blades', 'Dragoons', 'Dogs', 'Knights'
             ]
-        return descriptors[random.randint(0, len(descriptors)-1)] + ' ' + weapons[random.randint(0, len(weapons)-1)]
+            collective = [
+                'Reavers', 'Scoundrels', 'Devils', 'Demons', 'Knights', 'Dragoons',
+                'Cavaliers', 'Warriors', 'Raptors', ''
+            ]
+            return "**MERC COMPANY**"
     elif which == 'monasticorder':
         modifiers = [
             'Tranquil', 'Blue', 'Green', 'Gold', 'Verdant', 'Radiant', 'Silent',
@@ -355,9 +378,9 @@ class City:
 
         for _ in range(numguilds):
             g = namegen('roguesguild')
-            self.roguesguilds.append(g)
-            self.authorities.append(f"**TODO**, Guildmaster of the {g}")
-
+            self.roguesguilds.append(f'**[{g}](../Organizations/RoguesGuilds/{g}.md**')
+            self.authorities.append(f"**TODO**, Guildmaster of the {g} rogue's guild")
+    
     def formatmd(self):
         results = f"# {self.name}\n"
         if self.province != '':
