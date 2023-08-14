@@ -6,4 +6,4 @@ Three cavalry companies:
 * 2nd: 150 light cavalry
 * 3rd: 125 light cavalry
 
-Usually winters near [Cliront](/Cities/Cliront.md).
+Usually winters near [Cliront](../../Cities/Cliront.md).

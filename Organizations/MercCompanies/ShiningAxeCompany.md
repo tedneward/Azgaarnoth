@@ -2,7 +2,7 @@
 
 Roughly 200 dwarven axe-wielding heavy infantry.
 
-Quarters in Hammerfist Holds, just south of [Brinwal](/Cities/Brinwal.md).
+Quarters in Hammerfist Holds, just south of [Brinwal](../../Cities/Brinwal.md).
 
 Led by Captain Ervath Helmbreaker:
 

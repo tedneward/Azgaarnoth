@@ -11,4 +11,4 @@ Six companies:
 * 2nd Battalion
     * Cavalry: commander Swedfer (Human Fighter 9, LN); 40 light horsemen
 
-Usually winters in [Britespell](/Cities/Britespell.md) or [Dusrest](/Cities/Dusrest.md).
+Usually winters in [Britespell](../../Cities/Britespell.md) or [Dusrest](../../Cities/Dusrest.md).
