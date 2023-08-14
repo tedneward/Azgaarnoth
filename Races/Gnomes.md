@@ -4,11 +4,11 @@
 Gnomes may be [dragonmarked](Dragonmarked.md) with the Mark of Scribing; see that entry for details.
 
 ## Rock gnomes
-Rock gnomes are often found in the Daw Range, but also within the many hillsides that litter the continent. Surprisingly larger numbers of rock gnome settlements are found on the Al'Uma/Yithi side of the Daws, but this may be simply coincidence. Rock gnomes in Azgaarnoth are not quite as inventive as Mordenkainen posits, but the trait is found in many, and for this reason rock gnomes are often drawn to the [Order of the Steel Dragon](../Organizations/MilitantOrders/DraconicOrder/Steel.md) and some of the larger [Merchant Guilds](../Organization/MerchantGuilds/index.md), particularly the Alchemists' Guilds.
+Rock gnomes are often found in the Daw Range, but also within the many hillsides that litter the continent. Surprisingly larger numbers of rock gnome settlements are found on the Al'Uma/Yithi side of the Daws, but this may be simply coincidence. Rock gnomes in Azgaarnoth are not quite as inventive as Mordenkainen posits, but the trait is found in many, and for this reason rock gnomes are often drawn to the [Order of the Steel Dragon](../Organizations/MilitantOrders/DraconicOrder/Steel.md) and some of the larger [Merchant Guilds](../Organizations/MerchantGuilds/index.md), particularly the Alchemists' Guilds.
 
 
 ## Forest gnomes
-Forest gnome villages are found in almost every wooded area on Azgaarnoth--if you can find them. Individual forest gnomes are not common, yet they are not so rare as to draw immediate attention when they wander into town. Many of the forest gnomes have spent time with the [Glittering Eye](../Organizations/MageSchoools/GlitteringEye.md) mage school, to perfect their illusions, and often work closely with druids to maintain their forest home when threatened.
+Forest gnome villages are found in almost every wooded area on Azgaarnoth--if you can find them. Individual forest gnomes are not common, yet they are not so rare as to draw immediate attention when they wander into town. Many of the forest gnomes have spent time with the [Glittering Eye](../Organizations/MageSchools/GlitteringEye.md) mage school, to perfect their illusions, and often work closely with druids to maintain their forest home when threatened.
 
 
 ## Svirfneblin ("deep gnomes")

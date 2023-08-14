@@ -1,7 +1,7 @@
 # Mage School: Night's Blessing
-**Home**: [Mighal](../../Cities/Mighal.md)
+**Home**: [Shincan](../../Cities/Shincan.md)
 
-**Enrollment**: ~750
+**Enrollment**: ~1,750
 
 **Motto**: "Not Even Death"
 
@@ -10,10 +10,12 @@ The line between good and evil is quite a thin one when it comes to understandin
 ## Membership
 This school has developed its own arcane tradition, that of Reanimation (below). The school also welcomes [necromancers](../../Classes/Wizard/Necromancy.md) and [pale masters](../../Classes/PaleMaster.md) of all elegies, as well as [Life](../../Classes/Cleric/Life.md) and [Death domain](../../Classes/Cleric/Death.md) clerics, despite the inherent animosity between those two divine groups. Most others steer clear of the school, though [monks of the Way of Mercy](../../Classes/Monk/Mercy.md) routinely check in with the Night's Blessing schools to exchange medical knowledge and discuss medicine, and frequently stay to study and treat patients together.
 
-Despite popular opinion, not all Night's Blessing magi are evil; most are, in fact, solemnly dedicated to the extension of life. To suggest that this is true of every member of the school, however, would be patently (and repeatedly proven) false.
+Despite popular opinion, most Night's Blessing magi are not evil; most are, in fact, solemnly dedicated to the extension of life. To suggest that this is true of every member of the school, however, would be patently (and repeatedly proven) false, and it is these rogues with fascination for the undead that give necromancers a bad name.
 
 ## Tendencies
 
 ## Connections
+Night's Blessing magi are welcome in just about any [mercenary company](../../Organizations/MercCompanies/index.md), since mercs often find themselves in dire need of healing (and, sometimes, resurrection). Many mercs, in fact, are the first to leap to the defense of a Night's Blessing mage against mobs seeking revenge for a perceived undead attack (which often turns out to be anything but).
 
+Night's Blessing magi have a deep abiding hatred for those that give necromancy the reputation of evil--any mage of the [Twilight Star](TwilightStar.md) is to be destroyed on sight. (The fact that Twilight Star magi often masquerade as Night's Blessing magi only deepens the depths of hatred.)
 

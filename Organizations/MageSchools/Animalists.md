@@ -1,5 +1,5 @@
 # Mage School: Animalists
-**Home**: [Mighal](/Cities/Mighal.md)
+**Home**: [Mighal](../../Cities/Mighal.md)
 
 **Enrollment**: ~250
 

@@ -1,7 +1,7 @@
 # Mage School: Glittering Eye
-**Home**: [Mighal](/Cities/Mighal)
+**Home**: [Mighal](../../Cities/Mighal)
 
-**Enrollment**: 
+**Enrollment**: ~2,000
 
 **Motto**: "What Precisely Did You See"
 
@@ -10,7 +10,7 @@ The Glittering Eye school is focused on misdirection, illusion, and the presenta
 Glittering Eye members are often as flamboyant as they are secretive--the less the world knows about the true goings-on inside the school, the better, for all the better to confuse the world when nobody knows what the truth really is. Since illusion can also be woven with more than just magic, or put another way, the belief in the magic can be enhanced through the use of mundane means, Glittering Eye members often include those that aren't magical at all--psionicists often find a home here, as do straight charlatans and disguise-forgers.
  
 ## Membership
-Wizards of the [Illusion](/Classes/Wizard/Illusion.md) arcane tradition are most at home here. Sorcerors of [Shadow](/Classes/Sorcerer/Shadow.md) often find a home here for a while, since much illusion is shrouding in shadow, as to [Psionic Soul](/Classes/Sorcerer/PsionicSoul.md)s.
+Wizards of the [Illusion](../../Classes/Wizard/Illusion.md) arcane tradition are most at home here. Sorcerors of [Shadow](../../Classes/Sorcerer/Shadow.md) often find a home here for a while, since much illusion is shrouding in shadow, as to [Psionic Soul](../../Classes/Sorcerer/PsionicSoul.md)s.
 
 ## Tendencies
 

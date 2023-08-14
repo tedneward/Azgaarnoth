@@ -1,5 +1,5 @@
 # Mage School: Ruby Tongue 
-**Home**: [Mighal](/Cities/Mighal.md)
+**Home**: [Mighal](../../Cities/Mighal.md)
 
 **Enrollment**: ~250
 
