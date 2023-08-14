@@ -14,6 +14,6 @@ Merfolk are associated with knowledge, logic, and strategy, though the tradition
 ## Creeds
 The merfolk race is divided into three creeds, founded on the principles of [Emeria](Merfolk/Emeria.md) (wind), [Ula](Merfolk/Ula.md) (water), and [Cosi](Merfolk/Cosi.md) (the trickster). A merfolk isn’t born into a creed but chooses it upon reaching adulthood, and it is rare for a merfolk not to choose a creed. Merfolk of the wind and water creeds aren’t hostile to each other, but members of each creed regard the other creed with a vague disdain. Members of both those creeds regard the Cosi creed with suspicion and some degree of fear, and Cosi-creed adherents tend to keep their affiliation secret. Choose one of these creeds for your character.
 
-Some scholars believe that the Merfolk creeds are actually an ancient deviation from the Three-in-One religion of the [Trinitarians](/Religions/Trinitarian.md), split long ago and developed in isolation from one another. Whether this is true is not known, to either Merfolk or the Trinitarians.
+Some scholars believe that the Merfolk creeds are actually an ancient deviation from the Three-in-One religion of the [Trinitarians](../Religions/Trinitarian.md), split long ago and developed in isolation from one another. Whether this is true is not known, to either Merfolk or the Trinitarians.
 
 

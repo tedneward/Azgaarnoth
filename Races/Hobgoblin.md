@@ -1,5 +1,5 @@
 # Hobgoblins
-See the [Creatures entry on Hobgoblins](/Creatures/Hobgoblin.md) for background and details.
+See the [Creatures entry on Hobgoblins](../Creatures/Hobgoblin.md) for background and details.
 
 * **Ability Score Increase**. Your Constitution score increases by 2, and your Intelligence score increases by 1.
 

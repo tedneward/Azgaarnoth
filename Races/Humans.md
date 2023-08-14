@@ -3,7 +3,7 @@ Owing to the prodigious rate at which humans reproduce, they are the dominant sp
 
 Humans may be [dragonmarked](Dragonmarked.md) with the Mark of Handling, the Mark of Making, the Mark of Passage, or the Mark of Sentinel; see that entry for details.
 
-Human society is broken into several distinct cultures: [Al'Uma](/Cultures/AlUma.md), [Gozdor](/Cultures/Gozdor.md), [Anor](/Cultures/Anor.md), and [Dail](/Cultures/Dail.md).
+Human society is broken into several distinct cultures: [Al'Uma](../Cultures/AlUma.md), [Gozdor](../Cultures/Gozdor.md), [Anor](../Cultures/Anor.md), and [Dail](../Cultures/Dail.md).
 
 * **Ability Score Increase.** Two of your ability scores each increase by 1.
 

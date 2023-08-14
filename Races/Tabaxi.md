@@ -7,7 +7,7 @@ Strangely, the lore surrounding the Eldars' creation of the Firstborn and humans
 Regardless, the tabaxi can be found anywhere in Azgaarnoth, wandering, exploring, investigating anything and everything that piques their curiosity.
 
 ## Wandering Outcasts
-The largest concentrations of tabaxi are found in the [Ravenlands](/Geography/Ravenlands.md), [Yithi](../Nations/Yithi.md) and [Zhi](../Nations/Zhi.md), although many also wander with the Caliphates across the endless grasslands. Most tabaxi remain content to dwell in small, tight clans, hunting for food, crafting goods, and largely keeping to themselves.
+The largest concentrations of tabaxi are found in the [Ravenlands](../Geography/Ravenlands.md), [Yithi](../Nations/Yithi.md) and [Zhi](../Nations/Zhi.md), although many also wander with the Caliphates across the endless grasslands. Most tabaxi remain content to dwell in small, tight clans, hunting for food, crafting goods, and largely keeping to themselves.
 
 However, not all tabaxi are satisfied with such a life. The Cat Lord, the divine figure responsible for the creation of the tabaxi, gifts each of his children with one specific feline trait. Those tabaxi gifted with curiosity are compelled to wander far and wide. They seek out stories, artifacts, and lore. Those who survive this period of wanderlust return home in their elder years to share news of the outside world. In this manner, the tabaxi remain isolated but never ignorant of the world beyond their home.
 
@@ -30,8 +30,8 @@ These tabaxi work in small troupes, usually consisting of an elder, more experie
 
 These wanderers keep to civilized realms, preferring to bargain instead of pursuing more dangerous methods of sating their curiosity. However, they aren’t above a little discreet theft to get their claws on a particularly interesting item when an owner refuses to sell or trade it.
 
-> **THE CAT LORD**
-> The deity of the tabaxi is a fickle entity, as befits the patron of cats. The tabaxi believe that the Cat Lord wanders the world, watching over them and intervening in their affairs as needed. He has also been known to ignore those who beseech him, even in the most dire situations, as befits the nature of cats. Clerics of the Cat Lord are rare, are almost exclusively of the tabaxi, and typically access the Trickery domain. Few non-tabaxi worship the Cat Lord, and even fewer trust him.
+> **[THE CAT LORD](../Religions/Pantheon/CatLord.md)**
+> The deity of the tabaxi is a fickle entity, as befits the patron of cats. The tabaxi believe that the Cat Lord wanders the world, watching over them and intervening in their affairs as needed. He has also been known to ignore those who beseech him, even in the most dire situations, as befits the nature of cats. Clerics of the Cat Lord are rare, and are almost exclusively of the tabaxi. Few non-tabaxi worship the Cat Lord, and even fewer trust him.
 
 ## Tabaxi Names
 Each tabaxi has a single name, determined by clan and based on a complex formula that involves astrology, prophecy, clan history, and other esoteric factors. Tabaxi names can apply to both males and females, and most use nicknames derived from or inspired by their full names.
