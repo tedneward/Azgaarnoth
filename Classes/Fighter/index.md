@@ -57,14 +57,6 @@ Equipment
 
 You adopt a particular style of fighting as your specialty. Choose one of the [styles](Styles.md) available. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
-### Martial Versatility
-*4th-level fighter feature*
-
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:
-* Replace a fighting style you know with another fighting style available to fighters.
-* If you know any maneuvers from the Battle Master archetype, you can replace one maneuver you know with a different maneuver. 
-
-
 ## Second Wind
 You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
 
@@ -107,6 +99,12 @@ The archetype you choose grants you features at 3rd level and again at 7th, 10th
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Martial Versatility
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:
+
+* Replace a fighting style you know with another fighting style available to fighters.
+* If you know any maneuvers from the [Battle Master](BattleMaster.md) archetype, you can replace one maneuver you know with a different maneuver. 
 
 ## Extra Attack
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.

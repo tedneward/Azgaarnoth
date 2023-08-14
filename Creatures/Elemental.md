@@ -52,6 +52,7 @@ Anything that touches an ice elemental is magically chilled by an icy cold that 
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|9 (-1)|17 (+3)|6 (-2)|10 (+0)|7 (-2)|
+>
 >___
 >- **Damage Vulnerabilities** fire, thunder
 >- **Damage Immunities** cold, poison
@@ -95,6 +96,7 @@ Most invisible stalkers are an unwilling servant at best, and resent any underta
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3) | 19 (+4) | 14 (+2) | 10 (+0) | 15 (+2) | 11 (+0)|
+>
 >___
 >- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 >- **Damage Immunities** poison
@@ -130,6 +132,7 @@ Anything that touches an magma elemental is magically scalded by an intense burn
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23(+6)|11(+0)|17(+3)|4(-3)|10(+0)|9(-1)|
+>
 >___
 >- **Saving Throws** Str + 11, Con +8
 >- **Damage Vulnerabilities** 
@@ -185,6 +188,7 @@ If it has the opportunity while in service to its master, a magmin seeks out are
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (−2) | 15 (+2) | 12 (+1) | 8 (−1) | 11 (+0) | 10 (+0)|
+>
 >___
 >- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 >- **Damage Immunities** fire
@@ -222,6 +226,7 @@ A sand assassin resembles an athletic human made entirely of sand usually with m
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|20 (+5)|15 (+2)|9 (-2) |14 (+2)|12(+1)|
+>
 >___
 >- **Saving Throws** Dex +9 
 >- **Damage Resistances** lightning; bludgeoning, piercing, and slashing from nonmagical weapons 
@@ -260,6 +265,7 @@ A sand assassin resembles an athletic human made entirely of sand usually with m
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|18 (+4)|5 (−3)|10 (+0)|8 (−1)|
+>
 >___
 >- **Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
 >- **Damage Immunities** poison

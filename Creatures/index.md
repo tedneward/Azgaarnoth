@@ -5,6 +5,7 @@ These creatures are found in various places across the map. Over time, all these
 - [Abishai](Abishai.md)
 
 ## B
+- [Brother of Undeath](BrotherOfUndeath.md)
 
 ## C
 
@@ -43,6 +44,7 @@ These creatures are found in various places across the map. Over time, all these
 ## R
 
 ## S
+- [Sahuagin](Sahuagin.md)
 
 ## T
 
@@ -75,7 +77,9 @@ General description
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (0)|10 (0)|10 (0)|10 (+0)|10 (+0)|10 (0)|
+>
 >___
+>- **Proficiency Bonus** 
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
