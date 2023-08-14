@@ -1,5 +1,5 @@
 # Mage School: Symbarchs
-**Home**: [Grayhost](/Cities/Grayhost.md)
+**Home**: [Grayhost](../../Cities/Grayhost.md)
 
 **Enrollment**: ~150
 

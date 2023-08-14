@@ -1,5 +1,5 @@
 # Mage School: White Winds
-**Home**: [Mighal](/Cities/Mighal.md)
+**Home**: [Mighal](../../Cities/Mighal.md)
 
 **Enrollment**: ~10,000
 

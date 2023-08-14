@@ -11,5 +11,5 @@ Four companies:
 * 2nd Infantry: commander Morganslight Ironseat (Dwarf Fighter 6, LG); 3 heavy infantry platoons (50 men each)
 * 3rd Infantry: commander Evenslight Ironseat (Dwarf Fighter 5, LG); 1 light infantry platoon (50 men), 2 fire platoons (40 longbownmen each)
 
-Usually winters in [Britespell](/Cities/Britespell.md) or [Dusrest](/Cities/Dusrest.md).
+Usually winters in [Britespell](../../Cities/Britespell.md) or [Dusrest](../../Cities/Dusrest.md).
 

@@ -7,7 +7,7 @@ The population of the Eldar never rose beyond a million, even at their peak, and
 
 Despite the aid of the firstborn, the Eldar realized that they required a more adaptable, sturdy race to carry out a variety of tasks that had no common purpose or environment, and thus were the first [humans](/Races/Humans.md) born. Shorter-lived in order to encourage their adaptability, humans quickly became the servant race of the Eldar, and dwarves and elves were given more leeway and latitude to carry out their tasks without Eldar oversight.
 
-Not long before the Fall, the [Created](/Races/Created.md) emerged into the world, though their origins (aside from the [dragonborn](/Races/Dragonborn.md)) are not thought to be Eldar-created.
+Not long before the Fall, the [Created](/Races/index.md#created) emerged into the world, though their origins (aside from the [dragonborn](/Races/Dragonborn.md)) are not thought to be Eldar-created.
 
 ## The Eldar and the Hordes
 For as long as the Eldar have been in Azgaarnoth, so have the [Hordes](Hordes.md). Some theorize that the Hordes are a natural part of the world, others believe they came when the Eldar began to travel through the stars and the planes. Either way, the result was the same: a brutal and incessant conflict that began five millennia before the Fall, and continued long after. Some scholars theorize that the Eldar and Hordes are symbiotes at some cosmic level, others that the Hordes are refugees from an extraplanar conflict. Regardless of their origins, the Hordes have plagued Azgaarnoth in some way since the beginning.

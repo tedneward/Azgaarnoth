@@ -82,7 +82,7 @@ Lizardfolk are populous in the marshes around [Mudhear](../Cities/Mudhear.md), a
 Kenku are found anywhere in Azgaarnoth, though sparingly.
 
 ### [Kobolds](Kobold.md)
-Kobolds are thought to be the remnants of the first experiments of the [Eldar](Eldar.md) to create [dragonborn](Created.md), but saying such to any dragonborn is insulting and typically grounds for feud or duel. Nevertheless, the shared draconic lineage between kobold and dragonborn is hard to miss, and some scholars believe that at some point, there was some shared history of the two races.
+Kobolds are thought to be the remnants of the first experiments of the [Eldar](Eldar.md) to create [dragonborn](index.md#created), but saying such to any dragonborn is insulting and typically grounds for feud or duel. Nevertheless, the shared draconic lineage between kobold and dragonborn is hard to miss, and some scholars believe that at some point, there was some shared history of the two races.
 
 ### [Minotaurs](Minotaurs.md)
 Minotaurs are found among the lands of the Hordes ([Ulm](../Nations/Ulm.md) and [Tragekia](../Nations/Tragekia.md)), as well as in the wilds of [North Bedia](../Nations/Bedia.md). Minotaurs may be of any alignment, and can expect suspicion when moving around in any of the other lands beyond the Hordeslands.

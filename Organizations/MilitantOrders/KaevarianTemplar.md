@@ -1,7 +1,7 @@
 # Militant Order: Kaevarian Templar
 *(~15,000 fighters, paladins, and clerics)*
 
-A knightly order of the Kaevarian Church, the Templar are a relatively numerous, yet weak, militant order when compared to their contemporaries such as the [Draconic Order](../DraconicOrder/index.md) or even the [Dread Knights](DreadKnights.md).
+A knightly order of the Kaevarian Church, the Templar are a relatively numerous, yet weak, militant order when compared to their contemporaries such as the [Draconic Order](DraconicOrder/index.md) or even the [Dread Knights](DreadKnights.md).
 
 Generally members of the Kaevarian Templar are fighters ([Cavaliers](../../Classes/Fighter/Cavalier.md), [Champions](../../Classes/Fighter/Champion.md), [Defenders](../../Classes/Fighter/Defender.md), or [Samurai](../../Classes/Fighter/Samurai.md) in particular) or paladins ([Devotion](../../Classes/Paladin/Devotion.md), [Glory](../../Classes/Paladin/Glory.md), or [Heroism](../../Classes/Paladin/Heroism.md) in particular). Some Kaevarian clerics will join the Templar, but usually as a means to further the aims of the Church rather than in the spirit of any particular zeal for justice.
 
