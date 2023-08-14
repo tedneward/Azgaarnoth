@@ -1,5 +1,5 @@
 # Order of the Copper Dragon
-Leader: [Lord Chandari Galadaeros](/People/ChandariGaladaeros.md)
+Leader: [Lord Chandari Galadaeros](../../../People/ChandariGaladaeros.md)
 
 Copper dragons are born pranksters, jokesters, and riddlers, and the Order of the Copper Dragon took upon themselves the mantle of using that love of deceit to act as the Draconic Orders' intelligence arm. Coppers are no strangers to the shadows, and while they may flaunt law at times in order to obtain the information they need, it is always in furtherance of the larger goal: the identification and eradication of persons or organizations that seek to promote evil.
 

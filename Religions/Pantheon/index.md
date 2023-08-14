@@ -31,11 +31,11 @@ Deity | Description |Alignment | Domains | Symbol
 [Malar](Malar.md)|God of the hunt|CN|[Hunt](../../Classes/Cleric/Hunt.md), [Chaos](../../Classes/Cleric/Chaos.md), [Nature](../../Classes/Cleric/Nature.md)|Clawed paw
 [Milil](Milil.md)|Goddess of poetry and song|NG|[Desire](../../Classes/Cleric/Desire.md), [Light](../../Classes/Cleric/Light.md), [Trickery](../../Classes/Cleric/Trickery.md)|Five-stringed harp made of leaves
 [Onatar](Onatar.md)|God of craft|NG|[Fire](../../Classes/Cleric/Fire.md), [Forge](../../Classes/Cleric/Forge.md), [Knowledge](../../Classes/Cleric/Knowledge.md)|Crossed hammer and tongs
-[Pelor](Pelor.md)|God of sun, summer, and time|LG|[Light](../../Classes/Cleric/Light.md), [Life](../../Classes/Cleric/Life.md), Time|Blazing sunburst
+[Pelor](Pelor.md)|God of sun, summer, and time|LG|[Light](../../Classes/Cleric/Light.md), [Life](../../Classes/Cleric/Life.md), [Time](../../Classes/Cleric/Time.md)|Blazing sunburst
 [Sashelas](Sashelas.md)|God of the sea|CG|[Nature](../../Classes/Cleric/Nature.md), [Tempest](../../Classes/Cleric/Tempest.md), [Water](../../Classes/Cleric/Water.md)|Dolphin
 [Savras](Savras.md)|God of divination and fate|LN|[Time](../../Classes/Cleric/Time.md), [Order](../../Classes/Cleric/Order.md), [Peace](../../Classes/Cleric/Peace.md)|Crystal ball containing many kinds of eyes
 [Silvanus](Silvanus.md)|God of wild nature|N|[Hunt](../../Classes/Cleric/Hunt.md), [Nature](../../Classes/Cleric/Nature.md), [Luck](../../Classes/Cleric/Luck.md)|Oak leaf
-[Talos](Talos.md)|God of storms|CE|[Air](../../Classes/Cleric/Air.md), [Tempest](../../Classes/Cleric/Tempest.md), Zeal|Three lightning bolts radiating from a central point
+[Talos](Talos.md)|God of storms|CE|[Air](../../Classes/Cleric/Air.md), [Tempest](../../Classes/Cleric/Tempest.md), [Zeal](../../Classes/Cleric/Zeal.md)|Three lightning bolts radiating from a central point
 [The Keeper](Keeper.md)|God of greed and death|NE|[Death](../../Classes/Cleric/Death.md), [Grave](../../Classes/Cleric/Grave.md), [Shadow](../../Classes/Cleric/Shadow.md)|Obsidian tome in the shape of a fang
 [The Traveler](Traveler.md)|Deity of chaos and change|CN|[Chaos](../../Classes/Cleric/Chaos.md), [Twilight](../../Classes/Cleric/Twilight.md), [Trickery](../../Classes/Cleric/Trickery.md)|Four crossed, rune-inscribed bones
 [Tiamat](Tiamat.md)|Dragon goddess of evil|LE|[Dragon](../../Classes/Cleric/Dragon.md), [Trickery](../../Classes/Cleric/Trickery.md), [Shadow](../../Classes/Cleric/Shadow.md)|Dragon head with five claw marks

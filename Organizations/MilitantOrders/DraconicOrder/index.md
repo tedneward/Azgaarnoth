@@ -5,7 +5,7 @@ The Draconic Orders were formed ages ago as a quasi-religious, -arcane, and -mil
  
 It is important to note that many, if not most, members of the Orders have never seen a dragon (and certainly would not deem themselves worthy to ride one!), and a high percentage of the general population consider dragons to be a myth or legend or exaggeration of a more mundane creature. Despite (most) never having laid eyes on one, however, most members of the Draconic Orders are dedicated to the cause, and champion their namesakes in the knowledge that it serves to make Azgaarnoth a better world overall.
  
-The Draconic Orders are particularly always on the lookout for activities of the [Wyrm Cults](../CultOfTheWyrm.md), and will prioritize the elimination of a Cult group at every opportunity.
+The Draconic Orders are particularly always on the lookout for activities of the [Wyrmcults](../../CultOfTheWyrm.md), and will prioritize the elimination of a Cult group at every opportunity.
 
 ## History
 
@@ -22,7 +22,7 @@ The orders are broken down by each metallic dragon type:
 
 It is rumored that the Draconic Orders include other, non-publicized orders, such as the supposed "Order of the Mercury Dragon," after the dragons supposedly made from quicksilver (mercury). It is never clear whether these dragons ever existed, or were part of the Draconic Orders, but the rumors persist nevertheless.
 
-Periodically, a particularly creative robber band or group of bandits will attempt to masquerade as a new Draconic Order, usually named after another metal, such as the "Order of the Electrum Dragon" several hundred years ago that essentially took over [Doglen](/Cities/Doglen.md) for a few decades until the Draconic Orders heard of the deceit and faced them down. It was rumored that an actual dragon participated in the combat--to demonstrate the authenticity of the Draconic Orders that the pretenders lacked--but no one believes the rumors, particularly since the observers could never agree on which species of dragon appeared. It has become common, however, for Draconic Order initiates to be hazed by their veteran peers by teaching them a completely fictitious history of this seventh Order, quite often leading to bogus quests in search of nonexistent "Electrum Dragons' Eggs" or "Topaz Dragon Scales".
+Periodically, a particularly creative robber band or group of bandits will attempt to masquerade as a new Draconic Order, usually named after another metal, such as the "Order of the Electrum Dragon" several hundred years ago that essentially took over [Doglen](../../../Cities/Doglen.md) for a few decades until the Draconic Orders heard of the deceit and faced them down. It was rumored that an actual dragon participated in the combat--to demonstrate the authenticity of the Draconic Orders that the pretenders lacked--but no one believes the rumors, particularly since the observers could never agree on which species of dragon appeared. It has become common, however, for Draconic Order initiates to be hazed by their veteran peers by teaching them a completely fictitious history of this seventh Order, quite often leading to bogus quests in search of nonexistent "Electrum Dragons' Eggs" or "Topaz Dragon Scales".
 
 ## Organization
 The organization of each of the Orders is derived ultimately from a military structure, though some of that structure today supports decidedly non-militant activities, depending on the Order. Starting from the base-level units, each Order is roughly made up along the following lines:
@@ -37,3 +37,5 @@ The organization of each of the Orders is derived ultimately from a military str
 * **"Drake":** A Drake is made up of three or four Fists (~150 to 200 Knights), commanded by a Captain (again, almost always a Platinum), and often a sufficient enough show of force to make most cities concerned.
 
 * **"Wing":** A Wing is made up of three to five Drakes (~500 to 1000 Knights), and usually the largest unit fielded. Wings are typically commanded by the leaders of the various Orders.
+
+It is very common for mercenary units, national military units, or even bands of militia to be folded into the ranks of a Draconic Order force, so that the actual numbers of fighting troops fielded are much larger, and the Draconic Knights will often be "stationed" alongside non-Draconic units to stiffen the ranks and provide morale and other support.

@@ -57,7 +57,7 @@
 ## Description
 Bishop of the Cathedral of [Pelor](../Religions/Pantheon/Pelor.md) in [Brinwal](../Cities/Brinwal.md)
 
-Currently in a relationship with [Kerden Jarmaath](KerdenJaarmath.md)
+Currently in a relationship with [Kerden Jarmaath](./KerdenJarmaath.md)
 
 **Chain Mail +1.**
 

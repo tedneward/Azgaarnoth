@@ -1,5 +1,5 @@
 # Order of the Silver Dragon
-Leader: [Lady Miirym Eyesbright](/People/MiirymEyesbright.md)
+Leader: [Lady Miirym Eyesbright](../../../People/MiirymEyesbright.md)
 
 The Order of the Silver Dragon is the semi-militant arm of the Draconic Orders dedicated to being the protectors of mankind; where the [Order of the Gold Dragon](Gold.md) is the sword, and the [Order of the Bronze Dragon](Bronze.md) the generals, the Silvers see themselves as the shield, seeking to protect, heal, and reduce the burdens that evil places on the mortal creatures of this realm. Silvers are generally more patient and less activist than the Golds or the [Order of the Platinum Dragon](Platinum.md), not usually going out of their way to bring justice to the world. Instead, Silvers wait for others to ask them for help. They will attempt to right an injustice if they see one, but they have no inclination to intentionally seek evil out and destroy it. In general Silver Brothers and Sisters are more interested in protecting the peoples it comes to care for than in looking for evil.
  

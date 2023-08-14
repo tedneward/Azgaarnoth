@@ -1,9 +1,9 @@
 # Talon Arbur Suncloud
 *chaotic good male dragonborn (copper) rogue (Arcane Trickster) 4*
 
-**Title:** Talon, [Order of the Copper Dragon](../Organizations/DraconicOrder/Copper.md)
+**Title:** Talon, [Order of the Copper Dragon](../Organizations/MilitantOrders/DraconicOrder/Copper.md)
 
-**Residence:** [Brinwal](/Cities/Brinwal.md)
+**Residence:** [Brinwal](../Cities/Brinwal.md)
 
 ## Description
 Arbur is a young dragonborn, passionate, and rash to action. He is one of those few dragonborn who doesn't know his parents, having been raised by the Order since he was a baby. He is fiercely devoted the Order, and having recently been promoted to this position, seeks to ensure that the Order's goals and aims are upheld--even if he must use tools that defy those goals and aims to accomplish them. Having just been posted here, his first command, he is fiercely devoted to the defense of "his" city, and is fully prepared to use his Talon as necessary to defend the city as he sees necessary.

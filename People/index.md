@@ -7,7 +7,7 @@
 * [Zabalasa](Zabalasa.md), "The Disciple"
 
 ## World-spanning (Kings, Queens, etc)
-* [Dread Emperor](Dread Emperor.md)
+* [Dread Emperor](DreadEmperor.md)
 * [Kali Kaal](KaliKaal.md), "The Ancient One"
 
 ## Localized

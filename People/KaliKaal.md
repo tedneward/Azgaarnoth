@@ -6,7 +6,7 @@ Little is known of the ancient lich of millennia; even any sure knowledge of its
 
 Some think Kali is merely a myth, but others have had a closer visitation from Kali--and some have gone mad because of it. Legends and horror stories tell of Kali stalking thoes who have betrayed it for decades or more, waiting until the victim is absolutely convinced they are safe, and then stepping forward from shadows. Kali rarely kills its victims, preferring instead to add to its legend and striking in ways that leave the victim alive and utterly subservient (or powerless).
 
-Stories and rumors abound that Kali has even managed to find ways to be a [Warlock Patron](/Classes/Warlock/Undead.md), granting of its power to warlocks who then serve his purposes without question or hesitation. 
+Stories and rumors abound that Kali has even managed to find ways to be a [Warlock Patron](../Classes/Warlock/Undead.md), granting of its power to warlocks who then serve his purposes without question or hesitation. 
 
 What is known is that it is long past any concern for humanity, including its own. Its goals are inscrutable, its resources are nearly unlimited, and its morals are entirely nonexistent.
 
@@ -43,7 +43,7 @@ Statistics are provided below, but few beings on Azgaarnoth could even last a si
 
 **Rejuvenation**. Kali has learned to support multiple phylacteries; so long as any one of his phylacteries exists, Kali gains a new body in 1d10 days, appearing within 5 feet of any one of his phylacteries (its choice), regaining all its hit points and becoming active again.
 
-**Spellcasting**. Kali is an 20th-level spellcaster as a Sorceror, Wizard, and Pale Master. Its spellcasting ability is Intelligence (spell save DC 36, +19 to hit with spell attacks).
+**Spellcasting**. Kali is an 20th-level spellcaster (each) as a Sorceror, Wizard, and Pale Master. Its spellcasting ability is Intelligence (spell save DC 36, +19 to hit with spell attacks).
 
 Kali's long existence means that it has seen almost any scenario possible play out, and this means it has the ability to anticipate its needs for any situation that might arise. For any encounter with Kali, should it actually descend into any form of combat (and Kali wishes to continue with it), it is safe to assume that it has prepared ahead of time any spells it may find useful.
 
