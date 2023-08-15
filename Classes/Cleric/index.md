@@ -49,6 +49,7 @@ Level|Proficiency Bonus|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|Featu
 
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
+
 * (a) a mace or (b) a warhammer (if proficient)
 * (a) scale mail, (b) leather armor, or (c) chain mail (if proficient)
 * (a) a light crossbow and 20 bolts or (b) any simple weapon
@@ -92,6 +93,7 @@ You can use a holy symbol as a spellcasting focus for your cleric spells.
 *1st-level cleric feature*
 
 Choose one domain:
+
 * [Abandoned](Abandoned.md)
 * [Air](Air.md)
 * [Arcana](Arcana.md)

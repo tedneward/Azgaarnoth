@@ -4,11 +4,11 @@
 
 Cleric Level|Spells
 ------------|------
-1st|[ceremony](../../Magic/Spells/ceremony.md), charm person
-3rd|calm emotions, warding bond
-5th|aura of vitality, beacon of hope
-7th|aura of life, aura of purity
-9th|dominate person, greater restoration
+1st|[ceremony](../../Magic/Spells/ceremony.md), [charm person](../../Magic/Spells/charm-person.md)
+3rd|[calm emotions](../../Magic/Spells/calm-emotions.md), [warding bond](../../Magic/Spells/warding-bond.md)
+5th|[aura of vitality](../../Magic/Spells/aura-of-vitality.md), [beacon of hope](../../Magic/Spells/beacon-of-hope.md)
+7th|[aura of life](../../Magic/Spells/aura-of-life.md), [aura of purity](../../Magic/Spells/aura-of-purity.md)
+9th|[dominate person](../../Magic/Spells/dominate-person.md), [greater restoration](../../Magic/Spells/greater-restoration.md)
 
 Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 

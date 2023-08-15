@@ -12,11 +12,11 @@ You gain domain spells at the cleric levels listed in the Defier Domain Spells t
 
 Cleric Level | Spells
 ------------ | ------
-1st|detect evil and good, nerveskitter
-3rd|calm emotions, silence
-5th|clarity of mind, counterspell
-7th|aura of purity, Mordenkainen’s private sanctum 
-9th|banishing smite, lesser chainfire
+1st|[detect evil and good](../../Magic/Spells/detect-evil-and-good.md), [nerveskitter](../../Magic/Spells/nerveskitter.md)
+3rd|[calm emotions](../../Magic/Spells/calm-emotions.md), [silence](../../Magic/Spells/silence.md)
+5th|[clarity of mind](../../Magic/Spells/clarity-of-mind.md), [counterspell](../../Magic/Spells/counterspell.md)
+7th|[aura of purity](../../Magic/Spells/aura-of-purity.md), [Mordenkainen’s private sanctum](../../Magic/Spells/mordenkainens-private-sanctum.md) 
+9th|[banishing smite](../../Magic/Spells/banishing-smite.md), [lesser chainfire](../../Magic/Spells/lesser-chainfire.md)
 
 ## Bonus Proficiency
 *1st-level Defier Domain feature*

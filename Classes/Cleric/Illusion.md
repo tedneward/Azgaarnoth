@@ -8,11 +8,11 @@ As a Cleric of Illusion, you gain the following Domain spells at the appropriate
 
 Cleric Level | Spells
 ------------ | -----
-1st	Disguise self, feather fall
-3rd	Darkvision, pass without trace
-5th	Blink, fly
-7th	Freedom of movement, greater invisibility
-9th	Mislead, seeming
+1st	| [disguise self](../../Magic/Spells/disguise-self.md), [feather fall](../../Magic/Spells/feather-fall.md)
+3rd	| [darkvision](../../Magic/Spells/darkvision.md), [pass without trace](../../Magic/Spells/pass-without-trace.md)
+5th	| [blink](../../Magic/Spells/blink.md), [fly](../../Magic/Spells/fly.md)
+7th	| [freedom of movement](../../Magic/Spells/freedom-of-movement.md), [greater invisibility](../../Magic/Spells/greater-invisibility.md)
+9th	| [mislead](../../Magic/Spells/mislead.md), [seeming](../../Magic/Spells/seeming.md)
 
 ## Bonus Proficiency
 At 1st level you gain proficiency in Stealth. You also gain advantage on Intelligence (Sleight of Hand) checks to untie ropes and other bondages.

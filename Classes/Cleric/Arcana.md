@@ -14,11 +14,11 @@ Starting at 1st level, you gain domain spells at the cleric levels listed in the
 
 Cleric Level |	Spells
 ------------ | -----
-1st | [Detect Magic](../../Magic/Spells/detect-magic.md), [Magic Missile](../../Magic/Spells/magic-missile.md)
-3rd	| [Magic Weapon](../../Magic/Spells/magic-weapon.md), [Nystul's Magic Aura](../../Magic/Spells/nystuls-magic-aura.md)
-5th	| [Dispel Magic](../../Magic/Spells/dispel-magic.md), [Magic Circle](../../Magic/Spells/magic-circle.md)
-7th	| [Arcane Eye](../../Magic/Spells/arcane-eye.md), [Leomund's Secret Chest](../../Magic/Spells/leomunds-secret-chest.md)
-9th	| [Planar Binding](../../Magic/Spells/planar-binding.md), [Teleportation Circle](../../Magic/Spells/teleportation-circle.md)
+1st | [detect magic](../../Magic/Spells/detect-magic.md), [magic missile](../../Magic/Spells/magic-missile.md)
+3rd	| [magic weapon](../../Magic/Spells/magic-weapon.md), [Nystul's magic aura](../../Magic/Spells/nystuls-magic-aura.md)
+5th	| [dispel magic](../../Magic/Spells/dispel-magic.md), [magic circle](../../Magic/Spells/magic-circle.md)
+7th	| [arcane eye](../../Magic/Spells/arcane-eye.md), [Leomund's Secret chest](../../Magic/Spells/leomunds-secret-chest.md)
+9th	| [planar binding](../../Magic/Spells/planar-binding.md), [teleportation circle](../../Magic/Spells/teleportation-circle.md)
 
 ## Arcane Initiate
 *1st-level Arcana Domain feature* 
