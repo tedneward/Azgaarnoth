@@ -19,6 +19,7 @@ These creatures are found in various places across the map. Over time, all these
 ## G
 
 ## H
+- [Hag](Hag.md)
 
 ## I
 - [Invisible Stalker](Elemental.md#invisible-stalker)
