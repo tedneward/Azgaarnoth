@@ -17,11 +17,11 @@ Starting at 3rd level, you always have certain spells prepared after you reach p
 
 Artificer Level | Spell
 --------------- | -----
-3rd | shield, thunderwave
-5th | scorching ray, shatter
-9th | fireball, wind wall
-13th | ice storm, wall of fire
-17th | cone of cold, wall of force
+3rd | [shield](../../Magic/Spells/shield.md), [thunderwave](../../Magic/Spells/thunderwave.md)
+5th | [scorching ray](../../Magic/Spells/scorching-ray.md), [shatter](../../Magic/Spells/shatter.md)
+9th | [fireball](../../Magic/Spells/fireball.md), [wind wall](../../Magic/Spells/wind-wall.md)
+13th | [ice storm](../../Magic/Spells/ice-storm.md), [wall of fire](../../Magic/Spells/wall-of-fire.md)
+17th | [cone of cold](../../Magic/Spells/cone-of-cold.md), [wall of force](../../Magic/Spells/wall-of-force.md)
 
 ## Arcane Turret
 At 3rd level, you learn how to create a magical turret. With your smith’s tools in hand, you can take an action to magically summon a Medium turret in an unoccupied space on a horizontal surface within 5 feet of you.
@@ -35,6 +35,7 @@ You can summon a turret once for free and must finish a long rest before doing s
 As an action, you can command your turret to detonate if you are within 60 feet of it. Doing so destroys the turret and forces each creature within 10 feet of it to make a Dexterity saving throw against your spell save DC, taking 3d6 force damage on a failed save or half as much damage on a successful one.
 
 **Arcane Turrets**
+
 Turret | Activation
 ------ | ----------
 Flamethrower | The turret exhales fire in an adjacent 15-foot cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking 1d8 fire damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren’t being worn or carried.
