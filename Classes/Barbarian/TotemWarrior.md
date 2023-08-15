@@ -1,7 +1,7 @@
 # Primal Path: Path of the Totem Warrior
 The Path of the Totem Warrior is a spiritual journey, as the barbarian accepts a spirit animal as guide, protector, and inspiration. In battle, your totem spirit fills you with supernatural might, adding magical fuel to your barbarian rage.
 
-Most barbarian tribes consider a totem animal to be kin to a particular clan. In such cases, it is unusual for an individual to have more than one totem animal spirit, though exceptions exist. These barbarians are usually found among the [Yithi](../../Nations/Yithi.md) or [Zhi](../../Nations/Zhi.md).
+Most barbarian tribes consider a totem animal to be kin to a particular clan. In such cases, it is unusual for an individual to have more than one totem animal spirit, though exceptions exist. These barbarians are usually found among the [Yithi](../../Nations/Yithi.md) or [Zhi](../../Nations/Zhi.md), but also a surprising number of them show up in the lands of the Al'Uma, among the tribes that take after the various animals as their sigil.
 
 ## Spirit Seeker
 Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. At 3rd level when you adopt this path, you gain the ability to cast the Beast Sense and Speak with Animals spells, but only as rituals.

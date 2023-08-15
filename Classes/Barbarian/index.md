@@ -46,6 +46,7 @@ Level|Proficiency Bonus|Rages|Rage Damage|Features
 
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
+
 * (a) a greataxe or (b) any martial melee weapon
 * (a) two handaxes or (b) any simple weapon
 * An explorer's pack and four javelins
