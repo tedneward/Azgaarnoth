@@ -6,7 +6,7 @@ Converts the Markdown content to static HTML for upload to a static site host (l
 
 Make sure mkdocs is installed: `pip3 install mkdocs`
 
-From within the Website directory, run `mkdocs build`, or better yet just run `bake.sh` (*nix)/`bake.bat` (Windows) and it will do the work: Copying the contents into the Website/docs folder (where mkdocs expects them to be), then copying the resulting build (in the `site` folder) over to the target directory (in my Dropbox/Apps/Site44 directory) for upload.
+From within the Website directory, run `mkdocs build`, or better yet just run `bake.sh` (*nix, use WSL2 on Windows but be prepared for slow bash file perf, welcome to WSL2) and it will do the work: Erase the old work, copying the contents into the Website/docs folder (where mkdocs expects them to be) without accidentally recursing infinitely, then copying the resulting build (in the `site` folder) over to the target directory (in my Dropbox/Apps/Site44 directory) for upload. Note that by default it's going to `~/Dropbox/Apps/site44/azgaarnoth.tedneward.com`, unless there is a `sitetarget` file that contains a new target path. (Contents of that file are slurped up entirely whole, so no comments or anything allowed.)
 
 Everything except the Tools and Supplements directory goes up into the website.
 
