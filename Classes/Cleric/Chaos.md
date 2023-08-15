@@ -3,69 +3,65 @@ Chaos is the opposite of order, and so gods of chaos are opposed to stasis, pres
 
 Clerics of the Chaos Domain often aspire to be just as unpredictable as their deity. They work to abolish every status quo and upset every unquestioned norm.
 
-Chaos Domain Spells
-Cleric Level	Spell
-
-**Domain Spells**
+**Chaos Domain Spells**
 
 Cleric Level | Spells
 ------------ | ------
-1st	| 
-3rd	| 
-5th	| 
-7th	| 
-9th	| 
-
-1st bane, chaos bolt
-
-3rd alter self, shatter
-
-5th bestow curse, blink
-
-7th jinx, polymorph
-
-9th animate objects, reincarnate
+1st	| [bane](../../Magic/Spells/bane.md), [chaos bolt](../../Magic/Spells/chaos-bolt.md)
+3rd	| [alter self](../../Magic/Spells/alter-self.md), [shatter](../../Magic/Spells/shatter.md)
+5th	| [bestow curse](../../Magic/Spells/bestow-curse.md), [blink](../../Magic/Spells/blink.md)
+7th	| [jinx](../../Magic/Spells/jinx.md), [polymorph](../../Magic/Spells/polymorph.md)
+9th	| [animate objects](../../Magic/Spells/animate-objects.md), [reincarnate](../../Magic/Spells/reincarnate.md)
 
 
-Bonus Proficiency
+## Bonus Proficiency
 When you choose this domain at 1st level, you gain proficiency with martial weapons.
 
-Chaotic Fate
+## Chaotic Fate
 Also at 1st level, your link to chaos allows to you alter fate in minor ways. After a creature that you can see within 60 feet of you rolls a d20 for an attack roll or ability check or rolls a die for a table in a class feature or spell, you can use your reaction to alter fate, forcing the creature to reroll the die and use the new result.
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
-Channel Divinity: Wild Blessing
+## Channel Divinity: Wild Blessing
 Starting at 2nd level, you can use your Channel Divinity to invoke a small miracle of chaotic divinity, bestowed by your deity to spark change and disrupt order.
 
 As an action, you present your holy symbol and cause a random effect. You roll on the Wild Blessing Table to determine the effect each time you use this feature.
 
-Wild Blessing Table
-d10	    Channel Divinity Effect
-1	You teleport up to 60 feet to an unoccupied space that you can see. Each creature of your choice within 15 feet of either your starting position or your new position must make a Constitution saving throw, taking thunder damage equal to 2d6 + your cleric level on a failed save, or half as much damage on a successful one. Nonmagical objects of your choice in the area that aren't being worn or carried also take full damage.
-2	Each creature of your choice within 30 feet of you is surrounded by a barrier that grants it a +2 bonus to AC until the end of your next turn and advantage on the next saving throw it makes during that time.
-3	A wave of flames bursts outward in a 15-foot radius sphere centered on a point that you can see within 60 feet of you. Each creature in the area must make a Dexterity saving throw, taking fire damage equal to 2d10 + your cleric level on a failed save, or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren’t being worn or carried.
-4	Negative energy swirls as dark mist around you, lightly obscuring the area within 30 feet of you until the end of your next turn. Each creature of your choice within the area must succeed on a Constitution saving throw or be poisoned until the end of your next turn. If you target at least one creature with this effect, you and each creature of your choice in the area also gain temporary hit points equal to your cleric level.
-5	A wave of positive energy fills the area within 30 feet of you with bright light until the end of your next turn. Up to four creatures of your choice within the area each regain a number of hit points equal to your cleric level. If a creature has more than 0 hit points when it receives this healing, it also gains temporary hit points equal to half your cleric level.
-6	A bolt of lightning surges toward one creature or object that you can see within 60 feet of you. You may also choose up to two other creatures or objects within 15 feet of the first target. Each target must make a Dexterity saving throw. On a failed saving throw, a target takes lightning damage equal to 2d6 + your cleric level, and until the end of its next turn, it can't take reactions and it has disadvantage on attack rolls. On a successful saving throw, a target takes half as much damage and suffers no other effects.
-7	Each creature of your choice within 30 feet of you must succeed on a Wisdom saving throw or else it must use its reaction to make a melee weapon attack against one creature of your choice within its reach, dealing extra damage equal to your cleric level on a hit.
-8	Up to three creatures that you can see within 30 feet of you must make a Charisma saving throw. On a failed saving throw, a creature is transformed into a Small object chosen by the DM (such as a chair or a potted plant) until the end of its next turn. While transformed, it is stunned and it can't speak. If it takes damage, the transformation ends immediately.
-9	One willing creature that you can see within 60 feet of you regains hit points equal to 1d6 + two times your cleric level. Also, you can teleport the target up to 30 feet to an unoccupied space that you can see within 60 feet of you, and until the end of its next turn, it has advantage on saving throws and enemies have disadvantage on attacks against it.
-10	One creature that you can see within 60 feet of you must make a Constitution saving throw. On a failed saving throw, it takes cold damage equal to 3d6 + two times your cleric level and its speed is reduced to 0 feet until the end of its next turn. On a successful saving throw, it takes half as much damage and its speed isn't reduced.
-Inspired Chaos
+**Wild Blessing Table**
+
+d10	| Channel Divinity Effect
+--- | -----------------------
+1 | You teleport up to 60 feet to an unoccupied space that you can see. Each creature of your choice within 15 feet of either your starting position or your new position must make a Constitution saving throw, taking thunder damage equal to 2d6 + your cleric level on a failed save, or half as much damage on a successful one. Nonmagical objects of your choice in the area that aren't being worn or carried also take full damage.
+2 | Each creature of your choice within 30 feet of you is surrounded by a barrier that grants it a +2 bonus to AC until the end of your next turn and advantage on the next saving throw it makes during that time.
+3 | A wave of flames bursts outward in a 15-foot radius sphere centered on a point that you can see within 60 feet of you. Each creature in the area must make a Dexterity saving throw, taking fire damage equal to 2d10 + your cleric level on a failed save, or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren’t being worn or carried.
+4 | Negative energy swirls as dark mist around you, lightly obscuring the area within 30 feet of you until the end of your next turn. Each creature of your choice within the area must succeed on a Constitution saving throw or be poisoned until the end of your next turn. If you target at least one creature with this effect, you and each creature of your choice in the area also gain temporary hit points equal to your cleric level.
+5 | A wave of positive energy fills the area within 30 feet of you with bright light until the end of your next turn. Up to four creatures of your choice within the area each regain a number of hit points equal to your cleric level. If a creature has more than 0 hit points when it receives this healing, it also gains temporary hit points equal to half your cleric level.
+6 | A bolt of lightning surges toward one creature or object that you can see within 60 feet of you. You may also choose up to two other creatures or objects within 15 feet of the first target. Each target must make a Dexterity saving throw. On a failed saving throw, a target takes lightning damage equal to 2d6 + your cleric level, and until the end of its next turn, it can't take reactions and it has disadvantage on attack rolls. On a successful saving throw, a target takes half as much damage and suffers no other effects.
+7 | Each creature of your choice within 30 feet of you must succeed on a Wisdom saving throw or else it must use its reaction to make a melee weapon attack against one creature of your choice within its reach, dealing extra damage equal to your cleric level on a hit.
+8 | Up to three creatures that you can see within 30 feet of you must make a Charisma saving throw. On a failed saving throw, a creature is transformed into a Small object chosen by the DM (such as a chair or a potted plant) until the end of its next turn. While transformed, it is stunned and it can't speak. If it takes damage, the transformation ends immediately.
+9 | One willing creature that you can see within 60 feet of you regains hit points equal to 1d6 + two times your cleric level. Also, you can teleport the target up to 30 feet to an unoccupied space that you can see within 60 feet of you, and until the end of its next turn, it has advantage on saving throws and enemies have disadvantage on attacks against it.
+10 | One creature that you can see within 60 feet of you must make a Constitution saving throw. On a failed saving throw, it takes cold damage equal to 3d6 + two times your cleric level and its speed is reduced to 0 feet until the end of its next turn. On a successful saving throw, it takes half as much damage and its speed isn't reduced.
+
+## Inspired Chaos
 At 6th level, your deity grants you a measure of control over the chaos you receive from it. When you would roll a d10 for your Wild Blessing feature, you roll two d10s instead and choose which result to use. If both dice roll the same result, you choose the effect from the table.
 
-Divine Strike
+## Divine Strike
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 The type of this extra damage is based on the result of the d8. Starting at 14th level, you choose which d8 to use to determine the damage type. If both d8s roll the same result, you instead choose a type from the table.
 
-d8	Damage Type	d8	Damage Type
-1	Acid	5	Necrotic
-2	Cold	6	Poison
-3	Fire	7	Radiant
-4	Lightning	8	Thunder
-Chaos Control
+d8 | Damage Type
+-- | -----------
+1 | Acid	
+2 | Cold	
+3 | Fire	
+4 | Lightning	
+5 | Necrotic
+6 | Poison
+7 | Radiant
+8 | Thunder
+
+## Chaos Control
 When you reach 17th level, you gain the ability to alter fate and control chaos directly. Whenever you use your Wild Blessing feature, you can choose the effect from the table instead of rolling.
 
 In addition, when you use your Channel Divinity feature, you can cause one spell of 3rd-level or lower that is affecting you or a willing creature that you can see within 30 feet of you to stop affecting that creature and instead start affecting a different willing creature of your choice that you can see within 30 feet.

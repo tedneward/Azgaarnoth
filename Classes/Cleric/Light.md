@@ -9,11 +9,11 @@ Starting at 1st level, you gain domain spells at the cleric levels listed in the
 
 Cleric Level |	Spells
 ------------ | -----
-1st	| [Burning Hands](../../Magic/Spells/burning-hands.md), [Faerie Fire](../../Magic/Spells/faerie-fire.md)
-3rd	| [Flaming Sphere](../../Magic/Spells/flaming-sphere.md), [Scorching Ray](../../Magic/Spells/scorching-ray.md)
-5th	| [Daylight](../../Magic/Spells/daylight.md), [Fireball](../../Magic/Spells/fireball.md)
-7th	| [Guardian of Faith](../../Magic/Spells/guardian-of-faith.md), [Wall of Fire](../../Magic/Spells/wall-of-fire.md)
-9th	| [Flame Strike](../../Magic/Spells/flame-strike.md), [Scrying](../../Magic/Spells/scrying.md)
+1st	| [burning hands](../../Magic/Spells/burning-hands.md), [faerie fire](../../Magic/Spells/faerie-fire.md)
+3rd	| [flaming sphere](../../Magic/Spells/flaming-sphere.md), [scorching ray](../../Magic/Spells/scorching-ray.md)
+5th	| [daylight](../../Magic/Spells/daylight.md), [fireball](../../Magic/Spells/fireball.md)
+7th	| [guardian of faith](../../Magic/Spells/guardian-of-faith.md), [wall of fire](../../Magic/Spells/wall-of-fire.md)
+9th	| [flame strike](../../Magic/Spells/flame-strike.md), [scrying](../../Magic/Spells/scrying.md)
 
 ## Bonus Cantrip
 When you choose this domain at 1st level, you gain the [light](../../Magic/Spells/light.md) cantrip if you don't already know it.

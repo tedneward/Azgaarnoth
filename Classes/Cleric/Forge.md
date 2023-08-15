@@ -8,11 +8,11 @@ Starting at 1st level, you gain domain spells at the cleric levels listed in the
 
 Cleric Level | Spells
 ------------ | ------
-1st |	Identify, Searing Smite
-3rd	| Heat Metal, Magic Weapon
-5th	| Elemental Weapon, Protection from Energy
-7th	| Fabricate, Wall of Fire
-9th	| Animate Objects, Creation
+1st | [identify](../../Magic/Spells/identify.md), [searing smite](../../Magic/Spells/searing-smite.md)
+3rd	| [heat metal](../../Magic/Spells/heat-metal.md), [magic weapon](../../Magic/Spells/magic-weapon.md)
+5th	| [elemental weapon](../../Magic/Spells/elemental-weapon.md), [protection from energy](../../Magic/Spells/protection-from-energy.md)
+7th	| [fabricate](../../Magic/Spells/fabricate.md), [wall of fire](../../Magic/Spells/wall-of-fire.md)
+9th	| [animate objects](../../Magic/Spells/animate-objects.md), [creation](../../Magic/Spells/creation.md)
 
 ## Bonus Proficiencies
 When you choose this domain at 1st level, you gain proficiency with heavy armor and smith's tools.
@@ -33,6 +33,7 @@ The ritual can create a duplicate of a nonmagical item that contains metal, such
 
 ## Soul of the Forge
 Starting at 6th level, your mastery of the forge grants you special abilities:
+
 * You gain resistance to fire damage.
 * While wearing heavy armor, you gain a +1 bonus to AC.
 
@@ -41,7 +42,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with the fiery 
 
 ## Saint of Forge and Fire
 At 17th level, your blessed affinity with fire and metal becomes more powerful:
+
 * You gain immunity to fire damage.
 * While wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
 
-*Source: [Unearthed Arcana: Cleric Divine Domains](https://dnd.wizards.com/articles/unearthed-arcana/cleric-divine-domains)*

@@ -8,11 +8,11 @@ Once you gain a domain spell, you always have it prepared, and it doesn't count 
 
 Cleric Level|Spells
 ------------|------
-1st|bane, bless
-3rd|augury, mirror image
-5th|bestow curse, haste
-7th|jinx (new), twist fate (new)
-9th|blessing of luck (new), circle of power
+1st | [bane](../../Magic/Spells/bane.md), [bless](../../Magic/Spells/bless.md)
+3rd | [augury](../../Magic/Spells/augury.md), [mirror image](../../Magic/Spells/mirror-image.md)
+5th | [bestow curse](../../Magic/Spells/bestow-curse.md), [haste](../../Magic/Spells/haste.md)
+7th | [jinx](../../Magic/Spells/jinx.md), [twist fate](../../Magic/Spells/twist-fate.md)
+9th | [blessing of luck](../../Magic/Spells/blessing-of-luck.md), [circle of power](../../Magic/Spells/circle-of-power.md)
 
 ## Prophect of Chance
 *1st-level Luck Domain feature*

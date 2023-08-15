@@ -8,11 +8,11 @@ You gain domain spells at the cleric levels listed in the Dragon Domain Spells t
 
 Cleric Level|Spells
 ------------|------
-1st|absorb elements, identify
-3rd|locate object, dragon's breath
-5th|elemental weapon, fear
-7th|elemental bane, leomund's secret chest
-9th|scrying, skill empowerment
+1st|[absorb elements](../../Magic/Spells/absorb-elements.md), [identify](../../Magic/Spells/identify.md)
+3rd|[locate object](../../Magic/Spells/locate-object.md), [dragon's breath](../../Magic/Spells/dragons-breath.md)
+5th|[elemental weapon](../../Magic/Spells/elemental-weapon.md), [fear](../../Magic/Spells/fear.md)
+7th|[elemental bane](../../Magic/Spells/elemental-bane.md), [leomund's secret chest](../../Magic/Spells/leomunds-secret-chest.md)
+9th|[scrying](../../Magic/Spells/scrying.md), [skill empowerment](../../Magic/Spells/skill-empowerment.md)
 
 ## Draconic Knowledge
 At 1st level, you learn Draconic if you don't know it already. If you already know Draconic, you learn a different language of your choice. You also gain proficiency in your choice of one the the following: Arcana, History, or Nature. Your proficiency bonus is doubled for any skill checks you make using that skill.

@@ -10,11 +10,11 @@ You gain domain spells at the cleric levels listed in the Cat Lord Domain Spells
 
 Cleric Level | Spells
 ------------ | ------
-1st	| identify, divine favor
-3rd	| pass without trace, augury
-5th	| dispel magic, nondetection
-7th	| dimension door, confusion
-9th	| modify memory, legend lore
+1st	| [identify](../../Magic/Spells/identify.md), [divine favor](../../Magic/Spells/divine-favor.md)
+3rd	| [pass without trace](../../Magic/Spells/pass-without-trace.md), [augury](../../Magic/Spells/augury.md)
+5th	| [dispel magic](../../Magic/Spells/dispel-magic.md), [nondetection](../../Magic/Spells/nondetection.md)
+7th	| [dimension door](../../Magic/Spells/dimension-door.md), [confusion](../../Magic/Spells/confusion.md)
+9th	| [modify memory](../../Magic/Spells/modify-memory.md), [legend lore](../../Magic/Spells/legend-lore.md)
 
 ## Driven By Curiosity
 At 1st level, your training and travelling have taught you two languages of your choice. You also become proficient in your choice of two of the following skills: Arcana, History, Nature, or Religion.

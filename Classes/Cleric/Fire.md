@@ -10,11 +10,11 @@ You gain domain spells at the cleric levels listed in the Fire Domain Spells tab
 
 Cleric Level | Spells
 ------------ | ------
-1st	 | burning hands, hellish rebuke, earth tremor (pick 2)
-3rd	 | flame blade, scorching ray
-5th	 | fireball, melf's minute meteors
-7th	 | wall of fire, fire shield
-9th	 | conjure elemental, flame strike, immolation (pick 2)
+1st	 | [burning hands](../../Magic/Spells/burning-hands.md), [hellish rebuke](../../Magic/Spells/hellish-rebuke.md), [earth tremor](../../Magic/Spells/earth-tremor.md) (pick 2)
+3rd	 | [flame blade](../../Magic/Spells/flame-blade.md), [scorching ray](../../Magic/Spells/scorching-ray.md)
+5th	 | [fireball](../../Magic/Spells/fireball.md), [melf's minute meteors](../../Magic/Spells/melfs-minute-meteors.md)
+7th	 | [wall of fire](../../Magic/Spells/wall-of-fire.md), [fire shield](../../Magic/Spells/fire-shield.md)
+9th	 | [conjure elemental](../../Magic/Spells/conjure-elemental.md), [flame strike](../../Magic/Spells/flame-strike.md), [immolation](../../Magic/Spells/immolation.md) (pick 2)
 
 ## Bonus Proficiencies
 When you choose this domain at 1st level, you gain proficiency with heavy armor and marshal weapons.

@@ -87,9 +87,18 @@ def namegen(which):
             return guild
         else:
             organizations = [
-                'Compact', 'Company', 'Pact', 'Guild'
+                'Compact', 'Company', 'Pact', 'Guild', 'Federation', 'Club', 'League',
+                'Group', 'Lodge', 'Order', 'Society', 'Trade', 'Union', 'Association',
+                'Club', 'Brotherhood', 'Confederation', 'Faction', 'Congress',
+                'Fellowship', 'Foundation', 'Fraternity', 'Sorority', 'Institute'
             ]
-            return "**MERCHANT GUILD**"
+            cities = os.listdir('../../Cities')
+            cities.remove('index.md')
+            city = open('../../Cities/' + cities[random.randint(0, len(cities))], 'r').readlines()[0][len('# '):]
+            if random.randint(0, 100) > 50:
+                return organizations[random.randint(0, len(organizations)-1)] + ' of ' + city
+            else:
+                return city + ' ' + organizations[random.randint(0, len(organizations)-1)]
     elif which == 'mercenarycompany':
         if random.randint(0, 100) > 50:
             mercs = os.listdir('../../Organizations/MercenaryCompanies')

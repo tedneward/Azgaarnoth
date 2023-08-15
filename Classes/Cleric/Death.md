@@ -10,11 +10,11 @@ You gain domain spells at the cleric levels listed in the Death Domain Spells ta
 
 Cleric Level | Spells
 ------------ | ------
-1st | False Life, Ray of Sickness
-3rd	| Blindness/Deafness, Ray of Enfeeblement
-5th	| Animate Dead, Vampiric Touch
-7th | Blight, Death Ward
-9th | Antilife Shell, Cloudkill
+1st | [false life](../../Magic/Spells/false-life.md), [ray of sickness](../../Magic/Spells/ray-of-sickness.md)
+3rd	| [blindness/deafness](../../Magic/Spells/blindness-deafness.md), [ray of enfeeblement](../../Magic/Spells/ray-of-enfeeblement.md)
+5th	| [animate dead](../../Magic/Spells/animate-dead.md), [vampiric touch](../../Magic/Spells/vampiric-touch.md)
+7th | [blight](../../Magic/Spells/blight.md), [death ward](../../Magic/Spells/death-ward.md)
+9th | [antilife shell](../../Magic/Spells/antilife-shell.md), [cloudkill](../../Magic/Spells/cloudkill.md)
 
 ## Bonus Proficiency
 *1st-level Death Domain feature* 

@@ -8,11 +8,11 @@ A Blood Domain Cleric gains the following spells as Domain Spells at the allotte
 
 Cleric Level | Spells
 ------------ | ------
-1st	 | Hellish Rebuke, Inflict Wounds
-3rd	 | Hold Person, Enhance Ability
-5th	 | Revivify, Animate Dead
-7th	 | Death Ward, Locate Creature
-9th	 | Greater Restoration, Raise Dead
+1st	 | [hellish rebuke](../../Magic/Spells/hellish-rebuke.md), [inflict wounds](../../Magic/Spells/inflict-wounds.md)
+3rd	 | [hold person](../../Magic/Spells/hold-person.md), [enhance ability](../../Magic/Spells/enhance-ability.md)
+5th	 | [revivify](../../Magic/Spells/revivify.md), [animate dead](../../Magic/Spells/animal-friendship.md)
+7th	 | [death ward](../../Magic/Spells/death-ward.md), [locate creature](../../Magic/Spells/locate-creature.md)
+9th	 | [greater restoration](../../Magic/Spells/greater-restoration.md), [raise dead](../../Magic/Spells/raise-dead.md)
 
 ## Bonus Proficiency
 At 1st level, you gain proficiency in heavy armor.

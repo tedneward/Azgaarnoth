@@ -8,11 +8,11 @@ Starting at 1st level, you gain domain spells at the cleric levels listed in the
 
 Cleric Level | Spells
 ------------ | ------
-1st | Bane, False Life
-3rd | Gentle Repose, Ray of Enfeeblement
-5th | Revivify, Vampiric Touch
-7th | Blight, Death Ward
-9th | Antilife Shell, Raise Dead
+1st | [bane](../../Magic/Spells/bane.md), [false life](../../Magic/Spells/false-life.md)
+3rd | [gentle repose](../../Magic/Spells/gentle-repose.md), [ray of enfeeblement](../../Magic/Spells/ray-of-enfeeblement.md)
+5th | [revivify](../../Magic/Spells/revivify.md), [vampiric touch](../../Magic/Spells/vampiric-touch.md)
+7th | [blight](../../Magic/Spells/blight.md), [death ward](../../Magic/Spells/death-ward.md)
+9th | [antilife shell](../../Magic/Spells/antilife-shell.md), [raise dead](../../Magic/Spells/raise-dead.md)
 
 ## Circle of Mortality
 At 1st level, you gain the ability to manipulate the line between life and death. When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die.
