@@ -53,5 +53,3 @@ The [Order of the North Star](../../Organizations/MonasticOrders/NorthStar.md) (
 
 ## Dogma
 Eschew the illusory safety of the clan hold and instead travel widely to spread the words of the Morndinsamman to those of other races, that they might gain the product of dwarven wisdom. Help fellow wanderers and sojourners to the best of your ability, for the road is easier endured amid the tread of companionship. Seek out new ways and paths, and discover the wise world in your wanderings. Herald the way of newfound hope.
-
-## Appearance, Manifestations

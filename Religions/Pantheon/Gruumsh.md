@@ -5,7 +5,7 @@ At the time the Hordes began their war against the Eldar, Gruumsh, also known as
 
 Gruumsh One-Eye drives his followers to overcome all foes, expand their territories, and claim what they believe is rightfully theirs. He revels in warfare and combat, and teaches that only through constant warfare can the strongest, most brutal orcs survive to beget even stronger future generations. One-Eye epitomizes the brutal savagery and drive to dominate all other creatures that is at the heart of orc society. He is ever watchful of his followers, and woe betide those who transgress him or his priests.
 
-Gruumsh is by far the most worshipped deity among the [Ulmhorde](../../Nations/Ulm.md), and it is whispered in some circles that [Ulm](../../People/Ulm.md) himself is an avatar of Gruumsh, or least highly blessed of One-Eye's favor.
+Gruumsh is a widely worshipped deity among the [Ulmhorde](../../Nations/Ulm.md), and it is whispered in some circles that [Ulm](../../People/Ulm.md) himself is an avatar of Gruumsh, or least highly blessed of One-Eye's favor. Either way, he is worshipped openly among the Hordes that still devote themselves to the Old Ways, and vies for followers against Maglubiyet among them. Although most worship falls along clan lines, periodically one clan will raid another, taking slaves and absorbing the other, and "convince" the 'Mighty' One's followers of the superiority of He Who Never Sleeps.
 
 ## Clerical details
 Domains: [Fire](../../Classes/Cleric/Fire.md), [Tempest](../../Classes/Cleric/Tempest.md), [War](../../Classes/Cleric/War.md)
