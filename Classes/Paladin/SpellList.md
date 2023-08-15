@@ -93,6 +93,7 @@
 * [Desecration](../../Magic/Spells/desecration.md)
 * [Desperate Gambit](../../Magic/Spells/desperate-gambit.md)
 * [Detect Familiar](../../Magic/Spells/detect-familiar.md)
+* [Detect Familiar](../../Magic/Spells/detect-undead.md)
 * [Divine Ward](../../Magic/Spells/divine-ward.md)
 * [Dramatic Entrance](../../Magic/Spells/dramatic-entrance.md)
 * [Dread Mercy](../../Magic/Spells/dread-mercy.md)
@@ -130,6 +131,7 @@
 * [Warning Breath](../../Magic/Spells/warning-breath.md)
 * [Wolfjaws](../../Magic/Spells/wolfjaws.md)
 * [Wracking Touch](../../Magic/Spells/wracking-touch.md)
+* [Zeal](../../Magic/Spells/zeal.md)
 * [Zealous Sanction](../../Magic/Spells/zealous-sanction.md)
 * [Zone of Truth](../../Magic/Spells/zone-of-truth.md)
  
@@ -201,6 +203,7 @@
 * [Find Greater Steed](../../Magic/Spells/find-greater-steed.md)
 * [Gift of Vivacity](../../Magic/Spells/gift-of-vivacity.md)
 * [Hero's Defiance](../../Magic/Spells/heros-defiance.md)
+* [Improved Locate Object](../../Magic/Spells/improved-locate-object.md)
 * [Inspire Terror](../../Magic/Spells/inspire-terror.md)
 * [Killing Ground](../../Magic/Spells/killing-ground.md)
 * [Lathander's Blessing](../../Magic/Spells/lathanders-blessing.md)

@@ -2,6 +2,7 @@
  
 ## cantrip-Level Spells
 * [Balance](../../Magic/Spells/balance.md)
+* [Blood Curse](../../Magic/Spells/blood-curse.md)
 * [Blood Siphon](../../Magic/Spells/blood-siphon.md)
 * [Bloodlink](../../Magic/Spells/bloodlink.md)
 * [Bolster](../../Magic/Spells/bolster.md)
@@ -13,6 +14,7 @@
 * [Grim Scythe](../../Magic/Spells/grim-scythe.md)
 * [Grimlore's Influence](../../Magic/Spells/grimlores-influence.md)
 * [Infestation](../../Magic/Spells/infestation.md)
+* [Jinx Touch](../../Magic/Spells/jinx-touch.md)
 * [Manipulate Shadow](../../Magic/Spells/manipulate-shadow.md)
 * [Minor Illusion](../../Magic/Spells/minor-illusion.md)
 * [Night Terror](../../Magic/Spells/night-terror.md)
@@ -52,7 +54,9 @@
 * [Guillotine](../../Magic/Spells/guillotine.md)
 * [Inaudible](../../Magic/Spells/inaudible.md)
 * [Inflict Wounds](../../Magic/Spells/inflict-wounds.md)
+* [Inspire Dread](../../Magic/Spells/inspire-dread.md)
 * [Interpret Bone](../../Magic/Spells/interpret-bone.md)
+* [Laeral's Cutting Hand](../../Magic/Spells/laerals-cutting-hand.md)
 * [Larloch's Minor Drain](../../Magic/Spells/larlochs-minor-drain.md)
 * [Misery](../../Magic/Spells/misery.md)
 * [Murmurs of the Restless](../../Magic/Spells/murmurs-of-the-restless.md)
@@ -64,11 +68,14 @@
  
 ## 2nd-Level Spells
 * [Analyze Blood](../../Magic/Spells/analyze-blood.md)
+* [Blackrot](../../Magic/Spells/blackrot.md)
+* [Blastbones](../../Magic/Spells/blastbones.md)
 * [Blindness/Deafness](../../Magic/Spells/blindness-deafness.md)
 * [Darkness](../../Magic/Spells/darkness.md)
 * [Darkvision](../../Magic/Spells/darkvision.md)
 * [Desecration](../../Magic/Spells/desecration.md)
 * [Detect Familiar](../../Magic/Spells/detect-familiar.md)
+* [Detect Familiar](../../Magic/Spells/detect-undead.md)
 * [Drain Life](../../Magic/Spells/drain-life.md)
 * [Elemental Anguish](../../Magic/Spells/elemental-anguish.md)
 * [Gentle Repose](../../Magic/Spells/gentle-repose.md)
@@ -85,6 +92,7 @@
 * [Unseat Hand](../../Magic/Spells/unseat-hand.md)
  
 ## 3rd-Level Spells
+* [Absorb Mind](../../Magic/Spells/absorb-mind.md)
 * [Animate Dead](../../Magic/Spells/animate-dead.md)
 * [Bestow Curse](../../Magic/Spells/bestow-curse.md)
 * [Counterspell](../../Magic/Spells/counterspell.md)
@@ -92,6 +100,8 @@
 * [Fear](../../Magic/Spells/fear.md)
 * [Feign Death](../../Magic/Spells/feign-death.md)
 * [Grimlore's Affliction](../../Magic/Spells/grimlores-affliction.md)
+* [Infestation of Maggots](../../Magic/Spells/infestation-of-maggots.md)
+* [Junglerazer](../../Magic/Spells/junglerazer.md)
 * [Life Transference](../../Magic/Spells/life-transference.md)
 * [Lunar Blessing](../../Magic/Spells/lunar-blessing.md)
 * [Mummify](../../Magic/Spells/mummify.md)
@@ -107,15 +117,19 @@
 * [Water Breathing](../../Magic/Spells/water-breathing.md)
  
 ## 4th-Level Spells
+* [Absorb Strength](../../Magic/Spells/absorb-strength.md)
 * [Army of the Dead](../../Magic/Spells/army-of-the-dead.md)
 * [Blight](../../Magic/Spells/blight.md)
 * [Devastate Undead](../../Magic/Spells/devastate-undead.md)
 * [Dusk Arrows](../../Magic/Spells/dusk-arrows.md)
 * [Embers](../../Magic/Spells/embers.md)
 * [Evard's Black Tentacles](../../Magic/Spells/evards-black-tentacles.md)
+* [Finger of Agony](../../Magic/Spells/finger-of-agony.md)
 * [Grimlore's Withering Coils](../../Magic/Spells/grimlores-withering-coils.md)
 * [Hallowing Curse](../../Magic/Spells/hallowing-curse.md)
 * [Hernan's Hemorrhage](../../Magic/Spells/hernans-hemorrhage.md)
+* [Inspire Terror](../../Magic/Spells/inspire-terror.md)
+* [Killing Ground](../../Magic/Spells/killing-ground.md)
 * [Phantasmal Killer](../../Magic/Spells/phantasmal-killer.md)
 * [Plague](../../Magic/Spells/plague.md)
 * [Shadow of Moil](../../Magic/Spells/shadow-of-moil.md)
@@ -135,8 +149,10 @@
 * [Hallow](../../Magic/Spells/hallow.md)
 * [Ilmater's Fortune](../../Magic/Spells/ilmaters-fortune.md)
 * [Insect Plague](../../Magic/Spells/insect-plague.md)
+* [Mass Inflict Wounds](../../Magic/Spells/mass-inflict-wounds.md)
 * [Midnight](../../Magic/Spells/midnight.md)
 * [Mislead](../../Magic/Spells/mislead.md)
+* [Necrotic Armor](../../Magic/Spells/necrotic-armor.md)
 * [Negative Energy Flood](../../Magic/Spells/negative-energy-flood.md)
 * [Oghma's Knowledge Transferal](../../Magic/Spells/oghmas-knowledge-transferal.md)
 * [Raise Dead](../../Magic/Spells/raise-dead.md)
@@ -144,6 +160,8 @@
 * [Scrying](../../Magic/Spells/scrying.md)
  
 ## 6th-Level Spells
+* [Animate Blood](../../Magic/Spells/animate-blood.md)
+* [Awaken Undead](../../Magic/Spells/awaken-undead.md)
 * [Bound into Obedience](../../Magic/Spells/bound-into-obedience.md)
 * [Circle of Death](../../Magic/Spells/circle-of-death.md)
 * [Create Undead](../../Magic/Spells/create-undead.md)
@@ -162,6 +180,7 @@
  
 ## 7th-Level Spells
 * [Arrow of Bone](../../Magic/Spells/arrow-of-bone.md)
+* [Avasculate](../../Magic/Spells/avasculate.md)
 * [Create Revenant](../../Magic/Spells/create-revenant.md)
 * [Etherealness](../../Magic/Spells/etherealness.md)
 * [Finger of Death](../../Magic/Spells/finger-of-death.md)
@@ -174,6 +193,8 @@
 * [Abi-Dalzim's Horrid Wilting](../../Magic/Spells/abi-dalzims-horrid-wilting.md)
 * [Armament of Irritants](../../Magic/Spells/armament-of-irritants.md)
 * [Ascendancy of Vecna](../../Magic/Spells/ascendancy-of-vecna.md)
+* [Avascular Mass](../../Magic/Spells/avascular-mass.md)
+* [Bodak's Glare](../../Magic/Spells/bodaks-glare.md)
 * [Chalice of the Night](../../Magic/Spells/chalice-of-the-night.md)
 * [Clone](../../Magic/Spells/clone.md)
 * [Feeblemind](../../Magic/Spells/feeblemind.md)
@@ -185,6 +206,7 @@
  
 ## 9th-Level Spells
 * [Astral Projection](../../Magic/Spells/astral-projection.md)
+* [Awaken Construct](../../Magic/Spells/awaken-construct.md)
 * [Bixmodeus' Binding of Perduring Possession](../../Magic/Spells/bixmodeus-binding-of-perduring-possession.md)
 * [Grimlore's Calamity](../../Magic/Spells/grimlores-calamity.md)
 * [Power Word Kill](../../Magic/Spells/power-word-kill.md)

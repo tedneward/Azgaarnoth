@@ -2,6 +2,7 @@
  
 ## cantrip-Level Spells
 * [Balance](../../Magic/Spells/balance.md)
+* [Blood Curse](../../Magic/Spells/blood-curse.md)
 * [Bolster](../../Magic/Spells/bolster.md)
 * [Create Bonfire](../../Magic/Spells/create-bonfire.md)
 * [Druidcraft](../../Magic/Spells/druidcraft.md)
@@ -28,9 +29,12 @@
 * [Entangle](../../Magic/Spells/entangle.md)
 * [Faerie Fire](../../Magic/Spells/faerie-fire.md)
 * [Fog Cloud](../../Magic/Spells/fog-cloud.md)
+* [Great Watcher Spirit](../../Magic/Spells/great-watcher-spirit.md)
 * [Grimlore's Shadowblight](../../Magic/Spells/grimlores-shadowblight.md)
 * [Heroism](../../Magic/Spells/heroism.md)
 * [Hex](../../Magic/Spells/hex.md)
+* [Inspire Dread](../../Magic/Spells/inspire-dread.md)
+* [Ironbreaker Claws](../../Magic/Spells/ironbreaker-claws.md)
 * [Nightowl](../../Magic/Spells/nightowl.md)
 * [Positive Foundations](../../Magic/Spells/positive-foundations.md)
 * [Protection from Evil and Good](../../Magic/Spells/protection-from-evil-and-good.md)
@@ -39,6 +43,7 @@
  
 ## 2nd-Level Spells
 * [Barkskin](../../Magic/Spells/barkskin.md)
+* [Bewitching Glare](../../Magic/Spells/bewitching-glare.md)
 * [Borrowed Knowledge](../../Magic/Spells/borrowed-knowledge.md)
 * [Darkness](../../Magic/Spells/darkness.md)
 * [Enhance Ability](../../Magic/Spells/enhance-ability.md)
@@ -75,6 +80,7 @@
 * [Summon Warrior Spirit](../../Magic/Spells/summon-warrior-spirit.md)
  
 ## 4th-Level Spells
+* [Absorb Strength](../../Magic/Spells/absorb-strength.md)
 * [Brook Healing](../../Magic/Spells/brook-healing.md)
 * [Detect Curses](../../Magic/Spells/detect-curses.md)
 * [Dominate Beast](../../Magic/Spells/dominate-beast.md)
@@ -113,6 +119,7 @@
 * [Wind Walk](../../Magic/Spells/wind-walk.md)
  
 ## 7th-Level Spells
+* [Bone Javelin](../../Magic/Spells/bone-javelin.md)
 * [Conjure Shambling Mound](../../Magic/Spells/conjure-shambling-mound.md)
 * [Etherealness](../../Magic/Spells/etherealness.md)
 * [Mirage Arcane](../../Magic/Spells/mirage-arcane.md)
