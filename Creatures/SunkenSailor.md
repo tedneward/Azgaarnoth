@@ -10,7 +10,7 @@ Sunken sailors are the soulless but not lifeless cadavers of sailors lost at sea
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|14 (+2)| 6 (-2)|16 (+3)| 3 (-4)| 6 (-2)| 5 (-3)|
+>|14 (+2)| 6 (-2)|16 (+3)|3 (-4)|6 (-2)|5 (-3)|
 >
 >___
 >- **Proficiency Bonus** +2
