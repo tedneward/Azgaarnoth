@@ -1,1 +1,32 @@
-# Placeholder
+site_name: Azgaarnoth
+site_url: http://azgaarnoth.tedneward.com/
+nav:
+  - 'World':
+    - Geography: Geography
+    - Religions: Religions
+    - Nations: Nations
+    - Cities: Cities
+    - 'Organizations':
+      - Overview: Organizations
+      - Bardic Colleges: Organizations/BardicColleges
+      - Dueling Colleges: Organizations/DuelingColleges
+      - Great Houses: Organizations/Houses
+      - Mage Schools: Organizations/MageSchools
+      - Merchant Guilds: Organizations/MerchantGuilds
+      - Militant Orders: Organizations/MilitantOrders
+      - Monastic Orders: Organizations/MonasticOrders
+      - Rogues' Guilds: Organizations/RoguesGuilds
+    - History:
+      - Ancient: History/Ancient.md
+      - Modern: History/Modern.md
+      - Timeline: History/Timeline.md
+  - 'System':
+    - Races: Races/index.md
+    - Classes: Classes/index.md
+  - 'Reference':
+    - Spells: Magic/Spells
+    - Items: Magic/Items
+    - Creatures: Creatures
+  - 'About':
+    - ... this site: about.md
+    - ... my games: GameNotes.md
