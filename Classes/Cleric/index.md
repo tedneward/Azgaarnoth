@@ -1,47 +1,7 @@
 # Cleric
 Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
 
-Several major religions dot the surface of Azgaarnoth:
-
-* The [Pantheon](/Religions/Pantheon/index.md) is the classic multitheistic panoply of gods and goddesses arranged (more or less) by domain of the cosmos. Within the Pantheon, a huge variety of domains are available, and potentially others lurk in the deepest corners of the world. Each of the gods and goddesses waxes and wanes as their followers surge and shrink, and new gods are born or discovered every day, it seems.
-
-* The [Al'Uma](/Religions/AlUma.md) believe that the world has entered its current state because mortals did not worship the beings that maintained it, and therefore it is mortals' responsibility to correct that, by either worship, combat, or both.
-
-  * **Alalihatian Cleric**
-
-    Domain (choose one): [Life](Cleric/Life.md), [Light](Cleric/Light.md), or [Order](Cleric/Order.md)
-
-    Preferred equipment: mace, leather armor, light crossbow, shield
-
-    Holy symbol: A mirror-bright disk with etchings of the ancient symbols of the Eldar
-
-  * **Alamalzish Cleric**
-
-    Domain (choose one): [Arcana](Cleric/Arcana.md), [Knowledge](Cleric/Knowledge.md), [Life](Cleric/Life.md), [Light](Cleric/Light.md), [Nature](Cleric/Nature.md), [Order](Cleric/Order.md), [Protection](Cleric/Protection.md), [Unity](Cleric/Unity.md), [War](Cleric/War.md) or [Zeal](Cleric/Zeal.md).
-
-    Preferred equipment: mace, leather armor, light crossbow, shield
-
-    Holy symbol: A mirror-bright disk, with an etching of a sun rising over a rounded shape (hill)
-
-  * **Zalabasan Cleric**
-
-    Domain (choose one): [War](Cleric/War.md), [Life](Cleric/Life.md), or [Order](Cleric/Order.md)
-
-    Preferred equipment: mace, scale mail or chain mail, light crossbow, shield
-
-    Holy symbol: A mirror-bright disk, with an etching of an upraised clenched fist
-
-  * ***al'maeran* Cleric**
-
-    Domain (choose one): [Nature](Cleric/Nature.md) (with an emphasis on the sea) or [Tempest](Cleric/Tempest.md)
-    
-    Preferred equipment: spear or trident, light crossbow, leather armor
-
-    Holy symbol: A conch (or some other mollusk) shell, cleaned and polished
-
-* The [Kaevarian Church](/Religions/KaevarianChurch.md) is a monotheistic religion that actually encompasses all of the Pantheon (and the Eldar) as agents of a singular entity (Kaevar). Generally these clerics will be of  [Life](Cleric/Life.md), [Order](Cleric/Order.md), [Knowledge](Cleric/Knowledge.md), [Light](Cleric/Light.md) or [Unity](Cleric/Unity.md) domains, but a player wishing to be Kaevarian of a different domain can make the theological argument that since "all is Kaevar", so, too, should this domain be represented, and have solid theological ground on which to stand. Most Kaevarians would reject anything to do with chaos or evil; however, the branches of the Kaevarian Church in [Dradehalia](../../Nations/Dradehalia.md) have been known to flirt with those domains as part of the [Dread Emperor](/People/DreadEmperor.md)'s plans.
-
-* [Draconic](Cleric/Dragon.md) clerics are almost always a member of the [Draconic Order](../../Organizations/DraconicOrder/DraconicOrder.md), or (for evil clerics) a member of the [Cult of the Wyrm](../../Organizations/CultOfTheWyrm.md), depending on whether they follow a metallic or chromatic dragon.
+Several major [religions](../../Religions/index.md) dot the surface of Azgaarnoth, each with its own set of domains and unique abilities. You may wish to take a look at these before making any particular choices about your cleric's domains and characteristics.
 
 ## Class features
 As a cleric, you gain the following class features.
@@ -51,22 +11,22 @@ Level|Proficiency Bonus|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|Featu
 1st  |+2|3|2|-|-|-|-|-|-|-|-|[Spellcasting](#spellcasting), [Divine Domain](#divine-domain)
 2nd  |+2|3|3|-|-|-|-|-|-|-|-|[Channel Divinity](#channel-divinity) (x1), [Divine Domain](#divine-domain) feature
 3rd  |+2|3|4|2|-|-|-|-|-|-|-|
-4th  |+2|4|4|3|-|-|-|-|-|-|-|Ability Score Improvement
+4th  |+2|4|4|3|-|-|-|-|-|-|-|[Ability Score Improvement](#ability-score-improvement)
 5th  |+3|4|4|3|2|-|-|-|-|-|-|[Destroy Undead](#destroy-undead) (CR 1/2)
 6th  |+3|4|4|3|3|-|-|-|-|-|-|[Channel Divinity](#channel-divinity) (x2), [Divine Domain](#divine-domain) feature
 7th  |+3|4|4|3|3|1|-|-|-|-|-|
-8th  |+3|4|4|3|3|2|-|-|-|-|-|Ability Score Improvement, [Destroy Undead](#destroy-undead) (CR 1), [Divine Domain](#divine-domain) feature
+8th  |+3|4|4|3|3|2|-|-|-|-|-|[Ability Score Improvement](#ability-score-improvement), [Destroy Undead](#destroy-undead) (CR 1), [Divine Domain](#divine-domain) feature
 9th  |+4|4|4|3|3|3|1|-|-|-|-|
 10th |+4|5|4|3|3|3|2|-|-|-|-|[Divine Intervention](#divine-intervention)
 11th |+4|5|4|3|3|3|2|1|-|-|-|[Destroy Undead](#destroy-undead) (CR 2)
-12th |+4|5|4|3|3|3|2|1|-|-|-|Ability Score Improvement
+12th |+4|5|4|3|3|3|2|1|-|-|-|[Ability Score Improvement](#ability-score-improvement)
 13th |+5|5|4|3|3|3|2|1|1|-|-|
 14th |+5|5|4|3|3|3|2|1|1|-|-|[Destroy Undead](#destroy-undead) (CR 3)
 15th |+5|5|4|3|3|3|2|1|1|1|-|
-16th |+5|5|4|3|3|3|2|1|1|1|-|Ability Score Improvement
+16th |+5|5|4|3|3|3|2|1|1|1|-|[Ability Score Improvement](#ability-score-improvement)
 17th |+6|5|4|3|3|3|2|1|1|1|1|[Destroy Undead](#destroy-undead) (CR 4), [Divine Domain](#divine-domain) feature
 18th |+6|5|4|3|3|3|3|1|1|1|1|[Channel Divinity](#channel-divinity) (x3)
-19th |+6|5|4|3|3|3|3|2|1|1|1|Ability Score Improvement
+19th |+6|5|4|3|3|3|3|2|1|1|1|[Ability Score Improvement](#ability-score-improvement)
 20th |+6|5|4|3|3|3|3|2|2|1|1|[Divine Intervention](#divine-intervention) improvement
 
 ### Hit Points
@@ -132,29 +92,48 @@ You can use a holy symbol as a spellcasting focus for your cleric spells.
 *1st-level cleric feature*
 
 Choose one domain:
+* [Abandoned](Abandoned.md)
+* [Air](Air.md)
 * [Arcana](Arcana.md)
-* [Chaos](Chaos.md) (***NOTE:*** Requires GM work)
+* [Blood](Blood.md)
+* [Cat](Cat.md)
+* [Chaos](Chaos.md)
+* [Cold](Cold.md)
+* [Dark](Dark.md)
 * [Death](Death.md)
 * [Defier](Defier.md)
 * [Desire](Desire.md)
+* [Destruction](Destruction.md)
 * [Dragon](Dragon.md)
+* [Earth](Earth.md)
+* [Fertility](Fertility.md)
+* [Fire](Fire.md)
 * [Forge](Forge.md)
 * [Grave](Grave.md)
+* [Healing](Healing.md)
+* [Hearth](Hearth.md)
+* [Illusion](Illusion.md)
 * [Knowledge](Knowledge.md)
 * [Life](Life.md)
 * [Light](Light.md)
 * [Luck](Luck.md)
 * [Madness](Madness.md)
+* [Moon](Moon.md)
 * [Nature](Nature.md)
+* [Ocean](Ocean.md)
 * [Order](Order.md)
+* [Peace](Peace.md)
+* [Phoenix](Phoenix.md)
 * [Protection](Protection.md)
-* [Shadow](Shadow.md) (***NOTE:*** Requires GM work)
+* [Shadow](Shadow.md)
 * [Tempest](Tempest.md)
 * [Time](Time.md)
 * [Trickery](Trickery.md)
 * [Twilight](Twilight.md)
 * [Unity](Unity.md)
+* [Vengeance](Vengeance.md)
 * [War](War.md)
+* [Water](Water.md)
 * [Zeal](Zeal.md)
 
 Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use [Channel Divinity](#channel-divinity) when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
@@ -189,13 +168,13 @@ A turned creature must spend its turns trying to move as far away from you as it
 
 You can expend a use of your [Channel Divinity](#channel-divinity) to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.
 
-## Ability Score Improvement
+## [Ability Score Improvement](#ability-score-improvement)
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ## Cantrip Versatility
 *4th-level cleric feature*
 
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the cleric spell list. 
+Whenever you reach a level in this class that grants the [Ability Score Improvement](#ability-score-improvement) feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the cleric spell list. 
 
 ## Destroy Undead
 *5th-level cleric feature*

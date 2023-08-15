@@ -8,3 +8,7 @@ In Azgaarnoth, the divine remain on the divine planes. One scholar in [Zhi](../N
 Across the landscape, most of the citizenry and commonfolk choose a religion that makes sense to them--either because they grew up with it, or perhaps their families handed it down to them, or they came to it slowly over time (perhaps due to disenchantment or disillusionment). Religious groups constantly vie with one another to draw converts to their cause, and periodic outright warfare between religious groups (such as the ongoing wars between the [Alalihatians](../Nations/Alalihat.md) and [Zabalasans](../Nations/Zabalasa.md)) are not uncommon. Kings and courts will often look to prevent such religious strife, so much of the battle goes on in back alleys--and in temple sermons.
 
 
+
+
+
+

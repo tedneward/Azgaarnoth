@@ -46,4 +46,3 @@ A cleric of the Al'Uman religion is always of either the Alalihatian, Zabalasan,
 **Preferred equipment:** spear or trident, light crossbow, leather armor
 
 **Holy symbol:** A conch (or some other mollusk) shell, cleaned and polished
-

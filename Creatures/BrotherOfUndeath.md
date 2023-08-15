@@ -34,12 +34,20 @@ Of all the Brothers of Undeath, perhaps none are more feared than the Brothers o
 >
 >***Siphon Soul.*** The Brothers of Sanctity are able to siphon the souls of others and use them as energy sources. If the Brother is able to make a successful Claw attack, or if it hits with a ranged spell attack, it can attempt to siphon the soul of its target. The target must make a Intelligence (DC 15) save, or suffer 1d3 temporary Intelligence damage. The Brother then gains six times the suffered damage in temporary hit points, possibly exceeding its hit point maximum. Alternatively, it can restore 1 level of spell slot per point of Intelligence damage. Any creature reduced to 0 Intelligence falls unconscious.
 >
->### Actions
->***Multiattack.*** The Brother in Spite can either attack once with its hammer and once with its Claw attack, or it can make 2 Claw attacks.
+>***Innate Spellcasting*** The Brothers of Sanctity are imbued with arcane energy, and as such are capable of casting spells. It is a 5th-level caster, its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It regains its expended spell slots at midnight each night. It knows the following wizard spells:
 >
->***Hammer.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
+>* *Cantrips (at will)*: [unholy flame](../Magic/Spells/unholy-flame.md), [reaver's touch](../Magic/Spells/reavers-touch.md), [cloak of ademamoz](../Magic/Spells/cloak-of-adeamoz.md)
+>* *1st level (3 slots)*: [arms of Hadar](../Magic/Spells/arms-of-hadar.md), [mage armor](../Magic/Spells/mage-armor.md), [misery](../Magic/Spells/misery.md)
+>* *2nd level (2 slots)*: [hold person](../Magic/Spells/hold-person.md), [invisibility](../Magic/Spells/invisibility.md)
+>* *3rd level (2 slots)*: [dispel magic](../Magic/Spells/dispel-magic.md), [hunger of Hadar](../Magic/Spells/hunger-of-hadar.md)
+>
+>### Actions
+>***Multiattack.*** The Brother in Spite can either attack once with its dagger, or it can make 2 Claw attacks.
+>
+>***Dagger.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
 >
 >***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
+
 
 ---
 
