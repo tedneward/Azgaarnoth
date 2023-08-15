@@ -1,0 +1,3 @@
+@ECHO OFF
+@ECHO Baking MD into HTML....
+

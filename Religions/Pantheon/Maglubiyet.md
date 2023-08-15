@@ -5,7 +5,7 @@ Maglubiyet's divine realm is Clangor, located in Avalas, the first layer of the 
 
 From his throne of flaming iron, Maglubiyet commands the souls of goblins, hobgoblins, and worgs to wage eternal war against the orcish petitioners of [Gruumsh](Gruumsh.md). He also employed baatezu to bolster his armies.
 
-Maglubiyet allowed the gods Khurgorbaeyag and Nomog-Geaya to live in his realm, if only just to keep an eye on them.
+He is worshipped openly among the Hordes that still devote themselves to the Old Ways, and vies for followers against Gruumsh among them. Although most worship falls along clan lines, periodically one clan will raid another, taking slaves and absorbing the other, and "convince" One-Eye's followers of the superiority of The Mighty One.
 
 ## Clerical details
 Domains: 

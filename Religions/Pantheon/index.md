@@ -28,6 +28,7 @@ Deity | Description |Alignment | Domains | Symbol
 [Lugh](Lugh.md)|God of arts, travel, and commerce|CN|[Knowledge](../../Classes/Cleric/Knowledge.md), [Life](../../Classes/Cleric/Life.md), [Protection](../../Classes/Cleric/Protection.md)|Pair of long hands
 [Lyssa](Lyssa.md)|Goddess of madness and ecstasy|CN|[Madness](../../Classes/Cleric/Madness.md), [Desire](../../Classes/Cleric/Desire.md), [Trickery](../../Classes/Cleric/Trickery.md)|Hands clasped to a screaming face
 [Lythtzu](Lythtzu.md)|God of battle|LN|[War](../../Classes/Cleric/War.md), [Life](../../Classes/Cleric/Life.md), [Healing](../../Classes/Cleric/Healing.md)|A gleaming blade in the light
+[Maglubiyet](Maglubiyet.md)|God of goblingkind|LE|[War](../../Classes/Cleric/War.md), [Order](../../Classes/Cleric/Order.md), [Unity](../../Classes/Cleric/Unity.md)|Flaming eyes set against darkness
 [Malar](Malar.md)|God of the hunt|CN|[Hunt](../../Classes/Cleric/Hunt.md), [Chaos](../../Classes/Cleric/Chaos.md), [Nature](../../Classes/Cleric/Nature.md)|Clawed paw
 [Milil](Milil.md)|Goddess of poetry and song|NG|[Desire](../../Classes/Cleric/Desire.md), [Light](../../Classes/Cleric/Light.md), [Trickery](../../Classes/Cleric/Trickery.md)|Five-stringed harp made of leaves
 [Onatar](Onatar.md)|God of craft|NG|[Fire](../../Classes/Cleric/Fire.md), [Forge](../../Classes/Cleric/Forge.md), [Knowledge](../../Classes/Cleric/Knowledge.md)|Crossed hammer and tongs
@@ -36,7 +37,7 @@ Deity | Description |Alignment | Domains | Symbol
 [Savras](Savras.md)|God of divination and fate|LN|[Time](../../Classes/Cleric/Time.md), [Order](../../Classes/Cleric/Order.md), [Peace](../../Classes/Cleric/Peace.md)|Crystal ball containing many kinds of eyes
 [Silvanus](Silvanus.md)|God of wild nature|N|[Hunt](../../Classes/Cleric/Hunt.md), [Nature](../../Classes/Cleric/Nature.md), [Luck](../../Classes/Cleric/Luck.md)|Oak leaf
 [Talos](Talos.md)|God of storms|CE|[Air](../../Classes/Cleric/Air.md), [Tempest](../../Classes/Cleric/Tempest.md), [Zeal](../../Classes/Cleric/Zeal.md)|Three lightning bolts radiating from a central point
-[The Keeper](Keeper.md)|God of greed and death|NE|[Death](../../Classes/Cleric/Death.md), [Grave](../../Classes/Cleric/Grave.md), [Shadow](../../Classes/Cleric/Shadow.md)|Obsidian tome in the shape of a fang
+[The Keeper](Keeper.md)|God of death and undeath|NE|[Death](../../Classes/Cleric/Death.md), [Grave](../../Classes/Cleric/Grave.md), [Vengeance](../../Classes/Cleric/Vengeance.md)|Obsidian tome against a backdrop of a headstone
 [The Traveler](Traveler.md)|Deity of chaos and change|CN|[Chaos](../../Classes/Cleric/Chaos.md), [Twilight](../../Classes/Cleric/Twilight.md), [Trickery](../../Classes/Cleric/Trickery.md)|Four crossed, rune-inscribed bones
 [Tiamat](Tiamat.md)|Dragon goddess of evil|LE|[Dragon](../../Classes/Cleric/Dragon.md), [Trickery](../../Classes/Cleric/Trickery.md), [Shadow](../../Classes/Cleric/Shadow.md)|Dragon head with five claw marks
 [Wee Jas](WeeJas.md)|Goddess of magic and death|LN|[Arcana](../../Classes/Cleric/Arcana.md), [Death](../../Classes/Cleric/Death.md), [Grave](../../Classes/Cleric/Grave.md)|Red skull in front of fireball
