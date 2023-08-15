@@ -8,11 +8,11 @@ Starting at 1st level, you gain domain spells at the cleric levels listed in the
 
 Cleric Level |	Spells
 ------------ | -----
-1st	|Bless, Cure Wounds
-3rd	|Lesser Restoration, Spiritual Weapon
-5th	|Beacon of Hope, Revivify
-7th	|Death Ward, Guardian of Faith
-9th	|Mass Cure Wounds, Raise Dead
+1st	| [bless](../../Magic/Spells/bless.md), [cure wounds](../../Magic/Spells/cure-wounds.md)
+3rd	| [lesser restoration](../../Magic/Spells/lesser-restoration.md), [spiritual weapon](../../Magic/Spells/spiritual-weapon.md)
+5th	| [beacon of hope](../../Magic/Spells/beacon-of-hope.md), [revivify](../../Magic/Spells/revivify.md)
+7th	| [death ward](../../Magic/Spells/death-ward.md), [guardian of faith](../../Magic/Spells/guardian-of-faith.md)
+9th	| [mass cure wounds](../../Magic/Spells/mass-cure-wounds.md), [raise dead](../../Magic/Spells/raise-dead.md)
 
 ## Bonus Proficiency
 When you choose this domain at 1st level, you gain proficiency with heavy armor.

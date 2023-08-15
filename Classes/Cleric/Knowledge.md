@@ -8,11 +8,11 @@ Starting at 1st level, you gain domain spells at the cleric levels listed in the
 
 Cleric Level |	Spells
 ------------ | -----
-1st	| Command, Identify
-3rd	| [augury](https://www.dndbeyond.com/spells/augury), Suggestion
-5th	| Nondetection, Speak with Dead
-7th	| Arcane Eye, Confusion
-9th	| Legend Lore, Scrying
+1st	| [command](../../Magic/Spells/command.md), [identify](../../Magic/Spells/identify.md)
+3rd	| [augury](../../Magic/Spells/augury.md), [suggestion](../../Magic/Spells/suggestion.md)
+5th	| [nondetection](../../Magic/Spells/nondetection.md), [speak with dead](../../Magic/Spells/speak-with-dead.md)
+7th	| [arcane eye](../../Magic/Spells/arcane-eye.md), [confusion](../../Magic/Spells/confusion.md)
+9th	| [legend lore](../../Magic/Spells/legend-lore.md), [scrying](../../Magic/Spells/scrying.md)
 
 ## Blessings of Knowledge
 At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: Arcana, History, Nature, or Religion.
