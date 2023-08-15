@@ -48,6 +48,7 @@ These creatures are found in various places across the map. Over time, all these
 - [Sahuagin](Sahuagin.md)
 
 ## T
+- [Troll](Troll.md)
 
 ## U
 
@@ -75,7 +76,7 @@ General description
 >- **Hit Points** HP (Hit Dice)
 >- **Speed** 30 ft.
 >___
->|STR|DEX|CON|INT|WIS|CHA|
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (0)|10 (0)|10 (0)|10 (+0)|10 (+0)|10 (0)|
 >
