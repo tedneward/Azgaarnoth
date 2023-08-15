@@ -2,7 +2,7 @@
 Free-willed and adventurous, these Clerics worship the deities of the Air, always letting the ever-flowing winds guide them in their lives.
 
 ## Bonus Cantrip
-When you choose this domain at 1st level, you gain the Gust cantrip if you don't already know it. This cantrip counts as a cleric cantrip for you, but it doesn't count against the number of cleric cantrips you know.
+When you choose this domain at 1st level, you gain the [gust](../../Magic/Spells/gust.md) cantrip if you don't already know it. This cantrip counts as a cleric cantrip for you, but it doesn't count against the number of cleric cantrips you know.
 
 ## Domain Spells
 You gain domain spells at the cleric levels listed in the Air Domain Spells table. See the Divine Domain class feature for how domain spells work.
@@ -11,18 +11,17 @@ You gain domain spells at the cleric levels listed in the Air Domain Spells tabl
 
 Cleric Level | Spells
 ------------ | ------
-1st	 | 
-3rd	 | 
-5th	 | 
-7th	 | 
-9th	 | 
-
+1st	| [skywrite](../../Magic/Spells/skywrite.md), [feather fall](../../Magic/Spells/feather-fall.md)
+3rd	| [warding wind](../../Magic/Spells/warding-wind.md), [dust devil](../../Magic/Spells/dust-devil.md)
+5th	| [wind wall](../../Magic/Spells/wind-wall.md), [haste](../../Magic/Spells/haste.md)
+7th	| [gust of wind](../../Magic/Spells/gust-of-wind.md), [storm sphere](../../Magic/Spells/storm-sphere.md)
+9th	| [control winds](../../Magic/Spells/control-winds.md), [wind walk](../../Magic/Spells/wind-walk.md)
 
 ## Bonus Proficiencies
-When you choose this domain at 1st level, you gain proficiency with martial weapons.
+At the 1st level, you also gain proficiency in acrobatics and Insight skills.
 
 ## Speedy Senses
-At 1st level, your senses become attuned to the wind. You can take a bonus action on each of your turns in combat. this action can be used only to take the Dash, Disengage, or Dodge action.
+At 1st level, your senses become attuned to the wind. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Dodge action.
 
 ## Channel Divinity: Godspeed
 At the 2nd level, your Channel Divinity feature allows you to call upon the winds to embody you. For one hour, your flying and walking speeds increase by 10 feet and you gain a +1 bonus to your AC. If you don't have flying speed you gain 10 feet flying speed.
@@ -34,12 +33,10 @@ Beginning at 6th level, you can nimbly dodge out of the way of certain area Effe
 At the 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns, when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 force damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 ## Wrath of Wind
-Starting at 17th level, you can harness the full potential of the winds. As a bonus action, you become a paragon of the wind and for the next minte you gain the following benefits:
+Starting at 17th level, you can harness the full potential of the winds. As a bonus action, you become a paragon of the wind and for the next minute you gain the following benefits:
 
-* Your movement speed is doubled.
+* Your movement speed is doubled, and you have a flying speed equal to your doubled movement speed.
 * Attacks made against you have disadvantage on the roll.
-* You can concecrate on two spells, provided at least one of them is one your Wind Domain spell list.
-* You can use your action to cast the Whirlwind spell.
+* You can use your action to cast the [Whirlwind](../../Magic/Spells/whirlwind.md) spell without using a spell slot. (You can only have one Whirlwind active at a time.)
 
-Once you use this feature, you can't use it again until you finish a Long Rest.
-
+Once you use this feature, you can't use it again until you finish a long rest.

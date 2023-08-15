@@ -10,11 +10,11 @@ You gain domain spells at the cleric levels listed in the Fire Domain Spells tab
 
 Cleric Level | Spells
 ------------ | ------
-1st	 | burning hands, hellish rebuke
+1st	 | burning hands, hellish rebuke, earth tremor (pick 2)
 3rd	 | flame blade, scorching ray
 5th	 | fireball, melf's minute meteors
 7th	 | wall of fire, fire shield
-9th	 | conjure elemental, flame strike
+9th	 | conjure elemental, flame strike, immolation (pick 2)
 
 ## Bonus Proficiencies
 When you choose this domain at 1st level, you gain proficiency with heavy armor and marshal weapons.
@@ -27,8 +27,8 @@ You regain all expended uses when you finish a long rest, half the amount after 
 ## Channel Divinity: Searing Wrath
 Starting at 2nd level, you can use your Channel Divinity to wield the power of the blaze with unchecked ferocity. When you roll fire or radiant damage, you can use your Channel Divinity to deal maximum damage instead of rolling.
 
-## Feeding the Fire
-Beginning at 6th level, when you deal damage to a creature, it catches on fire. The creature takes 1d6 points of fire damage at the end of each turn, unless it or another creature within 5 feet of it uses an action to put out the flames. If the flames are not extinguished, they continue to burn the creature at the end of each turn.
+## Blazing Enhancement
+At 6th level, once per long rest, you can imbue a weapon of your choice with flaming power, granting the weapon a damage bonus equal to half your Wisdom modifier (rounded down). This is a magical bonus (meaning it can damage those creatures with immunity to non-magical weapons), but does not aid the die roll to hit. This bonus lasts until your next long rest, after which you may use this feature again.
 
 ## Divine Strike
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns, when you hit a creature with a weapon attack, you can cause the attack to do an extra 1d8 fire damage to the target. When you reach 14th level, the extra damage increases to 2d8.
