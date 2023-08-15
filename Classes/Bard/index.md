@@ -47,6 +47,7 @@ Level|Proficiency Bonus|Cantrips Known|Spells Known|1st|2nd|3rd|4th|5th|6th|7th|
 
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
+
 * (a) a rapier, (b) a longsword, or (c) any simple weapon
 * (a) a diplomat's pack or (b) an entertainer's pack
 * (a) a lute or (b) any other musical instrument
@@ -54,6 +55,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ## Spellcasting
 *1st-level bard feature*
+
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations.
 
 ### Cantrips
@@ -125,6 +127,7 @@ You delve into the advanced techniques of a [bard college](#bard-college) of you
 * [Lore](Lore.md)
 * [Satire](Satire.md)
 * [Secrets](Secrets.md)
+* [Spirits](Spirits.md)
 * [Swords](Swords.md)
 * [Valor](Valor.md)
 * [Whispers](Whispers.md)

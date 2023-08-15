@@ -4,7 +4,7 @@ Stories of the past are powerful; they hold lessons of history, philosophy, and 
 ## Guiding Whispers
 *3rd-level College of Spirits*
 
-You can reach out to spirits to guide you and others. You learn the [guidance]() cantrip, which doesn’t count against the number of bard cantrips you know. For you, it has a range of 60 feet when you cast it.
+You can reach out to spirits to guide you and others. You learn the [guidance](../../Magic/Spells/guidance.md) cantrip, which doesn’t count against the number of bard cantrips you know. For you, it has a range of 60 feet when you cast it.
 
 ## Spiritual Focus
 *3rd- and 6th-level College of Spirits feature*
@@ -42,7 +42,7 @@ Bardic Insp. Die|Tale
 12|**Unknown.** You utter an incomprehensible fable from a being beyond the stars. Choose a creature you can see within 30 feet of you. The target must succeed on an Intelligence saving throw or take psychic damage equal to three rolls of your Bardic Inspiration die, and the target is unable to speak any language for 1 minute.
 
 ## Spirit Session
-6th-level College of Spirits feature
+*6th-level College of Spirits feature*
 
 You can channel spirits to gain insights into magic. You can conduct an hour-long ritual channeling spirits (which can be done during a short or long rest) using your Spiritual Focus. You can conduct the ritual with a number of creatures equal to your proficiency bonus (including yourself). At the end of the ritual, you temporarily learn one spell of your choice from any class.
 
