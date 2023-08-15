@@ -1,7 +1,7 @@
 # Brothers and Sisters of Undeath
 The Brothers of Undeath (or sometimes called Brothers in Undeath) are an improved form of undead zombie, retaining some of their skills in life. *(Do a search-and-replace on Brother to create a Sister of Undeath.)*
 
-> Jump to: [Sanctity](#sanctity) | [Shadow](#shadow) | [Smite](#smite) | [Spell](#spell) | [Steel](#steel) | [Solemnity](#solemnity) (monks)
+> Jump to: [Sanctity](#brother-of-sanctity) | [Shadow](#brother-of-shadow) | [Solemnity](#brother-of-solemnity) | [Spell](#brother-of-spell) | [Spite](#brother-of-spite) | [Steel](#brother-of-steel)
 
 ***In progress***
 
@@ -23,15 +23,12 @@ Of all the Brothers of Undeath, perhaps none are more feared than the Brothers o
 >
 >___
 >- **Proficiency Bonus** +2
->- **Saving Throws** WIS +4
->- **Damage Vulnerabilities** 
->- **Damage Resistances** 
->- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** 
->- **Senses** 
->- **Languages** 
->- **Challenge** 
+>- **Damage Resistances** necrotic
+>- **Damage Immunities** poison
+>- **Condition Immunities** charmed, exhaustion, paralyzed, poisoned
+>- **Senses** Darkvision 60 ft., Passive Perception 8
+>- **Languages** understands the languages it knew in life but can't speak
+>- **Challenge** 3
 >___
 >***Undead Fortitude.*** If damage reduces the Brother to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the Brother drops to 1 hit point instead.
 >
@@ -58,19 +55,16 @@ A Brother of Shadow is a rogue transformed into a state of undeath, retaining so
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|10 (0)|10 (0)|10 (0)|10 (+0)|10 (+0)|10 (0)|
+>|14 (+2)|18 (+4)|14 (+2)| 3 (-4)| 11 (0)| 7 (-2)|
 >
 >___
 >- **Proficiency Bonus** +2
->- **Saving Throws** 
->- **Damage Vulnerabilities** 
->- **Damage Resistances** 
->- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** 
->- **Senses** 
->- **Languages** 
->- **Challenge** 
+>- **Damage Resistances** necrotic
+>- **Damage Immunities** poison
+>- **Condition Immunities** charmed, exhaustion, paralyzed, poisoned
+>- **Senses** Darkvision 60 ft., Passive Perception 8
+>- **Languages** understands the languages it knew in life but can't speak
+>- **Challenge** 3
 >___
 >***Undead Fortitude.*** If damage reduces the Brother to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the Brother drops to 1 hit point instead.
 >
@@ -99,19 +93,16 @@ Those paladins which are transformed into Brothers of Undeath, retaining some or
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|10 (0)|10 (0)|10 (0)|10 (+0)|10 (+0)|10 (0)|
+>|18 (+4)|14 (+2)|14 (+2)| 3 (-4)| 14 (+2)| 7 (-2)|
 >
 >___
 >- **Proficiency Bonus** +2
->- **Saving Throws** 
->- **Damage Vulnerabilities** 
->- **Damage Resistances** 
->- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** 
->- **Senses** 
->- **Languages** 
->- **Challenge** 
+>- **Damage Resistances** necrotic
+>- **Damage Immunities** poison
+>- **Condition Immunities** charmed, exhaustion, paralyzed, poisoned
+>- **Senses** Darkvision 60 ft., Passive Perception 8
+>- **Languages** understands the languages it knew in life but can't speak
+>- **Challenge** 3
 >___
 >***Undead Fortitude.*** If damage reduces the brother to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the brother drops to 1 hit point instead.
 >
@@ -134,25 +125,22 @@ When a necromancer is able to transform a monk into a Brother of Undeath, reatin
 >## Brother of Solemnity
 >*medium undead (humanoid), shares master's alignment*
 >___
->- **Armor Class** 16 (DEX)
+>- **Armor Class** 17 (Unarmored Defense (DEX + WIS))
 >- **Hit Points** 45 (4d12 + 12)
 >- **Speed** 20 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|14 (+2)|18 (+4)|16 (+3)| 3 (-4)| 11 (0)| 7 (-2)|
+>|10 (0)|18 (+4)|16 (+3)| 3 (-4)| 16 (+3)| 7 (-2)|
 >
 >___
 >- **Proficiency Bonus** +2
->- **Saving Throws** 
->- **Damage Vulnerabilities** 
->- **Damage Resistances** 
->- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** 
->- **Senses** 
->- **Languages** 
->- **Challenge** 
+>- **Damage Resistances** necrotic
+>- **Damage Immunities** poison
+>- **Condition Immunities** charmed, exhaustion, paralyzed, poisoned
+>- **Senses** Darkvision 60 ft., Passive Perception 8
+>- **Languages** understands the languages it knew in life but can't speak
+>- **Challenge** 3
 >___
 >***Undead Fortitude.*** If damage reduces the brother to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the brother drops to 1 hit point instead.
 >
@@ -183,10 +171,10 @@ Brothers of Spell are wizards, sorcerers, or warlocks that have been turned to u
 >
 >___
 >- **Proficiency Bonus** +2
->- **Saving Throws** WIS +0
+>- **Damage Resistances** necrotic
 >- **Damage Immunities** poison
->- **Condition Immunities** poisoned
->- **Senses** darkvision 60 ft., passive Perception 8
+>- **Condition Immunities** charmed, exhaustion, paralyzed, poisoned
+>- **Senses** Darkvision 60 ft., Passive Perception 8
 >- **Languages** understands the languages it knew in life but can't speak
 >- **Challenge** 3
 >___
@@ -225,8 +213,9 @@ Brothers of Steel are fallen martial champions, often retaining the weapons and 
 >
 >___
 >- **Proficiency Bonus** +2
+>- **Damage Resistances** necrotic
 >- **Damage Immunities** poison
->- **Condition Immunities** poisoned
+>- **Condition Immunities** charmed, exhaustion, paralyzed, poisoned
 >- **Senses** Darkvision 60 ft., Passive Perception 8
 >- **Languages** understands the languages it knew in life but can't speak
 >- **Challenge** 3

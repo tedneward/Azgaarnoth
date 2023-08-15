@@ -3,18 +3,16 @@ Mephits are capricious, imp-like creatures native to the elemental planes. They 
 
 Ageless tricksters, mephits gather in large numbers on the Elemental Planes and in the Elemental Chaos. They also find their way to the Material Plane, where they prefer to dwell in places where their base elements are abundant. For example, a magma mephit is composed of earth and fire, and it favors volcanic lairs, while an ice mephit, which is composed of air and water, favors frigid locales.
 
-Some scholars theorize that the mephit is the form punished souls take when disappointing a [Fiend patron](../Classes/Warlock/Fiend.md).
+Some scholars theorize that the mephit is the form punished souls take when disappointing a [Fiend patron](../Classes/Warlock/Fiend.md) or one of an elemental nature.
 
 ***Elemental Nature.*** A mephit doesn’t require food, drink, or sleep.
 
 > Jump to: [Dust](#dust) | [Ice](#ice) | [Magma](#magma) | [Mud](#mud) | [Smoke](#smoke) | [Steam](#steam)
 
-Summon Mephits (1/Day). The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can’t summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
-
 ---
 
 ## Dust Mephit
-Composed of earth and air, dust mephits are drawn to catacombs and find death morbidly fascinating.
+![](Mephit-Dust.png) | Composed of earth and air, dust mephits are drawn to catacombs and find death morbidly fascinating.
 
 >## Dust Mephit
 >*Small elemental, neutral evil*
@@ -28,9 +26,7 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
 >|5 (−3)|14 (+2)|10 (+0)|9 (−1)|11 (+0)|10 (+0)|
 >
 >___
->- **Saving Throws** 
 >- **Damage Vulnerabilities** fire
->- **Damage Resistances** 
 >- **Damage Immunities** poison
 >- **Condition Immunities** poisoned
 >- **Skills** Perception +2, Stealth +4
@@ -53,7 +49,7 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
 ---
 
 ## Ice Mephit
-Comprising frigid air and water, ice mephits are aloof and cold, surpassing all other mephits in pitiless cruelty.
+![](Mephit-Ice.png) | Comprising frigid air and water, ice mephits are aloof and cold, surpassing all other mephits in pitiless cruelty.
 
 >## Ice Mephit
 >*Small elemental, neutral evil*
@@ -67,9 +63,7 @@ Comprising frigid air and water, ice mephits are aloof and cold, surpassing all 
 >|7 (−2)|13 (+1)|10 (+0)|9 (−1)|11 (+0)|12 (+1)|
 >
 >___
->- **Saving Throws** 
 >- **Damage Vulnerabilities** bludgeoning, fire
->- **Damage Resistances** 
 >- **Damage Immunities** cold, poison
 >- **Condition Immunities** poisoned
 >- **Skills** Perception +2, Stealth +3
@@ -93,161 +87,81 @@ Comprising frigid air and water, ice mephits are aloof and cold, surpassing all 
 ---
 
 ## Magma Mephit
-Composed of earth and fire, magma mephits glow a dull red color as they perspire beads of molten lava. They are slow to comprehend the meaning of others’ words and actions.
+![](Mephit-Magma.png) | Composed of earth and fire, magma mephits glow a dull red color as they perspire beads of molten lava. They are slow to comprehend the meaning of others’ words and actions.
 
->## (Subtype if any) (Name)
->*Size Type, alignment*
+>## Magma Mephit
+>*Small elemental, neutral evil*
 >___
->- **Armor Class** AC (breakdown)
->- **Hit Points** HP (Hit Dice)
->- **Speed** 30 ft.
+>- **Armor Class** 11 (natural armor)
+>- **Hit Points** 22 (5d6 + 5)
+>- **Speed** 30 ft., fly 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|10 (0)|10 (0)|10 (0)|10 (+0)|10 (+0)|10 (0)|
+>|8 (−1) | 12 (+1)|12 (+1)|7 (−2)|10 (+0)|10 (+0)|
 >
 >___
->- **Saving Throws** 
->- **Damage Vulnerabilities** 
->- **Damage Resistances** 
->- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** 
->- **Senses** 
->- **Languages** 
->- **Challenge** 
+>- **Damage Vulnerabilities** cold
+>- **Damage Immunities** fire, poison
+>- **Condition Immunities** poisoned
+>- **Skills** Stealth +3
+>- **Senses** darkvision 60 ft., passive Perception 10
+>- **Languages** Ignan, Terran
+>- **Challenge** 1/2 (100 XP)
 >___
->***Feature.***   
+>***Feature.***
+>***Death Burst.*** When the mephit dies, it explodes in a burst of lava. Each creature within 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
+>
+>***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma.
+>
+>***Innate Spellcasting (1/Day).*** The mephit can innately cast [heat metal](../Magic/Spells/heat-metal.md) (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.
 >
 >### Actions
-
-MAGMA MEPHIT
-Small elemental, neutral evil
-
-Armor Class 11
-
-Hit Points 22 (5d6 + 5)
-
-Speed 30 ft., fly 30 ft.
-
-STR
-8 (−1)
-DEX
-12 (+1)
-CON
-12 (+1)
-INT
-7 (−2)
-WIS
-10 (+0)
-CHA
-10 (+0)
-Skills Stealth +3
-
-Damage Vulnerabilities cold
-
-Damage Immunities fire, poison
-
-Condition Immunities poisoned
-
-Senses darkvision 60 ft., passive Perception 10
-
-Languages Ignan, Terran
-
-Challenge 1/2 (100 XP)
-
-Death Burst. When the mephit dies, it explodes in a burst of lava. Each creature within 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
-
-False Appearance. While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma.
-
-Innate Spellcasting (1/Day). The mephit can innately cast heat metal (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.
-
-Actions
-
-Claws. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
-
-Fire Breath (Recharge 6). The mephit exhales a 15-foot cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
-
-
+>***Claws.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
+>
+>***Fire Breath (Recharge 6).*** The mephit exhales a 15-foot cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
+>
+>***Summon Mephits (1/Day).*** The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can’t summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 
 ---
 
 ## Mud Mephit
-Mud mephits are slow, unctuous creatures of earth and water. They drone their complaints to all who will listen, and beg incessantly for attention and treasure.
+![](Mephit-Mud.png) Mud mephits are slow, unctuous creatures of earth and water. They drone their complaints to all who will listen, and beg incessantly for attention and treasure.
 
->## (Subtype if any) (Name)
->*Size Type, alignment*
+>## Mud Mephit
+>*Small elemental, neutral evil*
 >___
->- **Armor Class** AC (breakdown)
->- **Hit Points** HP (Hit Dice)
->- **Speed** 30 ft.
+>- **Armor Class** 11 (natural armor)
+>- **Hit Points** 27 (6d6 + 6)
+>- **Speed** 20 ft., fly 20 ft., swim 20 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|10 (0)|10 (0)|10 (0)|10 (+0)|10 (+0)|10 (0)|
+>|8 (−1)|12 (+1)|12 (+1)|9 (−1)|11 (+0)|7 (−2)|
 >
 >___
->- **Saving Throws** 
->- **Damage Vulnerabilities** 
->- **Damage Resistances** 
->- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** 
->- **Senses** 
->- **Languages** 
->- **Challenge** 
+>- **Damage Immunities** poison
+>- **Condition Immunities** poisoned
+>- **Skills** Stealth +3
+>- **Senses** darkvision 60 ft., passive Perception 10
+>- **Languages** Aquan, Terran
+>- **Challenge** 1/4 (50 XP)
 >___
->***Feature.***   
+>***Death Burst.*** When the mephit dies, it explodes in a burst of sticky mud. Each Medium or smaller creature within 5 feet of it must succeed on a DC 11 Dexterity saving throw or be restrained until the end of the creature’s next turn.
+>
+>***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary mound of mud.
 >
 >### Actions
-
-MUD MEPHIT
-Small elemental, neutral evil
-
-Armor Class 11
-
-Hit Points 27 (6d6 + 6)
-
-Speed 20 ft., fly 20 ft., swim 20 ft.
-
-STR
-8 (−1)
-DEX
-12 (+1)
-CON
-12 (+1)
-INT
-9 (−1)
-WIS
-11 (+0)
-CHA
-7 (−2)
-Skills Stealth +3
-
-Damage Immunities poison
-
-Condition Immunities poisoned
-
-Senses darkvision 60 ft., passive Perception 10
-
-Languages Aquan, Terran
-
-Challenge 1/4 (50 XP)
-
-Death Burst. When the mephit dies, it explodes in a burst of sticky mud. Each Medium or smaller creature within 5 feet of it must succeed on a DC 11 Dexterity saving throw or be restrained until the end of the creature’s next turn.
-
-False Appearance. While the mephit remains motionless, it is indistinguishable from an ordinary mound of mud.
-
-Actions
-
-Fists. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) bludgeoning damage.
-
-Mud Breath (Recharge 6). The mephit belches viscid mud onto one creature within 5 feet of it. If the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving throw or be restrained for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>***Fists.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) bludgeoning damage.
+>
+>***Mud Breath (Recharge 6).*** The mephit belches viscid mud onto one creature within 5 feet of it. If the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving throw or be restrained for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>
+>***Summon Mephits (1/Day).*** The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can’t summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 
 ---
 
 ## Smoke Mephit
-Smoke mephits are crude, lazy creatures of air and fire that billow smoke constantly. They rarely speak the truth and love to mock and mislead other creatures.
+![](Mephit-Smoke.png) | Smoke mephits are crude, lazy creatures of air and fire that billow smoke constantly. They rarely speak the truth and love to mock and mislead other creatures.
 
 >## Smoke Mephit
 >*Small elemental, neutral evil*
@@ -261,9 +175,6 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
 >|6 (−2)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|11 (+0)|
 >
 >___
->- **Saving Throws** 
->- **Damage Vulnerabilities** 
->- **Damage Resistances** 
 >- **Damage Immunities** fire, poison
 >- **Condition Immunities** poisoned
 >- **Skills** Perception +2, Stealth +4
@@ -285,7 +196,7 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
 ---
 
 ## Steam Mephit
-Composed of fire and water, steam mephits leave trails of hot water wherever they go, and they hiss with tendrils of steam. Bossy and hypersensitive, they are the self-appointed overlords of all mephits.
+![](Mephit-Steam.png) | Composed of fire and water, steam mephits leave trails of hot water wherever they go, and they hiss with tendrils of steam. Bossy and hypersensitive, they are the self-appointed overlords of all mephits.
 
 >## Steam Mephit
 >*Small elemental, neutral evil*
@@ -299,12 +210,8 @@ Composed of fire and water, steam mephits leave trails of hot water wherever the
 >|5 (−3)|11 (+0)|10 (+0)|11 (+0)|10 (+0)|12 (+1)|
 >
 >___
->- **Saving Throws** 
->- **Damage Vulnerabilities** 
->- **Damage Resistances** 
 >- **Damage Immunities** fire, poison
 >- **Condition Immunities** poisoned
->- **Skills** 
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Aquan, Ignan
 >- **Challenge** 1/4 (50 XP)

@@ -67,7 +67,7 @@ These creatures are found in various places across the map. Over time, all these
 ## Name
 General description
 
->## (Subtype if any) (Name)
+>### (Subtype if any) (Name)
 >*Size Type, alignment*
 >___
 >- **Armor Class** AC (breakdown)
