@@ -2,7 +2,9 @@
 These creatures are found in various places across the map. Over time, all these will be "tuned" to the map specifically, but many of them are direct "lifts" from the official D&D content so that I have convenient links that are under my control for various purposes.
 
 ## A
+- [Aarakocra](Aarakocra.md)
 - [Abishai](Abishai.md)
+- [Angel](Angel.md)
 
 ## B
 - [Brother of Undeath](BrotherOfUndeath.md)

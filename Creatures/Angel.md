@@ -18,6 +18,8 @@ Fallen angels retain their power but lose their connection to the deities from w
 ---
 
 ## Deva
+![](Angel-Deva.png)
+
 Devas are angels that act as divine messengers or agents to the Material Plane, the Shadowfell, and the Feywild and that can assume a form appropriate to the realm they are sent to.
 
 Legend tells of angels that take mortal form for years, lending aid, hope, and courage to goodhearted folk. A deva can take any shape, although it prefers to appear to mortals as an innocuous humanoid or animal. When circumstances require that it cast off its guise, a deva is a beautiful humanoid-like creature with silvery skin. Its hair and eyes gleam with an unearthly luster, and large feathery wings unfurl from its shoulder blades.
@@ -70,6 +72,8 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
 ---
 
 ## Planetar
+![](Angel-Planetar.png)
+
 Planetars act as the weapons of the gods they serve, presenting a tangible representation of their deities’ might. A planetar can call down rain to relieve a drought, or can loose an insect plague to devour crops. A planetar’s celestial ears detect every falsehood, and its radiant eyes see through every deception.
 
 Planetars are muscular and hairless and have opalescent green skin and white-feathered wings. They tower over most humanoids, brandishing immense swords with grace. Sometimes sent to aid powerful mortals on important tasks for good, planetars are especially fond of missions that involve battling fiends.
@@ -122,6 +126,8 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
 ---
 
 ## Solar
+![](Angel-Solar.png)
+
 A solar is godlike in its glory and power. On the battlefield, the solar’s sword flies into the fray on its own, and a single arrow from a solar’s bow can strike a target dead on contact. So great is a solar’s celestial might that even demon princes shrink at its resonant commands.
 
 It is said that only twenty-four solars exist. The few solars that are known are stewards of specific deities. The others rest in a state of contemplation, waiting for the time when their services are needed to stave off some cosmic threat to the cause of good.
