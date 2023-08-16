@@ -290,7 +290,6 @@ def ingest(arg):
         print(creaturelist)
         return creaturelist
 
-
     def ingestmymdformat(lines):
         pass
 
@@ -370,7 +369,7 @@ def main(argv):
                 print(creature.emitMD())
         elif os.path.isdir(dest):
             for creature in creatures:
-                with open(snakecaseify(creature.name).title() + ".md", 'w') as mdfile:
+                with open(snakecaseify(args.writemd + '//' + creature.name).title() + ".md", 'w') as mdfile:
                     mdfile.write(creature.emitMD())
     else:
         parser.print_help()
