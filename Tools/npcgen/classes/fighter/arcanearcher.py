@@ -24,7 +24,7 @@ The Arcane Shot feature lets you choose options for it at certain levels. The op
 
 If an option requires a saving throw, your Arcane Shot save DC equals 8 + your proficiency bonus + your Intelligence modifier.
 
-* ***Banishing Arrow***. You use abjuration magic to try to temporarily banish your target to a harmless location in the Feywild. If the arrow hits a creature, the target must also succeed on a Charisma saving throw or be banished. While banished in this way, its speed is 0, and it is incapacitated. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied.
+* ***Banishing Arrow.*** You use abjuration magic to try to temporarily banish your target to a harmless location in the Feywild. If the arrow hits a creature, the target must also succeed on a Charisma saving throw or be banished. While banished in this way, its speed is 0, and it is incapacitated. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied.
   After you reach 18th level in this class, a target also takes 2d6 force damage when the arrow hits it.
 
 * **Brute Bane Arrow**. You weave necromantic magic into your arrow. If the arrow hits a creature, the target takes an extra 2d6 necrotic damage, and it must make a Constitution saving throw. On a failed save, the damage of the target’s attacks is halved until the start of your next turn.

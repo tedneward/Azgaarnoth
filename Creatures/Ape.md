@@ -63,10 +63,10 @@
 >- **Languages** —
 >- **Challenge** 0
 >___
->***Pack Tactics.***. The baboon has advantage on an attack roll against a creature if at least one of the baboon’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+>***Pack Tactics.*** The baboon has advantage on an attack roll against a creature if at least one of the baboon’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 − 1) piercing damage.
+>***Bite.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 − 1) piercing damage.
 >
 
 ---

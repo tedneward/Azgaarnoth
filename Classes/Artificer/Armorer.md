@@ -37,13 +37,13 @@ Each model includes a special weapon. When you attack with that weapon, you can 
 
 You can change your power armor’s model whenever you finish a short or long rest, provided you have smith’s tools in hand.
 
-* ***Guardian***. You design your armor to be in the frontline of conflict. It has the following features:
+* ***Guardian.*** You design your armor to be in the frontline of conflict. It has the following features:
 
   * **Thunder Gauntlets**. Your armored fists each count as a simple melee weapon, and each deals 1d8 thunder damage on a hit. A creature hit by the gauntlet has disadvantage on attack rolls against targets other than you until the start of your next turn, as the armor magically emits a distracting pulse when the creature attacks someone else.
 
   * **Defensive Field**. You gain a bonus action that you can use on each of your turns to gain temporary hit points equal to your level in this class, replacing any temporary hit points you already have. You lose these temporary hit points if you doff the armor.
 
-* ***Infiltrator***. You customize your armor for subtle undertakings. It has the following features:
+* ***Infiltrator.*** You customize your armor for subtle undertakings. It has the following features:
 
   * **Lightning Launcher**. A gemlike node appears on one of your armored fists or on the chest (your choice). It counts as a simple ranged weapon, with a normal range of 90 feet and a long range of 300 feet, and it deals 1d6 lightning damage on a hit. Once on each of your turns when you hit a creature with it, you can deal an extra 1d6 lightning damage to that target.
 
@@ -60,7 +60,7 @@ At the 9th level, you learn how to use your artificer infusions to specially mod
 ## Perfected Armor
 At the 15th level, your power armor gains additional benefits based on its model, as shown below.
 
-* ***Guardian***. Tinkering with your armor's energy system leads you to discover a powerful pulling force. When a creature you can see ends its turn within 30 feet of you, you can use your reaction to force the creature to succeed on a Strength saving throw against your spell save DC or be pulled up to 30 feet toward you to an unoccupied space. If you pull the target to space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.
+* ***Guardian.*** Tinkering with your armor's energy system leads you to discover a powerful pulling force. When a creature you can see ends its turn within 30 feet of you, you can use your reaction to force the creature to succeed on a Strength saving throw against your spell save DC or be pulled up to 30 feet toward you to an unoccupied space. If you pull the target to space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.
   You can use this reaction a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses of it when you finish a long rest.
 
-* ***Infiltrator***. Any creature that takes lightning damage from your Lightning Launcher glimmers with light until the start of your next turn. The glimmering creature sheds dim light in a 5 foot radius, and the next attack roll against it by a creature other than you has advantage. If that attack hits, it deals an extra 1d6 lightning damage.
+* ***Infiltrator.*** Any creature that takes lightning damage from your Lightning Launcher glimmers with light until the start of your next turn. The glimmering creature sheds dim light in a 5 foot radius, and the next attack roll against it by a creature other than you has advantage. If that attack hits, it deals an extra 1d6 lightning damage.

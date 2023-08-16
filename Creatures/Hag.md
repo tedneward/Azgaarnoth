@@ -84,12 +84,12 @@ A cinder hag possesses the ability to teleport great distances, but only if her 
 >* *At will*: [fog cloud](../Magic/Spells/fog-cloud.md), [scorching ray](../Magic/Spells/scorching-ray.md)
 >* *1/day each*: [heat metal](../Magic/Spells/heat-metal.md), [hellish rebuke](../Magic/Spells/hellish-rebuke.md), [stinking cloud](../Magic/Spells/stinking-cloud.md)
 >
->***Magic Resistance***. The hag has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The hag has advantage on saving throws against spells and other magical effects.
 >
 >### Actions
 >***Change Shape.*** The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.
 >
->***Claws (Hag Form Only)***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage, plus 2 (1d4) fire damage.
+>***Claws (Hag Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage, plus 2 (1d4) fire damage.
 >
 >***Teleport.*** The hag magically teleports, along with any equipment she is wearing or carrying, up to 120 feet to an unoccupied space she can see that is within 10 feet of a fire that is at least 10 feet high or wide.
 >

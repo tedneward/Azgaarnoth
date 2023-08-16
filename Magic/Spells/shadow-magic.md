@@ -14,4 +14,4 @@ You cast an illusory version of one of the following spells: [fireball](./fireba
 
 One minute after a creature takes psychic damage from this spell, it regains a number of hit points equal to the psychic damage taken, unless it already recovered those hit points by making a successful Wisdom saving throw against this spell, as described above.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 6th-level or higher, the psychic damage and necrotic damage both increase by 1d6 for every two slot levels above 5th.
+***At Higher Levels.*** When you cast this spell using a spell slot of 6th-level or higher, the psychic damage and necrotic damage both increase by 1d6 for every two slot levels above 5th.

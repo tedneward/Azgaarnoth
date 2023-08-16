@@ -119,7 +119,7 @@ You have 2 sorcery points, and you gain more as you reach higher levels, as show
 ### Flexible Casting
 You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.
 
-***Creating Spell Slots***. You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th. The created spell slots vanish at the end of a long rest.
+***Creating Spell Slots.*** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th. The created spell slots vanish at the end of a long rest.
 
 **Creating Spell Slots**
 
@@ -131,13 +131,13 @@ Spell Slot Level|Sorcery Point Cost
 4th|6
 5th|7
 
-***Converting a Spell Slot to Sorcery Points***. As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
+***Converting a Spell Slot to Sorcery Points.*** As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
 
-***Empowering Reserves***. When you make an ability check on your turn, you can spend 2 sorcery points to gain advantage on the check.
+***Empowering Reserves.*** When you make an ability check on your turn, you can spend 2 sorcery points to gain advantage on the check.
 
-***Imbuing Touch***. As an action, you can touch one nonmagical weapon and spend 2 sorcery points to imbue it with magic for 1 minute. For the duration, the weapon is considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.
+***Imbuing Touch.*** As an action, you can touch one nonmagical weapon and spend 2 sorcery points to imbue it with magic for 1 minute. For the duration, the weapon is considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.
 
-***Sorcerous Fortitude***. As an action, you can spend any number of sorcery points to roll a d4 for each point expended. You gain a number of temporary hit points equal to the total rolled.
+***Sorcerous Fortitude.*** As an action, you can spend any number of sorcery points to roll a d4 for each point expended. You gain a number of temporary hit points equal to the total rolled.
 
 ## Metamagic
 *3rd-level sorcerer feature*

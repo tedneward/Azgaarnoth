@@ -13,7 +13,7 @@ When you choose this archetype at 3rd level, you gain the following Channel Divi
 
 When you use your Channel Divinity, you must finish a short or long rest to use your Channel Divinity again.
 
-***Judgment***. As a bonus action, you present your holy symbol and pronounce judgment upon your foes. One target of your choice that you can see within 60 feet of you becomes the target of your Judgment, and is branded with a faintly glowing sign reminiscent to your deity's holy symbol.
+***Judgment.*** As a bonus action, you present your holy symbol and pronounce judgment upon your foes. One target of your choice that you can see within 60 feet of you becomes the target of your Judgment, and is branded with a faintly glowing sign reminiscent to your deity's holy symbol.
 
 For 1 minute, against the target of your Judgment, you don't need advantage on your attack roll or an enemy of the target within 5 feet of it to use your Sneak Attack. The extra damage from your Sneak Attack against the target of your Judgment is radiant damage. All the other rules for the Sneak Attack class feature still apply to you.
 

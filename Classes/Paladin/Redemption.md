@@ -6,13 +6,13 @@ While redeemers are idealists, they are no fools. Redeemers know that undead, de
 ## Tenets of Redemption
 The tenets of the Oath of Redemption hold a paladin to a high standard of peace and justice.
 
-***Peace***. Violence is a weapon of last resort. Diplomacy and understanding are the paths to long-lasting peace.
+***Peace.*** Violence is a weapon of last resort. Diplomacy and understanding are the paths to long-lasting peace.
 
-***Innocence***. All people begin life in an innocent state, and it is their environment or the influence of dark forces that drives them to evil. By setting the proper example, and working to heal the wounds of a deeply flawed world, you can set anyone on a righteous path.
+***Innocence.*** All people begin life in an innocent state, and it is their environment or the influence of dark forces that drives them to evil. By setting the proper example, and working to heal the wounds of a deeply flawed world, you can set anyone on a righteous path.
 
-***Patience***. Change takes time. Those who have walked the path of the wicked must be given reminders to keep them honest and true. Once you have planted the seed of righteousness in a creature, you must work day after day to allow it to survive and then flourish.
+***Patience.*** Change takes time. Those who have walked the path of the wicked must be given reminders to keep them honest and true. Once you have planted the seed of righteousness in a creature, you must work day after day to allow it to survive and then flourish.
 
-***Wisdom***. Your heart and mind must stay clear, for eventually you will be forced to admit defeat. While every creature can be redeemed, some are so far along the path of evil that you have no choice but to end their lives for the greater good. Any such action must be carefully weighed and the consequences fully understood, but once you have made the decision, follow through with it knowing your path is just.
+***Wisdom.*** Your heart and mind must stay clear, for eventually you will be forced to admit defeat. While every creature can be redeemed, some are so far along the path of evil that you have no choice but to end their lives for the greater good. Any such action must be carefully weighed and the consequences fully understood, but once you have made the decision, follow through with it knowing your path is just.
 
 ## Redemption Spells
 You gain oath spells at the paladin levels listed.
@@ -34,9 +34,9 @@ At 3rd level, you foreswear the weapons of war in favor of simple tools. While w
 ## Channel Divinity
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-***Emissary of Peace***. You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to the next Charisma (Persuasion) check you make within the next minute.
+***Emissary of Peace.*** You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to the next Charisma (Persuasion) check you make within the next minute.
 
-***Rebuke the Violent***. You can use your Channel Divinity to rebuke those who use violence. As a reaction when an enemy within 10 feet of you deals damage with a melee attack against one creature other than you, you force that attacker to make a Wisdom saving throw. On a failed save, the attacker takes radiant damage equal to the damage it just dealt. On a successful save, it takes half as much damage.
+***Rebuke the Violent.*** You can use your Channel Divinity to rebuke those who use violence. As a reaction when an enemy within 10 feet of you deals damage with a melee attack against one creature other than you, you force that attacker to make a Wisdom saving throw. On a failed save, the attacker takes radiant damage equal to the damage it just dealt. On a successful save, it takes half as much damage.
 
 ## Aura of the Guardian
 Starting at 7th level, you can shield your allies from harm at the cost of your own health. As a reaction when an ally within 10 feet of you takes damage, you instead magically take that damage. This feature doesn’t transfer any other effects that might accompany the damage.

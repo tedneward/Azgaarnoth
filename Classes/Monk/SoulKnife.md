@@ -13,15 +13,15 @@ At 3rd level, when you channel ki into your attacks you augment your soul knives
 
 Whenever you hit a creature with one of the attacks granted by your Flurry of Blows and that attack inflicts psychic damage, you can impose one of the following effects on the target:
 
-***Life Drain***. You gain temporary hit points equal to half the damage your attack deals.
+***Life Drain.*** You gain temporary hit points equal to half the damage your attack deals.
 
-***Invoke Terror***. The target must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn.
+***Invoke Terror.*** The target must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn.
 
-***Invoke Wrath***. The target suffers disadvantage on all attack rolls against targets other than you until the end of your next turn.
+***Invoke Wrath.*** The target suffers disadvantage on all attack rolls against targets other than you until the end of your next turn.
 
-***Astral Slide***. You teleport the target up to 10 feet to a destination you can see.
+***Astral Slide.*** You teleport the target up to 10 feet to a destination you can see.
 
-***Synaptic Overload***. The target gains vulnerability to psychic damage until the end of your next turn.
+***Synaptic Overload.*** The target gains vulnerability to psychic damage until the end of your next turn.
 
 ## Aura Sight
 At 6th level, you gain the ability to perceive the auras of other creatures.

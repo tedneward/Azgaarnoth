@@ -50,7 +50,7 @@ d10 | Damage Type | Color
 9 | Radiant | Gold
 10 | Thunder | Orange
 
-***Damage Absorption***. When you take damage of the chosen type, you can use your reaction to gain immunity against that instance of the damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can’t be used again until the next dawn.
+***Damage Absorption.*** When you take damage of the chosen type, you can use your reaction to gain immunity against that instance of the damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can’t be used again until the next dawn.
 
 ### Barrier Tattoo
 *Wondrous item (tattoo), rarity varies (requires attunement)*
@@ -73,7 +73,7 @@ This tattoo has long intertwining designs. While the tattoo is on your skin, you
 
 This tattoo depicts clawlike forms and other jagged shapes. While the tattoo is on your skin, your unarmed strikes are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks, and you gain a +1 bonus to attack and damage rolls with unarmed strikes.
 
-***Eldritch Maul***. As a bonus action, you can empower the tattoo for 1 minute. For the duration, each of your melee weapon attacks can reach a target up to 30 feet away from you, as tendrils of ink launch from your weapon or unarmed strike toward the target. In addition, your melee weapon attacks deal an extra 1d6 force damage on a hit. Once used, this bonus action can’t be used again until the next dawn.
+***Eldritch Maul.*** As a bonus action, you can empower the tattoo for 1 minute. For the duration, each of your melee weapon attacks can reach a target up to 30 feet away from you, as tendrils of ink launch from your weapon or unarmed strike toward the target. In addition, your melee weapon attacks deal an extra 1d6 force damage on a hit. Once used, this bonus action can’t be used again until the next dawn.
 
 ### Blood Fury Tattoo
 *Wondrous item (tattoo), legendary (requires attunement)*
@@ -95,7 +95,7 @@ As an action, you can touch a piece of writing up to one page in length and spea
 
 This tattoo comprises symbols of life and rebirth. While this tattoo is on your skin, you have resistance to necrotic damage.
 
-***Death Ward***. When you would be reduced to 0 hit points, you drop to 1 hit point instead. Once used, this benefit can’t be used again until the next dawn.
+***Death Ward.*** When you would be reduced to 0 hit points, you drop to 1 hit point instead. Once used, this benefit can’t be used again until the next dawn.
 
 ### Ghost Step Tattoo
 *Wondrous item (tattoo), rare (requires attunement)*
@@ -112,7 +112,7 @@ As a bonus action while the tattoo is on your skin, you can expend 1 of the tatt
 
 This tattoo appears on your skin as whatever you desire. As a bonus action, you can shape the tattoo into any color or pattern and move it to any area of your skin. Whatever form it takes, it is always obviously a tattoo. It can range in size from no smaller than a copper piece to an intricate work of art that covers all your skin.
 
-***Disguise Self***. As an action, you can use the tattoo to cast the disguise self spell. Once the spell is cast from the tattoo, it can’t be cast from the tattoo again until the next dawn.
+***Disguise Self.*** As an action, you can use the tattoo to cast the disguise self spell. Once the spell is cast from the tattoo, it can’t be cast from the tattoo again until the next dawn.
 
 ### Spellwrought Tattoo
 *Wondrous item (tattoo), rarity varies*
@@ -137,5 +137,5 @@ Cantrip | Common | +3 | 13 | +5
 
 This tattoo is dark in color and abstract. While it’s on your skin, you have advantage on Dexterity (Stealth) checks.
 
-***Shadowy Defense***. When you take damage, you can use your reaction to become shadowy and insubstantial for a moment, reducing the damage you take by half. Once used, this reaction can’t be used again until the next dawn.
+***Shadowy Defense.*** When you take damage, you can use your reaction to become shadowy and insubstantial for a moment, reducing the damage you take by half. Once used, this reaction can’t be used again until the next dawn.
 

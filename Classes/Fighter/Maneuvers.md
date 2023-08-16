@@ -1,11 +1,11 @@
 # Fighter Martial techniques: Maneuvers
 Maneuvers are available to [Battle Master](BattleMaster.md)s and to characters who have the Superior Technique [fighting style](Styles.md) or the Martial Adept [feat](../Feats.md).
 
-***Saving Throws***. Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
+***Saving Throws.*** Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
 
 **Maneuver save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
 
-***Superiority Dice***. The study of maneuvers will grant one or more superiority dice; a superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
+***Superiority Dice.*** The study of maneuvers will grant one or more superiority dice; a superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
 
 ### Ambush
 When you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add the die to the roll, provided you aren't incapacitated. 

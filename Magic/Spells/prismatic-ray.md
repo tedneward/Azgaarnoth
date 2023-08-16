@@ -23,4 +23,4 @@ As an alternative, casters can choose to randomize the ray's effects by rolling 
 
 Casters choose which variant they are using at the time of its casting.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th. No one damage type can be increased by more than 1d10.
+***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th. No one damage type can be increased by more than 1d10.

@@ -249,7 +249,7 @@ def ingest(arg):
 
             linect += 2
 
-        creatures.append(creature)
+        return creature
 
     def ingestrawtextfile(lines):
         name = lines[0]
@@ -384,6 +384,8 @@ def ingest(arg):
                     block = 'description'
                 elif '#### Legendary' == line[0:len('#### Legendary')]:
                     block = 'legendary'
+                elif '## Actions' == line[0:len('#### Actions')]:
+                    block = 'actions'
                 elif '#### Actions' == line[0:len('#### Actions')]:
                     block = 'actions'
                 elif '#### Reactions' == line[0:len('Reactions')]:
@@ -417,7 +419,7 @@ def ingest(arg):
             cs = ingestdndbeyondwebp(lines)
         elif lines[0].upper() == lines[0]:
             # Guessing this is a stat block
-            ingestrawstatblock(lines)
+            creatures.append(ingestrawstatblock(lines))
         else:
             # Maybe this is a longer-form description?
             ingestrawtextfile(lines)

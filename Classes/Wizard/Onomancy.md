@@ -27,9 +27,9 @@ You can cast either spell without expending a spell slot if you speak the true n
 ## Resonant Utterance
 At 6th level, you learn words of power called Resonants,which allow you to tailor your spells through the use of a target’s true name.
 
-***Resonants Known***. When you gain this feature, you learn two Resonants of your choice, which are detailed in the “Resonant Options” section. Each time you gain a level in this class, you can replace one resonant you know with a different one.
+***Resonants Known.*** When you gain this feature, you learn two Resonants of your choice, which are detailed in the “Resonant Options” section. Each time you gain a level in this class, you can replace one resonant you know with a different one.
 
-***Using a Resonant***. You can use one Resonant when you cast a wizard spell with a spell slot and speak the true name of one creature targeted by the spell. Speaking the name is part of casting the spell.
+***Using a Resonant.*** You can use one Resonant when you cast a wizard spell with a spell slot and speak the true name of one creature targeted by the spell. Speaking the name is part of casting the spell.
 
 You can use Resonants a number of times equal to half of your wizard level (round down), and you regain all expended uses when you finish a long rest.
 

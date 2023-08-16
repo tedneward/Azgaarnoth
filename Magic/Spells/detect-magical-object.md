@@ -8,4 +8,4 @@ ___
 ---
 You can magically sense the presence of magical objects and constructs up to 1 mile away. You know their general direction but not their exact locations.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 5th level or higher, the range increases by one mile for each slot level above 4th.
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the range increases by one mile for each slot level above 4th.

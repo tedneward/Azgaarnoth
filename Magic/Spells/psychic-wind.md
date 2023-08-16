@@ -10,4 +10,4 @@ A 5-foot wide line of whispers shoots from your mouth, carrying with it the forc
 
 For the duration, as bonus action, you can change the direction in which the line blasts from you. 
 
-***At Higher Levels***. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for every two slot levels above 3rd.
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for every two slot levels above 3rd.

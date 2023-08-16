@@ -10,4 +10,4 @@ You place a magical command on a creature within range, forcing it to carry out 
 
 You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends. You can end the spell early by using an action to dismiss it. A remove curse, greater restoration, or wish spell also ends it.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 6th level or higher, the duration increases by one hour for each slot level above 5th.
+***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the duration increases by one hour for each slot level above 5th.

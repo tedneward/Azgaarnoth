@@ -26,20 +26,20 @@ An abomination lurches with a stiff-jointed gait, as if not in complete control 
 >- **Languages** understands the languages of its creator but can’t speak
 >- **Challenge** 5
 >___
->***Berserk.***. Whenever the abomination starts its turn with 40 hit points or fewer, roll a d6. On a 6, the abomination goes berserk. On each of its turns while berserk, the abomination attacks the nearest creature it can see. If no creature is near enough to move to and attack, the abomination attacks an object, with preference for an object smaller than itself. Once the abomination goes berserk, it continues to do so until it is destroyed or regains all its hit points.
+>***Berserk.*** Whenever the abomination starts its turn with 40 hit points or fewer, roll a d6. On a 6, the abomination goes berserk. On each of its turns while berserk, the abomination attacks the nearest creature it can see. If no creature is near enough to move to and attack, the abomination attacks an object, with preference for an object smaller than itself. Once the abomination goes berserk, it continues to do so until it is destroyed or regains all its hit points.
 >
 >The abomination’s creator, if within 60 feet of the berserk abomination, can try to calm it by speaking firmly and persuasively. The abomination must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check, or an ability check with the creator's spellcasting ability, at the creator's choice. If the check succeeds, the abomination ceases being berserk. If it takes damage while still at 40 hit points or fewer, the abomination might go berserk again.
 >
->***Aversion of Fire.***. If the abomination takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
+>***Aversion of Fire.*** If the abomination takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
 >
->***Immutable Form.***. The abomination is immune to any spell or effect that would alter its form.
+>***Immutable Form.*** The abomination is immune to any spell or effect that would alter its form.
 >
->***Magic Resistance.***. The abomination has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The abomination has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.***. The abomination’s weapon attacks are magical.
+>***Magic Weapons.*** The abomination’s weapon attacks are magical.
 >
 >#### Actions
->***Multiattack.***. The abomination makes two slam attacks.
+>***Multiattack.*** The abomination makes two slam attacks.
 >
->***Slam.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
+>***Slam.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 >

@@ -38,9 +38,9 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 >
 >***Innate Spellcasting.*** The barghest's innate spellcasting ability is Charisma (spell save DC 12). The barghest can innately cast the following spells, requiring no material components:
 >
->***At will: [levitate](.***./Magic/Spells/levitate.md), [minor illusion](../Magic/Spells/minor-illusion.md), [pass without trace](../Magic/Spells/pass-without-trace.md)
+>***At will: [levitate](.***/Magic/Spells/levitate.md), [minor illusion](../Magic/Spells/minor-illusion.md), [pass without trace](../Magic/Spells/pass-without-trace.md)
 >
->***1/day each: [charm person](.***./Magic/Spells/charm-monster.md), [dimension door](../Magic/Spells/dimension-door.md), [suggestion](../Magic/Spells/suggestion.md)
+>***1/day each: [charm person](.***/Magic/Spells/charm-monster.md), [dimension door](../Magic/Spells/dimension-door.md), [suggestion](../Magic/Spells/suggestion.md)
 >
 >#### Actions
 >***Multiattack.*** The barghest makes one bite attack and two claw attacks. Instead of a bite attack, the barghest can use the feed action.

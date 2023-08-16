@@ -10,4 +10,4 @@ A deadly shower of razor-sharp metal blades bursts forth from your outstretched 
 
 These blades are considered magical weapons for the purposes of overcoming resistance and immunity to nonmagical attacks and damage.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
+***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.

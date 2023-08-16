@@ -14,7 +14,7 @@ You know the Dragon's Knowledge discipline, as well as one additional draconic d
 
 Whenever you learn a new draconic discipline, you can also replace one draconic discipline that you already know with a different discipline.
 
-***Casting Draconic Spells***. Some draconic disciplines allow you to cast spells. To cast one of these spells, you use its casting time and other rules, but you don't need to provide material components for it.
+***Casting Draconic Spells.*** Some draconic disciplines allow you to cast spells. To cast one of these spells, you use its casting time and other rules, but you don't need to provide material components for it.
 
 Once you reach 5th level in this class. you can spend additional ki points to increase the level of a draconic discipline spell that you cast, provided that the spell has an enhanced effect at a higher level as dragon's breath does. The spell's level increases by 1 for each additional ki point you spend. For example, if you are a 9th-level monk and use Dragon's Breath to cast dragon's breath, you can spend 4 ki points to cast it as a 3rd-level spell (the discipline's base cost of 3 ki points plus 1).
 

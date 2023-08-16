@@ -7,9 +7,9 @@ The archdevil Bel, warlord of Avernus, counts many of these paladins—called he
 
 ## Tenets of Conquest
 A paladin who takes this oath has the tenets of conquest seared on the upper arm. A hell knight’s oath appears in Infernal runes, a brutal reminder of vows to the Lords of Hell.
-***Douse the Flame of Hope***. It is not enough to merely defeat an enemy in battle. Your victory must be so overwhelming that your enemies’ will to fight is shattered forever. A blade can end a life. Fear can end an empire.
-***Rule with an Iron Fist***. Once you have conquered, tolerate no dissent. Your word is law. Those who obey it shall be favored. Those who defy it shall be punished as an example to all who might follow.
-***Strength Above All***. You shall rule until a stronger one arises. Then you must grow mightier and meet the challenge, or fall to your own ruin.
+***Douse the Flame of Hope.*** It is not enough to merely defeat an enemy in battle. Your victory must be so overwhelming that your enemies’ will to fight is shattered forever. A blade can end a life. Fear can end an empire.
+***Rule with an Iron Fist.*** Once you have conquered, tolerate no dissent. Your word is law. Those who obey it shall be favored. Those who defy it shall be punished as an example to all who might follow.
+***Strength Above All.*** You shall rule until a stronger one arises. Then you must grow mightier and meet the challenge, or fall to your own ruin.
 
 ## Oath Spells
 You gain oath spells at the paladin levels listed.
@@ -24,7 +24,7 @@ Paladin Level | Spells
   
 ## Channel Divinity
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
-***Conquering Strike***. You can use your Channel Divinity to break a foe’s will. When you hit a creature with a melee weapon attack as part of the Attack action, you can also use your Channel Divinity to force the target to make a Wisdom saving throw. On a failed save, the target becomes frightened of you for 1 minute. The frightened creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Conquering Strike.*** You can use your Channel Divinity to break a foe’s will. When you hit a creature with a melee weapon attack as part of the Attack action, you can also use your Channel Divinity to force the target to make a Wisdom saving throw. On a failed save, the target becomes frightened of you for 1 minute. The frightened creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.
 **Guided Strike**. You can use your Channel Divinity to strike with supernatural accuracy. When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
 
 ## Aura of Conquest

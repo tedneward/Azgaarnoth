@@ -16,4 +16,4 @@ The target creature can dissolve through 2-inch-thick, nonmagical wood or metal 
 
 The target creature’s unarmed attacks infl ict 1d8 acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative -1 penalty to the AC it offers from each successful strike. The armor is destroyed if the penalty reduces its AC to 10.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for every two slot levels above 3rd.
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for every two slot levels above 3rd.

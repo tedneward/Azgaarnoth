@@ -10,4 +10,4 @@ You conjure a flame, tinged with holy energy, and apply it to a wound. The targe
 
 This is a painful treatment option, however, and the affected creature makes attack rolls and skill checks at disadvantage on its turn.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.

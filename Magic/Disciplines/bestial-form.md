@@ -3,11 +3,11 @@
 
 You transform your body, gaining traits of different beasts.
 
-***Psychic Focus***. While focused on this discipline, you have advantage on Wisdom (Animal Handling) checks.
+***Psychic Focus.*** While focused on this discipline, you have advantage on Wisdom (Animal Handling) checks.
 
-***Bestial Claws (1–7 psi)***. You manifest long claws for an instant and make a melee weapon attack against one creature within 5 feet of you. On a hit, this attack deals 1d10 slashing damage per psi point spent.
+***Bestial Claws (1–7 psi).*** You manifest long claws for an instant and make a melee weapon attack against one creature within 5 feet of you. On a hit, this attack deals 1d10 slashing damage per psi point spent.
 
-***Bestial Transformation***. As a bonus action, you alter your physical form to gain different characteristics. When you use this ability, you can choose one or more of the following effects. Each effect has its own psi point cost. Add them together to determine the total cost. This transformation lasts for 1 hour, until you die, or until you end it as a bonus action.
+***Bestial Transformation.*** As a bonus action, you alter your physical form to gain different characteristics. When you use this ability, you can choose one or more of the following effects. Each effect has its own psi point cost. Add them together to determine the total cost. This transformation lasts for 1 hour, until you die, or until you end it as a bonus action.
 
 * **Amphibious (2 psi)**. You gain gills; you can breathe air and water.
 * **Climbing (2 psi)**. You grow tiny hooked claws that give you gain a climbing speed equal to your walking speed.

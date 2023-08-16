@@ -10,4 +10,4 @@ Sand sprays from your outstretched hand with enough force to pierce flesh and sc
 
 The sandblast deals the same damage to objects and structures in its area.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.

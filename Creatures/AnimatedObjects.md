@@ -39,14 +39,14 @@ To add to its menace, animated armor is frequently enchanted with scripted speec
 >- **Languages** —
 >- **Challenge** 1
 >___
->***Antimagic Susceptibility.***. The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
+>***Antimagic Susceptibility.*** The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
 >
->***False Appearance.***. While the armor remains motionless, it is indistinguishable from a normal suit of armor.
+>***False Appearance.*** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 >
 >#### Actions
->***Multiattack.***. The armor makes two melee attacks.
+>***Multiattack.*** The armor makes two melee attacks.
 >
->***Slam.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
+>***Slam.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
 >
 
 ---
@@ -79,12 +79,12 @@ A flying sword dances through the air, fighting with the confidence of a warrior
 >- **Languages** —
 >- **Challenge** 1/4
 >___
->***Antimagic Susceptibility.***. The sword is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the sword must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
+>***Antimagic Susceptibility.*** The sword is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the sword must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
 >
->***False Appearance.***. While the sword remains motionless and isn’t flying, it is indistinguishable from a normal sword.
+>***False Appearance.*** While the sword remains motionless and isn’t flying, it is indistinguishable from a normal sword.
 >
 >#### Actions
->***Longsword.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.
+>***Longsword.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.
 >
 
 ---
@@ -121,8 +121,8 @@ In some cases, a rug of smothering is disguised as a carpet of flying or another
 >- **Languages** —
 >- **Challenge** 2
 >___
->***Antimagic Susceptibility.***. The rug is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the rug must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
+>***Antimagic Susceptibility.*** The rug is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the rug must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
 >
->***Damage Transfer.***. While it is grappling a creature, the rug takes only half the damage dealt to it, and the creature grappled by the rug takes the other half.
+>***Damage Transfer.*** While it is grappling a creature, the rug takes only half the damage dealt to it, and the creature grappled by the rug takes the other half.
 >
 >#### Actions

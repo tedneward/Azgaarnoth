@@ -10,4 +10,4 @@ You touch a willing creature, instilling within it a dangerous and volatile ener
 
 The target creature can choose to use its reaction to willingly release the energy blast, taking 6d6 lightning damage itself in the process.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.

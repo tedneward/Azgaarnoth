@@ -122,9 +122,9 @@ To you, battles unfold like a game of chess. You understand that strength and sp
 
 You learn maneuvers that are fueled by special dice called superiority dice.
 
-***Maneuvers***. You learn three maneuvers of your choice. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack. You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. These are listed in [Maneuvers](Maneuvers.md).
+***Maneuvers.*** You learn three maneuvers of your choice. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack. You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. These are listed in [Maneuvers](Maneuvers.md).
 
-***Superiority Dice***. You have four superiority dice, which are d8s. You gain another superiority die at 7th level and one more at 15th level.
+***Superiority Dice.*** You have four superiority dice, which are d8s. You gain another superiority die at 7th level and one more at 15th level.
 
 ### Maneuver Versatility
 If you know any maneuvers from the above list, you can replace one maneuver you know with a different maneuver whenever you finish a long rest. This change reflects your physical and mental preparation for the day ahead.

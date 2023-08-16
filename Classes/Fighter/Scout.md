@@ -7,7 +7,7 @@ When you choose this archetype at 3rd level, you gain proficiency in three of th
 ## Combat Superiority
 At 3rd level, you gain a set of abilities that are fueled by special dice called superiority dice.
 
-***Superiority Dice***. You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a long or short rest.
+***Superiority Dice.*** You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a long or short rest.
 
 You gain another superiority die at 7th level and one more at 15th level.
 

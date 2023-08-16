@@ -1,6 +1,13 @@
 # Creatures of Azgaarnoth
 These creatures are found in various places across the map. Over time, all these will be "tuned" to the map specifically, but many of them are direct "lifts" from the official D&D content so that I have convenient links that are under my control for various purposes.
 
+## Creature Modifier Templates
+- Dire
+- Ghost
+- Skeleton
+- Withered
+- Zombie
+
 ## A
 - [Aarakocra](Aarakocra.md)
 - [Abishai](Abishai.md)
@@ -20,12 +27,15 @@ These creatures are found in various places across the map. Over time, all these
 - [Basilisk](Basilisk.md)
 - [Bear](Bear.md)
 - [Behir](Behir.md)
+- [Blink Dog](Dog.md#blink-dog)
 - [Brother of Undeath](BrotherOfUndeath.md)
 - [Bulette](Bulette.md)
 
 ## C
+- [Cat](Cat.md)
 
 ## D
+- [Death Dog](Dog.md#death-dog)
 
 ## E
 - [Elemental](Elemental.md)
@@ -48,6 +58,7 @@ These creatures are found in various places across the map. Over time, all these
 ## K
 
 ## L
+- [Lion](Cat.md#lion)
 
 ## M
 - [Magmin](Elemental.md#magmin)
@@ -58,16 +69,20 @@ These creatures are found in various places across the map. Over time, all these
 ## O
 
 ## P
+- [Panther](Cat.md#panther)
 
 ## Q
 
 ## R
 
 ## S
+- [Saber-Toothed Tiger](Cat.md#saber-toothed-tiger)
 - [Sahuagin](Sahuagin.md)
+- [Specter](Specter.md)
 - [Sunken Sailor](SunkenSailor.md)
 
 ## T
+- [Tiger](Cat.md#tiger)
 - [Troll](Troll.md)
 
 ## U
@@ -75,6 +90,10 @@ These creatures are found in various places across the map. Over time, all these
 ## V
 
 ## W
+- [Withered Hound](Dog.md#withered-hound)
+- [Wraith](Wraith.md)
+- [Wolf](Wolf.md)
+- [Worg](Wolf.md#worg)
 
 ## X
 
@@ -115,3 +134,34 @@ General description
 >***Feature.***   
 >
 >#### Actions
+
+---
+
+```
+// For use with https://github.com/jfrondeau/roll20/blob/master/statblock-import-5e.js
+// Linked from https://app.roll20.net/forum/post/1612177/script-statblock-import-for-5e-character-sheet#
+
+Creature Name
+Medium humanoid (sahuagin), lawful evil //NAME AND SIZE TYPE ALIGNMENT GO ON 2 LINES
+Armor Class 10 (natural armor) //EACH ITEM (AC, HP, Speed) SHOULD BE SEPARATED BY A LINE BREAK
+Hit Points 22 (4d8 + 4)
+Speed 30ft., swim 40 ft.
+STR 13 (+1) //SPACING DOESN'T SEEM TO MATTER THAT MUCH, BUT EACH STAT SHOULD BE ON ITS OWN LINE//
+DEX 11 (+0)
+CON 12 (+1)
+INT 12 (+1)
+WIS 13 (+1)
+CHA 9 (- 1)
+Skills Perception +5
+Senses darkvision 120ft., passive Perception 15 
+Languages Common, Elven
+Challenge 1/2 (100 XP)
+Blood Frenzy. The creature has advantage on melee attack rolls against any creature that doesn't have all its hit points. //EACH ITEM IN ITS OWN LINE, AND THIS WILL GO INTO TRAITS. TRAIT NAME, PERIOD. FOLLOWED BY DESCRIPTION.
+Limited Amphibiousness. The creature can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.
+Shark Telepathy. The creature can magically command any shark within 120 feet of it, using a limited telepathy.
+ACTIONS // THIS PART MARKS WHERE THE NPC ACTIONS START. 
+Multiattack. The creature makes two melee attacks: one with its bite and one with its claws or spear. //SCRIPT CORRECTLY PLACES MULTIATTACK, INTO THE MA LINE. 
+Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
+Claws. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.
+Spear. Melee or Ranged Weapon Attack:+3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack. //ONLY THING TO NOTE IS THAT MY COPY PASTELIKED TO TURN 1's into L's AND SCRIPT DOES NOT TURN ON MULTIATTACK FOR ATTACKS THAT HAVE THEM, SO YOU'LL DO THAT MANUALLY
+```
