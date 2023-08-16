@@ -239,7 +239,6 @@ def ingest(arg):
         # Now we're in to Legendary Actions
         while linect < len(lines):
             line = lines[linect].strip()
-            print("Parsing Legendary Action: '" + line + "'")
             if 'Legendary' == line[0:len('Legendary')]:
                 linect += 2
                 continue
@@ -334,9 +333,11 @@ def main(argv):
     # Store?
     if args.writemd != None:
         dest = args.writemd
-        if os.path.isdir(dest):
+        if dest == '-':
             for creature in creatures:
                 print(creature.emitMD())
+        elif os.path.isdir(dest):
+            for creature in creatures:
                 with open(snakecaseify(creature.name).title() + ".md", 'w') as mdfile:
                     mdfile.write(creature.emitMD())
     else:
