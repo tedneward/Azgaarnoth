@@ -93,9 +93,12 @@ class Creature:
         linebreak = ">___\n"
 
         result  = ""
-        result += f"## {self.name}"
-        result += self.titleify(self.description, '')
-        result += f">### {self.name.title()}\n"
+        result += f"## {self.name}\n"
+        if len(self.description) > 0:
+            result += self.titleify(self.description, '')
+        else:
+            result += '\n'
+        result += f">### {self.name}\n"
         result += f">*{self.size} {self.type}, {self.alignment}*\n"
         result += linebreak
         result += f">- **Armor Class** {self.ac}\n"
@@ -146,7 +149,7 @@ def ingest(arg):
     def ingestrawstatblock(lines):
         creature = Creature()
 
-        creature.name = lines[0].lower()
+        creature.name = lines[0].lower().strip().title()
         (sizeandtype, alignment) = lines[1].split(',')
         creature.alignment = alignment.strip()
         creature.size = sizeandtype.split(' ')[0]
@@ -275,6 +278,9 @@ def ingest(arg):
             # Maybe this is a longer-form description?
             creatures.append(ingestrawtextfile(lines))
 
+def snakecaseify(string):
+    return string.lower().replace(' ', '-')
+
 def main(argv):
     parser = argparse.ArgumentParser(
                     prog='CreaTool',
@@ -331,8 +337,8 @@ def main(argv):
         if os.path.isdir(dest):
             for creature in creatures:
                 print(creature.emitMD())
-                #with open(creature.name + ".md", 'w') as mdfile:
-                #    mdfile.write(creature.emitMD())
+                with open(snakecaseify(creature.name).title() + ".md", 'w') as mdfile:
+                    mdfile.write(creature.emitMD())
     else:
         parser.print_help()
 
