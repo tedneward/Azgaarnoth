@@ -20,25 +20,10 @@ class SubtypedCreature:
 
 # A creature entry.
 class Creature:
-    class Size(Enum):
-        TINY = 'Tiny',
-        SMALL = 'Small',
-        MEDIUM = 'Medium',
-        LARGE = 'Large',
-        HUGE = 'Huge',
-        GARGANTUAN = 'Gargantuan'
-
-    class Type(Enum):
-        ELEMENTAL = 'elemental',
-        FEY = 'fey',
-        FIEND = 'fiend'
-        HUMANOID = 'humanoid',
-        UNDEAD = 'undead'
-
     def __init__(self):
         self.name = ''
-        self.size = Creature.Size.MEDIUM
-        self.type = Creature.Type.HUMANOID
+        self.size = ''
+        self.type = ''
         self.alignment = ''
         self.description = []
         self.ac = ''
@@ -64,9 +49,11 @@ class Creature:
         self.actions = []
         self.bonusactions = []
         self.reactions = []
+        self.legendaryactions = []
+        self.lairactions = []
 
     def abilitybonus(self, score):
-        return (score / 2) - 5
+        return (score // 2) - 5
 
     def abilitytext(self, score):
         return f"{score} ({self.abilitybonus(score):+g})"
@@ -79,16 +66,37 @@ class Creature:
         "Parse a row from a SQLite cursor"
         pass
 
+    def titleify(self, items, prefix='>'):
+        results = ''
+        for item in items:
+            line = item.strip()
+
+            if '.' in line:
+                firstdot = line.index('.')
+                if firstdot < 35:
+                    title = '***' + line[0:firstdot] + '.***'
+                    text = line[firstdot:]
+                    results += prefix + title + text
+                else:
+                    results += prefix + line
+            else:
+                results += prefix + line
+
+            results += '\n'
+            results += prefix + '\n'
+
+        return results
+
     def emitMD(self):
         "Emit this creature description and stat block"
 
         linebreak = ">___\n"
 
         result  = ""
-        #result += f"## {self.name}"
-        #result += "\n\n".join(self.description)
-        result += f">### {self.name}\n"
-        result += f">*{self.size} {self.type}, {self.alignment}*"
+        result += f"## {self.name}"
+        result += self.titleify(self.description, '')
+        result += f">### {self.name.title()}\n"
+        result += f">*{self.size} {self.type}, {self.alignment}*\n"
         result += linebreak
         result += f">- **Armor Class** {self.ac}\n"
         result += f">- **Hit Points** {self.hp}\n"
@@ -96,8 +104,8 @@ class Creature:
         result += linebreak
         result +=  ">|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|\n"
         result +=  ">|:---:|:---:|:---:|:---:|:---:|:---:|\n"
-        result += f">|{self.abilitytextself.STR}|{self.abilitytextself.DEX}|{self.abilitytextself.CON}|"
-        result += f"{self.abilitytextself.INT}|{self.abilitytextself.WIS}|{self.abilitytextself.CHA}|\n"
+        result += f">|{self.abilitytext(self.STR)}|{self.abilitytext(self.DEX)}|{self.abilitytext(self.CON)}|"
+        result += f"{self.abilitytext(self.INT)}|{self.abilitytext(self.WIS)}|{self.abilitytext(self.CHA)}|\n"
         result +=  ">\n"
         result += linebreak
         result += f">- **Proficiency Bonus** {self.profbonus}\n"
@@ -111,12 +119,18 @@ class Creature:
         result += f">- **Languages** {','.join(self.languages)}\n"
         result += f">- **Challenge** {self.cr}\n" 
         result += linebreak
-        result += ">\n>\n".join(self.features)   
-        result +=  ">\n"
-        result +=  ">#### Actions\n"
-        result += ">\n>\n".join(self.actions)   
+        result += self.titleify(self.features)
+        result += ">#### Actions\n" + self.titleify(self.actions)
+        if len(self.bonusactions) > 0:
+            result +=  ">#### Bonus Actions\n" + self.titleify(self.bonusactions)
+        if len(self.reactions) > 0:
+            result +=  ">#### Reactions\n" + self.titleify(self.reactions)
+        if len(self.legendaryactions) > 0:
+            result +=  ">#### Legendary Actions\n" + self.titleify(self.legendaryactions)
 
         return result
+
+creatures = []
 
 def ingest(arg):
     # Recursively ingest if arg is a directory
@@ -129,17 +143,137 @@ def ingest(arg):
                     ingest(arg + '/' + f)
         return
 
+    def ingestrawstatblock(lines):
+        creature = Creature()
+
+        creature.name = lines[0].lower()
+        (sizeandtype, alignment) = lines[1].split(',')
+        creature.alignment = alignment.strip()
+        creature.size = sizeandtype.split(' ')[0]
+        creature.type = sizeandtype.split(' ')[1]
+
+        creature.ac = lines[3][len('Armor Class '):].strip()
+
+        creature.hp = lines[5][len('Hit Points '):].strip()
+
+        creature.speed = lines[7][len('Speed '):].strip()
+
+        creature.STR = int(lines[10].split('(')[0])
+        creature.DEX = int(lines[12].split('(')[0])
+        creature.CON = int(lines[14].split('(')[0])
+        creature.INT = int(lines[16].split('(')[0])
+        creature.WIS = int(lines[18].split('(')[0])
+        creature.CHA = int(lines[20].split('(')[0])
+
+        linect = 21
+        while linect < len(lines):
+            if 'Damage Vulnerabilities' in lines[linect]:
+                dvs = lines[linect][len('Damage Vulnerabilities '):].split(',')
+                for dv in dvs:
+                    creature.dmgvuls.append(dv.strip())
+
+            elif 'Damage Resistances' in lines[linect]:
+                drs = lines[linect][len('Damage Resistances '):].split(',')
+                for dr in drs:
+                    creature.dmgresists.append(dr.strip())
+
+            elif 'Damage Immunities' in lines[linect]:
+                dis = lines[linect][len('Damage Immunities '):].split(',')
+                for di in dis:
+                    creature.dmgimmunes.append(di.strip())
+
+            elif 'Condition Immunities' in lines[linect]:
+                cis = lines[linect][len('Condition Immunities '):].split(',')
+                for ci in cis:
+                    creature.condimmunes.append(ci.strip())
+
+            elif 'Saving Throws' in lines[linect]:
+                saves = lines[linect][len('Saving Throws '):].split(',')
+                for st in saves:
+                    creature.savingthrows.append(st.strip())
+
+            elif 'Skills' in lines[linect]:
+                skills = lines[linect][len('Skills '):].split(',')
+                for sk in skills:
+                    creature.skills.append(sk.strip())
+
+            elif 'Senses' in lines[linect]:
+                senses = lines[linect][len('Senses '):].split(',')
+                for sn in senses:
+                    creature.senses.append(sn.strip())
+
+            elif 'Languages' in lines[linect]:
+                langs = lines[linect][len('Languages '):].split(',')
+                for l in langs:
+                    creature.languages.append(l.strip())
+
+            elif 'Challenge' in lines[linect]:
+                creature.cr = lines[linect][len('Challenge '):].split(' ')[0].strip()
+
+            elif 'Actions' in lines[linect]:
+                break
+
+            else:
+                creature.features.append(lines[linect])
+
+            linect += 2
+
+        # Now we're in to Actions
+        while linect < len(lines):
+            line = lines[linect].strip()
+            if 'Legendary' == line[0:len('Legendary')]:
+                break
+            elif 'Actions' == line[0:len('Actions')]:
+                linect += 2
+                continue
+            elif 'Reactions' == line[0:len('Reactions')]:
+                break
+            else:
+                creature.actions.append(lines[linect].strip())
+
+            linect += 2
+
+        # Now we're in to Legendary Actions
+        while linect < len(lines):
+            line = lines[linect].strip()
+            print("Parsing Legendary Action: '" + line + "'")
+            if 'Legendary' == line[0:len('Legendary')]:
+                linect += 2
+                continue
+            else:
+                creature.legendaryactions.append(lines[linect].strip())
+
+            linect += 2
+
+        return creature
+
     def ingestrawtextfile(lines):
-        pass
+        name = lines[0]
+        description = []
+
+        linect = 1
+        while lines[linect] != name.upper():
+            if len((lines[linect]).strip()) > 0:
+                description.append(lines[linect])
+            linect += 1
+
+        creature = ingestrawstatblock(lines[linect:])
+        creature.name = name
+        creature.description = description
+        return creature
 
     def ingestmymdformat(lines):
         pass
 
     # Arg is a file
-    print(f"Ingesting file {arg}")
     with open(arg, 'r') as argfile:
         lines = argfile.readlines()
-
+        if lines[0].upper() == lines[0]:
+            # Guessing this is a stat block
+            creatures.append(ingestrawstatblock(lines))
+        else:
+            # Maybe this is a longer-form description?
+            creatures.append(ingestrawtextfile(lines))
 
 def main(argv):
     parser = argparse.ArgumentParser(
@@ -158,7 +292,6 @@ def main(argv):
     parser.add_argument('--writemd', help='Target directory for MD files to be emitted')
     args = parser.parse_args()
 
-    creatures = []
     if args.parsemd != None:
         # Parse MD files
         pass
@@ -173,6 +306,16 @@ def main(argv):
         creature.alignment = 'neutral'
         creature.ac = '15 (natural armor)'
         creature.hp = '135 (12d10 + 35)'
+        creature.senses.append('darkvision 60ft')
+
+        creature.STR = 20
+        creature.CON = 15
+        creature.DEX = 7
+        creature.INT = 3
+        creature.WIS = 9
+        creature.CHA = 10
+
+        creatures.append(creature)
     else:
         print("No source set specified!")
 
@@ -181,10 +324,17 @@ def main(argv):
     # Ingest?
     if args.ingest != None:
         ingest(args.ingest)
-    else:
-        parser.print_help()
 
     # Store?
+    if args.writemd != None:
+        dest = args.writemd
+        if os.path.isdir(dest):
+            for creature in creatures:
+                print(creature.emitMD())
+                #with open(creature.name + ".md", 'w') as mdfile:
+                #    mdfile.write(creature.emitMD())
+    else:
+        parser.print_help()
 
 if __name__ == '__main__':
 	main(sys.argv)
