@@ -5,11 +5,11 @@ These creatures are found in various places across the map. Over time, all these
 - Dire
 - Half-Dragon
 - Unead
-    - Ghost
+    - [Ghost](./Templates/Ghostly.md)
     - Mummy
-    - Skeleton
+    - [Skeleton](./Templates/Skeletal.md)
     - Withered
-    - Zombie
+    - [Zombie](./Templates/Zombie.md)
 
 ## A
 - [Aarakocra](Aarakocra.md)
@@ -31,7 +31,8 @@ These creatures are found in various places across the map. Over time, all these
 - [Bear](Bear.md)
 - [Behir](Behir.md)
 - [Blink Dog](Dog.md#blink-dog)
-- [Boneclaw](Boneclaw.png)
+- [Boneclaw](Boneclaw.md)
+- [Bonedrinker](Bonedrinker.md)
 - [Brother of Undeath](BrotherOfUndeath.md)
 - [Bulette](Bulette.md)
 
@@ -58,7 +59,7 @@ These creatures are found in various places across the map. Over time, all these
 ## H
 - [Hag](Hag.md)
 - [Hell Hound](Dog.md#hell-hound)
-- [Helmed Horror](./HelmedHorror.md)
+- [Helmed Horror](HelmedHorror.md)
 - [Hydra](Hydra.md)
 
 ## I

@@ -1,4 +1,4 @@
-## Bulette
+# Bulette
 A bulette is a massive predator that terrorizes any lands it inhabits. Also called a “land shark,” it lives only to feed. Irascible and rapacious, bulettes fear no other creature, and they attack with no regard for superior numbers or strength.
 
 ***Underground Hunters.*** Bulettes use their powerful claws to tunnel through the earth when they hunt. Heedless of obstruction, they uproot trees, cause landslides in loose slopes, and leave sinkholes behind them. When vibrations in the soil and rock alert a bulette to movement, it shoots to the surface, its jaws spread wide as it attacks.

@@ -1,4 +1,4 @@
-## Chimera
+# Chimera
 Chimeras were created after mortals began their worship of Tiamat, who sought to give her followers a taste of both her power and her capacity for horror. She took creatures that surrounded mortals and combined them into horrific, multi-headed monstrosities. This act gave rise to the first chimeras.
 
 Gifted with demonic cruelty, a chimera serves as a grim reminder of what happens when demon princes find their way to the Material Plane. A typical specimen has the hindquarters of a large goat, the forequarters of a lion, and the leathery wings of a dragon, along with the heads of all three of those creatures. The monster likes to surprise its victims, swooping down from the sky and engulfing prey with its breath before landing.

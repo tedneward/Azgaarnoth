@@ -20,6 +20,14 @@ class SubtypedCreature:
 
 # A creature entry.
 class Creature:
+    class TitledText:
+        def __init__(self):
+            self.title = ''
+            self.text = ''
+
+        def __str__(self) -> str:
+            return f'***{self.title}.*** {self.text}'
+
     def __init__(self):
         self.name = ''
         self.size = ''
@@ -60,7 +68,75 @@ class Creature:
 
     def parseMD(self, mdlines):
         "Parse a list of strings that contain well-formed Markdown"
-        pass
+
+        # Let's assume this is a one-creature file for now: TODO
+        linect = 0
+        self.name = mdlines[linect].replace('#', '').strip()
+        print(self.name)
+
+        while linect < len(mdlines):
+            line = mdlines[linect].strip()
+
+            if line[0:5] == '>### ':
+                break
+            else:
+                if len(line) > 0:
+                    self.description.append(mdlines[linect])
+                linect += 1
+
+        # name
+        line = mdlines[linect]
+        print("Name: " + line)
+        linect += 1
+
+        # size type (optional subtype), alignment
+        line = mdlines[linect][1:].strip().replace('*', '')
+        (sizetype, alignment) = line.split(',')
+        self.alignment = alignment.strip()
+        size = sizetype[0:sizetype.index(' ')]
+        ctype = sizetype[sizetype.index(' '):]
+        self.size = size.strip()
+        self.type = ctype.strip()
+        linect +=1
+
+        # >___
+        linect += 1
+
+        # Armor Class
+        line = mdlines[linect]
+        print("AC: " + line)
+        self.ac = line[len('>- **Armor Class** '):].strip()
+        linect += 1
+
+        # Hit Points
+        line = mdlines[linect]
+        print("HP: " + line)
+        self.hp = line[len('>- **Hit Points** '):].strip()
+        linect += 1
+
+        # Speed
+        line = mdlines[linect]
+        print("Spd: " + line)
+        self.speed = line[len('>- **Speed** '):].strip()
+        linect += 1
+
+        # >___
+        # Stat block headers
+        # Stat block table row divider
+        # Stat block
+        # >
+        # >___
+        # Prof Bonus
+        # Saving Throws
+        # Dmg Vul
+        # Dmg Res
+        # Dmg Imm
+        # Cond Imm
+        # Skills
+        # Senses
+        # Langs
+        # CR
+        # Features -> Actions -> Bonus Actions? -> Reactions? -> Lair Actions? -> Legendary Actions?
 
     def parserow(self, sqlrow):
         "Parse a row from a SQLite cursor"
@@ -433,41 +509,47 @@ def main(argv):
                     description='A creature list(s) and contents tool',
                     epilog='Text at the bottom of help')
     parser.add_argument('--version', action='version', version='%(prog)s 0.1')
+    # Source sets
     parser.add_argument('--parsemd', help='Source directory of MD files to use')
     parser.add_argument('--parsesql', help='Source SQLite database to use')
-    parser.add_argument('--testmd', help='Use test Creature')
+    # Ingestion
     parser.add_argument('--ingest', help='File(s) to import into the set')
+    # Linting/normalizing
     parser.add_argument('--lint', help='Warn about non-normalized data')
+    # Filter the current set by one or more options
     #parser.add_argument('--filter', help='Filter the source set') # When I figure out an expression language to use
-    parser.add_argument('--filtercr', help='Filter by Challenge Rating')
+    parser.add_argument('--filteralignment', help='Filter the source set by alignment')
+    parser.add_argument('--filtercr', help='Filter the source set by Challenge Rating')
+    parser.add_argument('--filtertype', choices=['construct', 'elemental', 'fey', 'fiend', 'humanoid', 'undead'], help='Filter the source set by type')
+    # Apply templates to the filtered creatures
+    parser.add_argument('--apply', choices=['ghostly', 'skeletal', 'zombie'], help='TODO: Apply a template to the current list of creatures')
+    parser.add_argument('--list', help='Print out the current set of creatures')
     parser.add_argument('--writeindex', help='Write out an index of the creatures')
     parser.add_argument('--writemd', help='Target directory for MD files to be emitted')
     args = parser.parse_args()
 
+    # What's the source set to start with?
     if args.parsemd != None:
         # Parse MD files
-        pass
+        if os.path.isdir(args.parsemd):
+            files = os.listdir(args.parsemd)
+            for f in files:
+                if os.path.isfile(args.parsemd + '/' + f):
+                    with open(args.parsemd + '/' + f, 'r') as mdfile:
+                        lines = mdfile.readlines()
+                        creature = Creature()
+                        creature.parseMD(lines)
+                        creatures.append(creature)
+        else:
+            with open(args.parsemd, 'r') as mdfile:
+                lines = mdfile.readlines()
+                creature = Creature()
+                creature.parseMD(lines)
+                creatures.append(creature)
+
     elif args.parsesql != None:
         # Parse SQLite db
         pass
-    elif args.testmd != None:
-        creature = Creature()
-        creature.name = 'Testit'
-        creature.size = Creature.Size.MEDIUM
-        creature.type = Creature.Type.FEY
-        creature.alignment = 'neutral'
-        creature.ac = '15 (natural armor)'
-        creature.hp = '135 (12d10 + 35)'
-        creature.senses.append('darkvision 60ft')
-
-        creature.STR = 20
-        creature.CON = 15
-        creature.DEX = 7
-        creature.INT = 3
-        creature.WIS = 9
-        creature.CHA = 10
-
-        creatures.append(creature)
     else:
         print("No source set specified!")
 
@@ -476,6 +558,13 @@ def main(argv):
     # Ingest?
     if args.ingest != None:
         ingest(args.ingest)
+
+    # Apply template?
+
+    # List
+    if args.list != None:
+        for name in map(lambda crea: creature.name, creatures):
+            print(name)
 
     # Store?
     if args.writemd != None:

@@ -1,4 +1,4 @@
-## Barghest
+# Barghest
 ![Barghest](Barghest.jpg)
 
 A barghest is a lupine fiend that can take the shape of a wolf or goblin. In its natural form, it resembles a goblin-wolf hybrid with terrible jaws and sharp claws. Barghests come into the world to feed on blood and souls to grow stronger. As whelps, barghests are nearly indistinguishable from wolves, except for their size and claws. As they grow larger and stronger, their skin darkens to bluish-red and eventually becomes blue altogether. A full-grown barghest is about 6 feet long and weighs 180 pounds. A barghest's eyes glow orange when the creature becomes excited.

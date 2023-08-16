@@ -1,4 +1,4 @@
-## Banshee
+# Banshee
 ![](Banshee.png)
 
 When night falls, unlucky travelers hear the faint cries of the forlorn dead. This woeful spirit is a banshee, a spiteful creature formed from the spirit of a female elf.
