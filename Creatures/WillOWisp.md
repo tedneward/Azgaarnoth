@@ -1,4 +1,4 @@
-# Will-O'-Wisp
+## Will-O'-Wisp
 Will-o'-wisps are malevolent, wispy balls of light that haunt lonely places and battlefields, bound by dark fate or dark magic to feed on fear and despair.
 
 ***Hope and Doom.*** Will-o'-wisps look like bobbing lantern lights in the distance, although they can choose to alter their colors, or wink out completely. When they activate their lights, will-o'-wisps offer hope, hinting of safety to creatures that follow them.

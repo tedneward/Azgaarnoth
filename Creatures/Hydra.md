@@ -1,4 +1,4 @@
-# Hydra
+## Hydra
 ![](Hydra.png)
 
 The hydra is a reptilian horror with a crocodilian body and multiple heads on long, serpentine necks. Although its heads can be severed, the hydra magically regrows them in short order. A typical specimen has five heads.

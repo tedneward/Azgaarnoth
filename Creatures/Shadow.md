@@ -1,4 +1,11 @@
 ## Shadow
+Shadows are undead that resemble dark exaggerations of humanoid shadows.
+
+***Dark Disposition.*** From the darkness, the shadow reaches out to feed on living creatures’ vitality. They can consume any living creature, but they are especially drawn to creatures untainted by evil. A creature that lives a life of goodness and piety consigns its basest impulses and strongest temptations to the darkness where the shadows hunger. As a shadow drains its victim’s strength and physical form, the victim’s shadow darkens and begins to move of its own volition. In death, the creature’s shadow breaks free, becoming a new undead shadow hungry for more life to consume.
+
+If a creature from which a shadow has been created somehow returns to life, its undead shadow senses the return. The shadow might seek its "parent" to vex or slay. Whether the shadow pursues its living counterpart, the creature that birthed the shadow no longer casts one until the monster is destroyed.
+
+***Undead Nature.*** A shadow doesn’t require air, food, drink, or sleep.
 
 >### Shadow
 >*Medium Undead, Chaotic Evil*

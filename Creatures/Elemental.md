@@ -1,6 +1,8 @@
 # Elemental
 Elementals are incarnations of the elements that make up the universe: air, earth, fire, and water. Though little more than animated energy on their own planes of existence, they can be called on by spellcasters and powerful beings, binding elemental essence into a discrete form, to take shape and perform tasks. As the essence spends time in that shape, it may develop personality and individual characteristics.
 
+> Jump to: [Air](#air) | [Earth](#earth) | [Fire](#fire) | [Water](#water)
+
 ***Living Elements.*** Each elemental plane is a place of purest elemental energy--what is known to scholars as elemental *essence*. This essence is often what's drawn during certain spells to power certain effects (such as drawing just the tiniest amount of essence of fire to project flame during a [burning hands](../Magic/Spells/burning-hands.md) spell, for example). On its own, essence has no identity, personality, memory, or individual characteristics.
 
 When essence is drawn and poured into a discrete shape--what casters call "summoning an elemental"--the essence can, over time, develop identity. These elementals begin their existence as a dim consciousness, often following only the will of the caster. Over time, however, elementals can develop a sense of identity and self, and often take on names. In some quiet corners of scholarly discourse, it is even believed that elementals can form hierarchies or societies.
@@ -10,8 +12,6 @@ Some elementals desire only to return to their native plane and "rejoin" the pla
 ***Conjured by Magic.*** Certain spells and magic items can conjure an elemental, summoning it from the Inner Planes to the Material Plane. By its very nature, elemental essence is a wild force outside of its native plane, and requires the magic and determination to shape it. A creature that summons an elemental must assert force of will to control it.
 
 ***Elemental Nature.*** An elemental doesn’t require air, food, drink, or sleep.
-
-> Jump to: [Air](#air) | [Earth](#earth) | [Fire](#fire) | [Water](#water)
 
 The elemental planes of water, earth, fire, and air align on planar borders; where elemental essences of each of two planes combine, they sometimes combine in interesting ways, which if they remain combined over time, give rise to individual elementals made of the combined element.
 
