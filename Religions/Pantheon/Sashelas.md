@@ -70,34 +70,6 @@ Swim the great currents and the shallow seas. Exult in the dynamic beauty and li
 
 
 
-
-The Thieves Guild
-A Collection of D&D 5e Resources
-Share on FacebookShare on TwitterShare via Email
-Home
-[the guild]
-Arcana
-[spells, items]
-Equipment
-[shops, trade gear]
-Harvest
-[monster loot]
-Deities
-[gods, worship]
-DM Tools
-[tables, reference]
-Other
-[riddles & more]
-The Thieves Guild > Deities > Poseidon
-
-OLYMPIAN
-PANTHEON
-Gods & Demigods
-Poseidon
-(pronounced PO-​sei-​don)
-Earth-Shaker, Savior of Ships, Poseidon of the Dashing Wave
-Greater Deity
-Worshippers, Clergy, Temples | Dogma | Appearance | Relationships & History | Quick Descriptions
 Poseidon
 Poseidon was the ancient Greek god of the sea, rivers, floods and drought, earthquakes, and horses. The mighty Earthshaker, Poseidon ruled the waves that the ancient seafaring Greeks depended upon. Fisherman and sea captains swore fealty to him and avoided his wrath. Poseidon was also called Neptune in Rome.
 Worshipers, Clergy & Temples

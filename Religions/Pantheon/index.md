@@ -24,10 +24,10 @@ Deity | Description |Alignment | Domains | Symbol
 [Heironeous](Heironeous.md)|God of chivalry and valor|LG|[Twilight](../../Classes/Cleric/Twilight.md), [Unity](../../Classes/Cleric/Unity.md), [War](../../Classes/Cleric/War.md)|Lightning bolt
 [Hextor](Hextor.md)|God of war and discord|LE|[Fire](../../Classes/Cleric/Fire.md), [Grave](../../Classes/Cleric/Grave.md), [War](../../Classes/Cleric/War.md)|Six arrows facing downward in a fan
 [Larethian](Larethian.md)|Deity of art and magic|CG|[Air](../../Classes/Cleric/Air.md), [Light](../../Classes/Cleric/Light.md), [Moon](../../Classes/Cleric/Moon.md)|Quarter moon or starburst
-[Lathander](Lathander.md)|God of birth and renewal|NG|[Fertility](../../Classes/Cleric/Fertility.md), [Life](../../Classes/Cleric/Life.md), [Light](../../Classes/Cleric/Light.md)|Road traveling into a sunrise
+[Lathander](Lathander.md)|God of birth and renewal|NG|[Fertility](../../Classes/Cleric/Fertility.md), [Light](../../Classes/Cleric/Light.md), [Protection](../../Classes/Cleric/Protection.md)|Road traveling into a sunrise
 [Lugh](Lugh.md)|God of arts, travel, and commerce|CN|[Knowledge](../../Classes/Cleric/Knowledge.md), [Life](../../Classes/Cleric/Life.md), [Protection](../../Classes/Cleric/Protection.md)|Pair of long hands
 [Lyssa](Lyssa.md)|Goddess of madness and ecstasy|CN|[Madness](../../Classes/Cleric/Madness.md), [Desire](../../Classes/Cleric/Desire.md), [Trickery](../../Classes/Cleric/Trickery.md)|Hands clasped to a screaming face
-[Lythtzu](Lythtzu.md)|God of battle|LN|[War](../../Classes/Cleric/War.md), [Life](../../Classes/Cleric/Life.md), [Healing](../../Classes/Cleric/Healing.md)|A gleaming blade in the light
+[Lythtzu](Lythtzu.md)|God of battle|LN|[War](../../Classes/Cleric/War.md), [Life](../../Classes/Cleric/Life.md), [Order](../../Classes/Cleric/Order.md)|A gleaming blade in the light
 [Maglubiyet](Maglubiyet.md)|God of goblingkind|LE|[War](../../Classes/Cleric/War.md), [Order](../../Classes/Cleric/Order.md), [Unity](../../Classes/Cleric/Unity.md)|Flaming eyes set against darkness
 [Malar](Malar.md)|God of the hunt|CN|[Hunt](../../Classes/Cleric/Hunt.md), [Chaos](../../Classes/Cleric/Chaos.md), [Nature](../../Classes/Cleric/Nature.md)|Clawed paw
 [Milil](Milil.md)|Goddess of poetry and song|NG|[Desire](../../Classes/Cleric/Desire.md), [Light](../../Classes/Cleric/Light.md), [Trickery](../../Classes/Cleric/Trickery.md)|Five-stringed harp made of leaves
@@ -40,7 +40,7 @@ Deity | Description |Alignment | Domains | Symbol
 [The Keeper](Keeper.md)|God of death and undeath|NE|[Death](../../Classes/Cleric/Death.md), [Grave](../../Classes/Cleric/Grave.md), [Vengeance](../../Classes/Cleric/Vengeance.md)|Obsidian tome against a backdrop of a headstone
 [The Traveler](Traveler.md)|Deity of chaos and change|CN|[Chaos](../../Classes/Cleric/Chaos.md), [Twilight](../../Classes/Cleric/Twilight.md), [Trickery](../../Classes/Cleric/Trickery.md)|Four crossed, rune-inscribed bones
 [Tiamat](Tiamat.md)|Dragon goddess of evil|LE|[Dragon](../../Classes/Cleric/Dragon.md), [Trickery](../../Classes/Cleric/Trickery.md), [Shadow](../../Classes/Cleric/Shadow.md)|Dragon head with five claw marks
-[Wee Jas](WeeJas.md)|Goddess of magic and death|LN|[Arcana](../../Classes/Cleric/Arcana.md), [Death](../../Classes/Cleric/Death.md), [Grave](../../Classes/Cleric/Grave.md)|Red skull in front of fireball
+[Wee Jas](WeeJas.md)|Goddess of magic and death|LN|[Arcana](../../Classes/Cleric/Arcana.md), [Death](../../Classes/Cleric/Death.md), [Order](../../Classes/Cleric/Order.md)|Red skull in front of fireball
 
 ^1: The Cat Lord, while worshipped by some tabaxi, is not considered a god to most other religious scholars. However, clerics worshipping him do get their prayers answered, and the religious scholars aren't quite sure what to make of that, either.
 

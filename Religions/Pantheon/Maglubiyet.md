@@ -8,9 +8,9 @@ From his throne of flaming iron, Maglubiyet commands the souls of goblins, hobgo
 He is worshipped openly among the Hordes that still devote themselves to the Old Ways, and vies for followers against Gruumsh among them. Although most worship falls along clan lines, periodically one clan will raid another, taking slaves and absorbing the other, and "convince" One-Eye's followers of the superiority of The Mighty One.
 
 ## Clerical details
-Domains: 
+Domains: [War](../../Classes/Cleric/War.md), [Order](../../Classes/Cleric/Order.md), [Unity](../../Classes/Cleric/Unity.md)
 
-Weapon: 
+Weapon: Flail
 
 ## Worshipers, Clergy & Temples
 The priests and shamans of Maglubiyet were his mouthpieces on the Material Plane. They fulfilled his demands for blood sacrifices by dispatching victims with an axe. They believed that these sacrifices strengthened Maglubiyet. His clergy was almost always drawn from the goblin and hobgoblin races. The tasloi also worshiped an aspect of Maglubiyet.
