@@ -111,7 +111,7 @@ class Creature:
         result += f"{self.abilitytext(self.INT)}|{self.abilitytext(self.WIS)}|{self.abilitytext(self.CHA)}|\n"
         result +=  ">\n"
         result += linebreak
-        result += f">- **Proficiency Bonus** {self.profbonus}\n"
+        result += f">- **Proficiency Bonus** {self.profbonus:+g}\n"
         result += f">- **Saving Throws** {','.join(self.savingthrows)}\n"
         result += f">- **Damage Vulnerabilities** {','.join(self.dmgvuls)}\n"
         result += f">- **Damage Resistances** {','.join(self.dmgresists)}\n"
@@ -152,6 +152,8 @@ def ingest(arg):
         creature.name = lines[0].lower().strip().title()
         (sizeandtype, alignment) = lines[1].split(',')
         creature.alignment = alignment.strip()
+
+        # TODO: type might have parens to it, eg, "Large humanoid (goblin)"
         creature.size = sizeandtype.split(' ')[0]
         creature.type = sizeandtype.split(' ')[1]
 
@@ -247,7 +249,7 @@ def ingest(arg):
 
             linect += 2
 
-        return creature
+        creatures.append(creature)
 
     def ingestrawtextfile(lines):
         name = lines[0]
@@ -262,7 +264,7 @@ def ingest(arg):
         creature = ingestrawstatblock(lines[linect:])
         creature.name = name.strip()
         creature.description = description
-        return creature
+        creatures.append(creature)
     
     def ingestdndbeyondwebp(lines):
         creaturelist = []
@@ -291,25 +293,137 @@ def ingest(arg):
         return creaturelist
 
     def ingestmymdformat(lines):
-        pass
+        if lines[3][0:len('**Armor Class**')] != '**Armor Class**':
+            # This is one of my multi-statblock formats
+            print("I can't support multi-statblock formats yet")
+            pass
+        else:
+            # This is one creature
+            creature = Creature()
+
+            creature.name = lines[0][2:].strip().title()
+            (sizeandtype, alignment) = lines[1][1:-2].split(',')
+            creature.alignment = alignment.strip()
+            creature.size = sizeandtype.split(' ')[0]
+            # TODO: type might have parens in it, eg "Large humanoid (goblin)"
+            creature.type = sizeandtype.split(' ')[1]
+
+            creature.ac = lines[3][len('**Armor Class** '):].strip()
+            creature.hp = lines[5][len('**Hit Points** '):].strip()
+            creature.speed = lines[7][len('**Speed** '):].strip()
+
+            abilities = lines[11].split('|')
+            creature.STR = int(abilities[0].split('(')[0])
+            creature.DEX = int(abilities[1].split('(')[0])
+            creature.CON = int(abilities[2].split('(')[0])
+            creature.INT = int(abilities[3].split('(')[0])
+            creature.WIS = int(abilities[4].split('(')[0])
+            creature.CHA = int(abilities[5].split('(')[0])
+
+            linect = 13
+            while linect < len(lines):
+                line = lines[linect].strip()
+                if len(line) == 0:
+                    pass
+                elif '**Damage Vulnerabilities**' in line:
+                    dvs = line[len('**Damage Vulnerabilities** '):].split(',')
+                    for dv in dvs:
+                        creature.dmgvuls.append(dv.replace('*', '').strip())
+                elif '**Proficiency Bonus**' in line:
+                    creature.profbonus = int(line[len('**Proficiency Bonus** '):])
+                elif '**Damage Resistances**' in line:
+                    drs = line[len('**Damage Resistances** '):].split(',')
+                    for dr in drs:
+                        creature.dmgresists.append(dr.strip())
+                elif '**Damage Immunities**' in line:
+                    dis = line[len('**Damage Immunities** '):].split(',')
+                    for di in dis:
+                        creature.dmgimmunes.append(di.strip())
+                elif '**Condition Immunities**' in line:
+                    cis = line[len('**Condition Immunities** '):].split(',')
+                    for ci in cis:
+                        creature.condimmunes.append(ci.strip())
+                elif '**Saving Throws**' in line:
+                    saves = line[len('**Saving Throws** '):].split(',')
+                    for st in saves:
+                        creature.savingthrows.append(st.strip())
+                elif '**Skills**' in line:
+                    skills = line[len('**Skills** '):].split(',')
+                    for sk in skills:
+                        creature.skills.append(sk.strip())
+                elif '**Senses**' in line:
+                    senses = line[len('**Senses** '):].split(',')
+                    for sn in senses:
+                        creature.senses.append(sn.strip())
+                elif '**Languages**' in line:
+                    langs = line[len('**Languages** '):].split(',')
+                    for l in langs:
+                        creature.languages.append(l.strip())
+                elif '**Challenge**' in line:
+                    creature.cr = line[len('**Challenge** '):].split(' ')[0].strip()
+                elif '# Actions' in line:
+                    break
+
+                else:
+                    creature.features.append(line.replace('*', ''))
+
+                linect += 1
+
+            # Now we're in to Actions/Reactions/Bonus Actions/Legendary Actions/Description
+            # blocks, so this gets interesting
+            block = ''
+            while linect < len(lines):
+                line = lines[linect].strip()
+                if len(line) == 0:
+                    linect += 1
+                    continue
+
+                if '## Description' == line[0:len('## Description')]:
+                    block = 'description'
+                elif '#### Description' == line[0:len('#### Description')]:
+                    block = 'description'
+                elif '#### Legendary' == line[0:len('#### Legendary')]:
+                    block = 'legendary'
+                elif '#### Actions' == line[0:len('#### Actions')]:
+                    block = 'actions'
+                elif '#### Reactions' == line[0:len('Reactions')]:
+                    block = 'reactions'
+                elif '#### Bonus Actions' == line[0:len('#### Actions')]:
+                    block = 'bonusactions'
+                else:
+                    text = line.replace('*', '')
+                    if block == 'actions': creature.actions.append(text)
+                    elif block == 'reactions': creature.reactions.append(text)
+                    elif block == 'bonusactions': creature.bonusactions.append(text)
+                    elif block == 'legendary': creature.legendaryactions.append(text)
+                    elif block == 'description': creature.description.append(text)
+                    else:
+                        print("WTF?!? Unrecognized block! " + block)
+
+                linect += 1
+
+            return creature
 
     # Arg is a file
     with open(arg, 'r') as argfile:
         lines = argfile.readlines()
         if len(lines) < 1:
             print(f"Empty file: {arg}")
+        elif lines[0][0:2] == '# ':
+            # Might be one of my original MD formats
+            creatures.append(ingestmymdformat(lines))
         elif lines[0] == '<!DOCTYPE html>\n':
             # We are going to parse a DnD Beyond page, let's go!
             cs = ingestdndbeyondwebp(lines)
         elif lines[0].upper() == lines[0]:
             # Guessing this is a stat block
-            creatures.append(ingestrawstatblock(lines))
+            ingestrawstatblock(lines)
         else:
             # Maybe this is a longer-form description?
-            creatures.append(ingestrawtextfile(lines))
+            ingestrawtextfile(lines)
 
-def snakecaseify(string):
-    return string.lower().replace(' ', '-')
+def camelcaseify(string):
+    return string.lower().replace(' ', '')
 
 def main(argv):
     parser = argparse.ArgumentParser(
@@ -369,7 +483,7 @@ def main(argv):
                 print(creature.emitMD())
         elif os.path.isdir(dest):
             for creature in creatures:
-                with open(snakecaseify(args.writemd + '//' + creature.name).title() + ".md", 'w') as mdfile:
+                with open(camelcaseify(args.writemd + '/' + creature.name).title() + ".md", 'w') as mdfile:
                     mdfile.write(creature.emitMD())
     else:
         parser.print_help()

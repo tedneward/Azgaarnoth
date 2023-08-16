@@ -4,13 +4,24 @@ These creatures are found in various places across the map. Over time, all these
 ## A
 - [Aarakocra](Aarakocra.md)
 - [Abishai](Abishai.md)
+- [Aboleth](Aboleth.md)
+- [Achaierai](Achaierai.md)
+- [Allip](Allip.md)
 - [Angel](Angel.md)
 - [Animated Objects](AnimatedObjects.md)
 - [Ankheg](Ankheg.md)
+- [Ape](Ape.md)
 - [Azer](Azer.md)
 
 ## B
+- [Baboon](Ape.md#baboon)
+- [Banshee](Banshee.md)
+- [Barghest](Barghest.md)
+- [Basilisk](Basilisk.md)
+- [Bear](Bear.md)
+- [Behir](Behir.md)
 - [Brother of Undeath](BrotherOfUndeath.md)
+- [Bulette](Bulette.md)
 
 ## C
 
@@ -22,6 +33,9 @@ These creatures are found in various places across the map. Over time, all these
 ## F
 
 ## G
+- [Giant Ape](Ape.md#giant-ape)
+- [Gibbering Mouther](GibberingMouther.md)
+- [Golem](Golem.md)
 
 ## H
 - [Hag](Hag.md)
@@ -51,6 +65,7 @@ These creatures are found in various places across the map. Over time, all these
 
 ## S
 - [Sahuagin](Sahuagin.md)
+- [Sunken Sailor](SunkenSailor.md)
 
 ## T
 - [Troll](Troll.md)

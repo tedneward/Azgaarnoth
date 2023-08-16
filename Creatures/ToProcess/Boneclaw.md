@@ -40,7 +40,9 @@
 **Deadly Reach.** In response to a visible enemy moving into its reach, the boneclaw makes one claw attack against that enemy. If the attack hits, the boneclaw can make a second claw attack against the target.
 
 #### Description
-![Boneclaw](Boneclaw.png) A wizard who tries to become a lich but fails might become a boneclaw instead. These hideous, cackling undead share a few of the lich’s attributes — but where liches are immortal masters of the arcane, boneclaws are slaves to darkness, hatred, and pain.
+![Boneclaw](Boneclaw.png) 
+
+A wizard who tries to become a lich but fails might become a boneclaw instead. These hideous, cackling undead share a few of the lich’s attributes — but where liches are immortal masters of the arcane, boneclaws are slaves to darkness, hatred, and pain.
 
 The most important part of the transformation ritual occurs when the soul of the aspiring lich migrates to a prepared phylactery. If the spellcaster is too physically or magically weak to compel the soul into its prison, the soul instead seeks out a new master — a humanoid within a few miles who has an unusually hate-filled heart. The soul bonds itself to the foul essence it finds in that person, and the boneclaw becomes forever enslaved to its new master’s wishes and subconscious whims. It forms near its master, sometimes appearing before that individual to receive orders and other times simply setting about the fulfillment of its master’s desires.
 
