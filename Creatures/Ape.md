@@ -1,7 +1,7 @@
 # Ape
 
 
-> Jump to: [Ape](#standard-ape) | [Baboon](#baboon) | [Giant Ape](#giant-ape)
+> Jump to: [Ape](#standard-ape) | [Baboon](#baboon) | [Giant Ape](#giant-ape) | [Gorilla]() **TODO**
 
 ## Standard Ape
 

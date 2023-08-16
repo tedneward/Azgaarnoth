@@ -1,4 +1,4 @@
-# Magen
+## Magen
 Magen are magical, humanlike beings created by a wizard spell (see the [create magen](../Magic/Spells/create-magen.md) spell) or by other arcane methods.
 
 > Jump to [demos](#demos) | [galvan](#galvan) | [hypnos](#hypnos)

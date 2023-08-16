@@ -1,7 +1,9 @@
 # Bonedrinker
-![](Bonedrinker.jpg)
-
 This gaunt creature is humanoid in shape, except for two long, writhing, pale tentacles that sprout from beneath its arms. Although its features are somewhat goblinoid in appearance, wicked talons cap its long, spindly fingers, and its wide maw opens to reveal many sharp teeth, including six 6-inch-long fangs. Its hairless, gray-skinned body is covered in oozing sores that weep a pale white fluid.
+
+> Jump to: [Bonedrinker](#bonedrinker-1) | [Lesser](#lesser-bonedrinker) | [Greater](#greater-bonedrinker)
+
+![](Bonedrinker.jpg)
 
 A truly repulsive creature, the bonedrinker hunts to feed on the bones of its victims. Terrible undead created in a horrid ritual reminiscent of mummy creation, bonedrinkers wander the dark places of the world, seeking new creatures to feed upon. Hobgoblin wizards originally developed the ritual to create these monstrosities, using the fallen corpses of goblin and bugbear warriors to create the first lesser bonedrinkers and bonedrinkers. The tradition of using bugbears and goblins became habit, and nearly all bonedrinkers previously lived as one of these two goblinoid races. In theory, other humanoid creatures could be converted into bonedrinkers, but this would require twisting and adapting the original ritual.
 
@@ -18,8 +20,6 @@ Bonedrinkers speak the languages they knew in life, typically Goblin, and that o
 ***Creating A Bonedrinker.*** The ritual that turns a goblinoid corpse into a bonedrinker requires the [create undead](../Magic/Spells/create-undead.md) spell cast by a caster of 15th level who must also pass a Knowledge/DC 20 check at the time of the casting. (Failure wastes the spell and the corpse.) Goblins transform into lesser bonedrinkers; hobgoblins into bonedrinkers; and bugbears into greater bonedrinkers. These rituals are typically known only to hobgoblin wizards and clerics, though the secret has undoubtedly spread to other races over the years.
 
 ***Unholy Toughness.***. A lesser bonedrinker gains a bonus to its hit points equal to its Charisma modifier multiplied by its Hit Dice.
-
-> Jump to: [Bonedrinker](#bonedrinker-1) | [Lesser](#lesser-bonedrinker) | [Greater]
 
 ---
 
