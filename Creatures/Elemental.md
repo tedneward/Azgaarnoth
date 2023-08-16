@@ -21,19 +21,133 @@ The elemental planes of water, earth, fire, and air align on planar borders; whe
 
 The strength of the magic and materials that bind an elemental determines how well the elemental functions in a bound form. Golems are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can’t bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely.
 
-> Jump to: [Invisible Stalker](#invisible-stalker) | [Magmin](#magmin) | [Sand Assassin](#sand-assassin)
+> Jump to: [Invisible Stalker](#invisible-stalker) | [Magmin](#magmin) | [Sand Assassin](#sand-assassin) | [Water Weird](#water-weird)
 
 ---
 
 ## Air Elemental
+![](Elemental-Air.png)
+
+An air elemental is a funneling cloud of whirling air with a vague semblance of a face. Although it likes to race across the ground, picking up dust and debris as it goes, it can also fly and attack from above.
+
+An air elemental can turn itself into a screaming cyclone, creating a whirlwind that batters creatures even as it flings them away.
+
+>### Air Elemental
+>*Large elemental, neutral*
+>___
+>- **Armor Class** 15
+>- **Hit Points** 90 (12d10 + 24)
+>- **Speed** 0 ft., fly 90 ft. (hover)
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|14 (+2)|20 (+5)|14 (+2)|6 (-2)|10 (+0)|6 (-2)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** lightning,thunder; bludgeoning,piercing,and slashing from nonmagical attacks
+>- **Damage Immunities** poison
+>- **Condition Immunities** exhaustion,grappled,paralyzed,petrified,poisoned,prone,restrained,unconscious
+>- **Skills** 
+>- **Senses** darkvision 60 ft.,passive Perception 10
+>- **Languages** Auran
+>- **Challenge** 5
+>___
+>***Air Form.*** The elemental can enter a hostile creature’s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+>
+>#### Actions
+>***Multiattack.*** The elemental makes two Slam attacks.
+>
+>***Slam.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.
+>
+>***Whirlwind (Recharge 4–6).*** Each creature in the elemental’s space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone.
+>
+>If the saving throw is successful, the target takes half the bludgeoning damage and isn’t flung away or knocked prone.
+>
 
 ---
 
 ## Earth Elemental
+An earth elemental plods forward like a walking hill, club-like arms of jagged stone swinging at its sides. Its head and body consist of dirt and stone, occasionally set with chunks of metal, gems, and bright minerals.
+
+Earth elementals glide through rock and earth as though they were liquid. Earthbound creatures have much to fear from an earth elemental, since the elemental can pinpoint the precise location of any foe that stands on solid ground in its vicinity.
+
+>### Earth Elemental
+>*Large elemental, neutral*
+>___
+>- **Armor Class** 17 (natural armor)
+>- **Hit Points** 126 (12d10 + 60)
+>- **Speed** 30 ft., burrow 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|20 (+5)|8 (-1)|20 (+5)|5 (-3)|10 (+0)|5 (-3)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** thunder
+>- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks
+>- **Damage Immunities** poison
+>- **Condition Immunities** exhaustion,paralyzed,petrified,poisoned,unconscious
+>- **Skills** 
+>- **Senses** darkvision 60 ft.,tremorsense 60 ft., passive Perception 10
+>- **Languages** Terran
+>- **Challenge** 5
+>___
+>***Earth Glide.*** The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn’t disturb the material it moves through.
+>
+>***Siege Monster.*** The elemental deals double damage to objects and structures.
+>
+>#### Actions
+>***Multiattack.*** The elemental makes two Slam attacks.
+>
+>***Slam.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.
+>
 
 ---
 
 ## Fire Elemental
+![](Elemental-Fire.png)
+
+A faint humanoid shape threads through the core of this wild, moving flame. A fire elemental is a force of capricious devastation. Wherever it moves, it sets its surroundings ablaze, turning the world to ash, smoke, and cinders. Water can halt its destructive progress, causing the fire elemental to shrink back, hissing and smoking in pain and rage.
+
+>### Fire Elemental
+>*Large elemental, neutral*
+>___
+>- **Armor Class** 13
+>- **Hit Points** 102 (12d10 + 36)
+>- **Speed** 50 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|17 (+3)|16 (+3)|6 (-2)|10 (+0)|7 (-2)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks
+>- **Damage Immunities** fire,poison
+>- **Condition Immunities** exhaustion,grappled,paralyzed,petrified,poisoned,prone,restrained,unconscious
+>- **Skills** 
+>- **Senses** darkvision 60 ft.,passive Perception 10
+>- **Languages** Ignan
+>- **Challenge** 5
+>___
+>***Fire Form.*** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature’s space and stop there. The first time it enters a creature’s space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
+>
+>***Illumination.*** The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 feet.
+>
+>***Water Susceptibility.*** For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.
+>
+>#### Actions
+>***Multiattack.*** The elemental makes two Touch attacks.
+>
+>***Touch.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
+>
 
 ---
 
@@ -288,3 +402,47 @@ A sand assassin resembles an athletic human made entirely of sand usually with m
 >***Whelm (Recharge 4–6).*** Each creature in the elemental’s space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental’s space.
 >
 >The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental’s turns, each target grappled by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength check and succeeding.
+
+---
+
+## Water Weird
+![](Elemental-WaterWeird.png)
+
+A water weird is an elemental guardian bound to a specific water-filled location, such as a pool or fountain. Invisible while immersed in water, its serpentine shape becomes clear only when it emerges to attack, using its coils to crush any creature other than its summoner and those its summoner declares as off limits. When slain, a water weird becomes an inanimate pool of water.
+
+***Good and Evil Weirds.*** Like most elementals, a water weird has no concept of good or evil. However, a water weird bound to a sacred or befouled source of water begins to take on the nature of that site, becoming neutral good or neutral evil.
+
+A neutral good water weird tries to frighten away interlopers rather than kill them, while a neutral evil water weird kills its victims for pleasure and might turn against its summoner. A water weird loses its evil alignment if its waters are cleansed with a purify food and drink spell.
+
+***Elemental Nature.*** A water weird doesn’t require air, food, drink, or sleep.
+
+>### Water Weird
+>*Large elemental, neutral*
+>___
+>- **Armor Class** 13
+>- **Hit Points** 58 (9d10 + 9)
+>- **Speed** 0 ft., swim 60 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|17 (+3)|16 (+3)|13 (+1)|11 (+0)|10 (+0)|10 (+0)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** fire; bludgeoning,piercing,and slashing from nonmagical attacks
+>- **Damage Immunities** poison
+>- **Condition Immunities** exhaustion,grappled,paralyzed,poisoned,restrained,prone,unconscious
+>- **Skills** 
+>- **Senses** blindsight 30 ft.,passive Perception 10
+>- **Languages** understands Aquan but doesn’t speak
+>- **Challenge** 3
+>___
+>***Invisible in Water.*** The water weird is invisible while fully immersed in water.
+>
+>***Water Bound.*** The water weird dies if it leaves the water to which it is bound or if that water is destroyed.
+>
+>#### Actions
+>***Constrict.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit: 13 (3d6 + 3) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 13) and pulled 5 feet toward the water weird. Until this grapple ends, the target is restrained, the water weird tries to drown it, and the water weird can’t constrict another target.
+>

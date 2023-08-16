@@ -1,54 +1,56 @@
-Helmed Horror
-This construct possesses intelligence, the ability to reason and adjust its tactics, and an unswerving devotion to its maker that persists even after its maker’s demise. Resembling an animated suit of empty plate armor, a helmed horror serves without ambition or emotion.
+Ettercap
+Ettercaps are humanoid spiders that tend, feed, and watch over spiders the way a shepherd oversees a flock of sheep. They lair deep in remote forests.
 
-Magical Purpose. Though it takes more magical resources to create a helmed horror than a lesser suit of animated armor, the helmed horror requires less direction and maintenance as it carries out its appointed tasks. A helmed horror follows its orders with complete loyalty, and is intelligent enough to understand the difference between an order’s intent and its exact wording. Unlike many constructs, it seeks to fulfill the former rather than slavishly follow the latter.
+Fine strands of silk stream from glands in an ettercap’s abdomen, letting it shoot sticky strands of webbing to bind, entrap, or strangle its victims. It can also use its webbing to fashion elaborate snares and nets, which often festoon its lair.
 
-Tactical Cunning. A helmed horror fights with the cunning of a skilled warrior, taking to the air as it attacks weaker characters and spellcasters first. However, a helmed horror lacks the insight to change its environment, fortify it, or otherwise take active measures to improve its defensive position.
+Quiet Killers. When travelers and explorers venture into an ettercap’s territory, the ettercap stalks them. Some meet their end wandering blindly into traps or sections of forest enclosed by webs. Others, the ettercap garrotes with strands of web or envenoms with its poisonous bite.
 
-Constructed Nature. A helmed horror doesn’t require air, food, drink, or sleep.
+Sylvan Despoilers. Though they dwell in the wilds, ettercaps have no desire to live in harmony with nature. A forest infested with ettercaps transforms into a gloomy place, choked with webs and infested with giant spiders, giant insects, and other sinister predators. Creatures that wander too far into such a wood are soon lost in a maze of webs that dangle with the bones and lost treasures of the ettercaps’ victims.
 
-HELMED HORROR
-Medium construct, neutral
+Enemies of the Fey. Ettercaps are natural enemies of fey creatures. The foul creatures set web snares to catch sprites and pixies, which they hungrily devour, and will encase a dryad’s tree in webbing in a vain attempt to trap the dryad. Otherwise timid fey will sometimes approach outsiders for help in dealing with an ettercap infestation, being ill-equipped to deal with the malevolent creatures themselves.
 
-Armor Class 20 (plate, shield)
+ETTERCAP
+Medium monstrosity, neutral evil
 
-Hit Points 60 (8d8 + 24)
+Armor Class 13 (natural armor)
 
-Speed 30 ft., fly 30 ft.
+Hit Points 44 (8d8 + 8)
+
+Speed 30 ft., climb 30 ft.
 
 STR
-18 (+4)
+14 (+2)
 DEX
-13 (+1)
+15 (+2)
 CON
-16 (+3)
+13 (+1)
 INT
-10 (+0)
+7 (−2)
 WIS
-10 (+0)
+12 (+1)
 CHA
-10 (+0)
-Skills Perception +4
+8 (−1)
+Skills Perception +3, Stealth +4, Survival +3
 
-Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks that aren’t adamantine
+Senses darkvision 60 ft., passive Perception 13
 
-Damage Immunities force, necrotic, poison
+Languages —
 
-Condition Immunities blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned, stunned
+Challenge 2 (450 XP)
 
-Senses blindsight 60 ft. (blind beyond this radius), passive Perception 14
+Spider Climb. The ettercap can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-Languages understands the languages of its creator but can’t speak
+Web Sense. While in contact with a web, the ettercap knows the exact location of any other creature in contact with the same web.
 
-Challenge 4 (1,100 XP)
-
-Magic Resistance. The helmed horror has advantage on saving throws against spells and other magical effects.
-
-Spell Immunity. The helmed horror is immune to three spells chosen by its creator. Typical immunities include fireball, heat metal, and lightning bolt.
+Web Walker. The ettercap ignores movement restrictions caused by webbing.
 
 Actions
 
-Multiattack. The helmed horror makes two longsword attacks.
+Multiattack. The ettercap makes two attacks: one with its bite and one with its claws.
 
-Longsword. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Claws. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage.
+
+Web (Recharge 5–6). Ranged Weapon Attack: +4 to hit, range 30/60 ft., one Large or smaller creature. Hit: The creature is restrained by webbing. As an action, the restrained creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
 

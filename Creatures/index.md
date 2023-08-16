@@ -3,10 +3,13 @@ These creatures are found in various places across the map. Over time, all these
 
 ## Creature Modifier Templates
 - Dire
-- Ghost
-- Skeleton
-- Withered
-- Zombie
+- Half-Dragon
+- Unead
+    - Ghost
+    - Mummy
+    - Skeleton
+    - Withered
+    - Zombie
 
 ## A
 - [Aarakocra](Aarakocra.md)
@@ -28,17 +31,22 @@ These creatures are found in various places across the map. Over time, all these
 - [Bear](Bear.md)
 - [Behir](Behir.md)
 - [Blink Dog](Dog.md#blink-dog)
+- [Boneclaw](Boneclaw.png)
 - [Brother of Undeath](BrotherOfUndeath.md)
 - [Bulette](Bulette.md)
 
 ## C
 - [Cat](Cat.md)
+- [Chimera](Chimera.md)
+- [Corpse Flower](CorpseFlower.md)
 
 ## D
 - [Death Dog](Dog.md#death-dog)
 
 ## E
 - [Elemental](Elemental.md)
+- [Empyrean](Empyrean.md)
+- [Ettercap](Ettercap.md)
 
 ## F
 
@@ -49,6 +57,9 @@ These creatures are found in various places across the map. Over time, all these
 
 ## H
 - [Hag](Hag.md)
+- [Hell Hound](Dog.md#hell-hound)
+- [Helmed Horror](./HelmedHorror.md)
+- [Hydra](Hydra.md)
 
 ## I
 - [Invisible Stalker](Elemental.md#invisible-stalker)
@@ -90,10 +101,13 @@ These creatures are found in various places across the map. Over time, all these
 ## V
 
 ## W
+- [Water Weird](Elemental.md#water-weird)
+- [Will O' Wisp](WillOWisp.md)
+- [Wight](Wight.md)
 - [Withered Hound](Dog.md#withered-hound)
-- [Wraith](Wraith.md)
 - [Wolf](Wolf.md)
 - [Worg](Wolf.md#worg)
+- [Wraith](Wraith.md)
 
 ## X
 
