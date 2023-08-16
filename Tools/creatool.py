@@ -260,9 +260,36 @@ def ingest(arg):
             linect += 1
 
         creature = ingestrawstatblock(lines[linect:])
-        creature.name = name
+        creature.name = name.strip()
         creature.description = description
         return creature
+    
+    def ingestdndbeyondwebp(lines):
+        creaturelist = []
+        currentcreature = None
+
+        # Creature descriptions start on lines starting with '<h2 class="compendium-hr heading-anchor"
+        # and the name is in the 'id' (id="Aarakocra") attribute
+        h2line = '<h2 class="compendium-hr heading-anchor"'
+        linect = 0
+        while linect < len(lines):
+            line = lines[linect]
+
+            if line[0:len(h2line)] == h2line:
+                # Starting a new creature!
+                if currentcreature != None:
+                    creaturelist.append(currentcreature)
+                currentcreature = Creature()
+
+                creaturename = line[len(h2line) + len(' id="'):]
+                currentcreature.name = creaturename[0:creaturename.index('"')]
+
+            linect += 1
+
+        creaturelist.append(currentcreature)
+        print(creaturelist)
+        return creaturelist
+
 
     def ingestmymdformat(lines):
         pass
@@ -270,7 +297,12 @@ def ingest(arg):
     # Arg is a file
     with open(arg, 'r') as argfile:
         lines = argfile.readlines()
-        if lines[0].upper() == lines[0]:
+        if len(lines) < 1:
+            print(f"Empty file: {arg}")
+        elif lines[0] == '<!DOCTYPE html>\n':
+            # We are going to parse a DnD Beyond page, let's go!
+            cs = ingestdndbeyondwebp(lines)
+        elif lines[0].upper() == lines[0]:
             # Guessing this is a stat block
             creatures.append(ingestrawstatblock(lines))
         else:
