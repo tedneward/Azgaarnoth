@@ -5,6 +5,9 @@ These creatures are found in various places across the map. Over time, all these
 - [Aarakocra](Aarakocra.md)
 - [Abishai](Abishai.md)
 - [Angel](Angel.md)
+- [Animated Objects](AnimatedObjects.md)
+- [Ankheg](Ankheg.md)
+- [Azer](Azer.md)
 
 ## B
 - [Brother of Undeath](BrotherOfUndeath.md)
