@@ -29,12 +29,12 @@ Taking its name from its crimson feathers and aggressive nature, the blood hawk 
 >- **Languages** —
 >- **Challenge** 1/8
 >___
->***Keen Sight***. The hawk has advantage on Wisdom (Perception) checks that rely on sight.
+>***Keen Sight.*** The hawk has advantage on Wisdom (Perception) checks that rely on sight.
 >
->***Pack Tactics***. The hawk has advantage on an attack roll against a creature if at least one of the hawk’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+>***Pack Tactics.*** The hawk has advantage on an attack roll against a creature if at least one of the hawk’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 >
 >#### Actions
->***Beak***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+>***Beak.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 >
 
 ---
@@ -64,10 +64,10 @@ Taking its name from its crimson feathers and aggressive nature, the blood hawk 
 >- **Languages** —
 >- **Challenge** 0
 >___
->***Keen Sight***. The eagle has advantage on Wisdom (Perception) checks that rely on sight.
+>***Keen Sight.*** The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Talons***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.
+>***Talons.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.
 >
 
 ---
@@ -100,14 +100,14 @@ Most giant eagles are found in the foothills and mountains of the [Daw Mountains
 >- **Languages** Giant Eagle,understands Common and Auran but can’t speak them
 >- **Challenge** 1
 >___
->***Keen Sight***. The eagle has advantage on Wisdom (Perception) checks that rely on sight.
+>***Keen Sight.*** The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Multiattack***. The eagle makes two attacks: one with its beak and one with its talons.
+>***Multiattack.*** The eagle makes two attacks: one with its beak and one with its talons.
 >
->***Beak***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+>***Beak.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 >
->***Talons***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
+>***Talons.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
 >
 
 ---
@@ -138,12 +138,12 @@ Giant owls often befriend fey and other sylvan creatures and are guardians of th
 >- **Languages** Giant Owl,understands Common,Elvish,and Sylvan but can’t speak them
 >- **Challenge** 1/4
 >___
->***Flyby***. The owl doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+>***Flyby.*** The owl doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
 >
->***Keen Hearing and Sight***. The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+>***Keen Hearing and Sight.*** The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 >
 >#### Actions
->***Talons***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 8 (2d6 + 1) slashing damage.
+>***Talons.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 8 (2d6 + 1) slashing damage.
 >
 
 ---
@@ -174,16 +174,16 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
 >- **Languages** understands Common but can’t speak
 >- **Challenge** 1
 >___
->***Keen Sight and Smell***. The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
+>***Keen Sight and Smell.*** The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
 >
->***Pack Tactics***. The vulture has advantage on an attack roll against a creature if at least one of the vulture’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+>***Pack Tactics.*** The vulture has advantage on an attack roll against a creature if at least one of the vulture’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 >
 >#### Actions
->***Multiattack***. The vulture makes two attacks: one with its beak and one with its talons.
+>***Multiattack.*** The vulture makes two attacks: one with its beak and one with its talons.
 >
->***Beak***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage.
+>***Beak.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage.
 >
->***Talons***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.
+>***Talons.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.
 >
 
 ---
@@ -213,10 +213,10 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
 >- **Languages** —
 >- **Challenge** 0
 >___
->***Keen Sight***. The hawk has advantage on Wisdom (Perception) checks that rely on sight.
+>***Keen Sight.*** The hawk has advantage on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Talons***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
+>***Talons.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
 >
 >
 >

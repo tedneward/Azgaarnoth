@@ -26,8 +26,8 @@ A nightstriker serpent's body is composed partly of shadow, so it is immune to p
 >- **Languages** Common
 >- **Challenge** 5
 >___
->***Shadow Stealth***. While in dim light or darkness, the snake can take the Hide action as a bonus action.
+>***Shadow Stealth.*** While in dim light or darkness, the snake can take the Hide action as a bonus action.
 >
 >#### Actions
->***Bite***. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 6 (1d4 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 17 (5d6) poison damage on a failed save, or half as much damage on a successful one.
+>***Bite.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 6 (1d4 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 17 (5d6) poison damage on a failed save, or half as much damage on a successful one.
 >

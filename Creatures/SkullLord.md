@@ -3,9 +3,9 @@ The skull lords have claimed vast regions of the Shadowfell as their dominion. F
 
 ![Skull Lord](SkullLord.png) 
 
-***Creatures of Betrayal.***. Infighting and treachery brought the skull lords into existence. The first of them appeared in the aftermath of Vecna’s bid to conquer the world of Greyhawk, after the vampire Kas betrayed Vecna and took his eye and hand. In the confusion resulting from this turn of events, Vecna’s warlords turned against each other, and the dark one’s plans were dashed. In a rage, Vecna gathered up his generals and captains and bound them in groups of three, fusing them into undead abominations cursed to fight among themselves for all time. Since the first skull lords were exiled into shadow, others have joined them, typically after being created from other leaders who betrayed their masters.
+***Creatures of Betrayal.*** Infighting and treachery brought the skull lords into existence. The first of them appeared in the aftermath of Vecna’s bid to conquer the world of Greyhawk, after the vampire Kas betrayed Vecna and took his eye and hand. In the confusion resulting from this turn of events, Vecna’s warlords turned against each other, and the dark one’s plans were dashed. In a rage, Vecna gathered up his generals and captains and bound them in groups of three, fusing them into undead abominations cursed to fight among themselves for all time. Since the first skull lords were exiled into shadow, others have joined them, typically after being created from other leaders who betrayed their masters.
 
-***Undead Nature.***. A skull lord doesn’t require air, food, drink, or sleep.
+***Undead Nature.*** A skull lord doesn’t require air, food, drink, or sleep.
 
 >### Skull Lord
 >*Medium undead, lawful evil*
@@ -30,13 +30,13 @@ The skull lords have claimed vast regions of the Shadowfell as their dominion. F
 >- **Languages** all the languages it knew in life
 >- **Challenge** 15
 >___
->***Legendary Resistance (3/Day).***. If the skull lord fails a saving throw, it can choose to succeed instead.
+>***Legendary Resistance (3/Day).*** If the skull lord fails a saving throw, it can choose to succeed instead.
 >
->***Master of the Grave.***. While within 30 feet of the skull lord, any undead ally of the skull lord makes saving throws with advantage, and that ally regains 1d6 hit points whenever it starts its turn there.
+>***Master of the Grave.*** While within 30 feet of the skull lord, any undead ally of the skull lord makes saving throws with advantage, and that ally regains 1d6 hit points whenever it starts its turn there.
 >
->***Evasion.***. If the skull lord is subjected to an effect that allows it to make a Dexterity saving throw to take only half the damage, the skull lord instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+>***Evasion.*** If the skull lord is subjected to an effect that allows it to make a Dexterity saving throw to take only half the damage, the skull lord instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 >
->***Spellcasting.***. The skull lord is a 13th-level spellcaster. Its spellcasting ability is Charisma (spell save DC18, +10 to hit with spell attacks). The skull lord knows the following sorcerer spells:
+>***Spellcasting.*** The skull lord is a 13th-level spellcaster. Its spellcasting ability is Charisma (spell save DC18, +10 to hit with spell attacks). The skull lord knows the following sorcerer spells:
 >
 >Cantrips (at will): chill touch, fire bolt, mage hand, poison spray, ray of frost, shocking grasp
 >
@@ -55,18 +55,18 @@ The skull lords have claimed vast regions of the Shadowfell as their dominion. F
 >7th level (1 slot): finger of death
 >
 >#### Actions
->***Multiattack.***. The skull lord makes three bone staff attacks.
+>***Multiattack.*** The skull lord makes three bone staff attacks.
 >
->***Bone Staff.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 14 (4d6) necrotic damage.
+>***Bone Staff.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 14 (4d6) necrotic damage.
 >
 >#### Legendary Actions
 >The skull lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The skull lord regains spent legendary actions at the start of its turn.
 >
->***Bone Staff (Costs 2 Actions).***. The skull lord makes a bone staff attack.
+>***Bone Staff (Costs 2 Actions).*** The skull lord makes a bone staff attack.
 >
->***Cantrip.***. The skull lord casts a cantrip.
+>***Cantrip.*** The skull lord casts a cantrip.
 >
->***Move.***. The skull lord moves up to its speed without provoking opportunity attacks.
+>***Move.*** The skull lord moves up to its speed without provoking opportunity attacks.
 >
->***Summon Undead (Costs 3 Actions).***. Up to five skeletons or zombies appear in unoccupied spaces within 30 feet of the skull lord and remain until destroyed. Undead summoned in this way roll initiative and act in the next available turn. The skull lord can have up to five undead summoned by this ability at a time.
+>***Summon Undead (Costs 3 Actions).*** Up to five skeletons or zombies appear in unoccupied spaces within 30 feet of the skull lord and remain until destroyed. Undead summoned in this way roll initiative and act in the next available turn. The skull lord can have up to five undead summoned by this ability at a time.
 >

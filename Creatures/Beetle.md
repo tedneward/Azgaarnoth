@@ -29,8 +29,8 @@ A giant fire beetle is a nocturnal creature that takes its name from a pair of g
 >- **Languages** —
 >- **Challenge** 0
 >___
->***Illumination***. The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+>***Illumination.*** The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 >
 >#### Actions
->***Bite***. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 − 1) slashing damage.
+>***Bite.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 − 1) slashing damage.
 >

@@ -19,7 +19,7 @@ Bonedrinkers speak the languages they knew in life, typically Goblin, and that o
 
 ***Creating A Bonedrinker.*** The ritual that turns a goblinoid corpse into a bonedrinker requires the [create undead](../Magic/Spells/create-undead.md) spell cast by a caster of 15th level who must also pass a Knowledge/DC 20 check at the time of the casting. (Failure wastes the spell and the corpse.) Goblins transform into lesser bonedrinkers; hobgoblins into bonedrinkers; and bugbears into greater bonedrinkers. These rituals are typically known only to hobgoblin wizards and clerics, though the secret has undoubtedly spread to other races over the years.
 
-***Unholy Toughness***. A lesser bonedrinker gains a bonus to its hit points equal to its Charisma modifier multiplied by its Hit Dice.
+***Unholy Toughness.*** A lesser bonedrinker gains a bonus to its hit points equal to its Charisma modifier multiplied by its Hit Dice.
 
 ---
 
@@ -51,12 +51,12 @@ A bonedrinker stands about 6 feet tall and weighs roughly 200 pounds. Created fr
 >___
 >***Keen Smell.*** The bonedrinker has advantage on Wisdom (Perception) checks that rely on smell.
 >
->***Pounce***. If the bonedrinker moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the bonedrinker can make either a tentacle or claw attack against it as a bonus action.
+>***Pounce.*** If the bonedrinker moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the bonedrinker can make either a tentacle or claw attack against it as a bonus action.
 >
 >#### Actions
->***Multiattack***. A lesser bonedrinker makes two attacks each round; one with its Tentacles and one with its Claws.
+>***Multiattack.*** A lesser bonedrinker makes two attacks each round; one with its Tentacles and one with its Claws.
 >
->***Claw***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage.
+>***Claw.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage.
 >
 >***Tentacle.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one target hit: 11 (2d8+2) necrotic damage, plus the target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by the damage taken (target is considered Grappled). This reduction lasts until the target finishes a long rest. Target dies if reduced to 0 hit points.
 >
@@ -89,12 +89,12 @@ A greater bonedrinker stands about 7 feet tall and weighs roughly 225 pounds. Cr
 >- **Languages** Common,Goblin
 >- **Challenge** 3
 >___
->***Pounce***. If the bonedrinker moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the bonedrinker can make either a tentacle or claw attack against it as a bonus action.
+>***Pounce.*** If the bonedrinker moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the bonedrinker can make either a tentacle or claw attack against it as a bonus action.
 >
 >#### Actions
->***Multiattack***. A lesser bonedrinker makes two attacks each round with tentacle or claws.
+>***Multiattack.*** A lesser bonedrinker makes two attacks each round with tentacle or claws.
 >
->***Claw***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage.
+>***Claw.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage.
 >
 >***Tentacle.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one target hit: 11 (2d8+2) necrotic damage, plus the target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by the damage taken (target is considered Grappled). This reduction lasts until the target finishes a long rest. Target dies if reduced to 0 hit points.
 >
@@ -127,12 +127,12 @@ A lesser bonedrinker stands about 4 1/2 feet tall and weighs roughly 125 pounds.
 >- **Languages** Common,Goblin
 >- **Challenge** 3
 >___
->***Pounce***. If the bonedrinker moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the bonedrinker can make either a tentacle or claw attack against it as a bonus action.
+>***Pounce.*** If the bonedrinker moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the bonedrinker can make either a tentacle or claw attack against it as a bonus action.
 >
 >#### Actions
->***Multiattack***. A lesser bonedrinker makes two attacks each round; one with its Tentacles and one with its Claws.
+>***Multiattack.*** A lesser bonedrinker makes two attacks each round; one with its Tentacles and one with its Claws.
 >
->***Claw***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage.
+>***Claw.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage.
 >
 >***Tentacle.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one target hit: 11 (2d8+2) necrotic damage, plus the target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by the damage taken (target is considered Grappled). This reduction lasts until the target finishes a long rest. Target dies if reduced to 0 hit points.
 >

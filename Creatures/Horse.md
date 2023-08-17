@@ -29,7 +29,7 @@ Horses are common across Azgaarnoth, both wild and domesticated, particularly in
 >- **Challenge** 1/4
 >___
 >#### Actions
->***Hooves***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.
+>***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.
 >
 
 ---
@@ -59,12 +59,12 @@ Horses are common across Azgaarnoth, both wild and domesticated, particularly in
 >- **Languages** —
 >- **Challenge** 1/8
 >___
->***Beast of Burden***. The mule is considered to be a Large animal for the purpose of determining its carrying capacity.
+>***Beast of Burden.*** The mule is considered to be a Large animal for the purpose of determining its carrying capacity.
 >
->***Sure-Footed***. The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+>***Sure-Footed.*** The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 >
 >#### Actions
->***Hooves***. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
+>***Hooves.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
 >
 
 ---

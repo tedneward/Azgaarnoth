@@ -28,12 +28,12 @@
 >- **Languages** —
 >- **Challenge** 0
 >___
->***Echolocation***. The bat can’t use its blindsight while deafened.
+>***Echolocation.*** The bat can’t use its blindsight while deafened.
 >
->***Keen Hearing***. The bat has advantage on Wisdom (Perception) checks that rely on hearing.
+>***Keen Hearing.*** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 >
 >#### Actions
->***Bite***. Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. Hit: 1 piercing damage.
+>***Bite.*** Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. Hit: 1 piercing damage.
 >
 
 ---
@@ -64,10 +64,10 @@ The giant bat is a fearsome sight to behold for most folk, and reports of vampir
 >- **Languages** —
 >- **Challenge** 1/4
 >___
->***Echolocation***. The bat can’t use its blindsight while deafened.
+>***Echolocation.*** The bat can’t use its blindsight while deafened.
 >
->***Keen Hearing***. The bat has advantage on Wisdom (Perception) checks that rely on hearing.
+>***Keen Hearing.*** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 >
 >#### Actions
->***Bite***. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage.
+>***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage.
 >
