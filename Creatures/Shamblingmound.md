@@ -1,7 +1,7 @@
 ## Shambling Mound
-***![](ShamblingMound.***.png)
-
 A shambling mound, sometimes called a shambler, trudges ponderously through bleak swamps, dismal marshes, and rain forests, consuming any organic matter in its path. This rotting heap of animated vegetation looms up half again as tall as a human, tapering into a faceless “head” at its top.
+
+![](ShamblingMound.png)
 
 ***All-Consuming Devourers.***. A shambling mound feeds on any organic material, tirelessly consuming plants as it moves and devouring animals that can’t escape it. Only the shambling mounds’ rarity and plodding speed prevent them from overwhelming entire ecosystems. Even so, their presence leeches natural environments of plant and animal life, and an unsettling quiet pervades the swamps and woods haunted by these ever-hungry horrors.
 

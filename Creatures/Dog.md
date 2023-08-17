@@ -1,7 +1,7 @@
 # Dog
 
 
-> Jump to: [Dog](#dog) | [Blink Dog](#blink-dog) | [Death Dog](#death-dog) | [Giant Hyena]() | [Hell Hound](#hell-hound) |  [Mastiff](#mastiff) | [Withered Hound]()
+> Jump to: [Dog](#dog) | [Blink Dog](#blink-dog) | [Death Dog](#death-dog) | [Giant Hyena]() | [Hell Hound](#hell-hound) | [Hyena](#hyena) | [Jackal]() | [Mastiff](#mastiff) | [Withered Hound](#withered-hound)
 
 ---
 
@@ -196,6 +196,76 @@ When hell hounds feed, the flesh they consume stokes the infernal fires that bur
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage.
 >
 >***Fire Breath (Recharge 5–6).*** The hound exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
+>
+
+---
+
+## Hyena
+Hyenas, a distant canine cousin of the domesticated dog or the wild pack-forming wolf, roam the grasslands of the [Al'Uma](../Geography/AlUma.md) and [Yithia](../Geography/Yithia.md) freely, and only slightly less often than they do the more remote areas of [Liria](../Geography/Liria.md) and [Tragekia](../Geography/Tragekia.md). Individually, they often aren't much trouble, and will not seek to attack a well-armed or numerous adversary, but when hyenas are in a pack, and they spot a lone individual away from the others, they can fiercely swarm and devour in seconds.
+
+>### Hyena
+>*Medium beast, unaligned*
+>___
+>- **Armor Class** 11
+>- **Hit Points** 5 (1d8 + 1)
+>- **Speed** 50 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|11 (+0)|13 (+1)|12 (+1)|2 (-4)|12 (+1)|5 (-3)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +3
+>- **Senses** passive Perception 13
+>- **Languages** —
+>- **Challenge** 0
+>___
+>***Pack Tactics.***. The hyena has advantage on an attack roll against a creature if at least one of the hyena’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+>
+>#### Actions
+>***Bite.***. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage.
+>
+
+---
+
+## Jackal
+Another distant canine relative, jackals are carrion-feeders, and will generally wait until a predator is done with their kill before swarming over the carcass. If attacked, they will generally flee, unless young are present, at which time they will fight to the death to protect the young.
+
+>### Jackal
+>*Small beast, unaligned*
+>___
+>- **Armor Class** 12
+>- **Hit Points** 3 (1d6)
+>- **Speed** 40 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|15 (+2)|11 (+0)|3 (-4)|12 (+1)|6 (-2)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +3
+>- **Senses** passive Perception 13
+>- **Languages** —
+>- **Challenge** 0
+>___
+>***Keen Hearing and Smell.***. The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+>
+>***Pack Tactics.***. The jackal has advantage on an attack roll against a creature if at least one of the jackal’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+>
+>#### Actions
+>***Bite.***. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 – 1) piercing damage.
 >
 
 ---

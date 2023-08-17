@@ -1,11 +1,13 @@
 # Dragonspawn
 The dragonspawn are an alchemical and magical experiment to stiffen the ranks of the chromatic dragons by the [Cult of the Wyrm](../Organizations/CultOfTheWyrm.md), among others. In essence, by taking a clutch of chromatic dragon eggs (most of which won't survive, owing to the predatory nature of chromatic dragon hatchlings) and bathing them in a particular alchemical stew accompanied by some twisted magic during their time in the egg, a half-dragon-like creature can emerge from the egg, ready almost immediately to wreak havoc on whatever happens to be nearby.
 
-> Jump to: [Blackspawn Raider](#blackspawn-raider) [Bluespawn Thunderlizard](#bluespawn-thunderlizard) [Greenspawn Razorfiend](#greenspawn-razorfiend) [Whitespawn Frostlizard](#whitespawn-frostlizard)
+> Jump to: [Blackspawn Raider](#blackspawn-raider) | [Bluespawn Thunderlizard](#bluespawn-thunderlizard) |  [Greenspawn Razorfiend](#greenspawn-razorfiend) | [Whitespawn Frostlizard](#whitespawn-frostlizard)
 
 For whatever reasons, red dragon eggs seem immune to the treatment.
 
 Unlike dragonborn, dragonspawn aren't always humanoid in nature--blackspawn emerge that way, but the rest take more to the animalistic nature of the dragon and are four-legged creatures.
+
+---
 
 ## Blackspawn Raider
 *Medium humanoid (dragonborn), chaotic evil*
@@ -42,9 +44,7 @@ Unlike dragonborn, dragonspawn aren't always humanoid in nature--blackspawn emer
 #### Possessions
 2x*potion of greater healing* (4d4 + 4), *oil of sharpness* (used right before combat, if possible)
 
-#### Description
-
-
+---
 
 ## Bluespawn Thunderlizard
 *Large monstrosity, lawful evil*
@@ -77,9 +77,7 @@ Unlike dragonborn, dragonspawn aren't always humanoid in nature--blackspawn emer
 #### Reaction
 **Electricity Link**. A bluespawn stormlizard can cause a line of electricity to fire from its horn to that of another bluespawn stormlizard within 100 feet. Creatures in the line must succeed on a DC 12 Dexterity saving throw or take 2d10 (11) points of lightning damage.
 
-#### Description
-
-
+---
 
 ## Greenspawn Razorfiend
 *Large Monstrosity (Draconic), Fiend (Demon), Lawful Evil* 
@@ -123,10 +121,7 @@ Unlike dragonborn, dragonspawn aren't always humanoid in nature--blackspawn emer
 
 **Poison Breath (Recharge 5-6)**: 20ft cone, DC14 Constitution saving throw or take 24 (7d6) poison damage on a failed save or half as much damage on a successful save.
 
-#### Description
-
-
-
+---
 
 ## Whitespawn Frostlizard
 *Large monstrosity, lawful evil*
@@ -155,7 +150,4 @@ Unlike dragonborn, dragonspawn aren't always humanoid in nature--blackspawn emer
 **Gore**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage.
 
 **Frost cloud (Recharge 5-6)**. The whitespawn frostlizard blows a cloud of frost in a 30-foot cloud that is 15 feet by 15 feet. Each creature in that cloud must make a DC 12 Dexterity saving throw, taking 22 (4d10) cold damage on a failed save, or half as much damage on a successful one.
-
-#### Description
-
 

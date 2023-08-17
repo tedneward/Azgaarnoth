@@ -1,40 +1,42 @@
-Hunter Shark
-Smaller than a giant shark but larger and fiercer than a reef shark, a hunter shark haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area. A fully grown hunter shark is 15 to 20 feet long.
+Octopus
+OCTOPUS
+Small beast, unaligned
 
-HUNTER SHARK
-Large beast, unaligned
+Armor Class 12
 
-Armor Class 12 (natural armor)
+Hit Points 3 (1d6)
 
-Hit Points 45 (6d10 + 12)
-
-Speed 0 ft., swim 40 ft.
+Speed 5 ft., swim 30 ft.
 
 STR
-18 (+4)
+4 (−3)
 DEX
-13 (+1)
-CON
 15 (+2)
+CON
+11 (+0)
 INT
-1 (−5)
+3 (−4)
 WIS
 10 (+0)
 CHA
 4 (−3)
-Skills Perception +2
+Skills Perception +2, Stealth +4
 
-Senses blindsight 30 ft., passive Perception 12
+Senses darkvision 30 ft., passive Perception 12
 
 Languages —
 
-Challenge 2 (450 XP)
+Challenge 0 (10 XP)
 
-Blood Frenzy. The shark has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
+Hold Breath. While out of water, the octopus can hold its breath for 30 minutes.
 
-Water Breathing. The shark can breathe only underwater.
+Underwater Camouflage. The octopus has advantage on Dexterity (Stealth) checks made while underwater.
+
+Water Breathing. The octopus can breathe only underwater.
 
 Actions
 
-Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
+Tentacles. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can’t use its tentacles on another target.
+
+Ink Cloud (Recharges after a Short or Long Rest). A 5-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
 
