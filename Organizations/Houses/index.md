@@ -10,3 +10,15 @@ Given the frequency with which the Houses employ Mercenary Guilds as part of the
 
 As a general rule, it is said that "firstborn rule; secondborn preach; thirdborn fight or trade".
 
+## List of Houses
+
+* [Cademintal](Cademintal.md)
+* [Ciallin](Ciallin.md)
+* [Elhol](Elhol.md)
+* [Haskinar](Haskinar.md)
+* [Jarmaath](Jarmaath.md)
+* [Kaal](Kaal.md)
+* [Nerris](Nerris.md)
+* [Teskerwill](Teskerwill.md)
+* [Ulverth](Ulverth.md)
+

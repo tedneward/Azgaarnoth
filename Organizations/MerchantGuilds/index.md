@@ -12,7 +12,7 @@ While many Guilds were first formed by (and thus deeply intertwined with) the Dw
 
 * *General shipping*: many Guilds focus primarily on the movement of goods across Azgaarnoth, and so operate a merchant fleet (and guards) of varying sizes.
 
-    * **Kaalean Mercantile Compact**: One of the first, and largest, mercantile Guilds in Azgaarnoth, it is rumored that the Compact operates over a thousand ships. Whether true or not, Kaalean Merchant vessels have visited every port in Azgaarnoth at least once, and are the best (and most reliable) choice for overwater travel anywhere in the region. Few pirates will challenge a Kaalean-flagged vessel--rumors say that any ship that does so succumbs to a highly-virulent and universally-deadly plague that reduces the pirate to a ghost ship within a week of the attempt.
+    * **[Kaalean Mercantile Compact](KaaleanMercantileCompact.md)**: One of the first, and largest, mercantile Guilds in Azgaarnoth, it is rumored that the Compact operates over a thousand ships. Whether true or not, Kaalean Merchant vessels have visited every port in Azgaarnoth at least once, and are the best (and most reliable) choice for overwater travel anywhere in the region. Few pirates will challenge a Kaalean-flagged vessel--rumors say that any ship that does so succumbs to a highly-virulent and universally-deadly plague that reduces the pirate to a ghost ship within a week of the attempt.
 
 * *Shipwright and Wagoneers*: the first Guilds were those that were formed to ship goods; the second Guilds were those that formed to build the things used to ship the goods. The shipwright Guilds are often each formed around a single or small cadre of Artificers specializing in ship design and construction; "cart Guilds" (as they are often called) building wagons and carts are usually much smaller and more informal.
 
@@ -33,4 +33,7 @@ While many Guilds were first formed by (and thus deeply intertwined with) the Dw
     * ****
 
 * **Mercenary's Guild**: quite possibly the most famous of the Merchant Guilds, either mercenary companies and/or their employers will require contracts to be filed with this Guild. The Guild will hold the contract sum in escrow (minus any up-front payment) until the fulfillment of the contract. Disputes will be heard by the Mercenary Bond Council, which forms a seven-person board of inquiry to investigate using means both physical and arcane. All board findings are final, and mercenary companies or employers that are found in violation of contract risk censure or even outright ban.
+
+    * **[Hammerfist Compact](HammerfistCompact.md)**
+    * **[Slayer Conclave](SlayerConclave.md)**
 
