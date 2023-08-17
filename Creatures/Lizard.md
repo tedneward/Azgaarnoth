@@ -8,9 +8,9 @@ A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep the
 
 Some giant lizards have one or both of the following traits:
 
-***Hold Breath.***. The lizard can hold its breath for 15 minutes. (A lizard that has this trait also has a swimming speed of 30 feet.)
+***Hold Breath***. The lizard can hold its breath for 15 minutes. (A lizard that has this trait also has a swimming speed of 30 feet.)
 
-***Spider Climb.***. The lizard can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+***Spider Climb***. The lizard can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
 >### Giant Lizard
 >*Large beast, unaligned*
@@ -36,7 +36,7 @@ Some giant lizards have one or both of the following traits:
 >- **Challenge** 1/4
 >___
 >#### Actions
->***Bite.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+>***Bite***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 >
 
 ---
@@ -67,5 +67,5 @@ Some giant lizards have one or both of the following traits:
 >- **Challenge** 0
 >___
 >#### Actions
->***Bite.***. Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+>***Bite***. Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
 >

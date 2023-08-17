@@ -144,14 +144,14 @@ The giant hyena is often the leader of a pack of normal-sized hyenas, though per
 >- **Languages** —
 >- **Challenge** 1
 >___
->***Rampage.***. When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.
+>***Rampage***. When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.
 >
 >***Pack Tactics.*** The dog has advantage on an attack roll against a creature if at least one of the dog's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 >***Hideous Laughter (Recharge 5-6).*** If three or more giant hyenas are all gathered, their calls to one another acts as a casting of the [vicious mockery](../Magic/Spells/vicious-mockery.md) spell; the spell's level is equal to the number of giant hyenas in the pack, and targets any who are within 60 feet of the center of the pack.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
+>***Bite***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
 >
 
 ---
@@ -226,10 +226,10 @@ Hyenas, a distant canine cousin of the domesticated dog or the wild pack-forming
 >- **Languages** —
 >- **Challenge** 0
 >___
->***Pack Tactics.***. The hyena has advantage on an attack roll against a creature if at least one of the hyena’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+>***Pack Tactics***. The hyena has advantage on an attack roll against a creature if at least one of the hyena’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage.
+>***Bite***. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage.
 >
 
 ---
@@ -260,12 +260,12 @@ Another distant canine relative, jackals are carrion-feeders, and will generally
 >- **Languages** —
 >- **Challenge** 0
 >___
->***Keen Hearing and Smell.***. The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+>***Keen Hearing and Smell***. The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 >
->***Pack Tactics.***. The jackal has advantage on an attack roll against a creature if at least one of the jackal’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+>***Pack Tactics***. The jackal has advantage on an attack roll against a creature if at least one of the jackal’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 – 1) piercing damage.
+>***Bite***. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 – 1) piercing damage.
 >
 
 ---

@@ -29,10 +29,10 @@ An awakened shrub is an ordinary tree given sentience and mobility by the awaken
 >- **Languages** one language known by its creator
 >- **Challenge** 0
 >___
->***False Appearance.***. While the shrub remains motionless, it is indistinguishable from a normal shrub.
+>***False Appearance***. While the shrub remains motionless, it is indistinguishable from a normal shrub.
 >
 >#### Actions
->***Rake.***. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 − 1) slashing damage.
+>***Rake***. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 − 1) slashing damage.
 >
 
 ---
@@ -62,8 +62,8 @@ An awakened shrub is an ordinary tree given sentience and mobility by the awaken
 >- **Languages** one language known by its creator
 >- **Challenge** 2
 >___
->***False Appearance.***. While the tree remains motionless, it is indistinguishable from a normal tree.
+>***False Appearance***. While the tree remains motionless, it is indistinguishable from a normal tree.
 >
 >#### Actions
->***Slam.***. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage.
+>***Slam***. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage.
 >

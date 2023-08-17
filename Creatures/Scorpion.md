@@ -30,9 +30,9 @@ Giant scorpions are not native to most parts of Azgaarnoth, notable exceptions b
 >- **Challenge** 3
 >___
 >#### Actions
->***Multiattack.***. The scorpion makes three attacks: two with its claws and one with its sting.
+>***Multiattack***. The scorpion makes three attacks: two with its claws and one with its sting.
 >
->***Claw.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.
+>***Claw***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.
 >
->***Sting.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
+>***Sting***. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
 >

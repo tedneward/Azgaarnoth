@@ -1,5 +1,5 @@
 ## Ogrillon (Half-Ogre)
-***![Ogrillon](Ogrillon.***.png) When an ogre mates with a human, hobgoblin, bugbear, or orc, the result is always a half-ogre. (Ogres don’t mate with dwarves, halflings, or elves. They eat them.) Human mothers rarely survive the birth of a half-ogre offspring. The half-ogre offspring of an ogre and an orc is commonly called an ogrillon. An adult half-ogre or ogrillon stands 8 feet tall and weighs 450 pounds on average.
+***![Ogrillon](Ogrillon***.png) When an ogre mates with a human, hobgoblin, bugbear, or orc, the result is always a half-ogre. (Ogres don’t mate with dwarves, halflings, or elves. They eat them.) Human mothers rarely survive the birth of a half-ogre offspring. The half-ogre offspring of an ogre and an orc is commonly called an ogrillon. An adult half-ogre or ogrillon stands 8 feet tall and weighs 450 pounds on average.
 
 >### Ogrillon (Half-Ogre)
 >*Large giant, any chaotic alignment*
@@ -25,7 +25,7 @@
 >- **Challenge** 1
 >___
 >#### Actions
->***Battleaxe.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage if used with two hands.
+>***Battleaxe***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage if used with two hands.
 >
->***Javelin.***. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
+>***Javelin***. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
 >

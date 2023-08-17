@@ -1,7 +1,9 @@
 # Snake
 Armless (usually) and legless reptiles, snakes are common to many parts of Azgaarnoth, and not particularly threatening, with the exception of a few species. They are often found around farms throughout Azgaarnoth, as they are excellent defenses against rodents, and some Hordes villages have festivals in honor of the common garden snake. They are often considered a good-luck charm.
 
-> Jump to: [Constrictor](#constrictor-snake) | [FLying](#flying-snake) | [Giant Constrictor](#giant-constrictor-snake) | [Giant Poisonous](#giant-poisonous-snake) | [Poisonous]()
+> Jump to: [Constrictor](#constrictor-snake) | [FLying](#flying-snake) | [Giant Constrictor](#giant-constrictor-snake) | [Giant Poisonous](#giant-poisonous-snake) | [Poisonous]() | [Swarm of Poisonous Snakes](#swarm-of-poisonous-snakes)
+
+---
 
 ## Constrictor Snake
 Anacondas and pythons can grow up to six or seven feet in length, and are commonly found in the jungles, swamps, and marshlands of [Yithi](../Nations/Yithi.md) and [Zhi](../Nations/Zhi.md), as well as [Tragekia](../Nations/Tragekia.md).
@@ -30,9 +32,9 @@ Anacondas and pythons can grow up to six or seven feet in length, and are common
 >- **Challenge** 1/4
 >___
 >#### Actions
->***Bite.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage.
+>***Bite***. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage.
 >
->***Constrict.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can’t constrict another target.
+>***Constrict***. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can’t constrict another target.
 >
 
 ---
@@ -63,10 +65,10 @@ A flying snake is a brightly colored, winged serpent found in remote jungles. So
 >- **Languages** —
 >- **Challenge** 1/8
 >___
->***Flyby.***. The snake doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+>***Flyby***. The snake doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 1 piercing damage plus 7 (3d4) poison damage.
+>***Bite***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 1 piercing damage plus 7 (3d4) poison damage.
 >
 
 ---
@@ -98,9 +100,9 @@ As if the normal-sized anaconda or python weren't bad enough, some wizards went 
 >- **Challenge** 2
 >___
 >#### Actions
->***Bite.***. Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. Hit: 11 (2d6 + 4) piercing damage.
+>***Bite***. Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. Hit: 11 (2d6 + 4) piercing damage.
 >
->***Constrict.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can’t constrict another target.
+>***Constrict***. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can’t constrict another target.
 >
 
 ---
@@ -132,5 +134,42 @@ Truly the stuff of nightmares, the giant poisonous snake often runs six to seven
 >- **Challenge** 1/4
 >___
 >#### Actions
->***Bite.***. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+>***Bite***. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+>
+
+---
+
+## Poisonous
+
+---
+
+## Swarm Of Poisonous Snakes
+
+>### Swarm Of Poisonous Snakes
+>*Medium swarm, unaligned*
+>___
+>- **Armor Class** 14
+>- **Hit Points** 36 (8d8)
+>- **Speed** 30 ft., swim 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|18 (+4)|11 (+0)|1 (-5)|10 (+0)|3 (-4)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** bludgeoning,piercing,slashing
+>- **Damage Immunities** 
+>- **Condition Immunities** charmed,frightened,grappled,paralyzed,petrified,prone,restrained,stunned
+>- **Skills** 
+>- **Senses** blindsight 10 ft.,passive Perception 10
+>- **Languages** —
+>- **Challenge** 2
+>___
+>***Swarm***. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can’t regain hit points or gain temporary hit points.
+>
+>#### Actions
+>***Bites***. Melee Weapon Attack: +6 to hit, reach 0 ft., one creature in the swarm’s space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 >

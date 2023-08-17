@@ -30,12 +30,12 @@
 >- **Languages** —
 >- **Challenge** 1/2
 >___
->***Charge.***. If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+>***Charge***. If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 >
->***Sure-Footed.***. The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+>***Sure-Footed***. The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 >
 >#### Actions
->***Ram.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage.
+>***Ram***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage.
 >
 
 ---
@@ -65,10 +65,10 @@
 >- **Languages** —
 >- **Challenge** 0
 >___
->***Charge.***. If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 2 (1d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 10 Strength saving throw or be knocked prone.
+>***Charge***. If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 2 (1d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 10 Strength saving throw or be knocked prone.
 >
->***Sure-Footed.***. The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+>***Sure-Footed***. The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 >
 >#### Actions
->***Ram.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.
+>***Ram***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.
 >

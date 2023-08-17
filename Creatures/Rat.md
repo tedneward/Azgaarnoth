@@ -35,12 +35,12 @@ If any player at any point during an encounter with a giant rat makes a joke abo
 >- **Languages** —
 >- **Challenge** 1/8
 >___
->***Keen Smell.***. The rat has advantage on Wisdom (Perception) checks that rely on smell.
+>***Keen Smell***. The rat has advantage on Wisdom (Perception) checks that rely on smell.
 >
->***Pack Tactics.***. The rat has advantage on an attack roll against a creature if at least one of the rat’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+>***Pack Tactics***. The rat has advantage on an attack roll against a creature if at least one of the rat’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+>***Bite***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 >
 
 ---
@@ -71,12 +71,12 @@ This rat was unfortunate enough to be converted to undead and set to obey its ma
 >- **Languages** Understands the languages of its master but can't speak
 >- **Challenge** 1/2
 >___
->***Keen Smell.***. The rat has advantage on Wisdom (Perception) checks that rely on sight.
+>***Keen Smell***. The rat has advantage on Wisdom (Perception) checks that rely on sight.
 >
->***Shadowmeld.***. If the rat is in dim light or darkness, it can take the Hide action as a bonus action. Additionally, If an attack misses the rat, the rat can use its reaction to move up to half of its movement speed without provoking attacks of opportunity.
+>***Shadowmeld***. If the rat is in dim light or darkness, it can take the Hide action as a bonus action. Additionally, If an attack misses the rat, the rat can use its reaction to move up to half of its movement speed without provoking attacks of opportunity.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) piercing damage, plus 7 (2d6) necrotic damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw or contract a disease. Until the disease is cured, the target can’t regain hit points except by magical means.
+>***Bite***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) piercing damage, plus 7 (2d6) necrotic damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw or contract a disease. Until the disease is cured, the target can’t regain hit points except by magical means.
 >
->***Rotten Stench (1/Day).***. A cloud of noxious gas escapes from the rat's pores. Each creature within 10 feet of the rat must succeed on a DC 13 Constitution saving throw or be poisoned until the end of the creature's next turn.
+>***Rotten Stench (1/Day)***. A cloud of noxious gas escapes from the rat's pores. Each creature within 10 feet of the rat must succeed on a DC 13 Constitution saving throw or be poisoned until the end of the creature's next turn.
 >
