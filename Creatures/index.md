@@ -15,46 +15,66 @@ These creatures are found in various places across the map. Over time, all these
 - [Aarakocra](Aarakocra.md)
 - [Abishai](Abishai.md)
 - [Aboleth](Aboleth.md)
+- [Abomination](Abomination.md)
 - [Achaierai](Achaierai.md)
 - [Allip](Allip.md)
 - [Angel](Angel.md)
-- [Animated Objects](AnimatedObjects.md)
+- [Animated Object](AnimatedObjects.md)
 - [Ankheg](Ankheg.md)
 - [Ape](Ape.md)
+- [Awakened](Awakened.md)
+- [Axe Beak](AxeBeak.md)
 - [Azer](Azer.md)
 
 ## B
 - [Baboon](Ape.md#baboon)
+- [Badger](Badger.md)
 - [Banshee](Banshee.md)
 - [Barghest](Barghest.md)
 - [Basilisk](Basilisk.md)
+- [Bat](Bat.md)
 - [Bear](Bear.md)
+- [Beetle](Beetle.md)
 - [Behir](Behir.md)
 - [Blink Dog](Dog.md#blink-dog)
+- [Boar](Boar.md)
 - [Boneclaw](Boneclaw.md)
 - [Bonedrinker](Bonedrinker.md)
 - [Brother of Undeath](BrotherOfUndeath.md)
 - [Bulette](Bulette.md)
+- [Bullywug](Bullywug.md)
 
 ## C
 - [Cat](Cat.md)
 - [Chimera](Chimera.md)
 - [Corpse Flower](CorpseFlower.md)
+- [Crab](Crab.md)
+- [Crocodile](Crocodile.md)
 
 ## D
 - [Death Dog](Dog.md#death-dog)
+- [Deer](Deer.md)
+- [Dog](Dog.md)
 
 ## E
 - [Elemental](Elemental.md)
+- [Elephant](Elephant.md)
 - [Empyrean](Empyrean.md)
 - [Ettercap](Ettercap.md)
 
 ## F
+- [Frog](Frog.md)
 
 ## G
+- [Gargoyle](Gargoyle.md)
+- [Ghast](Ghast.md)
+- [Ghost](Ghost.md)
+- [Ghoul](Ghoul.md)
 - [Giant Ape](Ape.md#giant-ape)
 - [Gibbering Mouther](GibberingMouther.md)
+- [Goat](Goat.md)
 - [Golem](Golem.md)
+- [Gray Render](GrayRender.md)
 
 ## H
 - [Hag](Hag.md)
@@ -71,14 +91,19 @@ These creatures are found in various places across the map. Over time, all these
 
 ## L
 - [Lion](Cat.md#lion)
+- [Lizard](Lizard.md)
 
 ## M
+- [Magen](Magen.md)
 - [Magmin](Elemental.md#magmin)
 - [Mephit](Mephit.md)
 
 ## N
+- [Nightstriker Serpent](NightstrikerSerpent.md)
 
 ## O
+- [Ooze](Ooze.md)
+- [Owlbear](Owlbear.md)
 
 ## P
 - [Panther](Cat.md#panther)
@@ -86,11 +111,21 @@ These creatures are found in various places across the map. Over time, all these
 ## Q
 
 ## R
+- [Raptor](Raptor.md)
+- [Rat](Rat.md)
 
 ## S
 - [Saber-Toothed Tiger](Cat.md#saber-toothed-tiger)
 - [Sahuagin](Sahuagin.md)
+- [Scorpion](Scorpion.md)
+- [Sea Horse](SeaHorse.md)
+- [Shadow](Shadow.md)
+- [Shambling Mound](ShamblingMound.md)
+- [Shark](Shark.md)
+- [Skull Lord](SkullLord.md)
+- [Snake](Snake.md)
 - [Specter](Specter.md)
+- [Spider](Spider.md)
 - [Sunken Sailor](SunkenSailor.md)
 
 ## T
@@ -103,8 +138,10 @@ These creatures are found in various places across the map. Over time, all these
 
 ## W
 - [Water Weird](Elemental.md#water-weird)
-- [Will O' Wisp](WillOWisp.md)
+- [Weasel](Weasel.md)
+- [Whale](Whale.md)
 - [Wight](Wight.md)
+- [Will O' Wisp](WillOWisp.md)
 - [Withered Hound](Dog.md#withered-hound)
 - [Wolf](Wolf.md)
 - [Worg](Wolf.md#worg)
