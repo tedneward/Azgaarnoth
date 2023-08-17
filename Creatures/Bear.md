@@ -1,5 +1,5 @@
 # Bear
-
+The bear is a staple of the wilderness, a fearsome predator and fiercely protective of its family or pack. 
 
 > Jump to: [Black](#black-bear) | [Brown](#brown-bear) | [Cave](#cave-bear) | [Polar](#polar-bear)
 

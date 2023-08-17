@@ -1,7 +1,7 @@
 # Dog
 
 
-> Jump to: [Dog](#dog) | [Blink Dog](#blink-dog) | [Death Dog](#death-dog) | [Hell Hound]() |  [Mastiff](#mastiff) | [Withered Hound]()
+> Jump to: [Dog](#dog) | [Blink Dog](#blink-dog) | [Death Dog](#death-dog) | [Giant Hyena]() | [Hell Hound](#hell-hound) |  [Mastiff](#mastiff) | [Withered Hound]()
 
 ---
 
@@ -30,10 +30,12 @@ A blink dog takes its name from its ability to blink in and out of existence, a 
 >- **Condition Immunities** 
 >- **Skills** Perception +3,Stealth +5
 >- **Senses** passive Perception 13
->- **Languages** Blink Dog,understands Sylvan but can’t speak it
+>- **Languages** Blink Dog,understands Sylvan but can't speak it
 >- **Challenge** 1/4
 >___
 >***Keen Hearing and Smell.*** The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+>
+>***Pack Tactics.*** The blink dog has advantage on an attack roll against a creature if at least one of the blink dog's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 >#### Actions
 >***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
@@ -46,7 +48,7 @@ A blink dog takes its name from its ability to blink in and out of existence, a 
 ## Death Dog
 ![](Dog-Death.png)
 
-A death dog is an ugly two-headed hound that roams plains, deserts, and the Underdark. Hate burns in a death dog’s heart, and a taste for humanoid flesh drives it to attack travelers and explorers. Death dog saliva carries a foul disease that causes a victim’s flesh to slowly rot off the bone.
+A death dog is an ugly two-headed hound that roams plains, deserts, and the Underdark. Hate burns in a death dog's heart, and a taste for humanoid flesh drives it to attack travelers and explorers. Death dog saliva carries a foul disease that causes a victim's flesh to slowly rot off the bone.
 
 >### Death Dog
 >*Medium monstrosity, neutral evil*
@@ -108,8 +110,48 @@ A death dog is an ugly two-headed hound that roams plains, deserts, and the Unde
 >___
 >***Keen Smell.*** The dog has advantage on Wisdom (Perception) checks that rely on smell.
 >
+>***Pack Tactics.*** The dog has advantage on an attack roll against a creature if at least one of the dog's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>
 >#### Actions
 >***Bite.*** Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage.
+>
+
+---
+
+## Giant Hyena
+The giant hyena is often the leader of a pack of normal-sized hyenas, though periodically a pride of giant hyenas have been spotted in the wild. They are fearsome hunters and fiendish packs, and their hooting calls are often heard as laughter that sets their victims' fears ablaze.
+
+>### Giant Hyena
+>*Large beast, unaligned*
+>___
+>- **Armor Class** 12
+>- **Hit Points** 45 (6d10 + 12)
+>- **Speed** 50 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|14 (+2)|14 (+2)|2 (-4)|12 (+1)|7 (-2)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +3
+>- **Senses** passive Perception 13
+>- **Languages** —
+>- **Challenge** 1
+>___
+>***Rampage.***. When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.
+>
+>***Pack Tactics.*** The dog has advantage on an attack roll against a creature if at least one of the dog's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>
+>***Hideous Laughter (Recharge 5-6).*** If three or more giant hyenas are all gathered, their calls to one another acts as a casting of the [vicious mockery](../Magic/Spells/vicious-mockery.md) spell; the spell's level is equal to the number of giant hyenas in the pack, and targets any who are within 60 feet of the center of the pack.
+>
+>#### Actions
+>***Bite.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
 >
 
 ---
@@ -119,9 +161,9 @@ Monstrous, fire-breathing fiends that take the form of powerful dogs, hell hound
 
 ***Burning Hunger.*** Hell hounds hunt in packs, feeding on any creature that appears edible. They avoid potentially dangerous foes in favor of targeting the weakest prey with their savage bite and fiery breath, demonstrating a relentless determination as they pursue that prey to the bitter end.
 
-When hell hounds feed, the flesh they consume stokes the infernal fires that burn within them. When a hell hound dies, that fire consumes the creature’s remains in a billowing eruption of smoke and blazing embers, leaving nothing behind but scorched tufts of black fur.
+When hell hounds feed, the flesh they consume stokes the infernal fires that burn within them. When a hell hound dies, that fire consumes the creature's remains in a billowing eruption of smoke and blazing embers, leaving nothing behind but scorched tufts of black fur.
 
-***Evil to the Core.*** Hell hounds are smarter than mundane beasts, and their lawful nature makes them good at following orders. However, a hell hound’s evil disposition means that the creature can’t be trained to be anything other than a ruthless killer. If a hell hound isn’t allowed to indulge its malevolent hunger, it quickly abandons or turns against its master.
+***Evil to the Core.*** Hell hounds are smarter than mundane beasts, and their lawful nature makes them good at following orders. However, a hell hound's evil disposition means that the creature can't be trained to be anything other than a ruthless killer. If a hell hound isn't allowed to indulge its malevolent hunger, it quickly abandons or turns against its master.
 
 >### Hell Hound
 >*Medium fiend, lawful evil*
@@ -143,12 +185,12 @@ When hell hounds feed, the flesh they consume stokes the infernal fires that bur
 >- **Condition Immunities** 
 >- **Skills** Perception +5
 >- **Senses** darkvision 60 ft.,passive Perception 15
->- **Languages** understands Infernal but can’t speak it
+>- **Languages** understands Infernal but can't speak it
 >- **Challenge** 3
 >___
 >***Keen Hearing and Smell.*** The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 >
->***Pack Tactics.*** The hound has advantage on an attack roll against a creature if at least one of the hound’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+>***Pack Tactics.*** The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 >#### Actions
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage.
@@ -188,6 +230,8 @@ Mastiffs are impressive hounds prized by humanoids for their loyalty and keen se
 >___
 >***Keen Hearing and Smell.*** The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 >
+>***Pack Tactics.*** The mastiff has advantage on an attack roll against a creature if at least one of the mastiff's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>
 >#### Actions
 >***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 >
@@ -225,6 +269,8 @@ The Withered Hound is an undead creation from a [Mastiff](#mastiff) or similar-s
 >***Keen Smell.*** The hound has advantage on Wisdom (Perception) checks that rely on smell.
 >
 >***Turning Defiance.*** The hound has advantage on saving throws against effects that turn undead.
+>
+>***Pack Tactics.*** The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 >#### Actions
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, plus 3 (1d6) necrotic damage.
