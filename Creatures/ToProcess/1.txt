@@ -1,42 +1,39 @@
-HALF-RED DRAGON VETERAN
-Medium humanoid (human), any alignment
+Swarm of Rats
+SWARM OF RATS
+Medium swarm of Tiny beasts, unaligned
 
-Armor Class 18 (plate)
+Armor Class 10
 
-Hit Points 65 (10d8 + 20)
+Hit Points 24 (7d8 − 7)
 
 Speed 30 ft.
 
 STR
-16(+3)
+9 (−1)
 DEX
-13(+1)
+11 (+0)
 CON
-14(+2)
+9 (−1)
 INT
-10(+0)
+2 (−4)
 WIS
-11(+0)
+10 (+0)
 CHA
-10(+0)
-Skills Athletics +5, Perception +2
+3 (−4)
+Damage Resistances bludgeoning, piercing, slashing
 
-Damage Resistances fire
+Condition Immunities charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
-Senses blindsight 10 ft., darkvision 60 ft., passive Perception 12
+Senses darkvision 30 ft., passive Perception 10
 
-Languages Common, Draconic
+Languages —
 
-Challenge 5 (1,800 XP)
+Challenge 1/4 (50 XP)
+
+Keen Smell. The swarm has advantage on Wisdom (Perception) checks that rely on smell.
+
+Swarm. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can’t regain hit points or gain temporary hit points.
 
 Actions
 
-Multiattack. The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
-
-Longsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
-
-Shortsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
-
-Heavy Crossbow. Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.
-
-Fire Breath (Recharge 5–6). The veteran exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+Bites. Melee Weapon Attack: +2 to hit, reach 0 ft., one target in the swarm’s space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.

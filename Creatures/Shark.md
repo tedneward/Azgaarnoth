@@ -1,7 +1,7 @@
 # Shark
 Sharks are some of the most vicious predators of the sea, with normal sharks sometimes displaying a disheartening willingness to attack creatures larger than them (or not native to the sea). They are often the companions, familiars, or mounts for [Sahuagin](Sahuagin.md) tribes, particularly the larger varieties.
 
-> Jump to: [Giant Shark](#giant-shark) | [Hunter Shark](#hunter-shark)
+> Jump to: [Giant](#giant-shark) | [Hunter](#hunter-shark) | [Reef](#reef-shark)
 
 ## Giant Shark
 A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.
@@ -71,4 +71,40 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a hunter sh
 >
 >#### Actions
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
+>
+
+---
+
+## Reef Shark
+Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters and coral reefs, gathering in small packs to hunt. A full-grown specimen measures 6 to 10 feet long.
+
+>### Reef Shark
+>*Medium beast, unaligned*
+>___
+>- **Armor Class** 12 (natural armor)
+>- **Hit Points** 22 (4d8 + 4)
+>- **Speed** 0 ft., swim 40 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|14 (+2)|13 (+1)|13 (+1)|1 (-5)|10 (+0)|4 (-3)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +2
+>- **Senses** blindsight 30 ft.,passive Perception 12
+>- **Languages** —
+>- **Challenge** 1/2
+>___
+>***Pack Tactics.***. The shark has advantage on an attack roll against a creature if at least one of the shark’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+>
+>***Water Breathing.***. The shark can breathe only underwater.
+>
+>#### Actions
+>***Bite.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 >

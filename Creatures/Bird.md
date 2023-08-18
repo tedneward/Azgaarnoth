@@ -1,7 +1,7 @@
 # Raptor
 A species of avian that are predatory by nature.
 
-> Jump to: [Blood Hawk](#blood-hawk) | [Eagle](#eagle) | [Giant Eagle](#giant-eagle) | [Giant Owl](#giant-owl) | [Giant Vulture](#giant-vulture) | [Hawk](#hawk)
+> Jump to: [Blood Hawk](#blood-hawk) | [Eagle](#eagle) | [Giant Eagle](#giant-eagle) | [Giant Owl](#giant-owl) | [Giant Vulture](#giant-vulture) | [Hawk](#hawk) | [Owl](#owl) | [Raven](#raven)
 
 ## Blood Hawk
 Taking its name from its crimson feathers and aggressive nature, the blood hawk fearlessly attacks almost any animal, stabbing it with its daggerlike beak. Blood hawks flock together in large numbers, attacking as a pack to take down prey.
@@ -219,4 +219,72 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
 >***Talons.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
 >
 >
+>
+
+---
+
+## Owl
+
+>### Owl
+>*Tiny beast, unaligned*
+>___
+>- **Armor Class** 11
+>- **Hit Points** 1 (1d4 − 1)
+>- **Speed** 5 ft., fly 60 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|3 (-4)|13 (+1)|8 (-1)|2 (-4)|12 (+1)|7 (-2)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +3,Stealth +3
+>- **Senses** darkvision 120 ft.,passive Perception 13
+>- **Languages** —
+>- **Challenge** 0
+>___
+>***Flyby.***. The owl doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+>
+>***Keen Hearing and Sight.***. The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+>
+>#### Actions
+>***Talons.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
+>
+
+---
+
+## Raven
+
+>### Raven
+>*Tiny beast, unaligned*
+>___
+>- **Armor Class** 12
+>- **Hit Points** 1 (1d4 − 1)
+>- **Speed** 10 ft., fly 50 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|2 (-4)|14 (+2)|8 (-1)|2 (-4)|12 (+1)|6 (-2)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +3
+>- **Senses** passive Perception 13
+>- **Languages** —
+>- **Challenge** 0
+>___
+>***Mimicry.***. The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
+>
+>#### Actions
+>***Beak.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
 >

@@ -1,7 +1,7 @@
 # Snake
 Armless (usually) and legless reptiles, snakes are common to many parts of Azgaarnoth, and not particularly threatening, with the exception of a few species. They are often found around farms throughout Azgaarnoth, as they are excellent defenses against rodents, and some Hordes villages have festivals in honor of the common garden snake. They are often considered a good-luck charm.
 
-> Jump to: [Constrictor](#constrictor-snake) | [FLying](#flying-snake) | [Giant Constrictor](#giant-constrictor-snake) | [Giant Poisonous](#giant-poisonous-snake) | [Poisonous]() | [Swarm of Poisonous Snakes](#swarm-of-poisonous-snakes)
+> Jump to: [Constrictor](#constrictor-snake) | [FLying](#flying-snake) | [Giant Constrictor](#giant-constrictor-snake) | [Giant Poisonous](#giant-poisonous-snake) | [Poisonous](#poisonous-snake) | [Swarm of Poisonous Snakes](#swarm-of-poisonous-snakes)
 
 ---
 
@@ -139,7 +139,34 @@ Truly the stuff of nightmares, the giant poisonous snake often runs six to seven
 
 ---
 
-## Poisonous
+## Poisonous Snake
+
+>### Poisonous Snake
+>*Tiny beast, unaligned*
+>___
+>- **Armor Class** 13
+>- **Hit Points** 2 (1d4)
+>- **Speed** 30 ft., swim 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|2 (-4)|16 (+3)|11 (+0)|1 (-5)|10 (+0)|3 (-4)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** 
+>- **Senses** blindsight 10 ft.,passive Perception 10
+>- **Languages** —
+>- **Challenge** 1/8
+>___
+>#### Actions
+>***Bite.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
+>
 
 ---
 

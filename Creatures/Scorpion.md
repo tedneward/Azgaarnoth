@@ -1,7 +1,40 @@
 # Scorpion
 Most scorpions are too small to be of much bother (singly); their larger cousins, or large swarms of them, however, can present a bit of a problem.
 
-> Jump to: [Giant Scorpion](#giant-scorpion)
+> Jump to: [Scorpion](#scorpion-1) | [Giant Scorpion](#giant-scorpion)
+
+----
+
+## Scorpion
+
+>### Scorpion
+>*Tiny beast, unaligned*
+>___
+>- **Armor Class** 11 (natural armor)
+>- **Hit Points** 1 (1d4 − 1)
+>- **Speed** 10 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|2 (-4)|11 (+0)|8 (-1)|1 (-5)|8 (-1)|2 (-4)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** 
+>- **Senses** blindsight 10 ft.,passive Perception 9
+>- **Languages** —
+>- **Challenge** 0
+>___
+>#### Actions
+>***Sting.***. Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
+>
+
+---
 
 ## Giant Scorpion
 Giant scorpions are not native to most parts of Azgaarnoth, notable exceptions being certain parts of the northernmost [Al'Uma](../Geography/AlUma.md) grasslands.

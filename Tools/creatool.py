@@ -230,8 +230,13 @@ def ingest(arg):
         creature.alignment = alignment.strip()
 
         # TODO: type might have parens to it, eg, "Large humanoid (goblin)"
-        creature.size = sizeandtype.split(' ')[0]
-        creature.type = sizeandtype.split(' ')[1]
+        if sizeandtype.find('(') > -1:
+            # It has a parenthesized subtype, a la "large humanoid (goblin)"
+            creature.size = sizeandtype.split(' ')[0]
+            creature.type = sizeandtype.split(' ')[1] + ' ' + sizeandtype.split(' ')[2]
+        else:
+            creature.size = sizeandtype.split(' ')[0]
+            creature.type = sizeandtype.split(' ')[1]
 
         creature.ac = lines[3][len('Armor Class '):].strip()
 

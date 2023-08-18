@@ -1,7 +1,41 @@
 # Sea Horse
 Sea horses are common to the waters around Azgaarnoth, and "flocks" of both normal- and giant-sized sea horses can often be spotted from ships as they pass through the [Deepwaters](../Geography/Deepwaters.md).
 
-> Jump to: [Giant Sea Horse](#giant-sea-horse)
+> Jump to: [Sea Horse](#sea-horse-1) | [Giant Sea Horse](#giant-sea-horse)
+
+---
+
+## Sea Horse
+The normal-sized sea horse is generally too small to be of any interest (or bother) to anything larger than a goldfish. It has no effective attacks or actions.
+
+>### Sea Horse
+>*Tiny beast, unaligned*
+>___
+>- **Armor Class** 11
+>- **Hit Points** 1 (1d4 − 1)
+>- **Speed** 0 ft., swim 20 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|1 (-5)|12 (+1)|8 (-1)|1 (-5)|10 (+0)|2 (-4)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** 
+>- **Senses** passive Perception 10
+>- **Languages** —
+>- **Challenge** 0
+>___
+>***Water Breathing.***. The sea horse can breathe only underwater.
+>
+>#### Actions
+
+---
 
 ## Giant Sea Horse
 Like their smaller kin, giant sea horses are shy, colorful fish with elongated bodies and curled tails. Sea elves and tritons often train them as mounts, particularly for aquatic paladins.
