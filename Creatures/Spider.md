@@ -1,7 +1,47 @@
 # Spider
 You know you hate them just as much as I do.
 
-> Jump to: [Giant Spider](#giant-spider) | [Giant Wolf Spider](#giant-wolf-spider)
+> Jump to: [Spider](#spider-1) | [Giant Spider](#giant-spider) | [Giant Wolf Spider](#giant-wolf-spider) | [Phase Spider](#phase-spider)
+
+---
+
+## Spider
+The normal spider is basically harmless, but still entirely worth squishing any chance one gets.
+
+>### Spider
+>*Tiny beast, unaligned*
+>___
+>- **Armor Class** 12
+>- **Hit Points** 1 (1d4 − 1)
+>- **Speed** 20 ft., climb 20 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|2 (-4)|14 (+2)|8 (-1)|1 (-5)|10 (+0)|2 (-4)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Stealth +4
+>- **Senses** darkvision 30 ft.,passive Perception 10
+>- **Languages** —
+>- **Challenge** 0
+>___
+>***Spider Climb.***. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+>
+>***Web Sense.***. While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.
+>
+>***Web Walker.***. The spider ignores movement restrictions caused by webbing.
+>
+>#### Actions
+>***Bite.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.
+>
+
+---
 
 ## Giant Spider
 To snare its prey, a giant spider spins elaborate webs or shoots sticky strands of webbing from its abdomen. Giant spiders are most commonly found underground, making their lairs on ceilings or in dark, web-filled crevices. Such lairs are often festooned with web cocoons holding past victims.
@@ -77,4 +117,42 @@ Smaller than a giant spider, a giant wolf spider hunts prey across open ground o
 >
 >#### Actions
 >***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+>
+
+---
+
+## Phase Spider
+A phase spider possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the Ethereal Plane before coming back to the Material Plane makes it seem like it can teleport.
+
+>### Phase Spider
+>*Large monstrosity, unaligned*
+>___
+>- **Armor Class** 13 (natural armor)
+>- **Hit Points** 32 (5d10 + 5)
+>- **Speed** 30 ft., climb 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|15 (+2)|12 (+1)|6 (-2)|10 (+0)|6 (-2)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Stealth +6
+>- **Senses** darkvision 60 ft.,passive Perception 10
+>- **Languages** —
+>- **Challenge** 3
+>___
+>***Ethereal Jaunt.***. As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.
+>
+>***Spider Climb.***. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+>
+>***Web Walker.***. The spider ignores movement restrictions caused by webbing.
+>
+>#### Actions
+>***Bite.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 >

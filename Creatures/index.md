@@ -36,6 +36,7 @@ These creatures are found in various places across the map. Over time, all these
 - [Bear](Bear.md)
 - [Beetle](Beetle.md)
 - [Behir](Behir.md)
+- [Bird](Bird.md)
 - [Blink Dog](Dog.md#blink-dog)
 - [Boar](Boar.md)
 - [Boneclaw](Boneclaw.md)
@@ -112,7 +113,6 @@ These creatures are found in various places across the map. Over time, all these
 ## Q
 
 ## R
-- [Raptor](Raptor.md)
 - [Rat](Rat.md)
 
 ## S
