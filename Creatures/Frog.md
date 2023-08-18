@@ -76,13 +76,13 @@ A frog has no effective attacks. It feeds on small insects and typically dwells 
 
 ---
 
-## Giant Toad
-Giant toads breed successfully in the wild, and usually prefer deep forests, such as the wilderness of [Northern Bedia](../Geography/Bedia.md). Many, however, have been domesticated by various tribes, and so they can often be found in entirely non-native habitats, including the [Underdark](../Geography/Underdark.md). They are also commonly found among the various [Undersea](../Geography/Undersea.md) tribes.
+## Giant Ice Toad
+Giant ice toads are a wild magic-infused elemental offshoot of the giant toad, infused with just a touch of air and water elemental essence. This manifests as a giant toad, encased in ice, able to expel frost as a breath weapon to any foes who might challenge its icy home. Given the overall climate of Azgaarnoth, these are not common, but a few are found in the very southern reaches of the [Dradehalian continent](../Geography/Dradehalia.md), where the temperatures can drop below zero, and out on the ice sheet that extends from there to the southern pole.
 
 >### Giant Ice Toad
 >*Large beast, unaligned*
 >___
->- **Armor Class** 11
+>- **Armor Class** 15 (natural armor)
 >- **Hit Points** 39 (8d10 + 8)
 >- **Speed** 20 ft., burrow 40 ft. (ice only)
 >___
@@ -103,6 +103,8 @@ Giant toads breed successfully in the wild, and usually prefer deep forests, suc
 >- **Challenge** 2
 >___
 >***Standing Leap.*** The toad’s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+>
+>***Sure Footing.*** The toad never finds ice or snow to be difficult terrain.
 >
 >#### Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the toad can’t bite another target.

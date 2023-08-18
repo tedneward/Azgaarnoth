@@ -9,10 +9,11 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. When a creatu
 
 Color | Damage Resistance
 ----- | -------------------
-Black or copper	| Acid
-Blue or bronze | Lightning
+Black or Copper	| Acid
+Blue or Bronze | Lightning
+Brass, Gold, or Red | Fire
 Green	| Poison
-Silver or white | Cold
+White or Silver | Cold
 
 ***Languages.*** The half-dragon speaks Draconic in addition to any other languages it knows.
 

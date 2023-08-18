@@ -3,13 +3,13 @@ These creatures are found in various places across the map. Over time, all these
 
 ## Creature Modifier Templates
 - Dire
-- Half-Dragon
+- [Half-Dragon](Templates/HalfDragon.md)
 - Unead
-    - [Ghost](./Templates/Ghostly.md)
+    - [Ghost](Templates/Ghostly.md)
     - Mummy
-    - [Skeleton](./Templates/Skeletal.md)
+    - [Skeleton](Templates/Skeletal.md)
     - Withered
-    - [Zombie](./Templates/Zombie.md)
+    - [Zombie](Templates/Zombie.md)
 
 ## A
 - [Aarakocra](Aarakocra.md)
@@ -83,6 +83,7 @@ These creatures are found in various places across the map. Over time, all these
 - [Hydra](Hydra.md)
 
 ## I
+- [Insect](Insect.md)
 - [Invisible Stalker](Elemental.md#invisible-stalker)
 
 ## J
