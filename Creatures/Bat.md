@@ -1,7 +1,7 @@
 # Bat
 
 
-> Jump to: [Bat](#bat-1) | [Giant Bat](#giant-bat) | [Swarm]
+> Jump to: [Bat](#bat-1) | [Giant Bat](#giant-bat) | [Swarm](#swarm-of-bats) | [Withered](#withered-bat)
 
 ---
 
@@ -110,4 +110,43 @@ The swarm of bats presented here aren’t ordinary or benign assemblies of littl
 >
 >#### Actions
 >***Bites.***. Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm’s space. Hit: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
+>
+
+---
+
+## Withered Bat
+
+>### Withered Bat
+>*Tiny undead, shares master's alignment*
+>___
+>- **Armor Class** 14 (natural armor)
+>- **Hit Points** 27 (6d4 + 12)
+>- **Speed** 5 ft., fly 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|2 (-4)|16 (+3)|15 (+2)|6 (-2)|15 (+2)|6 (-2)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** necrotic,poison
+>- **Condition Immunities** poisoned
+>- **Skills** Perception +4,Stealth +5
+>- **Senses** Blindsight 120 ft.,passive Perception 14
+>- **Languages** Understands the languages of its master but can't speak
+>- **Challenge** 1/2
+>___
+>***Echolocation.*** The bat can't use its blindsight while deafened.
+>
+>***Keen Hearing.*** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
+>
+>***One with the Night.*** The bat has advantage on Dexterity (Stealth) checks made to hide in dim light or darkness.
+>
+>#### Actions
+>***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, plus 3 (1d6) necrotic damage.
+>
+>***Stunning Screech (1/Day).*** The bat emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a bat must succeed on a DC 13 Constitution saving throw or be stunned until the end of the bat's next turn.
 >

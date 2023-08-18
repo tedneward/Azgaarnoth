@@ -39,6 +39,7 @@ These creatures are found in various places across the map. Over time, all these
 - [Bird](Bird.md)
 - [Blink Dog](Dog.md#blink-dog)
 - [Boar](Boar.md)
+- [Bodak](Bodak.md)
 - [Boneclaw](Boneclaw.md)
 - [Bonedrinker](Bonedrinker.md)
 - [Brother of Undeath](BrotherOfUndeath.md)
@@ -47,14 +48,18 @@ These creatures are found in various places across the map. Over time, all these
 
 ## C
 - [Cat](Cat.md)
+- [Centipede](Centipede.md)
 - [Chimera](Chimera.md)
+- [Chuul](Chuul.md)
 - [Corpse Flower](CorpseFlower.md)
 - [Crab](Crab.md)
+- [Crawling Claw](CrawlingClaw.md)
 - [Crocodile](Crocodile.md)
 
 ## D
 - [Death Dog](Dog.md#death-dog)
 - [Deer](Deer.md)
+- [Digester](Digester.md)
 - [Dog](Dog.md)
 
 ## E
@@ -79,6 +84,7 @@ These creatures are found in various places across the map. Over time, all these
 
 ## H
 - [Hag](Hag.md)
+- [Harpy](Harpy.md)
 - [Hell Hound](Dog.md#hell-hound)
 - [Helmed Horror](HelmedHorror.md)
 - [Hydra](Hydra.md)
@@ -92,18 +98,22 @@ These creatures are found in various places across the map. Over time, all these
 ## K
 
 ## L
+- [Lich](Lich.md)
 - [Lion](Cat.md#lion)
 - [Lizard](Lizard.md)
 
 ## M
 - [Magen](Magen.md)
 - [Magmin](Elemental.md#magmin)
+- [Manticore](Manticore.md)
 - [Mephit](Mephit.md)
 
 ## N
 - [Nightstriker Serpent](NightstrikerSerpent.md)
 
 ## O
+- [Octopus](Octopus.md)
+- [Ogrillon](Ogrillon.md)
 - [Ooze](Ooze.md)
 - [Owlbear](Owlbear.md)
 
@@ -111,9 +121,11 @@ These creatures are found in various places across the map. Over time, all these
 - [Panther](Cat.md#panther)
 
 ## Q
+- [Quipper](Quipper.md)
 
 ## R
 - [Rat](Rat.md)
+- [Rhinoceros](Rhinoceros.md)
 
 ## S
 - [Saber-Toothed Tiger](Cat.md#saber-toothed-tiger)
@@ -127,6 +139,7 @@ These creatures are found in various places across the map. Over time, all these
 - [Snake](Snake.md)
 - [Specter](Specter.md)
 - [Spider](Spider.md)
+- [Spirit](Spirit.md)
 - [Sunken Sailor](SunkenSailor.md)
 
 ## T
@@ -138,6 +151,7 @@ These creatures are found in various places across the map. Over time, all these
 ## V
 
 ## W
+- [Wasp](Wasp.md)
 - [Water Weird](Elemental.md#water-weird)
 - [Weasel](Weasel.md)
 - [Whale](Whale.md)
@@ -147,12 +161,15 @@ These creatures are found in various places across the map. Over time, all these
 - [Wolf](Wolf.md)
 - [Worg](Wolf.md#worg)
 - [Wraith](Wraith.md)
+- [Wyvern](Wyvern.md)
 
 ## X
+- [Xorn](Xorn.md)
 
 ## Y
 
 ## Z
+- [Zombie](Zombie.md)
 
 ---
 
