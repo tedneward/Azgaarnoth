@@ -1,5 +1,5 @@
-# Master List of Spells
-For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Master, Ranger, Shaman, Sorcerer, Warlock, Wizard)
+# Master List of Spells (by level)
+For all spellcasting classes ([Artificer](../../Classes/Artificer/SpellList.md), [Bard](../../Classes/Bard/SpellList.md), [Cleric](../../Classes/Cleric/SpellList.md), [Druid](../../Classes/Druid/SpellList.md), [Paladin](../../Classes/Paladin/SpellList.md), [Pale Master](../../Classes/PaleMaster/SpellList.md), [Ranger](../../Classes/Ranger/SpellList.md), [Shaman](../../Classes/Shaman/SpellList.md), [Sorcerer](../../Classes/Sorcerer/SpellList.md), [Warlock](../../Classes/Warlock/SpellList.md), [Wizard](../../Classes/Wizard/SpellList.md))
  
 ## cantrip-Level Spells
 * [Acid Splash](./acid-splash.md): Artificer, Sorcerer, Wizard
