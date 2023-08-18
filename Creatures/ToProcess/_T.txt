@@ -1,0 +1,347 @@
+Tarrasque
+
+The legendary tarrasque is possibly the most dreaded monster of the Material Plane. It is widely believed that only one of these creatures exists, though no one can predict where and when it will strike.
+
+A scaly biped, the tarrasque is fifty feet tall and seventy feet long, weighing hundreds of tons. It carries itself like a bird of prey, leaning forward and using its powerful lashing tail for balance. Its cavernous maw yawns wide enough to swallow all but the largest creatures, and so great is its hunger that it can devour the populations of whole towns.
+
+Legendary Destruction. The destructive potential of the tarrasque is so vast that some cultures incorporate the monster into religious doctrine, weaving its sporadic appearance into stories of divine judgment and wrath. Legends tell how the tarrasque slumbers in its secret lair beneath the earth, remaining in a dormant state for decades or centuries. When it awakens in answer to some inscrutable cosmic call, it rises from the depths to obliterate everything in its path.
+
+TARRASQUE
+Gargantuan monstrosity (titan), unaligned
+
+Armor Class 25 (natural armor)
+
+Hit Points 676 (33d20 + 330)
+
+Speed 40 ft.
+
+STR
+30 (+10)
+DEX
+11 (+0)
+CON
+30 (+10)
+INT
+3 (−4)
+WIS
+11 (+0)
+CHA
+11 (+0)
+Saving Throws Int +5, Wis +9, Cha +9
+
+Damage Immunities fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+
+Condition Immunities charmed, frightened, paralyzed, poisoned
+
+Senses blindsight 120 ft., passive Perception 10
+
+Languages —
+
+Challenge 30 (155,000 XP)
+
+Legendary Resistance (3/Day). If the tarrasque fails a saving throw, it can choose to succeed instead.
+
+Magic Resistance. The tarrasque has advantage on saving throws against spells and other magical effects.
+
+Reflective Carapace. Any time the tarrasque is targeted by a magic missile spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.
+
+Siege Monster. The tarrasque deals double damage to objects and structures.
+
+Actions
+
+Multiattack. The tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tail. It can use its Swallow instead of its bite.
+
+Bite. Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit: 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the tarrasque can’t bite another target.
+
+Claw. Melee Weapon Attack: +19 to hit, reach 15 ft., one target. Hit: 28 (4d8 + 10) slashing damage.
+
+Horns. Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit: 32 (4d10 + 10) piercing damage.
+
+Tail. Melee Weapon Attack: +19 to hit, reach 20 ft., one target. Hit: 24 (4d6 + 10) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.
+
+Frightful Presence. Each creature of the tarrasque’s choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the tarrasque is within line of sight, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the tarrasque’s Frightful Presence for the next 24 hours.
+
+Swallow. The tarrasque makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, the target takes the bite’s damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the tarrasque, and it takes 56 (16d6) acid damage at the start of each of the tarrasque’s turns.
+
+If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.
+
+Legendary Actions
+
+The tarrasque can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The tarrasque regains spent legendary actions at the start of its turn.
+
+Attack. The tarrasque makes one claw attack or tail attack.
+
+Move. The tarrasque moves up to half its speed.
+
+Chomp (Costs 2 Actions). The tarrasque makes one bite attack or uses its Swallow.
+
+
+Thri-kreen
+Thri-kreen wander the deserts and savannas of the world, avoiding all other races.
+
+Thri-Kreen Communication. Thri-kreen employ a language without words. To show emotion and reaction, a thri-kreen clacks its mandibles and waves its antennae, giving other thri-kreen a sense of what it is thinking and feeling. Other creatures find this manner of communication difficult to interpret and impossible to duplicate.
+
+When forced to interact with creatures of other intelligent species, thri-kreen employ alternative methods of communication, such as drawing pictures in sand or making pictures out of twigs or blades of grass.
+
+Limited Emotions. Thri-kreen experience the full range of emotions but aren’t as prone to emotional outbursts as humans. Thri-kreen with psionic ability often demonstrate a wider range of emotions, particularly if they live near or interact with humans or other highly emotional creatures.
+
+Isolationists and Wanderers. Thri-kreen consider all other living creatures as potential nourishment, and they love the taste of elf flesh in particular. If a creature might be useful for something other than food, the thri-kreen aren’t likely to attack it on sight. Thri-kreen kill to survive, never for sport.
+
+Sleepless. Thri-kreen don’t require sleep and can rest while remaining alert and performing light tasks. Their inability to sleep is thought to be the reason why thri-kreen have such short lifespans, the average thri-kreen life expectancy being only thirty years.
+
+VARIANT: THRI-KREEN WEAPONS
+
+Some thri-kreen employ special martial weapons. A gythka is a two-handed polearm with a blade at each end. A chatkcha is a flat, triangular wedge with three serrated blades (a light thrown weapon).
+
+A thri-kreen armed with a gythka and chatkchas gains the following action options:
+
+Multiattack. The thri-kreen makes two gythka attacks or two chatkcha attacks.
+
+Gythka. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.
+
+Chatkcha. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
+
+THRI-KREEN
+Medium humanoid (thri-kreen), chaotic neutral
+
+Armor Class 15 (natural armor)
+
+Hit Points 33 (6d8 + 6)
+
+Speed 40 ft.
+
+STR
+12 (+1)
+DEX
+15 (+2)
+CON
+13 (+1)
+INT
+8 (−1)
+WIS
+12 (+1)
+CHA
+7 (−2)
+Skills Perception +3, Stealth +4, Survival +3
+
+Senses darkvision 60 ft., passive Perception 13
+
+Languages Thri-kreen
+
+Challenge 1 (200 XP)
+
+Chameleon Carapace. The thri-kreen can change the color of its carapace to match the color and texture of its surroundings. As a result, it has advantage on Dexterity (Stealth) checks made to hide.
+
+Standing Leap. The thri-kreen’s long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
+
+Actions
+
+Multiattack. The thri-kreen makes two attacks: one with its bite and one with its claws.
+
+Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is also paralyzed while poisoned in this way. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Claws. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage.
+
+
+VARIANT: THRI-KREEN PSIONICS
+
+A few thri-kreen manifest psionic abilities, using their powers to aid the hunt and communicate more easily with outsiders.
+
+A psionic thri-kreen has telepathy out to a range of 60 feet and gains the following additional trait:
+
+Innate Spellcasting (Psionics). The thri-kreen’s innate spellcasting ability is Wisdom. The thri-kreen can innately cast the following spells, requiring no components:
+
+At will: mage hand (the hand is invisible)
+
+2/day each: blur, magic weapon
+
+1/day: invisibility (self only)
+
+Treant
+Treants are awakened trees that dwell in ancient forests. Although treants prefer to while away the days, months, and years in quiet contemplation, they fiercely protect their woodland demesnes from outside threats.
+
+The Sleeping Tree Awakens. A tree destined to become a treant meditates through a long cycle of seasons, living normally for decades or centuries before realizing its potential. Trees that awaken do so only under special circumstances and in places steeped with nature’s magic. Treants and powerful druids can sense when a tree has the spark of potential, and they protect such trees in secret groves as they draw near the moment of their awakening. During the long process of awakening, a tree acquires face-like features in its bark, a division of the lower trunk into legs, and long branches bending downward to serve as its arms. When it is ready, the tree pulls its legs free from the clutching earth and joins its fellows in protecting its woodland home.
+
+Legendary Guardians. After a treant awakens, it continues to grow exactly as it did when it was a tree. Treants created from the mightiest trees can reach great sizes while developing an innate magical power over plants and animals. Such treants can animate plants, using them to ensnare and trap intruders. They can call wild creatures to aid them or carry messages across great distances.
+
+Protectors of the Wild. Even after awakening, a treant spends much of its time living as a tree. While rooted in place, a treant remains aware of its surroundings, and can perceive the effects of events taking place miles away based on subtle changes nearby.
+
+Woodcutters who avoid culling healthy living trees and hunters who take only what they need of the forest’s bounty are unlikely to arouse a treant’s ire. Creatures careless with fire, those who poison the forest, and those who destroy great trees, especially a tree close to awakening, face the treant’s wrath.
+
+TREANT
+Huge plant, chaotic good
+
+Armor Class 16 (natural armor)
+
+Hit Points 138 (12d12 + 60)
+
+Speed 30 ft.
+
+STR
+23 (+6)
+DEX
+8 (−1)
+CON
+21 (+5)
+INT
+12 (+1)
+WIS
+16 (+3)
+CHA
+12 (+1)
+Damage Resistances bludgeoning, piercing
+
+Damage Vulnerabilities fire
+
+Senses passive Perception 13
+
+Languages Common, Druidic, Elvish, Sylvan
+
+Challenge 9 (5,000 XP)
+
+False Appearance. While the treant remains motionless, it is indistinguishable from a normal tree.
+
+Siege Monster. The treant deals double damage to objects and structures.
+
+Actions
+
+Multiattack. The treant makes two slam attacks.
+
+Slam. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) bludgeoning damage.
+
+Rock. Ranged Weapon Attack: +10 to hit, range 60/180 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage.
+
+Animate Trees (1/Day). The treant magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a treant, except they have Intelligence and Charisma scores of 1, they can’t speak, and they have only the Slam action option. An animated tree acts as an ally of the treant. The tree remains animate for 1 day or until it dies; until the treant dies or is more than 120 feet from the tree; or until the treant takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.
+
+
+Troglodyte
+Violent and ever-hungry, troglodytes squat in the shallow depths of the Underdark in a constant state of war against their neighbors and one another. They mark the borders of their territories with cracked bones and skulls, or with pictographs painted in blood or dung.
+
+Perhaps the most loathsome of all humanoids, troglodytes eat anything they can stomach. They dwell in filth. The walls of their cavern homes are smeared with grime, oily secretions, and the debris of their foul feasting.
+
+Single-Minded Brutes. Troglodytes are devoted almost entirely to procuring food. They rarely plan more than a few days into the future, instead relying on constant raids and hunting to survive. They take sadistic pleasure in hunting intelligent creatures weaker than themselves and show no mercy toward those they capture and drag back to their lairs to be devoured. The largest and toughest troglodytes lead the hunt and become the leaders of their tribes. However, if a leader shows any weakness or hesitation, other troglodytes attack and eat it in a frenzy.
+
+Troglodytes make little and build less, scavenging their possessions from their prey. They understand the value of metal weapons and armor, and fight among one another for the right to have such items. A troglodyte tribe might be torn apart by battles over a single longsword.
+
+Devotees of Laogzed. Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that slumbers in the Abyss. Laogzed offers the troglodytes nothing in return except aspiration, for it is the dream of his troglodyte worshipers to become as well-fed and wearily content as he seems to be.
+
+“Smells like an orc’s loincloth in here!”
+
+— Last words of Arlax Hammermantle, dwarf spelunker
+
+TROGLODYTE
+Medium humanoid (troglodyte), chaotic evil
+
+Armor Class 11 (natural armor)
+
+Hit Points 13 (2d8 + 4)
+
+Speed 30 ft.
+
+STR
+14 (+2)
+DEX
+10 (+0)
+CON
+14 (+2)
+INT
+6 (−2)
+WIS
+10 (+0)
+CHA
+6 (−2)
+Skills Stealth +2
+
+Senses darkvision 60 ft., passive Perception 10
+
+Languages Troglodyte
+
+Challenge 1/4 (50 XP)
+
+Chameleon Skin. The troglodyte has advantage on Dexterity (Stealth) checks made to hide.
+
+Stench. Any creature other than a troglodyte that starts its turn within 5 feet of the troglodyte must succeed on a DC 12 Constitution saving throw or be poisoned until the start of the creature’s next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.
+
+Sunlight Sensitivity. While in sunlight, the troglodyte has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
+Actions
+
+Multiattack. The troglodyte makes three attacks: one with its bite and two with its claws.
+
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+
+Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.
+
+
+Troll
+Born with horrific appetites, trolls eat anything they can catch and devour. They have no society to speak of, but they do serve as mercenaries to orcs, ogres, ettins, hags, and giants. As payment, trolls demand food and treasure. Trolls are difficult to control, however, doing as they please even when working with more powerful creatures.
+
+
+Regeneration. Smashing a troll’s bones and slashing through its rubbery hide only makes it angry. A troll’s wounds close quickly. If the monster loses an arm, a leg, or even its head, those dismembered parts can sometimes act with a life of their own. A troll can even reattach severed body parts, untroubled by its momentary disability. Only acid and fire can arrest the regenerative properties of a troll’s flesh. The trolls, enraged, will attack individuals making acid and fire attacks against them above all other prey.
+
+Troll Freaks. Their regenerative capabilities make trolls especially susceptible to mutation. Although uncommon, such transformations can result from what the troll has done or what has been done to it. A decapitated troll might grow two heads from the stump of its neck, while a troll that eats a fey creature might gain one or more of that creature’s traits.
+
+VARIANT: LOATHSOME LIMBS
+
+Some trolls have the following trait.
+
+Loathsome Limbs. Whenever the troll takes at least 15 slashing damage at one time, roll a d20 to determine what else happens to it:
+
+1–10: Nothing else happens.
+
+11–14: One leg is severed from the troll if it has any legs left.
+
+15–18: One arm is severed from the troll if it has any arms left.
+
+19–20: The troll is decapitated, but the troll dies only if it can’t regenerate. If it dies, so does the severed head.
+
+If the troll finishes a short or long rest without reattaching a severed limb or head, the part regrows. At that point, the severed part dies. Until then, a severed part acts on the troll’s initiative and has its own action and movement. A severed part has AC 13, 10 hit points, and the troll’s Regeneration trait.
+
+A severed leg is unable to attack and has a speed of 5 feet.
+
+A severed arm has a speed of 5 feet and can make one claw attack on its turn, with disadvantage on the attack roll unless the troll can see the arm and its target. Each time the troll loses an arm, it loses a claw attack.
+
+If its head is severed, the troll loses its bite attack and its body is blinded unless the head can see it. The severed head has a speed of 0 feet and the troll’s Keen Smell trait. It can make a bite attack but only against a target in its space.
+
+The troll’s speed is halved if it’s missing a leg. If it loses both legs, it falls prone. If it has both arms, it can crawl. With only one arm, it can still crawl, but its speed is halved. With no arms or legs, its speed is 0, and it can’t benefit from bonuses to speed.
+
+TROLL
+Large giant, chaotic evil
+
+Armor Class 15 (natural armor)
+
+Hit Points 84 (8d10 + 40)
+
+Speed 30 ft.
+
+STR
+18 (+4)
+DEX
+13 (+1)
+CON
+20 (+5)
+INT
+7 (−2)
+WIS
+9 (−1)
+CHA
+7 (−2)
+Skills Perception +2
+
+Senses darkvision 60 ft., passive Perception 12
+
+Languages Giant
+
+Challenge 5 (1,800 XP)
+
+Keen Smell. The troll has advantage on Wisdom (Perception) checks that rely on smell.
+
+Regeneration. The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn’t function at the start of the troll’s next turn. The troll dies only if it starts its turn with 0 hit points and doesn’t regenerate.
+
+Actions
+
+Multiattack. The troll makes three attacks: one with its bite and two with its claws.
+
+Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+
+Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.

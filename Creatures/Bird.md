@@ -1,7 +1,9 @@
 # Raptor
-A species of avian that are predatory by nature.
+Various species of avian; many are predatory by nature.
 
-> Jump to: [Blood Hawk](#blood-hawk) | [Eagle](#eagle) | [Giant Eagle](#giant-eagle) | [Giant Owl](#giant-owl) | [Giant Vulture](#giant-vulture) | [Hawk](#hawk) | [Owl](#owl) | [Raven](#raven)
+> Jump to: [Blood Hawk](#blood-hawk) | [Eagle](#eagle) | [Giant Eagle](#giant-eagle) | [Giant Owl](#giant-owl) | [Giant Vulture](#giant-vulture) | [Hawk](#hawk) | [Owl](#owl) | [Raven](#raven) | [Swarm of Ravens](#swarm-of-ravens) | [Vulture](#vulture)
+
+---
 
 ## Blood Hawk
 Taking its name from its crimson feathers and aggressive nature, the blood hawk fearlessly attacks almost any animal, stabbing it with its daggerlike beak. Blood hawks flock together in large numbers, attacking as a pack to take down prey.
@@ -287,4 +289,73 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
 >
 >#### Actions
 >***Beak.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+>
+
+---
+
+## Swarm of Ravens
+A swarm of ravens isn’t an ordinary or benign assemblies of bird. They form as a result of some sinister or unwholesome influence. A hag, for example, might have the power to turn swarms of ravens against her enemies. Even druids can’t charm these swarms, and their aggressiveness is borderline unnatural.
+
+>### Swarm of Ravens
+>*Medium swarm, unaligned*
+>___
+>- **Armor Class** 12
+>- **Hit Points** 24 (7d8 − 7)
+>- **Speed** 10 ft., fly 50 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|6 (-2)|14 (+2)|8 (-1)|3 (-4)|12 (+1)|6 (-2)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** bludgeoning,piercing,slashing
+>- **Damage Immunities** 
+>- **Condition Immunities** charmed,frightened,grappled,paralyzed,petrified,prone,restrained,stunned
+>- **Skills** Perception +5
+>- **Senses** passive Perception 15
+>- **Languages** —
+>- **Challenge** 1/4
+>___
+>***Swarm.***. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can’t regain hit points or gain temporary hit points.
+>
+>#### Actions
+>***Beaks.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm’s space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
+>
+
+---
+
+## Vulture
+
+>### Vulture
+>*Medium beast, unaligned*
+>___
+>- **Armor Class** 10
+>- **Hit Points** 5 (1d8 + 1)
+>- **Speed** 10 ft., fly 50 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|7 (-2)|10 (+0)|13 (+1)|2 (-4)|12 (+1)|4 (-3)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +3
+>- **Senses** passive Perception 13
+>- **Languages** —
+>- **Challenge** 0
+>___
+>***Keen Sight and Smell.***. The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
+>
+>***Pack Tactics.***. The vulture has advantage on an attack roll against a creature if at least one of the vulture’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+>
+>#### Actions
+>***Beak.***. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage.
 >

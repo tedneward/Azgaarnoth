@@ -34,25 +34,25 @@ The important thing to remember is that slaad are creatures of Chaos. While Orde
 ## Slaad Tadpole ("Slaadpole")
 *tiny aberration, chaotic neutral* 
 
-**Armor Class:** 12
+**Armor Class** 12
 
-**Hit Points:** 10 (4d4)
+**Hit Points** 10 (4d4)
 
-**Speed:** 30ft.
+**Speed** 30ft.
 
 **STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
 -------|-------|-------|-------|-------|-------
  7     | 15    | 10    | 5     | 3     | 3
 
-**Skills:** Stealth +4
+**Skills** Stealth +4
 
-**Damage Resistances:** acid, cold, fire, lightning, thunder
+**Damage Resistances** acid, cold, fire, lightning, thunder
 
-**Senses:** darkvision 60 ft., passive perception 7
+**Senses** darkvision 60 ft., passive perception 7
 
-**Languages:** understands Slaad but cant speak
+**Languages** understands Slaad but cant speak
 
-**Challenge:** 1/8
+**Challenge** 1/8
 
 **Magic Resistance.** The slaad has advantage on saving throws against spells and other magical effects.
 
@@ -105,25 +105,25 @@ Where and how mud slaad come into existence is still unclear and hotly debated a
 ## Red Slaad
 *large aberration, chaotic neutral* 
 
-**Armor Class:** 14 (natural armor)
+**Armor Class** 14 (natural armor)
 
-**Hit Points:** 93 (11d10 + 33)
+**Hit Points** 93 (11d10 + 33)
 
-**Speed:** 30ft.
+**Speed** 30ft.
 
 **STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
 -------|-------|-------|-------|-------|-------
 16 (+3)|12 (+1)|16 (+3)| 6 (-2)| 6 (-2)| 7 (-2)
 
-**Skills:** Perception +1
+**Skills** Perception +1
 
-**Damage Resistances:** acid, cold, fire, lightning, thunder
+**Damage Resistances** acid, cold, fire, lightning, thunder
 
-**Senses:** darkvision 60 ft., passive perception 11
+**Senses** darkvision 60 ft., passive perception 11
 
-**Languages:** Slaad, telepathy 60 ft.
+**Languages** Slaad, telepathy 60 ft.
 
-**Challenge:** 5
+**Challenge** 5
 
 **Proficiency Bonus** +3
 
@@ -706,9 +706,9 @@ Black slaadi are an enigma, for little has been written on these vastly powerful
 ## Chaos Slaad
 *Large Aberration (Shapechanger), chaotic neutral*
 
-**Armor Class:** 15
+**Armor Class** 15
 
-**Hit Points:** 150 (18d10 + 18)
+**Hit Points** 150 (18d10 + 18)
 
 Speed: 30 ft
 
@@ -716,15 +716,15 @@ Speed: 30 ft
 -------|-------|-------|-------|-------|-------
 12 (+1)|12 (+1)|12 (+1)| 8 (-1)| 6 (-2)|12 (+1)
 
-**Saving Throws:** All are at +(1d6 + 3)
+**Saving Throws** All are at +(1d6 + 3)
 
-**Skills:** Perception: +(1d6 + 3)
+**Skills** Perception: +(1d6 + 3)
 
-**Senses:** Blindsight 60, Darkvision 60, Telepathy 60 ft
+**Senses** Blindsight 60, Darkvision 60, Telepathy 60 ft
 
-**Languages:** Slaad, telepathy 60 ft.
+**Languages** Slaad, telepathy 60 ft.
 
-**Instinct:** Each Slaad possesses an innate desire that guides their current behavior. At the beginning of an encounter, roll a d6.
+**Instinct** Each Slaad possesses an innate desire that guides their current behavior. At the beginning of an encounter, roll a d6.
 
 d6 | Result
 -- | ------
@@ -732,7 +732,7 @@ d6 | Result
 2-5| **Spread.** The Slaad will attack a viable target to spread its eggs, and will switch targets after accomplishing the goal. Slaad will ignore creatures that cannot carry their eggs.
  6 | **Destroy.** The Slaad attempts to kill any non-Slaad creature it can see.
 
-**Form:** Slaads can have fins, gills, wings, multiple legs, and vary greatly in size. At the beginning of an encounter, roll a d6 and check this chart
+**Form** Slaads can have fins, gills, wings, multiple legs, and vary greatly in size. At the beginning of an encounter, roll a d6 and check this chart
 
 d6| Result
 --| ------
@@ -745,9 +745,9 @@ d6| Result
 
 **Magic Weapons.** The Slaad's weapon attacks are magical.
 
-**Children of Chaos:** Slaad add 1d6 to all attacks, saves, checks, saving throw DCs, and damage rolls (already adjusted).
+**Children of Chaos** Slaad add 1d6 to all attacks, saves, checks, saving throw DCs, and damage rolls (already adjusted).
 
-**Entropic Resistance:** The first time the Slaad is hit with a weapon type (bludgeoning, slashing, piercing) or an energy type, roll a d6 and consult the chart. Repeat this check for each new type the Slaad is effected by. The effect lasts for the encounter.
+**Entropic Resistance** The first time the Slaad is hit with a weapon type (bludgeoning, slashing, piercing) or an energy type, roll a d6 and consult the chart. Repeat this check for each new type the Slaad is effected by. The effect lasts for the encounter.
 
 d6 | Result
 -- | ------
@@ -756,7 +756,7 @@ d6 | Result
 4-5| Slaad is resistant to that type
 6  | Slaad is immune to that type
 
-**Regeneration:** The slaad regains 3d6 hit points at the start of its turn if it has 1 hitpoint. When a Slaad reaches 0 hitpoint, roll a d6. On a 6, the Slaad immediately performs regeneration. If the Slaad gets the maximum result on this special regeneration roll, it instead becomes a [death slaad](#death-slaad) at the start of its next turn.
+**Regeneration** The slaad regains 3d6 hit points at the start of its turn if it has 1 hitpoint. When a Slaad reaches 0 hitpoint, roll a d6. On a 6, the Slaad immediately performs regeneration. If the Slaad gets the maximum result on this special regeneration roll, it instead becomes a [death slaad](#death-slaad) at the start of its next turn.
 
 #### Actions
 **Multiattack.** Make 3 attacks, which can be any combination of Limb and Surge of Chaos

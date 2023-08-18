@@ -1,23 +1,23 @@
-# Beetle
-The humble beetle exists all over Azgaarnoth.
+# Centipede
+Typically, the centipede is of no threat (or even interest, except perhaps as material components for spells), but its larger kin can be unnerving--and deadly.
 
-> Jump to: [Giant Fire Beetle](#giant-fire-beetle) | [Swarm of Beetles](#swarm-of-beetles)
+> Jump to: [Carrion Crawler]() | [Giant Centipede](#giant-centipede) | [Swarm of Centipedes](#swarm-of-centipedes)
 
 ---
 
-## Giant Fire Beetle
-A giant fire beetle is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle’s glands continue to shed light for 1d6 days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.
+## Giant Centipede
+Giant centipedes can be found in many cavern systems across Azgaarnoth, particularly close to easy sources of food (such as down-on-their-luck kobold tribes).
 
->### Giant Fire Beetle
+>### Giant Centipede
 >*Small beast, unaligned*
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 4 (1d6 + 1)
->- **Speed** 30 ft.
+>- **Speed** 30 ft., climb 30 ft.
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|8 (-1)|10 (+0)|12 (+1)|1 (-5)|7 (-2)|3 (-4)|
+>|5 (-3)|14 (+2)|12 (+1)|1 (-5)|7 (-2)|3 (-4)|
 >
 >___
 >- **Proficiency Bonus** +0
@@ -29,25 +29,23 @@ A giant fire beetle is a nocturnal creature that takes its name from a pair of g
 >- **Skills** 
 >- **Senses** blindsight 30 ft.,passive Perception 8
 >- **Languages** —
->- **Challenge** 0
+>- **Challenge** 1/4
 >___
->***Illumination.*** The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
->
 >#### Actions
->***Bite.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 − 1) slashing damage.
+>***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 >
 
 ---
 
-## Swarm of Beetles
+## Swarm of Centipedes
 The swarms presented here aren’t ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. Even druids can’t charm these swarms, and their aggressiveness is borderline unnatural.
 
->### Swarm of Beetles
+>### Swarm of Centipedes
 >*Medium swarm, unaligned*
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 22 (5d8)
->- **Speed** 20 ft., climb 20 ft., burrow 5 ft.
+>- **Speed** 20 ft., climb 20 ft.
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -68,5 +66,6 @@ The swarms presented here aren’t ordinary or benign assemblies of little creat
 >***Swarm.***. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can’t regain hit points or gain temporary hit points.
 >
 >#### Actions
->***Bites.***. Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm’s space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
+>***Bites.***. Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm’s space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer. A creature reduced to 0 hit points by a swarm of centipedes is stable but poisoned for 1 hour, even after regaining hit points, and paralyzed while poisoned in this way.
 >
+

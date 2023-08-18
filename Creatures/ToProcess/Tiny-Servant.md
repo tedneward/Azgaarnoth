@@ -1,11 +1,11 @@
 # Tiny Servant
 *Tiny Construct*
 
-**Armor Class:** 15 (natural armor)
+**Armor Class** 15 (natural armor)
 
-**Hit Points:** 10 (4d4)
+**Hit Points** 10 (4d4)
 
-**Speed:** 30ft., climb 30 ft.
+**Speed** 30ft., climb 30 ft.
 
 **STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
 -------|-------|-------|-------|-------|-------
@@ -13,13 +13,13 @@
 
 **Damage Immunities** poison, psychic
 
-**Condition Immunities:** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
+**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
 
-**Senses:** blindsight 60 ft. (blind beyond this radius), passive Perception 10
+**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
 
-**Languages:** —
+**Languages** —
 
-**Challenge:** —
+**Challenge** —
 
 #### Actions
 **Slam.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage.

@@ -1,7 +1,7 @@
 # Spider
 You know you hate them just as much as I do.
 
-> Jump to: [Spider](#spider-1) | [Giant Spider](#giant-spider) | [Giant Wolf Spider](#giant-wolf-spider) | [Phase Spider](#phase-spider)
+> Jump to: [Spider](#spider-1) | [Giant Spider](#giant-spider) | [Giant Wolf Spider](#giant-wolf-spider) | [Phase Spider](#phase-spider) | [Swarm of Spiders]()
 
 ---
 
@@ -155,4 +155,44 @@ A phase spider possesses the magical ability to phase in and out of the Ethereal
 >
 >#### Actions
 >***Bite.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+>
+
+---
+
+## Swarm of Spiders
+The swarm presented here isn’t ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. Even druids can’t charm these swarms, and their aggressiveness is borderline unnatural.
+
+>### Swarm of Insects
+>*Medium swarm, unaligned*
+>___
+>- **Armor Class** 12 (natural armor)
+>- **Hit Points** 22 (5d8)
+>- **Speed** 20 ft., climb 20 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|3 (-4)|13 (+1)|10 (+0)|1 (-5)|7 (-2)|1 (-5)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** bludgeoning,piercing,slashing
+>- **Damage Immunities** 
+>- **Condition Immunities** charmed,frightened,grappled,paralyzed,petrified,prone,restrained,stunned
+>- **Skills** 
+>- **Senses** blindsight 10 ft.,passive Perception 8
+>- **Languages** —
+>- **Challenge** 1/2
+>___
+>***Swarm.***. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can’t regain hit points or gain temporary hit points.
+>
+>***Spider Climb.***. The swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+>
+>***Web Sense.***. While in contact with a web, the swarm knows the exact location of any other creature in contact with the same web.
+>
+>***Web Walker.***. The swarm ignores movement restrictions caused by webbing.
+>
+>#### Actions
+>***Bites.***. Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm’s space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 >

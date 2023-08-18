@@ -1,23 +1,22 @@
-# Beetle
-The humble beetle exists all over Azgaarnoth.
+# Wasp
+Typically, the wasp is of no threat, but its larger kin, or a lot of them, can be unnerving--and deadly.
 
-> Jump to: [Giant Fire Beetle](#giant-fire-beetle) | [Swarm of Beetles](#swarm-of-beetles)
+> Jump to: [Giant Wasp](#giant-wasp) | [Swarm of Wasps](#swarm-of-wasps)
 
 ---
 
-## Giant Fire Beetle
-A giant fire beetle is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle’s glands continue to shed light for 1d6 days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.
+## Giant Wasp
 
->### Giant Fire Beetle
->*Small beast, unaligned*
+>### Giant Wasp
+>*Medium beast, unaligned*
 >___
->- **Armor Class** 13 (natural armor)
->- **Hit Points** 4 (1d6 + 1)
->- **Speed** 30 ft.
+>- **Armor Class** 12
+>- **Hit Points** 13 (3d8)
+>- **Speed** 10 ft., fly 50 ft.
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|8 (-1)|10 (+0)|12 (+1)|1 (-5)|7 (-2)|3 (-4)|
+>|10 (+0)|14 (+2)|10 (+0)|1 (-5)|10 (+0)|3 (-4)|
 >
 >___
 >- **Proficiency Bonus** +0
@@ -27,27 +26,25 @@ A giant fire beetle is a nocturnal creature that takes its name from a pair of g
 >- **Damage Immunities** 
 >- **Condition Immunities** 
 >- **Skills** 
->- **Senses** blindsight 30 ft.,passive Perception 8
+>- **Senses** passive Perception 10
 >- **Languages** —
->- **Challenge** 0
+>- **Challenge** 1/2
 >___
->***Illumination.*** The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
->
 >#### Actions
->***Bite.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 − 1) slashing damage.
+>***Sting.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 >
 
 ---
 
-## Swarm of Beetles
+## Swarm of Wasps
 The swarms presented here aren’t ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. Even druids can’t charm these swarms, and their aggressiveness is borderline unnatural.
 
->### Swarm of Beetles
+>### Swarm of Wasps
 >*Medium swarm, unaligned*
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 22 (5d8)
->- **Speed** 20 ft., climb 20 ft., burrow 5 ft.
+>- **Speed** 5 ft., fly 30 ft.
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -68,5 +65,5 @@ The swarms presented here aren’t ordinary or benign assemblies of little creat
 >***Swarm.***. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can’t regain hit points or gain temporary hit points.
 >
 >#### Actions
->***Bites.***. Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm’s space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
+>***Bites.***. Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm’s space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer. 
 >
