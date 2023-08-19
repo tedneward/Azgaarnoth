@@ -1,0 +1,432 @@
+Ogres
+Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
+
+---
+
+Ogre
+Furious Tempers. Ogres are notorious for their quick tempers, which flare at the smallest perceived offense. Insults and name-calling can rouse an ogre’s wrath in an instant — as can stealing from it, bumping, jabbing, or prodding it, laughing, making faces, or simply looking at it the wrong way. When its rage is incited, an ogre lashes out in a frustrated tantrum until it runs out of objects or creatures to smash.
+
+Gruesome Gluttons. Ogres eat almost anything, but they especially enjoy the taste of dwarves, halflings, and elves. When they can, they combine dinner with pleasure, chasing scurrying victims around before eating them raw. If enough of its victim remains after the ogre has gorged itself, it might make a loincloth from its quarry’s skin and a necklace from its leftover bones. This macabre crafting is the height of ogre culture.
+
+Greedy Collectors. An ogre’s eyes glitter with avarice when it sees the possessions of others. Ogres carry rough sacks on their raids, which they fill with fabulous “treasure” taken from their victims. This might include a collection of battered helmets, a moldy wheel of cheese, a rough patch of animal fur fastened like a cloak, or a squealing, mud-spattered pig. Ogres also delight in the gleam of gold and silver, and they will fight one another over small handfuls of coins. Smarter creatures can earn an ogre’s trust by offering it gold or a weapon forged for a creature of its size.
+
+Legendary Stupidity. Few ogres can count to ten, even with their fingers in front of them. Most speak only a rudimentary form of Giant and know a smattering of Common words. Ogres believe what they are told and are easy to fool or confuse, but they break things they don’t understand. Silver-tongued tricksters who test their talents on ogres typically end up eating their eloquent words — and then being eaten in turn.
+
+Opportunistic Wanderers. Ogres clothe themselves in animal pelts and uproot trees for use as tools and weapons. They create stone-tipped javelins for hunting. When they establish lairs, they settle near the rural edges of settled lands, taking advantage of poorly protected livestock, undefended larders, and unwary farmers.
+
+An ogre sleeps in caves, animal dens, or under trees until it finds a cabin or isolated farmhouse, whereupon it kills the inhabitants and lairs there. Whenever it is bored or hungry, an ogre ventures out from its lair, attacking anything that crosses its path. Only after an ogre has depleted an area of food does it move on.
+
+Ogre Gangs. Ogres sometimes band together in small, nomadic groups, but they lack a true sense of tribalism. When bands of ogres meet, one might attempt to capture the members of the other group to increase its numbers. However, ogre bands are just as likely to trade members freely, especially if the welcoming band is temporarily flush with food and weapons.
+
+Whenever possible, ogres gang up with other monsters to bully or prey on creatures weaker than themselves. They associate freely with goblinoids, orcs, and trolls, and practically worship giants. In the giants’ complex social structure (known as the ordning), ogres rank beneath the lowest giants in status. As a result, an ogre will do nearly anything a giant asks.
+
+OGRE
+Large giant, chaotic evil
+
+Armor Class 11 (hide armor)
+
+Hit Points 59 (7d10 + 21)
+
+Speed 40 ft.
+
+STR
+19 (+4)
+DEX
+8 (−1)
+CON
+16 (+3)
+INT
+5 (−3)
+WIS
+7 (−2)
+CHA
+7 (−2)
+Senses darkvision 60 ft., passive Perception 8
+
+Languages Common, Giant
+
+Challenge 2 (450 XP)
+
+Actions
+
+Greatclub. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
+
+Javelin. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
+
+
+---
+
+Half-Ogre (Ogrillon)
+The offspring of an ogre and a human, a hobgoblin, a bugbear, or an orc is a half-ogre, also called an ogrillon when the non-ogre parent is an orc. An adult half-ogre stands 8 feet tall and weighs 450 pounds on average.
+
+HALF-OGRE
+Large giant, any chaotic alignment
+
+Armor Class 12 (hide armor)
+
+Hit Points 30 (4d10 + 8)
+
+Speed 30 ft.
+
+STR
+17 (+3)
+DEX
+10 (+0)
+CON
+14 (+2)
+INT
+7 (−2)
+WIS
+9 (−1)
+CHA
+10 (+0)
+Senses darkvision 60 ft., passive Perception 9
+
+Languages Common, Giant
+
+Challenge 1 (200 XP)
+
+Actions
+
+Battleaxe. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage if used with two hands.
+
+Javelin. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
+
+---
+
+Oni
+In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of children and adults alike, yet they are very real and always hungry. They find human babies especially delicious. Oni look like demonic ogres with blue or green skin, dark hair, and a pair of short ivory horns protruding from their foreheads. Their eyes are dark with strikingly white pupils, and their teeth and claws are jet black.
+
+Night Haunters. By the light of day, an oni hides its true form with magic, gaining the trust of those it intends to betray when darkness descends. These creatures can change their size as well as their shape, appearing as humanoids as they pass through towns, pretending to be travelers, woodcutters, or frontier folk. In such a form, an oni takes stock of the selection of humanoids in a settlement and devises ways to abduct and devour some of them.
+
+Magical Ogres. Oni are sometimes called ogre mages because of their innate magical ability. Though they are only distantly related to true ogres, they share the ogres’ habit of joining forces with other evil creatures. An oni serves a master if doing so proves lucrative or provides it with a luxurious, well-defended home. Oni covet magic, and they work for evil wizards and hags in exchange for useful magic items.
+
+ONI
+Large giant, lawful evil
+
+Armor Class 16 (chain mail)
+
+Hit Points 110 (13d10 + 39)
+
+Speed 30 ft., fly 30 ft.
+
+STR
+19 (+4)
+DEX
+11 (+0)
+CON
+16 (+3)
+INT
+14 (+2)
+WIS
+12 (+1)
+CHA
+15 (+2)
+Saving Throws Dex +3, Con +6, Wis +4, Cha +5
+
+Skills Arcana +5, Deception +8, Perception +4
+
+Senses darkvision 60 ft., passive Perception 14
+
+Languages Common, Giant
+
+Challenge 7 (2,900 XP)
+
+Innate Spellcasting. The oni’s innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:
+
+At will: darkness, invisibility
+
+1/day each: charm person, cone of cold, gaseous form, sleep
+
+Magic Weapons. The oni’s weapon attacks are magical.
+
+Regeneration. The oni regains 10 hit points at the start of its turn if it has at least 1 hit point.
+
+Actions
+
+Multiattack. The oni makes two attacks, either with its claws or its glaive.
+
+Claw (Oni Form Only). Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
+
+Glaive. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small or Medium form.
+
+Change Shape. The oni magically polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.
+
+===
+
+Orcs
+
+Orcs are burly raiders with prominent lower canines that resemble tusks.
+
+Gruumsh One-Eye. Orcs worship Gruumsh, the mightiest of the orc deities and their creator. The orcs believe that in ancient days, the gods gathered to divide the world among their followers. When Gruumsh claimed the mountains, he learned they had been taken by the dwarves. He laid claim to the forests, but those had been settled by the elves. Each place that Gruumsh wanted had already been claimed. The other gods laughed at Gruumsh, but he responded with a furious bellow. Grasping his mighty spear, he laid waste to the mountains, set the forests aflame, and carved great furrows in the fields. Such was the role of the orcs, he proclaimed, to take and destroy all that the other races would deny them. To this day, the orcs wage an endless war on humans, elves, dwarves, and other folk.
+
+Orcs hold a particular hatred for elves. The elven god Corellon Larethian half-blinded Gruumsh with a well-placed arrow to the orc god’s eye. Since then, the orcs have taken particular joy in slaughtering elves. Turning his injury into a baleful gift, Gruumsh grants divine might to any champion who willingly plucks out one of its eyes in his honor.
+
+Tribes Like Plagues. Orcs gather in tribes that exert their dominance and satisfy their bloodlust by plundering villages, devouring or driving off roaming herds, and slaying any humanoids that stand against them. After savaging a settlement, orcs pick it clean of wealth and items usable in their own lands. They set the remains of villages and camps ablaze, then retreat whence they came, their bloodlust satisfied.
+
+Ranging Scavengers. Their lust for slaughter demands that orcs dwell always within striking distance of new targets. As such, they seldom settle permanently, instead converting ruins, cavern complexes, and defeated foes’ villages into fortified camps and strongholds. Orcs build only for defense, making no innovation or improvement to their lairs beyond mounting the severed body parts of their victims on spiked stockade walls or pikes jutting up from moats and trenches.
+
+---
+
+Orc
+When an existing territory is depleted of food, an orc tribe divides into roving bands that scout for choice hunting grounds. When each party returns, it brings back trophies and news of targets ripe for attack, the richest of which is chosen. The tribe then sets out en masse to carve a bloody path to its new territory.
+
+On rare occasions, a tribe’s leader chooses to hold onto a particularly defensible lair for decades. The orcs of such a tribe must range far across the countryside to sate their appetites.
+
+Leadership and Might. Orc tribes are mostly patriarchal, flaunting such vivid or grotesque titles as Many-Arrows, Screaming Eye, and Elf Ripper. Occasionally, a powerful war chief unites scattered orc tribes into a single rampaging horde, which runs roughshod over other orc tribes and humanoid settlements from a position of overwhelming strength.
+
+Strength and power are the greatest of orcish virtues, and orcs embrace all manner of mighty creatures in their tribes. They proudly welcome ogres, trolls, half-orcs, and orogs into their ranks. As well, orcs respect and fear the size and power of evil giants, and often serve them as guards and soldiers.
+
+Orc Progeny with Non-Orcs. The offspring of an orc and a non-orc humanoid of similar stature is either an orc or a half-orc. When an orc produces young with an ogre, the child is a half-ogre of intimidating strength and brutish features called an ogrillon.
+
+ORC
+Medium humanoid (orc), chaotic evil
+
+Armor Class 13 (hide armor)
+
+Hit Points 15 (2d8 + 6)
+
+Speed 30 ft.
+
+STR
+16 (+3)
+DEX
+12 (+1)
+CON
+16 (+3)
+INT
+7 (−2)
+WIS
+11 (+0)
+CHA
+10 (+0)
+Skills Intimidation +2
+
+Senses darkvision 60 ft., passive Perception 10
+
+Languages Common, Orc
+
+Challenge 1/2 (100 XP)
+
+Aggressive. As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
+
+Actions
+
+Greataxe. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.
+
+Javelin. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+
+---
+
+Orc War Chief
+The war chief of an orc tribe is its strongest and most cunning member. The reign of a war chief lasts only as long as it commands the fear and respect of other tribe members, whose bloodlust must be regularly satisfied lest the chief appear weak.
+
+Scions of Slaughter. Gruumsh bestows special blessings upon war chiefs who prove themselves in battle time and again, imbuing them with slivers of his savagery. A war chief so blessed finds that his weapons cut deeper into his enemies, allowing him to inflict more carnage.
+
+ORC WAR CHIEF
+Medium humanoid (orc), chaotic evil
+
+Armor Class 16 (chain mail)
+
+Hit Points 93 (11d8 + 44)
+
+Speed 30 ft.
+
+STR
+18 (+4)
+DEX
+12 (+1)
+CON
+18 (+4)
+INT
+11 (+0)
+WIS
+11 (+0)
+CHA
+16 (+3)
+Saving Throws Str +6, Con +6, Wis +2
+
+Skills Intimidation +5
+
+Senses darkvision 60 ft., passive Perception 10
+
+Languages Common, Orc
+
+Challenge 4 (1,100 XP)
+
+Aggressive. As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
+
+Gruumsh’s Fury. The orc deals an extra 4 (1d8) damage when it hits with a weapon attack (included in the attacks).
+
+Actions
+
+Multiattack. The orc makes two attacks with its greataxe or its spear.
+
+Greataxe. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 15 (1d12 + 4 plus 1d8) slashing damage.
+
+Spear. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 12 (1d6 + 4 plus 1d8) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
+
+Battle Cry (1/Day). Each creature of the war chief’s choice that is within 30 feet of it, can hear it, and not already affected by Battle Cry gain advantage on attack rolls until the start of the war chief’s next turn. The war chief can then make one attack as a bonus action.
+
+---
+
+Orc Eye of Gruumsh
+When an orc slays an elf in Gruumsh’s name and offers the corpse of its foe as a sacrifice to the god of slaughter, an aspect of the god might appear. This aspect demands an additional sacrifice: one of the orc’s eyes, symbolizing the loss Gruumsh suffered at the hands of his greatest enemy, Corellon Larethian.
+
+If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting ability and special favor, along with the right to call itself an Eye of Gruumsh. When not using their auguries to advise their war chiefs, these devotees of the god of slaughter hurl themselves into battle, their weapons stained with blood.
+
+ORC EYE OF GRUUMSH
+Medium humanoid (orc), chaotic evil
+
+Armor Class 16 (ring mail, shield)
+
+Hit Points 45 (6d8 + 18)
+
+Speed 30 ft.
+
+STR
+16 (+3)
+DEX
+12 (+1)
+CON
+16 (+3)
+INT
+9 (−1)
+WIS
+13 (+1)
+CHA
+12 (+1)
+Skills Intimidation +3, Religion +1
+
+Senses darkvision 60 ft., passive Perception 11
+
+Languages Common, Orc
+
+Challenge 2 (450 XP)
+
+Aggressive. As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
+
+Gruumsh’s Fury. The orc deals an extra 4 (1d8) damage when it hits with a weapon attack (included in the attack).
+
+Spellcasting. The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The orc has the following cleric spells prepared:
+
+Cantrips (at-will): guidance, resistance, thaumaturgy
+
+1st level (4 slots): bless, command
+
+2nd level (2 slots): augury, spiritual weapon (spear)
+
+Actions
+
+Spear. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (1d6 + 3 plus 1d8) piercing damage, or 12 (2d8 + 3) piercing damage if used with two hands to make a melee attack.
+
+---
+
+Orog
+Orogs are orcs blessed with a surprisingly keen intellect that ordinary orcs believe is a gift from the orc goddess Luthic. Like Luthic, orogs prefer to live underground, although the scarcity of food often brings them to the surface to hunt. Orcs respect an orog’s strength and cunning, and a lone orog might command an orc war band.
+
+Stronger and Smarter. An orog uses its strength to bully other orcs and its intelligence to surprise enemies on the battlefield. Many an overconfident elf, human, or dwarf commander has watched a “simple” orc warlord execute a clever maneuver to outflank and destroy an opposing force, not realizing the orc is an orog.
+
+When encountered in great numbers, orogs form their own detachments within much larger orc hordes, and they are always at the forefront of any attack, relying on their superior strength and tactical insight to overcome anything that stands in their way.
+
+Few orc tribes actively seek out orogs to bolster their ranks. The orogs’ superiority makes them ideal leaders, and thus deadly rivals to orc war chiefs, who must be wary of orog treachery.
+
+Detached Killers. Wanting nothing more than to hack their enemies to pieces, orogs are a terrifying presence on the battlefield. They form no attachments, even to their parents and siblings, and have no concept of love or dedication. They worship the orc pantheon of gods — Gruumsh and Luthic foremost — because they believe that the gods have strength beyond reason, and physical might is all they respect.
+
+Servants of Darkness. Mistrusted by orcs, some orogs form independent mercenary war bands that sell themselves to the highest bidder. As long as they are rewarded, orog mercenaries gladly serve as elite warriors and shock troops for evil wizards, depraved giants, and other villains.
+
+OROG
+Medium humanoid (orc), chaotic evil
+
+Armor Class 18 (plate)
+
+Hit Points 42 (5d8 + 20)
+
+Speed 30 ft.
+
+STR
+18 (+4)
+DEX
+12 (+1)
+CON
+18 (+4)
+INT
+12 (+1)
+WIS
+11 (+0)
+CHA
+12 (+1)
+Skills Intimidation +5, Survival +2
+
+Senses darkvision 60 ft., passive Perception 10
+
+Languages Common, Orc
+
+Challenge 2 (450 XP)
+
+Aggressive. As a bonus action, the orog can move up to its speed toward a hostile creature that it can see.
+
+Actions
+
+Multiattack. The orog makes two greataxe attacks.
+
+Greataxe. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.
+
+Javelin. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+
+===
+
+Otyugh
+An otyugh is a grotesque, bulbous creature borne along on three sturdy legs, its eyes and nose set along a vine-like stalk that snakes from the top of its bloated body. Two rubbery tentacles end in spiky, leaf-like appendages that the otyugh uses to shovel food into its gaping maw.
+
+An otyugh buries itself under mounds of offal and carrion, leaving only its sensory stalk exposed. When an edible creature happens by, the otyugh’s tentacles erupt from the filth and grab hold of it.
+
+Otyughs make the most of any opportunity to ambush and devour prey. They use a limited form of telepathy to urge sentient creatures toward their lairs, sometimes by pretending to be something else.
+
+Dwellers in Darkness. Otyughs tolerate bright light only when considerable stores of carrion or garbage lie within reach. In the wilderness, they dwell in stagnant swamps, scum-filled ponds, and damp forest dells. The scent of graveyards, city sewers, village middens, and manure-filled animal pens attracts them to civilized areas.
+
+Since otyughs lack concern for anything but food, their nests sometimes accumulate a variety of treasures shed from their victims and mixed among the junk.
+
+Symbiotic Guardians. Sentient subterranean beings can coexist with otyughs, employing them as garbage disposals. With such plentiful sustenance, otyughs grow fat in their wallows, unmoved by any other drive or desire. This sedentary gluttony makes them reliable guardians. As long as it is fed, an otyugh refrains from attacking other creatures. However, would-be otyugh masters can easily underestimate the quantity of waste, carrion, and meat necessary to keep an otyugh from wandering off in search of food. More than one “trained” otyugh has eaten its keeper after devouring all the waste in its wallow.
+
+OTYUGH
+Large aberration, neutral
+
+Armor Class 14 (natural armor)
+
+Hit Points 114 (12d10 + 48)
+
+Speed 30 ft.
+
+STR
+16 (+3)
+DEX
+11 (+0)
+CON
+19 (+4)
+INT
+6 (−2)
+WIS
+13 (+1)
+CHA
+6 (−2)
+Saving Throws Con +7
+
+Senses darkvision 120 ft., passive Perception 11
+
+Languages Otyugh
+
+Challenge 5 (1,800 XP)
+
+Limited Telepathy. The otyugh can magically transmit simple messages and images to any creature within 120 feet of it that can understand a language. This form of telepathy doesn’t allow the receiving creature to telepathically respond.
+
+Actions
+
+Multiattack. The otyugh makes three attacks: one with its bite and two with its tentacles.
+
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target’s hit point maximum lasts until the disease is cured.
+
+Tentacle. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage. If the target is Medium or smaller, it is grappled (escape DC 13) and restrained until the grapple ends. The otyugh has two tentacles, each of which can grapple one target.
+
+Tentacle Slam. The otyugh slams creatures grappled by it into each other or a solid surface. Each creature must succeed on a DC 14 Constitution saving throw or take 10 (2d6 + 3) bludgeoning damage and be stunned until the end of the otyugh’s next turn. On a successful save, the target takes half the bludgeoning damage and isn’t stunned.
+
