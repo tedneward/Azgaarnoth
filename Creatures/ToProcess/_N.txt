@@ -1,0 +1,304 @@
+
+Nagas
+Nagas are intelligent serpents that inhabit the ruins of the past, amassing arcane treasures and knowledge.
+
+The first nagas were created as immortal guardians by a humanoid race long lost to history. When this race died out, the nagas deemed themselves the rightful inheritors of their masters’ treasures and magical lore. Industrious and driven, nagas occasionally venture out from their lairs to track down magic items or rare spellbooks.
+
+Nagas never feel the ravages of time or succumb to sickness. Even if it is struck down, a naga’s immortal spirit reforms in a new body in a matter of days, ready to continue its eternal work.
+
+Benevolent Dictators and Brutal Tyrants. A naga rules its domain with absolute authority. Whether it rules with compassion or by terrorizing its subjects, the naga believes itself the master of all other creatures that inhabit its domain.
+
+Rivalry. Nagas have a long-standing enmity with the yuan-ti, with each race seeing itself as the epitome of serpentine evolution. Though cooperation between them is rare, nagas and yuan-ti sometimes set aside their differences to work toward common objectives. However, yuan-ti always chafe under a naga’s authority.
+
+Immortal Nature. A naga doesn’t require air, food, drink, or sleep.
+
+---
+
+Bone Naga
+In response to the long history of conflict between the yuan-ti and the nagas, yuan-ti created a necromantic ritual that could halt a naga’s resurrection by transforming the living naga into a skeletal undead servitor. A bone naga retains only a few of the spells it knew in life.
+
+BONE NAGA
+Large undead, lawful evil
+
+Armor Class 15 (natural armor)
+
+Hit Points 58 (9d10 + 9)
+
+Speed 30 ft.
+
+STR
+15 (+2)
+DEX
+16 (+3)
+CON
+12 (+1)
+INT
+15 (+2)
+WIS
+15 (+2)
+CHA
+16 (+3)
+Damage Immunities poison
+
+Condition Immunities charmed, exhaustion, paralyzed, poisoned
+
+Senses darkvision 60 ft., passive Perception 12
+
+Languages Common plus one other language
+
+Challenge 4 (1,100 XP)
+
+Spellcasting. The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell attacks) that needs only verbal components to cast its spells.
+
+If the naga was a guardian naga in life, its spellcasting ability is Wisdom, and it has the following cleric spells prepared:
+
+Cantrips (at will): mending, sacred flame, thaumaturgy
+
+1st level (4 slots): command, shield of faith
+
+2nd level (3 slots): calm emotions, hold person
+
+3rd level (2 slots): bestow curse
+
+If the naga was a spirit naga in life, its spellcasting ability is Intelligence, and it has the following wizard spells prepared:
+
+Cantrips (at will): mage hand, minor illusion, ray of frost
+
+1st level (4 slots): charm person, sleep
+
+2nd level (3 slots): detect thoughts, hold person
+
+3rd level (2 slots): lightning bolt
+
+Actions
+
+Bite. Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit: 10 (2d6 + 3) piercing damage plus 10 (3d6) poison damage.
+
+---
+
+Guardian Naga
+Wise and good, the beautiful guardian nagas protect sacred places and items of magical power from falling into evil hands. In their hidden redoubts, they research spells and hatch convoluted plots to thwart the evil designs of their enemies.
+
+A guardian naga doesn’t seek out violence, warning off intruders rather than attacking. Only if its foes persist does the naga attack, accosting enemies with its spells and poisonous spittle.
+
+GUARDIAN NAGA
+Large monstrosity, lawful good
+
+Armor Class 18 (natural armor)
+
+Hit Points 127 (15d10 + 45)
+
+Speed 40 ft.
+
+STR
+19 (+4)
+DEX
+18 (+4)
+CON
+16 (+3)
+INT
+16 (+3)
+WIS
+19 (+4)
+CHA
+18 (+4)
+Saving Throws Dex +8, Con +7, Int +7, Wis +8, Cha +8
+
+Damage Immunities poison
+
+Condition Immunities charmed, poisoned
+
+Senses darkvision 60 ft., passive Perception 14
+
+Languages Celestial, Common
+
+Challenge 10 (5,900 XP)
+
+Rejuvenation. If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.
+
+Spellcasting. The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:
+
+Cantrips (at will): mending, sacred flame, thaumaturgy
+
+1st level (4 slots): command, cure wounds, shield of faith
+
+2nd level (3 slots): calm emotions, hold person
+
+3rd level (3 slots): bestow curse, clairvoyance
+
+4th level (3 slots): banishment, freedom of movement
+
+5th level (2 slots): flame strike, geas
+
+6th level (1 slot): true seeing
+
+Actions
+
+Bite. Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit: 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+
+Spit Poison. Ranged Weapon Attack: +8 to hit, range 15/30 ft., one creature. Hit: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+
+---
+
+Spirit Naga
+Spirit nagas live in gloom and spitefulness, constantly plotting vengeance against creatures that have wronged them — or that they believe have wronged them. Lairing in dismal caverns and ruins, they devote their time to developing new spells and enslaving the mortals with which they surround themselves. A spirit naga likes to charm its foes, drawing them close so that it can sink its poisonous fangs into their flesh.
+
+“If you destroy me, I will return, and everyone you care about will suffer for it.”
+
+— Explictica Defilus, spirit naga
+
+SPIRIT NAGA
+Large monstrosity, chaotic evil
+
+Armor Class 15 (natural armor)
+
+Hit Points 75 (10d10 + 20)
+
+Speed 40 ft.
+
+STR
+18 (+4)
+DEX
+17 (+3)
+CON
+14 (+2)
+INT
+16 (+3)
+WIS
+15 (+2)
+CHA
+16 (+3)
+Saving Throws Dex +6, Con +5, Wis +5, Cha +6
+
+Damage Immunities poison
+
+Condition Immunities charmed, poisoned
+
+Senses darkvision 60 ft., passive Perception 12
+
+Languages Abyssal, Common
+
+Challenge 8 (3,900 XP)
+
+Rejuvenation. If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.
+
+Spellcasting. The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:
+
+Cantrips (at will): mage hand, minor illusion, ray of frost
+
+1st level (4 slots): charm person, detect magic, sleep
+
+2nd level (3 slots): detect thoughts, hold person
+
+3rd level (3 slots): lightning bolt, water breathing
+
+4th level (3 slots): blight, dimension door
+
+5th level (2 slots): dominate person
+
+Actions
+
+Bite. Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
+
+===
+
+Nightmare
+A nightmare appears in a cloud of roiling smoke, its mane, tail, and hooves wreathed in flame. The creature’s unearthly black form moves with supernatural speed, vanishing in a cloud of brimstone as quickly as it appeared.
+
+
+Dread Steed. Also called a “demon horse” or “hell horse,” the nightmare serves as a steed for creatures of exceptional evil, carrying demons, devils, death knights, liches, night hags, and other vile monsters. It resembles a fiendish horse, and a nightmare’s fiery red eyes betray its malevolent intelligence.
+
+A nightmare can be summoned from the Lower Planes, but unless a worthy sacrifice is offered to it as food upon its arrival, the nightmare displays no special loyalty to the creature it serves.
+
+Creating a Nightmare. Nightmares don’t appear naturally in the multiverse. They must be created from pegasi. The ritual that creates a nightmare requires the torturous removal of a pegasus’s wings, driving that noble creature to evil as it is transformed by dark magic.
+
+NIGHTMARE
+Large fiend, neutral evil
+
+Armor Class 13 (natural armor)
+
+Hit Points 68 (8d10 + 24)
+
+Speed 60 ft., fly 90 ft.
+
+STR
+18 (+4)
+DEX
+15 (+2)
+CON
+16 (+3)
+INT
+10 (+0)
+WIS
+13 (+1)
+CHA
+15 (+2)
+Damage Immunities fire
+
+Senses passive Perception 11
+
+Languages understands Abyssal, Common, and Infernal but can’t speak
+
+Challenge 3 (700 XP)
+
+Confer Fire Resistance. The nightmare can grant resistance to fire damage to anyone riding it.
+
+Illumination. The nightmare sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+
+Actions
+
+Hooves. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.
+
+Ethereal Stride. The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.
+
+===
+
+Nothic
+A baleful eye peers out from the darkness, its gleam hinting at a weird intelligence and unnerving malevolence. Most times, a nothic is content to watch, weighing and assessing the creatures it encounters. When driven to violence, it uses its horrific gaze to rot the flesh from its enemies’ bones.
+
+Cursed Arcanists. Rather than gaining the godlike supremacy they crave, some wizards who devote their lives to unearthing arcane secrets are reduced to creeping, tormented monsters by a dark curse left behind by Vecna, a powerful lich who, in some worlds, has transcended his undead existence to become a god of secrets. Nothics retain no awareness of their former selves, skulking amid the shadows and haunting places rich in magical knowledge, drawn by memories and impulses they can’t quite understand.
+
+Dark Oracles. Nothics possess a strange magical insight that allows them to extract knowledge from other creatures. This grants them unique understanding of secret and forbidden lore, which they share for a price. A nothic covets magic items, greedily accepting such gifts from creatures that seek out its knowledge.
+
+Lurkers in Magical Places. Nothics are notorious for infiltrating arcane academies and other places rich in magical learning. They are driven by the vague knowledge that there exists a method to reverse their condition. This isn’t a clear sense of purpose, but rather an obsessive tug at the end of the mind. Some nothics are clever enough to realize that this is merely part of the strange lesson for their folly, a false hope to drive them to seek out more arcane secrets.
+
+NOTHIC
+Medium aberration, neutral evil
+
+Armor Class 15 (natural armor)
+
+Hit Points 45 (6d8 + 18)
+
+Speed 30 ft.
+
+STR
+14 (+2)
+DEX
+16 (+3)
+CON
+16 (+3)
+INT
+13 (+1)
+WIS
+10 (+0)
+CHA
+8 (−1)
+Skills Arcana +3, Insight +4, Perception +2, Stealth +5
+
+Senses truesight 120 ft., passive Perception 12
+
+Languages Undercommon
+
+Challenge 2 (450 XP)
+
+Keen Sight. The nothic has advantage on Wisdom (Perception) checks that rely on sight.
+
+Actions
+
+Multiattack. The nothic makes two claw attacks.
+
+Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+
+Rotting Gaze. The nothic targets one creature it can see within 30 feet of it. The target must succeed on a DC 12 Constitution saving throw against this magic or take 10 (3d6) necrotic damage.
+
+Weird Insight. The nothic targets one creature it can see within 30 feet of it. The target must contest its Charisma (Deception) check against the nothic’s Wisdom (Insight) check. If the nothic wins, it magically learns one fact or secret about the target. The target automatically wins if it is immune to being charmed.

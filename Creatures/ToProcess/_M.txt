@@ -1,0 +1,974 @@
+Medusa
+As deadly as they are ravishing, the serpent-haired medusas suffer an immortal curse brought on by their vanity. They lurk in quiet exile among the tumbled ruins of their former lives, surrounded by the petrified remains of past admirers and would-be heroes.
+
+Immortal Splendor. Men and women who desire eternal youth, beauty, and adoration might pray to malicious gods, beg dragons for ancient magic, or seek out powerful archmages to fulfill their wishes. Others make sacrifices to demon lords or archdevils, offering all in exchange for this gift, oblivious to the curse that accompanies it. Those who strike such bargains gain physical beauty, restored youth, immortality, and the adoration of all who behold them, granting them the influence and power they so desire. However, after years of the living like a demigod among mortals, the price for their vanity and hubris is exacted, and they are forever transformed into medusas. A medusa’s hair turns into a nest of venomous serpents, and all who gaze upon the medusa are petrified, becoming stone monuments to its corruption.
+
+Medusa Lairs. Medusas live forever in seclusion, alienated from the world around them by their monstrous form and caprice. Their homes gradually fall into disrepair until they are little more than shadowy ruins covered with thorns and creepers, riddled with obstructions and hiding places. Foolhardy looters and adventurers who enter are often unaware of the medusa’s presence until the creature is among them.
+
+A medusa is subject to its own curse. By looking vainly on its reflection, it turns to stone as surely as any living mortal. As a result, a medusa destroys or removes any mirrors or reflective surfaces in its lair.
+
+MEDUSA
+Medium monstrosity, lawful evil
+
+Armor Class 15 (natural armor)
+
+Hit Points 127 (17d8 + 51)
+
+Speed 30 ft.
+
+STR
+10 (+0)
+DEX
+15 (+2)
+CON
+16 (+3)
+INT
+12 (+1)
+WIS
+13 (+1)
+CHA
+15 (+2)
+Skills Deception +5, Insight +4, Perception +4, Stealth +5
+
+Senses darkvision 60 ft., passive Perception 14
+
+Languages Common
+
+Challenge 6 (2,300 XP)
+
+Petrifying Gaze. When a creature that can see the medusa’s eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn’t incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the greater restoration spell or other magic.
+
+Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can’t see the medusa until the start of its next turn, when it can avert its eyes again. If the creature looks at the medusa in the meantime, it must immediately make the save. If the medusa sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze.
+
+Actions
+
+Multiattack. The medusa makes either three melee attacks — one with its snake hair and two with its shortsword — or two ranged attacks with its longbow.
+
+Snake Hair. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage.
+
+Shortsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+
+Longbow. Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
+
+===
+
+Merfolk
+
+Aquatic humanoids with the upper body of a human and the lower body of a fish, merfolk adorn their skin and scales with shell decorations.
+
+Merfolk tribes and kingdoms span the world, and their people are as varied in color, culture, and outlook as the human races of the surface. Land folk and merfolk rarely meet except by chance, though starry-eyed mariners tell tales of romance with these creatures along the shoals of faraway islands.
+
+Merfolk lack the materials and practical means to forge weapons beneath the waves, to write books and keep lore, or to shape stone to raise buildings and cities. As a result, most live in small hunter-gatherer tribes, each of which holds unique values and creeds. Only occasionally do merfolk unite under the rule of a single leader. They do so to face a common threat or to complete a conquest. Such unifications can be the beginning of undersea kingdoms with dynasties lasting hundreds of years.
+
+Merfolk Settlements. Merfolk build their settlements in vast undersea caverns, mazes of coral, the ruins of sunken cities, or structures they carve from the rocky seabed. They live in water shallow enough that the passage of time can be marked by the gleam and fade of sunlight through the water. In the reefs and trenches near their settlements, merfolk harvest coral and farm the seabed, shepherding schools of fish as land-based farmers tend sheep. Only rarely do merfolk venture into the darkest depths of the ocean. In such depths and in their undersea caverns, merfolk rely on the light of bioluminescent flora and fauna, such as jellyfish, whose slow pulsing movements lend merfolk settlements an otherworldly aesthetic.
+
+Merfolk defend their communities with spears crafted from whatever materials they can salvage from shipwrecks, beaches, and dead undersea creatures.
+
+MERFOLK
+Medium humanoid (merfolk), neutral
+
+Armor Class 11
+
+Hit Points 11 (2d8 + 2)
+
+Speed 10 ft., swim 40 ft.
+
+STR
+10 (+0)
+DEX
+13 (+1)
+CON
+12 (+1)
+INT
+11 (+0)
+WIS
+11 (+0)
+CHA
+12 (+1)
+Skills Perception +2
+
+Senses passive Perception 12
+
+Languages Aquan, Common
+
+Challenge 1/8 (25 XP)
+
+Amphibious. The merfolk can breathe air and water.
+
+Actions
+
+Spear. Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
+
+===
+
+Merrow
+Merrow haunt coastal waters, preying on fisherfolk, merfolk, and any other edible creature that crosses their path. These savage monsters snatch and devour unwary prey, hauling drowned corpses back to their underwater grottoes to feed.
+
+Transformed Merfolk. Long ago, a tribe of merfolk found an idol of Demogorgon at the bottom of the sea. Not knowing what it was, they brought the artifact to their king. Everyone who touched the idol became afflicted with madness, including the king, who decreed that a sacrificial ritual be performed to open a gateway to the Abyss. The ocean turned red with the blood of slaughtered merfolk, but the ritual worked, and the king led the survivors through the underwater gate to Demogorgon’s layer of the Abyss. The merfolk remained there for generations, fighting for their lives as the Abyss warped them completely, transforming them into hulking, evil monstrosities. Thus, the first merrow were born.
+
+Coastal Bullies. Whenever an opportunity presents itself, the Prince of Demons sends merrow back to the Material Plane to wreak havoc in the oceans. The merrow are bullies, attacking all creatures smaller and weaker than themselves.
+
+Merrow dwell in undersea caves filled with treasures and trophies, taken from their victims and sunken ships. They tie the rotting corpses of dead enemies and drowned sailors to strands of kelp to mark the borders of their territory.
+
+MERROW
+Large monstrosity, chaotic evil
+
+Armor Class 13 (natural armor)
+
+Hit Points 45 (6d10 + 12)
+
+Speed 10 ft., swim 40 ft.
+
+STR
+18 (+4)
+DEX
+10 (+0)
+CON
+15 (+2)
+INT
+8 (−1)
+WIS
+10 (+0)
+CHA
+9 (−1)
+Senses darkvision 60 ft., passive Perception 10
+
+Languages Abyssal, Aquan
+
+Challenge 2 (450 XP)
+
+Amphibious. The merrow can breathe air and water.
+
+Actions
+
+Multiattack. The merrow makes two attacks: one with its bite and one with its claws or harpoon.
+
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
+
+Claws. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage.
+
+Harpoon. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow.
+
+===
+
+Mimic
+Mimics are shapeshifting predators able to take on the form of inanimate objects to lure creatures to their doom. In dungeons, these cunning creatures most often take the form of doors and chests, having learned that such forms attract a steady stream of prey.
+
+Imitative Predators. Mimics can alter their outward texture to resemble wood, stone, and other basic materials, and they have evolved to assume the appearance of objects that other creatures are likely to come into contact with. A mimic in its altered form is nearly unrecognizable until potential prey blunders into its reach, whereupon the monster sprouts pseudopods and attacks.
+
+When it changes shape, a mimic excretes an adhesive that helps it seize prey and weapons that touch it. The adhesive is absorbed when the mimic assumes its amorphous form and on parts the mimic uses to move itself.
+
+Cunning Hunters. Mimics live and hunt alone, though they occasionally share their feeding grounds with other creatures. Although most mimics have only predatory intelligence, a rare few evolve greater cunning and the ability to carry on simple conversations in Common or Undercommon. Such mimics might allow safe passage through their domains or provide useful information in exchange for food.
+
+MIMIC
+Medium monstrosity (shapechanger), neutral
+
+Armor Class 12 (natural armor)
+
+Hit Points 58 (9d8 + 18)
+
+Speed 15 ft.
+
+STR
+17 (+3)
+DEX
+12 (+1)
+CON
+15 (+2)
+INT
+5 (−3)
+WIS
+13 (+1)
+CHA
+8 (−1)
+Skills Stealth +5
+
+Damage Immunities acid
+
+Condition Immunities prone
+
+Senses darkvision 60 ft., passive Perception 11
+
+Languages —
+
+Challenge 2 (450 XP)
+
+Shapechanger. The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
+
+Adhesive (Object Form Only). The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 13). Ability checks made to escape this grapple have disadvantage.
+
+False Appearance (Object Form Only). While the mimic remains motionless, it is indistinguishable from an ordinary object.
+
+Grappler. The mimic has advantage on attack rolls against any creature grappled by it.
+
+Actions
+
+Pseudopod. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait.
+
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
+
+===
+
+Mind Flayer
+
+Mind flayers, also called illithids, are the scourge of sentient creatures across countless worlds. Psionic tyrants, slavers, and interdimensional voyagers, they are insidious masterminds that harvest entire races for their own twisted ends. Four tentacles snake from their octopus-like heads, flexing in hungry anticipation when sentient creatures come near.
+
+In eons past, illithids controlled empires that spanned many worlds. They subjugated and consequently warped whole races of humanoid slaves, including the githyanki and githzerai, the grimlocks, and the kuo-toa. Conjoined by a collective consciousness, the illithids hatch plots as far-reaching and evil as their fathomless minds can conceive.
+
+Since the fall of their empires, illithid collectives on the Material Plane have resided in the Underdark.
+
+Psionic Commanders. Mind flayers possess psionic powers that enable them to control the minds of creatures such as troglodytes, grimlocks, quaggoths, and ogres. Illithids prefer to communicate via telepathy and use their telepathy when issuing commands to their thralls.
+
+When an illithid meets strong resistance, it avoids initial combat as it orders its thralls to attack. Like physical extensions of the illithid’s thoughts, these thralls interpose themselves between the mind flayer and its foes, sacrificing their lives so that their master can escape.
+
+Hive Mind Colonies. Solitary mind flayers are likely rogues and outcasts. Most illithids belong to a colony of sibling mind flayers devoted to an elder brain — a massive brain-like being that resides in a briny pool near the center of a mind flayer community. From its pool, an elder brain telepathically dictates its desires to each individual mind flayer within 5 miles of it, for it is able to hold multiple mental conversations at once.
+
+Hunger of the Mind. Illithids subsist on the brains of humanoids. The brains provide enzymes, hormones, and psychic energy necessary for their survival. An illithid healthy from a brain-rich diet secretes a thin glaze of mucus that coats its mauve skin.
+
+An illithid experiences euphoria as it devours the brain of a humanoid, along with its memories, personality, and innermost fears. Mind flayers will sometimes harvest a brain rather than devour it, using it as part of some alien experiment or transforming it into an intellect devourer.
+
+Quallith. On the rare occasion that mind flayers need to write something down, they do so in Qualith. This system of tactile writing (similar to braille) is read by an illithid’s tentacles. Qualith is written in four-line stanzas and is so alien in construction that non-illithids must resort to magic to discern its meaning. Though Qualith can be used to keep records, illithids most often use it to mark portals or other surfaces with warnings or instructions.
+
+Variant--Mind Flayer Arcanist. A few mind flayers supplement their psionic power with arcane spells. However, they are regarded as deviants by their illithid peers and usually shunned. A mind flayer arcanist has a challenge rating of 8 (3,900 XP) and the following trait.
+
+Spellcasting. The mind flayer is a 10th-level spellcaster. Its spellcasting ability is Intelligence (save DC 15, +7 to hit with spell attacks). The mind flayer has the following wizard spells prepared:
+
+Cantrips (at will): blade ward, dancing lights, mage hand, shocking grasp
+
+1st level (4 slots): detect magic, disguise self, shield, sleep
+
+2nd level (3 slots): blur, invisibility, ray of enfeeblement
+
+3rd level (3 slots): clairvoyance, lightning bolt, sending
+
+4th level (3 slots): confusion, hallucinatory terrain
+
+5th level (2 slots): telekinesis, wall of force
+
+MIND FLAYER
+Medium aberration, lawful evil
+
+Armor Class 15 (breastplate)
+
+Hit Points 71 (13d8 + 13)
+
+Speed 30 ft.
+
+STR
+11 (+0)
+DEX
+12 (+1)
+CON
+12 (+1)
+INT
+19 (+4)
+WIS
+17 (+3)
+CHA
+17 (+3)
+Saving Throws Int +7, Wis +6, Cha +6
+
+Skills Arcana +7, Deception +6, Insight +6, Perception +6, Persuasion +6, Stealth +4
+
+Senses darkvision 120 ft., passive Perception 16
+
+Languages Deep Speech, Undercommon, telepathy 120 ft.
+
+Challenge 7 (2,900 XP)
+
+Magic Resistance. The mind flayer has advantage on saving throws against spells and other magical effects.
+
+Innate Spellcasting (Psionics). The mind flayer’s innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
+
+At will: detect thoughts, levitate
+
+1/day each: dominate monster, plane shift (self only)
+
+Actions
+
+Tentacles. Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 15 (2d10 + 4) psychic damage. If the target is Medium or smaller, it is grappled (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be stunned until this grapple ends.
+
+Extract Brain. Melee Weapon Attack: +7 to hit, reach 5 ft., one incapacitated humanoid grappled by the mind flayer. Hit: The target takes 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the mind flayer kills the target by extracting and devouring its brain.
+
+Mind Blast (Recharge 5–6). The mind flayer magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take 22 (4d8 + 4) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+===
+
+Minotaur
+A minotaur’s roar is a savage battle cry that most civilized creatures fear. Born into the mortal realm by demonic rites, minotaurs are savage conquerors and carnivores that live for the hunt. Their brown or black fur is stained with the blood of fallen foes, and they carry the stench of death.
+
+The Beast Within. Most minotaurs are solitary carnivores that roam labyrinthine dungeons, twisting caves, primeval woods, and the maze-like streets and passages of desolate ruins. A minotaur can visualize every route it might take to close the distance to its prey.
+
+The scent of blood, the tearing of flesh, and the cracking of bones spur a minotaur’s lust for carnage, overwhelming all thought and reason. In a blood rage, a minotaur charges anything it sees, butting and goring like a battering ram, then chopping the fallen in twain.
+
+
+Apart from ambushing creatures that wander into its labyrinth, a minotaur cares little for strategy or tactics. Minotaurs seldom organize, they don’t respect authority or hierarchy, and they are notoriously difficult to enslave, let alone control.
+
+Cults of the Horned King. Minotaurs are the dark descendants of humanoids transformed by the rituals of cults that reject the oppression of authority by returning to nature. Inductees often mistake these cults for druidic circles or totemic religions whose ceremonies involve entering a labyrinth while wearing a ceremonial animal mask.
+
+Within these bounded environments, cultists hunt, kill, and eat wild beasts, indulging their basest primal urges. In the end, however, sacrificial animals are exchanged for humanoid sacrifice — sometimes an inductee that tried to escape the cult after learning its secrets. These labyrinths become blood-soaked halls of slaughter, echoing to the cultists’ savagery.
+
+
+Unknown to all but their highest-ranking leaders, these mystery cults are creations of the demon lord Baphomet, the Horned King, whose layer of the Abyss is a gigantic labyrinth. Some of his followers are fervent supplicants that plead for strength and power. Others come to the cult seeking a life free from authority’s chains — and are liberated of their humanity instead as Baphomet transforms them into the minotaurs that echo his own savage form.
+
+Although they begin as creations of the Horned King, minotaurs can breed true with one another, giving rise to an independent race of Baphomet’s savage children in the world.
+
+MINOTAUR
+Large monstrosity, chaotic evil
+
+Armor Class 14 (natural armor)
+
+Hit Points 76 (9d10 + 27)
+
+Speed 40 ft.
+
+STR
+18 (+4)
+DEX
+11 (+0)
+CON
+16 (+3)
+INT
+6 (−2)
+WIS
+16 (+3)
+CHA
+9 (−1)
+Skills Perception +7
+
+Senses darkvision 60 ft., passive Perception 17
+
+Languages Abyssal
+
+Challenge 3 (700 XP)
+
+Charge. If the minotaur moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.
+
+Labyrinthine Recall. The minotaur can perfectly recall any path it has traveled.
+
+Reckless. At the start of its turn, the minotaur can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
+
+Actions
+
+Greataxe. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage.
+
+Gore. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
+
+===
+
+Modrons
+Modrons are beings of absolute law that adhere to a hive-like hierarchy. They inhabit the plane of Mechanus and tend its eternally revolving gears, their existence a clockwork routine of perfect order.
+
+Absolute Law and Order. Under the direction of their leader, Primus, modrons increase order in the multiverse in accordance with laws beyond the comprehension of mortal minds. Their own minds are networked in a hierarchal pyramid, in which each modron receives commands from superiors and delegates orders to underlings. A modron carries out commands with total obedience, utmost efficiency, and an absence of morality or ego.
+
+Modrons have no sense of self beyond what is necessary to fulfill their duties. They exist as a unified collective, divided by ranks, yet they always refer to themselves collectively. To a modron, there is no “I,” but only “we” or “us.”
+
+Absolute Hierarchy. Modrons communicate only with their own rank and the ranks immediately above and below them. Modrons more than one rank away are either too advanced or too simple to understand.
+
+Cogs of the Great Machine. If a modron is destroyed, its remains disintegrate. A replacement from the next lowest rank then transforms in a flash of light, gaining the physical form of its new rank. The promoted modron is replaced by one of its underlings in the same manner, all the way to the lowest levels of the hierarchy. There, a new modron is created by Primus, with a steady stream of monodrones leaving the Great Modron Cathedral on Mechanus as a result.
+
+Variant: Rogue Modrons. A modron unit sometimes becomes defective, either through natural decay or exposure to chaotic forces. Rogue modrons don’t act in accordance with Primus’s wishes and directives, breaking laws, disobeying orders, and even engaging in violence. Other modrons hunt down such rogues. A rogue modron loses the Axiomatic Mind trait and can have any alignment other than lawful neutral. Otherwise, it has the same statistics as a regular modron of its rank.
+
+The Great Modron March. When the gears of Mechanus complete seventeen cycles once every 289 years, Primus sends a vast army of modrons across the Outer Planes, ostensibly on a reconnaissance mission. The march is long and dangerous, and only a small number of modrons returns to Mechanus.
+
+---
+
+Monodrone
+A monodrone can perform one simple task at a time and can relay a single message of up to forty-eight words.
+
+MONODRONE
+Medium construct, lawful neutral
+
+Armor Class 15 (natural armor)
+
+Hit Points 5 (1d8 + 1)
+
+Speed 30 ft., fly 30 ft.
+
+STR
+10 (+0)
+DEX
+13 (+1)
+CON
+12 (+1)
+INT
+4 (−3)
+WIS
+10 (+0)
+CHA
+5 (−3)
+Senses truesight 120 ft., passive Perception 10
+
+Languages Modron
+
+Challenge 1/8 (25 XP)
+
+Axiomatic Mind. The monodrone can’t be compelled to act in a manner contrary to its nature or its instructions.
+
+Disintegration. If the monodrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying.
+
+Actions
+
+Dagger. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
+
+Javelin. Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 3 (1d6) piercing damage.
+
+---
+
+Duodrone
+The blocky duodrones supervise units of monodrones and can perform up to two tasks at a time.
+
+DUODRONE
+Medium construct, lawful neutral
+
+Armor Class 15 (natural armor)
+
+Hit Points 11 (2d8 + 2)
+
+Speed 30 ft.
+
+STR
+11 (+0)
+DEX
+13 (+1)
+CON
+12 (+1)
+INT
+6 (−2)
+WIS
+10 (+0)
+CHA
+7 (−2)
+Senses truesight 120 ft., passive Perception 10
+
+Languages Modron
+
+Challenge 1/4 (50 XP)
+
+Axiomatic Mind. The duodrone can’t be compelled to act in a manner contrary to its nature or its instructions.
+
+Disintegration. If the duodrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying.
+
+Actions
+
+Multiattack. The duodrone makes two fist attacks or two javelin attacks.
+
+Fist. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
+
+Javelin. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
+
+---
+
+Tridrone
+Tridrones are shaped like inverted pyramids. They lead lesser modrons in battle.
+
+TRIDRONE
+Medium construct, lawful neutral
+
+Armor Class 15 (natural armor)
+
+Hit Points 16 (3d8 + 3)
+
+Speed 30 ft.
+
+STR
+12 (+1)
+DEX
+13 (+1)
+CON
+12 (+1)
+INT
+9 (−1)
+WIS
+10 (+0)
+CHA
+9 (−1)
+Senses truesight 120 ft., passive Perception 10
+
+Languages Modron
+
+Challenge 1/2 (100 XP)
+
+Axiomatic Mind. The tridrone can’t be compelled to act in a manner contrary to its nature or its instructions.
+
+Disintegration. If the tridrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying.
+
+Actions
+
+Multiattack. The tridrone makes three fist attacks or three javelin attacks.
+
+Fist. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.
+
+Javelin. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
+
+---
+
+Quadrone
+Astute combatants, quadrones serve as artillery and field officers in the regiments of modron armies.
+
+QUADRONE
+Medium construct, lawful neutral
+
+Armor Class 16 (natural armor)
+
+Hit Points 22 (4d8 + 4)
+
+Speed 30 ft., fly 30 ft.
+
+STR
+12 (+1)
+DEX
+14 (+2)
+CON
+12 (+1)
+INT
+10 (+0)
+WIS
+10 (+0)
+CHA
+11 (+0)
+Skills Perception +2
+
+Senses truesight 120 ft., passive Perception 12
+
+Languages Modron
+
+Challenge 1 (200 XP)
+
+Axiomatic Mind. The quadrone can’t be compelled to act in a manner contrary to its nature or its instructions.
+
+Disintegration. If the quadrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying.
+
+Actions
+
+Multiattack. The quadrone makes two fist attacks or four shortbow attacks.
+
+Fist. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.
+
+Shortbow. Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+
+---
+
+Pentadrone
+Pentadrones oversee Mechanus’s worker populace and can improvise in response to new situations.
+
+PENTADRONE
+Large construct, lawful neutral
+
+Armor Class 16 (natural armor)
+
+Hit Points 32 (5d10 + 5)
+
+Speed 40 ft.
+
+STR
+15 (+2)
+DEX
+14 (+2)
+CON
+12 (+1)
+INT
+10 (+0)
+WIS
+10 (+0)
+CHA
+13 (+1)
+Skills Perception +4
+
+Senses truesight 120 ft., passive Perception 14
+
+Languages Modron
+
+Challenge 2 (450 XP)
+
+Axiomatic Mind. The pentadrone can’t be compelled to act in a manner contrary to its nature or its instructions.
+
+Disintegration. If the pentadrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying.
+
+Actions
+
+Multiattack. The pentadrone makes five arm attacks.
+
+Arm. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
+
+Paralysis Gas (Recharge 5–6). The pentadrone exhales a 30-foot cone of gas. Each creature in that area must succeed on a DC 11 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+===
+
+Mummies
+Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
+
+Preserved Wrath. The long burial rituals that accompany a mummy’s entombment help protect its body from rot. In the embalming process, the newly dead creature’s organs are removed and placed in special jars, and its corpse is treated with preserving oils, herbs, and wrappings. After the body has been prepared, the corpse is typically wrapped in linen bandages.
+
+---
+
+Mummy
+The Will of Dark Gods. An undead mummy is created when the priest of a death god or other dark deity ritually imbues a prepared corpse with necromantic magic. The mummy’s linen wrappings are inscribed with necromantic markings before the burial ritual concludes with an invocation to darkness. As a mummy endures in undeath, it animates in response to conditions specified by the ritual. Most commonly, a transgression against its tomb, treasures, lands, or former loved ones will cause a mummy to rise.
+
+The Punished. Once deceased, an individual has no say in whether or not its body is made into a mummy. Some mummies were powerful individuals who displeased a high priest or pharaoh, or who committed crimes of treason, adultery, or murder. As punishment, they were cursed with eternal undeath, embalmed, mummified, and sealed away. Other times, mummies acting as tomb guardians are created from slaves put to death specifically to serve a greater purpose.
+
+Creature of Ritual. A mummy obeys the conditions and parameters laid down by the rituals that created it, driven only to punish transgressors. The overwhelming terror that foreshadows a mummy’s attack can leave the intended victim paralyzed with fright. In the days following a mummy’s touch, a victim’s body rots from the outside in, until nothing but dust remains.
+
+Ending a Mummy’s Curse. Rare magic can undo or dispel the ritual that gave rise to a mummy, allowing it to truly die. More commonly, a mummy can be sent back to its endless rest by undoing the transgression that caused it to rise. A sacred idol might be replaced in its niche, a stolen treasure could be returned to its tomb, or a temple might be purified of despoiling bloodshed.
+
+More ephemeral or permanent offenses, such as revealing a secret the mummy wished kept or killing an individual the mummy loved, can’t be so easily remedied. In such cases, a mummy might slaughter all the creatures responsible and still not sate its wrath.
+
+Undead Archives. Though they seldom bother to do so, mummies can speak. As a result, some serve as undead repositories of lost lore, and can be consulted by the descendants of those who created them. Powerful individuals sometimes intentionally sequester mummies away for occasional consultation.
+
+Undead Nature. A mummy doesn’t require air, food, drink, or sleep.
+
+MUMMY
+Medium undead, lawful evil
+
+Armor Class 11 (natural armor)
+
+Hit Points 58 (9d8 + 18)
+
+Speed 20 ft.
+
+STR
+16 (+3)
+DEX
+8 (−1)
+CON
+15 (+2)
+INT
+6 (−2)
+WIS
+10 (+0)
+CHA
+12 (+1)
+Saving Throws Wis +2
+
+Damage Vulnerabilities fire
+
+Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks
+
+Damage Immunities necrotic, poison
+
+Condition Immunities charmed, exhaustion, frightened, paralyzed, poisoned
+
+Senses darkvision 60 ft., passive Perception 10
+
+Languages the languages it knew in life
+
+Challenge 3 (700 XP)
+
+Actions
+
+Multiattack. The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
+
+Rotting Fist. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed target can’t regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target’s hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or other magic.
+
+Dreadful Glare. The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become frightened until the end of the mummy’s next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
+
+---
+
+Mummy Lord
+
+In the tombs of the ancients, tyrannical monarchs and the high priests of dark gods lie in dreamless rest, waiting for the time when they might reclaim their thrones and reforge their ancient empires. The regalia of their terrible rule still adorns their linen-wrapped bodies, their moldering robes stitched with evil symbols and bronze armor etched with devices of dynasties that fell a thousand years before.
+
+Under the direction of the most powerful priests, the ritual that creates a mummy can be increased in potency. The mummy lord that rises from such a ritual retains the memories and personality of its former life, and is gifted with supernatural resilience. Dead emperors wield the same infamous rune-marked blades that they did in legend. Sorcerer lords work the forbidden magic that once controlled a terrified populace, and the dark gods reward dead priest-kings’ prayers by imparting divine spells.
+
+Heart of the Mummy Lord. As part of the ritual that creates a mummy lord, the creature’s heart and viscera are removed from the corpse and placed in canopic jars. These jars are usually carved from limestone or made of pottery, etched or painted with religious hieroglyphs.
+
+As long as its shriveled heart remains intact, a mummy lord can’t be permanently destroyed. When it drops to 0 hit points, the mummy lord turns to dust and re-forms at full strength 24 hours later, rising out of dust in close proximity to the canopic jar containing its heart. A mummy lord can be destroyed or prevented from re-forming by burning its heart to ashes. For this reason, a mummy lord usually keeps its heart and viscera in a hidden tomb or vault.
+
+The mummy lord’s heart has AC 5, 25 hit points, and immunity to all damage except fire.
+
+MUMMY LORD
+Medium undead, lawful evil
+
+Armor Class 17 (natural armor)
+
+Hit Points 97 (13d8 + 39)
+
+Speed 20 ft.
+
+STR
+18 (+4)
+DEX
+10 (+0)
+CON
+17 (+3)
+INT
+11 (+0)
+WIS
+18 (+4)
+CHA
+16 (+3)
+Saving Throws Con +8, Int +5, Wis +9, Cha +8
+
+Skills History +5, Religion +5
+
+Damage Vulnerabilities fire
+
+Damage Immunities necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+
+Condition Immunities charmed, exhaustion, frightened, paralyzed, poisoned
+
+Senses darkvision 60 ft., passive Perception 14
+
+Languages the languages it knew in life
+
+Challenge 15 (13,000 XP)
+
+Magic Resistance. The mummy lord has advantage on saving throws against spells and other magical effects.
+
+Rejuvenation. A destroyed mummy lord gains a new body in 24 hours if its heart is intact, regaining all its hit points and becoming active again. The new body appears within 5 feet of the mummy lord’s heart.
+
+Spellcasting. The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:
+
+Cantrips (at will): sacred flame, thaumaturgy
+
+1st level (4 slots): command, guiding bolt, shield of faith
+
+2nd level (3 slots): hold person, silence, spiritual weapon
+
+3rd level (3 slots): animate dead, dispel magic
+
+4th level (3 slots): divination, guardian of faith
+
+5th level (2 slots): contagion, insect plague
+
+6th level (1 slot): harm
+
+Actions
+
+Multiattack. The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
+
+Rotting Fist. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can’t regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target’s hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or other magic.
+
+Dreadful Glare. The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this magic or become frightened until the end of the mummy’s next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
+
+Legendary Actions
+
+The mummy lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The mummy lord regains spent legendary actions at the start of its turn.
+
+Attack. The mummy lord makes one attack with its rotting fist or uses its Dreadful Glare.
+
+Blinding Dust. Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving throw or be blinded until the end of the creature’s next turn.
+
+Blasphemous Word (Costs 2 Actions). The mummy lord utters a blasphemous word. Each non-undead creature within 10 feet of the mummy lord that can hear the magical utterance must succeed on a DC 16 Constitution saving throw or be stunned until the end of the mummy lord’s next turn.
+
+Channel Negative Energy (Costs 2 Actions). The mummy lord magically unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can’t regain hit points until the end of the mummy lord’s next turn.
+
+Whirlwind of Sand (Costs 2 Actions). The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can’t be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.
+
+A Mummy Lord’s Lair
+A mummy lord watches over an ancient temple or tomb that is protected by lesser undead and rigged with traps. Hidden in this temple is the sarcophagus where a mummy lord keeps its greatest treasures.
+
+A mummy lord encountered in its lair has a challenge rating of 16 (15,000 XP).
+
+Lair Actions
+On initiative count 20 (losing initiative ties), the mummy lord takes a lair action to cause one of the following effects; the mummy lord can’t use the same effect two rounds in a row.
+
+Each undead creature in the lair can pinpoint the location of each living creature within 120 feet of it until initiative count 20 on the next round.
+Each undead in the lair has advantage on saving throws against effects that turn undead until initiative count 20 on the next round.
+Until initiative count 20 on the next round, any non-undead creature that tries to cast a spell of 4th level or lower in the mummy lord’s lair is wracked with pain. The creature can choose another action, but if it tries to cast the spell, it must make a DC 16 Constitution saving throw. On a failed save, it takes 1d6 necrotic damage per level of the spell, and the spell has no effect and is wasted.
+
+Regional Effects
+A mummy lord’s temple or tomb is warped in any of the following ways by the creature’s dark presence:
+
+Food instantly molders and water instantly evaporates when brought into the lair. Other nonmagical drinks are spoiled — wine turning to vinegar, for instance.
+Divination spells cast within the lair by creatures other than the mummy lord have a 25 percent chance to provide misleading results, as determined by the DM. If a divination spell already has a chance to fail or become unreliable when cast multiple times, that chance increases by 25 percent.
+A creature that takes treasure from the lair is cursed until the treasure is returned. The cursed target has disadvantage on all saving throws. The curse lasts until removed by a remove curse spell or other magic.
+If the mummy lord is destroyed, these regional effects end immediately.
+
+===
+
+Myconids
+Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
+
+Circles and Melds. The largest myconid in a colony is its sovereign, which presides over one or more social groups called circles. A circle consists of twenty or more myconids that work, live, and meld together.
+
+A meld is a form of communal meditation that allows myconids to transcend their dull subterranean existence. The myconids’ rapport spores bind the participants into a group consciousness. Hallucination spores then induce a shared dream that provides entertainment and social interaction. Myconids consider melding to be the purpose of their existence. They use it in the pursuit of higher consciousness, collective union, and spiritual apotheosis. Myconids also use their rapport spores to communicate telepathically with other sentient creatures.
+
+Myconid Reproduction. Like other fungi, myconids reproduce by mundane sporing. They carefully control their spores’ release to avoid overpopulation.
+
+Myconid Sprout
+MYCONID SPROUT
+Small plant, lawful neutral
+
+Armor Class 10
+
+Hit Points 7 (2d6)
+
+Speed 10 ft.
+
+STR
+8 (−1)
+DEX
+10 (+0)
+CON
+10 (+0)
+INT
+8 (−1)
+WIS
+11 (+0)
+CHA
+5 (−3)
+Senses darkvision 120 ft., passive Perception 10
+
+Languages —
+
+Challenge 0 (10 XP)
+
+Distress Spores. When the myconid takes damage, all other myconids within 240 feet of it can sense its pain.
+
+Sun Sickness. While in sunlight, the myconid has disadvantage on ability checks, attack rolls, and saving throws. The myconid dies if it spends more than 1 hour in direct sunlight.
+
+Actions
+
+Fist. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 − 1) bludgeoning damage plus 2 (1d4) poison damage.
+
+Rapport Spores (3/Day). A 10-foot radius of spores extends from the myconid. These spores can go around corners and affect only creatures with an Intelligence of 2 or higher that aren’t undead, constructs, or elementals. Affected creatures can communicate telepathically with one another while they are within 30 feet of each other. The effect lasts for 1 hour.
+
+Myconid Adult
+MYCONID ADULT
+Medium plant, lawful neutral
+
+Armor Class 12 (natural armor)
+
+Hit Points 22 (4d8 + 4)
+
+Speed 20 ft.
+
+STR
+10 (+0)
+DEX
+10 (+0)
+CON
+12 (+1)
+INT
+10 (+0)
+WIS
+13 (+1)
+CHA
+7 (−2)
+Senses darkvision 120 ft., passive Perception 11
+
+Languages —
+
+Challenge 1/2 (100 XP)
+
+Distress Spores. When the myconid takes damage, all other myconids within 240 feet of it can sense its pain.
+
+Sun Sickness. While in sunlight, the myconid has disadvantage on ability checks, attack rolls, and saving throws. The myconid dies if it spends more than 1 hour in direct sunlight.
+
+Actions
+
+Fist. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4) bludgeoning damage plus 5 (2d4) poison damage.
+
+Pacifying Spores (3/Day). The myconid ejects spores at one creature it can see within 5 feet of it. The target must succeed on a DC 11 Constitution saving throw or be stunned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Rapport Spores. A 20-foot radius of spores extends from the myconid. These spores can go around corners and affect only creatures with an Intelligence of 2 or higher that aren’t undead, constructs, or elementals. Affected creatures can communicate telepathically with one another while they are within 30 feet of each other. The effect lasts for 1 hour.
+
+Myconid Sovereign
+MYCONID SOVEREIGN
+Large plant, lawful neutral
+
+Armor Class 13 (natural armor)
+
+Hit Points 60 (8d10 + 16)
+
+Speed 30 ft.
+
+STR
+12 (+1)
+DEX
+10 (+0)
+CON
+14 (+2)
+INT
+13 (+1)
+WIS
+15 (+2)
+CHA
+10 (+0)
+Senses darkvision 120 ft., passive Perception 12
+
+Languages —
+
+Challenge 2 (450 XP)
+
+Distress Spores. When the myconid takes damage, all other myconids within 240 feet of it can sense its pain.
+
+Sun Sickness. While in sunlight, the myconid has disadvantage on ability checks, attack rolls, and saving throws. The myconid dies if it spends more than 1 hour in direct sunlight.
+
+Actions
+
+Multiattack. The myconid uses either its Hallucination Spores or its Pacifying Spores, then makes a fist attack.
+
+Fist. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 8 (3d4 + 1) bludgeoning damage plus 7 (3d4) poison damage.
+
+Animating Spores (3/Day). The myconid targets one corpse of a humanoid or a Large or smaller beast within 5 feet of it and releases spores at the corpse. In 24 hours, the corpse rises as a spore servant. The corpse stays animated for 1d4 + 1 weeks or until destroyed, and it can’t be animated again in this way.
+
+Hallucination Spores. The myconid ejects spores at one creature it can see within 5 feet of it. The target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The poisoned target is incapacitated while it hallucinates. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Pacifying Spores. The myconid ejects spores at one creature it can see within 5 feet of it. The target must succeed on a DC 12 Constitution saving throw or be stunned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the condition on itself on a success.
+
+Rapport Spores. A 30-foot radius of spores extends from the myconid. These spores can go around corners and affect only creatures with an Intelligence of 2 or higher that aren’t undead, constructs, or elementals. Affected creatures can communicate telepathically with one another while they are within 30 feet of each other. The effect lasts for 1 hour.
+
+Spore Servant Template
+A spore servant is any Large or smaller creature brought back to life by the animating spores of a myconid sovereign. A creature that was never flesh and blood to begin with (such as a construct, elemental, ooze, plant, or undead) can’t be turned into a spore servant. The following characteristics change or are added to a creature that becomes a spore servant.
+
+Retained Characteristics. The servant retains its Armor Class, hit points, Hit Dice, Strength, Dexterity, Constitution, vulnerabilities, resistances, and immunities.
+
+Lost Characteristics. The servant loses its original saving throw and skill bonuses, special senses, and special traits. It loses any action that isn’t Multiattack or a melee weapon attack that deals bludgeoning, piercing, or slashing damage. If it has an action or a melee weapon attack that deals some other type of damage, it loses the ability to deal damage of that type, unless the damage comes from a piece of equipment, such as a magic item.
+
+Type. The servant’s type is plant, and it loses any tags.
+
+Alignment. The servant is unaligned.
+
+Speed. Reduce all the servant’s speeds by 10 feet, to a minimum of 5 feet.
+
+Ability Scores. The servant’s ability scores change as follows: Int 2 (−4), Wis 6 (−2), Cha 1 (−5).
+
+Senses. The servant has blindsight with a radius of 30 feet, and it is blind beyond this radius.
+
+Condition Immunities. The servant can’t be blinded, charmed, frightened, or paralyzed.
+
+Languages. The servant loses all known languages, but it responds to orders given to it by myconids using rapport spores. The servant gives highest priority to orders received from the most powerful myconid.
+
+Attacks. If the servant has no other means of dealing damage, it can use its fists or limbs to make unarmed strikes. On a hit, an unarmed strike deals bludgeoning damage equal to 1d4 + the servant’s Strength modifier, or, if the servant is Large, 2d4 + its Strength modifier.
+
+Quaggoth Spore Servant
+This spore servant statistics presented here use a quaggoth as the base creature.
+
+QUAGGOTH SPORE SERVANT
+Medium plant, unaligned
+
+Armor Class 13 (natural armor)
+
+Hit Points 45 (6d8 + 18)
+
+Speed 20 ft., climb 20 ft.
+
+STR
+17 (+3)
+DEX
+12 (+1)
+CON
+16 (+3)
+INT
+2 (−4)
+WIS
+6 (−2)
+CHA
+1 (−5)
+Damage Immunities poison
+
+Condition Immunities blinded, charmed, frightened, paralyzed, poisoned
+
+Senses blindsight 30 ft. (blind beyond this radius), passive Perception 8
+
+Languages —
+
+Challenge 1 (200 XP)
+
+Actions
+
+Multiattack. The spore servant makes two claw attacks.
+
+Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
