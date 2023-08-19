@@ -35,7 +35,7 @@ Condition Immunities poisoned
 
 Senses darkvision 60 ft., passive Perception 8
 
-Languages understands the languages it knew in life but can’t speak
+Languages understands the languages it knew in life but can't speak
 
 Challenge 1/4 (50 XP)
 

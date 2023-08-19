@@ -93,7 +93,7 @@ CHA
 
 **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
 
-**Languages** —
+**Languages** --
 
 **Challenge** 5 (1,800 XP)
 

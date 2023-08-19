@@ -17,9 +17,9 @@
 
 **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
 
-**Languages** —
+**Languages** --
 
-**Challenge** —
+**Challenge** --
 
 #### Actions
 **Slam.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage.

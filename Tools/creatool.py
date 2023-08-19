@@ -13,10 +13,26 @@ import sys
 # "Troll" entry, for example, contains "Troll", "Aquatic Troll", "Rot Troll",
 # and so on.
 class SubtypedCreature:
-     def __init__(self):
+    def __init__(self):
         self.name = ''
         self.subtypes = []
-        self.generaldescription = ''
+        self.generaldescription = []
+
+    def emitMD(self):
+        subtypejumplinks = map(lambda st: f'[{st.name}](#{st.name})')
+
+        results  =  ''
+        results += f'# {self.name}\n'
+        results += self.generaldescription[0] + '\n'
+        results += '\n'
+        results += '> Jump to: ' + subtypejumplinks + '\n'
+        results += '\n'
+        results += '\n'.join(self.generaldescription[1:])
+        for creature in self.subtypes:
+            results += '---\n\n'
+            results += creature.emitMD()
+            results += '\n'
+        return results
 
 # A creature entry.
 class Creature:
@@ -333,19 +349,77 @@ def ingest(arg):
         return creature
 
     def ingestrawtextfile(lines):
-        name = lines[0]
-        description = []
+        def ingestsinglecreature(lines):
+            # Eat any blank lines
+            while (len(lines) > 0) and (len(lines[0].strip()) == 0):
+                del lines[0]
 
-        linect = 1
-        while lines[linect] != name.upper():
-            if len((lines[linect]).strip()) > 0:
-                description.append(lines[linect])
-            linect += 1
+            name = lines[0]
+            print("INGESTING CREATURE " + name)
+            description = []
 
-        creature = ingestrawstatblock(lines[linect:])
-        creature.name = name.strip()
-        creature.description = description
-        creatures.append(creature)
+            linect = 1
+            while lines[linect] != name.upper():
+                if len((lines[linect]).strip()) > 0:
+                    description.append(lines[linect])
+                linect += 1
+
+            creature = ingestrawstatblock(lines[linect:])
+            creature.name = name.strip()
+            creature.description = description
+            #creatures.append(creature)
+            return creature
+
+        def ingestsubtypedcreature(lines):
+            subtypedcreature = SubtypedCreature()
+
+            # Eat any blank lines
+            while len(lines[0].strip()) == 0:
+                del lines[0]
+            subtypedcreature.name = lines[0].strip()
+            print("INGESTING SUBTYPED CREATURE " + subtypedcreature.name + "--->")
+            del lines[0]
+
+            while lines[0].strip() != '---':
+                subtypedcreature.generaldescription.append(lines[0])
+                del lines[0]
+
+            del lines[0:1]
+
+            while lines.count('---\n') > 0:
+                breakline = lines.index('---\n')
+                subtypedcreature.subtypes.append(ingestsinglecreature(lines[0:breakline]))
+                del lines[0:breakline+1]
+            
+            subtypedcreature.subtypes.append(ingestsinglecreature(lines))
+            print("<---")
+            return subtypedcreature
+
+        def ingestmultiplecreatures(lines):
+            print("INGESTING MULTIPLE CREATURES>>>>")
+            crs = []
+            while lines.count('===\n') > 0:
+                # This is a multiple-creatures file
+                breakline = lines.index('===\n')
+                crs.append(ingestrawtextfile(lines[0:breakline]))
+                del lines[0:breakline+1]
+
+            if lines.count('---\n') > 0:
+                crs.append(ingestsubtypedcreature(lines))
+            else:
+                crs.append(ingestsinglecreature(lines))
+            print("<<<<")
+            return crs
+
+        # Let's look to see if this is a multi-creature file
+        # I put === lines to demarcate between multiple creatures in one file
+        # I put --- lines to demarcate between related creatures in one file
+        if lines.count('===\n') > 0:
+            return ingestmultiplecreatures(lines)
+        elif lines.count('---\n') > 0:
+            return ingestsubtypedcreature(lines)
+        else:
+            return ingestsinglecreature(lines)
     
     def ingestdndbeyondwebp(lines):
         creaturelist = []
@@ -488,22 +562,27 @@ def ingest(arg):
             return creature
 
     # Arg is a file
-    with open(arg, 'r') as argfile:
+    with open(arg, 'r', errors='ignore') as argfile:
         lines = argfile.readlines()
         if len(lines) < 1:
             print(f"Empty file: {arg}")
         elif lines[0][0:2] == '# ':
             # Might be one of my original MD formats
             creatures.append(ingestmymdformat(lines))
-        elif lines[0] == '<!DOCTYPE html>\n':
-            # We are going to parse a DnD Beyond page, let's go!
-            cs = ingestdndbeyondwebp(lines)
+#        elif lines[0] == '<!DOCTYPE html>\n':
+#            # We are going to parse a DnD Beyond page, let's go!
+#            cs = ingestdndbeyondwebp(lines)
         elif lines[0].upper() == lines[0]:
             # Guessing this is a stat block
             creatures.append(ingestrawstatblock(lines))
         else:
             # Maybe this is a longer-form description?
-            ingestrawtextfile(lines)
+            result = ingestrawtextfile(lines)
+            if isinstance(result, list):
+                for c in result:
+                    creatures.append(c)
+            else:
+                creatures.append(result)
 
 def camelcaseify(string):
     return string.lower().replace(' ', '')
@@ -579,6 +658,7 @@ def main(argv):
                 print(creature.emitMD())
         elif os.path.isdir(dest):
             for creature in creatures:
+                print("Writing " + str(creature))
                 with open(camelcaseify(args.writemd + '/' + creature.name).title() + ".md", 'w') as mdfile:
                     mdfile.write(creature.emitMD())
     else:

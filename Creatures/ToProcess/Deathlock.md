@@ -1,17 +1,17 @@
 # Deathlock
 ![Deathlock](Deathlock.png)
 
-The forging of a pact between a warlock and a patron is no minor occasion — at least not for the warlock. The consequences of breaking that pact can be dire and, in some cases, lethal. A warlock who fails to live up to a bargain with an evil patron runs the risk of rising from the dead as a deathlock, a foul undead driven to serve its otherworldly patron from beyond the grave.
+The forging of a pact between a warlock and a patron is no minor occasion -- at least not for the warlock. The consequences of breaking that pact can be dire and, in some cases, lethal. A warlock who fails to live up to a bargain with an evil patron runs the risk of rising from the dead as a deathlock, a foul undead driven to serve its otherworldly patron from beyond the grave.
 
 > Jump to: [Deathlock Warlock](#deathlock-warlock) | [Deathlock Mastermind](#deathlock-mastermind) | [Deathlock Wight](#deathlock-wight)
 
-An extraordinarily powerful necromancer might also discover the dark methods of creating a deathlock and then bind it to service, acting in this respect as the deathlock’s patron.
+An extraordinarily powerful necromancer might also discover the dark methods of creating a deathlock and then bind it to service, acting in this respect as the deathlock's patron.
 
-**Obedient and Obsessed.** An overpowering urge to serve consumes the mind of a newly awakened deathlock. All goals and ambitions it had in life that don’t please its patron fall away as its master’s desires become the purpose that drives the deathlock. The creature immediately resumes work on its patron’s behalf. Accomplishing a difficult goal might mean the deathlock is forced to serve another powerful creature or might entail in gathering servants of its own.
+**Obedient and Obsessed.** An overpowering urge to serve consumes the mind of a newly awakened deathlock. All goals and ambitions it had in life that don't please its patron fall away as its master's desires become the purpose that drives the deathlock. The creature immediately resumes work on its patron's behalf. Accomplishing a difficult goal might mean the deathlock is forced to serve another powerful creature or might entail in gathering servants of its own.
 
-Whatever the goal, it always reflects the patron’s interests, ranging from small-scale concerns to matters of cosmic scope. A deathlock in the thrall of a fiend might work to destroy a specific temple dedicated to a good god, while one that serves a Great Old One could be charged with hunting for the materials needed to call forth a horrifying entity into the world.
+Whatever the goal, it always reflects the patron's interests, ranging from small-scale concerns to matters of cosmic scope. A deathlock in the thrall of a fiend might work to destroy a specific temple dedicated to a good god, while one that serves a Great Old One could be charged with hunting for the materials needed to call forth a horrifying entity into the world.
 
-**Undead Nature.** A deathlock doesn’t require air, food, drink, or sleep.
+**Undead Nature.** A deathlock doesn't require air, food, drink, or sleep.
 
 **Patron-Specific Spells** You can customize a deathlock by replacing some or all of the spells in its Spellcasting trait with spells specific to its patron. Here are examples.
 
@@ -21,7 +21,7 @@ Whatever the goal, it always reflects the patron’s interests, ranging from sma
 
         * Fiend patron: [blindness/deafness](../Magic/Spells/blindness-deafness.md), [burning hands](../Magic/Spells/burning-hands.md), [command](../Magic/Spells/command.md), [fireball](../Magic/Spells/fireball.md), [hellish rebuke](../Magic/Spells/hellish-rebuke.md), [scorching ray](../Magic/Spells/scorching-ray.md)
 
-        * Great Old One patron: [armor of Agathys](../Magic/Spells/armor-of-agathys.md), [detect thoughts](../Magic/Spells/detect-thoughts.md), [dissonant whispers](../Magic/Spells/dissonant-whispers.md), [hunger of Hadar](../Magic/Spells/hunger-of-hadar.md), [Tasha’s hideous laughter](../Magic/Spells/tashas-hideous-laughter.md), [phantasmal force](../Magic/Spells/phantasmal-force.md)
+        * Great Old One patron: [armor of Agathys](../Magic/Spells/armor-of-agathys.md), [detect thoughts](../Magic/Spells/detect-thoughts.md), [dissonant whispers](../Magic/Spells/dissonant-whispers.md), [hunger of Hadar](../Magic/Spells/hunger-of-hadar.md), [Tasha's hideous laughter](../Magic/Spells/tashas-hideous-laughter.md), [phantasmal force](../Magic/Spells/phantasmal-force.md)
 
     * Deathlock Mastermind
 
@@ -29,7 +29,7 @@ Whatever the goal, it always reflects the patron’s interests, ranging from sma
 
         * Fiend patron: [blindness/deafness](../Magic/Spells/blindness-deafness.md), [burning hands](../Magic/Spells/burning-hands.md), [command](../Magic/Spells/command.md), [fire shield](../Magic/Spells/fire-shield.md), [fireball](../Magic/Spells/fireball.md), [flame strike](../Magic/Spells/flame-strike.md), [hellish rebuke](../Magic/Spells/hellish-rebuke.md), [scorching ray](../Magic/Spells/scorching-ray.md), [stinking cloud](../Magic/Spells/stinking-cloud.md), [wall of fire](../Magic/Spells/wall-of-fire.md)
 
-        * Great Old One patron: [clairvoyance](../Magic/Spells/clairvoyance.md), [detect thoughts](../Magic/Spells/detect-thoughts.md), [dissonant whispers](../Magic/Spells/dissonant-whispers.md), [dominate person](../Magic/Spells/dominate-person.md), [Evard’s black tentacles](../Magic/Spells/evards-black-tentacles.md), [hunger of Hadar](../Magic/Spells/hunger-of-hadar.md), [phantasmal force](../Magic/Spells/phantasmal-force.md), [sending](../Magic/Spells/sending.md), [Tasha’s hideous laughter](../Magic/Spells/tashas-hideous-laughter.md), [telekinesis](../Magic/Spells/telekinesis.md)
+        * Great Old One patron: [clairvoyance](../Magic/Spells/clairvoyance.md), [detect thoughts](../Magic/Spells/detect-thoughts.md), [dissonant whispers](../Magic/Spells/dissonant-whispers.md), [dominate person](../Magic/Spells/dominate-person.md), [Evard's black tentacles](../Magic/Spells/evards-black-tentacles.md), [hunger of Hadar](../Magic/Spells/hunger-of-hadar.md), [phantasmal force](../Magic/Spells/phantasmal-force.md), [sending](../Magic/Spells/sending.md), [Tasha's hideous laughter](../Magic/Spells/tashas-hideous-laughter.md), [telekinesis](../Magic/Spells/telekinesis.md)
 
 
 ## Deathlock Warlock
@@ -49,7 +49,7 @@ Whatever the goal, it always reflects the patron’s interests, ranging from sma
 
 **Skills** Arcana +4, History +4
 
-**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
 **Damage Immunities** poison
 
@@ -61,7 +61,7 @@ Whatever the goal, it always reflects the patron’s interests, ranging from sma
 
 **Challenge** 4 (1,100 XP)
 
-**Innate Spellcasting.** The deathlock’s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:
+**Innate Spellcasting.** The deathlock's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:
 
 * At will: [detect magic](../Magic/Spells/detect-magic.md), [disguise self](../Magic/Spells/disguise-self.md), [mage armor](../Magic/Spells/mage-armor.md)
 
@@ -98,7 +98,7 @@ Whatever the goal, it always reflects the patron’s interests, ranging from sma
 
 **Skills** Arcana +5, History +5, Perception +4
 
-**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
 **Damage Immunities** poison
 
@@ -110,7 +110,7 @@ Whatever the goal, it always reflects the patron’s interests, ranging from sma
 
 **Challenge** 8 (3,900 XP)
 
-**Innate Spellcasting.** The deathlock’s innate spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no material components:
+**Innate Spellcasting.** The deathlock's innate spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring no material components:
 
 * At will: [detect magic](../Magic/Spells/detect-magic.md), [disguise self](../Magic/Spells/disguise-self.md), [mage armor](../Magic/Spells/mage-armor.md)
 
@@ -162,7 +162,7 @@ Though deathlocks exist to serve their patrons, they retain some freedom when it
 
 **Challenge** 3 (700 XP)
 
-**Innate Spellcasting.** The wight’s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no verbal or material components:
+**Innate Spellcasting.** The wight's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no verbal or material components:
 
 * At will: [detect magic](../Magic/Spells/detect-magic.md), [disguise self](../Magic/Spells/disguise-self.md), [mage armor](../Magic/Spells/mage-armor.md)
 
@@ -178,7 +178,7 @@ Though deathlocks exist to serve their patrons, they retain some freedom when it
 
 **Life Drain.** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
-A humanoid slain by this attack rises 24 hours later as a zombie under the wight’s control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.
+A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.
 
 #### Description
 Bereft of much of its magic, a deathlock wight lingers between the warlock it was and the deathly existence of a wight--a special punishment meted out by certain patrons and necromancers.

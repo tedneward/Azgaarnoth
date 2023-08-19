@@ -11,15 +11,15 @@ The guardinals live in the outer planes, centered on Elysium, although many can 
 
 Guardinals are virtuous creatures, holding themselves above capricious acts such as lying, stealing, or cheating. This makes guardinals valuable peacekeepers to other beings of the outer planes.
 
-**Tranquility of Nature.** Guardinals love their home plane of Elysium for what it is; a picturesque image of nature in balance. To a mortal visiting their plane, it might remind them of a peaceful garden, or a quiet glade. Everything seems peaceful and safe, and that’s the way the guardinals want to keep things. Should an invading force threaten to disturb this
+**Tranquility of Nature.** Guardinals love their home plane of Elysium for what it is; a picturesque image of nature in balance. To a mortal visiting their plane, it might remind them of a peaceful garden, or a quiet glade. Everything seems peaceful and safe, and that's the way the guardinals want to keep things. Should an invading force threaten to disturb this
 tranquility, they should be prepared for the full might of the guardinals to fall upon their heads.
 
-**Beings Of Goodness.** While angels are shards of divinity, splintered off and given form, the guardinals are long-lived mortal beings more like the eladrin. While they can be angered quickly, their defining trait is more about passion. Their passion for the lovely things in the world knows no bounds. Guardinals treasure things like well-brewed tea or conversation had during a sunset or a quiet walk on a beach. There’s nothing better than a quiet happy sigh, to a guardinal.
+**Beings Of Goodness.** While angels are shards of divinity, splintered off and given form, the guardinals are long-lived mortal beings more like the eladrin. While they can be angered quickly, their defining trait is more about passion. Their passion for the lovely things in the world knows no bounds. Guardinals treasure things like well-brewed tea or conversation had during a sunset or a quiet walk on a beach. There's nothing better than a quiet happy sigh, to a guardinal.
 
 **Adventure on the Horizon.** When not indulging in their home plane, guardinals feel the need to find work worthy of their lot. Devoting themselves to the various gods of the realms, whether wandering the outer planes looking for trouble or just going on a walk-about to see what they might find, guardinals are the natural adventurers of the universe.
 Planar Creatures. Despite not being celestials, elementas or fiends, guardinals can be summoned using the planar ally or planar binding spells.
 
-***Roleplay tips for guardinals:*** A guardinal should always be finding the silver lining in a situation. They’re always smiling, enjoying themselves, whatever situation they find themselves in. They’re fun and kind when treated as equals and with respect. However, any sign of an evil deed will have them as quick to act as a bulwark, placing themselves directly between that evil and its goals.
+***Roleplay tips for guardinals:*** A guardinal should always be finding the silver lining in a situation. They're always smiling, enjoying themselves, whatever situation they find themselves in. They're fun and kind when treated as equals and with respect. However, any sign of an evil deed will have them as quick to act as a bulwark, placing themselves directly between that evil and its goals.
 
 ---
 
@@ -52,11 +52,11 @@ Planar Creatures. Despite not being celestials, elementas or fiends, guardinals 
 
 **Challenge** 11 (7,200 XP)
 
-**Nature Speech.** The avoral can converse with animals and monstrosities, even if they don’t share a language. 
+**Nature Speech.** The avoral can converse with animals and monstrosities, even if they don't share a language. 
 
 **Magic Resistance.** The avoral has advantage on saving throws against spells and other magical effects.
 
-**Magical Attacks.** The avoral’s attacks count as magical for the purposes of overcoming damage immunities and resistances.
+**Magical Attacks.** The avoral's attacks count as magical for the purposes of overcoming damage immunities and resistances.
 
 **Innate Spellcasting.** The avoral's spellcasting ability is Charisma (spell save DC 14). The avoral can innately cast the following spells, requiring only verbal components:
 
@@ -72,7 +72,7 @@ Planar Creatures. Despite not being celestials, elementas or fiends, guardinals 
 **Wing.** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6+6) bludgeoning damage.
 
 #### Description
-With unmatched eyesight, the avoral are the perfect scouts for the guardinals. Their great skill at flying, mixed with excellent spellcasting, make them revered wherever they go. Rarely found alone, those that are alone are typically on an important mission, otherwise, they’re generally found in the company of other guardinals.
+With unmatched eyesight, the avoral are the perfect scouts for the guardinals. Their great skill at flying, mixed with excellent spellcasting, make them revered wherever they go. Rarely found alone, those that are alone are typically on an important mission, otherwise, they're generally found in the company of other guardinals.
 
 ---
 
@@ -103,7 +103,7 @@ With unmatched eyesight, the avoral are the perfect scouts for the guardinals. T
 
 **Challenge** 6 (2,300 XP)
 
-**Nature Speech.** The cerdeval can converse with animals and monstrosities, even if they don’t share a language.
+**Nature Speech.** The cerdeval can converse with animals and monstrosities, even if they don't share a language.
 
 **Magic Resistance.** The cerdeval has advantage on saving throws against spells and other magical effects.
 
@@ -123,7 +123,7 @@ With unmatched eyesight, the avoral are the perfect scouts for the guardinals. T
 **Horns.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10+4) bludgeoning damage.
 
 #### Description
-The ram-headed cerdeval are said to resemble satyrs, a statement they’ll outright and flatly deny. Perhaps the differences are subtle, but it is more likely that of all the guardinals, the cerdeval have the most pride. Contrary to their powerful physical build, most cerdeval prefer to avoid conflict whenever possible through the use of their magic.
+The ram-headed cerdeval are said to resemble satyrs, a statement they'll outright and flatly deny. Perhaps the differences are subtle, but it is more likely that of all the guardinals, the cerdeval have the most pride. Contrary to their powerful physical build, most cerdeval prefer to avoid conflict whenever possible through the use of their magic.
 
 ---
 
@@ -156,7 +156,7 @@ The ram-headed cerdeval are said to resemble satyrs, a statement they’ll outri
 
 **Challenge** 9 (5,000 XP)
 
-**Nature Speech.** The equinal can converse with animals and monstrosities, even if they don’t share a language.
+**Nature Speech.** The equinal can converse with animals and monstrosities, even if they don't share a language.
 
 **Magic Resistance.** The equinal has advantage on saving throws against spells and other magical effects.
 
@@ -171,7 +171,7 @@ The ram-headed cerdeval are said to resemble satyrs, a statement they’ll outri
 
 **Slam.** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 13 (2d6+6) bludgeoning damage.
 
-**War Whinny.** The equinal unleashes a terrifying shriek. All creatures of the equinal’s choice within 40 feet, must succeed on a Wisdom saving throw or become deafened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. The equinal gains temporary hit points equal to twice the number of creatures targeted (regardless of the outcome of their saving throw).
+**War Whinny.** The equinal unleashes a terrifying shriek. All creatures of the equinal's choice within 40 feet, must succeed on a Wisdom saving throw or become deafened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. The equinal gains temporary hit points equal to twice the number of creatures targeted (regardless of the outcome of their saving throw).
 
 #### Description
 The most reserved of the guardinals, the equinal is a deadly warrior. Able to survive damage that would end lesser creatures, they spend most of their lives perfecting a specific art, honing it in the same way they would their martial prowess. Warrior poets, artists, and songwriters are common ways of life for an equinal.
@@ -207,11 +207,11 @@ The most reserved of the guardinals, the equinal is a deadly warrior. Able to su
 
 **Challenge** 16 (15,000 XP)
 
-**Nature Speech.** The leonal can converse with animals and monstrosities, even if they don’t share a language.
+**Nature Speech.** The leonal can converse with animals and monstrosities, even if they don't share a language.
 
 **Magic Resistance.** The leonal has advantage on saving throws against spells and other magical effects.
 
-**Protective Aura.** All creatures of the leonal’s choice within 20 feet, share the leonal’s damage immunities and damage resistances, and benefit from the leonal’s Magic Resistance trait as well.
+**Protective Aura.** All creatures of the leonal's choice within 20 feet, share the leonal's damage immunities and damage resistances, and benefit from the leonal's Magic Resistance trait as well.
 
 **Innate Spellcasting.** The leonal's spellcasting ability is Charisma (spell save DC 17). The leonal can innately cast the following spells, requiring only verbal components:
 
@@ -226,7 +226,7 @@ The most reserved of the guardinals, the equinal is a deadly warrior. Able to su
 **Claw.** Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 22 (4d6+8) slashing damage.
 
 #### Description
-Leonals are charismatic, natural leaders, and paragons of bravery. The leonals are exceptional combatants, with powerful magic to back their natural weapons. When found with other guardinals, they take on a commanding role. When found alone, they’re often in a self-exile, searching for meaning in the universe.
+Leonals are charismatic, natural leaders, and paragons of bravery. The leonals are exceptional combatants, with powerful magic to back their natural weapons. When found with other guardinals, they take on a commanding role. When found alone, they're often in a self-exile, searching for meaning in the universe.
 
 
 ---
@@ -258,13 +258,13 @@ Leonals are charismatic, natural leaders, and paragons of bravery. The leonals a
 
 **Challenge** 9 (5,000 XP)
 
-**Nature Speech.** The lupinal can converse with animals and monstrosities, even if they don’t share a language.
+**Nature Speech.** The lupinal can converse with animals and monstrosities, even if they don't share a language.
 
 **Magic Resistance.** The lupinal has advantage on saving throws against spells and other magical effects.
 
 **Heightened Senses.** The lupinal has advantage on Wisdom (Perception) checks that rely on sight or smell.
 
-**Grappler.** If the lupinal strikes with two claw attacks against the same target on the same turn, if it isn’t already grappling a creature, the target is grappled. All attacks against a creature that it is grappling count as critical hits.
+**Grappler.** If the lupinal strikes with two claw attacks against the same target on the same turn, if it isn't already grappling a creature, the target is grappled. All attacks against a creature that it is grappling count as critical hits.
 
 **Rapid Dodging.** Creatures making ranged weapon attacks against the lupinal su er disadvantage on their attack.
 
@@ -281,7 +281,7 @@ Leonals are charismatic, natural leaders, and paragons of bravery. The leonals a
 **Bite.** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 10 (1d8+6) piercing damage.
 
 #### Description
-The wolf-headed lupinal is an incomparable hunter; tracking down prey unerringly and quickly finishing them off. Lupinals very rarely congregate, with the sole exception of grand hunts. When a lupinal has found very difficult prey, they’ll often seek out other lupinals to assist them.
+The wolf-headed lupinal is an incomparable hunter; tracking down prey unerringly and quickly finishing them off. Lupinals very rarely congregate, with the sole exception of grand hunts. When a lupinal has found very difficult prey, they'll often seek out other lupinals to assist them.
 
 ---
 
@@ -310,11 +310,11 @@ The wolf-headed lupinal is an incomparable hunter; tracking down prey unerringly
 
 **Challenge** 4 (1,100 XP)
 
-**Nature Speech.** The musteval can converse with animals and monstrosities, even if they don’t share a language.
+**Nature Speech.** The musteval can converse with animals and monstrosities, even if they don't share a language.
 
 **Magic Resistance.** The musteval has advantage on saving throws against spells and other magical effects.
 
-**Innate Spellcasting.** The musteval’s spellcasting ability is Charisma (spell save DC 10). The musteval can innately cast the following spells, requiring only verbal components:
+**Innate Spellcasting.** The musteval's spellcasting ability is Charisma (spell save DC 10). The musteval can innately cast the following spells, requiring only verbal components:
 
 * *At will:* detect evil and good, disguise self, magic missile
 * *1/day each:* cure wounds, invisibility
@@ -322,7 +322,7 @@ The wolf-headed lupinal is an incomparable hunter; tracking down prey unerringly
 #### Actions
 **Bite.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 5 piercing damage.
 
-**Rapid Attack.** The musteval can attack each creature once during its movement using this action. Each creature that it attacks during this movement reduces the musteval’s speed by 5 feet until the start of its next turn. A single creature can only be attacked once this way, regardless of if the attack hits or misses.
+**Rapid Attack.** The musteval can attack each creature once during its movement using this action. Each creature that it attacks during this movement reduces the musteval's speed by 5 feet until the start of its next turn. A single creature can only be attacked once this way, regardless of if the attack hits or misses.
 
 #### Description
 Resembling mice, rats, or ferrets, the rodent-headed musteval is the lowest order of guardinal and one the most recent additions.  Unlike other guardinals, they tend to find packs to travel with, rarely adventuring alone.
@@ -358,13 +358,13 @@ Resembling mice, rats, or ferrets, the rodent-headed musteval is the lowest orde
 
 **Challenge** 12 (8,400 XP)
 
-**Nature Speech.** The ursinal can converse with animals and monstrosities, even if they don’t share a language.
+**Nature Speech.** The ursinal can converse with animals and monstrosities, even if they don't share a language.
 
 **Magic Resistance.** The ursinal has advantage on saving throws against spells and other magical e ects.
 
 **Expert Grappler.** The ursinal is the consumate grappler. When rolling ability checks to start or maintain grapples, the ursinal can treat any result of 20 or lower as 21.
 
-**Uncanny Dodge.** When an attacker that the ursinal can see hits them with an attack, they can use their reaction to halve the attack’s damage.
+**Uncanny Dodge.** When an attacker that the ursinal can see hits them with an attack, they can use their reaction to halve the attack's damage.
 
 **Innate Spellcasting.** The ursinal's spellcasting ability is Charisma (spell save DC 16). The ursinal can innately cast the following spells, requiring only verbal components:
 

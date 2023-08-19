@@ -3,7 +3,7 @@
 
 **Armor Class** 15 (natural armor)
 
-**Hit Points** equal to five times [Battle Smith](../Classes/Artificer/BattleSmith.md)'s level + [Battle Smith](../Classes/Artificer/BattleSmith.md)'s Intelligence modifier + the iron defender’s Constitution modifier
+**Hit Points** equal to five times [Battle Smith](../Classes/Artificer/BattleSmith.md)'s level + [Battle Smith](../Classes/Artificer/BattleSmith.md)'s Intelligence modifier + the iron defender's Constitution modifier
 
 **Speed** 40 ft.
 
@@ -21,9 +21,9 @@
 
 **Languages** understands the languages the [Battle Smith](../Classes/Artificer/BattleSmith.md) speak
 
-***Might of the Master.*** The following numbers increase by 1 when your proficiency bonus increases by 1: the iron defender’s skill bonuses, the bonuses to hit and damage of its bite, and the number of hit points restored by its Repair action.
+***Might of the Master.*** The following numbers increase by 1 when your proficiency bonus increases by 1: the iron defender's skill bonuses, the bonuses to hit and damage of its bite, and the number of hit points restored by its Repair action.
 
-***Vigilant.*** The iron defender can’t be surprised.
+***Vigilant.*** The iron defender can't be surprised.
 
 #### Actions 
 *(Requires the [Battle Smith](../Classes/Artificer/BattleSmith.md)'s bonus action)*
