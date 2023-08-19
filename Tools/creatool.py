@@ -19,7 +19,7 @@ class SubtypedCreature:
         self.generaldescription = []
 
     def emitMD(self):
-        subtypejumplinks = map(lambda st: f'[{st.name}](#{st.name})')
+        subtypejumplinks = " | ".join(map(lambda st: f'[{st.name}](#{st.name})', self.subtypes))
 
         results  =  ''
         results += f'# {self.name}\n'
@@ -43,6 +43,14 @@ class Creature:
 
         def __str__(self) -> str:
             return f'***{self.title}.*** {self.text}'
+        
+    class Lair:
+        def __init__(self):
+            self.description = ''
+            self.lairactions = []
+            self.regionalprefix = ''
+            self.regionaleffects = []
+            self.regionalpostfix = ''
 
     def __init__(self):
         self.name = ''
@@ -74,7 +82,7 @@ class Creature:
         self.bonusactions = []
         self.reactions = []
         self.legendaryactions = []
-        self.lairactions = []
+        self.lair = None
 
     def abilitybonus(self, score):
         return (score // 2) - 5
@@ -137,22 +145,30 @@ class Creature:
         linect += 1
 
         # >___
-        # Stat block headers
-        # Stat block table row divider
-        # Stat block
+        # >Stat block headers
+        # >Stat block table row divider
+        # >Stat block
         # >
         # >___
-        # Prof Bonus
-        # Saving Throws
-        # Dmg Vul
-        # Dmg Res
-        # Dmg Imm
-        # Cond Imm
-        # Skills
-        # Senses
-        # Langs
-        # CR
-        # Features -> Actions -> Bonus Actions? -> Reactions? -> Lair Actions? -> Legendary Actions?
+        # >Prof Bonus
+        # >Saving Throws
+        # >Dmg Vul
+        # >Dmg Res
+        # >Dmg Imm
+        # >Cond Imm
+        # >Skills
+        # >Senses
+        # >Langs
+        # >CR
+        # >Features -> Actions -> Bonus Actions? -> Reactions? -> Lair Actions? -> Legendary Actions?
+        # ### A {name}'s Lair
+        # Lair-description
+        # #### Lair Actions
+        # * Action
+        # #### Regional Effects
+        # Regionalpretext
+        # * Effect
+        # Regionalposttext
 
     def parserow(self, sqlrow):
         "Parse a row from a SQLite cursor"
@@ -222,6 +238,8 @@ class Creature:
             result +=  ">#### Reactions\n" + self.titleify(self.reactions)
         if len(self.legendaryactions) > 0:
             result +=  ">#### Legendary Actions\n" + self.titleify(self.legendaryactions)
+
+        if len(self.lair) > 0:
 
         return result
 

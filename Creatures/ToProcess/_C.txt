@@ -1,0 +1,584 @@
+
+B
+TABLE OF CONTENTS
+D
+C | Monsters
+Details, lore, and statistics for all monsters in the Monster Manual beginning with the letter "C" are detailed below.
+
+Cambion
+They crawl from their mothers' wombs to spread corruption throughout the multiverse. What's not to love?
+
+— Baba Yaga
+
+A cambion is the offspring of a fiend (usually a succubus or incubus) and a humanoid (usually a human). Cambions inherit aspects of both parents, but their horns, leathery wings, and sinewy tails are hallmarks of their otherworldly parentage.
+
+Born to Be Bad. Cambions grow into ruthless adults whose wickedness and perversion horrifies even the most devoted mortal parent. Even as a youth, a cambion identifies its rightful place as an overlord of mortals. It might orchestrate uprisings in towns and cities, gathering gangs of humanoids and lesser devils to serve it.
+
+Pawns of the Mighty. A cambion forced to serve its fiendish parent does so out of admiration and dread, but also with the expectation that it will one day rise to a place of prominence. Cambions raised in the Nine Hells serve as soldiers, envoys, and personal attendants to greater devils. In the Abyss, a cambion carries only as much authority as it can muster through sheer strength and force of will.
+
+Spawn of Graz’zt. The demon lord Graz’zt is fond of procreating with humanoids who have made pacts with fiends, and he has sired many cambions who help him sow chaos across the multiverse. These cambions are characterized by charcoal-black skin, cloven hooves, six-fingered hands, and unearthly beauty.
+
+CAMBION
+Medium fiend, any evil alignment
+
+Armor Class 19 (scale mail)
+
+Hit Points 82 (11d8 + 33)
+
+Speed 30 ft., fly 60 ft.
+
+STR
+18 (+4)
+DEX
+18 (+4)
+CON
+16 (+3)
+INT
+14 (+2)
+WIS
+12 (+1)
+CHA
+16 (+3)
+Saving Throws Str +7, Con +6, Int +5, Cha +6
+
+Skills Deception +6, Intimidation +6, Perception +4, Stealth +7
+
+Damage Resistances cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+
+Senses darkvision 60 ft., passive Perception 14
+
+Languages Abyssal, Common, Infernal
+
+Challenge 5 (1,800 XP)
+
+Fiendish Blessing. The AC of the cambion includes its Charisma bonus.
+
+Innate Spellcasting. The cambion’s spellcasting ability is Charisma (spell save DC 14). The cambion can innately cast the following spells, requiring no material components:
+
+3/day each: alter self, command, detect magic
+
+1/day: plane shift (self only)
+
+Actions
+
+Multiattack. The cambion makes two melee attacks or uses its Fire Ray twice.
+
+Spear. Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+
+Fire Ray. Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 10 (3d6) fire damage.
+
+Fiendish Charm. One humanoid the cambion can see within 30 feet of it must succeed on a DC 14 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys the cambion’s spoken commands. If the target suffers any harm from the cambion or another creature or receives a suicidal command from the cambion, the target can repeat the saving throw, ending the effect on itself on a success. If a target’s saving throw is successful, or if the effect ends for it, the creature is immune to the cambion’s Fiendish Charm for the next 24 hours.
+
+
+Carrion Crawler
+Carrion crawlers scour putrid flesh from carcasses and gobble the slimy bones that remain. They aggressively attack any creature that trespasses on their territory or disturbs their feasting.
+
+Carrion Eaters. A carrion crawler follows the scent of death to its food, but it prefers not to compete with other scavengers. These foul creatures thus hunker down in territories where death is plentiful and other carrion eaters have limited mobility. Caves, sewers, dungeons, and forested marshes are their favored lairs, but carrion crawlers are also drawn to battlefields and cemeteries.
+
+
+A carrion crawler roams on the hunt, its tentacles probing the air for the scent of blood or decay. In tunnels or ruins, carrion crawlers scurry across the ceiling as they move toward food. In this way, they avoid contact with oozes, otyughs, and other dangerous inhabitants of the darkness, even as they surprise potential meals that don’t think to look up.
+
+Patient Predators. Whether in subterranean darkness or while hunting at night, light signals a potential meal. A carrion crawler might follow a light source from a distance for hours, hoping to pick up the scent of blood. Despite their great size, carrion crawlers can also easily set up ambushes by waiting around blind corners for prey to come to them.
+
+When facing potential prey or intruders, a carrion crawler lets its poison do the work. Once a victim goes rigid with paralysis, the carrion crawler wraps it with its tentacles and drags it away to a high ledge or isolated passageway, where it can be killed safely. The monster then resumes patrolling its territory while waiting for its meal to ripen.
+
+CARRION CRAWLER
+Large monstrosity, unaligned
+
+Armor Class 13 (natural armor)
+
+Hit Points 51 (6d10 + 18)
+
+Speed 30 ft., climb 30 ft.
+
+STR
+14 (+2)
+DEX
+13 (+1)
+CON
+16 (+3)
+INT
+1 (−5)
+WIS
+12 (+1)
+CHA
+5 (−3)
+Skills Perception +3
+
+Senses darkvision 60 ft., passive Perception 13
+
+Languages —
+
+Challenge 2 (450 XP)
+
+Keen Smell. The carrion crawler has advantage on Wisdom (Perception) checks that rely on smell.
+
+Spider Climb. The carrion crawler can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+
+Actions
+
+Multiattack. The carrion crawler makes two attacks: one with its tentacles and one with its bite.
+
+Tentacles. Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit: 4 (1d4 + 2) poison damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. Until this poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the poison on itself on a success.
+
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage.
+
+
+Centaur
+“I hear centaurs make excellent mounts!”
+
+— Batley Summerfoot, a halfling adventurer who never read HOOVES OF FURY,
+by Irvil Grayborn of Sundown
+
+Reclusive wanderers and omen-readers of the wild, centaurs avoid conflict but fight fiercely when pressed. They roam the vast wilderness, keeping far from borders, laws, and the company of other creatures.
+
+Wilderness Nomads. Centaur tribes range across lands with mild to hot climates, where a centaur requires only light furs or oiled skins to deal with inclement weather. They are hunter-gatherers and rarely build shelters or even use tents.
+
+Centaur migrations span continents and take decades to repeat, so that a centaur tribe might not retread the same path for generations. These long-ranging patterns can lead to conflict when centaurs encounter settlements of other creatures built along their traditional routes.
+
+Reluctant Settlers. A centaur that can’t keep pace with the rest of its tribe is left behind. Some such centaurs vanish into the wilderness and are never seen again. Those that can bear the loss of their tribe might take up residence among other races. Frontier settlements value the nature knowledge of their centaur residents. Many such communities owe their survival to the insight and acumen of a centaur.
+
+Despite their reclusive nature, centaurs trade with elves and with the caravans of other benevolent humanoids they meet during their wanderings. A trader might save the life of a wounded or an elderly centaur unfit for long travel, escorting it to a settlement where it can peacefully live out the rest of its days.
+
+
+CENTAUR
+Large monstrosity, neutral good
+
+Armor Class 12
+
+Hit Points 45 (6d10 + 12)
+
+Speed 50 ft.
+
+STR
+18 (+4)
+DEX
+14 (+2)
+CON
+14 (+2)
+INT
+9 (−1)
+WIS
+13 (+1)
+CHA
+11 (+0)
+Skills Athletics +6, Perception +3, Survival +3
+
+Senses passive Perception 13
+
+Languages Elvish, Sylvan
+
+Challenge 2 (450 XP)
+
+Charge. If the centaur moves at least 30 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.
+
+Actions
+
+Multiattack. The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow.
+
+Pike. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
+
+Hooves. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
+
+Longbow. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+
+
+Chimera
+CHIMERA
+Large monstrosity, chaotic evil
+
+Armor Class 14 (natural armor)
+
+Hit Points 114 (12d10 + 48)
+
+Speed 30 ft., fly 60 ft.
+
+STR
+19 (+4)
+DEX
+11 (+0)
+CON
+19 (+4)
+INT
+3 (−4)
+WIS
+14 (+2)
+CHA
+10 (+0)
+Skills Perception +8
+
+Senses darkvision 60 ft., passive Perception 18
+
+Languages understands Draconic but can’t speak
+
+Challenge 6 (2,300 XP)
+
+Actions
+
+Multiattack. The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.
+
+Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
+
+Horns. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) bludgeoning damage.
+
+Claws. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+
+Fire Breath (Recharge 5–6). The dragon head exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.
+
+
+Chimeras were created after mortals summoned Demogorgon to the world. The Prince of Demons, unimpressed with the creatures that surrounded it, transformed them into horrific, multi-headed monstrosities. This act gave rise to the first chimeras.
+
+Gifted with demonic cruelty, a chimera serves as a grim reminder of what happens when demon princes find their way to the Material Plane. A typical specimen has the hindquarters of a large goat, the forequarters of a lion, and the leathery wings of a dragon, along with the heads of all three of those creatures. The monster likes to surprise its victims, swooping down from the sky and engulfing prey with its fiery breath before landing.
+
+Conflicted Creature. A chimera combines the worst aspects of its three parts. Its dragon head drives it to raid, plunder, and accumulate a great hoard. Its leonine nature compels it to hunt and kill powerful creatures that threaten its territory. Its goat head grants it a vicious, stubborn streak that compels it to fight to the death.
+
+These three aspects drive a chimera to stake out a territory that is as large as 10 miles wide. It preys on wild game, viewing more powerful creatures as rivals to be humiliated and defeated. Its greatest rivals are dragons, griffons, manticores, perytons, and wyverns.
+
+When it hunts, the chimera looks for easy ways to amuse itself. It enjoys the fear and suffering of weaker creatures. The monster often toys with its prey, breaking off an attack prematurely and leaving a creature wounded and terrified before returning to finish it off.
+
+Servant of Evil. Though chimeras are far from cunning, their draconic ego makes them susceptible to flattery and gifts. If offered food and treasure, a chimera might spare a traveler. A villain can lure a chimera into service by keeping it well fed and its treasure hoard well stocked.
+
+Chuul
+Survivors of the ancient aboleth empire, chuuls are crustaceans the aboleths modified and endowed with sentience. They follow the ingrained directives of their creators, as they have done since the dawn of time.
+
+Primeval Relics. In the primeval ages, aboleths ruled a vast empire that spanned the oceans of the world. In those days, the aboleths used mighty magic and bent the minds of the nascent creatures of the mortal realm. However, they were bound to the water and could not enforce their will beyond it without servants. Therefore, they created chuuls.
+
+
+Perfectly obedient, the chuuls collected sentient creatures and magic at the aboleths’ command. Chuuls were designed to endure the ages of the world, growing in size and strength as the eons passed. When the aboleths’ empire crumbled with the rise of the gods, the chuuls were cast adrift. However, these creatures continue to do what they did for the aboleths, slowly collecting humanoids, gathering treasure, amassing magic, and consolidating power.
+
+
+Tireless Guardians. Chuul still guard the ruins of the ancient aboleth empire. They linger in silent observance of eons-old commands. Rumors and ancient maps sometimes lure treasure seekers to these ruins, but the reward for their boldness is death.
+
+Whatever riches that the explorers bring with them adds to the hoard guarded by the chuuls. Chuuls can sense magic at a distance. This sense couples with an innate drive that leads them to slay explorers, take their gear, and bury it in secret locales aboleths dictated eons ago.
+
+Waiting Servants. Although the aboleths’ ancient empire fell long ago, the psychic bonds between them and their created servants remain intact. Chuuls that come into contact with aboleths immediately assume their old roles. Such chuuls redirect their compulsions to the service of the aboleths’ sinister purposes.
+
+CHUUL
+Large aberration, chaotic evil
+
+Armor Class 16 (natural armor)
+
+Hit Points 93 (11d10 + 33)
+
+Speed 30 ft., swim 30 ft.
+
+STR
+19 (+4)
+DEX
+10 (+0)
+CON
+16 (+3)
+INT
+5 (−3)
+WIS
+11 (+0)
+CHA
+5 (−3)
+Skills Perception +4
+
+Damage Immunities poison
+
+Condition Immunities poisoned
+
+Senses darkvision 60 ft., passive Perception 14
+
+Languages understands Deep Speech but can’t speak
+
+Challenge 4 (1,100 XP)
+
+Amphibious. The chuul can breathe air and water.
+
+Sense Magic. The chuul senses magic within 120 feet of it at will. This trait otherwise works like the detect magic spell but isn’t itself magical.
+
+Actions
+
+Multiattack. The chuul makes two pincer attacks. If the chuul is grappling a creature, the chuul can also use its tentacles once.
+
+Pincer. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage. The target is grappled (escape DC 14) if it is a Large or smaller creature and the chuul doesn’t have two other creatures grappled.
+
+Tentacles. One creature grappled by the chuul must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. Until this poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+
+Cloaker
+Cloakers earned their names for the resemblance they bear to dark leathery cloaks. Lurking in remote dungeons and caves, these stealthy predators wait to slay lone or injured prey stumbling through the darkness.
+
+Camouflaged Lurkers. Like a stingray, a cloaker’s body is composed of cartilage and muscle. With its tail and fins unfurled, it flies through darkness and lurks among the shadows of caverns the same way a stingray glides through water and hides on the ocean floor. Parallel rows of round, black eyespots run along its back like buttons, and the ivory-colored claws on its cowl resemble bone clasps.
+
+When a cloaker unfurls and moves to attack, it reveals its pale underside and makes its true nature evident. Red eyes glow above rows of sharp teeth, and a long pendulous tail whips behind it.
+
+Opportunistic Predators. When hunting, cloakers glide through the shadows at a safe distance behind groups of other creatures traversing the Underdark. They follow parties of humanoids to prey on the wounded after a battle, or pursue herds of Underdark beasts, attacking the sick, the weak, or the straggling.
+
+Cloakers strike quickly and consume their meals as swiftly as possible, enveloping and devouring their victims. While it feeds, a cloaker uses its swift, whiplike tail for defense, although it rarely takes a stand against dangerous foes or groups of creatures. As an added defense, cloakers can create illusory duplicates of themselves.
+
+Haunting Moan. Cloakers’ thoughts are alien to other life-forms, and they communicate with one another through subsonic moans inaudible to most creatures. At higher intensities, a cloaker’s haunting moan becomes audible, evoking sensations of doom and dread in creatures that hear it.
+
+Cloaker Conclaves. Cloakers prefer isolation, but they sometimes convene with other cloakers for defense or to exchange information about new dangers, suitable hunting grounds, or developments that might affect their habitats. When this convergence is complete, the cloakers separate again.
+
+CLOAKER
+Large aberration, chaotic neutral
+
+Armor Class 14 (natural armor)
+
+Hit Points 78 (12d10 + 12)
+
+Speed 10 ft., fly 40 ft.
+
+STR
+17 (+3)
+DEX
+15 (+2)
+CON
+12 (+1)
+INT
+13 (+1)
+WIS
+12 (+1)
+CHA
+14 (+2)
+Skills Stealth +5
+
+Senses darkvision 60 ft., passive Perception 11
+
+Languages Deep Speech, Undercommon
+
+Challenge 8 (3,900 XP)
+
+Damage Transfer. While attached to a creature, the cloaker takes only half the damage dealt to it (rounded down), and that creature takes the other half.
+
+False Appearance. While the cloaker remains motionless without its underside exposed, it is indistinguishable from a dark leather cloak.
+
+Light Sensitivity. While in bright light, the cloaker has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.
+
+Actions
+
+Multiattack. The cloaker makes two attacks: one with its bite and one with its tail.
+
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) piercing damage, and if the target is Large or smaller, the cloaker attaches to it. If the cloaker has advantage against the target, the cloaker attaches to the target’s head, and the target is blinded and unable to breathe while the cloaker is attached. While attached, the cloaker can make this attack only against the target and has advantage on the attack roll. The cloaker can detach itself by spending 5 feet of its movement. A creature, including the target, can take its action to detach the cloaker by succeeding on a DC 16 Strength check.
+
+Tail. Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. Hit: 7 (1d8 + 3) slashing damage.
+
+Moan. Each creature within 60 feet of the cloaker that can hear its moan and that isn’t an aberration must succeed on a DC 13 Wisdom saving throw or become frightened until the end of the cloaker’s next turn. If a creature’s saving throw is successful, the creature is immune to the cloaker’s moan for the next 24 hours
+
+Phantasms (Recharges after a Short or Long Rest). The cloaker magically creates three illusory duplicates of itself if it isn’t in bright light. The duplicates move with it and mimic its actions, shifting position so as to make it impossible to track which cloaker is the real one. If the cloaker is ever in an area of bright light, the duplicates disappear.
+
+Whenever any creature targets the cloaker with an attack or a harmful spell while a duplicate remains, that creature rolls randomly to determine whether it targets the cloaker or one of the duplicates. A creature is unaffected by this magical effect if it can’t see or if it relies on senses other than sight.
+
+A duplicate has the cloaker’s AC and uses its saving throws. If an attack hits a duplicate, or if a duplicate fails a saving throw against an effect that deals damage, the duplicate disappears.
+
+
+Cockatrice
+The cockatrice looks like a hideous hybrid of lizard, bird, and bat, and it is infamous for its ability to turn flesh to stone. These omnivores have a diet that consists of berries, nuts, flowers, and small animals such as insects, mice, and frogs — things they can swallow whole. They would be no threat to anything else if not for their fierce and frenzied response to even a hint of danger. A cockatrice flies into the face of any threat, squawking and madly beating its wings as its head darts out to peck. The smallest scratch from a cockatrice’s beak can spell doom as its victim slowly turns to stone from the injury.
+
+
+COCKATRICE
+Small monstrosity, unaligned
+
+Armor Class 11
+
+Hit Points 27 (6d6 + 6)
+
+Speed 20 ft., fly 40 ft.
+
+STR
+6 (−2)
+DEX
+12 (+1)
+CON
+12 (+1)
+INT
+2 (−4)
+WIS
+13 (+1)
+CHA
+5 (−3)
+Senses darkvision 60 ft., passive Perception 11
+
+Languages —
+
+Challenge 1/2 (100 XP)
+
+Actions
+
+Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
+
+Couatl
+Couatls are benevolent serpentine beings of great intellect and insight. Their brilliantly colored wings and gentle manner speak to their celestial origins.
+
+Divine Caretakers. Couatls were created as guardians and caretakers by a benevolent god not worshiped since the dawn of time, and which is forgotten now by all but the couatls themselves. Most of the divine mandates given to these beings are long since fulfilled or failed. However, a number of couatls still watch over ancient power, await fulfillment of prophecy, or safeguard the heirs of creatures they once guided and protected. Regardless of a couatl’s task, it prefers to remain hidden, revealing itself only as a last resort.
+
+Truth Tellers. A couatl can’t lie, but it can withhold information, answer questions vaguely, or allow others to jump to the wrong conclusions if doing so is necessary to protect something, to keep promises, or to hide the secret of its existence.
+
+Ancient and Few. A couatl can live for ages without sustenance, even surviving without air, but these creatures can die of disease or the passage of time. A couatl can sense its end up to a century beforehand, but it has no insight into the manner of its demise.
+
+If a couatl has already accomplished what it set out to do, it accepts its fate. However, if its imminent death endangers the completion of its goals, it actively seeks out another couatl with which to produce offspring.
+
+The mating ritual of couatls is a beautiful and elaborate dance of magic and light, which results in a gem-like egg from which a new couatl hatches. The parent that sought out the mate raises the newborn couatl and instructs it as to its duties, so that it can complete whatever task the parent leaves unfinished.
+
+COUATL
+Medium celestial, lawful good
+
+Armor Class 19 (natural armor)
+
+Hit Points 97 (13d8 + 39)
+
+Speed 30 ft., fly 90 ft.
+
+STR
+16 (+3)
+DEX
+20 (+5)
+CON
+17 (+3)
+INT
+18 (+4)
+WIS
+20 (+5)
+CHA
+18 (+4)
+Saving Throws Con +5, Wis +7, Cha +6
+
+Damage Resistances radiant
+
+Damage Immunities psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+
+Senses truesight 120 ft., passive Perception 15
+
+Languages all, telepathy 120 ft.
+
+Challenge 4 (1,100 XP)
+
+Innate Spellcasting. The couatl’s spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:
+
+At will: detect evil and good, detect magic, detect thoughts
+
+3/day each: bless, create food and water, cure wounds, lesser restoration, protection from poison, sanctuary, shield
+
+1/day each: dream, greater restoration, scrying
+
+Magic Weapons. The couatl’s weapon attacks are magical.
+
+Shielded Mind. The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location.
+
+Actions
+
+Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.
+
+Constrict. Melee Weapon Attack: +6 to hit, reach 10 ft., one Medium or smaller creature. Hit: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the couatl can’t constrict another target.
+
+Change Shape. The couatl magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the couatl’s choice).
+
+In a new form, the couatl retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and other actions are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks. If the new form has a bite attack, the couatl can use its bite in that form.
+
+
+Crawling Claw
+“Makes you wonder what can be done with all those other murderer parts, doesn’t it?”
+
+—Evangeliza Lavain, necromancer
+
+Crawling claws are the severed hands of murderers animated by dark magic so that they can go on killing. Wizards and warlocks of a dark bent use crawling claws as extra hands in their labors.
+
+Magical Origins. Through dark necromantic rituals, the life force of a murderer is bound to its severed hand, haunting and animating it. If a dead murderer’s spirit already manifests as another undead creature, if the murderer is raised from death, or if the spirit has long passed on to another plane, the ritual fails.
+
+The ritual invoked to create a crawling claw works best with a hand recently severed from a murderer. To this end, ritualists and their servants frequent public executions to gain possession of suitable hands, or make bargains with assassins and torturers.
+
+CRAWLING CLAW
+Tiny undead, neutral evil
+
+Armor Class 12
+
+Hit Points 2 (1d4)
+
+Speed 20 ft., climb 20 ft.
+
+STR
+13 (+1)
+DEX
+14 (+2)
+CON
+11 (+0)
+INT
+5 (−3)
+WIS
+10 (+0)
+CHA
+4 (−3)
+Damage Immunities poison
+
+Condition Immunities charmed, exhaustion, poisoned
+
+Senses blindsight 30 ft. (blind beyond this radius), passive Perception 10
+
+Languages understands Common but can’t speak
+
+Challenge 0 (10 XP)
+
+Turn Immunity. The claw is immune to effects that turn undead.
+
+Actions
+
+Claw. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning or slashing damage (claw’s choice).
+
+
+Creator’s Control. A crawling claw can’t be turned, nor can it be controlled by spells that control undead. These foul monsters are entirely bound to the will of their creator, which can concentrate on a claw in sight to mentally command its every action. If the crawling claw’s creator doesn’t command it, the claw follows its last command to the best of its ability.
+
+Commands given to a crawling claw must be simple. A claw can’t be tasked with finding and killing a particular person, because its limited senses and intelligence prevent it from tracking and picking out specific individuals. However, a command to kill all creatures in a particular locale works. A crawling claw can easily feel out the contours of keys and doorknobs, crawling from room to room on a blind killing spree.
+
+Malign Intelligence. A crawling claw possesses little of the intellect and memories of the individual of which it was once a living part. The hate, jealousy, or greed that drove that person to murder lingers on, however, amplified by the claw’s torturous fragmented state. Left to its own devices, a crawling claw imitates and recreates the same murderous acts it committed in life.
+
+Living Claws. If a crawling claw is animated from the severed hand of a still-living murderer, the ritual binds the claw to the murderer’s soul. The disembodied hand can then return to its former limb, its undead flesh knitting to the living arm from which it was severed.
+
+Made whole again, the murderer acts as though the hand had never been severed and the ritual had never taken place. When the crawling claw separates again, the living body falls into a coma. Destroying the crawling claw while it is away from the body kills the murderer. However, killing the murderer has no effect on the crawling claw.
+
+Undead Nature. A crawling claw doesn’t require air, food, drink, or sleep.
+
+Cyclops
+Cyclopes are one-eyed giants that eke out a meager existence in wild lands. Isolationists by nature, they avoid contact with other races and try to drive away strangers in their territory.
+
+Nonreligious. Legends claim that the cyclopes are the spawn of one of the gods of the giants, but these creatures pay little heed to any deities. They see little benefit in prayer and dislike ritual, which they perceive as complex and foreign. However, a cyclops that gains direct benefit from some site of divine power, or which is threatened by a supernatural force or creature, will pay homage as long as the benefit or threat remains.
+
+Unsophisticated. Though they are reasonably intelligent, cyclopes live simple, reclusive lives, keeping herds of animals for food. They prefer to dwell alone or in small family groups, lairing in caves, ruins, or rough structures of dry stone construction they build themselves. A cyclops keeps its herd animals with it at night, sealing the entrance to its home with boulders to let it serve double duty as a barn.
+
+A cyclops lairs within a day’s journey of other cyclopes, so that they can meet to trade goods or seek mates. They craft weapons and tools of wood and stone, but will use metal when they can find it. Although cyclopes understand the Giant tongue, they write nothing and speak little, using grunts and gestures for their interactions with each other.
+
+Cyclopes don’t use money for trade, but they value gold, shells, and other glittering and colorful objects as jewelry. A cyclops might wear a necklace strung with feathers and silver coins, but also with pewter goblets, cutlery, and other bits of ruined metal.
+
+Unwise. Cyclopes aren’t great thinkers or strategists. Slow to learn and bound to their traditional ways, they find innovation difficult. Although they are a terrifying threat in combat due to their size and strength, they can often be tricked by clever foes.
+
+Cyclopes can be cowed and awed by obvious displays of magic. Rustics with little exposure to magic, they can be deceived into mistaking a warlock, cleric, or other caster for a powerful divine figure. However, their sense of pride causes them to react with vengeful, bloodthirsty violence once they learn that the individual they assumed was a “god” is a mere mortal.
+
+CYCLOPS
+Huge giant, chaotic neutral
+
+Armor Class 14 (natural armor)
+
+Hit Points 138 (12d12 + 60)
+
+Speed 30 ft.
+
+STR
+22 (+6)
+DEX
+11 (+0)
+CON
+20 (+5)
+INT
+8 (−1)
+WIS
+6 (−2)
+CHA
+10 (+0)
+Senses passive Perception 8
+
+Languages Giant
+
+Challenge 6 (2,300 XP)
+
+Poor Depth Perception. The cyclops has disadvantage on any attack roll against a target more than 30 feet away.
+
+Actions
+
+Multiattack. The cyclops makes two greatclub attacks.
+
+Greatclub. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.
+
+Rock. Ranged Weapon Attack: +9 to hit, range 30/120 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage.
