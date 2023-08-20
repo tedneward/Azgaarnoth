@@ -1,7 +1,7 @@
-# Crab
+# Crabs
 Most of the time, these crustaceans are harmless and make for good eats. These are found on nearly every beach or seashore across Azgaarnoth, and thanks to their pentiful nature, are a common staple in most commoners' diets. Some, however, grow to more threatening size and take poorly to those who would capture them. Still good eats, though.
 
-> Jump to: [Crab](#crab-1) | [Giant Crab]
+> Jump to: [Crab](#crab) | [Giant Crab](#giant-crab)
 
 ## Crab
 

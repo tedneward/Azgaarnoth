@@ -1,7 +1,7 @@
-# Boar
+# Boars
 Larger relatives of the pig family, boars are generally not aggressive unless attacked or provoked, after which they become fiercely violent. Many's the knight out boar hunting that underestimates these animals and comes back empty-handed and deeply wounded. Many's also the knight out boar hunting that finds hunting a giant boar to be a very, very different prospect than a normal-sized one.
 
-> Jump to: [Boar](#boar-1) | [Giant Boar]()
+> Jump to: [Boar](#boar) | [Giant Boar](#giant-boar)
 
 ## Boar
 The boar is common across Azgaarnoth, and 

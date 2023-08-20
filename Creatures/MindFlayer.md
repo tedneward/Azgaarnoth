@@ -21,17 +21,17 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 
 ***Spellcasting.*** The mind flayer is a 10th-level spellcaster. Its spellcasting ability is Intelligence (save DC 15, +7 to hit with spell attacks). The mind flayer has the following wizard spells prepared:
 
-Cantrips (at will): blade ward, dancing lights, mage hand, shocking grasp
+* Cantrips (at will): blade ward, dancing lights, mage hand, shocking grasp
 
-1st level (4 slots): detect magic, disguise self, shield, sleep
+* 1st level (4 slots): detect magic, disguise self, shield, sleep
 
-2nd level (3 slots): blur, invisibility, ray of enfeeblement
+* 2nd level (3 slots): blur, invisibility, ray of enfeeblement
 
-3rd level (3 slots): clairvoyance, lightning bolt, sending
+* 3rd level (3 slots): clairvoyance, lightning bolt, sending
 
-4th level (3 slots): confusion, hallucinatory terrain
+* 4th level (3 slots): confusion, hallucinatory terrain
 
-5th level (2 slots): telekinesis, wall of force
+* 5th level (2 slots): telekinesis, wall of force
 
 >### Mind Flayer
 >*Medium aberration, lawful evil*

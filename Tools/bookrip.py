@@ -15,31 +15,29 @@ def spellprint(spell):
     print('---')
     print('\n'.join(spell[6:]))
 
-
-pdfFileObj = open('The_Elemental_Spellbook_v1.0.pdf', 'rb')
+print(sys.argv)
+pdfFileObj = open(sys.argv[1], 'rb')
 pdfReader = PdfReader(pdfFileObj)
-page = 3
+
+start = 0
+if len(sys.argv) > 2:
+    start = int(sys.argv[2])
+print("Starting at " + str(start))
+
+stop = len(pdfReader.pages)
+if len(sys.argv) > 3:
+    stop = int(sys.argv[3])
+print("Stopping at " + str(stop))
+    
 line = 0
 lines = []
 spellbreaks = []
-while page < len(pdfReader.pages):
-    pagetext = pdfReader.pages[page].extract_text()
+pagect = start
+while pagect < stop:
+    pagetext = pdfReader.pages[pagect].extract_text()
     lines += pagetext.splitlines()
-    page += 1
+    print(pagect)
+    pagect += 1
 
 for l in lines:
-    if l[0:len('Casting Time: ')] == 'Casting Time: ':
-        spellbreaks.append(line - 2)
-    line += 1
-
-i = 0
-start = 0
-end = 0
-spells = []
-while i < len(spellbreaks):
-    end = spellbreaks[i]
-    spell = lines[start:end]
-    spellprint(spell)
-    start = end
-    i += 1
-
+    print(l)

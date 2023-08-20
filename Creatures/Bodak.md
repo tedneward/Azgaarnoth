@@ -1,5 +1,5 @@
 ## Bodak
-A bodak is the undying remains of someone who revered Orcus (appears in this book). Devoid of life and soul, it exists only to cause death.
+A bodak is the undying remains of someone who revered Orcus. Devoid of life and soul, it exists only to cause death.
 
 A worshiper of Orcus can take ritual vows while carving the demon lord's symbol on their chest over the heart. Orcus's power flays body, mind, and soul, leaving behind a sentient husk that consumes life energy near it. Most bodaks come into being in this way, then are unleashed to spread death in Orcus's name.
 

@@ -1,9 +1,9 @@
-# Ape
+# Simians
+The simian family of creatures are those that are vaguely humanoid yet still bestial: monkeys, baboons, apes, and so on.
 
+> Jump to: [Ape](#ape) | [Baboon](#baboon) | [Giant Ape](#giant-ape) | [Gorilla]() **TODO**
 
-> Jump to: [Ape](#standard-ape) | [Baboon](#baboon) | [Giant Ape](#giant-ape) | [Gorilla]() **TODO**
-
-## Standard Ape
+## Ape
 
 >### Ape
 >*Medium beast, unaligned*

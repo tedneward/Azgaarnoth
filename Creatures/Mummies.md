@@ -1,13 +1,9 @@
 # Mummies
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
 
+> Jump to: [Mummy](#mummy) | [Mummy Lord](#mummy-lord)
 
-> Jump to: [Mummy](#Mummy) | [Mummy Lord](#Mummy Lord)
-
-
-
-Preserved Wrath. The long burial rituals that accompany a mummy's entombment help protect its body from rot. In the embalming process, the newly dead creature's organs are removed and placed in special jars, and its corpse is treated with preserving oils, herbs, and wrappings. After the body has been prepared, the corpse is typically wrapped in linen bandages.
-
+***Preserved Wrath.*** The long burial rituals that accompany a mummy’s entombment help protect its body from rot. In the embalming process, the newly dead creature’s organs are removed and placed in special jars, and its corpse is treated with preserving oils, herbs, and wrappings. After the body has been prepared, the corpse is typically wrapped in linen bandages.
 
 ---
 
@@ -99,19 +95,19 @@ The mummy lord's heart has AC 5, 25 hit points, and immunity to all damage excep
 >
 >***Spellcasting.*** The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:
 >
->Cantrips (at will): sacred flame, thaumaturgy
+>* Cantrips (at will): sacred flame, thaumaturgy
 >
->1st level (4 slots): command, guiding bolt, shield of faith
+>* 1st level (4 slots): command, guiding bolt, shield of faith
 >
->2nd level (3 slots): hold person, silence, spiritual weapon
+>* 2nd level (3 slots): hold person, silence, spiritual weapon
 >
->3rd level (3 slots): animate dead, dispel magic
+>* 3rd level (3 slots): animate dead, dispel magic
 >
->4th level (3 slots): divination, guardian of faith
+>* 4th level (3 slots): divination, guardian of faith
 >
->5th level (2 slots): contagion, insect plague
+>* 5th level (2 slots): contagion, insect plague
 >
->6th level (1 slot): harm
+>* 6th level (1 slot): harm
 >
 >#### Actions
 >***Multiattack.*** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
@@ -125,32 +121,27 @@ The mummy lord's heart has AC 5, 25 hit points, and immunity to all damage excep
 >
 >***Attack.*** The mummy lord makes one attack with its rotting fist or uses its Dreadful Glare.
 >
->***Blinding Dust.*** Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving throw or be blinded until the end of the creature's next turn.
+>***Blinding Dust.*** Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving throw or be blinded until the end of the creature’s next turn.
 >
->***Blasphemous Word (Costs 2 Actions).*** The mummy lord utters a blasphemous word. Each non-undead creature within 10 feet of the mummy lord that can hear the magical utterance must succeed on a DC 16 Constitution saving throw or be stunned until the end of the mummy lord's next turn.
+>***Blasphemous Word (Costs 2 Actions).*** The mummy lord utters a blasphemous word. Each non-undead creature within 10 feet of the mummy lord that can hear the magical utterance must succeed on a DC 16 Constitution saving throw or be stunned until the end of the mummy lord’s next turn.
 >
->Channel Negative Energy (Costs 2 Actions). The mummy lord magically unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can't regain hit points until the end of the mummy lord's next turn.
+>***Channel Negative Energy (Costs 2 Actions).*** The mummy lord magically unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can’t regain hit points until the end of the mummy lord’s next turn.
 >
->Whirlwind of Sand (Costs 2 Actions). The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can't be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.
+>***Whirlwind of Sand (Costs 2 Actions).*** The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can’t be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.
 >
->A Mummy Lord's Lair
->
->
->
->
->
->On initiative count 20 (losing initiative ties), the mummy lord takes a lair action to cause one of the following effects; the mummy lord can't use the same effect two rounds in a row.
->
->Each undead creature in the lair can pinpoint the location of each living creature within 120 feet of it until initiative count 20 on the next round.
->
->Until initiative count 20 on the next round, any non-undead creature that tries to cast a spell of 4th level or lower in the mummy lord's lair is wracked with pain. The creature can choose another action, but if it tries to cast the spell, it must make a DC 16 Constitution saving throw. On a failed save, it takes 1d6 necrotic damage per level of the spell, and the spell has no effect and is wasted.
->
->Regional Effects
->
->
->
->Divination spells cast within the lair by creatures other than the mummy lord have a 25 percent chance to provide misleading results, as determined by the DM. If a divination spell already has a chance to fail or become unreliable when cast multiple times, that chance increases by 25 percent.
->
->If the mummy lord is destroyed, these regional effects end immediately.
->
+
+### A Mummy Lord's Lair
+A mummy lord watches over an ancient temple or tomb that is protected by lesser undead and rigged with traps. Hidden in this temple is the sarcophagus where a mummy lord keeps its greatest treasures.A mummy lord encountered in its lair has a challenge rating of 16 (15,000 XP).
+
+#### Lair Actions
+On initiative count 20 (losing initiative ties), the mummy lord takes a lair action to cause one of the following effects; the mummy lord can’t use the same effect two rounds in a row.
+* Each undead creature in the lair can pinpoint the location of each living creature within 120 feet of it until initiative count 20 on the next round.
+* Each undead in the lair has advantage on saving throws against effects that turn undead until initiative count 20 on the next round.
+* Until initiative count 20 on the next round, any non-undead creature that tries to cast a spell of 4th level or lower in the mummy lord’s lair is wracked with pain. The creature can choose another action, but if it tries to cast the spell, it must make a DC 16 Constitution saving throw. On a failed save, it takes 1d6 necrotic damage per level of the spell, and the spell has no effect and is wasted.
+#### Regional Effects
+A mummy lord’s temple or tomb is warped in any of the following ways by the creature’s dark presence:
+* Food instantly molders and water instantly evaporates when brought into the lair. Other nonmagical drinks are spoiled — wine turning to vinegar, for instance.
+* Divination spells cast within the lair by creatures other than the mummy lord have a 25 percent chance to provide misleading results, as determined by the DM. If a divination spell already has a chance to fail or become unreliable when cast multiple times, that chance increases by 25 percent.
+* A creature that takes treasure from the lair is cursed until the treasure is returned. The cursed target has disadvantage on all saving throws. The curse lasts until removed by a remove curse spell or other magic.
+* If the mummy lord is destroyed, these regional effects end immediately.
 
