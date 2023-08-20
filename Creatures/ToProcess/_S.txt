@@ -1,1540 +1,364 @@
-Sahuagin
-Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn -- a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils,” for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
+## Orange Slaad
+*medium aberration (shapechanger), chaotic neutral*
 
-"The village was empty, the seagulls were strangely quiet, and all we could hear was the surge of the sea.”
+**Armor Class** 18 (natural armor)
 
--- An account of the aftermath of a sahuagin raid
+**Hit Points** 170 (20d8 + 80)
 
-Devils of the Deep. Sahuagin are a predatory, piscine race that ventures from the ocean's black depths to hunt the creatures of the shallows and shore. Though they dwell in the deepest trenches of the ocean, sahuagin view the entire aquatic realm as their kingdom and the creatures in it as blood sport for their hunting parties.
+**Speed** 30 ft.
 
-The self-styled rulers of sahuagin ocean domains are massive mutant males that grow second sets of arms. They are terrible foes in battle, and all sahuagin bow down before these powerful barons.
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+20 (+5)|15 (+2)|19 (+4)|15 (+2)|10 (+0)|16 (+3)
 
-Way of the Shark. Sahuagin worship the shark god Sekolah. Only female sahuagin are deemed worthy of channeling the god's power, and priestesses hold tremendous sway in sahuagin communities.
+**Skills** Arcana +6, Perception +8
 
-Sahuagin are driven into a frenzy by the smell of fresh blood. As worshipers of Sekolah, they also have a special kinship with sharks, which they train as attack animals. Even untrained sharks recognize sahuagin as allies and don't prey on them.
+**Damage Resistances** Acid, Cold, Lightning, Thunder
 
-Elven Enmity. The sahuagin might control the oceans if not for the presence of their mortal enemies, the aquatic elves. Wars between the two races have raged for centuries across the coasts and seas of the world, disrupting maritime trade and drawing other races into the bloody conflict.
+**Damage Immunity** Fire
 
-SAHUAGIN
-Medium humanoid (sahuagin), lawful evil
+**Senses** Blindsight 60 ft., Darkvision 60 ft., Passive Perception 18
 
-Armor Class 12 (natural armor)
+**Languages** Slaad, Ignan, Telepathy 60 ft.
 
-Hit Points 22 (4d8 + 4)
+**Challenge** 10 (5,900 XP)
 
-Speed 30 ft., swim 40 ft.
+**Proficiency Bonus** +4
 
-STR
-13 (+1)
-DEX
-11 (+0)
-CON
-12 (+1)
-INT
-12 (+1)
-WIS
-13 (+1)
-CHA
-9 (−1)
-Skills Perception +5
+**Shapechanger.** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-Senses darkvision 120 ft., passive Perception 15
+**Innate Spellcasting.** The slaad's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:
 
-Languages Sahuagin
+* *At will:* detect magic, detect thoughts, invisibility (self only), mage hand, major image
+* *2/day each:* fear, fireball, fly, tongues
+* *1/day each:* cloudkill, plane shift
 
-Challenge 1/2 (100 XP)
+**Magic Resistance.** The slaad has advantage on saving throws against spells and other magical effects.
 
-Blood Frenzy. The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
+**Magic Weapons.** The slaad's weapon attacks are magical.
 
-Limited Amphibiousness. The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.
+**Regeneration.** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
 
-Shark Telepathy. The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
+#### Actions
+**Multiattack.** The slaad makes three attacks: one with its bite and two with its claws. Alternatively, it uses its Hurl Flame twice.
 
-Actions
+**Bite (Slaad Form Only).** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) fire damage.
 
-Multiattack. The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.
+**Claws (Slaad Form Only).** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) fire damage.
 
-Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
+**Hurl Flame.** Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 20 (5d6) fire damage. The fire ignites flammable objects that aren't being worn or carried.
 
-Claws. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.
+#### Description
+The orange slaad are slaad that are infused with chaos and fire, born when a green slaad transforms not into a gray, but into something born of heat and ash. Like the gray, orange can only ascend to become death slaadi by consuming the corpse of a death slaadi, so like the gray, orange slaadi choose a death slaad to serve in exchange for the opportunity to become a death slaadi. However, some orange slaadi can also ascend by consuming one of their cousin-kin (the brown, indigo, or cyan), though it's not consistent as to when or how.
 
-Spear. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+In their natural form, orange slaadi are ...
 
+---
 
-So intense is sahuagin hatred for the aquatic elves that the sea devils have adapted to combat their ancient foes. A sahuagin born near enough to an aquatic elf community can enter the world as a malenti -- a sahuagin that physically resembles an aquatic elf in every way. Sahuagin are prone to mutation, but whether this rare phenomenon is a result of the wars between the sahuagin and the aquatic elves -- or whether it preceded or even began the conflict -- none can say.
+## Brown Slaad
+*medium aberration (shapechanger), chaotic neutral*
 
-The sahuagin put the malenti to good use as spies and assassins in aquatic elf cities and the societies of other creatures that pose a threat to sahuagin. The mere shadow of the malenti threat incites paranoia and suspicion among aquatic elves, whose resilience is weakened as the prelude to an actual sahuagin invasion.
+**Armor Class** 18 (natural armor)
 
-Sahuagin Priestess
-SAHUAGIN PRIESTESS
-Medium humanoid (sahuagin), lawful evil
+**Hit Points** 170 (20d8 + 80)
 
-Armor Class 12 (natural armor)
+**Speed** 30 ft.
 
-Hit Points 33 (6d8 + 6)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+20 (+5)|15 (+2)|19 (+4)|15 (+2)|10 (+0)|16 (+3)
 
-Speed 30 ft., swim 40 ft.
+**Skills** Arcana +6, Perception +8
 
-STR
-13 (+1)
-DEX
-11 (+0)
-CON
-12 (+1)
-INT
-12 (+1)
-WIS
-14 (+2)
-CHA
-13 (+1)
-Skills Perception +6, Religion +3
+**Damage Resistances** Acid, Cold, Fire, Lightning, Thunder
 
-Senses darkvision 120 ft., passive Perception 16
+**Senses** Blindsight 60 ft., Darkvision 60 ft., Passive Perception 18
 
-Languages Sahuagin
+**Languages** Slaad, Terran, Telepathy 60 ft.
 
-Challenge 2 (450 XP)
+**Challenge** 10 (5,900 XP)
 
-Blood Frenzy. The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
+**Proficiency Bonus** +4
 
-Limited Amphibiousness. The sahuagin can breathe air and water, but she needs to be submerged at least once every 4 hours to avoid suffocating.
+**Shapechanger.** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-Shark Telepathy. The sahuagin can magically command any shark within 120 feet of her, using a limited telepathy.
+**Innate Spellcasting.** The slaad's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:
 
-Spellcasting. The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following cleric spells prepared:
+* *At will:* detect magic, detect thoughts, invisibility (self only), mage hand, major image
+* *2/day each:* fear, erupting earth, fly, tongues
+* *1/day each:* cloudkill, plane shift
 
-Cantrips (at will): guidance, thaumaturgy
+**Magic Resistance.** The slaad has advantage on saving throws against spells and other magical effects.
 
-1st level (4 slots): bless, detect magic, guiding bolt
+**Magic Weapons.** The slaad's weapon attacks are magical.
 
-2nd level (3 slots): hold person, spiritual weapon (trident)
+**Regeneration.** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
 
-3rd level (3 slots): mass healing word, tongues
+#### Actions
+**Multiattack.** The slaad makes three attacks: one with its bite and two with its claws. Alternatively, it uses its Hurl Flame twice.
 
-Actions
+**Bite (Slaad Form Only).** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) fire damage.
 
-Multiattack. The sahuagin makes two attacks: one with her bite and one with her claws.
+**Claws (Slaad Form Only).** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) fire damage.
 
-Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
+**Hurl Stone.** Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 22 (5d6) bludgeoning damage. The stone may cause structural damage to any location on a miss, and on a hit may push the target back by 5ft if they fail a CON save at DC 15.
 
-Claws. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.
+#### Description
+The brown slaad are slaad that are infused with chaos and earth, born when a green slaad transforms not into a gray, but into somethinb born of rock and stone. Like the gray, brown can only ascend to become death slaadi by consuming the corpse of a death slaadi, so like the gray, brown slaadi choose a death slaad to serve in exchange for the opportunity to become a death slaadi. However, some brown slaadi can also ascend by consuming one of their cousin-kin (the orange, indigo, or cyan), though it's not consistent as to when or how.
 
-Sahuagin Baron
-SAHUAGIN BARON
-Large humanoid (sahuagin), lawful evil
+In their normal form, brown slaadi are ...
 
-Armor Class 16 (breastplate)
+Brown slaadi are some of the least chaotic slaadi in their temperament and actions, but when they act, they often do so determinedly and unwaveringly, heedless of the outcome. Browns are often desirable to death slaadi as underlings, as they will resolutely carry out whatever mission they are assigned, but often they lack creativity to work around obstacles--they'd rather plow right through them.
 
-Hit Points 76 (9d10 + 27)
+---
 
-Speed 30 ft., swim 50 ft.
+## Indigo Slaad
 
-STR
-19 (+4)
-DEX
-15 (+2)
-CON
-16 (+3)
-INT
-14 (+2)
-WIS
-13 (+1)
-CHA
-17 (+3)
-Saving Throws Dex +5, Con +6, Int +5, Wis +4
+#### Description
+The indigo slaad are slaad that are infused with chaos and water.
 
-Skills Perception +7
+---
 
-Senses darkvision 120 ft., passive Perception 17
+## Cyan Slaad
 
-Languages Sahuagin
+#### Description
+The cyan slaad are slaad that are infused with chaos and air.
 
-Challenge 5 (1,800 XP)
+---
 
-Blood Frenzy. The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
+## White Slaad
+*Medium aberration (shapechanger), chaotic evil*
 
-Limited Amphibiousness. The sahuagin can breathe air and water, but he needs to be submerged at least once every 4 hours to avoid suffocating.
+**Armor Class** 19 (natural armor)
 
-Shark Telepathy. The sahuagin can magically command any shark within 120 feet of him, using a limited telepathy.
+**Hit Points** 230 (20d8 + 140)
 
-Actions
+**Speed** 30 ft.
 
-Multiattack. The sahuagin makes three attacks: one with his bite and two with his claws or trident.
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+20 (+5)|19 (+4)|24 (+7)|19 (+4)|25 (+7)|22 (+6)
 
-Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) piercing damage.
+**Saving Throws** Str +12, Dex +11, Con +14
 
-Claws. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+**Skills** Arcana +11, Acrobatics +11, Insight +14, Perception +14, Stealth +11
 
-Trident. Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
+**Damage Resistances** acid, cold, fire, lightning, poison, thunder; bludgeoning, piercing and slashing from non-magical attacks
 
+**Senses** blindsight 60 ft., passive Perception 24
 
-Salamanders
-Salamanders slither across the Sea of Ash on the Elemental Plane of Fire, their sinuous coils and jagged spines smoldering. Intense heat washes off their bodies, while their yellow eyes glow like candles in the deep-set hollows of their hawkish faces.
+**Languages** Slaad, telepathy 120 ft.
 
-Salamanders adore power, and they delight in setting fire to things. Outside their home plane, they play among the burning skeletons of charred trees as forest fires rage around them, or slither down the slopes of erupting volcanoes to linger in fire pits and magma floes.
+**Challange** 21 (30,000 XP)
 
-Fire Snake
+**Shapechanger.** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-Fire Snakes. Salamanders hatch from eggs that are two-foot-diameter spheres of smoldering obsidian. When a salamander is ready to hatch, it melts its way through the egg's thick shell and emerges as a fire snake. A fire snake matures into a salamander adult within a year.
+**Innate Spellcasting.** The slaad's spellcasting ability is Charisma (spell save DC 21). It can innately cast the following spells, requiring no material components:
 
-Enslaved by the Efreet. Long ago, the efreet hired azer to build the fabled City of Brass, but then failed in their attempt to enslave that mystical race when the azers' work was done. Turning instead to strike against salamanders, the efreet conquered and enslaved them, then sent them out to unleash war and destruction across the planes.
+* *At will:* fly, greater invisibility (self only), haste, slow, cloudkill
+* *3/day each:* chain lightning, telekinisis, wall of force
+* *1/day each:* planeshift, time stop
 
-Salamanders despise the azers, believing that if the efreet had succeeded in dominating that race of elemental crafters, the salamanders would still be free. The efreet use this enmity to their own advantage, stoking the salamanders' hatred and pitting them against the efreet's former servants.
+**Legendary Resistance (3/Day).** If the slaad fails a saving throw, it can choose to succeed instead.
 
-The efreet suffer salamanders to serve no other master; when efreet encounter salamanders dedicated to the cults of Elemental Evil, they slay them rather than enslaving them.
+**Magic Resistance.** The slaad has advantage on saving throws against spells and other magical effects.
 
-Domineering Nobles. Although salamanders follow the destructive impulses of their fiery nature, slavery under the efreet has impacted the culture of free salamanders. They rule their own societies according to the efreet model, in which larger and stronger salamanders claim dominion over their lesser kin.
+**Magic Weapons.** The slaad's weapon attacks are magical.
 
-FIRE SNAKE
-Medium elemental, neutral evil
+**Regeneration.** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
 
-Armor Class 14 (natural armor)
+**Summon Slaad (1/Day).** The slaad chooses what to summon and attempts a magical summoning. A white slaad summons 1d6 red slaad, 1d4 blue slaad, 1d2 green slaad, or one gray slaad with no chance of failure. Any summoned slaad appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other slaad. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 
-Hit Points 22 (5d8)
+#### Actions
+**Multiattack.** The slaad makes three attacks: one with its bite and two with its claws or greatsword.
 
-Speed 30 ft.
+**Bite (Slaad Form Only).** Melee Weapon Attack: +12 to hit, reach 5ft., one target. Hit 9 (1d8 + 5) piercing damage plus 7 (2d6) necrotic damage.
 
-STR
-12 (+1)
-DEX
-14 (+2)
-CON
-11 (+0)
-INT
-7 (−2)
-WIS
-10 (+0)
-CHA
-8 (−1)
-Damage Vulnerabilities cold
+**Claw (Slaad Form Only).** Melee Weapon Attack: +12 to hit, reach 5ft., one target. Hit 10 (1d10 + 5) slashing damage plus 7 (2d6) necrotic damage. If the target is a humanoid, it must succeed on a DC 21 Constitution saving throw or be infected with a disease called chaos phage. While infected, the target can't regain hit points, and its hit point maximum is reduced by 3 (1d6) at the end of the creatures turn. If the disease reduces the target's hit point maximum to 0, the target instantly transforms into a red slaad or, if it has the ability to cast spells of 3rd level or higher, a green slaad. Only a wish spell can reverse the transformation.
 
-Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks
+**Greatsword.** Melee Weapon Attack: +12 to hit, reach 5ft., one target. Hit 12 (2d6 + 5) piercing damage plus 7 (2d6) necrotic damage.
 
-Damage Immunities fire
+#### Legendary Action
+The slaad can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The slaad regains spent legendary actions at the start of its turn.
 
-Senses darkvision 60 ft., passive Perception 10
+**Shifting Time.** The slaad casts haste or slow.
 
-Languages understands Ignan but can't speak
+**Regeneration (Cost 2 Actions).** The slaad heals 16 (2d8 + 7) hit points.
 
-Challenge 1 (200 XP)
+**Claw Flurry (Cost 3 Actions).** The slaad makes 3 claw attacks.
 
-Heated Body. A creature that touches the snake or hits it with a melee attack while within 5 feet of it takes 3 (1d6) fire damage.
+#### Description
+If a [death slaad](#death-slaad) journeys to the Ethereal and remains there for long enough, it begins a slow transition of color to white. At some point, the transition suddenly catalyzes the death slaad into a white slaad.
 
-Actions
+The white slaadi are also known as the chronos slaadi, due to their chaotic interference of time itself, which not only allows it to call forth itself from another point in its timeline, but gives it an uncanny awareness of events just before they occur. This ability to affect time has the effect of making the white slaad distant and unpredictable, even for slaadi.
 
-Multiattack. The snake makes two attacks: one with its bite and one with its tail.
+The white slaad are obsessed with spreading chaos, seeding disruption where it will have the maximum effect, spreading and spreading far beyond the original act.
 
-Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage plus 3 (1d6) fire damage.
+Many white slaad believe that the Spawning Stone was not created by Primus, but rather that the eldest slaad masters, Ygorl and Ssendam created it to impose structure on the creation of new slaad, to prevent the possibility that the chaos of Limbo might one day create a slaad more powerful than themselves. For this reason, white slaad and the slaad lords are often opposed in purpose.
 
-Tail. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage plus 3 (1d6) fire damage.
+---
 
-Salamander
-As salamanders age, they increase in size and status, rising to positions of power as cruel nobles among their kind. Nobles rule wandering bands of salamanders, which move across the Elemental Plane of Fire like desert nomads, raiding other communities for treasure.
+## Black Slaad
+*Medium aberration (shapechanger), chaotic evil*
 
-Living Forges. Salamanders generate intense heat, and when they fight, their weapons glow red and sear the bodies of their enemies on contact. Even approaching a salamander is dangerous, since flesh blisters and burns in its proximity.
+**Armor Class** 21 (natural armor)
 
-This inherent heat is an asset to salamanders' skill as smiths, allowing them to soften and shape iron and steel with their bare hands. Although not as meticulous as azers, salamanders number among the greatest metalsmiths in all the planes. Powerful creatures summon them as warriors, but others enlist the salamanders for their crafting skills, or bind them to forges and ovens to generate limitless heat.
+**Hit Points** 375 (30d8 + 240)
 
-SALAMANDER
-Large elemental, neutral evil
+**Speed** 30 ft.
 
-Armor Class 15 (natural armor)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+24 (+7)|22 (+6)|27 (+8)|22 (+6)|26 (+8)|24 (+7)
 
-Hit Points 90 (12d10 + 24)
+**Saving Throws** Str +16, Dex +15, Con +17
 
-Speed 30 ft.
+**Skills** Arcana +15, Acrobatics +15, Insight +17, Perception +17, Stealth +15
 
-STR
-18 (+4)
-DEX
-14 (+2)
-CON
-15 (+2)
-INT
-11 (+0)
-WIS
-10 (+0)
-CHA
-12 (+1)
-Damage Vulnerabilities cold
+**Damage Immunities** bludgeoning, piercing and slashing from non-magical attacks
 
-Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks
+**Damage Resistances** acid, cold, fire, lightning, poison, thunder
 
-Damage Immunities fire
+**Senses** blindsight 60 ft., passive Perception 27
 
-Senses darkvision 60 ft., passive Perception 10
+**Languages** Slaad, telepathy 120 ft.
 
-Languages Ignan
+**Challange** 29 (135,000 XP)
 
-Challenge 5 (1,800 XP)
+**Shapechanger.** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-Heated Body. A creature that touches the salamander or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage.
+**Innate Spellcasting.** The slaad's spellcasting ability is Charisma (spell save DC 24). It can innately cast the following spells, requiring no material components:
 
-Heated Weapons. Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack).
+* *At will:* circle of death, dimension door, greater invisibility (self only)
+* *3/day each:* chain lightning, finger of death, maddening darkness
+* *1/day each:* planeshift, power word kill, power word pain
 
-Actions
+**Legendary Resistance (3/Day).** If the slaad fails a saving throw, it can choose to succeed instead.
 
-Multiattack. The salamander makes two attacks: one with its spear and one with its tail.
+**Magic Resistance.** The slaad has advantage on saving throws against spells and other magical effects.
 
-Spear. Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20 ft./60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+**Magic Weapons.** The slaad's weapon attacks are magical.
 
-Tail. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
+**Regeneration.** The slaad regains 30 hit points at the start of its turn if it has at least 1 hit point.
 
+**Summon Slaad (1/Day).** The slaad chooses what to summon and attempts a magical summoning. A black slaad summons 2d4 red slaad, 1d6 blue slaad, 1d4 green slaad, 1d2 gray slaad or one death slaad with no chance of failure. Any summoned slaad appear in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other slaad. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 
+#### Actions
+**Multiattack.** The slaad makes three attacks: one with its bite and two with its claws or three entropic spit attacks.
 
-Satyr
-Satyrs are raucous fey that frolic in wild forests, driven by curiosity and hedonism in equal measure.
+**Bite (Slaad Form Only).** Melee Weapon Attack: +16 to hit, reach 5ft., one target. Hit 11 (1d8 + 7) piercing damage plus 7 (2d6) necrotic damage and 7 (2d6) psychic damage.
 
-Satyrs resemble stout male humans with the furry lower bodies and cloven hooves of goats. Horns sprout from their heads, ranging in shape from a pair of small nubs to large, curling rams' horns. They typically sport facial hair.
+**Claw (Slaad Form Only).** Melee Weapon Attack: +16 to hit, reach 5ft., one target. Hit 12 (1d10 + 7) slashing damage plus 7 (2d6) necrotic damage and 7 (2d6) psychic damage. If the target is a humanoid, it must succeed on a DC 25 Constitution saving throw or be infected with a disease called chaos phage. While infected, the target can't regain hit points, and its hit point maximum is reduced by 7 (2d6) at the end of the creatures turn. If the disease reduces the target's hit point maximum to 0, the target instantly transforms into a red slaad or, if it has the ability to cast spells of 3rd level or higher, a green slaad. Only a wish spell can reverse the transformation.
 
-Twixt day and night the spirits goad me on
+**Entropic Spit (Slaad Form Only).** The slaad exhales mucus in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 25 Dexterity saving throw, taking 14 (4d6) necrotic damage plus, 14 (4d6) force damage on a failed save, or half as much on a successful one.
 
-They pine for ages past when hearts were pure
+**Magic Breaker.** The slaad touches one magical object it can see within 5 feet of it. If the object is being worn or carried by a creature, the creature can make a DC 23 Dexterity saving throw to avoid the slaad's touch. If the object touched is magical armor, a magical shield being worn or carried, or a magical weapon, it takes a permanent and cumulative -1 penalty to the bonus it offers. Items reduced to a magical bonus of +0 are destroyed. If the magical item targeted never offered a magical bonus it is unaffected by this attack.
 
-Against all reason now they seem unsure
+#### Legendary Action
+The slaad can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The slaad regains spent legendary actions at the start of its turn.
 
-They laugh and scream between mine ears anon.
+**Entropy.** The slaad blasts a wave of elemental chaos in a 10 foot circle. Any hostile creature in the radius takes 10 damage of one of the following types (slaads choice): acid, cold, fire, force, lightning, necrotic, or thunder.
 
-Now fill my cup not once, not twice, but thrice
+**Regeneration (Cost 2 Actions).** The slaad heals 26 (4d8 + 8) hit points.
 
-With flagon's brim upon my lips I dance
+**Magic Breaker (Cost 3 Actions).** The slaad uses its Magic Breaker attack.
 
-Let unseen pixies toss their gowns askance
+#### Description
+Save for the great slaad masters themselves, no beings embody the raw destructive power of chaos like black slaadi. Beings of pure entropy, black slaadi appear as a toad-shaped blot of utter darkness from which its two diamond eyes gleam. It is not clear how black slaadi come into being, but it is rumored that death slaadi are transformed into black slaadi only by the will of the Slaad Lords.
 
-While I, the Carnal King, indulge my vice.
+Black slaadi are an enigma, for little has been written on these vastly powerful beings. They wander the Maelstrom, pursuing inscrutable goals and spreading wanton destruction for ends that make sense only in their insane minds. A handful of black slaadi serve as emissaries for the great slaad masters, but most are too devoted to chaos to bend the knee to another being. Many will cultivate slaadi minions, but often black slaad are too chaotic and entropic to hold on to any structure for long, and often wander off on their own, leaving white and death slaadi to battle for control of what they have abandoned.
 
-With folded boughs, the treants take their leave
+---
 
-As merry damsels' corsets come undone
+## Chaos Slaad
+*Large Aberration (Shapechanger), chaotic neutral*
 
-My song doth stir them like a summer breeze
+**Armor Class** 15
 
-They fill mine empty cup without reprieve.
+**Hit Points** 150 (18d10 + 18)
 
-The sun becomes the moon becomes the sun
+Speed: 30 ft
 
-I while away the hours as I please.
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+12 (+1)|12 (+1)|12 (+1)| 8 (-1)| 6 (-2)|12 (+1)
 
--- Sonnet of a Naughty Satyr
+**Saving Throws** All are at +(1d6 + 3)
 
-Hedonistic Revelers. Satyrs crave the strongest drink, the most fragrant spices, and the most dizzying dances. A satyr feels starved when it can't indulge itself, and it goes to great lengths to sate its desires. It might kidnap a fine minstrel to hear lovely songs, sneak through a well-defended garden to gaze upon a beautiful lad or lass, or infiltrate a palace to taste the finest food in the land. Satyrs allow no festivity to pass them by. They partake in any holiday they've heard of. Civilizations of the world have enough festivals and holy days among them to justify nonstop celebration.
+**Skills** Perception: +(1d6 + 3)
 
-SATYR
-Medium fey, chaotic neutral
+**Senses** Blindsight 60, Darkvision 60, Telepathy 60 ft
 
-Armor Class 14 (leather armor)
+**Languages** Slaad, telepathy 60 ft.
 
-Hit Points 31 (7d8)
+**Instinct** Each Slaad possesses an innate desire that guides their current behavior. At the beginning of an encounter, roll a d6.
 
-Speed 40 ft.
+d6 | Result
+-- | ------
+ 1 | **Alternate.** The Slaad temporary has other ideas in its head. Maybe it believes in peace, religion, unifying its people. The DM is free to make whatever drive is suitable, though it never lasts.
+2-5| **Spread.** The Slaad will attack a viable target to spread its eggs, and will switch targets after accomplishing the goal. Slaad will ignore creatures that cannot carry their eggs.
+ 6 | **Destroy.** The Slaad attempts to kill any non-Slaad creature it can see.
 
-STR
-12 (+1)
-DEX
-16 (+3)
-CON
-11 (+0)
-INT
-12 (+1)
-WIS
-10 (+0)
-CHA
-14 (+2)
-Skills Perception +2, Performance +6, Stealth +5
+**Form** Slaads can have fins, gills, wings, multiple legs, and vary greatly in size. At the beginning of an encounter, roll a d6 and check this chart
 
-Senses passive Perception 12
+d6| Result
+--| ------
+1 | **Reduced.** The Slaads size is reduced by 1 category, and damage is reduced by 1d6.
+2 | **Enhanced.** The Slaads size is increased by 1 category, and damage is increased by 1d6.
+3 | **Swim.** Slaad can breathe water and gains a swim speed equal to its speed.
+4 | **Fly.** Slaad has wings and gains a fly speed equal to its speed.
+5 | **Altered Speed.** Add (1d6 - 2) x 5 to the creature's speed.
+6 | Roll 2d6 and consult the chart twice.
 
-Languages Common, Elvish, Sylvan
+**Magic Weapons.** The Slaad's weapon attacks are magical.
 
-Challenge 1/2 (100 XP)
+**Children of Chaos** Slaad add 1d6 to all attacks, saves, checks, saving throw DCs, and damage rolls (already adjusted).
 
-Magic Resistance. The satyr has advantage on saving throws against spells and other magical effects.
+**Entropic Resistance** The first time the Slaad is hit with a weapon type (bludgeoning, slashing, piercing) or an energy type, roll a d6 and consult the chart. Repeat this check for each new type the Slaad is effected by. The effect lasts for the encounter.
 
-Actions
+d6 | Result
+-- | ------
+1  | Slaad is vulnerable to that type
+2-3| Normal
+4-5| Slaad is resistant to that type
+6  | Slaad is immune to that type
 
-Ram. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) bludgeoning damage.
+**Regeneration** The slaad regains 3d6 hit points at the start of its turn if it has 1 hitpoint. When a Slaad reaches 0 hitpoint, roll a d6. On a 6, the Slaad immediately performs regeneration. If the Slaad gets the maximum result on this special regeneration roll, it instead becomes a [death slaad](#death-slaad) at the start of its next turn.
 
-Shortsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+#### Actions
+**Multiattack.** Make 3 attacks, which can be any combination of Limb and Surge of Chaos
 
-Shortbow. Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+**Limb.** Melee Weapon Attack: +1d6 + 5 to hit, reach 5 ft, one target. Hit: 3d6 piercing, slashing, or bludgeoning damage. If the target is humanoid, it must succeed on a DC 12 + 1d6 Constitution saving throw or be infected with a disease called Chaos phase. While infected, the target cannot regain hitpoints. In 1d20 x 24 hours, roll a d6. On a 6, the host turns into a Slaad. Otherwise, the host is killed as a Slaad tadpole chews its way out of the host.
 
+**Surge of Chaos.** Roll a d6.
 
-Inebriated on drink and pleasure, satyrs give no thought to the consequences of the hedonism they incite in others. They leave such creatures mystified at their own behavior. Such revelers might have to scrounge for excuses to explain their disordered state to parents, employers, family, or friends.
+d6 | Result
+-- | ------
+1-2| Nothing Happens.
+3-4| Fires a Chaos Bolt
+5-6| Uses Chaos Casting
 
-VARIANT: SATYR PIPES
+**Chaos Bolt (requires Surge of Chaos to use).** Ranged Spell Attack: +1d6 +2 to hit. Range 60 ft, one target. Hit: 3d6 Force Damage.
 
-A satyr might carry panpipes that it can play to create magical effects. Usually, only one satyr in a group carries such pipes. If a satyr has pipes, it gains the following additional action option.
+**Chaos Casting (requires Surge of Chaos to use).** Cast one of the following spells, the same spell cannot be chosen twice in an encounter. The DC is 12 + 1d6.
 
-Panpipes. The satyr plays its pipes and chooses one of the following magical effects: a charming melody, a frightening strain, or a gentle lullaby. Any creature within 60 feet of the satyr that can hear the pipes must succeed on a DC 13 Wisdom saving throw or be affected as described below. Other satyrs and creatures that can't be charmed are unaffected.
+* Invisibility
+* Fear
+* Fly
+* Fireball
+* PlaneShift
 
-An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to these panpipes for the next 24 hours.
+#### Description
+Chaos slaadi are slaad who have been entirely subverted by the chaos of Chaos itself, and fall entirely outside the usual taxonomy of the slaad. For this reason, chaos slaadi are entirely unpredictable, even to another slaad, and often chaos slaadi will break out into attacks on other slaadi just as often as they work with them. The gestation and lifecyle of chaos slaadi are entirely unknown, as are their goals or intentions. Chaos slaadi are being of pure instinct, and that instinct is fickle. They don't build organizations, they don't make alliances, they don't sneak around pretending to be humanoids, they are a viral plague upon the multiverse, left unchecked they become an unstoppable legion.
 
-Charming Melody. The creature is charmed by the satyr for 1 minute. If the satyr or any of its companions harms the creature, the effect on it ends immediately.
+#### DM Notes
+* Rolls Instinct and Form at the beginning of the encounter. This highlights that you can never predict what a Slaad you meet will look or act like. Even the Slaad you saw 10 minutes ago may now be completely different. However, we assume this to be constant for a single encounter, to take some burden off the DM.
+* Entropic Resistance can be rolled multiple times, but the results for a given type are kept for the whole encounter. This was my favorite new ability, and it really threw my party for a loop when they encountered it the first time. It really shakes up a fight, sometimes your favorite weapons are useless. Other times you get to enjoy vulnerability (which is critically underused in 5e), to give players some joy when a Slaad that has ridiculous power in other areas....is crazy vulnerable to the fire mages blast.
+* Children of Chaos allows us to mimic constantly changing stats without so much book work. Nothing is certain, not even saving throw DCs!
+* With Regeneration, we left the HP static, using this mechanic to showcase variable resiliency for the Slaad. I also wanted to keep in some notion of Slaad evolution or improvement, so I used the idea that once a Slaad is killed there is a small chance (1 in 1,296 to be precise) that it becomes a Greater Slaad (aka Death Slaad). That helps both the random fun of Slaad, but also help explain how Death Slaad emerge in the culture.
 
-Frightening Strain. The creature is frightened for 1 minute.
+---
 
-Gentle Lullaby. The creature falls asleep and is unconscious for 1 minute. The effect ends if the creature takes damage or if someone takes an action to shake the creature awake.
+## Gormeel
 
-Scarecrow
-
-At harvest time, when death revisits the twilit world and summer's blossoms bow their withered heads, eerie scarecrows loom in silent vigil over empty fields. With immortal patience, these stoic sentinels hold their posts through wind, storm, and flood, bound to their master's command, eager to terrify prey with its sackcloth visage and rend victims with its razor-sharp claws.
-
-Spirit-Powered Constructs. A scarecrow is animated by the bound spirit of a slain evil creature, granting it purpose and mobility. It is this uncanny presence from beyond death that allows a scarecrow to inspire fear in those it gazes upon. Hags and witches often bind scarecrows with the spirits of demons, but any evil spirit will do. Although aspects of the spirit's personality might surface, a scarecrow's spirit doesn't recall the memories it had as a creature, and its will is focused solely on serving its creator. If its creator dies, the spirit inhabiting a scarecrow either continues to follow its last commands, seeks revenge for its creator's death, or destroys itself.
-
-Construct Nature. A scarecrow doesn't require air, food, drink, or sleep.
-
-SCARECROW
-Medium construct, chaotic evil
-
-Armor Class 11
-
-Hit Points 36 (8d8)
-
-Speed 30 ft.
-
-STR
-11 (+0)
-DEX
-13 (+1)
-CON
-11 (+0)
-INT
-10 (+0)
-WIS
-10 (+0)
-CHA
-13 (+1)
-Damage Vulnerabilities fire
-
-Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks
-
-Damage Immunities poison
-
-Condition Immunities charmed, exhaustion, frightened, paralyzed, poisoned, unconscious
-
-Senses darkvision 60 ft., passive Perception 10
-
-Languages understands the languages of its creator but can't speak
-
-Challenge 1 (200 XP)
-
-False Appearance. While the scarecrow remains motionless, it is indistinguishable from an ordinary, inanimate scarecrow.
-
-Actions
-
-Multiattack. The scarecrow makes two claw attacks.
-
-Claw. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage. If the target is a creature, it must succeed on a DC 11 Wisdom saving throw or be frightened until the end of the scarecrow's next turn.
-
-Terrifying Glare. The scarecrow targets one creature it can see within 30 feet of it. If the target can see the scarecrow, the target must succeed on a DC 11 Wisdom saving throw or be magically frightened until the end of the scarecrow's next turn. The frightened target is paralyzed.
-
-
-Shadow
-Shadows are undead that resemble dark exaggerations of humanoid shadows.
-
-Dark Disposition. From the darkness, the shadow reaches out to feed on living creatures' vitality. They can consume any living creature, but they are especially drawn to creatures untainted by evil. A creature that lives a life of goodness and piety consigns its basest impulses and strongest temptations to the darkness where the shadows hunger. As a shadow drains its victim's strength and physical form, the victim's shadow darkens and begins to move of its own volition. In death, the creature's shadow breaks free, becoming a new undead shadow hungry for more life to consume.
-
-If a creature from which a shadow has been created somehow returns to life, its undead shadow senses the return. The shadow might seek its "parent” to vex or slay. Whether the shadow pursues its living counterpart, the creature that birthed the shadow no longer casts one until the monster is destroyed.
-
-Undead Nature. A shadow doesn't require air, food, drink, or sleep.
-
-SHADOW
-Medium undead, chaotic evil
-
-Armor Class 12
-
-Hit Points 16 (3d8 + 3)
-
-Speed 40 ft.
-
-STR
-6 (−2)
-DEX
-14 (+2)
-CON
-13 (+1)
-INT
-6 (−2)
-WIS
-10 (+0)
-CHA
-8 (−1)
-Skills Stealth +4 (+6 in dim light or darkness)
-
-Damage Vulnerabilities radiant
-
-Damage Resistances acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-
-Damage Immunities necrotic, poison
-
-Condition Immunities exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
-
-Senses darkvision 60 ft., passive Perception 10
-
-Languages --
-
-Challenge 1/2 (100 XP)
-
-Amorphous. The shadow can move through a space as narrow as 1 inch wide without squeezing.
-
-Shadow Stealth. While in dim light or darkness, the shadow can take the Hide action as a bonus action.
-
-Sunlight Weakness. While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.
-
-Actions
-
-Strength Drain. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
-
-If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
-
-
-Shambling Mound
-A shambling mound, sometimes called a shambler, trudges ponderously through bleak swamps, dismal marshes, and rain forests, consuming any organic matter in its path. This rotting heap of animated vegetation looms up half again as tall as a human, tapering into a faceless "head” at its top.
-
-All-Consuming Devourers. A shambling mound feeds on any organic material, tirelessly consuming plants as it moves and devouring animals that can't escape it. Only the shambling mounds' rarity and plodding speed prevent them from overwhelming entire ecosystems. Even so, their presence leeches natural environments of plant and animal life, and an unsettling quiet pervades the swamps and woods haunted by these ever-hungry horrors.
-
-Unseen Hunters. Composed of decaying leaves, vines, roots, and other natural swamp and forest compost, shamblers can blend into their environs. Because they move slowly, they rarely attempt to pursue and catch creatures. Rather, they remain in place, sustaining themselves by absorbing nutrients from their surroundings as they wait for prey to come to them. When a creature passes near or alights upon a shambling mound, the monster comes to life, seizing and absorbing the unwary prey.
-
-SHAMBLING MOUND
-Large plant, unaligned
-
-Armor Class 15 (natural armor)
-
-Hit Points 136 (16d10 + 48)
-
-Speed 20 ft., swim 20 ft.
-
-STR
-18 (+4)
-DEX
-8 (−1)
-CON
-16 (+3)
-INT
-5 (−3)
-WIS
-10 (+0)
-CHA
-5 (−3)
-Skills Stealth +2
-
-Damage Resistances cold, fire
-
-Damage Immunities lightning
-
-Condition Immunities blinded, deafened, exhaustion
-
-Senses blindsight 60 ft. (blind beyond this radius), passive Perception 10
-
-Languages --
-
-Challenge 5 (1,800 XP)
-
-Lightning Absorption. Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
-
-Actions
-
-Multiattack. The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.
-
-Slam. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
-
-Engulf. The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
-
-Spawned by Lightning. A shambling mound results from a phenomenon in which lightning or fey magic invigorates an otherwise ordinary swamp plant. As the plant is reborn into its second life, it chokes the life from plants and animals around it, mulching their corpses in a heap around its roots. Those roots eventually give up their reliance on the soil, directing the shambling mound to seek out new sources of food.
-
-The Weed that Walks. The instinct that drives a shambling mound is its central root-stem, buried somewhere inside its ponderous form. The rest of a shambler consists of the rotting heap that it simultaneously accumulates and feeds on, which protects the root-stem and animates to smash and smother the life from any creature.
-
-The dense mass of a shambling mound's body shrugs off the effects of cold and fire. Lightning reinvigorates the root-stem, strengthening the shambling mound and bolstering its consumptive drive.
-
-Despite its monstrous form, the shambling mound is a living plant that requires air and nourishment. Although it doesn't sleep the way an animal does, it can lie dormant for days on end before rising to hunt for food.
-
-A Resurgent Menace. If a shambling mound faces defeat before an overwhelming foe, the root-stem can feign death, collapsing the remains of its mound. If not subsequently killed, the root-stem beds down in the shambler's remains to slowly regrow its full body, then once again sets out to consume all it can. In this way, shambling mound infestations long thought destroyed can recur time and again.
-
-
-Shield Guardian
-Wizards and other spellcasters create shield guardians for protection. A shield guardian treads beside its master, absorbing damage to keep its master alive as long as possible.
-
-Master's Amulet. Every shield guardian has an amulet magically linked to it. A shield guardian can have only one corresponding amulet, and if that amulet is destroyed, the shield guardian is incapacitated until a replacement amulet is created. A shield guardian's amulet is subject to direct attack if it isn't being worn or carried. It has AC 10, 10 hit points, and immunity to poison and psychic damage. Crafting an amulet requires 1 week and costs 1,000 gp in components.
-
-A shield guardian's solitary focus is to protect the amulet's wearer. The amulet's wearer can command the guardian to attack its enemies or to guard the wielder against attack. If an attack threatens to injure the wearer, the construct can magically absorb the blow into its own body, even at a distance.
-
-A spellcaster can store a single spell within a shield guardian, which can then cast the spell on command or under specific conditions. Many a wizard has been rendered helpless by enemies, only to surprise those foes when its shield guardian unleashes potent magical power.
-
-Magnificent Treasure. Because a shield guardian's ownership can be transferred by giving its matching amulet to another creature, some wizards collect exorbitant sums from princes, nobles, and crime lords to create shield guardians for them. At the same time, a shield guardian makes a mighty prize for anyone who slays its master and claims its amulet.
-
-Construct Nature. A shield guardian doesn't require air, food, drink, or sleep.
-
-
-SHIELD GUARDIAN
-Large construct, unaligned
-
-Armor Class 17 (natural armor)
-
-Hit Points 142 (15d10 + 60)
-
-Speed 30 ft.
-
-STR
-18 (+4)
-DEX
-8 (−1)
-CON
-18 (+4)
-INT
-7 (−2)
-WIS
-10 (+0)
-CHA
-3 (−4)
-Senses blindsight 10 ft., darkvision 60 ft., passive Perception 10
-
-Damage Immunities poison
-
-Condition Immunities charmed, exhaustion, frightened, paralyzed, poisoned
-
-Languages understands commands given in any language but can't speak
-
-Challenge 7 (2,900 XP)
-
-Bound. The shield guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.
-
-Regeneration. The shield guardian regains 10 hit points at the start of its turn if it has at least 1 hit point.
-
-Spell Storing. A spellcaster who wears the shield guardian's amulet can cause the guardian to store one spell of 4th level or lower. To do so, the wearer must cast the spell on the guardian. The spell has no effect but is stored within the guardian. When commanded to do so by the wearer or when a situation arises that was predefined by the spellcaster, the guardian casts the stored spell with any parameters set by the original caster, requiring no components. When the spell is cast or a new spell is stored, any previously stored spell is lost.
-
-Actions
-
-Multiattack. The guardian makes two fist attacks.
-
-Fist. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
-
-Reactions
-
-Shield. When a creature makes an attack against the wearer of the guardian's amulet, the guardian grants a +2 bonus to the wearer's AC if the guardian is within 5 feet of the wearer.
-
-Skeletons
-Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
-
-Skeleton
-Animated Dead. Whatever sinister force awakens a skeleton infuses its bones with a dark vitality, adhering joint to joint and reassembling dismantled limbs. This energy motivates a skeleton to move and think in a rudimentary fashion, though only as a pale imitation of the way it behaved in life. An animated skeleton retains no connection to its past, although resurrecting a skeleton restores it body and soul, banishing the hateful undead spirit that empowers it.
-
-While most skeletons are the animated remains of dead humans and other humanoids, skeletal undead can be created from the bones of other creatures besides humanoids, giving rise to a host of terrifying and unique forms.
-
-Obedient Servants. Skeletons raised by spell are bound to the will of their creator. They follow orders to the letter, never questioning the tasks their masters give them, regardless of the consequences. Because of their literal interpretation of commands and unwavering obedience, skeletons adapt poorly to changing circumstances. They can't read, speak, emote, or communicate in any way except to nod, shake their heads, or point. Still, skeletons are able to accomplish a variety of relatively complex tasks.
-
-A skeleton can fight with weapons and wear armor, can load and fire a catapult or trebuchet, scale a siege ladder, form a shield wall, or dump boiling oil. However, it must receive careful instructions explaining how such tasks are accomplished.
-
-Although they lack the intellect they possessed in life, skeletons aren't mindless. Rather than break its limbs attempting to batter its way through an iron door, a skeleton tries the handle first. If that doesn't work, it searches for another way through or around the obstacle.
-
-SKELETON
-Medium undead, lawful evil
-
-Armor Class 13 (armor scraps)
-
-Hit Points 13 (2d8 + 4)
-
-Speed 30 ft.
-
-STR
-10 (+0)
-DEX
-14 (+2)
-CON
-15 (+2)
-INT
-6 (−2)
-WIS
-8 (−1)
-CHA
-5 (−3)
-Damage Vulnerabilities bludgeoning
-
-Damage Immunities poison
-
-Condition Immunities exhaustion, poisoned
-
-Senses darkvision 60 ft., passive Perception 9
-
-Languages understands all languages it knew in life but can't speak
-
-Challenge 1/4 (50 XP)
-
-Actions
-
-Shortsword. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
-
-Shortbow. Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
-
-
-Minotaur Skeleton
-
-Habitual Behaviors. Independent skeletons temporarily or permanently free of a master's control sometimes pantomime actions from their past lives, their bones echoing the rote behaviors of their former living selves. The skeleton of a miner might lift a pick and start chipping away at stone walls. The skeleton of a guard might strike up a post at a random doorway. The skeleton of a dragon might lie down on a pile of treasure, while the skeleton of a horse crops grass it can't eat. Left alone in a ballroom, the skeletons of nobles might continue an eternally unfinished dance.
-
-When skeletons encounter living creatures, the necromantic energy that drives them compels them to kill unless they are commanded by their masters to refrain from doing so. They attack without mercy and fight until destroyed, for skeletons possess little sense of self and even less sense of self-preservation.
-
-Undead Nature. A skeleton doesn't require air, food, drink, or sleep.
-
-MINOTAUR SKELETON
-Large undead, lawful evil
-
-Armor Class 12 (natural armor)
-
-Hit Points 67 (9d10 + 18)
-
-Speed 40 ft.
-
-STR
-18 (+4)
-DEX
-11 (+0)
-CON
-15 (+2)
-INT
-6 (−2)
-WIS
-8 (−1)
-CHA
-5 (−3)
-Damage Vulnerabilities bludgeoning
-
-Damage Immunities poison
-
-Condition Immunities exhaustion, poisoned
-
-Senses darkvision 60 ft., passive Perception 9
-
-Languages understands Abyssal but can't speak
-
-Challenge 2 (450 XP)
-
-Charge. If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.
-
-Actions
-
-Greataxe. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage.
-
-Gore. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
-
-
-Warhorse Skeleton
-WARHORSE SKELETON
-Large undead, lawful evil
-
-Armor Class 13 (barding scraps)
-
-Hit Points 22 (3d10 + 6)
-
-Speed 60 ft.
-
-STR
-18 (+4)
-DEX
-12 (+1)
-CON
-15 (+2)
-INT
-2 (−4)
-WIS
-8 (−1)
-CHA
-5 (−3)
-Damage Vulnerabilities bludgeoning
-
-Damage Immunities poison
-
-Condition Immunities exhaustion, poisoned
-
-Senses darkvision 60 ft., passive Perception 9
-
-Languages --
-
-Challenge 1/2 (100 XP)
-
-Actions
-
-Hooves. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
-
-Slaadi
-In the Ever-Changing Chaos of Limbo, bits of forest and meadow, ruined castles, and isolated islands drift through a tumult of fire, water, earth, and wind. The foremost inhabitants of this inhospitable plane are the toad-like slaadi. Slaadi are undisciplined and have no formal hierarchy, although weaker slaadi obey stronger ones under threat of annihilation.
-
-The Spawning Stone. Long ago, Primus, overlord of the modrons, created a gigantic, geometrically complex stone imbued with the power of law. He then cast it adrift in Limbo, believing that the stone would bring order to the chaos of that plane and halt the spread of chaos to other planes. As the stone's power grew, it became possible for creatures with ordered minds, such as modrons and githzerai, to create enclaves in Limbo. However, Primus's creation had an unforeseen side effect: the chaotic energy absorbed by the stone spawned the horrors that came to be known as slaadi. Sages refer to Primus's massive creation as the Spawning Stone for this reason.
-
-The slaadi wiped out every last modron enclave in Limbo. As creatures of utter chaos, slaadi loathe modrons and attack them on sight. Nonetheless, Primus stands by his creation and either doesn't perceive the slaadi as threats or chooses to ignore them.
-
-Embedded in a slaad's brain is a magic gem. Acquire it, and the slaad is yours to command.
-
-
-VARIANT: SLAAD CONTROL GEMS
-
-As a slaad emerges from the Spawning Stone, the stone magically implants a fragment of itself in the slaad's brain. This fragment takes the form of a magic gem roughly the size and shape of a human child's fist. The gem is the same color as the slaad. Another creature can use magic to draw forth a slaad's gem and use it to subjugate the slaad. The slaad must obey whoever possesses its gem. If a slaad's gem is destroyed, the slaad can no longer be controlled in this way.
-
-A slaad born from something other than the Spawning Stone has no gem in its brain, but it gains one if it ever comes into contact with the Spawning Stone. Slaadi on Limbo are attracted to the Spawning Stone, so most end up with a gem. A slaad with a control gem in its brain has the following additional trait.
-
-Control Gem. Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being charmed while so controlled.
-
-Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A wish spell, if cast in the slaad's presence, can be worded to acquire the gem.
-
-A greater restoration spell cast on the slaad destroys the gem without harming the slaad.
-
-Someone who is proficient in Wisdom (Medicine) can remove the gem from an incapacitated slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom (Medicine) check. Each failed attempt deals 22 (4d10) psychic damage to the slaad.
-
-Slaad Tadpole
-Birth and Transformation. Slaadi have horrific cycles of reproduction. Slaadi reproduce either by implanting humanoid hosts with eggs or by infecting them with a transformative disease called chaos phage. Each color of slaad reproduces or transforms in a different way, with red slaadi spawning blue and green slaadi, and blue slaadi spawning red and green. Each green slaad undergoes a lifelong cycle of transformation into the more powerful gray and death slaadi. With each transformation, the slaad retains its memories.
-
-
-SLAAD TADPOLE
-Tiny aberration, chaotic neutral
-
-Armor Class 12
-
-Hit Points 10 (4d4)
-
-Speed 30 ft.
-
-STR
-7 (−2)
-DEX
-15 (+2)
-CON
-10 (+0)
-INT
-3 (−4)
-WIS
-5 (−3)
-CHA
-3 (−4)
-Skills Stealth +4
-
-Damage Resistances acid, cold, fire, lightning, thunder
-
-Senses darkvision 60 ft., passive Perception 7
-
-Languages understands Slaad but can't speak
-
-Challenge 1/8 (25 XP)
-
-Magic Resistance. The slaad has advantage on saving throws against spells and other magical effects.
-
-Actions
-
-Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
-
-Shapechangers. Some slaadi can transform into the humanoid creatures from which they were originally spawned. These slaadi return to the Material Plane to sow discord in the guise of their former selves.
-
-Red Slaad
-When a red slaad claws a humanoid creature, it can inject an egg from a gland under one of its claws. The egg works its way into its host and gestates, eventually forming a slaad tadpole. Such a tadpole then eats its way out of the host's body, feeds on the host's remains, and then seeks any other fresh meat it can find. The tadpole transforms into a fully grown blue slaad -- or green slaad if the host had the ability to cast 3rd level spells or higher -- within 2d12 hours.
-
-RED SLAAD
-Large aberration, chaotic neutral
-
-Armor Class 14 (natural armor)
-
-Hit Points 93 (11d10 + 33)
-
-Speed 30 ft.
-
-STR
-16 (+3)
-DEX
-12 (+1)
-CON
-16 (+3)
-INT
-6 (−2)
-WIS
-6 (−2)
-CHA
-7 (−2)
-Skills Perception +1
-
-Damage Resistances acid, cold, fire, lightning, thunder
-
-Senses darkvision 60 ft., passive Perception 11
-
-Languages Slaad, telepathy 60 ft.
-
-Challenge 5 (1,800 XP)
-
-Magic Resistance. The slaad has advantage on saving throws against spells and other magical effects.
-
-Regeneration. The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
-
-Actions
-
-Multiattack. The slaad makes three attacks: one with its bite and two with its claws.
-
-Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) piercing damage.
-
-Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be infected with a disease -- a minuscule slaad egg.
-
-A humanoid host can carry only one slaad egg to term at a time. Over three months, the egg moves to the chest cavity, gestates, and forms a slaad tadpole. In the 24-hour period before giving birth, the host starts to feel unwell, its speed is halved, and it has disadvantage on attack rolls, ability checks, and saving throws. At birth, the tadpole chews its way through vital organs and out of the host's chest in 1 round, killing the host in the process.
-
-If the disease is cured before the tadpole's emergence, the unborn slaad is disintegrated.
-
-
-Blue Slaad
-The bone hooks that protrude from the back of a blue slaad's hands inflict a terrible transformative disease on humanoids wounded by them. This infection, called chaos phage, transforms its victim into a fully grown red slaad -- or green slaad if the host was a spellcaster able to cast 3rd level spells or higher.
-
-BLUE SLAAD
-Large aberration, chaotic neutral
-
-Armor Class 15 (natural armor)
-
-Hit Points 123 (13d10 + 52)
-
-Speed 30 ft.
-
-STR
-20 (+5)
-DEX
-15 (+2)
-CON
-18 (+4)
-INT
-7 (−2)
-WIS
-7 (−2)
-CHA
-9 (−1)
-Skills Perception +1
-
-Damage Resistances acid, cold, fire, lightning, thunder
-
-Senses darkvision 60 ft., passive Perception 11
-
-Languages Slaad, telepathy 60 ft.
-
-Challenge 7 (2,900 XP)
-
-Magic Resistance. The slaad has advantage on saving throws against spells and other magical effects.
-
-Regeneration. The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
-
-Actions
-
-Multiattack. The slaad makes three attacks: one with its bite and two with its claws.
-
-Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) piercing damage.
-
-Claw. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage. If the target is a humanoid, it must succeed on a DC 15 Constitution saving throw or be infected with a disease called chaos phage. While infected, the target can't regain hit points, and its hit point maximum is reduced by 10 (3d6) every 24 hours. If the disease reduces the target's hit point maximum to 0, the target instantly transforms into a red slaad or, if it has the ability to cast spells of 3rd level or higher, a green slaad. Only a wish spell can reverse the transformation.
-
-
-Green Slaad
-Green slaadi are surprisingly intelligent and possess innate spellcasting ability. A green slaad can change its shape to appear as a humanoid. If it was born of a humanoid host, the slaad usually adopts its host's form.
-
-At some unpredictable point in its existence, a green slaad unlocks the means to magically, instantly, and permanently transform itself into a gray slaad. Unlocking this knowledge can take years, even decades.
-
-GREEN SLAAD
-Large aberration (shapechanger), chaotic neutral
-
-Armor Class 16 (natural armor)
-
-Hit Points 127 (15d10 + 45)
-
-Speed 30 ft.
-
-STR
-18 (+4)
-DEX
-15 (+2)
-CON
-16 (+3)
-INT
-11 (+0)
-WIS
-8 (−1)
-CHA
-12 (+1)
-Skills Arcana +3, Perception +2
-
-Damage Resistances acid, cold, fire, lightning, thunder
-
-Senses blindsight 30 ft., darkvision 60 ft., passive Perception 12
-
-Languages Slaad, telepathy 60 ft.
-
-Challenge 8 (3,900 XP)
-
-Shapechanger. The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
-
-Innate Spellcasting. The slaad's innate spellcasting ability is Charisma (spell save DC 12). The slaad can innately cast the following spells, requiring no material components:
-
-At will: detect magic, detect thoughts, mage hand
-
-2/day each: fear, invisibility (self only)
-
-1/day: fireball
-
-Magic Resistance. The slaad has advantage on saving throws against spells and other magical effects.
-
-Regeneration. The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
-
-Actions
-
-Multiattack. The slaad makes three attacks: one with its bite and two with its claws or staff. Alternatively, it uses its Hurl Flame twice.
-
-Bite (Slaad Form Only). Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
-
-Claw (Slaad Form Only). Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
-
-Staff. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
-
-Hurl Flame. Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 10 (3d6) fire damage. The fire ignites flammable objects that aren't being worn or carried.
-
-
-Gray Slaad
-Outside of Limbo, gray slaadi act as living extensions of the will of their masters, the death slaadi. A gray slaad journeys to the Material Plane on errands of doom, often taking humanoid form. A gray slaad learns how to master the use of a greatsword and imbue it with its own innate magic.
-
-A gray slaad that eats the entire corpse of a dead death slaad instantly transforms into a death slaad.
-
-GRAY SLAAD
-Medium aberration (shapechanger), chaotic neutral
-
-Armor Class 18 (natural armor)
-
-Hit Points 127 (17d8 + 51)
-
-Speed 30 ft.
-
-STR
-17 (+3)
-DEX
-17 (+3)
-CON
-16 (+3)
-INT
-13 (+1)
-WIS
-8 (−1)
-CHA
-14 (+2)
-Skills Arcana +5, Perception +7
-
-Damage Resistances acid, cold, fire, lightning, thunder
-
-Senses blindsight 60 ft., darkvision 60 ft., passive Perception 17
-
-Languages Slaad, telepathy 60 ft.
-
-Challenge 9 (5,000 XP)
-
-Shapechanger. The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
-
-Innate Spellcasting. The slaad's innate spellcasting ability is Charisma (spell save DC 14). The slaad can innately cast the following spells, requiring no material components:
-
-At will: detect magic, detect thoughts, invisibility (self only), mage hand, major image
-
-2/day each: fear, fly, fireball, tongues
-
-1/day: plane shift (self only)
-
-Magic Resistance. The slaad has advantage on saving throws against spells and other magical effects.
-
-Magic Weapons. The slaad's weapon attacks are magical.
-
-Regeneration. The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
-
-Actions
-
-Multiattack. The slaad makes three attacks: one with its bite and two with its claws or greatsword.
-
-Bite (Slaad Form Only). Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
-
-Claws (Slaad Form Only). Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) slashing damage.
-
-Greatsword. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
-
-
-
-Death Slaad
-Death slaadi are suffused with energy from the Negative Energy Plane and exemplify evil's corruption of chaos, and they take sadistic pleasure in bringing harm to others. They propagate their race by dragooning mobs of red and blue slaadi and invading other planes. Humanoids who survive the incursion become incubators for new slaadi.
-
-DEATH SLAAD
-Medium aberration (shapechanger), chaotic evil
-
-Armor Class 18 (natural armor)
-
-Hit Points 170 (20d8 + 80)
-
-Speed 30 ft.
-
-STR
-20 (+5)
-DEX
-15 (+2)
-CON
-19 (+4)
-INT
-15 (+2)
-WIS
-10 (+0)
-CHA
-16 (+3)
-Skills Arcana +6, Perception +8
-
-Damage Resistances acid, cold, fire, lightning, thunder
-
-Senses blindsight 60 ft., darkvision 60 ft., passive Perception 18
-
-Languages Slaad, telepathy 60 ft.
-
-Challenge 10 (5,900 XP)
-
-Shapechanger. The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
-
-Innate Spellcasting. The slaad's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:
-
-At will: detect magic, detect thoughts, invisibility (self only), mage hand, major image
-
-2/day each: fear, fireball, fly, tongues
-
-1/day each: cloudkill, plane shift
-
-Magic Resistance. The slaad has advantage on saving throws against spells and other magical effects.
-
-Magic Weapons. The slaad's weapon attacks are magical.
-
-Regeneration. The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
-
-Actions
-
-Multiattack. The slaad makes three attacks: one with its bite and two with its claws or greatsword.
-
-Bite (Slaad Form Only). Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) necrotic damage.
-
-Claws (Slaad Form Only). Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) necrotic damage.
-
-Greatsword. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage plus 7 (2d6) necrotic damage.
-
-
-Specter
-A specter is the angry, unfettered spirit of a humanoid that has been prevented from passing to the afterlife. Specters no longer possess connections to who or what they were, yet are condemned to walk the world forever. Some are spawned when dark magic or the touch of a wraith rips a soul from a living body.
-
-Beyond Redemption. When a ghost's unfinished business is completed, it can rest at last. No such rest or redemption awaits a specter. It is doomed to the Material Plane, its only end the oblivion that comes with the destruction of its soul. Until then, it bears out its lonely life in forlorn places, carrying on forgotten through the ages of the world.
-
-Undying Hatred. Living creatures remind the specter that life is beyond its grasp. The mere sight of the living overwhelms a specter with sorrow and wrath, which can be abated only by destroying said life. A specter kills quickly and mercilessly, for only by depriving others of life can it gain the slightest satisfaction. However, no matter how many lives it extinguishes, a specter always succumbs to its hatred and sorrow.
-
-Dwellers in Darkness. Sunlight represents a source of life that no specter can ever hope to douse, and it pains them. When night falls, they leave their final resting places in search of living creatures to slay, knowing that few weapons can harm them in return. At the first light of dawn, they retreat back into the darkness, where they remain until night falls again.
-
-Undead Nature. A specter doesn't require air, food, drink, or sleep.
-
-SPECTER
-Medium undead, chaotic evil
-
-Armor Class 12
-
-Hit Points 22 (5d8)
-
-Speed 0 ft., fly 50 ft. (hover)
-
-STR
-1 (−5)
-DEX
-14 (+2)
-CON
-11 (+0)
-INT
-10 (+0)
-WIS
-10 (+0)
-CHA
-11 (+0)
-Damage Resistances acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-
-Damage Immunities necrotic, poison
-
-Condition Immunities charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
-
-Senses darkvision 60 ft., passive Perception 10
-
-Languages understands all languages it knew in life but can't speak
-
-Challenge 1 (200 XP)
-
-Incorporeal Movement. The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
-
-Sunlight Sensitivity. While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
-
-Actions
-
-Life Drain. Melee Spell Attack: +4 to hit, reach 5 ft., one creature. Hit: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
-
-
-VARIANT: POLTERGEIST
-
-A poltergeist is a different kind of specter -- the confused, invisible spirit of an individual with no sense of how he or she died. A poltergeist expresses its rage by hurling creatures and objects using the power of its shattered psyche.
-
-A poltergeist has a challenge rating of 2 (450 XP) and gains the following additional trait:
-
-Invisibility. The poltergeist is invisible.
-
-The poltergeist has the following action options in place of the specter's Life Drain:
-
-Forceful Slam. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 10 (3d6) force damage.
-
-Telekinetic Thrust. The poltergeist targets a creature or unattended object within 30 feet of it. A creature must be Medium or smaller to be affected by this magic, and an object can weigh up to 150 pounds.
-
-If the target is a creature, the poltergeist makes a Charisma check contested by the target's Strength check. If the poltergeist wins the contest, the poltergeist hurls the target up to 30 feet in any direction, including upward. If the target then comes into contact with a hard surface or heavy object, the target takes 1d6 damage per 10 feet moved.
-
-If the target is an object that isn't being worn or carried, the poltergeist hurls it up to 30 feet in any direction. The poltergeist can use the object as a ranged weapon, attacking one creature along the object's path (+4 to hit) and dealing 5 (2d4) bludgeoning damage on a hit.
-
-Sphinxes
-
-In sacred isolation, a sphinx guards the secrets and treasures of the gods. As it calmly regards each new party that comes before it, the bones of supplicants and quest seekers that failed to pass its tests lie scattered around its lair. Its great wings sweep along its flanks, its tawny leonine body rippling with muscle and possessed of forepaws powerful enough to tear a humanoid in half.
-
-Divine Guardians. Sphinxes test the worth of those who seek the treasures of the gods, whether forgotten secrets or mighty spells, artifacts or magical gateways. Creatures that choose to face a sphinx's test are bound to that test unto death, and only those worthy will survive it. The rest the sphinx destroys.
-
-Some sphinxes are high priests of the gods that create them, but most are simply embodied spirits, brought into the mortal realm by devout prayer or direct intervention. A sphinx maintains its vigil tirelessly, not needing to sleep or eat. It rarely engages with others of its kind, knowing no other life except its sacred mission.
-
-Magical Tests. The secrets and treasures a sphinx guards remain under divine protection, so that when a creature fails a sphinx's test, the path to the object or knowledge it guards vanishes. Even if a sphinx is attacked and defeated, a quester will still fail to gain the secret it sought -- and will make an enemy of the god that placed the sphinx as a guardian.
-
-Benign deities sometimes grant a sphinx the power to remove supplicants that fail their tests, transporting them away and ensuring that they never encounter the sphinx again. However, those who fail a sphinx's test typically meet a gruesome end beneath its claws.
-
-
-Extraplanar Beings. Mortals that encounter sphinxes do so most often in ancient tombs and ruins, but some sphinxes can access extraplanar realms. A conversation with a sphinx that begins between tumbled stone walls might suddenly shift to an alien locale, such as a life-sized game board or a daunting cliff that must be climbed in a howling storm. Sometimes a sphinx must be summoned from such an extradimensional space, with supplicants calling it from its empty lair. Only those the sphinx deems worthy gain admittance to its realm.
-
-Fallen Sphinxes. Whether through the weariness of the ages, regret at the slaughter of innocents, or dreams of worship by supplicants that attempt to bargain their way to knowledge, some sphinxes break free of their divine command. However, even if a sphinx's alignment and loyalties drift in this way, it never leaves the place it guards or grants its secrets to any except creatures it deems worthy.
-
-Round she is, yet flat as a board
-
-Altar of the Lupine Lords
-
-Jewel on black velvet, pearl in the sea
-
-Unchanged but e'erchanging, eternally.
-
--- Riddle of the gynosphinx of White Plume Mountain
-
-Androsphinx
-An androsphinx bears the head of a humanoid male on its lion's body. Outwardly gruff and downcast, it often begins conversations with insults or negative observations. Beneath this gruff exterior, however, an androsphinx has a noble heart. It has no wish to lie or deceive, but it doesn't give away information readily, choosing its words as wisely as it guards its secrets.
-
-An androsphinx tests the courage and valor of supplicants, not only by forcing them to complete quests but also with its terrible roar, which echoes for miles as it terrifies and deafens nearby creatures. Those who pass its tests may be rewarded with a heroes' feast.
-
-ANDROSPHINX
-Large monstrosity, lawful neutral
-
-Armor Class 17 (natural armor)
-
-Hit Points 199 (19d10 + 95)
-
-Speed 40 ft., fly 60 ft.
-
-STR
-22 (+6)
-DEX
-10 (+0)
-CON
-20 (+5)
-INT
-16 (+3)
-WIS
-18 (+4)
-CHA
-23 (+6)
-Saving Throws Dex +6, Con +11, Int +9, Wis +10
-
-Skills Arcana +9, Perception +10, Religion +15
-
-Damage Immunities psychic; bludgeoning, piercing, and slashing from nonmagical attacks
-
-Condition Immunities charmed, frightened
-
-Senses truesight 120 ft., passive Perception 20
-
-Languages Common, Sphinx
-
-Challenge 17 (18,000 XP)
-
-Inscrutable. The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
-
-Magic Weapons. The sphinx's weapon attacks are magical.
-
-Spellcasting. The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:
-
-Cantrips (at will): sacred flame, spare the dying, thaumaturgy
-
-1st level (4 slots): command, detect evil and good, detect magic
-
-2nd level (3 slots): lesser restoration, zone of truth
-
-3rd level (3 slots): dispel magic, tongues
-
-4th level (3 slots): banishment, freedom of movement
-
-5th level (2 slots): flame strike, greater restoration
-
-6th level (1 slot): heroes' feast
-
-Actions
-
-Multiattack. The sphinx makes two claw attacks.
-
-Claw. Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 6) slashing damage.
-
-Roar (3/Day). The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
-
-First Roar. Each creature that fails a DC 18 Wisdom saving throw is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-Second Roar. Each creature that fails a DC 18 Wisdom saving throw is deafened and frightened for 1 minute. A frightened creature is paralyzed and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-Third Roar. Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
-
-Legendary Actions
-
-The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
-
-Claw Attack. The sphinx makes one claw attack.
-
-Teleport (Costs 2 Actions). The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
-
-Cast a Spell (Costs 3 Actions). The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
-
-
-Gynosphinx
-A gynosphinx bears the head of a humanoid female. Many have the regal countenances of worldly queens, but some are marked with wild, leonine features. A gynosphinx's eyes see beyond the present time and place, and penetrate veils of invisibility and magic. Supplicants who look deep into those eyes might find themselves magically displaced, banished to some far-flung plane where a difficult trial awaits them.
-
-Gynosphinxes are virtual libraries of knowledge and lore. They ask riddles and present puzzles to test the wit of supplicants that come to learn their secrets. Some are willing to bargain with such supplicants for treasure or service.
-
-GYNOSPHINX
-Large monstrosity, lawful neutral
-
-Armor Class 17 (natural armor)
-
-Hit Points 136 (16d10 + 48)
-
-Speed 40 ft., fly 60 ft.
-
-STR
-18 (+4)
-DEX
-15 (+2)
-CON
-16 (+3)
-INT
-18 (+4)
-WIS
-18 (+4)
-CHA
-18 (+4)
-Skills Arcana +12, History +12, Perception +8, Religion +8
-
-Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks
-
-Damage Immunities psychic
-
-Condition Immunities charmed, frightened
-
-Senses truesight 120 ft., passive Perception 18
-
-Languages Common, Sphinx
-
-Challenge 11 (7,200 XP)
-
-Inscrutable. The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
-
-Magic Weapons. The sphinx's weapon attacks are magical.
-
-Spellcasting. The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:
-
-Cantrips (at will): mage hand, minor illusion, prestidigitation
-
-1st level (4 slots): detect magic, identify, shield
-
-2nd level (3 slots): darkness, locate object, suggestion
-
-3rd level (3 slots): dispel magic, remove curse, tongues
-
-4th level (3 slots): banishment, greater invisibility
-
-5th level (1 slot): legend lore
-
-Actions
-
-Multiattack. The sphinx makes two claw attacks.
-
-Claw. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
-
-Legendary Actions
-
-The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
-
-Claw Attack. The sphinx makes one claw attack.
-
-Teleport (Costs 2 Actions). The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
-
-Cast a Spell (Costs 3 Actions). The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
-
-
-A Sphinx's Lair
-A sphinx presides over an ancient temple, sepulcher, or vault, within which are hidden divine secrets and treasures beyond the reach of mortals.
-
-Lair Actions
-On initiative count 20 (losing initiative ties), the sphinx can take a lair action to cause one of the following magical effects; the sphinx can't use an effect again until it finishes a short or long rest:
-
-The flow of time is altered such that every creature in the lair must reroll initiative. The sphinx can choose not to reroll.
-The effects of time are altered such that every creature in the lair must succeed on a DC 15 Constitution saving throw or become 1d20 years older or younger (the sphinx's choice), but never any younger than 1 year old. A greater restoration spell can restore a creature's age to normal.
-The flow of time within the lair is altered such that everything within moves up to 10 years forward or backward (sphinx's choice). Only the sphinx is immediately aware of the time change. A wish spell can return the caster and up to seven other creatures designated by the caster to their normal time.
-The sphinx shifts itself and up to seven other creatures it can see within in its lair to another plane of existence. Once outside its lair, the sphinx can't use lair actions, but it can return to its lair as a bonus action on its turn, taking up to seven creatures with it.
-Sprite
-In secret groves and shaded glens, tiny sprites with dragonfly wings flutter. For all their fey splendor, however, sprites lack warmth and compassion. They are aggressive and hardy warriors, taking severe measures to ward strangers away from their homes. Interlopers that come too close have their moral character judged, then are put to sleep or frightened off.
-
-"The tree had a wee village nestled in its boughs, I swear. Next thing I knew, I was lyin' face-down in the dirt. My head was full of stars, an' when I stood up an' looked around, both the tree an' the wee village were gone.”
-
--- Tale of a half-orc ranger
-
-Forest Protectors. Sprites build little villages in the boughs of trees and willing treants, in verdant glades brightened by moss, wild flowers, and toadstools. Wild nature thrives, and the sprites allow no trespassers. When intruders are spotted, the sprites lead them astray with ominous rustling from the bushes and distant snapping twigs. Creatures foolish enough to persist in intruding on a sprite's territory are stung with poisoned arrows and lulled into a senseless sleep. While they slumber, the sprites make good their escape, retreating to an even more secluded area of the forest.
-
-
-Heart Seers. Sprites can sense whether a creature is good or evil by the sound and feeling of its beating heart. Weighing the balance of a creature's past actions, a sprite can tell whether its heart beats rapidly in love or flags in sorrow, or whether it is darkened by hate or greed. The sprite's power to perceive the heart always shows the truth, because the heart can't lie.
-
-Poison Brewers. In their forest domains, sprites brew toxins, unguents, antidotes, and poisons, including the sleep poison with which they coat their arrows. They venture far into the woods to harvest rare flowers, mosses, and fungi, sometimes crossing dangerous territory to do so. If desperate, sprites even steal their ingredients from the gardens of hags.
-
-Good-Hearted. Because they are judges of the heart and favor good creatures, sprites oppose the will of evil fey and pledge to thwart evil archfey at every turn. If they encounter adventurers on a quest to rid their forest of an evil fey creature or goblinoid menace, they will pledge their support and even come to their aid when the adventurers least expect it.
-
-Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are firm warriors, protectors, and judges, and their stern bent causes other fey to consider them overly dour and serious. However, fey that respect the sprites' territory find them staunch allies in times of trouble.
-
-SPRITE
-Tiny fey, neutral good
-
-Armor Class 15 (leather armor)
-
-Hit Points 2 (1d4)
-
-Speed 10 ft., fly 40 ft.
-
-STR
-3 (−4)
-DEX
-18 (+4)
-CON
-10 (+0)
-INT
-14 (+2)
-WIS
-13 (+1)
-CHA
-11 (+0)
-Skills Perception +3, Stealth +8
-
-Senses passive Perception 13
-
-Languages Common, Elvish, Sylvan
-
-Challenge 1/4 (50 XP)
-
-Actions
-
-Longsword. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
-
-Shortbow. Ranged Weapon Attack: +6 to hit, range 40/160 ft., one target. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.
-
-Heart Sight. The sprite touches a creature and magically knows the creature's current emotional state. If the target fails a DC 10 Charisma saving throw, the sprite also knows the creature's alignment. Celestials, fiends, and undead automatically fail the saving throw.
-
-Invisibility. The sprite magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the sprite wears or carries is invisible with it.
-
-
-Stirge
-This horrid flying creature looks like a cross between a large bat and an oversized mosquito. Its legs end in sharp pincers, and its long, needle-like proboscis slashes the air as it seeks its next meal.
-
-Stirges feed on the blood of living creatures, attaching and draining them slowly. Although they pose little danger in small numbers, packs of stirges can be a formidable threat, reattaching as quickly as their weakening prey can pluck them off.
-
-
-Blood Drain. A stirge attacks by landing on a victim, finding a vulnerable spot, and plunging its proboscis into the flesh while using its pincer legs to latch on to the victim. Once the stirge has sated itself, it detaches and flies off to digest its meal.
-
-STIRGE
-Tiny beast, unaligned
-
-Armor Class 14 (natural armor)
-
-Hit Points 2 (1d4)
-
-Speed 10 ft., fly 40 ft.
-
-STR
-4 (−3)
-DEX
-16 (+3)
-CON
-11 (+0)
-INT
-2 (−4)
-WIS
-8 (−1)
-CHA
-6 (−2)
-Senses darkvision 60 ft., passive Perception 9
-
-Languages --
-
-Challenge 1/8 (25 XP)
-
-Actions
-
-Blood Drain. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn't attack. Instead, at the start of each of the stirge's turns, the target loses 5 (1d4 + 3) hit points due to blood loss.
-
-The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.
-
-Succubus/Incubus
-Succubi and incubi inhabit all of the Lower Planes, and the lascivious dark-winged fiends can be found in service to devils, demons, night hags, rakshasas, and yugoloths. Asmodeus, ruler of the Nine Hells, uses these fiends to tempt mortals to perform evil acts. The demon lord Graz'zt keeps succubi and incubi as advisers and consorts.
-
-Though legend speaks of them separately, any succubus can become an incubus, and vice versa. Most of these fiends do have a preference for one form or the other. Mortals only rarely see a succubus or incubus in its true form, however, for the fiend typically begins its corruption in veiled, insidious ways.
-
-Beautiful Corrupters. A succubus or incubus first appears in ethereal form, passing through walls like a ghost to lurk next to a mortal's bedside and whisper forbidden pleasures. Sleeping victims are tempted to give in to their darkest desires, indulge in taboos, and feed forbidden appetites. As the fiend fills the victim's dreams with debauched images, the victim becomes more susceptible to temptation in everyday life.
-
-
-Inevitably, the fiend enters the mortal realm in tempting form to directly influence a creature's actions. Appearing in the guise of a humanoid who has previously appeared only in the victim's dreams, the succubus or incubus seduces or befriends its victim, indulging all its desires so that it performs evil acts of its own free will.
-
-A mortal bequeaths its soul to the fiend not by formal pledge or contract. Instead, when a succubus or incubus has corrupted a creature completely -- some say by causing the victim to commit the three betrayals of thought, word, and deed -- the victim's soul belongs to the fiend. The more virtuous the fiend's prey, the longer the corruption takes, but the more rewarding the downfall. After successfully corrupting a victim, the succubus or incubus kills it, and the tainted soul descends into the Lower Planes.
-
-The succubus or incubus resorts to charming a victim magically only when necessary, usually as a form of self-defense. A charmed creature isn't responsible for its actions, so forcing it to behave against its will won't bring the fiend closer to the ultimate prize: the victim's soul.
-
-Deadly Kiss. The kiss of a succubus or incubus is an echo of the emptiness that is the fiend's longing for a corrupted soul. Likewise, the recipient of the fiend's kiss gains no satisfaction from it, experiencing only pain and the profound emptiness that the fiend imparts. The kiss is nothing short of an attack, usually delivered as a final farewell before the fiend escapes.
-
-Fiendish Offspring. Succubi and incubi can reproduce with one another to spawn more of their kind. Less commonly, a succubus or incubus reproduces with a humanoid. From this unholy union, a cambion child is conceived. Invariably, the fiendish offspring is as wicked as its fiendish parent.
-
-SUCCUBUS / INCUBUS
-Medium fiend (shapechanger), neutral evil
-
-Armor Class 15 (natural armor)
-
-Hit Points 66 (12d8 + 12)
-
-Speed 30 ft., fly 60 ft.
-
-STR
-8 (−1)
-DEX
-17 (+3)
-CON
-13 (+1)
-INT
-15 (+2)
-WIS
-12 (+1)
-CHA
-20 (+5)
-Skills Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
-
-Damage Resistances cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks
-
-Senses darkvision 60 ft., passive Perception 15
-
-Languages Abyssal, Common, Infernal, telepathy 60 ft.
-
-Challenge 4 (1,100 XP)
-
-Telepathic Bond. The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don't even need to be on the same plane of existence.
-
-Shapechanger. The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
-
-Actions
-
-Claw (Fiend Form Only). Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
-
-Charm. One humanoid the fiend can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys the fiend's verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this fiend's Charm for the next 24 hours.
-
-The fiend can have only one target charmed at a time. If it charms another, the effect on the previous target ends.
-
-Draining Kiss. The fiend kisses a creature charmed by it or a willing creature. The target must make a DC 15 Constitution saving throw against this magic, taking 32 (5d10 + 5) psychic damage on a failed save, or half as much damage on a successful one. The target's hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
-
-Etherealness. The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa.
+Periodically, slaadi experience such degrees of chaos that they leave chaos altogether behind and find their nature instead suffused by law. 

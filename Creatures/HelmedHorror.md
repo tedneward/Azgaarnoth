@@ -1,13 +1,13 @@
 ## Helmed Horror
-![](HelmedHorror.png)
-
 This construct possesses intelligence, the ability to reason and adjust its tactics, and an unswerving devotion to its maker that persists even after its maker's demise. Resembling an animated suit of empty plate armor, a helmed horror serves without ambition or emotion.
 
-***Magical Purpose.*** Though it takes more magical resources to create a helmed horror than a lesser suit of animated armor, the helmed horror requires less direction and maintenance as it carries out its appointed tasks. A helmed horror follows its orders with complete loyalty, and is intelligent enough to understand the difference between an order's intent and its exact wording. Unlike many constructs, it seeks to fulfill the former rather than slavishly follow the latter.
+![](HelmedHorror.png)
 
-***Tactical Cunning.*** A helmed horror fights with the cunning of a skilled warrior, taking to the air as it attacks weaker characters and spellcasters first. However, a helmed horror lacks the insight to change its environment, fortify it, or otherwise take active measures to improve its defensive position.
+***Magical Purpose.***. Though it takes more magical resources to create a helmed horror than a lesser suit of animated armor, the helmed horror requires less direction and maintenance as it carries out its appointed tasks. A helmed horror follows its orders with complete loyalty, and is intelligent enough to understand the difference between an order's intent and its exact wording. Unlike many constructs, it seeks to fulfill the former rather than slavishly follow the latter.
 
-***Constructed Nature.*** A helmed horror doesn't require air, food, drink, or sleep.
+***Tactical Cunning.***. A helmed horror fights with the cunning of a skilled warrior, taking to the air as it attacks weaker characters and spellcasters first. However, a helmed horror lacks the insight to change its environment, fortify it, or otherwise take active measures to improve its defensive position.
+
+***Constructed Nature.***. A helmed horror doesn't require air, food, drink, or sleep.
 
 >### Helmed Horror
 >*Medium construct, neutral*
@@ -32,12 +32,12 @@ This construct possesses intelligence, the ability to reason and adjust its tact
 >- **Languages** understands the languages of its creator but can't speak
 >- **Challenge** 4
 >___
->***Magic Resistance.*** The helmed horror has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.***. The helmed horror has advantage on saving throws against spells and other magical effects.
 >
->***Spell Immunity.*** The helmed horror is immune to three spells chosen by its creator. Typical immunities include fireball, heat metal, and lightning bolt.
+>***Spell Immunity.***. The helmed horror is immune to three spells chosen by its creator. Typical immunities include fireball, heat metal, and lightning bolt.
 >
 >#### Actions
->***Multiattack.*** The helmed horror makes two longsword attacks.
+>***Multiattack.***. The helmed horror makes two longsword attacks.
 >
->***Longsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
+>***Longsword.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
 >
