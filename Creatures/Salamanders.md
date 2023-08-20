@@ -10,13 +10,13 @@ Salamanders adore power, and they delight in setting fire to things. Outside the
 ## Fire Snake
 Salamanders hatch from eggs that are two-foot-diameter spheres of smoldering obsidian. When a salamander is ready to hatch, it melts its way through the egg's thick shell and emerges as a fire snake. A fire snake matures into a salamander adult within a year.
 
-***Enslaved by the Efreet.***. Long ago, the efreet hired azer to build the fabled City of Brass, but then failed in their attempt to enslave that mystical race when the azers' work was done. Turning instead to strike against salamanders, the efreet conquered and enslaved them, then sent them out to unleash war and destruction across the planes.
+***Enslaved by the Efreet.*** Long ago, the efreet hired azer to build the fabled City of Brass, but then failed in their attempt to enslave that mystical race when the azers' work was done. Turning instead to strike against salamanders, the efreet conquered and enslaved them, then sent them out to unleash war and destruction across the planes.
 
 Salamanders despise the azers, believing that if the efreet had succeeded in dominating that race of elemental crafters, the salamanders would still be free. The efreet use this enmity to their own advantage, stoking the salamanders' hatred and pitting them against the efreet's former servants.
 
 The efreet suffer salamanders to serve no other master; when efreet encounter salamanders dedicated to the cults of Elemental Evil, they slay them rather than enslaving them.
 
-***Domineering Nobles.***. Although salamanders follow the destructive impulses of their fiery nature, slavery under the efreet has impacted the culture of free salamanders. They rule their own societies according to the efreet model, in which larger and stronger salamanders claim dominion over their lesser kin.
+***Domineering Nobles.*** Although salamanders follow the destructive impulses of their fiery nature, slavery under the efreet has impacted the culture of free salamanders. They rule their own societies according to the efreet model, in which larger and stronger salamanders claim dominion over their lesser kin.
 
 >### Fire Snake
 >*Medium elemental, neutral evil*
@@ -41,14 +41,14 @@ The efreet suffer salamanders to serve no other master; when efreet encounter sa
 >- **Languages** understands Ignan but can't speak
 >- **Challenge** 1
 >___
->***Heated Body.***. A creature that touches the snake or hits it with a melee attack while within 5 feet of it takes 3 (1d6) fire damage.
+>***Heated Body.*** A creature that touches the snake or hits it with a melee attack while within 5 feet of it takes 3 (1d6) fire damage.
 >
 >#### Actions
->***Multiattack.***. The snake makes two attacks: one with its bite and one with its tail.
+>***Multiattack.*** The snake makes two attacks: one with its bite and one with its tail.
 >
->***Bite.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage plus 3 (1d6) fire damage.
+>***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage plus 3 (1d6) fire damage.
 >
->***Tail.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage plus 3 (1d6) fire damage.
+>***Tail.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage plus 3 (1d6) fire damage.
 >
 
 ---
@@ -56,7 +56,7 @@ The efreet suffer salamanders to serve no other master; when efreet encounter sa
 ## Salamander
 As salamanders age, they increase in size and status, rising to positions of power as cruel nobles among their kind. Nobles rule wandering bands of salamanders, which move across the Elemental Plane of Fire like desert nomads, raiding other communities for treasure.
 
-***Living Forges.***. Salamanders generate intense heat, and when they fight, their weapons glow red and sear the bodies of their enemies on contact. Even approaching a salamander is dangerous, since flesh blisters and burns in its proximity.
+***Living Forges.*** Salamanders generate intense heat, and when they fight, their weapons glow red and sear the bodies of their enemies on contact. Even approaching a salamander is dangerous, since flesh blisters and burns in its proximity.
 
 This inherent heat is an asset to salamanders' skill as smiths, allowing them to soften and shape iron and steel with their bare hands. Although not as meticulous as azers, salamanders number among the greatest metalsmiths in all the planes. Powerful creatures summon them as warriors, but others enlist the salamanders for their crafting skills, or bind them to forges and ovens to generate limitless heat.
 
@@ -83,15 +83,15 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 >- **Languages** Ignan
 >- **Challenge** 5
 >___
->***Heated Body.***. A creature that touches the salamander or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage.
+>***Heated Body.*** A creature that touches the salamander or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage.
 >
->***Heated Weapons.***. Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack).
+>***Heated Weapons.*** Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack).
 >
 >#### Actions
->***Multiattack.***. The salamander makes two attacks: one with its spear and one with its tail.
+>***Multiattack.*** The salamander makes two attacks: one with its spear and one with its tail.
 >
->***Spear.***. Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20 ft./60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+>***Spear.*** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20 ft./60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 >
->***Tail.***. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
+>***Tail.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
 >
 

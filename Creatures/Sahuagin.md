@@ -44,20 +44,20 @@ The sahuagin put the *malenti* to good use as spies and assassins in aquatic elf
 >- **Languages** Sahuagin
 >- **Challenge** 1/2
 >___
->***Blood Frenzy.***. The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
+>***Blood Frenzy.*** The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 >
->***Limited Amphibiousness.***. The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.
+>***Limited Amphibiousness.*** The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.
 >
->***Shark Telepathy.***. The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
+>***Shark Telepathy.*** The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
 >
 >#### Actions
->***Multiattack.***. The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.
+>***Multiattack.*** The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.
 >
->***Bite.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
+>***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
 >
->***Claws.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.
+>***Claws.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.
 >
->***Spear.***. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+>***Spear.*** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 >
 
 ---
@@ -87,13 +87,13 @@ The sahuagin put the *malenti* to good use as spies and assassins in aquatic elf
 >- **Languages** Sahuagin
 >- **Challenge** 2
 >___
->***Blood Frenzy.***. The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
+>***Blood Frenzy.*** The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 >
->***Limited Amphibiousness.***. The sahuagin can breathe air and water, but she needs to be submerged at least once every 4 hours to avoid suffocating.
+>***Limited Amphibiousness.*** The sahuagin can breathe air and water, but she needs to be submerged at least once every 4 hours to avoid suffocating.
 >
->***Shark Telepathy.***. The sahuagin can magically command any shark within 120 feet of her, using a limited telepathy.
+>***Shark Telepathy.*** The sahuagin can magically command any shark within 120 feet of her, using a limited telepathy.
 >
->***Spellcasting.***. The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following cleric spells prepared:
+>***Spellcasting.*** The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following cleric spells prepared:
 >
 >Cantrips (at will): guidance, thaumaturgy
 >
@@ -104,11 +104,11 @@ The sahuagin put the *malenti* to good use as spies and assassins in aquatic elf
 >3rd level (3 slots): mass healing word, tongues
 >
 >#### Actions
->***Multiattack.***. The sahuagin makes two attacks: one with her bite and one with her claws.
+>***Multiattack.*** The sahuagin makes two attacks: one with her bite and one with her claws.
 >
->***Bite.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
+>***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
 >
->***Claws.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.
+>***Claws.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.
 >
 
 ---
@@ -138,19 +138,19 @@ The sahuagin put the *malenti* to good use as spies and assassins in aquatic elf
 >- **Languages** Sahuagin
 >- **Challenge** 5
 >___
->***Blood Frenzy.***. The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
+>***Blood Frenzy.*** The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 >
->***Limited Amphibiousness.***. The sahuagin can breathe air and water, but he needs to be submerged at least once every 4 hours to avoid suffocating.
+>***Limited Amphibiousness.*** The sahuagin can breathe air and water, but he needs to be submerged at least once every 4 hours to avoid suffocating.
 >
->***Shark Telepathy.***. The sahuagin can magically command any shark within 120 feet of him, using a limited telepathy.
+>***Shark Telepathy.*** The sahuagin can magically command any shark within 120 feet of him, using a limited telepathy.
 >
 >#### Actions
->***Multiattack.***. The sahuagin makes three attacks: one with his bite and two with his claws or trident.
+>***Multiattack.*** The sahuagin makes three attacks: one with his bite and two with his claws or trident.
 >
->***Bite.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) piercing damage.
+>***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) piercing damage.
 >
->***Claws.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+>***Claws.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
 >
->***Trident.***. Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
+>***Trident.*** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
 >
 

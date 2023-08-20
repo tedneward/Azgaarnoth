@@ -11,15 +11,15 @@ Hobgoblins have dark orange or red-orange skin, and hair ranging from dark red-b
 
 Hobgoblins train to fight with a variety of weapons, and have great skill at crafting arms, armor, siege engines, and other military devices. Organized and disciplined, they take exceptional care of their weapons, armor, and personal possessions. They favor the bold colors associated with their tribes, and trim their often-elaborate uniforms with blood-red piping and leather dyed black.
 
-***Strategic Thinkers.***. Hobgoblins have a strong grasp of tactics and discipline, and can carry out sophisticated battle plans under the direction of a strategically minded leader. However, they hate elves and attack them first in battle over any other opponents, even if doing so would be a tactical error.
+***Strategic Thinkers.*** Hobgoblins have a strong grasp of tactics and discipline, and can carry out sophisticated battle plans under the direction of a strategically minded leader. However, they hate elves and attack them first in battle over any other opponents, even if doing so would be a tactical error.
 
-***Military Legions.***. Hobgoblins organize themselves into tribal bands known as legions. In their martial society, every hobgoblin has a rank, from the powerful leaders and champions, to the rank-and-file foot soldiers, to the goblins that find themselves driven into the front lines at spear point. A legion is headed by a warlord with several captains serving under its command. A hobgoblin warlord is a ruthless tyrant more interested in strategy, victory, glory, reputation, and dominion than leading troops into battle.
+***Military Legions.*** Hobgoblins organize themselves into tribal bands known as legions. In their martial society, every hobgoblin has a rank, from the powerful leaders and champions, to the rank-and-file foot soldiers, to the goblins that find themselves driven into the front lines at spear point. A legion is headed by a warlord with several captains serving under its command. A hobgoblin warlord is a ruthless tyrant more interested in strategy, victory, glory, reputation, and dominion than leading troops into battle.
 
 As loyal and disciplined as hobgoblins are in their own legion, rival legions compete constantly for reputation and status. Meetings between legions erupt in violence if troops aren't restrained, and only exceptionally powerful leaders can force legions to cooperate on the battlefield.
 
 Legions often supplement their ranks with less reliable and more expendable troops, including [Goblins](goblin.md), [Bugbears](Bugbear.md), [orcs](Orc.md), evil [Firstborn](../Races/index.md#firstborn) and [Humans](../Races/Humans.md), [ogres](Ogres.md), and [Giants](Giants.md). Legions are often a core backbone to the Hordes along with [Orcs](../Races/Orc.md), but often clash with their chaotic counterparts on a regular basis, as well.
 
-***Beast Trainers.***. Hobgoblins have a long history of training animals to service. Like the more civilized races, they use oxen and horses to transport goods and weaponry over long distances. They communicate with each other using trained ravens, and keep vicious wolves to guard prisoners and protect hobgoblin camps. Hobgoblin cavalry use trained worgs as steeds, in the same way that goblins ride wolves. Some tribes even keep carnivorous apes as fighting beasts.
+***Beast Trainers.*** Hobgoblins have a long history of training animals to service. Like the more civilized races, they use oxen and horses to transport goods and weaponry over long distances. They communicate with each other using trained ravens, and keep vicious wolves to guard prisoners and protect hobgoblin camps. Hobgoblin cavalry use trained worgs as steeds, in the same way that goblins ride wolves. Some tribes even keep carnivorous apes as fighting beasts.
 
 ***Conquer and Control.*** Hobgoblins claim lands with abundant resources, and they can be found in forests and mountains, near mines and humanoid settlements, and anywhere else that wood, metal, and potential slaves can be found. They build and conquer strongholds in strategically advantageous locations, which they then use as staging areas to expand their territory. As part of the earliest battles fought by the Hordes, hobgoblins were among the first to claim the lands now owned by [Yithi](../Nations/Yithi.md), but all these years later, hobgoblin villages and legions can be found almost entirely across Azgaarnoth.
 
@@ -61,12 +61,12 @@ More recently, hobgoblins have come to revere [Lythtzu](../Religions/Pantheon/Ly
 >- **Languages** Common,Goblin
 >- **Challenge** 1/2
 >___
->***Martial Advantage.***. Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
+>***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 >
 >#### Actions
->***Longsword.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
+>***Longsword.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
 >
->***Longbow.***. Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
+>***Longbow.*** Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
 >
 
 ---
@@ -97,12 +97,12 @@ Hobgoblins which survive combat after a while get tougher and more skilled.
 >- **Languages** Common,Goblin
 >- **Challenge** 1/2
 >___
->***Martial Advantage.***. Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
+>***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 >
 >#### Actions
->***Longsword.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 3) slashing damage, or 6 (1d10 + 3) slashing damage if used with two hands.
+>***Longsword.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 3) slashing damage, or 6 (1d10 + 3) slashing damage if used with two hands.
 >
->***Longbow.***. Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
+>***Longbow.*** Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
 >
 
 ---
@@ -133,12 +133,12 @@ After a few years of combat, hobgoblin veterans are tough as nails and ridiculou
 >- **Languages** Common,Goblin
 >- **Challenge** 1
 >___
->***Martial Advantage.***. Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
+>***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 >
 >#### Actions
->***Longsword.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
+>***Longsword.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
 >
->***Longbow.***. Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+>***Longbow.*** Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 >
 
 ---
@@ -168,14 +168,14 @@ After a few years of combat, hobgoblin veterans are tough as nails and ridiculou
 >- **Languages** Common,Goblin
 >- **Challenge** 3
 >___
->***Martial Advantage.***. Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
+>***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 >
 >#### Actions
->***Multiattack.***. The hobgoblin makes two greatsword attacks.
+>***Multiattack.*** The hobgoblin makes two greatsword attacks.
 >
->***Greatsword.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) piercing damage.
+>***Greatsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) piercing damage.
 >
->***Javelin.***. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+>***Javelin.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 >
 >***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is incapacitated.
 >
@@ -207,14 +207,14 @@ After a few years of combat, hobgoblin veterans are tough as nails and ridiculou
 >- **Languages** Common,Goblin
 >- **Challenge** 3
 >___
->***Martial Advantage.***. Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
+>***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 >
 >#### Actions
->***Multiattack.***. The hobgoblin makes two greatsword attacks.
+>***Multiattack.*** The hobgoblin makes two greatsword attacks.
 >
->***Greatsword.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) piercing damage.
+>***Greatsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) piercing damage.
 >
->***Javelin.***. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+>***Javelin.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 >
 >***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is incapacitated.
 >
@@ -247,20 +247,20 @@ Hobgoblin warlords are masters of battle. Some often have additional levels in a
 >- **Languages** Common,Goblin
 >- **Challenge** 6
 >___
->***Martial Advantage.***. Once per turn, the hobgoblin can deal an extra 14 (4d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
+>***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 14 (4d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 >
 >#### Actions
->***Multiattack.***. The hobgoblin makes three melee attacks. Alternatively, it can make two ranged attacks with its javelins.
+>***Multiattack.*** The hobgoblin makes three melee attacks. Alternatively, it can make two ranged attacks with its javelins.
 >
->***Longsword.***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+>***Longsword.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 >
->***Shield Bash.***. Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) bludgeoning damage. If the target is Large or smaller, it must succeed on a DC 14 Strength saving throw or be knocked prone.
+>***Shield Bash.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) bludgeoning damage. If the target is Large or smaller, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 >
->***Javelin.***. Melee or Ranged Weapon Attack: +9 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+>***Javelin.*** Melee or Ranged Weapon Attack: +9 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 >
 >***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is incapacitated.
 >
->***Parry.***. The hobgoblin adds 3 to its AC against one melee attack that would hit it. To do so, the hobgoblin must see the attacker and be wielding a melee weapon.
+>***Parry.*** The hobgoblin adds 3 to its AC against one melee attack that would hit it. To do so, the hobgoblin must see the attacker and be wielding a melee weapon.
 >
 
 ---
@@ -295,16 +295,16 @@ Among the [Tragedian United Hordes](../Nations/Tragekia.md), Bladebearers are kn
 >- **Languages** Common,Goblin
 >- **Challenge** 3
 >___
->***Martial Advantage.***. Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
+>***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 >
 >#### Actions
->***Multiattack.***. The hobgoblin bladebearer makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
+>***Multiattack.*** The hobgoblin bladebearer makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
 >
->***Longsword.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+>***Longsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 >
->***Shortsword.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+>***Shortsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 >
->***Heavy Crossbow.***. Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.
+>***Heavy Crossbow.*** Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.
 >
 
 ---
@@ -312,13 +312,13 @@ Among the [Tragedian United Hordes](../Nations/Tragekia.md), Bladebearers are kn
 ## Devastator
 In Hobgoblin society, the Academy of Devastation identifies Hobgoblins with a Talent for magic and puts them through a grueling Training regimen that endows them with the ability to call down fireballs and other destructive magic on the host's behalf. A Hobgoblin devastator on the battlefield is simultaneously a boon to all its allies and a threat to every foe around it.
 
-***Into the Fray.***. While other cultures treat their wizards as cloistered academics, Hobgoblins expect their spellcasters to fight. Devastators learn The Basics of weapon use, and they measure their deeds by the enemies defeated though their magic.
+***Into the Fray.*** While other cultures treat their wizards as cloistered academics, Hobgoblins expect their spellcasters to fight. Devastators learn The Basics of weapon use, and they measure their deeds by the enemies defeated though their magic.
 
 Devastators have the respect of other Members of the host, and they receive obedience and deference from many quarters. Their ability to lay waste to entire formations with a single use of magic allows them to gain far more glory in battle than a single Warrior.
 
 Other cultures might view the use of such Abilities as a short cut to glory, but to Hobgoblins a gift for magic is as valued and useful as a strong sword arm or brilliance in Tactics. They are all boons from Maglubiyet that must be cultivated and unleashed upon the enemy.
 
-***Only Results Matter.***. Devastators study a simplified form of Evocation magic. Their Training lacks the theory and context that other folk study, making them Skilled in battle but relatively illiterate on the finer points of how and why their magic works.
+***Only Results Matter.*** Devastators study a simplified form of Evocation magic. Their Training lacks the theory and context that other folk study, making them Skilled in battle but relatively illiterate on the finer points of how and why their magic works.
 
 The Academy of Devastation believes that an academic approach to magic is a sign of weakness and inefficiency. A Warrior doesn't Need to Know about metallurgy to wield a blade, so why should a Wizard care about where magic comes from? Devastators love to prove their superiority in battle by seeking out enemy spellcasters and destroying them.
 
@@ -347,11 +347,11 @@ If they survive long enough, Devastators usually end up looking to join one of t
 >- **Languages** Common,Goblin
 >- **Challenge** 4
 >___
->***Arcane Advantage.***. Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a damaging spell attack if that target is within 5 feet of an ally of the hobgoblin and that ally isn't incapacitated.
+>***Arcane Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a damaging spell attack if that target is within 5 feet of an ally of the hobgoblin and that ally isn't incapacitated.
 >
->***Army Arcana.***. When the hobgoblin casts a spell that causes damage or that forces other creatures to make a saving throw, it can choose itself and any number of allies to be immune to the damage caused by the spell and to succeed on the required saving throw.
+>***Army Arcana.*** When the hobgoblin casts a spell that causes damage or that forces other creatures to make a saving throw, it can choose itself and any number of allies to be immune to the damage caused by the spell and to succeed on the required saving throw.
 >
->***Spellcasting.***. The hobgoblin is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:
+>***Spellcasting.*** The hobgoblin is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:
 >
 >Cantrips (at will): acid splash, fire bolt, ray of frost, shocking grasp
 >
@@ -364,19 +364,19 @@ If they survive long enough, Devastators usually end up looking to join one of t
 >4th level (1 slot): ice storm
 >
 >#### Actions
->***Fire Bolt.***. Ranged Spell Attack: +5 to hit, reach 120 ft., one target. Hit: (2d10) fire damage. A flammable object hit by this spell ignites if it isn't being carried or worn
+>***Fire Bolt.*** Ranged Spell Attack: +5 to hit, reach 120 ft., one target. Hit: (2d10) fire damage. A flammable object hit by this spell ignites if it isn't being carried or worn
 >
->***Melf's Acid Arrow.***. Ranged Spell Attack: +5 to hit, reach 90 ft., one target. Hit: (4d4) acid damage plus (2d4)acid damage. The target takes another at the end of its next turn On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn
+>***Melf's Acid Arrow.*** Ranged Spell Attack: +5 to hit, reach 90 ft., one target. Hit: (4d4) acid damage plus (2d4)acid damage. The target takes another at the end of its next turn On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn
 >
->***Quarterstaff (One-Handed).***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: (1d6 + 1) bludgeoning damage.
+>***Quarterstaff (One-Handed).*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: (1d6 + 1) bludgeoning damage.
 >
->***Quarterstaff (Two-Handed).***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: (1d8 + 1) bludgeoning damage.
+>***Quarterstaff (Two-Handed).*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: (1d8 + 1) bludgeoning damage.
 >
->***Ray of Frost.***. Ranged Spell Attack: +5 to hit, reach 60 ft., one creature. Hit: (2d8) cold damage. The target's speed is reduced by 10 feet until the start of the hobgoblin's next turn.
+>***Ray of Frost.*** Ranged Spell Attack: +5 to hit, reach 60 ft., one creature. Hit: (2d8) cold damage. The target's speed is reduced by 10 feet until the start of the hobgoblin's next turn.
 >
->***Scorching Ray.***. Ranged Spell Attack: +5 to hit, reach 120 ft., one target. Hit: (2d6) fire damage. The hobgoblin creates three rays when it casts this spell and it can hurl them at one or several targets in range.
+>***Scorching Ray.*** Ranged Spell Attack: +5 to hit, reach 120 ft., one target. Hit: (2d6) fire damage. The hobgoblin creates three rays when it casts this spell and it can hurl them at one or several targets in range.
 >
->***Shocking Grasp.***. Melee Spell Attack: +5 to hit, reach 5 ft., one creature. Hit: (2d8) lightning damage. The target can't take reactions until the start of its next turn. The hobgoblin has advantage on this attack if the target is wearing armor made of metal.
+>***Shocking Grasp.*** Melee Spell Attack: +5 to hit, reach 5 ft., one creature. Hit: (2d8) lightning damage. The target can't take reactions until the start of its next turn. The hobgoblin has advantage on this attack if the target is wearing armor made of metal.
 >
 
 ---
@@ -384,13 +384,13 @@ If they survive long enough, Devastators usually end up looking to join one of t
 ## Iron Shadow
 The Iron Shadows are Hobgoblin monks that serve as secret police, scouts, and assassins. Among other Hobgoblins, they spy to ferret out treachery, rebellion, and betrayal.
 
-***Trained in Secret.***. Iron Shadows are recruited from across the Hobgoblin ranks. Each member keeps her eyes open for potential recruits, those whose agility and stamina are matched only by an ironclad commitment to Maglubiyet's will.
+***Trained in Secret.*** Iron Shadows are recruited from across the Hobgoblin ranks. Each member keeps her eyes open for potential recruits, those whose agility and stamina are matched only by an ironclad commitment to Maglubiyet's will.
 
 A candidate for admission undergoes a series of tests designed to reveal any potential for treachery. Those who fail are slain, while those who pass receive Secret Training in the magical and Martial Arts. This indoctrination is a slow and arduous process; many aspirants don't finish it, and years might go by during which the Iron Shadows welcome no new Members into their ranks. While a recruit is in Training, it serves the Iron Shadows by looking for and reporting suspicious behavior.
 
-***Masters of Shadow and Fist.***. When a recruit's training is complete, she is ready to wield a deadly combination of unarmed fighting techniques and shadow magic to deceive and defeat her foes. She continues to spy on other Hobgoblins, but is now also empowered to conduct assassinations and spy missions, both against enemies and among Goblinoids. These missions are ordained by the Children of Maglubiyet, who keep a careful eye on the goblinoid community to ensure that it functions according to Maglubiyet's will.
+***Masters of Shadow and Fist.*** When a recruit's training is complete, she is ready to wield a deadly combination of unarmed fighting techniques and shadow magic to deceive and defeat her foes. She continues to spy on other Hobgoblins, but is now also empowered to conduct assassinations and spy missions, both against enemies and among Goblinoids. These missions are ordained by the Children of Maglubiyet, who keep a careful eye on the goblinoid community to ensure that it functions according to Maglubiyet's will.
 
-***Masked Devils.***. Iron Shadows on a secret mission wear masks crafted to resemble devils, both to conceal their identities and to strike fear into their foes.
+***Masked Devils.*** Iron Shadows on a secret mission wear masks crafted to resemble devils, both to conceal their identities and to strike fear into their foes.
 
 Their masks also signify the supposed origin of their fighting techniques. The Children of Maglubiyet teach that the Great One stole the secrets of shadows from an archdevil, allowing his followers to conceal their identities, walk between shadows, and craft illusions to confuse and confound their enemies.
 
@@ -419,22 +419,22 @@ It is rumored that the Order of Iron Shadows is organized precisely along the sa
 >- **Languages** Common,Goblin
 >- **Challenge** 2
 >___
->***Spellcasting.***. The hobgoblin is a 2nd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared:
+>***Spellcasting.*** The hobgoblin is a 2nd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared:
 >
 >Cantrips (at will): minor illusion, prestidigitation, true strike
 >
 >1st level (3 slots): charm person, disguise self, expeditious retreat, silent image
 >
->***Unarmored Defense.***. While the hobgoblin is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
+>***Unarmored Defense.*** While the hobgoblin is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 >
 >#### Actions
->***Multiattack.***. The hobgoblin makes four attacks, each of which can be an unarmed strike or a dart attack. It can also use Shadow Jaunt once, either before or after one of the attacks.
+>***Multiattack.*** The hobgoblin makes four attacks, each of which can be an unarmed strike or a dart attack. It can also use Shadow Jaunt once, either before or after one of the attacks.
 >
->***Unarmed Strike.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: (1d4 + 3) bludgeoning damage.
+>***Unarmed Strike.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: (1d4 + 3) bludgeoning damage.
 >
->***Dart.***. Ranged Weapon Attack: +5 to hit, reach 20/60 ft., one target. Hit: (1d4 + 3) piercing damage.
+>***Dart.*** Ranged Weapon Attack: +5 to hit, reach 20/60 ft., one target. Hit: (1d4 + 3) piercing damage.
 >
->***Shadow Jaunt.***. The hobgoblin magically teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see. Both the space it is leaving and its destination must be in dim light or darkness.
+>***Shadow Jaunt.*** The hobgoblin magically teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see. Both the space it is leaving and its destination must be in dim light or darkness.
 >
 
 ---
@@ -556,9 +556,9 @@ The Mindbenders are Hobgoblin bards that serve as political officers across the 
 >4th (1 slot): greater invisibility, phantasmal killer
 >
 >#### Actions
->***Shortbow.***.
+>***Shortbow.***
 >
->***Shortsword.***.
+>***Shortsword.***
 >
 
 ---
@@ -589,11 +589,11 @@ The Doom Hand Clerics are a sect of Maglubiyet worshippers dedicated to the adva
 >- **Languages** Common,Goblin
 >- **Challenge** 2
 >___
->***Martial Advantage.***. Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
+>***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 >
->***Dark Devotion.***. The doom hand cleric has advantage on saving throws against being charmed or frightened.
+>***Dark Devotion.*** The doom hand cleric has advantage on saving throws against being charmed or frightened.
 >
->***Spellcasting.***. The doom hand cleric is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The doom hand has the following cleric spells prepared:
+>***Spellcasting.*** The doom hand cleric is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The doom hand has the following cleric spells prepared:
 >
 >Cantrips (at will): [resistance](../Magic/Spells/resistance.md), [spare the dying](../Magic/Spells/spare-the-dying.md), [thaumaturgy](../Magic/Spells/thaumaturgy.md)
 >
@@ -602,9 +602,9 @@ The Doom Hand Clerics are a sect of Maglubiyet worshippers dedicated to the adva
 >2nd level (3 slots): [hold person](../Magic/Spells/hold-person.md), [invisibility](../Magic/Spells/invisibility.md), [spiritual weapon](../Magic/Spells/spiritual-weapon.md)
 >
 >#### Actions
->***Multiattack.***. The doom hand makes two melee attacks.
+>***Multiattack.*** The doom hand makes two melee attacks.
 >
->***Scimitar.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (2d4 + 2) slashing damage.
+>***Scimitar.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (2d4 + 2) slashing damage.
 >
 
 ---
@@ -635,18 +635,18 @@ The Doom First Monks are a monastic order of hobgoblins dedicated to the cause o
 >- **Languages** Common,Goblin
 >- **Challenge** 2
 >___
->***Unarmored Defense.***. While the doom fist monk is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
+>***Unarmored Defense.*** While the doom fist monk is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 >
->***Spellcasting.***. The doom fist monk is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The doom fist has the following spells prepared:
+>***Spellcasting.*** The doom fist monk is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The doom fist has the following spells prepared:
 >
 >Cantrips (at will): acid splash, fire bolt, ray of frost
 >
 >1st level (4 slots): burning hands, mage armor, thunderwave
 >
 >#### Actions
->***Multiattack.***. The doom fist monk makes four attacks, each of which can be an unarmed strike or a dart attack.
+>***Multiattack.*** The doom fist monk makes four attacks, each of which can be an unarmed strike or a dart attack.
 >
->***Unarmed Strike.***. Melee Weapon Attack. Hit: +5, Reach 5ft, One target, 1d8+3 bludgeoning damage.
+>***Unarmed Strike.*** Melee Weapon Attack. Hit: +5, Reach 5ft, One target, 1d8+3 bludgeoning damage.
 >
->***Javelin.***. Ranged Weapon Attack. Hit: +5, Range 20/60, One target, 1d8+3 piercing damage.
+>***Javelin.*** Ranged Weapon Attack. Hit: +5, Range 20/60, One target, 1d8+3 piercing damage.
 >

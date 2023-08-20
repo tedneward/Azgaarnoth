@@ -1,5 +1,4 @@
 # Lizardfolk
-See the [Creatures entry on Lizardfolk](../Creatures/Lizardfolk.md) for background and details.
 
 * **Ability Score Increase**. Your Constitution score increase by 2, and your Wisdom score increases by 1.
 

@@ -59,12 +59,12 @@ Also sometimes known as "slaadpoles".
 >- **Languages** understands Slaad but can't speak
 >- **Challenge** 1/8
 >___
->***Magic Resistance.***. The slaad has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+>***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 >
->***Shapechangers.***. Some slaadi can transform into the humanoid creatures from which they were originally spawned. These slaadi return to the Material Plane to sow discord in the guise of their former selves.
+>***Shapechangers.*** Some slaadi can transform into the humanoid creatures from which they were originally spawned. These slaadi return to the Material Plane to sow discord in the guise of their former selves.
 >
 
 ---
@@ -101,16 +101,16 @@ When a red slaad claws a humanoid creature, it can inject an egg from a gland un
 >- **Languages** Slaad,telepathy 60 ft.
 >- **Challenge** 5
 >___
->***Magic Resistance.***. The slaad has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects.
 >
->***Regeneration.***. The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
+>***Regeneration.*** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
 >
 >#### Actions
->***Multiattack.***. The slaad makes three attacks: one with its bite and two with its claws.
+>***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws.
 >
->***Bite.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) piercing damage.
+>***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) piercing damage.
 >
->***Claw.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be infected with a disease -- a minuscule slaad egg.
+>***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be infected with a disease -- a minuscule slaad egg.
 >
 >A humanoid host can carry only one slaad egg to term at a time. Over three months, the egg moves to the chest cavity, gestates, and forms a slaad tadpole. In the 24-hour period before giving birth, the host starts to feel unwell, its speed is halved, and it has disadvantage on attack rolls, ability checks, and saving throws. At birth, the tadpole chews its way through vital organs and out of the host's chest in 1 round, killing the host in the process.
 >
@@ -151,16 +151,16 @@ The bone hooks that protrude from the back of a blue slaad's hands inflict a ter
 >- **Languages** Slaad,telepathy 60 ft.
 >- **Challenge** 7
 >___
->***Magic Resistance.***. The slaad has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects.
 >
->***Regeneration.***. The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
+>***Regeneration.*** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
 >
 >#### Actions
->***Multiattack.***. The slaad makes three attacks: one with its bite and two with its claws.
+>***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws.
 >
->***Bite.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) piercing damage.
+>***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) piercing damage.
 >
->***Claw.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage. If the target is a humanoid, it must succeed on a DC 15 Constitution saving throw or be infected with a disease called chaos phage. While infected, the target can't regain hit points, and its hit point maximum is reduced by 10 (3d6) every 24 hours. If the disease reduces the target's hit point maximum to 0, the target instantly transforms into a red slaad or, if it has the ability to cast spells of 3rd level or higher, a green slaad. Only a wish spell can reverse the transformation.
+>***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage. If the target is a humanoid, it must succeed on a DC 15 Constitution saving throw or be infected with a disease called chaos phage. While infected, the target can't regain hit points, and its hit point maximum is reduced by 10 (3d6) every 24 hours. If the disease reduces the target's hit point maximum to 0, the target instantly transforms into a red slaad or, if it has the ability to cast spells of 3rd level or higher, a green slaad. Only a wish spell can reverse the transformation.
 >
 
 ---
@@ -221,9 +221,9 @@ But maybe the PCs have means of detecting or tracking an invisible opponent. If 
 >- **Languages** Slaad,telepathy 60 ft.
 >- **Challenge** 8
 >___
->***Shapechanger.***. The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+>***Shapechanger.*** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 >
->***Innate Spellcasting.***. The slaad's innate spellcasting ability is Charisma (spell save DC 12). The slaad can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The slaad's innate spellcasting ability is Charisma (spell save DC 12). The slaad can innately cast the following spells, requiring no material components:
 >
 >At will: detect magic, detect thoughts, mage hand
 >
@@ -231,20 +231,20 @@ But maybe the PCs have means of detecting or tracking an invisible opponent. If 
 >
 >1/day: fireball
 >
->***Magic Resistance.***. The slaad has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects.
 >
->***Regeneration.***. The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
+>***Regeneration.*** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
 >
 >#### Actions
->***Multiattack.***. The slaad makes three attacks: one with its bite and two with its claws or staff. Alternatively, it uses its Hurl Flame twice.
+>***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws or staff. Alternatively, it uses its Hurl Flame twice.
 >
->***Bite (Slaad Form Only).***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
+>***Bite (Slaad Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
 >
->***Claw (Slaad Form Only).***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
+>***Claw (Slaad Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
 >
->***Staff.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
+>***Staff.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 >
->***Hurl Flame.***. Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 10 (3d6) fire damage. The fire ignites flammable objects that aren't being worn or carried.
+>***Hurl Flame.*** Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 10 (3d6) fire damage. The fire ignites flammable objects that aren't being worn or carried.
 >
 
 ---
@@ -285,9 +285,9 @@ In general, having higher Strength and Dexterity than Constitution (though all t
 >- **Languages** Slaad,telepathy 60 ft.
 >- **Challenge** 9
 >___
->***Shapechanger.***. The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+>***Shapechanger.*** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 >
->***Innate Spellcasting.***. The slaad's innate spellcasting ability is Charisma (spell save DC 14). The slaad can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The slaad's innate spellcasting ability is Charisma (spell save DC 14). The slaad can innately cast the following spells, requiring no material components:
 >
 >At will: detect magic, detect thoughts, invisibility (self only), mage hand, major image
 >
@@ -295,20 +295,20 @@ In general, having higher Strength and Dexterity than Constitution (though all t
 >
 >1/day: plane shift (self only)
 >
->***Magic Resistance.***. The slaad has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.***. The slaad's weapon attacks are magical.
+>***Magic Weapons.*** The slaad's weapon attacks are magical.
 >
->***Regeneration.***. The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
+>***Regeneration.*** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
 >
 >#### Actions
->***Multiattack.***. The slaad makes three attacks: one with its bite and two with its claws or greatsword.
+>***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws or greatsword.
 >
->***Bite (Slaad Form Only).***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+>***Bite (Slaad Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 >
->***Claws (Slaad Form Only).***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) slashing damage.
+>***Claws (Slaad Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) slashing damage.
 >
->***Greatsword.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
+>***Greatsword.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
 >
 
 ---
@@ -355,9 +355,9 @@ Alone among slaadi, death slaadi are canny enough to be able to guess at PCs' al
 >- **Languages** Slaad,telepathy 60 ft.
 >- **Challenge** 10
 >___
->***Shapechanger.***. The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+>***Shapechanger.*** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 >
->***Innate Spellcasting.***. The slaad's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The slaad's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:
 >
 >At will: detect magic, detect thoughts, invisibility (self only), mage hand, major image
 >
@@ -365,18 +365,18 @@ Alone among slaadi, death slaadi are canny enough to be able to guess at PCs' al
 >
 >1/day each: cloudkill, plane shift
 >
->***Magic Resistance.***. The slaad has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.***. The slaad's weapon attacks are magical.
+>***Magic Weapons.*** The slaad's weapon attacks are magical.
 >
->***Regeneration.***. The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
+>***Regeneration.*** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
 >
 >#### Actions
->***Multiattack.***. The slaad makes three attacks: one with its bite and two with its claws or greatsword.
+>***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws or greatsword.
 >
->***Bite (Slaad Form Only).***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) necrotic damage.
+>***Bite (Slaad Form Only).*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) necrotic damage.
 >
->***Claws (Slaad Form Only).***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) necrotic damage.
+>***Claws (Slaad Form Only).*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) necrotic damage.
 >
->***Greatsword.***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage plus 7 (2d6) necrotic damage.
+>***Greatsword.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage plus 7 (2d6) necrotic damage.
 >

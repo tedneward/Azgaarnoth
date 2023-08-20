@@ -5,7 +5,7 @@ Reclusive and omnivorous, hippogriffs mate for life and seldom venture more than
 
 Dragons, griffons, and wyverns have a taste for hippogriff meat and frequently prey on these creatures.
 
-***Flying Mounts.***. A hippogriff raised in captivity can be trained to be a faithful companion and mount. Of all the creatures that can serve as flying mounts, hippogriffs are among the easiest to train and the most loyal once trained properly.
+***Flying Mounts.*** A hippogriff raised in captivity can be trained to be a faithful companion and mount. Of all the creatures that can serve as flying mounts, hippogriffs are among the easiest to train and the most loyal once trained properly.
 
 >### Hippogriff
 >*Large monstrosity, unaligned*
@@ -30,12 +30,12 @@ Dragons, griffons, and wyverns have a taste for hippogriff meat and frequently p
 >- **Languages** —
 >- **Challenge** 1
 >___
->***Keen Sight.***. The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.
+>***Keen Sight.*** The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Multiattack.***. The hippogriff makes two attacks: one with its beak and one with its claws.
+>***Multiattack.*** The hippogriff makes two attacks: one with its beak and one with its claws.
 >
->***Beak.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.
+>***Beak.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.
 >
->***Claws.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
+>***Claws.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
 >

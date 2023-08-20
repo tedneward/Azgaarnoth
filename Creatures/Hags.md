@@ -189,7 +189,7 @@ target is grappled (escape DC 14).
 ## Green Hag
 The wretched and hateful green hags dwell in dying forests, lonely swamps, and misty moors, making their homes in caves. Green hags love to manipulate other creatures into doing their bidding, masking their intentions behind layers of deception. They lure victims to them by mimicking voices calling out for help, or drive unwanted visitors away by imitating the cries of fierce beasts.
 
-***Obsession with Tragedy.***. Green hags revel in the failings and tragedies of other creatures. They derive joy from bringing people low and seeing hope turn into despair, not just for individuals but also for whole nations.
+***Obsession with Tragedy.*** Green hags revel in the failings and tragedies of other creatures. They derive joy from bringing people low and seeing hope turn into despair, not just for individuals but also for whole nations.
 
 >### Green Hag
 >*Medium fey, neutral evil*
@@ -214,22 +214,22 @@ The wretched and hateful green hags dwell in dying forests, lonely swamps, and m
 >- **Languages** Common,Draconic,Sylvan
 >- **Challenge** 3
 >___
->***Amphibious.***. The hag can breathe air and water.
+>***Amphibious.*** The hag can breathe air and water.
 >
->***Innate Spellcasting.***. The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:
 >
 >At will: dancing lights, minor illusion, vicious mockery
 >
->***Mimicry.***. The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
+>***Mimicry.*** The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
 >
 >#### Actions
->***Claws.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
+>***Claws.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
 >
->***Illusory Appearance.***. The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.
+>***Illusory Appearance.*** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.
 >
 >The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching her would feel her rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation) check to discern that the hag is disguised.
 >
->***Invisible Passage.***. The hag magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her.
+>***Invisible Passage.*** The hag magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her.
 >
 
 ---
@@ -247,7 +247,7 @@ Night hags were once creatures of the Feywild, but their foulness saw them exile
 
 If either object is lost, the night hag will go to great lengths to retrieve it, as creating a new tool takes time and effort.
 
-***Soulmongers.***. While a humanoid sleeps, a night hag can straddle the person ethereally and intrude upon its dreams. Any creature with truesight can see the hag's spectral form straddling its prey. The ethereal hag fills her victim's head with doubts and fears, in the hope of tricking it into performing evil acts in the waking world. The hag continues her nightly visitations until the victim finally expires in its sleep. If the hag has driven her victim to commit evil deeds, she traps its corrupted soul in her soul bag for transport to Hades.
+***Soulmongers.*** While a humanoid sleeps, a night hag can straddle the person ethereally and intrude upon its dreams. Any creature with truesight can see the hag's spectral form straddling its prey. The ethereal hag fills her victim's head with doubts and fears, in the hope of tricking it into performing evil acts in the waking world. The hag continues her nightly visitations until the victim finally expires in its sleep. If the hag has driven her victim to commit evil deeds, she traps its corrupted soul in her soul bag for transport to Hades.
 
 >### Night Hag
 >*Medium fiend, neutral evil*
@@ -272,22 +272,22 @@ If either object is lost, the night hag will go to great lengths to retrieve it,
 >- **Languages** Abyssal,Common,Infernal,Primordial
 >- **Challenge** 5
 >___
->***Innate Spellcasting.***. The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 >
 >At will: detect magic, magic missile
 >
 >2/day each: plane shift (self only), ray of enfeeblement, sleep
 >
->***Magic Resistance.***. The hag has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The hag has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
->***Claws (Hag Form Only).***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
+>***Claws (Hag Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
 >
->***Change Shape.***. The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.
+>***Change Shape.*** The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.
 >
->***Etherealness.***. The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a heartstone in her possession.
+>***Etherealness.*** The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a heartstone in her possession.
 >
->***Nightmare Haunting (1/Day).***. While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A protection from evil and good spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's soul bag. The reduction to the target's hit point maximum lasts until removed by the greater restoration spell or similar magic.
+>***Nightmare Haunting (1/Day).*** While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A protection from evil and good spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's soul bag. The reduction to the target's hit point maximum lasts until removed by the greater restoration spell or similar magic.
 >
 
 ---
@@ -297,7 +297,7 @@ Sea hags live in dismal and polluted underwater lairs, surrounded by merrow and 
 
 Beauty drives a sea hag to fits of anger. When confronted with something beautiful, the hag might simply attack it or deface it. If something beautiful gives hope, a sea hag wants it to cause despair. If it inspires courage, the sea hag wants it to cause fear.
 
-***Ugly Inside and Out.***. Sea hags are by far the ugliest of all hags, with slimy scales covering their pallid skin. A sea hag's hair resembles seaweed and covers her emaciated body, and her glassy eyes seem as lifeless as a doll's. Although a sea hag can hide her true form under a veil of illusion, the hag is cursed to forever appear ugly. Her illusory form appears haggard at best.
+***Ugly Inside and Out.*** Sea hags are by far the ugliest of all hags, with slimy scales covering their pallid skin. A sea hag's hair resembles seaweed and covers her emaciated body, and her glassy eyes seem as lifeless as a doll's. Although a sea hag can hide her true form under a veil of illusion, the hag is cursed to forever appear ugly. Her illusory form appears haggard at best.
 
 >### Sea Hag
 >*Medium fey, chaotic evil*
@@ -322,18 +322,18 @@ Beauty drives a sea hag to fits of anger. When confronted with something beautif
 >- **Languages** Aquan,Common,Giant
 >- **Challenge** 2
 >___
->***Amphibious.***. The hag can breathe air and water.
+>***Amphibious.*** The hag can breathe air and water.
 >
->***Horrific Appearance.***. Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.
+>***Horrific Appearance.*** Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.
 >
 >Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.
 >
 >#### Actions
->***Claws.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
+>***Claws.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
 >
->***Death Glare.***. The hag targets one frightened creature she can see within 30 feet of her. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0 hit points.
+>***Death Glare.*** The hag targets one frightened creature she can see within 30 feet of her. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0 hit points.
 >
->***Illusory Appearance.***. The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly creature of her general size and humanoid shape. The effect ends if the hag takes a bonus action to end it or if she dies.
+>***Illusory Appearance.*** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly creature of her general size and humanoid shape. The effect ends if the hag takes a bonus action to end it or if she dies.
 >
 >The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no claws, but someone touching her hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check to discern that the hag is disguised.
 >

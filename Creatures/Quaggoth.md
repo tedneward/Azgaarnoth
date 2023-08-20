@@ -40,12 +40,12 @@ As they passed the ages deep beneath the world, the quaggoths' fur lost its colo
 >- **Languages** Undercommon
 >- **Challenge** 2
 >___
->***Wounded Fury.***. While it has 10 hit points or fewer, the quaggoth has advantage on attack rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits with a melee attack.
+>***Wounded Fury.*** While it has 10 hit points or fewer, the quaggoth has advantage on attack rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits with a melee attack.
 >
 >#### Actions
->***Multiattack.***. The quaggoth makes two claw attacks.
+>***Multiattack.*** The quaggoth makes two claw attacks.
 >
->***Claw.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+>***Claw.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
 >
 
 ---
@@ -75,17 +75,17 @@ As they passed the ages deep beneath the world, the quaggoths' fur lost its colo
 >- **Languages** Undercommon
 >- **Challenge** 3
 >___
->***Wounded Fury.***. While it has 10 hit points or fewer, the quaggoth has advantage on attack rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits with a melee attack.
+>***Wounded Fury.*** While it has 10 hit points or fewer, the quaggoth has advantage on attack rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits with a melee attack.
 >
->***Innate Spellcasting (Psionics).***. The quaggoth's innate spellcasting ability is Wisdom (spell save DC 11). The quaggoth can innately cast the following spells, requiring no components:
+>***Innate Spellcasting (Psionics).*** The quaggoth's innate spellcasting ability is Wisdom (spell save DC 11). The quaggoth can innately cast the following spells, requiring no components:
 >
 >At will: feather fall, mage hand (the hand is invisible)
 >
 >1/day each: cure wounds, enlarge/reduce, heat metal, mirror image
 >
 >#### Actions
->***Multiattack.***. The quaggoth makes two claw attacks.
+>***Multiattack.*** The quaggoth makes two claw attacks.
 >
->***Claw.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+>***Claw.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
 >
 

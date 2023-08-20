@@ -45,11 +45,11 @@ An androsphinx tests the courage and valor of supplicants, not only by forcing t
 >- **Languages** Common,Sphinx
 >- **Challenge** 17
 >___
->***Inscrutable.***. The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
+>***Inscrutable.*** The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
 >
->***Magic Weapons.***. The sphinx's weapon attacks are magical.
+>***Magic Weapons.*** The sphinx's weapon attacks are magical.
 >
->***Spellcasting.***. The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:
+>***Spellcasting.*** The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:
 >
 >Cantrips (at will): sacred flame, spare the dying, thaumaturgy
 >
@@ -66,26 +66,26 @@ An androsphinx tests the courage and valor of supplicants, not only by forcing t
 >6th level (1 slot): heroes' feast
 >
 >#### Actions
->***Multiattack.***. The sphinx makes two claw attacks.
+>***Multiattack.*** The sphinx makes two claw attacks.
 >
->***Claw.***. Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 6) slashing damage.
+>***Claw.*** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 6) slashing damage.
 >
->***Roar (3/Day).***. The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
+>***Roar (3/Day).*** The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
 >
->***First Roar.***. Each creature that fails a DC 18 Wisdom saving throw is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>***First Roar.*** Each creature that fails a DC 18 Wisdom saving throw is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
->***Second Roar.***. Each creature that fails a DC 18 Wisdom saving throw is deafened and frightened for 1 minute. A frightened creature is paralyzed and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>***Second Roar.*** Each creature that fails a DC 18 Wisdom saving throw is deafened and frightened for 1 minute. A frightened creature is paralyzed and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
->***Third Roar.***. Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
+>***Third Roar.*** Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
 >
 >#### Legendary Actions
 >The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
 >
->***Claw Attack.***. The sphinx makes one claw attack.
+>***Claw Attack.*** The sphinx makes one claw attack.
 >
->***Teleport (Costs 2 Actions).***. The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+>***Teleport (Costs 2 Actions).*** The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 >
->***Cast a Spell (Costs 3 Actions).***. The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
+>***Cast a Spell (Costs 3 Actions).*** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
 >
 
 ---
@@ -118,11 +118,11 @@ Gynosphinxes are virtual libraries of knowledge and lore. They ask riddles and p
 >- **Languages** Common,Sphinx
 >- **Challenge** 11
 >___
->***Inscrutable.***. The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
+>***Inscrutable.*** The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
 >
->***Magic Weapons.***. The sphinx's weapon attacks are magical.
+>***Magic Weapons.*** The sphinx's weapon attacks are magical.
 >
->***Spellcasting.***. The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:
+>***Spellcasting.*** The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:
 >
 >Cantrips (at will): mage hand, minor illusion, prestidigitation
 >
@@ -137,18 +137,18 @@ Gynosphinxes are virtual libraries of knowledge and lore. They ask riddles and p
 >5th level (1 slot): legend lore
 >
 >#### Actions
->***Multiattack.***. The sphinx makes two claw attacks.
+>***Multiattack.*** The sphinx makes two claw attacks.
 >
->***Claw.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
+>***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
 >
 >#### Legendary Actions
 >The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
 >
->***Claw Attack.***. The sphinx makes one claw attack.
+>***Claw Attack.*** The sphinx makes one claw attack.
 >
->***Teleport (Costs 2 Actions).***. The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+>***Teleport (Costs 2 Actions).*** The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 >
->***Cast a Spell (Costs 3 Actions).***. The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
+>***Cast a Spell (Costs 3 Actions).*** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
 >
 
 ### A Gynosphinx's Lair
@@ -190,22 +190,22 @@ On initiative count 20 (losing initiative ties), the sphinx can take a lair acti
 >- **Languages** Common,Sphinx
 >- **Challenge** 7
 >___
->***Inscrutable.***. The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
+>***Inscrutable.*** The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
 >
->***Magic Weapons.***. The sphinx's weapon attacks are magical.
+>***Magic Weapons.*** The sphinx's weapon attacks are magical.
 >
 >#### Actions
->***Multiattack.***. The sphinx makes two claw attacks, and can screech.
+>***Multiattack.*** The sphinx makes two claw attacks, and can screech.
 >
->***Claw.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target hit: 12 (2d6 +5) slashing damage.
+>***Claw.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target hit: 12 (2d6 +5) slashing damage.
 >
->***Screech (3/Day).***. The sphinx emits a magical screech. Each creature within 250 feet of the sphinx and able to hear it must make a saving throw. Each creature that fails a DC 14 Wisdom saving throw is deafened and frightened for 1 minute (10 rounds). A frightened creature is paralyzed and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>***Screech (3/Day).*** The sphinx emits a magical screech. Each creature within 250 feet of the sphinx and able to hear it must make a saving throw. Each creature that fails a DC 14 Wisdom saving throw is deafened and frightened for 1 minute (10 rounds). A frightened creature is paralyzed and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
 >## Legendary Actions
 >
 >The sphinx can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
 >
->***Claw Attack.***. The sphinx makes one claw attack.
+>***Claw Attack.*** The sphinx makes one claw attack.
 >
->***Teleport (Costs 2 Actions).***. The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+>***Teleport (Costs 2 Actions).*** The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 >
