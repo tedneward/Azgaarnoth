@@ -9,7 +9,7 @@ All hags possess magical powers, and some have an affinity for spellcasting. The
 
 Hags name themselves in darkly whimsical ways, claiming monikers such as Black Morwen, Peggy Pigknuckle, Grandmother Titchwillow, Nanna Shug, Rotten Ethel, or Auntie Wormtooth.
 
-**Monstrous Motherhood.** Hags propagate by snatching and devouring human infants. After stealing a baby from its cradle or its mother’s womb, the hag consumes the poor child. A week later, the hag gives birth to a daughter who looks human until her thirteenth birthday, whereupon the child transforms into the spitting image of her hag mother.
+**Monstrous Motherhood.** Hags propagate by snatching and devouring human infants. After stealing a baby from its cradle or its mother's womb, the hag consumes the poor child. A week later, the hag gives birth to a daughter who looks human until her thirteenth birthday, whereupon the child transforms into the spitting image of her hag mother.
 
 Hags sometimes raise the daughters they spawn, creating covens. A hag might also return the child to its grieving parents, only to watch from the shadows as the child grows up to become a horror.
 
@@ -17,22 +17,22 @@ Hags sometimes raise the daughters they spawn, creating covens. A hag might also
 
 Hags enjoy watching mortals bring about their own downfall, and a bargain with a hag is always dangerous. The terms of such bargains typically involve demands to compromise principles or give up something dear — especially if the thing lost diminishes or negates the knowledge gained through the bargain.
 
-**A Foul Nature.** Hags love the macabre and festoon their garb with dead things and accentuate their appearance with bones, bits of flesh, and filth. They nurture blemishes and pick at wounds to produce weeping, suppurating flesh. Attractive creatures evoke disgust in a hag, which might “help” such creatures by disfiguring or transforming them.
+**A Foul Nature.** Hags love the macabre and festoon their garb with dead things and accentuate their appearance with bones, bits of flesh, and filth. They nurture blemishes and pick at wounds to produce weeping, suppurating flesh. Attractive creatures evoke disgust in a hag, which might "help” such creatures by disfiguring or transforming them.
 
-This embrace of the disturbing and unpleasant extends to all aspects of a hag’s life. A hag might fly in a magical giant’s skull, landing it on a tree shaped to resemble an enormous headless body. Another might travel with a menagerie of monsters and slaves kept in cages, and disguised by illusions to lure unwary creatures close. Hags sharpen their teeth on millstones and spin cloth from the intestines of their victims, reacting with glee to the horror their actions invoke.
+This embrace of the disturbing and unpleasant extends to all aspects of a hag's life. A hag might fly in a magical giant's skull, landing it on a tree shaped to resemble an enormous headless body. Another might travel with a menagerie of monsters and slaves kept in cages, and disguised by illusions to lure unwary creatures close. Hags sharpen their teeth on millstones and spin cloth from the intestines of their victims, reacting with glee to the horror their actions invoke.
 
-**Dark Sorority.** Hags maintain contact with each other and share knowledge. Through such contacts, it is likely that any given hag knows of every other hag in existence. Hags don’t like each other, but they abide by an ageless code of conduct. Hags announce their presence before crossing into another hag’s territory, bring gifts when entering another hag’s dwelling, and break no oaths given to other hags — as long as the oath isn’t given with the fingers crossed.
+**Dark Sorority.** Hags maintain contact with each other and share knowledge. Through such contacts, it is likely that any given hag knows of every other hag in existence. Hags don't like each other, but they abide by an ageless code of conduct. Hags announce their presence before crossing into another hag's territory, bring gifts when entering another hag's dwelling, and break no oaths given to other hags — as long as the oath isn't given with the fingers crossed.
 
-Some humanoids make the mistake of thinking that the hags’ rules of conduct apply to all creatures. When confronted by such an individual, a hag might find it amusing to string the fool along for a while before teaching it a permanent lesson.
+Some humanoids make the mistake of thinking that the hags' rules of conduct apply to all creatures. When confronted by such an individual, a hag might find it amusing to string the fool along for a while before teaching it a permanent lesson.
 
-**Dark Lairs.** Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and gloomy swamps. In time, the landscape around a hag’s lair reflects the creature’s noxiousness, such that the land itself can attack and kill trespassers. Trees twisted by darkness attack passersby, while vines snake through the undergrowth to snare and drag off creatures one at a time. Foul stinking fogs turn the air to poison, and conceal pools of quicksand and sinkholes that consume unwary wanderers.
+**Dark Lairs.** Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and gloomy swamps. In time, the landscape around a hag's lair reflects the creature's noxiousness, such that the land itself can attack and kill trespassers. Trees twisted by darkness attack passersby, while vines snake through the undergrowth to snare and drag off creatures one at a time. Foul stinking fogs turn the air to poison, and conceal pools of quicksand and sinkholes that consume unwary wanderers.
 
 ## Hag Covens
 When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power.
 
 A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos.
 
-**Shared Spellcasting.** While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard’s spell list but must share the spell slots among themselves:
+**Shared Spellcasting.** While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
 
 * *1st level (4 slots)*: [identify](../Magic/Spells/identify.md), [ray of sickness](../Magic/Spells/ray-of-sickness.md)
 * *2nd level (3 slots)*: [hold person](../Magic/Spells/hold-person.md), [locate object](../Magic/Spells/locate-object.md)
@@ -41,11 +41,11 @@ A coven consists of three hags so that any arguments between two hags can be set
 * *5th level (2 slots)*: [contact other plane](../Magic/Spells/contact-other-plane.md), [scrying](../Magic/Spells/scrying.md)
 * *6th level (1 slot)*: [eyebite](../Magic/Spells/eyebite.md)
 
-For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag’s Intelligence modifier, and the spell attack bonus is 4 + the hag’s Intelligence modifier.
+For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 
 **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.
 
-A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can’t perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over.
+A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over.
 
 ---
 
@@ -213,7 +213,7 @@ target is grappled (escape DC 14).
 >___
 >***Amphibious.*** The hag can breathe air and water.
 >
->***Innate Spellcasting.*** The hag’s innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:
 >
 >*At will*: [dancing lights](../Magic/Spells/dancing-lights.md), [minor illusion](../Magic/Spells/minor-illusion.md), [vicious mockery](../Magic/Spells/vicious-mockery.md)
 >
@@ -291,7 +291,7 @@ All hags possess magical powers, and some have an affinity for spellcasting. The
 
 Hags name themselves in darkly whimsical ways, claiming monikers such as Black Morwen, Peggy Pigknuckle, Grandmother Titchwillow, Nanna Shug, Rotten Ethel, or Auntie Wormtooth.
 
-**Monstrous Motherhood.** Hags propagate by snatching and devouring human infants. After stealing a baby from its cradle or its mother’s womb, the hag consumes the poor child. A week later, the hag gives birth to a daughter who looks human until her thirteenth birthday, whereupon the child transforms into the spitting image of her hag mother.
+**Monstrous Motherhood.** Hags propagate by snatching and devouring human infants. After stealing a baby from its cradle or its mother's womb, the hag consumes the poor child. A week later, the hag gives birth to a daughter who looks human until her thirteenth birthday, whereupon the child transforms into the spitting image of her hag mother.
 
 Hags sometimes raise the daughters they spawn, creating covens. A hag might also return the child to its grieving parents, only to watch from the shadows as the child grows up to become a horror.
 
@@ -299,15 +299,15 @@ Hags sometimes raise the daughters they spawn, creating covens. A hag might also
 
 Hags enjoy watching mortals bring about their own downfall, and a bargain with a hag is always dangerous. The terms of such bargains typically involve demands to compromise principles or give up something dear — especially if the thing lost diminishes or negates the knowledge gained through the bargain.
 
-**A Foul Nature.** Hags love the macabre and festoon their garb with dead things and accentuate their appearance with bones, bits of flesh, and filth. They nurture blemishes and pick at wounds to produce weeping, suppurating flesh. Attractive creatures evoke disgust in a hag, which might “help” such creatures by disfiguring or transforming them.
+**A Foul Nature.** Hags love the macabre and festoon their garb with dead things and accentuate their appearance with bones, bits of flesh, and filth. They nurture blemishes and pick at wounds to produce weeping, suppurating flesh. Attractive creatures evoke disgust in a hag, which might "help” such creatures by disfiguring or transforming them.
 
-This embrace of the disturbing and unpleasant extends to all aspects of a hag’s life. A hag might fly in a magical giant’s skull, landing it on a tree shaped to resemble an enormous headless body. Another might travel with a menagerie of monsters and slaves kept in cages, and disguised by illusions to lure unwary creatures close. Hags sharpen their teeth on millstones and spin cloth from the intestines of their victims, reacting with glee to the horror their actions invoke.
+This embrace of the disturbing and unpleasant extends to all aspects of a hag's life. A hag might fly in a magical giant's skull, landing it on a tree shaped to resemble an enormous headless body. Another might travel with a menagerie of monsters and slaves kept in cages, and disguised by illusions to lure unwary creatures close. Hags sharpen their teeth on millstones and spin cloth from the intestines of their victims, reacting with glee to the horror their actions invoke.
 
-**Dark Sorority.** Hags maintain contact with each other and share knowledge. Through such contacts, it is likely that any given hag knows of every other hag in existence. Hags don’t like each other, but they abide by an ageless code of conduct. Hags announce their presence before crossing into another hag’s territory, bring gifts when entering another hag’s dwelling, and break no oaths given to other hags — as long as the oath isn’t given with the fingers crossed.
+**Dark Sorority.** Hags maintain contact with each other and share knowledge. Through such contacts, it is likely that any given hag knows of every other hag in existence. Hags don't like each other, but they abide by an ageless code of conduct. Hags announce their presence before crossing into another hag's territory, bring gifts when entering another hag's dwelling, and break no oaths given to other hags — as long as the oath isn't given with the fingers crossed.
 
-Some humanoids make the mistake of thinking that the hags’ rules of conduct apply to all creatures. When confronted by such an individual, a hag might find it amusing to string the fool along for a while before teaching it a permanent lesson.
+Some humanoids make the mistake of thinking that the hags' rules of conduct apply to all creatures. When confronted by such an individual, a hag might find it amusing to string the fool along for a while before teaching it a permanent lesson.
 
-**Dark Lairs.** Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and gloomy swamps. In time, the landscape around a hag’s lair reflects the creature’s noxiousness, such that the land itself can attack and kill trespassers. Trees twisted by darkness attack passersby, while vines snake through the undergrowth to snare and drag off creatures one at a time. Foul stinking fogs turn the air to poison, and conceal pools of quicksand and sinkholes that consume unwary wanderers.
+**Dark Lairs.** Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and gloomy swamps. In time, the landscape around a hag's lair reflects the creature's noxiousness, such that the land itself can attack and kill trespassers. Trees twisted by darkness attack passersby, while vines snake through the undergrowth to snare and drag off creatures one at a time. Foul stinking fogs turn the air to poison, and conceal pools of quicksand and sinkholes that consume unwary wanderers.
 
 Howling hags prefer to live near or within the communities of the humanoids they prey upon, usually hiding within towns and cities. These hags hide their true form, which is yellow or tan, wrinkled, and sagging, behind a carefully-crafted illusory disguise, living as beautiful performers, artists, merchants, and even courtesans. Howling hags especially enjoy any role that enables them to make use of their alluring singing or speaking voice. They use the opportunities afforded by these personas to strike at their victims, invisibly carrying them away when they won't be heard or tearing them apart with both claws in one deadly embrace.
 
@@ -347,7 +347,7 @@ CHA
 16(+3)
 Skills Deception +7, Insight +6, Perception +6, Stealth +6
 
-Damage Resistances cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+Damage Resistances cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
 Condition Immunities charmed
 
@@ -357,7 +357,7 @@ Languages Abyssal, Common, Infernal, Primordial
 
 Challenge 5 (1,800 XP)
 
-**Innate Spellcasting.** The hag’s innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
+**Innate Spellcasting.** The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 
 * *At will*: detect magic, magic missile
 * *2/day each*: plane shift (self only), ray of enfeeblement, sleep
@@ -368,11 +368,11 @@ Challenge 5 (1,800 XP)
 
 **Claws (Hag Form Only).** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
 
-**Change Shape.** The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn’t transformed. She reverts to her true form if she dies.
+**Change Shape.** The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.
 
 **Etherealness.** The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a heartstone in her possession.
 
-**Nightmare Haunting (1/Day).** While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A protection from evil and good spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target’s hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag’s soul bag. The reduction to the target’s hit point maximum lasts until removed by the greater restoration spell or similar magic.
+**Nightmare Haunting (1/Day).** While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A protection from evil and good spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's soul bag. The reduction to the target's hit point maximum lasts until removed by the greater restoration spell or similar magic.
 
 
 
@@ -386,7 +386,7 @@ All hags possess magical powers, and some have an affinity for spellcasting. The
 
 Hags name themselves in darkly whimsical ways, claiming monikers such as Black Morwen, Peggy Pigknuckle, Grandmother Titchwillow, Nanna Shug, Rotten Ethel, or Auntie Wormtooth.
 
-**Monstrous Motherhood.** Hags propagate by snatching and devouring human infants. After stealing a baby from its cradle or its mother’s womb, the hag consumes the poor child. A week later, the hag gives birth to a daughter who looks human until her thirteenth birthday, whereupon the child transforms into the spitting image of her hag mother.
+**Monstrous Motherhood.** Hags propagate by snatching and devouring human infants. After stealing a baby from its cradle or its mother's womb, the hag consumes the poor child. A week later, the hag gives birth to a daughter who looks human until her thirteenth birthday, whereupon the child transforms into the spitting image of her hag mother.
 
 Hags sometimes raise the daughters they spawn, creating covens. A hag might also return the child to its grieving parents, only to watch from the shadows as the child grows up to become a horror.
 
@@ -394,30 +394,30 @@ Hags sometimes raise the daughters they spawn, creating covens. A hag might also
 
 Hags enjoy watching mortals bring about their own downfall, and a bargain with a hag is always dangerous. The terms of such bargains typically involve demands to compromise principles or give up something dear — especially if the thing lost diminishes or negates the knowledge gained through the bargain.
 
-**A Foul Nature.** Hags love the macabre and festoon their garb with dead things and accentuate their appearance with bones, bits of flesh, and filth. They nurture blemishes and pick at wounds to produce weeping, suppurating flesh. Attractive creatures evoke disgust in a hag, which might “help” such creatures by disfiguring or transforming them.
+**A Foul Nature.** Hags love the macabre and festoon their garb with dead things and accentuate their appearance with bones, bits of flesh, and filth. They nurture blemishes and pick at wounds to produce weeping, suppurating flesh. Attractive creatures evoke disgust in a hag, which might "help” such creatures by disfiguring or transforming them.
 
-This embrace of the disturbing and unpleasant extends to all aspects of a hag’s life. A hag might fly in a magical giant’s skull, landing it on a tree shaped to resemble an enormous headless body. Another might travel with a menagerie of monsters and slaves kept in cages, and disguised by illusions to lure unwary creatures close. Hags sharpen their teeth on millstones and spin cloth from the intestines of their victims, reacting with glee to the horror their actions invoke.
+This embrace of the disturbing and unpleasant extends to all aspects of a hag's life. A hag might fly in a magical giant's skull, landing it on a tree shaped to resemble an enormous headless body. Another might travel with a menagerie of monsters and slaves kept in cages, and disguised by illusions to lure unwary creatures close. Hags sharpen their teeth on millstones and spin cloth from the intestines of their victims, reacting with glee to the horror their actions invoke.
 
-**Dark Sorority.** Hags maintain contact with each other and share knowledge. Through such contacts, it is likely that any given hag knows of every other hag in existence. Hags don’t like each other, but they abide by an ageless code of conduct. Hags announce their presence before crossing into another hag’s territory, bring gifts when entering another hag’s dwelling, and break no oaths given to other hags — as long as the oath isn’t given with the fingers crossed.
+**Dark Sorority.** Hags maintain contact with each other and share knowledge. Through such contacts, it is likely that any given hag knows of every other hag in existence. Hags don't like each other, but they abide by an ageless code of conduct. Hags announce their presence before crossing into another hag's territory, bring gifts when entering another hag's dwelling, and break no oaths given to other hags — as long as the oath isn't given with the fingers crossed.
 
-Some humanoids make the mistake of thinking that the hags’ rules of conduct apply to all creatures. When confronted by such an individual, a hag might find it amusing to string the fool along for a while before teaching it a permanent lesson.
+Some humanoids make the mistake of thinking that the hags' rules of conduct apply to all creatures. When confronted by such an individual, a hag might find it amusing to string the fool along for a while before teaching it a permanent lesson.
 
-**Dark Lairs.** Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and gloomy swamps. In time, the landscape around a hag’s lair reflects the creature’s noxiousness, such that the land itself can attack and kill trespassers. Trees twisted by darkness attack passersby, while vines snake through the undergrowth to snare and drag off creatures one at a time. Foul stinking fogs turn the air to poison, and conceal pools of quicksand and sinkholes that consume unwary wanderers.
+**Dark Lairs.** Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and gloomy swamps. In time, the landscape around a hag's lair reflects the creature's noxiousness, such that the land itself can attack and kill trespassers. Trees twisted by darkness attack passersby, while vines snake through the undergrowth to snare and drag off creatures one at a time. Foul stinking fogs turn the air to poison, and conceal pools of quicksand and sinkholes that consume unwary wanderers.
 
 Sly and subversive, night hags want to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness. Night hags take perverse joy in corrupting mortals.
 
 Night hags were once creatures of the Feywild, but their foulness saw them exiled to Hades long ago, where they degenerated into fiends. The night hags have long since spread across the Lower Planes.
 
-**Soulmongers.** While a humanoid sleeps, a night hag can straddle the person ethereally and intrude upon its dreams. Any creature with truesight can see the hag’s spectral form straddling its prey. The ethereal hag fills her victim’s head with doubts and fears, in the hope of tricking it into performing evil acts in the waking world. The hag continues her nightly visitations until the victim finally expires in its sleep. If the hag has driven her victim to commit evil deeds, she traps its corrupted soul in her soul bag (see the “Night Hag Items” sidebar) for transport to Hades.
+**Soulmongers.** While a humanoid sleeps, a night hag can straddle the person ethereally and intrude upon its dreams. Any creature with truesight can see the hag's spectral form straddling its prey. The ethereal hag fills her victim's head with doubts and fears, in the hope of tricking it into performing evil acts in the waking world. The hag continues her nightly visitations until the victim finally expires in its sleep. If the hag has driven her victim to commit evil deeds, she traps its corrupted soul in her soul bag (see the "Night Hag Items” sidebar) for transport to Hades.
 
-**Covens.** A night hag that is part of a coven (see the “Hag Covens” sidebar) has a challenge rating of 7 (2,900 XP).
+**Covens.** A night hag that is part of a coven (see the "Hag Covens” sidebar) has a challenge rating of 7 (2,900 XP).
 
 ## Night Hag Items
 A night hag carries two very rare magic items that she must craft for herself. If either object is lost, the night hag will go to great lengths to retrieve it, as creating a new tool takes time and effort.
 
 **Heartstone.** This lustrous black gem allows a night hag to become ethereal while it is in her possession. The touch of a heartstone also cures any disease. Crafting a heartstone takes 30 days.
 
-**Soul Bag.** When an evil humanoid dies as a result of a night hag’s Nightmare Haunting, the hag catches the soul in this black sack made of stitched flesh. A soul bag can hold only one evil soul at a time, and only the night hag who crafted the bag can catch a soul with it. Crafting a soul bag takes 7 days and a humanoid sacrifice (whose flesh is used to make the bag).
+**Soul Bag.** When an evil humanoid dies as a result of a night hag's Nightmare Haunting, the hag catches the soul in this black sack made of stitched flesh. A soul bag can hold only one evil soul at a time, and only the night hag who crafted the bag can catch a soul with it. Crafting a soul bag takes 7 days and a humanoid sacrifice (whose flesh is used to make the bag).
 
 
 ---
@@ -427,7 +427,7 @@ A night hag carries two very rare magic items that she must craft for herself. I
 
 Beauty drives a sea hag to fits of anger. When confronted with something beautiful, the hag might simply attack it or deface it. If something beautiful gives hope, a sea hag wants it to cause despair. If it inspires courage, the sea hag wants it to cause fear.
 
-**Ugly Inside and Out.** Sea hags are by far the ugliest of all hags, with slimy scales covering their pallid skin. A sea hag’s hair resembles seaweed and covers her emaciated body, and her glassy eyes seem as lifeless as a doll’s. Although a sea hag can hide her true form under a veil of illusion, the hag is cursed to forever appear ugly. Her illusory form appears haggard at best.
+**Ugly Inside and Out.** Sea hags are by far the ugliest of all hags, with slimy scales covering their pallid skin. A sea hag's hair resembles seaweed and covers her emaciated body, and her glassy eyes seem as lifeless as a doll's. Although a sea hag can hide her true form under a veil of illusion, the hag is cursed to forever appear ugly. Her illusory form appears haggard at best.
 
 >### Sea Hag
 >*Medium fey, chaotic evil*
@@ -447,9 +447,9 @@ Beauty drives a sea hag to fits of anger. When confronted with something beautif
 >___
 >***Amphibious.*** The hag can breathe air and water.
 >
->***Horrific Appearance.*** Any humanoid that starts its turn within 30 feet of the hag and can see the hag’s true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the hag’s Horrific Appearance for the next 24 hours.
+>***Horrific Appearance.*** Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.
 >
->Unless the target is surprised or the revelation of the hag’s true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.
+>Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.
 >
 >### Actions
 >***Claws.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.

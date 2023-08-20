@@ -5,11 +5,11 @@ The inanimate gargoyles that perch atop great buildings are inspired by these ma
 
 ***Deadly Reputation.*** Gargoyles have a reputation for cruelty. Statues carved into the likenesses of gargoyles appear in the architecture of countless cultures to frighten away trespassers. Although such sculptures are only decorative, real gargoyles can hide among them to ambush unsuspecting victims. A gargoyle might alleviate the tedium of its watch by catching and tormenting birds or rodents, but its long wait only increases its craving for harming sentient creatures.
 
-***Cruel Servants.*** Gargoyles are easily inspired by the cunning of an intelligent master. They enjoy simple tasks such as guarding a master’s home, torturing and killing interlopers, and anything else that involves minimum effort and maximum pain and carnage.
+***Cruel Servants.*** Gargoyles are easily inspired by the cunning of an intelligent master. They enjoy simple tasks such as guarding a master's home, torturing and killing interlopers, and anything else that involves minimum effort and maximum pain and carnage.
 
 Gargoyles sometimes serve demons for their propensity for wanton chaos and destruction. Powerful spellcasters can also easily enlist gargoyle guardians to keep watch over their gates and walls. Gargoyles have the patience and fortitude of stone, and will serve even the cruelest master for years without complaint.
 
-***Elemental Nature.*** A gargoyle doesn’t require air, food, drink, or sleep.
+***Elemental Nature.*** A gargoyle doesn't require air, food, drink, or sleep.
 
 >### Gargoyle
 >*Medium elemental, chaotic evil*
@@ -26,7 +26,7 @@ Gargoyles sometimes serve demons for their propensity for wanton chaos and destr
 >- **Proficiency Bonus** +0
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
->- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks that aren’t adamantine
+>- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks that aren't adamantine
 >- **Damage Immunities** poison
 >- **Condition Immunities** exhaustion,petrified,poisoned
 >- **Skills** 

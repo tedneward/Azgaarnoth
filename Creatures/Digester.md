@@ -24,7 +24,7 @@
 >- **Challenge** 7
 >___
 >#### Actions
->***Claw.***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 3) slashing damage.
+>***Claw.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 3) slashing damage.
 >
->***Acid Spray (Recharge 5-6).***. Ranged Weapon Attack: +5 to hit, reach 15 ft. cone, each creature in the area must make a DC 13 Dexterity saving throw, taking 32 (8d8) acid damage on a failed save, or half as much on a successful one.
+>***Acid Spray (Recharge 5-6).*** Ranged Weapon Attack: +5 to hit, reach 15 ft. cone, each creature in the area must make a DC 13 Dexterity saving throw, taking 32 (8d8) acid damage on a failed save, or half as much on a successful one.
 >

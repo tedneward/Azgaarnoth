@@ -17,7 +17,7 @@ Hobgoblins train to fight with a variety of weapons, and have great skill at cra
 
 ***Military Legions.*** Hobgoblins organize themselves into tribal bands known as Legions. In their martial society, every Hobgoblin has a rank, from the powerful leaders and champions, to the rank-and-file foot soldiers, to the goblins that find themselves driven into the front lines at spear point. A Legion is headed by a [Warlord](#warlord) with several [Captains](#captain) serving under its command, each in turn commanding a number of [Sergeants](#sergeant), and so on. A Hobgoblin [Warlord](#warlord) is a ruthless tyrant more interested in strategy, victory, glory, reputation, and dominion than leading troops into battle.
 
-As loyal and disciplined as Hobgoblins are in their own Legion, rival legions compete constantly for reputation and status. Meetings between legions erupt in violence if troops aren’t Restrained, and only exceptionally powerful leaders can force legions to cooperate on the battlefield.
+As loyal and disciplined as Hobgoblins are in their own Legion, rival legions compete constantly for reputation and status. Meetings between legions erupt in violence if troops aren't Restrained, and only exceptionally powerful leaders can force legions to cooperate on the battlefield.
 
 Legions often supplement their ranks with less reliable and more expendable troops, including [Goblins](goblin.md), [Bugbears](Bugbear.md), [orcs](Orc.md), evil [Firsborn](../Races/index.md#firstborn) and [Humans](../Races/Humans.md), [ogres](Ogre.md), and [Giants](Giant.md). Legions are often a core backbone to the Hordes along with [Orcs](../Races/Orc.md), but often clash with their chaotic counterparts on a regular basis, as well.
 
@@ -27,11 +27,11 @@ Legions often supplement their ranks with less reliable and more expendable troo
 
 ***Conquer and Control.*** Hobgoblins claim lands with abundant resources, and they can be found in forests and mountains, near mines and humanoid settlements, and anywhere else that wood, metal, and potential slaves can be found. They build and conquer strongholds in strategically advantageous locations, which they then use as staging areas to expand their territory.
 
-Hobgoblin warlords never tire of combat, but they don’t take up arms lightly. Before they Attack, Hobgoblins conduct thorough reconnaissance to gauge the strengths and weaknesses of their foes. When assaulting a stronghold, they surround it first to cut off escape routes and supply lines, then slowly starve their enemies out.
+Hobgoblin warlords never tire of combat, but they don't take up arms lightly. Before they Attack, Hobgoblins conduct thorough reconnaissance to gauge the strengths and weaknesses of their foes. When assaulting a stronghold, they surround it first to cut off escape routes and supply lines, then slowly starve their enemies out.
 
 Hobgoblins fortify their own holdings, bolstering existing defenses with innovations of their own. Whether they lair in cavern complexes, dungeons, ruins, or forests, they protect their strongholds with ditches, fences, gates, guard towers, pit traps, and crude catapults or ballistas.
 
-***Legion of Maglubiyet.*** Traditional Hobgoblins worship [Maglubiyet the Mighty One](/Religions/Pantheon/Maglubiyet.md), the greater god of Goblinoids. As terrifying as this figure is, Hobgoblins don’t fear death, believing that when they die in battle, their spirits join the honored ranks of Maglubiyet’s army on the plane of Acheron.
+***Legion of Maglubiyet.*** Traditional Hobgoblins worship [Maglubiyet the Mighty One](/Religions/Pantheon/Maglubiyet.md), the greater god of Goblinoids. As terrifying as this figure is, Hobgoblins don't fear death, believing that when they die in battle, their spirits join the honored ranks of Maglubiyet's army on the plane of Acheron.
 
 More recently, hobgoblins have come to revere [Lythtzu](../Religions/Pantheon/Lythtzu.md), the god of battle and combat, as an alternative to Maglubiyet. The followers of Lythtzu believe in honor and adherence to the principles of honor, even beyond the ethos of good or evil. As such, followers of Lythtzu still don't fear death, believing that when they die in battle, their spirits join Lythtzu's army in the Blood Wars of the afterlife, fighting to maintain the cosmic balance, even against Maglubiyet's followers. (As a result, Maglubiyet's followers and Lythtzu's followers tend to fight on sight of each other.)
 
@@ -58,7 +58,7 @@ More recently, hobgoblins have come to revere [Lythtzu](../Religions/Pantheon/Ly
 
 **Challenge** 1/2 (100 XP)
 
-**Martial Advantage**. Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn’t incapacitated.
+**Martial Advantage**. Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 
 #### Actions
 **Longsword**. *Melee Weapon Attack*: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
@@ -89,7 +89,7 @@ Any fully-grown member (male or female) of a hobgoblin tribe is trained in the a
 
 **Challenge**
 
-**Martial Advantage**. Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn’t incapacitated.
+**Martial Advantage**. Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 
 #### Actions
 **Longsword**. *Melee Weapon Attack*: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
@@ -152,7 +152,7 @@ After a few years in combat as part of the tribe or Legion, a hobgoblin warrior 
 
 **Challenge** 
 
-**Martial Advantage**. Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn’t incapacitated.
+**Martial Advantage**. Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 
 **Leadership** *(Recharges after a Short or Long Rest)*. For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is incapacitated.
 
@@ -185,7 +185,7 @@ After a few years in combat as part of the tribe or Legion, a hobgoblin warrior 
 
 **Challenge** 
 
-**Martial Advantage**. Once per turn, the hobgoblin can deal an extra 14 (4d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn’t incapacitated.
+**Martial Advantage**. Once per turn, the hobgoblin can deal an extra 14 (4d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 
 #### Actions
 **Multiattack.** The hobgoblin makes three melee attacks. Alternatively, it can make two ranged attacks with its javelins.
@@ -228,7 +228,7 @@ Hobgoblin Captains are the sub-commanders of the Warlords, and are often given h
 
 **Challenge** 6 (2,300 XP)
 
-**Martial Advantage.** Once per turn, the hobgoblin can deal an extra 14 (4d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn’t incapacitated.
+**Martial Advantage.** Once per turn, the hobgoblin can deal an extra 14 (4d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 
 #### Actions
 **Multiattack.** The hobgoblin makes three melee attacks. Alternatively, it can make two ranged attacks with its javelins.
@@ -276,7 +276,7 @@ Hobgoblin Warlords are the leaders of Legions, or the direct subcommanders of th
 
 **Challenge** 3 (700 XP)
 
-**Martial Advantage**. Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn’t incapacitated.
+**Martial Advantage**. Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 
 #### Actions
 **Multiattack**. The hobgoblin bladebearer makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
@@ -317,7 +317,7 @@ Among the [Tragedian United Hordes](../Nations/Tragekia.md), Bladebearers are kn
 
 **Challenge** 4 (1,100 XP)
 
-**Arcane Advantage.** Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a damaging spell attack if that target is within 5 feet of an ally of the hobgoblin and that ally isn’t incapacitated.
+**Arcane Advantage.** Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a damaging spell attack if that target is within 5 feet of an ally of the hobgoblin and that ally isn't incapacitated.
 
 **Army Arcana.** When the hobgoblin casts a spell that causes damage or that forces other creatures to make a saving throw, it can choose itself and any number of allies to be immune to the damage caused by the spell and to succeed on the required saving throw.
 
@@ -325,7 +325,7 @@ Among the [Tragedian United Hordes](../Nations/Tragekia.md), Bladebearers are kn
 
 * *Cantrips (at will):* acid splash, fire bolt, ray of frost, shocking grasp
 * *1st level (4 slots):* fog cloud, magic missile, thunderwave
-* *2nd level (3 slots):* gust of wind, Melf’s acid arrow, scorching ray
+* *2nd level (3 slots):* gust of wind, Melf's acid arrow, scorching ray
 * *3rd level (3 slots):* fireball, fly, lightning bolt
 * *4th level (1 slot):* ice storm
 
@@ -345,7 +345,7 @@ Among the [Tragedian United Hordes](../Nations/Tragekia.md), Bladebearers are kn
 **Shocking Grasp.** Melee Spell Attack: +5 to hit, reach 5 ft., one creature. Hit: (2d8) lightning damage. The target can't take reactions until the start of its next turn. The hobgoblin has advantage on this attack if the target is wearing armor made of metal.
 
 #### Description
-In Hobgoblin society, the Academy of Devastation identifies Hobgoblins with a Talent for magic and puts them through a grueling Training regimen that endows them with the ability to call down fireballs and other destructive magic on the host’s behalf. A Hobgoblin devastator on the battlefield is simultaneously a boon to all its allies and a threat to every foe around it.
+In Hobgoblin society, the Academy of Devastation identifies Hobgoblins with a Talent for magic and puts them through a grueling Training regimen that endows them with the ability to call down fireballs and other destructive magic on the host's behalf. A Hobgoblin devastator on the battlefield is simultaneously a boon to all its allies and a threat to every foe around it.
 
 ***Into the Fray.*** While other cultures treat their wizards as cloistered academics, Hobgoblins expect their spellcasters to fight. Devastators learn The Basics of weapon use, and they measure their deeds by the enemies defeated though their magic.
 
@@ -355,7 +355,7 @@ Other cultures might view the use of such Abilities as a short cut to glory, but
 
 ***Only Results Matter.*** Devastators study a simplified form of Evocation magic. Their Training lacks the theory and context that other folk study, making them Skilled in battle but relatively illiterate on the finer points of how and why their magic works.
 
-The Academy of Devastation believes that an academic approach to magic is a sign of weakness and inefficiency. A Warrior doesn’t Need to Know about metallurgy to wield a blade, so why should a Wizard care about where magic comes from? Devastators love to prove their superiority in battle by seeking out enemy spellcasters and destroying them.
+The Academy of Devastation believes that an academic approach to magic is a sign of weakness and inefficiency. A Warrior doesn't Need to Know about metallurgy to wield a blade, so why should a Wizard care about where magic comes from? Devastators love to prove their superiority in battle by seeking out enemy spellcasters and destroying them.
 
 If they survive long enough, Devastators usually end up looking to join one of the Evocation-friendly [Mage Schools](../Organizations/MageSchools/index.md) to further their education, and return to their Legion even more frightening and powerful.
 
@@ -401,11 +401,11 @@ If they survive long enough, Devastators usually end up looking to join one of t
 #### Description
 The Iron Shadows are Hobgoblin monks that serve as secret police, scouts, and assassins. Among other Hobgoblins, they spy to ferret out treachery, rebellion, and betrayal.
 
-***Trained in Secret.*** Iron Shadows are recruited from across the Hobgoblin ranks. Each member keeps her eyes open for potential recruits, those whose agility and stamina are matched only by an ironclad commitment to Maglubiyet’s will.
+***Trained in Secret.*** Iron Shadows are recruited from across the Hobgoblin ranks. Each member keeps her eyes open for potential recruits, those whose agility and stamina are matched only by an ironclad commitment to Maglubiyet's will.
 
-A candidate for admission undergoes a series of tests designed to reveal any potential for treachery. Those who fail are slain, while those who pass receive Secret Training in the magical and Martial Arts. This indoctrination is a slow and arduous process; many aspirants don’t finish it, and years might go by during which the Iron Shadows welcome no new Members into their ranks. While a recruit is in Training, it serves the Iron Shadows by looking for and reporting suspicious behavior.
+A candidate for admission undergoes a series of tests designed to reveal any potential for treachery. Those who fail are slain, while those who pass receive Secret Training in the magical and Martial Arts. This indoctrination is a slow and arduous process; many aspirants don't finish it, and years might go by during which the Iron Shadows welcome no new Members into their ranks. While a recruit is in Training, it serves the Iron Shadows by looking for and reporting suspicious behavior.
 
-***Masters of Shadow and Fist.*** When a recruit’s training is complete, she is ready to wield a deadly combination of unarmed fighting techniques and shadow magic to deceive and defeat her foes. She continues to spy on other Hobgoblins, but is now also empowered to conduct assassinations and spy missions, both against enemies and among Goblinoids. These missions are ordained by the Children of Maglubiyet, who keep a careful eye on the goblinoid community to ensure that it functions according to Maglubiyet’s will.
+***Masters of Shadow and Fist.*** When a recruit's training is complete, she is ready to wield a deadly combination of unarmed fighting techniques and shadow magic to deceive and defeat her foes. She continues to spy on other Hobgoblins, but is now also empowered to conduct assassinations and spy missions, both against enemies and among Goblinoids. These missions are ordained by the Children of Maglubiyet, who keep a careful eye on the goblinoid community to ensure that it functions according to Maglubiyet's will.
 
 ***Masked Devils.*** Iron Shadows on a secret mission wear masks crafted to resemble devils, both to conceal their identities and to strike fear into their foes.
 

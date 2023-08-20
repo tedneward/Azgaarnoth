@@ -31,7 +31,7 @@ The normal-sized sea horse is generally too small to be of any interest (or both
 >- **Languages** —
 >- **Challenge** 0
 >___
->***Water Breathing.***. The sea horse can breathe only underwater.
+>***Water Breathing.*** The sea horse can breathe only underwater.
 >
 >#### Actions
 

@@ -37,7 +37,7 @@ Typically, the wasp is of no threat, but its larger kin, or a lot of them, can b
 ---
 
 ## Swarm of Wasps
-The swarms presented here aren’t ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. Even druids can’t charm these swarms, and their aggressiveness is borderline unnatural.
+The swarms presented here aren't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. Even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
 
 >### Swarm of Wasps
 >*Medium swarm, unaligned*
@@ -62,8 +62,8 @@ The swarms presented here aren’t ordinary or benign assemblies of little creat
 >- **Languages** —
 >- **Challenge** 1/2
 >___
->***Swarm.***. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can’t regain hit points or gain temporary hit points.
+>***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.
 >
 >#### Actions
->***Bites.***. Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm’s space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer. 
+>***Bites.*** Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer. 
 >

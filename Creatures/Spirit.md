@@ -33,18 +33,18 @@ When this spirit is summoned, it takes the form of either a Beholderkin, Sladd, 
 >- **Languages** Deep Speech,understands the languages caster speaks
 >- **Challenge** —
 >___
->***Regeneration (Slaad Only).***. The aberration regains 5 hit points at the start of its turn if it has at least 1 hit point.
+>***Regeneration (Slaad Only).*** The aberration regains 5 hit points at the start of its turn if it has at least 1 hit point.
 >
->***Whispering Aura (Star Spawn Only).***. At the start of each of the aberration’s turns, each creature within 5 feet of the aberration must succeed on a Wisdom saving throw against caster's spell save DC or take 2d6 psychic damage, provided that the aberration isn’t incapacitated.
+>***Whispering Aura (Star Spawn Only).*** At the start of each of the aberration's turns, each creature within 5 feet of the aberration must succeed on a Wisdom saving throw against caster's spell save DC or take 2d6 psychic damage, provided that the aberration isn't incapacitated.
 >
 >#### Actions
->***Multiattack.***. The aberration makes a number of attacks equal to half this spell’s level (rounded down).
+>***Multiattack.*** The aberration makes a number of attacks equal to half this spell's level (rounded down).
 >
->***Claws (Slaad Only).***. Melee Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., one target. Hit: 1d10 + 3 + the spell’s level slashing damage. If the target is a creature, it can’t regain hit points until the start of the aberration’s next turn.
+>***Claws (Slaad Only).*** Melee Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., one target. Hit: 1d10 + 3 + the spell's level slashing damage. If the target is a creature, it can't regain hit points until the start of the aberration's next turn.
 >
->***Eye Ray (Beholderkin Only).***. Ranged Spell Attack: caster's spell attack modifier to hit, range 150 ft., one creature. Hit: 1d8 + 3 + the spell’s level psychic damage.
+>***Eye Ray (Beholderkin Only).*** Ranged Spell Attack: caster's spell attack modifier to hit, range 150 ft., one creature. Hit: 1d8 + 3 + the spell's level psychic damage.
 >
->***Psychic Slam (Star Spawn Only).***. Melee Spell Attack: caster's spell attack modifier to hit, reach 5 ft., one creature. Hit: 1d8 + 3 + the spell’s level psychic damage
+>***Psychic Slam (Star Spawn Only).*** Melee Spell Attack: caster's spell attack modifier to hit, reach 5 ft., one creature. Hit: 1d8 + 3 + the spell's level psychic damage
 >
 
 ---
@@ -76,13 +76,13 @@ When this spirit is summoned, it takes the form of either an Avenger or Defender
 >- **Challenge** —
 >___
 >#### Actions
->***Multiattack.***. The celestial makes a number of attacks equal to half this spell’s level (rounded down).
+>***Multiattack.*** The celestial makes a number of attacks equal to half this spell's level (rounded down).
 >
->***Radiant Bow (Avenger Only).***. Ranged Weapon Attack: caster's spell attack modifier to hit, reach 150/600 ft., one target. Hit: 2d6 + 2 + the spell’s level radiant damage.
+>***Radiant Bow (Avenger Only).*** Ranged Weapon Attack: caster's spell attack modifier to hit, reach 150/600 ft., one target. Hit: 2d6 + 2 + the spell's level radiant damage.
 >
->***Radiant Mace (Defender Only).***. Melee Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., one target. Hit: 1d10 + 3 + the spell’s level radiant damage, and the celestial can choose itself or another creature it can see within 10 feet of the target. The chosen creature gains 1d10 temporary hit points.
+>***Radiant Mace (Defender Only).*** Melee Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., one target. Hit: 1d10 + 3 + the spell's level radiant damage, and the celestial can choose itself or another creature it can see within 10 feet of the target. The chosen creature gains 1d10 temporary hit points.
 >
->***Healing Touch (1/Day).***. The celestial touches another creature. The target magically regains hit points equal to 2d8 + the spell’s level.
+>***Healing Touch (1/Day).*** The celestial touches another creature. The target magically regains hit points equal to 2d8 + the spell's level.
 >
 
 ---
@@ -113,18 +113,18 @@ When this spirit is summoned, it takes the form of a clay, flesh, metal or stone
 >- **Languages** understands the languages you speak
 >- **Challenge** —
 >___
->***Heated Body (Metal Only).***. A creature that touches the construct or hits it with a melee attack while within 5 feet of it takes 1d10 fire damage.
+>***Heated Body (Metal Only).*** A creature that touches the construct or hits it with a melee attack while within 5 feet of it takes 1d10 fire damage.
 >
->***Stony Lethargy (Stone Only).***. When a creature the construct can see starts its turn within 10 feet of the construct, the construct can force it to make a Wisdom saving throw against caster's spell save DC. On a failed save, the target can’t use reactions and its speed is halved until the start of its next turn.
+>***Stony Lethargy (Stone Only).*** When a creature the construct can see starts its turn within 10 feet of the construct, the construct can force it to make a Wisdom saving throw against caster's spell save DC. On a failed save, the target can't use reactions and its speed is halved until the start of its next turn.
 >
 >#### Actions
->***Multiattack.***. The construct makes a number of attacks equal to half this spell’s level (rounded down).
+>***Multiattack.*** The construct makes a number of attacks equal to half this spell's level (rounded down).
 >
->***Slam.***. Melee Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 4 + the spell’s level bludgeoning damage.
+>***Slam.*** Melee Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 4 + the spell's level bludgeoning damage.
 >
 >#### Reactions
 >
->***Berserk Lashing (Clay Only).***. When the construct takes damage, it makes a slam attack against a random creature within 5 feet of it. If no creature is within reach, the construct moves up to half its speed toward an enemy it can see, without provoking opportunity attacks.
+>***Berserk Lashing (Clay Only).*** When the construct takes damage, it makes a slam attack against a random creature within 5 feet of it. If no creature is within reach, the construct moves up to half its speed toward an enemy it can see, without provoking opportunity attacks.
 >
 
 ---
@@ -157,14 +157,14 @@ When this spirit is summoned, it takes the form of an metallic or chromatic drag
 >- **Languages** Draconic,understands the languages caster speaks
 >- **Challenge** —
 >___
->***Shared Resistances.***. When the caster summons the dragon, choose one of its damage resistances. The caster has resistance to the chosen damage type until the spell ends
+>***Shared Resistances.*** When the caster summons the dragon, choose one of its damage resistances. The caster has resistance to the chosen damage type until the spell ends
 >
 >#### Actions
->***Multiattack.***. The dragon makes a number of Rend attacks equal to half the spell’s level (rounded down), and it uses Breath Weapon.
+>***Multiattack.*** The dragon makes a number of Rend attacks equal to half the spell's level (rounded down), and it uses Breath Weapon.
 >
->***Rend.***. Melee Weapon Attack: caster's spell attack modifier to hit, reach 10 ft., one target. Hit: 1d6 plus 4 + the spell's level piercing damage.
+>***Rend.*** Melee Weapon Attack: caster's spell attack modifier to hit, reach 10 ft., one target. Hit: 1d6 plus 4 + the spell's level piercing damage.
 >
->***Breath Weapon.***. The dragon exhales destructive energy in a 30-foot cone. Each creature in that area must make a Dexterity saving throw against caster's spell save DC. A creature takes 2d6 damage of a type this dragon has resistance to (caster's choice) on a failed save, or half as much damage on a successful one.
+>***Breath Weapon.*** The dragon exhales destructive energy in a 30-foot cone. Each creature in that area must make a Dexterity saving throw against caster's spell save DC. A creature takes 2d6 damage of a type this dragon has resistance to (caster's choice) on a failed save, or half as much damage on a successful one.
 >
 
 ---
@@ -198,9 +198,9 @@ When this spirit is summoned, it takes the form of an elemental of Air, Earth, F
 >***Amorphous Form (Air, Fire, and Water Only).*** The elemental can move through a space as narrow as 1 inch wide without squeezing.
 >
 >#### Actions
->***Multiattack.***. The elemental makes a number of attacks equal to half this spell’s level (rounded down).
+>***Multiattack.*** The elemental makes a number of attacks equal to half this spell's level (rounded down).
 >
->***Slam.***. Melee Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., one target. Hit: 1d10 + 4 + the spell’s level bludgeoning damage (Air, Earth, and Water only) or fire damage (Fire only).
+>***Slam.*** Melee Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., one target. Hit: 1d10 + 4 + the spell's level bludgeoning damage (Air, Earth, and Water only) or fire damage (Fire only).
 >
 
 ---
@@ -231,20 +231,20 @@ When this spirit is summoned, it takes the form of either a Demon, a Devil, or a
 >- **Languages** Abyssal,Infernal,telepathy 60 ft.
 >- **Challenge** —
 >___
->***Death Throes (Demon Only).***. When the fiend drops to 0 hit points or the spell ends, the fiend explodes, and each creature within 10 feet of it must make a Dexterity saving throw against caster's spell save DC. A creature takes 2d10 + the spell’s level fire damage on a failed save, or half as much damage on a successful one.
+>***Death Throes (Demon Only).*** When the fiend drops to 0 hit points or the spell ends, the fiend explodes, and each creature within 10 feet of it must make a Dexterity saving throw against caster's spell save DC. A creature takes 2d10 + the spell's level fire damage on a failed save, or half as much damage on a successful one.
 >
->***Devil’s Sight (Devil Only).***. Magical darkness doesn’t impede the fiend’s darkvision.
+>***Devil's Sight (Devil Only).*** Magical darkness doesn't impede the fiend's darkvision.
 >
->***Magic Resistance.***. The fiend has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The fiend has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
->***Multiattack.***. The fiend makes a number of attacks equal to half this spell’s level (rounded down).
+>***Multiattack.*** The fiend makes a number of attacks equal to half this spell's level (rounded down).
 >
->***Bite (Demon Only).***. Melee Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., one target. Hit: 1d12 + 3 + the spell’s level necrotic damage.
+>***Bite (Demon Only).*** Melee Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., one target. Hit: 1d12 + 3 + the spell's level necrotic damage.
 >
->***Claws (Yugoloth Only).***. Melee Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 3 + the spell’s level slashing damage. Immediately after the attack hits or misses, the fiend can magically teleport up to 30 feet to an unoccupied space it can see.
+>***Claws (Yugoloth Only).*** Melee Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 3 + the spell's level slashing damage. Immediately after the attack hits or misses, the fiend can magically teleport up to 30 feet to an unoccupied space it can see.
 >
->***Hurl Flame (Devil Only).***. Ranged Spell Attack: caster's spell attack modifier to hit, range 150 ft., one target. Hit: 2d6 + 3 + the spell’s level fire damage. If the target is a flammable object that isn’t being worn or carried, it also catches fire.
+>***Hurl Flame (Devil Only).*** Ranged Spell Attack: caster's spell attack modifier to hit, range 150 ft., one target. Hit: 2d6 + 3 + the spell's level fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
 >
 
 ---
@@ -274,16 +274,16 @@ When this spirit is summoned, it takes the form of either a Demon, a Devil, or a
 >- **Languages** understands the languages caster speaks
 >- **Challenge** —
 >___
->***Incorporeal Movement.***. The reaper can move through other creatures and objects as if they were difficult terrain. If it ends its turn inside an object, it is shunted to the nearest unoccupied space and takes 1d10 force damage for every 5 feet traveled.
+>***Incorporeal Movement.*** The reaper can move through other creatures and objects as if they were difficult terrain. If it ends its turn inside an object, it is shunted to the nearest unoccupied space and takes 1d10 force damage for every 5 feet traveled.
 >
->***Haunting Tracker.***. The caster and the reaper can sense the direction and distance to the haunted creature if it’s on the same plane of existence as caster.
+>***Haunting Tracker.*** The caster and the reaper can sense the direction and distance to the haunted creature if it's on the same plane of existence as caster.
 >
 >#### Actions
->***Multiattack.***. The reaper makes a number of attacks equal to half this spell’s level (rounded down).
+>***Multiattack.*** The reaper makes a number of attacks equal to half this spell's level (rounded down).
 >
->***Reaping Scythe.***. Melee Weapon Attack: caster's spell attack modifier to hit (with advantage), reach 5 ft., one target. Hit: 1d10 + 3 + the spell’s level necrotic damage.
+>***Reaping Scythe.*** Melee Weapon Attack: caster's spell attack modifier to hit (with advantage), reach 5 ft., one target. Hit: 1d10 + 3 + the spell's level necrotic damage.
 >
->***Paralyzing Fear (1/Day).***. The reaper attempts to instill fear into the haunted creature it can see within 60 feet of itself. The creature must succeed on a Wisdom saving throw against caster's spell save DC or be frightened of the reaper for 1 minute. While frightened this way, the creature’s speed is 0, and it can’t benefit from any bonus to its speed. The frightened creature can repeat the saving throw at the end of each of its turns, or immediately after it takes damage, ending the effect on itself on a success.
+>***Paralyzing Fear (1/Day).*** The reaper attempts to instill fear into the haunted creature it can see within 60 feet of itself. The creature must succeed on a Wisdom saving throw against caster's spell save DC or be frightened of the reaper for 1 minute. While frightened this way, the creature's speed is 0, and it can't benefit from any bonus to its speed. The frightened creature can repeat the saving throw at the end of each of its turns, or immediately after it takes damage, ending the effect on itself on a success.
 >
 
 ---
@@ -313,20 +313,20 @@ When this spirit is summoned, it takes the form of either a Demon, a Devil, or a
 >- **Languages** understands the languages caster speaks
 >- **Challenge** —
 >___
->***Terror Frenzy (Fury Only).***. The spirit has advantage on attack rolls against frightened creatures.
+>***Terror Frenzy (Fury Only).*** The spirit has advantage on attack rolls against frightened creatures.
 >
->***Weight of Sorrow (Despair Only).***. Any creature, other than caster, that starts its turn within 5 feet of the spirit has its speed reduced by 20 feet until the start of that creature’s next turn.
+>***Weight of Sorrow (Despair Only).*** Any creature, other than caster, that starts its turn within 5 feet of the spirit has its speed reduced by 20 feet until the start of that creature's next turn.
 >
 >#### Actions
->***Multiattack.***. The spirit makes a number of attacks equal to half this spell’s level (rounded down).
+>***Multiattack.*** The spirit makes a number of attacks equal to half this spell's level (rounded down).
 >
->***Chilling Hand.***. Melee Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., one target. Hit: 1d12 + 3 + the spell’s level cold damage.
+>***Chilling Hand.*** Melee Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., one target. Hit: 1d12 + 3 + the spell's level cold damage.
 >
->***Dreadful Scream (1/Day).***. The spirit screams. Each creature within 30 feet of it must succeed on a Wisdom saving throw against caster's spell save DC or be frightened of the spirit for 1 minute. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>***Dreadful Scream (1/Day).*** The spirit screams. Each creature within 30 feet of it must succeed on a Wisdom saving throw against caster's spell save DC or be frightened of the spirit for 1 minute. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
 >#### Bonus Action
 >
->***Shadow Stealth (Fear Only).***. While in dim light or darkness, the spirit takes the Hide action.
+>***Shadow Stealth (Fear Only).*** While in dim light or darkness, the spirit takes the Hide action.
 >
 
 ---
@@ -358,16 +358,16 @@ The warrior spirit, when summoned, takes on the form of a barbarian, fighter, or
 >- **Challenge** —
 >___
 >#### Actions
->***Multiattack.***. The warrior makes a number of attacks equal to half this spell’s level (rounded down).
+>***Multiattack.*** The warrior makes a number of attacks equal to half this spell's level (rounded down).
 >
->***Reckless Strike (Barbarian Only).***. Melee Weapon Attack: caster's spell attack modifier to hit (with advantage), reach 5 ft., one target. Hit: 1d12 + 3 + the spell’s level slashing damage, and attacks made against the warrior until the start of its next turn are made with advantage.
+>***Reckless Strike (Barbarian Only).*** Melee Weapon Attack: caster's spell attack modifier to hit (with advantage), reach 5 ft., one target. Hit: 1d12 + 3 + the spell's level slashing damage, and attacks made against the warrior until the start of its next turn are made with advantage.
 >
->***Rallying Strike (Fighter Only).***. Melee or Ranged Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., or range 20/60 ft., one target. Hit: 1d6 + 3 + the spell’s level piercing damage, and the warrior can choose another creature it can see within 20 feet of itself. The chosen creature gains 1d6 temporary hit points.
+>***Rallying Strike (Fighter Only).*** Melee or Ranged Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., or range 20/60 ft., one target. Hit: 1d6 + 3 + the spell's level piercing damage, and the warrior can choose another creature it can see within 20 feet of itself. The chosen creature gains 1d6 temporary hit points.
 >
->***Unarmed Strike (Monk Only).***. Melee Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., one target. Hit: 1d4 + 3 + the spell’s level bludgeoning damage, and the target must succeed on a Strength saving throw against caster's spell save DC or be knocked prone.
+>***Unarmed Strike (Monk Only).*** Melee Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., one target. Hit: 1d4 + 3 + the spell's level bludgeoning damage, and the target must succeed on a Strength saving throw against caster's spell save DC or be knocked prone.
 >
 >#### Bonus Actions
->***Flurry of Blows (Monk Only).***. The monk makes one Unarmed Strike attack.
+>***Flurry of Blows (Monk Only).*** The monk makes one Unarmed Strike attack.
 >
 
 ---
@@ -398,7 +398,7 @@ The warrior spirit, when summoned, takes on the form of a barbarian, fighter, or
 >- **Challenge** --
 >___
 >#### Actions
->***Flame Seed.***. Ranged Weapon Attack: caster's spell attack modifier to hit, range 60 ft., one target caster can see. Hit: 1d6 + CPB fire damage.
+>***Flame Seed.*** Ranged Weapon Attack: caster's spell attack modifier to hit, range 60 ft., one target caster can see. Hit: 1d6 + CPB fire damage.
 >
->***Fiery Teleportation.***. The spirit and each willing creature of caster's choice within 5 feet of it teleport up to 15 feet to unoccupied spaces you can see. Then each creature within 5 feet of the space that the spirit left must succeed on a Dexterity saving throw against caster's spell save DC or take 1d6 + CPB fire damage.
+>***Fiery Teleportation.*** The spirit and each willing creature of caster's choice within 5 feet of it teleport up to 15 feet to unoccupied spaces you can see. Then each creature within 5 feet of the space that the spirit left must succeed on a Dexterity saving throw against caster's spell save DC or take 1d6 + CPB fire damage.
 >

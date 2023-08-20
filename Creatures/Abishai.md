@@ -1,11 +1,11 @@
 # Abishai
-Each abishai was once a mortal who somehow won Tiamat’s favor before death and, as a reward, found its soul transformed into a hideous devil to serve at her pleasure in the Nine Hells.
+Each abishai was once a mortal who somehow won Tiamat's favor before death and, as a reward, found its soul transformed into a hideous devil to serve at her pleasure in the Nine Hells.
 
 > Jump to [Black](#black-abishai) | [Blue](#blue-abishai) | [Green](#green-abishai) | [Red](#red-abishai) | [White](#white-abishai)
 
 **Emissaries of Doom.** Tiamat deploys abishais as emissaries, sending them to represent her interests in the Hells and across the multiverse. Some have simple tasks, such as delivering a message to cultists or taking charge of worshipers to carry out a sensitive mission. Others have greater responsibilities, such as leading large groups, assassinating targets, and serving in armies. In all cases, abishais are fanatically loyalty to Tiamat, ready to lay down their lives if needed.
 
-**Outsiders in Hell.** Abishais stand outside the normal hierarchy of the Nine Hells, having their own chain of command and ultimately answering to Tiamat (and Asmodeus, when the dark lord chooses to use them). Other archdevils can command abishais to work for them, but most archdevils do so rarely, since it is never clear whether an abishai follows Tiamat’s orders or Asmodeus’s. There is inherent risk in countermanding an order given by Tiamat, but interfering with Asmodeus’s plans invites certain destruction.
+**Outsiders in Hell.** Abishais stand outside the normal hierarchy of the Nine Hells, having their own chain of command and ultimately answering to Tiamat (and Asmodeus, when the dark lord chooses to use them). Other archdevils can command abishais to work for them, but most archdevils do so rarely, since it is never clear whether an abishai follows Tiamat's orders or Asmodeus's. There is inherent risk in countermanding an order given by Tiamat, but interfering with Asmodeus's plans invites certain destruction.
 
 ---
 
@@ -33,11 +33,11 @@ Each abishai was once a mortal who somehow won Tiamat’s favor before death and
 >- **Languages** Draconic, Infernal, telepathy 120 ft.
 >- **Challenge** 7 (2,900 XP)
 >___
->***Devil's Sight.*** Magical darkness doesn’t impede the abishai’s darkvision.
+>***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.
 >
 >***Magic Resistance.*** The abishai has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.*** The abishai’s weapon attacks are magical.
+>***Magic Weapons.*** The abishai's weapon attacks are magical.
 >
 >***Shadow Stealth.*** While in dim light or darkness, the abishai can take the Hide action as a bonus action.
 >
@@ -53,7 +53,7 @@ Each abishai was once a mortal who somehow won Tiamat’s favor before death and
 ---
 
 ## Blue Abishai
-![Blue Abishai](Abishai-Blue.png) Seekers of forgotten lore and lost relics, blue abishais are the most cunning and learned of their kind. Their research into occult subjects gleaned from tomes and grimoires plundered from across the multiverse enables them to become accomplished spellcasters. They use their magic to devastate their mistress’s enemies.
+![Blue Abishai](Abishai-Blue.png) Seekers of forgotten lore and lost relics, blue abishais are the most cunning and learned of their kind. Their research into occult subjects gleaned from tomes and grimoires plundered from across the multiverse enables them to become accomplished spellcasters. They use their magic to devastate their mistress's enemies.
 
 >## Blue Abishai
 >*Medium fiend (devil), lawful evil*
@@ -76,11 +76,11 @@ Each abishai was once a mortal who somehow won Tiamat’s favor before death and
 >- **Languages** Draconic, Infernal, telepathy 120 ft.
 >- **Challenge** 17 (18,000 XP)
 >___
->***Devil's Sight.*** Magical darkness doesn’t impede the abishai’s darkvision.
+>***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.
 >
 >***Magic Resistance.*** The abishai has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.*** The abishai’s weapon attacks are magical.
+>***Magic Weapons.*** The abishai's weapon attacks are magical.
 >
 >***Spellcasting.*** The abishai is a 13th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The abishai has the following wizard spells prepared:
 >
@@ -103,7 +103,7 @@ Each abishai was once a mortal who somehow won Tiamat’s favor before death and
 ---
 
 ## Green Abishai
-![Green Abishai](Abishai-Green.png) | The envoys of Tiamat’s armies, green abishais represent the god’s interests in the Nine Hells and beyond. Their keen senses make them adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure that they can manipulate even the shrewdest opponents.
+![Green Abishai](Abishai-Green.png) | The envoys of Tiamat's armies, green abishais represent the god's interests in the Nine Hells and beyond. Their keen senses make them adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure that they can manipulate even the shrewdest opponents.
 
 >## Green Abishai
 >*Medium fiend (devil), lawful evil*
@@ -126,9 +126,9 @@ Each abishai was once a mortal who somehow won Tiamat’s favor before death and
 >- **Languages** Draconic, Infernal, telepathy 120 ft.
 >- **Challenge** 15 (13,000 XP)
 >___
->***Devil's Sight.*** Magical darkness doesn’t impede the abishai’s darkvision.
+>***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.
 >
->***Innate Spellcasting.*** The abishai’s innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The abishai's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
 >
 >* *At will*: [alter self](../Magic/Spells/alter-self.md), [major image](../Magic/Spells/major-image.md)
 >* *3/day each*: [charm person](../Magic/Spells/charm-person.md), [detect thoughts](../Magic/Spells/detect-thoughts.md), [fear](../Magic/Spells/fear.md)
@@ -136,7 +136,7 @@ Each abishai was once a mortal who somehow won Tiamat’s favor before death and
 >
 >***Magic Resistance.*** The abishai has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.*** The abishai’s weapon attacks are magical.
+>***Magic Weapons.*** The abishai's weapon attacks are magical.
 >
 >### Actions
 >***Multiattack.*** The abishai makes two attacks, one with its claws and one with its longsword, or it casts one spell from its Innate Spellcasting trait and makes one claw attack.
@@ -148,7 +148,7 @@ Each abishai was once a mortal who somehow won Tiamat’s favor before death and
 ---
 
 ## Red Abishai
-![Red Abishai](Abishai-Red.png) Red abishais have no equals among the abishais when it comes to leadership ability and raw power. They can invoke Tiamat’s authority to bend even dragons to their will. Red abishais lead other devils into battle or take charge of troublesome cults to ensure that they continue to carry out Tiamat’s commands. A red abishai cuts a fearsome figure, and that sight can be inspiring to the abishai’s allies, filling them with a fanatical willingness to fight.
+![Red Abishai](Abishai-Red.png) Red abishais have no equals among the abishais when it comes to leadership ability and raw power. They can invoke Tiamat's authority to bend even dragons to their will. Red abishais lead other devils into battle or take charge of troublesome cults to ensure that they continue to carry out Tiamat's commands. A red abishai cuts a fearsome figure, and that sight can be inspiring to the abishai's allies, filling them with a fanatical willingness to fight.
 
 >## Red Abishai
 >*Medium fiend (devil), lawful evil*
@@ -171,11 +171,11 @@ Each abishai was once a mortal who somehow won Tiamat’s favor before death and
 >- **Languages** Draconic, Infernal, telepathy 120 ft.
 >- **Challenge** 19 (22,000 XP)
 >___
->***Devil's Sight.*** Magical darkness doesn’t impede the abishai’s darkvision.
+>***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.
 >
 >***Magic Resistance.*** The abishai has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.*** The abishai’s weapon attacks are magical.
+>***Magic Weapons.*** The abishai's weapon attacks are magical.
 >
 >### Actions
 >***Multiattack.*** The abishai can use its Frightful Presence. It also makes three attacks: one with its morningstar, one with its claw, and one with its bite.
@@ -186,16 +186,16 @@ Each abishai was once a mortal who somehow won Tiamat’s favor before death and
 >
 >***Bite.*** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 22 (3d10 + 6) piercing damage plus 38 (7d10) fire damage.
 >
->***Frightful Presence.*** Each creature of the abishai’s choice that is within 120 feet and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened of it for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the abishai’s Frightful Presence for the next 24 hours.
+>***Frightful Presence.*** Each creature of the abishai's choice that is within 120 feet and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened of it for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the abishai's Frightful Presence for the next 24 hours.
 >
->***Incite Fanaticism.*** The abishai chooses up to four of its allies within 60 feet of it that can see it. For 1 minute, each of those allies makes attack rolls with advantage and can’t be frightened.
+>***Incite Fanaticism.*** The abishai chooses up to four of its allies within 60 feet of it that can see it. For 1 minute, each of those allies makes attack rolls with advantage and can't be frightened.
 >
->***Power of the Dragon Queen.*** The abishai targets one dragon it can see within 120 feet of it. The dragon must make a DC 18 Charisma saving throw. A chromatic dragon makes this save with disadvantage. On a successful save, the target is immune to the abishai’s Power of the Dragon Queen for 1 hour. On a failed save, the target is charmed by the abishai for 1 hour. While charmed in this way, the target regards the abishai as a trusted friend to be heeded and protected. This effect ends if the abishai or its companions deal damage to the target.
+>***Power of the Dragon Queen.*** The abishai targets one dragon it can see within 120 feet of it. The dragon must make a DC 18 Charisma saving throw. A chromatic dragon makes this save with disadvantage. On a successful save, the target is immune to the abishai's Power of the Dragon Queen for 1 hour. On a failed save, the target is charmed by the abishai for 1 hour. While charmed in this way, the target regards the abishai as a trusted friend to be heeded and protected. This effect ends if the abishai or its companions deal damage to the target.
 
 ---
 
 ## White Abishai
-![White Abishai](Abishai-White.png) Though they are the least of their kind, white abishais fight with a reckless fury, making them ideally suited for bolstering the ranks of Tiamat’s armies. White abishais fight without fear, becoming whirlwinds of destruction on the battlefield.
+![White Abishai](Abishai-White.png) Though they are the least of their kind, white abishais fight with a reckless fury, making them ideally suited for bolstering the ranks of Tiamat's armies. White abishais fight without fear, becoming whirlwinds of destruction on the battlefield.
 
 >## White Abishai
 >*Medium fiend (devil), lawful evil*
@@ -211,18 +211,18 @@ Each abishai was once a mortal who somehow won Tiamat’s favor before death and
 >___
 >- **Saving Throws** Str +6, Con +7
 >- **Damage Immunities** cold, fire, poison
->- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+>- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 >- **Condition Immunities** poisoned
 >- **Skills** Perception +6, Stealth +6
 >- **Senses** darkvision 120 ft., passive Perception 11
 >- **Languages** Draconic, Infernal, telepathy 120 ft.
 >- **Challenge** 6 (2,300 XP)
 >___
->***Devil's Sight.*** Magical darkness doesn’t impede the abishai’s darkvision.
+>***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.
 >
 >***Magic Resistance.*** The abishai has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.*** The abishai’s weapon attacks are magical.
+>***Magic Weapons.*** The abishai's weapon attacks are magical.
 >
 >***Reckless.*** At the start of its turn, the abishai can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
 >

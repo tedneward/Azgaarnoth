@@ -29,7 +29,7 @@ A giant shark is 30 feet long and normally found in deep oceans. Utterly fearles
 >- **Languages** —
 >- **Challenge** 5
 >___
->***Blood Frenzy.*** The shark has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
+>***Blood Frenzy.*** The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 >
 >***Water Breathing.*** The shark can breathe only underwater.
 >
@@ -65,7 +65,7 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a hunter sh
 >- **Languages** —
 >- **Challenge** 2
 >___
->***Blood Frenzy.*** The shark has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
+>***Blood Frenzy.*** The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 >
 >***Water Breathing.*** The shark can breathe only underwater.
 >
@@ -101,10 +101,10 @@ Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters 
 >- **Languages** —
 >- **Challenge** 1/2
 >___
->***Pack Tactics.***. The shark has advantage on an attack roll against a creature if at least one of the shark’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+>***Pack Tactics.*** The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
->***Water Breathing.***. The shark can breathe only underwater.
+>***Water Breathing.*** The shark can breathe only underwater.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+>***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 >

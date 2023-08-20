@@ -31,14 +31,14 @@ The normal spider is basically harmless, but still entirely worth squishing any 
 >- **Languages** —
 >- **Challenge** 0
 >___
->***Spider Climb.***. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+>***Spider Climb.*** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 >
->***Web Sense.***. While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.
+>***Web Sense.*** While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.
 >
->***Web Walker.***. The spider ignores movement restrictions caused by webbing.
+>***Web Walker.*** The spider ignores movement restrictions caused by webbing.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.
+>***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.
 >
 
 ---
@@ -147,20 +147,20 @@ A phase spider possesses the magical ability to phase in and out of the Ethereal
 >- **Languages** —
 >- **Challenge** 3
 >___
->***Ethereal Jaunt.***. As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.
+>***Ethereal Jaunt.*** As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.
 >
->***Spider Climb.***. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+>***Spider Climb.*** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 >
->***Web Walker.***. The spider ignores movement restrictions caused by webbing.
+>***Web Walker.*** The spider ignores movement restrictions caused by webbing.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+>***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 >
 
 ---
 
 ## Swarm of Spiders
-The swarm presented here isn’t ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. Even druids can’t charm these swarms, and their aggressiveness is borderline unnatural.
+The swarm presented here isn't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. Even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
 
 >### Swarm of Insects
 >*Medium swarm, unaligned*
@@ -185,14 +185,14 @@ The swarm presented here isn’t ordinary or benign assemblies of little creatur
 >- **Languages** —
 >- **Challenge** 1/2
 >___
->***Swarm.***. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can’t regain hit points or gain temporary hit points.
+>***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.
 >
->***Spider Climb.***. The swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+>***Spider Climb.*** The swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 >
->***Web Sense.***. While in contact with a web, the swarm knows the exact location of any other creature in contact with the same web.
+>***Web Sense.*** While in contact with a web, the swarm knows the exact location of any other creature in contact with the same web.
 >
->***Web Walker.***. The swarm ignores movement restrictions caused by webbing.
+>***Web Walker.*** The swarm ignores movement restrictions caused by webbing.
 >
 >#### Actions
->***Bites.***. Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm’s space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
+>***Bites.*** Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 >

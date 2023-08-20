@@ -24,7 +24,7 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 >- **Languages** Common
 >- **Challenge** 2
 >___
->***Stench.*** Any creature that starts its turn within 5 feet of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast’s Stench for 24 hours.
+>***Stench.*** Any creature that starts its turn within 5 feet of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.
 >
 >***Turning Defiance.*** The ghast and any ghouls within 30 feet of it have advantage on saving throws against effects that turn undead.
 >

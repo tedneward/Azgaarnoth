@@ -6,7 +6,7 @@ The humble beetle exists all over Azgaarnoth.
 ---
 
 ## Giant Fire Beetle
-A giant fire beetle is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle’s glands continue to shed light for 1d6 days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.
+A giant fire beetle is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle's glands continue to shed light for 1d6 days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.
 
 >### Giant Fire Beetle
 >*Small beast, unaligned*
@@ -40,7 +40,7 @@ A giant fire beetle is a nocturnal creature that takes its name from a pair of g
 ---
 
 ## Swarm of Beetles
-The swarms presented here aren’t ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. Even druids can’t charm these swarms, and their aggressiveness is borderline unnatural.
+The swarms presented here aren't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. Even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
 
 >### Swarm of Beetles
 >*Medium swarm, unaligned*
@@ -65,8 +65,8 @@ The swarms presented here aren’t ordinary or benign assemblies of little creat
 >- **Languages** —
 >- **Challenge** 1/2
 >___
->***Swarm.***. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can’t regain hit points or gain temporary hit points.
+>***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.
 >
 >#### Actions
->***Bites.***. Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm’s space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
+>***Bites.*** Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 >

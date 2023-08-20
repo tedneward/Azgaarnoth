@@ -38,7 +38,7 @@ Giant centipedes can be found in many cavern systems across Azgaarnoth, particul
 ---
 
 ## Swarm of Centipedes
-The swarms presented here aren’t ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. Even druids can’t charm these swarms, and their aggressiveness is borderline unnatural.
+The swarms presented here aren't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. Even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
 
 >### Swarm of Centipedes
 >*Medium swarm, unaligned*
@@ -63,9 +63,9 @@ The swarms presented here aren’t ordinary or benign assemblies of little creat
 >- **Languages** —
 >- **Challenge** 1/2
 >___
->***Swarm.***. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can’t regain hit points or gain temporary hit points.
+>***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.
 >
 >#### Actions
->***Bites.***. Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm’s space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer. A creature reduced to 0 hit points by a swarm of centipedes is stable but poisoned for 1 hour, even after regaining hit points, and paralyzed while poisoned in this way.
+>***Bites.*** Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer. A creature reduced to 0 hit points by a swarm of centipedes is stable but poisoned for 1 hour, even after regaining hit points, and paralyzed while poisoned in this way.
 >
 

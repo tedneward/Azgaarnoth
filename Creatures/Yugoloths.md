@@ -62,15 +62,15 @@ Arcanaloths speak and write all languages, making them cunning diplomats and neg
 >- **Languages** all,telepathy 120 ft.
 >- **Challenge** 12
 >___
->***Innate Spellcasting.***. The arcanaloth's innate spellcasting ability is Charisma (spell save DC 15). The arcanaloth can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The arcanaloth's innate spellcasting ability is Charisma (spell save DC 15). The arcanaloth can innately cast the following spells, requiring no material components:
 >
 >* At will: alter self, darkness, heat metal, invisibility (self only), magic missile
 >
->***Magic Resistance.***. The arcanaloth has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The arcanaloth has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.***. The arcanaloth's weapon attacks are magical.
+>***Magic Weapons.*** The arcanaloth's weapon attacks are magical.
 >
->***Spellcasting.***. The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The arcanaloth has the following wizard spells prepared:
+>***Spellcasting.*** The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The arcanaloth has the following wizard spells prepared:
 >
 >* Cantrips (at will): fire bolt, mage hand, minor illusion, prestidigitation
 >
@@ -91,9 +91,9 @@ Arcanaloths speak and write all languages, making them cunning diplomats and neg
 >* 8th level (1 slot): mind blank
 >
 >#### Actions
->***Claws.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage. The target must make a DC 14 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+>***Claws.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage. The target must make a DC 14 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 >
->***Teleport.***. The arcanaloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+>***Teleport.*** The arcanaloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 >
 
 ---
@@ -126,24 +126,24 @@ Violence and reward are the fundamental drives of a mezzoloth, and powerful bein
 >- **Languages** Abyssal,Infernal,telepathy 60 ft.
 >- **Challenge** 5
 >___
->***Innate Spellcasting.***. The mezzoloth's innate spellcasting ability is Charisma (spell save DC 11). The mezzoloth can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The mezzoloth's innate spellcasting ability is Charisma (spell save DC 11). The mezzoloth can innately cast the following spells, requiring no material components:
 >
 >* 2/day each: darkness, dispel magic
 >
 >* 1/day: cloudkill
 >
->***Magic Resistance.***. The mezzoloth has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The mezzoloth has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.***. The mezzoloth's weapon attacks are magical.
+>***Magic Weapons.*** The mezzoloth's weapon attacks are magical.
 >
 >#### Actions
->***Multiattack.***. The mezzoloth makes two attacks: one with its claws and one with its trident.
+>***Multiattack.*** The mezzoloth makes two attacks: one with its claws and one with its trident.
 >
->***Claws.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage.
+>***Claws.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage.
 >
->***Trident.***. Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage when held with two claws and used to make a melee attack.
+>***Trident.*** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage when held with two claws and used to make a melee attack.
 >
->***Teleport.***. The mezzoloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+>***Teleport.*** The mezzoloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 >
 
 ---
@@ -176,22 +176,22 @@ Nycaloths are the most loyal of the yugoloths. When they find an evil master tha
 >- **Languages** Abyssal,Infernal,telepathy 60 ft.
 >- **Challenge** 9
 >___
->***Innate Spellcasting.***. The nycaloth's innate spellcasting ability is Charisma. The nycaloth can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The nycaloth's innate spellcasting ability is Charisma. The nycaloth can innately cast the following spells, requiring no material components:
 >
 >* At will: darkness, detect magic, dispel magic, invisibility (self only), mirror image
 >
->***Magic Resistance.***. The nycaloth has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The nycaloth has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.***. The nycaloth's weapon attacks are magical.
+>***Magic Weapons.*** The nycaloth's weapon attacks are magical.
 >
 >#### Actions
->***Multiattack.***. The nycaloth makes two melee attacks, or it makes one melee attack and teleports before or after the attack.
+>***Multiattack.*** The nycaloth makes two melee attacks, or it makes one melee attack and teleports before or after the attack.
 >
->***Claw.***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or take 5 (2d4) slashing damage at the start of each of its turns due to a fiendish wound. Each time the nycaloth hits the wounded target with this attack, the damage dealt by the wound increases by 5 (2d4). Any creature can take an action to stanch the wound with a successful DC 13 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
+>***Claw.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or take 5 (2d4) slashing damage at the start of each of its turns due to a fiendish wound. Each time the nycaloth hits the wounded target with this attack, the damage dealt by the wound increases by 5 (2d4). Any creature can take an action to stanch the wound with a successful DC 13 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
 >
->***Greataxe.***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 18 (2d12 + 5) slashing damage.
+>***Greataxe.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 18 (2d12 + 5) slashing damage.
 >
->***Teleport.***. The nycaloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+>***Teleport.*** The nycaloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 >
 
 ---
@@ -226,7 +226,7 @@ With a reputation for cruelty, ultroloths command their minions to fight while t
 >- **Languages** Abyssal,Infernal,telepathy 120 ft.
 >- **Challenge** 13
 >___
->***Innate Spellcasting.***. The ultroloth's innate spellcasting ability is Charisma (spell save DC 17). The ultroloth can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The ultroloth's innate spellcasting ability is Charisma (spell save DC 17). The ultroloth can innately cast the following spells, requiring no material components:
 >
 >* At will: alter self, clairvoyance, darkness, detect magic, detect thoughts, dispel magic, invisibility (self only), suggestion
 >
@@ -234,17 +234,17 @@ With a reputation for cruelty, ultroloths command their minions to fight while t
 >
 >* 1/day each: fire storm, mass suggestion
 >
->***Magic Resistance.***. The ultroloth has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The ultroloth has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.***. The ultroloth's weapon attacks are magical.
+>***Magic Weapons.*** The ultroloth's weapon attacks are magical.
 >
 >#### Actions
->***Multiattack.***. The ultroloth can use its Hypnotic Gaze and makes three melee attacks.
+>***Multiattack.*** The ultroloth can use its Hypnotic Gaze and makes three melee attacks.
 >
->***Longsword.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+>***Longsword.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 >
->***Hypnotic Gaze.***. The ultroloth's eyes sparkle with opalescent light as it targets one creature it can see within 30 feet of it. If the target can see the ultroloth, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed until the end of the ultroloth's next turn. The charmed target is stunned. If the target's saving throw is successful, the target is immune to the ultroloth's gaze for the next 24 hours.
+>***Hypnotic Gaze.*** The ultroloth's eyes sparkle with opalescent light as it targets one creature it can see within 30 feet of it. If the target can see the ultroloth, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed until the end of the ultroloth's next turn. The charmed target is stunned. If the target's saving throw is successful, the target is immune to the ultroloth's gaze for the next 24 hours.
 >
->***Teleport.***. The ultroloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+>***Teleport.*** The ultroloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 >
 

@@ -5,7 +5,7 @@ Ageless tricksters, mephits gather in large numbers on the Elemental Planes and 
 
 Some scholars theorize that the mephit is the form punished souls take when disappointing a [Fiend patron](../Classes/Warlock/Fiend.md) or one of an elemental nature.
 
-***Elemental Nature.*** A mephit doesn’t require food, drink, or sleep.
+***Elemental Nature.*** A mephit doesn't require food, drink, or sleep.
 
 > Jump to: [Dust](#dust) | [Ice](#ice) | [Magma](#magma) | [Mud](#mud) | [Smoke](#smoke) | [Steam](#steam)
 
@@ -44,7 +44,7 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 >
 >***Blinding Breath (Recharge 6).*** The mephit exhales a 15-foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
->***Summon Mephits (1/Day).*** The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can’t summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
+>***Summon Mephits (1/Day).*** The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 
 ---
 
@@ -82,12 +82,12 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 >
 >***Frost Breath (Recharge 6).*** The mephit exhales a 15-foot cone of cold air. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful one.
 >
->***Summon Mephits (1/Day).*** The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can’t summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
+>***Summon Mephits (1/Day).*** The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 
 ---
 
 ## Magma Mephit
-![](Mephit-Magma.png) | Composed of earth and fire, magma mephits glow a dull red color as they perspire beads of molten lava. They are slow to comprehend the meaning of others’ words and actions.
+![](Mephit-Magma.png) | Composed of earth and fire, magma mephits glow a dull red color as they perspire beads of molten lava. They are slow to comprehend the meaning of others' words and actions.
 
 >## Magma Mephit
 >*Small elemental, neutral evil*
@@ -121,7 +121,7 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 >
 >***Fire Breath (Recharge 6).*** The mephit exhales a 15-foot cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
 >
->***Summon Mephits (1/Day).*** The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can’t summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
+>***Summon Mephits (1/Day).*** The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 
 ---
 
@@ -147,7 +147,7 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 >- **Languages** Aquan, Terran
 >- **Challenge** 1/4 (50 XP)
 >___
->***Death Burst.*** When the mephit dies, it explodes in a burst of sticky mud. Each Medium or smaller creature within 5 feet of it must succeed on a DC 11 Dexterity saving throw or be restrained until the end of the creature’s next turn.
+>***Death Burst.*** When the mephit dies, it explodes in a burst of sticky mud. Each Medium or smaller creature within 5 feet of it must succeed on a DC 11 Dexterity saving throw or be restrained until the end of the creature's next turn.
 >
 >***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary mound of mud.
 >
@@ -156,7 +156,7 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 >
 >***Mud Breath (Recharge 6).*** The mephit belches viscid mud onto one creature within 5 feet of it. If the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving throw or be restrained for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
->***Summon Mephits (1/Day).*** The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can’t summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
+>***Summon Mephits (1/Day).*** The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 
 ---
 
@@ -189,9 +189,9 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 >### Actions
 >***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) slashing damage.
 >
->***Cinder Breath (Recharge 6).*** The mephit exhales a 15-foot cone of smoldering ash. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded until the end of the mephit’s next turn.
+>***Cinder Breath (Recharge 6).*** The mephit exhales a 15-foot cone of smoldering ash. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded until the end of the mephit's next turn.
 >
->***Summon Mephits (1/Day).*** The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can’t summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
+>***Summon Mephits (1/Day).*** The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 
 ---
 
@@ -225,4 +225,4 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 >
 >***Steam Breath (Recharge 6).*** The mephit exhales a 15-foot cone of scalding steam. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one.
 >
->***Summon Mephits (1/Day).*** The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can’t summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
+>***Summon Mephits (1/Day).*** The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.

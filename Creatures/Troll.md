@@ -3,30 +3,30 @@ Born with horrific appetites, trolls eat anything they can catch and devour. The
 
 > Jump to: [Standard Troll](#troll) | [Aquatic Troll (Scrag)](#aquatic-troll) | [Dire Troll](#dire-troll) | [Rot Troll](#rot-troll) | [Spirit Troll](#spirit-troll) | [Venom Troll](#venom-troll)
 
-***Regeneration.*** Smashing a troll’s bones and slashing through its rubbery hide only makes it angry. A troll’s wounds close quickly. If the monster loses an arm, a leg, or even its head, those dismembered parts can sometimes act with a life of their own. A troll can even reattach severed body parts, untroubled by its momentary disability. Only acid and fire can arrest the regenerative properties of a troll’s flesh. The trolls, enraged, will attack individuals making acid and fire attacks against them above all other prey.
+***Regeneration.*** Smashing a troll's bones and slashing through its rubbery hide only makes it angry. A troll's wounds close quickly. If the monster loses an arm, a leg, or even its head, those dismembered parts can sometimes act with a life of their own. A troll can even reattach severed body parts, untroubled by its momentary disability. Only acid and fire can arrest the regenerative properties of a troll's flesh. The trolls, enraged, will attack individuals making acid and fire attacks against them above all other prey.
 
-***Troll Freaks.*** Their regenerative capabilities make trolls especially susceptible to mutation. Although uncommon, such transformations can result from what the troll has done or what has been done to it. A decapitated troll might grow two heads from the stump of its neck, while a troll that eats a fey creature might gain one or more of that creature’s traits. As a result, some trolls will have the Loathsome Limbs trait.
+***Troll Freaks.*** Their regenerative capabilities make trolls especially susceptible to mutation. Although uncommon, such transformations can result from what the troll has done or what has been done to it. A decapitated troll might grow two heads from the stump of its neck, while a troll that eats a fey creature might gain one or more of that creature's traits. As a result, some trolls will have the Loathsome Limbs trait.
 
 >***Loathsome Limbs.*** Whenever the troll takes at least 15 slashing damage at one time, roll a d20 to determine what else happens to it:
 >
 >- 1–10: Nothing else happens.
 >- 11–14: One leg is severed from the troll if it has any legs left.
 >- 15–18: One arm is severed from the troll if it has any arms left.
->- 19–20: The troll is decapitated, but the troll dies only if it can’t regenerate. If it dies, so does the severed head.
+>- 19–20: The troll is decapitated, but the troll dies only if it can't regenerate. If it dies, so does the severed head.
 >
->If the troll finishes a short or long rest without reattaching a severed limb or head, the part regrows. At that point, the severed part dies. Until then, a severed part acts on the troll’s initiative and has its own action and movement. A severed part has AC 13, 10 hit points, and the troll’s Regeneration trait.
+>If the troll finishes a short or long rest without reattaching a severed limb or head, the part regrows. At that point, the severed part dies. Until then, a severed part acts on the troll's initiative and has its own action and movement. A severed part has AC 13, 10 hit points, and the troll's Regeneration trait.
 >
 >A severed leg is unable to attack and has a speed of 5 feet.
 >
 >A severed arm has a speed of 5 feet and can make one claw attack on its turn, with disadvantage on the attack roll unless the troll can see the arm and its target. Each time the troll loses an arm, it loses a claw attack.
 >
->If its head is severed, the troll loses its bite attack and its body is blinded unless the head can see it. The severed head has a speed of 0 feet and the troll’s Keen Smell trait. It can make a bite attack but only against a target in its space.
+>If its head is severed, the troll loses its bite attack and its body is blinded unless the head can see it. The severed head has a speed of 0 feet and the troll's Keen Smell trait. It can make a bite attack but only against a target in its space.
 >
->The troll’s speed is halved if it’s missing a leg. If it loses both legs, it falls prone. If it has both arms, it can crawl. With only one arm, it can still crawl, but its speed is halved. With no arms or legs, its speed is 0, and it can’t benefit from bonuses to speed.
+>The troll's speed is halved if it's missing a leg. If it loses both legs, it falls prone. If it has both arms, it can crawl. With only one arm, it can still crawl, but its speed is halved. With no arms or legs, its speed is 0, and it can't benefit from bonuses to speed.
 
 Trolls that are nearly obliterated but survive and regenerate from mere scraps of flesh can display bizarre mutations. One of these warped trolls is especially likely to arise if the creature regenerates in the presence of magical emanations, planar energy, disease, or death on a vast scale, or if its body was damaged by elemental forces. These mutated forms can also be produced and shaped by the ritual magic of evil spellcasters.
 
-***Vaprak the Destroyer.*** Although trolls are hardly devout and seldom ponder spiritual questions, they do fear and venerate the entity known as Vaprak the Destroyer. As with many lesser deities, Vaprak’s true nature is something of a mystery, but it is always portrayed as a horrid, misshapen, greenish creature strongly resembling a troll. It’s given to fits of mindless destruction and is constantly paranoid about the plots and ambitions of other deities.
+***Vaprak the Destroyer.*** Although trolls are hardly devout and seldom ponder spiritual questions, they do fear and venerate the entity known as Vaprak the Destroyer. As with many lesser deities, Vaprak's true nature is something of a mystery, but it is always portrayed as a horrid, misshapen, greenish creature strongly resembling a troll. It's given to fits of mindless destruction and is constantly paranoid about the plots and ambitions of other deities.
 
 Among trolls, Vaprak is believed to devour those on the brink of death, but only if the troll is already cooked or digested (slain by fire or acid). Otherwise, the god spits the soul back into the world to regenerate a new body, no matter how little of its previous form remained. Thus, only trolls slain by acid or fire remain dead, because only those are consumed by Vaprak.
 
@@ -61,7 +61,7 @@ Among non-trolls, Vaprak is believed to be an aspect of [Gruumsh One-Eye](../Rel
 >___
 >***Keen Smell.*** The troll has advantage on Wisdom (Perception) checks that rely on smell.
 >
->***Regeneration.*** The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn’t function at the start of the troll’s next turn. The troll dies only if it starts its turn with 0 hit points and doesn’t regenerate.
+>***Regeneration.*** The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 >
 >#### Actions
 >***Multiattack.*** The troll makes three attacks: one with its bite and two with its claws.
@@ -161,7 +161,7 @@ Dire trolls also increase their size by grafting flesh and organs onto themselve
 ## Rot Troll
 ![Rot Troll](Troll-Rot.png)
 
-A troll that is infused with waves of necrotic energy as it regenerates can develop a symbiotic relationship with that deathly power. The troll’s body withers, and its flesh falls away from the body as quickly as it forms. Eventually a rot troll becomes unable to regenerate, though it still heals normally. The creature courses with necrotic energy that flows out of its withered form. Simply standing near a rot troll exposes other creatures to its lethal emanations.
+A troll that is infused with waves of necrotic energy as it regenerates can develop a symbiotic relationship with that deathly power. The troll's body withers, and its flesh falls away from the body as quickly as it forms. Eventually a rot troll becomes unable to regenerate, though it still heals normally. The creature courses with necrotic energy that flows out of its withered form. Simply standing near a rot troll exposes other creatures to its lethal emanations.
 
 >### Rot Troll
 >*Large giant, chaotic evil*
@@ -186,7 +186,7 @@ A troll that is infused with waves of necrotic energy as it regenerates can deve
 >- **Languages** Giant
 >- **Challenge** 9 (5,000 XP)
 >___
->***Rancid Degeneration.*** At the end of each of the troll’s turns, each creature within 5 feet of it takes 11 (2d10) necrotic damage, unless the troll has taken acid or fire damage since the end of its last turn.
+>***Rancid Degeneration.*** At the end of each of the troll's turns, each creature within 5 feet of it takes 11 (2d10) necrotic damage, unless the troll has taken acid or fire damage since the end of its last turn.
 >
 >#### Actions
 >***Multiattack.*** The troll makes three attacks: one with its bite and two with its claws.
@@ -200,7 +200,7 @@ A troll that is infused with waves of necrotic energy as it regenerates can deve
 ## Spirit Troll
 ![Spirit Troll](Troll-Spirit.png)
 
-A troll blasted with psychic energy can take a nonphysical form when it regenerates. Its psyche survives, but the body of a spirit troll is as insubstantial as shadow. The troll might be unaware of the transition — it still moves and attacks with teeth and claws as it always did — but now it strikes at its victim’s mind.
+A troll blasted with psychic energy can take a nonphysical form when it regenerates. Its psyche survives, but the body of a spirit troll is as insubstantial as shadow. The troll might be unaware of the transition — it still moves and attacks with teeth and claws as it always did — but now it strikes at its victim's mind.
 
 >### Spirit Troll
 >*Large giant, chaotic evil*
@@ -227,7 +227,7 @@ A troll blasted with psychic energy can take a nonphysical form when it regenera
 >___
 >***Incorporeal Movement.*** The troll can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 >
->***Regeneration.*** The troll regains 10 hit points at the start of each of its turns. If the troll takes psychic or force damage, this trait doesn’t function at the start of the troll’s next turn. The troll dies only if it starts its turn with 0 hit points and doesn’t regenerate.
+>***Regeneration.*** The troll regains 10 hit points at the start of each of its turns. If the troll takes psychic or force damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 >
 >#### Actions
 >***Multiattack.*** The troll makes three attacks: one with its Bite and two with its Claws.
@@ -270,13 +270,13 @@ A troll ravaged by massive doses of poison will sometimes transform into a venom
 >
 >***Poison Splash.*** When the troll takes damage of any type but psychic, each creature within 5 feet of the troll takes 9 (2d8) poison damage.
 >
->***Regeneration.*** The troll regains 10 hit points at the start of each of its turns. If the troll takes acid or fire damage, this trait doesn’t function at the start of the troll’s next turn. The troll dies only if it starts its turn with 0 hit points and doesn’t regenerate.
+>***Regeneration.*** The troll regains 10 hit points at the start of each of its turns. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 >
 >#### Actions
 >***Multiattack.*** The troll makes three attacks: one with its bite and two with its claws.
 >
->***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 4 (1d8) poison damage, and the creature is poisoned until the start of the troll’s next turn.
+>***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 4 (1d8) poison damage, and the creature is poisoned until the start of the troll's next turn.
 >
 >***Claws.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 4 (1d8) poison damage.
 >
->***Venom Spray (Recharge 6).*** The troll slices itself with a claw, releasing a spray of poison in a 15-foot cube. The troll takes 7 (2d6) slashing damage (this damage can’t be reduced in any way). Each creature in the area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (4d8) poison damage and is poisoned for 1 minute. On a successful save, the creature takes half as much damage and isn’t poisoned. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>***Venom Spray (Recharge 6).*** The troll slices itself with a claw, releasing a spray of poison in a 15-foot cube. The troll takes 7 (2d6) slashing damage (this damage can't be reduced in any way). Each creature in the area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (4d8) poison damage and is poisoned for 1 minute. On a successful save, the creature takes half as much damage and isn't poisoned. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

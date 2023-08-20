@@ -28,7 +28,7 @@ Most whales are spotted at a distance far from the shores of Azgaarnoth; some, h
 >- **Languages** —
 >- **Challenge** 3
 >___
->***Echolocation.*** The whale can’t use its blindsight while deafened.
+>***Echolocation.*** The whale can't use its blindsight while deafened.
 >
 >***Hold Breath.*** The whale can hold its breath for 30 minutes.
 >

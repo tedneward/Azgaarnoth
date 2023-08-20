@@ -5,7 +5,7 @@ The everpresent vermin, in all their twisted glory.
 
 ***Vectors of Disease.*** Some rats (giant or otherwise) carry vile diseases that they spread with their bites. A diseased rat's challenge rating does not change; a diseased giant rat has a challenge rating of 1/8 (25 XP) both have the following action instead of the normal Bite attack. (Note that the statistics for the Bite do not change other than to add the check for disease.)
 
-> ***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 10 Constitution saving throw or contract a disease. Until the disease is cured, the target can’t regain hit points except by magical means, and the target’s hit point maximum decreases by 3 (1d6) every 24 hours. If the target’s hit point maximum drops to 0 as a result of this disease, the target dies.
+> ***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 10 Constitution saving throw or contract a disease. Until the disease is cured, the target can't regain hit points except by magical means, and the target's hit point maximum decreases by 3 (1d6) every 24 hours. If the target's hit point maximum drops to 0 as a result of this disease, the target dies.
 
 ---
 
@@ -37,7 +37,7 @@ If any player at any point during an encounter with a giant rat makes a joke abo
 >___
 >***Keen Smell.*** The rat has advantage on Wisdom (Perception) checks that rely on smell.
 >
->***Pack Tactics.*** The rat has advantage on an attack roll against a creature if at least one of the rat’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+>***Pack Tactics.*** The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 >#### Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
@@ -76,7 +76,7 @@ This rat was unfortunate enough to be converted to undead and set to obey its ma
 >***Shadowmeld.*** If the rat is in dim light or darkness, it can take the Hide action as a bonus action. Additionally, If an attack misses the rat, the rat can use its reaction to move up to half of its movement speed without provoking attacks of opportunity.
 >
 >#### Actions
->***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) piercing damage, plus 7 (2d6) necrotic damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw or contract a disease. Until the disease is cured, the target can’t regain hit points except by magical means.
+>***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) piercing damage, plus 7 (2d6) necrotic damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw or contract a disease. Until the disease is cured, the target can't regain hit points except by magical means.
 >
 >***Rotten Stench (1/Day).*** A cloud of noxious gas escapes from the rat's pores. Each creature within 10 feet of the rat must succeed on a DC 13 Constitution saving throw or be poisoned until the end of the creature's next turn.
 >
@@ -108,16 +108,16 @@ This rat was unfortunate enough to be converted to undead and set to obey its ma
 >- **Languages** —
 >- **Challenge** 0
 >___
->***Keen Smell.***. The rat has advantage on Wisdom (Perception) checks that rely on smell.
+>***Keen Smell.*** The rat has advantage on Wisdom (Perception) checks that rely on smell.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+>***Bite.*** Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
 >
 
 ---
 
 ## Swarm of Rats
-The swarm of rats presented here aren’t ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. A vampire can summon swarms of bats and rats from the darkest corners of the night; even druids can’t charm these swarms, and their aggressiveness is borderline unnatural.
+The swarm of rats presented here aren't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. A vampire can summon swarms of bats and rats from the darkest corners of the night; even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
 
 >### Swarm of Rats
 >*Medium swarm, unaligned*
@@ -142,10 +142,10 @@ The swarm of rats presented here aren’t ordinary or benign assemblies of littl
 >- **Languages** —
 >- **Challenge** 1/4
 >___
->***Keen Smell.***. The swarm has advantage on Wisdom (Perception) checks that rely on smell.
+>***Keen Smell.*** The swarm has advantage on Wisdom (Perception) checks that rely on smell.
 >
->***Swarm.***. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can’t regain hit points or gain temporary hit points.
+>***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.
 >
 >#### Actions
->***Bites.***. Melee Weapon Attack: +2 to hit, reach 0 ft., one target in the swarm’s space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
+>***Bites.*** Melee Weapon Attack: +2 to hit, reach 0 ft., one target in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 >

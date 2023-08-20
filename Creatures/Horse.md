@@ -95,7 +95,7 @@ Horses are common across Azgaarnoth, both wild and domesticated, particularly in
 >- **Challenge** 1/8
 >___
 >#### Actions
->***Hooves.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage.
+>***Hooves.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage.
 >
 
 ---
@@ -126,14 +126,14 @@ Horses are common across Azgaarnoth, both wild and domesticated, particularly in
 >- **Challenge** 1/4
 >___
 >#### Actions
->***Hooves.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage.
+>***Hooves.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage.
 >
 
 ---
 
 ## Warhorse
 
-***VARIANT: WARHORSE ARMOR.*** An armored warhorse has an AC based on the type of barding worn. The horse’s AC includes its Dexterity modifier, where applicable. Barding doesn’t alter the horse’s challenge rating.
+***VARIANT: WARHORSE ARMOR.*** An armored warhorse has an AC based on the type of barding worn. The horse's AC includes its Dexterity modifier, where applicable. Barding doesn't alter the horse's challenge rating.
 
 AC | Barding
 -- | --------
@@ -168,8 +168,8 @@ AC | Barding
 >- **Languages** —
 >- **Challenge** 1/2
 >___
->***Trampling Charge.***. If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.
+>***Trampling Charge.*** If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.
 >
 >#### Actions
->***Hooves.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
+>***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 >

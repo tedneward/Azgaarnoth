@@ -3,7 +3,7 @@
 
 Natives of the Elemental Plane of Fire, azers are master crafters, expert miners, and sworn foes of the efreet. In appearance and manner, an azer resembles a male dwarf, but this is a facade. Beneath its metallic-looking skin, an azer is a being of fire, which outwardly manifests in its fiery hair and beard.
 
-***Made, Not Born.*** Azers don’t reproduce. They are each crafted from bronze by another azer and imbued with a portion of the crafter’s inner flame. Each azer is sculpted with unique features. This crafting process limits the growth of the azer population and is the primary reason that these creatures remain rare.
+***Made, Not Born.*** Azers don't reproduce. They are each crafted from bronze by another azer and imbued with a portion of the crafter's inner flame. Each azer is sculpted with unique features. This crafting process limits the growth of the azer population and is the primary reason that these creatures remain rare.
 
 ***Volcanic Dwellers.*** Azers dwell in a kingdom on the border between the Elemental Plane of Earth and the Elemental Plane of Fire — a range of mountains and volcanoes whose spires rise as a series of fortresses. Beneath mountain peaks, under volcanic calderas, and amid rivers of magma, azers extract gleaming metals and glittering gems from the earth. Squads of azer patrol the passes and tunnels of their realm, fending off the salamander raiders whose efreet masters order strikes against the azer kingdom.
 
@@ -13,7 +13,7 @@ Natives of the Elemental Plane of Fire, azers are master crafters, expert miners
 
 When azers are called by magic to the Material Plane, it is typically to help forge an elaborate magic item or work of art, for it is said that their skill in such craft knows no equal.
 
-***Living Fire.*** An azer doesn’t require food, drink, or sleep.
+***Living Fire.*** An azer doesn't require food, drink, or sleep.
 
 >### Azer
 >*Medium elemental, lawful neutral*

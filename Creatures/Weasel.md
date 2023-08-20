@@ -30,10 +30,10 @@ A common familiar or pet and/or (in the case of the larger variety) mount.
 >- **Languages** —
 >- **Challenge** 0
 >___
->***Keen Hearing and Smell.***. The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+>***Keen Hearing and Smell.*** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+>***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
 >
 
 ---

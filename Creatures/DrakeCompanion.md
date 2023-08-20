@@ -15,7 +15,7 @@
 
 **Saving Throws** Dex +1 plus PB, Wis +2 plus PB
 
-**Damage Immunities** determined by the drake’s Draconic Essence trait
+**Damage Immunities** determined by the drake's Draconic Essence trait
 
 **Senses** darkvision 60 ft., passive Perception 12
 
@@ -23,10 +23,10 @@
 
 **Challenge** —-
 
-**Draconic Essence.** When summoning the drake, choose a damage type: acid, cold, fire, lightning, or poison. The chosen type determines the drake’s damage immunity, the damage of its bite, and the damage of its Infused Strikes trait.
+**Draconic Essence.** When summoning the drake, choose a damage type: acid, cold, fire, lightning, or poison. The chosen type determines the drake's damage immunity, the damage of its bite, and the damage of its Infused Strikes trait.
 
 ## Actions
-**Bite.** Melee Weapon Attack: +3 plus PB to hit, reach 5 ft., one target. Hit: 1d6 piercing damage plus PB damage of a type determined by the drake’s Draconic Essence.
+**Bite.** Melee Weapon Attack: +3 plus PB to hit, reach 5 ft., one target. Hit: 1d6 piercing damage plus PB damage of a type determined by the drake's Draconic Essence.
 
 ## Reactions
 **Infused Strikes.** When another creature within 30 feet of the drake that it can see hits with a weapon attack, the drake infuses the strike with its essence, causing the attack to deal an extra 1d6 damage of the type determined by its Draconic Essence.

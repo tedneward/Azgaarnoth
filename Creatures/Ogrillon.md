@@ -1,5 +1,5 @@
 ## Ogrillon (Half-Ogre)
-***![Ogrillon](Ogrillon.***png) When an ogre mates with a human, hobgoblin, bugbear, or orc, the result is always a half-ogre. (Ogres don’t mate with dwarves, halflings, or elves. They eat them.) Human mothers rarely survive the birth of a half-ogre offspring. The half-ogre offspring of an ogre and an orc is commonly called an ogrillon. An adult half-ogre or ogrillon stands 8 feet tall and weighs 450 pounds on average.
+***![Ogrillon](Ogrillon.***png) When an ogre mates with a human, hobgoblin, bugbear, or orc, the result is always a half-ogre. (Ogres don't mate with dwarves, halflings, or elves. They eat them.) Human mothers rarely survive the birth of a half-ogre offspring. The half-ogre offspring of an ogre and an orc is commonly called an ogrillon. An adult half-ogre or ogrillon stands 8 feet tall and weighs 450 pounds on average.
 
 >### Ogrillon (Half-Ogre)
 >*Large giant, any chaotic alignment*

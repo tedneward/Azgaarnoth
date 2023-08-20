@@ -60,7 +60,7 @@ The dragon's size is Colossal, and its space is a 25 to 30 foot square. It has a
 
 **Bite.** (Range, damage, and targets equal to original values.) If the target is a creature, the dragon can choose to grapple it (escape DC = 8 + the dragon's proficiency bonus + the dragon's Strength modifier). Until this grapple ends, the target is restrained, and the dragon can't bite another target.
 
-**Stomp.** The dragon can make a claw attack against a creature that ends its turn in the dragon’s space.
+**Stomp.** The dragon can make a claw attack against a creature that ends its turn in the dragon's space.
 
 **Swallow.** The dragon makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the dragon, and it takes 28 (8d6) acid damage, and 28 (8d6) damage (of the same type as the dragon's Breath Weapon) at the start of each of the dragon's turns.
 
@@ -240,7 +240,7 @@ The dragon has advantage on saving throws against spells and magical effects.
 ## Magic Weaponry
 *Prerequisite: Arcane Immunity.*
 
-The dragon’s weapon attacks are considered magical weapons for the purpose of overcoming resistances.
+The dragon's weapon attacks are considered magical weapons for the purpose of overcoming resistances.
 
 
 ## Maximize Breath

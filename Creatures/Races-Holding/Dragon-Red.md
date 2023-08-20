@@ -55,7 +55,7 @@ The dragon's blindsight radius increases by 50%.
 Each creature that begins its turn within 10 feet of the dragon or moves into that area for the first time on its turn takes 7 (2d6) fire damage.
 
 ### Ignite
-When a creature or flammable object takes fire damage from the dragon’s breath weapon, it ignites. An ignited target takes 7 (2d6) fire damage at the start of each of its turn, cannot take reactions, and has disadvantage on attack rolls until it or another creature uses an action to extinguish the flames.
+When a creature or flammable object takes fire damage from the dragon's breath weapon, it ignites. An ignited target takes 7 (2d6) fire damage at the start of each of its turn, cannot take reactions, and has disadvantage on attack rolls until it or another creature uses an action to extinguish the flames.
 
 ### Overheat
 *Prerequisite: must be Mature Adult or older.*

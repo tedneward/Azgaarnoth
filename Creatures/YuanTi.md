@@ -53,7 +53,7 @@ Monstrous serpents with burly humanoid torsos and arms, abominations form the hi
 >- **Languages** Abyssal,Common,Draconic
 >- **Challenge** 7
 >___
->***Shapechanger.***. The yuan-ti can use its action to polymorph into a Large snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.
+>***Shapechanger.*** The yuan-ti can use its action to polymorph into a Large snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.
 >
 >***Innate Spellcasting (Abomination Form Only).*** The yuan-ti's innate spellcasting ability is Charisma (spell save DC 15). The yuan-ti can innately cast the following spells, requiring no material components:
 >
@@ -63,18 +63,18 @@ Monstrous serpents with burly humanoid torsos and arms, abominations form the hi
 >
 >* 1/day: fear
 >
->***Magic Resistance.***. The yuan-ti has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
 >***Multiattack (Abomination Form Only).*** The yuan-ti makes two ranged attacks or three melee attacks, but can use its bite and constrict attacks only once each.
 >
->***Bite.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 7 (1d6 + 4) piercing damage plus 10 (3d6) poison damage.
+>***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 7 (1d6 + 4) piercing damage plus 10 (3d6) poison damage.
 >
->***Constrict.***. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, and the yuan-ti can't constrict another target.
+>***Constrict.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, and the yuan-ti can't constrict another target.
 >
->***Scimitar (Abomination Form Only).***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+>***Scimitar (Abomination Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
 >
->***Longbow (Abomination Form Only).***. Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 12 (2d8 + 3) piercing damage plus 10 (3d6) poison damage.
+>***Longbow (Abomination Form Only).*** Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 12 (2d8 + 3) piercing damage plus 10 (3d6) poison damage.
 >
 
 ---
@@ -105,7 +105,7 @@ A malison is a hideous blend of human and serpentine features. Three different t
 >- **Languages** Abyssal,Common,Draconic
 >- **Challenge** 3
 >___
->***Shapechanger.***. The yuan-ti can use its action to polymorph into a Medium snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.
+>***Shapechanger.*** The yuan-ti can use its action to polymorph into a Medium snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.
 >
 >***Innate Spellcasting (Yuan-ti Form Only).*** The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:
 >
@@ -113,9 +113,9 @@ A malison is a hideous blend of human and serpentine features. Three different t
 >
 >* 3/day: suggestion
 >
->***Magic Resistance.***. The yuan-ti has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
 >
->***Malison Type.***. The yuan-ti has one of the following types:
+>***Malison Type.*** The yuan-ti has one of the following types:
 >
 >* Type 1: Human body with snake head
 >
@@ -124,27 +124,27 @@ A malison is a hideous blend of human and serpentine features. Three different t
 >* Type 3: Human head and upper body with a serpentine lower body instead of legs
 >
 >#### Actions
->***Multiattack (Yuan-ti Form Only).***. The yuan-ti makes two ranged attacks or two melee attacks, but can use its bite only once.
+>***Multiattack (Yuan-ti Form Only).*** The yuan-ti makes two ranged attacks or two melee attacks, but can use its bite only once.
 >
->***Bite.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.
+>***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.
 >
->***Scimitar (Yuan-ti Form Only).***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+>***Scimitar (Yuan-ti Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
 >
->***Longbow (Yuan-ti Form Only).***. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
+>***Longbow (Yuan-ti Form Only).*** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
 >
->***Multiattack (Yuan-ti Form Only).***. The yuan-ti makes two bite attacks using its snake arms.
+>***Multiattack (Yuan-ti Form Only).*** The yuan-ti makes two bite attacks using its snake arms.
 >
->***Bite.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.
+>***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.
 >
->***Multiattack (Yuan-ti Form Only).***. The yuan-ti makes two ranged attacks or two melee attacks, but can constrict only once.
+>***Multiattack (Yuan-ti Form Only).*** The yuan-ti makes two ranged attacks or two melee attacks, but can constrict only once.
 >
->***Bite (Snake Form Only).***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.
+>***Bite (Snake Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.
 >
->***Constrict.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the yuan-ti can't constrict another target.
+>***Constrict.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the yuan-ti can't constrict another target.
 >
->***Scimitar (Yuan-ti Form Only).***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+>***Scimitar (Yuan-ti Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
 >
->***Longbow (Yuan-ti Form Only).***. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+>***Longbow (Yuan-ti Form Only).*** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 >
 
 ---
@@ -175,18 +175,18 @@ Purebloods form the lowest caste of yuan-ti society. They closely resemble human
 >- **Languages** Abyssal,Common,Draconic
 >- **Challenge** 1
 >___
->***Innate Spellcasting.***. The yuan-ti's spellcasting ability is Charisma (spell save DC 12). The yuan-ti can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The yuan-ti's spellcasting ability is Charisma (spell save DC 12). The yuan-ti can innately cast the following spells, requiring no material components:
 >
 >* At will: animal friendship (snakes only)
 >
 >* 3/day each: poison spray, suggestion
 >
->***Magic Resistance.***. The yuan-ti has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
->***Multiattack.***. The yuan-ti makes two melee attacks.
+>***Multiattack.*** The yuan-ti makes two melee attacks.
 >
->***Scimitar.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
+>***Scimitar.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
 >
->***Shortbow.***. Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) piercing damage plus 7 (2d6) poison damage.
+>***Shortbow.*** Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) piercing damage plus 7 (2d6) poison damage.
 >

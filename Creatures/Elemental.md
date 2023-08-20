@@ -11,7 +11,7 @@ Some elementals desire only to return to their native plane and "rejoin" the pla
 
 ***Conjured by Magic.*** Certain spells and magic items can conjure an elemental, summoning it from the Inner Planes to the Material Plane. By its very nature, elemental essence is a wild force outside of its native plane, and requires the magic and determination to shape it. A creature that summons an elemental must assert force of will to control it.
 
-***Elemental Nature.*** An elemental doesn’t require air, food, drink, or sleep.
+***Elemental Nature.*** An elemental doesn't require air, food, drink, or sleep.
 
 The elemental planes of water, earth, fire, and air align on planar borders; where elemental essences of each of two planes combine, they sometimes combine in interesting ways, which if they remain combined over time, give rise to individual elementals made of the combined element.
 
@@ -19,7 +19,7 @@ The elemental planes of water, earth, fire, and air align on planar borders; whe
 
 ***Bound and Shaped.*** Powerful magic can bind an elemental spirit into a material template that defines a specific use and function. Invisible stalkers are air elementals bound to a specific form, in the same way that water elementals can be shaped into water weirds.
 
-The strength of the magic and materials that bind an elemental determines how well the elemental functions in a bound form. Golems are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can’t bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely.
+The strength of the magic and materials that bind an elemental determines how well the elemental functions in a bound form. Golems are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can't bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely.
 
 > Jump to: [Invisible Stalker](#invisible-stalker) | [Magmin](#magmin) | [Sand Assassin](#sand-assassin) | [Water Weird](#water-weird)
 
@@ -55,16 +55,16 @@ An air elemental can turn itself into a screaming cyclone, creating a whirlwind 
 >- **Languages** Auran
 >- **Challenge** 5
 >___
->***Air Form.*** The elemental can enter a hostile creature’s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+>***Air Form.*** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 >
 >#### Actions
 >***Multiattack.*** The elemental makes two Slam attacks.
 >
 >***Slam.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.
 >
->***Whirlwind (Recharge 4–6).*** Each creature in the elemental’s space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone.
+>***Whirlwind (Recharge 4–6).*** Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone.
 >
->If the saving throw is successful, the target takes half the bludgeoning damage and isn’t flung away or knocked prone.
+>If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone.
 >
 
 ---
@@ -97,7 +97,7 @@ Earth elementals glide through rock and earth as though they were liquid. Earthb
 >- **Languages** Terran
 >- **Challenge** 5
 >___
->***Earth Glide.*** The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn’t disturb the material it moves through.
+>***Earth Glide.*** The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.
 >
 >***Siege Monster.*** The elemental deals double damage to objects and structures.
 >
@@ -137,7 +137,7 @@ A faint humanoid shape threads through the core of this wild, moving flame. A fi
 >- **Languages** Ignan
 >- **Challenge** 5
 >___
->***Fire Form.*** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature’s space and stop there. The first time it enters a creature’s space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
+>***Fire Form.*** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
 >
 >***Illumination.*** The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 feet.
 >
@@ -194,11 +194,11 @@ An invisible stalker is an air elemental that has been summoned from its native 
 
 ![](Elemental-Invisible-Stalker.md)
 
-***Directed Hunter.*** When an invisible stalker is created, it stays at its summoner’s side until it is given a task to perform. If an assignment doesn’t involve hunting down and slaying a specific creature or recovering an object, the magic that created the invisible stalker ends and the elemental is released. Otherwise, it completes the task, then returns to its summoner for more commands, forced to serve until the magic that binds it expires. If its summoner dies in the interim, the invisible stalker vanishes after completing its task.
+***Directed Hunter.*** When an invisible stalker is created, it stays at its summoner's side until it is given a task to perform. If an assignment doesn't involve hunting down and slaying a specific creature or recovering an object, the magic that created the invisible stalker ends and the elemental is released. Otherwise, it completes the task, then returns to its summoner for more commands, forced to serve until the magic that binds it expires. If its summoner dies in the interim, the invisible stalker vanishes after completing its task.
 
 Most invisible stalkers are an unwilling servant at best, and resent any undertaking assigned. A mission that requires significant time might drive the invisible stalker to pervert the intent of a command unless it is worded carefully. Rumors persist of some invisible stalkers that enjoy the hunt, and choose to remain on the Prime Material Plane even after their task is finished, listening for additional calls (summoning spells) to answer. Such stalkers tend to develop an alignment other than neutral, depending on their feelings about the hunt.
 
-***Unseen Threat.*** Invisible stalkers are composed of air and are naturally invisible. A creature might hear and feel an invisible stalker in passing, but the elemental remains invisible even when it attacks. A spell that allows someone to see the invisible reveals only the invisible stalker’s vague outline.
+***Unseen Threat.*** Invisible stalkers are composed of air and are naturally invisible. A creature might hear and feel an invisible stalker in passing, but the elemental remains invisible even when it attacks. A spell that allows someone to see the invisible reveals only the invisible stalker's vague outline.
 
 >## Invisible Stalker
 >*Medium elemental, neutral*
@@ -217,7 +217,7 @@ Most invisible stalkers are an unwilling servant at best, and resent any underta
 >- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 >- **Skills** Perception +8, Stealth +10
 >- **Senses** darkvision 60 ft., passive Perception 18
->- **Languages** Auran, understands Common but doesn’t speak it
+>- **Languages** Auran, understands Common but doesn't speak it
 >- **Challenge** 6 (2,300 XP)
 >___
 >***Invisibility.*** The stalker is invisible.
@@ -282,13 +282,13 @@ Anything that touches an magma elemental is magically scalded by an intense burn
 ---
 
 ## Magmin
-A grinning, mischievous magmin resembles a stumpy humanoid sculpted from a black shell of magma. Even when it isn’t ablaze and radiating heat like a bonfire, small jets of flame erupt from its porous skin.
+A grinning, mischievous magmin resembles a stumpy humanoid sculpted from a black shell of magma. Even when it isn't ablaze and radiating heat like a bonfire, small jets of flame erupt from its porous skin.
 
 ![](Elemental-Magmin.png)
 
 ***Summoned Pyromaniacs.*** Magmins are fire elemental essence bound into physical form by magic, and they appear in the Material Plane only when summoned. It takes little time for them to develop personalities, and those personalities tend to be pyromaniacal. They view flammable objects as kindling for a grand conflagration, and only the magical control exerted by their summoners keeps them from setting everything they touch ablaze. Their propensity for fire and havoc makes them ideal for spreading chaos and destruction. A mob of magmins summoned inside a castle can reduce it to a burning shell within minutes.
 
-***Fiery Destruction.*** Although its flame is potent, the magmin’s hard magma shell prevents it from instantly igniting everything it comes into contact with. However, like the fires inside them, magmins are capricious and unpredictable. Moreover, as simple elemental creations, they are oblivious to the harm their native element causes creatures of the Material Plane.
+***Fiery Destruction.*** Although its flame is potent, the magmin's hard magma shell prevents it from instantly igniting everything it comes into contact with. However, like the fires inside them, magmins are capricious and unpredictable. Moreover, as simple elemental creations, they are oblivious to the harm their native element causes creatures of the Material Plane.
 
 If it has the opportunity while in service to its master, a magmin seeks out areas of great heat, such as forest fires or the bubbling magma of an active volcano. At other times, a magmin compulsively looses fire from its fingertips, delighting in setting objects ablaze.
 
@@ -312,7 +312,7 @@ If it has the opportunity while in service to its master, a magmin seeks out are
 >___
 >***Feature.***   
 >
->***Death Burst.*** When the magmin dies, it explodes in a burst of fire and magma. Each creature within 10 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. Flammable objects that aren’t being worn or carried in that area are ignited.
+>***Death Burst.*** When the magmin dies, it explodes in a burst of fire and magma. Each creature within 10 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. Flammable objects that aren't being worn or carried in that area are ignited.
 >
 >***Ignited Illumination.*** As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 >
@@ -388,7 +388,7 @@ A sand assassin resembles an athletic human made entirely of sand usually with m
 >- **Languages** Aquan
 >- **Challenge** 5 (1,800 XP)
 >___
->***Water Form.*** The elemental can enter a hostile creature’s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+>***Water Form.*** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 >
 >***Freeze.*** If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn.
 >
@@ -399,9 +399,9 @@ A sand assassin resembles an athletic human made entirely of sand usually with m
 >
 >***Slam.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 >
->***Whelm (Recharge 4–6).*** Each creature in the elemental’s space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental’s space.
+>***Whelm (Recharge 4–6).*** Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.
 >
->The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental’s turns, each target grappled by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength check and succeeding.
+>The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target grappled by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength check and succeeding.
 
 ---
 
@@ -414,7 +414,7 @@ A water weird is an elemental guardian bound to a specific water-filled location
 
 A neutral good water weird tries to frighten away interlopers rather than kill them, while a neutral evil water weird kills its victims for pleasure and might turn against its summoner. A water weird loses its evil alignment if its waters are cleansed with a purify food and drink spell.
 
-***Elemental Nature.*** A water weird doesn’t require air, food, drink, or sleep.
+***Elemental Nature.*** A water weird doesn't require air, food, drink, or sleep.
 
 >### Water Weird
 >*Large elemental, neutral*
@@ -436,7 +436,7 @@ A neutral good water weird tries to frighten away interlopers rather than kill t
 >- **Condition Immunities** exhaustion,grappled,paralyzed,poisoned,restrained,prone,unconscious
 >- **Skills** 
 >- **Senses** blindsight 30 ft.,passive Perception 10
->- **Languages** understands Aquan but doesn’t speak
+>- **Languages** understands Aquan but doesn't speak
 >- **Challenge** 3
 >___
 >***Invisible in Water.*** The water weird is invisible while fully immersed in water.
@@ -444,5 +444,5 @@ A neutral good water weird tries to frighten away interlopers rather than kill t
 >***Water Bound.*** The water weird dies if it leaves the water to which it is bound or if that water is destroyed.
 >
 >#### Actions
->***Constrict.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit: 13 (3d6 + 3) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 13) and pulled 5 feet toward the water weird. Until this grapple ends, the target is restrained, the water weird tries to drown it, and the water weird can’t constrict another target.
+>***Constrict.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit: 13 (3d6 + 3) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 13) and pulled 5 feet toward the water weird. Until this grapple ends, the target is restrained, the water weird tries to drown it, and the water weird can't constrict another target.
 >

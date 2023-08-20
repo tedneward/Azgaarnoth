@@ -63,7 +63,7 @@ Ranging from the mouser on the farm to the King of Beasts, the feline species, i
 >___
 >***Keen Smell.*** The lion has advantage on Wisdom (Perception) checks that rely on smell.
 >
->***Pack Tactics.*** The lion has advantage on an attack roll against a creature if at least one of the lion’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+>***Pack Tactics.*** The lion has advantage on an attack roll against a creature if at least one of the lion's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 >***Pounce.*** If the lion moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action.
 >
