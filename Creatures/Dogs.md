@@ -1,7 +1,7 @@
-# Dog
+# Dogs
+From "bark bark" to "Oh shit we need to get out of here NOW" canines.
 
-
-> Jump to: [Dog](#dog) | [Blink Dog](#blink-dog) | [Death Dog](#death-dog) | [Giant Hyena]() | [Hell Hound](#hell-hound) | [Hyena](#hyena) | [Jackal]() | [Mastiff](#mastiff) | [Withered Hound](#withered-hound)
+> Jump to: [Dog](#dog) | [Blink Dog](#blink-dog) | [Death Dog](#death-dog) | [Giant Hyena](#giant-hyena) | [Hell Hound](#hell-hound) | [Hyena](#hyena) | [Jackal](#jackal) | [Mastiff](#mastiff) | [Withered Hound](#withered-hound)
 
 ---
 

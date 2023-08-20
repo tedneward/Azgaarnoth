@@ -1,7 +1,7 @@
-# Bat
+# Bats
+The leathery-winged insect-eating "great to keep as a pet to keep away the mosquitos" kind all the way up to the "leave you with nightmares for the rest of your natural life" kind.
 
-
-> Jump to: [Bat](#bat-1) | [Giant Bat](#giant-bat) | [Swarm](#swarm-of-bats) | [Withered](#withered-bat)
+> Jump to: [Bat](#bat) | [Giant Bat](#giant-bat) | [Swarm](#swarm-of-bats) | [Withered](#withered-bat)
 
 ---
 

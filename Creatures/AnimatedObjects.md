@@ -1,7 +1,7 @@
 # Animated Objects
 Animated objects are crafted with potent magic to follow the commands of their creators. When not commanded, they follow the last order they received to the best of their ability, and can act independently to fulfill simple instructions. Some animated objects (including many of those created in the Feywild) might converse fluently or adopt a persona, but most are simple automatons.
 
-> Jump to: 
+> Jump to: [Armor](#animated-armor) | [Flying Sword](#flying-sword) | [Rug of Smothering](#rug-of-smothering)
 
 ***Constructed Nature.*** An animated object doesn’t require air, food, drink, or sleep.
 

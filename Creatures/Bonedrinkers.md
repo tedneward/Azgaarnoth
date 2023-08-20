@@ -1,7 +1,7 @@
-# Bonedrinker
+# Bonedrinkers
 This gaunt creature is humanoid in shape, except for two long, writhing, pale tentacles that sprout from beneath its arms. Although its features are somewhat goblinoid in appearance, wicked talons cap its long, spindly fingers, and its wide maw opens to reveal many sharp teeth, including six 6-inch-long fangs. Its hairless, gray-skinned body is covered in oozing sores that weep a pale white fluid.
 
-> Jump to: [Bonedrinker](#bonedrinker-1) | [Lesser](#lesser-bonedrinker) | [Greater](#greater-bonedrinker)
+> Jump to: [Bonedrinker](#bonedrinker) | [Lesser](#lesser-bonedrinker) | [Greater](#greater-bonedrinker)
 
 ![](Bonedrinker.jpg)
 

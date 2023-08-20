@@ -9,6 +9,9 @@ import os
 import sqlite3
 import sys
 
+def linkify(string):
+    return '#' + string.replace('/','').replace(' ','').lower()
+
 # These sorts of creature entries are typically for a collection of such; the
 # "Troll" entry, for example, contains "Troll", "Aquatic Troll", "Rot Troll",
 # and so on.
@@ -43,6 +46,10 @@ class Creature:
 
         def __str__(self) -> str:
             return f'***{self.title}.*** {self.text}'
+        
+        def parse(self, line):
+            self.title = ''
+            self.text = ''
         
     class Lair:
         def __init__(self):
@@ -92,8 +99,24 @@ class Creature:
 
     def parseMD(self, mdlines):
         "Parse a list of strings that contain well-formed Markdown"
+        if mdlines[0][0,1] == '# ':
+            # This is a multi-creature file
+            subtypedcreature = SubtypedCreature()
 
-        # Let's assume this is a one-creature file for now: TODO
+            # Start by parsing the SubtypedCreature description text
+
+            # Now loop through the rest of the file, breaking on the '---' breaks
+            # and parse each one as a separate creature
+
+            #return subtypedcreature
+            print("I CAN'T PARSE MULTI_CREATURE FILES YET SORRY")
+        elif mdlines[0][0,1] == '##':
+            # This is a single-creature file
+            return self.parseSingleCreatureMD(mdlines)
+
+    def parseSingleCreatureMD(self, mdlines):
+        "Parse a list of strings that contain well-formed Markdown containing a single creature"
+
         linect = 0
         self.name = mdlines[linect].replace('#', '').strip()
         print(self.name)
@@ -239,7 +262,17 @@ class Creature:
         if len(self.legendaryactions) > 0:
             result +=  ">#### Legendary Actions\n" + self.titleify(self.legendaryactions)
 
-        if len(self.lair) > 0:
+        if self.lair != None:
+            result += '\n'
+            result += f"### A {self.name}'s Lair\n"
+            result += self.lair.description + '\n'
+            result += "\n#### Lair Actions\n"
+            result += "\n* ".join(self.lair.lairactions)
+            result += "\n#### Regional Effects\n"
+            result += self.lair.regionalprefix
+            result += "\n* ".join(self.lair.regionaleffects)
+            result += self.lair.regionalpostfix
+            result += "\n"
 
         return result
 
@@ -339,30 +372,41 @@ def ingest(arg):
             linect += 2
 
         # Now we're in to Actions
+        block = ''
         while linect < len(lines):
             line = lines[linect].strip()
-            if 'Legendary' == line[0:len('Legendary')]:
-                break
+            print("Examining line '" + line + "'")
+            if len(line) == 0:
+                linect += 1
+                continue
+            elif 'Legendary' == line[0:len('Legendary')]:
+                block = 'legendary'
             elif 'Actions' == line[0:len('Actions')]:
-                linect += 2
-                continue
+                block = 'actions'
+            elif 'Bonus Actions' == line[0:len('Actions')]:
+                block = 'bonusactions'
             elif 'Reactions' == line[0:len('Reactions')]:
-                break
+                block = 'actions'
+            elif line[0][0] == 'A' and line.find('Lair') > 0:
+                block = 'lair'
+                creature.lair = Creature.Lair()
+            elif 'Lair Actions' == line[0:len('Lair Actions')]:
+                block = 'lairactions'
+            elif 'Regional Effects' == line[0:len('Regional Effects')]:
+                block = 'laireffects'
             else:
-                creature.actions.append(lines[linect].strip())
+                text = line
+                if block == 'actions': creature.actions.append(text)
+                elif block == 'reactions': creature.reactions.append(text)
+                elif block == 'bonusactions': creature.bonusactions.append(text)
+                elif block == 'legendary': creature.legendaryactions.append(text)
+                elif block == 'lair': creature.lair.description += text
+                elif block == 'lairactions': creature.lair.lairactions.append(text)
+                elif block == 'laireffects': creature.lair.regionaleffects.append(text)
+                else:
+                    print("WTF?!? Unrecognized block! " + block)
 
-            linect += 2
-
-        # Now we're in to Legendary Actions
-        while linect < len(lines):
-            line = lines[linect].strip()
-            if 'Legendary' == line[0:len('Legendary')]:
-                linect += 2
-                continue
-            else:
-                creature.legendaryactions.append(lines[linect].strip())
-
-            linect += 2
+            linect += 1
 
         return creature
 
@@ -385,7 +429,6 @@ def ingest(arg):
             creature = ingestrawstatblock(lines[linect:])
             creature.name = name.strip()
             creature.description = description
-            #creatures.append(creature)
             return creature
 
         def ingestsubtypedcreature(lines):
@@ -439,32 +482,6 @@ def ingest(arg):
         else:
             return ingestsinglecreature(lines)
     
-    def ingestdndbeyondwebp(lines):
-        creaturelist = []
-        currentcreature = None
-
-        # Creature descriptions start on lines starting with '<h2 class="compendium-hr heading-anchor"
-        # and the name is in the 'id' (id="Aarakocra") attribute
-        h2line = '<h2 class="compendium-hr heading-anchor"'
-        linect = 0
-        while linect < len(lines):
-            line = lines[linect]
-
-            if line[0:len(h2line)] == h2line:
-                # Starting a new creature!
-                if currentcreature != None:
-                    creaturelist.append(currentcreature)
-                currentcreature = Creature()
-
-                creaturename = line[len(h2line) + len(' id="'):]
-                currentcreature.name = creaturename[0:creaturename.index('"')]
-
-            linect += 1
-
-        creaturelist.append(currentcreature)
-        print(creaturelist)
-        return creaturelist
-
     def ingestmymdformat(lines):
         if lines[3][0:len('**Armor Class**')] != '**Armor Class**':
             # This is one of my multi-statblock formats

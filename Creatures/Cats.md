@@ -1,9 +1,10 @@
-# Cat
+# Cats
 Ranging from the mouser on the farm to the King of Beasts, the feline species, in all its forms, can be found all across Azgaarnoth.
 
-> Jump to: [Cat](#cat-1) | [Lion](#lion) [Panther](#panther) | [Saber-Toothed Tiger](#saber-toothed-tiger) | [Tiger](#tiger)
+> Jump to: [Cat](#cat) | [Lion](#lion) [Panther](#panther) | [Saber-Toothed Tiger](#saber-toothed-tiger) | [Tiger](#tiger)
 
 ## Cat
+Meow. Purr.
 
 >### Cat
 >*Tiny beast, unaligned*

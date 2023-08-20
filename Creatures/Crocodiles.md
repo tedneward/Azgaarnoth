@@ -1,7 +1,7 @@
-# Crocodile
+# Crocodiles
 The crocodile is common to the marshlands of [Yithi](../Nations/Yithi.md), [Zhi](../Nations/Zhi.md), and southeastern [Liria](../Nations/Liria.md). They are also found, but more rarely, along the shores of many of the larger rivers across all of Azgaarnoth.
 
-> Jump to: [Crocodile](#crocodile-1) | [Giant Crocodile](#giant-crocodile)
+> Jump to: [Crocodile](#crocodile) | [Giant Crocodile](#giant-crocodile)
 
 ## Crocodile
 
