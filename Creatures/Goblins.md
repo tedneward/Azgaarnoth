@@ -13,7 +13,7 @@ Goblins are small, black-hearted, selfish humanoids that lair in caves, abandone
 
 ***Rat Keepers and Wolf Riders.*** Goblins have an affinity for rats and wolves, raising them to serve as companions and mounts, respectively. Like rats, goblins shun sunlight and sleep underground during the day. Like wolves, they are pack hunters, made bolder by their numbers. When they hunt from the backs of wolves, goblins use hit-and-run attacks.
 
-***Worshipers of Maglubiyet.*** Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god of goblinoids. Envisioned by most goblins as an eleven-foot-tall battle-scarred goblin with black skin and fire erupting from his eyes, he is worshiped not out of adoration but fear. Goblins believe that when they die in battle, their spirits join the ranks of Maglubiyet's army on the plane of Acheron. This is a "privilege� that most goblins dread, fearing the Mighty One's eternal tyranny even more than death.
+***Worshipers of Maglubiyet.*** Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god of goblinoids. Envisioned by most goblins as an eleven-foot-tall battle-scarred goblin with black skin and fire erupting from his eyes, he is worshiped not out of adoration but fear. Goblins believe that when they die in battle, their spirits join the ranks of Maglubiyet's army on the plane of Acheron. This is a "privilege" that most goblins dread, fearing the Mighty One's eternal tyranny even more than death.
 
 
 ---
@@ -43,12 +43,12 @@ Goblins are small, black-hearted, selfish humanoids that lair in caves, abandone
 >- **Languages** Common,Goblin
 >- **Challenge** 1/4
 >___
->***Nimble Escape.***. The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
+>***Nimble Escape.*** The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
 >
 >#### Actions
->***Scimitar.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
+>***Scimitar.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 >
->***Shortbow.***. Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+>***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 >
 
 ---
@@ -78,16 +78,16 @@ Goblins are small, black-hearted, selfish humanoids that lair in caves, abandone
 >- **Languages** Common,Goblin
 >- **Challenge** 1
 >___
->***Nimble Escape.***. The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
+>***Nimble Escape.*** The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
 >
 >#### Actions
->***Multiattack.***. The goblin makes two attacks with its scimitar. The second attack has disadvantage.
+>***Multiattack.*** The goblin makes two attacks with its scimitar. The second attack has disadvantage.
 >
->***Scimitar.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
+>***Scimitar.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 >
->***Javelin.***. Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 3 (1d6) piercing damage.
+>***Javelin.*** Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 3 (1d6) piercing damage.
 >
->***Redirect Attack.***. When a creature the goblin can see targets it with an attack, the goblin chooses another goblin within 5 feet of it. The two goblins swap places, and the chosen goblin becomes the target instead.
+>***Redirect Attack.*** When a creature the goblin can see targets it with an attack, the goblin chooses another goblin within 5 feet of it. The two goblins swap places, and the chosen goblin becomes the target instead.
 >
 
 ---
@@ -120,22 +120,22 @@ Some Goblin Worg Riders have learned to ride [Dire Wolves](Wolves.md#dire-wolf) 
 >- **Languages** Common,Goblin
 >- **Challenge** 1
 >___
->***Keen Hearing and Sight.***. The worg rider has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+>***Keen Hearing and Sight.*** The worg rider has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 >
->***One Mind.***. The worg rider and its mount act on the same initiative count while mounted.
+>***One Mind.*** The worg rider and its mount act on the same initiative count while mounted.
 >
->***Nimble Escape.***. The worg rider can take the Disengage or Hide action as a bonus action on each of its turns, and do so for both itself and its mount.
+>***Nimble Escape.*** The worg rider can take the Disengage or Hide action as a bonus action on each of its turns, and do so for both itself and its mount.
 >
->***Mobile.***. Goblin Worg Riders are particularly speedy and agile. While mounted, they gain the following benefits:
+>***Mobile.*** Goblin Worg Riders are particularly speedy and agile. While mounted, they gain the following benefits:
 >
 >When they use the Dash action, difficult terrain doesn't cost them extra movement on that turn.
 >
 >When they make a melee attack against a creature, they don't provoke opportunity attacks from that creature for the rest of the turn, whether they hit or not. (Worg Riders will instinctively and deliberately time their move/attack combos to single out a creature, attack, and nip away before a return attack can come.)
 >
 >#### Actions
->***Multiattack.***. The worg rider makes two melee attacks or two ranged attacks.
+>***Multiattack.*** The worg rider makes two melee attacks or two ranged attacks.
 >
->***Scimitar.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
+>***Scimitar.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 >
->***Shortbow.***. Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage. Worg riders can fire while mounted without penalty.
+>***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage. Worg riders can fire while mounted without penalty.
 >

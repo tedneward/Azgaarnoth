@@ -44,14 +44,14 @@ Spoils of Slaughter. Over time, grick lairs accumulate the cast-off possessions 
 >- **Languages** —
 >- **Challenge** 2
 >___
->***Stone Camouflage.***. The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+>***Stone Camouflage.*** The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 >
 >#### Actions
->***Multiattack.***. The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.
+>***Multiattack.*** The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.
 >
->***Tentacles.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.
+>***Tentacles.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.
 >
->***Beak.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+>***Beak.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 >
 
 ---
@@ -81,15 +81,15 @@ Spoils of Slaughter. Over time, grick lairs accumulate the cast-off possessions 
 >- **Languages** —
 >- **Challenge** 7
 >___
->***Stone Camouflage.***. The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+>***Stone Camouflage.*** The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 >
 >#### Actions
->***Multiattack.***. The grick makes two attacks: one with its tail and one with its tentacles. If it hits with its tentacles, the grick can make one beak attack against the same target.
+>***Multiattack.*** The grick makes two attacks: one with its tail and one with its tentacles. If it hits with its tentacles, the grick can make one beak attack against the same target.
 >
->***Tail.***. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
+>***Tail.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 >
->***Tentacles.***. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 22 (4d8 + 4) slashing damage.
+>***Tentacles.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 22 (4d8 + 4) slashing damage.
 >
->***Beak.***. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
+>***Beak.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
 >
 

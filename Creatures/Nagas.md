@@ -41,7 +41,7 @@ In response to the long history of conflict between the yuan-ti and the nagas, y
 >- **Languages** Common plus one other language
 >- **Challenge** 4
 >___
->***Spellcasting.***. The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell attacks) that needs only verbal components to cast its spells.
+>***Spellcasting.*** The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell attacks) that needs only verbal components to cast its spells.
 >
 >If the naga was a guardian naga in life, its spellcasting ability is Wisdom, and it has the following cleric spells prepared:
 >
@@ -64,7 +64,7 @@ In response to the long history of conflict between the yuan-ti and the nagas, y
 >3rd level (2 slots): lightning bolt
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit: 10 (2d6 + 3) piercing damage plus 10 (3d6) poison damage.
+>***Bite.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit: 10 (2d6 + 3) piercing damage plus 10 (3d6) poison damage.
 >
 
 ---
@@ -97,9 +97,9 @@ A guardian naga doesn't seek out violence, warning off intruders rather than att
 >- **Languages** Celestial,Common
 >- **Challenge** 10
 >___
->***Rejuvenation.***. If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.
+>***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.
 >
->***Spellcasting.***. The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:
+>***Spellcasting.*** The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:
 >
 >Cantrips (at will): mending, sacred flame, thaumaturgy
 >
@@ -116,9 +116,9 @@ A guardian naga doesn't seek out violence, warning off intruders rather than att
 >6th level (1 slot): true seeing
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit: 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+>***Bite.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit: 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 >
->***Spit Poison.***. Ranged Weapon Attack: +8 to hit, range 15/30 ft., one creature. Hit: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+>***Spit Poison.*** Ranged Weapon Attack: +8 to hit, range 15/30 ft., one creature. Hit: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 >
 
 ---
@@ -149,9 +149,9 @@ Spirit nagas live in gloom and spitefulness, constantly plotting vengeance again
 >- **Languages** Abyssal,Common
 >- **Challenge** 8
 >___
->***Rejuvenation.***. If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.
+>***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.
 >
->***Spellcasting.***. The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:
+>***Spellcasting.*** The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:
 >
 >Cantrips (at will): mage hand, minor illusion, ray of frost
 >
@@ -166,6 +166,6 @@ Spirit nagas live in gloom and spitefulness, constantly plotting vengeance again
 >5th level (2 slots): dominate person
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
+>***Bite.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
 >
 

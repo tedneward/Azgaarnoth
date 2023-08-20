@@ -10,19 +10,19 @@ Ogres are as lazy of mind as they are strong of body. They live by raiding, scav
 ---
 
 ## Ogre
-***Furious Tempers.***. Ogres are notorious for their quick tempers, which flare at the smallest perceived offense. Insults and name-calling can rouse an ogre's wrath in an instant — as can stealing from it, bumping, jabbing, or prodding it, laughing, making faces, or simply looking at it the wrong way. When its rage is incited, an ogre lashes out in a frustrated tantrum until it runs out of objects or creatures to smash.
+***Furious Tempers.*** Ogres are notorious for their quick tempers, which flare at the smallest perceived offense. Insults and name-calling can rouse an ogre's wrath in an instant — as can stealing from it, bumping, jabbing, or prodding it, laughing, making faces, or simply looking at it the wrong way. When its rage is incited, an ogre lashes out in a frustrated tantrum until it runs out of objects or creatures to smash.
 
-***Gruesome Gluttons.***. Ogres eat almost anything, but they especially enjoy the taste of dwarves, halflings, and elves. When they can, they combine dinner with pleasure, chasing scurrying victims around before eating them raw. If enough of its victim remains after the ogre has gorged itself, it might make a loincloth from its quarry's skin and a necklace from its leftover bones. This macabre crafting is the height of ogre culture.
+***Gruesome Gluttons.*** Ogres eat almost anything, but they especially enjoy the taste of dwarves, halflings, and elves. When they can, they combine dinner with pleasure, chasing scurrying victims around before eating them raw. If enough of its victim remains after the ogre has gorged itself, it might make a loincloth from its quarry's skin and a necklace from its leftover bones. This macabre crafting is the height of ogre culture.
 
-***Greedy Collectors.***. An ogre's eyes glitter with avarice when it sees the possessions of others. Ogres carry rough sacks on their raids, which they fill with fabulous "treasure� taken from their victims. This might include a collection of battered helmets, a moldy wheel of cheese, a rough patch of animal fur fastened like a cloak, or a squealing, mud-spattered pig. Ogres also delight in the gleam of gold and silver, and they will fight one another over small handfuls of coins. Smarter creatures can earn an ogre's trust by offering it gold or a weapon forged for a creature of its size.
+***Greedy Collectors.*** An ogre's eyes glitter with avarice when it sees the possessions of others. Ogres carry rough sacks on their raids, which they fill with fabulous "treasure" taken from their victims. This might include a collection of battered helmets, a moldy wheel of cheese, a rough patch of animal fur fastened like a cloak, or a squealing, mud-spattered pig. Ogres also delight in the gleam of gold and silver, and they will fight one another over small handfuls of coins. Smarter creatures can earn an ogre's trust by offering it gold or a weapon forged for a creature of its size.
 
-***Legendary Stupidity.***. Few ogres can count to ten, even with their fingers in front of them. Most speak only a rudimentary form of Giant and know a smattering of Common words. Ogres believe what they are told and are easy to fool or confuse, but they break things they don't understand. Silver-tongued tricksters who test their talents on ogres typically end up eating their eloquent words — and then being eaten in turn.
+***Legendary Stupidity.*** Few ogres can count to ten, even with their fingers in front of them. Most speak only a rudimentary form of Giant and know a smattering of Common words. Ogres believe what they are told and are easy to fool or confuse, but they break things they don't understand. Silver-tongued tricksters who test their talents on ogres typically end up eating their eloquent words — and then being eaten in turn.
 
-***Opportunistic Wanderers.***. Ogres clothe themselves in animal pelts and uproot trees for use as tools and weapons. They create stone-tipped javelins for hunting. When they establish lairs, they settle near the rural edges of settled lands, taking advantage of poorly protected livestock, undefended larders, and unwary farmers.
+***Opportunistic Wanderers.*** Ogres clothe themselves in animal pelts and uproot trees for use as tools and weapons. They create stone-tipped javelins for hunting. When they establish lairs, they settle near the rural edges of settled lands, taking advantage of poorly protected livestock, undefended larders, and unwary farmers.
 
 An ogre sleeps in caves, animal dens, or under trees until it finds a cabin or isolated farmhouse, whereupon it kills the inhabitants and lairs there. Whenever it is bored or hungry, an ogre ventures out from its lair, attacking anything that crosses its path. Only after an ogre has depleted an area of food does it move on.
 
-***Ogre Gangs.***. Ogres sometimes band together in small, nomadic groups, but they lack a true sense of tribalism. When bands of ogres meet, one might attempt to capture the members of the other group to increase its numbers. However, ogre bands are just as likely to trade members freely, especially if the welcoming band is temporarily flush with food and weapons.
+***Ogre Gangs.*** Ogres sometimes band together in small, nomadic groups, but they lack a true sense of tribalism. When bands of ogres meet, one might attempt to capture the members of the other group to increase its numbers. However, ogre bands are just as likely to trade members freely, especially if the welcoming band is temporarily flush with food and weapons.
 
 Whenever possible, ogres gang up with other monsters to bully or prey on creatures weaker than themselves. They associate freely with goblinoids, orcs, and trolls, and practically worship giants. In the giants' complex social structure (known as the ordning), ogres rank beneath the lowest giants in status. As a result, an ogre will do nearly anything a giant asks.
 
@@ -50,9 +50,9 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 >- **Challenge** 2
 >___
 >#### Actions
->***Greatclub.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
+>***Greatclub.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 >
->***Javelin.***. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
+>***Javelin.*** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
 >
 
 ---
@@ -85,12 +85,12 @@ An ogre battering ram carries an enormous club used primarily for bashing doors 
 >- **Languages** Common,Giant
 >- **Challenge** 4
 >___
->***Siege Monster.***. The ogre deals double damage to objects and structures.
+>***Siege Monster.*** The ogre deals double damage to objects and structures.
 >
 >#### Actions
->***Bash.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) bludgeoning damage, and the ogre can push the target 5 feet away if the target is Huge or smaller.
+>***Bash.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) bludgeoning damage, and the ogre can push the target 5 feet away if the target is Huge or smaller.
 >
->***Block the Path.***. Until the start of the ogre's next turn, attack rolls against the ogre have disadvantage, it has advantage on the attack roll it makes for an opportunity attack, and that attack deals an extra 16 (3d10) bludgeoning damage on a hit. Also, each enemy that tries to move out of the ogre's reach without teleporting must succeed on a DC 14 Strength saving throw or have its speed reduced to 0 until the start of the ogre's next turn.
+>***Block the Path.*** Until the start of the ogre's next turn, attack rolls against the ogre have disadvantage, it has advantage on the attack roll it makes for an opportunity attack, and that attack deals an extra 16 (3d10) bludgeoning damage on a hit. Also, each enemy that tries to move out of the ogre's reach without teleporting must succeed on a DC 14 Strength saving throw or have its speed reduced to 0 until the start of the ogre's next turn.
 >
 
 ---
@@ -122,9 +122,9 @@ A bolt launcher carries a gigantic crossbow — a weapon so large it's essential
 >- **Challenge** 2
 >___
 >#### Actions
->***Fist.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.
+>***Fist.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.
 >
->***Bolt Launcher.***. Ranged Weapon Attack: +3 to hit, range 120/480 ft., one target. Hit: 17 (3d10 + 1) piercing damage.
+>***Bolt Launcher.*** Ranged Weapon Attack: +3 to hit, range 120/480 ft., one target. Hit: 17 (3d10 + 1) piercing damage.
 >
 
 ---
@@ -226,9 +226,9 @@ The offspring of an ogre and any of a human, a hobgoblin, a bugbear, or an orc i
 >- **Challenge** 1
 >___
 >#### Actions
->***Battleaxe.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage if used with two hands.
+>***Battleaxe.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage if used with two hands.
 >
->***Javelin.***. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
+>***Javelin.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
 >
 
 ---
@@ -236,9 +236,9 @@ The offspring of an ogre and any of a human, a hobgoblin, a bugbear, or an orc i
 ## Oni
 In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of children and adults alike, yet they are very real and always hungry. They find human babies especially delicious. Oni look like demonic ogres with blue or green skin, dark hair, and a pair of short ivory horns protruding from their foreheads. Their eyes are dark with strikingly white pupils, and their teeth and claws are jet black.
 
-***Night Haunters.***. By the light of day, an oni hides its true form with magic, gaining the trust of those it intends to betray when darkness descends. These creatures can change their size as well as their shape, appearing as humanoids as they pass through towns, pretending to be travelers, woodcutters, or frontier folk. In such a form, an oni takes stock of the selection of humanoids in a settlement and devises ways to abduct and devour some of them.
+***Night Haunters.*** By the light of day, an oni hides its true form with magic, gaining the trust of those it intends to betray when darkness descends. These creatures can change their size as well as their shape, appearing as humanoids as they pass through towns, pretending to be travelers, woodcutters, or frontier folk. In such a form, an oni takes stock of the selection of humanoids in a settlement and devises ways to abduct and devour some of them.
 
-***Magical Ogres.***. Oni are sometimes called ogre mages because of their innate magical ability. Though they are only distantly related to true ogres, they share the ogres' habit of joining forces with other evil creatures. An oni serves a master if doing so proves lucrative or provides it with a luxurious, well-defended home. Oni covet magic, and they work for evil wizards and hags in exchange for useful magic items.
+***Magical Ogres.*** Oni are sometimes called ogre mages because of their innate magical ability. Though they are only distantly related to true ogres, they share the ogres' habit of joining forces with other evil creatures. An oni serves a master if doing so proves lucrative or provides it with a luxurious, well-defended home. Oni covet magic, and they work for evil wizards and hags in exchange for useful magic items.
 
 >### Oni
 >*Large giant, lawful evil*
@@ -263,24 +263,24 @@ In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of childr
 >- **Languages** Common,Giant
 >- **Challenge** 7
 >___
->***Innate Spellcasting.***. The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:
 >
 >At will: darkness, invisibility
 >
 >1/day each: charm person, cone of cold, gaseous form, sleep
 >
->***Magic Weapons.***. The oni's weapon attacks are magical.
+>***Magic Weapons.*** The oni's weapon attacks are magical.
 >
->***Regeneration.***. The oni regains 10 hit points at the start of its turn if it has at least 1 hit point.
+>***Regeneration.*** The oni regains 10 hit points at the start of its turn if it has at least 1 hit point.
 >
 >#### Actions
->***Multiattack.***. The oni makes two attacks, either with its claws or its glaive.
+>***Multiattack.*** The oni makes two attacks, either with its claws or its glaive.
 >
->***Claw (Oni Form Only).***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
+>***Claw (Oni Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
 >
->***Glaive.***. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small or Medium form.
+>***Glaive.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small or Medium form.
 >
->***Change Shape.***. The oni magically polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.
+>***Change Shape.*** The oni magically polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.
 >
 
 ---

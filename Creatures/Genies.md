@@ -34,11 +34,11 @@ Their miraculous powers, the grandeur of their abodes, and the numbers of their 
 ## Dao
 Dao are greedy, malicious genies from the Elemental Plane of Earth. They adorn themselves with jewelry crafted from precious gems and rare metals, and when they fly, their lower bodies become columns of swirling sand. A dao isn't happy unless it is the envy of other dao.
 
-***All That Glitters.***. The dao dwell in complexes of twisting tunnels and glittering ore-veined caverns on the Elemental Plane of Earth. These mazeworks are continually expanding as the dao delve into and reshape the rock around them. Dao care nothing for the poverty or misfortune of others. A dao might grind powdered gems and gold dust over its food to heighten the experience of eating, devouring its wealth as mortals consume a precious spice.
+***All That Glitters.*** The dao dwell in complexes of twisting tunnels and glittering ore-veined caverns on the Elemental Plane of Earth. These mazeworks are continually expanding as the dao delve into and reshape the rock around them. Dao care nothing for the poverty or misfortune of others. A dao might grind powdered gems and gold dust over its food to heighten the experience of eating, devouring its wealth as mortals consume a precious spice.
 
-***Lords of the Earth.***. A dao never assists a mortal unless the genie has something to gain, preferably treasure. Among the genies, dao are on speaking and trading terms with the efreet, but they have nothing but scorn for djinn and marids. Other races native to the Elemental Plane of Earth avoid the dao, which are always seeking more laborers to mine the mazeworks of their floating earth islands.
+***Lords of the Earth.*** A dao never assists a mortal unless the genie has something to gain, preferably treasure. Among the genies, dao are on speaking and trading terms with the efreet, but they have nothing but scorn for djinn and marids. Other races native to the Elemental Plane of Earth avoid the dao, which are always seeking more laborers to mine the mazeworks of their floating earth islands.
 
-***Proud Overseers.***. Dao force those they enslave to work in dangerous subterranean realms that rumble with earthquakes.
+***Proud Overseers.*** Dao force those they enslave to work in dangerous subterranean realms that rumble with earthquakes.
 
 As much as they enjoy enslaving others, the dao hate being enslaved. Powerful wizards have been known to lure dao to the Material Plane and trap them in the confines of magic gemstones or iron flasks. Unfortunately for the dao, their greed makes it relatively easy for mages to cozen them into service.
 
@@ -65,11 +65,11 @@ As much as they enjoy enslaving others, the dao hate being enslaved. Powerful wi
 >- **Languages** Terran
 >- **Challenge** 11
 >___
->***Earth Glide.***. The dao can burrow through nonmagical, unworked earth and stone. While doing so, the dao doesn't disturb the material it moves through.
+>***Earth Glide.*** The dao can burrow through nonmagical, unworked earth and stone. While doing so, the dao doesn't disturb the material it moves through.
 >
->***Elemental Demise.***. If the dao dies, its body disintegrates into crystalline powder, leaving behind only equipment the dao was wearing or carrying.
+>***Elemental Demise.*** If the dao dies, its body disintegrates into crystalline powder, leaving behind only equipment the dao was wearing or carrying.
 >
->***Innate Spellcasting.***. The dao's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The dao's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 >
 >At will: detect evil and good, detect magic, stone shape
 >
@@ -77,14 +77,14 @@ As much as they enjoy enslaving others, the dao hate being enslaved. Powerful wi
 >
 >1/day each: conjure elemental (earth elemental only), gaseous form, invisibility, phantasmal killer, plane shift, wall of stone
 >
->***Sure-Footed.***. The dao has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+>***Sure-Footed.*** The dao has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 >
 >#### Actions
->***Multiattack.***. The dao makes two fist attacks or two maul attacks.
+>***Multiattack.*** The dao makes two fist attacks or two maul attacks.
 >
->***Fist.***. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage.
+>***Fist.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage.
 >
->***Maul.***. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 20 (4d6 + 6) bludgeoning damage. If the target is a Huge or smaller creature, it must succeed on a DC 18 Strength check or be knocked prone.
+>***Maul.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 20 (4d6 + 6) bludgeoning damage. If the target is a Huge or smaller creature, it must succeed on a DC 18 Strength check or be knocked prone.
 >
 
 ---
@@ -92,13 +92,13 @@ As much as they enjoy enslaving others, the dao hate being enslaved. Powerful wi
 ## Djinni
 Proud, sensuous genies from the Elemental Plane of Air, the djinn are attractive, tall, well-muscled humanoids with blue skin and dark eyes. They dress in airy, shimmering silks, designed as much for comfort as to flaunt their musculature.
 
-***Airy Aesthetes.***. Djinn rule floating islands of cloudstuff covered with enormous pavilions, or topped with wondrous buildings, courtyards, fountains, and gardens. Creatures of comfort and ease, djinn enjoy succulent fruits, pungent wines, fine perfumes, and beautiful music.
+***Airy Aesthetes.*** Djinn rule floating islands of cloudstuff covered with enormous pavilions, or topped with wondrous buildings, courtyards, fountains, and gardens. Creatures of comfort and ease, djinn enjoy succulent fruits, pungent wines, fine perfumes, and beautiful music.
 
 Djinn are known for their sense of mischief and their favorable attitude toward mortals. Among genies, djinn deal coolly with efreet and marids, whom they view as haughty. They openly despise dao and strike against them with little provocation.
 
-***Masters of the Wind.***. Masters of the air, the djinn ride powerful whirlwinds that they create and direct on a whim, and which can even carry passengers. Creatures that stand against a djinni are assaulted by wind and thunder, even as the djinni spins away on that wind if outmatched in combat. When a djinni flies, its lower body transforms into a column of swirling air.
+***Masters of the Wind.*** Masters of the air, the djinn ride powerful whirlwinds that they create and direct on a whim, and which can even carry passengers. Creatures that stand against a djinni are assaulted by wind and thunder, even as the djinni spins away on that wind if outmatched in combat. When a djinni flies, its lower body transforms into a column of swirling air.
 
-***Accepting Servitors.***. The djinn believe that servitude is a matter of fate, and that no being can contest the hand of fate. As a result, of all the genies, djinn are the ones most amenable to servitude, though they never enjoy it. Djinn protect those in their employ, treat them kindly, and part with them reluctantly.
+***Accepting Servitors.*** The djinn believe that servitude is a matter of fate, and that no being can contest the hand of fate. As a result, of all the genies, djinn are the ones most amenable to servitude, though they never enjoy it. Djinn protect those in their employ, treat them kindly, and part with them reluctantly.
 
 A mortal who desires the brief service of a djinni can entreat it with fine gifts, or use flattery to bribe it into compliance. Powerful wizards are able to forgo such niceties, however, if they can summon, bind into service, or imprison a djinni using magic. Long-term service displeases a djinni, and imprisonment is inexcusable. Djinn resent the cruel wizards that have imprisoned their kind in bottles, iron flasks, and wind instruments throughout the ages. Betrayal, particularly by a mortal whom a djinni trusted, is a vile deed that only deadly vengeance can amend.
 
@@ -125,9 +125,9 @@ A mortal who desires the brief service of a djinni can entreat it with fine gift
 >- **Languages** Auran
 >- **Challenge** 11
 >___
->***Elemental Demise.***. If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.
+>***Elemental Demise.*** If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.
 >
->***Innate Spellcasting.***. The djinni's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The djinni's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 >
 >At will: detect evil and good, detect magic, thunderwave
 >
@@ -136,11 +136,11 @@ A mortal who desires the brief service of a djinni can entreat it with fine gift
 >1/day each: conjure elemental (air elemental only), creation, gaseous form, invisibility, major image, plane shift
 >
 >#### Actions
->***Multiattack.***. The djinni makes three scimitar attacks.
+>***Multiattack.*** The djinni makes three scimitar attacks.
 >
->***Scimitar.***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (djinni's choice).
+>***Scimitar.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (djinni's choice).
 >
->***Create Whirlwind.***. A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.
+>***Create Whirlwind.*** A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.
 >
 >A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.
 >
@@ -150,11 +150,11 @@ A mortal who desires the brief service of a djinni can entreat it with fine gift
 ## Efreeti
 Hulking genies of the Elemental Plane of Fire, the efreet are masters of flame, immune to fire and able to create it on a whim. Fine silk caftans and damask robes drape their magma-red or coal-black skin, and they bedeck themselves in brass and gold torcs, chains, and rings, all glittering with jewels. When an efreeti flies, its lower body transforms into a column of smoke and embers.
 
-***Haughty and Cruel.***. The efreet are deceptive, cunning, and cruel to the point of ruthlessness. They despise being forced into servitude and are relentless in pursuit of vengeance against creatures that have wronged them. Efreet don't see themselves in this light, naturally, and regard their race as fair and orderly, even as they admit to an enlightened sense of self-interest.
+***Haughty and Cruel.*** The efreet are deceptive, cunning, and cruel to the point of ruthlessness. They despise being forced into servitude and are relentless in pursuit of vengeance against creatures that have wronged them. Efreet don't see themselves in this light, naturally, and regard their race as fair and orderly, even as they admit to an enlightened sense of self-interest.
 
-***Spiteful Enslavers.***. Efreet view all other creatures as enemies or potential serfs. They raid the Material Plane and the elemental planes, bringing captives back to their homes on the Elemental Plane of Fire. Efreet are oppressive tyrants toward those they force to labor for them.
+***Spiteful Enslavers.*** Efreet view all other creatures as enemies or potential serfs. They raid the Material Plane and the elemental planes, bringing captives back to their homes on the Elemental Plane of Fire. Efreet are oppressive tyrants toward those they force to labor for them.
 
-***Planar Raiders.***. Most efreet reside on the Elemental Plane of Fire, either in great domed fortresses of black glass and basalt surrounded by churning lakes of fire, or in the fabled City of Brass. Additionally, efreet military outposts thronging with their minions can be found scattered throughout the planes.
+***Planar Raiders.*** Most efreet reside on the Elemental Plane of Fire, either in great domed fortresses of black glass and basalt surrounded by churning lakes of fire, or in the fabled City of Brass. Additionally, efreet military outposts thronging with their minions can be found scattered throughout the planes.
 
 On the Material Plane, efreet dwell in fiery regions such as volcanoes and the burning expanses of the world's deserts. Their love of the desert brings them into conflict with the djinn that ride the desert whirlwinds, and with the earthbound dao. Efreet utterly despise marids, with whom they have maintained a passionate conflict throughout the history of both races.
 
@@ -181,9 +181,9 @@ On the Material Plane, efreet dwell in fiery regions such as volcanoes and the b
 >- **Languages** Ignan
 >- **Challenge** 11
 >___
->***Elemental Demise.***. If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the efreeti was wearing or carrying.
+>***Elemental Demise.*** If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the efreeti was wearing or carrying.
 >
->***Innate Spellcasting.***. The efreeti's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The efreeti's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 >
 >At will: detect magic
 >
@@ -192,11 +192,11 @@ On the Material Plane, efreet dwell in fiery regions such as volcanoes and the b
 >1/day each: conjure elemental (fire elemental only), gaseous form, invisibility, major image, plane shift, wall of fire
 >
 >#### Actions
->***Multiattack.***. The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
+>***Multiattack.*** The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
 >
->***Scimitar.***. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.
+>***Scimitar.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.
 >
->***Hurl Flame.***. Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 17 (5d6) fire damage.
+>***Hurl Flame.*** Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 17 (5d6) fire damage.
 >
 
 ---
@@ -206,19 +206,19 @@ Hailing from the Elemental Plane of Water, the marids are the most wondrous of g
 
 Large and piscine, marids are a strange sight to behold, particularly when clad in the finely stitched vests and colorful pantaloons they favor. They speak in voices as soft as the sea breeze or as sonorous as storm waves breaking against a rocky cliff. In flight, their lower bodies transform into columns of foamy water.
 
-***Water Lords.***. Water is a marid's native element, and the genie can manipulate water in virtually any way it desires. A marid can walk on water and breathe naturally beneath its surface. It can create water or shape clouds of fog and mist from the vapor in the air. It can even transform itself into mist, or use water as a weapon to bludgeon its foes.
+***Water Lords.*** Water is a marid's native element, and the genie can manipulate water in virtually any way it desires. A marid can walk on water and breathe naturally beneath its surface. It can create water or shape clouds of fog and mist from the vapor in the air. It can even transform itself into mist, or use water as a weapon to bludgeon its foes.
 
-***Marid Homes.***. Marids are rare on the Material Plane. They inhabit mighty and majestic coral fortresses located in the Elemental Plane of Water. These citadels float in the depths of the plane and contain opulent, air-filled chambers where servants and guests reside.
+***Marid Homes.*** Marids are rare on the Material Plane. They inhabit mighty and majestic coral fortresses located in the Elemental Plane of Water. These citadels float in the depths of the plane and contain opulent, air-filled chambers where servants and guests reside.
 
 A marid doesn't expect much from its servants, simply wanting to have them for the prestige. Marids go out of their way to obtain skilled servants, and aren't above kidnapping mortal artists, entertainers, or storytellers for use in their courts.
 
-***Egotistical Hierarchs.***. All marids claim a title of nobility, and the race is awash in shahs, sultans, muftis, and khedives. Most of these titles are mere pretense on the part of the self-important marids.
+***Egotistical Hierarchs.*** All marids claim a title of nobility, and the race is awash in shahs, sultans, muftis, and khedives. Most of these titles are mere pretense on the part of the self-important marids.
 
 Marids treat all others — including other genies — as inferiors of various grades, ranging from poor cousins to petty annoyances. They tolerate djinn, dislike dao, and despise efreet.
 
 Humanoids are among the lowest of the creatures that marids must tolerate, although they sometimes deal with powerful wizards and exceptional leaders on an almost-equal footing. Doing so has sometimes proven to be a mistake, since wizards have managed to imprison marids in conch shells, flasks, and decanters over the ages. Bribery and flattery are the best means of dealing with marids, to which an obsequious mortal is a creature that knows its place.
 
-***Whimsical Storytellers.***. Marids are champion tale-tellers, whose favorite legends emphasize the prowess of marids in general and of the speaker in particular. Fanciful genies, they lie often and creatively. They aren't always malicious in their deception, but embellishments suit their fancy. Marids consider it a crime for a lesser being to interrupt one of their tales, and offending a marid is a sure way to invoke its wrath.
+***Whimsical Storytellers.*** Marids are champion tale-tellers, whose favorite legends emphasize the prowess of marids in general and of the speaker in particular. Fanciful genies, they lie often and creatively. They aren't always malicious in their deception, but embellishments suit their fancy. Marids consider it a crime for a lesser being to interrupt one of their tales, and offending a marid is a sure way to invoke its wrath.
 
 >### Marid
 >*Large elemental, chaotic neutral*
@@ -243,11 +243,11 @@ Humanoids are among the lowest of the creatures that marids must tolerate, altho
 >- **Languages** Aquan
 >- **Challenge** 11
 >___
->***Amphibious.***. The marid can breathe air and water.
+>***Amphibious.*** The marid can breathe air and water.
 >
->***Elemental Demise.***. If the marid dies, its body disintegrates into a burst of water and foam, leaving behind only equipment the marid was wearing or carrying.
+>***Elemental Demise.*** If the marid dies, its body disintegrates into a burst of water and foam, leaving behind only equipment the marid was wearing or carrying.
 >
->***Innate Spellcasting.***. The marid's innate spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The marid's innate spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 >
 >At will: create or destroy water, detect evil and good, detect magic, fog cloud, purify food and drink
 >
@@ -256,10 +256,10 @@ Humanoids are among the lowest of the creatures that marids must tolerate, altho
 >1/day each: conjure elemental (water elemental only), control water, gaseous form, invisibility, plane shift
 >
 >#### Actions
->***Multiattack.***. The marid makes two trident attacks.
+>***Multiattack.*** The marid makes two trident attacks.
 >
->***Trident.***. Melee or Ranged Weapon Attack: +10 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 13 (2d6 + 6) piercing damage, or 15 (2d8 + 6) piercing damage if used with two hands to make a melee attack.
+>***Trident.*** Melee or Ranged Weapon Attack: +10 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 13 (2d6 + 6) piercing damage, or 15 (2d8 + 6) piercing damage if used with two hands to make a melee attack.
 >
->***Water Jet.***. The marid magically shoots water in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw. On a failure, a target takes 21 (6d6) bludgeoning damage and, if it is Huge or smaller, is pushed up to 20 feet away from the marid and knocked prone. On a success, a target takes half the bludgeoning damage, but is neither pushed nor knocked prone.
+>***Water Jet.*** The marid magically shoots water in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw. On a failure, a target takes 21 (6d6) bludgeoning damage and, if it is Huge or smaller, is pushed up to 20 feet away from the marid and knocked prone. On a success, a target takes half the bludgeoning damage, but is neither pushed nor knocked prone.
 >
 

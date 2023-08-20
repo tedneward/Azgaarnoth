@@ -68,16 +68,16 @@ As disciplined as they are, the githzerai have never forgotten their long impris
 >- **Languages** Gith
 >- **Challenge** 3
 >___
->***Innate Spellcasting (Psionics).***. The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:
+>***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:
 >
 >At will: mage hand (the hand is invisible)
 >
 >3/day each: jump, misty step, nondetection (self only)
 >
 >#### Actions
->***Multiattack.***. The githyanki makes two greatsword attacks.
+>***Multiattack.*** The githyanki makes two greatsword attacks.
 >
->***Greatsword.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage plus 7 (2d6) psychic damage.
+>***Greatsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage plus 7 (2d6) psychic damage.
 >
 
 ---
@@ -107,7 +107,7 @@ As disciplined as they are, the githzerai have never forgotten their long impris
 >- **Languages** Gith
 >- **Challenge** 8
 >___
->***Innate Spellcasting (Psionics).***. The githyanki's innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no components:
+>***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 >
 >At will: mage hand (the hand is invisible)
 >
@@ -116,9 +116,9 @@ As disciplined as they are, the githzerai have never forgotten their long impris
 >1/day each: plane shift, telekinesis
 >
 >#### Actions
->***Multiattack.***. The githyanki makes two silver greatsword attacks.
+>***Multiattack.*** The githyanki makes two silver greatsword attacks.
 >
->***Silver Greatsword.***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage plus 10 (3d6) psychic damage. This is a magic weapon attack. On a critical hit against a target in an astral body (as with the astral projection spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
+>***Silver Greatsword.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage plus 10 (3d6) psychic damage. This is a magic weapon attack. On a critical hit against a target in an astral body (as with the astral projection spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
 >
 
 ---
@@ -148,18 +148,18 @@ As disciplined as they are, the githzerai have never forgotten their long impris
 >- **Languages** Gith
 >- **Challenge** 2
 >___
->***Innate Spellcasting (Psionics).***. The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:
+>***Innate Spellcasting (Psionics).*** The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:
 >
 >At will: mage hand (the hand is invisible)
 >
 >3/day each: feather fall, jump, see invisibility, shield
 >
->***Psychic Defense.***. While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
+>***Psychic Defense.*** While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 >
 >#### Actions
->***Multiattack.***. The githzerai makes two unarmed strikes.
+>***Multiattack.*** The githzerai makes two unarmed strikes.
 >
->***Unarmed Strike.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage plus 9 (2d8) psychic damage. This is a magic weapon attack.
+>***Unarmed Strike.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage plus 9 (2d8) psychic damage. This is a magic weapon attack.
 >
 
 ---
@@ -190,7 +190,7 @@ Skilled githzerai monks that best exemplify the teachings and principles of Zert
 >- **Languages** Gith
 >- **Challenge** 6
 >___
->***Innate Spellcasting (Psionics).***. The githzerai's spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no components:
+>***Innate Spellcasting (Psionics).*** The githzerai's spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 >
 >At will: mage hand (the hand is invisible)
 >
@@ -198,11 +198,11 @@ Skilled githzerai monks that best exemplify the teachings and principles of Zert
 >
 >1/day each: phantasmal killer, plane shift
 >
->***Psychic Defense.***. While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
+>***Psychic Defense.*** While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 >
 >#### Actions
->***Multiattack.***. The githzerai makes two unarmed strikes.
+>***Multiattack.*** The githzerai makes two unarmed strikes.
 >
->***Unarmed Strike.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage plus 13 (3d8) psychic damage. This is a magic weapon attack.
+>***Unarmed Strike.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage plus 13 (3d8) psychic damage. This is a magic weapon attack.
 >
 

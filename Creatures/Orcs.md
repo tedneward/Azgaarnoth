@@ -15,11 +15,11 @@ When an existing territory is depleted of food, an orc tribe divides into roving
 
 On rare occasions, a tribe's leader chooses to hold onto a particularly defensible lair for decades. The orcs of such a tribe must range far across the countryside to sate their appetites.
 
-***Leadership and Might.***. Orc tribes are mostly patriarchal, flaunting such vivid or grotesque titles as Many-Arrows, Screaming Eye, and Elf Ripper. Occasionally, a powerful war chief unites scattered orc tribes into a single rampaging horde, which runs roughshod over other orc tribes and humanoid settlements from a position of overwhelming strength.
+***Leadership and Might.*** Orc tribes are mostly patriarchal, flaunting such vivid or grotesque titles as Many-Arrows, Screaming Eye, and Elf Ripper. Occasionally, a powerful war chief unites scattered orc tribes into a single rampaging horde, which runs roughshod over other orc tribes and humanoid settlements from a position of overwhelming strength.
 
 Strength and power are the greatest of orcish virtues, and orcs embrace all manner of mighty creatures in their tribes. They proudly welcome ogres, trolls, half-orcs, and orogs into their ranks. As well, orcs respect and fear the size and power of evil giants, and often serve them as guards and soldiers.
 
-***Orc Progeny with Non-Orcs.***. The offspring of an orc and a non-orc humanoid of similar stature is either an orc or a half-orc. When an orc produces young with an ogre, the child is a half-ogre of intimidating strength and brutish features called an ogrillon.
+***Orc Progeny with Non-Orcs.*** The offspring of an orc and a non-orc humanoid of similar stature is either an orc or a half-orc. When an orc produces young with an ogre, the child is a half-ogre of intimidating strength and brutish features called an ogrillon.
 
 ---
 
@@ -48,12 +48,12 @@ Strength and power are the greatest of orcish virtues, and orcs embrace all mann
 >- **Languages** Common,Orc
 >- **Challenge** 1/2
 >___
->***Aggressive.***. As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
+>***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 >
 >#### Actions
->***Greataxe.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.
+>***Greataxe.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.
 >
->***Javelin.***. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+>***Javelin.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 >
 
 ---
@@ -61,7 +61,7 @@ Strength and power are the greatest of orcish virtues, and orcs embrace all mann
 ## Orc War Chief
 The war chief of an orc tribe is its strongest and most cunning member. The reign of a war chief lasts only as long as it commands the fear and respect of other tribe members, whose bloodlust must be regularly satisfied lest the chief appear weak.
 
-***Scions of Slaughter.***. Gruumsh bestows special blessings upon war chiefs who prove themselves in battle time and again, imbuing them with slivers of his savagery. A war chief so blessed finds that his weapons cut deeper into his enemies, allowing him to inflict more carnage.
+***Scions of Slaughter.*** Gruumsh bestows special blessings upon war chiefs who prove themselves in battle time and again, imbuing them with slivers of his savagery. A war chief so blessed finds that his weapons cut deeper into his enemies, allowing him to inflict more carnage.
 
 >### Orc War Chief
 >*Medium humanoid (orc), chaotic evil*
@@ -86,18 +86,18 @@ The war chief of an orc tribe is its strongest and most cunning member. The reig
 >- **Languages** Common,Orc
 >- **Challenge** 4
 >___
->***Aggressive.***. As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
+>***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 >
->***Gruumsh's Fury.***. The orc deals an extra 4 (1d8) damage when it hits with a weapon attack (included in the attacks).
+>***Gruumsh's Fury.*** The orc deals an extra 4 (1d8) damage when it hits with a weapon attack (included in the attacks).
 >
 >#### Actions
->***Multiattack.***. The orc makes two attacks with its greataxe or its spear.
+>***Multiattack.*** The orc makes two attacks with its greataxe or its spear.
 >
->***Greataxe.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 15 (1d12 + 4 plus 1d8) slashing damage.
+>***Greataxe.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 15 (1d12 + 4 plus 1d8) slashing damage.
 >
->***Spear.***. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 12 (1d6 + 4 plus 1d8) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
+>***Spear.*** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 12 (1d6 + 4 plus 1d8) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
 >
->***Battle Cry (1/Day).***. Each creature of the war chief's choice that is within 30 feet of it, can hear it, and not already affected by Battle Cry gain advantage on attack rolls until the start of the war chief's next turn. The war chief can then make one attack as a bonus action.
+>***Battle Cry (1/Day).*** Each creature of the war chief's choice that is within 30 feet of it, can hear it, and not already affected by Battle Cry gain advantage on attack rolls until the start of the war chief's next turn. The war chief can then make one attack as a bonus action.
 >
 
 ---
@@ -130,11 +130,11 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 >- **Languages** Common,Orc
 >- **Challenge** 2
 >___
->***Aggressive.***. As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
+>***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 >
->***Gruumsh's Fury.***. The orc deals an extra 4 (1d8) damage when it hits with a weapon attack (included in the attack).
+>***Gruumsh's Fury.*** The orc deals an extra 4 (1d8) damage when it hits with a weapon attack (included in the attack).
 >
->***Spellcasting.***. The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The orc has the following cleric spells prepared:
+>***Spellcasting.*** The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The orc has the following cleric spells prepared:
 >
 >Cantrips (at-will): guidance, resistance, thaumaturgy
 >
@@ -143,7 +143,7 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 >2nd level (2 slots): augury, spiritual weapon (spear)
 >
 >#### Actions
->***Spear.***. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (1d6 + 3 plus 1d8) piercing damage, or 12 (2d8 + 3) piercing damage if used with two hands to make a melee attack.
+>***Spear.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (1d6 + 3 plus 1d8) piercing damage, or 12 (2d8 + 3) piercing damage if used with two hands to make a melee attack.
 >
 
 ---
@@ -151,15 +151,15 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 ## Orog
 Orogs are orcs blessed with a surprisingly keen intellect that ordinary orcs believe is a gift from the orc goddess Luthic. Like Luthic, orogs prefer to live underground, although the scarcity of food often brings them to the surface to hunt. Orcs respect an orog's strength and cunning, and a lone orog might command an orc war band.
 
-***Stronger and Smarter.***. An orog uses its strength to bully other orcs and its intelligence to surprise enemies on the battlefield. Many an overconfident elf, human, or dwarf commander has watched a "simple� orc warlord execute a clever maneuver to outflank and destroy an opposing force, not realizing the orc is an orog.
+***Stronger and Smarter.*** An orog uses its strength to bully other orcs and its intelligence to surprise enemies on the battlefield. Many an overconfident elf, human, or dwarf commander has watched a "simple" orc warlord execute a clever maneuver to outflank and destroy an opposing force, not realizing the orc is an orog.
 
 When encountered in great numbers, orogs form their own detachments within much larger orc hordes, and they are always at the forefront of any attack, relying on their superior strength and tactical insight to overcome anything that stands in their way.
 
 Few orc tribes actively seek out orogs to bolster their ranks. The orogs' superiority makes them ideal leaders, and thus deadly rivals to orc war chiefs, who must be wary of orog treachery.
 
-***Detached Killers.***. Wanting nothing more than to hack their enemies to pieces, orogs are a terrifying presence on the battlefield. They form no attachments, even to their parents and siblings, and have no concept of love or dedication. They worship the orc pantheon of gods — Gruumsh and Luthic foremost — because they believe that the gods have strength beyond reason, and physical might is all they respect.
+***Detached Killers.*** Wanting nothing more than to hack their enemies to pieces, orogs are a terrifying presence on the battlefield. They form no attachments, even to their parents and siblings, and have no concept of love or dedication. They worship the orc pantheon of gods — Gruumsh and Luthic foremost — because they believe that the gods have strength beyond reason, and physical might is all they respect.
 
-***Servants of Darkness.***. Mistrusted by orcs, some orogs form independent mercenary war bands that sell themselves to the highest bidder. As long as they are rewarded, orog mercenaries gladly serve as elite warriors and shock troops for evil wizards, depraved giants, and other villains.
+***Servants of Darkness.*** Mistrusted by orcs, some orogs form independent mercenary war bands that sell themselves to the highest bidder. As long as they are rewarded, orog mercenaries gladly serve as elite warriors and shock troops for evil wizards, depraved giants, and other villains.
 
 >### Orog
 >*Medium humanoid (orc), chaotic evil*
@@ -184,13 +184,13 @@ Few orc tribes actively seek out orogs to bolster their ranks. The orogs' superi
 >- **Languages** Common,Orc
 >- **Challenge** 2
 >___
->***Aggressive.***. As a bonus action, the orog can move up to its speed toward a hostile creature that it can see.
+>***Aggressive.*** As a bonus action, the orog can move up to its speed toward a hostile creature that it can see.
 >
 >#### Actions
->***Multiattack.***. The orog makes two greataxe attacks.
+>***Multiattack.*** The orog makes two greataxe attacks.
 >
->***Greataxe.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.
+>***Greataxe.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.
 >
->***Javelin.***. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+>***Javelin.*** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
 >
 

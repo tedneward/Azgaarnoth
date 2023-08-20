@@ -13,7 +13,7 @@ When her singing failed to draw Fenmarel Mestarine to her side, the elf cursed t
 
 ***Sadistic Cowards.*** Harpies haunt bleak coastal cliffs and other places hazardous to non-flying creatures. Harpies have no interest in a fair fight, and they never attack unless they have a clear advantage. If a fight turns against a harpy, it lacks the cunning to adapt and will flee and go hungry rather than risk straight-up combat.
 
-When they attack, harpies play with their food, delighting in the "music� their victims make as they scream. A harpy takes its time dismembering a helpless foe and can spend days torturing a victim before the merciful end.
+When they attack, harpies play with their food, delighting in the "music" their victims make as they scream. A harpy takes its time dismembering a helpless foe and can spend days torturing a victim before the merciful end.
 
 ***Gruesome Collectors.*** Harpies take shiny baubles, valuable objects, and other trophies from their victims, sometimes fighting with each other for the right to claim the choicest prizes. When no valuable objects can be found, a harpy takes hair, bones, or body parts to line its nest. A harpy's lair is usually hidden in remote ruins, where adventurers can discover valuable treasure and magic hidden beneath foul piles of offal.
 

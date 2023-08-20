@@ -24,13 +24,13 @@ In drow society, males are subservient to females. A male drow might lead an Und
 ---
 
 ## Drow
-***Children of Lolth.***. The drow worship Lolth, a deity who resides in the Abyss. Known as the Spider Queen or the Demon Queen of Spiders, she is the figure around which the drow have built their subterranean civilization. Whatever she demands, the drow do.
+***Children of Lolth.*** The drow worship Lolth, a deity who resides in the Abyss. Known as the Spider Queen or the Demon Queen of Spiders, she is the figure around which the drow have built their subterranean civilization. Whatever she demands, the drow do.
 
 Drow are seldom seen by the surface world. Though they plot to destroy the elves that banished them, they no longer see themselves as exiles. They are the destined rulers of the darkness, and when Lolth commands them to rise up and destroy their surface-dwelling kin, they will.
 
-***Creatures of Darkness.***. The drow have lived underground for so long that they have evolved to their surroundings and can see in the dark. However, they can no longer stand sunlight. When laborers are in short supply in the Underdark, the drow send raiding parties to the surface to capture humanoids under cover of darkness, bringing them back to their cities to be tortured into submission. Beyond those occasional excursions, the drow are content to remain in their subterranean realm, where they feel secure and in control.
+***Creatures of Darkness.*** The drow have lived underground for so long that they have evolved to their surroundings and can see in the dark. However, they can no longer stand sunlight. When laborers are in short supply in the Underdark, the drow send raiding parties to the surface to capture humanoids under cover of darkness, bringing them back to their cities to be tortured into submission. Beyond those occasional excursions, the drow are content to remain in their subterranean realm, where they feel secure and in control.
 
-***Underdark Cities.***. The drow build fantastic cities in enormous caverns where food and water are abundant. Their ability to sculpt stone rivals that of the greatest dwarf artisans, yet their structures retain a decidedly elven aesthetic. Though appearing delicate, drow settlements are structurally sound and remarkably resilient. The drow like to hollow out enormous stalagmites and stalactites, creating populated spires that rise from the floors and ceilings.
+***Underdark Cities.*** The drow build fantastic cities in enormous caverns where food and water are abundant. Their ability to sculpt stone rivals that of the greatest dwarf artisans, yet their structures retain a decidedly elven aesthetic. Though appearing delicate, drow settlements are structurally sound and remarkably resilient. The drow like to hollow out enormous stalagmites and stalactites, creating populated spires that rise from the floors and ceilings.
 
 >### Drow
 >*Medium humanoid (elf), neutral evil*
@@ -55,20 +55,20 @@ Drow are seldom seen by the surface world. Though they plot to destroy the elves
 >- **Languages** Elvish,Undercommon
 >- **Challenge** 1/4
 >___
->***Fey Ancestry.***. The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
+>***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 >
->***Innate Spellcasting.***. The drow's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The drow's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components:
 >
 >At will: dancing lights
 >
 >1/day each: darkness, faerie fire
 >
->***Sunlight Sensitivity.***. While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Shortsword.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+>***Shortsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 >
->***Hand Crossbow.***. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
+>***Hand Crossbow.*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
 >
 
 ---
@@ -101,24 +101,24 @@ Elite warriors can be male or female.
 >- **Languages** Elvish,Undercommon
 >- **Challenge** 5
 >___
->***Fey Ancestry.***. The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
+>***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 >
->***Innate Spellcasting.***. The drow's spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The drow's spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:
 >
 >At will: dancing lights
 >
 >1/day each: darkness, faerie fire, levitate (self only)
 >
->***Sunlight Sensitivity.***. While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Multiattack.***. The drow makes two shortsword attacks.
+>***Multiattack.*** The drow makes two shortsword attacks.
 >
->***Shortsword.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 10 (3d6) poison damage.
+>***Shortsword.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 10 (3d6) poison damage.
 >
->***Hand Crossbow.***. Ranged Weapon Attack: +7 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
+>***Hand Crossbow.*** Ranged Weapon Attack: +7 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
 >
->***Parry.***. The drow adds 3 to its AC against one melee attack that would hit it. To do so, the drow must see the attacker and be wielding a melee weapon.
+>***Parry.*** The drow adds 3 to its AC against one melee attack that would hit it. To do so, the drow must see the attacker and be wielding a melee weapon.
 >
 
 ---
@@ -149,15 +149,15 @@ Privileged drow males who lack the strength and fighting prowess to train as war
 >- **Languages** Elvish,Undercommon
 >- **Challenge** 7
 >___
->***Fey Ancestry.***. The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
+>***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 >
->***Innate Spellcasting.***. The drow's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:
 >
 >At will: dancing lights
 >
 >1/day each: darkness, faerie fire, levitate (self only)
 >
->***Spellcasting.***. The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The drow has the following wizard spells prepared:
+>***Spellcasting.*** The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The drow has the following wizard spells prepared:
 >
 >Cantrips (at will): mage hand, minor illusion, poison spray, ray of frost
 >
@@ -171,12 +171,12 @@ Privileged drow males who lack the strength and fighting prowess to train as war
 >
 >5th level (2 slots): cloudkill
 >
->***Sunlight Sensitivity.***. While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Staff.***. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d6 − 1) bludgeoning damage, or 3 (1d8 − 1) bludgeoning damage if used with two hands, plus 3 (1d6) poison damage.
+>***Staff.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d6 − 1) bludgeoning damage, or 3 (1d8 − 1) bludgeoning damage if used with two hands, plus 3 (1d6) poison damage.
 >
->***Summon Demon (1/Day).***. The drow magically summons a quasit, or attempts to summon a shadow demon with a 50 percent chance of success. The summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
+>***Summon Demon (1/Day).*** The drow magically summons a quasit, or attempts to summon a shadow demon with a 50 percent chance of success. The summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
 >
 
 ---
@@ -209,15 +209,15 @@ Such priestesses execute the will of the Spider Queen, and as a result, they wie
 >- **Languages** Elvish,Undercommon
 >- **Challenge** 8
 >___
->***Fey Ancestry.***. The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
+>***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 >
->***Innate Spellcasting.***. The drow's innate spellcasting ability is Charisma (spell save DC 15). She can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma (spell save DC 15). She can innately cast the following spells, requiring no material components:
 >
 >At will: dancing lights
 >
 >1/day each: darkness, faerie fire, levitate (self only)
 >
->***Spellcasting.***. The drow is a 10th-level spellcaster. Her spellcasting ability is Wisdom (save DC 14, +6 to hit with spell attacks). The drow has the following cleric spells prepared:
+>***Spellcasting.*** The drow is a 10th-level spellcaster. Her spellcasting ability is Wisdom (save DC 14, +6 to hit with spell attacks). The drow has the following cleric spells prepared:
 >
 >Cantrips (at will): guidance, poison spray, resistance, spare the dying, thaumaturgy
 >
@@ -231,13 +231,13 @@ Such priestesses execute the will of the Spider Queen, and as a result, they wie
 >
 >5th level (2 slots): insect plague, mass cure wounds
 >
->***Sunlight Sensitivity.***. While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Multiattack.***. The drow makes two scourge attacks.
+>***Multiattack.*** The drow makes two scourge attacks.
 >
->***Scourge.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage plus 17 (5d6) poison damage.
+>***Scourge.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage plus 17 (5d6) poison damage.
 >
->***Summon Demon (1/Day).***. The drow attempts to magically summon a yochlol with a 30 percent chance of success. If the attempt fails, the drow takes 5 (1d10) psychic damage. Otherwise, the summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
+>***Summon Demon (1/Day).*** The drow attempts to magically summon a yochlol with a 30 percent chance of success. If the attempt fails, the drow takes 5 (1d10) psychic damage. Otherwise, the summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
 >
 

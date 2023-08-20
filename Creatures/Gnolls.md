@@ -11,7 +11,7 @@ Gnolls are feral humanoids that attack settlements along the frontiers and borde
 
 Gnolls rarely build permanent structures or craft anything of lasting value. They don't make weapons or armor, but scavenge such items from the corpses of their fallen victims, stringing ears, teeth, scalps, and other trophies from their foes onto their patchwork armor. Some gnolls will move into cities, but often their personal hygiene habits clash with those of a city, and as a result most will reside either just outside the city walls in tents or huts, or in the worst parts of town. In fact, more than once a gnoll tribe has moved into the slums of a large city and essentially traded the plunder-and-slaughter of wilderness life for the muted-but-more-rewarding lesser-levels-of-plunder-and-slaughter they can get away with in the Slums. However, should two gnoll tribes encouter each other in the same slums district, they will immediately break out into open conflict until one tribe has defeated and absorbed the other.
 
-***Thirst for Blood.***. No goodness or compassion resides in the heart of a gnoll. Like a demon, it lacks anything resembling a conscience, and can't be taught or coerced to put aside its destructive tendencies. The gnolls' frenzied bloodlust makes them an enemy to all, and when they lack a common foe, they fight among themselves. Even the most savage orcs avoid allying with gnolls.
+***Thirst for Blood.*** No goodness or compassion resides in the heart of a gnoll. Like a demon, it lacks anything resembling a conscience, and can't be taught or coerced to put aside its destructive tendencies. The gnolls' frenzied bloodlust makes them an enemy to all, and when they lack a common foe, they fight among themselves. Even the most savage orcs avoid allying with gnolls.
 
 ***Monstrous Gnoll Feats.*** For those gnolls which are favored by Yeenoghu enough to survive to the appropriate levels, a number of gnoll-specific [feats](../Classes/Feats.md) are available.
 
@@ -44,14 +44,14 @@ Gnolls rarely build permanent structures or craft anything of lasting value. The
 >- **Languages** Gnoll
 >- **Challenge** 1/2
 >___
->***Rampage.***. When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
+>***Rampage.*** When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.
+>***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.
 >
->***Spear.***. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+>***Spear.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
 >
->***Longbow.***. Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
+>***Longbow.*** Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
 >
 
 ---
@@ -82,18 +82,18 @@ The alpha of a gnoll pack is the pack lord, ruling by might and cunning. A pack 
 >- **Languages** Gnoll
 >- **Challenge** 2
 >___
->***Rampage.***. When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
+>***Rampage.*** When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
 >
 >#### Actions
->***Multiattack.***. The gnoll makes two attacks, either with its glaive or its longbow, and uses its Incite Rampage if it can.
+>***Multiattack.*** The gnoll makes two attacks, either with its glaive or its longbow, and uses its Incite Rampage if it can.
 >
->***Bite.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage.
+>***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage.
 >
->***Glaive.***. Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 8 (1d10 + 3) slashing damage.
+>***Glaive.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 8 (1d10 + 3) slashing damage.
 >
->***Longbow.***. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+>***Longbow.*** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 >
->***Incite Rampage (Recharge 5–6).***. One creature the gnoll can see within 30 feet of it can use its reaction to make a melee attack if it can hear the gnoll and has the Rampage trait.
+>***Incite Rampage (Recharge 5–6).*** One creature the gnoll can see within 30 feet of it can use its reaction to make a melee attack if it can hear the gnoll and has the Rampage trait.
 >
 
 ---
@@ -124,13 +124,13 @@ Gnolls celebrate their victories by performing demonic rituals and making blood 
 >- **Languages** Abyssal,Gnoll
 >- **Challenge** 4
 >___
->***Rampage.***. When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
+>***Rampage.*** When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
 >
 >#### Actions
->***Multiattack.***. The gnoll makes three attacks: one with its bite and two with its claws.
+>***Multiattack.*** The gnoll makes three attacks: one with its bite and two with its claws.
 >
->***Bite.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or take 7 (2d6) poison damage.
+>***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or take 7 (2d6) poison damage.
 >
->***Claw.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.
+>***Claw.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.
 >
 

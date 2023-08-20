@@ -7,7 +7,7 @@ Once, the kenku held the wind in their wings, embracing the gusty sky and singin
 
 ***Speech in Pantomime.*** Kenku can mimic the sound of anything they hear. A kenku asking for money might make the sound of coins clinking together, and a kenku referring to a busy marketplace can reproduce the cacophony of hawking vendors, barking dogs, bleating sheep, and the cries of street urchins. When mimicking voices, they can only repeat words and phrases they have heard, not create new sentences. To converse with a kenku is to witness a performance of imitated sounds and almost nonsensical verse.
 
-Kenku speak to one another in much the same way. Because they are adept at interpreting one another's glances and gestures, the sounds they make to communicate complex ideas or emotions can be succinct. Groups of kenku also develop secret codes. For example, a cat's meow might be the secret code for "Prepare to attack!� or "Flee for your lives!�
+Kenku speak to one another in much the same way. Because they are adept at interpreting one another's glances and gestures, the sounds they make to communicate complex ideas or emotions can be succinct. Groups of kenku also develop secret codes. For example, a cat's meow might be the secret code for "Prepare to attack!" or "Flee for your lives!"
 
 Their talent for mimicry extends to handwriting, and criminal organizations often employ kenku to forge documents. When a kenku commits a crime, it might forge evidence to implicate another creature.
 

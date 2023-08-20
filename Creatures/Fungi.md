@@ -12,11 +12,11 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 ## Gas Spore
 The first gas spores are thought to have been spawned from dead beholders, whose moldering corpses fed a parasitic fungus with aberrant magic. Having long since adapted into a unique plant creature, a gas spore grows quickly and purposefully out of any corpse, creating a malevolent-looking mockery of the most feared denizen of the Underdark.
 
-***Eye Tyrant's Form.***. A gas spore is a spherical, balloon-like fungus that resembles a beholder from a distance, though its true nature becomes increasingly obvious as one approaches it. The monster possesses a blind central "eye� and rhizome growths sprouting from its upper surface, superficially resembling a beholder's eyestalks.
+***Eye Tyrant's Form.*** A gas spore is a spherical, balloon-like fungus that resembles a beholder from a distance, though its true nature becomes increasingly obvious as one approaches it. The monster possesses a blind central "eye" and rhizome growths sprouting from its upper surface, superficially resembling a beholder's eyestalks.
 
-***Death Burst.***. A gas spore is a hollow shell filled with a lighter-than-air gas that enables it to float as a beholder does. Piercing the shell with even the weakest attack causes the creature to burst apart, releasing a cloud of deadly spores. A creature that inhales the spores becomes host to them, and is often dead within a day. Its corpse then becomes the spawning ground from which new gas spores arise.
+***Death Burst.*** A gas spore is a hollow shell filled with a lighter-than-air gas that enables it to float as a beholder does. Piercing the shell with even the weakest attack causes the creature to burst apart, releasing a cloud of deadly spores. A creature that inhales the spores becomes host to them, and is often dead within a day. Its corpse then becomes the spawning ground from which new gas spores arise.
 
-***Beholder Memories.***. A gas spore that sprouts from a beholder's corpse sometimes carries within it memories of its deceased parent. When the gas spore explodes, its deadly spores cast those memories adrift. Any creature that inhales the spores and survives inherits one or more of the beholder's fragmented memories, and might gain useful information about the beholder's former lair and other nearby places and creatures of interest.
+***Beholder Memories.*** A gas spore that sprouts from a beholder's corpse sometimes carries within it memories of its deceased parent. When the gas spore explodes, its deadly spores cast those memories adrift. Any creature that inhales the spores and survives inherits one or more of the beholder's fragmented memories, and might gain useful information about the beholder's former lair and other nearby places and creatures of interest.
 
 >### Gas Spore
 >*Large plant, unaligned*
@@ -41,14 +41,14 @@ The first gas spores are thought to have been spawned from dead beholders, whose
 >- **Languages** —
 >- **Challenge** 1/2
 >___
->***Death Burst.***. The gas spore explodes when it drops to 0 hit points. Each creature within 20 feet of it must succeed on a DC 15 Constitution saving throw or take 10 (3d6) poison damage and become infected with a disease on a failed save. Creatures immune to the poisoned condition are immune to this disease.
+>***Death Burst.*** The gas spore explodes when it drops to 0 hit points. Each creature within 20 feet of it must succeed on a DC 15 Constitution saving throw or take 10 (3d6) poison damage and become infected with a disease on a failed save. Creatures immune to the poisoned condition are immune to this disease.
 >
 >Spores invade an infected creature's system, killing the creature in a number of hours equal to 1d12 + the creature's Constitution score, unless the disease is removed. In half that time, the creature becomes poisoned for the rest of the duration. After the creature dies, it sprouts 2d4 Tiny gas spores that grow to full size in 7 days.
 >
->***Eerie Resemblance.***. The gas spore resembles a beholder. A creature that can see the gas spore can discern its true nature with a successful DC 15 Intelligence (Nature) check.
+>***Eerie Resemblance.*** The gas spore resembles a beholder. A creature that can see the gas spore can discern its true nature with a successful DC 15 Intelligence (Nature) check.
 >
 >#### Actions
->***Touch.***. Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. Hit: 1 poison damage, and the creature must succeed on a DC 10 Constitution saving throw or become infected with the disease described in the Death Burst trait.
+>***Touch.*** Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. Hit: 1 poison damage, and the creature must succeed on a DC 10 Constitution saving throw or become infected with the disease described in the Death Burst trait.
 >
 
 ---
@@ -79,11 +79,11 @@ A shrieker is a human-sized mushroom that emits a piercing screech to drive off 
 >- **Languages** —
 >- **Challenge** 0
 >___
->***False Appearance.***. While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.
+>***False Appearance.*** While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.
 >
 >Reactions
 >
->***Shriek.***. When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker's turns afterward.
+>***Shriek.*** When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker's turns afterward.
 >
 >#### Actions
 
@@ -115,11 +115,11 @@ This purplish mushroom uses root-like feelers growing from its base to creep acr
 >- **Languages** —
 >- **Challenge** 1/4
 >___
->***False Appearance.***. While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.
+>***False Appearance.*** While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.
 >
 >#### Actions
->***Multiattack.***. The fungus makes 1d4 Rotting Touch attacks.
+>***Multiattack.*** The fungus makes 1d4 Rotting Touch attacks.
 >
->***Rotting Touch.***. Melee Weapon Attack: +2 to hit, reach 10 ft., one creature. Hit: 4 (1d8) necrotic damage.
+>***Rotting Touch.*** Melee Weapon Attack: +2 to hit, reach 10 ft., one creature. Hit: 4 (1d8) necrotic damage.
 >
 
