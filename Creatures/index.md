@@ -77,94 +77,158 @@ These creatures are found in various places across the map. Over time, all these
 
 ## G
 - [Gargoyle](Gargoyle.md)
-- [Ghast](Ghast.md)
+- [Genies](Genies.md):
 - [Ghost](Ghost.md)
-- [Ghoul](Ghoul.md)
+- [Ghouls](Ghouls.md): 
+- [Giants](Giants.md):
 - [Giant Ape](Simians.md#giant-ape)
 - [Gibbering Mouther](GibberingMouther.md)
-- [Goat](Goat.md)
-- [Golem](Golem.md)
+- [Gith](Gith.md):
+- [Gnolls](Gnolls.md):
+- [Goats](Goats.md): 
+- [Goblins](Goblins.md): 
+- [Golems](Golems.md):
+- [Gorgon](Gorgon.md):
 - [Gray Render](GrayRender.md)
+- [Grell](Grell.md)
+- [Gricks](Gricks.md): 
+- [Griffon](Griffon.md)
+- [Grimlock](Grimlock.md)
 
 ## H
-- [Hag](Hag.md)
+- [Hags](Hags.md): 
 - [Harpy](Harpy.md)
-- [Hell Hound](Dog.md#hell-hound)
+- [Hell Hound](Dogs.md#hell-hound)
 - [Helmed Horror](HelmedHorror.md)
+- [Hexwraith](Hexwraith.md)
+- [Hippogriff](Hippogriff.md)
+- [Hobgoblins](Hobgoblins.md): 
+- [Homunculus](Homunculus.md)
+- [Hook Horror](HookHorror.md)
+- [Horses](Horses.md):
 - [Hydra](Hydra.md)
 
 ## I
-- [Insect](Insect.md)
-- [Invisible Stalker](Elemental.md#invisible-stalker)
+- [Intellect Devourer](IntellectDevourer.md)
+- [Invisible Stalker](ElementalServants.md#invisible-stalker)
 
 ## J
+- [Jackalwere](Jackalwere.md)
 
 ## K
+- [Kenku](Kenku.md)
+- [Kobolds](Kobolds.md):
+- [Kraken](Kraken.md)
+- [Kuo-Toa](Kuo-Toa.md):
 
 ## L
+- [Lamia](Lamia.md)
 - [Lich](Lich.md)
-- [Lion](Cat.md#lion)
-- [Lizard](Lizard.md)
+- [Lion](Cats.md#lion)
+- [Lizardfolk](Lizardfolk.md): 
+- [Lizards](Lizards.md):
+- [Lycanthropes](Lycanthropes.md): 
 
 ## M
 - [Magen](Magen.md)
-- [Magmin](Elemental.md#magmin)
+- [Magmin](ElementalServants.md#magmin)
 - [Manticore](Manticore.md)
-- [Mephit](Mephit.md)
+- [Medusa](Medusa.md)
+- [Mephits](Mephits.md)
+- [Merfolk](Merfolk.md)
+- [Merrow](Merrow.md)
+- [Mimic](Mimic.md)
+- [Mind Flayer](MindFlayer.md)
+- [Minotaur](Minotaur.md)
+- [Modrons](Modrons.md): 
+- [Mummies](Mummies.md): 
 
 ## N
+- [Nagas](Nagas.md):
+- [Nightmare](Nightmare.md)
 - [Nightstriker Serpent](NightstrikerSerpent.md)
+- [Nothic](Nothic.md)
 
 ## O
 - [Octopus](Octopus.md)
-- [Ogrillon](Ogrillon.md)
-- [Ooze](Ooze.md)
+- [Ogres](Ogres.md): 
+- [Oozes](Oozes.md):
+- [Orcs](Orcs.md): 
+- [Otyugh](Otyugh.md)
 - [Owlbear](Owlbear.md)
 
 ## P
-- [Panther](Cat.md#panther)
+- [Panther](Cats.md#panther)
+- [Pegasus](Pegasus.md)
+- [Peryton](Peryton.md)
+- [Piercer](Piercer.md)
+- [Pixie](Pixie.md)
+- [Poltergeist](Poltergeist.md)
+- [Pseudodragon](Pseudodragon.md)
 
 ## Q
-- [Quipper](Quipper.md)
+- [Quaggoth](Quaggoth.md)
+- [Quippers](Quippers.md):
 
 ## R
-- [Rat](Rat.md)
+- [Rakshasa](Rakshasa.md)
+- [Rats](Rats.md): 
+- [Remorhazes](Remorhazes.md): 
 - [Rhinoceros](Rhinoceros.md)
+- [Roper](Roper.md)
+- [Rust Monster](RustMonster.md)
 
 ## S
-- [Saber-Toothed Tiger](Cat.md#saber-toothed-tiger)
-- [Sahuagin](Sahuagin.md)
-- [Scorpion](Scorpion.md)
-- [Sea Horse](SeaHorse.md)
+- [Saber-Toothed Tiger](Cats.md#saber-toothed-tiger)
+- [Sahuagin](Sahuagin.md):
+- [Salamanders](Salamanders.md): 
+- [Satyr](Satyr.md)
+- [Scarecrow](Scarecrow.md)
+- [Scorpions](Scorpions.md):
+- [Sea Horse](SeaHorses.md):
 - [Shadow](Shadow.md)
 - [Shambling Mound](ShamblingMound.md)
-- [Shark](Shark.md)
+- [Sharks](Sharks.md):
 - [Simians](Simians.md): [Ape](Simians.md#ape) | [Baboon](Simians.md#baboon) | [Giant Ape](Simians.md#giant-ape)
+- [Skeletons](Skeletons.md): 
 - [Skull Lord](SkullLord.md)
-- [Snake](Snake.md)
+- [Slaadi](Slaadi.md): 
+- [Snakes](Snakes.md):
 - [Specter](Specter.md)
-- [Spider](Spider.md)
-- [Spirit](Spirit.md)
+- [Sphinxes](Sphinxes.md): 
+- [Spiders](Spiders.md):
+- [Spirits](Spirits.md):
+- [Sprite](Sprite.md)
+- [Stirge](Stirge.md)
+- [Succubus](Succubus.md)
 - [Sunken Sailor](SunkenSailor.md)
 
 ## T
-- [Tiger](Cat.md#tiger)
-- [Troll](Troll.md)
+- [Tarrasque](Tarrasque.md)
+- [Thri-kreen](Thri-Kreen.md): 
+- [Tiger](Cats.md#tiger)
+- [Treant](Treant.md)
+- [Troglodyte](Troglodyte.md)
+- [Trolls](Trolls.md):
 
 ## U
+- [Umber Hulk](UmberHulk.md)
+- [Unicorn](Unicorn.md)
 
 ## V
+- [Vampires](Vampires.md):
 
 ## W
-- [Wasp](Wasp.md)
-- [Water Weird](Elemental.md#water-weird)
-- [Weasel](Weasel.md)
-- [Whale](Whale.md)
+- [Wasps](Wasps.md)
+- [Water Weird](ElementalServants.md#water-weird)
+- [Weasels](Weasels.md)
+- [Whales](Whales.md)
 - [Wight](Wight.md)
 - [Will O' Wisp](WillOWisp.md)
-- [Withered Hound](Dog.md#withered-hound)
-- [Wolf](Wolf.md)
-- [Worg](Wolf.md#worg)
+- [Withered Hound](Dogs.md#withered-hound)
+- [Wolves](Wolves.md): [Wolf](Wolves.md#wolf) | [Dire Wolf](Wolves.md#dire-wolf) | [Winter Wolf](Wolves.md#winter-wolf) | [Worg](Wolves.md#worg)
+- [Worg](Wolves.md#worg)
+- [Worms](Worms.md): 
 - [Wraith](Wraith.md)
 - [Wyvern](Wyvern.md)
 
@@ -172,6 +236,7 @@ These creatures are found in various places across the map. Over time, all these
 - [Xorn](Xorn.md)
 
 ## Y
+- [Yuan-ti](YuanTi.md): 
 
 ## Z
 - [Zombie](Zombie.md)

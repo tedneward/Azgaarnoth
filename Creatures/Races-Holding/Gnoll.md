@@ -7,13 +7,9 @@ Gnolls are feral humanoids that attack settlements along the frontiers and borde
 
 **Nomadic Destroyers.** Gnolls are dangerous because they strike at random. They emerge from the wilderness, plunder and slaughter, then move elsewhere. They attack like a plague of locusts, pillaging settlements and leaving little behind but razed buildings, gnawed corpses, and befouled land. Gnolls choose easy targets for their raids. Armored warriors holed up in a fortified castle will survive a rampaging gnoll horde unscathed, even as the towns, villages, and farms that surround the castle are ablaze, their people slaughtered and devoured.
 
-**Hordish Background.** Gnoll packs were a large part of the Hordes that battled against the Eldar from the earliest days of Azgaarnoth's history; since that time, most have continued their tribal, nomadic ways, generally moving southward and now making up a significant percentage of the Ulmhorde. Some tribes chose to seek a more permanent existence within the more "civilized" Hordes, and many gnolls found themselves finding peace within Yithi and Zhi. Other tribes keep to their nomadic background but seek less to pillage and more to trade. Those gnolls who have "civilized" tend to worship any of the other gods *except* Yeenoghu.
-
-Gnolls rarely build permanent structures or craft anything of lasting value. They don't make weapons or armor, but scavenge such items from the corpses of their fallen victims, stringing ears, teeth, scalps, and other trophies from their foes onto their patchwork armor. Some gnolls will move into cities, but often their personal hygiene habits clash with those of a city, and as a result most will reside either just outside the city walls in tents or huts, or in the worst parts of town. In fact, more than once a gnoll tribe has moved into the slums of a large city and essentially traded the plunder-and-slaughter of wilderness life for the muted-but-more-rewarding lesser-levels-of-plunder-and-slaughter they can get away with in the Slums. However, should two gnoll tribes encouter each other in the same slums district, they will immediately break out into open conflict until one tribe has defeated and absorbed the other.
 
 **Thirst for Blood.** Among the "traditional" gnolls, no goodness or compassion resides in the heart of a gnoll. Like a demon, it lacks anything resembling a conscience, and can't be taught or coerced to put aside its destructive tendencies. The gnolls' frenzied bloodlust makes them an enemy to all, and when they lack a common foe, they fight among themselves. Even the most savage orcs avoid allying with gnolls.
 
-However, within the last millenium, tribes of gnolls have begun to change their ways, leaving some to wonder if the influence Yeenoghu exerted upon them has begun to wane. While exceptions exist, most gnolls continue to show their traditional ways, and when coming upon a gnoll in the wild, travelers are strongly suggested to keep weapons close at hand. Gnolls can be a [playable race](/Races/Gnoll.md).
 
 ## Monstrous Gnoll Feats
 For those gnolls which are favored by Yeenoghu enough to survive to the appropriate levels, a number of gnoll-specific [feats](/Classes/Feats.md) are available.
@@ -464,51 +460,6 @@ its speed and make a bite attack.
 ---
 
 ## Gnoll Rageborn
-The Rageborn are gnolls bred for
-war. Their stock has been
-selectively chosen and bred for a
-number of generations, with the
-biggest, fastest and strongest
-among them continuing their
-lineage. Some despots attempt to
-breed and control these beasts, but many are slain
-by their own creations, so successfully were they
-crafted. But breeding gnolls to kill means that their
-primal instinct to kill is always lurking at the surface,
-and these gnolls are far more vicious and hate-filled
-than any other of their kind.
-
-CE Medium humanoid (gnoll)
-AC 16 (hide armor, shield)
-HP 68 (8d8+32)
-Speed 30ft.
-STR 18 (+4), DEX 14 (+2), CON 18 (+4)
-INT 6 (-2), WIS 10 (+0), CHA 7 (-2)
-Senses darkvision 60ft., passive Perception 10
-Languages Gnoll
-Challenge 3 (700 XP)
-ACTIONS
-Bite. Melee Attack: +6 to hit, reach 5 ft., one
-creature. Hit: 6 (1d4+4) piercing damage.
-Battleaxe. Melee Weapon Attack: +6 to hit, reach
-5 ft., one target. Hit: 8 (1d8+4) piercing damage.
-Javelin. Thrown Weapon Attack: +6 to hit, range
-30/120 ft., one target. Hit: 7 (1d6+4) piercing
-damage.
-SPECIAL ABILITIES
-Rage. The rageborn can enter rage as a bonus
-action. They may roll two dice (keeping the best
-one) on all Str checks and saves. The rageborn
-also increases their damage by +2 points and has
-resistance to all physical damage.
-Run Amok. When the gnoll drops a creature to 0
-hit points with a melee attack during its turn, the
-gnoll can take a bonus action to move up to half
-its speed and make a bite attack.
-
----
-
-## Rageborn
 The Rageborn are gnolls bred for
 war. Their stock has been
 selectively chosen and bred for a

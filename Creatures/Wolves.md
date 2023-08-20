@@ -1,5 +1,5 @@
-# Wolf
-Primal and often savage cousins of the [Dog](Dog.md), wolves often run in packs, and will demonstrate a fearsome loyalty to their packmates.
+# Wolves
+Primal and often savage cousins of the [Dog](Dogs.md), wolves often run in packs, and will demonstrate a fearsome loyalty to their packmates.
 
 > Jump to: [Wolf](#wolf-1) | [Dire Wolf](#dire-wolf) | [Winter Wolf](#winter-wolf) | [Worg](#worg)
 
