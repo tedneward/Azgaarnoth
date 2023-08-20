@@ -1,7 +1,7 @@
 # Brothers and Sisters of Undeath
 The Brothers of Undeath (or sometimes called Brothers in Undeath) are an improved form of undead zombie, retaining some of their skills in life. *(Do a search-and-replace on Brother to create a Sister of Undeath.)*
 
-> Jump to: [Sanctity](#brother-of-sanctity) | [Shadow](#brother-of-shadow) | [Solemnity](#brother-of-solemnity) | [Spell](#brother-of-spell) | [Spite](#brother-of-spite) | [Steel](#brother-of-steel)
+> Jump to: [Sanctity](#brother-of-sanctity) | [Shadow](#brother-of-shadow) | [Solemnity](#brother-of-solemnity) | [Spell](#brother-of-spell) | [Spite](#brother-of-spite) | [Steel](#brother-of-steel) | [Death Knight](#death-knight)
 
 ***In progress***
 
@@ -244,3 +244,63 @@ Brothers of Steel are fallen martial champions, often retaining the weapons and 
 >***Bastard Sword.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 4) slashing damage.
 >
 >***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
+
+---
+
+## Death Knight
+The truest and deadliest form of the this line of undead, a death knight is a skeletal warrior clad in fearsome plate armor. Beneath its helmet, one can see the knight's skull with malevolent pinpoints of light burning in its eye sockets. When a paladin that falls from grace dies without seeking atonement, dark powers can transform the once-mortal knight into this hateful undead creature. Rumors that certain pale masters have learned how to make the transformation on recently-deceased paladins, however, fuel nightmares in divine barracks all over Azgaarnoth.
+
+***Eldritch Power.*** The death knight retains the ability to cast divine spells. However, no death knight can use its magic to heal. A death knight also attracts and commands lesser undead, although death knights that serve powerful fiends might have fiendish followers instead. Death knights often use [warhorse skeletons](Skeletons.md#warhorse-skeleton) and [nightmares](Nightmare.md) as mounts.
+
+***Immortal Until Redeemed.*** A death knight can arise anew even after it has been destroyed. Only when it atones for a life of wickedness or finds redemption can it finally escape its undead purgatory and truly perish.
+
+***Undead Nature.*** A death knight doesn't require air, food, drink, or sleep.
+
+>### Death Knight
+>*Medium undead, chaotic evil*
+>___
+>- **Armor Class** 20 (plate, shield)
+>- **Hit Points** 180 (19d8 + 95)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|20 (+5)|11 (+0)|20 (+5)|12 (+1)|16 (+3)|18 (+4)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** Dex +6,Wis +9,Cha +10
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** necrotic,poison
+>- **Condition Immunities** exhaustion,frightened,poisoned
+>- **Skills** 
+>- **Senses** darkvision 120 ft.,passive Perception 13
+>- **Languages** Abyssal,Common
+>- **Challenge** 17
+>___
+>***Magic Resistance.*** The death knight has advantage on saving throws against spells and other magical effects.
+>
+>***Marshal Undead.*** Unless the death knight is incapacitated, it and undead creatures of its choice within 60 feet of it have advantage on saving throws against features that turn undead.
+>
+>***Spellcasting.*** The death knight is a 19th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). It has the following paladin spells prepared:
+>
+>1st level (4 slots): command, compelled duel, searing smite
+>
+>2nd level (3 slots): hold person, magic weapon
+>
+>3rd level (3 slots): dispel magic, elemental weapon
+>
+>4th level (3 slots): banishment, staggering smite
+>
+>5th level (2 slots): destructive wave (necrotic)
+>
+>#### Actions
+>***Multiattack.*** The death knight makes three longsword attacks.
+>
+>***Longsword.*** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage, or 10 (1d10 + 5) slashing damage if used with two hands, plus 18 (4d8) necrotic damage.
+>
+>***Hellfire Orb (1/Day).*** The death knight hurls a magical ball of fire that explodes at a point it can see within 120 feet of it. Each creature in a 20-foot-radius sphere centered on that point must make a DC 18 Dexterity saving throw. The sphere spreads around corners. A creature takes 35 (10d6) fire damage and 35 (10d6) necrotic damage on a failed save, or half as much damage on a successful one.
+>
+>***Parry.*** The death knight adds 6 to its AC against one melee attack that would hit it. To do so, the death knight must see the attacker and be wielding a melee weapon.
+>

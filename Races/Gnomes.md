@@ -12,7 +12,7 @@ Forest gnome villages are found in almost every wooded area on Azgaarnoth--if yo
 
 
 ## Svirfneblin ("deep gnomes")
-Svirfneblin enclaves are buried deep within the Daws Range and, like the rest of the Underdark, miles below the surface of the other continents of Azgaarnoth. Most svirfneblin never see the light of day, and most have been in a desperate struggle for survival for too long to have the gnomish "love of life" and curiosity that characterize their surface kin.
+[Svirfneblin](../Creatures/DeepGnome.md) enclaves are buried deep within the Daws Range and, like the rest of the Underdark, miles below the surface of the other continents of Azgaarnoth. Most svirfneblin never see the light of day, and most have been in a desperate struggle for survival for too long to have the gnomish "love of life" and curiosity that characterize their surface kin.
 
 
 ## Dark gnomes

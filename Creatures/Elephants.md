@@ -1,7 +1,7 @@
-# Elephant
+# Elephants
 
 
-> Jump to: [Elephant](#elephant-1) | [Mammoth](#mammoth)
+> Jump to: [Elephant](#elephant) | [Mammoth](#mammoth)
 
 ## Elephant
 

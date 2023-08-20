@@ -3,20 +3,15 @@ Ogres are as lazy of mind as they are strong of body. They live by raiding, scav
 
 > Jump to: [Ogre](#Ogre) | [Battering Ram](#battering-ram) | [Bolt Launcher](#bolt-launcher) | [Chain Brute](#chain-brute) | [Howdah](#howdah) | [Half-Ogre](#Half-Ogre) | [Ogre Mage](#ogre-mage) | [Oni](#Oni)
 
-***Ogre Priest.*** Ogres, when they stop to think about gods, generally find themselves aligned with the principles of Vaprak--when they even stop to consider principles at all. Some ogres, however, are born with some slightly better insight (or learn it from being thrust into a subservient role and told to learn--sometimes at the hands of a darker master), and learn to channel the divine power of Vaprak to ogrish benefit. It is said in some quarters that the Ogre Priests of Vaprak are divinely blessed to naturally immortal--that is, though they can still be killed, they do not age--because Vaprak needs them to wander the countryside, tending to the flock of ogres, lest they all kill themselves off... and leave Vaprak without a sizable number of worshippers.
-
-***Ogre Warpriest.*** Some ogres prefer the much simpler canon of Gruumsh, the god of the Orcs: Kill as many as you can. Of those ogres who fall in with Gruumsh, some are elevated by the god to a clerical function, serving as a bastion of support and strength for the orcs around them--the better to kill as many as they can.
-
----
-
-## Ogre
 ***Furious Tempers.*** Ogres are notorious for their quick tempers, which flare at the smallest perceived offense. Insults and name-calling can rouse an ogre's wrath in an instant — as can stealing from it, bumping, jabbing, or prodding it, laughing, making faces, or simply looking at it the wrong way. When its rage is incited, an ogre lashes out in a frustrated tantrum until it runs out of objects or creatures to smash.
+
+![Ogres.md]
 
 ***Gruesome Gluttons.*** Ogres eat almost anything, but they especially enjoy the taste of dwarves, halflings, and elves. When they can, they combine dinner with pleasure, chasing scurrying victims around before eating them raw. If enough of its victim remains after the ogre has gorged itself, it might make a loincloth from its quarry's skin and a necklace from its leftover bones. This macabre crafting is the height of ogre culture.
 
 ***Greedy Collectors.*** An ogre's eyes glitter with avarice when it sees the possessions of others. Ogres carry rough sacks on their raids, which they fill with fabulous "treasure" taken from their victims. This might include a collection of battered helmets, a moldy wheel of cheese, a rough patch of animal fur fastened like a cloak, or a squealing, mud-spattered pig. Ogres also delight in the gleam of gold and silver, and they will fight one another over small handfuls of coins. Smarter creatures can earn an ogre's trust by offering it gold or a weapon forged for a creature of its size.
 
-***Legendary Stupidity.*** Few ogres can count to ten, even with their fingers in front of them. Most speak only a rudimentary form of Giant and know a smattering of Common words. Ogres believe what they are told and are easy to fool or confuse, but they break things they don't understand. Silver-tongued tricksters who test their talents on ogres typically end up eating their eloquent words — and then being eaten in turn.
+***Legendary Stupidity.*** Few ogres can count to ten, even with their fingers in front of them. Most speak only a rudimentary form of Giant and know a smattering of Common words. Ogres believe what they are told and are easy to fool or confuse, but they break things they don't understand. Silver-tongued tricksters who test their talents on ogres typically end up eating their eloquent words -- and then being eaten in turn.
 
 ***Opportunistic Wanderers.*** Ogres clothe themselves in animal pelts and uproot trees for use as tools and weapons. They create stone-tipped javelins for hunting. When they establish lairs, they settle near the rural edges of settled lands, taking advantage of poorly protected livestock, undefended larders, and unwary farmers.
 
@@ -24,7 +19,15 @@ An ogre sleeps in caves, animal dens, or under trees until it finds a cabin or i
 
 ***Ogre Gangs.*** Ogres sometimes band together in small, nomadic groups, but they lack a true sense of tribalism. When bands of ogres meet, one might attempt to capture the members of the other group to increase its numbers. However, ogre bands are just as likely to trade members freely, especially if the welcoming band is temporarily flush with food and weapons.
 
-Whenever possible, ogres gang up with other monsters to bully or prey on creatures weaker than themselves. They associate freely with goblinoids, orcs, and trolls, and practically worship giants. In the giants' complex social structure (known as the ordning), ogres rank beneath the lowest giants in status. As a result, an ogre will do nearly anything a giant asks.
+Whenever possible, ogres gang up with other monsters to bully or prey on creatures weaker than themselves. They associate freely with goblinoids, orcs, and trolls, and practically worship giants. In the giants' complex social structure (known as the *ordning*), ogres rank beneath the lowest giants in status. As a result, an ogre will do nearly anything a giant asks.
+
+***Ogre Priest.*** Ogres, when they stop to think about gods, generally find themselves aligned with the principles of Vaprak--when they even stop to consider principles at all. Some ogres, however, are born with some slightly better insight (or learn it from being thrust into a subservient role and told to learn--sometimes at the hands of a darker master), and learn to channel the divine power of Vaprak to ogrish benefit. It is said in some quarters that the Ogre Priests of Vaprak are divinely blessed to naturally immortal--that is, though they can still be killed, they do not age--because Vaprak needs them to wander the countryside, tending to the flock of ogres, lest they all kill themselves off... and leave Vaprak without a sizable number of worshippers.
+
+***Ogre Warpriest.*** Some ogres prefer the much simpler canon of Gruumsh, the god of the Orcs: Kill as many as you can. Of those ogres who fall in with Gruumsh, some are elevated by the god to a clerical function, serving as a bastion of support and strength for the orcs around them--the better to kill as many as they can.
+
+---
+
+## Ogre
 
 >### Ogre
 >*Large giant, chaotic evil*
@@ -202,6 +205,12 @@ An ogre chain brute wields a great spiked chain. It swings this chain with both 
 ## Half-Ogre
 The offspring of an ogre and any of a human, a hobgoblin, a bugbear, or an orc is a half-ogre, also called an ogrillon when the non-ogre parent is an orc. An adult half-ogre stands 8 feet tall and weighs 450 pounds on average.
 
+![](Ogres-HalfOgre.png)
+
+Although many half-ogres have lost the beastility and/or legendary stupidity of their ogrish parentage, many half-ogres, like other "halves", find they have no home among ogres nor among their other parents. Many end up finding a life as a thug, but some happy few end up finding their way to a [mercenary company](../Organizations/MercCompanies/index.md), wherein they can best apply their incredible strength in positive pursuits.
+
+***Playable Race: Mass in Action.*** Many heroes of note have been [half-ogres](../Races/Half-Ogre.md)
+
 >### Half-Ogre
 >*Large giant, any chaotic alignment*
 >___
@@ -291,7 +300,7 @@ Ogres are not known for their magical prowess. Few have any amount of respect fo
 >### Ogre Mage
 >*Large giant, chaotic evil*
 >___
->- **Armor Class** 14 (hide armor, shield)
+>- **Armor Class** 16 (chain mail)
 >- **Hit Points** 119 (14d10 + 42)
 >- **Speed** 40 ft.
 >___
@@ -311,7 +320,7 @@ Ogres are not known for their magical prowess. Few have any amount of respect fo
 >- **Languages** Common,Draconic,Giant
 >- **Challenge** 6
 >___
->***Spellcasting.*** The ogre is an 8th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
+>***Spellcasting.*** The ogre mage is an 8th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 >
 >Cantrips (at will): acid splash, dancing lights, firesweep, prestidigitation, radiant blade
 >
@@ -323,11 +332,11 @@ Ogres are not known for their magical prowess. Few have any amount of respect fo
 >
 >4th level (2 slots): banishment, wall of fire
 >
->***Sorcery Points.*** The ogre has 8 sorcery points. As a bonus action, it can spend a number of sorcery points to create a spell slot, as a sorcerer does. Alternatively, it can, as a bonus action, sacrifice a spell slot to restore spent sorcery points equal to or less than the level of the spell slot sacrificed. It can spend 1 or more sorcery points to gain one of the following benefits:
+>***Sorcery Points.*** The ogre mage has 8 sorcery points. As a bonus action, it can spend a number of sorcery points to create a spell slot, as a sorcerer does. Alternatively, it can, as a bonus action, sacrifice a spell slot to restore spent sorcery points equal to or less than the level of the spell slot sacrificed. It can spend 1 or more sorcery points to gain one of the following benefits:
 >
->* *Quickened Spell.* When the ogre casts a spell that has a casting time of 1 action, it can spend 2 sorcery points to change the spell's casting time to 1 bonus action.
+>* *Quickened Spell.* When the ogre mage casts a spell that has a casting time of 1 action, it can spend 2 sorcery points to change the spell's casting time to 1 bonus action.
 >
->* *Twinned Spell.* When the ogre casts a spell that can target only one creature and doesn't have a range of Self, it can spend a number of sorcery points equal to the spell's level to target a second creature within range with the same spell. If the spell is a cantrip, the ogre spends 1 sorcery point to use this feature.
+>* *Twinned Spell.* When the ogre mage casts a spell that can target only one creature and doesn't have a range of Self, it can spend a number of sorcery points equal to the spell's level to target a second creature within range with the same spell. If the spell is a cantrip, the ogre spends 1 sorcery point to use this feature.
 >
 >#### Actions
 >***Morningstar.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 3) piercing damage.

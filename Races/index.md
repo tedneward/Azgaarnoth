@@ -5,10 +5,10 @@ The races of Azgaarnoth are almost all, in some way or another, tied to the anci
 These are called such because they are those born of the Eldar themselves, created for the Eldar's own reasons well back in the deepest recesses of Azgaarnoth's history. The Firstborn include the dwarves (and their cousins, the gnomes and halflings) and the elves (and their respective offshoots as well). Each was given a different part of the world to caretake, and all became involved in the war against the Hordes when they arrived. The Eldar's Dragon companions later sought to aid the Firstborn by bestowing the [Dragonmark](Dragonmarked.md) upon several, which turned out (intentional or otherwise) to be something that could be passed down through generations to both Firstborn and humans.
 
 ### [Elves](Elves.md)
-Elves stand as the inheritors of the legacy of the Eldar, but owing to their long lifespans and slow reproductive rates, have more or less chosen to surrender this world into the hands of the humans that have slowly come to outnumber them. Elves have long since wandered to every corner of Azgaarnoth, and learned how to adapt to any environment, usually seeking to live in some semblance of harmony with the environment around them, but elves have long since become comfortable with human cities. Elves are almost as diverse as humans in their occupations, entertainments, and while most elves have a strong familial tie between them, numerous elves have wandered away from home to make their mark within the world, then to return and take up familial responsibilities. Elves revere their familial ancestors, and will often have a shrine to a favored ancestor, but elves do not see their familial ancestors as gods, and many elves are quite comfortable serving in a religious order even as they put offerings to their revered ancestors out on important holidays.
+Elves stand as (half of) the inheritors of the legacy of the Eldar, but owing to their long lifespans and slow reproductive rates, have more or less chosen to surrender this world into the hands of the humans that have slowly come to outnumber them. Elves have long since wandered to every corner of Azgaarnoth, and learned how to adapt to any environment, usually seeking to live in some semblance of harmony with the environment around them, but elves have long since become comfortable with human cities. Elves are almost as diverse as humans in their occupations, entertainments, and while most elves have a strong familial tie between them, numerous elves have wandered away from home to make their mark within the world, then to return and take up familial responsibilities. Elves revere their familial ancestors, and will often have a shrine to a favored ancestor, but elves do not see their familial ancestors as gods, and many elves are quite comfortable serving in a religious order even as they put offerings to their revered ancestors out on important holidays.
 
 ### [Dwarves](Dwarves.md)
-Dwarves, for the most part, have found, after the Exodus and several attempted Returns, that they care less about governance and governments as they do mining, craftwork, and trade. The ancient dwarvish clan gave rise to the modern merchant guild, and today most dwarvish clans are organized as merchant guilds (rather than kingdoms), giving them access across national boundaries. This suits the dwarves fine, who for the most part eschew the politics that have kept Liria and its neighbors embroiled for many years. Individual dwarves are welcome in mercenary companies, militant orders, and religious halls, particularly those who have either left or been cast out of clan-and-guild, but returns to clan-and-guild after a long career are commonplace, particularly if the returning dwarf brings opportunities for trade. Dwarves have reached a point where the sense of "clan" is built around the guild, and dwarves choosing to leave one guild to join another are not uncommon; for the modern dwarf, guild ties are stronger than familial ties in most cases.
+Dwarves, the other half of the Eldar legacy, have found for the most part--after the Exodus and several attempted Returns--that they care less about governance and governments than they do mining, craftwork, and trade. The ancient dwarvish clan gave rise to the modern merchant guild, and today most dwarvish clans are organized as merchant guilds (rather than kingdoms), giving them access across national boundaries. This suits the dwarves fine, who for the most part eschew the politics that have kept Liria and its neighbors embroiled for many years. Individual dwarves are welcome in mercenary companies, militant orders, and religious halls, particularly those who have either left or been cast out of clan-and-guild, but returns to clan-and-guild after a long career are commonplace, particularly if the returning dwarf brings opportunities for trade. Dwarves have reached a point where the sense of "clan" is built around the guild, and dwarves choosing to leave one guild to join another are not uncommon; for the modern dwarf, guild ties are stronger than familial ties in most cases.
 
 ### [Gnomes](Gnomes.md)
 Thought to be an ancient offshoot of the dwarves, gnomes have long since forged their own culture and racial identity. What is known is that by the time of the Exodus, gnomes were a separate and identifiable race, and gnomish tribes fought and fled alongside dwarvish clans, implying a deep degree of societal interactivity, if not a shared genetic legacy.
@@ -20,12 +20,16 @@ The genetic legacy of halflings is entirely unknown--scholars theorize that thes
  
 Halflings are generally tied closely to their communities, and while communities are often built around a small collection of large family structures, it's not unknown for halflings to feel cramped by the community in which they were raised, go out on their own, and either create a new halfling community or adopt into one. Halflings are generally quite social, enjoy the company of any of the other races, and fiercely defensive of their communities (both historical and adoptive).
 
+---
+
 ## [Humans](Humans.md)
 Humans were brought into being by the Eldar as a swiftly-breeding and general-purpose supplement to the Firstborn. The capacity and creativity and adaptability of humans swiftly earned them a place of respect among the Eldar and the Firstborn. In particular, one particular "quirk" of human physiology is their ability to mate successfully with almost any of the other races on Azgaarnoth, leading to the "halves", those of mixed racial parentage.
 
 * [Half-Dragon](Half-Dragons.md)
 * [Half-Elf](Half-Elves.md)
 * [Half-Orc](Half-Orcs.md)
+
+---
 
 ## Created
 The third of the racial groups that the Eldar brought into being, the Created represent the Eldar's efforts to imbue their creations with more gifts and abilities than their previous creations, as a final effort to help tip the scales against the might of the Hordes. In particular, it is said that the Created were made with the aid of the Eldar's Dragon partners, and the influences definitely show.
@@ -57,6 +61,8 @@ The cat-like creatures that appeared roughly around the same time as the rest of
 ### [Tiefling](Tiefling.md)
 That tieflings are a Created race is also clear and unmistakable--where the mystery lies is from which fiendish line they originate. Tieflings will often form exclusive communities of their own, which is not surprising given the prejudice they frequently encounter. What is not widely known is that tieflings can mate with humans, and the second- or third-generation product of such unions usually have lost all vestiges of their ancestral fiendish roots; even many first-generation tiefling/human unions find their tiefling heritage absent. All of the tiefling bloodlines have been found in Azgaarnoth. There are slightly more Winged tieflings than the others, for indiscernible reasons.
 
+---
+
 ## Hordes
 Legend holds that the Hordes descended upon Azgaarnoth from "someplace else", but from there the legends vary wildly as to the origin of the massive numbers of humanoids that sought to take Azgaarnoth by force from the Eldar. The Hordes have always been here, according to the Hordes, and if you ask any of them, they will be here long after Firstborn, humans and Created die off. Hordish society is generally more loose-knit than human or Firstborn, but within the last milennia the Hordes appear to be learning lessons about the benefits of civilization, and many are looking for ways to live in greater sense of peace and harmony than before.
 
@@ -64,7 +70,7 @@ Legend holds that the Hordes descended upon Azgaarnoth from "someplace else", bu
 Given their innate (and impressive) laziness, it's a wonder that any bugbears ever made their way through the sky to set foot on Azgaarnoth. That said, most bugbears chose to remain faithful to the "Old Ways", and as a result the highest concentration of them is in [Ulm](../Nations/Ulm.md), at least when they're not leading troops into [Dradehalia](../Nations/Dradehalia.md).
 
 ### [Centaurs](Centaurs.md)
-Centaurs are found among the lands of the Hordes ([Ulm](../Nations/Ulm.md) and [Tragekia](../Nations/Tragekia.md)), as well as in the wilds of the [Ravenlands](../Geography/Ravenlands.md) (where they are considered a major ally and asset, and Ravelands tribes frequently seek to cement alliances and membership with centaur herds) and [North Bedia](../Nations/Bedia.md). They are rarely found elsewhere in [Liria](../Nations/Liria.md) but they frequently take employment with [Mercenary Companies](../Organizations/MercCompanies/index.md).
+Few remember, but centaurs originally appeared as part of the Hordes; modern centaurs insist their presence was unwilling and that they were a slave race to the Hordes, and broke away when they could. Today, centaurs are found among the lands of the Hordes ([Ulm](../Nations/Ulm.md) and [Tragekia](../Nations/Tragekia.md)), as well as in the wilds of the [Ravenlands](../Geography/Ravenlands.md) (where they are considered a major ally and asset, and Ravenlands tribes frequently seek to cement alliances and membership with centaur herds) and [North Bedia](../Nations/Bedia.md). They are rarely found elsewhere in [Liria](../Nations/Liria.md) but they frequently take employment with [Mercenary Companies](../Organizations/MercCompanies/index.md).
 
 ### [Gnoll](Gnoll.md)
 Gnolls came as part of the Hordes, but their strong pack mentality (and even stronger dislike of those outside the pack) always kept them apart from the rest of the Hordes. Gnoll packs can be found in any setting some distance away from cities, making [Ulm](../Nations/Ulm.md), [Bedia](../Nations/Bedia.md), and the Caliphates prime wandering country. They are found in lesser numbers in the east, principally in [Yithi](../Nations/Yithi.md), and some in [Zhi](../Nations/Zhi.md).
@@ -87,8 +93,8 @@ Kobolds are thought to be the remnants of the first experiments of the [Eldar](.
 ### [Minotaurs](Minotaurs.md)
 Minotaurs are found among the lands of the Hordes ([Ulm](../Nations/Ulm.md) and [Tragekia](../Nations/Tragekia.md)), as well as in the wilds of [North Bedia](../Nations/Bedia.md). Minotaurs may be of any alignment, and can expect suspicion when moving around in any of the other lands beyond the Hordeslands.
 
-### Ogres
-(Playable race?)
+### [Half-Ogres](Half-Ogres.md)
+The offspring of an ogre and any of a human, a hobgoblin, a bugbear, or an orc is a half-ogre, also called an ogrillon when the non-ogre parent is an orc.
 
 ### [Orc](Orc.md)
 Orcs and goblins make up the mainstay of the Hordes populations, and are most commonly found in [Ulm](../Nations/Ulm.md) and [Tragekia](../Nations/Tragekia.md). Orcs are just as diverse as humans, however, and many of them have begun to take up the idea that a society based on something other than looting and pillaging is not a terrible thing; these form the bulk of the [United Hordes](../Nations/Tragekia.md). Others, however, long to return to more of the "Old Ways", and these have found a home in the [Ulmhorde](../Nations/Ulm.md). Still others remained in [Yithi](../Nations/Yithi.md) and [Zhi](../Nations/Zhi.md) and found ways to interact with the other races there to form the unique tapestry there that is part-human, part-Firstborn, part-Horde, and all unique.
@@ -103,6 +109,7 @@ Despite the racial stereotype, half-orcs are no more prone to brutish violence o
 ### [Yuan-ti Pureblood](YuanTi.md)
 These are exceedingly rare, and (openly) found only in the deepest parts of [Zhi](../Nations/Zhi.md). It is thought that some yuan-ti have taken up with the lizardfolk in the marshes around [Mudhear](../Cities/Mudhear.md), but there is no clear answer.
 
+---
 
 ## [Underdark](../Geography/Underdark.md)
 Many races inhabit the deep cavern systems that burrow throughout the continent, collectively known as the "Underdark".

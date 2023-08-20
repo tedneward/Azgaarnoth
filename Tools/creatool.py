@@ -320,7 +320,10 @@ def ingest(arg):
 
         linect = 21
         while linect < len(lines):
-            if 'Damage Vulnerabilities' in lines[linect]:
+            if len(lines[linect]) == 0:
+                # Do nothing and just drop to the end of this switch
+                pass
+            elif 'Damage Vulnerabilities' in lines[linect]:
                 dvs = lines[linect][len('Damage Vulnerabilities '):].split(',')
                 for dv in dvs:
                     creature.dmgvuls.append(dv.strip())
@@ -369,13 +372,12 @@ def ingest(arg):
             else:
                 creature.features.append(lines[linect])
 
-            linect += 2
+            linect += 1
 
         # Now we're in to Actions
         block = ''
         while linect < len(lines):
             line = lines[linect].strip()
-            print("Examining line '" + line + "'")
             if len(line) == 0:
                 linect += 1
                 continue

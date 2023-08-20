@@ -1,0 +1,57 @@
+Cattle
+There are many kinds of cattle, from common oxen to more unusual, magical variants. Use the cow stat block to represent them, with the changes noted below.
+
+Ox
+An ox is mainly used for draft work rather than meat or milk. Oxen have the following additional trait:
+
+Beast of Burden. The oxen is considered to be a Huge animal for the purpose of determining its carrying capacity.
+
+Rothé
+Ordinary rothé resemble musk oxen and have darkvision out to a range of 30 feet.
+
+Deep rothé are stunted Underdark variants of rothé. They are Medium instead of Large, have 13 (2d8 + 4) hit points, and communicate with each other by using magical flashing lights. They have darkvision out to a range of 60 feet and the following additional trait:
+
+Innate Spellcasting. The deep rothé’s spellcasting ability is Charisma. It can innately cast dancing lights at will, requiring no components.
+
+Stench Kow
+These orange and green misshapen bison are native to the Lower Planes. They have resistance to cold, fire, and poison damage, darkvision out to a range of 60 feet, and the following additional trait:
+
+Stench. Any creature other than a stench kow that starts its turn within 5 feet of the stench kow must succeed on a DC 12 Constitution saving throw or be poisoned until the start of the creature’s next turn. On a successful saving throw, the creature is immune to the stench of all stench kows for 1 hour.
+
+---
+
+Cow
+
+COW
+Large beast, unaligned
+
+Armor Class 10
+
+Hit Points 15 (2d10 + 4)
+
+Speed 30 ft.
+
+STR
+18(+4)
+DEX
+10(+0)
+CON
+14(+2)
+INT
+2(–4)
+WIS
+10(+0)
+CHA
+4(–3)
+Senses passive Perception 10
+
+Languages —
+
+Challenge 1/4 (50 XP)
+
+Charge. If the cow moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.
+
+Actions
+
+Gore. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+

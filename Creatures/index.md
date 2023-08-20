@@ -2,10 +2,20 @@
 These creatures are found in various places across the map. Over time, all these will be "tuned" to the map specifically, but many of them are direct "lifts" from the official D&D content so that I have convenient links that are under my control for various purposes.
 
 ## Creature Modifier Templates
+- Humanoid
+    - [Berserker](Templates/Berserker.md)
+    - [Knight](Templates/Knight.md)
+    - [Soldier](Templates/Soldier.md)
 - Dire
+- Draconic
+    - [Dracolich](Templates/DragonTemplate-Dracolich.md)
+    - [Ghost](Templates/DragonTemplate-Ghost.md)
+    - [Shadow](Templates/DragonTemplate-Shadow.md)
+    - [Skeletal](Templates/DragonTemplate-Skeletal.md)
+    - [Zombie](Templates/DragonTemplate-Zombie.md)
 - [Half-Dragon](Templates/HalfDragon.md)
-- Unead
-    - [Ghost](Templates/Ghostly.md)
+- Undead
+    - [Ghost](Templates/Ghost.md)
     - Mummy
     - [Skeleton](Templates/Skeletal.md)
     - Withered
@@ -45,13 +55,14 @@ These creatures are found in various places across the map. Over time, all these
 - [Bodak](Bodak.md)
 - [Boneclaw](Boneclaw.md)
 - [Bonedrinkers](Bonedrinkers.md): [Bonedrinker](Bonedrinkers.md#bonedrinker) | [Lesser](Bonedrinkers.md#lesser-bonedrinker) | [Greater](Bonedrinkers.md#greater-bonedrinker)
-- [Brother of Undeath](BrotherOfUndeath.md)
+- [Brothers of Undeath](BrotherOfUndeath.md): [Sanctity](BrotherOfUndeath.md#brother-of-sanctity) | [Shadow](BrotherOfUndeath.md#brother-of-shadow) | [Solemnity](BrotherOfUndeath.md#brother-of-solemnity) | [Spell](BrotherOfUndeath.md#brother-of-spell) | [Spite](BrotherOfUndeath.md#brother-of-spite) | [Steel](BrotherOfUndeath.md#brother-of-steel) | [Death Knight](#death-knight)
 - [Bulette](Bulette.md)
 - [Bullywug](Bullywug.md)
 
 ## C
 - [Cats](Cats.md): [Cat](Cats.md#cat) | [Lion](Cats.md#lion) [Panther](Cats.md#panther) | [Saber-Toothed Tiger](Cats.md#saber-toothed-tiger) | [Tiger](Cats.md#tiger)
-- [Centipedes](Centipedes.md): [Giant Centipede](Centipedes.md#giant-centipede) | [Swarm of Centipedes](Centipedes.md#swarm-of-centipedes)
+- [Cattle](Cattle.md): [Cow](Cattle.md#Cow) | [Ox](Cattle.md#ox) | [Rothé](Cattle.md#rothé) | [Stench Kow](Cattle.md#stench-kow)
+- [Centipedes](Centipedes.md): [Carrion Crawler](Centipedes.md#carrion-crawler) | [Giant Centipede](Centipedes.md#giant-centipede) | [Swarm of Centipedes](Centipedes.md#swarm-of-centipedes)
 - [Chimera](Chimera.md)
 - [Chuul](Chuul.md)
 - [Corpse Flower](CorpseFlower.md)
@@ -60,15 +71,23 @@ These creatures are found in various places across the map. Over time, all these
 - [Crocodiles](Crocodiles.md): [Crocodile](Crocodiles.md#crocodile) | [Giant Crocodile](Crocodiles.md#giant-crocodile)
 
 ## D
+- [Darkmantle](Darkmantle.md)
+- [Deathlocks](Deathlocks.md): [Deathlock Warlock](Deathlocks.md#deathlock-warlock) | [Deathlock Mastermind](Deathlocks.md#deathlock-mastermind) | [Deathlock Wight](Deathlocks.md#deathlock-wight)
 - [Death Dog](Dogs.md#death-dog)
 - [Deer](Deer.md): [Deer](Deer.md#deer-1) | [Elk](Deer.md#elk) | [Giant Elk](Deer.md#giant-elk)
+- [Demilich](Demilich.md)
 - [Digester](Digester.md)
+- [Displacer Beast](DisplacerBeast.md)
 - [Dog](Dogs.md): [Dog](Dogs.md#dog) | [Blink Dog](Dogs.md#blink-dog) | [Death Dog](Dogs.md#death-dog) | [Giant Hyena](Dogs.md#giant-hyena) | [Hell Hound](Dogs.md#hell-hound) | [Hyena](Dogs.md#hyena) | [Jackal](Dogs.md#jackal) | [Mastiff](Dogs.md#mastiff) | [Withered Hound](Dogs.md#withered-hound)
+- [Doppelganger](Doppelganger.md)
+- [Dragon Turtle](DragonTurtle.md)
+- [Drider](Drider.md)
+- [Duergar](Duergar.md)
 
 ## E
-- [Elementals](Elementals.md): 
-- [Elemental Servants](ElementalServants.md):
-- [Elephants](Elephants.md):
+- [Elementals](Elementals.md): [Air](Elementals.md#air) | [Earth](Elementals.md#earth) | [Fire](Elementals.md#fire) | [Ice](Elementals.md#ice) | [Magma](Elementals.md#magma) | [Water](Elementals.md#water)
+- [Elemental Servants](ElementalServants.md): [Galeb Duhr](ElementalServants.md#galeb-duhr) | [Invisible Stalker](ElementalServants.md#invisible-stalker) | [Magmin](ElementalServants.md#magmin) | [Sand Assassin](ElementalServants.md#sand-assassin) | [Water Weird](ElementalServants.md#water-weird)
+- [Elephants](Elephants.md): [Elephant](Elephants.md#elephant) | [Mammoth](Elephants.md#mammoth)
 - [Empyrean](Empyrean.md)
 - [Ettercap](Ettercap.md)
 - [Ettin](Ettin.md)
@@ -225,16 +244,16 @@ These creatures are found in various places across the map. Over time, all these
 - [Vampires](Vampires.md):
 
 ## W
-- [Wasps](Wasps.md)
+- [Wasps](Wasps.md): 
 - [Water Weird](ElementalServants.md#water-weird)
-- [Weasels](Weasels.md)
-- [Whales](Whales.md)
+- [Weasels](Weasels.md): 
+- [Whales](Whales.md): 
 - [Wight](Wight.md)
 - [Will O' Wisp](WillOWisp.md)
 - [Withered Hound](Dogs.md#withered-hound)
 - [Wolves](Wolves.md): [Wolf](Wolves.md#wolf) | [Dire Wolf](Wolves.md#dire-wolf) | [Winter Wolf](Wolves.md#winter-wolf) | [Worg](Wolves.md#worg)
 - [Worg](Wolves.md#worg)
-- [Worms](Worms.md): 
+- [Worms](Worms.md): [Purple Worm](Worms.md#purple-worm) | [Adult Lava Worm](Worms.md#adult-lava-worm) | [Young Lava Worm](Worms.md#young-lava-worm) | [Swarm of Rot Grubs](Worms.md#swarm-of-rot-grubs)
 - [Wraith](Wraith.md)
 - [Wyvern](Wyvern.md)
 

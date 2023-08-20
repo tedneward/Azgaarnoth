@@ -1,7 +1,7 @@
 # Horse
 Horses are common across Azgaarnoth, both wild and domesticated, particularly in the wild grasslands and plains of the [Al'Uma](../Geography/AlUma.md), where even wild herds are revered and honored.
 
-> Jump to: [Draft Horse](#draft-horse) | [Mule](#mule) | [Pony](#pony) | [Riding Horse](#riding-horse) | [Warhorse]
+> Jump to: [Draft Horse](#draft-horse) | [Mule](#mule) | [Pony](#pony) | [Riding Horse](#riding-horse) | [Warhorse](#warhorse)
 
 ## Draft Horse
 
