@@ -1,10 +1,3 @@
-
-E
-TABLE OF CONTENTS
-G
-F | Monsters
-Details, lore, and statistics for all monsters in the Monster Manual beginning with the letter "F" are detailed below.
-
 Faerie Dragon
 A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment fading only if it is attacked.
 
@@ -83,6 +76,7 @@ Euphoria Breath (Recharge 5–6). The dragon exhales a puff of euphoria gas at o
 
 5–6. The target doesn't move, and the only thing it can do on its turn is make a DC 11 Wisdom saving throw, ending the effect on itself on a success.
 
+===
 
 Flameskull
 Blazing green flames and mad, echoing laughter follow a disembodied skull as it patrols its demesne. When the undead flameskull discovers trespassers, it blasts the intruders with fiery rays from its eyes and dreadful spells called up from the dark recesses of its memory.
@@ -156,6 +150,7 @@ Multiattack. The flameskull uses Fire Ray twice.
 
 Fire Ray. Ranged Spell Attack: +5 to hit, range 30 ft., one target. Hit: 10 (3d6) fire damage.
 
+===
 
 Flumph
 The mysterious flumphs drift through the Underdark, propelled through the air by the jets whose sound gives them their name. A flumph glows faintly, reflecting its moods in its color. Soft pink means it is amused, deep blue is sadness, green expresses curiosity, and crimson is anger.
@@ -169,10 +164,6 @@ Psionic Siphons. Flumphs feed by siphoning mental energy from psionic creatures,
 Consuming psionic energy reveals the thoughts and emotions of the creatures on which the flumphs feed. Since so many of those creatures are evil, flumphs are often subjected to thoughts, emotions, and hungers that sicken their pure nature. When flumphs encounter good-hearted adventurers, they eagerly share the dark secrets they have learned in the hopes of casting down their evil sources of energy, even if doing so means they must seek out new sources of nourishment.
 
 Flumph Society. Flumphs live in complex and organized groups called cloisters, within which each flumph has a place and purpose. These harmonious groupings have no need for leaders, since all flumphs contribute in their own way.
-
-"Trust a flumph.”
-
-— X the Mystic's 1st rule of dungeon survival
 
 FLUMPH
 Small aberration, lawful good
@@ -217,6 +208,7 @@ Tendrils. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4
 
 Stench Spray (1/Day). Each creature in a 15-foot cone originating from the flumph must succeed on a DC 10 Dexterity saving throw or be coated in a foul-smelling liquid. A coated creature exudes a horrible stench for 1d4 hours. The coated creature is poisoned as long as the stench lasts, and other creatures are poisoned while within 5 feet of the coated creature. A creature can remove the stench on itself by using a short rest to bathe in water, alcohol, or vinegar.
 
+===
 
 Fomorian
 The most hideous and wicked of all giantkind are the godless fomorians, whose deformed bodies reflect their vile demeanors. Some have facial features randomly distributed around their misshapen, warty heads. Others have limbs of grossly different sizes and shapes, or emit terrible howls each time they draw breath through misshapen mouths. Their wretched appearance rarely evokes sympathy, however, for the fomorians brought their doom upon themselves with the evil that rules their hearts and minds.
@@ -276,6 +268,7 @@ Curse of the Evil Eye (Recharges after a Short or Long Rest). With a stare, the 
 
 The transformed creature can repeat the saving throw whenever it finishes a long rest, ending the effect on a success.
 
+===
 
 Fungi
 
@@ -285,6 +278,7 @@ Fungi spawn in organic matter, then break that matter down to consume it, feedin
 
 Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice of the Underdark. Transformed by the magic that permeates that underground realm, Underdark fungi often develop potent defensive mechanisms or abilities of mimicry and attack. The largest specimens can spread to create vast subterranean forests in which countless creatures live and feed.
 
+---
 
 Gas Spore
 The first gas spores are thought to have been spawned from dead beholders, whose moldering corpses fed a parasitic fungus with aberrant magic. Having long since adapted into a unique plant creature, a gas spore grows quickly and purposefully out of any corpse, creating a malevolent-looking mockery of the most feared denizen of the Underdark.
@@ -336,6 +330,8 @@ Actions
 
 Touch. Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. Hit: 1 poison damage, and the creature must succeed on a DC 10 Constitution saving throw or become infected with the disease described in the Death Burst trait.
 
+---
+
 Shrieker
 A shrieker is a human-sized mushroom that emits a piercing screech to drive off creatures that disturb it. Other creatures use the fungi as an alarm to signal the approach of prey, and various intelligent races of the Underdark cultivate shriekers on the outskirts of their communities to discourage trespassers.
 
@@ -374,6 +370,7 @@ Reactions
 
 Shriek. When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker's turns afterward.
 
+---
 
 Violet Fungus
 This purplish mushroom uses root-like feelers growing from its base to creep across cavern floors. The four stalks protruding from a violet fungi's central mass are used to lash out at prey, rotting flesh with the slightest touch. Any creature killed by a violet fungus decomposes rapidly. A new violet fungus sprouts from the moldering corpse, growing to full size in 2d6 days.

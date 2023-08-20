@@ -71,9 +71,15 @@ These creatures are found in various places across the map. Over time, all these
 - [Elephants](Elephants.md):
 - [Empyrean](Empyrean.md)
 - [Ettercap](Ettercap.md)
+- [Ettin](Ettin.md)
 
 ## F
+- [Faerie Dragon](FaerieDragon.md)
+- [Flameskull](Flameskull.md)
+- [Flumph](Flumph.md)
+- [Fomorian](Fomorian.md)
 - [Frogs](Frogs.md):
+- [Fungi](Fungi.md): 
 
 ## G
 - [Gargoyle](Gargoyle.md)
