@@ -220,9 +220,6 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
 >#### Actions
 >***Talons.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
 >
->
->
-
 ---
 
 ## Owl

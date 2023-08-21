@@ -136,19 +136,7 @@ A bheur hag loves watching unprepared people suffer and die for their mistakes d
 >- **Languages** Auran,Common,Giant
 >- **Challenge** 7; 9 if part of a coven
 >___
->
->
->
->
->
->
->
->
->
->
->
->
->***Graystaff Magic.***. The hag carries a graystaff, a length of gray wood that is a focus for her inner power. She can ride the staff as if it were a broom of flying. While holding the staff, she can cast additional spells with her Innate Spellcasting trait (these spells are marked with an asterisk). If the staff is lost or destroyed, the hag must craft another, which takes a year and a day. Only a bheur hag can use a graystaff.
+>>***Graystaff Magic.***. The hag carries a graystaff, a length of gray wood that is a focus for her inner power. She can ride the staff as if it were a broom of flying. While holding the staff, she can cast additional spells with her Innate Spellcasting trait (these spells are marked with an asterisk). If the staff is lost or destroyed, the hag must craft another, which takes a year and a day. Only a bheur hag can use a graystaff.
 >
 >***Ice Walk.***. The hag can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost her extra moment.
 >
