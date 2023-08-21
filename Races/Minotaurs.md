@@ -27,7 +27,9 @@ Minotaur clan names originate with a great hero whose descendants take on that n
 
 * **Age**. Minotaurs enter adulthood at around the age of 17 and can live up to 150 years.
 
-* **Size**. Minotaurs typically stand well over 6 feet tall and weigh an average of 300 pounds. Your size is Medium.
+* **Size**. Minotaurs typically stand well over 6 feet tall and weigh an average of 300 pounds. Your size is Large.
+
+* **Hit Points.** You start with 6d10 + (6 * CON bonus) hit points. Thse are "base" hit points, and do not count as Hit Dice for use during short rest periods, for example. These also do not count as character "levels"; thus, a Minotaur Fighter 1 has 1 Hit Dice and is 1 level, even though they have 6d10 + 1d10 + (7 * CON bonus) total hit points. *(GM's note: For this reason, minotaur PCs should usually be a few levels behind their peers, as a means of keeping balance.)*
 
 * **Speed**. Your base walking speed is 30 feet.
 

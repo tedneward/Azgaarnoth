@@ -302,13 +302,16 @@ def ingest(arg):
         return
 
     def ingestrawstatblock(lines):
+        print("Raw stat block")
+
         creature = Creature()
 
-        creature.name = lines[0].lower().strip().title()
-        (sizeandtype, alignment) = lines[1].split(',')
+        linect = 0
+        creature.name = lines[linect].lower().strip().title()
+        linect += 1
+        (sizeandtype, alignment) = lines[linect].split(',')
         creature.alignment = alignment.strip()
 
-        # TODO: type might have parens to it, eg, "Large humanoid (goblin)"
         if sizeandtype.find('(') > -1:
             # It has a parenthesized subtype, a la "large humanoid (goblin)"
             creature.size = sizeandtype.split(' ')[0]
@@ -317,20 +320,61 @@ def ingest(arg):
             creature.size = sizeandtype.split(' ')[0]
             creature.type = sizeandtype.split(' ')[1]
 
-        creature.ac = lines[3][len('Armor Class '):].strip()
+        linect += 1
+        while linect < len(lines):
+            line = lines[linect].strip()
+            print("Examining " + line)
 
-        creature.hp = lines[5][len('Hit Points '):].strip()
+            if len(line.strip()) < 1:
+                linect += 1
+                continue
 
-        creature.speed = lines[7][len('Speed '):].strip()
+            if 'Armor Class ' in line:
+                creature.ac = line[len('Armor Class '):].strip()
+            elif 'Hit Points ' in line:
+                creature.hp = line[len('Hit Points '):].strip()
+            elif 'Speed ' in line:
+                creature.speed = line[len('Speed '):].strip()
+            elif ('STR' in line) and ('INT' in line):
+                # They're all on one line and now this gets tricky
+                linect += 1
+                line = lines[linect]
+                groupofsix = line.split(')')
+                abct = 0
+                for scoreandbonus in groupofsix:
+                    score = int(scoreandbonus.strip().split(' ')[0])
+                    if abct == 0: creature.STR = score
+                    elif abct == 1: creature.DEX = score
+                    elif abct == 2: creature.CON = score
+                    elif abct == 3: creature.INT = score
+                    elif abct == 4: creature.WIS = score
+                    elif abct == 5: creature.CHA = score; break
+                    abct += 1
+            elif 'STR' in line:
+                linect += 1
+                creature.STR = int(lines[linect].split('(')[0])
+            elif 'DEX' in line:
+                linect += 1
+                creature.DEX = int(lines[linect].split('(')[0])
+            elif 'CON' in line:
+                linect += 1
+                creature.CON = int(lines[linect].split('(')[0])
+            elif 'INT' in line:
+                linect += 1
+                creature.INT = int(lines[linect].split('(')[0])
+            elif 'WIS' in line:
+                linect += 1
+                creature.WIS = int(lines[linect].split('(')[0])
+            elif 'CHA' in line:
+                linect += 1
+                creature.CHA = int(lines[linect].split('(')[0])
+            elif 'Saving Throws' in line:
+                break
+            else:
+                print("Unrecognized line: " + line)
 
-        creature.STR = int(lines[10].split('(')[0])
-        creature.DEX = int(lines[12].split('(')[0])
-        creature.CON = int(lines[14].split('(')[0])
-        creature.INT = int(lines[16].split('(')[0])
-        creature.WIS = int(lines[18].split('(')[0])
-        creature.CHA = int(lines[20].split('(')[0])
+            linect += 1
 
-        linect = 21
         while linect < len(lines):
             if len(lines[linect]) == 0:
                 # Do nothing and just drop to the end of this switch

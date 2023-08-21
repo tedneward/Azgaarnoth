@@ -1,22 +1,14 @@
 ## Minotaur
-A minotaur's roar is a savage battle cry that most civilized creatures fear. Born into the mortal realm by demonic rites, minotaurs are savage conquerors and carnivores that live for the hunt. Their brown or black fur is stained with the blood of fallen foes, and they carry the stench of death.
+A minotaur's roar is a savage battle cry that most civilized creatures fear. When the Hordes descended upon Azgaarnoth, minotaurs were at the front of the lines, hewing through Firstborn and human alike with glee.
 
-***The Beast Within.*** Most minotaurs are solitary carnivores that roam labyrinthine dungeons, twisting caves, primeval woods, and the maze-like streets and passages of desolate ruins. A minotaur can visualize every route it might take to close the distance to its prey.
+Over time, as more and more of the Hordish clans and tribes began to settle into Azgaarnothian territory, more and more of the minotaurs began to question the exercise and their presence within it: Was their purpose really to just die in battle so that orcs or hobgoblins could raise banners over blasted lands? Certainly, honor in battle was to be sought, but must it always be on others' terms? It is perhaps not surprising that it was minotaurs who started to look for ways to eke out different kinds of existence from the traditional Hordish ways, and that it was a minotaur that would eventually found the [Principality of Yithi](../Nations/Yithi.md).
 
-The scent of blood, the tearing of flesh, and the cracking of bones spur a minotaur's lust for carnage, overwhelming all thought and reason. In a blood rage, a minotaur charges anything it sees, butting and goring like a battering ram, then chopping the fallen in twain.
+Today, minotaurs can be found all over Azgaarnoth, often still working as individuals, and often still seeking honor and glory through battle and combat, but much of the time, they do so either to the ends of their employes (as part of a [mercenary company](../Organizations/MercCompanies/index.md)) or to the roar of the crowd (as a champion in a [dueling college](../Organizations/DuelingColleges/index.md)) or even with the sea spray in their hair as they chase down fleeing ships.
 
-Apart from ambushing creatures that wander into its labyrinth, a minotaur cares little for strategy or tactics. Minotaurs seldom organize, they don't respect authority or hierarchy, and they are notoriously difficult to enslave, let alone control.
-
-***Cults of the Horned King.*** Minotaurs are the dark descendants of humanoids transformed by the rituals of cults that reject the oppression of authority by returning to nature. Inductees often mistake these cults for druidic circles or totemic religions whose ceremonies involve entering a labyrinth while wearing a ceremonial animal mask.
-
-Within these bounded environments, cultists hunt, kill, and eat wild beasts, indulging their basest primal urges. In the end, however, sacrificial animals are exchanged for humanoid sacrifice — sometimes an inductee that tried to escape the cult after learning its secrets. These labyrinths become blood-soaked halls of slaughter, echoing to the cultists' savagery.
-
-Unknown to all but their highest-ranking leaders, these mystery cults are creations of the demon lord Baphomet, the Horned King, whose layer of the Abyss is a gigantic labyrinth. Some of his followers are fervent supplicants that plead for strength and power. Others come to the cult seeking a life free from authority's chains — and are liberated of their humanity instead as Baphomet transforms them into the minotaurs that echo his own savage form.
-
-Although they begin as creations of the Horned King, minotaurs can breed true with one another, giving rise to an independent race of Baphomet's savage children in the world.
+***Playable Race: Fear the Roar.*** [Minotaur](../Races/Minotaurs.md) characters often find that their strength and size lend well to martial classes, particularly barbarians or rangers; for the same reasons, they tend to shy away from roguish ones. Arcane-minded minotaurs often find themselves drawn to druidic, sorcerous, or shamanic professions. Few minotaurs have the time and patience for artifice or wizardry.
 
 >### Minotaur
->*Large monstrosity, chaotic evil*
+>*Large monstrosity, any chaotic*
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 76 (9d10 + 27)

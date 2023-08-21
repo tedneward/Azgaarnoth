@@ -165,7 +165,7 @@ These creatures are found in various places across the map. Over time, all these
 - [Mimic](Mimic.md)
 - [Mind Flayer](MindFlayer.md)
 - [Minotaur](Minotaur.md)
-- [Modrons](Modrons.md): 
+- [Modrons](Modrons.md): [Monodrone](Modrons.md#monodrone) | [Duodrone](Modrons.md#duodrone) | [Tridrone](Modrons.md#tridrone) | [Quadrone](Modrons.md#quadrone) | [Pentadrone](Modrons.md#pentadrone)
 - [Mummies](Mummies.md): 
 
 ## N

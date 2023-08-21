@@ -1,7 +1,7 @@
 # Goblins
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large — sometimes overwhelming — numbers. They crave power and regularly abuse whatever authority they obtain.
 
-> Jump to: [Goblin](#goblin) | [Goblin Boss](#goblin-boss) | [Worg Rider](#worg-rider)
+> Jump to: [Goblin](#goblin) | [Goblin Boss](#goblin-boss) | [Worg Rider](#worg-rider) | [Goblin Elite Warrior](#goblin-elite-warrior)
 
 ***Goblinoids.*** Goblins belong to a family of creatures called goblinoids. Their larger cousins, hobgoblins and bugbears, like to bully goblins into submission. Goblins are lazy and undisciplined, making them poor servants, laborers, and guards.
 
@@ -138,4 +138,42 @@ Some Goblin Worg Riders have learned to ride [Dire Wolves](Wolves.md#dire-wolf) 
 >***Scimitar.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 >
 >***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage. Worg riders can fire while mounted without penalty.
+>
+
+---
+
+## Goblin Elite Warrior
+This is the base Goblin with the [Elite Warrior](../Templates/EliteWarrior.md) template applied.
+
+>### Goblin Elite Warrior
+>*Small humanoid (goblinoid), neutral evil*
+>___
+>- **Armor Class** 18 (studded leather, shield)
+>- **Hit Points** 27 (6d6 + 6)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|18 (+4)|12 (+1)|10 (+0)|10 (+0)|9 (-1)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** Dex +6
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Stealth +8,Perception +2
+>- **Senses** darkvision 60 ft.,passive Perception 12
+>- **Languages** Common,Goblin
+>- **Challenge** 2
+>___
+>***Nimble Escape.***. The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
+>
+>#### Actions
+>***Multiattack.***. The goblin makes two attacks.
+>
+>***Shortsword.***. Melee Weapon Attack: +6 to hit, reach 5ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+>
+>***Shortbow.***. Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 7 (1d6 + 4) piercing
 >
