@@ -8,12 +8,7 @@ These creatures are found in various places across the map. Over time, all these
     - [Knight](Templates/Knight.md)
     - [Soldier](Templates/Soldier.md)
 - Dire
-- Draconic
-    - [Dracolich](Templates/DragonTemplate-Dracolich.md)
-    - [Ghost](Templates/DragonTemplate-Ghost.md)
-    - [Shadow](Templates/DragonTemplate-Shadow.md)
-    - [Skeletal](Templates/DragonTemplate-Skeletal.md)
-    - [Zombie](Templates/DragonTemplate-Zombie.md)
+- [Draconic](Templates/Dragon.md): [Dracolich](Templates/Dragon.md#dracolich), [Ghost](Templates/Dragon.md#ghost), [Shadow](Templates/Dragon.md#shadow), [Skeletal](Templates/Dragon.md#skeletal), [Zombie](Templates/Dragon.md#zombie)
 - [Half-Dragon](Templates/HalfDragon.md)
 - Undead
     - [Ghost](Templates/Ghost.md)

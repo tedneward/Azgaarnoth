@@ -368,7 +368,9 @@ def ingest(arg):
             elif 'CHA' in line:
                 linect += 1
                 creature.CHA = int(lines[linect].split('(')[0])
-            elif 'Saving Throws' in line:
+            elif 'Proficiency Bonus' in line:
+                creature.profbonus = line[len('Proficiency Bonus '):].strip()
+            elif 'Skills' in line:
                 break
             else:
                 print("Unrecognized line: " + line)

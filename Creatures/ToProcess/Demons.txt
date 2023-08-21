@@ -163,9 +163,7 @@ Whip. Melee Weapon Attack: +14 to hit, reach 30 ft., one target. Hit: 15 (2d6 + 
 
 Teleport. The balor magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
-Demons are painfully difficult to summon and control. It is not a burden for the weak of heart or the weak of spirit.
-
-— From the DEMONOMICON OF IGGWILV
+---
 
 Barlgura
 The barlgura represents the savagery and brutality of the Abyss. Barlguras gather in packs to take down tougher foes, keep gruesome trophies from their victories, and decorate their territory with such objects.
@@ -227,6 +225,7 @@ Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4)
 
 Fist. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) bludgeoning.
 
+---
 
 Chasme
 This loathsome demon resembles an unspeakable crossing of humanoid and fly. A chasme shuffles about on four spindly legs that can find purchase on walls and ceilings. A droning sound precedes the approach of a chasme, inflicting foes with a terrible lethargy that leaves them open to attack.
@@ -280,6 +279,7 @@ Actions
 
 Proboscis. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 16 (4d6 + 2) piercing damage plus 24 (7d6) necrotic damage, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. If this effect reduces a creature's hit point maximum to 0, the creature dies. This reduction to a creature's hit point maximum lasts until the creature finishes a long rest or until it is affected by a spell like greater restoration.
 
+---
 
 Dretch
 Dretches are among the weakest of demons — repulsive, self-loathing creatures doomed to spend eternity in a state of perpetual discontent. Their low intelligence makes dretches unsuitable for anything but the simplest tasks. However, what they lack in potential, they make up for in sheer malice. Dretches mill about in mobs, voicing their displeasure as an unsettling din of hoots, snarls, and grunts.
@@ -327,6 +327,7 @@ Claws. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4) sla
 
 Fetid Cloud (1/Day). A 10-foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a DC 11 Constitution saving throw or be poisoned until the start of its next turn. While poisoned in this way, the target can take either an action or a bonus action on its turn, not both, and can't take reactions
 
+---
 
 Glabrezu
 A glabrezu takes great pleasure in destroying mortals through temptation, and these creatures are among the few demons to offer their service to creatures foolish enough to summon them.
@@ -384,6 +385,7 @@ Pincer. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (2d10 
 
 Fist. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage.
 
+---
 
 Goristro
 The goristro resembles a fiendish minotaur towering more than twenty feet tall. When controlled by a demon lord, goristros make formidable living siege engines and prized pets. Goristros possess preternatural cunning when navigating labyrinthine passages and shifting corridors, pursuing foes in a terrifying hunt.
@@ -445,6 +447,7 @@ Hoof. Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 23 (3d10 + 
 
 Gore. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 45 (7d10 + 7) piercing damage.
 
+---
 
 Hezrou
 Hezrous serve as foot soldiers in the demonic hordes of the Abyss. Although physically powerful, they are weak-minded and hezrous can easily be duped into sacrificing themselves by more powerful demons. As they press their attacks into the heart of an enemy's forces, their foul stench can sicken even the toughest foes.
@@ -496,15 +499,12 @@ Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4
 
 Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
 
+---
 
 Manes
 Souls of evil creatures that descend to the Lower Planes are transformed into manes — the lowest form of demonkind. These wretched fiends attack any non-demon they see, and they are called to the Material Plane by those seeking to sow death and chaos.
 
 Orcus, the Prince of Undeath, has the power to transform manes into undead monsters, most often ghouls and shadows. Other demon lords feed on manes, destroying them utterly. Otherwise, killing a manes causes it to dissipate into a cloud of reeking vapor that reforms into another manes after one day.
-
-"Have no pity for this damnable wretch. Bloody thing could grow up to be a demon lord one day.”
-
-— Emirikol the Chaotic
 
 MANES
 Small fiend (demon), chaotic evil
@@ -543,14 +543,9 @@ Actions
 
 Claws. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4) slashing damage.
 
+---
 
 Marilith
-"The temple was strewn with body parts. We concluded that the cultists had summoned a powerful demon and not lived to regret it. Not wanting to get hacked to pieces ourselves, we cut short our expedition and returned to the village of Hommlet with our tails between our legs. Rufus and Burne had a good laugh at our expense, let me tell you.”
-
-— Nelumé, a young half-elf wizard, chronicling her
-one and only visit to the Temple of Elemental Evil
-
-
 Terrible to behold, a marilith has the lower body of a great serpent and the upper torso of a humanoid female with six arms.
 
 Wielding a wicked blade in each of its six hands, a marilith is a devastating foe that few can match in battle. These demons possess keen minds and a finely honed sense of tactics, and they are able to lead and unite other demons in common cause. Mariliths are often encountered as captains at the head of a demonic horde, where they embrace any opportunity to rush headlong into battle.
@@ -610,6 +605,7 @@ Reactions
 
 Parry. The marilith adds 5 to its AC against one melee attack that would hit it. To do so, the marilith must see the attacker and be wielding a melee weapon.
 
+---
 
 Nalfeshnee
 The nalfeshnee is one of the most grotesque demons — a corpulent mockery of ape and boar standing twice the height of a human, with feathered wings that seem too small for its bloated body. These brutish features conceal a remarkable intelligence and cunning.
@@ -667,20 +663,19 @@ Horror Nimbus (Recharge 5–6). The nalfeshnee magically emits scintillating, mu
 
 Teleport. The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
+---
 
 Quasit
 Quasits infest the Lower Planes. Physically weak, they keep to the shadows to plot mischief and wickedness. More powerful demons use quasits as spies and messengers when they aren't devouring them or pulling them apart to pass the time.
 
 A quasit can assume animal forms, but in its true form it looks like a 2-foot-tall green humanoid with a barbed tail and horns. The quasit has clawed fingers and toes, and these claws can deliver an irritating poison. It prefers to be invisible when it attacks.
 
-VARIANT: QUASIT FAMILIAR
-
-Mortal spellcasters interested in extraplanar familiars find quasits easy to summon and eager to serve. The quasit plays the part of the obsequious servant. It serves its master well, but it goads the mortal to greater and greater acts of chaos and evil. Such quasits have the following trait.
+VARIANT: QUASIT FAMILIAR. Mortal spellcasters interested in extraplanar familiars find quasits easy to summon and eager to serve. The quasit plays the part of the obsequious servant. It serves its master well, but it goads the mortal to greater and greater acts of chaos and evil. Such quasits have the following trait.
 
 Familiar. The quasit can serve another creature as a familiar, forming a telepathic bond with its willing master. While the two are bonded, the master can sense what the quasit senses as long as they are within 1 mile of each other. While the quasit is within 10 feet of its master, the master shares the quasit's Magic Resistance trait. At any time and for any reason, the quasit can end its service as a familiar, ending the telepathic bond.
 
 QUASIT
-Tiny fiend (demon, shapechanger), chaotic evil
+Tiny fiend (demon;shapechanger), chaotic evil
 
 Armor Class 13
 
@@ -726,6 +721,7 @@ Scare (1/Day). One creature of the quasit's choice within 20 feet of it must suc
 
 Invisibility. The quasit magically turns invisible until it attacks or uses Scare, or until its concentration ends (as if concentrating on a spell). Any equipment the quasit wears or carries is invisible with it.
 
+---
 
 Shadow Demon
 When a demon's body is destroyed but the fiend is prevented from reforming in the Abyss, its essence sometimes takes on a vague physical form. These shadow demons exist outside the normal abyssal hierarchy, since their creation results most often from mortal magic, not from transformation or promotion.
@@ -783,6 +779,7 @@ Actions
 
 Claws. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) psychic damage or, if the demon had advantage on the attack roll, 17 (4d6 + 3) psychic damage.
 
+---
 
 Vrock
 Vrocks are dull-witted, capricious fiends that live only to create pain and carnage. A vrock resembles a giant hybrid of humanoid and vulture, its gnarled, bestial body and broad wings stinking of offal.
@@ -840,6 +837,7 @@ Spores (Recharge 6). A 15-foot-radius cloud of toxic spores extends out from the
 
 Stunning Screech (1/Day). The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a demon must succeed on a DC 14 Constitution saving throw or be stunned until the end of the vrock's next turn.
 
+---
 
 Yochlol
 The yochlols are the Handmaidens of Lolth — extensions of the Spider Queen's will dedicated to acting as her spies, taskmasters, and agents of villainy. They attend their goddess in the Demonweb Pits, but Lolth sometimes dispatches yochlols to the Material Plane to guard her temples and to aid her most devout priestesses. Yochlols don't form outside Lolth's realm of the Demonweb, and they serve no demon lords except their queen.
@@ -847,7 +845,7 @@ The yochlols are the Handmaidens of Lolth — extensions of the Spider Queen's w
 Outside the Abyss, a yochlol can assume the guise of a female drow or monstrous spider to conceal its demonic form. In its true form, the fiend appears as a pillar of yellow slime with a single malevolent eye. In its drow and true form, a yochlol's touch carries the same venomous touch as its spider form's bite.
 
 YOCHLOL
-Medium fiend (demon, shapechanger), chaotic evil
+Medium fiend (demon;shapechanger), chaotic evil
 
 Armor Class 15 (natural armor)
 
