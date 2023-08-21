@@ -2,6 +2,7 @@
 These creatures are found in various places across the map. Over time, all these will be "tuned" to the map specifically, but many of them are direct "lifts" from the official D&D content so that I have convenient links that are under my control for various purposes.
 
 ## Creature Modifier Templates
+- [Alpha](Templates/Alpha.md)
 - Humanoid
     - [Berserker](Templates/Berserker.md)
     - [Knight](Templates/Knight.md)
@@ -40,6 +41,7 @@ These creatures are found in various places across the map. Over time, all these
 - [Baboon](Simians.md#baboon)
 - [Badger](Badgers.md#badger)
 - [Badgers](Badgers.md): [Badger](Badgers.md#badger) | [Giant Badger](Badgers.md#giant-badger)
+- [Banderhobb](Banderhobb.md)
 - [Banshee](Banshee.md)
 - [Barghests](Barghests.md): [Barghest](Barghests.md#barghest) | [Greater Barghest](Barghests.md#greater-barghest)
 - [Basilisk](Basilisk.md)
@@ -47,12 +49,13 @@ These creatures are found in various places across the map. Over time, all these
 - [Bears](Bears.md): [Black](Bears.md#black-bear) | [Brown](Bears.md#brown-bear) | [Cave](Bears.md#cave-bear) | [Polar](Bears.md#polar-bear)
 - [Beetles](Beetles.md): [Giant Fire Beetle](Beetles.md#giant-fire-beetle) | [Swarm of Beetles](Beetles.md#swarm-of-beetles)
 - [Behir](Behir.md)
-- [Beholderkin](Beholderkin.md): [Beholder](Beholderkin.md#beholder) | [Death Tyrant](Beholderkin.md#death-tyrant) | [Spectator](Beholderkin.md#spectator)
+- [Beholderkin](Beholderkin.md): [Beholder](Beholderkin.md#beholder) | [Death Tyrant](Beholderkin.md#death-tyrant) | [Spectator](Beholderkin.md#spectator) | [Death Kiss](Beholderkin.md#death-kiss) | [Gauth](Beholderkin.md#gauth) | [Gazer](Beholderkin.md#gazer)
 - [Birds](Birds.md): [Blood Hawk](Birds.md#blood-hawk) | [Eagle](Birds.md#eagle) | [Giant Eagle](Birds.md#giant-eagle) | [Giant Owl](Birds.md#giant-owl) | [Giant Vulture](Birds.md#giant-vulture) | [Hawk](Birds.md#hawk) | [Owl](Birds.md#owl) | [Raven](Birds.md#raven) | [Roc](Birds.md#roc) | [Swarm of Ravens](Birds.md#swarm-of-ravens) | [Vulture](Birds.md#vulture)
 - [Blights](Blights.md): [Needle Blight](Blights.md#needle-blight) | [Twig Blight](Blights.md#twig-blight) | [Vine Blight](Blights.md#vine-blight)
 - [Blink Dog](Dogs.md#blink-dog)
 - [Boars](Boars.md): [Boar](Boars.md#boar) | [Giant Boar](Boars.md#giant-boar)
 - [Bodak](Bodak.md)
+- [Boggle](Boggle.md)
 - [Boneclaw](Boneclaw.md)
 - [Bonedrinkers](Bonedrinkers.md): [Bonedrinker](Bonedrinkers.md#bonedrinker) | [Lesser](Bonedrinkers.md#lesser-bonedrinker) | [Greater](Bonedrinkers.md#greater-bonedrinker)
 - [Brothers of Undeath](BrotherOfUndeath.md): [Sanctity](BrotherOfUndeath.md#brother-of-sanctity) | [Shadow](BrotherOfUndeath.md#brother-of-shadow) | [Solemnity](BrotherOfUndeath.md#brother-of-solemnity) | [Spell](BrotherOfUndeath.md#brother-of-spell) | [Spite](BrotherOfUndeath.md#brother-of-spite) | [Steel](BrotherOfUndeath.md#brother-of-steel) | [Death Knight](#death-knight)
@@ -61,27 +64,42 @@ These creatures are found in various places across the map. Over time, all these
 
 ## C
 - [Cats](Cats.md): [Cat](Cats.md#cat) | [Lion](Cats.md#lion) [Panther](Cats.md#panther) | [Saber-Toothed Tiger](Cats.md#saber-toothed-tiger) | [Tiger](Cats.md#tiger)
-- [Cattle](Cattle.md): [Cow](Cattle.md#Cow) | [Ox](Cattle.md#ox) | [Rothé](Cattle.md#rothé) | [Stench Kow](Cattle.md#stench-kow)
+- [Catoblepas](Catoblepas.md)
+- [Cattle](Cattle.md): [Cow](Cattle.md#Cow) | [Ox](Cattle.md#ox) | [Rothé](Cattle.md#rothé) | [Stench Kow](Cattle.md#stench-kow) | [Aurochs](Cattle.md#aurochs)
+- [Cave Fisher](CaveFisher.md)
+- [Centaur](Centaur.md)
 - [Centipedes](Centipedes.md): [Carrion Crawler](Centipedes.md#carrion-crawler) | [Giant Centipede](Centipedes.md#giant-centipede) | [Swarm of Centipedes](Centipedes.md#swarm-of-centipedes)
 - [Chimera](Chimera.md)
+- [Chitines](Chitines.md):
 - [Chuul](Chuul.md)
+- [Cockatrice](Cockatrice.md)
 - [Corpse Flower](CorpseFlower.md)
+- [Couatl](Couatl.md)
 - [Crabs](Crabs.md): [Crab](Crabs.md#crab) | [Giant Crab](Crabs.md#giant-crab)
+- [Cranium Rats](CraniumRats.md)
 - [Crawling Claw](CrawlingClaw.md)
 - [Crocodiles](Crocodiles.md): [Crocodile](Crocodiles.md#crocodile) | [Giant Crocodile](Crocodiles.md#giant-crocodile)
+- [Cyclops](Cyclops.md)
 
 ## D
+- [Darklings](Darklings.md)
 - [Darkmantle](Darkmantle.md)
 - [Deathlocks](Deathlocks.md): [Deathlock Warlock](Deathlocks.md#deathlock-warlock) | [Deathlock Mastermind](Deathlocks.md#deathlock-mastermind) | [Deathlock Wight](Deathlocks.md#deathlock-wight)
 - [Death Dog](Dogs.md#death-dog)
+- [Deep Gnome](DeepGnome.md)
+- [Deep Scion](DeepScion.md)
 - [Deer](Deer.md): [Deer](Deer.md#deer-1) | [Elk](Deer.md#elk) | [Giant Elk](Deer.md#giant-elk)
 - [Demilich](Demilich.md)
+- [Demons](Demons.md):
+- [Devils](Devils.md):
 - [Digester](Digester.md)
 - [Displacer Beast](DisplacerBeast.md)
-- [Dog](Dogs.md): [Dog](Dogs.md#dog) | [Blink Dog](Dogs.md#blink-dog) | [Death Dog](Dogs.md#death-dog) | [Giant Hyena](Dogs.md#giant-hyena) | [Hell Hound](Dogs.md#hell-hound) | [Hyena](Dogs.md#hyena) | [Jackal](Dogs.md#jackal) | [Mastiff](Dogs.md#mastiff) | [Withered Hound](Dogs.md#withered-hound)
+- [Dog](Dogs.md): [Dog](Dogs.md#dog) | [Blink Dog](Dogs.md#blink-dog) | [Death Dog](Dogs.md#death-dog) | [Giant Hyena](Dogs.md#giant-hyena) | [Hell Hound](Dogs.md#hell-hound) | [Hyena](Dogs.md#hyena) | [Jackal](Dogs.md#jackal) | [Mastiff](Dogs.md#mastiff) | [Withered Hound](Dogs.md#withered-hound) | [Shadow Mastiff](Dogs.md#shadow-mastiff) | [Yeth Hound](Dogs.md#yeth-hound)
 - [Doppelganger](Doppelganger.md)
 - [Dragon Turtle](DragonTurtle.md)
+- [Drake Companion](DrakeCompanion.md)
 - [Drider](Drider.md)
+- [Dryad](Dryad.md)
 - [Duergar](Duergar.md)
 
 ## E
@@ -94,10 +112,12 @@ These creatures are found in various places across the map. Over time, all these
 
 ## F
 - [Faerie Dragon](FaerieDragon.md)
+- [Firenewts](Firenewts.md): 
+- [Flail Snail](FlailSnail.md)
 - [Flameskull](Flameskull.md)
 - [Flumph](Flumph.md)
 - [Fomorian](Fomorian.md)
-- [Frogs](Frogs.md): [Frog](Frogs.md#frog) | [Giant Frog](Frogs.md#giant-frog) | [Giant Ice Toad](Frogs.md#giant-ice-toad) | [Giant Toad](Frogs.md#giant-toad)
+- [Frogs](Frogs.md): [Frog](Frogs.md#frog) | [Giant Frog](Frogs.md#giant-frog) | [Giant Ice Toad](Frogs.md#giant-ice-toad) | [Giant Toad](Frogs.md#giant-toad) | [Froghemoth](Frogs.md#froghemoth)
 - [Fungi](Fungi.md): [Gas Spore](Fungi.md#gas-spore) | [Shrieker](Fungi.md#shrieker) | [Violet Fungus](Fungi.md#violet-fungus)
 
 ## G
@@ -261,7 +281,7 @@ These creatures are found in various places across the map. Over time, all these
 - [Xorn](Xorn.md)
 
 ## Y
-- [Yuan-ti](YuanTi.md): 
+- [Yuan-ti](YuanTi.md): [Abomination](YuanTi.md#yuan-ti-abomination) | [Malison](YuanTi.md#yuan-ti-malison) | [Pureblood](YuanTi.md#yuan-ti-pureblood) | [Anathema](YuanTi.md#yuan-ti-anathema) | [Broodguard](YuanTi.md#yuan-ti-broodguard) | [Mind Whisperer](YuanTi.md#yuan-ti-mind-whisperer) | [Nightmare Speaker](YuanTi.md#yuan-ti-nightmare-speaker) | [Pit Master](YuanTi.md#yuan-ti-pit-master)
 
 ## Z
 - [Zombie](Zombie.md)
