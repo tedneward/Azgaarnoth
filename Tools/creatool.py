@@ -627,6 +627,9 @@ def ingest(arg):
             if lines[linect].find(u"’") > 0:
                 line = lines[linect].replace(u"’", "'")
                 lines[linect] = line
+            if lines[linect].find(u"—") > 0:
+                line = lines[linect].replace(u"—", "--")
+                lines[linect] = line
             linect += 1
 
         if lines[0][0:2] == '# ':
