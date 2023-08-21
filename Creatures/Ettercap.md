@@ -1,7 +1,7 @@
 ## Ettercap
-![](Ettercap.png)
-
 Ettercaps are humanoid spiders that tend, feed, and watch over spiders the way a shepherd oversees a flock of sheep. They lair deep in remote forests.
+
+![](Ettercap.png)
 
 Fine strands of silk stream from glands in an ettercap's abdomen, letting it shoot sticky strands of webbing to bind, entrap, or strangle its victims. It can also use its webbing to fashion elaborate snares and nets, which often festoon its lair.
 
@@ -10,6 +10,12 @@ Fine strands of silk stream from glands in an ettercap's abdomen, letting it sho
 ***Sylvan Despoilers.*** Though they dwell in the wilds, ettercaps have no desire to live in harmony with nature. A forest infested with ettercaps transforms into a gloomy place, choked with webs and infested with giant spiders, giant insects, and other sinister predators. Creatures that wander too far into such a wood are soon lost in a maze of webs that dangle with the bones and lost treasures of the ettercaps' victims.
 
 ***Enemies of the Fey.*** Ettercaps are natural enemies of fey creatures. The foul creatures set web snares to catch sprites and pixies, which they hungrily devour, and will encase a dryad's tree in webbing in a vain attempt to trap the dryad. Otherwise timid fey will sometimes approach outsiders for help in dealing with an ettercap infestation, being ill-equipped to deal with the malevolent creatures themselves.
+
+***VARIANT: WEB GARROTE.*** Some ettercaps like to strangle prey using garrotes fashioned from webbing. An ettercap so armed gains the following action option, which it uses in place of its claws.
+
+> ***Web Garrote.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one Medium or Small creature against which the ettercap has advantage on the attack roll. Hit: 4 (1d4 + 2) bludgeoning damage, and the target is grappled (escape DC 12). Until this grapple ends, the target can't breathe, and the ettercap has advantage on attack rolls against it.
+
+
 
 >### Ettercap
 >*Medium monstrosity, neutral evil*

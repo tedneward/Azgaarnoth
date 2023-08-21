@@ -33,7 +33,7 @@ Taking its name from its crimson feathers and aggressive nature, the blood hawk 
 >___
 >***Keen Sight.*** The hawk has advantage on Wisdom (Perception) checks that rely on sight.
 >
->***Pack Tactics.*** The hawk has advantage on an attack roll against a creature if at least one of the hawk’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+>***Pack Tactics.*** The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 >#### Actions
 >***Beak.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
@@ -99,7 +99,7 @@ Most giant eagles are found in the foothills and mountains of the [Daw Mountains
 >- **Condition Immunities** 
 >- **Skills** Perception +4
 >- **Senses** passive Perception 14
->- **Languages** Giant Eagle,understands Common and Auran but can’t speak them
+>- **Languages** Giant Eagle,understands Common and Auran but can't speak them
 >- **Challenge** 1
 >___
 >***Keen Sight.*** The eagle has advantage on Wisdom (Perception) checks that rely on sight.
@@ -137,10 +137,10 @@ Giant owls often befriend fey and other sylvan creatures and are guardians of th
 >- **Condition Immunities** 
 >- **Skills** Perception +5,Stealth +4
 >- **Senses** darkvision 120 ft.,passive Perception 15
->- **Languages** Giant Owl,understands Common,Elvish,and Sylvan but can’t speak them
+>- **Languages** Giant Owl,understands Common,Elvish,and Sylvan but can't speak them
 >- **Challenge** 1/4
 >___
->***Flyby.*** The owl doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+>***Flyby.*** The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 >
 >***Keen Hearing and Sight.*** The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 >
@@ -173,12 +173,12 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
 >- **Condition Immunities** 
 >- **Skills** Perception +3
 >- **Senses** passive Perception 13
->- **Languages** understands Common but can’t speak
+>- **Languages** understands Common but can't speak
 >- **Challenge** 1
 >___
 >***Keen Sight and Smell.*** The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
 >
->***Pack Tactics.*** The vulture has advantage on an attack roll against a creature if at least one of the vulture’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+>***Pack Tactics.*** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 >#### Actions
 >***Multiattack.*** The vulture makes two attacks: one with its beak and one with its talons.
@@ -250,12 +250,12 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
 >- **Languages** —
 >- **Challenge** 0
 >___
->***Flyby.***. The owl doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+>***Flyby.*** The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 >
->***Keen Hearing and Sight.***. The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+>***Keen Hearing and Sight.*** The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 >
 >#### Actions
->***Talons.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
+>***Talons.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
 >
 
 ---
@@ -285,10 +285,10 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
 >- **Languages** —
 >- **Challenge** 0
 >___
->***Mimicry.***. The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
+>***Mimicry.*** The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
 >
 >#### Actions
->***Beak.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+>***Beak.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
 >
 
 ---
@@ -327,19 +327,19 @@ Sometimes a roc's nest contains treasures from the caravans or ships they raid, 
 >- **Languages** --
 >- **Challenge** 11
 >___
->***Keen Sight.***. The roc has advantage on Wisdom (Perception) checks that rely on sight.
+>***Keen Sight.*** The roc has advantage on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Multiattack.***. The roc makes two attacks: one with its beak and one with its talons.
+>***Multiattack.*** The roc makes two attacks: one with its beak and one with its talons.
 >
->***Beak.***. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 27 (4d8 + 9) piercing damage.
+>***Beak.*** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 27 (4d8 + 9) piercing damage.
 >
->***Talons.***. Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
+>***Talons.*** Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
 
 ---
 
 ## Swarm of Ravens
-A swarm of ravens isn’t an ordinary or benign assemblies of bird. They form as a result of some sinister or unwholesome influence. A hag, for example, might have the power to turn swarms of ravens against her enemies. Even druids can’t charm these swarms, and their aggressiveness is borderline unnatural.
+A swarm of ravens isn't an ordinary or benign assemblies of bird. They form as a result of some sinister or unwholesome influence. A hag, for example, might have the power to turn swarms of ravens against her enemies. Even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
 
 >### Swarm of Ravens
 >*Medium swarm, unaligned*
@@ -364,10 +364,10 @@ A swarm of ravens isn’t an ordinary or benign assemblies of bird. They form as
 >- **Languages** —
 >- **Challenge** 1/4
 >___
->***Swarm.***. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can’t regain hit points or gain temporary hit points.
+>***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.
 >
 >#### Actions
->***Beaks.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm’s space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
+>***Beaks.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 >
 
 ---
@@ -397,10 +397,10 @@ A swarm of ravens isn’t an ordinary or benign assemblies of bird. They form as
 >- **Languages** —
 >- **Challenge** 0
 >___
->***Keen Sight and Smell.***. The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
+>***Keen Sight and Smell.*** The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
 >
->***Pack Tactics.***. The vulture has advantage on an attack roll against a creature if at least one of the vulture’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+>***Pack Tactics.*** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 >#### Actions
->***Beak.***. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage.
+>***Beak.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage.
 >

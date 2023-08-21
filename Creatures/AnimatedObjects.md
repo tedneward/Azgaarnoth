@@ -3,7 +3,7 @@ Animated objects are crafted with potent magic to follow the commands of their c
 
 > Jump to: [Armor](#animated-armor) | [Flying Sword](#flying-sword) | [Rug of Smothering](#rug-of-smothering)
 
-***Constructed Nature.*** An animated object doesn’t require air, food, drink, or sleep.
+***Constructed Nature.*** An animated object doesn't require air, food, drink, or sleep.
 
 The magic that animates an object is dispelled when the construct drops to 0 hit points. An animated object reduced to 0 hit points becomes inanimate and is too damaged to be of much use or value to anyone.
 
@@ -39,7 +39,7 @@ To add to its menace, animated armor is frequently enchanted with scripted speec
 >- **Languages** —
 >- **Challenge** 1
 >___
->***Antimagic Susceptibility.*** The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
+>***Antimagic Susceptibility.*** The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
 >
 >***False Appearance.*** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 >
@@ -54,7 +54,7 @@ To add to its menace, animated armor is frequently enchanted with scripted speec
 ## Flying Sword
 ![](AnimatedObjects-FlyingSword.png)
 
-A flying sword dances through the air, fighting with the confidence of a warrior that can’t be injured. Swords are the most common weapons animated with magic. Axes, clubs, daggers, maces, spears, and even self-loading crossbows are also known to exist in animated object form.
+A flying sword dances through the air, fighting with the confidence of a warrior that can't be injured. Swords are the most common weapons animated with magic. Axes, clubs, daggers, maces, spears, and even self-loading crossbows are also known to exist in animated object form.
 
 >### Flying Sword
 >*Small construct, unaligned*
@@ -79,9 +79,9 @@ A flying sword dances through the air, fighting with the confidence of a warrior
 >- **Languages** —
 >- **Challenge** 1/4
 >___
->***Antimagic Susceptibility.*** The sword is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the sword must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
+>***Antimagic Susceptibility.*** The sword is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
 >
->***False Appearance.*** While the sword remains motionless and isn’t flying, it is indistinguishable from a normal sword.
+>***False Appearance.*** While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.
 >
 >#### Actions
 >***Longsword.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.
@@ -92,9 +92,9 @@ A flying sword dances through the air, fighting with the confidence of a warrior
 ## Rug of Smothering
 ![](AnimatedObjects-RugOfSmothering.png)
 
-Would-be thieves and careless heroes arrive at the doorsteps of an enemy’s abode, eyes and ears alert for traps, only to end their quest prematurely as the rugs beneath their feet animate and smother them to death.
+Would-be thieves and careless heroes arrive at the doorsteps of an enemy's abode, eyes and ears alert for traps, only to end their quest prematurely as the rugs beneath their feet animate and smother them to death.
 
-A rug of smothering can be made in many different forms, from a finely woven carpet fit for a queen to a coarse mat in a peasant’s hovel. Creatures with the ability to sense magic detect the rug’s false magical aura.
+A rug of smothering can be made in many different forms, from a finely woven carpet fit for a queen to a coarse mat in a peasant's hovel. Creatures with the ability to sense magic detect the rug's false magical aura.
 
 In some cases, a rug of smothering is disguised as a carpet of flying or another beneficial magic item. However, a character who stands or sits on the rug, or who attempts to utter a word of command, is quickly trapped as the rug of smothering rolls itself tightly around its victim.
 
@@ -121,7 +121,7 @@ In some cases, a rug of smothering is disguised as a carpet of flying or another
 >- **Languages** —
 >- **Challenge** 2
 >___
->***Antimagic Susceptibility.*** The rug is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the rug must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
+>***Antimagic Susceptibility.*** The rug is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the rug must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
 >
 >***Damage Transfer.*** While it is grappling a creature, the rug takes only half the damage dealt to it, and the creature grappled by the rug takes the other half.
 >

@@ -94,28 +94,28 @@ A greater barghest is nearly indistinguishable from its smaller kin, but is more
 >- **Languages** Abyssal,Common,Goblin,Infernal,telepathy 60 ft.
 >- **Challenge** 5
 >___
->***Fire Banishment.***. When the barghest starts its turn engulfed in flames that are at least 10 feet high or wide, it must succeed on a DC 15 Charisma saving throw or be instantly banished to Gehenna. Instantaneous bursts of flame (such as a red dragon's breath or a fireball spell) don't have this effect on the barghest.
+>***Fire Banishment.*** When the barghest starts its turn engulfed in flames that are at least 10 feet high or wide, it must succeed on a DC 15 Charisma saving throw or be instantly banished to Gehenna. Instantaneous bursts of flame (such as a red dragon's breath or a fireball spell) don't have this effect on the barghest.
 >
->***Keen Smell.***. The barghest has advantage on Wisdom (Perception) checks that rely on smell.
+>***Keen Smell.*** The barghest has advantage on Wisdom (Perception) checks that rely on smell.
 >
->***Innate Spellcasting.***. The barghest's innate spellcasting ability is Charisma (spell save DC 12). The barghest can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The barghest's innate spellcasting ability is Charisma (spell save DC 12). The barghest can innately cast the following spells, requiring no material components:
 >
->***At will: [levitate](.***../Magic/Spells/levitate.md), [minor illusion](../Magic/Spells/minor-illusion.md), [pass without trace](../Magic/Spells/pass-without-trace.md)
+>***At will: [levitate](.***/Magic/Spells/levitate.md), [minor illusion](../Magic/Spells/minor-illusion.md), [pass without trace](../Magic/Spells/pass-without-trace.md)
 >
->***1/day each: [charm person](.***../Magic/Spells/charm-monster.md), [dimension door](../Magic/Spells/dimension-door.md), [suggestion](../Magic/Spells/suggestion.md)
+>***1/day each: [charm person](.***/Magic/Spells/charm-monster.md), [dimension door](../Magic/Spells/dimension-door.md), [suggestion](../Magic/Spells/suggestion.md)
 >
 >#### Actions
->***Multiattack.***. The barghest makes one bite attack and two claw attacks. Instead of a bite attack, the barghest can use the feed action.
+>***Multiattack.*** The barghest makes one bite attack and two claw attacks. Instead of a bite attack, the barghest can use the feed action.
 >
->***Bite.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 7 (1d8 + 3) piercing damage.
+>***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 7 (1d8 + 3) piercing damage.
 >
->***Claw.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 6 (1d6 + 3) slashing damage.
+>***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 6 (1d6 + 3) slashing damage.
 >
->***Feed.***. The barghest targets one creature with 0 hit points it can see within 5 feet of it. The target must make a Constitution saving throw against the barghet's spell DC. On failure, the target dies and cannot be resurrected by spells or spell like features until the barghest is killed.
+>***Feed.*** The barghest targets one creature with 0 hit points it can see within 5 feet of it. The target must make a Constitution saving throw against the barghet's spell DC. On failure, the target dies and cannot be resurrected by spells or spell like features until the barghest is killed.
 >
 >#### Bonus Actions
 >
->***Shapechanger.***. The barghest can use an action to polymorph into a goblin, a wolf, or back into its true form.
+>***Shapechanger.*** The barghest can use an action to polymorph into a goblin, a wolf, or back into its true form.
 >
 >While in goblin form, the barghest cannot use its natural weapons or feed action but can wield weapons and wear armor. Its statistics, other than its size, is unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.
 >

@@ -92,7 +92,7 @@ The majestic giant elk is rare to the point that its appearance is often taken a
 >- **Condition Immunities** 
 >- **Skills** Perception +4
 >- **Senses** passive Perception 14
->- **Languages** Giant Elk,understands Common,Elvish,and Sylvan but can’t speak them
+>- **Languages** Giant Elk,understands Common,Elvish,and Sylvan but can't speak them
 >- **Challenge** 2
 >___
 >***Charge.*** If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.

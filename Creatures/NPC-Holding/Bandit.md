@@ -104,4 +104,4 @@ The thug is often an experienced ruffian, often having served under a leader for
 **Parry.** The leader adds 2 to its AC against one melee attack that would hit it. To do so, the leader must see the attacker and be wielding a melee weapon.
 
 #### Description
-It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The bandit leader has these qualities in spades. More than treasure, a bandit leader craves infamy. A prisoner who appeals to the leader’s vanity or ego is more likely to be treated fairly than a prisoner who does not or claims not to know anything of the leader’s colorful reputation.
+It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The bandit leader has these qualities in spades. More than treasure, a bandit leader craves infamy. A prisoner who appeals to the leader's vanity or ego is more likely to be treated fairly than a prisoner who does not or claims not to know anything of the leader's colorful reputation.

@@ -39,12 +39,12 @@ The dragon has resistance to acid damage.
 
 The dragon gains the following action option:
 
-**Command Plants (1/Day).** The dragon targets a number of plant creatures within 120 feet of it and whose combined Challenge Rating is less than or equal to the dragon’s. All affected creatures must succeed on a Wisdom saving throw (save DC = 8 + the dragon's proficiency bonus + the dragon's Charisma modifier) or be dominated by the dragon as if by a [dominate monster]() spell.
+**Command Plants (1/Day).** The dragon targets a number of plant creatures within 120 feet of it and whose combined Challenge Rating is less than or equal to the dragon's. All affected creatures must succeed on a Wisdom saving throw (save DC = 8 + the dragon's proficiency bonus + the dragon's Charisma modifier) or be dominated by the dragon as if by a [dominate monster]() spell.
 
 ### Dominating Presence
 *Prerequisites: must be a spellcaster with at least one charm spell; must be Adult or older.*
 
-When targeting a creature of the dragon’s Challenge Rating or lower, the dragon’s charms ignore resistance to (or advantage on saves against) the charmed condition. In addition, the dragon can use a bonus or legendary action to exert precise control of creatures it has charmed or dominated.
+When targeting a creature of the dragon's Challenge Rating or lower, the dragon's charms ignore resistance to (or advantage on saves against) the charmed condition. In addition, the dragon can use a bonus or legendary action to exert precise control of creatures it has charmed or dominated.
 
 ### Forest Dragon
 The dragon has advantage on Dexterity (Stealth) checks made to hide in forest environments.

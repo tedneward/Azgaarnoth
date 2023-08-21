@@ -1,5 +1,5 @@
 # Knight Template
-Knights are warriors who pledge service to rulers, religious orders, and noble causes. A knight’s alignment (and the general alignment of the pledge itself) determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners, and is typically outfitted with the best equipment the ruler, religious order, or noble cause can buy.
+Knights are warriors who pledge service to rulers, religious orders, and noble causes. A knight's alignment (and the general alignment of the pledge itself) determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners, and is typically outfitted with the best equipment the ruler, religious order, or noble cause can buy.
 
 Requirements: Sponsored, must not be a solitary creature type
 

@@ -1,7 +1,7 @@
 # Gith
 The warlike githyanki and the contemplative githzerai are a sundered people — two cultures that utterly despise one another. Before there were githyanki or githzerai, these creatures were a single race enslaved by the mind flayers. Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the mind flayers enslaved and changed them, none can say. Not even the original name of their race remains from that distant time. Although they attempted to overthrow their masters many times, their rebellions were repeatedly crushed until a great leader named Gith arose.
 
-After much bloodshed, Gith and her followers threw off the yoke of their illithid masters, but another leader named Zerthimon emerged in the aftermath of battle. Zerthimon challenged Gith’s motives, claiming that her strict martial leadership and desire for vengeance amounted to little more than another form of slavery for her people. A rift erupted between followers of each leader, and they eventually became the two races whose enmity endures to this day.
+After much bloodshed, Gith and her followers threw off the yoke of their illithid masters, but another leader named Zerthimon emerged in the aftermath of battle. Zerthimon challenged Gith's motives, claiming that her strict martial leadership and desire for vengeance amounted to little more than another form of slavery for her people. A rift erupted between followers of each leader, and they eventually became the two races whose enmity endures to this day.
 
 > Jump to: [Githyanki](#githyanki) [Githyanki Warrior](#warrior) [Githyanki Knight](#knight) [Githyanki Gish](#gish) [Githyanki Kith'rak](#kithrak) [Githyanki Supreme Commander](#supreme-commander) 
 > Jump to: [Githzerai](#githzerai) [Githzerai Monk](#monk) [Githzerai Zerth](#zerth) [Githzerai Anarch](#anarch) [Githzerai Enlightened](#enlightened)
@@ -13,17 +13,17 @@ The githyanki plunder countless worlds from the decks of their astral vessels an
 
 **Astral Raiders.** The githyanki despise all other races, undertaking devastating raids that take them from their strongholds in the Astral Plane to the farflung corners of the multiverse. War is the ultimate expression of githyanki culture, and their pitiless black eyes know no mercy. After a raid, they leave shattered survivors enough food and resources to weakly endure. Later, the githyanki return to their conquered foes, plundering them again and again.
 
-**Followers of Gith.** In their own language, githyanki means “followers of Gith.” Under the guidance of Gith, the githyanki stratified into a militaristic society, with a strict caste system, dedicated to the ongoing fight against the victims and sworn enemies of their race. When their leader Gith perished, she was replaced by her undead adviser, Vlaakith. The lich-queen forbade worship of all beings except herself.
+**Followers of Gith.** In their own language, githyanki means "followers of Gith.” Under the guidance of Gith, the githyanki stratified into a militaristic society, with a strict caste system, dedicated to the ongoing fight against the victims and sworn enemies of their race. When their leader Gith perished, she was replaced by her undead adviser, Vlaakith. The lich-queen forbade worship of all beings except herself.
 
 Of all their enemies, the githyanki most hate their former masters, the mind flayers. Their close kin, the githzerai, are second in their enmity. All other creatures are treated with simple contempt by the githyanki, whose xenophobic pride defines their view of inferior races.
 
-**Silver Swords.** In ancient times, gith knights created special weapons to combat their mind flayer masters. These silver swords channel the force of the wielder’s will, dealing psychic as well as physical damage. A githyanki can’t become a knight until it masters the singular discipline needed to will such a blade into existence. A silver sword is equivalent to a greatsword, and takes on the properties of a +3 greatsword in the hands of its creator.
+**Silver Swords.** In ancient times, gith knights created special weapons to combat their mind flayer masters. These silver swords channel the force of the wielder's will, dealing psychic as well as physical damage. A githyanki can't become a knight until it masters the singular discipline needed to will such a blade into existence. A silver sword is equivalent to a greatsword, and takes on the properties of a +3 greatsword in the hands of its creator.
 
 In the eyes of the githyanki, each silver sword is a priceless relic and a work of art. Githyanki knights will hunt down and destroy any non-githyanki that dares to carry or wield a silver sword, reclaiming it for their people.
 
-**Red Dragon Riders.** In the uprising against the illithids, Gith sought allies. Her adviser Vlaakith appealed to Tiamat, the goddess of evil dragonkind, and Gith ventured into the Nine Hells to meet with her. Only Tiamat now knows what passed between them, but Vlaakith returned to the Astral Plane with the Dragon Queen’s red dragon consort Ephelomon, who proclaimed that his kind would forever act as allies to the githyanki. Not all red dragons honor the alliance kindled so long ago, but most at least don’t consider the githyanki their enemies.
+**Red Dragon Riders.** In the uprising against the illithids, Gith sought allies. Her adviser Vlaakith appealed to Tiamat, the goddess of evil dragonkind, and Gith ventured into the Nine Hells to meet with her. Only Tiamat now knows what passed between them, but Vlaakith returned to the Astral Plane with the Dragon Queen's red dragon consort Ephelomon, who proclaimed that his kind would forever act as allies to the githyanki. Not all red dragons honor the alliance kindled so long ago, but most at least don't consider the githyanki their enemies.
 
-Outposts in the Mortal Realm. Since creatures that dwell on the Astral Plane don’t age, the githyanki establish creches in remote areas of the Material Plane to raise their young. Doubling as military academies, these creches train young githyanki to harness their psychic and combat abilities. When a githyanki grows to adulthood and slays a mind flayer as part of a sacred rite of passage, it is permitted to rejoin its people on the Astral Plane.
+Outposts in the Mortal Realm. Since creatures that dwell on the Astral Plane don't age, the githyanki establish creches in remote areas of the Material Plane to raise their young. Doubling as military academies, these creches train young githyanki to harness their psychic and combat abilities. When a githyanki grows to adulthood and slays a mind flayer as part of a sacred rite of passage, it is permitted to rejoin its people on the Astral Plane.
 
 
 ## Warrior
@@ -47,7 +47,7 @@ Outposts in the Mortal Realm. Since creatures that dwell on the Astral Plane don
 
 **Challenge** 3 (700 XP)
 
-**Innate Spellcasting (Psionics).** The githyanki’s innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:
+**Innate Spellcasting (Psionics).** The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:
 
 * *At will*: mage hand (the hand is invisible)
 * *3/day each*: jump, misty step, nondetection (self only)
@@ -80,7 +80,7 @@ Outposts in the Mortal Realm. Since creatures that dwell on the Astral Plane don
 
 **Challenge** 8 (3,900 XP)
 
-**Innate Spellcasting (Psionics).** The githyanki’s innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no components:
+**Innate Spellcasting (Psionics).** The githyanki's innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 
 * *At will*: mage hand (the hand is invisible)
 * *3/day each*: jump, misty step, nondetection (self only), tongues
@@ -116,7 +116,7 @@ Outposts in the Mortal Realm. Since creatures that dwell on the Astral Plane don
 
 **Challenge** 10 (5,900 XP)
 
-**Innate Spellcasting (Psionics).** The githyanki’s innate spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no components:
+**Innate Spellcasting (Psionics).** The githyanki's innate spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 
 * *At will*: mage hand (the hand is invisible)
 * *3/day each*: jump, misty step, nondetection (self only)
@@ -165,7 +165,7 @@ Their keen minds and psionic gifts allow the githyanki to master magic. Gish ble
 
 **Challenge** 12 (8,400 XP)
 
-**Innate Spellcasting (Psionics).** The githyanki’s innate spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no components:
+**Innate Spellcasting (Psionics).** The githyanki's innate spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 
 * *At will*: mage hand (the hand is invisible)
 * *3/day each*: blur, jump, misty step, nondetection (self only)
@@ -182,7 +182,7 @@ Their keen minds and psionic gifts allow the githyanki to master magic. Gish ble
 **Parry.** The githyanki adds 4 to its AC against one melee attack that would hit it. To do so, the githyanki must see the attacker and be wielding a melee weapon.
 
 #### Description
-The githyanki’s militarized culture assigns ranks and responsibilities to its citizens. Groups of ten warriors follow the commands of the sarths (githyanki warriors), while ten sarths obey the commands of the mighty kith’rak. These champions earn their status through torturous training and psionic testing until they can command the respect of their underlings.
+The githyanki's militarized culture assigns ranks and responsibilities to its citizens. Groups of ten warriors follow the commands of the sarths (githyanki warriors), while ten sarths obey the commands of the mighty kith'rak. These champions earn their status through torturous training and psionic testing until they can command the respect of their underlings.
 
 
 
@@ -209,11 +209,11 @@ The githyanki’s militarized culture assigns ranks and responsibilities to its 
 
 **Challenge** 14 (11,500 XP)
 
-**Innate Spellcasting (Psionics).** The githyanki’s innate spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no components:
+**Innate Spellcasting (Psionics).** The githyanki's innate spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 
 * *At will*: mage hand (the hand is invisible)
 * *3/day each*: jump, levitate (self only), misty step, nondetection (self only)
-* *1/day each*: Bigby’s hand, mass suggestion, plane shift, telekinesis
+* *1/day each*: Bigby's hand, mass suggestion, plane shift, telekinesis
 
 #### Actions
 **Multiattack.** The githyanki makes two greatsword attacks.
@@ -224,7 +224,7 @@ The githyanki’s militarized culture assigns ranks and responsibilities to its 
 **Parry.** The githyanki adds 5 to its AC against one melee attack that would hit it. To do so, the githyanki must see the attacker and be wielding a melee weapon.
 
 #### Legendary Actions
-The githyanki can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The githyanki regains spent legendary actions at the start of its turn.
+The githyanki can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The githyanki regains spent legendary actions at the start of its turn.
 
 **Attack (2 Actions).** The githyanki makes a greatsword attack.
 
@@ -233,7 +233,7 @@ The githyanki can take 3 legendary actions, choosing from the options below. Onl
 **Teleport.** The githyanki magically teleports, along with any equipment it is wearing and carrying, to an unoccupied space it can see within 30 feet of it. It also becomes insubstantial until the start of its next turn. While insubstantial, it can move through other creatures and objects as if they were difficult terrain. If it ends its turn inside an object, it takes 16 (3d10) force damage and is moved to the nearest unoccupied space.
 
 #### Description
-Supreme commanders lead the githyanki armies, each one commanding ten kith’raks, who in turn lead the rest of their forces. Most supreme commanders ride red dragons into battle.
+Supreme commanders lead the githyanki armies, each one commanding ten kith'raks, who in turn lead the rest of their forces. Most supreme commanders ride red dragons into battle.
 
 
 
@@ -245,13 +245,13 @@ Focused philosophers and austere ascetics, the githzerai pursue lives of rigid o
 
 **Order amid Chaos.** The githzerai willingly dwell in the heart of utter chaos in Limbo — a twisting, mercurial plane prone to manipulation and subjugation by githzerai minds strong enough to master it. Limbo is a maelstrom of primal matter and energy, its terrain a storm of rock and earth swept up in torrents of murky liquid, buffeted by strong winds, blasted by fire, and chilled by crushing walls of ice.
 
-The forces of Limbo react to sentience, however. Using the power of their minds, the githzerai tame the plane’s chaotic elements, causing them to settle into fixed and survivable forms and creating oases and sanctuaries within the maelstrom.
+The forces of Limbo react to sentience, however. Using the power of their minds, the githzerai tame the plane's chaotic elements, causing them to settle into fixed and survivable forms and creating oases and sanctuaries within the maelstrom.
 
 Githzerai fortress-monasteries stand resolute against the chaos that surrounds them, virtually impervious to the turmoil of their surroundings, because the githzerai will it. Each monastery is overseen by monks that impose a strict schedule of chants, meals, martial arts training, and devotions according to their own philosophy. Behind their psionically fortified walls, the githzerai embrace thought, learning, psionic power, order, and discipline above all other things.
 
-The social hierarchy of the githzerai is based on merit, and those githzerai who are the wisest teachers and the most skilled at physical and mental combat become leaders. The githzerai revere great heroes and teachers of the past, emulating those figures’ virtues in their everyday lives.
+The social hierarchy of the githzerai is based on merit, and those githzerai who are the wisest teachers and the most skilled at physical and mental combat become leaders. The githzerai revere great heroes and teachers of the past, emulating those figures' virtues in their everyday lives.
 
-**Disciples of Zerthimon.** Githzerai revere Zerthimon, the founder of their race. Although Gith won their people’s freedom, Zerthimon saw her as unfit to lead. He believed that her warmongering would soon make her a tyrant no better than the mind flayers.
+**Disciples of Zerthimon.** Githzerai revere Zerthimon, the founder of their race. Although Gith won their people's freedom, Zerthimon saw her as unfit to lead. He believed that her warmongering would soon make her a tyrant no better than the mind flayers.
 
 Skilled githzerai monks that best exemplify the teachings and principles of Zerthimon are called zerths. These powerful and disciplined monks can shift their bodies from one plane to another using only the power of their minds.
 
@@ -282,7 +282,7 @@ As disciplined as they are, the githzerai have never forgotten their long impris
 
 **Challenge** 2 (450 XP)
 
-**Innate Spellcasting (Psionics).** The githzerai’s innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:
+**Innate Spellcasting (Psionics).** The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:
 
 * *At will*: mage hand (the hand is invisible)
 * *3/day each*: feather fall, jump, see invisibility, shield
@@ -319,7 +319,7 @@ As disciplined as they are, the githzerai have never forgotten their long impris
 
 **Challenge** 6 (2,300 XP)
 
-**Innate Spellcasting (Psionics).** The githzerai’s spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no components:
+**Innate Spellcasting (Psionics).** The githzerai's spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 
 * *At will*: mage hand (the hand is invisible)
 * *3/day each*: feather fall, jump, see invisibility, shield
@@ -357,7 +357,7 @@ As disciplined as they are, the githzerai have never forgotten their long impris
 
 **Challenge** 10 (5,900 XP)
 
-**Innate Spellcasting (Psionics).** The githzerai’s innate spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no components:
+**Innate Spellcasting (Psionics).** The githzerai's innate spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 
 * *At will*: mage hand (the hand is invisible)
 * *3/day each*: blur, expeditious retreat, feather fall, jump, see invisibility, shield
@@ -370,7 +370,7 @@ As disciplined as they are, the githzerai have never forgotten their long impris
 
 **Unarmed Strike.** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage plus 13 (3d8) psychic damage.
 
-**Temporal Strike (Recharge 6).** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) bludgeoning damage plus 52 (8d12) psychic damage. The target must succeed on a DC 16 Wisdom saving throw or move 1 round forward in time. A target moved forward in time vanishes for the duration. When the effect ends, the target reappears in the space it left or in an unoccupied space nearest to that space if it’s occupied.
+**Temporal Strike (Recharge 6).** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) bludgeoning damage plus 52 (8d12) psychic damage. The target must succeed on a DC 16 Wisdom saving throw or move 1 round forward in time. A target moved forward in time vanishes for the duration. When the effect ends, the target reappears in the space it left or in an unoccupied space nearest to that space if it's occupied.
 
 #### Description
 Githzerai never stop training. They spend long hours in meditation to transcend the limits of their forms and to apprehend the nature of reality. Zerths who complete the next tier of their training become one of the githzerai known as the enlightened.
@@ -400,7 +400,7 @@ Githzerai never stop training. They spend long hours in meditation to transcend 
 
 **Challenge** 16 (15,000 XP)
 
-**Innate Spellcasting (Psionics).** The anarch’s innate spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It can innately cast the following spells, requiring no components:
+**Innate Spellcasting (Psionics).** The anarch's innate spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 
 * *At will*: mage hand (the hand is invisible)
 * *3/day each*: feather fall, jump, see invisibility, shield, telekinesis
@@ -414,7 +414,7 @@ Githzerai never stop training. They spend long hours in meditation to transcend 
 **Unarmed Strike.** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage plus 18 (4d8) psychic damage.
 
 #### Legendary Actions
-The anarch can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The anarch regains spent legendary actions at the start of its turn.
+The anarch can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The anarch regains spent legendary actions at the start of its turn.
 
 **Strike.** The anarch makes one unarmed strike.
 
@@ -425,16 +425,16 @@ The anarch can take 3 legendary actions, choosing from the options below. Only o
 #### Description
 The most powerful of the githzerai, anarchs lead communities and maintain the adamantine citadels that serve as strong points in planes beyond Limbo. They have formidable psionic capabilities, able to manipulate the unformed substance of their adopted plane with a thought. These rare githzerai are sages and mystics, and their word is law.
 
-##### An Anarch’s Lair
+##### An Anarch's Lair
 In Limbo, githzerai anarchs create islands of tranquility in the otherwise turbulent plane. By directing its psionic power, an anarch can give form to formless substance, creating mountains, lakes, and structures of any composition to serve as a foundation for a githzerai community.
 
-**Lair Actions.** An anarch can use lair actions. On initiative count 20 (losing initiative ties), the anarch can take a lair action to cause one of the following effects; the anarch can’t use the same effect two rounds in a row:
+**Lair Actions.** An anarch can use lair actions. On initiative count 20 (losing initiative ties), the anarch can take a lair action to cause one of the following effects; the anarch can't use the same effect two rounds in a row:
 
-* The anarch casts the lightning bolt spell (at 5th level), but the anarch can change the damage type from lightning to cold, fire, psychic, radiant, or thunder. If the spell deals damage other than fire or lightning, it doesn’t ignite flammable objects.
-* The anarch casts the creation spell (as a 9th-level spell) using the unformed substance of Limbo instead of shadow material. If used in Limbo, the object remains until the anarch’s concentration is broken, regardless of its composition. If the anarch moves more than 120 feet from the object, its concentration breaks.
-* The anarch can magically move an object it can see within 150 feet of it by making a Wisdom check with advantage. The DC depends on the object’s size: DC 5 for Tiny, DC 10 for Small, DC 15 for Medium, DC 20 for Large, and DC 25 for Huge or larger.
+* The anarch casts the lightning bolt spell (at 5th level), but the anarch can change the damage type from lightning to cold, fire, psychic, radiant, or thunder. If the spell deals damage other than fire or lightning, it doesn't ignite flammable objects.
+* The anarch casts the creation spell (as a 9th-level spell) using the unformed substance of Limbo instead of shadow material. If used in Limbo, the object remains until the anarch's concentration is broken, regardless of its composition. If the anarch moves more than 120 feet from the object, its concentration breaks.
+* The anarch can magically move an object it can see within 150 feet of it by making a Wisdom check with advantage. The DC depends on the object's size: DC 5 for Tiny, DC 10 for Small, DC 15 for Medium, DC 20 for Large, and DC 25 for Huge or larger.
 
-**Regional Effects.** The region containing an anarch’s lair is warped by its presence, which creates one or more of the following effects:
+**Regional Effects.** The region containing an anarch's lair is warped by its presence, which creates one or more of the following effects:
 
 * In Limbo, the anarch can spend 10 minutes stabilizing a 5-mile area centered on it, causing the unformed substance to take whatever inanimate form the anarch chooses. During that process, the anarch determines the shape and composition of the forms created.
 * The anarch stabilizes any object created in Limbo and brought to the Material Plane for as long as the anarch remains within 1 mile of it (no action required).

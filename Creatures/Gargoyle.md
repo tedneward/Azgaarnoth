@@ -5,11 +5,17 @@ The inanimate gargoyles that perch atop great buildings are inspired by these ma
 
 ***Deadly Reputation.*** Gargoyles have a reputation for cruelty. Statues carved into the likenesses of gargoyles appear in the architecture of countless cultures to frighten away trespassers. Although such sculptures are only decorative, real gargoyles can hide among them to ambush unsuspecting victims. A gargoyle might alleviate the tedium of its watch by catching and tormenting birds or rodents, but its long wait only increases its craving for harming sentient creatures.
 
-***Cruel Servants.*** Gargoyles are easily inspired by the cunning of an intelligent master. They enjoy simple tasks such as guarding a master’s home, torturing and killing interlopers, and anything else that involves minimum effort and maximum pain and carnage.
+***Cruel Servants.*** Gargoyles are easily inspired by the cunning of an intelligent master. They enjoy simple tasks such as guarding a master's home, torturing and killing interlopers, and anything else that involves minimum effort and maximum pain and carnage.
 
 Gargoyles sometimes serve demons for their propensity for wanton chaos and destruction. Powerful spellcasters can also easily enlist gargoyle guardians to keep watch over their gates and walls. Gargoyles have the patience and fortitude of stone, and will serve even the cruelest master for years without complaint.
 
-***Elemental Nature.*** A gargoyle doesn’t require air, food, drink, or sleep.
+***Elemental Nature.*** A gargoyle doesn't require air, food, drink, or sleep.
+
+***Shards OF ELEMENTAL EVIL.*** As Ogrémoch, the evil Prince of Elemental Earth, treads his stony realm, it leaves shards of broken rock in his wake. Imbued with slivers of sentience, these shards thrum with the essence of the elemental prince, growing over long years into vaguely humanoid rock formations that resolve at last into the hard, cruel shapes of gargoyles.
+
+Ogrémoch doesn't create gargoyles deliberately, but they are a physical manifestation of his evil. Gargoyles are mockeries of the elemental air that Ogrémoch despises. They are heavy creatures of living stone, yet capable of flight. Like their creator, they possess a fundamental hatred for beings of elemental air, aarakocra in particular, and relish every opportunity to destroy such creatures.
+
+On their home plane, gargoyles carve out earth motes that Ogrémoch hurtles into Aaqa, the domain of the aarakocra and the benevolent Wind Dukes the bird folk serve in the Elemental Plane of Air.
 
 >### Gargoyle
 >*Medium elemental, chaotic evil*
@@ -26,7 +32,7 @@ Gargoyles sometimes serve demons for their propensity for wanton chaos and destr
 >- **Proficiency Bonus** +0
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
->- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks that aren’t adamantine
+>- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks that aren't adamantine
 >- **Damage Immunities** poison
 >- **Condition Immunities** exhaustion,petrified,poisoned
 >- **Skills** 

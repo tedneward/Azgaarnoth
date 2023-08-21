@@ -32,7 +32,7 @@ A corpse flower can sprout atop the grave of an evil necromancer or the remains 
 >
 >The corpse flower digests one humanoid corpse in its body and instantly regains 11 (2d10) hit points. Nothing of the digested body remains. Any equipment on the corpse is expelled from the corpse flower in its space.
 >
->The corpse flower animates one dead humanoid in its body, turning it into a zombie. The zombie appears in an unoccupied space within 5 feet of the corpse flower and acts immediately after it in the initiative order. The zombie acts as an ally of the corpse flower but isn’t under its control, and the flower’s stench clings to it (see the Stench of Death trait).
+>The corpse flower animates one dead humanoid in its body, turning it into a zombie. The zombie appears in an unoccupied space within 5 feet of the corpse flower and acts immediately after it in the initiative order. The zombie acts as an ally of the corpse flower but isn't under its control, and the flower's stench clings to it (see the Stench of Death trait).
 >
 >***Spider Climb.*** The corpse flower can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 >

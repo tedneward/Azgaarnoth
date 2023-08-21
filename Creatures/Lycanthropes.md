@@ -31,27 +31,27 @@ Some individuals see little point in fighting the curse and accept what they are
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
->- **Damage Immunities** bludgeoning,piercing,and slashing damage from nonmagical attacks that aren’t silvered
+>- **Damage Immunities** bludgeoning,piercing,and slashing damage from nonmagical attacks that aren't silvered
 >- **Condition Immunities** 
 >- **Skills** Perception +7
 >- **Senses** passive Perception 17
->- **Languages** Common (can’t speak in bear form)
+>- **Languages** Common (can't speak in bear form)
 >- **Challenge** 5
 >___
->***Shapechanger.***. The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
+>***Shapechanger.*** The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 >
->***Keen Smell.***. The werebear has advantage on Wisdom (Perception) checks that rely on smell.
+>***Keen Smell.*** The werebear has advantage on Wisdom (Perception) checks that rely on smell.
 >
 >#### Actions
->***Multiattack.***. In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.
+>***Multiattack.*** In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.
 >
->***Bite (Bear or Hybrid Form Only).***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebear lycanthropy.
+>***Bite (Bear or Hybrid Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebear lycanthropy.
 >
->***Claw (Bear or Hybrid Form Only).***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
+>***Claw (Bear or Hybrid Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
 >
 >Greataxe (Humanoid or Hybrid Form Only). Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.
 >
->Werebears are powerful lycanthropes with the ability to temper their monstrous natures and reject their violent impulses. In humanoid form, they are large, muscular, and covered in hair matching the color of their ursine form’s fur. A werebear is a loner by nature, fearing what might happen to innocent creatures around it when its bestial nature takes over.
+>Werebears are powerful lycanthropes with the ability to temper their monstrous natures and reject their violent impulses. In humanoid form, they are large, muscular, and covered in hair matching the color of their ursine form's fur. A werebear is a loner by nature, fearing what might happen to innocent creatures around it when its bestial nature takes over.
 >
 >When a werebear transforms, it grows to enormous size, lashing out with weapons or claws. It fights with the ferocity of a bear, though even in its bestial forms, it avoids biting so as to not pass on its curse. Typically, a werebear passes on its lycanthropy only to chosen companions or apprentices, spending the time that follows helping the new lycanthrope accept the curse in order to control it.
 >
@@ -81,16 +81,16 @@ Wereboars live in small family groups in remote forest areas, building ramshackl
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
->- **Damage Immunities** bludgeoning,piercing,and slashing damage from nonmagical attacks that aren’t silvered
+>- **Damage Immunities** bludgeoning,piercing,and slashing damage from nonmagical attacks that aren't silvered
 >- **Condition Immunities** 
 >- **Skills** Perception +2
 >- **Senses** passive Perception 12
->- **Languages** Common (can’t speak in boar form)
+>- **Languages** Common (can't speak in boar form)
 >- **Challenge** 4
 >___
->***Shapechanger.***. The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
+>***Shapechanger.*** The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 >
->***Charge (Boar or Hybrid Form Only).***. If the wereboar moves at least 15 feet straight toward a target and then hits it with its tusks on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+>***Charge (Boar or Hybrid Form Only).*** If the wereboar moves at least 15 feet straight toward a target and then hits it with its tusks on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 >
 >Relentless (Recharges after a Short or Long Rest). If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 >
@@ -99,7 +99,7 @@ Wereboars live in small family groups in remote forest areas, building ramshackl
 >
 >Maul (Humanoid or Hybrid Form Only). Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.
 >
->***Tusks (Boar or Hybrid Form Only).***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
+>***Tusks (Boar or Hybrid Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
 >
 
 ---
@@ -107,7 +107,7 @@ Wereboars live in small family groups in remote forest areas, building ramshackl
 ## Wererat
 Wererats are cunning lycanthropes with sly, avaricious personalities. They are wiry and twitchy in humanoid form, with thin hair and darting eyes. In their humanoid and hybrid forms, wererats prefer light weapons and use ambush tactics rather than fighting as a pack. Although a wererat can deliver a nasty bite in its rat form, it favors that form for stealthy infiltration and escape rather than combat.
 
-A wererat clan operates much like a thieves’ guild, with wererats transmitting their curse only to creatures they want to induct into the clan. Wererats that are accidentally cursed or break loose from the clan’s control are quickly hunted down and killed.
+A wererat clan operates much like a thieves' guild, with wererats transmitting their curse only to creatures they want to induct into the clan. Wererats that are accidentally cursed or break loose from the clan's control are quickly hunted down and killed.
 
 Wererat clans are found throughout urban civilization, often dwelling in cellars and catacombs. These creatures are common in the sewers beneath major cities, viewing those subterranean areas as their hunting grounds. Rats and giant rats are commonly found living among wererats.
 
@@ -127,21 +127,21 @@ Wererat clans are found throughout urban civilization, often dwelling in cellars
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
->- **Damage Immunities** bludgeoning,piercing,and slashing damage from nonmagical attacks that aren’t silvered
+>- **Damage Immunities** bludgeoning,piercing,and slashing damage from nonmagical attacks that aren't silvered
 >- **Condition Immunities** 
 >- **Skills** Perception +2,Stealth +4
 >- **Senses** darkvision 60 ft. (rat form only),passive Perception 12
->- **Languages** Common (can’t speak in rat form)
+>- **Languages** Common (can't speak in rat form)
 >- **Challenge** 2
 >___
->***Shapechanger.***. The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
+>***Shapechanger.*** The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 >
->***Keen Smell.***. The wererat has advantage on Wisdom (Perception) checks that rely on smell.
+>***Keen Smell.*** The wererat has advantage on Wisdom (Perception) checks that rely on smell.
 >
 >#### Actions
 >Multiattack (Humanoid or Hybrid Form Only). The wererat makes two attacks, only one of which can be a bite.
 >
->***Bite (Rat or Hybrid Form Only).***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.
+>***Bite (Rat or Hybrid Form Only).*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.
 >
 >Shortsword (Humanoid or Hybrid Form Only). Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 >
@@ -151,7 +151,7 @@ Wererat clans are found throughout urban civilization, often dwelling in cellars
 ---
 
 ## Weretiger
-Weretigers are ferocious hunters and warriors with a haughty and fastidious nature. Lithe and sleekly muscular in humanoid form, they are taller than average and meticulously groomed. Weretigers grow to enormous size in animal and hybrid form, but they fight in their more refined humanoid form when they can. They don’t like to pass on their curse, because every new weretiger means competition for territory and prey.
+Weretigers are ferocious hunters and warriors with a haughty and fastidious nature. Lithe and sleekly muscular in humanoid form, they are taller than average and meticulously groomed. Weretigers grow to enormous size in animal and hybrid form, but they fight in their more refined humanoid form when they can. They don't like to pass on their curse, because every new weretiger means competition for territory and prey.
 
 Weretigers live in jungles on the fringes of humanoid civilization, traveling to isolated settlements to trade or revel. They live and hunt alone or in small family groups.
 
@@ -171,25 +171,25 @@ Weretigers live in jungles on the fringes of humanoid civilization, traveling to
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
->- **Damage Immunities** bludgeoning,piercing,and slashing damage from nonmagical attacks that aren’t silvered
+>- **Damage Immunities** bludgeoning,piercing,and slashing damage from nonmagical attacks that aren't silvered
 >- **Condition Immunities** 
 >- **Skills** Perception +5,Stealth +4
 >- **Senses** darkvision 60 ft.,passive Perception 15
->- **Languages** Common (can’t speak in tiger form)
+>- **Languages** Common (can't speak in tiger form)
 >- **Challenge** 4
 >___
->***Shapechanger.***. The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
+>***Shapechanger.*** The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 >
->***Keen Hearing and Smell.***. The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+>***Keen Hearing and Smell.*** The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 >
->***Pounce (Tiger or Hybrid Form Only).***. If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.
+>***Pounce (Tiger or Hybrid Form Only).*** If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.
 >
 >#### Actions
 >Multiattack (Humanoid or Hybrid Form Only). In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.
 >
->***Bite (Tiger or Hybrid Form Only).***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.
+>***Bite (Tiger or Hybrid Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.
 >
->***Claw (Tiger or Hybrid Form Only).***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.
+>***Claw (Tiger or Hybrid Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.
 >
 >Scimitar (Humanoid or Hybrid Form Only). Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
 >
@@ -199,7 +199,7 @@ Weretigers live in jungles on the fringes of humanoid civilization, traveling to
 ---
 
 ## Werewolf
-***A werewolf is a savage predator.***. In its humanoid form, a werewolf has heightened senses, a fiery temper, and a tendency to eat rare meat. Its wolf form is a fearsome predator, but its hybrid form is more terrifying by far — a furred and well-muscled humanoid body topped by a ravening wolf’s head. A werewolf can wield weapons in hybrid form, though it prefers to tear foes apart with its powerful claws and bite.
+***A werewolf is a savage predator.*** In its humanoid form, a werewolf has heightened senses, a fiery temper, and a tendency to eat rare meat. Its wolf form is a fearsome predator, but its hybrid form is more terrifying by far — a furred and well-muscled humanoid body topped by a ravening wolf's head. A werewolf can wield weapons in hybrid form, though it prefers to tear foes apart with its powerful claws and bite.
 
 Most werewolves flee civilized lands not long after becoming afflicted. Those that reject the curse fear what will happen if they remain among their friends and family. Those that embrace the curse fear discovery and the consequences of their murderous acts. In the wild, werewolves form packs that also include wolves and dire wolves.
 
@@ -219,24 +219,24 @@ Most werewolves flee civilized lands not long after becoming afflicted. Those th
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
->- **Damage Immunities** bludgeoning,piercing,and slashing damage from nonmagical attacks that aren’t silvered
+>- **Damage Immunities** bludgeoning,piercing,and slashing damage from nonmagical attacks that aren't silvered
 >- **Condition Immunities** 
 >- **Skills** Perception +4,Stealth +3
 >- **Senses** passive Perception 14
->- **Languages** Common (can’t speak in wolf form)
+>- **Languages** Common (can't speak in wolf form)
 >- **Challenge** 3
 >___
->***Shapechanger.***. The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
+>***Shapechanger.*** The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 >
->***Keen Hearing and Smell.***. The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+>***Keen Hearing and Smell.*** The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 >
 >#### Actions
 >Multiattack (Humanoid or Hybrid Form Only). The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form).
 >
->***Bite (Wolf or Hybrid Form Only).***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.
+>***Bite (Wolf or Hybrid Form Only).*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.
 >
->***Claws (Hybrid Form Only).***. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (2d4 + 2) slashing damage.
+>***Claws (Hybrid Form Only).*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (2d4 + 2) slashing damage.
 >
->***Spear (Humanoid Form Only).***. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+>***Spear (Humanoid Form Only).*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
 >
 

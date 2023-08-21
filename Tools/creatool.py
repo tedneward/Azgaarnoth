@@ -279,6 +279,18 @@ class Creature:
 creatures = []
 
 def ingest(arg):
+    def cleanup(line):
+        if line.find(u"“") > 0:
+            print("SMART QUOTES!!!!")
+
+        utf8_quotes = "“”‘’‹›«»"
+        transl_table = dict( [ (ord(x), ord(y)) for x,y in zip( utf8_quotes,  "\"\"''''\"\"") ] ) 
+
+        # Get rid of the damn smart quotes
+        result = line.translate( transl_table)
+        result = result.strip()
+        return result
+    
     # Recursively ingest if arg is a directory
     if os.path.isdir(arg):
         files = os.listdir(arg)
@@ -320,30 +332,33 @@ def ingest(arg):
 
         linect = 21
         while linect < len(lines):
-            if 'Damage Vulnerabilities' in lines[linect]:
+            if len(lines[linect]) == 0:
+                # Do nothing and just drop to the end of this switch
+                pass
+            elif 'Damage Vulnerabilities' in lines[linect]:
                 dvs = lines[linect][len('Damage Vulnerabilities '):].split(',')
                 for dv in dvs:
-                    creature.dmgvuls.append(dv.strip())
+                    creature.dmgvuls.append(cleanup(dv))
 
             elif 'Damage Resistances' in lines[linect]:
                 drs = lines[linect][len('Damage Resistances '):].split(',')
                 for dr in drs:
-                    creature.dmgresists.append(dr.strip())
+                    creature.dmgresists.append(cleanup(dr))
 
             elif 'Damage Immunities' in lines[linect]:
                 dis = lines[linect][len('Damage Immunities '):].split(',')
                 for di in dis:
-                    creature.dmgimmunes.append(di.strip())
+                    creature.dmgimmunes.append(cleanup(di))
 
             elif 'Condition Immunities' in lines[linect]:
                 cis = lines[linect][len('Condition Immunities '):].split(',')
                 for ci in cis:
-                    creature.condimmunes.append(ci.strip())
+                    creature.condimmunes.append(cleanup(ci))
 
             elif 'Saving Throws' in lines[linect]:
                 saves = lines[linect][len('Saving Throws '):].split(',')
                 for st in saves:
-                    creature.savingthrows.append(st.strip())
+                    creature.savingthrows.append(cleanup(st))
 
             elif 'Skills' in lines[linect]:
                 skills = lines[linect][len('Skills '):].split(',')
@@ -367,15 +382,14 @@ def ingest(arg):
                 break
 
             else:
-                creature.features.append(lines[linect])
+                creature.features.append(cleanup(lines[linect]))
 
-            linect += 2
+            linect += 1
 
         # Now we're in to Actions
         block = ''
         while linect < len(lines):
-            line = lines[linect].strip()
-            print("Examining line '" + line + "'")
+            line = cleanup(lines[linect])
             if len(line) == 0:
                 linect += 1
                 continue
@@ -395,14 +409,13 @@ def ingest(arg):
             elif 'Regional Effects' == line[0:len('Regional Effects')]:
                 block = 'laireffects'
             else:
-                text = line
-                if block == 'actions': creature.actions.append(text)
-                elif block == 'reactions': creature.reactions.append(text)
-                elif block == 'bonusactions': creature.bonusactions.append(text)
-                elif block == 'legendary': creature.legendaryactions.append(text)
-                elif block == 'lair': creature.lair.description += text
-                elif block == 'lairactions': creature.lair.lairactions.append(text)
-                elif block == 'laireffects': creature.lair.regionaleffects.append(text)
+                if block == 'actions': creature.actions.append(line)
+                elif block == 'reactions': creature.reactions.append(line)
+                elif block == 'bonusactions': creature.bonusactions.append(line)
+                elif block == 'legendary': creature.legendaryactions.append(line)
+                elif block == 'lair': creature.lair.description += line
+                elif block == 'lairactions': creature.lair.lairactions.append(line)
+                elif block == 'laireffects': creature.lair.regionaleffects.append(line)
                 else:
                     print("WTF?!? Unrecognized block! " + block)
 
@@ -442,7 +455,7 @@ def ingest(arg):
             del lines[0]
 
             while lines[0].strip() != '---':
-                subtypedcreature.generaldescription.append(lines[0])
+                subtypedcreature.generaldescription.append(cleanup(lines[0]))
                 del lines[0]
 
             del lines[0:1]
@@ -597,11 +610,26 @@ def ingest(arg):
             return creature
 
     # Arg is a file
-    with open(arg, 'r', errors='ignore') as argfile:
+    with open(arg, 'r', errors='ignore', encoding='utf-8') as argfile:
         lines = argfile.readlines()
+
         if len(lines) < 1:
             print(f"Empty file: {arg}")
-        elif lines[0][0:2] == '# ':
+
+        linect = 0
+        while linect < len(lines):
+            if lines[linect].find(u"“") > 0:
+                line = lines[linect].replace(u"“", '"')
+                lines[linect] = line
+            if lines[linect].find(u"”") > 0:
+                line = lines[linect].replace(u"”", '"')
+                lines[linect] = line
+            if lines[linect].find(u"’") > 0:
+                line = lines[linect].replace(u"’", "'")
+                lines[linect] = line
+            linect += 1
+
+        if lines[0][0:2] == '# ':
             # Might be one of my original MD formats
             creatures.append(ingestmymdformat(lines))
 #        elif lines[0] == '<!DOCTYPE html>\n':

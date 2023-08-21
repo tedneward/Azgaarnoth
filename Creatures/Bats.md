@@ -30,7 +30,7 @@ The leathery-winged insect-eating "great to keep as a pet to keep away the mosqu
 >- **Languages** —
 >- **Challenge** 0
 >___
->***Echolocation.*** The bat can’t use its blindsight while deafened.
+>***Echolocation.*** The bat can't use its blindsight while deafened.
 >
 >***Keen Hearing.*** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 >
@@ -66,7 +66,7 @@ The giant bat is a fearsome sight to behold for most folk, and reports of vampir
 >- **Languages** —
 >- **Challenge** 1/4
 >___
->***Echolocation.*** The bat can’t use its blindsight while deafened.
+>***Echolocation.*** The bat can't use its blindsight while deafened.
 >
 >***Keen Hearing.*** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 >
@@ -77,7 +77,7 @@ The giant bat is a fearsome sight to behold for most folk, and reports of vampir
 ---
 
 ## Swarm of Bats
-The swarm of bats presented here aren’t ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. A vampire can summon swarms of bats (and rats) from the darkest corners of the night; even druids can’t charm these swarms, and their aggressiveness is borderline unnatural.
+The swarm of bats presented here aren't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. A vampire can summon swarms of bats (and rats) from the darkest corners of the night; even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
 
 >### Swarm of Bats
 >*Medium swarm, unaligned*
@@ -102,14 +102,14 @@ The swarm of bats presented here aren’t ordinary or benign assemblies of littl
 >- **Languages** —
 >- **Challenge** 1/4
 >___
->***Echolocation.***. The swarm can’t use its blindsight while deafened.
+>***Echolocation.*** The swarm can't use its blindsight while deafened.
 >
->***Keen Hearing.***. The swarm has advantage on Wisdom (Perception) checks that rely on hearing.
+>***Keen Hearing.*** The swarm has advantage on Wisdom (Perception) checks that rely on hearing.
 >
->***Swarm.***. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can’t regain hit points or gain temporary hit points.
+>***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.
 >
 >#### Actions
->***Bites.***. Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm’s space. Hit: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
+>***Bites.*** Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm's space. Hit: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
 >
 
 ---

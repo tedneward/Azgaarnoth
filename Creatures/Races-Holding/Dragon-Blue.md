@@ -95,7 +95,7 @@ The dragon gains the following action option:
 ### Ventriloquism
 *Prerequisite: must be Adult or older.*
 
-The dragon can “throw” its voice (or any other sound it makes) to make it sound like it is coming from a point or creature of its choice that it can see within 120 feet of it. A creature who succeeds on a Wisdom (Insight) check against the dragon's Charisma (Deception) check recognizes it as illusory, but doesn't discern the sound's true source.
+The dragon can "throw” its voice (or any other sound it makes) to make it sound like it is coming from a point or creature of its choice that it can see within 120 feet of it. A creature who succeeds on a Wisdom (Insight) check against the dragon's Charisma (Deception) check recognizes it as illusory, but doesn't discern the sound's true source.
 
 ---
 

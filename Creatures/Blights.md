@@ -18,7 +18,7 @@ Behold the legacy of Gulthias the vampire: plants with a taste for blood.
 ## Needle Blight
 In the shadows of a forest, needle blights might be taken at a distance for shuffling, hunched humanoids. Up close, these creatures reveal themselves as horrid plants whose conifer-like needles grow across their bodies in quivering clumps. A needle blight lashes out with these needles or launches them as an aerial assault that can punch through armor and flesh.
 
-When needle blights detect a threat, they loose a pollen that the wind carries to other needle blights throughout the forest. Alerted to their foes’ location, needle blights converge from all sides to drench their roots in blood.
+When needle blights detect a threat, they loose a pollen that the wind carries to other needle blights throughout the forest. Alerted to their foes' location, needle blights converge from all sides to drench their roots in blood.
 
 >### Needle Blight
 >*Medium plant, neutral evil*
@@ -40,21 +40,21 @@ When needle blights detect a threat, they loose a pollen that the wind carries t
 >- **Condition Immunities** blinded,deafened
 >- **Skills** 
 >- **Senses** blindsight 60 ft. (blind beyond this radius),passive Perception 9
->- **Languages** understands Common but can’t speak
+>- **Languages** understands Common but can't speak
 >- **Challenge** 1/4
 >___
 >#### Actions
->***Claws.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) piercing damage.
+>***Claws.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) piercing damage.
 >
->***Needles.***. Ranged Weapon Attack: +3 to hit, range 30/60 ft., one target. Hit: 8 (2d6 + 1) piercing damage.
+>***Needles.*** Ranged Weapon Attack: +3 to hit, range 30/60 ft., one target. Hit: 8 (2d6 + 1) piercing damage.
 >
 
 ---
 
 ## Twig Blight
-Twig blights can root in soil, which they do when living prey are scarce. While rooted, they resemble woody shrubs. When it pulls its roots free of the ground to move, a twig blight’s branches twist together to form a humanoid-looking body with a head and limbs.
+Twig blights can root in soil, which they do when living prey are scarce. While rooted, they resemble woody shrubs. When it pulls its roots free of the ground to move, a twig blight's branches twist together to form a humanoid-looking body with a head and limbs.
 
-Twig blights seek out campsites and watering holes, rooting there to set up ambushes for potential victims coming to drink or rest. Huddled together in groups, twig blights blend in with an area’s natural vegetation or with piles of debris or firewood.
+Twig blights seek out campsites and watering holes, rooting there to set up ambushes for potential victims coming to drink or rest. Huddled together in groups, twig blights blend in with an area's natural vegetation or with piles of debris or firewood.
 
 Given how dry they are, twig blights are particularly susceptible to fire.
 
@@ -78,13 +78,13 @@ Given how dry they are, twig blights are particularly susceptible to fire.
 >- **Condition Immunities** blinded,deafened
 >- **Skills** Stealth +3
 >- **Senses** blindsight 60 ft. (blind beyond this radius),passive Perception 9
->- **Languages** understands Common but can’t speak
+>- **Languages** understands Common but can't speak
 >- **Challenge** 1/8
 >___
->***False Appearance.***. While the blight remains motionless, it is indistinguishable from a dead shrub.
+>***False Appearance.*** While the blight remains motionless, it is indistinguishable from a dead shrub.
 >
 >#### Actions
->***Claws.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
+>***Claws.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
 >
 
 ---
@@ -92,7 +92,7 @@ Given how dry they are, twig blights are particularly susceptible to fire.
 ## Vine Blight
 Appearing as masses of slithering creepers, vine blights hide in undergrowth and wait for prey to draw near. By animating the plants around them, vine blights entangle and hinder their foes before attacking.
 
-Vine blights are the only blights capable of speech. Through its connection to the evil spirit of the Gulthias tree it serves, a vine blight speaks in a fractured version of its dead master’s voice, taunting victims or bargaining with powerful foes.
+Vine blights are the only blights capable of speech. Through its connection to the evil spirit of the Gulthias tree it serves, a vine blight speaks in a fractured version of its dead master's voice, taunting victims or bargaining with powerful foes.
 
 >### Vine Blight
 >*Medium plant, neutral evil*
@@ -117,11 +117,11 @@ Vine blights are the only blights capable of speech. Through its connection to t
 >- **Languages** Common
 >- **Challenge** 1/2
 >___
->***False Appearance.***. While the blight remains motionless, it is indistinguishable from a tangle of vines.
+>***False Appearance.*** While the blight remains motionless, it is indistinguishable from a tangle of vines.
 >
 >#### Actions
->***Constrict.***. Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage, and a Large or smaller target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the blight can’t constrict another target.
+>***Constrict.*** Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage, and a Large or smaller target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the blight can't constrict another target.
 >
->***Entangling Plants (Recharge 5–6).***. Grasping roots and vines sprout in a 15-foot radius centered on the blight, withering away after 1 minute. For the duration, that area is difficult terrain for nonplant creatures. In addition, each creature of the blight’s choice in that area when the plants appear must succeed on a DC 12 Strength saving throw or become restrained. A creature can use its action to make a DC 12 Strength check, freeing itself or another entangled creature within reach on a success.
+>***Entangling Plants (Recharge 5–6).*** Grasping roots and vines sprout in a 15-foot radius centered on the blight, withering away after 1 minute. For the duration, that area is difficult terrain for nonplant creatures. In addition, each creature of the blight's choice in that area when the plants appear must succeed on a DC 12 Strength saving throw or become restrained. A creature can use its action to make a DC 12 Strength check, freeing itself or another entangled creature within reach on a success.
 >
 
