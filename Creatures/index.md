@@ -1,22 +1,6 @@
 # Creatures of Azgaarnoth
 These creatures are found in various places across the map. Over time, all these will be "tuned" to the map specifically, but many of them are direct "lifts" from the official D&D content so that I have convenient links that are under my control for various purposes.
 
-## Creature Modifier Templates
-- [Alpha](Templates/Alpha.md)
-- Humanoid
-    - [Berserker](Templates/Berserker.md)
-    - [Knight](Templates/Knight.md)
-    - [Soldier](Templates/Soldier.md)
-- Dire
-- [Draconic](Templates/Dragon.md): [Dracolich](Templates/Dragon.md#dracolich), [Ghost](Templates/Dragon.md#ghost), [Shadow](Templates/Dragon.md#shadow), [Skeletal](Templates/Dragon.md#skeletal), [Zombie](Templates/Dragon.md#zombie)
-- [Half-Dragon](Templates/HalfDragon.md)
-- Undead
-    - [Ghost](Templates/Ghost.md)
-    - Mummy
-    - [Skeleton](Templates/Skeletal.md)
-    - Withered
-    - [Zombie](Templates/Zombie.md)
-
 ## A
 - [Aarakocra](Aarakocra.md)
 - [Abishai](Abishai.md)
@@ -53,7 +37,7 @@ These creatures are found in various places across the map. Over time, all these
 - [Boggle](Boggle.md)
 - [Boneclaw](Boneclaw.md)
 - [Bonedrinkers](Bonedrinkers.md): [Bonedrinker](Bonedrinkers.md#bonedrinker) | [Lesser](Bonedrinkers.md#lesser-bonedrinker) | [Greater](Bonedrinkers.md#greater-bonedrinker)
-- [Brothers of Undeath](BrotherOfUndeath.md): [Sanctity](BrotherOfUndeath.md#brother-of-sanctity) | [Shadow](BrotherOfUndeath.md#brother-of-shadow) | [Solemnity](BrotherOfUndeath.md#brother-of-solemnity) | [Spell](BrotherOfUndeath.md#brother-of-spell) | [Spite](BrotherOfUndeath.md#brother-of-spite) | [Steel](BrotherOfUndeath.md#brother-of-steel) | [Death Knight](#death-knight)
+- [Brothers of Undeath](BrothersOfUndeath.md): [Sanctity](BrotherOfUndeath.md#brother-of-sanctity) | [Shadow](BrotherOfUndeath.md#brother-of-shadow) | [Solemnity](BrotherOfUndeath.md#brother-of-solemnity) | [Spell](BrotherOfUndeath.md#brother-of-spell) | [Spite](BrotherOfUndeath.md#brother-of-spite) | [Steel](BrotherOfUndeath.md#brother-of-steel) | [Death Knight](BrothersOfUndeath.md#death-knight)
 - [Bulette](Bulette.md)
 - [Bullywug](Bullywug.md)
 
@@ -281,9 +265,25 @@ These creatures are found in various places across the map. Over time, all these
 ## Z
 - [Zombie](Zombie.md)
 
+## Templates
+- [Alpha](Templates/Alpha.md)
+- Humanoid
+    - [Berserker](Templates/Berserker.md)
+    - [Knight](Templates/Knight.md)
+    - [Soldier](Templates/Soldier.md)
+- Dire
+- [Draconic](Templates/Dragon.md): [Dracolich](Templates/Dragon.md#dracolich), [Ghost](Templates/Dragon.md#ghost), [Shadow](Templates/Dragon.md#shadow), [Skeletal](Templates/Dragon.md#skeletal), [Zombie](Templates/Dragon.md#zombie)
+- [Half-Dragon](Templates/HalfDragon.md)
+- Undead
+    - [Ghost](Templates/Ghost.md)
+    - Mummy
+    - [Skeleton](Templates/Skeletal.md)
+    - Withered
+    - [Zombie](Templates/Zombie.md)
+
 ---
 
-# Creature Template
+# Markdown Template
 
 ## Name
 General description
@@ -316,6 +316,9 @@ General description
 >#### Actions
 
 ---
+
+# Roll20 template
+Maybe?
 
 ```
 // For use with https://github.com/jfrondeau/roll20/blob/master/statblock-import-5e.js
