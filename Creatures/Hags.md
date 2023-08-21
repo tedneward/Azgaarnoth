@@ -1,7 +1,7 @@
 # Hags
 Hags represent all that is evil and cruel. Though they resemble withered crones, there is nothing mortal about these monstrous creatures, whose forms reflect only the wickedness in their hearts.
 
-> Jump to: [Cinder](#cinder-hag) | [Crimson](#crimson-hag) | [Desert](#desert-hag) | [Green](#green-hag) | [Night](#night-hag) | [Sea](#sea-hag) | [Storm](#storm-hag)
+> Jump to: [Annis Hag](#annis-hag) | [Bheur Hag](#bheur-hag) | [Cinder](#cinder-hag) | [Crimson](#crimson-hag) | [Desert](#desert-hag) | [Green](#green-hag) | [Night](#night-hag) | [Sea](#sea-hag) | [Storm](#storm-hag)
 
 ***Faces of Evil.*** Ancient beings with origins in the Feywild, hags are cankers on the mortal world. Their withered faces are framed by long, frayed hair, horrid moles and warts dot their blotchy skin, and their long, skinny fingers are tipped by claws that can slice open flesh with a touch. Their simple clothes are always tattered and filthy.
 
@@ -45,6 +45,126 @@ For casting these spells, each hag is a 12th-level spellcaster that uses Intelli
 ***Hag Eye.*** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.
 
 A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over.
+
+---
+
+## Annis Hag
+Annis hags lair in mountains or hills. Despite being hunchbacked and hump-shouldered, they are the largest and most physically imposing of their kind, standing eight feet tall.
+
+***Tormenting the Weak.***. Although annis hags can easily tear a grown man apart, they love hunting children, preferring their flesh above all others. They use the flayed skin of such victims to make supple leather, and a hag's lair often shows the signs of this industry.
+
+Annis hags leave tokens of their cruelty at the edges of forests and other areas they claim. In this way, they provoke fear and paranoia in nearby villages and settlements. To an annis hag, nothing is sweeter than turning a vibrant community into a place paralyzed with terror, where folk never venture out at night, strangers are met with suspicion and anger, and parents warn their children to "be good, or the annis will get you."
+
+***Child Corrupter.***. When an annis feels especially cruel, she disguises herself as a kindly-looking elderly woman, approaches a child in a remote place, and gives it an iron token that it can use to confide in her. Over time, "Granny" convinces the child that it's okay to have bad thoughts and do bad deeds — starting with breaking things or wandering outside without permission, then graduating to pushing someone down the stairs or setting a house on fire. Sooner or later, the child's family and community become terrified of the "bad seed" and must face the awful decision of whether the child should be punished or exiled.
+
+***Tribe Mother.***. Much in the way that they befriend children in order to corrupt them, annis hags have a tendency for adopting a group of ogres, trolls, or other loutish creatures, ruling them through brute strength, verbal abuse, and superstition.
+
+***Iron Tokens.*** An annis hag can pull out one of her iron teeth or nails and spend 1 minute shaping and polishing it into the form of a coin, a ring, or a tiny mirror. Thereafter, any creature that holds this iron token can have a whispered conversation with the hag, provided the creature and the hag are on the same plane of existence and within 10 miles of each other. The holder of the token can hear only the hag's voice, not those of any other creatures or any ambient noise around the hag. Similarly, the hag can hear the holder of the token and not the noise around it.
+
+A hag can have up to three iron tokens active at one time. As an action, she can discern the direction and approximate distance to all of her active tokens. She can instantaneously deactivate any of her tokens at any distance (no action required), whereupon the token retains its current form but loses its magical properties.
+
+>### Annis Hag
+>*Large fey, chaotic evil*
+>___
+>- **Armor Class** 17 (natural armor)
+>- **Hit Points** 75 (10d10 + 20)
+>- **Speed** 40 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|21 (+5)|12 (+1)|14 (+2)|13 (+1)|14 (+2)|15 (+2)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** Con +5
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold; bludgeoning,piercing,and slashing from nonmagical attacks
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Deception +5,Perception +5
+>- **Senses** darkvision 60 ft.,passive Perception 15
+>- **Languages** Common,Giant,Sylvan
+>- **Challenge** 6; 8 if part of a coven
+>___
+>***Innate Spellcasting.***. The hag's innate spellcasting ability is Charisma (spell save DC 13). She can innately cast the following spells:
+>
+>3/day each: disguise self (including the form of a Medium humanoid), fog cloud
+>
+>#### Actions
+>***Multiattack.***. The annis makes three attacks: one with her bite and two with her claws.
+>
+>***Bite.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) piercing damage.
+>
+>***Claw.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) slashing damage.
+>
+>***Crushing Hug.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 36 (9d6 + 5) bludgeoning damage, and the target is grappled (escape DC 15) if it is a Large or smaller creature. Until the grapple ends, the target takes 36 (9d6 + 5) bludgeoning damage at the start of each of the hag's turns. The hag can't make attacks while grappling a creature in this way.
+>
+
+---
+
+## Bheur Hag
+Bheur hags live in wintry lands, favoring snow-covered mountains. They become more active during winter, using their ice and weather magic to make life miserable for nearby settlements.
+
+A bheur hag's skin is blue-white, like that of a person who has frozen to death. Her hair is pale white, and she is emaciated, as if she were a person who had survived winter by eating bark and leather. Her eyes are pale and surrounded by dark, bruise-colored flesh. A bheur carries a twisted gray wooden staff, which she can ride like a flying broom and augments her magical powers.
+
+***Cold Hearts.***. Bheur hags are attracted to selfish actions justified by deadly cold, such as murdering a traveler for a winter coat, chopping down a dryad's grove for firewood, and so on. These actions are especially sweet to a bheur if they are unwarranted, such as a greedy merchant hoarding more food for the winter than he could possibly eat while others starve. Bheurs love to seed such ideas and thoughts in mortals. They use their ability to manipulate weather to batter villages with snow and freezing cold, hoping to instill despair that turns the villagers against each other.
+
+A bheur hag loves watching unprepared people suffer and die for their mistakes during the winter. She is delighted when mortals make petty, pathetic attempts to survive, such as eating boots and leather scraps when no real food is to be found.
+
+***Awful to Behold.***. When a bheur hag is fully in the throes of combat and has recently slain one of her foes, she often forgoes a direct attack on her remaining enemies and instead takes a moment to feed on the corpse, dismembering it and tearing meat from bone. The sight of this savagery is enough to render witnesses temporarily insane.
+
+>### Bheur Hag
+>*Medium fey, chaotic evil*
+>___
+>- **Armor Class** 17 (natural armor)
+>- **Hit Points** 91 (14d8 + 28)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|13 (+1)|16 (+3)|14 (+2)|12 (+1)|13 (+1)|16 (+3)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** Wis +4
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** cold
+>- **Condition Immunities** 
+>- **Skills** Nature +4,Perception +4,Stealth +6,Survival +4
+>- **Senses** darkvision 60 ft.,passive Perception 14
+>- **Languages** Auran,Common,Giant
+>- **Challenge** 7; 9 if part of a coven
+>___
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>***Graystaff Magic.***. The hag carries a graystaff, a length of gray wood that is a focus for her inner power. She can ride the staff as if it were a broom of flying. While holding the staff, she can cast additional spells with her Innate Spellcasting trait (these spells are marked with an asterisk). If the staff is lost or destroyed, the hag must craft another, which takes a year and a day. Only a bheur hag can use a graystaff.
+>
+>***Ice Walk.***. The hag can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost her extra moment.
+>
+>***Innate Spellcasting.***. The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
+>
+>At will: hold person,* ray of frost
+>
+>3/day each: cone of cold,* ice storm,* wall of ice*
+>
+>1/day each: control weather
+>
+>#### Actions
+>***Slam.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 10 (2d8 + 1) bludgeoning damage plus 3 (1d6) cold damage.
+>
+>***Maddening Feast.***. The hag feasts on the corpse of one enemy within 5 feet of her that died within the past minute. Each creature of the hag's choice that is within 60 feet of her and able to see her must succeed on a DC 15 Wisdom saving throw or be frightened of her for 1 minute. While frightened in this way, a creature is incapacitated, can't understand what others say, can't read, and speaks only in gibberish; the DM controls the creature's movement, which is erratic. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Maddening Feast for the next 24 hours.
+>
 
 ---
 

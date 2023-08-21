@@ -1,7 +1,7 @@
-# Frog
+# Frogs
 The classic reptile found in swamps, marshlands, grasslands, prairies, and anywhere small insects can be found. Frogs are often considered good luck by many Hordes tribes, though some Dradehalians--having had unpleasant encounters with [bullywug](./Bullywug.md)s in the past--believe they are the symbol of unfortunate travels, and have taken to throwing a coin to any frog they see in order to placate the unlucky spirits.
 
-> Jump to: [Frog](#frog-1) | [Giant Frog](#giant-frog) | [Giant Ice Toad](#giant-ice-toad) | [Giant Toad](#giant-toad)
+> Jump to: [Frog](#frog) | [Giant Frog](#giant-frog) | [Giant Ice Toad](#giant-ice-toad) | [Giant Toad](#giant-toad)
 
 ## Frog
 A frog has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog's statistics can also be used to represent a toad, though some say toads are slightly better-looking and slightly less wise. (Kidding.)

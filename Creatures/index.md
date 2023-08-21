@@ -97,8 +97,8 @@ These creatures are found in various places across the map. Over time, all these
 - [Flameskull](Flameskull.md)
 - [Flumph](Flumph.md)
 - [Fomorian](Fomorian.md)
-- [Frogs](Frogs.md):
-- [Fungi](Fungi.md): 
+- [Frogs](Frogs.md): [Frog](Frogs.md#frog) | [Giant Frog](Frogs.md#giant-frog) | [Giant Ice Toad](Frogs.md#giant-ice-toad) | [Giant Toad](Frogs.md#giant-toad)
+- [Fungi](Fungi.md): [Gas Spore](Fungi.md#gas-spore) | [Shrieker](Fungi.md#shrieker) | [Violet Fungus](Fungi.md#violet-fungus)
 
 ## G
 - [Gargoyle](Gargoyle.md)
@@ -121,7 +121,7 @@ These creatures are found in various places across the map. Over time, all these
 - [Grimlock](Grimlock.md)
 
 ## H
-- [Hags](Hags.md): 
+- [Hags](Hags.md): [Annis Hag](Hags.md#annis-hag) | [Bheur Hag](Hags.md#bheur-hag) | [Cinder](Hags.md#cinder-hag) | [Crimson](Hags.md#crimson-hag) | [Desert](Hags.md#desert-hag) | [Green](Hags.md#green-hag) | [Night](Hags.md#night-hag) | [Sea](Hags.md#sea-hag) | [Storm](Hags.md#storm-hag)
 - [Harpy](Harpy.md)
 - [Hell Hound](Dogs.md#hell-hound)
 - [Helmed Horror](HelmedHorror.md)

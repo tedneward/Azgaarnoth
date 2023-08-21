@@ -1,7 +1,7 @@
 # Fungi
 With its sky of jagged stone and perpetual night, the Underdark is home to all manner of fungi. Taking the place of plants in the subterranean realm, fungi are vital to the survival of many underground species, providing nourishment and shelter in the unforgiving darkness.
 
-> Jump to: [Gas Spore](#Gas Spore) | [Shrieker](#Shrieker) | [Violet Fungus](#Violet Fungus)
+> Jump to: [Gas Spore](#gas-spore) | [Shrieker](#shrieker) | [Violet Fungus](#violet-fungus)
 
 Fungi spawn in organic matter, then break that matter down to consume it, feeding on filth and corpses. As they mature, fungi eject spores that drift on the lightest breeze to spawn new fungi.
 

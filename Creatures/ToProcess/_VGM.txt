@@ -705,7 +705,7 @@ Evil Collectives. Cranium rats are no smarter than ordinary rats and behave as s
 
 A rat separated from the swarm becomes an ordinary cranium rat with an Intelligence of 15. It loses 1 point of Intelligence each day that it remains separated from the swarm. Its Intelligence can’t drop below 4 and becomes 15 again if it rejoins the swarm or another one.
 
-Telepathic Vermin. A single, low-intelligence cranium rat uses its natural telepathy to communicate hunger, fear, and other base emotions. A swarm of cranium rats communicating telepathically “speaks” as one creature, often referring to itself using the collective pronouns “we” and “us.”
+Telepathic Vermin. A single, low-intelligence cranium rat uses its natural telepathy to communicate hunger, fear, and other base emotions. A swarm of cranium rats communicating telepathically "speaks" as one creature, often referring to itself using the collective pronouns "we" and "us."
 
 Spies for an Elder Brain. Mind flayer colonies use cranium rats as spies. The rats invade surface communities and act as eyes and ears for the elder brain, transmitting their thoughts when they swarm and are within range of the elder brain’s telepathy.
 
@@ -796,7 +796,7 @@ Bites. Melee Weapon Attack: +5 to hit, reach 0 ft., one target in the swarm’s 
 
 
 Darklings
-Ancient legends speak of a seelie fey who betrayed the Summer Queen. His true name has been stricken from history, but the stories call him Dubh Catha (“Dark Crow” in Common). So great was the Summer Queen’s wrath that she cursed every member of his house. Other fey refer to the descendants of Dubh Catha’s house as the dubh sith — or, in Common, “darklings.” Darklings most often settle in secluded caverns and chambers beneath the towns of other species. From such enclaves, they quietly ply their trade as thieves and assassins.
+Ancient legends speak of a seelie fey who betrayed the Summer Queen. His true name has been stricken from history, but the stories call him Dubh Catha ("Dark Crow" in Common). So great was the Summer Queen’s wrath that she cursed every member of his house. Other fey refer to the descendants of Dubh Catha’s house as the dubh sith — or, in Common, "darklings." Darklings most often settle in secluded caverns and chambers beneath the towns of other species. From such enclaves, they quietly ply their trade as thieves and assassins.
 
 The Killing Light. The Summer Queen’s curse causes a darkling’s body to absorb light, and doing so wizens the creature, much like the effect of rapid aging. For this reason, darklings cover every part of their body with clothing when exposure to light is a risk. The light a darkling absorbs over the course of its lifetime explodes outward when the darkling dies, incinerating the creature and much of its possessions.
 
@@ -1108,7 +1108,7 @@ Tormentors of Souls. Devourers hunt humanoids, with the intent of consuming them
 
 Fiendish Nature. A devourer doesn’t require air, food (other than souls), drink, or sleep.
 
-I’ve heard of “rib-sticking,” but this is ridiculous.
+I’ve heard of "rib-sticking," but this is ridiculous.
 
 — Volo
 
@@ -1547,7 +1547,7 @@ Firenewts delve for sources of heat in the earth, such as boiling mud and hot sp
 
 The alchemy practiced by firenewts focuses on fire. One of their favorite mixtures is a paste of sulfur, mineral salts, and oil. Firenewts chew this blend habitually, because doing so produces a pleasant internal heat and it enables a firenewt to vomit forth a small ball of flame. Most firenewts carry a container with this mixture in it.
 
-Religious Militants. Firenewt society and culture are based on the worship of Imix, the Prince of Evil Fire. This veneration of Imix leads firenewts to be aggressive, wrathful, and cruel. Firenewt warlocks of Imix teach that by demonstrating these qualities, a firenewt warrior in combat can become “touched by the Fire Lord,” entering a nearly unstoppable battle rage.
+Religious Militants. Firenewt society and culture are based on the worship of Imix, the Prince of Evil Fire. This veneration of Imix leads firenewts to be aggressive, wrathful, and cruel. Firenewt warlocks of Imix teach that by demonstrating these qualities, a firenewt warrior in combat can become "touched by the Fire Lord," entering a nearly unstoppable battle rage.
 
 Warlocks of Imix command warriors to prove their worth by going on raids to bring back treasure and captives. The warlocks take the choicest loot as a tithe to Imix, and then those who participated in the raid divide the rest according to merit. Prisoners that have no apparent usefulness are sacrificed to Imix and then eaten. Those that are deemed capable of mining and performing other chores around the lair are kept as slaves for a while before meeting the same fate.
 
@@ -1905,7 +1905,7 @@ To hold its place or rise within the ordning, a frost giant must routinely face 
 
 Troll Eater. Frost giants mainly turn to Vaprak, a rapacious god of strength and hunger worshiped by ogres and trolls, out of desperation. Vaprak likes to tempt frost giants with dreams of glory followed by nightmares of bloody cannibalism. Those who don’t shrink from such visions or report them to priests of Thrym receive more of the same. If a frost giant comes to relish these dreams and nightmares, as some do, Vaprak sets a troll upon a sacred quest to find the frost giant and meet it in secret. The troll offers up its own body to be devoured in Vaprak’s name. Only the boldest and most determined frost giants can finish such a gory feast.
 
-Vaprak’s Blessing. After devouring the troll sent by Vaprak, bones and all, a frost giant becomes an everlasting one, gaining tremendous strength, an ill temper, and a troll’s regenerative ability. With these gifts, the frost giant can swiftly claim the title of jarl and easily fend off rivals for decades. However, if the frost giant doesn’t give enough honor to Vaprak or fails to heed Vaprak’s visions, injuries the frost giant sustains heal wrong, often resulting in discolored skin, warty scars, and vestigial body parts, such as extra digits, limbs, and even extra heads. The touch of Vaprak can no longer be hidden then, and the everlasting one is either killed or exiled by its clan. Sometimes small communities of everlasting ones gather and even reproduce, passing the “blessing” and worship of Vaprak from one generation to the next.
+Vaprak’s Blessing. After devouring the troll sent by Vaprak, bones and all, a frost giant becomes an everlasting one, gaining tremendous strength, an ill temper, and a troll’s regenerative ability. With these gifts, the frost giant can swiftly claim the title of jarl and easily fend off rivals for decades. However, if the frost giant doesn’t give enough honor to Vaprak or fails to heed Vaprak’s visions, injuries the frost giant sustains heal wrong, often resulting in discolored skin, warty scars, and vestigial body parts, such as extra digits, limbs, and even extra heads. The touch of Vaprak can no longer be hidden then, and the everlasting one is either killed or exiled by its clan. Sometimes small communities of everlasting ones gather and even reproduce, passing the "blessing" and worship of Vaprak from one generation to the next.
 
 FROST GIANT EVERLASTING ONE
 Huge giant (frost giant), chaotic evil
@@ -2206,7 +2206,7 @@ Forest Hunters. Girallons are most common in temperate or warm forest environmen
 
 Girallons form loose bands of several individuals and their offspring, usually led by a dominant adult that also tends to be the oldest member of the group. When on the hunt away from their lair, girallons use roars and body language to communicate with one another over distance. Each individual typically hunts alone and widely separated from the others, to ensure that everyone gets adequate fodder. The leader might organize members to work together to make a big kill. If they succeed, everyone in the group shares the spoils, with the best parts going to mothers caring for their young.
 
-Wall Climbers. The ruins of humanoid habitations, especially those found in deep forests and jungles, seem to attract girallons. They move effortlessly along stairs and balconies, as well as on the sloped rooftops and buttresses of such formations. To a girallon, a city’s buildings are just another sort of forest — and better yet, one whose uppermost “branches” can easily support the creatures. In such a setting, the girallons take full advantage of their skill in climbing. The creatures can easily scale walls and battlements, and they perch on tower tops and other high vantages to keep an eye on the surrounding area.
+Wall Climbers. The ruins of humanoid habitations, especially those found in deep forests and jungles, seem to attract girallons. They move effortlessly along stairs and balconies, as well as on the sloped rooftops and buttresses of such formations. To a girallon, a city’s buildings are just another sort of forest — and better yet, one whose uppermost "branches" can easily support the creatures. In such a setting, the girallons take full advantage of their skill in climbing. The creatures can easily scale walls and battlements, and they perch on tower tops and other high vantages to keep an eye on the surrounding area.
 
 Magical Origin. The social habits of wild girallons are unusual for apes, as is their instinctive attraction to humanoid structures. These facts, together with the girallon’s appearance, lead sages to believe that girallons were created through magic to serve as guardians for some lost empire. When that empire fell ages ago, girallons turned feral and spread out across the world.
 
@@ -2693,13 +2693,13 @@ Annis hags lair in mountains or hills. Despite being hunchbacked and hump-should
 
 Tormenting the Weak. Although annis hags can easily tear a grown man apart, they love hunting children, preferring their flesh above all others. They use the flayed skin of such victims to make supple leather, and a hag’s lair often shows the signs of this industry.
 
-Annis hags leave tokens of their cruelty at the edges of forests and other areas they claim. In this way, they provoke fear and paranoia in nearby villages and settlements. To an annis hag, nothing is sweeter than turning a vibrant community into a place paralyzed with terror, where folk never venture out at night, strangers are met with suspicion and anger, and parents warn their children to “be good, or the annis will get you.”
+Annis hags leave tokens of their cruelty at the edges of forests and other areas they claim. In this way, they provoke fear and paranoia in nearby villages and settlements. To an annis hag, nothing is sweeter than turning a vibrant community into a place paralyzed with terror, where folk never venture out at night, strangers are met with suspicion and anger, and parents warn their children to "be good, or the annis will get you."
 
-Child Corrupter. When an annis feels especially cruel, she disguises herself as a kindly-looking elderly woman, approaches a child in a remote place, and gives it an iron token that it can use to confide in her. Over time, “Granny” convinces the child that it’s okay to have bad thoughts and do bad deeds — starting with breaking things or wandering outside without permission, then graduating to pushing someone down the stairs or setting a house on fire. Sooner or later, the child’s family and community become terrified of the “bad seed” and must face the awful decision of whether the child should be punished or exiled.
+Child Corrupter. When an annis feels especially cruel, she disguises herself as a kindly-looking elderly woman, approaches a child in a remote place, and gives it an iron token that it can use to confide in her. Over time, "Granny" convinces the child that it’s okay to have bad thoughts and do bad deeds — starting with breaking things or wandering outside without permission, then graduating to pushing someone down the stairs or setting a house on fire. Sooner or later, the child’s family and community become terrified of the "bad seed" and must face the awful decision of whether the child should be punished or exiled.
 
 Tribe Mother. Much in the way that they befriend children in order to corrupt them, annis hags have a tendency for adopting a group of ogres, trolls, or other loutish creatures, ruling them through brute strength, verbal abuse, and superstition.
 
-Covens. An annis hag that is part of a coven (see the “Hag Covens” sidebar in the Monster Manual) has a challenge rating of 8 (3,900 XP).
+Covens. An annis hag that is part of a coven (see the "Hag Covens" sidebar in the Monster Manual) has a challenge rating of 8 (3,900 XP).
 
 IRON TOKEN
 
@@ -2767,7 +2767,7 @@ A bheur hag loves watching unprepared people suffer and die for their mistakes d
 
 Awful to Behold. When a bheur hag is fully in the throes of combat and has recently slain one of her foes, she often forgoes a direct attack on her remaining enemies and instead takes a moment to feed on the corpse, dismembering it and tearing meat from bone. The sight of this savagery is enough to render witnesses temporarily insane.
 
-Covens. A bheur hag that is part of a coven (see the “Hag Covens” sidebar in the Monster Manual) has a challenge rating of 9 (5,000 XP).
+Covens. A bheur hag that is part of a coven (see the "Hag Covens" sidebar in the Monster Manual) has a challenge rating of 9 (5,000 XP).
 
 BHEUR HAG
 Medium fey, chaotic evil
@@ -3396,7 +3396,7 @@ Dark Dwellers. A meenlock shuns bright light. It can supernaturally sense areas 
 
 Telepathic Tormentors. Meenlocks have no form of communication other than telepathy. They can use it to project unsettling hallucinations into the minds of their prey. These hallucinations take the form of terrible whispers or fleeting movements just at the edges of one’s peripheral vision.
 
-During the day, meenlocks confine themselves to their dark warrens. At night, they crawl out of their tunnels to torment sleeping prey, particularly those who seem to embody all that is good in the world. Meenlocks like to paralyze creatures with their claws, drag them back to their hidden den, beat them unconscious, and telepathically torture them over a period of hours. A humanoid that succumbs to this psychic torment undergoes a transformation into an evil, full-grown meenlock (see the “Telepathic Torment” sidebar).
+During the day, meenlocks confine themselves to their dark warrens. At night, they crawl out of their tunnels to torment sleeping prey, particularly those who seem to embody all that is good in the world. Meenlocks like to paralyze creatures with their claws, drag them back to their hidden den, beat them unconscious, and telepathically torture them over a period of hours. A humanoid that succumbs to this psychic torment undergoes a transformation into an evil, full-grown meenlock (see the "Telepathic Torment" sidebar).
 
 TELEPATHIC TORMENT
 
@@ -3573,7 +3573,7 @@ When its insidious suggestions fail to take hold, an elder brain asserts its dom
 
 Devourer of Thoughts. An elder brain sustains itself by consuming the brains of other creatures. When the mind flayer servants that guard and tend to an elder brain don’t bring its meals directly to it, the elder brain reaches out with tendrils of thought, mentally compelling creatures to come to it so that it may feed upon them.
 
-When a mind flayer perishes, the elder brain’s servants feed the contents of its skull to their master, which absorbs the illithid’s brain and all the knowledge and experience contained therein. In this way the elder brain continually increases its knowledge, uniting the thoughts and experiences of the illithid colony into a unified whole. Mind flayers conceive of this “oneness” as a sacred state in the same way that a worshiper of a human deity might view an eternal afterlife in the heavens — for an elder brain can evoke the persona of any illithid it has ever absorbed.
+When a mind flayer perishes, the elder brain’s servants feed the contents of its skull to their master, which absorbs the illithid’s brain and all the knowledge and experience contained therein. In this way the elder brain continually increases its knowledge, uniting the thoughts and experiences of the illithid colony into a unified whole. Mind flayers conceive of this "oneness" as a sacred state in the same way that a worshiper of a human deity might view an eternal afterlife in the heavens — for an elder brain can evoke the persona of any illithid it has ever absorbed.
 
 Hive Mind. Non-illithids call this creature an elder brain because it acts as the central communication hub for an entire mind flayer colony just as a brain does for a living body. Linked to the elder brain, the colony acts like a single organism, acting in concert as if each illithid were the digit of a hand.
 
@@ -3804,7 +3804,7 @@ Ancient and devious, morkoths are voracious collectors. Each one travels the pla
 
 Spawned by a God. Long ago, a deity of greed and strife perished in the battles among the immortals. Its body drifted through the Astral Plane, eventually becoming a petrified husk. This corpse floated up against a pearlescent remnant of celestial matter imbued with life and life-giving magic. The collision shattered both objects and released a storm of chaotic energy. Countless islands of mixed matter spun away into the silvery void. Within some of them, a vein of pearl-like material held a bit of the deity’s rejuvenated supernatural vitality, which spontaneously created a habitable environment. On those same islands, bits of the god’s petrified flesh came back to life, in the form of tentacled monstrosities brimming with malice and greed. Ever since that time, each morkoth has had an extraplanar island to call home.
 
-No Rhyme or Reason. A morkoth’s island has the qualities of a dreamscape in which nature and predictability take a back seat to strangeness and chaos. Upon it is a jumble of objects and a mixture of creatures, some of which date from forgotten times. An island might have natural-looking illumination, but most are shrouded in twilight, and on any of them, mists and shadows can appear without notice. The environment is warm and wet, a subtropical or tropical climate that keeps the morkoth and its “guests” comfortable.
+No Rhyme or Reason. A morkoth’s island has the qualities of a dreamscape in which nature and predictability take a back seat to strangeness and chaos. Upon it is a jumble of objects and a mixture of creatures, some of which date from forgotten times. An island might have natural-looking illumination, but most are shrouded in twilight, and on any of them, mists and shadows can appear without notice. The environment is warm and wet, a subtropical or tropical climate that keeps the morkoth and its "guests" comfortable.
 
 The pearly matter inside an island enables it to glide on planar currents, maintains the island’s environment, and keeps the place safe from harmful external effects. A morkoth’s island might be found anywhere from the bottom of the ocean to the void of the Astral Plane. One could float in the skies of Avernus in the Nine Hells without being destroyed and without causing harm to its residents. Whatever is on or within a certain distance of a morkoth’s isle travels with it in its journey through the planes. Thus, people from lost civilizations and creatures or objects from bygone ages might be found within a morkoth’s dominion.
 
@@ -4118,7 +4118,7 @@ Acid Breath (Recharge 5–6). The neothelid exhales acid in a 60-foot cone. Each
 
 
 Nilbog
-When Maglubiyet conquered the goblin gods, he intended to leave only Khurgorbaeyag alive as a harsh overseer who would keep the goblins under heel. But the goblins’ pantheon included a trickster deity who was determined to get the last laugh. Although its essence was shattered by Maglubiyet, this trickster god survives in splintered form as a possessing spirit that arises when goblinoids form a host, causing disorder in the ranks unless it is appeased. Goblins have no name for this deity and dare not give it one, lest Maglubiyet use its name to ensnare and crush it as he did their other deities. They call the possessing spirit, and the goblin possessed by it, a nilbog (“goblin” spelled backward), and they revel in the fear that a nilbog sows among the ranks of the bugbears and hobgoblins in the host.
+When Maglubiyet conquered the goblin gods, he intended to leave only Khurgorbaeyag alive as a harsh overseer who would keep the goblins under heel. But the goblins’ pantheon included a trickster deity who was determined to get the last laugh. Although its essence was shattered by Maglubiyet, this trickster god survives in splintered form as a possessing spirit that arises when goblinoids form a host, causing disorder in the ranks unless it is appeased. Goblins have no name for this deity and dare not give it one, lest Maglubiyet use its name to ensnare and crush it as he did their other deities. They call the possessing spirit, and the goblin possessed by it, a nilbog ("goblin" spelled backward), and they revel in the fear that a nilbog sows among the ranks of the bugbears and hobgoblins in the host.
 
 Goblins’ Revenge. When goblinoids form a host, there is a chance that a goblin will become possessed by a nilbog, particularly if the goblin has been mistreated by its betters. This possession turns the goblin into a wisecracking, impish creature fearless of reprisal. It gives the goblin strange powers that drive others to do the opposite of what they desire. Attacking a goblin possessed by a nilbog is foolhardy, and killing the creature just prompts the spirit to possess another goblin. The only way to keep a nilbog from wreaking havoc is to treat it well and give it respect and praise.
 
@@ -4301,7 +4301,7 @@ Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) 
 Orc Hand of Yurtrus
 Yurtrus is the orc god of death and disease. He is a horrifying abomination covered in rot and infection, except for his perfect, smooth white hands.
 
-Orc priests that oversee the line between life and death are known by the others in the tribe as hands of Yurtrus. They dwell on the fringes of an orc lair, usually communing with other orcs through the auspices of those who follow Luthic. The hands of Yurtrus wear pale gloves made of the bleached skin of other humanoids (preferably elves), symbolizing their connection with Yurtrus, and are sometimes called “white hands” as a result.
+Orc priests that oversee the line between life and death are known by the others in the tribe as hands of Yurtrus. They dwell on the fringes of an orc lair, usually communing with other orcs through the auspices of those who follow Luthic. The hands of Yurtrus wear pale gloves made of the bleached skin of other humanoids (preferably elves), symbolizing their connection with Yurtrus, and are sometimes called "white hands" as a result.
 
 Every orc knows that the hands of Yurtrus are the tribe’s gateway to the ancestors. Orcs who die having served the tribe well go on to rituals meant to send them to Gruumsh’s realm.
 
@@ -4522,7 +4522,7 @@ They race themselves to death, and scheme as fast as they run.
 
 Too Fast for Words. The mortal realm is a ponderous place to a quickling’s eye: a hurricane creeps gradually across the sky, a torrent of rain drifts earthward like lazy snowflakes, lightning crawls in a meandering path from cloud to cloud. The slow and boring world seems to be populated by torpid creatures whose deep, mooing speech lacks meaning.
 
-To other creatures, a quickling seems blindingly fast, vanishing into an indistinct blur as it moves. Its cruel laughter is a burst of rapid staccato sounds, its speech a shrill squeal. Only when a quickling deliberately slows down, which it prefers not to do, can other beings properly see, hear, and comprehend it. Never truly at rest, a “stationary” quickling constantly paces and shifts in place, as though it can’t wait to be off again.
+To other creatures, a quickling seems blindingly fast, vanishing into an indistinct blur as it moves. Its cruel laughter is a burst of rapid staccato sounds, its speech a shrill squeal. Only when a quickling deliberately slows down, which it prefers not to do, can other beings properly see, hear, and comprehend it. Never truly at rest, a "stationary" quickling constantly paces and shifts in place, as though it can’t wait to be off again.
 
 Mischief, Not Murder. Quicklings have a capricious nature that goes well with their energy level: they think as fast as they run, and they are always up to something. A quickling spends most of its time perpetrating acts of mischief on slower creatures. One rarely passes up an opportunity to tie a person’s bootlaces together, move the stool a creature is about to sit on, or unbuckle a saddle while no one’s looking.
 
@@ -4632,7 +4632,7 @@ Ironbound Pursuit. The redcap moves up to its speed to a creature it can see and
 Sea Spawn
 Many of the stories sung as sea shanties and passed on as tales in dockside taverns tell of people lost to the sea — but not merely drowned and gone. These unfortunates are taken by the ocean and live on as sea spawn, haunting the waves like tortured reflections of their former selves. Coral encrusts them. Barnacles cling to their cold skin. Lungs that once filled with air can now breathe in water as well.
 
-Tales provide myriad reasons for these strange transformations. “Be wary of falling in love with a sea elf or a merfolk,” some say. “Return to port before a storm, no matter how tempting the catch.” “Honor the sea gods as they demand, but never promise them your heart.” Such cautionary tales disguise the deeper truth: things lurk beneath the waves that strive to claim the hearts and minds of land dwellers.
+Tales provide myriad reasons for these strange transformations. "Be wary of falling in love with a sea elf or a merfolk," some say. "Return to port before a storm, no matter how tempting the catch." "Honor the sea gods as they demand, but never promise them your heart." Such cautionary tales disguise the deeper truth: things lurk beneath the waves that strive to claim the hearts and minds of land dwellers.
 
 They are transformed by the sea and enslaved by powers of the deeps. And the transformation is more than mere fins and tentacles; they come to love their slavery. Poor souls.
 
@@ -5481,7 +5481,7 @@ Not all yuan-ti are eager to see one of their own become an anathema, since anat
 
 Not Quite Divine. An anathema considers itself a demigod on the path to greater divinity. It demands obeisance from weaker yuan-ti and uses every resource at its disposal to launch small-scale wars against its neighbors. Each conquest brings new slaves and sacrifices, as well as glory and riches, that the anathema thinks it needs to achieve true divinity.
 
-An anathema’s most loyal yuan-ti followers see it as the pinnacle of the serpentine form, an unbelievable improvement on the nearly perfect abomination. Its devoted human followers think of it as “divine flesh in a mortal body,” and cultists serving an anathema tend to be more bloodthirsty and self-sacrificing in its presence.
+An anathema’s most loyal yuan-ti followers see it as the pinnacle of the serpentine form, an unbelievable improvement on the nearly perfect abomination. Its devoted human followers think of it as "divine flesh in a mortal body," and cultists serving an anathema tend to be more bloodthirsty and self-sacrificing in its presence.
 
 Immortal. Anathemas don’t age, allowing them to pursue their goals until the end of days. Truly powerful ones can grow to rule multiple yuan-ti cities and bring entire regions, including humanoid realms, under yuan-ti control.
 
@@ -5551,7 +5551,7 @@ Flurry of Bites. Melee Weapon Attack: +10 to hit, reach 10 ft., one creature. Hi
 Yuan-ti Broodguard
 Broodguards are humanoids transformed by yuan-ti into simple-minded, scaly creatures that do their masters’ bidding. The transformation process warps not only a subject’s body but also its mind, making it instinctively obey any yuan-ti and filling it with a seething rage that rises at the sight of non-reptilian creatures.
 
-Although broodguards have low intelligence, they are able to perform simple yet important tasks in the community, such as guarding eggs or patrolling for intruders. The yuan-ti refer to broodguards as “histachii,” which means “egg-watchers.”
+Although broodguards have low intelligence, they are able to perform simple yet important tasks in the community, such as guarding eggs or patrolling for intruders. The yuan-ti refer to broodguards as "histachii," which means "egg-watchers."
 
 Human No More. Most broodguards are made from human prisoners forced to consume a magical brew that renders them helpless and unable to fight off the inevitable. A human transformed into a broodguard loses all semblance of who it once was, and even its human origin is barely discernible. A broodguard is hairless and emaciated, with yellow-green, scaly skin. It has beady, bloodshot eyes and a forked tongue, and smells faintly of rotting meat. Broodguards can speak but rarely do so, preferring to use snake-like hisses and guttural noises.
 
