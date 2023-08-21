@@ -102,21 +102,21 @@ These creatures are found in various places across the map. Over time, all these
 
 ## G
 - [Gargoyle](Gargoyle.md)
-- [Genies](Genies.md):
+- [Genies](Genies.md): [Dao](Genies.md#Dao) | [Djinni](Genies.md#Djinni) | [Efreeti](Genies.md#Efreeti) | [Marid](Genies.md#Marid)
 - [Ghost](Ghost.md)
-- [Ghouls](Ghouls.md): 
-- [Giants](Giants.md):
+- [Ghouls](Ghouls.md): [Ghoul](Ghouls.md#ghoul) | [Ghast](Ghouls.md#ghast)
+- [Giants](Giants.md): [Cloud Giant](Giants.md#cloud-giant) | [Fire Giant](Giants.md#fire-giant) | [Frost Giant](Giants.md#frost-giant) | [Hill Giant](Giants.md#hill-giant) | [Stone Giant](Giants.md#stone-giant) | [Storm Giant](Giants.md#storm-giant)
 - [Giant Ape](Simians.md#giant-ape)
 - [Gibbering Mouther](GibberingMouther.md)
-- [Gith](Gith.md):
-- [Gnolls](Gnolls.md):
-- [Goats](Goats.md): 
-- [Goblins](Goblins.md): 
-- [Golems](Golems.md):
-- [Gorgon](Gorgon.md):
+- [Gith](Gith.md): [Githyanki Warrior](Gith.md#githyanki-warrior) | [Githyanki Knight](Gith.md#githyanki-knight) | [Githzerai Monk](Gith.md#githzerai-monk) | [Githzerai Zerth](Gith.md#githzerai-zerth)
+- [Gnolls](Gnolls.md): [Gnoll](Gnolls.md#gnoll) | [Gnoll Pack Lord](Gnolls.md#gnoll-pack-lord) | [Gnoll Fang of Yeenoghu](Gnolls.md#gnoll-fang-of-yeenoghu)
+- [Goats](Goats.md): [Goat](Goats.md#goat) | [Giant Goat](Goats.md#giant-goat)
+- [Goblins](Goblins.md): [Goblin](Goblins.md#goblin) | [Goblin Boss](Goblins.md#goblin-boss) | [Worg Rider](Goblins.md#worg-rider)
+- [Golems](Golems.md): [Clay](Golems.md#clay-golem) | [Flesh](Golems.md#flesh-golem) | [Iron](Golems.md#iron-golem) | [Stone](Golems.md#stone-golem)
+- [Gorgon](Gorgon.md)
 - [Gray Render](GrayRender.md)
 - [Grell](Grell.md)
-- [Gricks](Gricks.md): 
+- [Gricks](Gricks.md): [Grick](Gricks.md#grick) | [Grick Alpha](Gricks.md#grick-alpha)
 - [Griffon](Griffon.md)
 - [Grimlock](Grimlock.md)
 
@@ -127,10 +127,10 @@ These creatures are found in various places across the map. Over time, all these
 - [Helmed Horror](HelmedHorror.md)
 - [Hexwraith](Hexwraith.md)
 - [Hippogriff](Hippogriff.md)
-- [Hobgoblins](Hobgoblins.md): 
+- [Hobgoblins](Hobgoblins.md): [Hobgoblin](Hobgoblins.md#hobgoblin) | [Hobgoblin Warrior](Hobgoblins.md#hobgoblin-warrior) | [Hobgoblin Veteran](Hobgoblins.md#hobgoblin-veteran) | [Hobgoblin Sergeant](Hobgoblins.md#hobgoblin-sergeant) | [Hobgoblin Captain](Hobgoblins.md#hobgoblin-captain) | [Hobgoblin Warlord](Hobgoblins.md#hobgoblin-warlord) | [Bladebearer](Hobgoblins.md#bladebearer) | [Devastator](Hobgoblins.md#devastator) | [Iron Shadow](Hobgoblins.md#iron-shadow) | [Mindbender](Hobgoblins.md#kulkor-zhul-mindbender) | [Kulkor Zhul War Adept](Hobgoblins.md#kulkor-zhul-war-adept) | [Doom Hand Cleric](Hobgoblins.md#doom-hand-cleric) | [Doom Fist Monk](Hobgoblins.md#doom-fist-monk)
 - [Homunculus](Homunculus.md)
 - [Hook Horror](HookHorror.md)
-- [Horses](Horses.md):
+- [Horses](Horses.md): [Draft Horse](Horses.md#draft-horse) | [Mule](Horses.md#mule) | [Pony](Horses.md#pony) | [Riding Horse](Horses.md#riding-horse) | [Warhorse](Horses.md#warhorse)
 - [Hydra](Hydra.md)
 
 ## I
@@ -142,24 +142,24 @@ These creatures are found in various places across the map. Over time, all these
 
 ## K
 - [Kenku](Kenku.md)
-- [Kobolds](Kobolds.md):
+- [Kobolds](Kobolds.md): [Kobold](#kobold) | [Winged Kobold](#winged-kobold)
 - [Kraken](Kraken.md)
-- [Kuo-Toa](Kuo-Toa.md):
+- [Kuo-Toa](Kuo-Toa.md): [Kuo-Toa](#kuo-toa) | [Kuo-toa Archpriest](#kuo-toa-archpriest) | [Kuo-toa Monitor](#kuo-toa-monitor) | [Kuo-toa Whip](#kuo-toa-whip)
 
 ## L
 - [Lamia](Lamia.md)
 - [Lich](Lich.md)
 - [Lion](Cats.md#lion)
-- [Lizardfolk](Lizardfolk.md): 
-- [Lizards](Lizards.md):
-- [Lycanthropes](Lycanthropes.md): 
+- [Lizardfolk](Lizardfolk.md): [Lizardfolk](Lizardfolk.md#lizardfolk-1) | [Lizardfolk Hunter](Lizardfolk.md#lizardfolk-hunter) | [Lizardfolk Warrior](Lizardfolk.md#lizardfolk-warrior) | [Lizardfolk Shaman](Lizardfolk.md#lizardfolk-shaman) | [Lizardfolk King/Queen](Lizardfolk.md#lizardfolk-kingqueen)
+- [Lizards](Lizards.md): [Giant Lizard](Lizards.md#giant-lizard) | [Lizard](Lizards.md#lizard)
+- [Lycanthropes](Lycanthropes.md): [Werebear](Lycanthropes.md#werebear) | [Wereboar](Lycanthropes.md#wereboar) | [Wererat](Lycanthropes.md#wererat) | [Weretiger](Lycanthropes.md#weretiger) | [Werewolf](Lycanthropes.md#werewolf)
 
 ## M
-- [Magen](Magen.md)
+- [Magen](Magen.md): 
 - [Magmin](ElementalServants.md#magmin)
 - [Manticore](Manticore.md)
 - [Medusa](Medusa.md)
-- [Mephits](Mephits.md)
+- [Mephits](Mephits.md): 
 - [Merfolk](Merfolk.md)
 - [Merrow](Merrow.md)
 - [Mimic](Mimic.md)

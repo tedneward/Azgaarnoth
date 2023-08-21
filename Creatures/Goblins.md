@@ -1,7 +1,7 @@
 # Goblins
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large — sometimes overwhelming — numbers. They crave power and regularly abuse whatever authority they obtain.
 
-> Jump to: [Goblin](#goblin) | [Goblin Boss](#goblin-boss)
+> Jump to: [Goblin](#goblin) | [Goblin Boss](#goblin-boss) | [Worg Rider](#worg-rider)
 
 ***Goblinoids.*** Goblins belong to a family of creatures called goblinoids. Their larger cousins, hobgoblins and bugbears, like to bully goblins into submission. Goblins are lazy and undisciplined, making them poor servants, laborers, and guards.
 

@@ -1,7 +1,9 @@
-# Lizard
+# Lizards
 Lizards are four-legged reptiles that often occupy swamps and marshlands, though plenty of others are more sun-dwelling/desert creatures, and still others are entirely subterranean. 
 
 > Jump to: [Giant Lizard](#giant-lizard) | [Lizard](#lizard)
+
+---
 
 ## Giant Lizard
 A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep them as pets, and subterranean giant lizards are used as mounts and pack animals by drow, duergar, and other Underdark dwellers.

@@ -1,7 +1,7 @@
 # Giants
 Ancient empires once cast long shadows over a world that quaked beneath the giants' feet. In those lost days, these towering figures were dragon slayers, dreamers, crafters, and kings, but their kind fell from glory long ago. However, even divided among secluded clans scattered throughout the world, the giants maintain the customs and traditions of old.
 
-> Jump to: [Cloud Giant](#Cloud Giant) | [Fire Giant](#Fire Giant) | [Frost Giant](#Frost Giant) | [Hill Giant](#Hill Giant) | [Stone Giant](#Stone Giant) | [Storm Giant](#Storm Giant)
+> Jump to: [Cloud Giant](#cloud-giant) | [Fire Giant](#fire-giant) | [Frost Giant](#frost-giant) | [Hill Giant](#hill-giant) | [Stone Giant](#stone-giant) | [Storm Giant](#storm-giant)
 
 ***Old as Legend.*** In remote regions of the world, the last remaining plinths, monoliths, and statues of the great giant empires bow their heads in desolate obscurity. Where once those empires sprawled across all lands, now the giants dwell in isolated tribes and clans.
 

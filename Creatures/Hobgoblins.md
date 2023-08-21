@@ -1,7 +1,7 @@
 # Hobgoblins
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
 
-> Jump to: [Hobgoblin](#hobgoblin) | [Hobgoblin Captain](#hobgoblin-captain) | [Hobgoblin Warlord](#hobgoblin-warlord) | [Bladebearer](#bladebearer) | [Devastator](#devastator) | [Iron Shadow](#iron-shadow) | [Mindbender](#kulkor-zhul-mindbender) | [Kulkor Zhul War Adept](#kulkor-zhul-war-adept) | [Doom Hand Cleric](#doom-hand-cleric) | [Doom Fist Monk](#doom-fist-monk)
+> Jump to: [Hobgoblin](#hobgoblin) | [Hobgoblin Warrior](#hobgoblin-warrior) | [Hobgoblin Veteran](#hobgoblin-veteran) | [Hobgoblin Sergeant](#hobgoblin-sergeant) | [Hobgoblin Captain](#hobgoblin-captain) | [Hobgoblin Warlord](#hobgoblin-warlord) | [Bladebearer](#bladebearer) | [Devastator](#devastator) | [Iron Shadow](#iron-shadow) | [Mindbender](#kulkor-zhul-mindbender) | [Kulkor Zhul War Adept](#kulkor-zhul-war-adept) | [Doom Hand Cleric](#doom-hand-cleric) | [Doom Fist Monk](#doom-fist-monk)
 
 Hobgoblins have dark orange or red-orange skin, and hair ranging from dark red-brown to dark gray. Yellow or dark brown eyes peer out beneath their beetling brows, and their wide mouths sport sharp and yellowed teeth. A male hobgoblin might have a large blue or red nose, which symbolizes virility and power among goblinkin. Hobgoblins can live as long as humans, though their love of warfare and battle means that few do.
 

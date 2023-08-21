@@ -1,7 +1,7 @@
-# Goat
+# Goats
 
 
-> Jump to: [Goat](#goat-1) | [Giant Goat](#giant-goat)
+> Jump to: [Goat](#goat) | [Giant Goat](#giant-goat)
 
 ---
 
