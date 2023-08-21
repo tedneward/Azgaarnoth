@@ -1,13 +1,13 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
-Hello World, but with more meat.
+The Creatool (Creature Tool) GUI interface. For easier import (I think) from various sources.
 """
 
 import wx
 
 class CreatoolMainFrame(wx.Frame):
     """
-    A Frame that says Hello World
+    The first and central frame brought up for the app.
     """
 
     def __init__(self, *args, **kw):
@@ -26,7 +26,7 @@ class CreatoolMainFrame(wx.Frame):
 
         # and create a sizer to manage the layout of child widgets
         sizer = wx.BoxSizer(wx.VERTICAL)
-        sizer.Add(st, wx.SizerFlags().Border(wx.TOP|wx.LEFT, 25))
+        sizer.Add(st, wx.SizerFlags().Border(wx.TOP|wx.LEFT|wx.RIGHT, 25))
         pnl.SetSizer(sizer)
 
         # create a menu bar
@@ -70,12 +70,9 @@ class CreatoolMainFrame(wx.Frame):
         self.Bind(wx.EVT_MENU, self.OnExit,  exitItem)
         self.Bind(wx.EVT_MENU, self.OnAbout, aboutItem)
 
-
     def OnExit(self, event):
         """Close the frame, terminating the application."""
         self.Close(True)
-
-
 
     def OnAbout(self, event):
         """Display an About Dialog"""
