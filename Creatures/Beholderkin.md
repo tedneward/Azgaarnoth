@@ -249,11 +249,11 @@ Like any beholder, a spectator views itself as the epitome of its kind, and it h
 ## Death Kiss
 A death kiss is a lesser beholder that might come into being when a beholder has a vivid nightmare about losing blood. Instead of magical eye rays, it has ten long tentacles, each ending in a mouth full of teeth. In coloration and shape it is similar to the beholder that dreamed it into existence, but its hue is more muted.
 
-***Blood Drinker.***. A death kiss survives solely on ingested blood, which it uses to generate electrical energy inside its body. Paranoid about dying from starvation, it obsessively drains even little creatures such as rats in an effort to stave off this fate for as long as possible. After it drains its prey, it abandons the corpse to scavengers. A death kiss prefers to hunt alone. If it meets another death kiss, it might fight, flee, or team up, depending on its health and pride. When underground, it uses its tentacles as feelers, prodding and examining the environment in all directions. Above ground, it usually keeps its tentacles retracted when on the hunt, then lashes out and extends them to their full length to catch opponents off guard.
+***Blood Drinker.*** A death kiss survives solely on ingested blood, which it uses to generate electrical energy inside its body. Paranoid about dying from starvation, it obsessively drains even little creatures such as rats in an effort to stave off this fate for as long as possible. After it drains its prey, it abandons the corpse to scavengers. A death kiss prefers to hunt alone. If it meets another death kiss, it might fight, flee, or team up, depending on its health and pride. When underground, it uses its tentacles as feelers, prodding and examining the environment in all directions. Above ground, it usually keeps its tentacles retracted when on the hunt, then lashes out and extends them to their full length to catch opponents off guard.
 
-***False Tyrant.***. In poor lighting and with its tentacles extended, a death kiss can be mistaken for a true beholder. It might purposely present itself as a beholder to an ignorant creature, but this behavior is rare, since it usually is focused on hunting and lacks the self-importance and paranoia of a true beholder. It can speak through any of its tentacle-throats, and its voice sounds nasal and high-pitched. A true beholder has little to fear from a death kiss, since it can easily kill or subdue the death kiss long before the death kiss gets into melee range. Thus, out of self-preservation, a death kiss usually submits to the rule of a beholder that it encounters, though it might attempt to escape as soon as its master is preoccupied.
+***False Tyrant.*** In poor lighting and with its tentacles extended, a death kiss can be mistaken for a true beholder. It might purposely present itself as a beholder to an ignorant creature, but this behavior is rare, since it usually is focused on hunting and lacks the self-importance and paranoia of a true beholder. It can speak through any of its tentacle-throats, and its voice sounds nasal and high-pitched. A true beholder has little to fear from a death kiss, since it can easily kill or subdue the death kiss long before the death kiss gets into melee range. Thus, out of self-preservation, a death kiss usually submits to the rule of a beholder that it encounters, though it might attempt to escape as soon as its master is preoccupied.
 
-***Simple Tactics.***. A death kiss lacks the combat finesse and intelligence of a beholder. It might attempt an unusual maneuver to control its prey (such as flying up while grappling), but in most cases, it attaches one or more of its tentacles to a creature and drains blood until its prey collapses. If it is in a superior position and its opponent poses no threat, it might toy with its food, slowly squeezing and draining the life out of a creature.
+***Simple Tactics.*** A death kiss lacks the combat finesse and intelligence of a beholder. It might attempt an unusual maneuver to control its prey (such as flying up while grappling), but in most cases, it attaches one or more of its tentacles to a creature and drains blood until its prey collapses. If it is in a superior position and its opponent poses no threat, it might toy with its food, slowly squeezing and draining the life out of a creature.
 
 >### Death Kiss
 >*Large aberration, neutral evil*
@@ -278,14 +278,14 @@ A death kiss is a lesser beholder that might come into being when a beholder has
 >- **Languages** Deep Speech,Undercommon
 >- **Challenge** 10
 >___
->***Lightning Blood.***. A creature within 5 feet of the death kiss takes 5 (1d10) lightning damage whenever it hits the death kiss with a melee attack that deals piercing or slashing damage.
+>***Lightning Blood.*** A creature within 5 feet of the death kiss takes 5 (1d10) lightning damage whenever it hits the death kiss with a melee attack that deals piercing or slashing damage.
 >
 >#### Actions
->***Multiattack.***. The death kiss makes three tentacle attacks. Up to three of these attacks can be replaced by Blood Drain, one replacement per tentacle grappling a creature.
+>***Multiattack.*** The death kiss makes three tentacle attacks. Up to three of these attacks can be replaced by Blood Drain, one replacement per tentacle grappling a creature.
 >
->***Tentacle.***. Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 14 (3d6 + 4) piercing damage, and the target is grappled (escape DC 14) if it is a Huge or smaller creature. Until this grapple ends, the target is restrained, and the death kiss can't use the same tentacle on another target. The death kiss has ten tentacles.
+>***Tentacle.*** Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 14 (3d6 + 4) piercing damage, and the target is grappled (escape DC 14) if it is a Huge or smaller creature. Until this grapple ends, the target is restrained, and the death kiss can't use the same tentacle on another target. The death kiss has ten tentacles.
 >
->***Blood Drain.***. One creature grappled by a tentacle of the death kiss must make a DC 16 Constitution saving throw. On a failed save, the target takes 22 (4d10) lightning damage, and the death kiss regains half as many hit points.
+>***Blood Drain.*** One creature grappled by a tentacle of the death kiss must make a DC 16 Constitution saving throw. On a failed save, the target takes 22 (4d10) lightning damage, and the death kiss regains half as many hit points.
 >
 
 ---
@@ -293,11 +293,11 @@ A death kiss is a lesser beholder that might come into being when a beholder has
 ## Gauth
 A gauth is a hungry, tyrannical beholder-like creature that eats magic and tries to exact tribute from anything weaker than itself. Its body is about 4 feet in diameter, with six eyestalks, a central eye (sometimes surrounded by multiple smaller eyes), and four small grasping tentacles near its mouth. It has color and texture variations similar to a true beholder.
 
-***Magical Metabolism.***. A gauth can survive on meat but prefers to sustain itself with power drained from magic objects. If starved of magic for several weeks, it is forced back to its home plane, so it constantly seeks new items to drain. A gauth might employ creatures to serve it by bringing it items that provide it with sustenance.
+***Magical Metabolism.*** A gauth can survive on meat but prefers to sustain itself with power drained from magic objects. If starved of magic for several weeks, it is forced back to its home plane, so it constantly seeks new items to drain. A gauth might employ creatures to serve it by bringing it items that provide it with sustenance.
 
-***Accidental Summoning.***. When the ritual to summon a spectator goes wrong, a gauth might push itself through the flawed connection, arriving immediately or several minutes later. It might present itself as a beholder to ignorant creatures in an attempt to intimidate them, or as a spectator to its summoner in order to drain magic items it is expected to guard.
+***Accidental Summoning.*** When the ritual to summon a spectator goes wrong, a gauth might push itself through the flawed connection, arriving immediately or several minutes later. It might present itself as a beholder to ignorant creatures in an attempt to intimidate them, or as a spectator to its summoner in order to drain magic items it is expected to guard.
 
-***Inferior Tyrant.***. A beholder usually drives away or kills any gauths that enter its territory, but it might choose to enslave them and use them as lieutenants. Gauths are less xenophobic than beholders, so they might form small clusters and work together, though they're just as likely to ignore each other entirely.
+***Inferior Tyrant.*** A beholder usually drives away or kills any gauths that enter its territory, but it might choose to enslave them and use them as lieutenants. Gauths are less xenophobic than beholders, so they might form small clusters and work together, though they're just as likely to ignore each other entirely.
 
 >### Gauth
 >*Medium aberration, lawful evil*
@@ -322,16 +322,16 @@ A gauth is a hungry, tyrannical beholder-like creature that eats magic and tries
 >- **Languages** Deep Speech,Undercommon
 >- **Challenge** 6
 >___
->***Stunning Gaze.***. When a creature that can see the gauth's central eye starts its turn within 30 feet of the gauth, the gauth can force it to make a DC 14 Wisdom saving throw if the gauth isn't incapacitated and can see the creature. A creature that fails the save is stunned until the start of its next turn.
+>***Stunning Gaze.*** When a creature that can see the gauth's central eye starts its turn within 30 feet of the gauth, the gauth can force it to make a DC 14 Wisdom saving throw if the gauth isn't incapacitated and can see the creature. A creature that fails the save is stunned until the start of its next turn.
 >
 >Unless surprised, a creature can avert its eyes at the start of its turn to avoid the saving throw. If the creature does so, it can't see the gauth until the start of its next turn, when it can avert its eyes again. If the creature looks at the gauth in the meantime, it must immediately make the save.
 >
->***Death Throes.***. When the gauth dies, the magical energy within it explodes, and each creature within 10 feet of it must make a DC 14 Dexterity saving throw, taking 13 (3d8) force damage on a failed save, or half as much damage on a successful one.
+>***Death Throes.*** When the gauth dies, the magical energy within it explodes, and each creature within 10 feet of it must make a DC 14 Dexterity saving throw, taking 13 (3d8) force damage on a failed save, or half as much damage on a successful one.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d8) piercing damage.
+>***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d8) piercing damage.
 >
->***Eye Rays.***. The gauth shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:
+>***Eye Rays.*** The gauth shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:
 >
 >* *1. Devour Magic Ray.* The targeted creature must succeed on a DC 14 Dexterity saving throw or have one of its magic items lose all magical properties until the start of the gauth's next turn. If the object is a charged item, it also loses 1d4 charges. Determine the affected item randomly, ignoring single-use items such as potions and scrolls.
 >
@@ -351,13 +351,13 @@ A gauth is a hungry, tyrannical beholder-like creature that eats magic and tries
 ## Gazer
 A gazer is a tiny manifestation of a beholder's dreams. It resembles the beholder who dreamed it into existence, but its body is only 8 inches wide, and it has only four eyestalks. It follows its creator like a devoted, aggressive puppy, and sometimes small packs of these creatures patrol their master's lair for vermin to kill and lone creatures to harass.
 
-***Nuisance Pet.***. A gazer can't speak any languages but can approximate mimicking words and sentences in a high-pitched, mocking manner. Beholders find gazers amusing and tolerate their presence like spoiled pets. A gazer can't be tamed by anyone but its creator, except through the use of magic or by bonding with a spellcaster (see sidebar). Some beholders with wizard minions insist they take a gazer as a familiar because they can see through the eyes of these creatures.
+***Nuisance Pet.*** A gazer can't speak any languages but can approximate mimicking words and sentences in a high-pitched, mocking manner. Beholders find gazers amusing and tolerate their presence like spoiled pets. A gazer can't be tamed by anyone but its creator, except through the use of magic or by bonding with a spellcaster (see sidebar). Some beholders with wizard minions insist they take a gazer as a familiar because they can see through the eyes of these creatures.
 
-***Aggressive Vermin-Eater.***. A wild gazer (one living separately from a beholder) is territorial, eats bugs and small animals, and is known for playing with its food. A lone gazer avoids picking fights with creatures that are Medium or larger, but a pack of them might take on larger prey. A gazer might follow humanoids in its territory, noisily mimicking their speech and generally being a nuisance, until they leave the area, but it flees if confronted by something it can't kill.
+***Aggressive Vermin-Eater.*** A wild gazer (one living separately from a beholder) is territorial, eats bugs and small animals, and is known for playing with its food. A lone gazer avoids picking fights with creatures that are Medium or larger, but a pack of them might take on larger prey. A gazer might follow humanoids in its territory, noisily mimicking their speech and generally being a nuisance, until they leave the area, but it flees if confronted by something it can't kill.
 
-***VARIANT: GAZER FAMILIAR.***. Spellcasters who are interested in unusual familiars find that gazers are eager to serve someone who has magical power, especially those who make a point of bullying and harassing others. The gazer behaves aggressively toward creatures smaller than itself, and it tends to randomly attack house pets, farm animals, and even children in town unless its master is very strict. A gazer serving as a familiar has the following trait:
+***VARIANT: GAZER FAMILIAR.*** Spellcasters who are interested in unusual familiars find that gazers are eager to serve someone who has magical power, especially those who make a point of bullying and harassing others. The gazer behaves aggressively toward creatures smaller than itself, and it tends to randomly attack house pets, farm animals, and even children in town unless its master is very strict. A gazer serving as a familiar has the following trait:
 
-***Familiar.***. The gazer can serve another creature as a familiar, forming a telepathic bond with its willing master, provided that the master is at least a 3rd-level spellcaster. While the two are bonded, the master can sense what the gazer senses as long as they are within 1 mile of each other. If its master causes it physical harm, the gazer will end its service as a familiar, breaking the telepathic bond.
+***Familiar.*** The gazer can serve another creature as a familiar, forming a telepathic bond with its willing master, provided that the master is at least a 3rd-level spellcaster. While the two are bonded, the master can sense what the gazer senses as long as they are within 1 mile of each other. If its master causes it physical harm, the gazer will end its service as a familiar, breaking the telepathic bond.
 
 >### Gazer
 >*Tiny aberration, neutral evil*
@@ -382,14 +382,14 @@ A gazer is a tiny manifestation of a beholder's dreams. It resembles the beholde
 >- **Languages** --
 >- **Challenge** 1/2
 >___
->***Aggressive.***. As a bonus action, the gazer can move up to its speed toward a hostile creature that it can see.
+>***Aggressive.*** As a bonus action, the gazer can move up to its speed toward a hostile creature that it can see.
 >
->***Mimicry.***. The gazer can mimic simple sounds of speech it has heard, in any language. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
+>***Mimicry.*** The gazer can mimic simple sounds of speech it has heard, in any language. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+>***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
 >
->***Eye Rays.***. The gazer shoots two of the following magical eye rays at random (reroll duplicates), choosing one or two targets it can see within 60 feet of it:
+>***Eye Rays.*** The gazer shoots two of the following magical eye rays at random (reroll duplicates), choosing one or two targets it can see within 60 feet of it:
 >
 >* *1. Dazing Ray.* The targeted creature must succeed on a DC 12 Wisdom saving throw or be charmed until the start of the gazer's next turn. While the target is charmed in this way, its speed is halved, and it has disadvantage on attack rolls.
 >

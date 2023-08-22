@@ -150,9 +150,9 @@ Bereft of much of its magic, a deathlock wight lingers between the warlock it wa
 >___
 >***Innate Spellcasting.*** The wight's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no verbal or material components:
 >
->***At will: [detect magic](.***./Magic/Spells/detect-magic.md), [disguise self](../Magic/Spells/disguise-self.md), [mage armor](../Magic/Spells/mage-armor.md)
+>***At will: [detect magic](.***/Magic/Spells/detect-magic.md), [disguise self](../Magic/Spells/disguise-self.md), [mage armor](../Magic/Spells/mage-armor.md)
 >
->***1/day each: [fear](.***./Magic/Spells/fear.md), [hold person](../Magic/Spells/hold-person.md), [misty step](../Magic/Spells/misty-step.md)
+>***1/day each: [fear](.***/Magic/Spells/fear.md), [hold person](../Magic/Spells/hold-person.md), [misty step](../Magic/Spells/misty-step.md)
 >
 >***Sunlight Sensitivity.*** While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >

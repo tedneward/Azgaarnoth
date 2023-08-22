@@ -1,0 +1,3637 @@
+
+CHAPTER 2: BESTIARY
+TABLE OF CONTENTS
+BESTIARY (L-R)
+Bestiary (E-K)
+Monsters: E
+Eidolon
+To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the eidolon plunges into a statue specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
+
+EIDOLON
+Medium Undead, Any Alignment
+
+Armor Class 9
+
+Hit Points 63 (18d8 − 18)
+
+Speed 0 ft., fly 40 ft. (hover)
+
+STR
+7 (−2)
+DEX
+8 (−1)
+CON
+9 (−1)
+INT
+14 (+2)
+WIS
+19 (+4)
+CHA
+16 (+3)
+Saving Throws Wis +8
+
+Skills Perception +8
+
+Damage Resistances acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+
+Damage Immunities cold, necrotic, poison
+
+Condition Immunities charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+
+Senses darkvision 60 ft., passive Perception 18
+
+Languages the languages it knew in life
+
+Challenge 12 (8,400 XP) Proficiency Bonus +4
+
+Incorporeal Movement. The eidolon can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object other than a sacred statue.
+
+Sacred Animation (Recharge 5–6). When the eidolon moves into a space occupied by a sacred statue, the eidolon can disappear, causing the statue to become a creature under the eidolon’s control. The eidolon uses the sacred statue’s stat block in place of its own.
+
+Turn Resistance. The eidolon has advantage on saving throws against any effect that turns Undead.
+
+Unusual Nature. The eidolon doesn’t require air, food, drink, or sleep.
+
+Actions
+
+Divine Dread. Each creature within 60 feet of the eidolon that can see it must succeed on a DC 15 Wisdom saving throw or be frightened of it for 1 minute. While frightened in this way, the creature must take the Dash action and move away from the eidolon by the safest available route at the start of each of its turns, unless there is nowhere for it to move, in which case the creature also becomes stunned until it can move again. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to any eidolon’s Divine Dread for the next 24 hours.
+
+SACRED STATUE
+Large Construct, As the Eidolon’s Alignment
+
+Armor Class 19 (natural armor)
+
+Hit Points 95 (10d10 + 40)
+
+Speed 25 ft.
+
+STR
+19 (+4)
+DEX
+8 (−1)
+CON
+19 (+4)
+INT
+14 (+2)
+WIS
+19 (+4)
+CHA
+16 (+3)
+Saving Throws Wis +8
+
+Damage Resistances acid, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+
+Damage Immunities cold, necrotic, poison
+
+Condition Immunities charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+
+Senses darkvision 60 ft., passive Perception 14
+
+Languages the languages the eidolon knew in life
+
+False Appearance. If the statue is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn’t observed the statue move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the statue isn’t an object.
+
+Ghostly Inhabitant. The eidolon that enters the statue remains inside it until the statue drops to 0 hit points, the eidolon uses a bonus action to move out of the statue, or the eidolon is turned or forced out by an effect such as the dispel evil and good spell. When the eidolon leaves the statue, it appears in an unoccupied space within 5 feet of the statue.
+
+Inert. Without an eidolon inside, the statue is an object.
+
+Unusual Nature. The statue doesn’t require air, food, drink, or sleep.
+
+Actions
+
+Multiattack. The statue makes two Slam or Rock attacks.
+
+Slam. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 43 (6d12 + 4) bludgeoning damage.
+
+Rock. Ranged Weapon Attack: +8 to hit, range 60 ft./240 ft., one target. Hit: 37 (6d10 + 4) bludgeoning damage.
+
+
+Eladrin
+Eladrin dwell in the verdant splendor of the Feywild. They are related to the elves found on the Material Plane. But while other elves can temper their wild impulses, eladrin are ruled by emotion—and due to their magical nature, they undergo physical changes to match their changes in temperament.
+
+Eladrin have spent centuries in the Feywild, and most of them have become Fey creatures as a result—those presented here are of the Fey variety. Some are still Humanoid, however, similar in that respect to their other elven kin.
+
+The magic flowing through eladrin responds to their emotional state by transforming them into different seasonal aspects, with behaviors and abilities that change with their forms. Some eladrin might remain in a particular aspect for years, while others run through the emotional spectrum each week.
+
+Changeable Natures
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren’t incapacitated. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
+
+Autumn Eladrin
+Eladrin often enter the autumn season when they are overcome by feelings of goodwill. In this aspect, they defuse conflicts and alleviate suffering by using their magic to relieve any ailments that afflict the people who come to them for aid. They tolerate no violence in their presence and move quickly to settle disputes, to ensure that peace continues to reign.
+
+AUTUMN ELADRIN
+Medium Fey (Elf), Typically Chaotic Neutral
+
+Armor Class 19 (natural armor)
+
+Hit Points 165 (22d8 + 66)
+
+Speed 30 ft.
+
+STR
+12 (+1)
+DEX
+16 (+3)
+CON
+16 (+3)
+INT
+14 (+2)
+WIS
+17 (+3)
+CHA
+18 (+4)
+Skills Insight +7, Medicine +7
+
+Damage Resistances psychic
+
+Senses darkvision 60 ft., passive Perception 13
+
+Languages Common, Elvish, Sylvan
+
+Challenge 10 (5,900 XP) Proficiency Bonus +4
+
+Enchanting Presence. Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes charmed by the eladrin for 1 minute. On a successful save, the creature becomes immune to any eladrin’s Enchanting Presence for 24 hours.
+
+Whenever the eladrin deals damage to the charmed creature, the charmed creature can repeat the saving throw, ending the effect on itself on a success.
+
+Magic Resistance. The eladrin has advantage on saving throws against spells and other magical effects.
+
+Actions
+
+Multiattack. The eladrin makes two Longsword or Longbow attacks. It can replace one attack with a use of Spellcasting.
+
+Longsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands, plus 22 (5d8) psychic damage.
+
+Longbow. Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 22 (5d8) psychic damage.
+
+Spellcasting. The eladrin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
+
+At will: hold person
+
+2/day each: cure wounds (as a 5th-level spell), lesser restoration
+
+1/day each: greater restoration, revivify
+
+Bonus Actions
+
+Fey Step (Recharge 4–6). The eladrin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
+
+Reactions
+
+Foster Peace. If a creature charmed by the eladrin hits with an attack roll while within 60 feet of the eladrin, the eladrin magically causes the attack to miss, provided the eladrin can see the attacker.
+
+If an autumn eladrin invites you over for dinner, come with an empty stomach. Their goodwill extends to heaping portions.
+
+Note to self: send some of my spring eladrin friends to visit Mordenkainen. That’ll teach him to lighten up.
+
+TASHA
+
+Spring Eladrin
+Their hearts filled with joy, spring eladrin cavort through their sylvan realms, their songs and laughter filling the air. These playful eladrin beguile other creatures to fill them with the joy of spring. Their antics can lead other creatures into danger and make mischief for them.
+
+SPRING ELADRIN
+Medium Fey (Elf), Typically Chaotic Neutral
+
+Armor Class 19 (natural armor)
+
+Hit Points 165 (22d8 + 66)
+
+Speed 30 ft.
+
+STR
+14 (+2)
+DEX
+16 (+3)
+CON
+16 (+3)
+INT
+18 (+4)
+WIS
+11 (+0)
+CHA
+18 (+4)
+Skills Deception +8, Persuasion +8
+
+Damage Resistances psychic
+
+Senses darkvision 60 ft., passive Perception 10
+
+Languages Common, Elvish, Sylvan
+
+Challenge 10 (5,900 XP) Proficiency Bonus +4
+
+Joyful Presence. Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes charmed by the eladrin for 1 minute. On a successful save, the creature becomes immune to any eladrin’s Joyful Presence for 24 hours.
+
+Whenever the eladrin deals damage to the charmed creature, the charmed creature can repeat the saving throw, ending the effect on itself on a success.
+
+Magic Resistance. The eladrin has advantage on saving throws against spells and other magical effects.
+
+Actions
+
+Multiattack. The eladrin makes two Longsword or Longbow attacks. It can replace one attack with a use of Spellcasting.
+
+Longsword. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands, plus 22 (5d8) psychic damage.
+
+Longbow. Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 22 (5d8) psychic damage.
+
+Spellcasting. The eladrin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
+
+At will: Tasha’s hideous laughter
+
+1/day each: major image, suggestion
+
+Bonus Actions
+
+Fey Step (Recharge 4–6). The eladrin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
+
+
+Summer Eladrin
+When angered, eladrin enter the season of summer, a burning, tempestuous state that transforms them into aggressive warriors eager to vent their wrath. Their magic responds to their fury and amplifies their fighting ability, helping them move with astonishing quickness and strike with terrible force.
+
+SUMMER ELADRIN
+Medium Fey (Elf), Typically Chaotic Neutral
+
+Armor Class 19 (natural armor)
+
+Hit Points 165 (22d8 + 66)
+
+Speed 50 ft.
+
+STR
+19 (+4)
+DEX
+21 (+5)
+CON
+16 (+3)
+INT
+14 (+2)
+WIS
+12 (+1)
+CHA
+18 (+4)
+Skills Athletics +8, Intimidation +8
+
+Damage Resistances fire
+
+Senses darkvision 60 ft., passive Perception 9
+
+Languages Common, Elvish, Sylvan
+
+Challenge 10 (5,900 XP) Proficiency Bonus +4
+
+Fearsome Presence. Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes frightened of the eladrin for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to any eladrin’s Fearsome Presence for the next 24 hours.
+
+Magic Resistance. The eladrin has advantage on saving throws against spells and other magical effects.
+
+Actions
+
+Multiattack. The eladrin makes two Longsword or Longbow attacks.
+
+Longsword. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage, or 15 (2d10 + 4) slashing damage if used with two hands, plus 9 (2d8) fire damage.
+
+Longbow. Ranged Weapon Attack: +9 to hit, range 150/600 ft., one target. Hit: 14 (2d8 + 5) piercing damage plus 9 (2d8) fire damage.
+
+Bonus Actions
+
+Fey Step (Recharge 4–6). The eladrin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
+
+Reactions
+
+Parry. The eladrin adds 3 to its AC against one melee attack that would hit it. To do so, the eladrin must see the attacker and be wielding a melee weapon.
+
+
+Winter Eladrin
+When sorrow distresses eladrin, they enter the winter season, becoming figures of melancholy. Frozen tears drop from their cheeks, and their palpable sadness emanates from them as icy cold.
+
+WINTER ELADRIN
+Medium Fey (Elf), Typically Chaotic Neutral
+
+Armor Class 19 (natural armor)
+
+Hit Points 165 (22d8 + 66)
+
+Speed 30 ft.
+
+STR
+11 (+0)
+DEX
+16 (+3)
+CON
+16 (+3)
+INT
+18 (+4)
+WIS
+17 (+3)
+CHA
+13 (+1)
+Damage Resistances cold
+
+Senses darkvision 60 ft., passive Perception 13
+
+Languages Common, Elvish, Sylvan
+
+Challenge 10 (5,900 XP) Proficiency Bonus +4
+
+Magic Resistance. The eladrin has advantage on saving throws against spells and other magical effects.
+
+Sorrowful Presence. Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 13 Wisdom saving throw. On a failed save, the creature becomes charmed by the eladrin for 1 minute. While charmed in this way, the creature has disadvantage on ability checks and saving throws. The charmed creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to any eladrin’s Sorrowful Presence for the next 24 hours.
+
+Whenever the eladrin deals damage to the charmed creature, the charmed creature can repeat the saving throw, ending the effect on itself on a success.
+
+Actions
+
+Multiattack. The eladrin makes two Longsword or Longbow attacks. It can replace one attack with a use of Spellcasting.
+
+Longsword. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d8) slashing damage, or 5 (1d10) slashing damage if used with two hands, plus 13 (3d8) cold damage.
+
+Longbow. Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 13 (3d8) cold damage.
+
+Spellcasting. The eladrin casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
+
+At will: fog cloud, gust of wind, sleet storm
+
+Bonus Actions
+
+Fey Step (Recharge 4–6). The eladrin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
+
+Reactions
+
+Frigid Rebuke. When the eladrin takes damage from a creature the eladrin can see within 60 feet of it, the eladrin can force that creature to make a DC 16 Constitution saving throw. On a failed save, the creature takes 11 (2d10) cold damage.
+
+
+Elder Brain
+The ultimate expression of mind flayer domination, an elder brain sprawls within a vat of viscous brine, cared for by mind flayer minions as it touches the thoughts of creatures near and far. It scrawls upon the canvas of the creatures’ minds, rewriting their thoughts and authoring their dreams.
+
+An elder brain sustains itself by consuming the brains of other creatures. If its mind flayer servants don’t bring meals directly to it, the elder brain reaches out with tendrils of thought, compelling creatures to come to it so that it can feed on them.
+
+When a mind flayer perishes, the elder brain’s servants feed its brain to their master, which then absorbs the knowledge and experience contained therein. Mind flayers conceive of this oneness with the elder brain as a sacred state akin to an afterlife.
+
+ELDER BRAIN
+Large Aberration (Mind Flayer), Typically Lawful Evil
+
+Armor Class 10
+
+Hit Points 210 (20d10 + 100)
+
+Speed 5 ft., swim 10 ft.
+
+STR
+15 (+2)
+DEX
+10 (+0)
+CON
+20 (+5)
+INT
+21 (+5)
+WIS
+19 (+4)
+CHA
+24 (+7)
+Saving Throws Int +10, Wis +9, Cha +12
+
+Skills Arcana +10, Deception +12, Insight +14, Intimidation +12, Persuasion +12
+
+Senses blindsight 120 ft., passive Perception 14
+
+Languages understands Common, Deep Speech, and Undercommon but can’t speak, telepathy 5 miles
+
+Challenge 14 (11,500 XP) Proficiency Bonus +5
+
+Creature Sense. The elder brain is aware of creatures within 5 miles of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature, as well as each one’s Intelligence score, but can’t sense anything else about it. A creature protected by a mind blank spell, a nondetection spell, or similar magic can’t be perceived in this manner.
+
+Legendary Resistance (3/Day). If the elder brain fails a saving throw, it can choose to succeed instead.
+
+Magic Resistance. The elder brain has advantage on saving throws against spells and other magical effects.
+
+Telepathic Hub. The elder brain can use its telepathy to initiate and maintain telepathic conversations with up to ten creatures at a time. The elder brain can let those creatures telepathically hear each other while connected in this way.
+
+Actions
+
+Tentacle. Melee Weapon Attack: +7 to hit, reach 30 ft., one target. Hit: 20 (4d8 + 2) bludgeoning damage. If the target is a Huge or smaller creature, it is grappled (escape DC 15) and takes 9 (1d8 + 5) psychic damage at the start of each of its turns until the grapple ends. The elder brain can have up to four targets grappled at a time.
+
+Mind Blast (Recharge 5–6). Creatures of the elder brain’s choice within 60 feet of it must succeed on a DC 18 Intelligence saving throw or take 32 (5d10 + 5) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Spellcasting (Psionics). The elder brain casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 18):
+
+At will: detect thoughts, levitate
+
+3/day: modify memory
+
+1/day each: dominate monster, plane shift (self only)
+
+Bonus Actions
+
+Psychic Link. The elder brain targets one incapacitated creature it senses with its Creature Sense trait and establishes a psychic link with the target. Until the link ends, the elder brain can perceive everything the target senses. The target becomes aware that something is linked to its mind once it is no longer incapacitated, and the elder brain can terminate the link at any time (no action required). The target can use an action on its turn to attempt to break the link, doing so with a successful DC 18 Charisma saving throw. On a successful save, the target takes 10 (3d6) psychic damage. The link also ends if the target and the elder brain are more than 5 miles apart. The elder brain can form psychic links with up to ten creatures at a time.
+
+Sense Thoughts. The elder brain targets a creature with which it has a psychic link. The elder brain gains insight into the target’s emotional state and foremost thoughts (including worries, loves, and hates).
+
+Legendary Actions
+
+The elder brain can take 3 legendary actions, choosing from the options below. It can take only one legendary action at a time and only at the end of another creature’s turn. The elder brain regains spent legendary actions at the start of its turn.
+
+Break Concentration. The elder brain targets one creature within 120 feet of it with which it has a psychic link. The elder brain breaks the creature’s concentration on a spell it has cast. The creature also takes 2 (1d4) psychic damage per level of the spell.
+
+Psychic Pulse. The elder brain targets one creature within 120 feet of it with which it has a psychic link. The target and enemies of the elder brain within 30 feet of target take 10 (3d6) psychic damage.
+
+Sever Psychic Link. The elder brain targets one creature within 120 feet of it with which it has a psychic link. The elder brain ends the link, causing the creature to have disadvantage on all ability checks, attack rolls, and saving throws until the end of the creature’s next turn.
+
+Tentacle (Costs 2 Actions). The elder brain makes one Tentacle attack.
+
+
+Hive Mind
+Elder brains are so-called among non-illithids because they act as the central communication hub for an entire mind flayer colony, just as a brain does for a living body. Linked to the elder brain, the colony acts like a single organism, acting in concert as if each illithid were the digit of a hand.
+
+An elder brain considers itself and its desires the most important things in the multiverse, and the mind flayers in its colony nothing more than extensions of its will. Each presides over its colony according to its own unique personality and storehouse of collected knowledge and experience. Some elder brains reign as tyrants, while others serve as sages, counselors, and repositories of information and lore for the mind flayers that protect and nourish them.
+
+An Elder Brain’s Lair
+The lair of an elder brain lies deep in the heart of a mind flayer colony. The brain dwells in a dimly glowing brine pool filled with brackish water infused with its vital fluids and psionic energy.
+
+An elder brain’s ambitions are always tempered by its relative immobility. Although its telepathic senses can reach for miles, moving anywhere is always a dangerous proposition. If forced outside its brine pool, an elder brain swiftly expires, and transporting an elder brain in its pool through confining and tortuous subterranean tunnels frequently proves difficult or impossible.
+
+
+MIND FLAYER COLONY
+VIEW PLAYER VERSION
+Lair Actions
+On initiative count 20 (losing initiative ties), an elder brain can take one of the following lair actions; the elder brain can’t take the same lair action two rounds in a row:
+
+Force Wall. The elder brain casts wall of force.
+
+Psionic Anchor. The elder brain targets one creature it can sense within 120 feet of it and anchors it by sheer force of will. The target must make a DC 18 Charisma saving throw. On a failed save, its speed is reduced to 0, and it can’t teleport. It can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Psychic Inspiration. The elder brain targets one friendly creature it can sense within 120 feet of it. The target has a flash of inspiration and gains advantage on one attack roll, ability check, or saving throw it makes before the end of its next turn.
+
+Regional Effects
+The territory within 5 miles of an elder brain is altered by the creature’s psionic presence, which creates one or more of the following effects:
+
+Paranoia. Creatures within 5 miles of an elder brain feel as if they are being followed, even when they’re not.
+
+Psychic Whispers. Any creature with which the elder brain has formed a psychic link hears faint, incomprehensible whispers in the deepest recesses of its mind. This psychic detritus consists of the elder brain’s stray thoughts commingled with those of other creatures to which it is linked.
+
+Telepathic Eavesdropping. The elder brain can overhear any telepathic conversation within 5 miles of it. The creature that initiated the telepathic conversation makes a DC 18 Wisdom saving throw when telepathic contact is first established. If the save is successful, the creature is aware that something is eavesdropping. The nature of the eavesdropper isn’t revealed.
+
+If the elder brain dies, these effects immediately end.
+
+Elder Tempest
+Terrifying storms manifest in the bodies of elder tempests. Beings carved from clouds, wind, rain, and lightning, elder tempests assume the shape of serpents that slither through the sky. They drown the land beneath them with rain and stab the earth with lances of lightning. Punishing winds scream around them as they fly, feeding the chaos they create.
+
+ELDER TEMPEST
+Gargantuan Elemental, Typically Neutral
+
+Armor Class 19
+
+Hit Points 264 (16d20 + 96)
+
+Speed 0 ft., fly 120 ft. (hover)
+
+STR
+23 (+6)
+DEX
+28 (+9)
+CON
+23 (+6)
+INT
+2 (−4)
+WIS
+21 (+5)
+CHA
+18 (+4)
+Saving Throws Wis +12, Cha +11
+
+Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks
+
+Damage Immunities lightning, poison, thunder
+
+Condition Immunities exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
+
+Senses darkvision 60 ft., passive Perception 15
+
+Languages —
+
+Challenge 23 (50,000 XP) Proficiency Bonus +7
+
+Air Form. The tempest can enter a hostile creature’s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+
+Flyby. The tempest doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+
+Legendary Resistance (3/Day). If the tempest fails a saving throw, it can choose to succeed instead.
+
+Living Storm. The tempest is always at the center of a storm 1d6 + 4 miles in diameter. Heavy precipitation in the form of either rain or snow falls there, causing the area to be lightly obscured. Heavy rain also extinguishes open flames and imposes disadvantage on Wisdom (Perception) checks that rely on hearing. In addition, strong winds swirl in the area covered by the storm. The winds impose disadvantage on ranged attack rolls. They also extinguish open flames and disperse fog.
+
+Siege Monster. The tempest deals double damage to objects and structures.
+
+Actions
+
+Multiattack. The tempest makes two Thunderous Slam attacks.
+
+Thunderous Slam. Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 23 (4d6 + 9) thunder damage.
+
+Lightning Storm (Recharge 6). Each creature within 120 feet of the tempest must make a DC 21 Dexterity saving throw, taking 27 (6d8) lightning damage on a failed save, or half as much damage on a successful one. If a target’s saving throw fails by 5 or more, the creature is also stunned until the end of its next turn.
+
+Legendary Actions
+
+The tempest can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The tempest regains spent legendary actions at the start of its turn.
+
+Move. The tempest moves up to its speed.
+
+Lightning Strike (Costs 2 Actions). The tempest can cause a bolt of lightning to strike a point on the ground anywhere under its storm. Each creature within 5 feet of that point must make a DC 21 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+Screaming Gale (Costs 3 Actions). The tempest releases a blast of thunder and wind in a line that is 300 feet long and 20 feet wide. Objects in that area take 22 (4d10) thunder damage. Each creature there must succeed on a DC 21 Dexterity saving throw or take 22 (4d10) thunder damage and be flung up to 60 feet in a direction away from the line. If a thrown target collides with an immovable object (such as a wall or floor) or another creature, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown before impact. If the target collides with another creature, that other creature must succeed on a DC 19 Dexterity saving throw or take the same impact damage and be knocked prone.
+
+
+Elemental Myrmidons
+Elemental myrmidons are Elementals conjured and bound by magic into ritually created suits of plate armor. In this form, they possess no recollection of their former existence as free Elementals. They exist only to follow the commands of their creators.
+
+Air Elemental Myrmidon
+AIR ELEMENTAL MYRMIDON
+Medium Elemental, Typically Neutral
+
+Armor Class 18 (plate)
+
+Hit Points 117 (18d8 + 36)
+
+Speed 30 ft., fly 30 ft. (hover)
+
+STR
+18 (+4)
+DEX
+14 (+2)
+CON
+14 (+2)
+INT
+9 (−1)
+WIS
+10 (+0)
+CHA
+10 (+0)
+Damage Resistances lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+
+Damage Immunities poison
+
+Condition Immunities paralyzed, petrified, poisoned, prone
+
+Senses darkvision 60 ft., passive Perception 10
+
+Languages Auran, one language of its creator’s choice
+
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+
+Actions
+
+Multiattack. The myrmidon makes three Flail attacks.
+
+Flail. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) force damage.
+
+Lightning Strike (Recharge 6). The myrmidon makes one Flail attack. On a hit, the target takes an extra 18 (4d8) lightning damage, and the target must succeed on a DC 13 Constitution saving throw or be stunned until the end of the myrmidon’s next turn.
+
+
+Earth Elemental Myrmidon
+EARTH ELEMENTAL MYRMIDON
+Medium Elemental, Typically Neutral
+
+Armor Class 18 (plate)
+
+Hit Points 127 (17d8 + 51)
+
+Speed 30 ft.
+
+STR
+18 (+4)
+DEX
+10 (+0)
+CON
+17 (+3)
+INT
+8 (−1)
+WIS
+10 (+0)
+CHA
+10 (+0)
+Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks
+
+Damage Immunities poison
+
+Condition Immunities paralyzed, petrified, poisoned, prone
+
+Senses darkvision 60 ft., passive Perception 10
+
+Languages Terran, one language of its creator’s choice
+
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+
+Actions
+
+Multiattack. The myrmidon makes two Maul attacks.
+
+Maul. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) force damage.
+
+Thunderous Strike (Recharge 6). The myrmidon makes one Maul attack. On a hit, the target takes an extra 22 (4d10) thunder damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone.
+
+
+Fire Elemental Myrmidon
+FIRE ELEMENTAL MYRMIDON
+Medium Elemental, Typically Neutral
+
+Armor Class 18 (plate)
+
+Hit Points 123 (19d8 + 38)
+
+Speed 40 ft.
+
+STR
+13 (+1)
+DEX
+18 (+4)
+CON
+15 (+2)
+INT
+9 (−1)
+WIS
+10 (+0)
+CHA
+10 (+0)
+Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks
+
+Damage Immunities fire, poison
+
+Condition Immunities paralyzed, petrified, poisoned, prone
+
+Senses darkvision 60 ft., passive Perception 10
+
+Languages Ignan, one language of its creator’s choice
+
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+
+Illumination. The myrmidon sheds bright light in a 20-foot radius and dim light in a 40-foot radius.
+
+Water Susceptibility. For every 5 feet the myrmidon moves in 1 foot or more of water, it takes 2 (1d4) cold damage.
+
+Actions
+
+Multiattack. The myrmidon makes three Scimitar attacks.
+
+Scimitar. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) force damage.
+
+Fiery Strikes (Recharge 6). The myrmidon uses Multiattack. Each attack that hits deals an extra 7 (2d6) fire damage.
+
+
+Water Elemental Myrmidon
+WATER ELEMENTAL MYRMIDON
+Medium Elemental, Typically Neutral
+
+Armor Class 18 (plate)
+
+Hit Points 127 (17d8 + 51)
+
+Speed 40 ft., swim 40 ft.
+
+STR
+18 (+4)
+DEX
+14 (+2)
+CON
+16 (+3)
+INT
+8 (−1)
+WIS
+10 (+0)
+CHA
+10 (+0)
+Damage Resistances acid; bludgeoning, piercing, and slashing from nonmagical attacks
+
+Damage Immunities poison
+
+Condition Immunities paralyzed, petrified, poisoned, prone
+
+Senses darkvision 60 ft., passive Perception 10
+
+Languages Aquan, one language of its creator’s choice
+
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+
+Actions
+
+Multiattack. The myrmidon makes three Trident attacks.
+
+Trident. Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) force damage, or 8 (1d8 + 4) force damage if used with two hands to make a melee attack.
+
+Freezing Strikes (Recharge 6). The myrmidon uses Multiattack. Each attack that hits deals an extra 5 (1d10) cold damage. A target that is hit by one or more of these attacks has its speed reduced by 10 feet until the end of the myrmidon’s next turn.
+
+
+Monsters: F
+Fire Giant Dreadnought
+Most fire giants value not just strength but also skill at forgecraft. The foundry is the heart of any fire giant community. It is a temple, school, proving ground, and political hub rolled into one.
+
+Those whose primary virtue is brawn are usually consigned to the lowliest of tasks, such as working forge bellows or moving coal. However, the strongest among these can excel at and gain rank through a specialized role: the dreadnought.
+
+Dreadnoughts are massively powerful fire giants who wield two huge shields like plow blades. These shields bear spikes on their exterior and have hollow interiors into which the dreadnought pours hot coals at the first sign of danger. Armed with these two shields, the dreadnought can present a fiery wall to any attacker. When the dreadnought has finished, often all that is left of a foe is a smoking smear on the floor.
+
+When not called on to fight, dreadnoughts maintain their strength by using their shields to shove huge quantities of coal, stone, or ore about the foundry. Occasionally, dreadnoughts are called on by their superiors to accompany a war or diplomatic delegation and use their fierce and intimidating demeanor to strengthen the delegation’s position.
+
+When I first saw a fire giant dreadnought, I doubted the giant could even move. I quickly learned my error.
+
+—Mordenkainen
+
+FIRE GIANT DREADNOUGHT
+Huge Giant, Typically Lawful Evil
+
+Armor Class 21 (plate, Dual Shields)
+
+Hit Points 187 (15d12 + 90)
+
+Speed 30 ft.
+
+STR
+27 (+8)
+DEX
+9 (−1)
+CON
+23 (+6)
+INT
+8 (−1)
+WIS
+10 (+0)
+CHA
+11 (+0)
+Saving Throws Dex +4, Con +11, Cha +5
+
+Skills Athletics +13, Perception +5
+
+Damage Immunities fire
+
+Senses passive Perception 15
+
+Languages Giant
+
+Challenge 14 (11,500 XP) Proficiency Bonus +5
+
+Dual Shields. The giant carries two shields, which together give the giant +3 to its AC (accounted for above).
+
+Actions
+
+Multiattack. The giant makes two Fireshield or Rock attacks.
+
+Fireshield. Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 22 (4d6 + 8) bludgeoning damage plus 7 (2d6) fire damage plus 7 (2d6) piercing damage.
+
+Rock. Ranged Weapon Attack: +13 to hit, range 60/240 ft., one target. Hit: 30 (4d10 + 8) bludgeoning damage.
+
+Shield Charge (Recharge 5–6). The giant moves up to 30 feet in a straight line and can move through the space of any creature smaller than Huge. The first time it enters a creature’s space during this move, that creature must succeed on a DC 21 Strength saving throw or take 36 (8d6 + 8) bludgeoning damage plus 14 (4d6) fire damage and be pushed up to 30 feet and knocked prone.
+
+
+Firenewts
+Originally from the Elemental Plane of Fire, firenewts can be found on the Material Plane near hot springs and volcanoes. These amphibians need hot water to live, becoming sluggish after spending a week away from a source of moist heat. Firenewts therefore delve for sources of heat in the earth, and a firenewt lair features a network of channels and sluices to circulate hot liquid through the area.
+
+Firenewt Warlock of Imix
+Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies that revere elemental fire in its most destructive incarnation and promote aggression and cruelty. Firenewt warlocks of Imix lead these theocracies or serve as advisors to a high priest.
+
+FIRENEWT WARLOCK OF IMIX
+Medium Elemental, Typically Neutral Evil
+
+Armor Class 10 (13 with mage armor)
+
+Hit Points 33 (6d8 + 6)
+
+Speed 30 ft.
+
+STR
+13 (+1)
+DEX
+11 (+0)
+CON
+12 (+1)
+INT
+9 (−1)
+WIS
+11 (+0)
+CHA
+14 (+2)
+Damage Immunities fire
+
+Senses darkvision 120 ft., passive Perception 10
+
+Languages Draconic, Ignan
+
+Challenge 1 (200 XP) Proficiency Bonus +2
+
+Amphibious. The firenewt can breathe air and water.
+
+Devil’s Sight. Magical darkness doesn’t impede the firenewt’s darkvision.
+
+Imix’s Blessing. When the firenewt reduces an enemy to 0 hit points, the firenewt gains 5 temporary hit points.
+
+Actions
+
+Multiattack. The firenewt makes three Morningstar or Fire Ray attacks.
+
+Morningstar. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
+
+Fire Ray. Ranged Spell Attack: +4 to hit, range 120 ft., one target. Hit: 5 (1d6 + 2) fire damage.
+
+Spellcasting. The firenewt casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12):
+
+At will: guidance, light, mage armor, mage hand, prestidigitation
+
+Firenewt Warrior
+A firenewt warrior can spew fire. Many of these warriors have a close relationship with giant striders (in this book). They provide shelter, food, and breeding grounds in their lairs for giant striders, which then voluntarily serve them as mounts.
+
+FIRENEWT WARRIOR
+Medium Elemental, Typically Neutral
+
+Armor Class 13 (shield)
+
+Hit Points 27 (5d8 + 5)
+
+Speed 30 ft.
+
+STR
+10 (+0)
+DEX
+13 (+1)
+CON
+12 (+1)
+INT
+7 (−2)
+WIS
+11 (+0)
+CHA
+8 (−1)
+Damage Immunities fire
+
+Senses passive Perception 10
+
+Languages Draconic, Ignan
+
+Challenge 1/2 (100 XP) Proficiency Bonus +2
+
+Amphibious. The firenewt can breathe air and water.
+
+Actions
+
+Multiattack. The firenewt makes two Scimitar attacks.
+
+Scimitar. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
+
+Spit Fire (Recharges after a Short or Long Rest). The firenewt spits fire at a creature within 10 feet of it. The creature must make a DC 11 Dexterity saving throw, taking 9 (2d8) fire damage on a failed save, or half as much damage on a successful one.
+
+
+Flail Snail
+A flail snail is a creature of elemental earth that is prized for its multihued shell. It may seem harmless, but if a creature big enough to be a threat approaches too close, the snail flashes a scintillating light and attacks with its mace-like tentacles.
+
+Left undisturbed, a flail snail moves slowly along the ground. It consumes everything on the surface, including rocks, sand, and soil, and it stops periodically to relish crystal growths and other large mineral deposits. It leaves behind a shimmering trail that quickly solidifies into a thin and nearly transparent layer. This glassy residue can be harvested and cut to form window panes. It can also be heated and spun into other glass objects. Some folk make a living from trailing flail snails to collect this glass.
+
+Using the Shell of a Flail Snail
+A flail snail shell weighs about 250 pounds and has numerous uses. An intact shell can sell for 5,000 gp.
+
+Many hunters seek the shell for its antimagic properties. A skilled armorer can make three shields from one shell. For 1 month, each shield gives its wielder the snail’s Antimagic Shell trait. When the shield’s magic fades, it becomes an exotic shield that is the perfect item from which to make a spellguard shield.
+
+A flail snail shell can also be used to make a robe of scintillating colors. The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
+
+FLAIL SNAIL
+Large Elemental, Unaligned
+
+Armor Class 16 (natural armor)
+
+Hit Points 52 (5d10 + 25)
+
+Speed 10 ft.
+
+STR
+17 (+3)
+DEX
+5 (−3)
+CON
+20 (+5)
+INT
+3 (−4)
+WIS
+10 (+0)
+CHA
+5 (−3)
+Damage Immunities fire, poison
+
+Condition Immunities poisoned
+
+Senses darkvision 60 ft., tremorsense 60 ft., passive Perception 10
+
+Languages —
+
+Challenge 3 (700 XP) Proficiency Bonus +2
+
+Antimagic Shell. The snail has advantage on saving throws against spells, and any creature making a spell attack against the snail has disadvantage on the attack roll.
+
+If the snail succeeds on its saving throw against a spell or a spell’s attack roll misses it, the snail’s shell converts some of the spell’s energy into a burst of destructive force if the spell is of 1st level or higher; each creature within 30 feet of the snail must make a DC 15 Constitution saving throw, taking 3 (1d6) force damage per level of the spell on a failed save, or half as much damage on a successful one.
+
+Actions
+
+Multiattack. The snail makes five Flail Tentacle attacks.
+
+Flail Tentacle. Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage.
+
+Scintillating Shell (Recharges after a Short or Long Rest). The snail’s shell emits dazzling, colored light until the end of the snail’s next turn. During this time, the shell sheds bright light in a 30-foot radius and dim light for an additional 30 feet, and creatures that can see the snail have disadvantage on attack rolls against it. In addition, any creature within the bright light and able to see the snail when this power is activated must succeed on a DC 15 Wisdom saving throw or be stunned until the light ends.
+
+Shell Defense. The flail snail withdraws into its shell. Until it emerges, it gains a +4 bonus to its AC and is restrained. It can emerge from its shell as a bonus action on its turn.
+
+
+Flind
+When the demon lord Yeenoghu (appears in this book) wants to create a particularly fearsome war band leader, he transforms an exceptionally strong and vicious gnoll into a demonic warrior known as a flind.
+
+A war band of demon-worshiping gnolls typically contains only one flind, and that creature sets the war band’s path. Because of its special connection to Yeenoghu, a flind uses demonic insight to guide the gnolls toward weak prey ripe for slaughter.
+
+Unlike other leaders who might skulk behind their minions, a flind leads the charge in battle. Its flail causes wracking pain, paralysis, and disorientation in those it strikes.
+
+FLIND
+Medium Fiend (Gnoll), Typically Chaotic Evil
+
+Armor Class 16 (breastplate)
+
+Hit Points 127 (15d8 + 60)
+
+Speed 30 ft.
+
+STR
+20 (+5)
+DEX
+14 (+2)
+CON
+19 (+4)
+INT
+11 (+0)
+WIS
+13 (+1)
+CHA
+12 (+1)
+Saving Throws Con +8, Wis +5
+
+Skills Intimidate +5, Perception +5
+
+Senses darkvision 60 ft., passive Perception 15
+
+Languages Gnoll, Abyssal
+
+Challenge 9 (5,000 XP) Proficiency Bonus +4
+
+Aura of Bloodthirst. If the flind isn’t incapacitated, any creature that has Rampage can make a Bite attack as a bonus action while within 10 feet of the flind.
+
+Actions
+
+Multiattack. The flind makes one Flail of Chaos attack, one Flail of Pain attack, and one Flail of Paralysis attack, or it makes three Longbow attacks.
+
+Flail of Chaos. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) bludgeoning damage, and the target must make a DC 16 Wisdom saving throw. On a failed save, the target must use its reaction, if available, to make one melee attack against a random creature, other than the flind, within its reach. If there’s no creature within reach, the target instead moves half its speed in a random direction.
+
+Flail of Pain. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) bludgeoning damage plus 16 (3d10) psychic damage.
+
+Flail of Paralysis. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) bludgeoning damage, and the target must succeed on a DC 16 Constitution saving throw or be paralyzed until the end of its next turn.
+
+Longbow. Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+
+
+Fraz-Urb’luu
+Fraz-Urb’luu is the Prince of Deception and Demon Lord of Illusions. He uses every trick, every ounce of demonic cunning, to manipulate his enemies—mortal and Fiend alike—to do his will. Fraz-Urb’luu can create dreamlands and mind-bending fantasies able to deceive the most discerning foes.
+
+Once imprisoned for centuries below Castle Greyhawk on the world of Oerth, Fraz-Urb’luu has slowly rebuilt his power in the Abyss. He seeks the pieces of the legendary staff of power taken from him by those who imprisoned him and commands his servants to do likewise.
+
+The Prince of Deception’s true form is like that of a great gargoyle, some 12 feet tall, with an extended, muscular neck; a smiling face framed by long, pointed ears and lank, dark hair; and bat-like wings are furled against his powerful shoulders. He can assume other forms, however, from the hideous to the beautiful.
+
+Many of the cultists of Fraz-Urb’luu aren’t even aware they serve the Prince of Deception, believing their master is a beneficent being and granter of wishes, some lost god or Celestial, or even another Fiend. Fraz-Urb’luu wears all these masks and more. He particularly delights in aiding demon-hunters against his demonic adversaries, driving the hunters to greater and greater atrocities in the name of their cause, only to eventually reveal his true nature and claim their souls as his own.
+
+FRAZ-URB’LUU
+Large Fiend (Demon), Chaotic Evil
+
+Armor Class 18 (natural armor)
+
+Hit Points 337 (27d10 + 189)
+
+Speed 40 ft., fly 40 ft.
+
+STR
+29 (+9)
+DEX
+12 (+1)
+CON
+25 (+7)
+INT
+26 (+8)
+WIS
+24 (+7)
+CHA
+26 (+8)
+Saving Throws Dex +8, Con +14, Int +15, Wis +14
+
+Skills Deception +15, Perception +14, Stealth +8
+
+Damage Resistances cold, fire, lightning
+
+Damage Immunities poison; bludgeoning, piercing, and slashing that is nonmagical
+
+Condition Immunities charmed, exhaustion, frightened, poisoned
+
+Senses truesight 120 ft., passive Perception 24
+
+Languages all, telepathy 120 ft.
+
+Challenge 23 (50,000 XP) Proficiency Bonus +7
+
+Legendary Resistance (3/Day). If Fraz-Urb’luu fails a saving throw, he can choose to succeed instead.
+
+Magic Resistance. Fraz-Urb’luu has advantage on saving throws against spells and other magical effects.
+
+Undetectable. Fraz-Urb’luu can’t be targeted by divination magic, perceived through magical scrying sensors, or detected by abilities that sense demons or Fiends.
+
+Actions
+
+Multiattack. Fraz-Urb’luu makes one Bite attack and two Fist attacks, and he uses Phantasmal Terror.
+
+Bite. Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 19 (3d6 + 9) force damage.
+
+Fist. Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 22 (3d8 + 9) force damage.
+
+Phantasmal Terror. Fraz-Urb’luu targets one creature he can see within 120 feet of him. The target must succeed on a DC 23 Wisdom saving throw, or it takes 16 (3d10) psychic damage and is frightened of Fraz-Urb’luu until the end of its next turn.
+
+Spellcasting. Fraz-Urb’luu casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 23):
+
+At will: alter self (can become Medium when changing his appearance), detect magic, dispel magic, phantasmal force
+
+3/day each: mislead, programmed illusion, seeming
+
+1/day each: modify memory, project image
+
+Legendary Actions
+
+Fraz-Urb’luu can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Fraz-Urb’luu regains spent legendary actions at the start of his turn.
+
+Tail. Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) force damage. If the target is a Large or smaller creature, it is also grappled (escape DC 24), and it is restrained until the grapple ends. Fraz-Urb’luu can grapple only one creature with his tail at a time.
+
+Terror (Costs 2 Actions). Fraz-Urb’luu uses Phantasmal Terror.
+
+
+Fraz-Urb’luu’s Lair
+Fraz-Urb’luu’s lair lies within the abyssal realm of Hollow’s Heart, a plain of white dust with few structures on it. The lair itself is the city of Zoragmelok, a circular fortress surrounded by adamantine walls topped with razors and hooks. Corkscrew towers loom above twisted domes and vast amphitheaters, forming a surreal and disorienting cityscape.
+
+The challenge rating of Fraz-Urb’luu is 24 (62,000 XP) when he’s encountered in his lair.
+
+Lair Actions
+On initiative count 20 (losing initiative ties), Fraz-Urb’luu can take one of the following lair actions when in his lair; he can’t take the same lair action two rounds in a row:
+
+Conjure Walls and Doors. Fraz-Urb’luu causes up to five doors within the lair to become walls and an equal number of doors to appear on walls where there previously were none.
+
+Psychic Anguish. Fraz-Urb’luu creates a wave of anguish. Each creature he can see within the lair must succeed on a DC 23 Wisdom saving throw or take 33 (6d10) psychic damage.
+
+Simulacrum. Fraz-Urb’luu chooses one Humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the simulacrum spell). This simulacrum obeys Fraz-Urb’luu’s commands and is destroyed on the next initiative count 20.
+
+Regional Effects
+The region containing Fraz-Urb’luu’s lair is warped by his magic, creating one or more of the following effects:
+
+Beguiling Realm. Within 6 miles of the lair, all Charisma (Persuasion) and Wisdom (Insight) checks have disadvantage, and all Charisma (Deception) and Charisma (Performance) checks have advantage.
+
+Nostalgic Pangs. Sapient creatures within 1 mile of the lair frequently see hallucinations of long-dead friends and comrades that vanish after only a brief glimpse.
+
+Twisted Paths. Roads and paths within 6 miles of the lair twist and turn back on themselves, making navigation in the area exceedingly difficult.
+
+If Fraz-Urb’luu dies, these effects fade over the course of 1d10 days.
+
+Cultists of Fraz-Urb’luu
+Fraz-Urb’luu grants his cultists the Liar’s Eye trait.
+
+Liar’s Eye. This creature has advantage on Wisdom (Insight or Perception) checks. As a bonus action, the creature detects the location of all illusions and hidden creatures within 15 feet of it.
+
+Froghemoth
+A froghemoth is an amphibious predator as big as an elephant. It lairs in swamps and has four tentacles, a thick rubbery hide, a fang-filled maw with a prehensile tongue, and an extendable stalk sporting three bulbous eyes that face in different directions.
+
+Froghemoths are creatures not of this world. A journal purportedly written long ago by the wizard Lum describes strange, cylindrical chambers of metal buried in the ground from which froghemoths emerged, but no reliable reports of the location of such places exist.
+
+Every few years, a froghemoth can lay a fertile egg without mating. The froghemoth cares nothing for its egg and might eat the hatchling. A young froghemoth’s survival thus depends on its parent leaving it behind in indifference. A newborn froghemoth grows to full size over a period of months by indiscriminately preying on other creatures in its swampy domain. It learns to hide its enormous body in murky pools, keeping only its eyestalk above water to watch for passing creatures. When food comes within reach, the froghemoth erupts from its pool, tentacles and tongue flailing. It can grab several targets at once; it wraps its tongue around one and pulls it in to be devoured while holding the rest at bay.
+
+If bullywugs (see the Monster Manual) come across a froghemoth, the bullywugs may treat the froghemoth as a god and do all they can to coax the monster into their den. A froghemoth can be tamed (after a fashion) by offering it food, and bullywugs can communicate with it on a basic level, so the creature might eat only a few bullywugs before following the rest. The bullywugs gather food as tribute for it, provide it with a comfortable lair, protect it from harm, and try to ensure that any of its offspring reach maturity.
+
+FROGHEMOTH
+Huge Monstrosity, Unaligned
+
+Armor Class 14 (natural armor)
+
+Hit Points 161 (14d12 + 70)
+
+Speed 30 ft., swim 30 ft.
+
+STR
+23 (+6)
+DEX
+13 (+1)
+CON
+20 (+5)
+INT
+2 (−4)
+WIS
+12 (+1)
+CHA
+5 (−3)
+Saving Throws Con +9, Wis +5
+
+Skills Perception +9, Stealth +5
+
+Damage Resistances fire, lightning
+
+Senses darkvision 60 ft., passive Perception 19
+
+Languages —
+
+Challenge 10 (5,900 XP) Proficiency Bonus +4
+
+Amphibious. The froghemoth can breathe air and water.
+
+Shock Susceptibility. If the froghemoth takes lightning damage, it suffers two effects until the end of its next turn: its speed is halved, and it has disadvantage on Dexterity saving throws.
+
+Actions
+
+Multiattack. The froghemoth makes one Bite attack and two Tentacle attacks, and it can use Tongue.
+
+Bite. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 22 (3d10 + 6) piercing damage, and the target is swallowed if it is a Medium or smaller creature. A swallowed creature is blinded and restrained, has total cover against attacks and other effects outside the froghemoth, and takes 10 (3d6) acid damage at the start of each of the froghemoth’s turns.
+
+The froghemoth’s gullet can hold up to two creatures at a time. If the froghemoth takes 20 damage or more on a single turn from a creature inside it, the froghemoth must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls prone in a space within 10 feet of the froghemoth. If the froghemoth dies, any swallowed creature is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone.
+
+Tentacle. Melee Weapon Attack: +10 to hit, reach 20 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage, and the target is grappled (escape DC 16) if it is a Huge or smaller creature. Until the grapple ends, the froghemoth can’t use this tentacle on another target. The froghemoth has four tentacles.
+
+Tongue. The froghemoth targets one Medium or smaller creature that it can see within 20 feet of it. The target must make a DC 18 Strength saving throw. On a failed save, the target is pulled into an unoccupied space within 5 feet of the froghemoth.
+
+
+Frost Giant Everlasting One
+To hold its place or rise within the ordning, a frost giant must routinely face mighty foes in single combat. Some seek out magic that will aid them, but enchanted objects can be taken or lost. True greatness relies on personal prowess. Faced with this truth, a frost giant might seek a supernatural gift from Vaprak the Destroyer.
+
+Vaprak is a ferocious god of strength and hunger also worshiped by some ogres and trolls. He likes to tempt frost giants with dreams of glory followed by nightmares of bloody cannibalism. Those who don’t shrink from such visions or report them to priests of Thrym receive more of the same. If a frost giant comes to relish these dreams and nightmares, as some do, Vaprak sets a troll upon a sacred quest to find the frost giant and meet the giant in secret. The troll offers up its own body to be devoured in Vaprak’s name. Only the boldest and most determined frost giants can finish such a gory feast.
+
+After devouring the troll sent by Vaprak, bones and all, a frost giant becomes an everlasting one, gaining tremendous strength, an ill temper, and a troll’s regenerative ability. With these gifts, the frost giant can swiftly claim the title of jarl and easily fend off rivals for decades. However, if the frost giant doesn’t give enough honor to Vaprak or fails to heed Vaprak’s visions, injuries the frost giant sustains heal wrong, resulting in discolored skin; warty scars; and vestigial body parts, such as extra digits, limbs, and even heads. The touch of Vaprak can no longer be hidden then, and the everlasting one is either killed or exiled by their clan. Sometimes small communities of everlasting ones gather and even reproduce, passing the “blessing” and worship of Vaprak from one generation to the next.
+
+FROST GIANT EVERLASTING ONE
+Huge Giant, Typically Chaotic Evil
+
+Armor Class 15 (patchwork armor)
+
+Hit Points 189 (14d12 + 98)
+
+Speed 40 ft.
+
+STR
+25 (+7)
+DEX
+9 (−1)
+CON
+24 (+7)
+INT
+9 (−1)
+WIS
+10 (+0)
+CHA
+12 (+1)
+Saving Throws Str +11, Con +11, Wis +4,
+
+Skills Athletics +11, Perception +4
+
+Damage Immunities cold
+
+Senses darkvision 60 ft., passive Perception 14
+
+Languages Giant
+
+Challenge 12 (8,400 XP) Proficiency Bonus +4
+
+Extra Heads. The giant has a 25 percent chance of having more than one head. If it has more than one, it has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
+
+Regeneration. The giant regains 10 hit points at the start of its turn. If the giant takes acid or fire damage, this trait doesn’t function at the start of its next turn. The giant dies only if it starts its turn with 0 hit points and doesn’t regenerate.
+
+Actions
+
+Multiattack. The giant makes two Greataxe or Rock attacks.
+
+Greataxe. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 26 (3d12 + 7) slashing damage, or 30 (3d12 + 11) slashing damage while raging.
+
+Rock. Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. Hit: 29 (4d10 + 7) bludgeoning damage.
+
+Bonus Action
+
+Vaprak’s Rage (Recharges after a Short or Long Rest). The giant enters a rage. The rage lasts for 1 minute or until the giant is incapacitated. While raging, the giant gains the following benefits:
+
+The giant has advantage on Strength checks and Strength saving throws.
+When it makes a melee weapon attack, the giant gains a +4 bonus to the damage roll.
+The giant has resistance to bludgeoning, piercing, and slashing damage.
+
+Frost Salamander
+Frost salamanders are natives of the Plane of Ice, also called the Frostfell, which rests between the Plane of Air and the Plane of Water. Frost salamanders especially like to hunt warm-blooded creatures. They sometimes travel to frigid climes on the Material Plane by wandering through planar gates.
+
+Frost salamanders’ aggressive appetite for any heat source leads them to attack expeditions and settlements that other predators would avoid, as they often mistake the fire of a forge or a campfire for a large, tasty meal. Azers (see the Monster Manual) use this predilection to hunt frost salamanders. Venturing into the Frostfell, they use large fires to lure these creatures into traps, then kill them and collect their hides and fangs for use in crafting weapons and armor.
+
+Although frost salamanders can burrow their way through loose soil, they prefer to dig into ice. They roll around in piles of broken chunks of ice, allowing it to scratch their backs as they grind it down. This habit leads them to create extensive networks of ice caves, which become ever larger as they claw fresh chunks of ice from the walls of their lairs.
+
+A frost salamander that dwells in a lair for a while carves out enough space to allow a small army to camp within. Inexperienced travelers who come across these caves see them as a welcome shelter, though they are anything but. Frost salamanders greedily devour any prey foolhardy enough to try sleeping in their lairs.
+
+On rare occasions, frost giants (see the Monster Manual) capture and tame these creatures, using them to burrow into the ice to help create outposts and fortresses.
+
+FROST SALAMANDER
+Huge Elemental, Unaligned
+
+Armor Class 17 (natural armor)
+
+Hit Points 168 (16d12 + 64)
+
+Speed 60 ft., burrow 40 ft., climb 40 ft.
+
+STR
+20 (+5)
+DEX
+12 (+1)
+CON
+18 (+4)
+INT
+7 (−2)
+WIS
+11 (+0)
+CHA
+7 (−2)
+Saving Throws Con +8, Wis +4
+
+Skills Perception +4
+
+Damage Vulnerabilities fire
+
+Damage Immunities cold
+
+Senses darkvision 60 ft., tremorsense 60 ft., passive Perception 14
+
+Languages Primordial
+
+Challenge 9 (5,000 XP) Proficiency Bonus +4
+
+Burning Fury. When the salamander takes fire damage, its Freezing Breath automatically recharges.
+
+Actions
+
+Multiattack. The salamander makes one Bite attack and four Claw attacks.
+
+Bite. Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 5 (1d10) cold damage.
+
+Claw. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 8 (1d6 + 5) piercing damage.
+
+Freezing Breath (Recharge 6). The salamander exhales chill wind in a 60-foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 44 (8d10) cold damage on a failed save, or half as much damage on a successful one.
+
+
+Monsters: G
+Gauth
+A gauth is a hungry, tyrannical creature similar to a beholder that eats magic and tries to exact tribute from anything weaker than itself. Its body is about 4 feet in diameter, with six eyestalks, a central eye (sometimes surrounded by multiple smaller eyes), and four small grasping tentacles near its mouth. It has color and texture variations similar to a true beholder.
+
+A gauth can survive on meat but prefers to sustain itself with power drained from magic objects. If starved of magic for several weeks, it is forced back to its home plane, so it constantly seeks new items to drain. A gauth might employ creatures to bring it items that can provide it with sustenance.
+
+When the ritual to summon a spectator goes wrong, a gauth might push itself through the flawed connection, arriving immediately or several minutes later. It might present itself as a beholder to ignorant creatures in an attempt to intimidate them, or as a spectator to its summoner in order to drain magic items it is expected to guard.
+
+A beholder (see the Monster Manual) usually drives away or kills any gauths that enter its territory, but it might choose to force them to serve it as lieutenants. Gauths are less xenophobic than beholders, so they might form small clusters and work together, though they’re just as likely to ignore each other entirely.
+
+GAUTH
+Medium Aberration (Beholder), Typically Lawful Evil
+
+Armor Class 15 (natural armor)
+
+Hit Points 52 (7d8 + 21)
+
+Speed 0 ft., fly 20 ft. (hover)
+
+STR
+10 (+0)
+DEX
+14 (+2)
+CON
+16 (+3)
+INT
+15 (+2)
+WIS
+15 (+2)
+CHA
+13 (+1)
+Saving Throws Int +5, Wis +5, Cha +4
+
+Skills Perception +5
+
+Condition Immunities prone
+
+Senses darkvision 120 ft., passive Perception 15
+
+Languages Deep Speech, Undercommon
+
+Challenge 6 (2,300 XP) Proficiency Bonus +3
+
+Stunning Gaze. When a creature that can see the gauth’s central eye starts its turn within 30 feet of the gauth, the gauth can force it to make a DC 14 Wisdom saving throw if the gauth isn’t incapacitated and can see the creature. A creature that fails the save is stunned until the start of its next turn.
+
+Unless surprised, a creature can avert its eyes at the start of its turn to avoid the saving throw. If the creature does so, it can’t see the gauth until the start of its next turn, when it can avert its eyes again. If the creature looks at the gauth in the meantime, it must immediately make the save.
+
+Death Throes. When the gauth dies, the magical energy within it explodes, and each creature within 10 feet of it must make a DC 14 Dexterity saving throw, taking 13 (3d8) force damage on a failed save, or half as much damage on a successful one.
+
+Actions
+
+Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 9 (2d8) piercing damage.
+
+Eye Rays. The gauth shoots three of the following magical eye rays at random (roll three d6s, and reroll duplicates), targeting one to three creatures it can see within 120 feet of it:
+
+Devour Magic Ray. The target must succeed on a DC 14 Dexterity saving throw or have one of its magic items lose all magical properties until the start of the gauth’s next turn. If the object is a charged item, it also loses 1d4 charges. Determine the affected item randomly, ignoring single-use items such as potions and scrolls.
+Enervation Ray. The target must make a DC 14 Constitution saving throw, taking 18 (4d8) necrotic damage on a failed save, or half as much damage on a successful one.
+Fire Ray. The target must succeed on a DC 14 Dexterity saving throw or take 22 (4d10) fire damage.
+Paralyzing Ray. The target must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Pushing Ray. The target must succeed on a DC 14 Strength saving throw or be pushed up to 15 feet away from the gauth and have its speed halved until the start of the gauth’s next turn.
+Sleep Ray. The target must succeed on a DC 14 Wisdom saving throw or fall asleep and remain unconscious for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on Constructs and Undead.
+
+Gazer
+A gazer is a tiny manifestation of the dreams of a beholder. It resembles the beholder who dreamed it into existence, but its body is only 8 inches wide and it has only four eyestalks. It follows its creator like a devoted, aggressive puppy, and sometimes small packs of these creatures patrol their master’s lair for vermin to kill and lone creatures to harass.
+
+A gazer can’t speak any languages but can approximate words and sentences it hears, mimicking them in a high-pitched, mocking manner. Beholders find gazers amusing and tolerate their presence like spoiled pets. Some beholders with wizard minions insist they take a gazer as a familiar because the beholders can see through the eyes of these creatures.
+
+A wild gazer (one living separately from a beholder) is territorial, eats bugs and little animals, and is known for playing with its food. A lone wild gazer avoids picking fights with creatures that are Medium or larger, but a pack of them might take on larger prey. A gazer might follow the folk in its territory, noisily mimicking their speech and generally being a nuisance, until they leave the area, but it flees if confronted by something it can’t kill.
+
+Variant: Gazer Familiar
+Spellcasters who are interested in unusual familiars find that gazers are eager to serve someone who has magical power. Unless its master is strict, a gazer familiar can be unruly, behaving aggressively toward other Tiny creatures. A gazer serving as a familiar has the following trait:
+
+Familiar. The gazer can serve another creature as a familiar, forming a telepathic bond with its willing master, provided that the master is at least a 3rd-level spellcaster. While the two are bonded, the master can sense what the gazer senses as long as they are within 1 mile of each other. If its master causes it physical harm, the gazer will end its service as a familiar, breaking the telepathic bond.
+
+GAZER
+Tiny Aberration (Beholder), Typically Neutral Evil
+
+Armor Class 13
+
+Hit Points 13 (3d4 + 6)
+
+Speed 0 ft., fly 30 ft. (hover)
+
+STR
+3 (−4)
+DEX
+17 (+3)
+CON
+14 (+2)
+INT
+3 (−4)
+WIS
+10 (+0)
+CHA
+7 (−2)
+Saving Throws Wis +2
+
+Skills Perception +4, Stealth +5
+
+Condition Immunities prone
+
+Senses darkvision 60 ft., passive Perception 14
+
+Languages —
+
+Challenge 1/2 (100 XP) Proficiency Bonus +2
+
+Mimicry. The gazer can mimic simple sounds of speech it has heard, in any language. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
+
+Actions
+
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+
+Eye Rays. The gazer shoots two of the following magical eye rays at random (roll two d4s, and reroll duplicates), choosing one or two targets it can see within 60 feet of it:
+
+Dazing Ray. The targeted creature must succeed on a DC 12 Wisdom saving throw or be charmed until the start of the gazer’s next turn. While the target is charmed in this way, its speed is halved, and it has disadvantage on attack rolls.
+Fear Ray. The targeted creature must succeed on a DC 12 Wisdom saving throw or be frightened until the start of the gazer’s next turn.
+Frost Ray. The target must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage.
+Telekinetic Ray. If the target is a creature that is Medium or smaller, it must succeed on a DC 12 Strength saving throw or be moved up to 30 feet directly away from the gazer. If the target is a Tiny object that isn’t being worn or carried, the gazer moves it up to 30 feet in any direction. The gazer can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a container.
+Bonus Actions
+
+Aggressive. The gazer moves up to its speed toward a hostile creature that it can see.
+
+
+Geryon
+
+Geryon is locked in an endless struggle with Levistus for control of Stygia. The two have fought for centuries, each displacing the other innumerable times. Currently, Levistus claims lordship over Stygia, but he has been trapped in an enormous block of ice at the command of Asmodeus. In response, Geryon is marshaling his followers, hoping to use this opportunity to replace his hated rival.
+
+Among the archdevils, Geryon is known for his martial prowess. He is a ferocious hunter and a relentless tracker. He often joins his troops in battle; he loves to feel flesh and steel sundered beneath his claws and to taste his foes’ blood. Yet Geryon’s ferocity has also limited his ability to collect souls and forge an effective hierarchy. Sages who study the Nine Hells believe the battle for control of Stygia is a test staged by Asmodeus in hopes of purging the worst impulses from both Geryon and Levistus—or discovering a competent replacement for both.
+
+GERYON
+Huge Fiend (Devil), Lawful Evil
+
+Armor Class 19 (natural armor)
+
+Hit Points 300 (24d12 + 144)
+
+Speed 30 ft., fly 50 ft.
+
+STR
+29 (+9)
+DEX
+17 (+3)
+CON
+22 (+6)
+INT
+19 (+4)
+WIS
+16 (+3)
+CHA
+23 (+6)
+Saving Throws Dex +10, Con +13, Wis +10, Cha +13
+
+Skills Deception +13, Intimidation +13, Perception +10
+
+Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+
+Damage Immunities cold, fire, poison
+
+Condition Immunities charmed, exhaustion, frightened, poisoned
+
+Senses truesight 120 ft., passive Perception 20
+
+Languages all, telepathy 120 ft.
+
+Challenge 22 (41,000 XP) Proficiency Bonus +7
+
+Legendary Resistance (3/Day). If Geryon fails a saving throw, he can choose to succeed instead.
+
+Magic Resistance. Geryon has advantage on saving throws against spells and other magical effects.
+
+Regeneration. Geryon regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn’t function at the start of his next turn. Geryon dies only if he starts his turn with 0 hit points and doesn’t regenerate.
+
+Actions
+
+Multiattack. Geryon makes one Claw attack and one Stinger attack.
+
+Claw. Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 23 (4d6 + 9) cold damage. If the target is Large or smaller, it is grappled (DC 24), and it is restrained until the grapple ends. Geryon can grapple one creature at a time. If the target is already grappled by Geryon, the target takes an extra 27 (6d8) cold damage.
+
+Stinger. Melee Weapon Attack: +16 to hit, reach 20 ft., one creature. Hit: 14 (2d4 + 9) force damage, and the target must succeed on a DC 21 Constitution saving throw or take 13 (2d12) poison damage and become poisoned until it finishes a short or long rest. The target’s hit point maximum is reduced by an amount equal to half the poison damage taken. This reduction lasts until the poisoned condition is removed. The target dies if its hit point maximum is reduced to 0.
+
+Spellcasting. Geryon casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 21):
+
+At will: alter self (can become Medium when changing his appearance), detect magic, ice storm, invisibility (self only), locate object, suggestion, wall of ice
+
+1/day: banishment
+
+Teleport. Geryon teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
+
+Legendary Actions
+
+Geryon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Geryon regains spent legendary actions at the start of his turn.
+
+Infernal Glare. Geryon targets one creature he can see within 60 feet of him. The target must succeed on a DC 23 Wisdom saving throw or become frightened of Geryon until the end of its next turn.
+
+Teleport. Geryon uses Teleport.
+
+Swift Sting (Costs 2 Actions). Geryon makes one Stinger attack.
+
+Geryon’s Lair
+Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling complex that rises from the icy center of Stygia. He roams the passages, spitting oaths of vengeance against Asmodeus and hatching schemes to reclaim his standing from Levistus.
+
+The challenge rating of Geryon is 23 (50,000 XP) when he’s encountered in his lair.
+
+Lair Actions
+On initiative count 20 (losing initiative ties), Geryon can take one of the following lair actions; he can’t take the same lair action two rounds in a row:
+
+Banish. Geryon casts the banishment spell.
+
+Chill Blast. Geryon causes a blast of cold to burst from the ground at a point he can see within 120 feet of him. The cold fills a cube, 10 feet on each side, centered on that point. Each creature in that area must succeed on a DC 21 Constitution saving throw or take 28 (8d6) cold damage.
+
+Hateful Restraints. Geryon targets one creature he can see within 60 feet of him. The target must succeed on a DC 21 Wisdom saving throw or become restrained for 1 minute. The target can end the effect on itself if it deals any damage to one or more of its allies.
+
+Regional Effects
+The region containing Geryon’s lair is warped by his magic, creating one or more of the following effects:
+
+Chilling Wind. Freezing strong winds howl around the area within 1 mile of the lair.
+
+Enervating Screams. Howls and screams fill the air within 1 mile of the lair. Any creature that finishes a short or long rest in this area must succeed on a DC 21 Wisdom saving throw or derive no benefit from the rest.
+
+Hellish Doorways. Sapient creatures within 1 mile of the lair frequently see shimmering portals leading to places they consider safe. Passing through a portal always deposits a traveler somewhere in Stygia.
+
+If Geryon dies, these effects fade over the course of 1d10 days.
+
+Cultists of Geryon
+Geryon grants his cultists special abilities. Members of his cult can gain the Crushing Blow trait. Cult leaders can also gain the Indomitable Strength trait.
+
+Crushing Blow (Recharges after a Short or Long Rest). As a bonus action, the creature gains a bonus to the damage roll of its next melee weapon attack roll that hits within the next minute. The bonus equals its Strength modifier (minimum of +1).
+
+Indomitable Strength (Recharge 5–6). As a reaction when this creature takes damage, it can roll a d10 and subtract the number rolled from the damage.
+
+Variant: Sound the Horn
+Geryon can have an action that allows him to summon minotaurs.
+
+Sound the Horn (1/Day). Geryon blows his horn, which causes 5d4 minotaurs (see the Monster Manual) to appear in unoccupied spaces of his choice within 600 feet of him. The minotaurs roll initiative when they appear, and they obey his commands. They remain until they die or Geryon uses an action to dismiss any or all of them.
+
+Giant Strider
+These fierce and majestic monsters exhibit attributes of both birds and reptiles, but are truly neither. Giant striders have a supernatural affinity to fire and can spit gouts of flame at distant enemies. They are most often found in tropical, volcanically active areas or regions that similarly provide sources of both water and extreme heat.
+
+Firenewts prize giant striders and seek to adopt them whenever possible. They provide for stables of these creatures in their lairs, and in return, the giant striders voluntarily serve as mounts for firenewt warriors (in this book).
+
+Out of curiosity, I once tamed a giant strider. Several potions of fire resistance later, the creature was purring in my lap, and I didn’t feel a thing.
+
+—Mordenkainen
+
+GIANT STRIDER
+Large Elemental, Unaligned
+
+Armor Class 14 (natural armor)
+
+Hit Points 22 (3d10 + 6)
+
+Speed 50 ft.
+
+STR
+18 (+4)
+DEX
+13 (+1)
+CON
+14 (+2)
+INT
+4 (−3)
+WIS
+12 (+1)
+CHA
+6 (−2)
+Damage Immunities fire
+
+Senses passive Perception 11
+
+Languages —
+
+Challenge 1 (200 XP) Proficiency Bonus +2
+
+Fire Absorption. Whenever the giant strider is subjected to fire damage, it takes no damage and regains a number of hit points equal to half the fire damage dealt.
+
+Actions
+
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
+
+Fire Burst (Recharge 5–6). The giant strider hurls a gout of flame at a point it can see within 60 feet of it. Each creature in a 10-foot-radius sphere centered on that point must make a DC 12 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners, and it ignites flammable objects in that area that aren’t being worn or carried.
+
+
+We might have discovered the key to unlock Mordenkainen’s frigid heart: magical pets!
+
+Tasha
+
+Giff
+My travels in Wildspace are always brightened by my giff associates. Their use of gunpowder reminds me of my own explosive wizardry. Spectacular!
+
+—Mordenkainen
+
+It’s easy to spot giff in a room: these burly folk are 7-foot-tall, hippopotamus-headed people. In Wildspace and the associated ports, giff are most often encountered as spacefaring mercenaries. These troops are renowned for their martial training and love of explosives and are typically armed with gleaming pistols and muskets. The stat block here represents one of those mercenaries.
+
+Every aspect of these spacefaring giff’s society is organized along military lines. From birth until death, each has a military rank. Promotions don’t depend on age but are granted by a superior as a reward for valor.
+
+Muskets and grenades are the specialties of many giff regiments. The bigger the boom, the brighter the flash, and the thicker the smoke it produces, the greater the glory for the one wielding the weapon. Giff mercenaries have been known to accept payment in kegs of gunpowder in preference to gold, gems, or other currency.
+
+Gunpowder by the Keg
+In addition to their personal gunpowder weapons, giff ships and mercenary companies carry spare gunpowder in kegs. In an emergency, or if a large explosion is needed, a whole keg can be detonated. A giff lights the fuse on the keg and can then throw the keg up to 15 feet as part of the same action. The keg explodes at the start of the giff’s next turn. Each creature within 20 feet of the exploding keg must make a DC 12 Dexterity saving throw. On a failed save, a creature takes 24 (7d6) fire damage and is knocked prone. On a successful save, a creature takes half as much damage and isn’t knocked prone.
+
+Every other keg of gunpowder within 20 feet of an exploding keg has a 50 percent chance of also exploding. Check each keg only once per turn, no matter how many other kegs explode around it.
+
+GIFF
+Medium Humanoid, Any Alignment
+
+Armor Class 16 (breastplate)
+
+Hit Points 60 (8d8 + 24)
+
+Speed 30 ft.
+
+STR
+18 (+4)
+DEX
+14 (+2)
+CON
+17 (+3)
+INT
+11 (+0)
+WIS
+12 (+1)
+CHA
+12 (+1)
+Senses passive Perception 11
+
+Languages Common
+
+Challenge 3 (700 XP) Proficiency Bonus +2
+
+Firearms Knowledge. The giff’s mastery of its weapons enables it to ignore the loading property of muskets and pistols.
+
+Headfirst Charge. The giff can try to knock a creature over; if the giff moves at least 20 feet in a straight line and ends within 5 feet of a Large or smaller creature, that creature must succeed on a DC 14 Strength saving throw or take 7 (2d6) bludgeoning damage and be knocked prone.
+
+Actions
+
+Multiattack. The giff makes two Longsword, Musket, or Pistol attacks.
+
+Longsword. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
+
+Musket. Ranged Weapon Attack: +4 to hit, range 40/120 ft., one target. Hit: 8 (1d12 + 2) piercing damage.
+
+Pistol. Ranged Weapon Attack: +4 to hit, range 30/90 ft., one target. Hit: 7 (1d10 + 2) piercing damage.
+
+Fragmentation Grenade (1/Day). The giff throws a grenade up to 60 feet, and the grenade explodes in a 20-foot-radius sphere. Each creature in that area must make a DC 15 Dexterity saving throw, taking 17 (5d6) piercing damage on a failed save, or half as much damage on a successful one.
+
+
+Girallon
+A girallon looks like an oversized, four-armed ape with grayish-tan skin and white fur. Its vicious fangs and claws reveal it to be a monstrous predator.
+
+Girallons are most common in temperate or warm forest environments abundant with life. They share apes’ adeptness at climbing, although few trees can support the weight of these half-ton creatures. The ruins of cities, especially those found in deep forests and jungles, seem to attract girallons. They see a city’s buildings as a superior sort of forest whose uppermost “branches” can safely support them. The creatures can easily scale walls and battlements, and they perch on tower tops and other high vantages to keep an eye on the surrounding area.
+
+When girallons can’t climb, they stalk the forest floor, lurk in narrow ravines or shallow caves, or hide in ruined sites while waiting for prey to come near. A girallon is surprisingly stealthy, considering its size and its lack of camouflage.
+
+Girallons form loose bands of several individuals and their offspring, usually led by a dominant adult that also tends to be the oldest member of the group. When on the hunt away from their lair, girallons use roars and body language to communicate with one another over distance. Each individual typically hunts alone and widely separated from the others to ensure that everyone gets adequate fodder. The leader might organize members to work together to make a big kill, however. If they succeed, everyone in the group shares the spoils, with the best parts going to those caring for their young.
+
+Girallons’ strange appearance and attraction to ruins lead sages to believe they were created through magic to serve as guardians for some lost empire. When that empire fell ages ago, girallons turned feral and spread out across the world.
+
+Numerous creatures have tried to tame, subjugate, or cooperate with the monsters. For instance, some forest-dwelling peoples capture girallons and train them to serve as sentinels. Recognizing that girallons are peaceful among their own kind, other folk have learned how to approach a group’s leader, offering food and other gifts in hopes of establishing an alliance with the creatures.
+
+Girallons that are well treated might be willing to serve as guards, though they lack the intelligence to take on tasks more complicated than attacking strangers who enter their domain. A girallon that’s captured when young and carefully trained could end up in a seemingly unlikely place, such as guarding the entrance to a city’s thieves’ guild. Those who would keep a girallon must always be wary, however, because the creature could revert to its predatory nature at any time.
+
+GIRALLON
+Large Monstrosity, Unaligned
+
+Armor Class 13
+
+Hit Points 59 (7d10 + 21)
+
+Speed 40 ft., climb 40 ft.
+
+STR
+18 (+4)
+DEX
+16 (+3)
+CON
+16 (+3)
+INT
+5 (−3)
+WIS
+12 (+1)
+CHA
+7 (−2)
+Skills Perception +5, Stealth +5
+
+Senses darkvision 60 ft., passive Perception 15
+
+Languages —
+
+Challenge 4 (1,100 XP) Proficiency Bonus +2
+
+Actions
+
+Multiattack. The girallon makes one Bite attack and four Claw attacks.
+
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 7 (1d6 + 4) piercing damage.
+
+Claw. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
+
+Bonus Actions
+
+Aggressive. The girallon moves up to its speed toward a hostile creature that it can see.
+
+
+Githyanki
+Githyanki descend from an ancient people who were also the progenitors of githzerai (also in this book). These tall, gaunt folk have potent psionic powers and dwell, for the most part, on the Astral Plane. Among the best-known githyanki are the bellicose followers of the Lich Queen Vlaakith. They terrorize the Astral Plane, raiding into other planes to plunder the multiverse of its magic and riches.
+
+
+LEFT TO RIGHT: GITHYANKI GISH, GITHYANKI SUPREME COMMANDER, AND GITHYANKI KITH’RAK
+Githyanki Gish
+Gish blend their magical abilities with swordplay to become dangerous foes in battle. Their specialized capabilities make them well suited for assassination, raiding, and espionage.
+
+GITHYANKI GISH
+Medium Humanoid (Gith, Wizard), Any Alignment
+
+Armor Class 17 (half plate)
+
+Hit Points 130 (20d8 + 40)
+
+Speed 30 ft.
+
+STR
+17 (+3)
+DEX
+15 (+2)
+CON
+14 (+2)
+INT
+16 (+3)
+WIS
+15 (+2)
+CHA
+16 (+3)
+Saving Throws Con +6, Int +7, Wis +6
+
+Skills Insight +6, Perception +6, Stealth +6
+
+Senses passive Perception 16
+
+Languages Gith
+
+Challenge 10 (5,900 XP) Proficiency Bonus +4
+
+Actions
+
+Multiattack. The githyanki makes three Longsword or Telekinetic Bolt attacks, or it makes one of those attacks and uses Spellcasting.
+
+Longsword. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands, plus 22 (5d8) psychic damage.
+
+Telekinetic Bolt. Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 28 (8d6) force damage.
+
+Spellcasting (Psionics). The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 15):
+
+At will: light, mage hand (the hand is invisible), message
+
+3/day each: fireball, invisibility, nondetection (self only)
+
+1/day each: dimension door, plane shift, telekinesis
+
+Bonus Actions
+
+Astral Step (Recharge 4–6). The githyanki teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
+
+Githyanki Kith’rak
+Militarized githyanki cultures assign ranks and responsibilities to citizens. Groups of ten warriors follow the commands of sarths (githyanki warriors; see the Monster Manual), while ten sarths obey the commands of a mighty kith’rak. These champions undergo torturous training and psionic testing until they can command the respect of their underlings.
+
+GITHYANKI KITH’RAK
+Medium Humanoid (Gith), Any Alignment
+
+Armor Class 18 (plate)
+
+Hit Points 180 (24d8 + 72)
+
+Speed 30 ft.
+
+STR
+18 (+4)
+DEX
+16 (+3)
+CON
+17 (+3)
+INT
+16 (+3)
+WIS
+15 (+2)
+CHA
+17 (+3)
+Saving Throws Con +7, Int +7, Wis +6
+
+Skills Intimidation +7, Perception +6
+
+Senses passive Perception 16
+
+Languages Gith
+
+Challenge 12 (8,400 XP) Proficiency Bonus +4
+
+Actions
+
+Multiattack. The githyanki makes three Greatsword attacks.
+
+Greatsword. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 17 (5d6) psychic damage.
+
+Spellcasting (Psionics). The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 15):
+
+At will: mage hand (the hand is invisible)
+
+3/day each: blur, nondetection (self only)
+
+1/day each: plane shift, telekinesis
+
+Bonus Actions
+
+Astral Step (Recharge 4–6). The githyanki teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
+
+Rally the Troops. The githyanki magically ends the charmed and frightened conditions on itself and each creature of its choice that it can see within 30 feet of it.
+
+Reactions
+
+Parry. The githyanki adds 4 to its AC against one melee attack that would hit it. To do so, the githyanki must see the attacker and be wielding a melee weapon.
+
+Githyanki Supreme Commander
+Supreme commanders lead armies, each one commanding ten kith’raks, who in turn lead the rest of their forces. Most supreme commanders ride red dragons (see the Monster Manual) into battle.
+
+GITHYANKI SUPREME COMMANDER
+Medium Humanoid (Gith), Any Alignment
+
+Armor Class 18 (plate)
+
+Hit Points 187 (22d8 + 88)
+
+Speed 30 ft.
+
+STR
+19 (+4)
+DEX
+17 (+3)
+CON
+18 (+4)
+INT
+16 (+3)
+WIS
+16 (+3)
+CHA
+18 (+4)
+Saving Throws Con +9, Int +8, Wis +8
+
+Skills Insight +8, Intimidation +9, Perception +8
+
+Senses passive Perception 18
+
+Languages Gith
+
+Challenge 14 (11,500 XP) Proficiency Bonus +5
+
+Legendary Resistance (3/Day). If the githyanki fails a saving throw, it can choose to succeed instead.
+
+Actions
+
+Multiattack. The githyanki makes two Silver Greatsword attacks.
+
+Silver Greatsword. Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage plus 17 (5d6) psychic damage. On a critical hit against a target in an astral body (as with the astral projection spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
+
+Spellcasting (Psionics). The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 16):
+
+At will: mage hand (the hand is invisible)
+
+3/day each: levitate (self only), nondetection (self only)
+
+1/day each: Bigby’s hand, mass suggestion, plane shift, telekinesis
+
+Bonus Actions
+
+Astral Step. The githyanki teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
+
+Reactions
+
+Parry. The githyanki adds 5 to its AC against one melee attack that would hit it. To do so, the githyanki must see the attacker and be wielding a melee weapon.
+
+Legendary Actions
+
+The githyanki can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The githyanki regains spent legendary actions at the start of its turn.
+
+Command Ally. The githyanki targets one ally it can see within 30 feet of it. If the target can see or hear the githyanki, the target can make one melee weapon attack using its reaction, if available, and has advantage on the attack roll.
+
+Attack (2 Actions). The githyanki makes one Silver Greatsword attack.
+
+Githzerai
+Githzerai are otherworldly folk with psionic powers who share an ancestral link to githyanki (also in this book). The githzerai followers of the great leader Zaerith Menyar-Ag-Gith are an ascetic people who live apart from the rest of the cosmos, within the confines of fortresses floating through the chaos of Limbo. Instead of imposing their will on other peoples, they focus on controlling and manipulating their endlessly malleable home.
+
+
+GITHZERAI ANARCH (CENTER) WITH TWO GITHZERAI ENLIGHTENED
+Githzerai Anarch
+Anarchs are githzerai sages and mystics who lead communities and maintain the adamantine citadels that serve as strong points in Limbo and on other planes. They have formidable psionic capabilities and are able to manipulate the unformed substance of their adopted plane with a thought.
+
+GITHZERAI ANARCH
+Medium Humanoid (Gith), Any Alignment
+
+Armor Class 20 (Psychic Defense)
+
+Hit Points 144 (17d8 + 68)
+
+Speed 30 ft., fly 40 ft. (hover)
+
+STR
+16 (+3)
+DEX
+21 (+5)
+CON
+18 (+4)
+INT
+18 (+4)
+WIS
+20 (+5)
+CHA
+14 (+2)
+Saving Throws Str +8, Dex +10, Int +9, Wis +10
+
+Skills Arcana +9, Insight +10, Perception +10
+
+Senses passive Perception 20
+
+Languages Gith
+
+Challenge 16 (15,000 XP) Proficiency Bonus +5
+
+Legendary Resistance (3/Day). If the githzerai fails a saving throw, it can choose to succeed instead.
+
+Psychic Defense. While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
+
+Actions
+
+Multiattack. The githzerai makes three Unarmed Strike attacks.
+
+Unarmed Strike. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) bludgeoning damage plus 18 (4d8) psychic damage.
+
+Spellcasting (Psionics). The githzerai casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 18):
+
+At will: mage hand (the hand is invisible)
+
+3/day each: see invisibility, telekinesis
+
+1/day each: globe of invulnerability, plane shift, wall of force
+
+Legendary Actions
+
+The githzerai can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The githzerai regains spent legendary actions at the start of its turn.
+
+Strike. The githzerai makes one Unarmed Strike attack.
+
+Teleport. The githzerai teleports, along with any equipment it is wearing or carrying, to an unoccupied space it can see within 30 feet of it.
+
+Change Gravity (Costs 3 Actions). The githzerai casts the reverse gravity spell, using Wisdom as the spellcasting ability. The spell has the normal effect, except that the githzerai can orient the area in any direction and creatures and objects fall toward the end of the area.
+
+An Anarch’s Lair
+In Limbo, githzerai anarchs create islands of tranquility in this turbulent plane. An anarch can use its psionic power to give form to formless substance, creating mountains, lakes, and structures to serve as a foundation for a githzerai community.
+
+The anarch’s challenge rating is 17 (18,000 XP) when it’s encountered in its lair.
+
+Lair Actions. On initiative count 20 (losing initiative ties), the anarch can take one of the following lair actions; the anarch can’t take the same lair action two rounds in a row:
+
+Create Object. The anarch casts the creation spell (as a 9th-level spell) using the unformed substance of Limbo instead of shadow material. If used in Limbo, the object remains until the anarch’s concentration is broken, regardless of its composition. If the anarch moves more than 120 feet from the object, the anarch’s concentration breaks.
+
+Move Object. The anarch can magically move an object it can see within 150 feet of it by making a Wisdom check with advantage. The DC depends on the object’s size: DC 5 for Tiny, DC 10 for Small, DC 15 for Medium, DC 20 for Large, and DC 25 for Huge or larger.
+
+Psionic Bolt. The anarch casts the lightning bolt spell (at 5th level), but the anarch can change the damage type from lightning to cold, fire, psychic, radiant, or thunder. If the spell deals damage other than fire or lightning, it doesn’t ignite flammable objects.
+
+Regional Effects. The region containing an anarch’s lair is warped by its presence, which creates one or more of the following effects:
+
+Form Substance. In Limbo, the anarch can spend 10 minutes stabilizing a 5-mile area centered on it, causing the unformed substance to take whatever inanimate form the anarch chooses. During that process, the anarch determines the shape and composition of the forms created.
+
+Stabilize Object. The anarch stabilizes any object created in Limbo and brought to the Material Plane for as long as the anarch remains within 1 mile of it (no action required).
+
+If the anarch dies, these effects end after 1d6 rounds. All formed substance becomes a chaotic churn of energy and matter, unraveling into unformed substance that dissipates 1d6 rounds later.
+
+Githzerai Enlightened
+Some spiritual githzerai spend long hours in meditation to transcend the limits of their forms and to apprehend the nature of reality. Zerths who complete the next tier of their training become known as the enlightened.
+
+GITHZERAI ENLIGHTENED
+Medium Humanoid (Gith), Any Alignment
+
+Armor Class 18 (Psychic Defense)
+
+Hit Points 112 (15d8 + 45)
+
+Speed 40 ft.
+
+STR
+14 (+2)
+DEX
+19 (+4)
+CON
+16 (+3)
+INT
+17 (+3)
+WIS
+19 (+4)
+CHA
+13 (+1)
+Saving Throws Str +6, Dex +8, Int +7, Wis +8
+
+Skills Arcana +7, Insight +8, Perception +8
+
+Senses passive Perception 18
+
+Languages Gith
+
+Challenge 10 (5,900 XP) Proficiency Bonus +4
+
+Psychic Defense. While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
+
+Actions
+
+Multiattack. The githzerai makes three Unarmed Strike attacks.
+
+Unarmed Strike. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage plus 18 (4d8) psychic damage.
+
+Spellcasting (Psionics). The githzerai casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 16):
+
+At will: mage hand (the hand is invisible)
+
+3/day: see invisibility
+
+1/day each: plane shift, teleport
+
+Temporal Strike (Recharge 6). Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) bludgeoning damage plus 52 (8d12) psychic damage. The target must succeed on a DC 16 Wisdom saving throw or move 1 round forward in time. A target moved forward in time vanishes for the duration. When the effect ends, the target reappears in the space it left or in an unoccupied space nearest to that space if it’s occupied.
+
+Reactions
+
+Slow Fall. When the githzerai falls, it reduces any falling damage it takes by 50.
+
+Gnolls
+The first gnolls were hyenas transformed by magic. Many of them were then corrupted by the demon lord Yeenoghu. Whether in service to Yeenoghu or dedicated to the survival of their kin, gnoll war bands seek to soften up foes with surprise attacks and to leave no survivors alive.
+
+Gnoll Flesh Gnawer
+These gnolls eschew the use of ranged weapons in favor of short blades that they wield with great speed and efficiency. In the thick of a fight, they dash across the battlefield, slashing and snarling as they run down stragglers and finish off wounded foes.
+
+GNOLL FLESH GNAWER
+Medium Monstrosity, Typically Chaotic Evil
+
+Armor Class 14 (studded leather)
+
+Hit Points 22 (4d8 + 4)
+
+Speed 30 ft.
+
+STR
+12 (+1)
+DEX
+14 (+2)
+CON
+12 (+1)
+INT
+8 (−1)
+WIS
+10 (+0)
+CHA
+8 (−1)
+Saving Throws Dex +4
+
+Senses darkvision 60 ft., passive Perception 10
+
+Languages Gnoll
+
+Challenge 1 (200 XP) Proficiency Bonus +2
+
+Actions
+
+Multiattack. The gnoll makes one Bite attack and two Shortsword attacks.
+
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+
+Shortsword. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+
+Sudden Rush. Until the end of the turn, the gnoll’s speed increases by 60 feet and it doesn’t provoke opportunity attacks.
+
+Bonus Actions
+
+Rampage. After the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll moves up to half its speed and makes a Bite attack.
+
+
+Gnoll Hunter
+Hunters are the stealthiest gnolls in a war band. In the vanguard, they creep around, picking off isolated opposition while clearing the way for the rest of the force to advance.
+
+Hunters are particularly skilled with the longbow, and they fire arrows with viciously barbed heads. Even when a hunter doesn’t kill their target with their first shot, the arrow strike brings so much pain that the victim is hobbled in its attempt to run away.
+
+The life cycle of Yeenoghu’s gnolls begins and ends with eating. They eat their enemies, they eat one another, and they’re freed from their hunger only in death.
+
+—Mordenkainen
+
+GNOLL HUNTER
+Medium Monstrosity, Typically Chaotic Evil
+
+Armor Class 13 (leather armor)
+
+Hit Points 22 (4d8 + 4)
+
+Speed 30 ft.
+
+STR
+14 (+2)
+DEX
+14 (+2)
+CON
+12 (+1)
+INT
+8 (−1)
+WIS
+12 (+1)
+CHA
+8 (−1
+Skills Perception +3, Stealth +4
+
+Senses darkvision 60 ft., passive Perception 13
+
+Languages Gnoll
+
+Challenge 1/2 (100 XP) Proficiency Bonus +2
+
+Actions
+
+Multiattack. The gnoll makes two Bite, Spear, or Longbow attacks.
+
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+
+Spear. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage when used with two hands to make a melee attack.
+
+Longbow. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage, and the target’s speed is reduced by 10 feet until the end of its next turn.
+
+Bonus Actions
+
+Rampage. After the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll moves up to half its speed and makes a Bite attack.
+
+Gnoll Witherling
+Sometimes the gnolls of Yeenoghu turn against each other, perhaps to determine who rules a war band or because of extreme starvation. Even under ordinary circumstances, gnolls that are deprived of victims for too long struggle to control their hunger and violent urges. Eventually, they fight among themselves.
+
+The survivors devour the flesh of their slain comrades but preserve the bones. Then, by invoking rituals to Yeenoghu (appears in this book) they bring the remains back to a semblance of life in the form of a gnoll witherling.
+
+Witherlings travel with their comrades and try to kill anything in their path. They don’t eat and aren’t motivated by hunger, leaving more flesh for the rest of the war band.
+
+GNOLL WITHERLING
+Medium Undead, Typically Chaotic Evil
+
+Armor Class 12 (natural armor)
+
+Hit Points 11 (2d8 + 2)
+
+Speed 30 ft.
+
+STR
+14 (+2)
+DEX
+8 (−1)
+CON
+12 (+1)
+INT
+5 (−3)
+WIS
+5 (−3)
+CHA
+5 (−3)
+Damage Immunities poison
+
+Condition Immunities exhaustion, poisoned
+
+Senses darkvision 60 ft., passive Perception 7
+
+Languages understands Gnoll but can’t speak
+
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+
+Unusual Nature. The witherling doesn’t require air, food, drink, or sleep.
+
+Actions
+
+Multiattack. The witherling makes two Bite or Spiked Club attacks.
+
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) necrotic damage.
+
+Spiked Club. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+
+Bonus Actions
+
+Rampage. After the witherling reduces a creature to 0 hit points with a melee attack on its turn, the gnoll moves up to half its speed and makes one Bite attack.
+
+Reactions
+
+Vengeful Strike. In response to a gnoll being reduced to 0 hit points within 30 feet of the witherling, the witherling makes one Bite or Spiked Club attack.
+
+
+Gray Render
+A curious impulse drives the gray render. Despite its hulking form and terrible appetite, it wants most of all to bond with an intelligent creature and, once bonded, to give its life to protect that creature. Great strength and a ferocious nature make gray renders fierce guardians, but they lack a shred of cunning.
+
+Gray renders reproduce by forming nodules on their bodies that, on reaching maturity, break off to begin life as young gray renders. They feel no obligation to their young and have no inclination to gather with others of their kind. Instead, each has an overpowering need to bond with an intelligent creature. When one encounters a suitable master, it sings to that creature—a weird, warbling cry accompanied by scratching at the earth and a show of deference. Once it forms a bond, a gray render serves its master devotedly.
+
+A gray render might be a strong ally, but it’s always an unpredictable one. In combat, a gray render fights viciously and never willingly harms its master, but outside battle, it might cause considerable difficulties. It might follow its master despite being told to stay put, destroy its master’s house, burrow holes through a ship’s hull, attack out of jealousy, or worse.
+
+The Gray Render Quirks table presents possible quirks for gray renders that can be generated randomly or selected as desired.
+
+Gray Render Quirks
+d12	Quirk
+1	Hates horses and other mounts
+2	Roars loudly when its bonded creature is touched by another creature
+3	Likes to snuggle
+4	Uproots and chews on trees
+5	Has terrific and eye-watering flatulence
+6	Brings offerings of meat to its bonded creature
+7	Compulsively digs up the ground
+8	Attacks carts and wagons as if they were terrible monsters
+9	Howls when it rains
+10	Whines piteously in the dark
+11	Buries treasure it finds
+12	Chases birds, leaping into the air to catch them, heedless of the destruction it causes
+GRAY RENDER
+Large Monstrosity, Typically Chaotic Neutral
+
+Armor Class 19 (natural armor)
+
+Hit Points 189 (18d10 + 90)
+
+Speed 30 ft.
+
+STR
+19 (+4)
+DEX
+13 (+1)
+CON
+20 (+5)
+INT
+3 (−4)
+WIS
+6 (−2)
+CHA
+8 (−1)
+Saving Throws Str +8, Con +9
+
+Skills Perception +2
+
+Senses darkvision 60 ft., passive Perception 12
+
+Languages —
+
+Challenge 12 (8,400 XP) Proficiency Bonus +4
+
+Actions
+
+Multiattack. The gray render makes one Bite attack and two Claw attacks.
+
+Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) piercing damage. If the target is Medium or smaller, the target must succeed on a DC 16 Strength saving throw or be knocked prone.
+
+Claw. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) slashing damage, plus 10 (3d6) bludgeoning damage if the target is prone.
+
+Reactions
+
+Bloody Rampage. When the gray render takes damage, it makes one Claw attack against a random creature within its reach, other than its master.
+
+
+Graz’zt
+The appearance of this demon lord is a warning that not all that is beautiful is good. Every plane and curve of his nine-foot-tall body, every glance of his burning eyes, promises a mixture of pleasure and pain. Graz’zt can transform himself at will, appearing in any humanlike form that pleases him or his onlookers, all equally tempting in their own ways. In every form, though, a subtle wrongness pervades his beauty, from the cruel cast of his features to the six fingers on each hand and six toes on each foot.
+
+Graz’zt surrounds himself with the finest of things and the most attractive of servants, and he adorns himself in silks and leathers both striking and disturbing in their workmanship. His lair and those of his cultists are pleasure palaces where nothing is forbidden save moderation and kindness.
+
+Cults devoted to him are secret societies of indulgence, often using their debauchery to subjugate others through blackmail, addiction, and manipulation. They wear alabaster masks with ecstatic expressions and ostentatious dress and body ornamentation to their secret assignations.
+
+Although he prefers charm and subtle manipulation, Graz’zt is capable of terrible violence when provoked. He wields the greatsword Angdrelve, also called Wave of Sorrow, whose wavy, razor-edged blade drips acid at his command.
+
+GRAZ’ZT
+Large Fiend (Demon), Chaotic Evil
+
+Armor Class 20 (natural armor)
+
+Hit Points 346 (33d10 + 165)
+
+Speed 40 ft.
+
+STR
+22 (+6)
+DEX
+15 (+2)
+CON
+21 (+5)
+INT
+23 (+6)
+WIS
+21 (+5)
+CHA
+26 (+8)
+Saving Throws Dex +9, Con +12, Wis +12
+
+Skills Deception +15, Insight +12, Perception +12, Persuasion +15
+
+Damage Resistances cold, fire, lightning
+
+Damage Immunities poison; bludgeoning, piercing, and slashing that is nonmagical
+
+Condition Immunities charmed, exhaustion, frightened, poisoned
+
+Senses truesight 120 ft., passive Perception 22
+
+Languages all, telepathy 120 ft.
+
+Challenge 24 (62,000 XP) Proficiency Bonus +7
+
+Legendary Resistance (3/Day). If Graz’zt fails a saving throw, he can choose to succeed instead.
+
+Magic Resistance. Graz’zt has advantage on saving throws against spells and other magical effects.
+
+Actions
+
+Multiattack. Graz’zt makes two Wave of Sorrow attacks. He can replace one attack with a use of Spellcasting.
+
+Wave of Sorrow (Greatsword). Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 20 (4d6 + 6) force damage plus 14 (4d6) acid damage.
+
+Spellcasting. Graz’zt casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 23):
+
+At will: charm person, detect magic, dispel magic
+
+3/day each: darkness, dominate person, telekinesis, teleport
+
+1/day each: dominate monster, greater invisibility
+
+Teleport. Graz’zt teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
+
+Bonus Actions
+
+Change Shape. Graz’zt transforms into a form that resembles a Medium Humanoid or back into his true form. Aside from his size, his statistics are the same in each form. Any equipment he is wearing or carrying isn’t transformed.
+
+Reactions
+
+Negate Spell (Recharge 5–6). Graz’zt tries to interrupt a spell he sees a creature casting within 60 feet of him. If the spell is 3rd level or lower, the spell fails and has no effect. If the spell is 4th level or higher, Graz’zt makes a Charisma check against a DC of 10 + the spell’s level. On a success, the spell fails and has no effect.
+
+Legendary Actions
+
+Graz’zt can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Graz’zt regains spent legendary actions at the start of his turn.
+
+Abyssal Magic. Graz’zt uses Spellcasting or Teleport.
+
+Attack. Graz’zt makes one Wave of Sorrow attack.
+
+Dance, My Puppet! One creature charmed by Graz’zt that Graz’zt can see must use its reaction to move up to its speed as Graz’zt directs.
+
+
+Graz’zt proved to be a plentiful source of magical energy. He seems to think there’s something more between us. He’ll eventually figure out the truth.
+
+Tasha
+
+Graz’zt’s Lair
+Graz’zt’s principal lair is his Argent Palace, a grandiose structure in the city of Zelatar, found within his abyssal domain of Azzagrat. Graz’zt’s demonic influence radiates outward in a tangible ripple, warping reality around him. Given enough time in a single location, Graz’zt can twist it with his power.
+
+Graz’zt’s lair is a den of ostentation and hedonism. It is adorned with finery and decorations so decadent that even the wealthiest of mortals would blush at the excess. Within Graz’zt’s lairs, devotees and subjects alike are forced to slake Graz’zt’s thirst for pageantry.
+
+Lair Actions
+On initiative count 20 (losing initiative ties), Graz’zt can take one of the following lair actions; he can’t take the same lair action two rounds in a row:
+
+Command. Graz’zt casts the command spell on every creature of his choice in the lair. He needn’t see each one, but he must be aware that an individual is in the lair to target that creature. He issues the same command to all the targets.
+
+Conjure Mirrors. Smooth surfaces within the lair become as reflective as a polished mirror. Until a different lair action is used, creatures within the lair have disadvantage on Dexterity (Stealth) checks made to hide.
+
+Regional Effects
+The region containing Graz’zt’s lair is warped by his magic, creating one or more of the following effects:
+
+Agitated Beasts. Wild beasts within 6 miles of the lair break into frequent conflicts and coupling, mirroring the behavior that occurs during their mating seasons.
+
+Beguiling Realm. Within 6 miles of the lair, all Wisdom (Insight) checks have disadvantage, and all Charisma (Deception) and Charisma (Persuasion) checks have advantage.
+
+Mirrors Everywhere. Flat surfaces within 1 mile of the lair that are made of stone or metal become highly reflective, as though polished to a shine. These surfaces become supernaturally mirrorlike.
+
+If Graz’zt dies, these effects fade over the course of 1d10 days.
+
+Cultists of Graz’zt
+Graz’zt grants his cultists special abilities. His cultists can gain the Joy from Pain trait, while his cult leaders can gain the Master of Pleasures trait.
+
+Joy from Pain. Whenever this creature suffers a critical hit, it can make one melee weapon attack as a reaction.
+
+Master of Pleasures. As a reaction when this creature takes damage, it can magically grant 5 temporary hit points to itself and up to three allies within 30 feet of it.
+
+Grungs
+Grungs are frog-like folk found in rain forests and tropical jungles. These amphibians prefer shade and live in trees, but they maintain hatcheries for their offspring in well-guarded ground-level pools. About three months after hatching, a grung tadpole takes on the shape of an adult, and after another six months, the grung reaches maturity.
+
+Born in a wide range of colors, grungs most often appear in shades of green, blue, purple, red, orange, and gold. All grungs secrete a substance that is harmless to them but poisonous to other creatures, and sometimes that substance has a special effect based on the grung’s color (see “Variant: Grung Poison”). They also use this venom to poison their weapons.
+
+
+Variant: Grung Poison
+A creature poisoned by a grung can suffer an additional effect that depends on the grung’s color, as described below. This effect lasts until the creature is no longer poisoned by the grung.
+
+Blue Grung. The poisoned creature must make a loud noise at the start and end of its turn.
+
+Gold Grung. The creature is charmed by the grung and can speak Grung.
+
+Green Grung. The poisoned creature can’t move except to climb or make standing jumps. If the creature is flying, it can’t take any actions or reactions unless it lands.
+
+Orange Grung. The poisoned creature is frightened of its allies.
+
+Purple Grung. The poisoned creature feels a desperate need to soak itself in liquid or mud. It can’t take actions or move except to do so or to reach a body of liquid or mud.
+
+Red Grung. The poisoned creature must use its action to eat if food is within reach.
+
+Grung
+The grung stat block represents a typical grung warrior or hunter, met either in a grung community or traveling elsewhere as a mercenary, game warden, guard, or bandit.
+
+GRUNG
+Small Humanoid, Any Alignment
+
+Armor Class 12
+
+Hit Points 11 (2d6 + 4)
+
+Speed 25 ft., climb 25 ft.
+
+STR
+7 (−2)
+DEX
+14 (+2)
+CON
+15 (+2)
+INT
+10 (+0)
+WIS
+11 (+0)
+CHA
+10 (+0)
+Saving Throws Dex +4
+
+Skills Athletics +2, Perception +2, Stealth +4, Survival +2
+
+Damage Immunities poison
+
+Condition Immunities poisoned
+
+Senses passive Perception 12
+
+Languages Grung
+
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+
+Amphibious. The grung can breathe air and water.
+
+Poisonous Skin. Any creature that grapples the grung or otherwise comes into direct contact with the grung’s skin must succeed on a DC 12 Constitution saving throw or become poisoned for 1 minute. A poisoned creature no longer in direct contact with the grung can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Standing Leap. The grung’s long jump is up to 25 feet and its high jump is up to 15 feet, with or without a running start.
+
+Water Dependency. If the grung isn’t immersed in water for at least 1 hour during a day, it suffers 1 level of exhaustion at the end of that day. The grung can recover from this exhaustion only through magic or by immersing itself in water for at least 1 hour.
+
+Actions
+
+Dagger. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage plus 5 (2d4) poison damage.
+
+Grung Elite Warrior
+A grung elite warrior typically leads a group of grung and other warriors into battle and is often accompanied by a grung wildling.
+
+GRUNG ELITE WARRIOR
+Small Humanoid, Any Alignment
+
+Armor Class 13
+
+Hit Points 49 (9d6 + 18)
+
+Speed 25 ft., climb 25 ft.
+
+STR
+7 (−2)
+DEX
+16 (+3)
+CON
+15 (+2)
+INT
+10 (+0)
+WIS
+11 (+0)
+CHA
+12 (+1)
+Saving Throws Dex +5
+
+Skills Athletics +2, Perception +2, Stealth +5, Survival +2
+
+Damage Immunities poison
+
+Condition Immunities poisoned
+
+Senses passive Perception 12
+
+Languages Grung
+
+Challenge 2 (450 XP) Proficiency Bonus +2
+
+Amphibious. The grung can breathe air and water.
+
+Poisonous Skin. Any creature that grapples the grung or otherwise comes into direct contact with the grung’s skin must succeed on a DC 12 Constitution saving throw or become poisoned for 1 minute. A poisoned creature no longer in direct contact with the grung can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Standing Leap. The grung’s long jump is up to 25 feet and its high jump is up to 15 feet, with or without a running start.
+
+Water Dependency. If the grung isn’t immersed in water for at least 1 hour during a day, it suffers 1 level of exhaustion at the end of that day. The grung can recover from this exhaustion only through magic or by immersing itself in water for at least 1 hour.
+
+Actions
+
+Dagger. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 5 (2d4) poison damage.
+
+Shortbow. Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 5 (2d4) poison damage.
+
+Mesmerizing Chirr (Recharge 6). The grung makes a chirring noise to which grungs are immune. Each Humanoid or Beast that is within 15 feet of the grung and able to hear it must succeed on a DC 12 Wisdom saving throw or be stunned until the end of the grung’s next turn.
+
+Grung Wildling
+Gifted with druidic magic, a grung wildling typically serves as an advisor, a healer, and a nurturer of crops.
+
+GRUNG WILDLING
+Small Humanoid, Any Alignment
+
+Armor Class 16 (natural armor)
+
+Hit Points 27 (5d6 + 10)
+
+Speed 25 ft., climb 25 ft.
+
+STR
+7 (−2)
+DEX
+16 (+3)
+CON
+15 (+2)
+INT
+10 (+0)
+WIS
+15 (+2)
+CHA
+11 (+0)
+Saving Throws Dex +5
+
+Skills Athletics +2, Perception +4, Stealth +5, Survival +4
+
+Damage Immunities poison
+
+Condition Immunities poisoned
+
+Senses passive Perception 14
+
+Languages Grung
+
+Challenge 1 (200 XP) Proficiency Bonus +2
+
+Amphibious. The grung can breathe air and water.
+
+Poisonous Skin. Any creature that grapples the grung or otherwise comes into direct contact with the grung’s skin must succeed on a DC 12 Constitution saving throw or become poisoned for 1 minute. A poisoned creature no longer in direct contact with the grung can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Standing Leap. The grung’s long jump is up to 25 feet and its high jump is up to 15 feet, with or without a running start.
+
+Water Dependency. If the grung isn’t immersed in water for at least 1 hour during a day, it suffers 1 level of exhaustion at the end of that day. The grung can recover from this exhaustion only through magic or by immersing itself in water for at least 1 hour.
+
+Actions
+
+Dagger. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 5 (2d4) poison damage.
+
+Shortbow. Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 5 (2d4) poison damage.
+
+Spellcasting. The grung casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 12):
+
+At will: druidcraft
+
+3/day each: cure wounds, spike growth
+
+2/day: plant growth
+
+Guard Drake
+A guard drake is a reptilian creature created out of dragon scales by means of a bizarre and grisly ritual. When trained properly, a drake is obedient and territorial, which makes it an excellent watch beast that can follow simple commands.
+
+Tiamat’s cult practices the ritual to create guard drakes, as do other groups that are skilled in arcana and associated with Dragons. The ritual requires a chromatic dragon’s aid; the dragon typically helps to reward its allies or worshipers with a valuable servant.
+
+The ritual, which takes several days, requires 10 pounds of fresh dragon scales (donated by the dragon allied with the group), a large amount of fresh meat, and an iron cauldron. When the process is complete, a Small egg emerges from the cauldron and hatches within a few hours.
+
+A newly hatched guard drake imprints upon the first creature that feeds it (usually the one planning to train it), establishing an aggressive but trusting bond with that individual. A guard drake is fully grown within two to three weeks and can be trained in the same length of time. It is the equivalent of a guard dog in terms of what it can be trained to do.
+
+A guard drake resembles the type of dragon it was created from, but with a wingless, squat, muscular build. A drake can’t reproduce, nor can its scales be used to make other guard drakes.
+
+Variant: Chromatic Drakes
+Each type of chromatic dragon’s scales creates a guard drake that resembles a wingless, stunted version of that type of dragon, with unique abilities related to that type. Each has the special features described below.
+
+Black Guard Drake. The drake can breathe air and water, has a swimming speed of 30 feet, and has resistance to acid damage.
+
+Blue Guard Drake. The drake has a burrowing speed of 20 feet and resistance to lightning damage.
+
+Green Guard Drake. The drake can breathe air and water, has a swimming speed of 30 feet, and has resistance to poison damage.
+
+Red Guard Drake. The drake has climbing speed of 30 feet and resistance to fire damage.
+
+White Guard Drake. The drake has a burrowing speed of 20 feet, a climbing speed of 30 feet, and resistance to cold damage.
+
+
+GUARD DRAKE
+Medium Dragon, Unaligned
+
+Armor Class 14 (natural armor)
+
+Hit Points 52 (7d8 + 21)
+
+Speed 30 ft.
+
+STR
+16 (+3)
+DEX
+11 (+0)
+CON
+16 (+3)
+INT
+4 (−3)
+WIS
+10 (+0)
+CHA
+7 (−2)
+Skills Perception +2
+
+Senses darkvision 60 ft., passive Perception 12
+
+Languages understands Draconic but can’t speak
+
+Challenge 2 (450 XP) Proficiency Bonus +2
+
+Actions
+
+Multiattack. The guard drake makes one Bite attack and one Tail attack.
+
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
+
+Tail. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
+
+Monsters: H
+Hellfire Engine
+Hellfire engines are semiautonomous bringers of destruction. Amnizus (in this book) and other devilish generals hold them in reserve until they are needed to repel an incursion by demons or crusading mortals, but occasionally one of these magical-mechanical hybrids gets loose, driven berserk by its need to destroy.
+
+Hellfire engines take many forms, but all of them have one purpose: to mow down foes in waves. They are incapable of subtlety or trickery, but their destructive capability is immense.
+
+Mortal creatures slain by hellfire engines are doomed to join the infernal legions in mere hours unless powerful magic-wielders intervene on their behalf. The archdukes of the Nine Hells would like nothing better than to modify this magic so it works against demons, too, but that discovery has eluded them so far.
+
+HELLFIRE ENGINE
+Huge Construct, Typically Lawful Evil
+
+Armor Class 18 (natural armor)
+
+Hit Points 216 (16d12 + 112)
+
+Speed 40 ft.
+
+STR
+20 (+5)
+DEX
+16 (+3)
+CON
+24 (+7)
+INT
+2 (−4)
+WIS
+10 (+0)
+CHA
+1 (−5)
+Saving Throws Dex +8, Wis +5, Cha +0
+
+Damage Resistances cold, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+
+Damage Immunities fire, poison
+
+Condition Immunities charmed, deafened, exhaustion, frightened, paralyzed, poisoned, unconscious
+
+Senses darkvision 120 ft., passive Perception 10
+
+Languages understands Infernal but can’t speak
+
+Challenge 16 (15,000 XP) Proficiency Bonus +5
+
+Immutable Form. The hellfire engine is immune to any spell or effect that would alter its form.
+
+Magic Resistance. The hellfire engine has advantage on saving throws against spells and other magical effects.
+
+Unusual Nature. The hellfire engine doesn’t require air, food, drink, or sleep.
+
+Actions
+
+Flesh-Crushing Stride. The hellfire engine moves up to its speed in a straight line. During this move, it can enter Large or smaller creatures’ spaces. A creature whose space the hellfire engine enters must make a DC 18 Dexterity saving throw. On a successful save, the creature is pushed to the nearest space out of the hellfire engine’s path. On a failed save, the creature falls prone and takes 28 (8d6) bludgeoning damage.
+
+If the hellfire engine remains in the prone creature’s space, the creature is also restrained until it’s no longer in the same space as the hellfire engine. While restrained in this way, the creature, or another creature within 5 feet of it, can make a DC 18 Strength check. On a success, the creature is shunted to an unoccupied space of its choice within 5 feet of the hellfire engine and is no longer restrained.
+
+Hellfire Weapons. The hellfire engine uses one of the following options (choose one or roll a d6):
+
+1–2: Bonemelt Sprayer. The hellfire engine spews acidic flame in a 60-foot cone. Each creature in the cone must make a DC 20 Dexterity saving throw, taking 11 (2d10) fire damage plus 18 (4d8) acid damage on a failed save, or half as much damage on a successful one. Creatures that fail the saving throw are drenched in burning acid and take 5 (1d10) fire damage plus 9 (2d8) acid damage at the end of their turns. An affected creature or another creature within 5 feet of it can take an action to scrape off the burning fuel.
+
+3–4: Lightning Flail. Melee Weapon Attack: +10 to hit, reach 15 ft., one creature. Hit: 18 (3d8 + 5) bludgeoning damage plus 22 (5d8) lightning damage. Up to three other creatures of the hellfire engine’s choice that it can see within 30 feet of the target must each make a DC 20 Dexterity saving throw, taking 22 (5d8) lightning damage on a failed save, or half as much damage on a successful one.
+
+5–6: Thunder Cannon. The hellfire engine targets a point within 120 feet of it that it can see. Each creature within 30 feet of that point must make a DC 20 Dexterity saving throw, taking 27 (5d10) bludgeoning damage plus 19 (3d12) thunder damage on a failed save, or half as much damage on a successful one.
+
+If the chosen option kills a creature, the creature’s soul rises from the River Styx as a lemure in Avernus in 1d4 hours. If the creature isn’t revived before then, only a wish spell or killing the lemure and casting true resurrection on the creature’s original body can restore it to life. Constructs and devils are immune to this effect.
+
+
+Hobgoblin Devastator
+Hobgoblins with a prodigious talent for magic sometimes undergo grueling training to become hobgoblin devastators. Devastators are spellcasters who call down fireballs and other destructive magic in the defense of the court they serve, whether that court is in the Feywild or the Material Plane. A hobgoblin devastator on the battlefield is a boon to their allies and a threat to every foe around them.
+
+Far from being cloistered academics, hobgoblin devastators are masters of the battlefield. In addition to tactical applications of the magical arts, they learn the basics of weapon use, and they measure their deeds by the enemies defeated though their magic. They have the respect of other members of the host and receive obedience and deference from many quarters.
+
+In the Feywild, many archfey seek to bolster their armies’ might with the services of hobgoblin devastators.
+
+HOBGOBLIN DEVASTATOR
+Medium Fey (Goblinoid), Typically Lawful Neutral
+
+Armor Class 13 (studded leather)
+
+Hit Points 45 (7d8 + 14)
+
+Speed 30 ft.
+
+STR
+13 (+1)
+DEX
+12 (+1)
+CON
+14 (+2)
+INT
+16 (+3)
+WIS
+13 (+1)
+CHA
+11 (+0)
+Skills Arcana +5
+
+Senses darkvision 60 ft., passive Perception 11
+
+Languages Common, Goblin
+
+Challenge 4 (1,100 XP) Proficiency Bonus +2
+
+Army Arcana. When the hobgoblin casts a spell that causes damage or that forces other creatures to make a saving throw, it can choose itself and any number of allies to be immune to the damage caused by the spell and to succeed on the required saving throw.
+
+Actions
+
+Multiattack. The hobgoblin makes two Quarterstaff or Devastating Bolt attacks.
+
+Quarterstaff. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage, or 5 (1d8 + 1) bludgeoning damage if used with two hands, plus 13 (3d8) force damage.
+
+Devastating Bolt. Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 21 (4d8 + 3) force damage, and the target is knocked prone.
+
+Spellcasting. The hobgoblin casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 13):
+
+At will: mage hand, prestidigitation
+
+2/day each: fireball, fly, fog cloud, gust of wind, lightning bolt
+
+
+GOBLINOIDS OF THE FEYWILD
+
+The goblinoid peoples—goblins, hobgoblins, and bugbears—first appeared in the Feywild millennia ago, and they resided there until the god Maglubiyet conquered them. They then spread throughout the multiverse, with many of them ending up on the worlds of the Material Plane. Most goblinoids encountered on those worlds are members of families that have been away from the Feywild for centuries, and over time, those lineages have become Humanoid. Fey goblinoids, who still bear the magic of the Feywild, are rare on the Material Plane but not unheard of. Hobgoblin devastators are examples of such Fey folk, as are hobgoblin iron shadows and nilbogs (also in this book).
+
+Hobgoblin Iron Shadow
+Iron shadows are hobgoblin martial artists who serve fey and mortal courts as secret police, scouts, and assassins. They spy to ferret out treachery, rebellion, and betrayal and deal with it ruthlessly. Iron shadows possess agility and stamina matched only by their ironclad commitment to the will of their masters. They wield a deadly combination of unarmed fighting techniques and shadow magic to deceive and defeat their foes. While on secret missions, they wear masks crafted to resemble monsters, both to conceal their identities and to strike fear into their foes.
+
+An iron shadow is usually recruited from the ranks of the Feywild’s hobgoblin armies or from among the hobgoblins who have resided in the Material Plane for centuries. A candidate for admission undergoes a series of tests designed to reveal any potential for treachery. Those who fail are slain, while those who pass receive secret training in the arts of magic and stealth. This indoctrination is a slow and arduous process; many aspirants don’t finish it, and years might go by during which the iron shadows welcome no new members into their ranks. When a recruit’s training is complete, they are tasked with conducting assassinations and spy missions.
+
+HOBGOBLIN IRON SHADOW
+Medium Fey (Goblinoid), Typically Lawful Neutral
+
+Armor Class 15 (Unarmored Defense)
+
+Hit Points 32 (5d8 + 10)
+
+Speed 40 ft.
+
+STR
+14 (+2)
+DEX
+16 (+3)
+CON
+15 (+2)
+INT
+14 (+2)
+WIS
+15 (+2)
+CHA
+11 (+0)
+Skills Acrobatics +5, Athletics +4, Stealth +5
+
+Senses darkvision 60 ft., passive Perception 12
+
+Languages Common, Goblin
+
+Challenge 2 (450 XP) Proficiency Bonus +2
+
+Unarmored Defense. While the hobgoblin is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
+
+Actions
+
+Multiattack. The hobgoblin makes four attacks, each of which can be an Unarmed Strike or a Dart attack. It can also use Shadow Jaunt once, either before or after one of the attacks.
+
+Unarmed Strike. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage.
+
+Dart. Ranged Weapon Attack. +5 to hit, range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
+
+Shadow Jaunt. The hobgoblin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see. Both the space it leaves and its destination must be in dim light or darkness.
+
+Spellcasting. The hobgoblin casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 12):
+
+At will: minor illusion, prestidigitation
+
+1/day each: charm person, disguise self, silent image
+
+
+Howler
+A far-off wail precedes the sight of a howler. Even at a distance, listeners’ minds cringe at the sound and fill with horror at the realization that the noise is drawing closer. When howlers go on the prowl, courage isn’t enough to stand up against them.
+
+These nightmare creatures are native to Pandemonium, but they can be found on most of the Lower Planes, where they are trained as war hounds. Howlers can be domesticated, after a fashion, but they respond only to brutal training in which they are forced to recognize the trainer as the pack’s undisputed leader. A trained pack then follows its leader without hesitation. Howler packs course over the battlefields of the Blood War and also serve evil mortals powerful and vicious enough to command their loyalty.
+
+Howlers rely on speed, numbers, and their mind-numbing howling to corner prey before they tear it apart. Their howls flood the minds of their victims, making complex thought impossible. Listeners can do little more than stare in horror and stumble around the battlefield in a search for safety. Fiends especially prize howlers for this reason, because for a few crucial moments in a battle, their howls can neutralize an enemy.
+
+Why does the howler sing? Doing so causes its prey to flee, and surely stealth would make for better hunting in howling Pandemonium. There is only one answer: the creature can taste fear.
+
+—Mordenkainen
+
+HOWLER
+Large Fiend, Typically Chaotic Evil
+
+Armor Class 16 (natural armor)
+
+Hit Points 90 (12d10 + 24)
+
+Speed 40 ft.
+
+STR
+17 (+3)
+DEX
+16 (+3)
+CON
+15 (+2)
+INT
+5 (−3)
+WIS
+14 (+2)
+CHA
+6 (−2)
+Skills Perception +5
+
+Damage Resistances cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+
+Condition Immunities frightened
+
+Senses darkvision 60 ft., passive Perception 15
+
+Languages understands Abyssal but can’t speak
+
+Challenge 8 (3,900 XP) Proficiency Bonus +3
+
+Pack Tactics. A howler has advantage on attack rolls against a creature if at least one of the howler’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+
+Actions
+
+Multiattack. The howler makes two Rending Bite attacks.
+
+Rending Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage, plus 22 (4d10) psychic damage if the target is frightened. This attack ignores damage resistance.
+
+Mind-Breaking Howl (Recharge 4–6). The howler emits a keening howl in a 60-foot cone. Each creature in that area must succeed on a DC 13 Wisdom saving throw or take 16 (3d10) psychic damage and be frightened until the end of the howler’s next turn. While a creature is frightened in this way, its speed is halved, and it is incapacitated. A target that successfully saves is immune to the Mind-Breaking Howl of all howlers for the next 24 hours.
+
+
+Hutijin
+
+Politics in the Nine Hells are anything but predictable. Alliances form all the time, but most wind up unraveling due to treachery. Nevertheless, for all their backbiting and betrayal, devils do occasionally display loyalty, offering unwavering service to their masters. One such example is Hutijin, a duke of Cania and loyal servant of Mephistopheles.
+
+Across the Hells, Hutijin’s name fills lesser devils with fear and loathing, for this duke commands two companies of pit fiends (see the Monster Manual). With such soldiers under his command, Hutijin can easily crush any rival who gets in his way while also defending Mephistopheles against armies seeking to contest his dominion. Hutijin has amassed enough power to challenge the lord of Cania, but he has never wavered in his support for his master—suggesting, perhaps, that Mephistopheles has some hold over him.
+
+Outside the Nine Hells, Hutijin is a relatively obscure figure, known only to the most learned infernal scholars. He has no cults of his own, and his servants are few in number. The reason is simple: Hutijin hates mortals. When summoned from the Hells, he repays the instigator with a long and agonizing death.
+
+Mephistopheles forbids Hutijin from making too many forays into the Material Plane, since the duke’s absence leaves him vulnerable to his rivals. Other archdevils know how much Hutijin despises mortals and have secretly disseminated the means to call him from the Nine Hells in the hope of distracting the archdevil long enough for them to assail Mephistopheles. Hutijin sends devils into the Material Plane to eradicate mention of his name and destroy those who have learned of him, but the summonings still occur. When called from his post, he negotiates as quickly as he can, usually closing a deal with little cost to the summoner. However, once the deal has been fulfilled, Hutijin repays the interruption with death.
+
+HUTIJIN
+Large Fiend (Devil), Lawful Evil
+
+Armor Class 19 (natural armor)
+
+Hit Points 200 (16d10 + 112)
+
+Speed 30 ft., fly 60 ft.
+
+STR
+27 (+8)
+DEX
+15 (+2)
+CON
+25 (+7)
+INT
+23 (+6)
+WIS
+19 (+4)
+CHA
+25 (+7)
+Saving Throws Dex +9, Con +14, Wis +11
+
+Skills Intimidation +14, Perception +11
+
+Damage Resistances cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+
+Damage Immunities fire, poison
+
+Condition Immunities charmed, exhaustion, frightened, poisoned
+
+Senses truesight 120 ft., passive Perception 21
+
+Languages all, telepathy 120 ft.
+
+Challenge 21 (33,000 XP) Proficiency Bonus +7
+
+Infernal Despair. Each creature within 30 feet of Hutijin that isn’t a devil makes saving throws with disadvantage.
+
+Legendary Resistance (3/Day). If Hutijin fails a saving throw, he can choose to succeed instead.
+
+Magic Resistance. Hutijin has advantage on saving throws against spells and other magical effects.
+
+Regeneration. Hutijin regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn’t function at the start of his next turn. Hutijin dies only if he starts his turn with 0 hit points and doesn’t regenerate.
+
+Actions
+
+Multiattack. Hutijin makes one Bite attack, one Claw attack, one Mace attack, and one Tail attack.
+
+Bite. Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) fire damage. The target must succeed on a DC 22 Constitution saving throw or become poisoned. While poisoned in this way, the target can’t regain hit points, and it takes 10 (3d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Claw. Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) cold damage.
+
+Mace. Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) force damage.
+
+Tail. Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 19 (2d10 + 8) thunder damage.
+
+Spellcasting. Hutijin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 22):
+
+At will: alter self (can become Medium when changing his appearance), detect magic, hold monster, invisibility (self only), lightning bolt, suggestion, wall of fire
+
+3/day: dispel magic
+
+Teleport. Hutijin teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
+
+Reactions
+
+Fearful Voice (Recharge 5–6). In response to taking damage, Hutijin utters a dreadful word of power. Each creature within 30 feet of him that isn’t a devil must succeed on a DC 22 Wisdom saving throw or become frightened of him for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that saves against this effect is immune to his Fearful Voice for 24 hours.
+
+Legendary Actions
+
+Hutijin can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Hutijin regains spent legendary actions at the start of his turn.
+
+Attack. Hutijin makes one Claw, Mace, or Tail attack.
+
+Teleport. Hutijin uses Teleport.
+
+Lightning Storm (Costs 2 Actions). Hutijin releases lightning in a 30-foot radius, blocked only by total cover. All other creatures in that area must each make a DC 22 Dexterity saving throw, taking 18 (4d8) lightning damage on a failed save, or half as much damage on a successful one.
+
+
+Hydroloth
+Like the thought-stealing waters of the River Styx they inhabit, hydroloths filch the memories of creatures they attack, stealing away thoughts for delivery to whatever master they happen to serve. Hydroloths also savor finding lost things, especially those that have been swallowed up in the deeps.
+
+For amphibious assaults or underwater conflicts, hydroloths have no equal among yugoloths. They sometimes hire themselves out to attack and scuttle ships and raid coastal settlements.
+
+HYDROLOTH
+Medium Fiend (Yugoloth), Typically Neutral Evil
+
+Armor Class 15
+
+Hit Points 135 (18d8 + 54)
+
+Speed 20 ft., swim 40 ft.
+
+STR
+12 (+1)
+DEX
+21 (+5)
+CON
+16 (+3)
+INT
+19 (+4)
+WIS
+10 (+0)
+CHA
+14 (+2)
+Skills Insight +4, Perception +4
+
+Damage Vulnerabilities fire
+
+Damage Resistances cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+
+Damage Immunities acid, poison
+
+Condition Immunities poisoned
+
+Senses blindsight 60 ft., darkvision 60 ft., passive Perception 14
+
+Languages Abyssal, Infernal, telepathy 60 ft.
+
+Challenge 9 (5,000 XP) Proficiency Bonus +4
+
+Amphibious. The hydroloth can breathe air and water.
+
+Magic Resistance. The hydroloth has advantage on saving throws against spells and other magical effects.
+
+Secure Memory. The hydroloth is immune to the waters of the River Styx, as well as any effect that would steal or modify its memories or detect or read its thoughts.
+
+Watery Advantage. While submerged in liquid, the hydroloth has advantage on attack rolls.
+
+Actions
+
+Multiattack. The hydroloth makes two Bite or Claw attacks. It can replace one attack with a use of Spellcasting.
+
+Bite. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) force damage plus 9 (2d8) psychic damage.
+
+Claw. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) force damage plus 9 (2d8) psychic damage.
+
+Spellcasting. The hydroloth casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
+
+At will: darkness, detect magic, dispel magic, invisibility (self only)
+
+3/day each: control water, crown of madness, fear, suggestion
+
+Steal Memory (1/Day). The hydroloth targets one creature it can see within 60 feet of it. The target takes 14 (4d6) psychic damage, and it must make a DC 16 Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth’s Steal Memory for 24 hours. On a failed save, the target loses all proficiencies; it can’t cast spells; it can’t understand language; and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A greater restoration or remove curse spell cast on the target ends this effect early.
+
+Teleport. The hydroloth teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+
+
+Monsters: J
+Juiblex
+Called the Faceless Lord and the Oozing Hunger in ancient grimoires, Juiblex is demon lord of slime and ooze, a noxious creature that doesn’t care about the plots and schemes of others of its kind. It exists only to consume, digesting and transforming living matter into more of itself.
+
+A true horror, Juiblex is a mass of bubbling slime, swirling black and green, with glaring red eyes floating and shifting within it. It can rise up like a 20-foot hill, lashing out with dripping pseudopods to drag victims into its bulk. Those consumed by Juiblex are obliterated.
+
+JUIBLEX
+Huge Fiend (Demon), Chaotic Evil
+
+Armor Class 18 (natural armor)
+
+Hit Points 350 (28d12 + 168)
+
+Speed 30 ft., climb 30 ft.
+
+STR
+24 (+7)
+DEX
+10 (+0)
+CON
+23 (+6)
+INT
+20 (+5)
+WIS
+20 (+5)
+CHA
+16 (+3)
+Saving Throws Dex +7, Con +13, Wis +12
+
+Skills Perception +12
+
+Damage Resistances cold, fire, lightning
+
+Damage Immunities acid, poison; bludgeoning, piercing, and slashing that is nonmagical
+
+Condition Immunities blinded, charmed, deafened, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious
+
+Senses truesight 120 ft., passive Perception 22
+
+Languages all, telepathy 120 ft.
+
+Challenge 23 (50,000 XP) Proficiency Bonus +7
+
+Foul. Any creature other than an Ooze that starts its turn within 10 feet of Juiblex must succeed on a DC 21 Constitution saving throw or be poisoned until the start of the creature’s next turn.
+
+Legendary Resistance (3/Day). If Juiblex fails a saving throw, it can choose to succeed instead.
+
+Magic Resistance. Juiblex has advantage on saving throws against spells and other magical effects.
+
+Regeneration. Juiblex regains 20 hit points at the start of its turn. If it takes fire or radiant damage, this trait doesn’t function at the start of its next turn. Juiblex dies only if it starts its turn with 0 hit points and doesn’t regenerate.
+
+Spider Climb. Juiblex can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+
+Actions
+
+Multiattack. Juiblex makes three Acid Lash attacks.
+
+Acid Lash. Melee or Ranged Weapon Attack: +14 to hit, reach 10 ft. or range 60/120 ft., one target. Hit: 21 (4d6 + 7) acid damage. Any creature killed by this attack is drawn into Juiblex’s body, where the corpse is dissolved after 1 minute.
+
+Eject Slime (Recharge 5–6). Juiblex spews out a corrosive slime, targeting one creature that it can see within 60 feet of it. The target must succeed on a DC 21 Dexterity saving throw or take 55 (10d10) acid damage. Unless the target avoids taking all of this damage, any metal armor worn by the target takes a permanent −1 penalty to the AC it offers, and any metal weapon the target is carrying or wearing takes a permanent −1 penalty to damage rolls. The penalty worsens each time a target is subjected to this effect. If the penalty on an object drops to −5, the object is destroyed. The penalty on an object can be removed by the mending spell.
+
+Spellcasting. Juiblex casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 20):
+
+At will: detect magic
+
+3/day each: contagion, gaseous form
+
+Legendary Actions
+
+Juiblex can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Juiblex regains spent legendary actions at the start of its turn.
+
+Attack. Juiblex makes one Acid Lash attack.
+
+Corrupting Touch (Costs 2 Actions). Melee Weapon Attack: +14 to hit, reach 10 ft., one creature. Hit: 21 (4d6 + 7) poison damage, and the target is slimed. Until the slime is scraped off with an action, the target is poisoned, and any creature, other than an Ooze, is poisoned while within 10 feet of the target.
+
+Juiblex’s Lair
+
+Juiblex’s principal lair is known as the Slime Pits, a realm that Juiblex shares with Zuggtmoy (who also appears in this book). This layer of the Abyss, which is also known as Shedaklah, is a bubbling morass of fetid sludge. The landscape is covered in vast expanses of caustic slimes, and strange organic forms rise from the oceans of ooze at Juiblex’s command.
+
+Juiblex’s challenge rating is 24 (62,000 XP) when encountered in its lair.
+
+Lair Actions
+On initiative count 20 (losing initiative ties), Juiblex can take one of the following lair actions; it can’t take the same lair action two rounds in a row:
+
+Green Slime. A green slime (see the Dungeon Master’s Guide) appears on a spot on the ceiling that Juiblex chooses within the lair. The slime disintegrates after 1 hour.
+
+Slippery Slime. Juiblex slimes a square area of ground it can see within the lair. The area can be up to 10 feet on a side. When the slime appears, each creature on it must succeed on a DC 21 Dexterity saving throw or fall prone and slide 10 feet in a random direction determined by a d8 roll. When a creature enters the area for the first time on a turn or ends its turn there, that creature must make the same save.
+
+The slime lasts for 1 hour or until it is burned away with fire. If the slime is set on fire, it burns away after 1 round. Any creature that starts its turn in the burning slime takes 22 (4d10) fire damage.
+
+Sticky Slime. Juiblex slimes a square area of ground it can see within the lair. The area can be up to 10 feet on a side. When the slime appears, each creature in that area must succeed on a DC 21 Strength saving throw or become restrained. When a creature enters the area for the first time on a turn or ends its turn there, that creature must make the same save.
+
+A restrained creature is stuck as long as it remains in the slimy area or until it breaks free. The restrained creature, or another creature that can reach it, can use its action to try to break free and must succeed on a DC 21 Strength check.
+
+The slime lasts for 1 hour or until it is burned away with fire. If the slime is set on fire, it burns away after 1 round. Any creature that starts its turn in the burning slime takes 22 (4d10) fire damage.
+
+Regional Effects
+The region containing Juiblex’s lair is warped by its magic, creating one or more of the following effects:
+
+Acidic Water. Small bodies of water, such as ponds or wells, within 1 mile of the lair turn highly acidic, corroding any object that touches them.
+
+Corrupted Nature. Within 6 miles of the lair, all Wisdom (Medicine) and Wisdom (Survival) checks have disadvantage.
+
+Slime. Surfaces within 6 miles of the lair are frequently covered by a thin film of slime, which is slick and sticks to anything that touches it.
+
+If Juiblex dies, these effects fade over the course of 1d10 days.
+
+Cultists of Juiblex
+The Faceless Lord grants its cultists special abilities. Lesser followers can gain the Liquid Movement trait. The most dedicated devotees of ooze can also gain the Slimy Organs trait.
+
+Liquid Movement. As an action, this creature can move up to 20 feet through spaces no more than an inch in diameter. It must end this movement in a space that can accommodate its full size. Otherwise, it takes 5 force damage and returns to the space where it began this movement.
+
+Slimy Organs. This creature has resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
+
+Whenever this creature suffers a critical hit or is reduced to 0 hit points, it sprays acid; each creature within 5 feet of it takes acid damage equal to its number of Hit Dice.
+
+Monsters: K
+Ki-rin
+Ki-rins are noble, celestial creatures. In the Outer Planes, ki-rins in service to benevolent deities take a direct role in the eternal struggle between good and evil. In the mortal world, ki-rins are celebrated far and wide as harbingers of destiny, guardians of the sacred, and counterbalances to the forces of evil.
+
+Ki-rins are an embodiment of good, and simply beholding one can evoke fear or awe in an observer. A typical ki-rin looks like a muscular stag, covered in golden scales lined in some places with golden fur. It has a long mane and tail, coppery cloven hooves, and a spiral-shaped coppery horn just above and between its luminous violet eyes. In a breeze or when aloft, the creature’s scales and hair appear to blaze with a holy, golden fire.
+
+Beyond their coloration, ki-rins vary in appearance based on the deity each one reveres and the function each typically performs in service to that god. Some resemble gigantic unicorns; these are often used as guardians. Others have draconic features and tend to be aggressive foes of evil. Having one horn is most common, but a particularly fierce ki-rin might have two horns or a set of antlers like those of a great stag.
+
+In many lands, common folk view ki-rins as heralds of good fortune. They consider seeing a ki-rin fly overhead a blessing and events that happen on such a day especially auspicious. If a ki-rin alights during a ceremony such as a birth announcement or a coronation, everyone present understands that the creature is telling them the person so honored could become a great force for good. Ki-rins have also been known to appear at the sites of great battles to inspire and strengthen the side of good or to rescue heroes from certain death.
+
+Ki-rins are attracted to the worship of deities of courage, loyalty, selflessness, and truth, as well as to the advancement of just societies. For instance, in the Forgotten Realms, ki-rins rally mostly to Torm, although they also serve his allies Tyr and Ilmater. Ki-rins that serve good deities go wherever they are commanded; a ki-rin from an Upper Plane might venture to the Material Plane on a mission, usually as a scout, a messenger, or a spy. A ki-rin living on the Material Plane claims a territory to watch over, and one ki-rin might safeguard an area that encompasses several nations.
+
+KI-RIN
+Large Celestial, Typically Lawful Good
+
+Armor Class 20 (natural armor)
+
+Hit Points 153 (18d10 + 54)
+
+Speed 60 ft., fly 120 ft. (hover)
+
+STR
+21 (+5)
+DEX
+16 (+3)
+CON
+16 (+3)
+INT
+19 (+4)
+WIS
+20 (+5)
+CHA
+20 (+5)
+Skills Perception +9, Insight +9, Religion +8
+
+Damage Immunities poison
+
+Condition Immunities poisoned
+
+Senses darkvision 120 ft., truesight 30 ft., passive Perception 19
+
+Languages all, telepathy 120 ft.
+
+Challenge 12 (8,400 XP) Proficiency Bonus +4
+
+Legendary Resistance (3/Day). If the ki-rin fails a saving throw, it can choose to succeed instead.
+
+Magic Resistance. The ki-rin has advantage on saving throws against spells and other magical effects.
+
+Actions
+
+Multiattack. The ki-rin makes two Hoof attacks and one Horn attack, or it makes two Sacred Fire attacks.
+
+Hoof. Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 10 (2d4 + 5) force damage.
+
+Horn. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) radiant damage.
+
+Sacred Fire. Ranged Spell Attack: +9 to hit, range 120 ft., one target. Hit: 18 (3d8 + 5) radiant damage.
+
+Spellcasting. The ki-rin casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 17):
+
+At will: light, major image (6th-level version), thaumaturgy
+
+3/day each: cure wounds, dispel magic, lesser restoration, sending
+
+1/day each: banishment, calm emotions, create food and water, greater restoration, plane shift, protection from evil and good, revivify, wind walk
+
+Legendary Actions
+
+The ki-rin can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The ki-rin regains spent legendary actions at the start of its turn.
+
+Move. The ki-rin moves up to half its speed without provoking opportunity attacks.
+
+Smite. The ki-rin makes one Hoof, Horn, or Sacred Fire attack.
+
+
+Lair of Luxury
+On the celestial planes, ki-rins reside in lofty, elegant aeries filled with luxurious objects. On the Material Plane, a ki-rin chooses a similar location for its lair, such as atop a tall pinnacle or within a cloud solidified by the ki-rin’s magic. The chosen location is almost always hard to reach, and only those mortals who have the tenacity to complete the daunting journey to a ki-rin’s lair can prove themselves worthy of speaking with its occupant. Many of those who do end up pledging service to the creature. They study under its tutelage in its lair and serve as its agents in the world. These followers might travel incognito across the land, seeking news of growing evil and working behind the scenes, or they might be champions of their master’s cause, out to defeat villainy wherever it is found.
+
+When viewed from the outside, a ki-rin’s lair is indistinguishable from a natural site, and the entrance is difficult for visitors to find and reach. Inside, the lair is a serene and comfortable place, its ambiance a mix between palace and temple. If the ki-rin has taken creatures into its service, its lair doubles as a sacred site wherein the ki-rin not only rests but also teaches of holy mysteries.
+
+Lair Actions
+On initiative count 20 (losing initiative ties), a ki-rin can take one of the following lair actions, and it must finish a long rest before taking the chosen lair action again:
+
+Create Comforts. The ki-rin conjures up one or more permanent objects made of soft, plant-based material—including manufactured objects like pillows, rope, blankets, and clothing—that can collectively fill no more than a 20-foot cube. The objects materialize 1 minute later in unoccupied spaces of the ki-rin’s choice on the floor of the lair.
+
+Create Stone and Metal. The ki-rin conjures up one or more temporary objects made of stone or metal that can collectively fill no more than a 2-foot cube. The objects materialize 1 minute later in unoccupied spaces of the ki-rin’s choice on the floor of the lair, and the objects vanish after 1 hour.
+
+Create Wood. The ki-rin conjures up one or more permanent objects made of wood, or similarly hard plant-based material, that can collectively fill no more than a 10-foot cube. The objects materialize 1 minute later in unoccupied spaces of the ki-rin’s choice on the floor of the lair.
+
+Regional Effects
+A ki-rin’s Celestial nature transforms the region around its lair. Any of the following magical effects is possible for travelers to encounter in the vicinity:
+
+Blessed Nature. Beasts, Plants, and Celestials within 3 miles of the ki-rin’s lair grow more vigorous as they evolve toward an idealized form. Such creatures are rarely aggressive toward others that aren’t normally prey.
+
+Controlled Weather. A ki-rin can cast control weather while it is within 3 miles of its lair. The spell’s point of origin is always the point outdoors closest to the center of its lair. The ki-rin doesn’t need to maintain a clear path to the sky or to concentrate for the change in weather to persist.
+
+Pure Waters. Water flows pure within 3 miles of a ki-rin’s lair. Any purposeful corruption of the water lasts for no longer than 3 minutes.
+
+Realm of Respite. Curses, diseases, and poisons on creatures are suppressed when those creatures are within 3 miles of the lair, unless the creatures are Aberrations, Fiends, or Undead.
+
+Safe Descents. Within 3 miles of the lair, winds buoy creatures that fall due to no act of the ki-rin or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage. Aberrations, Fiends, and Undead don’t gain this benefit, falling as normal.
+
+When the ki-rin dies, all these effects disappear immediately, although the invigorating effect on flora and fauna remains for 3 years.
+
+Kobold Dragonshield
+Kobold dragonshields are champions of their people. Almost all dragonshields begin life as normal kobolds, then are chosen by a dragon and invested with power for the purpose of protecting the dragon’s eggs, but once every few years a kobold hatches with an innate version of the dragonshield’s abilities. In either case, a dragonshield is skilled at hand-to-hand combat and bears a shield made of dragon scales, as well as scars from desperate fights.
+
+Dragonshields know they have a place of honor among those who venerate dragons, but—being kobolds at heart—most of them feel unworthy of their status and are desperate to prove themselves deserving of it. But they also have the ability to rally in the face of certain death, inspiring others to follow them into battle.
+
+Believe it or not, I like kobolds. I find their oscillation between bravery and cowardice endlessly entertaining. In fact, I’d say kobolds are proof of the universe’s most fundamental lesson: there is always something bigger than you.
+
+—Mordenkainen
+
+KOBOLD DRAGONSHIELD
+Small Dragon, Any Alignment
+
+Armor Class 15 (leather, shield)
+
+Hit Points 44 (8d6 + 16)
+
+Speed 20 ft.
+
+STR
+12 (+1)
+DEX
+15 (+2)
+CON
+14 (+2)
+INT
+8 (−1)
+WIS
+9 (−1)
+CHA
+10 (+0)
+Skills Perception +1
+
+Damage Resistances see Dragon’s Resistance below
+
+Senses darkvision 60 ft., passive Perception 11
+
+Languages Common, Draconic
+
+Challenge 1 (200 XP) Proficiency Bonus +2
+
+Dragon’s Resistance. The kobold has resistance to a type of damage based on the color of dragon that invested it with power (choose or roll a d10): 1–2, acid (black or copper); 3–4, cold (silver or white); 5–6, fire (brass, gold, or red); 7–8, lightning (blue or bronze); 9–10, poison (green).
+
+Heart of the Dragon. If the kobold is frightened or paralyzed by an effect that allows a saving throw, it can repeat the save at the start of its turn to end the effect on itself and all kobolds within 30 feet of it. Any kobold that benefits from this trait (including the dragonshield) has advantage on its next attack roll.
+
+Pack Tactics. The kobold has advantage on an attack roll against a creature if at least one of the kobold’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+
+Sunlight Sensitivity. While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
+Actions
+
+Multiattack. The kobold makes two Spear attacks.
+
+Spear. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+
+
+Kobold Inventor
+A kobold inventor builds improvised weapons to gain an advantage in combat. These weapons last for only one or two attacks before they break and typically work only for the inventor, but they might be surprisingly effective in the meantime. The weapons don’t have to be lethal—often one serves its purpose if it distracts, scares, or confuses a creature long enough for the inventor to kill that foe.
+
+KOBOLD INVENTOR
+Small Humanoid, Any Alignment
+
+Armor Class 12
+
+Hit Points 13 (3d6 + 3)
+
+Speed 30 ft.
+
+STR
+7 (−2)
+DEX
+15 (+2)
+CON
+12 (+1)
+INT
+14 (+2)
+WIS
+10 (+0)
+CHA
+8 (−1)
+Senses darkvision 60 ft., passive Perception 10
+
+Languages Common, Draconic
+
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+
+Pack Tactics. The kobold has advantage on an attack roll against a creature if at least one of the kobold’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+
+Sunlight Sensitivity. While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
+Actions
+
+Dagger. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+
+Sling. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
+
+Weapon Invention. The kobold uses one of the following options (choose one or roll a d8); the kobold can use each one no more than once per day:
+
+Acid. The kobold hurls a flask of acid. Ranged Weapon Attack: +4 to hit, range 5/20 ft., one target. Hit: 7 (2d6) acid damage.
+Alchemist’s Fire. The kobold throws a flask of alchemist’s fire. Ranged Weapon Attack: +4 to hit, range 5/20 ft., one target. Hit: 2 (1d4) fire damage at the start of each of the target’s turns. The target can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
+Basket of Centipedes. The kobold throws a small basket into a 5-foot-square space within 20 feet of it. A swarm of insects (centipedes; see the Monster Manual) with 11 hit points emerges from the basket and rolls initiative. At the end of each of the swarm’s turns, there’s a 50 percent chance that the swarm disperses.
+Green Slime Pot. The kobold throws a clay pot full of green slime at the target, and it breaks open on impact. Ranged Weapon Attack: +4 to hit, range 5/20 ft., one target. Hit: 5 (1d10) acid damage, and the target is covered in slime until a creature uses its action to scrape or wash the slime off. A target covered in the slime takes 5 (1d10) acid damage at the start of each of its turns.
+Rot Grub Pot. The kobold throws a clay pot into a 5-foot-square space within 20 feet of it, and it breaks open on impact. A swarm of rot grubs (in this book) emerges from the shattered pot and remains a hazard in that square.
+Scorpion on a Stick. The kobold makes a melee attack with a scorpion (see the Monster Manual) tied to the end of a 5-foot-long pole. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
+Skunk in a Cage. The kobold releases a skunk into an unoccupied space within 5 feet of it. The skunk has a walking speed of 20 feet, AC 10, 1 hit point, and no effective attacks. It rolls initiative and, on its turn, uses its action to spray musk at a random creature within 5 feet of it. The target must succeed on a DC 9 Constitution saving throw, or it retches and is incapacitated for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that doesn’t need to breathe or is immune to poison automatically succeeds on the saving throw. Once the skunk has sprayed its musk, it can’t do so again until it finishes a short or long rest.
+Wasp Nest in a Bag. The kobold throws a small bag into a 5-foot-square space within 20 feet of it. A swarm of insects (wasps; see the Monster Manual) with 11 hit points emerges from the bag and rolls initiative. At the end of each of the swarm’s turns, there’s a 50 percent chance that the swarm disperses.
+
+Kobold Scale Sorcerer
+Kobold scale sorcerers have an innate talent for arcane magic, making them highly valuable members of their communities. These sorcerers typically fill the role of advisor, and when threatened, a scale sorcerer lashes out with colorful magic.
+
+A scale sorcerer who resides in or near a dragon’s lair may serve as that dragon’s diplomat and mouthpiece—anticipating the dragon’s needs, issuing commands to others on the dragon’s behalf, and reporting information back to the dragon. Such scale sorcerers often wear artificial wings, which are a sign of their draconic office. Scale sorcerers are just as awed by and respectful of dragons as others who venerate these mighty creatures, but they know that duty requires them not to fawn over their master at all times. They also understand that their frequent proximity to their dragon master means they would probably be the first to die if their master became angry or displeased, so they frantically maintain a balance between adoration and terror in their behavior toward their master.
+
+KOBOLD SCALE SORCERER
+Small Humanoid, Any Alignment
+
+Armor Class 15 (natural armor)
+
+Hit Points 27 (5d6 + 10)
+
+Speed 30 ft.
+
+STR
+7 (−2)
+DEX
+15 (+2)
+CON
+14 (+2)
+INT
+10 (+0)
+WIS
+9 (−1)
+CHA
+14 (+2)
+Skills Arcana +2, Medicine +1
+
+Senses darkvision 60 ft., passive Perception 9
+
+Languages Common, Draconic
+
+Challenge 1 (200 XP) Proficiency Bonus +2
+
+Pack Tactics. The kobold has advantage on an attack roll against a creature if at least one of the kobold’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+
+Sunlight Sensitivity. While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
+Actions
+
+Multiattack. The kobold makes two Dagger or Chromatic Bolt attacks. It can replace one attack with a use of Spellcasting.
+
+Dagger. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+
+Chromatic Bolt. Ranged Spell Attack: +4 to hit, range 60 feet, one target. Hit: 9 (2d6 + 2) of a type of the kobold’s choice: acid, cold, fire, lightning, poison, or thunder.
+
+Spellcasting. The kobold casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 12):
+
+At will: mage hand, prestidigitation
+
+2/day each: charm person, fog cloud, levitate
+
+
+Korred
+Korreds are unpredictable, secretive Fey with strong ties to earth and stone. Because of their magical hair and mystical understanding of minerals, they are sought after by treasure-hunting dwarves and others who desire wealth beneath the earth.
+
+Korreds prefer to keep their own company but occasionally consort with creatures of elemental earth such as galeb duhr (see the Monster Manual). They often gather with other korreds to perform ceremonial dances, beating out rhythms on stone with their hooves and clubs. In the depths of the Material Plane, korreds typically flee from other creatures, but they become aggressive when they feel insulted or are annoyed by the sounds of mining.
+
+Korreds can hurl boulders far larger than it seems they should be able to, shape stone as though it were clay, and swim through rock. They also gain supernatural strength just from standing on the ground.
+
+Magical Hair
+Korreds have hair all over their bodies, but the hair that grows from their heads is magical. When cut, it transforms into whatever material was used to cut it. Korreds use iron shears to cut lengths of this magical hair, then twist the strands together to create iron ropes that they can manipulate, animating them to bind or snake around creatures and objects. Korreds take great pride in their hair and equally great offense at anyone who attempts to cut it without permission.
+
+KORRED
+Small Fey, Typically Chaotic Neutral
+
+Armor Class 17 (natural armor)
+
+Hit Points 93 (11d6 + 55)
+
+Speed 30 ft., burrow 30 ft.
+
+STR
+23 (+6)
+DEX
+14 (+2)
+CON
+20 (+5)
+INT
+10 (+0)
+WIS
+15 (+2)
+CHA
+9 (−1)
+Skills Athletics +9, Perception +5, Stealth +5
+
+Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks
+
+Senses darkvision 120 ft., tremorsense 120 ft., passive Perception 15
+
+Languages Dwarvish, Gnomish, Sylvan, Terran, Undercommon
+
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+
+Stone Camouflage. The korred has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+
+Actions
+
+Multiattack. The korred makes two Greatclub or Rock attacks.
+
+Greatclub. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) bludgeoning damage, or 19 (3d8 + 6) bludgeoning damage if the korred is on the ground.
+
+Rock. Ranged Weapon Attack: +9 to hit, range 60/120 ft., one target. Hit: 10 (1d8 + 6) bludgeoning damage, or 19 (3d8 + 6) bludgeoning damage if the korred is on the ground.
+
+Spellcasting. The korred casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 13):
+
+At will: commune with nature (as an action), meld into stone, stone shape
+
+1/day: Otto’s irresistible dance
+
+Bonus Actions
+
+Command Hair. The korred has at least one 50-foot-long rope woven out of its hair. The korred commands one such rope within 30 feet of it to move up to 20 feet and entangle a Large or smaller creature that the korred can see. The target must succeed on a DC 13 Dexterity saving throw or become grappled by the rope (escape DC 13). Until this grapple ends, the target is restrained. The korred can use a bonus action to release the target, which is also freed if the korred dies or becomes incapacitated.
+
+A rope of korred hair has AC 20 and 20 hit points. It regains 1 hit point at the start of each of the korred’s turns while the rope has at least 1 hit point and the korred is alive. If the rope drops to 0 hit points, it is destroyed.
+
+
+Kraken Priest
+A kraken can seem godlike to folk who have faced its fury. Those who mistake its might for divine power and those who seek to appease the monster through veneration are sometimes rewarded with power, to serve thereafter as kraken priests.
+
+Every kraken priest undergoes a change in appearance that reflects the kraken’s influence, although each one differs in how their reverence is displayed. One kraken priest might have ink-black eyes and a suckered tentacle for a tongue, while another has a featureless face and a body covered in eyes and mouths that dribble seawater. These horrific manifestations intensify when the kraken possesses its minion to utter dire pronouncements.
+
+KRAKEN PRIEST
+Medium Monstrosity, Typically Chaotic Evil
+
+Armor Class 15 (natural armor)
+
+Hit Points 75 (10d8 + 30)
+
+Speed 30 ft., swim 30 ft.
+
+STR
+12 (+1)
+DEX
+10 (+0)
+CON
+16 (+3)
+INT
+10 (+0)
+WIS
+15 (+2)
+CHA
+14 (+2)
+Skills Perception +5
+
+Senses passive Perception 15
+
+Languages any two languages
+
+Challenge 5 (1,800 XP) Proficiency Bonus +3
+
+Amphibious. The priest can breathe air and water.
+
+Actions
+
+Multiattack. The priest makes two Thunderous Touch or Thunder­bolt attacks.
+
+Thunderous Touch. Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 27 (5d10) thunder damage.
+
+Thunderbolt. Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 11 (2d10) lightning damage plus 11 (2d10) thunder damage, and the target is knocked prone.
+
+Spellcasting. The priest casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 13):
+
+At will: command, create or destroy water
+
+3/day each: control water, darkness, water breathing, water walk
+
+1/day: Evard’s black tentacles
+
+Voice of the Kraken (Recharges after a Short or Long Rest). A kraken speaks through the priest with a thunderous voice audible within 300 feet. Creatures of the priest’s choice that can hear the kraken’s words (which are spoken in Abyssal, Infernal, or Primordial) must succeed on a DC 14 Wisdom saving throw or be frightened of the priest for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+
+Kruthiks
+Kruthiks are chitin-covered reptiles that hunt in packs and nest in sprawling subterranean warrens. They are attracted to sources of heat, such as dwarven forges and pools of molten lava, and carve out lairs as close to such locations as possible. As they burrow through the earth, they leave behind tunnels—evidence that is often the first clue to the nearby presence of a kruthik hive. Kruthiks also make use of preexisting underground chambers, incorporating them into their lairs when they can.
+
+
+Kruthiks communicate with one another through a series of hisses and chittering noises. These sounds can often be heard in advance of a kruthik attack. Whenever their lair is invaded, kruthik guards send out an alarm by rapidly tapping the stone floor with their sharp legs.
+
+In addition to having an acute sense of smell, kruthiks can see in the dark and can detect vibrations in the earth around them. They take the scent of their own dead as a warning and avoid areas where many other kruthiks have died. Slaying a sufficient number of kruthiks in one area might cause the remaining hive members to move elsewhere.
+
+Although they can feed on carrion, kruthiks prefer live prey. They kill enemies by impaling them on their spiked limbs, then grind up the flesh and bones with mandibles strong enough to chew rock. When several kruthiks gang up on a single foe, they become frenzied and even more lethal.
+
+Imagine a hive of ants the size of horses, but the ants are wearing armor.
+
+—Mordenkainen
+
+Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and they use such creatures to help guard their hive. They are smart enough to barricade some tunnels and dig new ones that keep their neighbors away from their eggs.
+
+Young Kruthik
+Kruthiks hatch from eggs laid by female adults. Each egg is about the size of an adult human’s head and hatches within a month. Tiny kruthik hatchlings are harmless and rarely stray far from the nest. They feed primarily on offal and one another. Within a month, the survivors become young kruthiks large enough to hunt and defend themselves.
+
+YOUNG KRUTHIK
+Small Monstrosity, Unaligned
+
+Armor Class 16 (natural armor)
+
+Hit Points 9 (2d6 + 2)
+
+Speed 30 ft., burrow 10 ft., climb 30 ft.
+
+STR
+13 (+1)
+DEX
+16 (+3)
+CON
+13 (+1)
+INT
+4 (−3)
+WIS
+10 (+0)
+CHA
+6 (−2)
+Skills Perception +4
+
+Senses darkvision 30 ft., tremorsense 60 ft., passive Perception 14
+
+Languages Kruthik
+
+Challenge 1/8 (25 XP) Proficiency Bonus +2
+
+Pack Tactics. The kruthik has advantage on an attack roll against a creature if at least one of the kruthik’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+
+Tunneler. The kruthik can burrow through solid rock at half its burrowing speed and leaves a 2½-foot-diameter tunnel in its wake.
+
+Actions
+
+Stab. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
+
+
+Adult Kruthik
+It takes six months of steady eating for a young kruthik to reach adult size. The natural life span of an adult kruthik is roughly seven years.
+
+Adult kruthiks grow spiky protrusions on their legs and can fling these dagger-sized spikes at enemies beyond the reach of their claws.
+
+ADULT KRUTHIK
+Medium Monstrosity, Unaligned
+
+Armor Class 18 (natural armor)
+
+Hit Points 39 (6d8 + 12)
+
+Speed 40 ft., burrow 20 ft., climb 40 ft.
+
+STR
+15 (+2)
+DEX
+16 (+3)
+CON
+15 (+2)
+INT
+7 (−2)
+WIS
+12 (+1)
+CHA
+8 (−1)
+Skills Perception +5
+
+Senses darkvision 60 ft., tremorsense 60 ft., passive Perception 15
+
+Languages Kruthik
+
+Challenge 2 (450 XP) Proficiency Bonus +2
+
+Pack Tactics. The kruthik has advantage on an attack roll against a creature if at least one of the kruthik’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+
+Tunneler. The kruthik can burrow through solid rock at half its burrowing speed and leaves a 5-foot-diameter tunnel in its wake.
+
+Actions
+
+Multiattack. The kruthik makes two Stab or Spike attacks.
+
+Stab. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+
+Spike. Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
+
+Kruthik Hive Lord
+A hive lord rules each kruthik hive. When the hive lord dies, the surviving members of the hive abandon their lair and search for a new one. When a suitable location is found, the largest kruthik in the hive undergoes a metamorphosis, forming a cocoon around itself and emerging several weeks later as a hive lord—a bigger and smarter kruthik with the ability to spray digestive acid from its maw. The hive lord claims the largest chamber of the lair and keeps several adult kruthiks nearby as bodyguards.
+
+Other creatures that abide in hives serve a purpose in the natural world. Bees pollinate flowers. Termites make earth out of wood. Kruthiks, by contrast, slay societies.
+
+—Mordenkainen
+
+KRUTHIK HIVE LORD
+Large Monstrosity, Unaligned
+
+Armor Class 20 (natural armor)
+
+Hit Points 102 (12d10 + 36)
+
+Speed 40 ft., burrow 20 ft., climb 40 ft.
+
+STR
+19 (+4)
+DEX
+16 (+3)
+CON
+17 (+3)
+INT
+10 (+0)
+WIS
+14 (+2)
+CHA
+10 (+0)
+Skills Perception +8
+
+Senses darkvision 60 ft., tremorsense 60 ft., passive Perception 18
+
+Languages Kruthik
+
+Challenge 5 (1,800 XP) Proficiency Bonus +3
+
+Pack Tactics. The kruthik has advantage on an attack roll against a creature if at least one of the kruthik’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+
+Tunneler. The kruthik can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake.
+
+Actions
+
+Multiattack. The kruthik makes two Stab or Spike attacks.
+
+Stab. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
+
+Spike. Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+
+Acid Spray (Recharge 5–6). The kruthik sprays acid in a 15-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw, taking 22 (4d10) acid damage on a failed save, or half as much damage on a successful one.

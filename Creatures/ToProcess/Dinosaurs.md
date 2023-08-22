@@ -40,9 +40,9 @@ This massive four-legged dinosaur is large enough that most predators leave it a
 >
 >
 >#### Actions
->***Stomp.***. Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 27 (5d8 + 5) bludgeoning damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone.
+>***Stomp.*** Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 27 (5d8 + 5) bludgeoning damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone.
 >
->***Tail.***. Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 32 (6d8 + 5) bludgeoning damage.
+>***Tail.*** Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 32 (6d8 + 5) bludgeoning damage.
 >
 
 ---
@@ -81,16 +81,16 @@ This larger cousin of the velociraptor kills by gripping its target with its cla
 >
 >
 >
->***Pounce.***. If the deinonychus moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the deinonychus can make one bite attack against it as a bonus action.
+>***Pounce.*** If the deinonychus moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the deinonychus can make one bite attack against it as a bonus action.
 >
 >
 >
 >#### Actions
->***Multiattack.***. The deinonychus makes three attacks: one with its bite and two with its claws.
+>***Multiattack.*** The deinonychus makes three attacks: one with its bite and two with its claws.
 >
->***Bite.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+>***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 >
->***Claw.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage.
+>***Claw.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage.
 >
 
 ---
@@ -130,7 +130,7 @@ This sail-backed reptile is commonly found in areas where dinosaurs live. It hun
 >
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) piercing damage.
+>***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) piercing damage.
 >
 
 ---
@@ -170,7 +170,7 @@ A hadrosaurus is a semi-quadrupedal herbivore recognizable by its bony head cres
 >
 >
 >#### Actions
->***Tail.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) bludgeoning damage.
+>***Tail.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) bludgeoning damage.
 >
 
 ---
@@ -209,16 +209,16 @@ This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although
 >
 >
 >
->***Dive Attack.***. If the quetzalcoatlus is flying and dives at least 30 feet toward a target and then hits with a bite attack, the attack deals an extra 10 (3d6) damage to the target.
+>***Dive Attack.*** If the quetzalcoatlus is flying and dives at least 30 feet toward a target and then hits with a bite attack, the attack deals an extra 10 (3d6) damage to the target.
 >
 >
 >
->***Flyby.***. The quetzalcoatlus doesn't provoke an opportunity attack when it flies out of an enemy's reach.
+>***Flyby.*** The quetzalcoatlus doesn't provoke an opportunity attack when it flies out of an enemy's reach.
 >
 >
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +4 to hit, reach 10 ft., one creature. Hit: 12 (3d6 + 2) piercing damage.
+>***Bite.*** Melee Weapon Attack: +4 to hit, reach 10 ft., one creature. Hit: 12 (3d6 + 2) piercing damage.
 >
 
 ---
@@ -256,7 +256,7 @@ This heavily built dinosaur has rows of plates on its back and a flexible, spike
 >
 >
 >#### Actions
->***Tail.***. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 26 (6d6 + 5) piercing damage.
+>***Tail.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 26 (6d6 + 5) piercing damage.
 >
 
 ---
@@ -295,15 +295,15 @@ This feathered dinosaur is about the size of a large turkey. It is an aggressive
 >
 >
 >
->***Pack Tactics.***. The velociraptor has advantage on an attack roll against a creature if at least one of the velociraptor's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>***Pack Tactics.*** The velociraptor has advantage on an attack roll against a creature if at least one of the velociraptor's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 >
 >
 >#### Actions
->***Multiattack.***. The velociraptor makes two attacks: one with its bite and one with its claws.
+>***Multiattack.*** The velociraptor makes two attacks: one with its bite and one with its claws.
 >
->***Bite.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage.
+>***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage.
 >
->***Claws.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.
+>***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.
 >
 

@@ -131,20 +131,20 @@ Barbed devils are known for an alertness that makes them difficult to surprise, 
 >___
 >***Summon Devil (1/Day).*** The devil chooses what to summon and attempts a magical summoning. A barbed devil has a 30 percent chance of summoning one barbed devil. A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 >
->***Barbed Hide.***. At the start of each of its turns, the barbed devil deals 5 (1d10) piercing damage to any creature grappling it.
+>***Barbed Hide.*** At the start of each of its turns, the barbed devil deals 5 (1d10) piercing damage to any creature grappling it.
 >
->***Devil's Sight.***. Magical darkness doesn't impede the devil's darkvision.
+>***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
 >
->***Magic Resistance.***. The devil has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
->***Multiattack.***. The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.
+>***Multiattack.*** The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.
 >
->***Claw.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+>***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 >
->***Tail.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
+>***Tail.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
 >
->***Hurl Flame.***. Ranged Spell Attack: +5 to hit, range 150 ft., one target. Hit: 10 (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+>***Hurl Flame.*** Ranged Spell Attack: +5 to hit, range 150 ft., one target. Hit: 10 (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
 >
 
 ---
@@ -201,9 +201,9 @@ VARIANT: BONE DEVIL POLEARM
 
 Some bone devils have the following action options.
 
-***Multiattack.***. The devil makes two attacks: one with its hooked polearm and one with its sting.
+***Multiattack.*** The devil makes two attacks: one with its hooked polearm and one with its sting.
 
-***Hooked Polearm.***. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 17 (2d12 + 4) piercing damage. If the target is a Huge or smaller creature, it is grappled (escape DC 14). Until this grapple ends, the devil can't use its polearm on another target.
+***Hooked Polearm.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 17 (2d12 + 4) piercing damage. If the target is a Huge or smaller creature, it is grappled (escape DC 14). Until this grapple ends, the devil can't use its polearm on another target.
 
 >### Bone Devil
 >*Large fiend (devil), lawful evil*
@@ -230,16 +230,16 @@ Some bone devils have the following action options.
 >___
 >***Summon Devil (1/Day).*** The devil chooses what to summon and attempts a magical summoning. A bone devil has a 40 percent chance of summoning 2d6 spined devils or one bone devil. A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 >
->***Devil's Sight.***. Magical darkness doesn't impede the devil's darkvision.
+>***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
 >
->***Magic Resistance.***. The devil has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
->***Multiattack.***. The devil makes three attacks: two with its claws and one with its sting.
+>***Multiattack.*** The devil makes three attacks: two with its claws and one with its sting.
 >
->***Claw.***. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
+>***Claw.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
 >
->***Sting.***. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>***Sting.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
 
 ---
@@ -293,10 +293,6 @@ Chain devils act as sadistic jailers and torturers in the infernal realms, relis
 ## Erinyes
 The most beautiful and striking of all lesser and greater devils, the erinyes are fierce and disciplined warriors. Sweeping down from the skies, they bring swift death to creatures that have wronged their masters or defied the edicts of Asmodeus. The erinyes appear as male or female humanoids with statuesque builds and large feathery wings. Most wear stylized armor and horned helms, and carry exquisite swords and bows. A few also use ropes of entanglement to ensnare powerful foes.
 
-VARIANT: ROPE OF ENTANGLEMENT
-
-Some erinyes carry a rope of entanglement (detailed in the Dungeon Master's Guide). When such an erinyes uses its Multiattack, the erinyes can use the rope in place of two of the attacks.
-
 Legends tell that the first erinyes were angels that fell from the Upper Planes because of temptation or misdeed. Erinyes are always willing to take advantage of being mistaken for celestials in their missions of conquest and corruption.
 
 >### Erinyes
@@ -335,6 +331,8 @@ Legends tell that the first erinyes were angels that fell from the Upper Planes 
 >
 >***Longbow.*** Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the lesser restoration spell or similar magic.
 >
+>***Rope of Entanglement.*** >Some erinyes carry a rope of entanglement (detailed in the Dungeon Master's Guide). When such an erinyes uses its Multiattack, the erinyes can use the rope in place of two of the attacks.
+>
 >#### Reactions
 >***Parry.*** The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
 >
@@ -359,48 +357,31 @@ A malebranche stands as tall as an ogre and is sheathed in scales as tough as ir
 >
 >___
 >- **Proficiency Bonus** +0
->- **Saving Throws** 
+>- **Saving Throws** Str +10, Dex +7, Wis +7, Cha +7
 >- **Damage Vulnerabilities** 
->- **Damage Resistances** 
->- **Damage Immunities** 
->- **Condition Immunities** 
+>- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities** fire, poison
+>- **Condition Immunities** poisoned
 >- **Skills** 
->- **Senses** 
->- **Languages** 
->- **Challenge** 0
+>- **Senses** darkvision 120 ft., passive Perception 13
+>- **Languages** Infernal, telepathy 120 ft.
+>- **Challenge** 11
 >___
+>***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
+>
+>***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
+>
+>***Summon Devil (1/Day).*** The devil chooses what to summon and attempts a magical summoning. A horned devil has a 30 percent chance of summoning one horned devil. A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
+>
 >#### Actions
-
-***Summon Devil (1/Day).*** The devil chooses what to summon and attempts a magical summoning. A horned devil has a 30 percent chance of summoning one horned devil. A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
-
-Saving Throws Str +10, Dex +7, Wis +7, Cha +7
-
-Damage Resistances cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-
-Damage Immunities fire, poison
-
-Condition Immunities poisoned
-
-Senses darkvision 120 ft., passive Perception 13
-
-Languages Infernal, telepathy 120 ft.
-
-Challenge 11 (7,200 XP)
-
-Devil's Sight. Magical darkness doesn't impede the devil's darkvision.
-
-Magic Resistance. The devil has advantage on saving throws against spells and other magical effects.
-
-Actions
-
-Multiattack. The devil makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.
-
-Fork. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 15 (2d8 + 6) piercing damage.
-
-Tail. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 10 (1d8 + 6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
-
-Hurl Flame. Ranged Spell Attack: +7 to hit, range 150 ft., one target. Hit: 14 (4d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
-
+>***Multiattack.*** The devil makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.
+>
+>***Fork.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 15 (2d8 + 6) piercing damage.
+>
+>***Tail.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 10 (1d8 + 6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
+>
+>***Hurl Flame.*** Ranged Spell Attack: +7 to hit, range 150 ft., one target. Hit: 14 (4d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+>
 
 ---
 
@@ -408,14 +389,6 @@ Hurl Flame. Ranged Spell Attack: +7 to hit, range 150 ft., one target. Hit: 14 (
 Found most commonly on the cold layers of Stygia and Cania, ice devils serve as commanders of the infernal armies of the Nine Hells, tormenting lesser devils as an outlet for their anger and resentment. Coveting the power of their pit fiend superiors, ice devils work ceaselessly toward promotion, slaughtering the enemies of the Nine Hells and claiming as many souls as they can for their archdevil masters.
 
 Resembling a giant bipedal insect, an ice devil has clawed hands and feet, powerful mandibles, and a long tail covered in razor-sharp spikes. Some carry barbed spears whose icy touch can render a foe all but helpless in combat.
-
-VARIANT: ICE DEVIL SPEAR
-
-Some ice devils have the following action options.
-
-***Multiattack.***. The devil makes two attacks: one with its spear and one with its tail.
-
-***Ice Spear.***. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) piercing damage plus 10 (3d6) cold damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw, or for 1 minute, its speed is reduced by 10 feet; it can take either an action or a bonus action on each of its turns, not both; and it can't take reactions. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 >### Ice Devil
 >*Large fiend (devil), lawful evil*
@@ -430,53 +403,38 @@ Some ice devils have the following action options.
 >
 >___
 >- **Proficiency Bonus** +0
->- **Saving Throws** 
+>- **Saving Throws** Dex +7, Con +9, Wis +7, Cha +9
 >- **Damage Vulnerabilities** 
->- **Damage Resistances** 
->- **Damage Immunities** 
->- **Condition Immunities** 
+>- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities** cold, fire, poison
+>- **Condition Immunities** poisoned
 >- **Skills** 
->- **Senses** 
->- **Languages** 
->- **Challenge** 0
+>- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 12
+>- **Languages** Infernal, telepathy 120 ft.
+>- **Challenge** 14
 >___
+>***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
+>
+>***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
+>
+>***Summon Devil (1/Day).*** The devil chooses what to summon and attempts a magical summoning. An ice devil has a 60 percent chance of summoning one ice devil. A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
+>
 >#### Actions
-
-***Summon Devil (1/Day).*** The devil chooses what to summon and attempts a magical summoning. An ice devil has a 60 percent chance of summoning one ice devil. A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
-
-Saving Throws Dex +7, Con +9, Wis +7, Cha +9
-
-Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-
-Damage Immunities cold, fire, poison
-
-Condition Immunities poisoned
-
-Senses blindsight 60 ft., darkvision 120 ft., passive Perception 12
-
-Languages Infernal, telepathy 120 ft.
-
-Challenge 14 (11,500 XP)
-
-Devil's Sight. Magical darkness doesn't impede the devil's darkvision.
-
-Magic Resistance. The devil has advantage on saving throws against spells and other magical effects.
-
-Actions
-
-Multiattack. The devil makes three attacks: one with its bite, one with its claws, and one with its tail.
-
-Bite. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) piercing damage plus 10 (3d6) cold damage.
-
-Claws. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 10 (2d4 + 5) slashing damage plus 10 (3d6) cold damage.
-
-Tail. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.
-
-Wall of Ice (Recharge 6). The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.
-
-When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a DC 17 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one.
-
-The wall lasts for 1 minute or until the devil is incapacitated or dies. The wall can be damaged and breached; each 10-foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (5d6) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.
+>***Multiattack.*** The devil makes three attacks: one with its bite, one with its claws, and one with its tail; or the devil makes two attacks: one with its spear and one with its tail.
+>
+>***Ice Spear.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) piercing damage plus 10 (3d6) cold damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw, or for 1 minute, its speed is reduced by 10 feet; it can take either an action or a bonus action on each of its turns, not both; and it can't take reactions. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>
+>***Bite.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) piercing damage plus 10 (3d6) cold damage.
+>
+>***Claws.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 10 (2d4 + 5) slashing damage plus 10 (3d6) cold damage.
+>
+>***Tail.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.
+>
+>***Wall of Ice (Recharge 6).*** The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.
+>
+>When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a DC 17 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one.
+>
+>The wall lasts for 1 minute or until the devil is incapacitated or dies. The wall can be damaged and breached; each 10-foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (5d6) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.
 
 ---
 
@@ -489,7 +447,7 @@ VARIANT: IMP FAMILIAR
 
 Imps can be found in the service to mortal spellcasters, acting as advisors, spies, and familiars. An imp urges its master to acts of evil, knowing the mortal's soul is a prize the imp might ultimately claim. Imps display an unusual loyalty to their masters, and an imp can be quite dangerous if its master is threatened. Some such imps have the following trait.
 
-***Familiar.***. The imp can enter into a contract to serve another creature as a familiar, forming a telepathic bond with its willing master. While the two are bonded, the master can sense what the imp senses as long as they are within 1 mile of each other. While the imp is within 10 feet of its master, the master shares the imp's Magic Resistance trait. If its master violates the terms of the contract, the imp can end its service as a familiar, ending the telepathic bond.
+***Familiar.*** The imp can enter into a contract to serve another creature as a familiar, forming a telepathic bond with its willing master. While the two are bonded, the master can sense what the imp senses as long as they are within 1 mile of each other. While the imp is within 10 feet of its master, the master shares the imp's Magic Resistance trait. If its master violates the terms of the contract, the imp can end its service as a familiar, ending the telepathic bond.
 
 >### Imp
 >*Tiny fiend (devil;shapechanger), lawful evil*
@@ -514,16 +472,16 @@ Imps can be found in the service to mortal spellcasters, acting as advisors, spi
 >- **Languages** Infernal,Common
 >- **Challenge** 1
 >___
->***Shapechanger.***. The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+>***Shapechanger.*** The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 >
->***Devil's Sight.***. Magical darkness doesn't impede the imp's darkvision.
+>***Devil's Sight.*** Magical darkness doesn't impede the imp's darkvision.
 >
->***Magic Resistance.***. The imp has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The imp has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
->***Sting (Bite in Beast Form).***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+>***Sting (Bite in Beast Form).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 >
->***Invisibility.***. The imp magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it.
+>***Invisibility.*** The imp magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it.
 >
 
 ---
@@ -548,35 +506,21 @@ A lemure resembles a molten mass of flesh with a vaguely humanoid head and torso
 >- **Proficiency Bonus** +0
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
->- **Damage Resistances** 
->- **Damage Immunities** 
->- **Condition Immunities** 
+>- **Damage Resistances** cold
+>- **Damage Immunities** fire, poison
+>- **Condition Immunities** charmed, frightened, poisoned
 >- **Skills** 
->- **Senses** 
->- **Languages** 
+>- **Senses** darkvision 120 ft., passive Perception 10
+>- **Languages** understands Infernal but can't speak
 >- **Challenge** 0
 >___
+>***Devil's Sight.*** Magical darkness doesn't impede the lemure's darkvision.
+>
+>***Hellish Rejuvenation.*** A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water.
+>
 >#### Actions
-
-Damage Resistances cold
-
-Damage Immunities fire, poison
-
-Condition Immunities charmed, frightened, poisoned
-
-Senses darkvision 120 ft., passive Perception 10
-
-Languages understands Infernal but can't speak
-
-Challenge 0 (10 XP)
-
-Devil's Sight. Magical darkness doesn't impede the lemure's darkvision.
-
-Hellish Rejuvenation. A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water.
-
-Actions
-
-Fist. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
+>***Fist.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
+>
 
 ---
 
@@ -600,57 +544,41 @@ A pit fiend is a hulking monster with a whip-like tail and enormous wings that i
 >
 >___
 >- **Proficiency Bonus** +0
->- **Saving Throws** 
+>- **Saving Throws** Dex +8, Con +13, Wis +10
 >- **Damage Vulnerabilities** 
->- **Damage Resistances** 
->- **Damage Immunities** 
->- **Condition Immunities** 
+>- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities** fire, poison
+>- **Condition Immunities** poisoned
 >- **Skills** 
->- **Senses** 
->- **Languages** 
->- **Challenge** 0
+>- **Senses** truesight 120 ft., passive Perception 14
+>- **Languages** Infernal, telepathy 120 ft.
+>- **Challenge** 20
 >___
+>***Fear Aura.*** Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
+>
+>***Magic Resistance.*** The pit fiend has advantage on saving throws against spells and other magical effects.
+>
+>***Magic Weapons.*** The pit fiend's weapon attacks are magical.
+>
+>***Innate Spellcasting.*** The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:
+>
+>At will: detect magic, fireball
+>
+>3/day each: hold monster, wall of fire
+>
+>***Summon Devil (1/Day).*** The devil chooses what to summon and attempts a magical summoning. A pit fiend summons 2d4 bearded devils, 1d4 barbed devils, or one erinyes with no chance of failure. A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
+>
 >#### Actions
-
-***Summon Devil (1/Day).*** The devil chooses what to summon and attempts a magical summoning. A pit fiend summons 2d4 bearded devils, 1d4 barbed devils, or one erinyes with no chance of failure. A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
-
-Saving Throws Dex +8, Con +13, Wis +10
-
-Damage Resistances cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-
-Damage Immunities fire, poison
-
-Condition Immunities poisoned
-
-Senses truesight 120 ft., passive Perception 14
-
-Languages Infernal, telepathy 120 ft.
-
-Challenge 20 (25,000 XP)
-
-Fear Aura. Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
-
-Magic Resistance. The pit fiend has advantage on saving throws against spells and other magical effects.
-
-Magic Weapons. The pit fiend's weapon attacks are magical.
-
-Innate Spellcasting. The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:
-
-At will: detect magic, fireball
-
-3/day each: hold monster, wall of fire
-
-Actions
-
-Multiattack. The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
-
-Bite. Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-Claw. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) slashing damage.
-
-Mace. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.
-
-Tail. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 24 (3d10 + 8) bludgeoning damage.
+>***Multiattack.*** The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
+>
+>***Bite.*** Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>
+>***Claw.*** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) slashing damage.
+>
+>***Mace.*** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.
+>
+>***Tail.*** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 24 (3d10 + 8) bludgeoning damage.
+>
 
 ---
 
@@ -677,44 +605,29 @@ When not delivering messages or gathering intelligence, spined devils serve in t
 >- **Proficiency Bonus** +0
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
->- **Damage Resistances** 
->- **Damage Immunities** 
->- **Condition Immunities** 
+>- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities** fire, poison
+>- **Condition Immunities** poisoned
 >- **Skills** 
->- **Senses** 
->- **Languages** 
->- **Challenge** 0
+>- **Senses** darkvision 120 ft., passive Perception 12
+>- **Languages** Infernal, telepathy 120 ft.
+>- **Challenge** 2
 >___
+>***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
+>
+>***Flyby.*** The devil doesn't provoke an opportunity attack when it flies out of an enemy's reach.
+>
+>***Limited Spines.*** The devil has twelve tail spines. Used spines regrow by the time the devil finishes a long rest.
+>
+>***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
+>
 >#### Actions
-
-Damage Resistances cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-
-Damage Immunities fire, poison
-
-Condition Immunities poisoned
-
-Senses darkvision 120 ft., passive Perception 12
-
-Languages Infernal, telepathy 120 ft.
-
-Challenge 2 (450 XP)
-
-Devil's Sight. Magical darkness doesn't impede the devil's darkvision.
-
-Flyby. The devil doesn't provoke an opportunity attack when it flies out of an enemy's reach.
-
-Limited Spines. The devil has twelve tail spines. Used spines regrow by the time the devil finishes a long rest.
-
-Magic Resistance. The devil has advantage on saving throws against spells and other magical effects.
-
-Actions
-
-Multiattack. The devil makes two attacks: one with its bite and one with its fork or two with its tail spines.
-
-Bite. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4) slashing damage.
-
-Fork. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage.
-
-Tail Spine. Ranged Weapon Attack: +4 to hit, range 20/80 ft., one target. Hit: 4 (1d4 + 2) piercing damage plus 3 (1d6) fire damage.
+>***Multiattack.*** The devil makes two attacks: one with its bite and one with its fork or two with its tail spines.
+>
+>***Bite.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4) slashing damage.
+>
+>***Fork.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage.
+>
+>***Tail Spine.*** Ranged Weapon Attack: +4 to hit, range 20/80 ft., one target. Hit: 4 (1d4 + 2) piercing damage plus 3 (1d6) fire damage.
 
 

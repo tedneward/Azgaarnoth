@@ -8,11 +8,13 @@ Though their goals and ideals vary tremendously, all true dragons covet wealth, 
 True dragons pass through four distinct stages of life, from lowly wyrmlings to ancient dragons, which can live for over a thousand years. In that time, their might can become unrivaled and their hoards can grow beyond price.
 
 Dragon Age Categories
+
 Category	Size	Age Range
 Wyrmling	Medium	5 years or less
 Young	Large	6–100 years
 Adult	Huge	101–800 years
 Ancient	Gargantuan	801 years or more
+
 VARIANT: DRAGONS AS INNATE SPELLCASTERS
 
 Dragons are innately magical creatures that can master a few spells as they age, using this variant.
@@ -23,7 +25,6 @@ Chromatic Dragons
 The black, blue, green, red, and white dragons represent the evil side of dragonkind. Aggressive, gluttonous, and vain, chromatic dragons are dark sages and powerful tyrants feared by all creatures — including each other.
 
 Driven by Greed. Chromatic dragons lust after treasure, and this greed colors their every scheme and plot. They believe that the world's wealth belongs to them by right, and a chromatic dragon seizes that wealth without regard for the humanoids and other creatures that have "stolen” it. With its piles of coins, gleaming gems, and magic items, a dragon's hoard is the stuff of legend. However, chromatic dragons have no interest in commerce, amassing wealth for no other reason than to have it.
-
 
 Creatures of Ego. Chromatic dragons are united by their sense of superiority, believing themselves the most powerful and worthy of all mortal creatures. When they interact with other creatures, it is only to further their own interests. They believe in their innate right to rule, and this belief is the cornerstone of every chromatic dragon's personality and worldview. Trying to humble a chromatic dragon is like trying to convince the wind to stop blowing. To these creatures, humanoids are animals, fit to serve as prey or beasts of burden, and wholly unworthy of respect.
 
@@ -36,6 +37,8 @@ Queen of Evil Dragons. Tiamat the Dragon Queen is the chief deity of evil dragon
 Tiamat is a gigantic dragon whose five heads reflect the forms of the chromatic dragons that worship her — black, blue, green, red, and white. She is a terror on the battlefield, capable of annihilating whole armies with her five breath weapons, her formidable spellcasting, and her fearsome claws.
 
 Tiamat's most hated enemy is Bahamut the Platinum Dragon, with whom she shares control of the faith of dragonkind. She also holds a special enmity for Asmodeus, who long ago stripped her of the rule of Avernus and who continues to curb the Dragon Queen's power.
+
+---
 
 Black Dragon
 

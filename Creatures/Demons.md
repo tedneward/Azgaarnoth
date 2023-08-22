@@ -129,22 +129,22 @@ Wielding a flaming whip and a longsword that channels the power of the storm, a 
 >___
 >***Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning. A balor has a 50 percent chance of summoning 1d8 vrocks, 1d6 hezrous, 1d4 glabrezus, 1d3 nalfeshnees, 1d2 mariliths, or one goristro. A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 >
->***Death Throes.***. When the balor dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons.
+>***Death Throes.*** When the balor dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons.
 >
->***Fire Aura.***. At the start of each of the balor's turns, each creature within 5 feet of it takes 10 (3d6) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches the balor or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.
+>***Fire Aura.*** At the start of each of the balor's turns, each creature within 5 feet of it takes 10 (3d6) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches the balor or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.
 >
->***Magic Resistance.***. The balor has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The balor has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.***. The balor's weapon attacks are magical.
+>***Magic Weapons.*** The balor's weapon attacks are magical.
 >
 >#### Actions
->***Multiattack.***. The balor makes two attacks: one with its longsword and one with its whip.
+>***Multiattack.*** The balor makes two attacks: one with its longsword and one with its whip.
 >
->***Longsword.***. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If the balor scores a critical hit, it rolls damage dice three times, instead of twice.
+>***Longsword.*** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If the balor scores a critical hit, it rolls damage dice three times, instead of twice.
 >
->***Whip.***. Melee Weapon Attack: +14 to hit, reach 30 ft., one target. Hit: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward the balor.
+>***Whip.*** Melee Weapon Attack: +14 to hit, reach 30 ft., one target. Hit: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward the balor.
 >
->***Teleport.***. The balor magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+>***Teleport.*** The balor magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 >
 
 ---
@@ -179,22 +179,22 @@ A barlgura looks like a hulking orangutan with a gruesome, drooping visage and t
 >___
 >***Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning. A barlgura has a 30 percent chance of summoning one barlgura. A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 >
->***Innate Spellcasting.***. The barlgura's spellcasting ability is Wisdom (spell save DC 13). The barlgura can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The barlgura's spellcasting ability is Wisdom (spell save DC 13). The barlgura can innately cast the following spells, requiring no material components:
 >
 >1/day: entangle, phantasmal force
 >
 >2/day: disguise self, invisibility (self only)
 >
->***Reckless.***. At the start of its turn, the barlgura can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
+>***Reckless.*** At the start of its turn, the barlgura can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
 >
->***Running Leap.***. The barlgura's long jump is up to 40 feet and its high jump is up to 20 feet when it has a running start.
+>***Running Leap.*** The barlgura's long jump is up to 40 feet and its high jump is up to 20 feet when it has a running start.
 >
 >#### Actions
->***Multiattack.***. The barlgura makes three attacks: one with its bite and two with its fists.
+>***Multiattack.*** The barlgura makes three attacks: one with its bite and two with its fists.
 >
->***Bite.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
+>***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
 >
->***Fist.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) bludgeoning.
+>***Fist.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) bludgeoning.
 >
 
 ---
@@ -229,14 +229,14 @@ The lowly chasmes serve more powerful masters as interrogators or taskmasters. A
 >___
 >***Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning. A chasme has a 30 percent chance of summoning one chasme. A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 >
->***Drone.***. The chasme produces a horrid droning sound to which demons are immune. Any other creature that starts its turn within 30 feet of the chasme must succeed on a DC 12 Constitution saving throw or fall unconscious for 10 minutes. A creature that can't hear the drone automatically succeeds on the save. The effect on the creature ends if it takes damage or if another creature takes an action to splash it with holy water. If a creature's saving throw is successful or the effect ends for it, it is immune to the drone for the next 24 hours.
+>***Drone.*** The chasme produces a horrid droning sound to which demons are immune. Any other creature that starts its turn within 30 feet of the chasme must succeed on a DC 12 Constitution saving throw or fall unconscious for 10 minutes. A creature that can't hear the drone automatically succeeds on the save. The effect on the creature ends if it takes damage or if another creature takes an action to splash it with holy water. If a creature's saving throw is successful or the effect ends for it, it is immune to the drone for the next 24 hours.
 >
->***Magic Resistance.***. The chasme has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The chasme has advantage on saving throws against spells and other magical effects.
 >
->***Spider Climb.***. The chasme can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+>***Spider Climb.*** The chasme can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 >
 >#### Actions
->***Proboscis.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 16 (4d6 + 2) piercing damage plus 24 (7d6) necrotic damage, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. If this effect reduces a creature's hit point maximum to 0, the creature dies. This reduction to a creature's hit point maximum lasts until the creature finishes a long rest or until it is affected by a spell like greater restoration.
+>***Proboscis.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 16 (4d6 + 2) piercing damage plus 24 (7d6) necrotic damage, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. If this effect reduces a creature's hit point maximum to 0, the creature dies. This reduction to a creature's hit point maximum lasts until the creature finishes a long rest or until it is affected by a spell like greater restoration.
 >
 
 ---
@@ -308,20 +308,20 @@ Although glabrezus are devastating in combat, they prefer to tempt victims into 
 >___
 >***Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning. A glabrezu has a 30 percent chance of summoning 1d3 vrocks, 1d2 hezrous, or one glabrezu.
 >
->***Innate Spellcasting.***. The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:
 >
 >At will: darkness, detect magic, dispel magic
 >
 >1/day each: confusion, fly, power word stun
 >
->***Magic Resistance.***. The glabrezu has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The glabrezu has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
->***Multiattack.***. The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.
+>***Multiattack.*** The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.
 >
->***Pincer.***. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.
+>***Pincer.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.
 >
->***Fist.***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage.
+>***Fist.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage.
 >
 
 ---
@@ -354,22 +354,22 @@ A hulking goristro sometimes bears a palanquin, carrying smaller demons on its b
 >- **Languages** Abyssal
 >- **Challenge** 17
 >___
->***Charge.***. If the goristro moves at least 15 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 38 (7d10) piercing damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be pushed up to 20 feet away and knocked prone.
+>***Charge.*** If the goristro moves at least 15 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 38 (7d10) piercing damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be pushed up to 20 feet away and knocked prone.
 >
->***Labyrinthine Recall.***. The goristro can perfectly recall any path it has traveled.
+>***Labyrinthine Recall.*** The goristro can perfectly recall any path it has traveled.
 >
->***Magic Resistance.***. The goristro has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The goristro has advantage on saving throws against spells and other magical effects.
 >
->***Siege Monster.***. The goristro deals double damage to objects and structures.
+>***Siege Monster.*** The goristro deals double damage to objects and structures.
 >
 >#### Actions
->***Multiattack.***. The goristro makes three attacks: two with its fists and one with its hoof.
+>***Multiattack.*** The goristro makes three attacks: two with its fists and one with its hoof.
 >
->***Fist.***. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage.
+>***Fist.*** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage.
 >
->***Hoof.***. Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 23 (3d10 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be knocked prone.
+>***Hoof.*** Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 23 (3d10 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be knocked prone.
 >
->***Gore.***. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 45 (7d10 + 7) piercing damage.
+>***Gore.*** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 45 (7d10 + 7) piercing damage.
 >
 
 ---
@@ -402,16 +402,16 @@ Hezrous serve as foot soldiers in the demonic hordes of the Abyss. Although phys
 >___
 >***Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning. A hezrou has a 30 percent chance of summoning 2d6 dretches or one hezrou. A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 >
->***Magic Resistance.***. The hezrou has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The hezrou has advantage on saving throws against spells and other magical effects.
 >
->***Stench.***. Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
+>***Stench.*** Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
 >
 >#### Actions
->***Multiattack.***. The hezrou makes three attacks: one with its bite and two with its claws.
+>***Multiattack.*** The hezrou makes three attacks: one with its bite and two with its claws.
 >
->***Bite.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage.
+>***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage.
 >
->***Claw.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+>***Claw.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
 >
 
 ---
@@ -436,15 +436,17 @@ Orcus, the Prince of Undeath, has the power to transform manes into undead monst
 >- **Proficiency Bonus** +0
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
->- **Damage Resistances** 
->- **Damage Immunities** 
->- **Condition Immunities** 
+>- **Damage Resistances** cold, fire, lightning
+>- **Damage Immunities** poison
+>- **Condition Immunities** charmed, frightened, poisoned
 >- **Skills** 
->- **Senses** 
->- **Languages** 
->- **Challenge** 0
+>- **Senses** darkvision 60 ft., passive Perception 9
+>- **Languages** understands Abyssal but can't speak
+>- **Challenge** 1/8
 >___
 >#### Actions
+>***Claws.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4) slashing damage.
+>
 
 ---
 
@@ -478,22 +480,22 @@ Wielding a wicked blade in each of its six hands, a marilith is a devastating fo
 >___
 >***Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning. A marilith has a 50 percent chance of summoning 1d6 vrocks, 1d4 hezrous, 1d3 glabrezus, 1d2 nalfeshnees, or one marilith. A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 >
->***Magic Resistance.***. The marilith has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The marilith has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.***. The marilith's weapon attacks are magical.
+>***Magic Weapons.*** The marilith's weapon attacks are magical.
 >
->***Reactive.***. The marilith can take one reaction on every turn in a combat.
+>***Reactive.*** The marilith can take one reaction on every turn in a combat.
 >
 >#### Actions
->***Multiattack.***. The marilith makes seven attacks: six with its longswords and one with its tail.
+>***Multiattack.*** The marilith makes seven attacks: six with its longswords and one with its tail.
 >
->***Longsword.***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
+>***Longsword.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
 >
->***Tail.***. Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, the marilith can automatically hit the target with its tail, and the marilith can't make tail attacks against other targets.
+>***Tail.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, the marilith can automatically hit the target with its tail, and the marilith can't make tail attacks against other targets.
 >
->***Teleport.***. The marilith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+>***Teleport.*** The marilith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 >
->***Parry.***. The marilith adds 5 to its AC against one melee attack that would hit it. To do so, the marilith must see the attacker and be wielding a melee weapon.
+>***Parry.*** The marilith adds 5 to its AC against one melee attack that would hit it. To do so, the marilith must see the attacker and be wielding a melee weapon.
 >
 
 ---
@@ -530,30 +532,30 @@ Nalfeshnees feed on hatred and despair, but they crave humanoid flesh above all 
 >___
 >***Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning. A nalfeshnee has a 50 percent chance of summoning 1d4 vrocks, 1d3 hezrous, 1d2 glabrezus, or one nalfeshnee. A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 >
->***Magic Resistance.***. The nalfeshnee has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The nalfeshnee has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
->***Multiattack.***. The nalfeshnee uses Horror Nimbus if it can. It then makes three attacks: one with its bite and two with its claws.
+>***Multiattack.*** The nalfeshnee uses Horror Nimbus if it can. It then makes three attacks: one with its bite and two with its claws.
 >
->***Bite.***. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 32 (5d10 + 5) piercing damage.
+>***Bite.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 32 (5d10 + 5) piercing damage.
 >
->***Claw.***. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 15 (3d6 + 5) slashing damage.
+>***Claw.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 15 (3d6 + 5) slashing damage.
 >
->***Horror Nimbus (Recharge 5-6).***. The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours.
+>***Horror Nimbus (Recharge 5-6).*** The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours.
 >
->***Teleport.***. The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+>***Teleport.*** The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 >
 
 ---
 
 ## Quasit
-***Quasits infest the Lower Planes.***. Physically weak, they keep to the shadows to plot mischief and wickedness. More powerful demons use quasits as spies and messengers when they aren't devouring them or pulling them apart to pass the time.
+***Quasits infest the Lower Planes.*** Physically weak, they keep to the shadows to plot mischief and wickedness. More powerful demons use quasits as spies and messengers when they aren't devouring them or pulling them apart to pass the time.
 
 A quasit can assume animal forms, but in its true form it looks like a 2-foot-tall green humanoid with a barbed tail and horns. The quasit has clawed fingers and toes, and these claws can deliver an irritating poison. It prefers to be invisible when it attacks.
 
-***VARIANT: QUASIT FAMILIAR.***. Mortal spellcasters interested in extraplanar familiars find quasits easy to summon and eager to serve. The quasit plays the part of the obsequious servant. It serves its master well, but it goads the mortal to greater and greater acts of chaos and evil. Such quasits have the following trait.
+***VARIANT: QUASIT FAMILIAR.*** Mortal spellcasters interested in extraplanar familiars find quasits easy to summon and eager to serve. The quasit plays the part of the obsequious servant. It serves its master well, but it goads the mortal to greater and greater acts of chaos and evil. Such quasits have the following trait.
 
-***Familiar.***. The quasit can serve another creature as a familiar, forming a telepathic bond with its willing master. While the two are bonded, the master can sense what the quasit senses as long as they are within 1 mile of each other. While the quasit is within 10 feet of its master, the master shares the quasit's Magic Resistance trait. At any time and for any reason, the quasit can end its service as a familiar, ending the telepathic bond.
+***Familiar.*** The quasit can serve another creature as a familiar, forming a telepathic bond with its willing master. While the two are bonded, the master can sense what the quasit senses as long as they are within 1 mile of each other. While the quasit is within 10 feet of its master, the master shares the quasit's Magic Resistance trait. At any time and for any reason, the quasit can end its service as a familiar, ending the telepathic bond.
 
 >### Quasit
 >*Tiny fiend (demon;shapechanger), chaotic evil*
@@ -597,7 +599,7 @@ When a demon's body is destroyed but the fiend is prevented from reforming in th
 
 Shadow demons all but disappear in the darkness, and they can creep about without making a sound. A shadow demon uses its insubstantial claws to feast on its victim's fears, to taste its memories, and drink in its doubts. Bright light harries this fiend and shows its distinct shape, resolving it from a blur of darkness to a winged humanoid creature whose lower body trails off into nothing, and whose claws rend a victim's mind.
 
-***Shadowy Nature.***. A shadow demon doesn't require air, food, drink, or sleep.
+***Shadowy Nature.*** A shadow demon doesn't require air, food, drink, or sleep.
 
 >### Shadow Demon
 >*Medium fiend (demon), chaotic evil*
@@ -622,14 +624,14 @@ Shadow demons all but disappear in the darkness, and they can creep about withou
 >- **Languages** Abyssal,telepathy 120 ft.
 >- **Challenge** 4
 >___
->***Incorporeal Movement.***. The demon can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+>***Incorporeal Movement.*** The demon can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 >
->***Light Sensitivity.***. While in bright light, the demon has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Light Sensitivity.*** While in bright light, the demon has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
->***Shadow Stealth.***. While in dim light or darkness, the demon can take the Hide action as a bonus action.
+>***Shadow Stealth.*** While in dim light or darkness, the demon can take the Hide action as a bonus action.
 >
 >#### Actions
->***Claws.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) psychic damage or, if the demon had advantage on the attack roll, 17 (4d6 + 3) psychic damage.
+>***Claws.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) psychic damage or, if the demon had advantage on the attack roll, 17 (4d6 + 3) psychic damage.
 >
 
 ---
@@ -666,18 +668,18 @@ Coveting pretty things, vrocks turn against each other for the chance to lay cla
 >___
 >***Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning. A vrock has a 30 percent chance of summoning 2d4 dretches or one vrock. A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 >
->***Magic Resistance.***. The vrock has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The vrock has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
->***Multiattack.***. The vrock makes two attacks: one with its beak and one with its talons.
+>***Multiattack.*** The vrock makes two attacks: one with its beak and one with its talons.
 >
->***Beak.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
+>***Beak.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
 >
->***Talons.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) slashing damage.
+>***Talons.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) slashing damage.
 >
->***Spores (Recharge 6).***. A 15-foot-radius cloud of toxic spores extends out from the vrock. The spores spread around corners. Each creature in that area must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned in this way, a target takes 5 (1d10) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the target also ends the effect on it.
+>***Spores (Recharge 6).*** A 15-foot-radius cloud of toxic spores extends out from the vrock. The spores spread around corners. Each creature in that area must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned in this way, a target takes 5 (1d10) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the target also ends the effect on it.
 >
->***Stunning Screech (1/Day).***. The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a demon must succeed on a DC 14 Constitution saving throw or be stunned until the end of the vrock's next turn.
+>***Stunning Screech (1/Day).*** The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a demon must succeed on a DC 14 Constitution saving throw or be stunned until the end of the vrock's next turn.
 >
 
 ---
@@ -712,26 +714,26 @@ Outside the Abyss, a yochlol can assume the guise of a female drow or monstrous 
 >___
 >***Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning. A yochlol has a 50 percent chance of summoning one yochlol. A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 >
->***Shapechanger.***. The yochlol can use its action to polymorph into a form that resembles a female drow or giant spider, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+>***Shapechanger.*** The yochlol can use its action to polymorph into a form that resembles a female drow or giant spider, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 >
->***Magic Resistance.***. The yochlol has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The yochlol has advantage on saving throws against spells and other magical effects.
 >
->***Spider Climb.***. The yochlol can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+>***Spider Climb.*** The yochlol can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 >
->***Innate Spellcasting.***. The yochlol's spellcasting ability is Charisma (spell save DC 14). The yochlol can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The yochlol's spellcasting ability is Charisma (spell save DC 14). The yochlol can innately cast the following spells, requiring no material components:
 >
 >At will: detect thoughts, web
 >
 >1/day: dominate person
 >
->***Web Walker.***. The yochlol ignores movement restrictions caused by webbing.
+>***Web Walker.*** The yochlol ignores movement restrictions caused by webbing.
 >
 >#### Actions
->***Multiattack.***. The yochlol makes two melee attacks.
+>***Multiattack.*** The yochlol makes two melee attacks.
 >
->***Slam (Bite in Spider Form).***. Melee Weapon Attack: +6 to hit, reach 5 ft. (10 ft. in demon form), one target. Hit: 5 (1d6 + 2) bludgeoning (piercing in spider form) damage plus 21 (6d6) poison damage.
+>***Slam (Bite in Spider Form).*** Melee Weapon Attack: +6 to hit, reach 5 ft. (10 ft. in demon form), one target. Hit: 5 (1d6 + 2) bludgeoning (piercing in spider form) damage plus 21 (6d6) poison damage.
 >
->***Mist Form.***. The yochlol transforms into toxic mist or reverts to its true form. Any equipment it is wearing or carrying is also transformed. It reverts to its true form if it dies.
+>***Mist Form.*** The yochlol transforms into toxic mist or reverts to its true form. Any equipment it is wearing or carrying is also transformed. It reverts to its true form if it dies.
 >
 >While in mist form, the yochlol is incapacitated and can't speak. It has a flying speed of 30 feet, can hover, and can pass through any space that isn't airtight. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to nonmagical damage.
 >
@@ -768,18 +770,18 @@ A babau demon possesses the cunning of a devil and the bloodthirstiness of a dem
 >- **Languages** Abyssal
 >- **Challenge** 4
 >___
->***Innate Spellcasting.***. The babau's innate spellcasting ability is Wisdom (spell save DC 11). The babau can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The babau's innate spellcasting ability is Wisdom (spell save DC 11). The babau can innately cast the following spells, requiring no material components:
 >
 >At will: darkness, dispel magic, fear, heat metal, levitate
 >
 >#### Actions
->***Multiattack.***. The babau makes two melee attacks. It can also use Weakening Gaze before or after making these attacks.
+>***Multiattack.*** The babau makes two melee attacks. It can also use Weakening Gaze before or after making these attacks.
 >
->***Claw.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
+>***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
 >
->***Spear.***. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage when used with two hands to make a melee attack.
+>***Spear.*** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage when used with two hands to make a melee attack.
 >
->***Weakening Gaze.***. The babau targets one creature that it can see within 20 feet of it. The target must make a DC 13 Constitution saving throw. On a failed save, the target deals only half damage with weapon attacks that use Strength for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>***Weakening Gaze.*** The babau targets one creature that it can see within 20 feet of it. The target must make a DC 13 Constitution saving throw. On a failed save, the target deals only half damage with weapon attacks that use Strength for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
 
 ---
@@ -812,10 +814,10 @@ Maw demons appear among gnoll war bands, usually summoned as part of ritual offe
 >- **Languages** understands Abyssal but can't speak
 >- **Challenge** 1
 >___
->***Rampage.***. When it reduces a creature to 0 hit points with a melee attack on its turn, the maw demon can take a bonus action to move up to half its speed and make a bite attack.
+>***Rampage.*** When it reduces a creature to 0 hit points with a melee attack on its turn, the maw demon can take a bonus action to move up to half its speed and make a bite attack.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) piercing damage.
+>***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) piercing damage.
 >
 
 ---
@@ -848,12 +850,12 @@ Each shoosuva is bonded to a particular gnoll and fights alongside its master. A
 >- **Languages** Abyssal,Gnoll,telepathy 120 ft.
 >- **Challenge** 8
 >___
->***Rampage.***. When it reduces a creature to 0 hit points with a melee attack on its turn, the shoosuva can take a bonus action to move up to half its speed and make a bite attack.
+>***Rampage.*** When it reduces a creature to 0 hit points with a melee attack on its turn, the shoosuva can take a bonus action to move up to half its speed and make a bite attack.
 >
 >#### Actions
->***Multiattack.***. The shoosuva makes two attacks: one with its bite and one with its tail stinger.
+>***Multiattack.*** The shoosuva makes two attacks: one with its bite and one with its tail stinger.
 >
->***Bite.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 26 (4d10 + 4) piercing damage.
+>***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 26 (4d10 + 4) piercing damage.
 >
->***Tail Stinger.***. Melee Weapon Attack: +7 to hit, reach 15 ft., one creature. Hit: 13 (2d8 + 4) piercing damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned, the target is also paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>***Tail Stinger.*** Melee Weapon Attack: +7 to hit, reach 15 ft., one creature. Hit: 13 (2d8 + 4) piercing damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned, the target is also paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >

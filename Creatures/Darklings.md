@@ -36,12 +36,12 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. His true na
 >- **Languages** Elvish,Sylvan
 >- **Challenge** 1/2
 >___
->***Death Flash.***. When the darkling dies, nonmagical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area and able to see the bright light must succeed on a DC 10 Constitution saving throw or be blinded until the end of the creature's next turn.
+>***Death Flash.*** When the darkling dies, nonmagical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area and able to see the bright light must succeed on a DC 10 Constitution saving throw or be blinded until the end of the creature's next turn.
 >
->***Light Sensitivity.***. While in bright light, the darkling has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Light Sensitivity.*** While in bright light, the darkling has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Dagger.***. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage. If the darkling has advantage on the attack roll, the attack deals an extra 7 (2d6) piercing damage.
+>***Dagger.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage. If the darkling has advantage on the attack roll, the attack deals an extra 7 (2d6) piercing damage.
 >
 
 ---
@@ -71,12 +71,12 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. His true na
 >- **Languages** Elvish,Sylvan
 >- **Challenge** 2
 >___
->***Death Burn.***. When the darkling elder dies, magical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area must make a DC 11 Constitution saving throw. On a failure, the creature takes 7 (2d6) radiant damage and, if the creature can see the light, is blinded until the end of its next turn. If the saving throw is successful, the creature takes half the damage and isn't blinded.
+>***Death Burn.*** When the darkling elder dies, magical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area must make a DC 11 Constitution saving throw. On a failure, the creature takes 7 (2d6) radiant damage and, if the creature can see the light, is blinded until the end of its next turn. If the saving throw is successful, the creature takes half the damage and isn't blinded.
 >
 >#### Actions
->***Multiattack.***. The darkling elder makes two melee attacks.
+>***Multiattack.*** The darkling elder makes two melee attacks.
 >
->***Shortsword.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage. If the darkling elder had advantage on the attack roll, the attack deals an extra 10 (3d6) piercing damage.
+>***Shortsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage. If the darkling elder had advantage on the attack roll, the attack deals an extra 10 (3d6) piercing damage.
 >
 >***Darkness (Recharges after a Short or Long Rest).*** The darkling elder casts darkness without any components. Wisdom is its spellcasting ability.
 >

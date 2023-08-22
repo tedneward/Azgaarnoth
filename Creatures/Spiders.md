@@ -1,7 +1,7 @@
-# Spider
+# Spiders
 You know you hate them just as much as I do.
 
-> Jump to: [Spider](#spider-1) | [Giant Spider](#giant-spider) | [Giant Wolf Spider](#giant-wolf-spider) | [Phase Spider](#phase-spider) | [Swarm of Spiders]()
+> Jump to: [Spider](#spider) | [Giant Spider](#giant-spider) | [Giant Wolf Spider](#giant-wolf-spider) | [Phase Spider](#phase-spider) | [Swarm of Spiders](#swarm-of-spiders)
 
 ---
 
@@ -162,7 +162,7 @@ A phase spider possesses the magical ability to phase in and out of the Ethereal
 ## Swarm of Spiders
 The swarm presented here isn't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. Even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
 
->### Swarm of Insects
+>### Swarm of Spiders
 >*Medium swarm, unaligned*
 >___
 >- **Armor Class** 12 (natural armor)

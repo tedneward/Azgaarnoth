@@ -141,9 +141,9 @@ These creatures are found in various places across the map. Over time, all these
 
 ## K
 - [Kenku](Kenku.md)
-- [Kobolds](Kobolds.md): [Kobold](#kobold) | [Winged Kobold](#winged-kobold)
+- [Kobolds](Kobolds.md): [Kobold](Kobolds.md#kobold) | [Winged Kobold](Kobolds.md#winged-kobold) | [Dragonshield](Kobolds.md#kobold-dragonshield) | [Inventor](Kobolds.md#kobold-inventor) | [Scale Sorcerer](Kobolds.md#kobold-scale-sorcerer)
 - [Kraken](Kraken.md)
-- [Kuo-Toa](Kuo-Toa.md): [Kuo-Toa](#kuo-toa) | [Kuo-toa Archpriest](#kuo-toa-archpriest) | [Kuo-toa Monitor](#kuo-toa-monitor) | [Kuo-toa Whip](#kuo-toa-whip)
+- [Kuo-Toa](Kuo-Toa.md): [Kuo-Toa](Kuo-Toa.md#kuo-toa) | [Kuo-toa Archpriest](Kuo-Toa.md#kuo-toa-archpriest) | [Kuo-toa Monitor](Kuo-Toa.md#kuo-toa-monitor) | [Kuo-toa Whip](Kuo-Toa.md#kuo-toa-whip)
 
 ## L
 - [Lamia](Lamia.md)
@@ -196,7 +196,7 @@ These creatures are found in various places across the map. Over time, all these
 
 ## R
 - [Rakshasa](Rakshasa.md)
-- [Rats](Rats.md): 
+- [Rats](Rats.md): [Rat](#rat) | [Giant Rat](#giant-rat) | [Swarm of Rats](#swarm-of-rats) | [Withered Rat](#withered-rat)
 - [Remorhazes](Remorhazes.md): 
 - [Rhinoceros](Rhinoceros.md)
 - [Roper](Roper.md)
@@ -204,24 +204,24 @@ These creatures are found in various places across the map. Over time, all these
 
 ## S
 - [Saber-Toothed Tiger](Cats.md#saber-toothed-tiger)
-- [Sahuagin](Sahuagin.md):
+- [Sahuagin](Sahuagin.md): 
 - [Salamanders](Salamanders.md): 
 - [Satyr](Satyr.md)
 - [Scarecrow](Scarecrow.md)
-- [Scorpions](Scorpions.md):
-- [Sea Horse](SeaHorses.md):
+- [Scorpions](Scorpions.md): 
+- [Sea Horse](SeaHorses.md): 
 - [Shadow](Shadow.md)
 - [Shambling Mound](ShamblingMound.md)
-- [Sharks](Sharks.md):
+- [Sharks](Sharks.md): [Giant](Sharks.md#giant-shark) | [Hunter](Sharks.md#hunter-shark) | [Reef](Sharks.md#reef-shark)
 - [Simians](Simians.md): [Ape](Simians.md#ape) | [Baboon](Simians.md#baboon) | [Giant Ape](Simians.md#giant-ape)
 - [Skeletons](Skeletons.md): 
 - [Skull Lord](SkullLord.md)
-- [Slaadi](Slaadi.md): 
-- [Snakes](Snakes.md):
+- [Slaadi](Slaadi.md): [Slaad Tadpole](Slaadi.md#slaad-tadpole) | [Red Slaad](Slaadi.md#red-slaad) | [Blue Slaad](Slaadi.md#blue-slaad) | [Green Slaad](Slaadi.md#green-slaad) | [Brown Slaad](Slaadi.md#brown-slaad) | [Cyan Slaad](Slaadi.md#cyan-slaad) | [Indigo Slaad](Slaadi.md#indigo-slaad) | [Orange Slaad](Slaadi.md#orange-slaad) | [Gray Slaad](Slaadi.md#gray-slaad) | [Death Slaad](Slaadi.md#death-slaad)
+- [Snakes](Snakes.md): [Constrictor](Snakes.md#constrictor-snake) | [FLying](Snakes.md#flying-snake) | [Giant Constrictor](Snakes.md#giant-constrictor-snake) | [Giant Poisonous](Snakes.md#giant-poisonous-snake) | [Poisonous](Snakes.md#poisonous-snake) | [Swarm of Poisonous Snakes](Snakes.md#swarm-of-poisonous-snakes)
 - [Specter](Specter.md)
-- [Sphinxes](Sphinxes.md): 
-- [Spiders](Spiders.md):
-- [Spirits](Spirits.md):
+- [Sphinxes](Sphinxes.md): [Androsphinx](Sphinxes.md#Androsphinx) | [Gynosphinx](Sphinxes.md#Gynosphinx) | [Hieracosphinx](Sphinxes.md#hieracosphinx)
+- [Spiders](Spiders.md): [Spider](Spiders.md#spider) | [Giant Spider](Spiders.md#giant-spider) | [Giant Wolf Spider](Spiders.md#giant-wolf-spider) | [Phase Spider](Spiders.md#phase-spider) | [Swarm of Spiders](Spiders.md#swarm-of-spiders)
+- [Spirits](Spirits.md): [Aberrant](Spirits.md#aberrant-spirit) | [Celestial](Spirits.md#celestial-spirit) | [Construct](Spirits.md#construct-spirit) | [Draconic](Spirits.md#draconic-spirit) | [Elemental](Spirits.md#elemental-spirit) | [Fiendish](Spirits.md#fiendish-spirit) | [Reaper](Spirits.md#reaper-spirit) | [Shadow](Spirits.md#shadow-spirit) | [Warrior](Spirits.md#warrior-spirit) | [Wildfire](Spirits.md#wildfire-spirit)
 - [Sprite](Sprite.md)
 - [Stirge](Stirge.md)
 - [Succubus](Succubus.md)
@@ -229,23 +229,23 @@ These creatures are found in various places across the map. Over time, all these
 
 ## T
 - [Tarrasque](Tarrasque.md)
-- [Thri-kreen](Thri-Kreen.md): 
+- [Thri-kreen](Thri-Kreen.md): [Thri-kreen](Thri-Kreen.md#thri-kreen) | [Hive Warrior](Thri-Kreen.md#thri-kreen-hive-warrior) | [Psionicist](Thri-Kreen.md#thri-kreen-psionicist)
 - [Tiger](Cats.md#tiger)
 - [Treant](Treant.md)
 - [Troglodyte](Troglodyte.md)
-- [Trolls](Trolls.md):
+- [Trolls](Trolls.md): [Troll](Trolls.md#troll) | [Aquatic Troll (Scrag)](Trolls.md#aquatic-troll) | [Dire Troll](Trolls.md#dire-troll) | [Rot Troll](Trolls.md#rot-troll) | [Spirit Troll](Trolls.md#spirit-troll) | [Venom Troll](Trolls.md#venom-troll)
 
 ## U
 - [Umber Hulk](UmberHulk.md)
 - [Unicorn](Unicorn.md)
 
 ## V
-- [Vampires](Vampires.md):
+- [Vampires](Vampires.md): [Vampire Spawn](Vampires.md#vampire-spawn) | [Vampire](Vampires.md#vampire-1) | [Vampire Warrior](Vampires.md#vampire-warrior) | [Vampire Spellcaster](Vampires.md#vampire-spellcaster)
 
 ## W
-- [Wasps](Wasps.md): 
+- [Wasps](Wasps.md): [Weasel](#weasel) | [Giant Weasel](#giant-weasel)
 - [Water Weird](ElementalServants.md#water-weird)
-- [Weasels](Weasels.md): 
+- [Weasels](Weasels.md): [Weasel](#weasel) | [Giant Weasel](#giant-weasel)
 - [Whales](Whales.md): 
 - [Wight](Wight.md)
 - [Will O' Wisp](WillOWisp.md)

@@ -42,12 +42,12 @@ When firenewts muster for war, rather than merely staging occasional raids, they
 >- **Languages** Draconic,Ignan
 >- **Challenge** 1/2
 >___
->***Amphibious.***. The firenewt can breathe air and water.
+>***Amphibious.*** The firenewt can breathe air and water.
 >
 >#### Actions
->***Multiattack.***. The firenewt makes two attacks with its scimitar.
+>***Multiattack.*** The firenewt makes two attacks with its scimitar.
 >
->***Scimitar.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
+>***Scimitar.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
 >
 >Spit Fire (Recharges after a Short or Long Rest). The firenewt spits fire at a creature within 10 feet of it. The creature must make a DC 11 Dexterity saving throw, taking 9 (2d8) fire damage on a failed save, or half as much damage on a successful one.
 >
@@ -80,12 +80,12 @@ Firenewts have a close relationship with a type of monstrous beast they believe 
 >- **Languages** --
 >- **Challenge** 1
 >___
->***Fire Absorption.***. Whenever the giant strider is subjected to fire damage, it takes no damage and regains a number of hit points equal to half the fire damage dealt.
+>***Fire Absorption.*** Whenever the giant strider is subjected to fire damage, it takes no damage and regains a number of hit points equal to half the fire damage dealt.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
+>***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
 >
->***Fire Burst (Recharge 5-6).***. The giant strider hurls a gout of flame at a point it can see within 60 feet of it. Each creature in a 10-foot-radius sphere centered on that point must make a DC 12 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners, and it ignites flammable objects in that area that aren't being worn or carried.
+>***Fire Burst (Recharge 5-6).*** The giant strider hurls a gout of flame at a point it can see within 60 feet of it. Each creature in a 10-foot-radius sphere centered on that point must make a DC 12 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners, and it ignites flammable objects in that area that aren't being worn or carried.
 >
 
 ---
@@ -115,19 +115,19 @@ Firenewts have a close relationship with a type of monstrous beast they believe 
 >- **Languages** Draconic,Ignan
 >- **Challenge** 1
 >___
->***Amphibious.***. The firenewt can breathe air and water.
+>***Amphibious.*** The firenewt can breathe air and water.
 >
->***Innate Spellcasting.***. The firenewt's innate spellcasting ability is Charisma. It can innately cast mage armor (self only) at will, requiring no material components.
+>***Innate Spellcasting.*** The firenewt's innate spellcasting ability is Charisma. It can innately cast mage armor (self only) at will, requiring no material components.
 >
->***Spellcasting.***. The firenewt is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
+>***Spellcasting.*** The firenewt is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 >
 >Cantrips (at will): fire bolt, guidance, light, mage hand, prestidigitation
 >
 >1st-2nd level (2 2nd-level slots): burning hands, flaming sphere, hellish rebuke, scorching ray
 >
->***Imix's Blessing.***. When the firenewt reduces an enemy to 0 hit points, the firenewt gains 5 temporary hit points.
+>***Imix's Blessing.*** When the firenewt reduces an enemy to 0 hit points, the firenewt gains 5 temporary hit points.
 >
 >#### Actions
->***Morningstar.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
+>***Morningstar.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
 >
 
