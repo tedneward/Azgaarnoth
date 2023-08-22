@@ -279,12 +279,12 @@ Mastiffs are impressive hounds prized by humanoids for their loyalty and keen se
 >*Medium beast, unaligned*
 >___
 >- **Armor Class** 12
->- **Hit Points** 5 (1d8 + 1)
+>- **Hit Points** 45 (6d8 + 6)
 >- **Speed** 40 ft.
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|13 (+1)|14 (+2)|12 (+1)|3 (-4)|12 (+1)|7 (-2)|
+>|13 (+1)|14 (+2)|12 (+1)|6 (-2)|12 (+1)|7 (-2)|
 >
 >___
 >- **Proficiency Bonus** +0
@@ -309,43 +309,43 @@ Mastiffs are impressive hounds prized by humanoids for their loyalty and keen se
 ---
 
 ## Withered Hound
-The Withered Hound is an undead creation from a [Mastiff](#mastiff) or similar-sized hound. Like the creature it was spawned from, the Withered Hound has deep loyalty to its master, whether that be the necromancer that raised it or the master that cares for it now.
+The Withered Hound is an undead creation, taken when a necromancer or pale master [withers](Templates/Withered.md) a [Mastiff](#mastiff) or similar-sized hound. Like the creature it was spawned from, the Withered Hound has deep loyalty to its master, whether that be the necromancer that raised it or the master that cares for it now.
 
 >### Withered Hound
->*medium undead, shares master's alignment*
+>*Medium beast, unaligned*
 >___
 >- **Armor Class** 13
->- **Hit Points** 45 (6d8 + 18)
+>- **Hit Points** 45 (6d8 + 6)
 >- **Speed** 40 ft.
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|17 (+3)|16 (+3)|16 (+3)|6 (-2)|15 (+2)|11 (+0)|
+>|17 (+3)|16 (+3)|16 (+3)|6 (-2)|11 (0)|6 (-2)|
 >
 >___
 >- **Proficiency Bonus** +0
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
->- **Damage Resistances** 
->- **Damage Immunities** necrotic,poison
+>- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities** necrotic, poison
 >- **Condition Immunities** charmed,frightened,paralyzed,poisoned,stunned
->- **Skills** Perception +4
->- **Senses** darkvision 60 ft. passive Perception 12
->- **Languages** Understands the languages of its master but can't speak
->- **Challenge** 1/2
+>- **Skills** Perception +2
+>- **Senses** darkvision 60 ft.,passive Perception 12
+>- **Languages** --
+>- **Challenge** 1/8
 >___
->***Consumption.*** If the hound spends 1 minute feeding on the corpse of a creature that it has killed, it regains 10 hit points.
->
->***Keen Smell.*** The hound has advantage on Wisdom (Perception) checks that rely on smell.
+>***Shadowmeld.*** If the creature is in dim light or darkness, it can take the Hide action as a bonus action. Additionally, If an attack misses the creature, the creature can use its reaction to move up to half of its movement speed without provoking attacks of opportunity.
 >
 >***Turning Defiance.*** The hound has advantage on saving throws against effects that turn undead.
 >
->***Pack Tactics.*** The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>***Keen Hearing and Smell.*** The withered hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+>
+>***Pack Tactics.*** The withered hound has advantage on an attack roll against a creature if at least one of the mastiff's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 >#### Actions
->***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, plus 3 (1d6) necrotic damage.
+>***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone. If the target is a creature, it must succeed on a DC 13 Constitution saving throw or contract a disease. Until the disease is cured, the target can't regain hit points except by magical means.
 >
->***Howl of the Grave (1/Day).*** The eerie howl of a withered hound echoes throughout the night. Each creature of the hound's choosing within 30 feet of the hound and can hear it must succeed on a DC 13 Wisdom saving throw of become frightened of the hound for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>***Rotten Stench (1/Day).*** A cloud of noxious gas escapes from the rat's pores. Each creature within 10 feet of the rat must succeed on a DC 13 Constitution saving throw or be poisoned until the end of the creature's next turn.
 >
 
 ---

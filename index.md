@@ -6,7 +6,7 @@
 **States**: 15
 
 ## Geography
-![Azgaarnoth](Azgaarnoth.jpeg)
+[![Azgaarnoth](Azgaarnoth.jpeg)](https://azgaar.github.io/Fantasy-Map-Generator/?maplink=https://azgaarnoth.tedneward.com/Azgaarnoth.map)
 
 The globe upon which Azgaarnoth rests is roughly equivalent to that of Earth, with a similar annual period around its star. Azgaarnoth's yearly cycle is slightly shorter, an even 360 days, and each daily cycle runs a similar 24 hours.
 

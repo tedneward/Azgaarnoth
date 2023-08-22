@@ -76,6 +76,7 @@ These creatures are found in various places across the map. Over time, all these
 - [Dog](Dogs.md): [Dog](Dogs.md#dog) | [Blink Dog](Dogs.md#blink-dog) | [Death Dog](Dogs.md#death-dog) | [Giant Hyena](Dogs.md#giant-hyena) | [Hell Hound](Dogs.md#hell-hound) | [Hyena](Dogs.md#hyena) | [Jackal](Dogs.md#jackal) | [Mastiff](Dogs.md#mastiff) | [Withered Hound](Dogs.md#withered-hound) | [Shadow Mastiff](Dogs.md#shadow-mastiff) | [Yeth Hound](Dogs.md#yeth-hound)
 - [Doppelganger](Doppelganger.md)
 - [Dragon Turtle](DragonTurtle.md)
+- [Dragonspawn](Dragonspawn.md): 
 - [Drake Companion](DrakeCompanion.md)
 - [Drider](Drider.md)
 - [Dryad](Dryad.md)
@@ -266,20 +267,12 @@ These creatures are found in various places across the map. Over time, all these
 - [Zombie](Zombie.md)
 
 ## Templates
-- [Alpha](Templates/Alpha.md)
-- Humanoid
-    - [Berserker](Templates/Berserker.md)
-    - [Knight](Templates/Knight.md)
-    - [Soldier](Templates/Soldier.md)
+- Bestial: [Alpha](Templates/Alpha.md), [Young](Templates/Young.md)
+- Humanoid: [Berserker](Templates/Berserker.md), [Knight](Templates/Knight.md), [Soldier](Templates/Soldier.md), [Elite Warrior](Templates/EliteWarrior.md)
 - Dire
 - [Draconic](Templates/Dragon.md): [Dracolich](Templates/Dragon.md#dracolich), [Ghost](Templates/Dragon.md#ghost), [Shadow](Templates/Dragon.md#shadow), [Skeletal](Templates/Dragon.md#skeletal), [Zombie](Templates/Dragon.md#zombie)
 - [Half-Dragon](Templates/HalfDragon.md)
-- Undead
-    - [Ghost](Templates/Ghost.md)
-    - Mummy
-    - [Skeleton](Templates/Skeletal.md)
-    - Withered
-    - [Zombie](Templates/Zombie.md)
+- Undead: [Skeleton](Templates/Skeletal.md), [Zombie](Templates/Zombie.md), [Withered](Templates/Withered.md), [Ghost](Templates/Ghost.md), Mummy, Lich
 
 ---
 
