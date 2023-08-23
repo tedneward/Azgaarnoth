@@ -39,6 +39,7 @@ There are many kinds of cattle, from common oxen to more unusual, magical varian
 ---
 
 ## Ox
+Oxen are domesticated cattle bred for milk and meat production and for hauling. Many cultures incorporate the ox into their labor and diets.
 
 >### Ox
 >*Large beast, unaligned*
@@ -60,7 +61,7 @@ There are many kinds of cattle, from common oxen to more unusual, magical varian
 >- **Condition Immunities** 
 >- **Skills** 
 >- **Senses** passive Perception 10
->- **Languages** —
+>- **Languages** --
 >- **Challenge** 1/4
 >___
 >***Charge.*** If the ox moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.

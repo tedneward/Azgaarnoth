@@ -280,9 +280,6 @@ creatures = []
 
 def ingest(arg):
     def cleanup(line):
-        if line.find(u"“") > 0:
-            print("SMART QUOTES!!!!")
-
         utf8_quotes = "“”‘’‹›«»"
         transl_table = dict( [ (ord(x), ord(y)) for x,y in zip( utf8_quotes,  "\"\"''''\"\"") ] ) 
 
@@ -370,7 +367,7 @@ def ingest(arg):
                 creature.CHA = int(lines[linect].split('(')[0])
             elif 'Proficiency Bonus' in line:
                 creature.profbonus = line[len('Proficiency Bonus '):].strip()
-            elif 'Skills' in line:
+            elif ('Skills' in line) or ('Damage ' in line) or ('Saving Throws ' in line) or ('Senses ' in line):
                 break
             else:
                 print("Unrecognized line: " + line)

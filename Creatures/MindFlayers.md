@@ -154,7 +154,6 @@ The path to true lichdom is something only the most powerful mind flayer mages c
 >
 >1/day each: dominate monster, plane shift (self only)
 >
->
 >***Undead Nature.*** A mind flayer lich doesn’t require air, food, drink, or sleep.
 >
 >***Legendary Resistance (3/Day).*** If the mind flayer lich fails a saving throw, it can choose to succeed instead.
