@@ -13,6 +13,8 @@ The derro tell their own story of flight and survival in the Underdark, and the 
 
 **Derro Madness.** All derro suffer from a form of madness that most often manifests as mania and paranoia, but other mental afflictions and strange tics also commonly affect them. Derro take little notice of odd behavior in their ranks, except when an individual displays the characteristics of a savant. They believe the strange behavior of savants arises because those leaders carry messages from Diirinka.
 
+---
+
 ## Derro
 *Small humanoid (derro), chaotic evil*
 
@@ -52,7 +54,7 @@ CHA
 
 **Light Crossbow.** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 
-
+---
 
 ## Savant
 *Small humanoid (derro), chaotic evil*
