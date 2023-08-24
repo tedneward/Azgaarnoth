@@ -172,6 +172,7 @@ These creatures are found in various places across the map. Over time, all these
 - [Nagas](Nagas.md):
 - [Nightmare](Nightmare.md)
 - [Nightstriker Serpent](NightstrikerSerpent.md)
+- NPCs: [Archdruid](NPCs/Archdruid.md) | [Archer](NPCs/Archer.md) | [Bandit](NPCs/Bandit.md) | [Bard](NPCs/Bard.md) | [Blackguard](NPCs/Blackguard.md) | [Champion](NPCs/Champion.md) | [Pirate](NPCs/Pirate.md)
 - [Nothic](Nothic.md)
 
 ## O

@@ -9,9 +9,6 @@ import os
 import sqlite3
 import sys
 
-def linkify(string):
-    return '#' + string.replace('/','').replace(' ','').lower()
-
 # These sorts of creature entries are typically for a collection of such; the
 # "Troll" entry, for example, contains "Troll", "Aquatic Troll", "Rot Troll",
 # and so on.
@@ -22,14 +19,16 @@ class SubtypedCreature:
         self.generaldescription = []
 
     def emitMD(self):
-        subtypejumplinks = " | ".join(map(lambda st: f'[{st.name}](#{st.name})', self.subtypes))
+        def linkify(string):
+            return '#' + string.replace('/','').replace(' ','-').lower()
+        
+        subtypejumplinks = " | ".join(map(lambda st: f'[{st.name}]({linkify(st.name)})', self.subtypes))
 
         results  =  ''
         results += f'# {self.name}\n'
         results += self.generaldescription[0] + '\n'
         results += '\n'
         results += '> Jump to: ' + subtypejumplinks + '\n'
-        results += '\n'
         results += '\n'.join(self.generaldescription[1:])
         for creature in self.subtypes:
             results += '---\n\n'
@@ -63,6 +62,7 @@ class Creature:
         self.name = ''
         self.size = ''
         self.type = ''
+        self.subtypes = []
         self.alignment = ''
         self.description = []
         self.ac = ''
@@ -136,7 +136,8 @@ class Creature:
         print("Name: " + line)
         linect += 1
 
-        # size type (optional subtype), alignment
+        # size type (optional-subtype, optional-subtype, ...), alignment
+        # TODO: Handle multiple subtypes someday
         line = mdlines[linect][1:].strip().replace('*', '')
         (sizetype, alignment) = line.split(',')
         self.alignment = alignment.strip()
@@ -230,7 +231,11 @@ class Creature:
         else:
             result += '\n'
         result += f">### {self.name}\n"
-        result += f">*{self.size} {self.type}, {self.alignment}*\n"
+
+        if len(self.subtypes) > 0:
+            result += f">*{self.size} {self.type} ({','.join(self.subtypes)}), {self.alignment}*\n"
+        else:
+            result += f">*{self.size} {self.type}, {self.alignment}*\n"
         result += linebreak
         result += f">- **Armor Class** {self.ac}\n"
         result += f">- **Hit Points** {self.hp}\n"
@@ -242,7 +247,10 @@ class Creature:
         result += f"{self.abilitytext(self.INT)}|{self.abilitytext(self.WIS)}|{self.abilitytext(self.CHA)}|\n"
         result +=  ">\n"
         result += linebreak
-        result += f">- **Proficiency Bonus** {self.profbonus:+g}\n"
+        if isinstance(self.profbonus, str):
+            result += f">- **Proficiency Bonus** {self.profbonus}\n"
+        elif isinstance(self.profbonus, int):
+            result += f">- **Proficiency Bonus** {self.profbonus:+g}\n"
         result += f">- **Saving Throws** {','.join(self.savingthrows)}\n"
         result += f">- **Damage Vulnerabilities** {','.join(self.dmgvuls)}\n"
         result += f">- **Damage Resistances** {','.join(self.dmgresists)}\n"
@@ -276,15 +284,20 @@ class Creature:
 
         return result
 
+
+
+######################################################################
+
 creatures = []
 
 def ingest(arg):
     def cleanup(line):
         if line.find(u"“") > 0:
-            print("SMART QUOTES!!!!")
+            print("I HATE SMART QUOTES!!!!")
 
-        utf8_quotes = "“”‘’‹›«»"
-        transl_table = dict( [ (ord(x), ord(y)) for x,y in zip( utf8_quotes,  "\"\"''''\"\"") ] ) 
+        utf8s = "“”‘’‹›«»−–"
+        repls = "\"\"''''\"\"--"
+        transl_table = dict( [ (ord(x), ord(y)) for x,y in zip( utf8s,  repls) ] ) 
 
         # Get rid of the damn smart quotes
         result = line.translate( transl_table)
@@ -296,38 +309,60 @@ def ingest(arg):
         files = os.listdir(arg)
         for f in files:
             if os.path.isfile(arg + '/' + f):
-                ext = str(f)[-4:]
-                if ext.lower() != '.png' and ext.lower() != '.jpg':
+                ext = str(f)[-4:].lower()
+                if ext != '.png' and ext != '.jpg' and ext != 'webp':
                     ingest(arg + '/' + f)
         return
 
     def ingestrawstatblock(lines):
-        print("Raw stat block")
-
         creature = Creature()
 
+        # Parse name line
         linect = 0
         creature.name = lines[linect].lower().strip().title()
+
+        # Parse size type (subtype(s)), alignment line
         linect += 1
-        (sizeandtype, alignment) = lines[linect].split(',')
-        creature.alignment = alignment.strip()
+        def parsesecondline(line):
+            size = ''
+            type = ''
+            subtypes = []
+            alignment = ''
 
-        if sizeandtype.find('(') > -1:
-            # It has a parenthesized subtype, a la "large humanoid (goblin)"
-            creature.size = sizeandtype.split(' ')[0]
-            creature.type = sizeandtype.split(' ')[1] + ' ' + sizeandtype.split(' ')[2]
-        else:
-            creature.size = sizeandtype.split(' ')[0]
-            creature.type = sizeandtype.split(' ')[1]
+            if line.find('(') > 0:
+                # It has a parenthesized subtype
+                # Find the parenthesized string and split there
+                endparen = line.find(')')
+                sizeandtype = line[0:endparen+1]
+                # Fnd the paren in the new sizeandtype string
+                startparen = line.find('(')
+                endparen = line.find(')')
+                sizeandtype = line[0:startparen]
+                subtype = line[startparen+1:endparen]
+                size = sizeandtype.split(' ')[0]
+                type = sizeandtype.split(' ')[1]
+                subtypes = subtype.split(',')
+                alignment = line[endparen+3:].strip()
+            else:
+                (sizeandtype, alignment) = line.split(',')
+                alignment = alignment.strip()
+                size = sizeandtype.split(' ')[0]
+                type = sizeandtype.split(' ')[1]
 
+            return (size, type, subtypes, alignment)
+        (creature.size, creature.type, creature.subtypes, creature.alignment) = parsesecondline(lines[linect])
+
+        # Start parsing AC, HP, Speed, attributes
         linect += 1
         while linect < len(lines):
-            line = lines[linect].strip()
-            print("Examining " + line)
+            line = cleanup(lines[linect])
 
-            if len(line.strip()) < 1:
+            # Just blow past empty lines
+            if len(line) < 1:
                 linect += 1
                 continue
+
+            print("Examining line '" + line + "'")
 
             if 'Armor Class ' in line:
                 creature.ac = line[len('Armor Class '):].strip()
@@ -335,100 +370,97 @@ def ingest(arg):
                 creature.hp = line[len('Hit Points '):].strip()
             elif 'Speed ' in line:
                 creature.speed = line[len('Speed '):].strip()
+
+            # Ability scores
+            # Are they all on one line?
             elif ('STR' in line) and ('INT' in line):
-                # They're all on one line and now this gets tricky
                 linect += 1
                 line = lines[linect]
                 groupofsix = line.split(')')
-                abct = 0
-                for scoreandbonus in groupofsix:
-                    score = int(scoreandbonus.strip().split(' ')[0])
-                    if abct == 0: creature.STR = score
-                    elif abct == 1: creature.DEX = score
-                    elif abct == 2: creature.CON = score
-                    elif abct == 3: creature.INT = score
-                    elif abct == 4: creature.WIS = score
-                    elif abct == 5: creature.CHA = score; break
-                    abct += 1
+                creature.STR = int(groupofsix[0].strip().split(' ')[0])
+                creature.DEX = int(groupofsix[1].strip().split(' ')[0])
+                creature.CON = int(groupofsix[2].strip().split(' ')[0])
+                creature.INT = int(groupofsix[3].strip().split(' ')[0])
+                creature.WIS = int(groupofsix[4].strip().split(' ')[0])
+                creature.CHA = int(groupofsix[5].strip().split(' ')[0])
+
+            # The scores are on successive lines
             elif 'STR' in line:
-                linect += 1
+                linect += 1 # Next line holds the score
                 creature.STR = int(lines[linect].split('(')[0])
             elif 'DEX' in line:
-                linect += 1
+                linect += 1 # Next line holds the score
                 creature.DEX = int(lines[linect].split('(')[0])
             elif 'CON' in line:
-                linect += 1
+                linect += 1 # Next line holds the score
                 creature.CON = int(lines[linect].split('(')[0])
             elif 'INT' in line:
-                linect += 1
+                linect += 1 # Next line holds the score
                 creature.INT = int(lines[linect].split('(')[0])
             elif 'WIS' in line:
-                linect += 1
+                linect += 1 # Next line holds the score
                 creature.WIS = int(lines[linect].split('(')[0])
             elif 'CHA' in line:
-                linect += 1
+                linect += 1 # Next line holds the score
                 creature.CHA = int(lines[linect].split('(')[0])
-            elif 'Proficiency Bonus' in line:
-                creature.profbonus = line[len('Proficiency Bonus '):].strip()
-            elif 'Skills' in line:
-                break
-            else:
-                print("Unrecognized line: " + line)
 
-            linect += 1
-
-        while linect < len(lines):
-            if len(lines[linect]) == 0:
-                # Do nothing and just drop to the end of this switch
-                pass
-            elif 'Damage Vulnerabilities' in lines[linect]:
-                dvs = lines[linect][len('Damage Vulnerabilities '):].split(',')
+            elif 'Damage Vulnerabilities' in line:
+                dvs = line[len('Damage Vulnerabilities '):].split(',')
                 for dv in dvs:
                     creature.dmgvuls.append(cleanup(dv))
 
-            elif 'Damage Resistances' in lines[linect]:
-                drs = lines[linect][len('Damage Resistances '):].split(',')
+            elif 'Damage Resistances' in line:
+                drs = line[len('Damage Resistances '):].split(',')
                 for dr in drs:
                     creature.dmgresists.append(cleanup(dr))
 
-            elif 'Damage Immunities' in lines[linect]:
-                dis = lines[linect][len('Damage Immunities '):].split(',')
+            elif 'Damage Immunities' in line:
+                dis = line[len('Damage Immunities '):].split(',')
                 for di in dis:
                     creature.dmgimmunes.append(cleanup(di))
 
-            elif 'Condition Immunities' in lines[linect]:
-                cis = lines[linect][len('Condition Immunities '):].split(',')
+            elif 'Condition Immunities' in line:
+                cis = line[len('Condition Immunities '):].split(',')
                 for ci in cis:
                     creature.condimmunes.append(cleanup(ci))
 
-            elif 'Saving Throws' in lines[linect]:
-                saves = lines[linect][len('Saving Throws '):].split(',')
+            elif 'Saving Throws' in line:
+                saves = line[len('Saving Throws '):].split(',')
                 for st in saves:
                     creature.savingthrows.append(cleanup(st))
 
-            elif 'Skills' in lines[linect]:
-                skills = lines[linect][len('Skills '):].split(',')
+            elif 'Skills' in line:
+                skills = line[len('Skills '):].split(',')
                 for sk in skills:
                     creature.skills.append(sk.strip())
 
-            elif 'Senses' in lines[linect]:
-                senses = lines[linect][len('Senses '):].split(',')
+            elif 'Senses' in line:
+                senses = line[len('Senses '):].split(',')
                 for sn in senses:
                     creature.senses.append(sn.strip())
 
-            elif 'Languages' in lines[linect]:
-                langs = lines[linect][len('Languages '):].split(',')
+            elif 'Languages' in line:
+                langs = line[len('Languages '):].split(',')
                 for l in langs:
                     creature.languages.append(l.strip())
 
-            elif 'Challenge' in lines[linect]:
-                creature.cr = lines[linect][len('Challenge '):].split(' ')[0].strip()
+            elif ('Challenge' in line) and ('Proficiency Bonus' in line):
+                creature.cr = line[len('Challenge '):line.find('Proficiency Bonus')].split(' ')[0].strip()
+                # Find start of Proficiency Bonus in line
+                pb = line[line.find('Proficiency Bonus '):]
+                creature.profbonus = pb[len('Proficiency Bonus '):].strip()
 
-            elif 'Actions' in lines[linect]:
+            elif 'Challenge' in line:
+                creature.cr = line[len('Challenge '):].split(' ')[0].strip()
+
+            elif 'Proficiency Bonus' in line:
+                creature.profbonus = line[:len('Proficiency Bonus ')].strip()
+
+            elif ('Actions' in line) or ('Action' in line):
                 break
 
             else:
-                creature.features.append(cleanup(lines[linect]))
+                creature.features.append(line)
 
             linect += 1
 
@@ -439,15 +471,20 @@ def ingest(arg):
             if len(line) == 0:
                 linect += 1
                 continue
-            elif 'Legendary' == line[0:len('Legendary')]:
+
+            print("Examining '" + line + "'")
+
+            if 'Legendary' == line[0:len('Legendary')]:
                 block = 'legendary'
+            elif 'Action' == line[0:len('Action')]:
+                block = 'actions'
             elif 'Actions' == line[0:len('Actions')]:
                 block = 'actions'
-            elif 'Bonus Actions' == line[0:len('Actions')]:
+            elif 'Bonus Actions' == line[0:len('Bonus Actions')]:
                 block = 'bonusactions'
             elif 'Reactions' == line[0:len('Reactions')]:
-                block = 'actions'
-            elif line[0][0] == 'A' and line.find('Lair') > 0:
+                block = 'reactions'
+            elif line.find('Lair') > 0:
                 block = 'lair'
                 creature.lair = Creature.Lair()
             elif 'Lair Actions' == line[0:len('Lair Actions')]:
@@ -463,7 +500,7 @@ def ingest(arg):
                 elif block == 'lairactions': creature.lair.lairactions.append(line)
                 elif block == 'laireffects': creature.lair.regionaleffects.append(line)
                 else:
-                    print("WTF?!? Unrecognized block! " + block)
+                    print("WTF?!? Unrecognized block! '" + block + "'")
 
             linect += 1
 

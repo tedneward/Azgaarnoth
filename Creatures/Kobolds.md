@@ -86,12 +86,12 @@ Kobolds are craven reptilian humanoids that worship evil dragons as demigods and
 ---
 
 ## Kobold Dragonshield
-A kobold dragonshield is a champion of its race. Almost all dragonshields begin life as normal kobolds, then are chosen by a dragon and invested with great powers for the purpose of protecting the dragon's eggs, but once every few years a kobold hatches with an innate version of the dragonshield's abilities. Accomplished at hand-to-hand combat, it bears many scars from desperate fights and carries a shield made out of cast-off dragon scales.
+Kobold dragonshields are champions of their people. Almost all dragonshields begin life as normal kobolds, then are chosen by a dragon and invested with power for the purpose of protecting the dragon's eggs, but once every few years a kobold hatches with an innate version of the dragonshield's abilities. In either case, a dragonshield is skilled at hand-to-hand combat and bears a shield made of dragon scales, as well as scars from desperate fights.
 
-***Uncommon Courage.*** A dragonshield knows that it has a place of honor in the tribe, but -- being kobolds at heart -- most of them feel unworthy of their status and thus desperate to prove themselves deserving of it. A dragonshield's natural kobold cowardice is still present in its makeup, and thus it might still run away from a threat. But it also has the ability to rally in the face of certain death, inspiring other kobolds to follow it in a charge against the invaders of their warren.
+Dragonshields know they have a place of honor among those who venerate dragons, but--being kobolds at heart--most of them feel unworthy of their status and are desperate to prove themselves deserving of it. But they also have the ability to rally in the face of certain death, inspiring others to follow them into battle.
 
 >### Kobold Dragonshield
->*Small humanoid (kobold), lawful evil*
+>*Small Dragon, Any Alignment*
 >___
 >- **Armor Class** 15 (leather, shield)
 >- **Hit Points** 44 (8d6 + 16)
@@ -102,7 +102,7 @@ A kobold dragonshield is a champion of its race. Almost all dragonshields begin 
 >|12 (+1)|15 (+2)|14 (+2)|8 (-1)|9 (-1)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** see Dragon's Resistance below
@@ -113,29 +113,27 @@ A kobold dragonshield is a champion of its race. Almost all dragonshields begin 
 >- **Languages** Common,Draconic
 >- **Challenge** 1
 >___
->***Dragon's Resistance.*** The kobold has resistance to a type of damage based on the color of dragon that invested it with power (choose or roll a d10): 1-2, acid (black); 3-4, cold (white); 5-6, fire (red); 7-8, lightning (blue); 9-10, poison (green).
+>***Dragon's Resistance.***. The kobold has resistance to a type of damage based on the color of dragon that invested it with power (choose or roll a d10): 1-2, acid (black or copper); 3-4, cold (silver or white); 5-6, fire (brass, gold, or red); 7-8, lightning (blue or bronze); 9-10, poison (green).
 >
->***Heart of the Dragon.*** If the kobold is frightened or paralyzed by an effect that allows a saving throw, it can repeat the save at the start of its turn to end the effect on itself and all kobolds within 30 feet of it. Any kobold that benefits from this trait (including the dragonshield) has advantage on its next attack roll.
+>***Heart of the Dragon.***. If the kobold is frightened or paralyzed by an effect that allows a saving throw, it can repeat the save at the start of its turn to end the effect on itself and all kobolds within 30 feet of it. Any kobold that benefits from this trait (including the dragonshield) has advantage on its next attack roll.
 >
->***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>***Pack Tactics.***. The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
->***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Sunlight Sensitivity.***. While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Multiattack.*** The kobold makes two melee attacks.
+>***Multiattack.***. The kobold makes two Spear attacks.
 >
->***Spear.*** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+>***Spear.***. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 >
 
 ---
 
 ## Kobold Inventor
-A kobold inventor, crafty and with quick hands, builds improvised weapons in the hope of gaining some new advantage in combat. An inventor captures bugs, scoops up exotic dungeon slimes, and claims the best stolen goods as ingredients in its experiments. Its creations are sometimes comical in appearance, but -- like kobolds' traps -- they work a lot better than their materials would suggest.
-
-***Good While They Last.*** An inventor's new weapons last for only one or two attacks before they break, but might be surprisingly effective in the meantime. Most inventors are skilled enough that their improvised weapons don't backfire on them, but other users might not be so lucky. The weapons don't have to be lethal -- in many cases one serves its purpose if it distracts, scares, or confuses a creature long enough for other kobolds to kill the enemy. In any particular encounter, an inventor usually has one or two improvised weapons at its disposal.
+A kobold inventor builds improvised weapons to gain an advantage in combat. These weapons last for only one or two attacks before they break and typically work only for the inventor, but they might be surprisingly effective in the meantime. The weapons don't have to be lethal--often one serves its purpose if it distracts, scares, or confuses a creature long enough for the inventor to kill that foe.
 
 >### Kobold Inventor
->*Small humanoid (kobold), lawful evil*
+>*Small Humanoid, Any Alignment*
 >___
 >- **Armor Class** 12
 >- **Hit Points** 13 (3d6 + 3)
@@ -143,57 +141,55 @@ A kobold inventor, crafty and with quick hands, builds improvised weapons in the
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|7 (-2)|15 (+2)|12 (+1)|8 (-1)|7 (-2)|8 (-1)|
+>|7 (-2)|15 (+2)|12 (+1)|14 (+2)|10 (+0)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
 >- **Damage Immunities** 
 >- **Condition Immunities** 
->- **Skills** Perception +0
+>- **Skills** 
 >- **Senses** darkvision 60 ft.,passive Perception 10
 >- **Languages** Common,Draconic
 >- **Challenge** 1/4
 >___
->***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>***Pack Tactics.***. The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
->***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Sunlight Sensitivity.***. While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Dagger.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+>***Dagger.***. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 >
->***Sling.*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
+>***Sling.***. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
 >
->***Weapon Invention.*** The kobold uses one of the following options (roll a d8 or choose one); the kobold can use each one no more than once per day:
+>***Acid (1/Day).***. The kobold hurls a flask of acid. Ranged Weapon Attack: +4 to hit, range 5/20 ft., one target. Hit: 7 (2d6) acid damage.
 >
->* **1.** Acid. The kobold hurls a flask of acid. Ranged Weapon Attack: +4 to hit, range 5/20 ft., one target. Hit: 7 (2d6) acid damage.
+>***Alchemist's Fire (1/Day).***. The kobold throws a flask of alchemist's fire. Ranged Weapon Attack: +4 to hit, range 5/20 ft., one target. Hit: 2 (1d4) fire damage at the start of each of the target's turns. The target can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
 >
->* **2.** Alchemist's Fire. The kobold throws a flask of alchemist's fire. Ranged Weapon Attack: +4 to hit, range 5/20 ft., one target. Hit: 2 (1d4) fire damage at the start of each of the target's turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
+>***Basket of Centipedes (1/Day).***. The kobold throws a small basket into a 5-foot-square space within 20 feet of it. A swarm of insects (centipedes; see the Monster Manual) with 11 hit points emerges from the basket and rolls initiative. At the end of each of the swarm's turns, there's a 50 percent chance that the swarm disperses.
 >
->* **3.** Basket of Centipedes. The kobold throws a small basket into a 5-foot-square space within 20 feet of it. A swarm of insects (centipedes) with 11 hit points emerges from the basket and rolls initiative. At the end of each of the swarm's turns, there's a 50 percent chance that the swarm disperses.
+>***Green Slime Pot (1/Day).***. The kobold throws a clay pot full of green slime at the target, and it breaks open on impact. Ranged Weapon Attack: +4 to hit, range 5/20 ft., one target. Hit: 5 (1d10) acid damage, and the target is covered in slime until a creature uses its action to scrape or wash the slime off. A target covered in the slime takes 5 (1d10) acid damage at the start of each of its turns.
 >
->* **4.** Green Slime Pot. The kobold throws a clay pot full of green slime at the target, and it breaks open on impact. Ranged Weapon Attack: +4 to hit, range 5/20 ft., one target. Hit: The target is covered in a patch of green slime (see chapter 5 of the Dungeon Master's Guide). Miss: A patch of green slime covers a randomly determined 5-foot-square section of wall or floor within 5 feet of the target.
+>***Rot Grub Pot (1/Day).***. The kobold throws a clay pot into a 5-foot-square space within 20 feet of it, and it breaks open on impact. A swarm of rot grubs (in this book) emerges from the shattered pot and remains a hazard in that square.
 >
->* **5.** Rot Grub Pot. The kobold throws a clay pot into a 5-foot-square space within 20 feet of it, and it breaks open on impact. A swarm of rot grubs (see appendix A) emerges from the shattered pot and remains a hazard in that square.
+>***Scorpion on a Stick (1/Day).***. The kobold makes a melee attack with a scorpion (see the Monster Manual) tied to the end of a 5-foot-long pole. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
 >
->* **6.** Scorpion on a Stick. The kobold makes a melee attack with a scorpion tied to the end of a 5-foot-long pole. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
+>***Skunk in a Cage (1/Day).***. The kobold releases a skunk into an unoccupied space within 5 feet of it. The skunk has a walking speed of 20 feet, AC 10, 1 hit point, and no effective attacks. It rolls initiative and, on its turn, uses its action to spray musk at a random creature within 5 feet of it. The target must succeed on a DC 9 Constitution saving throw, or it retches and is incapacitated for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that doesn't need to breathe or is immune to poison automatically succeeds on the saving throw. Once the skunk has sprayed its musk, it can't do so again until it finishes a short or long rest.
 >
->* **7.** Skunk in a Cage. The kobold releases a skunk into an unoccupied space within 5 feet of it. The skunk has a walking speed of 20 feet, AC 10, 1 hit point, and no effective attacks. It rolls initiative and, on its turn, uses its action to spray musk at a random creature within 5 feet of it. The target must make a DC 9 Constitution saving throw. On a failed save, the target retches and can't take actions for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that doesn't need to breathe or is immune to poison automatically succeeds on the saving throw. Once the skunk has sprayed its musk, it can't do so again until it finishes a short or long rest.
->
->* **8.** Wasp Nest in a Bag. The kobold throws a small bag into a 5-foot-square space within 20 feet of it. A swarm of insects (wasps) with 11 hit points emerges from the bag and rolls initiative. At the end of each of the swarm's turns, there's a 50 percent chance that the swarm disperses.
+>***Wasp Nest in a Bag (1/Day).***. The kobold throws a small bag into a 5-foot-square space within 20 feet of it. A swarm of insects (wasps; see the Monster Manual) with 11 hit points emerges from the bag and rolls initiative. At the end of each of the swarm's turns, there's a 50 percent chance that the swarm disperses.
 >
 
 ---
 
 ## Kobold Scale Sorcerer
-A kobold scale sorcerer has an innate talent for arcane magic, making it a highly valuable member of the tribe for several reasons. Because the kobolds' deity remains imprisoned, most tribes lack individuals that can use divine magic, and so the scale sorcerers fill the roles of advisor and historian. In times of peace, they use their spells to fortify and enhance the warren and aid the rest of the tribe. When the tribe is threatened, a scale sorcerer lashes out with fire and poison against enemies, saving a bit of magic for itself in case it needs to flee or take advantage of a captor.
+Kobold scale sorcerers have an innate talent for arcane magic, making them highly valuable members of their communities. These sorcerers typically fill the role of advisor, and when threatened, a scale sorcerer lashes out with colorful magic.
 
-***Duty-Bound to a Dragon.*** In a kobold tribe associated with a dragon, typically one that resides in or near the dragon's lair, the scale sorcerer also serves as diplomat and mouthpiece -- anticipating the dragon's needs, issuing commands to other kobolds on the dragon's behalf, and reporting information back to the dragon. The sorcerer is just as awed by and respectful of dragons as common kobolds are, but it knows that its duty requires it not to fawn over its master at all times. It also understands that its frequent proximity to the dragon means it would probably be the first to die if its master became angry or displeased, and so it frantically maintains a balance between adoration and terror in its behavior toward the dragon.
+A scale sorcerer who resides in or near a dragon's lair may serve as that dragon's diplomat and mouthpiece--anticipating the dragon's needs, issuing commands to others on the dragon's behalf, and reporting information back to the dragon. Such scale sorcerers often wear artificial wings, which are a sign of their draconic office. Scale sorcerers are just as awed by and respectful of dragons as others who venerate these mighty creatures, but they know that duty requires them not to fawn over their master at all times. They also understand that their frequent proximity to their dragon master means they would probably be the first to die if their master became angry or displeased, so they frantically maintain a balance between adoration and terror in their behavior toward their master.
 
 >### Kobold Scale Sorcerer
->*Small humanoid (kobold), lawful evil*
+>*Small Humanoid, Any Alignment*
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 27 (5d6 + 10)
@@ -204,7 +200,7 @@ A kobold scale sorcerer has an innate talent for arcane magic, making it a highl
 >|7 (-2)|15 (+2)|14 (+2)|10 (+0)|9 (-1)|14 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -215,25 +211,21 @@ A kobold scale sorcerer has an innate talent for arcane magic, making it a highl
 >- **Languages** Common,Draconic
 >- **Challenge** 1
 >___
->***Spellcasting.*** The kobold is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has the following sorcerer spells prepared:
+>***Pack Tactics.***. The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
->Cantrips (at will): fire bolt, mage hand, mending, poison spray
->
->1st level (4 slots): charm person, chromatic orb, expeditious retreat
->
->2nd level (2 slots): scorching ray
->
->***Sorcery Points.*** The kobold has 3 sorcery points. It regains all its spent sorcery points when it finishes a long rest. It can spend its sorcery points on the following options:
->
->* *Heightened Spell:* When it casts a spell that forces a creature to make a saving throw to resist the spell's effects, the kobold can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw against the spell.
->
->* *Subtle Spell:* When the kobold casts a spell, it can spend 1 sorcery point to cast the spell without any somatic or verbal components.
->
->***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
->
->***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Sunlight Sensitivity.***. While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Dagger.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+>***Multiattack.***. The kobold makes two Dagger or Chromatic Bolt attacks. It can replace one attack with a use of Spellcasting.
+>
+>***Dagger.***. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+>
+>***Chromatic Bolt.***. Ranged Spell Attack: +4 to hit, range 60 feet, one target. Hit: 9 (2d6 + 2) of a type of the kobold's choice: acid, cold, fire, lightning, poison, or thunder.
+>
+>***Spellcasting.***. The kobold casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 12):
+>
+>At will: mage hand, prestidigitation
+>
+>2/day each: charm person, fog cloud, levitate
 >
 

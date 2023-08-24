@@ -247,19 +247,21 @@ Like any beholder, a spectator views itself as the epitome of its kind, and it h
 ---
 
 ## Death Kiss
-A death kiss is a lesser beholder that might come into being when a beholder has a vivid nightmare about losing blood. Instead of magical eye rays, it has ten long tentacles, each ending in a mouth full of teeth. In coloration and shape it is similar to the beholder that dreamed it into existence, but its hue is more muted.
+A death kiss is a lesser beholder that can come into being when a true beholder has a vivid nightmare about losing blood. Its coloration and shape resemble those of the beholder that dreamed it into existence, but its hue is more muted, and instead of magical eye rays, it has ten long tentacles, each ending in a mouth full of teeth. It can speak through any of its tentacle-maws in a high-pitched, nasal voice.
 
-***Blood Drinker.*** A death kiss survives solely on ingested blood, which it uses to generate electrical energy inside its body. Paranoid about dying from starvation, it obsessively drains even little creatures such as rats in an effort to stave off this fate for as long as possible. After it drains its prey, it abandons the corpse to scavengers. A death kiss prefers to hunt alone. If it meets another death kiss, it might fight, flee, or team up, depending on its health and pride. When underground, it uses its tentacles as feelers, prodding and examining the environment in all directions. Above ground, it usually keeps its tentacles retracted when on the hunt, then lashes out and extends them to their full length to catch opponents off guard.
+Death kisses fear true beholders, which can easily kill or subdue them. Lacking the egotism of their stronger kin, a death kiss usually submits to the rule of its creator or any other beholder it encounters, but it tries to escape as soon as the beholder is preoccupied.
 
-***False Tyrant.*** In poor lighting and with its tentacles extended, a death kiss can be mistaken for a true beholder. It might purposely present itself as a beholder to an ignorant creature, but this behavior is rare, since it usually is focused on hunting and lacks the self-importance and paranoia of a true beholder. It can speak through any of its tentacle-throats, and its voice sounds nasal and high-pitched. A true beholder has little to fear from a death kiss, since it can easily kill or subdue the death kiss long before the death kiss gets into melee range. Thus, out of self-preservation, a death kiss usually submits to the rule of a beholder that it encounters, though it might attempt to escape as soon as its master is preoccupied.
+A death kiss consumes ingested blood, which it also uses to heal and generate electrical energy inside its body. Terrified of dying from starvation, it obsessively drains even little creatures such as rats, leaving behind a trail of bloodless corpses. When underground, it uses its tentacles as feelers, prodding and examining the environment in all directions. Above ground, it usually keeps its tentacles retracted when on the hunt, then lashes out with them to catch opponents off guard.
 
-***Simple Tactics.*** A death kiss lacks the combat finesse and intelligence of a beholder. It might attempt an unusual maneuver to control its prey (such as flying up while grappling), but in most cases, it attaches one or more of its tentacles to a creature and drains blood until its prey collapses. If it is in a superior position and its opponent poses no threat, it might toy with its food, slowly squeezing and draining the life out of a creature.
+A death kiss lacks the combat finesse and intelligence of a true beholder. In most cases, it simply latches on to its prey with one or more of its tentacles and drains blood until the prey collapses. If it's in a superior position and its foe poses no threat, it might toy with its food, drawing out its prey's death.
+
+***A death kiss prefers to hunt alone.***. If it meets another of its kind, it might fight, flee, or team up, depending on its health and pride.
 
 >### Death Kiss
->*Large aberration, neutral evil*
+>*Large Aberration (Beholder), Typically Neutral Evil*
 >___
->- **Armor Class** 16 (natural armor)
->- **Hit Points** 161 (17d10 + 68)
+>- **Armor Class** 15 (natural armor)
+>- **Hit Points** 142 (15d10 + 60)
 >- **Speed** 0 ft., fly 30 ft. (hover)
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
@@ -267,7 +269,7 @@ A death kiss is a lesser beholder that might come into being when a beholder has
 >|18 (+4)|14 (+2)|18 (+4)|10 (+0)|12 (+1)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Con +8,Wis +5
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -278,14 +280,14 @@ A death kiss is a lesser beholder that might come into being when a beholder has
 >- **Languages** Deep Speech,Undercommon
 >- **Challenge** 10
 >___
->***Lightning Blood.*** A creature within 5 feet of the death kiss takes 5 (1d10) lightning damage whenever it hits the death kiss with a melee attack that deals piercing or slashing damage.
+>***Lightning Blood.***. A creature within 5 feet of the death kiss takes 5 (1d10) lightning damage whenever it hits the death kiss with a melee attack that deals piercing or slashing damage.
 >
 >#### Actions
->***Multiattack.*** The death kiss makes three tentacle attacks. Up to three of these attacks can be replaced by Blood Drain, one replacement per tentacle grappling a creature.
+>***Multiattack.***. The death kiss makes three Tentacle attacks. Up to three of these attacks can be replaced by Blood Drain--one replacement per tentacle grappling a creature.
 >
->***Tentacle.*** Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 14 (3d6 + 4) piercing damage, and the target is grappled (escape DC 14) if it is a Huge or smaller creature. Until this grapple ends, the target is restrained, and the death kiss can't use the same tentacle on another target. The death kiss has ten tentacles.
+>***Tentacle.***. Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 11 (2d6 + 4) piercing damage, and the target is grappled (escape DC 14) if it is a Huge or smaller creature. Until this grapple ends, the target is restrained, and the death kiss can't use the same tentacle on another target. The death kiss has ten tentacles.
 >
->***Blood Drain.*** One creature grappled by a tentacle of the death kiss must make a DC 16 Constitution saving throw. On a failed save, the target takes 22 (4d10) lightning damage, and the death kiss regains half as many hit points.
+>***Blood Drain.***. One creature grappled by a tentacle of the death kiss must make a DC 16 Constitution saving throw. On a failed save, the target takes 22 (4d10) lightning damage, and the death kiss regains half as many hit points.
 >
 
 ---
@@ -299,11 +301,20 @@ A gauth is a hungry, tyrannical beholder-like creature that eats magic and tries
 
 ***Inferior Tyrant.*** A beholder usually drives away or kills any gauths that enter its territory, but it might choose to enslave them and use them as lieutenants. Gauths are less xenophobic than beholders, so they might form small clusters and work together, though they're just as likely to ignore each other entirely.
 
+## Gauth
+A gauth is a hungry, tyrannical creature similar to a beholder that eats magic and tries to exact tribute from anything weaker than itself. Its body is about 4 feet in diameter, with six eyestalks, a central eye (sometimes surrounded by multiple smaller eyes), and four small grasping tentacles near its mouth. It has color and texture variations similar to a true beholder.
+
+A gauth can survive on meat but prefers to sustain itself with power drained from magic objects. If starved of magic for several weeks, it is forced back to its home plane, so it constantly seeks new items to drain. A gauth might employ creatures to bring it items that can provide it with sustenance.
+
+When the ritual to summon a spectator goes wrong, a gauth might push itself through the flawed connection, arriving immediately or several minutes later. It might present itself as a beholder to ignorant creatures in an attempt to intimidate them, or as a spectator to its summoner in order to drain magic items it is expected to guard.
+
+A beholder usually drives away or kills any gauths that enter its territory, but it might choose to force them to serve it as lieutenants. Gauths are less xenophobic than beholders, so they might form small clusters and work together, though they're just as likely to ignore each other entirely.
+
 >### Gauth
->*Medium aberration, lawful evil*
+>*Medium Aberration (Beholder), Typically Lawful Evil*
 >___
 >- **Armor Class** 15 (natural armor)
->- **Hit Points** 67 (9d8 + 27)
+>- **Hit Points** 52 (7d8 + 21)
 >- **Speed** 0 ft., fly 20 ft. (hover)
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
@@ -311,7 +322,7 @@ A gauth is a hungry, tyrannical beholder-like creature that eats magic and tries
 >|10 (+0)|14 (+2)|16 (+3)|15 (+2)|15 (+2)|13 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Int +5,Wis +5,Cha +4
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -322,28 +333,28 @@ A gauth is a hungry, tyrannical beholder-like creature that eats magic and tries
 >- **Languages** Deep Speech,Undercommon
 >- **Challenge** 6
 >___
->***Stunning Gaze.*** When a creature that can see the gauth's central eye starts its turn within 30 feet of the gauth, the gauth can force it to make a DC 14 Wisdom saving throw if the gauth isn't incapacitated and can see the creature. A creature that fails the save is stunned until the start of its next turn.
+>***Stunning Gaze.***. When a creature that can see the gauth's central eye starts its turn within 30 feet of the gauth, the gauth can force it to make a DC 14 Wisdom saving throw if the gauth isn't incapacitated and can see the creature. A creature that fails the save is stunned until the start of its next turn.
 >
 >Unless surprised, a creature can avert its eyes at the start of its turn to avoid the saving throw. If the creature does so, it can't see the gauth until the start of its next turn, when it can avert its eyes again. If the creature looks at the gauth in the meantime, it must immediately make the save.
 >
->***Death Throes.*** When the gauth dies, the magical energy within it explodes, and each creature within 10 feet of it must make a DC 14 Dexterity saving throw, taking 13 (3d8) force damage on a failed save, or half as much damage on a successful one.
+>***Death Throes.***. When the gauth dies, the magical energy within it explodes, and each creature within 10 feet of it must make a DC 14 Dexterity saving throw, taking 13 (3d8) force damage on a failed save, or half as much damage on a successful one.
 >
 >#### Actions
->***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d8) piercing damage.
+>***Bite.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 9 (2d8) piercing damage.
 >
->***Eye Rays.*** The gauth shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:
+>***Eye Rays.***. The gauth shoots three of the following magical eye rays at random (roll three d6s, and reroll duplicates), targeting one to three creatures it can see within 120 feet of it:
 >
->* *1. Devour Magic Ray.* The targeted creature must succeed on a DC 14 Dexterity saving throw or have one of its magic items lose all magical properties until the start of the gauth's next turn. If the object is a charged item, it also loses 1d4 charges. Determine the affected item randomly, ignoring single-use items such as potions and scrolls.
+>1. ***Devour Magic Ray.***. The target must succeed on a DC 14 Dexterity saving throw or have one of its magic items lose all magical properties until the start of the gauth's next turn. If the object is a charged item, it also loses 1d4 charges. Determine the affected item randomly, ignoring single-use items such as potions and scrolls.
 >
->* *2. Enervation Ray.* The targeted creature must make a DC 14 Constitution saving throw, taking 18 (4d8) necrotic damage on a failed save, or half as much damage on a successful one.
+>2. ***Enervation Ray.***. The target must make a DC 14 Constitution saving throw, taking 18 (4d8) necrotic damage on a failed save, or half as much damage on a successful one.
 >
->* *3. Pushing Ray.* The targeted creature must succeed on a DC 14 Strength saving throw or be pushed up to 15 feet directly away from the gauth and have its speed halved until the start of the gauth's next turn.
+>3. ***Fire Ray.***. The target must succeed on a DC 14 Dexterity saving throw or take 22 (4d10) fire damage.
 >
->* *4. Fire Ray.* The targeted creature must succeed on a DC 14 Dexterity saving throw or take 22 (4d10) fire damage.
+>4. ***Paralyzing Ray.***. The target must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
->* *5. Paralyzing Ray.* The targeted creature must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>5. ***Pushing Ray.***. The target must succeed on a DC 14 Strength saving throw or be pushed up to 15 feet away from the gauth and have its speed halved until the start of the gauth's next turn.
 >
->* *6. Sleep Ray.* The targeted creature must succeed on a DC 14 Wisdom saving throw or fall asleep and remain unconscious for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.
+>6. ***Sleep Ray.***. The target must succeed on a DC 14 Wisdom saving throw or fall asleep and remain unconscious for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on Constructs and Undead.
 >
 
 ---
@@ -360,7 +371,7 @@ A gazer is a tiny manifestation of a beholder's dreams. It resembles the beholde
 ***Familiar.*** The gazer can serve another creature as a familiar, forming a telepathic bond with its willing master, provided that the master is at least a 3rd-level spellcaster. While the two are bonded, the master can sense what the gazer senses as long as they are within 1 mile of each other. If its master causes it physical harm, the gazer will end its service as a familiar, breaking the telepathic bond.
 
 >### Gazer
->*Tiny aberration, neutral evil*
+>*Tiny Aberration (Beholder), Typically Neutral Evil*
 >___
 >- **Armor Class** 13
 >- **Hit Points** 13 (3d4 + 6)
@@ -371,7 +382,7 @@ A gazer is a tiny manifestation of a beholder's dreams. It resembles the beholde
 >|3 (-4)|17 (+3)|14 (+2)|3 (-4)|10 (+0)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Wis +2
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -382,21 +393,22 @@ A gazer is a tiny manifestation of a beholder's dreams. It resembles the beholde
 >- **Languages** --
 >- **Challenge** 1/2
 >___
->***Aggressive.*** As a bonus action, the gazer can move up to its speed toward a hostile creature that it can see.
->
->***Mimicry.*** The gazer can mimic simple sounds of speech it has heard, in any language. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
+>***Mimicry.***. The gazer can mimic simple sounds of speech it has heard, in any language. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
 >
 >#### Actions
->***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+>***Bite.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
 >
->***Eye Rays.*** The gazer shoots two of the following magical eye rays at random (reroll duplicates), choosing one or two targets it can see within 60 feet of it:
+>***Eye Rays.***. The gazer shoots two of the following magical eye rays at random (roll two d4s, and reroll duplicates), choosing one or two targets it can see within 60 feet of it:
 >
->* *1. Dazing Ray.* The targeted creature must succeed on a DC 12 Wisdom saving throw or be charmed until the start of the gazer's next turn. While the target is charmed in this way, its speed is halved, and it has disadvantage on attack rolls.
+>1. ***Dazing Ray.***. The targeted creature must succeed on a DC 12 Wisdom saving throw or be charmed until the start of the gazer's next turn. While the target is charmed in this way, its speed is halved, and it has disadvantage on attack rolls.
 >
->* *2. Fear Ray.* The targeted creature must succeed on a DC 12 Wisdom saving throw or be frightened until the start of the gazer's next turn.
+>2. ***Fear Ray.***. The targeted creature must succeed on a DC 12 Wisdom saving throw or be frightened until the start of the gazer's next turn.
 >
->* *3. Frost Ray.* The targeted creature must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage.
+>3. ***Frost Ray.***. The target must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage.
 >
->* *4. Telekinetic Ray.* If the target is a creature that is Medium or smaller, it must succeed on a DC 12 Strength saving throw or be moved up to 30 feet directly away from the gazer. If the target is an object weighing 10 pounds or less that isn't being worn or carried, the gazer moves it up to 30 feet in any direction. The gazer can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a container.
+>4. ***Telekinetic Ray.***. If the target is a creature that is Medium or smaller, it must succeed on a DC 12 Strength saving throw or be moved up to 30 feet directly away from the gazer. If the target is a Tiny object that isn't being worn or carried, the gazer moves it up to 30 feet in any direction. The gazer can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a container.
+>
+>#### Bonus Actions
+>***Aggressive.***. The gazer moves up to its speed toward a hostile creature that it can see.
 >
 

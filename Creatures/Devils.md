@@ -1,7 +1,7 @@
 # Devils
 Devils personify tyranny, with a totalitarian society dedicated to the domination of mortal life. The shadow of the Nine Hells of Baator extends far across the multiverse, and Asmodeus, the dark lord of Nessus, strives to subjugate the cosmos to satisfy his thirst for power. To do so, he must continually expand his infernal armies, sending his servants to the mortal realm to corrupt the souls from which new devils are spawned.
 
-> Jump to: [Barbed Devil](#Barbed Devil) | [Bearded Devil](#Bearded Devil) | [Bone Devil](#Bone Devil) | [Chain Devil](#Chain Devil) | [Erinyes](#Erinyes) | [Horned Devil](#Horned Devil) | [Ice Devil](#Ice Devil) | [Imp](#Imp) | [Lemure](#Lemure) | [Pit Fiend](#Pit Fiend) | [Spined Devil](#Spined Devil)
+> Jump to: [Bael](#bael) | [Geryon]() | [Amnizu](#amnizu) | [Barbed Devil](#barbed-devil) | [Bearded Devil](#bearded-devil) | [Bone Devil](#bone-devil) | [Chain Devil](#chain-devil) | [Erinyes](#Erinyes) | [Horned Devil](#horned-devil) | [Ice Devil](#ice-devil) | [Imp](#Imp) | [Lemure](#Lemure) | [Pit Fiend](#pit-fiend) | [Spined Devil](#spined-devil)
 
 ***Lords of Tyranny.*** Devils live to conquer, enslave, and oppress. They take perverse delight in exercising authority over the weak, and any creature that defies the authority of a devil faces swift and cruel punishment. Every interaction is an opportunity for a devil to display its power, and all devils have a keen understanding of how to use and abuse their power.
 
@@ -98,6 +98,293 @@ Layer | Layer Name | Archduke/Archduchess | Previous Rulers | Primary Inhabitant
 7 | Maladomini | Baalzebul | -- | Barbed devils, bone devils, horned devils, imps
 8 | Cania      | Mephistopheles |	-- | Horned devils, ice devils, imps, pit fiends
 9 | Nessus     | Asmodeus |	-- | All devils
+
+---
+
+## Bael
+With the Blood War between devils and demons raging for eons and no end in sight, opportunities abound for ambitious archdevils to win fame, glory, and power in the ongoing struggle. Duke Bael, one of Mammon's most important vassals, has won fame and acclaim for his victories. Charged with leading sixty-six companies of barbed devils (see the Monster Manual), Bael has proven to be a tactical genius, earning esteem for himself and his master as a result of victory after victory over the abyssal host. Mammon relies on Bael to safeguard his holdings because of Bael's battle acumen. During a time when so many other archdevils have lost their positions, Mammon has never been ousted, which is a testament to Bael's skill on the battlefield.
+
+For his accomplishments, Bael has been granted the title of Bronze General. His accolades notwithstanding, he has had a difficult time navigating the quagmire of infernal politics. His critics call him naive, though never to his face. His primary interest has always been leading soldiers in battle, so he finds it frustrating to have his ambitions of ascending to a higher rank constantly stymied by politically shrewd rivals.
+
+Bael prefers to make servants out of his adversaries, and mortals bound to his service earn their wretched place by falling victim to his superior stratagems. Bael gladly spares the lives of those he defeats--if they pledge their souls and service to him. Demons are an exception; although he is willing to corrupt almost any other foes, he always destroys demons he defeats.
+
+Bael also welcomes mortals into his service if they can provide him with an advantage in his politicking. He recruits savvy individuals and relies on them to represent his interests at Mammon's court, which leaves him free to pursue his battle lust.
+
+Despite his lack of interest in affairs outside battle, or perhaps because of it, Bael has gained a small following of cultists. Those who worship at his altar call him the King of Hell, and the most deluded believe that he is the lord of all devils. In arcane circles, certain writings, such as the dreaded Book of Fire, say that Bael revealed the invisibility spell to the world, though some scholars of magic hotly refute such claims. Bael is sometimes depicted as a toad, a cat, a human, or some combination of these forms.
+
+>### Bael
+>*Large Fiend (Devil), Lawful Evil*
+>___
+>- **Armor Class** 18 (plate)
+>- **Hit Points** 189 (18d10 + 90)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|24 (+7)|17 (+3)|20 (+5)|21 (+5)|24 (+7)|24 (+7)|
+>
+>___
+>- **Proficiency Bonus** +6
+>- **Saving Throws** Dex +9,Con +11,Int +11,Cha +13
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold; bludgeoning,piercing,and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities** fire,poison
+>- **Condition Immunities** charmed,exhaustion,frightened,poisoned
+>- **Skills** Intimidation +13,Perception +13,Persuasion +13
+>- **Senses** truesight 120 ft.,passive Perception 23
+>- **Languages** all,telepathy 120 ft.
+>- **Challenge** 19
+>___
+>***Dread.***. Any creature, other than a devil, that starts its turn within 10 feet of Bael must succeed on a DC 22 Wisdom saving throw or be frightened of him until the start of its next turn. A creature succeeds on this saving throw automatically if Bael wishes it or if he is incapacitated.
+>
+>***Legendary Resistance (3/Day).***. If Bael fails a saving throw, he can choose to succeed instead.
+>
+>***Magic Resistance.***. Bael have advantage on saving throws against spells and other magical effects.
+>
+>***Regeneration.***. Bael regains 20 hit points at the start of his turn. If he takes cold or radiant damage, this trait doesn't function at the start of his next turn. Bael dies only if he starts his turn with 0 hit points and doesn't regenerate.
+>
+>#### Actions
+>***Multiattack.***. Bael makes two Hellish Morningstar attacks.
+>
+>***Hellish Morningstar.***. Melee Weapon Attack: +13 to hit, reach 20 ft., one target. Hit: 16 (2d8 + 7) force damage plus 9 (2d8) necrotic damage.
+>
+>***Infernal Command.***. Each of Bael's allies within 60 feet of him can't be charmed or frightened until the end of his next turn.
+>
+>***Spellcasting.***. Bael casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 21):
+>
+>At will: alter self (can become Medium), charm person, detect magic, invisibility, major image
+>
+>3/day each: dispel magic, fly, suggestion, wall of fire
+>
+>1/day: dominate monster
+>
+>***Teleport.***. Bael teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
+>
+>#### Legendary Actions
+>Bael can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Bael regains spent legendary actions at the start of his turn.
+>
+>***Fiendish Magic.***. Bael uses Spellcasting or Teleport.
+>
+>***Infernal Command.***. Bael uses Infernal Command.
+>
+>***Attack (Costs 2 Actions).***. Bael makes one Hellish Morningstar attack.
+>
+
+---
+
+## Geryon
+Geryon is locked in an endless struggle with Levistus for control of Stygia. The two have fought for centuries, each displacing the other innumerable times. Currently, Levistus claims lordship over Stygia, but he has been trapped in an enormous block of ice at the command of Asmodeus. In response, Geryon is marshaling his followers, hoping to use this opportunity to replace his hated rival.
+
+Among the archdevils, Geryon is known for his martial prowess. He is a ferocious hunter and a relentless tracker. He often joins his troops in battle; he loves to feel flesh and steel sundered beneath his claws and to taste his foes' blood. Yet Geryon's ferocity has also limited his ability to collect souls and forge an effective hierarchy. Sages who study the Nine Hells believe the battle for control of Stygia is a test staged by Asmodeus in hopes of purging the worst impulses from both Geryon and Levistus--or discovering a competent replacement for both.
+
+***Cultists of Geryon.*** Geryon grants his cultists special abilities. Members of his cult can gain the Crushing Blow trait. Cult leaders can also gain the Indomitable Strength trait.
+
+***Crushing Blow (Recharges after a Short or Long Rest).*** As a bonus action, the creature gains a bonus to the damage roll of its next melee weapon attack roll that hits within the next minute. The bonus equals its Strength modifier (minimum of +1).
+
+***Indomitable Strength (Recharge 5-6).*** As a reaction when this creature takes damage, it can roll a d10 and subtract the number rolled from the damage.
+
+>### Geryon
+>*Huge Fiend (Devil), Lawful Evil*
+>___
+>- **Armor Class** 19 (natural armor)
+>- **Hit Points** 300 (24d12 + 144)
+>- **Speed** 30 ft., fly 50 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|29 (+9)|17 (+3)|22 (+6)|19 (+4)|16 (+3)|23 (+6)|
+>
+>___
+>- **Proficiency Bonus** +7
+>- **Saving Throws** Dex +10,Con +13,Wis +10,Cha +13
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities** cold,fire,poison
+>- **Condition Immunities** charmed,exhaustion,frightened,poisoned
+>- **Skills** Deception +13,Intimidation +13,Perception +10
+>- **Senses** truesight 120 ft.,passive Perception 20
+>- **Languages** all,telepathy 120 ft.
+>- **Challenge** 22
+>___
+>***Legendary Resistance (3/Day).***. If Geryon fails a saving throw, he can choose to succeed instead.
+>
+>***Magic Resistance.***. Geryon has advantage on saving throws against spells and other magical effects.
+>
+>***Regeneration.***. Geryon regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Geryon dies only if he starts his turn with 0 hit points and doesn't regenerate.
+>
+>#### Actions
+>***Multiattack.***. Geryon makes one Claw attack and one Stinger attack.
+>
+>***Claw.***. Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 23 (4d6 + 9) cold damage. If the target is Large or smaller, it is grappled (DC 24), and it is restrained until the grapple ends. Geryon can grapple one creature at a time. If the target is already grappled by Geryon, the target takes an extra 27 (6d8) cold damage.
+>
+>***Stinger.***. Melee Weapon Attack: +16 to hit, reach 20 ft., one creature. Hit: 14 (2d4 + 9) force damage, and the target must succeed on a DC 21 Constitution saving throw or take 13 (2d12) poison damage and become poisoned until it finishes a short or long rest. The target's hit point maximum is reduced by an amount equal to half the poison damage taken. This reduction lasts until the poisoned condition is removed. The target dies if its hit point maximum is reduced to 0.
+>
+>***Sound the Horn (1/Day).***. Geryon blows his horn, which causes 5d4 minotaurs (see the Monster Manual) to appear in unoccupied spaces of his choice within 600 feet of him. The minotaurs roll initiative when they appear, and they obey his commands. They remain until they die or Geryon uses an action to dismiss any or all of them.
+>
+>***Spellcasting.***. Geryon casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 21):
+>
+>At will: alter self (can become Medium when changing his appearance), detect magic, ice storm, invisibility (self only), locate object, suggestion, wall of ice
+>
+>1/day: banishment
+>
+>***Teleport.***. Geryon teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
+>
+>#### Legendary Actions
+>Geryon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Geryon regains spent legendary actions at the start of his turn.
+>
+>***Infernal Glare.***. Geryon targets one creature he can see within 60 feet of him. The target must succeed on a DC 23 Wisdom saving throw or become frightened of Geryon until the end of its next turn.
+>
+>***Teleport.***. Geryon uses Teleport.
+>
+>***Swift Sting (Costs 2 Actions).***. Geryon makes one Stinger attack.
+>
+
+### A Geryon's Lair
+Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling complex that rises from the icy center of Stygia. He roams the passages, spitting oaths of vengeance against Asmodeus and hatching schemes to reclaim his standing from Levistus.The challenge rating of Geryon is 23 (50,000 XP) when he's encountered in his lair.
+
+#### Lair Actions
+On initiative count 20 (losing initiative ties), Geryon can take one of the following lair actions; he can't take the same lair action two rounds in a row:
+* Banish. Geryon casts the banishment spell.
+* Chill Blast. Geryon causes a blast of cold to burst from the ground at a point he can see within 120 feet of him. The cold fills a cube, 10 feet on each side, centered on that point. Each creature in that area must succeed on a DC 21 Constitution saving throw or take 28 (8d6) cold damage.
+* Hateful Restraints. Geryon targets one creature he can see within 60 feet of him. The target must succeed on a DC 21 Wisdom saving throw or become restrained for 1 minute. The target can end the effect on itself if it deals any damage to one or more of its allies.
+#### Regional Effects
+The region containing Geryon's lair is warped by his magic, creating one or more of the following effects:
+* Chilling Wind. Freezing strong winds howl around the area within 1 mile of the lair.
+* Enervating Screams. Howls and screams fill the air within 1 mile of the lair. Any creature that finishes a short or long rest in this area must succeed on a DC 21 Wisdom saving throw or derive no benefit from the rest.
+* Hellish Doorways. Sapient creatures within 1 mile of the lair frequently see shimmering portals leading to places they consider safe. Passing through a portal always deposits a traveler somewhere in Stygia.
+* If Geryon dies, these effects fade over the course of 1d10 days.
+
+---
+
+## Hutijin
+Politics in the Nine Hells are anything but predictable. Alliances form all the time, but most wind up unraveling due to treachery. Nevertheless, for all their backbiting and betrayal, devils do occasionally display loyalty, offering unwavering service to their masters. One such example is Hutijin, a duke of Cania and loyal servant of Mephistopheles.
+
+Across the Hells, Hutijin's name fills lesser devils with fear and loathing, for this duke commands two companies of pit fiends. With such soldiers under his command, Hutijin can easily crush any rival who gets in his way while also defending Mephistopheles against armies seeking to contest his dominion. Hutijin has amassed enough power to challenge the lord of Cania, but he has never wavered in his support for his master--suggesting, perhaps, that Mephistopheles has some hold over him.
+
+Outside the Nine Hells, Hutijin is a relatively obscure figure, known only to the most learned infernal scholars. He has no cults of his own, and his servants are few in number. The reason is simple: Hutijin hates mortals. When summoned from the Hells, he repays the instigator with a long and agonizing death.
+
+Mephistopheles forbids Hutijin from making too many forays into the Material Plane, since the duke's absence leaves him vulnerable to his rivals. Other archdevils know how much Hutijin despises mortals and have secretly disseminated the means to call him from the Nine Hells in the hope of distracting the archdevil long enough for them to assail Mephistopheles. Hutijin sends devils into the Material Plane to eradicate mention of his name and destroy those who have learned of him, but the summonings still occur. When called from his post, he negotiates as quickly as he can, usually closing a deal with little cost to the summoner. However, once the deal has been fulfilled, Hutijin repays the interruption with death.
+
+>### Hutijin
+>*Large Fiend (Devil), Lawful Evil*
+>___
+>- **Armor Class** 19 (natural armor)
+>- **Hit Points** 200 (16d10 + 112)
+>- **Speed** 30 ft., fly 60 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|27 (+8)|15 (+2)|25 (+7)|23 (+6)|19 (+4)|25 (+7)|
+>
+>___
+>- **Proficiency Bonus** +7
+>- **Saving Throws** Dex +9,Con +14,Wis +11
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold; bludgeoning,piercing,and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities** fire,poison
+>- **Condition Immunities** charmed,exhaustion,frightened,poisoned
+>- **Skills** Intimidation +14,Perception +11
+>- **Senses** truesight 120 ft.,passive Perception 21
+>- **Languages** all,telepathy 120 ft.
+>- **Challenge** 21
+>___
+>***Infernal Despair.***. Each creature within 30 feet of Hutijin that isn't a devil makes saving throws with disadvantage.
+>
+>***Legendary Resistance (3/Day).***. If Hutijin fails a saving throw, he can choose to succeed instead.
+>
+>***Magic Resistance.***. Hutijin has advantage on saving throws against spells and other magical effects.
+>
+>***Regeneration.***. Hutijin regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Hutijin dies only if he starts his turn with 0 hit points and doesn't regenerate.
+>
+>#### Actions
+>***Multiattack.***. Hutijin makes one Bite attack, one Claw attack, one Mace attack, and one Tail attack.
+>
+>***Bite.***. Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) fire damage. The target must succeed on a DC 22 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 10 (3d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>
+>***Claw.***. Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) cold damage.
+>
+>***Mace.***. Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) force damage.
+>
+>***Tail.***. Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 19 (2d10 + 8) thunder damage.
+>
+>***Spellcasting.***. Hutijin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 22):
+>
+>At will: alter self (can become Medium when changing his appearance), detect magic, hold monster, invisibility (self only), lightning bolt, suggestion, wall of fire
+>
+>3/day: dispel magic
+>
+>***Teleport.***. Hutijin teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
+>
+>#### Reactions
+>***Fearful Voice (Recharge 5-6).***. In response to taking damage, Hutijin utters a dreadful word of power. Each creature within 30 feet of him that isn't a devil must succeed on a DC 22 Wisdom saving throw or become frightened of him for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that saves against this effect is immune to his Fearful Voice for 24 hours.
+>
+>#### Legendary Actions
+>Hutijin can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Hutijin regains spent legendary actions at the start of his turn.
+>
+>***Attack.***. Hutijin makes one Claw, Mace, or Tail attack.
+>
+>***Teleport.***. Hutijin uses Teleport.
+>
+>***Lightning Storm (Costs 2 Actions).***. Hutijin releases lightning in a 30-foot radius, blocked only by total cover. All other creatures in that area must each make a DC 22 Dexterity saving throw, taking 18 (4d8) lightning damage on a failed save, or half as much damage on a successful one.
+>
+
+
+---
+
+## Amnizu
+Amnizus lead infernal legions into battle and command guardians at the gateways to the Hells. Amnizus are arrogant, bullying, and ruthless, but they're also highly intelligent tacticians and unfailingly loyal--qualities the hellish archdukes value.
+
+Some amnizus perform the critical task of watching over the River Styx from fortresses along the river's blighted banks, where it flows through Dis and Stygia. They collect the souls arriving in the form of lemures (see the Monster Manual). Lemures have no personalities or memories; they're driven only by the desire to commit evil. The amnizus that patrol here drill the rules of the Nine Hells into the new arrivals' minds and marshal them into legions.
+
+>### Amnizu
+>*Medium Fiend (Devil), Typically Lawful Evil*
+>___
+>- **Armor Class** 21 (natural armor)
+>- **Hit Points** 202 (27d8 + 81)
+>- **Speed** 30 ft., fly 40 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|11 (+0)|13 (+1)|16 (+3)|20 (+5)|12 (+1)|18 (+4)|
+>
+>___
+>- **Proficiency Bonus** +6
+>- **Saving Throws** Dex +7,Con +9,Wis +7,Cha +10
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold; bludgeoning,piercing,and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities** fire,poison
+>- **Condition Immunities** charmed,poisoned
+>- **Skills** Perception +7
+>- **Senses** darkvision 120 ft.,passive Perception 17
+>- **Languages** Common,Infernal,telepathy 1,000 ft.
+>- **Challenge** 18
+>___
+>***Summon Devil (1/Day).***. The amnizu summons 2d4 bearded devils or 1d4 barbed devils (both appear in the Monster Manual). A summoned devil appears in an unoccupied space within 60 feet of the amnizu, acts as an ally of the amnizu, and can't summon other devils. It remains for 1 minute, until the amnizu dies, or until its summoner dismisses it as an action.
+>
+>***Devil's Sight.***. Magical darkness doesn't impede the amnizu's darkvision.
+>
+>***Magic Resistance.***. The amnizu has advantage on saving throws against spells and other magical effects.
+>
+>#### Actions
+>***Multiattack.***. The amnizu uses Blinding Rot or Forgetfulness, if available. It also makes two Taskmaster Whip attacks.
+>
+>***Taskmaster Whip.***. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 9 (1d8 + 5) slashing damage plus 16 (3d10) force damage.
+>
+>***Blinding Rot.***. The amnizu targets one or two creatures that it can see within 60 feet of it. Each target must succeed on a DC 19 Wisdom saving throw or take 26 (4d12) necrotic damage and be blinded until the start of the amnizu's next turn.
+>
+>***Forgetfulness (Recharge 6).***. The amnizu targets one creature it can see within 60 feet of it. That creature must succeed on a DC 18 Intelligence saving throw or take 26 (4d12) psychic damage and become stunned for 1 minute. A stunned creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success. If the target is stunned for the full minute, it forgets everything it sensed, experienced, and learned during the last 5 hours.
+>
+>***Spellcasting.***. The amnizu casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 19):
+>
+>At will: command
+>
+>3/day: dominate monster
+>
+>1/day: feeblemind
+>
+>#### Reactions
+>***Instinctive Charm.***. When a creature within 60 feet of the amnizu makes an attack roll against it, and another creature is within the attack's range, the attacker must make a DC 19 Wisdom saving throw. On a failed save, the attacker must target the creature that is closest to it, not including the amnizu or itself. If multiple creatures are closest, the attacker chooses which one to target. If the saving throw is successful, the attacker is immune to the amnizu's Instinctive Charm for 24 hours.
+>
 
 ---
 

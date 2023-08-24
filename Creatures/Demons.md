@@ -1,7 +1,7 @@
 # Demons
 Spawned in the Infinite Layers of the Abyss, demons are the embodiment of chaos and evil -- engines of destruction barely contained in monstrous form. Possessing no compassion, empathy, or mercy, they exist only to destroy.
 
-> Jump to: [Balor](#balor) | [Barlgura](#barlgura) | [Chasme](#chasme) | [Dretch](#dretch) | [Glabrezu](#glabrezu) | [Goristro](#goristro) | [Hezrou](#hezrou) | [Manes](#manes) | [Marilith](#marilith) | [Nalfeshnee](#malfeshnee) | [Quasit](#quasit) | [Shadow Demon](#shadow-demon) | [Vrock](#vrock) | [Yochlol](#yochlol) | [Babau](#babau) | [Maw Demon](#maw-demon) | [Shoosuva](#shoosuva)
+> Jump to: [Baphomet](#baphomet) | [Demogorgon](#demogorgon) | [Fraz-Urb'luu](#fraz-urbluu) | [Armanite](#armanite) | [Babau](#babau) | [Balor](#balor) | [Barlgura](#barlgura) | [Bulezau](#bulezau) | [Chasme](#chasme) | [Dretch](#dretch) | [Dybbuk](#dybbuk) | [Glabrezu](#glabrezu) | [Goristro](#goristro) | [Hezrou](#hezrou) | [Manes](#manes) | [Marilith](#marilith) | [Nalfeshnee](#malfeshnee) | [Quasit](#quasit) | [Shadow Demon](#shadow-demon) | [Vrock](#vrock) | [Yochlol](#yochlol) | [Maw Demon](#maw-demon) | [Shoosuva](#shoosuva)
 
 ***Spawn of Chaos.*** The Abyss creates demons as extensions of itself, spontaneously forming fiends out of filth and carnage. Some are unique monstrosities, while others represent uniform strains virtually identical to each other. Other demons (such as manes) are created from mortal souls shunned or cursed by the gods, or which are otherwise trapped in the Abyss.
 
@@ -50,45 +50,473 @@ The chaotic power of the Abyss rewards demons of particular ruthlessness and ing
 
 As with other demons, a demon lord that dies on another plane has its essence return to the Abyss, where it reforms into a new body. Likewise, a demon lord that dies in the Abyss is permanently destroyed. Most demon lords keep a portion of their essence safely stored away to prevent such a fate.
 
-#### Baphomet
-The demon lord Baphomet, also known as the Horned King and the Prince of Beasts, rules over minotaurs and other savage creatures. If he had his way, civilization would crumble and all races would embrace their base animal savagery.
+#### Other Demon Lords
+No one knows the full number of demon lords that rage in the Abyss. Given the infinite depths of that plane, powerful demons constantly rise to become demon lords, then fall almost as quickly. Among the demon lords whose power has endured long enough for demonologists to name them are Fraz-Urb'luu, the Prince of Deception; Kostchtchie, the Prince of Wrath; Pazuzu, Prince of the Lower Aerial Kingdoms; and Zuggtmoy, Lady of Fungi.
 
-The Prince of Beasts appears as a huge, black-furred minotaur with iron horns, red eyes, and a blood-soaked mouth. His iron crown is topped with the rotting heads of his enemies, while his dark armor is set with spikes and skull-like serrations. He carries a huge glaive named Heartcleaver, but often hurls it into the fray so as to face his enemies with horns and hooves.
+---
 
-#### Demogorgon
-The Sibilant Beast and the self-styled Prince of Demons, Demogorgon yearns for nothing less than undoing the order of the multiverse. An insane assemblage of features and drives, the Prince of Demons inspires fear and hatred among other demons and demon lords.
+## Baphomet
+Civilization is weakness and brutality is strength in the credo of Baphomet, the Horned King and the Prince of Beasts. He is worshiped by those who want to break the confines of civility and unleash their bestial natures, for Baphomet envisions a world without restraint, where creatures live out their most bloodthirsty desires.
 
-Demogorgon towers three times the height of a human, his body as sinuous as a snake's and as powerful as a great ape's. Suckered tentacles take the place of his arms. His saurian lower torso ends in webbed and clawed feet, and a forked tail whose whip-like tips are armed with cruel blades. The Prince of Demons has two baleful baboon heads, both of them mad. It is only the conflict between the two halves of his dual nature that keeps the demon lord's ambitions in check.
+Cults devoted to Baphomet use mazes and complex knots as their emblems. They create secret places to indulge themselves, including labyrinths of the sort their master favors. Bloodstained crowns and weapons of iron and brass decorate their profane altars.
 
-#### Graz'zt
-The demon lord Graz'zt appears as a darkly handsome figure nearly nine feet tall. Those who refer to the Dark Prince as the most humanoid of the demon lords vastly underestimate the capacity for evil in his scheming heart.
+Over time, a cultist of Baphomet becomes tainted by his influence, gaining bloodshot eyes and coarse, thickening hair. Small horns eventually sprout from the cultist's forehead. In time, a devoted cultist might transform entirely into a minotaur, which is considered the greatest gift of the Prince of Beasts.
 
-Graz'zt is a striking physical specimen, whose demonic nature shows in his ebon skin, pointed ears, yellow fangs, crown of horns, and six-fingered hands. He delights in finery, pageantry, and sating his decadent desires with subjects and consorts alike, among whom incubi and succubi are often his favorites.
+Baphomet appears as a fearsome, 20-foot-tall minotaur with six iron horns. A fiendish light burns in his red eyes. Although he is filled with bestial blood lust, there lies within him a cruel and cunning intellect devoted to subverting all civilization.
 
-#### Juiblex
-The demon lord of slimes and oozes, Juiblex is a stew of noxious fluids that lurks in the abyssal depths. The wretched Faceless Lord cares nothing for cultists or mortal servants, and its sole desire is to turn all creatures into formless copies of its horrid self.
+Baphomet wields a great glaive called Heartcleaver. He also charges his enemies and gores them with his horns, trampling his foes into the earth and rending them with his teeth like a beast.
 
-In its resting state, Juiblex spreads out in a noxious mass, bubbling and filling the air with a profound stench. On the rare occasions when creatures confront the demon lord, Juiblex draws itself up into a shuddering cone of slime striated with veins of black and green. Baleful red eyes swim within its gelatinous body, while dripping pseudopods of ooze lash out hungrily at any creature they can reach.
+## Cultists of Baphomet
+Baphomet grants his cultists special abilities. All his devotees gain the Labyrinthine Recall trait below. He grants his rank-and-file followers the Unerring Tracker trait, and cult leaders gain the Incite the Hunters trait.
 
-#### Lolth
+***Labyrinthine Recall.***. This creature can perfectly recall any path it has traveled.
+
+***Unerring Tracker.***. As a bonus action, this creature magically creates a psychic link with one creature it can see. For the next hour, as a bonus action this creature learns the current distance and direction to the target if it is on the same plane of existence. The link ends if this creature is incapacitated or if it uses this ability on a different target.
+
+***Incite the Hunters (Recharges after a Short or Long Rest).*** As an action, this creature allows each ally within 30 feet of it that has the Unerring Tracker trait to make one weapon attack as a reaction against the target of that ally's Unerring Tracker.
+
+>### Baphomet
+>*Huge Fiend (Demon), Chaotic Evil*
+>___
+>- **Armor Class** 22 (natural armor)
+>- **Hit Points** 319 (22d12 + 176)
+>- **Speed** 40 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|30 (+10)|14 (+2)|26 (+8)|18 (+4)|24 (+7)|16 (+3)|
+>
+>___
+>- **Proficiency Bonus** +7
+>- **Saving Throws** Dex +9,Con +15,Wis +14
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold,fire,lightning
+>- **Damage Immunities** poison; bludgeoning,piercing,and slashing that is nonmagical
+>- **Condition Immunities** charmed,exhaustion,frightened,poisoned
+>- **Skills** Intimidation +17,Perception +14
+>- **Senses** truesight 120 ft.,passive Perception 24
+>- **Languages** all,telepathy 120 ft.
+>- **Challenge** 23
+>___
+>***Labyrinthine Recall.***. Baphomet can perfectly recall any path he has traveled, and he is immune to the maze spell.
+>
+>***Legendary Resistance (3/Day).***. If Baphomet fails a saving throw, he can choose to succeed instead.
+>
+>***Magic Resistance.***. Baphomet has advantage on saving throws against spells and other magical effects.
+>
+>#### Actions
+>***Multiattack.***. Baphomet makes one Bite attack, one Gore attack, and one Heartcleaver attack. He also uses Frightful Presence.
+>
+>***Bite.***. Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 19 (2d8 + 10) piercing damage.
+>
+>***Gore.***. Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 17 (2d6 + 10) piercing damage. If Baphomet moved at least 10 feet straight toward the target immediately before the hit, the target takes an extra 16 (3d10) piercing damage. If the target is a creature, it must succeed on a DC 25 Strength saving throw or be pushed up to 10 feet away and knocked prone.
+>
+>***Heartcleaver.***. Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 21 (2d10 + 10) force damage.
+>
+>***Frightful Presence.***. Each creature of Baphomet's choice within 120 feet of him and aware of him must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. These later saves have disadvantage if Baphomet is within line of sight of the creature.
+>
+>If a creature succeeds on any of these saves or the effect ends on it, the creature is immune to Baphomet's Frightful Presence for the next 24 hours.
+>
+>***Spellcasting.***. Baphomet casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 18):
+>
+>3/day each: dispel magic, dominate beast, maze, wall of stone
+>
+>1/day: teleport
+>
+>#### Legendary Actions
+>Baphomet can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Baphomet regains spent legendary actions at the start of his turn.
+>
+>***Heartcleaver Attack.***. Baphomet makes one Heartcleaver attack.
+>
+>***Charge (Costs 2 Actions).***. Baphomet moves up to his speed without provoking opportunity attacks, then makes a Gore attack.
+>
+
+### Baphomet's Lair
+Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss called the Endless Maze. Nestled within the twisting passages of the plane-wide labyrinth, the Lyktion is immaculately maintained and surrounded by a moat constructed in the fashion of a three-dimensional maze. The palace is a towering structure whose interior is as labyrinthine as the plane on which it stands; it is populated by minotaurs, goristros, and quasits, all of which appear in the Monster Manual.
+
+#### Lair Actions
+On initiative count 20 (losing initiative ties), Baphomet can take one of the following lair actions; he can't take the same lair action two rounds in a row:
+* Illusory Room. Baphomet casts mirage arcane, affecting a room within the lair that is no larger in any dimension than 100 feet. The effect ends on the next initiative count 20. Charisma is Baphomet's spellcasting ability for this spell.
+* Reverse Gravity. Baphomet chooses a room within the lair that is no larger in any dimension than 100 feet. Until the next initiative count 20, gravity is reversed within that room. Any creatures or objects in the room when this happens fall in the direction of the new pull of gravity, unless they have some means of remaining aloft. Baphomet can ignore the gravity reversal if he's in the room, although he likes to use this action to land on a ceiling to attack targets flying near it.
+* Seal the Way. Baphomet seals one doorway or other entryway within the lair. The opening must be unoccupied. It is filled with solid stone for 1 minute or until Baphomet takes this lair action again.
+#### Regional Effects
+The region containing Baphomet's lair is warped by his magic, creating one or more of the following effects:
+* Beguiling Realm. Within 6 miles of the lair, all Charisma (Persuasion) and Charisma (Performance) checks have disadvantage, and all Charisma (Deception) and Charisma (Intimidation) checks have advantage.
+* Hedge Mazes. Plant life within 1 mile of the lair grows thick and forms walls of trees, hedges, and other flora in the form of small mazes.
+* Panicked Beasts. Beasts within 1 mile of the lair become frightened and disoriented, as though constantly under threat of being hunted, and might lash out or panic even when no visible threat is nearby.
+* If Baphomet dies, these effects fade over the course of 1d10 days.
+
+---
+
+## Demogorgon
+Prince of Demons, the Sibilant Beast, and Master of the Spiraling Depths, Demogorgon is the embodiment of chaos, confusion, and destruction, seeking to corrupt all that is good and undermine order in the multiverse, to see everything dragged howling into the infinite depths of the Abyss.
+
+Demogorgon towers three times the height of a human, his body as sinuous as a snake's and as powerful as a great ape's. Suckered tentacles take the place of his arms. His saurian lower torso ends in webbed and clawed feet, and a forked tail whose whip-like tips are armed with cruel blades. The Prince of Demons has two baleful baboon heads, both of them mad. It is only the conflict between the two halves of his dual nature that keeps the demon lord's ambitions in check. Their gaze brings bewilderment and confusion to any who confront them.
+
+Similarly, the spiraling Y sign of Demogorgon's cult drives those who contemplate it for too long to delirium. As a result, all followers of the Prince of Demons break with reality sooner or later.
+
+Cultists of Demogorgon
+
+Demogorgon's followers are typically lone killers driven by the whispering voice of their master. His most blessed followers gain the Two Minds of Chaos trait.
+
+***Two Minds of Chaos.***. This creature has advantage on all Intelligence, Wisdom, and Charisma saving throws.
+
+>### Demogorgon
+>*Huge Fiend (Demon), Chaotic Evil*
+>___
+>- **Armor Class** 22 (natural armor)
+>- **Hit Points** 464 (32d12 + 256)
+>- **Speed** 50 ft., swim 50 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|29 (+9)|14 (+2)|26 (+8)|20 (+5)|17 (+3)|25 (+7)|
+>
+>___
+>- **Proficiency Bonus** +8
+>- **Saving Throws** Dex +10,Con +16,Wis +11,Cha +15
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold,fire,lightning
+>- **Damage Immunities** poison; bludgeoning,piercing,and slashing that is nonmagical
+>- **Condition Immunities** charmed,exhaustion,frightened,poisoned
+>- **Skills** Insight +11,Perception +19
+>- **Senses** truesight 120 ft.,passive Perception 29
+>- **Languages** all,telepathy 120 ft.
+>- **Challenge** 26
+>___
+>***Legendary Resistance (3/Day).***. If Demogorgon fails a saving throw, he can choose to succeed instead.
+>
+>***Magic Resistance.***. Demogorgon has advantage on saving throws against spells and other magical effects.
+>
+>***Two Heads.***. Demogorgon has advantage on saving throws against being blinded, deafened, stunned, or knocked unconscious.
+>
+>#### Actions
+>***Multiattack.***. Demogorgon makes two Tentacle attacks. He can replace one attack with a use of Gaze.
+>
+>***Tentacle.***. Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 28 (3d12 + 9) force damage. If the target is a creature, it must succeed on a DC 23 Constitution saving throw, or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.
+>
+>***Gaze.***. Demogorgon turns his magical gaze toward one creature he can see within 120 feet of him. The target must succeed on a DC 23 Wisdom saving throw or suffer one of the following effects (choose one or roll a d6):
+>
+>***1-2: Beguiling Gaze.***. The target is stunned until the start of Demogorgon's next turn or until Demogorgon is no longer within line of sight.
+>
+>***3-4: Confusing Gaze.***. The target suffers the effect of the confusion spell without making a saving throw. The effect lasts until the start of Demogorgon's next turn. Demogorgon doesn't need to concentrate on the spell.
+>
+>***5-6: Hypnotic Gaze.***. The target is charmed by Demogorgon until the start of Demogorgon's next turn. Demogorgon chooses how the charmed target uses its action, reaction, and movement.
+>
+>***Spellcasting.***. Demogorgon casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 23):
+>
+>At will: detect magic, major image
+>
+>3/day each: dispel magic, fear, telekinesis
+>
+>1/day each: feeblemind, project image
+>
+>#### Legendary Actions
+>Demogorgon can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Demogorgon regains spent legendary actions at the start of his turn.
+>
+>***Gaze.***. Demogorgon uses Gaze and must use either Beguiling Gaze or Confusing Gaze.
+>
+>***Tail.***. Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) bludgeoning damage plus 11 (2d10) necrotic damage.
+>
+>***Cast a Spell (Costs 2 Actions).***. Demogorgon uses Spellcasting.
+>
+
+### Demogorgon's Lair
+Demogorgon makes his lair in a palace called Abysm, found on a layer of the Abyss known as the Gaping Maw. Demogorgon's lair is a place of confusion and duality; the portion of the palace that lies above water takes the form of two serpentine towers, each crowned by a skull-shaped minaret. There, Demogorgon's heads contemplate the mysteries of the arcane while arguing about how best to obliterate their rivals. The bulk of this palace extends deep underwater, in chill and darkened caverns.
+
+#### Lair Actions
+On initiative count 20 (losing initiative ties), Demogorgon can take one of the following lair actions; he can't take the same lair action two rounds in a row:
+* Darkness. Demogorgon casts the darkness spell four times, targeting different areas with the spell. Demogorgon doesn't need to concentrate on the spells, which end on initiative count 20 of the next round.
+* Illusory Duplicate. Demogorgon creates an illusory duplicate of himself, which appears in his space and lasts until initiative count 20 of the next round. On his turn, Demogorgon can move the illusory duplicate a distance equal to his walking speed (no action required). The first time a creature or an object interacts physically with Demogorgon (for example, by hitting him with an attack), there is a 50 percent chance that the illusory duplicate is affected, not Demogorgon, in which case the illusion disappears.
+#### Regional Effects
+The region containing Demogorgon's lair is warped by his magic, creating one or more of the following effects:
+* Beguiling Realm. Within 6 miles of the lair, all Charisma (Persuasion) and Charisma (Performance) checks have disadvantage, and all Charisma (Deception) and Charisma (Intimidation) checks have advantage.
+* Frenzied Animals. Beasts within 1 mile of the lair become frenzied and violent--even creatures that are normally docile. Within that area, any ability check involving Animal Handling has disadvantage.
+* Venomous Beasts. The area within 6 miles of the lair becomes overpopulated with poisonous snakes and other venomous Beasts.
+* If Demogorgon dies, these effects fade over the course of 1d10 days.
+
+---
+
+## Fraz-Urb'luu
+Fraz-Urb'luu is the Prince of Deception and Demon Lord of Illusions. He uses every trick, every ounce of demonic cunning, to manipulate his enemies--mortal and Fiend alike--to do his will. Fraz-Urb'luu can create dreamlands and mind-bending fantasies able to deceive the most discerning foes.
+
+Once imprisoned for centuries below Castle Greyhawk on the world of Oerth, Fraz-Urb'luu has slowly rebuilt his power in the Abyss. He seeks the pieces of the legendary staff of power taken from him by those who imprisoned him and commands his servants to do likewise.
+
+The Prince of Deception's true form is like that of a great gargoyle, some 12 feet tall, with an extended, muscular neck; a smiling face framed by long, pointed ears and lank, dark hair; and bat-like wings are furled against his powerful shoulders. He can assume other forms, however, from the hideous to the beautiful.
+
+Cultists of Fraz-Urb'luu
+
+Fraz-Urb'luu grants his cultists the Liar's Eye trait.
+
+***Liar's Eye.***. This creature has advantage on Wisdom (Insight or Perception) checks. As a bonus action, the creature detects the location of all illusions and hidden creatures within 15 feet of it.
+
+Many of the cultists of Fraz-Urb'luu aren't even aware they serve the Prince of Deception, believing their master is a beneficent being and granter of wishes, some lost god or Celestial, or even another Fiend. Fraz-Urb'luu wears all these masks and more. He particularly delights in aiding demon-hunters against his demonic adversaries, driving the hunters to greater and greater atrocities in the name of their cause, only to eventually reveal his true nature and claim their souls as his own.
+
+>### Fraz-Urb'luu
+>*Large Fiend (Demon), Chaotic Evil*
+>___
+>- **Armor Class** 18 (natural armor)
+>- **Hit Points** 337 (27d10 + 189)
+>- **Speed** 40 ft., fly 40 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|29 (+9)|12 (+1)|25 (+7)|26 (+8)|24 (+7)|26 (+8)|
+>
+>___
+>- **Proficiency Bonus** +7
+>- **Saving Throws** Dex +8,Con +14,Int +15,Wis +14
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold,fire,lightning
+>- **Damage Immunities** poison; bludgeoning,piercing,and slashing that is nonmagical
+>- **Condition Immunities** charmed,exhaustion,frightened,poisoned
+>- **Skills** Deception +15,Perception +14,Stealth +8
+>- **Senses** truesight 120 ft.,passive Perception 24
+>- **Languages** all,telepathy 120 ft.
+>- **Challenge** 23
+>___
+>***Legendary Resistance (3/Day).***. If Fraz-Urb'luu fails a saving throw, he can choose to succeed instead.
+>
+>***Magic Resistance.***. Fraz-Urb'luu has advantage on saving throws against spells and other magical effects.
+>
+>***Undetectable.***. Fraz-Urb'luu can't be targeted by divination magic, perceived through magical scrying sensors, or detected by abilities that sense demons or Fiends.
+>
+>#### Actions
+>***Multiattack.***. Fraz-Urb'luu makes one Bite attack and two Fist attacks, and he uses Phantasmal Terror.
+>
+>***Bite.***. Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 19 (3d6 + 9) force damage.
+>
+>***Fist.***. Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 22 (3d8 + 9) force damage.
+>
+>***Phantasmal Terror.***. Fraz-Urb'luu targets one creature he can see within 120 feet of him. The target must succeed on a DC 23 Wisdom saving throw, or it takes 16 (3d10) psychic damage and is frightened of Fraz-Urb'luu until the end of its next turn.
+>
+>***Spellcasting.***. Fraz-Urb'luu casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 23):
+>
+>At will: alter self (can become Medium when changing his appearance), detect magic, dispel magic, phantasmal force
+>
+>3/day each: mislead, programmed illusion, seeming
+>
+>1/day each: modify memory, project image
+>
+>#### Legendary Actions
+>Fraz-Urb'luu can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Fraz-Urb'luu regains spent legendary actions at the start of his turn.
+>
+>***Tail.***. Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) force damage. If the target is a Large or smaller creature, it is also grappled (escape DC 24), and it is restrained until the grapple ends. Fraz-Urb'luu can grapple only one creature with his tail at a time.
+>
+>***Terror (Costs 2 Actions).***. Fraz-Urb'luu uses Phantasmal Terror.
+>
+
+### Fraz-Urb'luu's Lair
+Fraz-Urb'luu's lair lies within the abyssal realm of Hollow's Heart, a plain of white dust with few structures on it. The lair itself is the city of Zoragmelok, a circular fortress surrounded by adamantine walls topped with razors and hooks. Corkscrew towers loom above twisted domes and vast amphitheaters, forming a surreal and disorienting cityscape.The challenge rating of Fraz-Urb'luu is 24 (62,000 XP) when he's encountered in his lair.
+
+#### Lair Actions
+On initiative count 20 (losing initiative ties), Fraz-Urb'luu can take one of the following lair actions when in his lair; he can't take the same lair action two rounds in a row:
+* Conjure Walls and Doors. Fraz-Urb'luu causes up to five doors within the lair to become walls and an equal number of doors to appear on walls where there previously were none.
+* Psychic Anguish. Fraz-Urb'luu creates a wave of anguish. Each creature he can see within the lair must succeed on a DC 23 Wisdom saving throw or take 33 (6d10) psychic damage.
+* Simulacrum. Fraz-Urb'luu chooses one Humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the simulacrum spell). This simulacrum obeys Fraz-Urb'luu's commands and is destroyed on the next initiative count 20.
+#### Regional Effects
+The region containing Fraz-Urb'luu's lair is warped by his magic, creating one or more of the following effects:
+* Beguiling Realm. Within 6 miles of the lair, all Charisma (Persuasion) and Wisdom (Insight) checks have disadvantage, and all Charisma (Deception) and Charisma (Performance) checks have advantage.
+* Nostalgic Pangs. Sapient creatures within 1 mile of the lair frequently see hallucinations of long-dead friends and comrades that vanish after only a brief glimpse.
+* Twisted Paths. Roads and paths within 6 miles of the lair twist and turn back on themselves, making navigation in the area exceedingly difficult.
+* If Fraz-Urb'luu dies, these effects fade over the course of 1d10 days.
+
+---
+
+## Graz'zt
+The appearance of this demon lord is a warning that not all that is beautiful is good. Every plane and curve of his nine-foot-tall body, every glance of his burning eyes, promises a mixture of pleasure and pain. Graz'zt can transform himself at will, appearing in any humanlike form that pleases him or his onlookers, all equally tempting in their own ways. In every form, though, a subtle wrongness pervades his beauty, from the cruel cast of his features to the six fingers on each hand and six toes on each foot.
+
+Graz'zt surrounds himself with the finest of things and the most attractive of servants, and he adorns himself in silks and leathers both striking and disturbing in their workmanship. His lair and those of his cultists are pleasure palaces where nothing is forbidden save moderation and kindness.
+
+Cults devoted to him are secret societies of indulgence, often using their debauchery to subjugate others through blackmail, addiction, and manipulation. They wear alabaster masks with ecstatic expressions and ostentatious dress and body ornamentation to their secret assignations.
+
+Although he prefers charm and subtle manipulation, Graz'zt is capable of terrible violence when provoked. He wields the greatsword Angdrelve, also called Wave of Sorrow, whose wavy, razor-edged blade drips acid at his command.
+
+***Cultists of Graz'zt***. Graz'zt grants his cultists special abilities. His cultists can gain the Joy from Pain trait, while his cult leaders can gain the Master of Pleasures trait.
+
+***Joy from Pain.***. Whenever this creature suffers a critical hit, it can make one melee weapon attack as a reaction.
+
+***Master of Pleasures.***. As a reaction when this creature takes damage, it can magically grant 5 temporary hit points to itself and up to three allies within 30 feet of it.
+
+>### Graz'zt
+>*Large Fiend (Demon), Chaotic Evil*
+>___
+>- **Armor Class** 20 (natural armor)
+>- **Hit Points** 346 (33d10 + 165)
+>- **Speed** 40 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|22 (+6)|15 (+2)|21 (+5)|23 (+6)|21 (+5)|26 (+8)|
+>
+>___
+>- **Proficiency Bonus** +7
+>- **Saving Throws** Dex +9,Con +12,Wis +12
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold,fire,lightning
+>- **Damage Immunities** poison; bludgeoning,piercing,and slashing that is nonmagical
+>- **Condition Immunities** charmed,exhaustion,frightened,poisoned
+>- **Skills** Deception +15,Insight +12,Perception +12,Persuasion +15
+>- **Senses** truesight 120 ft.,passive Perception 22
+>- **Languages** all,telepathy 120 ft.
+>- **Challenge** 24
+>___
+>***Legendary Resistance (3/Day).***. If Graz'zt fails a saving throw, he can choose to succeed instead.
+>
+>***Magic Resistance.***. Graz'zt has advantage on saving throws against spells and other magical effects.
+>
+>#### Actions
+>***Multiattack.***. Graz'zt makes two Wave of Sorrow attacks. He can replace one attack with a use of Spellcasting.
+>
+>***Wave of Sorrow (Greatsword).***. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 20 (4d6 + 6) force damage plus 14 (4d6) acid damage.
+>
+>***Spellcasting.***. Graz'zt casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 23):
+>
+>At will: charm person, detect magic, dispel magic
+>
+>3/day each: darkness, dominate person, telekinesis, teleport
+>
+>1/day each: dominate monster, greater invisibility
+>
+>***Teleport.***. Graz'zt teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
+>
+>#### Bonus Actions
+>***Change Shape.***. Graz'zt transforms into a form that resembles a Medium Humanoid or back into his true form. Aside from his size, his statistics are the same in each form. Any equipment he is wearing or carrying isn't transformed.
+>
+>#### Reactions
+>***Negate Spell (Recharge 5-6).***. Graz'zt tries to interrupt a spell he sees a creature casting within 60 feet of him. If the spell is 3rd level or lower, the spell fails and has no effect. If the spell is 4th level or higher, Graz'zt makes a Charisma check against a DC of 10 + the spell's level. On a success, the spell fails and has no effect.
+>
+>#### Legendary Actions
+>Graz'zt can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Graz'zt regains spent legendary actions at the start of his turn.
+>
+>***Abyssal Magic.***. Graz'zt uses Spellcasting or Teleport.
+>
+>***Attack.***. Graz'zt makes one Wave of Sorrow attack.
+>
+>***Dance, My Puppet.*** One creature charmed by Graz'zt that Graz'zt can see must use its reaction to move up to its speed as Graz'zt directs.
+>
+
+### Graz'zt's Lair
+Graz'zt's principal lair is his Argent Palace, a grandiose structure in the city of Zelatar, found within his abyssal domain of Azzagrat. Graz'zt's demonic influence radiates outward in a tangible ripple, warping reality around him. Given enough time in a single location, Graz'zt can twist it with his power.Graz'zt's lair is a den of ostentation and hedonism. It is adorned with finery and decorations so decadent that even the wealthiest of mortals would blush at the excess. Within Graz'zt's lairs, devotees and subjects alike are forced to slake Graz'zt's thirst for pageantry.
+
+#### Lair Actions
+On initiative count 20 (losing initiative ties), Graz'zt can take one of the following lair actions; he can't take the same lair action two rounds in a row:
+* Command. Graz'zt casts the command spell on every creature of his choice in the lair. He needn't see each one, but he must be aware that an individual is in the lair to target that creature. He issues the same command to all the targets.
+* Conjure Mirrors. Smooth surfaces within the lair become as reflective as a polished mirror. Until a different lair action is used, creatures within the lair have disadvantage on Dexterity (Stealth) checks made to hide.
+#### Regional Effects
+The region containing Graz'zt's lair is warped by his magic, creating one or more of the following effects:
+* Agitated Beasts. Wild beasts within 6 miles of the lair break into frequent conflicts and coupling, mirroring the behavior that occurs during their mating seasons.
+* Beguiling Realm. Within 6 miles of the lair, all Wisdom (Insight) checks have disadvantage, and all Charisma (Deception) and Charisma (Persuasion) checks have advantage.
+* Mirrors Everywhere. Flat surfaces within 1 mile of the lair that are made of stone or metal become highly reflective, as though polished to a shine. These surfaces become supernaturally mirrorlike.
+* If Graz'zt dies, these effects fade over the course of 1d10 days.
+
+---
+
+## Juiblex
+Called the Faceless Lord and the Oozing Hunger in ancient grimoires, Juiblex is demon lord of slime and ooze, a noxious creature that doesn't care about the plots and schemes of others of its kind. It exists only to consume, digesting and transforming living matter into more of itself.
+
+In its resting state, Juiblex spreads out in a noxious mass, bubbling and filling the air with a profound stench. On the rare occasions when creatures confront the demon lord, Juiblex draws itself up into a shuddering cone of slime striated with veins of black and green. Baleful red eyes swim within its gelatinous body, while dripping pseudopods of ooze lash out hungrily at any creature they can reach. It can rise up like a 20-foot hill, lashing out with dripping pseudopods to drag victims into its bulk. Those consumed by Juiblex are obliterated.
+
+***Cultists of Juiblex.*** The Faceless Lord grants its cultists special abilities. Lesser followers can gain the Liquid Movement trait. The most dedicated devotees of ooze can also gain the Slimy Organs trait.
+
+***Liquid Movement.***. As an action, this creature can move up to 20 feet through spaces no more than an inch in diameter. It must end this movement in a space that can accommodate its full size. Otherwise, it takes 5 force damage and returns to the space where it began this movement.
+
+***Slimy Organs.***. This creature has resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks. Whenever this creature suffers a critical hit or is reduced to 0 hit points, it sprays acid; each creature within 5 feet of it takes acid damage equal to its number of Hit Dice.
+
+>### Juiblex
+>*Huge Fiend (Demon), Chaotic Evil*
+>___
+>- **Armor Class** 18 (natural armor)
+>- **Hit Points** 350 (28d12 + 168)
+>- **Speed** 30 ft., climb 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|24 (+7)|10 (+0)|23 (+6)|20 (+5)|20 (+5)|16 (+3)|
+>
+>___
+>- **Proficiency Bonus** +7
+>- **Saving Throws** Dex +7,Con +13,Wis +12
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold,fire,lightning
+>- **Damage Immunities** acid,poison; bludgeoning,piercing,and slashing that is nonmagical
+>- **Condition Immunities** blinded,charmed,deafened,exhaustion,frightened,grappled,paralyzed,petrified,poisoned,prone,restrained,stunned,unconscious
+>- **Skills** Perception +12
+>- **Senses** truesight 120 ft.,passive Perception 22
+>- **Languages** all,telepathy 120 ft.
+>- **Challenge** 23
+>___
+>***Foul.***. Any creature other than an Ooze that starts its turn within 10 feet of Juiblex must succeed on a DC 21 Constitution saving throw or be poisoned until the start of the creature's next turn.
+>
+>***Legendary Resistance (3/Day).***. If Juiblex fails a saving throw, it can choose to succeed instead.
+>
+>***Magic Resistance.***. Juiblex has advantage on saving throws against spells and other magical effects.
+>
+>***Regeneration.***. Juiblex regains 20 hit points at the start of its turn. If it takes fire or radiant damage, this trait doesn't function at the start of its next turn. Juiblex dies only if it starts its turn with 0 hit points and doesn't regenerate.
+>
+>***Spider Climb.***. Juiblex can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+>
+>#### Actions
+>***Multiattack.***. Juiblex makes three Acid Lash attacks.
+>
+>***Acid Lash.***. Melee or Ranged Weapon Attack: +14 to hit, reach 10 ft. or range 60/120 ft., one target. Hit: 21 (4d6 + 7) acid damage. Any creature killed by this attack is drawn into Juiblex's body, where the corpse is dissolved after 1 minute.
+>
+>***Eject Slime (Recharge 5-6).***. Juiblex spews out a corrosive slime, targeting one creature that it can see within 60 feet of it. The target must succeed on a DC 21 Dexterity saving throw or take 55 (10d10) acid damage. Unless the target avoids taking all of this damage, any metal armor worn by the target takes a permanent -1 penalty to the AC it offers, and any metal weapon the target is carrying or wearing takes a permanent -1 penalty to damage rolls. The penalty worsens each time a target is subjected to this effect. If the penalty on an object drops to -5, the object is destroyed. The penalty on an object can be removed by the mending spell.
+>
+>***Spellcasting.***. Juiblex casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 20):
+>
+>At will: detect magic
+>
+>3/day each: contagion, gaseous form
+>
+>#### Legendary Actions
+>Juiblex can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Juiblex regains spent legendary actions at the start of its turn.
+>
+>***Attack.***. Juiblex makes one Acid Lash attack.
+>
+>***Corrupting Touch (Costs 2 Actions).***. Melee Weapon Attack: +14 to hit, reach 10 ft., one creature. Hit: 21 (4d6 + 7) poison damage, and the target is slimed. Until the slime is scraped off with an action, the target is poisoned, and any creature, other than an Ooze, is poisoned while within 10 feet of the target.
+>
+
+### Juiblex's Lair
+Juiblex's principal lair is known as the Slime Pits, a realm that Juiblex shares with Zuggtmoy (who also appears in this book). This layer of the Abyss, which is also known as Shedaklah, is a bubbling morass of fetid sludge. The landscape is covered in vast expanses of caustic slimes, and strange organic forms rise from the oceans of ooze at Juiblex's command.Juiblex's challenge rating is 24 (62,000 XP) when encountered in its lair.
+
+#### Lair Actions
+On initiative count 20 (losing initiative ties), Juiblex can take one of the following lair actions; it can't take the same lair action two rounds in a row:
+* Green Slime. A green slime (see the Dungeon Master's Guide) appears on a spot on the ceiling that Juiblex chooses within the lair. The slime disintegrates after 1 hour.
+* Slippery Slime. Juiblex slimes a square area of ground it can see within the lair. The area can be up to 10 feet on a side. When the slime appears, each creature on it must succeed on a DC 21 Dexterity saving throw or fall prone and slide 10 feet in a random direction determined by a d8 roll. When a creature enters the area for the first time on a turn or ends its turn there, that creature must make the same save.
+* The slime lasts for 1 hour or until it is burned away with fire. If the slime is set on fire, it burns away after 1 round. Any creature that starts its turn in the burning slime takes 22 (4d10) fire damage.
+* Sticky Slime. Juiblex slimes a square area of ground it can see within the lair. The area can be up to 10 feet on a side. When the slime appears, each creature in that area must succeed on a DC 21 Strength saving throw or become restrained. When a creature enters the area for the first time on a turn or ends its turn there, that creature must make the same save.
+* A restrained creature is stuck as long as it remains in the slimy area or until it breaks free. The restrained creature, or another creature that can reach it, can use its action to try to break free and must succeed on a DC 21 Strength check.
+* The slime lasts for 1 hour or until it is burned away with fire. If the slime is set on fire, it burns away after 1 round. Any creature that starts its turn in the burning slime takes 22 (4d10) fire damage.
+#### Regional Effects
+The region containing Juiblex's lair is warped by its magic, creating one or more of the following effects:
+* Acidic Water. Small bodies of water, such as ponds or wells, within 1 mile of the lair turn highly acidic, corroding any object that touches them.
+* Corrupted Nature. Within 6 miles of the lair, all Wisdom (Medicine) and Wisdom (Survival) checks have disadvantage.
+* Slime. Surfaces within 6 miles of the lair are frequently covered by a thin film of slime, which is slick and sticks to anything that touches it.
+* If Juiblex dies, these effects fade over the course of 1d10 days.
+
+---
+
+## Lolth
 The Demon Queen of Spiders is the evil matron of the drow. Her every thought is touched by malice, and the depth of her viciousness can surprise even her most faithful priestesses. She directs her faithful while she weaves plots across the worlds of the Material Plane, looking forward to the time when her drow followers bring those worlds under her control.
 
 Lolth appears as a lithe, imperious drow matriarch when she manifests to her followers in the mortal realm, which she does with unusual frequency. When battle breaks out -- or if she has a reason to remind her followers to fear her -- Lolth's lower body transforms into that of a huge demonic spider, whose spike-tipped legs and mandibles tear foes apart.
 
-#### Orcus
+---
+
+## Orcus
 Known as the Demon Prince of Undeath and the Blood Lord, the demon lord Orcus is worshiped by the undead and by living creatures that channel the power of undeath. A brooding and nihilistic entity, Orcus yearns to make the multiverse a place of death and darkness, forever unchanging except by his will.
 
 The Demon Prince of Undeath is a foul and corpulent creature, with a humanoid torso, powerful goat legs, and the desiccated head of a ram. His sore-ridden body stinks of disease, but his decaying head and glowing red eyes are as a creature already dead. Great black bat wings sprout from his back, stirring reeking air as he moves.
 
 Orcus wields a malevolent artifact known as the Wand of Orcus, a mace-like rod topped by a humanoid skull. He surrounds himself with undead, and living creatures not under his control are anathema to him.
 
-#### Yeenoghu
+---
+
+## Yeenoghu
 Known as the Gnoll Lord and the Beast of Butchery, the demon lord Yeenoghu hungers for slaughter and senseless destruction. Gnolls are his mortal instruments, and he drives them to ever-greater atrocities in his name. Delighting in sorrow and hopelessness, the Gnoll Lord yearns to turn the world into a wasteland in which the last surviving gnolls tear each other apart for the right to feast upon the dead.
 
 Yeenoghu appears as a huge, scarred gnoll with a spiky crest of black spines, and eyes that burn with emerald flame. His armor is a patchwork of shields and breastplates claimed from fallen foes, and decorated by those foes' flayed skins. Yeenoghu can summon a triple flail he calls the Butcher, which he wields to deadly effect or wills to fly independently into battle as he tears foes apart with teeth and claws.
-
-#### Other Demon Lords
-No one knows the full number of demon lords that rage in the Abyss. Given the infinite depths of that plane, powerful demons constantly rise to become demon lords, then fall almost as quickly. Among the demon lords whose power has endured long enough for demonologists to name them are Fraz-Urb'luu, the Prince of Deception; Kostchtchie, the Prince of Wrath; Pazuzu, Prince of the Lower Aerial Kingdoms; and Zuggtmoy, Lady of Fungi.
 
 ***Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning.
 A marilith has a 50 percent chance of summoning 1d6 vrocks, 1d4 hezrous, 1d3 glabrezus, 1d2 nalfeshnees, or one marilith.
@@ -96,6 +524,52 @@ A nalfeshnee has a 50 percent chance of summoning 1d4 vrocks, 1d3 hezrous, 1d2 g
 A vrock has a 30 percent chance of summoning 2d4 dretches or one vrock.
 A yochlol has a 50 percent chance of summoning one yochlol.
 A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
+
+---
+
+## Armanite
+Great herds of armanites race across the blasted fields of the Abyss, bent on slaughter and death, driven by unrestrained bloodlust. Whether they're controlled by more powerful demons or charging into battle for the sake of it, armanites use their claws and hooves, as well as their long, whiplike tails, to tear apart foes.
+
+In the armies of demon lords, armanites perform the role of heavy cavalry, leading the charge and tearing into their enemies' flanks. Armanites fight all the time--even battling each other if they can't find another enemy. They make ideal shock troops, utterly ruthless and bold to the point of stupidity.
+
+Part of what makes armanites so fearsome is the number of weapons they have at their disposal. They possess dense hooves, claws that end in curling talons, and long tails whose serrated ridges can flense the flesh from a victim, and they use them all to carve through their foes. When they're up against tough formations, they can call on their innate magic to loose bolts of lightning and blow holes in enemy ranks.
+
+>### Armanite
+>*Large Fiend (Demon), Typically Chaotic Evil*
+>___
+>- **Armor Class** 16 (natural armor)
+>- **Hit Points** 94 (9d10 + 45)
+>- **Speed** 60 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|21 (+5)|18 (+4)|21 (+5)|8 (-1)|12 (+1)|13 (+1)|
+>
+>___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold,fire,lightning
+>- **Damage Immunities** poison
+>- **Condition Immunities** poisoned
+>- **Skills** 
+>- **Senses** darkvision 120 ft.,passive Perception 11
+>- **Languages** Abyssal,telepathy 120 ft.
+>- **Challenge** 7
+>___
+>***Magic Resistance.***. The armanite has advantage on saving throws against spells and other magical effects.
+>
+>#### Actions
+>***Multiattack.***. The armanite makes one Claw attack, one Hooves attack, and one Serrated Tail attack.
+>
+>***Claw.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (2d4 + 5) slashing damage plus 9 (2d8) lightning damage.
+>
+>***Hooves.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage. If the target is a Large or smaller creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
+>
+>***Serrated Tail.***. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) slashing damage.
+>
+>***Lightning Lance (Recharge 5�6).***. The armanite looses a bolt of lightning in a line that is 60 feet long and 10 feet wide. Each creature in the line must make a DC 15 Dexterity saving throw, taking 36 (8d8) lightning damage on a failed save, or half as much damage on a successful one.
+>
 
 ---
 
@@ -199,6 +673,48 @@ A barlgura looks like a hulking orangutan with a gruesome, drooping visage and t
 
 ---
 
+## Bulezau
+Diseased manifestations of animalistic rage, bulezaus embody the violence of nature. Across the Abyss, these demons lurk in deep canyons and lofty crags, and many find a place in the ranks of demon lords' armies, serving as foot soldiers in the Abyss's endless warring.
+
+***Bulezaus crave violence.***. Their eagerness to kill and willingness to die make them common members of many demon lords' entourages. When not being corralled by larger and tougher demons, bulezaus gather into scrabbling mobs, wrestling and fighting among themselves until a better target comes along or until a stronger demon bullies them into subservience.
+
+Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open sores, and a reek of rotten meat that follows them wherever they go.
+
+>### Bulezau
+>*Medium Fiend (Demon), Typically Chaotic Evil*
+>___
+>- **Armor Class** 14 (natural armor)
+>- **Hit Points** 52 (7d8 + 21)
+>- **Speed** 40 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|14 (+2)|17 (+3)|8 (-1)|9 (-1)|6 (-2)|
+>
+>___
+>- **Proficiency Bonus** +2
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold,fire,lightning
+>- **Damage Immunities** poison
+>- **Condition Immunities** charmed,frightened,poisoned
+>- **Skills** 
+>- **Senses** darkvision 120 ft.,passive Perception 9
+>- **Languages** Abyssal,telepathy 60 ft.
+>- **Challenge** 3
+>___
+>***Rotting Presence.***. When any creature that isn't a demon starts its turn within 30 feet of the bulezau, that creature must succeed on a DC 13 Constitution saving throw or take 3 (1d6) necrotic damage.
+>
+>***Standing Leap.***. The bulezau's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+>
+>***Sure-Footed.***. The bulezau has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+>
+>#### Actions
+>***Barbed Tail.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (1d12 + 2) piercing damage plus 4 (1d8) necrotic damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw against disease or become poisoned until the disease ends. While poisoned in this way, the target sports festering boils, coughs up flies, and sheds rotting skin, and the target must repeat the saving throw after every 24 hours that elapse. On a successful save, the disease ends. On a failed save, the target's hit point maximum is reduced by 4 (1d8) until the disease ends on the target. The target dies if its hit point maximum is reduced to 0.
+>
+
+---
+
 ## Chasme
 This loathsome demon resembles an unspeakable crossing of humanoid and fly. A chasme shuffles about on four spindly legs that can find purchase on walls and ceilings. A droning sound precedes the approach of a chasme, inflicting foes with a terrible lethargy that leaves them open to attack.
 
@@ -275,6 +791,57 @@ Dretches are among the weakest of demons -- repulsive, self-loathing creatures d
 >***Claws.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4) slashing damage.
 >
 >***Fetid Cloud (1/Day).*** A 10-foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a DC 11 Constitution saving throw or be poisoned until the start of its next turn. While poisoned in this way, the target can take either an action or a bonus action on its turn, not both, and can't take reactions
+
+---
+
+## Dybbuk
+Dybbuks are demons that terrorize mortals on the Material Plane by possessing corpses and giving them a semblance of life, after which the demons use them to engage in a range of sordid activities.
+
+In their natural form, dybbuks appear as translucent flying jellyfish, trailing long tentacles as they move through the air. They rarely travel in this fashion, however. Instead, a dybbuk possesses a suitable corpse as a vehicle, rousing the body from death. Dybbuks delight in terrorizing other creatures by making their host bodies behave in horrifying ways--throwing up gouts of blood, excreting piles of squirming maggots, and contorting their limbs in impossible ways as they scuttle across the ground.
+
+>### Dybbuk
+>*Medium Fiend (Demon), Typically Chaotic Evil*
+>___
+>- **Armor Class** 14
+>- **Hit Points** 37 (5d8 + 15)
+>- **Speed** 0 ft., fly 40 ft. (hover)
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|6 (-2)|19 (+4)|16 (+3)|16 (+3)|15 (+2)|14 (+2)|
+>
+>___
+>- **Proficiency Bonus** +2
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** acid,cold,fire,lightning,thunder; bludgeoning,piercing,and slashing from nonmagical attacks
+>- **Damage Immunities** poison
+>- **Condition Immunities** charmed,exhaustion,frightened,grappled,paralyzed,petrified,poisoned,prone,restrained
+>- **Skills** Deception +6,Intimidation +4,Perception +4
+>- **Senses** darkvision 120 ft.,passive Perception 14
+>- **Languages** Abyssal,Common,telepathy 120 ft.
+>- **Challenge** 4
+>___
+>***Incorporeal Movement.***. The dybbuk can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+>
+>***Magic Resistance.***. The dybbuk has advantage on saving throws against spells and other magical effects.
+>
+>#### Actions
+>***Tentacle.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) necrotic damage. If the target is a creature, its hit point maximum is also reduced by 3 (1d6). This reduction lasts until the target finishes a short or long rest. The target dies if its hit point maximum is reduced to 0.
+>
+>***Possess Corpse (Recharge 6).***. The dybbuk disappears into an intact corpse within 5 feet of it that belonged to a Large or smaller Beast or Humanoid. The dybbuk gains 20 temporary hit points. While possessing the corpse, the dybbuk adopts the corpse's size and can't use Incorporeal Movement. Its game statistics otherwise remain the same.
+>
+>The possession lasts until the temporary hit points are lost or the dybbuk ends it as a bonus action. When the possession ends, the dybbuk appears in an unoccupied space within 5 feet of the corpse.
+>
+>***Spellcasting.***. The dybbuk casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 12):
+>
+>At will: dimension door
+>
+>3/day: phantasmal force
+>
+>#### Bonus Actions
+>***Control Corpse.***. While Possess Corpse is active, the dybbuk makes the corpse do something unnatural, such as vomit blood, twist its head all the way around, or cause a quadruped to move as a biped. Any Beast or Humanoid that sees this behavior must succeed on a DC 12 Wisdom saving throw or become frightened of the dybbuk for 1 minute. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on a saving throw against this ability is immune to Control Corpse for 24 hours.
+>
 
 ---
 
@@ -743,12 +1310,12 @@ Outside the Abyss, a yochlol can assume the guise of a female drow or monstrous 
 ---
 
 ## Babau
-Demons and devils clash endlessly for control of the Lower Planes. One of these battles pitted the legions of the archdevil Glasya against the screaming hordes of the demon lord Graz'zt. It is said that Glasya wounded Graz'zt with her sword, and the first babaus arose where his blood struck the ground. Their sudden appearance helped rout Glasya and secured Graz'zt's place as one of the preeminent demon lords of the Abyss.
+Demons and devils clash endlessly for control of the Lower Planes. One of these battles pitted the legions of the archdevil Glasya against the screaming hordes of the demon lord Graz'zt. It is said that when Glasya wounded Graz'zt with her sword, the first babaus arose where his blood struck the ground. Their sudden appearance helped rout Glasya and secured Graz'zt's place as one of the preeminent demon lords of the Abyss.
 
-A babau demon possesses the cunning of a devil and the bloodthirstiness of a demon. It has leathery black skin pulled tight over its gaunt frame, and a curved horn protruding from the back of its elongated skull. A babau's baleful glare can weaken a creature.
+A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It has leathery skin pulled tight over its gaunt frame and a curved horn protruding from the back of its elongated skull. A babau's baleful glare can weaken a creature, and its talons gleam with acidic slime.
 
 >### Babau
->*Medium fiend (demon), chaotic evil*
+>*Medium Fiend (Demon), Typically Chaotic Evil*
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 82 (11d8 + 33)
@@ -759,7 +1326,7 @@ A babau demon possesses the cunning of a devil and the bloodthirstiness of a dem
 >|19 (+4)|16 (+3)|16 (+3)|11 (+0)|12 (+1)|13 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning; bludgeoning,piercing,and slashing from nonmagical attacks
@@ -770,18 +1337,16 @@ A babau demon possesses the cunning of a devil and the bloodthirstiness of a dem
 >- **Languages** Abyssal
 >- **Challenge** 4
 >___
->***Innate Spellcasting.*** The babau's innate spellcasting ability is Wisdom (spell save DC 11). The babau can innately cast the following spells, requiring no material components:
+>#### Actions
+>***Multiattack.***. The babau makes two Claw attacks. It can replace one attack with a use of Spellcasting or Weakening Gaze.
+>
+>***Claw.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) slashing damage plus 2 (1d4) acid damage.
+>
+>***Spellcasting.***. The babau casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 11):
 >
 >At will: darkness, dispel magic, fear, heat metal, levitate
 >
->#### Actions
->***Multiattack.*** The babau makes two melee attacks. It can also use Weakening Gaze before or after making these attacks.
->
->***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
->
->***Spear.*** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage when used with two hands to make a melee attack.
->
->***Weakening Gaze.*** The babau targets one creature that it can see within 20 feet of it. The target must make a DC 13 Constitution saving throw. On a failed save, the target deals only half damage with weapon attacks that use Strength for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>***Weakening Gaze.***. The babau targets one creature that it can see within 20 feet of it. The target must make a DC 13 Constitution saving throw. On a failed save, the target deals only half damage with weapon attacks that use Strength for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
 
 ---

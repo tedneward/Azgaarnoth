@@ -1,6 +1,8 @@
 # Yugoloths
 Yugoloths are fickle fiends that inhabit the planes of Acheron, Gehenna, Hades, and Carceri. They act as mercenaries and are notorious for their shifting loyalties. They are the embodiments of avarice. Before serving under anyone's banner, a yugoloth asks the only question on its mind: What's in it for me?
 
+> Jump to: [Arcanaloth](#arcanaloth) | [Canoloth](#canoloth) | [Dhergoloth](#dhergoloth) | [Hydroloth](#hydroloth) | [Mezzoloth](#mezzoloth) | [Nycaloth](#nycaloth) | [Ultroloth](#ultroloth)
+
 ***Spawn of Gehenna.*** The first yugoloths were created by a sisterhood of night hags on Gehenna. It is widely believed that Asmodeus, Lord of the Nine Hells, commissioned the work, in the hope of creating an army of fiends that were not bound to the Nine Hells. In the course of making this new army, the hags crafted four magic tomes and recorded the true names of every yugoloth they created, save one, the General of Gehenna. These tomes were called the Books of Keeping. Since knowing a fiend's true name grants power over it, the hags used the books to ensure the yugoloths' loyalty. They also used the books to capture the true names of other fiends that crossed them. It is rumored that the Books of Keeping contain the true names of a few demon lords and archdevils as well.
 
 Petty jealousies and endless bickering caused the sisterhood to dissolve, and in the ensuing power grab, the Books of Keeping were lost or stolen. No longer indentured to anyone, the yugoloths gained independence, and they now offer their services to the highest bidder.
@@ -70,30 +72,172 @@ Arcanaloths speak and write all languages, making them cunning diplomats and neg
 >
 >***Magic Weapons.*** The arcanaloth's weapon attacks are magical.
 >
->***Spellcasting.*** The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The arcanaloth has the following wizard spells prepared:
->
->* Cantrips (at will): fire bolt, mage hand, minor illusion, prestidigitation
->
->* 1st level (4 slots): detect magic, identify, shield, Tenser's floating disk
->
->* 2nd level (3 slots): detect thoughts, mirror image, phantasmal force, suggestion
->
->* 3rd level (3 slots): counterspell, fear, fireball
->
->* 4th level (3 slots): banishment, dimension door
->
->* 5th level (2 slots): contact other plane, hold monster
->
->* 6th level (1 slot): chain lightning
->
->* 7th level (1 slot): finger of death
->
->* 8th level (1 slot): mind blank
+>***Summon Yugoloth (1/Day).*** The yugoloth chooses what to summon and attempts a magical summoning. An arcanaloth has a 40 percent chance of summoning one arcanaloth. A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for 1 minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it.
 >
 >#### Actions
 >***Claws.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage. The target must make a DC 14 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 >
 >***Teleport.*** The arcanaloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+>
+>***Spellcasting.*** The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The arcanaloth has the following wizard spells prepared:
+>
+>* Cantrips (at will): fire bolt, mage hand, minor illusion, prestidigitation
+>* 1st level (4 slots): detect magic, identify, shield, Tenser's floating disk
+>* 2nd level (3 slots): detect thoughts, mirror image, phantasmal force, suggestion
+>* 3rd level (3 slots): counterspell, fear, fireball
+>* 4th level (3 slots): banishment, dimension door
+>* 5th level (2 slots): contact other plane, hold monster
+>* 6th level (1 slot): chain lightning
+>* 7th level (1 slot): finger of death
+>* 8th level (1 slot): mind blank
+>
+
+---
+
+## Canoloth
+A type of yugoloth, canoloths are fiendish trackers and guardians employed by evil powers. They prefer to enter into contracts to guard valuable treasures and important locations. They always do exactly as asked--never any more, never any less.
+
+With senses sharp enough to pinpoint the locations of nearby invisible creatures, canoloths respond unfailingly to any threat to their charges. Furthermore, they emit a magical distortion field that prevents creatures close to them from teleporting.
+
+Canoloths confront intruders with swift and terrible force, projecting long, spiny tongues to grab their foes and drag them close. What happens next depends on the contract. Unless instructed to kill, a canoloth merely holds on to its prisoner, but if given the order to do so, it tears its prey limb from limb.
+
+>### Canoloth
+>*Medium Fiend (Yugoloth), Typically Neutral Evil*
+>___
+>- **Armor Class** 16 (natural armor)
+>- **Hit Points** 120 (16d8 + 48)
+>- **Speed** 50 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|10 (+0)|17 (+3)|5 (-3)|17 (+3)|12 (+1)|
+>
+>___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold,fire,lightning; bludgeoning,piercing,and slashing from nonmagical attacks
+>- **Damage Immunities** acid,poison
+>- **Condition Immunities** poisoned
+>- **Skills** Investigation +3,Perception +9
+>- **Senses** truesight 120 ft.,passive Perception 19,Senses. The canoloth can't be surprised unless it's incapacitated.
+>- **Languages** Abyssal,Infernal,telepathy 60 ft.
+>- **Challenge** 8
+>___
+>***Dimensional Lock.***. Other creatures can't teleport to or from a space within 60 feet of the canoloth. Any attempt to do so is wasted.
+>
+>***Magic Resistance.***. The canoloth has advantage on saving throws against spells and other magical effects.
+>
+>#### Actions
+>***Multiattack.***. The canoloth makes one Bite or Tongue attack and one Claw attack.
+>
+>***Bite.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 18 (4d8) force damage.
+>
+>***Claw.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage plus 9 (2d8) force damage.
+>
+>***Tongue.***. Melee Weapon Attack: +7 to hit, reach 30 ft., one target. Hit: 10 (1d12 + 4) piercing damage plus 7 (2d6) acid damage. If the target is Medium or smaller, it is grappled (escape DC 15), pulled up to 30 feet toward the canoloth, and restrained until the grapple ends. The canoloth can grapple one target at a time with its tongue.
+>
+
+---
+
+## Dhergoloth
+A kind of yugoloth, dhergoloths rush into battle like whirlwinds of destruction, lashing out with the five sets of claws that extend from their squat, barrel-shaped bodies. They take contracts to put down uprisings, clear out rabble, and eliminate scouts and skirmishers, and they revel in the butchery they create, their gleeful laughter rising above their victims' screams.
+
+Since dhergoloths are little more than brutes, employers must use caution when instructing them. They can handle simple orders that don't take a lot of time to resolve. When given anything complex to do, however, they either forget what they're told or don't listen in the first place, and then bungle the task that was set for them.
+
+>### Dhergoloth
+>*Medium Fiend (Yugoloth), Typically Neutral Evil*
+>___
+>- **Armor Class** 15 (natural armor)
+>- **Hit Points** 119 (14d8 +56)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|17 (+3)|10 (+0)|19 (+4)|7 (-2)|10 (+0)|9 (-1)|
+>
+>___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** Str +6
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold,fire,lightning; bludgeoning,piercing,and slashing from nonmagical attacks
+>- **Damage Immunities** acid,poison
+>- **Condition Immunities** poisoned
+>- **Skills** 
+>- **Senses** blindsight 60 ft.,darkvision 60 ft.,passive Perception 10
+>- **Languages** Abyssal,Infernal,telepathy 60 ft.
+>- **Challenge** 7
+>___
+>***Magic Resistance.***. The dhergoloth has advantage on saving throws against spells and other magical effects.
+>
+>#### Actions
+>***Multiattack.***. The dhergoloth makes two Claw attacks.
+>
+>***Claw.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) force damage.
+>
+>***Flailing Claws (Recharge 5�6).***. The dhergoloth moves up to its speed in a straight line and targets each creature within 5 feet of it during its movement. Each target must succeed on a DC 14 Dexterity saving throw or take 22 (3d12 + 3) force damage.
+>
+>***Spellcasting.***. The dhergoloth casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 10):
+>
+>At will: darkness, fear
+>
+>***Teleport.***. The dhergoloth teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+>
+
+---
+
+## Hydroloth
+Like the thought-stealing waters of the River Styx they inhabit, hydroloths filch the memories of creatures they attack, stealing away thoughts for delivery to whatever master they happen to serve. Hydroloths also savor finding lost things, especially those that have been swallowed up in the deeps.
+
+For amphibious assaults or underwater conflicts, hydroloths have no equal among yugoloths. They sometimes hire themselves out to attack and scuttle ships and raid coastal settlements.
+
+>### Hydroloth
+>*Medium Fiend (Yugoloth), Typically Neutral Evil*
+>___
+>- **Armor Class** 15
+>- **Hit Points** 135 (18d8 + 54)
+>- **Speed** 20 ft., swim 40 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|12 (+1)|21 (+5)|16 (+3)|19 (+4)|10 (+0)|14 (+2)|
+>
+>___
+>- **Proficiency Bonus** +4
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** fire
+>- **Damage Resistances** cold,lightning; bludgeoning,piercing,and slashing from nonmagical attacks
+>- **Damage Immunities** acid,poison
+>- **Condition Immunities** poisoned
+>- **Skills** Insight +4,Perception +4
+>- **Senses** blindsight 60 ft.,darkvision 60 ft.,passive Perception 14
+>- **Languages** Abyssal,Infernal,telepathy 60 ft.
+>- **Challenge** 9
+>___
+>***Amphibious.***. The hydroloth can breathe air and water.
+>
+>***Magic Resistance.***. The hydroloth has advantage on saving throws against spells and other magical effects.
+>
+>***Secure Memory.***. The hydroloth is immune to the waters of the River Styx, as well as any effect that would steal or modify its memories or detect or read its thoughts.
+>
+>***Watery Advantage.***. While submerged in liquid, the hydroloth has advantage on attack rolls.
+>
+>#### Actions
+>***Multiattack.***. The hydroloth makes two Bite or Claw attacks. It can replace one attack with a use of Spellcasting.
+>
+>***Bite.***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) force damage plus 9 (2d8) psychic damage.
+>
+>***Claw.***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) force damage plus 9 (2d8) psychic damage.
+>
+>***Spellcasting.***. The hydroloth casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
+>
+>At will: darkness, detect magic, dispel magic, invisibility (self only)
+>
+>3/day each: control water, crown of madness, fear, suggestion
+>
+>***Steal Memory (1/Day).***. The hydroloth targets one creature it can see within 60 feet of it. The target takes 14 (4d6) psychic damage, and it must make a DC 16 Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth's Steal Memory for 24 hours. On a failed save, the target loses all proficiencies; it can't cast spells; it can't understand language; and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A greater restoration or remove curse spell cast on the target ends this effect early.
+>
+>***Teleport.***. The hydroloth teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 >
 
 ---
@@ -135,6 +279,8 @@ Violence and reward are the fundamental drives of a mezzoloth, and powerful bein
 >***Magic Resistance.*** The mezzoloth has advantage on saving throws against spells and other magical effects.
 >
 >***Magic Weapons.*** The mezzoloth's weapon attacks are magical.
+>
+>***Summon Yugoloth (1/Day).*** The yugoloth chooses what to summon and attempts a magical summoning. A mezzoloth has a 30 percent chance of summoning one mezzoloth. A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for 1 minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it.
 >
 >#### Actions
 >***Multiattack.*** The mezzoloth makes two attacks: one with its claws and one with its trident.
@@ -183,6 +329,8 @@ Nycaloths are the most loyal of the yugoloths. When they find an evil master tha
 >***Magic Resistance.*** The nycaloth has advantage on saving throws against spells and other magical effects.
 >
 >***Magic Weapons.*** The nycaloth's weapon attacks are magical.
+>
+>***Summon Yugoloth (1/Day).*** The yugoloth chooses what to summon and attempts a magical summoning. A nycaloth has a 50 percent chance of summoning 1d4 mezzoloths or one nycaloth. A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for 1 minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it.
 >
 >#### Actions
 >***Multiattack.*** The nycaloth makes two melee attacks, or it makes one melee attack and teleports before or after the attack.
@@ -237,6 +385,8 @@ With a reputation for cruelty, ultroloths command their minions to fight while t
 >***Magic Resistance.*** The ultroloth has advantage on saving throws against spells and other magical effects.
 >
 >***Magic Weapons.*** The ultroloth's weapon attacks are magical.
+>
+>***Summon Yugoloth (1/Day).*** The yugoloth chooses what to summon and attempts a magical summoning. An ultroloth has a 50 percent chance of summoning 1d6 mezzoloths, 1d4 nycaloths, or one ultroloth. A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for 1 minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it.
 >
 >#### Actions
 >***Multiattack.*** The ultroloth can use its Hypnotic Gaze and makes three melee attacks.
