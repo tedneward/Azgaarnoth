@@ -1,186 +1,52 @@
-Githyanki
-Githyanki descend from an ancient people who were also the progenitors of githzerai (also in this book). These tall, gaunt folk have potent psionic powers and dwell, for the most part, on the Astral Plane. Among the best-known githyanki are the bellicose followers of the Lich Queen Vlaakith. They terrorize the Astral Plane, raiding into other planes to plunder the multiverse of its magic and riches.
+# Ursinal
+*Large monstrosity, neutral good*
 
----
+**Armor Class** 18 (natural armor)
 
-Githyanki Gish
-Gish blend their magical abilities with swordplay to become dangerous foes in battle. Their specialized capabilities make them well suited for assassination, raiding, and espionage.
+**Hit Points** 199 (19d10+95)
 
-GITHYANKI GISH
-Medium Humanoid (Gith, Wizard), Any Alignment
+**Speed** 30 ft.
 
-Armor Class 17 (half plate)
+**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**
+-------|-------|-------|-------|-------|-------
+25 (+7)|14 (+2)|21 (+5)|18 (+4)|17 (+3)|18 (+4)
 
-Hit Points 130 (20d8 + 40)
+**Saving Throws** Str +11, Con +9
 
-Speed 30 ft.
+**Skills** Arcana +8, Athletics +11, History +8, Insight +7, Medicine +7, Nature +8, Religion +8
 
-STR
-17 (+3)
-DEX
-15 (+2)
-CON
-14 (+2)
-INT
-16 (+3)
-WIS
-15 (+2)
-CHA
-16 (+3)
-Saving Throws Con +6, Int +7, Wis +6
+**Damage Resistances** lightning; bludgeoning, piercing and slashing from nonmagical weapons
 
-Skills Insight +6, Perception +6, Stealth +6
+**Damage Immunities** poison
 
-Senses passive Perception 16
+**Condition Immunities** exhaustion, frightened, petrified, poisoned
 
-Languages Gith
+**Senses** truesight 60 ft., passive Perception 13
 
-Challenge 10 (5,900 XP) Proficiency Bonus +4
+**Languages** all
 
-Actions
+**Challenge** 12 (8,400 XP)
 
-Multiattack. The githyanki makes three Longsword or Telekinetic Bolt attacks, or it makes one of those attacks and uses Spellcasting.
+**Nature Speech.** The ursinal can converse with animals and monstrosities, even if they don't share a language.
 
-Longsword. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands, plus 22 (5d8) psychic damage.
+**Magic Resistance.** The ursinal has advantage on saving throws against spells and other magical e ects.
 
-Telekinetic Bolt. Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 28 (8d6) force damage.
+**Expert Grappler.** The ursinal is the consumate grappler. When rolling ability checks to start or maintain grapples, the ursinal can treat any result of 20 or lower as 21.
 
-Spellcasting (Psionics). The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 15):
+**Uncanny Dodge.** When an attacker that the ursinal can see hits them with an attack, they can use their reaction to halve the attack's damage.
 
-At will: light, mage hand (the hand is invisible), message
+**Innate Spellcasting.** The ursinal's spellcasting ability is Charisma (spell save DC 16). The ursinal can innately cast the following spells, requiring only verbal components:
 
-3/day each: fireball, invisibility, nondetection (self only)
+* *At will:* daylight, detect evil and good, dimension door, sleep
+* *3/day each:* hold monster, polymorph, lesser restoration
+* *1/day:* divine word
 
-1/day each: dimension door, plane shift, telekinesis
+#### Actions
+**Multiattack.** The ursinal makes one bite attack and two claw attacks.
 
-Bonus Actions
+**Bite.** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 16 (2d8+7) piercing damage, or 48 (6d8+21) piercing damage against a grappled target
 
-Astral Step (Recharge 4–6). The githyanki teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
+**Claw.** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 16 (2d8+7) slashing damage. If the ursinal hits with both claw attacks against the same target, the target must succeed on a DC 19 Strength saving throw or become grappled by the ursinal.
 
----
-
-Githyanki Kith’rak
-Militarized githyanki cultures assign ranks and responsibilities to citizens. Groups of ten warriors follow the commands of sarths (githyanki warriors; see the Monster Manual), while ten sarths obey the commands of a mighty kith’rak. These champions undergo torturous training and psionic testing until they can command the respect of their underlings.
-
-GITHYANKI KITH’RAK
-Medium Humanoid (Gith), Any Alignment
-
-Armor Class 18 (plate)
-
-Hit Points 180 (24d8 + 72)
-
-Speed 30 ft.
-
-STR
-18 (+4)
-DEX
-16 (+3)
-CON
-17 (+3)
-INT
-16 (+3)
-WIS
-15 (+2)
-CHA
-17 (+3)
-Saving Throws Con +7, Int +7, Wis +6
-
-Skills Intimidation +7, Perception +6
-
-Senses passive Perception 16
-
-Languages Gith
-
-Challenge 12 (8,400 XP) Proficiency Bonus +4
-
-Actions
-
-Multiattack. The githyanki makes three Greatsword attacks.
-
-Greatsword. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 17 (5d6) psychic damage.
-
-Spellcasting (Psionics). The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 15):
-
-At will: mage hand (the hand is invisible)
-
-3/day each: blur, nondetection (self only)
-
-1/day each: plane shift, telekinesis
-
-Bonus Actions
-
-Astral Step (Recharge 4–6). The githyanki teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
-
-Rally the Troops. The githyanki magically ends the charmed and frightened conditions on itself and each creature of its choice that it can see within 30 feet of it.
-
-Reactions
-
-Parry. The githyanki adds 4 to its AC against one melee attack that would hit it. To do so, the githyanki must see the attacker and be wielding a melee weapon.
-
----
-
-Githyanki General
-Generals lead armies, each one commanding ten kith’raks, who in turn lead the rest of their forces. Most Generals ride red dragons (see the Monster Manual) into battle.
-
-GITHYANKI GENERAL
-Medium Humanoid (Gith), Any Alignment
-
-Armor Class 18 (plate)
-
-Hit Points 187 (22d8 + 88)
-
-Speed 30 ft.
-
-STR
-19 (+4)
-DEX
-17 (+3)
-CON
-18 (+4)
-INT
-16 (+3)
-WIS
-16 (+3)
-CHA
-18 (+4)
-Saving Throws Con +9, Int +8, Wis +8
-
-Skills Insight +8, Intimidation +9, Perception +8
-
-Senses passive Perception 18
-
-Languages Gith
-
-Challenge 14 (11,500 XP) Proficiency Bonus +5
-
-Legendary Resistance (3/Day). If the githyanki fails a saving throw, it can choose to succeed instead.
-
-Actions
-
-Multiattack. The githyanki makes two Silver Greatsword attacks.
-
-Silver Greatsword. Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage plus 17 (5d6) psychic damage. On a critical hit against a target in an astral body (as with the astral projection spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
-
-Spellcasting (Psionics). The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 16):
-
-At will: mage hand (the hand is invisible)
-
-3/day each: levitate (self only), nondetection (self only)
-
-1/day each: Bigby’s hand, mass suggestion, plane shift, telekinesis
-
-Bonus Actions
-
-Astral Step. The githyanki teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
-
-Reactions
-
-Parry. The githyanki adds 5 to its AC against one melee attack that would hit it. To do so, the githyanki must see the attacker and be wielding a melee weapon.
-
-Legendary Actions
-
-The githyanki can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The githyanki regains spent legendary actions at the start of its turn.
-
-Command Ally. The githyanki targets one ally it can see within 30 feet of it. If the target can see or hear the githyanki, the target can make one melee weapon attack using its reaction, if available, and has advantage on the attack roll.
-
-Attack (2 Actions). The githyanki makes one Silver Greatsword attack.
+#### Description
+Second in strength only to the leonal, the fearsome presence of a ursinal was intimidating, but they were actually quite prone to encouraging others to nonviolence. Philosophers and academics, the ursinal kept the lore and history of the guardinals as living testaments to everything they were, are, or ever will be.

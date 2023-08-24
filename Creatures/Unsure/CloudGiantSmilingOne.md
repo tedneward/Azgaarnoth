@@ -26,18 +26,18 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
 >- **Languages** Common,Giant
 >- **Challenge** 11
 >___
->***Control Weather (8th-level Spell).***. The giant can cast the control weather spell, requiring no material components and using Charisma as the spellcasting ability.
+>***Control Weather (8th-level Spell).*** The giant can cast the control weather spell, requiring no material components and using Charisma as the spellcasting ability.
 >
 >#### Actions
->***Multiattack.***. The giant makes two Slam attacks or two Telekinetic Strike attacks.
+>***Multiattack.*** The giant makes two Slam attacks or two Telekinetic Strike attacks.
 >
->***Slam.***. Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) bludgeoning damage plus 5 (1d10) psychic damage.
+>***Slam.*** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) bludgeoning damage plus 5 (1d10) psychic damage.
 >
->***Telekinetic Strike.***. Ranged Spell Attack: +7 to hit, range 240 ft., one target. Hit: 25 (4d10 + 3) force damage.
+>***Telekinetic Strike.*** Ranged Spell Attack: +7 to hit, range 240 ft., one target. Hit: 25 (4d10 + 3) force damage.
 >
->***Change Shape.***. The giant magically transforms to look and feel like a Beast or a Humanoid it has seen or to return to its true form. Any equipment the giant is wearing or carrying is absorbed by the new form. Its statistics, other than its size, don't change. It reverts to its true form if it dies.
+>***Change Shape.*** The giant magically transforms to look and feel like a Beast or a Humanoid it has seen or to return to its true form. Any equipment the giant is wearing or carrying is absorbed by the new form. Its statistics, other than its size, don't change. It reverts to its true form if it dies.
 >
->***Spellcasting.***. The giant casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):
+>***Spellcasting.*** The giant casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):
 >
 >At will: detect magic, fog cloud, light, minor illusion
 >
@@ -46,5 +46,5 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
 >1/day each: gaseous form, major image
 >
 >#### Bonus Actions
->***Cloud Step (Recharge 4–6).***. The giant teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+>***Cloud Step (Recharge 4ï¿½.****. The giant teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 >

@@ -61,12 +61,12 @@ d12 | Quirk
 >- **Challenge** 12
 >___
 >#### Actions
->***Multiattack.***. The gray render makes one Bite attack and two Claw attacks.
+>***Multiattack.*** The gray render makes one Bite attack and two Claw attacks.
 >
->***Bite.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) piercing damage. If the target is Medium or smaller, the target must succeed on a DC 16 Strength saving throw or be knocked prone.
+>***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) piercing damage. If the target is Medium or smaller, the target must succeed on a DC 16 Strength saving throw or be knocked prone.
 >
->***Claw.***. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) slashing damage, plus 10 (3d6) bludgeoning damage if the target is prone.
+>***Claw.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) slashing damage, plus 10 (3d6) bludgeoning damage if the target is prone.
 >
 >#### Reactions
->***Bloody Rampage.***. When the gray render takes damage, it makes one Claw attack against a random creature within its reach, other than its master.
+>***Bloody Rampage.*** When the gray render takes damage, it makes one Claw attack against a random creature within its reach, other than its master.
 >
