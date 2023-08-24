@@ -26,7 +26,7 @@ At 3rd level, you learn ancient methods for magically creating a special homuncu
 
 Whenever you finish a long rest and your alchemist’s supplies are with you, you can form this homunculus in an unoccupied space within 5 feet of you. If you already have a homunculus from this feature, the first one immediately dies.
 
-The homunculus is friendly to you and your companions, and it obeys your commands. See this creature’s game statistics in the [Alchemical Homunculus](../../Creatures/AlchemicalHomunculus.md) stat block. You determine the homunculus’s appearance, which includes wings and bits of alchemical equipment. Some alchemists prefer mechanical-looking birds, whereas others like winged vials or miniature cauldrons.
+The homunculus is friendly to you and your companions, and it obeys your commands. See this creature’s game statistics in the [Alchemical Homunculus](../../Creatures/Homunculus.md#alchemical-homunculus) stat block. You determine the homunculus’s appearance, which includes wings and bits of alchemical equipment. Some alchemists prefer mechanical-looking birds, whereas others like winged vials or miniature cauldrons.
 
 In combat, the homunculus shares your initiative count, but it takes its turn immediately after yours. The only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take one of the actions in its stat block or to take the Dash, Disengage, or Help action.
 

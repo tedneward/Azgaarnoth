@@ -11,6 +11,8 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 ## Black Abishai
 Expert assassins and infiltrators, black abishais can weave shadows to mask their presence, allowing them to reach a location where they can deliver a fatal strike to their targets.
 
+![](Abishais-Black.png)
+
 >### Black Abishai
 >*Medium Fiend (Devil), Typically Lawful Evil*
 >___
@@ -55,6 +57,8 @@ Expert assassins and infiltrators, black abishais can weave shadows to mask thei
 
 ## Blue Abishai
 Seekers of forgotten lore and lost relics, blue abishais are the most cunning and learned of their kind. Their research into occult subjects gleaned from tomes plundered from across the multiverse enables them to become accomplished spellcasters. They use their magic to devastate Tiamat's enemies.
+
+![](Abishais-Blue.png)
 
 >### Blue Abishai
 >*Medium Fiend (Devil, Wizard), Typically Lawful Evil*
@@ -105,6 +109,8 @@ Seekers of forgotten lore and lost relics, blue abishais are the most cunning an
 ## Green Abishai
 Green abishais are adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure they can manipulate even the shrewdest opponents.
 
+![](Abishais-Green.png)
+
 >### Green Abishai
 >*Medium Fiend (Devil), Typically Lawful Evil*
 >___
@@ -151,6 +157,8 @@ Green abishais are adept at discovering secrets and other sensitive information,
 ## Red Abishai
 Red abishais have no equals among the abishais when it comes to leadership ability and raw power. Red abishais lead other devils into battle or take charge of troublesome cults to ensure that they continue to carry out Tiamat's commands. A red abishai cuts a fearsome figure, and that sight can be inspiring to the abishai's allies, filling them with a fanatical willingness to fight.
 
+![](Abishais-Red.png)
+
 >### Red Abishai
 >*Medium Fiend (Devil), Typically Lawful Evil*
 >___
@@ -196,6 +204,8 @@ Red abishais have no equals among the abishais when it comes to leadership abili
 
 ## White Abishai
 White abishais fight with a reckless fury, making them ideally suited for bolstering the ranks of Tiamat's armies. White abishais fight without fear, becoming whirlwinds of destruction on the battlefield.
+
+![](Abishais-White.png)
 
 >### White Abishai
 >*Medium Fiend (Devil), Typically Lawful Evil*

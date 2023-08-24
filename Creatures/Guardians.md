@@ -7,13 +7,14 @@ Wizards and other spellcasters create guardians for protection. A guardian tread
 
 A guardian's solitary focus is to protect the amulet's wearer. The amulet's wearer can command the guardian to attack its enemies or to guard the wielder against attack. If an attack threatens to injure the wearer, the construct can magically absorb the blow into its own body, even at a distance.
 
-**Magnificent Treasure.** Because a shield guardian's ownership can be transferred by giving its matching amulet to another creature, some wizards collect exorbitant sums from princes, nobles, and crime lords to create shield guardians for them. At the same time, a shield guardian makes a mighty prize for anyone who slays its master and claims its amulet.
+**Magnificent Treasure.** Because a guardian's ownership can be transferred by giving its matching amulet to another creature, some wizards collect exorbitant sums from princes, nobles, and crime lords to create guardians for them. At the same time, a guardian makes a mighty prize for anyone who slays its master and claims its amulet.
 
 **Construct Nature.** A guardian doesn't require air, food, drink, or sleep.
 
 ---
 
 ## Shield Guardian
+***Spell storage.*** A spellcaster can store a single spell within a shield guardian, which can then cast the spell on command or under specific conditions. Many a wizard has been rendered helpless by enemies, only to surprise those foes when its shield guardian unleashes potent magical power.
 
 >### Shield Guardian
 >*Large construct, unaligned*
@@ -27,7 +28,7 @@ A guardian's solitary focus is to protect the amulet's wearer. The amulet's wear
 >|18 (+4)|8 (-1)|18 (+4)|7 (-2)|10 (+0)|3 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -49,7 +50,6 @@ A guardian's solitary focus is to protect the amulet's wearer. The amulet's wear
 >
 >***Fist.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 >
->#### Reactions
 >***Shield.*** When a creature makes an attack against the wearer of the guardian's amulet, the guardian grants a +2 bonus to the wearer's AC if the guardian is within 5 feet of the wearer.
 >
 
@@ -69,7 +69,7 @@ A guardian's solitary focus is to protect the amulet's wearer. The amulet's wear
 >|18 (+4)|8 (-1)|18 (+4)|7 (-2)|10 (+0)|3 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
