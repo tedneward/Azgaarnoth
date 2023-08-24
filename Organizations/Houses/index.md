@@ -22,3 +22,24 @@ As a general rule, it is said that "firstborn rule; secondborn preach; thirdborn
 * [Teskerwill](Teskerwill.md)
 * [Ulverth](Ulverth.md)
 
+## Notes
+* Should probably create a "coat of arms" generator. Use this as a seed:
+    
+    ```
+    1	Three lit candles on a purple field
+    2	Sea serpent coiled around a trident on a blue field
+    3	Hunting horn banded in gold on a gray field
+    4	Raised fist grasping an anchor on a quartered field of blue and white
+    5	Turtle with crenelated tower on its shell on a white field
+    6	Dragon skull supported on either side by dragon wings on a red field
+    7	Yellow chicken foot on a black field
+    8	Lightning bolt splitting a galley in two on a blue field
+    9	Two crouching displacer beasts facing each other on a yellow field
+    10	Knotted brambles on a green field
+    11	Red owlbear with a silver crown on a checkered field of black and white
+    12	Black anvil cracked down the middle on an orange field
+    ```
+
+    {Number} {noun} {modifier} on a {color} field
+    Number: A, Two, Three, Four, Five, Six, Seven, Nine
+    Noun: Candles, Sea serpent, Hunting horn, Raised fist, Turtle
