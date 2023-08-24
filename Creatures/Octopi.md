@@ -1,7 +1,9 @@
-# Octopus
+# Octopi
 The eight-legged resident of the sea and lake is a wary and intelligent predator, and its cousins (particularly its giant cousin) are often only more so. Found in almost every coastal area of Azgaarnoth, octopi are often more inclined to hide than fight, but when forced into a corner, can be incredibly fierce and inventive combatants.
 
-> Jump to: [Giant Octopus](#giant-octopus) | [Octopus](#octopus-1)
+> Jump to: [Giant Octopus](#giant-octopus) | [Octopus](#octopus)
+
+---
 
 ## Giant Octopus
 Mostly found in the depths of the [Deepwaters](../Geography/Deepwaters.md) and the Great Northern Ocean, some giant octopi have also been found in the [Lishalsound](../Geography/Lishalsound.md) and sometimes even in the relatively shallow waters of the [Ravensound](../Geography/Ravensound.md), though the ones that appear there often appear to have been on the losing side of a territorial fight.

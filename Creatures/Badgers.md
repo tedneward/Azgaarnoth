@@ -1,7 +1,9 @@
 # Badgers
 Badgers. And giant badgers.
 
-> Jump to: [Badger](#badger-1) | [Giant Badger](#giant-badger)
+> Jump to: [Badger](#badger) | [Giant Badger](#giant-badger)
+
+---
 
 ## Badger
 

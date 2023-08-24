@@ -3,6 +3,8 @@ Most of the time, these crustaceans are harmless and make for good eats. These a
 
 > Jump to: [Crab](#crab) | [Giant Crab](#giant-crab)
 
+---
+
 ## Crab
 
 >### Crab

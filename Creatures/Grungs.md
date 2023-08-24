@@ -5,7 +5,7 @@ Grungs are frog-like folk found in rain forests and tropical jungles. These amph
 
 Born in a wide range of colors, grungs most often appear in shades of green, blue, purple, red, orange, and gold. All grungs secrete a substance that is harmless to them but poisonous to other creatures, and sometimes that substance has a special effect based on the grung's color (see "Variant: Grung Poison"). They also use this venom to poison their weapons.
 
-Grung Poison
+### Grung Poison
 A creature poisoned by a grung can suffer an additional effect that depends on the grung's color, as described below. This effect lasts until the creature is no longer poisoned by the grung.
 
 Blue Grung. The poisoned creature must make a loud noise at the start and end of its turn.
@@ -19,6 +19,7 @@ Orange Grung. The poisoned creature is frightened of its allies.
 Purple Grung. The poisoned creature feels a desperate need to soak itself in liquid or mud. It can't take actions or move except to do so or to reach a body of liquid or mud.
 
 Red Grung. The poisoned creature must use its action to eat if food is within reach.
+
 ---
 
 ## Grung

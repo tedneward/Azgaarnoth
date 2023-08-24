@@ -9,8 +9,7 @@ A newly hatched guard drake imprints upon the first creature that feeds it (usua
 
 A guard drake resembles the type of dragon it was created from, but with a wingless, squat, muscular build. A drake can't reproduce, nor can its scales be used to make other guard drakes.
 
-Chromatic Drakes
-
+### Chromatic Drakes
 Each type of chromatic dragon's scales creates a guard drake that resembles a wingless, stunted version of that type of dragon, with unique abilities related to that type. Each has the special features described below.
 
 ***Black Guard Drake.*** The drake can breathe air and water, has a swimming speed of 30 feet, and has resistance to acid damage.

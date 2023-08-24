@@ -3,6 +3,8 @@ The crocodile is common to the marshlands of [Yithi](../Nations/Yithi.md), [Zhi]
 
 > Jump to: [Crocodile](#crocodile) | [Giant Crocodile](#giant-crocodile)
 
+---
+
 ## Crocodile
 
 >### Crocodile
