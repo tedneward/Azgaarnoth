@@ -74,7 +74,7 @@ Lizardfolk hunters are those lizardfolk who routinely journey out of the village
 >|15 (+2)|10 (+0)|13 (+1)|7 (-2)|12 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -118,7 +118,7 @@ Warriors are the defenders of the tribe, steeped in combat and sometimes even ta
 >|15 (+2)|10 (+0)|15 (+2)|7 (-2)|12 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -160,7 +160,7 @@ Warriors are the defenders of the tribe, steeped in combat and sometimes even ta
 >|15 (+2)|10 (+0)|13 (+1)|10 (+0)|15 (+2)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -173,16 +173,6 @@ Warriors are the defenders of the tribe, steeped in combat and sometimes even ta
 >___
 >***Hold Breath.*** The lizardfolk can hold its breath for 15 minutes.
 >
->***Spellcasting (Lizardfolk Form Only).*** The lizardfolk is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The lizardfolk has the following druid spells prepared:
->
->* Cantrips (at will): druidcraft, produce flame, thorn whip
->
->* 1st Level (4 slots): entangle, fog cloud
->
->* 2nd Level (3 slots): heat metal, spike growth
->
->* 3rd Level (2 slots): conjure animals (reptiles only), plant growth
->
 >#### Actions
 >***Multiattack (Lizardfolk Form Only).*** The lizardfolk makes two attacks: one with its bite and one with its claws.
 >
@@ -191,6 +181,12 @@ Warriors are the defenders of the tribe, steeped in combat and sometimes even ta
 >***Claws (Lizardfolk Form Only).*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.
 >
 >***Change Shape (Recharges after a Short or Long Rest).*** The lizardfolk magically polymorphs into a crocodile, remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+>
+>***Spellcasting (Lizardfolk Form Only).*** The lizardfolk is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The lizardfolk has the following druid spells prepared:
+>* Cantrips (at will): druidcraft, produce flame, thorn whip
+>* 1st Level (4 slots): entangle, fog cloud
+>* 2nd Level (3 slots): heat metal, spike growth
+>* 3rd Level (2 slots): conjure animals (reptiles only), plant growth
 >
 
 ---
@@ -212,7 +208,7 @@ Lizardfolk born in Sess'inek's image are larger and more cunning than other liza
 >|17 (+3)|12 (+1)|15 (+2)|11 (+0)|11 (+0)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** Con +4,Wis +2
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

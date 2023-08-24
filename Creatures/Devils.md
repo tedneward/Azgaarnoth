@@ -67,21 +67,6 @@ Demotion is the customary punishment for failure or disobedience among the devil
 
 No devil can promote or demote another devil that has not sworn fealty to it, preventing rival archdevils from demoting each other's most powerful servants. Since all devils swear fealty to Asmodeus, he can freely demote any other devil, transforming it into whatever infernal form he desires.
 
-## VARIANT: DEVIL SUMMONING
-Some devils can have an action option that allows them to summon other devils.
-
-***Summon Devil (1/Day).*** The devil chooses what to summon and attempts a magical summoning.
-
-A barbed devil has a 30 percent chance of summoning one barbed devil.
-A bearded devil has a 30 percent chance of summoning one bearded devil.
-A bone devil has a 40 percent chance of summoning 2d6 spined devils or one bone devil.
-An erinyes has a 50 percent chance of summoning 3d6 spined devils, 1d6 bearded devils, or one erinyes.
-A horned devil has a 30 percent chance of summoning one horned devil.
-An ice devil has a 60 percent chance of summoning one ice devil.
-A pit fiend summons 2d4 bearded devils, 1d4 barbed devils, or one erinyes with no chance of failure.
-
-A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
-
 ## The Nine Hells
 The Nine Hells are a single plane comprising nine separate layers (see the Layers and Lords of the Nine Hells table). The first eight layers are each ruled by archdevils that answer to the greatest archdevil of all: Asmodeus, the Archduke of Nessus, the ninth layer. To reach the deepest layer of the Nine Hells, one must descend through all eight of the layers above it, in order. The most expeditious means of doing so is the River Styx, which plunges ever deeper as it flows from one layer to the next. Only the most courageous adventurers can withstand the torment and horror of that journey.
 
@@ -103,6 +88,8 @@ Layer | Layer Name | Archduke/Archduchess | Previous Rulers | Primary Inhabitant
 
 ## Bael
 With the Blood War between devils and demons raging for eons and no end in sight, opportunities abound for ambitious archdevils to win fame, glory, and power in the ongoing struggle. Duke Bael, one of Mammon's most important vassals, has won fame and acclaim for his victories. Charged with leading sixty-six companies of barbed devils (see the Monster Manual), Bael has proven to be a tactical genius, earning esteem for himself and his master as a result of victory after victory over the abyssal host. Mammon relies on Bael to safeguard his holdings because of Bael's battle acumen. During a time when so many other archdevils have lost their positions, Mammon has never been ousted, which is a testament to Bael's skill on the battlefield.
+
+![](Devils-Bael.png)
 
 For his accomplishments, Bael has been granted the title of Bronze General. His accolades notwithstanding, he has had a difficult time navigating the quagmire of infernal politics. His critics call him naive, though never to his face. His primary interest has always been leading soldiers in battle, so he finds it frustrating to have his ambitions of ascending to a higher rank constantly stymied by politically shrewd rivals.
 
@@ -175,9 +162,12 @@ Despite his lack of interest in affairs outside battle, or perhaps because of it
 ## Geryon
 Geryon is locked in an endless struggle with Levistus for control of Stygia. The two have fought for centuries, each displacing the other innumerable times. Currently, Levistus claims lordship over Stygia, but he has been trapped in an enormous block of ice at the command of Asmodeus. In response, Geryon is marshaling his followers, hoping to use this opportunity to replace his hated rival.
 
+![](Devils-Geryon.png)
+
 Among the archdevils, Geryon is known for his martial prowess. He is a ferocious hunter and a relentless tracker. He often joins his troops in battle; he loves to feel flesh and steel sundered beneath his claws and to taste his foes' blood. Yet Geryon's ferocity has also limited his ability to collect souls and forge an effective hierarchy. Sages who study the Nine Hells believe the battle for control of Stygia is a test staged by Asmodeus in hopes of purging the worst impulses from both Geryon and Levistus--or discovering a competent replacement for both.
 
-***Cultists of Geryon.*** Geryon grants his cultists special abilities. Members of his cult can gain the Crushing Blow trait. Cult leaders can also gain the Indomitable Strength trait.
+### Cultists of Geryon
+Geryon grants his cultists special abilities. Members of his cult can gain the Crushing Blow trait. Cult leaders can also gain the Indomitable Strength trait.
 
 ***Crushing Blow (Recharges after a Short or Long Rest).*** As a bonus action, the creature gains a bonus to the damage roll of its next melee weapon attack roll that hits within the next minute. The bonus equals its Strength modifier (minimum of +1).
 
@@ -239,8 +229,8 @@ Among the archdevils, Geryon is known for his martial prowess. He is a ferocious
 >***Swift Sting (Costs 2 Actions).*** Geryon makes one Stinger attack.
 >
 
-### A Geryon's Lair
-Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling complex that rises from the icy center of Stygia. He roams the passages, spitting oaths of vengeance against Asmodeus and hatching schemes to reclaim his standing from Levistus.The challenge rating of Geryon is 23 (50,000 XP) when he's encountered in his lair.
+### Geryon's Lair
+Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling complex that rises from the icy center of Stygia. He roams the passages, spitting oaths of vengeance against Asmodeus and hatching schemes to reclaim his standing from Levistus. The challenge rating of Geryon is 23 (50,000 XP) when he's encountered in his lair.
 
 #### Lair Actions
 On initiative count 20 (losing initiative ties), Geryon can take one of the following lair actions; he can't take the same lair action two rounds in a row:

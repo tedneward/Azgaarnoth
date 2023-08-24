@@ -157,26 +157,20 @@ Privileged drow males who lack the strength and fighting prowess to train as war
 >
 >1/day each: darkness, faerie fire, levitate (self only)
 >
->***Spellcasting.*** The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The drow has the following wizard spells prepared:
->
->Cantrips (at will): mage hand, minor illusion, poison spray, ray of frost
->
->1st level (4 slots): mage armor, magic missile, shield, witch bolt
->
->2nd level (3 slots): alter self, misty step, web
->
->3rd level (3 slots): fly, lightning bolt
->
->4th level (3 slots): Evard's black tentacles, greater invisibility
->
->5th level (2 slots): cloudkill
->
 >***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
 >***Staff.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d6 − 1) bludgeoning damage, or 3 (1d8 − 1) bludgeoning damage if used with two hands, plus 3 (1d6) poison damage.
 >
 >***Summon Demon (1/Day).*** The drow magically summons a quasit, or attempts to summon a shadow demon with a 50 percent chance of success. The summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
+>
+>***Spellcasting.*** The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The drow has the following wizard spells prepared:
+>* Cantrips (at will): mage hand, minor illusion, poison spray, ray of frost
+>* 1st level (4 slots): mage armor, magic missile, shield, witch bolt
+>* 2nd level (3 slots): alter self, misty step, web
+>* 3rd level (3 slots): fly, lightning bolt
+>* 4th level (3 slots): Evard's black tentacles, greater invisibility
+>* 5th level (2 slots): cloudkill
 >
 
 ---

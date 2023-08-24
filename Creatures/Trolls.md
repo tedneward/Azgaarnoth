@@ -1,7 +1,7 @@
-# Troll
+# Trolls
 Born with horrific appetites, trolls eat anything they can catch and devour. They have no society to speak of, but they do sometimes serve as mercenaries, particularly among the Hordes. (Those that do often have one or more ranks as an NPC, almost always as a fighter or barbarian, making them doubly deadly.) As payment, trolls demand food and treasure. Trolls are difficult to control, however, doing as they please even when working with more powerful creatures.
 
-> Jump to: [Standard Troll](#troll) | [Aquatic Troll (Scrag)](#aquatic-troll) | [Dire Troll](#dire-troll) | [Rot Troll](#rot-troll) | [Spirit Troll](#spirit-troll) | [Venom Troll](#venom-troll)
+> Jump to: [Troll](#troll) | [Aquatic Troll](#aquatic-troll) | [Dire Troll](#dire-troll) | [Rot Troll](#rot-troll) | [Spirit Troll](#spirit-troll) | [Venom Troll](#venom-troll)
 
 ***Regeneration.*** Smashing a troll's bones and slashing through its rubbery hide only makes it angry. A troll's wounds close quickly. If the monster loses an arm, a leg, or even its head, those dismembered parts can sometimes act with a life of their own. A troll can even reattach severed body parts, untroubled by its momentary disability. Only acid and fire can arrest the regenerative properties of a troll's flesh. The trolls, enraged, will attack individuals making acid and fire attacks against them above all other prey.
 

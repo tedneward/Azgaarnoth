@@ -27,11 +27,12 @@ Some humanoids make the mistake of thinking that the hags' rules of conduct appl
 
 ***Dark Lairs.*** Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and gloomy swamps. In time, the landscape around a hag's lair reflects the creature's noxiousness, such that the land itself can attack and kill trespassers. Trees twisted by darkness attack passersby, while vines snake through the undergrowth to snare and drag off creatures one at a time. Foul stinking fogs turn the air to poison, and conceal pools of quicksand and sinkholes that consume unwary wanderers.
 
-***Hag Covens.*** When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power.
+### Hag Covens
+When hags must work together, they form covens, in spite of their selfish natures. A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos. The coven can be made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power. 
 
-A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos.
+While all three members of a hag coven are within 30 feet of one another, they each gain the following action:
 
-***Shared Spellcasting.*** While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
+***Shared Spellcasting.*** The hag is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12 + the hag's Int modifier, +4 + the hag's Int modifier to hit with spell attacks). The three hags in the coven share the spell slots listed. The hag has the following wizard spells prepared:
 
 * 1st level (4 slots): identify, ray of sickness
 * 2nd level (3 slots): hold person, locate object
@@ -39,8 +40,6 @@ A coven consists of three hags so that any arguments between two hags can be set
 * 4th level (3 slots): phantasmal killer, polymorph
 * 5th level (2 slots): contact other plane, scrying
 * 6th level (1 slot): eyebite
-
-For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 
 ***Hag Eye.*** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.
 
@@ -179,6 +178,7 @@ A cinder hag possesses the ability to teleport great distances, but only if her 
 >|18 (+4)|14 (+2)|16 (+3)|15 (+2)|12 (+1)|17 (+3)|
 >
 >___
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Wis +4
 >- **Damage Immunities** fire
 >- **Skills** Deception +6, Intimidation +9, Perception +4, Stealth +5
@@ -225,7 +225,7 @@ When they can't ignite an entire village or town, these hags settle for using th
 >|18 (+4)|15 (+2)|14 (+2)|16 (+3)|13 (+1)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** 
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** fire, poison, psychic
@@ -273,6 +273,7 @@ When they can't ignite an entire village or town, these hags settle for using th
 >|19 (+4)|12 (+1)|16 (+3)|12 (+1)|12 (+1)|14 (+2)|
 >
 >___
+>- **Proficiency Bonus** +3
 >- **Damage Resistances** radiant
 >- **Skills** Deception +4, Perception +3, Stealth +3, Survival +3
 >- **Senses** darkvision 60 ft., passive Perception 13
@@ -311,7 +312,7 @@ The wretched and hateful green hags dwell in dying forests, lonely swamps, and m
 >|18 (+4)|12 (+1)|16 (+3)|13 (+1)|14 (+2)|14 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -369,7 +370,7 @@ If either object is lost, the night hag will go to great lengths to retrieve it,
 >|18 (+4)|15 (+2)|16 (+3)|16 (+3)|14 (+2)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire; bludgeoning,piercing,and slashing from nonmagical attacks that aren't silvered
@@ -419,7 +420,7 @@ Beauty drives a sea hag to fits of anger. When confronted with something beautif
 >|16 (+3)|13 (+1)|16 (+3)|12 (+1)|12 (+1)|13 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -472,6 +473,7 @@ Some storm hags can animate small clouds to sit and ride upon to fly through the
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|14 (+2)|18 (+4)|15 (+2)|19 (+4)|
 >___
+>- **Proficiency Bonus** +6
 >- **Damage Resistances** cold, thunder
 >- **Damage Immunities** lightning
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned

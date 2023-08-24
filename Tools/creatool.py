@@ -51,7 +51,7 @@ class SubtypedCreature:
                     creature.parseMD(creaturebuffer)
                     creature.collection = subtypedcreature
                     subtypedcreature.subtypes.append(creature)
-                    print("  Parsed " + creature.name)
+                    #print("  Parsed " + creature.name)
                     creaturebuffer = []
                 else:
                     creaturebuffer.append(line)
@@ -110,6 +110,7 @@ class Creature:
     class Lair:
         def __init__(self):
             self.description = ''
+            self.lairtext = ''
             self.lairactions = []
             self.regionalprefix = ''
             self.regionaleffects = []
@@ -316,7 +317,7 @@ class Creature:
         # >___
         linect += 1
 
-        # >Features? -> Actions -> Bonus Actions? -> Reactions? -> Lair Actions? -> Legendary Actions?
+        # >Features? -> Actions -> Bonus Actions? -> Reactions? -> Legendary Actions? -> Lair?
         block = self.features
         while linect < len(mdlines):
             line = mdlines[linect].strip()[1:]
@@ -329,22 +330,35 @@ class Creature:
             elif line == '#### Bonus Actions': block = self.bonusactions
             elif line == '#### Reactions': block = self.reactions
             elif line == '#### Legendary Actions': block = self.legendaryactions
-            #elif line.find("'s Lair") > 0: self.lair = Creature.Lair(); 
+            elif line == '### Lair Actions':
+                linect += 1
+                line = mdlines[linect].strip()
+                self.lair.lairtext = line
+
+                block = self.lair.lairactions
+            elif line == '### Regional Effects': 
+                linect += 1
+
+                line = mdlines[linect].strip()
+                self.lair.regionalprefix = line
+
+                block = self.lair.regionaleffects
+            elif line.find("'s Lair") > 0: 
+                self.lair = Creature.Lair()
+                
+                linect += 1
+                line = mdlines[linect].strip()
+                self.lair.description = line
+
             else:
-                ttext = Creature.TitledText()
-                ttext.parse(line)
-                block.append(ttext)
+                if line.find('.***') > 0:
+                    ttext = Creature.TitledText()
+                    ttext.parse(line)
+                    block.append(ttext)
+                else:
+                    block.append(line)
 
             linect += 1
-
-        # ### A {name}'s Lair
-        # Lair-description
-        # #### Lair Actions
-        # * Action
-        # #### Regional Effects
-        # Regionalpretext
-        # * Effect
-        # Regionalposttext
 
     def parserow(self, sqlrow):
         "Parse a row from a SQLite cursor"
@@ -419,10 +433,13 @@ class Creature:
             result += f"### A {self.name}'s Lair\n"
             result += self.lair.description + '\n'
             result += "\n#### Lair Actions\n"
-            result += "\n* ".join(self.lair.lairactions)
+            result += self.lair.lairtext + '\n'
+            for lairaction in self.lair.lairactions:
+                result += "* " + str(lairaction) + '\n\n'
             result += "\n#### Regional Effects\n"
             result += self.lair.regionalprefix
-            result += "\n* ".join(self.lair.regionaleffects)
+            for regionaleffect in self.lair.regionaleffects:
+                result += "* " + str(regionaleffect) + '\n\n'
             result += self.lair.regionalpostfix
             result += "\n"
 
@@ -915,16 +932,16 @@ def main(argv):
                     ext = str(f)[-4:].lower()
                     if ext != '.png' and ext != '.jpg' and ext != 'webp':
                         with open(args.parsemd + '/' + f, 'r') as mdfile:
-                            print("Parsing " + args.parsemd + '/' + f)
+                            #print("Parsing " + args.parsemd + '/' + f)
                             lines = mdfile.readlines()
                             parsedcreature = SubtypedCreature.parseMD(lines)
                             if isinstance(parsedcreature, SubtypedCreature):
-                                print("We parsed the multi-typed creature " + parsedcreature.name)
-                                for creature in parsedcreature.subtypes:
-                                    print("   " + creature.name)
+                                #print("We parsed the multi-typed creature " + parsedcreature.name)
+                                #for creature in parsedcreature.subtypes:
+                                    #print("   " + creature.name)
                                 creatures.append(parsedcreature)
                             else:
-                                print("We parsed the creature " + parsedcreature.name)
+                                #print("We parsed the creature " + parsedcreature.name)
                                 creatures.append(parsedcreature)
         else:
             with open(args.parsemd, 'r') as mdfile:
@@ -953,7 +970,7 @@ def main(argv):
             print(name)
 
     # Store?
-    if args.writemd != None:
+    elif args.writemd != None:
         dest = args.writemd
         if dest == '-':
             for creature in creatures:
@@ -961,7 +978,7 @@ def main(argv):
         elif os.path.isdir(dest):
             for creature in creatures:
                 with open(args.writemd + "/" + (creature.name).replace(" ", "") + ".md", 'w') as mdfile:
-                    print("Writing " + creature.name)
+                    #print("Writing " + creature.name)
                     mdfile.write(creature.emitMD())
     elif args.writeindex != None:
         # We actually want all the SubtypedCreatures to appear in the full

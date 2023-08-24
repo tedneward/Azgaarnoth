@@ -14,9 +14,14 @@ Some individuals see little point in fighting the curse and accept what they are
 ---
 
 ## Werebear
+Werebears are powerful lycanthropes with the ability to temper their monstrous natures and reject their violent impulses. In humanoid form, they are large, muscular, and covered in hair matching the color of their ursine form's fur. A werebear is a loner by nature, fearing what might happen to innocent creatures around it when its bestial nature takes over.
+
+When a werebear transforms, it grows to enormous size, lashing out with weapons or claws. It fights with the ferocity of a bear, though even in its bestial forms, it avoids biting so as to not pass on its curse. Typically, a werebear passes on its lycanthropy only to chosen companions or apprentices, spending the time that follows helping the new lycanthrope accept the curse in order to control it.
+
+Solitary creatures, werebears act as wardens over their territory, protecting flora and fauna alike from humanoid or monstrous intrusion. Though most werebears are of good alignment, some are every bit as evil as other lycanthropes.
 
 >### Werebear
->*Medium humanoid (human;shapechanger), neutral good*
+>*Medium humanoid (human,shapechanger), neutral good*
 >___
 >- **Armor Class** 10 in humanoid form, 11 (natural armor) in bear and hybrid form
 >- **Hit Points** 135 (18d8 + 54)
@@ -51,12 +56,6 @@ Some individuals see little point in fighting the curse and accept what they are
 >
 >Greataxe (Humanoid or Hybrid Form Only). Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.
 >
->Werebears are powerful lycanthropes with the ability to temper their monstrous natures and reject their violent impulses. In humanoid form, they are large, muscular, and covered in hair matching the color of their ursine form's fur. A werebear is a loner by nature, fearing what might happen to innocent creatures around it when its bestial nature takes over.
->
->When a werebear transforms, it grows to enormous size, lashing out with weapons or claws. It fights with the ferocity of a bear, though even in its bestial forms, it avoids biting so as to not pass on its curse. Typically, a werebear passes on its lycanthropy only to chosen companions or apprentices, spending the time that follows helping the new lycanthrope accept the curse in order to control it.
->
->Solitary creatures, werebears act as wardens over their territory, protecting flora and fauna alike from humanoid or monstrous intrusion. Though most werebears are of good alignment, some are every bit as evil as other lycanthropes.
->
 
 ---
 
@@ -66,7 +65,7 @@ Wereboars are ill-tempered and vulgar brutes. As humanoids, they are stocky and 
 Wereboars live in small family groups in remote forest areas, building ramshackle huts or dwelling in caves. They are suspicious of strangers but sometimes ally themselves with orcs.
 
 >### Wereboar
->*Medium humanoid (human;shapechanger), neutral evil*
+>*Medium humanoid (human, shapechanger), neutral evil*
 >___
 >- **Armor Class** 10 in humanoid form, 11 (natural armor) in boar or hybrid form
 >- **Hit Points** 78 (12d8 + 24)
@@ -112,7 +111,7 @@ A wererat clan operates much like a thieves' guild, with wererats transmitting t
 Wererat clans are found throughout urban civilization, often dwelling in cellars and catacombs. These creatures are common in the sewers beneath major cities, viewing those subterranean areas as their hunting grounds. Rats and giant rats are commonly found living among wererats.
 
 >### Wererat
->*Medium humanoid (human;shapechanger), lawful evil*
+>*Medium humanoid (human, shapechanger), lawful evil*
 >___
 >- **Armor Class** 12
 >- **Hit Points** 33 (6d8 + 6)
@@ -156,7 +155,7 @@ Weretigers are ferocious hunters and warriors with a haughty and fastidious natu
 Weretigers live in jungles on the fringes of humanoid civilization, traveling to isolated settlements to trade or revel. They live and hunt alone or in small family groups.
 
 >### Weretiger
->*Medium humanoid (human;shapechanger), neutral*
+>*Medium humanoid (human, shapechanger), neutral*
 >___
 >- **Armor Class** 12
 >- **Hit Points** 120 (16d8 + 48)
@@ -199,12 +198,12 @@ Weretigers live in jungles on the fringes of humanoid civilization, traveling to
 ---
 
 ## Werewolf
-***A werewolf is a savage predator.*** In its humanoid form, a werewolf has heightened senses, a fiery temper, and a tendency to eat rare meat. Its wolf form is a fearsome predator, but its hybrid form is more terrifying by far — a furred and well-muscled humanoid body topped by a ravening wolf's head. A werewolf can wield weapons in hybrid form, though it prefers to tear foes apart with its powerful claws and bite.
+In its humanoid form, a werewolf has heightened senses, a fiery temper, and a tendency to eat rare meat. Its wolf form is a fearsome predator, but its hybrid form is more terrifying by far — a furred and well-muscled humanoid body topped by a ravening wolf's head. A werewolf can wield weapons in hybrid form, though it prefers to tear foes apart with its powerful claws and bite.
 
 Most werewolves flee civilized lands not long after becoming afflicted. Those that reject the curse fear what will happen if they remain among their friends and family. Those that embrace the curse fear discovery and the consequences of their murderous acts. In the wild, werewolves form packs that also include wolves and dire wolves.
 
 >### Werewolf
->*Medium humanoid (human;shapechanger), chaotic evil*
+>*Medium humanoid (human, shapechanger), chaotic evil*
 >___
 >- **Armor Class** 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
 >- **Hit Points** 58 (9d8 + 18)
