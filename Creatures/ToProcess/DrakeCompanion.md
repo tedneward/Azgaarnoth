@@ -1,5 +1,5 @@
-# Drake Companion
-*Small dragon*
+## Drake Companion
+*Small dragon, any alignment*
 
 > ***NOTE:*** The "PB" is the summoning [Drakewarden Ranger's](../Classes/Ranger/Drakewarden.md) proficiency bonus.
 

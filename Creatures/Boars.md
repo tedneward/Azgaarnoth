@@ -3,6 +3,8 @@ Larger relatives of the pig family, boars are generally not aggressive unless at
 
 > Jump to: [Boar](#boar) | [Giant Boar](#giant-boar)
 
+---
+
 ## Boar
 The boar is common across Azgaarnoth, and 
 

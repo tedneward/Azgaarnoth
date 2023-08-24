@@ -1,13 +1,7 @@
-
-BESTIARY (E-K)
-TABLE OF CONTENTS
-BESTIARY (S-U)
-Bestiary (L-R)
-Monsters: L
 Leucrotta
 A leucrotta is what you would get if you took the head of a giant badger, the legs of a deer, and the body of a large hyena, then put them together and reanimated them with demon ichor without bothering to cover up the stink of death.
 
-The first leucrottas came into being alongside some gnolls during the rampages of Yeenoghu (appears in this book) on the Material Plane. While many of the hyenas that ate Yeenoghu’s kills transformed into gnolls, others underwent more bizarre changes; leucrottas were the most numerous of these.
+The first leucrottas came into being alongside some gnolls during the rampages of Yeenoghu on the Material Plane. While many of the hyenas that ate Yeenoghu’s kills transformed into gnolls, others underwent more bizarre changes; leucrottas were the most numerous of these.
 
 As clever as it is cruel, a leucrotta loves to deceive, torture, and kill. Creatures who venerate Yeenoghu—particularly his gnoll followers—view leucrottas with great respect. Although a leucrotta is unlikely to lead a gnoll war band, it can influence the leader and might agree to carry the leader into battle and offer advice during the fight. Followers of Yeenoghu also see leucrottas as a form of entertainment. They enjoy watching a leucrotta work almost as much as they like doing their own killing, since leucrottas are meticulous in their cruelty and able to draw out kills for better and longer sport. And when there are no victims to be had, a leucrotta can mimic the delightful squeals of a suffering victim.
 
@@ -60,6 +54,7 @@ Bonus Actions
 
 Kicking Retreat. Immediately after the leucrotta makes a Hooves attack, it takes the Disengage action.
 
+===
 
 Leviathan
 A leviathan is an immense creature that acts as a force of nature, dragging ships down to the ocean’s depths and washing away coastal settlements. When called forth, a leviathan arises from a large body of water and takes on the form of a gigantic serpent.
@@ -127,8 +122,8 @@ Move. The leviathan moves up to its speed.
 
 Slam (Costs 2 Actions). The leviathan makes one Slam attack.
 
+===
 
-Monsters: M
 Martial Arts Adept
 
 Martial arts adepts are disciplined monks with extensive training in hand-to-hand combat. Some protect monasteries; others travel the world seeking enlightenment or new forms of combat to master. A few become bodyguards, trading their combat prowess and loyalty for food and lodging.
@@ -192,6 +187,8 @@ Reactions
 
 Deflect Missile. In response to being hit by a ranged weapon attack, the adept deflects the missile. The damage it takes from the attack is reduced by 1d10 + 3. If the damage is reduced to 0, the adept catches the missile if it’s small enough to hold in one hand and the adept has a hand free.
 
+===
+
 Marut
 The nigh-unstoppable inevitables serve a singular purpose: they enforce contracts forged in the Hall of Concordance in the city of Sigil. Primus, the leader of the modrons, created maruts and other inevitables to bring order to dealings between planar folk. A wide array of disparate creatures, including yugoloths, will enter into a contract with inevitables if asked.
 
@@ -254,6 +251,7 @@ Blazing Edict (Recharge 5–6). Arcane energy emanates from the marut’s chest 
 
 Plane Shift (3/Day). The marut casts plane shift, requiring no material components and using Intelligence as the spellcasting ability. The marut can cast the spell normally, or it can cast the spell on an unwilling creature it can see within 60 feet of it. If it uses the latter option, the targeted creature must succeed on a DC 20 Charisma saving throw or be banished to a teleportation circle in the Hall of Concordance in Sigil.
 
+===
 
 Master Thief
 Master thieves are known for perpetrating daring heists. They tend to develop a romanticized reputation. A master thief might “retire” from hands-on work to run a thieves’ guild, spearhead some covert enterprise, or enjoy a quiet life of luxury.
@@ -322,8 +320,10 @@ Reactions
 
 Uncanny Dodge. The thief halves the damage that it takes from an attack that hits it. The thief must be able to see the attacker.
 
+===
+
 Maurezhi
-When Doresain, the King of Ghouls, corrupted a society of elves, he created a new sort of demon—the maurezhi—to lead packs of ghouls and ghasts (both appear in the Monster Manual) on the Material Plane.
+When Doresain, the King of Ghouls, corrupted a society of elves, he created a new sort of demon—the maurezhi—to lead packs of ghouls and ghasts on the Material Plane.
 
 When a maurezhi consumes the corpse of a Humanoid it has slain—a process that takes about 10 minutes—it instantly assumes the creature’s appearance as it was in life. The new appearance begins to rot away over the next few days, eventually revealing the demon’s original form.
 
@@ -378,6 +378,7 @@ Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3)
 
 Raise Ghoul (Recharge 5–6). The maurezhi targets one dead ghoul or ghast (see the Monster Manual) it can see within 30 feet of it. The target is revived with all its hit points.
 
+===
 
 Maw Demon
 Maw demons share the ceaseless hunger for carnage and mortal flesh of their master, Yeenoghu, who appears in this book. After a maw demon rests for 8 hours, anything devoured by it is transported directly into the Lord of Savagery’s gullet.
@@ -439,6 +440,7 @@ Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2)
 
 Disgorge (Recharge 6). The demon vomits in a 15-foot cube. Each creature in that area must succeed on a DC 11 Dexterity saving throw or take 11 (2d10) acid damage and fall prone in the spew.
 
+===
 
 Meazel
 Meazels are malicious hermits who fled to the Shadowfell to escape their mortal existence and contemplate their misery. There the shadows transformed them, and their bitterness made them twisted and cruel. Now hate burns in their hearts, and they resent any intrusion into their suffering, waylaying travelers who venture too close to their lairs.
@@ -490,6 +492,7 @@ Bonus Actions
 
 Shadow Stealth. While in dim light or darkness, the meazel takes the Hide action.
 
+===
 
 Meenlock
 Meenlocks are Fey that invoke terror and seek to destroy all that is good, innocent, and beautiful. These bipeds have the heads and claws of crustaceans, and they primarily live in forests, although they adapt well to urban and subterranean settings.
@@ -544,6 +547,7 @@ Bonus Actions
 
 Shadow Teleport (Recharge 5–6). The meenlock teleports to an unoccupied space within 30 feet of it, provided that both the space it’s teleporting from and its destination are in dim light or darkness. The destination need not be within line of sight.
 
+===
 
 Merregon
 The souls of fallen soldiers, mercenaries, and bodyguards who served evil without reservation often find everlasting servitude in the Nine Hells as merregons. These faceless foot soldiers are the Hells’ legionnaires, tasked with protecting their infernal plane and its rulers against intruders.
@@ -601,6 +605,7 @@ Reactions
 
 Loyal Bodyguard. When another Fiend within 5 feet of the merregon is hit by an attack roll, the merregon causes itself to be hit instead.
 
+===
 
 Merrenoloth
 The grim captains of the ferries on the River Styx, merrenoloths can navigate safely through the worst storms and always stay on course. Wielding fiery oars, merrenoloths strike fear into anyone who forcefully boards their vessels.
@@ -680,9 +685,10 @@ Bonus Actions
 
 Teleport. The merrenoloth teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 
+===
 
 Mindwitness
-If a beholder is stunned and brought to the brine pool of an elder brain (appears in this book), the beholder can be converted into a mindwitness. This alters some of its eye rays and transforms four of its eyestalks into tentacles similar to a mind flayer’s. The mindwitness is psychically imprinted with devotion to the elder brain and submission to illithid commands.
+If a beholder is stunned and brought to the brine pool of an elder brain, the beholder can be converted into a mindwitness. This alters some of its eye rays and transforms four of its eyestalks into tentacles similar to a mind flayer’s. The mindwitness is psychically imprinted with devotion to the elder brain and submission to illithid commands.
 
 A mindwitness’s primary function is to improve telepathic communication in a mind flayer colony. A creature in telepathic communication with a mindwitness can converse through it to as many as seven other creatures the mindwitness can see, rapidly disseminating commands and other information.
 
@@ -741,6 +747,7 @@ Stunning Ray. The targeted creature must succeed on a DC 13 Constitution saving 
 Telekinetic Ray. If the target is a creature, it must make a DC 13 Strength saving throw. On a failed save, the mindwitness moves it up to 30 feet in any direction, and it is restrained by the ray’s telekinetic grip until the start of the mindwitness’s next turn or until the mindwitness is incapacitated.
 If the target is an object weighing 300 pounds or less that isn’t being worn or carried, it is telekinetically moved up to 30 feet in any direction. The mindwitness can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.
 
+===
 
 Moloch
 
@@ -827,10 +834,7 @@ Teleport. Moloch uses Teleport.
 
 Cast a Spell (Costs 2 Actions). Moloch uses Spellcasting.
 
-
-Moloch obsesses over the power he lost, rather than thinking of the power he could gain elsewhere in the planes. What a pity he so wastes his potential.
-
-—Mordenkainen
+===
 
 Molydeus
 The fearsome molydeus speaks for the demon lord it serves and enforces its master’s will. This demon is 12 feet tall, and its bipedal body has a slavering wolf’s head and a fanged serpent’s head. Its demon lord can speak and see through the serpent head; this master also uses the molydeus to guard treasures, slay foes, and terrify troops into obedience.
@@ -909,6 +913,7 @@ Move. The molydeus moves without provoking opportunity attacks.
 
 Cast a Spell (Costs 2 Actions). The molydeus uses Spellcasting.
 
+===
 
 Morkoth
 Ancient and devious, morkoths are voracious collectors. Each one floats through the planes on a strange, mobile island, amassing the valuables, oddities, and castoffs of the multiverse in a massive, ever-growing collection.
@@ -1004,6 +1009,8 @@ Supernatural Lure. Entrances to the morkoth’s lair have an enchantment that th
 
 If the morkoth dies, these regional effects end immediately.
 
+===
+
 Mouth of Grolantor
 Hill giants consume spoiled food and diseased carcasses with as much enthusiasm as children eating dessert and rarely suffer for such eating habits. When one of their kind becomes incapable of keeping down food, that giant is seen, among hill giant worshipers of the god Grolantor, as the vessel of a message from the deity.
 
@@ -1061,7 +1068,8 @@ Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 15 (3d6 + 
 Fist. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage.
 
 
-Monsters: N
+---
+
 Nabassu
 The insatiable nabassus prowl the multiverse in search of souls to devour. If they think they can kill a creature and consume its soul, they attack—even if that other creature is a demon, including another nabassu.
 
@@ -1122,6 +1130,7 @@ Claw. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 28 (4d10 + 
 
 Soul-Stealing Gaze. The nabassu targets one creature it can see within 30 feet of it. If the target isn’t a Construct or an Undead, it must succeed on a DC 16 Charisma saving throw or take 13 (2d12) necrotic damage. The target’s hit point maximum is reduced by an amount equal to the necrotic damage dealt, and the nabassu regains hit points equal to half that amount. This reduction lasts until the target finishes a short or long rest. The target dies if its hit point maximum is reduced to 0, and if the target is a Humanoid, it immediately rises as a ghoul (see the Monster Manual) under the nabassu’s control.
 
+===
 
 Nagpa
 Long ago, the Raven Queen cursed a cabal of powerful wizards for meddling in a ritual that would have helped avert a war between the gods. She transformed them into the scabrous, birdlike creatures known as nagpas and rendered them able to acquire new lore and magical power only from the ruins of fallen civilizations and great calamities.
@@ -1413,7 +1422,7 @@ Bonus Actions
 Enslave (Recharges after a Short or Long Rest). The neogi targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be magically charmed by the neogi for 1 day, or until the neogi dies or is more than 1 mile from the target. The charmed target obeys the neogi’s commands and can’t take reactions, and the neogi and the target can communicate telepathically with each other at a distance of up to 1 mile. Whenever the charmed target takes damage, it can repeat the saving throw, ending the effect on itself on a success.
 
 Neothelid
-A slime-covered worm of immense size, a neothelid is the result of the mind flayer reproductive cycle gone horribly wrong. When an illithid colony collapses, typically after an external assault, and the elder brain (appears in this book) is killed, the colony’s tadpoles are suddenly freed from their fate. They no longer serve as food—and are no longer fed by their caretakers. Driven by hunger, they turn to devouring one another. Only one tadpole survives out of the thousands in the colony’s pool, and it emerges as a neothelid.
+A slime-covered worm of immense size, a neothelid is the result of the mind flayer reproductive cycle gone horribly wrong. When an illithid colony collapses, typically after an external assault, and the elder brain is killed, the colony’s tadpoles are suddenly freed from their fate. They no longer serve as food—and are no longer fed by their caretakers. Driven by hunger, they turn to devouring one another. Only one tadpole survives out of the thousands in the colony’s pool, and it emerges as a neothelid.
 
 Neothelids know nothing beyond their predatory existence. They prowl subterranean passages, using their rudimentary psionic abilities to search out and incapacitate brains to sate their constant hunger, growing ever more vicious. These creatures can spray tissue-dissolving enzymes from their tentacle ducts, reducing victims to puddles of slime and leaving only the pulsing brains unharmed. They have no knowledge of their link to illithids, so they’re just as likely to prey on mind flayers as on anything else.
 

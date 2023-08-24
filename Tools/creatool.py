@@ -18,14 +18,69 @@ class SubtypedCreature:
         self.subtypes = []
         self.generaldescription = []
 
-    def emitMD(self):
-        def linkify(string):
-            return '#' + string.replace('/','').replace(' ','-').lower()
-        
-        subtypejumplinks = " | ".join(map(lambda st: f'[{st.name}]({linkify(st.name)})', self.subtypes))
+    def parseMD(mdlines):
+        "Class-level method to parse a list of strings that contain well-formed Markdown"
+        if mdlines[0][0:2] == '# ':
+            # This is a multi-creature file
+            subtypedcreature = SubtypedCreature()
 
-        results  =  ''
-        results += f'# {self.name}\n'
+            # Start by parsing the SubtypedCreature description text
+            subtypedcreature.name = mdlines[0][2:].strip()
+
+            # Grab the rest of the description, appending until
+            # we reach the first '---' break
+            linect = 1
+            while linect < len(mdlines):
+                line = mdlines[linect]
+                if line == '---\n':
+                    linect += 1
+                    break
+                elif line[0:len("> Jump to:")] == "> Jump to:":
+                    pass
+                else:
+                    subtypedcreature.generaldescription += mdlines[linect]
+                linect += 1
+
+            # Now loop through the rest of the file, breaking on the '---' breaks
+            # and parse each one as a separate creature
+            creaturebuffer = []
+            while linect < len(mdlines):
+                line = mdlines[linect]
+                if line == '---\n':
+                    creature = Creature()
+                    creature.parseMD(creaturebuffer)
+                    creature.collection = subtypedcreature
+                    subtypedcreature.subtypes.append(creature)
+                    print("  Parsed " + creature.name)
+                    creaturebuffer = []
+                else:
+                    creaturebuffer.append(line)
+
+                linect += 1
+            else:
+                if len(creaturebuffer) > 0:
+                    creature = Creature()
+                    creature.parseMD(creaturebuffer)
+                    creature.collection = subtypedcreature
+                    subtypedcreature.subtypes.append(creature)
+            
+            return subtypedcreature
+        elif mdlines[0][0:3] == '## ':
+            # This is a single-creature file
+            creature = Creature()
+            creature.parseMD(mdlines)
+            return creature
+        else:
+            print("UNRECOGNIZED LINE 0: '" + mdlines[0] + "'")
+
+
+    def emitMD(self):
+        #def linkify(string):
+        #    return '#' + string.replace('/','').replace(' ','-').lower()
+        
+        subtypejumplinks = " | ".join(map(lambda st: f'[{st.name}]({st.linkedname})', self.subtypes))
+
+        results  = f'# {self.name}\n'
         results += self.generaldescription[0] + '\n'
         results += '\n'
         results += '> Jump to: ' + subtypejumplinks + '\n'
@@ -43,12 +98,14 @@ class Creature:
             self.title = ''
             self.text = ''
 
-        def __str__(self) -> str:
+        def __str__(self):
             return f'***{self.title}.*** {self.text}'
         
         def parse(self, line):
-            self.title = ''
-            self.text = ''
+            starttitle = 0
+            endtitle = line.find('.***')
+            self.title = line[starttitle+3:endtitle]
+            self.text = line[endtitle+5:]
         
     class Lair:
         def __init__(self):
@@ -59,6 +116,12 @@ class Creature:
             self.regionalpostfix = ''
 
     def __init__(self):
+        # This indicates whether this creature is part of a
+        # SubtypedCreature's subtypes[] (above). If it's not
+        # None, it points to the SubtypedCreature that we're
+        # a part of.
+        self.collection = None
+
         self.name = ''
         self.size = ''
         self.type = ''
@@ -98,28 +161,14 @@ class Creature:
         return f"{score} ({self.abilitybonus(score):+g})"
 
     def parseMD(self, mdlines):
-        "Parse a list of strings that contain well-formed Markdown"
-        if mdlines[0][0,1] == '# ':
-            # This is a multi-creature file
-            subtypedcreature = SubtypedCreature()
-
-            # Start by parsing the SubtypedCreature description text
-
-            # Now loop through the rest of the file, breaking on the '---' breaks
-            # and parse each one as a separate creature
-
-            #return subtypedcreature
-            print("I CAN'T PARSE MULTI_CREATURE FILES YET SORRY")
-        elif mdlines[0][0,1] == '##':
-            # This is a single-creature file
-            return self.parseSingleCreatureMD(mdlines)
-
-    def parseSingleCreatureMD(self, mdlines):
         "Parse a list of strings that contain well-formed Markdown containing a single creature"
 
         linect = 0
+        while len(mdlines[linect].strip()) == 0:
+            linect += 1
+
         self.name = mdlines[linect].replace('#', '').strip()
-        print(self.name)
+        linect += 1
 
         while linect < len(mdlines):
             line = mdlines[linect].strip()
@@ -128,23 +177,41 @@ class Creature:
                 break
             else:
                 if len(line) > 0:
-                    self.description.append(mdlines[linect])
+                    if line[0:3] == '***':
+                        ttext = Creature.TitledText()
+                        ttext.parse(line)
+                        self.description.append(ttext)
+                    else:
+                        self.description.append(line)
                 linect += 1
 
         # name
         line = mdlines[linect]
-        print("Name: " + line)
+        # TODO: assert that the name in the stat block is the same at the top of the
+        # markdown file. Not sure what we do if it's not. *shrug*
         linect += 1
 
         # size type (optional-subtype, optional-subtype, ...), alignment
-        # TODO: Handle multiple subtypes someday
         line = mdlines[linect][1:].strip().replace('*', '')
-        (sizetype, alignment) = line.split(',')
-        self.alignment = alignment.strip()
-        size = sizetype[0:sizetype.index(' ')]
-        ctype = sizetype[sizetype.index(' '):]
-        self.size = size.strip()
-        self.type = ctype.strip()
+        if line.find('(') > 0:
+            # It has a parenthesized subtype
+            # Find the parenthesized string and split there
+            endparen = line.find(')')
+            sizeandtype = line[0:endparen+1]
+            # Fnd the paren in the new sizeandtype string
+            startparen = line.find('(')
+            endparen = line.find(')')
+            sizeandtype = line[0:startparen]
+            subtype = line[startparen+1:endparen]
+            self.size = sizeandtype.split(' ')[0]
+            self.type = sizeandtype.split(' ')[1]
+            self.subtypes = subtype.split(',')
+            self.alignment = line[endparen+3:].strip()
+        else:
+            (sizeandtype, alignment) = line.split(',')
+            self.alignment = alignment.strip()
+            self.size = sizeandtype.split(' ')[0]
+            self.type = sizeandtype.split(' ')[1]
         linect +=1
 
         # >___
@@ -152,39 +219,124 @@ class Creature:
 
         # Armor Class
         line = mdlines[linect]
-        print("AC: " + line)
         self.ac = line[len('>- **Armor Class** '):].strip()
         linect += 1
 
         # Hit Points
         line = mdlines[linect]
-        print("HP: " + line)
         self.hp = line[len('>- **Hit Points** '):].strip()
         linect += 1
 
         # Speed
         line = mdlines[linect]
-        print("Spd: " + line)
         self.speed = line[len('>- **Speed** '):].strip()
         linect += 1
 
         # >___
+        linect += 1
+
         # >Stat block headers
+        linect += 1
+
         # >Stat block table row divider
+        linect += 1
+
         # >Stat block
+        statsline = mdlines[linect][2:].strip()
+        sixstats = statsline.split("|")
+        self.STR = int(sixstats[0].split('(')[0])
+        self.DEX = int(sixstats[1].split('(')[0])
+        self.CON = int(sixstats[2].split('(')[0])
+        self.INT = int(sixstats[3].split('(')[0])
+        self.WIS = int(sixstats[4].split('(')[0])
+        self.CHA = int(sixstats[5].split('(')[0])
+        linect += 1
+
         # >
+        linect += 1
+
         # >___
+        linect += 1
+
         # >Prof Bonus
+        self.profbonus = mdlines[linect][len('>- **Proficiency Bonus** '):].strip()
+        linect += 1
+
         # >Saving Throws
+        line = mdlines[linect][len('>- **Saving Throws** '):].strip()
+        if len(line) > 0:
+            self.savingthrows = line.split(',')
+        linect += 1
+
         # >Dmg Vul
+        line = mdlines[linect][len('>- **Damage Vulnerabilities** '):].strip()
+        if len(line) > 0:
+            self.dmgvuls = line.split(',')
+        linect += 1
+
         # >Dmg Res
+        line = mdlines[linect][len('>- **Damage Resistances** '):].strip()
+        if len(line) > 0:
+            self.dmgresists = line.split(',')
+        linect += 1
+
         # >Dmg Imm
+        line = mdlines[linect][len('>- **Damage Immunities** '):].strip()
+        if len(line) > 0:
+            self.dmgimmunes = line.split(',')
+        linect += 1
+
         # >Cond Imm
+        line = mdlines[linect][len('>- **Condition Immunities** '):].strip()
+        if len(line) > 0:
+            self.condimmunes = line.split(',')
+        linect += 1
+
         # >Skills
+        line = mdlines[linect][len('>- **Skills** '):].strip()
+        if len(line) > 0:
+            self.skills = line.split(',')
+        linect += 1
+
         # >Senses
+        line = mdlines[linect][len('>- **Senses** '):].strip()
+        if len(line) > 0:
+            self.senses = line.split(',')
+        linect += 1
+
         # >Langs
+        line = mdlines[linect].strip()
+        self.languages = line[len('>- **Languages** '):].split(',')
+        linect += 1
+
         # >CR
-        # >Features -> Actions -> Bonus Actions? -> Reactions? -> Lair Actions? -> Legendary Actions?
+        self.cr = mdlines[linect][len('>- **Challenge** '):].strip()
+        linect += 1
+
+        # >___
+        linect += 1
+
+        # >Features? -> Actions -> Bonus Actions? -> Reactions? -> Lair Actions? -> Legendary Actions?
+        block = self.features
+        while linect < len(mdlines):
+            line = mdlines[linect].strip()[1:]
+
+            if len(line) < 1:
+                linect += 1
+                continue
+
+            if line == '#### Actions': block = self.actions
+            elif line == '#### Bonus Actions': block = self.bonusactions
+            elif line == '#### Reactions': block = self.reactions
+            elif line == '#### Legendary Actions': block = self.legendaryactions
+            #elif line.find("'s Lair") > 0: self.lair = Creature.Lair(); 
+            else:
+                ttext = Creature.TitledText()
+                ttext.parse(line)
+                block.append(ttext)
+
+            linect += 1
+
         # ### A {name}'s Lair
         # Lair-description
         # #### Lair Actions
@@ -198,26 +350,9 @@ class Creature:
         "Parse a row from a SQLite cursor"
         pass
 
-    def titleify(self, items, prefix='>'):
-        results = ''
-        for item in items:
-            line = item.strip()
-
-            if '.' in line:
-                firstdot = line.index('.')
-                if firstdot < 35:
-                    title = '***' + line[0:firstdot] + '.***'
-                    text = line[firstdot:]
-                    results += prefix + title + text
-                else:
-                    results += prefix + line
-            else:
-                results += prefix + line
-
-            results += '\n'
-            results += prefix + '\n'
-
-        return results
+    def linkedname(self):
+        "Return a hyperlink anchor version of this creature's name"
+        return '#' + (self.name).replace('/','').replace(' ','-').lower()
 
     def emitMD(self):
         "Emit this creature description and stat block"
@@ -226,10 +361,9 @@ class Creature:
 
         result  = ""
         result += f"## {self.name}\n"
-        if len(self.description) > 0:
-            result += self.titleify(self.description, '')
-        else:
-            result += '\n'
+        for descrip in self.description:
+            result += str(descrip) + '\n\n'
+
         result += f">### {self.name}\n"
 
         if len(self.subtypes) > 0:
@@ -259,16 +393,26 @@ class Creature:
         result += f">- **Skills** {','.join(self.skills)}\n"
         result += f">- **Senses** {','.join(self.senses)}\n"
         result += f">- **Languages** {','.join(self.languages)}\n"
-        result += f">- **Challenge** {self.cr}\n" 
+        result += f">- **Challenge** {self.cr}\n"
+        #result += f">- **Token** {self.name + '-Token.png'}"
         result += linebreak
-        result += self.titleify(self.features)
-        result += ">#### Actions\n" + self.titleify(self.actions)
+        for feature in self.features:
+            result += '>' + str(feature) + '\n>\n'
+        result += ">#### Actions\n"
+        for action in self.actions:
+            result += '>' + str(action) + '\n>\n'
         if len(self.bonusactions) > 0:
-            result +=  ">#### Bonus Actions\n" + self.titleify(self.bonusactions)
+            result +=  ">#### Bonus Actions\n"
+            for baction in self.bonusactions:
+                result += '>' + str(baction) + '\n>\n'
         if len(self.reactions) > 0:
-            result +=  ">#### Reactions\n" + self.titleify(self.reactions)
+            result +=  ">#### Reactions\n"
+            for reaction in self.reactions:
+                result += '>' + str(reaction) + '\n>\n'
         if len(self.legendaryactions) > 0:
-            result +=  ">#### Legendary Actions\n" + self.titleify(self.legendaryactions)
+            result +=  ">#### Legendary Actions\n"
+            for laction in self.legendaryactions:
+                result += '>' + str(laction) + '\n>\n'
 
         if self.lair != None:
             result += '\n'
@@ -718,9 +862,6 @@ def ingest(arg):
         if lines[0][0:2] == '# ':
             # Might be one of my original MD formats
             creatures.append(ingestmymdformat(lines))
-#        elif lines[0] == '<!DOCTYPE html>\n':
-#            # We are going to parse a DnD Beyond page, let's go!
-#            cs = ingestdndbeyondwebp(lines)
         elif lines[0].upper() == lines[0]:
             # Guessing this is a stat block
             creatures.append(ingestrawstatblock(lines))
@@ -767,12 +908,24 @@ def main(argv):
         if os.path.isdir(args.parsemd):
             files = os.listdir(args.parsemd)
             for f in files:
+                if f == 'index.md':
+                    continue
+
                 if os.path.isfile(args.parsemd + '/' + f):
-                    with open(args.parsemd + '/' + f, 'r') as mdfile:
-                        lines = mdfile.readlines()
-                        creature = Creature()
-                        creature.parseMD(lines)
-                        creatures.append(creature)
+                    ext = str(f)[-4:].lower()
+                    if ext != '.png' and ext != '.jpg' and ext != 'webp':
+                        with open(args.parsemd + '/' + f, 'r') as mdfile:
+                            print("Parsing " + args.parsemd + '/' + f)
+                            lines = mdfile.readlines()
+                            parsedcreature = SubtypedCreature.parseMD(lines)
+                            if isinstance(parsedcreature, SubtypedCreature):
+                                print("We parsed the multi-typed creature " + parsedcreature.name)
+                                for creature in parsedcreature.subtypes:
+                                    print("   " + creature.name)
+                                creatures.append(parsedcreature)
+                            else:
+                                print("We parsed the creature " + parsedcreature.name)
+                                creatures.append(parsedcreature)
         else:
             with open(args.parsemd, 'r') as mdfile:
                 lines = mdfile.readlines()
@@ -796,7 +949,7 @@ def main(argv):
 
     # List
     if args.list != None:
-        for name in map(lambda crea: creature.name, creatures):
+        for name in map(lambda crea: crea.name, creatures):
             print(name)
 
     # Store?
@@ -807,9 +960,40 @@ def main(argv):
                 print(creature.emitMD())
         elif os.path.isdir(dest):
             for creature in creatures:
-                print("Writing " + str(creature))
-                with open(camelcaseify(args.writemd + '/' + creature.name).title() + ".md", 'w') as mdfile:
+                with open(args.writemd + "/" + (creature.name).replace(" ", "") + ".md", 'w') as mdfile:
+                    print("Writing " + creature.name)
                     mdfile.write(creature.emitMD())
+    elif args.writeindex != None:
+        # We actually want all the SubtypedCreatures to appear in the full
+        # creatures list for indexing purposes, so....
+
+        fulllist = []
+        for creature in creatures:
+            if isinstance(creature, SubtypedCreature):
+                fulllist.append(creature)
+                for subcreature in creature.subtypes:
+                    fulllist.append(subcreature)
+            else:
+                fulllist.append(creature)
+
+        fulllist.sort(key=lambda crea: crea.name)
+        indexstr = ''
+        for creature in fulllist:
+            if isinstance(creature, SubtypedCreature):
+                indexstr += f"- [{creature.name}]({(creature.name).replace(' ', '')}.md): "
+                indexstr += " | ".join(map(lambda subcrea: f"[{subcrea.name}]({(subcrea.collection.name).replace(' ','')}.md{subcrea.linkedname()})", creature.subtypes))
+                indexstr += "\n"
+            else:
+                if creature.collection != None:
+                    indexstr += f"- [{creature.name}]({(creature.collection.name).replace(' ','')}.md{creature.linkedname()})\n"
+                else:
+                    indexstr += f"- [{creature.name}]({(creature.name).replace(' ', '')}.md)\n"
+
+        if args.writeindex == '-':
+            print(indexstr)
+        else:
+            with open(args.writeindex + "/index.md", 'w') as indexfile:
+                indexfile.write(indexstr)
     else:
         parser.print_help()
 

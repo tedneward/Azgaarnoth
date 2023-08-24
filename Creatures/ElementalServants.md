@@ -64,7 +64,7 @@ Most invisible stalkers are an unwilling servant at best, and resent any underta
 
 ***Unseen Threat.*** Invisible stalkers are composed of air and are naturally invisible. A creature might hear and feel an invisible stalker in passing, but the elemental remains invisible even when it attacks. A spell that allows someone to see the invisible reveals only the invisible stalker’s vague outline.
 
->## Invisible Stalker
+>### Invisible Stalker
 >*Medium elemental, neutral*
 >___
 >- **Armor Class** 14 (natural armor)
@@ -106,7 +106,7 @@ A grinning, mischievous magmin resembles a stumpy humanoid sculpted from a black
 
 If it has the opportunity while in service to its master, a magmin seeks out areas of great heat, such as forest fires or the bubbling magma of an active volcano. At other times, a magmin compulsively looses fire from its fingertips, delighting in setting objects ablaze.
 
->## Magmin
+>### Magmin
 >*Small elemental, chaotic neutral*
 >___
 >- **Armor Class** 14 (natural armor)
@@ -144,7 +144,7 @@ A sand assassin resembles an athletic human made entirely of sand usually with m
 
 **Ruthless Hunters.** Sand assassins detest being seen by those who have not yet trespassed and prefer to hide from such beings. In combat, this elemental tries to sneak up on its victims, hiding as a dust cloud or among a real sandstorm to approach its targets, then blinding them with its Sand Form trait before attacking them with surprise. It usually prefers to strike those that are alone so it can deal bonus damage. If it is in melee range with a target that isn't alone, the elemental will seek a target in the fight that is more alone, blinding those that threaten opportunity attacks and flying or burrowing to reach its next lonely victim. If its enemies stay grouped together to avoid the bonus damage, the sand assassin attempts to blind many targets at once instead.
 
->## Sand Assassin
+>### Sand Assassin
 >*Medium elemental (air/earth), lawful neutral*
 >___
 >- **Armor Class** 15 (natural armor)

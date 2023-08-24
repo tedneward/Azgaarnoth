@@ -41,7 +41,7 @@ As long as the demon remains in possession of its host, the soul of that host is
 
 A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 
-## Demon Lords
+#### Demon Lords
 The chaotic power of the Abyss rewards demons of particular ruthlessness and ingenuity with a dark blessing, transforming them into unique fiends whose power can rival the gods. These demon lords rule through cunning or brute force, hoping to one day claim the prize of absolute control over all the Abyss.
 
 ***Reward for Outsiders.*** Although most demon lords rise up from the vast and uncountable mobs of demons rampaging across the Abyss, the plane also rewards outsiders that conquer any of its infinite layers. The elven goddess Lolth became a demon lord after Corellon Larethian cast her into the Abyss for betraying elvenkind. Sages claim that the Dark Prince Graz'zt originated on some other plane before stealing his abyssal title from another long-forgotten demon lord.
@@ -66,7 +66,7 @@ Baphomet appears as a fearsome, 20-foot-tall minotaur with six iron horns. A fie
 
 Baphomet wields a great glaive called Heartcleaver. He also charges his enemies and gores them with his horns, trampling his foes into the earth and rending them with his teeth like a beast.
 
-## Cultists of Baphomet
+### Cultists of Baphomet
 Baphomet grants his cultists special abilities. All his devotees gain the Labyrinthine Recall trait below. He grants his rank-and-file followers the Unerring Tracker trait, and cult leaders gain the Incite the Hunters trait.
 
 ***Labyrinthine Recall.*** This creature can perfectly recall any path it has traveled.
@@ -155,8 +155,7 @@ Demogorgon towers three times the height of a human, his body as sinuous as a sn
 
 Similarly, the spiraling Y sign of Demogorgon's cult drives those who contemplate it for too long to delirium. As a result, all followers of the Prince of Demons break with reality sooner or later.
 
-Cultists of Demogorgon
-
+### Cultists of Demogorgon
 Demogorgon's followers are typically lone killers driven by the whispering voice of their master. His most blessed followers gain the Two Minds of Chaos trait.
 
 ***Two Minds of Chaos.*** This creature has advantage on all Intelligence, Wisdom, and Charisma saving throws.
@@ -244,8 +243,7 @@ Once imprisoned for centuries below Castle Greyhawk on the world of Oerth, Fraz-
 
 The Prince of Deception's true form is like that of a great gargoyle, some 12 feet tall, with an extended, muscular neck; a smiling face framed by long, pointed ears and lank, dark hair; and bat-like wings are furled against his powerful shoulders. He can assume other forms, however, from the hideous to the beautiful.
 
-Cultists of Fraz-Urb'luu
-
+### Cultists of Fraz-Urb'luu
 Fraz-Urb'luu grants his cultists the Liar's Eye trait.
 
 ***Liar's Eye.*** This creature has advantage on Wisdom (Insight or Perception) checks. As a bonus action, the creature detects the location of all illusions and hidden creatures within 15 feet of it.
@@ -328,11 +326,12 @@ The appearance of this demon lord is a warning that not all that is beautiful is
 
 Graz'zt surrounds himself with the finest of things and the most attractive of servants, and he adorns himself in silks and leathers both striking and disturbing in their workmanship. His lair and those of his cultists are pleasure palaces where nothing is forbidden save moderation and kindness.
 
-Cults devoted to him are secret societies of indulgence, often using their debauchery to subjugate others through blackmail, addiction, and manipulation. They wear alabaster masks with ecstatic expressions and ostentatious dress and body ornamentation to their secret assignations.
-
 Although he prefers charm and subtle manipulation, Graz'zt is capable of terrible violence when provoked. He wields the greatsword Angdrelve, also called Wave of Sorrow, whose wavy, razor-edged blade drips acid at his command.
 
-***Cultists of Graz'zt***. Graz'zt grants his cultists special abilities. His cultists can gain the Joy from Pain trait, while his cult leaders can gain the Master of Pleasures trait.
+Cults devoted to him are secret societies of indulgence, often using their debauchery to subjugate others through blackmail, addiction, and manipulation. They wear alabaster masks with ecstatic expressions and ostentatious dress and body ornamentation to their secret assignations.
+
+### Cultists of Graz'zt
+Graz'zt grants his cultists special abilities. His cultists can gain the Joy from Pain trait, while his cult leaders can gain the Master of Pleasures trait.
 
 ***Joy from Pain.*** Whenever this creature suffers a critical hit, it can make one melee weapon attack as a reaction.
 
@@ -417,7 +416,8 @@ Called the Faceless Lord and the Oozing Hunger in ancient grimoires, Juiblex is 
 
 In its resting state, Juiblex spreads out in a noxious mass, bubbling and filling the air with a profound stench. On the rare occasions when creatures confront the demon lord, Juiblex draws itself up into a shuddering cone of slime striated with veins of black and green. Baleful red eyes swim within its gelatinous body, while dripping pseudopods of ooze lash out hungrily at any creature they can reach. It can rise up like a 20-foot hill, lashing out with dripping pseudopods to drag victims into its bulk. Those consumed by Juiblex are obliterated.
 
-***Cultists of Juiblex.*** The Faceless Lord grants its cultists special abilities. Lesser followers can gain the Liquid Movement trait. The most dedicated devotees of ooze can also gain the Slimy Organs trait.
+### Cultists of Juiblex
+The Faceless Lord grants its cultists special abilities. Lesser followers can gain the Liquid Movement trait. The most dedicated devotees of ooze can also gain the Slimy Organs trait.
 
 ***Liquid Movement.*** As an action, this creature can move up to 20 feet through spaces no more than an inch in diameter. It must end this movement in a space that can accommodate its full size. Otherwise, it takes 5 force damage and returns to the space where it began this movement.
 
@@ -495,35 +495,6 @@ The region containing Juiblex's lair is warped by its magic, creating one or mor
 * Slime. Surfaces within 6 miles of the lair are frequently covered by a thin film of slime, which is slick and sticks to anything that touches it.
 * If Juiblex dies, these effects fade over the course of 1d10 days.
 
----
-
-## Lolth
-The Demon Queen of Spiders is the evil matron of the drow. Her every thought is touched by malice, and the depth of her viciousness can surprise even her most faithful priestesses. She directs her faithful while she weaves plots across the worlds of the Material Plane, looking forward to the time when her drow followers bring those worlds under her control.
-
-Lolth appears as a lithe, imperious drow matriarch when she manifests to her followers in the mortal realm, which she does with unusual frequency. When battle breaks out -- or if she has a reason to remind her followers to fear her -- Lolth's lower body transforms into that of a huge demonic spider, whose spike-tipped legs and mandibles tear foes apart.
-
----
-
-## Orcus
-Known as the Demon Prince of Undeath and the Blood Lord, the demon lord Orcus is worshiped by the undead and by living creatures that channel the power of undeath. A brooding and nihilistic entity, Orcus yearns to make the multiverse a place of death and darkness, forever unchanging except by his will.
-
-The Demon Prince of Undeath is a foul and corpulent creature, with a humanoid torso, powerful goat legs, and the desiccated head of a ram. His sore-ridden body stinks of disease, but his decaying head and glowing red eyes are as a creature already dead. Great black bat wings sprout from his back, stirring reeking air as he moves.
-
-Orcus wields a malevolent artifact known as the Wand of Orcus, a mace-like rod topped by a humanoid skull. He surrounds himself with undead, and living creatures not under his control are anathema to him.
-
----
-
-## Yeenoghu
-Known as the Gnoll Lord and the Beast of Butchery, the demon lord Yeenoghu hungers for slaughter and senseless destruction. Gnolls are his mortal instruments, and he drives them to ever-greater atrocities in his name. Delighting in sorrow and hopelessness, the Gnoll Lord yearns to turn the world into a wasteland in which the last surviving gnolls tear each other apart for the right to feast upon the dead.
-
-Yeenoghu appears as a huge, scarred gnoll with a spiky crest of black spines, and eyes that burn with emerald flame. His armor is a patchwork of shields and breastplates claimed from fallen foes, and decorated by those foes' flayed skins. Yeenoghu can summon a triple flail he calls the Butcher, which he wields to deadly effect or wills to fly independently into battle as he tears foes apart with teeth and claws.
-
-***Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning.
-A marilith has a 50 percent chance of summoning 1d6 vrocks, 1d4 hezrous, 1d3 glabrezus, 1d2 nalfeshnees, or one marilith.
-A nalfeshnee has a 50 percent chance of summoning 1d4 vrocks, 1d3 hezrous, 1d2 glabrezus, or one nalfeshnee.
-A vrock has a 30 percent chance of summoning 2d4 dretches or one vrock.
-A yochlol has a 50 percent chance of summoning one yochlol.
-A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 
 ---
 

@@ -10,7 +10,7 @@ Though magen look like humanoids with green skin, they are constructs. When one 
 ## Demos
 Demos magen wear armor, wield weapons, and typically serve as guards.
 
->## Demos Magen
+>### Demos Magen
 >*Medium construct, unaligned*
 >___
 >- **Armor Class** 16 (chain mail)
@@ -21,11 +21,16 @@ Demos magen wear armor, wield weapons, and typically serve as guards.
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|18 (+4)|10 (+0)|10 (+0)|7 (-2)|
 >___
+>- **Proficiency Bonus** +2
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances**
 >- **Damage Immunities** poison
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Skills** 
 >- **Senses** passive Perception 10
 >- **Languages** understands the languages of its creator but can't speak
->- **Challenge** 2 (450 XP)
+>- **Challenge**
 >___
 >***Fiery End.*** If the magen dies, its body disintegrates in a harmless burst of fire and smoke, leaving behind anything it was wearing or carrying.  
 >
@@ -45,8 +50,7 @@ Demos magen wear armor, wield weapons, and typically serve as guards.
 ## Galvan
 Galvan magen can fly. They also store static electricity, which they discharge as lightning bolts.
 
-___
->## Galvan Magen
+>### Galvan Magen
 >*Medium construct, unaligned*
 >___
 >- **Armor Class** 14
@@ -57,8 +61,13 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|18 (+4)|18 (+4)|12 (+1)|10 (+0)|7 (-2)|
 >___
+>- **Proficiency Bonus** +2
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances**
 >- **Damage Immunities** lightning, poison
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Skills** 
 >- **Senses** passive Perception 10
 >- **Languages** understands the languages of its creator but can't speak
 >- **Challenge** 3 (700 XP)
@@ -83,8 +92,7 @@ Hypnos magen are telepathic and use their power of suggestion to control others.
 
 A hypnos magen carries no weapons, relying entirely on its psychic abilities to manipulate and harm other creatures.
 
-___
->## Hypnos Magen
+>### Hypnos Magen
 >*Medium construct, unaligned*
 >___
 >- **Armor Class** 12
@@ -95,8 +103,13 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|18 (+4)|14 (+2)|10 (+0)|7 (-2)|
 >___
+>- **Proficiency Bonus** +1
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances**
 >- **Damage Immunities** poison
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+>- **Skills** 
 >- **Senses** passive Perception 10
 >- **Languages** understands the languages of its creator but can't speak, telepathy 30 ft.
 >- **Challenge** 1 (200 XP)
