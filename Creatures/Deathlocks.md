@@ -34,18 +34,18 @@ Whatever the goal, it always reflects the patron's interests, ranging from small
 >- **Languages** the languages it knew in life
 >- **Challenge** 4
 >___
->***Turn Resistance.***. The deathlock has advantage on saving throws against any effect that turns Undead.
+>***Turn Resistance.*** The deathlock has advantage on saving throws against any effect that turns Undead.
 >
->***Unusual Nature.***. The deathlock doesn't require air, food, drink, or sleep.
+>***Unusual Nature.*** The deathlock doesn't require air, food, drink, or sleep.
 >
 >#### Actions
->***Multiattack.***. The deathlock makes two Deathly Claw or Grave Bolt attacks.
+>***Multiattack.*** The deathlock makes two Deathly Claw or Grave Bolt attacks.
 >
->***Deathly Claw.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) necrotic damage.
+>***Deathly Claw.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) necrotic damage.
 >
->***Grave Bolt.***. Ranged Spell Attack: +5 to hit, range 120 ft., one target. Hit: 14 (2d10 + 3) necrotic damage.
+>***Grave Bolt.*** Ranged Spell Attack: +5 to hit, range 120 ft., one target. Hit: 14 (2d10 + 3) necrotic damage.
 >
->***Spellcasting.***. The deathlock casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 13):
+>***Spellcasting.*** The deathlock casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 13):
 >
 >At will: detect magic, disguise self, mage armor, mage hand
 >
@@ -80,20 +80,20 @@ Though deathlocks exist to serve their patrons, they retain some freedom when it
 >- **Languages** the languages it knew in life
 >- **Challenge** 8
 >___
->***Devil's Sight.***. Magical darkness doesn't impede the deathlock's darkvision.
+>***Devil's Sight.*** Magical darkness doesn't impede the deathlock's darkvision.
 >
->***Turn Resistance.***. The deathlock has advantage on saving throws against any effect that turns Undead.
+>***Turn Resistance.*** The deathlock has advantage on saving throws against any effect that turns Undead.
 >
->***Unusual Nature.***. The deathlock doesn't require air, food, drink, or sleep.
+>***Unusual Nature.*** The deathlock doesn't require air, food, drink, or sleep.
 >
 >#### Actions
->***Multiattack.***. The deathlock makes two Deathly Claw or Grave Bolt attacks.
+>***Multiattack.*** The deathlock makes two Deathly Claw or Grave Bolt attacks.
 >
->***Deathly Claw.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3 necrotic damage).
+>***Deathly Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3 necrotic damage).
 >
->***Grave Bolt.***. Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 13 (3d8) necrotic damage. If the target is Large or smaller, it must succeed on a DC 16 Strength saving throw or become restrained as shadowy tendrils wrap around it for 1 minute. A restrained target can use its action to repeat the saving throw, ending the effect on itself on a success.
+>***Grave Bolt.*** Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 13 (3d8) necrotic damage. If the target is Large or smaller, it must succeed on a DC 16 Strength saving throw or become restrained as shadowy tendrils wrap around it for 1 minute. A restrained target can use its action to repeat the saving throw, ending the effect on itself on a success.
 >
->***Spellcasting.***. The deathlock casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 14):
+>***Spellcasting.*** The deathlock casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 14):
 >
 >At will: detect magic, disguise self, mage armor, minor illusion
 >
@@ -128,20 +128,20 @@ Deprived of much of its magic as a special punishment, a deathlock wight lingers
 >- **Languages** the languages it knew in life
 >- **Challenge** 3
 >___
->***Sunlight Sensitivity.***. While in sunlight, the deathlock has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Sunlight Sensitivity.*** While in sunlight, the deathlock has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
->***Unusual Nature.***. The deathlock doesn't require air, food, drink, or sleep.
+>***Unusual Nature.*** The deathlock doesn't require air, food, drink, or sleep.
 >
 >#### Actions
->***Multiattack.***. The deathlock makes two Life Drain or Grave Bolt attacks.
+>***Multiattack.*** The deathlock makes two Life Drain or Grave Bolt attacks.
 >
->***Life Drain.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw, or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.
+>***Life Drain.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw, or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.
 >
 >A Humanoid slain by this attack rises 24 hours later as a zombie (see the Monster Manual) under the deathlock's control, unless the Humanoid is restored to life or its body is destroyed. The deathlock can have no more than twelve zombies under its control at one time.
 >
->***Grave Bolt.***. Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 12 (2d8 + 3) necrotic damage.
+>***Grave Bolt.*** Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 12 (2d8 + 3) necrotic damage.
 >
->***Spellcasting.***. The deathlock casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 13):
+>***Spellcasting.*** The deathlock casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 13):
 >
 >At will: detect magic, disguise self, mage armor
 >

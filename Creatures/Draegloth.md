@@ -30,16 +30,16 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
 >- **Languages** Abyssal,Elvish,Undercommon
 >- **Challenge** 7
 >___
->***Fey Ancestry.***. The draegloth has advantage on saving throws against being charmed, and magic can't put it to sleep.
+>***Fey Ancestry.*** The draegloth has advantage on saving throws against being charmed, and magic can't put it to sleep.
 >
 >#### Actions
->***Multiattack.***. The draegloth makes one Bite attack and two Claw attacks.
+>***Multiattack.*** The draegloth makes one Bite attack and two Claw attacks.
 >
->***Bite.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 16 (2d10 + 5) piercing damage.
+>***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 16 (2d10 + 5) piercing damage.
 >
->***Claw.***. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) slashing damage.
+>***Claw.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) slashing damage.
 >
->***Spellcasting.***. The draegloth casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 11):
+>***Spellcasting.*** The draegloth casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 11):
 >
 >At will: dancing lights, darkness
 >

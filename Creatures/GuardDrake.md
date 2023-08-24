@@ -13,15 +13,15 @@ Chromatic Drakes
 
 Each type of chromatic dragon's scales creates a guard drake that resembles a wingless, stunted version of that type of dragon, with unique abilities related to that type. Each has the special features described below.
 
-***Black Guard Drake.***. The drake can breathe air and water, has a swimming speed of 30 feet, and has resistance to acid damage.
+***Black Guard Drake.*** The drake can breathe air and water, has a swimming speed of 30 feet, and has resistance to acid damage.
 
-***Blue Guard Drake.***. The drake has a burrowing speed of 20 feet and resistance to lightning damage.
+***Blue Guard Drake.*** The drake has a burrowing speed of 20 feet and resistance to lightning damage.
 
-***Green Guard Drake.***. The drake can breathe air and water, has a swimming speed of 30 feet, and has resistance to poison damage.
+***Green Guard Drake.*** The drake can breathe air and water, has a swimming speed of 30 feet, and has resistance to poison damage.
 
-***Red Guard Drake.***. The drake has climbing speed of 30 feet and resistance to fire damage.
+***Red Guard Drake.*** The drake has climbing speed of 30 feet and resistance to fire damage.
 
-***White Guard Drake.***. The drake has a burrowing speed of 20 feet, a climbing speed of 30 feet, and resistance to cold damage.
+***White Guard Drake.*** The drake has a burrowing speed of 20 feet, a climbing speed of 30 feet, and resistance to cold damage.
 
 >### Guard Drake
 >*Medium Dragon, Unaligned*
@@ -47,9 +47,9 @@ Each type of chromatic dragon's scales creates a guard drake that resembles a wi
 >- **Challenge** 2
 >___
 >#### Actions
->***Multiattack.***. The guard drake makes one Bite attack and one Tail attack.
+>***Multiattack.*** The guard drake makes one Bite attack and one Tail attack.
 >
->***Bite.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
+>***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
 >
->***Tail.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
+>***Tail.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
 >

@@ -30,11 +30,11 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 >- **Challenge** 7
 >___
 >#### Actions
->***Multiattack.***. The myrmidon makes three Flail attacks.
+>***Multiattack.*** The myrmidon makes three Flail attacks.
 >
->***Flail.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) force damage.
+>***Flail.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) force damage.
 >
->***Lightning Strike (Recharge 6).***. The myrmidon makes one Flail attack. On a hit, the target takes an extra 18 (4d8) lightning damage, and the target must succeed on a DC 13 Constitution saving throw or be stunned until the end of the myrmidon's next turn.
+>***Lightning Strike (Recharge 6).*** The myrmidon makes one Flail attack. On a hit, the target takes an extra 18 (4d8) lightning damage, and the target must succeed on a DC 13 Constitution saving throw or be stunned until the end of the myrmidon's next turn.
 >
 
 ---
@@ -65,11 +65,11 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 >- **Challenge** 7
 >___
 >#### Actions
->***Multiattack.***. The myrmidon makes two Maul attacks.
+>***Multiattack.*** The myrmidon makes two Maul attacks.
 >
->***Maul.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) force damage.
+>***Maul.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) force damage.
 >
->***Thunderous Strike (Recharge 6).***. The myrmidon makes one Maul attack. On a hit, the target takes an extra 22 (4d10) thunder damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone.
+>***Thunderous Strike (Recharge 6).*** The myrmidon makes one Maul attack. On a hit, the target takes an extra 22 (4d10) thunder damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone.
 >
 
 ---
@@ -99,16 +99,16 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 >- **Languages** Ignan,one language of its creator's choice
 >- **Challenge** 7
 >___
->***Illumination.***. The myrmidon sheds bright light in a 20-foot radius and dim light in a 40-foot radius.
+>***Illumination.*** The myrmidon sheds bright light in a 20-foot radius and dim light in a 40-foot radius.
 >
->***Water Susceptibility.***. For every 5 feet the myrmidon moves in 1 foot or more of water, it takes 2 (1d4) cold damage.
+>***Water Susceptibility.*** For every 5 feet the myrmidon moves in 1 foot or more of water, it takes 2 (1d4) cold damage.
 >
 >#### Actions
->***Multiattack.***. The myrmidon makes three Scimitar attacks.
+>***Multiattack.*** The myrmidon makes three Scimitar attacks.
 >
->***Scimitar.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) force damage.
+>***Scimitar.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) force damage.
 >
->***Fiery Strikes (Recharge 6).***. The myrmidon uses Multiattack. Each attack that hits deals an extra 7 (2d6) fire damage.
+>***Fiery Strikes (Recharge 6).*** The myrmidon uses Multiattack. Each attack that hits deals an extra 7 (2d6) fire damage.
 >
 
 ---
@@ -139,10 +139,10 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 >- **Challenge** 7
 >___
 >#### Actions
->***Multiattack.***. The myrmidon makes three Trident attacks.
+>***Multiattack.*** The myrmidon makes three Trident attacks.
 >
->***Trident.***. Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) force damage, or 8 (1d8 + 4) force damage if used with two hands to make a melee attack.
+>***Trident.*** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) force damage, or 8 (1d8 + 4) force damage if used with two hands to make a melee attack.
 >
->***Freezing Strikes (Recharge 6).***. The myrmidon uses Multiattack. Each attack that hits deals an extra 5 (1d10) cold damage. A target that is hit by one or more of these attacks has its speed reduced by 10 feet until the end of the myrmidon's next turn.
+>***Freezing Strikes (Recharge 6).*** The myrmidon uses Multiattack. Each attack that hits deals an extra 5 (1d10) cold damage. A target that is hit by one or more of these attacks has its speed reduced by 10 feet until the end of the myrmidon's next turn.
 >
 

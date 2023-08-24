@@ -166,18 +166,18 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 >- **Languages** Gnoll,Abyssal
 >- **Challenge** 9
 >___
->***Aura of Bloodthirst.***. If the flind isn't incapacitated, any creature that has Rampage can make a Bite attack as a bonus action while within 10 feet of the flind.
+>***Aura of Bloodthirst.*** If the flind isn't incapacitated, any creature that has Rampage can make a Bite attack as a bonus action while within 10 feet of the flind.
 >
 >#### Actions
->***Multiattack.***. The flind makes one Flail of Chaos attack, one Flail of Pain attack, and one Flail of Paralysis attack, or it makes three Longbow attacks.
+>***Multiattack.*** The flind makes one Flail of Chaos attack, one Flail of Pain attack, and one Flail of Paralysis attack, or it makes three Longbow attacks.
 >
->***Flail of Chaos.***. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) bludgeoning damage, and the target must make a DC 16 Wisdom saving throw. On a failed save, the target must use its reaction, if available, to make one melee attack against a random creature, other than the flind, within its reach. If there's no creature within reach, the target instead moves half its speed in a random direction.
+>***Flail of Chaos.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) bludgeoning damage, and the target must make a DC 16 Wisdom saving throw. On a failed save, the target must use its reaction, if available, to make one melee attack against a random creature, other than the flind, within its reach. If there's no creature within reach, the target instead moves half its speed in a random direction.
 >
->***Flail of Pain.***. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) bludgeoning damage plus 16 (3d10) psychic damage.
+>***Flail of Pain.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) bludgeoning damage plus 16 (3d10) psychic damage.
 >
->***Flail of Paralysis.***. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) bludgeoning damage, and the target must succeed on a DC 16 Constitution saving throw or be paralyzed until the end of its next turn.
+>***Flail of Paralysis.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) bludgeoning damage, and the target must succeed on a DC 16 Constitution saving throw or be paralyzed until the end of its next turn.
 >
->***Longbow.***. Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+>***Longbow.*** Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 >
 
 ---
@@ -209,16 +209,16 @@ These gnolls eschew the use of ranged weapons in favor of short blades that they
 >- **Challenge** 1
 >___
 >#### Actions
->***Multiattack.***. The gnoll makes one Bite attack and two Shortsword attacks.
+>***Multiattack.*** The gnoll makes one Bite attack and two Shortsword attacks.
 >
->***Bite.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+>***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 >
->***Shortsword.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+>***Shortsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 >
->***Sudden Rush.***. Until the end of the turn, the gnoll's speed increases by 60 feet and it doesn't provoke opportunity attacks.
+>***Sudden Rush.*** Until the end of the turn, the gnoll's speed increases by 60 feet and it doesn't provoke opportunity attacks.
 >
 >#### Bonus Actions
->***Rampage.***. After the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll moves up to half its speed and makes a Bite attack.
+>***Rampage.*** After the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll moves up to half its speed and makes a Bite attack.
 >
 
 ---
@@ -252,16 +252,16 @@ Hunters are particularly skilled with the longbow, and they fire arrows with vic
 >- **Challenge** 1/2
 >___
 >#### Actions
->***Multiattack.***. The gnoll makes two Bite, Spear, or Longbow attacks.
+>***Multiattack.*** The gnoll makes two Bite, Spear, or Longbow attacks.
 >
->***Bite.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+>***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 >
->***Spear.***. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage when used with two hands to make a melee attack.
+>***Spear.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage when used with two hands to make a melee attack.
 >
->***Longbow.***. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage, and the target's speed is reduced by 10 feet until the end of its next turn.
+>***Longbow.*** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage, and the target's speed is reduced by 10 feet until the end of its next turn.
 >
 >#### Bonus Actions
->***Rampage.***. After the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll moves up to half its speed and makes a Bite attack.
+>***Rampage.*** After the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll moves up to half its speed and makes a Bite attack.
 >
 
 ---
@@ -296,19 +296,19 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 >- **Languages** understands Gnoll but can't speak
 >- **Challenge** 1/4
 >___
->***Unusual Nature.***. The witherling doesn't require air, food, drink, or sleep.
+>***Unusual Nature.*** The witherling doesn't require air, food, drink, or sleep.
 >
 >#### Actions
->***Multiattack.***. The witherling makes two Bite or Spiked Club attacks.
+>***Multiattack.*** The witherling makes two Bite or Spiked Club attacks.
 >
->***Bite.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) necrotic damage.
+>***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) necrotic damage.
 >
->***Spiked Club.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+>***Spiked Club.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 >
 >#### Bonus Actions
->***Rampage.***. After the witherling reduces a creature to 0 hit points with a melee attack on its turn, the gnoll moves up to half its speed and makes one Bite attack.
+>***Rampage.*** After the witherling reduces a creature to 0 hit points with a melee attack on its turn, the gnoll moves up to half its speed and makes one Bite attack.
 >
 >#### Reactions
->***Vengeful Strike.***. In response to a gnoll being reduced to 0 hit points within 30 feet of the witherling, the witherling makes one Bite or Spiked Club attack.
+>***Vengeful Strike.*** In response to a gnoll being reduced to 0 hit points within 30 feet of the witherling, the witherling makes one Bite or Spiked Club attack.
 >
 

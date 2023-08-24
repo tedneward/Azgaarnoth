@@ -69,9 +69,9 @@ Baphomet wields a great glaive called Heartcleaver. He also charges his enemies 
 ## Cultists of Baphomet
 Baphomet grants his cultists special abilities. All his devotees gain the Labyrinthine Recall trait below. He grants his rank-and-file followers the Unerring Tracker trait, and cult leaders gain the Incite the Hunters trait.
 
-***Labyrinthine Recall.***. This creature can perfectly recall any path it has traveled.
+***Labyrinthine Recall.*** This creature can perfectly recall any path it has traveled.
 
-***Unerring Tracker.***. As a bonus action, this creature magically creates a psychic link with one creature it can see. For the next hour, as a bonus action this creature learns the current distance and direction to the target if it is on the same plane of existence. The link ends if this creature is incapacitated or if it uses this ability on a different target.
+***Unerring Tracker.*** As a bonus action, this creature magically creates a psychic link with one creature it can see. For the next hour, as a bonus action this creature learns the current distance and direction to the target if it is on the same plane of existence. The link ends if this creature is incapacitated or if it uses this ability on a different target.
 
 ***Incite the Hunters (Recharges after a Short or Long Rest).*** As an action, this creature allows each ally within 30 feet of it that has the Unerring Tracker trait to make one weapon attack as a reaction against the target of that ally's Unerring Tracker.
 
@@ -98,26 +98,26 @@ Baphomet grants his cultists special abilities. All his devotees gain the Labyri
 >- **Languages** all,telepathy 120 ft.
 >- **Challenge** 23
 >___
->***Labyrinthine Recall.***. Baphomet can perfectly recall any path he has traveled, and he is immune to the maze spell.
+>***Labyrinthine Recall.*** Baphomet can perfectly recall any path he has traveled, and he is immune to the maze spell.
 >
->***Legendary Resistance (3/Day).***. If Baphomet fails a saving throw, he can choose to succeed instead.
+>***Legendary Resistance (3/Day).*** If Baphomet fails a saving throw, he can choose to succeed instead.
 >
->***Magic Resistance.***. Baphomet has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** Baphomet has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
->***Multiattack.***. Baphomet makes one Bite attack, one Gore attack, and one Heartcleaver attack. He also uses Frightful Presence.
+>***Multiattack.*** Baphomet makes one Bite attack, one Gore attack, and one Heartcleaver attack. He also uses Frightful Presence.
 >
->***Bite.***. Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 19 (2d8 + 10) piercing damage.
+>***Bite.*** Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 19 (2d8 + 10) piercing damage.
 >
->***Gore.***. Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 17 (2d6 + 10) piercing damage. If Baphomet moved at least 10 feet straight toward the target immediately before the hit, the target takes an extra 16 (3d10) piercing damage. If the target is a creature, it must succeed on a DC 25 Strength saving throw or be pushed up to 10 feet away and knocked prone.
+>***Gore.*** Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 17 (2d6 + 10) piercing damage. If Baphomet moved at least 10 feet straight toward the target immediately before the hit, the target takes an extra 16 (3d10) piercing damage. If the target is a creature, it must succeed on a DC 25 Strength saving throw or be pushed up to 10 feet away and knocked prone.
 >
->***Heartcleaver.***. Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 21 (2d10 + 10) force damage.
+>***Heartcleaver.*** Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 21 (2d10 + 10) force damage.
 >
->***Frightful Presence.***. Each creature of Baphomet's choice within 120 feet of him and aware of him must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. These later saves have disadvantage if Baphomet is within line of sight of the creature.
+>***Frightful Presence.*** Each creature of Baphomet's choice within 120 feet of him and aware of him must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. These later saves have disadvantage if Baphomet is within line of sight of the creature.
 >
 >If a creature succeeds on any of these saves or the effect ends on it, the creature is immune to Baphomet's Frightful Presence for the next 24 hours.
 >
->***Spellcasting.***. Baphomet casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 18):
+>***Spellcasting.*** Baphomet casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 18):
 >
 >3/day each: dispel magic, dominate beast, maze, wall of stone
 >
@@ -126,9 +126,9 @@ Baphomet grants his cultists special abilities. All his devotees gain the Labyri
 >#### Legendary Actions
 >Baphomet can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Baphomet regains spent legendary actions at the start of his turn.
 >
->***Heartcleaver Attack.***. Baphomet makes one Heartcleaver attack.
+>***Heartcleaver Attack.*** Baphomet makes one Heartcleaver attack.
 >
->***Charge (Costs 2 Actions).***. Baphomet moves up to his speed without provoking opportunity attacks, then makes a Gore attack.
+>***Charge (Costs 2 Actions).*** Baphomet moves up to his speed without provoking opportunity attacks, then makes a Gore attack.
 >
 
 ### Baphomet's Lair
@@ -159,7 +159,7 @@ Cultists of Demogorgon
 
 Demogorgon's followers are typically lone killers driven by the whispering voice of their master. His most blessed followers gain the Two Minds of Chaos trait.
 
-***Two Minds of Chaos.***. This creature has advantage on all Intelligence, Wisdom, and Charisma saving throws.
+***Two Minds of Chaos.*** This creature has advantage on all Intelligence, Wisdom, and Charisma saving throws.
 
 >### Demogorgon
 >*Huge Fiend (Demon), Chaotic Evil*
@@ -184,26 +184,26 @@ Demogorgon's followers are typically lone killers driven by the whispering voice
 >- **Languages** all,telepathy 120 ft.
 >- **Challenge** 26
 >___
->***Legendary Resistance (3/Day).***. If Demogorgon fails a saving throw, he can choose to succeed instead.
+>***Legendary Resistance (3/Day).*** If Demogorgon fails a saving throw, he can choose to succeed instead.
 >
->***Magic Resistance.***. Demogorgon has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** Demogorgon has advantage on saving throws against spells and other magical effects.
 >
->***Two Heads.***. Demogorgon has advantage on saving throws against being blinded, deafened, stunned, or knocked unconscious.
+>***Two Heads.*** Demogorgon has advantage on saving throws against being blinded, deafened, stunned, or knocked unconscious.
 >
 >#### Actions
->***Multiattack.***. Demogorgon makes two Tentacle attacks. He can replace one attack with a use of Gaze.
+>***Multiattack.*** Demogorgon makes two Tentacle attacks. He can replace one attack with a use of Gaze.
 >
->***Tentacle.***. Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 28 (3d12 + 9) force damage. If the target is a creature, it must succeed on a DC 23 Constitution saving throw, or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.
+>***Tentacle.*** Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 28 (3d12 + 9) force damage. If the target is a creature, it must succeed on a DC 23 Constitution saving throw, or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.
 >
->***Gaze.***. Demogorgon turns his magical gaze toward one creature he can see within 120 feet of him. The target must succeed on a DC 23 Wisdom saving throw or suffer one of the following effects (choose one or roll a d6):
+>***Gaze.*** Demogorgon turns his magical gaze toward one creature he can see within 120 feet of him. The target must succeed on a DC 23 Wisdom saving throw or suffer one of the following effects (choose one or roll a d6):
 >
->***1-2: Beguiling Gaze.***. The target is stunned until the start of Demogorgon's next turn or until Demogorgon is no longer within line of sight.
+>***1-2: Beguiling Gaze.*** The target is stunned until the start of Demogorgon's next turn or until Demogorgon is no longer within line of sight.
 >
->***3-4: Confusing Gaze.***. The target suffers the effect of the confusion spell without making a saving throw. The effect lasts until the start of Demogorgon's next turn. Demogorgon doesn't need to concentrate on the spell.
+>***3-4: Confusing Gaze.*** The target suffers the effect of the confusion spell without making a saving throw. The effect lasts until the start of Demogorgon's next turn. Demogorgon doesn't need to concentrate on the spell.
 >
->***5-6: Hypnotic Gaze.***. The target is charmed by Demogorgon until the start of Demogorgon's next turn. Demogorgon chooses how the charmed target uses its action, reaction, and movement.
+>***5-6: Hypnotic Gaze.*** The target is charmed by Demogorgon until the start of Demogorgon's next turn. Demogorgon chooses how the charmed target uses its action, reaction, and movement.
 >
->***Spellcasting.***. Demogorgon casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 23):
+>***Spellcasting.*** Demogorgon casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 23):
 >
 >At will: detect magic, major image
 >
@@ -214,11 +214,11 @@ Demogorgon's followers are typically lone killers driven by the whispering voice
 >#### Legendary Actions
 >Demogorgon can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Demogorgon regains spent legendary actions at the start of his turn.
 >
->***Gaze.***. Demogorgon uses Gaze and must use either Beguiling Gaze or Confusing Gaze.
+>***Gaze.*** Demogorgon uses Gaze and must use either Beguiling Gaze or Confusing Gaze.
 >
->***Tail.***. Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) bludgeoning damage plus 11 (2d10) necrotic damage.
+>***Tail.*** Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) bludgeoning damage plus 11 (2d10) necrotic damage.
 >
->***Cast a Spell (Costs 2 Actions).***. Demogorgon uses Spellcasting.
+>***Cast a Spell (Costs 2 Actions).*** Demogorgon uses Spellcasting.
 >
 
 ### Demogorgon's Lair
@@ -248,7 +248,7 @@ Cultists of Fraz-Urb'luu
 
 Fraz-Urb'luu grants his cultists the Liar's Eye trait.
 
-***Liar's Eye.***. This creature has advantage on Wisdom (Insight or Perception) checks. As a bonus action, the creature detects the location of all illusions and hidden creatures within 15 feet of it.
+***Liar's Eye.*** This creature has advantage on Wisdom (Insight or Perception) checks. As a bonus action, the creature detects the location of all illusions and hidden creatures within 15 feet of it.
 
 Many of the cultists of Fraz-Urb'luu aren't even aware they serve the Prince of Deception, believing their master is a beneficent being and granter of wishes, some lost god or Celestial, or even another Fiend. Fraz-Urb'luu wears all these masks and more. He particularly delights in aiding demon-hunters against his demonic adversaries, driving the hunters to greater and greater atrocities in the name of their cause, only to eventually reveal his true nature and claim their souls as his own.
 
@@ -275,22 +275,22 @@ Many of the cultists of Fraz-Urb'luu aren't even aware they serve the Prince of 
 >- **Languages** all,telepathy 120 ft.
 >- **Challenge** 23
 >___
->***Legendary Resistance (3/Day).***. If Fraz-Urb'luu fails a saving throw, he can choose to succeed instead.
+>***Legendary Resistance (3/Day).*** If Fraz-Urb'luu fails a saving throw, he can choose to succeed instead.
 >
->***Magic Resistance.***. Fraz-Urb'luu has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** Fraz-Urb'luu has advantage on saving throws against spells and other magical effects.
 >
->***Undetectable.***. Fraz-Urb'luu can't be targeted by divination magic, perceived through magical scrying sensors, or detected by abilities that sense demons or Fiends.
+>***Undetectable.*** Fraz-Urb'luu can't be targeted by divination magic, perceived through magical scrying sensors, or detected by abilities that sense demons or Fiends.
 >
 >#### Actions
->***Multiattack.***. Fraz-Urb'luu makes one Bite attack and two Fist attacks, and he uses Phantasmal Terror.
+>***Multiattack.*** Fraz-Urb'luu makes one Bite attack and two Fist attacks, and he uses Phantasmal Terror.
 >
->***Bite.***. Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 19 (3d6 + 9) force damage.
+>***Bite.*** Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 19 (3d6 + 9) force damage.
 >
->***Fist.***. Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 22 (3d8 + 9) force damage.
+>***Fist.*** Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 22 (3d8 + 9) force damage.
 >
->***Phantasmal Terror.***. Fraz-Urb'luu targets one creature he can see within 120 feet of him. The target must succeed on a DC 23 Wisdom saving throw, or it takes 16 (3d10) psychic damage and is frightened of Fraz-Urb'luu until the end of its next turn.
+>***Phantasmal Terror.*** Fraz-Urb'luu targets one creature he can see within 120 feet of him. The target must succeed on a DC 23 Wisdom saving throw, or it takes 16 (3d10) psychic damage and is frightened of Fraz-Urb'luu until the end of its next turn.
 >
->***Spellcasting.***. Fraz-Urb'luu casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 23):
+>***Spellcasting.*** Fraz-Urb'luu casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 23):
 >
 >At will: alter self (can become Medium when changing his appearance), detect magic, dispel magic, phantasmal force
 >
@@ -301,9 +301,9 @@ Many of the cultists of Fraz-Urb'luu aren't even aware they serve the Prince of 
 >#### Legendary Actions
 >Fraz-Urb'luu can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Fraz-Urb'luu regains spent legendary actions at the start of his turn.
 >
->***Tail.***. Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) force damage. If the target is a Large or smaller creature, it is also grappled (escape DC 24), and it is restrained until the grapple ends. Fraz-Urb'luu can grapple only one creature with his tail at a time.
+>***Tail.*** Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) force damage. If the target is a Large or smaller creature, it is also grappled (escape DC 24), and it is restrained until the grapple ends. Fraz-Urb'luu can grapple only one creature with his tail at a time.
 >
->***Terror (Costs 2 Actions).***. Fraz-Urb'luu uses Phantasmal Terror.
+>***Terror (Costs 2 Actions).*** Fraz-Urb'luu uses Phantasmal Terror.
 >
 
 ### Fraz-Urb'luu's Lair
@@ -334,9 +334,9 @@ Although he prefers charm and subtle manipulation, Graz'zt is capable of terribl
 
 ***Cultists of Graz'zt***. Graz'zt grants his cultists special abilities. His cultists can gain the Joy from Pain trait, while his cult leaders can gain the Master of Pleasures trait.
 
-***Joy from Pain.***. Whenever this creature suffers a critical hit, it can make one melee weapon attack as a reaction.
+***Joy from Pain.*** Whenever this creature suffers a critical hit, it can make one melee weapon attack as a reaction.
 
-***Master of Pleasures.***. As a reaction when this creature takes damage, it can magically grant 5 temporary hit points to itself and up to three allies within 30 feet of it.
+***Master of Pleasures.*** As a reaction when this creature takes damage, it can magically grant 5 temporary hit points to itself and up to three allies within 30 feet of it.
 
 >### Graz'zt
 >*Large Fiend (Demon), Chaotic Evil*
@@ -361,16 +361,16 @@ Although he prefers charm and subtle manipulation, Graz'zt is capable of terribl
 >- **Languages** all,telepathy 120 ft.
 >- **Challenge** 24
 >___
->***Legendary Resistance (3/Day).***. If Graz'zt fails a saving throw, he can choose to succeed instead.
+>***Legendary Resistance (3/Day).*** If Graz'zt fails a saving throw, he can choose to succeed instead.
 >
->***Magic Resistance.***. Graz'zt has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** Graz'zt has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
->***Multiattack.***. Graz'zt makes two Wave of Sorrow attacks. He can replace one attack with a use of Spellcasting.
+>***Multiattack.*** Graz'zt makes two Wave of Sorrow attacks. He can replace one attack with a use of Spellcasting.
 >
->***Wave of Sorrow (Greatsword).***. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 20 (4d6 + 6) force damage plus 14 (4d6) acid damage.
+>***Wave of Sorrow (Greatsword).*** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 20 (4d6 + 6) force damage plus 14 (4d6) acid damage.
 >
->***Spellcasting.***. Graz'zt casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 23):
+>***Spellcasting.*** Graz'zt casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 23):
 >
 >At will: charm person, detect magic, dispel magic
 >
@@ -378,20 +378,20 @@ Although he prefers charm and subtle manipulation, Graz'zt is capable of terribl
 >
 >1/day each: dominate monster, greater invisibility
 >
->***Teleport.***. Graz'zt teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
+>***Teleport.*** Graz'zt teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
 >
 >#### Bonus Actions
->***Change Shape.***. Graz'zt transforms into a form that resembles a Medium Humanoid or back into his true form. Aside from his size, his statistics are the same in each form. Any equipment he is wearing or carrying isn't transformed.
+>***Change Shape.*** Graz'zt transforms into a form that resembles a Medium Humanoid or back into his true form. Aside from his size, his statistics are the same in each form. Any equipment he is wearing or carrying isn't transformed.
 >
 >#### Reactions
->***Negate Spell (Recharge 5-6).***. Graz'zt tries to interrupt a spell he sees a creature casting within 60 feet of him. If the spell is 3rd level or lower, the spell fails and has no effect. If the spell is 4th level or higher, Graz'zt makes a Charisma check against a DC of 10 + the spell's level. On a success, the spell fails and has no effect.
+>***Negate Spell (Recharge 5-6).*** Graz'zt tries to interrupt a spell he sees a creature casting within 60 feet of him. If the spell is 3rd level or lower, the spell fails and has no effect. If the spell is 4th level or higher, Graz'zt makes a Charisma check against a DC of 10 + the spell's level. On a success, the spell fails and has no effect.
 >
 >#### Legendary Actions
 >Graz'zt can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Graz'zt regains spent legendary actions at the start of his turn.
 >
->***Abyssal Magic.***. Graz'zt uses Spellcasting or Teleport.
+>***Abyssal Magic.*** Graz'zt uses Spellcasting or Teleport.
 >
->***Attack.***. Graz'zt makes one Wave of Sorrow attack.
+>***Attack.*** Graz'zt makes one Wave of Sorrow attack.
 >
 >***Dance, My Puppet.*** One creature charmed by Graz'zt that Graz'zt can see must use its reaction to move up to its speed as Graz'zt directs.
 >
@@ -419,9 +419,9 @@ In its resting state, Juiblex spreads out in a noxious mass, bubbling and fillin
 
 ***Cultists of Juiblex.*** The Faceless Lord grants its cultists special abilities. Lesser followers can gain the Liquid Movement trait. The most dedicated devotees of ooze can also gain the Slimy Organs trait.
 
-***Liquid Movement.***. As an action, this creature can move up to 20 feet through spaces no more than an inch in diameter. It must end this movement in a space that can accommodate its full size. Otherwise, it takes 5 force damage and returns to the space where it began this movement.
+***Liquid Movement.*** As an action, this creature can move up to 20 feet through spaces no more than an inch in diameter. It must end this movement in a space that can accommodate its full size. Otherwise, it takes 5 force damage and returns to the space where it began this movement.
 
-***Slimy Organs.***. This creature has resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks. Whenever this creature suffers a critical hit or is reduced to 0 hit points, it sprays acid; each creature within 5 feet of it takes acid damage equal to its number of Hit Dice.
+***Slimy Organs.*** This creature has resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks. Whenever this creature suffers a critical hit or is reduced to 0 hit points, it sprays acid; each creature within 5 feet of it takes acid damage equal to its number of Hit Dice.
 
 >### Juiblex
 >*Huge Fiend (Demon), Chaotic Evil*
@@ -446,24 +446,24 @@ In its resting state, Juiblex spreads out in a noxious mass, bubbling and fillin
 >- **Languages** all,telepathy 120 ft.
 >- **Challenge** 23
 >___
->***Foul.***. Any creature other than an Ooze that starts its turn within 10 feet of Juiblex must succeed on a DC 21 Constitution saving throw or be poisoned until the start of the creature's next turn.
+>***Foul.*** Any creature other than an Ooze that starts its turn within 10 feet of Juiblex must succeed on a DC 21 Constitution saving throw or be poisoned until the start of the creature's next turn.
 >
->***Legendary Resistance (3/Day).***. If Juiblex fails a saving throw, it can choose to succeed instead.
+>***Legendary Resistance (3/Day).*** If Juiblex fails a saving throw, it can choose to succeed instead.
 >
->***Magic Resistance.***. Juiblex has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** Juiblex has advantage on saving throws against spells and other magical effects.
 >
->***Regeneration.***. Juiblex regains 20 hit points at the start of its turn. If it takes fire or radiant damage, this trait doesn't function at the start of its next turn. Juiblex dies only if it starts its turn with 0 hit points and doesn't regenerate.
+>***Regeneration.*** Juiblex regains 20 hit points at the start of its turn. If it takes fire or radiant damage, this trait doesn't function at the start of its next turn. Juiblex dies only if it starts its turn with 0 hit points and doesn't regenerate.
 >
->***Spider Climb.***. Juiblex can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+>***Spider Climb.*** Juiblex can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 >
 >#### Actions
->***Multiattack.***. Juiblex makes three Acid Lash attacks.
+>***Multiattack.*** Juiblex makes three Acid Lash attacks.
 >
->***Acid Lash.***. Melee or Ranged Weapon Attack: +14 to hit, reach 10 ft. or range 60/120 ft., one target. Hit: 21 (4d6 + 7) acid damage. Any creature killed by this attack is drawn into Juiblex's body, where the corpse is dissolved after 1 minute.
+>***Acid Lash.*** Melee or Ranged Weapon Attack: +14 to hit, reach 10 ft. or range 60/120 ft., one target. Hit: 21 (4d6 + 7) acid damage. Any creature killed by this attack is drawn into Juiblex's body, where the corpse is dissolved after 1 minute.
 >
->***Eject Slime (Recharge 5-6).***. Juiblex spews out a corrosive slime, targeting one creature that it can see within 60 feet of it. The target must succeed on a DC 21 Dexterity saving throw or take 55 (10d10) acid damage. Unless the target avoids taking all of this damage, any metal armor worn by the target takes a permanent -1 penalty to the AC it offers, and any metal weapon the target is carrying or wearing takes a permanent -1 penalty to damage rolls. The penalty worsens each time a target is subjected to this effect. If the penalty on an object drops to -5, the object is destroyed. The penalty on an object can be removed by the mending spell.
+>***Eject Slime (Recharge 5-6).*** Juiblex spews out a corrosive slime, targeting one creature that it can see within 60 feet of it. The target must succeed on a DC 21 Dexterity saving throw or take 55 (10d10) acid damage. Unless the target avoids taking all of this damage, any metal armor worn by the target takes a permanent -1 penalty to the AC it offers, and any metal weapon the target is carrying or wearing takes a permanent -1 penalty to damage rolls. The penalty worsens each time a target is subjected to this effect. If the penalty on an object drops to -5, the object is destroyed. The penalty on an object can be removed by the mending spell.
 >
->***Spellcasting.***. Juiblex casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 20):
+>***Spellcasting.*** Juiblex casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 20):
 >
 >At will: detect magic
 >
@@ -472,9 +472,9 @@ In its resting state, Juiblex spreads out in a noxious mass, bubbling and fillin
 >#### Legendary Actions
 >Juiblex can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Juiblex regains spent legendary actions at the start of its turn.
 >
->***Attack.***. Juiblex makes one Acid Lash attack.
+>***Attack.*** Juiblex makes one Acid Lash attack.
 >
->***Corrupting Touch (Costs 2 Actions).***. Melee Weapon Attack: +14 to hit, reach 10 ft., one creature. Hit: 21 (4d6 + 7) poison damage, and the target is slimed. Until the slime is scraped off with an action, the target is poisoned, and any creature, other than an Ooze, is poisoned while within 10 feet of the target.
+>***Corrupting Touch (Costs 2 Actions).*** Melee Weapon Attack: +14 to hit, reach 10 ft., one creature. Hit: 21 (4d6 + 7) poison damage, and the target is slimed. Until the slime is scraped off with an action, the target is poisoned, and any creature, other than an Ooze, is poisoned while within 10 feet of the target.
 >
 
 ### Juiblex's Lair
@@ -557,18 +557,18 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 >- **Languages** Abyssal,telepathy 120 ft.
 >- **Challenge** 7
 >___
->***Magic Resistance.***. The armanite has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The armanite has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
->***Multiattack.***. The armanite makes one Claw attack, one Hooves attack, and one Serrated Tail attack.
+>***Multiattack.*** The armanite makes one Claw attack, one Hooves attack, and one Serrated Tail attack.
 >
->***Claw.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (2d4 + 5) slashing damage plus 9 (2d8) lightning damage.
+>***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (2d4 + 5) slashing damage plus 9 (2d8) lightning damage.
 >
->***Hooves.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage. If the target is a Large or smaller creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
+>***Hooves.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage. If the target is a Large or smaller creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
 >
->***Serrated Tail.***. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) slashing damage.
+>***Serrated Tail.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) slashing damage.
 >
->***Lightning Lance (Recharge 5�6).***. The armanite looses a bolt of lightning in a line that is 60 feet long and 10 feet wide. Each creature in the line must make a DC 15 Dexterity saving throw, taking 36 (8d8) lightning damage on a failed save, or half as much damage on a successful one.
+>***Lightning Lance (Recharge 5�6).*** The armanite looses a bolt of lightning in a line that is 60 feet long and 10 feet wide. Each creature in the line must make a DC 15 Dexterity saving throw, taking 36 (8d8) lightning damage on a failed save, or half as much damage on a successful one.
 >
 
 ---
@@ -676,7 +676,7 @@ A barlgura looks like a hulking orangutan with a gruesome, drooping visage and t
 ## Bulezau
 Diseased manifestations of animalistic rage, bulezaus embody the violence of nature. Across the Abyss, these demons lurk in deep canyons and lofty crags, and many find a place in the ranks of demon lords' armies, serving as foot soldiers in the Abyss's endless warring.
 
-***Bulezaus crave violence.***. Their eagerness to kill and willingness to die make them common members of many demon lords' entourages. When not being corralled by larger and tougher demons, bulezaus gather into scrabbling mobs, wrestling and fighting among themselves until a better target comes along or until a stronger demon bullies them into subservience.
+***Bulezaus crave violence.*** Their eagerness to kill and willingness to die make them common members of many demon lords' entourages. When not being corralled by larger and tougher demons, bulezaus gather into scrabbling mobs, wrestling and fighting among themselves until a better target comes along or until a stronger demon bullies them into subservience.
 
 Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open sores, and a reek of rotten meat that follows them wherever they go.
 
@@ -703,14 +703,14 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
 >- **Languages** Abyssal,telepathy 60 ft.
 >- **Challenge** 3
 >___
->***Rotting Presence.***. When any creature that isn't a demon starts its turn within 30 feet of the bulezau, that creature must succeed on a DC 13 Constitution saving throw or take 3 (1d6) necrotic damage.
+>***Rotting Presence.*** When any creature that isn't a demon starts its turn within 30 feet of the bulezau, that creature must succeed on a DC 13 Constitution saving throw or take 3 (1d6) necrotic damage.
 >
->***Standing Leap.***. The bulezau's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+>***Standing Leap.*** The bulezau's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 >
->***Sure-Footed.***. The bulezau has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+>***Sure-Footed.*** The bulezau has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 >
 >#### Actions
->***Barbed Tail.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (1d12 + 2) piercing damage plus 4 (1d8) necrotic damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw against disease or become poisoned until the disease ends. While poisoned in this way, the target sports festering boils, coughs up flies, and sheds rotting skin, and the target must repeat the saving throw after every 24 hours that elapse. On a successful save, the disease ends. On a failed save, the target's hit point maximum is reduced by 4 (1d8) until the disease ends on the target. The target dies if its hit point maximum is reduced to 0.
+>***Barbed Tail.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (1d12 + 2) piercing damage plus 4 (1d8) necrotic damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw against disease or become poisoned until the disease ends. While poisoned in this way, the target sports festering boils, coughs up flies, and sheds rotting skin, and the target must repeat the saving throw after every 24 hours that elapse. On a successful save, the disease ends. On a failed save, the target's hit point maximum is reduced by 4 (1d8) until the disease ends on the target. The target dies if its hit point maximum is reduced to 0.
 >
 
 ---
@@ -822,25 +822,25 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
 >- **Languages** Abyssal,Common,telepathy 120 ft.
 >- **Challenge** 4
 >___
->***Incorporeal Movement.***. The dybbuk can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+>***Incorporeal Movement.*** The dybbuk can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 >
->***Magic Resistance.***. The dybbuk has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The dybbuk has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
->***Tentacle.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) necrotic damage. If the target is a creature, its hit point maximum is also reduced by 3 (1d6). This reduction lasts until the target finishes a short or long rest. The target dies if its hit point maximum is reduced to 0.
+>***Tentacle.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) necrotic damage. If the target is a creature, its hit point maximum is also reduced by 3 (1d6). This reduction lasts until the target finishes a short or long rest. The target dies if its hit point maximum is reduced to 0.
 >
->***Possess Corpse (Recharge 6).***. The dybbuk disappears into an intact corpse within 5 feet of it that belonged to a Large or smaller Beast or Humanoid. The dybbuk gains 20 temporary hit points. While possessing the corpse, the dybbuk adopts the corpse's size and can't use Incorporeal Movement. Its game statistics otherwise remain the same.
+>***Possess Corpse (Recharge 6).*** The dybbuk disappears into an intact corpse within 5 feet of it that belonged to a Large or smaller Beast or Humanoid. The dybbuk gains 20 temporary hit points. While possessing the corpse, the dybbuk adopts the corpse's size and can't use Incorporeal Movement. Its game statistics otherwise remain the same.
 >
 >The possession lasts until the temporary hit points are lost or the dybbuk ends it as a bonus action. When the possession ends, the dybbuk appears in an unoccupied space within 5 feet of the corpse.
 >
->***Spellcasting.***. The dybbuk casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 12):
+>***Spellcasting.*** The dybbuk casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 12):
 >
 >At will: dimension door
 >
 >3/day: phantasmal force
 >
 >#### Bonus Actions
->***Control Corpse.***. While Possess Corpse is active, the dybbuk makes the corpse do something unnatural, such as vomit blood, twist its head all the way around, or cause a quadruped to move as a biped. Any Beast or Humanoid that sees this behavior must succeed on a DC 12 Wisdom saving throw or become frightened of the dybbuk for 1 minute. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on a saving throw against this ability is immune to Control Corpse for 24 hours.
+>***Control Corpse.*** While Possess Corpse is active, the dybbuk makes the corpse do something unnatural, such as vomit blood, twist its head all the way around, or cause a quadruped to move as a biped. Any Beast or Humanoid that sees this behavior must succeed on a DC 12 Wisdom saving throw or become frightened of the dybbuk for 1 minute. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on a saving throw against this ability is immune to Control Corpse for 24 hours.
 >
 
 ---
@@ -1338,15 +1338,15 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
 >- **Challenge** 4
 >___
 >#### Actions
->***Multiattack.***. The babau makes two Claw attacks. It can replace one attack with a use of Spellcasting or Weakening Gaze.
+>***Multiattack.*** The babau makes two Claw attacks. It can replace one attack with a use of Spellcasting or Weakening Gaze.
 >
->***Claw.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) slashing damage plus 2 (1d4) acid damage.
+>***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) slashing damage plus 2 (1d4) acid damage.
 >
->***Spellcasting.***. The babau casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 11):
+>***Spellcasting.*** The babau casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 11):
 >
 >At will: darkness, dispel magic, fear, heat metal, levitate
 >
->***Weakening Gaze.***. The babau targets one creature that it can see within 20 feet of it. The target must make a DC 13 Constitution saving throw. On a failed save, the target deals only half damage with weapon attacks that use Strength for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>***Weakening Gaze.*** The babau targets one creature that it can see within 20 feet of it. The target must make a DC 13 Constitution saving throw. On a failed save, the target deals only half damage with weapon attacks that use Strength for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
 
 ---

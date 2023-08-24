@@ -135,22 +135,22 @@ Despite his lack of interest in affairs outside battle, or perhaps because of it
 >- **Languages** all,telepathy 120 ft.
 >- **Challenge** 19
 >___
->***Dread.***. Any creature, other than a devil, that starts its turn within 10 feet of Bael must succeed on a DC 22 Wisdom saving throw or be frightened of him until the start of its next turn. A creature succeeds on this saving throw automatically if Bael wishes it or if he is incapacitated.
+>***Dread.*** Any creature, other than a devil, that starts its turn within 10 feet of Bael must succeed on a DC 22 Wisdom saving throw or be frightened of him until the start of its next turn. A creature succeeds on this saving throw automatically if Bael wishes it or if he is incapacitated.
 >
->***Legendary Resistance (3/Day).***. If Bael fails a saving throw, he can choose to succeed instead.
+>***Legendary Resistance (3/Day).*** If Bael fails a saving throw, he can choose to succeed instead.
 >
->***Magic Resistance.***. Bael have advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** Bael have advantage on saving throws against spells and other magical effects.
 >
->***Regeneration.***. Bael regains 20 hit points at the start of his turn. If he takes cold or radiant damage, this trait doesn't function at the start of his next turn. Bael dies only if he starts his turn with 0 hit points and doesn't regenerate.
+>***Regeneration.*** Bael regains 20 hit points at the start of his turn. If he takes cold or radiant damage, this trait doesn't function at the start of his next turn. Bael dies only if he starts his turn with 0 hit points and doesn't regenerate.
 >
 >#### Actions
->***Multiattack.***. Bael makes two Hellish Morningstar attacks.
+>***Multiattack.*** Bael makes two Hellish Morningstar attacks.
 >
->***Hellish Morningstar.***. Melee Weapon Attack: +13 to hit, reach 20 ft., one target. Hit: 16 (2d8 + 7) force damage plus 9 (2d8) necrotic damage.
+>***Hellish Morningstar.*** Melee Weapon Attack: +13 to hit, reach 20 ft., one target. Hit: 16 (2d8 + 7) force damage plus 9 (2d8) necrotic damage.
 >
->***Infernal Command.***. Each of Bael's allies within 60 feet of him can't be charmed or frightened until the end of his next turn.
+>***Infernal Command.*** Each of Bael's allies within 60 feet of him can't be charmed or frightened until the end of his next turn.
 >
->***Spellcasting.***. Bael casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 21):
+>***Spellcasting.*** Bael casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 21):
 >
 >At will: alter self (can become Medium), charm person, detect magic, invisibility, major image
 >
@@ -158,16 +158,16 @@ Despite his lack of interest in affairs outside battle, or perhaps because of it
 >
 >1/day: dominate monster
 >
->***Teleport.***. Bael teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
+>***Teleport.*** Bael teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
 >
 >#### Legendary Actions
 >Bael can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Bael regains spent legendary actions at the start of his turn.
 >
->***Fiendish Magic.***. Bael uses Spellcasting or Teleport.
+>***Fiendish Magic.*** Bael uses Spellcasting or Teleport.
 >
->***Infernal Command.***. Bael uses Infernal Command.
+>***Infernal Command.*** Bael uses Infernal Command.
 >
->***Attack (Costs 2 Actions).***. Bael makes one Hellish Morningstar attack.
+>***Attack (Costs 2 Actions).*** Bael makes one Hellish Morningstar attack.
 >
 
 ---
@@ -206,37 +206,37 @@ Among the archdevils, Geryon is known for his martial prowess. He is a ferocious
 >- **Languages** all,telepathy 120 ft.
 >- **Challenge** 22
 >___
->***Legendary Resistance (3/Day).***. If Geryon fails a saving throw, he can choose to succeed instead.
+>***Legendary Resistance (3/Day).*** If Geryon fails a saving throw, he can choose to succeed instead.
 >
->***Magic Resistance.***. Geryon has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** Geryon has advantage on saving throws against spells and other magical effects.
 >
->***Regeneration.***. Geryon regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Geryon dies only if he starts his turn with 0 hit points and doesn't regenerate.
+>***Regeneration.*** Geryon regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Geryon dies only if he starts his turn with 0 hit points and doesn't regenerate.
 >
 >#### Actions
->***Multiattack.***. Geryon makes one Claw attack and one Stinger attack.
+>***Multiattack.*** Geryon makes one Claw attack and one Stinger attack.
 >
->***Claw.***. Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 23 (4d6 + 9) cold damage. If the target is Large or smaller, it is grappled (DC 24), and it is restrained until the grapple ends. Geryon can grapple one creature at a time. If the target is already grappled by Geryon, the target takes an extra 27 (6d8) cold damage.
+>***Claw.*** Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 23 (4d6 + 9) cold damage. If the target is Large or smaller, it is grappled (DC 24), and it is restrained until the grapple ends. Geryon can grapple one creature at a time. If the target is already grappled by Geryon, the target takes an extra 27 (6d8) cold damage.
 >
->***Stinger.***. Melee Weapon Attack: +16 to hit, reach 20 ft., one creature. Hit: 14 (2d4 + 9) force damage, and the target must succeed on a DC 21 Constitution saving throw or take 13 (2d12) poison damage and become poisoned until it finishes a short or long rest. The target's hit point maximum is reduced by an amount equal to half the poison damage taken. This reduction lasts until the poisoned condition is removed. The target dies if its hit point maximum is reduced to 0.
+>***Stinger.*** Melee Weapon Attack: +16 to hit, reach 20 ft., one creature. Hit: 14 (2d4 + 9) force damage, and the target must succeed on a DC 21 Constitution saving throw or take 13 (2d12) poison damage and become poisoned until it finishes a short or long rest. The target's hit point maximum is reduced by an amount equal to half the poison damage taken. This reduction lasts until the poisoned condition is removed. The target dies if its hit point maximum is reduced to 0.
 >
->***Sound the Horn (1/Day).***. Geryon blows his horn, which causes 5d4 minotaurs (see the Monster Manual) to appear in unoccupied spaces of his choice within 600 feet of him. The minotaurs roll initiative when they appear, and they obey his commands. They remain until they die or Geryon uses an action to dismiss any or all of them.
+>***Sound the Horn (1/Day).*** Geryon blows his horn, which causes 5d4 minotaurs (see the Monster Manual) to appear in unoccupied spaces of his choice within 600 feet of him. The minotaurs roll initiative when they appear, and they obey his commands. They remain until they die or Geryon uses an action to dismiss any or all of them.
 >
->***Spellcasting.***. Geryon casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 21):
+>***Spellcasting.*** Geryon casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 21):
 >
 >At will: alter self (can become Medium when changing his appearance), detect magic, ice storm, invisibility (self only), locate object, suggestion, wall of ice
 >
 >1/day: banishment
 >
->***Teleport.***. Geryon teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
+>***Teleport.*** Geryon teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
 >
 >#### Legendary Actions
 >Geryon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Geryon regains spent legendary actions at the start of his turn.
 >
->***Infernal Glare.***. Geryon targets one creature he can see within 60 feet of him. The target must succeed on a DC 23 Wisdom saving throw or become frightened of Geryon until the end of its next turn.
+>***Infernal Glare.*** Geryon targets one creature he can see within 60 feet of him. The target must succeed on a DC 23 Wisdom saving throw or become frightened of Geryon until the end of its next turn.
 >
->***Teleport.***. Geryon uses Teleport.
+>***Teleport.*** Geryon uses Teleport.
 >
->***Swift Sting (Costs 2 Actions).***. Geryon makes one Stinger attack.
+>***Swift Sting (Costs 2 Actions).*** Geryon makes one Stinger attack.
 >
 
 ### A Geryon's Lair
@@ -288,44 +288,44 @@ Mephistopheles forbids Hutijin from making too many forays into the Material Pla
 >- **Languages** all,telepathy 120 ft.
 >- **Challenge** 21
 >___
->***Infernal Despair.***. Each creature within 30 feet of Hutijin that isn't a devil makes saving throws with disadvantage.
+>***Infernal Despair.*** Each creature within 30 feet of Hutijin that isn't a devil makes saving throws with disadvantage.
 >
->***Legendary Resistance (3/Day).***. If Hutijin fails a saving throw, he can choose to succeed instead.
+>***Legendary Resistance (3/Day).*** If Hutijin fails a saving throw, he can choose to succeed instead.
 >
->***Magic Resistance.***. Hutijin has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** Hutijin has advantage on saving throws against spells and other magical effects.
 >
->***Regeneration.***. Hutijin regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Hutijin dies only if he starts his turn with 0 hit points and doesn't regenerate.
+>***Regeneration.*** Hutijin regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Hutijin dies only if he starts his turn with 0 hit points and doesn't regenerate.
 >
 >#### Actions
->***Multiattack.***. Hutijin makes one Bite attack, one Claw attack, one Mace attack, and one Tail attack.
+>***Multiattack.*** Hutijin makes one Bite attack, one Claw attack, one Mace attack, and one Tail attack.
 >
->***Bite.***. Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) fire damage. The target must succeed on a DC 22 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 10 (3d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>***Bite.*** Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) fire damage. The target must succeed on a DC 22 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 10 (3d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
->***Claw.***. Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) cold damage.
+>***Claw.*** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) cold damage.
 >
->***Mace.***. Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) force damage.
+>***Mace.*** Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) force damage.
 >
->***Tail.***. Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 19 (2d10 + 8) thunder damage.
+>***Tail.*** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 19 (2d10 + 8) thunder damage.
 >
->***Spellcasting.***. Hutijin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 22):
+>***Spellcasting.*** Hutijin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 22):
 >
 >At will: alter self (can become Medium when changing his appearance), detect magic, hold monster, invisibility (self only), lightning bolt, suggestion, wall of fire
 >
 >3/day: dispel magic
 >
->***Teleport.***. Hutijin teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
+>***Teleport.*** Hutijin teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
 >
 >#### Reactions
->***Fearful Voice (Recharge 5-6).***. In response to taking damage, Hutijin utters a dreadful word of power. Each creature within 30 feet of him that isn't a devil must succeed on a DC 22 Wisdom saving throw or become frightened of him for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that saves against this effect is immune to his Fearful Voice for 24 hours.
+>***Fearful Voice (Recharge 5-6).*** In response to taking damage, Hutijin utters a dreadful word of power. Each creature within 30 feet of him that isn't a devil must succeed on a DC 22 Wisdom saving throw or become frightened of him for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that saves against this effect is immune to his Fearful Voice for 24 hours.
 >
 >#### Legendary Actions
 >Hutijin can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Hutijin regains spent legendary actions at the start of his turn.
 >
->***Attack.***. Hutijin makes one Claw, Mace, or Tail attack.
+>***Attack.*** Hutijin makes one Claw, Mace, or Tail attack.
 >
->***Teleport.***. Hutijin uses Teleport.
+>***Teleport.*** Hutijin uses Teleport.
 >
->***Lightning Storm (Costs 2 Actions).***. Hutijin releases lightning in a 30-foot radius, blocked only by total cover. All other creatures in that area must each make a DC 22 Dexterity saving throw, taking 18 (4d8) lightning damage on a failed save, or half as much damage on a successful one.
+>***Lightning Storm (Costs 2 Actions).*** Hutijin releases lightning in a 30-foot radius, blocked only by total cover. All other creatures in that area must each make a DC 22 Dexterity saving throw, taking 18 (4d8) lightning damage on a failed save, or half as much damage on a successful one.
 >
 
 
@@ -359,22 +359,22 @@ Some amnizus perform the critical task of watching over the River Styx from fort
 >- **Languages** Common,Infernal,telepathy 1,000 ft.
 >- **Challenge** 18
 >___
->***Summon Devil (1/Day).***. The amnizu summons 2d4 bearded devils or 1d4 barbed devils (both appear in the Monster Manual). A summoned devil appears in an unoccupied space within 60 feet of the amnizu, acts as an ally of the amnizu, and can't summon other devils. It remains for 1 minute, until the amnizu dies, or until its summoner dismisses it as an action.
+>***Summon Devil (1/Day).*** The amnizu summons 2d4 bearded devils or 1d4 barbed devils (both appear in the Monster Manual). A summoned devil appears in an unoccupied space within 60 feet of the amnizu, acts as an ally of the amnizu, and can't summon other devils. It remains for 1 minute, until the amnizu dies, or until its summoner dismisses it as an action.
 >
->***Devil's Sight.***. Magical darkness doesn't impede the amnizu's darkvision.
+>***Devil's Sight.*** Magical darkness doesn't impede the amnizu's darkvision.
 >
->***Magic Resistance.***. The amnizu has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The amnizu has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
->***Multiattack.***. The amnizu uses Blinding Rot or Forgetfulness, if available. It also makes two Taskmaster Whip attacks.
+>***Multiattack.*** The amnizu uses Blinding Rot or Forgetfulness, if available. It also makes two Taskmaster Whip attacks.
 >
->***Taskmaster Whip.***. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 9 (1d8 + 5) slashing damage plus 16 (3d10) force damage.
+>***Taskmaster Whip.*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 9 (1d8 + 5) slashing damage plus 16 (3d10) force damage.
 >
->***Blinding Rot.***. The amnizu targets one or two creatures that it can see within 60 feet of it. Each target must succeed on a DC 19 Wisdom saving throw or take 26 (4d12) necrotic damage and be blinded until the start of the amnizu's next turn.
+>***Blinding Rot.*** The amnizu targets one or two creatures that it can see within 60 feet of it. Each target must succeed on a DC 19 Wisdom saving throw or take 26 (4d12) necrotic damage and be blinded until the start of the amnizu's next turn.
 >
->***Forgetfulness (Recharge 6).***. The amnizu targets one creature it can see within 60 feet of it. That creature must succeed on a DC 18 Intelligence saving throw or take 26 (4d12) psychic damage and become stunned for 1 minute. A stunned creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success. If the target is stunned for the full minute, it forgets everything it sensed, experienced, and learned during the last 5 hours.
+>***Forgetfulness (Recharge 6).*** The amnizu targets one creature it can see within 60 feet of it. That creature must succeed on a DC 18 Intelligence saving throw or take 26 (4d12) psychic damage and become stunned for 1 minute. A stunned creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success. If the target is stunned for the full minute, it forgets everything it sensed, experienced, and learned during the last 5 hours.
 >
->***Spellcasting.***. The amnizu casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 19):
+>***Spellcasting.*** The amnizu casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 19):
 >
 >At will: command
 >
@@ -383,7 +383,7 @@ Some amnizus perform the critical task of watching over the River Styx from fort
 >1/day: feeblemind
 >
 >#### Reactions
->***Instinctive Charm.***. When a creature within 60 feet of the amnizu makes an attack roll against it, and another creature is within the attack's range, the attacker must make a DC 19 Wisdom saving throw. On a failed save, the attacker must target the creature that is closest to it, not including the amnizu or itself. If multiple creatures are closest, the attacker chooses which one to target. If the saving throw is successful, the attacker is immune to the amnizu's Instinctive Charm for 24 hours.
+>***Instinctive Charm.*** When a creature within 60 feet of the amnizu makes an attack roll against it, and another creature is within the attack's range, the attacker must make a DC 19 Wisdom saving throw. On a failed save, the attacker must target the creature that is closest to it, not including the amnizu or itself. If multiple creatures are closest, the attacker chooses which one to target. If the saving throw is successful, the attacker is immune to the amnizu's Instinctive Charm for 24 hours.
 >
 
 ---

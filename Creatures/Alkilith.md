@@ -28,24 +28,24 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex (
 >- **Languages** understands Abyssal but can't speak
 >- **Challenge** 11
 >___
->***Abyssal Rift.***. If the alkilith surrounds a door, window, or similar opening continuously for 6d6 days, the opening becomes a permanent portal to a random layer of the Abyss.
+>***Abyssal Rift.*** If the alkilith surrounds a door, window, or similar opening continuously for 6d6 days, the opening becomes a permanent portal to a random layer of the Abyss.
 >
->***Amorphous.***. The alkilith can move through a space as narrow as 1 inch wide without squeezing.
+>***Amorphous.*** The alkilith can move through a space as narrow as 1 inch wide without squeezing.
 >
->***False Appearance.***. If the alkilith is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the alkilith move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the alkilith isn't ordinary slime or fungus.
+>***False Appearance.*** If the alkilith is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the alkilith move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the alkilith isn't ordinary slime or fungus.
 >
->***Foment Confusion.***. Any creature that isn't a demon that starts its turn within 30 feet of the alkilith must succeed on a DC 18 Wisdom saving throw, or it hears a faint buzzing in its head for a moment and has disadvantage on its next attack roll, saving throw, or ability check.
+>***Foment Confusion.*** Any creature that isn't a demon that starts its turn within 30 feet of the alkilith must succeed on a DC 18 Wisdom saving throw, or it hears a faint buzzing in its head for a moment and has disadvantage on its next attack roll, saving throw, or ability check.
 >
 >If the saving throw against Foment Confusion fails by 5 or more, the creature is instead subjected to the confusion spell for 1 minute (no concentration required by the alkilith). While under the effect of that confusion, the creature is immune to Foment Confusion.
 >
->***Magic Resistance.***. The alkilith has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The alkilith has advantage on saving throws against spells and other magical effects.
 >
->***Spider Climb.***. The alkilith can climb difficult surfaces, such as upside down on ceilings, without making an ability check.
+>***Spider Climb.*** The alkilith can climb difficult surfaces, such as upside down on ceilings, without making an ability check.
 >
->***Unusual Nature.***. The alkilith doesn't require air, food, drink, or sleep.
+>***Unusual Nature.*** The alkilith doesn't require air, food, drink, or sleep.
 >
 >#### Actions
->***Multiattack.***. The alkilith makes three Tentacle attacks.
+>***Multiattack.*** The alkilith makes three Tentacle attacks.
 >
->***Tentacle.***. Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 18 (4d6 + 4) acid damage.
+>***Tentacle.*** Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 18 (4d6 + 4) acid damage.
 >

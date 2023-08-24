@@ -51,20 +51,20 @@ d10	Performance Type
 >- **Challenge** 2
 >___
 >#### Actions
->***Multiattack.***. The bard makes two Shortsword or Shortbow attacks. It can replace one attack with a use of Spellcasting.
+>***Multiattack.*** The bard makes two Shortsword or Shortbow attacks. It can replace one attack with a use of Spellcasting.
 >
->***Shortsword.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+>***Shortsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 >
->***Shortbow.***. Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+>***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 >
->***Cacophony (Recharge 4–6).***. Each creature in a 15-foot cube originating from the bard must make a DC 12 Constitution saving throw. On a failed save, a creature takes 9 (2d8) thunder damage and is pushed up to 10 feet away from the bard. On a successful save, a creature takes half as much damage and isn't pushed.
+>***Cacophony (Recharge 4ï¿½6).*** Each creature in a 15-foot cube originating from the bard must make a DC 12 Constitution saving throw. On a failed save, a creature takes 9 (2d8) thunder damage and is pushed up to 10 feet away from the bard. On a successful save, a creature takes half as much damage and isn't pushed.
 >
->***Spellcasting.***. The bard casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12):
+>***Spellcasting.*** The bard casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12):
 >
 >At will: dancing lights, mage hand, prestidigitation
 >
 >1/day each: charm person, invisibility, sleep
 >
 >#### Bonus Actions
->***Taunt (2/Day).***. The bard targets one creature within 30 feet of it. If the target can hear the bard, the target must succeed on a DC 12 Charisma saving throw or have disadvantage on ability checks, attack rolls, and saving throws until the start of the bard's next turn.
+>***Taunt (2/Day).*** The bard targets one creature within 30 feet of it. If the target can hear the bard, the target must succeed on a DC 12 Charisma saving throw or have disadvantage on ability checks, attack rolls, and saving throws until the start of the bard's next turn.
 >

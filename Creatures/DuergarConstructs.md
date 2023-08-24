@@ -34,17 +34,17 @@ The duergar hammerer is a digging machine and siege engine, used to dig tunnels 
 >- **Languages** understands Dwarvish but can't speak
 >- **Challenge** 2
 >___
->***Siege Monster.***. The hammerer deals double damage to objects and structures.
+>***Siege Monster.*** The hammerer deals double damage to objects and structures.
 >
 >#### Actions
->***Multiattack.***. The hammerer makes one Claw attack and one Hammer attack.
+>***Multiattack.*** The hammerer makes one Claw attack and one Hammer attack.
 >
->***Claw.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+>***Claw.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 >
->***Hammer.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.
+>***Hammer.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.
 >
 >#### Reactions
->***Engine of Pain.***. Immediately after a creature within 5 feet of the hammerer hits it with an attack roll, the hammerer makes a Hammer attack against that creature.
+>***Engine of Pain.*** Immediately after a creature within 5 feet of the hammerer hits it with an attack roll, the hammerer makes a Hammer attack against that creature.
 >
 
 ---
@@ -76,13 +76,13 @@ A duergar screamer uses sonic energy to grind rock into dust and to hurl invader
 >- **Challenge** 3
 >___
 >#### Actions
->***Multiattack.***. The screamer makes one Drill attack, and it uses Sonic Scream.
+>***Multiattack.*** The screamer makes one Drill attack, and it uses Sonic Scream.
 >
->***Drill.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) piercing damage.
+>***Drill.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) piercing damage.
 >
->***Sonic Scream.***. The screamer emits destructive energy in a 15-foot cube. Each creature in that area must succeed on a DC 11 Strength saving throw or take 7 (2d6) thunder damage and be knocked prone.
+>***Sonic Scream.*** The screamer emits destructive energy in a 15-foot cube. Each creature in that area must succeed on a DC 11 Strength saving throw or take 7 (2d6) thunder damage and be knocked prone.
 >
 >#### Reactions
->***Engine of Pain.***. Immediately after a creature within 5 feet of the screamer hits it with an attack roll, the screamer makes a Drill attack against that creature.
+>***Engine of Pain.*** Immediately after a creature within 5 feet of the screamer hits it with an attack roll, the screamer makes a Drill attack against that creature.
 >
 

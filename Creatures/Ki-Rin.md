@@ -32,20 +32,20 @@ Ki-rins are attracted to the worship of deities of courage, loyalty, selflessnes
 >- **Languages** all,telepathy 120 ft.
 >- **Challenge** 12
 >___
->***Legendary Resistance (3/Day).***. If the ki-rin fails a saving throw, it can choose to succeed instead.
+>***Legendary Resistance (3/Day).*** If the ki-rin fails a saving throw, it can choose to succeed instead.
 >
->***Magic Resistance.***. The ki-rin has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The ki-rin has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
->***Multiattack.***. The ki-rin makes two Hoof attacks and one Horn attack, or it makes two Sacred Fire attacks.
+>***Multiattack.*** The ki-rin makes two Hoof attacks and one Horn attack, or it makes two Sacred Fire attacks.
 >
->***Hoof.***. Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 10 (2d4 + 5) force damage.
+>***Hoof.*** Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 10 (2d4 + 5) force damage.
 >
->***Horn.***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) radiant damage.
+>***Horn.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) radiant damage.
 >
->***Sacred Fire.***. Ranged Spell Attack: +9 to hit, range 120 ft., one target. Hit: 18 (3d8 + 5) radiant damage.
+>***Sacred Fire.*** Ranged Spell Attack: +9 to hit, range 120 ft., one target. Hit: 18 (3d8 + 5) radiant damage.
 >
->***Spellcasting.***. The ki-rin casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 17):
+>***Spellcasting.*** The ki-rin casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 17):
 >
 >At will: light, major image (6th-level version), thaumaturgy
 >
@@ -56,9 +56,9 @@ Ki-rins are attracted to the worship of deities of courage, loyalty, selflessnes
 >#### Legendary Actions
 >The ki-rin can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The ki-rin regains spent legendary actions at the start of its turn.
 >
->***Move.***. The ki-rin moves up to half its speed without provoking opportunity attacks.
+>***Move.*** The ki-rin moves up to half its speed without provoking opportunity attacks.
 >
->***Smite.***. The ki-rin makes one Hoof, Horn, or Sacred Fire attack.
+>***Smite.*** The ki-rin makes one Hoof, Horn, or Sacred Fire attack.
 >
 
 ### A Ki-rin's Lair

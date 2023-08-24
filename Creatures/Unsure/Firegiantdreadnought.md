@@ -30,14 +30,14 @@ When not called on to fight, dreadnoughts maintain their strength by using their
 >- **Languages** Giant
 >- **Challenge** 14
 >___
->***Dual Shields.***. The giant carries two shields, which together give the giant +3 to its AC (accounted for above).
+>***Dual Shields.*** The giant carries two shields, which together give the giant +3 to its AC (accounted for above).
 >
 >#### Actions
->***Multiattack.***. The giant makes two Fireshield or Rock attacks.
+>***Multiattack.*** The giant makes two Fireshield or Rock attacks.
 >
->***Fireshield.***. Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 22 (4d6 + 8) bludgeoning damage plus 7 (2d6) fire damage plus 7 (2d6) piercing damage.
+>***Fireshield.*** Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 22 (4d6 + 8) bludgeoning damage plus 7 (2d6) fire damage plus 7 (2d6) piercing damage.
 >
->***Rock.***. Ranged Weapon Attack: +13 to hit, range 60/240 ft., one target. Hit: 30 (4d10 + 8) bludgeoning damage.
+>***Rock.*** Ranged Weapon Attack: +13 to hit, range 60/240 ft., one target. Hit: 30 (4d10 + 8) bludgeoning damage.
 >
->***Shield Charge (Recharge 5-6).***. The giant moves up to 30 feet in a straight line and can move through the space of any creature smaller than Huge. The first time it enters a creature's space during this move, that creature must succeed on a DC 21 Strength saving throw or take 36 (8d6 + 8) bludgeoning damage plus 14 (4d6) fire damage and be pushed up to 30 feet and knocked prone.
+>***Shield Charge (Recharge 5-6).*** The giant moves up to 30 feet in a straight line and can move through the space of any creature smaller than Huge. The first time it enters a creature's space during this move, that creature must succeed on a DC 21 Strength saving throw or take 36 (8d6 + 8) bludgeoning damage plus 14 (4d6) fire damage and be pushed up to 30 feet and knocked prone.
 >

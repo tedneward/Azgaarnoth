@@ -251,27 +251,27 @@ Destroying a *periapt of mind trapping* consigns those trapped within it to obli
 >- **Languages** Deep Speech,Undercommon,telepathy 120 ft.
 >- **Challenge** 10
 >___
->***Magic Resistance.***. The alhoon has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The alhoon has advantage on saving throws against spells and other magical effects.
 >
->***Turn Resistance.***. The alhoon has advantage on saving throws against any effect that turns Undead.
+>***Turn Resistance.*** The alhoon has advantage on saving throws against any effect that turns Undead.
 >
 >#### Actions
->***Multiattack.***. The alhoon makes two Chilling Grasp or Arcane Bolt attacks.
+>***Multiattack.*** The alhoon makes two Chilling Grasp or Arcane Bolt attacks.
 >
->***Chilling Grasp.***. Melee Spell Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (4d6) cold damage, and the alhoon regains 14 hit points.
+>***Chilling Grasp.*** Melee Spell Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (4d6) cold damage, and the alhoon regains 14 hit points.
 >
->***Arcane Bolt.***. Ranged Spell Attack: +8 to hit, range 120 ft., one target. Hit: 28 (8d6) force damage.
+>***Arcane Bolt.*** Ranged Spell Attack: +8 to hit, range 120 ft., one target. Hit: 28 (8d6) force damage.
 >
->***Mind Blast (Recharge 5-6).***. The alhoon magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 16 Intelligence saving throw or take 22 (4d8 + 4) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>***Mind Blast (Recharge 5-6).*** The alhoon magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 16 Intelligence saving throw or take 22 (4d8 + 4) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
->***Spellcasting.***. The alhoon casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
+>***Spellcasting.*** The alhoon casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
 >
 >At will: dancing lights, detect magic, detect thoughts, disguise self, mage hand, prestidigitation
 >
 >1/day each: dominate monster, globe of invulnerability, invisibility, modify memory, plane shift (self only), wall of force
 >
 >#### Reactions
->***Negate Spell (3/Day).***. The alhoon targets one creature it can see within 60 feet of it that is casting a spell. If the spell is 3rd level or lower, the spell fails, but any spell slots or charges are not wasted.
+>***Negate Spell (3/Day).*** The alhoon targets one creature it can see within 60 feet of it that is casting a spell. If the spell is 3rd level or lower, the spell fails, but any spell slots or charges are not wasted.
 >
 
 ---
@@ -310,20 +310,20 @@ An elder brain considers itself and its desires the most important things in the
 >- **Languages** understands Common,Deep Speech,and Undercommon but can't speak,telepathy 5 miles
 >- **Challenge** 14
 >___
->***Creature Sense.***. The elder brain is aware of creatures within 5 miles of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature, as well as each one's Intelligence score, but can't sense anything else about it. A creature protected by a mind blank spell, a nondetection spell, or similar magic can't be perceived in this manner.
+>***Creature Sense.*** The elder brain is aware of creatures within 5 miles of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature, as well as each one's Intelligence score, but can't sense anything else about it. A creature protected by a mind blank spell, a nondetection spell, or similar magic can't be perceived in this manner.
 >
->***Legendary Resistance (3/Day).***. If the elder brain fails a saving throw, it can choose to succeed instead.
+>***Legendary Resistance (3/Day).*** If the elder brain fails a saving throw, it can choose to succeed instead.
 >
->***Magic Resistance.***. The elder brain has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The elder brain has advantage on saving throws against spells and other magical effects.
 >
->***Telepathic Hub.***. The elder brain can use its telepathy to initiate and maintain telepathic conversations with up to ten creatures at a time. The elder brain can let those creatures telepathically hear each other while connected in this way.
+>***Telepathic Hub.*** The elder brain can use its telepathy to initiate and maintain telepathic conversations with up to ten creatures at a time. The elder brain can let those creatures telepathically hear each other while connected in this way.
 >
 >#### Actions
->***Tentacle.***. Melee Weapon Attack: +7 to hit, reach 30 ft., one target. Hit: 20 (4d8 + 2) bludgeoning damage. If the target is a Huge or smaller creature, it is grappled (escape DC 15) and takes 9 (1d8 + 5) psychic damage at the start of each of its turns until the grapple ends. The elder brain can have up to four targets grappled at a time.
+>***Tentacle.*** Melee Weapon Attack: +7 to hit, reach 30 ft., one target. Hit: 20 (4d8 + 2) bludgeoning damage. If the target is a Huge or smaller creature, it is grappled (escape DC 15) and takes 9 (1d8 + 5) psychic damage at the start of each of its turns until the grapple ends. The elder brain can have up to four targets grappled at a time.
 >
->***Mind Blast (Recharge 5-6).***. Creatures of the elder brain's choice within 60 feet of it must succeed on a DC 18 Intelligence saving throw or take 32 (5d10 + 5) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>***Mind Blast (Recharge 5-6).*** Creatures of the elder brain's choice within 60 feet of it must succeed on a DC 18 Intelligence saving throw or take 32 (5d10 + 5) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
->***Spellcasting (Psionics).***. The elder brain casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 18):
+>***Spellcasting (Psionics).*** The elder brain casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 18):
 >
 >At will: detect thoughts, levitate
 >
@@ -332,20 +332,20 @@ An elder brain considers itself and its desires the most important things in the
 >1/day each: dominate monster, plane shift (self only)
 >
 >#### Bonus Actions
->***Psychic Link.***. The elder brain targets one incapacitated creature it senses with its Creature Sense trait and establishes a psychic link with the target. Until the link ends, the elder brain can perceive everything the target senses. The target becomes aware that something is linked to its mind once it is no longer incapacitated, and the elder brain can terminate the link at any time (no action required). The target can use an action on its turn to attempt to break the link, doing so with a successful DC 18 Charisma saving throw. On a successful save, the target takes 10 (3d6) psychic damage. The link also ends if the target and the elder brain are more than 5 miles apart. The elder brain can form psychic links with up to ten creatures at a time.
+>***Psychic Link.*** The elder brain targets one incapacitated creature it senses with its Creature Sense trait and establishes a psychic link with the target. Until the link ends, the elder brain can perceive everything the target senses. The target becomes aware that something is linked to its mind once it is no longer incapacitated, and the elder brain can terminate the link at any time (no action required). The target can use an action on its turn to attempt to break the link, doing so with a successful DC 18 Charisma saving throw. On a successful save, the target takes 10 (3d6) psychic damage. The link also ends if the target and the elder brain are more than 5 miles apart. The elder brain can form psychic links with up to ten creatures at a time.
 >
->***Sense Thoughts.***. The elder brain targets a creature with which it has a psychic link. The elder brain gains insight into the target's emotional state and foremost thoughts (including worries, loves, and hates).
+>***Sense Thoughts.*** The elder brain targets a creature with which it has a psychic link. The elder brain gains insight into the target's emotional state and foremost thoughts (including worries, loves, and hates).
 >
 >#### Legendary Actions
 >The elder brain can take 3 legendary actions, choosing from the options below. It can take only one legendary action at a time and only at the end of another creature's turn. The elder brain regains spent legendary actions at the start of its turn.
 >
->***Break Concentration.***. The elder brain targets one creature within 120 feet of it with which it has a psychic link. The elder brain breaks the creature's concentration on a spell it has cast. The creature also takes 2 (1d4) psychic damage per level of the spell.
+>***Break Concentration.*** The elder brain targets one creature within 120 feet of it with which it has a psychic link. The elder brain breaks the creature's concentration on a spell it has cast. The creature also takes 2 (1d4) psychic damage per level of the spell.
 >
->***Psychic Pulse.***. The elder brain targets one creature within 120 feet of it with which it has a psychic link. The target and enemies of the elder brain within 30 feet of target take 10 (3d6) psychic damage.
+>***Psychic Pulse.*** The elder brain targets one creature within 120 feet of it with which it has a psychic link. The target and enemies of the elder brain within 30 feet of target take 10 (3d6) psychic damage.
 >
->***Sever Psychic Link.***. The elder brain targets one creature within 120 feet of it with which it has a psychic link. The elder brain ends the link, causing the creature to have disadvantage on all ability checks, attack rolls, and saving throws until the end of the creature's next turn.
+>***Sever Psychic Link.*** The elder brain targets one creature within 120 feet of it with which it has a psychic link. The elder brain ends the link, causing the creature to have disadvantage on all ability checks, attack rolls, and saving throws until the end of the creature's next turn.
 >
->***Tentacle (Costs 2 Actions).***. The elder brain makes one Tentacle attack.
+>***Tentacle (Costs 2 Actions).*** The elder brain makes one Tentacle attack.
 >
 
 ### A Elder Brain's Lair

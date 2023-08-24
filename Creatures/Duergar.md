@@ -86,22 +86,22 @@ Duergar despots replace parts of their bodies with mechanical devices that they 
 >- **Languages** Dwarvish,Undercommon
 >- **Challenge** 12
 >___
->***Magic Resistance.***. The duergar has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The duergar has advantage on saving throws against spells and other magical effects.
 >
->***Psychic Engine.***. When the duergar suffers a critical hit or is reduced to 0 hit points, psychic energy erupts from its frame to deal 14 (4d6) psychic damage to each creature within 5 feet of it.
+>***Psychic Engine.*** When the duergar suffers a critical hit or is reduced to 0 hit points, psychic energy erupts from its frame to deal 14 (4d6) psychic damage to each creature within 5 feet of it.
 >
->***Sunlight Sensitivity.***. While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Multiattack.***. The duergar makes two Iron Fist attacks and two Stomping Foot attacks. After one of the attacks, the duergar can move up to its speed without provoking opportunity attacks. It can replace one of the attacks with a use of Flame Jet.
+>***Multiattack.*** The duergar makes two Iron Fist attacks and two Stomping Foot attacks. After one of the attacks, the duergar can move up to its speed without provoking opportunity attacks. It can replace one of the attacks with a use of Flame Jet.
 >
->***Iron Fist.***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 23 (4d8 + 5) bludgeoning damage. If the target is a Large or smaller creature, it must succeed on a DC 17 Strength saving throw or be pushed up to 30 feet away in a straight line and be knocked prone.
+>***Iron Fist.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 23 (4d8 + 5) bludgeoning damage. If the target is a Large or smaller creature, it must succeed on a DC 17 Strength saving throw or be pushed up to 30 feet away in a straight line and be knocked prone.
 >
->***Stomping Foot.***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) bludgeoning damage, or 21 (3d10 + 5) to a prone target.
+>***Stomping Foot.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) bludgeoning damage, or 21 (3d10 + 5) to a prone target.
 >
->***Flame Jet.***. The duergar spews flames in a line 100 feet long and 5 feet wide. Each creature in the line must make a DC 16 Dexterity saving throw, taking 18 (4d8) fire damage on a failed save, or half as much damage on a successful one.
+>***Flame Jet.*** The duergar spews flames in a line 100 feet long and 5 feet wide. Each creature in the line must make a DC 16 Dexterity saving throw, taking 18 (4d8) fire damage on a failed save, or half as much damage on a successful one.
 >
->***Spellcasting (Psionics).***. The duergar casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 12):
+>***Spellcasting (Psionics).*** The duergar casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 12):
 >
 >At will: mage hand, minor illusion
 >
@@ -136,18 +136,18 @@ Kavalrachni are duergar cavalry trained to fight while riding female steeders (i
 >- **Languages** Dwarvish,Undercommon
 >- **Challenge** 2
 >___
->***Cavalry Training.***. When the duergar hits a target with a melee attack while mounted, the mount can use its reaction to make one melee attack against the same target.
+>***Cavalry Training.*** When the duergar hits a target with a melee attack while mounted, the mount can use its reaction to make one melee attack against the same target.
 >
->***Duergar Resilience.***. The duergar has advantage on saving throws against spells and the charmed, paralyzed, and poisoned conditions.
+>***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the charmed, paralyzed, and poisoned conditions.
 >
->***Sunlight Sensitivity.***. While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Multiattack.***. The duergar makes two War Pick attacks.
+>***Multiattack.*** The duergar makes two War Pick attacks.
 >
->***War Pick.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 5 (2d4) poison damage.
+>***War Pick.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 5 (2d4) poison damage.
 >
->***Heavy Crossbow.***. Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.
+>***Heavy Crossbow.*** Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.
 >
 >Shared Invisibility (Recharges after a Short or Long Rest). The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it. While the invisible duergar is mounted, the mount is invisible as well. The invisibility ends early on the mount immediately after it attacks.
 >
@@ -180,18 +180,18 @@ Wearing fearsome masks, duergar mind masters usually operate as spies, both insi
 >- **Languages** Dwarvish,Undercommon
 >- **Challenge** 2
 >___
->***Duergar Resilience.***. The duergar has advantage on saving throws against spells and the charmed, paralyzed, and poisoned conditions.
+>***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the charmed, paralyzed, and poisoned conditions.
 >
->***Sunlight Sensitivity.***. While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Multiattack.***. The duergar makes two Mind-Poison Dagger attacks. It can replace one attack with a use of Mind Mastery.
+>***Multiattack.*** The duergar makes two Mind-Poison Dagger attacks. It can replace one attack with a use of Mind Mastery.
 >
->***Mind-Poison Dagger.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 10 (3d6) psychic damage, or 1 piercing damage plus 10 (3d6) psychic damage while under the effect of Reduce.
+>***Mind-Poison Dagger.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 10 (3d6) psychic damage, or 1 piercing damage plus 10 (3d6) psychic damage while under the effect of Reduce.
 >
->***Invisibility (Recharge 4�6).***. The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
+>***Invisibility (Recharge 4�6).*** The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
 >
->***Mind Mastery.***. The duergar targets one creature it can see within 60 feet of it. The target must succeed on a DC 12 Intelligence saving throw, or the duergar causes it to use its reaction, if available, either to make one weapon attack against another creature the duergar can see or to move up to 10 feet in a direction of the duergar's choice. Creatures that can't be charmed are immune to this effect.
+>***Mind Mastery.*** The duergar targets one creature it can see within 60 feet of it. The target must succeed on a DC 12 Intelligence saving throw, or the duergar causes it to use its reaction, if available, either to make one weapon attack against another creature the duergar can see or to move up to 10 feet in a direction of the duergar's choice. Creatures that can't be charmed are immune to this effect.
 >
 >#### Bonus Actions
 >Reduce (Recharges after a Short or Long Rest). For 1 minute, the duergar magically decreases in size, along with anything it is wearing or carrying. While reduced, the duergar is Tiny, reduces its weapon damage to 1, and makes attack rolls, ability checks, and saving throws with disadvantage if they use Strength. It gains a +5 bonus to all Dexterity (Stealth) checks and a +5 bonus to its AC. It can also take a bonus action on each of its turns to take the Hide action.
@@ -225,12 +225,12 @@ Soulblades are duergar combatants whose mastery of psionics allows them to manif
 >- **Languages** Dwarvish,Undercommon
 >- **Challenge** 1
 >___
->***Duergar Resilience.***. The duergar has advantage on saving throws against spells and the charmed, paralyzed, and poisoned conditions.
+>***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the charmed, paralyzed, and poisoned conditions.
 >
->***Sunlight Sensitivity.***. While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Soulblade.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) force damage, or 17 (4d6 + 3) force damage while under the effect of Enlarge.
+>***Soulblade.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) force damage, or 17 (4d6 + 3) force damage while under the effect of Enlarge.
 >
 >Invisibility (Recharges after a Short or Long Rest). The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
 >
@@ -266,18 +266,18 @@ Stone guards are elite troops deployed in small numbers to bolster war bands of 
 >- **Languages** Dwarvish,Undercommon
 >- **Challenge** 2
 >___
->***Duergar Resilience.***. The duergar has advantage on saving throws against spells and the charmed, paralyzed, and poisoned conditions.
+>***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the charmed, paralyzed, and poisoned conditions.
 >
->***Phalanx Formation.***. The duergar has advantage on attack rolls and Dexterity saving throws while standing within 5 feet of an ally wielding a shield.
+>***Phalanx Formation.*** The duergar has advantage on attack rolls and Dexterity saving throws while standing within 5 feet of an ally wielding a shield.
 >
->***Sunlight Sensitivity.***. While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Multiattack.***. The duergar makes two Shortsword or Javelin attacks.
+>***Multiattack.*** The duergar makes two Shortsword or Javelin attacks.
 >
->***Shortsword.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4) piercing damage while under the effect of Enlarge.
+>***Shortsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4) piercing damage while under the effect of Enlarge.
 >
->***Javelin.***. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4) piercing damage while under the effect of Enlarge.
+>***Javelin.*** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4) piercing damage while under the effect of Enlarge.
 >
 >Invisibility (Recharges after a Short or Long Rest). The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
 >
@@ -313,26 +313,26 @@ A warlord is cunning, inspiring, and merciless in equal parts. A skilled leader 
 >- **Languages** Dwarvish,Undercommon
 >- **Challenge** 6
 >___
->***Duergar Resilience.***. The duergar has advantage on saving throws against spells and the charmed, paralyzed, and poisoned conditions.
+>***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the charmed, paralyzed, and poisoned conditions.
 >
->***Sunlight Sensitivity.***. While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Multiattack.***. The duergar makes three Psychic-Attuned Hammer or Javelin attacks and uses Call to Attack.
+>***Multiattack.*** The duergar makes three Psychic-Attuned Hammer or Javelin attacks and uses Call to Attack.
 >
->***Psychic-Attuned Hammer.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) bludgeoning damage, or 15 (2d10 + 4) bludgeoning damage while under the effect of Enlarge, plus 5 (1d10) psychic damage.
+>***Psychic-Attuned Hammer.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) bludgeoning damage, or 15 (2d10 + 4) bludgeoning damage while under the effect of Enlarge, plus 5 (1d10) psychic damage.
 >
->***Javelin.***. Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4) piercing damage while under the effect of Enlarge.
+>***Javelin.*** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4) piercing damage while under the effect of Enlarge.
 >
->***Call to Attack.***. Up to three allies within 120 feet of this duergar that can hear it can each use their reaction to make one weapon attack.
+>***Call to Attack.*** Up to three allies within 120 feet of this duergar that can hear it can each use their reaction to make one weapon attack.
 >
->***Invisibility (Recharge 4�6).***. The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
+>***Invisibility (Recharge 4�6).*** The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
 >
 >#### Bonus Actions
 >Enlarge (Recharges after a Short or Long Rest). For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
 >
 >#### Reactions
->***Scouring Instruction.***. When an ally that the duergar can see makes a d20 roll, the duergar can roll a d6, and the ally can add the number rolled to the d20 by taking 3 (1d6) psychic damage.
+>***Scouring Instruction.*** When an ally that the duergar can see makes a d20 roll, the duergar can roll a d6, and the ally can add the number rolled to the d20 by taking 3 (1d6) psychic damage.
 >
 
 ---
@@ -363,14 +363,14 @@ Xarrorn are specialists who construct weapons using a mixture of alchemy and psi
 >- **Languages** Dwarvish,Undercommon
 >- **Challenge** 2
 >___
->***Duergar Resilience.***. The duergar has advantage on saving throws against spells and the charmed, paralyzed, and poisoned conditions.
+>***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the charmed, paralyzed, and poisoned conditions.
 >
->***Sunlight Sensitivity.***. While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Fire Lance.***. Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 9 (1d12 + 3) piercing damage, or 16 (2d12 + 3) piercing damage while under the effect of Enlarge, plus 3 (1d6) fire damage.
+>***Fire Lance.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 9 (1d12 + 3) piercing damage, or 16 (2d12 + 3) piercing damage while under the effect of Enlarge, plus 3 (1d6) fire damage.
 >
->***Fire Spray (Recharge 5�6).***. From its fire lance, the duergar shoots a 15-foot cone of fire or a line of fire 30 feet long and 5 feet wide. Each creature in that area must make a DC 12 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one.
+>***Fire Spray (Recharge 5�6).*** From its fire lance, the duergar shoots a 15-foot cone of fire or a line of fire 30 feet long and 5 feet wide. Each creature in that area must make a DC 12 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one.
 >
 >Invisibility (Recharges after a Short or Long Rest). The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
 >

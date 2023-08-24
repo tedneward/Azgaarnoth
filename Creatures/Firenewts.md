@@ -30,20 +30,20 @@ Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies 
 >- **Languages** Draconic,Ignan
 >- **Challenge** 1
 >___
->***Amphibious.***. The firenewt can breathe air and water.
+>***Amphibious.*** The firenewt can breathe air and water.
 >
->***Devil's Sight.***. Magical darkness doesn't impede the firenewt's darkvision.
+>***Devil's Sight.*** Magical darkness doesn't impede the firenewt's darkvision.
 >
->***Imix's Blessing.***. When the firenewt reduces an enemy to 0 hit points, the firenewt gains 5 temporary hit points.
+>***Imix's Blessing.*** When the firenewt reduces an enemy to 0 hit points, the firenewt gains 5 temporary hit points.
 >
 >#### Actions
->***Multiattack.***. The firenewt makes three Morningstar or Fire Ray attacks.
+>***Multiattack.*** The firenewt makes three Morningstar or Fire Ray attacks.
 >
->***Morningstar.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
+>***Morningstar.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
 >
->***Fire Ray.***. Ranged Spell Attack: +4 to hit, range 120 ft., one target. Hit: 5 (1d6 + 2) fire damage.
+>***Fire Ray.*** Ranged Spell Attack: +4 to hit, range 120 ft., one target. Hit: 5 (1d6 + 2) fire damage.
 >
->***Spellcasting.***. The firenewt casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12):
+>***Spellcasting.*** The firenewt casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12):
 >
 >At will: guidance, light, mage armor, mage hand, prestidigitation
 >
@@ -51,7 +51,7 @@ Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies 
 ---
 
 ## Firenewt Warrior
-***A firenewt warrior can spew fire.***. Many of these warriors have a close relationship with giant striders (in this book). They provide shelter, food, and breeding grounds in their lairs for giant striders, which then voluntarily serve them as mounts.
+***A firenewt warrior can spew fire.*** Many of these warriors have a close relationship with giant striders (in this book). They provide shelter, food, and breeding grounds in their lairs for giant striders, which then voluntarily serve them as mounts.
 
 >### Firenewt Warrior
 >*Medium Elemental, Typically Neutral*
@@ -76,12 +76,12 @@ Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies 
 >- **Languages** Draconic,Ignan
 >- **Challenge** 1/2
 >___
->***Amphibious.***. The firenewt can breathe air and water.
+>***Amphibious.*** The firenewt can breathe air and water.
 >
 >#### Actions
->***Multiattack.***. The firenewt makes two Scimitar attacks.
+>***Multiattack.*** The firenewt makes two Scimitar attacks.
 >
->***Scimitar.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
+>***Scimitar.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
 >
 >Spit Fire (Recharges after a Short or Long Rest). The firenewt spits fire at a creature within 10 feet of it. The creature must make a DC 11 Dexterity saving throw, taking 9 (2d8) fire damage on a failed save, or half as much damage on a successful one.
 >

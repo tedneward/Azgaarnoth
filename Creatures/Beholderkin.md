@@ -255,7 +255,7 @@ A death kiss consumes ingested blood, which it also uses to heal and generate el
 
 A death kiss lacks the combat finesse and intelligence of a true beholder. In most cases, it simply latches on to its prey with one or more of its tentacles and drains blood until the prey collapses. If it's in a superior position and its foe poses no threat, it might toy with its food, drawing out its prey's death.
 
-***A death kiss prefers to hunt alone.***. If it meets another of its kind, it might fight, flee, or team up, depending on its health and pride.
+***A death kiss prefers to hunt alone.*** If it meets another of its kind, it might fight, flee, or team up, depending on its health and pride.
 
 >### Death Kiss
 >*Large Aberration (Beholder), Typically Neutral Evil*
@@ -280,14 +280,14 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
 >- **Languages** Deep Speech,Undercommon
 >- **Challenge** 10
 >___
->***Lightning Blood.***. A creature within 5 feet of the death kiss takes 5 (1d10) lightning damage whenever it hits the death kiss with a melee attack that deals piercing or slashing damage.
+>***Lightning Blood.*** A creature within 5 feet of the death kiss takes 5 (1d10) lightning damage whenever it hits the death kiss with a melee attack that deals piercing or slashing damage.
 >
 >#### Actions
->***Multiattack.***. The death kiss makes three Tentacle attacks. Up to three of these attacks can be replaced by Blood Drain--one replacement per tentacle grappling a creature.
+>***Multiattack.*** The death kiss makes three Tentacle attacks. Up to three of these attacks can be replaced by Blood Drain--one replacement per tentacle grappling a creature.
 >
->***Tentacle.***. Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 11 (2d6 + 4) piercing damage, and the target is grappled (escape DC 14) if it is a Huge or smaller creature. Until this grapple ends, the target is restrained, and the death kiss can't use the same tentacle on another target. The death kiss has ten tentacles.
+>***Tentacle.*** Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 11 (2d6 + 4) piercing damage, and the target is grappled (escape DC 14) if it is a Huge or smaller creature. Until this grapple ends, the target is restrained, and the death kiss can't use the same tentacle on another target. The death kiss has ten tentacles.
 >
->***Blood Drain.***. One creature grappled by a tentacle of the death kiss must make a DC 16 Constitution saving throw. On a failed save, the target takes 22 (4d10) lightning damage, and the death kiss regains half as many hit points.
+>***Blood Drain.*** One creature grappled by a tentacle of the death kiss must make a DC 16 Constitution saving throw. On a failed save, the target takes 22 (4d10) lightning damage, and the death kiss regains half as many hit points.
 >
 
 ---
@@ -333,28 +333,28 @@ A beholder usually drives away or kills any gauths that enter its territory, but
 >- **Languages** Deep Speech,Undercommon
 >- **Challenge** 6
 >___
->***Stunning Gaze.***. When a creature that can see the gauth's central eye starts its turn within 30 feet of the gauth, the gauth can force it to make a DC 14 Wisdom saving throw if the gauth isn't incapacitated and can see the creature. A creature that fails the save is stunned until the start of its next turn.
+>***Stunning Gaze.*** When a creature that can see the gauth's central eye starts its turn within 30 feet of the gauth, the gauth can force it to make a DC 14 Wisdom saving throw if the gauth isn't incapacitated and can see the creature. A creature that fails the save is stunned until the start of its next turn.
 >
 >Unless surprised, a creature can avert its eyes at the start of its turn to avoid the saving throw. If the creature does so, it can't see the gauth until the start of its next turn, when it can avert its eyes again. If the creature looks at the gauth in the meantime, it must immediately make the save.
 >
->***Death Throes.***. When the gauth dies, the magical energy within it explodes, and each creature within 10 feet of it must make a DC 14 Dexterity saving throw, taking 13 (3d8) force damage on a failed save, or half as much damage on a successful one.
+>***Death Throes.*** When the gauth dies, the magical energy within it explodes, and each creature within 10 feet of it must make a DC 14 Dexterity saving throw, taking 13 (3d8) force damage on a failed save, or half as much damage on a successful one.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 9 (2d8) piercing damage.
+>***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 9 (2d8) piercing damage.
 >
->***Eye Rays.***. The gauth shoots three of the following magical eye rays at random (roll three d6s, and reroll duplicates), targeting one to three creatures it can see within 120 feet of it:
+>***Eye Rays.*** The gauth shoots three of the following magical eye rays at random (roll three d6s, and reroll duplicates), targeting one to three creatures it can see within 120 feet of it:
 >
->1. ***Devour Magic Ray.***. The target must succeed on a DC 14 Dexterity saving throw or have one of its magic items lose all magical properties until the start of the gauth's next turn. If the object is a charged item, it also loses 1d4 charges. Determine the affected item randomly, ignoring single-use items such as potions and scrolls.
+>1. ***Devour Magic Ray.*** The target must succeed on a DC 14 Dexterity saving throw or have one of its magic items lose all magical properties until the start of the gauth's next turn. If the object is a charged item, it also loses 1d4 charges. Determine the affected item randomly, ignoring single-use items such as potions and scrolls.
 >
->2. ***Enervation Ray.***. The target must make a DC 14 Constitution saving throw, taking 18 (4d8) necrotic damage on a failed save, or half as much damage on a successful one.
+>2. ***Enervation Ray.*** The target must make a DC 14 Constitution saving throw, taking 18 (4d8) necrotic damage on a failed save, or half as much damage on a successful one.
 >
->3. ***Fire Ray.***. The target must succeed on a DC 14 Dexterity saving throw or take 22 (4d10) fire damage.
+>3. ***Fire Ray.*** The target must succeed on a DC 14 Dexterity saving throw or take 22 (4d10) fire damage.
 >
->4. ***Paralyzing Ray.***. The target must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>4. ***Paralyzing Ray.*** The target must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
->5. ***Pushing Ray.***. The target must succeed on a DC 14 Strength saving throw or be pushed up to 15 feet away from the gauth and have its speed halved until the start of the gauth's next turn.
+>5. ***Pushing Ray.*** The target must succeed on a DC 14 Strength saving throw or be pushed up to 15 feet away from the gauth and have its speed halved until the start of the gauth's next turn.
 >
->6. ***Sleep Ray.***. The target must succeed on a DC 14 Wisdom saving throw or fall asleep and remain unconscious for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on Constructs and Undead.
+>6. ***Sleep Ray.*** The target must succeed on a DC 14 Wisdom saving throw or fall asleep and remain unconscious for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on Constructs and Undead.
 >
 
 ---
@@ -393,22 +393,22 @@ A gazer is a tiny manifestation of a beholder's dreams. It resembles the beholde
 >- **Languages** --
 >- **Challenge** 1/2
 >___
->***Mimicry.***. The gazer can mimic simple sounds of speech it has heard, in any language. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
+>***Mimicry.*** The gazer can mimic simple sounds of speech it has heard, in any language. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
 >
 >#### Actions
->***Bite.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+>***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
 >
->***Eye Rays.***. The gazer shoots two of the following magical eye rays at random (roll two d4s, and reroll duplicates), choosing one or two targets it can see within 60 feet of it:
+>***Eye Rays.*** The gazer shoots two of the following magical eye rays at random (roll two d4s, and reroll duplicates), choosing one or two targets it can see within 60 feet of it:
 >
->1. ***Dazing Ray.***. The targeted creature must succeed on a DC 12 Wisdom saving throw or be charmed until the start of the gazer's next turn. While the target is charmed in this way, its speed is halved, and it has disadvantage on attack rolls.
+>1. ***Dazing Ray.*** The targeted creature must succeed on a DC 12 Wisdom saving throw or be charmed until the start of the gazer's next turn. While the target is charmed in this way, its speed is halved, and it has disadvantage on attack rolls.
 >
->2. ***Fear Ray.***. The targeted creature must succeed on a DC 12 Wisdom saving throw or be frightened until the start of the gazer's next turn.
+>2. ***Fear Ray.*** The targeted creature must succeed on a DC 12 Wisdom saving throw or be frightened until the start of the gazer's next turn.
 >
->3. ***Frost Ray.***. The target must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage.
+>3. ***Frost Ray.*** The target must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage.
 >
->4. ***Telekinetic Ray.***. If the target is a creature that is Medium or smaller, it must succeed on a DC 12 Strength saving throw or be moved up to 30 feet directly away from the gazer. If the target is a Tiny object that isn't being worn or carried, the gazer moves it up to 30 feet in any direction. The gazer can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a container.
+>4. ***Telekinetic Ray.*** If the target is a creature that is Medium or smaller, it must succeed on a DC 12 Strength saving throw or be moved up to 30 feet directly away from the gazer. If the target is a Tiny object that isn't being worn or carried, the gazer moves it up to 30 feet in any direction. The gazer can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a container.
 >
 >#### Bonus Actions
->***Aggressive.***. The gazer moves up to its speed toward a hostile creature that it can see.
+>***Aggressive.*** The gazer moves up to its speed toward a hostile creature that it can see.
 >
 

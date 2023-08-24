@@ -36,14 +36,14 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 >- **Languages** Dwarvish,Undercommon
 >- **Challenge** 1/4
 >___
->***Magic Resistance.***. The derro has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The derro has advantage on saving throws against spells and other magical effects.
 >
->***Sunlight Sensitivity.***. While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Hooked Spear.***. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage. If the target is Medium or smaller, the derro can choose to deal no damage and knock it prone.
+>***Hooked Spear.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage. If the target is Medium or smaller, the derro can choose to deal no damage and knock it prone.
 >
->***Light Crossbow.***. Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+>***Light Crossbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 >
 
 ---
@@ -73,16 +73,16 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 >- **Languages** Dwarvish,Undercommon
 >- **Challenge** 3
 >___
->***Magic Resistance.***. The derro has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The derro has advantage on saving throws against spells and other magical effects.
 >
->***Sunlight Sensitivity.***. While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Quarterstaff.***. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage.
+>***Quarterstaff.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage.
 >
->***Chromatic Beam.***. The derro launches a brilliant beam of magical energy in a 5-foot-wide line that is 60 feet long. Each creature in the line must make a DC 12 Dexterity saving throw, taking 21 (6d6) radiant damage on a failed save, or half as much damage on a successful one.
+>***Chromatic Beam.*** The derro launches a brilliant beam of magical energy in a 5-foot-wide line that is 60 feet long. Each creature in the line must make a DC 12 Dexterity saving throw, taking 21 (6d6) radiant damage on a failed save, or half as much damage on a successful one.
 >
->***Spellcasting.***. The derro casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12):
+>***Spellcasting.*** The derro casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12):
 >
 >At will: mage hand, message, prestidigitation
 >

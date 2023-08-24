@@ -38,11 +38,11 @@ Blackspawn raiders typically fight from ambush, preferring water as a means of c
 >- **Challenge** 5
 >___
 >#### Actions
->***Multiattack.***. The blackspawn raider makes two melee attacks. It prefers to attack with two bladed weapons. It can use its Acid Breath in place of one of its melee attacks.
+>***Multiattack.*** The blackspawn raider makes two melee attacks. It prefers to attack with two bladed weapons. It can use its Acid Breath in place of one of its melee attacks.
 >
->***Falchion.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+>***Falchion.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 >
->***Javelin.***. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+>***Javelin.*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 >
 >Acid Breath (Recharge 5-6): The blackspawn raider exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
 >
@@ -86,14 +86,14 @@ Bluespawn thunderlizards recognize other dragonspawn as kindred creatures and re
 >- **Challenge** 3
 >___
 >#### Actions
->***Charge.***. If the bluespawn thunderlizard moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 14 (2d8 +5) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is an object or structure (wall, etc) then the thunderlizard gains advantage on the attack and damage rolls.
+>***Charge.*** If the bluespawn thunderlizard moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 14 (2d8 +5) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is an object or structure (wall, etc) then the thunderlizard gains advantage on the attack and damage rolls.
 >
->***Gore.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage.
+>***Gore.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage.
 >
->***Lightning Arc (Recharge 5-6).***. The bluespawn stormlizard arcs lightning in a 30-foot line that is 5 feet wide. Each creature in that cone must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+>***Lightning Arc (Recharge 5-6).*** The bluespawn stormlizard arcs lightning in a 30-foot line that is 5 feet wide. Each creature in that cone must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 >
 >#### Reaction
->***Electricity Link.***. A bluespawn stormlizard can cause a line of electricity to fire from its horn to that of another bluespawn stormlizard within 100 feet. Creatures in the line must succeed on a DC 12 Dexterity saving throw or take 2d10 (11) points of lightning damage.
+>***Electricity Link.*** A bluespawn stormlizard can cause a line of electricity to fire from its horn to that of another bluespawn stormlizard within 100 feet. Creatures in the line must succeed on a DC 12 Dexterity saving throw or take 2d10 (11) points of lightning damage.
 >
 
 ---

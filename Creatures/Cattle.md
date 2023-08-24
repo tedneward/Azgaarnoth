@@ -65,7 +65,7 @@ An aurochs is a large, fierce bovine with jutting horns. In many lands, herds of
 >- **Challenge** 2
 >___
 >#### Actions
->***Gore.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage. If the aurochs moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 9 (2d8) piercing damage, and the target must succeed on a DC 15 Strength saving throw or be knocked prone if it is a creature.
+>***Gore.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage. If the aurochs moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 9 (2d8) piercing damage, and the target must succeed on a DC 15 Strength saving throw or be knocked prone if it is a creature.
 >
 
 ---
@@ -96,12 +96,12 @@ Deep rothe are Underdark cattle that communicate with one another using the danc
 >- **Languages** --
 >- **Challenge** 1/4
 >___
->***Beast of Burden.***. The rothe is considered to be one size larger for the purpose of determining its carrying capacity.
+>***Beast of Burden.*** The rothe is considered to be one size larger for the purpose of determining its carrying capacity.
 >
 >#### Actions
->***Gore.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage. If the rothe moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 7 (2d6) piercing damage.
+>***Gore.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage. If the rothe moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 7 (2d6) piercing damage.
 >
->***Dancing Lights.***. The roth3 casts dancing lights, requiring no spell components and using Wisdom as the spellcasting ability.
+>***Dancing Lights.*** The roth3 casts dancing lights, requiring no spell components and using Wisdom as the spellcasting ability.
 >
 
 ---
@@ -132,10 +132,10 @@ Oxen are domesticated cattle bred for milk and meat production and for hauling. 
 >- **Languages** --
 >- **Challenge** 1/4
 >___
->***Beast of Burden.***. The ox is considered to be one size larger for the purpose of determining its carrying capacity.
+>***Beast of Burden.*** The ox is considered to be one size larger for the purpose of determining its carrying capacity.
 >
 >#### Actions
->***Gore.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage. If the ox moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 7 (2d6) piercing damage.
+>***Gore.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage. If the ox moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 7 (2d6) piercing damage.
 >
 
 ---
@@ -166,9 +166,9 @@ Stench kows are misshapen bison native to the Lower Planes. These orange and gre
 >- **Languages** --
 >- **Challenge** 1/2
 >___
->***Stench.***. Any creature other than a stench kow that starts its turn within 5 feet of the stench kow must succeed on a DC 12 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the Stench of all stench kows for 1 hour.
+>***Stench.*** Any creature other than a stench kow that starts its turn within 5 feet of the stench kow must succeed on a DC 12 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the Stench of all stench kows for 1 hour.
 >
 >#### Actions
->***Gore.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage. If the stench kow moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 7 (2d6) piercing damage.
+>***Gore.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage. If the stench kow moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 7 (2d6) piercing damage.
 >
 

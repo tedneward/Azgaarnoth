@@ -28,16 +28,16 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 >- **Languages** understands all languages but can't speak
 >- **Challenge** 14
 >___
->***Magic Resistance.***. The collector has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The collector has advantage on saving throws against spells and other magical effects.
 >
->***Unusual Nature.***. The collector doesn't require air, food, drink, or sleep.
+>***Unusual Nature.*** The collector doesn't require air, food, drink, or sleep.
 >
 >#### Actions
->***Multiattack.***. The collector makes two Slam attacks.
+>***Multiattack.*** The collector makes two Slam attacks.
 >
->***Slam.***. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage plus 16 (3d10) necrotic damage.
+>***Slam.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage plus 16 (3d10) necrotic damage.
 >
->***Paralyzing Breath (Recharge 5–6).***. The collector releases paralyzing gas in a 30-foot cone. Each creature in that area must make a successful DC 18 Constitution saving throw or be paralyzed for 1 minute. A paralyzed creature repeats the saving throw at the end of each of its turns, ending the effect on itself with a success.
+>***Paralyzing Breath (Recharge 5ï¿½6).*** The collector releases paralyzing gas in a 30-foot cone. Each creature in that area must make a successful DC 18 Constitution saving throw or be paralyzed for 1 minute. A paralyzed creature repeats the saving throw at the end of each of its turns, ending the effect on itself with a success.
 >
 >#### Bonus Actions
 >Summon Specters (Recharges after a Short or Long Rest). The collector calls up the enslaved spirits of those it has slain; 1d4 specters (without Sunlight Sensitivity; see the Monster Manual) arise in unoccupied spaces within 15 feet of it. The specters act right after the collector on the same initiative count and fight until they're destroyed. They disappear when the collector is destroyed.

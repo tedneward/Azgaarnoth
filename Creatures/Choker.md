@@ -34,12 +34,12 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 >___
 >Aberrant Quickness (Recharges after a Short or Long Rest). The choker can take an extra action on its turn.
 >
->***Boneless.***. The choker can move through and occupy a space as narrow as 4 inches wide without squeezing.
+>***Boneless.*** The choker can move through and occupy a space as narrow as 4 inches wide without squeezing.
 >
->***Spider Climb.***. The choker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+>***Spider Climb.*** The choker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 >
 >#### Actions
->***Multiattack.***. The choker makes two Tentacle attacks.
+>***Multiattack.*** The choker makes two Tentacle attacks.
 >
->***Tentacle.***. Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 5 (1d4 + 3) piercing damage. If the target is a Large or smaller creature, it is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the choker can't use this tentacle on another target. The choker has two tentacles. If this attack is a critical hit, the target also can't breathe or speak until the grapple ends.
+>***Tentacle.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 5 (1d4 + 3) piercing damage. If the target is a Large or smaller creature, it is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the choker can't use this tentacle on another target. The choker has two tentacles. If this attack is a critical hit, the target also can't breathe or speak until the grapple ends.
 >

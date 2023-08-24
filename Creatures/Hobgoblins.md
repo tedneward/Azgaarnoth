@@ -347,14 +347,14 @@ If they survive long enough, Devastators usually end up looking to join one of t
 >- **Languages** Common,Goblin
 >- **Challenge** 4
 >___
->***Army Arcana.***. When the hobgoblin casts a spell that causes damage or that forces other creatures to make a saving throw, it can choose itself and any number of allies to be immune to the damage caused by the spell and to succeed on the required saving throw.
+>***Army Arcana.*** When the hobgoblin casts a spell that causes damage or that forces other creatures to make a saving throw, it can choose itself and any number of allies to be immune to the damage caused by the spell and to succeed on the required saving throw.
 >
 >#### Actions
->***Multiattack.***. The hobgoblin makes two Quarterstaff or Devastating Bolt attacks.
+>***Multiattack.*** The hobgoblin makes two Quarterstaff or Devastating Bolt attacks.
 >
->***Quarterstaff.***. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage, or 5 (1d8 + 1) bludgeoning damage if used with two hands, plus 13 (3d8) force damage.
+>***Quarterstaff.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage, or 5 (1d8 + 1) bludgeoning damage if used with two hands, plus 13 (3d8) force damage.
 >
->***Devastating Bolt.***. Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 21 (4d8 + 3) force damage, and the target is knocked prone.
+>***Devastating Bolt.*** Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 21 (4d8 + 3) force damage, and the target is knocked prone.
 >
 >***Spellcasting.*** The hobgoblin is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:
 >* Cantrips (at will): acid splash, fire bolt, ray of frost, shocking grasp
@@ -403,18 +403,18 @@ It is rumored that the Order of Iron Shadows is organized precisely along the sa
 >- **Languages** Common,Goblin
 >- **Challenge** 2
 >___
->***Unarmored Defense.***. While the hobgoblin is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
+>***Unarmored Defense.*** While the hobgoblin is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 >
 >#### Actions
->***Multiattack.***. The hobgoblin makes four attacks, each of which can be an Unarmed Strike or a Dart attack. It can also use Shadow Jaunt once, either before or after one of the attacks.
+>***Multiattack.*** The hobgoblin makes four attacks, each of which can be an Unarmed Strike or a Dart attack. It can also use Shadow Jaunt once, either before or after one of the attacks.
 >
->***Unarmed Strike.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage.
+>***Unarmed Strike.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage.
 >
->***Dart.***. Ranged Weapon Attack. +5 to hit, range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
+>***Dart.*** Ranged Weapon Attack. +5 to hit, range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
 >
->***Shadow Jaunt.***. The hobgoblin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see. Both the space it leaves and its destination must be in dim light or darkness.
+>***Shadow Jaunt.*** The hobgoblin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see. Both the space it leaves and its destination must be in dim light or darkness.
 >
->***Spellcasting.***. The hobgoblin casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 12):
+>***Spellcasting.*** The hobgoblin casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 12):
 >
 >At will: minor illusion, prestidigitation
 >

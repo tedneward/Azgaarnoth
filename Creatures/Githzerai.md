@@ -136,16 +136,16 @@ Anarchs are githzerai sages and mystics who lead communities and maintain the ad
 >- **Languages** Gith
 >- **Challenge** 16
 >___
->***Legendary Resistance (3/Day).***. If the githzerai fails a saving throw, it can choose to succeed instead.
+>***Legendary Resistance (3/Day).*** If the githzerai fails a saving throw, it can choose to succeed instead.
 >
->***Psychic Defense.***. While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
+>***Psychic Defense.*** While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 >
 >#### Actions
->***Multiattack.***. The githzerai makes three Unarmed Strike attacks.
+>***Multiattack.*** The githzerai makes three Unarmed Strike attacks.
 >
->***Unarmed Strike.***. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) bludgeoning damage plus 18 (4d8) psychic damage.
+>***Unarmed Strike.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) bludgeoning damage plus 18 (4d8) psychic damage.
 >
->***Spellcasting (Psionics).***. The githzerai casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 18):
+>***Spellcasting (Psionics).*** The githzerai casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 18):
 >
 >At will: mage hand (the hand is invisible)
 >
@@ -156,11 +156,11 @@ Anarchs are githzerai sages and mystics who lead communities and maintain the ad
 >#### Legendary Actions
 >The githzerai can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The githzerai regains spent legendary actions at the start of its turn.
 >
->***Strike.***. The githzerai makes one Unarmed Strike attack.
+>***Strike.*** The githzerai makes one Unarmed Strike attack.
 >
->***Teleport.***. The githzerai teleports, along with any equipment it is wearing or carrying, to an unoccupied space it can see within 30 feet of it.
+>***Teleport.*** The githzerai teleports, along with any equipment it is wearing or carrying, to an unoccupied space it can see within 30 feet of it.
 >
->***Change Gravity (Costs 3 Actions).***. The githzerai casts the reverse gravity spell, using Wisdom as the spellcasting ability. The spell has the normal effect, except that the githzerai can orient the area in any direction and creatures and objects fall toward the end of the area.
+>***Change Gravity (Costs 3 Actions).*** The githzerai casts the reverse gravity spell, using Wisdom as the spellcasting ability. The spell has the normal effect, except that the githzerai can orient the area in any direction and creatures and objects fall toward the end of the area.
 >
 
 ### A Githzerai Anarch's Lair
@@ -203,14 +203,14 @@ Some spiritual githzerai spend long hours in meditation to transcend the limits 
 >- **Languages** Gith
 >- **Challenge** 10
 >___
->***Psychic Defense.***. While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
+>***Psychic Defense.*** While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 >
 >#### Actions
->***Multiattack.***. The githzerai makes three Unarmed Strike attacks.
+>***Multiattack.*** The githzerai makes three Unarmed Strike attacks.
 >
->***Unarmed Strike.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage plus 18 (4d8) psychic damage.
+>***Unarmed Strike.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage plus 18 (4d8) psychic damage.
 >
->***Spellcasting (Psionics).***. The githzerai casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 16):
+>***Spellcasting (Psionics).*** The githzerai casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 16):
 >
 >At will: mage hand (the hand is invisible)
 >
@@ -218,9 +218,9 @@ Some spiritual githzerai spend long hours in meditation to transcend the limits 
 >
 >1/day each: plane shift, teleport
 >
->***Temporal Strike (Recharge 6).***. Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) bludgeoning damage plus 52 (8d12) psychic damage. The target must succeed on a DC 16 Wisdom saving throw or move 1 round forward in time. A target moved forward in time vanishes for the duration. When the effect ends, the target reappears in the space it left or in an unoccupied space nearest to that space if it's occupied.
+>***Temporal Strike (Recharge 6).*** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) bludgeoning damage plus 52 (8d12) psychic damage. The target must succeed on a DC 16 Wisdom saving throw or move 1 round forward in time. A target moved forward in time vanishes for the duration. When the effect ends, the target reappears in the space it left or in an unoccupied space nearest to that space if it's occupied.
 >
 >#### Reactions
->***Slow Fall.***. When the githzerai falls, it reduces any falling damage it takes by 50.
+>***Slow Fall.*** When the githzerai falls, it reduces any falling damage it takes by 50.
 >
 

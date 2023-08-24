@@ -128,13 +128,13 @@ Gish blend their magical abilities with swordplay to become dangerous foes in ba
 >- **Challenge** 10
 >___
 >#### Actions
->***Multiattack.***. The githyanki makes three Longsword or Telekinetic Bolt attacks, or it makes one of those attacks and uses Spellcasting.
+>***Multiattack.*** The githyanki makes three Longsword or Telekinetic Bolt attacks, or it makes one of those attacks and uses Spellcasting.
 >
->***Longsword.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands, plus 22 (5d8) psychic damage.
+>***Longsword.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands, plus 22 (5d8) psychic damage.
 >
->***Telekinetic Bolt.***. Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 28 (8d6) force damage.
+>***Telekinetic Bolt.*** Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 28 (8d6) force damage.
 >
->***Spellcasting (Psionics).***. The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 15):
+>***Spellcasting (Psionics).*** The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 15):
 >
 >At will: light, mage hand (the hand is invisible), message
 >
@@ -143,7 +143,7 @@ Gish blend their magical abilities with swordplay to become dangerous foes in ba
 >1/day each: dimension door, plane shift, telekinesis
 >
 >#### Bonus Actions
->***Astral Step (Recharge 4-6).***. The githyanki teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
+>***Astral Step (Recharge 4-6).*** The githyanki teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
 >
 
 ---
@@ -175,11 +175,11 @@ Militarized githyanki cultures assign ranks and responsibilities to citizens. Gr
 >- **Challenge** 12
 >___
 >#### Actions
->***Multiattack.***. The githyanki makes three Greatsword attacks.
+>***Multiattack.*** The githyanki makes three Greatsword attacks.
 >
->***Greatsword.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 17 (5d6) psychic damage.
+>***Greatsword.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 17 (5d6) psychic damage.
 >
->***Spellcasting (Psionics).***. The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 15):
+>***Spellcasting (Psionics).*** The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 15):
 >
 >At will: mage hand (the hand is invisible)
 >
@@ -188,12 +188,12 @@ Militarized githyanki cultures assign ranks and responsibilities to citizens. Gr
 >1/day each: plane shift, telekinesis
 >
 >#### Bonus Actions
->***Astral Step (Recharge 4-6).***. The githyanki teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
+>***Astral Step (Recharge 4-6).*** The githyanki teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
 >
->***Rally the Troops.***. The githyanki magically ends the charmed and frightened conditions on itself and each creature of its choice that it can see within 30 feet of it.
+>***Rally the Troops.*** The githyanki magically ends the charmed and frightened conditions on itself and each creature of its choice that it can see within 30 feet of it.
 >
 >#### Reactions
->***Parry.***. The githyanki adds 4 to its AC against one melee attack that would hit it. To do so, the githyanki must see the attacker and be wielding a melee weapon.
+>***Parry.*** The githyanki adds 4 to its AC against one melee attack that would hit it. To do so, the githyanki must see the attacker and be wielding a melee weapon.
 >
 
 ---
@@ -224,14 +224,14 @@ Generals lead armies, each one commanding ten kith'raks, who in turn lead the re
 >- **Languages** Gith
 >- **Challenge** 14
 >___
->***Legendary Resistance (3/Day).***. If the githyanki fails a saving throw, it can choose to succeed instead.
+>***Legendary Resistance (3/Day).*** If the githyanki fails a saving throw, it can choose to succeed instead.
 >
 >#### Actions
->***Multiattack.***. The githyanki makes two Silver Greatsword attacks.
+>***Multiattack.*** The githyanki makes two Silver Greatsword attacks.
 >
->***Silver Greatsword.***. Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage plus 17 (5d6) psychic damage. On a critical hit against a target in an astral body (as with the astral projection spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
+>***Silver Greatsword.*** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage plus 17 (5d6) psychic damage. On a critical hit against a target in an astral body (as with the astral projection spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
 >
->***Spellcasting (Psionics).***. The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 16):
+>***Spellcasting (Psionics).*** The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 16):
 >
 >At will: mage hand (the hand is invisible)
 >
@@ -240,16 +240,16 @@ Generals lead armies, each one commanding ten kith'raks, who in turn lead the re
 >1/day each: Bigby's hand, mass suggestion, plane shift, telekinesis
 >
 >#### Bonus Actions
->***Astral Step.***. The githyanki teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
+>***Astral Step.*** The githyanki teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
 >
 >#### Reactions
->***Parry.***. The githyanki adds 5 to its AC against one melee attack that would hit it. To do so, the githyanki must see the attacker and be wielding a melee weapon.
+>***Parry.*** The githyanki adds 5 to its AC against one melee attack that would hit it. To do so, the githyanki must see the attacker and be wielding a melee weapon.
 >
 >#### Legendary Actions
 >The githyanki can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The githyanki regains spent legendary actions at the start of its turn.
 >
->***Command Ally.***. The githyanki targets one ally it can see within 30 feet of it. If the target can see or hear the githyanki, the target can make one melee weapon attack using its reaction, if available, and has advantage on the attack roll.
+>***Command Ally.*** The githyanki targets one ally it can see within 30 feet of it. If the target can see or hear the githyanki, the target can make one melee weapon attack using its reaction, if available, and has advantage on the attack roll.
 >
->***Attack (2 Actions).***. The githyanki makes one Silver Greatsword attack.
+>***Attack (2 Actions).*** The githyanki makes one Silver Greatsword attack.
 >
 

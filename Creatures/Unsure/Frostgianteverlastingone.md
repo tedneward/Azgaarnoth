@@ -28,16 +28,16 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
 >- **Languages** Giant
 >- **Challenge** 12
 >___
->***Extra Heads.***. The giant has a 25 percent chance of having more than one head. If it has more than one, it has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
+>***Extra Heads.*** The giant has a 25 percent chance of having more than one head. If it has more than one, it has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
 >
->***Regeneration.***. The giant regains 10 hit points at the start of its turn. If the giant takes acid or fire damage, this trait doesn't function at the start of its next turn. The giant dies only if it starts its turn with 0 hit points and doesn't regenerate.
+>***Regeneration.*** The giant regains 10 hit points at the start of its turn. If the giant takes acid or fire damage, this trait doesn't function at the start of its next turn. The giant dies only if it starts its turn with 0 hit points and doesn't regenerate.
 >
 >#### Actions
->***Multiattack.***. The giant makes two Greataxe or Rock attacks.
+>***Multiattack.*** The giant makes two Greataxe or Rock attacks.
 >
->***Greataxe.***. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 26 (3d12 + 7) slashing damage, or 30 (3d12 + 11) slashing damage while raging.
+>***Greataxe.*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 26 (3d12 + 7) slashing damage, or 30 (3d12 + 11) slashing damage while raging.
 >
->***Rock.***. Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. Hit: 29 (4d10 + 7) bludgeoning damage.
+>***Rock.*** Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. Hit: 29 (4d10 + 7) bludgeoning damage.
 >
 >Bonus Action
 >

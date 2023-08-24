@@ -38,12 +38,12 @@ Kruthiks hatch from eggs laid by female adults. Each egg is about the size of an
 >- **Languages** Kruthik
 >- **Challenge** 1/8
 >___
->***Pack Tactics.***. The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>***Pack Tactics.*** The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
->***Tunneler.***. The kruthik can burrow through solid rock at half its burrowing speed and leaves a 2 1/2-foot-diameter tunnel in its wake.
+>***Tunneler.*** The kruthik can burrow through solid rock at half its burrowing speed and leaves a 2 1/2-foot-diameter tunnel in its wake.
 >
 >#### Actions
->***Stab.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
+>***Stab.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
 >
 
 ---
@@ -76,16 +76,16 @@ Adult kruthiks grow spiky protrusions on their legs and can fling these dagger-s
 >- **Languages** Kruthik
 >- **Challenge** 2
 >___
->***Pack Tactics.***. The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>***Pack Tactics.*** The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
->***Tunneler.***. The kruthik can burrow through solid rock at half its burrowing speed and leaves a 5-foot-diameter tunnel in its wake.
+>***Tunneler.*** The kruthik can burrow through solid rock at half its burrowing speed and leaves a 5-foot-diameter tunnel in its wake.
 >
 >#### Actions
->***Multiattack.***. The kruthik makes two Stab or Spike attacks.
+>***Multiattack.*** The kruthik makes two Stab or Spike attacks.
 >
->***Stab.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+>***Stab.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 >
->***Spike.***. Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
+>***Spike.*** Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
 >
 
 ---
@@ -116,17 +116,17 @@ A hive lord rules each kruthik hive. When the hive lord dies, the surviving memb
 >- **Languages** Kruthik
 >- **Challenge** 5
 >___
->***Pack Tactics.***. The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>***Pack Tactics.*** The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
->***Tunneler.***. The kruthik can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake.
+>***Tunneler.*** The kruthik can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake.
 >
 >#### Actions
->***Multiattack.***. The kruthik makes two Stab or Spike attacks.
+>***Multiattack.*** The kruthik makes two Stab or Spike attacks.
 >
->***Stab.***. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
+>***Stab.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
 >
->***Spike.***. Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+>***Spike.*** Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
 >
->***Acid Spray (Recharge 5-6).***. The kruthik sprays acid in a 15-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw, taking 22 (4d10) acid damage on a failed save, or half as much damage on a successful one.
+>***Acid Spray (Recharge 5-6).*** The kruthik sprays acid in a 15-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw, taking 22 (4d10) acid damage on a failed save, or half as much damage on a successful one.
 >
 

@@ -26,16 +26,16 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
 >- **Languages** any two languages
 >- **Challenge** 5
 >___
->***Amphibious.***. The priest can breathe air and water.
+>***Amphibious.*** The priest can breathe air and water.
 >
 >#### Actions
->***Multiattack.***. The priest makes two Thunderous Touch or Thunder­bolt attacks.
+>***Multiattack.*** The priest makes two Thunderous Touch or Thunderï¿½bolt attacks.
 >
->***Thunderous Touch.***. Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 27 (5d10) thunder damage.
+>***Thunderous Touch.*** Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 27 (5d10) thunder damage.
 >
->***Thunderbolt.***. Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 11 (2d10) lightning damage plus 11 (2d10) thunder damage, and the target is knocked prone.
+>***Thunderbolt.*** Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 11 (2d10) lightning damage plus 11 (2d10) thunder damage, and the target is knocked prone.
 >
->***Spellcasting.***. The priest casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 13):
+>***Spellcasting.*** The priest casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 13):
 >
 >At will: command, create or destroy water
 >

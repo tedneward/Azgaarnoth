@@ -149,12 +149,12 @@ Girallons that are well treated might be willing to serve as guards, though they
 >- **Challenge** 4
 >___
 >#### Actions
->***Multiattack.***. The girallon makes one Bite attack and four Claw attacks.
+>***Multiattack.*** The girallon makes one Bite attack and four Claw attacks.
 >
->***Bite.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 7 (1d6 + 4) piercing damage.
+>***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 7 (1d6 + 4) piercing damage.
 >
->***Claw.***. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
+>***Claw.*** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
 >
 >#### Bonus Actions
->***Aggressive.***. The girallon moves up to its speed toward a hostile creature that it can see.
+>***Aggressive.*** The girallon moves up to its speed toward a hostile creature that it can see.
 >

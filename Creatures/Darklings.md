@@ -30,12 +30,12 @@ The Summer Queen's curse causes a darkling's body to absorb light, which wizens 
 >- **Languages** Elvish,Sylvan
 >- **Challenge** 1/2
 >___
->***Death Flash.***. When the darkling dies, nonmagical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area must succeed on a DC 10 Constitution saving throw or be blinded until the end of its next turn.
+>***Death Flash.*** When the darkling dies, nonmagical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area must succeed on a DC 10 Constitution saving throw or be blinded until the end of its next turn.
 >
->***Light Sensitivity.***. While in bright light, the darkling has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Light Sensitivity.*** While in bright light, the darkling has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
->***Dagger.***. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) necrotic damage.
+>***Dagger.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) necrotic damage.
 >
 
 ---
@@ -66,12 +66,12 @@ A wise and respected darkling can undergo a ritual to become an elder. Other eld
 >- **Languages** Elvish,Sylvan
 >- **Challenge** 2
 >___
->***Death Burn.***. When the darkling elder dies, magical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area must make a DC 11 Constitution saving throw. On a failed save, the creature takes 7 (2d6) radiant damage and is blinded until the end of its next turn. On a successful save, the creature takes half as much damage and isn't blinded.
+>***Death Burn.*** When the darkling elder dies, magical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area must make a DC 11 Constitution saving throw. On a failed save, the creature takes 7 (2d6) radiant damage and is blinded until the end of its next turn. On a successful save, the creature takes half as much damage and isn't blinded.
 >
 >#### Actions
->***Multiattack.***. The darkling elder makes two Scimitar attacks.
+>***Multiattack.*** The darkling elder makes two Scimitar attacks.
 >
->***Scimitar.***. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage plus 7 (2d6) necrotic damage.
+>***Scimitar.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage plus 7 (2d6) necrotic damage.
 >
 >Darkness (Recharges after a Short or Long Rest). The darkling elder casts darkness, requiring no spell components and using Wisdom as the spellcasting ability.
 >

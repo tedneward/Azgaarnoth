@@ -28,12 +28,12 @@ Howlers rely on speed, numbers, and their mind-numbing howling to corner prey be
 >- **Languages** understands Abyssal but can't speak
 >- **Challenge** 8
 >___
->***Pack Tactics.***. A howler has advantage on attack rolls against a creature if at least one of the howler's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>***Pack Tactics.*** A howler has advantage on attack rolls against a creature if at least one of the howler's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 >#### Actions
->***Multiattack.***. The howler makes two Rending Bite attacks.
+>***Multiattack.*** The howler makes two Rending Bite attacks.
 >
->***Rending Bite.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage, plus 22 (4d10) psychic damage if the target is frightened. This attack ignores damage resistance.
+>***Rending Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage, plus 22 (4d10) psychic damage if the target is frightened. This attack ignores damage resistance.
 >
->***Mind-Breaking Howl (Recharge 4-6).***. The howler emits a keening howl in a 60-foot cone. Each creature in that area must succeed on a DC 13 Wisdom saving throw or take 16 (3d10) psychic damage and be frightened until the end of the howler's next turn. While a creature is frightened in this way, its speed is halved, and it is incapacitated. A target that successfully saves is immune to the Mind-Breaking Howl of all howlers for the next 24 hours.
+>***Mind-Breaking Howl (Recharge 4-6).*** The howler emits a keening howl in a 60-foot cone. Each creature in that area must succeed on a DC 13 Wisdom saving throw or take 16 (3d10) psychic damage and be frightened until the end of the howler's next turn. While a creature is frightened in this way, its speed is halved, and it is incapacitated. A target that successfully saves is immune to the Mind-Breaking Howl of all howlers for the next 24 hours.
 >

@@ -124,18 +124,18 @@ Canoloths confront intruders with swift and terrible force, projecting long, spi
 >- **Languages** Abyssal,Infernal,telepathy 60 ft.
 >- **Challenge** 8
 >___
->***Dimensional Lock.***. Other creatures can't teleport to or from a space within 60 feet of the canoloth. Any attempt to do so is wasted.
+>***Dimensional Lock.*** Other creatures can't teleport to or from a space within 60 feet of the canoloth. Any attempt to do so is wasted.
 >
->***Magic Resistance.***. The canoloth has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The canoloth has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
->***Multiattack.***. The canoloth makes one Bite or Tongue attack and one Claw attack.
+>***Multiattack.*** The canoloth makes one Bite or Tongue attack and one Claw attack.
 >
->***Bite.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 18 (4d8) force damage.
+>***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 18 (4d8) force damage.
 >
->***Claw.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage plus 9 (2d8) force damage.
+>***Claw.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage plus 9 (2d8) force damage.
 >
->***Tongue.***. Melee Weapon Attack: +7 to hit, reach 30 ft., one target. Hit: 10 (1d12 + 4) piercing damage plus 7 (2d6) acid damage. If the target is Medium or smaller, it is grappled (escape DC 15), pulled up to 30 feet toward the canoloth, and restrained until the grapple ends. The canoloth can grapple one target at a time with its tongue.
+>***Tongue.*** Melee Weapon Attack: +7 to hit, reach 30 ft., one target. Hit: 10 (1d12 + 4) piercing damage plus 7 (2d6) acid damage. If the target is Medium or smaller, it is grappled (escape DC 15), pulled up to 30 feet toward the canoloth, and restrained until the grapple ends. The canoloth can grapple one target at a time with its tongue.
 >
 
 ---
@@ -168,20 +168,20 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 >- **Languages** Abyssal,Infernal,telepathy 60 ft.
 >- **Challenge** 7
 >___
->***Magic Resistance.***. The dhergoloth has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The dhergoloth has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
->***Multiattack.***. The dhergoloth makes two Claw attacks.
+>***Multiattack.*** The dhergoloth makes two Claw attacks.
 >
->***Claw.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) force damage.
+>***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) force damage.
 >
->***Flailing Claws (Recharge 5�6).***. The dhergoloth moves up to its speed in a straight line and targets each creature within 5 feet of it during its movement. Each target must succeed on a DC 14 Dexterity saving throw or take 22 (3d12 + 3) force damage.
+>***Flailing Claws (Recharge 5�6).*** The dhergoloth moves up to its speed in a straight line and targets each creature within 5 feet of it during its movement. Each target must succeed on a DC 14 Dexterity saving throw or take 22 (3d12 + 3) force damage.
 >
->***Spellcasting.***. The dhergoloth casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 10):
+>***Spellcasting.*** The dhergoloth casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 10):
 >
 >At will: darkness, fear
 >
->***Teleport.***. The dhergoloth teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+>***Teleport.*** The dhergoloth teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 >
 
 ---
@@ -214,30 +214,30 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
 >- **Languages** Abyssal,Infernal,telepathy 60 ft.
 >- **Challenge** 9
 >___
->***Amphibious.***. The hydroloth can breathe air and water.
+>***Amphibious.*** The hydroloth can breathe air and water.
 >
->***Magic Resistance.***. The hydroloth has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The hydroloth has advantage on saving throws against spells and other magical effects.
 >
->***Secure Memory.***. The hydroloth is immune to the waters of the River Styx, as well as any effect that would steal or modify its memories or detect or read its thoughts.
+>***Secure Memory.*** The hydroloth is immune to the waters of the River Styx, as well as any effect that would steal or modify its memories or detect or read its thoughts.
 >
->***Watery Advantage.***. While submerged in liquid, the hydroloth has advantage on attack rolls.
+>***Watery Advantage.*** While submerged in liquid, the hydroloth has advantage on attack rolls.
 >
 >#### Actions
->***Multiattack.***. The hydroloth makes two Bite or Claw attacks. It can replace one attack with a use of Spellcasting.
+>***Multiattack.*** The hydroloth makes two Bite or Claw attacks. It can replace one attack with a use of Spellcasting.
 >
->***Bite.***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) force damage plus 9 (2d8) psychic damage.
+>***Bite.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) force damage plus 9 (2d8) psychic damage.
 >
->***Claw.***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) force damage plus 9 (2d8) psychic damage.
+>***Claw.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) force damage plus 9 (2d8) psychic damage.
 >
->***Spellcasting.***. The hydroloth casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
+>***Spellcasting.*** The hydroloth casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
 >
 >At will: darkness, detect magic, dispel magic, invisibility (self only)
 >
 >3/day each: control water, crown of madness, fear, suggestion
 >
->***Steal Memory (1/Day).***. The hydroloth targets one creature it can see within 60 feet of it. The target takes 14 (4d6) psychic damage, and it must make a DC 16 Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth's Steal Memory for 24 hours. On a failed save, the target loses all proficiencies; it can't cast spells; it can't understand language; and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A greater restoration or remove curse spell cast on the target ends this effect early.
+>***Steal Memory (1/Day).*** The hydroloth targets one creature it can see within 60 feet of it. The target takes 14 (4d6) psychic damage, and it must make a DC 16 Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth's Steal Memory for 24 hours. On a failed save, the target loses all proficiencies; it can't cast spells; it can't understand language; and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A greater restoration or remove curse spell cast on the target ends this effect early.
 >
->***Teleport.***. The hydroloth teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+>***Teleport.*** The hydroloth teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 >
 
 ---
