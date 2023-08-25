@@ -64,7 +64,7 @@ Flesh, wood, metal, and bone dissolve when the pudding ebbs over them. Stone rem
 >***Split.*** When a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding.
 >
 ### Token
-![](Ooze-BlackPudding-Token.png)
+![](Oozes-BlackPudding-Token.png)
 
 ---
 
@@ -120,7 +120,7 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
 >An engulfed creature can try to escape by taking an action to make a DC 12 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the cube.
 >
 ### Token
-![](Ooze-GelatinousCube-Token.png)
+![](Oozes-GelatinousCube-Token.png)
 
 ---
 
@@ -164,7 +164,7 @@ A gray ooze is stone turned to liquid by chaos. When it moves, it slithers like 
 >***Pseudopod.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 >
 ### Token
-![](Ooze-GrayOoze-Token.png)
+![](Oozes-GrayOoze-Token.png)
 
 ---
 
@@ -210,7 +210,7 @@ An ochre jelly follows at a safe distance as it pursues its meal. Its digestive 
 >***Split.*** When a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10 hit points. Each new jelly has hit points equal to half the original jelly's, rounded down. New jellies are one size smaller than the original jelly.
 >
 ### Token
-![](Ooze-OchreJelly-Token.png)
+![](Oozes-OchreJelly-Token.png)
 
 
 ---
@@ -259,7 +259,7 @@ A psionic gray ooze has an Intelligence score of 6 (−2), as well as the follow
 >***Psychic Crush (Recharge 5–6).*** The ooze targets one creature that it can sense within 60 feet of it. The target must make a DC 10 Intelligence saving throw, taking 10 (3d6) psychic damage on a failed save, or half as much damage on a successful one.
 >
 ### Token
-![](Ooze-GrayOoze-Token.png)
+![](Oozes-GrayOoze-Token.png)
 
 
 ---

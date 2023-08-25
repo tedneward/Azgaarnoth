@@ -1068,7 +1068,7 @@ Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 15 (3d6 + 
 Fist. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage.
 
 
----
+===
 
 Nabassu
 The insatiable nabassus prowl the multiverse in search of souls to devour. If they think they can kill a creature and consume its soul, they attack—even if that other creature is a demon, including another nabassu.
@@ -1192,6 +1192,7 @@ Corruption. The nagpa targets one creature it can see within 90 feet of it. The 
 
 Paralysis (Recharge 6). The nagpa forces each creature within 30 feet of it to make a DC 20 Wisdom saving throw, excluding Undead and Constructs. On a failed save, a target is paralyzed for 1 minute. A paralyzed target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
+===
 
 Narzugon
 Paladins who make deals with devils and carry their twisted sense of honor into the afterlife are especially valuable to the archdukes of the Nine Hells. These narzugons act as horrific perversions of knights errant, carrying out their masters’ will.
@@ -1262,12 +1263,14 @@ Terrifying Command. Each creature within 60 feet of the narzugon that isn’t a 
 
 Healing (1/Day). The narzugon, or one creature it touches, regains 100 hit points.
 
+===
 
 Neogi
 A neogi looks like an outsize spider with an eel’s neck and head. It can poison the body and the mind of its targets and can subjugate even beings that are physically superior.
 
 Neogi usually dwell in far-flung locations on the Material Plane, as well as in the Astral Plane and the Ethereal Plane. They left their home world long ago to conquer and devour creatures in other realms. During this era, they dominated umber hulks and used them to build sleek, spidery ships capable of traversing the multiverse.
 
+---
 
 Neogi Hatchling
 A neogi lives about a century. When an individual is rendered weak by advanced age, the other neogi in the group overpower it and inject it with a special poison. The toxin transforms the old neogi into a bloated mass of flesh. Younger neogi lay their eggs atop it, and when the hatchlings emerge, they devour the old neogi and one another until only a few of the strongest newborns are left. The surviving neogi hatchlings begin their lives under the control of adult neogi. They must learn about their society and earn a place in it, and each one starts its training by gaining mastery over an umber hulk.
@@ -1307,8 +1310,10 @@ Actions
 
 Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage plus 3 (1d6) poison damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-Neogi (Adult)
-The mentality of neogi is alien to many other peoples. Because adult neogi have the power to control minds, they consider doing so to be entirely appropriate. Their society makes no distinction between individuals, aside from the ability that a given creature has to control others, and they don’t comprehend the emotional aspects of existence that humans and similar beings experience. To a neogi, hatred is as foreign a sensation as love, and showing loyalty in the absence of authority is foolishness.
+---
+
+Neogi
+The mentality of adult neogi is alien to many other peoples. Because adult neogi have the power to control minds, they consider doing so to be entirely appropriate. Their society makes no distinction between individuals, aside from the ability that a given creature has to control others, and they don’t comprehend the emotional aspects of existence that humans and similar beings experience. To a neogi, hatred is as foreign a sensation as love, and showing loyalty in the absence of authority is foolishness.
 
 Neogi mark themselves and those they capture through the use of dyes, transformational magic, and other markings intended to signify rank, achievements, and the identity of the individual’s leader. By these signs, neogi can identify each others’ place in the hierarchy—and they must defer to those of higher station or risk harsh punishment.
 
@@ -1357,12 +1362,11 @@ Bonus Actions
 
 Enslave (Recharges after a Short or Long Rest). The neogi targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be magically charmed by the neogi for 1 day, or until the neogi dies or is more than 1 mile from the target. The charmed target obeys the neogi’s commands and can’t take reactions, and the neogi and the target can communicate telepathically with each other at a distance of up to 1 mile. Whenever the charmed target takes damage, it can repeat the saving throw, ending the effect on itself on a success.
 
+---
+
 Neogi Master
 Neogi masters use magic, as a result of a pact between neogi and aberrant entities they met during their journey from their home world. These entities—known by such names as Acamar, Caiphon, Gibbeth, and Hadar—resemble stars and embody the essence of evil.
 
-Only the malevolent or the desperate do business with neogi. I generally advise against working with beings who view you as property or prey.
-
-—Mordenkainen
 
 NEOGI MASTER
 Medium Aberration (Warlock), Typically Lawful Evil
@@ -1421,6 +1425,8 @@ Bonus Actions
 
 Enslave (Recharges after a Short or Long Rest). The neogi targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be magically charmed by the neogi for 1 day, or until the neogi dies or is more than 1 mile from the target. The charmed target obeys the neogi’s commands and can’t take reactions, and the neogi and the target can communicate telepathically with each other at a distance of up to 1 mile. Whenever the charmed target takes damage, it can repeat the saving throw, ending the effect on itself on a success.
 
+===
+
 Neothelid
 A slime-covered worm of immense size, a neothelid is the result of the mind flayer reproductive cycle gone horribly wrong. When an illithid colony collapses, typically after an external assault, and the elder brain is killed, the colony’s tadpoles are suddenly freed from their fate. They no longer serve as food—and are no longer fed by their caretakers. Driven by hunger, they turn to devouring one another. Only one tadpole survives out of the thousands in the colony’s pool, and it emerges as a neothelid.
 
@@ -1475,6 +1481,7 @@ At will: levitate
 
 1/day each: confusion, feeblemind, telekinesis
 
+===
 
 Nightwalker
 The Negative Plane is a place of death, anathema to all living things. Yet there are some who would tap into its fell power and use its energy for sinister ends. Most individuals prove unequal to the task. Those not destroyed outright are sometimes drawn inside the plane and replaced by nightwalkers—terrifying Undead creatures that devour all life they encounter.
@@ -1534,6 +1541,7 @@ Enervating Focus. Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit
 
 Finger of Doom (Recharge 6). The nightwalker points at one creature it can see within 300 feet of it. The target must succeed on a DC 21 Wisdom saving throw or take 39 (6d12) necrotic damage and become frightened until the end of the nightwalker’s next turn. While frightened in this way, the creature is also paralyzed. If a target’s saving throw is successful, the target is immune to the nightwalker’s Finger of Doom for the next 24 hours.
 
+===
 
 Nilbog
 When Maglubiyet conquered the goblin gods, a trickster deity was determined to get the last laugh. Although Maglubiyet shattered its essence, this trickster god survives in a splintered form as possessing spirits that cause disorder unless they are appeased. Goblins have no name for this deity and dare not give it one, lest Maglubiyet use its name to ensnare and crush it as he did their other deities. They call the possessing spirit, as well as the goblin possessed by it, a nilbog (“goblin” spelled backward), and they revel in the chaos a nilbog sows.
@@ -1600,6 +1608,7 @@ Reactions
 
 Reversal of Fortune. In response to another creature dealing damage to the nilbog, the nilbog reduces the damage to 0 and regains 3 (1d6) hit points.
 
+===
 
 Nupperibo
 No soul is turned away from the Nine Hells, but the truly worthless—those whose evil acts in life arose from carelessness and inaction more than anything else—are suitable only to become nupperibos. These pitiful creatures shuffle across the landscape, driven to purposeful action only when the clouds of swarming vermin that surround them find them prey to destroy or when a greater fiendish power commands it.
@@ -1609,14 +1618,6 @@ Individually, nupperibos are weak, but they’re rarely alone and can be dangero
 A nupperibo knows nothing but the desire to destroy non-Fiends. Once a nupperibo’s vermin cloud senses a potential meal, any nearby nupperibos pursue that prey tirelessly until it or the nupperibos are slain, or some other potential victim crosses the devils’ path and distracts them.
 
 Nupperibos unthinkingly obey any command they receive telepathically from another devil. This blind loyalty makes them the easiest of infernal troops to lead into battle, but their presence in a legion does nothing to elevate its general’s status.
-
-A lemure emerges from the Styx wiped of memory, yet the patterns of evil it performed in life remain indelibly inscribed upon its soul…
-
-But those who lacked ambition cannot climb the hierarchical ladder of the Hells.
-
-They instead step down, becoming nupperibos.
-
-—Mordenkainen
 
 NUPPERIBO
 Medium Fiend (Devil), Typically Lawful Evil
@@ -1661,12 +1662,14 @@ Actions
 
 Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 
+===
 
-Monsters: O
 Oblexes
 By experimenting on the slimes, jellies, and puddings that infest the depths of the Underdark, mind flayers created a special breed of Ooze, the oblex—a slime capable of assaulting the minds of other creatures. These pools of jelly are cunning hunters that feed on thoughts and memories. The sharper the mind, the better the meal, so oblexes hunt targets more likely to be intelligent, such as wizards and other spellcasters. When suitable fare comes within reach, an oblex draws its body up to engulf its victim. As it withdraws, it plunders the creature’s mind, leaving its prey befuddled and confused—or dead.
 
 When oblexes feed on thoughts, they can form weird copies of their prey to use as lures, which helps them harvest even more victims for their mind flayer masters.
+
+---
 
 Oblex Spawn
 An oblex devours memories not only to sustain its existence, but also to spawn new oblexes. Each time it fully drains the memories of a victim, it gains the creature’s personality—now twisted by the oblex’s foul nature. The more memories an oblex steals, the larger it becomes, until it must shed a personality it has absorbed or else become uncontrolled and erratic. This act spawns a new oblex.
@@ -1714,16 +1717,12 @@ Actions
 
 Pseudopod. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) psychic damage.
 
-
-Adult and Elder Oblexes
-Older oblexes, called adults and elders, have eaten so many memories that they can form duplicates of the creatures they have devoured from the substance of their bodies, sending these copies off to lure prey into their clutches while remaining tethered to the slime by long tendrils of goo. These duplicated creatures are indistinguishable from their victims except for a faint sulfurous smell. Oblexes use these duplicates to lead prey into danger or to infiltrate settlements so they can feed on superior victims.
-
-Mind flayers unleash all manner of foul experiments upon the planes with little thought for the consequences. Here, though, I suspect another influence: Juiblex.
-
-—Mordenkainen
-
+---
 
 Adult Oblex
+Older oblexes, called adults and elders, have eaten so many memories that they can form duplicates of the creatures they have devoured from the substance of their bodies, sending these copies off to lure prey into their clutches while remaining tethered to the slime by long tendrils of goo. These duplicated creatures are indistinguishable from their victims except for a faint sulfurous smell. Oblexes use these duplicates to lead prey into danger or to infiltrate settlements so they can feed on superior victims.
+
+
 ADULT OBLEX
 Medium Ooze, Typically Lawful Evil
 
@@ -1783,9 +1782,7 @@ Bonus Actions
 
 Sulfurous Impersonation. The oblex extrudes a piece of itself that assumes the appearance of one Medium or smaller creature whose memories it has stolen. This simulacrum appears, feels, and sounds exactly like the creature it impersonates, though it smells faintly of sulfur. The oblex can impersonate 1d4 + 1 different creatures, each one tethered to its body by a strand of slime that can extend up to 120 feet away. The simulacrum is an extension of the oblex, meaning that the oblex occupies its space and the simulacrum’s space simultaneously. The tether is immune to damage, but it is severed if there is no opening at least 1 inch wide between the oblex and the simulacrum. The simulacrum disappears if the tether is severed.
 
-An oblex wants memories, but not to serve any end of its own making. Oblexes are hungry for memories and personalities because they are empty without such nourishment. In this way they serve their creators, illithids. An oblex in the range of an elder brain’s powers provides everything necessary for the mind flayers to find choice victims.
-
-—Mordenkainen
+---
 
 Elder Oblex
 ELDER OBLEX
@@ -1849,6 +1846,7 @@ Bonus Actions
 
 Sulfurous Impersonation. The oblex extrudes a piece of itself that assumes the appearance of one Medium or smaller creature whose memories it has stolen. This simulacrum appears, feels, and sounds exactly like the creature it impersonates, though it smells faintly of sulfur. The oblex can impersonate 2d6 + 1 different creatures, each one tethered to its body by a strand of slime that can extend up to 120 feet away. The simulacrum is an extension of the oblex, meaning that the oblex occupies its space and the simulacrum’s space simultaneously. The tether is immune to damage, but it is severed if there is no opening at least 1 inch wide between the oblex and the simulacrum. The simulacrum disappears if the tether is severed.
 
+===
 
 Ogres of War
 Ogres love to rush headlong into battle, but with enough time and patience, some of them learn to carry out specialized missions. The names they are given—the battering ram, the bolt launcher, the chain brute, and the howdah—reflect their particular functions. These jobs are tailored to take advantage of an ogre’s strengths.
@@ -1895,6 +1893,7 @@ Reactions
 
 Block the Path. When a creature enters a space within 5 feet of the ogre, the ogre makes a Bash attack against that creature. If the attack hits, the target’s speed is reduced to 0 until the start of the ogre’s next turn.
 
+---
 
 Ogre Bolt Launcher
 A bolt launcher carries a gigantic crossbow—a weapon so large it’s essentially an ogre-held ballista. An ogre bolt launcher can load this immense weapon and loose its deadly missile as quickly as a dwarf handles a crossbow. The bolts are so large that few ogres can carry more than a half dozen at a time, but bolt launchers have been known to uproot small trees or tear beams out of buildings and launch those when their ammunition runs low.
@@ -1931,6 +1930,8 @@ Actions
 Fist. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.
 
 Bolt Launcher. Ranged Weapon Attack: +3 to hit, range 120/480 ft., one target. Hit: 17 (3d10 + 1) piercing damage.
+
+---
 
 Ogre Chain Brute
 An ogre chain brute wields a great spiked chain, swinging it with both hands in a wide circle to knock foes off their feet. Alternatively, the ogre can swing the chain in a crushing overhead smash.
@@ -1970,6 +1971,8 @@ Chain Smash (Recharge 6). Melee Weapon Attack: +6 to hit, reach 10 ft., one targ
 
 Chain Sweep. The ogre swings its chain, and each creature within 10 feet of it must make a DC 14 Dexterity saving throw. On a failed saving throw, a creature takes 8 (1d8 + 4) bludgeoning damage and is knocked prone. On a successful save, the creature takes half as much damage and isn’t knocked prone.
 
+---
+
 Ogre Howdah
 The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding goblins into battle, or perhaps kobolds or deep gnomes (all three appear in the Monster Manual), but they might also transport other Small folk.
 
@@ -2006,6 +2009,7 @@ Actions
 
 Fist. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 
+===
 
 Oinoloth
 Grim specters of death, oinoloths bring pestilence wherever they go. When armies recognize their awful forms, their mere appearance causes soldiers to break ranks and flee, lest they succumb to one of the awful plagues that oinoloths let loose.
@@ -2075,6 +2079,7 @@ Furthermore, when a creature moves into the blighted area or starts its turn the
 
 The poisoned creature can’t regain hit points. After every 24 hours that elapse, the poisoned creature can repeat the saving throw. On a failed save, the creature’s hit point maximum is reduced by 5 (1d10). This reduction lasts until the poison ends, and the target dies if its hit point maximum is reduced to 0. The poison ends after the creature successfully saves against it three times.
 
+===
 
 Orcus
 
@@ -2083,6 +2088,13 @@ Orcus is the Demon Prince of Undeath, also known as the Blood Lord. While he tak
 Orcus rewards those who spread death in his name by granting them a small portion of his power. The least of these become ghouls and zombies (both appear in the Monster Manual) that serve in his legions, while his favored servants are the cultists and necromancers who murder the living and then manipulate the dead, emulating their dread master.
 
 Orcus is a bestial creature of corruption with a diseased, decaying look. He has the lower torso of a goat and a humanlike upper body with a belly swollen with rot. Great bat wings sprout from his shoulders, and his head is like the skull of a goat, the flesh nearly rotted from it. In one hand, he wields the legendary Wand of Orcus, which is described in the Dungeon Master’s Guide.
+
+Cultists of Orcus
+Orcus grants his rank-and-file cultists the Undying Soul trait, and his cult leaders can gain the Aura of Death trait.
+
+Undying Soul (Recharges after a Short or Long Rest). If this creature is reduced to 0 hit points, it immediately makes a DC 10 Constitution saving throw. If it succeeds, it is instead reduced to 1 hit point.
+
+Aura of Death. This creature emanates a deathly aura that extends 30 feet in every direction from its space while it isn’t incapacitated. The aura is blocked by total cover. While in the aura, the creature and any friendly Undead are immune to the frightened condition and have resistance to radiant damage. Enemies have disadvantage on death saving throws while in the aura.
 
 ORCUS
 Huge Fiend (Demon), Chaotic Evil
@@ -2186,12 +2198,7 @@ Undead Beasts. Dead Beasts periodically animate as Undead mockeries of their for
 
 If Orcus dies, these effects fade over the course of 1d10 days.
 
-Cultists of Orcus
-Orcus grants his rank-and-file cultists the Undying Soul trait, and his cult leaders can gain the Aura of Death trait.
-
-Undying Soul (Recharges after a Short or Long Rest). If this creature is reduced to 0 hit points, it immediately makes a DC 10 Constitution saving throw. If it succeeds, it is instead reduced to 1 hit point.
-
-Aura of Death. This creature emanates a deathly aura that extends 30 feet in every direction from its space while it isn’t incapacitated. The aura is blocked by total cover. While in the aura, the creature and any friendly Undead are immune to the frightened condition and have resistance to radiant damage. Enemies have disadvantage on death saving throws while in the aura.
+===
 
 Orthon
 When an archduke of the Nine Hells needs a creature tracked, found, and either done away with or captured, the task usually falls to an orthon. These devils are infernal bounty hunters, tireless in their pursuit of their quarry across the multiverse.
@@ -2259,13 +2266,9 @@ Reactions
 
 Explosive Retribution. In response to dropping to 15 hit points or fewer, the orthon explodes. All other creatures within 30 feet of it must each make a DC 17 Dexterity saving throw, taking 9 (2d8) fire damage plus 9 (2d8) thunder damage on a failed save, or half as much damage on a successful one. The orthon, its infernal dagger, and its brass crossbow are destroyed.
 
+===
 
-Monsters: P
 Phoenix
-To rise like a phoenix from the ashes—so many use that quaint colloquialism. Little do they know about the true horror of such a rebirth.
-
-—Mordenkainen
-
 Releasing a phoenix from the Inner Planes creates an explosion of fire that spreads across the sky. An enormous fiery bird forms in the center of the flames and smoke—an elder Elemental possessed by a need to burn everything to ash. The phoenix rarely stays in one place for long as it strives to transform the world into an inferno.
 
 PHOENIX
@@ -2339,8 +2342,8 @@ Peck. The phoenix makes one Beak attack.
 
 Swoop (Costs 2 Actions). The phoenix moves up to its speed and makes one Fiery Talons attack.
 
+===
 
-Monsters: Q
 Quickling
 Quicklings rocket through twisted forests where the unseelie fey hold sway, both in the Feywild and in the world. These slender Fey resemble miniature elves with feral features and cold eyes that gleam like jewels. Racing faster than the eye can track, they appear as little more than blurry waverings in the air.
 
@@ -2393,8 +2396,8 @@ Multiattack. The quickling makes three Dagger attacks.
 
 Dagger. Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 8 (1d4 + 6) piercing damage.
 
+===
 
-Monsters: R
 Redcap
 A redcap is a homicidal Fey creature born of blood lust. Redcaps, although small, have formidable strength, which they use to hunt and kill without hesitation or regret.
 
@@ -2449,6 +2452,7 @@ Wicked Sickle. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (
 
 Ironbound Pursuit. The redcap moves up to its speed to a creature it can see and kicks with its iron boots. The target must succeed on a DC 14 Dexterity saving throw or take 20 (3d10 + 4) bludgeoning damage and be knocked prone.
 
+===
 
 Retriever
 The retriever is a potent, spider-like Construct conceived and built by Underdark followers of Lolth for one original purpose—to prowl the Abyss and capture demons for these cultists to enslave or use in their rituals. The automatons proved so effective and so fearsome that they now perform many different missions.
@@ -2508,6 +2512,7 @@ Spellcasting. The retriever casts one of the following spells, requiring no mate
 
 3/day each: plane shift (only self and up to one incapacitated creature, which is considered willing for the spell), web
 
+===
 
 Rutterkin
 Rutterkins are warped demons that roam the Abyss in mobs, constantly searching for intruders to surround and devour. These Fiends protect the Abyss from non-demons. When they spot any interlopers, they gather in a crowd and surge forward, emitting a wave of fear in advance of their attacks that leaves their victims terrified and rooted in place.

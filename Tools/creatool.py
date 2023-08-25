@@ -18,6 +18,9 @@ class SubtypedCreature:
         self.subtypes = []
         self.generaldescription = []
 
+    def filename(self):
+        return (self.name).replace(' ','') + ".md"
+
     def parseMD(mdlines):
         "Class-level method to parse a list of strings that contain well-formed Markdown"
         if mdlines[0][0:2] == '# ':
@@ -129,6 +132,8 @@ class Creature:
         self.subtypes = []
         self.alignment = ''
         self.description = []
+        self.environments = []
+        self.token = ''
         self.ac = ''
         self.hp = ''
         self.speed = ''
@@ -155,18 +160,20 @@ class Creature:
         self.legendaryactions = []
         self.lair = None
 
-    def abilitybonus(self, score):
-        return (score // 2) - 5
-
-    def abilitytext(self, score):
-        return f"{score} ({self.abilitybonus(score):+g})"
+    def filename(self):
+        if self.collection != None:
+            return self.collection.filename() + '#' + (self.name).replace('/','').replace(' ','-').lower()
+        else:
+            return self.name.replace(' ','') + ".md"
 
     def parseMD(self, mdlines):
         "Parse a list of strings that contain well-formed Markdown containing a single creature"
 
         linect = 0
         while len(mdlines[linect].strip()) == 0:
-            linect += 1
+            del mdlines[0]
+
+        print("Parsing MD: '" + mdlines[0].strip() + "'")
 
         self.name = mdlines[linect].replace('#', '').strip()
         linect += 1
@@ -364,13 +371,15 @@ class Creature:
         "Parse a row from a SQLite cursor"
         pass
 
-    def linkedname(self):
-        "Return a hyperlink anchor version of this creature's name"
-        return '#' + (self.name).replace('/','').replace(' ','-').lower()
-
     def emitMD(self):
         "Emit this creature description and stat block"
 
+        def abilitybonus(score):
+            return (score // 2) - 5
+
+        def abilitytext(score):
+            return f"{score} ({abilitybonus(score):+g})"
+        
         linebreak = ">___\n"
 
         result  = ""
@@ -391,8 +400,8 @@ class Creature:
         result += linebreak
         result +=  ">|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|\n"
         result +=  ">|:---:|:---:|:---:|:---:|:---:|:---:|\n"
-        result += f">|{self.abilitytext(self.STR)}|{self.abilitytext(self.DEX)}|{self.abilitytext(self.CON)}|"
-        result += f"{self.abilitytext(self.INT)}|{self.abilitytext(self.WIS)}|{self.abilitytext(self.CHA)}|\n"
+        result += f">|{abilitytext(self.STR)}|{abilitytext(self.DEX)}|{abilitytext(self.CON)}|"
+        result += f"{abilitytext(self.INT)}|{abilitytext(self.WIS)}|{abilitytext(self.CHA)}|\n"
         result +=  ">\n"
         result += linebreak
         if isinstance(self.profbonus, str):
@@ -997,14 +1006,11 @@ def main(argv):
         indexstr = ''
         for creature in fulllist:
             if isinstance(creature, SubtypedCreature):
-                indexstr += f"- [{creature.name}]({(creature.name).replace(' ', '')}.md): "
-                indexstr += " | ".join(map(lambda subcrea: f"[{subcrea.name}]({(subcrea.collection.name).replace(' ','')}.md{subcrea.linkedname()})", creature.subtypes))
+                indexstr += f"- [{creature.name}]({creature.filename()}): "
+                indexstr += " | ".join(map(lambda subcrea: f"[{subcrea.name}]({subcrea.filename()})", creature.subtypes))
                 indexstr += "\n"
             else:
-                if creature.collection != None:
-                    indexstr += f"- [{creature.name}]({(creature.collection.name).replace(' ','')}.md{creature.linkedname()})\n"
-                else:
-                    indexstr += f"- [{creature.name}]({(creature.name).replace(' ', '')}.md)\n"
+                indexstr += f"- [{creature.name}]({creature.filename()})\n"
 
         if args.writeindex == '-':
             print(indexstr)

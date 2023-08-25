@@ -15,6 +15,9 @@ The disdain a beholder has for other creatures extends to other beholders. Each 
 
 As alien as their creator, the rooms in a beholder's lair reflect the creature's arrogance. It festoons its chambers with trophies from the battles it has won, including petrified adventurers standing frozen in their horrified final moments, pieces of other beholders, and magic items wrested from powerful foes. A beholder judges its own worth by its acquisitions, and it never willingly parts with its treasures.
 
+### Environment
+Underdark
+
 ---
 
 ## Beholder
@@ -31,7 +34,7 @@ As alien as their creator, the rooms in a beholder's lair reflect the creature's
 >|10 (+0)|14 (+2)|18 (+4)|17 (+3)|15 (+2)|17 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** Int +8,Wis +7,Cha +8
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

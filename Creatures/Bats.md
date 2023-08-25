@@ -79,6 +79,9 @@ The giant bat is a fearsome sight to behold for most folk, and reports of vampir
 ## Swarm of Bats
 The swarm of bats presented here aren't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. A vampire can summon swarms of bats (and rats) from the darkest corners of the night; even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
 
+### Token
+![](Bat-Swarm-Token.png)
+
 >### Swarm of Bats
 >*Medium swarm, unaligned*
 >___

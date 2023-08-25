@@ -7,6 +7,9 @@ Boggles engage in petty pranks to amuse themselves, using the oil they excrete t
 
 A boggle can create magical openings to travel short distances or to pilfer items that would otherwise be beyond its reach. To create such a rift in space, a boggle must be adjacent to a space defined by a frame, such as an open window or a doorway, a gap between the bars of a cage, or the opening between the feet of a bed and the floor. The rift is invisible and disappears after a few seconds--just enough time for the boggle to step, reach, or attack through it.
 
+### Environment
+Forest, Hill, Underdark, Urban
+
 >### Boggle
 >*Small Fey, Typically Chaotic Neutral*
 >___

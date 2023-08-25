@@ -1,6 +1,9 @@
 ## Axe Beak
 An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped beak. It has a nasty disposition and tends to attack any unfamiliar creature that wanders too close.
 
+### Environment
+Grassland, Hill
+
 >### Axe Beak
 >*Large beast, unaligned*
 >___
@@ -13,7 +16,7 @@ An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped
 >|14 (+2)|12 (+1)|12 (+1)|2 (-4)|10 (+0)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

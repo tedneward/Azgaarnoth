@@ -1,6 +1,8 @@
 ## Bodak
 A bodak is the undying remains of someone who revered Orcus (appears in this book). Devoid of life and soul, it exists only to cause death.
 
+![](Bodak.png)
+
 A worshiper of Orcus can take ritual vows while carving the demon lord's symbol on their chest over the heart. Orcus's power flays body, mind, and soul, leaving behind a sentient husk that consumes life energy near it. Most bodaks come into being in this way, then are unleashed to spread death in Orcus's name.
 
 Bodaks are extensions of Orcus's will outside the Abyss, serving the demon prince's aims and other minions. Orcus can recall anything a bodak sees or hears. If he so chooses, he can speak through a bodak to address his enemies and followers directly.

@@ -19,7 +19,7 @@ The bear is a staple of the wilderness, a fearsome predator and fiercely protect
 >|15 (+2)|10 (+0)|14 (+2)|2 (-4)|12 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +1
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -44,6 +44,9 @@ The bear is a staple of the wilderness, a fearsome predator and fiercely protect
 
 ## Brown Bear
 
+### Token
+![](Bear-Brown-Token.png)
+
 >### Brown Bear
 >*Large beast, unaligned*
 >___
@@ -56,7 +59,7 @@ The bear is a staple of the wilderness, a fearsome predator and fiercely protect
 >|19 (+4)|10 (+0)|16 (+3)|2 (-4)|13 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +1
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -82,6 +85,9 @@ The bear is a staple of the wilderness, a fearsome predator and fiercely protect
 ## Cave Bear
 Some bears have adapted to life underground, feeding on subterranean lichen and blind fish. Known as cave bears, these ill-tempered behemoths have coarse, dark hair, and much quicker to attack than their gentler, surface-dwelling cousins.
 
+### Token
+![](Bear-Cave-Token.png)
+
 >### Cave Bear
 >*Large beast, unaligned*
 >___
@@ -94,7 +100,7 @@ Some bears have adapted to life underground, feeding on subterranean lichen and 
 >|20 (+5)|10 (+0)|16 (+3)|2 (-4)|13 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -118,6 +124,9 @@ Some bears have adapted to life underground, feeding on subterranean lichen and 
 
 ## Polar Bear
 
+### Token
+![](Bear-Polar-Token.png)
+
 >### Polar Bear
 >*Large beast, unaligned*
 >___
@@ -130,7 +139,7 @@ Some bears have adapted to life underground, feeding on subterranean lichen and 
 >|20 (+5)|10 (+0)|16 (+3)|2 (-4)|13 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

@@ -1,6 +1,8 @@
 ## Alkilith
 An alkilith is easily mistaken for some kind of foul fungal growth that appears on doorways, windows, and other portals. These dripping infestations conceal the demonic nature of the alkilith, making what should be a dire warning appear strange but otherwise innocuous. Wherever alkiliths take root, they weaken the fabric of reality, creating a portal through which even nastier demons can invade.
 
+![](Alkilith.png)
+
 The appearance of an alkilith in the world heralds a great wrongness and an imminent catastrophe. An alkilith searches for an aperture such as a window or a door around which it can take root, stretching its body around the opening and anchoring itself with a sticky secretion. If left undisturbed, the opening becomes attuned to the Abyss and eventually becomes a portal to that plane (see "Planar Portals" in the Dungeon Master's Guide).
 
 Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex (appears in this book). They gradually become self-aware and seek to find their way onto the Material Plane. Since most cultists consider them too risky to summon--they can, after all, create portals to the Abyss--alkiliths must find other escape routes out of their native plane.

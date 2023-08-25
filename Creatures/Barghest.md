@@ -7,6 +7,9 @@ A barghest hungers for the day when it can complete its mission, return to Gehen
 
 A barghest avoids contact with large, open fires. Any conflagration larger than its body acts as a gateway to Gehenna and banishes it to that plane, where it is likely to be slain or enslaved by a yugoloth for its failure.
 
+### Token
+![](Barghest-Token.png)
+
 >### Barghest
 >*Large Fiend, Typically Neutral Evil*
 >___
