@@ -25,7 +25,7 @@ During the day, meenlocks confine themselves to their dark warrens. At night, th
 >|6 (-2)|15 (+2)|12 (+1)|11 (+0)|10 (+0)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -34,7 +34,7 @@ During the day, meenlocks confine themselves to their dark warrens. At night, th
 >- **Skills** Perception +4,Stealth +6,Survival +2
 >- **Senses** darkvision 120 ft.,passive Perception 14
 >- **Languages** telepathy 120 ft.
->- **Challenge** Rating
+>- **Challenge** 2
 >___
 >***Fear Aura.*** Any beast or humanoid that starts its turn within 10 feet of the meenlock must succeed on a DC 11 Wisdom saving throw or be frightened until the start of the creature's next turn.
 >

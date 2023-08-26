@@ -28,7 +28,9 @@ Some humanoids make the mistake of thinking that the hags' rules of conduct appl
 ***Dark Lairs.*** Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and gloomy swamps. In time, the landscape around a hag's lair reflects the creature's noxiousness, such that the land itself can attack and kill trespassers. Trees twisted by darkness attack passersby, while vines snake through the undergrowth to snare and drag off creatures one at a time. Foul stinking fogs turn the air to poison, and conceal pools of quicksand and sinkholes that consume unwary wanderers.
 
 ### Hag Covens
-When hags must work together, they form covens, in spite of their selfish natures. A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos. The coven can be made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power. 
+When hags must work together, they form covens, in spite of their selfish natures. A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos. The coven can be made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power.
+
+Any hag that is part of a coven has its CR boosted by 2 if encountered in its coven.
 
 While all three members of a hag coven are within 30 feet of one another, they each gain the following action:
 
@@ -173,7 +175,7 @@ A cinder hag possesses the ability to teleport great distances, but only if her 
 >- **Hit Points** 67 (9d8 + 27)
 >- **Speed** 30 ft.
 >___
->|STR|DEX|CON|INT|WIS|CHA|
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|16 (+3)|15 (+2)|12 (+1)|17 (+3)|
 >
@@ -184,7 +186,7 @@ A cinder hag possesses the ability to teleport great distances, but only if her 
 >- **Skills** Deception +6, Intimidation +9, Perception +4, Stealth +5
 >- **Senses** darkvision 60 ft., passive Perception 14
 >- **Languages** Common, Ignan, Sylvan
->- **Challenge** 5 (1,800 XP); 7 (2,900) if part of a [coven](#hag-covens)
+>- **Challenge** 5
 >___
 >***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 >
@@ -220,7 +222,7 @@ When they can't ignite an entire village or town, these hags settle for using th
 >- **Hit Points** 65 (10d8 + 20)
 >- **Speed** 30 ft.
 >___
->|STR|DEX|CON|INT|WIS|CHA|
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|14 (+2)|16 (+3)|13 (+1)|16 (+3)|
 >
@@ -234,7 +236,7 @@ When they can't ignite an entire village or town, these hags settle for using th
 >- **Skills** Arcana +5, Deception +5, Perception +3, Stealth +4
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** Abyssal, Common, Draconic, lgnan
->- **Challenge** 4 (1,100 XP); 6 (2,300 XP) if part of a [coven](#hag-covens)
+>- **Challenge** 4
 >___
 >***Flame Walker.*** The hag and any equipment she is wearing or carrying are immune to the damage dealt by nonmagical fire, and she can breathe ashes, smoke, and the [stinking cloud]() spell without any negative effects.
 >
@@ -268,7 +270,7 @@ When they can't ignite an entire village or town, these hags settle for using th
 >- **Hit Points** 76 (9d10 + 27)
 >- **Speed** 30 ft.
 >___
->|STR|DEX|CON|INT|WIS|CHA|
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|12 (+1)|16 (+3)|12 (+1)|12 (+1)|14 (+2)|
 >
@@ -278,7 +280,7 @@ When they can't ignite an entire village or town, these hags settle for using th
 >- **Skills** Deception +4, Perception +3, Stealth +3, Survival +3
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** Common, Primordial, Sylvan
->- **Challenge** 2 (450 XP); 4 (1,100 XP) if part of a [coven](#hag-covens)
+>- **Challenge** 2
 >___
 >***Desert Dweller.*** The hag is naturally adapted to hot climates and never needs to drink water.
 >
@@ -469,7 +471,7 @@ Some storm hags can animate small clouds to sit and ride upon to fly through the
 >- **Hit Points** 115 (21d6 + 42)
 >- **Speed** 25ft, swimming 40ft
 >___
->|STR|DEX|CON|INT|WIS|CHA|
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|14 (+2)|18 (+4)|15 (+2)|19 (+4)|
 >___
@@ -480,7 +482,7 @@ Some storm hags can animate small clouds to sit and ride upon to fly through the
 >- **Senses** **Senses** darkvision 60 ft., passive Perception 16
 >- **Skills** Arcana +8, Deception +8, Nature +8, Perception +6, Stealth +7
 >- **Languages** Common, Deep Speech, Draconic, Giant, Primordial, Sylvan
->- **Challenge** 10; 12 if part of a [coven](#hag-covens)
+>- **Challenge** 10
 >___
 >***Amphibious.*** The hag can breathe air and water.
 >

@@ -36,7 +36,7 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
 >|18 (+4)|18 (+4)|18 (+4)|17 (+3)|20 (+5)|20 (+5)|
 >
 >___
->- **Proficiency Bonus** 0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Wis +9,Cha +9
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** radiant; bludgeoning,piercing,and slashing from nonmagical attacks
@@ -90,7 +90,7 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
 >|24 (+7)|20 (+5)|24 (+7)|19 (+4)|22 (+6)|25 (+7)|
 >
 >___
->- **Proficiency Bonus** 0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** Con +12,Wis +11,Cha +12
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** radiant; bludgeoning,piercing,and slashing from nonmagical attacks
@@ -144,7 +144,7 @@ It is said that only twenty-four solars exist. The few solars that are known are
 >|26 (+8)|22 (+6)|26 (+8)|25 (+7)|25 (+7)|30 (+10)|
 >
 >___
->- **Proficiency Bonus** 0
+>- **Proficiency Bonus** +7
 >- **Saving Throws** Int +14,Wis +14,Cha +17
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** radiant; bludgeoning,piercing,and slashing from nonmagical attacks

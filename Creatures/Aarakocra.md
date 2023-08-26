@@ -23,7 +23,7 @@ Aarakocra have no concept of political borders or property ownership, and the va
 >|10 (+0)|14 (+2)|10 (+0)|11 (+0)|12 (+1)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** 0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

@@ -29,7 +29,7 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
 >|12 (+1)|12 (+1)|13 (+1)|7 (-2)|10 (+0)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** 0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

@@ -23,7 +23,7 @@ Some alchemists are said to know how to process the basilisk's gullet and the fl
 >|16 (+3)|8 (-1)|15 (+2)|2 (-4)|8 (-1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** 0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

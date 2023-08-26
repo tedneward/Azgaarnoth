@@ -1,7 +1,7 @@
 # Devils
 Devils personify tyranny, with a totalitarian society dedicated to the domination of mortal life. The shadow of the Nine Hells of Baator extends far across the multiverse, and Asmodeus, the dark lord of Nessus, strives to subjugate the cosmos to satisfy his thirst for power. To do so, he must continually expand his infernal armies, sending his servants to the mortal realm to corrupt the souls from which new devils are spawned.
 
-> Jump to: [Bael](#bael) | [Geryon]() | [Amnizu](#amnizu) | [Barbed Devil](#barbed-devil) | [Bearded Devil](#bearded-devil) | [Bone Devil](#bone-devil) | [Chain Devil](#chain-devil) | [Erinyes](#Erinyes) | [Horned Devil](#horned-devil) | [Ice Devil](#ice-devil) | [Imp](#Imp) | [Lemure](#Lemure) | [Pit Fiend](#pit-fiend) | [Spined Devil](#spined-devil)
+> Jump to: [Bael](#bael) | [Geryon]() | [Amnizu](#amnizu) | [Barbed Devil](#barbed-devil) | [Bearded Devil](#bearded-devil) | [Bone Devil](#bone-devil) | [Chain Devil](#chain-devil) | [Erinyes](#Erinyes) | [Horned Devil](#horned-devil) | [Ice Devil](#ice-devil) | [Imp](#Imp) | [Lemure](#Lemure) | [Merregon]() | [Pit Fiend](#pit-fiend) | [Spined Devil](#spined-devil)
 
 ***Lords of Tyranny.*** Devils live to conquer, enslave, and oppress. They take perverse delight in exercising authority over the weak, and any creature that defies the authority of a devil faces swift and cruel punishment. Every interaction is an opportunity for a devil to display its power, and all devils have a keen understanding of how to use and abuse their power.
 
@@ -378,12 +378,12 @@ Some amnizus perform the critical task of watching over the River Styx from fort
 
 ---
 
-## Barbed Devil (Hamatula)
+## Barbed Devil
 Creatures of unbridled greed and desire, barbed devils act as guards to the more powerful denizens of the Nine Hells and their vaults. Resembling a tall humanoid covered in sharp barbs, spines, and hooks, a barbed devil has gleaming eyes that are ever watchful for objects and creatures it might claim for itself. These fiends welcome any chance to fight when victory promises reward.
 
 Barbed devils are known for an alertness that makes them difficult to surprise, and they attend to their duties without boredom or distraction. They use their sharp claws as weapons or hurl balls of flame at foes that try to flee them.
 
->### Barbed Devil
+>### Barbed Devil (Hamatula)
 >*Medium fiend (devil), lawful evil*
 >___
 >- **Armor Class** 15 (natural armor)
@@ -426,12 +426,12 @@ Barbed devils are known for an alertness that makes them difficult to surprise, 
 
 ---
 
-## Bearded Devil (Barbazu)
+## Bearded Devil
 Bearded devils serve archdevils as shock troops, fighting shoulder-to-shoulder and reveling in the glory of battle. They respond with violence to any slight, real or imagined, gorging themselves on violence as their infernal saw-toothed glaives carve a path through their foes.
 
 A bearded devil is humanoid in form, with pointed ears, scaly skin, a long tail, and claws that clearly show its fiendish nature. These devils take their names from the snakelike growths that adorn their chins, which they use to lash and poison enemies, weakening them with their virulent venom.
 
->### Bearded Devil
+>### Bearded Devil (Barbazu)
 >*Medium fiend (devil), lawful evil*
 >___
 >- **Armor Class** 13 (natural armor)
@@ -469,20 +469,19 @@ A bearded devil is humanoid in form, with pointed ears, scaly skin, a long tail,
 
 ---
 
-## Bone Devil (Osyluth)
+## Bone Devil
 Driven by hate, lust, and envy, bone devils act as the cruel taskmasters of the Nine Hells. They set weaker devils to work, taking special delight in seeing fiends that defy them demoted. At the same time, they long for promotion and are bitterly envious of their superiors, attempting to curry favor though it irks them to do so.
 
 A bone devil appears as a humanoid husk, with dried skin stretched tight across its skeletal frame. It bears a fearsome skull-like head and the tail of a scorpion, and a foul odor of decay hangs in the air around it. Though they are devastating in combat with their claws, bone devils also wield hooked polearms made of bone, which they use to subdue enemies before striking with their venomous tails.
 
-VARIANT: BONE DEVIL POLEARM
-
+### Bone Devil Polearm
 Some bone devils have the following action options.
 
 ***Multiattack.*** The devil makes two attacks: one with its hooked polearm and one with its sting.
 
 ***Hooked Polearm.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 17 (2d12 + 4) piercing damage. If the target is a Huge or smaller creature, it is grappled (escape DC 14). Until this grapple ends, the devil can't use its polearm on another target.
 
->### Bone Devil
+>### Bone Devil (Osyluth)
 >*Large fiend (devil), lawful evil*
 >___
 >- **Armor Class** 19 (natural armor)
@@ -521,12 +520,12 @@ Some bone devils have the following action options.
 
 ---
 
-## Chain Devil (Kyton)
+## Chain Devil
 This ominous fiend wears chains like a shroud. Driving lesser creatures before it with its fearsome gaze, a chain devil animates the chains that cover its body as well as inanimate chains nearby, which sprout hooks, blades, and spikes to eviscerate enemies.
 
 Chain devils act as sadistic jailers and torturers in the infernal realms, relishing pain and living to inflict it on others. They are called on to torment mortal souls trapped in the Nine Hells, inflicting their sadistic fury on the horrid lemures in which those souls manifest.
 
->### Chain Devil
+>### Chain Devil (Kyton)
 >*Medium fiend (devil), lawful evil*
 >___
 >- **Armor Class** 16 (natural armor)
@@ -616,12 +615,12 @@ Legends tell that the first erinyes were angels that fell from the Upper Planes 
 
 ---
 
-## Horned Devil (Malebranche)
+## Horned Devil
 Horned devils are lazy to the point of belligerence and reluctant to put themselves in harm's way. Moreover, they hate and fear any creature stronger than themselves. When they are sufficiently provoked or antagonized, the fury of these fiends can be terrifying.
 
 A malebranche stands as tall as an ogre and is sheathed in scales as tough as iron. The flying infantry of the hellish legions, horned devils follow orders to the letter. Their huge wings and sweeping horns create an intimidating presence as they drop from the sky and strike with deadly forks and lashing tails.
 
->### Horned Devil
+>### Horned Devil (Malebranche)
 >*Large fiend (devil), lawful evil*
 >___
 >- **Armor Class** 18 (natural armor)
@@ -662,12 +661,12 @@ A malebranche stands as tall as an ogre and is sheathed in scales as tough as ir
 
 ---
 
-## Ice Devil (Gelugon)
+## Ice Devil
 Found most commonly on the cold layers of Stygia and Cania, ice devils serve as commanders of the infernal armies of the Nine Hells, tormenting lesser devils as an outlet for their anger and resentment. Coveting the power of their pit fiend superiors, ice devils work ceaselessly toward promotion, slaughtering the enemies of the Nine Hells and claiming as many souls as they can for their archdevil masters.
 
 Resembling a giant bipedal insect, an ice devil has clawed hands and feet, powerful mandibles, and a long tail covered in razor-sharp spikes. Some carry barbed spears whose icy touch can render a foe all but helpless in combat.
 
->### Ice Devil
+>### Ice Devil (Gelugon)
 >*Large fiend (devil), lawful evil*
 >___
 >- **Armor Class** 18 (natural armor)
@@ -720,9 +719,8 @@ Imps are found throughout the Lower Planes, either running errands for their inf
 
 An imp can assume animal form at will, but in its natural state it resembles a diminutive red-skinned humanoid with a barbed tail, small horns, and leathery wings. It strikes while invisible, attacking with its poison stinger.
 
-VARIANT: IMP FAMILIAR
-
-Imps can be found in the service to mortal spellcasters, acting as advisors, spies, and familiars. An imp urges its master to acts of evil, knowing the mortal's soul is a prize the imp might ultimately claim. Imps display an unusual loyalty to their masters, and an imp can be quite dangerous if its master is threatened. Some such imps have the following trait.
+### Imp Familiars
+Imps can be found in the service to mortal spellcasters, acting as advisors, spies, and familiars. An imp urges its master to acts of evil, knowing the mortal's soul is a prize the imp might ultimately claim. Imps display an unusual loyalty to their masters, and an imp can be quite dangerous if its master is threatened. Some such imps have the following trait:
 
 ***Familiar.*** The imp can enter into a contract to serve another creature as a familiar, forming a telepathic bond with its willing master. While the two are bonded, the master can sense what the imp senses as long as they are within 1 mile of each other. While the imp is within 10 feet of its master, the master shares the imp's Magic Resistance trait. If its master violates the terms of the contract, the imp can end its service as a familiar, ending the telepathic bond.
 
@@ -801,6 +799,53 @@ A lemure resembles a molten mass of flesh with a vaguely humanoid head and torso
 
 ---
 
+## Merregon
+The souls of fallen soldiers, mercenaries, and bodyguards who served evil without reservation often find everlasting servitude in the Nine Hells as merregons. These faceless foot soldiers are the Hells' legionnaires, tasked with protecting their infernal plane and its rulers against intruders.
+
+Merregons have no individuality and hence no need for faces. Every merregon legionnaire has a metal mask bolted to its head. Markings on the mask indicate the only elements of the wearer's identity that matter: the commander it serves and the layer of the Nine Hells it protects.
+
+Because of their unshakable loyalty, merregons form the backbone of many devils' protective retinues. They shrink from no task, no matter how dangerous. Unless ordered to fall back, they never retreat from a fight.
+
+>### Merregon
+>*Medium Fiend (Devil), Typically Lawful Evil*
+>___
+>- **Armor Class** 16 (natural armor)
+>- **Hit Points** 45 (6d8 + 18)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|14 (+2)|17 (+3)|6 (-2)|12 (+1)|8 (-1)|
+>
+>___
+>- **Proficiency Bonus** +2
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold; bludgeoning,piercing,and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities** fire,poison
+>- **Condition Immunities** frightened,poisoned
+>- **Skills** 
+>- **Senses** darkvision 60 ft.,passive Perception 11
+>- **Languages** understands Infernal but can't speak,telepathy 120 ft.
+>- **Challenge** 4
+>___
+>***Devil's Sight.*** Magical darkness doesn't impede the merregon's darkvision.
+>
+>***Magic Resistance.*** The merregon has advantage on saving throws against spells and other magical effects.
+>
+>#### Actions
+>***Multiattack.*** The merregon makes three Halberd attacks.
+>
+>***Halberd.*** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) slashing damage.
+>
+>***Heavy Crossbow.*** Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. Hit: 7 (1d10 + 2) piercing damage.
+>
+>#### Reactions
+>***Loyal Bodyguard.*** When another Fiend within 5 feet of the merregon is hit by an attack roll, the merregon causes itself to be hit instead.
+>
+
+---
+
 ## Pit Fiend
 The undisputed lords of most other devils, pit fiends attend the archdukes and archduchesses of the Nine Hells and carry out their wishes. These mighty devils are the generals of the Nine Hells, leading its infernal legions into battle.
 
@@ -859,7 +904,7 @@ A pit fiend is a hulking monster with a whip-like tail and enormous wings that i
 
 ---
 
-## Spined Devil (Spinagon)
+## Spined Devil
 
 Smaller than most other devils, spinagons act as messengers and spies for greater devils and archdevils. They are the eyes and ears of the Nine Hells, and even fiends that despise a spined devil's weakness treat it with a modicum of respect.
 
@@ -867,7 +912,7 @@ A spined devil's body and tail bristle with spines, and it can fling its tail sp
 
 When not delivering messages or gathering intelligence, spined devils serve in the infernal legions as flying artillery, making up for their relative weakness by mobbing together to overwhelm their foes. Though they crave promotion and power, spined devils are craven by nature, and they will quickly scatter if a fight goes against them.
 
->### Spined Devil
+>### Spined Devil (Spinagon)
 >*Small fiend (devil), lawful evil*
 >___
 >- **Armor Class** 13 (natural armor)

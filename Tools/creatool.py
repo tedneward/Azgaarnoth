@@ -81,7 +81,7 @@ class SubtypedCreature:
         #def linkify(string):
         #    return '#' + string.replace('/','').replace(' ','-').lower()
         
-        subtypejumplinks = " | ".join(map(lambda st: f'[{st.name}]({st.linkedname})', self.subtypes))
+        subtypejumplinks = " | ".join(map(lambda st: f'[{st.name}]({st.filename()})', self.subtypes))
 
         results  = f'# {self.name}\n'
         results += self.generaldescription[0] + '\n'
@@ -133,7 +133,7 @@ class Creature:
         self.alignment = ''
         self.description = []
         self.environments = []
-        self.token = ''
+        self.tokenlink = ''
         self.ac = ''
         self.hp = ''
         self.speed = ''
@@ -173,8 +173,6 @@ class Creature:
         while len(mdlines[linect].strip()) == 0:
             del mdlines[0]
 
-        print("Parsing MD: '" + mdlines[0].strip() + "'")
-
         self.name = mdlines[linect].replace('#', '').strip()
         linect += 1
 
@@ -189,6 +187,17 @@ class Creature:
                         ttext = Creature.TitledText()
                         ttext.parse(line)
                         self.description.append(ttext)
+                    elif line[0:3] == '###':
+                        # May be a special block
+                        if line == '### Environment':
+                            # Environments can be Arctic, Astral, Coastal, Desert, 
+                            # Ethereal, Exotic, Forest, Grassland, Hill, Mountain, 
+                            # Swamp, Underdark, Underwater, Urban
+                            linect += 1
+                            self.environments = mdlines[linect].strip().split(",")
+                        elif line == '### Token':
+                            linect += 1
+                            self.tokenlink = mdlines[linect].strip()
                     else:
                         self.description.append(line)
                 linect += 1
@@ -337,13 +346,13 @@ class Creature:
             elif line == '#### Bonus Actions': block = self.bonusactions
             elif line == '#### Reactions': block = self.reactions
             elif line == '#### Legendary Actions': block = self.legendaryactions
-            elif line == '### Lair Actions':
+            elif line == '#### Lair Actions':
                 linect += 1
                 line = mdlines[linect].strip()
                 self.lair.lairtext = line
 
                 block = self.lair.lairactions
-            elif line == '### Regional Effects': 
+            elif line == '#### Regional Effects': 
                 linect += 1
 
                 line = mdlines[linect].strip()
@@ -367,6 +376,30 @@ class Creature:
 
             linect += 1
 
+        # Closing out and fixups
+        if len(self.environments) < 1:
+            self.environments.append('(FIXME)')
+        if self.tokenlink == '':
+            self.tokenlink = '![](' + self.filename()[0:-2] + '-Token.png)'
+        if self.profbonus == '0' or self.profbonus == '+0':
+            print("WARNING: " + self.name + " lacking ProfBonus; CR = " + self.cr, end='')
+            pbs = {
+                '+2': ['0', '1/8', '1/4', '1/2', '1', '2', '3', '4'],
+                '+3': ['5', '6', '7', '8'],
+                '+4': ['9', '10', '11', '12'],
+                '+5': ['13', '14', '15', '16'],
+                '+6': ['17', '18', '19', '20'],
+                '+7': ['21', '22', '23', '24'],
+                '+8': ['25', '26', '27', '28'],
+                '+9': ['29', '30']
+            }
+            cr = self.cr.strip()
+            for (pb, pbcrs) in pbs.items():
+                if cr in pbcrs:
+                    print("; setting to " + pb)
+                    self.profbonus = pb
+                    break
+
     def parserow(self, sqlrow):
         "Parse a row from a SQLite cursor"
         pass
@@ -385,7 +418,18 @@ class Creature:
         result  = ""
         result += f"## {self.name}\n"
         for descrip in self.description:
-            result += str(descrip) + '\n\n'
+            result += str(descrip) + '\n'
+        result += '\n'
+
+        if len(self.environments) > 0:
+            result += "### Environment\n"
+            result += ",".join(self.environments) + "\n"
+            result += "\n"
+
+        if self.tokenlink != '':
+            result += "### Token\n"
+            result += self.tokenlink + "\n"
+            result += "\n"
 
         result += f">### {self.name}\n"
 
@@ -918,9 +962,10 @@ def main(argv):
     parser.add_argument('--lint', help='Warn about non-normalized data')
     # Filter the current set by one or more options
     #parser.add_argument('--filter', help='Filter the source set') # When I figure out an expression language to use
-    parser.add_argument('--filteralignment', help='Filter the source set by alignment')
-    parser.add_argument('--filtercr', help='Filter the source set by Challenge Rating')
-    parser.add_argument('--filtertype', choices=['construct', 'elemental', 'fey', 'fiend', 'humanoid', 'undead'], help='Filter the source set by type')
+    parser.add_argument('--filteralignment', help='TODO: Filter the source set by alignment')
+    parser.add_argument('--filtercr', help='TODO: Filter the source set by Challenge Rating')
+    parser.add_argument('--filterenv', choices=['Arctic', 'Coastal', 'Desert', 'Forest', 'Grassland', 'Hill', 'Mountain', 'Swamp', 'Underdark', 'Underwater', 'Urban'], help='TODO: Filter the source set by Environment')
+    parser.add_argument('--filtertype', choices=['construct', 'elemental', 'fey', 'fiend', 'humanoid', 'undead'], help='TODO: Filter the source set by type')
     # Apply templates to the filtered creatures
     parser.add_argument('--apply', choices=['ghostly', 'skeletal', 'zombie'], help='TODO: Apply a template to the current list of creatures')
     parser.add_argument('--list', help='Print out the current set of creatures')

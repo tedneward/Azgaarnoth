@@ -1,7 +1,7 @@
 # Yugoloths
 Yugoloths are fickle fiends that inhabit the planes of Acheron, Gehenna, Hades, and Carceri. They act as mercenaries and are notorious for their shifting loyalties. They are the embodiments of avarice. Before serving under anyone's banner, a yugoloth asks the only question on its mind: What's in it for me?
 
-> Jump to: [Arcanaloth](#arcanaloth) | [Canoloth](#canoloth) | [Dhergoloth](#dhergoloth) | [Hydroloth](#hydroloth) | [Mezzoloth](#mezzoloth) | [Nycaloth](#nycaloth) | [Ultroloth](#ultroloth)
+> Jump to: [Arcanaloth](#arcanaloth) | [Canoloth](#canoloth) | [Dhergoloth](#dhergoloth) | [Hydroloth](#hydroloth) | [Merrenoloth]() | [Mezzoloth](#mezzoloth) | [Nycaloth](#nycaloth) | [Ultroloth](#ultroloth)
 
 ***Spawn of Gehenna.*** The first yugoloths were created by a sisterhood of night hags on Gehenna. It is widely believed that Asmodeus, Lord of the Nine Hells, commissioned the work, in the hope of creating an army of fiends that were not bound to the Nine Hells. In the course of making this new army, the hags crafted four magic tomes and recorded the true names of every yugoloth they created, save one, the General of Gehenna. These tomes were called the Books of Keeping. Since knowing a fiend's true name grants power over it, the hags used the books to ensure the yugoloths' loyalty. They also used the books to capture the true names of other fiends that crossed them. It is rumored that the Books of Keeping contain the true names of a few demon lords and archdevils as well.
 
@@ -239,6 +239,74 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
 >
 >***Teleport.*** The hydroloth teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 >
+
+---
+
+## Merrenoloth
+The grim captains of the ferries on the River Styx, merrenoloths can navigate safely through the worst storms and always stay on course. Wielding fiery oars, merrenoloths strike fear into anyone who forcefully boards their vessels.
+
+>### Merrenoloth
+>*Medium Fiend (Yugoloth), Typically Neutral Evil*
+>___
+>- **Armor Class** 13
+>- **Hit Points** 40 (9d8)
+>- **Speed** 30 ft., swim 40 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|17 (+3)|10 (+0)|17 (+3)|14 (+2)|11 (+0)|
+>
+>___
+>- **Proficiency Bonus** +2
+>- **Saving Throws** Dex +5,Int +5
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold,fire,lightning; bludgeoning,piercing,and slashing from nonmagical attacks
+>- **Damage Immunities** acid,poison
+>- **Condition Immunities** poisoned
+>- **Skills** History +5,Nature +5,Perception +4,Survival +4
+>- **Senses** blindsight 60 ft.,darkvision 60 ft.,passive Perception 14
+>- **Languages** Abyssal,Infernal,telepathy 60 ft.
+>- **Challenge** 3
+>___
+>***Magic Resistance.*** The merrenoloth has advantage on saving throws against spells and other magical effects.
+>
+>#### Actions
+>***Multiattack.*** The merrenoloth makes one Oar attack and uses Fear Gaze.
+>
+>***Oar.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) fire damage.
+>
+>***Fear Gaze.*** The merrenoloth targets one creature it can see within 60 feet of it. The target must succeed on a DC 13 Wisdom saving throw or become frightened of the merrenoloth for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>
+>***Spellcasting.*** The merrenoloth casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 13):
+>
+>At will: charm person, darkness, detect magic, dispel magic, gust of wind
+>
+>3/day: control water
+>
+>#### Bonus Actions
+>***Teleport.*** The merrenoloth teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+>
+
+### A Merrenoloth's Lair
+The merrenoloth's lair is its vessel, and its lair effects extend in a radius centered on whatever location the vessel currently occupies.
+
+#### Lair Actions
+On initiative count 20 (losing initiative ties) while captaining a vessel, the merrenoloth can take one of the following lair actions; it can't take the same lair action two rounds in a row:
+
+* **Gale.** The air within 60 feet of the vessel is filled with wind. Until initiative count 20 on the next round, that area is difficult terrain, and when a Medium or smaller creature flies into that area or starts its turn flying there, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+
+* **Propel.** A strong wind propels the vessel, increasing its speed by 30 feet until initiative count 20 on the next round.
+
+* **Repair.** The vessel regains 22 (4d10) hit points.
+
+#### Regional Effects
+A merrenoloth imbues its vessel with magic that creates one or more of the following effects:
+
+* **Unerring.** The vessel always stays on course to the destination the merrenoloth names.
+
+* **Unsinkable.** The vessel doesn't sink even if its hull is breached.
+
+If the merrenoloth dies, these effects fade over the course of 1d6 hours.
 
 ---
 

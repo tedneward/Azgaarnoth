@@ -23,7 +23,7 @@ All creatures shun bulettes, which treat anything that moves as food — even ot
 >|19 (+4)|11 (+0)|21 (+5)|2 (-4)|10 (+0)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** 0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
