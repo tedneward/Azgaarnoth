@@ -37,7 +37,7 @@ Few liches call themselves by their former names, instead adopting monikers such
 >|11 (+0)|16 (+3)|16 (+3)|20 (+5)|14 (+2)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +6
 >- **Saving Throws** Con +10,Int +12,Wis +9
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,lightning,necrotic
@@ -52,37 +52,27 @@ Few liches call themselves by their former names, instead adopting monikers such
 >
 >***Rejuvenation.*** If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.
 >
->***Spellcasting.*** The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:
->
->Cantrips (at will): mage hand, prestidigitation, ray of frost
->
->1st level (4 slots): detect magic, magic missile, shield, thunderwave
->
->2nd level (3 slots): detect thoughts, invisibility, Melf’s acid arrow, mirror image
->
->3rd level (3 slots): animate dead, counterspell, dispel magic, fireball
->
->4th level (3 slots): blight, dimension door
->
->5th level (3 slots): cloudkill, scrying
->
->6th level (1 slot): disintegrate, globe of invulnerability
->
->7th level (1 slot): finger of death, plane shift
->
->8th level (1 slot): dominate monster, power word stun
->
->9th level (1 slot): power word kill
->
 >***Turn Resistance.*** The lich has advantage on saving throws against any effect that turns undead.
 >
 >#### Actions
 >***Paralyzing Touch.*** Melee Spell Attack: +12 to hit, reach 5 ft., one creature. Hit: 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
+>***Spellcasting.*** The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:
+>* Cantrips (at will): mage hand, prestidigitation, ray of frost
+>* 1st level (4 slots): detect magic, magic missile, shield, thunderwave
+>* 2nd level (3 slots): detect thoughts, invisibility, Melf’s acid arrow, mirror image
+>* 3rd level (3 slots): animate dead, counterspell, dispel magic, fireball
+>* 4th level (3 slots): blight, dimension door
+>* 5th level (3 slots): cloudkill, scrying
+>* 6th level (1 slot): disintegrate, globe of invulnerability
+>* 7th level (1 slot): finger of death, plane shift
+>* 8th level (1 slot): dominate monster, power word stun
+>* 9th level (1 slot): power word kill
+>
 >#### Legendary Actions
 >The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The lich regains spent legendary actions at the start of its turn.
 >
->***Cantrip.*** The lich casts a cantrip.
+>***Spellcasting.*** The lich casts a spell or cantrip.
 >
 >***Paralyzing Touch (Costs 2 Actions).*** The lich uses its Paralyzing Touch.
 >

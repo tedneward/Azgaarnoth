@@ -1,4 +1,4 @@
-# Wasp
+# Wasps
 Typically, the wasp is of no threat, but its larger kin, or a lot of them, can be unnerving--and deadly.
 
 > Jump to: [Giant Wasp](#giant-wasp) | [Swarm of Wasps](#swarm-of-wasps)

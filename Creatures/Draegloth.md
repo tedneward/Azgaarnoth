@@ -1,16 +1,14 @@
 ## Draegloth
-A draegloth is a half-drow, half-glabrezu demon, born of a drow high priestess in an unholy, dangerous ritual. Gifted with innate magic and physical might, it usually remains in the service of its mother's house, lending its thirst for destruction to that house's plans to triumph over its rivals.
+A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a glabrezu. This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
 
-A draegloth is an ogre-sized, four-armed humanoid with purple-black skin and yellow-white hair. Two of its arms are huge and muscular, tipped with sharp claws; the other two are the size and shape of drow arms, capable of delicate movements. Although the creature is heavily muscled, it is graceful and quiet like a drow. Its face is clearly demonic, with bestial features, glowing red eyes, an elongated doglike snout, and a mouth full of sharp teeth.
+A draegloth is an ogre-sized, four-armed biped with purple skin and pale hair. Two of its arms are muscular, tipped with sharp claws; the other two are the size and shape of an elf's arms, capable of delicate movements. Although the creature is heavily muscled, it is graceful like an elf. Its bestial face features glowing red eyes, a doglike snout, and a mouth full of sharp teeth.
 
-***Blessing on the House.***. The ritual to create a draegloth succeeds only rarely, but when it does, it is a great event that is seen by the drow of the house as a sign of the demon lord Lolth's favor -- and a sign of Lolth's disregard for the family's rivals, which were not thus gifted. The birth prompts the leaders of the house to begin crafting new plans to strike at its rivals when the draegloth is fully grown. These plans always use the draegloth in a significant role, because its abilities can turn the tide in a battle against a house that doesn't have a draegloth of its own.
+Among the drow noble houses of Menzoberranzan in the Forgotten Realms, a high priestess's successful creation of a draegloth is seen as a sign of Lolth's favor toward her house--and a sign of the demon lord's disregard for the family's rivals, who were not thus gifted. The creation prompts the leaders of the house to begin crafting new plans to strike at its rivals when the draegloth is fully grown. These plans use the draegloth in a significant role, because its abilities can turn the tide in a battle against a house that doesn't have a draegloth of its own.
 
-***Subservient Enforcers.***. Although it plays an important part in the welfare of its house, a draegloth can't rise above the status of a favored slave or a consort to a priestess. Before a draegloth is given any duties, it receives instruction in accepting the role set for it and not challenging authority. Draegloths instinctively resist this sort of treatment, but most of them take out their frustration on their house's enemies. A draegloth that can't suppress its ambitions might abandon its house and strike out on its own. Whether these rebellious draegloths are part of Lolth's plan for sowing even greater chaos is unclear.
-
-***Brute Cunning and Dark Magic.***. A draegloth loves the feeling of tearing opponents apart with its claws and teeth and of wielding the magic that courses through its veins. Most are too impatient to bother with complicated tactics, but a few go on to learn more destructive magic.
+Although draegloths plays an important part in the plans of Lolth's cult, a draegloth can't rise above the status of a favored servant to a priest in that cult. Before a draegloth is given any duties, it receives instruction in accepting the role set for it and not challenging authority. Most draegloths fiercely resent being given orders, but thanks to their training, they typically take out their frustration on their creator's enemies, rather than on their creator. A draegloth that can't suppress its ambitions might abandon its creator and strike out on its own. Whether these rebellious draegloths are part of Lolth's plan for sowing chaos is unclear.
 
 >### Draegloth
->*Large fiend (demon), chaotic evil*
+>*Large Fiend (Demon), Typically Chaotic Evil*
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 123 (13d10 + 52)
@@ -21,7 +19,7 @@ A draegloth is an ogre-sized, four-armed humanoid with purple-black skin and yel
 >|20 (+5)|15 (+2)|18 (+4)|13 (+1)|11 (+0)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning
@@ -32,18 +30,18 @@ A draegloth is an ogre-sized, four-armed humanoid with purple-black skin and yel
 >- **Languages** Abyssal,Elvish,Undercommon
 >- **Challenge** 7
 >___
->***Fey Ancestry.***. The draegloth has advantage on saving throws against being charmed, and magic can't put it to sleep.
->
->***Innate Spellcasting.***. The draegloth's innate spellcasting ability is Charisma (spell save DC 11). The draegloth can innately cast the following spells, requiring no material components:
->
->At will: darkness
->
->1/day each: confusion, dancing lights, faerie fire
+>***Fey Ancestry.*** The draegloth has advantage on saving throws against being charmed, and magic can't put it to sleep.
 >
 >#### Actions
->***Multiattack.***. The draegloth makes three attacks: one with its bite and two with its claws.
+>***Multiattack.*** The draegloth makes one Bite attack and two Claw attacks.
 >
->***Bite.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 16 (2d10 + 5) piercing damage.
+>***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 16 (2d10 + 5) piercing damage.
 >
->***Claws.***. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) slashing damage.
+>***Claw.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) slashing damage.
+>
+>***Spellcasting.*** The draegloth casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 11):
+>
+>At will: dancing lights, darkness
+>
+>1/day each: confusion, faerie fire
 >

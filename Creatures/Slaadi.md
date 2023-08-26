@@ -256,7 +256,7 @@ In their normal form, brown slaadi are ...
 
 Brown slaadi are some of the least chaotic slaadi in their temperament and actions, but when they act, they often do so determinedly and unwaveringly, heedless of the outcome. Browns are often desirable to death slaadi as underlings, as they will resolutely carry out whatever mission they are assigned, but often they lack creativity to work around obstacles--they'd rather plow right through them.
 
-***TODO.***. Much work remains to be done on this one.
+***TODO.*** Much work remains to be done on this one.
 
 >### Brown Slaad
 >*medium aberration, chaotic neutral*
@@ -281,9 +281,9 @@ Brown slaadi are some of the least chaotic slaadi in their temperament and actio
 >- **Languages** Slaad,Terran,Telepathy 60 ft.
 >- **Challenge** 10
 >___
->***Shapechanger.***. The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+>***Shapechanger.*** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 >
->***Innate Spellcasting.***. The slaad's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The slaad's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:
 >
 >At will: detect magic, detect thoughts, invisibility (self only), mage hand, major image
 >
@@ -291,20 +291,20 @@ Brown slaadi are some of the least chaotic slaadi in their temperament and actio
 >
 >1/day each: cloudkill, plane shift
 >
->***Magic Resistance.***. The slaad has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.***. The slaad's weapon attacks are magical.
+>***Magic Weapons.*** The slaad's weapon attacks are magical.
 >
->***Regeneration.***. The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
+>***Regeneration.*** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
 >
 >#### Actions
->***Multiattack.***. The slaad makes three attacks: one with its bite and two with its claws. Alternatively, it uses its Hurl Flame twice.
+>***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws. Alternatively, it uses its Hurl Flame twice.
 >
->***Bite (Slaad Form Only).***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) fire damage.
+>***Bite (Slaad Form Only).*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) fire damage.
 >
->***Claws (Slaad Form Only).***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) fire damage.
+>***Claws (Slaad Form Only).*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) fire damage.
 >
->***Hurl Stone.***. Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 22 (5d6) bludgeoning damage. The stone may cause structural damage to any location on a miss, and on a hit may push the target back by 5ft if they fail a CON save at DC 15.
+>***Hurl Stone.*** Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 22 (5d6) bludgeoning damage. The stone may cause structural damage to any location on a miss, and on a hit may push the target back by 5ft if they fail a CON save at DC 15.
 >
 
 ---
@@ -314,7 +314,7 @@ The cyan slaad are slaad that are infused with essence of elemental Water, born 
 
 In their normal form, cyan slaadi are ...
 
-***TODO.***. Much work remains to be done on this one.
+***TODO.*** Much work remains to be done on this one.
 
 >### Cyan Slaad
 >*medium aberration, chaotic neutral*
@@ -339,9 +339,9 @@ In their normal form, cyan slaadi are ...
 >- **Languages** Slaad,Terran,Telepathy 60 ft.
 >- **Challenge** 10
 >___
->***Shapechanger.***. The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+>***Shapechanger.*** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 >
->***Innate Spellcasting.***. The slaad's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The slaad's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:
 >
 >At will: detect magic, detect thoughts, invisibility (self only), mage hand, major image
 >
@@ -349,20 +349,20 @@ In their normal form, cyan slaadi are ...
 >
 >1/day each: cloudkill, plane shift
 >
->***Magic Resistance.***. The slaad has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.***. The slaad's weapon attacks are magical.
+>***Magic Weapons.*** The slaad's weapon attacks are magical.
 >
->***Regeneration.***. The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
+>***Regeneration.*** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
 >
 >#### Actions
->***Multiattack.***. The slaad makes three attacks: one with its bite and two with its claws. Alternatively, it uses its Hurl Flame twice.
+>***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws. Alternatively, it uses its Hurl Flame twice.
 >
->***Bite (Slaad Form Only).***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) fire damage.
+>***Bite (Slaad Form Only).*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) fire damage.
 >
->***Claws (Slaad Form Only).***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) fire damage.
+>***Claws (Slaad Form Only).*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) fire damage.
 >
->***Hurl Stone.***. Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 22 (5d6) bludgeoning damage. The stone may cause structural damage to any location on a miss, and on a hit may push the target back by 5ft if they fail a CON save at DC 15.
+>***Hurl Stone.*** Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 22 (5d6) bludgeoning damage. The stone may cause structural damage to any location on a miss, and on a hit may push the target back by 5ft if they fail a CON save at DC 15.
 >
 
 ---
@@ -372,7 +372,7 @@ The indigo slaad are slaad that are infused with essence of elemental Air, born 
 
 In their normal form, indigo slaadi are ...
 
-***TODO.***. Much work remains to be done on this one.
+***TODO.*** Much work remains to be done on this one.
 
 >### Indigo Slaad
 >*medium aberration, chaotic neutral*
@@ -397,9 +397,9 @@ In their normal form, indigo slaadi are ...
 >- **Languages** Slaad,Terran,Telepathy 60 ft.
 >- **Challenge** 10
 >___
->***Shapechanger.***. The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+>***Shapechanger.*** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 >
->***Innate Spellcasting.***. The slaad's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The slaad's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:
 >
 >At will: detect magic, detect thoughts, invisibility (self only), mage hand, major image
 >
@@ -407,20 +407,20 @@ In their normal form, indigo slaadi are ...
 >
 >1/day each: cloudkill, plane shift
 >
->***Magic Resistance.***. The slaad has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.***. The slaad's weapon attacks are magical.
+>***Magic Weapons.*** The slaad's weapon attacks are magical.
 >
->***Regeneration.***. The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
+>***Regeneration.*** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
 >
 >#### Actions
->***Multiattack.***. The slaad makes three attacks: one with its bite and two with its claws. Alternatively, it uses its Hurl Flame twice.
+>***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws. Alternatively, it uses its Hurl Flame twice.
 >
->***Bite (Slaad Form Only).***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) fire damage.
+>***Bite (Slaad Form Only).*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) fire damage.
 >
->***Claws (Slaad Form Only).***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) fire damage.
+>***Claws (Slaad Form Only).*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) fire damage.
 >
->***Hurl Stone.***. Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 22 (5d6) bludgeoning damage. The stone may cause structural damage to any location on a miss, and on a hit may push the target back by 5ft if they fail a CON save at DC 15.
+>***Hurl Stone.*** Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 22 (5d6) bludgeoning damage. The stone may cause structural damage to any location on a miss, and on a hit may push the target back by 5ft if they fail a CON save at DC 15.
 >
 
 ---
@@ -430,7 +430,7 @@ The orange slaad are slaad that are infused with chaos and fire, born when a gre
 
 In their natural form, orange slaadi are ...
 
-***TODO.***. Much work remains to be done on this one.
+***TODO.*** Much work remains to be done on this one.
 
 >### Orange Slaad
 >*medium aberration, chaotic neutral*
@@ -457,9 +457,9 @@ In their natural form, orange slaadi are ...
 >___
 >Damage Immunity Fire
 >
->***Shapechanger.***. The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+>***Shapechanger.*** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 >
->***Innate Spellcasting.***. The slaad's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The slaad's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:
 >
 >At will: detect magic, detect thoughts, invisibility (self only), mage hand, major image
 >
@@ -467,20 +467,20 @@ In their natural form, orange slaadi are ...
 >
 >1/day each: cloudkill, plane shift
 >
->***Magic Resistance.***. The slaad has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.***. The slaad's weapon attacks are magical.
+>***Magic Weapons.*** The slaad's weapon attacks are magical.
 >
->***Regeneration.***. The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
+>***Regeneration.*** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
 >
 >#### Actions
->***Multiattack.***. The slaad makes three attacks: one with its bite and two with its claws. Alternatively, it uses its Hurl Flame twice.
+>***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws. Alternatively, it uses its Hurl Flame twice.
 >
->***Bite (Slaad Form Only).***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) fire damage.
+>***Bite (Slaad Form Only).*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) fire damage.
 >
->***Claws (Slaad Form Only).***. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) fire damage.
+>***Claws (Slaad Form Only).*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) fire damage.
 >
->***Hurl Flame.***. Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 20 (5d6) fire damage. The fire ignites flammable objects that aren't being worn or carried.
+>***Hurl Flame.*** Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 20 (5d6) fire damage. The fire ignites flammable objects that aren't being worn or carried.
 >
 
 ---
@@ -651,9 +651,9 @@ Many white slaad believe that the Spawning Stone was not created by Primus, but 
 >- **Languages** Slaad,telepathy 120 ft.
 >- **Challenge** 21
 >___ 
->***Shapechanger.***. The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+>***Shapechanger.*** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 >
->***Innate Spellcasting.***. The slaad's spellcasting ability is Charisma (spell save DC 21). It can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The slaad's spellcasting ability is Charisma (spell save DC 21). It can innately cast the following spells, requiring no material components:
 >
 >At will: fly, greater invisibility (self only), haste, slow, cloudkill
 >
@@ -661,33 +661,33 @@ Many white slaad believe that the Spawning Stone was not created by Primus, but 
 >
 >1/day each: planeshift, time stop
 >
->***Legendary Resistance (3/Day).***. If the slaad fails a saving throw, it can choose to succeed instead.
+>***Legendary Resistance (3/Day).*** If the slaad fails a saving throw, it can choose to succeed instead.
 >
->***Magic Resistance.***. The slaad has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.***. The slaad's weapon attacks are magical.
+>***Magic Weapons.*** The slaad's weapon attacks are magical.
 >
->***Regeneration.***. The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
+>***Regeneration.*** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
 >
->***Summon Slaad (1/Day).***. The slaad chooses what to summon and attempts a magical summoning. A white slaad summons 1d6 red slaad, 1d4 blue slaad, 1d2 green slaad, or one gray slaad with no chance of failure. Any summoned slaad appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other slaad. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
+>***Summon Slaad (1/Day).*** The slaad chooses what to summon and attempts a magical summoning. A white slaad summons 1d6 red slaad, 1d4 blue slaad, 1d2 green slaad, or one gray slaad with no chance of failure. Any summoned slaad appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other slaad. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 >
 >#### Actions
->***Multiattack.***. The slaad makes three attacks: one with its bite and two with its claws or greatsword.
+>***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws or greatsword.
 >
->***Bite (Slaad Form Only).***. Melee Weapon Attack: +12 to hit, reach 5ft., one target. Hit 9 (1d8 + 5) piercing damage plus 7 (2d6) necrotic damage.
+>***Bite (Slaad Form Only).*** Melee Weapon Attack: +12 to hit, reach 5ft., one target. Hit 9 (1d8 + 5) piercing damage plus 7 (2d6) necrotic damage.
 >
->***Claw (Slaad Form Only).***. Melee Weapon Attack: +12 to hit, reach 5ft., one target. Hit 10 (1d10 + 5) slashing damage plus 7 (2d6) necrotic damage. If the target is a humanoid, it must succeed on a DC 21 Constitution saving throw or be infected with a disease called chaos phage. While infected, the target can't regain hit points, and its hit point maximum is reduced by 3 (1d6) at the end of the creatures turn. If the disease reduces the target's hit point maximum to 0, the target instantly transforms into a red slaad or, if it has the ability to cast spells of 3rd level or higher, a green slaad. Only a wish spell can reverse the transformation.
+>***Claw (Slaad Form Only).*** Melee Weapon Attack: +12 to hit, reach 5ft., one target. Hit 10 (1d10 + 5) slashing damage plus 7 (2d6) necrotic damage. If the target is a humanoid, it must succeed on a DC 21 Constitution saving throw or be infected with a disease called chaos phage. While infected, the target can't regain hit points, and its hit point maximum is reduced by 3 (1d6) at the end of the creatures turn. If the disease reduces the target's hit point maximum to 0, the target instantly transforms into a red slaad or, if it has the ability to cast spells of 3rd level or higher, a green slaad. Only a wish spell can reverse the transformation.
 >
->***Greatsword.***. Melee Weapon Attack: +12 to hit, reach 5ft., one target. Hit 12 (2d6 + 5) piercing damage plus 7 (2d6) necrotic damage.
+>***Greatsword.*** Melee Weapon Attack: +12 to hit, reach 5ft., one target. Hit 12 (2d6 + 5) piercing damage plus 7 (2d6) necrotic damage.
 >
 >#### Legendary Actions
 >The slaad can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The slaad regains spent legendary actions at the start of its turn.
 >
->***Shifting Time.***. The slaad casts haste or slow.
+>***Shifting Time.*** The slaad casts haste or slow.
 >
->***Regeneration (Cost 2 Actions).***. The slaad heals 16 (2d8 + 7) hit points.
+>***Regeneration (Cost 2 Actions).*** The slaad heals 16 (2d8 + 7) hit points.
 >
->***Claw Flurry (Cost 3 Actions).***. The slaad makes 3 claw attacks.
+>***Claw Flurry (Cost 3 Actions).*** The slaad makes 3 claw attacks.
 >
 
 ---
@@ -720,9 +720,9 @@ Black slaadi are an enigma, for little has been written on these vastly powerful
 >- **Languages** Slaad,telepathy 120 ft.
 >- **Challenge** 29
 >___
->***Shapechanger.***. The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+>***Shapechanger.*** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 >
->***Innate Spellcasting.***. The slaad's spellcasting ability is Charisma (spell save DC 24). It can innately cast the following spells, requiring no material components:
+>***Innate Spellcasting.*** The slaad's spellcasting ability is Charisma (spell save DC 24). It can innately cast the following spells, requiring no material components:
 >
 >At will: circle of death, dimension door, greater invisibility (self only)
 >
@@ -730,33 +730,33 @@ Black slaadi are an enigma, for little has been written on these vastly powerful
 >
 >1/day each: planeshift, power word kill, power word pain
 >
->***Legendary Resistance (3/Day).***. If the slaad fails a saving throw, it can choose to succeed instead.
+>***Legendary Resistance (3/Day).*** If the slaad fails a saving throw, it can choose to succeed instead.
 >
->***Magic Resistance.***. The slaad has advantage on saving throws against spells and other magical effects.
+>***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects.
 >
->***Magic Weapons.***. The slaad's weapon attacks are magical.
+>***Magic Weapons.*** The slaad's weapon attacks are magical.
 >
->***Regeneration.***. The slaad regains 30 hit points at the start of its turn if it has at least 1 hit point.
+>***Regeneration.*** The slaad regains 30 hit points at the start of its turn if it has at least 1 hit point.
 >
->***Summon Slaad (1/Day).***. The slaad chooses what to summon and attempts a magical summoning. A black slaad summons 2d4 red slaad, 1d6 blue slaad, 1d4 green slaad, 1d2 gray slaad or one death slaad with no chance of failure. Any summoned slaad appear in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other slaad. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
+>***Summon Slaad (1/Day).*** The slaad chooses what to summon and attempts a magical summoning. A black slaad summons 2d4 red slaad, 1d6 blue slaad, 1d4 green slaad, 1d2 gray slaad or one death slaad with no chance of failure. Any summoned slaad appear in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other slaad. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 >
 >#### Actions
->***Multiattack.***. The slaad makes three attacks: one with its bite and two with its claws or three entropic spit attacks.
+>***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws or three entropic spit attacks.
 >
->***Bite (Slaad Form Only).***. Melee Weapon Attack: +16 to hit, reach 5ft., one target. Hit 11 (1d8 + 7) piercing damage plus 7 (2d6) necrotic damage and 7 (2d6) psychic damage.
+>***Bite (Slaad Form Only).*** Melee Weapon Attack: +16 to hit, reach 5ft., one target. Hit 11 (1d8 + 7) piercing damage plus 7 (2d6) necrotic damage and 7 (2d6) psychic damage.
 >
->***Claw (Slaad Form Only).***. Melee Weapon Attack: +16 to hit, reach 5ft., one target. Hit 12 (1d10 + 7) slashing damage plus 7 (2d6) necrotic damage and 7 (2d6) psychic damage. If the target is a humanoid, it must succeed on a DC 25 Constitution saving throw or be infected with a disease called chaos phage. While infected, the target can't regain hit points, and its hit point maximum is reduced by 7 (2d6) at the end of the creatures turn. If the disease reduces the target's hit point maximum to 0, the target instantly transforms into a red slaad or, if it has the ability to cast spells of 3rd level or higher, a green slaad. Only a wish spell can reverse the transformation.
+>***Claw (Slaad Form Only).*** Melee Weapon Attack: +16 to hit, reach 5ft., one target. Hit 12 (1d10 + 7) slashing damage plus 7 (2d6) necrotic damage and 7 (2d6) psychic damage. If the target is a humanoid, it must succeed on a DC 25 Constitution saving throw or be infected with a disease called chaos phage. While infected, the target can't regain hit points, and its hit point maximum is reduced by 7 (2d6) at the end of the creatures turn. If the disease reduces the target's hit point maximum to 0, the target instantly transforms into a red slaad or, if it has the ability to cast spells of 3rd level or higher, a green slaad. Only a wish spell can reverse the transformation.
 >
->***Entropic Spit (Slaad Form Only).***. The slaad exhales mucus in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 25 Dexterity saving throw, taking 14 (4d6) necrotic damage plus, 14 (4d6) force damage on a failed save, or half as much on a successful one.
+>***Entropic Spit (Slaad Form Only).*** The slaad exhales mucus in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 25 Dexterity saving throw, taking 14 (4d6) necrotic damage plus, 14 (4d6) force damage on a failed save, or half as much on a successful one.
 >
->***Magic Breaker.***. The slaad touches one magical object it can see within 5 feet of it. If the object is being worn or carried by a creature, the creature can make a DC 23 Dexterity saving throw to avoid the slaad's touch. If the object touched is magical armor, a magical shield being worn or carried, or a magical weapon, it takes a permanent and cumulative -1 penalty to the bonus it offers. Items reduced to a magical bonus of +0 are destroyed. If the magical item targeted never offered a magical bonus it is unaffected by this attack.
+>***Magic Breaker.*** The slaad touches one magical object it can see within 5 feet of it. If the object is being worn or carried by a creature, the creature can make a DC 23 Dexterity saving throw to avoid the slaad's touch. If the object touched is magical armor, a magical shield being worn or carried, or a magical weapon, it takes a permanent and cumulative -1 penalty to the bonus it offers. Items reduced to a magical bonus of +0 are destroyed. If the magical item targeted never offered a magical bonus it is unaffected by this attack.
 >
 >#### Legendary Actions
 >The slaad can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The slaad regains spent legendary actions at the start of its turn.
 >
->***Entropy.***. The slaad blasts a wave of elemental chaos in a 10 foot circle. Any hostile creature in the radius takes 10 damage of one of the following types (slaads choice): acid, cold, fire, force, lightning, necrotic, or thunder.
+>***Entropy.*** The slaad blasts a wave of elemental chaos in a 10 foot circle. Any hostile creature in the radius takes 10 damage of one of the following types (slaads choice): acid, cold, fire, force, lightning, necrotic, or thunder.
 >
->***Regeneration (Cost 2 Actions).***. The slaad heals 26 (4d8 + 8) hit points.
+>***Regeneration (Cost 2 Actions).*** The slaad heals 26 (4d8 + 8) hit points.
 >
->***Magic Breaker (Cost 3 Actions).***. The slaad uses its Magic Breaker attack.
+>***Magic Breaker (Cost 3 Actions).*** The slaad uses its Magic Breaker attack.
 >

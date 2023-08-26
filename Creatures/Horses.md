@@ -3,6 +3,8 @@ Horses are common across Azgaarnoth, both wild and domesticated, particularly in
 
 > Jump to: [Draft Horse](#draft-horse) | [Mule](#mule) | [Pony](#pony) | [Riding Horse](#riding-horse) | [Warhorse](#warhorse)
 
+---
+
 ## Draft Horse
 
 >### Draft Horse

@@ -1,32 +1,21 @@
 # Chitines
-Chitines are multiarmed humanoids with arachnid qualities that serve Lolth. They operate in well-organized colonies that prove to be effective fighters in the war against the enemies of the Demon Queen of Spiders. On occasion, Lolth pits chitines against dark elves -- even though both groups worship her -- as a way of punishing the drow, who created the chitines but displeased their goddess by doing so.
+Dedicated to Lolth, chitines are multiarmed bipeds with arachnid qualities. Most live in colonies in the Underdark and fight the enemies of the Demon Queen of Spiders. Long ago, the cult of Lolth first subjected elf prisoners to horrible rituals that transformed them into creatures with both elven and spider traits, which their creators dubbed chitines. The intention was to create servile warriors dedicated first to the cult and then, only by association with it, to Lolth. The goddess found this arrangement unacceptable.
 
-> Jump to: [Chitine](#Chitine) | [Choldrith](#Choldrith)
+> Jump to: [Chitine](#chitine) | [Choldrith](#choldrith)
 
+As punishment, the Spider Queen twisted her worshipers' rituals. The process usually transformed subjects into the spindly creatures her devotees expected, but occasionally, an elf changed into a choldrith (appears in this book): an arachnid Monstrosity able to command and create more chitines on its own. These choldriths soon led the chitines to rebel and abandon their creators, founding free colonies elsewhere in the Underdark. On occasion, though, colonies can be found in remote, gloomy areas of the surface world, warring against Lolth's enemies.
 
-Unnatural Origin. Long ago, the drow first subjected elf prisoners to horrible rituals that transformed the captives into creatures with both humanoid and spider traits, which their creators dubbed chitines. The dark elves' intention was to create slaves dedicated first of all to the drow and, by association with them, to Lolth. As the drow ultimately discovered, the goddess found this arrangement unacceptable.
+The cult of Lolth still creates chitines as the need arises. Outside the presence of a choldrith, chitines make good workers, and they can be useful if the cult finds an independent chitine colony and want to infiltrate it. If the creation process yields a choldrith, though, the cult destroys the creature.
 
-The creation process required cooperation between magical disciplines. Drow wizards and warlocks used arcane magic and demonic powers, and drow priestesses invoked Lolth's aid for the divine spark needed to ensure the subject's survival. Lolth watched, expecting at some part of the process to see these new abominations dedicated to her, but no such ritual was performed. In retribution for this lack of respect, the Spider Queen twisted the drow's creation rituals to serve her own purposes.
+Chitines resemble spiders, but they behave more like social insects such as ants. They are divided into worker and warrior castes; choldriths, when present, occupy the top levels of a colony's hierarchy. Each chitine has a social position that comes with duties related to that rank, and all are expected to sacrifice themselves to protect the colony's choldriths. Every chitine has spinnerets and slowly produces webbing that is used to build floors, walls, structures, objects, and traps that benefit the colony. A warrior might be responsible for crafting web armor (which is as tough as hide or leather), while a group of workers might be tasked to dig pit traps and cover them with fragile webbing disguised with loose dirt to appear as a solid surface.
 
-Lolth's Revenge. As the drow continued to perform the rituals, the process usually transformed the subject into the spindly, stunted creature they expected. Occasionally, though, the elf changed into a monstrosity that was more spider than elf, resembling Lolth in her spider form, and more cunning than a chitine, that the drow dubbed a choldrith.
-
-At first, the drow were unaware that the new creatures were signs of Lolth's displeasure with them. Instead, they were pleased, because choldriths could lay eggs that birthed more chitines (and the rare choldrith) and could direct the chitines in their work. But the dark elves came to realize their mistake -- choldriths belonged to Lolth, body and soul. They whispered to the chitines of their adoration of the Spider Queen and their enmity of the drow, and the seeds of a rebellion took root and grew. The chitines and choldriths rose up against their would-be masters; soon afterward most of the creatures were free, and a number of the drow who helped breed and tend them were dead.
-
-Nowadays, drow still create chitines when they have need to. Outside the presence of a choldrith, chitines make good workers for the drow, and they can be useful if the drow find an independent chitine colony and want to infiltrate it. If the creation process yields a choldrith, though, the drow destroy the creature immediately.
-
-Lolth's Chosen. Choldriths are born with a fanatical devotion to Lolth, which leads them to develop some skill in divine magic. They preach that chitines are Lolth's favored people, and that choldriths are the Spider Queen's rightful worldly representatives sent to free the chitines from slavery. Although choldriths and chitines lack sexual characteristics, and choldriths need no mate to lay eggs, these creatures choose the gender identity of their goddess. Choldriths also believe and teach that Lolth's spider form, much like that of a choldrith, is her truest shape. Any idol to Lolth in a chitine colony depicts Lolth in this way.
-
-As servants of Lolth, choldriths and chitines love spiders and spiderlike creatures. They rear spiders and similar arachnids, such as cave fishers. Chitine colonies erect shrines to Lolth that serve as beacons, attracting spiders and other evil, brutish beings that serve her. Anywhere chitines set up a colony quickly becomes a web-shrouded, gloomy, and treacherous place.
-
-Communal Spiders. Chitines and choldriths resemble spiders, but they behave more like social insects such as ants. Chitines are divided into worker and warrior castes, and choldriths occupy the top levels of a colony's hierarchy. Each chitine has a social position that comes with duties related to that rank, and all chitines are expected to willingly sacrifice themselves to protect the choldriths. Every chitine has spinnerets and slowly produces webbing that is used to build floors, walls, structures, objects, and traps that benefit and protect the colony. A warrior might be responsible for crafting web armor (which is as tough as hide or leather), while a group of workers might be tasked to dig a pit trap and cover it with fragile webbing disguised with loose dirt to appear as a solid surface.
-
-A colony can support numerous choldriths, which serve as commanders, priests, and supervisors. The choldriths continually jockey for position, although they rarely confront one another in a way that puts the colony at risk. The colony is ruled by a singular sovereign that determines which colony members perform which tasks, including whether she or any other choldrith is permitted to lay eggs. If this supreme ruler receives a vision from Lolth, she might change her colony's entire course of action. At such times, chitines have emerged from the Underdark to settle in remote, gloomy places on the surface, from where they can wage war on other species, especially drow and elves.
 ---
 
 ## Chitine
+As servants of Lolth, chitines love spiders. They rear spiders and similar arachnids, such as cave fishers (also in this book). Chitine colonies erect shrines to Lolth that serve as beacons, attracting spiders and other beings that serve her. Anywhere chitines set up a colony quickly becomes a web-shrouded, gloomy, and treacherous place.
 
 >### Chitine
->*Small monstrosity, chaotic evil*
+>*Small Monstrosity, Typically Chaotic Evil*
 >___
 >- **Armor Class** 14 (hide armor)
 >- **Hit Points** 18 (4d6 + 4)
@@ -37,7 +26,7 @@ A colony can support numerous choldriths, which serve as commanders, priests, an
 >|10 (+0)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -48,28 +37,35 @@ A colony can support numerous choldriths, which serve as commanders, priests, an
 >- **Languages** Undercommon
 >- **Challenge** 1/2
 >___
->***Fey Ancestry.***. The chitine has advantage on saving throws against being charmed, and magic can't put the chitine to sleep.
+>***Fey Ancestry.*** The chitine has advantage on saving throws against being charmed, and magic can't put the chitine to sleep.
 >
->***Sunlight Sensitivity.***. While in sunlight, the chitine has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>***Sunlight Sensitivity.*** While in sunlight, the chitine has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
->***Web Sense.***. While in contact with a web, the chitine knows the exact location of any other creature in contact with the same web.
+>***Web Sense.*** While in contact with a web, the chitine knows the exact location of any other creature in contact with the same web.
 >
->***Web Walker.***. The chitine ignores movement restrictions caused by webbing.
+>***Web Walker.*** The chitine ignores movement restrictions caused by webbing.
 >
 >#### Actions
->***Multiattack.***. The chitine makes three attacks with its daggers.
+>***Multiattack.*** The chitine makes three Dagger attacks.
 >
->***Dagger.***. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+>***Dagger.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 >
 
 ---
 
 ## Choldrith
+Choldriths are monstrous spiderlike creatures originally created to serve Lolth. They rule colonies of chitines and lead them into battle in Lolth's war against her enemies.
+
+When devotees of Lolth created the first chitines, she watched as her followers used arcane magic and demonic powers and invoked her aid for the divine spark needed to ensure the subjects' survival, expecting to see these new abominations dedicated solely to her, but the devotees performed no such ritual. As revenge for the devotees' betrayal, the Spider Queen manipulated the creation rituals so that they sometimes created choldriths instead of chitines.
+
+At first, these devotees were unaware that the new creatures, which they dubbed choldriths, were signs of Lolth's wrath. Instead, they were pleased, because choldriths could lay eggs that birthed more chitines (and the rare choldrith) and could direct the chitines in their work. But the devotees soon realized their mistake--choldriths belonged to Lolth, body and soul. Choldriths whispered to the chitines of their adoration of the Spider Queen and their enmity against their creators, and led them in a successful revolt.
+
+Choldriths are born with a mystical connection to Lolth, which gives them divine magic. They also make up the ruling caste of most chitine colonies. A colony can support numerous choldriths, who serve as commanders, priests, and supervisors. The choldriths continually jockey for position, although they rarely confront one another in a way that puts the colony at risk. The colony is ruled by a sovereign, who determines which colony members perform which tasks, including whether a choldrith is permitted to lay eggs. Sometimes a choldrith ruler receives a vision from Lolth that inspires the entire colony into some grand, often violent, action.
 
 >### Choldrith
->*Medium monstrosity, chaotic evil*
+>*Medium Monstrosity (Cleric), Typically Chaotic Evil*
 >___
->- **Armor Class** 15 (studded leather armor)
+>- **Armor Class** 15 (natural armor)
 >- **Hit Points** 66 (12d8 + 12)
 >- **Speed** 30 ft., climb 30 ft.
 >___
@@ -78,7 +74,7 @@ A colony can support numerous choldriths, which serve as commanders, priests, an
 >|12 (+1)|16 (+3)|12 (+1)|11 (+0)|14 (+2)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -89,27 +85,29 @@ A colony can support numerous choldriths, which serve as commanders, priests, an
 >- **Languages** Undercommon
 >- **Challenge** 3
 >___
->***Fey Ancestry.***. The choldrith has advantage on saving throws against being charmed, and magic can't put the choldrith to sleep.
+>***Fey Ancestry.*** The choldrith has advantage on saving throws against being charmed, and magic can't put the choldrith to sleep.
 >
->***Spellcasting.***. The choldrith is a 4th-level spellcaster. Its spellcasting ability is Wisdom (save DC 12, +4 to hit with spell attacks). The choldrith has the following cleric spells prepared:
+>***Spider Climb.*** The choldrith can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 >
->Cantrips (at will): guidance, mending, resistance, thaumaturgy
+>***Sunlight Sensitivity.*** While in sunlight, the choldrith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
->1st level (4 slots): bane, healing word, sanctuary, shield of faith
+>***Web Sense.*** While in contact with a web, the choldrith knows the exact location of any other creature in contact with the same web.
 >
->2nd level (3 slots): hold person, spiritual weapon (dagger)
->
->***Spider Climb.***. The choldrith can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
->
->***Sunlight Sensitivity.***. While in sunlight, the choldrith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
->
->***Web Sense.***. While in contact with a web, the choldrith knows the exact location of any other creature in contact with the same web.
->
->***Web Walker.***. The choldrith ignores movement restrictions caused by webbing.
+>***Web Walker.*** The choldrith ignores movement restrictions caused by webbing.
 >
 >#### Actions
->***Dagger.***. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 10 (3d6) poison damage.
+>***Dagger.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 10 (3d6) poison damage.
 >
->***Web (Recharge 5-6).***. Ranged Weapon Attack: +5 to hit, range 30/60 ft., one Large or smaller creature. Hit: The target is restrained by webbing. As an action, the restrained target can make a DC 11 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; 5 hit points; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
+>***Spellcasting.*** The choldrith casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 12):
 >
-
+>At will: guidance, thaumaturgy
+>
+>1/day each: bane, hold person
+>
+>***Web (Recharge 5�6).*** Ranged Weapon Attack: +5 to hit, range 30/60 ft., one Large or smaller creature. Hit: The target is restrained by webbing. As an action, the restrained target can make a DC 11 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; 5 hit points; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
+>
+>#### Bonus Actions
+>Spectral Dagger (Recharges after a Short or Long Rest). The choldrith conjures a floating, spectral dagger within 60 feet of itself. The choldrith can make a melee spell attack (+4 to hit) against one creature within 5 feet of the dagger. On a hit, the target takes 6 (1d8 + 2) force damage.
+>
+>***The dagger lasts for 1 minute.*** As a bonus action on later turns, the choldrith can move the dagger up to 20 feet and repeat the attack against one creature within 5 feet of the dagger.
+>

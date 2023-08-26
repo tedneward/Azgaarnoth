@@ -1,7 +1,7 @@
 # Rat
 The everpresent vermin, in all their twisted glory.
 
-> Jump to: [Rat](#rat-1) | [Giant Rat](#giant-rat) | [Swarm of Rats]() | [Withered Rat](#withered-rat)
+> Jump to: [Rat](#rat-1) | [Giant Rat](#giant-rat) | [Swarm of Rats](#swarm-of-rats) | [Withered Rat](#withered-rat)
 
 ***Vectors of Disease.*** Some rats (giant or otherwise) carry vile diseases that they spread with their bites. A diseased rat's challenge rating does not change; a diseased giant rat has a challenge rating of 1/8 (25 XP) both have the following action instead of the normal Bite attack. (Note that the statistics for the Bite do not change other than to add the check for disease.)
 

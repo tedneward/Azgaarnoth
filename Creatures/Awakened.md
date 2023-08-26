@@ -3,6 +3,8 @@ Awakened "creatures" are typically ordinary objects or inanimate lifeforms given
 
 > Jump to: [Shrub](#awakened-shrub) | [Tree](#awakened-tree)
 
+---
+
 ## Awakened Shrub
 An awakened shrub is an ordinary tree given sentience and mobility by the awaken spell or similar magic.
 

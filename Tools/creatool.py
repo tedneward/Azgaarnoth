@@ -9,9 +9,6 @@ import os
 import sqlite3
 import sys
 
-def linkify(string):
-    return '#' + string.replace('/','').replace(' ','').lower()
-
 # These sorts of creature entries are typically for a collection of such; the
 # "Troll" entry, for example, contains "Troll", "Aquatic Troll", "Rot Troll",
 # and so on.
@@ -21,15 +18,75 @@ class SubtypedCreature:
         self.subtypes = []
         self.generaldescription = []
 
-    def emitMD(self):
-        subtypejumplinks = " | ".join(map(lambda st: f'[{st.name}](#{st.name})', self.subtypes))
+    def filename(self):
+        return (self.name).replace(' ','') + ".md"
 
-        results  =  ''
-        results += f'# {self.name}\n'
+    def parseMD(mdlines):
+        "Class-level method to parse a list of strings that contain well-formed Markdown"
+        if mdlines[0][0:2] == '# ':
+            # This is a multi-creature file
+            subtypedcreature = SubtypedCreature()
+
+            # Start by parsing the SubtypedCreature description text
+            subtypedcreature.name = mdlines[0][2:].strip()
+
+            # Grab the rest of the description, appending until
+            # we reach the first '---' break
+            linect = 1
+            while linect < len(mdlines):
+                line = mdlines[linect]
+                if line == '---\n':
+                    linect += 1
+                    break
+                elif line[0:len("> Jump to:")] == "> Jump to:":
+                    pass
+                else:
+                    subtypedcreature.generaldescription += mdlines[linect]
+                linect += 1
+
+            # Now loop through the rest of the file, breaking on the '---' breaks
+            # and parse each one as a separate creature
+            creaturebuffer = []
+            while linect < len(mdlines):
+                line = mdlines[linect]
+                if line == '---\n':
+                    creature = Creature()
+                    creature.parseMD(creaturebuffer)
+                    creature.collection = subtypedcreature
+                    subtypedcreature.subtypes.append(creature)
+                    #print("  Parsed " + creature.name)
+                    creaturebuffer = []
+                else:
+                    creaturebuffer.append(line)
+
+                linect += 1
+            else:
+                if len(creaturebuffer) > 0:
+                    creature = Creature()
+                    creature.parseMD(creaturebuffer)
+                    creature.collection = subtypedcreature
+                    subtypedcreature.subtypes.append(creature)
+            
+            return subtypedcreature
+        elif mdlines[0][0:3] == '## ':
+            # This is a single-creature file
+            creature = Creature()
+            creature.parseMD(mdlines)
+            return creature
+        else:
+            print("UNRECOGNIZED LINE 0: '" + mdlines[0] + "'")
+
+
+    def emitMD(self):
+        #def linkify(string):
+        #    return '#' + string.replace('/','').replace(' ','-').lower()
+        
+        subtypejumplinks = " | ".join(map(lambda st: f'[{st.name}]({st.linkedname})', self.subtypes))
+
+        results  = f'# {self.name}\n'
         results += self.generaldescription[0] + '\n'
         results += '\n'
         results += '> Jump to: ' + subtypejumplinks + '\n'
-        results += '\n'
         results += '\n'.join(self.generaldescription[1:])
         for creature in self.subtypes:
             results += '---\n\n'
@@ -44,27 +101,39 @@ class Creature:
             self.title = ''
             self.text = ''
 
-        def __str__(self) -> str:
+        def __str__(self):
             return f'***{self.title}.*** {self.text}'
         
         def parse(self, line):
-            self.title = ''
-            self.text = ''
+            starttitle = 0
+            endtitle = line.find('.***')
+            self.title = line[starttitle+3:endtitle]
+            self.text = line[endtitle+5:]
         
     class Lair:
         def __init__(self):
             self.description = ''
+            self.lairtext = ''
             self.lairactions = []
             self.regionalprefix = ''
             self.regionaleffects = []
             self.regionalpostfix = ''
 
     def __init__(self):
+        # This indicates whether this creature is part of a
+        # SubtypedCreature's subtypes[] (above). If it's not
+        # None, it points to the SubtypedCreature that we're
+        # a part of.
+        self.collection = None
+
         self.name = ''
         self.size = ''
         self.type = ''
+        self.subtypes = []
         self.alignment = ''
         self.description = []
+        self.environments = []
+        self.token = ''
         self.ac = ''
         self.hp = ''
         self.speed = ''
@@ -91,35 +160,23 @@ class Creature:
         self.legendaryactions = []
         self.lair = None
 
-    def abilitybonus(self, score):
-        return (score // 2) - 5
-
-    def abilitytext(self, score):
-        return f"{score} ({self.abilitybonus(score):+g})"
+    def filename(self):
+        if self.collection != None:
+            return self.collection.filename() + '#' + (self.name).replace('/','').replace(' ','-').lower()
+        else:
+            return self.name.replace(' ','') + ".md"
 
     def parseMD(self, mdlines):
-        "Parse a list of strings that contain well-formed Markdown"
-        if mdlines[0][0,1] == '# ':
-            # This is a multi-creature file
-            subtypedcreature = SubtypedCreature()
-
-            # Start by parsing the SubtypedCreature description text
-
-            # Now loop through the rest of the file, breaking on the '---' breaks
-            # and parse each one as a separate creature
-
-            #return subtypedcreature
-            print("I CAN'T PARSE MULTI_CREATURE FILES YET SORRY")
-        elif mdlines[0][0,1] == '##':
-            # This is a single-creature file
-            return self.parseSingleCreatureMD(mdlines)
-
-    def parseSingleCreatureMD(self, mdlines):
         "Parse a list of strings that contain well-formed Markdown containing a single creature"
 
         linect = 0
+        while len(mdlines[linect].strip()) == 0:
+            del mdlines[0]
+
+        print("Parsing MD: '" + mdlines[0].strip() + "'")
+
         self.name = mdlines[linect].replace('#', '').strip()
-        print(self.name)
+        linect += 1
 
         while linect < len(mdlines):
             line = mdlines[linect].strip()
@@ -128,22 +185,41 @@ class Creature:
                 break
             else:
                 if len(line) > 0:
-                    self.description.append(mdlines[linect])
+                    if line[0:3] == '***':
+                        ttext = Creature.TitledText()
+                        ttext.parse(line)
+                        self.description.append(ttext)
+                    else:
+                        self.description.append(line)
                 linect += 1
 
         # name
         line = mdlines[linect]
-        print("Name: " + line)
+        # TODO: assert that the name in the stat block is the same at the top of the
+        # markdown file. Not sure what we do if it's not. *shrug*
         linect += 1
 
-        # size type (optional subtype), alignment
+        # size type (optional-subtype, optional-subtype, ...), alignment
         line = mdlines[linect][1:].strip().replace('*', '')
-        (sizetype, alignment) = line.split(',')
-        self.alignment = alignment.strip()
-        size = sizetype[0:sizetype.index(' ')]
-        ctype = sizetype[sizetype.index(' '):]
-        self.size = size.strip()
-        self.type = ctype.strip()
+        if line.find('(') > 0:
+            # It has a parenthesized subtype
+            # Find the parenthesized string and split there
+            endparen = line.find(')')
+            sizeandtype = line[0:endparen+1]
+            # Fnd the paren in the new sizeandtype string
+            startparen = line.find('(')
+            endparen = line.find(')')
+            sizeandtype = line[0:startparen]
+            subtype = line[startparen+1:endparen]
+            self.size = sizeandtype.split(' ')[0]
+            self.type = sizeandtype.split(' ')[1]
+            self.subtypes = subtype.split(',')
+            self.alignment = line[endparen+3:].strip()
+        else:
+            (sizeandtype, alignment) = line.split(',')
+            self.alignment = alignment.strip()
+            self.size = sizeandtype.split(' ')[0]
+            self.type = sizeandtype.split(' ')[1]
         linect +=1
 
         # >___
@@ -151,86 +227,172 @@ class Creature:
 
         # Armor Class
         line = mdlines[linect]
-        print("AC: " + line)
         self.ac = line[len('>- **Armor Class** '):].strip()
         linect += 1
 
         # Hit Points
         line = mdlines[linect]
-        print("HP: " + line)
         self.hp = line[len('>- **Hit Points** '):].strip()
         linect += 1
 
         # Speed
         line = mdlines[linect]
-        print("Spd: " + line)
         self.speed = line[len('>- **Speed** '):].strip()
         linect += 1
 
         # >___
+        linect += 1
+
         # >Stat block headers
+        linect += 1
+
         # >Stat block table row divider
+        linect += 1
+
         # >Stat block
+        statsline = mdlines[linect][2:].strip()
+        sixstats = statsline.split("|")
+        self.STR = int(sixstats[0].split('(')[0])
+        self.DEX = int(sixstats[1].split('(')[0])
+        self.CON = int(sixstats[2].split('(')[0])
+        self.INT = int(sixstats[3].split('(')[0])
+        self.WIS = int(sixstats[4].split('(')[0])
+        self.CHA = int(sixstats[5].split('(')[0])
+        linect += 1
+
         # >
+        linect += 1
+
         # >___
+        linect += 1
+
         # >Prof Bonus
+        self.profbonus = mdlines[linect][len('>- **Proficiency Bonus** '):].strip()
+        linect += 1
+
         # >Saving Throws
+        line = mdlines[linect][len('>- **Saving Throws** '):].strip()
+        if len(line) > 0:
+            self.savingthrows = line.split(',')
+        linect += 1
+
         # >Dmg Vul
+        line = mdlines[linect][len('>- **Damage Vulnerabilities** '):].strip()
+        if len(line) > 0:
+            self.dmgvuls = line.split(',')
+        linect += 1
+
         # >Dmg Res
+        line = mdlines[linect][len('>- **Damage Resistances** '):].strip()
+        if len(line) > 0:
+            self.dmgresists = line.split(',')
+        linect += 1
+
         # >Dmg Imm
+        line = mdlines[linect][len('>- **Damage Immunities** '):].strip()
+        if len(line) > 0:
+            self.dmgimmunes = line.split(',')
+        linect += 1
+
         # >Cond Imm
+        line = mdlines[linect][len('>- **Condition Immunities** '):].strip()
+        if len(line) > 0:
+            self.condimmunes = line.split(',')
+        linect += 1
+
         # >Skills
+        line = mdlines[linect][len('>- **Skills** '):].strip()
+        if len(line) > 0:
+            self.skills = line.split(',')
+        linect += 1
+
         # >Senses
+        line = mdlines[linect][len('>- **Senses** '):].strip()
+        if len(line) > 0:
+            self.senses = line.split(',')
+        linect += 1
+
         # >Langs
+        line = mdlines[linect].strip()
+        self.languages = line[len('>- **Languages** '):].split(',')
+        linect += 1
+
         # >CR
-        # >Features -> Actions -> Bonus Actions? -> Reactions? -> Lair Actions? -> Legendary Actions?
-        # ### A {name}'s Lair
-        # Lair-description
-        # #### Lair Actions
-        # * Action
-        # #### Regional Effects
-        # Regionalpretext
-        # * Effect
-        # Regionalposttext
+        self.cr = mdlines[linect][len('>- **Challenge** '):].strip()
+        linect += 1
+
+        # >___
+        linect += 1
+
+        # >Features? -> Actions -> Bonus Actions? -> Reactions? -> Legendary Actions? -> Lair?
+        block = self.features
+        while linect < len(mdlines):
+            line = mdlines[linect].strip()[1:]
+
+            if len(line) < 1:
+                linect += 1
+                continue
+
+            if line == '#### Actions': block = self.actions
+            elif line == '#### Bonus Actions': block = self.bonusactions
+            elif line == '#### Reactions': block = self.reactions
+            elif line == '#### Legendary Actions': block = self.legendaryactions
+            elif line == '### Lair Actions':
+                linect += 1
+                line = mdlines[linect].strip()
+                self.lair.lairtext = line
+
+                block = self.lair.lairactions
+            elif line == '### Regional Effects': 
+                linect += 1
+
+                line = mdlines[linect].strip()
+                self.lair.regionalprefix = line
+
+                block = self.lair.regionaleffects
+            elif line.find("'s Lair") > 0: 
+                self.lair = Creature.Lair()
+                
+                linect += 1
+                line = mdlines[linect].strip()
+                self.lair.description = line
+
+            else:
+                if line.find('.***') > 0:
+                    ttext = Creature.TitledText()
+                    ttext.parse(line)
+                    block.append(ttext)
+                else:
+                    block.append(line)
+
+            linect += 1
 
     def parserow(self, sqlrow):
         "Parse a row from a SQLite cursor"
         pass
 
-    def titleify(self, items, prefix='>'):
-        results = ''
-        for item in items:
-            line = item.strip()
-
-            if '.' in line:
-                firstdot = line.index('.')
-                if firstdot < 35:
-                    title = '***' + line[0:firstdot] + '.***'
-                    text = line[firstdot:]
-                    results += prefix + title + text
-                else:
-                    results += prefix + line
-            else:
-                results += prefix + line
-
-            results += '\n'
-            results += prefix + '\n'
-
-        return results
-
     def emitMD(self):
         "Emit this creature description and stat block"
 
+        def abilitybonus(score):
+            return (score // 2) - 5
+
+        def abilitytext(score):
+            return f"{score} ({abilitybonus(score):+g})"
+        
         linebreak = ">___\n"
 
         result  = ""
         result += f"## {self.name}\n"
-        if len(self.description) > 0:
-            result += self.titleify(self.description, '')
-        else:
-            result += '\n'
+        for descrip in self.description:
+            result += str(descrip) + '\n\n'
+
         result += f">### {self.name}\n"
-        result += f">*{self.size} {self.type}, {self.alignment}*\n"
+
+        if len(self.subtypes) > 0:
+            result += f">*{self.size} {self.type} ({','.join(self.subtypes)}), {self.alignment}*\n"
+        else:
+            result += f">*{self.size} {self.type}, {self.alignment}*\n"
         result += linebreak
         result += f">- **Armor Class** {self.ac}\n"
         result += f">- **Hit Points** {self.hp}\n"
@@ -238,11 +400,14 @@ class Creature:
         result += linebreak
         result +=  ">|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|\n"
         result +=  ">|:---:|:---:|:---:|:---:|:---:|:---:|\n"
-        result += f">|{self.abilitytext(self.STR)}|{self.abilitytext(self.DEX)}|{self.abilitytext(self.CON)}|"
-        result += f"{self.abilitytext(self.INT)}|{self.abilitytext(self.WIS)}|{self.abilitytext(self.CHA)}|\n"
+        result += f">|{abilitytext(self.STR)}|{abilitytext(self.DEX)}|{abilitytext(self.CON)}|"
+        result += f"{abilitytext(self.INT)}|{abilitytext(self.WIS)}|{abilitytext(self.CHA)}|\n"
         result +=  ">\n"
         result += linebreak
-        result += f">- **Proficiency Bonus** {self.profbonus:+g}\n"
+        if isinstance(self.profbonus, str):
+            result += f">- **Proficiency Bonus** {self.profbonus}\n"
+        elif isinstance(self.profbonus, int):
+            result += f">- **Proficiency Bonus** {self.profbonus:+g}\n"
         result += f">- **Saving Throws** {','.join(self.savingthrows)}\n"
         result += f">- **Damage Vulnerabilities** {','.join(self.dmgvuls)}\n"
         result += f">- **Damage Resistances** {','.join(self.dmgresists)}\n"
@@ -251,40 +416,58 @@ class Creature:
         result += f">- **Skills** {','.join(self.skills)}\n"
         result += f">- **Senses** {','.join(self.senses)}\n"
         result += f">- **Languages** {','.join(self.languages)}\n"
-        result += f">- **Challenge** {self.cr}\n" 
+        result += f">- **Challenge** {self.cr}\n"
+        #result += f">- **Token** {self.name + '-Token.png'}"
         result += linebreak
-        result += self.titleify(self.features)
-        result += ">#### Actions\n" + self.titleify(self.actions)
+        for feature in self.features:
+            result += '>' + str(feature) + '\n>\n'
+        result += ">#### Actions\n"
+        for action in self.actions:
+            result += '>' + str(action) + '\n>\n'
         if len(self.bonusactions) > 0:
-            result +=  ">#### Bonus Actions\n" + self.titleify(self.bonusactions)
+            result +=  ">#### Bonus Actions\n"
+            for baction in self.bonusactions:
+                result += '>' + str(baction) + '\n>\n'
         if len(self.reactions) > 0:
-            result +=  ">#### Reactions\n" + self.titleify(self.reactions)
+            result +=  ">#### Reactions\n"
+            for reaction in self.reactions:
+                result += '>' + str(reaction) + '\n>\n'
         if len(self.legendaryactions) > 0:
-            result +=  ">#### Legendary Actions\n" + self.titleify(self.legendaryactions)
+            result +=  ">#### Legendary Actions\n"
+            for laction in self.legendaryactions:
+                result += '>' + str(laction) + '\n>\n'
 
         if self.lair != None:
             result += '\n'
             result += f"### A {self.name}'s Lair\n"
             result += self.lair.description + '\n'
             result += "\n#### Lair Actions\n"
-            result += "\n* ".join(self.lair.lairactions)
+            result += self.lair.lairtext + '\n'
+            for lairaction in self.lair.lairactions:
+                result += "* " + str(lairaction) + '\n\n'
             result += "\n#### Regional Effects\n"
             result += self.lair.regionalprefix
-            result += "\n* ".join(self.lair.regionaleffects)
+            for regionaleffect in self.lair.regionaleffects:
+                result += "* " + str(regionaleffect) + '\n\n'
             result += self.lair.regionalpostfix
             result += "\n"
 
         return result
+
+
+
+######################################################################
 
 creatures = []
 
 def ingest(arg):
     def cleanup(line):
         if line.find(u"“") > 0:
-            print("SMART QUOTES!!!!")
+            print("I HATE SMART QUOTES!!!!")
 
-        utf8_quotes = "“”‘’‹›«»"
-        transl_table = dict( [ (ord(x), ord(y)) for x,y in zip( utf8_quotes,  "\"\"''''\"\"") ] ) 
+        utf8s = "“”‘’‹›«»−–"
+        repls = "\"\"''''\"\"--"
+        transl_table = dict( [ (ord(x), ord(y)) for x,y in zip( utf8s,  repls) ] ) 
 
         # Get rid of the damn smart quotes
         result = line.translate( transl_table)
@@ -296,38 +479,60 @@ def ingest(arg):
         files = os.listdir(arg)
         for f in files:
             if os.path.isfile(arg + '/' + f):
-                ext = str(f)[-4:]
-                if ext.lower() != '.png' and ext.lower() != '.jpg':
+                ext = str(f)[-4:].lower()
+                if ext != '.png' and ext != '.jpg' and ext != 'webp':
                     ingest(arg + '/' + f)
         return
 
     def ingestrawstatblock(lines):
-        print("Raw stat block")
-
         creature = Creature()
 
+        # Parse name line
         linect = 0
         creature.name = lines[linect].lower().strip().title()
+
+        # Parse size type (subtype(s)), alignment line
         linect += 1
-        (sizeandtype, alignment) = lines[linect].split(',')
-        creature.alignment = alignment.strip()
+        def parsesecondline(line):
+            size = ''
+            type = ''
+            subtypes = []
+            alignment = ''
 
-        if sizeandtype.find('(') > -1:
-            # It has a parenthesized subtype, a la "large humanoid (goblin)"
-            creature.size = sizeandtype.split(' ')[0]
-            creature.type = sizeandtype.split(' ')[1] + ' ' + sizeandtype.split(' ')[2]
-        else:
-            creature.size = sizeandtype.split(' ')[0]
-            creature.type = sizeandtype.split(' ')[1]
+            if line.find('(') > 0:
+                # It has a parenthesized subtype
+                # Find the parenthesized string and split there
+                endparen = line.find(')')
+                sizeandtype = line[0:endparen+1]
+                # Fnd the paren in the new sizeandtype string
+                startparen = line.find('(')
+                endparen = line.find(')')
+                sizeandtype = line[0:startparen]
+                subtype = line[startparen+1:endparen]
+                size = sizeandtype.split(' ')[0]
+                type = sizeandtype.split(' ')[1]
+                subtypes = subtype.split(',')
+                alignment = line[endparen+3:].strip()
+            else:
+                (sizeandtype, alignment) = line.split(',')
+                alignment = alignment.strip()
+                size = sizeandtype.split(' ')[0]
+                type = sizeandtype.split(' ')[1]
 
+            return (size, type, subtypes, alignment)
+        (creature.size, creature.type, creature.subtypes, creature.alignment) = parsesecondline(lines[linect])
+
+        # Start parsing AC, HP, Speed, attributes
         linect += 1
         while linect < len(lines):
-            line = lines[linect].strip()
-            print("Examining " + line)
+            line = cleanup(lines[linect])
 
-            if len(line.strip()) < 1:
+            # Just blow past empty lines
+            if len(line) < 1:
                 linect += 1
                 continue
+
+            print("Examining line '" + line + "'")
 
             if 'Armor Class ' in line:
                 creature.ac = line[len('Armor Class '):].strip()
@@ -335,98 +540,97 @@ def ingest(arg):
                 creature.hp = line[len('Hit Points '):].strip()
             elif 'Speed ' in line:
                 creature.speed = line[len('Speed '):].strip()
+
+            # Ability scores
+            # Are they all on one line?
             elif ('STR' in line) and ('INT' in line):
-                # They're all on one line and now this gets tricky
                 linect += 1
                 line = lines[linect]
                 groupofsix = line.split(')')
-                abct = 0
-                for scoreandbonus in groupofsix:
-                    score = int(scoreandbonus.strip().split(' ')[0])
-                    if abct == 0: creature.STR = score
-                    elif abct == 1: creature.DEX = score
-                    elif abct == 2: creature.CON = score
-                    elif abct == 3: creature.INT = score
-                    elif abct == 4: creature.WIS = score
-                    elif abct == 5: creature.CHA = score; break
-                    abct += 1
+                creature.STR = int(groupofsix[0].strip().split(' ')[0])
+                creature.DEX = int(groupofsix[1].strip().split(' ')[0])
+                creature.CON = int(groupofsix[2].strip().split(' ')[0])
+                creature.INT = int(groupofsix[3].strip().split(' ')[0])
+                creature.WIS = int(groupofsix[4].strip().split(' ')[0])
+                creature.CHA = int(groupofsix[5].strip().split(' ')[0])
+
+            # The scores are on successive lines
             elif 'STR' in line:
-                linect += 1
+                linect += 1 # Next line holds the score
                 creature.STR = int(lines[linect].split('(')[0])
             elif 'DEX' in line:
-                linect += 1
+                linect += 1 # Next line holds the score
                 creature.DEX = int(lines[linect].split('(')[0])
             elif 'CON' in line:
-                linect += 1
+                linect += 1 # Next line holds the score
                 creature.CON = int(lines[linect].split('(')[0])
             elif 'INT' in line:
-                linect += 1
+                linect += 1 # Next line holds the score
                 creature.INT = int(lines[linect].split('(')[0])
             elif 'WIS' in line:
-                linect += 1
+                linect += 1 # Next line holds the score
                 creature.WIS = int(lines[linect].split('(')[0])
             elif 'CHA' in line:
-                linect += 1
+                linect += 1 # Next line holds the score
                 creature.CHA = int(lines[linect].split('(')[0])
-            elif 'Saving Throws' in line:
-                break
-            else:
-                print("Unrecognized line: " + line)
 
-            linect += 1
-
-        while linect < len(lines):
-            if len(lines[linect]) == 0:
-                # Do nothing and just drop to the end of this switch
-                pass
-            elif 'Damage Vulnerabilities' in lines[linect]:
-                dvs = lines[linect][len('Damage Vulnerabilities '):].split(',')
+            elif 'Damage Vulnerabilities' in line:
+                dvs = line[len('Damage Vulnerabilities '):].split(',')
                 for dv in dvs:
                     creature.dmgvuls.append(cleanup(dv))
 
-            elif 'Damage Resistances' in lines[linect]:
-                drs = lines[linect][len('Damage Resistances '):].split(',')
+            elif 'Damage Resistances' in line:
+                drs = line[len('Damage Resistances '):].split(',')
                 for dr in drs:
                     creature.dmgresists.append(cleanup(dr))
 
-            elif 'Damage Immunities' in lines[linect]:
-                dis = lines[linect][len('Damage Immunities '):].split(',')
+            elif 'Damage Immunities' in line:
+                dis = line[len('Damage Immunities '):].split(',')
                 for di in dis:
                     creature.dmgimmunes.append(cleanup(di))
 
-            elif 'Condition Immunities' in lines[linect]:
-                cis = lines[linect][len('Condition Immunities '):].split(',')
+            elif 'Condition Immunities' in line:
+                cis = line[len('Condition Immunities '):].split(',')
                 for ci in cis:
                     creature.condimmunes.append(cleanup(ci))
 
-            elif 'Saving Throws' in lines[linect]:
-                saves = lines[linect][len('Saving Throws '):].split(',')
+            elif 'Saving Throws' in line:
+                saves = line[len('Saving Throws '):].split(',')
                 for st in saves:
                     creature.savingthrows.append(cleanup(st))
 
-            elif 'Skills' in lines[linect]:
-                skills = lines[linect][len('Skills '):].split(',')
+            elif 'Skills' in line:
+                skills = line[len('Skills '):].split(',')
                 for sk in skills:
                     creature.skills.append(sk.strip())
 
-            elif 'Senses' in lines[linect]:
-                senses = lines[linect][len('Senses '):].split(',')
+            elif 'Senses' in line:
+                senses = line[len('Senses '):].split(',')
                 for sn in senses:
                     creature.senses.append(sn.strip())
 
-            elif 'Languages' in lines[linect]:
-                langs = lines[linect][len('Languages '):].split(',')
+            elif 'Languages' in line:
+                langs = line[len('Languages '):].split(',')
                 for l in langs:
                     creature.languages.append(l.strip())
 
-            elif 'Challenge' in lines[linect]:
-                creature.cr = lines[linect][len('Challenge '):].split(' ')[0].strip()
+            elif ('Challenge' in line) and ('Proficiency Bonus' in line):
+                creature.cr = line[len('Challenge '):line.find('Proficiency Bonus')].split(' ')[0].strip()
+                # Find start of Proficiency Bonus in line
+                pb = line[line.find('Proficiency Bonus '):]
+                creature.profbonus = pb[len('Proficiency Bonus '):].strip()
 
-            elif 'Actions' in lines[linect]:
+            elif 'Challenge' in line:
+                creature.cr = line[len('Challenge '):].split(' ')[0].strip()
+
+            elif 'Proficiency Bonus' in line:
+                creature.profbonus = line[:len('Proficiency Bonus ')].strip()
+
+            elif ('Actions' in line) or ('Action' in line):
                 break
 
             else:
-                creature.features.append(cleanup(lines[linect]))
+                creature.features.append(line)
 
             linect += 1
 
@@ -437,15 +641,20 @@ def ingest(arg):
             if len(line) == 0:
                 linect += 1
                 continue
-            elif 'Legendary' == line[0:len('Legendary')]:
+
+            print("Examining '" + line + "'")
+
+            if 'Legendary' == line[0:len('Legendary')]:
                 block = 'legendary'
+            elif 'Action' == line[0:len('Action')]:
+                block = 'actions'
             elif 'Actions' == line[0:len('Actions')]:
                 block = 'actions'
-            elif 'Bonus Actions' == line[0:len('Actions')]:
+            elif 'Bonus Actions' == line[0:len('Bonus Actions')]:
                 block = 'bonusactions'
             elif 'Reactions' == line[0:len('Reactions')]:
-                block = 'actions'
-            elif line[0][0] == 'A' and line.find('Lair') > 0:
+                block = 'reactions'
+            elif line.find('Lair') > 0:
                 block = 'lair'
                 creature.lair = Creature.Lair()
             elif 'Lair Actions' == line[0:len('Lair Actions')]:
@@ -461,7 +670,7 @@ def ingest(arg):
                 elif block == 'lairactions': creature.lair.lairactions.append(line)
                 elif block == 'laireffects': creature.lair.regionaleffects.append(line)
                 else:
-                    print("WTF?!? Unrecognized block! " + block)
+                    print("WTF?!? Unrecognized block! '" + block + "'")
 
             linect += 1
 
@@ -679,9 +888,6 @@ def ingest(arg):
         if lines[0][0:2] == '# ':
             # Might be one of my original MD formats
             creatures.append(ingestmymdformat(lines))
-#        elif lines[0] == '<!DOCTYPE html>\n':
-#            # We are going to parse a DnD Beyond page, let's go!
-#            cs = ingestdndbeyondwebp(lines)
         elif lines[0].upper() == lines[0]:
             # Guessing this is a stat block
             creatures.append(ingestrawstatblock(lines))
@@ -728,12 +934,24 @@ def main(argv):
         if os.path.isdir(args.parsemd):
             files = os.listdir(args.parsemd)
             for f in files:
+                if f == 'index.md':
+                    continue
+
                 if os.path.isfile(args.parsemd + '/' + f):
-                    with open(args.parsemd + '/' + f, 'r') as mdfile:
-                        lines = mdfile.readlines()
-                        creature = Creature()
-                        creature.parseMD(lines)
-                        creatures.append(creature)
+                    ext = str(f)[-4:].lower()
+                    if ext != '.png' and ext != '.jpg' and ext != 'webp':
+                        with open(args.parsemd + '/' + f, 'r') as mdfile:
+                            #print("Parsing " + args.parsemd + '/' + f)
+                            lines = mdfile.readlines()
+                            parsedcreature = SubtypedCreature.parseMD(lines)
+                            if isinstance(parsedcreature, SubtypedCreature):
+                                #print("We parsed the multi-typed creature " + parsedcreature.name)
+                                #for creature in parsedcreature.subtypes:
+                                    #print("   " + creature.name)
+                                creatures.append(parsedcreature)
+                            else:
+                                #print("We parsed the creature " + parsedcreature.name)
+                                creatures.append(parsedcreature)
         else:
             with open(args.parsemd, 'r') as mdfile:
                 lines = mdfile.readlines()
@@ -757,20 +975,48 @@ def main(argv):
 
     # List
     if args.list != None:
-        for name in map(lambda crea: creature.name, creatures):
+        for name in map(lambda crea: crea.name, creatures):
             print(name)
 
     # Store?
-    if args.writemd != None:
+    elif args.writemd != None:
         dest = args.writemd
         if dest == '-':
             for creature in creatures:
                 print(creature.emitMD())
         elif os.path.isdir(dest):
             for creature in creatures:
-                print("Writing " + str(creature))
-                with open(camelcaseify(args.writemd + '/' + creature.name).title() + ".md", 'w') as mdfile:
+                with open(args.writemd + "/" + (creature.name).replace(" ", "") + ".md", 'w') as mdfile:
+                    #print("Writing " + creature.name)
                     mdfile.write(creature.emitMD())
+    elif args.writeindex != None:
+        # We actually want all the SubtypedCreatures to appear in the full
+        # creatures list for indexing purposes, so....
+
+        fulllist = []
+        for creature in creatures:
+            if isinstance(creature, SubtypedCreature):
+                fulllist.append(creature)
+                for subcreature in creature.subtypes:
+                    fulllist.append(subcreature)
+            else:
+                fulllist.append(creature)
+
+        fulllist.sort(key=lambda crea: crea.name)
+        indexstr = ''
+        for creature in fulllist:
+            if isinstance(creature, SubtypedCreature):
+                indexstr += f"- [{creature.name}]({creature.filename()}): "
+                indexstr += " | ".join(map(lambda subcrea: f"[{subcrea.name}]({subcrea.filename()})", creature.subtypes))
+                indexstr += "\n"
+            else:
+                indexstr += f"- [{creature.name}]({creature.filename()})\n"
+
+        if args.writeindex == '-':
+            print(indexstr)
+        else:
+            with open(args.writeindex + "/index.md", 'w') as indexfile:
+                indexfile.write(indexstr)
     else:
         parser.print_help()
 

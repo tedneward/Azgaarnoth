@@ -1,20 +1,20 @@
 # Mephit
 Mephits are capricious, imp-like creatures native to the elemental planes. They come in six varieties, each one representing the mixture of two elements. Most mephits are the conjunction of two elemental essences and a longtime identity that chooses to continue its existence in a more corporeal form.
 
+> Jump to: [Dust](#dust) | [Ice](#ice) | [Magma](#magma) | [Mud](#mud) | [Smoke](#smoke) | [Steam](#steam)
+
 Ageless tricksters, mephits gather in large numbers on the Elemental Planes and in the Elemental Chaos. They also find their way to the Material Plane, where they prefer to dwell in places where their base elements are abundant. For example, a magma mephit is composed of earth and fire, and it favors volcanic lairs, while an ice mephit, which is composed of air and water, favors frigid locales.
 
 Some scholars theorize that the mephit is the form punished souls take when disappointing a [Fiend patron](../Classes/Warlock/Fiend.md) or one of an elemental nature.
 
 ***Elemental Nature.*** A mephit doesn't require food, drink, or sleep.
 
-> Jump to: [Dust](#dust) | [Ice](#ice) | [Magma](#magma) | [Mud](#mud) | [Smoke](#smoke) | [Steam](#steam)
-
 ---
 
 ## Dust Mephit
 ![](Mephit-Dust.png) | Composed of earth and air, dust mephits are drawn to catacombs and find death morbidly fascinating.
 
->## Dust Mephit
+>### Dust Mephit
 >*Small elemental, neutral evil*
 >___
 >- **Armor Class** 12 (natural armor)
@@ -51,7 +51,7 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 ## Ice Mephit
 ![](Mephit-Ice.png) | Comprising frigid air and water, ice mephits are aloof and cold, surpassing all other mephits in pitiless cruelty.
 
->## Ice Mephit
+>### Ice Mephit
 >*Small elemental, neutral evil*
 >___
 >- **Armor Class** 11 (natural armor)
@@ -89,7 +89,7 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 ## Magma Mephit
 ![](Mephit-Magma.png) | Composed of earth and fire, magma mephits glow a dull red color as they perspire beads of molten lava. They are slow to comprehend the meaning of others' words and actions.
 
->## Magma Mephit
+>### Magma Mephit
 >*Small elemental, neutral evil*
 >___
 >- **Armor Class** 11 (natural armor)
@@ -128,7 +128,7 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 ## Mud Mephit
 ![](Mephit-Mud.png) Mud mephits are slow, unctuous creatures of earth and water. They drone their complaints to all who will listen, and beg incessantly for attention and treasure.
 
->## Mud Mephit
+>### Mud Mephit
 >*Small elemental, neutral evil*
 >___
 >- **Armor Class** 11 (natural armor)
@@ -163,7 +163,7 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 ## Smoke Mephit
 ![](Mephit-Smoke.png) | Smoke mephits are crude, lazy creatures of air and fire that billow smoke constantly. They rarely speak the truth and love to mock and mislead other creatures.
 
->## Smoke Mephit
+>### Smoke Mephit
 >*Small elemental, neutral evil*
 >___
 >- **Armor Class** 12 (natural armor)
@@ -198,7 +198,7 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 ## Steam Mephit
 ![](Mephit-Steam.png) | Composed of fire and water, steam mephits leave trails of hot water wherever they go, and they hiss with tendrils of steam. Bossy and hypersensitive, they are the self-appointed overlords of all mephits.
 
->## Steam Mephit
+>### Steam Mephit
 >*Small elemental, neutral evil*
 >___
 >- **Armor Class** 10

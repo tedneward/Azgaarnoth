@@ -3,6 +3,8 @@ Ranging from the mouser on the farm to the King of Beasts, the feline species, i
 
 > Jump to: [Cat](#cat) | [Lion](#lion) [Panther](#panther) | [Saber-Toothed Tiger](#saber-toothed-tiger) | [Tiger](#tiger)
 
+---
+
 ## Cat
 Meow. Purr.
 

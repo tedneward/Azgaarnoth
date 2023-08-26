@@ -1,7 +1,7 @@
 # Hobgoblins
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
 
-> Jump to: [Hobgoblin](#hobgoblin) | [Hobgoblin Warrior](#hobgoblin-warrior) | [Hobgoblin Veteran](#hobgoblin-veteran) | [Hobgoblin Sergeant](#hobgoblin-sergeant) | [Hobgoblin Captain](#hobgoblin-captain) | [Hobgoblin Warlord](#hobgoblin-warlord) | [Bladebearer](#bladebearer) | [Devastator](#devastator) | [Iron Shadow](#iron-shadow) | [Mindbender](#kulkor-zhul-mindbender) | [Kulkor Zhul War Adept](#kulkor-zhul-war-adept) | [Doom Hand Cleric](#doom-hand-cleric) | [Doom Fist Monk](#doom-fist-monk)
+> Jump to: [Hobgoblin](#hobgoblin) | [Hobgoblin Warrior](#hobgoblin-warrior) | [Hobgoblin Veteran](#hobgoblin-veteran) | [Hobgoblin Sergeant](#hobgoblin-sergeant) | [Hobgoblin Captain](#hobgoblin-captain) | [Hobgoblin Warlord](#hobgoblin-warlord) | [Bladebearer](#bladebearer) | [Devastator](#hobgolbin-devastator) | [Iron Shadow](#hobgoblin-iron-shadow) | [Mindbender](#kulkor-zhul-mindbender) | [Kulkor Zhul War Adept](#kulkor-zhul-war-adept) | [Doom Hand Cleric](#doom-hand-cleric) | [Doom Fist Monk](#doom-fist-monk)
 
 Hobgoblins have dark orange or red-orange skin, and hair ranging from dark red-brown to dark gray. Yellow or dark brown eyes peer out beneath their beetling brows, and their wide mouths sport sharp and yellowed teeth. A male hobgoblin might have a large blue or red nose, which symbolizes virility and power among goblinkin. Hobgoblins can live as long as humans, though their love of warfare and battle means that few do.
 
@@ -324,8 +324,8 @@ The Academy of Devastation believes that an academic approach to magic is a sign
 
 If they survive long enough, Devastators usually end up looking to join one of the Evocation-friendly [Mage Schools](../Organizations/MageSchools/index.md) to further their education, and return to their Legion even more frightening and powerful.
 
->### Devastator
->*Medium humanoid, lawful evil*
+>### Hobgoblin Devastator
+>*Medium Fey (Goblinoid), Typically Lawful Neutral*
 >___
 >- **Armor Class** 13 (studded leather)
 >- **Hit Points** 45 (7d8 + 14)
@@ -336,7 +336,7 @@ If they survive long enough, Devastators usually end up looking to join one of t
 >|13 (+1)|12 (+1)|14 (+2)|16 (+3)|13 (+1)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -347,42 +347,26 @@ If they survive long enough, Devastators usually end up looking to join one of t
 >- **Languages** Common,Goblin
 >- **Challenge** 4
 >___
->***Arcane Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a damaging spell attack if that target is within 5 feet of an ally of the hobgoblin and that ally isn't incapacitated.
->
 >***Army Arcana.*** When the hobgoblin casts a spell that causes damage or that forces other creatures to make a saving throw, it can choose itself and any number of allies to be immune to the damage caused by the spell and to succeed on the required saving throw.
 >
->***Spellcasting.*** The hobgoblin is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:
->
->Cantrips (at will): acid splash, fire bolt, ray of frost, shocking grasp
->
->1st level (4 slots): fog cloud, magic missile, thunderwave
->
->2nd level (3 slots): gust of wind, Melf's acid arrow, scorching ray
->
->3rd level (3 slots): fireball, fly, lightning bolt
->
->4th level (1 slot): ice storm
->
 >#### Actions
->***Fire Bolt.*** Ranged Spell Attack: +5 to hit, reach 120 ft., one target. Hit: (2d10) fire damage. A flammable object hit by this spell ignites if it isn't being carried or worn
+>***Multiattack.*** The hobgoblin makes two Quarterstaff or Devastating Bolt attacks.
 >
->***Melf's Acid Arrow.*** Ranged Spell Attack: +5 to hit, reach 90 ft., one target. Hit: (4d4) acid damage plus (2d4)acid damage. The target takes another at the end of its next turn On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn
+>***Quarterstaff.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage, or 5 (1d8 + 1) bludgeoning damage if used with two hands, plus 13 (3d8) force damage.
 >
->***Quarterstaff (One-Handed).*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: (1d6 + 1) bludgeoning damage.
+>***Devastating Bolt.*** Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 21 (4d8 + 3) force damage, and the target is knocked prone.
 >
->***Quarterstaff (Two-Handed).*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: (1d8 + 1) bludgeoning damage.
->
->***Ray of Frost.*** Ranged Spell Attack: +5 to hit, reach 60 ft., one creature. Hit: (2d8) cold damage. The target's speed is reduced by 10 feet until the start of the hobgoblin's next turn.
->
->***Scorching Ray.*** Ranged Spell Attack: +5 to hit, reach 120 ft., one target. Hit: (2d6) fire damage. The hobgoblin creates three rays when it casts this spell and it can hurl them at one or several targets in range.
->
->***Shocking Grasp.*** Melee Spell Attack: +5 to hit, reach 5 ft., one creature. Hit: (2d8) lightning damage. The target can't take reactions until the start of its next turn. The hobgoblin has advantage on this attack if the target is wearing armor made of metal.
->
+>***Spellcasting.*** The hobgoblin is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:
+>* Cantrips (at will): acid splash, fire bolt, ray of frost, shocking grasp
+>* 1st level (4 slots): fog cloud, magic missile, thunderwave
+>* 2nd level (3 slots): gust of wind, Melf's acid arrow, scorching ray
+>* 3rd level (3 slots): fireball, fly, lightning bolt
+>* 4th level (1 slot): ice storm
 
 ---
 
-## Iron Shadow
-The Iron Shadows are Hobgoblin monks that serve as secret police, scouts, and assassins. Among other Hobgoblins, they spy to ferret out treachery, rebellion, and betrayal.
+## Hobgoblin Iron Shadow
+Iron shadows are hobgoblin martial artists who serve fey and mortal courts as secret police, scouts, and assassins. They spy to ferret out treachery, rebellion, and betrayal and deal with it ruthlessly. Iron shadows possess agility and stamina matched only by their ironclad commitment to the will of their masters. They wield a deadly combination of unarmed fighting techniques and shadow magic to deceive and defeat their foes. While on secret missions, they wear masks crafted to resemble monsters, both to conceal their identities and to strike fear into their foes.
 
 ***Trained in Secret.*** Iron Shadows are recruited from across the Hobgoblin ranks. Each member keeps her eyes open for potential recruits, those whose agility and stamina are matched only by an ironclad commitment to Maglubiyet's will.
 
@@ -396,10 +380,10 @@ Their masks also signify the supposed origin of their fighting techniques. The C
 
 It is rumored that the Order of Iron Shadows is organized precisely along the same lines as any [Monastic Order](../Organizations/MonasticOrders/MonasticOrders.md), and could--if a candidate were dedicated enough--accept candidates of other races. This is, however, entirely unproven.
 
->### Iron Shadow
->*Medium humanoid, lawful evil*
+>### Hobgoblin Iron Shadow
+>*Medium Fey (Goblinoid), Typically Lawful Neutral*
 >___
->- **Armor Class** 15
+>- **Armor Class** 15 (Unarmored Defense)
 >- **Hit Points** 32 (5d8 + 10)
 >- **Speed** 40 ft.
 >___
@@ -408,7 +392,7 @@ It is rumored that the Order of Iron Shadows is organized precisely along the sa
 >|14 (+2)|16 (+3)|15 (+2)|14 (+2)|15 (+2)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -419,22 +403,22 @@ It is rumored that the Order of Iron Shadows is organized precisely along the sa
 >- **Languages** Common,Goblin
 >- **Challenge** 2
 >___
->***Spellcasting.*** The hobgoblin is a 2nd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared:
->
->Cantrips (at will): minor illusion, prestidigitation, true strike
->
->1st level (3 slots): charm person, disguise self, expeditious retreat, silent image
->
 >***Unarmored Defense.*** While the hobgoblin is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 >
 >#### Actions
->***Multiattack.*** The hobgoblin makes four attacks, each of which can be an unarmed strike or a dart attack. It can also use Shadow Jaunt once, either before or after one of the attacks.
+>***Multiattack.*** The hobgoblin makes four attacks, each of which can be an Unarmed Strike or a Dart attack. It can also use Shadow Jaunt once, either before or after one of the attacks.
 >
->***Unarmed Strike.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: (1d4 + 3) bludgeoning damage.
+>***Unarmed Strike.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage.
 >
->***Dart.*** Ranged Weapon Attack: +5 to hit, reach 20/60 ft., one target. Hit: (1d4 + 3) piercing damage.
+>***Dart.*** Ranged Weapon Attack. +5 to hit, range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
 >
->***Shadow Jaunt.*** The hobgoblin magically teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see. Both the space it is leaving and its destination must be in dim light or darkness.
+>***Shadow Jaunt.*** The hobgoblin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see. Both the space it leaves and its destination must be in dim light or darkness.
+>
+>***Spellcasting.*** The hobgoblin casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 12):
+>
+>At will: minor illusion, prestidigitation
+>
+>1/day each: charm person, disguise self, silent image
 >
 
 ---

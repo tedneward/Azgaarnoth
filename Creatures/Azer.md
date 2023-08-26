@@ -1,7 +1,7 @@
 ## Azer
-![](Azer.png)
-
 Natives of the Elemental Plane of Fire, azers are master crafters, expert miners, and sworn foes of the efreet. In appearance and manner, an azer resembles a male dwarf, but this is a facade. Beneath its metallic-looking skin, an azer is a being of fire, which outwardly manifests in its fiery hair and beard.
+
+![](Azer.png)
 
 ***Made, Not Born.*** Azers don't reproduce. They are each crafted from bronze by another azer and imbued with a portion of the crafter's inner flame. Each azer is sculpted with unique features. This crafting process limits the growth of the azer population and is the primary reason that these creatures remain rare.
 
@@ -27,7 +27,7 @@ When azers are called by magic to the Material Plane, it is typically to help fo
 >|17 (+3)|12 (+1)|15 (+2)|12 (+1)|13 (+1)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** 0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Con +4
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

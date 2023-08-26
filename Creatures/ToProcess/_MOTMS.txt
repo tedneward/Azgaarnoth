@@ -1,0 +1,2504 @@
+
+BESTIARY (L-R)
+TABLE OF CONTENTS
+BESTIARY (V-Z)
+Bestiary (S-U)
+Monsters: S
+Sea Spawn
+Many of the stories sung as sea chanteys and recounted in dockside taverns tell of people lost to the sea—but not merely drowned and gone. Some unfortunates taken by the ocean live on as sea spawn, haunting the waves like tortured reflections of their former selves. Coral encrusts them. Barnacles cling to their cold skin. Lungs that once filled with air can now breathe in water as well.
+
+Tales provide myriad reasons for these strange transformations. Folklore warns against falling in love with a sea elf or merfolk, braving storms in hopes of a bounteous catch, and promising your heart to a sea god. Such cautionary tales disguise the deeper truth: things lurking beneath the waves strive to claim the hearts and minds of land dwellers.
+
+Krakens, morkoths, sea hags, marids, storm giants, dragon turtles (morkoths appear in this book; the others appear in the Monster Manual)—all of these and more can mark mortals as their own and claim them as minions. Unlucky folk might become beholden to such a master through a bleak bargain, or they might find themselves cursed by one. Once warped into a fishlike form, a sea spawn can’t leave the water for long without courting death.
+
+Sea spawn come in a wide variety of forms. An individual might have a tentacle for an arm, the jaws of a shark, a sea urchin’s spines, a whale’s fin, octopus eyes, seaweed hair, or any combination of such qualities. Some of these piscine body parts provide them with special abilities.
+
+SEA SPAWN
+Medium Monstrosity, Typically Neutral Evil
+
+Armor Class 11 (natural armor)
+
+Hit Points 32 (5d8 + 10)
+
+Speed 20 ft., swim 30 ft.
+
+STR
+15 (+2)
+DEX
+8 (−1)
+CON
+15 (+2)
+INT
+6 (−2)
+WIS
+10 (+0)
+CHA
+8 (−1)
+Senses darkvision 120 ft., passive Perception 10
+
+Languages understands Aquan and Common but can’t speak
+
+Challenge 1 (200 XP) Proficiency Bonus +2
+
+Limited Amphibiousness. The sea spawn can breathe air and water, but it needs to be submerged in the sea at least once a day for 1 minute to avoid suffocating.
+
+Actions
+
+Multiattack. The sea spawn makes two Unarmed Strike attacks and one Piscine Anatomy attack.
+
+Unarmed Strike. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
+
+Piscine Anatomy. The sea spawn uses one of the following options (choose one or roll a d6):
+
+1–2: Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+
+3–4: Poison Quills. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 3 (1d6) poison damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+5–6: Tentacle. Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage, and the target is grappled (escape DC 12) if it is a Medium or smaller creature. Until this grapple ends, the sea spawn can’t use this tentacle on another target.
+
+
+The Sea Spawn of Purple Rocks
+Visitors to a string of islands called the Purple Rocks (in the Forgotten Realms setting) might notice one curious fact about the islands’ human inhabitants: no infants or elderly are among them. This is because babies born to the Rocklanders are claimed by a kraken (see the Monster Manual) named Slarkrethel. The experience transforms the children into fanatics dedicated to the kraken. They return from the sea as humans, but when they reach old age, they transform into sea spawn and rejoin their master in the depths. Some children return having suffered partial transformations and must conceal themselves from strangers until their full transformation in order to keep the secret of the Purple Rocks.
+
+Kraken priests (in this book) tend to the kraken’s flock. Most of the priests are island natives, but some are other sorts of creatures that live in the water around the Purple Rocks, such as merfolk or merrow (both of which appear in the Monster Manual), or even sea elves.
+
+Shadar-kai
+In the gloom of the Shadowfell live shadar-kai, elves whose ancestors served the Raven Queen, a god of death and memory. They were brought to that realm in ages past, so long ago that they’re now adapted to its cheerless environment, both physically and mentally.
+
+Eons of exposure to the influence of the Shadowfell has left shadar-kai often joyless and mournful. In that realm, they have pale hair, wrinkled gray skin, and swollen joints that give them a corpse-like aspect. They appear more youthful while on other planes, but their skin always retains a deathly ashen hue. When in the Shadowfell, they detest mirrors and avoid keeping things that remind them of their age.
+
+Shadar-kai of the Raven Queen watch over both the Shadowfell and the Material Plane, scouting out choice souls and tragedies that might please their deity. They are rumored to be able to coax worldly events along tragic paths for her amusement. The Raven Queen is famously cryptic even to her most devoted followers, however; their efforts are rewarded only with vague omens they interpret as best they can.
+
+Fortress of Memories
+
+The shadar-kai who are most devoted to the Raven Queen serve her at the Fortress of Memories, her twisted castle in the Shadowfell. The fortress is a mournful place, filled with incessant echoes of the past. Flocks of ravens that act as the Raven Queen’s eyes and ears darken the skies around it when they emerge from within, bearing her cryptic messages and omens far and wide across the multiverse.
+
+Within the fortress are items that the Raven Queen finds irresistible: objects invested with deep feelings of sorrow, longing, or remorse. These items are brought to her as gifts from the shadar-kai, and include furniture, clocks, mirrors, jewels, and toys. Ghostly visions of people, places, and pets also appear in the fortress. Any of these things can spontaneously appear about her lair, every object and apparition being a metaphoric representation of some story—great or small—that was saturated with raw emotion.
+
+Shadar-kai encountered outside the Shadowfell are often on quests to find the most sorrow-touched items they can find to bring back to their queen’s gloomy castle.
+
+Gloom Weaver
+Although they’re formidable warriors, gloom weavers are often content to hide in the shadows, watching as their very presence affects their victims. Their bleak energy weighs down the heart, causing those nearby to feel the approach of death. If detected, gloom weavers use their shadow magic to reduce enemies to ghastly corpses.
+
+SHADAR-KAI GLOOM WEAVER
+Medium Humanoid (Elf), Typically Neutral Evil
+
+Armor Class 14 (17 with mage armor)
+
+Hit Points 104 (16d8 + 32)
+
+Speed 30 ft.
+
+STR
+11 (+0)
+DEX
+18 (+4)
+CON
+14 (+2)
+INT
+15 (+2)
+WIS
+12 (+1)
+CHA
+18 (+4)
+Saving Throws Dex +8, Con +6
+
+Damage Immunities necrotic
+
+Condition Immunities charmed, exhaustion
+
+Senses darkvision 60 ft., passive Perception 11
+
+Languages Common, Elvish
+
+Challenge 9 (5,000 XP) Proficiency Bonus +4
+
+Burden of Time. Beasts and Humanoids (except elves) have disadvantage on saving throws while within 10 feet of the shadar-kai.
+
+Fey Ancestry. The shadar-kai has advantage on saving throws against being charmed, and magic can’t put it to sleep.
+
+Actions
+
+Multiattack. The shadar-kai makes three Shadow Spear attacks. It can replace one attack with a use of Spellcasting.
+
+Shadow Spear. Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 30/120, one target. Hit: 7 (1d6 + 4) piercing damage plus 26 (4d12) necrotic damage. Hit or Miss: The spear magically returns to the shadar-kai’s hand immediately after a ranged attack.
+
+Spellcasting. The shadar-kai casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
+
+At will: arcane eye, mage armor, minor illusion, prestidigitation, speak with dead
+
+1/day each: arcane gate, bane, confusion, darkness, fear, major image, true seeing
+
+Reactions
+
+Misty Escape (Recharge 6). When the shadar-kai takes damage, it turns invisible and teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see. It remains invisible until the start of its next turn or until it attacks or casts a spell.
+
+
+Shadow Dancer
+Those who have fought shadow dancers describe the experience as similar to fighting a living darkness. Every dim alcove and darkened nook is a place the lithe and acrobatic shadow dancers can emerge from to ambush their prey. Using this tactic, they attack their enemies from all angles with a flurry of entangling chains that hold fast and corrupt the flesh. When their quarry is helpless, they dispatch it and then loot the corpse for trinkets, particularly anything colorful and lively to gaze at after they return to the gloom of the Shadowfell.
+
+SHADAR-KAI SHADOW DANCER
+Medium Humanoid (Elf), Any Alignment
+
+Armor Class 15 (studded leather)
+
+Hit Points 71 (13d8 + 13)
+
+Speed 30 ft.
+
+STR
+12 (+1)
+DEX
+16 (+3)
+CON
+13 (+1)
+INT
+11 (+0)
+WIS
+12 (+1)
+CHA
+12 (+1)
+Saving Throws Dex +6, Cha +4
+
+Skills Stealth +6
+
+Damage Resistances necrotic
+
+Condition Immunities charmed, exhaustion
+
+Senses darkvision 60 ft., passive Perception 11
+
+Languages Common, Elvish
+
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+
+Fey Ancestry. The shadar-kai has advantage on saving throws against being charmed, and magic can’t put it to sleep.
+
+Actions
+
+Multiattack. The shadar-kai makes three Spiked Chain attacks. It can use Shadow Jump after one of these attacks.
+
+Spiked Chain. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) piercing damage. The target must succeed on a DC 14 Dexterity saving throw or suffer one of the following effects (choose one or roll a d6):
+
+1–2: Decay. The target takes 22 (4d10) necrotic damage.
+
+3–4: Grapple. The target is grappled (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends, the target is restrained, and the shadar-kai can’t grapple another target.
+
+5–6: Topple. The target is knocked prone.
+
+Bonus Actions
+
+Shadow Jump. The shadar-kai teleports, along with any equipment is it wearing or carrying, up to 30 feet to an unoccupied space it can see. Both the space it teleports from and the space it teleports to must be in dim light or darkness.
+
+
+Soul Monger
+Wracked with despair over the loss of memories of a brighter time, soul mongers crave the vitality of others. The aching void within a soul monger radiates outward, manifesting as an unbearable weight that drains the vigor of anyone unfortunate enough to be in their presence. Those who have escaped the onslaught of a soul monger can hardly shake the memory of the sound they make—the moan of a tortured soul, lost in a bottomless well of tragedy.
+
+SHADAR-KAI SOUL MONGER
+Medium Humanoid (Elf), Typically Neutral Evil
+
+Armor Class 15 (studded leather)
+
+Hit Points 136 (21d8 + 42)
+
+Speed 30 ft.
+
+STR
+8 (−1)
+DEX
+17 (+3)
+CON
+14 (+2)
+INT
+19 (+4)
+WIS
+16 (+3)
+CHA
+13 (+1)
+Saving Throws Dex +7, Wis +7, Cha +5
+
+Skills Perception +7
+
+Damage Immunities necrotic, psychic
+
+Condition Immunities charmed, exhaustion, frightened
+
+Senses darkvision 60 ft., passive Perception 17
+
+Languages Common, Elvish
+
+Challenge 11 (7,200 XP) Proficiency Bonus +4
+
+Fey Ancestry. The shadar-kai has advantage on saving throws against being charmed, and magic can’t put it to sleep.
+
+Magic Resistance. The shadar-kai has advantage on saving throws against spells and other magical effects.
+
+Soul Thirst. When it reduces a creature to 0 hit points, the shadar-kai can gain temporary hit points equal to half the creature’s hit point maximum. While the shadar-kai has temporary hit points from this trait, it has advantage on attack rolls.
+
+Weight of Ages. Any Beast or Humanoid (except an elf) that starts its turn within 5 feet of the shadar-kai has its speed reduced by 20 feet until the start of that creature’s next turn.
+
+Actions
+
+Multiattack. The shadar-kai makes two Shadow Dagger attacks.
+
+Shadow Dagger. Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 13 (4d4 + 3) piercing damage plus 19 (3d12) necrotic damage, and the target has disadvantage on saving throws until the end of the shadar-kai’s next turn. Hit or Miss: The dagger magically returns to the shadar-kai’s hand immediately after a ranged attack.
+
+Spellcasting. The shadar-kai casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
+
+1/day each: bestow curse, finger of death, gaseous form, seeming
+
+Wave of Weariness (Recharge 4–6). The shadar-kai emits weariness in a 60-foot cube. Each creature in that area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 45 (10d8) psychic damage and suffers 1 level of exhaustion. On a successful save, it takes half as much damage and doesn’t gain a level of exhaustion.
+
+
+Shadow Mastiffs
+Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows, always on the hunt.
+
+Shadow Mastiff
+Shunning sunlight, these hounds are usually met as a pack. Some faiths devoted to deities of gloom and night, such as that of Shar in the Forgotten Realms, perform unholy rites to summon shadow mastiffs to work as temple sentinels and bodyguards.
+
+SHADOW MASTIFF
+Medium Monstrosity, Typically Neutral Evil
+
+Armor Class 12
+
+Hit Points 33 (6d8 + 6)
+
+Speed 40 ft.
+
+STR
+16 (+3)
+DEX
+14 (+2)
+CON
+13 (+1)
+INT
+5 (−3)
+WIS
+12 (+1)
+CHA
+5 (−3)
+Skills Perception +5, Stealth +6
+
+Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks while in dim light or darkness
+
+Senses darkvision 60 ft., passive Perception 15
+
+Languages —
+
+Challenge 2 (450 XP) Proficiency Bonus +2
+
+Ethereal Awareness. The shadow mastiff can see ethereal creatures and objects.
+
+Sunlight Weakness. While in bright light created by sunlight, the shadow mastiff has disadvantage on attack rolls, ability checks, and saving throws.
+
+Actions
+
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+
+Bonus Actions
+
+Shadow Blend. While in dim light or darkness, the shadow mastiff becomes invisible, along with anything it is wearing or carrying. The invisibility lasts until the shadow mastiff uses a bonus action to end it or until the shadow mastiff attacks, is in bright light, or is incapacitated.
+
+
+Shadow Mastiff Alpha
+Each pack of shadow mastiffs is led by an alpha, the smartest one of the group. The sound of an alpha’s howl strikes terror into those who hear it and is a sure sign that a pack is on the prowl.
+
+SHADOW MASTIFF ALPHA
+Medium Monstrosity, Typically Neutral Evil
+
+Armor Class 12
+
+Hit Points 44 (8d8 + 8)
+
+Speed 40 ft.
+
+STR
+16 (+3)
+DEX
+14 (+2)
+CON
+13 (+1)
+INT
+6 (−2)
+WIS
+12 (+1)
+CHA
+5 (−3)
+Skills Perception +5, Stealth +6
+
+Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks while in dim light or darkness
+
+Senses darkvision 60 ft., passive Perception 15
+
+Languages —
+
+Challenge 3 (700 XP) Proficiency Bonus +2
+
+Ethereal Awareness. The shadow mastiff can see ethereal creatures and objects.
+
+Sunlight Weakness. While in bright light created by sunlight, the shadow mastiff has disadvantage on attack rolls, ability checks, and saving throws.
+
+Actions
+
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+
+Terrifying Howl (Recharge 6). The shadow mastiff howls. Any Beast or Humanoid within 300 feet of it must succeed on a DC 11 Wisdom saving throw or be frightened of it for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s save is successful or the effect ends for it, the target is immune to any shadow mastiff’s Terrifying Howl for the next 24 hours.
+
+Bonus Actions
+
+Shadow Blend. While in dim light or darkness, the shadow mastiff becomes invisible, along with anything it is wearing or carrying. The invisibility lasts until the shadow mastiff uses a bonus action to end it or until the shadow mastiff attacks, is in bright light, or is incapacitated.
+
+Shoosuva
+A shoosuva is a hyena-demon gifted by Yeenoghu (appears in this book) to an especially powerful worshiper (typically a fang of Yeenoghu; see the Monster Manual). A shoosuva manifests shortly after a Yeenoghu-worshiping war band achieves a great victory, emerging from a billowing, fetid cloud of smoke as it arrives from the Abyss. In battle, the demon wraps its slavering jaws around one victim while lashing out with the poisonous stinger on its tail to bring down another. A creature immobilized by the poison becomes easy pickings for any nearby members of the war band.
+
+Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongside its master. A gnoll that has been gifted with a shoosuva is second only to a flind (appears in this book) in status within a war band dedicated to Yeenoghu.
+
+What? Are you expecting me to comment on these creatures? Fine, how’s this: a loyal pet deserves a loyal pet.
+
+—Mordenkainen
+
+Trust Mordenkainen to look down on any sort of companionship—even the slavering, venomous, demonic puppy kind.
+
+Tasha
+
+SHOOSUVA
+Large Fiend (Demon), Typically Chaotic Evil
+
+Armor Class 14 (natural armor)
+
+Hit Points 136 (16d10 + 48)
+
+Speed 40 ft.
+
+STR
+18 (+4)
+DEX
+13 (+1)
+CON
+17 (+3)
+INT
+7 (−2)
+WIS
+14 (+2)
+CHA
+9 (−1)
+Saving Throws Dex +4, Con +6, Wis +5
+
+Damage Resistances cold, fire, lightning
+
+Damage Immunities poison
+
+Condition Immunities charmed, frightened, poisoned
+
+Senses darkvision 60 ft., passive Perception 12
+
+Languages Abyssal, Gnoll, telepathy 120 ft.
+
+Challenge 8 (3,900 XP) Proficiency Bonus +3
+
+Actions
+
+Multiattack. The shoosuva makes one Bite attack and one Tail Stinger attack.
+
+Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 26 (4d10 + 4) piercing damage.
+
+Tail Stinger. Melee Weapon Attack: +7 to hit, reach 15 ft., one creature. Hit: 13 (2d8 + 4) piercing damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned in this way, the target is also paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Bonus Actions
+
+Rampage. When it reduces a creature to 0 hit points with a melee attack on its turn, the shoosuva can move up to half its speed and make one Bite attack.
+
+
+Sibriex
+Thought to be as old as the Abyss itself, sibriexes haunt remote parts of that plane, where they use their vile abilities to create new horrors and they seek ancient lore. Rivulets of blood and bile cascade from a sibriex’s body, polluting the surrounding landscape.
+
+Sibriexes have spent eons amassing knowledge from across the planes, hoarding it for when it might be useful. Such are their incredible intellects and stores of information that many seek them out, including demon lords. Some sibriexes act as advisors and oracles, manipulating demons into serving their ends, while others parcel out lore only when doing so advances their plans.
+
+Sibriexes can channel the power of the Abyss to create new demons from other creatures. Some demons petition sibriexes for physical gifts, for sibriexes can graft on new body parts to give the demons greater strength, vision, or stamina. Sibriexes never give aid freely, though; they demand a service or a treasure in return for the flesh-shaping they provide.
+
+SIBRIEX
+Huge Fiend (Demon), Typically Chaotic Evil
+
+Armor Class 19 (natural armor)
+
+Hit Points 150 (12d12 + 72)
+
+Speed 0 ft., fly 20 ft. (hover)
+
+STR
+10 (+0)
+DEX
+3 (−4)
+CON
+23 (+6)
+INT
+25 (+7)
+WIS
+24 (+7)
+CHA
+25 (+7)
+Saving Throws Int +13, Cha +13
+
+Skills Arcana +13, History +13, Perception +13
+
+Damage Resistances cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+
+Damage Immunities poison
+
+Condition Immunities poisoned
+
+Senses truesight 120 ft., passive Perception 23
+
+Languages all, telepathy 120 ft.
+
+Challenge 18 (20,000 XP) Proficiency Bonus +6
+
+Contamination. The sibriex emits an aura of corruption 30 feet in every direction. Vegetation withers in the aura, and the ground in the aura is difficult terrain for other creatures. Any creature that starts its turn in the aura must succeed on a DC 20 Constitution saving throw or take 14 (4d6) poison damage. A creature that succeeds on the save is immune to this sibriex’s Contamination for 24 hours.
+
+Legendary Resistance (3/Day). If the sibriex fails a saving throw, it can choose to succeed instead.
+
+Magic Resistance. The sibriex has advantage on saving throws against spells and other magical effects.
+
+Actions
+
+Multiattack. The sibriex makes three Chain attacks, and it uses Squirt Bile.
+
+Chain. Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 20 (2d12 + 7) force damage.
+
+Squirt Bile. The sibriex targets one creature it can see within 120 feet of it. The target must succeed on a DC 20 Dexterity saving throw or take 31 (9d6) acid damage.
+
+Spellcasting. The sibriex casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 21):
+
+At will: command, dispel magic, hold monster
+
+1/day: feeblemind
+
+Warp Creature. The sibriex targets up to three creatures it can see within 120 feet of it. Each target must make a DC 20 Constitution saving throw. On a successful save, a creature becomes immune to this sibriex’s Warp Creature. On a failed save, the target is poisoned, which causes it to also gain 1 level of exhaustion. While poisoned in this way, the target must repeat the saving throw at the start of each of its turns. Three successful saves against the poison end it, and ending the poison removes any levels of exhaustion caused by it. Each failed save causes the target to gain another level of exhaustion. Once the target reaches 6 levels of exhaustion, it dies and instantly transforms into a living manes (see the Monster Manual) under the sibriex’s control. The transformation of the body can be undone only by a wish spell.
+
+Legendary Actions
+
+The sibriex can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The sibriex regains spent legendary actions at the start of its turn.
+
+Cast a Spell. The sibriex uses Spellcasting.
+
+Spray Bile. The sibriex uses Squirt Bile.
+
+Warp (Costs 2 Actions). The sibriex uses Warp Creature.
+
+
+Variant: Flesh Warping
+Creatures that encounter a sibriex can be twisted beyond recognition. Whenever a creature fails a saving throw against the sibriex’s Warp Creature effect, you can roll percentile dice and consult the Flesh Warping table to determine an additional effect, which vanishes when Warp Creature ends on the creature. If the creature transforms into a manes, the effect becomes a permanent feature of that body.
+
+A creature can willingly submit to flesh warping, an agonizing process that takes at least 1 hour while the creature stays within 30 feet of the sibriex. At the end of the process, roll once on the table (or choose one effect) to determine how the creature is transformed permanently.
+
+Flesh Warping
+d100	Effect
+01–05	The color of the target’s hair, eyes, and skin becomes blue, red, yellow, or patterned.
+06–10	The target’s eyes push out of its head at the end of stalks.
+11–15	The target’s hands grow claws, which can be used as daggers.
+16–20	One of the target’s legs grows longer than the other, reducing its walking speed by 10 feet.
+21–25	The target’s eyes become beacons, filling a 15-foot cone with dim light when they are open.
+26–30	A pair of wings, either feathered or leathery, sprout from the target’s back, granting it a flying speed of 30 feet.
+31–35	The target’s ears tear free from its head and scurry away; the target is deafened.
+36–40	Two of the target’s teeth turn into short tusks.
+41–45	The target’s skin develops bark-like scales, granting it a +1 bonus to AC but reducing its Charisma score by 2 (to a minimum of 1).
+46–50	The target’s arms and legs switch places, preventing the target from moving unless it crawls.
+51–55	The target’s arms become tentacles with fingers on the ends, increasing its reach by 5 feet.
+56–60	The target’s legs grow incredibly long and springy, increasing its walking speed by 10 feet.
+61–65	The target grows a long, thin tail, which it can use as a whip.
+66–70	The target’s entire eyes turn black, and it gains darkvision out to a range of 120 feet.
+71–75	The target swells, tripling its weight.
+76–80	The target becomes thin and skeletal, halving its weight.
+81–85	The target’s head triples in size.
+86–90	The target’s ears become wings, giving it a flying speed of 5 feet.
+91–95	The target’s body becomes unusually brittle, causing the target to have vulnerability to bludgeoning, piercing, and slashing damage.
+96–00	The target grows another head, causing it to have advantage on saving throws against being charmed, frightened, or stunned.
+
+Skulk
+Skulks are the soulless shells of travelers who became lost in the Shadowfell, wandering its gray wastes until they lost all sense of self. They are so devoid of identity that they have become permanently invisible. Only children can see a skulk without the help of a mirror or a special candle. On the rare occasions when a skulk is visible, it appears as a drab, featureless, hairless biped.
+
+A skulk can be summoned from the Shadowfell by performing a ritual, and it is bound to obey the summoner’s commands for 30 days. During this time, if the skulk is visible, an astute observer might deduce who summoned it, because the skulk assumes a vague likeness of its master.
+
+Cruel and chaotic, skulks carry out their orders in the most violent manner possible. A summoned skulk can’t return to the Shadowfell until it dies, so many throw themselves into creating bloodshed and mayhem with no regard for their own lives.
+
+After killing a person on the Material Plane, some skulks take up a silent imitation of that person’s life. In extreme cases, skulks have invaded villages, killed all the occupants, and turned the places into seeming ghost towns where flavorless food is prepared daily, colorless clothes are hung up to dry, and livestock is shifted from pen to pen until it starves.
+
+Some children have imaginary friends that their parents can’t see. Sometimes those invisible friends aren’t imaginary.
+
+—Mordenkainen
+
+SKULK
+Medium Monstrosity, Typically Chaotic Neutral
+
+Armor Class 14
+
+Hit Points 18 (4d8)
+
+Speed 30 ft.
+
+STR
+6 (−2)
+DEX
+19 (+4)
+CON
+10 (+0)
+INT
+10 (+0)
+WIS
+7 (−2)
+CHA
+1 (−5)
+Saving Throws Con +2
+
+Skills Stealth +8
+
+Condition Immunities blinded
+
+Senses darkvision 120 ft., passive Perception 8
+
+Languages understands Common but can’t speak
+
+Challenge 1/2 (100 XP) Proficiency Bonus +2
+
+Fallible Invisibility. The skulk is invisible. This invisibility can be circumvented by three things:
+
+Charnel Candles. The skulk appears as a dim, translucent form in the light of a candle made of fat rendered from a corpse whose identity is unknown.
+
+Children. Humanoid children, aged 10 and under, can see through this invisibility.
+
+Reflective Surfaces. The skulk appears as a drab, smooth-skinned biped if its reflection can be seen in a mirror or on another surface.
+
+Trackless. The skulk leaves no tracks to indicate where it has been or where it’s headed.
+
+Actions
+
+Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) slashing damage plus 3 (1d6) necrotic damage.
+
+
+Skull Lord
+Skull lords have claimed vast regions of the Shadowfell as their dominion. From these blighted lands, they wage war against their rivals, commanding hordes of the undying in a bid to establish dominance. Yet skull lords always prove to be their own worst enemies; each is a combined being born from three hateful individuals, and they constantly plot against themselves.
+
+Infighting and treachery brought skull lords into existence. The first of them appeared in the aftermath of Vecna’s bid to conquer the world of Greyhawk, after the vampire Kas betrayed Vecna and took his eye and hand. In the confusion resulting from this turn of events, Vecna’s warlords turned against each other, and his plans were dashed. In a rage, Vecna gathered up his generals and captains and bound them in groups of three, fusing them into abominations cursed to fight among themselves for all time. Since the first skull lords were exiled into the shadows, others have arisen, typically created from other leaders who betrayed their masters.
+
+SKULL LORD
+Medium Undead (Sorcerer), Typically Lawful Evil
+
+Armor Class 18 (plate)
+
+Hit Points 112 (15d8 + 45)
+
+Speed 30 ft.
+
+STR
+14 (+2)
+DEX
+16 (+3)
+CON
+17 (+3)
+INT
+16 (+3)
+WIS
+15 (+2)
+CHA
+21 (+5)
+Skills Athletics +7, History +8, Perception +12, Stealth +8
+
+Damage Resistances cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+
+Damage Immunities poison
+
+Condition Immunities blinded, charmed, deafened, exhaustion, frightened, poisoned, stunned, unconscious
+
+Senses darkvision 60 ft., passive Perception 22
+
+Languages all the languages it knew in life
+
+Challenge 15 (13,000 XP) Proficiency Bonus +5
+
+Evasion. If the skull lord is subjected to an effect that allows it to make a Dexterity saving throw to take only half the damage, the skull lord instead takes no damage if it succeeds on the saving throw and only half damage if it fails, provided it isn’t incapacitated.
+
+Legendary Resistance (3/Day). If the skull lord fails a saving throw, it can choose to succeed instead.
+
+Master of the Grave. While within 30 feet of the skull lord, any Undead ally of the skull lord makes saving throws with advantage, and that ally regains 1d6 hit points whenever it starts its turn there.
+
+Unusual Nature. The skull lord doesn’t require air, food, drink, or sleep.
+
+Actions
+
+Multiattack. The skull lord makes three Bone Staff or Deathly Ray attacks.
+
+Bone Staff. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 21 (6d6) necrotic damage.
+
+Deathly Ray. Ranged Spell Attack: +10 to hit, range 60 ft., one target. Hit: 27 (5d8 + 5) necrotic damage.
+
+Spellcasting. The skull lord casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 18):
+
+At will: mage hand, message
+
+2/day each: dimension door, fear
+
+1/day each: cloudkill, cone of cold
+
+Legendary Actions
+
+The skull lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The skull lord regains spent legendary actions at the start of its turn.
+
+Attack. The skull lord makes one Bone Staff or Deathly Ray attack.
+
+Move. The skull lord moves up to its speed without provoking opportunity attacks.
+
+Summon Undead (Costs 2 Actions). The skull lord summons up to five skeletons or zombies (both appear in the Monster Manual) in unoccupied spaces within 30 feet of it. They remain until destroyed. Undead summoned in this way roll initiative, act in the next available turn, and obey the skull lord. The skull lord can have no more than five Undead summoned by this ability at a time.
+
+
+Slithering Tracker
+The quest for revenge sometimes leads those terribly aggrieved to undergo a ritual whereby they transform into bodies of semiliquid sentience known as slithering trackers. Innocuous and insidious at the same time, a slithering tracker flows into places where a normal creature can’t go and brings its own brand of watery death down on its quarry.
+
+The ritual for creating a slithering tracker is known to hags, liches, and priests who worship gods of vengeance. It can be performed only on a willing creature that hungers for revenge. The ritual sucks all the moisture from the subject’s body, killing it. Yet the subject’s mind lives on in the puddle that issues forth from the remains, and so too does its insatiable need for retribution.
+
+A slithering tracker tastes the ground it courses over, seeking any trace of its prey. To kill, a slithering tracker rises up and enshrouds a creature, attempting to drown the creature while also draining it of blood.
+
+Achieving revenge against its target doesn’t end a slithering tracker’s existence or its hunger for blood. Some slithering trackers remain aware of their purpose and extend their quest for vengeance to others, such as anyone who supported or befriended the original target. Most of the time, though, a tracker’s mind can’t cope with being trapped in liquid form, unable to communicate, and driven by the desire for blood; after fulfilling its duty, the overwhelmed creature attacks indiscriminately until it is destroyed.
+
+SLITHERING TRACKER
+Medium Ooze, Typically Chaotic Evil
+
+Armor Class 14
+
+Hit Points 39 (6d8 + 12)
+
+Speed 30 ft., climb 30 ft., swim 30 ft.
+
+STR
+16 (+3)
+DEX
+19 (+4)
+CON
+15 (+2)
+INT
+10 (+0)
+WIS
+14 (+2)
+CHA
+11 (+0)
+Skills Stealth +8, Survival +6
+
+Damage Vulnerabilities cold, fire
+
+Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks
+
+Condition Immunities blinded, deafened, exhaustion, grappled, paralyzed, petrified, prone, restrained, unconscious
+
+Senses blindsight 120 ft., passive Perception 12
+
+Languages understands languages it knew in its previous form but can’t speak
+
+Challenge 3 (700 XP) Proficiency Bonus +2
+
+False Appearance. If the slithering tracker is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn’t observed the slithering tracker move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the slithering tracker isn’t a puddle.
+
+Liquid Form. The slithering tracker can enter an enemy’s space and stop there. It can also move through a space as narrow as 1 inch wide without squeezing.
+
+Spider Climb. The slithering tracker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+
+Actions
+
+Slam. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) bludgeoning damage.
+
+Life Leech. One Large or smaller creature that the slithering tracker can see within 5 feet of it must succeed on a DC 13 Dexterity saving throw or be grappled (escape DC 13). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. In addition, the grappled target takes 16 (3d10) necrotic damage at the start of each of its turns. The slithering tracker can grapple only one target at a time.
+
+While grappling the target, the slithering tracker takes only half any damage dealt to it (rounded down), and the target takes the other half.
+
+Bonus Actions
+
+Watery Stealth. If underwater, the slithering tracker takes the Hide action, and it makes the Dexterity (Stealth) check with advantage.
+
+
+Sorrowsworn
+The Shadowfell’s pervasive melancholy sometimes gives rise to strange incarnations of the plane’s bleak nature. Sorrowsworn embody the forms of suffering inherent to the shadowy landscape and visit horror on those who stumble into their midst. Each sorrowsworn personifies a different aspect of despair or distress.
+
+Angry Sorrowsworn
+Relying on violence to sustain their existence, angry sorrowsworn—sometimes called the Angry—grow more powerful when their foes fight back. If a creature opts not to attack, though, this sorrowsworn becomes confused, and its attacks weaken. It also has two heads, which bicker with each other incessantly.
+
+ANGRY SORROWSWORN
+Medium Monstrosity, Typically Neutral Evil
+
+Armor Class 18 (natural armor)
+
+Hit Points 255 (30d8 + 120)
+
+Speed 30 ft.
+
+STR
+17 (+3)
+DEX
+10 (+0)
+CON
+19 (+4)
+INT
+8 (−1)
+WIS
+13 (+1)
+CHA
+6 (−2)
+Skills Perception +11
+
+Damage Resistances bludgeoning, piercing, and slashing while in dim light or darkness
+
+Senses darkvision 60 ft., passive Perception 21
+
+Languages Common
+
+Challenge 13 (10,000 XP) Proficiency Bonus +5
+
+Two Heads. The sorrowsworn has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
+
+Rising Anger. If another creature deals damage to the sorrowsworn, the sorrowsworn’s attack rolls have advantage until the end of its next turn, and the first time it hits with a Hook attack on its next turn, the attack’s target takes an extra 19 (3d12) psychic damage.
+
+On its turn, the sorrowsworn has disadvantage on attack rolls if no other creature has dealt damage to it since the end of its last turn.
+
+Actions
+
+Multiattack. The sorrowsworn makes two Hook attacks.
+
+Hook. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d12 + 3) piercing damage.
+
+
+Hungry Sorrowsworn
+Horrible creatures with grasping claws and distended jaws, hungry sorrowsworn—also known as the Hungry—do whatever is necessary to sate their appetites. These greedy devourers stuff their maws with flesh and drink in their victims’ screams. When they finish, they lurch away while their bright eyes resume the search for something else to consume.
+
+HUNGRY SORROWSWORN
+Medium Monstrosity, Typically Neutral Evil
+
+Armor Class 17 (natural armor)
+
+Hit Points 225 (30d8 + 90)
+
+Speed 30 ft.
+
+STR
+19 (+4)
+DEX
+10 (+0)
+CON
+17 (+3)
+INT
+6 (−2)
+WIS
+11 (+0)
+CHA
+6 (−2)
+Damage Resistances bludgeoning, piercing, and slashing while in dim light or darkness
+
+Senses darkvision 60 ft., passive Perception 10
+
+Languages Common
+
+Challenge 11 (7,200 XP) Proficiency Bonus +4
+
+Life Hunger. If a creature within 60 feet of the sorrowsworn regains hit points, the sorrowsworn gains two benefits until the end of its next turn: it has advantage on attack rolls, and its Bite deals an extra 22 (4d10) necrotic damage on a hit.
+
+Actions
+
+Multiattack. The sorrowsworn makes one Bite attack and one Claw attack.
+
+Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage plus 13 (3d8) necrotic damage.
+
+Claw. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (4d6 + 4) slashing damage. If the target is Medium or smaller, it is grappled (escape DC 16), and it is restrained until the grapple ends. While grappling a creature, the sorrowsworn can’t make a Claw attack.
+
+
+Lonely Sorrowsworn
+The sorrow of isolation afflicts many creatures that lurk in the Shadowfell, but the need for companionship is never manifested more dramatically than in the lonely sorrowsworn—also called the Lonely. When these sorrowsworn spot other creatures, they feel keenly the need for interaction and launch their harpoon-like arms to drag their victims closer.
+
+LONELY SORROWSWORN
+Medium Monstrosity, Typically Neutral Evil
+
+Armor Class 16 (natural armor)
+
+Hit Points 112 (15d8 + 45)
+
+Speed 30 ft.
+
+STR
+16 (+3)
+DEX
+12 (+1)
+CON
+17 (+3)
+INT
+6 (−2)
+WIS
+11 (+0)
+CHA
+6 (−2)
+Damage Resistances bludgeoning, piercing, and slashing while in dim light or darkness
+
+Senses darkvision 60 ft., passive Perception 10
+
+Languages Common
+
+Challenge 9 (5,000 XP) Proficiency Bonus +4
+
+Psychic Leech. At the start of each of the sorrowsworn’s turns, each creature within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (3d6) psychic damage.
+
+Thrives on Company. The sorrowsworn has advantage on attack rolls while it is within 30 feet of at least two other creatures. It otherwise has disadvantage on attack rolls.
+
+Actions
+
+Multiattack. The sorrowsworn makes one Harpoon Arm attack, and it uses Sorrowful Embrace.
+
+Harpoon Arm. Melee Weapon Attack: +7 to hit, reach 60 ft., one target. Hit: 21 (4d8 + 3) piercing damage, and the target is grappled (escape DC 15) if it is a Large or smaller creature. The sorrowsworn has two harpoon arms and can grapple up to two creatures at once.
+
+Sorrowful Embrace. Each creature grappled by the sorrowsworn must make a DC 15 Wisdom saving throw, taking 18 (4d8) psychic damage on a failed save, or half as much damage on a successful one. In either case, the sorrowsworn pulls each of those creatures up to 30 feet straight toward it.
+
+
+Lost Sorrowsworn
+The Shadowfell turns visitors around until they become marooned in its twisted landscape. Lost sorrowsworn—often referred to as the Lost—are representations of the anxiety and fear people experience when they can’t find their way. These sorrowsworn appear desperate and panicked.
+
+Lost sorrowsworn grasp at any creatures they can reach. A victim experiences a flood of fear and panic as its mind buckles under the fury of this assault. The harder a victim’s allies fight to break the grasp, the more the victim suffers.
+
+LOST SORROWSWORN
+Medium Monstrosity, Typically Neutral Evil
+
+Armor Class 15 (natural armor)
+
+Hit Points 78 (12d8 + 24)
+
+Speed 30 ft.
+
+STR
+17 (+3)
+DEX
+12 (+1)
+CON
+15 (+2)
+INT
+6 (−2)
+WIS
+7 (−2)
+CHA
+5 (−3)
+Skills Athletics +6
+
+Damage Resistances bludgeoning, piercing, and slashing while in dim light or darkness
+
+Senses darkvision 60 ft., passive Perception 8
+
+Languages Common
+
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+
+Actions
+
+Multiattack. The sorrowsworn makes two Arm Spike attacks.
+
+Arm Spike. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (2d10 + 3) piercing damage.
+
+Embrace (Recharge 4–6). Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 25 (4d10 + 3) piercing damage, and the target is grappled (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends, the target is frightened, and it takes 27 (6d8) psychic damage at the end of each of its turns. The sorrowsworn can grapple only one creature at a time.
+
+Reactions
+
+Tightening Embrace. If the sorrowsworn takes damage, the creature grappled by Embrace takes 18 (4d8) psychic damage.
+
+
+Wretched Sorrowsworn
+Horrid little monsters, wretched sorrowsworn—or the Wretched—gather in packs to scour the Shadowfell for prey. These desperate entities subsist on life force; when they find a creature, they surge forward to sink their fangs into their victims and drink deep.
+
+WRETCHED SORROWSWORN
+Small Monstrosity, Typically Neutral Evil
+
+Armor Class 15 (natural armor)
+
+Hit Points 10 (4d6 − 4)
+
+Speed 40 ft.
+
+STR
+7 (−2)
+DEX
+12 (+1)
+CON
+9 (−1)
+INT
+5 (−3)
+WIS
+6 (−2)
+CHA
+5 (−3)
+Damage Resistances bludgeoning, piercing, and slashing while in dim light or darkness
+
+Senses darkvision 60 ft., passive Perception 8
+
+Languages —
+
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+
+Wretched Pack Tactics. The sorrowsworn has advantage on an attack roll against a creature if at least one of the sorrowsworn’s allies is within 5 feet of the creature and the ally isn’t incapacitated. The sorrowsworn otherwise has disadvantage on attack rolls.
+
+Actions
+
+Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (1d10 + 1) piercing damage, and the sorrowsworn attaches to the target. While attached, the sorrowsworn can’t attack, and at the start of each of the sorrowsworn’s turns, the target takes 6 (1d10 + 1) necrotic damage.
+
+The attached sorrowsworn moves with the target whenever the target moves, requiring none of the sorrowsworn’s movement. The sorrowsworn can detach itself by spending 5 feet of its movement on its turn. A creature, including the target, can use its action to detach the sorrowsworn.
+
+
+Spawn of Kyuss
+Kyuss was a high priest of Orcus (appears in this book) who plundered corpses from necropolises to create the first spawn of Kyuss. Even centuries after Kyuss’s death, his malign disciples continue performing the horrific rites he perfected.
+
+From a distance or in poor light, a spawn of Kyuss looks like an ordinary zombie. As it comes into clearer view, however, the scores of little green worms crawling in and out of it become visible. These worms jump onto nearby Humanoids and burrow into their flesh. A worm that penetrates a Humanoid body makes its way to the creature’s brain. Once inside the brain, the worm kills its host and animates the corpse, transforming it into a spawn of Kyuss, which breeds more worms.
+
+Spawn of Kyuss are expressions of Orcus’s intent to replace all life with undeath. Left to its own devices, a solitary spawn of Kyuss travels aimlessly. If it stumbles across a living creature, the spawn attacks with the sole intent of creating more spawn. Whether spawn are dispersed or clustered, they reproduce exponentially if nothing stops them.
+
+SPAWN OF KYUSS
+Medium Undead, Typically Chaotic Evil
+
+Armor Class 10
+
+Hit Points 76 (9d8 + 36)
+
+Speed 30 ft.
+
+STR
+16 (+3)
+DEX
+11 (+0)
+CON
+18 (+4)
+INT
+5 (−3)
+WIS
+7 (−2)
+CHA
+3 (−4)
+Saving Throws Wis +1
+
+Damage Immunities poison
+
+Condition Immunities exhaustion, poisoned
+
+Senses darkvision 60 ft., passive Perception 8
+
+Languages understands the languages it knew in life but can’t speak
+
+Challenge 5 (1,800 XP) Proficiency Bonus +3
+
+Regeneration. The spawn of Kyuss regains 10 hit points at the start of its turn if it has at least 1 hit point and isn’t in sunlight or a body of running water. If the spawn takes acid, fire, or radiant damage, this trait doesn’t function at the start of the spawn’s next turn. The spawn is destroyed only if it starts its turn with 0 hit points and doesn’t regenerate.
+
+Worms. If the spawn of Kyuss is targeted by an effect that cures disease or removes a curse, all the worms infesting it wither away, and it loses its Burrowing Worm action.
+
+Unusual Nature. The spawn of Kyuss requires no air, food, drink, or sleep.
+
+Actions
+
+Multiattack. The spawn of Kyuss makes two Claw attacks, and it uses Burrowing Worm.
+
+Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage plus 7 (2d6) necrotic damage.
+
+Burrowing Worm. A worm launches from the spawn of Kyuss at one Humanoid that the spawn can see within 10 feet of it. The worm latches onto the target’s skin unless the target succeeds on a DC 11 Dexterity saving throw. The worm is a Tiny Undead with AC 6, 1 hit point, a 2 (−4) in every ability score, and a speed of 1 foot. While on the target’s skin, the worm can be killed by normal means or scraped off using an action (the spawn can use Burrowing Worm to launch a scraped-off worm at a Humanoid it can see within 10 feet of the worm). Otherwise, the worm burrows under the target’s skin at the end of the target’s next turn, dealing 1 piercing damage to it. At the end of each of its turns thereafter, the target takes 7 (2d6) necrotic damage per worm infesting it (maximum of 10d6), and if it drops to 0 hit points, it dies and then rises 10 minutes later as a spawn of Kyuss. If a worm-infested target is targeted by an effect that cures disease or removes a curse, all the worms infesting it wither away.
+
+
+Star Spawn
+Stars don’t spawn these creatures.
+
+Such beautiful lights shouldn’t be blamed for such balefulness.
+
+—Mordenkainen
+
+The Material Plane represents only one small part of the multiverse. Beyond the best-known planes of existence lie realms alien to mortal life. Some are so hostile that even a moment’s contact is enough to break a mortal’s mind. Yet beings do exist that are native to these realms: entities that are ever hungering, searching, warring, and sometimes dreaming. These Elder Evils are far older than most of the mortal peoples and always inimical to such creatures’ minds.
+
+However much they might desire to enter and dominate the Material Plane, the Elder Evils are unable or unwilling to leave their realms. Some are imprisoned in their dimensions by external forces, some are inextricably bound to their home realities, and others simply can’t find any way out.
+
+The creatures known as star spawn are the heralds, servants, and soldiers of the Elder Evils, capable of taking on forms that can journey to the Material Plane. They arrive most often in the wake of a comet—or perhaps this phenomenon merely signals that star spawn are in the vicinity and available for communication. When the signs are right, cultists gather together, read aloud their blasphemous texts, and conduct the mind-searing rituals that guide star spawn into the world.
+
+Elder Evil Blessings
+Disciples of certain Elder Evils can bestow supernatural gifts on those who serve that cult, including star spawn. The following powers are unique to specific cults; typically a creature has only one.
+
+Cult of Atropus, the World Born Dead
+Gaze of Corruption (Recharge 6). The cultist targets one creature it can see within 30 feet of it. The target must succeed on a DC 15 Constitution saving throw or take 16 (3d10) necrotic damage and be poisoned for 1 minute. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Cult of Borem of the Lake of Boiling Mud
+Borem’s Embrace (1/Day). The cultist touches one creature within 5 feet of it. The target must succeed on a DC 15 Dexterity saving throw or be coated in sticky, steaming mud. While it is coated in this way, the target’s speed is halved, it can’t use reactions, and it takes 10 (3d6) fire damage at the start of each of its turns. The effect lasts for 1 minute, until the cultist is incapacitated or dies, or until the target is immersed in water.
+
+Cult of Haask, the Voice of Hargut
+Haask’s Presence (1/Day). The cultist transforms into a Tiny, slug-like being and teleports onto the shoulder of a Humanoid that it can see within 30 feet of it. The targeted Humanoid must succeed on a DC 15 Charisma saving throw or be charmed by the cultist. While the target is charmed, the cultist has control of it on the target’s next turn. At the end of that turn, the cultist teleports to an unoccupied space it can see within 30 feet of it and returns to its normal form. The cultist can’t be targeted directly by any attack or other effect while it’s in the slug-like form, but it is subject to areas of effect as normal.
+
+Cult of Tharizdun, the Chained God
+Tharizdun’s Spark (Recharge 6). As a bonus action, the cultist touches a simple or martial weapon or a natural weapon, if it has one. The next creature hit by the touched weapon must succeed on a DC 15 Wisdom saving throw or have disadvantage on all ability checks. The affected creature can repeat the saving throw at the end of each minute, ending the effect on itself on a success.
+
+Cult of Tyranthraxus, the Flamed One
+Radiant Flames (1/Day). Multihued flame surrounds the cultist for 1 minute, until the cultist is incapacitated or dies, or until the cultist extinguishes the flame (no action required). While inflamed, the cultist has telepathy with a range of 30 feet, and it can teleport as a bonus action up to 30 feet to an unoccupied space it can see. In addition, every creature that starts its turn within 5 feet of the cultist must make a DC 15 Dexterity saving throw, taking 16 (3d10) radiant damage on a failed save, or half as much damage on a successful one.
+
+Star Spawn Grue
+Fanged and lipless, the ever-grinning, eerily staring grue lopes about on spindly legs and long arms. Bristles and spines project from odd patches of its grayish skin, and its long fingers end in broken and dirty nails. Grues are the weakest of the star spawn. A host of writhing, scrambling grues typically accompanies more powerful star spawn. Their constant chittering and shrieking produce discordant psychic energy that disrupts thought patterns in other creatures, which experience flashing colors, hallucinations, disorientation, and waves of hopelessness.
+
+STAR SPAWN GRUE
+Small Aberration, Typically Neutral Evil
+
+Armor Class 11
+
+Hit Points 17 (5d6)
+
+Speed 30 ft.
+
+STR
+6 (−2)
+DEX
+13 (+1)
+CON
+10 (+0)
+INT
+9 (−1)
+WIS
+11 (+0)
+CHA
+6 (−2)
+Damage Immunities psychic
+
+Senses darkvision 60 ft., passive Perception 10
+
+Languages Deep Speech
+
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+
+Aura of Shrieks. Creatures within 20 feet of the grue that aren’t Aberrations have disadvantage on saving throws, as well as on attack rolls against creatures other than a star spawn grue.
+
+Actions
+
+Confounding Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) piercing damage, and the target must succeed on a DC 10 Wisdom saving throw or attack rolls against it have advantage until the start of the grue’s next turn.
+
+
+Star Spawn Hulk
+The hulk is one of the largest of the known star spawn, with glistening, translucent skin. Pale and seemingly lidless eyes glare balefully from a face distorted by too many teeth and too little nose.
+
+Hulks are seldom encountered without a commanding star spawn seer (also in this book) nearby. A hulk appears to have little will of its own and is driven to protect its master.
+
+STAR SPAWN HULK
+Large Aberration, Typically Chaotic Evil
+
+Armor Class 16 (natural armor)
+
+Hit Points 136 (13d10 + 65)
+
+Speed 30 ft.
+
+STR
+20 (+5)
+DEX
+8 (−1)
+CON
+21 (+5)
+INT
+7 (−2)
+WIS
+12 (+1)
+CHA
+9 (−1)
+Saving Throws Dex +3, Wis +5
+
+Skills Perception +5
+
+Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks
+
+Condition Immunities charmed, frightened
+
+Senses darkvision 60 ft., passive Perception 15
+
+Languages Deep Speech
+
+Challenge 10 (5,900 XP) Proficiency Bonus +4
+
+Psychic Mirror. If the hulk takes psychic damage, each creature within 10 feet of the hulk takes that damage instead; the hulk takes none of the damage. In addition, the hulk’s thoughts and location can’t be discerned by magic.
+
+Actions
+
+Multiattack. The hulk makes two Slam attacks. If both attacks hit the same target, the target also takes 9 (2d8) psychic damage and must succeed on a DC 17 Constitution saving throw or be stunned until the end of the target’s next turn.
+
+Slam. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.
+
+Reaping Arms (Recharge 5–6). The hulk makes a separate Slam attack against each creature within 10 feet of it. Each creature that is hit must also succeed on a DC 17 Dexterity saving throw or be knocked prone.
+
+
+Star Spawn Larva Mage
+A larva mage is a nightmarish combination of a mortal body and otherworldly substance. When a powerful cultist of a wormlike entity such as Kyuss or Kezef—usually a warlock or other spellcaster—contacts the comet-borne emissary of an Elder Evil, the emissary can merge with a mortal consciousness to create a larva mage. None of the original cultist’s personality survives the transformation; what emerges is wholly alien.
+
+STAR SPAWN LARVA MAGE
+Medium Aberration, Typically Chaotic Evil
+
+Armor Class 16 (natural armor)
+
+Hit Points 168 (16d8 + 96)
+
+Speed 30 ft.
+
+STR
+17 (+3)
+DEX
+12 (+1)
+CON
+23 (+6)
+INT
+18 (+4)
+WIS
+12 (+1)
+CHA
+16 (+3)
+Saving Throws Dex +6, Wis +6, Cha +8
+
+Skills Perception +6
+
+Damage Resistances cold; bludgeoning, piercing, and slashing from nonmagical attacks
+
+Damage Immunities psychic
+
+Condition Immunities charmed, frightened, paralyzed, petrified, poisoned, restrained
+
+Senses darkvision 60 ft., passive Perception 16
+
+Languages Deep Speech
+
+Challenge 16 (15,000 XP) Proficiency Bonus +5
+
+Return to Worms. When the mage is reduced to 0 hit points, it breaks apart into a swarm of insects (see the Monster Manual) in the same space. Unless the swarm is destroyed, the mage reforms from it 24 hours later.
+
+Actions
+
+Multiattack. The mage makes three Slam or Eldritch Bolt attacks.
+
+Slam. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage, and the target must succeed on a DC 19 Constitution saving throw or be poisoned until the end of its next turn.
+
+Eldritch Bolt. Ranged Spell Attack: +8 to hit, range 60 ft., one target. Hit: 19 (3d10 + 3) force damage.
+
+Plague of Worms (Recharge 6). Each creature other than a star spawn within 10 feet of the mage must succeed on a DC 19 Dexterity saving throw or take 22 (5d8) necrotic damage and be blinded and restrained by masses of swarming worms. The affected creature takes 22 (5d8) necrotic damage at the start of each of the mage’s turns. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Spellcasting. The mage casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
+
+At will: mage hand, message, minor illusion
+
+1/day: dominate monster
+
+Reactions
+
+Feed on Weakness. When a creature within 20 feet of the mage fails a saving throw, the mage gains 10 temporary hit points.
+
+Legendary Actions
+
+The mage can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The mage regains spent legendary actions at the start of its turn.
+
+Slam. The mage makes one Slam attack.
+
+Eldritch Bolt (Costs 2 Actions). The mage makes one Eldritch Bolt attack.
+
+Feed (Costs 3 Actions). Each creature restrained by the mage’s Plague of Worms takes 13 (3d8) necrotic damage, and the mage gains 6 temporary hit points.
+
+
+Star Spawn Mangler
+A mangler is a low-slung, creeping horror with multiple gangly arms—it most often has six arms but can have any number from four to eight. Manglers creep along the ground or the walls, sticking to shadows and hiding in spots that seem too shallow or well-lit to conceal anything. They appear smaller than their true size, thanks to their hunched posture and emaciated frames. Cultists summon these creatures to serve as guards and assassins, two roles at which they excel.
+
+The cultists who blaspheme reality by calling out to Elder Evils often speak of a Far Realm from which these entities hail.
+
+In truth, there is no one place or space from which they come. There is the multiverse of things that are, and there is the multiverse of things that shouldn’t be.
+
+—Mordenkainen
+
+STAR SPAWN MANGLER
+Medium Aberration, Typically Chaotic Evil
+
+Armor Class 14
+
+Hit Points 71 (13d8 + 13)
+
+Speed 40 ft., climb 40 ft.
+
+STR
+8 (−1)
+DEX
+18 (+4)
+CON
+12 (+1)
+INT
+11 (+0)
+WIS
+12 (+1)
+CHA
+7 (−2)
+Saving Throws Dex +7, Con +4
+
+Skills Stealth +7
+
+Damage Resistances cold
+
+Damage Immunities psychic
+
+Condition Immunities charmed, frightened, prone
+
+Senses darkvision 60 ft., passive Perception 11
+
+Languages Deep Speech
+
+Challenge 5 (1,800 XP) Proficiency Bonus +3
+
+Ambusher. The mangler has advantage on initiative rolls.
+
+Actions
+
+Multiattack. The mangler makes two Claw attacks.
+
+Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage. If the attack roll has advantage, the target also takes 7 (2d6) psychic damage.
+
+Flurry of Claws (Recharge 5−6). The mangler makes six Claw attacks. Either before or after these attacks, it can move up to its speed without provoking opportunity attacks.
+
+Bonus Actions
+
+Shadow Stealth. While in dim light or darkness, the mangler takes the Hide action.
+
+
+Star Spawn Seer
+A star spawn seer is most often encountered as the leader of a cult dedicated to one or more Elder Evils. Usually, the seer is the only cult member that grasps the full extent of the horror the cult is venerating. The seer’s goal is to tap into vast energy sources and perform the dire rites that will extend a bridge between the Material Plane and the squirming chaos of an Elder Evil’s realm.
+
+An entity that appears as a star spawn seer in the Material Plane usually arrives disembodied. When a warlock or other spellcaster establishes communication with it, the seer-entity takes control of the mortal, transforming it into a star spawn seer. Whoever the mortal once was largely vanishes beneath the mass of tumorous skin than builds up in strange whorls all over the seer’s body. The mortal’s hands become bulky, flipper-like appendages able to grasp the seer’s strange staff formed of a blend of flesh, bone, and star stuff.
+
+A star spawn seer is almost always accompanied by one or more star spawn hulks (also in this book). Not only is a hulk a powerful combatant, but when a seer deals psychic damage to a hulk, the hulk isn’t hurt, and the effect ricochets off and expands to assault other creatures.
+
+STAR SPAWN SEER
+Medium Aberration, Typically Neutral Evil
+
+Armor Class 17 (natural armor)
+
+Hit Points 153 (18d8 + 72)
+
+Speed 30 ft.
+
+STR
+14 (+2)
+DEX
+12 (+1)
+CON
+18 (+4)
+INT
+22 (+6)
+WIS
+19 (+4)
+CHA
+16 (+3)
+Saving Throws Dex +6, Int +11, Wis +9, Cha +8
+
+Skills Perception +9
+
+Damage Resistances cold; bludgeoning, piercing, and slashing from nonmagical attacks
+
+Damage Immunities psychic
+
+Condition Immunities charmed, frightened
+
+Senses darkvision 60 ft., passive Perception 19
+
+Languages Common, Deep Speech, Undercommon
+
+Challenge 13 (10,000 XP) Proficiency Bonus +5
+
+Out-of-Phase Movement. The seer can move through other creatures and objects as if they were difficult terrain, and its movement doesn’t provoke opportunity attacks.
+
+Each creature it moves through takes 5 (1d10) psychic damage; no creature can take this damage more than once per turn. The seer takes 5 (1d10) force damage if it ends its turn inside an object.
+
+Actions
+
+Multiattack. The seer makes two Comet Staff or Psychic Orb attacks.
+
+Comet Staff. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) bludgeoning damage plus 18 (4d8) psychic damage, and if the target is a creature, it must succeed on a DC 19 Constitution saving throw or be incapacitated until the end of its next turn.
+
+Psychic Orb. Ranged Spell Attack: +11 to hit, range 120 feet, one creature. Hit: 27 (5d10) psychic damage.
+
+Collapse Distance (Recharge 6). The seer warps space around one creature it can see within 30 feet of it. That creature must make a DC 19 Wisdom saving throw. On a failed save, the target, along with any equipment it is wearing or carrying, is teleported up to 60 feet to an unoccupied space the seer can see, and then each creature within 10 feet of the target’s original space takes 39 (6d12) psychic damage. On a successful save, the target takes 19 (3d12) psychic damage and isn’t teleported.
+
+Reactions
+
+Bend Space. When the seer would be hit by an attack roll, it teleports, along with any equipment it is wearing or carrying, exchanging positions with another star spawn it can see within 60 feet of it. The other star spawn is hit by the attack instead.
+
+
+Steeders
+Giant hunting spiders, steeders prowl the depths of the Underdark. Female steeders grow larger and stronger than males, and the female often devours the male after breeding. Numerous Underdark folk domesticate steeders, particularly duergar (also in this book). Typically the females serve as steeds in battle, while the males are used as draft animals.
+
+Steeders attempt to tear apart perceived threats—and consider even other steeders enemies. When they’re put to work, their handlers must stable them separately from one another and place blinders on them to keep them from attacking each other.
+
+Steeders are intelligent enough to learn simple hand signals and vocal commands, but even a domesticated steeder might turn against its handler. Training a steeder requires a rider to bond with it, a process that begins shortly after the steeder hatches. As it grows, its rider works with it to direct its predatory instincts.
+
+Rather than spinning webs, steeders excrete a viscous substance from their legs. This goo allows them to creep along walls and ceilings and to grapple prey.
+
+Female Steeder
+FEMALE STEEDER
+Large Monstrosity, Unaligned
+
+Armor Class 14 (natural armor)
+
+Hit Points 30 (4d10 + 8)
+
+Speed 30 ft., climb 30 ft.
+
+STR
+15 (+2)
+DEX
+16 (+3)
+CON
+14 (+2)
+INT
+2 (−4)
+WIS
+10 (+0)
+CHA
+3 (−4)
+Skills Perception +4, Stealth +7
+
+Senses darkvision 120 ft., passive Perception 14
+
+Languages —
+
+Challenge 1 (200 XP) Proficiency Bonus +2
+
+Extraordinary Leap. The distance of the steeder’s long jumps is tripled; every foot of its walking speed that it spends on the jump allows it to move 3 feet.
+
+Spider Climb. The steeder can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+
+Actions
+
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 9 (2d8) poison damage.
+
+Sticky Leg. Melee Weapon Attack: +5 to hit, reach 5 ft., one Medium or smaller creature. Hit: The target is stuck to the steeder’s leg and grappled (escape DC 12). The steeder can have only one creature grappled at a time.
+
+
+Male Steeder
+MALE STEEDER
+Medium Monstrosity, Unaligned
+
+Armor Class 12 (natural armor)
+
+Hit Points 13 (2d8 + 4)
+
+Speed 30 ft., climb 30 ft.
+
+STR
+15 (+2)
+DEX
+12 (+1)
+CON
+14 (+2)
+INT
+2 (−4)
+WIS
+10 (+0)
+CHA
+3 (−4)
+Skills Perception +4, Stealth +5
+
+Senses darkvision 120 ft., passive Perception 14
+
+Languages —
+
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+
+Extraordinary Leap. The distance of the steeder’s long jumps is tripled; every foot of its walking speed that it spends on the jump allows it to jump 3 feet.
+
+Spider Climb. The steeder can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+
+Actions
+
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage.
+
+Sticky Leg. Melee Weapon Attack: +4 to hit, reach 5 ft., one Small or Tiny creature. Hit: The target is stuck to the steeder’s leg and grappled (escape DC 12). The steeder can have only one creature grappled at a time.
+
+Steeders resemble spiders as much as worgs resemble wolves. The creatures may appear similar, but steeders are more than mere vermin.
+
+—Mordenkainen
+
+Steel Predator
+A steel predator is a merciless machine with one purpose: to locate and kill its target regardless of distance and obstacles.
+
+Steel predators are created by a unique modron, using a machine located in the city of Sigil. It wasn’t always headquartered in the City of Doors, however. On its original home, the plane of Mechanus, the ingenious modron was lauded for its invention—until it turned these creations against its superiors. Steel predators wreaked havoc against the modron hierarchy until the rogue modron was trapped and exiled. Now it operates a shop in Sigil where, for a steep price, anyone can commission the manufacture of a steel predator.
+
+To create a steel predator, the modron’s machine must be fed something that identifies the predator’s target, such as a lock of hair, a well-worn glove, or a much-used weapon. The moment the newly manufactured steel predator emerges, it bounds away in search of its prey. It senses the location of its target across planar boundaries, but such detection is accurate only to within a thousand yards; to close the remaining distance, the steel predator locates its prey by sight and smell.
+
+Once battle is joined, the predator ignores every other threat to attack its target, unless other creatures prevent it from reaching the target. In that case, it does what it must to fulfill its mission.
+
+If all goes according to plan, a steel predator slays its target and then voluntarily returns to Sigil, where it’s broken down into parts that can be used in another steel predator. Battle damage can cause this instinct to fail, however, in which case the steel predator lingers in the area, hunting and killing other creatures that resemble its target or that simply live nearby. Such rogue predators are dangerous to anyone in the vicinity.
+
+STEEL PREDATOR
+Large Construct, Typically Lawful Neutral
+
+Armor Class 20 (natural armor)
+
+Hit Points 207 (18d10 + 108)
+
+Speed 40 ft.
+
+STR
+24 (+7)
+DEX
+17 (+3)
+CON
+22 (+6)
+INT
+4 (−3)
+WIS
+14 (+2)
+CHA
+6 (−2)
+Skills Perception +7, Stealth +8, Survival +7
+
+Damage Resistances cold, lightning, necrotic, thunder
+
+Damage Immunities poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+
+Condition Immunities charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned
+
+Senses blindsight 30 ft., darkvision 60 ft., passive Perception 17
+
+Languages understands Modron and the language of its owner but can’t speak
+
+Challenge 16 (15,000 XP) Proficiency Bonus +5
+
+Magic Resistance. The steel predator has advantage on saving throws against spells and other magical effects.
+
+Unusual Nature. The steel predator doesn’t require air, food, drink, or sleep.
+
+Actions
+
+Multiattack. The steel predator makes one Bite attack and two Claw attacks.
+
+Bite. Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 18 (2d10 + 7) lightning damage.
+
+Claw. Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 16 (2d8 + 7) force damage.
+
+Spellcasting. The steel predator casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability:
+
+3/day each: dimension door (self only), plane shift (self only)
+
+Stunning Roar (Recharge 5–6). The steel predator emits a roar in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw. On a failed save, a creature takes 33 (6d10) thunder damage, drops everything it’s holding, and is stunned for 1 minute. The stunned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. On a successful save, a creature takes half as much damage and isn’t stunned.
+
+
+Stone Cursed
+Stone cursed are spawned through a foul alchemical ritual performed on a Humanoid that has been turned to stone. The ritual, which requires a mixture of basilisk blood and the ashes from the burned feathers of a cockatrice, awakens a dim echo of the petrified victim’s spirit, animating the statue and turning it into a useful guardian.
+
+Stone cursed possess a malevolent drive to slay the living, yet they are utterly loyal to whoever performed the ritual to animate them, and they obey that being’s orders to the best of their ability.
+
+In combat, stony claws that drip with thick, gray sludge emerge from a stone cursed’s fingers. This alchemical sludge transforms those slashed by the claws into statues.
+
+As part of the ritual used to create a stone cursed, a fist-sized obsidian skull forms within the creature’s torso. The skull isn’t visible while the stone cursed is active, but when it is slain, the statue shatters and the skull clatters to the ground. Because it is the nexus for the alchemy used to create these horrors, a faint echo of the original victim’s memories resonates within the skull. A skilled magic-wielder can attempt to extract memories from it to gain insight into the victim’s past or find lore that otherwise would be lost.
+
+Cryptic Whispers
+Even though a creature transformed into a stone cursed is long dead, a vague whisper of their memories lives on in the obsidian skull embedded within the stone cursed’s body. At the end of a short rest, a character can make a DC 20 Intelligence (Arcana) check to attempt to extract a memory from the skull that is a response to a verbal question posed to the skull by the character. Once this check is made, whether it succeeds or fails, the skull can’t be used in this manner again.
+
+STONE CURSED
+Medium Construct, Typically Lawful Evil
+
+Armor Class 17 (natural armor)
+
+Hit Points 19 (3d8 + 6)
+
+Speed 10 ft.
+
+STR
+16 (+3)
+DEX
+5 (−3)
+CON
+14 (+2)
+INT
+5 (−3)
+WIS
+8 (−1)
+CHA
+7 (−2)
+Damage Vulnerabilities bludgeoning
+
+Damage Immunities poison
+
+Condition Immunities charmed, exhaustion, frightened, petrified, poisoned
+
+Senses passive Perception 9
+
+Languages the languages it knew in life
+
+Challenge 1 (200 XP) Proficiency Bonus +2
+
+Cunning Opportunist. The stone cursed has advantage on the attack rolls of opportunity attacks.
+
+False Appearance. If the stone cursed is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn’t observed the stone cursed move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the stone cursed isn’t a statue.
+
+Unusual Nature. The stone cursed doesn’t require air, food, drink, or sleep.
+
+Actions
+
+Petrifying Claws. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw, or it begins to turn to stone and is restrained until the end of its next turn, when it must repeat the saving throw. The effect ends if the second save is successful; otherwise the target is petrified for 24 hours.
+
+
+Stone Giant Dreamwalker
+The surface of the world is an alien realm to stone giants: fluctuating, temporary, exposed to gusting wind and sudden rain. It is as wildly changeable as a dream, and that’s how they regard it—as a dream. Nothing there is permanent, so nothing there is real. What happens on the surface doesn’t matter. Promises and bargains made there needn’t be honored. Life and even art hold less value there.
+
+Stone giants sometimes go on dream quests in the surface world, seeking inspiration for their art, a break from decades-long ennui, or satisfaction of simple curiosity. Some who go on these quests let themselves become lost in the dream. Other stone giants are banished to the surface as punishment. Regardless of the reason they ended up on the surface, if they don’t take shelter under stone, such stone giants can become dreamwalkers.
+
+Dreamwalkers occupy an odd place of respect outside the stone giant ordning. They are considered outcasts, but their familiarity with the surface world makes them valuable guides, and their insights can help other stone giants grasp the dangers of living in a dream.
+
+Dreamwalkers become divorced from reality by isolation, shame, and their unendingly alien surroundings, and this delirium leaches out into the world around them, affecting other creatures that get too close. Believing that they’re living in a dream and that their actions have no real consequences, dreamwalkers act as they please, becoming forces of chaos. As they travel the world, they collect objects and creatures that seem especially significant to them. Over time, the collected things accrete to their bodies, becoming encased in stone.
+
+STONE GIANT DREAMWALKER
+Huge Giant, Typically Chaotic Neutral
+
+Armor Class 18 (natural armor)
+
+Hit Points 161 (14d12 + 70)
+
+Speed 40 ft.
+
+STR
+23 (+6)
+DEX
+14 (+2)
+CON
+21 (+5)
+INT
+10 (+0)
+WIS
+8 (−1)
+CHA
+12 (+1)
+Saving Throws Dex +6, Con +9, Wis +3
+
+Skills Athletics +14, Perception +3
+
+Condition Immunities charmed, frightened
+
+Senses darkvision 60 ft., passive Perception 13
+
+Languages Common, Giant
+
+Challenge 10 (5,900 XP) Proficiency Bonus +4
+
+Dreamwalker’s Charm. An enemy that starts its turn within 30 feet of the giant must make a DC 13 Charisma saving throw, provided that the giant isn’t incapacitated. On a failed save, the creature is charmed by the giant. A creature charmed in this way can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it succeeds on the saving throw, the creature is immune to this giant’s Dreamwalker’s Charm for 24 hours.
+
+Actions
+
+Multiattack. The giant makes two Greatclub or Rock attacks.
+
+Greatclub. Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 24 (4d8 + 6) bludgeoning damage.
+
+Rock. Ranged Weapon Attack: +10 to hit, range 60/240 ft., one target. Hit: 22 (3d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+
+Petrifying Touch. The giant touches one Medium or smaller creature within 10 feet of it that is charmed by it. The target must make a DC 17 Constitution saving throw. On a failed save, the target becomes petrified, and the giant can adhere the target to its stony body. Greater restoration spells and other magic that can undo petrification have no effect on a petrified creature adhered to the giant unless the giant is dead, in which case the magic works normally, freeing the petrified creature as well as ending the petrified condition on it.
+
+
+Storm Giant Quintessent
+To forestall the inevitable, some storm giants approaching the end of their natural life spans seek an escape from death. They plumb the depths of their powerful connection to the elements and disperse themselves into nature, transforming into semiconscious storms. The blizzard that rages unendingly around a mountain peak, the vortex that swirls around a remote island, or the thunderstorm that howls ceaselessly up and down a rugged coastline could, in fact, be the undying form of a storm giant clinging to existence.
+
+A storm giant quintessent sheds their armor and weapons but gains the power to form makeshift weapons out of thin air. When the giant has no further use of these elemental weapons, or when the giant dies, the weapons disappear.
+
+A storm giant quintessent can revert to their true giant form temporarily and can maintain that form long enough for the giant to communicate with a mortal, carry out a short task, or defend their home against aggressors.
+
+STORM GIANT QUINTESSENT
+Huge Giant, Typically Chaotic Good
+
+Armor Class 12
+
+Hit Points 230 (20d12 + 100)
+
+Speed 50 ft., fly 50 ft. (hover), swim 50 ft.
+
+STR
+29 (+9)
+DEX
+14 (+2)
+CON
+20 (+5)
+INT
+17 (+3)
+WIS
+20 (+5)
+CHA
+19 (+4)
+Saving Throws Str +14, Con +10, Wis +10, Cha +9
+
+Skills Arcana +8, History +8, Perception +10
+
+Damage Resistances cold; bludgeoning, piercing, and slashing from nonmagical attacks
+
+Damage Immunities lightning, thunder
+
+Senses truesight 60 ft., passive Perception 20
+
+Languages Common, Giant
+
+Challenge 16 (15,000 XP) Proficiency Bonus +5
+
+Amphibious. The giant can breathe air and water.
+
+Legendary Resistance (1/Day). If the giant fails a saving throw, it can choose to succeed instead.
+
+Actions
+
+Multiattack. The giant makes two Lightning Sword attacks, or it uses Wind Javelin twice.
+
+Lightning Sword. Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 40 (9d6 + 9) lightning damage.
+
+Wind Javelin. The giant coalesces wind into a javelin-like form and hurls it at a creature it can see within 600 feet of it. The javelin deals 19 (3d6 + 9) force damage to the target, striking unerringly. The javelin disappears after it hits.
+
+Legendary Actions
+
+The giant can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The giant regains spent legendary actions at the start of its turn.
+
+Gust. The giant targets a creature it can see within 60 feet of it and creates a magical gust of wind around the target, who must succeed on a DC 18 Strength saving throw or be moved up to 20 feet in any horizontal direction the giant chooses.
+
+Thunderbolt (Costs 2 Actions). The giant hurls a thunderbolt at a creature it can see within 600 feet of it. The target must make a DC 18 Dexterity saving throw, taking 22 (4d10) thunder damage on a failed save, or half as much damage on a successful one.
+
+One with the Storm (Costs 3 Actions). The giant vanishes, dispersing itself into the storm surrounding its lair. The giant can end this effect at the start of any of its turns, becoming a giant once more and appearing in any location it chooses within its lair. While dispersed, the giant can’t take any actions other than lair actions, and it can’t be targeted by attacks, spells, or other effects. The giant can’t use this ability outside its lair, nor can it use this ability if another creature is using a control weather spell or similar magic to quell the storm.
+
+
+
+A Quintessent’s Lair
+A storm giant quintessent has no need for castles or dungeon lairs. Their lair is usually a secluded region or prominent geographic feature, such as a mountain peak, a great waterfall, a remote island, a fog-shrouded loch, a beautiful coral reef, or a windswept desert bluff. The storm in which the giant lives could be a blizzard, a typhoon, a thunderstorm, or a sandstorm, as befits the environment.
+
+Lair Actions
+A storm giant quintessent can use lair actions in giant form and while transformed into a storm. On initiative count 20 (losing initiative ties), the giant can take one of the following lair actions; the giant can’t take the same lair action two rounds in a row:
+
+Deafening Boom. The giant creates a thunderclap centered on a point anywhere in their lair. Each creature within 20 feet of that point must succeed on a DC 18 Constitution saving throw or be deafened until the end of its next turn.
+
+Fog. The giant creates a 20-foot-radius sphere of fog (or murky water if within water) centered on a point anywhere in its lair. The sphere spreads around corners, and its area is heavily obscured. The fog lasts until the giant disperses it (no action required), and it can’t be dispersed by wind.
+
+Gale. The giant creates a 60-foot-long, 10-foot-wide line of strong wind (or strong current within water) originating from a point anywhere in its lair. Each creature in that line must succeed on a DC 18 Strength saving throw or be pushed 15 feet in the direction the wind is blowing. The gust disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in its area. Protected flames, such as those of lanterns, have a 50 percent chance of being extinguished.
+
+Regional Effects
+The region containing a storm giant quintessent’s lair is warped by the giant’s presence, which creates one or more of the following effects:
+
+Downpour. Rain, snow, or blowing dust or sand (whichever is most appropriate) is constant within 1 mile of the lair. Rain causes rivers and streams to fill or overflow their banks; snow, dust, or sand forms deep drifts or dunes.
+
+Lightning. Flashes of lightning and peals of thunder are continual, day and night, within 5 miles of the lair.
+
+Winds. High wind blows within 1 mile of the lair, making it impossible to light a fire unless the location where the fire is lit is protected from the wind.
+
+If the giant dies, the lightning, thunder, and high wind regional effects end immediately. Rain, snow, and blowing dust abate gradually within 1d8 days.
+
+Swarm of Rot Grubs
+Rot grubs are finger-sized maggots that eat living and dead creatures, although they can survive on vegetation. They infest corpses and piles of decaying matter and attack anyone that disturbs them. After burrowing into a creature, rot grubs instinctively chew their way toward vital parts.
+
+Rot grubs recoil from flames, and fire is the main weapon against rot grubs once they’re inside a body. Magic that neutralizes poison can also stop them before they kill their host.
+
+SWARM OF ROT GRUBS
+Medium Swarm of Tiny Beasts, Unaligned
+
+Armor Class 8
+
+Hit Points 22 (5d8)
+
+Speed 5 ft., climb 5 ft.
+
+STR
+2 (–4)
+DEX
+7 (–2)
+CON
+10 (+0)
+INT
+1 (–5)
+WIS
+2 (–4)
+CHA
+1 (–5)
+Damage Vulnerabilities fire
+
+Damage Resistances piercing, slashing
+
+Condition Immunities charmed, frightened, grappled, paralyzed, petrified, prone, restrained
+
+Senses blindsight 10 ft., passive Perception 6
+
+Languages —
+
+Challenge 1/2 (100 XP) Proficiency Bonus +2
+
+Swarm. The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny maggot. The swarm can’t regain hit points or gain temporary hit points.
+
+Actions
+
+Bites. Melee Weapon Attack: +0 to hit, reach 0 ft., one creature in the swarm’s space. Hit: 7 (2d6) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned. At the end of each of the poisoned target’s turns, the target takes 3 (1d6) poison damage. Whenever the poisoned target takes fire damage, the target can repeat the saving throw, ending the effect on itself on a success. If the poisoned target ends its turn with 0 hit points, it dies.
+
+
+Single Rot Grub
+Rot grubs pose a threat both singly and as a swarm. See the stat block for the mechanics of a swarm of rot grubs. A single rot grub has no stat block.
+
+Any creature that comes into contact with a single rot grub must succeed on a DC 10 Constitution saving throw or be poisoned, as the rot grub burrows into the creature. The poisoned creature takes 3 (1d6) poison damage at the end of each of its turns. Whenever the poisoned creature takes fire damage, the creature can repeat the saving throw, ending the effect on itself on a success. If the poisoned creature ends its turn with 0 hit points, it dies, as the rot grub kills it.
+
+Swashbuckler
+Swashbucklers are charming ne’er-do-wells who live by their own codes of honor. They crave notoriety, often indulge in romantic trysts, and eke out livings as pirates and corsairs, rarely staying in one place for too long.
+
+Many swashbucklers have a signature flourish with which they embellish their actions to make themselves more memorable. You can roll on the Swashbuckler Flourishes table or choose one of the options to find a suitably dramatic flourish for a swashbuckler.
+
+Swashbuckler Flourishes
+d8	Flourish
+1	Winks and flashes a charming grin
+2	Bows theatrically
+3	Constantly flips their dagger
+4	Punctuates sentences with a boisterous “Ha-HA!”
+5	Sings catchy sea chanteys
+6	Dexterously manipulates a silver coin through their fingers
+7	Hurls colorful insults
+8	Adds showy embellishments to rapier strokes
+SWASHBUCKLER
+Medium Humanoid, Any Alignment
+
+Armor Class 17 (leather armor, Suave Defense)
+
+Hit Points 66 (12d8 + 12)
+
+Speed 30 ft.
+
+STR
+12 (+1)
+DEX
+18 (+4)
+CON
+12 (+1)
+INT
+14 (+2)
+WIS
+11 (+0)
+CHA
+15 (+2)
+Skills Acrobatics +8, Athletics +5, Persuasion +6
+
+Senses passive Perception 10
+
+Languages any one language (usually Common)
+
+Challenge 3 (700 XP) Proficiency Bonus +2
+
+Suave Defense. While the swashbuckler is wearing light or no armor and wielding no shield, its AC includes its Charisma modifier.
+
+Actions
+
+Multiattack. The swashbuckler makes one Dagger attack and two Rapier attacks.
+
+Dagger. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 6 (1d4 + 4) piercing damage.
+
+Rapier. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
+
+Bonus Actions
+
+Lightfooted. The swashbuckler takes the Dash or Disengage action.
+
+
+Sword Wraiths
+When glory-obsessed warriors die in battle without honor, they might haunt the site as sword wraiths.
+
+Sword Wraith Commander
+Sword wraith commanders haunt battlefields, attacking anyone who questions their valor but looking kindly on those who sing their praises.
+
+SWORD WRAITH COMMANDER
+Medium Undead, Typically Lawful Evil
+
+Armor Class 18 (breastplate, shield)
+
+Hit Points 127 (15d8 + 60)
+
+Speed 30 ft.
+
+STR
+18 (+4)
+DEX
+14 (+2)
+CON
+18 (+4)
+INT
+11 (+0)
+WIS
+12 (+1)
+CHA
+14 (+2)
+Skills Perception +4
+
+Damage Resistances necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+
+Damage Immunities poison
+
+Condition Immunities exhaustion, frightened, poisoned, unconscious
+
+Senses darkvision 60 ft., passive Perception 14
+
+Languages the languages it knew in life
+
+Challenge 8 (3,900 XP) Proficiency Bonus +3
+
+Turning Defiance. The commander and any other sword wraiths within 30 feet of it have advantage on saving throws against effects that turn Undead.
+
+Unusual Nature. The commander doesn’t require air, food, drink, or sleep.
+
+Actions
+
+Multiattack. The commander makes two Longsword or Longbow attacks.
+
+Longsword. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
+
+Longbow. Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+
+Call to Honor (1/Day). If the commander has taken damage during this combat, it gives itself advantage on attack rolls until the end of its next turn, and 1d4 + 1 sword wraith warriors appear in unoccupied spaces within 30 feet of it. The warriors last until they drop to 0 hit points, and they take their turns immediately after the commander’s turn on the same initiative count.
+
+Bonus Actions
+
+Martial Fury. The commander makes one Longsword or Longbow attack, which deals an extra 9 (2d8) necrotic damage on a hit, and attack rolls against it have advantage until the start of its next turn.
+
+Sword Wraith Warrior
+Sword wraith warriors are most often found on ancient battlefields where soldiers were hemmed in and slaughtered without quarter.
+
+SWORD WRAITH WARRIOR
+Medium Undead, Typically Lawful Evil
+
+Armor Class 16 (chain shirt, shield)
+
+Hit Points 45 (6d8 + 18)
+
+Speed 30 ft.
+
+STR
+18 (+4)
+DEX
+12 (+1)
+CON
+17 (+3)
+INT
+6 (−2)
+WIS
+9 (−1)
+CHA
+10 (+0)
+Damage Resistances necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+
+Damage Immunities poison
+
+Condition Immunities exhaustion, frightened, poisoned, unconscious
+
+Senses darkvision 60 ft., passive Perception 9
+
+Languages the languages it knew in life
+
+Challenge 3 (700 XP) Proficiency Bonus +2
+
+Unusual Nature. The warrior doesn’t require air, food, drink, or sleep.
+
+Actions
+
+Battleaxe. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
+
+Longbow. Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
+
+Bonus Actions
+
+Martial Fury. The warrior makes one Battleaxe or Longbow attack, and attack rolls against it have advantage until the start of its next turn.
+
+
+Monsters: T
+Tanarukk
+When demonic influence corrupts the leadership of a people or an organization, the leaders might embrace abyssal magic to make tanarukks, using these ferocious warriors to bolster their followers’ strength.
+
+The demon lord Baphomet (appears in this book) gladly shares the secret of creating tanarukks with those who entreat him for power; the cult of Gruumsh has also mastered a ritual for this purpose, and bestows it on those deemed worthy. Whatever process is used corrupts the subject, transforming them into a vicious Fiend.
+
+Although tanarukks are valued as fearsome fighters, they are a threat to their allies off the battlefield. When not in combat, a tanarukk is destructive and volatile and is usually kept imprisoned by its allies. If unrestrained, a free tanarukk embarks on a rampage, attempting to take over by force. Most such coups fail but are costly nonetheless. If a tanarukk does seize the leadership of a group, reckless raiding or even war is the course they inevitably choose.
+
+I believe spite can be an excellent motivator. But unchecked fury? That rarely leads to anything more than a big mess.
+
+Tasha
+
+TANARUKK
+Medium Fiend (Demon), Typically Chaotic Evil
+
+Armor Class 14 (natural armor)
+
+Hit Points 95 (10d8 + 50)
+
+Speed 30 ft.
+
+STR
+18 (+4)
+DEX
+13 (+1)
+CON
+20 (+5)
+INT
+9 (−1)
+WIS
+9 (−1)
+CHA
+9 (−1)
+Skills Intimidation +2, Perception +2
+
+Damage Resistances fire, poison
+
+Senses darkvision 60 ft., passive Perception 12
+
+Languages Abyssal, Common, plus any one language
+
+Challenge 5 (1,800 XP) Proficiency Bonus +3
+
+Magic Resistance. The tanarukk has advantage on saving throws against spells and other magical effects.
+
+Actions
+
+Multiattack. The tanarukk makes one Bite attack and one Greatsword attack.
+
+Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
+
+Greatsword. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+
+Bonus Actions
+
+Aggressive. The tanarukk moves up to its speed toward an enemy that it can see.
+
+Reactions
+
+Unbridled Fury. In response to being hit by a melee attack, the tanarukk can make one Bite or Greatsword attack with advantage against the attacker.
+
+
+Titivilus
+
+Dispater, the gloomy Lord of Dis, rules from his iron palace, seeming to hide behind its labyrinthine corridors, iron walls, diabolical traps, and monstrous servants. Knowing he has enemies on all sides and fearing he’ll be displaced like Moloch, Geryon, and so many others, he almost never travels farther than the sprawling city that lies outside his palace.
+
+Dispater is correct to fear, but the true threat comes not from without. The lord’s great error was allowing himself to be seduced by Titivilus, who beguiled his way into being the primary advisor in Dispater’s household.
+
+Although Titivilus is inferior in physical strength and power when compared to other archdevils, he compensates with cunning. A shrewd politician, he has clawed his way up through the ranks to become the second-most powerful devil in Dis, entirely by saying the right thing at the right time to get what he wanted. Charming and pleasant, he is a master at negotiation, able to twist words so as to leave his victims confused and believing he’s on their side. Through these skills, Titivilus has manipulated everyone along his path to power, either to win them over to his cause or to remove them as a threat.
+
+Since gaining his position, Titivilus has convinced Dispater that countless plots are being hatched against him and that Asmodeus himself seeks to remove Dispater from power. In response, Dispater has withdrawn to his palace and left day-to-day decisions to Titivilus, even authorizing him to answer and negotiate bargains with mortals who attempt to summon Dispater. Titivilus now represents his master and speaks with his voice, a turn of events that leads some to whisper that either Titivilus is Dispater in disguise or Titivilus has removed the archduke and replaced him altogether.
+
+Titivilus recognizes the precariousness of his position. After all, Dispater’s acceptance of his plans and his advice can last only so long before some other plotter steps in and reveals the truth. For insurance, Titi­vilus has begun recruiting outsiders to deal with problem devils, to insulate him against criticism, and, above all, to create complications that he can solve so as to reinforce his value in the eyes of his master. Titivilus finds adventurers well suited to the tasks he needs performed and recruits them directly or through intermediaries, expending them later as his plans require.
+
+TITIVILUS
+Medium Fiend (Devil), Lawful Evil
+
+Armor Class 20 (natural armor)
+
+Hit Points 150 (20d8 + 60)
+
+Speed 40 ft., fly 60 ft.
+
+STR
+19 (+4)
+DEX
+22 (+6)
+CON
+17 (+3)
+INT
+24 (+7)
+WIS
+22 (+6)
+CHA
+26 (+8)
+Saving Throws Dex +11, Con +8, Wis +11, Cha +13
+
+Skills Deception +13, Insight +11, Intimidation +13, Persuasion +13
+
+Damage Resistances cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+
+Damage Immunities fire, poison
+
+Condition Immunities charmed, exhaustion, frightened, poisoned
+
+Senses darkvision 120 ft., passive Perception 16
+
+Languages all, telepathy 120 ft.
+
+Challenge 16 (15,000 XP) Proficiency Bonus +5
+
+Legendary Resistance (3/Day). If Titivilus fails a saving throw, he can choose to succeed instead.
+
+Magic Resistance. Titivilus has advantage on saving throws against spells and other magical effects.
+
+Regeneration. Titivilus regains 10 hit points at the start of his turn. If he takes cold or radiant damage, this trait doesn’t function at the start of his next turn. Titivilus dies only if he starts his turn with 0 hit points and doesn’t regenerate.
+
+Ventriloquism. Whenever Titivilus speaks, he can choose a point within 60 feet of him; his voice emanates from that point.
+
+Actions
+
+Multiattack. Titivilus makes one Silver Sword attack, and he uses Frightful Word.
+
+Silver Sword. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) force damage, or 9 (1d10 + 4) force damage if used with two hands, plus 16 (3d10) necrotic damage. If the target is a creature, its hit point maximum is reduced by an amount equal to half the necrotic damage taken.
+
+Frightful Word. Titivilus targets one creature he can see within 10 feet of him. The target must succeed on a DC 21 Wisdom saving throw or become frightened of him for 1 minute. While frightened in this way, the target must take the Dash action and move away from Titivilus by the safest available route on each of its turns, unless there is nowhere to move, in which case it needn’t take the Dash action. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Spellcasting. Titivilus casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 21):
+
+At will: alter self, major image, nondetection, sending, suggestion
+
+3/day each: mislead, modify memory
+
+Teleport. Titivilus teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
+
+Twisting Words. Titivilus targets one creature he can see within 60 feet of him. The target must succeed on a DC 21 Charisma saving throw or become charmed by Titivilus for 1 minute. The charmed target can repeat the saving throw if Titivilus deals any damage to it. A creature that succeeds on the saving throw is immune to Titivilus’s Twisting Words for 24 hours.
+
+Legendary Actions
+
+Titivilus can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Titivilus regains spent legendary actions at the start of his turn.
+
+Corrupting Guidance. Titivilus uses Twisting Words. Alternatively, he targets one creature charmed by him that is within 60 feet of him; that charmed target must succeed on a DC 21 Charisma saving throw, or Titivilus decides how the target acts during its next turn.
+
+Teleport. Titivilus uses Teleport.
+
+Assault (Costs 2 Actions). Titivilus makes one Silver Sword attack, or he uses Frightful Word.
+
+
+Tlincalli
+Tlincallis, also called scorpion folk, are chitin-covered creatures with a humanlike upper body and the lower body of an enormous scorpion, complete with a stinger at the end of a long tail. These desert creatures range across arid lands, hunting at dawn and dusk. In the hours between, they wait out the day’s heat or the night’s cold by burying themselves in loose sand or earth or, if the terrain proves too inflexible, lurking in ruins or shallow caves.
+
+Tlincallis stay in one place for only as long as the hunting is good in the immediate area, though they might visit the same way stations over and over during their wanderings. They also settle down temporarily whenever it’s time to lay eggs and hatch a new brood of young.
+
+These scorpion folk deposit their eggs in warm places out of direct sunlight, often amid a stand of cacti near their present encampment. The eggs are protected by hard shells coated in paralytic poison similar to that produced by their stingers. This poison leaves most would-be predators that dare to break an egg defenseless when the tlincalli parents come to investigate.
+
+Tlincallis eat what they kill, whether their hunt nets desert animals or a caravan, but when they have new mouths to feed, they are careful to take some of their prey alive. After using their stingers to paralyze victims and their spiked chains to bind them, tlincallis take these captives back to their encampment and tie them to cacti or rock formations. When the sun sets, the newly hatched young emerge from the lair to eat the captives alive.
+
+These predators see themselves as great hunters, and respect others with such skills. If a tlincalli encounters a more powerful hunter, such as a blue dragon, they carefully weigh whether to serve the superior hunter, move on, or fight to the death to remove it as competition.
+
+Tlincallis rarely build cities, make clothing, or mine metals. Instead, they scavenge much of what they need or want. They do, however, melt down scavenged metal to forge crude weapons, armor, and tools.
+
+TLINCALLI
+Large Monstrosity, Typically Neutral
+
+Armor Class 15 (natural armor)
+
+Hit Points 85 (10d10 + 30)
+
+Speed 40 ft.
+
+STR
+16 (+3)
+DEX
+13 (+1)
+CON
+16 (+3)
+INT
+8 (−1)
+WIS
+12 (+1)
+CHA
+8 (−1)
+Skills Perception +4, Stealth +4, Survival +4
+
+Senses darkvision 60 ft., passive Perception 14
+
+Languages Tlincalli
+
+Challenge 5 (1,800 XP) Proficiency Bonus +3
+
+Actions
+
+Multiattack. The tlincalli makes one Longsword or Spiked Chain attack and one Sting attack.
+
+Longsword. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+
+Spiked Chain. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 6 (1d6 + 3) piercing damage, and the target is grappled (escape DC 11) if it is a Large or smaller creature. Until this grapple ends, the target is restrained, and the tlincalli can’t use the spiked chain against another target.
+
+Sting. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 6 (1d6 + 3) piercing damage plus 14 (4d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned for 1 minute. If it fails the saving throw by 5 or more, the target is also paralyzed while poisoned. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+
+Tortles
+Tortles are omnivorous, turtle-like bipeds with shells that cover most of their bodies. Because they carry their homes on their backs, tortles feel little need to stay put for long.
+
+Most tortles like to see how other folk live. A tortle can spend decades away from their native land without feeling homesick, often viewing their current companions as their family.
+
+Tortle
+The generic tortle stat block here represents a warrior, especially the sort who travels far and wide.
+
+TORTLE
+Medium Humanoid, Any Alignment
+
+Armor Class 17 (natural)
+
+Hit Points 22 (4d8 + 4)
+
+Speed 30 ft.
+
+STR
+15 (+2)
+DEX
+10 (+0)
+CON
+12 (+1)
+INT
+11 (+0)
+WIS
+13 (+1)
+CHA
+12 (+1)
+Skills Athletics +4, Survival +3
+
+Senses passive Perception 11
+
+Languages Aquan, Common
+
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+
+Hold Breath. The tortle can hold its breath for 1 hour.
+
+Actions
+
+Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.
+
+Spear. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands in melee.
+
+Light Crossbow. Ranged Weapon Attack: +2 to hit, range 80/320 ft., one target. Hit: 4 (1d8) piercing damage.
+
+Shell Defense. The tortle withdraws into its shell. Until it emerges, it gains a +4 bonus to AC and has advantage on Strength and Constitution saving throws. While in its shell, the tortle is prone, its speed is 0 and can’t increase, it has disadvantage on Dexterity saving throws, it can’t take reactions, and the only action it can take is a bonus action to emerge.
+
+
+Tortle Druid
+Many tortles view the world as a place of wonder. They live for the chance to hear a soft wind blowing through trees, to watch a frog croaking on a lily pad, or to stand in a crowded marketplace. A tortle druid savors such things more than most, channeling the natural magic of the world around them.
+
+TORTLE DRUID
+Medium Humanoid, Any Alignment
+
+Armor Class 17 (natural)
+
+Hit Points 33 (6d8 + 6)
+
+Speed 30 ft.
+
+STR
+14 (+2)
+DEX
+10 (+0)
+CON
+12 (+1)
+INT
+11 (+0)
+WIS
+15 (+2)
+CHA
+12 (+1)
+Skills Animal Handling +4, Nature +2, Survival +4
+
+Senses passive Perception 12
+
+Languages Aquan, Common
+
+Challenge 2 (450 XP) Proficiency Bonus +2
+
+Hold Breath. The tortle can hold its breath for 1 hour.
+
+Actions
+
+Multiattack. The tortle makes four Claw attacks or two Nature’s Wrath attacks.
+
+Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.
+
+Nature’s Wrath. Ranged Spell Attack: +4 to hit, range 90 ft., one target. Hit: 9 (2d6 + 2) damage of a type chosen by the tortle: cold, fire, lightning, or thunder.
+
+Shell Defense. The tortle withdraws into its shell. Until it emerges, it gains a +4 bonus to AC and has advantage on Strength and Constitution saving throws. While in its shell, the tortle is prone, its speed is 0 and can’t increase, it has disadvantage on Dexterity saving throws, it can’t take reactions, and the only action it can take is a bonus action to emerge.
+
+Spellcasting. The tortle casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 12):
+
+At will: druidcraft, guidance
+
+2/day each: cure wounds, hold person, speak with animals, thunderwave
+
+Trapper
+
+A trapper is a manta-like creature that usually lurks in subterranean environments. It can change the color and texture of its tough, outward-facing side to help it blend in with its surroundings, while its soft, inward-facing side clings to the floor, wall, or ceiling in its hunting territory. It remains motionless as it waits for prey to come close. When a target is within its reach, it peels itself away from the surface and wraps around its prey, crushing, smothering, and then digesting it. Only a scattering of bones, metal, treasure, and other indigestible bits is left behind.
+
+A trapper’s ability to alter the color and texture of its outer side enables it to blend in with any surface made of stone, earth, or wood, masking its presence to any but the most rigorous scrutiny. It can’t change its texture to that of a grassy or snow-covered surface, but it is just cunning enough to change its color to match and then conceal itself under a thin layer of vegetation or actual snow.
+
+A trapper that lurks on the floor of its hunting grounds can cover any remains there with its body, making them look like irregularities in the surface. The creature might instead attach itself to a nearby wall or a ceiling, using the remnants as bait; any creature that stops to investigate the bones for valuables becomes the trapper’s next meal.
+
+A trapper needs to eat a halfling-sized meal once per week to remain sated. Given a steady supply of food, trappers are content to stay in one place, making them a threat along well-traveled dungeon corridor and on routes through the wilderness that see a lot of traffic. When prey is scarce, a trapper enters a state of hibernation that can last for months, though it is still aware when prey comes near. A trapper on the verge of starvation might defy its instincts and abandon its old territory in search of better hunting.
+
+TRAPPER
+Large Monstrosity, Unaligned
+
+Armor Class 13 (natural armor)
+
+Hit Points 68 (8d10 + 24)
+
+Speed 20 ft., climb 20 ft.
+
+STR
+17 (+3)
+DEX
+10 (+0)
+CON
+17 (+3)
+INT
+2 (−4)
+WIS
+13 (+1)
+CHA
+4 (−3)
+Skills Stealth +2
+
+Senses blindsight 30 ft., darkvision 60 ft., passive Perception 11
+
+Languages —
+
+Challenge 3 (700 XP) Proficiency Bonus +2
+
+False Appearance. If the trapper is motionless on a floor, wall, or ceiling at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn’t observed the trapper move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the trapper isn’t part of the floor, wall, or ceiling.
+
+Spider Climb. The trapper can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+
+Actions
+
+Smother. One Large or smaller creature within 10 feet of the trapper must succeed on a DC 13 Dexterity saving throw or be grappled (escape DC 13). Until the grapple ends, the target takes 13 (3d6 + 3) bludgeoning damage plus 3 (1d6) acid damage at the start of each of its turns. While grappled in this way, the target is restrained, blinded, and deprived of air. The trapper can smother only one creature at a time.
+
+Trolls
+Trolls that are nearly obliterated but survive and regenerate from mere scraps of flesh can display bizarre features. Radically transformed trolls like the rot trolls, spirit trolls, and venom trolls that follow are especially likely to arise when trolls regenerate in the presence of magical emanations, planar energy, disease, or death on a vast scale, or if their bodies were damaged by elemental forces. These unusual forms can also be produced and shaped by the ritual magic of evil spellcasters or by trolls’ own practices, as is the case for dire trolls.
+
+Vaprak the Destroyer
+Although trolls are rarely devout and seldom ponder spiritual questions, some fear and venerate the entity known as Vaprak the Destroyer. Vaprak’s true nature is something of a mystery, but Vaprak is always portrayed as a horrid, misshapen, greenish creature strongly resembling a troll. Vaprak is given to fits of mindless destruction and uncontrollably fears the plots and ambitions of other deities.
+
+Vaprak’s troll worshipers believe this god devours the souls of those who have been cooked or digested (slain by fire or acid). Otherwise, the god spits the soul back into the world to regenerate a new body.
+
+Dire Troll
+Trolls kill and eat almost anything—including, in rare cases, other trolls. This cannibalism has the effect of causing a troll to grow to an unusually large size. The resulting dire trolls crave more and more troll flesh to fuel their continued growth.
+
+Dire trolls also increase their size by grafting flesh onto themselves. When a slab of quivering troll flesh is bound against a fresh wound on a dire troll, the dire troll’s regenerative capacity incorporates the new mass into the troll’s own musculature. Even more horrifying are the multiple arms, eyes, claws, and organs that dire trolls tear from their victims and graft onto themselves in this manner.
+
+DIRE TROLL
+Huge Giant, Typically Chaotic Evil
+
+Armor Class 15 (natural armor)
+
+Hit Points 172 (15d12 + 75)
+
+Speed 40 ft.
+
+STR
+22 (+6)
+DEX
+15 (+2)
+CON
+21 (+5)
+INT
+9 (−1)
+WIS
+11 (+0)
+CHA
+5 (−3)
+Saving Throws Wis +5, Cha +2
+
+Skills Perception +10
+
+Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks
+
+Condition Immunities frightened, poisoned
+
+Senses darkvision 60 ft., passive Perception 20
+
+Languages Giant
+
+Challenge 13 (10,000 XP) Proficiency Bonus +5
+
+Regeneration. The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, it regains only 5 hit points at the start of its next turn. The troll dies only if it is hit by an attack that deals 10 or more acid or fire damage while the troll has 0 hit points.
+
+Actions
+
+Multiattack. The troll makes one Bite attack and four Claw attacks.
+
+Bite. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 10 (1d8 + 6) piercing damage plus 5 (1d10) poison damage.
+
+Claw. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 16 (3d6 + 6) slashing damage.
+
+Whirlwind of Claws (Recharge 5–6). Each creature within 10 feet of the troll must make a DC 19 Dexterity saving throw, taking 44 (8d10) slashing damage on a failed save, or half as much damage on a successful one.
+
+
+Rot Troll
+A troll infused with waves of necrotic energy as it regenerates can develop a symbiotic relationship with that deathly power. The troll’s body withers, and the flesh falls away from the body as quickly as it forms. Eventually a rot troll becomes unable to regenerate, though the troll still heals normally. The creature courses with necrotic energy; simply standing near a rot troll exposes other creatures to lethal emanations.
+
+ROT TROLL
+Large Giant, Typically Chaotic Evil
+
+Armor Class 16 (natural armor)
+
+Hit Points 138 (12d10 + 72)
+
+Speed 30 ft.
+
+STR
+18 (+4)
+DEX
+13 (+1)
+CON
+22 (+6)
+INT
+5 (−3)
+WIS
+8 (−1)
+CHA
+4 (−3)
+Skills Perception +3
+
+Damage Immunities necrotic
+
+Senses darkvision 60 ft., passive Perception 13
+
+Languages Giant
+
+Challenge 9 (5,000 XP) Proficiency Bonus +4
+
+Rancid Degeneration. At the end of each of the troll’s turns, each creature within 5 feet of it takes 11 (2d10) necrotic damage, unless the troll has taken acid or fire damage since the end of its last turn.
+
+Actions
+
+Multiattack. The troll makes one Bite attack and two Claw attacks.
+
+Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage plus 16 (3d10) necrotic damage.
+
+Claw. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 7 (2d6) necrotic damage.
+
+
+Spirit Troll
+A troll blasted with psychic energy can take a nonphysical form upon regenerating. The troll’s psyche survives, but the body is as insubstantial as shadow. The troll might be unaware of the transition—the creature still moves and attacks with teeth and claws as ever—but now the troll strikes at victims’ minds.
+
+SPIRIT TROLL
+Large Giant, Typically Chaotic Evil
+
+Armor Class 17 (natural armor)
+
+Hit Points 130 (20d10 + 20)
+
+Speed 30 ft.
+
+STR
+1 (−5)
+DEX
+17 (+3)
+CON
+13 (+1)
+INT
+8 (−1)
+WIS
+9 (−1)
+CHA
+16 (+3)
+Skills Perception +3
+
+Damage Resistances acid, cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks
+
+Condition Immunities exhaustion, grappled, paralyzed, petrified, prone, restrained, unconscious
+
+Senses darkvision 60 ft., passive Perception 13
+
+Languages Giant
+
+Challenge 11 (7,200 XP) Proficiency Bonus +4
+
+Incorporeal Movement. The troll can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+
+Regeneration. The troll regains 10 hit points at the start of its turn. If the troll takes psychic or force damage, this trait doesn’t function at the start of the troll’s next turn. The troll dies only if it starts its turn with 0 hit points and doesn’t regenerate.
+
+Actions
+
+Multiattack. The troll makes one Bite attack and two Claw attacks.
+
+Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 19 (3d10 + 3) psychic damage, and the target must succeed on a DC 15 Wisdom saving throw or be stunned for 1 minute. The stunned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 19 (3d10 + 3) psychic damage.
+
+
+Venom Troll
+A troll that survives massive doses of poison might transform into a venom troll. Lingering poison infuses the troll’s blood and tissue, and poison leaks from the pores to coat the troll’s fangs and claws. These creatures are especially dangerous in close combat because poison drips off their flesh and sprays out from every wound they receive.
+
+VENOM TROLL
+Large Giant, Typically Chaotic Evil
+
+Armor Class 15 (natural armor)
+
+Hit Points 94 (9d10 + 45)
+
+Speed 30 ft.
+
+STR
+18 (+4)
+DEX
+13 (+1)
+CON
+20 (+5)
+INT
+7 (−2)
+WIS
+9 (−1)
+CHA
+7 (−2)
+Skills Perception +5
+
+Damage Immunities poison
+
+Condition Immunities poisoned
+
+Senses darkvision 60 ft., passive Perception 15
+
+Languages Giant
+
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+
+Poison Splash. When the troll takes damage of any type but psychic, each creature within 5 feet of the troll takes 9 (2d8) poison damage.
+
+Regeneration. The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn’t function at the start of the troll’s next turn. The troll dies only if it starts its turn with 0 hit points and doesn’t regenerate.
+
+Actions
+
+Multiattack. The troll makes one Bite attack and two Claw attacks.
+
+Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 7 (1d6 + 4) piercing damage plus 4 (1d8) poison damage, and the target is poisoned until the start of the troll’s next turn.
+
+Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 4 (1d8) poison damage.
+
+Venom Spray (Recharge 6). The troll slices itself with a claw, releasing a spray of poison in a 15-foot cube. The troll takes 7 (2d6) slashing damage, which can’t be reduced in any way. Each creature in the area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (4d8) poison damage and is poisoned for 1 minute. On a successful save, the creature takes half as much damage and isn’t poisoned. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+
+Monsters: U
+Ulitharid
+Very rarely, when a tadpole from the brine pool of an elder brain (appears in this book) is implanted into a creature, that creature transforms into an ulitharid: a larger and more potent mind flayer with six tentacles. Illithids innately recognize that an ulitharid’s survival is more important than their own. An elder brain’s reaction to the rise of an ulitharid varies. In most colonies, the ulitharid becomes an elder brain’s most favored servant, invested with power and authority. In others, the elder brain perceives an ulitharid as a potential rival and manipulates or quashes the ulitharid’s ambitions accordingly.
+
+When an ulitharid finds sharing leadership with an elder brain insufferable, it breaks off from the colony, taking a group of mind flayers with it, and moves to another location to form a new colony. After the death of the ulitharid’s body, a special process transforms its brain into a new elder brain for the colony.
+
+This process doesn’t work on the brain of an ulitharid that dies a natural death, as such brains are too decrepit to be used. Instead, each ulitharid carries a psionically enhanced staff; when the ulitharid is ready to give up its life, it attaches the staff to the back of its head, and the staff cracks open its skull, enabling its brain to be extracted. The brain and the staff are then planted in the ulitharid’s corpse, causing it to dissolve into ichor. This psionically potent slime helps to fuel the transformation of the area into a brine pool for the embryonic elder brain.
+
+ULITHARID
+Large Aberration (Mind Flayer), Typically Lawful Evil
+
+Armor Class 15 (breastplate)
+
+Hit Points 127 (17d10 + 34)
+
+Speed 30 ft.
+
+STR
+15 (+2)
+DEX
+12 (+1)
+CON
+15 (+2)
+INT
+21 (+5)
+WIS
+19 (+4)
+CHA
+21 (+5)
+Saving Throws Int +9, Wis +8, Cha +9
+
+Skills Arcana +9, Insight +8, Perception +8, Stealth +5
+
+Senses darkvision 120 ft., passive Perception 18
+
+Languages Deep Speech, Undercommon, telepathy 2 miles
+
+Challenge 9 (5,000 XP) Proficiency Bonus +4
+
+Creature Sense. The ulitharid is aware of the presence of creatures within 2 miles of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature, as well as each creature’s Intelligence score, but can’t sense anything else about it. A creature protected by a mind blank spell, a nondetection spell, or similar magic can’t be perceived in this manner.
+
+Magic Resistance. The ulitharid has advantage on saving throws against spells and other magical effects.
+
+Psionic Hub. If an elder brain establishes a psychic link with the ulitharid, the elder brain can form a psychic link with any other creature the ulitharid can detect using its Creature Sense. Any such link ends if the creature falls outside the telepathy ranges of both the ulitharid and the elder brain. The ulitharid can maintain its psychic link with the elder brain regardless of the distance between them, so long as they are both on the same plane of existence. If the ulitharid is more than 5 miles away from the elder brain, it can end the psychic link at any time (no action required).
+
+Actions
+
+Tentacles. Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 27 (4d10 + 5) psychic damage. If the target is Large or smaller, it is grappled (escape DC 14) and must succeed on a DC 17 Intelligence saving throw or be stunned until this grapple ends.
+
+Extract Brain. Melee Weapon Attack: +9 to hit, reach 5 ft., one incapacitated Humanoid grappled by the ulitharid. Hit: 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the ulitharid kills the target by extracting and devouring its brain.
+
+Mind Blast (Recharge 5–6). The ulitharid magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 17 Intelligence saving throw or take 31 (4d12 + 5) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Spellcasting (Psionics). The ulitharid casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 17):
+
+At will: detect thoughts, levitate
+
+1/day each: dominate monster, feeblemind, mass suggestion, plane shift (self only), project image, scrying, telekinesis

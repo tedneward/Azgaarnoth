@@ -27,11 +27,12 @@ Some humanoids make the mistake of thinking that the hags' rules of conduct appl
 
 ***Dark Lairs.*** Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and gloomy swamps. In time, the landscape around a hag's lair reflects the creature's noxiousness, such that the land itself can attack and kill trespassers. Trees twisted by darkness attack passersby, while vines snake through the undergrowth to snare and drag off creatures one at a time. Foul stinking fogs turn the air to poison, and conceal pools of quicksand and sinkholes that consume unwary wanderers.
 
-***Hag Covens.*** When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power.
+### Hag Covens
+When hags must work together, they form covens, in spite of their selfish natures. A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos. The coven can be made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power. 
 
-A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos.
+While all three members of a hag coven are within 30 feet of one another, they each gain the following action:
 
-***Shared Spellcasting.*** While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
+***Shared Spellcasting.*** The hag is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12 + the hag's Int modifier, +4 + the hag's Int modifier to hit with spell attacks). The three hags in the coven share the spell slots listed. The hag has the following wizard spells prepared:
 
 * 1st level (4 slots): identify, ray of sickness
 * 2nd level (3 slots): hold person, locate object
@@ -40,8 +41,6 @@ A coven consists of three hags so that any arguments between two hags can be set
 * 5th level (2 slots): contact other plane, scrying
 * 6th level (1 slot): eyebite
 
-For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
-
 ***Hag Eye.*** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.
 
 A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over.
@@ -49,25 +48,23 @@ A hag coven can have only one hag eye at a time, and creating a new one requires
 ---
 
 ## Annis Hag
-Annis hags lair in mountains or hills. Despite being hunchbacked and hump-shouldered, they are the largest and most physically imposing of their kind, standing eight feet tall.
+Annis hags lair in mountains or hills. These hunchbacked and hump-shouldered hags are the largest and most physically imposing of their kind, standing eight feet tall. They can easily tear a fully grown person apart, but they love hunting the young, preferring their flesh above all others.
 
-***Tormenting the Weak.***. Although annis hags can easily tear a grown man apart, they love hunting children, preferring their flesh above all others. They use the flayed skin of such victims to make supple leather, and a hag's lair often shows the signs of this industry.
+Annis hags leave tokens of their cruelty at the edges of forests and other areas they claim to provoke fear and distrust in nearby villages and settlements. To an annis hag, nothing is sweeter than making a once-vibrant community paralyzed with terror, so folk never venture out at night, strangers are met with suspicion and anger, and parents warn their children: "Be good, or the annis will get you."
 
-Annis hags leave tokens of their cruelty at the edges of forests and other areas they claim. In this way, they provoke fear and paranoia in nearby villages and settlements. To an annis hag, nothing is sweeter than turning a vibrant community into a place paralyzed with terror, where folk never venture out at night, strangers are met with suspicion and anger, and parents warn their children to "be good, or the annis will get you."
+When an annis feels especially cruel, the hag adopts the appearance of a kindly elder, approaches a child in a remote place, and gives them an iron token (described below), through which the child can magically confide in the hag. Over time, "Granny" or "Grampy" convinces the child that it's okay to do bad deeds--starting with breaking things or wandering without permission, then graduating to pushing someone down the stairs or setting a house on fire. Eventually, the child's terrified family and community face painful decisions of what to do about the seemingly remorseless child.
 
-***Child Corrupter.***. When an annis feels especially cruel, she disguises herself as a kindly-looking elderly woman, approaches a child in a remote place, and gives it an iron token that it can use to confide in her. Over time, "Granny" convinces the child that it's okay to have bad thoughts and do bad deeds — starting with breaking things or wandering outside without permission, then graduating to pushing someone down the stairs or setting a house on fire. Sooner or later, the child's family and community become terrified of the "bad seed" and must face the awful decision of whether the child should be punished or exiled.
+Much as annis hags befriend children in order to corrupt them, they may adopt a group of ogres, trolls, or other creatures (ogres and trolls appear in the Monster Manual), ruling them through brute strength, insults, and superstition.
 
-***Tribe Mother.***. Much in the way that they befriend children in order to corrupt them, annis hags have a tendency for adopting a group of ogres, trolls, or other loutish creatures, ruling them through brute strength, verbal abuse, and superstition.
+***Iron Token.*** An annis hag can pull out one of their iron teeth or nails and spend 1 minute shaping and polishing it into the form of a coin, a ring, or a tiny mirror. Thereafter, any creature that holds this iron token can have a whispered conversation with the hag, provided the creature and the hag are within 10 miles of each other. When the hag speaks through the token, the holder can hear the hag's whisper but not any other sounds at the hag's location. Similarly, the hag can hear the holder of the token but not the noise around it.
 
-***Iron Tokens.*** An annis hag can pull out one of her iron teeth or nails and spend 1 minute shaping and polishing it into the form of a coin, a ring, or a tiny mirror. Thereafter, any creature that holds this iron token can have a whispered conversation with the hag, provided the creature and the hag are on the same plane of existence and within 10 miles of each other. The holder of the token can hear only the hag's voice, not those of any other creatures or any ambient noise around the hag. Similarly, the hag can hear the holder of the token and not the noise around it.
-
-A hag can have up to three iron tokens active at one time. As an action, she can discern the direction and approximate distance to all of her active tokens. She can instantaneously deactivate any of her tokens at any distance (no action required), whereupon the token retains its current form but loses its magical properties.
+A hag can have up to three iron tokens active at one time. As an action, the hag can discern the direction and approximate distance to those active tokens. The hag can deactivate any of those tokens at any distance (no action required), whereupon the token retains its current form but loses its magic.
 
 >### Annis Hag
->*Large fey, chaotic evil*
+>*Large Fey, Typically Chaotic Evil*
 >___
 >- **Armor Class** 17 (natural armor)
->- **Hit Points** 75 (10d10 + 20)
+>- **Hit Points** 90 (12d10 + 24)
 >- **Speed** 40 ft.
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
@@ -75,57 +72,55 @@ A hag can have up to three iron tokens active at one time. As an action, she can
 >|21 (+5)|12 (+1)|14 (+2)|13 (+1)|14 (+2)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Con +5
 >- **Damage Vulnerabilities** 
->- **Damage Resistances** cold; bludgeoning,piercing,and slashing from nonmagical attacks
+>- **Damage Resistances** cold
 >- **Damage Immunities** 
 >- **Condition Immunities** 
 >- **Skills** Deception +5,Perception +5
 >- **Senses** darkvision 60 ft.,passive Perception 15
 >- **Languages** Common,Giant,Sylvan
->- **Challenge** 6; 8 if part of a coven
+>- **Challenge** 6
 >___
->***Innate Spellcasting.***. The hag's innate spellcasting ability is Charisma (spell save DC 13). She can innately cast the following spells:
->
->3/day each: disguise self (including the form of a Medium humanoid), fog cloud
->
 >#### Actions
->***Multiattack.***. The annis makes three attacks: one with her bite and two with her claws.
+>***Multiattack.*** The annis makes one Bite attack and two Claw attacks.
 >
->***Bite.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) piercing damage.
+>***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) piercing damage.
 >
->***Claw.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) slashing damage.
+>***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) slashing damage.
 >
->***Crushing Hug.***. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 36 (9d6 + 5) bludgeoning damage, and the target is grappled (escape DC 15) if it is a Large or smaller creature. Until the grapple ends, the target takes 36 (9d6 + 5) bludgeoning damage at the start of each of the hag's turns. The hag can't make attacks while grappling a creature in this way.
+>***Crushing Hug.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 36 (9d6 + 5) bludgeoning damage, and the target is grappled (escape DC 15) if it is a Large or smaller creature. Until the grapple ends, the target takes 36 (9d6 + 5) bludgeoning damage at the start of each of the hag's turns. The hag can't make attacks while grappling a creature in this way.
+>
+>***Spellcasting.*** The hag casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 13):
+>
+>3/day each: disguise self (including the form of a Medium Humanoid), fog cloud
 >
 
 ---
 
 ## Bheur Hag
-Bheur hags live in wintry lands, favoring snow-covered mountains. They become more active during winter, using their ice and weather magic to make life miserable for nearby settlements.
+Bheur hags live in wintry lands, favoring snowy mountains. These hags become more active during winter, using their ice and weather magic to make life miserable for nearby settlements.
 
-A bheur hag's skin is blue-white, like that of a person who has frozen to death. Her hair is pale white, and she is emaciated, as if she were a person who had survived winter by eating bark and leather. Her eyes are pale and surrounded by dark, bruise-colored flesh. A bheur carries a twisted gray wooden staff, which she can ride like a flying broom and augments her magical powers.
+A bheur hag's skin has the bluish hue of a person who has frozen to death. The hag's hair is white, and the hag is emaciated, with pale eyes surrounded by bruise-colored flesh. A bheur hag carries a twisted gray wooden staff that can be ridden like a flying broom and that augments the hag's magic.
 
-***Cold Hearts.***. Bheur hags are attracted to selfish actions justified by deadly cold, such as murdering a traveler for a winter coat, chopping down a dryad's grove for firewood, and so on. These actions are especially sweet to a bheur if they are unwarranted, such as a greedy merchant hoarding more food for the winter than he could possibly eat while others starve. Bheurs love to seed such ideas and thoughts in mortals. They use their ability to manipulate weather to batter villages with snow and freezing cold, hoping to instill despair that turns the villagers against each other.
+Bheur hags are attracted to selfish actions inspired by deadly cold, such as murdering a traveler for a winter coat or chopping down a dryad's grove for firewood. These actions are especially sweet to a bheur if they are unwarranted, such as a greedy merchant hoarding excess food for the winter while others starve. Bheurs use their ability to manipulate weather to batter villages with freezing cold, hoping to instill a despair that turns folk against each other.
 
-A bheur hag loves watching unprepared people suffer and die for their mistakes during the winter. She is delighted when mortals make petty, pathetic attempts to survive, such as eating boots and leather scraps when no real food is to be found.
-
-***Awful to Behold.***. When a bheur hag is fully in the throes of combat and has recently slain one of her foes, she often forgoes a direct attack on her remaining enemies and instead takes a moment to feed on the corpse, dismembering it and tearing meat from bone. The sight of this savagery is enough to render witnesses temporarily insane.
+In combat, a bheur hag also strives to inspire horror. When near a recently slain foe, the hag may forgo an attack to feed on the corpse. The sight of this butchery is enough to terrify most witnesses.
 
 >### Bheur Hag
->*Medium fey, chaotic evil*
+>*Medium Fey, Typically Chaotic Evil*
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 91 (14d8 + 28)
->- **Speed** 30 ft.
+>- **Speed** 30 ft., fly 50 ft. (hover, Graystaff Magic)
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|14 (+2)|12 (+1)|13 (+1)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Wis +4
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -134,24 +129,28 @@ A bheur hag loves watching unprepared people suffer and die for their mistakes d
 >- **Skills** Nature +4,Perception +4,Stealth +6,Survival +4
 >- **Senses** darkvision 60 ft.,passive Perception 14
 >- **Languages** Auran,Common,Giant
->- **Challenge** 7; 9 if part of a coven
+>- **Challenge** 7
 >___
->>***Graystaff Magic.***. The hag carries a graystaff, a length of gray wood that is a focus for her inner power. She can ride the staff as if it were a broom of flying. While holding the staff, she can cast additional spells with her Innate Spellcasting trait (these spells are marked with an asterisk). If the staff is lost or destroyed, the hag must craft another, which takes a year and a day. Only a bheur hag can use a graystaff.
+>***Control Weather (1/Day).*** The hag can cast the control weather spell, requiring no material components and using Charisma as the spellcasting ability.
 >
->***Ice Walk.***. The hag can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost her extra moment.
+>***Graystaff Magic.*** The hag carries a graystaff, a magic staff. The hag can use its flying speed only while astride the staff. If the staff is lost or destroyed, the hag must craft another, which takes a year and a day. Only a bheur hag can use a graystaff.
 >
->***Innate Spellcasting.***. The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
->
->At will: hold person,* ray of frost
->
->3/day each: cone of cold,* ice storm,* wall of ice*
->
->1/day each: control weather
+>***Ice Walk.*** The hag can move across and climb icy surfaces without needing to make an ability check, and difficult terrain composed of ice or snow doesn't cost the hag extra moment.
 >
 >#### Actions
->***Slam.***. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 10 (2d8 + 1) bludgeoning damage plus 3 (1d6) cold damage.
+>***Multiattack.*** The hag makes two Slam or Frost Shard attacks.
 >
->***Maddening Feast.***. The hag feasts on the corpse of one enemy within 5 feet of her that died within the past minute. Each creature of the hag's choice that is within 60 feet of her and able to see her must succeed on a DC 15 Wisdom saving throw or be frightened of her for 1 minute. While frightened in this way, a creature is incapacitated, can't understand what others say, can't read, and speaks only in gibberish; the DM controls the creature's movement, which is erratic. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Maddening Feast for the next 24 hours.
+>***Slam.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 10 (2d8 + 1) bludgeoning damage plus 18 (4d8) cold damage.
+>
+>***Frost Shard.*** Ranged Spell Attack: +6 to hit, range 60 ft., one target. Hit: 30 (6d8 + 3) cold damage, and the target's speed is reduced by 10 feet until the start of the hag's next turn.
+>
+>***Horrific Feast.*** The hag feeds on the corpse of one enemy within reach that died within the past minute. Each creature of the hag's choice that is within 60 feet and able to see the feeding must succeed on a DC 15 Wisdom saving throw or be frightened of the hag for 1 minute. While frightened in this way, a creature is incapacitated, can't understand what others say, can't read, and speaks only in gibberish. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Feast for the next 24 hours.
+>
+>***Spellcasting.*** While holding or riding the graystaff, the hag casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):
+>
+>At will: hold person
+>
+>1/day each: cone of cold, ice storm, wall of ice
 >
 
 ---
@@ -179,6 +178,7 @@ A cinder hag possesses the ability to teleport great distances, but only if her 
 >|18 (+4)|14 (+2)|16 (+3)|15 (+2)|12 (+1)|17 (+3)|
 >
 >___
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Wis +4
 >- **Damage Immunities** fire
 >- **Skills** Deception +6, Intimidation +9, Perception +4, Stealth +5
@@ -225,7 +225,7 @@ When they can't ignite an entire village or town, these hags settle for using th
 >|18 (+4)|15 (+2)|14 (+2)|16 (+3)|13 (+1)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** 
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** fire, poison, psychic
@@ -273,6 +273,7 @@ When they can't ignite an entire village or town, these hags settle for using th
 >|19 (+4)|12 (+1)|16 (+3)|12 (+1)|12 (+1)|14 (+2)|
 >
 >___
+>- **Proficiency Bonus** +3
 >- **Damage Resistances** radiant
 >- **Skills** Deception +4, Perception +3, Stealth +3, Survival +3
 >- **Senses** darkvision 60 ft., passive Perception 13
@@ -311,7 +312,7 @@ The wretched and hateful green hags dwell in dying forests, lonely swamps, and m
 >|18 (+4)|12 (+1)|16 (+3)|13 (+1)|14 (+2)|14 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -369,7 +370,7 @@ If either object is lost, the night hag will go to great lengths to retrieve it,
 >|18 (+4)|15 (+2)|16 (+3)|16 (+3)|14 (+2)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire; bludgeoning,piercing,and slashing from nonmagical attacks that aren't silvered
@@ -419,7 +420,7 @@ Beauty drives a sea hag to fits of anger. When confronted with something beautif
 >|16 (+3)|13 (+1)|16 (+3)|12 (+1)|12 (+1)|13 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -472,6 +473,7 @@ Some storm hags can animate small clouds to sit and ride upon to fly through the
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|14 (+2)|18 (+4)|15 (+2)|19 (+4)|
 >___
+>- **Proficiency Bonus** +6
 >- **Damage Resistances** cold, thunder
 >- **Damage Immunities** lightning
 >- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned

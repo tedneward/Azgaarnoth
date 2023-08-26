@@ -18,9 +18,9 @@ Some elementals desire only to return to their native plane and "rejoin" the pla
 ---
 
 ## Air Elemental
-![](Elemental-Air.png)
-
 An air elemental is a funneling cloud of whirling air with a vague semblance of a face. Although it likes to race across the ground, picking up dust and debris as it goes, it can also fly and attack from above.
+
+![](Elemental-Air.png)
 
 An air elemental can turn itself into a screaming cyclone, creating a whirlwind that batters creatures even as it flings them away.
 
@@ -64,6 +64,8 @@ An air elemental can turn itself into a screaming cyclone, creating a whirlwind 
 ## Earth Elemental
 An earth elemental plods forward like a walking hill, club-like arms of jagged stone swinging at its sides. Its head and body consist of dirt and stone, occasionally set with chunks of metal, gems, and bright minerals.
 
+![](Elemental-Earth.png)
+
 Earth elementals glide through rock and earth as though they were liquid. Earthbound creatures have much to fear from an earth elemental, since the elemental can pinpoint the precise location of any foe that stands on solid ground in its vicinity.
 
 >### Earth Elemental
@@ -102,9 +104,9 @@ Earth elementals glide through rock and earth as though they were liquid. Earthb
 ---
 
 ## Fire Elemental
-![](Elemental-Fire.png)
-
 A faint humanoid shape threads through the core of this wild, moving flame. A fire elemental is a force of capricious devastation. Wherever it moves, it sets its surroundings ablaze, turning the world to ash, smoke, and cinders. Water can halt its destructive progress, causing the fire elemental to shrink back, hissing and smoking in pain and rage.
+
+![](Elemental-Fire.png)
 
 >### Fire Elemental
 >*Large elemental, neutral*
@@ -144,11 +146,13 @@ A faint humanoid shape threads through the core of this wild, moving flame. A fi
 ---
 
 ## Ice Elemental
-![](Elemental-Ice.png) | An ice elemental appears as a large chunk of jagged ice often formed into a vaguely humanoid shape. It floats through icy water in frosted landscapes or rests inside tranquil snowbanks, creaking as it moves its frozen body.
+An ice elemental appears as a large chunk of jagged ice often formed into a vaguely humanoid shape. It floats through icy water in frosted landscapes or rests inside tranquil snowbanks, creaking as it moves its frozen body.
+
+![](Elemental-Ice.png)
 
 Anything that touches an ice elemental is magically chilled by an icy cold that seeps into the bones. They are also capable of expelling a frigid blast of icy wind from small cracks in their bodies. Ice elementals are wary of fire, and screech like dry ice when burned.
 
->## Ice Elemental
+>### Ice Elemental
 >*Large elemental (water/air), neutral*
 >___
 >- **Armor Class** 15 (natural armor)
@@ -186,7 +190,7 @@ A magma elemental, composed of earth and fire, appears as a large, vaguely human
 
 Anything that touches an magma elemental is magically scalded by an intense burn that feels like it sets the whole soul on fire. They are also capable of expelling a blast of meteoric chunks, primarily from a central opening near the top of the humanoid shape--from its "mouth", as it were. Magma elementals are wary of water, and howl like banshees when doused.
 
->## Magma Elemental
+>### Magma Elemental
 >*Huge elemental (earth/fire), neutral*
 >___
 >- **Armor Class** 16 (natural armor)
@@ -232,9 +236,11 @@ Anything that touches an magma elemental is magically scalded by an intense burn
 ---
 
 ## Water Elemental
-![](Elemental-Water.png) | A water elemental is a cresting wave that rolls across the ground, becoming nearly invisible at it courses through a larger body of water. It engulfs creatures that stand against it, filling their mouths and lungs as easily as it smothers flame.
+A water elemental is a cresting wave that rolls across the ground, becoming nearly invisible at it courses through a larger body of water. It engulfs creatures that stand against it, filling their mouths and lungs as easily as it smothers flame.
 
->## Water Elemental
+![](Elemental-Water.png)
+
+>### Water Elemental
 >*Large elemental, neutral*
 >___
 >- **Armor Class** 14 (natural armor)

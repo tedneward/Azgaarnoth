@@ -1,7 +1,7 @@
 # Cattle
-There are many kinds of cattle, from common oxen to more unusual, magical variants.
+Many kinds of cattle roam the multiverse, some of them domesticated and others feral. In many cultures, cattle are almost like family to the folk who tend to them.
 
-> Jump to: [Cow](#Cow) | [Ox](#ox) | [Rothé](#rothé) | [Stench Kow](#stench-kow) | [Auroch](#aurochs)
+> Jump to: [Cow](#cow) | [Aurochs](#aurochs) | [Deep Rothe](#deep-rothe) | [Ox](#ox) | [Stench Kow](#stench-kow)
 
 ---
 
@@ -30,161 +30,19 @@ There are many kinds of cattle, from common oxen to more unusual, magical varian
 >- **Languages** —
 >- **Challenge** 1/4
 >___
->***Charge.***. If the cow moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.
+>***Charge.*** If the cow moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.
 >
 >#### Actions
->***Gore.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
->
-
----
-
-## Ox
-
->### Ox
->*Large beast, unaligned*
->___
->- **Armor Class** 10
->- **Hit Points** 15 (2d10 + 4)
->- **Speed** 30 ft.
->___
->|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)|
->
->___
->- **Proficiency Bonus** +0
->- **Saving Throws** 
->- **Damage Vulnerabilities** 
->- **Damage Resistances** 
->- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** 
->- **Senses** passive Perception 10
->- **Languages** —
->- **Challenge** 1/4
->___
->***Charge.***. If the ox moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.
->
->***Beast of Burden.*** The oxen is considered to be a Huge animal for the purpose of determining its carrying capacity.
->
->#### Actions
->***Gore.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
->
-
----
-
-## Rothé
-
->### Rothé
->*Large beast, unaligned*
->___
->- **Armor Class** 10
->- **Hit Points** 15 (2d10 + 4)
->- **Speed** 30 ft.
->___
->|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)|
->
->___
->- **Proficiency Bonus** +0
->- **Saving Throws** 
->- **Damage Vulnerabilities** 
->- **Damage Resistances** 
->- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** 
->- **Senses** darkvision 30ft., passive Perception 10
->- **Languages** —
->- **Challenge** 1/4
->___
->***Charge.***. If the rothe moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.
->
->#### Actions
->***Gore.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
->
-
----
-
-## Deep Rothé
-Deep rothé are stunted Underdark variants of rothé, and communicate with each other by using magical flashing lights.
-
->### Deep Rothé
->*Medium beast, unaligned*
->___
->- **Armor Class** 10
->- **Hit Points** 13 (2d8 + 4)
->- **Speed** 30 ft.
->___
->|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)|
->
->___
->- **Proficiency Bonus** +0
->- **Saving Throws** 
->- **Damage Vulnerabilities** 
->- **Damage Resistances** 
->- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** 
->- **Senses** darkvision 60ft., passive Perception 10
->- **Languages** —
->- **Challenge** 1/4
->___
->***Charge.***. If the deep rothe moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.
->
->***Innate Spellcasting.*** The deep rothé’s spellcasting ability is Charisma. It can innately cast dancing lights at will, requiring no components.
->
->#### Actions
->***Gore.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
->
-
----
-
-## Stench Kow
-These orange and green misshapen bison are native to the Lower Planes.
-
->### Stench Kow
->*Large beast, unaligned*
->___
->- **Armor Class** 10
->- **Hit Points** 15 (2d10 + 4)
->- **Speed** 30 ft.
->___
->|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)|
->
->___
->- **Proficiency Bonus** +0
->- **Saving Throws** 
->- **Damage Vulnerabilities** 
->- **Damage Resistances** cold,fire,poison
->- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** 
->- **Senses** darkvision 60ft.,passive Perception 10
->- **Languages** —
->- **Challenge** 1/4
->___
->***Charge.***. If the stench kow moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.
->
->***Stench.*** Any creature other than a stench kow that starts its turn within 5 feet of the stench kow must succeed on a DC 12 Constitution saving throw or be poisoned until the start of the creature’s next turn. On a successful saving throw, the creature is immune to the stench of all stench kows for 1 hour.
->
->#### Actions
->***Gore.***. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+>***Gore.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
 >
 
 ---
 
 ## Aurochs
-Bahgtru, son of Gruumsh and Luthic, is the orc deity of unbridled strength. Legend says Bahgtru needed a mount as fierce as him for making war, so he sought a mighty aurochs, subjugated the creature with his bare hands, and hauled it to Nishrek, Gruumsh's realm. Bahgtru named the beast Kazaht, or "Bull" in Orc. On Kazaht's bare back, Bahgtru charges into battle, ramming into an enemy host and leaping over the aurochs's horns to land in the midst of his foes.
-
-Orcs that revere Bahgtru might tend a stable of war bulls that carry them into combat. Trained to be fierce mounts from a young age, aurochs are sacred symbols of Bahgtru. No orc will eat such creatures, which are treated as honored warriors when they perish.
+An aurochs is a large, fierce bovine with jutting horns. In many lands, herds of aurochs roam free, while elsewhere orcs and humans train them from an early age to carry riders into combat.
 
 >### Aurochs
->*Large beast, unaligned*
+>*Large Beast (Cattle), Unaligned*
 >___
 >- **Armor Class** 11 (natural armor)
 >- **Hit Points** 38 (4d10 + 16)
@@ -195,7 +53,7 @@ Orcs that revere Bahgtru might tend a stable of war bulls that carry them into c
 >|20 (+5)|10 (+0)|19 (+4)|2 (-4)|12 (+1)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -206,8 +64,111 @@ Orcs that revere Bahgtru might tend a stable of war bulls that carry them into c
 >- **Languages** --
 >- **Challenge** 2
 >___
->***Charge.***. If the aurochs moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+>#### Actions
+>***Gore.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage. If the aurochs moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 9 (2d8) piercing damage, and the target must succeed on a DC 15 Strength saving throw or be knocked prone if it is a creature.
+>
+
+---
+
+## Deep Rothe
+Deep rothe are Underdark cattle that communicate with one another using the dancing lights spell. Some scholars speculate that rothe came originally from the Feywild and brought the ability to cast the spell with them. Other sages attribute the ability to the centuries rothe have spent in the Underdark, where ambient magic slowly transforms everything.
+
+>### Deep Rothe
+>*Medium Beast (Cattle), Unaligned*
+>___
+>- **Armor Class** 10
+>- **Hit Points** 13 (2d8 + 4)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)|
+>
+>___
+>- **Proficiency Bonus** +2
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** 
+>- **Senses** darkvision 60 ft.,passive Perception 10
+>- **Languages** --
+>- **Challenge** 1/4
+>___
+>***Beast of Burden.*** The rothe is considered to be one size larger for the purpose of determining its carrying capacity.
 >
 >#### Actions
->***Gore.***. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage.
+>***Gore.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage. If the rothe moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 7 (2d6) piercing damage.
 >
+>***Dancing Lights.*** The roth3 casts dancing lights, requiring no spell components and using Wisdom as the spellcasting ability.
+>
+
+---
+
+## Ox
+Oxen are domesticated cattle bred for milk and meat production and for hauling. Many cultures incorporate the ox into their labor and diets.
+
+>### Ox
+>*Large Beast (Cattle), Unaligned*
+>___
+>- **Armor Class** 10
+>- **Hit Points** 15 (2d10 + 4)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)|
+>
+>___
+>- **Proficiency Bonus** +2
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** 
+>- **Senses** passive Perception 10
+>- **Languages** --
+>- **Challenge** 1/4
+>___
+>***Beast of Burden.*** The ox is considered to be one size larger for the purpose of determining its carrying capacity.
+>
+>#### Actions
+>***Gore.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage. If the ox moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 7 (2d6) piercing damage.
+>
+
+---
+
+## Stench Kow
+Stench kows are misshapen bison native to the Lower Planes. These orange and green creatures defend themselves by exuding a miasma so hideous as to be toxic. Some mischievous and malevolent wizards have summoned stench kows to the Material Plane, disguised the creatures as oxen, and let the infernal bison loose on unsuspecting villages.
+
+>### Stench Kow
+>*Large Fiend (Cattle), Unaligned*
+>___
+>- **Armor Class** 10
+>- **Hit Points** 15 (2d10 + 4)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)|
+>
+>___
+>- **Proficiency Bonus** +2
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold,fire,poison
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** 
+>- **Senses** darkvision 60 ft.,passive Perception 10
+>- **Languages** --
+>- **Challenge** 1/2
+>___
+>***Stench.*** Any creature other than a stench kow that starts its turn within 5 feet of the stench kow must succeed on a DC 12 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the Stench of all stench kows for 1 hour.
+>
+>#### Actions
+>***Gore.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage. If the stench kow moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 7 (2d6) piercing damage.
+>
+

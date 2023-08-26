@@ -1,7 +1,7 @@
-# Weasel
+# Weasels
 A common familiar or pet and/or (in the case of the larger variety) mount.
 
-> Jump to: [Weasel](#weasel-1) | [Giant Weasel](#giant-weasel)
+> Jump to: [Weasel](#weasel) | [Giant Weasel](#giant-weasel)
 
 ---
 

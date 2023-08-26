@@ -1,11 +1,13 @@
 ## Banshee
-![](Banshee.png)
-
 When night falls, unlucky travelers hear the faint cries of the forlorn dead. This woeful spirit is a banshee, a spiteful creature formed from the spirit of a female elf.
+
+![](Banshee.png)
 
 Banshees appear as luminous, wispy forms that vaguely recall their mortal features. A banshee's face is wreathed in a wild tangle of hair, its body clad in wispy rags that flutter and stream around it.
 
-***Divine Wrath.*** Banshees are the undead remnants of elves who, blessed with great beauty, failed to use their gift to bring joy to the world. Instead, they used their beauty to corrupt and control others. Elves afflicted by the banshee's curse experience no gladness, feeling only distress in the presence of the living. As the curse takes its toll, their minds and bodies decay, until death completes their transformation into undead monsters.
+***Divine Wrath.*** Banshees (originally) were the undead remnants of elves who, blessed with great beauty, failed to use their gift to bring joy to the world. Instead, they used their beauty to corrupt and control others. Elves afflicted by the banshee's curse experience no gladness, feeling only distress in the presence of the living. As the curse takes its toll, their minds and bodies decay, until death completes their transformation into undead monsters.
+
+As time progressed, however, it became clear the curse was not limited just to the elves; in the milennia since its first appearance, the divine wrath that is the curse of the banshee has been visited upon human, dwarven, dragonborn, even orcish and hobgoblin banshees have been reported. Similarly, where it was once thought the curse affected only females, male banshees have been seen as well.
 
 ***Sorrow Bound.*** A banshee becomes forever bound to the place of its demise, unable to venture more than five miles from there. It is forced to relive every moment of its life with perfect recall, yet always refuses to accept responsibility for its doom.
 
@@ -25,7 +27,7 @@ Banshees appear as luminous, wispy forms that vaguely recall their mortal featur
 >|1 (-5)|14 (+2)|10 (+0)|12 (+1)|11 (+0)|17 (+3)|
 >
 >___
->- **Proficiency Bonus** 0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Wis +2,Cha +5
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** acid,fire,lightning,thunder; bludgeoning,piercing,and slashing from nonmagical attacks

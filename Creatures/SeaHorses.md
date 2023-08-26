@@ -1,7 +1,7 @@
-# Sea Horse
+# Sea Horses
 Sea horses are common to the waters around Azgaarnoth, and "flocks" of both normal- and giant-sized sea horses can often be spotted from ships as they pass through the [Deepwaters](../Geography/Deepwaters.md).
 
-> Jump to: [Sea Horse](#sea-horse-1) | [Giant Sea Horse](#giant-sea-horse)
+> Jump to: [Sea Horse](#sea-horse) | [Giant Sea Horse](#giant-sea-horse)
 
 ---
 

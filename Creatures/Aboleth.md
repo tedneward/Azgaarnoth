@@ -1,7 +1,7 @@
 ## Aboleth
-![](Aboleth.png)
-
 Before even the Eldar, aboleths lurked in primordial oceans and underground lakes. They reached out with their minds and seized control of the burgeoning life-forms of the mortal realm. Their dominance made them like gods. Then the Eldar appeared, smashing the aboleths' empire.
+
+![](Aboleth.png)
 
 Aboleths have never forgotten.
 
@@ -75,3 +75,5 @@ If the aboleth dies, the first two effects fade over the course of 3d10 days.
 >
 >***Psychic Drain (Costs 2 Actions).*** One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.
 >
+### Token
+![](Aboleth-Token.png)

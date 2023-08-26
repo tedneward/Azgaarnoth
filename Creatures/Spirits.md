@@ -1,4 +1,4 @@
-# Spirit
+# Spirits
 The spirits listed here are always the result of a spell or spell-like ability, and are rarely (if ever) encountered naturally.
 
 > Jump to: [Aberrant](#aberrant-spirit) | [Celestial](#celestial-spirit) | [Construct](#construct-spirit) | [Draconic](#draconic-spirit) | [Elemental](#elemental-spirit) | [Fiendish](#fiendish-spirit) | [Reaper](#reaper-spirit) | [Shadow](#shadow-spirit) | [Warrior](#warrior-spirit) | [Wildfire](#wildfire-spirit)
