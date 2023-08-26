@@ -1003,8 +1003,12 @@ def main(argv):
                 fulllist.append(creature)
 
         fulllist.sort(key=lambda crea: crea.name)
-        indexstr = ''
+        indexstr = '## A\n'
+        currentalpha = 'A'
         for creature in fulllist:
+            if currentalpha != creature.name[0]:
+                currentalpha = creature.name[0]
+                indexstr += f"\n## {currentalpha}\n"
             if isinstance(creature, SubtypedCreature):
                 indexstr += f"- [{creature.name}]({creature.filename()}): "
                 indexstr += " | ".join(map(lambda subcrea: f"[{subcrea.name}]({subcrea.filename()})", creature.subtypes))
