@@ -19,7 +19,7 @@ The leathery-winged insect-eating "great to keep as a pet to keep away the mosqu
 >|2 (-4)|15 (+2)|8 (-1)|2 (-4)|12 (+1)|4 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -55,7 +55,7 @@ The giant bat is a fearsome sight to behold for most folk, and reports of vampir
 >|15 (+2)|16 (+3)|11 (+0)|2 (-4)|12 (+1)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -94,7 +94,7 @@ The swarm of bats presented here aren't ordinary or benign assemblies of little 
 >|5 (-3)|15 (+2)|10 (+0)|2 (-4)|12 (+1)|4 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning,piercing,slashing
@@ -131,7 +131,7 @@ The swarm of bats presented here aren't ordinary or benign assemblies of little 
 >|2 (-4)|16 (+3)|15 (+2)|6 (-2)|15 (+2)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

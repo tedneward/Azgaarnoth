@@ -20,7 +20,7 @@ An awakened shrub is an ordinary tree given sentience and mobility by the awaken
 >|3 (-4)|8 (-1)|11 (+0)|10 (+0)|10 (+0)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** fire
 >- **Damage Resistances** piercing
@@ -53,7 +53,7 @@ An awakened shrub is an ordinary tree given sentience and mobility by the awaken
 >|19 (+4)|6 (-2)|15 (+2)|10 (+0)|10 (+0)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** fire
 >- **Damage Resistances** bludgeoning,piercing

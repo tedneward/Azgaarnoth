@@ -11,6 +11,9 @@ All creatures shun bulettes, which treat anything that moves as food — even ot
 
 ***Arcane Creation.*** Some sages believe the bulette is the result of a mad wizard's experiments at crossbreeding snapping turtles and armadillos, with infusions of demon ichor. Bulettes have been thought to be extinct at different times, but after years without a sighting, the creatures inevitably reappear. Because their young are almost never seen, some sages suspect that bulettes maintain secret nesting grounds from which adults strike out into the world.
 
+### Environment
+Grassland, Hill, Mountain
+
 >### Bulette
 >*Large monstrosity, unaligned*
 >___

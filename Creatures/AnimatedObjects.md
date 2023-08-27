@@ -74,7 +74,7 @@ A flying sword dances through the air, fighting with the confidence of a warrior
 >|12 (+1)|15 (+2)|11 (+0)|1 (-5)|5 (-3)|1 (-5)|
 >
 >___
->- **Proficiency Bonus** 0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Dex +4
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

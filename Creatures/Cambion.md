@@ -19,7 +19,7 @@ A cambion is the offspring of a fiend (usually a succubus or incubus) and a huma
 >|18 (+4)|18 (+4)|16 (+3)|14 (+2)|12 (+1)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Str +7,Con +6,Int +5,Cha +6
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning,poison; bludgeoning,piercing,and slashing from nonmagical attacks
