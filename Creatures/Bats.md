@@ -1,11 +1,18 @@
 # Bats
 The leathery-winged insect-eating "great to keep as a pet to keep away the mosquitos" kind all the way up to the "leave you with nightmares for the rest of your natural life" kind.
 
-> Jump to: [Bat](#bat) | [Giant Bat](#giant-bat) | [Swarm](#swarm-of-bats) | [Withered](#withered-bat)
+> Jump to: [Bat](Bats.md#bat) | [Giant Bat](Bats.md#giant-bat) | [Swarm of Bats](Bats.md#swarm-of-bats) | [Withered Bat](Bats.md#withered-bat)
 
 ---
 
 ## Bat
+(No description given)
+
+### Environment
+Forest, Ruins, Underdark
+
+### Token
+![](Bat-Token.png)
 
 >### Bat
 >*Tiny beast, unaligned*
@@ -43,6 +50,12 @@ The leathery-winged insect-eating "great to keep as a pet to keep away the mosqu
 ## Giant Bat
 The giant bat is a fearsome sight to behold for most folk, and reports of vampires or dragons have often been tracked back to a giant bat nesting near a village or town. Generally unwilling to attack humanoids, the giant bat often looks to large rodents or insects for its meals, supplemented by the occasional domesticated pig or cow (if the cow is small enough).
 
+### Environment
+Forest, Ruins, Underdark, Conjured/Summoned
+
+### Token
+![](GiantBat-Token.png)
+
 >### Giant Bat
 >*Large beast, unaligned*
 >___
@@ -78,6 +91,9 @@ The giant bat is a fearsome sight to behold for most folk, and reports of vampir
 
 ## Swarm of Bats
 The swarm of bats presented here aren't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. A vampire can summon swarms of bats (and rats) from the darkest corners of the night; even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
+
+### Environment
+Forest, Ruins, Underdark, Conjured/Summoned
 
 ### Token
 ![](Bat-Swarm-Token.png)
@@ -118,6 +134,13 @@ The swarm of bats presented here aren't ordinary or benign assemblies of little 
 ---
 
 ## Withered Bat
+Take one standard bat, apply the [withered](../Templates/Withered.md) condition to it, and then give it a reason to exist, and you have a withered bat. Like most other undead, they do not reproduce on their own.
+
+### Environment
+Conjured/Summoned, Ruins, Underdark
+
+### Token
+![](WitheredBat-Token.png)
 
 >### Withered Bat
 >*Tiny undead, shares master's alignment*
@@ -142,6 +165,8 @@ The swarm of bats presented here aren't ordinary or benign assemblies of little 
 >- **Languages** Understands the languages of its master but can't speak
 >- **Challenge** 1/2
 >___
+>***Undead Nature.*** The bat doesn't require air, food, drink, or sleep.
+>
 >***Echolocation.*** The bat can't use its blindsight while deafened.
 >
 >***Keen Hearing.*** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
@@ -153,3 +178,4 @@ The swarm of bats presented here aren't ordinary or benign assemblies of little 
 >
 >***Stunning Screech (1/Day).*** The bat emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a bat must succeed on a DC 13 Constitution saving throw or be stunned until the end of the bat's next turn.
 >
+

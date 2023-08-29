@@ -13,6 +13,12 @@ Aggressive and territorial, griffons engage in brutal aerial combat to defend th
 
 Once trained, a griffon is a fierce and loyal steed. It bonds with one master for life, fighting to the death to protect that rider. A griffon mount retains its ravenous appetite for horseflesh, and a wise master ensures that a griffon remains satiated with other prey when passing through civilized lands.
 
+### Environment
+(FIXME)
+
+### Token
+![](Griffon-Token.png)
+
 >### Griffon
 >*Large monstrosity, unaligned*
 >___
@@ -25,7 +31,7 @@ Once trained, a griffon is a fierce and loyal steed. It bonds with one master fo
 >|18 (+4)|15 (+2)|16 (+3)|2 (-4)|13 (+1)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

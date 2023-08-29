@@ -1,4 +1,11 @@
 ## Digester
+(No description given)
+
+### Environment
+Conjured/Summoned
+
+### Token
+![](Digester-Token.png)
 
 >### Digester
 >*Medium monstrosity, neutral*
@@ -12,7 +19,7 @@
 >|16 (+3)|15 (+2)|17 (+3)|4 (-3)|12 (+1)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

@@ -11,6 +11,12 @@ In secret groves and shaded glens, tiny sprites with dragonfly wings flutter. Fo
 
 Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are firm warriors, protectors, and judges, and their stern bent causes other fey to consider them overly dour and serious. However, fey that respect the sprites' territory find them staunch allies in times of trouble.
 
+### Environment
+Forest
+
+### Token
+![](Sprite-Token.png)
+
 >### Sprite
 >*Tiny fey, neutral good*
 >___
@@ -23,7 +29,7 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
 >|3 (-4)|18 (+4)|10 (+0)|14 (+2)|13 (+1)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

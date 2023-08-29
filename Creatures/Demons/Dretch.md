@@ -13,7 +13,7 @@ Dretches are among the weakest of demons -- repulsive, self-loathing creatures d
 >|11 (+0)|11 (+0)|12 (+1)|5 (-3)|8 (-1)|3 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold, fire, lightning

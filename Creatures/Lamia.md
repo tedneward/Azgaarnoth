@@ -15,6 +15,12 @@ As long as they have thralls to face their enemies, lamias fight from the fringe
 
 ***Minions of Graz'zt.*** The demon lord Graz'zt creates lamias from his mortal servants, granting them immortality in return for monstrous power and an oath of fealty. Graz'zt sometimes tasks lamias with guarding locations important to him, but lamias in his service remain free to spread their evil as they see fit.
 
+### Environment
+(FIXME)
+
+### Token
+![](Lamia-Token.png)
+
 >### Lamia
 >*Large monstrosity, chaotic evil*
 >___
@@ -27,7 +33,7 @@ As long as they have thralls to face their enemies, lamias fight from the fringe
 >|16 (+3)|13 (+1)|15 (+2)|14 (+2)|15 (+2)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

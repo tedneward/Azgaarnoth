@@ -9,6 +9,12 @@ This construct possesses intelligence, the ability to reason and adjust its tact
 
 ***Constructed Nature.*** A helmed horror doesn't require air, food, drink, or sleep.
 
+### Environment
+(FIXME)
+
+### Token
+![](HelmedHorror-Token.png)
+
 >### Helmed Horror
 >*Medium construct, neutral*
 >___
@@ -21,7 +27,7 @@ This construct possesses intelligence, the ability to reason and adjust its tact
 >|18 (+4)|13 (+1)|16 (+3)|10 (+0)|10 (+0)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks that aren't adamantine

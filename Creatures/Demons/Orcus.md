@@ -3,15 +3,16 @@ Orcus is the Demon Prince of Undeath, also known as the Blood Lord. While he tak
 
 Orcus rewards those who spread death in his name by granting them a small portion of his power. The least of these become ghouls and zombies (both appear in the Monster Manual) that serve in his legions, while his favored servants are the cultists and necromancers who murder the living and then manipulate the dead, emulating their dread master.
 
-Orcus is a bestial creature of corruption with a diseased, decaying look. He has the lower torso of a goat and a humanlike upper body with a belly swollen with rot. Great bat wings sprout from his shoulders, and his head is like the skull of a goat, the flesh nearly rotted from it. In one hand, he wields the legendary Wand of Orcus, which is described in the Dungeon Master's Guide.
-
 ### Cultists of Orcus
 
 Orcus grants his rank-and-file cultists the Undying Soul trait, and his cult leaders can gain the Aura of Death trait.
 
-***Undying Soul (Recharges after a Short or Long Rest).*** If this creature is reduced to 0 hit points, it immediately makes a DC 10 Constitution saving throw. If it succeeds, it is instead reduced to 1 hit point.
+> ***Undying Soul (Recharges after a Short or Long Rest).*** If this creature is reduced to 0 hit points, it immediately makes a DC 10 Constitution saving throw. If it succeeds, it is instead reduced to 1 hit point.
+>
+>***Aura of Death.*** This creature emanates a deathly aura that extends 30 feet in every direction from its space while it isn't incapacitated. The aura is blocked by total cover. While in the aura, the creature and any friendly Undead are immune to the frightened condition and have resistance to radiant damage. Enemies have disadvantage on death saving throws while in the aura.
+>
 
-***Aura of Death.*** This creature emanates a deathly aura that extends 30 feet in every direction from its space while it isn't incapacitated. The aura is blocked by total cover. While in the aura, the creature and any friendly Undead are immune to the frightened condition and have resistance to radiant damage. Enemies have disadvantage on death saving throws while in the aura.
+Orcus is a bestial creature of corruption with a diseased, decaying look. He has the lower torso of a goat and a humanlike upper body with a belly swollen with rot. Great bat wings sprout from his shoulders, and his head is like the skull of a goat, the flesh nearly rotted from it. In one hand, he wields the legendary Wand of Orcus.
 
 >### Orcus
 >*Huge Fiend (Demon Lord), Chaotic Evil*

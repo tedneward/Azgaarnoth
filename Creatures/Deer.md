@@ -1,9 +1,18 @@
 # Deer
 Deer, elk, and other four-legged herbivores are common throughout Azgaarnoth's forests and plains. Most of the time, they are passive grazers with little interest in what else is going on in the world.
 
-> Jump to: [Deer](#deer-1) | [Elk](#elk) | [Giant Elk](#giant-elk)
+> Jump to: [Deer](Deer.md#deer-1) | [Elk](Deer.md#elk) | [Giant Elk](Deer.md#giant-elk)
+
+---
 
 ## Deer
+(No description given)
+
+### Environment
+Forest
+
+### Token
+![](Deer-Token.png)
 
 >### Deer
 >*Medium beast, unaligned*
@@ -17,7 +26,7 @@ Deer, elk, and other four-legged herbivores are common throughout Azgaarnoth's f
 >|11 (+0)|16 (+3)|11 (+0)|2 (-4)|14 (+2)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -35,6 +44,13 @@ Deer, elk, and other four-legged herbivores are common throughout Azgaarnoth's f
 ---
 
 ## Elk
+(No description given)
+
+### Environment
+Forest
+
+### Token
+![](Elk-Token.png)
 
 >### Elk
 >*Large beast, unaligned*
@@ -48,7 +64,7 @@ Deer, elk, and other four-legged herbivores are common throughout Azgaarnoth's f
 >|16 (+3)|10 (+0)|12 (+1)|2 (-4)|10 (+0)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -72,6 +88,12 @@ Deer, elk, and other four-legged herbivores are common throughout Azgaarnoth's f
 ## Giant Elk
 The majestic giant elk is rare to the point that its appearance is often taken as a foreshadowing of an important event, such as the birth of a king. Legends tell of gods that take the form of giant elk when visiting the Material Plane. Many cultures therefore believe that to hunt these creatures is to invite divine wrath.
 
+### Environment
+Forest
+
+### Token
+![](GiantElk-Token.png)
+
 >### Giant Elk
 >*Huge beast, unaligned*
 >___
@@ -84,7 +106,7 @@ The majestic giant elk is rare to the point that its appearance is often taken a
 >|19 (+4)|16 (+3)|14 (+2)|7 (-2)|14 (+2)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -102,3 +124,4 @@ The majestic giant elk is rare to the point that its appearance is often taken a
 >
 >***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one prone creature. Hit: 22 (4d8 + 4) bludgeoning damage.
 >
+

@@ -11,6 +11,12 @@ Although solitary by nature, grells sometimes gather in small groups called cove
 
 A grell will sometimes allow adventurers to wage war on the other monstrous inhabitants of the dungeon complex it calls home, staying out of the adventurers' way as they dispose of larger threats while waiting for the right time to strike.
 
+### Environment
+(FIXME)
+
+### Token
+![](Grell-Token.png)
+
 >### Grell
 >*Medium aberration, neutral evil*
 >___
@@ -23,7 +29,7 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
 >|15 (+2)|14 (+2)|13 (+1)|12 (+1)|11 (+0)|9 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

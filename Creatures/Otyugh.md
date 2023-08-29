@@ -11,6 +11,12 @@ Since otyughs lack concern for anything but food, their nests sometimes accumula
 
 ***Symbiotic Guardians.*** Sentient subterranean beings can coexist with otyughs, employing them as garbage disposals. With such plentiful sustenance, otyughs grow fat in their wallows, unmoved by any other drive or desire. This sedentary gluttony makes them reliable guardians. As long as it is fed, an otyugh refrains from attacking other creatures. However, would-be otyugh masters can easily underestimate the quantity of waste, carrion, and meat necessary to keep an otyugh from wandering off in search of food. More than one "trained" otyugh has eaten its keeper after devouring all the waste in its wallow.
 
+### Environment
+Forest, Ruins, Swamp, Underdark, Urban
+
+### Token
+![](Otyugh-Token.png)
+
 >### Otyugh
 >*Large aberration, neutral*
 >___
@@ -23,7 +29,7 @@ Since otyughs lack concern for anything but food, their nests sometimes accumula
 >|16 (+3)|11 (+0)|19 (+4)|6 (-2)|13 (+1)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Con +7
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

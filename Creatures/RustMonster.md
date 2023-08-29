@@ -9,6 +9,12 @@ A rust monster doesn't care if the rust it consumes comes from a spike or a swor
 
 ***Subterranean Wanderers.*** Rust monsters are rarely found in large numbers, preferring to hunt alone or in small groups. They meander along tunnels, moving from cave to cave in their tireless search for ferrous metals to consume. Their wanderings often bring them into contact with other Underdark denizens that find them harmless or unappetizing. Thus, rust monsters may be found in close proximity to other subterranean monsters. If they are well treated and well fed, they can also become friendly companions or pets.
 
+### Environment
+(FIXME)
+
+### Token
+![](RustMonster-Token.png)
+
 >### Rust Monster
 >*Medium monstrosity, unaligned*
 >___
@@ -21,7 +27,7 @@ A rust monster doesn't care if the rust it consumes comes from a spike or a swor
 >|13 (+1)|12 (+1)|13 (+1)|2 (-4)|13 (+1)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

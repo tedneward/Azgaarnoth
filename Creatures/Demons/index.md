@@ -1,8 +1,6 @@
 # The Demononicon
 Spawned in the Infinite Layers of the Abyss, demons are the embodiment of chaos and evil -- engines of destruction barely contained in monstrous form. Possessing no compassion, empathy, or mercy, they exist only to destroy.
 
-> Jump to: [Armanite](./Armanite.md) | [Babau](./Babau.md) | [Balor](./Balor.md) | [Barlgura](./Barlgura.md) | [Bulezau](./Bulezau.md) | [Chasme](./Chasme.md) | [Dretch](./Dretch.md) | [Dybbuk](./Dybbuk.md) | [Glabrezu](./Glabrezu.md) | [Goristro](./Goristro.md) | [Hezrou](./Hezrou.md) | [Manes](./Manes.md) | [Marilith](./Marilith.md) | [Maw Demon](./Maw.md) | [Molydeus](./Molydeus.md) | [Nabassu](./Nabassu.md) | [Nalfeshnee](./Nalfeshnee.md) | [Quasit](./Quasit.md) | [Shadow Demon](./Shadow.md) | [Shoosuva](./Shoosuva.md) | [Vrock](./Vrock.md) | [Yochlol](./Yochlol.md) 
-
 ***Spawn of Chaos.*** The Abyss creates demons as extensions of itself, spontaneously forming fiends out of filth and carnage. Some are unique monstrosities, while others represent uniform strains virtually identical to each other. Other demons (such as manes) are created from mortal souls shunned or cursed by the gods, or which are otherwise trapped in the Abyss.
 
 ***Capricious Elevation.*** Demons respect power and power alone. A greater demon commands shrieking mobs of lesser demons because it can destroy any lesser demon that dares to refuse its commands. A demon's status grows with the blood it spills; the more enemies that fall before it, the greater it becomes.
@@ -46,28 +44,6 @@ The chaotic power of the Abyss rewards demons of particular ruthlessness and ing
 
 > Jump to: [Baphomet](Baphomet.md) | [Demogorgon](Demogorgon.md) | [Fraz-Urb'luu](FrazUrbLuu.md) | [Graz'zt](Grazzt.md) | [Jubilex](Jubilex.md) | [Orcus](Orcus.md)
 
-#### Lolth
-The Demon Queen of Spiders is the evil matron of the drow. Her every thought is touched by malice, and the depth of her viciousness can surprise even her most faithful priestesses. She directs her faithful while she weaves plots across the worlds of the Material Plane, looking forward to the time when her drow followers bring those worlds under her control.
-
-Lolth appears as a lithe, imperious drow matriarch when she manifests to her followers in the mortal realm, which she does with unusual frequency. When battle breaks out -- or if she has a reason to remind her followers to fear her -- Lolth's lower body transforms into that of a huge demonic spider, whose spike-tipped legs and mandibles tear foes apart.
-
----
-
-#### Orcus
-Known as the Demon Prince of Undeath and the Blood Lord, the demon lord Orcus is worshiped by the undead and by living creatures that channel the power of undeath. A brooding and nihilistic entity, Orcus yearns to make the multiverse a place of death and darkness, forever unchanging except by his will.
-
-The Demon Prince of Undeath is a foul and corpulent creature, with a humanoid torso, powerful goat legs, and the desiccated head of a ram. His sore-ridden body stinks of disease, but his decaying head and glowing red eyes are as a creature already dead. Great black bat wings sprout from his back, stirring reeking air as he moves.
-
-Orcus wields a malevolent artifact known as the Wand of Orcus, a mace-like rod topped by a humanoid skull. He surrounds himself with undead, and living creatures not under his control are anathema to him.
-
----
-
-## Yeenoghu
-Known as the Gnoll Lord and the Beast of Butchery, the demon lord Yeenoghu hungers for slaughter and senseless destruction. Gnolls are his mortal instruments, and he drives them to ever-greater atrocities in his name. Delighting in sorrow and hopelessness, the Gnoll Lord yearns to turn the world into a wasteland in which the last surviving gnolls tear each other apart for the right to feast upon the dead.
-
-Yeenoghu appears as a huge, scarred gnoll with a spiky crest of black spines, and eyes that burn with emerald flame. His armor is a patchwork of shields and breastplates claimed from fallen foes, and decorated by those foes' flayed skins. Yeenoghu can summon a triple flail he calls the Butcher, which he wields to deadly effect or wills to fly independently into battle as he tears foes apart with teeth and claws.
-
-
 ***Reward for Outsiders.*** Although most demon lords rise up from the vast and uncountable mobs of demons rampaging across the Abyss, the plane also rewards outsiders that conquer any of its infinite layers. The elven goddess Lolth became a demon lord after Corellon Larethian cast her into the Abyss for betraying elvenkind. Sages claim that the Dark Prince Graz'zt originated on some other plane before stealing his abyssal title from another long-forgotten demon lord.
 
 ***Power and Control.*** The greatest sign of a demon lord's power is its ability to reshape an abyssal realm. A layer of the Abyss controlled by a demon lord becomes a twisted reflection of that fiend's vile personality, and demon lords seldom leave their realms for fear of allowing another creature to reshape and seize it.
@@ -75,3 +51,78 @@ Yeenoghu appears as a huge, scarred gnoll with a spiky crest of black spines, an
 As with other demons, a demon lord that dies on another plane has its essence return to the Abyss, where it reforms into a new body. Likewise, a demon lord that dies in the Abyss is permanently destroyed. Most demon lords keep a portion of their essence safely stored away to prevent such a fate.
 
 No one knows the full number of demon lords that rage in the Abyss. Given the infinite depths of that plane, powerful demons constantly rise to become demon lords, then fall almost as quickly. Among the demon lords whose power has endured long enough for demonologists to name them are [Fraz-Urb'luu](./FrazUrbLuu.md), the Prince of Deception; Kostchtchie, the Prince of Wrath; Pazuzu, Prince of the Lower Aerial Kingdoms; and Zuggtmoy, Lady of Fungi.
+
+#### Lolth
+The Demon Queen of Spiders is the evil matron of the drow. Her every thought is touched by malice, and the depth of her viciousness can surprise even her most faithful priestesses. She directs her faithful while she weaves plots across the worlds of the Material Plane, looking forward to the time when her drow followers bring those worlds under her control.
+
+Lolth appears as a lithe, imperious drow matriarch when she manifests to her followers in the mortal realm, which she does with unusual frequency. When battle breaks out -- or if she has a reason to remind her followers to fear her -- Lolth's lower body transforms into that of a huge demonic spider, whose spike-tipped legs and mandibles tear foes apart.
+
+## Yeenoghu
+Known as the Gnoll Lord and the Beast of Butchery, the demon lord Yeenoghu hungers for slaughter and senseless destruction. Gnolls are his mortal instruments, and he drives them to ever-greater atrocities in his name. Delighting in sorrow and hopelessness, the Gnoll Lord yearns to turn the world into a wasteland in which the last surviving gnolls tear each other apart for the right to feast upon the dead.
+
+Yeenoghu appears as a huge, scarred gnoll with a spiky crest of black spines, and eyes that burn with emerald flame. His armor is a patchwork of shields and breastplates claimed from fallen foes, and decorated by those foes' flayed skins. Yeenoghu can summon a triple flail he calls the Butcher, which he wields to deadly effect or wills to fly independently into battle as he tears foes apart with teeth and claws.
+
+---
+
+## A
+- [Alkilith](Alkilith.md)
+- [Armanite](Armanite.md)
+
+## B
+- [Babau](Babau.md)
+- [Balor](Balor.md)
+- [Baphomet](Baphomet.md)
+- [Barlgura](Barlgura.md)
+- [Bulezau](Bulezau.md)
+
+## C
+- [Chasme](Chasme.md)
+
+## D
+- [Demogorgon](Demogorgon.md)
+- [Draegloth](Draegloth.md)
+- [Dretch](Dretch.md)
+- [Dybbuk](Dybbuk.md)
+
+## F
+- [Fraz-Urb'luu](Fraz-Urb'luu.md)
+
+## G
+- [Glabrezu](Glabrezu.md)
+- [Goristro](Goristro.md)
+- [Graz'zt](Graz'zt.md)
+
+## H
+- [Hezrou](Hezrou.md)
+
+## J
+- [Juiblex](Juiblex.md)
+
+## M
+- [Manes](Manes.md)
+- [Marilith](Marilith.md)
+- [Maw Demon](MawDemon.md)
+- [Molydeus](Molydeus.md)
+
+## N
+- [Nabassu](Nabassu.md)
+- [Nalfeshnee](Nalfeshnee.md)
+
+## O
+- [Orcus](Orcus.md)
+
+## Q
+- [Quasit](Quasit.md)
+
+## R
+- [Rutterkin](Rutterkin.md)
+
+## S
+- [Shadow Demon](ShadowDemon.md)
+- [Shoosuva](Shoosuva.md)
+
+## V
+- [Vrock](Vrock.md)
+
+## Y
+- [Yochlol](Yochlol.md)

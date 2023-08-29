@@ -15,7 +15,7 @@ Wielding a wicked blade in each of its six hands, a marilith is a devastating fo
 >|18 (+4)|20 (+5)|20 (+5)|18 (+4)|16 (+3)|20 (+5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** Str +9,Con +10,Wis +8,Cha +10
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning; bludgeoning,piercing,and slashing from nonmagical attacks

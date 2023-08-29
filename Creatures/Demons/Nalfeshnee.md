@@ -17,7 +17,7 @@ Nalfeshnees feed on hatred and despair, but they crave humanoid flesh above all 
 >|21 (+5)|10 (+0)|22 (+6)|19 (+4)|12 (+1)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** Con +11,Int +9,Wis +6,Cha +7
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning; bludgeoning,piercing,and slashing from nonmagical attacks

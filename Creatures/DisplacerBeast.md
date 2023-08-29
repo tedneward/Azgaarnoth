@@ -11,6 +11,12 @@ Displacer beasts hunt alone or in small prides that demonstrate skill at setting
 
 ***Prized Guards and Pets.*** Intelligent evil creatures favor displacer beasts as pets, but a displacer beast enters such an alliance only if it appears beneficial. A displacer beast might guard a vault or act as a bodyguard for a prominent individual.
 
+### Environment
+Forest
+
+### Token
+![](DisplacerBeast-Token.png)
+
 >### Displacer Beast
 >*Large monstrosity, lawful evil*
 >___
@@ -23,7 +29,7 @@ Displacer beasts hunt alone or in small prides that demonstrate skill at setting
 >|18 (+4)|15 (+2)|16 (+3)|6 (-2)|12 (+1)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

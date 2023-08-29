@@ -1,12 +1,18 @@
 # Snakes
 Armless (usually) and legless reptiles, snakes are common to many parts of Azgaarnoth, and not particularly threatening, with the exception of a few species. They are often found around farms throughout Azgaarnoth, as they are excellent defenses against rodents, and some Hordes villages have festivals in honor of the common garden snake. They are often considered a good-luck charm.
 
-> Jump to: [Constrictor](#constrictor-snake) | [FLying](#flying-snake) | [Giant Constrictor](#giant-constrictor-snake) | [Giant Poisonous](#giant-poisonous-snake) | [Nightstriker Serpent](#nightstriker-serpent) | [Poisonous](#poisonous-snake) | [Swarm of Poisonous Snakes](#swarm-of-poisonous-snakes)
+> Jump to: [Constrictor Snake](Snakes.md#constrictor-snake) | [Flying Snake](Snakes.md#flying-snake) | [Giant Constrictor Snake](Snakes.md#giant-constrictor-snake) | [Giant Poisonous Snake](Snakes.md#giant-poisonous-snake) | [Nightstriker Serpent](Snakes.md#nightstriker-serpent) | [Poisonous Snake](Snakes.md#poisonous-snake) | [Swarm Of Poisonous Snakes](Snakes.md#swarm-of-poisonous-snakes)
 
 ---
 
 ## Constrictor Snake
 Anacondas and pythons can grow up to six or seven feet in length, and are commonly found in the jungles, swamps, and marshlands of [Yithi](../Nations/Yithi.md) and [Zhi](../Nations/Zhi.md), as well as [Tragekia](../Nations/Tragekia.md).
+
+### Environment
+(FIXME)
+
+### Token
+![](ConstrictorSnake-Token.png)
 
 >### Constrictor Snake
 >*Large beast, unaligned*
@@ -20,7 +26,7 @@ Anacondas and pythons can grow up to six or seven feet in length, and are common
 >|15 (+2)|14 (+2)|12 (+1)|1 (-5)|10 (+0)|3 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -42,6 +48,12 @@ Anacondas and pythons can grow up to six or seven feet in length, and are common
 ## Flying Snake
 A flying snake is a brightly colored, winged serpent found in remote jungles. Some tribes and clans, particularly among the Hordes, domesticate flying snakes to serve as messengers that deliver scrolls wrapped in their coils.
 
+### Environment
+(FIXME)
+
+### Token
+![](FlyingSnake-Token.png)
+
 >### Flying Snake
 >*Tiny beast, unaligned*
 >___
@@ -54,7 +66,7 @@ A flying snake is a brightly colored, winged serpent found in remote jungles. So
 >|4 (-3)|18 (+4)|11 (+0)|2 (-4)|12 (+1)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -76,6 +88,12 @@ A flying snake is a brightly colored, winged serpent found in remote jungles. So
 ## Giant Constrictor Snake
 As if the normal-sized anaconda or python weren't bad enough, some wizards went and doubled their size, and discovered to their horror that the breed was able to successfully replicate. Giant constrictor snakes are usually found in the most remote jungle and marshland areas, but reports of such snakes in the trees in Northern Bedia keep even the most fearless Bedian settler up late at night.
 
+### Environment
+(FIXME)
+
+### Token
+![](GiantConstrictorSnake-Token.png)
+
 >### Giant Constrictor Snake
 >*Huge beast, unaligned*
 >___
@@ -88,7 +106,7 @@ As if the normal-sized anaconda or python weren't bad enough, some wizards went 
 >|19 (+4)|14 (+2)|12 (+1)|1 (-5)|10 (+0)|3 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -110,6 +128,12 @@ As if the normal-sized anaconda or python weren't bad enough, some wizards went 
 ## Giant Poisonous Snake
 Truly the stuff of nightmares, the giant poisonous snake often runs six to seven feet in length, and its poison can kill a mortal in seconds.
 
+### Environment
+(FIXME)
+
+### Token
+![](GiantPoisonousSnake-Token.png)
+
 >### Giant Poisonous Snake
 >*Medium beast, unaligned*
 >___
@@ -122,7 +146,7 @@ Truly the stuff of nightmares, the giant poisonous snake often runs six to seven
 >|10 (+0)|18 (+4)|13 (+1)|2 (-4)|10 (+0)|3 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -144,6 +168,12 @@ Nightstriker serpents are nocturnal ambush predators with scales as dark as the 
 
 A nightstriker serpent's body is composed partly of shadow, so it is immune to poison and has some measure of resistance to several forms of destructive energy and conventional weapons.
 
+### Environment
+(FIXME)
+
+### Token
+![](NightstrikerSerpent-Token.png)
+
 >### Nightstriker Serpent
 >*Large monstrosity, neutral evil*
 >___
@@ -156,7 +186,7 @@ A nightstriker serpent's body is composed partly of shadow, so it is immune to p
 >|14 (+2)|18 (+4)|13 (+1)|10 (+0)|12 (+1)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,necrotic; bludgeoning,piercing,and slashing from nonmagical attacks
@@ -176,6 +206,13 @@ A nightstriker serpent's body is composed partly of shadow, so it is immune to p
 ---
 
 ## Poisonous Snake
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](PoisonousSnake-Token.png)
 
 >### Poisonous Snake
 >*Tiny beast, unaligned*
@@ -189,7 +226,7 @@ A nightstriker serpent's body is composed partly of shadow, so it is immune to p
 >|2 (-4)|16 (+3)|11 (+0)|1 (-5)|10 (+0)|3 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -207,6 +244,13 @@ A nightstriker serpent's body is composed partly of shadow, so it is immune to p
 ---
 
 ## Swarm Of Poisonous Snakes
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](SwarmOfPoisonousSnakes-Token.png)
 
 >### Swarm Of Poisonous Snakes
 >*Medium swarm, unaligned*
@@ -220,7 +264,7 @@ A nightstriker serpent's body is composed partly of shadow, so it is immune to p
 >|8 (-1)|18 (+4)|11 (+0)|1 (-5)|10 (+0)|3 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning,piercing,slashing
@@ -236,3 +280,4 @@ A nightstriker serpent's body is composed partly of shadow, so it is immune to p
 >#### Actions
 >***Bites.*** Melee Weapon Attack: +6 to hit, reach 0 ft., one creature in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 >
+

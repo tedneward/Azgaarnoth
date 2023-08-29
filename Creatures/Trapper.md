@@ -7,6 +7,12 @@ A trapper is a manta-like creature that lurks in subterranean and natural enviro
 
 ***Beware of Leftovers.*** When its prey is dead, a trapper dissolves and absorbs the fleshy parts, leaving a scattering of bones, metal, treasure, and other indigestible bits in the place where the creature had been. A trapper that lurks on the floor of its hunting grounds can cover these remains with own body, making them look like irregularities in the surface. The creature might also attach itself to a wall or a ceiling close to a recent kill, effectively using the remnants as bait: a creature that stops to investigate the bones for valuables stands a good chance of becoming the trapper's next meal.
 
+### Environment
+Ruins, Underdark
+
+### Token
+![](Trapper-Token.png)
+
 >### Trapper
 >*Large monstrosity, unaligned*
 >___
@@ -19,7 +25,7 @@ A trapper is a manta-like creature that lurks in subterranean and natural enviro
 >|17 (+3)|10 (+0)|17 (+3)|2 (-4)|13 (+1)|4 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

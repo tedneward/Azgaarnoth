@@ -16,6 +16,9 @@ Cloakers strike quickly and consume their meals as swiftly as possible, envelopi
 ### Environment
 Ruins, Underdark
 
+### Token
+![](Cloaker-Token.png)
+
 >### Cloaker
 >*Large aberration, chaotic neutral*
 >___
@@ -28,7 +31,7 @@ Ruins, Underdark
 >|17 (+3)|15 (+2)|12 (+1)|13 (+1)|12 (+1)|14 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

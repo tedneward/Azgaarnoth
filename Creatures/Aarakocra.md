@@ -5,11 +5,17 @@ Aarakocra range the Howling Gyre, an endless storm of mighty winds and lashing r
 
 ***Enemies of Elemental Evil.*** In service to the Wind Dukes of Aaqa, aarakocra scout the planes in search of temples of Elemental Evil. They spy on malign elemental creatures and then either take the fight to those creatures or report back to the Wind Dukes.
 
-On the Material Plane, aarakocra create aeries atop the highest mountains, especially peaks near portals to the Elemental Plane of Air. From such heights, aarakocra watch for signs of elemental incursions, as well as for nascent threats to their home plane. Aarakocra prefer to live their lives like the wind " unburdened and ever moving " yet they watch over a region for years if that"s what it takes to guard against the incursions of Elemental Evil.
+On the Material Plane, aarakocra create aeries atop the highest mountains, especially peaks near portals to the Elemental Plane of Air. From such heights, aarakocra watch for signs of elemental incursions, as well as for nascent threats to their home plane. Aarakocra prefer to live their lives like the wind "unburdened and ever moving" yet they watch over a region for years if that's what it takes to guard against the incursions of Elemental Evil.
 
 Aarakocra have no concept of political borders or property ownership, and the value of gems, gold, and other precious materials means little to aarakocra. In their eyes, a creature should use what is necessary and then cast what is left on the wind for others to use.
 
-***Search for the Seven Shards.*** The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, which once ruled many worlds. A creature known as the Queen of Chaos arose and initiated an interplanar war against vaati rule. To combat the threat, seven vaati heroes combined their powers to create the mighty Rod of Law. In a battle against the queen"s greatest general, Miska the Wolf Spider, a vaati killed Miska by thrusting the rod into him like a spear. The rod shattered into seven shards that scattered across the multiverse. Aarakocra seek signs of the pieces" locations in order to rebuild what is now know as the Rod of Seven Parts.
+***Search for the Seven Shards.*** The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, which once ruled many worlds. A creature known as the Queen of Chaos arose and initiated an interplanar war against vaati rule. To combat the threat, seven vaati heroes combined their powers to create the mighty Rod of Law. In a battle against the queen's greatest general, Miska the Wolf Spider, a vaati killed Miska by thrusting the rod into him like a spear. The rod shattered into seven shards that scattered across the multiverse. Aarakocra seek signs of the pieces' locations in order to rebuild what is now known as the Rod of Seven Parts.
+
+### Environment
+Mountain, Extraplanar
+
+### Token
+![](Aarakocra-Token.png)
 
 >### Aarakocra
 >*Medium humanoid, neutral good*

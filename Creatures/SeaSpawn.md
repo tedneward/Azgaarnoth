@@ -9,6 +9,12 @@ Tales provide myriad reasons for these strange transformations. "Be wary of fall
 
 Kraken priests are the tenders of the kraken's flock. Most of the priests are island natives, but some are merfolk, merrow, or sea elves that live in the water around the Purple Rocks.
 
+### Environment
+(FIXME)
+
+### Token
+![](SeaSpawn-Token.png)
+
 >### Sea Spawn
 >*Medium humanoid, neutral evil*
 >___
@@ -21,7 +27,7 @@ Kraken priests are the tenders of the kraken's flock. Most of the priests are is
 >|15 (+2)|8 (-1)|15 (+2)|6 (-2)|10 (+0)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

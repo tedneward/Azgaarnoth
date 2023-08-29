@@ -1,7 +1,7 @@
 # Animated Objects
 Animated objects are crafted with potent magic to follow the commands of their creators. When not commanded, they follow the last order they received to the best of their ability, and can act independently to fulfill simple instructions. Some animated objects (including many of those created in the Feywild) might converse fluently or adopt a persona, but most are simple automatons.
 
-> Jump to: [Armor](#animated-armor) | [Flying Sword](#flying-sword) | [Rug of Smothering](#rug-of-smothering) | [Table](#animated-table)
+> Jump to: [Animated Armor](AnimatedObjects.md#animated-armor) | [Flying Sword](AnimatedObjects.md#flying-sword) | [Rug of Smothering](AnimatedObjects.md#rug-of-smothering) | [Animated Table](AnimatedObjects.md#animated-table)
 
 ***Constructed Nature.*** An animated object doesn't require air, food, drink, or sleep.
 
@@ -16,8 +16,11 @@ This empty steel shell clamors as it moves, heavy plates banging and grinding ag
 
 To add to its menace, animated armor is frequently enchanted with scripted speech, so the armor can utter warnings, demand passwords, or deliver riddles. Rare suits of animated armor are able to carry on an actual conversation.
 
+### Environment
+Summoned/Conjured
+
 ### Token
-![](./AnimatedObjects-AnimatedArmor-Token.png)
+![](AnimatedObjects-AnimatedArmor-Token.png)
 
 >### Animated Armor
 >*Medium construct, unaligned*
@@ -58,6 +61,9 @@ To add to its menace, animated armor is frequently enchanted with scripted speec
 A flying sword dances through the air, fighting with the confidence of a warrior that can't be injured. Swords are the most common weapons animated with magic. Axes, clubs, daggers, maces, spears, and even self-loading crossbows are also known to exist in animated object form.
 
 ![](AnimatedObjects-FlyingSword.png)
+
+### Environment
+Summoned/Conjured
 
 ### Token
 ![](./AnimatedObjects-FlyingSword-Token.png)
@@ -104,6 +110,9 @@ A rug of smothering can be made in many different forms, from a finely woven car
 
 In some cases, a rug of smothering is disguised as a carpet of flying or another beneficial magic item. However, a character who stands or sits on the rug, or who attempts to utter a word of command, is quickly trapped as the rug of smothering rolls itself tightly around its victim.
 
+### Environment
+Summoned/Conjured
+
 ### Token
 ![](AnimatedObjects-RugOfSmothering-Token.png)
 
@@ -143,6 +152,10 @@ In some cases, a rug of smothering is disguised as a carpet of flying or another
 ---
 
 ## Animated Table
+(No description given)
+
+### Environment
+Summoned/Conjured
 
 ### Token
 ![](AnimatedObjects-AnimatedTable-Token.png)
@@ -179,3 +192,4 @@ In some cases, a rug of smothering is disguised as a carpet of flying or another
 >#### Actions
 >***Ram.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 >
+

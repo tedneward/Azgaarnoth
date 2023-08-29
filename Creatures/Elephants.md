@@ -1,7 +1,7 @@
 # Elephants
 
 
-> Jump to: [Elephant](#elephant) | [Mammoth](#mammoth)
+> Jump to: [Mammoth](Elephants.md#mammoth)
 
 ## Elephant
 
@@ -41,6 +41,12 @@
 ## Mammoth
 A mammoth is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical.
 
+### Environment
+(FIXME)
+
+### Token
+![](Mammoth-Token.png)
+
 >### Mammoth
 >*Huge beast, unaligned*
 >___
@@ -53,7 +59,7 @@ A mammoth is an elephantine creature with thick fur and long tusks. Stockier and
 >|24 (+7)|9 (-1)|21 (+5)|3 (-4)|11 (+0)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -71,3 +77,4 @@ A mammoth is an elephantine creature with thick fur and long tusks. Stockier and
 >
 >***Stomp.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one prone creature. Hit: 29 (4d10 + 7) bludgeoning damage.
 >
+

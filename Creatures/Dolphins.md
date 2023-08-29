@@ -1,11 +1,17 @@
 # Dolphins
 Dolphins are clever, social marine mammals that feed on small fish and squid. An adult specimen is between 5 and 6 feet long.
 
-> Jump to: [Dolphin](#dolphin) | [Dolphin Delighter](#dolphin-delighter)
+> Jump to: [Dolphin](Dolphins.md#dolphin) | [Dolphin Delighter](Dolphins.md#dolphin-delighter)
 ---
 
 ## Dolphin
 Dolphins are symbols of wisdom and playfulness among the sea folk of many worlds. Found in oceans and in the Elemental Plane of Water, dolphins are befriended by druids and rangers, and many tales speak of dolphins that appeared out of nowhere to protect swimmers from sharks and other aquatic predators.
+
+### Environment
+Underwater
+
+### Token
+![](Dolphin-Token.png)
 
 >### Dolphin
 >*Medium Beast, Unaligned*
@@ -42,6 +48,12 @@ Dolphins are symbols of wisdom and playfulness among the sea folk of many worlds
 In the Feywild, dolphin delighters brighten the moods of those who travel the seas of the Domains of Delight. Telepathically singing sea chanteys, these dolphins leap and teleport through the luminous waters of Faerie and the Material Plane, and they are faithful allies to any who battle the forces of gloom and brutality under the waves.
 
 Dolphin delighters often accompany groups of sea elves, tritons, and tortles as guardians and friends.
+
+### Environment
+Underwater
+
+### Token
+![](DolphinDelighter-Token.png)
 
 >### Dolphin Delighter
 >*Medium Fey, Typically Chaotic Good*

@@ -15,6 +15,12 @@ Elven communities encourage owlbears to den beneath their treetop villages, usin
 
 ***Owlbear Origins.*** Scholars have long debated the origins of the owlbear. The most common theory is that a demented wizard created the first specimen by crossing a giant owl with a bear. However, venerable elves claim to have known these creatures for thousands of years, and some fey insist that owlbears have always existed in the Feywild.
 
+### Environment
+(FIXME)
+
+### Token
+![](Owlbear-Token.png)
+
 >### Owlbear
 >*Large Monstrosity, Unaligned*
 >___

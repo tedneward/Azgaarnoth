@@ -1,12 +1,11 @@
 # Xvarts
 Xvarts are cruel, cowardly humanoids spawned by a cowardly, renegade demigod. They have blue skin, vivid orange eyes, and receding hairlines, mirroring their creator's appearance. They stand about 3 feet tall.
 
-> Jump to: [Xvart](#Xvart) | [Xvart Warlock of Raxivort](#Xvart Warlock of Raxivort)
-
+> Jump to: [Xvart](Xvarts.md#xvart) | [Xvart Warlock of Raxivort](Xvarts.md#xvart-warlock-of-raxivort)
 
 Xvarts live in remote hills, forests, and caves. Each tribe is led by a speaker, who is usually the brightest one among them. The speaker serves as the tribe's ambassador, and often dons short wooden stilts and heavy robes to look taller and more imperious. The rest of the tribe hunts for food, plundering crops and livestock from nearby farms if the hunt goes poorly. Xvarts aren't much of a threat to civilized locations because they are somewhat fearful of humans, dwarves, and elves.
 
-Raxivort's Betrayal. All xvarts are the degenerate offspring of an entity named Raxivort, who once served Graz'zt the Dark Prince as treasurer. Raxivort spent long centuries watching over the treasury, and in time he grew to lust after his master's riches. In one bold move, he plundered a treasure vault and fled to the Material Plane. One of the treasures he stole was the Infinity Spindle, a crystalline shard from the early days of the multiverse that could transform even a creature as low as Raxivort into a demigod.
+***Raxivort's Betrayal.*** All xvarts are the degenerate offspring of an entity named Raxivort, who once served Graz'zt the Dark Prince as treasurer. Raxivort spent long centuries watching over the treasury, and in time he grew to lust after his master's riches. In one bold move, he plundered a treasure vault and fled to the Material Plane. One of the treasures he stole was the Infinity Spindle, a crystalline shard from the early days of the multiverse that could transform even a creature as low as Raxivort into a demigod.
 
 After he ascended to godhood, Raxivort forged a realm called the Black Sewers, within Pandesmos, the topmost layer of Pandemonium. He enjoyed his divine ascension only briefly, though, before Graz'zt unleashed his vengeance. The demon prince had no need to regain the Infinity Spindle, since he already possessed power greater than what it could grant. Instead, he dispatched agents far and wide to spread news of what the spindle could do and the puny, pathetic creature that claimed its ownership. Soon enough, Raxivort was pursued by a variety of enemies, all eager to claim the Spindle as their own.
 
@@ -14,10 +13,18 @@ In the face of his imminent destruction, Raxivort hatched a plan. Fleeing to the
 
 Although the initial rush of enemies against him has subsided, Raxivort knows that the planar powers are patient. He remains in hiding, a wretch of a demigod who does little more than wander the planes, spawning ever more xvarts to ensure his continued safety.
 
-XVART SPEAKERS A xvart tribe has one speaker that serves as its leader. The speaker has the statistics of a normal xvart, except that it has an Intelligence of 13 (+1) and knows one additional language (usually Common or Goblin).
+***Speakers for the Tribe.*** A xvart tribe has one speaker that serves as its leader. The speaker has the statistics of a normal xvart, except that it has an Intelligence of 13 (+1) and knows one additional language (usually Common or Goblin).
+
 ---
 
 ## Xvart
+(No description given)
+
+### Environment
+Forest, Hill, Underdark
+
+### Token
+![](Xvart-Token.png)
 
 >### Xvart
 >*Small humanoid (xvart), chaotic evil*
@@ -31,7 +38,7 @@ XVART SPEAKERS A xvart tribe has one speaker that serves as its leader. The spea
 >|8 (-1)|14 (+2)|10 (+0)|8 (-1)|7 (-2)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -42,25 +49,11 @@ XVART SPEAKERS A xvart tribe has one speaker that serves as its leader. The spea
 >- **Languages** Abyssal
 >- **Challenge** 1/8
 >___
->
->
->
->
->
->
->
->
 >***Low Cunning.*** The xvart can take the Disengage action as a bonus action on each of its turns.
->
->
 >
 >***Overbearing Pack.*** The xvart has advantage on Strength (Athletics) checks to shove a creature if at least one of the xvart's allies is within 5 feet of the target and the ally isn't incapacitated.
 >
->
->
 >***Raxivort's Tongue.*** The xvart can communicate with ordinary bats and rats, as well as giant bats and giant rats.
->
->
 >
 >#### Actions
 >***Shortsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
@@ -79,6 +72,13 @@ XVART SPEAKERS A xvart tribe has one speaker that serves as its leader. The spea
 ---
 
 ## Xvart Warlock of Raxivort
+(No description given)
+
+### Environment
+Forest, Hill, Ruins, Underdark
+
+### Token
+![](XvartWarlockofRaxivort-Token.png)
 
 >### Xvart Warlock of Raxivort
 >*Small humanoid (xvart), chaotic evil*
@@ -92,7 +92,7 @@ XVART SPEAKERS A xvart tribe has one speaker that serves as its leader. The spea
 >|8 (-1)|14 (+2)|12 (+1)|8 (-1)|11 (+0)|12 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -103,45 +103,21 @@ XVART SPEAKERS A xvart tribe has one speaker that serves as its leader. The spea
 >- **Languages** Abyssal
 >- **Challenge** 1
 >___
->
->
->
->
->
->
->
->
 >***Innate Spellcasting.*** The xvart's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
->
->
 >
 >At will: detect magic, mage armor (self only)
 >
->
->
 >***Spellcasting.*** The xvart is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 11, +3 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
->
->
 >
 >Cantrips (at will): eldritch blast, mage hand, minor illusion, poison spray, prestidigitation
 >
->
->
 >1st-2nd level (2 2nd-level slots): burning hands, expeditious retreat, invisibility, scorching ray
->
->
 >
 >***Low Cunning.*** The xvart can take the Disengage action as a bonus action on each of its turns.
 >
->
->
 >***Raxivort's Blessing.*** When the xvart reduces an enemy to 0 hit points, the xvart gains 4 temporary hit points.
 >
->
->
 >***Raxivort's Tongue.*** The xvart can communicate with ordinary bats and rats, as well as giant bats and giant rats.
->
->
 >
 >#### Actions
 >***Scimitar.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.

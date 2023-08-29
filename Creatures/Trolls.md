@@ -1,7 +1,7 @@
 # Trolls
 Born with horrific appetites, trolls eat anything they can catch and devour. They have no society to speak of, but they do sometimes serve as mercenaries, particularly among the Hordes. (Those that do often have one or more ranks as an NPC, almost always as a fighter or barbarian, making them doubly deadly.) As payment, trolls demand food and treasure. Trolls are difficult to control, however, doing as they please even when working with more powerful creatures.
 
-> Jump to: [Troll](#troll) | [Aquatic Troll](#aquatic-troll) | [Dire Troll](#dire-troll) | [Rot Troll](#rot-troll) | [Spirit Troll](#spirit-troll) | [Venom Troll](#venom-troll)
+> Jump to: [Troll](Trolls.md#troll) | [Aquatic Troll (Scrag)](Trolls.md#aquatic-troll-(scrag)) | [Dire Troll](Trolls.md#dire-troll) | [Rot Troll](Trolls.md#rot-troll) | [Spirit Troll](Trolls.md#spirit-troll) | [Venom Troll](Trolls.md#venom-troll)
 
 ***Regeneration.*** Smashing a troll's bones and slashing through its rubbery hide only makes it angry. A troll's wounds close quickly. If the monster loses an arm, a leg, or even its head, those dismembered parts can sometimes act with a life of their own. A troll can even reattach severed body parts, untroubled by its momentary disability. Only acid and fire can arrest the regenerative properties of a troll's flesh. The trolls, enraged, will attack individuals making acid and fire attacks against them above all other prey.
 
@@ -35,6 +35,13 @@ Among non-trolls, Vaprak is believed to be an aspect of [Gruumsh One-Eye](../Rel
 ---
 
 ## Troll
+(No description given)
+
+### Environment
+Forest, Hill, Mountain, Swamp, Underdark
+
+### Token
+![](Troll-Token.png)
 
 >### Troll
 >*Large giant, chaotic evil*
@@ -45,7 +52,7 @@ Among non-trolls, Vaprak is believed to be an aspect of [Gruumsh One-Eye](../Rel
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|18(+4) |13(+1) |20(+5) | 7(−2) | 9(−1) | 7(−2)|
+>|18 (+4)|13 (+1)|20 (+5)|7 (-2)|9 (-1)|7 (-2)|
 >
 >___
 >- **Proficiency Bonus** 
@@ -68,14 +75,21 @@ Among non-trolls, Vaprak is believed to be an aspect of [Gruumsh One-Eye](../Rel
 >
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
 >
-***Claw.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+>***law.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+>
 
 ---
 
 ## Aquatic Troll (Scrag)
-Scrags are trolls that have adapted to life in the water. 
+Scrags are trolls that have adapted to life in the water.
 
->### Aquatic Troll
+### Environment
+Coastal, Underwater
+
+### Token
+![](AquaticTroll(Scrag)-Token.png)
+
+>### Aquatic Troll (Scrag)
 >*Large giant, chaotic evil*
 >___
 >- **Armor Class** 15 (natural armor)
@@ -84,7 +98,7 @@ Scrags are trolls that have adapted to life in the water.
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|18 (+4)|13 (+1)|20 (+5)|7 (-2) | 9 (-1)| 7 (-2)|
+>|18 (+4)|13 (+1)|20 (+5)|7 (-2)|9 (-1)|7 (-2)|
 >
 >___
 >- **Proficiency Bonus** 
@@ -110,15 +124,22 @@ Scrags are trolls that have adapted to life in the water.
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
 >
 >***Claw.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+>
 
 ---
 
 ## Dire Troll
-![Dire Troll](Troll-Dire.png) 
-
 Trolls kill and eat almost anything — including, in rare cases, other trolls. This cannibalism has the effect of causing the troll to grow to an unusually large size. These dire trolls crave more and more troll flesh to fuel their continued growth.
 
+![Dire Troll](Troll-Dire.png)
+
 Dire trolls also increase their size by grafting flesh and organs onto themselves. When a slab of quivering troll flesh is bound against a fresh wound on the dire troll, its regenerative capacity incorporates the new mass into its own musculature. Even more horrifying are the multiple arms, eyes, claws, and other organs that a dire troll tears from its victims and grafts onto itself. Over time, these creatures can accumulate many limbs.
+
+### Environment
+Forest, Hill, Mountain, Swamp, Underdark
+
+### Token
+![](DireTroll-Token.png)
 
 >### Dire Troll
 >*Huge giant, chaotic evil*
@@ -129,7 +150,7 @@ Dire trolls also increase their size by grafting flesh and organs onto themselve
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|22(+6) |15(+2) |21(+5) |9(−1)  |11(+0) |5(−3)|
+>|22 (+6)|15 (+2)|21 (+5)|9 (-1)|11 (+0)|5 (-3)|
 >
 >___
 >- **Proficiency Bonus** 
@@ -155,6 +176,7 @@ Dire trolls also increase their size by grafting flesh and organs onto themselve
 >***Claws.*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 16 (3d6 + 6) slashing damage.
 >
 >***Whirlwind of Claws (Recharge 5–6).*** Each creature within 10 feet of the troll must make a DC 19 Dexterity saving throw, taking 44 (8d10) slashing damage on a failed save, or half as much damage on a successful one.
+>
 
 ---
 
@@ -162,6 +184,12 @@ Dire trolls also increase their size by grafting flesh and organs onto themselve
 ![Rot Troll](Troll-Rot.png)
 
 A troll that is infused with waves of necrotic energy as it regenerates can develop a symbiotic relationship with that deathly power. The troll's body withers, and its flesh falls away from the body as quickly as it forms. Eventually a rot troll becomes unable to regenerate, though it still heals normally. The creature courses with necrotic energy that flows out of its withered form. Simply standing near a rot troll exposes other creatures to its lethal emanations.
+
+### Environment
+Forest, Hill, Mountain, Ruins, Swamp, Underdark
+
+### Token
+![](RotTroll-Token.png)
 
 >### Rot Troll
 >*Large giant, chaotic evil*
@@ -172,7 +200,7 @@ A troll that is infused with waves of necrotic energy as it regenerates can deve
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|18(+4) |13(+1) |22(+6) | 5(−3) | 8(−1) | 4(−3)|
+>|18 (+4)|13 (+1)|22 (+6)|5 (-3)|8 (-1)|4 (-3)|
 >
 >___
 >- **Proficiency Bonus** 
@@ -194,6 +222,7 @@ A troll that is infused with waves of necrotic energy as it regenerates can deve
 >***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 16 (3d10) necrotic damage.
 >
 >***Claws.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 5 (1d10) necrotic damage.
+>
 
 ---
 
@@ -201,6 +230,12 @@ A troll that is infused with waves of necrotic energy as it regenerates can deve
 ![Spirit Troll](Troll-Spirit.png)
 
 A troll blasted with psychic energy can take a nonphysical form when it regenerates. Its psyche survives, but the body of a spirit troll is as insubstantial as shadow. The troll might be unaware of the transition — it still moves and attacks with teeth and claws as it always did — but now it strikes at its victim's mind.
+
+### Environment
+Forest, Hill, Mountain, Ruins, Swamp, Underdark
+
+### Token
+![](SpiritTroll-Token.png)
 
 >### Spirit Troll
 >*Large giant, chaotic evil*
@@ -211,7 +246,7 @@ A troll blasted with psychic energy can take a nonphysical form when it regenera
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|1(−5)|17(+3)|13(+1)|8(−1)|9(−1)|16(+3)|
+>|1 (-5)|17 (+3)|13 (+1)|8 (-1)|9 (-1)|16 (+3)|
 >
 >___
 >- **Proficiency Bonus** 
@@ -235,6 +270,7 @@ A troll blasted with psychic energy can take a nonphysical form when it regenera
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 19 (3d10 + 3) psychic damage, and the target must succeed on a DC 15 Wisdom saving throw or be stunned for 1 minute. The stunned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
 >***Claws.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 14 (2d10 + 3) psychic damage.
+>
 
 ---
 
@@ -242,6 +278,12 @@ A troll blasted with psychic energy can take a nonphysical form when it regenera
 ![Venom Troll](Troll-Venom.png)
 
 A troll ravaged by massive doses of poison will sometimes transform into a venom troll. Lingering poison infuses its blood and tissue, and poison leaks from its pores to coat its fangs and claws. These creatures are especially dangerous in close combat, because poison drips off their flesh and sprays out from every wound they receive.
+
+### Environment
+Forest, Hill, Mountain, Swamp, Underdark
+
+### Token
+![](VenomTroll-Token.png)
 
 >### Venom Troll
 >*Large giant, chaotic evil*
@@ -252,7 +294,7 @@ A troll ravaged by massive doses of poison will sometimes transform into a venom
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|18(+4) | 13(+1)| 20(+5)| 7(−2) | 9(−1) | 7(-2)|
+>|18 (+4)|13 (+1)|20 (+5)|7 (-2)|9 (-1)|7 (-2)|
 >
 >___
 >- **Proficiency Bonus** 
@@ -280,3 +322,5 @@ A troll ravaged by massive doses of poison will sometimes transform into a venom
 >***Claws.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 4 (1d8) poison damage.
 >
 >***Venom Spray (Recharge 6).*** The troll slices itself with a claw, releasing a spray of poison in a 15-foot cube. The troll takes 7 (2d6) slashing damage (this damage can't be reduced in any way). Each creature in the area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (4d8) poison damage and is poisoned for 1 minute. On a successful save, the creature takes half as much damage and isn't poisoned. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>
+

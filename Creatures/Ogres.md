@@ -1,7 +1,7 @@
 # Ogres
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
 
-> Jump to: [Ogre](#Ogre) | [Battering Ram](#battering-ram) | [Bolt Launcher](#bolt-launcher) | [Chain Brute](#chain-brute) | [Howdah](#howdah) | [Half-Ogre](#Half-Ogre) | [Ogre Mage](#ogre-mage) | [Oni](#Oni)
+> Jump to: [Ogre](Ogres.md#ogre) | [Ogre Battering Ram](Ogres.md#ogre-battering-ram) | [Ogre Bolt Launcher](Ogres.md#ogre-bolt-launcher) | [Ogre Chain Brute](Ogres.md#ogre-chain-brute) | [Ogre Howdah](Ogres.md#ogre-howdah) | [Half-Ogre](Ogres.md#half-ogre) | [Oni](Ogres.md#oni) | [Ogre Mage](Ogres.md#ogre-mage)
 
 ***Furious Tempers.*** Ogres are notorious for their quick tempers, which flare at the smallest perceived offense. Insults and name-calling can rouse an ogre's wrath in an instant — as can stealing from it, bumping, jabbing, or prodding it, laughing, making faces, or simply looking at it the wrong way. When its rage is incited, an ogre lashes out in a frustrated tantrum until it runs out of objects or creatures to smash.
 
@@ -28,6 +28,13 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 ---
 
 ## Ogre
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](Ogre-Token.png)
 
 >### Ogre
 >*Large giant, chaotic evil*
@@ -41,7 +48,7 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 >|19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -63,6 +70,11 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 ## Ogre Battering Ram
 An ogre battering ram carries an enormous club that's primarily used for bashing doors into kindling but also works well for smashing foes. These ogres are drilled in two simple tasks: rushing forward to shatter enemy fortifications and using their weapons to force an advancing enemy to halt.
 
+### Environment
+(FIXME)
+
+### Token
+![](OgreBatteringRam-Token.png)
 
 >### Ogre Battering Ram
 >*Large Giant, Typically Chaotic Evil*
@@ -103,6 +115,11 @@ An ogre battering ram carries an enormous club that's primarily used for bashing
 ## Ogre Bolt Launcher
 A bolt launcher carries a gigantic crossbow--a weapon so large it's essentially an ogre-held ballista. An ogre bolt launcher can load this immense weapon and loose its deadly missile as quickly as a dwarf handles a crossbow. The bolts are so large that few ogres can carry more than a half dozen at a time, but bolt launchers have been known to uproot small trees or tear beams out of buildings and launch those when their ammunition runs low.
 
+### Environment
+(FIXME)
+
+### Token
+![](OgreBoltLauncher-Token.png)
 
 >### Ogre Bolt Launcher
 >*Large Giant, Typically Chaotic Evil*
@@ -138,6 +155,11 @@ A bolt launcher carries a gigantic crossbow--a weapon so large it's essentially 
 ## Ogre Chain Brute
 An ogre chain brute wields a great spiked chain, swinging it with both hands in a wide circle to knock foes off their feet. Alternatively, the ogre can swing the chain in a crushing overhead smash.
 
+### Environment
+(FIXME)
+
+### Token
+![](OgreChainBrute-Token.png)
 
 >### Ogre Chain Brute
 >*Large Giant, Typically Chaotic Evil*
@@ -175,6 +197,11 @@ An ogre chain brute wields a great spiked chain, swinging it with both hands in 
 ## Ogre Howdah
 The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding goblins into battle, or perhaps kobolds or deep gnomes (all three appear in the Monster Manual), but they might also transport other Small folk.
 
+### Environment
+(FIXME)
+
+### Token
+![](OgreHowdah-Token.png)
 
 >### Ogre Howdah
 >*Large Giant, Typically Chaotic Evil*
@@ -205,7 +232,6 @@ The most unusual of the specialized ogres, the howdah carries a palisaded wooden
 >***Fist.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 >
 
-
 ---
 
 ## Half-Ogre
@@ -216,6 +242,12 @@ The offspring of an ogre and any of a human, a hobgoblin, a bugbear, or an orc i
 Although many half-ogres have lost the beastility and/or legendary stupidity of their ogrish parentage, many half-ogres, like other "halves", find they have no home among ogres nor among their other parents. Many end up finding a life as a thug, but some happy few end up finding their way to a [mercenary company](../Organizations/MercCompanies/index.md), wherein they can best apply their incredible strength in positive pursuits.
 
 ***Playable Race: Mass in Action.*** Many heroes of note have been [half-ogres](../Races/Half-Ogre.md)
+
+### Environment
+(FIXME)
+
+### Token
+![](Half-Ogre-Token.png)
 
 >### Half-Ogre
 >*Large giant, any chaotic alignment*
@@ -229,7 +261,7 @@ Although many half-ogres have lost the beastility and/or legendary stupidity of 
 >|17 (+3)|10 (+0)|14 (+2)|7 (-2)|9 (-1)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -255,6 +287,12 @@ In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of childr
 
 ***Magical Ogres.*** Oni are sometimes called ogre mages because of their innate magical ability. Though they are only distantly related to true ogres, they share the ogres' habit of joining forces with other evil creatures. An oni serves a master if doing so proves lucrative or provides it with a luxurious, well-defended home. Oni covet magic, and they work for evil wizards and hags in exchange for useful magic items.
 
+### Environment
+(FIXME)
+
+### Token
+![](Oni-Token.png)
+
 >### Oni
 >*Large giant, lawful evil*
 >___
@@ -267,7 +305,7 @@ In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of childr
 >|19 (+4)|11 (+0)|16 (+3)|14 (+2)|12 (+1)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Dex +3,Con +6,Wis +4,Cha +5
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -302,6 +340,12 @@ In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of childr
 
 ## Ogre Mage
 Ogres are not known for their magical prowess. Few have any amount of respect for nature, though many ogres worship Vaprak, few rise to become clerics and the stupid and impatient ogres make for poor scholars. Therefore, most ogre spellcasters are sorcerers, but even among these sorcerers, it is rare that their talents are respected by their fellows and rarer still for the ogres in question to have any real understanding of the forces they wield in battle. Some few, however, are born with greater intelligence (or wisdom, or cunning, depending on how you look at it), and become incredibly dangerous creatures.
+
+### Environment
+(FIXME)
+
+### Token
+![](OgreMage-Token.png)
 
 >### Ogre Mage
 >*Large giant, chaotic evil*
@@ -347,3 +391,4 @@ Ogres are not known for their magical prowess. Few have any amount of respect fo
 >#### Actions
 >***Morningstar.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 3) piercing damage.
 >
+

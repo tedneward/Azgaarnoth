@@ -9,6 +9,12 @@ A jackalwere prefers to fight alongside jackals and others of its kind. Under th
 
 ***Supernatural Servants.*** Jackalweres kidnap humanoids for their lamia masters, condemning victims to a lifetime of slavery or an agonizing death. A jackalwere's magical gaze renders a foe unconscious, allowing the monster to bind a creature or drag it away. A jackalwere might also use its gaze to incapacitate a deadly enemy long enough to make good its escape.
 
+### Environment
+Forest, Grassland, Hill, Urban
+
+### Token
+![](Jackalwere-Token.png)
+
 >### Jackalwere
 >*Medium humanoid (shapechanger), chaotic evil*
 >___
@@ -21,7 +27,7 @@ A jackalwere prefers to fight alongside jackals and others of its kind. Under th
 >|11 (+0)|15 (+2)|11 (+0)|13 (+1)|11 (+0)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

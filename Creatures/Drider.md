@@ -5,6 +5,12 @@ When a drow shows great promise, Lolth summons it to the Demonweb Pits for a tes
 
 On rare occasion, a drider returns to the fringes of drow society despite its curse, most often to fulfill some longstanding vow or vendetta from its former life. Drow fear and despise driders. However, they tolerate the presence of these creatures as living representatives of Lolth's will, and a reminder of the fate that awaits all who fail the Spider Queen.
 
+### Environment
+Extraplanar, Underdark
+
+### Token
+![](Drider-Token.png)
+
 >### Drider
 >*Large monstrosity, chaotic evil*
 >___
@@ -17,7 +23,7 @@ On rare occasion, a drider returns to the fringes of drow society despite its cu
 >|16 (+3)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|12 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

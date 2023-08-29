@@ -1,7 +1,7 @@
 # Kruthiks
 Kruthiks are chitin-covered reptiles that hunt in packs and nest in sprawling subterranean warrens. They are attracted to sources of heat, such as dwarven forges and pools of molten lava, and carve out lairs as close to such locations as possible. As they burrow through the earth, they leave behind tunnels--evidence that is often the first clue to the nearby presence of a kruthik hive. Kruthiks also make use of preexisting underground chambers, incorporating them into their lairs when they can.
 
-> Jump to: [Young Kruthik](#young-kruthik) | [Adult Kruthik](#adult-kruthik) | [Kruthik Hive Lord](#kruthik-hive-lord)
+> Jump to: [Young Kruthik](Kruthiks.md#young-kruthik) | [Adult Kruthik](Kruthiks.md#adult-kruthik) | [Kruthik Hive Lord](Kruthiks.md#kruthik-hive-lord)
 
 Kruthiks communicate with one another through a series of hisses and chittering noises. These sounds can often be heard in advance of a kruthik attack. Whenever their lair is invaded, kruthik guards send out an alarm by rapidly tapping the stone floor with their sharp legs.
 
@@ -10,10 +10,17 @@ In addition to having an acute sense of smell, kruthiks can see in the dark and 
 Although they can feed on carrion, kruthiks prefer live prey. They kill enemies by impaling them on their spiked limbs, then grind up the flesh and bones with mandibles strong enough to chew rock. When several kruthiks gang up on a single foe, they become frenzied and even more lethal.
 
 Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and they use such creatures to help guard their hive. They are smart enough to barricade some tunnels and dig new ones that keep their neighbors away from their eggs.
+
 ---
 
 ## Young Kruthik
 Kruthiks hatch from eggs laid by female adults. Each egg is about the size of an adult human's head and hatches within a month. Tiny kruthik hatchlings are harmless and rarely stray far from the nest. They feed primarily on offal and one another. Within a month, the survivors become young kruthiks large enough to hunt and defend themselves.
+
+### Environment
+Underdark
+
+### Token
+![](YoungKruthik-Token.png)
 
 >### Young Kruthik
 >*Small Monstrosity, Unaligned*
@@ -52,6 +59,12 @@ Kruthiks hatch from eggs laid by female adults. Each egg is about the size of an
 It takes six months of steady eating for a young kruthik to reach adult size. The natural life span of an adult kruthik is roughly seven years.
 
 Adult kruthiks grow spiky protrusions on their legs and can fling these dagger-sized spikes at enemies beyond the reach of their claws.
+
+### Environment
+Underdark
+
+### Token
+![](AdultKruthik-Token.png)
 
 >### Adult Kruthik
 >*Medium Monstrosity, Unaligned*
@@ -92,6 +105,12 @@ Adult kruthiks grow spiky protrusions on their legs and can fling these dagger-s
 
 ## Kruthik Hive Lord
 A hive lord rules each kruthik hive. When the hive lord dies, the surviving members of the hive abandon their lair and search for a new one. When a suitable location is found, the largest kruthik in the hive undergoes a metamorphosis, forming a cocoon around itself and emerging several weeks later as a hive lord--a bigger and smarter kruthik with the ability to spray digestive acid from its maw. The hive lord claims the largest chamber of the lair and keeps several adult kruthiks nearby as bodyguards.
+
+### Environment
+Underdark
+
+### Token
+![](KruthikHiveLord-Token.png)
 
 >### Kruthik Hive Lord
 >*Large Monstrosity, Unaligned*

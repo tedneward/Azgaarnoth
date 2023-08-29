@@ -13,7 +13,7 @@ Hezrous serve as foot soldiers in the demonic hordes of the Abyss. Although phys
 >|19 (+4)|17 (+3)|20 (+5)|5 (-3)|12 (+1)|13 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Str +7,Con +8,Wis +4
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning; bludgeoning,piercing,and slashing from nonmagical attacks

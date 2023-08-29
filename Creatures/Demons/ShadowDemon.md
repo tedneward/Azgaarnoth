@@ -17,7 +17,7 @@ Shadow demons all but disappear in the darkness, and they can creep about withou
 >|1 (-5)|17 (+3)|12 (+1)|14 (+2)|13 (+1)|14 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Dex +5,Cha +4
 >- **Damage Vulnerabilities** radiant
 >- **Damage Resistances** acid,fire,necrotic,thunder; bludgeoning,piercing,and slashing from nonmagical attacks

@@ -15,7 +15,7 @@ Orcus, the Prince of Undeath, has the power to transform manes into undead monst
 >|10 (+0)|9 (-1)|13 (+1)|3 (-4)|8 (-1)|4 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold, fire, lightning

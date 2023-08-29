@@ -1,4 +1,11 @@
 ## Rhinoceros
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](Rhinoceros-Token.png)
 
 >### Rhinoceros
 >*Large beast, unaligned*
@@ -12,7 +19,7 @@
 >|21 (+5)|8 (-1)|15 (+2)|2 (-4)|12 (+1)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

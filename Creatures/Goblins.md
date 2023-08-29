@@ -1,7 +1,7 @@
 # Goblins
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large — sometimes overwhelming — numbers. They crave power and regularly abuse whatever authority they obtain.
 
-> Jump to: [Goblin](#goblin) | [Goblin Boss](#goblin-boss) | [Worg Rider](#worg-rider) | [Goblin Elite Warrior](#goblin-elite-warrior) | [Nilbog](#nilbog)
+> Jump to: [Goblin](Goblins.md#goblin) | [Goblin Boss](Goblins.md#goblin-boss) | [Worg Rider](Goblins.md#worg-rider) | [Goblin Elite Warrior](Goblins.md#goblin-elite-warrior) | [Nilbog](Goblins.md#nilbog)
 
 ***Goblinoids.*** Goblins belong to a family of creatures called goblinoids. Their larger cousins, hobgoblins and bugbears, like to bully goblins into submission. Goblins are lazy and undisciplined, making them poor servants, laborers, and guards.
 
@@ -19,6 +19,13 @@ Goblins are small, black-hearted, selfish humanoids that lair in caves, abandone
 ---
 
 ## Goblin
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](Goblin-Token.png)
 
 >### Goblin
 >*Small humanoid (goblinoid), neutral evil*
@@ -32,7 +39,7 @@ Goblins are small, black-hearted, selfish humanoids that lair in caves, abandone
 >|8 (-1)|14 (+2)|10 (+0)|10 (+0)|8 (-1)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -54,6 +61,13 @@ Goblins are small, black-hearted, selfish humanoids that lair in caves, abandone
 ---
 
 ## Goblin Boss
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](GoblinBoss-Token.png)
 
 >### Goblin Boss
 >*Small humanoid (goblinoid), neutral evil*
@@ -67,7 +81,7 @@ Goblins are small, black-hearted, selfish humanoids that lair in caves, abandone
 >|10 (+0)|14 (+2)|10 (+0)|10 (+0)|8 (-1)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -97,6 +111,12 @@ Those goblins who are selected to ride the powerful goblinoid-wolves known as [W
 
 Some Goblin Worg Riders have learned to ride [Dire Wolves](Wolves.md#dire-wolf) or [Hell Hounds](Dogs.md#hell-hound) instead; those goblins are generally considered insane by their fellows, and live in expectation of an even shorter lifespan.
 
+### Environment
+(FIXME)
+
+### Token
+![](WorgRider-Token.png)
+
 >### Worg Rider
 >*Small humanoid, neutral evil*
 >___
@@ -109,7 +129,7 @@ Some Goblin Worg Riders have learned to ride [Dire Wolves](Wolves.md#dire-wolf) 
 >|11 (+0)|14 (+2)|12 (+1)|11 (+0)|13 (+1)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -145,6 +165,12 @@ Some Goblin Worg Riders have learned to ride [Dire Wolves](Wolves.md#dire-wolf) 
 ## Goblin Elite Warrior
 This is the base Goblin with the [Elite Warrior](../Templates/EliteWarrior.md) template applied.
 
+### Environment
+(FIXME)
+
+### Token
+![](GoblinEliteWarrior-Token.png)
+
 >### Goblin Elite Warrior
 >*Small humanoid (goblinoid), neutral evil*
 >___
@@ -157,7 +183,7 @@ This is the base Goblin with the [Elite Warrior](../Templates/EliteWarrior.md) t
 >|10 (+0)|18 (+4)|12 (+1)|10 (+0)|10 (+0)|9 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Dex +6
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -187,13 +213,17 @@ Whenever goblinoids form a host, there is a chance that a goblin will become pos
 
 Among fey courts, the risk of attracting a nilbog has given rise to the practice of always including at least one goblin jester. This jester is allowed to go anywhere and do whatever they please, hopefully preventing a nilbog from manifesting. The position of jester is much sought-after among the courts' goblins, because even if the jester is obviously not a nilbog, the court must indulge their chaotic behavior.
 
-### Nilbogism
 A nilbog is an invisible spirit that possesses only goblins. When bereft of a host, the spirit has a flying speed of 30 feet, it can't be attacked, and it is immune to all damage and conditions. Acting on initiative count 20 (losing initiative ties), the only action it can take is to attempt to possess a goblin within 5 feet of it.
 
 A goblin targeted by the spirit must succeed on a DC 15 Charisma saving throw or become possessed. While possessed, the goblin uses the nilbog stat block. If the save succeeds, the spirit can't possess that goblin for 24 hours.
 
 If its host is killed or the possession is ended by a spell such as hallow, magic circle, or protection from evil and good, the spirit searches for another goblin to possess. The spirit can leave its host at any time, but it won't do so willingly unless it knows there's another potential host nearby. A goblin stripped of their nilbog spirit reverts to their normal statistics and loses the traits they gained while possessed.
 
+### Environment
+(FIXME)
+
+### Token
+![](Nilbog-Token.png)
 
 >### Nilbog
 >*Small Fey (Goblinoid), Typically Chaotic Neutral*
@@ -237,3 +267,4 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 >#### Reactions
 >***Reversal of Fortune.*** In response to another creature dealing damage to the nilbog, the nilbog reduces the damage to 0 and regains 3 (1d6) hit points.
 >
+

@@ -17,7 +17,7 @@ Coveting pretty things, vrocks turn against each other for the chance to lay cla
 >|17 (+3)|15 (+2)|18 (+4)|8 (-1)|13 (+1)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Dex +5,Wis +4,Cha +2
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning; bludgeoning,piercing,and slashing from nonmagical attacks

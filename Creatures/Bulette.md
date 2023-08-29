@@ -14,6 +14,9 @@ All creatures shun bulettes, which treat anything that moves as food — even ot
 ### Environment
 Grassland, Hill, Mountain
 
+### Token
+![](Bulette-Token.png)
+
 >### Bulette
 >*Large monstrosity, unaligned*
 >___

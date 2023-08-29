@@ -8,6 +8,9 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
 ### Environment
 Coastal, Desert, Forest, Ruins, Swamp, Underdark, Urban
 
+### Token
+![](Nagpa-Token.png)
+
 >### Nagpa
 >*Medium Monstrosity (Wizard), Typically Neutral Evil*
 >___

@@ -7,6 +7,12 @@ Merrow haunt coastal waters, preying on fisherfolk, merfolk, and any other edibl
 
 Merrow dwell in undersea caves filled with treasures and trophies, taken from their victims and sunken ships. They tie the rotting corpses of dead enemies and drowned sailors to strands of kelp to mark the borders of their territory.
 
+### Environment
+Coastal, Underdark, Underwater
+
+### Token
+![](Merrow-Token.png)
+
 >### Merrow
 >*Large monstrosity, chaotic evil*
 >___
@@ -19,7 +25,7 @@ Merrow dwell in undersea caves filled with treasures and trophies, taken from th
 >|18 (+4)|10 (+0)|15 (+2)|8 (-1)|10 (+0)|9 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

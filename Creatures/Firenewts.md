@@ -1,11 +1,17 @@
 # Firenewts
 Originally from the Elemental Plane of Fire, firenewts can be found on the Material Plane near hot springs and volcanoes. These amphibians need hot water to live, becoming sluggish after spending a week away from a source of moist heat. Firenewts therefore delve for sources of heat in the earth, and a firenewt lair features a network of channels and sluices to circulate hot liquid through the area.
 
-> Jump to: [Firenewt Warlock of Imix](#firenewt-warlock-of-imix) | [Firenewt Warrior](#firenewt-warrior)
+> Jump to: [Firenewt Warlock of Imix](Firenewts.md#firenewt-warlock-of-imix) | [Firenewt Warrior](Firenewts.md#firenewt-warrior)
 ---
 
 ## Firenewt Warlock of Imix
 Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies that revere elemental fire in its most destructive incarnation and promote aggression and cruelty. Firenewt warlocks of Imix lead these theocracies or serve as advisors to a high priest.
+
+### Environment
+(FIXME)
+
+### Token
+![](FirenewtWarlockofImix-Token.png)
 
 >### Firenewt Warlock of Imix
 >*Medium Elemental, Typically Neutral Evil*
@@ -52,6 +58,12 @@ Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies 
 
 ## Firenewt Warrior
 ***A firenewt warrior can spew fire.*** Many of these warriors have a close relationship with giant striders (in this book). They provide shelter, food, and breeding grounds in their lairs for giant striders, which then voluntarily serve them as mounts.
+
+### Environment
+(FIXME)
+
+### Token
+![](FirenewtWarrior-Token.png)
 
 >### Firenewt Warrior
 >*Medium Elemental, Typically Neutral*

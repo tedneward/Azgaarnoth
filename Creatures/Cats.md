@@ -1,12 +1,18 @@
 # Cats
 Ranging from the mouser on the farm to the King of Beasts, the feline species, in all its forms, can be found all across Azgaarnoth.
 
-> Jump to: [Cat](#cat) | [Lion](#lion) [Panther](#panther) | [Saber-Toothed Tiger](#saber-toothed-tiger) | [Tiger](#tiger)
+> Jump to: [Cat](Cats.md#cat) | [Lion](Cats.md#lion) | [Panther](Cats.md#panther) | [Saber-Toothed Tiger](Cats.md#saber-toothed-tiger) | [Tiger](Cats.md#tiger)
 
 ---
 
 ## Cat
 Meow. Purr.
+
+### Environment
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
+
+### Token
+![](Cat-Token.png)
 
 >### Cat
 >*Tiny beast, unaligned*
@@ -20,7 +26,7 @@ Meow. Purr.
 >|3 (-4)|15 (+2)|10 (+0)|3 (-4)|12 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -40,6 +46,13 @@ Meow. Purr.
 ---
 
 ## Lion
+The lion is a pack animal, often a single male with several lionesses, who do the actual hunting for the pack. The alpha lion will permit other male lions within the pride only until the cubs are large enough to consider challenging him for the pride, at which point the alpha lion will drive away the other males. As a result, solitary lions are often aggressive when encountered, as they are either hungry and/or looking to establish their dominance.
+
+### Environment
+Desert, Grassland, Hill, Mountain
+
+### Token
+![](Lion-Token.png)
 
 >### Lion
 >*Large beast, unaligned*
@@ -53,7 +66,7 @@ Meow. Purr.
 >|17 (+3)|15 (+2)|13 (+1)|3 (-4)|12 (+1)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -81,6 +94,13 @@ Meow. Purr.
 ---
 
 ## Panther
+(No description given)
+
+### Environment
+Forest, Jungle, Swamp
+
+### Token
+![](Panther-Token.png)
 
 >### Panther
 >*Medium beast, unaligned*
@@ -94,7 +114,7 @@ Meow. Purr.
 >|14 (+2)|15 (+2)|10 (+0)|3 (-4)|14 (+2)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -118,6 +138,13 @@ Meow. Purr.
 ---
 
 ## Saber-Toothed Tiger
+The saber-toothed tiger is a feline predator, typically solitary, that often hunts solely for food or in defense of its territory. If a pair are encountered, there is almost always cubs nearby.
+
+### Environment
+Grassland, Hill
+
+### Token
+![](Saber-ToothedTiger-Token.png)
 
 >### Saber-Toothed Tiger
 >*Large beast, unaligned*
@@ -131,7 +158,7 @@ Meow. Purr.
 >|18 (+4)|14 (+2)|15 (+2)|3 (-4)|12 (+1)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -155,6 +182,13 @@ Meow. Purr.
 ---
 
 ## Tiger
+(No description given)
+
+### Environment
+Grassland, Jungle, Swamp
+
+### Token
+![](Tiger-Token.png)
 
 >### Tiger
 >*Large beast, unaligned*
@@ -168,7 +202,7 @@ Meow. Purr.
 >|17 (+3)|15 (+2)|14 (+2)|3 (-4)|12 (+1)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -188,3 +222,4 @@ Meow. Purr.
 >
 >***Claw.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.
 >
+

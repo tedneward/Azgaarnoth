@@ -21,6 +21,12 @@ An affected creature can repeat the saving throw at the end of each of its turns
 
 ***Gentle Lullaby.*** The creature falls asleep and is unconscious for 1 minute. The effect ends if the creature takes damage or if someone takes an action to shake the creature awake.
 
+### Environment
+(FIXME)
+
+### Token
+![](Satyr-Token.png)
+
 >### Satyr
 >*Medium fey, chaotic neutral*
 >___
@@ -33,7 +39,7 @@ An affected creature can repeat the saving throw at the end of each of its turns
 >|12 (+1)|16 (+3)|11 (+0)|12 (+1)|10 (+0)|14 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

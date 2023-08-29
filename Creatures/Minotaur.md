@@ -7,6 +7,12 @@ Today, minotaurs can be found all over Azgaarnoth, often still working as indivi
 
 ***Playable Race: Fear the Roar.*** [Minotaur](../Races/Minotaurs.md) characters often find that their strength and size lend well to martial classes, particularly barbarians or rangers; for the same reasons, they tend to shy away from roguish ones. Arcane-minded minotaurs often find themselves drawn to druidic, sorcerous, or shamanic professions. Few minotaurs have the time and patience for artifice or wizardry.
 
+### Environment
+Coastal, Desert, Grassland, Hill, Mountain, Urban
+
+### Token
+![](Minotaur-Token.png)
+
 >### Minotaur
 >*Large monstrosity, any chaotic*
 >___
@@ -19,7 +25,7 @@ Today, minotaurs can be found all over Azgaarnoth, often still working as indivi
 >|18 (+4)|11 (+0)|16 (+3)|6 (-2)|16 (+3)|9 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

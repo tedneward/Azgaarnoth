@@ -1,7 +1,7 @@
 # Lizardfolk
 Lizardfolk are reptilian humanoids that both lurk in the swamps and jungles of the world, as well as in small but bustling towns and villages near (or within) those same swamps and jungles. Their hut villages thrive in forbidding grottoes, half-sunken ruins, and watery caverns, while their villages and towns--really just larger versions of the hut villages but with more population and better construction--often line the edges of the swamp or jungle, frequently acting as a trading station between "civilized" races and their more primitive cousins.
 
-> Jump to: [Lizardfolk](#lizardfolk-1) | [Lizardfolk Hunter](#lizardfolk-hunter) | [Lizardfolk Warrior](#lizardfolk-warrior) | [Lizardfolk Shaman](#lizardfolk-shaman) | [Lizardfolk King/Queen](#lizardfolk-kingqueen)
+> Jump to: [Lizardfolk](Lizardfolk.md#lizardfolk) | [Lizardfolk Hunter](Lizardfolk.md#lizardfolk-hunter) | [Lizardfolk Warrior](Lizardfolk.md#lizardfolk-warrior) | [Lizardfolk Shaman](Lizardfolk.md#lizardfolk-shaman) | [Lizardfolk King/Queen](Lizardfolk.md#lizardfolk-kingqueen)
 
 ***Territorial Xenophobes.*** Lizardfolk deal and trade with other races only rarely. Fiercely territorial, they use camouflaged scouts to guard the perimeter of their domain. When unwelcome visitors are detected, a tribe sends a hunting band to harass or drive the trespassers off, or tricks them into blundering into the lairs of crocodiles and other dangerous creatures.
 
@@ -22,6 +22,12 @@ Occasions might arise when lizardfolk will form alliances with their neighbors. 
 ## Lizardfolk
 The average lizardfolk tribe member, of either gender, is slightly smaller and less aggressive than the lizardfolk most others encounter except when in a lizardfolk village or town. They are no less fierce or aggressive, however, when duty or threats compel them to take up arms to defend their own.
 
+### Environment
+Grassland, Swamp, Underdark
+
+### Token
+![](Lizardfolk-Token.png)
+
 >### Lizardfolk
 >*Medium humanoid (lizardfolk), neutral*
 >___
@@ -34,7 +40,7 @@ The average lizardfolk tribe member, of either gender, is slightly smaller and l
 >|15 (+2)|10 (+0)|13 (+1)|7 (-2)|12 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -61,6 +67,12 @@ The average lizardfolk tribe member, of either gender, is slightly smaller and l
 
 ## Lizardfolk Hunter
 Lizardfolk hunters are those lizardfolk who routinely journey out of the village borders to obtain prey, scout for intruders, and report on what occurs beyond the heart of the village. Many hunters find themselves drawn to combat, and become warriors, while others hear the call of nature more directly, and become druids or rangers.
+
+### Environment
+Grassland, Swamp, Underdark
+
+### Token
+![](LizardfolkHunter-Token.png)
 
 >### Lizardfolk Hunter
 >*Medium humanoid, neutral*
@@ -106,6 +118,12 @@ Warriors are the defenders of the tribe, steeped in combat and sometimes even ta
 
 ***Mounted Warriors.*** Lizardfolk warriors will often make use of [Giant Lizards](./Lizard.md#giant-lizard) as mounts in combat, and these pairings are often lifelong bonds between warrior and mount. They two may act on the same initiative, and combine their actions.
 
+### Environment
+Grassland, Swamp, Underdark
+
+### Token
+![](LizardfolkWarrior-Token.png)
+
 >### Lizardfolk Warrior
 >*Medium humanoid, neutral*
 >___
@@ -146,7 +164,13 @@ Warriors are the defenders of the tribe, steeped in combat and sometimes even ta
 ---
 
 ## Lizardfolk Shaman
-***Lizardfolk Leaders.*** Lizardfolk respect and fear magic with a religious awe. Lizardfolk shamans lead their tribes, overseeing rites and ceremonies performed to honor Semuanya. 
+***Lizardfolk Leaders.*** Lizardfolk respect and fear magic with a religious awe. Lizardfolk shamans lead their tribes, overseeing rites and ceremonies performed to honor Semuanya.
+
+### Environment
+Grassland, Swamp, Underdark
+
+### Token
+![](LizardfolkShaman-Token.png)
 
 >### Lizardfolk Shaman
 >*Medium humanoid (lizardfolk), neutral*
@@ -183,9 +207,13 @@ Warriors are the defenders of the tribe, steeped in combat and sometimes even ta
 >***Change Shape (Recharges after a Short or Long Rest).*** The lizardfolk magically polymorphs into a crocodile, remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 >
 >***Spellcasting (Lizardfolk Form Only).*** The lizardfolk is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The lizardfolk has the following druid spells prepared:
+>
 >* Cantrips (at will): druidcraft, produce flame, thorn whip
+>
 >* 1st Level (4 slots): entangle, fog cloud
+>
 >* 2nd Level (3 slots): heat metal, spike growth
+>
 >* 3rd Level (2 slots): conjure animals (reptiles only), plant growth
 >
 
@@ -195,6 +223,12 @@ Warriors are the defenders of the tribe, steeped in combat and sometimes even ta
 Lizardfolk born in Sess'inek's image are larger and more cunning than other lizardfolk, and are thoroughly evil. These lizard "kings" and "queens" dominate lizardfolk tribes, usurping a shaman's authority and inspiring uncharacteristic aggression among their subjects. Some have managed to slip past Sess'inek's grasp, while others have been put down by a concerted effort of lizardfolk villagers that seek to evade their evil god's domination.
 
 ***Dragon Worshipers.*** Lizardfolk speak Draconic, which they are thought to have learned from dragons in ancient times. A tribe that wanders into the territory of a dragon will offer it tribute to win its favor. An evil dragon might exploit lizardfolk for its own vile ends, turning them into raiders and plunderers. For this reason, many lizardfolk are sought out as allies of the [Wyrmcult](../Organizations/CultOfTheWyrm.md), and many lizardfolk villages and towns often hide Wyrmcult secrets. It is for these same reasons that many "westerners" distrust the lizardfolk, even those that have nothing to do with the chromatic dragons and their cultists.
+
+### Environment
+Grassland, Swamp, Underdark
+
+### Token
+![](LizardfolkKing/Queen-Token.png)
 
 >### Lizardfolk King/Queen
 >*Medium humanoid (lizardfolk), chaotic evil*

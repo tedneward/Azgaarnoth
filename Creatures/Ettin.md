@@ -15,6 +15,13 @@ An ettin's twin heads are always the same gender, with a body to match. Females 
 
 Whatever the truth of the ettins' origin, orcs treat them as distant cousins, and orc tribes often entice ettins to serve as guards, scouts, and marauders. An ettin isn't particularly loyal to its orc handlers, but the orcs can win it over with the promise of food and loot.
 
+As the Hordes have civilized, some effort has been made to bring the ettins into a more mundane existence. This has met with mixed and varied success, to the point where ettins can often be found in the retinue of Hordish merchants, mercenaries, and cities.
+
+### Environment
+Forest, Mountain, Ruins, Urban
+
+### Token
+![](Ettin-Token.png)
 
 >### Ettin
 >*Large giant, chaotic evil*
@@ -28,7 +35,7 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
 >|21 (+5)|8 (-1)|17 (+3)|6 (-2)|10 (+0)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

@@ -19,7 +19,7 @@ A quasit can assume animal forms, but in its true form it looks like a 2-foot-ta
 >|5 (-3)|17 (+3)|10 (+0)|7 (-2)|10 (+0)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks

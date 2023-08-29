@@ -1,11 +1,18 @@
 # Crocodiles
 The crocodile is common to the marshlands of [Yithi](../Nations/Yithi.md), [Zhi](../Nations/Zhi.md), and southeastern [Liria](../Nations/Liria.md). They are also found, but more rarely, along the shores of many of the larger rivers across all of Azgaarnoth.
 
-> Jump to: [Crocodile](#crocodile) | [Giant Crocodile](#giant-crocodile)
+> Jump to: [Crocodile](Crocodiles.md#crocodile) | [Giant Crocodile](Crocodiles.md#giant-crocodile)
 
 ---
 
 ## Crocodile
+(No description given)
+
+### Environment
+Coastal, Swamp, Underwater
+
+### Token
+![](Crocodile-Token.png)
 
 >### Crocodile
 >*Large beast, unaligned*
@@ -19,7 +26,7 @@ The crocodile is common to the marshlands of [Yithi](../Nations/Yithi.md), [Zhi]
 >|15 (+2)|10 (+0)|13 (+1)|2 (-4)|10 (+0)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -39,6 +46,13 @@ The crocodile is common to the marshlands of [Yithi](../Nations/Yithi.md), [Zhi]
 ---
 
 ## Giant Crocodile
+Giant crocs are less common than their normal-sized cousins, but still common enough to justify significant precautions when operating alone in their natural habitats.
+
+### Environment
+Coastal, Swamp, Underwater
+
+### Token
+![](GiantCrocodile-Token.png)
 
 >### Giant Crocodile
 >*Huge beast, unaligned*
@@ -52,7 +66,7 @@ The crocodile is common to the marshlands of [Yithi](../Nations/Yithi.md), [Zhi]
 >|21 (+5)|9 (-1)|17 (+3)|2 (-4)|10 (+0)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -72,3 +86,4 @@ The crocodile is common to the marshlands of [Yithi](../Nations/Yithi.md), [Zhi]
 >
 >***Tail.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target not grappled by the crocodile. Hit: 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
 >
+

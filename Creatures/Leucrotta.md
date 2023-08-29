@@ -1,7 +1,7 @@
 ## Leucrotta
 A leucrotta is what you would get if you took the head of a giant badger, the legs of a deer, and the body of a large hyena, then put them together and reanimated them with demon ichor without bothering to cover up the stink of death.
 
-The first leucrottas came into being alongside some gnolls during the rampages of Yeenoghu on the Material Plane. While many of the hyenas that ate Yeenoghu's kills transformed into gnolls, others underwent more bizarre changes; leucrottas were the most numerous of these.
+It is said that the first leucrottas came into being alongside some gnolls during the rampages of Yeenoghu on the Material Plane. While many of the hyenas that ate Yeenoghu's kills transformed into gnolls, others underwent more bizarre changes; leucrottas were the most numerous of these. What is known is that when the Hordes descended upon Azgaarnoth, leucrottas were a part of the initial ravening. Since that time, leucrottas have almost entirely moved to join the Ulmhorde, though some few still remain with the United Hordes, seeking to return the Hordes to the old ways.
 
 As clever as it is cruel, a leucrotta loves to deceive, torture, and kill. Creatures who venerate Yeenoghu--particularly his gnoll followers--view leucrottas with great respect. Although a leucrotta is unlikely to lead a gnoll war band, it can influence the leader and might agree to carry the leader into battle and offer advice during the fight. Followers of Yeenoghu also see leucrottas as a form of entertainment. They enjoy watching a leucrotta work almost as much as they like doing their own killing, since leucrottas are meticulous in their cruelty and able to draw out kills for better and longer sport. And when there are no victims to be had, a leucrotta can mimic the delightful squeals of a suffering victim.
 
@@ -9,6 +9,11 @@ A leucrotta is so loathsome that few outside of its own kind can stand to be aro
 
 A leucrotta's stench would normally warn away prey long before the creature could attack. It has two natural capabilities, however, that give it an advantage. First, a leucrotta's tracks are nearly impossible to distinguish from those of common deer. Second, it can duplicate the call or the vocal expressions of just about any creature it has heard. The monster uses its mimicry to lure in potential victims, then attacks while they are confused or unaware of the actual threat.
 
+### Environment
+Extraplanar, Conjured/Summoned
+
+### Token
+![](Leucrotta-Token.png)
 
 >### Leucrotta
 >*Large Monstrosity, Typically Chaotic Evil*

@@ -1,12 +1,18 @@
 # Remorhazes
 From beneath the snow and ice bursts a remorhaz in a cloud of steam, its body pulsing with internal fire. Winglike fins flare from the back of the creature's head, and its wide mouth brims with jagged teeth.
 
-> Jump to: [Remorhaz](#remorhaz-1) | [Young Remorhaz](#young-remorhaz)
+> Jump to: [Remorhaz](Remorhazes.md#remorhaz) | [Young Remorhaz](Remorhazes.md#young-remorhaz)
 
 ---
 
 ## Remorhaz
 ***Arctic Predators.*** Remorhazes live in arctic climes, preying on elk, polar bears, and other creatures sharing their territory. They can't tolerate warm weather, having adapted to the cold by generating a furnace-like heat within their bodies. When hunting, a remorhaz burrows deep below the snow and ice and lies in wait for the faint vibrations created by a creature moving above it. While hidden under the ice and snow, it can lower its body temperature so that it doesn't melt its cover.
+
+### Environment
+(FIXME)
+
+### Token
+![](Remorhaz-Token.png)
 
 >### Remorhaz
 >*Huge monstrosity, unaligned*
@@ -20,7 +26,7 @@ From beneath the snow and ice bursts a remorhaz in a cloud of steam, its body pu
 >|24 (+7)|13 (+1)|21 (+5)|4 (-3)|10 (+0)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -46,6 +52,12 @@ From beneath the snow and ice bursts a remorhaz in a cloud of steam, its body pu
 ## Young Remorhaz
 ***Young Ones.*** Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants prize young remorhazes, which can be trained from hatching to obey commands and guard the giants' icy citadels. Unlike fully grown specimens, young remorhazes gnaw on their victims instead of swallowing them whole.
 
+### Environment
+(FIXME)
+
+### Token
+![](YoungRemorhaz-Token.png)
+
 >### Young Remorhaz
 >*Large monstrosity, unaligned*
 >___
@@ -58,7 +70,7 @@ From beneath the snow and ice bursts a remorhaz in a cloud of steam, its body pu
 >|18 (+4)|13 (+1)|17 (+3)|3 (-4)|10 (+0)|4 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -74,3 +86,4 @@ From beneath the snow and ice bursts a remorhaz in a cloud of steam, its body pu
 >#### Actions
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 20 (3d10 + 4) piercing damage plus 7 (2d6) fire damage.
 >
+

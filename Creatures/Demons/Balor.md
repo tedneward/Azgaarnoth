@@ -15,7 +15,7 @@ Wielding a flaming whip and a longsword that channels the power of the storm, a 
 >|26 (+8)|15 (+2)|22 (+6)|20 (+5)|16 (+3)|22 (+6)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +6
 >- **Saving Throws** Str +14,Con +12,Wis +9,Cha +12
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,lightning; bludgeoning,piercing,and slashing from nonmagical attacks

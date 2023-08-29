@@ -11,11 +11,16 @@ Fine strands of silk stream from glands in an ettercap's abdomen, letting it sho
 
 ***Enemies of the Fey.*** Ettercaps are natural enemies of fey creatures. The foul creatures set web snares to catch sprites and pixies, which they hungrily devour, and will encase a dryad's tree in webbing in a vain attempt to trap the dryad. Otherwise timid fey will sometimes approach outsiders for help in dealing with an ettercap infestation, being ill-equipped to deal with the malevolent creatures themselves.
 
-***VARIANT: WEB GARROTE.*** Some ettercaps like to strangle prey using garrotes fashioned from webbing. An ettercap so armed gains the following action option, which it uses in place of its claws.
+***Variant: Web Garrote.*** Some ettercaps like to strangle prey using garrotes fashioned from webbing. An ettercap so armed gains the following action option, which it uses in place of its claws.
 
 > ***Web Garrote.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one Medium or Small creature against which the ettercap has advantage on the attack roll. Hit: 4 (1d4 + 2) bludgeoning damage, and the target is grappled (escape DC 12). Until this grapple ends, the target can't breathe, and the ettercap has advantage on attack rolls against it.
+>
 
+### Environment
+Forest, Ruins, Underdark
 
+### Token
+![](Ettercap-Token.png)
 
 >### Ettercap
 >*Medium monstrosity, neutral evil*
@@ -29,7 +34,7 @@ Fine strands of silk stream from glands in an ettercap's abdomen, letting it sho
 >|14 (+2)|15 (+2)|13 (+1)|7 (-2)|12 (+1)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

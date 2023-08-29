@@ -15,7 +15,7 @@ Outside the Abyss, a yochlol can assume the guise of a female drow or monstrous 
 >|15 (+2)|14 (+2)|18 (+4)|13 (+1)|15 (+2)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Dex +6,Int +5,Wis +6,Cha +6
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning; bludgeoning,piercing,and slashing from nonmagical attacks

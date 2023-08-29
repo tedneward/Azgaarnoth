@@ -1,4 +1,4 @@
-## Duergar
+# Duergar
 Duergar are dwarves of the deep reaches of the Underdark and other sunless realms. Their personalities and abilities have been deeply impacted by their ancestors' captivity and torment by mind flayers; they were infused with powerful psionic abilities but also a profound gloom. In some, this strain of sorrow inspires works of grand but melancholic beauty, while in others, it manifests as rage. Most duergar (including females) are bald and have ashen gray skin. They wear drab clothing designed to blend in with stone, along with simple jewelry that reflects their severe and utilitarian demeanor.
 
 > Jump to: [Duergar](#duergar-1) | [Duergar Despot](#duergar-despot) | [Duergar Kavalrachni](#duergar-kavalrachni) | [Duergar Mind Master](#duergar-mind-master) | [Duergar Soulblade](#duergar-soulblade) | [Duergar Stone Guard](#duergar-stone-guard) | [Duergar Warlord](#duergar-warlord) | [Duergar Xarrorn](#duergar-xarrorn)
@@ -21,6 +21,15 @@ Eons spent in the Underdark also sharpened their darkvision, allowing them to se
 
 ---
 
+## Duergar 
+(No description given)
+
+### Environment
+Underdark
+
+### Token
+![](Duergar-Token.png)
+
 >### Duergar
 >*Medium humanoid (dwarf), lawful evil*
 >___
@@ -33,7 +42,7 @@ Eons spent in the Underdark also sharpened their darkvision, allowing them to se
 >|14 (+2)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** poison
@@ -57,11 +66,16 @@ Eons spent in the Underdark also sharpened their darkvision, allowing them to se
 >
 >***Javelin.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarged.
 >
-
 ---
-
+>
 ## Duergar Despot
 Duergar despots replace parts of their bodies with mechanical devices that they control through their psionic abilities.
+
+### Environment
+Underdark
+
+### Token
+![](Duergar-Token.png)
 
 >### Duergar Despot
 >*Medium Humanoid (Dwarf), Any Alignment*
@@ -73,18 +87,20 @@ Duergar despots replace parts of their bodies with mechanical devices that they 
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|5 (-3)|19 (+4)|15 (+2)|14 (+2)|13 (+1)|
->
 >___
 >- **Proficiency Bonus** +4
 >- **Saving Throws** Con +8,Wis +6
->- **Damage Vulnerabilities** 
->- **Damage Resistances** 
+>- **Damage Vulnerabilities**
+>- **Damage Resistances**
 >- **Damage Immunities** poison
 >- **Condition Immunities** charmed,exhaustion,frightened,paralyzed,poisoned
->- **Skills** 
+>- **Skills**
 >- **Senses** darkvision 120 ft.,passive Perception 12
+>
 >- **Languages** Dwarvish,Undercommon
+>
 >- **Challenge** 12
+>
 >___
 >***Magic Resistance.*** The duergar has advantage on saving throws against spells and other magical effects.
 >
@@ -102,16 +118,20 @@ Duergar despots replace parts of their bodies with mechanical devices that they 
 >***Flame Jet.*** The duergar spews flames in a line 100 feet long and 5 feet wide. Each creature in the line must make a DC 16 Dexterity saving throw, taking 18 (4d8) fire damage on a failed save, or half as much damage on a successful one.
 >
 >***Spellcasting (Psionics).*** The duergar casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 12):
->
->At will: mage hand, minor illusion
->
->1/day: stinking cloud
+>* At will: mage hand, minor illusion
+>* 1/day: stinking cloud
 >
 
 ---
 
 ## Duergar Kavalrachni
 Kavalrachni are duergar cavalry trained to fight while riding female steeders (in this book) or other Underdark creatures as mounts.
+
+### Environment
+Underdark
+
+### Token
+![](Duergar-Token.png)
 
 >### Duergar Kavalrachni
 >*Medium Humanoid (Dwarf), Any Alignment*
@@ -123,15 +143,14 @@ Kavalrachni are duergar cavalry trained to fight while riding female steeders (i
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)|
->
 >___
 >- **Proficiency Bonus** +2
->- **Saving Throws** 
->- **Damage Vulnerabilities** 
+>- **Saving Throws**
+>- **Damage Vulnerabilities**
 >- **Damage Resistances** poison
->- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** 
+>- **Damage Immunities**
+>- **Condition Immunities**
+>- **Skills**
 >- **Senses** darkvision 120 ft.,passive Perception 10
 >- **Languages** Dwarvish,Undercommon
 >- **Challenge** 2
@@ -149,13 +168,21 @@ Kavalrachni are duergar cavalry trained to fight while riding female steeders (i
 >
 >***Heavy Crossbow.*** Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.
 >
->Shared Invisibility (Recharges after a Short or Long Rest). The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it. While the invisible duergar is mounted, the mount is invisible as well. The invisibility ends early on the mount immediately after it attacks.
+>***Shared Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it. While the invisible duergar is mounted, the mount is invisible as well. The invisibility ends early on the mount immediately after it attacks.
 >
 
 ---
 
 ## Duergar Mind Master
 Wearing fearsome masks, duergar mind masters usually operate as spies, both inside and beyond a duergar stronghold. Their psionically augmented abilities enable them to see through illusions with ease and shrink down to miniature size to spy on their targets.
+
+![](Duergar-MindMaster.png)
+
+### Environment
+Underdark
+
+### Token
+![](Duergar-Token.png)
 
 >### Duergar Mind Master
 >*Medium Humanoid (Dwarf), Any Alignment*
@@ -167,14 +194,13 @@ Wearing fearsome masks, duergar mind masters usually operate as spies, both insi
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|17 (+3)|14 (+2)|15 (+2)|10 (+0)|12 (+1)|
->
 >___
 >- **Proficiency Bonus** +2
 >- **Saving Throws** Wis +2
->- **Damage Vulnerabilities** 
+>- **Damage Vulnerabilities**
 >- **Damage Resistances** poison
->- **Damage Immunities** 
->- **Condition Immunities** 
+>- **Damage Immunities**
+>- **Condition Immunities**
 >- **Skills** Perception +2,Stealth +5
 >- **Senses** darkvision 120 ft.,truesight 30 ft.,passive Perception 12
 >- **Languages** Dwarvish,Undercommon
@@ -189,18 +215,24 @@ Wearing fearsome masks, duergar mind masters usually operate as spies, both insi
 >
 >***Mind-Poison Dagger.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 10 (3d6) psychic damage, or 1 piercing damage plus 10 (3d6) psychic damage while under the effect of Reduce.
 >
->***Invisibility (Recharge 4�6).*** The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
+>***Invisibility (Recharge 4-6).*** The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
 >
 >***Mind Mastery.*** The duergar targets one creature it can see within 60 feet of it. The target must succeed on a DC 12 Intelligence saving throw, or the duergar causes it to use its reaction, if available, either to make one weapon attack against another creature the duergar can see or to move up to 10 feet in a direction of the duergar's choice. Creatures that can't be charmed are immune to this effect.
 >
 >#### Bonus Actions
->Reduce (Recharges after a Short or Long Rest). For 1 minute, the duergar magically decreases in size, along with anything it is wearing or carrying. While reduced, the duergar is Tiny, reduces its weapon damage to 1, and makes attack rolls, ability checks, and saving throws with disadvantage if they use Strength. It gains a +5 bonus to all Dexterity (Stealth) checks and a +5 bonus to its AC. It can also take a bonus action on each of its turns to take the Hide action.
+>***Reduce (Recharges after a Short or Long Rest).*** For 1 minute, the duergar magically decreases in size, along with anything it is wearing or carrying. While reduced, the duergar is Tiny, reduces its weapon damage to 1, and makes attack rolls, ability checks, and saving throws with disadvantage if they use Strength. It gains a +5 bonus to all Dexterity (Stealth) checks and a +5 bonus to its AC. It can also take a bonus action on each of its turns to take the Hide action.
 >
 
 ---
 
 ## Duergar Soulblade
 Soulblades are duergar combatants whose mastery of psionics allows them to manifest blades of psychic energy to slice apart their foes.
+
+### Environment
+Underdark
+
+### Token
+![](Duergar-Token.png)
 
 >### Duergar Soulblade
 >*Medium Humanoid (Dwarf), Any Alignment*
@@ -212,15 +244,14 @@ Soulblades are duergar combatants whose mastery of psionics allows them to manif
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|10 (+0)|11 (+0)|10 (+0)|12 (+1)|
->
 >___
 >- **Proficiency Bonus** +2
->- **Saving Throws** 
->- **Damage Vulnerabilities** 
+>- **Saving Throws**
+>- **Damage Vulnerabilities**
 >- **Damage Resistances** poison
->- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** 
+>- **Damage Immunities**
+>- **Condition Immunities**
+>- **Skills**
 >- **Senses** darkvision 120 ft.,passive Perception 10
 >- **Languages** Dwarvish,Undercommon
 >- **Challenge** 1
@@ -232,16 +263,24 @@ Soulblades are duergar combatants whose mastery of psionics allows them to manif
 >#### Actions
 >***Soulblade.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) force damage, or 17 (4d6 + 3) force damage while under the effect of Enlarge.
 >
->Invisibility (Recharges after a Short or Long Rest). The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
+>***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
 >
 >#### Bonus Actions
->Enlarge (Recharges after a Short or Long Rest). For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
+>***Enlarge (Recharges after a Short or Long Rest).*** For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
 >
 
 ---
 
 ## Duergar Stone Guard
 Stone guards are elite troops deployed in small numbers to bolster war bands of regulars or organized into elite strike forces for specific missions.
+
+![](Duergar-StoneGuard.png)
+
+### Environment
+Underdark
+
+### Token
+![](Duergar-Token.png)
 
 >### Duergar Stone Guard
 >*Medium Humanoid (Dwarf), Any Alignment*
@@ -253,15 +292,14 @@ Stone guards are elite troops deployed in small numbers to bolster war bands of 
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)|
->
 >___
 >- **Proficiency Bonus** +2
->- **Saving Throws** 
->- **Damage Vulnerabilities** 
+>- **Saving Throws**
+>- **Damage Vulnerabilities**
 >- **Damage Resistances** poison
->- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** 
+>- **Damage Immunities**
+>- **Condition Immunities**
+>- **Skills**
 >- **Senses** darkvision 120 ft.,passive Perception 10
 >- **Languages** Dwarvish,Undercommon
 >- **Challenge** 2
@@ -279,16 +317,24 @@ Stone guards are elite troops deployed in small numbers to bolster war bands of 
 >
 >***Javelin.*** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4) piercing damage while under the effect of Enlarge.
 >
->Invisibility (Recharges after a Short or Long Rest). The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
+>***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
 >
 >#### Bonus Actions
->Enlarge (Recharges after a Short or Long Rest). For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
+>***Enlarge (Recharges after a Short or Long Rest).*** For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
 >
 
 ---
 
 ## Duergar Warlord
 A warlord is cunning, inspiring, and merciless in equal parts. A skilled leader in battle, the warlord can use spikes of psionic energy to compel the warriors they command to fight harder.
+
+![](Duergar-MindMaster.png)
+
+### Environment
+Underdark
+
+### Token
+![](Duergar-Token.png)
 
 >### Duergar Warlord
 >*Medium Humanoid (Dwarf), Any Alignment*
@@ -300,15 +346,14 @@ A warlord is cunning, inspiring, and merciless in equal parts. A skilled leader 
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|17 (+3)|12 (+1)|12 (+1)|14 (+2)|
->
 >___
 >- **Proficiency Bonus** +3
->- **Saving Throws** 
->- **Damage Vulnerabilities** 
+>- **Saving Throws**
+>- **Damage Vulnerabilities**
 >- **Damage Resistances** poison
->- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** 
+>- **Damage Immunities**
+>- **Condition Immunities**
+>- **Skills**
 >- **Senses** darkvision 120 ft.,passive Perception 11
 >- **Languages** Dwarvish,Undercommon
 >- **Challenge** 6
@@ -326,10 +371,10 @@ A warlord is cunning, inspiring, and merciless in equal parts. A skilled leader 
 >
 >***Call to Attack.*** Up to three allies within 120 feet of this duergar that can hear it can each use their reaction to make one weapon attack.
 >
->***Invisibility (Recharge 4�6).*** The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
+>***Invisibility (Recharge 4-6).*** The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
 >
 >#### Bonus Actions
->Enlarge (Recharges after a Short or Long Rest). For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
+>***Enlarge (Recharges after a Short or Long Rest).*** For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
 >
 >#### Reactions
 >***Scouring Instruction.*** When an ally that the duergar can see makes a d20 roll, the duergar can roll a d6, and the ally can add the number rolled to the d20 by taking 3 (1d6) psychic damage.
@@ -339,6 +384,14 @@ A warlord is cunning, inspiring, and merciless in equal parts. A skilled leader 
 
 ## Duergar Xarrorn
 Xarrorn are specialists who construct weapons using a mixture of alchemy and psionics.
+
+![](Duergar-MindMaster.png)
+
+### Environment
+Underdark
+
+### Token
+![](Duergar-Token.png)
 
 >### Duergar Xarrorn
 >*Medium Humanoid (Dwarf), Any Alignment*
@@ -350,15 +403,14 @@ Xarrorn are specialists who construct weapons using a mixture of alchemy and psi
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)|
->
 >___
 >- **Proficiency Bonus** +2
->- **Saving Throws** 
->- **Damage Vulnerabilities** 
+>- **Saving Throws**
+>- **Damage Vulnerabilities**
 >- **Damage Resistances** poison
->- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** 
+>- **Damage Immunities**
+>- **Condition Immunities**
+>- **Skills**
 >- **Senses** darkvision 120 ft.,passive Perception 10
 >- **Languages** Dwarvish,Undercommon
 >- **Challenge** 2
@@ -372,9 +424,8 @@ Xarrorn are specialists who construct weapons using a mixture of alchemy and psi
 >
 >***Fire Spray (Recharge 5�6).*** From its fire lance, the duergar shoots a 15-foot cone of fire or a line of fire 30 feet long and 5 feet wide. Each creature in that area must make a DC 12 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one.
 >
->Invisibility (Recharges after a Short or Long Rest). The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
+>***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
 >
 >#### Bonus Actions
->Enlarge (Recharges after a Short or Long Rest). For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
+>***Enlarge (Recharges after a Short or Long Rest).*** For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
 >
-

@@ -9,6 +9,12 @@ Treants are awakened trees that dwell in ancient forests. Although treants prefe
 
 Woodcutters who avoid culling healthy living trees and hunters who take only what they need of the forest's bounty are unlikely to arouse a treant's ire. Creatures careless with fire, those who poison the forest, and those who destroy great trees, especially a tree close to awakening, face the treant's wrath.
 
+### Environment
+Forest
+
+### Token
+![](Treant-Token.png)
+
 >### Treant
 >*Huge plant, chaotic good*
 >___
@@ -21,7 +27,7 @@ Woodcutters who avoid culling healthy living trees and hunters who take only wha
 >|23 (+6)|8 (-1)|21 (+5)|12 (+1)|16 (+3)|12 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** fire
 >- **Damage Resistances** bludgeoning,piercing

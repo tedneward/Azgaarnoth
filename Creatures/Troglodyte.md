@@ -9,6 +9,12 @@ Troglodytes make little and build less, scavenging their possessions from their 
 
 ***Devotees of Laogzed.*** Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that slumbers in the Abyss. Laogzed offers the troglodytes nothing in return except aspiration, for it is the dream of his troglodyte worshipers to become as well-fed and wearily content as he seems to be.
 
+### Environment
+Underdark
+
+### Token
+![](Troglodyte-Token.png)
+
 >### Troglodyte
 >*Medium humanoid (troglodyte), chaotic evil*
 >___
@@ -21,7 +27,7 @@ Troglodytes make little and build less, scavenging their possessions from their 
 >|14 (+2)|10 (+0)|14 (+2)|6 (-2)|10 (+0)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

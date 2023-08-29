@@ -1,11 +1,18 @@
-# Quipper
+# Quippers
 A quipper is a carnivorous fish with sharp teeth. Quippers can adapt to any aquatic environment, including cold subterranean lakes. They frequently gather in swarms, and are a whole new level of dangerous when encountered as such.
 
-> Jump to: [Quipper](#quipper-1) | [Swarm](#swarm-of-quippers)
+> Jump to: [Quipper](Quipper.md#quipper) | [Swarm of Quippers](Quipper.md#swarm-of-quippers)
 
 ---
 
 ## Quipper
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](Quipper-Token.png)
 
 >### Quipper
 >*Tiny beast, unaligned*
@@ -19,7 +26,7 @@ A quipper is a carnivorous fish with sharp teeth. Quippers can adapt to any aqua
 >|2 (-4)|16 (+3)|9 (-1)|1 (-5)|7 (-2)|2 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -41,6 +48,13 @@ A quipper is a carnivorous fish with sharp teeth. Quippers can adapt to any aqua
 ---
 
 ## Swarm of Quippers
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](SwarmofQuippers-Token.png)
 
 >### Swarm of Quippers
 >*Medium swarm, unaligned*
@@ -54,7 +68,7 @@ A quipper is a carnivorous fish with sharp teeth. Quippers can adapt to any aqua
 >|13 (+1)|16 (+3)|9 (-1)|1 (-5)|7 (-2)|2 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning,piercing,slashing
@@ -74,3 +88,4 @@ A quipper is a carnivorous fish with sharp teeth. Quippers can adapt to any aqua
 >#### Actions
 >***Bites.*** Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 >
+

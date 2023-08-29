@@ -1,11 +1,18 @@
 # Goats
 
 
-> Jump to: [Goat](#goat) | [Giant Goat](#giant-goat)
+> Jump to: [Giant Goat](Goats.md#giant-goat) | [Goat](Goats.md#goat)
 
 ---
 
 ## Giant Goat
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](GiantGoat-Token.png)
 
 >### Giant Goat
 >*Large beast, unaligned*
@@ -19,7 +26,7 @@
 >|17 (+3)|11 (+0)|12 (+1)|3 (-4)|12 (+1)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -41,6 +48,13 @@
 ---
 
 ## Goat
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](Goat-Token.png)
 
 >### Goat
 >*Medium beast, unaligned*
@@ -54,7 +68,7 @@
 >|12 (+1)|10 (+0)|11 (+0)|2 (-4)|10 (+0)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -72,3 +86,4 @@
 >#### Actions
 >***Ram.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.
 >
+

@@ -19,14 +19,11 @@ A unicorn roams its domain constantly, moving ever so carefully so as not to dis
 
 As long as the troubled times of darkness persist, the unicorn stays by the champion, its horn shining brightly to drive back the night. However, if the gods' champion falls from grace or turns from the cause of righteousness and good, the unicorn departs, never to return.
 
-***A Unicorn's Lair.*** A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing surrounded by mighty oaks, a flower-covered hilltop alive with butterflies, or some other serene woodland location. Transformed by the creature's celestial presence, the domain of a unicorn might include any of the following magical effects:
+### Environment
+Forest
 
-* Open flames of a nonmagical nature are extinguished within the unicorn's domain. Torches and campfires refuse to burn, but closed lanterns are unaffected.
-* Creatures native to the unicorn's domain have an easier time hiding; they have advantage on all Dexterity (Stealth) checks made to hide.
-* When a good-aligned creature casts a spell or uses a magical effect that causes another good-aligned creature to regain hit points, the target regains the maximum number of hit points possible for the spell or effect.
-* Curses affecting any good-aligned creature are suppressed.
-
-If the unicorn dies, these effects end immediately.
+### Token
+![](Unicorn-Token.png)
 
 >### Unicorn
 >*Large celestial, lawful good*
@@ -40,7 +37,7 @@ If the unicorn dies, these effects end immediately.
 >|18 (+4)|14 (+2)|15 (+2)|11 (+0)|17 (+3)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -83,3 +80,19 @@ If the unicorn dies, these effects end immediately.
 >
 >***Heal Self (Costs 3 Actions).*** The unicorn magically regains 11 (2d8 + 2) hit points.
 >
+### A Unicorn's Lair. 
+A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing surrounded by mighty oaks, a flower-covered hilltop alive with butterflies, or some other serene woodland location. 
+
+#### Regional Effects
+Transformed by the creature's celestial presence, the domain of a unicorn might include any of the following magical effects:
+
+* Open flames of a nonmagical nature are extinguished within the unicorn's domain. Torches and campfires refuse to burn, but closed lanterns are unaffected.
+
+* Creatures native to the unicorn's domain have an easier time hiding; they have advantage on all Dexterity (Stealth) checks made to hide.
+
+* When a good-aligned creature casts a spell or uses a magical effect that causes another good-aligned creature to regain hit points, the target regains the maximum number of hit points possible for the spell or effect.
+
+* Curses affecting any good-aligned creature are suppressed.
+
+If the unicorn dies, these effects end immediately.
+

@@ -1,7 +1,7 @@
 # Githyanki
 Githyanki descend from an ancient people who were also the progenitors of githzerai (also in this book). These tall, gaunt folk have potent psionic powers and dwell, for the most part, on the Astral Plane. Among the best-known githyanki are the bellicose followers of the Lich Queen Vlaakith. They terrorize the Astral Plane, raiding into other planes to plunder the multiverse of its magic and riches.
 
-> Jump to: [Githyanki Warrior](#githyanki-warrior) | [Githyanki Knight](#githyanki-knight) | [Githyanki Gish](#githyanki-gish) | [Githyanki Kith'rak](#githyanki-kith'rak) | [Githyanki General](#githyanki-general)
+> Jump to: [Githyanki Warrior](Githyanki.md#githyanki-warrior) | [Githyanki Knight](Githyanki.md#githyanki-knight) | [Githyanki Gish](Githyanki.md#githyanki-gish) | [Githyanki Kith'rak](Githyanki.md#githyanki-kith'rak) | [Githyanki General](Githyanki.md#githyanki-general)
 
 ***Followers of Gith.*** In their own language, githyanki means "followers of Gith." Under the guidance of Gith, the githyanki stratified into a militaristic society, with a strict caste system, dedicated to the ongoing fight against the victims and sworn enemies of their race. When their leader Gith perished, she was replaced by her undead adviser, Vlaakith. The lich-queen forbade worship of all beings except herself.
 
@@ -22,6 +22,13 @@ In the eyes of the githyanki, each silver sword is a priceless relic and a work 
 ---
 
 ## Githyanki Warrior
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](GithyankiWarrior-Token.png)
 
 >### Githyanki Warrior
 >*Medium humanoid (gith), lawful evil*
@@ -35,7 +42,7 @@ In the eyes of the githyanki, each silver sword is a priceless relic and a work 
 >|15 (+2)|14 (+2)|12 (+1)|13 (+1)|13 (+1)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Con +3,Int +3,Wis +3
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -61,6 +68,13 @@ In the eyes of the githyanki, each silver sword is a priceless relic and a work 
 ---
 
 ## Githyanki Knight
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](GithyankiKnight-Token.png)
 
 >### Githyanki Knight
 >*Medium humanoid (gith), lawful evil*
@@ -74,7 +88,7 @@ In the eyes of the githyanki, each silver sword is a priceless relic and a work 
 >|16 (+3)|14 (+2)|15 (+2)|14 (+2)|14 (+2)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Con +5,Int +5,Wis +5
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -103,6 +117,12 @@ In the eyes of the githyanki, each silver sword is a priceless relic and a work 
 
 ## Githyanki Gish
 Gish blend their magical abilities with swordplay to become dangerous foes in battle. Their specialized capabilities make them well suited for assassination, raiding, and espionage.
+
+### Environment
+(FIXME)
+
+### Token
+![](GithyankiGish-Token.png)
 
 >### Githyanki Gish
 >*Medium Humanoid (Gith, Wizard), Any Alignment*
@@ -150,6 +170,12 @@ Gish blend their magical abilities with swordplay to become dangerous foes in ba
 
 ## Githyanki Kith'rak
 Militarized githyanki cultures assign ranks and responsibilities to citizens. Groups of ten warriors follow the commands of sarths (githyanki warriors; see the Monster Manual), while ten sarths obey the commands of a mighty kith'rak. These champions undergo torturous training and psionic testing until they can command the respect of their underlings.
+
+### Environment
+(FIXME)
+
+### Token
+![](GithyankiKith'rak-Token.png)
 
 >### Githyanki Kith'rak
 >*Medium Humanoid (Gith), Any Alignment*
@@ -200,6 +226,12 @@ Militarized githyanki cultures assign ranks and responsibilities to citizens. Gr
 
 ## Githyanki General
 Generals lead armies, each one commanding ten kith'raks, who in turn lead the rest of their forces. Most Generals ride red dragons (see the Monster Manual) into battle.
+
+### Environment
+(FIXME)
+
+### Token
+![](GithyankiGeneral-Token.png)
 
 >### Githyanki General
 >*Medium Humanoid (Gith), Any Alignment*

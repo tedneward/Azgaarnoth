@@ -1,7 +1,7 @@
 # Hags
 Hags represent all that is evil and cruel. Though they resemble withered crones, there is nothing mortal about these monstrous creatures, whose forms reflect only the wickedness in their hearts.
 
-> Jump to: [Annis Hag](#annis-hag) | [Bheur Hag](#bheur-hag) | [Cinder](#cinder-hag) | [Crimson](#crimson-hag) | [Desert](#desert-hag) | [Green](#green-hag) | [Night](#night-hag) | [Sea](#sea-hag) | [Storm](#storm-hag) | [Grimflame](#grimflame)
+> Jump to: [Annis Hag](Hags.md#annis-hag) | [Bheur Hag](Hags.md#bheur-hag) | [Cinder Hag](Hags.md#cinder-hag) | [Crimson Hag](Hags.md#crimson-hag) | [Desert Hag](Hags.md#desert-hag) | [Green Hag](Hags.md#green-hag) | [Night Hag](Hags.md#night-hag) | [Sea Hag](Hags.md#sea-hag) | [Storm Hag](Hags.md#storm-hag) | [Grimflame](Hags.md#grimflame)
 
 ***Faces of Evil.*** Ancient beings with origins in the Feywild, hags are cankers on the mortal world. Their withered faces are framed by long, frayed hair, horrid moles and warts dot their blotchy skin, and their long, skinny fingers are tipped by claws that can slice open flesh with a touch. Their simple clothes are always tattered and filthy.
 
@@ -62,6 +62,12 @@ Much as annis hags befriend children in order to corrupt them, they may adopt a 
 
 A hag can have up to three iron tokens active at one time. As an action, the hag can discern the direction and approximate distance to those active tokens. The hag can deactivate any of those tokens at any distance (no action required), whereupon the token retains its current form but loses its magic.
 
+### Environment
+(FIXME)
+
+### Token
+![](AnnisHag-Token.png)
+
 >### Annis Hag
 >*Large Fey, Typically Chaotic Evil*
 >___
@@ -109,6 +115,12 @@ A bheur hag's skin has the bluish hue of a person who has frozen to death. The h
 Bheur hags are attracted to selfish actions inspired by deadly cold, such as murdering a traveler for a winter coat or chopping down a dryad's grove for firewood. These actions are especially sweet to a bheur if they are unwarranted, such as a greedy merchant hoarding excess food for the winter while others starve. Bheurs use their ability to manipulate weather to batter villages with freezing cold, hoping to instill a despair that turns folk against each other.
 
 In combat, a bheur hag also strives to inspire horror. When near a recently slain foe, the hag may forgo an attack to feed on the corpse. The sight of this butchery is enough to terrify most witnesses.
+
+### Environment
+(FIXME)
+
+### Token
+![](BheurHag-Token.png)
 
 >### Bheur Hag
 >*Medium Fey, Typically Chaotic Evil*
@@ -170,6 +182,12 @@ Cinder hags often bind creatures of elemental fire into serving them. Most cinde
 
 A cinder hag possesses the ability to teleport great distances, but only if her destination is near a large, open conflagration. When she does so, she leaves a faint cloud of foul-smelling smoke in her wake.
 
+### Environment
+(FIXME)
+
+### Token
+![](CinderHag-Token.png)
+
 >### Cinder Hag
 >*Medium fey, chaotic evil*
 >___
@@ -184,20 +202,21 @@ A cinder hag possesses the ability to teleport great distances, but only if her 
 >___
 >- **Proficiency Bonus** +3
 >- **Saving Throws** Wis +4
->- **Damage Immunities** fire
->- **Skills** Deception +6, Intimidation +9, Perception +4, Stealth +5
->- **Senses** darkvision 60 ft., passive Perception 14
->- **Languages** Common, Ignan, Sylvan
->- **Challenge** 5
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** , Intimidation +9, Perception +4, Stealth +5
+>- **Damage Immunities** 60 ft., passive Perception 14
+>- **Condition Immunities** an, Sylvan
+>- **Skills** ** 5
+>- **Senses** 
+>- **Languages** asting.*** The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
+>- **Challenge** 
 >___
->***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
->
->* *At will*: [fog cloud](../Magic/Spells/fog-cloud.md), [scorching ray](../Magic/Spells/scorching-ray.md)
 >* *1/day each*: [heat metal](../Magic/Spells/heat-metal.md), [hellish rebuke](../Magic/Spells/hellish-rebuke.md), [stinking cloud](../Magic/Spells/stinking-cloud.md)
 >
 >***Magic Resistance.*** The hag has advantage on saving throws against spells and other magical effects.
 >
 >### Actions
+>
 >***Change Shape.*** The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.
 >
 >***Claws (Hag Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage, plus 2 (1d4) fire damage.
@@ -206,6 +225,7 @@ A cinder hag possesses the ability to teleport great distances, but only if her 
 >
 >***Mobilize Grimflame.*** As an action, the hag can command the grimflame to rise into [a mobile form](#grimflame) for 1 minute. The grimflame obeys any verbal commands given to it by the hag and shares the hag's initiative, going after the hag does.
 >
+>#### Actions
 
 ---
 
@@ -217,6 +237,12 @@ When they can't ignite an entire village or town, these hags settle for using th
 ***Maddened By Terrors.*** The sight of fresh blood drives a crimson hag into a temporary state of madness. In this blood madness, the hag experiences hallucinations of horrors and terrors, shrieking things that test one's sanity, and visions from beyond By the time they are adults, crimson hags have been driven to a constant state of half-madness, and they no longer fear not only their own hallucinations, but anything at all These hags enjoy the rush they feel while in the blood madness, and eagerly scheme for their best opportunity to enter the state and enjoy the reckless sadism that it brings to the fullest before the blood madness ends.
 
 ***Self-Destructive Covens.*** There are many reasons why a coven of crimson hags, once established, rarely lasts very long. The most prominent is the hags' love for wanton destruction and especially their blood madness. In the throes of the madness, a crimson hag will often attack its own allies, including other crimson hags within the coven, if they are nearby. Of course, even without the blood madness, a crimson hag's love for ruin, destruction, and deception make schemes of betrayal and sabotage all the more enticing. However, this results in great collateral damage. When a powerful coven of crimson hags self-destructs, it can cause untold carnage, destruction, and death across the land.
+
+### Environment
+(FIXME)
+
+### Token
+![](CrimsonHag-Token.png)
 
 >### Crimson Hag
 >*Medium fey, chaotic evil*
@@ -246,16 +272,22 @@ When they can't ignite an entire village or town, these hags settle for using th
 >***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 >
 >*At will*: [burning hands](../Magic/Spells/burning-hands.md), [control flames](../Magic/Spells/control-flames.md), [produce flame](../Magic/Spells/produce-flame.md) (see "Actions" below)
+>
 >*2/day each*: [disguise self](../Magic/Spells/disguise-self.md), [fog cloud](../Magic/Spells/fog-cloud.md), [pyrokinesis](../Magic/Spells/pyrokinesis.md)
+>
 >*1/day each*: [crown of madness](../Magic/Spells/crown-of-madness.md), [heat metal](../Magic/Spells/heat-metal.md), [stinking cloud](../Magic/Spells/stinking-cloud.md)
 >
 >### Actions
+>
 >***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage plus 3 (1d6) fire damage.
 >
 >***Produce Flame (Cantrip).*** Ranged Spell Attack:+ 5 to hit, range 30 ft., one creature. Hit: 9 (2d8) fire damage.
 >
 >### Reactions
-***Blood Madness (7/Day).*** When the hag kills a creature, she can enter a state of blood madness for 1 minute. While affected by this madness, the hag loses her ability to distinguish friend from foe and attempts to witness and cause as much death as possible with no regard for her own safety. She has advantage on saving throws made to maintain concentration or resist enchantment spells, she can't be charmed, and her speed is increased by 10 feet.
+>
+>***lood Madness (7/Day).*** When the hag kills a creature, she can enter a state of blood madness for 1 minute. While affected by this madness, the hag loses her ability to distinguish friend from foe and attempts to witness and cause as much death as possible with no regard for her own safety. She has advantage on saving throws made to maintain concentration or resist enchantment spells, she can't be charmed, and her speed is increased by 10 feet.
+>
+>#### Actions
 
 ---
 
@@ -264,7 +296,13 @@ When they can't ignite an entire village or town, these hags settle for using th
 
 ***Person Jerky.*** Desert hags often roam the desert in long and winding journeys, so they often dry and salt the meat of their victims, making jerky and other cured meats out of the hapless humanoids that they encounter and consume. They carry some of this dried meat with them on their journeys, sustaining themselves with it when prey is too sparse or dangerous.
 
-***Mirage Weavers.*** Desert hags use their powers of illusion to weave detailed mirages over the landscape, disguising their lairs as something less frightening or creating the right desert backdrop to enact their deceptions in. They take great pride in the efficacy of these mirages, and can be thrown into a rage if her illusory weaving is insulted or belittled. 
+***Mirage Weavers.*** Desert hags use their powers of illusion to weave detailed mirages over the landscape, disguising their lairs as something less frightening or creating the right desert backdrop to enact their deceptions in. They take great pride in the efficacy of these mirages, and can be thrown into a rage if her illusory weaving is insulted or belittled.
+
+### Environment
+(FIXME)
+
+### Token
+![](DesertHag-Token.png)
 
 >### Desert Hag
 >*Large fey, chaotic evil*
@@ -279,24 +317,29 @@ When they can't ignite an entire village or town, these hags settle for using th
 >
 >___
 >- **Proficiency Bonus** +3
->- **Damage Resistances** radiant
->- **Skills** Deception +4, Perception +3, Stealth +3, Survival +3
->- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Common, Primordial, Sylvan
->- **Challenge** 2
+>- **Saving Throws** es** radiant
+>- **Damage Vulnerabilities** rception +3, Stealth +3, Survival +3
+>- **Damage Resistances** 0 ft., passive Perception 13
+>- **Damage Immunities** Primordial, Sylvan
+>- **Condition Immunities** 
+>- **Skills** 
+>- **Senses** ller.*** The hag is naturally adapted to hot climates and never needs to drink water.
+>- **Languages** 
+>- **Challenge** asting.*** The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:
 >___
->***Desert Dweller.*** The hag is naturally adapted to hot climates and never needs to drink water.
->
->***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components: 
->
 >* 3/day each: [barkskin](../Magic/Spells/barkskin.md) (self only), [disguise self](../Magic/Spells/disguise-self.md) (including the form of a Medium humanoid), [sand cloak](../Magic/Spells/sand-cloak.md)
+>
 >* 1/day each: [hallucinatory terrain](../Magic/Spells/hallucinatory-terrain.md)
 >
 >### Actions
+>
 >***Claw.*** Melee Weapon Attack:+ 5 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage and the
-target is grappled (escape DC 14).
+>
+>arget is grappled (escape DC 14).
 >
 >***Enthralling Kiss.*** The hag kisses a creature within 5 feet. If the creature is not willing, it must succeed on a DC 11 Dexterity saving throw to avoid the kiss. A creature kissed in this way must succeed on a DC 13 Wisdom saving throw or become charmed by the hag for 1 hour, with the same effects as a [charm person](../Magic/Spells/charm-person.md) spell. While a creature is charmed by this ability, it sees an illusion of the hag made beautiful instead of her true form, and believes the true form of the hag seen by others to be the illusion.
+>
+>#### Actions
 
 ---
 
@@ -304,6 +347,12 @@ target is grappled (escape DC 14).
 The wretched and hateful green hags dwell in dying forests, lonely swamps, and misty moors, making their homes in caves. Green hags love to manipulate other creatures into doing their bidding, masking their intentions behind layers of deception. They lure victims to them by mimicking voices calling out for help, or drive unwanted visitors away by imitating the cries of fierce beasts.
 
 ***Obsession with Tragedy.*** Green hags revel in the failings and tragedies of other creatures. They derive joy from bringing people low and seeing hope turn into despair, not just for individuals but also for whole nations.
+
+### Environment
+(FIXME)
+
+### Token
+![](GreenHag-Token.png)
 
 >### Green Hag
 >*Medium fey, neutral evil*
@@ -363,6 +412,12 @@ If either object is lost, the night hag will go to great lengths to retrieve it,
 
 ***Soulmongers.*** While a humanoid sleeps, a night hag can straddle the person ethereally and intrude upon its dreams. Any creature with truesight can see the hag's spectral form straddling its prey. The ethereal hag fills her victim's head with doubts and fears, in the hope of tricking it into performing evil acts in the waking world. The hag continues her nightly visitations until the victim finally expires in its sleep. If the hag has driven her victim to commit evil deeds, she traps its corrupted soul in her soul bag for transport to Hades.
 
+### Environment
+(FIXME)
+
+### Token
+![](NightHag-Token.png)
+
 >### Night Hag
 >*Medium fiend, neutral evil*
 >___
@@ -413,6 +468,12 @@ Beauty drives a sea hag to fits of anger. When confronted with something beautif
 
 ***Ugly Inside and Out.*** Sea hags are by far the ugliest of all hags, with slimy scales covering their pallid skin. A sea hag's hair resembles seaweed and covers her emaciated body, and her glassy eyes seem as lifeless as a doll's. Although a sea hag can hide her true form under a veil of illusion, the hag is cursed to forever appear ugly. Her illusory form appears haggard at best.
 
+### Environment
+(FIXME)
+
+### Token
+![](SeaHag-Token.png)
+
 >### Sea Hag
 >*Medium fey, chaotic evil*
 >___
@@ -457,15 +518,21 @@ Beauty drives a sea hag to fits of anger. When confronted with something beautif
 ## Storm Hag
 A storm hag spends most of her time watching the weather and planning. She appears at first as a shrunken elderly woman with wiry and scattered hair that often looks like a gray thundercloud, and she greets visitors warmly. Yet behind this congenial mask they present for first impressions, these hags are just as malicious as any other. These sea witches are fond of deceptive deals and trades, and frequently make victims of both Undersea folk as well as "land-dweller" folk. To the Undersea folk, she will often appear as a elderly female triton or merfolk; to the Abovesea, typically human. Their true forms have bone-white skin that is covered in twisted electrical scars, but they reveal these forms only right before they finally consume a hapless and ruined victim.
 
-Storm hags take sadistic joy in making bargains, contracts, and deals that turn unexpectedly against their victims and ruin their lives - more than any other kind of hag. These hags always prefer to use such a bargain when inflicting suffering, and find the chaotic nature of other hags to be distasteful at best. 
+Storm hags take sadistic joy in making bargains, contracts, and deals that turn unexpectedly against their victims and ruin their lives - more than any other kind of hag. These hags always prefer to use such a bargain when inflicting suffering, and find the chaotic nature of other hags to be distasteful at best.
 
-***Weather Diviners.*** The sky and the movement of clouds - or the currents of the ocean - are like a swirling map of the future to the eldritch eyes of an aquatic storm hag. They use these weather auguries to inform their decisions when making their dark bargains, as well as using the information as bargaining chips directly. 
+***Weather Diviners.*** The sky and the movement of clouds - or the currents of the ocean - are like a swirling map of the future to the eldritch eyes of an aquatic storm hag. They use these weather auguries to inform their decisions when making their dark bargains, as well as using the information as bargaining chips directly.
 
 ***Bottling a Storm.*** Storm hags gain their name not only from their innate affinity for storms, but also from their practice of capturing pieces of storm clouds. These hags venture into thunderstorms armed with special magic bottles that they use to siphon a chunk of the cloud's primal magic, sealing the bottle to contain it. They use these bottled storms to focus their magic, to observe in lieu of real storms, or even to unleash as a measure of self-defense. Adventurers who slay a storm hag often make use of the bottled storms she has lining the shelves inside of her lair.
 
 Some storm hags can animate small clouds to sit and ride upon to fly through the sky without effort. Such a cloud acts as a carpet of flying that can be contained or released from a bottle by speaking its command word Capricious Wrath. While storm hags excel at hiding their wicked nature behind a mask of friendly warmth, their true emotions are always swirling underneath the surface, ready to be unleashed at a moment's notice. The wrong move or word can take a storm hag from dignified friendliness into a tempestuous rage. Should you manage to outsmart them in one of their dark bargains, you may find the storm hag's rage to be neverending, and legends say her wrath may persist in some eldritch form even after her death ...
 
 ***Capricious Wrath.*** While storm hags excel at hiding their wicked nature behind a mask of friendly warmth, their true emotions are always swirling underneath the surface, ready to be unleashed at a moment's notice. The wrong move or word can take a storm hag from dignified friendliness into a tempestuous rage. Should you manage to outsmart them in one of their dark bargains, you may find the storm hag's rage to be neverending, and legends say her wrath may persist in some eldritch form even after her death...
+
+### Environment
+(FIXME)
+
+### Token
+![](StormHag-Token.png)
 
 >### Storm Hag
 >*Medium fey, lawful evil*
@@ -477,36 +544,49 @@ Some storm hags can animate small clouds to sit and ride upon to fly through the
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|14 (+2)|18 (+4)|15 (+2)|19 (+4)|
->___
->- **Proficiency Bonus** +6
->- **Damage Resistances** cold, thunder
->- **Damage Immunities** lightning
->- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
->- **Senses** **Senses** darkvision 60 ft., passive Perception 16
->- **Skills** Arcana +8, Deception +8, Nature +8, Perception +6, Stealth +7
->- **Languages** Common, Deep Speech, Draconic, Giant, Primordial, Sylvan
->- **Challenge** 10
->___
->***Amphibious.*** The hag can breathe air and water.
 >
->***Portent from Weather.*** At the start of each day, the hag peers into the sky or the ocean for at least 1 minute, then the DM rolls three d20s and records the numbers rolled. During that day, the hag can replace any attack roll, saving throw, or ability check made by her or a creature that she can see with one of these foretelling rolls before the roll is made.
->
+>___
+>- **Proficiency Bonus** cold, thunder
+>- **Saving Throws** s** lightning
+>- **Damage Vulnerabilities** armed, exhaustion, frightened, paralyzed, poisoned
+>- **Damage Resistances** arkvision 60 ft., passive Perception 16
+>- **Damage Immunities** Deception +8, Nature +8, Perception +6, Stealth +7
+>- **Condition Immunities** p Speech, Draconic, Giant, Primordial, Sylvan
+>- **Skills** ** 10
+>- **Senses** 
+>- **Languages** * The hag can breathe air and water.
+>- **Challenge** 
+>___
 >***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 16). She can innately cast the following spells, requiring no material components, although she can only cast *divination* or *scrying* by staring at the sky, the currents of the ocean, or a storm that she has trapped or bottled:
+>
 >* *At will*: [call lightning](../Magic/Spells/call-lightning.md), [disguise self](../Magic/Spells/disguise-self.md), [druidcraft](../Magic/Spells/druidcraft.md), [feather fall](../Magic/Spells/feather-fall.md), [fly](../Magic/Spells/fly.md) (self only), [gaseous form](../Magic/Spells/gaseous-form.md), [gust of wind](../Magic/Spells/gust-of-wind.md)
+>
 >* *3/day each*: c[ontrol water](../Magic/Spells/control-water.md), [fog cloud](../Magic/Spells/fog-cloud.md) (as 5th-level), [lightning bolt](../Magic/Spells/lightning-bolt.md) (as 5th-level), [water breathing](../Magic/Spells/water-breathing.md)
+>
 >* *1/day each*: [control weather](../Magic/Spells/control-weather.md), [divination](../Magic/Spells/divination.md), [geas](../Magic/Spells/geas.md), [scrying](../Magic/Spells/scrying.md), [wind walk](../Magic/Spells/wind-walk.md)
 >
 >### Actions
+>
 >***Slam.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) bludgeoning damage plus 9 (2d8) lightning damage.
 >
 >***Bottled Storm (7/Day).*** The hag releases the storm cloud she had saved in a bottle. The area within 60 feet of the hag becomes heavily obscured difficult terrain for l minute. The hag ignores this difficult terrain. A creature that begins its turn in the area or enters it for the first time on a turn takes l 3 (3d8) lightning damage.
 >
 >### Reactions
+>
 >***Cloud Form.*** When the hag would be hit by a melee attack, she can transform into a cloud for a moment (or a cloud of black ink when used underwater), causing the attack to miss. When she does, she can fly or swim up to 15 feet without provoking opportunity attacks before she returns to normal, at which point she falls if she is still aloft and cannot fly.
+>
+>#### Actions
 
 ---
 
 ## Grimflame
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](Grimflame-Token.png)
 
 >### Grimflame
 >*large elemental, neutral*
@@ -542,3 +622,4 @@ Some storm hags can animate small clouds to sit and ride upon to fly through the
 >
 >***Touch.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
 >
+

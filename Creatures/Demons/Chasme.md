@@ -15,7 +15,7 @@ The lowly chasmes serve more powerful masters as interrogators or taskmasters. A
 >|15 (+2)|15 (+2)|12 (+1)|11 (+0)|14 (+2)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Dex +5,Wis +5
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning

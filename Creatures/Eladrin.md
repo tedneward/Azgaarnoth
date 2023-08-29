@@ -1,7 +1,7 @@
 # Eladrin
 Eladrin dwell in the verdant splendor of the Feywild. They are related to the elves found on the Material Plane. But while other elves can temper their wild impulses, eladrin are ruled by emotion--and due to their magical nature, they undergo physical changes to match their changes in temperament.
 
-> Jump to: [Autumn Eladrin](#autumn-eladrin) | [Spring Eladrin](#spring-eladrin) | [Summer Eladrin](#summer-eladrin) | [Winter Eladrin](#winter-eladrin)
+> Jump to: [Autumn Eladrin](Eladrin.md#autumn-eladrin) | [Spring Eladrin](Eladrin.md#spring-eladrin) | [Summer Eladrin](Eladrin.md#summer-eladrin) | [Winter Eladrin](Eladrin.md#winter-eladrin)
 
 Eladrin have spent centuries in the Feywild, and most of them have become Fey creatures as a result--those presented here are of the Fey variety. Some are still Humanoid, however, similar in that respect to their other elven kin.
 
@@ -13,6 +13,12 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 
 ## Autumn Eladrin
 Eladrin often enter the autumn season when they are overcome by feelings of goodwill. In this aspect, they defuse conflicts and alleviate suffering by using their magic to relieve any ailments that afflict the people who come to them for aid. They tolerate no violence in their presence and move quickly to settle disputes, to ensure that peace continues to reign.
+
+### Environment
+(FIXME)
+
+### Token
+![](AutumnEladrin-Token.png)
 
 >### Autumn Eladrin
 >*Medium Fey (Elf), Typically Chaotic Neutral*
@@ -70,6 +76,12 @@ Eladrin often enter the autumn season when they are overcome by feelings of good
 ## Spring Eladrin
 Their hearts filled with joy, spring eladrin cavort through their sylvan realms, their songs and laughter filling the air. These playful eladrin beguile other creatures to fill them with the joy of spring. Their antics can lead other creatures into danger and make mischief for them.
 
+### Environment
+(FIXME)
+
+### Token
+![](SpringEladrin-Token.png)
+
 >### Spring Eladrin
 >*Medium Fey (Elf), Typically Chaotic Neutral*
 >___
@@ -121,6 +133,12 @@ Their hearts filled with joy, spring eladrin cavort through their sylvan realms,
 ## Summer Eladrin
 When angered, eladrin enter the season of summer, a burning, tempestuous state that transforms them into aggressive warriors eager to vent their wrath. Their magic responds to their fury and amplifies their fighting ability, helping them move with astonishing quickness and strike with terrible force.
 
+### Environment
+(FIXME)
+
+### Token
+![](SummerEladrin-Token.png)
+
 >### Summer Eladrin
 >*Medium Fey (Elf), Typically Chaotic Neutral*
 >___
@@ -166,6 +184,12 @@ When angered, eladrin enter the season of summer, a burning, tempestuous state t
 
 ## Winter Eladrin
 When sorrow distresses eladrin, they enter the winter season, becoming figures of melancholy. Frozen tears drop from their cheeks, and their palpable sadness emanates from them as icy cold.
+
+### Environment
+(FIXME)
+
+### Token
+![](WinterEladrin-Token.png)
 
 >### Winter Eladrin
 >*Medium Fey (Elf), Typically Chaotic Neutral*

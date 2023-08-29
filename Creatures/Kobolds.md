@@ -1,7 +1,7 @@
 # Kobolds
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
 
-> Jump to: [Kobold](#Kobold) | [Winged Kobold](#winged-kobold) | [Dragonshield](#kobold-dragonshield) | [Inventor](#kobold-inventor) | [Scale Sorcerer](#kobold-scale-sorcerer)
+> Jump to: [Kobold](Kobolds.md#kobold) | [Winged Kobold](Kobolds.md#winged-kobold) | [Kobold Dragonshield](Kobolds.md#kobold-dragonshield) | [Kobold Inventor](Kobolds.md#kobold-inventor) | [Kobold Scale Sorcerer](Kobolds.md#kobold-scale-sorcerer)
 
 ---
 
@@ -11,6 +11,12 @@ Kobolds are craven reptilian humanoids that worship evil dragons as demigods and
 ***Tunnelers and Builders.*** Kobolds make up for their physical ineptitude with a cleverness for trap making and tunneling. Their lairs consist of low tunnels through which they move easily but which hinder larger humanoids. Kobolds also riddle their lairs with traps. The most insidious kobold traps make use of natural hazards and other creatures. A trip wire might connect to a spring-loaded trap that hurls clay pots of flesh-eating green slime or flings crates of venomous giant centipedes at intruders.
 
 ***The Lost God.*** In addition to the dragons they revere, kobolds worship a lesser god named Kurtulmak. Legends speak of how Kurtulmak served as Tiamat's vassal in the Nine Hells until Garl Glittergold, the god of gnomes, stole a trinket from the Dragon Queen's hoard. Tiamat sent Kurtulmak to retrieve the trinket, but Garl Glittergold played a trick on him, collapsing the earth and trapping the kobold god in an underground maze for eternity. For this reason, kobolds hate gnomes and pranks of any kind. Kurtulmak's most devoted worshipers dedicate themselves to finding and releasing their lost god from his prison-maze.
+
+### Environment
+(FIXME)
+
+### Token
+![](Kobold-Token.png)
 
 >### Kobold
 >*Small humanoid (kobold), lawful evil*
@@ -24,7 +30,7 @@ Kobolds are craven reptilian humanoids that worship evil dragons as demigods and
 >|7 (-2)|15 (+2)|9 (-1)|8 (-1)|7 (-2)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -50,6 +56,12 @@ Kobolds are craven reptilian humanoids that worship evil dragons as demigods and
 ## Winged Kobold
 ***Winged Kobolds.*** A few kobolds are born with leathery wings and can fly. Known as urds, they like to lurk on high ledges and drop rocks on passersby. Although the urds' wings are seen as gifts from Tiamat, the Dragon Queen, wingless kobolds are envious of those gifts and don't get along with the urds.
 
+### Environment
+(FIXME)
+
+### Token
+![](WingedKobold-Token.png)
+
 >### Winged Kobold
 >*Small humanoid (kobold), lawful evil*
 >___
@@ -62,7 +74,7 @@ Kobolds are craven reptilian humanoids that worship evil dragons as demigods and
 >|7 (-2)|16 (+3)|9 (-1)|8 (-1)|7 (-2)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -89,6 +101,12 @@ Kobolds are craven reptilian humanoids that worship evil dragons as demigods and
 Kobold dragonshields are champions of their people. Almost all dragonshields begin life as normal kobolds, then are chosen by a dragon and invested with power for the purpose of protecting the dragon's eggs, but once every few years a kobold hatches with an innate version of the dragonshield's abilities. In either case, a dragonshield is skilled at hand-to-hand combat and bears a shield made of dragon scales, as well as scars from desperate fights.
 
 Dragonshields know they have a place of honor among those who venerate dragons, but--being kobolds at heart--most of them feel unworthy of their status and are desperate to prove themselves deserving of it. But they also have the ability to rally in the face of certain death, inspiring others to follow them into battle.
+
+### Environment
+(FIXME)
+
+### Token
+![](KoboldDragonshield-Token.png)
 
 >### Kobold Dragonshield
 >*Small Dragon, Any Alignment*
@@ -131,6 +149,12 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 
 ## Kobold Inventor
 A kobold inventor builds improvised weapons to gain an advantage in combat. These weapons last for only one or two attacks before they break and typically work only for the inventor, but they might be surprisingly effective in the meantime. The weapons don't have to be lethal--often one serves its purpose if it distracts, scares, or confuses a creature long enough for the inventor to kill that foe.
+
+### Environment
+(FIXME)
+
+### Token
+![](KoboldInventor-Token.png)
 
 >### Kobold Inventor
 >*Small Humanoid, Any Alignment*
@@ -187,6 +211,12 @@ A kobold inventor builds improvised weapons to gain an advantage in combat. Thes
 Kobold scale sorcerers have an innate talent for arcane magic, making them highly valuable members of their communities. These sorcerers typically fill the role of advisor, and when threatened, a scale sorcerer lashes out with colorful magic.
 
 A scale sorcerer who resides in or near a dragon's lair may serve as that dragon's diplomat and mouthpiece--anticipating the dragon's needs, issuing commands to others on the dragon's behalf, and reporting information back to the dragon. Such scale sorcerers often wear artificial wings, which are a sign of their draconic office. Scale sorcerers are just as awed by and respectful of dragons as others who venerate these mighty creatures, but they know that duty requires them not to fawn over their master at all times. They also understand that their frequent proximity to their dragon master means they would probably be the first to die if their master became angry or displeased, so they frantically maintain a balance between adoration and terror in their behavior toward their master.
+
+### Environment
+(FIXME)
+
+### Token
+![](KoboldScaleSorcerer-Token.png)
 
 >### Kobold Scale Sorcerer
 >*Small Humanoid, Any Alignment*

@@ -1,11 +1,18 @@
 # Wolves
 Primal and often savage cousins of the [Dog](Dogs.md), wolves often run in packs, and will demonstrate a fearsome loyalty to their packmates.
 
-> Jump to: [Wolf](#wolf-1) | [Dire Wolf](#dire-wolf) | [Winter Wolf](#winter-wolf) | [Worg](#worg)
+> Jump to: [Dire Wolf](Wolves.md#dire-wolf) | [Wolf](Wolves.md#wolf) | [Winter Wolf](Wolves.md#winter-wolf) | [Worg](Wolves.md#worg)
 
 ---
 
 ## Dire Wolf
+The dire wolf is a larger, more savage variant of the wolf. They retain their pack mentality and loyalty, but are often sought as guards, or mounts to Tiny or Small creatures.
+
+### Environment
+Forest, Hill
+
+### Token
+![](DireWolf-Token.png)
 
 >### Dire Wolf
 >*Large beast, unaligned*
@@ -19,7 +26,7 @@ Primal and often savage cousins of the [Dog](Dogs.md), wolves often run in packs
 >|17 (+3)|15 (+2)|15 (+2)|3 (-4)|12 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -43,6 +50,12 @@ Primal and often savage cousins of the [Dog](Dogs.md), wolves often run in packs
 ## Wolf
 ![](Wolf.png)
 
+### Environment
+Forest, Hill, Grassland, Mountain
+
+### Token
+![](Wolf-Token.png)
+
 >### Wolf
 >*Medium beast, unaligned*
 >___
@@ -55,7 +68,7 @@ Primal and often savage cousins of the [Dog](Dogs.md), wolves often run in packs
 >|12 (+1)|15 (+2)|12 (+1)|3 (-4)|12 (+1)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -81,6 +94,12 @@ Primal and often savage cousins of the [Dog](Dogs.md), wolves often run in packs
 
 The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fur and pale blue eyes. Frost giants use these evil creatures as guards and hunting companions, putting the wolves' deadly breath weapon to use against their foes. Winter wolves communicate with one another using growls and barks, but they speak Common and Giant well enough to follow simple conversations.
 
+### Environment
+Arctic, Mountain
+
+### Token
+![](WinterWolf-Token.png)
+
 >### Winter Wolf
 >*Large monstrosity, neutral evil*
 >___
@@ -93,7 +112,7 @@ The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fu
 >|18 (+4)|13 (+1)|14 (+2)|7 (-2)|12 (+1)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -123,6 +142,12 @@ The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fu
 
 A worg is an evil predator that delights in hunting and devouring creatures weaker than itself. Cunning and malevolent, worgs roam across the remote wilderness or are raised by goblins and hobgoblins. Those creatures use worgs as mounts, but a worg will turn on its rider if it feels mistreated or malnourished. Worgs speak in their own language and Goblin, and a few learn to speak Common as well.
 
+### Environment
+Forest, Hill, Mountain
+
+### Token
+![](Worg-Token.png)
+
 >### Worg
 >*Large monstrosity, neutral evil*
 >___
@@ -135,7 +160,7 @@ A worg is an evil predator that delights in hunting and devouring creatures weak
 >|16 (+3)|13 (+1)|13 (+1)|7 (-2)|11 (+0)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -151,3 +176,4 @@ A worg is an evil predator that delights in hunting and devouring creatures weak
 >#### Actions
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 >
+

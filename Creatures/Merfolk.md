@@ -9,6 +9,14 @@ Merfolk lack the materials and practical means to forge weapons beneath the wave
 
 Merfolk defend their communities with spears crafted from whatever materials they can salvage from shipwrecks, beaches, and dead undersea creatures.
 
+***Playable Race: Champions of the Sea.*** Merfolk are [playable](../Races/Merfolk.md), though most tend to stick to their underwater environments.
+
+### Environment
+Coastal, Underwater
+
+### Token
+![](Merfolk-Token.png)
+
 >### Merfolk
 >*Medium humanoid (merfolk), neutral*
 >___
@@ -21,7 +29,7 @@ Merfolk defend their communities with spears crafted from whatever materials the
 >|10 (+0)|13 (+1)|12 (+1)|11 (+0)|11 (+0)|12 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

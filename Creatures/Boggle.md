@@ -10,6 +10,9 @@ A boggle can create magical openings to travel short distances or to pilfer item
 ### Environment
 Forest, Hill, Underdark, Urban
 
+### Token
+![](Boggle-Token.png)
+
 >### Boggle
 >*Small Fey, Typically Chaotic Neutral*
 >___

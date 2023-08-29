@@ -16,6 +16,9 @@ For most creatures, blindness is an enormous hindrance. For a grimlock with its 
 ### Environment
 Underdark
 
+### Token
+![](Grimlock-Token.png)
+
 >### Grimlock
 >*Medium humanoid (grimlock), neutral evil*
 >___
@@ -28,7 +31,7 @@ Underdark
 >|16 (+3)|12 (+1)|12 (+1)|9 (-1)|8 (-1)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

@@ -1,7 +1,7 @@
 # Fungi
 With its sky of jagged stone and perpetual night, the Underdark is home to all manner of fungi. Taking the place of plants in the subterranean realm, fungi are vital to the survival of many underground species, providing nourishment and shelter in the unforgiving darkness.
 
-> Jump to: [Gas Spore](#gas-spore) | [Shrieker](#shrieker) | [Violet Fungus](#violet-fungus)
+> Jump to: [Gas Spore](Fungi.md#gas-spore) | [Shrieker](Fungi.md#shrieker) | [Violet Fungus](Fungi.md#violet-fungus)
 
 Fungi spawn in organic matter, then break that matter down to consume it, feeding on filth and corpses. As they mature, fungi eject spores that drift on the lightest breeze to spawn new fungi.
 
@@ -18,6 +18,12 @@ The first gas spores are thought to have been spawned from dead beholders, whose
 
 ***Beholder Memories.*** A gas spore that sprouts from a beholder's corpse sometimes carries within it memories of its deceased parent. When the gas spore explodes, its deadly spores cast those memories adrift. Any creature that inhales the spores and survives inherits one or more of the beholder's fragmented memories, and might gain useful information about the beholder's former lair and other nearby places and creatures of interest.
 
+### Environment
+Underdark
+
+### Token
+![](GasSpore-Token.png)
+
 >### Gas Spore
 >*Large plant, unaligned*
 >___
@@ -30,7 +36,7 @@ The first gas spores are thought to have been spawned from dead beholders, whose
 >|5 (-3)|1 (-5)|3 (-4)|1 (-5)|1 (-5)|1 (-5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -56,6 +62,12 @@ The first gas spores are thought to have been spawned from dead beholders, whose
 ## Shrieker
 A shrieker is a human-sized mushroom that emits a piercing screech to drive off creatures that disturb it. Other creatures use the fungi as an alarm to signal the approach of prey, and various intelligent races of the Underdark cultivate shriekers on the outskirts of their communities to discourage trespassers.
 
+### Environment
+Underdark
+
+### Token
+![](Shrieker-Token.png)
+
 >### Shrieker
 >*Medium plant, unaligned*
 >___
@@ -68,7 +80,7 @@ A shrieker is a human-sized mushroom that emits a piercing screech to drive off 
 >|1 (-5)|1 (-5)|10 (+0)|1 (-5)|3 (-4)|1 (-5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -92,6 +104,12 @@ A shrieker is a human-sized mushroom that emits a piercing screech to drive off 
 ## Violet Fungus
 This purplish mushroom uses root-like feelers growing from its base to creep across cavern floors. The four stalks protruding from a violet fungi's central mass are used to lash out at prey, rotting flesh with the slightest touch. Any creature killed by a violet fungus decomposes rapidly. A new violet fungus sprouts from the moldering corpse, growing to full size in 2d6 days.
 
+### Environment
+Underdark
+
+### Token
+![](VioletFungus-Token.png)
+
 >### Violet Fungus
 >*Medium plant, unaligned*
 >___
@@ -104,7 +122,7 @@ This purplish mushroom uses root-like feelers growing from its base to creep acr
 >|3 (-4)|1 (-5)|10 (+0)|1 (-5)|3 (-4)|1 (-5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

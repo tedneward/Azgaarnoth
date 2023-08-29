@@ -31,7 +31,7 @@ d8 | Stomach Contents
 >|14 (+2)|8 (-1)|13 (+1)|5 (-3)|8 (-1)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning

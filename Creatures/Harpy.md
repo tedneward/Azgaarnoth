@@ -17,6 +17,12 @@ When they attack, harpies play with their food, delighting in the "music" their 
 
 ***Gruesome Collectors.*** Harpies take shiny baubles, valuable objects, and other trophies from their victims, sometimes fighting with each other for the right to claim the choicest prizes. When no valuable objects can be found, a harpy takes hair, bones, or body parts to line its nest. A harpy's lair is usually hidden in remote ruins, where adventurers can discover valuable treasure and magic hidden beneath foul piles of offal.
 
+### Environment
+(FIXME)
+
+### Token
+![](Harpy-Token.png)
+
 >### Harpy
 >*Medium monstrosity, chaotic evil*
 >___
@@ -29,7 +35,7 @@ When they attack, harpies play with their food, delighting in the "music" their 
 >|12 (+1)|13 (+1)|12 (+1)|7 (-2)|10 (+0)|13 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

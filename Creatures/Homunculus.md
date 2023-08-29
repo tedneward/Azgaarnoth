@@ -1,7 +1,7 @@
 # Homunculus
 Homunculi are constructs....
 
-> Jump to: [Alchemical](#alchemical-homunculus) | [Homunculus](#homunculus-1)
+> Jump to: [Alchemical Homunculus](Homunculus.md#alchemical-homunculus) | [Homunculus](Homunculus.md#homunculus)
 
 ---
 
@@ -9,6 +9,12 @@ Homunculi are constructs....
 These creatures are the result of an [Alchemist](../Classes/Artificer/Alchemist.md)'s work, and do not occur randomly in nature.
 
 The Homunculus moves on the caster's turn, and some of its actions may require the caster's bonus action; see below.
+
+### Environment
+(FIXME)
+
+### Token
+![](AlchemicalHomunculus-Token.png)
 
 >### Alchemical Homunculus
 >*Tiny construct, neutral*
@@ -19,17 +25,17 @@ The Homunculus moves on the caster's turn, and some of its actions may require t
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|4 (−3)|15 (+2)|11 (+0) | 10 (+0) | 10 (+0) | 7 (−2)|
+>|4 (-3)|15 (+2)|11 (+0)|10 (+0)|10 (+0)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Wis +0
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
 >- **Damage Immunities** acid, poison
 >- **Condition Immunities** charmed, exhaustion, poisoned
 >- **Skills** Perception +4+PB, Stealth +4+PB *(where 'PB' is caster's proficiency bonus)*
->- **Senses** darkvision 60 ft., passive Perception 10 
+>- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** understands the languages the caster speaks
 >- **Challenge** 0
 >___
@@ -39,7 +45,9 @@ The Homunculus moves on the caster's turn, and some of its actions may require t
 >***Alchemical Salve (3/Day).*** The homunculus produces a salve and touches one creature the [Alchemist](../Classes/Artificer/Alchemist.md) designates. The target receives one of the following magical benefits of the [Alchemist](../Classes/Artificer/Alchemist.md)'s choice:
 >
 >* **Buoyancy.** The target gains a flying speed of 10 feet for 10 minutes.
+>
 >* **Inspiration** The target feels giddy and effective, gaining advantage on certain ability checks in the next hour. The target chooses the checks before or after rolling. The magic runs out after the target has used it on a number of checks equal to caster's Intelligence modifier (minimum of 1).
+>
 >* **Resilience** The target gains a number of temporary hit points equal to 2d6 + caster's Intelligence modifier.
 >
 
@@ -51,6 +59,12 @@ Shaping a mixture of clay, ash, mandrake root, and blood, one can channel rare r
 A homunculus is a construct that acts as an extension of its creator, with the two sharing thoughts, senses, and language through a mystical bond. A master can have only one homunculus at a time (attempts to create another one always fail), and when its master dies, the homunculus also dies.
 
 ***Shared Mind.*** A homunculus knows everything its creator knows, including all the languages the creator can speak and read. Likewise, everything the construct senses is known to its master, even over great distances, provided both are on the same plane. Functioning as a spy, a scout, an emissary, or a messenger, a homunculus is an invaluable servant for a spellcaster engaged in secret experimentation or adventuring.
+
+### Environment
+(FIXME)
+
+### Token
+![](Homunculus-Token.png)
 
 >### Homunculus
 >*Tiny construct, neutral*
@@ -64,7 +78,7 @@ A homunculus is a construct that acts as an extension of its creator, with the t
 >|4 (-3)|15 (+2)|11 (+0)|10 (+0)|10 (+0)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -80,3 +94,4 @@ A homunculus is a construct that acts as an extension of its creator, with the t
 >#### Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
 >
+

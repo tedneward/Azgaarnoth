@@ -1,12 +1,18 @@
 # Spiders
 You know you hate them just as much as I do.
 
-> Jump to: [Spider](#spider) | [Giant Spider](#giant-spider) | [Giant Wolf Spider](#giant-wolf-spider) | [Phase Spider](#phase-spider) | [Swarm of Spiders](#swarm-of-spiders)
+> Jump to: [Spider](Spiders.md#spider) | [Giant Spider](Spiders.md#giant-spider) | [Giant Wolf Spider](Spiders.md#giant-wolf-spider) | [Phase Spider](Spiders.md#phase-spider) | [Swarm of Spiders](Spiders.md#swarm-of-spiders)
 
 ---
 
 ## Spider
 The normal spider is basically harmless, but still entirely worth squishing any chance one gets.
+
+### Environment
+Coastal, Desert, Forest, Hill, Mountain, Ruin, Underdark
+
+### Token
+![](Spider-Token.png)
 
 >### Spider
 >*Tiny beast, unaligned*
@@ -20,7 +26,7 @@ The normal spider is basically harmless, but still entirely worth squishing any 
 >|2 (-4)|14 (+2)|8 (-1)|1 (-5)|10 (+0)|2 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -46,6 +52,12 @@ The normal spider is basically harmless, but still entirely worth squishing any 
 ## Giant Spider
 To snare its prey, a giant spider spins elaborate webs or shoots sticky strands of webbing from its abdomen. Giant spiders are most commonly found underground, making their lairs on ceilings or in dark, web-filled crevices. Such lairs are often festooned with web cocoons holding past victims.
 
+### Environment
+Coastal, Desert, Forest, Hill, Mountain, Ruin, Underdark
+
+### Token
+![](GiantSpider-Token.png)
+
 >### Giant Spider
 >*Large beast, unaligned*
 >___
@@ -58,7 +70,7 @@ To snare its prey, a giant spider spins elaborate webs or shoots sticky strands 
 >|14 (+2)|16 (+3)|12 (+1)|2 (-4)|11 (+0)|4 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -86,6 +98,12 @@ To snare its prey, a giant spider spins elaborate webs or shoots sticky strands 
 ## Giant Wolf Spider
 Smaller than a giant spider, a giant wolf spider hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris. They can be found almost anywhere in Azgaarnoth, though they particularly enjoy the crevices of the many ruins that litter the landscape. They can be particularly dangerous (and are quite numerous) in [Chidia](../Geography/Chidia.md), as half the continent is broken and rocky ground, and the other half city ruins. Legend says they are also quite plentiful in the [Underdark](../Geography/Underdark.md), so much so that the dwarves have legends of a spider goddess that seeks to prey on unwary dwarves who venture too far out from the hearth of the clan.
 
+### Environment
+Desert, Grassland, Ruins, Underdark
+
+### Token
+![](GiantWolfSpider-Token.png)
+
 >### Giant Wolf Spider
 >*Medium beast, unaligned*
 >___
@@ -98,7 +116,7 @@ Smaller than a giant spider, a giant wolf spider hunts prey across open ground o
 >|12 (+1)|16 (+3)|13 (+1)|3 (-4)|12 (+1)|4 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -124,6 +142,12 @@ Smaller than a giant spider, a giant wolf spider hunts prey across open ground o
 ## Phase Spider
 A phase spider possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the Ethereal Plane before coming back to the Material Plane makes it seem like it can teleport.
 
+### Environment
+Ethereal, Extraplanar, Ruins, Underdark
+
+### Token
+![](PhaseSpider-Token.png)
+
 >### Phase Spider
 >*Large monstrosity, unaligned*
 >___
@@ -136,7 +160,7 @@ A phase spider possesses the magical ability to phase in and out of the Ethereal
 >|15 (+2)|15 (+2)|12 (+1)|6 (-2)|10 (+0)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -162,6 +186,12 @@ A phase spider possesses the magical ability to phase in and out of the Ethereal
 ## Swarm of Spiders
 The swarm presented here isn't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. Even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
 
+### Environment
+Forest, Conjured/Summoned
+
+### Token
+![](SwarmofSpiders-Token.png)
+
 >### Swarm of Spiders
 >*Medium swarm, unaligned*
 >___
@@ -174,7 +204,7 @@ The swarm presented here isn't ordinary or benign assemblies of little creatures
 >|3 (-4)|13 (+1)|10 (+0)|1 (-5)|7 (-2)|1 (-5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning,piercing,slashing
@@ -196,3 +226,4 @@ The swarm presented here isn't ordinary or benign assemblies of little creatures
 >#### Actions
 >***Bites.*** Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 >
+

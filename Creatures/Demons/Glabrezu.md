@@ -15,7 +15,7 @@ Although glabrezus are devastating in combat, they prefer to tempt victims into 
 >|20 (+5)|15 (+2)|21 (+5)|19 (+4)|17 (+3)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Str +9,Con +9,Wis +7,Cha +7
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning; bludgeoning,piercing,and slashing from nonmagical attacks

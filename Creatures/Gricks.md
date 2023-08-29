@@ -1,7 +1,7 @@
 # Gricks
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.
 
-> Jump to: [Grick](#grick) | [Grick Alpha](#grick-alpha)
+> Jump to: [Grick](Gricks.md#grick) | [Grick Alpha](Gricks.md#grick-alpha)
 
 ***Passive Predators.*** Gricks rarely hunt. Instead, they drag their rubbery bodies to places where creatures regularly pass, lurking out of sight amid rocky rubble and debris, squeezing into burrows, holes, or crevices, climbing up to ledges, or coiling around stalactites to drop on unwary prey. A grick consumes virtually anything that moves except for other gricks. It targets the nearest prey, grabbing a fallen creature with its tentacles and dragging it off to eat alone.
 
@@ -15,6 +15,13 @@ Underdark
 ---
 
 ## Grick
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](Grick-Token.png)
 
 >### Grick
 >*Medium monstrosity, neutral*
@@ -28,7 +35,7 @@ Underdark
 >|14 (+2)|14 (+2)|11 (+0)|3 (-4)|14 (+2)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning,piercing,and slashing damage from nonmagical attacks
@@ -52,6 +59,13 @@ Underdark
 ---
 
 ## Grick Alpha
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](GrickAlpha-Token.png)
 
 >### Grick Alpha
 >*Large monstrosity, neutral*
@@ -65,7 +79,7 @@ Underdark
 >|18 (+4)|16 (+3)|15 (+2)|4 (-3)|14 (+2)|9 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning,piercing,and slashing damage from nonmagical attacks

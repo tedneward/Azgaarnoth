@@ -9,6 +9,12 @@ A manticore isn't particularly bright, but it possesses a malevolent nature and 
 
 The manticores' greatest territorial rivals include chimeras, griffons, perytons, and wyverns. Manticores hunting as a pack often have the advantage of greater numbers. In addition to these creatures, manticores fear dragons and avoid them.
 
+### Environment
+Arctic, Coastal, Grassland, Hill, Mountain
+
+### Token
+![](Manticore-Token.png)
+
 >### Manticore
 >*Large monstrosity, lawful evil*
 >___
@@ -21,7 +27,7 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
 >|17 (+3)|16 (+3)|17 (+3)|7 (-2)|12 (+1)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

@@ -1,7 +1,7 @@
 ## Tlincalli
 Tlincallis, also called scorpion folk, are chitin-covered creatures, humanoid from the waist up with the lower body of an enormous scorpion, complete with a stinger at the end of a long tail.
 
-***Desert Nomads.*** Tlincallis live austerely. They range across arid lands, hunting at dawn and dusk. In the hours between, they wait out the day's heat or the night's cold by burying themselves in loose sand or earth or, if the terrain proves too inflexible, lurking in ruins or shallow caves. A tribe of tlincallis stays in one place for only as long as the hunting is good in the immediate area, though they might visit the same way stations over and over during their wanderings. The tribe also settles down temporarily whenever it's time to lay eggs and hatch a new brood of young.
+***Desert Nomads.*** Tlincallis live austerely. They range across arid lands, hunting at dawn and dusk. (They are particularly fond of the open tundra that makes up much of Dradehalia and the lands of the Ulmhorde.) In the hours between, they wait out the day's heat or the night's cold by burying themselves in loose sand or earth or, if the terrain proves too inflexible, lurking in ruins or shallow caves. A tribe of tlincallis stays in one place for only as long as the hunting is good in the immediate area, though they might visit the same way stations over and over during their wanderings. The tribe also settles down temporarily whenever it's time to lay eggs and hatch a new brood of young.
 
 ***Poisonous Eggs.*** Tlincallis deposit their eggs in warm places out of direct sunlight, often amid a stand of cacti near their present encampment. There the eggs lie protected by hard shells coated in paralytic poison similar to that produced by their stingers. A would-be predator that dares to break an egg is defenseless against the tlincallis that come to investigate.
 
@@ -10,6 +10,12 @@ Tlincallis, also called scorpion folk, are chitin-covered creatures, humanoid fr
 ***Prideful Hunters.*** Tlincallis see themselves as great hunters. If a tlincalli tribe encounters a more powerful hunter, such as a blue dragon, the tribe's leader must decide whether the group becomes obedient to the superior hunter, moves on, or fights to the death to defeat it.
 
 ***Makeshift Weapons and Objects.*** Tlincallis are uncivilized and don't build cities, make clothing, or mine metals. Instead, they scavenge what they need or want. They do, however, know how to melt down scavenged metal to forge crude weapons and tools.
+
+### Environment
+Desert, Grassland, Ruins
+
+### Token
+![](Tlincalli-Token.png)
 
 >### Tlincalli
 >*Large monstrosity, neutral evil*
@@ -23,7 +29,7 @@ Tlincallis, also called scorpion folk, are chitin-covered creatures, humanoid fr
 >|16 (+3)|13 (+1)|16 (+3)|8 (-1)|12 (+1)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

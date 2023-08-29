@@ -15,7 +15,7 @@ A barlgura looks like a hulking orangutan with a gruesome, drooping visage and t
 >|18 (+4)|15 (+2)|16 (+3)|7 (-2)|14 (+2)|9 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Dex +5,Con +6
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning

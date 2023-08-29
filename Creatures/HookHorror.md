@@ -1,6 +1,12 @@
 ## Hook Horror
 A fierce predator of the Underdark, the hook horror aggressively defends its hunting grounds. The subterranean caverns where these creatures dwell echo with the constant clacking and scraping of their hooks as they wend their way up cliffs and along cavern walls.
 
+### Environment
+(FIXME)
+
+### Token
+![](HookHorror-Token.png)
+
 >### Hook Horror
 >*Large monstrosity, neutral*
 >___
@@ -13,7 +19,7 @@ A fierce predator of the Underdark, the hook horror aggressively defends its hun
 >|18 (+4)|10 (+0)|15 (+2)|6 (-2)|12 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

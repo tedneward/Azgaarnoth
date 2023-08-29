@@ -11,6 +11,12 @@ Dryads work with other sylvan creatures to defend their forests. Unicorns, trean
 
 ***Woodland Magic.*** Dryads can speak with plants and animals. They can teleport from one tree to another, luring interlopers away from their groves. If pressed, a dryad can beguile humanoids with her enchantments, turning enemies into friends. They also know a handful of useful spells.
 
+### Environment
+(FIXME)
+
+### Token
+![](Dryad-Token.png)
+
 >### Dryad
 >*Medium fey, neutral*
 >___
@@ -23,7 +29,7 @@ Dryads work with other sylvan creatures to defend their forests. Unicorns, trean
 >|10 (+0)|12 (+1)|11 (+0)|14 (+2)|15 (+2)|18 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

@@ -9,6 +9,12 @@ The elusive pseudodragon dwells in the quiet places of the world, making its hom
 
 A pseudodragon often vocalizes animal noises. A rasping purr indicates pleasure, while a hiss means unpleasant surprise. A bird-like chirping represents desire, and a growl always means anger or discontent.
 
+### Environment
+(FIXME)
+
+### Token
+![](Pseudodragon-Token.png)
+
 >### Pseudodragon
 >*Tiny dragon, neutral good*
 >___
@@ -21,7 +27,7 @@ A pseudodragon often vocalizes animal noises. A rasping purr indicates pleasure,
 >|6 (-2)|15 (+2)|13 (+1)|10 (+0)|12 (+1)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

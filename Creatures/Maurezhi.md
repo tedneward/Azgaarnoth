@@ -5,6 +5,12 @@ When a maurezhi consumes the corpse of a Humanoid it has slain--a process that t
 
 A maurezhi is contagion incarnate. Its bite can drain a victim's sense of self. If this affliction is allowed to go far enough, the victim is infected with an unholy hunger for flesh that overpowers their personality and transforms them into a ghoul.
 
+### Environment
+Extraplanar, Ruins, Urban, Conjured/Summoned
+
+### Token
+![](Maurezhi-Token.png)
+
 >### Maurezhi
 >*Medium Fiend (Demon), Typically Chaotic Evil*
 >___

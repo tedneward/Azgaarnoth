@@ -1,11 +1,18 @@
-# Horse
+# Horses
 Horses are common across Azgaarnoth, both wild and domesticated, particularly in the wild grasslands and plains of the [Al'Uma](../Geography/AlUma.md), where even wild herds are revered and honored.
 
-> Jump to: [Draft Horse](#draft-horse) | [Mule](#mule) | [Pony](#pony) | [Riding Horse](#riding-horse) | [Warhorse](#warhorse)
+> Jump to: [Draft Horse](Horse.md#draft-horse) | [Mule](Horse.md#mule) | [Pony](Horse.md#pony) | [Riding Horse](Horse.md#riding-horse) | [Warhorse](Horse.md#warhorse)
 
 ---
 
 ## Draft Horse
+(No description given)
+
+### Environment
+Forest, Grassland, Hill, Urban
+
+### Token
+![](DraftHorse-Token.png)
 
 >### Draft Horse
 >*Large beast, unaligned*
@@ -19,7 +26,7 @@ Horses are common across Azgaarnoth, both wild and domesticated, particularly in
 >|18 (+4)|10 (+0)|12 (+1)|2 (-4)|11 (+0)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -37,6 +44,13 @@ Horses are common across Azgaarnoth, both wild and domesticated, particularly in
 ---
 
 ## Mule
+(No description given)
+
+### Environment
+Forest, Grassland, Hill, Urban
+
+### Token
+![](Mule-Token.png)
 
 >### Mule
 >*Medium beast, unaligned*
@@ -50,7 +64,7 @@ Horses are common across Azgaarnoth, both wild and domesticated, particularly in
 >|14 (+2)|10 (+0)|13 (+1)|2 (-4)|10 (+0)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -72,6 +86,13 @@ Horses are common across Azgaarnoth, both wild and domesticated, particularly in
 ---
 
 ## Pony
+(No description given)
+
+### Environment
+Forest, Grassland, Hill, Urban
+
+### Token
+![](Pony-Token.png)
 
 >### Pony
 >*Medium beast, unaligned*
@@ -85,7 +106,7 @@ Horses are common across Azgaarnoth, both wild and domesticated, particularly in
 >|15 (+2)|10 (+0)|13 (+1)|2 (-4)|11 (+0)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -103,6 +124,13 @@ Horses are common across Azgaarnoth, both wild and domesticated, particularly in
 ---
 
 ## Riding Horse
+(No description given)
+
+### Environment
+Forest, Grassland, Hill, Urban
+
+### Token
+![](RidingHorse-Token.png)
 
 >### Riding Horse
 >*Large beast, unaligned*
@@ -116,7 +144,7 @@ Horses are common across Azgaarnoth, both wild and domesticated, particularly in
 >|16 (+3)|10 (+0)|12 (+1)|2 (-4)|11 (+0)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -134,7 +162,6 @@ Horses are common across Azgaarnoth, both wild and domesticated, particularly in
 ---
 
 ## Warhorse
-
 ***VARIANT: WARHORSE ARMOR.*** An armored warhorse has an AC based on the type of barding worn. The horse's AC includes its Dexterity modifier, where applicable. Barding doesn't alter the horse's challenge rating.
 
 AC | Barding
@@ -146,6 +173,12 @@ AC | Barding
 16 | Chain mail
 17 | Splint
 18 | Plate
+
+### Environment
+Forest, Grassland, Hill, Urban
+
+### Token
+![](Warhorse-Token.png)
 
 >### Warhorse
 >*Large beast, unaligned*
@@ -159,7 +192,7 @@ AC | Barding
 >|18 (+4)|12 (+1)|13 (+1)|2 (-4)|12 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -175,3 +208,4 @@ AC | Barding
 >#### Actions
 >***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 >
+

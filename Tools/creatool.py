@@ -28,7 +28,7 @@ class SubtypedCreature:
             subtypedcreature = SubtypedCreature()
 
             # Start by parsing the SubtypedCreature description text
-            subtypedcreature.name = mdlines[0][2:].strip()
+            subtypedcreature.name = (mdlines[0])[2:].strip()
 
             # Grab the rest of the description, appending until
             # we reach the first '---' break
@@ -41,7 +41,7 @@ class SubtypedCreature:
                 elif line[0:len("> Jump to:")] == "> Jump to:":
                     pass
                 else:
-                    subtypedcreature.generaldescription += mdlines[linect]
+                    subtypedcreature.generaldescription.append(line)
                 linect += 1
 
             # Now loop through the rest of the file, breaking on the '---' breaks
@@ -78,16 +78,13 @@ class SubtypedCreature:
 
 
     def emitMD(self):
-        #def linkify(string):
-        #    return '#' + string.replace('/','').replace(' ','-').lower()
-        
         subtypejumplinks = " | ".join(map(lambda st: f'[{st.name}]({st.filename()})', self.subtypes))
 
         results  = f'# {self.name}\n'
-        results += self.generaldescription[0] + '\n'
+        results += self.generaldescription[0]
         results += '\n'
-        results += '> Jump to: ' + subtypejumplinks + '\n'
-        results += '\n'.join(self.generaldescription[1:])
+        results += '> Jump to: ' + subtypejumplinks
+        results += ''.join(self.generaldescription[1:])
         for creature in self.subtypes:
             results += '---\n\n'
             results += creature.emitMD()
@@ -192,7 +189,8 @@ class Creature:
                         if line == '### Environment':
                             # Environments can be Arctic, Astral, Coastal, Desert, 
                             # Ethereal, Exotic, Forest, Grassland, Hill, Mountain, 
-                            # Swamp, Underdark, Underwater, Urban
+                            # Swamp, Underdark, Underwater, Urban, Extraplanar, or
+                            # Summoned/Conjured
                             linect += 1
                             self.environments = mdlines[linect].strip().split(",")
                         elif line == '### Token':
@@ -204,8 +202,6 @@ class Creature:
 
         # name
         line = mdlines[linect]
-        # TODO: assert that the name in the stat block is the same at the top of the
-        # markdown file. Not sure what we do if it's not. *shrug*
         linect += 1
 
         # size type (optional-subtype, optional-subtype, ...), alignment
@@ -380,7 +376,7 @@ class Creature:
         if len(self.environments) < 1:
             self.environments.append('(FIXME)')
         if self.tokenlink == '':
-            self.tokenlink = '![](' + self.filename()[0:-2] + '-Token.png)'
+            self.tokenlink = '![](' + self.filename()[0:-3] + '-Token.png)'
         if self.profbonus == '0' or self.profbonus == '+0':
             print("WARNING: " + self.name + " lacking ProfBonus; CR = " + self.cr, end='')
             pbs = {
@@ -417,9 +413,11 @@ class Creature:
 
         result  = ""
         result += f"## {self.name}\n"
-        for descrip in self.description:
-            result += str(descrip) + '\n'
-        result += '\n'
+        if len(self.description) == 0:
+            result += "(No description given)\n\n"
+        else:
+            for descrip in self.description:
+                result += str(descrip) + '\n\n'
 
         if len(self.environments) > 0:
             result += "### Environment\n"
@@ -461,7 +459,6 @@ class Creature:
         result += f">- **Senses** {','.join(self.senses)}\n"
         result += f">- **Languages** {','.join(self.languages)}\n"
         result += f">- **Challenge** {self.cr}\n"
-        #result += f">- **Token** {self.name + '-Token.png'}"
         result += linebreak
         for feature in self.features:
             result += '>' + str(feature) + '\n>\n'
@@ -983,8 +980,8 @@ def main(argv):
                     continue
 
                 if os.path.isfile(args.parsemd + '/' + f):
-                    ext = str(f)[-4:].lower()
-                    if ext != '.png' and ext != '.jpg' and ext != 'webp':
+                    (_, ext) = os.path.splitext(f)
+                    if ext == '.md':
                         with open(args.parsemd + '/' + f, 'r') as mdfile:
                             #print("Parsing " + args.parsemd + '/' + f)
                             lines = mdfile.readlines()

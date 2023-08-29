@@ -1,9 +1,9 @@
 # Nagas
 Nagas are intelligent serpents that inhabit the ruins of the past, amassing arcane treasures and knowledge.
 
-> Jump to: [Bone Naga](#bone-naga) | [Guardian Naga](#guardian-naga) | [Spirit Naga](#spirit-naga)
+> Jump to: [Bone Naga](Nagas.md#bone-naga) | [Guardian Naga](Nagas.md#guardian-naga) | [Spirit Naga](Nagas.md#spirit-naga)
 
-It is said that the first nagas were created as immortal guardians by the Eldar, and when they Fell, the nagas deemed themselves the rightful inheritors of their masters' treasures and magical lore. Industrious and driven, nagas occasionally venture out from their lairs to track down magic items or rare spellbooks.
+It is said that the first nagas were created as immortal guardians by the Eldar, and when they Fell, the nagas deemed themselves the rightful inheritors of their masters' treasures and magical lore. Other legends tell that the naga's creators were, in fact, a different race than the Eldar. Industrious and driven, nagas occasionally venture out from their lairs to track down magic items or rare spellbooks.
 
 Nagas never feel the ravages of time or succumb to sickness. Even if it is struck down, a naga's immortal spirit reforms in a new body in a matter of days, ready to continue its eternal work.
 
@@ -17,6 +17,12 @@ Nagas never feel the ravages of time or succumb to sickness. Even if it is struc
 
 ## Bone Naga
 In response to the long history of conflict between the yuan-ti and the nagas, yuan-ti created a necromantic ritual that could halt a naga's resurrection by transforming the living naga into a skeletal undead servitor. A bone naga retains only a few of the spells it knew in life.
+
+### Environment
+Ruins
+
+### Token
+![](BoneNaga-Token.png)
 
 >### Bone Naga
 >*Large undead, lawful evil*
@@ -75,7 +81,10 @@ Wise and good, the beautiful guardian nagas protect sacred places and items of m
 A guardian naga doesn't seek out violence, warning off intruders rather than attacking. Only if its foes persist does the naga attack, accosting enemies with its spells and poisonous spittle.
 
 ### Environment
-Desert, Forest
+Desert, Forest, Ruins
+
+### Token
+![](GuardianNaga-Token.png)
 
 >### Guardian Naga
 >*Large monstrosity, lawful good*
@@ -130,8 +139,10 @@ Desert, Forest
 Spirit nagas live in gloom and spitefulness, constantly plotting vengeance against creatures that have wronged them -- or that they believe have wronged them. Lairing in dismal caverns and ruins, they devote their time to developing new spells and enslaving the mortals with which they surround themselves. A spirit naga likes to charm its foes, drawing them close so that it can sink its poisonous fangs into their flesh.
 
 ### Environment
-Underdark
+Ruins, Underdark
 
+### Token
+![](SpiritNaga-Token.png)
 
 >### Spirit Naga
 >*Large monstrosity, chaotic evil*

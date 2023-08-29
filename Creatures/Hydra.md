@@ -9,6 +9,12 @@ At the dawn of time, Tiamat, the Queen of Evil Dragons, slew a rival dragon god 
 
 When a hydra sleeps, at least one of its heads remains awake and alert, making the creature difficult to catch by surprise.
 
+### Environment
+(FIXME)
+
+### Token
+![](Hydra-Token.png)
+
 >### Hydra
 >*Huge monstrosity, unaligned*
 >___
@@ -21,7 +27,7 @@ When a hydra sleeps, at least one of its heads remains awake and alert, making t
 >|20 (+5)|12 (+1)|20 (+5)|2 (-4)|10 (+0)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

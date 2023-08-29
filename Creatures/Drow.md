@@ -1,7 +1,7 @@
 # Drow
 Tens of thousands of years ago, the elves were divided, with those of benevolent disposition battling those that were selfish and cruel. The war among elvenkind ended when the good elves banished their malevolent kin to the subterranean depths. Here, in the lightless caverns and endless warrens of twisting passages, the dark elves — the drow — found refuge. They also found leadership in the only elven deity who had not forsaken them. At her command, the drow built an empire in the underworld.
 
-> Jump to: [Drow](#Drow) | [Drow Elite Warrior](#drow-elite-warrior) | [Drow Mage](#drow-mage) | [Drow Priestess of Lolth](#drow-priestess-of-lolth) | [Drow Arachnomancer](#drow-arachnomancer) | [Drow Favored Consort](#drow-favored-consort) | [Drow House Captain](#drow-house-captain) [Drow Inquisitor](#drow-inquisitor) | [Drow Matron Mother](#drow-matron-mother) | [Drow Rebellious Matron](#drow-rebellious-matron) | [Drow Shadowblade](#drow-shadowblade)
+> Jump to: [Drow](Drow.md#drow) | [Drow Elite Warrior](Drow.md#drow-elite-warrior) | [Drow Mage](Drow.md#drow-mage) | [Drow Priestess of Lolth](Drow.md#drow-priestess-of-lolth) | [Drow Arachnomancer](Drow.md#drow-arachnomancer) | [Drow Favored Consort](Drow.md#drow-favored-consort) | [Drow House Captain](Drow.md#drow-house-captain) | [Drow Inquisitor](Drow.md#drow-inquisitor) | [Drow Matron Mother](Drow.md#drow-matron-mother) | [Drow Rebellious Matron](Drow.md#drow-rebellious-matron) | [Drow Shadowblade](Drow.md#drow-shadowblade)
 
 A drow city is a sprawling metropolis enclosed by high walls. Non-drow visitors must conduct their business outside the walls under watchful eyes. The drow raise and keep giant spiders to help protect their cities against intruders, even as they drape those cities in beautiful webbing, creating a gossamer snare to catch flying enemies that would otherwise soar over the walls.
 
@@ -32,6 +32,12 @@ Drow are seldom seen by the surface world. Though they plot to destroy the elves
 
 ***Underdark Cities.*** The drow build fantastic cities in enormous caverns where food and water are abundant. Their ability to sculpt stone rivals that of the greatest dwarf artisans, yet their structures retain a decidedly elven aesthetic. Though appearing delicate, drow settlements are structurally sound and remarkably resilient. The drow like to hollow out enormous stalagmites and stalactites, creating populated spires that rise from the floors and ceilings.
 
+### Environment
+(FIXME)
+
+### Token
+![](Drow-Token.png)
+
 >### Drow
 >*Medium humanoid (elf), neutral evil*
 >___
@@ -44,7 +50,7 @@ Drow are seldom seen by the surface world. Though they plot to destroy the elves
 >|10 (+0)|14 (+2)|10 (+0)|11 (+0)|11 (+0)|12 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -78,6 +84,12 @@ Drow elite warriors defend their houses and their superiors against all enemies,
 
 Elite warriors can be male or female.
 
+### Environment
+(FIXME)
+
+### Token
+![](DrowEliteWarrior-Token.png)
+
 >### Drow Elite Warrior
 >*Medium humanoid (elf), neutral evil*
 >___
@@ -90,7 +102,7 @@ Elite warriors can be male or female.
 >|13 (+1)|18 (+4)|14 (+2)|11 (+0)|13 (+1)|12 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Dex +7,Con +5,Wis +4
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -126,6 +138,12 @@ Elite warriors can be male or female.
 ## Drow Mage
 Privileged drow males who lack the strength and fighting prowess to train as warriors have no recourse but to pursue the study of magic. For them, it is a matter of survival. Female drow with a natural affinity for the arcane arts may also become drow mages, although they are much less common.
 
+### Environment
+(FIXME)
+
+### Token
+![](DrowMage-Token.png)
+
 >### Drow Mage
 >*Medium humanoid (elf), neutral evil*
 >___
@@ -138,7 +156,7 @@ Privileged drow males who lack the strength and fighting prowess to train as war
 >|9 (-1)|14 (+2)|10 (+0)|17 (+3)|13 (+1)|12 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -165,11 +183,17 @@ Privileged drow males who lack the strength and fighting prowess to train as war
 >***Summon Demon (1/Day).*** The drow magically summons a quasit, or attempts to summon a shadow demon with a 50 percent chance of success. The summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
 >
 >***Spellcasting.*** The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The drow has the following wizard spells prepared:
+>
 >* Cantrips (at will): mage hand, minor illusion, poison spray, ray of frost
+>
 >* 1st level (4 slots): mage armor, magic missile, shield, witch bolt
+>
 >* 2nd level (3 slots): alter self, misty step, web
+>
 >* 3rd level (3 slots): fly, lightning bolt
+>
 >* 4th level (3 slots): Evard's black tentacles, greater invisibility
+>
 >* 5th level (2 slots): cloudkill
 >
 
@@ -179,6 +203,12 @@ Privileged drow males who lack the strength and fighting prowess to train as war
 Female drow with blood ties to a noble house are molded and trained from birth to become priestesses of Lolth. The Spider Queen doesn't allow male drow to hold such positions.
 
 Such priestesses execute the will of the Spider Queen, and as a result, they wield tremendous power and influence in drow society. The matron mothers who rule the drow houses are the most powerful of Lolth's priestesses, but they must constantly balance their devotion to the Spider Queen with their devotion to their families.
+
+### Environment
+(FIXME)
+
+### Token
+![](DrowPriestessofLolth-Token.png)
 
 >### Drow Priestess of Lolth
 >*Medium humanoid (elf), neutral evil*
@@ -192,7 +222,7 @@ Such priestesses execute the will of the Spider Queen, and as a result, they wie
 >|10 (+0)|14 (+2)|12 (+1)|13 (+1)|17 (+3)|18 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Con +4,Wis +6,Cha +7
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -223,10 +253,15 @@ Such priestesses execute the will of the Spider Queen, and as a result, they wie
 >***Spellcasting.*** The drow is a 10th-level spellcaster. Her spellcasting ability is Wisdom (save DC 14, +6 to hit with spell attacks). The drow has the following cleric spells prepared:
 >
 >* Cantrips (at will): guidance, poison spray, resistance, spare the dying, thaumaturgy
+>
 >* 1st level (4 slots): animal friendship, cure wounds, detect poison and disease, ray of sickness
+>
 >* 2nd level (3 slots): lesser restoration, protection from poison, web
+>
 >* 3rd level (3 slots): conjure animals (2 giant spiders), dispel magic
+>
 >* 4th level (3 slots): divination, freedom of movement
+>
 >* 5th level (2 slots): insect plague, mass cure wounds
 >
 
@@ -234,6 +269,12 @@ Such priestesses execute the will of the Spider Queen, and as a result, they wie
 
 ## Drow Arachnomancer
 Drow spellcasters who seek to devote themselves wholly to Lolth, the Spider Queen, sometimes walk the sinister path of the arachnomancer. By offering up body and soul to Lolth, they gain tremendous power and a supernatural connection to the ancient spiders of the Demonweb Pits, channeling magic from that dread place.
+
+### Environment
+(FIXME)
+
+### Token
+![](DrowArachnomancer-Token.png)
 
 >### Drow Arachnomancer
 >*Medium Humanoid (Elf), Typically Chaotic Evil*
@@ -294,6 +335,12 @@ Those favored consorts who prove their cunning gain the ear, and perhaps even th
 
 Some favored consorts work behind the scenes to undermine the evils encouraged by Lolth. Others can be found in Underdark cities free of Lolth's influence, where these powerful spellcasters apply their might toward ending her tyranny.
 
+### Environment
+(FIXME)
+
+### Token
+![](DrowFavoredConsort-Token.png)
+
 >### Drow Favored Consort
 >*Medium Humanoid (Elf, Wizard), Any Alignment*
 >___
@@ -346,6 +393,12 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
 A drow house captain leads the troops of an Underdark faction, whether defending a stronghold or leading forces against enemies. These officers make extensive study of strategy and tactics to become effective leaders in battle.
 
 Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, each noble house entrusts the leadership of its military forces to a house captain, who is typically the first or second son of a drow matron mother (appears in this book). Elsewhere drow house captains fight in the war against Lolth, often allying with duergar and others who also wish to rid their subterranean world of that god's malevolence.
+
+### Environment
+(FIXME)
+
+### Token
+![](DrowHouseCaptain-Token.png)
 
 >### Drow House Captain
 >*Medium Humanoid (Elf), Any Alignment*
@@ -401,6 +454,12 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 ## Drow Inquisitor
 Lolth's worshipers expect treachery--the Spider Queen encourages it, after all. A certain amount of backstabbing and double-crossing can be managed, but too much can undermine an entire community. To keep some semblance of order and to root out traitors, priestesses of Lolth employ inquisitors. Inquisitors are chosen from the ranks of the priesthood, and their authority is equaled only by that of the drow matron mothers of the noble houses. Anyone they decide is at odds with the hierarchy faces painful interrogation and usually an excruciating death.
 
+### Environment
+(FIXME)
+
+### Token
+![](DrowInquisitor-Token.png)
+
 >### Drow Inquisitor
 >*Medium Humanoid (Cleric, Elf), Typically Neutral Evil*
 >___
@@ -453,6 +512,12 @@ Lolth's worshipers expect treachery--the Spider Queen encourages it, after all. 
 Among drow followers of Lolth, each noble house is led by a matron mother, an influential priestess of Lolth charged with carrying out the god's will while also advancing the interests of the family. Matron mothers embody the scheming and treachery associated with the Queen of Spiders. Each stands at the center of a vast conspiratorial web, with demons, spiders, and conscripted soldiers positioned between them and their enemies. Although matron mothers command great power, that power depends on maintaining the Spider Queen's favor, and the goddess sometimes capriciously takes back what she has given. The stat block here represents a matron mother at the height of her power.
 
 A matron mother is almost never encountered alone. She is typically accompanied by a drow favored consort and a drow house captain, each of whom appears in this book. Other Underdark creatures might also be in the priestess's presence, providing protection or advice.
+
+### Environment
+(FIXME)
+
+### Token
+![](DrowMatronMother-Token.png)
 
 >### Drow Matron Mother
 >*Medium Humanoid (Cleric, Elf), Typically Neutral Evil*
@@ -514,22 +579,38 @@ A matron mother is almost never encountered alone. She is typically accompanied 
 >
 >***Cast a Spell (Costs 2 Actions).*** The drow uses Spellcasting.
 >
+>### Lair Actions
+>
+>n initiative count 20 (losing initiative ties), the drow can take one of the following lair actions when in her lair; she can't take the same lair action two rounds in a row:
+>
+> Perceive Interlopers. The drow projects her mind throughout her lair, marking any potential threats against her or her retinue. Until initiative count 20 of the next round, hostile creatures within the lair can't become hidden from her and gain no benefit from the invisible condition against her.
+>
+> Spectral Web. A glistening spectral spider web erupts from a point the drow can see within 120 feet of her. Each creature within 60 feet of that point must succeed a DC 19 Dexterity saving throw or be restrained for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>
+> Telekinetic Throw. The drow targets one creature she can see within 60 feet of her and attempts to expel it from her presence. The target must succeed on a DC 19 Strength saving throw or be flung 2d6 � 10 feet through the air. A creature smashed into a solid object takes 1d6 bludgeoning damage for every 10 feet moved. If released in midair, the creature takes falling damage as normal.
+>
+>### Regional Effects
+>
 
 ### A Drow Matron Mother's Lair
 The palace of a drow matron mother is her home and fortress. Sigils throughout the building allow the matron mother to use the following lair actions while within it.Any temple of Lolth also functions as a matron mother's lair while she is inside it, unless she has renounced Lolth or another matron mother is present. When two or more matron mothers gather within a temple of their goddess, none of them can use it as their lair.
 
 #### Lair Actions
-On initiative count 20 (losing initiative ties), the drow can take one of the following lair actions when in her lair; she can't take the same lair action two rounds in a row:
-* Perceive Interlopers. The drow projects her mind throughout her lair, marking any potential threats against her or her retinue. Until initiative count 20 of the next round, hostile creatures within the lair can't become hidden from her and gain no benefit from the invisible condition against her.
-* Spectral Web. A glistening spectral spider web erupts from a point the drow can see within 120 feet of her. Each creature within 60 feet of that point must succeed a DC 19 Dexterity saving throw or be restrained for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-* Telekinetic Throw. The drow targets one creature she can see within 60 feet of her and attempts to expel it from her presence. The target must succeed on a DC 19 Strength saving throw or be flung 2d6 � 10 feet through the air. A creature smashed into a solid object takes 1d6 bludgeoning damage for every 10 feet moved. If released in midair, the creature takes falling damage as normal.
+
 
 #### Regional Effects
+
 
 ---
 
 ## Drow Rebellious Matron
 Some matron mothers renounce Lolth and join the war against their former goddess. Even without their Lolth-granted abilities, drow matron mothers are formidable opponents, and several of them hold positions of great influence in the Underdark armies arrayed against the followers of Lolth.
+
+### Environment
+(FIXME)
+
+### Token
+![](DrowRebelliousMatron-Token.png)
 
 >### Drow Rebellious Matron
 >*Medium Humanoid (Cleric, Elf), any alignment*
@@ -584,18 +665,25 @@ Some matron mothers renounce Lolth and join the war against their former goddess
 >
 >***Cast a Spell (Costs 2 Actions).*** The drow uses Spellcasting.
 >
+>### Lair Actions
+>
+>n initiative count 20 (losing initiative ties), the drow can take one of the following lair actions when in her lair; she can't take the same lair action two rounds in a row:
+>
+>****Perceive Interlopers.*** The drow projects her mind throughout her lair, marking any potential threats against her or her retinue. Until initiative count 20 of the next round, hostile creatures within the lair can't become hidden from her and gain no benefit from the invisible condition against her.
+>
+>****Telekinetic Throw.*** The drow targets one creature she can see within 60 feet of her and attempts to expel it from her presence. The target must succeed on a DC 19 Strength saving throw or be flung 2d6 * 10 feet through the air. A creature smashed into a solid object takes 1d6 bludgeoning damage for every 10 feet moved. If released in midair, the creature takes falling damage as normal.
+>
+>### Regional Effects
+>
 
 ### A Drow Rebellious Matron's Lair
 Habits die hard, and rebellious matron mothers still look to create lairs as places of refuge and defense, even when embedded in other societies. Sigils throughout the building allow the matron mother to use the following lair actions while within it.
 
 #### Lair Actions
-On initiative count 20 (losing initiative ties), the drow can take one of the following lair actions when in her lair; she can't take the same lair action two rounds in a row:
 
-* ***Perceive Interlopers.*** The drow projects her mind throughout her lair, marking any potential threats against her or her retinue. Until initiative count 20 of the next round, hostile creatures within the lair can't become hidden from her and gain no benefit from the invisible condition against her.
-
-* ***Telekinetic Throw.*** The drow targets one creature she can see within 60 feet of her and attempts to expel it from her presence. The target must succeed on a DC 19 Strength saving throw or be flung 2d6 * 10 feet through the air. A creature smashed into a solid object takes 1d6 bludgeoning damage for every 10 feet moved. If released in midair, the creature takes falling damage as normal.
 
 #### Regional Effects
+
 
 ---
 
@@ -603,6 +691,12 @@ On initiative count 20 (losing initiative ties), the drow can take one of the fo
 Drow shadowblades steal down the dim passages of the Underdark, bound on errands of mayhem. They protect enclaves and Underdark cities from enemies and track down thieves who make off with prized treasures. In the Underdark, drow noble houses often employ shadowblades to eliminate rivals from other houses. In communities free of Lolth's sway, they serve as spies tasked with foiling the plots of that demon lord's cult, though some do go entirely mercenary and work for the highest bidders. In any role they take on, they move undetected until the moment they attack--and then they are the last thing their victims see.
 
 A shadowblade gains their powers over shadow via a ritual in which they kill a shadow demon and mystically prevent it from re-forming in the Abyss, siphoning its essence into themselves.
+
+### Environment
+(FIXME)
+
+### Token
+![](DrowShadowblade-Token.png)
 
 >### Drow Shadowblade
 >*Medium Humanoid (Elf), Any Alignment*
@@ -651,3 +745,4 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
 >#### Bonus Actions
 >***Shadow Step.*** While in dim light or darkness, the drow teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see that is also in dim light or darkness. It then has advantage on the first melee attack it makes before the end of the turn.
 >
+

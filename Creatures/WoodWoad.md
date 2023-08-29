@@ -13,6 +13,12 @@ This new body, armored in tough bark and bearing a gnarled club and shield, is a
 
 Wood woads are drawn to creatures that have close ties to nature, and that protect and respect the land, such as druids and treants. Some treants have wood woad servants by virtue of age-old pacts with druids or fey that performed the rituals, while others acquire the services of freed wood woads that find renewed purpose in the domain of a kindred guardian.
 
+### Environment
+Forest
+
+### Token
+![](WoodWoad-Token.png)
+
 >### Wood Woad
 >*Medium plant, lawful neutral*
 >___
@@ -25,7 +31,7 @@ Wood woads are drawn to creatures that have close ties to nature, and that prote
 >|18 (+4)|12 (+1)|16 (+3)|10 (+0)|13 (+1)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** fire
 >- **Damage Resistances** bludgeoning,piercing

@@ -1,7 +1,7 @@
 # Quaggoth
 Violent and territorial, quaggoths climb the chasms of the Underdark. They maul their foes in a frenzy, becoming even more murderous in the face of death.
 
-> Jump to: [Quaggoth](#quaggoth-1) | [Quaggoth Thonot](#quaggoth-thonot)
+> Jump to: [Quaggoth](Quaggoth.md#quaggoth) | [Quaggoth Thonot](Quaggoth.md#quaggoth-thonot)
 
 ***Quaggoth Origins.*** In a distant age, quaggoth tribes dwelled upon the surface as nocturnal arboreal hunters, possessing their own language and culture. When elves appeared in the mortal realm, they clashed with the quaggoths, eventually driving them to near extinction. Only by fleeing deep into the Underdark did the quaggoths survive.
 
@@ -16,6 +16,13 @@ As they passed the ages deep beneath the world, the quaggoths' fur lost its colo
 ---
 
 ## Quaggoth
+(No description given)
+
+### Environment
+Underdark
+
+### Token
+![](Quaggoth-Token.png)
 
 >### Quaggoth
 >*Medium humanoid (quaggoth), chaotic neutral*
@@ -29,7 +36,7 @@ As they passed the ages deep beneath the world, the quaggoths' fur lost its colo
 >|17 (+3)|12 (+1)|16 (+3)|6 (-2)|12 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -51,6 +58,13 @@ As they passed the ages deep beneath the world, the quaggoths' fur lost its colo
 ---
 
 ## Quaggoth Thonot
+(No description given)
+
+### Environment
+Underdark
+
+### Token
+![](QuaggothThonot-Token.png)
 
 >### Quaggoth Thonot
 >*Medium humanoid (quaggoth), chaotic neutral*
@@ -64,7 +78,7 @@ As they passed the ages deep beneath the world, the quaggoths' fur lost its colo
 >|17 (+3)|12 (+1)|16 (+3)|6 (-2)|12 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

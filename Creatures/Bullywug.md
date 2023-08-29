@@ -17,6 +17,12 @@ Captives are dragged before the king or queen — a bullywug of unusually large 
 
 Simple concepts in the language are understandable to frogs and toads. Bullywugs use this capability to form strong bonds with giant frogs, which they train as guardians and hunters. Larger specimens are sometimes used as mounts as well. The frogs' ability to swallow creatures whole provides a bullywug hunting band an easy means of carrying prey back to their villages.
 
+### Environment
+Swamp
+
+### Token
+![](Bullywug-Token.png)
+
 >### Bullywug
 >*Medium humanoid, neutral evil*
 >___

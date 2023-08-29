@@ -15,7 +15,7 @@ Each shoosuva is bonded to a particular gnoll and fights alongside its master. A
 >|18 (+4)|13 (+1)|17 (+3)|7 (-2)|14 (+2)|9 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Dex +4,Con +6,Wis +5
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning; bludgeoning,piercing,and slashing from nonmagical attacks

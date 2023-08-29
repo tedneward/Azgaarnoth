@@ -15,7 +15,7 @@ A hulking goristro sometimes bears a palanquin, carrying smaller demons on its b
 >|25 (+7)|11 (+0)|25 (+7)|6 (-2)|13 (+1)|14 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +6
 >- **Saving Throws** Str +13,Dex +6,Con +13,Wis +7
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning; bludgeoning,piercing,and slashing from nonmagical attacks

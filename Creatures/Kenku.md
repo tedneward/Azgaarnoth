@@ -13,6 +13,12 @@ Their talent for mimicry extends to handwriting, and criminal organizations ofte
 
 ***The Wistful Wingless.*** All kenku pine for the ability to fly, and thus the punishments they mete out to one another often involve false wings, such as heavy wings of wood borne as a mark of shame. As a final, tragic reminder of the wings they once had, kenku carry out executions by hurling their condemned from tall buildings or cliffs.
 
+### Environment
+(FIXME)
+
+### Token
+![](Kenku-Token.png)
+
 >### Kenku
 >*Medium humanoid (kenku), chaotic neutral*
 >___
@@ -25,7 +31,7 @@ Their talent for mimicry extends to handwriting, and criminal organizations ofte
 >|10 (+0)|16 (+3)|10 (+0)|11 (+0)|10 (+0)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

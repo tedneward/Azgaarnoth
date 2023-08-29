@@ -7,6 +7,12 @@ A baleful eye peers out from the darkness, its gleam hinting at a weird intellig
 
 ***Lurkers in Magical Places.*** Nothics are notorious for infiltrating arcane academies and other places rich in magical learning. They are driven by the vague knowledge that there exists a method to reverse their condition. This isn't a clear sense of purpose, but rather an obsessive tug at the end of the mind. Some nothics are clever enough to realize that this is merely part of the strange lesson for their folly, a false hope to drive them to seek out more arcane secrets.
 
+### Environment
+Ruins, Urban
+
+### Token
+![](Nothic-Token.png)
+
 >### Nothic
 >*Medium aberration, neutral evil*
 >___
@@ -19,7 +25,7 @@ A baleful eye peers out from the darkness, its gleam hinting at a weird intellig
 >|14 (+2)|16 (+3)|16 (+3)|13 (+1)|10 (+0)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
