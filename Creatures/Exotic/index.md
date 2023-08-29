@@ -1,5 +1,4 @@
 ## A
-- [Aberrant Spirit](Spirits.md#aberrant-spirit)
 - [Aboleth](Aboleth.md)
 - [Achaierai](Achaierai.md)
 - [Adult Oblex](Oblexes.md#adult-oblex)
@@ -31,22 +30,18 @@
 - [Clockwork Stone Defender](Clockworks.md#clockwork-stone-defender)
 - [Clockworks](Clockworks.md): [Clockwork Bronze Scout](Clockworks.md#clockwork-bronze-scout) | [Clockwork Iron Cobra](Clockworks.md#clockwork-iron-cobra) | [Clockwork Oaken Bolter](Clockworks.md#clockwork-oaken-bolter) | [Clockwork Stone Defender](Clockworks.md#clockwork-stone-defender)
 - [Cockatrice](Cockatrice.md)
-- [Construct Spirit](Spirits.md#construct-spirit)
 
 ## D
 - [Death Kiss](Beholderkin.md#death-kiss)
 - [Death Tyrant](Beholderkin.md#death-tyrant)
 - [Deep Scion](DeepScion.md)
 - [Doppelganger](Doppelganger.md)
-- [Draconic Spirit](Spirits.md#draconic-spirit)
 
 ## E
 - [Elder Brain](MindFlayers.md#elder-brain)
 - [Elder Oblex](Oblexes.md#elder-oblex)
-- [Elemental Spirit](Spirits.md#elemental-spirit)
 
 ## F
-- [Fiendish Spirit](Spirits.md#fiendish-spirit)
 - [Flesh Golem](Golems.md#flesh-golem)
 
 ## G
@@ -93,13 +88,10 @@
 - [Psychic Gray Ooze](Oozes.md#psychic-gray-ooze)
 
 ## R
-- [Reaper Spirit](Spirits.md#reaper-spirit)
 
 ## S
-- [Shadow Spirit](Spirits.md#shadow-spirit)
 - [Slithering Tracker](Oozes.md#slithering-tracker)
 - [Spectator](Beholderkin.md#spectator)
-- [Spirits](Spirits.md): [Aberrant Spirit](Spirits.md#aberrant-spirit) | [Celestial Spirit](Spirits.md#celestial-spirit) | [Construct Spirit](Spirits.md#construct-spirit) | [Draconic Spirit](Spirits.md#draconic-spirit) | [Elemental Spirit](Spirits.md#elemental-spirit) | [Fiendish Spirit](Spirits.md#fiendish-spirit) | [Reaper Spirit](Spirits.md#reaper-spirit) | [Shadow Spirit](Spirits.md#shadow-spirit) | [Warrior Spirit](Spirits.md#warrior-spirit) | [Wildfire Spirit](Spirits.md#wildfire-spirit)
 - [Stone Golem](Golems.md#stone-golem)
 
 ## T
@@ -113,10 +105,8 @@
 - [Vine Blight](Blights.md#vine-blight)
 
 ## W
-- [Warrior Spirit](Spirits.md#warrior-spirit)
 - [Werebear](Lycanthropes.md#werebear)
 - [Wereboar](Lycanthropes.md#wereboar)
 - [Wererat](Lycanthropes.md#wererat)
 - [Weretiger](Lycanthropes.md#weretiger)
 - [Werewolf](Lycanthropes.md#werewolf)
-- [Wildfire Spirit](Spirits.md#wildfire-spirit)
