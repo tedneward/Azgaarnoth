@@ -11,6 +11,8 @@ Whatever riches that the explorers bring with them adds to the hoard guarded by 
 
 ***Waiting Servants.*** Although the aboleths' ancient empire fell long ago, the psychic bonds between them and their created servants remain intact. Chuuls that come into contact with aboleths immediately assume their old roles. Such chuuls redirect their compulsions to the service of the aboleths' sinister purposes.
 
+### Environments
+Ruins, Underdark, Underwater
 
 >### Chuul
 >*Large aberration, chaotic evil*
@@ -24,7 +26,7 @@ Whatever riches that the explorers bring with them adds to the hoard guarded by 
 >|19 (+4)|10 (+0)|16 (+3)|5 (-3)|11 (+0)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

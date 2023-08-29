@@ -125,7 +125,7 @@ Zombies created by a death tyrant are used and discarded as needed. They stand g
 >|10 (+0)|14 (+2)|14 (+2)|19 (+4)|15 (+2)|19 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** Str +5,Con +7,Int +9,Wis +7,Cha +9
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -216,7 +216,7 @@ Like any beholder, a spectator views itself as the epitome of its kind, and it h
 >|8 (-1)|14 (+2)|14 (+2)|13 (+1)|14 (+2)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

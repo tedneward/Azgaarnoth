@@ -30,7 +30,7 @@ When needle blights detect a threat, they loose a pollen that the wind carries t
 >|12 (+1)|12 (+1)|13 (+1)|4 (-3)|8 (-1)|3 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -68,7 +68,7 @@ Given how dry they are, twig blights are particularly susceptible to fire.
 >|6 (-2)|13 (+1)|12 (+1)|4 (-3)|8 (-1)|3 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** fire
 >- **Damage Resistances** 
@@ -104,7 +104,7 @@ Vine blights are the only blights capable of speech. Through its connection to t
 >|15 (+2)|8 (-1)|14 (+2)|5 (-3)|10 (+0)|3 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

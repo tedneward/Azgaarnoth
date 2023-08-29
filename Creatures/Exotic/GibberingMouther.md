@@ -21,7 +21,7 @@ A gibbering mouther leaves nothing of its prey behind. However, even as the last
 >|10 (+0)|8 (-1)|16 (+3)|3 (-4)|10 (+0)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

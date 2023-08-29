@@ -12,7 +12,7 @@
 >|19 (+4)|16 (+3)|14 (+2)|11 (+0)|14 (+2)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

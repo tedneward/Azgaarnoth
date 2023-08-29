@@ -29,7 +29,7 @@ On their home plane, gargoyles carve out earth motes that Ogrémoch hurtles into
 >|15 (+2)|11 (+0)|16 (+3)|6 (-2)|11 (+0)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks that aren't adamantine

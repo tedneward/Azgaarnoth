@@ -19,7 +19,7 @@ When it changes shape, a mimic excretes an adhesive that helps it seize prey and
 >|17 (+3)|12 (+1)|15 (+2)|5 (-3)|13 (+1)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

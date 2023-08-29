@@ -26,7 +26,7 @@ Grassland, Hill, Mountain, Underdark
 >|19 (+4)|11 (+0)|19 (+4)|3 (-4)|14 (+2)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

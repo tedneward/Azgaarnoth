@@ -13,7 +13,7 @@ The cockatrice looks like a hideous hybrid of lizard, bird, and bat, and it is i
 >|6 (-2)|12 (+1)|12 (+1)|2 (-4)|13 (+1)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

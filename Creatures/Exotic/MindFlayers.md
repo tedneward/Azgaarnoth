@@ -35,7 +35,7 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 >|11 (+0)|12 (+1)|12 (+1)|19 (+4)|17 (+3)|17 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Int +7,Wis +6,Cha +6
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -78,7 +78,7 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 >|11 (+0)|12 (+1)|12 (+1)|19 (+4)|17 (+3)|17 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Int +7,Wis +6,Cha +6
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -91,32 +91,24 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 >___
 >***Magic Resistance.*** The mind flayer has advantage on saving throws against spells and other magical effects.
 >
->***Innate Spellcasting (Psionics).*** The mind flayer's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
->
->At will: detect thoughts, levitate
->
->1/day each: dominate monster, plane shift (self only)
->
->***Spellcasting.*** The mind flayer is a 10th-level spellcaster. Its spellcasting ability is Intelligence (save DC 15, +7 to hit with spell attacks). The mind flayer has the following wizard spells prepared:
->
->Cantrips (at will): blade ward, dancing lights, mage hand, shocking grasp
->
->1st level (4 slots): detect magic, disguise self, shield, sleep
->
->2nd level (3 slots): blur, invisibility, ray of enfeeblement
->
->3rd level (3 slots): clairvoyance, lightning bolt, sending
->
->4th level (3 slots): confusion, hallucinatory terrain
->
->5th level (2 slots): telekinesis, wall of force
->
 >#### Actions
 >***Tentacles.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 15 (2d10 + 4) psychic damage. If the target is Medium or smaller, it is grappled (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be stunned until this grapple ends.
 >
 >***Extract Brain.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one incapacitated humanoid grappled by the mind flayer. Hit: The target takes 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the mind flayer kills the target by extracting and devouring its brain.
 >
 >***Mind Blast (Recharge 5–6).*** The mind flayer magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take 22 (4d8 + 4) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>
+>***Innate Spellcasting (Psionics).*** The mind flayer's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
+>* At will: detect thoughts, levitate
+>* 1/day each: dominate monster, plane shift (self only)
+>
+>***Spellcasting.*** The mind flayer is a 10th-level spellcaster. Its spellcasting ability is Intelligence (save DC 15, +7 to hit with spell attacks). The mind flayer has the following wizard spells prepared:
+>* Cantrips (at will): blade ward, dancing lights, mage hand, shocking grasp
+>* 1st level (4 slots): detect magic, disguise self, shield, sleep
+>* 2nd level (3 slots): blur, invisibility, ray of enfeeblement
+>* 3rd level (3 slots): clairvoyance, lightning bolt, sending
+>* 4th level (3 slots): confusion, hallucinatory terrain
+>* 5th level (2 slots): telekinesis, wall of force
 >
 
 ---
@@ -136,7 +128,7 @@ The path to true lichdom is something only the most powerful mind flayer mages c
 >|11 (+0)|16 (+3)|16 (+3)|20 (+5)|14 (+2)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +7
 >- **Saving Throws** Con +10,Int +12,Wis +9
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,lightning,necrotic
@@ -386,7 +378,7 @@ Very rarely, a tadpole from an elder brain's brine pool transforms an individual
 >|15 (+2)|12 (+1)|15 (+2)|21 (+5)|19 (+4)|21 (+5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Int +9,Wis +8,Cha +9
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -478,17 +470,17 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
 ---
 
 ## Neothelid
-A slime-covered worm of immense size, a neothelid is the result of the mind flayer reproductive cycle gone horribly wrong. When an illithid colony collapses, typically after an external assault, and the elder brain is killed, the colony's tadpoles are suddenly freed from their fate. They no longer serve as food--and are no longer fed by their caretakers. Driven by hunger, they turn to devouring one another. Only one tadpole survives out of the thousands in the colony's pool, and it emerges as a neothelid.
+A slime-covered worm of immense size, a neothelid is the result of the mind flayer reproductive cycle gone horribly wrong. On rare occasions, an illithid colony collapses, typically after an external assault, and the elder brain is killed. When that happens, the colony's tadpoles are suddenly freed from their fate. They no longer serve as food, and in turn are no longer fed by their caretakers. Driven by hunger, they turn to devouring one another. Only one tadpole survives out of the thousands in the colony's pool, and it emerges as a neothelid.
 
-Neothelids know nothing beyond their predatory existence. They prowl subterranean passages, using their rudimentary psionic abilities to search out and incapacitate brains to sate their constant hunger, growing ever more vicious. These creatures can spray tissue-dissolving enzymes from their tentacle ducts, reducing victims to puddles of slime and leaving only the pulsing brains unharmed. They have no knowledge of their link to illithids, so they're just as likely to prey on mind flayers as on anything else.
+***Abhorrent to Illithids.*** Among the strongest taboos in illithid society is the idea of allowing a mature tadpole to survive without implanting it into a donor brain. Under normal circumstances, any tadpole that grows larger than a few inches in length is killed by the elder brain to be food for it or for less mature tadpoles. Any tadpole that survives beyond that state is perceived as a threat to the colony, and the mind flayers organize hunting parties to exterminate the abomination. Lacking enough intelligence to be detected by an elder brain's power to sense thoughts, neothelids warrant such precautions.
 
-Mind flayers consider neothelids dangerous abominations--normally they eat or destroy any tadpoles that grow larger than a few inches in length without being implanted in a brain so they can't become such threats. Neothelids are not intelligent enough for elder brains to detect, so mind flayers are always alert for signs of their presence and organize hunting parties to exterminate any of these murderous worms they learn of.
+***Savage Behemoth.*** As a feral thing, a neothelid knows nothing beyond the predatory existence it has lived so far and struggles to comprehend its new psionic abilities. Neothelids prowl subterranean passages in search of more brains to sate their constant hunger, growing ever more vicious. These creatures can spray tissue-dissolving enzymes from their tentacle ducts, reducing victims to a puddle of slime and leaving only the pulsing brain unharmed. They have no knowledge of their link to illithids, so they're just as likely to prey on mind flayers as on anything else.
 
 >### Neothelid
->*Gargantuan Aberration, Typically Chaotic Evil*
+>*Gargantuan aberration, chaotic evil*
 >___
 >- **Armor Class** 16 (natural armor)
->- **Hit Points** 232 (15d20 + 75)
+>- **Hit Points** 325 (21d20 + 105)
 >- **Speed** 30 ft.
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
@@ -496,14 +488,14 @@ Mind flayers consider neothelids dangerous abominations--normally they eat or de
 >|27 (+8)|7 (-2)|21 (+5)|3 (-4)|16 (+3)|12 (+1)|
 >
 >___
->- **Proficiency Bonus** +5
+>- **Proficiency Bonus** +0
 >- **Saving Throws** Int +1,Wis +8,Cha +6
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
 >- **Damage Immunities** 
 >- **Condition Immunities** 
 >- **Skills** 
->- **Senses** blindsight 120 ft. (blind beyond this radius),passive Perception 13
+>- **Senses** blindsight 120 ft.,passive Perception 13
 >- **Languages** --
 >- **Challenge** 13
 >___
@@ -512,15 +504,13 @@ Mind flayers consider neothelids dangerous abominations--normally they eat or de
 >***Magic Resistance.*** The neothelid has advantage on saving throws against spells and other magical effects.
 >
 >#### Actions
->***Tentacles.*** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 21 (3d8 + 8) bludgeoning damage plus 11 (2d10) psychic damage. If the target is a Large or smaller creature, it must succeed on a DC 18 Strength saving throw or be swallowed by the neothelid. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the neothelid, and it takes 21 (6d6) acid damage at the start of each of the neothelid's turns.
+>***Tentacles.*** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 21 (3d8 + 8) bludgeoning damage plus 13 (3d8) psychic damage. If the target is a Large or smaller creature, it must succeed on a DC 18 Strength saving throw or be swallowed by the neothelid. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the neothelid, and it takes 35 (10d6) acid damage at the start of each of the neothelid's turns.
 >
 >If the neothelid takes 30 damage or more on a single turn from a creature inside it, the neothelid must succeed on a DC 18 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the neothelid. If the neothelid dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.
 >
 >***Acid Breath (Recharge 5-6).*** The neothelid exhales acid in a 60-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw, taking 35 (10d6) acid damage on a failed save, or half as much damage on a successful one.
 >
->***Spellcasting (Psionics).*** The neothelid casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 16):
->
->At will: levitate
->
->1/day each: confusion, feeblemind, telekinesis
+>***Innate Spellcasting (Psionics).*** The neothelid's innate spellcasting ability is Wisdom (spell save DC 16). It can innately cast the following spells, requiring no components:
+>* At will: levitate
+>* 1/day each: confusion, feeblemind, telekinesis
 >
