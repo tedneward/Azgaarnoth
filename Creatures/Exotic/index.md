@@ -1,3 +1,8 @@
+# Exotic creatures of Azgaarnoth
+These are creatures not commonly encountered or seen, many of which are told only as fables around the campfires at night or as bedtime stories (or warning tales) to children in the cities.
+
+---
+
 ## A
 - [Aboleth](Aboleth.md)
 - [Achaierai](Achaierai.md)

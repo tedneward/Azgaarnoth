@@ -1,8 +1,7 @@
 # Creature Template: Corrupted Creatures
 When a creature gets too close to the corrupting influence of demons and the Abyss, they become corrupted, their body being warped and twisted by the influence of evil and chaos.
 
-***Transformation.***
-When a creature becomes corrupted, it retains its statistics except as described below. The corrupted creature might retain or lose any or all of its lair actions, abilities, and traits or inherit new ones, as the DM sees fit.
+***Transformation.*** When a creature becomes corrupted, it retains its statistics except as described below. The corrupted creature might retain or lose any or all of its lair actions, abilities, and traits or inherit new ones, as the DM sees fit.
 
 * **Alignment.** Corruptions are Chaotic Evil.
 * **Armor Class.** Demonic flesh and ichor begins covering the body, forming horns and tough, strange skin. The corruption gains a +2 to their Armor Class.

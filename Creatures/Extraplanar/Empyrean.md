@@ -23,7 +23,7 @@ It is thought that the original Eldar were Empyreans, or that the Empyreans were
 >|30 (+10)|21 (+5)|30 (+10)|21 (+5)|22 (+6)|27 (+8)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +7
 >- **Saving Throws** Str +17,Int +12,Wis +13,Cha +15
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

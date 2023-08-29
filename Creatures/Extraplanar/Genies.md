@@ -54,7 +54,7 @@ As much as they enjoy enslaving others, the dao hate being enslaved. Powerful wi
 >|23 (+6)|12 (+1)|24 (+7)|12 (+1)|13 (+1)|14 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Int +5,Wis +5,Cha +6
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -69,14 +69,6 @@ As much as they enjoy enslaving others, the dao hate being enslaved. Powerful wi
 >
 >***Elemental Demise.*** If the dao dies, its body disintegrates into crystalline powder, leaving behind only equipment the dao was wearing or carrying.
 >
->***Innate Spellcasting.*** The dao's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
->
->At will: detect evil and good, detect magic, stone shape
->
->3/day each: passwall, move earth, tongues
->
->1/day each: conjure elemental (earth elemental only), gaseous form, invisibility, phantasmal killer, plane shift, wall of stone
->
 >***Sure-Footed.*** The dao has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 >
 >#### Actions
@@ -85,6 +77,11 @@ As much as they enjoy enslaving others, the dao hate being enslaved. Powerful wi
 >***Fist.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage.
 >
 >***Maul.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 20 (4d6 + 6) bludgeoning damage. If the target is a Huge or smaller creature, it must succeed on a DC 18 Strength check or be knocked prone.
+>
+>***Innate Spellcasting.*** The dao's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+>* At will: detect evil and good, detect magic, stone shape
+>* 3/day each: passwall, move earth, tongues
+>* 1/day each: conjure elemental (earth elemental only), gaseous form, invisibility, phantasmal killer, plane shift, wall of stone
 >
 
 ---
@@ -114,7 +111,7 @@ A mortal who desires the brief service of a djinni can entreat it with fine gift
 >|21 (+5)|15 (+2)|22 (+6)|15 (+2)|16 (+3)|20 (+5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Dex +6,Wis +7,Cha +9
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -127,14 +124,6 @@ A mortal who desires the brief service of a djinni can entreat it with fine gift
 >___
 >***Elemental Demise.*** If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.
 >
->***Innate Spellcasting.*** The djinni's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
->
->At will: detect evil and good, detect magic, thunderwave
->
->3/day each: create food and water (can create wine instead of water) , tongues, wind walk
->
->1/day each: conjure elemental (air elemental only), creation, gaseous form, invisibility, major image, plane shift
->
 >#### Actions
 >***Multiattack.*** The djinni makes three scimitar attacks.
 >
@@ -143,6 +132,11 @@ A mortal who desires the brief service of a djinni can entreat it with fine gift
 >***Create Whirlwind.*** A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.
 >
 >A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.
+>
+>***Innate Spellcasting.*** The djinni's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+>* At will: detect evil and good, detect magic, thunderwave
+>* 3/day each: create food and water (can create wine instead of water) , tongues, wind walk
+>* 1/day each: conjure elemental (air elemental only), creation, gaseous form, invisibility, major image, plane shift
 >
 
 ---
@@ -170,7 +164,7 @@ On the Material Plane, efreet dwell in fiery regions such as volcanoes and the b
 >|22 (+6)|12 (+1)|24 (+7)|16 (+3)|15 (+2)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Int +7,Wis +6,Cha +7
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -183,20 +177,17 @@ On the Material Plane, efreet dwell in fiery regions such as volcanoes and the b
 >___
 >***Elemental Demise.*** If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the efreeti was wearing or carrying.
 >
->***Innate Spellcasting.*** The efreeti's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
->
->At will: detect magic
->
->3/day each: enlarge/reduce, tongues
->
->1/day each: conjure elemental (fire elemental only), gaseous form, invisibility, major image, plane shift, wall of fire
->
 >#### Actions
 >***Multiattack.*** The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
 >
 >***Scimitar.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.
 >
 >***Hurl Flame.*** Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 17 (5d6) fire damage.
+>
+>***Innate Spellcasting.*** The efreeti's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+>* At will: detect magic
+>* 3/day each: enlarge/reduce, tongues
+>* 1/day each: conjure elemental (fire elemental only), gaseous form, invisibility, major image, plane shift, wall of fire
 >
 
 ---
@@ -232,7 +223,7 @@ Humanoids are among the lowest of the creatures that marids must tolerate, altho
 >|22 (+6)|12 (+1)|26 (+8)|18 (+4)|17 (+3)|18 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Dex +5,Wis +7,Cha +8
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** acid,cold,lightning
@@ -247,19 +238,16 @@ Humanoids are among the lowest of the creatures that marids must tolerate, altho
 >
 >***Elemental Demise.*** If the marid dies, its body disintegrates into a burst of water and foam, leaving behind only equipment the marid was wearing or carrying.
 >
->***Innate Spellcasting.*** The marid's innate spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
->
->At will: create or destroy water, detect evil and good, detect magic, fog cloud, purify food and drink
->
->3/day each: tongues, water breathing, water walk
->
->1/day each: conjure elemental (water elemental only), control water, gaseous form, invisibility, plane shift
->
 >#### Actions
 >***Multiattack.*** The marid makes two trident attacks.
 >
 >***Trident.*** Melee or Ranged Weapon Attack: +10 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 13 (2d6 + 6) piercing damage, or 15 (2d8 + 6) piercing damage if used with two hands to make a melee attack.
 >
 >***Water Jet.*** The marid magically shoots water in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw. On a failure, a target takes 21 (6d6) bludgeoning damage and, if it is Huge or smaller, is pushed up to 20 feet away from the marid and knocked prone. On a success, a target takes half the bludgeoning damage, but is neither pushed nor knocked prone.
+>
+>***Innate Spellcasting.*** The marid's innate spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+>* At will: create or destroy water, detect evil and good, detect magic, fog cloud, purify food and drink
+>* 3/day each: tongues, water breathing, water walk
+>* 1/day each: conjure elemental (water elemental only), control water, gaseous form, invisibility, plane shift
 >
 

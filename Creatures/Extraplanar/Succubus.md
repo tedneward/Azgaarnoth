@@ -15,7 +15,7 @@ The succubus or incubus resorts to charming a victim magically only when necessa
 
 ***Fiendish Offspring.*** Succubi and incubi can reproduce with one another to spawn more of their kind. Less commonly, a succubus or incubus reproduces with a humanoid. From this unholy union, a cambion child is conceived. Invariably, the fiendish offspring is as wicked as its fiendish parent.
 
->### Succubus Incubus
+>### Succubus/Incubus
 >*Medium fiend (shapechanger), neutral evil*
 >___
 >- **Armor Class** 15 (natural armor)
@@ -27,7 +27,7 @@ The succubus or incubus resorts to charming a victim magically only when necessa
 >|8 (-1)|17 (+3)|13 (+1)|15 (+2)|12 (+1)|20 (+5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning,poison; bludgeoning,piercing,and slashing from nonmagical attacks

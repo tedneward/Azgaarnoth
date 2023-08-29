@@ -11,7 +11,7 @@ Ghouls roam the night in packs, driven by an insatiable hunger for humanoid fles
 ***Abyssal Origins.*** Ghouls trace their origins to the Abyss. Doresain, the first of their kind, was an elf worshiper of Orcus. Turning against his own people, he feasted on humanoid flesh to honor the Demon Prince of Undeath. As a reward for his service, Orcus transformed Doresain into the first ghoul. Doresain served Orcus faithfully in the Abyss, creating ghouls from the demon lord's other servants until an incursion by Yeenoghu, the demonic Gnoll Lord, robbed Doresain of his abyssal domain. When Orcus would not intervene on his behalf, Doresain turned to the elf gods for salvation, and they took pity on him and helped him escape certain destruction. Since then, elves have been immune to the ghouls' paralytic touch.
 
 ### Environment
-(FIXME)
+Extraplanar, Ruins, Urban, Underdark
 
 ### Token
 ![](Ghoul-Token.png)
@@ -48,10 +48,10 @@ Ghouls roam the night in packs, driven by an insatiable hunger for humanoid fles
 ---
 
 ## Ghast
-Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a ghast. Whereas ghouls are little more than savage beasts, a ghast is cunning and can inspire a pack of ghouls to follow its commands.
+Orcus (or a necromancer or pale master) sometimes infuses a ghoul with a stronger dose of abyssal energy, making a ghast. Whereas ghouls are little more than savage beasts, a ghast is cunning and can inspire a pack of ghouls to follow its commands.
 
 ### Environment
-(FIXME)
+Extraplanar, Ruins, Urban, Underdark
 
 ### Token
 ![](Ghast-Token.png)

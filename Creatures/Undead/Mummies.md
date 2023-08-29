@@ -93,28 +93,21 @@ The mummy lord's heart has AC 5, 25 hit points, and immunity to all damage excep
 >
 >***Rejuvenation.*** A destroyed mummy lord gains a new body in 24 hours if its heart is intact, regaining all its hit points and becoming active again. The new body appears within 5 feet of the mummy lord's heart.
 >
->***Spellcasting.*** The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:
->
->* Cantrips (at will): sacred flame, thaumaturgy
->
->* 1st level (4 slots): command, guiding bolt, shield of faith
->
->* 2nd level (3 slots): hold person, silence, spiritual weapon
->
->* 3rd level (3 slots): animate dead, dispel magic
->
->* 4th level (3 slots): divination, guardian of faith
->
->* 5th level (2 slots): contagion, insect plague
->
->* 6th level (1 slot): harm
->
 >#### Actions
 >***Multiattack.*** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 >
 >***Rotting Fist.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or other magic.
 >
 >***Dreadful Glare.*** The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
+>
+>***Spellcasting.*** The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:
+>* Cantrips (at will): sacred flame, thaumaturgy
+>* 1st level (4 slots): command, guiding bolt, shield of faith
+>* 2nd level (3 slots): hold person, silence, spiritual weapon
+>* 3rd level (3 slots): animate dead, dispel magic
+>* 4th level (3 slots): divination, guardian of faith
+>* 5th level (2 slots): contagion, insect plague
+>* 6th level (1 slot): harm
 >
 >#### Legendary Actions
 >The mummy lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The mummy lord regains spent legendary actions at the start of its turn.

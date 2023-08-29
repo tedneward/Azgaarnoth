@@ -26,6 +26,8 @@ When a dragon becomes a dracolich, it retains its statistics except as described
 
 * **Magic Resistance.** The dracolich has advantage on saving throws against spells and other magical effects.
 
+---
+
 ## Ghost
 ***Requirements.*** A ghost dragon is sometimes created when a powerful dragon is killed and its hoard looted, or when something of similar caliber happens to a living dragon. The dragon can only be laid to rest by setting right whatever wrong caused it to appear; in the former example, the hoard (or treasure of equivalent value) would have to be returned to the dragon's lair, at which point the dragon would sleep atop it and pass on to the afterlife with the entirety of the hoard. 
 
@@ -53,6 +55,8 @@ When a dragon becomes a dracolich, it retains its statistics except as described
 
 * Add new trait: ***Etherealness.*** The dragon enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.
 
+---
+
 ## Shadow
 Shadow dragons are true dragons that were either born in the Shadowfell or transformed by years spent within its dismal confines. Some shadow dragons embrace the Shadowfell for its bleak landscapes and desolation. Others seek to return to the Material Plane, hungry to spread the darkness and evil of the Plane of Shadow.
 
@@ -64,7 +68,6 @@ The magical nature of dragons holds an attraction for the Shadowfell, which seem
 
 ***Back in the World.*** A shadow dragon is so suffused with the power of the Shadowfell that even a return to the Material Plane can't undo its transformation. Some shadow dragons attempt to lure other creatures from the mortal realm back to the Shadowfell to keep them company, at least until they tire of their guests and devour them. Others are happy to leave the Shadowfell behind forever, understanding that treasure and power are easier to come by in the Material Plane.
 
-## Shadow Dragon Template
 ***Requirements.*** Only a true dragon can transform into a shadow dragon, and only if it is born in the Shadowfell or remains there for several years. A dracolich can't be turned into a shadow dragon, since it loses its draconic nature when it becomes undead.
 
 ***Transformation.*** When a dragon becomes a shadow dragon, it retains its statistics except as described below. The shadow dragon might retain or lose any or all of its lair actions or inherit new ones, as the DM sees fit.
@@ -82,6 +85,8 @@ The magical nature of dragons holds an attraction for the Shadowfell, which seem
 * Add new Action: ***Bite.*** If the dragon deals acid, cold, fire, lightning, or poison damage with its bite, change that damage type to necrotic.
 
 * Add new Action: ***Shadow Breath.*** Any damage-dealing breath weapon possessed by the dragon deals necrotic damage instead of its original damage type. A humanoid reduced to 0 hit points by this damage dies, and an undead shadow rises from its corpse and acts immediately after the dragon in the initiative count. The shadow is under the dragon's control.
+
+---
 
 ## Skeletal 
 Skeletal dragons are created through spells such as [animate dead](../Magic/Spells/animate-dead.md). Such a dragon has no memory of its former life or self, and functions identically to any other skeleton, though it retains some of its abilities and powers because of its draconic nature. 
@@ -105,6 +110,8 @@ Skeletal dragons are created through spells such as [animate dead](../Magic/Spel
 * **Skills.** The dragon loses all skill proficiencies.
 
 * **Dragon Feats.** The dragon loses all feats that it had taken in life.
+
+---
 
 ## Zombie
 Zombie dragons are created through spells such as [animate dead](../Magic/Spells/animate-dead.md). Such a dragon has no memory of its former life or self, and functions identically to any other zombie, though it retains some of its abilities and powers because of its draconic nature.
@@ -200,7 +207,7 @@ Tail Attack. The dracolich makes a tail attack.
 
 Wing Attack (Costs 2 Actions). The dracolich beats its tattered wings. Each creature within 10 feet of the dracolich must succeed on a DC 21 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. After beating its wings this way, the dracolich can fly up to half its flying speed.
 
-
+---
 
 Young Red Shadow Dragon
 This is a young red dragon that has had the [Shadow](../Templates/Dragon.md#shadow) template applied to it.

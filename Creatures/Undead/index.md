@@ -1,3 +1,8 @@
+# Undead
+The undead are those creatures brought back to some semblance of existence through necromantic or foul arts. Any "natural" creature (that is, not a celestial, fiend, elemental, or undead) can be raised/transformed as undead, either as a [skeleton](../Templates/Undeath.md#skeleton), a [zombie](../Templates/Undeath.md#zombie), [ghost](../Templates/Undeath.md#ghost), [withered](../Templates/Undeath.md#withered), or even [mummified](), [vampiric](), or into [lichdom]().
+
+---
+
 ## A
 - [Abomination](Abomination.md)
 - [Allip](Allip.md)
