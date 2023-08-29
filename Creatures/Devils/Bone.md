@@ -6,9 +6,12 @@ A bone devil appears as a humanoid husk, with dried skin stretched tight across 
 ### Bone Devil Polearm
 Some bone devils have the following action options.
 
-***Multiattack.*** The devil makes two attacks: one with its hooked polearm and one with its sting.
+> ***Multiattack.*** The devil makes two attacks: one with its hooked polearm and one with its sting.
+> 
+> ***Hooked Polearm.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 17 (2d12 + 4) piercing damage. If the target is a Huge or smaller creature, it is grappled (escape DC 14). Until this grapple ends, the devil can't use its polearm on another target.
+> 
 
-***Hooked Polearm.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 17 (2d12 + 4) piercing damage. If the target is a Huge or smaller creature, it is grappled (escape DC 14). Until this grapple ends, the devil can't use its polearm on another target.
+This pole arm disappears if the devil is apart from it for more than 1 minute.
 
 >### Bone Devil (Osyluth)
 >*Large fiend (devil), lawful evil*
@@ -22,7 +25,7 @@ Some bone devils have the following action options.
 >|18 (+4)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Int +5, Wis +6, Cha +7
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold; bludgeoning,piercing,and slashing from nonmagical attacks that aren't silvered

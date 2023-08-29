@@ -15,7 +15,7 @@ Legends tell that the first erinyes were angels that fell from the Upper Planes 
 >|18 (+4)|16 (+3)|18 (+4)|14 (+2)|14 (+2)|18 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Dex +7, Con +8, Wis +6, Cha +8
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered

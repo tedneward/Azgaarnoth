@@ -15,7 +15,7 @@ Resembling a giant bipedal insect, an ice devil has clawed hands and feet, power
 >|21 (+5)|14 (+2)|18 (+4)|18 (+4)|15 (+2)|18 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** Dex +7, Con +9, Wis +7, Cha +9
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered

@@ -15,7 +15,7 @@ Barbed devils are known for an alertness that makes them difficult to surprise, 
 >|16 (+3)|17 (+3)|18 (+4)|12 (+1)|14 (+2)|14 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold; bludgeoning,piercing,and slashing from nonmagical attacks that aren't silvered

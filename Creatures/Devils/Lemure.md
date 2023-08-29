@@ -15,7 +15,7 @@ A lemure resembles a molten mass of flesh with a vaguely humanoid head and torso
 >|10 (+0)|5 (-3)|11 (+0)|1 (-5)|11 (+0)|3 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold

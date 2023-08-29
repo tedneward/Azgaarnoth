@@ -20,7 +20,7 @@ Imps can be found in the service to mortal spellcasters, acting as advisors, spi
 >|6 (-2)|17 (+3)|13 (+1)|11 (+0)|12 (+1)|14 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold; bludgeoning,piercing,and slashing from nonmagical attacks that aren't silvered

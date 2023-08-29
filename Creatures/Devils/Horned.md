@@ -15,7 +15,7 @@ A malebranche stands as tall as an ogre and is sheathed in scales as tough as ir
 >|22 (+6)|17 (+3)|21 (+5)|12 (+1)|16 (+3)|17 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Str +10, Dex +7, Wis +7, Cha +7
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered

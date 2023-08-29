@@ -15,7 +15,7 @@ Chain devils act as sadistic jailers and torturers in the infernal realms, relis
 >|18 (+4)|15 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Con +7, Wis +4, Cha +5
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered

@@ -15,7 +15,7 @@ A bearded devil is humanoid in form, with pointed ears, scaly skin, a long tail,
 >|16 (+3)|15 (+2)|15 (+2)|9 (-1)|11 (+0)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Str +5, Con +4, Wis +2
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered

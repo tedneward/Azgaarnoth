@@ -17,7 +17,7 @@ A pit fiend is a hulking monster with a whip-like tail and enormous wings that i
 >|26 (+8)|14 (+2)|24 (+7)|22 (+6)|18 (+4)|24 (+7)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +6
 >- **Saving Throws** Dex +8, Con +13, Wis +10
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered

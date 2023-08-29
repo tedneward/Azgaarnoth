@@ -17,7 +17,7 @@ When not delivering messages or gathering intelligence, spined devils serve in t
 >|10 (+0)|15 (+2)|12 (+1)|11 (+0)|14 (+2)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered

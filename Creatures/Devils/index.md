@@ -1,8 +1,6 @@
 # The Book of Devils
 Devils personify tyranny, with a totalitarian society dedicated to the domination of mortal life. The shadow of the Nine Hells of Baator extends far across the multiverse, and Asmodeus, the dark lord of Nessus, strives to subjugate the cosmos to satisfy his thirst for power. To do so, he must continually expand his infernal armies, sending his servants to the mortal realm to corrupt the souls from which new devils are spawned.
 
-> Jump to: [Amnizu](./Amnizu.md) | [Barbed Devil](./Barbed.md) | [Bearded Devil](./Bearded.md) | [Bone Devil](./Bone.md) | [Chain Devil](./Chain.md) | [Erinyes](./Erinyes.md) | [Horned Devil](./Horned.md) | [Ice Devil](./Ice.md) | [Imp](./Imp.md) | [Lemure](./Lemure.md) | [Merregon](./Merregon.md) | [Orthon](./Orthon.md) | [Pit Fiend](./PitFiend.md) | [Spined Devil](./Spined.md)
-
 ***Lords of Tyranny.*** Devils live to conquer, enslave, and oppress. They take perverse delight in exercising authority over the weak, and any creature that defies the authority of a devil faces swift and cruel punishment. Every interaction is an opportunity for a devil to display its power, and all devils have a keen understanding of how to use and abuse their power.
 
 Devils understand the failings that plague intelligent mortals, and they use that knowledge to lead mortals into temptation and darkness, turning creatures into slaves to their own corruption. Devils on the Material Plane use their influence to manipulate humanoid rulers, whispering evil thoughts, fomenting paranoia, and eventually driving them to tyrannical actions.
@@ -28,8 +26,6 @@ The Nine Hells has a rigid hierarchy that defines every aspect of its society. A
 A supreme tyrant, a brilliant deceiver, and a master of subtlety, Asmodeus protects his throne by keeping his friends close and his enemies closer. He delegates most matters of rulership to the pit fiends and lesser archdevils that make up the infernal bureaucracy of the Nine Hells, even as he knows that those powerful devils conspire to usurp the Throne of Baator from which he rules. Asmodeus appoints archdevils, and he can strip any member of the infernal hierarchy of rank and status as he likes.
 
 If it dies outside the Nine Hells, a devil disappears in a cloud of sulfurous smoke or dissolves into a pool of ichor, instantly returning to its home layer, where it reforms at full strength. Devils that die in the Nine Hells are destroyed forever -- a fate that even Asmodeus fears.
-
-> Jump to: [Bael](./Bael.md) | [Geryon](./Geryon.md)
 
 ***Archdevils.*** The archdevils include all the current and deposed rulers of the Nine Hells (see the Layers and Lords of the Nine Hells table), as well as the dukes and duchesses that make up their courts, attend them as advisers, and hope to supplant them. Every archdevil is a unique being with an appearance that reflects its particular evil nature.
 
@@ -86,3 +82,51 @@ Layer | Layer Name | Archduke/Archduchess | Previous Rulers | Primary Inhabitant
 8 | Cania      | Mephistopheles |	-- | Horned devils, ice devils, imps, pit fiends
 9 | Nessus     | Asmodeus |	-- | All devils
 
+---
+
+## A
+- [Amnizu](Amnizu.md)
+
+## B
+- [Bael](Bael.md)
+- [Barbed Devil](BarbedDevil.md)
+- [Bearded Devil](BeardedDevil.md)
+- [Bone Devil](BoneDevil.md)
+
+## C
+- [Chain Devil](ChainDevil.md)
+
+## E
+- [Erinyes](Erinyes.md)
+
+## G
+- [Geryon](Geryon.md)
+
+## H
+- [Hellfire Engine](HellfireEngine.md)
+- [Horned Devil](HornedDevil.md)
+- [Hutijin](Hutijin.md)
+
+## I
+- [Ice Devil](IceDevil.md)
+- [Imp](Imp.md)
+
+## L
+- [Lemure](Lemure.md)
+
+## M
+- [Merregon](Merregon.md)
+- [Moloch](Moloch.md)
+
+## N
+- [Narzugon](Narzugon.md)
+- [Nupperibo](Nupperibo.md)
+
+## O
+- [Orthon](Orthon.md)
+
+## P
+- [Pit Fiend](PitFiend.md)
+
+## S
+- [Spined Devil](SpinedDevil.md)
