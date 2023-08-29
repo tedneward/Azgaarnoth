@@ -25,7 +25,7 @@ Dark spellcasters fashion flameskulls from the remains of dead wizards. When the
 >|1 (-5)|17 (+3)|14 (+2)|16 (+3)|10 (+0)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** lightning,necrotic,piercing

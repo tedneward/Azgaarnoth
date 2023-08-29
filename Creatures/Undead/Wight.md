@@ -23,7 +23,7 @@ Humanoids slain by a wight can rise as zombies under its control. Motivated by h
 >|15 (+2)|14 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** necrotic; bludgeoning,piercing,and slashing from nonmagical attacks that aren't silvered

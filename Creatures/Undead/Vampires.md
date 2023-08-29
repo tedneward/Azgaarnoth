@@ -1,7 +1,7 @@
 # Vampires
 Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.
 
-> Jump to: [Vampire Spawn](#vampire-spawn) | [Vampire](#vampire-1) | [Vampire Warrior](#vampire-warrior) | [Vampire Spellcaster](#vampire-spellcaster)
+> Jump to: [Vampire Spawn](#vampire-spawn) | [Vampire](#vampire) | [Vampire Warrior](#vampire-warrior) | [Vampire Spellcaster](#vampire-spellcaster)
 
 ***Dark Desires.*** Whether or not a vampire retains any memories from its former life, its emotional attachments wither as once-pure feelings become twisted by undeath. Love turns into hungry obsession, while friendship becomes bitter jealousy. In place of emotion, vampires pursue physical symbols of what they crave, so that a vampire seeking love might fixate on a young beauty. A child might become an object of fascination for a vampire obsessed with youth and potential. Others surround themselves with art, books, or sinister items such as torture devices or trophies from creatures they have killed.
 
@@ -63,27 +63,7 @@ Awakened to an endless night, vampires hunger for the life they have lost and sa
 ---
 
 ## Vampire
-***VARIANT: Vampire Warriors.*** Some vampires have martial training and battlefield experience. A warrior vampire wearing plate armor (AC 18) and wielding a greatsword has a challenge rating of 15 (13,000 XP) and the following additional action options:
-
-***Multiattack.*** The vampire makes two greatsword attacks.
-
-***Greatsword.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 11 (2d6 + 4) slashing damage.
-
-***VARIANT: Vampire Spellcasters.*** Some vampires are practitioners of the arcane arts. A spellcaster vampire spellcaster has a challenge rating of 15 (13,000 XP) and the following trait:
-
-***Spellcasting.*** The vampire is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The vampire has the following wizard spells prepared:
-
-Cantrips (at will): mage hand, prestidigitation, ray of frost
-
-1st level (4 slots): comprehend languages, fog cloud, sleep
-
-2nd level (3 slots): detect thoughts, gust of wind, mirror image
-
-3rd level (3 slots): animate dead, bestow curse, nondetection
-
-4th level (3 slots): blight, greater invisibility
-
-5th level (1 slot): dominate person
+(No description given)
 
 >### Vampire
 >*Medium undead (shapechanger), lawful evil*
@@ -97,7 +77,7 @@ Cantrips (at will): mage hand, prestidigitation, ray of frost
 >|18 (+4)|18 (+4)|18 (+4)|17 (+3)|15 (+2)|18 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** Dex +9,Wis +7,Cha +9
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** necrotic; bludgeoning,piercing,and slashing from nonmagical attacks
@@ -173,9 +153,9 @@ The region surrounding a vampire's lair is warped by the creature's unnatural pr
 ---
 
 ## Vampire Warrior
-***VARIANT: Vampire Warriors.*** Some vampires have martial training and battlefield experience. A warrior vampire wearing plate armor (AC 18) and wielding a greatsword has a challenge rating of 15 (13,000 XP) and the following additional action options:
+(No description given)
 
->### Vampire
+>### Vampire Warrior
 >*Medium undead (shapechanger), lawful evil*
 >___
 >- **Armor Class** 18 (plate armor)
@@ -187,7 +167,7 @@ The region surrounding a vampire's lair is warped by the creature's unnatural pr
 >|18 (+4)|18 (+4)|18 (+4)|17 (+3)|15 (+2)|18 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** Dex +9,Wis +7,Cha +9
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** necrotic; bludgeoning,piercing,and slashing from nonmagical attacks
@@ -265,7 +245,7 @@ The region surrounding a vampire's lair is warped by the creature's unnatural pr
 ## Vampire Spellcaster
 Some vampires are practitioners of the arcane arts. 
 
->### Vampire
+>### Vampire Spellcaster
 >*Medium undead (shapechanger), lawful evil*
 >___
 >- **Armor Class** 16 (natural armor)
@@ -277,7 +257,7 @@ Some vampires are practitioners of the arcane arts.
 >|18 (+4)|18 (+4)|18 (+4)|17 (+3)|15 (+2)|18 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** Dex +9,Wis +7,Cha +9
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** necrotic; bludgeoning,piercing,and slashing from nonmagical attacks
@@ -314,26 +294,20 @@ Some vampires are practitioners of the arcane arts.
 >
 >***Sunlight Hypersensitivity.*** The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 >
->***Spellcasting.*** The vampire is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The vampire has the following wizard spells prepared:
->
->Cantrips (at will): mage hand, prestidigitation, ray of frost
->
->1st level (4 slots): comprehend languages, fog cloud, sleep
->
->2nd level (3 slots): detect thoughts, gust of wind, mirror image
->
->3rd level (3 slots): animate dead, bestow curse, nondetection
->
->4th level (3 slots): blight, greater invisibility
->
->5th level (1 slot): dominate person
->
 >#### Actions
->***Multiattack (Vampire Form Only).*** The vampire makes two attacks, only one of which can be a bite attack.
+>***Multiattack (Vampire Form Only).*** The vampire makes two attacks, only one of which can be a bite attack. If it Bites, it cannot use its Spellcasting action.
 >
 >***Unarmed Strike (Vampire Form Only).*** Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 8 (1d8 + 4) bludgeoning damage. Instead of dealing damage, the vampire can grapple the target (escape DC 18).
 >
 >***Bite (Bat or Vampire Form Only).*** Melee Weapon Attack: +9 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. Hit: 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control.
+>
+>***Spellcasting.*** The vampire is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The vampire has the following wizard spells prepared:
+>* Cantrips (at will): mage hand, prestidigitation, ray of frost
+>* 1st level (4 slots): comprehend languages, fog cloud, sleep
+>* 2nd level (3 slots): detect thoughts, gust of wind, mirror image
+>* 3rd level (3 slots): animate dead, bestow curse, nondetection
+>* 4th level (3 slots): blight, greater invisibility
+>* 5th level (1 slot): dominate person
 >
 >***Charm.*** The vampire targets one humanoid it can see within 30 feet of it. If the target can see the vampire, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed by the vampire. The charmed target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bite attack.
 >

@@ -19,7 +19,7 @@ The skull lords have claimed vast regions of the Shadowfell as their dominion. F
 >|14 (+2)|16 (+3)|17 (+3)|16 (+3)|15 (+2)|21 (+5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,necrotic; bludgeoning,piercing,and slashing from nonmagical attacks
@@ -36,28 +36,20 @@ The skull lords have claimed vast regions of the Shadowfell as their dominion. F
 >
 >***Evasion.*** If the skull lord is subjected to an effect that allows it to make a Dexterity saving throw to take only half the damage, the skull lord instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 >
->***Spellcasting.*** The skull lord is a 13th-level spellcaster. Its spellcasting ability is Charisma (spell save DC18, +10 to hit with spell attacks). The skull lord knows the following sorcerer spells:
->
->Cantrips (at will): chill touch, fire bolt, mage hand, poison spray, ray of frost, shocking grasp
->
->1st level (4 slots): magic missile, expeditious retreat, thunderwave
->
->2nd level (3 slots): mirror image, scorching ray
->
->3rd level (3 slots): fear, haste
->
->4th level (3 slots): dimension door, ice storm
->
->5th level (2 slots): cloudkill, cone of cold
->
->6th level (1 slot): eyebite
->
->7th level (1 slot): finger of death
->
 >#### Actions
 >***Multiattack.*** The skull lord makes three bone staff attacks.
 >
 >***Bone Staff.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 14 (4d6) necrotic damage.
+>
+>***Spellcasting.*** The skull lord is a 13th-level spellcaster. Its spellcasting ability is Charisma (spell save DC18, +10 to hit with spell attacks). The skull lord knows the following sorcerer spells:
+>* Cantrips (at will): chill touch, fire bolt, mage hand, poison spray, ray of frost, shocking grasp
+>* 1st level (4 slots): magic missile, expeditious retreat, thunderwave
+>* 2nd level (3 slots): mirror image, scorching ray
+>* 3rd level (3 slots): fear, haste
+>* 4th level (3 slots): dimension door, ice storm
+>* 5th level (2 slots): cloudkill, cone of cold
+>* 6th level (1 slot): eyebite
+>* 7th level (1 slot): finger of death
 >
 >#### Legendary Actions
 >The skull lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The skull lord regains spent legendary actions at the start of its turn.

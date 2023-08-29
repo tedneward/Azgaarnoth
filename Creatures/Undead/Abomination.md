@@ -15,7 +15,7 @@ An abomination lurches with a stiff-jointed gait, as if not in complete control 
 >|19 (+4)|9 (-1)|18 (+4)|6 (-2)|10 (+0)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

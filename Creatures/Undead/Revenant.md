@@ -21,7 +21,7 @@ Variant: Revenants that were spellcasters before they died might retain some or 
 >|18 (+4)|14 (+2)|18 (+4)|13 (+1)|16 (+3)|18 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Str +7,Con +7,Wis +6,Cha +7
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** necrotic,psychic

@@ -15,7 +15,7 @@ A poltergeist is a different kind of specter -- the confused, invisible spirit o
 >|1 (-5)|14 (+2)|11 (+0)|10 (+0)|10 (+0)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** acid,cold,fire,lightning,thunder; bludgeoning,piercing,and slashing from nonmagical attacks

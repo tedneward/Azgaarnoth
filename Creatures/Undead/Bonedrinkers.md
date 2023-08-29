@@ -38,7 +38,7 @@ A bonedrinker stands about 6 feet tall and weighs roughly 200 pounds. Created fr
 >|15 (+2)|18 (+4)|10 (+0)|8 (-1)|12 (+1)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire and thunder
@@ -78,7 +78,7 @@ A greater bonedrinker stands about 7 feet tall and weighs roughly 225 pounds. Cr
 >|15 (+2)|18 (+4)|10 (+0)|8 (-1)|12 (+1)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire and thunder
@@ -116,7 +116,7 @@ A lesser bonedrinker stands about 4 1/2 feet tall and weighs roughly 125 pounds.
 >|15 (+2)|18 (+4)|10 (+0)|8 (-1)|12 (+1)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire and thunder

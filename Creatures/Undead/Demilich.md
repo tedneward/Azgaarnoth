@@ -25,7 +25,7 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
 >|1 (-5)|20 (+5)|10 (+0)|20 (+5)|17 (+3)|20 (+5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +6
 >- **Saving Throws** Con +6,Int +11,Wis +9,Cha +11
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning,piercing,and slashing from magic weapons

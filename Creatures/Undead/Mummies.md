@@ -34,7 +34,7 @@ More ephemeral or permanent offenses, such as revealing a secret the mummy wishe
 >|16 (+3)|8 (-1)|15 (+2)|6 (-2)|10 (+0)|12 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Wis +2
 >- **Damage Vulnerabilities** fire
 >- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks
@@ -78,7 +78,7 @@ The mummy lord's heart has AC 5, 25 hit points, and immunity to all damage excep
 >|18 (+4)|10 (+0)|17 (+3)|11 (+0)|18 (+4)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** Con +8,Int +5,Wis +9,Cha +8
 >- **Damage Vulnerabilities** fire
 >- **Damage Resistances** 

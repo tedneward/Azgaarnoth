@@ -287,7 +287,7 @@ The truest and deadliest form of the this line of undead, a death knight is a sk
 >|20 (+5)|11 (+0)|20 (+5)|12 (+1)|16 (+3)|18 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +6
 >- **Saving Throws** Dex +6,Wis +9,Cha +10
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

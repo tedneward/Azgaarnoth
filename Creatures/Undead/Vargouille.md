@@ -21,7 +21,7 @@ The kiss of a vargouille infects a humanoid with a fiendish curse. If allowed to
 >|6 (-2)|14 (+2)|14 (+2)|4 (-3)|7 (-2)|2 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning

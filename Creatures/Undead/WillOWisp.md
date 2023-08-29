@@ -23,7 +23,7 @@ Will-o'-wisps lure unwary creatures into quicksand pits, monster lairs, and othe
 >|1 (-5)|28 (+9)|10 (+0)|13 (+1)|14 (+2)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
