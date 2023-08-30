@@ -989,7 +989,7 @@ def main(argv):
                         with open(args.parsemd + '/' + f, 'r') as mdfile:
                             print("Parsing " + args.parsemd + '/' + f)
                             lines = mdfile.readlines()
-                            if lines[0].find(':') > 0:
+                            if (lines[0].find(':') > 0) or (lines[0].find('SKIP') > 0) :
                                 # Probably not a creature file; skip it
                                 print("Skipping")
                                 continue

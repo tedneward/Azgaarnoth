@@ -1,4 +1,4 @@
-# Undeath
+# Templates: Undeath
 Transformation into undeath is often seen as a fiercely evil act, although some may propose justifications for it at the time.
 
 These templates are for those creatures that are humanoid or close to it; [dragons](Dragon.md) use their own template for undeath transformations.
