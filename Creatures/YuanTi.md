@@ -27,7 +27,7 @@ The yuan-ti revere a number of powerful entities as gods, including the followin
 
 Yuan-ti malisons who become priestly devotees of a particular god -- be it Sseth, Dendar the Night Serpent, or Merrshaulk -- often rise through the ranks to become spiritual leaders among the serpent folk. These priests perform sacrificial rites to appease their vile gods.
 
-***Playable Race: Reptilian Presence.*** Yuan-ti are a [playable race](../../Races/YuanTi.md), and excel in all fields. Note that the yuan-ti are not commonly seen across Azgaarnoth, and so players should expect to draw something of a stir when moving around through almost any city or town.
+***Playable Race: Reptilian Presence.*** Yuan-ti are a [playable race](../Races/YuanTi.md), and excel in all fields. Note that the yuan-ti are not commonly seen across Azgaarnoth, and so players should expect to draw something of a stir when moving around through almost any city or town.
 
 ---
 

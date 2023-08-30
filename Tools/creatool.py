@@ -125,6 +125,9 @@ class Creature:
 
         self.name = ''
         self.size = ''
+        # Creature types include:
+        # aberration, beast, celestial, construct, dragon, elemental,
+        # fey, fiend, giant, humanoid, monstrosity, ooze, plant, undead
         self.type = ''
         self.subtypes = []
         self.alignment = ''

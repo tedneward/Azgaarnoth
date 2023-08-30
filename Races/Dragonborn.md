@@ -1,7 +1,4 @@
-# Dragonborn
-While the origins of the [elves](Elves.md) are thought to be wrapped up in the [Eldar](../History/Eldar.md), and the [dwarves](Dwarves.md)/[gnomes](Gnomes.md)/[halflings](Halflings.md) in the Exodus, the history of the dragonborn (and their distant kin, tieflings and aasimar) is quite clear: dragonborn are a Created race, given life from dragons' eggs, and from there to flourish on their own. It is thought that even today, dragons periodically place a "firstborn dragonborn" (that is, Created from the egg) as an adoption with a family or other group to refresh the genetics of the race, though if true, it is not discussed among dragonborn. (Whether this is due to ignorance of their parentage or a deeper desire to preserve a secret is not known outside of the firstborn.)
-
-Dragonborn, though not nearly as numerous as humans, are found throughout Azgaarnoth, in almost any climate or environment. Dragonborn of any color (metallic or chromatic) are viewed upon equally, though some folk are slightly more wary of the chromatic dragonborn, feeling those to be "a little more trouble" than their metallic cousins. Platinum dragonborn are found within Azgaarnoth, but are extremely rare, and will be gawked and stared at by commoners unless the coloration is hidden by clothing. Any platinum dragonborn are inevitably deeply linked to the [Draconic Order](../Organizations/MilitantOrders/DraconicOrder/index.md), and equally deeply hunted by the [Wyrmcult](../Organizations/CultOfTheWyrm.md). 
+# [Dragonborn](../Creatures/Dragonborn.md)
 
 * **Ability Score increase**. Your Strength score increases by 2, and your Charisma score increases by 1.
 

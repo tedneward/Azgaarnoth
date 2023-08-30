@@ -1,5 +1,7 @@
 # Gith
-Within Azgaarnoth, gith are thought to be [elves](Elves.md) captured by the illithids very early in the days of the [Eldar](../History/Eldar.md) and never rescued. Once secured, the illithids examined their captive elves (and dwarves, see below), and then subsequently genetically or behaviorally altered them into their current form. By the time the gith staged their successful rebellion against their illithid masters, the connection between elf and gith had long been lost to history, but genetically the two races seem to recognize one another. For whatever reason, both githyanki and githzerai trod carefully around elves, preferring to be cautious around one another, particularly githzerai and elves. It is rumored that the [Dread Emperor](../People/DreadEmperor.md) has sought an alliance with the githyanki for centuries; rumors also contend that the [Draconic Order](../Organizations/MilitantOrders/DraconicOrder/index.md) has made a deal with the githzerai: a secret safe monastery within Azgaarnoth (to train both young githzerai as well as promising mortal monks), in exchange for information and/or introductions to "psionic dragons". The reasons for the Order's interest in these dragons, if true, are fairly obvious.
+Within Azgaarnoth, gith are thought to be [elves](Elves.md) captured by the illithids very early in the days of the [Eldar](../History/Eldar.md) and never rescued. Once secured, the illithids examined their captive elves (and dwarves), and then subsequently genetically or behaviorally altered them into their current form. By the time the gith--named after the leader who led them in revolt--staged their successful rebellion against their illithid masters, the connection between elf and gith had long been lost to history. Despite that long and painful distance, genetically the two races seem to recognize one another. 
+
+For whatever reason, both [githyanki](../Creatures/Githyanki.md) and [githzerai](../Creatures/Githzerai.md) trod carefully around elves, preferring to be cautious around one another. It is rumored that the [Dread Emperor](../People/DreadEmperor.md) has sought an alliance with the githyanki for centuries; rumors also contend that the [Draconic Order](../Organizations/MilitantOrders/DraconicOrder/index.md) has made a deal with the githzerai: a secret safe monastery within Azgaarnoth (to train both young githzerai as well as promising mortal monks), in exchange for information and/or introductions to "psionic dragons". The reasons for the Order's interest in these dragons, if true, are fairly obvious.
 
 ## Githyanki
 * **Ability Score Increase**. Your Intelligence score increases by 1 and your Strength score increases by 2.
@@ -37,7 +39,7 @@ Within Azgaarnoth, gith are thought to be [elves](Elves.md) captured by the illi
 
 * **Alignment**. Githzerai tend toward lawful neutral. Their rigorous training in psychic abilities requires an implacable mental discipline.
 
-* **Mental Discipline**. You have advantage on saving throws against the charmed and frightened conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds.
+* **Mental Discipline**. You have advantage on saving throws against the charmed and frightened conditions.
 
 * **Githzerai Psionics**. You know the [mage hand](../Magic/Spells/mage-hand.md) cantrip, and the hand is invisible when you cast the cantrip with this trait.
 

@@ -779,6 +779,10 @@
 ## Name
 General description
 
+### Environment
+
+### Token
+
 >### (Subtype if any) (Name)
 >*Size Type, alignment*
 >___
@@ -805,6 +809,18 @@ General description
 >***Feature.***   
 >
 >#### Actions
+>#### Bonus Actions
+>#### Reactions
+>#### Legendary Actions
+>
+### A Creature's Lair
+Pre-text
+#### Lair Actions
+#### Regional Effects
+
+---
+
+# Encounter goals
 
 ---
 

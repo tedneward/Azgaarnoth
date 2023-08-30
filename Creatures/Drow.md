@@ -33,7 +33,7 @@ Drow are seldom seen by the surface world. Though they plot to destroy the elves
 ***Underdark Cities.*** The drow build fantastic cities in enormous caverns where food and water are abundant. Their ability to sculpt stone rivals that of the greatest dwarf artisans, yet their structures retain a decidedly elven aesthetic. Though appearing delicate, drow settlements are structurally sound and remarkably resilient. The drow like to hollow out enormous stalagmites and stalactites, creating populated spires that rise from the floors and ceilings.
 
 ### Environment
-(FIXME)
+Ruins, Underdark
 
 ### Token
 ![](Drow-Token.png)
@@ -63,18 +63,16 @@ Drow are seldom seen by the surface world. Though they plot to destroy the elves
 >___
 >***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 >
->***Innate Spellcasting.*** The drow's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components:
->
->At will: dancing lights
->
->1/day each: darkness, faerie fire
->
 >***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
 >***Shortsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 >
 >***Hand Crossbow.*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
+>
+>***Innate Spellcasting.*** The drow's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components:
+>* At will: dancing lights
+>* 1/day each: darkness, faerie fire
 >
 
 ---
@@ -85,7 +83,7 @@ Drow elite warriors defend their houses and their superiors against all enemies,
 Elite warriors can be male or female.
 
 ### Environment
-(FIXME)
+Ruins, Underdark
 
 ### Token
 ![](DrowEliteWarrior-Token.png)
@@ -115,12 +113,6 @@ Elite warriors can be male or female.
 >___
 >***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 >
->***Innate Spellcasting.*** The drow's spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:
->
->At will: dancing lights
->
->1/day each: darkness, faerie fire, levitate (self only)
->
 >***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
@@ -132,6 +124,10 @@ Elite warriors can be male or female.
 >
 >***Parry.*** The drow adds 3 to its AC against one melee attack that would hit it. To do so, the drow must see the attacker and be wielding a melee weapon.
 >
+>***Innate Spellcasting.*** The drow's spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:
+>* At will: dancing lights
+>* 1/day each: darkness, faerie fire, levitate (self only)
+>
 
 ---
 
@@ -139,7 +135,7 @@ Elite warriors can be male or female.
 Privileged drow males who lack the strength and fighting prowess to train as warriors have no recourse but to pursue the study of magic. For them, it is a matter of survival. Female drow with a natural affinity for the arcane arts may also become drow mages, although they are much less common.
 
 ### Environment
-(FIXME)
+Ruins, Underdark
 
 ### Token
 ![](DrowMage-Token.png)
@@ -169,12 +165,6 @@ Privileged drow males who lack the strength and fighting prowess to train as war
 >___
 >***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 >
->***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:
->
->At will: dancing lights
->
->1/day each: darkness, faerie fire, levitate (self only)
->
 >***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
@@ -182,18 +172,16 @@ Privileged drow males who lack the strength and fighting prowess to train as war
 >
 >***Summon Demon (1/Day).*** The drow magically summons a quasit, or attempts to summon a shadow demon with a 50 percent chance of success. The summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
 >
+>***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:
+>* At will: dancing lights
+>* 1/day each: darkness, faerie fire, levitate (self only)
+>
 >***Spellcasting.*** The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The drow has the following wizard spells prepared:
->
 >* Cantrips (at will): mage hand, minor illusion, poison spray, ray of frost
->
 >* 1st level (4 slots): mage armor, magic missile, shield, witch bolt
->
 >* 2nd level (3 slots): alter self, misty step, web
->
 >* 3rd level (3 slots): fly, lightning bolt
->
 >* 4th level (3 slots): Evard's black tentacles, greater invisibility
->
 >* 5th level (2 slots): cloudkill
 >
 
@@ -205,7 +193,7 @@ Female drow with blood ties to a noble house are molded and trained from birth t
 Such priestesses execute the will of the Spider Queen, and as a result, they wield tremendous power and influence in drow society. The matron mothers who rule the drow houses are the most powerful of Lolth's priestesses, but they must constantly balance their devotion to the Spider Queen with their devotion to their families.
 
 ### Environment
-(FIXME)
+Ruins, Underdark
 
 ### Token
 ![](DrowPriestessofLolth-Token.png)
@@ -235,12 +223,6 @@ Such priestesses execute the will of the Spider Queen, and as a result, they wie
 >___
 >***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 >
->***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma (spell save DC 15). She can innately cast the following spells, requiring no material components:
->
->At will: dancing lights
->
->1/day each: darkness, faerie fire, levitate (self only)
->
 >***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 >
 >#### Actions
@@ -250,18 +232,16 @@ Such priestesses execute the will of the Spider Queen, and as a result, they wie
 >
 >***Summon Demon (1/Day).*** The drow attempts to magically summon a yochlol with a 30 percent chance of success. If the attempt fails, the drow takes 5 (1d10) psychic damage. Otherwise, the summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
 >
+>***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma (spell save DC 15). She can innately cast the following spells, requiring no material components:
+>* At will: dancing lights
+>* 1/day each: darkness, faerie fire, levitate (self only)
+>
 >***Spellcasting.*** The drow is a 10th-level spellcaster. Her spellcasting ability is Wisdom (save DC 14, +6 to hit with spell attacks). The drow has the following cleric spells prepared:
->
 >* Cantrips (at will): guidance, poison spray, resistance, spare the dying, thaumaturgy
->
 >* 1st level (4 slots): animal friendship, cure wounds, detect poison and disease, ray of sickness
->
 >* 2nd level (3 slots): lesser restoration, protection from poison, web
->
 >* 3rd level (3 slots): conjure animals (2 giant spiders), dispel magic
->
 >* 4th level (3 slots): divination, freedom of movement
->
 >* 5th level (2 slots): insect plague, mass cure wounds
 >
 
@@ -271,7 +251,7 @@ Such priestesses execute the will of the Spider Queen, and as a result, they wie
 Drow spellcasters who seek to devote themselves wholly to Lolth, the Spider Queen, sometimes walk the sinister path of the arachnomancer. By offering up body and soul to Lolth, they gain tremendous power and a supernatural connection to the ancient spiders of the Demonweb Pits, channeling magic from that dread place.
 
 ### Environment
-(FIXME)
+Ruins, Underdark
 
 ### Token
 ![](DrowArachnomancer-Token.png)
@@ -312,18 +292,16 @@ Drow spellcasters who seek to devote themselves wholly to Lolth, the Spider Quee
 >
 >***Bite (Spider Form Only).*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 >
->Poisonous Touch (Humanoid Form Only). Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 35 (10d6) poison damage.
+>***Poisonous Touch (Humanoid Form Only).*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 35 (10d6) poison damage.
 >
->Web (Spider Form Only; Recharge 5�6). Ranged Weapon Attack: +8 to hit, range 30/60 ft., one target. Hit: The target is restrained by webbing. As an action, the restrained target can make a DC 15 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
+>***Web (Spider Form Only; Recharge 5-6).*** Ranged Weapon Attack: +8 to hit, range 30/60 ft., one target. Hit: The target is restrained by webbing. As an action, the restrained target can make a DC 15 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
 >
 >***Spellcasting.*** The drow casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 17):
->
->At will: dancing lights, mage hand
->
->1/day each: darkness, dispel magic, etherealness, faerie fire, fly, insect plague, invisibility
+>* At will: dancing lights, mage hand
+>* 1/day each: darkness, dispel magic, etherealness, faerie fire, fly, insect plague, invisibility
 >
 >#### Bonus Actions
->Change Shape (Recharges after a Short or Long Rest). The drow magically transforms into a Large spider, remaining in that form for up to 1 hour, or back into its true form. Its statistics, other than its size, are the same in each form. It can speak and cast spells while in spider form. Any equipment it is wearing or carrying in Humanoid form melds into the spider form. It can't activate, use, wield, or otherwise benefit from any of its equipment. It reverts to its Humanoid form if it dies.
+>***Change Shape (Recharges after a Short or Long Rest).*** The drow magically transforms into a Large spider, remaining in that form for up to 1 hour, or back into its true form. Its statistics, other than its size, are the same in each form. It can speak and cast spells while in spider form. Any equipment it is wearing or carrying in Humanoid form melds into the spider form. It can't activate, use, wield, or otherwise benefit from any of its equipment. It reverts to its Humanoid form if it dies.
 >
 
 ---
@@ -336,7 +314,7 @@ Those favored consorts who prove their cunning gain the ear, and perhaps even th
 Some favored consorts work behind the scenes to undermine the evils encouraged by Lolth. Others can be found in Underdark cities free of Lolth's influence, where these powerful spellcasters apply their might toward ending her tyranny.
 
 ### Environment
-(FIXME)
+Ruins, Underdark
 
 ### Token
 ![](DrowFavoredConsort-Token.png)
@@ -376,12 +354,9 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
 >***Arcane Eruption.*** Ranged Spell Attack: +10 to hit, range 120 ft., one target. Hit: 36 (8d8) force damage, and the drow can push the target up to 10 feet away if it is a Large or smaller creature.
 >
 >***Spellcasting.*** The drow casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 18):
->
->At will: dancing lights, mage armor, mage hand, message
->
->3/day each: dimension door, fireball, invisibility
->
->1/day each: darkness, faerie fire, levitate (self only)
+>* At will: dancing lights, mage armor, mage hand, message
+>* 3/day each: dimension door, fireball, invisibility
+>* 1/day each: darkness, faerie fire, levitate (self only)
 >
 >#### Reactions
 >***Protective Shield (3/Day).*** When the drow or a creature within 10 feet of it is hit by an attack roll, the drow gives the target a +5 bonus to its AC until the start of the drow's next turn, which can cause the triggering attack roll to miss.
@@ -395,7 +370,7 @@ A drow house captain leads the troops of an Underdark faction, whether defending
 Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, each noble house entrusts the leadership of its military forces to a house captain, who is typically the first or second son of a drow matron mother (appears in this book). Elsewhere drow house captains fight in the war against Lolth, often allying with duergar and others who also wish to rid their subterranean world of that god's malevolence.
 
 ### Environment
-(FIXME)
+Ruins, Underdark
 
 ### Token
 ![](DrowHouseCaptain-Token.png)
@@ -437,10 +412,8 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 >***Hand Crossbow.*** Ranged Weapon Attack: +8 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target regains consciousness if it takes damage or if another creature takes an action to shake it.
 >
 >***Spellcasting.*** The drow casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):
->
->At will: dancing lights
->
->1/day each: darkness, faerie fire, levitate (self only)
+>* At will: dancing lights
+>* 1/day each: darkness, faerie fire, levitate (self only)
 >
 >#### Bonus Actions
 >***Battle Command.*** Choose one creature within 30 feet of the drow that the drow can see. If the chosen creature can see or hear the drow, that creature can use its reaction to make one melee attack or to take the Dodge or Hide action.
@@ -455,7 +428,7 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 Lolth's worshipers expect treachery--the Spider Queen encourages it, after all. A certain amount of backstabbing and double-crossing can be managed, but too much can undermine an entire community. To keep some semblance of order and to root out traitors, priestesses of Lolth employ inquisitors. Inquisitors are chosen from the ranks of the priesthood, and their authority is equaled only by that of the drow matron mothers of the noble houses. Anyone they decide is at odds with the hierarchy faces painful interrogation and usually an excruciating death.
 
 ### Environment
-(FIXME)
+Ruins, Underdark
 
 ### Token
 ![](DrowInquisitor-Token.png)
@@ -514,7 +487,7 @@ Among drow followers of Lolth, each noble house is led by a matron mother, an in
 A matron mother is almost never encountered alone. She is typically accompanied by a drow favored consort and a drow house captain, each of whom appears in this book. Other Underdark creatures might also be in the priestess's presence, providing protection or advice.
 
 ### Environment
-(FIXME)
+Ruins, Underdark
 
 ### Token
 ![](DrowMatronMother-Token.png)
@@ -607,7 +580,7 @@ The palace of a drow matron mother is her home and fortress. Sigils throughout t
 Some matron mothers renounce Lolth and join the war against their former goddess. Even without their Lolth-granted abilities, drow matron mothers are formidable opponents, and several of them hold positions of great influence in the Underdark armies arrayed against the followers of Lolth.
 
 ### Environment
-(FIXME)
+Ruins, Underdark
 
 ### Token
 ![](DrowRebelliousMatron-Token.png)
@@ -693,7 +666,7 @@ Drow shadowblades steal down the dim passages of the Underdark, bound on errands
 A shadowblade gains their powers over shadow via a ritual in which they kill a shadow demon and mystically prevent it from re-forming in the Abyss, siphoning its essence into themselves.
 
 ### Environment
-(FIXME)
+Ruins, Underdark
 
 ### Token
 ![](DrowShadowblade-Token.png)

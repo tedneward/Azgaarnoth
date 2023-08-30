@@ -5,10 +5,13 @@ Eladrin dwell in the verdant splendor of the Feywild. They are related to the el
 
 Eladrin have spent centuries in the Feywild, and most of them have become Fey creatures as a result--those presented here are of the Fey variety. Some are still Humanoid, however, similar in that respect to their other elven kin.
 
+***Playable Race.*** The eladrin sometimes leave the Feywild and journey across Azgaarnoth as [adventurers](../Races/Elves/Fey.md), finding interesting stories and people along the way. Their connection to the Fey often leads them to pursue arcane careers, but just as many eladrin find themselves pulled in a more primal barbarian direction, or towards a divine calling as clerics, druids, or shamans, as they do wizardry or sorcery.
+
+### Changeable Natures
 The magic flowing through eladrin responds to their emotional state by transforming them into different seasonal aspects, with behaviors and abilities that change with their forms. Some eladrin might remain in a particular aspect for years, while others run through the emotional spectrum each week.
 
-Changeable Natures
 Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't incapacitated. When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
+
 ---
 
 ## Autumn Eladrin
@@ -57,12 +60,9 @@ Eladrin often enter the autumn season when they are overcome by feelings of good
 >***Longbow.*** Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 22 (5d8) psychic damage.
 >
 >***Spellcasting.*** The eladrin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
->
->At will: hold person
->
->2/day each: cure wounds (as a 5th-level spell), lesser restoration
->
->1/day each: greater restoration, revivify
+>* At will: hold person
+>* 2/day each: cure wounds (as a 5th-level spell), lesser restoration
+>* 1/day each: greater restoration, revivify
 >
 >#### Bonus Actions
 >***Fey Step (Recharge 4-6).*** The eladrin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
@@ -119,10 +119,8 @@ Their hearts filled with joy, spring eladrin cavort through their sylvan realms,
 >***Longbow.*** Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 22 (5d8) psychic damage.
 >
 >***Spellcasting.*** The eladrin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
->
->At will: Tasha's hideous laughter
->
->1/day each: major image, suggestion
+>* At will: Tasha's hideous laughter
+>* 1/day each: major image, suggestion
 >
 >#### Bonus Actions
 >***Fey Step (Recharge 4-6).*** The eladrin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
@@ -228,8 +226,7 @@ When sorrow distresses eladrin, they enter the winter season, becoming figures o
 >***Longbow.*** Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 13 (3d8) cold damage.
 >
 >***Spellcasting.*** The eladrin casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
->
->At will: fog cloud, gust of wind, sleet storm
+>* At will: fog cloud, gust of wind, sleet storm
 >
 >#### Bonus Actions
 >***Fey Step (Recharge 4-6).*** The eladrin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.

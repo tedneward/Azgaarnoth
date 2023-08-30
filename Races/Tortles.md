@@ -1,4 +1,4 @@
-# Tortles
+# [Tortles](../Creatures/Tortles.md)
 
 * **Ability Score Increase**. Your Strength score increases by 2, and your Wisdom score increases by 1.
 
