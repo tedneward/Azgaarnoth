@@ -101,7 +101,7 @@ If a creature takes damage from the dragon's Breath Weapon, acid sticks to the c
 >|15 (+2)|14 (+2)|13 (+1)|10 (+0)|11 (+0)|13 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Dex +4,Con +3,Wis +2,Cha +3
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -136,7 +136,7 @@ If a creature takes damage from the dragon's Breath Weapon, acid sticks to the c
 >|16 (+3)|14 (+2)|14 (+2)|11 (+0)|11 (+0)|13 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Dex +4,Con +4,Wis +2,Cha +3
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -171,7 +171,7 @@ If a creature takes damage from the dragon's Breath Weapon, acid sticks to the c
 >|17 (+3)|14 (+2)|16 (+3)|11 (+0)|11 (+0)|14 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Dex +5,Con +6,Wis +3,Cha +5
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -206,7 +206,7 @@ If a creature takes damage from the dragon's Breath Weapon, acid sticks to the c
 >|19 (+4)|14 (+2)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Dex +5,Con +6,Wis +3,Cha +5
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -245,7 +245,7 @@ If a creature takes damage from the dragon's Breath Weapon, acid sticks to the c
 >|20 (+5)|14 (+2)|18 (+4)|13 (+1)|11 (+0)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Dex +6,Con +8,Wis +4,Cha +6
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -269,28 +269,6 @@ If a creature takes damage from the dragon's Breath Weapon, acid sticks to the c
 >
 >***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.
 >
-### A Black Dragon's Lair
-Black dragons dwell in swamps on the frayed edges of civilization. A black dragon's lair is a dismal cave, grotto, or ruin that is at least partially flooded, providing pools where the dragon rests, and where its victims can ferment. The lair is littered with the acid-pitted bones of previous victims and the fly-ridden carcasses of fresh kills, watched over by crumbling statues. Centipedes, scorpions, and snakes infest the lair, which is filled with the stench of death and decay.
-
-#### Lair Actions
-On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
-
-* Pools of water that the dragon can see within 120 feet of it surge outward in a grasping tide. Any creature on the ground within 20 feet of such a pool must succeed on a DC 15 Strength saving throw or be pulled up to 20 feet into the water and knocked prone.
-
-* A cloud of swarming insects fills a 20-foot-radius sphere centered on a point the dragon chooses within 120 feet of it. The cloud spreads around corners and remains until the dragon dismisses it as an action, uses this lair action again, or dies. The cloud is lightly obscured. Any creature in the cloud when it appears must make on a DC 15 Constitution saving throw, taking 10 (3d6) piercing damage on a failed save, or half as much damage on a successful one. A creature that ends its turn in the cloud takes 10 (3d6) piercing damage.
-
-* Magical darkness spreads from a point the dragon chooses within 60 feet of it, filling a 15-foot-radius sphere until the dragon dismisses it as an action, uses this lair action again, or dies. The darkness spreads around corners. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it. If any of the effect's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.
-
-#### Regional Effects
-The region containing a legendary black dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
-
-* The land within 3 miles of the lair takes twice as long as normal to traverse, since the plants grow thick and twisted, and the swamps are thick with reeking mud.
-
-* Water sources within 1/2 mile of the lair are supernaturally fouled. Enemies of the dragon that drink such water regurgitate it within minutes.
-
-* Fog lightly obscures the land within 3 miles of the lair.
-
-If the dragon dies, vegetation remains as it has grown, but other effects fade over 1d10 days.
 
 ---
 
@@ -308,7 +286,7 @@ If the dragon dies, vegetation remains as it has grown, but other effects fade o
 >|21 (+5)|14 (+2)|19 (+4)|13 (+1)|11 (+0)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Dex +6,Con +8,Wis +4,Cha +7
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -382,7 +360,7 @@ If the dragon dies, vegetation remains as it has grown, but other effects fade o
 >|23 (+6)|14 (+2)|21 (+5)|14 (+2)|13 (+1)|17 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** Dex +7,Con +10,Wis +6,Cha +8
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -458,7 +436,7 @@ If the dragon dies, vegetation remains as it has grown, but other effects fade o
 >|24 (+7)|14 (+2)|22 (+6)|15 (+2)|13 (+1)|17 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +6
 >- **Saving Throws** Dex +8,Con +12,Wis +7,Cha +9
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -534,7 +512,7 @@ If the dragon dies, vegetation remains as it has grown, but other effects fade o
 >|25 (+7)|14 (+2)|23 (+6)|15 (+2)|13 (+1)|18 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +6
 >- **Saving Throws** Dex +8,Con +12,Wis +7,Cha +10
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -599,7 +577,7 @@ If the dragon dies, vegetation remains as it has grown, but other effects fade o
 ## Ancient Black Dragon
 
 >### Ancient Black Dragon
->*Huge dragon, chaotic evil*
+>*Gargantuan dragon, chaotic evil*
 >___
 >- **Armor Class** 22 (natural armor)
 >- **Hit Points** 367 (21d20 + 147)
@@ -610,7 +588,7 @@ If the dragon dies, vegetation remains as it has grown, but other effects fade o
 >|27 (+8)|14 (+2)|25 (+7)|16 (+3)|15 (+2)|19 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +7
 >- **Saving Throws** Dex +9,Con +14,Wis +9,Cha +11
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -686,7 +664,7 @@ If the dragon dies, vegetation remains as it has grown, but other effects fade o
 >|28 (+9)|14 (+2)|26 (+8)|17 (+3)|15 (+2)|19 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +7
 >- **Saving Throws** Dex +9,Con +15,Wis +9,Cha +11
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -762,7 +740,7 @@ If the dragon dies, vegetation remains as it has grown, but other effects fade o
 >|29 (+9)|14 (+2)|27 (+8)|18 (+4)|15 (+2)|20 (+5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +7
 >- **Saving Throws** Dex +9,Con +15,Wis +9,Cha +12
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

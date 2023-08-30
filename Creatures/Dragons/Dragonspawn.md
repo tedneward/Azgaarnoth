@@ -26,7 +26,7 @@ Blackspawn raiders typically fight from ambush, preferring water as a means of c
 >|14 (+2)|15 (+2)|16 (+3)|10 (+0)|10 (+0)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** acid,magic
@@ -74,7 +74,7 @@ Bluespawn thunderlizards recognize other dragonspawn as kindred creatures and re
 >|23 (+6)|10 (+0)|20 (+5)|6 (-2)|12 (+1)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** lightning
@@ -115,7 +115,7 @@ Greenspawn razorfiends are cunning hunters that enjoy the killing of prey as muc
 >|20 (+5)|17 (+3)|16 (+3)|12 (+1)|15 (+2)|13 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning;bludgeoning,piercing,and slashing from non-magical weapons
@@ -161,7 +161,7 @@ Whitespawn frostlizards are immune to the effects of cold, and retain a portion 
 >|23 (+6)|10 (+0)|20 (+5)|6 (-2)|12 (+1)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

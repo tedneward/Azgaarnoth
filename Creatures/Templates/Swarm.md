@@ -11,10 +11,10 @@ When a creature joins a swarm, it retains its statistics except as described bel
 * **Challenge Rating.** This is more subjective, when you have completed your swarm consult the Chart below.
 * **Add trait:** ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a [original creature's size] creature. The swarm can't regain hit points or gain temporary hit points.
 * **Add Attack:** The swarm keeps its old attack, but the reach is decreased by 5 feet. The damage is also replaced based off of its CR. See chart below. Once a swarm reaches half it's hit points, it rolls half the amount of damage dice.
-* **Modifty Attack: Multiattack.** If a creature has multiattack, the swarm also has multiattack. In the Swarm CR & Damage chart, the MultiAttack column determines the amount of dice they roll for their first attack, located on the left side, and any remaining attacks use the damage dice on the right side.
+* **Modifty Attack: Multiattack.** If a creature has Multiattack, the swarm also has Multiattack. In the Swarm CR & Damage chart, the Multiattack column determines the amount of dice they roll for their first attack, located on the left side, and any remaining attacks use the damage dice on the right side.
 * **Weapons.** Swarms still use their weapons to attack and damage, but their damage die is based on the Swarm Size Chart below. A DM may determine that changing the damage die to match the weapon would better reflect the swarm and its Challenge Rating.
 
-Swarm Size Chart
+**Swarm Size Chart**
 
 Original Size | Swarm Size | Swarm Hit Die
 ------------- | ---------- | -------------
@@ -25,7 +25,7 @@ Large  | Huge   | d12
 Huge   | Gargantuan | d20
 Gargantuan | Gargantuan | d20
 
-Swarm CR & Damage
+**Swarm CR & Damage**
 
 Original CR | Swarm CR | Damage Die | Multiattack
 ----------- | -------- | ---------- | -----------
