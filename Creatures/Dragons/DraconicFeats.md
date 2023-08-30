@@ -92,7 +92,8 @@ If the dragon is flying and dives at least 30 feet straight toward a target and 
 
 The dragon's bite attacks also deal extra damage of the same type as the dragon's breath weapon. The damage varies by the dragon's age, as given in the table.
 
-Elemental Bite Damage 
+**Elemental Bite Damage**
+
 Dragon's Age | Damage
 ------------ | -------------------
 Wyrmling | 1d6

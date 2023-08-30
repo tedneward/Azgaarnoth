@@ -76,9 +76,11 @@ Bahamut seldom interferes in the affairs of mortal creatures, though he makes ex
 - [Abishais](Abishais.md): [Black Abishai](Abishais.md#black-abishai) | [Blue Abishai](Abishais.md#blue-abishai) | [Green Abishai](Abishais.md#green-abishai) | [Red Abishai](Abishais.md#red-abishai) | [White Abishai](Abishais.md#white-abishai)
 - [Adult Black Dragon](BlackDragons.md#adult-black-dragon)
 - [Adult Blue Dragon](BlueDragons.md#adult-blue-dragon)
+- [Adult Dragon Turtle](DragonTurtles.md#adult-dragon-turtle)
 - [Adult Green Dragon](GreenDragons.md#adult-green-dragon)
 - [Ancient Black Dragon](BlackDragons.md#ancient-black-dragon)
 - [Ancient Blue Dragon](BlueDragons.md#ancient-blue-dragon)
+- [Ancient Dragon Turtle](DragonTurtles.md#ancient-dragon-turtle)
 - [Ancient Green Dragon](GreenDragons.md#ancient-green-dragon)
 
 ## B
@@ -96,7 +98,8 @@ Bahamut seldom interferes in the affairs of mortal creatures, though he makes ex
 ## D
 - [Dracohybrid Charger](DracohybridCharger.md)
 - [Draconic Feats](DraconicFeats.md):
-- [Dragon Turtle](DragonTurtle.md)
+- [Dragon Turtle Wyrmling](DragonTurtles.md#dragon-turtle-wyrmling)
+- [Dragon Turtles](DragonTurtles.md): [Dragon Turtle Wyrmling](DragonTurtles.md#dragon-turtle-wyrmling) | [Young Dragon Turtle](DragonTurtles.md#young-dragon-turtle) | [Adult Dragon Turtle](DragonTurtles.md#adult-dragon-turtle) | [Ancient Dragon Turtle](DragonTurtles.md#ancient-dragon-turtle)
 - [Dragonspawn](Dragonspawn.md): [Blackspawn Raider](Dragonspawn.md#blackspawn-raider) | [Bluespawn Thunderlizard](Dragonspawn.md#bluespawn-thunderlizard) | [Greenspawn Razorfiend](Dragonspawn.md#greenspawn-razorfiend) | [Whitespawn Frostlizard](Dragonspawn.md#whitespawn-frostlizard)
 
 ## E
@@ -149,4 +152,5 @@ Bahamut seldom interferes in the affairs of mortal creatures, though he makes ex
 - [Young Adult Green Dragon](GreenDragons.md#young-adult-green-dragon)
 - [Young Black Dragon](BlackDragons.md#young-black-dragon)
 - [Young Blue Dragon](BlueDragons.md#young-blue-dragon)
+- [Young Dragon Turtle](DragonTurtles.md#young-dragon-turtle)
 - [Young Green Dragon](GreenDragons.md#young-green-dragon)
