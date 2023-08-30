@@ -1,5 +1,5 @@
-# Dark dwarves (*duergar*) ("Underdark dwarf")
-Histories tell of clans of dwarves that never participated as part of the Exodus (or were left behind either accidentally or deliberately, depending on the rumor), and were forced into hard living and driven deeper into the depths to survive. The *duergar*'s legends claim that those clans were captured by the *illithid* (mind flayers) at the same time elves were captured (who later became the [Gith](../Gith.md)). 
+# Dark dwarves ([*duergar*](../../Creatures/Duergar.md)) ("Underdark dwarf")
+Histories tell of clans of dwarves that never participated as part of the Exodus (or were left behind either accidentally or deliberately, depending on the rumor), and were forced into hard living and driven deeper into the depths to survive. The *duergar*'s legends claim that those clans were captured by the *illithid* (mind flayers) at the same time elves were captured (who later became the [Gith](../Gith.md)).
 
 Most dwarves consider the "dark dwarves" to be myth, but the *duergar* are real, whatever their history. Rumors of *duergar* generally also tie into the rumors of tunnels that connect the western and eastern reaches of the Daw mountain range underneath the Ravensound, as such tunnels would provide adequate depth to hide them from the Hordes that precipitated the Exodus.
 

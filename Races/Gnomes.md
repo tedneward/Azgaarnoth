@@ -1,6 +1,5 @@
 # Gnomes
 
-
 Gnomes may be [dragonmarked](Dragonmarked.md) with the Mark of Scribing; see that entry for details.
 
 ## Rock gnomes
@@ -11,10 +10,10 @@ Rock gnomes are often found in the Daw Range, but also within the many hillsides
 Forest gnome villages are found in almost every wooded area on Azgaarnoth--if you can find them. Individual forest gnomes are not common, yet they are not so rare as to draw immediate attention when they wander into town. Many of the forest gnomes have spent time with the [Glittering Eye](../Organizations/MageSchools/GlitteringEye.md) mage school, to perfect their illusions, and often work closely with druids to maintain their forest home when threatened.
 
 
-## Svirfneblin ("deep gnomes")
-[Svirfneblin](../Creatures/DeepGnome.md) enclaves are buried deep within the Daws Range and, like the rest of the Underdark, miles below the surface of the other continents of Azgaarnoth. Most svirfneblin never see the light of day, and most have been in a desperate struggle for survival for too long to have the gnomish "love of life" and curiosity that characterize their surface kin.
+## [Svirfneblin](../Creatures/Gnomes.md#deep-gnome) ("deep gnomes")
+[Svirfneblin](../Creatures/Gnomes.md#deep-gnome) enclaves are buried deep within the Daws Range and, like the rest of the Underdark, miles below the surface of the other continents of Azgaarnoth. Most svirfneblin never see the light of day, and most have been in a desperate struggle for survival for too long to have the gnomish "love of life" and curiosity that characterize their surface kin.
 
 
-## Dark gnomes
+## [Dark gnomes](../Creatures/Derro.md)
 Like the dwarves and the elves, rumors abound of "dark gnomes" that live deep within the earth, but rumors cannot decide if these gnomes are abandoned Exodus tribes or tribes that never integrated with the dwarves to begin with. Rumor holds that these evil-tended gnomes live deep within the Daws Range, as part of the Underdark, and are frequently the target of Underdark slave raiders. Like their deep gnome cousins, dark gnomes have lost their "love of life"; unlike said cousins, the dark gnomes have gained a tendency to selfishness and cruelty in its place.
 

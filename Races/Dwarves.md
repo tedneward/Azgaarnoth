@@ -1,4 +1,4 @@
-# Dwarves
+# [Dwarves](../Creatures/Dwarves.md)
 Dwarves may be [dragonmarked](Dragonmarked.md) with the Mark of Warding; see that entry for details.
 
 * **Ability Score Increase**. Your Constitution score increases by 2.

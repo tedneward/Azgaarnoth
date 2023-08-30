@@ -1,4 +1,4 @@
-# Aasimari
+# [Aasimari](../Creatures/Aasimari.md)
 
 * **Ability Score Increase**. Your Charisma score increases by 2.
 

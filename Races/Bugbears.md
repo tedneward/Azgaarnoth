@@ -1,7 +1,4 @@
-# Bugbear
-Bugbears, in many ways, are the lazy bullies of the [Hordes](index.md#hordes), and the rest of Azgaarnoth is grateful that these physical specimens of might have generally chosen the easiest path rather than seek to assert themselves collectively as a race. The only members of the Hordes that might have challenged the [minotaurs](Minotaurs.md) for primacy over the Hordes, bugbears mostly chose instead to focus on rest and sleep and lethargy, and effectively ceded primacy over the Hordes to the bull-men.
-
-However, individual bugbears have been found all over Azgaarnoth, and many bugbear families are finding that their size and skills can be put to good use outside of the Hordes. As a result, they are frequently found in a variety of organizations, including several Rogues' Guilds
+# [Bugbears](../Creatures/Bugbears.md)
 
 * **Ability Score Increase**. Your Strength score increases by 2, and your Dexterity score increases by 1.
 
