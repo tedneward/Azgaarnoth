@@ -428,7 +428,7 @@ Extraplanar, Conjured/Summoned
 ![](ShadowMastiff-Token.png)
 
 >### Shadow Mastiff
->*Medium monstrosity, neutral evil*
+>*Medium Monstrosity, Typically Neutral Evil*
 >___
 >- **Armor Class** 12
 >- **Hit Points** 33 (6d8 + 6)
@@ -445,22 +445,22 @@ Extraplanar, Conjured/Summoned
 >- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks while in dim light or darkness
 >- **Damage Immunities** 
 >- **Condition Immunities** 
->- **Skills** Perception +3,Stealth +6
->- **Senses** darkvision 60 ft.,passive Perception 13
+>- **Skills** Perception +5,Stealth +6
+>- **Senses** darkvision 60 ft.,passive Perception 15
 >- **Languages** --
 >- **Challenge** 2
 >___
 >***Ethereal Awareness.*** The shadow mastiff can see ethereal creatures and objects.
->
->***Keen Hearing and Smell.*** The shadow mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
->
->***Shadow Blend.*** While in dim light or darkness, the shadow mastiff can use a bonus action to become invisible, along with anything it is wearing or carrying. The invisibility lasts until the shadow mastiff uses a bonus action to end it or until the shadow mastiff attacks, is in bright light, or is incapacitated.
 >
 >***Sunlight Weakness.*** While in bright light created by sunlight, the shadow mastiff has disadvantage on attack rolls, ability checks, and saving throws.
 >
 >#### Actions
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 >
+>#### Bonus Actions
+>***Shadow Blend.*** While in dim light or darkness, the shadow mastiff becomes invisible, along with anything it is wearing or carrying. The invisibility lasts until the shadow mastiff uses a bonus action to end it or until the shadow mastiff attacks, is in bright light, or is incapacitated.
+>
+
 
 ---
 
@@ -517,4 +517,3 @@ Conjured/Summoned
 >
 >***Baleful Baying.*** The yeth hound bays magically. Every enemy within 300 feet of the hound that can hear it must succeed on a DC 13 Wisdom saving throw or be frightened until the end of the hound's next turn or until the hound is incapacitated. A frightened target that starts its turn within 30 feet of the hound must use all its movement on that turn to get as far from the hound as possible, must finish the move before taking an action, and must take the most direct route, even if hazards lie that way. A target that successfully saves is immune to the baying of all yeth hounds for the next 24 hours.
 >
-

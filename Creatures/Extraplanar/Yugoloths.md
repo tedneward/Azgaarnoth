@@ -1,7 +1,7 @@
 # Yugoloths
 Yugoloths are fickle fiends that inhabit the planes of Acheron, Gehenna, Hades, and Carceri. They act as mercenaries and are notorious for their shifting loyalties. They are the embodiments of avarice. Before serving under anyone's banner, a yugoloth asks the only question on its mind: What's in it for me?
 
-> Jump to: [Arcanaloth](#arcanaloth) | [Canoloth](#canoloth) | [Dhergoloth](#dhergoloth) | [Hydroloth](#hydroloth) | [Merrenoloth]() | [Mezzoloth](#mezzoloth) | [Nycaloth](#nycaloth) | [Oinoloth](#oinoloth) | [Ultroloth](#ultroloth)
+> Jump to: [Arcanaloth](#arcanaloth) | [Canoloth](#canoloth) | [Dhergoloth](#dhergoloth) | [Hydroloth](#hydroloth) | [Merrenoloth]() | [Mezzoloth](#mezzoloth) | [Nycaloth](#nycaloth) | [Oinoloth](#oinoloth) | [Ultroloth](#ultroloth) | [Yagnoloth](#yagnoloth)
 
 ***Spawn of Gehenna.*** The first yugoloths were created by a sisterhood of night hags on Gehenna. It is widely believed that Asmodeus, Lord of the Nine Hells, commissioned the work, in the hope of creating an army of fiends that were not bound to the Nine Hells. In the course of making this new army, the hags crafted four magic tomes and recorded the true names of every yugoloth they created, save one, the General of Gehenna. These tomes were called the Books of Keeping. Since knowing a fiend's true name grants power over it, the hags used the books to ensure the yugoloths' loyalty. They also used the books to capture the true names of other fiends that crossed them. It is rumored that the Books of Keeping contain the true names of a few demon lords and archdevils as well.
 
@@ -502,3 +502,54 @@ With a reputation for cruelty, ultroloths command their minions to fight while t
 >***Summon Yugoloth (1/Day).*** The yugoloth chooses what to summon and attempts a magical summoning. An ultroloth has a 50 percent chance of summoning 1d6 mezzoloths, 1d4 nycaloths, or one ultroloth. A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for 1 minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it.
 >
 
+---
+
+## Yagnoloth
+Anyone who would contract yugoloths for a task usually ends up dealing with a yagnoloth. Cunning negotiators, these strange Fiends handle the writing of contracts for their fellow yugoloths. Once a yagnoloth is hired, it communicates its employer's desires to the yugoloths it commands.
+
+Although they are entrusted with leading lesser yugoloths, yagnoloths ultimately take their orders from arcanaloths and ultroloths. Aside from their superiors, yagnoloths have full authority over and expect obedience from the yugoloths under their command. Yagnoloths follow the dictates of the contracts they negotiate but always include a loophole to escape their obligations if the situation warrants.
+
+A yagnoloth has one arm of human size and one giant-sized arm. During negotiations, the yagnoloth uses its human-sized arm to draft and sign contracts. When a show of force is necessary or when combat is joined, it attacks with its brutally powerful giant arm.
+
+>### Yagnoloth
+>*Large Fiend (Yugoloth), Typically Neutral Evil*
+>___
+>- **Armor Class** 17 (natural armor)
+>- **Hit Points** 147 (14d10 + 70)
+>- **Speed** 40 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|19 (+4)|14 (+2)|21 (+5)|16 (+3)|15 (+2)|18 (+4)|
+>
+>___
+>- **Proficiency Bonus** +4
+>- **Saving Throws** Dex +6,Int +7,Wis +6,Cha +8
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold,fire,lightning; bludgeoning,piercing,and slashing from nonmagical attacks
+>- **Damage Immunities** acid,poison
+>- **Condition Immunities** poisoned
+>- **Skills** Deception +8,Insight +6,Perception +6,Persuasion +8
+>- **Senses** blindsight 60 ft.,darkvision 60 ft.,passive Perception 16
+>- **Languages** Abyssal,Infernal,telepathy 60 ft.
+>- **Challenge** 11
+>___
+>***Magic Resistance.*** The yagnoloth has advantage on saving throws against spells and other magical effects.
+>
+>#### Actions
+>***Multiattack.*** The yagnoloth makes one Electrified Touch attack and one Massive Arm attack, or it makes one Massive Arm attack and uses Battlefield Cunning, if available, or Teleport.
+>
+>***Electrified Touch.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 27 (6d8) lightning damage.
+>
+>***Massive Arm.*** Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 23 (3d12 + 4) force damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or become stunned until the end of the yagnoloth's next turn.
+>
+>***Battlefield Cunning (Recharge 4-6).*** Up to two allied yugoloths within 60 feet of the yagnoloth that can hear it can use their reactions to make one melee attack each.
+>
+>***Life Leech.*** The yagnoloth touches one incapacitated creature within 15 feet of it. The target takes 36 (7d8 + 4) necrotic damage, and the yagnoloth gains temporary hit points equal to half the damage dealt. The target must succeed on a DC 16 Constitution saving throw, or its hit point maximum is reduced by an amount equal to half the necrotic damage taken. This reduction lasts until the target finishes a long rest, and the target dies if its hit point maximum is reduced to 0.
+>
+>***Spellcasting.*** The yagnoloth casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
+>* At will: darkness, detect magic, dispel magic, invisibility (self only), suggestion
+>* 3/day: lightning bolt
+>
+>***Teleport.*** The yagnoloth teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+>

@@ -1,36 +1,65 @@
-Elf
-Most elves prefer to avoid fighting and will flee in most cases, though they may respond to aggression with their shortbows.
+Yuan-ti Pit Master
+With snakes for arms, pit masters are yuan-ti malison priests who have made a pact with the god Merrshaulk and seek to rouse him from his slumber by sacrificing Humanoids to him. They are the most traditionalist yuan-ti and believe that they are best equipped to achieve the goals of their people.
 
-ELF
-Medium Humanoid (Elf), Any Chaotic Alignment
+Pit masters are deeply involved in yuan-ti’s long-term plan to take over Humanoid governments, as well as in the ongoing effort to protect their cities from discovery or attacks by hostiles. They oppose reckless behavior and argue for a slow, cautious approach in all matters.
 
-Armor Class 11
-Hit Points 4 (1d8)
+YUAN-TI PIT MASTER
+Medium Monstrosity (Warlock), Typically Neutral Evil
+
+Armor Class 14 (natural armor)
+
+Hit Points 88 (16d8 + 16)
+
 Speed 30 ft.
 
 STR
-10 (+0)
+16 (+3)
 DEX
-12 (+1)
+14 (+2)
 CON
-10 (+0)
+13 (+1)
 INT
-10 (+0)
+14 (+2)
 WIS
-10 (+0)
+12 (+1)
 CHA
-10 (+0)
+16 (+3)
+Saving Throws Wis +4, Cha +6
 
-Skills Perception +2
-Senses Darkvision 60 ft., Passive Perception 12
-Languages Elvish
-Challenge 0 (10 XP)
-Proficiency Bonus +2
+Skills Deception +6, Stealth +5
 
-Fey Ancestry. Elf commoners have advantage on saving throws against being charmed, and magic can’t put you to sleep.
+Damage Immunities poison
+
+Condition Immunities poisoned
+
+Senses darkvision 120 ft., passive Perception 11
+
+Languages Abyssal, Common, Draconic
+
+Challenge 5 (1,800 XP) Proficiency Bonus +3
+
+Devil’s Sight. Magical darkness doesn’t impede the yuan-ti’s darkvision.
+
+Magic Resistance. The yuan-ti has advantage on saving throws against spells and other magical effects.
 
 Actions
-Club. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
 
-Shortbow. Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 4 (1d6+1) piercing damage.
+Multiattack. The yuan-ti makes three Bite attacks or two Spectral Fangs attacks.
 
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.
+
+Spectral Fangs. Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 16 (3d8 + 3) poison damage.
+
+Merrshaulk’s Slumber (1/Day). The yuan-ti targets up to five creatures that it can see within 60 feet of it. Each target must succeed on a DC 13 Constitution saving throw or fall into a magical sleep and be unconscious for 10 minutes. A sleeping target awakens if it takes damage or if someone uses an action to shake or slap it awake. This magical sleep has no effect on a creature immune to being charmed.
+
+Spellcasting (Yuan-ti Form Only). The yuan-ti casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):
+
+At will: animal friendship (snakes only), guidance, mage hand, message
+
+3/day: suggestion
+
+2/day each: hold person, invisibility
+
+Bonus Actions
+
+Change Shape. The yuan-ti transforms into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. If it dies, it stays in its current form.
