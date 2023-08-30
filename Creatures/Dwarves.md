@@ -3,7 +3,9 @@ Dwarf commoners are hardy folk, usually working as miners, metalworkers, or some
 
 > Jump to: [Hill Dwarf](#hill-dwarf) | [Mountain Dwarf](#mountain-dwarf)
 
-***Cousins of the Underdark.*** The [duergar](Duergar.md) are genetically of the same lineage as other dwarves, but their time as captives of the mind flayers has rendered them almost genetically and culturally incompatible with their other dwarven kin. Likewise, the [derro](Derro.md) are so startingly different from their mountain and hill dwarf cousins that neither side much considers the other to be a "true dwarf" anymore.
+***Cousins of the Underdark.*** The [duergar](Duergar.md) are genetically of the same lineage as other dwarves, but their time as captives of the mind flayers has rendered them almost genetically and culturally incompatible with their other dwarven kin. Likewise, the [derro](Derro.md), actually closer kin to [gnomes](Gnomes.md) than dwarves, are so startingly different from their mountain and hill dwarf cousins that neither side much considers the other to be a "true dwarf" anymore.
+
+***TODO.*** Draw up a Hill Dwarf Merchant, a Mountain Dwarf Mercenary (Veteran), and a Hill Dwarf Exiled Noble.
 
 ---
 

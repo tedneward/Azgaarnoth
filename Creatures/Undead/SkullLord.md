@@ -3,6 +3,9 @@ Skull lords have claimed vast regions of the Shadowfell as their dominion. From 
 
 Infighting and treachery brought skull lords into existence. The first of them appeared in the aftermath of Vecna's bid to conquer the world of Greyhawk, after the vampire Kas betrayed Vecna and took his eye and hand. In the confusion resulting from this turn of events, Vecna's warlords turned against each other, and his plans were dashed. In a rage, Vecna gathered up his generals and captains and bound them in groups of three, fusing them into abominations cursed to fight among themselves for all time. Since the first skull lords were exiled into the shadows, others have arisen, typically created from other leaders who betrayed their masters.
 
+### Environment
+Extraplanar, Ruins
+
 >### Skull Lord
 >*Medium Undead (Sorcerer), Typically Lawful Evil*
 >___
