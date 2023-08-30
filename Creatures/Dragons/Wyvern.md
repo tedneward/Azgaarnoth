@@ -23,7 +23,7 @@ Although they possess more cunning than ordinary beasts, wyverns lack the intell
 >|19 (+4)|10 (+0)|16 (+3)|5 (-3)|12 (+1)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

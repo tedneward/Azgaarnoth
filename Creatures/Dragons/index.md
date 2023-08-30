@@ -9,28 +9,27 @@ True dragons pass through many distinct stages of life, from lowly wyrmlings to 
 
 **Dragon Age Categories**
 
-Category     | Size | Age Range
---------     | ---- | -----------
-Wyrmling     | Tiny | 5 years or less
-Very Young   | Small |
-Young        | Small | 6–100 years
-Juvenile     | Medium|
-Young Adult  | Large |
-Adult        | Large | 101–800 years
-Mature Adult | Huge  |
-Old          | Huge  |
-Elder        | Huge  |
-Ancient      | Huge  | 801 years or more
-Wyrm         | Gargantuan |
-Great Wyrm   | Gargantuan |
+Category     | Size  | Age Range    | Notable developments
+--------     | ----  | ------------ | --------------------
+**Wyrmling** | Tiny  | *0-5 years*  | Often still a part of parental lair; (matches to MM-Wyrmling)
+Very Young   | Small | 2-3 years    | [Very Young template]()
+**Young**    | Small | 6–100 yrs    | Wandering, establishing lair and hoard; [Young template]()
+Juvenile     | Medium|              | (matches to MM-Young)
+Young Adult  | Large |              | [Young adult template]()
+**Adult**    | Large | *101–800 yrs*| Lair established (w/regional effects, etc); [Adult template]()
+Mature Adult | Huge  |              | (matches to MM-Adult)
+Old          | Huge  |              | 
+Elder        | Huge  |              | 
+**Ancient**  | Huge  | *801+ years* | 
+Wyrm         | Gargantuan |         | 
+Great Wyrm   | Gargantuan |         | 
 
-### Spellcasters
-Dragons are innately magical creatures that can master a few spells as they age.
+The Monster Manual (and Fizban's) show only four categories of draconic life; the other six categories are from deeper research and a depth of understanding of dragons that few mortals have ever achieved.
 
-A young or older dragon can innately cast a number of spells equal to its Charisma modifier. Each spell can be cast once per day, requiring no material components, and the spell's level can be no higher than one-third the dragon's challenge rating (rounded down). The dragon's bonus to hit with spell attacks is equal to its proficiency bonus + its Charisma bonus. The dragon's spell save DC equals 8 + its proficiency bonus + its Charisma modifier.
 
 ### Draconic Feats
-As dragons grow through their ages and struggle (in their earliest years) to survive, many of them learn specialized variations of skills that mimic feats in humanoids. These [feats](DraconicFeats.md) are accessible only to true dragons (and can seriously amp up a dragon's lethality).
+As dragons grow through their ages and struggle (in their earliest years) to survive, many of them learn specialized variations of skills (including the spellcasting that is common in so many dragons) that mimic feats in humanoids. These [feats](DraconicFeats.md) are accessible only to true dragons (and can seriously amp up a dragon's lethality).
+
 
 ### Chromatic Dragons
 The [black](BlackDragons.md), [blue](BlueDragons.md), [green](GreenDragons.md), [red](), and [white]() dragons represent the evil side of dragonkind. Aggressive, gluttonous, and vain, chromatic dragons are dark sages and powerful tyrants feared by all creatures — including each other.
@@ -51,6 +50,7 @@ Tiamat's most hated enemy is [Bahamut](../../Religions/Pantheon/Bahamut.md) the 
 
 ### Gem Dragons
 
+
 ### Metallic Dragons
 Metallic dragons seek to preserve and protect, viewing themselves as one powerful race among the many races that have a place in the world. They were instrumental in the foundation of the militant order that is named after them, and continue to guide and support the Order, though usually more indirectly and out of the public view. Having witnessed the devastation that draconic conflict can wreak upon the countryside, many of the metallics choose to life more quiet lives, avoiding direct confrontation with chromatic dragons--but ready to leap into the skies to battle when a chromatic reveals itself and the need is great.
 
@@ -68,3 +68,85 @@ Some metallic dragons prefer to stay as far away from civilization as possible s
 
 Bahamut seldom interferes in the affairs of mortal creatures, though he makes exceptions to help thwart the machinations of [Tiamat](../../Religions/Pantheon/Tiamat.md) the Dragon Queen and her evil brood. Good-aligned clerics and paladins sometimes worship Bahamut for his dedication to justice and protection. As a lesser god, he has the power to grant divine spells.
 
+### Draconic Ages
+
+---
+
+## A
+- [Abishais](Abishais.md): [Black Abishai](Abishais.md#black-abishai) | [Blue Abishai](Abishais.md#blue-abishai) | [Green Abishai](Abishais.md#green-abishai) | [Red Abishai](Abishais.md#red-abishai) | [White Abishai](Abishais.md#white-abishai)
+- [Adult Black Dragon](BlackDragons.md#adult-black-dragon)
+- [Adult Blue Dragon](BlueDragons.md#adult-blue-dragon)
+- [Adult Green Dragon](GreenDragons.md#adult-green-dragon)
+- [Ancient Black Dragon](BlackDragons.md#ancient-black-dragon)
+- [Ancient Blue Dragon](BlueDragons.md#ancient-blue-dragon)
+- [Ancient Green Dragon](GreenDragons.md#ancient-green-dragon)
+
+## B
+- [Black Abishai](Abishais.md#black-abishai)
+- [Black Dragon Wyrmling](BlackDragons.md#black-dragon-wyrmling)
+- [Black Dragons](BlackDragons.md): [Black Dragon Wyrmling](BlackDragons.md#black-dragon-wyrmling) | [Very Young Black Dragon](BlackDragons.md#very-young-black-dragon) | [Young Black Dragon](BlackDragons.md#young-black-dragon) | [Juvenile Black Dragon](BlackDragons.md#juvenile-black-dragon) | [Young Adult Black Dragon](BlackDragons.md#young-adult-black-dragon) | [Adult Black Dragon](BlackDragons.md#adult-black-dragon) | [Mature Adult Black Dragon](BlackDragons.md#mature-adult-black-dragon) | [Old Black Dragon](BlackDragons.md#old-black-dragon) | [Elder Black Dragon](BlackDragons.md#elder-black-dragon) | [Ancient Black Dragon](BlackDragons.md#ancient-black-dragon) | [Black Wyrm](BlackDragons.md#black-wyrm) | [Great Black Wyrm](BlackDragons.md#great-black-wyrm)
+- [Black Wyrm](BlackDragons.md#black-wyrm)
+- [Blackspawn Raider](Dragonspawn.md#blackspawn-raider)
+- [Blue Abishai](Abishais.md#blue-abishai)
+- [Blue Dragon Wyrmling](BlueDragons.md#blue-dragon-wyrmling)
+- [Blue Dragons](BlueDragons.md): [Blue Dragon Wyrmling](BlueDragons.md#blue-dragon-wyrmling) | [Very Young Blue Dragon](BlueDragons.md#very-young-blue-dragon) | [Young Blue Dragon](BlueDragons.md#young-blue-dragon) | [Juvenile Blue Dragon](BlueDragons.md#juvenile-blue-dragon) | [Young Adult Blue Dragon](BlueDragons.md#young-adult-blue-dragon) | [Adult Blue Dragon](BlueDragons.md#adult-blue-dragon) | [Mature Adult Blue Dragon](BlueDragons.md#mature-adult-blue-dragon) | [Old Blue Dragon](BlueDragons.md#old-blue-dragon) | [Elder Blue Dragon](BlueDragons.md#elder-blue-dragon) | [Ancient Blue Dragon](BlueDragons.md#ancient-blue-dragon) | [Blue Wyrm](BlueDragons.md#blue-wyrm) | [Great Blue Wyrm](BlueDragons.md#great-blue-wyrm)
+- [Blue Wyrm](BlueDragons.md#blue-wyrm)
+- [Bluespawn Thunderlizard](Dragonspawn.md#bluespawn-thunderlizard)
+
+## D
+- [Dracohybrid Charger](DracohybridCharger.md)
+- [Draconic Feats](DraconicFeats.md):
+- [Dragon Turtle](DragonTurtle.md)
+- [Dragonspawn](Dragonspawn.md): [Blackspawn Raider](Dragonspawn.md#blackspawn-raider) | [Bluespawn Thunderlizard](Dragonspawn.md#bluespawn-thunderlizard) | [Greenspawn Razorfiend](Dragonspawn.md#greenspawn-razorfiend) | [Whitespawn Frostlizard](Dragonspawn.md#whitespawn-frostlizard)
+
+## E
+- [Elder Black Dragon](BlackDragons.md#elder-black-dragon)
+- [Elder Blue Dragon](BlueDragons.md#elder-blue-dragon)
+- [Elder Green Dragon](GreenDragons.md#elder-green-dragon)
+
+## G
+- [Great Black Wyrm](BlackDragons.md#great-black-wyrm)
+- [Great Blue Wyrm](BlueDragons.md#great-blue-wyrm)
+- [Great Green Wyrm](GreenDragons.md#great-green-wyrm)
+- [Green Abishai](Abishais.md#green-abishai)
+- [Green Dragons](GreenDragons.md): [Wyrmling Green Dragon](GreenDragons.md#wyrmling-green-dragon) | [Very Young Green Dragon](GreenDragons.md#very-young-green-dragon) | [Young Green Dragon](GreenDragons.md#young-green-dragon) | [Juvenile Green Dragon](GreenDragons.md#juvenile-green-dragon) | [Young Adult Green Dragon](GreenDragons.md#young-adult-green-dragon) | [Adult Green Dragon](GreenDragons.md#adult-green-dragon) | [Mature Adult Green Dragon](GreenDragons.md#mature-adult-green-dragon) | [Old Green Dragon](GreenDragons.md#old-green-dragon) | [Elder Green Dragon](GreenDragons.md#elder-green-dragon) | [Ancient Green Dragon](GreenDragons.md#ancient-green-dragon) | [Green Wyrm](GreenDragons.md#green-wyrm) | [Great Green Wyrm](GreenDragons.md#great-green-wyrm)
+- [Green Wyrm](GreenDragons.md#green-wyrm)
+- [Greenspawn Razorfiend](Dragonspawn.md#greenspawn-razorfiend)
+- [Guard Drake](GuardDrake.md)
+
+## J
+- [Juvenile Black Dragon](BlackDragons.md#juvenile-black-dragon)
+- [Juvenile Blue Dragon](BlueDragons.md#juvenile-blue-dragon)
+- [Juvenile Green Dragon](GreenDragons.md#juvenile-green-dragon)
+
+## M
+- [Mature Adult Black Dragon](BlackDragons.md#mature-adult-black-dragon)
+- [Mature Adult Blue Dragon](BlueDragons.md#mature-adult-blue-dragon)
+- [Mature Adult Green Dragon](GreenDragons.md#mature-adult-green-dragon)
+
+## O
+- [Old Black Dragon](BlackDragons.md#old-black-dragon)
+- [Old Blue Dragon](BlueDragons.md#old-blue-dragon)
+- [Old Green Dragon](GreenDragons.md#old-green-dragon)
+
+## R
+- [Red Abishai](Abishais.md#red-abishai)
+
+## V
+- [Very Young Black Dragon](BlackDragons.md#very-young-black-dragon)
+- [Very Young Blue Dragon](BlueDragons.md#very-young-blue-dragon)
+- [Very Young Green Dragon](GreenDragons.md#very-young-green-dragon)
+
+## W
+- [White Abishai](Abishais.md#white-abishai)
+- [Whitespawn Frostlizard](Dragonspawn.md#whitespawn-frostlizard)
+- [Wyrmling Green Dragon](GreenDragons.md#wyrmling-green-dragon)
+- [Wyvern](Wyvern.md)
+
+## Y
+- [Young Adult Black Dragon](BlackDragons.md#young-adult-black-dragon)
+- [Young Adult Blue Dragon](BlueDragons.md#young-adult-blue-dragon)
+- [Young Adult Green Dragon](GreenDragons.md#young-adult-green-dragon)
+- [Young Black Dragon](BlackDragons.md#young-black-dragon)
+- [Young Blue Dragon](BlueDragons.md#young-blue-dragon)
+- [Young Green Dragon](GreenDragons.md#young-green-dragon)

@@ -58,11 +58,11 @@ If the dragon takes the Dash action on its turn, it can make a melee attack as a
 
 The dragon's size is Colossal, and its space is a 25 to 30 foot square. It has advantage on Strength checks against Huge or smaller creatures. Medium or smaller creatures can enter the dragon's space and vice versa, and the dragon gains the Stomp reaction, the modified Bite action, and the Swallow action. The dragon can make a Swallow attack instead of a Bite attack as part of its Multiattack.
 
-**Bite.** (Range, damage, and targets equal to original values.) If the target is a creature, the dragon can choose to grapple it (escape DC = 8 + the dragon's proficiency bonus + the dragon's Strength modifier). Until this grapple ends, the target is restrained, and the dragon can't bite another target.
+> ***Bite.*** (Range, damage, and targets equal to original values.) If the target is a creature, the dragon can choose to grapple it (escape DC = 8 + the dragon's proficiency bonus + the dragon's Strength modifier). Until this grapple ends, the target is restrained, and the dragon can't bite another target.
 
-**Stomp.** The dragon can make a claw attack against a creature that ends its turn in the dragon's space.
+> ***Stomp.*** The dragon can make a claw attack against a creature that ends its turn in the dragon's space.
 
-**Swallow.** The dragon makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the dragon, and it takes 28 (8d6) acid damage, and 28 (8d6) damage (of the same type as the dragon's Breath Weapon) at the start of each of the dragon's turns.
+> ***Swallow.*** The dragon makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the dragon, and it takes 28 (8d6) acid damage, and 28 (8d6) damage (of the same type as the dragon's Breath Weapon) at the start of each of the dragon's turns.
 
 If the dragon takes 40 damage or more on a single turn from a creature inside it, the dragon must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the dragon. If the dragon dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.
 
@@ -72,7 +72,7 @@ If the dragon takes 40 damage or more on a single turn from a creature inside it
 
 The dragon gains the Crush action option:
 
-**Crush.** The dragon throws itself at an enemy creature and lands centered on that creature's space. All creatures within the dragon's new space must make a Dexterity saving throw (save DC = 8 + the dragon's proficiency bonus + the dragon's Strength modifier). The target makes the saving throw with disadvantage. On a successful save, a creature is pushed safely to the nearest unoccupied space. On a failed save, the creature takes 6 (1d12) plus 6 (1d12) bludgeoning damage for every size category the dragon is above Medium (plus Strength modifier), and the creature is restrained by the dragon, and both are considered prone. If the dragon starts its turn on top of a creature restrained in this way, the creature takes the same damage. At the end of its turns, any restrained creature can attempt to escape as if trying to escape a grapple. The restrained condition ends when the dragon ends the prone condition.
+> ***Crush.*** The dragon throws itself at an enemy creature and lands centered on that creature's space. All creatures within the dragon's new space must make a Dexterity saving throw (save DC = 8 + the dragon's proficiency bonus + the dragon's Strength modifier). The target makes the saving throw with disadvantage. On a successful save, a creature is pushed safely to the nearest unoccupied space. On a failed save, the creature takes 6 (1d12) plus 6 (1d12) bludgeoning damage for every size category the dragon is above Medium (plus Strength modifier), and the creature is restrained by the dragon, and both are considered prone. If the dragon starts its turn on top of a creature restrained in this way, the creature takes the same damage. At the end of its turns, any restrained creature can attempt to escape as if trying to escape a grapple. The restrained condition ends when the dragon ends the prone condition.
 
 
 ## Damage Absorption
@@ -92,20 +92,21 @@ If the dragon is flying and dives at least 30 feet straight toward a target and 
 
 The dragon's bite attacks also deal extra damage of the same type as the dragon's breath weapon. The damage varies by the dragon's age, as given in the table.
 
-Elemental Bite Damage | Dragon's Age Damage
-----------------------|--------------------
-Wyrmling| 1d6
-Very Young| 1d6
-Young| 1d8
-Juvenile| 1d10
-Young Adult| 1d10
-Adult| 1d12
-Mature Adult| 2d6
-Old| 2d8
-Elder| 2d10
-Ancient| 4d6
-Wyrm| 5d6
-Great Wyrm| 4d8
+Elemental Bite Damage 
+Dragon's Age | Damage
+------------ | -------------------
+Wyrmling | 1d6
+Very Young | 1d6
+Young | 1d8
+Juvenile | 1d10
+Young Adult | 1d10
+Adult | 1d12
+Mature Adult | 2d6
+Old | 2d8
+Elder | 2d10
+Ancient | 4d6
+Wyrm | 5d6
+Great Wyrm | 4d8
 
 
 ## Endurance
@@ -145,7 +146,7 @@ The dragon doesn't provoke opportunity attacks when it flies out of an enemy's r
 
 The dragon gains a new action option:
 
-**Furious Onslaught.** The dragon can use its Frightful Presence. It then makes a claw attack against every creature in its reach. It can also make one bite attack.
+> ***Furious Onslaught.*** The dragon can use its Frightful Presence. It then makes a claw attack against every creature in its reach. It can also make one bite attack.
 
 
 ## Hard Scales
@@ -179,27 +180,9 @@ The dragon has been touched by the hand of devils in some way, perhaps by being 
 ## Innate Spellcasting
 *Prerequisite: Charisma 12.*
 
-The dragon's innate spellcasting ability is Charisma (spell save DC = 8 + the dragon's proficiency bonus + the dragon's Charisma modifier; spell attack bonus = the dragon's proficiency bonus + the dragon's Charisma modifier). It can innately cast spells, requiring no material components. Pick a number of spells equal to the dragon's Charisma modifier. Follow the table below to determine how often the spells can be cast. At Will spells can be cantrips, 1st level, or 2nd level spells. 3/Day spells should be at least 1st or 2nd level, and have a maximum level equal to the dragon's Challenge Rating divided by 4 (rounded up). 1/Day spells should be the strongest spells in the dragon's arsenal. The highest level spell a dragon can cast is equal to its Challenge Rating divided by 3 (rounded up).
+The dragon's innate spellcasting ability is Charisma (spell save DC = 8 + the dragon's proficiency bonus + the dragon's Charisma modifier; spell attack bonus = the dragon's proficiency bonus + the dragon's Charisma modifier). It can innately cast spells, requiring no material components. 
 
-Preferred spells vary according to dragon type; general spells are provided here: absorb elements, comprehend languages, detect magic, detect thoughts, dispel magic, elemental bane, elemental weapon, enhance ability, freedom of movement, locate creature, locate object, nondetection, protection from energy, scrying, see invisibility, true seeing.
-
-Preferred spells by dragon type are given here:
-* **Black Dragons:** acid splash, chill touch, darkness, plant growth, vampiric touch, insect plague, melf's acid arrow, stinking cloud, circle of death, contagion, cloudkill, finger of death, harm.
-* **Blue Dragons:** lightning bolt, minor illusion, shocking grasp, thunderclap, call lightning, major image, silent image, hallucinatory terrain, project image, mirage arcane, storm of vengeance, storm sphere, control weather.
-* **Green Dragons:** friends, poison spray, suggestion, thorn whip, charm person, cloudkill, command, dominate beast, dominate person, entangle, glibness, mass suggestion, plant growth, dominate monster, wall of thorns.
-* **Red Dragons:** [control flames](../Magic/Spells/control-flames.md), [create bonfire](../Magic/Spells/create-bonfire.md), firebolt, locate object, produce flame, clairvoyance, delayed blast fireball, fireball, heat metal, immolation, scrying, wall of fire, firestorm, incendiary cloud.
-* **White Dragons:** frostbite, fog cloud, gust of wind, sleet storm, ice storm, cone of cold, investiture of ice, wall of ice, investiture of wind, control weather.
-* **Brown Dragons:** [create bonfire](../Magic/Spells/create-bonfire.md), mold earth, heat metal, erupting earth, earthbind, wall of sand, transmute rock, move earth, earthquake.
-* **Gray Dragons:** shield, telekinesis, counterspell, globe of invulnerability.
-* **Purple Dragons:** charm person, clairvoyance, command, enthrall, hex, suggestion, clairvoyance, dominate monster, dominate person, invisibility, locate creature, mass
-suggestion, glibness, teleport.
-* **Brass Dragons:** [control flames](../Magic/Spells/control-flames.md), firebolt, friends, minor illusion, produce flame, speak with animals, charm person, [control winds](../Magic/Spells/control-winds.md), heat metal, legend lore, major illusion, suggestion, control weather, delayed blast fireball, glibness, wall of sand.
-* **Bronze Dragons:** control water, shape water, speak with animals, thunderclap, water walk, call lightning, create/destroy water, detect thoughts, fog cloud, lightning bolt, tidal wave, zone of truth, control weather, tsunami.
-* **Copper Dragons:** charm person, command, erupting earth, glibness, major image, maximilian's earthen grasp, tasha's hideous laughter, transmute rock, silent image, suggestion, bones of the earth, flesh to stone, mass suggestion, wall of stone.
-* **Gold Dragons:** bless, daylight, guidance, light, resistance, spare the dying, arcane eye, beacon of hope, geas, heat metal, heroism, sanctuary, foresight, heal, sunburst.
-* **Silver Dragons:** [control winds](../Magic/Spells/control-winds.md), frostbite, feather fall, fog cloud, legend lore, moonbeam, scrying, sleet storm, control weather, reverse gravity.
-* **Iron Dragons:** charm person, [create bonfire](../Magic/Spells/create-bonfire.md), enthrall, thunderclap, dominate beast, suggestion, thunderwave, dominate monster, mass suggestion.
-* **Mithral Dragons:** any, but they prefer spells from the cleric spell list.
+Pick a number of spells equal to the dragon's Charisma modifier. Follow the table below to determine how often the spells can be cast. At Will spells can be cantrips, 1st level, or 2nd level spells. 3/Day spells should be at least 1st or 2nd level, and have a maximum level equal to the dragon's Challenge Rating divided by 4 (rounded up). 1/Day spells should be the strongest spells in the dragon's arsenal. The highest level spell a dragon can cast is equal to its Challenge Rating divided by 3 (rounded up).
 
 **Dragon Innate Casting**
 Charisma Modifier|At Will Spells|3/Day Spells|1/Day Spells
@@ -214,9 +197,34 @@ Charisma Modifier|At Will Spells|3/Day Spells|1/Day Spells
 +8|3|3|2
 +9|4|3|2
 
+Preferred spells vary according to dragon type. 
+
+General spells are provided here: [absorb elements](../../Magic/Spells/absorb-elements.md), [comprehend languages](../../Magic/Spells/comprehend-languages.md), [detect magic](../../Magic/Spells/detect-magic.md), [detect thoughts](../../Magic/Spells/detect-thoughts.md), [dispel magic](../../Magic/Spells/dispel-magic.md), [elemental bane](../../Magic/Spells/elemental-bane.md), [elemental weapon](../../Magic/Spells/elemental-weapon.md), [enhance ability](../../Magic/Spells/enhance-ability.md), [freedom of movement](../../Magic/Spells/freedom-of-movement.md), [locate creature](../../Magic/Spells/locate-creature.md), [locate object](../../Magic/Spells/locate-object.md), [nondetection](../../Magic/Spells/nondetection.md), [protection from energy](../../Magic/Spells/protection-from-energy.md), [scrying](../../Magic/Spells/scrying.md), [see invisibility](../../Magic/Spells/see-invisibility.md), [true seeing](../../Magic/Spells/true-seeing.md)
+
+Preferred spells by dragon type are given here:
+
+* **Black Dragons:** acid splash, chill touch, darkness, plant growth, vampiric touch, insect plague, melf's acid arrow, stinking cloud, circle of death, contagion, cloudkill, finger of death, harm.
+* **Blue Dragons:** lightning bolt, minor illusion, shocking grasp, thunderclap, call lightning, major image, silent image, hallucinatory terrain, project image, mirage arcane, storm of vengeance, storm sphere, control weather.
+* **Green Dragons:** friends, poison spray, suggestion, thorn whip, charm person, cloudkill, command, dominate beast, dominate person, entangle, glibness, mass suggestion, plant growth, dominate monster, wall of thorns.
+* **Red Dragons:** [control flames](../../Magic/Spells/control-flames.md), [create bonfire](../../Magic/Spells/create-bonfire.md), firebolt, locate object, produce flame, clairvoyance, delayed blast fireball, fireball, heat metal, immolation, scrying, wall of fire, firestorm, incendiary cloud.
+* **White Dragons:** frostbite, fog cloud, gust of wind, sleet storm, ice storm, cone of cold, investiture of ice, wall of ice, investiture of wind, control weather.
+* **Brown Dragons:** [create bonfire](../../Magic/Spells/create-bonfire.md), mold earth, heat metal, erupting earth, earthbind, wall of sand, transmute rock, move earth, earthquake.
+* **Gray Dragons:** shield, telekinesis, counterspell, globe of invulnerability.
+* **Purple Dragons:** charm person, clairvoyance, command, enthrall, hex, suggestion, clairvoyance, dominate monster, dominate person, invisibility, locate creature, mass
+suggestion, glibness, teleport.
+* **Brass Dragons:** [control flames](../../Magic/Spells/control-flames.md), firebolt, friends, minor illusion, produce flame, speak with animals, charm person, [control winds](../../Magic/Spells/control-winds.md), heat metal, legend lore, major illusion, suggestion, control weather, delayed blast fireball, glibness, wall of sand.
+* **Bronze Dragons:** control water, shape water, speak with animals, thunderclap, water walk, call lightning, create/destroy water, detect thoughts, fog cloud, lightning bolt, tidal wave, zone of truth, control weather, tsunami.
+* **Copper Dragons:** charm person, command, erupting earth, glibness, major image, maximilian's earthen grasp, tasha's hideous laughter, transmute rock, silent image, suggestion, bones of the earth, flesh to stone, mass suggestion, wall of stone.
+* **Gold Dragons:** bless, daylight, guidance, light, resistance, spare the dying, arcane eye, beacon of hope, geas, heat metal, heroism, sanctuary, foresight, heal, sunburst.
+* **Iron Dragons:** charm person, [create bonfire](../../Magic/Spells/create-bonfire.md), enthrall, thunderclap, dominate beast, suggestion, thunderwave, dominate monster, mass suggestion.
+* **Mithral Dragons:** any, but they prefer spells from the cleric spell list.
+* **Silver Dragons:** [control winds](../../Magic/Spells/control-winds.md), frostbite, feather fall, fog cloud, legend lore, moonbeam, scrying, sleet storm, control weather, reverse gravity.
+
 If the dragon has legendary actions, it also gains the following Legendary Action:
 
-**Innate Casting (Costs 3 Actions).** The dragon casts a spell.
+> ***Innate Casting (Costs 3 Actions).*** The dragon casts a spell.
+
+The older the dragon, the more likely they have spells that are outside the "core" spell list. Dragons have no need of spellbooks, but can teach their chosen spells to any class that has the spell on its expanded spell list.
 
 
 ## Large and In Charge
@@ -288,7 +296,7 @@ If the dragon hits a creature with two claw attacks in the same turn, the second
 
 The dragon gains the Roar action option:
 
-**Roar (Rechage 5-6).** The dragon unleashes a powerful roar. Each creature within 100 feet of the dragon that can hear it must make a Constitution saving throw (save DC = 8 + the dragon's proficiency bonus + the dragon's Charisma modifier) or take 11 (3d6) thunder damage and be stunned until the end of its next turn. On a successful save, the creature takes half as much damage and isn't stunned.
+> ***Roar (Rechage 5-6).*** The dragon unleashes a powerful roar. Each creature within 100 feet of the dragon that can hear it must make a Constitution saving throw (save DC = 8 + the dragon's proficiency bonus + the dragon's Charisma modifier) or take 11 (3d6) thunder damage and be stunned until the end of its next turn. On a successful save, the creature takes half as much damage and isn't stunned.
 
 
 ## Sacred Warder
@@ -296,7 +304,7 @@ The dragon gains the Roar action option:
 
 The dragon is an avid zealot of Bahamut, and so has been gifted with the ability to protect itself from harm. The dragon gains the following action option:
 
-**Holy Shield (1/Day).** As an action, the dragon can create a holy shield around itself that covers its body and anything it is wearing. The shield has a number of hit points equal to 10 times the dragon's age category, and shares all of the dragon's resistances and immunities. Any time that the dragon takes damage, the shield takes that damage instead. If the shield is reduced to 0 hit points, any remaining damage is transferred to the dragon. The shield lasts for 10 minutes or until it is reduced to 0 hit points.
+> ***Holy Shield (1/Day).*** As an action, the dragon can create a holy shield around itself that covers its body and anything it is wearing. The shield has a number of hit points equal to 10 times the dragon's age category, and shares all of the dragon's resistances and immunities. Any time that the dragon takes damage, the shield takes that damage instead. If the shield is reduced to 0 hit points, any remaining damage is transferred to the dragon. The shield lasts for 10 minutes or until it is reduced to 0 hit points.
 
 
 ## Sacred Warder of Bahamut
@@ -328,11 +336,11 @@ If the dragon's breath weapon is cone-shaped, it can instead change the shape to
 
 The dragon gains the Shockwave action option:
 
-**Shockwave.** The dragon slams its tail down on a solid surface to create a circular shockwave with a radius equal to 15 times the number of size categories the dragon is above Medium. All creatures in that area, aside from the dragon, must succeed on a Strength saving throw against the dragon's Strength Check. On a failed save, the creature is knocked prone; if the creature is concentrating, it also loses concentration.
+> ***Shockwave.*** The dragon slams its tail down on a solid surface to create a circular shockwave with a radius equal to 15 times the number of size categories the dragon is above Medium. All creatures in that area, aside from the dragon, must succeed on a Strength saving throw against the dragon's Strength Check. On a failed save, the creature is knocked prone; if the creature is concentrating, it also loses concentration.
 
 If the dragon has legendary actions, it also gains the following Legendary Action:
 
-**Shockwave (Costs 2 Actions).** The dragon makes a Shockwave attack.
+> ***Shockwave (Costs 2 Actions).*** The dragon makes a Shockwave attack.
 
 
 ## Silent Walk
