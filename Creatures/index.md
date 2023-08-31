@@ -1,5 +1,7 @@
 # Master List of the Creatures of Azgaarnoth
 
+Generated 30 August 2023
+
 ## A
 - [Aarakocra](Aarakocra.md)
 - [Aberrant Spirit](Spirits.md#aberrant-spirit)
