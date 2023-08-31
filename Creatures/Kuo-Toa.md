@@ -1,7 +1,7 @@
 # Kuo-toa
 Kuo-toa are fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in everlasting night. Kuo-toa can no longer abide daylight.
 
-> Jump to: [Kuo-Toa](#Kuo-Toa) | [Kuo-toa Archpriest](#kuo-toa-archpriest) | [Kuo-toa Monitor](#kuo-toa-monitor) | [Kuo-toa Whip](#kuo-toa-whip)
+> Jump to: [Kuo-Toa](Kuo-toa.md#kuo-toa) | [Kuo-toa Archpriest](Kuo-toa.md#kuo-toa-archpriest) | [Kuo-toa Monitor](Kuo-toa.md#kuo-toa-monitor) | [Kuo-toa Whip](Kuo-toa.md#kuo-toa-whip)
 
 ***Tormented and Abandoned.*** At the height of the illithid empire, the mind flayers captured kuo-toa by the thousands and forced them into bondage. The kuo-toa were unable to endure the oppressive mental force the illithids unleashed against them. By the time the mind flayers abandoned them, the prolonged psychic subjugation endured by the kuo-toa had shattered their minds.
 
@@ -16,6 +16,13 @@ Kuo-toa that cross paths with an aboleth often find themselves worshiping it as 
 ---
 
 ## Kuo-Toa
+(No description given)
+
+### Environment
+Coastal, Underdark, Underwater
+
+### Token
+![](Kuo-Toa-Token.png)
 
 >### Kuo-Toa
 >*Medium humanoid (kuo-toa), neutral evil*
@@ -29,7 +36,7 @@ Kuo-toa that cross paths with an aboleth often find themselves worshiping it as 
 >|13 (+1)|10 (+0)|11 (+0)|11 (+0)|10 (+0)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -69,6 +76,12 @@ The archpriest's decrees are enforced by monitors, devout kuo-toa that act as th
 
 In general, kuo-toa don't like the weight of armor on their slippery bodies and rely on their natural rubbery hides for protection. However, they like to wear jewelry made from scavenged bones, shells, pearls, gems, and carapace fragments.
 
+### Environment
+(FIXME)
+
+### Token
+![](Kuo-toaArchpriest-Token.png)
+
 >### Kuo-toa Archpriest
 >*Medium humanoid (kuo-toa), neutral evil*
 >___
@@ -81,7 +94,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 >|16 (+3)|14 (+2)|16 (+3)|13 (+1)|16 (+3)|14 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -125,6 +138,13 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 ---
 
 ## Kuo-toa Monitor
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](Kuo-toaMonitor-Token.png)
 
 >### Kuo-toa Monitor
 >*Medium humanoid (kuo-toa), neutral evil*
@@ -138,7 +158,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 >|14 (+2)|10 (+0)|14 (+2)|12 (+1)|14 (+2)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -168,6 +188,13 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 ---
 
 ## Kuo-toa Whip
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](Kuo-toaWhip-Token.png)
 
 >### Kuo-toa Whip
 >*Medium humanoid (kuo-toa), neutral evil*
@@ -181,7 +208,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 >|14 (+2)|10 (+0)|14 (+2)|12 (+1)|14 (+2)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

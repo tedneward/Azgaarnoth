@@ -1,6 +1,12 @@
 ## Pixie
 Standing barely a foot tall, pixies resemble diminutive elves with gossamer wings like those of dragonflies or butterflies, bright as the clear dawn and as luminous as the full moonrise. Curious as cats and shy as deer, pixies go where they please. They like to spy on other creatures and can barely contain their excitement around them. The urge to introduce themselves and strike up a friendship is almost overwhelming; only a pixie's fear of being captured or attacked stays its hand. Those who wander through a pixie's glade might never see the creatures, yet hear the occasional giggle, gasp, or sigh.
 
+### Environment
+(FIXME)
+
+### Token
+![](Pixie-Token.png)
+
 >### Pixie
 >*Tiny fey, neutral good*
 >___
@@ -13,7 +19,7 @@ Standing barely a foot tall, pixies resemble diminutive elves with gossamer wing
 >|2 (-4)|20 (+5)|8 (-1)|10 (+0)|14 (+2)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

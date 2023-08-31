@@ -7,6 +7,12 @@ When it changes shape, a mimic excretes an adhesive that helps it seize prey and
 
 ***Cunning Hunters.*** Mimics live and hunt alone, though they occasionally share their feeding grounds with other creatures. Although most mimics have only predatory intelligence, a rare few evolve greater cunning and the ability to carry on simple conversations in Common or Undercommon. Such mimics might allow safe passage through their domains or provide useful information in exchange for food.
 
+### Environment
+Forest, Ruins, Underdark, Urban
+
+### Token
+![](Mimic-Token.png)
+
 >### Mimic
 >*Medium monstrosity (shapechanger), neutral*
 >___
@@ -19,7 +25,7 @@ When it changes shape, a mimic excretes an adhesive that helps it seize prey and
 >|17 (+3)|12 (+1)|15 (+2)|5 (-3)|13 (+1)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

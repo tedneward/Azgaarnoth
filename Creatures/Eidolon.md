@@ -1,10 +1,17 @@
 # Eidolon
 To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the eidolon plunges into a statue specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
 
-> Jump to: [Eidolon Spirit](#eidolon-spirit) | [Sacred Statue](#sacred-statue)
+> Jump to: [Eidolon Spirit](Eidolon.md#eidolon-spirit) | [Sacred Statue](Eidolon.md#sacred-statue)
 ---
 
 ## Eidolon Spirit
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](EidolonSpirit-Token.png)
 
 >### Eidolon Spirit
 >*Medium Undead, Any Alignment*
@@ -44,6 +51,13 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 ---
 
 ## Sacred Statue
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](SacredStatue-Token.png)
 
 >### Sacred Statue
 >*Large Construct, As the Eidolon's Alignment*
@@ -57,7 +71,7 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 >|19 (+4)|8 (-1)|19 (+4)|14 (+2)|19 (+4)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Wis +8
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** acid,fire,lightning; bludgeoning,piercing,and slashing from nonmagical attacks

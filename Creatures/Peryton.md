@@ -11,6 +11,12 @@ When attacking a humanoid, a peryton is single-minded and relentless, fighting u
 
 Established settlements are attractive to perytons as a renewable food source. As such, village councils and local nobles often hire adventurers to eliminate peryton nests.
 
+### Environment
+(FIXME)
+
+### Token
+![](Peryton-Token.png)
+
 >### Peryton
 >*Medium monstrosity, chaotic evil*
 >___
@@ -23,7 +29,7 @@ Established settlements are attractive to perytons as a renewable food source. A
 >|16 (+3)|12 (+1)|13 (+1)|9 (-1)|12 (+1)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks

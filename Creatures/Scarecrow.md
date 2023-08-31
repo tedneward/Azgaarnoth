@@ -5,6 +5,12 @@ At harvest time, when death revisits the twilit world and summer's blossoms bow 
 
 ***Construct Nature.*** A scarecrow doesn't require air, food, drink, or sleep.
 
+### Environment
+(FIXME)
+
+### Token
+![](Scarecrow-Token.png)
+
 >### Scarecrow
 >*Medium construct, chaotic evil*
 >___
@@ -17,7 +23,7 @@ At harvest time, when death revisits the twilit world and summer's blossoms bow 
 >|11 (+0)|13 (+1)|11 (+0)|10 (+0)|10 (+0)|13 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** fire
 >- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks

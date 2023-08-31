@@ -5,6 +5,12 @@ Stirges feed on the blood of living creatures, attaching and draining them slowl
 
 ***Blood Drain.*** A stirge attacks by landing on a victim, finding a vulnerable spot, and plunging its proboscis into the flesh while using its pincer legs to latch on to the victim. Once the stirge has sated itself, it detaches and flies off to digest its meal.
 
+### Environment
+Forest, Grassland, Hill, Mountain, Ruins, Swamp, Underdark
+
+### Token
+![](Stirge-Token.png)
+
 >### Stirge
 >*Tiny beast, unaligned*
 >___
@@ -17,7 +23,7 @@ Stirges feed on the blood of living creatures, attaching and draining them slowl
 >|4 (-3)|16 (+3)|11 (+0)|2 (-4)|8 (-1)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

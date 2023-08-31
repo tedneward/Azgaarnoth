@@ -7,7 +7,7 @@ A gray render might be a strong ally, but it's always an unpredictable one. In c
 
 The Gray Render Quirks table presents possible quirks for gray renders that can be generated randomly or selected as desired.
 
-Gray Render Quirks
+**Gray Render Quirks**
 
 d12 | Quirk
 
@@ -36,6 +36,12 @@ d12 | Quirk
 11 | Buries treasure it finds
 
 12 | Chases birds, leaping into the air to catch them, heedless of the destruction it causes
+
+### Environment
+(FIXME)
+
+### Token
+![](GrayRender-Token.png)
 
 >### Gray Render
 >*Large Monstrosity, Typically Chaotic Neutral*

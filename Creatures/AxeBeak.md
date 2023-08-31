@@ -4,6 +4,9 @@ An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped
 ### Environment
 Grassland, Hill
 
+### Token
+![](AxeBeak-Token.png)
+
 >### Axe Beak
 >*Large beast, unaligned*
 >___

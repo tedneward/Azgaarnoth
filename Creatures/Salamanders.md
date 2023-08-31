@@ -1,7 +1,7 @@
 # Salamanders
 Salamanders slither across the Sea of Ash on the Elemental Plane of Fire, their sinuous coils and jagged spines smoldering. Intense heat washes off their bodies, while their yellow eyes glow like candles in the deep-set hollows of their hawkish faces.
 
-> Jump to: [Fire Snake](#fire-snake) | [Salamander](#Salamander) | [Frost Salamander](#frost-salamander)
+> Jump to: [Fire Snake](Salamanders.md#fire-snake) | [Salamander](Salamanders.md#salamander) | [Frost Salamander](Salamanders.md#frost-salamander)
 
 Salamanders adore power, and they delight in setting fire to things. Outside their home plane, they play among the burning skeletons of charred trees as forest fires rage around them, or slither down the slopes of erupting volcanoes to linger in fire pits and magma floes.
 
@@ -18,6 +18,12 @@ The efreet suffer salamanders to serve no other master; when efreet encounter sa
 
 ***Domineering Nobles.*** Although salamanders follow the destructive impulses of their fiery nature, slavery under the efreet has impacted the culture of free salamanders. They rule their own societies according to the efreet model, in which larger and stronger salamanders claim dominion over their lesser kin.
 
+### Environment
+(FIXME)
+
+### Token
+![](FireSnake-Token.png)
+
 >### Fire Snake
 >*Medium elemental, neutral evil*
 >___
@@ -30,7 +36,7 @@ The efreet suffer salamanders to serve no other master; when efreet encounter sa
 >|12 (+1)|14 (+2)|11 (+0)|7 (-2)|10 (+0)|8 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** cold
 >- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks
@@ -60,6 +66,12 @@ As salamanders age, they increase in size and status, rising to positions of pow
 
 This inherent heat is an asset to salamanders' skill as smiths, allowing them to soften and shape iron and steel with their bare hands. Although not as meticulous as azers, salamanders number among the greatest metalsmiths in all the planes. Powerful creatures summon them as warriors, but others enlist the salamanders for their crafting skills, or bind them to forges and ovens to generate limitless heat.
 
+### Environment
+(FIXME)
+
+### Token
+![](Salamander-Token.png)
+
 >### Salamander
 >*Large elemental, neutral evil*
 >___
@@ -72,7 +84,7 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 >|18 (+4)|14 (+2)|15 (+2)|11 (+0)|10 (+0)|12 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** cold
 >- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks
@@ -108,6 +120,12 @@ A frost salamander that dwells in a lair for a while carves out enough space to 
 
 On rare occasions, frost giants (see the Monster Manual) capture and tame these creatures, using them to burrow into the ice to help create outposts and fortresses.
 
+### Environment
+(FIXME)
+
+### Token
+![](FrostSalamander-Token.png)
+
 >### Frost Salamander
 >*Huge Elemental, Unaligned*
 >___
@@ -142,3 +160,4 @@ On rare occasions, frost giants (see the Monster Manual) capture and tame these 
 >
 >***Freezing Breath (Recharge 6).*** The salamander exhales chill wind in a 60-foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 44 (8d10) cold damage on a failed save, or half as much damage on a successful one.
 >
+

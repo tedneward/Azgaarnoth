@@ -17,6 +17,12 @@ Despite its monstrous form, the shambling mound is a living plant that requires 
 
 ***A Resurgent Menace.*** If a shambling mound faces defeat before an overwhelming foe, the root-stem can feign death, collapsing the remains of its mound. If not subsequently killed, the root-stem beds down in the shambler's remains to slowly regrow its full body, then once again sets out to consume all it can. In this way, shambling mound infestations long thought destroyed can recur time and again.
 
+### Environment
+(FIXME)
+
+### Token
+![](ShamblingMound-Token.png)
+
 >### Shambling Mound
 >*Large plant, unaligned*
 >___
@@ -29,7 +35,7 @@ Despite its monstrous form, the shambling mound is a living plant that requires 
 >|18 (+4)|8 (-1)|16 (+3)|5 (-3)|10 (+0)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire

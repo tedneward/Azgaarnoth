@@ -11,6 +11,12 @@ Consuming psionic energy reveals the thoughts and emotions of the creatures on w
 
 ***Flumph Society.*** Flumphs live in complex and organized groups called cloisters, within which each flumph has a place and purpose. These harmonious groupings have no need for leaders, since all flumphs contribute in their own way.
 
+### Environment
+Underdark
+
+### Token
+![](Flumph-Token.png)
+
 >### Flumph
 >*Small aberration, lawful good*
 >___
@@ -23,7 +29,7 @@ Consuming psionic energy reveals the thoughts and emotions of the creatures on w
 >|6 (-2)|15 (+2)|10 (+0)|14 (+2)|14 (+2)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** psychic
 >- **Damage Resistances** 

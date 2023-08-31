@@ -1,7 +1,7 @@
 # Spirits
 The spirits listed here are always the result of a spell or spell-like ability, and are rarely (if ever) encountered naturally.
 
-> Jump to: [Aberrant](#aberrant-spirit) | [Celestial](#celestial-spirit) | [Construct](#construct-spirit) | [Draconic](#draconic-spirit) | [Elemental](#elemental-spirit) | [Fiendish](#fiendish-spirit) | [Reaper](#reaper-spirit) | [Shadow](#shadow-spirit) | [Warrior](#warrior-spirit) | [Wildfire](#wildfire-spirit)
+> Jump to: [Aberrant Spirit](Spirits.md#aberrant-spirit) | [Celestial Spirit](Spirits.md#celestial-spirit) | [Construct Spirit](Spirits.md#construct-spirit) | [Draconic Spirit](Spirits.md#draconic-spirit) | [Elemental Spirit](Spirits.md#elemental-spirit) | [Fiendish Spirit](Spirits.md#fiendish-spirit) | [Reaper Spirit](Spirits.md#reaper-spirit) | [Shadow Spirit](Spirits.md#shadow-spirit) | [Warrior Spirit](Spirits.md#warrior-spirit) | [Wildfire Spirit](Spirits.md#wildfire-spirit)
 
 Each spirit has statistics that vary with the proficiency bonus of the caster that summoned them; this is marked as "CPB" (caster's proficiency bonus) or "CL" (caster's level) in the respective listing.
 
@@ -9,6 +9,12 @@ Each spirit has statistics that vary with the proficiency bonus of the caster th
 
 ## Aberrant Spirit
 When this spirit is summoned, it takes the form of either a Beholderkin, Sladd, or Star Spawn, and once chosen, cannot change its form. The creature's statistics vary based on that choice, the spell's level when cast, and the caster's own statistics.
+
+### Environment
+Conjured/Summoned
+
+### Token
+![](AberrantSpirit-Token.png)
 
 >### Aberrant Spirit
 >*Medium aberration, unaligned*
@@ -52,6 +58,12 @@ When this spirit is summoned, it takes the form of either a Beholderkin, Sladd, 
 ## Celestial Spirit
 When this spirit is summoned, it takes the form of either an Avenger or Defender celestial, and once chosen, cannot change its form. The creature's statistics vary based on that choice, the spell's level when cast, and the caster's own statistics.
 
+### Environment
+Conjured/Summoned
+
+### Token
+![](CelestialSpirit-Token.png)
+
 >### Celestial Spirit
 >*Large celestial, unaligned*
 >___
@@ -90,6 +102,12 @@ When this spirit is summoned, it takes the form of either an Avenger or Defender
 ## Construct Spirit
 When this spirit is summoned, it takes the form of a clay, flesh, metal or stone golem, and once chosen, cannot change its form. The creature's statistics vary based on that choice, the spell's level when cast, and the caster's own statistics.
 
+### Environment
+Conjured/Summoned
+
+### Token
+![](ConstructSpirit-Token.png)
+
 >### Construct Spirit
 >*Medium construct, unaligned*
 >___
@@ -123,7 +141,6 @@ When this spirit is summoned, it takes the form of a clay, flesh, metal or stone
 >***Slam.*** Melee Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 4 + the spell's level bludgeoning damage.
 >
 >#### Reactions
->
 >***Berserk Lashing (Clay Only).*** When the construct takes damage, it makes a slam attack against a random creature within 5 feet of it. If no creature is within reach, the construct moves up to half its speed toward an enemy it can see, without provoking opportunity attacks.
 >
 
@@ -133,6 +150,12 @@ When this spirit is summoned, it takes the form of a clay, flesh, metal or stone
 When this spirit is summoned, it takes the form of an metallic or chromatic dragon, and once chosen, cannot change its form. The creature's statistics vary based on that choice, the spell's level when cast, and the caster's own statistics.
 
 ***VARIANT: Gem Draconic Spirits.*** If the caster knows gem dragons, they can select a Gem Dragon spirit form for the spirit; in that case, the dragon's Damage Resistances are force, necrotic, psychic, radiant, thunder, replacing the existing values below.
+
+### Environment
+Conjured/Summoned
+
+### Token
+![](DraconicSpirit-Token.png)
 
 >### Draconic Spirit
 >*Large Dragon, Neutral*
@@ -172,6 +195,12 @@ When this spirit is summoned, it takes the form of an metallic or chromatic drag
 ## Elemental Spirit
 When this spirit is summoned, it takes the form of an elemental of Air, Earth, Fire, or Water, and once chosen, cannot change its form. The creature's statistics vary based on that choice, the spell's level when cast, and the caster's own statistics.
 
+### Environment
+Conjured/Summoned
+
+### Token
+![](ElementalSpirit-Token.png)
+
 >### Elemental Spirit
 >*Medium elemental, unaligned*
 >___
@@ -207,6 +236,12 @@ When this spirit is summoned, it takes the form of an elemental of Air, Earth, F
 
 ## Fiendish Spirit
 When this spirit is summoned, it takes the form of either a Demon, a Devil, or a Yugoloth, and once chosen, cannot change its form. The creature's statistics vary based on that choice, the spell's level when cast, and the caster's own statistics.
+
+### Environment
+Conjured/Summoned
+
+### Token
+![](FiendishSpirit-Token.png)
 
 >### Fiendish Spirit
 >*Large fiend, unaligned*
@@ -250,6 +285,13 @@ When this spirit is summoned, it takes the form of either a Demon, a Devil, or a
 ---
 
 ## Reaper Spirit
+(No description given)
+
+### Environment
+Conjured/Summoned
+
+### Token
+![](ReaperSpirit-Token.png)
 
 >### Reaper Spirit
 >*Medium Undead, unaligned*
@@ -289,6 +331,13 @@ When this spirit is summoned, it takes the form of either a Demon, a Devil, or a
 ---
 
 ## Shadow Spirit
+(No description given)
+
+### Environment
+Conjured/Summoned
+
+### Token
+![](ShadowSpirit-Token.png)
 
 >### Shadow Spirit
 >*Medium monstrosity, unaligned*
@@ -334,6 +383,12 @@ When this spirit is summoned, it takes the form of either a Demon, a Devil, or a
 ## Warrior Spirit
 The warrior spirit, when summoned, takes on the form of a barbarian, fighter, or monk; the statistics for the spirit vary based on that, the level of the spell when cast, and the caster's statistics.
 
+### Environment
+Conjured/Summoned
+
+### Token
+![](WarriorSpirit-Token.png)
+
 >### Warrior Spirit
 >*Medium Undead, unaligned*
 >___
@@ -373,6 +428,13 @@ The warrior spirit, when summoned, takes on the form of a barbarian, fighter, or
 ---
 
 ## Wildfire Spirit
+(No description given)
+
+### Environment
+Conjured/Summoned
+
+### Token
+![](WildfireSpirit-Token.png)
 
 >### Wildfire Spirit
 >*Small elemental, any chaotic alignment*
@@ -402,3 +464,4 @@ The warrior spirit, when summoned, takes on the form of a barbarian, fighter, or
 >
 >***Fiery Teleportation.*** The spirit and each willing creature of caster's choice within 5 feet of it teleport up to 15 feet to unoccupied spaces you can see. Then each creature within 5 feet of the space that the spirit left must succeed on a Dexterity saving throw against caster's spell save DC or take 1d6 + CPB fire damage.
 >
+

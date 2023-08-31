@@ -1,7 +1,7 @@
 # Yuan-ti
 Yuan-ti are devious serpent folk devoid of compassion. From remote temples in jungles, swamps, and deserts, the yuan-ti plot to supplant and dominate all other races and to make themselves gods.
 
-> Jump to: [Abomination](#yuan-ti-abomination) | [Malison](#yuan-ti-malison) | [Pureblood](#yuan-ti-pureblood) | [Anathema](#yuan-ti-anathema) | [Broodguard](#yuan-ti-broodguard) | [Mind Whisperer](#yuan-ti-mind-whisperer) | [Nightmare Speaker](#yuan-ti-nightmare-speaker) | [Pit Master](#yuan-ti-pit-master)
+> Jump to: [Yuan-ti Abomination](Yuan-ti.md#yuan-ti-abomination) | [Yuan-ti Malison](Yuan-ti.md#yuan-ti-malison) | [Yuan-ti Pureblood](Yuan-ti.md#yuan-ti-pureblood) | [Yuan-ti Anathema](Yuan-ti.md#yuan-ti-anathema) | [Yuan-ti Broodguard](Yuan-ti.md#yuan-ti-broodguard) | [Yuan-ti Mind Whisperer](Yuan-ti.md#yuan-ti-mind-whisperer) | [Yuan-ti Nightmare Speaker](Yuan-ti.md#yuan-ti-nightmare-speaker) | [Yuan-ti Pit Master](Yuan-ti.md#yuan-ti-pit-master)
 
 ***Forsaken Humanity.*** The yuan-ti were once humans who thrived in the earliest days of civilization and worshiped serpents as totem animals. They lauded the serpent's sinuous flexibility, its calculated poise, and its deadly strike. Their advanced philosophy taught the virtue of detachment from emotion and of clear, focused thought.
 
@@ -27,10 +27,18 @@ The yuan-ti revere a number of powerful entities as gods, including the followin
 
 Yuan-ti malisons who become priestly devotees of a particular god -- be it Sseth, Dendar the Night Serpent, or Merrshaulk -- often rise through the ranks to become spiritual leaders among the serpent folk. These priests perform sacrificial rites to appease their vile gods.
 
+***Playable Race: Reptilian Presence.*** Yuan-ti are a [playable race](../Races/YuanTi.md), and excel in all fields. Note that the yuan-ti are not commonly seen across Azgaarnoth, and so players should expect to draw something of a stir when moving around through almost any city or town.
+
 ---
 
 ## Yuan-ti Abomination
 Monstrous serpents with burly humanoid torsos and arms, abominations form the highest caste of yuan-ti society, and they most closely resemble the race as the serpent gods intended it. They mastermind elaborate schemes and perform dark rites in the hope of one day ruling the world.
+
+### Environment
+Grassland, Ruins, Swamp, Underdark, Underwater, Urban
+
+### Token
+![](Yuan-tiAbomination-Token.png)
 
 >### Yuan-ti Abomination
 >*Large monstrosity (shapechanger;yuan-ti), neutral evil*
@@ -44,7 +52,7 @@ Monstrous serpents with burly humanoid torsos and arms, abominations form the hi
 >|19 (+4)|16 (+3)|17 (+3)|17 (+3)|15 (+2)|18 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -84,6 +92,12 @@ Monstrous serpents with burly humanoid torsos and arms, abominations form the hi
 ## Yuan-ti Malison
 A malison is a hideous blend of human and serpentine features. Three different types of malisons are known to exist, and other types are possible. Malisons form the middle caste of yuan-ti society and hunt with arrows tipped with their own venom. They use their magical powers of suggestion to force their enemies' surrender.
 
+### Environment
+Grassland, Ruins, Swamp, Underdark, Underwater, Urban
+
+### Token
+![](Yuan-tiMalison-Token.png)
+
 >### Yuan-ti Malison
 >*Medium monstrosity (shapechanger;yuan-ti), neutral evil*
 >___
@@ -96,7 +110,7 @@ A malison is a hideous blend of human and serpentine features. Three different t
 >|16 (+3)|14 (+2)|13 (+1)|14 (+2)|12 (+1)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -154,6 +168,12 @@ A malison is a hideous blend of human and serpentine features. Three different t
 ## Yuan-ti Pureblood
 Purebloods form the lowest caste of yuan-ti society. They closely resemble humans, yet a pureblood can't pass for human under close scrutiny because there's always some hint of its true nature, such as scaly patches of skin, serpentine eyes, pointed teeth, or a forked tongue. Wearing cloaks and cowls, they masquerade as humans and infiltrate civilized lands to gather information, kidnap prisoners for interrogation and sacrifice, and trade with anyone who has something that can further their myriad plots.
 
+### Environment
+Grassland, Ruins, Swamp, Underdark, Underwater, Urban
+
+### Token
+![](Yuan-tiPureblood-Token.png)
+
 >### Yuan-ti Pureblood
 >*Medium humanoid (yuan-ti), neutral evil*
 >___
@@ -166,7 +186,7 @@ Purebloods form the lowest caste of yuan-ti society. They closely resemble human
 >|11 (+0)|12 (+1)|11 (+0)|13 (+1)|12 (+1)|14 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -206,54 +226,58 @@ An anathema's most loyal yuan-ti followers see it as the pinnacle of the serpent
 
 ***Immortal.*** Anathemas don't age, allowing them to pursue their goals until the end of days. Truly powerful ones can grow to rule multiple yuan-ti cities and bring entire regions, including humanoid realms, under yuan-ti control.
 
+### Environment
+Grassland, Ruins, Swamp, Underdark, Underwater, Urban
+
+### Token
+![](Yuan-tiAnathema-Token.png)
+
 >### Yuan-ti Anathema
->*Huge monstrosity (shapechanger;yuan-ti), neutral evil*
+>*Huge Monstrosity, Typically Neutral Evil*
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 189 (18d12 + 72)
->- **Speed** 40 ft., climb 30 ft., swim 30 ft.
+>- **Speed** 40 ft., climb 40 ft., swim 40 ft.
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|13 (+1)|19 (+4)|19 (+4)|17 (+3)|20 (+5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** acid,fire,lightning
 >- **Damage Immunities** poison
 >- **Condition Immunities** poisoned
->- **Skills** Perception +7,Stealth +5
->- **Senses** blindsight 30 ft.,darkvision 60 ft.,passive Perception 17
+>- **Skills** Perception +11,Stealth +5
+>- **Senses** blindsight 30 ft.,darkvision 60 ft.,passive Perception 21
 >- **Languages** Abyssal,Common,Draconic
 >- **Challenge** 12
 >___
->***Innate Spellcasting (Anathema Form Only).*** The anathema's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
->
->At will: animal friendship (snakes only)
->
->3/day each: darkness, entangle, fear, haste, suggestion, polymorph
->
->1/day: divine word
->
 >***Magic Resistance.*** The anathema has advantage on saving throws against spells and other magical effects.
 >
->***Ophidiophobia Aura.*** Any creature of the anathema's choice, other than a snake or a yuan-ti, that starts its turn within 30 feet of the anathema and can see or hear it must succeed on a DC 17 Wisdom saving throw or become frightened of snakes and yuan-ti. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this aura for the next 24 hours.
+>***Ophidiophobia Aura.*** Any creature of the anathema's choice, other than a snake or a yuan-ti, that starts its turn within 30 feet of the anathema must succeed on a DC 17 Wisdom saving throw or become frightened of snakes and yuan-ti. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this anathama's aura for the next 24 hours.
 >
->***Shapechanger.*** The anathema can use its action to polymorph into a Huge giant constrictor snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.
->
->***Six Heads.*** The anathema has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
+>***Six Heads.*** The anathema has advantage on saves against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
 >
 >#### Actions
->***Multiattack (Anathema Form Only).*** The anathema makes two claw attacks, one constrict attack, and one Flurry of Bites attack.
+>***Multiattack (Anathema Form Only).*** The anathema makes two Claw attacks and one Flurry of Bites attack.
 >
 >***Claw (Anathema Form Only).*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 13 (2d6 + 6) slashing damage.
 >
->***Constrict.*** Melee Weapon Attack: +10 to hit, reach 15 ft., one Large or smaller creature. Hit: 16 (3d6 + 6) bludgeoning damage plus 7 (2d6) acid damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained and takes 16 (3d6 + 6) bludgeoning damage plus 7 (2d6) acid damage at the start of each of its turns, and the anathema can't constrict another target.
+>***Flurry of Bites (Anathema Form Only).*** Melee Weapon Attack: +10 to hit, reach 10 ft., one creature. Hit: 27 (6d6 + 6) piercing damage plus 14 (4d6) poison damage.
 >
->***Flurry of Bites.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one creature. Hit: 27 (6d6 + 6) piercing damage plus 14 (4d6) poison damage.
+>***Constrict (Snake Form Only).*** Melee Weapon Attack: +10 to hit, reach 15 ft., one Large or smaller creature. Hit: 16 (3d6 + 6) bludgeoning damage plus 7 (2d6) acid damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and it takes 16 (3d6 + 6) bludgeoning damage plus 7 (2d6) acid damage at the start of each of its turns. The anathema can constrict only one creature at a time.
 >
+>***Spellcasting (Anathema Form Only).*** The anathema casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):
+>* At will: animal friendship (snakes only)
+>* 3/day each: darkness, entangle, fear, polymorph, suggestion
+>
+>#### Bonus Actions
+>***Change Shape.*** The anathema transforms into a Huge constrictor snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+>
+
 
 ---
 
@@ -264,9 +288,16 @@ Although broodguards have low intelligence, they are able to perform simple yet 
 
 ***Human No More.*** Most broodguards are made from human prisoners forced to consume a magical brew that renders them helpless and unable to fight off the inevitable. A human transformed into a broodguard loses all semblance of who it once was, and even its human origin is barely discernible. A broodguard is hairless and emaciated, with yellow-green, scaly skin. It has beady, bloodshot eyes and a forked tongue, and smells faintly of rotting meat. Broodguards can speak but rarely do so, preferring to use snake-like hisses and guttural noises.
 
-MAKING A BROODGUARD
+### Making a Broodguard
+Yuan-ti create broodguards from captured Humanoids. Each subject is fed a special potion that immediately renders it incapacitated and transforms it into a broodguard over the next 1d6 + 6 days. A subject forced to imbibe the brew can make a DC 15 Constitution saving throw; on a success, it takes 14 (4d6) poison damage and is otherwise unaffected.
 
-Yuan-ti create broodguards from captured humanoids. Each subject is fed a special potion that immediately renders it incapacitated and transforms it into a broodguard over the next 1d6 + 6 days. A subject forced to imbibe the brew can make a DC 15 Constitution saving throw; on a success, it takes 14 (4d6) poison damage and isn't otherwise affected. A spell such as lesser restoration or remove curse can end the transformation process at any time before it runs its course. After the process is complete, only a wish spell can reverse the effect.
+A spell such as lesser restoration or remove curse can end the transformation process at any time before it runs its course. After the process is complete, only a wish spell can reverse the effect.
+
+### Environment
+Grassland, Ruins, Swamp, Underdark, Underwater, Urban
+
+### Token
+![](Yuan-tiBroodguard-Token.png)
 
 >### Yuan-ti Broodguard
 >*Medium humanoid (yuan-ti), neutral evil*
@@ -280,7 +311,7 @@ Yuan-ti create broodguards from captured humanoids. Each subject is fed a specia
 >|15 (+2)|14 (+2)|14 (+2)|6 (-2)|11 (+0)|4 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Str +4,Dex +4,Wis +2
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -312,6 +343,12 @@ A mind whisperer is elusive, manipulative, unpredictable, and willing to cheat o
 
 This malison is the type that has a human body and a snake head.
 
+### Environment
+Grassland, Ruins, Swamp, Underdark, Underwater, Urban
+
+### Token
+![](Yuan-tiMindWhisperer-Token.png)
+
 >### Yuan-ti Mind Whisperer
 >*Medium monstrosity (shapechanger;yuan-ti), neutral evil*
 >___
@@ -324,7 +361,7 @@ This malison is the type that has a human body and a snake head.
 >|16 (+3)|14 (+2)|13 (+1)|14 (+2)|14 (+2)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Wis +4,Cha +5
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -335,32 +372,28 @@ This malison is the type that has a human body and a snake head.
 >- **Languages** Abyssal,Common,Draconic
 >- **Challenge** 4
 >___
->***Shapechanger.*** The yuan-ti can use its action to polymorph into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. If it dies, it stays in its current form.
->
->***Innate Spellcasting (Yuan-ti Form Only).*** The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:
->
->At will: animal friendship (snakes only)
->
->3/day: suggestion
+>***Devil's Sight.*** Magical darkness doesn't impede the yuan-ti's darkvision.
 >
 >***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
->
->***Mind Fangs (2/Day).*** The first time the yuan-ti hits with a melee attack on its turn, it can deal an extra 16 (3d10) psychic damage to the target.
->
->***Spellcasting (Yuan-ti Form Only).*** The yuan-ti is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
->
->Cantrips (at will): eldritch blast (range 300 ft., +3 bonus to each damage roll), friends, message, minor illusion, poison spray, prestidigitation
->
->1st-3rd level (2 3rd-level slots): charm person, crown of madness, detect thoughts, expeditious retreat, fly, hypnotic pattern, illusory script
 >
 >***Sseth's Blessing.*** When the yuan-ti reduces an enemy to 0 hit points, the yuan-ti gains 9 temporary hit points.
 >
 >#### Actions
->***Multiattack (Yuan-ti Form Only).*** The yuan-ti makes one bite attack and one scimitar attack.
+>***Multiattack.*** The yuan-ti makes two Bite attacks and one Scimitar attack, or it makes two Spectral Fangs attacks.
 >
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.
 >
 >***Scimitar (Yuan-ti Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+>
+>***Spectral Fangs.*** Ranged Spell Attack: +5 to hit, range 120 ft., one target. Hit: 16 (3d8 + 3) psychic damage.
+>
+>***Spellcasting (Yuan-ti Form Only).*** The yuan-ti casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):
+>* At will: animal friendship (snakes only), message, minor illusion, prestidigitation
+>* 3/day: suggestion
+>* 2/day each: detect thoughts, hypnotic pattern
+>
+>#### Bonus Actions
+>***Change Shape.*** The yuan-ti transforms into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. If it dies, it stays in its current form.
 >
 
 ---
@@ -368,9 +401,62 @@ This malison is the type that has a human body and a snake head.
 ## Yuan-ti Nightmare Speaker
 Nightmare speakers are female yuan-ti malison priests that make a pact with the Dendar the Night Serpent to feed their deity the fears and nightmares of their victims in exchange for power in the mortal world. The priestesses receive nightmarish visions from Dendar, which they interpret as prophecies, and then use their magic and influence to make these visions come true.
 
-The cruelest of all yuan-ti, nightmare speakers revel in torturing prisoners and slaves, leaving them in a constant state of fear and dread. They prefer to terrify rather than kill their opponents. They manipulate humanoid communities for the purpose of acquiring more victims, and enjoy the company of undead.
+Nightmare speakers revel in torturing others, keeping their victims in a constant state of fear and dread. They prefer to terrify rather than kill their opponents. They manipulate communities for the purpose of acquiring more victims and enjoy the company of Undead.
 
 This malison is the type that has a human head and upper body with a serpentine lower body instead of legs.
+
+### Environment
+Grassland, Ruins, Swamp, Underdark, Underwater, Urban
+
+### Token
+![](Yuan-tiNightmareSpeaker-Token.png)
+
+>### Yuan-ti Nightmare Speaker
+>*Medium Monstrosity (Warlock), Typically Neutral Evil*
+>___
+>- **Armor Class** 14 (natural armor)
+>- **Hit Points** 71 (13d8 + 13)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|14 (+2)|13 (+1)|14 (+2)|12 (+1)|16 (+3)|
+>
+>___
+>- **Proficiency Bonus** +2
+>- **Saving Throws** Wis +3,Cha +5
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** poison
+>- **Condition Immunities** poisoned
+>- **Skills** Deception +5,Stealth +4
+>- **Senses** darkvision 120 ft.,passive Perception 11
+>- **Languages** Abyssal,Common,Draconic
+>- **Challenge** 4
+>___
+>***Devil's Sight.*** Magical darkness doesn't impede the yuan-ti's darkvision.
+>
+>***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
+>
+>#### Actions
+>***Multiattack.*** The yuan-ti makes one Constrict attack and one Scimitar attack, or it makes two Spectral Fangs attacks.
+>
+>***Constrict.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 14) if it is a Large or smaller creature. Until this grapple ends, the target is restrained. The yuan-ti can constrict only one creature at a time.
+>
+>***Scimitar (Yuan-ti Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+>
+>***Spectral Fangs.*** Ranged Spell Attack: +5 to hit, range 120 ft., one target. Hit: 16 (3d8 + 3) necrotic damage.
+>
+>***Invoke Nightmare (Recharges after a Short or Long Rest).*** The yuan-ti taps into the nightmares of one creature it can see within 60 feet of it and creates an illusory, immobile manifestation of the creature's deepest fears, visible only to that creature. The target must make a DC 13 Intelligence saving throw. On a failed save, the target takes 22 (4d10) psychic damage and is frightened of the manifestation, believing it to be real. The yuan-ti must concentrate to maintain the illusion (as if concentrating on a spell), which lasts for up to 1 minute and can't be harmed. The target can repeat the saving throw at the end of each of its turns, ending the illusion on a success or taking 11 (2d10) psychic damage on a failure.
+>
+>***Innate Spellcasting (Yuan-ti Form Only).*** The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:
+>* At will: animal friendship (snakes only)
+>* 3/day: suggestion
+>
+>***Spellcasting (Yuan-ti Form Only).*** The yuan-ti is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
+>* Cantrip (at will): chill touch, eldritch blast (range 300 ft., +3 bonus to each damage roll), mage hand, message, poison spray, prestidigitation
+>* 1st-3rd level (2 3rd-level slots): arms of Hadar, darkness, fear, hex, hold person, hunger of Hadar, witch bolt
+>
 
 >### Yuan-ti Nightmare Speaker
 >*Medium monstrosity (shapechanger;yuan-ti), neutral evil*
@@ -384,7 +470,7 @@ This malison is the type that has a human head and upper body with a serpentine 
 >|16 (+3)|14 (+2)|13 (+1)|14 (+2)|12 (+1)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Wis +3,Cha +5
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -399,19 +485,7 @@ This malison is the type that has a human head and upper body with a serpentine 
 >
 >***Death Fangs (2/Day).*** The first time the yuan-ti hits with a melee attack on its turn, it can deal an extra 16 (3d10) necrotic damage to the target.
 >
->***Innate Spellcasting (Yuan-ti Form Only).*** The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:
->
->At will: animal friendship (snakes only)
->
->3/day: suggestion
->
 >***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
->
->***Spellcasting (Yuan-ti Form Only).*** The yuan-ti is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
->
->Cantrip (at will): chill touch, eldritch blast (range 300 ft., +3 bonus to each damage roll), mage hand, message, poison spray, prestidigitation
->
->1st-3rd level (2 3rd-level slots): arms of Hadar, darkness, fear, hex, hold person, hunger of Hadar, witch bolt
 >
 >#### Actions
 >***Multiattack (Yuan-ti Form Only).*** The yuan-ti makes one constrict attack and one scimitar attack.
@@ -420,20 +494,27 @@ This malison is the type that has a human head and upper body with a serpentine 
 >
 >***Scimitar (Yuan-ti Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
 >
->Invoke Nightmare (Recharges after a Short or Long Rest). The yuan-ti taps into the nightmares of a creature it can see within 60 feet of it and creates an illusory, immobile manifestation of the creature's deepest fears, visible only to that creature. The target must make a DC 13 Intelligence saving throw. On a failed save, the target takes 11 (2d10) psychic damage and is frightened of the manifestation, believing it to be real. The yuan-ti must concentrate to maintain the illusion (as if concentrating on a spell), which lasts for up to 1 minute and can't be harmed. The target can repeat the saving throw at the end of each of its turns, ending the illusion on a success, or taking 11 (2d10) psychic damage on a failure.
+>***Invoke Nightmare (Recharges after a Short or Long Rest).*** The yuan-ti taps into the nightmares of a creature it can see within 60 feet of it and creates an illusory, immobile manifestation of the creature's deepest fears, visible only to that creature. The target must make a DC 13 Intelligence saving throw. On a failed save, the target takes 11 (2d10) psychic damage and is frightened of the manifestation, believing it to be real. The yuan-ti must concentrate to maintain the illusion (as if concentrating on a spell), which lasts for up to 1 minute and can't be harmed. The target can repeat the saving throw at the end of each of its turns, ending the illusion on a success, or taking 11 (2d10) psychic damage on a failure.
 >
 
 ---
 
 ## Yuan-ti Pit Master
-Pit masters are yuan-ti malison priests that have made a pact with the god Merrshaulk and seek to rouse him from his slumber by sacrificing humanoids to him. They are the most traditionalist in attitude among yuan-ti and believe that they are best equipped to achieve the goals of their people.
+With snakes for arms, pit masters are yuan-ti malison priests who have made a pact with the god Merrshaulk and seek to rouse him from his slumber by sacrificing Humanoids to him. They are the most traditionalist yuan-ti and believe that they are best equipped to achieve the goals of their people.
 
-Pit masters are deeply involved in the race's long-term plan to take over humanoid governments, as well as in the ongoing effort to protect their cities from discovery or attacks by hostiles. They oppose reckless behavior and argue for a slow, cautious approach in all matters.
+Pit masters are deeply involved in yuan-ti's long-term plan to take over Humanoid governments, as well as in the ongoing effort to protect their cities from discovery or attacks by hostiles. They oppose reckless behavior and argue for a slow, cautious approach in all matters.
 
 This malison is the type that has a human head and body and snakes for arms.
 
+### Environment
+Grassland, Ruins, Swamp, Underdark, Underwater, Urban
+
+### Token
+![](Yuan-tiPitMaster-Token.png)
+
+
 >### Yuan-ti Pit Master
->*Medium monstrosity (shapechanger;yuan-ti), neutral evil*
+>*Medium Monstrosity (Warlock), Typically Neutral Evil*
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 88 (16d8 + 16)
@@ -444,40 +525,38 @@ This malison is the type that has a human head and body and snakes for arms.
 >|16 (+3)|14 (+2)|13 (+1)|14 (+2)|12 (+1)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
->- **Saving Throws** Wis +3,Cha +5
+>- **Proficiency Bonus** +3
+>- **Saving Throws** Wis +4,Cha +6
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
 >- **Damage Immunities** poison
 >- **Condition Immunities** poisoned
->- **Skills** Deception +5,Stealth +4
->- **Senses** darkvision 120 ft. (penetrates magical darkness),passive Perception 11
+>- **Skills** Deception +6,Stealth +5
+>- **Senses** darkvision 120 ft.,passive Perception 11
 >- **Languages** Abyssal,Common,Draconic
 >- **Challenge** 5
 >___
->***Shapechanger.*** The yuan-ti can use its action to polymorph into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.
->
->Innate Spellcasting (Yuan-ti Form Only). The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:
->
->At will: animal friendship (snakes only)
->
->3/day: suggestion
+>***Devil's Sight.*** Magical darkness doesn't impede the yuan-ti's darkvision.
 >
 >***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
 >
->***Poison's Disciple (2/Day).*** The first time the yuan-ti hits with a melee attack on its turn, it can deal an extra 16 (3d10) poison damage to the target.
->
->***Spellcasting (Yuan-ti Form Only).*** The yuan-ti is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
->
->Cantrips (at will): eldritch blast (range 300 ft., +3 bonus to each damage roll), friends, guidance, mage hand, message, poison spray
->
->1st-3rd level (2 3rd-level slots): command, counterspell, hellish rebuke, invisibility, misty step, unseen servant, vampiric touch
->
 >#### Actions
->***Multiattack (Yuan-ti Form Only).*** The yuan-ti makes two bite attacks using its snake arms.
+>***Multiattack.*** The yuan-ti makes three Bite attacks or two Spectral Fangs attacks.
 >
->***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.
+>***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.
+>
+>***Spectral Fangs.*** Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 16 (3d8 + 3) poison damage.
 >
 >***Merrshaulk's Slumber (1/Day).*** The yuan-ti targets up to five creatures that it can see within 60 feet of it. Each target must succeed on a DC 13 Constitution saving throw or fall into a magical sleep and be unconscious for 10 minutes. A sleeping target awakens if it takes damage or if someone uses an action to shake or slap it awake. This magical sleep has no effect on a creature immune to being charmed.
 >
-
+>***Innate Spellcasting (Yuan-ti Form Only).*** The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:
+>* At will: animal friendship (snakes only)
+>* 3/day: suggestion
+>
+>***Spellcasting (Yuan-ti Form Only).*** The yuan-ti is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
+>* Cantrips (at will): eldritch blast (range 300 ft., +3 bonus to each damage roll), friends, guidance, mage hand, message, poison spray
+>* 1st-3rd level (2 3rd-level slots): command, counterspell, hellish rebuke, invisibility, misty step, unseen servant, vampiric touch
+>
+>#### Bonus Actions
+>***Change Shape.*** The yuan-ti transforms into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. If it dies, it stays in its current form.
+>

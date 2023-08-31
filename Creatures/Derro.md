@@ -1,7 +1,7 @@
 # Derro
 Derro slink through the subterranean realms, seeking places that are safe from the perils of the Underdark. Equal parts fearful and vicious, bands of these dwarf-kin prey on those weaker than themselves, while giving simpering obeisance to any creatures they deem more powerful. A lone derro may seem pitiable, but a cackling, spitting, growling, howling horde of them is horrifying to behold.
 
-> Jump to: [Derro](#derro) | [Derro Savant](#derro-savant)
+> Jump to: [Derro](Derro.md#derro) | [Derro Savant](Derro.md#derro-savant)
 
 Fractious in groups and individually weak, derro would have died out long ago but for two elements of their character. They are cautious and distrustful, which serves them well as they navigate the dangers of the Underdark and its societies. They also have a stronger-than-normal tendency to develop sorcerous power. Individuals who do so usually serve as leaders and are known as savants.
 
@@ -12,6 +12,13 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 ---
 
 ## Derro
+(No description given)
+
+### Environment
+Underdark
+
+### Token
+![](Derro-Token.png)
 
 >### Derro
 >*Small Aberration, Typically Chaotic Evil*
@@ -49,6 +56,13 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 ---
 
 ## Derro Savant
+(No description given)
+
+### Environment
+Underdark
+
+### Token
+![](DerroSavant-Token.png)
 
 >### Derro Savant
 >*Small Aberration (Sorcerer), Typically Chaotic Evil*

@@ -9,13 +9,17 @@ The inanimate gargoyles that perch atop great buildings are inspired by these ma
 
 Gargoyles sometimes serve demons for their propensity for wanton chaos and destruction. Powerful spellcasters can also easily enlist gargoyle guardians to keep watch over their gates and walls. Gargoyles have the patience and fortitude of stone, and will serve even the cruelest master for years without complaint.
 
-***Elemental Nature.*** A gargoyle doesn't require air, food, drink, or sleep.
-
 ***Shards OF ELEMENTAL EVIL.*** As Ogrémoch, the evil Prince of Elemental Earth, treads his stony realm, it leaves shards of broken rock in his wake. Imbued with slivers of sentience, these shards thrum with the essence of the elemental prince, growing over long years into vaguely humanoid rock formations that resolve at last into the hard, cruel shapes of gargoyles.
 
 Ogrémoch doesn't create gargoyles deliberately, but they are a physical manifestation of his evil. Gargoyles are mockeries of the elemental air that Ogrémoch despises. They are heavy creatures of living stone, yet capable of flight. Like their creator, they possess a fundamental hatred for beings of elemental air, aarakocra in particular, and relish every opportunity to destroy such creatures.
 
 On their home plane, gargoyles carve out earth motes that Ogrémoch hurtles into Aaqa, the domain of the aarakocra and the benevolent Wind Dukes the bird folk serve in the Elemental Plane of Air.
+
+### Environment
+Mountain, Underdark, Urban, Conjured/Summoned
+
+### Token
+![](Gargoyle-Token.png)
 
 >### Gargoyle
 >*Medium elemental, chaotic evil*
@@ -29,7 +33,7 @@ On their home plane, gargoyles carve out earth motes that Ogrémoch hurtles into
 >|15 (+2)|11 (+0)|16 (+3)|6 (-2)|11 (+0)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks that aren't adamantine
@@ -40,6 +44,8 @@ On their home plane, gargoyles carve out earth motes that Ogrémoch hurtles into
 >- **Languages** Terran
 >- **Challenge** 2
 >___
+>***Elemental Nature.*** A gargoyle doesn't require air, food, drink, or sleep.
+>
 >***False Appearance.*** While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.
 >
 >#### Actions

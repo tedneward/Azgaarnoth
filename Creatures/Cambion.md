@@ -7,6 +7,12 @@ A cambion is the offspring of a fiend (usually a succubus or incubus) and a huma
 
 ***Spawn of Graz'zt.*** The demon lord Graz'zt is fond of procreating with humanoids who have made pacts with fiends, and he has sired many cambions who help him sow chaos across the multiverse. These cambions are characterized by charcoal-black skin, cloven hooves, six-fingered hands, and unearthly beauty.
 
+### Environment
+Exotic
+
+### Token
+![](Cambion-Token.png)
+
 >### Cambion
 >*Medium fiend, any evil alignment*
 >___
@@ -19,7 +25,7 @@ A cambion is the offspring of a fiend (usually a succubus or incubus) and a huma
 >|18 (+4)|18 (+4)|16 (+3)|14 (+2)|12 (+1)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Str +7,Con +6,Int +5,Cha +6
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning,poison; bludgeoning,piercing,and slashing from nonmagical attacks

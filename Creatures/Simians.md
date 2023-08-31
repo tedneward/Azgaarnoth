@@ -1,7 +1,7 @@
 # Simians
 The simian family of creatures are those that are vaguely humanoid yet still bestial: monkeys, baboons, apes, and so on.
 
-> Jump to: [Ape](#ape) | [Baboon](#baboon) | [Giant Ape](#giant-ape) | [Girallon](#girallon) | [Gorilla]() **TODO**
+> Jump to: [Baboon](Simians.md#baboon) | [Giant Ape](Simians.md#giant-ape) | [Girallon](Simians.md#girallon)
 
 ## Ape
 
@@ -39,6 +39,13 @@ The simian family of creatures are those that are vaguely humanoid yet still bes
 ---
 
 ## Baboon
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](Baboon-Token.png)
 
 >### Baboon
 >*Small beast, unaligned*
@@ -52,7 +59,7 @@ The simian family of creatures are those that are vaguely humanoid yet still bes
 >|8 (-1)|14 (+2)|11 (+0)|4 (-3)|12 (+1)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -72,6 +79,13 @@ The simian family of creatures are those that are vaguely humanoid yet still bes
 ---
 
 ## Giant Ape
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](GiantApe-Token.png)
 
 >### Giant Ape
 >*Huge beast, unaligned*
@@ -85,7 +99,7 @@ The simian family of creatures are those that are vaguely humanoid yet still bes
 >|23 (+6)|14 (+2)|18 (+4)|7 (-2)|12 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -125,6 +139,12 @@ In the time since then, numerous creatures have tried to tame, subjugate, or coo
 
 Girallons that are well treated might be willing to serve as guards, though they lack the intelligence to take on tasks more complicated than attacking strangers that enter their domain. If one is taken young and properly trained, a girallon could end up in a seemingly unlikely place, such as guarding the entrance to a city's thieves' guild. Those who would keep a girallon as a pet must always be wary, because the creature could revert to its predatory nature at any time.
 
+### Environment
+(FIXME)
+
+### Token
+![](Girallon-Token.png)
+
 >### Girallon
 >*Large Monstrosity, Unaligned*
 >___
@@ -158,3 +178,4 @@ Girallons that are well treated might be willing to serve as guards, though they
 >#### Bonus Actions
 >***Aggressive.*** The girallon moves up to its speed toward a hostile creature that it can see.
 >
+

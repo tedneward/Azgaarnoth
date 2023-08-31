@@ -1,10 +1,18 @@
-# Shark
+# Sharks
 Sharks are some of the most vicious predators of the sea, with normal sharks sometimes displaying a disheartening willingness to attack creatures larger than them (or not native to the sea). They are often the companions, familiars, or mounts for [Sahuagin](Sahuagin.md) tribes, particularly the larger varieties.
 
-> Jump to: [Giant](#giant-shark) | [Hunter](#hunter-shark) | [Reef](#reef-shark)
+> Jump to: [Giant Shark](Sharks.md#giant-shark) [Hunter Shark](Sharks.md#hunter-shark) | [Reef Shark](Sharks.md#reef-shark)
+
+---
 
 ## Giant Shark
 A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.
+
+### Environment
+Underwater
+
+### Token
+![](GiantShark-Token.png)
 
 >### Giant Shark
 >*Huge beast, unaligned*
@@ -42,6 +50,12 @@ A giant shark is 30 feet long and normally found in deep oceans. Utterly fearles
 ## Hunter Shark
 Smaller than a giant shark but larger and fiercer than a reef shark, a hunter shark haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area. A fully grown hunter shark is 15 to 20 feet long.
 
+### Environment
+Coastal, Underwater
+
+### Token
+![](HunterShark-Token.png)
+
 >### Hunter Shark
 >*Large beast, unaligned*
 >___
@@ -54,7 +68,7 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a hunter sh
 >|18 (+4)|13 (+1)|15 (+2)|1 (-5)|10 (+0)|4 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -78,6 +92,12 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a hunter sh
 ## Reef Shark
 Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters and coral reefs, gathering in small packs to hunt. A full-grown specimen measures 6 to 10 feet long.
 
+### Environment
+Coastal, Underwater
+
+### Token
+![](ReefShark-Token.png)
+
 >### Reef Shark
 >*Medium beast, unaligned*
 >___
@@ -90,7 +110,7 @@ Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters 
 >|14 (+2)|13 (+1)|13 (+1)|1 (-5)|10 (+0)|4 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -108,3 +128,4 @@ Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters 
 >#### Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 >
+

@@ -1,7 +1,7 @@
 # Gnolls
 Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without warning, slaughtering their victims and devouring their flesh.
 
-> Jump to: [Gnoll](#Gnoll) | [Gnoll Pack Lord](#gnoll-pack-lord) | [Gnoll Fang of Yeenoghu](#gnoll-fang-of-yeenoghu) | [Flind](#Flind) | [Gnoll Flesh Gnawer](#gnoll-flesh-gnawer) | [Gnoll Hunter](#gnoll-hunter) | [Gnoll Witherling](#gnoll-witherling)
+> Jump to: [Gnoll](Gnolls.md#gnoll) | [Gnoll Pack Lord](Gnolls.md#gnoll-pack-lord) | [Gnoll Fang of Yeenoghu](Gnolls.md#gnoll-fang-of-yeenoghu) | [Flind](Gnolls.md#flind) | [Gnoll Flesh Gnawer](Gnolls.md#gnoll-flesh-gnawer) | [Gnoll Hunter](Gnolls.md#gnoll-hunter) | [Gnoll Witherling](Gnolls.md#gnoll-witherling)
 
 ***Hordish Background.*** Gnoll packs were a large part of the Hordes that battled against the Eldar from the earliest days of Azgaarnoth's history; since that time, most have continued their tribal, nomadic ways, generally moving southward and now making up a significant percentage of the Ulmhorde. Some tribes chose to seek a more permanent existence within the more "civilized" Hordes, and many gnolls found themselves finding peace within Yithi and Zhi. Other tribes keep to their nomadic background but seek less to pillage and more to trade. Those gnolls who have "civilized" tend to worship any of the other gods *except* Yeenoghu.
 
@@ -20,6 +20,13 @@ Gnolls rarely build permanent structures or craft anything of lasting value. The
 ---
 
 ## Gnoll
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](Gnoll-Token.png)
 
 >### Gnoll
 >*Medium humanoid (gnoll), chaotic evil*
@@ -33,7 +40,7 @@ Gnolls rarely build permanent structures or craft anything of lasting value. The
 >|14 (+2)|12 (+1)|11 (+0)|6 (-2)|10 (+0)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -59,6 +66,12 @@ Gnolls rarely build permanent structures or craft anything of lasting value. The
 ## Gnoll Pack Lord
 The alpha of a gnoll pack is the pack lord, ruling by might and cunning. A pack lord earns the best of a gnoll pack's spoils, food, valuable trinkets, and magic items. It ornaments its body with brutal piercings and grotesque trophies, dyeing its fur with demonic sigils, hoping Yeenoghu will make it invulnerable.
 
+### Environment
+(FIXME)
+
+### Token
+![](GnollPackLord-Token.png)
+
 >### Gnoll Pack Lord
 >*Medium humanoid (gnoll), chaotic evil*
 >___
@@ -71,7 +84,7 @@ The alpha of a gnoll pack is the pack lord, ruling by might and cunning. A pack 
 >|16 (+3)|14 (+2)|13 (+1)|8 (-1)|11 (+0)|9 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -101,6 +114,12 @@ The alpha of a gnoll pack is the pack lord, ruling by might and cunning. A pack 
 ## Gnoll Fang of Yeenoghu
 Gnolls celebrate their victories by performing demonic rituals and making blood offerings to Yeenoghu. Sometimes the demon lord rewards his worshipers by allowing one of them to be possessed by a demonic spirit. Marked as Yeenoghu's favorite, the lucky recipient becomes a fang of Yeenoghu, the chosen of the Gnoll Lord. In much the same way Yeenoghu created the first gnolls, a hyena that feasts on a fang's slain foe undergoes a horrible transformation, becoming a full-grown adult gnoll. Depending on the number of hyenas in a region, a fang of Yeenoghu can lead to a startling increase in the gnoll population. Finding and killing the fang is the only way to keep that population in check.
 
+### Environment
+(FIXME)
+
+### Token
+![](GnollFangofYeenoghu-Token.png)
+
 >### Gnoll Fang of Yeenoghu
 >*Medium fiend (gnoll), chaotic evil*
 >___
@@ -113,7 +132,7 @@ Gnolls celebrate their victories by performing demonic rituals and making blood 
 >|17 (+3)|15 (+2)|15 (+2)|10 (+0)|11 (+0)|13 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Con +4,Wis +2,Cha +3
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -142,6 +161,12 @@ When the demon lord Yeenoghu (appears in this book) wants to create a particular
 A war band of demon-worshiping gnolls typically contains only one flind, and that creature sets the war band's path. Because of its special connection to Yeenoghu, a flind uses demonic insight to guide the gnolls toward weak prey ripe for slaughter.
 
 Unlike other leaders who might skulk behind their minions, a flind leads the charge in battle. Its flail causes wracking pain, paralysis, and disorientation in those it strikes.
+
+### Environment
+(FIXME)
+
+### Token
+![](Flind-Token.png)
 
 >### Flind
 >*Medium Fiend (Gnoll), Typically Chaotic Evil*
@@ -185,6 +210,12 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 ## Gnoll Flesh Gnawer
 These gnolls eschew the use of ranged weapons in favor of short blades that they wield with great speed and efficiency. In the thick of a fight, they dash across the battlefield, slashing and snarling as they run down stragglers and finish off wounded foes.
 
+### Environment
+(FIXME)
+
+### Token
+![](GnollFleshGnawer-Token.png)
+
 >### Gnoll Flesh Gnawer
 >*Medium Monstrosity, Typically Chaotic Evil*
 >___
@@ -227,6 +258,12 @@ These gnolls eschew the use of ranged weapons in favor of short blades that they
 Hunters are the stealthiest gnolls in a war band. In the vanguard, they creep around, picking off isolated opposition while clearing the way for the rest of the force to advance.
 
 Hunters are particularly skilled with the longbow, and they fire arrows with viciously barbed heads. Even when a hunter doesn't kill their target with their first shot, the arrow strike brings so much pain that the victim is hobbled in its attempt to run away.
+
+### Environment
+(FIXME)
+
+### Token
+![](GnollHunter-Token.png)
 
 >### Gnoll Hunter
 >*Medium Monstrosity, Typically Chaotic Evil*
@@ -272,6 +309,12 @@ Sometimes the gnolls of Yeenoghu turn against each other, perhaps to determine w
 The survivors devour the flesh of their slain comrades but preserve the bones. Then, by invoking rituals to Yeenoghu (appears in this book) they bring the remains back to a semblance of life in the form of a gnoll witherling.
 
 Witherlings travel with their comrades and try to kill anything in their path. They don't eat and aren't motivated by hunger, leaving more flesh for the rest of the war band.
+
+### Environment
+(FIXME)
+
+### Token
+![](GnollWitherling-Token.png)
 
 >### Gnoll Witherling
 >*Medium Undead, Typically Chaotic Evil*

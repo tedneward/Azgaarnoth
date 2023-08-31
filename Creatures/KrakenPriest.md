@@ -3,6 +3,12 @@ A kraken can seem godlike to folk who have faced its fury. Those who mistake its
 
 Every kraken priest undergoes a change in appearance that reflects the kraken's influence, although each one differs in how their reverence is displayed. One kraken priest might have ink-black eyes and a suckered tentacle for a tongue, while another has a featureless face and a body covered in eyes and mouths that dribble seawater. These horrific manifestations intensify when the kraken possesses its minion to utter dire pronouncements.
 
+### Environment
+(FIXME)
+
+### Token
+![](KrakenPriest-Token.png)
+
 >### Kraken Priest
 >*Medium Monstrosity, Typically Chaotic Evil*
 >___

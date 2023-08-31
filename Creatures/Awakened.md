@@ -1,12 +1,18 @@
 # Awakened
 Awakened "creatures" are typically ordinary objects or inanimate lifeforms given sentience and mobility by the [awaken](../Magic/Spells/awaken.md) spell or similar magic. They typically do not appear "in the wild", except under very peculiar circumstances (such as the magic becoming permanent and the caster passing away and....)
 
-> Jump to: [Shrub](#awakened-shrub) | [Tree](#awakened-tree)
+> Jump to: [Awakened Shrub](Awakened.md#awakened-shrub) | [Awakened Tree](Awakened.md#awakened-tree)
 
 ---
 
 ## Awakened Shrub
-An awakened shrub is an ordinary tree given sentience and mobility by the awaken spell or similar magic.
+An awakened shrub is an ordinary shrub given sentience and mobility by the awaken spell or similar magic.
+
+### Environment
+Conjured/Summoned
+
+### Token
+![](AwakenedShrub-Token.png)
 
 >### Awakened Shrub
 >*Small plant, unaligned*
@@ -20,7 +26,7 @@ An awakened shrub is an ordinary tree given sentience and mobility by the awaken
 >|3 (-4)|8 (-1)|11 (+0)|10 (+0)|10 (+0)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** fire
 >- **Damage Resistances** piercing
@@ -40,6 +46,13 @@ An awakened shrub is an ordinary tree given sentience and mobility by the awaken
 ---
 
 ## Awakened Tree
+An awakened tree is an ordinary tree given sentience and mobility by the awaken spell or similar magic.
+
+### Environment
+Conjured/Summoned
+
+### Token
+![](AwakenedTree-Token.png)
 
 >### Awakened Tree
 >*Huge plant, unaligned*
@@ -53,7 +66,7 @@ An awakened shrub is an ordinary tree given sentience and mobility by the awaken
 >|19 (+4)|6 (-2)|15 (+2)|10 (+0)|10 (+0)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** fire
 >- **Damage Resistances** bludgeoning,piercing
@@ -69,3 +82,4 @@ An awakened shrub is an ordinary tree given sentience and mobility by the awaken
 >#### Actions
 >***Slam.*** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage.
 >
+

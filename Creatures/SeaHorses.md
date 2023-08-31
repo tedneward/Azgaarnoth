@@ -1,12 +1,18 @@
 # Sea Horses
 Sea horses are common to the waters around Azgaarnoth, and "flocks" of both normal- and giant-sized sea horses can often be spotted from ships as they pass through the [Deepwaters](../Geography/Deepwaters.md).
 
-> Jump to: [Sea Horse](#sea-horse) | [Giant Sea Horse](#giant-sea-horse)
+> Jump to: [Sea Horse](SeaHorses.md#sea-horse) | [Giant Sea Horse](SeaHorses.md#giant-sea-horse)
 
 ---
 
 ## Sea Horse
 The normal-sized sea horse is generally too small to be of any interest (or bother) to anything larger than a goldfish. It has no effective attacks or actions.
+
+### Environment
+(FIXME)
+
+### Token
+![](SeaHorse-Token.png)
 
 >### Sea Horse
 >*Tiny beast, unaligned*
@@ -20,7 +26,7 @@ The normal-sized sea horse is generally too small to be of any interest (or both
 >|1 (-5)|12 (+1)|8 (-1)|1 (-5)|10 (+0)|2 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -40,6 +46,12 @@ The normal-sized sea horse is generally too small to be of any interest (or both
 ## Giant Sea Horse
 Like their smaller kin, giant sea horses are shy, colorful fish with elongated bodies and curled tails. Sea elves and tritons often train them as mounts, particularly for aquatic paladins.
 
+### Environment
+(FIXME)
+
+### Token
+![](GiantSeaHorse-Token.png)
+
 >### Giant Sea Horse
 >*Large beast, unaligned*
 >___
@@ -52,7 +64,7 @@ Like their smaller kin, giant sea horses are shy, colorful fish with elongated b
 >|12 (+1)|15 (+2)|11 (+0)|2 (-4)|12 (+1)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -70,3 +82,4 @@ Like their smaller kin, giant sea horses are shy, colorful fish with elongated b
 >#### Actions
 >***Ram.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.
 >
+

@@ -1,12 +1,15 @@
-# Beetle
+# Beetles
 The humble beetle exists all over Azgaarnoth.
 
-> Jump to: [Giant Fire Beetle](#giant-fire-beetle) | [Swarm of Beetles](#swarm-of-beetles)
+> Jump to: [Giant Fire Beetle](Beetle.md#giant-fire-beetle) | [Swarm of Beetles](Beetle.md#swarm-of-beetles)
 
 ---
 
 ## Giant Fire Beetle
 A giant fire beetle is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle's glands continue to shed light for 1d6 days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.
+
+### Environment
+Underdark
 
 ### Token
 ![](Beetle-GiantFire-Token.png)
@@ -23,7 +26,7 @@ A giant fire beetle is a nocturnal creature that takes its name from a pair of g
 >|8 (-1)|10 (+0)|12 (+1)|1 (-5)|7 (-2)|3 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -45,6 +48,12 @@ A giant fire beetle is a nocturnal creature that takes its name from a pair of g
 ## Swarm of Beetles
 The swarms presented here aren't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. Even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
 
+### Environment
+Conjured/Summoned
+
+### Token
+![](SwarmofBeetles-Token.png)
+
 >### Swarm of Beetles
 >*Medium swarm, unaligned*
 >___
@@ -57,7 +66,7 @@ The swarms presented here aren't ordinary or benign assemblies of little creatur
 >|3 (-4)|13 (+1)|10 (+0)|1 (-5)|7 (-2)|1 (-5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning,piercing,slashing
@@ -73,3 +82,4 @@ The swarms presented here aren't ordinary or benign assemblies of little creatur
 >#### Actions
 >***Bites.*** Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 >
+

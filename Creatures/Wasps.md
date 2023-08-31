@@ -1,11 +1,18 @@
 # Wasps
 Typically, the wasp is of no threat, but its larger kin, or a lot of them, can be unnerving--and deadly.
 
-> Jump to: [Giant Wasp](#giant-wasp) | [Swarm of Wasps](#swarm-of-wasps)
+> Jump to: [Giant Wasp](Wasps.md#giant-wasp) | [Swarm of Wasps](Wasps.md#swarm-of-wasps)
 
 ---
 
 ## Giant Wasp
+(No description given)
+
+### Environment
+Forest, Grassland, Urban, Conjured/Summoned
+
+### Token
+![](GiantWasp-Token.png)
 
 >### Giant Wasp
 >*Medium beast, unaligned*
@@ -19,7 +26,7 @@ Typically, the wasp is of no threat, but its larger kin, or a lot of them, can b
 >|10 (+0)|14 (+2)|10 (+0)|1 (-5)|10 (+0)|3 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -39,6 +46,12 @@ Typically, the wasp is of no threat, but its larger kin, or a lot of them, can b
 ## Swarm of Wasps
 The swarms presented here aren't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. Even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
 
+### Environment
+Forest, Grassland, Urban, Conjured/Summoned
+
+### Token
+![](SwarmofWasps-Token.png)
+
 >### Swarm of Wasps
 >*Medium swarm, unaligned*
 >___
@@ -51,7 +64,7 @@ The swarms presented here aren't ordinary or benign assemblies of little creatur
 >|3 (-4)|13 (+1)|10 (+0)|1 (-5)|7 (-2)|1 (-5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning,piercing,slashing
@@ -65,5 +78,6 @@ The swarms presented here aren't ordinary or benign assemblies of little creatur
 >***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.
 >
 >#### Actions
->***Bites.*** Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer. 
+>***Bites.*** Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 >
+

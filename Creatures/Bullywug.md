@@ -1,7 +1,7 @@
 ## Bullywug
-![](Bullywug.png)
-
 Life as a bullywug is nasty, brutish, and wet. These frog-headed amphibious humanoids must stay constantly moist, dwelling in rainy forests, marshes, and damp caves. Always hungry and thoroughly evil, bullywugs overwhelm opponents with superior numbers when they can, but they flee from serious threats to search for easier prey.
+
+![](Bullywug.png)
 
 Bullywugs have green, gray, or mottled yellow skin that shifts through shades of gray, green, and brown, allowing them to blend in with their surroundings. They wear crude armor and wield simple weapons, and can deliver a powerful bite to foes that press too close.
 
@@ -17,6 +17,12 @@ Captives are dragged before the king or queen — a bullywug of unusually large 
 
 Simple concepts in the language are understandable to frogs and toads. Bullywugs use this capability to form strong bonds with giant frogs, which they train as guardians and hunters. Larger specimens are sometimes used as mounts as well. The frogs' ability to swallow creatures whole provides a bullywug hunting band an easy means of carrying prey back to their villages.
 
+### Environment
+Swamp
+
+### Token
+![](Bullywug-Token.png)
+
 >### Bullywug
 >*Medium humanoid, neutral evil*
 >___
@@ -29,7 +35,7 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
 >|12 (+1)|12 (+1)|13 (+1)|7 (-2)|10 (+0)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** 0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

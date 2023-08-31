@@ -1,13 +1,19 @@
 # Cranium Rats
 Mind flayers create cranium rats by bombarding rats with psionic energy. Cranium rats are somewhat smarter than ordinary rats and behave as such. If enough cranium rats come together to form a swarm, they merge their minds into a single intelligence with the accumulated memories of all the swarm's constituents. The rats become smarter as a result, and retain their heightened intelligence for as long as the swarm persists. The swarm also awakens latent psionic abilities implanted within each cranium rat by its mind flayer creators, bestowing upon the swarm psionic powers.
 
-> Jump to: [Cranium Rat](#cranium-rat) | [Swarm of Cranium Rats](#swarm-of-cranium-rats)
+> Jump to: [Cranium Rat](CraniumRats.md#cranium-rat) | [Swarm of Cranium Rats](CraniumRats.md#swarm-of-cranium-rats)
 ---
 
 ## Cranium Rat
-A single cranium rat uses its natural telepathy to communicate hunger, fear, and other base emotions. A swarm of cranium rats communicating telepathically "speaks" as one creature, often referring to itself using the collective pronouns "we" and "us."
+A single cranium rat uses its natural telepathy to communicate hunger, fear, and other base emotions. 
 
-Some mind flayer colonies use cranium rats as spies. The rats invade communities and act as eyes and ears for the colony's elder brain (appears in this book), transmitting their thoughts when they swarm and are within range of the elder brain's telepathy.
+Some mind flayer colonies use cranium rats as spies. The rats invade communities and act as eyes and ears for the colony's elder brain, transmitting their thoughts when they swarm and are within range of the elder brain's telepathy.
+
+### Environment
+Ruins, Underdark, Urban
+
+### Token
+![](CraniumRat-Token.png)
 
 >### Cranium Rat
 >*Tiny Aberration, Unaligned*
@@ -44,6 +50,13 @@ Some mind flayer colonies use cranium rats as spies. The rats invade communities
 ---
 
 ## Swarm of Cranium Rats
+A swarm of cranium rats communicating telepathically "speaks" as one creature, often referring to itself using the collective pronouns "we" and "us." When used in a swarm, they are often looking to conduct some violent mission or destructive mayhem.
+
+### Environment
+Ruins, Underdark, Urban
+
+### Token
+![](SwarmofCraniumRats-Token.png)
 
 >### Swarm of Cranium Rats
 >*Medium Swarm, Typically Lawful Evil*

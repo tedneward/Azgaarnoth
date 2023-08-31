@@ -13,6 +13,12 @@ Also, some redcaps can sense the being whose murderous acts led to their birth. 
 
 In any case, if a redcap works with another being, the redcap demands to be paid in victims. A patron who tries to stifle a redcap's natural and necessary urge for blood risks becoming the redcap's next target.
 
+### Environment
+(FIXME)
+
+### Token
+![](Redcap-Token.png)
+
 >### Redcap
 >*Small Fey, Chaotic Evil*
 >___
@@ -25,7 +31,7 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 >|18 (+4)|13 (+1)|18 (+4)|10 (+0)|12 (+1)|9 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

@@ -13,6 +13,12 @@ For most creatures, blindness is an enormous hindrance. For a grimlock with its 
 
 ***Endless War.*** Grimlocks still venerate the mind flayers, serving them whenever possible. Grimlocks also recall the war in which they were driven underground. To them, it has never ended. They continue to return to the surface world to abduct captives for their illithid masters.
 
+### Environment
+Underdark
+
+### Token
+![](Grimlock-Token.png)
+
 >### Grimlock
 >*Medium humanoid (grimlock), neutral evil*
 >___
@@ -25,7 +31,7 @@ For most creatures, blindness is an enormous hindrance. For a grimlock with its 
 >|16 (+3)|12 (+1)|12 (+1)|9 (-1)|8 (-1)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

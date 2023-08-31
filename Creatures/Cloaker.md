@@ -13,6 +13,12 @@ Cloakers strike quickly and consume their meals as swiftly as possible, envelopi
 
 ***Cloaker Conclaves.*** Cloakers prefer isolation, but they sometimes convene with other cloakers for defense or to exchange information about new dangers, suitable hunting grounds, or developments that might affect their habitats. When this convergence is complete, the cloakers separate again.
 
+### Environment
+Ruins, Underdark
+
+### Token
+![](Cloaker-Token.png)
+
 >### Cloaker
 >*Large aberration, chaotic neutral*
 >___
@@ -25,7 +31,7 @@ Cloakers strike quickly and consume their meals as swiftly as possible, envelopi
 >|17 (+3)|15 (+2)|12 (+1)|13 (+1)|12 (+1)|14 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

@@ -8,14 +8,28 @@ A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-too
 ***The Colors of Age.*** A faerie dragon's scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.
 
 Dragon Color | Age Range
+
 ------------ | ---------
+
 Red | 5 years or less
+
 Orange | 6–10 years
+
 Yellow | 11–20 years
+
 Green | 21–30 years
+
 Blue | 31–40 years
+
 Indigo  | 41–50 years
+
 Violet | 51 years or more
+
+### Environment
+(FIXME)
+
+### Token
+![](FaerieDragon-Token.png)
 
 >### Faerie Dragon
 >*Tiny dragon, chaotic good*
@@ -29,7 +43,7 @@ Violet | 51 years or more
 >|3 (-4)|20 (+5)|13 (+1)|14 (+2)|12 (+1)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

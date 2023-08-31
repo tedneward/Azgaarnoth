@@ -1,7 +1,7 @@
 # Orcs
 Orcs are burly raiders with prominent lower canines that resemble tusks.
 
-> Jump to: [Orc](#Orc) | [Orc War Chief](#orc-war-chief) | [Orc Eye of Gruumsh](#orc-eye-of-gruumsh) | [Orog](#Orog) | [Orc Blade of Ilneval](#orc-blade-of-ilneval) | [Orc Claw of Luthic](#orc-claw-of-luthic) | [Orc Hand of Yurtrus](#orc-hand-of-yurtrus) | [Orc Nurtured One of Yurtrus](#orc-nurtured-one-of-yurtrus) | [Orc Red Fang of Shargaas](#orc-red-fang-of-shargaas) | [Tanarukk](#Tanarukk)
+> Jump to: [Orc](Orcs.md#orc) | [Orc War Chief](Orcs.md#orc-war-chief) | [Orc Eye of Gruumsh](Orcs.md#orc-eye-of-gruumsh) | [Orog](Orcs.md#orog) | [Orc Blade of Ilneval](Orcs.md#orc-blade-of-ilneval) | [Orc Claw of Luthic](Orcs.md#orc-claw-of-luthic) | [Orc Hand of Yurtrus](Orcs.md#orc-hand-of-yurtrus) | [Orc Nurtured One of Yurtrus](Orcs.md#orc-nurtured-one-of-yurtrus) | [Orc Red Fang of Shargaas](Orcs.md#orc-red-fang-of-shargaas) | [Tanarukk](Orcs.md#tanarukk)
 
 ***Gruumsh One-Eye.*** Orcs worship [Gruumsh](../Religions/Pantheon/Gruumsh.md), the mightiest of the orc deities and their creator. The orcs believe that in ancient days, the gods gathered to divide the world among their followers. When Gruumsh claimed the mountains, he learned they had been taken by the dwarves. He laid claim to the forests, but those had been settled by the elves. Each place that Gruumsh wanted had already been claimed. The other gods laughed at Gruumsh, but he responded with a furious bellow. Grasping his mighty spear, he laid waste to the mountains, set the forests aflame, and carved great furrows in the fields. Such was the role of the orcs, he proclaimed, to take and destroy all that the other races would deny them. To this day, the orcs wage an endless war on humans, elves, dwarves, and other folk.
 
@@ -27,9 +27,18 @@ In addition, orcs have special relationships with two creatures that are sometim
 
 Lastly, orcish bodies and bodily construction has turned out to be as wildly flexible as elvish, and orcs have learned how to adapt to many environments that would otherwise have seemed hostile to orcish life.
 
+***Playable Race: Ruthless Competence.*** Orcs are as widely seen among the Hordish lands as elves or dwarves are among the humans, and many orcs have had [storied careers](../Races/Orc.md) just as rich and glorious as their elvish or dwarvish (or human or dragonborn) counterparts.
+
 ---
 
 ## Orc
+(No description given)
+
+### Environment
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
+
+### Token
+![](Orcs-Token.png)
 
 >### Orc
 >*Medium humanoid (orc), chaotic evil*
@@ -43,7 +52,7 @@ Lastly, orcish bodies and bodily construction has turned out to be as wildly fle
 >|16 (+3)|12 (+1)|16 (+3)|7 (-2)|11 (+0)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -66,9 +75,15 @@ Lastly, orcish bodies and bodily construction has turned out to be as wildly fle
 ---
 
 ## Orc War Chief
-The war chief of an orc tribe is its strongest and most cunning member. The reign of a war chief lasts only as long as it commands the fear and respect of other tribe members, whose bloodlust must be regularly satisfied lest the chief appear weak.
+In their original Hordish nature, the war chief of an orc tribe was its strongest and most cunning member; as the orcs have matured as a race, their war chiefs have similarly evolved. While in the past the reign of a war chief lasts only as long as it commands the fear and respect of other tribe members, whose bloodlust must be regularly satisfied lest the chief appear weak, modern orcish tribes often rally around a leader whose intellect and mindset can lead them to greater glory, even if that isn't always through battle.
 
 ***Scions of Slaughter.*** Gruumsh bestows special blessings upon war chiefs who prove themselves in battle time and again, imbuing them with slivers of his savagery. A war chief so blessed finds that his weapons cut deeper into his enemies, allowing him to inflict more carnage.
+
+### Environment
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
+
+### Token
+![](OrcWarChief-Token.png)
 
 >### Orc War Chief
 >*Medium humanoid (orc), chaotic evil*
@@ -82,7 +97,7 @@ The war chief of an orc tribe is its strongest and most cunning member. The reig
 >|18 (+4)|12 (+1)|18 (+4)|11 (+0)|11 (+0)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Str +6,Con +6,Wis +2
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -115,6 +130,12 @@ When an orc slays an elf in Gruumsh's name and offers the corpse of its foe as a
 
 If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting ability and special favor, along with the right to call itself an Eye of Gruumsh. When not using their auguries to advise their war chiefs, these devotees of the god of slaughter hurl themselves into battle, their weapons stained with blood.
 
+### Environment
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
+
+### Token
+![](./Orcs-EyeOfGruumsh-Token.png)
+
 >### Orc Eye of Gruumsh
 >*Medium humanoid (orc), chaotic evil*
 >___
@@ -127,7 +148,7 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 >|16 (+3)|12 (+1)|16 (+3)|9 (-1)|13 (+1)|12 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -160,6 +181,8 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 ## Orog
 Orogs are orcs blessed with a surprisingly keen intellect that ordinary orcs believe is a gift from the orc goddess Luthic. Like Luthic, orogs prefer to live underground, although the scarcity of food often brings them to the surface to hunt. Orcs respect an orog's strength and cunning, and a lone orog might command an orc war band.
 
+![](Orcs-Orog.png)
+
 ***Stronger and Smarter.*** An orog uses its strength to bully other orcs and its intelligence to surprise enemies on the battlefield. Many an overconfident elf, human, or dwarf commander has watched a "simple" orc warlord execute a clever maneuver to outflank and destroy an opposing force, not realizing the orc is an orog.
 
 When encountered in great numbers, orogs form their own detachments within much larger orc hordes, and they are always at the forefront of any attack, relying on their superior strength and tactical insight to overcome anything that stands in their way.
@@ -169,6 +192,12 @@ Few orc tribes actively seek out orogs to bolster their ranks. The orogs' superi
 ***Detached Killers.*** Wanting nothing more than to hack their enemies to pieces, orogs are a terrifying presence on the battlefield. They form no attachments, even to their parents and siblings, and have no concept of love or dedication. They worship the orc pantheon of gods — Gruumsh and Luthic foremost — because they believe that the gods have strength beyond reason, and physical might is all they respect.
 
 ***Servants of Darkness.*** Mistrusted by orcs, some orogs form independent mercenary war bands that sell themselves to the highest bidder. As long as they are rewarded, orog mercenaries gladly serve as elite warriors and shock troops for evil wizards, depraved giants, and other villains.
+
+### Environment
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
+
+### Token
+![](./Orcs-Orog-Token.png)
 
 >### Orog
 >*Medium humanoid (orc), chaotic evil*
@@ -182,7 +211,7 @@ Few orc tribes actively seek out orogs to bolster their ranks. The orogs' superi
 >|18 (+4)|12 (+1)|18 (+4)|12 (+1)|11 (+0)|12 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -205,10 +234,17 @@ Few orc tribes actively seek out orogs to bolster their ranks. The orogs' superi
 >
 
 ---
+
 ## Orc Blade of Ilneval
 Ilneval is Gruumsh's battle captain, a devious strategist who directs Gruumsh's soldiers with boldness. Among orcs, warriors that venerate Ilneval emulate their deity. Such orcs learn to command their fellows in ways that are unpredictable but help to ensure victory.
 
 The wisest among these leaders gain Ilneval's favor and rise to become known as blades, tactical experts who advise their chief in matters of war. Blades lead from the front, wading into combat fearlessly while barking orders at lesser soldiers. A blade knows how to use orcish ferocity to best advantage, and helps the ordinary warriors to work together against their adversaries.
+
+### Environment
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
+
+### Token
+![](OrcBladeofIlneval-Token.png)
 
 >### Orc Blade of Ilneval
 >*Medium humanoid (orc), chaotic evil*
@@ -222,7 +258,7 @@ The wisest among these leaders gain Ilneval's favor and rise to become known as 
 >|17 (+3)|11 (+0)|17 (+3)|10 (+0)|12 (+1)|14 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Wis +3
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -255,6 +291,12 @@ Luthic is Gruumsh's wife and the paragon of maternity to all orcs. She is the Ca
 
 Orc females devoted to Luthic are in charge of fortifying and maintaining an orc stronghold. They help to guarantee the survival of the tribe, and most are skilled in the healing arts. The most powerful among Luthic's disciples are the claws of Luthic, which can use the Cave Mother's magic to heal, protect, and curse.
 
+### Environment
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
+
+### Token
+![](OrcClawofLuthic-Token.png)
+
 >### Orc Claw of Luthic
 >*Medium humanoid (orc), chaotic evil*
 >___
@@ -267,7 +309,7 @@ Orc females devoted to Luthic are in charge of fortifying and maintaining an orc
 >|14 (+2)|15 (+2)|16 (+3)|10 (+0)|15 (+2)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -308,6 +350,12 @@ Every orc knows that the hands of Yurtrus are the tribe's gateway to the ancesto
 
 As befits followers of a god who doesn't speak, hands of Yurtrus remove their tongues to emulate their deity, for a reason similar to why an eye of Gruumsh puts out one of its eyes.
 
+### Environment
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
+
+### Token
+![](OrcHandofYurtrus-Token.png)
+
 >### Orc Hand of Yurtrus
 >*Medium humanoid (orc), chaotic evil*
 >___
@@ -320,7 +368,7 @@ As befits followers of a god who doesn't speak, hands of Yurtrus remove their to
 >|12 (+1)|11 (+0)|16 (+3)|11 (+0)|14 (+2)|9 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -351,6 +399,12 @@ As befits followers of a god who doesn't speak, hands of Yurtrus remove their to
 ## Orc Nurtured One of Yurtrus
 When plague strikes a tribe, the hands of Yurtrus isolate the sick. The priests then minister to those who can be saved but not healed. The hands cultivate the sickness of these nurtured ones, turning them into instruments of defense and weapons of war. When orcs go to battle, a band of nurtured ones might charge in first -- to give themselves up while softening up the enemy by spreading Yurtrus's vile blessing in its ranks.
 
+### Environment
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
+
+### Token
+![](OrcNurturedOneofYurtrus-Token.png)
+
 >### Orc Nurtured One of Yurtrus
 >*Medium humanoid (orc), chaotic evil*
 >___
@@ -363,7 +417,7 @@ When plague strikes a tribe, the hands of Yurtrus isolate the sick. The priests 
 >|15 (+2)|8 (-1)|16 (+3)|7 (-2)|11 (+0)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -387,7 +441,6 @@ When plague strikes a tribe, the hands of Yurtrus isolate the sick. The priests 
 >***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 >
 
-
 ---
 
 ## Orc Red Fang of Shargaas
@@ -396,6 +449,12 @@ Shargaas is the orc deity of deep darkness and sneakiness, a murderous god who h
 The elite among Shargaas's followers are the assassins and thieves that follow the cult of the Red Fang. They perform assassinations, stealthy raids, and other covert operations on the tribe's behalf. They rely on a mix of intense training and magic granted to them by Shargaas.
 
 Most Red Fang enclaves keep and nurture giant bats, creatures that are sacred to Shargaas. Red Fangs ride these bats into battle or on secret raids and assassination missions into enemy territory.
+
+### Environment
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
+
+### Token
+![](OrcRedFangofShargaas-Token.png)
 
 >### Orc Red Fang of Shargaas
 >*Medium humanoid (orc), chaotic evil*
@@ -409,7 +468,7 @@ Most Red Fang enclaves keep and nurture giant bats, creatures that are sacred to
 >|11 (+0)|16 (+3)|15 (+2)|9 (-1)|11 (+0)|9 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -450,6 +509,12 @@ Although tanarukks are fearsome fighters, they are a threat to their allies off 
 
 If a tanarukk manages to breed, its blood taints numerous subsequent generations, so its female descendants randomly produce tanarukks. Rather than risk raising a natural-born tanarukk, most tribes slay such abominations.
 
+### Environment
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
+
+### Token
+![](Tanarukk-Token.png)
+
 >### Tanarukk
 >*Medium fiend (demon;orc), chaotic evil*
 >___
@@ -462,7 +527,7 @@ If a tanarukk manages to breed, its blood taints numerous subsequent generations
 >|18 (+4)|13 (+1)|20 (+5)|9 (-1)|9 (-1)|9 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** fire,poison
@@ -486,3 +551,5 @@ If a tanarukk manages to breed, its blood taints numerous subsequent generations
 >
 >#### Bonus Actions
 >***Aggressive.*** As a bonus action, the tanarukk can move up to its speed toward a hostile creature that it can see.
+>
+

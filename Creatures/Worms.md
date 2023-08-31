@@ -1,7 +1,7 @@
 # Worms
 Some of the most frightening creatures to discover are the oversized worms that wander the Underdark. Some of the equally most frightening are the small ones that dig through the body. Come to think of it, are there any non-frightening ones?
 
-> Jump to: [Purple Worm](#purple-worm) | [Adult Lava Worm](#adult-lava-worm) | [Young Lava Worm](#young-lava-worm) | [Swarm of Rot Grubs](#swarm-of-rot-grubs) | [Spawn of Kyuss]()
+> Jump to: [Purple Worm](Worms.md#purple-worm) | [Adult Lava Worm](Worms.md#adult-lava-worm) | [Young Lava Worm](Worms.md#young-lava-worm) | [Swarm of Rot Grubs](Worms.md#swarm-of-rot-grubs) | [Spawn of Kyuss](Worms.md#spawn-of-kyuss)
 
 ---
 
@@ -16,6 +16,12 @@ Though most common in the Underdark, purple worms are frequently seen on the sur
 
 A burrowing purple worm constantly creates new tunnels throughout the Underdark, which are quickly made use of by other creatures as corridors and highways. Because a purple worm rarely returns to its own tunnels, such passageways are a good place to avoid these monsters. Areas rich in prey quickly become interlaced with complex tunnel systems resulting from several worms hunting together.
 
+### Environment
+Underdark
+
+### Token
+![](PurpleWorm-Token.png)
+
 >### Purple Worm
 >*Gargantuan monstrosity, unaligned*
 >___
@@ -28,7 +34,7 @@ A burrowing purple worm constantly creates new tunnels throughout the Underdark,
 >|28 (+9)|7 (-2)|22 (+6)|1 (-5)|8 (-1)|4 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** Con +11,Wis +4
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -58,8 +64,14 @@ A fully grown lava worm is the most terrifying predator to be found near lava or
 
 A lava worm's saliva contains oils that cause fire to bum hotter. It prefers to defend itself against serious threats from afar, staying within lava and spitting flame at the danger to wear them down. Evasive prey that it can't consume in one bite may be easier to devour once caught in the worm's lava breath. This worm has no problem biting through solid rock to swallow restrained prey using its super-heated jaws.
 
+### Environment
+Exotic, Underdark
+
+### Token
+![](AdultLavaWorm-Token.png)
+
 >### Adult Lava Worm
->**Gargantuan monstrosity, unaligned**
+>*Gargantuan monstrosity, unaligned*
 >___
 >- **Armor Class** 20 (natural armor)
 >- **Hit Points** 350 (20d20 + 140)
@@ -70,7 +82,7 @@ A lava worm's saliva contains oils that cause fire to bum hotter. It prefers to 
 >|28 (+9)|13 (+1)|24 (+7)|4 (-3)|10 (+0)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +6
 >- **Saving Throws** Con +13, Wis +6
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -92,17 +104,25 @@ A lava worm's saliva contains oils that cause fire to bum hotter. It prefers to 
 >#### Actions
 >***Multiattack.*** The worm makes two attacks, one with its Bite and one with its Flame Spit. It may substitute a Break Weapon attack for either, if the Breath Weapon is recharged.
 >
->***Bite.*** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 28 (3d12 + 9) piercing damage plus 28 (8d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 11 (2d10) fire damage at the start of each of its turns. In addition, if the target is a Large or smaller creature, it must succeed on a DC 20 Dexterity saving throw or be swallowed by the worm. 
+>***Bite.*** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 28 (3d12 + 9) piercing damage plus 28 (8d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 11 (2d10) fire damage at the start of each of its turns. In addition, if the target is a Large or smaller creature, it must succeed on a DC 20 Dexterity saving throw or be swallowed by the worm.
 >
 >While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the worm, and it takes 21 (6d6) acid damage plus 21 (6d6) fire damage at the start of each of the lava worm's turns. If the worm takes 40 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
 >
 >***Flame Spit.*** Ranged Spell Attack: +13 to hit, range 120 ft., one creature. Hit: 55 (8d10 + 7) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 11 (2d10) fire damage at the start of each of its turns.
 >
 >***Breath Weapon (Recharge 5-6).*** The worm sprays molten rock in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one. On a failed saving throw, a creature is also restrained by the hardening rock. A creature can make a DC 21 Strength (Athletics) check as an action, freeing itself or a creature within reach from the rock on a success. The rock has AC 17 and 60 hit points, and it is immune to fire, poison, and psychic damage, but it is vulnerable to any damage dealt by a lava worm's bite attack.
+>
 
 ---
 
 ## Young Lava Worm
+(No description given)
+
+### Environment
+Exotic, Underdark
+
+### Token
+![](YoungLavaWorm-Token.png)
 
 >### Young Lava Worm
 >*Large monstrosity, unaligned*
@@ -116,7 +136,7 @@ A lava worm's saliva contains oils that cause fire to bum hotter. It prefers to 
 >|18 (+4)|13 (+1)|17 (+3)|3 (-4)|10 (+0)|4 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -135,13 +155,20 @@ A lava worm's saliva contains oils that cause fire to bum hotter. It prefers to 
 >
 >#### Actions
 >***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 20 (3d10 + 4) piercing damage plus 7 (2d6) fire damage.
+>
 
 ---
 
 ## Swarm of Rot Grubs
 Rot grubs are finger-sized maggots that eat living or dead flesh, although they can survive on plant matter. They infest corpses and piles of decaying matter and attack living creatures that disturb them. After burrowing into the flesh of a living creature, a rot grub instinctively chews its way toward the heart in order to kill its host.
 
-Rot grubs pose a threat both singly and as a swarm. See the accompanying stat block for the mechanics of a swarm of rot grubs. A single rot grub has no stat block. Any creature that comes into contact with it must make a DC 10 Dexterity saving throw. On a failed save, the rot grub burrows into the creature’s flesh and deals 3 (1d6) piercing damage at the start of each of the host creature’s turns. Applying fire to the wound before the end of the host creature’s next turn deals 1 fire damage to the host and kills the infesting rot grub. After this time, the rot grub is too far under the host creature’s skin to be burned. If a creature infested by one or more rot grubs ends its turn with 0 hit points, it dies as the grubs burrow into its heart and kill it. Any effect that cures disease kills all rot grubs infesting the target. Burning a body kills any rot grubs infesting it.
+Rot grubs pose a threat both singly and as a swarm. A single rot grub has no stat block. Any creature that comes into contact with it must make a DC 10 Dexterity saving throw. On a failed save, the rot grub burrows into the creature’s flesh and deals 3 (1d6) piercing damage at the start of each of the host creature’s turns. Applying fire to the wound before the end of the host creature’s next turn deals 1 fire damage to the host and kills the infesting rot grub. After this time, the rot grub is too far under the host creature’s skin to be burned. If a creature infested by one or more rot grubs ends its turn with 0 hit points, it dies as the grubs burrow into its heart and kill it. Any effect that cures disease kills all rot grubs infesting the target. Burning a body kills any rot grubs infesting it.
+
+### Environment
+Ruins, Underdark
+
+### Token
+![](SwarmofRotGrubs-Token.png)
 
 >### Swarm of Rot Grubs
 >*Medium swarm, unaligned*
@@ -155,7 +182,7 @@ Rot grubs pose a threat both singly and as a swarm. See the accompanying stat bl
 >|2 (-4)|7 (-2)|10 (+0)|1 (-5)|2 (-4)|1 (-5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** piercing,slashing
@@ -177,16 +204,14 @@ Rot grubs pose a threat both singly and as a swarm. See the accompanying stat bl
 ---
 
 ## Spawn of Kyuss
-Kyuss was a high priest of Orcus who plundered corpses from necropolises to create the first spawn of Kyuss. Even centuries after Kyuss's death, his mad disciples continue performing the horrific rites he perfected.
+Kyuss was a high priest of Orcus (appears in this book) who plundered corpses from necropolises to create the first spawn of Kyuss. Even centuries after Kyuss's death, his malign disciples continue performing the horrific rites he perfected.
 
-***Plague of Worms.*** From a distance or in poor light, a spawn of Kyuss looks like an ordinary zombie. As it comes into clearer view, one can see scores of little green worms crawling in and out of it. These worms jump onto nearby humanoids and burrow into their flesh. A worm that penetrates a humanoid body makes its way to the creature's brain. Once inside the brain, the worm kills its host and animates the corpse, transforming it into a spawn of Kyuss that breeds more worms. The dead humanoid's soul remains trapped inside the corpse, preventing the individual from being raised or resurrected until the undead body is destroyed. The horror of being a soul imprisoned in an undead body drives a spawn of Kyuss insane.
+From a distance or in poor light, a spawn of Kyuss looks like an ordinary zombie. As it comes into clearer view, however, the scores of little green worms crawling in and out of it become visible. These worms jump onto nearby Humanoids and burrow into their flesh. A worm that penetrates a Humanoid body makes its way to the creature's brain. Once inside the brain, the worm kills its host and animates the corpse, transforming it into a spawn of Kyuss, which breeds more worms.
 
-***Corruption Without End.*** Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeath. Left to its own devices, a solitary spawn of Kyuss travels aimlessly. If it stumbles across a living creature, the spawn attacks with the sole intent of creating more spawn. Whether they are dispersed or clustered, spawn reproduce exponentially if nothing stops them.
-
-***Undead Nature.*** Spawn of Kyuss require no air, food, drink, or sleep.
+Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeath. Left to its own devices, a solitary spawn of Kyuss travels aimlessly. If it stumbles across a living creature, the spawn attacks with the sole intent of creating more spawn. Whether spawn are dispersed or clustered, they reproduce exponentially if nothing stops them.
 
 >### Spawn of Kyuss
->*Medium undead, chaotic evil*
+>*Medium Undead, Typically Chaotic Evil*
 >___
 >- **Armor Class** 10
 >- **Hit Points** 76 (9d8 + 36)
@@ -197,7 +222,7 @@ Kyuss was a high priest of Orcus who plundered corpses from necropolises to crea
 >|16 (+3)|11 (+0)|18 (+4)|5 (-3)|7 (-2)|3 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Wis +1
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -208,14 +233,17 @@ Kyuss was a high priest of Orcus who plundered corpses from necropolises to crea
 >- **Languages** understands the languages it knew in life but can't speak
 >- **Challenge** 5
 >___
->>***Regeneration.*** The spawn of Kyuss regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or a body of running water. If the spawn takes acid, fire, or radiant damage, this trait doesn't function at the start of the spawn's next turn. The spawn is destroyed only if it starts its turn with 0 hit points and doesn't regenerate.
+>***Regeneration.*** The spawn of Kyuss regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or a body of running water. If the spawn takes acid, fire, or radiant damage, this trait doesn't function at the start of the spawn's next turn. The spawn is destroyed only if it starts its turn with 0 hit points and doesn't regenerate.
 >
 >***Worms.*** If the spawn of Kyuss is targeted by an effect that cures disease or removes a curse, all the worms infesting it wither away, and it loses its Burrowing Worm action.
 >
->#### Actions
->***Multiattack.*** The spawn of Kyuss makes two attacks with its claws and uses Burrowing Worm.
+>***Unusual Nature.*** The spawn of Kyuss requires no air, food, drink, or sleep.
 >
->***Burrowing Worm.*** A worm launches from the spawn of Kyuss at one humanoid that the spawn can see within 10 feet of it. The worm latches onto the target's skin unless the target succeeds on a DC 11 Dexterity saving throw. The worm is a Tiny undead with AC 6, 1 hit point, a 2 (-4) in every ability score, and a speed of 1 foot. While on the target's skin, the worm can be killed by normal means or scraped off using an action (the spawn can use this action to launch a scraped-off worm at a humanoid it can see within 10 feet of the worm). Otherwise, the worm burrows under the target's skin at the end of the target's next turn, dealing 1 piercing damage to it. At the end of each of its turns thereafter, the target takes 7 (2d6) necrotic damage per worm infesting it (maximum of 10d6). A worm-infested target dies if it drops to 0 hit points, then rises 10 minutes later as a spawn of Kyuss. If a worm-infested creature is targeted by an effect that cures disease or removes a curse, all the worms infesting it wither away.
+>#### Actions
+>***Multiattack.*** The spawn of Kyuss makes two Claw attacks, and it uses Burrowing Worm.
 >
 >***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage plus 7 (2d6) necrotic damage.
 >
+>***Burrowing Worm.*** A worm launches from the spawn of Kyuss at one Humanoid that the spawn can see within 10 feet of it. The worm latches onto the target's skin unless the target succeeds on a DC 11 Dexterity saving throw. The worm is a Tiny Undead with AC 6, 1 hit point, a 2 (-4) in every ability score, and a speed of 1 foot. While on the target's skin, the worm can be killed by normal means or scraped off using an action (the spawn can use Burrowing Worm to launch a scraped-off worm at a Humanoid it can see within 10 feet of the worm). Otherwise, the worm burrows under the target's skin at the end of the target's next turn, dealing 1 piercing damage to it. At the end of each of its turns thereafter, the target takes 7 (2d6) necrotic damage per worm infesting it (maximum of 10d6), and if it drops to 0 hit points, it dies and then rises 10 minutes later as a spawn of Kyuss. If a worm-infested target is targeted by an effect that cures disease or removes a curse, all the worms infesting it wither away.
+>
+

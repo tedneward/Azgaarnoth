@@ -7,6 +7,12 @@ The white winged horses known as pegasi soar through the skies, a vision of grac
 
 ***Pegasi Nests.*** Pegasi mate for life, build their nests in hard-to-reach locations, and give birth to live young.
 
+### Environment
+(FIXME)
+
+### Token
+![](Pegasus-Token.png)
+
 >### Pegasus
 >*Large celestial, chaotic good*
 >___
@@ -19,7 +25,7 @@ The white winged horses known as pegasi soar through the skies, a vision of grac
 >|18 (+4)|15 (+2)|16 (+3)|10 (+0)|15 (+2)|13 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Dex +4,Wis +4,Cha +3
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

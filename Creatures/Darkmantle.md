@@ -3,6 +3,12 @@ A darkmantle clings to cavern ceilings, remaining perfectly still as it waits fo
 
 Darkmantles are found throughout the Underdark, but they are equally common on the Shadowfell. Thriving in that dark realm, they fill an ecological niche similar to bats on the Material Plane. Intelligent creatures of the Shadowfell sometimes train darkmantles as guardians or companions.
 
+### Environment
+Underdark
+
+### Token
+![](Darkmantle-Token.png)
+
 >### Darkmantle
 >*Small monstrosity, unaligned*
 >___
@@ -15,7 +21,7 @@ Darkmantles are found throughout the Underdark, but they are equally common on t
 >|16 (+3)|12 (+1)|13 (+1)|2 (-4)|10 (+0)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

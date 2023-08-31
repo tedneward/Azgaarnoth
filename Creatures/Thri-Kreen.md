@@ -1,7 +1,7 @@
 # Thri-kreen
 Thri-kreen wander the deserts and savannas of the world, avoiding all other races.
 
-> Jump to: [Thri-kreen](#thri-kreen) | [Hive Warrior](#thri-kreen-hive-warrior) | [Psionicist](#thri-kreen-psionicist)
+> Jump to: [Thri-kreen](Thri-kreen.md#thri-kreen) | [Thri-Kreen Hive Warrior](Thri-kreen.md#thri-kreen-hive-warrior) | [Thri-kreen Psionicist](Thri-kreen.md#thri-kreen-psionicist)
 
 ***Thri-Kreen Communication.*** Thri-kreen employ a language without words. To show emotion and reaction, a thri-kreen clacks its mandibles and waves its antennae, giving other thri-kreen a sense of what it is thinking and feeling. Other creatures find this manner of communication difficult to interpret and impossible to duplicate.
 
@@ -18,6 +18,12 @@ When forced to interact with creatures of other intelligent species, thri-kreen 
 ## Thri-kreen
 The "average" Thri-Kreen warrior.
 
+### Environment
+Desert, Grassland
+
+### Token
+![](Thri-kreen-Token.png)
+
 >### Thri-kreen
 >*Medium humanoid (thri-kreen), chaotic neutral*
 >___
@@ -30,7 +36,7 @@ The "average" Thri-Kreen warrior.
 >|12 (+1)|15 (+2)|13 (+1)|8 (-1)|12 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -58,9 +64,13 @@ The "average" Thri-Kreen warrior.
 ## Thri-Kreen Hive Warrior
 These are warriors who are given special weapons and responsibilities for the hive.
 
-***Thri-Kreen Weapons.*** Some thri-kreen employ special martial weapons. A gythka is a two-handed polearm with a blade at each end. A chatkcha is a flat, triangular wedge with three serrated blades (a light thrown weapon).
+### Environment
+Desert, Grassland
 
->### Thri-kreen Hive Warrior
+### Token
+![](Thri-KreenHiveWarrior-Token.png)
+
+>### Thri-Kreen Hive Warrior
 >*Medium humanoid (thri-kreen), chaotic neutral*
 >___
 >- **Armor Class** 15 (natural armor)
@@ -72,7 +82,7 @@ These are warriors who are given special weapons and responsibilities for the hi
 >|12 (+1)|15 (+2)|13 (+1)|8 (-1)|12 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -104,6 +114,12 @@ These are warriors who are given special weapons and responsibilities for the hi
 ## Thri-kreen Psionicist
 Certain Thri-Kreen are born with the innate ability to project the power of their minds (and that of the Hive) as arcane effects.
 
+### Environment
+Desert, Grassland
+
+### Token
+![](Thri-kreenPsionicist-Token.png)
+
 >### Thri-kreen Psionicist
 >*Medium humanoid (thri-kreen), chaotic neutral*
 >___
@@ -116,7 +132,7 @@ Certain Thri-Kreen are born with the innate ability to project the power of thei
 >|12 (+1)|15 (+2)|13 (+1)|8 (-1)|16 (+3)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -148,3 +164,4 @@ Certain Thri-Kreen are born with the innate ability to project the power of thei
 >
 >***Claws.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage.
 >
+

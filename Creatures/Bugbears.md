@@ -1,7 +1,7 @@
 # Bugbears
 Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
 
-> Jump to: [Bugbear](#bugbear) | [Bugbear Chief](#bugbear-chief) | [Blood Ghost Berserker](#blood-ghost-berserker)
+> Jump to: [Bugbear](Bugbears.md#bugbear) | [Bugbear Chief](Bugbears.md#bugbear-chief) | [Blood Ghost Berserker](Bugbears.md#blood-ghost-berserker)
 
 ***Goblinoids.*** Bugbears are often found in the company of their cousins, [hobgoblins](Hobgoblins.md) and [goblins](Goblins.md). Bugbears usually enslave goblins they encounter, and they bully hobgoblins into giving them gold and food in return for serving as scouts and shock troops. Even when paid, bugbears are at best unreliable allies, yet goblins and hobgoblins understand that no matter how much bugbears might drain a tribe of resources, these creatures are a potent force.
 
@@ -14,6 +14,13 @@ Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they 
 ---
 
 ## Bugbear
+(No description given)
+
+### Environment
+Forest, Grassland, Underdark, Urban
+
+### Token
+![](Bugbear-Token.png)
 
 >### Bugbear
 >*Medium humanoid (goblinoid), chaotic evil*
@@ -27,7 +34,7 @@ Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they 
 >|15 (+2)|14 (+2)|13 (+1)|8 (-1)|11 (+0)|9 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -51,6 +58,13 @@ Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they 
 ---
 
 ## Bugbear Chief
+Many bugbear chiefs are simply the strongest or most brutal of the tribe, but as the bugbears have mellowed along with many of the rest of the Hordes, some chiefs are finding that simply bullying their way no longer holds much weight. As a result, many thoughtful and careful bugbears are finding their way into power, and slowly surprising many. Some bugbear chiefs even affect the behaviors of their less-evolved cousins, in order to gain an advantage, such as when negotiating trade rights with a merchant guild or a mercenary contract with nobility.
+
+### Environment
+Forest, Grassland, Underdark, Urban
+
+### Token
+![](BugbearChief-Token.png)
 
 >### Bugbear Chief
 >*Medium humanoid (goblinoid), chaotic evil*
@@ -64,7 +78,7 @@ Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they 
 >|17 (+3)|14 (+2)|14 (+2)|11 (+0)|12 (+1)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -92,6 +106,13 @@ Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they 
 ---
 
 ## Blood Ghost Berserker
+The bugbear that follows the path of the Blood Ghost Beserker tribe is generally given a wide berth, as they have been known to rage at the smallest slights or perceptions. Though not all Blood Ghosts are evil, most are extremely chaotic, and their unpredictability makes others nervous and adds to the perception (and reputation) that they are evil.
+
+### Environment
+Forest, Grassland, Underdark, Urban
+
+### Token
+![](BloodGhostBerserker-Token.png)
 
 >### Blood Ghost Berserker
 >*Medium humanoid, chaotic evil*
@@ -105,7 +126,7 @@ Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they 
 >|16 (+3)|14 (+2)|15 (+2)|8 (-1)|11 (+0)|9 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -131,3 +152,4 @@ Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they 
 >
 >***Handaxe.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 02/60 ft., one target. Hit: 5 (1d6 + 3) piercing damage in melee or 5 (1d6 + 3) piercing damage at range.
 >
+

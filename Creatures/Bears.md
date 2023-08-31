@@ -1,11 +1,18 @@
-# Bear
+# Bears
 The bear is a staple of the wilderness, a fearsome predator and fiercely protective of its family or pack. 
 
-> Jump to: [Black](#black-bear) | [Brown](#brown-bear) | [Cave](#cave-bear) | [Polar](#polar-bear)
+> Jump to: [Black Bear](Bear.md#black-bear) | [Brown Bear](Bear.md#brown-bear) | [Cave Bear](Bear.md#cave-bear) | [Polar Bear](Bear.md#polar-bear)
 
 ---
 
 ## Black Bear
+(No description given)
+
+### Environment
+Forest
+
+### Token
+![](BlackBear-Token.png)
 
 >### Black Bear
 >*Medium beast, unaligned*
@@ -43,6 +50,10 @@ The bear is a staple of the wilderness, a fearsome predator and fiercely protect
 ---
 
 ## Brown Bear
+(No description given)
+
+### Environment
+Arctic, Forest, Hill
 
 ### Token
 ![](Bear-Brown-Token.png)
@@ -85,6 +96,9 @@ The bear is a staple of the wilderness, a fearsome predator and fiercely protect
 ## Cave Bear
 Some bears have adapted to life underground, feeding on subterranean lichen and blind fish. Known as cave bears, these ill-tempered behemoths have coarse, dark hair, and much quicker to attack than their gentler, surface-dwelling cousins.
 
+### Environment
+Mountain, Hill, Underdark
+
 ### Token
 ![](Bear-Cave-Token.png)
 
@@ -120,9 +134,14 @@ Some bears have adapted to life underground, feeding on subterranean lichen and 
 >
 >***Claws.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
 >
+
 ---
 
 ## Polar Bear
+(No description given)
+
+### Environment
+Arctic
 
 ### Token
 ![](Bear-Polar-Token.png)
@@ -159,3 +178,4 @@ Some bears have adapted to life underground, feeding on subterranean lichen and 
 >
 >***Claws.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
 >
+

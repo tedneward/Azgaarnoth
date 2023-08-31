@@ -1,7 +1,7 @@
 # Hobgoblins
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
 
-> Jump to: [Hobgoblin](#hobgoblin) | [Hobgoblin Warrior](#hobgoblin-warrior) | [Hobgoblin Veteran](#hobgoblin-veteran) | [Hobgoblin Sergeant](#hobgoblin-sergeant) | [Hobgoblin Captain](#hobgoblin-captain) | [Hobgoblin Warlord](#hobgoblin-warlord) | [Bladebearer](#bladebearer) | [Devastator](#hobgolbin-devastator) | [Iron Shadow](#hobgoblin-iron-shadow) | [Mindbender](#kulkor-zhul-mindbender) | [Kulkor Zhul War Adept](#kulkor-zhul-war-adept) | [Doom Hand Cleric](#doom-hand-cleric) | [Doom Fist Monk](#doom-fist-monk)
+> Jump to: [Hobgoblin](Hobgoblins.md#hobgoblin) | [Hobgoblin Warrior](Hobgoblins.md#hobgoblin-warrior) | [Hobgoblin Veteran](Hobgoblins.md#hobgoblin-veteran) | [Hobgoblin Sergeant](Hobgoblins.md#hobgoblin-sergeant) | [Hobgoblin Captain](Hobgoblins.md#hobgoblin-captain) | [Hobgoblin Warlord](Hobgoblins.md#hobgoblin-warlord) | [Bladebearer](Hobgoblins.md#bladebearer) | [Devastator](Hobgoblins.md#devastator) | [Hobgoblin Iron Shadow](Hobgoblins.md#hobgoblin-iron-shadow) | [Kulkor Zhul War Adept](Hobgoblins.md#kulkor-zhul-war-adept) | [Kulkor Zhul Mindbender](Hobgoblins.md#kulkor-zhul-mindbender) | [Doom Hand Cleric](Hobgoblins.md#doom-hand-cleric) | [Doom Fist Monk](Hobgoblins.md#doom-fist-monk)
 
 Hobgoblins have dark orange or red-orange skin, and hair ranging from dark red-brown to dark gray. Yellow or dark brown eyes peer out beneath their beetling brows, and their wide mouths sport sharp and yellowed teeth. A male hobgoblin might have a large blue or red nose, which symbolizes virility and power among goblinkin. Hobgoblins can live as long as humans, though their love of warfare and battle means that few do.
 
@@ -38,6 +38,14 @@ More recently, hobgoblins have come to revere [Lythtzu](../Religions/Pantheon/Ly
 ---
 
 ## Hobgoblin
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](Hobgoblin-Token.png)
+
 >### Hobgoblin
 >*Medium humanoid (goblinoid), lawful evil*
 >___
@@ -50,7 +58,7 @@ More recently, hobgoblins have come to revere [Lythtzu](../Religions/Pantheon/Ly
 >|13 (+1)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|9 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -74,6 +82,12 @@ More recently, hobgoblins have come to revere [Lythtzu](../Religions/Pantheon/Ly
 ## Hobgoblin Warrior
 Hobgoblins which survive combat after a while get tougher and more skilled.
 
+### Environment
+(FIXME)
+
+### Token
+![](HobgoblinWarrior-Token.png)
+
 >### Hobgoblin Warrior
 >*Medium humanoid (goblinoid), lawful evil*
 >___
@@ -83,7 +97,7 @@ Hobgoblins which survive combat after a while get tougher and more skilled.
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|14 (+1)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|9 (-1)|
+>|14 (+2)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|9 (-1)|
 >
 >___
 >- **Proficiency Bonus** +1
@@ -110,6 +124,12 @@ Hobgoblins which survive combat after a while get tougher and more skilled.
 ## Hobgoblin Veteran
 After a few years of combat, hobgoblin veterans are tough as nails and ridiculously hard to kill.
 
+### Environment
+(FIXME)
+
+### Token
+![](HobgoblinVeteran-Token.png)
+
 >### Hobgoblin Veteran
 >*Medium humanoid (goblinoid), lawful evil*
 >___
@@ -119,7 +139,7 @@ After a few years of combat, hobgoblin veterans are tough as nails and ridiculou
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|14 (+1)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|9 (-1)|
+>|14 (+2)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|9 (-1)|
 >
 >___
 >- **Proficiency Bonus** +2
@@ -144,6 +164,13 @@ After a few years of combat, hobgoblin veterans are tough as nails and ridiculou
 ---
 
 ## Hobgoblin Sergeant
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](HobgoblinSergeant-Token.png)
 
 >### Hobgoblin Sergeant
 >*Medium humanoid (goblinoid), lawful evil*
@@ -157,7 +184,7 @@ After a few years of combat, hobgoblin veterans are tough as nails and ridiculou
 >|15 (+2)|14 (+2)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -183,6 +210,13 @@ After a few years of combat, hobgoblin veterans are tough as nails and ridiculou
 ---
 
 ## Hobgoblin Captain
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](HobgoblinCaptain-Token.png)
 
 >### Hobgoblin Captain
 >*Medium humanoid (goblinoid), lawful evil*
@@ -223,6 +257,12 @@ After a few years of combat, hobgoblin veterans are tough as nails and ridiculou
 
 ## Hobgoblin Warlord
 Hobgoblin warlords are masters of battle. Some often have additional levels in a playable class, in addition to the statistics below.
+
+### Environment
+(FIXME)
+
+### Token
+![](HobgoblinWarlord-Token.png)
 
 >### Hobgoblin Warlord
 >*Medium humanoid (goblinoid), lawful evil*
@@ -272,6 +312,12 @@ Bladebearers are often powerful warriors in their own right, and many have adven
 
 Among the [Tragedian United Hordes](../Nations/Tragekia.md), Bladebearers are known to participate and be members of the various [Dueling Colleges](../Organizations/DuelingColleges.md) there. Some will occasionally wander into [Liria](../Nations/Liria.md) in similar pursuit, though often meet with high amounts of distrust and unease, particularly if (when) they win.
 
+### Environment
+(FIXME)
+
+### Token
+![](Bladebearer-Token.png)
+
 >### Bladebearer
 >*Medium humanoid, lawful evil*
 >___
@@ -284,7 +330,7 @@ Among the [Tragedian United Hordes](../Nations/Tragekia.md), Bladebearers are kn
 >|16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -324,7 +370,13 @@ The Academy of Devastation believes that an academic approach to magic is a sign
 
 If they survive long enough, Devastators usually end up looking to join one of the Evocation-friendly [Mage Schools](../Organizations/MageSchools/index.md) to further their education, and return to their Legion even more frightening and powerful.
 
->### Hobgoblin Devastator
+### Environment
+(FIXME)
+
+### Token
+![](Devastator-Token.png)
+
+>### Devastator
 >*Medium Fey (Goblinoid), Typically Lawful Neutral*
 >___
 >- **Armor Class** 13 (studded leather)
@@ -357,11 +409,17 @@ If they survive long enough, Devastators usually end up looking to join one of t
 >***Devastating Bolt.*** Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 21 (4d8 + 3) force damage, and the target is knocked prone.
 >
 >***Spellcasting.*** The hobgoblin is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:
+>
 >* Cantrips (at will): acid splash, fire bolt, ray of frost, shocking grasp
+>
 >* 1st level (4 slots): fog cloud, magic missile, thunderwave
+>
 >* 2nd level (3 slots): gust of wind, Melf's acid arrow, scorching ray
+>
 >* 3rd level (3 slots): fireball, fly, lightning bolt
+>
 >* 4th level (1 slot): ice storm
+>
 
 ---
 
@@ -379,6 +437,12 @@ A candidate for admission undergoes a series of tests designed to reveal any pot
 Their masks also signify the supposed origin of their fighting techniques. The Children of Maglubiyet teach that the Great One stole the secrets of shadows from an archdevil, allowing his followers to conceal their identities, walk between shadows, and craft illusions to confuse and confound their enemies.
 
 It is rumored that the Order of Iron Shadows is organized precisely along the same lines as any [Monastic Order](../Organizations/MonasticOrders/MonasticOrders.md), and could--if a candidate were dedicated enough--accept candidates of other races. This is, however, entirely unproven.
+
+### Environment
+(FIXME)
+
+### Token
+![](HobgoblinIronShadow-Token.png)
 
 >### Hobgoblin Iron Shadow
 >*Medium Fey (Goblinoid), Typically Lawful Neutral*
@@ -425,6 +489,12 @@ It is rumored that the Order of Iron Shadows is organized precisely along the sa
 
 ## Kulkor Zhul War Adept
 The Kulkor Zhul War Adepts are a sect of hobgoblin that have embraced their sorcerous draconic heritage and used that to arcane advantage. They are crafty, cunning casters, and often lead hobgoblin detachments as well as support them with their spells.
+
+### Environment
+(FIXME)
+
+### Token
+![](KulkorZhulWarAdept-Token.png)
 
 >### Kulkor Zhul War Adept
 >*Medium humanoid, lawful evil*
@@ -490,6 +560,12 @@ The Kulkor Zhul War Adepts are a sect of hobgoblin that have embraced their sorc
 ## Kulkor Zhul Mindbender
 The Mindbenders are Hobgoblin bards that serve as political officers across the Hobgoblin ranks. Among other Hobgoblins, they look to persuade the members of the Legions to act steadfast and true to the cause, as well as "re-educating" those Hobgoblins that seem to question or doubt. The Mindbenders are an offshoot of the [College of Whispers](../Classes/Bard/Whispers.md), and likely the result of a direct copy of that bardic college by Hobgoblin spies millennia ago.
 
+### Environment
+(FIXME)
+
+### Token
+![](KulkorZhulMindbender-Token.png)
+
 >### Kulkor Zhul Mindbender
 >*Medium humanoid, lawful evil*
 >___
@@ -540,15 +616,21 @@ The Mindbenders are Hobgoblin bards that serve as political officers across the 
 >4th (1 slot): greater invisibility, phantasmal killer
 >
 >#### Actions
->***Shortbow.***
+>***Shortbow.*** 
 >
->***Shortsword.***
+>***Shortsword.*** 
 >
 
 ---
 
 ## Doom Hand Cleric
 The Doom Hand Clerics are a sect of Maglubiyet worshippers dedicated to the advancement of hobgoblin supremacy. They frequently rally around any Legion that makes a strong move towards the conquest of lands or cities that will benefit goblinoidkind anywhere across Azgaarnoth. While they do not bear any ill will to the Children of Maglubiyet, the two sects often disagree on the will of the Mighty One, and sometimes find themselves working to cross purposes.
+
+### Environment
+(FIXME)
+
+### Token
+![](DoomHandCleric-Token.png)
 
 >### Doom Hand Cleric
 >*Medium hobgoblin, lawful evil*
@@ -596,6 +678,12 @@ The Doom Hand Clerics are a sect of Maglubiyet worshippers dedicated to the adva
 ## Doom Fist Monk
 The Doom First Monks are a monastic order of hobgoblins dedicated to the cause of hobgoblin supremacy. They frequently rally around any Legion that makes a strong move towards the conquest of lands or cities that will benefit goblinoidkind anywhere across Azgaarnoth. The location of their chapterhouses are a closely-guarded secret, and they are second only to the Iron Shadow Monks in number.
 
+### Environment
+(FIXME)
+
+### Token
+![](DoomFistMonk-Token.png)
+
 >### Doom Fist Monk
 >*Medium humanoid, lawful evil*
 >___
@@ -608,7 +696,7 @@ The Doom First Monks are a monastic order of hobgoblins dedicated to the cause o
 >|14 (+2)|16 (+3)|15 (+2)|14 (+2)|15 (+2)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -634,3 +722,4 @@ The Doom First Monks are a monastic order of hobgoblins dedicated to the cause o
 >
 >***Javelin.*** Ranged Weapon Attack. Hit: +5, Range 20/60, One target, 1d8+3 piercing damage.
 >
+

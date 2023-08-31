@@ -3,6 +3,12 @@ These fierce and majestic monsters exhibit attributes of both birds and reptiles
 
 [Firenewts](Firenewts.md) prize giant striders and seek to adopt them whenever possible. They provide for stables of these creatures in their lairs, and in return, the giant striders voluntarily serve as mounts for firenewt warriors (in this book).
 
+### Environment
+Exotic, Swamp
+
+### Token
+![](GiantStrider-Token.png)
+
 >### Giant Strider
 >*Large Elemental, Unaligned*
 >___

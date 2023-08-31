@@ -1,9 +1,12 @@
-# Whale
+# Whales
 Most whales are spotted at a distance far from the shores of Azgaarnoth; some, however, journey closer to shore (often due to divine influence), and orca (killer whale) pods have been spotted routinely making yearly migrations from the [Deepwaters](../Geography/Deepwaters.md) to the Great Northern Ocean and back again.
 
 > Jump to: [Killer Whale](#killer-whale)
 
+---
+
 ## Killer Whale
+The orca are generally unwilling to interfere with boats (regardless of size), but have been observed aggressively attacking those ships that seek to harm them.
 
 >### Killer Whale
 >*Huge beast, unaligned*
@@ -17,7 +20,7 @@ Most whales are spotted at a distance far from the shores of Azgaarnoth; some, h
 >|19 (+4)|10 (+0)|13 (+1)|3 (-4)|12 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

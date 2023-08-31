@@ -1,7 +1,7 @@
 # Grungs
 Grungs are frog-like folk found in rain forests and tropical jungles. These amphibians prefer shade and live in trees, but they maintain hatcheries for their offspring in well-guarded ground-level pools. About three months after hatching, a grung tadpole takes on the shape of an adult, and after another six months, the grung reaches maturity.
 
-> Jump to: [Grung](#grung) | [Grung Elite Warrior](#grung-elite-warrior) | [Grung Wildling](#grung-wildling)
+> Jump to: [Grung](Grungs.md#grung) | [Grung Elite Warrior](Grungs.md#grung-elite-warrior) | [Grung Wildling](Grungs.md#grung-wildling)
 
 Born in a wide range of colors, grungs most often appear in shades of green, blue, purple, red, orange, and gold. All grungs secrete a substance that is harmless to them but poisonous to other creatures, and sometimes that substance has a special effect based on the grung's color (see "Variant: Grung Poison"). They also use this venom to poison their weapons.
 
@@ -24,6 +24,12 @@ Red Grung. The poisoned creature must use its action to eat if food is within re
 
 ## Grung
 The grung stat block represents a typical grung warrior or hunter, met either in a grung community or traveling elsewhere as a mercenary, game warden, guard, or bandit.
+
+### Environment
+(FIXME)
+
+### Token
+![](Grung-Token.png)
 
 >### Grung
 >*Small Humanoid, Any Alignment*
@@ -64,6 +70,12 @@ The grung stat block represents a typical grung warrior or hunter, met either in
 
 ## Grung Elite Warrior
 A grung elite warrior typically leads a group of grung and other warriors into battle and is often accompanied by a grung wildling.
+
+### Environment
+(FIXME)
+
+### Token
+![](GrungEliteWarrior-Token.png)
 
 >### Grung Elite Warrior
 >*Small Humanoid, Any Alignment*
@@ -108,6 +120,12 @@ A grung elite warrior typically leads a group of grung and other warriors into b
 
 ## Grung Wildling
 Gifted with druidic magic, a grung wildling typically serves as an advisor, a healer, and a nurturer of crops.
+
+### Environment
+(FIXME)
+
+### Token
+![](GrungWildling-Token.png)
 
 >### Grung Wildling
 >*Small Humanoid, Any Alignment*

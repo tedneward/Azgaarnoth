@@ -1,7 +1,7 @@
-# Centipede
+# Centipedes
 Typically, the centipede is of no threat (or even interest, except perhaps as material components for spells), but its larger kin can be unnerving--and deadly.
 
-> Jump to: [Carrion Crawler](#carrion-crawler) | [Giant Centipede](#giant-centipede) | [Swarm of Centipedes](#swarm-of-centipedes)
+> Jump to: [Carrion Crawler](Centipede.md#carrion-crawler) | [Giant Centipede](Centipede.md#giant-centipede) | [Swarm of Centipedes](Centipede.md#swarm-of-centipedes)
 
 ---
 
@@ -16,6 +16,12 @@ A carrion crawler roams on the hunt, its tentacles probing the air for the scent
 
 When facing potential prey or intruders, a carrion crawler lets its poison do the work. Once a victim goes rigid with paralysis, the carrion crawler wraps it with its tentacles and drags it away to a high ledge or isolated passageway, where it can be killed safely. The monster then resumes patrolling its territory while waiting for its meal to ripen.
 
+### Environment
+Forest, Ruins, Swamp, Underdark, Urban
+
+### Token
+![](CarrionCrawler-Token.png)
+
 >### Carrion Crawler
 >*Large monstrosity, unaligned*
 >___
@@ -28,7 +34,7 @@ When facing potential prey or intruders, a carrion crawler lets its poison do th
 >|14 (+2)|13 (+1)|16 (+3)|1 (-5)|12 (+1)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -56,6 +62,12 @@ When facing potential prey or intruders, a carrion crawler lets its poison do th
 ## Giant Centipede
 Giant centipedes can be found in many cavern systems across Azgaarnoth, particularly close to easy sources of food (such as down-on-their-luck kobold tribes).
 
+### Environment
+Forest, Ruins, Swamp, Underdark, Urban
+
+### Token
+![](GiantCentipede-Token.png)
+
 >### Giant Centipede
 >*Small beast, unaligned*
 >___
@@ -68,7 +80,7 @@ Giant centipedes can be found in many cavern systems across Azgaarnoth, particul
 >|5 (-3)|14 (+2)|12 (+1)|1 (-5)|7 (-2)|3 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -88,6 +100,12 @@ Giant centipedes can be found in many cavern systems across Azgaarnoth, particul
 ## Swarm of Centipedes
 The swarms presented here aren't ordinary or benign assemblies of little creatures. They form as a result of some sinister or unwholesome influence. Even druids can't charm these swarms, and their aggressiveness is borderline unnatural.
 
+### Environment
+Forest, Ruins, Swamp, Underdark, Urban, Conjured/Summoned
+
+### Token
+![](SwarmofCentipedes-Token.png)
+
 >### Swarm of Centipedes
 >*Medium swarm, unaligned*
 >___
@@ -100,7 +118,7 @@ The swarms presented here aren't ordinary or benign assemblies of little creatur
 >|3 (-4)|13 (+1)|10 (+0)|1 (-5)|7 (-2)|1 (-5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning,piercing,slashing

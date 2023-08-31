@@ -9,6 +9,12 @@ A roper can digest anything it eats with the exception of platinum, gemstones, a
 
 ***Weakening Tendrils.*** A roper has six nubs set along its body, through which it extrudes sticky tendrils that bond to whatever they touch. Each tendril sends out hair-like growths that penetrate a creature's flesh and sap its strength, so the victim can struggle only weakly as the roper reels it in. If a tendril is cut through or broken, the roper produces a new one to replace it.
 
+### Environment
+(FIXME)
+
+### Token
+![](Roper-Token.png)
+
 >### Roper
 >*Large monstrosity, neutral evil*
 >___
@@ -21,7 +27,7 @@ A roper can digest anything it eats with the exception of platinum, gemstones, a
 >|18 (+4)|8 (-1)|17 (+3)|7 (-2)|16 (+3)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

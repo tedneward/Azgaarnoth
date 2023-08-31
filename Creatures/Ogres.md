@@ -1,7 +1,7 @@
 # Ogres
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
 
-> Jump to: [Ogre](#Ogre) | [Battering Ram](#battering-ram) | [Bolt Launcher](#bolt-launcher) | [Chain Brute](#chain-brute) | [Howdah](#howdah) | [Half-Ogre](#Half-Ogre) | [Ogre Mage](#ogre-mage) | [Oni](#Oni)
+> Jump to: [Ogre](Ogres.md#ogre) | [Ogre Battering Ram](Ogres.md#ogre-battering-ram) | [Ogre Bolt Launcher](Ogres.md#ogre-bolt-launcher) | [Ogre Chain Brute](Ogres.md#ogre-chain-brute) | [Ogre Howdah](Ogres.md#ogre-howdah) | [Half-Ogre](Ogres.md#half-ogre) | [Oni](Ogres.md#oni) | [Ogre Mage](Ogres.md#ogre-mage)
 
 ***Furious Tempers.*** Ogres are notorious for their quick tempers, which flare at the smallest perceived offense. Insults and name-calling can rouse an ogre's wrath in an instant — as can stealing from it, bumping, jabbing, or prodding it, laughing, making faces, or simply looking at it the wrong way. When its rage is incited, an ogre lashes out in a frustrated tantrum until it runs out of objects or creatures to smash.
 
@@ -28,6 +28,13 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 ---
 
 ## Ogre
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](Ogre-Token.png)
 
 >### Ogre
 >*Large giant, chaotic evil*
@@ -41,7 +48,7 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 >|19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -60,16 +67,20 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 
 ---
 
-## Battering Ram
-![Ogre Battering Ram](Ogre-BatteringRam.png)
+## Ogre Battering Ram
+An ogre battering ram carries an enormous club that's primarily used for bashing doors into kindling but also works well for smashing foes. These ogres are drilled in two simple tasks: rushing forward to shatter enemy fortifications and using their weapons to force an advancing enemy to halt.
 
-An ogre battering ram carries an enormous club used primarily for bashing doors into kindling, but which also works well for smashing foes. These ogres are drilled in two simple tasks: rushing forward to shatter enemy fortifications, and using their weapons to force an advancing enemy to halt.
+### Environment
+(FIXME)
 
->### Battering Ram
->*Large giant, chaotic evil*
+### Token
+![](OgreBatteringRam-Token.png)
+
+>### Ogre Battering Ram
+>*Large Giant, Typically Chaotic Evil*
 >___
->- **Armor Class** 14 (ring mail)
->- **Hit Points** 59 (7d10 + 21)
+>- **Armor Class** 11 (hide armor)
+>- **Hit Points** 76 (9d10 + 27)
 >- **Speed** 40 ft.
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
@@ -77,7 +88,7 @@ An ogre battering ram carries an enormous club used primarily for bashing doors 
 >|19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -91,18 +102,27 @@ An ogre battering ram carries an enormous club used primarily for bashing doors 
 >***Siege Monster.*** The ogre deals double damage to objects and structures.
 >
 >#### Actions
->***Bash.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) bludgeoning damage, and the ogre can push the target 5 feet away if the target is Huge or smaller.
+>***Multiattack.*** The ogre makes two Bash attacks.
 >
->***Block the Path.*** Until the start of the ogre's next turn, attack rolls against the ogre have disadvantage, it has advantage on the attack roll it makes for an opportunity attack, and that attack deals an extra 16 (3d10) bludgeoning damage on a hit. Also, each enemy that tries to move out of the ogre's reach without teleporting must succeed on a DC 14 Strength saving throw or have its speed reduced to 0 until the start of the ogre's next turn.
+>***Bash.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) bludgeoning damage, and the ogre can push the target 5 feet away if the target is a Huge or smaller creature.
+>
+>#### Reactions
+>***Block the Path.*** When a creature enters a space within 5 feet of the ogre, the ogre makes a Bash attack against that creature. If the attack hits, the target's speed is reduced to 0 until the start of the ogre's next turn.
 >
 
 ---
 
-## Bolt Launcher
-A bolt launcher carries a gigantic crossbow — a weapon so large it's essentially an ogre-held ballista. An ogre bolt launcher can load this immense weapon and loose its deadly missile as quickly as a dwarf handles a crossbow. The bolts are so large that few ogres can carry more than a half-dozen at a time, but bolt launchers have been known to uproot small trees or tear beams out of buildings and launch those when their ammunition runs low.
+## Ogre Bolt Launcher
+A bolt launcher carries a gigantic crossbow--a weapon so large it's essentially an ogre-held ballista. An ogre bolt launcher can load this immense weapon and loose its deadly missile as quickly as a dwarf handles a crossbow. The bolts are so large that few ogres can carry more than a half dozen at a time, but bolt launchers have been known to uproot small trees or tear beams out of buildings and launch those when their ammunition runs low.
 
->### Bolt Launcher
->*Large giant, chaotic evil*
+### Environment
+(FIXME)
+
+### Token
+![](OgreBoltLauncher-Token.png)
+
+>### Ogre Bolt Launcher
+>*Large Giant, Typically Chaotic Evil*
 >___
 >- **Armor Class** 13 (hide armor)
 >- **Hit Points** 59 (7d10 + 21)
@@ -113,7 +133,7 @@ A bolt launcher carries a gigantic crossbow — a weapon so large it's essential
 >|19 (+4)|12 (+1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -132,13 +152,19 @@ A bolt launcher carries a gigantic crossbow — a weapon so large it's essential
 
 ---
 
-## Chain Brute
-An ogre chain brute wields a great spiked chain. It swings this chain with both hands in a wide circle around itself to knock foes off their feet. Alternatively, it can swing the chain in a crushing overhead smash that's nearly impossible to block or deflect.
+## Ogre Chain Brute
+An ogre chain brute wields a great spiked chain, swinging it with both hands in a wide circle to knock foes off their feet. Alternatively, the ogre can swing the chain in a crushing overhead smash.
 
->### Chain Brute
->*Large giant, chaotic evil*
+### Environment
+(FIXME)
+
+### Token
+![](OgreChainBrute-Token.png)
+
+>### Ogre Chain Brute
+>*Large Giant, Typically Chaotic Evil*
 >___
->- **Armor Class** 12 (hide armor)
+>- **Armor Class** 11 (hide armor)
 >- **Hit Points** 59 (7d10 + 21)
 >- **Speed** 40 ft.
 >___
@@ -147,7 +173,7 @@ An ogre chain brute wields a great spiked chain. It swings this chain with both 
 >|19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -161,20 +187,26 @@ An ogre chain brute wields a great spiked chain. It swings this chain with both 
 >#### Actions
 >***Fist.*** Melee Weapon Attack: +6 to hit, reach ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.
 >
->***Chain Sweep.*** The ogre swings its chain, and every creature within 10 feet of it must make a DC 14 Dexterity saving throw. On a failed saving throw, a creature takes 8 (1d8 + 4) bludgeoning damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
+>***Chain Smash (Recharge 6).*** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage, and the target must succeed on a DC 14 Constitution saving throw or be stunned for 1 minute. The target repeats the saving throw if it takes damage and at the end of each of its turns, ending the effect on itself on a success.
 >
->***Chain Smash (Recharge 6).*** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage, and the target must succeed on a DC 14 Constitution saving throw or be knocked unconscious for 1 minute. The unconscious target repeats the saving throw if it takes damage and at the end of each of its turns, ending the effect on itself on a success.
+>***Chain Sweep.*** The ogre swings its chain, and each creature within 10 feet of it must make a DC 14 Dexterity saving throw. On a failed saving throw, a creature takes 8 (1d8 + 4) bludgeoning damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
 >
 
 ---
 
-## Howdah
-![Ogre Howdah](Ogre-Howdah.png) The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort is big enough to serve as a fighting platform for up to four small humanoids. Ogre howdahs are most often seen bearing goblins equipped with bows and spears into battle, but they could just as easily transport kobolds, deep gnomes, or other humanoids of similar size.
+## Ogre Howdah
+The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding goblins into battle, or perhaps kobolds or deep gnomes (all three appear in the Monster Manual), but they might also transport other Small folk.
 
->### Howdah
->*Large giant, chaotic evil*
+### Environment
+(FIXME)
+
+### Token
+![](OgreHowdah-Token.png)
+
+>### Ogre Howdah
+>*Large Giant, Typically Chaotic Evil*
 >___
->- **Armor Class** 13 (breastplate)
+>- **Armor Class** 15 (breastplate, shield)
 >- **Hit Points** 59 (7d10 + 21)
 >- **Speed** 40 ft.
 >___
@@ -183,7 +215,7 @@ An ogre chain brute wields a great spiked chain. It swings this chain with both 
 >|19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -197,7 +229,7 @@ An ogre chain brute wields a great spiked chain. It swings this chain with both 
 >***Howdah.*** The ogre carries a compact fort on its back. Up to four Small creatures can ride in the fort without squeezing. To make a melee attack against a target within 5 feet of the ogre, they must use spears or weapons with reach. Creatures in the fort have three-quarters cover against attacks and effects from outside it. If the ogre dies, creatures in the fort are placed in unoccupied spaces within 5 feet of the ogre.
 >
 >#### Actions
->***Mace.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
+>***Fist.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 >
 
 ---
@@ -211,6 +243,12 @@ Although many half-ogres have lost the beastility and/or legendary stupidity of 
 
 ***Playable Race: Mass in Action.*** Many heroes of note have been [half-ogres](../Races/Half-Ogre.md)
 
+### Environment
+(FIXME)
+
+### Token
+![](Half-Ogre-Token.png)
+
 >### Half-Ogre
 >*Large giant, any chaotic alignment*
 >___
@@ -223,7 +261,7 @@ Although many half-ogres have lost the beastility and/or legendary stupidity of 
 >|17 (+3)|10 (+0)|14 (+2)|7 (-2)|9 (-1)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -249,6 +287,12 @@ In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of childr
 
 ***Magical Ogres.*** Oni are sometimes called ogre mages because of their innate magical ability. Though they are only distantly related to true ogres, they share the ogres' habit of joining forces with other evil creatures. An oni serves a master if doing so proves lucrative or provides it with a luxurious, well-defended home. Oni covet magic, and they work for evil wizards and hags in exchange for useful magic items.
 
+### Environment
+(FIXME)
+
+### Token
+![](Oni-Token.png)
+
 >### Oni
 >*Large giant, lawful evil*
 >___
@@ -261,7 +305,7 @@ In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of childr
 >|19 (+4)|11 (+0)|16 (+3)|14 (+2)|12 (+1)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Dex +3,Con +6,Wis +4,Cha +5
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -296,6 +340,12 @@ In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of childr
 
 ## Ogre Mage
 Ogres are not known for their magical prowess. Few have any amount of respect for nature, though many ogres worship Vaprak, few rise to become clerics and the stupid and impatient ogres make for poor scholars. Therefore, most ogre spellcasters are sorcerers, but even among these sorcerers, it is rare that their talents are respected by their fellows and rarer still for the ogres in question to have any real understanding of the forces they wield in battle. Some few, however, are born with greater intelligence (or wisdom, or cunning, depending on how you look at it), and become incredibly dangerous creatures.
+
+### Environment
+(FIXME)
+
+### Token
+![](OgreMage-Token.png)
 
 >### Ogre Mage
 >*Large giant, chaotic evil*
@@ -341,3 +391,4 @@ Ogres are not known for their magical prowess. Few have any amount of respect fo
 >#### Actions
 >***Morningstar.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 3) piercing damage.
 >
+

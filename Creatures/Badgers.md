@@ -1,14 +1,18 @@
 # Badgers
 Badgers. And giant badgers.
 
-> Jump to: [Badger](#badger) | [Giant Badger](#giant-badger) | [Cave Badger](#cave-badger)
+> Jump to: [Badger](Badgers.md#badger) | [Giant Badger](Badgers.md#giant-badger) | [Cave Badger](Badgers.md#cave-badger)
 
 ---
 
 ## Badger
+(No description given)
 
 ### Environment
 Forest
+
+### Token
+![](Badger-Token.png)
 
 >### Badger
 >*Tiny beast, unaligned*
@@ -46,6 +50,9 @@ The giant badger is believed to be a wizard's experiment that got loose into the
 
 ### Environment
 Forest
+
+### Token
+![](GiantBadger-Token.png)
 
 >### Giant Badger
 >*Medium beast, unaligned*
@@ -86,7 +93,10 @@ Forest
 The cave badger is an adaptation of the giant badger to a more underground environment, though they still like to get out among the trees every so often. Their hide is tougher, however, and their personality is much more defensive/tenacious.
 
 ### Environment
-Forest
+Forest, Underdark
+
+### Token
+![](CaveBadger-Token.png)
 
 >### Cave Badger
 >*Medium beast, unaligned*
@@ -120,3 +130,4 @@ Forest
 >
 >***Claws.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage.
 >
+

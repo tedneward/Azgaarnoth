@@ -7,6 +7,12 @@ A piercer is the larval form of a roper, and the two creatures often attack in t
 
 Piercers gather in colonies to maximize the effectiveness of their attacks, dropping simultaneously to increase the odds of striking prey. After a piercer successfully slays a creature, the others slowly creep toward the corpse to join in the feast.
 
+### Environment
+Mountain, Underdark
+
+### Token
+![](Piercer-Token.png)
+
 >### Piercer
 >*Medium monstrosity, unaligned*
 >___
@@ -19,7 +25,7 @@ Piercers gather in colonies to maximize the effectiveness of their attacks, drop
 >|10 (+0)|13 (+1)|16 (+3)|1 (-5)|7 (-2)|3 (-4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

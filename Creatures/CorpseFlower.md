@@ -3,6 +3,12 @@ A corpse flower can sprout atop the grave of an evil necromancer or the remains 
 
 With or without corpses nested in its body, a corpse flower exudes a stench of decay that can overwhelm the senses of nearby creatures, causing them to become nauseated. The stench, which serves as a defense mechanism, fades 2d4 days after the corpse flower dies.
 
+### Environment
+Swamp, Ruins, Underdark
+
+### Token
+![](CorpseFlower-Token.png)
+
 >### Corpse Flower
 >*Large Plant, Typically Chaotic Evil*
 >___

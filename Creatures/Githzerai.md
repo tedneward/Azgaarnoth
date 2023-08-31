@@ -1,7 +1,7 @@
 # Githzerai
 Githzerai are otherworldly folk with psionic powers who share an ancestral link to githyanki (also in this book). The githzerai followers of the great leader Zaerith Menyar-Ag-Gith are an ascetic people who live apart from the rest of the cosmos, within the confines of fortresses floating through the chaos of Limbo. Instead of imposing their will on other peoples, they focus on controlling and manipulating their endlessly malleable home.
 
-> Jump to: [Githzerai Anarch](#githzerai-anarch) | [Githzerai Enlightened](#githzerai-enlightened) | [Enlightened](#githzerai-enlightened) | [Anarch](#githzerai-anarch)
+> Jump to: [Githzerai Monk](Githzerai.md#githzerai-monk) | [Githzerai Zerth](Githzerai.md#githzerai-zerth) | [Githzerai Anarch](Githzerai.md#githzerai-anarch) | [Githzerai Enlightened](Githzerai.md#githzerai-enlightened)
 
 Focused philosophers and austere ascetics, the githzerai pursue lives of rigid order. Lean and muscular, they wear unadorned clothing free of ornamentation, keeping their own counsel and trusting few creatures outside of their own kind. Having turned their backs on their warlike githyanki kin, the githzerai maintain a strict monastic lifestyle, dwelling on islands of order in the vast sea of chaos that is the plane of Limbo.
 
@@ -26,6 +26,13 @@ As disciplined as they are, the githzerai have never forgotten their long impris
 ---
 
 ## Githzerai Monk
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](GithzeraiMonk-Token.png)
 
 >### Githzerai Monk
 >*Medium humanoid (gith), lawful neutral*
@@ -39,7 +46,7 @@ As disciplined as they are, the githzerai have never forgotten their long impris
 >|12 (+1)|15 (+2)|12 (+1)|13 (+1)|14 (+2)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Str +3,Dex +4,Int +3,Wis +4
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -69,6 +76,12 @@ As disciplined as they are, the githzerai have never forgotten their long impris
 ## Githzerai Zerth
 Skilled githzerai monks that best exemplify the teachings and principles of Zerthimon are called zerths. These powerful and disciplined monks can shift their bodies from one plane to another using only the power of their minds.
 
+### Environment
+(FIXME)
+
+### Token
+![](GithzeraiZerth-Token.png)
+
 >### Githzerai Zerth
 >*Medium humanoid (gith), lawful neutral*
 >___
@@ -81,7 +94,7 @@ Skilled githzerai monks that best exemplify the teachings and principles of Zert
 >|13 (+1)|18 (+4)|15 (+2)|16 (+3)|17 (+3)|12 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Str +4,Dex +7,Int +6,Wis +6
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -112,6 +125,12 @@ Skilled githzerai monks that best exemplify the teachings and principles of Zert
 
 ## Githzerai Anarch
 Anarchs are githzerai sages and mystics who lead communities and maintain the adamantine citadels that serve as strong points in Limbo and on other planes. They have formidable psionic capabilities and are able to manipulate the unformed substance of their adopted plane with a thought.
+
+### Environment
+(FIXME)
+
+### Token
+![](GithzeraiAnarch-Token.png)
 
 >### Githzerai Anarch
 >*Medium Humanoid (Gith), Any Alignment*
@@ -162,23 +181,42 @@ Anarchs are githzerai sages and mystics who lead communities and maintain the ad
 >
 >***Change Gravity (Costs 3 Actions).*** The githzerai casts the reverse gravity spell, using Wisdom as the spellcasting ability. The spell has the normal effect, except that the githzerai can orient the area in any direction and creatures and objects fall toward the end of the area.
 >
+>### Lair Actions
+>
+> Create Object. The anarch casts the creation spell (as a 9th-level spell) using the unformed substance of Limbo instead of shadow material. If used in Limbo, the object remains until the anarch's concentration is broken, regardless of its composition. If the anarch moves more than 120 feet from the object, the anarch's concentration breaks.
+>
+> Move Object. The anarch can magically move an object it can see within 150 feet of it by making a Wisdom check with advantage. The DC depends on the object's size: DC 5 for Tiny, DC 10 for Small, DC 15 for Medium, DC 20 for Large, and DC 25 for Huge or larger.
+>
+> Psionic Bolt. The anarch casts the lightning bolt spell (at 5th level), but the anarch can change the damage type from lightning to cold, fire, psychic, radiant, or thunder. If the spell deals damage other than fire or lightning, it doesn't ignite flammable objects.
+>
+>### Regional Effects
+>
+> Form Substance. In Limbo, the anarch can spend 10 minutes stabilizing a 5-mile area centered on it, causing the unformed substance to take whatever inanimate form the anarch chooses. During that process, the anarch determines the shape and composition of the forms created.
+>
+> Stabilize Object. The anarch stabilizes any object created in Limbo and brought to the Material Plane for as long as the anarch remains within 1 mile of it (no action required).
+>
+> If the anarch dies, these effects end after 1d6 rounds. All formed substance becomes a chaotic churn of energy and matter, unraveling into unformed substance that dissipates 1d6 rounds later.
+>
 
 ### A Githzerai Anarch's Lair
 In Limbo, githzerai anarchs create islands of tranquility in this turbulent plane. An anarch can use its psionic power to give form to formless substance, creating mountains, lakes, and structures to serve as a foundation for a githzerai community.The anarch's challenge rating is 17 (18,000 XP) when it's encountered in its lair.
 
 #### Lair Actions
-* Create Object. The anarch casts the creation spell (as a 9th-level spell) using the unformed substance of Limbo instead of shadow material. If used in Limbo, the object remains until the anarch's concentration is broken, regardless of its composition. If the anarch moves more than 120 feet from the object, the anarch's concentration breaks.
-* Move Object. The anarch can magically move an object it can see within 150 feet of it by making a Wisdom check with advantage. The DC depends on the object's size: DC 5 for Tiny, DC 10 for Small, DC 15 for Medium, DC 20 for Large, and DC 25 for Huge or larger.
-* Psionic Bolt. The anarch casts the lightning bolt spell (at 5th level), but the anarch can change the damage type from lightning to cold, fire, psychic, radiant, or thunder. If the spell deals damage other than fire or lightning, it doesn't ignite flammable objects.
+
+
 #### Regional Effects
-* Form Substance. In Limbo, the anarch can spend 10 minutes stabilizing a 5-mile area centered on it, causing the unformed substance to take whatever inanimate form the anarch chooses. During that process, the anarch determines the shape and composition of the forms created.
-* Stabilize Object. The anarch stabilizes any object created in Limbo and brought to the Material Plane for as long as the anarch remains within 1 mile of it (no action required).
-* If the anarch dies, these effects end after 1d6 rounds. All formed substance becomes a chaotic churn of energy and matter, unraveling into unformed substance that dissipates 1d6 rounds later.
+
 
 ---
 
 ## Githzerai Enlightened
 Some spiritual githzerai spend long hours in meditation to transcend the limits of their forms and to apprehend the nature of reality. Zerths who complete the next tier of their training become known as the enlightened.
+
+### Environment
+(FIXME)
+
+### Token
+![](GithzeraiEnlightened-Token.png)
 
 >### Githzerai Enlightened
 >*Medium Humanoid (Gith), Any Alignment*

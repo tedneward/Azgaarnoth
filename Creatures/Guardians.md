@@ -1,7 +1,7 @@
 # Guardians
 Wizards and other spellcasters create guardians for protection. A guardian treads beside its master, absorbing damage to keep its master alive as long as possible.
 
-> Jump to: [shield](#shield-guardian) | [barbed](#barbed-guardian)
+> Jump to: [Shield Guardian](Guardians.md#shield-guardian) | [Barbed Guardian](Guardians.md#barbed-guardian)
 
 **Master's Amulet.** Every guardian has an amulet magically linked to it. A guardian can have only one corresponding amulet, and if that amulet is destroyed, the guardian is incapacitated until a replacement amulet is created. A guardian's amulet is subject to direct attack if it isn't being worn or carried. It has AC 10, 10 hit points, and immunity to poison and psychic damage. Crafting an amulet requires 1 week and costs 1,000 gp in components.
 
@@ -15,6 +15,12 @@ A guardian's solitary focus is to protect the amulet's wearer. The amulet's wear
 
 ## Shield Guardian
 ***Spell storage.*** A spellcaster can store a single spell within a shield guardian, which can then cast the spell on command or under specific conditions. Many a wizard has been rendered helpless by enemies, only to surprise those foes when its shield guardian unleashes potent magical power.
+
+### Environment
+(FIXME)
+
+### Token
+![](ShieldGuardian-Token.png)
 
 >### Shield Guardian
 >*Large construct, unaligned*
@@ -56,6 +62,13 @@ A guardian's solitary focus is to protect the amulet's wearer. The amulet's wear
 ---
 
 ## Barbed Guardian
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](BarbedGuardian-Token.png)
 
 >### Barbed Guardian
 >*Large construct, unaligned*
@@ -92,3 +105,4 @@ A guardian's solitary focus is to protect the amulet's wearer. The amulet's wear
 >#### Reactions
 >***Shield.*** When a creature makes an attack against the wearer of the guardian's amulet, the guardian grants a +2 bonus to the wearer's AC if the guardian is within 5 feet of the wearer.
 >
+

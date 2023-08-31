@@ -1,7 +1,7 @@
 # Duergar Constructs
 Creative duergar engineers have built numerous war machines, including some that can be fused with a duergar. Such a duergar-machine hybrid is fueled by the duergar's psionic energy, and the duergar inside the machine can psychically channel pain into power when attacked.
 
-> Jump to: [Duergar Hammerer](#duergar-hammerer) | [Duergar Screamer](#duergar-screamer)
+> Jump to: [Duergar Hammerer](DuergarConstructs.md#duergar-hammerer) | [Duergar Screamer](DuergarConstructs.md#duergar-screamer)
 
 These machines are deployed to assist with construction projects and war. Some duergar bravely volunteer to become hybrids, while other duergar are forced into the fusion by Underdark tyrants.
 
@@ -10,6 +10,12 @@ Unless incapacitated, the duergar inside a machine can extricate themself from i
 
 ## Duergar Hammerer
 The duergar hammerer is a digging machine and siege engine, used to dig tunnels and besiege enemy fortifications.
+
+### Environment
+(FIXME)
+
+### Token
+![](DuergarHammerer-Token.png)
 
 >### Duergar Hammerer
 >*Medium Construct (Dwarf), Any Alignment*
@@ -51,6 +57,12 @@ The duergar hammerer is a digging machine and siege engine, used to dig tunnels 
 
 ## Duergar Screamer
 A duergar screamer uses sonic energy to grind rock into dust and to hurl invaders to the ground.
+
+### Environment
+(FIXME)
+
+### Token
+![](DuergarScreamer-Token.png)
 
 >### Duergar Screamer
 >*Medium Construct (Dwarf), Any Alignment*

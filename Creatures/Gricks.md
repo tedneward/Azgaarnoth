@@ -1,18 +1,27 @@
 # Gricks
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.
 
-
-> Jump to: [Grick](#grick) | [Grick Alpha](#grick-alpha)
+> Jump to: [Grick](Gricks.md#grick) | [Grick Alpha](Gricks.md#grick-alpha)
 
 ***Passive Predators.*** Gricks rarely hunt. Instead, they drag their rubbery bodies to places where creatures regularly pass, lurking out of sight amid rocky rubble and debris, squeezing into burrows, holes, or crevices, climbing up to ledges, or coiling around stalactites to drop on unwary prey. A grick consumes virtually anything that moves except for other gricks. It targets the nearest prey, grabbing a fallen creature with its tentacles and dragging it off to eat alone.
 
 ***Roving Ambushers.*** Gricks remain in an area until the food supply dwindles, often because sentient creatures become aware of their presence and plot alternate routes around their lairs. When prey is scarce in the Underdark, gricks venture aboveground to hunt in the wilderness, lurking in trees or on cliff-side ledges. A grick pack is often led by a single well-fed, oversized alpha around which the others congregate.
 
-**Spoils of Slaughter.** Over time, grick lairs accumulate the cast-off possessions of intelligent prey, and expert guides know to look out for these telltale signs. Underdark explorers sometimes seal off the routes leading to and from a grick lair to starve them, then claim the wealth of the foul creatures' victims.
+***Spoils of Slaughter.*** Over time, grick lairs accumulate the cast-off possessions of intelligent prey, and expert guides know to look out for these telltale signs. Underdark explorers sometimes seal off the routes leading to and from a grick lair to starve them, then claim the wealth of the foul creatures' victims.
+
+### Environment
+Underdark
 
 ---
 
 ## Grick
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](Grick-Token.png)
 
 >### Grick
 >*Medium monstrosity, neutral*
@@ -26,7 +35,7 @@ The wormlike grick waits unseen, blending in with the rock of the caves and cave
 >|14 (+2)|14 (+2)|11 (+0)|3 (-4)|14 (+2)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning,piercing,and slashing damage from nonmagical attacks
@@ -50,6 +59,13 @@ The wormlike grick waits unseen, blending in with the rock of the caves and cave
 ---
 
 ## Grick Alpha
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](GrickAlpha-Token.png)
 
 >### Grick Alpha
 >*Large monstrosity, neutral*
@@ -63,7 +79,7 @@ The wormlike grick waits unseen, blending in with the rock of the caves and cave
 >|18 (+4)|16 (+3)|15 (+2)|4 (-3)|14 (+2)|9 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning,piercing,and slashing damage from nonmagical attacks

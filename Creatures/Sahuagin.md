@@ -1,7 +1,7 @@
 # Sahuagin
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn -- a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
 
-> Jump to: [Sahuagin](#Sahuagin) | [Sahuagin Priestess](#Sahuagin Priestess) | [Sahuagin Baron](#Sahuagin Baron)
+> Jump to: [Sahuagin](Sahuagin.md#sahuagin) | [Sahuagin Priestess](Sahuagin.md#sahuagin-priestess) | [Sahuagin Baron](Sahuagin.md#sahuagin-baron)
 
 ***Devils of the Deep.*** Sahuagin are a predatory, piscine race that ventures from the ocean's black depths to hunt the creatures of the shallows and shore. Though they dwell in the deepest trenches of the ocean, sahuagin view the entire aquatic realm as their kingdom and the creatures in it as blood sport for their hunting parties.
 
@@ -20,6 +20,13 @@ The sahuagin put the *malenti* to good use as spies and assassins in aquatic elf
 ---
 
 ## Sahuagin
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](Sahuagin-Token.png)
 
 >### Sahuagin
 >*Medium humanoid (sahuagin), lawful evil*
@@ -33,7 +40,7 @@ The sahuagin put the *malenti* to good use as spies and assassins in aquatic elf
 >|13 (+1)|11 (+0)|12 (+1)|12 (+1)|13 (+1)|9 (-1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -63,6 +70,13 @@ The sahuagin put the *malenti* to good use as spies and assassins in aquatic elf
 ---
 
 ## Sahuagin Priestess
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](SahuaginPriestess-Token.png)
 
 >### Sahuagin Priestess
 >*Medium humanoid (sahuagin), lawful evil*
@@ -76,7 +90,7 @@ The sahuagin put the *malenti* to good use as spies and assassins in aquatic elf
 >|13 (+1)|11 (+0)|12 (+1)|12 (+1)|14 (+2)|13 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -114,6 +128,13 @@ The sahuagin put the *malenti* to good use as spies and assassins in aquatic elf
 ---
 
 ## Sahuagin Baron
+(No description given)
+
+### Environment
+(FIXME)
+
+### Token
+![](SahuaginBaron-Token.png)
 
 >### Sahuagin Baron
 >*Large humanoid (sahuagin), lawful evil*
@@ -127,7 +148,7 @@ The sahuagin put the *malenti* to good use as spies and assassins in aquatic elf
 >|19 (+4)|15 (+2)|16 (+3)|14 (+2)|13 (+1)|17 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Dex +5,Con +6,Int +5,Wis +4
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

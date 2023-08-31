@@ -11,6 +11,12 @@ Many hunters seek the shell for its antimagic properties. A skilled armorer can 
 
 A flail snail shell can also be used to make a robe of scintillating colors. The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
 
+### Environment
+(FIXME)
+
+### Token
+![](FlailSnail-Token.png)
+
 >### Flail Snail
 >*Large Elemental, Unaligned*
 >___

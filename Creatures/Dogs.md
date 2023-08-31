@@ -1,7 +1,7 @@
 # Dogs
 From "bark bark" to "Oh shit we need to get out of here NOW" canines.
 
-> Jump to: [Dog](#dog) | [Blink Dog](#blink-dog) | [Death Dog](#death-dog) | [Giant Hyena](#giant-hyena) | [Hell Hound](#hell-hound) | [Hyena](#hyena) | [Jackal](#jackal) | [Mastiff](#mastiff) | [Withered Hound](#withered-hound) | [Shadow Mastiff](#shadow-mastiff) | [Yeth Hound](#yeth-hound)
+> Jump to: [Blink Dog](Dogs.md#blink-dog) | [Death Dog](Dogs.md#death-dog) | [Dog](Dogs.md#dog) | [Giant Hyena](Dogs.md#giant-hyena) | [Hell Hound](Dogs.md#hell-hound) | [Hyena](Dogs.md#hyena) | [Jackal](Dogs.md#jackal) | [Mastiff](Dogs.md#mastiff) | [Withered Hound](Dogs.md#withered-hound) | [Shadow Mastiff](Dogs.md#shadow-mastiff) | [Yeth Hound](Dogs.md#yeth-hound)
 
 ---
 
@@ -9,6 +9,12 @@ From "bark bark" to "Oh shit we need to get out of here NOW" canines.
 ![](Dog-Blink.png)
 
 A blink dog takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long-standing hatred for displacer beasts and attack them on sight.
+
+### Environment
+Forest
+
+### Token
+![](BlinkDog-Token.png)
 
 >### Blink Dog
 >*Medium fey, lawful good*
@@ -22,7 +28,7 @@ A blink dog takes its name from its ability to blink in and out of existence, a 
 >|12 (+1)|17 (+3)|12 (+1)|10 (+0)|13 (+1)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -50,6 +56,12 @@ A blink dog takes its name from its ability to blink in and out of existence, a 
 
 A death dog is an ugly two-headed hound that roams plains, deserts, and the Underdark. Hate burns in a death dog's heart, and a taste for humanoid flesh drives it to attack travelers and explorers. Death dog saliva carries a foul disease that causes a victim's flesh to slowly rot off the bone.
 
+### Environment
+Desert, Grassland, Underdark
+
+### Token
+![](DeathDog-Token.png)
+
 >### Death Dog
 >*Medium monstrosity, neutral evil*
 >___
@@ -62,7 +74,7 @@ A death dog is an ugly two-headed hound that roams plains, deserts, and the Unde
 >|15 (+2)|14 (+2)|14 (+2)|3 (-4)|13 (+1)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -84,6 +96,13 @@ A death dog is an ugly two-headed hound that roams plains, deserts, and the Unde
 ---
 
 ## Dog
+Humanoid's best friend.
+
+### Environment
+Coastal, Desert, Grassland, Hill, Ruins, Urban
+
+### Token
+![](Dog-Token.png)
 
 >### Dog
 >*Small beast, unaligned*
@@ -97,7 +116,7 @@ A death dog is an ugly two-headed hound that roams plains, deserts, and the Unde
 >|3 (-4)|15 (+2)|10 (+0)|3 (-4)|12 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -121,6 +140,12 @@ A death dog is an ugly two-headed hound that roams plains, deserts, and the Unde
 ## Giant Hyena
 The giant hyena is often the leader of a pack of normal-sized hyenas, though periodically a pride of giant hyenas have been spotted in the wild. They are fearsome hunters and fiendish packs, and their hooting calls are often heard as laughter that sets their victims' fears ablaze.
 
+### Environment
+Desert, Forest, Grassland
+
+### Token
+![](GiantHyena-Token.png)
+
 >### Giant Hyena
 >*Large beast, unaligned*
 >___
@@ -133,7 +158,7 @@ The giant hyena is often the leader of a pack of normal-sized hyenas, though per
 >|16 (+3)|14 (+2)|14 (+2)|2 (-4)|12 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -165,6 +190,12 @@ When hell hounds feed, the flesh they consume stokes the infernal fires that bur
 
 ***Evil to the Core.*** Hell hounds are smarter than mundane beasts, and their lawful nature makes them good at following orders. However, a hell hound's evil disposition means that the creature can't be trained to be anything other than a ruthless killer. If a hell hound isn't allowed to indulge its malevolent hunger, it quickly abandons or turns against its master.
 
+### Environment
+Extraplanar, Conjured/Summoned
+
+### Token
+![](HellHound-Token.png)
+
 >### Hell Hound
 >*Medium fiend, lawful evil*
 >___
@@ -177,7 +208,7 @@ When hell hounds feed, the flesh they consume stokes the infernal fires that bur
 >|17 (+3)|12 (+1)|14 (+2)|6 (-2)|13 (+1)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -203,6 +234,12 @@ When hell hounds feed, the flesh they consume stokes the infernal fires that bur
 ## Hyena
 Hyenas, a distant canine cousin of the domesticated dog or the wild pack-forming wolf, roam the grasslands of the [Al'Uma](../Geography/AlUma.md) and [Yithia](../Geography/Yithia.md) freely, and only slightly less often than they do the more remote areas of [Liria](../Geography/Liria.md) and [Tragekia](../Geography/Tragekia.md). Individually, they often aren't much trouble, and will not seek to attack a well-armed or numerous adversary, but when hyenas are in a pack, and they spot a lone individual away from the others, they can fiercely swarm and devour in seconds.
 
+### Environment
+Desert, Grassland, Hill
+
+### Token
+![](Hyena-Token.png)
+
 >### Hyena
 >*Medium beast, unaligned*
 >___
@@ -215,7 +252,7 @@ Hyenas, a distant canine cousin of the domesticated dog or the wild pack-forming
 >|11 (+0)|13 (+1)|12 (+1)|2 (-4)|12 (+1)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -237,6 +274,12 @@ Hyenas, a distant canine cousin of the domesticated dog or the wild pack-forming
 ## Jackal
 Another distant canine relative, jackals are carrion-feeders, and will generally wait until a predator is done with their kill before swarming over the carcass. If attacked, they will generally flee, unless young are present, at which time they will fight to the death to protect the young.
 
+### Environment
+Desert, Grassland, Hill
+
+### Token
+![](Jackal-Token.png)
+
 >### Jackal
 >*Small beast, unaligned*
 >___
@@ -249,7 +292,7 @@ Another distant canine relative, jackals are carrion-feeders, and will generally
 >|8 (-1)|15 (+2)|11 (+0)|3 (-4)|12 (+1)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -275,6 +318,12 @@ Another distant canine relative, jackals are carrion-feeders, and will generally
 
 Mastiffs are impressive hounds prized by humanoids for their loyalty and keen senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halflings and other Small humanoids ride them as mounts.
 
+### Environment
+Forest, Urban
+
+### Token
+![](Mastiff-Token.png)
+
 >### Mastiff
 >*Medium beast, unaligned*
 >___
@@ -287,7 +336,7 @@ Mastiffs are impressive hounds prized by humanoids for their loyalty and keen se
 >|13 (+1)|14 (+2)|12 (+1)|6 (-2)|12 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -311,6 +360,12 @@ Mastiffs are impressive hounds prized by humanoids for their loyalty and keen se
 ## Withered Hound
 The Withered Hound is an undead creation, taken when a necromancer or pale master [withers](Templates/Withered.md) a [Mastiff](#mastiff) or similar-sized hound. Like the creature it was spawned from, the Withered Hound has deep loyalty to its master, whether that be the necromancer that raised it or the master that cares for it now.
 
+### Environment
+Conjured/Summoned
+
+### Token
+![](WitheredHound-Token.png)
+
 >### Withered Hound
 >*Medium beast, unaligned*
 >___
@@ -320,10 +375,10 @@ The Withered Hound is an undead creation, taken when a necromancer or pale maste
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|17 (+3)|16 (+3)|16 (+3)|6 (-2)|11 (0)|6 (-2)|
+>|17 (+3)|16 (+3)|16 (+3)|6 (-2)|11 (+0)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
@@ -361,10 +416,19 @@ When a shadow mastiff pack is hungry and senses prey nearby, the alpha lets loos
 
 ***Ethereal Sight.*** In addition to its other capabilities, a shadow mastiff can see creatures and objects on the Ethereal Plane. This extraplanar perception makes a mastiff an especially skilled guardian, especially in situations when magical or spiritual incursion is likely.
 
-A shadow mastiff [alpha](../Templates/Alpha.md) also has the Terrifying Howl action: ***Terrifying Howl.*** The shadow mastiff howls. Any beast or humanoid within 300 feet of the mastiff and able to hear its howl must succeed on a DC 11 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to any shadow mastiff's Terrifying Howl for the next 24 hours.
+A shadow mastiff [alpha](../Templates/Alpha.md) also has the Terrifying Howl action: 
+
+>***Terrifying Howl.*** The shadow mastiff howls. Any beast or humanoid within 300 feet of the mastiff and able to hear its howl must succeed on a DC 11 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to any shadow mastiff's Terrifying Howl for the next 24 hours.
+>
+
+### Environment
+Extraplanar, Conjured/Summoned
+
+### Token
+![](ShadowMastiff-Token.png)
 
 >### Shadow Mastiff
->*Medium monstrosity, neutral evil*
+>*Medium Monstrosity, Typically Neutral Evil*
 >___
 >- **Armor Class** 12
 >- **Hit Points** 33 (6d8 + 6)
@@ -375,28 +439,28 @@ A shadow mastiff [alpha](../Templates/Alpha.md) also has the Terrifying Howl act
 >|16 (+3)|14 (+2)|13 (+1)|5 (-3)|12 (+1)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks while in dim light or darkness
 >- **Damage Immunities** 
 >- **Condition Immunities** 
->- **Skills** Perception +3,Stealth +6
->- **Senses** darkvision 60 ft.,passive Perception 13
+>- **Skills** Perception +5,Stealth +6
+>- **Senses** darkvision 60 ft.,passive Perception 15
 >- **Languages** --
 >- **Challenge** 2
 >___
 >***Ethereal Awareness.*** The shadow mastiff can see ethereal creatures and objects.
->
->***Keen Hearing and Smell.*** The shadow mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
->
->***Shadow Blend.*** While in dim light or darkness, the shadow mastiff can use a bonus action to become invisible, along with anything it is wearing or carrying. The invisibility lasts until the shadow mastiff uses a bonus action to end it or until the shadow mastiff attacks, is in bright light, or is incapacitated.
 >
 >***Sunlight Weakness.*** While in bright light created by sunlight, the shadow mastiff has disadvantage on attack rolls, ability checks, and saving throws.
 >
 >#### Actions
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 >
+>#### Bonus Actions
+>***Shadow Blend.*** While in dim light or darkness, the shadow mastiff becomes invisible, along with anything it is wearing or carrying. The invisibility lasts until the shadow mastiff uses a bonus action to end it or until the shadow mastiff attacks, is in bright light, or is incapacitated.
+>
+
 
 ---
 
@@ -413,6 +477,12 @@ Those that stand their ground and fight back discover that mundane weapons parti
 
 ***Foiled by Sunlight.*** Yeth hounds can't stand sunlight. A pack never willingly prolongs a hunt beyond the night hours and always seeks to return to its dark den before the first rays of dawn. No amount of coercion by a pack's master can deter this behavior. If a yeth hound is exposed to natural sunlight, it fades away, vanishing into the Ethereal Plane, from where its master can retrieve it only after the sun has set.
 
+### Environment
+Conjured/Summoned
+
+### Token
+![](YethHound-Token.png)
+
 >### Yeth Hound
 >*Large fey, neutral evil*
 >___
@@ -425,7 +495,7 @@ Those that stand their ground and fight back discover that mundane weapons parti
 >|18 (+4)|17 (+3)|16 (+3)|5 (-3)|12 (+1)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

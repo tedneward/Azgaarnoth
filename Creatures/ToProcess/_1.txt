@@ -1,38 +1,65 @@
-ANIMATED TABLE
-Large Construct, Unaligned
+Yuan-ti Pit Master
+With snakes for arms, pit masters are yuan-ti malison priests who have made a pact with the god Merrshaulk and seek to rouse him from his slumber by sacrificing Humanoids to him. They are the most traditionalist yuan-ti and believe that they are best equipped to achieve the goals of their people.
 
-Armor Class 15 (natural armor)
-Hit Points 39 (6d10 + 6)
-Speed 40 ft.
+Pit masters are deeply involved in yuan-ti’s long-term plan to take over Humanoid governments, as well as in the ongoing effort to protect their cities from discovery or attacks by hostiles. They oppose reckless behavior and argue for a slow, cautious approach in all matters.
+
+YUAN-TI PIT MASTER
+Medium Monstrosity (Warlock), Typically Neutral Evil
+
+Armor Class 14 (natural armor)
+
+Hit Points 88 (16d8 + 16)
+
+Speed 30 ft.
 
 STR
-18 (+4)
+16 (+3)
 DEX
-8 (-1)
+14 (+2)
 CON
 13 (+1)
 INT
-1 (-5)
+14 (+2)
 WIS
-3 (-4)
+12 (+1)
 CHA
-1 (-5)
+16 (+3)
+Saving Throws Wis +4, Cha +6
 
-Damage Immunities Poison, Psychic
-Condition Immunities Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-Senses Blindsight 60 ft. (blind beyond this radius), Passive Perception 6
-Languages --
-Challenge 2 (450 XP)
-Proficiency Bonus +2
+Skills Deception +6, Stealth +5
 
-Antimagic Susceptibility. The table is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the table must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
+Damage Immunities poison
 
-False Appearance. While the table remains motionless, it is indistinguishable from a normal table.
+Condition Immunities poisoned
 
-Charge. If the table moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+Senses darkvision 120 ft., passive Perception 11
+
+Languages Abyssal, Common, Draconic
+
+Challenge 5 (1,800 XP) Proficiency Bonus +3
+
+Devil’s Sight. Magical darkness doesn’t impede the yuan-ti’s darkvision.
+
+Magic Resistance. The yuan-ti has advantage on saving throws against spells and other magical effects.
 
 Actions
-Ram. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 
-===
+Multiattack. The yuan-ti makes three Bite attacks or two Spectral Fangs attacks.
 
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.
+
+Spectral Fangs. Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 16 (3d8 + 3) poison damage.
+
+Merrshaulk’s Slumber (1/Day). The yuan-ti targets up to five creatures that it can see within 60 feet of it. Each target must succeed on a DC 13 Constitution saving throw or fall into a magical sleep and be unconscious for 10 minutes. A sleeping target awakens if it takes damage or if someone uses an action to shake or slap it awake. This magical sleep has no effect on a creature immune to being charmed.
+
+Spellcasting (Yuan-ti Form Only). The yuan-ti casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):
+
+At will: animal friendship (snakes only), guidance, mage hand, message
+
+3/day: suggestion
+
+2/day each: hold person, invisibility
+
+Bonus Actions
+
+Change Shape. The yuan-ti transforms into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. If it dies, it stays in its current form.

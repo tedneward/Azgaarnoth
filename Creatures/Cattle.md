@@ -1,11 +1,18 @@
 # Cattle
 Many kinds of cattle roam the multiverse, some of them domesticated and others feral. In many cultures, cattle are almost like family to the folk who tend to them.
 
-> Jump to: [Cow](#cow) | [Aurochs](#aurochs) | [Deep Rothe](#deep-rothe) | [Ox](#ox) | [Stench Kow](#stench-kow)
+> Jump to: [Cow](Cattle.md#cow) | [Aurochs](Cattle.md#aurochs) | [Deep Rothe](Cattle.md#deep-rothe) | [Ox](Cattle.md#ox) | [Stench Kow](Cattle.md#stench-kow)
 
 ---
 
 ## Cow
+Your classic bovine.
+
+### Environment
+Coastal, Forest, Grassland, Hill, Urban
+
+### Token
+![](Cow-Token.png)
 
 >### Cow
 >*Large beast, unaligned*
@@ -19,7 +26,7 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 >|18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -39,7 +46,13 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 ---
 
 ## Aurochs
-An aurochs is a large, fierce bovine with jutting horns. In many lands, herds of aurochs roam free, while elsewhere orcs and humans train them from an early age to carry riders into combat.
+An aurochs is a large, fierce bovine with jutting horns. Particularly among the grasslands of Al'Uma and Yithia, herds of aurochs roam free, while tribes of orcs and humans train them from an early age to carry riders into combat.
+
+### Environment
+Grassland, Hill, Mountain
+
+### Token
+![](Aurochs-Token.png)
 
 >### Aurochs
 >*Large Beast (Cattle), Unaligned*
@@ -72,6 +85,12 @@ An aurochs is a large, fierce bovine with jutting horns. In many lands, herds of
 
 ## Deep Rothe
 Deep rothe are Underdark cattle that communicate with one another using the dancing lights spell. Some scholars speculate that rothe came originally from the Feywild and brought the ability to cast the spell with them. Other sages attribute the ability to the centuries rothe have spent in the Underdark, where ambient magic slowly transforms everything.
+
+### Environment
+Underdark
+
+### Token
+![](DeepRothe-Token.png)
 
 >### Deep Rothe
 >*Medium Beast (Cattle), Unaligned*
@@ -107,7 +126,13 @@ Deep rothe are Underdark cattle that communicate with one another using the danc
 ---
 
 ## Ox
-Oxen are domesticated cattle bred for milk and meat production and for hauling. Many cultures incorporate the ox into their labor and diets.
+Oxen are domesticated cattle bred for milk and meat production and for hauling. Many cultures (particularly among the Al'Uman and Hordish nomadic tribes) incorporate the ox into their labor and diets.
+
+### Environment
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
+
+### Token
+![](Ox-Token.png)
 
 >### Ox
 >*Large Beast (Cattle), Unaligned*
@@ -142,6 +167,12 @@ Oxen are domesticated cattle bred for milk and meat production and for hauling. 
 
 ## Stench Kow
 Stench kows are misshapen bison native to the Lower Planes. These orange and green creatures defend themselves by exuding a miasma so hideous as to be toxic. Some mischievous and malevolent wizards have summoned stench kows to the Material Plane, disguised the creatures as oxen, and let the infernal bison loose on unsuspecting villages.
+
+### Environment
+(FIXME)
+
+### Token
+![](StenchKow-Token.png)
 
 >### Stench Kow
 >*Large Fiend (Cattle), Unaligned*
