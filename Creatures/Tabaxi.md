@@ -1,7 +1,7 @@
 # Tabaxi
 Wandering tabaxi are catlike humanoids driven by curiosity to collect interesting artifacts, gather tales and stories, and lay eyes on all the world’s wonders. Ultimate travelers, the inquisitive tabaxi rarely stay in one place for long. Their innate nature pushes them to leave no secrets uncovered, no treasures or legends lost.
 
-> Jump to:
+> Jump to: [Tabaxi Minstrel](#tabaxi-minstrel) | [Tabaxi Hunter](#tabaxi-hunter)
 
 Strangely, the lore surrounding the Eldars' creation of the Firstborn and humans leave the tabaxi out of the story entirely; it's as if the tabaxi simply appeared, and settled in without anyone noticing. One current theory holds that the tabaxi have aggressively sought to "prune" their history from the records, possibly to obscure a great weakness or a great shame. Another theory is that the Cat Lord was an Eldar who took upon themself the creation of the tabaxi using humans as a model, perhaps as part of or just before or after the rest of the Created came to be. Yet a third theory has them as migrants from somewhere else on the planet, marooned (or exiled, or refugees) on Azgaarnoth for millennia. However farcical it may seem, any ancient racial history of the tabaxi's origins has long been lost, and if any tabaxi elders know legends of their origins, they speak of it to no one.
 
@@ -34,7 +34,7 @@ These wanderers keep to civilized realms, preferring to bargain instead of pursu
 > **[THE CAT LORD](../Religions/Pantheon/CatLord.md)**
 > The deity of the tabaxi is a fickle entity, as befits the patron of cats. The tabaxi believe that the Cat Lord wanders the world, watching over them and intervening in their affairs as needed. He has also been known to ignore those who beseech him, even in the most dire situations, as befits the nature of cats. Clerics of the Cat Lord are rare, and are almost exclusively of the tabaxi. Few non-tabaxi worship the Cat Lord, and even fewer trust him.
 
-***Playable Race: Curious Cats.*** Tabaxi are known for [achieving fame and recognition](../Races/Tabaxi.md) as adventurers, and find that they are suited for any role they choose. Their natural tendencies towards performance mean many tabaxi become bards, but just as many choose to explore the power of illusion arcana (sorcery or wizardry). Some tabaxi choose to embrace their primal nature and become barbarians, where others follow their larcenous side and jump into roguery. Tabaxi make excellent druids, fine rangers, and if they feel the pull of the divine, sturdy clerics and paladins.
+***Playable Race: Curious Cats.*** Tabaxi are known for [achieving fame and recognition](../Races/Tabaxi.md) as adventurers, and find that they are suited for any role they choose. Their natural tendencies towards performance mean many tabaxi become bards, but just as many choose to explore the power of illusion arcana (sorcery or wizardry). Some tabaxi choose to embrace their primal nature and become barbarians, where others follow their larcenous side and jump into roguery. Tabaxi make excellent druids, fine rangers, and if they feel the pull of the divine, sturdy clerics and paladins. For those tabaxi that can embrace the work, tabaxi make excellent monks, wizards, or mystics.
 
 ### Tabaxi Names
 Each tabaxi has a single name, determined by clan and based on a complex formula that involves astrology, prophecy, clan history, and other esoteric factors. Tabaxi names can apply to both males and females, and most use nicknames derived from or inspired by their full names.
@@ -49,3 +49,91 @@ The following list of sample tabaxi names includes nicknames in parenthesis.
 
 ---
 
+## Tabaxi Minstrel
+(No description given)
+
+### Environment
+Coastal, Forest, Grassland, Hill, Mountain
+
+### Token
+
+>### Tabaxi Minstrel
+>*Medium humanoid (tabaxi), chaotic good*
+>___
+>- **Armor Class** 12
+>- **Hit Points** 22 (5d8)
+>- **Speed** 30 ft., climb 20 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|15 (+2)|11 (+0)|14 (+2)|12 (+1)|16 (+3)|
+>___
+>- **Proficiency Bonus** +4
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +3, Performance +7, Persuasion +5, Stealth +4
+>- **Senses** darkvision 60 ft., passive Perception 13
+>- **Languages** Common, (one other)
+>- **Challenge** 2
+>___
+>***Feline Agility.*** When the tabaxi moves on its turn in combat, it can double its speed until the end of the turn. Once it uses this ability, the tabaxi can’t use it again until it moves 0 feet on one of its turns.
+>
+>***Cat's Claws.*** Because of its claws, it has a climbing speed of 20 feet. In addition, its claws are natural weapons, which it can use to make unarmed strikes. If it hits with them, it deals slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+>
+>***Inspire (1/Day).*** While taking a short rest, the tabaxi can spend 1 minute singing, playing an instrument, telling a story, or reciting a poem to soothe and inspire creatures other than itself. Up to five creatures of the tabaxi’s choice that can see and hear its performance gain 8 temporary hit points at the end of the tabaxi’s short rest.
+>
+>#### Actions
+>***Multiattack.*** The tabaxi makes two claws attacks or two dart attacks.
+>
+>***Claws.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (ld4) slashing damage.
+>
+>***Dart.*** Ranged Weapon Attack: +4 to hit, range 20/ 60 ft., one target. Hit: 4 (ld4 +2) piercing damage.
+>
+
+---
+
+## Tabaxi Hunter
+(No description given)
+
+### Environment
+
+### Token
+
+>### Tabaxi Hunter
+>*Medium humanoid (tabaxi), chaotic good*
+>___
+>- **Armor Class** 14 (leather armor)
+>- **Hit Points** 40 (9d8)
+>- **Speed** 30 ft., climb 20 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|17 (+3)|11 (+0)|13 (+1)|14 (+2)|15 (+2)|
+>___
+>- **Proficiency Bonus** +4
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Athletics +2, Perception +4, Stealth +5, Survival +6
+>- **Senses** darkvision 60 ft., passive Perception 14
+>- **Languages** Common, ...
+>- **Challenge** 1
+>___
+>***Feline Agility.*** The tabaxi's reflexes and agility allow it to move with a burst of speed. When it moves on its turn in combat, it can double its speed until the end of the turn. Once it uses this trait, it can't use it again until it moves 0 feet on one of its turns.
+>
+>***Cat's Claws.*** Because of its claws, it has a climbing speed of 20 feet. In addition, its claws are natural weapons, which it can use to make unarmed strikes. If it hits with them, it deals slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+>
+>#### Actions
+>***Multiattack.*** The tabaxi makes two claws attacks or two shortsword or two shortbow attacks.
+>
+>***Claws.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (ld4) slashing damage.
+>
+>***Shortsword.***
+>
+>***Shortbow.***
+>

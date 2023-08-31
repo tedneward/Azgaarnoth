@@ -5,21 +5,19 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon.
 
 First, the draconic parentage of the half-dragon must be determined:
 
-Type          | Energy    | Area
-------------- | --------- | -------------
-Black, Copper	| Acid      | 100-foot line that is 10 feet wide
-Blue, Bronze  | Lightning |
-Brass, Gold, Red | Fire   |
-Green	        | Poison    |
-White, Silver | Cold      |
-
+Type           | Energy    | Area
+-------------- | --------- | -------------
+Black, Copper  | Acid      | 100-foot line that is 10 feet wide
+Blue, Bronze   | Lightning | 
+Brass,Gold,Red | Fire      | 
+Green          | Poison    | 
+White, Silver  | Cold      | 
 
 * **Challenge.** To avoid recalculating the creature's challenge rating, apply the template only to a creature that meets the optional prerequisite in the Breath Weapon table below. Otherwise, use the guidelines in the Dungeon Master's Guide to recalculate the rating after you apply the template.
 
 * **Senses.** The half-dragon gains blindsight with a radius of 10 feet and darkvision with a radius of 60 feet.
 
 * **Resistances.** The half-dragon gains resistance to a type of damage based on its color.
-
 
 * **Languages.** The half-dragon speaks Draconic in addition to any other languages it knows.
 
@@ -61,7 +59,6 @@ Gargantuan | As an adult dragon
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
->
 >___
 >- **Proficiency Bonus** +3
 >- **Saving Throws** 

@@ -18,12 +18,12 @@ When a creature joins a swarm, it retains its statistics except as described bel
 
 Original Size | Swarm Size | Swarm Hit Die
 ------------- | ---------- | -------------
-Tiny   | Medium | d8
-Small  | Large  | d10
-Medium | Large  | d10
-Large  | Huge   | d12
-Huge   | Gargantuan | d20
-Gargantuan | Gargantuan | d20
+Tiny          | Medium     | d8
+Small         | Large      | d10
+Medium        | Large      | d10
+Large         | Huge       | d12
+Huge          | Gargantuan | d20
+Gargantuan    | Gargantuan | d20
 
 **Swarm CR & Damage**
 
@@ -36,6 +36,7 @@ Original CR | Swarm CR | Damage Die | Multiattack
 1 - 2       | 3        | 6d6        | 3d6 / 2d6
 2+          | 4+ | Double its normal dice | Double / Regular dice
 
+---
 
 ## Example
 

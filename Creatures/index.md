@@ -408,7 +408,6 @@
 - [Satyr](Satyr.md)
 - [Scarecrow](Scarecrow.md)
 - [Scorpion](Scorpion.md): [Giant Scorpion](Scorpion.md#giant-scorpion)
-- [Scorpion](Scorpion.md): [Giant Scorpion](Scorpion.md#giant-scorpion)
 - [Sea Elf Commoner](Maerach.md#sea-elf-commoner)
 - [Sea Hag](Hags.md#sea-hag)
 - [Sea Horse](SeaHorses.md#sea-horse)
@@ -522,8 +521,8 @@
 
 ## Templates
 - Bestial: [Alpha](Templates/Alpha.md), [Young](Templates/Young.md)
-- [Martial](Templates/Martial.md): [Berserker](Templates/Martial.md#berserker), [Knight](Templates/Martial.md#knight), [Soldier](Templates/Martial.md#soldier), [Elite Warrior](Templates/Martial.md#elite-warrior), [Sargeant](Templates/Martial.md#sergeant), [Veteran](Templates/Martial.md#veteran)
-- Dire
+- [Martial](Templates/Martial.md): [Berserker](Templates/Martial.md#berserker), [Knight](Templates/Martial.md#knight), [Soldier](Templates/Martial.md#soldier), [Elite Warrior](Templates/Martial.md#elite-warrior), [Sergeant](Templates/Martial.md#sergeant), [Veteran](Templates/Martial.md#veteran)
+- [Dire](Templates/Dire.md)
 - [Draconic](Dragons/DragonTemplates.md): [Dracolich](Dragons/DragonTemplates.md#dracolich), [Ghost](Dragons/DragonTemplates.md#ghost), [Shadow](Dragons/DragonTemplates.md#shadow), [Skeletal](Dragons/DragonTemplates.md#skeletal), [Zombie](Dragons/DragonTemplates.md#zombie)
 - [Half-Dragon](Templates/HalfDragon.md)
 - [Undeath](Undead/UndeathTemplates.md): [Skeleton](Undead/UndeathTemplates.md#skeleton), [Zombie](Undead/UndeathTemplates.md#zombie), [Withered](Undead/UndeathTemplates.md#withered), [Ghoul](Undead/UndeathTemplates.md#ghoul), [Ghost](Undead/UndeathTemplates.md#ghost), [Mummy](Undead/UndeathTemplates.md#mummified), [Lich](Undead/UndeathTemplates.md#lich), [Vampiric](Undead/UndeathTemplates.md#vampiric)

@@ -98,24 +98,13 @@ STR DEX CON INT WIS CHA
 Saving Throws Dex +3, Con +3, Wis +2, Cha +3
 Skills Perception +4, Stealth +3
 Damage Immunities psychic
-Senses blindsight 10 ft., darkvision 60 ft., passive
-Perception 14
+Senses blindsight 10 ft., darkvision 60 ft., passive Perception 14
 Languages Draconic
 Challenge 2 (450 XP)
-Sunlight Hypersensitivity. The dragon takes 10
-radiant damage when it starts its turn in sunlight.
-While in sunlight, it has disadvantage on attack rolls
-and ability checks.
+Sunlight Hypersensitivity. The dragon takes 10 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 Actions
-Bite. Melee Weapon Attack: +4 to hit, reach 5 ft.,
-one target. Hit: 7 (1d10 + 2) piercing damage.
-Psychic Breath (Recharge 5-6). The dragon exhales a
-psychic shockwave in a 15-foot cone. Each creature
-in that area must make a DC 11 Intelligence saving
-throw. On a failed save, a creature takes 17 (5d6)
-psychic damage and is stunned until the end of its
-next turn. On a successful save, it takes half as
-much damage and isn't stunned.
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage.
+Psychic Breath (Recharge 5-6). The dragon exhales a psychic shockwave in a 15-foot cone. Each creature in that area must make a DC 11 Intelligence saving throw. On a failed save, a creature takes 17 (5d6) psychic damage and is stunned until the end of its next turn. On a successful save, it takes half as much damage and isn't stunned.
 
 ---
 
@@ -129,24 +118,13 @@ STR DEX CON INT WIS CHA
 Saving Throws Dex +3, Con +4, Wis +2, Cha +3
 Skills Deception +3, Perception +4, Stealth +3
 Damage Immunities psychic
-Senses blindsight 10 ft., darkvision 60 ft., passive
-Perception 14
+Senses blindsight 10 ft., darkvision 60 ft., passive Perception 14
 Languages Draconic
 Challenge 3 (700 XP)
-Sunlight Hypersensitivity. The dragon takes 15
-radiant damage when it starts its turn in sunlight.
-While in sunlight, it has disadvantage on attack rolls
-and ability checks.
+Sunlight Hypersensitivity. The dragon takes 15 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 Actions
-Bite. Melee Weapon Attack: +5 to hit, reach 5 ft.,
-one target. Hit: 9 (1d12 + 3) piercing damage.
-Psychic Breath (Recharge 5-6). The dragon exhales a
-psychic shockwave in a 20-foot cone. Each creature
-in that area must make a DC 12 Intelligence saving
-throw. On a failed save, a creature takes 21 (6d6)
-psychic damage and is stunned until the end of its
-next turn. On a successful save, it takes half as
-much damage and isn't stunned.
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) piercing damage.
+Psychic Breath (Recharge 5-6). The dragon exhales a psychic shockwave in a 20-foot cone. Each creature in that area must make a DC 12 Intelligence saving throw. On a failed save, a creature takes 21 (6d6) psychic damage and is stunned until the end of its next turn. On a successful save, it takes half as much damage and isn't stunned.
 
 ---
 
@@ -160,24 +138,13 @@ STR DEX CON INT WIS CHA
 Saving Throws Dex +4, Con +6, Wis +3, Cha +5
 Skills Deception +5, Perception +6, Stealth +4
 Damage Immunities psychic
-Senses blindsight 10 ft., darkvision 90 ft., passive
-Perception 16
+Senses blindsight 10 ft., darkvision 90 ft., passive Perception 16
 Languages Draconic
 Challenge 5 (1,800 XP)
-Sunlight Hypersensitivity. The dragon takes 20
-radiant damage when it starts its turn in sunlight.
-While in sunlight, it has disadvantage on attack rolls
-and ability checks.
+Sunlight Hypersensitivity. The dragon takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 Actions
-Bite. Melee Weapon Attack: +6 to hit, reach 5 ft.,
-one target. Hit: 12 (2d8 + 3) piercing damage.
-Psychic Breath (Recharge 5-6). The dragon exhales a
-psychic shockwave in a 25-foot cone. Each creature
-in that area must make a DC 14 Intelligence saving
-throw. On a failed save, a creature takes 28 (8d6)
-psychic damage and is stunned until the end of its
-next turn. On a successful save, it takes half as
-much damage and isn't stunned.
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage.
+Psychic Breath (Recharge 5-6). The dragon exhales a psychic shockwave in a 25-foot cone. Each creature in that area must make a DC 14 Intelligence saving throw. On a failed save, a creature takes 28 (8d6) psychic damage and is stunned until the end of its next turn. On a successful save, it takes half as much damage and isn't stunned.
 
 ---
 
@@ -191,28 +158,15 @@ STR DEX CON INT WIS CHA
 Saving Throws Dex +4, Con +6, Wis +4, Cha +5
 Skills Deception +5, Perception +7, Stealth +4
 Damage Immunities psychic
-Senses blindsight 30 ft., darkvision 120 ft., passive
-Perception 17
+Senses blindsight 30 ft., darkvision 120 ft., passive Perception 17
 Languages Common, Draconic
 Challenge 8 (3,900 XP)
-Sunlight Hypersensitivity. The dragon takes 20
-radiant damage when it starts its turn in sunlight.
-While in sunlight, it has disadvantage on attack rolls
-and ability checks.
+Sunlight Hypersensitivity. The dragon takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 Actions
-Multiattack. The dragon makes three attacks: one
-with its bite and two with its claws.
-Bite. Melee Weapon Attack: +7 to hit, reach 10 ft.,
-one target. Hit: 15 (2d10 + 4) piercing damage.
-Claw. Melee Weapon Attack: +7 to hit, reach 5 ft.,
-one target. Hit: 11 (2d6 + 4) slashing damage.
-Psychic Breath (Recharge 5-6). The dragon exhales a
-psychic shockwave in a 30-foot cone. Each creature
-in that area must make a DC 14 Intelligence saving
-throw. On a failed save, a creature takes 35 (10d6)
-psychic damage and is stunned until the end of its
-next turn. On a successful save, it takes half as
-much damage and isn't stunned.
+Multiattack. The dragon makes three attacks: one with its bite and two with its claws.
+Bite. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage.
+Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+Psychic Breath (Recharge 5-6). The dragon exhales a psychic shockwave in a 30-foot cone. Each creature in that area must make a DC 14 Intelligence saving throw. On a failed save, a creature takes 35 (10d6) psychic damage and is stunned until the end of its next turn. On a successful save, it takes half as much damage and isn't stunned.
 
 ---
 
@@ -226,38 +180,16 @@ STR DEX CON INT WIS CHA
 Saving Throws Dex +5, Con +8, Wis +5, Cha +6
 Skills Deception +6, Perception +9, Stealth +5
 Damage Immunities psychic
-Senses blindsight 30 ft., darkvision 120 ft., passive
-Perception 19
+Senses blindsight 30 ft., darkvision 120 ft., passive Perception 19
 Languages Common, Draconic
 Challenge 10 (5,900 XP)
-Sunlight Hypersensitivity. The dragon takes 20 radiant
-damage when it starts its turn in sunlight. While in
-sunlight, it has disadvantage on attack rolls and ability
-checks.
+Sunlight Hypersensitivity. The dragon takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 Actions
-Multiattack. The dragon can use its Frightful Presence.
-It then makes three attacks: one with its bite and two
-with its claws.
-Bite. Melee Weapon Attack: +9 to hit, reach 10 ft., one
-target. Hit: 16 (2d10 + 5) piercing damage.
-Claw. Melee Weapon Attack: +9 to hit, reach 5 ft., one
-target. Hit: 12 (2d6 + 5) slashing damage.
-Frightful Presence. Each creature of the dragon's choice
-that is within 120 feet of the dragon and aware of it
-must succeed on a DC 14 Wisdom saving throw or
-become frightened for 1 minute. A creature can repeat
-the saving throw at the end of each of its turns, ending
-the effect on itself on a success. If a creature's saving
-throw is successful or the effect ends for it, the
-creature is immune to the dragon's Frightful Presence
-for the next 24 hours.
-Psychic Breath (Recharge 5-6). The dragon exhales a
-psychic shockwave in a 40-foot cone. Each creature in
-that area must make a DC 16 Intelligence saving throw.
-On a failed save, a creature takes 42 (12d6) psychic
-damage and is stunned until the end of its next turn.
-On a successful save, it takes half as much damage and
-isn't stunned.
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+Bite. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage.
+Claw. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+Psychic Breath (Recharge 5-6). The dragon exhales a psychic shockwave in a 40-foot cone. Each creature in that area must make a DC 16 Intelligence saving throw. On a failed save, a creature takes 42 (12d6) psychic damage and is stunned until the end of its next turn. On a successful save, it takes half as much damage and isn't stunned.
 
 ---
 
@@ -271,55 +203,22 @@ STR DEX CON INT WIS CHA
 Saving Throws Dex +6, Con +9, Wis +6, Cha +7
 Skills Deception +7, Perception +11, Stealth +6
 Damage Immunities psychic
-Senses blindsight 30 ft., darkvision 120 ft., passive
-Perception 21
+Senses blindsight 30 ft., darkvision 120 ft., passive Perception 21
 Languages Common, Draconic
 Challenge 13 (10,000 XP)
-Sunlight Hypersensitivity. The dragon takes 20 radiant
-damage when it starts its turn in sunlight. While in
-sunlight, it has disadvantage on attack rolls and ability
-checks.
+Sunlight Hypersensitivity. The dragon takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 Actions
-Multiattack. The dragon can use its Frightful Presence.
-It then makes three attacks: one with its bite and two
-with its claws.
-Bite. Melee Weapon Attack: +10 to hit, reach 10 ft.,
-one target. Hit: 16 (2d10 + 5) piercing damage.
-Claw. Melee Weapon Attack: +10 to hit, reach 5 ft., one
-target. Hit: 12 (2d6 + 5) slashing damage.
-Tail. Melee Weapon Attack: +10 to hit, reach 15 ft., one
-target. Hit: 14 (2d8 + 5) bludgeoning damage.
-Frightful Presence. Each creature of the dragon's choice
-that is within 120 feet of the dragon and aware of it
-must succeed on a DC 15 Wisdom saving throw or
-become frightened for 1 minute. A creature can repeat
-the saving throw at the end of each of its turns, ending
-the effect on itself on a success. If a creature's saving
-throw is successful or the effect ends for it, the
-creature is immune to the dragon's Frightful Presence
-for the next 24 hours.
-Psychic Breath (Recharge 5-6). The dragon exhales a
-psychic shockwave in a 50-foot cone. Each creature in
-that area must make a DC 17 Intelligence saving throw.
-On a failed save, a creature takes 45 (13d6) psychic
-damage and is stunned until the end of its next turn.
-On a successful save, it takes half as much damage and
-isn't stunned.
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+Bite. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage.
+Claw. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
+Tail. Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 15 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+Psychic Breath (Recharge 5-6). The dragon exhales a psychic shockwave in a 50-foot cone. Each creature in that area must make a DC 17 Intelligence saving throw. On a failed save, a creature takes 45 (13d6) psychic damage and is stunned until the end of its next turn. On a successful save, it takes half as much damage and isn't stunned.
 Legendary Actions
-The dragon can take 3 legendary actions, choosing
-from the options below. Only one legendary action
-option can be used at a time and only at the end of
-another creature's turn. The dragon regains spent
-legendary actions at the start of its turn.
-Detect. The dragon makes a Wisdom (Perception)
-check.
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+Detect. The dragon makes a Wisdom (Perception) check.
 Tail Attack. The dragon makes a tail attack.
-Wing Attack (Costs 2 Actions). The dragon beats its
-wings. Each creature within 10 feet of the dragon
-must succeed on a DC 18 Dexterity saving throw
-or take 12 (2d6 + 5) bludgeoning damage and be
-knocked prone. The dragon can then fly up to half
-its flying speed.
+Wing Attack (Costs 2 Actions). The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 18 Dexterity saving throw or take 12 (2d6 + 5) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ---
 
@@ -333,57 +232,23 @@ STR DEX CON INT WIS CHA
 Saving Throws Dex +6, Con +10, Wis +7, Cha +8
 Skills Deception +8, Perception +12, Stealth +6
 Damage Immunities psychic
-Senses blindsight 60 ft., darkvision 120 ft., passive
-Perception 22
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 22
 Languages Common, Draconic
 Challenge 15 (13,000 XP)
-Legendary Resistance (3/Day). If the dragon fails a saving
-throw, it can choose to succeed instead.
-Sunlight Hypersensitivity. The dragon takes 20 radiant
-damage when it starts its turn in sunlight. While in
-sunlight, it has disadvantage on attack rolls and ability
-checks.
+Legendary Resistance (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
+Sunlight Hypersensitivity. The dragon takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 Actions
-Multiattack. The dragon can use its Frightful Presence.
-It then makes three attacks: one with its bite and two
-with its claws.
-Bite. Melee Weapon Attack: +11 to hit, reach 10 ft.,
-one target. Hit: 17 (2d10 + 6) piercing damage.
-Claw. Melee Weapon Attack: +11 to hit, reach 5 ft., one
-target. Hit: 13 (2d6 + 6) slashing damage.
-Tail. Melee Weapon Attack: +11 to hit, reach 15 ft., one
-target. Hit: 15 (2d8 + 6) bludgeoning damage.
-Frightful Presence. Each creature of the dragon's choice
-that is within 120 feet of the dragon and aware of it
-must succeed on a DC 16 Wisdom saving throw or
-become frightened for 1 minute. A creature can repeat
-the saving throw at the end of each of its turns, ending
-the effect on itself on a success. If a creature's saving
-throw is successful or the effect ends for it, the
-creature is immune to the dragon's Frightful Presence
-for the next 24 hours.
-Psychic Breath (Recharge 5-6). The dragon exhales a
-psychic shockwave in a 60-foot cone. Each creature in
-that area must make a DC 18 Intelligence saving throw.
-On a failed save, a creature takes 49 (14d6) psychic
-damage and is stunned until the end of its next turn.
-On a successful save, it takes half as much damage and
-isn't stunned.
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+Bite. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage.
+Claw. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.
+Tail. Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage.
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+Psychic Breath (Recharge 5-6). The dragon exhales a psychic shockwave in a 60-foot cone. Each creature in that area must make a DC 18 Intelligence saving throw. On a failed save, a creature takes 49 (14d6) psychic damage and is stunned until the end of its next turn. On a successful save, it takes half as much damage and isn't stunned.
 Legendary Actions
-The dragon can take 3 legendary actions, choosing
-from the options below. Only one legendary action
-option can be used at a time and only at the end of
-another creature's turn. The dragon regains spent
-legendary actions at the start of its turn.
-Detect. The dragon makes a Wisdom (Perception)
-check.
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+Detect. The dragon makes a Wisdom (Perception) check.
 Tail Attack. The dragon makes a tail attack.
-Wing Attack (Costs 2 Actions). The dragon beats its
-wings. Each creature within 10 feet of the dragon
-must succeed on a DC 19 Dexterity saving throw
-or take 13 (2d6 + 6) bludgeoning damage and be
-knocked prone. The dragon can then fly up to half
-its flying speed.
+Wing Attack (Costs 2 Actions). The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ---
 
@@ -397,57 +262,23 @@ STR DEX CON INT WIS CHA
 Saving Throws Dex +7, Con +12, Wis +8, Cha +9
 Skills Deception +9, Perception +14, Stealth +7
 Damage Immunities psychic
-Senses blindsight 60 ft., darkvision 120 ft., passive
-Perception 24
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 24
 Languages Common, Draconic
 Challenge 18 (20,000 XP)
-Legendary Resistance (3/Day). If the dragon fails a saving
-throw, it can choose to succeed instead.
-Sunlight Hypersensitivity. The dragon takes 20 radiant
-damage when it starts its turn in sunlight. While in
-sunlight, it has disadvantage on attack rolls and ability
-checks.
+Legendary Resistance (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
+Sunlight Hypersensitivity. The dragon takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 Actions
-Multiattack. The dragon can use its Frightful Presence.
-It then makes three attacks: one with its bite and two
-with its claws.
-Bite. Melee Weapon Attack: +13 to hit, reach 10 ft.,
-one target. Hit: 18 (2d10 + 7) piercing damage.
-Claw. Melee Weapon Attack: +13 to hit, reach 5 ft., one
-target. Hit: 14 (2d6 + 7) slashing damage.
-Tail. Melee Weapon Attack: +13 to hit, reach 15 ft., one
-target. Hit: 16 (2d8 + 7) bludgeoning damage.
-Frightful Presence. Each creature of the dragon's choice
-that is within 120 feet of the dragon and aware of it
-must succeed on a DC 17 Wisdom saving throw or
-become frightened for 1 minute. A creature can repeat
-the saving throw at the end of each of its turns, ending
-the effect on itself on a success. If a creature's saving
-throw is successful or the effect ends for it, the
-creature is immune to the dragon's Frightful Presence
-for the next 24 hours.
-Psychic Breath (Recharge 5-6). The dragon exhales a
-psychic shockwave in a 70-foot cone. Each creature in
-that area must make a DC 20 Intelligence saving throw.
-On a failed save, a creature takes 52 (15d6) psychic
-damage and is stunned until the end of its next turn.
-On a successful save, it takes half as much damage and
-isn't stunned.
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+Bite. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 18 (2d10 + 7) piercing damage.
+Claw. Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage.
+Tail. Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 16 (2d8 + 7) bludgeoning damage.
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+Psychic Breath (Recharge 5-6). The dragon exhales a psychic shockwave in a 70-foot cone. Each creature in that area must make a DC 20 Intelligence saving throw. On a failed save, a creature takes 52 (15d6) psychic damage and is stunned until the end of its next turn. On a successful save, it takes half as much damage and isn't stunned.
 Legendary Actions
-The dragon can take 3 legendary actions, choosing
-from the options below. Only one legendary action
-option can be used at a time and only at the end of
-another creature's turn. The dragon regains spent
-legendary actions at the start of its turn.
-Detect. The dragon makes a Wisdom (Perception)
-check.
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+Detect. The dragon makes a Wisdom (Perception) check.
 Tail Attack. The dragon makes a tail attack.
-Wing Attack (Costs 2 Actions). The dragon beats its
-wings. Each creature within 10 feet of the dragon
-must succeed on a DC 21 Dexterity saving throw
-or take 14 (2d6 + 7) bludgeoning damage and be
-knocked prone. The dragon can then fly up to half
-its flying speed.
+Wing Attack (Costs 2 Actions). The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ---
 
@@ -461,57 +292,23 @@ STR DEX CON INT WIS CHA
 Saving Throws Dex +7, Con +13, Wis +8, Cha +9
 Skills Deception +9, Perception +14, Stealth +7
 Damage Immunities psychic
-Senses blindsight 60 ft., darkvision 120 ft., passive
-Perception 24
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 24
 Languages Common, Draconic
 Challenge 20 (25,000 XP)
-Legendary Resistance (3/Day). If the dragon fails a saving
-throw, it can choose to succeed instead.
-Sunlight Hypersensitivity. The dragon takes 20 radiant
-damage when it starts its turn in sunlight. While in
-sunlight, it has disadvantage on attack rolls and ability
-checks.
+Legendary Resistance (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
+Sunlight Hypersensitivity. The dragon takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 Actions
-Multiattack. The dragon can use its Frightful Presence.
-It then makes three attacks: one with its bite and two
-with its claws.
-Bite. Melee Weapon Attack: +14 to hit, reach 10 ft.,
-one target. Hit: 19 (2d10 + 8) piercing damage.
-Claw. Melee Weapon Attack: +14 to hit, reach 5 ft., one
-target. Hit: 15 (2d6 + 8) slashing damage.
-Tail. Melee Weapon Attack: +14 to hit, reach 15 ft., one
-target. Hit: 17 (2d8 + 8) bludgeoning damage.
-Frightful Presence. Each creature of the dragon's choice
-that is within 120 feet of the dragon and aware of it
-must succeed on a DC 17 Wisdom saving throw or
-become frightened for 1 minute. A creature can repeat
-the saving throw at the end of each of its turns, ending
-the effect on itself on a success. If a creature's saving
-throw is successful or the effect ends for it, the
-creature is immune to the dragon's Frightful Presence
-for the next 24 hours.
-Psychic Breath (Recharge 5-6). The dragon exhales a
-psychic shockwave in an 80-foot cone. Each creature
-in that area must make a DC 21 Intelligence saving
-throw. On a failed save, a creature takes 56 (16d6)
-psychic damage and is stunned until the end of its next
-turn. On a successful save, it takes half as much
-damage and isn't stunned.
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+Bite. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 19 (2d10 + 8) piercing damage.
+Claw. Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) slashing damage.
+Tail. Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 17 (2d8 + 8) bludgeoning damage.
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+Psychic Breath (Recharge 5-6). The dragon exhales a psychic shockwave in an 80-foot cone. Each creature in that area must make a DC 21 Intelligence saving throw. On a failed save, a creature takes 56 (16d6) psychic damage and is stunned until the end of its next turn. On a successful save, it takes half as much damage and isn't stunned.
 Legendary Actions
-The dragon can take 3 legendary actions, choosing
-from the options below. Only one legendary action
-option can be used at a time and only at the end of
-another creature's turn. The dragon regains spent
-legendary actions at the start of its turn.
-Detect. The dragon makes a Wisdom (Perception)
-check.
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+Detect. The dragon makes a Wisdom (Perception) check.
 Tail Attack. The dragon makes a tail attack.
-Wing Attack (Costs 2 Actions). The dragon beats its
-wings. Each creature within 10 feet of the dragon
-must succeed on a DC 22 Dexterity saving throw
-or take 15 (2d6 + 8) bludgeoning damage and be
-knocked prone. The dragon can then fly up to half
-its flying speed.
+Wing Attack (Costs 2 Actions). The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ---
 
@@ -525,57 +322,23 @@ STR DEX CON INT WIS CHA
 Saving Throws Dex +8, Con +14, Wis +10, Cha +11
 Skills Deception +11, Perception +17, Stealth +8
 Damage Immunities psychic
-Senses blindsight 60 ft., darkvision 120 ft., passive
-Perception 27
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 27
 Languages Common, Draconic
 Challenge 22 (41,000 XP)
-Legendary Resistance (3/Day). If the dragon fails a saving
-throw, it can choose to succeed instead.
-Sunlight Hypersensitivity. The dragon takes 20 radiant
-damage when it starts its turn in sunlight. While in
-sunlight, it has disadvantage on attack rolls and ability
-checks.
+Legendary Resistance (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
+Sunlight Hypersensitivity. The dragon takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 Actions
-Multiattack. The dragon can use its Frightful Presence.
-It then makes three attacks: one with its bite and two
-with its claws.
-Bite. Melee Weapon Attack: +15 to hit, reach 15 ft.,
-one target. Hit: 19 (2d10 + 8) piercing damage.
-Claw. Melee Weapon Attack: +15 to hit, reach 10 ft.,
-one target. Hit: 15 (2d6 + 8) slashing damage.
-Tail. Melee Weapon Attack: +15 to hit, reach 20 ft., one
-target. Hit: 17 (2d8 + 8) bludgeoning damage.
-Frightful Presence. Each creature of the dragon's choice
-that is within 120 feet of the dragon and aware of it
-must succeed on a DC 19 Wisdom saving throw or
-become frightened for 1 minute. A creature can repeat
-the saving throw at the end of each of its turns, ending
-the effect on itself on a success. If a creature's saving
-throw is successful or the effect ends for it, the
-creature is immune to the dragon's Frightful Presence
-for the next 24 hours.
-Psychic Breath (Recharge 5-6). The dragon exhales a
-psychic shockwave in a 90-foot cone. Each creature in
-that area must make a DC 22 Intelligence saving throw.
-On a failed save, a creature takes 59 (17d6) psychic
-damage and is stunned until the end of its next turn.
-On a successful save, it takes half as much damage and
-isn't stunned.
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+Bite. Melee Weapon Attack: +15 to hit, reach 15 ft., one target. Hit: 19 (2d10 + 8) piercing damage.
+Claw. Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 15 (2d6 + 8) slashing damage.
+Tail. Melee Weapon Attack: +15 to hit, reach 20 ft., one target. Hit: 17 (2d8 + 8) bludgeoning damage.
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+Psychic Breath (Recharge 5-6). The dragon exhales a psychic shockwave in a 90-foot cone. Each creature in that area must make a DC 22 Intelligence saving throw. On a failed save, a creature takes 59 (17d6) psychic damage and is stunned until the end of its next turn. On a successful save, it takes half as much damage and isn't stunned.
 Legendary Actions
-The dragon can take 3 legendary actions, choosing
-from the options below. Only one legendary action
-option can be used at a time and only at the end of
-another creature's turn. The dragon regains spent
-legendary actions at the start of its turn.
-Detect. The dragon makes a Wisdom (Perception)
-check.
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+Detect. The dragon makes a Wisdom (Perception) check.
 Tail Attack. The dragon makes a tail attack.
-Wing Attack (Costs 2 Actions). The dragon beats its
-wings. Each creature within 15 feet of the dragon
-must succeed on a DC 23 Dexterity saving throw
-or take 15 (2d6 + 8) bludgeoning damage and be
-knocked prone. The dragon can then fly up to half
-its flying speed.
+Wing Attack (Costs 2 Actions). The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ---
 
@@ -589,57 +352,23 @@ STR DEX CON INT WIS CHA
 Saving Throws Dex +8, Con +15, Wis +10, Cha +11
 Skills Deception +11, Perception +17, Stealth +8
 Damage Immunities psychic
-Senses blindsight 60 ft., darkvision 120 ft., passive
-Perception 27
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 27
 Languages Common, Draconic
 Challenge 23 (50,000 XP)
-Legendary Resistance (3/Day). If the dragon fails a saving
-throw, it can choose to succeed instead.
-Sunlight Hypersensitivity. The dragon takes 20 radiant
-damage when it starts its turn in sunlight. While in
-sunlight, it has disadvantage on attack rolls and ability
-checks.
+Legendary Resistance (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
+Sunlight Hypersensitivity. The dragon takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 Actions
-Multiattack. The dragon can use its Frightful Presence.
-It then makes three attacks: one with its bite and two
-with its claws.
-Bite. Melee Weapon Attack: +16 to hit, reach 15 ft.,
-one target. Hit: 20 (2d10 + 9) piercing damage.
-Claw. Melee Weapon Attack: +16 to hit, reach 10 ft.,
-one target. Hit: 16 (2d6 + 9) slashing damage.
-Tail. Melee Weapon Attack: +16 to hit, reach 20 ft., one
-target. Hit: 18 (2d8 + 9) bludgeoning damage.
-Frightful Presence. Each creature of the dragon's choice
-that is within 120 feet of the dragon and aware of it
-must succeed on a DC 19 Wisdom saving throw or
-become frightened for 1 minute. A creature can repeat
-the saving throw at the end of each of its turns, ending
-the effect on itself on a success. If a creature's saving
-throw is successful or the effect ends for it, the
-creature is immune to the dragon's Frightful Presence
-for the next 24 hours.
-Psychic Breath (Recharge 5-6). The dragon exhales a
-psychic shockwave in a 95-foot cone. Each creature in
-that area must make a DC 23 Intelligence saving throw.
-On a failed save, a creature takes 63 (18d6) psychic
-damage and is stunned until the end of its next turn.
-On a successful save, it takes half as much damage and
-isn't stunned.
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+Bite. Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) piercing damage.
+Claw. Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 16 (2d6 + 9) slashing damage.
+Tail. Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 18 (2d8 + 9) bludgeoning damage.
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+Psychic Breath (Recharge 5-6). The dragon exhales a psychic shockwave in a 95-foot cone. Each creature in that area must make a DC 23 Intelligence saving throw. On a failed save, a creature takes 63 (18d6) psychic damage and is stunned until the end of its next turn. On a successful save, it takes half as much damage and isn't stunned.
 Legendary Actions
-The dragon can take 3 legendary actions, choosing
-from the options below. Only one legendary action
-option can be used at a time and only at the end of
-another creature's turn. The dragon regains spent
-legendary actions at the start of its turn.
-Detect. The dragon makes a Wisdom (Perception)
-check.
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+Detect. The dragon makes a Wisdom (Perception) check.
 Tail Attack. The dragon makes a tail attack.
-Wing Attack (Costs 2 Actions). The dragon beats its
-wings. Each creature within 15 feet of the dragon
-must succeed on a DC 24 Dexterity saving throw
-or take 16 (2d6 + 9) bludgeoning damage and be
-knocked prone. The dragon can then fly up to half
-its flying speed.
+Wing Attack (Costs 2 Actions). The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 ---
 
@@ -653,55 +382,21 @@ STR DEX CON INT WIS CHA
 Saving Throws Dex +9, Con +16, Wis +11, Cha +12
 Skills Deception +12, Perception +19, Stealth +9
 Damage Immunities psychic
-Senses blindsight 60 ft., darkvision 120 ft., passive
-Perception 29
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 29
 Languages Common, Draconic
 Challenge 25 (75,000 XP)
-Legendary Resistance (3/Day). If the dragon fails a saving
-throw, it can choose to succeed instead.
-Sunlight Hypersensitivity. The dragon takes 20 radiant
-damage when it starts its turn in sunlight. While in
-sunlight, it has disadvantage on attack rolls and ability
-checks.
+Legendary Resistance (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
+Sunlight Hypersensitivity. The dragon takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 Actions
-Multiattack. The dragon can use its Frightful Presence.
-It then makes three attacks: one with its bite and two
-with its claws.
-Bite. Melee Weapon Attack: +17 to hit, reach 15 ft.,
-one target. Hit: 20 (2d10 + 9) piercing damage.
-Claw. Melee Weapon Attack: +17 to hit, reach 10 ft.,
-one target. Hit: 16 (2d6 + 9) slashing damage.
-Tail. Melee Weapon Attack: +17 to hit, reach 20 ft., one
-target. Hit: 18 (2d8 + 9) bludgeoning damage.
-Frightful Presence. Each creature of the dragon's choice
-that is within 120 feet of the dragon and aware of it
-must succeed on a DC 20 Wisdom saving throw or
-become frightened for 1 minute. A creature can repeat
-the saving throw at the end of each of its turns, ending
-the effect on itself on a success. If a creature's saving
-throw is successful or the effect ends for it, the
-creature is immune to the dragon's Frightful Presence
-for the next 24 hours.
-Psychic Breath (Recharge 5-6). The dragon exhales a
-psychic shockwave in a 100-foot cone. Each creature
-in that area must make a DC 24 Intelligence saving
-throw. On a failed save, a creature takes 67 (19d6)
-psychic damage and is stunned until the end of its next
-turn. On a successful save, it takes half as much
-damage and isn't stunned.
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+Bite. Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) piercing damage.
+Claw. Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 16 (2d6 + 9) slashing damage.
+Tail. Melee Weapon Attack: +17 to hit, reach 20 ft., one target. Hit: 18 (2d8 + 9) bludgeoning damage.
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+Psychic Breath (Recharge 5-6). The dragon exhales a psychic shockwave in a 100-foot cone. Each creature in that area must make a DC 24 Intelligence saving throw. On a failed save, a creature takes 67 (19d6) psychic damage and is stunned until the end of its next turn. On a successful save, it takes half as much damage and isn't stunned.
 Legendary Actions
-The dragon can take 3 legendary actions, choosing
-from the options below. Only one legendary action
-option can be used at a time and only at the end of
-another creature's turn. The dragon regains spent
-legendary actions at the start of its turn.
-Detect. The dragon makes a Wisdom (Perception)
-check.
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+Detect. The dragon makes a Wisdom (Perception) check.
 Tail Attack. The dragon makes a tail attack.
-Wing Attack (Costs 2 Actions). The dragon beats its
-wings. Each creature within 15 feet of the dragon
-must succeed on a DC 25 Dexterity saving throw
-or take 16 (2d6 + 9) bludgeoning damage and be
-knocked prone. The dragon can then fly up to half
-its flying speed.
+Wing Attack (Costs 2 Actions). The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 

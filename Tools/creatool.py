@@ -546,9 +546,6 @@ def ingest(arg):
 
             if line.find('(') > 0:
                 # It has a parenthesized subtype
-                # Find the parenthesized string and split there
-                endparen = line.find(')')
-                sizeandtype = line[0:endparen+1]
                 # Fnd the paren in the new sizeandtype string
                 startparen = line.find('(')
                 endparen = line.find(')')
