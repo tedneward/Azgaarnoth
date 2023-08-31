@@ -1,4 +1,4 @@
-# Orc
+# [Orc](../Creatures/Orcs.md)
 
 • Ability Score Increase. Your Strength score increases by 2, your Constitution score increases by 1, and your Intelligence score is reduced by 2.
 

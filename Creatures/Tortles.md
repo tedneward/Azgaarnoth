@@ -5,6 +5,8 @@ Tortles are omnivorous, turtle-like bipeds with shells that cover most of their 
 
 Most tortles like to see how other folk live. A tortle can spend decades away from their native land without feeling homesick, often viewing their current companions as their family.
 
+***Playable Race: Slow but Steady.*** [Tortles](../Races/Tortles.md)...
+
 ---
 
 ## Tortle
