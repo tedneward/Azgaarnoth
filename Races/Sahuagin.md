@@ -1,4 +1,4 @@
-# Sahuagin
+# [Sahuagin](../Creatures/Sahuagin.md)
 
 A fish-like monstrous humanoid species that lives in oceans, seas, underground lakes, and underwater caves
 

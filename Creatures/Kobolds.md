@@ -1,7 +1,13 @@
 # Kobolds
-Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
+Some of the smallest draconic creatures in the multiverse, kobolds display their draconic ancestry in the glint of their scales and in their roars. While some legends claim kobolds' arrival came with the Hordes, other legends tell of the first kobolds emerging from the Underdark near the lairs of the earliest dragons.
 
 > Jump to: [Kobold](Kobolds.md#kobold) | [Winged Kobold](Kobolds.md#winged-kobold) | [Kobold Dragonshield](Kobolds.md#kobold-dragonshield) | [Kobold Inventor](Kobolds.md#kobold-inventor) | [Kobold Scale Sorcerer](Kobolds.md#kobold-scale-sorcerer)
+
+Historically, kobolds were craven reptilian humanoids that would worship evil dragons as demigods and serve them as minions and toadies. They would inhabit dragons' lairs when they could; they would scour dungeons and ruins when they couldn't, gathering treasures and trinkets to add to their own tiny hoards.
+
+Today, kobolds are often found in service to chromatic dragons--even worshipping them as divine beings--but in recent millennia, as the Hordes have come to understand the benefits of civilization and society, some kobolds chose to take up service with metallic dragons instead. Many have even joined the [Draconic Order](../Organizations/MilitantOrders/DraconicOrder/index.md), and serve as some of their most loyal members.
+
+Some dragons discount the relationship to the kobold, claiming that there is none, for how could such a majestic creature as a dragon be related to such a tiny scrawny creature as the kobold? Whatever that relationship, kobold scales tend to be rust colored, although the occasional kobold sports a scale color more akin to that of a chromatic or a metallic dragon. A kobold’s cry can express a range of emotion: anger, resolve, elation, fear, and more. Regardless of the emotion expressed, their cry resonates with draconic power, and serve as a sharp reminder that the dragon-blooded are to be respected, regardless of their size.
 
 ---
 
