@@ -1019,7 +1019,7 @@ def main(argv):
         if args.writeindex == '-':
             print(indexstr)
         else:
-            with open(args.writeindex + "/index.md", 'w') as indexfile:
+            with open(args.writeindex, 'w') as indexfile:
                 indexfile.write(indexstr)
     else:
         parser.print_help()
