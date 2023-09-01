@@ -106,6 +106,89 @@ Goblins are small, black-hearted, selfish humanoids that lair in caves, abandone
 
 ---
 
+## Goblin Bodyguard
+Not every goblin tough has it in it to become a boss. Even briefly maintaining rule over a lair requires considerable force of will. Tougher goblins without the drive to rule are usually singled out as bodyguards for those with it. About the only dependable fighting force of goblins not under hobgoblin command is a squad of goblin bodyguards defending their lair.
+
+>### Goblin Bodyguard
+>*Small humanoid (goblinoid), neutral evil*
+>___
+>- **Armor Class** 16 (hide armor, shield )
+>- **Hit Points** 18 (4d6 + 4)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|14 (+2)|12 (+1)|10 (+0)|8 (-1)|8 (-1)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Athletics +2,Stealth +6
+>- **Senses** darkvision 60 ft.,passive P erception 9
+>- **Languages** Common,Goblin
+>- **Challenge** 1
+>___
+>***Killer Instinct.*** Once per turn when the goblin hits a creature with a weapon attack, the creature takes an extra 3 (1d6) damage if it's below its hit point maximum.
+>
+>***Nimble Escape.*** The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
+>
+>#### Actions
+>***Multiattack.***  The goblin makes two attacks with its scimitar. The second attack has disadvantage.
+>
+>***Scimitar.*** Melee Weapon Attack:  +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
+>
+>***Crossbow.*** Ranged Weapon Attack:  +4 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+>
+
+---
+
+## Goblin King
+Periodically a goblin boss grows so powerful that other bosses submit to its rule. This "overboss" can be proclaimed a king or queen. The reign of a goblin king or queen is usually violently short, but in a few rare places one manages to found a lasting subterranean kingdom. It is more common to encounter an exiled goblin king and his bodyguards out raiding vulnerable areas on the outskirts of civilization, hoping to acquire enough booty to attract a new Horde.
+
+>### Goblin King
+>*Small humanoid (goblinoid), neutral evil*
+>___
+>- **Armor Class** 17 (chain shirt, shield)
+>- **Hit Points** 36 (8d6 + 8 )
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|12 (+1)|14 (+2)|12 (+1)|10 (+0)|8 (-1)|12 (+1)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Athletics +3,Intimidation +3,Stealth +6
+>- **Senses** darkvision 60 ft.,passive P erception 9
+>- **Languages** Common,Goblin
+>- **Challenge** 2
+>___
+>***Killer Instinct.*** Once per turn when the goblin hits a creature with a weapon attack, the creature takes an extra 3 (1d6) damage if it's below its hit point maximum.
+>
+>***Nimble Escape.*** The goblin can take the Disengage or Hide action as a bonus action on each of its turns .
+>
+>#### Actions
+>***Multiattack.***  The goblin makes two attacks with its scimitar.
+>
+>***Scimitar.*** Melee Weapon Attack:  +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing d amage.
+>
+>***Javelin.*** Ranged Weapon Attack:  +3 to hit, range 30/120 ft., one target. Hit: 4 (1d6 + 1 ) piercing damage.
+>
+>#### Reactions
+>***Redirect Attack.***  When a creature the goblin can see targets it with an attack, the goblin chooses another goblin within 5 feet of it. The two goblins swap places, and the chosen goblin becomes the target instead.
+>
+
+---
+
 ## Worg Rider
 Those goblins who are selected to ride the powerful goblinoid-wolves known as [Worgs](Wolves.md#worg) are tougher, faster, and meaner than their on-foot cousins. Worg Riders are feared among the goblins, and many a Worg Rider has gone on to become a Boss in their own right later in life. A Worg Rider bonds with its Worg, and the pair are inseparable for their (admittedly brief) lives.
 

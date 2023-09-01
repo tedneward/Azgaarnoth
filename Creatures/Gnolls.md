@@ -1,7 +1,7 @@
 # Gnolls
 Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without warning, slaughtering their victims and devouring their flesh.
 
-> Jump to: [Gnoll](Gnolls.md#gnoll) | [Gnoll Pack Lord](Gnolls.md#gnoll-pack-lord) | [Gnoll Fang of Yeenoghu](Gnolls.md#gnoll-fang-of-yeenoghu) | [Flind](Gnolls.md#flind) | [Gnoll Flesh Gnawer](Gnolls.md#gnoll-flesh-gnawer) | [Gnoll Hunter](Gnolls.md#gnoll-hunter) | [Gnoll Witherling](Gnolls.md#gnoll-witherling)
+> Jump to: [Gnoll](Gnolls.md#gnoll) | [Gnoll Pack Lord](Gnolls.md#gnoll-pack-lord) | [Gnoll Fang of Yeenoghu](Gnolls.md#gnoll-fang-of-yeenoghu) | [Flind](Gnolls.md#flind) | [Gnoll Flesh Gnawer](Gnolls.md#gnoll-flesh-gnawer) | [Gnoll Hunter](Gnolls.md#gnoll-hunter) | [Gnoll Witherling](Gnolls.md#gnoll-witherling) | [Gnoll Headhunter](Gnolls.md#gnoll-headhunter) | [Gnoll Hunt Master](Gnolls.md#gnoll-hunt-master)
 
 ***Hordish Background.*** Gnoll packs were a large part of the Hordes that battled against the Eldar from the earliest days of Azgaarnoth's history; since that time, most have continued their tribal, nomadic ways, generally moving southward and now making up a significant percentage of the Ulmhorde. Some tribes chose to seek a more permanent existence within the more "civilized" Hordes, and many gnolls found themselves finding peace within Yithi and Zhi. Other tribes keep to their nomadic background but seek less to pillage and more to trade. Those gnolls who have "civilized" tend to worship any of the other gods *except* Yeenoghu.
 
@@ -353,5 +353,91 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 >
 >#### Reactions
 >***Vengeful Strike.*** In response to a gnoll being reduced to 0 hit points within 30 feet of the witherling, the witherling makes one Bite or Spiked Club attack.
+>
+
+---
+
+## Gnoll Headhunter
+The fiercest and most experienced gnolls become viciously proficient and hunting and killing. When gnolls of this caliber find each other, they set out together to collect the heads of enemies. These hunting packs are often held in awe by lesser gnolls.
+
+>### Gnoll Headhunter
+>*Medium humanoid (gnoll), chaotic evil*
+>___
+>- **Armor Class** 14 (studded leather)
+>- **Hit Points** 65 (10d8 + 20 )
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|17 (+3)|15 (+2)|15 (+2)|8 (-1)|11 (+0)|9 (-1)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** Con +4
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +2,Survival +2
+>- **Senses** darkvision 60 ft.,passive P erception 12
+>- **Languages** Gnoll
+>- **Challenge** 
+>___
+>***Rampage.*** When a gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
+>
+>#### Actions
+>***Multiattack.*** The gnoll makes two melee attacks with its glaive or two ranged  attacks with its longbow. It may substitute its bite for one of its melee attacks.
+>
+>***Bite.*** Melee Weapon Attack:  +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3 ) piercing damage.
+>
+>***Glaive.*** Melee Weapon Attack:  +5 to hit, reach 10 ft., one target. Hit: 8 (1d10 + 3 ) slashing damage.
+>
+>***Longbow.*** Ranged Weapon Attack:  +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8  + 2) piercing damage.
+>
+>#### Reactions
+>***Revenge.*** When hit by a melee attack, the gnoll can mark the attacker for revenge. On its next turn, the gnoll has advantage on its first attack against that opponent.
+>
+
+---
+
+## Gnoll Hunt Master
+The bloodiest gnoll hunters become legendary among their race. Gnoll Headhunters travel far and wide to find and hunt with them. Gnoll hunt masters can attract large and dangerous hunting packs. Some prefer to hunt in small bands of masters only, and are among the most dreaded prowlers of the wilderness.
+
+>### Gnoll Hunt Master
+>*Medium humanoid (gnoll), chaotic evil*
+>___
+>- **Armor Class** 15 (studded leather)
+>- **Hit Points** 97 (13d8 + 39 )
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|16 (+3)|16 (+3)|10 (+0)|12 (+1)|13 (+1)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** Con +6,Wis +4
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +4,Survival +4
+>- **Senses** darkvision 60 ft.,passive Perception 14
+>- **Languages** Gnoll
+>- **Challenge** 6
+>___
+>***Rampage.*** When a gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack .
+>
+>#### Actions
+>***Multiattack.*** The gnoll makes two melee attacks with its glaive and one with its bite, or two ranged attacks with its longbow.
+>
+>***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+>
+>***Glaive.*** Melee Weapon Attack: +7 to hit, rea ch 10 ft., one target. Hit: 9 (1d10 + 4) slashing damage.
+>
+>***Longbow.*** Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
+>
+>#### Reactions
+>***Revenge.*** When hit by a melee attack, the gnoll can mark the attacker for revenge. On its next turn, the gnoll has advantage on its first attack against that opponent.
 >
 

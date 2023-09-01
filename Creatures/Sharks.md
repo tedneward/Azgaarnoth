@@ -12,7 +12,7 @@ A giant shark is 30 feet long and normally found in deep oceans. Utterly fearles
 Underwater
 
 ### Token
-![](GiantShark-Token.png)
+![](Sharks-Giant-Token.png)
 
 >### Giant Shark
 >*Huge beast, unaligned*
