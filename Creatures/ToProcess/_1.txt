@@ -1,65 +1,52 @@
-Yuan-ti Pit Master
-With snakes for arms, pit masters are yuan-ti malison priests who have made a pact with the god Merrshaulk and seek to rouse him from his slumber by sacrificing Humanoids to him. They are the most traditionalist yuan-ti and believe that they are best equipped to achieve the goals of their people.
+TROLL SHAMAN
+Large Giant, Chaotic Evil
 
-Pit masters are deeply involved in yuan-ti’s long-term plan to take over Humanoid governments, as well as in the ongoing effort to protect their cities from discovery or attacks by hostiles. They oppose reckless behavior and argue for a slow, cautious approach in all matters.
-
-YUAN-TI PIT MASTER
-Medium Monstrosity (Warlock), Typically Neutral Evil
-
-Armor Class 14 (natural armor)
-
-Hit Points 88 (16d8 + 16)
-
+Armor Class 15 (natural armor)
+Hit Points 135 (14d10 + 56)
 Speed 30 ft.
 
 STR
 16 (+3)
 DEX
-14 (+2)
-CON
 13 (+1)
+CON
+18 (+4)
 INT
-14 (+2)
+7 (-2)
 WIS
-12 (+1)
+14 (+2)
 CHA
-16 (+3)
-Saving Throws Wis +4, Cha +6
+7 (-2)
 
-Skills Deception +6, Stealth +5
+Skills Perception +5
+Senses Darkvision 60 ft., Passive Perception 15
+Languages Giant
+Challenge 7 (2,900 XP)
+Proficiency Bonus +3
 
-Damage Immunities poison
+Keen Smell. The troll has advantage on Wisdom (Perception) checks that rely on smell.
 
-Condition Immunities poisoned
+Spellcasting. The troll is a 8th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following druid spells prepared:
 
-Senses darkvision 120 ft., passive Perception 11
+Cantrips (at will): druidcraft, poison spray, thorn whip
 
-Languages Abyssal, Common, Draconic
+1st level (4 slots): earth tremor, entangle, fog cloud
 
-Challenge 5 (1,800 XP) Proficiency Bonus +3
+2nd level (3 slots): hold person, spike growth
 
-Devil’s Sight. Magical darkness doesn’t impede the yuan-ti’s darkvision.
+3rd level (3 slots): erupting earth, stinking cloud
 
-Magic Resistance. The yuan-ti has advantage on saving throws against spells and other magical effects.
+4th level (2 slots): ice storm, stoneskin
+
+Ravenous Presence. When an allied troll within 30 feet of this troll hits a creature with a bite attack, it is a critical hit, provided that this troll isn't incapacitated.
+
+Regeneration. The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
 Actions
+Multiattack. The troll makes three attacks: one with its bite and two with its claws.
 
-Multiattack. The yuan-ti makes three Bite attacks or two Spectral Fangs attacks.
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 
-Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.
+Claw. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
 
-Spectral Fangs. Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 16 (3d8 + 3) poison damage.
-
-Merrshaulk’s Slumber (1/Day). The yuan-ti targets up to five creatures that it can see within 60 feet of it. Each target must succeed on a DC 13 Constitution saving throw or fall into a magical sleep and be unconscious for 10 minutes. A sleeping target awakens if it takes damage or if someone uses an action to shake or slap it awake. This magical sleep has no effect on a creature immune to being charmed.
-
-Spellcasting (Yuan-ti Form Only). The yuan-ti casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):
-
-At will: animal friendship (snakes only), guidance, mage hand, message
-
-3/day: suggestion
-
-2/day each: hold person, invisibility
-
-Bonus Actions
-
-Change Shape. The yuan-ti transforms into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. If it dies, it stays in its current form.
+Vaprak's Fury (Recharges after a Short or Long Rest). The troll targets up to three allied trolls it can see within 30 feet of it. Each target gains advantage on melee attack rolls until the end of its next turn. In addition, each target regains 10 hit points unless they took acid or fire damage during its last turn.

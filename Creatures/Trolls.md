@@ -1,14 +1,63 @@
 # Trolls
 Trolls that are nearly obliterated but survive and regenerate from mere scraps of flesh can display bizarre features. Radically transformed trolls like the rot trolls, spirit trolls, and venom trolls that follow are especially likely to arise when trolls regenerate in the presence of magical emanations, planar energy, disease, or death on a vast scale, or if their bodies were damaged by elemental forces. These unusual forms can also be produced and shaped by the ritual magic of evil spellcasters or by trolls' own practices, as is the case for dire trolls.
 
-> Jump to: [Dire Troll](Trolls.md#dire-troll) | [Rot Troll](Trolls.md#rot-troll) | [Spirit Troll](Trolls.md#spirit-troll) | [Venom Troll](Trolls.md#venom-troll)
+> Jump to: [Troll](Trolls.md#troll) | [Dire Troll](Trolls.md#dire-troll) | [Rot Troll](Trolls.md#rot-troll) | [Spirit Troll](Trolls.md#spirit-troll) | [Venom Troll](Trolls.md#venom-troll) | [Cave Troll](Trolls.md#cave-troll) | [Stone Troll](Trolls.md#stone-troll) | [Forest Troll](Trolls.md#forest-troll) | [Mountain Troll](Trolls.md#mountain-troll) | 
 
 ***Vaprak the Destroyer.*** Although trolls are rarely devout and seldom ponder spiritual questions, some fear and venerate the entity known as Vaprak the Destroyer. Vaprak's true nature is something of a mystery, but Vaprak is always portrayed as a horrid, misshapen, greenish creature strongly resembling a troll. Vaprak is given to fits of mindless destruction and uncontrollably fears the plots and ambitions of other deities.Vaprak's troll worshipers believe this god devours the souls of those who have been cooked or digested (slain by fire or acid). Otherwise, the god spits the soul back into the world to regenerate a new body.
 
 ---
 
+## Troll
+Born with horrific appetites, trolls eat anything they can catch and devour. They have no society to speak of, but they do serve as mercenaries, particularly to the Hordish nations, but also to various third parties (particularly hags). As payment, trolls demand food and treasure. Trolls are difficult to control, however, doing as they please even when working with more powerful creatures.
+
+***Regeneration.*** Smashing a troll’s bones and slashing through its rubbery hide only makes it angry. A troll’s wounds close quickly. If the monster loses an arm, a leg, or even its head, those dismembered parts can sometimes act with a life of their own. A troll can even reattach severed body parts, untroubled by its momentary disability. Only acid and fire can arrest the regenerative properties of a troll’s flesh. The trolls, enraged, will attack individuals making acid and fire attacks against them above all other prey.
+
+***Troll Freaks.*** Their regenerative capabilities make trolls especially susceptible to mutation. Although uncommon, such transformations can result from what the troll has done or what has been done to it. A decapitated troll might grow two heads from the stump of its neck, while a troll that eats a fey creature might gain one or more of that creature’s traits.
+
+### Environment
+Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Ruins, Underdark
+
+>### Troll
+>*Large giant, chaotic evil*
+>___
+>- **Armor Class** 15 (natural armor)
+>- **Hit Points** 84 (8d10 + 40)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|13 (+1)|20 (+5)|7 (-2)|9 (-1)|7 (-2)|
+>
+>___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +2
+>- **Senses** darkvision 60 ft.,passive Perception 12
+>- **Languages** Giant
+>- **Challenge** 5
+>___
+>***Keen Smell.*** The troll has advantage on Wisdom (Perception) checks that rely on smell.
+>
+>***Regeneration.*** The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
+>
+>#### Actions
+>***Multiattack.*** The troll makes three attacks: one with its bite and two with its claws.
+>
+>***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+>
+>***Claw.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+>
+
+---
+
 ## Dire Troll
 Trolls kill and eat almost anything--including, in rare cases, other trolls. This cannibalism has the effect of causing a troll to grow to an unusually large size. The resulting dire trolls crave more and more troll flesh to fuel their continued growth.
+
+![](Trolls-Dire.png)
 
 Dire trolls also increase their size by grafting flesh onto themselves. When a slab of quivering troll flesh is bound against a fresh wound on a dire troll, the dire troll's regenerative capacity incorporates the new mass into the troll's own musculature. Even more horrifying are the multiple arms, eyes, claws, and organs that dire trolls tear from their victims and graft onto themselves in this manner.
 
@@ -186,3 +235,241 @@ A troll that survives massive doses of poison might transform into a venom troll
 >***Venom Spray (Recharge 6).*** The troll slices itself with a claw, releasing a spray of poison in a 15-foot cube. The troll takes 7 (2d6) slashing damage, which can't be reduced in any way. Each creature in the area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (4d8) poison damage and is poisoned for 1 minute. On a successful save, the creature takes half as much damage and isn't poisoned. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
 
+---
+
+## Cave Troll
+Ages ago a branch of trolls moved into the Underdark. Subterranean existence turned their bodies pale but also incredibly bulky and strong. Over time their intelligence degraded some but made them no less ravenous or cruel, while the strange energies of the Underdark weakened their regeneration but removed the vulnerabilities to acid or fire. Sadly (or, perhaps not so sadly), the Underdark energies also made them significantly vulnerable to direct sunlight.
+
+Cave trolls can be found in small groups prowling the deep caverns of the Underdark (or sometimes closer to the surface, if they get lost and accidentally find exits into the open air), but more often they are found as guards in Underdark fortresses.
+
+### Environment
+Mountain, Underdark
+
+### Token
+
+>### Cave Troll
+>*Large giant, chaotic evil*
+>___
+>- **Armor Class** 15 (natural armor)
+>- **Hit Points** 230 (20d10 + 120)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|22 (+6)|10 (+0)|22 (+6)|4 (-3)|7 (-2)|7 (-2)|
+>
+>___
+>- **Proficiency Bonus** +4
+>- **Saving Throws** St +10,Con +10
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +2
+>- **Senses** darkvision 90 ft.,passive Perception 12
+>- **Languages** understands Undercommon (can't speak intelligibly)
+>- **Challenge** 12
+>___
+>***Keen Smell.*** The troll has advantage on Wisdom (Perception) checks that rely on smell.
+>
+>***Regeneration.*** The troll regains 15 hit points at the start of its turn if it has at least 1 hit point.
+>
+>***Sunlight Curse.*** While in direct sunlight, the troll has disadvantage on all checks, including saving throws and attack rolls. At the start of its turn, it must make a DC 15 Constitution saving throw or be permanently petrified at the end of its turn. If the troll is subjected to artificial sunlight, it still has disadvantage and must make the Constitution save, but failure only inflicts 22 (4d10) radiant damage upon the troll rather than petrification.
+>
+>#### Actions
+>***Multiattack.*** The troll makes three attacks: one stomp and two with its claws.
+>
+>***Claws.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 15 (2d8 + 6) slashing damage.
+>
+>***Stomp.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) bludgeoning damage. If the target is a creature of a size smaller than the troll, it must succeed on a DC 18 Strength saving throw or be knocked prone.
+>
+
+---
+
+## Forest Troll
+It is not known who (or what) ages ago crossed a troll with a treant, but the result was the forest troll, a creature with all the troll's "finer" characteristics and almost none of the treant's, save the treant's weakness to fire and its resemblance to forests. The slender body of a forest troll is triple the height of a human male, and covered in bark-like natural armor. Forest trolls lack some of the inherent cruelty and evil tendencies of their troll cousins (perhaps another benefit of the treant's ancestry), but they still have ferocious appetites and are violently territorial.
+
+Forest trolls typically don't associate with other creatures, and stay close to their forest dens, where they feast on intruders who cannot quickly come up with an incentive for the troll to behave otherwise.
+
+### Environment
+Forest
+
+### Token
+
+>### Forest Troll
+>*Huge giant, chaotic neutral*
+>___
+>- **Armor Class** 16 (natural armor)
+>- **Hit Points** 195 (17d12 + 85)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|20 (+5)|9 (-1)|21 (+5)|8 (-1)|12 (+1)|8 (-1)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** fire
+>- **Damage Resistances** bludgeoning,piercing
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** 
+>- **Senses** darkvision 60 ft.,passive Perception 11
+>- **Languages** Druidic,Sylvan
+>- **Challenge** 10
+>___
+>***Keen Smell.*** The troll has advantage on Wisdom (Perception) checks that rely on smell.
+>
+>***Regeneration.*** The troll regains 15 hit points at the start of its turn. If the troll takes fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
+>
+>***False Appearance.*** While the troll remains motionless, it is indistinguishable from a normal tree.
+>
+>***Forest Camouflage.*** The troll has advantage on Dexterity (Stealth) checks to hide in wooded terrain.
+>
+>#### Actions
+>***Multiattack.*** The troll makes three attacks: one with its bite and two with its claws.
+>
+>***Bite.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) piercing damage.
+>
+>***Claws.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 15 (3d6 + 5) slashing damage.
+>
+
+---
+
+## Mountain Troll
+Legends tell of a troll that stands 20 feet tall, vaguely giant-like in appearance, and lacking the traditional troll stupidity. These trolls keep to themselves in the mountain ranges in which they live, and legends suggest they are not as numerous, slower to reproduce, and only venture out when their appetite drives them to.
+
+Legends also tell that when Yithi met one, their battle was punctuated by exchanges of wit and humor, until the two found themselves reluctant to actually hurt the other. That friendship, it is said, led to a secret pact between a village of mountain trolls and the Principality of Yithi, swearing friendship and mutual self-defense when necessary. Whether such stories are true, just the thought of dozens or more of these creatures on the battlefield is enough to make even the most bloodthirsty general think twice.
+
+>### Mountain Troll
+>*Huge giant, neutral*
+>___
+>- **Armor Class** 16 (natural armor)
+>- **Hit Points** 283 (21d12 + 147)
+>- **Speed** 40 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|24 (+7)|12 (+1)|24 (+7)|10 (+0)|13 (+1)|11 (+0)|
+>
+>___
+>- **Proficiency Bonus** +5
+>- **Saving Throws** Str +12,Int +5,Wis +6,Cha +5
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +6
+>- **Senses** darkvision 60 ft.,passive Perception 16
+>- **Languages** Giant
+>- **Challenge** 15
+>___
+>***Keen Smell.*** The troll has advantage on Wisdom (Perception) checks that rely on smell.
+>
+>***Regeneration.*** The troll regains 20 hit points at the start of its turn.
+>
+>***Mountain Camouflage.*** The troll has advantage on Dexterity (Stealth) checks to hide in rocky terrain.
+>
+>#### Actions
+>***Multiattack.*** The troll makes three attacks: one stomp and two with its claws.
+>
+>***Claws.*** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) slashing damage.
+>
+>***Stomp.*** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 21 (4d6 + 7) bludgeoning damage. If the target is a creature of a size smaller than the troll, it must succeed on a DC 20 Strength saving throw or be knocked prone.
+>
+>**Rock.** Ranged Weapon Attack: +12 to hit, range 60/240 ft., one target. Hit: 33 (4d12 + 7) bludgeoning damage.
+>
+
+---
+
+## Stone Troll
+The stone trolls are smaller and bulkier than the normal troll, but no less fierce. They tend to dwell near the outskirts of civilization, where they have learned passable Common and often wear some measure of clothing. They prey on travelers and their animals, before they are either slain or drafted into military service.
+
+Scholars have noted that, over the centuries, stone trolls appear to be benefiting from their exposure to civilization, and many are now looking to join it, rather than eat it. Acceptance of a stone troll within civilized borders is not widespread, but several Yithi cities have small troll populations within them, and the trolls there are well-behaved and (if the stories are to be believed) productive members of society.
+
+>### Stone Troll
+>*Large giant, typically chaotic evil*
+>___
+>- **Armor Class** 15 (natural armor)
+>- **Hit Points** 115 (11d10 + 55)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|20 (+5)|10 (+0)|20 (+5)|10 (+0)|7 (-2)|8 (-1)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** radiant
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** 
+>- **Senses** darkvision 60 ft.,passive Perception 8
+>- **Languages** Giant,Common
+>- **Challenge** 6
+>___
+>***Keen Smell.*** The troll has advantage on Wisdom (Perception) checks that rely on smell.
+>
+>***Regeneration.*** The troll regains 10 hit points at the start of its turn if it has at least 1 hit point. If the troll takes fire or radiant damage, this trait doesn't function at the start of the troll's next turn.
+>
+>#### Actions
+>***Multiattack.*** The troll makes three attacks: one stomp and two with its greatclub.
+>
+>***Greatclub.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.
+>
+>***Stomp.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage. If the target is a creature of a size smaller than the troll, it must succeed on a DC 16 Strength saving throw or be knocked prone.
+>
+
+---
+
+## Troll Shaman
+Troll shamans are trolls that support its brethren with spells to control the battlefield and tip the conflict in their favor. These trolls can also instill the fury and constitution of Vaprak temporarily in its allies, enabling them to fight with unnatural ferocity and regain hit points. Few trolls can calm their appetite enough to hear the call of Vaprak, which is fortunate for almost every other race on Azgaarnoth.
+
+>### Troll Shaman
+>*Large giant, chaotic evil*
+>___
+>- **Armor Class** 15 (natural armor)
+>- **Hit Points** 135 (14d10 + 56)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|13 (+1)|18 (+4)|7 (-2)|14 (+2)|7 (-2)|
+>
+>___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +5
+>- **Senses** Darkvision 60 ft.,Passive Perception 15
+>- **Languages** Giant
+>- **Challenge** 7
+>___
+>***Keen Smell.*** The troll has advantage on Wisdom (Perception) checks that rely on smell.
+>
+>***Ravenous Presence.*** When an allied troll within 30 feet of this troll hits a creature with a bite attack, it is a critical hit, provided that this troll isn't incapacitated.
+>
+>***Regeneration.*** The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
+>
+>#### Actions
+>***Multiattack.*** The troll makes three attacks: one with its bite and two with its claws.
+>
+>***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+>
+>***Claw.*** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
+>
+>***Vaprak's Fury (Recharges after a Short or Long Rest).*** The troll targets up to three allied trolls it can see within 30 feet of it. Each target gains advantage on melee attack rolls until the end of its next turn. In addition, each target regains 10 hit points unless they took acid or fire damage during its last turn.
+>
+>***Spellcasting.*** The troll is a 8th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following druid spells prepared:
+>* Cantrips (at will): druidcraft, poison spray, thorn whip
+>* 1st level (4 slots): earth tremor, entangle, fog cloud
+>* 2nd level (3 slots): hold person, spike growth
+>* 3rd level (3 slots): erupting earth, stinking cloud
+>* 4th level (2 slots): ice storm, stoneskin
+>

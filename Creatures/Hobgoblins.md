@@ -1,7 +1,7 @@
 # Hobgoblins
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
 
-> Jump to: [Hobgoblin](Hobgoblins.md#hobgoblin) | [Hobgoblin Warrior](Hobgoblins.md#hobgoblin-warrior) | [Hobgoblin Veteran](Hobgoblins.md#hobgoblin-veteran) | [Hobgoblin Sergeant](Hobgoblins.md#hobgoblin-sergeant) | [Hobgoblin Captain](Hobgoblins.md#hobgoblin-captain) | [Hobgoblin Warlord](Hobgoblins.md#hobgoblin-warlord) | [Bladebearer](Hobgoblins.md#bladebearer) | [Devastator](Hobgoblins.md#devastator) | [Hobgoblin Iron Shadow](Hobgoblins.md#hobgoblin-iron-shadow) | [Kulkor Zhul War Adept](Hobgoblins.md#kulkor-zhul-war-adept) | [Kulkor Zhul Mindbender](Hobgoblins.md#kulkor-zhul-mindbender) | [Doom Hand Cleric](Hobgoblins.md#doom-hand-cleric) | [Doom Fist Monk](Hobgoblins.md#doom-fist-monk)
+> Jump to: [Hobgoblin](Hobgoblins.md#hobgoblin) | [Hobgoblin Warrior](Hobgoblins.md#hobgoblin-warrior) | [Hobgoblin Veteran](Hobgoblins.md#hobgoblin-veteran) | [Hobgoblin Sergeant](Hobgoblins.md#hobgoblin-sergeant) | [Hobgoblin Captain](Hobgoblins.md#hobgoblin-captain) | [Hobgoblin Warlord](Hobgoblins.md#hobgoblin-warlord) | [Bladebearer](Hobgoblins.md#bladebearer) | [Devastator](Hobgoblins.md#devastator) | [Hobgoblin Iron Shadow](Hobgoblins.md#hobgoblin-iron-shadow) | [Kulkor Zhul War Adept](Hobgoblins.md#kulkor-zhul-war-adept) | [Kulkor Zhul Mindbender](Hobgoblins.md#kulkor-zhul-mindbender) | [Doom Hand Cleric](Hobgoblins.md#doom-hand-cleric) | [Doom Fist Monk](Hobgoblins.md#doom-fist-monk) | [General]()
 
 Hobgoblins have dark orange or red-orange skin, and hair ranging from dark red-brown to dark gray. Yellow or dark brown eyes peer out beneath their beetling brows, and their wide mouths sport sharp and yellowed teeth. A male hobgoblin might have a large blue or red nose, which symbolizes virility and power among goblinkin. Hobgoblins can live as long as humans, though their love of warfare and battle means that few do.
 
@@ -409,15 +409,10 @@ If they survive long enough, Devastators usually end up looking to join one of t
 >***Devastating Bolt.*** Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 21 (4d8 + 3) force damage, and the target is knocked prone.
 >
 >***Spellcasting.*** The hobgoblin is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:
->
 >* Cantrips (at will): acid splash, fire bolt, ray of frost, shocking grasp
->
 >* 1st level (4 slots): fog cloud, magic missile, thunderwave
->
 >* 2nd level (3 slots): gust of wind, Melf's acid arrow, scorching ray
->
 >* 3rd level (3 slots): fireball, fly, lightning bolt
->
 >* 4th level (1 slot): ice storm
 >
 
@@ -479,10 +474,8 @@ It is rumored that the Order of Iron Shadows is organized precisely along the sa
 >***Shadow Jaunt.*** The hobgoblin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see. Both the space it leaves and its destination must be in dim light or darkness.
 >
 >***Spellcasting.*** The hobgoblin casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 12):
->
->At will: minor illusion, prestidigitation
->
->1/day each: charm person, disguise self, silent image
+>* At will: minor illusion, prestidigitation
+>* 1/day each: charm person, disguise self, silent image
 >
 
 ---
@@ -520,39 +513,27 @@ The Kulkor Zhul War Adepts are a sect of hobgoblin that have embraced their sorc
 >- **Challenge** 3
 >___
 >***Sorcery Points.*** 8 sorcery points, which can be used as follows:
->
 >* *Creating Spell Slots* 1st requires 2 points, 2nd requires 3 points, 3rd requires 5 points, 4th requires 6 points.
->
 >* *Converting a Spell Slot to Sorcery Points* Expend one spell slot and gain a number of sorcery points equal to the slot's level.
->
 >* *Empowering Reserves* When you make an ability check on your turn, you can spend 2 sorcery points to gain advantage on the check.
->
 >* *Imbuing Touch* As an action, you can touch one nonmagical weapon and spend 2 sorcery points to imbue it with magic for one minute. For the duration, the weapon is considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.
->
 >* *Sorcerous Fortitude* As an action, you can spend any number of sorcery points to roll a d4 for each point expended. You gain a number of temporary hit points equal to the total rolled.
 >
 >***Metamagic.*** You can only use one metamagic option on a spell when you cast it, unless otherwise noted.
->
 >* *Empowered Spell* When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.
->
 >* *Elemental Spell* When you cast a spell that deals a type of damage from the following list, you can spend 1 sorcery point to change that damage type to one of the other listed types: acid, cold, fire, lightning, thunder.
->
->***Spellcaster.*** Sorcerer caster level 8th, spell attack bonus +7, Spell Save DC 15. 5 cantrips known, 9 spells known
->
->Cantrips: acid splash, blade ward, fire bolt, message, true strike
->
->1st (4 slots): chaos bolt, fog cloud, shield
->
->2nd (3 slots): cloud of daggers, invisibility
->
->3rd (3 slots): fireball, haste
->
->4th (2 slots): ice storm, summon aberrant spirit
 >
 >#### Actions
 >**Shortbow.** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 >
 >**Scimitar.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
+>
+>***Spellcaster.*** Sorcerer caster level 8th, spell attack bonus +7, Spell Save DC 15. 5 cantrips known, 9 spells known
+>* Cantrips: acid splash, blade ward, fire bolt, message, true strike
+>* 1st (4 slots): chaos bolt, fog cloud, shield
+>* 2nd (3 slots): cloud of daggers, invisibility
+>* 3rd (3 slots): fireball, haste
+>* 4th (2 slots): ice storm, summon aberrant spirit
 >
 
 ---
@@ -604,16 +585,11 @@ The Mindbenders are Hobgoblin bards that serve as political officers across the 
 >***Spellcasting Focus.*** Mindbenders can use their weapons as an arcane focus for their spells.
 >
 >***Spellcaster.*** Bard caster level 7th, spell attack bonus +6, Spell Save DC 14.
->
->Cantrips: blade ward, message, minor illusion
->
->1st (4 slots): charm person, detect magic, disguise self
->
->2nd (3 slots): cloud of daggers, detect thoughts, suggestion
->
->3rd (3 slots): hypnotic pattern, major image
->
->4th (1 slot): greater invisibility, phantasmal killer
+>* Cantrips: blade ward, message, minor illusion
+>* 1st (4 slots): charm person, detect magic, disguise self
+>* 2nd (3 slots): cloud of daggers, detect thoughts, suggestion
+>* 3rd (3 slots): hypnotic pattern, major image
+>* 4th (1 slot): greater invisibility, phantasmal killer
 >
 >#### Actions
 >***Shortbow.*** 
@@ -660,12 +636,9 @@ The Doom Hand Clerics are a sect of Maglubiyet worshippers dedicated to the adva
 >***Dark Devotion.*** The doom hand cleric has advantage on saving throws against being charmed or frightened.
 >
 >***Spellcasting.*** The doom hand cleric is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The doom hand has the following cleric spells prepared:
->
->Cantrips (at will): [resistance](../Magic/Spells/resistance.md), [spare the dying](../Magic/Spells/spare-the-dying.md), [thaumaturgy](../Magic/Spells/thaumaturgy.md)
->
->1st level (4 slots): [bane](../Magic/Spells/bane.md)/[bless](../Magic/Spells/bless.md), [inflict wounds](../Magic/Spells/inflict-wounds.md), [guiding bolt](../Magic/Spells/guiding-bolt.md), [shield of faith](../Magic/Spells/shield-of-faith.md)
->
->2nd level (3 slots): [hold person](../Magic/Spells/hold-person.md), [invisibility](../Magic/Spells/invisibility.md), [spiritual weapon](../Magic/Spells/spiritual-weapon.md)
+>* Cantrips (at will): [resistance](../Magic/Spells/resistance.md), [spare the dying](../Magic/Spells/spare-the-dying.md), [thaumaturgy](../Magic/Spells/thaumaturgy.md)
+>* 1st level (4 slots): [bane](../Magic/Spells/bane.md)/[bless](../Magic/Spells/bless.md), [inflict wounds](../Magic/Spells/inflict-wounds.md), [guiding bolt](../Magic/Spells/guiding-bolt.md), [shield of faith](../Magic/Spells/shield-of-faith.md)
+>* 2nd level (3 slots): [hold person](../Magic/Spells/hold-person.md), [invisibility](../Magic/Spells/invisibility.md), [spiritual weapon](../Magic/Spells/spiritual-weapon.md)
 >
 >#### Actions
 >***Multiattack.*** The doom hand makes two melee attacks.
@@ -710,10 +683,8 @@ The Doom First Monks are a monastic order of hobgoblins dedicated to the cause o
 >***Unarmored Defense.*** While the doom fist monk is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 >
 >***Spellcasting.*** The doom fist monk is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The doom fist has the following spells prepared:
->
->Cantrips (at will): acid splash, fire bolt, ray of frost
->
->1st level (4 slots): burning hands, mage armor, thunderwave
+>* Cantrips (at will): acid splash, fire bolt, ray of frost
+>* 1st level (4 slots): burning hands, mage armor, thunderwave
 >
 >#### Actions
 >***Multiattack.*** The doom fist monk makes four attacks, each of which can be an unarmed strike or a dart attack.
@@ -723,3 +694,54 @@ The Doom First Monks are a monastic order of hobgoblins dedicated to the cause o
 >***Javelin.*** Ranged Weapon Attack. Hit: +5, Range 20/60, One target, 1d8+3 piercing damage.
 >
 
+---
+
+## Hobgoblin General
+Not all hobgoblin warlords are equal; every so often an exceptional commander appears who can suppress the intense rivalry between the legions through personal strength and sheer force of will. Such a hobgoblin is recognized by a rank that translates to "general" in Common. The depth of cunning of these individuals makes them incredibly dangerous for any who stand against the general's goals or allies.
+
+>### Hobgoblin General
+>*Medium humanoid (goblinoid), lawful evil*
+>___
+>- **Armor Class** 18 (plate)
+>- **Hit Points** 127 (17d8 + 51)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|17 (+3)|14 (+2)|17 (+3)|15 (+2)|12 (+1)|16 (+3)|
+>
+>___
+>- **Proficiency Bonus** +5
+>- **Saving Throws** Int +6,Wis +5,Cha +7
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** 
+>- **Senses** darkvision 60 ft.,passive Perception 11
+>- **Languages** Common,Goblin
+>- **Challenge** 9
+>___
+>***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 14 (4d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
+>
+>#### Actions
+>***Multiattack.*** The hobgoblin makes three attacks.
+>
+>***Greatsword.*** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
+>
+>***Javelin.*** Ranged Weapon Attack: +11 to hit, range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+>
+>***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or saving throw. The creature can add a d4 to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is incapacitated.
+>
+>#### Reactions
+>***Parry.*** The hobgoblin adds 4 to its AC against one melee attack that would hit it. To do so, the hobgoblin must see the attacker and be wielding a melee weapon.
+>
+>#### Legendary Actions
+>The hobgoblin general can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The hobgoblin general regains spent legendary actions at the start of its turn.
+>
+>***Attack.*** The hobgoblin general makes one melee weapon attack.
+>
+>***Bolster.*** All goblinoids within 30 feet of, and including, the hobgoblin general are bolstered until the end of its next turn. Bolstered goblinoids can't be charmed or frightened.
+>
+>***Maneuver (Costs 2 Actions).*** All goblinoids within 30 feet of, and including, the hobgoblin general can immediately move up to half their speed. Opportunity attacks against them are at disadvantage.
+>
