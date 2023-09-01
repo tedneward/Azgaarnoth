@@ -397,6 +397,63 @@ The wretched and hateful green hags dwell in dying forests, lonely swamps, and m
 
 ---
 
+## Howling Hag
+Howling hags prefer to live near or within the communities of the humanoids they prey upon, usually hiding within towns and cities. These hags hide their true form, which is a sickly yellow or tan color, wrinkled, and sagging, behind a carefully-crafted illusory disguise, living as beautiful performers, artists, merchants, and even courtesans. Howling hags especially enjoy any role that enables them to make use of their alluring singing or speaking voice. They use the opportunities afforded by these personas to strike at their victims, invisibly carrying them away when they won't be heard or tearing them apart with both claws in one deadly embrace.
+
+***Masters of Wind.*** Howling hags have a magical affinity for wind and sound. They can command winds to push or pull foes, to hurl them into the air, or to create a protective wall When they spread their arms wide, wind rushes to them, carrying them into the air in magical flight. They have excellent hearing even for hags, and their innate magic protects them from losing their hearing.
+
+***Vain of Voice.*** There are few hags more vain than howling hags, and their vanity is the strongest in regards to the sounds of their voices. A howling hag's voice changes while she is disguised by her own magic, becoming lovely and melodic. But a howling hag's true voice -- heard only when her true form is revealed -- is raspy, grating, and physically painful to listen to. Despite this, howling hags believe their true voices to be the most beautiful of alL a voice saved as a gift for those they devour. They are remarkably easy to flatter when it comes to their true voices, but insulting one's voice will greatly enrage the hag.
+
+### Environment
+Desert, Grassland, Mountain, Urban
+
+### Token
+![](HowlingHag-Token.png)
+
+>### Howling Hag
+>*Medium fey, neutral evil*
+>___
+>- **Armor Class** 16 (natural armor)
+>- **Hit Points** 105 (12d8 + 42)
+>- **Speed** 30 ft., fly 50 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|15 (+2)|16 (+3)|11 (+0)|15 (+2)|17 (+3)|
+>___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold,thunder
+>- **Damage Immunities** 
+>- **Condition Immunities** deafened
+>- **Skills** Deception +6,Perception +5,Performance+6, Stealth + 5
+>- **Senses** darkvision 60 ft.,passive Perception 15
+>- **Languages** Auran,Common,Sylvan
+>- **Challenge** 6
+>___
+>***Keen Hearing.*** The hag has advantage on Wisdom (Perception) checks that rely on hearing.
+>
+>***See Invisibility.*** The hag can see invisible creatures and objects as if they were visible, and she can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
+>
+>#### Actions
+>***Multiattack.*** The hag makes two claw attacks. If both attacks hit the same target, the target takes 9 (2d8) extra slashing damage.
+>
+>***Claw.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
+>
+>***Improved Invisibility.*** The hag magically turns invisible until her concentration ends (as if concentrating on a spell) or she casts a spell. Any equipment the hag wears or carries is invisible with her.
+>
+>***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 13). She can innately cast the following spells, requiring no material components:
+>* At will: dancing lights, disguise self, gust of wind, minor illusion, thunderwave
+>* 3/day each: charm person, cyclone, wind funnel (new), wind wall
+>* 1/day each: control winds
+>
+>***Shrieking Howl (Recharge 5-6).*** The hag shrieks loudly enough that she can be heard from up to 500 feet away. Each other creature within 60 feet of the hag must make a Constitution saving throw. On a failed save, a creature takes 13 (3d8) thunder damage and 13 (3d8) psychic damage and it is deafened until the end of the hag's next turn. While a creature is deafened in this way, it is confused, giving it disadvantage on attack rolls, Intelligence checks, and Wisdom checks. Other howling hags are immune to this ability.
+>
+
+
+--- 
+
 ## Night Hag
 Sly and subversive, night hags want to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness. Night hags take perverse joy in corrupting mortals.
 
@@ -546,36 +603,37 @@ Some storm hags can animate small clouds to sit and ride upon to fly through the
 >|15 (+2)|16 (+3)|14 (+2)|18 (+4)|15 (+2)|19 (+4)|
 >
 >___
->- **Proficiency Bonus** cold, thunder
->- **Saving Throws** s** lightning
->- **Damage Vulnerabilities** armed, exhaustion, frightened, paralyzed, poisoned
->- **Damage Resistances** arkvision 60 ft., passive Perception 16
->- **Damage Immunities** Deception +8, Nature +8, Perception +6, Stealth +7
->- **Condition Immunities** p Speech, Draconic, Giant, Primordial, Sylvan
->- **Skills** ** 10
->- **Senses** 
->- **Languages** * The hag can breathe air and water.
->- **Challenge** 
+>- **Proficiency Bonus** +4
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold, thunder
+>- **Damage Immunities** lightning
+>- **Condition Immunities**
+>- **Skills** Arcana +8, Deception +8, Nature +8, Perception +6, Stealth +7
+>- **Senses** darkvision 60ft, passive Perception 16
+>- **Languages** Common, Deep Speech, Draconic, Giant, Primordial, Sylvan
+>- **Challenge** 10
 >___
->***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 16). She can innately cast the following spells, requiring no material components, although she can only cast *divination* or *scrying* by staring at the sky, the currents of the ocean, or a storm that she has trapped or bottled:
+>***Amphibious.*** The hag can breathe air and water.
 >
->* *At will*: [call lightning](../Magic/Spells/call-lightning.md), [disguise self](../Magic/Spells/disguise-self.md), [druidcraft](../Magic/Spells/druidcraft.md), [feather fall](../Magic/Spells/feather-fall.md), [fly](../Magic/Spells/fly.md) (self only), [gaseous form](../Magic/Spells/gaseous-form.md), [gust of wind](../Magic/Spells/gust-of-wind.md)
->
->* *3/day each*: c[ontrol water](../Magic/Spells/control-water.md), [fog cloud](../Magic/Spells/fog-cloud.md) (as 5th-level), [lightning bolt](../Magic/Spells/lightning-bolt.md) (as 5th-level), [water breathing](../Magic/Spells/water-breathing.md)
->
->* *1/day each*: [control weather](../Magic/Spells/control-weather.md), [divination](../Magic/Spells/divination.md), [geas](../Magic/Spells/geas.md), [scrying](../Magic/Spells/scrying.md), [wind walk](../Magic/Spells/wind-walk.md)
+>***Portent from Weather.*** At the start of each day, the hag peers into the sky or the ocean for at least 1 minute, then the DM rolls three d20s and records the numbers rolled. During that day, the hag can replace any attack roll, saving throw, or ability check made by her or a creature that she can see with one of these foretelling rolls before the roll is made.
 >
 >### Actions
+>***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 16). She can innately cast the following spells, requiring no material components, although she can only cast *divination* or *scrying* by staring at the sky, the currents of the ocean, or a storm that she has trapped or bottled:
+>* *At will*: [call lightning](../Magic/Spells/call-lightning.md), [disguise self](../Magic/Spells/disguise-self.md), [druidcraft](../Magic/Spells/druidcraft.md), [feather fall](../Magic/Spells/feather-fall.md), [fly](../Magic/Spells/fly.md) (self only), [gaseous form](../Magic/Spells/gaseous-form.md), [gust of wind](../Magic/Spells/gust-of-wind.md)
+>* *3/day each*: c[ontrol water](../Magic/Spells/control-water.md), [fog cloud](../Magic/Spells/fog-cloud.md) (as 5th-level), [lightning bolt](../Magic/Spells/lightning-bolt.md) (as 5th-level), [water breathing](../Magic/Spells/water-breathing.md)
+>* *1/day each*: [control weather](../Magic/Spells/control-weather.md), [divination](../Magic/Spells/divination.md), [geas](../Magic/Spells/geas.md), [scrying](../Magic/Spells/scrying.md), [wind walk](../Magic/Spells/wind-walk.md)
 >
 >***Slam.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) bludgeoning damage plus 9 (2d8) lightning damage.
 >
->***Bottled Storm (7/Day).*** The hag releases the storm cloud she had saved in a bottle. The area within 60 feet of the hag becomes heavily obscured difficult terrain for l minute. The hag ignores this difficult terrain. A creature that begins its turn in the area or enters it for the first time on a turn takes l 3 (3d8) lightning damage.
+>***Bottled Storm (1/Day).*** The hag releases the storm cloud she had saved in a bottle. The area within 60 feet of the hag becomes heavily obscured difficult terrain for l minute. The hag ignores this difficult terrain. A creature that begins its turn in the area or enters it for the first time on a turn takes l 3 (3d8) lightning damage.
 >
 >### Reactions
 >
 >***Cloud Form.*** When the hag would be hit by a melee attack, she can transform into a cloud for a moment (or a cloud of black ink when used underwater), causing the attack to miss. When she does, she can fly or swim up to 15 feet without provoking opportunity attacks before she returns to normal, at which point she falls if she is still aloft and cannot fly.
 >
->#### Actions
+
+---
 
 ---
 

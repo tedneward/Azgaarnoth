@@ -10,12 +10,16 @@ Trolls that are nearly obliterated but survive and regenerate from mere scraps o
 ## Troll
 Born with horrific appetites, trolls eat anything they can catch and devour. They have no society to speak of, but they do serve as mercenaries, particularly to the Hordish nations, but also to various third parties (particularly hags). As payment, trolls demand food and treasure. Trolls are difficult to control, however, doing as they please even when working with more powerful creatures.
 
+![](Trolls.png)
+
 ***Regeneration.*** Smashing a troll’s bones and slashing through its rubbery hide only makes it angry. A troll’s wounds close quickly. If the monster loses an arm, a leg, or even its head, those dismembered parts can sometimes act with a life of their own. A troll can even reattach severed body parts, untroubled by its momentary disability. Only acid and fire can arrest the regenerative properties of a troll’s flesh. The trolls, enraged, will attack individuals making acid and fire attacks against them above all other prey.
 
 ***Troll Freaks.*** Their regenerative capabilities make trolls especially susceptible to mutation. Although uncommon, such transformations can result from what the troll has done or what has been done to it. A decapitated troll might grow two heads from the stump of its neck, while a troll that eats a fey creature might gain one or more of that creature’s traits.
 
 ### Environment
-Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Ruins, Underdark
+Arctic, Forest, Hill, Mountain, Ruins, Swamp, Underdark
+
+### Token
 
 >### Troll
 >*Large giant, chaotic evil*
@@ -62,6 +66,7 @@ Trolls kill and eat almost anything--including, in rare cases, other trolls. Thi
 Dire trolls also increase their size by grafting flesh onto themselves. When a slab of quivering troll flesh is bound against a fresh wound on a dire troll, the dire troll's regenerative capacity incorporates the new mass into the troll's own musculature. Even more horrifying are the multiple arms, eyes, claws, and organs that dire trolls tear from their victims and graft onto themselves in this manner.
 
 ### Environment
+Arctic, Forest, Hill, Mountain, Ruins, Swamp, Underdark
 
 ### Token
 
@@ -105,7 +110,10 @@ Dire trolls also increase their size by grafting flesh onto themselves. When a s
 ## Rot Troll
 A troll infused with waves of necrotic energy as it regenerates can develop a symbiotic relationship with that deathly power. The troll's body withers, and the flesh falls away from the body as quickly as it forms. Eventually a rot troll becomes unable to regenerate, though the troll still heals normally. The creature courses with necrotic energy; simply standing near a rot troll exposes other creatures to lethal emanations.
 
+![](Trolls-Rot.png)
+
 ### Environment
+Arctic, Forest, Hill, Mountain, Ruins, Swamp, Underdark
 
 ### Token
 
@@ -148,7 +156,10 @@ A troll infused with waves of necrotic energy as it regenerates can develop a sy
 ## Spirit Troll
 A troll blasted with psychic energy can take a nonphysical form upon regenerating. The troll's psyche survives, but the body is as insubstantial as shadow. The troll might be unaware of the transition--the creature still moves and attacks with teeth and claws as ever--but now the troll strikes at victims' minds.
 
+![](Trolls-Spirit.png)
+
 ### Environment
+Ruins, Swamp, Underdark
 
 ### Token
 
@@ -193,7 +204,10 @@ A troll blasted with psychic energy can take a nonphysical form upon regeneratin
 ## Venom Troll
 A troll that survives massive doses of poison might transform into a venom troll. Lingering poison infuses the troll's blood and tissue, and poison leaks from the pores to coat the troll's fangs and claws. These creatures are especially dangerous in close combat because poison drips off their flesh and sprays out from every wound they receive.
 
+![](Trolls-Venom.png)
+
 ### Environment
+Hill, Mountain, Ruins, Swamp, Underdark
 
 ### Token
 
@@ -342,6 +356,9 @@ Legends tell of a troll that stands 20 feet tall, vaguely giant-like in appearan
 
 Legends also tell that when Yithi met one, their battle was punctuated by exchanges of wit and humor, until the two found themselves reluctant to actually hurt the other. That friendship, it is said, led to a secret pact between a village of mountain trolls and the Principality of Yithi, swearing friendship and mutual self-defense when necessary. Whether such stories are true, just the thought of dozens or more of these creatures on the battlefield is enough to make even the most bloodthirsty general think twice.
 
+### Environment
+Mountain
+
 >### Mountain Troll
 >*Huge giant, neutral*
 >___
@@ -388,6 +405,11 @@ The stone trolls are smaller and bulkier than the normal troll, but no less fier
 
 Scholars have noted that, over the centuries, stone trolls appear to be benefiting from their exposure to civilization, and many are now looking to join it, rather than eat it. Acceptance of a stone troll within civilized borders is not widespread, but several Yithi cities have small troll populations within them, and the trolls there are well-behaved and (if the stories are to be believed) productive members of society.
 
+### Environment
+Forest, Hill, Ruins, Urban, Underdark
+
+### Token
+
 >### Stone Troll
 >*Large giant, typically chaotic evil*
 >___
@@ -427,6 +449,11 @@ Scholars have noted that, over the centuries, stone trolls appear to be benefiti
 
 ## Troll Shaman
 Troll shamans are trolls that support its brethren with spells to control the battlefield and tip the conflict in their favor. These trolls can also instill the fury and constitution of Vaprak temporarily in its allies, enabling them to fight with unnatural ferocity and regain hit points. Few trolls can calm their appetite enough to hear the call of Vaprak, which is fortunate for almost every other race on Azgaarnoth.
+
+### Environment
+Arctic, Forest, Hill, Mountain, Ruins, Swamp, Underdark
+
+### Token
 
 >### Troll Shaman
 >*Large giant, chaotic evil*

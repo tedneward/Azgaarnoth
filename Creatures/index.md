@@ -1,6 +1,30 @@
 # Master List of the Creatures of Azgaarnoth
 
-Generated 30 August 2023
+## Players!
+For PCs to know more about a creature, they must make a skill check of the type specified in the below table:
+
+Monster Type | Skill Check
+------------ | ----------------
+Beasts | Wisdom (Survival)
+Celestials, Elementals, Fiends, Undead | Intelligence (Religion)
+Fey, Oozes, Plants | Intelligence (Nature)
+Aberrations, Constructs, Dragons, Giants, Monstrosities | Intelligence (Arcana)
+Humanoids | Intelligence (History)
+
+... and the resulting roll reveals the following:
+
+DC + CR | Knowledge
+------- | ---------------------
+CR + 5  | attacks
+CR + 10 | abilities
+CR + 15 | traits, damage resistances, damage vulnerabilities
+CR + 20 | damage immunities
+CR + 25 | condition immunities
+CR + 30 | complete lore (you get the link to the creature page)
+
+If you are a player, please don't consult the reference page during the game! Browse all you want in between sessions, but let's keep it a little mysterious during the game, yeah?
+
+---
 
 ## A
 - [Aarakocra](Aarakocra.md)
