@@ -97,6 +97,7 @@ At 3rd level, you choose a path that shapes the nature of your rage:
 * [Beast](./Beast.md)
 * [Berserker](./Berserker.md)
 * [Blood Drinker](./BloodDrinker.md)
+* [Dead](./Dead.md)
 * [Depths](./Depths.md)
 * [Dragon](./Dragon.md)
 * [Rage Mage](./Rage.md)

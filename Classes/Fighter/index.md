@@ -5,26 +5,26 @@ Fighters share an unparalleled mastery with weapons and armor, and a thorough kn
 
 Level|Proficiency Bonus|Features
 -----|-----------------|--------
-1st|+2|Fighting Style, Second Wind
-2nd|+2|Action Surge (x1)
-3rd|+2|Martial Archetype
-4th|+2|Ability Score Improvement
-5th|+3|Extra Attack (x1)
-6th|+3|Ability Score Improvement
-7th|+3|Martial Archetype feature
-8th|+3|Ability Score Improvement
-9th|+4|Indomitable (x1)
-10th|+4|Martial Archetype feature
-11th|+4|Extra Attack (x2)
-12th|+4|Ability Score Improvement
-13th|+5|Indomitable (x2)
-14th|+5|Ability Score Improvement
-15th|+5|Martial Archetype feature
-16th|+5|Ability Score Improvement
-17th|+6|Action Surge (x2), Indomitable (x3)
-18th|+6|Martial Archetype feature
-19th|+6|Ability Score Improvement
-20th|+6|Extra Attack (x3)
+1st|+2|[Fighting Style](#fighting-style), [Second Wind](#second-wind)
+2nd|+2|[Action Surge](#action-surge) (x1)
+3rd|+2|[Martial Archetype](#martial-archetype)
+4th|+2|[Ability Score Improvement](#ability-score-improvement)
+5th|+3|[Extra Attack](#extra-attack) (x1)
+6th|+3|[Ability Score Improvement](#ability-score-improvement)
+7th|+3|[Martial Archetype feature](#martial-archetype)
+8th|+3|[Ability Score Improvement](#ability-score-improvement)
+9th|+4|[Indomitable](#indomitable) (x1)
+10th|+4|[Martial Archetype feature](#martial-archetype)
+11th|+4|[Extra Attack](#extra-attack) (x2)
+12th|+4|[Ability Score Improvement](#ability-score-improvement)
+13th|+5|[Indomitable](#indomitable) (x2)
+14th|+5|[Ability Score Improvement](#ability-score-improvement)
+15th|+5|[Martial Archetype feature](#martial-archetype)
+16th|+5|[Ability Score Improvement](#ability-score-improvement)
+17th|+6|[Action Surge](#action-surge) (x2), [Indomitable](#indomitable) (x3)
+18th|+6|[Martial Archetype feature](#martial-archetype)
+19th|+6|[Ability Score Improvement](#ability-score-improvement)
+20th|+6|[Extra Attack](#extra-attack) (x3)
 
 As a fighter, you gain the following class features.
 
@@ -87,12 +87,14 @@ At 3rd level, you choose an archetype that you strive to emulate in your combat 
 * [Eldritch Knight](EldritchKnight.md)
 * [Elemental Blade](ElementalBlade.md)
 * [Ghost Warrior](GhostWarrior.md)
+* [Hollow Knight](Hollow.md)
 * [Monster Hunter](MonsterHunter.md)
 * [Psi Knight](PsiKnight.md)
 * [Rune Knight](RuneKnight.md)
 * [Samurai](Samurai.md)
 * [Scout](Scout.md)
 * [Sharpshooter](Sharpshooter.md)
+* [Stillmind Warrior](Stillmind.md)
 * [Weapon Master](WeaponMaster.md)
 
 The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.

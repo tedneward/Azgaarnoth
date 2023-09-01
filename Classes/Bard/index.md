@@ -125,6 +125,7 @@ You delve into the advanced techniques of a [bard college](#bard-college) of you
 * [Eloquence](Eloquence.md)
 * [Glamour](Glamour.md)
 * [Lore](Lore.md)
+* [Ravens](Ravens.md)
 * [Satire](Satire.md)
 * [Secrets](Secrets.md)
 * [Spirits](Spirits.md)

@@ -1,4 +1,4 @@
-# Paladin Sacred Oath: Oath of the Stalker
+# Sacred Oath: Oath of the Stalker
 The Oath of the Stalker is that of the paladin that metes out justice to those that deserve it. 
 
 ## Tenets of the Stalker

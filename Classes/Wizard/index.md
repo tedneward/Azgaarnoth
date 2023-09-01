@@ -157,6 +157,7 @@ You choose an arcane tradition, shaping your practice of magic through one of th
 * [Runecraft](./Runecraft.md)
 * [Scrymancy](./Scrymancy.md)
 * [Soulbinding](./Soulbinding.md)
+* [Spectral Agent](SpectralAgent.md)
 * [Symbarch](./Symbarch.md)
 * [Theurgy](./Theurgy.md)
 * [Transmutation](./Transmutation.md)

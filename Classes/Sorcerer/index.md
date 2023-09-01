@@ -27,7 +27,7 @@ Level|Proficiency Bonus|Sorcery Points|Cantrips Known|Spells Known|1st|2nd|3rd|4
 17th |+6|17|6|15|4|3|3|3|2|1|1|1|1|[Metamagic](#metamagic)
 18th |+6|18|6|15|4|3|3|3|3|1|1|1|1|[Sorcerous Origin](#sorcerous-origin) feature
 19th |+6|19|6|15|4|3|3|3|3|2|1|1|1|[Ability Score Improvement](#ability-score-improvement) or [Feat](../Feats.md)
-20th |+6|20|6|15|4|3|3|3|3|2|2|1|1|Sorcerous Restoration
+20th |+6|20|6|15|4|3|3|3|3|2|2|1|1|[Sorcerous Restoration](#sorcerous-restoration)
 
 ### Hit Points
 **Hit Dice**: 1d6 per sorcerer level
@@ -89,6 +89,7 @@ You can use an arcane focus as a spellcasting focus for your sorcerer spells.
 Choose a sorcerous origin, which describes the source of your innate magical power:
 
 * [Aberrant Mind](./AberrantMind.md) sorcerers have been touched by creatures of the astral deep.
+* [Arcane Anomaly](ArcaneAnomaly.md) sorcerers are of a tainted bloodline with sinister potential.
 * [Arcane Legacy](./ArcaneLegacy.md) sorcerers have a long bloodline of powerful arcane users.
 * [Blood](./Blood.md) is the magic within all, and you use none more than your own.
 * [Channeler](./Channeler.md) sorcerers are those who have an innate gift to absorb the raw power of magic and turn it to their own ends.
@@ -97,6 +98,8 @@ Choose a sorcerous origin, which describes the source of your innate magical pow
 * [Draconic Bloodline](./DraconicBloodline.md) suggests that the dragons, somewhere, somewhen, fit into your family tree; alternatively, you might have had a [dragonmarked](../../Races/Dragonmarked.md) somewhere in your family line.
 * [Eldar Bloodline](./EldarBloodline.md) is a disgraced bloodline, coming from an ancient Eldar ancestry; although powerful, EldarBloodline sorcerers are often marked for death when discovered.
 * [Elemancy](./Elemancy.md)
+* [Etched Soul](EtchedSoul.md) sorcerers have magic that comes from an ancient or powerful text.
+* [Evil Star](EvilStar.md) sorcerers were born under an evil star, and it gives them power.
 * [Firespeaker](./Firespeaker.md), [Seacaller](./Seacaller.md), [Stoneshaper](./Stoneshaper.md), and [Windtalker](./Windtalker) sorcerers hear the Elemental Planes themselves, through the elements all around them, guiding them.
 * [Giant Soul](./GiantSoul.md) sorcerers have ancient giantish blood within them.
 * [Green Star](./GreenStar.md) sorcerers feel the power of an ancient stone of power in their blood somehow.
@@ -104,6 +107,7 @@ Choose a sorcerous origin, which describes the source of your innate magical pow
 * [Psionic Soul](./PsionicSoul.md) sorcerers have touched the power of the mind. 
 * [Shadow](./Shadow.md) sorcerers have been touched by the Shadowfell.
 * [Storm](./Storm.md) sorcerers feel the power of the storm, and are extremely common (and valued) among the *al'maera* of the [Al'Uma](../../Cultures/AlUma.md).
+* [Soulless](Soulless.md) sorcerers have no soul. At all.
 * [Wild Magic](./WildMagic.md) sorcerers wrestle with power beyond control.
 
 Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level. Note that some Sorcerous Origins will not be widely accepted, and may cause you to generate adverse reactions in those you meet during your time.
