@@ -58,7 +58,7 @@ Shortly after the Created appeared, stories of individuals with strange ties to 
 ### [Tabaxi](Tabaxi.md)
 The cat-like creatures that appeared roughly around the same time as the rest of the Created are found evenly throughout Azgaarnoth, though still rarely.
 
-### [Tiefling](Tiefling.md)
+### [Tiefling](Tieflings.md)
 That tieflings are a Created race is also clear and unmistakable--where the mystery lies is from which fiendish line they originate. Tieflings will often form exclusive communities of their own, which is not surprising given the prejudice they frequently encounter. What is not widely known is that tieflings can mate with humans, and the second- or third-generation product of such unions usually have lost all vestiges of their ancestral fiendish roots; even many first-generation tiefling/human unions find their tiefling heritage absent. All of the tiefling bloodlines have been found in Azgaarnoth. There are slightly more Winged tieflings than the others, for indiscernible reasons.
 
 ---
@@ -66,19 +66,19 @@ That tieflings are a Created race is also clear and unmistakable--where the myst
 ## Hordes
 Legend holds that the Hordes descended upon Azgaarnoth from "someplace else", but from there the legends vary wildly as to the origin of the massive numbers of humanoids that sought to take Azgaarnoth by force from the Eldar. The Hordes have always been here, according to the Hordes, and if you ask any of them, they will be here long after Firstborn, humans and Created die off. Hordish society is generally more loose-knit than human or Firstborn, but within the last milennia the Hordes appear to be learning lessons about the benefits of civilization, and many are looking for ways to live in greater sense of peace and harmony than before.
 
-### [Bugbears](Bugbear.md)
+### [Bugbears](Bugbears.md)
 Given their innate (and impressive) laziness, it's a wonder that any bugbears ever made their way through the sky to set foot on Azgaarnoth. That said, most bugbears chose to remain faithful to the "Old Ways", and as a result the highest concentration of them is in [Ulm](../Nations/Ulm.md), at least when they're not leading troops into [Dradehalia](../Nations/Dradehalia.md).
 
 ### [Centaurs](Centaurs.md)
 Few remember, but centaurs originally appeared as part of the Hordes; modern centaurs insist their presence was unwilling and that they were a slave race to the Hordes, and broke away when they could. Today, centaurs are found among the lands of the Hordes ([Ulm](../Nations/Ulm.md) and [Tragekia](../Nations/Tragekia.md)), as well as in the wilds of the [Ravenlands](../Geography/Ravenlands.md) (where they are considered a major ally and asset, and Ravenlands tribes frequently seek to cement alliances and membership with centaur herds) and [North Bedia](../Nations/Bedia.md). They are rarely found elsewhere in [Liria](../Nations/Liria.md) but they frequently take employment with [Mercenary Companies](../Organizations/MercCompanies/index.md).
 
-### [Gnoll](Gnoll.md)
+### [Gnoll](Gnolls.md)
 Gnolls came as part of the Hordes, but their strong pack mentality (and even stronger dislike of those outside the pack) always kept them apart from the rest of the Hordes. Gnoll packs can be found in any setting some distance away from cities, making [Ulm](../Nations/Ulm.md), [Bedia](../Nations/Bedia.md), and the Caliphates prime wandering country. They are found in lesser numbers in the east, principally in [Yithi](../Nations/Yithi.md), and some in [Zhi](../Nations/Zhi.md).
 
-### [Goblin](Goblin.md)
+### [Goblin](Goblins.md)
 Orcs and goblins make up the mainstay of the Hordes populations, and are most commonly found in [Ulm](../Nations/Ulm.md) and [Tragekia](../Nations/Tragekia.md). Goblins have remained more pure to their origins, and generally are much less "civilized" than many of the rest of their Horde-kin, and as such frequently form the lowest caste in any Horde society. That said, numerous cases of exceptional goblins are known to the worlds, and goblins have been known to show exceptional crafting skills when placed within a more supportive social environment.
 
-#### [Hobgoblin](Hobgoblin.md)
+#### [Hobgoblin](Hobgoblins.md)
 Hobgoblins are the "elder brother" of goblins, and most have birth roots in the Hordeslands. However, many have struck out independently, filtered west, and found that the trappings of civilization have positive qualities. Within the last few milennia, hobgoblins have become quite diverse in their skillset, and examples of every class have been found within hobgoblin ranks, including paladins, monks, artificers, and clerics.
 
 ### [Lizardfolk](Lizardfolk.md)
@@ -87,7 +87,7 @@ Lizardfolk are populous in the marshes around [Mudhear](../Cities/Mudhear.md), a
 ### [Kenku](Kenku.md)
 Kenku are found anywhere in Azgaarnoth, though sparingly.
 
-### [Kobolds](Kobold.md)
+### [Kobolds](Kobolds.md)
 Kobolds are thought to be the remnants of the first experiments of the [Eldar](../History/Eldar.md) to create [dragonborn](index.md#created), but saying such to any dragonborn is insulting and typically grounds for feud or duel. Nevertheless, the shared draconic lineage between kobold and dragonborn is hard to miss, and some scholars believe that at some point, there was some shared history of the two races.
 
 ### [Minotaurs](Minotaurs.md)
@@ -96,7 +96,7 @@ Minotaurs are found among the lands of the Hordes ([Ulm](../Nations/Ulm.md) and 
 ### [Half-Ogres](Half-Ogres.md)
 The offspring of an ogre and any of a human, a hobgoblin, a bugbear, or an orc is a half-ogre, also called an ogrillon when the non-ogre parent is an orc.
 
-### [Orc](Orc.md)
+### [Orc](Orcs.md)
 Orcs and goblins make up the mainstay of the Hordes populations, and are most commonly found in [Ulm](../Nations/Ulm.md) and [Tragekia](../Nations/Tragekia.md). Orcs are just as diverse as humans, however, and many of them have begun to take up the idea that a society based on something other than looting and pillaging is not a terrible thing; these form the bulk of the [United Hordes](../Nations/Tragekia.md). Others, however, long to return to more of the "Old Ways", and these have found a home in the [Ulmhorde](../Nations/Ulm.md). Still others remained in [Yithi](../Nations/Yithi.md) and [Zhi](../Nations/Zhi.md) and found ways to interact with the other races there to form the unique tapestry there that is part-human, part-Firstborn, part-Horde, and all unique.
 
 Despite the racial stereotype, orcs are no more prone to brutish violence than humans or other mortals. They are not as common in the west as they are in the east, but enough of them have migrated out of the Hordeslands that they are not rare.
@@ -119,10 +119,10 @@ Many races inhabit the deep cavern systems that burrow throughout the continent,
 * [Dark Dwarves](Dwarves/Dark.md)
 * [Dark Elves](Elves/Dark.md)
 * [Dark Gnomes](Gnomes.md#dark-gnomes)
-* [Goblins](Goblin.md)
-* [Hobgoblins](Hobgoblin.md)
-* [Orcs](Orc.md)
-* [Kobolds](Kobold.md)
+* [Goblins](Goblins.md)
+* [Hobgoblins](Hobgoblins.md)
+* [Orcs](Orcs.md)
+* [Kobolds](Kobolds.md)
 
 
 ## [Undersea](../Geography/Undersea.md)
