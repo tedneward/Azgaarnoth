@@ -12,7 +12,7 @@ Anacondas and pythons can grow up to six or seven feet in length, and are common
 (FIXME)
 
 ### Token
-![](ConstrictorSnake-Token.png)
+![](Snakes-ConstrictorSnake-Token.png)
 
 >### Constrictor Snake
 >*Large beast, unaligned*
@@ -52,7 +52,7 @@ A flying snake is a brightly colored, winged serpent found in remote jungles. So
 (FIXME)
 
 ### Token
-![](FlyingSnake-Token.png)
+![](Snakes-FlyingSnake-Token.png)
 
 >### Flying Snake
 >*Tiny beast, unaligned*
@@ -92,7 +92,7 @@ As if the normal-sized anaconda or python weren't bad enough, some wizards went 
 (FIXME)
 
 ### Token
-![](GiantConstrictorSnake-Token.png)
+![](Snakes-GiantConstrictor-Token.png)
 
 >### Giant Constrictor Snake
 >*Huge beast, unaligned*
@@ -132,7 +132,7 @@ Truly the stuff of nightmares, the giant poisonous snake often runs six to seven
 (FIXME)
 
 ### Token
-![](GiantPoisonousSnake-Token.png)
+![](Snakes-GiantPoisonous-Token.png)
 
 >### Giant Poisonous Snake
 >*Medium beast, unaligned*
@@ -172,7 +172,7 @@ A nightstriker serpent's body is composed partly of shadow, so it is immune to p
 (FIXME)
 
 ### Token
-![](NightstrikerSerpent-Token.png)
+![](Snakes-NightstrikerSerpent-Token.png)
 
 >### Nightstriker Serpent
 >*Large monstrosity, neutral evil*
@@ -212,7 +212,7 @@ A nightstriker serpent's body is composed partly of shadow, so it is immune to p
 (FIXME)
 
 ### Token
-![](PoisonousSnake-Token.png)
+![](Snakes-Poisonous-Token.png)
 
 >### Poisonous Snake
 >*Tiny beast, unaligned*
@@ -250,7 +250,7 @@ A nightstriker serpent's body is composed partly of shadow, so it is immune to p
 (FIXME)
 
 ### Token
-![](SwarmOfPoisonousSnakes-Token.png)
+![](Snakes-SwarmOfPoisonousSnakes-Token.png)
 
 >### Swarm Of Poisonous Snakes
 >*Medium swarm, unaligned*

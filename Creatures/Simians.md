@@ -3,7 +3,16 @@ The simian family of creatures are those that are vaguely humanoid yet still bes
 
 > Jump to: [Baboon](Simians.md#baboon) | [Giant Ape](Simians.md#giant-ape) | [Girallon](Simians.md#girallon)
 
+---
+
 ## Ape
+
+### Environment
+(FIXME)
+
+### Token
+![](Simians-Ape-Token.png)
+
 
 >### Ape
 >*Medium beast, unaligned*
@@ -45,7 +54,7 @@ The simian family of creatures are those that are vaguely humanoid yet still bes
 (FIXME)
 
 ### Token
-![](Baboon-Token.png)
+![](Simians-Baboon-Token.png)
 
 >### Baboon
 >*Small beast, unaligned*
@@ -85,7 +94,7 @@ The simian family of creatures are those that are vaguely humanoid yet still bes
 (FIXME)
 
 ### Token
-![](GiantApe-Token.png)
+![](Simians-GiantApe-Token.png)
 
 >### Giant Ape
 >*Huge beast, unaligned*
@@ -143,7 +152,7 @@ Girallons that are well treated might be willing to serve as guards, though they
 (FIXME)
 
 ### Token
-![](Girallon-Token.png)
+![](Simians-Girallon-Token.png)
 
 >### Girallon
 >*Large Monstrosity, Unaligned*

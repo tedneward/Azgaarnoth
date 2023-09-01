@@ -156,6 +156,8 @@ After a few years of combat, hobgoblin veterans are tough as nails and ridiculou
 >***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 >
 >#### Actions
+>***Multiattack.***  The hobgoblin makes two longsword attacks or two longbow attacks.
+>
 >***Longsword.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
 >
 >***Longbow.*** Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
@@ -175,8 +177,8 @@ After a few years of combat, hobgoblin veterans are tough as nails and ridiculou
 >### Hobgoblin Sergeant
 >*Medium humanoid (goblinoid), lawful evil*
 >___
->- **Armor Class** 17 (half plate)
->- **Hit Points** 39 (6d8 + 12)
+>- **Armor Class** 18 (chain mail (14), shield (+2), DEX (+2))
+>- **Hit Points** 78 (12d8 + 24)
 >- **Speed** 30 ft.
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
@@ -198,7 +200,7 @@ After a few years of combat, hobgoblin veterans are tough as nails and ridiculou
 >***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 >
 >#### Actions
->***Multiattack.*** The hobgoblin makes two greatsword attacks.
+>***Multiattack.*** The hobgoblin makes two greatsword attacks or two javelin attacks.
 >
 >***Greatsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) piercing damage.
 >

@@ -16,7 +16,7 @@ The everpresent vermin, in all their twisted glory.
 (FIXME)
 
 ### Token
-![](Rat-Token.png)
+![](Rats-Token.png)
 
 >### Rat
 >*Tiny beast, unaligned*
@@ -56,7 +56,7 @@ The swarm of rats presented here aren't ordinary or benign assemblies of little 
 (FIXME)
 
 ### Token
-![](SwarmofRats-Token.png)
+![](Rats-Swarm-Token.png)
 
 >### Swarm of Rats
 >*Medium swarm, unaligned*
@@ -98,7 +98,7 @@ If any player at any point during an encounter with a giant rat makes a joke abo
 (FIXME)
 
 ### Token
-![](GiantRat-Token.png)
+![](Rats-Giant-Token.png)
 
 >### Giant Rat
 >*Small beast, unaligned*
@@ -140,7 +140,7 @@ This rat was unfortunate enough to be converted to undead and set to obey its ma
 (FIXME)
 
 ### Token
-![](WitheredRat-Token.png)
+![](Rats-Withered-Token.png)
 
 >### Withered Rat
 >*Tiny undead, shares master's alignment*

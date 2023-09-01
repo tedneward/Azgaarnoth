@@ -86,6 +86,7 @@ class SubtypedCreature:
         results += '\n'
         results += '> Jump to: ' + subtypejumplinks
         results += ''.join(self.generaldescription[1:])
+        results += '\n\n'
         for creature in self.subtypes:
             results += '---\n\n'
             results += creature.emitMD()
@@ -376,12 +377,20 @@ class Creature:
 
             linect += 1
 
+    def parserow(self, sqlrow):
+        "Parse a row from a SQLite cursor"
+        pass
+
+    def normalize(self):
         # Closing out and fixups
+        if "(FIXME)" in self.environments:
+            print("WARNING: " + self.name + " lacking environments")
         if len(self.environments) < 1:
             self.environments.append('(FIXME)')
+            print("WARNING: " + self.name + " lacking environments")
         if self.tokenlink == '':
             self.tokenlink = '![](' + self.filename()[0:-3] + '-Token.png)'
-        if self.profbonus == '0' or self.profbonus == '+0':
+        if self.profbonus == 0 or self.profbonus == '0' or self.profbonus == '+0':
             print("WARNING: " + self.name + " lacking ProfBonus; CR = " + self.cr, end='')
             pbs = {
                 '+2': ['0', '1/8', '1/4', '1/2', '1', '2', '3', '4'],
@@ -399,10 +408,6 @@ class Creature:
                     print("; setting to " + pb)
                     self.profbonus = pb
                     break
-
-    def parserow(self, sqlrow):
-        "Parse a row from a SQLite cursor"
-        pass
 
     def emitMD(self):
         "Emit this creature description and stat block"
@@ -716,6 +721,7 @@ def ingest(arg):
 
             linect += 1
 
+        creature.normalize()
         return creature
 
     def ingestrawtextfile(lines):
@@ -737,6 +743,7 @@ def ingest(arg):
             creature = ingestrawstatblock(lines[linect:])
             creature.name = name.strip()
             creature.description = description
+            creature.normalize()
             return creature
 
         def ingestsubtypedcreature(lines):
@@ -902,6 +909,7 @@ def ingest(arg):
 
                 linect += 1
 
+            creature.normalize()
             return creature
 
     # Arg is a file
