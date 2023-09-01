@@ -8,22 +8,22 @@ Level|Proficiency Bonus|Sneak Attack|Features
 1st  |+2|1d6|[Expertise](#expertise), [Sneak Attack](#sneak-attack), [Thieves' Cant](#thieves-cant)
 2nd  |+2|1d6|[Cunning Action](#cunning-action)
 3rd  |+2|2d6|[Roguish Archetype](#roguish-archetype)
-4th  |+2|2d6|Ability Score Improvement
+4th  |+2|2d6|[Ability Score Improvement](#ability-score-improvement)
 5th  |+3|3d6|[Uncanny Dodge](#uncanny-dodge)
 6th  |+3|3d6|[Expertise](#expertise)
 7th  |+3|4d6|[Evasion](#evasion)
-8th  |+3|4d6|Ability Score Improvement
-9th  |+4|5d6|Roguish Archetype feature
-10th |+4|5d6|Ability Score Improvement
+8th  |+3|4d6|[Ability Score Improvement](#ability-score-improvement)
+9th  |+4|5d6|[Roguish Archetype feature](#roguish-archetype)
+10th |+4|5d6|[Ability Score Improvement](#ability-score-improvement)
 11th |+4|6d6|[Reliable Talent](#reliable-talent)
-12th |+4|6d6|Ability Score Improvement
-13th |+5|7d6|Roguish Archetype feature
+12th |+4|6d6|[Ability Score Improvement](#ability-score-improvement)
+13th |+5|7d6|[Roguish Archetype feature](#roguish-archetype)
 14th |+5|7d6|[Blindsense](#blindsense)
 15th |+5|8d6|[Slippery Mind](#slippery-mind)
-16th |+5|8d6|Ability Score Improvement
-17th |+6|9d6|Roguish Archetype feature
+16th |+5|8d6|[Ability Score Improvement](#ability-score-improvement)
+17th |+6|9d6|[Roguish Archetype feature](#roguish-archetype)
 18th |+6|9d6|[Elusive](#elusive)
-19th |+6|10d6|Ability Score Improvement
+19th |+6|10d6|[Ability Score Improvement](#ability-score-improvement)
 20th |+6|10d6|[Stroke of Luck](#stroke-of-luck)
 
 As a rogue, you gain the following class features.
@@ -87,19 +87,20 @@ You may also your Cunning Action to carefully aim your next attack. As a bonus a
 *3rd-level rogue feature*
 
 You choose an archetype that you emulate in the exercise of your rogue abilities:
-* [Arcane Trickster](Rogue/ArcaneTrickster.md)
-* [Assassin](Rogue/Assassin.md)
-* [Burglar](Rogue/Burglar.md)
-* [Inquisitive](Rogue/Inquisitive.md)
-* [Inquisitor](Rogue/Inquisitor.md)
-* [Mastermind](Rogue/Mastermind.md)
-* [Phantom](Rogue/Phantom.md)
-* [Revived](Rogue/Revived.md)
-* [Scout](Rogue/Scout.md)
-* [Soulknife](Rogue/Soulknife.md)
-* [Swashbuckler](Rogue/Swashbuckler.md)
-* [Thief](Rogue/Thief.md)
-* [Trapper](Rogue/Trapper.md)
+* [Arcane Trickster](ArcaneTrickster.md)
+* [Assassin](Assassin.md)
+* [Burglar](Burglar.md)
+* [Inquisitive](Inquisitive.md)
+* [Inquisitor](Inquisitor.md)
+* [Mastermind](Mastermind.md)
+* [Phantom](Phantom.md)
+* [Revived](Revived.md)
+* [Scout](Scout.md)
+* [Soulknife](Soulknife.md)
+* [Swashbuckler](Swashbuckler.md)
+* [Thief](Thief.md)
+* [Thought Eater](ThoughtEater.md)
+* [Trapper](Trapper.md)
 
 Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
 

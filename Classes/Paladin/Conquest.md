@@ -1,4 +1,4 @@
-# Paladin Sacred Oath: Oath of Conquest
+# Sacred Oath: Oath of Conquest
 The Oath of Conquest calls to paladins who seek glory in battle and the subjugation of their enemies. It isn’t enough for these paladins to establish order. They must crush the forces of chaos.
 
 Sometimes called knight tyrants or iron mongers, those who swear this oath gather into grim orders that serve gods or philosophies of war and well-ordered might. Some of these paladins go so far as to consort with the powers of the Nine Hells.

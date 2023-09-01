@@ -1,4 +1,4 @@
-# Paladin Sacred Oath: Oath of the Dragon
+# Sacred Oath: Oath of the Dragon
 The Oath of the Dragon sets a paladin on a path of patient warfare. Their long lives give them time to set plans in motion that take decades or centuries to complete, always against the other side of the eternal war; when dealing with dragons, it is impossible to keep from taking a side.
 
 The [Draconic Order](Organizations/DraconicOrder/DraconicOrder.md) is, in many respects, the pinnacle of the Oath of the Dragon, but not all paladins within the Order swear their oaths to the dragons, nor are all Dragonsworn paladins a part of the Order; some will swear to a dragon or powerful entity within the [Cult of the Wrym](../../Organizations/CultOfTheWyrm.md), and some will swear to the even more sinister [Cult of the Nightwyrm](../../Organizations/CultOfTheWyrm.md).
