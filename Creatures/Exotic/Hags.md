@@ -1,7 +1,7 @@
 # Hags
 Hags represent all that is evil and cruel. Though they resemble withered crones, there is nothing mortal about these monstrous creatures, whose forms reflect only the wickedness in their hearts.
 
-> Jump to: [Annis Hag](Hags.md#annis-hag) | [Bheur Hag](Hags.md#bheur-hag) | [Cinder Hag](Hags.md#cinder-hag) | [Crimson Hag](Hags.md#crimson-hag) | [Desert Hag](Hags.md#desert-hag) | [Green Hag](Hags.md#green-hag) | [Night Hag](Hags.md#night-hag) | [Sea Hag](Hags.md#sea-hag) | [Storm Hag](Hags.md#storm-hag) | [Grimflame](Hags.md#grimflame)
+> Jump to: [Annis Hag](Hags.md#annis-hag) | [Bheur Hag](Hags.md#bheur-hag) | [Cinder Hag](Hags.md#cinder-hag) | [Crimson Hag](Hags.md#crimson-hag) | [Desert Hag](Hags.md#desert-hag) | [Green Hag](Hags.md#green-hag) | [Howling Hag](Hags.md#howling-hag) | [Night Hag](Hags.md#night-hag) | [Sea Hag](Hags.md#sea-hag) | [Storm Hag](Hags.md#storm-hag) | [Troll Hag]() | [Grimflame](Hags.md#grimflame)
 
 ***Faces of Evil.*** Ancient beings with origins in the Feywild, hags are cankers on the mortal world. Their withered faces are framed by long, frayed hair, horrid moles and warts dot their blotchy skin, and their long, skinny fingers are tipped by claws that can slice open flesh with a touch. Their simple clothes are always tattered and filthy.
 
@@ -30,18 +30,19 @@ Some humanoids make the mistake of thinking that the hags' rules of conduct appl
 ### Hag Covens
 When hags must work together, they form covens, in spite of their selfish natures. A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos. The coven can be made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power.
 
-Any hag that is part of a coven has its CR boosted by 2 if encountered in its coven.
+Any hag that is part of a coven has its CR boosted by 2 if encountered in its coven. Each hag in the coven has its CR adjusted this way.
 
 While all three members of a hag coven are within 30 feet of one another, they each gain the following action:
 
-***Shared Spellcasting.*** The hag is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12 + the hag's Int modifier, +4 + the hag's Int modifier to hit with spell attacks). The three hags in the coven share the spell slots listed. The hag has the following wizard spells prepared:
+> ***Shared Spellcasting.*** The hag is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12 + the hag's Int modifier, +4 + the hag's Int modifier to hit with spell attacks). The three hags in the coven share the spell slots listed. The hag has the following wizard spells prepared:
+>* 1st level (4 slots): [identify](../../Magic/Spells/identify.md), [ray of sickness](../../Magic/Spells/ray-of-sickness.md)
+>* 2nd level (3 slots): [hold person](../../Magic/Spells/hold-person.md), [locate object](../../Magic/Spells/locate-object.md)
+>* 3rd level (3 slots): [bestow curse](../../Magic/Spells/bestow-curse.md), [counterspell](../../Magic/Spells/counterspell.md), [lightning bolt](../../Magic/Spells/lightning-bolt.md)
+>* 4th level (3 slots): [phantasmal killer](../../Magic/Spells/phantasmal-killer.md), [polymorph](../../Magic/Spells/polymorph.md)
+>* 5th level (2 slots): [contact other plane](../../Magic/Spells/contact-other-plane.md), [scrying](../../Magic/Spells/scrying.md)
+>* 6th level (1 slot): [eyebite](../../Magic/Spells/eyebite.md)
 
-* 1st level (4 slots): identify, ray of sickness
-* 2nd level (3 slots): hold person, locate object
-* 3rd level (3 slots): bestow curse, counterspell, lightning bolt
-* 4th level (3 slots): phantasmal killer, polymorph
-* 5th level (2 slots): contact other plane, scrying
-* 6th level (1 slot): eyebite
+Different covens may have different shared spells prepared.
 
 ***Hag Eye.*** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.
 
@@ -634,6 +635,58 @@ Some storm hags can animate small clouds to sit and ride upon to fly through the
 >
 
 ---
+
+## Troll Hag
+A supremely ugly female troll that has been granted the power of a hag. Some hags take a liking to their female troll minions, and, finding a kindred spirit in them, they bestow their newly adopted daughter with some of their dark power. The troll may find some difficulty in properly using the new power it has been given, but she will be a serious threat none the less.
+
+### Environment
+Arctic, Forest, Hill, Mountain, Swamp, Underdark
+
+### Token
+![](TrollHag-Token.png)
+
+>### Troll Hag
+>*Large Giant, Neutral Evil*
+>___
+>- **Armor Class** 15 (natural armor)
+>- **Hit Points** 84 (8d10 + 40)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|13 (+1)|20 (+5)|8 (-1)|10 (+0)|8 (-1)|
+>___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +2
+>- **Senses** Darkvision 60 ft.,Passive Perception 12
+>- **Languages** Giant
+>- **Challenge** 7
+>___
+>***Amphibious.*** The troll hag can breathe air and water.
+>
+>***Keen Smell.*** The troll hag has advantage on Wisdom (Perception) checks that rely on smell.
+>
+>***Regeneration.*** The troll hag regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
+>
+>#### Actions
+>***Multiattack.*** The troll hag makes three attacks: one with its bite and two with its claws.
+>
+>***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+>
+>***Claw.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+>
+>***Innate Spellcasting.*** The troll hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:
+>* At will: dancing lights, minor illusion, vicious mockery
+>
+>***Trollstaff.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit:  11 (2d6 + 4) bludgeoning damage. A target hit by this weapon also has the [hex](../../Magic/Spells/hex.md) spell cast upon them instantaneously. (Any attempts to touch the staff will also result in Hex being cast on the creature.)
+>
+>***Net.*** Ranged Weapon Attack: +7 to hit, range (5/15)ft., one target. Hit:  A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
+>
 
 ---
 
