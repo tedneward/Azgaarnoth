@@ -10,6 +10,8 @@ Darkling commonly operated in and around the tribes of the Hordes, and over time
 ## Darkling
 The Summer Queen's curse causes a darkling's body to absorb light, which wizens the creature, much like the effect of rapid aging. For this reason, darklings cover their entire bodies with clothing when exposure to light is a risk. The light darklings absorb over the course of their lives explodes outward when they die, incinerating the creatures and much of their possessions.
 
+![](Darklings-Darkling.jpeg)
+
 ### Environment
 Forest, Swamp, Underdark, Urban
 
@@ -51,6 +53,8 @@ Forest, Swamp, Underdark, Urban
 
 ## Darkling Elder
 A wise and respected darkling can undergo a ritual to become an elder. Other elders mark the supplicant with glowing tattoos, channeling away some of the darkling's absorbed light. If the ritual succeeds, the darkling grows into a taller, elf-like form. The darkling perishes if the ritual fails.
+
+![](Darklings-DarklingElder.jpeg)
 
 ### Environment
 Forest, Swamp, Underdark, Urban

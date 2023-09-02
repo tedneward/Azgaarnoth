@@ -52,7 +52,7 @@ A frog has no effective attacks. It feeds on small insects and typically dwells 
 (FIXME)
 
 ### Token
-![](GiantFrog-Token.png)
+![](Frogs-Giant-Token.png)
 
 >### Giant Frog
 >*Medium beast, unaligned*
@@ -95,10 +95,10 @@ A frog has no effective attacks. It feeds on small insects and typically dwells 
 Giant ice toads are a wild magic-infused elemental offshoot of the giant toad, infused with just a touch of air and water elemental essence. This manifests as a giant toad, encased in ice, able to expel frost as a breath weapon to any foes who might challenge its icy home. Given the overall climate of Azgaarnoth, these are not common, but a few are found in the very southern reaches of the [Dradehalian continent](../Geography/Dradehalia.md), where the temperatures can drop below zero, and out on the ice sheet that extends from there to the southern pole.
 
 ### Environment
-(FIXME)
+Arctic
 
 ### Token
-![](GiantIceToad-Token.png)
+![](Frogs-GiantIceToad-Token.png)
 
 >### Giant Ice Toad
 >*Large beast, unaligned*
@@ -143,7 +143,7 @@ Giant ice toads are a wild magic-infused elemental offshoot of the giant toad, i
 Giant toads breed successfully in the wild, and usually prefer deep forests, such as the wilderness of [Northern Bedia](../Geography/Bedia.md). Many, however, have been domesticated by various tribes, and so they can often be found in entirely non-native habitats, including the [Underdark](../Geography/Underdark.md). They are also commonly found among the various [Undersea](../Geography/Undersea.md) tribes.
 
 ### Environment
-(FIXME)
+Forest, Swamp, Underdark
 
 ### Token
 ![](GiantToad-Token.png)
@@ -188,17 +188,19 @@ Giant toads breed successfully in the wild, and usually prefer deep forests, suc
 ## Froghemoth
 A froghemoth is an amphibious predator as big as an elephant. It lairs in swamps and has four tentacles, a thick rubbery hide, a fang-filled maw with a prehensile tongue, and an extendable stalk sporting three bulbous eyes that face in different directions.
 
+![](Frogs-Froghemoth.png)
+
 Froghemoths are creatures not of this world. A journal purportedly written long ago by the wizard Lum describes strange, cylindrical chambers of metal buried in the ground from which froghemoths emerged, but no reliable reports of the location of such places exist.
 
 Every few years, a froghemoth can lay a fertile egg without mating. The froghemoth cares nothing for its egg and might eat the hatchling. A young froghemoth's survival thus depends on its parent leaving it behind in indifference. A newborn froghemoth grows to full size over a period of months by indiscriminately preying on other creatures in its swampy domain. It learns to hide its enormous body in murky pools, keeping only its eyestalk above water to watch for passing creatures. When food comes within reach, the froghemoth erupts from its pool, tentacles and tongue flailing. It can grab several targets at once; it wraps its tongue around one and pulls it in to be devoured while holding the rest at bay.
 
-If bullywugs (see the Monster Manual) come across a froghemoth, the bullywugs may treat the froghemoth as a god and do all they can to coax the monster into their den. A froghemoth can be tamed (after a fashion) by offering it food, and bullywugs can communicate with it on a basic level, so the creature might eat only a few bullywugs before following the rest. The bullywugs gather food as tribute for it, provide it with a comfortable lair, protect it from harm, and try to ensure that any of its offspring reach maturity.
+If [bullywugs](Bullywug.md) come across a froghemoth, the bullywugs may treat the froghemoth as a god and do all they can to coax the monster into their den. A froghemoth can be tamed (after a fashion) by offering it food, and bullywugs can communicate with it on a basic level, so the creature might eat only a few bullywugs before following the rest. The bullywugs gather food as tribute for it, provide it with a comfortable lair, protect it from harm, and try to ensure that any of its offspring reach maturity.
 
 ### Environment
-(FIXME)
+Swamp, Underdark
 
 ### Token
-![](Froghemoth-Token.png)
+![](Frogs-Froghemoth-Token.png)
 
 >### Froghemoth
 >*Huge Monstrosity, Unaligned*

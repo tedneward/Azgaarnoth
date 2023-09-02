@@ -1,7 +1,7 @@
 # Cats
 Ranging from the mouser on the farm to the King of Beasts, the feline species, in all its forms, can be found all across Azgaarnoth.
 
-> Jump to: [Cat](Cats.md#cat) | [Lion](Cats.md#lion) | [Panther](Cats.md#panther) | [Saber-Toothed Tiger](Cats.md#saber-toothed-tiger) | [Tiger](Cats.md#tiger) | [Greater Tiger]()
+> Jump to: [Cat](Cats.md#cat) | [Lion](Cats.md#lion) | [Panther](Cats.md#panther) | [Saber-Toothed Tiger](Cats.md#saber-toothed-tiger) | [Tiger](Cats.md#tiger) | [Greater Tiger](Cats.md#greater-tiger)
 
 ---
 
@@ -12,7 +12,7 @@ Meow. Purr.
 Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
-![](Cat-Token.png)
+![](Cats-Token.png)
 
 >### Cat
 >*Tiny beast, unaligned*
@@ -52,7 +52,7 @@ The lion is a pack animal, often a single male with several lionesses, who do th
 Desert, Grassland, Hill, Mountain
 
 ### Token
-![](Lion-Token.png)
+![](Cats-Lion-Token.png)
 
 >### Lion
 >*Large beast, unaligned*
@@ -142,7 +142,7 @@ Truly the king of the beasts, the greater lion often gathers other lions about i
 Forest, Jungle, Swamp
 
 ### Token
-![](Panther-Token.png)
+![](Cats-Panther-Token.png)
 
 >### Panther
 >*Medium beast, unaligned*
@@ -230,7 +230,7 @@ Grassland, Hill
 Grassland, Jungle, Swamp
 
 ### Token
-![](Tiger-Token.png)
+![](Cats-Tiger-Token.png)
 
 >### Tiger
 >*Large beast, unaligned*
