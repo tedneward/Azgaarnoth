@@ -98,8 +98,7 @@ Underdark
 >
 >***Spellcasting.*** The derro casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12):
 >
->At will: mage hand, message, prestidigitation
->
->1/day each: invisibility, sleep, spider climb
+>* At will: mage hand, message, prestidigitation
+>* 1/day each: invisibility, sleep, spider climb
 >
 

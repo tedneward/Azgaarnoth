@@ -115,17 +115,12 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 >
 >***Spellcasting.*** The kuo-toa is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The kuo-toa has the following cleric spells prepared:
 >
->Cantrips (at will): guidance, sacred flame, thaumaturgy
->
->1st level (4 slots): detect magic, sanctuary, shield of faith
->
->2nd level (3 slots): hold person, spiritual weapon
->
->3rd level (3 slots): spirit guardians, tongues
->
->4th level (3 slots): control water, divination
->
->5th level (2 slots): mass cure wounds, scrying
+>* Cantrips (at will): guidance, sacred flame, thaumaturgy
+>* 1st level (4 slots): detect magic, sanctuary, shield of faith
+>* 2nd level (3 slots): hold person, spiritual weapon
+>* 3rd level (3 slots): spirit guardians, tongues
+>* 4th level (3 slots): control water, divination
+>* 5th level (2 slots): mass cure wounds, scrying
 >
 >#### Actions
 >***Multiattack.*** The kuo-toa makes two melee attacks.
@@ -229,9 +224,8 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 >
 >***Spellcasting.*** The kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The kuo-toa has the following cleric spells prepared:
 >
->Cantrips (at will): sacred flame, thaumaturgy
->
->1st level (3 slots): bane, shield of faith
+>* Cantrips (at will): sacred flame, thaumaturgy
+>* 1st level (3 slots): bane, shield of faith
 >
 >#### Actions
 >***Multiattack.*** The kuo-toa makes two attacks: one with its bite and one with its pincer staff.

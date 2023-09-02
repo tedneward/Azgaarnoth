@@ -44,6 +44,7 @@ Coastal, Urban
 >***Thunderbolt.*** Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 11 (2d10) lightning damage plus 11 (2d10) thunder damage, and the target is knocked prone.
 >
 >***Spellcasting.*** The priest casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 13):
+>
 >* At will: [command](../Magic/Spells/command.md), [create or destroy water](../Magic/Spells/create-or-destroy-water.md)
 >* 3/day each: [control water](../Magic/Spells/control-water.md), [darkness](../Magic/Spells/darkness.md), [water breathing](../Magic/Spells/water-breathing.md), [water walk](../Magic/Spells/water-walk.md), [water lasso](../Magic/Spells/water-lasso.md)
 >* 1/day: [Evard's black tentacles](../Magic/Spells/evards-black-tentacles.md)

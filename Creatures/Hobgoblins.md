@@ -411,6 +411,7 @@ If they survive long enough, Devastators usually end up looking to join one of t
 >***Devastating Bolt.*** Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 21 (4d8 + 3) force damage, and the target is knocked prone.
 >
 >***Spellcasting.*** The hobgoblin is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:
+>
 >* Cantrips (at will): acid splash, fire bolt, ray of frost, shocking grasp
 >* 1st level (4 slots): fog cloud, magic missile, thunderwave
 >* 2nd level (3 slots): gust of wind, Melf's acid arrow, scorching ray
@@ -476,6 +477,7 @@ It is rumored that the Order of Iron Shadows is organized precisely along the sa
 >***Shadow Jaunt.*** The hobgoblin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see. Both the space it leaves and its destination must be in dim light or darkness.
 >
 >***Spellcasting.*** The hobgoblin casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 12):
+>
 >* At will: minor illusion, prestidigitation
 >* 1/day each: charm person, disguise self, silent image
 >
@@ -638,6 +640,7 @@ The Doom Hand Clerics are a sect of Maglubiyet worshippers dedicated to the adva
 >***Dark Devotion.*** The doom hand cleric has advantage on saving throws against being charmed or frightened.
 >
 >***Spellcasting.*** The doom hand cleric is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The doom hand has the following cleric spells prepared:
+>
 >* Cantrips (at will): [resistance](../Magic/Spells/resistance.md), [spare the dying](../Magic/Spells/spare-the-dying.md), [thaumaturgy](../Magic/Spells/thaumaturgy.md)
 >* 1st level (4 slots): [bane](../Magic/Spells/bane.md)/[bless](../Magic/Spells/bless.md), [inflict wounds](../Magic/Spells/inflict-wounds.md), [guiding bolt](../Magic/Spells/guiding-bolt.md), [shield of faith](../Magic/Spells/shield-of-faith.md)
 >* 2nd level (3 slots): [hold person](../Magic/Spells/hold-person.md), [invisibility](../Magic/Spells/invisibility.md), [spiritual weapon](../Magic/Spells/spiritual-weapon.md)
@@ -685,6 +688,7 @@ The Doom First Monks are a monastic order of hobgoblins dedicated to the cause o
 >***Unarmored Defense.*** While the doom fist monk is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 >
 >***Spellcasting.*** The doom fist monk is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The doom fist has the following spells prepared:
+>
 >* Cantrips (at will): acid splash, fire bolt, ray of frost
 >* 1st level (4 slots): burning hands, mage armor, thunderwave
 >

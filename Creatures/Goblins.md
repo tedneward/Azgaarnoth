@@ -342,7 +342,7 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 >
 >***Spellcasting.*** The nilbog casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12):
 >
->At will: mage hand, Tasha's hideous laughter
+>* At will: mage hand, Tasha's hideous laughter
 >
 >#### Bonus Actions
 >***Nimble Escape.*** The nilbog takes the Disengage or Hide action.

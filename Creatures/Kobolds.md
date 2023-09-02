@@ -135,6 +135,7 @@ Kobolds who hear the call of the spirits, or the divine, are commonly called sha
 >***Dagger.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
 >
 >***Spellcasting.*** The kobold is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 11, +3 to hit with spell attacks). It knows these sorcerer spells:
+>
 >* Cantrips (at-will): acid splash, blade ward, poison spray, shocking grasp
 >* 1st level (4 slots): color spray, shield
 >* 2nd level (2 slots): cloud of daggers, misty step
@@ -304,6 +305,7 @@ Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban
 >***Chromatic Bolt.*** Ranged Spell Attack: +4 to hit, range 60 feet, one target. Hit: 9 (2d6 + 2) of a type of the kobold's choice: acid, cold, fire, lightning, poison, or thunder.
 >
 >***Spellcasting.*** The kobold casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 12):
+>
 >* At will: mage hand, prestidigitation
 >* 2/day each: charm person, fog cloud, levitate
 >
