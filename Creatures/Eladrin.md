@@ -60,6 +60,7 @@ Eladrin often enter the autumn season when they are overcome by feelings of good
 >***Longbow.*** Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 22 (5d8) psychic damage.
 >
 >***Spellcasting.*** The eladrin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
+>
 >* At will: hold person
 >* 2/day each: cure wounds (as a 5th-level spell), lesser restoration
 >* 1/day each: greater restoration, revivify
@@ -119,6 +120,7 @@ Their hearts filled with joy, spring eladrin cavort through their sylvan realms,
 >***Longbow.*** Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 22 (5d8) psychic damage.
 >
 >***Spellcasting.*** The eladrin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
+>
 >* At will: Tasha's hideous laughter
 >* 1/day each: major image, suggestion
 >
@@ -226,6 +228,7 @@ When sorrow distresses eladrin, they enter the winter season, becoming figures o
 >***Longbow.*** Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 13 (3d8) cold damage.
 >
 >***Spellcasting.*** The eladrin casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
+>
 >* At will: fog cloud, gust of wind, sleet storm
 >
 >#### Bonus Actions

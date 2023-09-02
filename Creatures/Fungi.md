@@ -22,7 +22,7 @@ The first gas spores are thought to have been spawned from dead beholders, whose
 Underdark
 
 ### Token
-![](GasSpore-Token.png)
+![](Fungi-GasSpore-Token.png)
 
 >### Gas Spore
 >*Large plant, unaligned*

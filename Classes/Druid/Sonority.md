@@ -1,4 +1,4 @@
-# Circle of Sonority
+# Druidic Circle: Circle of Sonority
 The world is loud now. It didn’t use to be this way. The endless growth of mortal races has filled the world with sound, but there are those who remember how things were. There is a power in this dynamic, the shifting to and fro from loud to quiet, harsh to soft. Druids from the Circle of Sonority appreciate this relationship, using it to empower their spells and increase their understanding of all things that move.
 
 ## Dampen Sound

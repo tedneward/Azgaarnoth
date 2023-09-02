@@ -1,52 +1,36 @@
-TROLL SHAMAN
-Large Giant, Chaotic Evil
+DRUID
+Medium Humanoid (Any Race), Any Alignment
 
-Armor Class 15 (natural armor)
-Hit Points 135 (14d10 + 56)
+Armor Class 11 (16 with barkskin)
+Hit Points 27 (5d8 + 5)
 Speed 30 ft.
 
 STR
-16 (+3)
+10 (+0)
 DEX
-13 (+1)
+12 (+1)
 CON
-18 (+4)
+13 (+1)
 INT
-7 (-2)
+12 (+1)
 WIS
-14 (+2)
+15 (+2)
 CHA
-7 (-2)
+11 (+0)
 
-Skills Perception +5
-Senses Darkvision 60 ft., Passive Perception 15
-Languages Giant
-Challenge 7 (2,900 XP)
-Proficiency Bonus +3
+Skills Medicine +4, Nature +3, Perception +4
+Senses Passive Perception 14
+Languages Druidic plus any two languages
+Challenge 2 (450 XP)
+Proficiency Bonus +2
 
-Keen Smell. The troll has advantage on Wisdom (Perception) checks that rely on smell.
+Spellcasting. The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 
-Spellcasting. The troll is a 8th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following druid spells prepared:
+Cantrips (at will): druidcraft, produce flame, shillelagh
 
-Cantrips (at will): druidcraft, poison spray, thorn whip
+1st level (4 slots): entangle, longstrider, speak with animals, thunderwave
 
-1st level (4 slots): earth tremor, entangle, fog cloud
-
-2nd level (3 slots): hold person, spike growth
-
-3rd level (3 slots): erupting earth, stinking cloud
-
-4th level (2 slots): ice storm, stoneskin
-
-Ravenous Presence. When an allied troll within 30 feet of this troll hits a creature with a bite attack, it is a critical hit, provided that this troll isn't incapacitated.
-
-Regeneration. The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
+2nd level (3 slots): animal messenger, barkskin
 
 Actions
-Multiattack. The troll makes three attacks: one with its bite and two with its claws.
-
-Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
-
-Claw. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
-
-Vaprak's Fury (Recharges after a Short or Long Rest). The troll targets up to three allied trolls it can see within 30 feet of it. Each target gains advantage on melee attack rolls until the end of its next turn. In addition, each target regains 10 hit points unless they took acid or fire damage during its last turn.
+Quarterstaff. Melee Weapon Attack: +2 to hit (+4 to hit with shillelagh), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with shillelagh.

@@ -1,14 +1,14 @@
 # Humans
 Humans, the second generation of the races created by the Eldar, are the numerically largest racial segment of Azgaarnoth, forming the backbone of many, if not most, of the cities and nations of Azgaarnoth, except for those of the Hordish lands.
 
-> Jump to: [Human](#human) | [Half-Elf](#half-elf) | [Half-Orc](#half-orc)
+> Jump to: [Human](Humans.md#human) | [Half-Elf](Humans.md#half-elf) | [Half-Orc](Humans.md#half-orc) | [Human Veteran](Humans.md#veteran) | [Half-Elf Druid](Humans.md#druid)
 
 Humans are also genetically compatible with many of the other races across Azgaarnoth, leading to a number of "half-" races (such as half-orcs or half-elves) that also permeate much of Azgaarnoth's racial fabric.
 
 ---
 
 ## Human
-In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that’s why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
+In the reckonings of most worlds, humans are the the druidngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that’s why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
 
 ***A Broad Spectrum.*** With their penchant for migration and conquest, humans are more physically diverse than other common races. There is no typical human. An individual can stand from 5 feet to a little over 6 feet tall and weigh from 125 to 250 pounds. Human skin shades range from nearly black to very pale, and hair colors from black to blond (curly, kinky, or straight); males might sport facial hair that is sparse or thick. A lot of humans have a dash of nonhuman blood, revealing hints of elf, orc, or other lineages. Humans reach adulthood in their late teens and rarely live even a single century.
 
@@ -21,8 +21,6 @@ Although some humans can be xenophobic, in general their societies are inclusive
 ***Exemplars of Ambition.*** Humans who seek adventure are the most daring and ambitious members of a daring and ambitious race. They seek to earn glory in the eyes of their fellows by amassing power, wealth, and fame. More than other people, humans champion causes rather than territories or groups.
 
 ***Human Names and Ethnicities.*** Having so much more variety than other cultures, humans as a whole have no typical names. Some human parents give their children names from other languages, such as Dwarvish or Elvish (pronounced more or less correctly), but most parents give names that are linked to their region’s culture or to the naming traditions of their ancestors.
-
-The material culture and physical characteristics of humans can change wildly from region to region. In the Forgotten Realms, for example, the clothing, architecture, cuisine, music, and literature are different in the northwestern lands of the Silver Marches than in distant Turmish or Impiltur to the east—and even more distinctive in far-off Kara-Tur. Human physical characteristics, though, vary according to the ancient migrations of the earliest humans, so that the humans of the Silver Marches have every possible variation of coloration and features.
 
 >### Human
 >*Medium Humanoid (Any Race), Any Alignment*
@@ -135,10 +133,103 @@ Half-orcs usually have names appropriate to the culture in which they were raise
 >- **Languages** —
 >- **Challenge** 0
 >___
->***Relentless Endurance.*** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
+>***Relentless Endurance.*** When the druid are reduced to 0 hit points but not killed outright, the druid can drop to 1 hit point instead. the druid can’t use this feature again until the druid finish a long rest.
 >
->***Savage Attacks.*** When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
+>***Savage Attacks.*** When the druid score a critical hit with a melee weapon attack, the druid can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
 >
 >#### Actions
 >***Club.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
+>
+
+---
+
+## Human Veteran
+The human veteran is one of those soliders who has survived a few years in one of the innumerable military groups all over Azgaarnoth. She's learned a few things, and she's got the scars to prove it.
+
+### Environment
+Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Ruins, Swamp, Underdark, Urban
+
+### Token
+![](Humans-Veteran.png)
+
+>### Human
+>*Medium Humanoid (Any Race), Any Alignment*
+>___
+>- **Armor Class** 16 (chain shirt (14), DEX (+2))
+>- **Hit Points** 68 (8d8 + 24)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|14 (+1)|16 (+3)|10 (+0)|14 (+1)|8 (-1)|
+>
+>___
+>- **Proficiency Bonus** +4
+>- **Saving Throws** Str +6, Con +6 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +4
+>- **Senses** passive Perception 14
+>- **Languages** Common
+>- **Challenge** 3
+>___
+>***Military Training.*** The veteran has advantage on an attack roll against a creature if at least one of the soldier's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>
+>#### Actions
+>***Multiattack.*** The veteran can attack four times (twice with its longsword, twice with its shortsword).
+>
+>***Longsword.***  Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (1d8 + 6) slashing damage, or 12 (1d10 + 6) slashing damage if used with two hands.
+>
+>***Shortsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 6) piercing damage.
+>
+>***Light Crossbow.*** Ranged Weapon Attack: +4 to hit, range 80 ft./320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
+>
+>#### Reaction
+>***Parry.*** The veteran adds their Proficiency Bonus to its AC against one melee attack that would hit it. To do so, the veteran must see the attacker and be wielding a melee weapon.
+
+---
+
+## Half-ELf Druid
+Some half-elves feel the pull of nature through their elven side, while others choose to embrace a life away from either human or elven influence by choosing trees and animals instead. Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization.
+
+### Environment
+Forest, Grassland, Hill, Swamp
+
+### Token
+![](Druid-Token.png)
+
+>### Half-Elf Druid
+>*Medium Humanoid (human, elf), chaotic neutral*
+>___
+>- **Armor Class** 11 (16 with barkskin)
+>- **Hit Points** 27 (5d8 + 5)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|12 (+1)|13 (+1)|12 (+1)|15 (+2)|11 (+0)|
+>___
+>- **Proficiency Bonus** +2
+>- **Saving Throws** Int +3, Wis +4
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Medicine +4,Nature +3,Perception +4
+>- **Senses** Passive Perception 14
+>- **Languages** Druidic,Common,Sylvan
+>- **Challenge** 2
+>___
+>#### Actions
+>***Quarterstaff.*** Melee Weapon Attack: +2 to hit (+4 to hit with shillelagh), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with shillelagh.
+>
+>***Spellcasting.*** The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
+>
+>* Cantrips (at will): druidcraft, produce flame, shillelagh
+>* 1st level (4 slots): entangle, longstrider, speak with animals, thunderwave
+>* 2nd level (3 slots): animal messenger, barkskin
+>
+>***Wild Shape (2/Recharge on short or long rest).*** The druid can magically assume the shape of a (non-flying) beast, such as a wolf or crocodile for up to 2 hours or until dismissed using a bonus action. The druid resumes their normal form if they die or fall unconscious.
 >

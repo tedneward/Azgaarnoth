@@ -177,6 +177,7 @@ Ruins, Underdark
 >* 1/day each: darkness, faerie fire, levitate (self only)
 >
 >***Spellcasting.*** The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The drow has the following wizard spells prepared:
+>
 >* Cantrips (at will): mage hand, minor illusion, poison spray, ray of frost
 >* 1st level (4 slots): mage armor, magic missile, shield, witch bolt
 >* 2nd level (3 slots): alter self, misty step, web
@@ -237,6 +238,7 @@ Ruins, Underdark
 >* 1/day each: darkness, faerie fire, levitate (self only)
 >
 >***Spellcasting.*** The drow is a 10th-level spellcaster. Her spellcasting ability is Wisdom (save DC 14, +6 to hit with spell attacks). The drow has the following cleric spells prepared:
+>
 >* Cantrips (at will): guidance, poison spray, resistance, spare the dying, thaumaturgy
 >* 1st level (4 slots): animal friendship, cure wounds, detect poison and disease, ray of sickness
 >* 2nd level (3 slots): lesser restoration, protection from poison, web
@@ -297,6 +299,7 @@ Ruins, Underdark
 >***Web (Spider Form Only; Recharge 5-6).*** Ranged Weapon Attack: +8 to hit, range 30/60 ft., one target. Hit: The target is restrained by webbing. As an action, the restrained target can make a DC 15 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
 >
 >***Spellcasting.*** The drow casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 17):
+>
 >* At will: dancing lights, mage hand
 >* 1/day each: darkness, dispel magic, etherealness, faerie fire, fly, insect plague, invisibility
 >
@@ -354,6 +357,7 @@ Ruins, Underdark
 >***Arcane Eruption.*** Ranged Spell Attack: +10 to hit, range 120 ft., one target. Hit: 36 (8d8) force damage, and the drow can push the target up to 10 feet away if it is a Large or smaller creature.
 >
 >***Spellcasting.*** The drow casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 18):
+>
 >* At will: dancing lights, mage armor, mage hand, message
 >* 3/day each: dimension door, fireball, invisibility
 >* 1/day each: darkness, faerie fire, levitate (self only)
@@ -412,6 +416,7 @@ Ruins, Underdark
 >***Hand Crossbow.*** Ranged Weapon Attack: +8 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target regains consciousness if it takes damage or if another creature takes an action to shake it.
 >
 >***Spellcasting.*** The drow casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):
+>
 >* At will: dancing lights
 >* 1/day each: darkness, faerie fire, levitate (self only)
 >
@@ -471,9 +476,8 @@ Ruins, Underdark
 >
 >***Spellcasting.*** The drow casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 18):
 >
->At will: dancing lights, detect magic, message, thaumaturgy
->
->1/day each: clairvoyance, darkness, detect thoughts, dispel magic, faerie fire, levitate (self only), silence, suggestion, true seeing
+>* At will: dancing lights, detect magic, message, thaumaturgy
+>* 1/day each: clairvoyance, darkness, detect thoughts, dispel magic, faerie fire, levitate (self only), silence, suggestion, true seeing
 >
 >#### Bonus Actions
 >***Spectral Dagger (Recharges after a Short or Long Rest).*** The drow conjures a floating, spectral dagger within 60 feet of itself. The drow can make a melee spell attack (+10 to hit) against one creature within 5 feet of the dagger. On a hit, the target takes 9 (1d8 + 5) force damage. The dagger lasts for 1 minute. As a bonus action on later turns, the drow can move the dagger up to 20 feet and repeat the attack against one creature within 5 feet of the dagger.
@@ -532,11 +536,9 @@ Ruins, Underdark
 >
 >***Spellcasting.*** The drow casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 20):
 >
->At will: command, dancing lights, detect magic, thaumaturgy
->
->2/day each: banishment, blade barrier, cure wounds, hold person, plane shift, silence
->
->1/day each: clairvoyance, darkness, detect thoughts, dispel magic, faerie fire, gate, levitate (self only), suggestion
+>* At will: command, dancing lights, detect magic, thaumaturgy
+>* 2/day each: banishment, blade barrier, cure wounds, hold person, plane shift, silence
+>* 1/day each: clairvoyance, darkness, detect thoughts, dispel magic, faerie fire, gate, levitate (self only), suggestion
 >
 >#### Bonus Actions
 >***Lolth's Fickle Favor.*** The drow bestows the Spider Queen's blessing on one ally she can see within 30 feet of her. The ally takes 7 (2d6) psychic damage but has advantage on the next attack roll it makes before the end of its next turn.
@@ -625,11 +627,9 @@ Ruins, Underdark
 >
 >***Spellcasting.*** The drow casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 20):
 >
->At will: command, dancing lights, detect magic, thaumaturgy
->
->2/day each: banishment, blade barrier, cure wounds, hold person, plane shift, silence
->
->1/day each: clairvoyance, darkness, detect thoughts, dispel magic, faerie fire, gate, levitate (self only), suggestion
+>* At will: command, dancing lights, detect magic, thaumaturgy
+>* 2/day each: banishment, blade barrier, cure wounds, hold person, plane shift, silence
+>* 1/day each: clairvoyance, darkness, detect thoughts, dispel magic, faerie fire, gate, levitate (self only), suggestion
 >
 >#### Legendary Actions
 >The drow can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The drow regains spent legendary actions at the start of her turn.
@@ -709,9 +709,8 @@ Ruins, Underdark
 >
 >***Spellcasting.*** The drow casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):
 >
->At will: dancing lights, darkness
->
->1/day each: faerie fire, levitate (self only)
+>* At will: dancing lights, darkness
+>* 1/day each: faerie fire, levitate (self only)
 >
 >***Summon Shadow Demon (1/Day).*** The drow attempts to magically summon a [shadow demon](Demons.md#shadow-demon) with a 50 percent chance of success. If the attempt fails, the drow takes 5 (1d10) psychic damage. Otherwise, the summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
 >

@@ -51,6 +51,7 @@ Level|Proficiency Bonus|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|Featu
 
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
+
 * (a) a wooden shield or (b) any simple weapon
 * (a) a scimitar or (b) any simple melee weapon
 * Leather armor, an explorer's pack, and a druidic focus
@@ -118,7 +119,7 @@ While you are transformed, the following rules apply:
 ## Wild Companion
 *2nd-level druid feature*
 
-You gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the [find familiar]() spell, without material components.
+You gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the [find familiar](../../Magic/Spells/find-familiar.md) spell, without material components.
 
 When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after a number of hours equal to half your druid level.
 
@@ -127,6 +128,7 @@ At 2nd level, you choose to identify with a circle of druids:
 
 * [Circle of Dragons](Dragons.md)
 * [Circle of Dreams](Dreams.md)
+* [Circle of Frost](Frost.md)
 * [Circle of the Land](Land.md)
 * [Circle of the Molt](Molt.md)
 * [Circle of the Moon](Moon.md)
@@ -138,6 +140,7 @@ At 2nd level, you choose to identify with a circle of druids:
 * [Circle of Stars](Stars.md)
 * [Circle of Twilight](Twilight.md)
 * [Circle of Wildfire](Wildfire.md)
+* [Circle of Winter](Winter.md)
 
 Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 

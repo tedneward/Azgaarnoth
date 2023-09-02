@@ -54,6 +54,7 @@ Although they're formidable warriors, gloom weavers are often content to hide in
 >***Shadow Spear.*** Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 30/120, one target. Hit: 7 (1d6 + 4) piercing damage plus 26 (4d12) necrotic damage. Hit or Miss: The spear magically returns to the shadar-kai's hand immediately after a ranged attack.
 >
 >***Spellcasting.*** The shadar-kai casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
+>
 >* At will: arcane eye, mage armor, minor illusion, prestidigitation, speak with dead
 >* 1/day each: arcane gate, bane, confusion, darkness, fear, major image, true seeing
 >
@@ -100,6 +101,7 @@ Those who have fought shadow dancers describe the experience as similar to fight
 >***Multiattack.*** The shadar-kai makes three Spiked Chain attacks. It can use Shadow Jump after one of these attacks.
 >
 >***Spiked Chain.*** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) piercing damage. The target must succeed on a DC 14 Dexterity saving throw or suffer one of the following effects (choose one or roll a d6):
+>
 >* **1-2:** ***Decay.*** The target takes 22 (4d10) necrotic damage.
 >* **3-4:** ***Grapple.*** The target is grappled (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends, the target is restrained, and the shadar-kai can't grapple another target.
 >* **5-6:** ***Topple.*** The target is knocked prone.
@@ -155,6 +157,7 @@ Wracked with despair over the loss of memories of a brighter time, soul mongers 
 >***Shadow Dagger.*** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 13 (4d4 + 3) piercing damage plus 19 (3d12) necrotic damage, and the target has disadvantage on saving throws until the end of the shadar-kai's next turn. Hit or Miss: The dagger magically returns to the shadar-kai's hand immediately after a ranged attack.
 >
 >***Spellcasting.*** The shadar-kai casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
+>
 >* 1/day each: bestow curse, finger of death, gaseous form, seeming
 >
 >***Wave of Weariness (Recharge 4-6).*** The shadar-kai emits weariness in a 60-foot cube. Each creature in that area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 45 (10d8) psychic damage and suffers 1 level of exhaustion. On a successful save, it takes half as much damage and doesn't gain a level of exhaustion.

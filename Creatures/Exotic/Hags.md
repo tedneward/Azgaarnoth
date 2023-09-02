@@ -1,7 +1,7 @@
 # Hags
 Hags represent all that is evil and cruel. Though they resemble withered crones, there is nothing mortal about these monstrous creatures, whose forms reflect only the wickedness in their hearts.
 
-> Jump to: [Annis Hag](Hags.md#annis-hag) | [Bheur Hag](Hags.md#bheur-hag) | [Cinder Hag](Hags.md#cinder-hag) | [Crimson Hag](Hags.md#crimson-hag) | [Desert Hag](Hags.md#desert-hag) | [Green Hag](Hags.md#green-hag) | [Night Hag](Hags.md#night-hag) | [Sea Hag](Hags.md#sea-hag) | [Storm Hag](Hags.md#storm-hag) | [Grimflame](Hags.md#grimflame)
+> Jump to: [Annis Hag](Hags.md#annis-hag) | [Bheur Hag](Hags.md#bheur-hag) | [Cinder Hag](Hags.md#cinder-hag) | [Crimson Hag](Hags.md#crimson-hag) | [Desert Hag](Hags.md#desert-hag) | [Green Hag](Hags.md#green-hag) | [Howling Hag](Hags.md#howling-hag) | [Night Hag](Hags.md#night-hag) | [Sea Hag](Hags.md#sea-hag) | [Storm Hag](Hags.md#storm-hag) | [Troll Hag]() | [Grimflame](Hags.md#grimflame)
 
 ***Faces of Evil.*** Ancient beings with origins in the Feywild, hags are cankers on the mortal world. Their withered faces are framed by long, frayed hair, horrid moles and warts dot their blotchy skin, and their long, skinny fingers are tipped by claws that can slice open flesh with a touch. Their simple clothes are always tattered and filthy.
 
@@ -30,18 +30,19 @@ Some humanoids make the mistake of thinking that the hags' rules of conduct appl
 ### Hag Covens
 When hags must work together, they form covens, in spite of their selfish natures. A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos. The coven can be made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power.
 
-Any hag that is part of a coven has its CR boosted by 2 if encountered in its coven.
+Any hag that is part of a coven has its CR boosted by 2 if encountered in its coven. Each hag in the coven has its CR adjusted this way.
 
 While all three members of a hag coven are within 30 feet of one another, they each gain the following action:
 
-***Shared Spellcasting.*** The hag is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12 + the hag's Int modifier, +4 + the hag's Int modifier to hit with spell attacks). The three hags in the coven share the spell slots listed. The hag has the following wizard spells prepared:
+> ***Shared Spellcasting.*** The hag is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12 + the hag's Int modifier, +4 + the hag's Int modifier to hit with spell attacks). The three hags in the coven share the spell slots listed. The hag has the following wizard spells prepared:
+>* 1st level (4 slots): [identify](../../Magic/Spells/identify.md), [ray of sickness](../../Magic/Spells/ray-of-sickness.md)
+>* 2nd level (3 slots): [hold person](../../Magic/Spells/hold-person.md), [locate object](../../Magic/Spells/locate-object.md)
+>* 3rd level (3 slots): [bestow curse](../../Magic/Spells/bestow-curse.md), [counterspell](../../Magic/Spells/counterspell.md), [lightning bolt](../../Magic/Spells/lightning-bolt.md)
+>* 4th level (3 slots): [phantasmal killer](../../Magic/Spells/phantasmal-killer.md), [polymorph](../../Magic/Spells/polymorph.md)
+>* 5th level (2 slots): [contact other plane](../../Magic/Spells/contact-other-plane.md), [scrying](../../Magic/Spells/scrying.md)
+>* 6th level (1 slot): [eyebite](../../Magic/Spells/eyebite.md)
 
-* 1st level (4 slots): identify, ray of sickness
-* 2nd level (3 slots): hold person, locate object
-* 3rd level (3 slots): bestow curse, counterspell, lightning bolt
-* 4th level (3 slots): phantasmal killer, polymorph
-* 5th level (2 slots): contact other plane, scrying
-* 6th level (1 slot): eyebite
+Different covens may have different shared spells prepared.
 
 ***Hag Eye.*** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.
 
@@ -397,6 +398,63 @@ The wretched and hateful green hags dwell in dying forests, lonely swamps, and m
 
 ---
 
+## Howling Hag
+Howling hags prefer to live near or within the communities of the humanoids they prey upon, usually hiding within towns and cities. These hags hide their true form, which is a sickly yellow or tan color, wrinkled, and sagging, behind a carefully-crafted illusory disguise, living as beautiful performers, artists, merchants, and even courtesans. Howling hags especially enjoy any role that enables them to make use of their alluring singing or speaking voice. They use the opportunities afforded by these personas to strike at their victims, invisibly carrying them away when they won't be heard or tearing them apart with both claws in one deadly embrace.
+
+***Masters of Wind.*** Howling hags have a magical affinity for wind and sound. They can command winds to push or pull foes, to hurl them into the air, or to create a protective wall When they spread their arms wide, wind rushes to them, carrying them into the air in magical flight. They have excellent hearing even for hags, and their innate magic protects them from losing their hearing.
+
+***Vain of Voice.*** There are few hags more vain than howling hags, and their vanity is the strongest in regards to the sounds of their voices. A howling hag's voice changes while she is disguised by her own magic, becoming lovely and melodic. But a howling hag's true voice -- heard only when her true form is revealed -- is raspy, grating, and physically painful to listen to. Despite this, howling hags believe their true voices to be the most beautiful of alL a voice saved as a gift for those they devour. They are remarkably easy to flatter when it comes to their true voices, but insulting one's voice will greatly enrage the hag.
+
+### Environment
+Desert, Grassland, Mountain, Urban
+
+### Token
+![](HowlingHag-Token.png)
+
+>### Howling Hag
+>*Medium fey, neutral evil*
+>___
+>- **Armor Class** 16 (natural armor)
+>- **Hit Points** 105 (12d8 + 42)
+>- **Speed** 30 ft., fly 50 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|15 (+2)|16 (+3)|11 (+0)|15 (+2)|17 (+3)|
+>___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold,thunder
+>- **Damage Immunities** 
+>- **Condition Immunities** deafened
+>- **Skills** Deception +6,Perception +5,Performance+6, Stealth + 5
+>- **Senses** darkvision 60 ft.,passive Perception 15
+>- **Languages** Auran,Common,Sylvan
+>- **Challenge** 6
+>___
+>***Keen Hearing.*** The hag has advantage on Wisdom (Perception) checks that rely on hearing.
+>
+>***See Invisibility.*** The hag can see invisible creatures and objects as if they were visible, and she can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
+>
+>#### Actions
+>***Multiattack.*** The hag makes two claw attacks. If both attacks hit the same target, the target takes 9 (2d8) extra slashing damage.
+>
+>***Claw.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
+>
+>***Improved Invisibility.*** The hag magically turns invisible until her concentration ends (as if concentrating on a spell) or she casts a spell. Any equipment the hag wears or carries is invisible with her.
+>
+>***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 13). She can innately cast the following spells, requiring no material components:
+>* At will: dancing lights, disguise self, gust of wind, minor illusion, thunderwave
+>* 3/day each: charm person, cyclone, wind funnel (new), wind wall
+>* 1/day each: control winds
+>
+>***Shrieking Howl (Recharge 5-6).*** The hag shrieks loudly enough that she can be heard from up to 500 feet away. Each other creature within 60 feet of the hag must make a Constitution saving throw. On a failed save, a creature takes 13 (3d8) thunder damage and 13 (3d8) psychic damage and it is deafened until the end of the hag's next turn. While a creature is deafened in this way, it is confused, giving it disadvantage on attack rolls, Intelligence checks, and Wisdom checks. Other howling hags are immune to this ability.
+>
+
+
+--- 
+
 ## Night Hag
 Sly and subversive, night hags want to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness. Night hags take perverse joy in corrupting mortals.
 
@@ -546,36 +604,89 @@ Some storm hags can animate small clouds to sit and ride upon to fly through the
 >|15 (+2)|16 (+3)|14 (+2)|18 (+4)|15 (+2)|19 (+4)|
 >
 >___
->- **Proficiency Bonus** cold, thunder
->- **Saving Throws** s** lightning
->- **Damage Vulnerabilities** armed, exhaustion, frightened, paralyzed, poisoned
->- **Damage Resistances** arkvision 60 ft., passive Perception 16
->- **Damage Immunities** Deception +8, Nature +8, Perception +6, Stealth +7
->- **Condition Immunities** p Speech, Draconic, Giant, Primordial, Sylvan
->- **Skills** ** 10
->- **Senses** 
->- **Languages** * The hag can breathe air and water.
->- **Challenge** 
+>- **Proficiency Bonus** +4
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold, thunder
+>- **Damage Immunities** lightning
+>- **Condition Immunities**
+>- **Skills** Arcana +8, Deception +8, Nature +8, Perception +6, Stealth +7
+>- **Senses** darkvision 60ft, passive Perception 16
+>- **Languages** Common, Deep Speech, Draconic, Giant, Primordial, Sylvan
+>- **Challenge** 10
 >___
->***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 16). She can innately cast the following spells, requiring no material components, although she can only cast *divination* or *scrying* by staring at the sky, the currents of the ocean, or a storm that she has trapped or bottled:
+>***Amphibious.*** The hag can breathe air and water.
 >
->* *At will*: [call lightning](../Magic/Spells/call-lightning.md), [disguise self](../Magic/Spells/disguise-self.md), [druidcraft](../Magic/Spells/druidcraft.md), [feather fall](../Magic/Spells/feather-fall.md), [fly](../Magic/Spells/fly.md) (self only), [gaseous form](../Magic/Spells/gaseous-form.md), [gust of wind](../Magic/Spells/gust-of-wind.md)
->
->* *3/day each*: c[ontrol water](../Magic/Spells/control-water.md), [fog cloud](../Magic/Spells/fog-cloud.md) (as 5th-level), [lightning bolt](../Magic/Spells/lightning-bolt.md) (as 5th-level), [water breathing](../Magic/Spells/water-breathing.md)
->
->* *1/day each*: [control weather](../Magic/Spells/control-weather.md), [divination](../Magic/Spells/divination.md), [geas](../Magic/Spells/geas.md), [scrying](../Magic/Spells/scrying.md), [wind walk](../Magic/Spells/wind-walk.md)
+>***Portent from Weather.*** At the start of each day, the hag peers into the sky or the ocean for at least 1 minute, then the DM rolls three d20s and records the numbers rolled. During that day, the hag can replace any attack roll, saving throw, or ability check made by her or a creature that she can see with one of these foretelling rolls before the roll is made.
 >
 >### Actions
+>***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 16). She can innately cast the following spells, requiring no material components, although she can only cast *divination* or *scrying* by staring at the sky, the currents of the ocean, or a storm that she has trapped or bottled:
+>* *At will*: [call lightning](../Magic/Spells/call-lightning.md), [disguise self](../Magic/Spells/disguise-self.md), [druidcraft](../Magic/Spells/druidcraft.md), [feather fall](../Magic/Spells/feather-fall.md), [fly](../Magic/Spells/fly.md) (self only), [gaseous form](../Magic/Spells/gaseous-form.md), [gust of wind](../Magic/Spells/gust-of-wind.md)
+>* *3/day each*: c[ontrol water](../Magic/Spells/control-water.md), [fog cloud](../Magic/Spells/fog-cloud.md) (as 5th-level), [lightning bolt](../Magic/Spells/lightning-bolt.md) (as 5th-level), [water breathing](../Magic/Spells/water-breathing.md)
+>* *1/day each*: [control weather](../Magic/Spells/control-weather.md), [divination](../Magic/Spells/divination.md), [geas](../Magic/Spells/geas.md), [scrying](../Magic/Spells/scrying.md), [wind walk](../Magic/Spells/wind-walk.md)
 >
 >***Slam.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) bludgeoning damage plus 9 (2d8) lightning damage.
 >
->***Bottled Storm (7/Day).*** The hag releases the storm cloud she had saved in a bottle. The area within 60 feet of the hag becomes heavily obscured difficult terrain for l minute. The hag ignores this difficult terrain. A creature that begins its turn in the area or enters it for the first time on a turn takes l 3 (3d8) lightning damage.
+>***Bottled Storm (1/Day).*** The hag releases the storm cloud she had saved in a bottle. The area within 60 feet of the hag becomes heavily obscured difficult terrain for l minute. The hag ignores this difficult terrain. A creature that begins its turn in the area or enters it for the first time on a turn takes l 3 (3d8) lightning damage.
 >
 >### Reactions
 >
 >***Cloud Form.*** When the hag would be hit by a melee attack, she can transform into a cloud for a moment (or a cloud of black ink when used underwater), causing the attack to miss. When she does, she can fly or swim up to 15 feet without provoking opportunity attacks before she returns to normal, at which point she falls if she is still aloft and cannot fly.
 >
+
+---
+
+## Troll Hag
+A supremely ugly female troll that has been granted the power of a hag. Some hags take a liking to their female troll minions, and, finding a kindred spirit in them, they bestow their newly adopted daughter with some of their dark power. The troll may find some difficulty in properly using the new power it has been given, but she will be a serious threat none the less.
+
+### Environment
+Arctic, Forest, Hill, Mountain, Swamp, Underdark
+
+### Token
+![](TrollHag-Token.png)
+
+>### Troll Hag
+>*Large Giant, Neutral Evil*
+>___
+>- **Armor Class** 15 (natural armor)
+>- **Hit Points** 84 (8d10 + 40)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|13 (+1)|20 (+5)|8 (-1)|10 (+0)|8 (-1)|
+>___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +2
+>- **Senses** Darkvision 60 ft.,Passive Perception 12
+>- **Languages** Giant
+>- **Challenge** 7
+>___
+>***Amphibious.*** The troll hag can breathe air and water.
+>
+>***Keen Smell.*** The troll hag has advantage on Wisdom (Perception) checks that rely on smell.
+>
+>***Regeneration.*** The troll hag regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
+>
 >#### Actions
+>***Multiattack.*** The troll hag makes three attacks: one with its bite and two with its claws.
+>
+>***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+>
+>***Claw.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+>
+>***Innate Spellcasting.*** The troll hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:
+>* At will: dancing lights, minor illusion, vicious mockery
+>
+>***Trollstaff.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit:  11 (2d6 + 4) bludgeoning damage. A target hit by this weapon also has the [hex](../../Magic/Spells/hex.md) spell cast upon them instantaneously. (Any attempts to touch the staff will also result in Hex being cast on the creature.)
+>
+>***Net.*** Ranged Weapon Attack: +7 to hit, range (5/15)ft., one target. Hit:  A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
+>
 
 ---
 

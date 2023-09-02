@@ -5,6 +5,8 @@ The sea elves, known more formally as the *maerach*, ...
 
 ***Playable Race: Grace Under Pressure.*** The maerach are a [playable race](../Races/Elves/Sea.md), and in fact are commonly found along the shores and aboard merchant vessels as guards (and often even captains or owners of the merchant guild).
 
+***TODO** Draw up Sea Elf Pirate Captain, Sea Elf Shaman (elemental spirits)
+
 ---
 
 ## Sea Elf Commoner

@@ -730,12 +730,12 @@ def ingest(arg):
             while (len(lines) > 0) and (len(lines[0].strip()) == 0):
                 del lines[0]
 
-            name = lines[0]
+            name = lines[0].strip()
             print("INGESTING CREATURE " + name)
             description = []
 
             linect = 1
-            while lines[linect] != name.upper():
+            while lines[linect].strip().upper() != name.upper():
                 if len((lines[linect]).strip()) > 0:
                     description.append(lines[linect])
                 linect += 1
