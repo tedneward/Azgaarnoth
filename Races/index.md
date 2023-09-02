@@ -99,7 +99,7 @@ The offspring of an ogre and any of a human, a hobgoblin, a bugbear, or an orc i
 ### [Orc](Orcs.md)
 Orcs and goblins make up the mainstay of the Hordes populations, and are most commonly found in [Ulm](../Nations/Ulm.md) and [Tragekia](../Nations/Tragekia.md). Orcs are just as diverse as humans, however, and many of them have begun to take up the idea that a society based on something other than looting and pillaging is not a terrible thing; these form the bulk of the [United Hordes](../Nations/Tragekia.md). Others, however, long to return to more of the "Old Ways", and these have found a home in the [Ulmhorde](../Nations/Ulm.md). Still others remained in [Yithi](../Nations/Yithi.md) and [Zhi](../Nations/Zhi.md) and found ways to interact with the other races there to form the unique tapestry there that is part-human, part-Firstborn, part-Horde, and all unique.
 
-Despite the racial stereotype, orcs are no more prone to brutish violence than humans or other mortals. They are not as common in the west as they are in the east, but enough of them have migrated out of the Hordeslands that they are not rare.
+Despite the racial stereotype, modern orcs are no more prone to brutish violence than humans or other mortals. They are not as common in the west as they are in the east, but enough of them have migrated out of the Hordeslands that they are not rare. What's more, those orcs who are generations removed from the Ulmhorde are often staunch and trustworthy members of their communities, and many westerners find them to be excellent neighbors and allies.
 
 ### [Half-orcs](Half-Orcs.md)
 While many half-orcs are found in Hordes lands ([Tragekia](../Nations/Tragekia.md) and [Ulm](../Nations/Ulm.md)) as the children of orcs and captured humans, many more are found in [Yithi](../Nations/Yithi.md) and [Zhi](../Nations/Zhi.md) as the result of much more stable (and less violent) relationships, and still more are found all across Azgaarnoth by this point. It appears that the half-orc genetic trait breeds true: if two half-orcs have children, their child is a half-orc (and not a "true" human or "true" orc, except rarely).
@@ -107,7 +107,7 @@ While many half-orcs are found in Hordes lands ([Tragekia](../Nations/Tragekia.m
 Despite the racial stereotype, half-orcs are no more prone to brutish violence or thuggery than humans or any of the Firstborn. In fact, some of the sharpest instructors in magic are half-orcs at the various [Mage Schools](../Organizations/MageSchools/index.md).
 
 ### [Yuan-ti Pureblood](YuanTi.md)
-These are exceedingly rare, and (openly) found only in the deepest parts of [Zhi](../Nations/Zhi.md). It is thought that some yuan-ti have taken up with the lizardfolk in the marshes around [Mudhear](../Cities/Mudhear.md), but there is no clear answer.
+These are exceedingly rare, and (openly) found only in the deepest parts of [Zhi](../Nations/Zhi.md). It is thought that some yuan-ti have taken up with the lizardfolk in the marshes around [Mudhear](../Cities/Mudhear.md), but there is no clear evidence, as travel there is not particularly common.
 
 ---
 

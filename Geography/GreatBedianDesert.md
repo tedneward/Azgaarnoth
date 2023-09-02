@@ -1,0 +1,2 @@
+# Great Bedian Desert
+In the center of the North Bedian continent, where rains fall only sporadically (and then without much volume), a vast desert surrounds the Bedian Peaks. Travel here is nonexistent--with no settlements for hundreds of miles east of the Peaks (not until one reaches the Tihulne River, at least), winds race across dry, tough grasses--and even sand dunes, in places. The climate is harsh, unforgiving, and filled with all manner of bestial (and exotic) predators that have never laid eyes on civilized humanoids.
