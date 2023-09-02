@@ -31,6 +31,7 @@ def choose(text, choices):
     print(text)
 
     def choosefromlist(choicelist):
+        "Present a list of choices interactively"
         choicelist.sort()
         choiceidx = 0
         for c in choicelist:
@@ -53,6 +54,7 @@ def choose(text, choices):
         return choices[response]
 
     def scriptfromlist(choicelist):
+        """Accept a scripted choice from a list of choices"""
         choicelist.sort()
         choiceidx = 0
         for c in choicelist:
@@ -71,6 +73,7 @@ def choose(text, choices):
             return response
 
     def choosefrommap(choicemap):
+        """Present a map of choices interactively"""
         choiceidx = 0
         for c in choicemap.items():
             choiceidx += 1
@@ -94,6 +97,7 @@ def choose(text, choices):
         return (responsekey, choicemap[responsekey])
 
     def scriptfrommap(choicemap):
+        """Accept a scripted choice from a map of choices"""
         choiceidx = 0
         for c in choicemap.items():
             choiceidx += 1
@@ -113,8 +117,24 @@ def choose(text, choices):
             return result
         else:
             return (response, choicemap[response])
+        
+    def chooseopen():
+        """Accept open-ended input interactively"""
+        response = None
+        while response == None:
+            response = input(">>> ")
+            if len(response.strip()) > 0:
+                return response
 
-    if isinstance(choices, list) and len(scriptedinput) == 0: return choosefromlist(choices)
+    def scriptedopen():
+        """Accept scripted open-ended input"""
+        response = scriptedinput.pop(0).strip()
+        print(">>> " + str(response))
+        return response
+
+    if len(choices) == 0 and len(scriptedinput) == 0: return chooseopen()
+    elif len(choices) == 0 and len(scriptedinput) > 0: return scriptedopen()
+    elif isinstance(choices, list) and len(scriptedinput) == 0: return choosefromlist(choices)
     elif isinstance(choices, dict) and len(scriptedinput) == 0: return choosefrommap(choices)
     elif isinstance(choices, list) and len(scriptedinput) > 0: return scriptfromlist(choices)
     elif isinstance(choices, dict) and len(scriptedinput) > 0: return scriptfrommap(choices)
@@ -157,6 +177,9 @@ def skillchoice(npc):
     skill = interactive() if len(scriptedinput) == 0 else scripted()
     npc.skills.append(skill)
 
+def spelllinkify(name):
+    return f'[{name}](http://azgaarnoth.tedneward.com/spells/{name}.md)'
+
 commonfeatures = {
     'amphibious' : "**Amphibious.**. You can breathe air and water.",
     'darkvision30' : "**Darkvision.**. You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
@@ -164,17 +187,24 @@ commonfeatures = {
     'superiordarkvision' : "**Superior Darkvision.**. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
 }
 
-def populatemodule(module):
-    module.commonfeatures = commonfeatures
-    module.choose = choose
-    module.levelinvoke = levelinvoke
-    module.abilityscoreimprovement = abilityscoreimprovement
-    #module.feat = feat
-    #module.spelllinkify = spelllinkify
-
 
 # ---------------------------------------------------------
 # Module management
+allowed_builtins = {
+    "__builtins__": {
+        "commonfeatures": commonfeatures,
+        "levelinvoke": levelinvoke,
+        "abilityscoreimprovement": abilityscoreimprovement,
+        "spelllinkify": spelllinkify,
+        "choose": choose,
+        "scriptedinput": scriptedinput,
+        "inputhistory": inputhistory,
+        "min": min,
+        "len": len,
+        "print": print,
+    }
+}
+
 def discover(directory, loadfn):
     files = os.listdir(directory)
     for f in files:
@@ -182,27 +212,39 @@ def discover(directory, loadfn):
         if os.path.isfile(filename):
             loadfn(filename)
 
-def parsemd(mdfilename):
-    pythoncode = ""
-    with open(mdfilename) as mdfile:
-        lines = mdfile.readlines()
-        codeblock = False
-        for line in lines:
-            if line[0:3] == "```":
-                codeblock = not codeblock
-                continue
+def loadmodule(filename, modulename):
+    def parsemd(mdfilename):
+        pythoncode = ""
+        with open(mdfilename) as mdfile:
+            lines = mdfile.readlines()
+            codeblock = False
+            for line in lines:
+                if line[0:3] == "```":
+                    codeblock = not codeblock
+                    continue
 
-            if codeblock == True:
-                pythoncode += line
-    if pythoncode == "":
-        print("WARNING: No literate Python found")
-    return pythoncode
+                if codeblock == True:
+                    pythoncode += line
 
-def definemodule(modulename, code):
-    codeObject = compile(code, modulename, 'exec')
-    module = types.ModuleType(modulename)
-    #function = types.FunctionType(codeObject.co_consts[0], globals(), modulename)
-    return module
+        if pythoncode == "":
+            print("WARNING: No literate Python found")
+
+        return pythoncode
+
+    def builddict(codeobj):
+        moduledict = {}; count = 0
+        for name in codeobj.co_names:
+            element = codeobj.co_consts[count]
+            if isinstance(element, types.CodeType):
+                moduledict[name] = types.FunctionType(element, globals=allowed_builtins)
+            else:
+                moduledict[name] = element
+            count += 1
+        return moduledict
+
+    literatecode = parsemd(filename)
+    codeobj = compile(literatecode, modulename, 'exec')
+    return builddict(codeobj)
 
 # We expect race modules to contain the following top-level symbols:
 # Mandatory:
@@ -211,13 +253,15 @@ def definemodule(modulename, code):
 #   subraces : map<string, modules>
 # Optional:
 #   levelX(npc) : function
+races = {}
 def loadraces():
-    def loadrace(mdfilename):
-        print("Loading " + str(mdfilename))
-        code = parsemd(mdfilename)
-        racemodulename = mdfilename[mdfilename.rindex("/")+1:-3]
-        print("Defining code in module " + racemodulename)
-        racemodule = definemodule(racemodulename, code)
+    def loadrace(filename):
+        if os.path.splitext(filename)[1] == '.md':
+            print(f"Loading {str(filename)}... ", end = '')
+            modulename = os.path.splitext(filename)[0]
+            module = loadmodule(filename, modulename)
+            races[modulename] = module
+            print(f" loaded " + modulename + ": " + races[modulename]['name'])
 
     discover(REPOROOT + 'Races', loadrace)
 

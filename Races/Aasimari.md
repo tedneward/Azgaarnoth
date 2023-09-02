@@ -1,5 +1,9 @@
 # [Aasimari](../Creatures/Aasimari.md)
 
+```
+name = 'Aasimar'
+```
+
 * **Ability Score Increase**. Your Charisma score increases by 2.
 
 * **Age**. Aasimar mature at the same rate as humans, but they can live up to 160 years.
@@ -19,6 +23,20 @@
 * **Light Bearer**. You know the [light](https://www.dndbeyond.com/spells/light) cantrip. Charisma is your spellcasting ability for it.
 
 * **Languages**. You can speak, read, and write Common and Celestial.
+
+```
+def level0(npc):
+    npc.CHA += 2
+    npc.size = 'Medium'
+    npc.speed = '30 ft.'
+    npc.features.append(commonfeatures['darkvision'])
+    npc.resistances.append('necrotic')
+    npc.actions.append('***Healing Hands (Recharges after long rest).*** You can touch a creature and cause it to regain a number of hit points equal to your level.')
+    npc.cantripsknown.append('light')
+    npc.spellcastingattribute = 'Charisma'
+    npc.languages.append('Common')
+    npc.languages.append('Celestial')
+```
 
 ## Aasimar Transformations
 

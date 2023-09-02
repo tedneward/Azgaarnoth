@@ -7,7 +7,7 @@ Kenku adventurers, despite their relative independence, still have a tendency to
 
 > **ROLEPLAYING A KENKU**: If you’re playing a kenku, constant attempts to mimic noises can come across as confusing or irritating rather than entertaining. You can just as easily describe the sounds your character makes and what they mean. Be clear about your character’s intentions unless you’re deliberately aiming for inscrutable or mysterious.
 
-> You might say, “Snapper makes the noise of a hammer slowly and rhythmically tapping a stone to show how bored he is. He plays with his dagger and studies the Lords’ Alliance agent sitting at the bar.” Creating a vocabulary of noises for the other players to decode might sound like fun, but it can prove distracting and could slow down the game.
+> You might say, "Snapper makes the noise of a hammer slowly and rhythmically tapping a stone to show how bored he is. He plays with his dagger and studies the Lords’ Alliance agent sitting at the bar." Creating a vocabulary of noises for the other players to decode might sound like fun, but it can prove distracting and could slow down the game.
 
 ## Kenku Traits
 Your kenku character has the following racial traits.
