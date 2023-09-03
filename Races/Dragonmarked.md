@@ -40,6 +40,7 @@ While dragonmarks share the same general appearance, your dragonmark could have 
 
 [The Mark of Detection](#the-mark-of-detection) | [The Mark of Finding](#the-mark-of-finding) | [The Mark of Handling](#the-mark-of-handling) | [The Mark of Healing](#the-mark-of-healing) | [The Mark of Hospitality](#the-mark-of-hospitality) | [The Mark of Making](#the-mark-of-making) | [The Mark of Passage](#the-mark-of-passage) | [The Mark of Scribing](#the-mark-of-scribing) | [The Mark of Sentinel](#the-mark-of-sentinel) | [The Mark of Shadow](#the-mark-of-shadow) | [The Mark of Storm](#the-mark-of-storm) | [The Mark of Warding](#the-mark-of-warding)
 
+---
 
 ## The Mark of Detection
 The Mark of Detection is an inquisitive’s dream. It sharpens powers of observation and intuition, allowing the bearer to draw connections and interpret clues others might miss. By actively drawing on its powers, the bearer can detect poisons and study the energies of magic.

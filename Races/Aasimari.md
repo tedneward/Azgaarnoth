@@ -2,6 +2,8 @@
 
 ```
 name = 'Aasimar'
+type = 'humanoid, celestial'
+subraces = {}
 ```
 
 * **Ability Score Increase**. Your Charisma score increases by 2.
@@ -28,8 +30,8 @@ name = 'Aasimar'
 def level0(npc):
     npc.CHA += 2
     npc.size = 'Medium'
-    npc.speed = '30 ft.'
-    npc.features.append(commonfeatures['darkvision'])
+    npc.speed['walking'] = 30
+    npc.senses['darkvision'] = '60ft'
     npc.resistances.append('necrotic')
     npc.actions.append('***Healing Hands (Recharges after long rest).*** You can touch a creature and cause it to regain a number of hit points equal to your level.')
     npc.cantripsknown.append('light')
@@ -51,6 +53,19 @@ Protector aasimar are charged by the powers of good to guard the weak, to strike
   
   Once you use this trait, you can't use it again until you finish a long rest.
 
+```
+def protector_level0(npc): npc.WIS += 1
+def protector_level3(npc): npc.actions.append("***Radiant Soul (Recharges after long rest).*** The aasimar can unleash the divine energy within itself, causing its eyes to glimmer and two luminous, incorporeal wings to sprout from its back. This transformation lasts for 1 minute or until the aasimar ends it as a bonus action. During it, the aasimar has a flying speed of 30 feet, and once on each of its turns, you can deal extra radiant damage (equal to its level) to one target when it deals damage to it with an attack or a spell.")
+
+subraces['protector'] = {
+    'name' : "Protector",
+    'level0' : protector_level0,
+    'level3' : protector_level3
+}
+```
+
+---
+
 ### Scourge Aasimar
 Scourge aasimar are imbued with a divine energy that blazes intensely within them. It feeds a powerful desire to destroy evil — a desire that is, at its best, unflinching and, at its worst, all-consuming. Many scourge aasimar wear masks to block out the world and focus on containing this power, unmasking themselves only in battle.
 
@@ -60,6 +75,19 @@ Scourge aasimar are imbued with a divine energy that blazes intensely within the
   Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take radiant damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.
 
   Once you use this trait, you can't use it again until you finish a long rest.
+
+```
+def scourge_level0(npc): npc.CON += 1
+def scourge_level3(npc): npc.actions.append("***Radiant Consumption (Recharges after long rest).*** The aasimar can unleash the divine energy within it, causing a searing light to radiate from it, pouring out of its eyes and mouth. Its transformation lasts for 1 minute or until it ends it as a bonus action. During this time, the aasimar sheds bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of its turns, the aasimar and each creature within 10 feet of you take radiant damage equal to half its level (rounded up). In addition, once on each of its turns, the aasimar can deal extra radiant damage (equaling its level) to one target when it deals damage with an attack or a spell.")
+
+subraces['scourge'] = {
+    'name' : "Scourge",
+    'level0' : scourge_level0,
+    'level3' : scourge_level3
+}
+```
+
+---
 
 ### Fallen Aasimar
 An aasimar who was touched by dark powers as a youth or who turns to evil in early adulthood can become one of the fallen — a group of aasimar whose inner light has been replaced by shadow.
@@ -71,3 +99,14 @@ An aasimar who was touched by dark powers as a youth or who turns to evil in ear
   Your transformation lasts for 1 minute or until you end it as a bonus action. During it, once on each of your turns, you can deal extra necrotic damage to one target when you deal damage to it with an attack or a spell. The extra necrotic damage equals your level.
 
   Once you use this trait, you can't use it again until you finish a long rest.
+
+```
+def fallen_level0(npc): npc.STR += 1
+def fallen_level3(npc): npc.actions.append("***Necrotic Shroud (Recharges after long rest).*** ")
+
+subraces['fallen'] = {
+    'name' : "Fallen",
+    'level0' : fallen_level0,
+    'level3' : fallen_level3
+}
+```

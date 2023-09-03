@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
 import argparse
-import importlib.machinery
-import importlib.util
 import os
 import random
 import types
@@ -11,6 +9,9 @@ import types
 # loading the Python code found in each .md file into a script that is then
 # dynamically loaded into a module and used as part of the NPC generation
 # process. In essence, this is a flavor of "literate programming".
+
+quiet = False
+verbose = False
 
 REPOROOT = '../../'
 
@@ -180,31 +181,20 @@ def skillchoice(npc):
 def spelllinkify(name):
     return f'[{name}](http://azgaarnoth.tedneward.com/spells/{name}.md)'
 
+def replace(text, list, newtext):
+    for it in list:
+        if it[0:len(text)] == text:
+            list.remove(it)
+    list.append(text + " " + newtext)
+
+
 commonfeatures = {
-    'amphibious' : "**Amphibious.**. You can breathe air and water.",
-    'darkvision30' : "**Darkvision.**. You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
-    'darkvision' : "**Darkvision.**. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
-    'superiordarkvision' : "**Superior Darkvision.**. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+    'amphibious' : "***Amphibious.*** You can breathe air and water.",
 }
 
 
 # ---------------------------------------------------------
 # Module management
-allowed_builtins = {
-    "__builtins__": {
-        "commonfeatures": commonfeatures,
-        "levelinvoke": levelinvoke,
-        "abilityscoreimprovement": abilityscoreimprovement,
-        "spelllinkify": spelllinkify,
-        "choose": choose,
-        "scriptedinput": scriptedinput,
-        "inputhistory": inputhistory,
-        "min": min,
-        "len": len,
-        "print": print,
-    }
-}
-
 def discover(directory, loadfn):
     files = os.listdir(directory)
     for f in files:
@@ -226,12 +216,26 @@ def loadmodule(filename, modulename):
                 if codeblock == True:
                     pythoncode += line
 
-        if pythoncode == "":
-            print("WARNING: No literate Python found")
-
         return pythoncode
 
     def builddict(codeobj):
+        allowed_builtins = {
+            "__builtins__": {
+                "commonfeatures": commonfeatures,
+                "levelinvoke": levelinvoke,
+                "abilityscoreimprovement": abilityscoreimprovement,
+                "spelllinkify": spelllinkify,
+                "choose": choose,
+                "scriptedinput": scriptedinput,
+                "inputhistory": inputhistory,
+                "loadmodule": loadmodule,
+                "replace": replace,
+                "min": min,
+                "len": len,
+                "print": print,
+            }
+        }
+
         moduledict = {}; count = 0
         for name in codeobj.co_names:
             element = codeobj.co_consts[count]
@@ -243,25 +247,33 @@ def loadmodule(filename, modulename):
         return moduledict
 
     literatecode = parsemd(filename)
-    codeobj = compile(literatecode, modulename, 'exec')
-    return builddict(codeobj)
+    if len(literatecode) > 0:
+        if verbose: print(literatecode)
+        codeobj = compile(literatecode, modulename, 'exec')
+        return builddict(codeobj)
+    else:
+        return {}
 
 # We expect race modules to contain the following top-level symbols:
 # Mandatory:
 #   name : string
 #   level0(npc) : function
-#   subraces : map<string, modules>
+#   subraces : map<string, dict(name and level functions)>
 # Optional:
 #   levelX(npc) : function
 races = {}
 def loadraces():
     def loadrace(filename):
         if os.path.splitext(filename)[1] == '.md':
-            print(f"Loading {str(filename)}... ", end = '')
-            modulename = os.path.splitext(filename)[0]
+            print(f"Parsing {str(filename)}... ", end = '')
+            basename = os.path.basename(filename)
+            modulename = os.path.splitext(basename)[0]
             module = loadmodule(filename, modulename)
-            races[modulename] = module
-            print(f" loaded " + modulename + ": " + races[modulename]['name'])
+            if len(module.keys()) > 0:
+                races[modulename] = module
+                print(f" loaded. " + modulename + ": " + str(races[modulename].keys()))
+            else:
+                print("No code found")
 
     discover(REPOROOT + 'Races', loadrace)
 
@@ -277,23 +289,23 @@ def loadclasses():
     for c in classes:
          print("Loading " + str(c))
 
-def loadbackgrounds():
-    backgrounds = os.listdir(REPOROOT + 'Cultures/Backgrounds')
-    for c in backgrounds:
-         print("Loading " + str(c))
+# Backgrounds....
+#def loadbackgrounds():
+#    backgrounds = os.listdir(REPOROOT + 'Cultures/Backgrounds')
+#    for c in backgrounds:
+#         print("Loading " + str(c))
 
+# Feats....
 
 
 class NPC:
     def __init__(self):
         self.size = ''
 
-        # Race is the module for the race selected
+        # Race is the module ('name', 'type', ...) for the race selected
         self.race = None
-        # Subrace is a module for the subrace selected
+        # Subrace is a dict ('name', 'levelX', ...) for the subrace selected
         self.subrace = None
-        # Type is "humanoid", "aberrant", etc
-        self.type = ''
         # Classes is a list of the modules for each class taken
         # e.g, '[<fighter>,<fighter>,<monk>,<monk>,<fighter>] for a Fighter 3/Monk 2 NPC
         self.classes = []
@@ -313,7 +325,7 @@ class NPC:
         self.CHA = 0
 
         self.speed = {}
-        self.senses = ['passive Perception']
+        self.senses = { 'passive Perception': 0 }
         self.savingthrows = []
         self.conditionimmunities = []
         self.damageresistances = []
@@ -323,7 +335,7 @@ class NPC:
         self.skills = []
         # Languages are read/write/speak
         self.languages = []
-        self.features = []
+        self.traits = []
 
         self.cantripsknown = []
         self.spellsknown = []
@@ -361,21 +373,26 @@ class NPC:
                 dicelist.append(str(self.hitdice[key]) + str(key))
         return " + ".join(dicelist)
 
-    def replace(text, list, newtext):
-        for it in list:
-            if it[0:len(text)] == text:
-                list.remove(it)
-        list.append(text + " " + newtext)
-
-
+    def emitMD(self):
+        pass
 
 def main():
+    global verbose
+    global quiet
+
     parser = argparse.ArgumentParser(
         prog='NPCBuilder',
         description='A tool for generating 5th-ed NPCs'
 	)
+    parser.add_argument('--verbose', choices=['quiet', 'verbose'])
     parser.add_argument('--version', action='version', version='%(prog)s 0.0')
-    parser.parse_args()
+    args = parser.parse_args()
+
+    if args.verbose != None:
+        if args.verbose == 'verbose':
+            verbose = True
+        elif args.verbose == 'quiet':
+            quiet = True
 
     races = loadraces()
     #classes = loadclasses()
