@@ -47,7 +47,9 @@ def level0(npc):
 
 Dwarves have a number of genetically-differentiated offshoots (subraces):
 
-
+* [Hill](#hill-dwarf)
+* [Mountain](#mountain-dwarf)
+* [Dark](#dark-dwarf)
 
 ---
 
@@ -59,14 +61,40 @@ The hill and mountain dwarves are essentially small genetic differences within t
 * **Dwarven Toughness**. Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
 
 ```
-def hill_level0(npc):
-    npc.WIS += 1
-    npc.features.append("***Dwarven Toughness.*** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.")
+def hill():
+    print('Hello from hill()')
+    def level0(npc):
+        npc.WIS += 1
 
-subraces['hill'] = {
-    'name' : 'Hill',
-    'level0' : hill_level0
-}
+    def dwarventoughness(npc):
+        npc.hitpoints += 1
+
+    return {
+        'name' : 'Hill',
+        'level0' : level0,
+        'level1' : dwarventoughness,
+        'level2' : dwarventoughness,
+        'level3' : dwarventoughness,
+        'level4' : dwarventoughness,
+        'level5' : dwarventoughness,
+        'level6' : dwarventoughness,
+        'level7' : dwarventoughness,
+        'level8' : dwarventoughness,
+        'level9' : dwarventoughness,
+        'level10' : dwarventoughness,
+        'level11' : dwarventoughness,
+        'level12' : dwarventoughness,
+        'level13' : dwarventoughness,
+        'level14' : dwarventoughness,
+        'level15' : dwarventoughness,
+        'level16' : dwarventoughness,
+        'level17' : dwarventoughness,
+        'level18' : dwarventoughness,
+        'level19' : dwarventoughness,
+        'level20' : dwarventoughness
+    }
+
+subraces['hill'] = hill()
 ```
 
 ---
@@ -79,15 +107,18 @@ The hill and mountain dwarves are essentially small genetic differences within t
 * **Dwarven Armor Training**. You have proficiency with light and medium armor.
 
 ```
-def mountain_level0(npc): 
-    npc.STR += 2
-    npc.proficiencies.append("Light armor")
-    npc.proficiencies.append("Medium armor")
+def mountain():
+    def level0(npc): 
+        npc.STR += 2
+        npc.proficiencies.append("Light armor")
+        npc.proficiencies.append("Medium armor")
 
-subraces['mountain'] = {
-    'name' : 'Mountain',
-    'level0' : mtnlevel0
-}
+    return {
+        'name': 'Mountain',
+        'level0': level0
+    }
+
+subraces['mountain'] = mountain()
 ```
 
 ---
@@ -110,3 +141,19 @@ Most of the *duergar* encountered tend to be bitter and resentful, angry at the 
 * **Duergar Magic**. When you reach 3rd level, you can cast the [enlarge/reduce](../../Magic/Spells/enlarge-reduce.md) spell on yourself once with this trait, using only the spell's enlarge option. When you reach 5th level, you can cast the [invisibility](../../Magic/Spells/invisibility.md) spell on yourself once with this trait. You don't need material components for either spell, and you can't cast them while you're in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells.
 
 * **Sunlight Sensitivity**. You have disadvantage on Attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+
+```
+def duergar():
+    def level0(npc): 
+        npc.STR += 1
+        npc.senses['darkvision'] = '120 ft'
+        npc.proficiencies.append("Light armor")
+        npc.proficiencies.append("Medium armor")
+
+    return {
+        'name': 'Duergar',
+        'level0': level0
+    }
+
+subraces['duergar'] = duergar()
+```

@@ -1,5 +1,10 @@
 # [Dragonborn](../Creatures/Dragonborn.md)
 
+```
+name = 'Dragonborn'
+type = 'humanoid, draconic'
+```
+
 * **Ability Score increase**. Your Strength score increases by 2, and your Charisma score increases by 1.
 
 * **Age**. Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.
@@ -11,6 +16,15 @@
 * **Speed**. Your base walking speed is 30 feet.
 
 * **Languages**. You can read, speak, and write Common and Draconic.
+
+```
+def level0(npc):
+    npc.STR += 2
+    npc.CHA += 1
+    npc.speed['walking'] = 30
+    npc.languages.append('Common')
+    npc.languages.append('Draconic')
+```
 
 ## Draconic Ancestry
 You are distantly related to a particular kind of dragon. Choose a type of dragon; this determines the damage and area of your breath weapon, and the type of resistance you gain.
@@ -36,6 +50,8 @@ You can use your action to exhale destructive energy. It deals damage in an area
 
 ### Damage Resistance
 You have resistance to the damage type associated with your ancestry.
+
+---
 
 # Platinum Dragonborn
 The platinum dragonborn are different from the other dragonborn in one way: the are not born. They are re-born. They enter life as any other humanoid: an elf, a halfling, a human, even a tiefling, as a few examples. A humanoid who pledges its life to the service of the [Order of the Platinum Dragon](../Organizations/MilitantOrders/DraconicOrder/Platinum.md), it is said, can undergo the rituals required to become a true emissary of the paragon of metallic dragons. That said, however, the rite is rumored to be extensive and exhausting, both physically, mentally, and emotionally, and only those who have truly dedicated themselves to supporting the ideals of the Draconic Order will have a chance of acceptance. Past actions do not seem to matter; the Platinum Order has several examples of evil creatures willingly turning their back on their past lives and undergoing the ritual as reptenence and servitude to their new ideals. Any willing creature who passes such a test becomes a son or daughter of the Platinum, giving up all former racial identity and becoming a platinum dragonborn; in fact, the Platinum often will not discuss the history of the platinum dragonborn, preferring in most cases to simply assume that the platinum dragonborn's life began on the day of the ritual.
