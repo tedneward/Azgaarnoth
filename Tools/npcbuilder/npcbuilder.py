@@ -324,30 +324,39 @@ class NPC:
         self.WIS = 0
         self.CHA = 0
 
-        self.speed = {}
+        self.speed = { 'walking': 0 }
         self.senses = { 'passive Perception': 0 }
         self.savingthrows = []
-        self.conditionimmunities = []
+        self.damagevulnerabilities = []
         self.damageresistances = []
         self.damageimmunities = []
+        self.conditionimmunities = []
+
         # Proficiencies are for weapons and armor only; everything else is a skill
         self.proficiencies = []
         self.skills = []
+
         # Languages are read/write/speak
         self.languages = []
-        self.traits = []
 
+        # Traits are anything that isn't an action, bonus action, reaction, ...
+        self.traits = []
+        self.actions = []
+        self.bonusactions = []
+        self.reactions = []
+
+        # Spellcasting data; this one is going to be a touch tricky to sort out
         self.cantripsknown = []
         self.spellsknown = []
         self.spellcastingattribute = ''
         self.maxspellsknown = 0
         self.spellslots = {}
 
-        self.actions = []
-        self.bonusactions = []
-        self.reactions = []
-
         self.description = []
+
+        # Normalizers are fns run when the NPC is frozen;
+        # usually these are level-dependent text/traits/features/etc
+        self.normalizers = []
 
     def abilitybonus(num):
         return (num / 2) - 5
@@ -359,11 +368,15 @@ class NPC:
         """Generate the hit points gained at the current level, using the die specified."""
         self.hitdice[die] += 1
         if len(self.classes) == 1:
+            # Max hit points at first level
             self.hitpoints += int(die[1:]) # Strip off the 'd'
         else:
+            # We roll randomly (sort of)
             top = int(die[1:])
             self.hitpoints += random.randrange(4, top)
+        # Keep a running total for the CON bonus, since it cah change over time/levels
         self.hitconbonus += self.abilitybonus(self.CON)
+        # Likewise, keep a running total for hit points
         self.hitpoints += self.abilitybonus(self.CON)
 
     def hitdicedesc(self):
@@ -372,6 +385,9 @@ class NPC:
             if self.hitdice[key] > 0:
                 dicelist.append(str(self.hitdice[key]) + str(key))
         return " + ".join(dicelist)
+    
+    def freeze(self):
+        """The NPC is finished building, so normalize any traits/features to this level."""
 
     def emitMD(self):
         pass

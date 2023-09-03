@@ -4,6 +4,7 @@ See [*Dwarves*](../Creatures/Dwarves.md) for more details.
 ```
 name = 'Dwarf'
 type = 'humanoid'
+subraces = {}
 ```
 
 * **Ability Score Increase**. Your Constitution score increases by 2.
@@ -46,9 +47,7 @@ def level0(npc):
 
 Dwarves have a number of genetically-differentiated offshoots (subraces):
 
-```
-subraces = {}
-```
+
 
 ---
 
