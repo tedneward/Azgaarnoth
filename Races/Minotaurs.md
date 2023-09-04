@@ -2,6 +2,11 @@
 
 Minotaurs found in [Yithi](../Nations/Yithi.md) and (less often) [Zhi](../Nations/Zhi.md) are quite strikingly different from their Horde-homed brethren: frequently solitary, thoughtful, and quite committed to rule of law and order.
 
+```
+name = 'Minotaur'
+type = 'humanoid'
+```
+
 ## Traits
 * **Ability Score Increase**. Your Strength score increases by 2, and your Constitution score increases by 1.
 
@@ -28,13 +33,10 @@ Minotaurs found in [Yithi](../Nations/Yithi.md) and (less often) [Zhi](../Nation
 * **Hybrid Nature**. You have two creature types: humanoid and monstrosity. You can be affected by a game effect if it works on either of your creature types.
 
 ```
-name = 'Minotaur'
-type = 'humanoid'
 def level0(npc):
     npc.size = 'Medium'
     npc.speed['walking'] = 30
 
-    # Ability Score Increase
     npc.STR += 2
     npc.CON += 1
 

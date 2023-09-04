@@ -1,5 +1,10 @@
 # Hobgoblins
 
+```
+name = 'Hobgoblin'
+type = 'humanoid'
+```
+
 * **Ability Score Increase**. Your Constitution score increases by 2, and your Intelligence score increases by 1.
 
 * **Age**. Hobgoblins mature at the same rate as humans and have lifespans similar in length to theirs.
@@ -19,9 +24,6 @@
 * **Languages**. You can speak, read, and write Common and Goblin.
 
 ```
-name = 'Hobgoblin'
-type = 'humanoid'
-
 def level0(npc):
     npc.size = 'Medium'
     npc.speed['walking'] = 30
@@ -41,5 +43,5 @@ def level0(npc):
     npc.languages.append('Common')
     npc.languages.append('Goblin')
 
-    npc.description.append('***Hobgoblin.***')
+    npc.description.append('***Race: Hobgoblin.***')
 ```

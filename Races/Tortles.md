@@ -21,3 +21,9 @@
 * **Survival Instinct**. You gain proficiency in the Survival skill. Tortles have finely honed survival instincts.
 
 * **Languages**. You can speak, read, and write Common and Aquan.
+
+```
+name = 'Tortle'
+def level0(npc):
+    pass
+```

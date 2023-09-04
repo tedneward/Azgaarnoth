@@ -5,6 +5,11 @@ Within Azgaarnoth, gith are thought to be [elves](Elves.md) captured by the illi
 
 For whatever reason, both [githyanki](../Creatures/Githyanki.md) and [githzerai](../Creatures/Githzerai.md) trod carefully around elves, preferring to be cautious around one another. It is rumored that the [Dread Emperor](../People/DreadEmperor.md) has sought an alliance with the githyanki for centuries; rumors also contend that the [Draconic Order](../Organizations/MilitantOrders/DraconicOrder/index.md) has made a deal with the githzerai: a secret safe monastery within Azgaarnoth (to train both young githzerai as well as promising mortal monks), in exchange for information and/or introductions to "psionic dragons". The reasons for the Order's interest in these dragons, if true, are fairly obvious.
 
+```
+name = 'Githyanki'
+type = 'humanoid'
+```
+
 * **Ability Score Increase**. Your Intelligence score increases by 1 and your Strength score increases by 2.
 
 * **Age**. Gith reach adulthood in their late teens and live for about a century.
@@ -28,9 +33,6 @@ For whatever reason, both [githyanki](../Creatures/Githyanki.md) and [githzerai]
   Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.
 
 ```
-name = 'Githyanki'
-type = 'humanoid'
-
 def level0(npc):
     npc.STR += 2
     npc.INT += 1

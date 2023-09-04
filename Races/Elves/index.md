@@ -1,7 +1,10 @@
 # [Elves](../Creatures/Elves.md)
 Elves may be [dragonmarked](Dragonmarked.md) with the Mark of Shadow; see that entry for details.
 
-The following traits are true of all elves.
+```
+name = 'Elf'
+type = 'humanoid'
+```
 
 * **Ability Score Increase**. Your Dexterity score increases by 2.
 
@@ -24,8 +27,6 @@ The following traits are true of all elves.
 * **Languages**. You can speak, read, and write Common and Elven.
 
 ```
-name = 'Elf'
-type = 'humanoid'
 def level0(npc):
     npc.description.append("***Race: Elf.*** Elves are almost as diverse as humans in their occupations, entertainments, and while most elves have a strong familial tie between them, numerous elves have wandered away from home to make their mark within the world, then to return and take up familial responsibilities. Elves revere their familial ancestors, and will often have a shrine to a favored ancestor, but elves do not see their familial ancestors as gods, and many elves are quite comfortable serving in a religious order even as they put offerings to their revered ancestors out on important holidays.")
 

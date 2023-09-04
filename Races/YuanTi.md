@@ -19,3 +19,12 @@
 * **Poison Immunity**. You are immune to poison damage and the poisoned condition.
 
 * **Languages**. You can speak, read, and write Common, Abyssal, and Draconic.
+
+```
+name = 'Yuan-Ti'
+def level0(npc):
+    pass
+
+def level3(npc):
+    pass
+```

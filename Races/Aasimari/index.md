@@ -3,7 +3,7 @@
 
 ```
 name = 'Aasimar'
-type = 'humanoid'
+type = 'humanoid/celestial'
 ```
 
 * **Ability Score Increase**. Your Charisma score increases by 2.

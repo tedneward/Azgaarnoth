@@ -3,6 +3,11 @@ Within Azgaarnoth, gith are thought to be [elves](Elves/index.md) captured by th
 
 For whatever reason, both [githyanki](../Creatures/Githyanki.md) and [githzerai](../Creatures/Githzerai.md) trod carefully around elves, preferring to be cautious around one another. It is rumored that the [Dread Emperor](../People/DreadEmperor.md) has sought an alliance with the githyanki for centuries; rumors also contend that the [Draconic Order](../Organizations/MilitantOrders/DraconicOrder/index.md) has made a deal with the githzerai: a secret safe monastery within Azgaarnoth (to train both young githzerai as well as promising mortal monks), in exchange for information and/or introductions to "psionic dragons". The reasons for the Order's interest in these dragons, if true, are fairly obvious.
 
+```
+name = 'Githzerai'
+type = 'humanoid'
+```
+
 ## Githzerai
 * **Ability Score Increase**. Your Intelligence score increases by 1 and your Wisdom score increases by 2.
 
@@ -25,9 +30,6 @@ For whatever reason, both [githyanki](../Creatures/Githyanki.md) and [githzerai]
   Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.
 
 ```
-name = 'Githzerai'
-type = 'humanoid'
-
 def level0(npc):
     npc.WIS += 2
     npc.INT += 1

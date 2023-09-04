@@ -1,5 +1,10 @@
 # [Centaurs](../Creatures/Centaur.md)
 
+```
+name = 'Centaur'
+type = 'monstrosity'
+```
+
 * **Ability Score Increase**. Your Strength score increases by 2, and your Wisdom score increases by 1.
 
 * **Age**. Centaurs mature and age at about the same rate as humans.
@@ -23,8 +28,6 @@
 * **Languages**. You can speak, read, and write Common and Sylvan.
 
 ```
-name = 'Centaur'
-type = 'monstrosity'
 def level0(npc):
     npc.size = 'Large'
     npc.speed['walking'] = 50

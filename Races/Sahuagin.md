@@ -17,7 +17,8 @@ A fish-like monstrous humanoid species that lives in oceans, seas, underground l
 **Bite.** Your piranha-like mouth is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you can deal piercing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
 
 **Limited Amphibiousness.** You can breathe air and water, but need to be submerged at least once every 8 hours to avoid dehydration, suffering one level of exhaustion.
-Shark Telepathy. You can communicate simple ideas with sharks. They may understand you, but you have no way of understanding them.
+
+**Shark Telepathy.** You can communicate simple ideas with sharks. They may understand you, but you have no way of understanding them.
 
 **Blood in the Water.** Your specialized sense of smell can detect blood. You are aware of creatures within 20 feet that have hit points below their maximum, and can bleed. When in water, this range extends to 60 feet.
 
@@ -26,3 +27,9 @@ Shark Telepathy. You can communicate simple ideas with sharks. They may understa
 **Languages.** You can speak, read, and write Common and Aquan
 
 There are no known sub-races of sahuagin (yet).
+
+```
+name = 'Sahuagin'
+def level0(npc):
+    pass
+```

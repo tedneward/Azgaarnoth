@@ -510,6 +510,7 @@ class NPC:
         result += f">- **Damage Immunities** {','.join(self.damageimmunities)}\n"
         result += f">- **Condition Immunities** {','.join(self.conditionimmunities)}\n"
         result += f">- **Skills** {getskills()}\n"
+        result += f">- **Proficiencies** {','.join(self.proficiencies)}\n"
         result += f">- **Senses** {getsenses()}\n"
         result += f">- **Languages** {','.join(self.languages)}\n"
         result += linesep

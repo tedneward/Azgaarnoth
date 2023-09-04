@@ -20,6 +20,12 @@
 
 * **Languages.** You can speak, read, and write Common and one other language of your choice.
 
+```
+name = 'Tabaxi'
+def level0(npc):
+    pass
+```
+
 ## Tabaxi Personality
 A tabaxi might have motivations and quirks much different from a dwarf or an elf with a similar background. You can use the following tables to customize your character in addition to the trait, ideal, bond, and flaw from your background.
 

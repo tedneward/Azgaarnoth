@@ -3,6 +3,11 @@
 
 Half-Elves....
 
+```
+name = 'Half-Elf'
+type = 'humanoid'
+```
+
 * **Ability Score Increase**. Your Charisma score increases by 2, and two other ability scores of your choice each increase by 1.
 
 * **Age**. Half-elves age at much the same rate as humans, reaching adulthood at the age of 20. They live much longer than humans, however, often exceeding 180 years.
@@ -37,8 +42,6 @@ Half-Elves....
   * [Mark of Storm](Storm.md)
 
 ```
-name = 'Half-Elf'
-type = 'humanoid'
 def level0(npc):
     npc.CHA += 2
     npc.abilityscoreimprovement()

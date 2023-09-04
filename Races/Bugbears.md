@@ -1,5 +1,10 @@
 # [Bugbears](../Creatures/Bugbears.md)
 
+```
+name = 'Bugbear'
+type = 'humanoid'
+```
+
 * **Ability Score Increase**. Your Strength score increases by 2, and your Dexterity score increases by 1.
 
 * **Age**. Bugbears reach adulthood at age 16 and live up to 80 years.
@@ -23,9 +28,6 @@
 * **Languages**. You can speak, read, and write Common and Goblin.
 
 ```
-name = 'Bugbear'
-type = 'humanoid'
-
 def level0(npc):
     npc.size = 'Medium'
     npc.speed['walking'] = 30
