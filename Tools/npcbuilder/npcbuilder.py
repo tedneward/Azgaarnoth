@@ -276,24 +276,24 @@ def loadraces():
     for f in entries:
         entryname = racesroot + "/" + f
 
+        # Load subraces if they are present
         if os.path.isdir(entryname):
             dirpath = entryname
-            log(f"Parsing directory {dirpath}...")
             dirname = os.path.basename(dirpath)
-            log(dirname)
             basemodule = loadmodule(dirpath + "/index.md", dirname)
-            log(basemodule)
-            subraces = {}
-            for sf in os.listdir(dirpath):
-                if ismdfile(sf):
-                    log(f"Parsing subracefile {sf}")
-                    subracename = os.path.basename(sf)
-                    subracemod = loadmodule(dirpath + '/' + sf, subracename)
-                    subraces[subracename] = subracemod
-            setattr(basemodule, "subraces", subraces)
-            print(basemodule)
-            races[basemodule.name] = basemodule
+            if basemodule != None:
+                subraces = {}
+                for sf in os.listdir(dirpath):
+                    if ismdfile(dirpath + "/" + sf) and sf != "index.md":
+                        subracename = os.path.splitext(sf)[0]
+                        subracemod = loadmodule(dirpath + '/' + sf, basemodule.name + "-" + subracename)
+                        subraces[subracename] = subracemod
+                setattr(basemodule, "subraces", subraces)
+                print(basemodule)
+            if basemodule != None:
+                races[basemodule.name] = basemodule
 
+        # Load just the base race since there's no subraces
         elif ismdfile(entryname):
             log(f"Parsing {entryname}...")
             module = loadmodule(entryname)
@@ -342,8 +342,8 @@ class NPC:
         self.armorclass = { }
 
         self.hitpoints = 0
-        self.hitconbonus = 0
         self.hitdice = { 'd6':0, 'd8':0, 'd10':0, 'd12':0, 'd20':0 }
+        self.hpconbonus = 0
 
         self.STR = 0
         self.DEX = 0
@@ -390,11 +390,18 @@ class NPC:
         """Defer fn to be invoked when the NPC is normalized/frozen"""
         self.normalizers.append(fn)
 
-    def abilitybonus(num):
-        return (num / 2) - 5
+    def STRbonus(self): return (self.STR / 2) - 5
+    def DEXbonus(self): return (self.DEX / 2) - 5
+    def CONbonus(self): return (self.CON / 2) - 5
+    def INTbonus(self): return (self.INT / 2) - 5
+    def WISbonus(self): return (self.WIS / 2) - 5
+    def CHAbonus(self): return (self.CHA / 2) - 5
 
     def proficiencybonus(self):
-        return (len(self.classes) // 4) + 2
+        return (self.levels() // 4) + 2
+
+    def levels(self):
+        return len(self.classes)
 
     def hits(self, die):
         """Generate the hit points gained at the current level, using the die specified."""
@@ -406,10 +413,10 @@ class NPC:
             # We roll randomly (sort of)
             top = int(die[1:])
             self.hitpoints += random.randrange(4, top)
-        # Keep a running total for the CON bonus, since it cah change over time/levels
-        self.hitconbonus += self.abilitybonus(self.CON)
+        # Keep a running total for the CON bonus, since it can change over time/levels
+        self.hitconbonus += self.CONbonus()
         # Likewise, keep a running total for hit points
-        self.hitpoints += self.abilitybonus(self.CON)
+        self.hitpoints += self.CONbonus()
 
     def hitdicedesc(self):
         dicelist = []
@@ -420,6 +427,8 @@ class NPC:
     
     def freeze(self):
         """The NPC is finished building, so normalize any traits/features to this level."""
+        for dfn in self.normalizers:
+            dfn(self)
 
     def emitMD(self):
         """
@@ -469,8 +478,8 @@ class NPC:
                 else:
                     ac += acnum
                     result.append(f'{actext} (+{acnum})')
-            ac += self.abilitybonus(self.DEX)
-            result.append(f'DEX ({self.abilitybonus(self.DEX)})')
+            ac += self.DEXbonus()
+            result.append(f'DEX (+{self.DEXbonus()})')
             return str(ac) + ' (' + ",".join(result) + ')'
 
         result  =  '# Name\n'
@@ -524,8 +533,10 @@ def generatenpc():
     def selectrace():
         (name, mod) = choose("Choose a race: ", races)
         npc.race = mod
-        if 'subraces' in npc.race:
-            print(npc.race['subraces'])
+        if getattr(npc.race, 'subraces', None) != None:
+            (_, subracemod) = choose("Subrace: ", npc.race.subraces)
+            npc.subrace = subracemod
+            print(npc.subrace.name)
 
     # Do we want to start with race, class, or ability scores?
     startoptions = ['Ability Scores', 'Race']
@@ -540,6 +551,7 @@ def generatenpc():
     # That's level 0; now do level 1+
     # Select a class, append it to npc.classes, invoke the class level functions, repeat
 
+    npc.freeze()
     return npc
 
 def main():

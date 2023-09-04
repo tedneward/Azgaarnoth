@@ -1,4 +1,5 @@
-# [Aasimari](../Creatures/Aasimari.md)
+# Aasimari
+*see [Aasimari](../Creatures/Aasimari.md) for more details*
 
 ```
 name = 'Aasimar'
