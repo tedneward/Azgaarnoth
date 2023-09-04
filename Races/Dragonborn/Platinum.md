@@ -1,6 +1,10 @@
 # Platinum Dragonborn
 The platinum dragonborn are different from the other dragonborn in one way: the are not born. They are re-born. They enter life as any other humanoid: an elf, a halfling, a human, even a tiefling, as a few examples. A humanoid who pledges its life to the service of the [Order of the Platinum Dragon](../Organizations/MilitantOrders/DraconicOrder/Platinum.md), it is said, can undergo the rituals required to become a true emissary of the paragon of metallic dragons. That said, however, the rite is rumored to be extensive and exhausting, both physically, mentally, and emotionally, and only those who have truly dedicated themselves to supporting the ideals of the Draconic Order will have a chance of acceptance. Past actions do not seem to matter; the Platinum Order has several examples of evil creatures willingly turning their back on their past lives and undergoing the ritual as reptenence and servitude to their new ideals. Any willing creature who passes such a test becomes a son or daughter of the Platinum, giving up all former racial identity and becoming a platinum dragonborn; in fact, the Platinum often will not discuss the history of the platinum dragonborn, preferring in most cases to simply assume that the platinum dragonborn's life began on the day of the ritual.
 
+```
+name = 'Platinum'
+```
+
 > #### Game Notes
 > Because of the nature of the transformation, a player can start a new character as a platinum dragonborn, or change an existing character's race to Platinum Dragonborn, assuming the DM's approval. Extensive backstory will be required for new characters, and it should include several references to the Draconic Order and/or the Cult of the Wyrm.
 
@@ -30,6 +34,15 @@ Every head of the [Platinum Order](../Organizations/MilitantOrders/DraconicOrder
 
 * **Languages**. You can speak. read, and write Draconic, if you did not know it previously, in addition to all languages you knew before the ritual.
 
+```
+def level0(npc):
+    npc.STR += 1
+    npc.CHA += 1
+    npc.damageresistances.append(choose('Choose a damage resistance: ', ['acid', 'cold', 'lightning', 'fire']))
+    npc.defer(lambda npc: npc.actions.append(f"***Breath Weapon ({npc.CONbonus()}/Reharges on a long rest).*** You exhale a bright, shining line that coruscates with every metallic color in a line 5' x 30'. All creatures in the area must make a CON saving throw, DC {8 + npc.CONbonus() + npc.proficiencybonus()}. A creature takes {'2d6' if npc.levels() < 6 else '3d6' if npc.levels() < 11 else '4d6' if npc.levels() < 16 else '5d6'} radiant damage on a failed save, or half on a successful one."))
+
+```
+
 * **Subrace (Aspect)**. Platinum dragonborn, as part of the ritual, either choose (or are chosen) to take on one of the three aspects that set the platinum dragons apart from their kind, ostensibly as a way to to set platinum dragonborn apart from other dragonborn. The three aspects of platinum dragonborn are Heart, Mind, or Might. This choice cannot be changed.
 
   * ***Heart*** A dragonborn who chooses Heart as her aspect gains an unbreakable will and a more advanced breath weapon. She will never falter, no matter the odds.
@@ -51,3 +64,19 @@ Every head of the [Platinum Order](../Organizations/MilitantOrders/DraconicOrder
     * **Draconic Strength**. You count as one size larger when calculating carry weight and the amount of weight you can manipulate.
 
     * **Draconic Fortitude**. When an attack hits you and the damage dealt would reduce you to 0 hit points, it reduces you to 1 hit point instead. You can't use this ability again until you finish a long rest.
+
+```
+    aspect = choose('Choose an aspect:', ['Heart', 'Mind', 'Might'])
+    if aspect == 'Heart':
+        npc.WIS += 1
+        npc.traits.append("***Draconic Bravery.*** You have advantage on saving throws against being frightened.")
+        npc.actions.append(f"***Breath Weapon: Misty Breath ({npc.CONbonus()}/Recharges on a long rest).*** When you use your breath weapon, you can choose to exhale a cloud of mist instead of destructive energy. The mist has a 15-foot radius centered around you and functions as if cast with the {spelllinkify('fog cloud')} spell.")
+    elif aspect == 'Mind':
+        npc.INT += 1
+        npc.skills.append('Perception')
+        npc.senses['darkvision'] = 30
+    elif aspect == 'Might':
+        npc.CON += 1
+        npc.traits.append("***Draconic Strength.*** You count as one size larger when calculating carry weight and the amount of weight you can manipulate.")
+        npc.traits.append("***Draconic Fortitude (Recharges on long rest).*** When an attack hits you and the damage dealt would reduce you to 0 hit points, it reduces you to 1 hit point instead.")
+```

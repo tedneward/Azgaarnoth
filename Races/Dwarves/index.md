@@ -31,17 +31,17 @@ type = 'humanoid'
 ```
 def level0(npc):
     npc.CON += 2
-    npc.size = Medium
+    npc.size = 'Medium'
     npc.speed['walking'] = 25
-    npc.senses['darkvision'] = "60ft"
-    npc.resistances.append('poison')
-    npc.features.append("***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison.")
+    npc.senses['darkvision'] = 60
+    npc.damageresistances.append('poison')
+    npc.traits.append("***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison.")
     npc.proficiencies.append("Battleaxe")
     npc.proficiencies.append("Hand Axe")
     npc.proficiencies.append("Light Hammer")
     npc.proficiencies.append("Warhammer")
     npc.proficiencies.append(choose("Choose a tool proficiency:", ["Smith's Tools", "Brewer's Supplies", "Mason's Tools"]))
-    npc.features.append("***Stonecunning.*** Whenever the dwarf makes an Intelligence (History) check related to the origin of stonework, it is considered proficient in the History skill and add doubles its proficiency bonus to the check.")
+    npc.traits.append("***Stonecunning.*** Whenever the dwarf makes an Intelligence (History) check related to the origin of stonework, it is considered proficient in the History skill and add doubles its proficiency bonus to the check.")
 ```
 
 Dwarves have a number of genetically-differentiated offshoots (subraces):

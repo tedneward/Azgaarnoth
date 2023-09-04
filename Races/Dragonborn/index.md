@@ -3,7 +3,7 @@
 
 ```
 name = 'Dragonborn'
-type = 'humanoid, draconic'
+type = 'humanoid'
 ```
 
 * **Ability Score increase**. Your Strength score increases by 2, and your Charisma score increases by 1.
@@ -22,6 +22,7 @@ type = 'humanoid, draconic'
 def level0(npc):
     npc.STR += 2
     npc.CHA += 1
+    npc.size = 'Medium'
     npc.speed['walking'] = 30
     npc.languages.append('Common')
     npc.languages.append('Draconic')
@@ -42,6 +43,8 @@ Dragonborn of chromatic colors are often chaotic, prone to violence, and sometim
 
 Dragonborn of gemstone colors are often quiet, contemplative, and aloof.
 
+
+
 Dragonborn of metallic colors are often law-abiding, slow to anger, and sometimes so noble you want to punch them in their perfect teeth.
 
 * [Bronze](Bronze.md)
@@ -50,25 +53,3 @@ Dragonborn of metallic colors are often law-abiding, slow to anger, and sometime
 * [Gold](Gold.md)
 * [Silver](Silver.md)
 * [Steel](Steel.md)
-
-Dragon Color | Damage Type | Breath Weapon
------------- | ----------- | -------------
-Black	| Acid | 5' by 30' line (DEX save)
-Blue	| Lightning | 5' by 30' line (DEX save)
-Brown | Sand (force) | 15' cone (DEX save)
-Gray | Venom (poison) | 5' by 30' line (DEX save)
-Green	| Poison gas (poison) | 15' cone (CON save)
-Red	| Fire | 15' cone (DEX save)
-White	| Cold |	15' cone (CON save)
-Bronze |	Lightning | 5' by 30' line (DEX save)
-Brass	| Fire | 5' by 30' line (DEX save)
-Copper |	Acid | 5' by 30' line (DEX save)
-Gold |	Fire | 15' cone (DEX save)
-Silver |	Cold | 15' cone (CON save)
-Steel | Lightning | 5' by 30' line (DEX save)
-
-### Breath Weapon
-You can use your action to exhale destructive energy. It deals damage in an area according to your ancestry. When you use your breath weapon, all creatures in the area must make a saving throw, the type of which is determined by your ancestry. The DC of this saving throw is 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increase to 3d6 at 6th level, 4d6 at 11th, and 5d6 at 16th level. You may use your breath weapon a number of times equal to your Constitution modifier. You regain expended uses on a long rest.
-
-### Damage Resistance
-You have resistance to the damage type associated with your ancestry.

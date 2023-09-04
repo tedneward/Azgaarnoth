@@ -326,7 +326,7 @@ def loadclasses():
 
 class NPC:
     def __init__(self):
-        self.size = ''
+        self.size = 'Medium'
 
         # Race is a dict ('name', 'type', ...) for the race selected
         self.race = None
@@ -390,12 +390,22 @@ class NPC:
         """Defer fn to be invoked when the NPC is normalized/frozen"""
         self.normalizers.append(fn)
 
-    def STRbonus(self): return (self.STR / 2) - 5
-    def DEXbonus(self): return (self.DEX / 2) - 5
-    def CONbonus(self): return (self.CON / 2) - 5
-    def INTbonus(self): return (self.INT / 2) - 5
-    def WISbonus(self): return (self.WIS / 2) - 5
-    def CHAbonus(self): return (self.CHA / 2) - 5
+    def STRbonus(self): return (self.STR // 2) - 5
+    def DEXbonus(self): return (self.DEX // 2) - 5
+    def CONbonus(self): return (self.CON // 2) - 5
+    def INTbonus(self): return (self.INT // 2) - 5
+    def WISbonus(self): return (self.WIS // 2) - 5
+    def CHAbonus(self): return (self.CHA // 2) - 5
+
+    def abilityscoreimprovement(self):
+        abilities = [ 'STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA']
+        ability = choose("Choose an ability to improve: ", abilities)
+        if ability == 'STR': self.STR += 1
+        elif ability == 'DEX': self.DEX += 1
+        elif ability == 'CON': self.CON += 1
+        elif ability == 'INT': self.INT += 1
+        elif ability == 'WIS': self.WIS += 1
+        elif ability == 'CHA': self.CHA += 1
 
     def proficiencybonus(self):
         return (self.levels() // 4) + 2
@@ -442,7 +452,6 @@ class NPC:
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
->
 >___
 >- **Proficiency Bonus** +2
 >- **Saving Throws** 
@@ -463,9 +472,7 @@ class NPC:
 >***Shortbow.*** Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 4 (1d6+1) piercing damage.
 >
         """
-        def getsubracename():
-            if self.subrace != None: return self.subrace.name + ' '
-            else: return ''
+        def getsubracename(): return '' if self.subrace == None else self.subrace.name + ' '
 
         def getarmorclass():
             result = []
@@ -479,17 +486,89 @@ class NPC:
                     ac += acnum
                     result.append(f'{actext} (+{acnum})')
             ac += self.DEXbonus()
-            result.append(f'DEX (+{self.DEXbonus()})')
+            result.append(f'DEX ({self.DEXbonus():+g})')
             return str(ac) + ' (' + ",".join(result) + ')'
+        
+        def getspeed():
+            text = str(self.speed['walking']) + ' ft'
+            for (key, value) in self.speed.items():
+                if key == 'walking': continue
+                else:
+                    text += ", " + key + " " + str(value) + " ft"
+            return text
+                
+        def getskills():
+            skillmap = {
+                'Acrobatics' : 'DEX', 
+                'Animal Handling' : 'WIS', 
+                'Arcana' : 'INT',
+                'Athletics' : 'STR',
+                'Deception' : 'CHA', 
+                'History' : 'INT',
+                'Insight' : 'WIS',
+                'Intimidation' : 'CHA',
+                'Investigation' : 'INT',
+                'Medicine' : 'WIS',
+                'Nature' : 'INT',
+                'Perception' : 'WIS',
+                'Performance' : 'CHA', 
+                'Persuasion' : 'CHA',
+                'Religion' : 'INT', 
+                'Sleight of Hand' : 'DEX', 
+                'Stealth' : 'DEX', 
+                'Survival' : 'WIS'
+            }
+            def mapskill(skill):
+                return f"{skill} +{(getattr(self, str(skillmap[skill]) + 'bonus', None)())}"
+            return ", ".join(map(mapskill, self.skills))
+        
+        def getsenses():
+            perception = f"passive Perception {10 + self.WISbonus() + self.proficiencybonus() if 'Perception' in self.skills else 0}"
+            if len(self.senses) == 1:
+                return perception
+            else:
+                text = ""
+                for (key, value) in self.senses.items():
+                    if key == 'passive Perception': continue
+                    else:
+                        text += f"{key} {value} ft, "
+                return text + perception
 
-        result  =  '# Name\n'
-        result +=  '\n'
-        result +=  '\n\n'.join(self.description)
-        result +=  '>### Name\n'
+        
+        linesep = ">___\n"
+
+        result  =  ">### Name\n"
         result += f'*{self.size} {self.race.type} ({getsubracename()}{self.race.name}), any alignment*\n'
-        result +=  '>___\n'
-        result += f'>- **Armor Class** {getarmorclass()}'
-        pass
+        result += linesep
+        result += f">- **Armor Class** {getarmorclass()}\n"
+        result +=  ">- **Hit Points** \n"
+        result += f">- **Speed** {getspeed()}\n"
+        result += linesep
+        result +=  ">|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|\n"
+        result +=  ">|:---:|:---:|:---:|:---:|:---:|:---:|\n"
+        result += f">|{self.STR} ({self.STRbonus():+g})"
+        result += f"|{self.DEX} ({self.DEXbonus():+g})"
+        result += f"|{self.CON} ({self.CONbonus():+g})"
+        result += f"|{self.INT} ({self.INTbonus():+g})"
+        result += f"|{self.WIS} ({self.WISbonus():+g})"
+        result += f"|{self.CHA} ({self.CHAbonus():+g})|\n"
+        result += linesep
+        result += f">- **Proficiency Bonus** {self.proficiencybonus():+g}\n"
+        result += f">- **Saving Throws** {','.join(self.savingthrows)}\n"
+        result += f">- **Damage Vulnerabilities** {','.join(self.damagevulnerabilities)}\n"
+        result += f">- **Damage Resistances** {','.join(self.damageresistances)}\n"
+        result += f">- **Damage Immunities** {','.join(self.damageimmunities)}\n"
+        result += f">- **Condition Immunities** {','.join(self.conditionimmunities)}\n"
+        result += f">- **Skills** {getskills()}\n"
+        result += f">- **Senses** {getsenses()}\n"
+        result += f">- **Languages** {','.join(self.languages)}\n"
+        result += linesep
+        result += "\n".join([f">{trait}\n>" for trait in self.traits])
+        result += "\n"
+        result +=  ">#### Actions\n\n"
+        result += "\n".join([f">{action}\n>" for action in self.actions])
+
+        return result
 
 def generatenpc():
     npc = NPC()
@@ -505,26 +584,26 @@ def generatenpc():
                 else:
                     return int(maybe)
                 
-            npc.STR = numberorrandom()
-            npc.DEX = numberorrandom()
-            npc.CON = numberorrandom()
-            npc.INT = numberorrandom()
-            npc.WIS = numberorrandom()
-            npc.CHA = numberorrandom()
+            npc.STR += numberorrandom()
+            npc.DEX += numberorrandom()
+            npc.CON += numberorrandom()
+            npc.INT += numberorrandom()
+            npc.WIS += numberorrandom()
+            npc.CHA += numberorrandom()
         def randomgen():
-            npc.STR = roll()
-            npc.DEX = roll()
-            npc.CON = roll()
-            npc.INT = roll()
-            npc.WIS = roll()
-            npc.CHA = roll()
+            npc.STR += roll()
+            npc.DEX += roll()
+            npc.CON += roll()
+            npc.INT += roll()
+            npc.WIS += roll()
+            npc.CHA += roll()
         def average():
-            npc.STR = 11 
-            npc.DEX = 11
-            npc.CON = 11
-            npc.INT = 11
-            npc.WIS = 11
-            npc.CHA = 11
+            npc.STR += 11 
+            npc.DEX += 11
+            npc.CON += 11
+            npc.INT += 11
+            npc.WIS += 11
+            npc.CHA += 11
         (choose("Method:", {"Hand": handentry, "Randomgen": randomgen, "Average": average}))[1]()
 
     def selectclass():
@@ -533,10 +612,16 @@ def generatenpc():
     def selectrace():
         (name, mod) = choose("Choose a race: ", races)
         npc.race = mod
+        if getattr(npc.race, 'level0', None) != None:
+            log('Firing racial level0')
+            getattr(npc.race, 'level0', None)(npc)
+
         if getattr(npc.race, 'subraces', None) != None:
             (_, subracemod) = choose("Subrace: ", npc.race.subraces)
             npc.subrace = subracemod
-            print(npc.subrace.name)
+            if getattr(npc.subrace, 'level0', None) != None:
+                log('Firing subracial level0')
+                getattr(npc.subrace, 'level0', None)(npc)
 
     # Do we want to start with race, class, or ability scores?
     startoptions = ['Ability Scores', 'Race']
@@ -550,6 +635,24 @@ def generatenpc():
 
     # That's level 0; now do level 1+
     # Select a class, append it to npc.classes, invoke the class level functions, repeat
+    level = 0
+    levelup = True
+    while levelup == True:
+        level += 1
+        print("-------- Level " + str(level))
+
+        # Any racial/subracial level advancements?
+        levelinvoke(npc.race, level, npc)
+
+        #clss = choose("Choose class:", classes)[1]
+
+        #clsslevel = npc.classlevel(clss.name) + 1
+        #levelinvoke(clss, clsslevel, npc)
+
+        if len(scriptedinput) == 0:
+            levelup = (input("Another level? ") == 'y')
+        else:
+            continue
 
     npc.freeze()
     return npc
