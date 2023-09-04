@@ -45,13 +45,13 @@ def level0(npc):
 
 def level3(npc):
     if npc.season == 'Autumn':
-        npc.defer(lambda npc: replace("***Fey Step", npc.bonusactions, f"***Fey Step (Recharges on short or long rest).*** You can magically teleport up to 30 feet to an unoccupied space you can see. Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be charmed by you for 1 minute, or until you or your companions deal any damage to it. Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()}."))
+        npc.defer(lambda npc: replace("***Fey Step", npc.bonusactions, f"You can magically teleport up to 30 feet to an unoccupied space you can see. Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be charmed by you for 1 minute, or until you or your companions deal any damage to it. Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()}."))
     elif npc.season == 'Winter':
-        npc.defer(lambda npc: replace("***Fey Step", npc.bonusactions, f"***Fey Step (Recharges on short or long rest).*** You can magically teleport up to 30 feet to an unoccupied space you can see. When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn. Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()}."))
+        npc.defer(lambda npc: replace("***Fey Step", npc.bonusactions, f"You can magically teleport up to 30 feet to an unoccupied space you can see. When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn. Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()}."))
     elif npc.season == 'Spring':
-        replace("***Fey Step", npc.bonusactions, "***Fey Step (Recharges on short or long rest).*** You can magically teleport up to 30 feet to an unoccupied space you can see. When you use your Fey Step, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.")
+        replace("***Fey Step", npc.bonusactions, "You can magically teleport up to 30 feet to an unoccupied space you can see. When you use your Fey Step, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.")
     elif npc.season == 'Summer':
-        npc.defer(lambda npc: replace("***Fey Step", npc.bonusactions, f"***Fey Step (Recharges on short or long rest).*** You can magically teleport up to 30 feet to an unoccupied space you can see. Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes {npc.CHAbonus()} fire damage."))
+        npc.defer(lambda npc: replace("***Fey Step", npc.bonusactions, f"You can magically teleport up to 30 feet to an unoccupied space you can see. Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes {npc.CHAbonus()} fire damage."))
     else:
         print("WTF?!? " + npc.season + " shouldn't be an option!")
 ```

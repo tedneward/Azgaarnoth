@@ -521,7 +521,7 @@ class NPC:
             result += f">{action}\n"
             result +=  ">\n"
         if len(self.cantripsknown) > 0:
-            result += f">***Innate Spellcasting.*** You know the cantrip{'s' if len(self.cantripsknown) > 0 else ''} {','.join(self.cantripsknown)}.\n>\n"
+            result += f">***Innate Spellcasting.*** You know the cantrip{'s' if len(self.cantripsknown) > 1 else ''} {','.join(self.cantripsknown)}.\n>\n"
         if len(self.reactions) > 0:
             result +=  ">#### Rections\n"
             for reaction in self.reactions:

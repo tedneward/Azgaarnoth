@@ -28,3 +28,33 @@ Once you cast Feather Fall or Levitate with this trait, you can’t cast that sp
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
 **Languages.** Your character can speak, read, and write Common and Aeral that you and your DM agree is appropriate for the character.
+
+```
+name = 'Air'
+def level0(npc):
+    npc.description.append("***Subrace: Air.*** Air genasi resemble djinn, the genies of the Elemental Plane of Air. Embodying many of the airy traits of their otherworldly ancestors, air genasi can draw upon their connection to the winds.")
+
+    npc.abilityscoreimprovement()
+    npc.abilityscoreimprovement()
+    npc.abilityscoreimprovement()
+
+    npc.size = choose("Choose your size: ", ['Small', 'Medium'])
+    npc.speed['walking'] = 35
+    npc.senses['darkvision'] = 60
+
+    npc.traits.append("***Unending Breath.*** You can hold your breath indefinitely while you’re not incapacitated.")
+    npc.damageresistances.append("lightning")
+
+    npc.cantripsknown.append('shocking grasp')
+
+    npc.mingleability = choose("Choose your spellcasting ability for Mingle with the Wind: ", ['INT', 'WIS', 'CHA'])
+
+    npc.languages.append('Common')
+    npc.languages.append('Aeral')
+
+def level3(npc):
+    npc.actions.append(f"***Mingle with the Wind (Recharges on long rest).*** You can cast {spelllinkify('feather fall')}.")
+
+def level5(npc):
+    replace("***Mingle with the Wind", npc.actions, f"***Mingle with the Wind (Recharges on long rest).*** You can cast {spelllinkify('feather fall')} and/or {spelllinkify('levitate')} once each.")
+```

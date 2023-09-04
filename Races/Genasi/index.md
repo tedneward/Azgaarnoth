@@ -7,3 +7,9 @@ Within Azgaarnoth, genasi are often viewed with a certain amount of suspicion or
 
 > GM Notes: Between the fact that genasi are rare (less than 5% of the population) and because the general populace is not clear on whether the Eldar had a hand in the creation of the genasi, most Azgaarians--regardless of national culture or lineage--have not fully formed their opinions of these kin of the genie. As a result, genasi often grow up wary, never knowing what their reception will be like; similarly, genasi are one of the few races on Azgaarnoth that will elicit stares from city-dwelllers and townsfolk alike.
 
+```
+name = 'Genasi'
+type = 'humanoid'
+def level0(npc):
+    npc.description.append("***Race: Genasi.*** Thought to trace their ancestry to the genies of the Elemental Planes, each genasi can tap into the power of one of the elements.")
+```

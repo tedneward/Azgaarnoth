@@ -1,8 +1,6 @@
 # Humans
 Owing to the prodigious rate at which humans reproduce, they are the dominant species of the Azgaarnothian lands. Owing to the 8,000-plus years of intermixing, humans characteristics are all over the map--different skin tones, different complexions, heights, weights, and so on. Humans were the servant race of the Eldar and flourished and took over much of the lands after the Fall. It is not clear if humans were created by the Eldar, or were uplifted by them. Either way, humans owe their civilization to the initial one built by the Eldar, inheriting it after the Fall."
 
-Humans may be [dragonmarked](Dragonmarked.md) with the Mark of Handling, the Mark of Making, the Mark of Passage, or the Mark of Sentinel; see that entry for details.
-
 Human society is broken into several distinct cultures: [Al'Uma](../Cultures/AlUma.md), [Gozdor](../Cultures/Gozdor.md), [Anor](../Cultures/Anor.md), and [Dail](../Cultures/Dail.md).
 
 * **Ability Score Increase.** Two of your ability scores each increase by 1.
@@ -39,3 +37,5 @@ def level0(npc):
     npc.languages.append("Common")
     npc.languages.append("CHOOSE")
 ```
+
+Humans may be [dragonmarked](Dragonmarked.md) with the [Mark of Handling](Handling.md), the [Mark of Making](Making.md), the [Mark of Passage](Passage.md), or the [Mark of Sentinel](Sentinel.md). Or not, as they choose.

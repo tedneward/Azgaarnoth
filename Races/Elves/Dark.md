@@ -33,5 +33,5 @@ def level3(npc):
     npc.actions.append("***Dark Elf Magic (Recharges on long rest).*** You can cast " + spelllinkify('faerie fire') + ". Charisma is your spellcasting ability for this spell.")
 
 def level5(npc):
-    replace("***Dark Elf Magic", npc.features, f"***Dark Elf Magic (Recharges on long rest).** You can cast {spelllinkify('faerie fire')} or {spelllinkify('darkness')}. Charisma is your spellcasting ability for these spells.")
+    replace("***Dark Elf Magic", npc.features, f"You can cast {spelllinkify('faerie fire')} or {spelllinkify('darkness')}. Charisma is your spellcasting ability for these spells.")
 ```
