@@ -155,42 +155,6 @@ def choose(text, choices):
     else:
         raise BaseException('Unrecognized type of choices: ' + str(type(choices)))
 
-def abilityscoreimprovement(npc):
-    abilities = [ 'STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA']
-
-    def interactive():
-        return choose("Improve an ability score by 1:", abilities) 
-
-    def scripted():
-        scriptedin = scriptedinput.pop(0).strip()
-        if scriptedin.isdigit():
-            return abilities[int(scriptedin)]
-        else:
-            return scriptedin
-
-    ability = interactive() if len(scriptedinput) == 0 else scripted()
-    newvalue = int(getattr(npc, ability)) + 1
-    setattr(npc, ability, newvalue)
-
-def skillchoice(npc):
-    skills = [ 'Acrobatics', 'Animal Handling', 'Arcana','Athletics',
-        'Deception', 'History', 'Insight', 'Intimidation', 'Investigation',
-        'Medicine', 'Nature', 'Perception', 'Performance', 'Persuasion',
-        'Religion', 'Sleight of Hand', 'Stealth', 'Survival']
-
-    def interactive():
-        return choose("Choose a skill:", skills) 
-
-    def scripted():
-        scriptedin = scriptedinput.pop(0).strip()
-        if scriptedin.isdigit():
-            return skills[int(scriptedin)]
-        else:
-            return scriptedin
-
-    skill = interactive() if len(scriptedinput) == 0 else scripted()
-    npc.skills.append(skill)
-
 def spelllinkify(name):
     return f'[{name}](http://azgaarnoth.tedneward.com/spells/{name}.md)'
 
@@ -200,10 +164,12 @@ def replace(text, list, newtext):
             list.remove(it)
     list.append(text + " " + newtext)
 
+def randomlist(listofchoices):
+    return listofchoices[random.randint(0, len(listofchoices)-1)]
 
 traits = {
     'amphibious' : "***Amphibious.*** You can breathe air and water.",
-    'fey' : "***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.",
+    'fey-ancestry' : "***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.",
     'sea-emissary' : "***Emissary of the Sea.*** You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return.",
     'sunlight-sensitivity' : "***Sunlight Sensitivity.*** You have disadvantage on Attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.",
 }
@@ -230,14 +196,10 @@ def loadmodule(filename, modulename=None):
     def builddict(module):
         builtins = {
             "traits": traits,
-            "levelinvoke": levelinvoke,
-            "abilityscoreimprovement": abilityscoreimprovement,
             "spelllinkify": spelllinkify,
             "choose": choose,
-            "scriptedinput": scriptedinput,
-            "inputhistory": inputhistory,
-            "loadmodule": loadmodule,
             "replace": replace,
+            "random": randomlist,
             "min": min,
             "len": len,
             "print": print,
@@ -285,11 +247,11 @@ def loadraces():
                 subraces = {}
                 for sf in os.listdir(dirpath):
                     if ismdfile(dirpath + "/" + sf) and sf != "index.md":
+                        log(f"Parsing {sf}...")
                         subracename = os.path.splitext(sf)[0]
                         subracemod = loadmodule(dirpath + '/' + sf, basemodule.name + "-" + subracename)
                         subraces[subracename] = subracemod
                 setattr(basemodule, "subraces", subraces)
-                print(basemodule)
             if basemodule != None:
                 races[basemodule.name] = basemodule
 
@@ -327,6 +289,7 @@ def loadclasses():
 class NPC:
     def __init__(self):
         self.size = 'Medium'
+        self.type = ''
 
         # Race is a dict ('name', 'type', ...) for the race selected
         self.race = None
@@ -410,13 +373,20 @@ class NPC:
     def proficiencybonus(self):
         return (self.levels() // 4) + 2
 
-    def levels(self):
-        return len(self.classes)
+    def levels(self, clss = None):
+        if clss == None:
+            return len(self.classes)
+        else:
+            count = 0
+            for cli in self.classes:
+                if cli == clss:
+                    count += 1
+            return count
 
     def hits(self, die):
         """Generate the hit points gained at the current level, using the die specified."""
         self.hitdice[die] += 1
-        if len(self.classes) == 1:
+        if self.levels() == 1:
             # Max hit points at first level
             self.hitpoints += int(die[1:]) # Strip off the 'd'
         else:
@@ -424,7 +394,7 @@ class NPC:
             top = int(die[1:])
             self.hitpoints += random.randrange(4, top)
         # Keep a running total for the CON bonus, since it can change over time/levels
-        self.hitconbonus += self.CONbonus()
+        self.hpconbonus += self.CONbonus()
         # Likewise, keep a running total for hit points
         self.hitpoints += self.CONbonus()
 
@@ -435,43 +405,23 @@ class NPC:
                 dicelist.append(str(self.hitdice[key]) + str(key))
         return " + ".join(dicelist)
     
+    def skillchoice(self):
+        skilllist = [ 'Acrobatics', 'Animal Handling', 'Arcana','Athletics',
+            'Deception', 'History', 'Insight', 'Intimidation', 'Investigation',
+            'Medicine', 'Nature', 'Perception', 'Performance', 'Persuasion',
+            'Religion', 'Sleight of Hand', 'Stealth', 'Survival']
+        
+        for sk in self.skills:
+            skilllist.remove(sk)
+
+        self.skills.append(choose("Choose a skill:", skilllist))
+
     def freeze(self):
         """The NPC is finished building, so normalize any traits/features to this level."""
         for dfn in self.normalizers:
             dfn(self)
 
     def emitMD(self):
-        """
->### Bright Elf
->*Medium Humanoid (Elf), Any Chaotic Alignment*
->___
->- **Armor Class** 11
->- **Hit Points** 4 (1d8)
->- **Speed** 30 ft.
->___
->|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|10 (+0)|12 (+1)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
->___
->- **Proficiency Bonus** +2
->- **Saving Throws** 
->- **Damage Vulnerabilities** 
->- **Damage Resistances** 
->- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** Perception +2
->- **Senses** Darkvision 60 ft.,Passive Perception 12
->- **Languages** Elvish
->- **Challenge** 0
->___
->***Fey Ancestry.*** Elf commoners have advantage on saving throws against being charmed, and magic can't put you to sleep.
->
->#### Actions
->***Club.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
->
->***Shortbow.*** Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 4 (1d6+1) piercing damage.
->
-        """
         def getsubracename(): return '' if self.subrace == None else self.subrace.name + ' '
 
         def getarmorclass():
@@ -519,11 +469,11 @@ class NPC:
                 'Survival' : 'WIS'
             }
             def mapskill(skill):
-                return f"{skill} +{(getattr(self, str(skillmap[skill]) + 'bonus', None)())}"
+                return f"{skill} +{(getattr(self, str(skillmap[skill]) + 'bonus', None)()) + self.proficiencybonus()}"
             return ", ".join(map(mapskill, self.skills))
         
         def getsenses():
-            perception = f"passive Perception {10 + self.WISbonus() + self.proficiencybonus() if 'Perception' in self.skills else 0}"
+            perception = f"passive Perception {10 + self.WISbonus() + (self.proficiencybonus() if 'Perception' in self.skills else 0)}"
             if len(self.senses) == 1:
                 return perception
             else:
@@ -541,7 +491,7 @@ class NPC:
         result += f'*{self.size} {self.race.type} ({getsubracename()}{self.race.name}), any alignment*\n'
         result += linesep
         result += f">- **Armor Class** {getarmorclass()}\n"
-        result +=  ">- **Hit Points** \n"
+        result += f">- **Hit Points** {self.hitpoints} ({self.hitdicedesc()} + {self.hpconbonus})\n"
         result += f">- **Speed** {getspeed()}\n"
         result += linesep
         result +=  ">|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|\n"
@@ -563,15 +513,37 @@ class NPC:
         result += f">- **Senses** {getsenses()}\n"
         result += f">- **Languages** {','.join(self.languages)}\n"
         result += linesep
-        result += "\n".join([f">{trait}\n>" for trait in self.traits])
-        result += "\n"
-        result +=  ">#### Actions\n\n"
-        result += "\n".join([f">{action}\n>" for action in self.actions])
+        for trait in self.traits:
+            result += f">{trait}\n"
+            result +=  ">\n"
+        result +=  ">#### Actions\n"
+        for action in self.actions:
+            result += f">{action}\n"
+            result +=  ">\n"
+        if len(self.cantripsknown) > 0:
+            result += f">***Innate Spellcasting.*** You know the cantrip{'s' if len(self.cantripsknown) > 0 else ''} {','.join(self.cantripsknown)}.\n>\n"
+        if len(self.reactions) > 0:
+            result +=  ">#### Rections\n"
+            for reaction in self.reactions:
+                result += f">{reaction}\n"
+                result +=  ">\n"
+        if len(self.bonusactions) > 0:
+            result +=  ">\n>#### Bonus Actions\n"
+            for bonus in self.bonusactions:
+                result += f">{bonus}\n"
+                result +=  ">\n"
+        result += "\n#### Description\n"
+        for descrip in self.description:
+            result += f"{descrip}\n\n"
 
         return result
 
 def generatenpc():
     npc = NPC()
+
+    def levelinvoke(module, level, npc):
+        levelfn = getattr(module, 'level' + str(level), None)
+        if levelfn != None: levelfn(npc)
 
     def selectabilities():
         def roll():
@@ -604,7 +576,17 @@ def generatenpc():
             npc.INT += 11
             npc.WIS += 11
             npc.CHA += 11
-        (choose("Method:", {"Hand": handentry, "Randomgen": randomgen, "Average": average}))[1]()
+        def standard():
+            scores = [15, 14, 13, 12, 10, 8]
+            stats = ['STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA']
+            while len(stats) > 0:
+                stat = choose(f"Apply the {scores[0]}: ", stats)
+                current = getattr(npc, stat, 0)
+                setattr(npc, stat, current + scores[0])
+                scores.pop(0)
+                stats.remove(stat)
+
+        (choose("Method:", {"Standard": standard, "Hand": handentry, "Randomgen": randomgen, "Average": average}))[1]()
 
     def selectclass():
         pass
@@ -612,6 +594,7 @@ def generatenpc():
     def selectrace():
         (name, mod) = choose("Choose a race: ", races)
         npc.race = mod
+        npc.type = mod.type
         if getattr(npc.race, 'level0', None) != None:
             log('Firing racial level0')
             getattr(npc.race, 'level0', None)(npc)
@@ -643,10 +626,11 @@ def generatenpc():
 
         # Any racial/subracial level advancements?
         levelinvoke(npc.race, level, npc)
+        levelinvoke(npc.subrace, level, npc)
 
+        # Choose a class
         #clss = choose("Choose class:", classes)[1]
-
-        #clsslevel = npc.classlevel(clss.name) + 1
+        #clsslevel = npc.levels(clss.name) + 1
         #levelinvoke(clss, clsslevel, npc)
 
         if len(scriptedinput) == 0:

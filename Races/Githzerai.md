@@ -23,3 +23,23 @@ For whatever reason, both [githyanki](../Creatures/Githyanki.md) and [githzerai]
   When you reach 3rd level, you can cast the [shield](../Magic/Spells/shield.md) spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [detect thoughts](../Magic/Spells/detect-thoughts.md) spell once with this trait, and you regain the ability to do so when you finish a long rest.
 
   Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.
+
+```
+name = 'Githzerai'
+type = 'humanoid'
+
+def level0(npc):
+    npc.WIS += 2
+    npc.INT += 1
+    npc.speed['walking'] = 30
+    npc.languages.append('Common')
+    npc.languages.append('Gith')
+    npc.traits.append("***Mental Discipline.*** You have advantage on saving throws against the charmed and frightened conditions.")
+    npc.cantripsknown.append('mage hand')
+
+def level3(npc):
+    npc.actions.append("***Psionics (Recharge on long rest).*** You can cast the {spelllinkify('shield')} spell. Wisdom is your spellcasting ability for this spell.")
+
+def level5(npc):
+    npc.actions.append("***Improved Psionics (Recharge on long rest).*** You can cast the {spelllinkify('detect thoughts')} spell. Wisdom is your spellcasting ability for this spell.")
+```

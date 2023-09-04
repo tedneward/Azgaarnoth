@@ -26,3 +26,38 @@ Minotaurs found in [Yithi](../Nations/Yithi.md) and (less often) [Zhi](../Nation
 * **Alignment**. Minotaurs believe in a strict code of honor, and thus tend toward law. They are loyal to the death and make implacable enemies, even as their brutal culture and disdain for weakness push them toward evil.
 
 * **Hybrid Nature**. You have two creature types: humanoid and monstrosity. You can be affected by a game effect if it works on either of your creature types.
+
+```
+name = 'Minotaur'
+type = 'humanoid'
+def level0(npc):
+    npc.size = 'Medium'
+    npc.speed['walking'] = 30
+
+    # Ability Score Increase
+    npc.STR += 2
+    npc.CON += 1
+
+    npc.skills.append("Intimidation")
+
+    npc.languages.append("Common")
+
+    npc.defer(lambda npc: npc.actions.append(f"***Horns.*** You are proficient with your horns, which are a melee weapon that deals 1d6 + {npc.STRbonus()} piercing damage. Your horns grant you advantage on all checks made to shove a creature, but not to avoid being shoved yourself."))
+
+    npc.bonusactions.append("***Goring Rush.*** When you use the Dash action during your turn, you can make a melee attack with your horns as a bonus action.")
+    npc.bonusactions.append("***Hammering Horns.*** When you use the Attack action during your turn to make a melee attack, you can attempt to shove a creature with your horns as a bonus action. You cannot use this shove attempt to knock a creature prone.")
+
+def generate_name(npc, gender):
+    # Female names always end in a vowel
+    female_surnames = ['Ayasha', 'Calina', 'Fliara', 'Helati', 'Keeli', 'Kyri', 'Mogara', 'Sekra', 'Tariki', 'Telia']
+    # Male names never end in a vowel
+    male_surnames = ['Beliminorgath', 'Cinmac', 'Dastrun', 'Edder', 'Galdar', 'Ganthirogan', 'Hecariveran', 'Kyris', 'Tosher', 'Zurgas']
+    # Family names
+    family_names = ['Artar', 'Athak', 'Bagoslalar', 'Bregan', 'Dheubpurwen', 'Dragazakama', 'Entragath', 'Feldadar', 
+        'Heral', 'Jernovalrimi', 'Jernokal', 'Malauth', 'Krasgosian', 'Natimorneh', 'Kaziganthi', 'Lagrangli', 
+        'Larenthian', 'Mascun', 'Orilg', 'Sahramar', 'Shiagan', 'Orilgrammar', 'Masral', 'Kulris', 'Manaron', 
+        'Sumarr', 'Teskos',  'Zhakan', 'Tanhos', 'Ilhagos']
+
+    if gender == 'female': return random(female_surnames) + " " + random(family_names)
+    else: return random(male_surnames) + " " + random(family_names)
+```

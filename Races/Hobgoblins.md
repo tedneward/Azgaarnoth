@@ -17,3 +17,29 @@
 * **Saving Face**. Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest.
 
 * **Languages**. You can speak, read, and write Common and Goblin.
+
+```
+name = 'Hobgoblin'
+type = 'humanoid'
+
+def level0(npc):
+    npc.size = 'Medium'
+    npc.speed['walking'] = 30
+
+    # Ability Score Increase
+    npc.CON += 2
+    npc.INT += 1
+
+    npc.senses['darkvision'] = 60
+
+    npc.traits.append("***Saving Face.*** Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest.")
+
+    npc.proficiencies.append('Martial weapon')
+    npc.proficiencies.append('Martial weapon')
+    npc.proficiencies.append('Light armor')
+
+    npc.languages.append('Common')
+    npc.languages.append('Goblin')
+
+    npc.description.append('***Hobgoblin.***')
+```

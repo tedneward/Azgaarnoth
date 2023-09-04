@@ -23,6 +23,31 @@ The following traits are true of all elves.
 
 * **Languages**. You can speak, read, and write Common and Elven.
 
+```
+name = 'Elf'
+type = 'humanoid'
+def level0(npc):
+    npc.description.append("***Race: Elf.*** Elves are almost as diverse as humans in their occupations, entertainments, and while most elves have a strong familial tie between them, numerous elves have wandered away from home to make their mark within the world, then to return and take up familial responsibilities. Elves revere their familial ancestors, and will often have a shrine to a favored ancestor, but elves do not see their familial ancestors as gods, and many elves are quite comfortable serving in a religious order even as they put offerings to their revered ancestors out on important holidays.")
+
+    npc.DEX += 2
+
+    npc.size = 'Medium'
+    npc.speed['walking'] = 30
+
+    npc.senses['darkvision'] = 60
+
+    npc.traits.append(traits['fey-ancestry'])
+
+    npc.conditionimmunities.append("sleep")
+
+    npc.traits.append("***Trance.*** Elves do not sleep. Instead they meditate deeply, remaining semi-conscious, for 4 hours a day. The Common word for this meditation is 'trance'. While meditating, you dream after a fashion; such dreams are actually mental exercises that have become reflexive after years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep.")
+
+    npc.skills.append("Perception")
+
+    npc.languages.append("Common")
+    npc.languages.append("Elven")
+```
+
 Elves have a number of genetically-differentiated offshoots (subraces):
 
 * [Bright Elves](Elves/Bright.md)

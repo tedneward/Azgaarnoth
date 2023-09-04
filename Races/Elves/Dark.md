@@ -13,3 +13,25 @@ Most *drow* seem to hail from the Daw Mountains near the only active volcano in 
 
 * **Sunlight Sensitivity**. You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight.
 
+```
+name = 'Dark'
+def level0(npc):
+  npc.description.append("***Subrace: Dark Elf.*** Elvish scholars speak of an ancient schism amongst the Eldar--and some insist that this was the start of the Fall--that prompted an offshoot of the Eldar to take refuge underground. Rumors hold that these dark elves, the *drow*, are the reason (somehow) Mt Bezulb continues to erupt consistently. Note that despite numerous claims to the contrary, *drow* and *shadar-kai* are not the same race, and in fact they seem to have an inborn implacable hatred of one another that defies explanation.")
+
+  npc.CHA += 1
+
+  npc.cantripsknown.append('dancing lights')
+
+  npc.proficiencies.append('Rapier')
+  npc.proficiencies.append('Shortsword')
+  npc.proficiencies.append('Hand crossbow')
+
+  npc.senses['darkvision'] = 120
+  npc.features.append(commonfeatures['sunlight-sensitivity'])
+
+def level3(npc):
+    npc.actions.append("***Dark Elf Magic (Recharges on long rest).*** You can cast " + spelllinkify('faerie fire') + ". Charisma is your spellcasting ability for this spell.")
+
+def level5(npc):
+    replace("***Dark Elf Magic", npc.features, f"***Dark Elf Magic (Recharges on long rest).** You can cast {spelllinkify('faerie fire')} or {spelllinkify('darkness')}. Charisma is your spellcasting ability for these spells.")
+```

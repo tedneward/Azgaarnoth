@@ -19,3 +19,37 @@
 * **Guardians of the Depths**. Adapted to even the most extreme ocean depths, you have resistance to cold damage, and you ignore any of the drawbacks caused by a deep, underwater environment.
 
 * **Languages**. You can speak, read, and write Common and Aquan.
+
+```
+name = "Triton"
+type = 'humanoid'
+def level0(npc):
+    npc.description.append("Tritons guard the ocean depths, building small settlements beside deep trenches, portals to the elemental planes, and other dangerous spots far from the eyes of land-bound folk. Long-established guardians of the deep ocean floor, the noble tritons have gradually become increasingly active in the world above.")
+
+    npc.STR += 1
+    npc.CON += 1
+    npc.CHA += 1
+
+    npc.size = 'Medium'
+
+    npc.speed['walking'] = 30
+    npc.speed['swimming'] = 30
+
+    npc.traits.append(traits['amphibious'])
+
+    npc.actions.append(f"***Control Air and Water.*** You can cast {spelllinkify('fog cloud')} with this trait. Once you cast a spell with this trait, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells.")
+
+    npc.traits.append(traits['sea-emissary'])
+
+    npc.damageresistances.append("cold")
+    npc.traits.append("***Guardians of the Depths.*** Adapted to even the most extreme ocean depths, you ignore any of the drawbacks caused by a deep, underwater environment.")
+    
+    npc.languages.append("Common")
+    npc.languages.append("Aquan")
+
+def level3(npc):
+    replace("***Control Air and Water.***", npc.actions, f"***Control Air and Water.*** You can cast {spelllinkify('fog cloud')} or {spelllinkify('gust of wind')} with this trait. Once you cast a spell with this trait, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells.")
+
+def level5(npc):
+    replace("***Control Air and Water.***", npc.actions, "***Control Air and Water.*** You can cast {spelllinkify('fog cloud')}, {spelllinkify('gust of wind')} or {spelllinkify('wall of water')} with this trait. Once you cast a spell with this trait, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells.")
+```
