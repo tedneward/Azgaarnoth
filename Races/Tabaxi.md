@@ -22,8 +22,28 @@
 
 ```
 name = 'Tabaxi'
+type = 'humanoid'
 def level0(npc):
-    pass
+    npc.description.append("***Race: Tabaxi.*** Meow.")
+
+    npc.DEX += 2
+    npc.CHA += 1
+
+    npc.size = 'Medium'
+    npc.speed['walking'] = 30
+    npc.speed['climbing'] = 20
+
+    npc.senses['darkvision'] = 60
+
+    npc.actions.append("***Feline Agility.*** When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can’t use it again until you move 0 feet on one of your turns.")
+
+    npc.defer(npc.actions.append(f"***Claws.*** Melee Weapon... 1d4 + {npc.STRbonus()} slashing damage"))
+
+    npc.skills.append('Perception')
+    npc.skills.append('Stealth')
+
+    npc.languages.append('Common')
+    npc.languages.append('CHOOSE')
 ```
 
 ## Tabaxi Personality

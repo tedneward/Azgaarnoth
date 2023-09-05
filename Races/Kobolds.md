@@ -11,3 +11,31 @@
     * *Defiance.* You have advantage on saving throws to avoid or end the frightened condition on yourself.
     * *Draconic Sorcery.* You know one cantrip of your choice from the sorcerer spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for that cantrip (choose when you select this race).
     * *Ferocity.* You can make unarmed strikes with your tail. When you hit with it, the strike deals 1d6 + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike.
+
+```
+name = 'Kobold'
+type = 'humanoid'
+def level0(npc):
+    npc.abilityscoreimprovement()
+    npc.abilityscoreimprovement()
+    npc.abilityscoreimprovement()
+
+    npc.size = 'Small'
+    npc.speed['walking'] = 30
+
+    npc.senses['darkvision'] = 60
+
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Draconic Cry ({npc.proficiencybonus()}/Recharges on long rest).*** You let out a cry at your enemies within 10 feet of you. Until the start of your next turn, you and your allies have advantage on attack rolls against any of those enemies who could hear you."))
+
+    npc.koboldlegacy = choose("Choose a legacy: ", ['Craftiness', 'Defiance', 'Sorcery', 'Ferocity'])
+    if npc.koboldlegacy == 'Craftiness':
+        npc.skills.append(choose("Choose a skill: ", ['Arcana', 'Investigation', 'Medicine', 'Sleight of Hand', 'Survival']))
+    elif npc.koboldlegacy == 'Defiance':
+        npc.traits.append("***Kobold Legacy: Defiance.*** You have advantage on saving throws to avoid or end the frightened condition on yourself.")
+    elif npc.koboldlegacy == 'Sorcery':
+        npc.cantripsknown.append("CHOOSE-SORCERER")
+    elif npc.koboldlegacy == 'Ferocity':
+        npc.defer(lambda npc: npc.actions.append(f"***Tail.*** Melee Weapon Attack: {npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5 ft., one target. Hit: 1d6 + {npc.STRbonus()} bludgeoning damage."))
+    else:
+        print("WTF?!? Kobolds dont have a legacy called '" + npc.koboldlegacy + "'")
+```

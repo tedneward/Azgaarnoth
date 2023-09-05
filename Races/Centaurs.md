@@ -29,6 +29,8 @@ type = 'monstrosity'
 
 ```
 def level0(npc):
+    npc.description.append("***Race: Centaur.***")
+
     npc.size = 'Large'
     npc.speed['walking'] = 50
 

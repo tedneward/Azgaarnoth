@@ -41,22 +41,68 @@ d8 | Origins
 
 ## Reborn Traits
 
-* **Ability Score Increase.** Increase one ability score by 2, and increase a different one by 1. Neither of these can be Charisma.
+```
+name = 'Reborn'
+```
+
 * **Type.** Humanoid, Undead
+
+```
+type = 'humanoid/undead'
+```
+
+* **Ability Score Increase.** Increase one ability score by 2, and increase a different one by 1. Neither of these can be Charisma.
+
+```
+def level0(npc):
+    npc.description.append("***Race: Reborn.*** Some reborn exhibit the scars of fatal ends, their ashen flesh or bloodless veins making it clear that they've been touched by death. Some others appear identical to those of other races, their scars borne entirely on the mind rather than on the flesh. Whatever their origins, reborn know a new life and seek experiences and answers all their own.")
+
+    npc.abilityscoreimprovement()
+    npc.abilityscoreimprovement()
+    npc.abilityscoreimprovement()
+```
+
 * **Size.** Medium or Small (choose when you gain this lineage)
+
+```
+    npc.size = choose("Choose your size: ", ['Small', 'Medium'])
+```
+
 * **Speed.** 30 feet
+
+```
+    npc.speed['walking'] = 30
+```
+
 * **Darkvision.** You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light.
+
+```
+    npc.senses['darkvision'] = 60
+```
+
 * **Deathless Nature.** You have escaped death, a fact represented by the following benefits:
     * You have advantage on saving throws against disease and being poisoned, and you have resistance to poison damage.
     * You have advantage on death saving throws.
     * You don't need to eat, drink, or breathe.
     * You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness.
+
+
+```
+    npc.traits.append("***Deathless Nature: No Thanks.*** You don't need to eat, drink, or breathe. You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness.")
+    npc.damageresistances.append('poison')
+    npc.traits.append("***Deathless Nature: Done This Before.*** You have advantage on death saving throws.")
+    npc.traits.append("***Deathless Nature: Iron Stomach.*** You have advantage on saving throws against disease and being poisoned.")
+```
+
 * **Knowledge from a Past Life.** You temporarily remember sporadic glimpses of the past, perhaps faded memories from ages ago or a previous life. When you make an ability check that uses a skill, you can roll a d6 and add the number rolled to the check. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+```
+    npc.defer(lambda npc: npc.traits.append(f"***Knowledge from a Past Life ({npc.proficiencybonus()}/Recharges on long rest).*** When you make an ability check that uses a skill, you can roll a d6 and add the number rolled to the check."))
+```
+
 * **Languages.** You can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character.
 
 ```
-name = 'Reborn'
-type = 'humanoid/undead'
-def level0(npc):
-    pass
+    npc.languages.append('Common')
+    npc.languages.append('CHOOSE')
 ```

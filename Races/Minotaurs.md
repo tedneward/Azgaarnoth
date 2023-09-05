@@ -34,7 +34,12 @@ type = 'humanoid'
 
 ```
 def level0(npc):
+    npc.description.append("***Race: Minotaur.***")
+
     npc.size = 'Medium'
+
+    npc.hitpoints += dieroll('6d10') + (6 * npc.CONbonus())
+
     npc.speed['walking'] = 30
 
     npc.STR += 2
@@ -44,9 +49,10 @@ def level0(npc):
 
     npc.languages.append("Common")
 
-    npc.defer(lambda npc: npc.actions.append(f"***Horns.*** You are proficient with your horns, which are a melee weapon that deals 1d6 + {npc.STRbonus()} piercing damage. Your horns grant you advantage on all checks made to shove a creature, but not to avoid being shoved yourself."))
+    npc.defer(lambda npc: npc.actions.append(f"***Horns.*** Melee Weapon Attack: {npc.proficiencybonus() + npc.STRbonus()} to it, reach 5ft., one creature. Hit: 1d6 + {npc.STRbonus()} piercing damage. Your horns grant you advantage on all checks made to shove a creature, but not to avoid being shoved yourself."))
 
     npc.bonusactions.append("***Goring Rush.*** When you use the Dash action during your turn, you can make a melee attack with your horns as a bonus action.")
+
     npc.bonusactions.append("***Hammering Horns.*** When you use the Attack action during your turn to make a melee attack, you can attempt to shove a creature with your horns as a bonus action. You cannot use this shove attempt to knock a creature prone.")
 
 def generate_name(npc, gender):

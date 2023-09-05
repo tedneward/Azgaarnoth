@@ -56,8 +56,8 @@ def level0(npc):
     npc.cantripsknown.append('mage hand')
 
 def level3(npc):
-    npc.actions.append("***Psionics (Recharge on long rest).*** You can cast the {spelllinkify('jump')} spell. Intelligence is your spellcasting ability for this spell.")
+    npc.actions.append(f"***Psionics (Recharge on long rest).*** You can cast the {spelllinkify('jump')} spell. Intelligence is your spellcasting ability for this spell.")
 
 def level5(npc):
-    npc.actions.append("***Improved Psionics (Recharge on long rest).*** You can cast the {spelllinkify('misty step')} spell. Intelligence is your spellcasting ability for this spell.")
+    npc.actions.append(f"***Improved Psionics (Recharge on long rest).*** You can cast the {spelllinkify('misty step')} spell. Intelligence is your spellcasting ability for this spell.")
 ```

@@ -11,7 +11,10 @@ An aasimar who was touched by dark powers as a youth or who turns to evil in ear
 
 ```
 name = 'Fallen'
+
 def level0(npc): 
+    npc.description.append("***Fallen Aasimar.*** ...")
+
     npc.STR += 1
 
 def level3(npc): 

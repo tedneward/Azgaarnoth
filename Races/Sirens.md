@@ -20,6 +20,8 @@ type = 'humanoid'
 
 ```
 def level0(npc):
+    npc.description.append("***Race: Siren.*** Sirens are humanoid creatures with birdlike features. Their long, slender arms extend into powerful wings that easily carry their light frames into the air. Their fingers bear sharp claws but are nimble enough to wield weapons and perform fine manipulation. Crests of feathery plumage start between their eyes and cover the backs of their heads.")
+
     npc.CHA += 2
     npc.size = 'Medium'
     npc.speed['walking'] = 25

@@ -28,12 +28,14 @@ type = 'humanoid/celestial'
 
 ```
 def level0(npc):
+    npc.description.append("***Race: Aasimar.*** ")
+
     npc.CHA += 2
     npc.size = 'Medium'
     npc.speed['walking'] = 30
     npc.senses['darkvision'] = '60ft'
-    npc.resistances.append('necrotic')
-    npc.actions.append('***Healing Hands (Recharges after long rest).*** You can touch a creature and cause it to regain a number of hit points equal to your level.')
+    npc.damageresistances.append('necrotic')
+    npc.defer(lambda npc: npc.actions.append(f"***Healing Hands (Recharges after long rest).*** You can touch a creature and cause it to regain {npc.levels()} hit points."))
     npc.cantripsknown.append('light')
     npc.spellcastingattribute = 'Charisma'
     npc.languages.append('Common')

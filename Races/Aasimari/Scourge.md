@@ -12,6 +12,8 @@ Scourge aasimar are imbued with a divine energy that blazes intensely within the
 name = 'Scourge'
 
 def level0(npc): 
+    npc.description.append("***Scourge Aasimar.*** ...")
+
     npc.CON += 1
 
 def level3(npc): 

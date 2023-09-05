@@ -13,6 +13,8 @@ Protector aasimar are charged by the powers of good to guard the weak, to strike
 name = 'Protector'
 
 def level0(npc): 
+    npc.description.append("***Protector Aasimar.*** ...")
+
     npc.WIS += 1
 
 def level3(npc): 

@@ -168,6 +168,13 @@ def replace(text, list, newtext):
 def randomlist(listofchoices):
     return listofchoices[random.randint(0, len(listofchoices)-1)]
 
+def dieroll(dpattern):
+    (number, size) = dpattern.split("d")
+    accum = 0
+    for _ in range(int(number)):
+        accum += random.randint(1, int(size))
+    return accum
+
 traits = {
     'amphibious' : "***Amphibious.*** You can breathe air and water.",
     'fey-ancestry' : "***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.",
@@ -201,6 +208,7 @@ def loadmodule(filename, modulename=None):
             "choose": choose,
             "replace": replace,
             "random": randomlist,
+            "dieroll": dieroll,
             "min": min,
             "len": len,
             "print": print,
@@ -228,6 +236,9 @@ def loadmodule(filename, modulename=None):
 #   subraces : map<string, dict(name, levelX functions)>
 # Optional:
 #   levelX(npc) : function
+#   generate_name(npc, 'male'|'female') : function
+#   height(npc) : function
+#   weight(npc) : function
 races = {}
 def loadraces():
     def ismdfile(filepath): 
@@ -368,6 +379,7 @@ class NPC:
         # Normalizers are fns run when the NPC is frozen;
         # usually these are level-dependent text/traits/features/etc
         self.normalizers = []
+        self.deferred = {}
 
     def defer(self, fn):
         """Defer fn to be invoked when the NPC is normalized/frozen"""
@@ -447,7 +459,7 @@ class NPC:
         def getarmorclass():
             result = []
             ac = 10
-            for (actext, acnum) in self.armorclass:
+            for (actext, acnum) in self.armorclass.items():
                 if acnum > 8:
                     # Only armor itself is ever a value 10+
                     ac = acnum

@@ -1,5 +1,10 @@
 # [Lizardfolk](../Creatures/Lizardfolk.md)
 
+```
+name = 'Lizardfolk'
+type = 'humanoid'
+```
+
 * **Ability Score Increase**. Your Constitution score increase by 2, and your Wisdom score increases by 1.
 
 * **Age**. Lizardfolk reach maturity around age 14 and rarely live longer than 60 years.
@@ -23,3 +28,27 @@
 * **Hungry Jaws**. In battle, you can throw yourself into a vicious feeding frenzy. As a bonus action, you can make a special attack with your bite. If the attack hits, it deals its normal damage, and you gain temporary hit points (minimum of 1) equal to your Constitution modifier, and you can't use this trait again until you finish a short or long rest.
 
 * **Languages**. You can speak, read, and write Common and Draconic.
+
+```
+def level0(npc):
+    npc.CON += 2
+    npc.WIS += 1
+
+    npc.size = 'Medium'
+
+    npc.defer(lambda npc: npc.actions.append(f"***Bite.*** Melee Weapon Attack: {npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5 ft., one target. Hit: 1d6 + {npc.STRbonus()} piercing damage."))
+
+    npc.traits.append("***Cunning Artisan.*** As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size Small or larger to create one of the following items: a shield, a club, a javelin, or 1d4 darts or blowgun needles. To use this trait, you need a blade, such as a dagger, or appropriate artisan's tools, such as leatherworker's tools.")
+
+    npc.traits.append("***Hold Breath.*** You can hold your breath for up to 15 minutes at a time.")
+
+    npc.skills.append(choose("Choose a skill: ", ['Animal Handling', 'Nature', 'Perception', 'Stealth', 'Survival']))
+    npc.skills.append(choose("Choose a skill: ", ['Animal Handling', 'Nature', 'Perception', 'Stealth', 'Survival']))
+
+    npc.armorclass['natural armor'] = 13
+
+    npc.defer(lambda npc: npc.bonusactions.append("***Hungry Jaws (Recharges on short or long rest).*** You can make a special attack with your bite. If the attack hits, it deals its normal damage, and you gain {npc.CONbonus()} temporary hit points."))
+
+    npc.languages.append('Common')
+    npc.languages.append('Draconic')
+```

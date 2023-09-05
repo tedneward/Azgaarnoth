@@ -1,21 +1,25 @@
 # Aasimar
+Ability Scores,Average,Race,Aasimar,Fallen,Yes,Yes,Yes,No
+Ability Scores,Average,Race,Aasimar,Scourge,Yes,Yes,Yes,No
+Ability Scores,Average,Race,Aasimar,Protector,Yes,Yes,Yes,No
 # Bugbear tests
-Ability Scores,Randomgen,Race,Bugbear,No
+Ability Scores,Average,Race,Bugbear,No
 # Centaur tests
-Ability Scores,Randomgen,Race,Centaur,Nature,No
+Ability Scores,Average,Race,Centaur,Nature,No
 # Dragonborn
 # Dragonkin
 # Dwarves
 # Elves
-# Githyanki tests
-Ability Scores,Randomgen,Race,Githyanki,Medicine,No
-# Githzerai tests
-Ability Scores,Randomgen,Race,Githzerai,No
 # Genasi tests
-Ability Scores,Randomgen,Race,Genasi,Medium,CHA,CHA,CHA,Air,CHA,Yes,Yes,Yes,Yes,Yes,No
-Ability Scores,Randomgen,Race,Genasi,Medium,CHA,CHA,CHA,Earth,CHA,Yes,Yes,Yes,Yes,Yes,No
-Ability Scores,Randomgen,Race,Genasi,Medium,CHA,CHA,CHA,Fire,CHA,Yes,Yes,Yes,Yes,Yes,No
-Ability Scores,Randomgen,Race,Genasi,Medium,CHA,CHA,CHA,Water,CHA,Yes,Yes,Yes,Yes,Yes,No
+Ability Scores,Average,Race,Genasi,Medium,CHA,CHA,CHA,Air,CHA,Yes,Yes,Yes,Yes,Yes,No
+Ability Scores,Average,Race,Genasi,Medium,CHA,CHA,CHA,Earth,CHA,Yes,Yes,Yes,Yes,Yes,No
+Ability Scores,Average,Race,Genasi,Medium,CHA,CHA,CHA,Fire,CHA,Yes,Yes,Yes,Yes,Yes,No
+Ability Scores,Average,Race,Genasi,Medium,CHA,CHA,CHA,Water,CHA,Yes,Yes,Yes,Yes,Yes,No
+# Githyanki tests
+Ability Scores,Average,Race,Githyanki,Medicine,Yes,Yes,Yes,Yes,Yes,No
+# Githzerai tests
+Ability Scores,Average,Race,Githzerai,Yes,Yes,Yes,Yes,Yes,No
+# Gnolls
 # Gnomes
 # Half-Dragons
 # Half-Elves
@@ -23,26 +27,43 @@ Ability Scores,Randomgen,Race,Genasi,Medium,CHA,CHA,CHA,Water,CHA,Yes,Yes,Yes,Ye
 # Half-Orcs
 # Halflings
 # Hobgoblins
-Ability Scores,Randomgen,Race,Hobgoblin,No
+Ability Scores,Average,Race,Hobgoblin,No
 # Humans
 # Kenku
-Ability Scores,Randomgen,Race,Kenku,No
+Ability Scores,Average,Race,Kenku,Acrobatics,Stealth,No
 # Kobolds
+Ability Scores,Average,Race,Kobold,STR,STR,STR,Defiance,No
+Ability Scores,Average,Race,Kobold,STR,STR,STR,Sorcery,No
+Ability Scores,Average,Race,Kobold,STR,STR,STR,Ferocity,No
+Ability Scores,Average,Race,Kobold,STR,STR,STR,Craftiness,Arcana,No
 # Lizardfolk
+Ability Scores,Average,Race,Lizardfolk,Nature,Stealth,No
 # Merfolk
 # Minotaurs
-Ability Scores,Randomgen,Race,Minotaur,No
+Ability Scores,Average,Race,Minotaur,No
 # Orc
 # Reborn
 # Sahuagin
-Ability Scores,Randomgen,Race,Sahuagin,No
+Ability Scores,Average,Race,Sahuagin,No
 # Siren
-Ability Scores,Randomgen,Race,Siren,No
+Ability Scores,Average,Race,Siren,No
 # Tabaxi
-Ability Scores,Randomgen,Race,Tabaxi,No
+Ability Scores,Average,Race,Tabaxi,No
 # Tieflings
+Ability Scores,Average,Race,Tiefling,Asmodeus,Yes,Yes,Yes,Yes,Yes,No
+Ability Scores,Average,Race,Tiefling,Baalzebul,Yes,Yes,Yes,Yes,Yes,No
+Ability Scores,Average,Race,Tiefling,DevilsTongue,Yes,Yes,Yes,Yes,Yes,No
+Ability Scores,Average,Race,Tiefling,Dispater,Yes,Yes,Yes,Yes,Yes,No
+Ability Scores,Average,Race,Tiefling,Fierna,Yes,Yes,Yes,Yes,Yes,No
+Ability Scores,Average,Race,Tiefling,Glasya,Yes,Yes,Yes,Yes,Yes,No
+Ability Scores,Average,Race,Tiefling,Levistus,Yes,Yes,Yes,Yes,Yes,No
+Ability Scores,Average,Race,Tiefling,Mammon,Yes,Yes,Yes,Yes,Yes,No
+Ability Scores,Average,Race,Tiefling,Mephistopheles,Yes,Yes,Yes,Yes,Yes,No
+Ability Scores,Average,Race,Tiefling,Winged,Yes,Yes,Yes,Yes,Yes,No
+Ability Scores,Average,Race,Tiefling,Zariel,Yes,Yes,Yes,Yes,Yes,No
 # Tortle
-Ability Scores,Randomgen,Race,Tortle,No
+Ability Scores,Average,Race,Tortle,No
 # Triton
-Ability Scores,Randomgen,Race,Triton,No
+Ability Scores,Average,Race,Triton,No
 # YuanTi
+Ability Scores,Average,Race,Yuan-Ti,No
