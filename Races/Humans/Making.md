@@ -12,7 +12,7 @@ The Mark of Making only manifests on humans. If your character has the Mark of M
 
 **Magecraft**. You can create a temporary magic item out of common materials. Choose a cantrip from the spell list below. Describe the item connected to it. As long as you possess the item, you know that cantrip. At the end of a long rest, you can replace this with a new item and select a new cantrip from the list. Intelligence is your spellcasting ability for these cantrips.
 
-*Magecraft Cantrip Spell List*
+**Magecraft Cantrip Spell List**
 
 * [balance](../Magic/Spells/balance.md)
 * [blade ward](../Magic/Spells/blade-ward.md)
@@ -40,3 +40,18 @@ The Mark of Making only manifests on humans. If your character has the Mark of M
 
 **Spellsmith**. You can spend one minute to weave a temporary enchantment into a nonmagical suit of armor or weapon. For the next hour the object becomes a magic item, gaining a +1 bonus to AC if it’s armor or a +1 bonus to hit and damage if it’s a weapon. Once you use this trait, you can’t use it again until you finish a long rest.
 
+```
+name = 'Making Dragonmark'
+
+def level0(npc):
+    npc.INT += 1
+    npc.DEX += 1
+
+    npc.traits.append("***Artisan’s Intuition.*** When you make an ability check with artisan’s tools, roll 1d4 and add it to the result.")
+
+    npc.cantripsknown.append("mending")
+
+    npc.traits.append("***Magecraft.*** You can create a temporary magic item out of common materials. Choose a cantrip from the Magecraft Cantrip Spell List. Describe the item connected to it. As long as you possess the item, you know that cantrip. At the end of a long rest, you can replace this with a new item and select a new cantrip from the list. Intelligence is your spellcasting ability for these cantrips.")
+
+    npc.traits.append("***Spellsmith.*** You can spend one minute to weave a temporary enchantment into a nonmagical suit of armor or weapon. For the next hour the object becomes a magic item, gaining a +1 bonus to AC if it’s armor or a +1 bonus to hit and damage if it’s a weapon. Once you use this trait, you can’t use it again until you finish a long rest.")
+```

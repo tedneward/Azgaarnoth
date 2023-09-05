@@ -11,3 +11,18 @@ The Mark of Sentinel only manifests on humans. If your character has the Mark of
 **Sentinel’s Shield**. You know the [blade ward](../Magic/Spells/blade-ward.md) cantrip. You can cast the shield spell once with this trait and you regain ability to do so after you finish a short or long rest.
 
 **Vigilant Guardian**. As an action, you can designate an ally you can see as your ward. You have advantage on Wisdom (Insight) and Wisdom (Perception) checks made to spot threats to your ward. In addition, when you are within 5 feet of your ward, and that creature is the target of an attack that you can see, you can use your reaction to swap places with your ward. When you do, you become the target of the attack.
+
+```
+name = 'Sentinel Dragonmarked'
+def level0(npc):
+    npc.STR += 1
+    npc.WIS += 1
+    npc.abilityscoreimprovement()
+
+    npc.traits.append("***Sentinel’s Intuition.*** When you roll for Initiative or make a Wisdom (Perception) check to notice a threat, you can roll one Intuition die, a d4, and add the number rolled to the ability check.")
+
+    npc.cantripsknown.append('blade ward')
+    npc.actions.append(f"***Sentinel's Shield (Recharges on short or long rest).*** You can cast the {spelllinkify('shield')} spell.")
+
+    npc.actions.append("***Vigilant Guardian. You can designate an ally you can see as your ward. You have advantage on Wisdom (Insight) and Wisdom (Perception) checks made to spot threats to your ward. In addition, when you are within 5 feet of your ward, and that creature is the target of an attack that you can see, you can use your reaction to swap places with your ward. When you do, you become the target of the attack.")
+```
