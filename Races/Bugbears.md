@@ -38,9 +38,9 @@ def level0(npc):
 
     npc.senses['darkvision'] = 60
 
-    npc.trait.append("***Long-Limbed.*** When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.")
+    npc.traits.append("***Long-Limbed.*** When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.")
 
-    npc.trait.append("***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.")
+    npc.traits.append("***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.")
 
     npc.skills.append("Stealth")
 

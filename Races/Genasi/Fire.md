@@ -1,16 +1,6 @@
 # Fire Genasi
 Descended from efreet, the genies of the Elemental Plane of Fire, fire genasi channel the flamboyant and often destructive nature of flame. They show their heritage in their skin tones, which can range from deep charcoal to shades of red and orange. Some bear skin tones common to humanity but with fiery marks, such as slowly swirling lights under their skin that resemble embers or glowing red lines tracing over their bodies like cracks. Fire genasi hair can resemble threads of fire or sooty smoke.
 
-**Ability Score Increase.** When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
-
-**Creature Type.** You are a Humanoid.
-
-**Size.** You are Medium or Small. You choose the size when you select this race.
-
-**Speed.** Your walking speed is 30 feet.
-
-**Darkvision.** You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
-
 **Fire Resistance.** You have resistance to fire damage.
 
 **Reach to the Blaze.** You know the [Produce Flame](../../Magic/Spells/produce-flame.md) cantrip. 
@@ -24,3 +14,21 @@ Once you cast Burning Hands or Flame Blade with this trait, you can’t cast tha
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
 **Languages.** Your character can speak, read, and write Common and Pyro.
+
+```
+name = 'Fire'
+def level0(npc):
+    npc.damageresistances.append('fire')
+
+    npc.blaze = choose("Choose a spellcasting ability: ", ['INT', 'WIS', 'CHA'])
+    npc.cantripsknown.append('produce flame')
+
+    npc.languages.append('Common')
+    npc.languages.append('Pyro')
+
+def level3(npc):
+    npc.actions.append(f"***Reach to the Blaze (Recharges on long rest).*** You can cast {spelllinkify('burning hands')} using {npc.blaze} as your spellcasting ability. You can also use spell slots to cast this.")
+
+def level5(npc):
+    npc.actions.append(f"***Improved Reach to the Blaze (Recharges on long rest).*** You can cast {spelllinkify('burning hands')} using {npc.blaze} as your spellcasting ability. You can also use spell slots to cast this.")
+```

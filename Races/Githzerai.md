@@ -31,11 +31,16 @@ type = 'humanoid'
 
 ```
 def level0(npc):
+    npc.description.append("***Race: Githzerai.*** Githzerai were elves captured by mind flayers. Tortured and experimented on by the illithids, the githzerai later rebelled and won their freedom. These tall, gaunt folk have potent psionic powers and dwell, for the most part, on the Astral Plane.")
+
     npc.WIS += 2
     npc.INT += 1
+    
     npc.speed['walking'] = 30
+
     npc.languages.append('Common')
     npc.languages.append('Gith')
+
     npc.traits.append("***Mental Discipline.*** You have advantage on saving throws against the charmed and frightened conditions.")
     npc.cantripsknown.append('mage hand')
 

@@ -34,18 +34,25 @@ type = 'humanoid'
 
 ```
 def level0(npc):
+    npc.description.append("***Race: Githyanki.*** Githyanki were elves captured by mind flayers. Tortured and experimented on by the illithids, the githyanki later rebelled and won their freedom. These tall, gaunt folk have potent psionic powers and dwell, for the most part, on the Astral Plane.")
+
     npc.STR += 2
     npc.INT += 1
+
     npc.speed['walking'] = 30
+
     npc.languages.append('Common')
     npc.languages.append('Gith')
     npc.languages.append('CHOOSE')
-    skillchoice(npc)
+
+    npc.skillchoice()
+    
     npc.proficiencies.append('Light armor')
     npc.proficiencies.append('Medium armor')
     npc.proficiencies.append('Shortsword')
     npc.proficiencies.append('Longsword')
     npc.proficiencies.append('Greatsword')
+
     npc.cantripsknown.append('mage hand')
 
 def level3(npc):

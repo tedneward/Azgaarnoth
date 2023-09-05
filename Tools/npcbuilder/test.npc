@@ -1,0 +1,48 @@
+# Aasimar
+# Bugbear tests
+Ability Scores,Randomgen,Race,Bugbear,No
+# Centaur tests
+Ability Scores,Randomgen,Race,Centaur,Nature,No
+# Dragonborn
+# Dragonkin
+# Dwarves
+# Elves
+# Githyanki tests
+Ability Scores,Randomgen,Race,Githyanki,Medicine,No
+# Githzerai tests
+Ability Scores,Randomgen,Race,Githzerai,No
+# Genasi tests
+Ability Scores,Randomgen,Race,Genasi,Medium,CHA,CHA,CHA,Air,CHA,Yes,Yes,Yes,Yes,Yes,No
+Ability Scores,Randomgen,Race,Genasi,Medium,CHA,CHA,CHA,Earth,CHA,Yes,Yes,Yes,Yes,Yes,No
+Ability Scores,Randomgen,Race,Genasi,Medium,CHA,CHA,CHA,Fire,CHA,Yes,Yes,Yes,Yes,Yes,No
+Ability Scores,Randomgen,Race,Genasi,Medium,CHA,CHA,CHA,Water,CHA,Yes,Yes,Yes,Yes,Yes,No
+# Gnomes
+# Half-Dragons
+# Half-Elves
+# Half-Ogres
+# Half-Orcs
+# Halflings
+# Hobgoblins
+Ability Scores,Randomgen,Race,Hobgoblin,No
+# Humans
+# Kenku
+Ability Scores,Randomgen,Race,Kenku,No
+# Kobolds
+# Lizardfolk
+# Merfolk
+# Minotaurs
+Ability Scores,Randomgen,Race,Minotaur,No
+# Orc
+# Reborn
+# Sahuagin
+Ability Scores,Randomgen,Race,Sahuagin,No
+# Siren
+Ability Scores,Randomgen,Race,Siren,No
+# Tabaxi
+Ability Scores,Randomgen,Race,Tabaxi,No
+# Tieflings
+# Tortle
+Ability Scores,Randomgen,Race,Tortle,No
+# Triton
+Ability Scores,Randomgen,Race,Triton,No
+# YuanTi

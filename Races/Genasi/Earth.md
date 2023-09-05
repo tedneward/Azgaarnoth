@@ -3,16 +3,6 @@ Tracing their ancestry to dao, the genies of the Elemental Plane of Earth, earth
 
 An earth genasi’s skin can be the colors of stone and earth or a human skin tone with glittering sparkles like gem dust. Some earth genasi have lines marking their skin like cracks, either showing glimmering gemlike veins or a dim, yellowish glow. Earth genasi hair can appear carved of stone or crystal or resemble strands of spun metal.
 
-**Ability Score Increase.** When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
-
-**Creature Type.** You are a Humanoid.
-
-**Size.** You are Medium or Small. You choose the size when you select this race.
-
-**Speed.** Your walking speed is 30 feet.
-
-**Darkvision.** You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
-
 **Earth Walk.** You can move across difficult terrain without expending extra movement if you are using your walking speed on the ground or a floor.
 
 **Merge with Stone.** You know the [Blade Ward](../../Magic/Spells/blade-ward.md) cantrip. You can cast it as normal, and you can also cast it as a bonus action a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.
@@ -20,3 +10,21 @@ Starting at 5th level, you can cast the [Pass Without Trace](../../Magic/Spells/
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
 **Languages.** Your character can speak, read, and write Common and Terran.
+
+```
+name = 'Earth'
+def level0(npc):
+    npc.description.append("***Subrace: Earth.*** Tracing their ancestry to dao, the genies of the Elemental Plane of Earth, earth genasi inherit dao’s steadfast strength and control over earth.")
+
+    npc.traits.append("***Earth Walk.*** You can move across difficult terrain without expending extra movement if you are using your walking speed on the ground or a floor.")
+
+    mergeability = choose("Choose your spellcasting ability for Merge with Stone: ", ['INT', 'WIS', 'CHA'])
+
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Merge with Stone ({npc.proficiencybonus()}/Recharges on long rest).*** You know the {spelllinkify('blade ward')} cantrip. {mergeability} is your spellcasting ability for this."))
+
+    npc.languages.append('Common')
+    npc.languages.append('Terran')
+
+def level5(npc):
+    npc.actions.append(f"***Improved Merge with Stone (Recharges on long rest).*** You can cast {spelllinkify('pass without trace')} spell with this trait, without requiring a material component. You can also cast it using any spell slots you have of 2nd level or higher.")
+```

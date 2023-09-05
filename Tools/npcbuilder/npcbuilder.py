@@ -12,6 +12,7 @@ import types
 
 quiet = False
 verbose = False
+scripted = False
 
 def error(*values):
     print(*values)
@@ -236,6 +237,8 @@ def loadraces():
     racesroot = REPOROOT + 'Races'
     entries = os.listdir(racesroot)
     for f in entries:
+        if f == 'index.md': continue
+
         entryname = racesroot + "/" + f
 
         # Load subraces if they are present
@@ -268,14 +271,31 @@ def loadraces():
 # subclasses: map<string, dict(name, levelX functions)>
 classes = {}
 def loadclasses():
-    directory = REPOROOT + 'Classes'
-    files = os.listdir(directory)
-    for f in files:
-        filename = directory + "/" + f
-        if os.path.isfile(filename) and os.path.splitext(filename)[1] == 'md':
-            module = loadmodule(filename)
-            if module != None:
-                classes[module.name] = module
+    def ismdfile(filepath): 
+        if os.path.isfile(filepath) and os.path.splitext(filepath)[1] == '.md': return True
+        else: return False
+
+    classesroot = REPOROOT + 'Classes'
+    entries = os.listdir(classesroot)
+    for f in entries:
+        entryname = classesroot + "/" + f
+
+        # Load class and subclasses
+        if os.path.isdir(entryname):
+            dirpath = entryname
+            dirname = os.path.basename(dirpath)
+            basemodule = loadmodule(dirpath + "/index.md", dirname)
+            if basemodule != None:
+                subclasses = {}
+                for sf in os.listdir(dirpath):
+                    if ismdfile(dirpath + "/" + sf) and sf != "index.md":
+                        log(f"Parsing {sf}...")
+                        subclassname = os.path.splitext(sf)[0]
+                        subclassmod = loadmodule(dirpath + '/' + sf, basemodule.name + "-" + subclassname)
+                        subclasses[subclassname] = subclassmod
+                setattr(basemodule, "subclasses", subclasses)
+            if basemodule != None:
+                classes[basemodule.name] = basemodule
 
 # Backgrounds....
 #def loadbackgrounds():
@@ -551,11 +571,14 @@ def generatenpc():
             return random.randrange(1,6) + random.randrange(1,6) + random.randrange(1,6)
         def handentry():
             def numberorrandom():
-                maybe = scriptedinput.pop(0).strip()
-                if maybe == "random":
-                    return roll()
+                if len(scriptedinput) > 0:
+                    maybe = scriptedinput.pop(0).strip()
+                    if maybe == "random":
+                        return roll()
+                    else:
+                        return int(maybe)
                 else:
-                    return int(maybe)
+                    return roll()
                 
             npc.STR += numberorrandom()
             npc.DEX += numberorrandom()
@@ -634,20 +657,42 @@ def generatenpc():
         #clsslevel = npc.levels(clss.name) + 1
         #levelinvoke(clss, clsslevel, npc)
 
-        if len(scriptedinput) == 0:
-            levelup = (input("Another level? ") == 'y')
-        else:
-            continue
+        levelup = False if (choose("Another level? ", ['Yes','No']) == 'No') else True
 
     npc.freeze()
     return npc
 
+def process(script):
+    global scripted
+    scripted = True
+
+    scriptfile = open(script, 'r')
+    with scriptfile:
+        alltext = scriptfile.readlines()
+    global scriptedinput
+    for text in alltext:
+        # Let's support comments in the scripted input
+        if text[0] == '#': continue
+
+        scriptedinput += text.split(",")
+
+    with open('output.md', 'w') as outputfile:
+        while len(scriptedinput) > 0:
+            try:
+                npc = generatenpc()
+                outputfile.write(npc.emitMD())
+                outputfile.write("---\n\n")
+            except Exception:
+                print("Exception!")
+
 def main():
     global verbose
     global quiet
+    global scripted
 
-    global races
-    global classes
+    loadraces()
+    loadclasses()
+    #loadbackgrounds()
 
     parser = argparse.ArgumentParser(
         prog='NPCBuilder',
@@ -655,7 +700,8 @@ def main():
 	)
     parser.add_argument('--verbose', choices=['quiet', 'verbose'])
     parser.add_argument('--version', action='version', version='%(prog)s 0.0')
-    parser.add_argument('--input FILENAME', help='File to use for scripted input')
+    parser.add_argument('scripts', type=process, nargs='?',
+                    help='Generate an NPC from script rather than interactively')
     args = parser.parse_args()
 
     # Logging off, on, or a lot?
@@ -665,12 +711,9 @@ def main():
         elif args.verbose == 'quiet':
             quiet = True
 
-    loadraces()
-    loadclasses()
-    #loadbackgrounds()
-
-    npc = generatenpc()
-    print(npc.emitMD())
+    if not scripted:
+        npc = generatenpc()
+        print(npc.emitMD())
 
 if __name__ == '__main__':
 	main()
