@@ -189,7 +189,6 @@ traits = {
 def loadmodule(filename, modulename=None):
     def parsemd(mdfilename):
         pythoncode = ""
-        print("Parsing " + mdfilename)
         with open(mdfilename) as mdfile:
             lines = mdfile.readlines()
             codeblock = False
@@ -202,7 +201,6 @@ def loadmodule(filename, modulename=None):
                     pythoncode += line
 
         if SAVEPY != None and SAVEPY in mdfilename:
-            print("Saving parsed Python....")
             with open('./Python/' + os.path.basename(mdfilename) + '.py', 'w') as pyfile:
                 pyfile.write(pythoncode)
         return pythoncode
@@ -638,9 +636,7 @@ def generatenpc():
 
     def levelinvoke(module, level, npc):
         levelfn = getattr(module, 'level' + str(level), None)
-        print(f"Looking for level{level} in {module}...")
-        if levelfn != None: 
-            levelfn(npc)
+        if levelfn != None: levelfn(npc)
 
     def selectabilities():
         def roll():
@@ -730,8 +726,7 @@ def generatenpc():
         clss = choose("Choose class:", classes)[1]
         npc.classes.append(clss)
         clsslevel = npc.levels(clss)
-        # Every class should have an "everylevel(npc)" function
-        print(npc.classes)
+        # Every class should have an "everylevel(npc)" function, so crash if its not there
         (getattr(clss, 'everylevel', None))(npc)
         levelinvoke(clss, clsslevel, npc)
 
@@ -782,7 +777,7 @@ def main():
     global quiet
     global scripted
 
-    #loadraces()
+    loadraces()
     loadclasses()
     #loadbackgrounds()
 
