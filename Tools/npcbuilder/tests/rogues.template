@@ -1,6 +1,5 @@
-# Class and level 1
-Rogue,Acrobatics,Athletics,Deception,Insight,Acrobatics,Athletics,Yes
-# Class level 2
-Rogue,Yes
-# Class 3
-Rogue,Assassin,Yes
+# Assassin 3
+Rogue,Acrobatics,Athletics,Deception,Insight,Acrobatics,Athletics,Yes,Rogue,Yes,Rogue,Assassin,No
+
+# Divine Agent 3
+Rogue,Acrobatics,Athletics,Deception,Insight,Acrobatics,Athletics,Yes,Rogue,Yes,Rogue,Divine Agent,No

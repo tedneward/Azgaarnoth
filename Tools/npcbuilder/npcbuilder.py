@@ -206,7 +206,11 @@ def loadmodule(filename, modulename=None):
         return pythoncode
 
     def builddict(module):
+        global classes
+        global races
         builtins = {
+            "classes": classes,
+            "races": races,
             "traits": traits,
             "spelllinkify": spelllinkify,
             "choose": choose,
@@ -332,10 +336,13 @@ class NPC:
             self.npc = npc
             self.ability = ability
             self.cantripsknown = []
-            self.maxspellsknown = 0
+            self.maxcantripsknown = 0
             self.spells = { 1: [], 2: [], 3: [], 4: [], 5: [], 6: [], 7: [], 8: [], 9: [] }
+            self.maxspellsknown = 0
             self.slots = []
-        
+
+            self.table = {}
+
         def spellsavedc(self):
             return 8 + self.npc.proficiencybonus() + (self.npc.abilitybonus(self.ability))
 
@@ -659,6 +666,8 @@ class NPC:
         if len(self.spellcasting.keys()) > 0:
             for (source, details) in self.spellcasting.items():
                 text = f">***{source} Spellcasting ({details.ability.title()}).*** "
+                if details.maxcantripsknown > 0:
+                    text += f"{details.maxcantripsknown} cantrips known. "
                 if details.maxspellsknown > 0:
                     text += f"{details.maxspellsknown} spells known. "
                 text += f"Spell save DC: {details.spellsavedc()}, Spell attack bonus: {details.spellattack()}\n"

@@ -15,7 +15,7 @@ As a bright elf, your body and soul are infused with light. A bright elf's skin 
 name = 'Bright'
 def level0(npc):
     npc.type += "/celestial"
-    npc.description.append("***Subrace: Bright Elf.*** The bright elves are one of the oldest subraces of elves. Due to their long years of close association with the Eldar they have an innate connection to the celestial light and song of creation. They are more lawful than other elven societies, and they value obedience as well as conformity. Many bright elves believe themselves to be the purest and most original form of elf, and see other elven subraces as little better than non-elves, but others among their ranks  are more accepting, often chiding their haughtier peers and worrying that such thinking is what led to the Fall.\nAs a bright elf, your body and soul are infused with light. A bright elf's skin is bronze, silvery, pearly, or pale white, and their hair is golden blond, platinum blond, or silvery white. Their eyes are usually golden or silvery gray, with streaks of white radiating from their pupils like a starburst.")
+    npc.description.append("***Subrace: Bright Elf.*** As a bright elf, your body and soul are infused with light. A bright elf's skin is bronze, silvery, pearly, or pale white, and their hair is golden blond, platinum blond, or silvery white. Their eyes are usually golden or silvery gray, with streaks of white radiating from their pupils like a starburst.")
 
     asi = choose("Choose an ability score increase:", ['STR', 'CON', 'INT', 'WIS', 'CHA'])
     match asi:

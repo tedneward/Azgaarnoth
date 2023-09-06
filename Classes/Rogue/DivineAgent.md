@@ -72,17 +72,53 @@ spellcastingtable = {
 }
 def level3(npc):
     spellcasting = npc.newspellcasting(name, 'WIS')
-
     npc.spellcasting[name].cantripsknown.append("guidance")
-    spellcasting.cantripsknown.append("CHOOSE-Cleric")
-    spellcasting.cantripsknown.append("CHOOSE-Cleric")
+    npc.spellcasting[name].maxcantripsknown = 3
 
-    spellcasting.spellsknown.append("CHOOSE-Cleric")
-    spellcasting.spellsknown.append("CHOOSE-ClericDviniationAbjuration")
-    spellcasting.spellsknown.append("CHOOSE-ClericDviniationAbjuration")
+    npc.spellcasting[name].maxspellsknown = 3
+    npc.spellcasting[name].spells[1].append("CHOOSE-ClericDviniationAbjuration")
+    npc.spellcasting[name].spells[1].append("CHOOSE-ClericDviniationAbjuration")
+
+    npc.spellcasting[name].slots = [ 2 ]
+
+    choose("Choose a domain: ", classes)
+
+def level4(npc):
+    npc.spellcasting[name].maxspellsknown = 4
+    npc.spellcasting[name].slots = [ 3 ]
+
+def level7(npc):
+    npc.spellcasting[name].maxspellsknown = 5
+    npc.spellcasting[name].slots = [ 4, 2 ]
+
+def level8(npc):
+    npc.spellcasting[name].maxspellsknown = 6
 
 def level10(npc):
-    npc.spellcasting[name].cantripsknown.append("CHOOSE-Cleric")
+    npc.spellcasting[name].maxcantripsknown = 4
+    npc.spellcasting[name].maxspellsknown = 7
+    npc.spellcasting[name].slots = [ 4, 3 ]
+
+def level11(npc):
+    npc.spellcasting[name].maxspellsknown = 8
+
+def level13(npc):
+    npc.spellcasting[name].maxspellsknown = 9
+    npc.spellcasting[name].slots = [ 4, 3, 2 ]
+
+def level14(npc):
+    npc.spellcasting[name].maxspellsknown = 10
+
+def level16(npc):
+    npc.spellcasting[name].maxspellsknown = 11
+    npc.spellcasting[name].slots = [ 4, 3, 3 ]
+
+def level19(npc):
+    npc.spellcasting[name].maxspellsknown = 12
+    npc.spellcasting[name].slots = [ 4, 3, 3, 1 ]
+
+def level14(npc):
+    npc.spellcasting[name].maxspellsknown = 13
 ```
 
 ## Agent of the Divines
