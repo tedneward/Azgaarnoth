@@ -2,7 +2,7 @@
 The archetypal scout excels at finding safe passage through dangerous regions. Scouts usually favor light armor and ranged weapons, but they are comfortable using heavier gear when faced with intense fighting.
 
 ## Bonus Proficiencies
-When you choose this archetype at 3rd level, you gain proficiency in three of the following skills of your choice: Acrobatics, Athletics, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You can choose to gain proficiency with thieves’ tools in place of one skill choice.
+When you choose this archetype at 3rd level, you gain proficiency in three of the following skills of your choice: Acrobatics, Athletics, Investigation, Medicine, Nature, Perception, Stealth, or Survival. You can choose to gain proficiency with thieves' tools in place of one skill choice.
 
 ## Combat Superiority
 At 3rd level, you gain a set of abilities that are fueled by special dice called superiority dice.
@@ -17,7 +17,7 @@ Using Superiority Dice. You can expend superiority dice to gain a number of diff
 
 * **Precision Attack**. When you make a weapon attack against a creature, you can expend one superiority die to add it to the attack roll. You can use this ability before or after making the attack roll, but before any of the effects of the attack are applied.
 
-* **Scout’s Evasion**. If you are hit by an attack while wearing light or medium armor, you can expend one superiority die as a reaction, adding the number rolled to your AC. If the attack still hits, you take half damage from it.
+* **Scout's Evasion**. If you are hit by an attack while wearing light or medium armor, you can expend one superiority die as a reaction, adding the number rolled to your AC. If the attack still hits, you take half damage from it.
 
 ## Natural Explorer
 At 3rd level, you are a master of navigating the natural world, and you react with swift and decisive action when attacked. This grants you the following benefits:
@@ -30,9 +30,9 @@ At 3rd level, you are a master of navigating the natural world, and you react wi
 
 In addition, you are skilled at navigating the wilderness. You gain the following benefits when traveling for an hour or more:
 
-* Difficult terrain doesn’t slow your group’s travel.
+* Difficult terrain doesn't slow your group's travel.
 
-* Your group can’t become lost except by magical means.
+* Your group can't become lost except by magical means.
 
 * Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger. You always have advantage on Perception checks when attempting to perceive danger.
 

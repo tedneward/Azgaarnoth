@@ -15,7 +15,7 @@ Beginning at 6th level, you can burst into water then materialize somewhere else
 ## Manifestations of the Deep
 At 10th level, you can manifest additional adaptations of the deep. Select one of the below adaptations you manifest, during a long rest you may replace your chosen manifestation with a new option from this list.
 
-***Eyes of the Deep*** You gain the ability to use echolocation. When you do so, you cast the true seeing spell, without using a spell slot or material components. After you cast a spell in this way, you can’t use this feature again until you finish a short or long rest.
+***Eyes of the Deep*** You gain the ability to use echolocation. When you do so, you cast the true seeing spell, without using a spell slot or material components. After you cast a spell in this way, you can't use this feature again until you finish a short or long rest.
 
 ***Arms of the Deep*** While raging, you now manifest two magical appendages, which may be tentacles, chains and anchors, animated rigging, or another grasping arm of your choice. When you use your dredge line ability, you can attempt a grapple with each of your appendages.
 

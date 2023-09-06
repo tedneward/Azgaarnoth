@@ -15,18 +15,18 @@ At 2nd level, you gain proficiency with two tools of your choice.
 ## Arcanomechanical Armor
 Innovation is a dangerous practice, at least as far as members of this school practice it. As a shield against this risk, you have developed a suit of arcane armor.
 
-Starting at 2nd level, you gain proficiency with light armor and gain a suit of arcanomechanical armor—-a magic item that only you can attune to. While you are attuned to it and wearing it, it grants you resistance to force damage.
+Starting at 2nd level, you gain proficiency with light armor and gain a suit of arcanomechanical armor---a magic item that only you can attune to. While you are attuned to it and wearing it, it grants you resistance to force damage.
 
 The armor is light armor and provides an AC of 12 + your Dexterity modifier. It weighs 8 pounds.
 
 You can create a new suit of it at the end of a long rest by touching a nonmagical suit of studded leather armor, which magically transforms it. Doing so removes the magic from your previous arcanomechanical armor, turning it into nonmagical studded leather.
 
 ## Reckless Casting
-Starting at 2nd level, you can attempt to cast a spell you don’t have prepared. When you use this ability, you use your action and choose one of the following options:
+Starting at 2nd level, you can attempt to cast a spell you don't have prepared. When you use this ability, you use your action and choose one of the following options:
 * Roll on the Reckless Casting table for cantrips and cast the resulting spell as part of this action.
 * Expend a spell slot and roll twice on the Reckless Casting table for its level, or the 5th- level table if the slot is 6th level or higher. Pick which of the two results you want to use and cast the resulting spell as part of this action.
 
-If the spell you cast isn’t a wizard spell, it is nonetheless a wizard spell for you when you cast it with this feature.
+If the spell you cast isn't a wizard spell, it is nonetheless a wizard spell for you when you cast it with this feature.
 
 **Reckless Casting**
 d10 | Cantrip
@@ -63,7 +63,7 @@ d10 | 2nd-Level Spell
 4 | [gust of wind](https://www.dndbeyond.com/spells/gust-of-wind)
 5 | [invisibility](https://www.dndbeyond.com/spells/invisibility)
 6 | [levitate](https://www.dndbeyond.com/spells/levitate)
-7 | [Melf’s acid arrow](https://www.dndbeyond.com/spells/melfs-acid-arrow)
+7 | [Melf's acid arrow](https://www.dndbeyond.com/spells/melfs-acid-arrow)
 8 | [scorching ray](https://www.dndbeyond.com/spells/scorching-ray)
 9 | [shatter](https://www.dndbeyond.com/spells/shatter)
 10 | Roll twice and cast each spell, but if you roll another 10 on either die, you cast nothing, wasting your action but not the spell slot.
@@ -85,7 +85,7 @@ d10 | 4th-Level Spell
 --- | -------
 1 |[blight](https://www.dndbeyond.com/spells/blight)
 2 |[confusion](https://www.dndbeyond.com/spells/confusion)
-3 |[Evard’s black tentacles](https://www.dndbeyond.com/spells/evards-black-tentacles)
+3 |[Evard's black tentacles](https://www.dndbeyond.com/spells/evards-black-tentacles)
 4 |[fire shield](https://www.dndbeyond.com/spells/fire-shield)
 5 |[greater invisibility](https://www.dndbeyond.com/spells/greater-invisibility)
 6 |[ice storm](https://www.dndbeyond.com/spells/ice-storm)
@@ -110,12 +110,12 @@ d10 | 5th-Level Spell
 ## Alchemical Casting
 At 6th level, you learn to channel magic through your arcanomechanical armor to augment spells in a variety of ways. When you cast a spell while wearing that armor and attuned to it, you can expend one additional spell slot of 1st or 2nd level to alter the spell. The effect depends on the spell slot you expend.
 
-A 1st-level slot allows you to manipulate the spell’s energy. When you cast a spell that deals acid, cold, fire, lightning, or thunder damage, you can substitute that damage type for another one from that list.
+A 1st-level slot allows you to manipulate the spell's energy. When you cast a spell that deals acid, cold, fire, lightning, or thunder damage, you can substitute that damage type for another one from that list.
 
-A 2nd-level slot increases the spell’s raw force. If you roll damage for the spell when you cast it, increase that damage by 2d10 force damage against one of the spell’s targets (your choice) this turn.
+A 2nd-level slot increases the spell's raw force. If you roll damage for the spell when you cast it, increase that damage by 2d10 force damage against one of the spell's targets (your choice) this turn.
 
 ## Prodigious Inspiration
-At 10th level, you have attained a greater mastery of spell preparation. As a bonus action, you can replace one spell you have prepared with another spell from your spellbook. You can’t use this ability again until you finish a short or long rest.
+At 10th level, you have attained a greater mastery of spell preparation. As a bonus action, you can replace one spell you have prepared with another spell from your spellbook. You can't use this ability again until you finish a short or long rest.
 
 ## Controlled Chaos
 At 14th level, your ability to improvise magic grows stronger. Whenever you roll on a Reckless Casting table for a spell other than a cantrip, you can roll on the table that is one level higher than the expended spell slot.

@@ -1,7 +1,7 @@
 # Martial Archetype: Weapon Master
 The Weapon Master devotes their training to a single weapon to the exclusion of all others. This signature weapon becomes an extension of their mind, body, and spirit, a true part of their soul.
 
-Once the Weapon Master enters combat, their absolute dedication to their signature weapon becomes apparent to enemies and allies alike. Weapon Master and weapon cease to be distinct, separate entities. They bond, becoming a single—and unstoppable—instrument of death.
+Once the Weapon Master enters combat, their absolute dedication to their signature weapon becomes apparent to enemies and allies alike. Weapon Master and weapon cease to be distinct, separate entities. They bond, becoming a single--and unstoppable--instrument of death.
 
 ## Signature Weapon
 At 3rd level, you forego the use of all other weapons, choosing one weapon as your signature martial focus. Add half your proficiency bonus to all attack rolls with your signature weapon.

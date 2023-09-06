@@ -33,7 +33,7 @@ The force disciplines are presented in alphabetical order. If a discipline requi
 
 **Constricting Grasp (6th Level Required).** You can spend 3 ki points to cast [hold person](../../Magic/Spells/hold-person.md).
 
-**Empowered Weapon.** As a bonus action, you can expend 2 ki points to channel the binding force into one monk weapon you’re holding. For the next 1 minute, you deal an extra 1d6 radiant damage to any target you hit with the weapon. If the weapon isn’t magical, it becomes a magic weapon for the spell’s duration.
+**Empowered Weapon.** As a bonus action, you can expend 2 ki points to channel the binding force into one monk weapon you're holding. For the next 1 minute, you deal an extra 1d6 radiant damage to any target you hit with the weapon. If the weapon isn't magical, it becomes a magic weapon for the spell's duration.
 
 **Extraordinary Speed (11th Level Required).** You can spend 4 ki points to cast [haste](../../Magic/Spells/haste.md), targeting yourself.
 
@@ -44,7 +44,7 @@ The force disciplines are presented in alphabetical order. If a discipline requi
 **Forceful Abilities.** You can use your action and your understanding of the binding force to create one of the following effects at a point you can see within range:
 
 * One Medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.
-* You create a small blast of force capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn’t pushed with enough force to cause damage.
+* You create a small blast of force capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn't pushed with enough force to cause damage.
 * You create a harmless sensory affect, such as causing leaves to rustle, shutters to slam shut, or your clothing to ripple.
 
 **Forceful Pull.** You can spend 2 ki points as an action to use an unseen wave of force to pull a creature either toward you or to the ground. A creature that you can see within 30 feet of you must make a Strength saving throw. On a failed save the creature takes 3d10 force damage, plus an extra 1d10 force damage for each additional ki point you spend, and you can either knock the target prone or pull it up to 25 feet away toward you. On a successful save, the creature takes half as much damage and you don't push it or knock it prone.

@@ -1,8 +1,8 @@
 # Monastic Tradition: Way of the Soul Knife
-Monks of the Way of the Soul Knife are deadly assassins and bounty hunters. They use their psionic talents to manifest psychic blades that tear through their enemies’ bodies and auras. Their talents extend beyond combat, as their ability to perceive auras allows them to track down foes and see through their deceptions.
+Monks of the Way of the Soul Knife are deadly assassins and bounty hunters. They use their psionic talents to manifest psychic blades that tear through their enemies' bodies and auras. Their talents extend beyond combat, as their ability to perceive auras allows them to track down foes and see through their deceptions.
 
 ## Soul Knives
-Starting when you choose this tradition at 3rd level, you can use your psionic energy to manifest blades that disrupt your foes’ minds.
+Starting when you choose this tradition at 3rd level, you can use your psionic energy to manifest blades that disrupt your foes' minds.
 
 Your unarmed strikes deal your choice of psychic, piercing, slashing, or bludgeoning damage each time you hit.
 
@@ -26,7 +26,7 @@ Whenever you hit a creature with one of the attacks granted by your Flurry of Bl
 ## Aura Sight
 At 6th level, you gain the ability to perceive the auras of other creatures.
 
-As an action, select a creature that you can see. That creature makes a Wisdom saving throw, though it has no knowledge that you forced it to attempt this saving throw. On a failed save, you learn if the creature shares any aspects of its alignment with you, its current hit points, and its current attitude and intentions toward you or one other creature, object, or location of your choice. In addition, for the next 24 hours or until you use this ability again, you can use an action to determine the creature’s distance and direction from you.
+As an action, select a creature that you can see. That creature makes a Wisdom saving throw, though it has no knowledge that you forced it to attempt this saving throw. On a failed save, you learn if the creature shares any aspects of its alignment with you, its current hit points, and its current attitude and intentions toward you or one other creature, object, or location of your choice. In addition, for the next 24 hours or until you use this ability again, you can use an action to determine the creature's distance and direction from you.
 
 If a creature succeeds on its saving throw against this ability, you cannot use this ability against that creature again until you complete a long rest.
 

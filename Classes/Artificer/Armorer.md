@@ -1,13 +1,13 @@
 # Artificer Specialist: Armorer
-An artificer who specializes as an Armorer modifies armor to function almost like a second skin. The armor is enhanced to hone the artificer’s magic, unleash potent attacks, and generate a formidable defense. The artificer bonds with this armor, becoming one with it even as they experiment with it and refine its magical capabilities.
+An artificer who specializes as an Armorer modifies armor to function almost like a second skin. The armor is enhanced to hone the artificer's magic, unleash potent attacks, and generate a formidable defense. The artificer bonds with this armor, becoming one with it even as they experiment with it and refine its magical capabilities.
 
 ## Tools of the Trade
-By the time you adopt this specialty at 3rd level, you’re deeply familiar with employing its tools.
+By the time you adopt this specialty at 3rd level, you're deeply familiar with employing its tools.
 
-You gain proficiency with heavy armor. You also gain proficiency with smith’s tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan’s tools of your choice.
+You gain proficiency with heavy armor. You also gain proficiency with smith's tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice.
 
 ## Armorer Spells
-You always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table. These spells count as artificer spells for you, but they don’t count against the number of artificer spells you prepare.
+You always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
 
 **Armorer Spells**
 
@@ -20,13 +20,13 @@ Artificer Level | Spell
 17th | [passwall](../../Magic/Spells/passwall.md), [wall of force](../../Magic/Spells/wall-of-force.md)
 
 ## Power Armor
-By the time you adopt this speciality at 3rd level, your metallurgical pursuits have led to you making armor a conduit for your artificer magic. As an action, you can turn a suit of heavy armor you are wearing into power armor, provided you have smith’s tools in hand.
+By the time you adopt this speciality at 3rd level, your metallurgical pursuits have led to you making armor a conduit for your artificer magic. As an action, you can turn a suit of heavy armor you are wearing into power armor, provided you have smith's tools in hand.
 
 You gain the following benefits while wearing the power armor:
 
 * If the armor normally has a Strength requirement, the power armor lacks this requirement for you.
 * You can use the power armor as a spellcasting focus for your artificer spells.
-* The power armor attaches to you and can’t be removed against your will. It also expands to cover your entire body, and it replaces any missing limbs, functioning identically to a body part it is replacing.
+* The power armor attaches to you and can't be removed against your will. It also expands to cover your entire body, and it replaces any missing limbs, functioning identically to a body part it is replacing.
 
 The armor continues to be power armor until you doff it, you don another suit of armor, or you die.
 
@@ -35,7 +35,7 @@ You can customize your power armor. When you do so, choose one of the following 
 
 Each model includes a special weapon. When you attack with that weapon, you can use your Intelligence modifier, instead of Strength or Dexterity, for the attack and damage rolls.
 
-You can change your power armor’s model whenever you finish a short or long rest, provided you have smith’s tools in hand.
+You can change your power armor's model whenever you finish a short or long rest, provided you have smith's tools in hand.
 
 * ***Guardian.*** You design your armor to be in the frontline of conflict. It has the following features:
 
@@ -49,7 +49,7 @@ You can change your power armor’s model whenever you finish a short or long re
 
   * **Powered Steps**. Your walking speed increases by 5 feet.
 
-  * **Second Skin**. The armor’s weight is negligible, and it becomes formfitting and wearable under clothing. If the armor normally imposes disadvantage on Dexterity (Stealth) checks, the power armor doesn’t.
+  * **Second Skin**. The armor's weight is negligible, and it becomes formfitting and wearable under clothing. If the armor normally imposes disadvantage on Dexterity (Stealth) checks, the power armor doesn't.
 
 ## Extra Attack
 Once you reach 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.

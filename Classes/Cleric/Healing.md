@@ -19,7 +19,7 @@ Whenever you use a spell to restore hit points to a creature, the creature regai
 
 If you've selected proficiency in Medicine, you gain Expertise in this field.
 
-In addition, you learn the spare the dying cantrip, which doesn’t count against the number of cleric cantrips you know. 
+In addition, you learn the spare the dying cantrip, which doesn't count against the number of cleric cantrips you know. 
 
 ## Channel Divinity: Preventative Measures
 Starting at 2nd level, you can use your Channel Divinity to protect others from potential threats. Choose an ally within 30 feet of yourself to be granted immunity to poison, diseases and curses for a total of 1 minute.

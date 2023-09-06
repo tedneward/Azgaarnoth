@@ -9,8 +9,8 @@ d6|Origin
 --|------
 1 |You found that you are the ancient offspring of a dragonmarked individual of power, and that discovery connected you to the draconic power flowing within you.
 2 |You received a blessing at the hand of an Ascendant Dragon monk as a child, and that blessing took root in you and grew.
-3 |You studied at a monastery that traces its teachings back centuries or more to a single dragon’s instruction.
-4 |You spent long stretches meditating in the ruin of an ancient dragon’s lair, absorbing its ambient magic.
+3 |You studied at a monastery that traces its teachings back centuries or more to a single dragon's instruction.
+4 |You spent long stretches meditating in the ruin of an ancient dragon's lair, absorbing its ambient magic.
 5 |You found a scroll written in Draconic that contained inspiring new techniques.
 6 |After a dream that featured a five-handed dragonborn you awoke with altered ki, reflecting the breaths of dragons.
 
@@ -21,11 +21,11 @@ This Tradition is mostly closely aligned with the [Knights of the Draconic Order
 ## Draconic Disciple
 *3rd-level Way of the Ascendant Dragon feature*
 
-You can channel your draconic ki to imbue your unarmed strikes with the essence of a dragon’s breath and to use your connection with draconic creatures to magnify your presence. You gain the following benefits:
+You can channel your draconic ki to imbue your unarmed strikes with the essence of a dragon's breath and to use your connection with draconic creatures to magnify your presence. You gain the following benefits:
 
 * When you damage a target with an unarmed strike, you can change the damage type to acid, cold, fire, lightning, or poison.
-* If you can’t already, you learn to speak, read, and write Draconic.
-* If you fail a Charisma (Intimidation) or Charisma (Persuasion) check, you can use your reaction to reroll the check, as you tap into the mighty presence of dragons. Once this feature turns a failure into a success, you can’t use it again until you finish a long rest.
+* If you can't already, you learn to speak, read, and write Draconic.
+* If you fail a Charisma (Intimidation) or Charisma (Persuasion) check, you can use your reaction to reroll the check, as you tap into the mighty presence of dragons. Once this feature turns a failure into a success, you can't use it again until you finish a long rest.
 
 ## Breath of the Dragon
 *3rd-level Way of the Ascendant Dragon feature*
@@ -50,7 +50,7 @@ The power of your draconic ki now radiates from you, protecting your allies from
 
 * Waves of destructive energy flow out from you and your allies when any of you are attacked. When you or one of your allies in the aura is hit by an attack made by another creature within the aura, the target that was hit can use their reaction to deal an amount of damage of the chosen type equal to one roll of your Martial Arts die to the attacker. 
 
-Once you use this bonus action, you can’t use it
+Once you use this bonus action, you can't use it
 again until you finish a long rest, unless you
 expend 4 ki points to use it again.
 
@@ -59,8 +59,8 @@ expend 4 ki points to use it again.
 
 Your draconic ki reaches its peak. You gain the following benefits:
 
-* You gain blindsight out to 30 feet. Within that range, you can effectively see anything that isn’t behind total cover, even if you’re blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
+* You gain blindsight out to 30 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
 
-* When you damage a creature with your Breath of the Dragon, the energy clings to the target. At the start of each of the creature’s turns, it takes damage of the type your breath dealt equal to one roll of your Martial Arts die. At the end of its turn, the creature can repeat the save, ending the effect on itself on a success.
+* When you damage a creature with your Breath of the Dragon, the energy clings to the target. At the start of each of the creature's turns, it takes damage of the type your breath dealt equal to one roll of your Martial Arts die. At the end of its turn, the creature can repeat the save, ending the effect on itself on a success.
 
 * When you activate your Aspect of the Wyrm, draconic fury explodes from you. Choose any number of creatures you can see within your aura. Those creatures each take 4d10 acid, cold, fire, lightning, or poison damage (your choice). 

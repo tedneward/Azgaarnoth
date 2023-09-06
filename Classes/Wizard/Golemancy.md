@@ -1,8 +1,8 @@
 # Arcane Tradition: Golemancy
-You focus your studies on the construction of artificial life, the fabled [golem](/Creatures/Golem.md). These constructs have a long history associated with wizards, serving as laboratory assistants, objects of experimentation, and implacable guardians capable of enduring withering eons—and sometimes, literally, hellish conditions. Golems represent arcane knowledge given form; imbuing material matter with magic, giving it immense strength and inexorable locomotion, while remaining fully under the wizard’s control.
+You focus your studies on the construction of artificial life, the fabled [golem](/Creatures/Golem.md). These constructs have a long history associated with wizards, serving as laboratory assistants, objects of experimentation, and implacable guardians capable of enduring withering eons--and sometimes, literally, hellish conditions. Golems represent arcane knowledge given form; imbuing material matter with magic, giving it immense strength and inexorable locomotion, while remaining fully under the wizard's control.
 
 ## The Basics of Crafting
-When you choose this school at 2nd level, you gain proficiency with mason’s tools, smith’s tools, and woodcarver's tools, representing the three primary materials golems are crafted from, and the mending cantrip, which does not count against your maxiumum cantrips known.
+When you choose this school at 2nd level, you gain proficiency with mason's tools, smith's tools, and woodcarver's tools, representing the three primary materials golems are crafted from, and the mending cantrip, which does not count against your maxiumum cantrips known.
 
 ## Prototype Golem
 Beginning at 2nd Level, you can craft a basic, though unadvanced, construct.
@@ -13,7 +13,7 @@ The golem is friendly to you and your companions. Roll initiative for the constr
 
 Your golem gains one level (and one Hit Die) for each level you gain after 2nd. Its profi ciency bonus equals your profi ciency bonus. Whenever your class grants you the Ability Score Increase feature, your golem can increase one of its ability scores (your choice) by 2, or it can increase two of its ability scores (your choice) by 1.
 
-The mending cantrip restores 5 hit points to the golem. If your construct is reduced to zero hit points, it collapses, unable to be restored by the cantrip. The golem can only be repaired after spending a long rest using either mason’s tools, smith’s tools, or woodcarver's tools, and expending a 1st level spell slot to reactivate it.
+The mending cantrip restores 5 hit points to the golem. If your construct is reduced to zero hit points, it collapses, unable to be restored by the cantrip. The golem can only be repaired after spending a long rest using either mason's tools, smith's tools, or woodcarver's tools, and expending a 1st level spell slot to reactivate it.
 
 ## Advanced Programming
 Beginning at 6th level, your golem adds its profi ciency bonus to its AC and to its damage rolls. Your golem gains proficiency in two skills of your choice. It also becomes profi cient in Strength and Constitution saving throws.

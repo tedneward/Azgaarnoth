@@ -1,5 +1,5 @@
 # Primal Path: Path of the Rage Mage
-Barbarians are often thought of as warriors, but the key element to a barbarian is rage; some use it to fuel their sword swings, where others tap into it to channel lightning. The rage mage makes for an interesting case, since her approach to magic is based on the primal passion of magic more than the studious quasi-scientific approach. A rage mage raises fascinating questions on the true nature of magic and magic use. But don’t ask the rage mage to answer those questions herself - she’s not interested in the "why", only the results.
+Barbarians are often thought of as warriors, but the key element to a barbarian is rage; some use it to fuel their sword swings, where others tap into it to channel lightning. The rage mage makes for an interesting case, since her approach to magic is based on the primal passion of magic more than the studious quasi-scientific approach. A rage mage raises fascinating questions on the true nature of magic and magic use. But don't ask the rage mage to answer those questions herself - she's not interested in the "why", only the results.
 
 A rage mage taps into the primal essence of magic, using her own natural anger and frenzy to channel the arcane power in flashy, flamboyant ways. Like any barbarian, a rage mage is often the product of a less civilized society. A rage mage is not necessarily stupid, however, and should be feared for it.
 
@@ -61,7 +61,7 @@ At 3rd level, you learn a ritual that creates a magical bond between yourself an
 Once you have bonded a weapon to yourself, you can use the weapon as a spellcasting focus for your spells you cast using Font of Fury, and if the weapon wasn't magical before, the weapon counts as magical for the purpose of bypassing damage resistance or immunity against nonmagical weapon damage.
 
 ## Uncanny Adept
-Starting at 6th level, you can add half your proficiency bonus (round up) to any Intelligence, Wisdom, or Charisma check you make that doesn’t already use your proficiency bonus.
+Starting at 6th level, you can add half your proficiency bonus (round up) to any Intelligence, Wisdom, or Charisma check you make that doesn't already use your proficiency bonus.
 
 In addition, when you cast a spell that deals acid, cold, fire, lightning, or thunder damage while raging, you gain resistance to that damage for 1d4 rounds.
 

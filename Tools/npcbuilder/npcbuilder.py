@@ -189,6 +189,7 @@ traits = {
 def loadmodule(filename, modulename=None):
     def parsemd(mdfilename):
         pythoncode = ""
+        print("Parsing " + mdfilename)
         with open(mdfilename) as mdfile:
             lines = mdfile.readlines()
             codeblock = False
@@ -298,15 +299,18 @@ def loadclasses():
     for f in entries:
         entryname = classesroot + "/" + f
 
+        excludedentries = [ 'Prestige' ]
+
         # Load class and subclasses
-        if os.path.isdir(entryname):
+        if os.path.isdir(entryname) and (os.path.basename(entryname) not in excludedentries):
             dirpath = entryname
             dirname = os.path.basename(dirpath)
             basemodule = loadmodule(dirpath + "/index.md", dirname)
             if basemodule != None:
                 subclasses = {}
+                excludedmds = [ 'index.md', 'SpellList.md', 'Infusions.md', 'Invocations.md', 'Talents.md' ]
                 for sf in os.listdir(dirpath):
-                    if ismdfile(dirpath + "/" + sf) and sf != "index.md":
+                    if ismdfile(dirpath + "/" + sf) and (sf not in excludedmds):
                         log(f"Parsing {sf}...")
                         subclassname = os.path.splitext(sf)[0]
                         subclassmod = loadmodule(dirpath + '/' + sf, basemodule.name + "-" + subclassname)
@@ -778,7 +782,7 @@ def main():
     global quiet
     global scripted
 
-    loadraces()
+    #loadraces()
     loadclasses()
     #loadbackgrounds()
 

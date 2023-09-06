@@ -25,27 +25,27 @@ Whenever you gain a level in this class, you can replace one of the cleric spell
 **Divine Agent Spellcasting**
 Rogue Level | Cantrips Known | Spells Known | 1st|2nd|3rd|4th
 ------------|----------------|--------------|----|---|---|---
-3rd|3|3|2|—|—|—
-4th|3|4|3|—|—|—
-5th|3|4|3|—|—|—
-6th|3|4|3|—|—|—
-7th|3|5|4|2|—|—
-8th|3|6|4|2|—|—
-9th|3|6|4|2|—|—
-10th|4|7|4|3|—|—
-11th|4|8|4|3|—|—
-12th|4|8|4|3|—|—
-13th|4|9|4|3|2|—
-14th|4|10|4|3|2|—
-15th|4|10|4|3|2|—
-16th|4|11|4|3|3|—
-17th|4|11|4|3|3|—
-18th|4|11|4|3|3|—
+3rd|3|3|2|--|--|--
+4th|3|4|3|--|--|--
+5th|3|4|3|--|--|--
+6th|3|4|3|--|--|--
+7th|3|5|4|2|--|--
+8th|3|6|4|2|--|--
+9th|3|6|4|2|--|--
+10th|4|7|4|3|--|--
+11th|4|8|4|3|--|--
+12th|4|8|4|3|--|--
+13th|4|9|4|3|2|--
+14th|4|10|4|3|2|--
+15th|4|10|4|3|2|--
+16th|4|11|4|3|3|--
+17th|4|11|4|3|3|--
+18th|4|11|4|3|3|--
 19th|4|12|4|3|3|1
 20th|4|13|4|3|3|1
 
 ## Agent of the Divines
-Starting at 3rd level, choose a domain from your chosen deity’s list of eligible domains, you gain the 1st-level benefits of that domain as if you were a 1st-level cleric. However, you do not gain any armor proficiencies from this domain.
+Starting at 3rd level, choose a domain from your chosen deity's list of eligible domains, you gain the 1st-level benefits of that domain as if you were a 1st-level cleric. However, you do not gain any armor proficiencies from this domain.
 
 ## Favor of the Gods
 At 9th level, you gain the Lucky feat. If you already have the Lucky feat, you instead gain an additional two luck points.

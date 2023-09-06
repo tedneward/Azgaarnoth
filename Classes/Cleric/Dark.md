@@ -17,7 +17,7 @@ Cleric Level | Spell
 ## Eyes of Black
 Your eyes are a dark void from which no light escapes.  When you choose this domain at 1st level, you can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
 
-## Don’t Fear the Dark
+## Don't Fear the Dark
 Also at 1st level, you can use your action to touch a willing creature, including yourself, to give it advantage on Wisdom saving throws against being frightened. This blessing lasts for 1 hour.  You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
 ## Channel Divinity: Coalesce Fear
@@ -28,7 +28,7 @@ If any of this spell's area overlaps with an area of light created by a spell of
 Each creature of your choice within the darkness must make a Wisdom saving throw or be stunned until the end of their next turn. Creatures immune to being frightened have advantage on the saving throw.
 
 ## Fear Itself
-Starting at 6th level, creatures under the effect of your Don’t Fear the Dark feature are immune to being frightened and can see normally in darkness, both magical and nonmagical, to a distance of 60 feet. These benefits now last for 24 hours or until you take a long rest.
+Starting at 6th level, creatures under the effect of your Don't Fear the Dark feature are immune to being frightened and can see normally in darkness, both magical and nonmagical, to a distance of 60 feet. These benefits now last for 24 hours or until you take a long rest.
 
 ## Prevailing Darkness
 At 8th level, magical light has difficulty piercing your darkness.  When an effect would dispel darkness created by your spells or Channel Divinity options make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, the darkness remains.

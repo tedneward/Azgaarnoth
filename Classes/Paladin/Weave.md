@@ -1,7 +1,7 @@
 # Sacred Oath: Oath of the Weave
 Many deities have worshipers who are paladins, promoting law, good, or their faith across Faerûn with divine might, but those who swear this oath draw additional strength from the Weave itself. They are most often known as Knights of the Weave, but also as swordmages, arcane defenders, or mage knights. They cherish the Weave like a fine wine, knowing that its existence enriches all of Azgaarnoth.
 
-Nothing is more important to you than magic’s continued existence. You likely worship a god whose portfolio includes magic, knowledge, wisdom, or mysticism—which includes a wide selection of deities—and serve your deity by guarding temples and questing for lost magical troves. Among those who focus on the protective disciplines of this oath—who often refer to it by the alternate name “the Oath of the Aegis” and prioritize personal loyalty and defense even above the wonders of the Weave itself—gods associated with loyalty and guardianship are favored.
+Nothing is more important to you than magic's continued existence. You likely worship a god whose portfolio includes magic, knowledge, wisdom, or mysticism--which includes a wide selection of deities--and serve your deity by guarding temples and questing for lost magical troves. Among those who focus on the protective disciplines of this oath--who often refer to it by the alternate name "the Oath of the Aegis" and prioritize personal loyalty and defense even above the wonders of the Weave itself--gods associated with loyalty and guardianship are favored.
 
 Knights of the Weave are less likely to wear heavy armor than other paladins, but few eschew armor entirely. Although you study powerful magic, most of what you know relates to enhancing your fighting abilities and your place is in the thick of battle. You learn to transport yourself magically using the Weave, and teleportation can become one of your greatest tools for staying in the thick of the fight. Your power comes from pure magic, and eventually you develop increased ability to use magic, counter hostile magic, and defeat enemy spellcasters.
 
@@ -32,7 +32,7 @@ imbue that weapon with anti-magic energy bestowed by your deity. If the target t
 * **Spellfire Shield**. When you make a successful saving throw against a spell, or a spell attack misses you, as a reaction you can use your Channel Divinity to reflect the spell onto an enemy. Choose the spellcaster or another creature you can see within 30 feet. The spell targets the chosen creature instead of you. If the spell forced a saving throw, the chosen creature makes its own save. If the spell was an attack, the same attack roll is rerolled against that creature.
 
 ## Arcane Cantrips
-At 3rd level when you take this oath, choose one of the following cantrips: [blade ward](https://www.dndbeyond.com/spells/blade-ward), challenger’s mark, [booming blade](https://www.dndbeyond.com/spells/booming-blade), echoing blow, frostwind blade, greenflame blade, lightning lure, looming shadow, punishing strike, resistance, or sword burst. You learn that cantrip in addition to your paladin spells. At 11th level, you learn one additional cantrip from the same list.
+At 3rd level when you take this oath, choose one of the following cantrips: [blade ward](https://www.dndbeyond.com/spells/blade-ward), challenger's mark, [booming blade](https://www.dndbeyond.com/spells/booming-blade), echoing blow, frostwind blade, greenflame blade, lightning lure, looming shadow, punishing strike, resistance, or sword burst. You learn that cantrip in addition to your paladin spells. At 11th level, you learn one additional cantrip from the same list.
 
 ## Aegis Aura
 Starting at 7th level, you radiate an aura of arcane energy that allows you to counter attacks against your allies with cunning battle magic. Choose one of the following aura options: Assault, Ensnarement, or Shielding. When a creature besides yourself within 10 feet of you is hit by a melee attack, you can use your reaction to inflict one of the following effects on the attacker before the damage from the triggering attack is inflicted. The effect is determined by the aura option you chose, as follows:
@@ -51,7 +51,7 @@ In addition, when you reach 9th level in your paladin class, you gain an additio
 
 This spell is added to your oath spell list, and like your other oath spells, it is always prepared. At 18th level, the range of your Aegis Aura increases to 30 feet.
 
-## Swordmage’s Swiftness
+## Swordmage's Swiftness
 Starting at 15th level, you can expend 10 hit points from the pool of healing granted by your Lay on Hands to use a bonus action to cast a cantrip gained from your Arcane Favor feature that has a casting time of 1 action, changing the casting time to 1 bonus action for this casting.
 
 ## One with the Weave
@@ -61,4 +61,4 @@ At 20th level, you can open up your mind and body to become one with the very su
 * When you roll damage for a cantrip, you can reroll up to 4 of the damage dice. You must use the new rolls.
 * When you use your action to a cast a paladin spell, you can make one weapon attack as a bonus action.
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can't use it again until you finish a long rest.

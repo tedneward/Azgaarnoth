@@ -5,7 +5,7 @@ Drakewardens are rangers who use their magical connection with nature to form an
 
 d6 | Origin
 -- | -------
-1 | You studied a dragon’s scale or claw, or a trinket from its hoard, and created your bond through the token’s lingering draconic magic.
+1 | You studied a dragon's scale or claw, or a trinket from its hoard, and created your bond through the token's lingering draconic magic.
 2 | A secret order of rangers who collect and guard draconic lore taught you their ways.
 3 | A true dragon gave you a drake egg to care for. When it hatched, the drake bonded to you.
 4 | You drank a few drops of dragon blood, forever infusing your nature magic with draconic power.
@@ -17,7 +17,7 @@ The bond you share with your drake creates a deeper connection to dragon kind, g
 
 You gain the following benefits:
 
-* If you can’t already, you learn to speak, read, and write Draconic.
+* If you can't already, you learn to speak, read, and write Draconic.
 * You learn the [thaumaturgy](../../Magic/Spells/thaumaturgy.md) cantrip, which is a ranger spell for you.
 
 ## Drake Companion
@@ -27,27 +27,27 @@ The drake is friendly to you and your companions and obeys your commands. See it
 
 In combat, the drake shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the drake can take any action of its choice, not just Dodge. 
 
-Once you summon the drake, you can’t do so again until you finish a long rest, unless you expend a spell slot of 1st level or higher to summon it.
+Once you summon the drake, you can't do so again until you finish a long rest, unless you expend a spell slot of 1st level or higher to summon it.
 
 The drake remains for a number of hours equal to your proficiency bonus, until it is reduced to 0 hit points, until you use this feature to summon the drake again, or until you die. Anything the drake was wearing or carrying is left behind when the drake vanishes.
 
 ## Bond of Fang and Scale
-The bond you share with your drake intensifies, protecting you and stoking the drake’s fury. While your drake is summoned, you and the drake gain the following benefits:
+The bond you share with your drake intensifies, protecting you and stoking the drake's fury. While your drake is summoned, you and the drake gain the following benefits:
 
-* You gain resistance to the damage type chosen for the drake’s Draconic Essence.
+* You gain resistance to the damage type chosen for the drake's Draconic Essence.
 * Choose one of the following: the drake gains a swimming speed of 40 feet and can breathe both air and water, or the drake grows wings and gains a flying speed of 40 feet.
-* The drake’s bite attack deals an extra 1d6 damage of the type chosen for its Draconic Essence.
+* The drake's bite attack deals an extra 1d6 damage of the type chosen for its Draconic Essence.
 
-## Drake’s Breath
+## Drake's Breath
 As an action, you can exhale a 30-foot cone of damaging breath or cause your drake to exhale it. Choose acid, cold, fire, lightning, or poison damage. Each creature in the cone must make a Dexterity saving throw against your spell save DC, taking 6d6 damage on a failed save, or half as much damage on a successful one.
 
 This damage increases to 8d6 when you reach 15th level in this class.
 
-Once you use this feature, you can’t do so again until you finish a long rest, unless you expend a spell slot of 3rd level or higher to use it again.
+Once you use this feature, you can't do so again until you finish a long rest, unless you expend a spell slot of 3rd level or higher to use it again.
 
 ## Perfected Bond
 Your bond to your drake reaches the pinnacle of its power. While your drake is summoned, you and the drake gain the following benefits:
 
 * The drake grows to Large size.
-* The drake’s bite attack deals an extra 1d6 damage of the type chosen for its Draconic Essence (for a total of 2d6 extra damage).
-* When either you or the drake takes damage while you’re within 30 feet of each other, you can use your reaction to give yourself or the drake resistance to that instance of damage.
+* The drake's bite attack deals an extra 1d6 damage of the type chosen for its Draconic Essence (for a total of 2d6 extra damage).
+* When either you or the drake takes damage while you're within 30 feet of each other, you can use your reaction to give yourself or the drake resistance to that instance of damage.

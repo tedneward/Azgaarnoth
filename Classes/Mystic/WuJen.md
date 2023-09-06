@@ -6,11 +6,11 @@ In practical terms, wu jens excel at controlling the forces of the natural world
 ## Bonus Disciplines
 At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the Wu Jen disciplines.
 
-## Hermit’s Study
+## Hermit's Study
 At 1st level, you gain proficiency with two of the following skills of your choice: Animal Handling, Arcana, History, Insight, Medicine, Nature, Perception, Religion, or Survival.
 
 ## Elemental Attunement
-Starting at 3rd level, when a creature’s resistance reduces the damage dealt by a psionic discipline of yours, you can spend 1 psi point to cause that use of the discipline to ignore the creature’s resistance. You can’t spend this point if doing so would increase the discipline’s cost above your psi limit.
+Starting at 3rd level, when a creature's resistance reduces the damage dealt by a psionic discipline of yours, you can spend 1 psi point to cause that use of the discipline to ignore the creature's resistance. You can't spend this point if doing so would increase the discipline's cost above your psi limit.
 
 ## Arcane Dabbler
 At 6th level, you learn three wizard spells of your choice and always have them prepared. The spells must be of 1st through 3rd level.

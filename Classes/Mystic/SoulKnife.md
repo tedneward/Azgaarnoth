@@ -7,14 +7,14 @@ Soul knives vary widely in their approach to this path. Some follow it out of a 
 At 1st level, you gain proficiency with medium armor and martial weapons.
 
 ## Soul Knife
-Starting at 1st level, you gain the ability to manifest a blade of psychic energy. As a bonus action, you create scintillating knives of energy that project from both of your fists. You can’t hold anything in your hands while manifesting these blades. You can dismiss them as a bonus action.
+Starting at 1st level, you gain the ability to manifest a blade of psychic energy. As a bonus action, you create scintillating knives of energy that project from both of your fists. You can't hold anything in your hands while manifesting these blades. You can dismiss them as a bonus action.
 
 For you, a soul knife is a martial melee weapon with the light and finesse properties. It deals 1d8 psychic damage on a hit.
 
 As a bonus action, you can prepare to use the blades to parry; you gain a +2 bonus to AC until the start of your next turn or until you are incapacitated.
 
 ## Hone the Blade
-Starting at 3rd level, you can spend psi points to augment your soul knife’s attack rolls and damage. You gain a bonus to attack and damage rolls with your soul knives depending on the number of psi points spent, as shown on the table below. This bonus lasts for 10 minutes.
+Starting at 3rd level, you can spend psi points to augment your soul knife's attack rolls and damage. You gain a bonus to attack and damage rolls with your soul knives depending on the number of psi points spent, as shown on the table below. This bonus lasts for 10 minutes.
 
 Psi Points|Attack and Damage Bonus
 ----------|-------------------
@@ -26,4 +26,4 @@ Psi Points|Attack and Damage Bonus
 Starting at 6th level, whenever you slay an enemy creature with a soul knife attack, you immediately regain 2 psi points.
 
 ## Phantom Knife
-Starting at 14th level, you can make an attack that phases through most defenses. As an action, you can make one attack with your soul knife. Treat the target’s AC as 10 against this attack, regardless of the target’s actual AC.
+Starting at 14th level, you can make an attack that phases through most defenses. As an action, you can make one attack with your soul knife. Treat the target's AC as 10 against this attack, regardless of the target's actual AC.

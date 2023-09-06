@@ -14,7 +14,7 @@ At the end of a long rest, you can channel and crystallize Abyssal energy to cre
 
 ***Abyssal Shard.*** While holding your Abyssal Focus, you can pluck a shard from it (no action required). As an action, you can throw it up to 30 feet, implanting it into the ground. At the end of your turn, the shard evaporates and causes Signs of Corruption on it for 1 minute.
 
-Once you use this feature, you can’t use it again until you finish a long rest or you make a Constitution saving throw with a DC equal to 7 + the number of times you've used this feature with your current Abyssal Focus. You receive a bonus to this save equal to twice of your exhaustion level. On a failed save, Signs of Corruption immediately occurs centered on you instead and you become corrupted for 1 minute. If you fail the save by 5 or more, you also suffer one level of exhaustion.
+Once you use this feature, you can't use it again until you finish a long rest or you make a Constitution saving throw with a DC equal to 7 + the number of times you've used this feature with your current Abyssal Focus. You receive a bonus to this save equal to twice of your exhaustion level. On a failed save, Signs of Corruption immediately occurs centered on you instead and you become corrupted for 1 minute. If you fail the save by 5 or more, you also suffer one level of exhaustion.
 
 ***Corrupted Spellcasting.*** When you cast a spell, you can incorporate Abyssal energy into the spell, changing its nature temporarily in following ways:
 

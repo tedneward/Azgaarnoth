@@ -13,7 +13,7 @@ Spell Level | Spells
 5th | legend lore, raise dead
 
 ## Bonus Cantrip
-At first level, you gain the [guidance](../../Magic/Spells/guidance.md) and [message](../../Magic/Spells/message.md) cantrips. They count as warlock cantrips for you, but they don’t count against your number of cantrips known.
+At first level, you gain the [guidance](../../Magic/Spells/guidance.md) and [message](../../Magic/Spells/message.md) cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.
 
 ## Voice of the Oracle
 Starting at 1st level, you may spend a bonus action to call on your ancestors, augmenting your presence with their wisdom and authority. When you activate this ability, choose Persuasion, Deception or Intimidation. For the next minute, skill checks you make of the chosen kind are made at advantage. During this time, your eyes roll back into your head, and your voice is echoed by a whispering chorus audible out to 10 feet from you. You must finish a short or long rest before using this ability again.
@@ -25,7 +25,7 @@ Starting at 6th level, your ancestors watch for danger on your behalf. If you wo
 Starting at 10th level, your patron opens your eyes to the spiritual demimonde. You can see into the Ethereal plane out to 60 feet, and can see invisible creatures.
 
 ## Supernatural Intuition
-At 14th level, your ancestors bring their centuries of prior experience to bear scrutinising your fledgling predictions. If a divination spell would provide false information, either to the intrinsic nature of the spell, or a masking effect such as Nystul’s Magic Aura, you become aware that the result is false, though not necessarily why.
+At 14th level, your ancestors bring their centuries of prior experience to bear scrutinising your fledgling predictions. If a divination spell would provide false information, either to the intrinsic nature of the spell, or a masking effect such as Nystul's Magic Aura, you become aware that the result is false, though not necessarily why.
 
 > **Boons**
-> The Ancestor is likely to bestow a pact boon upon the warlock that had a significance to them in life. They might give a warlock their own spellbook written in a cramped hand, or the same familiar which served them during their time with the living. For a more morbid tone, consider sending Pact of the Chain warlocks a crawling claw familiar from the ancestor’s corpse.
+> The Ancestor is likely to bestow a pact boon upon the warlock that had a significance to them in life. They might give a warlock their own spellbook written in a cramped hand, or the same familiar which served them during their time with the living. For a more morbid tone, consider sending Pact of the Chain warlocks a crawling claw familiar from the ancestor's corpse.

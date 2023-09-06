@@ -28,10 +28,10 @@ Starting at 6th level, you can cast the fear spell using one of your spell slots
 ## Undead Cohort: Wraith
 At 10th level, you are able to taint the soul of a recently slain creature. You choose the corpse of a creature that has died in the last 24 hour and infuse it with necrotic energy, causing its soul to rise as a wraith under your control.
 
-The wraith dissipates when it drops to 0 hit points or when 1-hour passes. The wraith is friendly to you and your companions for the duration. Roll initiative for the wraith, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the wraith, it defends itself from hostile creatures but otherwise takes no actions.
-The DM has the wraith’s statistics.
+The wraith dissipates when it drops to 0 hit points or when 1-hour passes. The wraith is friendly to you and your companions for the duration. Roll initiative for the wraith, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don't issue any commands to the wraith, it defends itself from hostile creatures but otherwise takes no actions.
+The DM has the wraith's statistics.
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can't use it again until you finish a long rest.
 
 ## Terror in the Night
 Your research has led to a profound breakthrough, allowing you to become one with the darkeness.
@@ -39,4 +39,4 @@ Your research has led to a profound breakthrough, allowing you to become one wit
 At 14th level, while in an area of dim light or darkness, you can meld with the shadows for 1 hour. While melded, you gain advantage on Dexterity (Stealth) checks, can take the Hide action as a bonus action, and are able to move through a space as narrow as 1 inch wide without squeezing. You retain all of your normal statistics and abilities while melded. You can move through areas of sunlight while melded, but suffer disadvantage on attack rolls, ability checks, and saving throws while in sunlight. Ending your turn in sunlight ends
 the melded condition.
 
-Once you use this feature, you can’t use it again until you finish a short or long rest.
+Once you use this feature, you can't use it again until you finish a short or long rest.

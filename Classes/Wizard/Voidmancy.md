@@ -1,5 +1,5 @@
 # Arcane Tradition: Voidmancy
-Voidmancy is the dangerous field of study of the dark and aberrant things that lie on the edge of reality. Things that stretch the mental fortitude of those that wish to see into the beyond. Many describe it as the discovery of knowledge that no mortal is meant to know, and the sheer number of madness-inducing contacts with such places and beings suggests there’s some merit to this theory.
+Voidmancy is the dangerous field of study of the dark and aberrant things that lie on the edge of reality. Things that stretch the mental fortitude of those that wish to see into the beyond. Many describe it as the discovery of knowledge that no mortal is meant to know, and the sheer number of madness-inducing contacts with such places and beings suggests there's some merit to this theory.
 
 Voidmancers seek to uncover these hidden truths in a methodical and--theoretically--safe way, through the rigid study of abjurations to protect themselves, and divinations to limit discoveries to manageable slivers. Voidmancers believe that scholars, cultists, and warlocks that touch the other side, do so recklessly, and thus they are consumed. Voidmancers believe that strict adherence to methodology and mental discipline, allows them to ward off a similar fate.
 
@@ -15,7 +15,7 @@ At 6th level, your mental defenses against the constant incursions of the otherw
 At 6th level, you can use this ability once per long rest. This increases to twice per long rest at 10th level, and three times per long rest at 14th level.
 
 ## Secrets of the Void
-At 10th level, you have seen the physics-defying environments of the other side, and understand that nothing is fixed, even when it’s rigid. When you cast a spell that has a range greater than self or touch, or an area of effect greater than a single target, you can alter the range or area of effect of that spell by 50%, either greater or smaller. After using this ability, you cannot use it again until after completing a long rest.
+At 10th level, you have seen the physics-defying environments of the other side, and understand that nothing is fixed, even when it's rigid. When you cast a spell that has a range greater than self or touch, or an area of effect greater than a single target, you can alter the range or area of effect of that spell by 50%, either greater or smaller. After using this ability, you cannot use it again until after completing a long rest.
 
 ## Screaming into the Void
 Beginning at 14th level, aware of your infinitesimally inconsequential nature against the vast, unfathomable beings of the void, you have become inured to the horrors of the mundane. You gain resistance to psychic damage and are immune to the stunned condition.

@@ -22,7 +22,7 @@ Starting at 1st level, you gain the ability to place a baleful curse on someone.
 
 * If the cursed target dies, you regain hit points equal to your warlock level + your Charisma modifier (minimum of 1 hit point).
 
-You can’t use this feature again until you finish a short or long rest.
+You can't use this feature again until you finish a short or long rest.
 
 ## Hex Warrior
 At 1st level, you acquire the training necessary to effectively arm yourself for battle. You gain proficiency with medium armor, shields, and martial weapons.
@@ -37,7 +37,7 @@ The specter remains in your service until the end of your next long rest, at whi
 Once you bind a specter with this feature, you can't use the feature again until you finish a long rest.
 
 ## Armor of Hexes
-At 10th level, your hex grows more powerful. If the target cursed by your Hexblade’s Curse hits you with an attack roll, roll a d6. On a 4 or higher, the attack instead misses you, regardless of its roll.
+At 10th level, your hex grows more powerful. If the target cursed by your Hexblade's Curse hits you with an attack roll, roll a d6. On a 4 or higher, the attack instead misses you, regardless of its roll.
 
 ## Master of Hexes
 Starting at 14th level, you can spread your Hexblade's Curse from a slain creature to another creature. When the creature cursed by your Hexblade's Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren't incapacitated. When you apply the curse in this way, you don't regain hit points from the death of the previously cursed creature.

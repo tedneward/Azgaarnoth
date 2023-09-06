@@ -4,7 +4,7 @@ Incanters (or Incantifer or Incantrix) – also called metamages – manipulate 
 Incanters are frequently found in any of the [Mage Schools](../../Organizations/MageSchools/index.md), often as "support staff" to augment or safeguard the research being done by the rest of the school.
 
 ## Spell Savant
-Starting at 2nd level, you gain proficiency in the Arcana skill if you don’t already have it, and you can identify spells that you can see being cast, as a free action. To identify a spell you must make a successful Intelligence (Arcana) check. The DC equals 10 + the spell’s level.
+Starting at 2nd level, you gain proficiency in the Arcana skill if you don't already have it, and you can identify spells that you can see being cast, as a free action. To identify a spell you must make a successful Intelligence (Arcana) check. The DC equals 10 + the spell's level.
 
 ## Augment Magic
 At 2nd level, you can augment a spell that you cast, as a bonus action. The augmented spell is treated as if being cast at one level higher than the spell slot level used to cast the spell ie if you cast a spell using a 3rd level spell slot, the spell is cast at 4th level. You can use this ability a number of times equal to your Intelligence modifier (minimum of once) regaining all expended uses after finishing a long rest.

@@ -6,7 +6,7 @@ Psionicists channel their magic by focusing their minds. By doing so they can tr
 As a member of the Psionics tradition, you might have awoken your psionic potential through the strain of your esoteric studies, or perhaps you joined a scholarly order dedicated to unlocking the magic of the mind. In the latter case, you likely joined the [MindMage](../../Organizations/MageSchools/MindMage.md) school, one of the very few that focuses on the use of psionics. It's also possible that you had the channels to your mind's power opened by a wandering ex-member of that school, but this happens quite rarely--most psionic wizards prefer to study within the walls of their *sanctum sanctorum* in [Mighal](../../Cities/Mighal.md).
 
 ## Psionic Focus
-Starting at the 2nd level, you have learned to channel psionic energy through a special object: a psionic focus. You gain the object with this feature (see the “Your Psionic Focus” sidebar for how you might have acquired the item).
+Starting at the 2nd level, you have learned to channel psionic energy through a special object: a psionic focus. You gain the object with this feature (see the "Your Psionic Focus" sidebar for how you might have acquired the item).
 
 While your psionic focus is on your person, you gain the following benefits:
 
@@ -17,19 +17,19 @@ If your psionic focus is lost, you can magically recreate it by meditating for 1
 
 > ### Your Psionic Focus
 > Every member of the Psionics tradition has a story about how their psionic focus came into their life. Consider how you found yours and what form it takes.
-> The event that brought your psionic focus to you probably holds personal significance. Did your master give it to you upon the completion of your apprenticeship? Was it awarded to you when you graduated from your academy of wizardry? Did it call to you in a jeweler’s shop? Was it associated with the moment when your psionic powers first manifested? One morning, did you wake up with it humming under your pillow?
-> The form your psionic focus takes is also yours to define, likely being a reflection of how your magic came into being, a symbol of your own psyche, or an item you use to focus your thoughts. It is a handheld object that has special meaning to you, but that can’t be a weapon or magic item. Perhaps it’s a childhood memento, the skull of an alien creature, a crystal that makes you feel a certain way, a coin that only lands on its edge, a fire- scarred planchette, or any other enigmatic personal relic.
+> The event that brought your psionic focus to you probably holds personal significance. Did your master give it to you upon the completion of your apprenticeship? Was it awarded to you when you graduated from your academy of wizardry? Did it call to you in a jeweler's shop? Was it associated with the moment when your psionic powers first manifested? One morning, did you wake up with it humming under your pillow?
+> The form your psionic focus takes is also yours to define, likely being a reflection of how your magic came into being, a symbol of your own psyche, or an item you use to focus your thoughts. It is a handheld object that has special meaning to you, but that can't be a weapon or magic item. Perhaps it's a childhood memento, the skull of an alien creature, a crystal that makes you feel a certain way, a coin that only lands on its edge, a fire- scarred planchette, or any other enigmatic personal relic.
 > However the object arrived and whatever form it takes, your psionic focus is now yours, and you decide how to handle it. Will you mount it on a wand or staff? Would you prefer to wear it on a necklace or circlet? Have you embedded it into the cover of your spellbook? Wherever you put it, you can now channel your magic through it, and it is a sign of your membership in the revered tradition of psionic wizardry.
 
 ## Psionic Devotion
 *2nd-level Psionics feature*
-Starting at the 2nd level, your study of psionics begins to unleash your mind’s potential. When you gain this feature, choose one of the following cantrips: friends, mage hand, or message. You learn that cantrip if you don’t already know it, and it doesn’t count against the number of wizard cantrips you know.
+Starting at the 2nd level, your study of psionics begins to unleash your mind's potential. When you gain this feature, choose one of the following cantrips: friends, mage hand, or message. You learn that cantrip if you don't already know it, and it doesn't count against the number of wizard cantrips you know.
 
 While your psionic focus is on your person, you can cast the chosen cantrip as a bonus action, requiring no components, and with the modification listed below:
 
-* **[friends](../../Magic/Spells/friends.md)**. When the spell ends, the target doesn’t become hostile to you.
+* **[friends](../../Magic/Spells/friends.md)**. When the spell ends, the target doesn't become hostile to you.
 * **[mage hand](../../Magic/Spells/mage-hand.md)**. You can make the hand invisible when you cast the spell, and controlling the spell is a bonus action for you.
-* **[message](../../Magic/Spells/message.md)**. You don’t need to point toward the target or whisper your message out loud.
+* **[message](../../Magic/Spells/message.md)**. You don't need to point toward the target or whisper your message out loud.
 
 ## Thought Form
 *6th-level Psionics feature*
@@ -37,19 +37,19 @@ Starting at the 6th level, while you are carrying your psionic focus, you can us
 
 While in thought form, you are a figure of luminous psychic energy, with your psionic focus hovering within. Your form can appear as anything you wish, but it is obviously magical, is the same size as you, and sheds dim light in a 5- foot-radius. Any other equipment you are wearing or carrying transforms with you and melds into your thought form. You also gain the following benefits:
 
-* **Psionic Spellcasting**. When you cast a spell while in thought form, you can cast the spell psionically. If you do so, the spell doesn’t require verbal, somatic, or material components that lack a gold cost.
+* **Psionic Spellcasting**. When you cast a spell while in thought form, you can cast the spell psionically. If you do so, the spell doesn't require verbal, somatic, or material components that lack a gold cost.
 * **Psychic Resilience**. You gain resistance to psychic damage and to bludgeoning, piercing, and slashing damage from nonmagical attacks.
 
 You can transform using this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
 ## Mental Discipline
 *10th-level Psionics feature*
-Starting at the 10th level, your mind’s power expands to greater heights. When you gain this feature, choose one of the following spells: dominate person, scrying, or telekinesis. You can add the spell to your spellbook, and you can cast it without components.
+Starting at the 10th level, your mind's power expands to greater heights. When you gain this feature, choose one of the following spells: dominate person, scrying, or telekinesis. You can add the spell to your spellbook, and you can cast it without components.
 You can also cast the chosen spell once without expending a spell slot. After you do so, you regain the ability to cast the spell without a slot when you finish a long rest.
 
 ## Empowered Psionics
 *10th-level Psionics feature*
-When you deal psychic or force damage with a wizard spell, you can add your Intelligence modifier to the damage against one of the spell’s targets.
+When you deal psychic or force damage with a wizard spell, you can add your Intelligence modifier to the damage against one of the spell's targets.
 
 ## Thought Travel
 *14th-level Psionics feature*
@@ -91,7 +91,7 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 * magic missile
 * silent image
 * sleep
-* Tasha’s hideous laughter 
+* Tasha's hideous laughter 
 * unseen servant (ritual)
 
 #### 2nd Level
@@ -104,7 +104,7 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 * levitate
 * locate object
 * mental barrier
-* mind spike (Xanathar’s Guide) 
+* mind spike (Xanathar's Guide) 
 * mind thrust
 * mirror image
 * [misty step](https://www.dndbeyond.com/spells/misty-step)
@@ -117,7 +117,7 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 * blink
 * [catnap](../../Magic/Spells/catnap.md)
 * clairvoyance
-* enemies abound (Xanathar’s Guide) 
+* enemies abound (Xanathar's Guide) 
 * fear
 * fly
 * hypnotic pattern
@@ -136,40 +136,40 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 * greater invisibility
 * hallucinatory terrain 
 * locate creature
-* Otiluke’s resilient sphere
+* Otiluke's resilient sphere
 * phantasmal killer
 
 #### 5th Level
-* Bigby’s hand
+* Bigby's hand
 * contact other plane (ritual)
 * dominate person
 * dream
-* far step (Xanathar’s Guide)
+* far step (Xanathar's Guide)
 * geas
 * hold monster
 * intellect fortress*
 * legend lore
 * mislead
 * modify memory
-* Rary’s telepathic bond (ritual)
+* Rary's telepathic bond (ritual)
 * scrying
 * seeming
-* skill empowerment (Xanathar’s Guide) 
-* synaptic static (Xanathar’s Guide) telekinesis
+* skill empowerment (Xanathar's Guide) 
+* synaptic static (Xanathar's Guide) telekinesis
 * teleportation circle
 * wall of force
 
 #### 6th Level
 * arcane gate
-* Drawmij’s instant summons (ritual) 
+* Drawmij's instant summons (ritual) 
 * eyebite
 * magic jar
 * mass suggestion
-* mental prison (Xanathar’s Guide) 
-* Otto’s irresistible dance 
+* mental prison (Xanathar's Guide) 
+* Otto's irresistible dance 
 * programmed illusion
 * psychic crush
-* scatter (Xanathar’s Guide)
+* scatter (Xanathar's Guide)
 * true seeing
 
 #### 7th Level
@@ -177,7 +177,7 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 * forcecage
 * mirage arcane
 * plane shift
-* power word pain (Xanathar’s Guide) 
+* power word pain (Xanathar's Guide) 
 * project image
 * reverse gravity 
 * sequester 
@@ -187,8 +187,8 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 * antipathy/sympathy
 * dominate monster
 * feeblemind
-* illusory dragon (Xanathar’s Guide) 
-* maddening darkness (Xanathar’s Guide) 
+* illusory dragon (Xanathar's Guide) 
+* maddening darkness (Xanathar's Guide) 
 * mind blank
 * power word stun 
 * telepathy
@@ -197,4 +197,4 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 * astral projection
 * foresight
 * imprisonment
-* psychic scream (Xanathar’s Guide)
+* psychic scream (Xanathar's Guide)

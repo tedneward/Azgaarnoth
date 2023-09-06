@@ -16,7 +16,7 @@ Cleric Level | Spells
 3rd | aid, warding bond
 5th | beacon of hope, sending
 7th | aura of purity, guardian of faith
-9th | greater restoration, Rary’s telepathic bond
+9th | greater restoration, Rary's telepathic bond
  
 ## Emboldening Bond
 Starting at 1st level, you can forge an empowering bond between allies. As an action, you can choose two willing creatures you can see within 30 feet of you (this can include yourself) and create a magical bond between them. While either bonded creature is within 30 feet of the other, the creature can roll a d4 and add the number rolled to an attack roll, an ability check, or a saving throw it makes. Each creature can add the d4 no more than once per turn. The bond lasts for 1 hour or until you use this feature again.

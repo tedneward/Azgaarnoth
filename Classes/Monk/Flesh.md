@@ -1,5 +1,5 @@
 # Monastic Tradition: Way of Flesh
-The Way of the Flesh teaches of the body as something which changes based on need. The corporeal form is only a shell, and that shell must serve the needs of the soul. The abilities of these monks sometimes engender fear or revulsion in onlookers, but merely reflect the monk’s superior understanding of and mastery over their own forms.
+The Way of the Flesh teaches of the body as something which changes based on need. The corporeal form is only a shell, and that shell must serve the needs of the soul. The abilities of these monks sometimes engender fear or revulsion in onlookers, but merely reflect the monk's superior understanding of and mastery over their own forms.
 
 ## My Body, a Weapon
 At 3rd level, you learn to twist your flesh into the right weapon for your current need. You can spend a ki point to change one or both of your hands into fleshy monk weapon(s) of your choice. This transformation lasts 1 minute or until you end it as a bonus action. Whilst transformed in this way, the affected limb(s) gain all qualities of the weapon they are mimicking, but you lose your fingers and thumbs. The weapons cannot be detached from your body short of permanently chopping off that body part.

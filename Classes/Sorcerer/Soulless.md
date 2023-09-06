@@ -1,19 +1,19 @@
 # Sorcerous Origin: Soulless
-You don’t exist. Not really. You were born without a soul, or that’s what they tell you. It makes you special, but you don’t feel any different...not that you have anything to compare it to. People have always treated you differently, as if there were nothing behind your eyes but darkness.
+You don't exist. Not really. You were born without a soul, or that's what they tell you. It makes you special, but you don't feel any different...not that you have anything to compare it to. People have always treated you differently, as if there were nothing behind your eyes but darkness.
 
 Your sorcerous blood can manifest in a number of peculiar ways:
 
 1d6 | Soulless Bloodline Quirks
 --- | -----------------------------
-1 | Animals run away from you and won’t come close unless forced
+1 | Animals run away from you and won't come close unless forced
 2 | Children scream and cry if you try and touch them
-3 | You never dream. It’s only darkness in there.
+3 | You never dream. It's only darkness in there.
 4 | Priests and clerics sometimes flinch away from you involuntarily
-5 | You don’t seem to age as fast as everyone else. You’re not sure by how much.
-6 | There’s a shadow behind your eyes that intimidates people meeting you.
+5 | You don't seem to age as fast as everyone else. You're not sure by how much.
+6 | There's a shadow behind your eyes that intimidates people meeting you.
 
 ## Soulless Magic
-You learn additional spells when you reach certain levels in this class, as shown on the Soulless Spells table. Each spell counts as a sorcerer spell for you, but it doesn’t count against the number of sorcerer spells you know. These spells can’t be replaced when you gain a level in this class.
+You learn additional spells when you reach certain levels in this class, as shown on the Soulless Spells table. Each spell counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know. These spells can't be replaced when you gain a level in this class.
 
 Sorcerer Level | Soulless Spells
 -------------- | ----------------

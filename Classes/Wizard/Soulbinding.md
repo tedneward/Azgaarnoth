@@ -1,5 +1,5 @@
 # Arcane Tradition: Soulbinding
-The Soulbound are a cadre of wizards specializing in imbuing an object, as a focus for directing and empowering their spells. Soulbound wizards literally bind a portion of their life force into the object, making this discipline dangerous for the wizard – for should the object be lost, destroyed, or even just fall into a foe’s grasp, the consequences could be disastrous. For all the risk, Soulbound gain significant arcane might from their focus object.
+The Soulbound are a cadre of wizards specializing in imbuing an object, as a focus for directing and empowering their spells. Soulbound wizards literally bind a portion of their life force into the object, making this discipline dangerous for the wizard – for should the object be lost, destroyed, or even just fall into a foe's grasp, the consequences could be disastrous. For all the risk, Soulbound gain significant arcane might from their focus object.
 
 Soulbinding is tradition that seems limited entirely to magi found within [Zhi](../../Nations/Zhi.md) (and, to a lesser degree, [Yithi](../../Nations/Yithi.md)); no mage school around soulbinding exists.
 
@@ -18,7 +18,7 @@ You can generate a new Soul Object by undertaking the ritual again.
 Starting at 2nd level, as a reaction, when you take damage from any source, you can choose to spread the damage between your hit points and those of your Soul Object. You regain the use of this ability after finishing a short rest.
 
 ## Arcane Power Pool
-Starting at 6th level, when you cast a spell, you can draw from your bonded object to empower your castings. By expending a number of hit points equal to the spell’s level, you can impose disadvantage on the saving throw for one affected creature. You can expend multiple allotments of hit points (all equal to the spell’s level), allowing you to affect multiple creatures. 
+Starting at 6th level, when you cast a spell, you can draw from your bonded object to empower your castings. By expending a number of hit points equal to the spell's level, you can impose disadvantage on the saving throw for one affected creature. You can expend multiple allotments of hit points (all equal to the spell's level), allowing you to affect multiple creatures. 
 
 ## Vitality Infusion
 Starting at 10th level, as an action, you can draw upon the life force within your focus object to heal yourself of wounds, or even of some conditions. You can heal hit points equal to the number of hit points withdrawn from your Soul Object. Withdrawing 5 hit points from your Soul Object will remove the poisoned condition from you, or any cure you of any disease you may be suffering.

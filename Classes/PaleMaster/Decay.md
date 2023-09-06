@@ -9,7 +9,7 @@ Your undead graft becomes a spellcasting focus for your magic, allowing you to c
 At 6th level, your graft gains a +1 bonus to melee attack and damage rolls. This increases to a +2 bonus at 12th level and a +3 bonus at 17th level.
 
 ## Mummified Servant
-At 3rd level, you learn the [find familiar](../../Magic/Spells/find-familiar.md) spell and can cast it as a ritual. The spell doesn’t count against your number of prepared spells.
+At 3rd level, you learn the [find familiar](../../Magic/Spells/find-familiar.md) spell and can cast it as a ritual. The spell doesn't count against your number of prepared spells.
 
 When you cast the spell, you can choose only from the following withered creatures: bat, hound, or rat.
 
@@ -26,11 +26,11 @@ Starting at 6th level, you can cast the bestow curse spell using one of your spe
 ## Undead Cohort: Mummy
 At 10th level, you are able to taint the remains of a recently slain creature. You choose the corpse of a creature that has died in the last 24 hours and touch it with your undead graft, encasing it in funeral wrappings fused with necrotic energy and causing it to rise as a mummy under your control. The mummy turns to dust when it drops to 0 hit points or when 1 hour passes. The mummy is friendly to you and your companions for the duration. Roll initiative for the mummy, which has its own turns.
 
-The mummy obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the mummy, it defends itself from hostile creatures but otherwise takes no actions. The DM has the mummy’s statistics.
+The mummy obeys any verbal commands that you issue to it (no action required by you). If you don't issue any commands to the mummy, it defends itself from hostile creatures but otherwise takes no actions. The DM has the mummy's statistics.
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can't use it again until you finish a long rest.
 
 ## Putrescent Slam
 At 14th level, you gain the power to bestow mummy's rot. Make a melee spell attack against a creature. On a hit, the target takes 10 (3d6) bludgeoning damage, plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or other magic. 
 
-Once you use this feature, you can’t use it again until you finish a short or long rest.
+Once you use this feature, you can't use it again until you finish a short or long rest.

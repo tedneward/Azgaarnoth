@@ -11,7 +11,7 @@ linked to processes of transformation and creation. A fire shaman always has som
 
 **Action.** The life of a flame is short and unpredictable, allowing little time for deliberation. Shamans of the flame often take a similar view of mortal life and choose to live in the moment, acting on their impulses instead of wasting time on sophistry.
 
-**Indulgence.** A fire does not refrain from burning its fuel—it consumes whatever is placed before it. So, too, do shamans of the fire indulge their desires. Whether for fine food, luxurious accommodations, or other amenities, a fire shaman seeks satisfaction and enjoyment from life.
+**Indulgence.** A fire does not refrain from burning its fuel--it consumes whatever is placed before it. So, too, do shamans of the fire indulge their desires. Whether for fine food, luxurious accommodations, or other amenities, a fire shaman seeks satisfaction and enjoyment from life.
 
 **Speaker of Flames Calling Spells**
 Shaman Level | Calling Spells
@@ -23,7 +23,7 @@ Shaman Level | Calling Spells
 9th | [immolation](../../Magic/Spells/immolation.md), [mass cure wounds](../../Magic/Spells/mass-cure-wounds.md)
 
 ## Blessings of Flame
-When you choose this calling at 1st level, you gain the [control flames](../../Magic/Spells/control-flames.md), [fire bolt](../../Magic/Spells/fire-bolt.md), [fire hawk](../../Magic/Spells/fire-hawk.md) and [produce flame](../../Magic/Spells/produce-flame.md) cantrips and learn the Ignan dialect of the Primordial language. You also become proficient with one type of artisan’s tools.
+When you choose this calling at 1st level, you gain the [control flames](../../Magic/Spells/control-flames.md), [fire bolt](../../Magic/Spells/fire-bolt.md), [fire hawk](../../Magic/Spells/fire-hawk.md) and [produce flame](../../Magic/Spells/produce-flame.md) cantrips and learn the Ignan dialect of the Primordial language. You also become proficient with one type of artisan's tools.
 
 ## Flamespeaker
 Also at 1st level, you gain the ability to speak with fire. As an action, you can call to the spirit of a fire within 10 feet of you, allowing it to communicate with you in Ignan and answer questions that you pose. You can ask the fire up to three questions before the effect ends. A fire knows only what has occurred around it since it was lit, though it can usually describe the individual who lit it and always knows the nature of objects and materials that it has burned. 
@@ -37,7 +37,7 @@ Once you use this feature to speak with a fire, you cannot speak with that same 
 ## Burn Away
 Starting at 6th level, you can vanish into flames in response to harm. When you take damage, you can use your reaction to disappear in a gout of fire and teleport up to 30 feet to an unoccupied space you can see, where you appear in a second burst of flames. Each creature other than you within 5 feet of either your original location or your new one must make a Dexterity saving throw against your shaman spell save DC. A creature takes 2d10 fire damage on a failed save, or half as much damage on a successful one. A creature in the area of more than one fiery burst is affected only once.
 
-Once you use this feature, you can’t use it again until you finish a short or long rest.
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ## Absorb Fire
 At 10th level, your inner fire burns so hot that flames heal you, rather than harming you. You are immune to fire damage, and whenever you would normally take fire damage, you instead regain a number of hit points equal to half the damage that would have been dealt, rounded down. This feature can restore you to no more than half of your hit point maximum.
@@ -47,4 +47,4 @@ Upon reaching 14th level, you learn the secret of forging fire itself into concr
 
 At any time, you can take an action to dismiss the flames that you have bound into an object, causing it to disappear in a harmless flash of fire. An object also disappears if it suffers noticeable structural damage. Otherwise, objects created by this feature last indefinitely. You can maintain a number of objects equal to your Charisma modifier. If you attempt use this feature to create an object that would exceed this limit, you can choose to dismiss one of your older objects. If you do not, the attempt fails.
 
-This feature cannot be used to create creatures or magic items. You also can’t use it to create items that normally require a high degree of craftsmanship, such as jewelry, weapons, glass, or armor, unless you have proficiency with the type of artisan’s tools used to craft such objects. Using any material created by this feature as a spell’s material component causes that spell to fail.
+This feature cannot be used to create creatures or magic items. You also can't use it to create items that normally require a high degree of craftsmanship, such as jewelry, weapons, glass, or armor, unless you have proficiency with the type of artisan's tools used to craft such objects. Using any material created by this feature as a spell's material component causes that spell to fail.

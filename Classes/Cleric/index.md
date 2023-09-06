@@ -199,7 +199,7 @@ Cleric Level | Destroys Undead of CR ...
 ## Blessed Strikes
 *8th-level cleric feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can’t use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ## Divine Intervention
 *10th-level cleric feature*

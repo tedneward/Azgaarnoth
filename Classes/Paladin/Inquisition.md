@@ -22,7 +22,7 @@ Level | Spells
 ## Channel Divinity
 When you take this Oath at 3rd level, you gain the following two Channel Divinity options:
 
-***Channel Divinity: Inquisitor’s Interrogation.*** As an action, you announce proudly your name and your investigation. Any creatures with the Shapechanger trait that can see or hear you must succeed on a Wisdom saving throw or return to their true form.
+***Channel Divinity: Inquisitor's Interrogation.*** As an action, you announce proudly your name and your investigation. Any creatures with the Shapechanger trait that can see or hear you must succeed on a Wisdom saving throw or return to their true form.
 
 ***Channel Divinity: I Am The Law.*** As an action, you hold forth your holy symbol as a badge of authority, and quell the hearts of lesser men. Each humanoid that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is frightened for the next minute, or until it takes damage.
 
@@ -41,4 +41,4 @@ At 20th level, you gain the ability to harness an uncanny insight into your enem
 * You gain advantage on all Insight, Perception and Religion checks.
 * Your automatically succeed on saving throws against curses and illusions
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can't use it again until you finish a long rest.

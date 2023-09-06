@@ -1,5 +1,5 @@
 # Sorcerous Origin: Evil Star
-You were born under an evil star. That’s what people told you, even as they crossed to other side of the street and made a sign against bad magic. Your blood carries the blighted power of the far off stars, cold and burning, deathly givers of life.
+You were born under an evil star. That's what people told you, even as they crossed to other side of the street and made a sign against bad magic. Your blood carries the blighted power of the far off stars, cold and burning, deathly givers of life.
 
 The starlight murmurs in your blood can manifest in a number of peculiar ways:
 1d6 | Evil Star Bloodline Quirks
@@ -12,7 +12,7 @@ The starlight murmurs in your blood can manifest in a number of peculiar ways:
 6 | Your blood is coloured like obsidian, and is flecked with motes of starlight.
 
 ## Star Magic
-You learn additional spells when you reach certain levels in this class, as shown on the Star Spells table. Each spell counts as a sorcerer spell for you, but it doesn’t count against the number of sorcerer spells you know. These spells can’t be replaced when you gain a level in this class.
+You learn additional spells when you reach certain levels in this class, as shown on the Star Spells table. Each spell counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know. These spells can't be replaced when you gain a level in this class.
 
 Level | Star Spells
 ----- | -------------
