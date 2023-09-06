@@ -20,3 +20,24 @@
 
 * **Languages.** You can speak, read, and write Common and Goblin.
 
+```
+name = 'Goblin'
+def level0(npc):
+    npc.DEX += 2
+    npc.CON += 1
+
+    npc.size = 'Small'
+
+    npc.speed['walking'] = 30
+
+    npc.senses['darkvision'] = 60
+
+    npc.traits.append(traits['fey-ancestry'])
+    npc.defer(lambda npc: npc.traits.append("***Fury of the Small ({self.proficiencybonus()}/Recharges on long rest).*** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal {self.levels()} extra damage to the creature. You can use this trait no more than once per turn."))
+
+    npc.bonusactions.append("***Nimble Escape.*** You can take the Disengage or Hide action as a bonus action on each of your turns.")
+
+    npc.languages.append("Common")
+    npc.languages.append("Goblin")
+```
+

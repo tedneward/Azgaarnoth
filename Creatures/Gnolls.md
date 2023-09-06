@@ -1,5 +1,5 @@
 # Gnolls
-Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without warning, slaughtering their victims and devouring their flesh.
+Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without warning, slaughtering their victims and devouring their flesh. Gnolls are infamous among "civilized" nations for their brutality and demonic heritage. For the most part, they earned their reputation honestly. Many gnoll packs are indeed aggressive and have a demonic side to their affairs. Typically they worship the demon lord Yeenoghu. They also tend to be rather aggressive and are still mistrusted and avoided. To them, the pack is more important than anything else.
 
 > Jump to: [Gnoll](Gnolls.md#gnoll) | [Gnoll Pack Lord](Gnolls.md#gnoll-pack-lord) | [Gnoll Fang of Yeenoghu](Gnolls.md#gnoll-fang-of-yeenoghu) | [Flind](Gnolls.md#flind) | [Gnoll Flesh Gnawer](Gnolls.md#gnoll-flesh-gnawer) | [Gnoll Hunter](Gnolls.md#gnoll-hunter) | [Gnoll Witherling](Gnolls.md#gnoll-witherling) | [Gnoll Headhunter](Gnolls.md#gnoll-headhunter) | [Gnoll Hunt Master](Gnolls.md#gnoll-hunt-master)
 
@@ -13,9 +13,27 @@ Gnolls rarely build permanent structures or craft anything of lasting value. The
 
 ***Thirst for Blood.*** No goodness or compassion resides in the heart of a gnoll. Like a demon, it lacks anything resembling a conscience, and can't be taught or coerced to put aside its destructive tendencies. The gnolls' frenzied bloodlust makes them an enemy to all, and when they lack a common foe, they fight among themselves. Even the most savage orcs avoid allying with gnolls.
 
+## Physical Description
+Demon-worshiping is not the only reason many races are wary of gnolls. A lean, muscular 7-foot tall gnoll can be an imposing sight. Despite their musculature, they move rather quickly, easily outpacing most other races. Gnolls also outpace most other races in how quickly they mature. A gnoll matures by the age of 5 and lives to be about 30. Oddly a gnoll's vitality will remain with them until very soon before their natural death.
+
+Gnolls have reflective eyes that are typically bright green or yellow. They also have a thick coat of fur, which is generally light brown or dark brown. Certain clans may possess a single-colored coat or a spotted or striped coat. Some gnolls possess crest like manes of hair going from their head down their spine which rise up when they become frightened or angry.
+
+Adding to other races distrust about gnolls, occasionally a gnoll's demonic ancestry will result in peculiar physical traits. This might be manifested in the claws of gnoll claw fighters or an abnormal eye or coat colors.
+
+## History
+Gnolls are widely known as raiders and slavers. The pack will often serve as a "reconnaissance-in-force" scouting party for a Horde making its way across the landscape during a campaign, but gnolls typically are not known as civilized soldiers. In the middle of the night, they attack a village or town, killing and eating guards and taking slaves. These slaves are then brutalized physically and mentally. This has become an art among many gnoll tribes. In fact, many gnoll tribes have *tantekurash* or "spirit breakers" who are experts at breaking the wills of slaves. If the slave resists, it is eaten. Occasionally a slave's mind becomes so broken they revere the brutality of their gnoll captors. They then become *kryshantel* or "savage souls" who follow their gnoll masters into battle as thralls. (It is rumored that some have applied the same formula to captured gnolls and earned the loyalty of the gnoll, but this method retains the gnoll's love of savagery and brutality, making it a tactic generally only used by those who wish to use the gnoll for such purposes.)
+
+However, not all gnoll tribes are evil. There are a scattered few nomadic tribes who specialize as hunters and trappers. They may even come to peacefully interact with other races and often offer their service as hunters or trappers. Even so, they remain fairly aggressive and quick to anger, so other races have to be careful not to offend them. One large gnoll pack has even formed a mercenary company, the [Barking Dogs](../Organizations/MercCompanies/BarkingDogs.md). The [Dread Emperor](../People/DreadEmperor.md) has been rumored to be capturing and "turning" gnoll packs to serve as part of his armies, though if this is true they have yet to be used anywhere other than on the front lines against the Ulmhorde. Gnolls are also particularly desirable bodygards for the [Zhi](../Nations/Zhi.md) mystics and elite, as they are extremely difficult to be bought or enticed to betrayal.
+
+In addition to the typical variety of gnoll, there is a sub-race known as flind gnolls. They tend to be shorter and stouter than other gnolls, use flindbars more commonly, and live in more hilly areas than other gnolls who live in plains. Flind gnolls can be either raiders or hunters as described above. If you want to play a flind gnoll, make yourself somewhat short and stout and consider using a flindbar.
+
+***Society.*** While there may be struggles within packs to determine who the alpha is, throughout these conflicts, both sides remain allies. To gnolls, the good of the pack is far more important than any personal glory. As a result, gnolls can be loyal to a fault to their chosen pack. In battle gnolls strive endlessly to prevent their packmates from being harmed, even taking an injury themselves.
+
+Furthermore, a gnoll's mind is undeniably primal. They are natural predators and love the thrill and challenge of the hunt. This has resulted in a few traits in most gnolls. For the most part, gnolls prefer the wilds to any sort of urban area, though there are exceptions who see a city as a unique form of wilderness. Moreover, gnolls typically avoid diplomacy in favor of intimidating an answer out of others. It is simpler that way.
+
 ***Monstrous Gnoll Feats.*** For those gnolls which are favored by Yeenoghu enough to survive to the appropriate levels, a number of gnoll-specific [feats](../Classes/Feats.md) are available.
 
-***Playable Race: Incomparable Companions.*** Within the last millenium, tribes of gnolls have begun to change their ways, leaving some to wonder if the influence Yeenoghu exerted upon them has begun to wane. While exceptions exist, most gnolls continue to show their traditional ways, and when coming upon a gnoll in the wild, travelers are strongly suggested to keep weapons close at hand. Gnolls can be a [playable race](../Races/Gnoll.md).
+***Playable Race: Incomparable Companions.*** Gnoll [player characters](../Races/Gnolls.md) can be of any temperament--within the last millenium, an enlightenment has reached a number of gnoll packs, and those who seek more than just plunder and slaughter have made their way into a more "civilized" existence. While exceptions exist, most gnolls continue to show their traditional ways, and when coming upon a gnoll in the wild, travelers are strongly suggested to keep weapons close at hand.
 
 ---
 

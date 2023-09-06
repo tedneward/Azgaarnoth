@@ -1,14 +1,14 @@
 # Mark of Making
-The Mark of Making guides its bearer through any act of creation. The bearer of the mark can mend broken things with a touch, and always has a minor magic item they’ve been working on. An artificer or a wizard will get the most out of the mark, but anyone can find a use for an enchanted blade.
+The Mark of Making guides its bearer through any act of creation. The bearer of the mark can mend broken things with a touch, and always has a minor magic item they've been working on. An artificer or a wizard will get the most out of the mark, but anyone can find a use for an enchanted blade.
 
 ### Traits
-The Mark of Making only manifests on humans. If your character has the Mark of Making, these traits replace the human’s Ability Score Increase trait given in the Player’s Handbook.
+The Mark of Making only manifests on humans. If your character has the Mark of Making, these traits replace the human's Ability Score Increase trait given in the Player's Handbook.
 
 **Ability Score Increase**. Your Intelligence and Dexterity scores increase by 1. Increase either Intelligence or Dexterity by an additional 1 point.
 
-**Artisan’s Intuition**. When you make an ability check with artisan’s tools, roll 1d4 and add it to the result.
+**Artisan's Intuition**. When you make an ability check with artisan's tools, roll 1d4 and add it to the result.
 
-**Maker’s Gift**. You know the cantrip [mending](../Magic/Spells/mending.md). You gain proficiency with one type of artisan’s tools.
+**Maker's Gift**. You know the cantrip [mending](../Magic/Spells/mending.md). You gain proficiency with one type of artisan's tools.
 
 **Magecraft**. You can create a temporary magic item out of common materials. Choose a cantrip from the spell list below. Describe the item connected to it. As long as you possess the item, you know that cantrip. At the end of a long rest, you can replace this with a new item and select a new cantrip from the list. Intelligence is your spellcasting ability for these cantrips.
 
@@ -38,7 +38,7 @@ The Mark of Making only manifests on humans. If your character has the Mark of M
 * [shocking grasp](../Magic/Spells/shocking-grasp.md)
 * [thunderclap](../Magic/Spells/thunderclap.md)
 
-**Spellsmith**. You can spend one minute to weave a temporary enchantment into a nonmagical suit of armor or weapon. For the next hour the object becomes a magic item, gaining a +1 bonus to AC if it’s armor or a +1 bonus to hit and damage if it’s a weapon. Once you use this trait, you can’t use it again until you finish a long rest.
+**Spellsmith**. You can spend one minute to weave a temporary enchantment into a nonmagical suit of armor or weapon. For the next hour the object becomes a magic item, gaining a +1 bonus to AC if it's armor or a +1 bonus to hit and damage if it's a weapon. Once you use this trait, you can't use it again until you finish a long rest.
 
 ```
 name = 'Making Dragonmark'
@@ -47,11 +47,11 @@ def level0(npc):
     npc.INT += 1
     npc.DEX += 1
 
-    npc.traits.append("***Artisan’s Intuition.*** When you make an ability check with artisan’s tools, roll 1d4 and add it to the result.")
+    npc.traits.append("***Artisan's Intuition.*** When you make an ability check with artisan's tools, roll 1d4 and add it to the result.")
 
     npc.cantripsknown.append("mending")
 
     npc.traits.append("***Magecraft.*** You can create a temporary magic item out of common materials. Choose a cantrip from the Magecraft Cantrip Spell List. Describe the item connected to it. As long as you possess the item, you know that cantrip. At the end of a long rest, you can replace this with a new item and select a new cantrip from the list. Intelligence is your spellcasting ability for these cantrips.")
 
-    npc.traits.append("***Spellsmith.*** You can spend one minute to weave a temporary enchantment into a nonmagical suit of armor or weapon. For the next hour the object becomes a magic item, gaining a +1 bonus to AC if it’s armor or a +1 bonus to hit and damage if it’s a weapon. Once you use this trait, you can’t use it again until you finish a long rest.")
+    npc.traits.append("***Spellsmith.*** You can spend one minute to weave a temporary enchantment into a nonmagical suit of armor or weapon. For the next hour the object becomes a magic item, gaining a +1 bonus to AC if it's armor or a +1 bonus to hit and damage if it's a weapon. Once you use this trait, you can't use it again until you finish a long rest.")
 ```

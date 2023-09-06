@@ -1,5 +1,5 @@
 # Scourge Aasimar
-Scourge aasimar are imbued with a divine energy that blazes intensely within them. It feeds a powerful desire to destroy evil — a desire that is, at its best, unflinching and, at its worst, all-consuming. Many scourge aasimar wear masks to block out the world and focus on containing this power, unmasking themselves only in battle.
+Scourge aasimar are imbued with a divine energy that blazes intensely within them. It feeds a powerful desire to destroy evil -- a desire that is, at its best, unflinching and, at its worst, all-consuming. Many scourge aasimar wear masks to block out the world and focus on containing this power, unmasking themselves only in battle.
 
 * **Ability Score Increase**. Your Constitution score increases by 1.
 
