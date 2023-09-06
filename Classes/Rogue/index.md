@@ -1,6 +1,10 @@
 # Rogue
 Rogues rely on skill, stealth, and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem, demonstrating a resourcefulness and versatility that is the cornerstone of any successful adventuring party.
 
+```
+name = 'Rogue'
+```
+
 *You must have a Dexterity score of 13 or higher in order to multiclass in or out of this class.*
 
 Level|Proficiency Bonus|Sneak Attack|Features
@@ -34,6 +38,10 @@ As a rogue, you gain the following class features.
 **Hit Points at 1st Level**: 8 + your Constitution modifier
 
 **Hit Points at Higher Levels**: 1d8 (or 5) + your Constitution modifier per rogue level after 1st
+
+```
+def everylevel(npc): npc.hits('d8')
+```
 
 ## Proficiencies
 **Armor**: Light armor
@@ -69,6 +77,59 @@ You don't need advantage on the attack roll if another enemy of the target is wi
 
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
 
+```
+def level1(npc):
+    npc.proficiencies.append('Light armor')
+    npc.proficiencies.append('Simple weapons')
+    npc.proficiencies.append('Hand crossbow')
+    npc.proficiencies.append('Longsword')
+    npc.proficiencies.append('Rapier')
+    npc.proficiencies.append('Shortsword')
+    npc.proficiencies.append('Thieves tools')
+
+    npc.savingthrows.append('DEX')
+    npc.savingthrows.append('INT')
+
+    thiefskills = ['Acrobatics', 'Athletics', 'Deception', 'Insight', 'Intimidation', 'Investigation', 'Perception', 'Performance', 'Persuasion', 'Sleight of Hand', 'Stealth']
+    npc.skills.append(choose("Choose a skill: ", thiefskills))
+    npc.skills.append(choose("Choose a skill: ", thiefskills))
+    npc.skills.append(choose("Choose a skill: ", thiefskills))
+    npc.skills.append(choose("Choose a skill: ", thiefskills))
+
+    # Sneak Attack
+    npc.defer(lambda npc: npc.traits.append(f"***Sneak Attack.*** Once per turn, you can deal an extra {(npc.levels('Rogue') + 1) // 2}d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll."))
+
+    # Expertise
+    exp1 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
+    exp2 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
+    npc.roguishexpertise = [ exp1, exp2 ]
+    npc.defer(lambda npc: npc.traits.append(f"***Expertise.*** Your proficiency bonus is doubled for any ability check that uses any of the following skills: {','.join(npc.roguishexpertise)}."))
+
+    def getskills(self):
+        print("Rogueish getskills() instead")
+        skillmap = {
+            'Acrobatics' : 'DEX', 'Animal Handling' : 'WIS', 'Arcana' : 'INT',
+            'Athletics' : 'STR', 'Deception' : 'CHA', 'History' : 'INT',
+            'Insight' : 'WIS', 'Intimidation' : 'CHA', 'Investigation' : 'INT',
+            'Medicine' : 'WIS', 'Nature' : 'INT', 'Perception' : 'WIS', 'Performance' : 'CHA', 
+            'Persuasion' : 'CHA', 'Religion' : 'INT', 'Sleight of Hand' : 'DEX', 
+            'Stealth' : 'DEX', 'Survival' : 'WIS'
+        }
+        results = []
+        for skill in self.skills:
+            if skill in self.roguishexpertise:
+                results.append(f"{skill} +{(getattr(self, str(skillmap[skill]) + 'bonus', None)()) + (self.proficiencybonus() * 2)}")
+            else:
+                results.append(f"{skill} +{(getattr(self, str(skillmap[skill]) + 'bonus', None)()) + self.proficiencybonus()}")
+        return ",".join(results)
+    npc.getskills = types.MethodType(getskills, npc)
+
+def level6(npc):
+    exp1 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
+    exp2 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
+    npc.roguishexpertise += [ exp1, exp2 ]
+```
+
 ## Thieves' Cant
 *1st-level rogue feature*
 
@@ -82,6 +143,11 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 Your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
 
 You may also your Cunning Action to carefully aim your next attack. As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven’t moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
+
+```
+def level2(npc):
+    npc.bonusactions.append("***Cunning Action.*** You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action. You may also your Cunning Action to carefully aim your next attack. As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven’t moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.")
+```
 
 ## Roguish Archetype
 *3rd-level rogue feature*
@@ -104,38 +170,115 @@ You choose an archetype that you emulate in the exercise of your rogue abilities
 
 Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
 
+```
+def level3(npc):
+    rogue = filter(lambda c: c.name == name, npc.classes).__next__()
+
+    (_, subclass) = choose("Choose a subclass: ", subclasses)
+    npc.subclasses[rogue] = subclass
+    (npc.subclasses[rogue]).level3(npc)
+
+def level9(npc): 
+    rogue = filter(lambda c: c.name == name, npc.classes).__next__()
+    (npc.subclasses[rogue]).level9(npc)
+
+def level13(npc): 
+    rogue = filter(lambda c: c.name == name, npc.classes).__next__()
+    (npc.subclasses[rogue]).level13(npc)
+
+def level17(npc): 
+    rogue = filter(lambda c: c.name == name, npc.classes).__next__()
+    (npc.subclasses[rogue]).level17(npc)
+```
+
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+```
+def level4(npc):
+    npc.abilityscoreimprovement()
+    npc.abilityscoreimprovement()
+
+def level8(npc):
+    npc.abilityscoreimprovement()
+    npc.abilityscoreimprovement()
+
+def level10(npc):
+    npc.abilityscoreimprovement()
+    npc.abilityscoreimprovement()
+
+def level12(npc):
+    npc.abilityscoreimprovement()
+    npc.abilityscoreimprovement()
+
+def level16(npc):
+    npc.abilityscoreimprovement()
+    npc.abilityscoreimprovement()
+
+def level19(npc):
+    npc.abilityscoreimprovement()
+    npc.abilityscoreimprovement()
+```
 
 ## Uncanny Dodge
 *5th-level rogue feature*
 
 When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
 
+```
+def level5(npc):
+    npc.reactions.append("***Uncanny Dodge.*** When an attacker that you can see hits you with an attack, you can halve the attack's damage against you.")
+```
+
 ## Evasion
 *7th-level rogue feature*
 
 You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an [ice storm]() spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+```
+def level7(npc):
+    npc.traits.append("***Evasion.*** When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.")
+```
 
 ## Reliable Talent
 *11th-level rogue feature*
 
 You have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
 
+```
+def level11(npc):
+    npc.traits.append("***Reliable Talent.*** Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.")
+```
+
 ## Blindsense
 *14th-level rogue feature*
 
 If you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
+
+```
+def level14(npc):
+    npc.senses['blindsense'] = 10
+```
 
 ## Slippery Mind
 *15th-level rogue feature*
 
 You have acquired greater mental strength. You gain proficiency in Wisdom saving throws.
 
+```
+def level15(npc):
+    npc.savingthrows.append('WIS')
+```
+
 ## Elusive
 *18th-level rogue feature*
 
 You are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.
+
+```
+def level18(npc):
+    npc.traits.append("***Elusive.*** No attack roll has advantage against you while you aren't incapacitated.")
+```
 
 ## Stroke of Luck
 *20th-level rogue feature*
@@ -143,3 +286,8 @@ You are so evasive that attackers rarely gain the upper hand against you. No att
 You have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
+
+```
+def level20(npc):
+    npc.traits.append("***Stroke of Luck (Recharges on short or long rest).*** If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.")
+```

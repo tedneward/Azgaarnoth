@@ -13,6 +13,7 @@ import types
 quiet = False
 verbose = False
 scripted = False
+SAVEPY = os.getenv('SAVE_PY')
 
 def error(*values):
     print(*values)
@@ -26,9 +27,7 @@ def log(*values):
     if verbose and not quiet:
         print(*values)
 
-
 REPOROOT = '../../'
-
 
 # ---------------------------------------------------------
 # 'Common' routines available to all loaded modules
@@ -157,7 +156,8 @@ def choose(text, choices):
         raise BaseException('Unrecognized type of choices: ' + str(type(choices)))
 
 def spelllinkify(name):
-    return f'[{name}](http://azgaarnoth.tedneward.com/spells/{name}.md)'
+    filename = name.replace(' ','-')
+    return f'[{name}](http://azgaarnoth.tedneward.com/spells/{filename}.md)'
 
 def replace(text, list, newtext):
     for it in list:
@@ -199,6 +199,10 @@ def loadmodule(filename, modulename=None):
                 if codeblock == True:
                     pythoncode += line
 
+        if SAVEPY in mdfilename:
+            print("Saving parsed Python....")
+            with open('./Python/' + os.path.basename(mdfilename) + '.py', 'w') as pyfile:
+                pyfile.write(pythoncode)
         return pythoncode
 
     def builddict(module):
@@ -212,6 +216,7 @@ def loadmodule(filename, modulename=None):
             "min": min,
             "len": len,
             "print": print,
+            "types": types
         }
         for (key, value) in builtins.items():
             module.__dict__[key] = value
@@ -279,6 +284,7 @@ def loadraces():
 # We expect class modules to contain the following top-level symbols:
 # name : string
 # levelX(npc) : functions invoked at each level in that class
+# preferredstats() : function returning (in order) the stats preferred
 # subclasses: map<string, dict(name, levelX functions)>
 classes = {}
 def loadclasses():
@@ -453,6 +459,66 @@ class NPC:
         for dfn in self.normalizers:
             dfn(self)
 
+        # Let's see if there's any duplicate skills or other things
+        skilllist = []
+        for skill in self.skills:
+            if skill in skilllist:
+                warn("Duplicated skill: " + skill)
+            else:
+                skilllist.append(skill)
+        self.skills = skilllist
+
+        proflist = []
+        for prof in self.proficiencies:
+            if prof in proflist:
+                warn("Duplicated proficiency: " + prof)
+            else:
+                proflist.append(prof)
+        self.proficiencies = proflist
+
+        damagetypes = [ 
+            'acid', 'bludgeoning', 'cold', 'fire', 'force', 'lightning', 'necrotic', 
+            'piercing', 'poison', 'psychic', 'radiant', 'slashing', 'thunder'            
+        ]
+        def verifytypes(list):
+            for entry in list:
+                if entry not in damagetypes:
+                    warn("Unrecognized energy type: " + entry)
+        verifytypes(self.damageimmunities)
+        verifytypes(self.damageresistances)
+        verifytypes(self.damagevulnerabilities)
+
+    def getsavingthrows(self):
+        results = []
+        for st in self.savingthrows:
+            results.append(f"{st.title()} +{self.proficiencybonus() + (getattr(self, st + 'bonus', None))()}")
+        return ",".join(results)
+
+    def getskills(self):
+        skillmap = {
+            'Acrobatics' : 'DEX', 
+            'Animal Handling' : 'WIS', 
+            'Arcana' : 'INT',
+            'Athletics' : 'STR',
+            'Deception' : 'CHA', 
+            'History' : 'INT',
+            'Insight' : 'WIS',
+            'Intimidation' : 'CHA',
+            'Investigation' : 'INT',
+            'Medicine' : 'WIS',
+            'Nature' : 'INT',
+            'Perception' : 'WIS',
+            'Performance' : 'CHA', 
+            'Persuasion' : 'CHA',
+            'Religion' : 'INT', 
+            'Sleight of Hand' : 'DEX', 
+            'Stealth' : 'DEX', 
+            'Survival' : 'WIS'
+        }
+        def mapskill(skill):
+            return f"{skill} +{(getattr(self, str(skillmap[skill]) + 'bonus', None)()) + self.proficiencybonus()}"
+        return ", ".join(map(mapskill, self.skills))
+ 
     def emitMD(self):
         def getsubracename(): return '' if self.subrace == None else self.subrace.name + ' '
 
@@ -478,32 +544,7 @@ class NPC:
                 else:
                     text += ", " + key + " " + str(value) + " ft"
             return text
-                
-        def getskills():
-            skillmap = {
-                'Acrobatics' : 'DEX', 
-                'Animal Handling' : 'WIS', 
-                'Arcana' : 'INT',
-                'Athletics' : 'STR',
-                'Deception' : 'CHA', 
-                'History' : 'INT',
-                'Insight' : 'WIS',
-                'Intimidation' : 'CHA',
-                'Investigation' : 'INT',
-                'Medicine' : 'WIS',
-                'Nature' : 'INT',
-                'Perception' : 'WIS',
-                'Performance' : 'CHA', 
-                'Persuasion' : 'CHA',
-                'Religion' : 'INT', 
-                'Sleight of Hand' : 'DEX', 
-                'Stealth' : 'DEX', 
-                'Survival' : 'WIS'
-            }
-            def mapskill(skill):
-                return f"{skill} +{(getattr(self, str(skillmap[skill]) + 'bonus', None)()) + self.proficiencybonus()}"
-            return ", ".join(map(mapskill, self.skills))
-        
+                       
         def getsenses():
             perception = f"passive Perception {10 + self.WISbonus() + (self.proficiencybonus() if 'Perception' in self.skills else 0)}"
             if len(self.senses) == 1:
@@ -515,12 +556,28 @@ class NPC:
                     else:
                         text += f"{key} {value} ft, "
                 return text + perception
-
         
+        def getracesubstring():
+            return f"{self.race.type} ({getsubracename()}{self.race.name})"
+        def getclasssubstring():
+            classmap = {}
+            for c in self.classes:
+                if c not in classmap:
+                    classmap[c] = 1
+                else:
+                    classmap[c] += 1
+            strs = []
+            for c in classmap:
+                if c in c.subclasses.keys():
+                    strs.append(f"{c.name} ({c.subclasses[c].name}) {classmap[c]}")
+                else:
+                    strs.append(f"{c.name} {classmap[c]}")
+            return "/".join(strs)
+
         linesep = ">___\n"
 
         result  =  ">### Name\n"
-        result += f'*{self.size} {self.race.type} ({getsubracename()}{self.race.name}), any alignment*\n'
+        result += f'*{self.size} {getracesubstring()} {getclasssubstring()}, any alignment*\n'
         result += linesep
         result += f">- **Armor Class** {getarmorclass()}\n"
         result += f">- **Hit Points** {self.hitpoints} ({self.hitdicedesc()} + {self.hpconbonus})\n"
@@ -536,12 +593,12 @@ class NPC:
         result += f"|{self.CHA} ({self.CHAbonus():+g})|\n"
         result += linesep
         result += f">- **Proficiency Bonus** {self.proficiencybonus():+g}\n"
-        result += f">- **Saving Throws** {','.join(self.savingthrows)}\n"
+        result += f">- **Saving Throws** {self.getsavingthrows()}\n"
         result += f">- **Damage Vulnerabilities** {','.join(self.damagevulnerabilities)}\n"
         result += f">- **Damage Resistances** {','.join(self.damageresistances)}\n"
         result += f">- **Damage Immunities** {','.join(self.damageimmunities)}\n"
         result += f">- **Condition Immunities** {','.join(self.conditionimmunities)}\n"
-        result += f">- **Skills** {getskills()}\n"
+        result += f">- **Skills** {self.getskills()}\n"
         result += f">- **Proficiencies** {','.join(self.proficiencies)}\n"
         result += f">- **Senses** {getsenses()}\n"
         result += f">- **Languages** {','.join(self.languages)}\n"
@@ -576,7 +633,9 @@ def generatenpc():
 
     def levelinvoke(module, level, npc):
         levelfn = getattr(module, 'level' + str(level), None)
-        if levelfn != None: levelfn(npc)
+        print(f"Looking for level{level} in {module}...")
+        if levelfn != None: 
+            levelfn(npc)
 
     def selectabilities():
         def roll():
@@ -624,9 +683,6 @@ def generatenpc():
 
         (choose("Method:", {"Standard": standard, "Hand": handentry, "Randomgen": randomgen, "Average": average}))[1]()
 
-    def selectclass():
-        pass
-
     def selectrace():
         (name, mod) = choose("Choose a race: ", races)
         npc.race = mod
@@ -658,16 +714,35 @@ def generatenpc():
     levelup = True
     while levelup == True:
         level += 1
-        print("-------- Level " + str(level))
+        print("-------- Choices for Level " + str(level))
 
-        # Any racial/subracial level advancements?
+        # Level up race and subrace
         levelinvoke(npc.race, level, npc)
-        levelinvoke(npc.subrace, level, npc)
+        if npc.subrace != None:
+            levelinvoke(npc.subrace, level, npc)
 
         # Choose a class
-        #clss = choose("Choose class:", classes)[1]
-        #clsslevel = npc.levels(clss.name) + 1
-        #levelinvoke(clss, clsslevel, npc)
+        clss = choose("Choose class:", classes)[1]
+        npc.classes.append(clss)
+        clsslevel = npc.levels(clss)
+        # Every class should have an "everylevel(npc)" function
+        print(npc.classes)
+        (getattr(clss, 'everylevel', None))(npc)
+        levelinvoke(clss, clsslevel, npc)
+
+        # Magic items
+        if npc.levels() == 4:
+            npc.description.append("***Magic Item: Uncommon Permanent.***")
+        if npc.levels() == 7:
+            npc.description.append("***Magic Item: Uncommon Permanent.***")
+        if npc.levels() == 10:
+            npc.description.append("***Magic Item: Rare Permanent.***")
+        if npc.levels() == 13:
+            npc.description.append("***Magic Item: Rare Permanent.***")
+        if npc.levels() == 16:
+            npc.description.append("***Magic Item: Very Rare Permanent.***")
+        if npc.levels() == 19:
+            npc.description.append("***Magic Item: Legendary Permanent.***")
 
         levelup = False if (choose("Another level? ", ['Yes','No']) == 'No') else True
 
@@ -676,12 +751,12 @@ def generatenpc():
 
 def process(script):
     global scripted
-    scripted = True
+    global scriptedinput
 
+    scripted = True
     scriptfile = open(script, 'r')
     with scriptfile:
         alltext = scriptfile.readlines()
-    global scriptedinput
     for text in alltext:
         # Let's support comments in the scripted input
         if text[0] == '#': continue
@@ -708,10 +783,10 @@ def main():
 
     parser = argparse.ArgumentParser(
         prog='NPCBuilder',
-        description='A tool for generating 5th-ed NPCs'
+        description='A tool for generating 5th-ed NPCs using PC rules/templates'
 	)
     parser.add_argument('--verbose', choices=['quiet', 'verbose'])
-    parser.add_argument('--version', action='version', version='%(prog)s 0.0')
+    parser.add_argument('--version', action='version', version='%(prog)s 0.1')
     parser.add_argument('scripts', type=process, nargs='?',
                     help='Generate an NPC from script rather than interactively')
     args = parser.parse_args()
@@ -722,7 +797,7 @@ def main():
             verbose = True
         elif args.verbose == 'quiet':
             quiet = True
-
+    
     if not scripted:
         npc = generatenpc()
         print(npc.emitMD())

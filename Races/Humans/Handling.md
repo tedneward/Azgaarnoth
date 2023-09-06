@@ -11,7 +11,7 @@ The Mark of Handling only manifests on humans. If your character has the Mark of
 * **The Bigger They Are**. When you cast a spell that affects only beasts, it also affects monstrosities with an Intelligence score of 3 or lower.
 
 ```
-name = 'Handling Dragonmark
+name = 'Handling Dragonmark'
 
 def level0(npc):
     npc.DEX += 1

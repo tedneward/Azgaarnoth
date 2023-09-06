@@ -31,10 +31,14 @@ type = 'humanoid'
 
 ```
 def level0(npc):
+    npc.description.append("***Race: Lizardfolk.*** ")
+
     npc.CON += 2
     npc.WIS += 1
 
     npc.size = 'Medium'
+    npc.speed['walking'] = 30
+    npc.speed['swimming'] = 30
 
     npc.defer(lambda npc: npc.actions.append(f"***Bite.*** Melee Weapon Attack: {npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5 ft., one target. Hit: 1d6 + {npc.STRbonus()} piercing damage."))
 
