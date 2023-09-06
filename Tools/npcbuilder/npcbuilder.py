@@ -329,7 +329,27 @@ def loadclasses():
 
 
 class NPC:
+    class Spellcasting:
+        def __init__(self, npc, ability):
+            self.npc = npc
+            self.ability = ability
+            self.cantrips = []
+            self.maxspellsknown = 0
+            self.spells = []
+            self.slots = []
+        
+        def spellsavedc(self):
+            return 8 + self.npc.proficiencybonus() + (getattr(self.npc, self.ability + "bonus", None))()
+
+        def spellattack(self):
+            return self.npc.proficiencybonus() + (getattr(self.npc, self.ability + "bonus", None))()
+
+        def spellslots(self):
+            pass
+
     def __init__(self):
+        self.description = []
+
         self.size = 'Medium'
         self.type = ''
 
@@ -378,14 +398,10 @@ class NPC:
         self.bonusactions = []
         self.reactions = []
 
-        # Spellcasting data; this one is going to be a touch tricky to sort out
-        self.cantripsknown = []
-        self.spellsknown = []
-        self.spellcastingattribute = ''
-        self.maxspellsknown = 0
-        self.spellslots = {}
-
-        self.description = []
+        # Spellcasting data; each is a hash tied to the name of the
+        # class or race whose spellcasting this is (Cleric, Wizard,
+        # Arcane Trickster, etc)
+        self.spellcasting = { }
 
         # Normalizers are fns run when the NPC is frozen;
         # usually these are level-dependent text/traits/features/etc
@@ -426,6 +442,13 @@ class NPC:
                     count += 1
             return count
 
+    def classmodulefor(self, name):
+        classobjs = list(filter(lambda c: c.name == name, self.classes))
+        if len(classobjs) > 0:
+            return classobjs[0]
+        else:
+            return None
+
     def hits(self, die):
         """Generate the hit points gained at the current level, using the die specified."""
         self.hitdice[die] += 1
@@ -458,6 +481,11 @@ class NPC:
             skilllist.remove(sk)
 
         self.skills.append(choose("Choose a skill:", skilllist))
+
+    def newspellcasting(self, source, ability):
+        spellcasting = NPC.Spellcasting(self, ability)
+        self.npc.spellcasting[source] = spellcasting
+        return spellcasting
 
     def freeze(self):
         """The NPC is finished building, so normalize any traits/features to this level."""

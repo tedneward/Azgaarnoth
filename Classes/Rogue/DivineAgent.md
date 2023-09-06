@@ -1,6 +1,10 @@
 # Roguish Archetype: Divine Agent
 In secrecy and shadows, divine agents work to further the agendas of the gods. Although divine agents dedicate their service to a deity in a similar way to clerics, they are generally above many of the normal rules and conventions of the church. Usually, they answer only to their deity and use divine magic and blessings to augment their roguish skills.
 
+```
+name = 'Divine Agent'
+```
+
 ## Spellcasting
 When you reach 3rd level, you gain the ability to cast spells from the cleric spell list.
 
@@ -43,6 +47,43 @@ Rogue Level | Cantrips Known | Spells Known | 1st|2nd|3rd|4th
 18th|4|11|4|3|3|--
 19th|4|12|4|3|3|1
 20th|4|13|4|3|3|1
+
+```
+# Cantrips known, Spells known, 1st, 2nd, 3rd, 4th
+spellcastingtable = {
+    3: [3, 3, 2, 0, 0, 0],
+    4: [3, 4, 3, 0, 0, 0],
+    5: [3, 4, 3, 0, 0, 0],
+    6: [3, 4, 3, 0, 0, 0],
+    7: [3, 5, 4, 2, 0, 0],
+    8: [3, 6, 4, 2, 0, 0],
+    9: [3, 6, 4, 2, 0, 0],
+   10: [4, 7, 4, 3, 0, 0],
+   11: [4, 8, 4, 3, 0, 0],
+   12: [4, 8, 4, 3, 0, 0],
+   13: [4, 9, 4, 3, 2, 0],
+   14: [4, 10, 4, 3, 2, 0],
+   15: [4, 10, 4, 3, 2, 0],
+   16: [4, 11, 4, 3, 3, 0],
+   17: [4, 11, 4, 3, 3, 0],
+   18: [4, 11, 4, 3, 3, 0],
+   19: [4, 12, 4, 3, 3, 1],
+   20: [4, 13, 4, 3, 3, 1]
+}
+def level3(npc):
+    spellcasting = npc.newspellcasting(name, 'WIS')
+
+    npc.spellcasting[name].cantripsknown.append("guidance")
+    spellcasting.cantripsknown.append("CHOOSE-Cleric")
+    spellcasting.cantripsknown.append("CHOOSE-Cleric")
+
+    spellcasting.spellsknown.append("CHOOSE-Cleric")
+    spellcasting.spellsknown.append("CHOOSE-ClericDviniationAbjuration")
+    spellcasting.spellsknown.append("CHOOSE-ClericDviniationAbjuration")
+
+def level10(npc):
+    npc.spellcasting[name].cantripsknown.append("CHOOSE-Cleric")
+```
 
 ## Agent of the Divines
 Starting at 3rd level, choose a domain from your chosen deity's list of eligible domains, you gain the 1st-level benefits of that domain as if you were a 1st-level cleric. However, you do not gain any armor proficiencies from this domain.
