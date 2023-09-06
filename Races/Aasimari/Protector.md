@@ -13,10 +13,10 @@ Protector aasimar are charged by the powers of good to guard the weak, to strike
 name = 'Protector'
 
 def level0(npc): 
-    npc.description.append("***Protector Aasimar.*** ...")
+    npc.description.append("***Protector Aasimar.*** Protector aasimar are charged by the powers of good to guard the weak, to strike at evil wherever it arises, and to stand vigilant against the darkness. From a young age, a protector aasimar receives advice and directives that urge to stand against evil.")
 
     npc.WIS += 1
 
 def level3(npc): 
-    npc.actions.append("***Radiant Soul (Recharges after long rest).*** The aasimar can unleash the divine energy within itself, causing its eyes to glimmer and two luminous, incorporeal wings to sprout from its back. This transformation lasts for 1 minute or until the aasimar ends it as a bonus action. During it, the aasimar has a flying speed of 30 feet, and once on each of its turns, you can deal extra radiant damage (equal to its level) to one target when it deals damage to it with an attack or a spell.")
+    npc.defer(lambda npc: npc.actions.append(f"***Radiant Soul (Recharges after long rest).*** The aasimar can unleash the divine energy within itself, causing its eyes to glimmer and two luminous, incorporeal wings to sprout from its back. This transformation lasts for 1 minute or until the aasimar ends it as a bonus action. During it, the aasimar has a flying speed of 30 feet, and once on each of its turns, you can deal extra {npc.levels()} radiant damage to one target when it deals damage to it with an attack or a spell."))
 ```

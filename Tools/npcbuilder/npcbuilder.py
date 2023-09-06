@@ -157,7 +157,7 @@ def choose(text, choices):
 
 def spelllinkify(name):
     filename = name.replace(' ','-')
-    return f'[{name}](http://azgaarnoth.tedneward.com/spells/{filename}.md)'
+    return f'[{name}](http://azgaarnoth.tedneward.com/magic/spells/{filename}/)'
 
 def replace(text, list, newtext):
     for it in list:
@@ -331,19 +331,16 @@ class NPC:
         def __init__(self, npc, ability):
             self.npc = npc
             self.ability = ability
-            self.cantrips = []
+            self.cantripsknown = []
             self.maxspellsknown = 0
-            self.spells = []
+            self.spells = { 1: [], 2: [], 3: [], 4: [], 5: [], 6: [], 7: [], 8: [], 9: [] }
             self.slots = []
         
         def spellsavedc(self):
-            return 8 + self.npc.proficiencybonus() + (getattr(self.npc, self.ability + "bonus", None))()
+            return 8 + self.npc.proficiencybonus() + (self.npc.abilitybonus(self.ability))
 
         def spellattack(self):
-            return self.npc.proficiencybonus() + (getattr(self.npc, self.ability + "bonus", None))()
-
-        def spellslots(self):
-            pass
+            return self.npc.proficiencybonus() + (self.npc.abilitybonus(self.ability))
 
     def __init__(self):
         self.description = []
@@ -416,6 +413,15 @@ class NPC:
     def INTbonus(self): return (self.INT // 2) - 5
     def WISbonus(self): return (self.WIS // 2) - 5
     def CHAbonus(self): return (self.CHA // 2) - 5
+    def abilitybonus(self, ability):
+        match ability:
+            case 'STR': return self.STRbonus()
+            case 'DEX': return self.DEXbonus()
+            case 'CON': return self.CONbonus()
+            case 'INT': return self.INTbonus()
+            case 'WIS': return self.WISbonus()
+            case 'CHA': return self.CHAbonus()
+            case _ : return None
 
     def abilityscoreimprovement(self):
         abilities = [ 'STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA']
@@ -435,9 +441,12 @@ class NPC:
             return len(self.classes)
         else:
             count = 0
-            for cli in self.classes:
-                if cli == clss:
-                    count += 1
+            if type(clss) is str:
+                for cli in self.classes:
+                    if cli.name == clss: count += 1
+            else:
+                for cli in self.classes: 
+                    if cli == clss: count += 1
             return count
 
     def classmodulefor(self, name):
@@ -481,8 +490,9 @@ class NPC:
         self.skills.append(choose("Choose a skill:", skilllist))
 
     def newspellcasting(self, source, ability):
+        """Convenience factory method to be used from literate Race/Class/Background/Feats"""
         spellcasting = NPC.Spellcasting(self, ability)
-        self.npc.spellcasting[source] = spellcasting
+        self.spellcasting[source] = spellcasting
         return spellcasting
 
     def freeze(self):
@@ -551,7 +561,7 @@ class NPC:
         return ", ".join(map(mapskill, self.skills))
  
     def emitMD(self):
-        def getsubracename(): return '' if self.subrace == None else self.subrace.name + ' '
+        def getsubracename(): return 
 
         def getarmorclass():
             result = []
@@ -589,7 +599,8 @@ class NPC:
                 return text + perception
         
         def getracesubstring():
-            return f"{self.race.type} ({getsubracename()}{self.race.name})"
+            return f"{self.race.type} ({'' if self.subrace == None else self.subrace.name + ' '}{self.race.name})"
+        
         def getclasssubstring():
             classmap = {}
             for c in self.classes:
@@ -597,10 +608,11 @@ class NPC:
                     classmap[c] = 1
                 else:
                     classmap[c] += 1
+
             strs = []
             for c in classmap:
-                if c in c.subclasses.keys():
-                    strs.append(f"{c.name} ({c.subclasses[c].name}) {classmap[c]}")
+                if c in self.subclasses.keys():
+                    strs.append(f"{c.name} ({self.subclasses[c].name}) {classmap[c]}")
                 else:
                     strs.append(f"{c.name} {classmap[c]}")
             return "/".join(strs)
@@ -641,8 +653,23 @@ class NPC:
         for action in self.actions:
             result += f">{action}\n"
             result +=  ">\n"
-        if len(self.cantripsknown) > 0:
-            result += f">***Innate Spellcasting.*** You know the cantrip{'s' if len(self.cantripsknown) > 1 else ''} {','.join(self.cantripsknown)}.\n>\n"
+
+        #Spellcasting is an action most of the time, so....
+        advlevel = [ '1st', '2nd', '3rd', '4th', '5th', '6th', '7th', '8th', '9th']
+        if len(self.spellcasting.keys()) > 0:
+            for (source, details) in self.spellcasting.items():
+                text = f">***{source} Spellcasting ({details.ability.title()}).*** "
+                if details.maxspellsknown > 0:
+                    text += f"{details.maxspellsknown} spells known. "
+                text += f"Spell save DC: {details.spellsavedc()}, Spell attack bonus: {details.spellattack()}\n"
+                text +=  ">\n"
+                if len(details.cantripsknown) > 0:
+                    text += ">* *Cantrips:* " + ",".join(map(lambda c: spelllinkify(c),details.cantripsknown)) + "\n"
+                for lvl in range(0, len(details.slots)):
+                    text += f">* *{advlevel[lvl]} ({details.slots[lvl]} slots): {','.join(details.spells[lvl+1])}\n"
+                text += ">\n"
+                result += text
+
         if len(self.reactions) > 0:
             result +=  ">#### Rections\n"
             for reaction in self.reactions:

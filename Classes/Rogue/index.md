@@ -97,7 +97,7 @@ def level1(npc):
     npc.skills.append(choose("Choose a skill: ", thiefskills))
 
     # Sneak Attack
-    npc.defer(lambda npc: npc.traits.append(f"***Sneak Attack.*** Once per turn, you can deal an extra {(npc.levels('Rogue') + 1) // 2}d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll."))
+    npc.defer(lambda npc: npc.traits.append(f"***Sneak Attack.*** Once per turn, you can deal an extra {(npc.levels(name) + 1) // 2}d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll."))
 
     # Expertise
     exp1 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
@@ -106,7 +106,6 @@ def level1(npc):
     npc.defer(lambda npc: npc.traits.append(f"***Expertise.*** Your proficiency bonus is doubled for any ability check that uses any of the following skills: {','.join(npc.roguishexpertise)}."))
 
     def getskills(self):
-        print("Rogueish getskills() instead")
         skillmap = {
             'Acrobatics' : 'DEX', 'Animal Handling' : 'WIS', 'Arcana' : 'INT',
             'Athletics' : 'STR', 'Deception' : 'CHA', 'History' : 'INT',

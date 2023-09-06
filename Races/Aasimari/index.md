@@ -36,8 +36,7 @@ def level0(npc):
     npc.senses['darkvision'] = '60ft'
     npc.damageresistances.append('necrotic')
     npc.defer(lambda npc: npc.actions.append(f"***Healing Hands (Recharges after long rest).*** You can touch a creature and cause it to regain {npc.levels()} hit points."))
-    npc.cantripsknown.append('light')
-    npc.spellcastingattribute = 'Charisma'
+    npc.newspellcasting(name, 'CHA').cantripsknown.append('light')
     npc.languages.append('Common')
     npc.languages.append('Celestial')
 ```
