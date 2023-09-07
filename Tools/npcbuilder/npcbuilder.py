@@ -341,9 +341,9 @@ class NPC:
             self.maxcantripsknown = 0
             self.spells = { 1: [], 2: [], 3: [], 4: [], 5: [], 6: [], 7: [], 8: [], 9: [] }
             self.maxspellsknown = 0
-            self.slots = []
 
-            self.table = {}
+            # This is a dict of level-to-list describing the slots at each level (offset by 1, of course....)
+            self.slottable = {}
 
         def casterlevel(self):
             if self.casterclass == None:
@@ -682,8 +682,8 @@ class NPC:
                 text +=  ">\n"
                 if len(details.cantripsknown) > 0:
                     text += ">* *Cantrips:* " + ",".join(map(lambda c: spelllinkify(c),details.cantripsknown)) + "\n"
-                for lvl in range(0, len(details.slots)):
-                    text += f">* *{advlevel[lvl]} ({details.slots[lvl]} slots): {','.join(details.spells[lvl+1])}\n"
+                for lvl in range(0, len(details.slottable[details.casterlevel()])):
+                    text += f">* *{advlevel[lvl]} ({details.slottable[details.casterlevel()][lvl]} slots): {','.join(details.spells[lvl+1])}\n"
                 text += ">\n"
                 result += text
 
@@ -843,8 +843,9 @@ def process(script):
                 npc = generatenpc()
                 outputfile.write(npc.emitMD())
                 outputfile.write("---\n\n")
-            except Exception:
+            except Exception as ex:
                 print("Exception!")
+                print(ex)
 
 def main():
     global verbose

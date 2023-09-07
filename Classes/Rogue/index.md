@@ -171,9 +171,9 @@ Your archetype choice grants you features at 3rd level and then again at 9th, 13
 
 ```
 def level3(npc):
-    rogue = npc.classmodulefor('Rogue')
+    rogue = classes['Rogue']
 
-    (_, subclass) = choose("Choose a subclass: ", subclasses)
+    (_, subclass) = choose("Choose a subclass: ", rogue.subclasses)
     npc.subclasses[rogue] = subclass
 ```
 

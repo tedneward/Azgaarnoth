@@ -56,22 +56,35 @@ def level3(npc):
     spellcasting = npc.newspellcasting(name, 'WIS')
     spellcasting.casterclass = baseclass
     npc.spellcasting[name].cantripsknown.append("guidance")
+
     npc.spellcasting[name].maxcantripsknown = 3
-
     npc.spellcasting[name].maxspellsknown = 3
-    npc.spellcasting[name].spells[1].append("CHOOSE-ClericDviniationAbjuration")
-    npc.spellcasting[name].spells[1].append("CHOOSE-ClericDviniationAbjuration")
-
-    npc.spellcasting[name].slots = [ 2 ]
-
+    npc.spellcasting[name].slottable = {
+        3: [ 2 ], 
+        4: [ 3 ],
+        5: [ 3 ],
+        6: [ 3 ],
+        7: [ 4, 2 ],
+        8: [ 4, 2 ],
+        9: [ 4, 2 ],
+        10: [ 4, 3 ] ,
+        11: [ 4, 3 ],
+        12: [ 4, 3 ],
+        13: [ 4, 3, 2 ],
+        14: [ 4, 3, 2 ],
+        15: [ 4, 3, 2 ],
+        16: [ 4, 3, 3 ],
+        17: [ 4, 3, 3 ],
+        18: [ 4, 3, 3 ],
+        19: [ 4, 3, 3, 1 ],
+        20: [ 4, 3, 3, 1 ]
+    }
 
 def level4(npc):
     npc.spellcasting[name].maxspellsknown = 4
-    npc.spellcasting[name].slots = [ 3 ]
 
 def level7(npc):
     npc.spellcasting[name].maxspellsknown = 5
-    npc.spellcasting[name].slots = [ 4, 2 ]
 
 def level8(npc):
     npc.spellcasting[name].maxspellsknown = 6
@@ -79,25 +92,21 @@ def level8(npc):
 def level10(npc):
     npc.spellcasting[name].maxcantripsknown = 4
     npc.spellcasting[name].maxspellsknown = 7
-    npc.spellcasting[name].slots = [ 4, 3 ]
 
 def level11(npc):
     npc.spellcasting[name].maxspellsknown = 8
 
 def level13(npc):
     npc.spellcasting[name].maxspellsknown = 9
-    npc.spellcasting[name].slots = [ 4, 3, 2 ]
 
 def level14(npc):
     npc.spellcasting[name].maxspellsknown = 10
 
 def level16(npc):
     npc.spellcasting[name].maxspellsknown = 11
-    npc.spellcasting[name].slots = [ 4, 3, 3 ]
 
 def level19(npc):
     npc.spellcasting[name].maxspellsknown = 12
-    npc.spellcasting[name].slots = [ 4, 3, 3, 1 ]
 
 def level14(npc):
     npc.spellcasting[name].maxspellsknown = 13

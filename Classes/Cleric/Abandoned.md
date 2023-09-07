@@ -13,7 +13,7 @@ At 1st level, your soul feels empty, and it craves any kind of healing. Whenever
 
 ```
 def level1(npc):
-    npc.traits.append("***Empty Soul.*** henever you are healed, you are healed for the maximum amount of hit points possible from the source of healing.")
+    npc.traits.append("***Empty Soul.*** Whenever you are healed, you are healed for the maximum amount of hit points possible from the source of healing.")
 ```
 
 ## Channel Divinity: Healing Pool
