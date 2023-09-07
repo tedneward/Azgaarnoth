@@ -49,29 +49,12 @@ Rogue Level | Cantrips Known | Spells Known | 1st|2nd|3rd|4th
 20th|4|13|4|3|3|1
 
 ```
-# Cantrips known, Spells known, 1st, 2nd, 3rd, 4th
-spellcastingtable = {
-    3: [3, 3, 2, 0, 0, 0],
-    4: [3, 4, 3, 0, 0, 0],
-    5: [3, 4, 3, 0, 0, 0],
-    6: [3, 4, 3, 0, 0, 0],
-    7: [3, 5, 4, 2, 0, 0],
-    8: [3, 6, 4, 2, 0, 0],
-    9: [3, 6, 4, 2, 0, 0],
-   10: [4, 7, 4, 3, 0, 0],
-   11: [4, 8, 4, 3, 0, 0],
-   12: [4, 8, 4, 3, 0, 0],
-   13: [4, 9, 4, 3, 2, 0],
-   14: [4, 10, 4, 3, 2, 0],
-   15: [4, 10, 4, 3, 2, 0],
-   16: [4, 11, 4, 3, 3, 0],
-   17: [4, 11, 4, 3, 3, 0],
-   18: [4, 11, 4, 3, 3, 0],
-   19: [4, 12, 4, 3, 3, 1],
-   20: [4, 13, 4, 3, 3, 1]
-}
 def level3(npc):
+    domain = choose("Choose a domain: ", classes['Cleric'].subclasses)
+    dname = domain.name; domain.name = 'DivineAgent-' + dname
+
     spellcasting = npc.newspellcasting(name, 'WIS')
+    spellcasting.casterclass = baseclass
     npc.spellcasting[name].cantripsknown.append("guidance")
     npc.spellcasting[name].maxcantripsknown = 3
 
@@ -81,7 +64,6 @@ def level3(npc):
 
     npc.spellcasting[name].slots = [ 2 ]
 
-    choose("Choose a domain: ", classes)
 
 def level4(npc):
     npc.spellcasting[name].maxspellsknown = 4

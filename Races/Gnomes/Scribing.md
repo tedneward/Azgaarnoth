@@ -26,9 +26,9 @@ def level0(npc):
     npc.proficiencies.append("Forgery kit")
     npc.traits.append("***Gifted Scribe.*** When you make an ability check using either calligrapher's supplies or forgery kits, you can roll one Intuition die, a d4, and add the number rolled to the ability check.")
 
-    npc.traits.append(f"***Scribe's Insight (Recharges on long rest).*** You can cast {spelllinkify('comprehend languages')} once with this trait. Intelligence is your spellcasting ability for it.")
-
-    npc.cantripsknown.append('message')
+    npc.newspellcasting('Dragonmark', 'INT').cantripsknown.append('message')
+    npc.spellcasting['Dragonmark'].spells[1].append('comprehend languages')
+    npc.spellcasting['Dragonmark'].slots = [ 1 ]
 
     npc.languages.append("CHOOSE")
 ```

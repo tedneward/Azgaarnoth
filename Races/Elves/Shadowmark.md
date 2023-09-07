@@ -31,17 +31,31 @@ The Mark of Shadow lets an elf weave illusions from shadows, crafting sounds and
 
 ### Traits
 The Mark of Shadow only manifests on elves. If your character has the Mark of Shadow, this is your elf subrace.
-Ability Score Increase. Your Charisma score increases by 1.
 
-**Natural Talent**. You gain proficiency with one musical instrument or the Performance skill.
+**Ability Score Increase.** Your Charisma score increases by 1.
 
-**Gift of the Shadows**. When you make a Charisma (Performance) or Dexterity (Stealth) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
+**Natural Talent.** You gain proficiency with one musical instrument or the Performance skill.
 
-**Shape Shadows**. You know the [minor illusion](../Magic/Spells/minor-illusion.md) cantrip. Charisma is your spellcasting ability for this trait.
+**Gift of the Shadows.** When you make a Charisma (Performance) or Dexterity (Stealth) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
 
-**Slip Into Shadow**. You can use the Hide action as a bonus action, even if you have no cover or if you’re under observation. Regardless of whether you succeed or fail, once you use this ability, you can’t use it again until you finish a short or long rest.
+**Shape Shadows.** You know the [minor illusion](../Magic/Spells/minor-illusion.md) cantrip. Charisma is your spellcasting ability for this trait.
+
+**Slip Into Shadow.** You can use the Hide action as a bonus action, even if you have no cover or if you’re under observation. Regardless of whether you succeed or fail, once you use this ability, you can’t use it again until you finish a short or long rest.
 
 ```
 name = 'Shadow Dragonmarked'
+def level0(npc):
+    npc.CHA += 1
 
+    choice = choose("Choose one: ", ['Performance', 'Musical instrument'])
+    if choice == 'Performance':
+        npc.skills.append("Performance")
+    else:
+        npc.proficiencies.append("Musical instrument")
+
+    npc.traits.append("***Gift of the Shadows.*** When you make a Charisma (Performance) or Dexterity (Stealth) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.")
+
+    npc.newspellcasting("Dragonmark", 'CHA').cantripsknown.append('minor illusion')
+
+    npc.bonusactions.append("***Slip Into Shadow (Recharges on short or long rest).*** You can use the Hide action as a bonus action, even if you have no cover or if you’re under observation.")
 ```

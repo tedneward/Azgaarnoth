@@ -3,6 +3,10 @@ Clerics are intermediaries between the mortal world and the distant planes of th
 
 Several major [religions](../../Religions/index.md) dot the surface of Azgaarnoth, each with its own set of domains and unique abilities. You may wish to take a look at these before making any particular choices about your cleric's domains and characteristics.
 
+```
+name = 'Cleric'
+```
+
 ## Class features
 As a cleric, you gain the following class features.
 
@@ -56,6 +60,25 @@ You start with the following equipment, in addition to the equipment granted by 
 * (a) a priest's pack or (b) an explorer's pack
 * A shield and a holy symbol
 
+```
+def everylevel(npc): npc.hits('d8')
+def level1(npc):
+    npc.description.append("***Class: Cleric.*** Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.")
+
+    npc.proficiencies.append("Light armor")
+    npc.proficiencies.append("Medium armor")
+    npc.proficiencies.append("Shields")
+    npc.proficiencies.append("Simple weapons")
+
+    npc.savingthrows.append('WIS')
+    npc.savingthrows.append('CHA')
+
+    skillchoices = ['History', 'Insight', 'Medicine', 'Persuasion', 'Religion']
+    npc.skills.append(choice("Choose a skill: ", skillchoices))
+    npc.skills.append(choice("Choose a skill: ", skillchoices))
+```
+
+
 ## Spellcasting
 *1st-level cleric feature*
 
@@ -82,6 +105,10 @@ Wisdom is your spellcasting ability for your cleric spells. The power of your sp
 **Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
 **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+
+```
+    sc = npc.newspellcasting(name, )
+```
 
 ### Ritual Casting
 You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.

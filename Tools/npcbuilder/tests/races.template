@@ -7,7 +7,22 @@ Ability Scores,Average,Race,Bugbear,
 # Centaur tests
 Ability Scores,Average,Race,Centaur,Nature,
 # Dragonborn
+Ability Scores,Average,Race,Dragonborn,Black,
+Ability Scores,Average,Race,Dragonborn,Blue,
+Ability Scores,Average,Race,Dragonborn,Brass,
+Ability Scores,Average,Race,Dragonborn,Bronze,
+Ability Scores,Average,Race,Dragonborn,Brown,
+Ability Scores,Average,Race,Dragonborn,Copper,
+Ability Scores,Average,Race,Dragonborn,Gold,
+Ability Scores,Average,Race,Dragonborn,Gray,
+Ability Scores,Average,Race,Dragonborn,Green,
+Ability Scores,Average,Race,Dragonborn,Platinum,
+Ability Scores,Average,Race,Dragonborn,Red,
+Ability Scores,Average,Race,Dragonborn,Silver,
+Ability Scores,Average,Race,Dragonborn,Steel,
+Ability Scores,Average,Race,Dragonborn,White,
 # Dragonkin
+Ability Scores,Average,Race,Dragonkin,
 # Dwarves
 Ability Scores,Average,Race,Dwarf,Brewer's Supplies,Dark,
 Ability Scores,Average,Race,Dwarf,Brewer's Supplies,Hill,
@@ -16,6 +31,14 @@ Ability Scores,Average,Race,Dwarf,Brewer's Supplies,Warding,
 # Elves
 Ability Scores,Average,Race,Elf,Bright,CHA,light,
 Ability Scores,Average,Race,Elf,Dark,
+Ability Scores,Average,Race,Elf,Fey,
+Ability Scores,Average,Race,Elf,High,
+Ability Scores,Average,Race,Elf,Sea,
+Ability Scores,Average,Race,Elf,Shadow,
+Ability Scores,Average,Race,Elf,Shadowmark,
+Ability Scores,Average,Race,Elf,Wild,
+Ability Scores,Average,Race,Elf,Winged,
+Ability Scores,Average,Race,Elf,Wood,
 # Genasi tests
 Ability Scores,Average,Race,Genasi,Medium,CHA,CHA,CHA,Air,CHA,
 Ability Scores,Average,Race,Genasi,Medium,CHA,CHA,CHA,Earth,CHA,
@@ -28,8 +51,13 @@ Ability Scores,Average,Race,Githzerai,
 # Gnolls
 Ability Scores,Average,Race,Gnoll,
 # Gnomes
-Ability Scores,Average,Race,Gnome,
+Ability Scores,Average,Race,Gnome,Dark,
+Ability Scores,Average,Race,Gnome,Deep,
+Ability Scores,Average,Race,Gnome,Forest,
+Ability Scores,Average,Race,Gnome,Rock,
+Ability Scores,Average,Race,Gnome,Scribing,
 # Half-Dragons
+Ability Scores,Average,Race,Half-Dragon,Medium,Red,
 # Half-Elves
 # Half-Ogres
 # Half-Orcs

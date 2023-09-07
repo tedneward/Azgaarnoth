@@ -29,7 +29,7 @@ def level0(npc):
   npc.proficiencies.append("Longbow")
   npc.proficiencies.append("Shortbow")
 
-  npc.traits.append("***Cantrip***. You know one cantrip of your choice from the Druid spell list. Wisdom is your spellcasting ability for it.")
+  npc.newspellcasting('Wild Elf', 'WIS').cantripsknown.append("CHOOSE-Druid")
 
   npc.languages.remove("Common")
   npc.languages.append("Sylvan")

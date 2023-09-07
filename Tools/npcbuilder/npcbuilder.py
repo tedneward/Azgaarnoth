@@ -316,6 +316,7 @@ def loadclasses():
                         log(f"Parsing {sf}...")
                         subclassname = os.path.splitext(sf)[0]
                         subclassmod = loadmodule(dirpath + '/' + sf, basemodule.name + "-" + subclassname)
+                        if subclassmod != None: setattr(subclassmod, "baseclass", basemodule)
                         subclasses[subclassname] = subclassmod
                 setattr(basemodule, "subclasses", subclasses)
             if basemodule != None:
@@ -334,6 +335,7 @@ class NPC:
     class Spellcasting:
         def __init__(self, npc, ability):
             self.npc = npc
+            self.casterclass = None
             self.ability = ability
             self.cantripsknown = []
             self.maxcantripsknown = 0
@@ -342,6 +344,12 @@ class NPC:
             self.slots = []
 
             self.table = {}
+
+        def casterlevel(self):
+            if self.casterclass == None:
+                return 0
+            else:
+                return self.npc.levels(self.casterclass)
 
         def spellsavedc(self):
             return 8 + self.npc.proficiencybonus() + (self.npc.abilitybonus(self.ability))
@@ -665,12 +673,12 @@ class NPC:
         advlevel = [ '1st', '2nd', '3rd', '4th', '5th', '6th', '7th', '8th', '9th']
         if len(self.spellcasting.keys()) > 0:
             for (source, details) in self.spellcasting.items():
-                text = f">***{source} Spellcasting ({details.ability.title()}).*** "
+                text = f">***{source} Spellcasting ({details.ability.title()}, caster level {details.casterlevel()}. Recharges on long rest).*** "
                 if details.maxcantripsknown > 0:
                     text += f"{details.maxcantripsknown} cantrips known. "
                 if details.maxspellsknown > 0:
                     text += f"{details.maxspellsknown} spells known. "
-                text += f"Spell save DC: {details.spellsavedc()}, Spell attack bonus: {details.spellattack()}\n"
+                text += f"Spell save DC: {details.spellsavedc()}, Spell attack bonus: +{details.spellattack()}\n"
                 text +=  ">\n"
                 if len(details.cantripsknown) > 0:
                     text += ">* *Cantrips:* " + ",".join(map(lambda c: spelllinkify(c),details.cantripsknown)) + "\n"
@@ -793,6 +801,8 @@ def generatenpc():
         # Every class should have an "everylevel(npc)" function, so crash if its not there
         (getattr(clss, 'everylevel', None))(npc)
         levelinvoke(clss, clsslevel, npc)
+        if clss in npc.subclasses:
+            levelinvoke(npc.subclasses[clss], clsslevel, npc)
 
         # Magic items
         if npc.levels() == 4:

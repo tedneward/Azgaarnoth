@@ -171,23 +171,10 @@ Your archetype choice grants you features at 3rd level and then again at 9th, 13
 
 ```
 def level3(npc):
-    rogue = filter(lambda c: c.name == name, npc.classes).__next__()
+    rogue = npc.classmodulefor('Rogue')
 
     (_, subclass) = choose("Choose a subclass: ", subclasses)
     npc.subclasses[rogue] = subclass
-    (npc.subclasses[rogue]).level3(npc)
-
-def level9(npc): 
-    rogue = filter(lambda c: c.name == name, npc.classes).__next__()
-    (npc.subclasses[rogue]).level9(npc)
-
-def level13(npc): 
-    rogue = filter(lambda c: c.name == name, npc.classes).__next__()
-    (npc.subclasses[rogue]).level13(npc)
-
-def level17(npc): 
-    rogue = filter(lambda c: c.name == name, npc.classes).__next__()
-    (npc.subclasses[rogue]).level17(npc)
 ```
 
 ## Ability Score Improvement
