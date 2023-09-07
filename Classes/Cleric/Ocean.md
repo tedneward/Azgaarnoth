@@ -32,9 +32,11 @@ Also at 1st level, you can torrentuously rebuke attackers. When a creature withi
 
 ```
 def level1(npc):
+    npc.description.append("***Divine Domain: Ocean.***")
+
     npc.speed['swimming'] = npc.speed['walking']
 
-    npc.defer(lambda npc: npc.reactions.append(f"***Wrath of the Wave ({npc.WISbonus()}/Recharge on long rest).*** When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw (DC {npc.spellcasting[name].spellsavedc()}). The creature takes 2d6 cold damage on a failed saving throw and is pushed back 10 feet, and half as much damage (and is not pushed) on a successful one."))
+    npc.defer(lambda npc: npc.reactions.append(f"***Wrath of the Wave ({npc.WISbonus() if npc.WISbonus() > 0 else 1}/Recharge on long rest).*** When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw (DC {npc.spellcasting['Cleric'].spellsavedc()}). The creature takes 2d6 cold damage on a failed saving throw and is pushed back 10 feet, and half as much damage (and is not pushed) on a successful one."))
 ```
 
 ## Channel Divinity: Torrential Wrath
@@ -54,7 +56,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 
 ```
 def level8(npc):
-    npc.defer(lambda npc: npc.traits.append(f"***Divine Strike.*** Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra {npc.levels('Cleric')}d8 cold damage to the target. When you reach 14th level, the extra damage increases to 2d8."))
+    npc.defer(lambda npc: npc.traits.append(f"***Divine Strike.*** Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra {'1' if npc.levels('Cleric') < 14 else '2'}d8 cold damage to the target."))
 ```
 
 ## Seablooded

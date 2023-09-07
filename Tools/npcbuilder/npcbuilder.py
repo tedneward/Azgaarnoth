@@ -29,8 +29,8 @@ def log(*values):
 
 REPOROOT = '../../'
 
-# ---------------------------------------------------------
-# 'Common' routines available to all loaded modules
+# ----------------------------------------------------------
+# Common routines available to all loaded modules
 def levelinvoke(module, level, npc):
     def nop(npc): pass
 
@@ -62,7 +62,7 @@ def choose(text, choices):
             if int(response) > len(choicelist):
                 response = None
 
-        response = int(response) - 1 # Account for zero-based index
+        response = int(response) - 1 # Account for z'ero-based 'index
         print("You chose " + choicelist[response])
         inputhistory.append(str(response))
         return choices[response]
@@ -104,7 +104,7 @@ def choose(text, choices):
             if int(response) > len(choicemap):
                 response = None
 
-        responseidx = int(response) - 1 # Account for zero-based index
+        responseidx = int(response) - 1 # Account for z'ero-based 'index
         responsekey = list(choicemap.keys())[responseidx]
         inputhistory.append(str(responseidx))
         print("You chose " + str((responsekey, choicemap[responsekey])))
@@ -156,8 +156,8 @@ def choose(text, choices):
         raise BaseException('Unrecognized type of choices: ' + str(type(choices)))
 
 def spelllinkify(name):
-    filename = name.replace(' ','-')
-    return f'[{name}](http://azgaarnoth.tedneward.com/magic/spells/{filename}/)'
+    linkdest = name.replace(' ','-')
+    return f"[{name}](http://azgaarnoth.tedneward.com/magic/spells/{linkdest}/)"
 
 def replace(text, list, newtext):
     for it in list:
@@ -180,11 +180,52 @@ traits = {
     'fey-ancestry' : "***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.",
     'powerful-build': "***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.",
     'sea-emissary' : "***Emissary of the Sea.*** You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return.",
-    'sunlight-sensitivity' : "***Sunlight Sensitivity.*** You have disadvantage on Attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.",
+    'sunlight-sensitivity' : "***Sun'light' Sensitivity.*** You have disadvantage on Attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sun'light'.",
+}
+
+weapons = {
+    'Longsword': ['1d8', 'slashing', ['versatile (1d10)']],
+    'Battleaxe': ['1d8', 'slashing', ['versatile (1d10)']],
+    'Flail': ['1d8', 'bludgeoning', []],
+    'Glaive': ['1d10', 'slashing', ['heavy', 'reach', 'two-handed']],
+    'Greataxe': ['1d12', 'slashing', ['heavy', 'two-handed']],
+    'Greatsword': ['2d6', 'slashing', ['heavy', 'two-handed']],
+    'Halberd': ['1d10', 'slashing', ['heavy', 'reach', 'two-handed']],
+    'Lance': ['1d12', 'piercing', ['reach', 'special']],
+    'Maul': ['2d6', 'bludgeoning', ['heavy', 'two-handed']],
+    'Morningstar': ['1d8', 'piercing', []],
+    'Pike': ['1d10', 'piercing', ['heavy', 'reach', 'two-handed']],
+    'Rapier': ['1d8', 'piercing', ['finesse']],
+    'Scimitar': ['1d6', 'slashing', ['finesse', 'light']],
+    'Shortsword': ['1d6', 'piercing', ['finesse', 'light']],
+    'Trident': ['1d6', 'piercing', ['thrown (range 20/60)', 'versatile (1d8)']],
+    'War pick': ['1d8', 'piercing', []],
+    'Warhammer': ['1d8', 'bludgeoning', ['versatile (1d10)']],
+    'Whip': ['1d4', 'slashing', ['finesse', 'reach']],
+    'Club': ['1d4', 'bludgeoning', ['Light']],
+    'Dagger': ['1d4', 'piercing', ['finesse', 'light', 'thrown (range 20/60)']],
+    'Greatclub': ['1d8', 'bludgeoning', ['two-handed']],
+    'Handaxe': ['1d6', 'slashing', ['Light', 'thrown (range 20/60)']],
+    'Javelin': ['1d6', 'piercing', ['thrown (range 30/120)']],
+    'Light hammer': ['1d4' 'bludgeoning', ['Light', 'thrown (range 20/60)']],
+    'Mace': ['1d6', 'bludgeoning', []],
+    'Quarterstaff': ['1d6', 'bludgeoning', ['versatile (1d8)']],
+    'Sickle': ['1d4', 'slashing', ['light']],
+    'Spear': ['1d6', 'piercing',	['thrown (range 20/60)', 'versatile (1d8)']],
+    'Light Crossbow': ['1d8', 'piercing', ['ammunition (range 80/320)', 'loading', 'two-handed']],
+    'Dart': ['1d4' 'piercing', ['finesse', 'thrown (range 20/60)']],
+    'Shortbow': ['1d6', 'piercing', ['ammunition (range 80/320)', 'two-handed']],
+    'Sling': ['1d4' 'bludgeoning',	['ammunition (range 30/120)']],
+    'Blowgun': ['1' 'piercing', ['ammunition (range 25/100)', 'loading']],
+    'Hand Crossbow': ['1d6', 'piercing', ['ammunition (range 30/120)', 'light', 'loading']],
+    'Heavy Crossbow': ['1d10', 'piercing', ['ammunition (range 100/400)', 'heavy', 'loading', 'two-handed']],
+    'Longbow': ['1d8', 'piercing', ['ammunition (range 150/600)', 'heavy', 'two-handed']],
+    'Net': ['-', 'special', ['thrown (range 5/15)']]
 }
 
 
-# ---------------------------------------------------------
+
+# ------------------------------------
 # Module management
 def loadmodule(filename, modulename=None):
     def parsemd(mdfilename):
@@ -209,8 +250,8 @@ def loadmodule(filename, modulename=None):
         global classes
         global races
         builtins = {
-            "classes": classes,
-            "races": races,
+            "allclasses": classes,
+            "allraces": races,
             "traits": traits,
             "spelllinkify": spelllinkify,
             "choose": choose,
@@ -238,7 +279,7 @@ def loadmodule(filename, modulename=None):
         warn(f"{filename} has no literate code")
         return None
 
-# We expect race modules to contain the following top-level symbols:
+# We expect race modules to contain the following 'top-level 'symbols:
 # Mandatory:
 #   name : string
 #   level0(npc) : function
@@ -285,7 +326,7 @@ def loadraces():
             if module != None:
                 races[module.name] = module
 
-# We expect class modules to contain the following top-level symbols:
+# We expect class modules to contain the following 'top-level 'symbols:
 # name : string
 # levelX(npc) : functions invoked at each level in that class
 # preferredstats() : function returning (in order) the stats preferred
@@ -337,19 +378,23 @@ class NPC:
             self.npc = npc
             self.casterclass = None
             self.ability = ability
-            self.cantripsknown = []
             self.maxcantripsknown = 0
-            self.spells = { 1: [], 2: [], 3: [], 4: [], 5: [], 6: [], 7: [], 8: [], 9: [] }
+            self.cantripsknown = []
             self.maxspellsknown = 0
+            self.spellsprepared = 0
+            self.spells = { 1: [], 2: [], 3: [], 4: [], 5: [], 6: [], 7: [], 8: [], 9: [] }
 
             # This is a dict of level-to-list describing the slots at each level (offset by 1, of course....)
             self.slottable = {}
+            # This is for the spellcasting that isn't le'vel-based
+            self.slots = []
+
+        def __str__(self):
+            return f"{self.casterclass} / {self.npc.levels(self.casterclass)} / {self.ability} / {self.spells} / {self.slottable}"
 
         def casterlevel(self):
-            if self.casterclass == None:
-                return 0
-            else:
-                return self.npc.levels(self.casterclass)
+            if self.casterclass == None: return 0
+            else: return self.npc.levels(self.casterclass)
 
         def spellsavedc(self):
             return 8 + self.npc.proficiencybonus() + (self.npc.abilitybonus(self.ability))
@@ -367,7 +412,7 @@ class NPC:
         self.race = None
         # Subrace is a dict ('name', 'levelX', ...) for the subrace selected
         self.subrace = None
-        # Classes is a list of the class-dicts for each class taken
+        # Classes is a list of the cl'ass-dicts 'for each class taken
         # e.g, '[<fighter>,<fighter>,<monk>,<monk>,<fighter>] for a Fighter 3/Monk 2 NPC
         self.classes = []
         # Subclasses is a map of the classmodule.name : subclassmodule
@@ -414,7 +459,7 @@ class NPC:
         self.spellcasting = { }
 
         # Normalizers are fns run when the NPC is frozen;
-        # usually these are level-dependent text/traits/features/etc
+        # usually these are le'vel-depend'ent text/traits/features/etc
         self.normalizers = []
         self.deferred = {}
 
@@ -576,8 +621,6 @@ class NPC:
         return ", ".join(map(mapskill, self.skills))
  
     def emitMD(self):
-        def getsubracename(): return 
-
         def getarmorclass():
             result = []
             ac = 10
@@ -642,7 +685,7 @@ class NPC:
         result += f">- **Speed** {getspeed()}\n"
         result += linesep
         result +=  ">|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|\n"
-        result +=  ">|:---:|:---:|:---:|:---:|:---:|:---:|\n"
+        result +=  "'>|:-:|:-:|:-:|:-:|:-:|:-:|\n"
         result += f">|{self.STR} ({self.STRbonus():+g})"
         result += f"|{self.DEX} ({self.DEXbonus():+g})"
         result += f"|{self.CON} ({self.CONbonus():+g})"
@@ -673,17 +716,27 @@ class NPC:
         advlevel = [ '1st', '2nd', '3rd', '4th', '5th', '6th', '7th', '8th', '9th']
         if len(self.spellcasting.keys()) > 0:
             for (source, details) in self.spellcasting.items():
-                text = f">***{source} Spellcasting ({details.ability.title()}, caster level {details.casterlevel()}. Recharges on long rest).*** "
+                casterlevel = ''
+                if details.casterlevel() > 0:
+                    casterlevel = ", at level " + str(details.casterlevel())
+                text = f">***{source} Spellcasting ({details.ability.title()}{casterlevel}. Recharges on long rest).*** "
                 if details.maxcantripsknown > 0:
                     text += f"{details.maxcantripsknown} cantrips known. "
                 if details.maxspellsknown > 0:
                     text += f"{details.maxspellsknown} spells known. "
+                if details.spellsprepared > 0:
+                    text += f"{details.spellsprepared} spells prepared. "
                 text += f"Spell save DC: {details.spellsavedc()}, Spell attack bonus: +{details.spellattack()}\n"
                 text +=  ">\n"
-                if len(details.cantripsknown) > 0:
+                if details.maxcantripsknown > 0 or len(details.cantripsknown):
                     text += ">* *Cantrips:* " + ",".join(map(lambda c: spelllinkify(c),details.cantripsknown)) + "\n"
-                for lvl in range(0, len(details.slottable[details.casterlevel()])):
-                    text += f">* *{advlevel[lvl]} ({details.slottable[details.casterlevel()][lvl]} slots): {','.join(details.spells[lvl+1])}\n"
+                if details.casterclass != None:
+                    slots = details.slottable[details.casterlevel()]
+                    for lvl in range(len(slots)):
+                        text += f">* *{advlevel[lvl]} ({slots[lvl]} slots):* {','.join(map(lambda c: spelllinkify(c),details.spells[lvl+1]))}\n"
+                else:
+                    for lvl in range(len(details.slots)):
+                        text += f">* *{advlevel[lvl]} ({details.slots[lvl]} slots):* {','.join(map(lambda c: spelllinkify(c),details.spells[lvl+1]))}\n"
                 text += ">\n"
                 result += text
 
@@ -714,22 +767,19 @@ def generatenpc():
         def roll():
             return random.randrange(1,6) + random.randrange(1,6) + random.randrange(1,6)
         def handentry():
-            def numberorrandom():
-                if len(scriptedinput) > 0:
-                    maybe = scriptedinput.pop(0).strip()
-                    if maybe == "random":
-                        return roll()
-                    else:
-                        return int(maybe)
-                else:
+            def numberorrandom(ability):
+                maybe = choose(ability, [])
+                if maybe == "random":
                     return roll()
+                else:
+                    return int(maybe)
                 
-            npc.STR += numberorrandom()
-            npc.DEX += numberorrandom()
-            npc.CON += numberorrandom()
-            npc.INT += numberorrandom()
-            npc.WIS += numberorrandom()
-            npc.CHA += numberorrandom()
+            npc.STR += numberorrandom("STR")
+            npc.DEX += numberorrandom("DEX")
+            npc.CON += numberorrandom("CON")
+            npc.INT += numberorrandom("INT")
+            npc.WIS += numberorrandom("WIS")
+            npc.CHA += numberorrandom("CHA")
         def randomgen():
             npc.STR += roll()
             npc.DEX += roll()
@@ -757,7 +807,7 @@ def generatenpc():
         (choose("Method:", {"Standard": standard, "Hand": handentry, "Randomgen": randomgen, "Average": average}))[1]()
 
     def selectrace():
-        (name, mod) = choose("Choose a race: ", races)
+        (_, mod) = choose("Choose a race: ", races)
         npc.race = mod
         npc.type = mod.type
         if getattr(npc.race, 'level0', None) != None:
@@ -787,7 +837,7 @@ def generatenpc():
     levelup = True
     while levelup == True:
         level += 1
-        print("-------- Choices for Level " + str(level))
+        print("Choices for Level " + str(level))
 
         # Level up race and subrace
         levelinvoke(npc.race, level, npc)
@@ -842,10 +892,9 @@ def process(script):
             try:
                 npc = generatenpc()
                 outputfile.write(npc.emitMD())
-                outputfile.write("---\n\n")
+                outputfile.write("\n\n")
             except Exception as ex:
-                print("Exception!")
-                print(ex)
+                print("Exception!", ex)
 
 def main():
     global verbose
@@ -860,8 +909,8 @@ def main():
         prog='NPCBuilder',
         description='A tool for generating 5th-ed NPCs using PC rules/templates'
 	)
-    parser.add_argument('--verbose', choices=['quiet', 'verbose'])
-    parser.add_argument('--version', action='version', version='%(prog)s 0.1')
+    parser.add_argument('-verbose', choices=['quiet', 'verbose'])
+    parser.add_argument('-version', action='version', version='%(prog)s 0.1')
     parser.add_argument('scripts', type=process, nargs='?',
                     help='Generate an NPC from script rather than interactively')
     args = parser.parse_args()

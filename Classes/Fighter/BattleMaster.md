@@ -1,4 +1,4 @@
-# Fighter Martial Archetype: Battle Master
+# Martial Archetype: Battle Master
 Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master archetype, but those who do are well-rounded fighters of great skill and knowledge.
 
 Battle mastery is taught almost exclusively at the Great Academy run by the [Order of the Bronze Dragon](../../Organizations/MilitantOrders/DraconicOrder/Bronze.md), but many of its instructors and students have gone on to found much smaller schools or take on apprentices after leaving. Taking this archetype will typically involve spending some amount of time at the Academy or studying under one of its alumni in some fashion. Battle Masters are also found in many of the [Dueling Colleges](../../Organizations/DuelingColleges.md) across Azgaarnoth, and many [Mercenary Companies](../../Organizations/MercCompanies/) provide "field study" for Battle Masters.

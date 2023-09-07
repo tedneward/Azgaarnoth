@@ -1,4 +1,4 @@
-# Figher Martial Archetype: Scout
+# Martial Archetype: Scout
 The archetypal scout excels at finding safe passage through dangerous regions. Scouts usually favor light armor and ranged weapons, but they are comfortable using heavier gear when faced with intense fighting.
 
 ## Bonus Proficiencies

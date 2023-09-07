@@ -1,4 +1,4 @@
-# Fighter Martial Archetype: Cavalier
+# Martial Archetype: Cavalier
 The archetypal cavalier excels at mounted combat. Usually born among the nobility and raised at court, a cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Compelled to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure.
 
 Cavalier Martial Archetypes are frequently found in [Mercenary Companies](../../Organizations/MercCompanies/MercCompanies.md). They are often not the leader of the company, but often lead the cavalry detachment, if the company has one.

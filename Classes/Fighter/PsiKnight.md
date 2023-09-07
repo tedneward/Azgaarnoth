@@ -1,4 +1,4 @@
-# Fighter Martial Archetype: Psi Warrior
+# Martial Archetype: Psi Warrior
 Awake to the psionic power within, a Psi Warrior is a fighter who augments their physical might with psi-infused weapon strikes, telekinetic lashes, and barriers of mental force. Many githyanki train to become such knights, as do some of the most disciplined high elves. As a Psi Warrior, you might have honed your psionic abilities through solo discipline, unlocked it under the tutelage of a master, or refined it at an academy dedicated to wielding the mind's power as both weapon and shield.
 
 The Psi Warrior Martial Archetype is only available to characters who have close ties (somehow) to the [MindMage](../../Organizations/MageSchools/MindMage.md) mage school. They will be welcome among any [Mercenary Company](../../Organizations/MercCompanies/) if they wish to take employment, but a good many of them stay on with the school to continue their psionic development, and quite a few of them multiclass with other classes, usually with psionic leanings. Some fall into "bad company" and multiclass as [Soulknife Rogues](../Rogue/Soulknife.md).
@@ -22,6 +22,7 @@ When you reach certain levels in this class, the size of your Psionic Energy dic
 *7th-level Psi Warrior feature*
 
 You have mastered new ways to use your telekinetic abilities, detailed below.
+
 * **Psi-Powered Leap.** As a bonus action, you can propel your body with your mind. You gain a flying speed equal to twice your walking speed until the end of the current turn. Once you take this bonus action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.
 * **Telekinetic Thrust.** When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. If the save fails, you can knock the target prone or move it up to 10 feet in any direction horizontally.
 

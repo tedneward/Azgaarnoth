@@ -1,4 +1,4 @@
-# Fighter Martial Archetype: Sharpshooter
+# Martial Archetype: Sharpshooter
 The Sharpshooter is a master of ranged combat. An excellent sniper and eagle-eyed scout, this fighter is a perilous foe who can defeat an entire war band so long as they are kept at range.
 
 ## Steady Aim

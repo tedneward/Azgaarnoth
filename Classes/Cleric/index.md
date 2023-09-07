@@ -107,7 +107,7 @@ Wisdom is your spellcasting ability for your cleric spells. The power of your sp
 
 ```
     sc = npc.newspellcasting(name, 'WIS')
-    sc.casterclass = classes['Cleric']
+    sc.casterclass = allclasses['Cleric']
     sc.slottable = {
         1: [ 2 ],
         2: [ 3 ],
@@ -117,7 +117,7 @@ Wisdom is your spellcasting ability for your cleric spells. The power of your sp
         6: [ 4, 3, 3 ],
         7: [ 4, 3, 3, 1 ],
         8: [ 4, 3, 3, 2 ],
-        9: [ 4, 3, 3, 3,1 ],
+        9: [ 4, 3, 3, 3, 1 ],
         10: [ 4, 3, 3, 3, 2] ,
         11: [ 4, 3, 3, 3, 2, 1 ],
         12: [ 4, 3, 3, 3, 2, 1 ],
@@ -131,8 +131,11 @@ Wisdom is your spellcasting ability for your cleric spells. The power of your sp
         20: [ 4, 3, 3, 3, 3, 2, 2, 1, 1 ]
     }
 
-    def spellcastingcantrips(npc): npc.spellcasting[name].cantripsknown = 3 if npc.levels(name) < 4 else 4 if npc.levels(name) < 10 else 5
-    npc.defer(lambda npc: spellcastingcantrips(npc))
+    def spellcasting(npc): 
+        npc.spellcasting[name].maxcantripsknown = 3 if npc.levels(name) < 4 else 4 if npc.levels(name) < 10 else 5
+        npc.spellcasting[name].spellsprepared = npc.levels(name) + npc.WISbonus()
+
+    npc.defer(lambda npc: spellcasting(npc))
 ```
 
 ### Ritual Casting
@@ -196,8 +199,9 @@ Choose one domain:
 Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use [Channel Divinity](#channel-divinity) when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
 ```
-    (_, subclass) = choose("Choose a domain: ", classes['Cleric'].subclasses)
-    npc.subclasses['Cleric'] = subclass
+    (_, subclass) = choose("Choose a domain: ", allclasses['Cleric'].subclasses)
+    npc.subclasses[allclasses['Cleric']] = subclass
+    print(npc.subclasses)
 ```
 
 ## Domain Spells
@@ -231,7 +235,7 @@ As an action, you present your holy symbol and speak a prayer censuring the unde
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 ```
-    npc.actions.append("***Channel Divinity: Turn Undead.*** You can use one of your uses of Channel Divinity to turn undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.")
+    npc.actions.append("***Channel Divinity: Turn Undead.*** You can use one of your uses of Channel Divinity to turn undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.")
 ```
 
 ## Channel Divinity: Harness Divine Power
@@ -240,7 +244,7 @@ A turned creature must spend its turns trying to move as far away from you as it
 You can expend a use of your [Channel Divinity](#channel-divinity) to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.
 
 ```
-    npc.bonusactions.append("***Channel Divinity: Harness Divine Power.*** You can expend a use of your Channel Divinity to regain one expended spell slot, the level of which can be no higher than {(npc.proficiencybonus() // 2) + 1}.")
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Channel Divinity: Harness Divine Power.*** You can expend a use of your Channel Divinity to regain one expended spell slot, the level of which can be no higher than {(npc.proficiencybonus() // 2) + 1}."))
 ```
 
 ## [Ability Score Improvement](#ability-score-improvement)
