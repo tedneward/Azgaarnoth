@@ -382,11 +382,12 @@ class NPC:
             self.cantripsknown = []
             self.maxspellsknown = 0
             self.spellsprepared = 0
+            self.spellsalwaysprepared = []
             self.spells = { 1: [], 2: [], 3: [], 4: [], 5: [], 6: [], 7: [], 8: [], 9: [] }
 
             # This is a dict of level-to-list describing the slots at each level (offset by 1, of course....)
             self.slottable = {}
-            # This is for the spellcasting that isn't le'vel-based
+            # This is for the spellcasting that isn't level-based
             self.slots = []
 
         def __str__(self):
@@ -727,6 +728,8 @@ class NPC:
                 if details.spellsprepared > 0:
                     text += f"{details.spellsprepared} spells prepared. "
                 text += f"Spell save DC: {details.spellsavedc()}, Spell attack bonus: +{details.spellattack()}\n"
+                if len(details.spellsalwaysprepared) > 0:
+                    text += f">\n>Spells always prepared: {','.join(map(lambda c: spelllinkify(c),details.spellsalwaysprepared))}\n"
                 text +=  ">\n"
                 if details.maxcantripsknown > 0 or len(details.cantripsknown):
                     text += ">* *Cantrips:* " + ",".join(map(lambda c: spelllinkify(c),details.cantripsknown)) + "\n"

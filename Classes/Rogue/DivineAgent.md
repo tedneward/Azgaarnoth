@@ -3,6 +3,7 @@ In secrecy and shadows, divine agents work to further the agendas of the gods. A
 
 ```
 name = 'Divine Agent'
+description = "***Roguish Archetype: Divine Agent.*** In secrecy and shadows, divine agents work to further the agendas of the gods. Although divine agents dedicate their service to a deity in a similar way to clerics, they are generally above many of the normal rules and conventions of the church. Usually, they answer only to their deity and use divine magic and blessings to augment their roguish skills."
 ```
 
 ## Spellcasting

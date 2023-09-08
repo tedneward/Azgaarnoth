@@ -3,6 +3,7 @@ Nearly all clerics pray to a god, and their belief in them is what gives them th
 
 ```
 name = 'Abandoned'
+description = "***Divine Domain: Abandoned.*** Some clerics worship dead powers, or gods that prefer not to give powers to the unworthy, or the unproven. And some have lost their god's trust, leaving them without their power. These are the clerics of the Abandoned Domain."
 ```
 
 ## Spell Collection

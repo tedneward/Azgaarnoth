@@ -32,10 +32,9 @@ At 17th level, you have gained the ability to make yourself disappear from sight
 
 ```
 name = "Burglar"
+description = "**Roguish Archetype: Burglar.** Most burglars are much more than robbers in the night. They have their sights on much more than the baubles and trinkets that they would get out of a neighbor's safe, or even than the treasures they would find in a noble's vault. Burglars aspire for hoards of legendary proportion: ancient tombs containing kingly treasure, the lost riches of a dwarven city, or even a dragon's hoard. The challenge is every bit as rewarding as the loot, and many a burglar has gotten caught only because they chose one challenge too far, not because they needed the money, but because they wanted to astound with their skill."
 
 def level3(npc):
-    npc.description.append("**Roguish Archetype: Burglar.** Most burglars are much more than robbers in the night. They have their sights on much more than the baubles and trinkets that they would get out of a neighbor's safe, or even than the treasures they would find in a noble's vault. Burglars aspire for hoards of legendary proportion: ancient tombs containing kingly treasure, the lost riches of a dwarven city, or even a dragon's hoard. The challenge is every bit as rewarding as the loot, and many a burglar has gotten caught only because they chose one challenge too far, not because they needed the money, but because they wanted to astound with their skill.")
-
     if "darkvision" in npc.senses:
         npc.senses['darkvision'] += 30
     else:

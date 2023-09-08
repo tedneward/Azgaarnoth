@@ -1,8 +1,15 @@
 # Divine Domain: Tempest
 This is a domain granted by the [*al'maeran* tradition](../../Religions/AlUma.md#almaeran-cleric),the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Auril](../../Religions/Pantheon/Auril.md), ...
 
+```
+name = 'Tempest'
+description = "***Divine Domain: Tempest.*** ..."
+```
+
 ## Domain Spells
-Starting at 1st level, you gain domain spells at the cleric levels listed in the Unity Domain Spells table. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
+*1st-level Tempest Domain feature*
+
+You gain domain spells at the cleric levels listed in the Tempest Domain Spells table. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
 **Tempest Domain Spells**
 
@@ -14,8 +21,30 @@ Cleric Level |	Spells
 7th	|Control Water, Ice Storm
 9th	|Destructive Wave, Insect Plague
 
+```
+domainspells = {
+    1: ['fog cloud', 'thunderwave'],
+    3: ['gust of wind', 'shatter'],
+    5: ['call lightning', 'sleet storm'],
+    7: ['control water', 'ice storm'],
+    9: ['destructive wave', 'insect plague']
+}
+def domainspellsforlevel(npc):
+    results = []
+    if npc.levels('Cleric') >= 1: results += domainspells[1]
+    if npc.levels('Cleric') >= 3: results += domainspells[3]
+    if npc.levels('Cleric') >= 5: results += domainspells[5]
+    if npc.levels('Cleric') >= 7: results += domainspells[7]
+    if npc.levels('Cleric') >= 9: results += domainspells[9]
+    npc.spellcasting['Cleric'].spellsalwaysprepared += results
+```
+
 ## Bonus Proficiencies
 At 1st level, you gain proficiency with martial weapons and heavy armor.
+
+```
+def level1(npc):
+```
 
 ## Wrath of the Storm
 Also at 1st level, you can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw. The creature takes 2d8 lightning or thunder damage (your choice) on a failed saving throw, and half as much damage on a successful one.
