@@ -1,5 +1,5 @@
 # Arcane Tradition: Pyromancy
-The pyromancer is the elemental master of fire. While many mages can conjure fire for blasts of devastating energy, the pyromancer understands the primal nature of fire, heat, and the deeper secrets of the multiverse--that elemental flame is one of the fundamental building blocks of all creation. And while it’s most basic nature can be turned to destruction, the subtle nuances of its uses go far beyond that. Pyromancers embrace all aspects of heat, fire, and flame knowing that all creatures are connected to the elements, and flames can cleanse as well as consume.
+The pyromancer is the elemental master of fire. While many mages can conjure fire for blasts of devastating energy, the pyromancer understands the primal nature of fire, heat, and the deeper secrets of the multiverse--that elemental flame is one of the fundamental building blocks of all creation. And while it's most basic nature can be turned to destruction, the subtle nuances of its uses go far beyond that. Pyromancers embrace all aspects of heat, fire, and flame knowing that all creatures are connected to the elements, and flames can cleanse as well as consume.
 
 ## Fire Savant
 *2nd-level Pyromancy feature*
@@ -13,7 +13,7 @@ As a bonus action, you are able to exert influence on any non-magical flame that
 * You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.
 * You instantaneously extinguish the flames. 
 * You can double or halve the area of bright light and dim light cast by the flame, change its color, or both. These changes last for 1 hour.
-* You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear and animate within the flames, as you like. These shapes last for 1 hour. This ability replicates the effects of the [control flames](../../Magic/Spells/control-flames.md) cantrip, but is not considered a spell.
+* You cause simple shapes--such as the vague form of a creature, an inanimate object, or a location--to appear and animate within the flames, as you like. These shapes last for 1 hour. This ability replicates the effects of the [control flames](../../Magic/Spells/control-flames.md) cantrip, but is not considered a spell.
 
 ## Heart of Fire
 *6th-level Pyromancy feature*

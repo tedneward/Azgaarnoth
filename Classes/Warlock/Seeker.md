@@ -1,5 +1,5 @@
 # Warlock Patron: The Seeker
-Your patron is an inscrutable being who travels the Astral Plane in search of knowledge and secrets. In return for your patron’s gifts, you wander the world seeking lore that you can share with the Seeker.
+Your patron is an inscrutable being who travels the Astral Plane in search of knowledge and secrets. In return for your patron's gifts, you wander the world seeking lore that you can share with the Seeker.
 
 ## Expanded Spell List
 The Seeker lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
@@ -13,16 +13,16 @@ Spell Level | Spells
 5th | legend lore, passwall
 
 ## Shielding Aurora
-Starting at 1st level, you can invoke the Seeker’s power to protect you from harm. As a bonus action, you create a whirling aurora of brilliant energy that swirls around you. Until the end of your next turn, you gain resistance to all damage, and if a hostile creature ends its turn within 10 feet of you, it takes radiant damage equal to your warlock level + your Charisma modifier. 
+Starting at 1st level, you can invoke the Seeker's power to protect you from harm. As a bonus action, you create a whirling aurora of brilliant energy that swirls around you. Until the end of your next turn, you gain resistance to all damage, and if a hostile creature ends its turn within 10 feet of you, it takes radiant damage equal to your warlock level + your Charisma modifier. 
 
-Once you use this feature, you can’t use it again until you finish a short or long rest.
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ## Pact Boon: Pact of the Star Chain
-At 3rd level, a character dedicated to the Seeker can select this option instead of one of the warlock’s existing Pact Boon options.
+At 3rd level, a character dedicated to the Seeker can select this option instead of one of the warlock's existing Pact Boon options.
 
-The Seeker grants you a chain forged from starlight, decorated with seven gleaming motes of brightness. While  the chain is on your person, you know the [augury](https://www.dndbeyond.com/spells/augury) spell and can cast it as a ritual. The spell doesn’t count against your number of spells known. 
+The Seeker grants you a chain forged from starlight, decorated with seven gleaming motes of brightness. While  the chain is on your person, you know the [augury](https://www.dndbeyond.com/spells/augury) spell and can cast it as a ritual. The spell doesn't count against your number of spells known. 
 
-Additionally, you can invoke the Seeker’s power to gain advantage on an Intelligence check while you carry this item. Once you use this ability, you cannot use it again until you complete a short or long rest.
+Additionally, you can invoke the Seeker's power to gain advantage on an Intelligence check while you carry this item. Once you use this ability, you cannot use it again until you complete a short or long rest.
 
 If you lose your Star Chain, you can perform a 1-hour ceremony to receive a replacement from the Seeker. The ceremony can be performed during a short or long rest, and it destroys the previous chain. The chain disappears in a flash of light when you die.
 

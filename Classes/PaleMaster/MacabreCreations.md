@@ -3,7 +3,7 @@ Pale Masters have spent countless years fusing necrotic magic with undead parts 
 
 The description of each creation tells you the type of item that can receive it. The description also tells you if the resulting magic item requires attunement.
 
-Some creations specify a minimum pale master level. You can’t learn such a creation until you are at least that level.
+Some creations specify a minimum pale master level. You can't learn such a creation until you are at least that level.
 
 ## Baton of the Netherworld
 *Prerequisite: 12th-level pale master*
@@ -14,7 +14,7 @@ A steel baton containing several glyphs incised along its length that promise po
 
 As an action, the wielder presents your this baton and speak a prayer censuring the undead. Each undead that can see or hear the wielder within 30 feet of it must make a DC 15 Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
-A turned creature must spend its turns trying to move as far away from the wielder as it can, and it can’t willingly move to a space within 30 feet of it. The creature also can’t take reactions. For its action, the creature can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+A turned creature must spend its turns trying to move as far away from the wielder as it can, and it can't willingly move to a space within 30 feet of it. The creature also can't take reactions. For its action, the creature can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 ## Bagpipes of the Damned
 *Item: A set of bagpipes (Wondrous item), uncommon (requires attunement)*

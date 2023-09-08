@@ -30,11 +30,11 @@ Starting at 6th level, you can cast the feign death spell using one of your spel
 ## Create Wight
 At 10th level, you are able to taint the remains of a recently slain creature. You choose the corpse of a creature that has died in the last 24 hours and grant it a semblance of life that is fed by your violence and hatred, raising as a wight under your control.
 
-The wight turns to ash when it drops to 0 hit points or when 1-hour passes. The wight is friendly to you and your companions for the duration. Roll initiative for the wight, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the wight, it defends itself from hostile creatures but otherwise takes no actions. The DM has the wight’s statistics.
+The wight turns to ash when it drops to 0 hit points or when 1-hour passes. The wight is friendly to you and your companions for the duration. Roll initiative for the wight, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don't issue any commands to the wight, it defends itself from hostile creatures but otherwise takes no actions. The DM has the wight's statistics.
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can't use it again until you finish a long rest.
 
 ## Loathsome Rebirth
 Starting at 14th level, if the you are killed, your soul lingers. After 24 hours, your soul inhabits and animates another humanoid corpse on the same plane of existence (picked by the DM). You retain all of your character's statistics in your new form, but none of your old gear unless you retrieve it from the corpse of your previous body.
 
-Once you use this feature, you can’t use it again until you inhabit your most recent form for at least 10 days. If you die before 10 days pass, your soul passes into the afterlife.
+Once you use this feature, you can't use it again until you inhabit your most recent form for at least 10 days. If you die before 10 days pass, your soul passes into the afterlife.

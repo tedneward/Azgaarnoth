@@ -20,11 +20,14 @@ def level0(npc):
 
     mergeability = choose("Choose your spellcasting ability for Merge with Stone: ", ['INT', 'WIS', 'CHA'])
 
-    npc.defer(lambda npc: npc.bonusactions.append(f"***Merge with Stone ({npc.proficiencybonus()}/Recharges on long rest).*** You know the {spelllinkify('blade ward')} cantrip. {mergeability} is your spellcasting ability for this."))
+    npc.newspellcasting('Genasi', choose("Choose Genasi spellcasting ability: ", ['INT', 'WIS', 'CHA']))
+
+    npc.spellcasting['Genasi'].cantripsknown.append('blade ward')
 
     npc.languages.append('Common')
     npc.languages.append('Terran')
 
 def level5(npc):
-    npc.actions.append(f"***Improved Merge with Stone (Recharges on long rest).*** You can cast {spelllinkify('pass without trace')} spell with this trait, without requiring a material component. You can also cast it using any spell slots you have of 2nd level or higher.")
+    npc.spellcasting['Genasi'].spells[2].append('pass without trace')
+    npc.spellcasting['Genasi'].slots = [ 0, 1 ]
 ```

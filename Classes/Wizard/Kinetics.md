@@ -1,11 +1,11 @@
 # Arcane Tradition: Kinetics
-Among the most intune with how the Weave can enhance movement, the kineticist focuses on the Weave to manipulate space, and movement within it. Telekinesis, teleportation, and enhanced movement are all among this wizard’s storehouse, and they are valuable assets in any army or adventuring party, helping to ensure movement over great distances in a short period of time.
+Among the most intune with how the Weave can enhance movement, the kineticist focuses on the Weave to manipulate space, and movement within it. Telekinesis, teleportation, and enhanced movement are all among this wizard's storehouse, and they are valuable assets in any army or adventuring party, helping to ensure movement over great distances in a short period of time.
 
 ## Spell-Powered Avoidance
 At 2nd level, your movement speed increases by 5 feet. When you cast a spell, you can use your reaction to move 5 feet without provoking an opportunity attack.
 
 ## Stronghand Magic
-Beginning at 2nd level, you know the [mage hand](https://www.dndbeyond.com/spells/mage-hand) cantrip and it doesn’t count against the number of cantrips you know. The range of your [mage hand](https://www.dndbeyond.com/spells/mage-hand) increases to 60 feet, and it can carry up to 20 pounds.
+Beginning at 2nd level, you know the [mage hand](https://www.dndbeyond.com/spells/mage-hand) cantrip and it doesn't count against the number of cantrips you know. The range of your [mage hand](https://www.dndbeyond.com/spells/mage-hand) increases to 60 feet, and it can carry up to 20 pounds.
 
 ## Evasive Maneuver
 At 6th level, you are more connected with the Weave, sensing which pathways are most easily traversed. As a reaction, when you are targeted by a spell attack or area of effect spell, you can use your reaction to cast [misty step](https://www.dndbeyond.com/spells/misty-step). If you were targeted by a melee attack or touch spell, the attack misses. If you were targeted by a ranged attack, the attacker has disadvantage, or they can choose a different target. You regain the use of this ability after finishing a short rest.

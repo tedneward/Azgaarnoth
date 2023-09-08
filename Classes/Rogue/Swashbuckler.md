@@ -6,11 +6,11 @@ Swashbucklers are frequently found in the [dueling colleges](../../Organizations
 ## Fancy Footwork
 Starting at 3rd level, you are a continuous blur of motion in battle as you dart in, attack, and slip away to safety. During your turn, if you make a melee attack against a creature, that creature cannot make opportunity attacks against you for the rest of your turn.
 
-## *Toujours l’Audace*
+## *Toujours l'Audace*
 At 3rd level, your unmistakable confidence propels you into battle. You add your Charisma modifier to your initiative rolls. In addition, you can use Sneak Attack with any melee attack made against a target that has none of your allies adjacent to it.
 
 ## Panache
-At 9th level, your charm becomes as sharp and dangerous as your blade. As an action, you can make a Charisma (Persuasion) check contested by a creature’s Wisdom (Insight) check. The creature must be able to hear you, and the two of you must share a language.
+At 9th level, your charm becomes as sharp and dangerous as your blade. As an action, you can make a Charisma (Persuasion) check contested by a creature's Wisdom (Insight) check. The creature must be able to hear you, and the two of you must share a language.
 
 If you succeed on the check and the creature is hostile, it must target you with any attacks it makes and cannot willingly move farther away from you. This effect lasts for 1 minute or until you move more than 60 feet away from the target.
 

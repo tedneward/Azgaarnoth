@@ -36,5 +36,5 @@ def level0(npc):
     npc.skills.append('Intimidation')
 
     npc.languages.append('Common')
-    npc.languages.append('Orc')
+    npc.languages.append('Orcish')
 ```

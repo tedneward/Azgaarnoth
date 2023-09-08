@@ -1,4 +1,4 @@
-# Fighter Martial Archetype: Monster Hunter
+# Martial Archetype: Monster Hunter
 As an archetypal Monster Hunter, you are an expert at defeating supernatural threats. Typically mentored by an older, experienced Monster Hunter, you learn to overcome a variety of unnatural defenses and attacks, including those of undead, lycanthropes, and other creatures of horror. Most Monster Hunters end up joining the [Slayer Conclave](/Organization/MerchantGuilds/SlayerConclave.md) at some point (and some leave it again when they tire of it).
 
 ## Bonus Proficiencies

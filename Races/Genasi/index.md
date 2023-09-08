@@ -1,5 +1,5 @@
 # Genasi
-Thought to trace their ancestry to the genies of the Elemental Planes, each genasi can tap into the power of one of the elements. [Air](Genasi/Air.md), [earth](Genasi/Earth.md), [fire](Genasi/Fire.md), and [water](Genasi/Water.md) — these are the four pillars of the Material Plane and the four types of genasi. Some genasi are direct descendants of a genie, while others were born to non-genasi parents who lived near a place suffused by a genie’s magic.
+Thought to trace their ancestry to the genies of the Elemental Planes, each genasi can tap into the power of one of the elements. [Air](Genasi/Air.md), [earth](Genasi/Earth.md), [fire](Genasi/Fire.md), and [water](Genasi/Water.md) -- these are the four pillars of the Material Plane and the four types of genasi. Some genasi are direct descendants of a genie, while others were born to non-genasi parents who lived near a place suffused by a genie’s magic.
 
 A typical genasi has a life span of 120 years.
 

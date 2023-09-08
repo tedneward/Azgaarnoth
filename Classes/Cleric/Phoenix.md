@@ -19,10 +19,10 @@ Phoenix Domain Spells
 9th - Flame Strike, Raise Dead
 
 Bonus Cantrip
-When you choose this domain at 1st level you gain the produce flame cantrip. It counts as a cleric cantrip for you, but it doesn’t count against your number of cantrips known. 
+When you choose this domain at 1st level you gain the produce flame cantrip. It counts as a cleric cantrip for you, but it doesn't count against your number of cantrips known. 
 
 Warmth of the Flame
-Also at 1st level, the destruction of your foes brings warmth to your allies. When you cast a spell of 1st level or higher that deals fire damage, you can choose to heal one creature of your choice within 30 feet. The creature regains hit points equal to 1d4 + the spell’s level.
+Also at 1st level, the destruction of your foes brings warmth to your allies. When you cast a spell of 1st level or higher that deals fire damage, you can choose to heal one creature of your choice within 30 feet. The creature regains hit points equal to 1d4 + the spell's level.
 
 You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
 
@@ -46,4 +46,4 @@ Starting at 17th level, the power of the Phoenix can save you from death while p
 
 You return with a number of hit points equal to half of your hit point maximum, and each hostile creature within 30 feet of you must make a Constitution saving throw. On a failure, a creature takes fire damage equal to 2d10 + your cleric level and is blinded until the end of its next turn. On a success, it takes half as much damage and isn't blinded.
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can't use it again until you finish a long rest.

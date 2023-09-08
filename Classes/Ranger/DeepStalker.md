@@ -7,7 +7,7 @@ Deep Stalkers master spells useful in navigating the Underdark, and their combat
 
 ## Underdark Scout
 At 3rd level, you master the art of the ambush. On your first turn during combat, you gain a +10 bonus to your speed. If you use the attack action on that turn, you can make one additional attack.
-You gain an additional benefit on all turns after your first turn. At the end of each such turn, you can attempt to hide as a bonus action if you meet the normal requirements for hiding. Deep Stalkers often use this ability to make ranged attacks, move beyond the scope of their foes’ darkvision, and then hide.
+You gain an additional benefit on all turns after your first turn. At the end of each such turn, you can attempt to hide as a bonus action if you meet the normal requirements for hiding. Deep Stalkers often use this ability to make ranged attacks, move beyond the scope of their foes' darkvision, and then hide.
 
 ## Deep Stalker Magic
 From 3rd level, you have darkvision with a range of 90 feet. You also gain access to additional spells at 3rd, 5th, 9th, 13th, and 15th level. You are always able to cast these spells, and they do not count against your number of ranger spells known.
@@ -27,8 +27,8 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 ## Iron Mind
 At 7th level, you gain proficiency in Wisdom saving throws.
 
-## Stalker’s Flurry
+## Stalker's Flurry
 Starting at 11th level, you have the ability to ensure that your attacks count. If you miss with an attack during your turn, you can immediately make an additional attack. You can gain one additional attack during your turn with this ability.
 
-## Stalker’s Dodge
-At 15th level, you master the ability to disrupt an opponent’s attacks. If a creature attacks you and does not have advantage on the attack roll, you can use your reaction to grant it disadvantage on the attack roll. You must use this ability before you know the result of the attack.
+## Stalker's Dodge
+At 15th level, you master the ability to disrupt an opponent's attacks. If a creature attacks you and does not have advantage on the attack roll, you can use your reaction to grant it disadvantage on the attack roll. You must use this ability before you know the result of the attack.

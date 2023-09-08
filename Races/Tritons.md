@@ -24,7 +24,7 @@
 name = "Triton"
 type = 'humanoid'
 def level0(npc):
-    npc.description.append("Tritons guard the ocean depths, building small settlements beside deep trenches, portals to the elemental planes, and other dangerous spots far from the eyes of land-bound folk. Long-established guardians of the deep ocean floor, the noble tritons have gradually become increasingly active in the world above.")
+    npc.description.append("***Race: Triton.*** Tritons guard the ocean depths, building small settlements beside deep trenches, portals to the elemental planes, and other dangerous spots far from the eyes of land-bound folk. Long-established guardians of the deep ocean floor, the noble tritons have gradually become increasingly active in the world above.")
 
     npc.STR += 1
     npc.CON += 1
@@ -37,7 +37,8 @@ def level0(npc):
 
     npc.traits.append(traits['amphibious'])
 
-    npc.actions.append(f"***Control Air and Water.*** You can cast {spelllinkify('fog cloud')} with this trait. Once you cast a spell with this trait, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells.")
+    npc.newspellcasting(name, 'CHA').spells[1].append('fog cloud')
+    npc.spellcasting[name].slots = [ 1 ]
 
     npc.traits.append(traits['sea-emissary'])
 
@@ -48,8 +49,10 @@ def level0(npc):
     npc.languages.append("Aquan")
 
 def level3(npc):
-    replace("***Control Air and Water.***", npc.actions, f"***Control Air and Water.*** You can cast {spelllinkify('fog cloud')} or {spelllinkify('gust of wind')} with this trait. Once you cast a spell with this trait, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells.")
+    npc.spellcasting[name].spells[2].append('gust of wind')
+    npc.spellcasting[name].slots = [ 1, 1 ]
 
 def level5(npc):
-    replace("***Control Air and Water.***", npc.actions, "***Control Air and Water.*** You can cast {spelllinkify('fog cloud')}, {spelllinkify('gust of wind')} or {spelllinkify('wall of water')} with this trait. Once you cast a spell with this trait, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells.")
+    npc.spellcasting[name].spells[3].append('wall of water')
+    npc.spellcasting[name].slots = [ 1, 1, 1 ]
 ```

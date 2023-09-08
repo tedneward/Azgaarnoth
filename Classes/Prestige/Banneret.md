@@ -35,15 +35,15 @@ The banneret prestige class grants you a special mount at 1st level (see below).
 ## Mount
 *1st-level banneret feature* 
 
-You gain a mount that accompanies you on your adventures and is trained to act as your mount in battle. Choose a beast or monstrosity that is one size larger than you and that has a challenge rating of 1/2 or less. The creature must have an Intelligence of 7 or less and be able to be domesticated as a mount (at your GM’s discretion). When you reach 2nd level as a banneret, you can bond with a mount that is one or two sizes larger than you and that has a challenge rating of 2 or less.
+You gain a mount that accompanies you on your adventures and is trained to act as your mount in battle. Choose a beast or monstrosity that is one size larger than you and that has a challenge rating of 1/2 or less. The creature must have an Intelligence of 7 or less and be able to be domesticated as a mount (at your GM's discretion). When you reach 2nd level as a banneret, you can bond with a mount that is one or two sizes larger than you and that has a challenge rating of 2 or less.
 
-Add your proficiency bonus to the mount’s AC, attack rolls, and damage rolls, as well as to any saving throws and skills in which it has proficiency. Its hit point maximum is equal to its usual maximum plus an extra 5 hit points per banneret level you have attained.
+Add your proficiency bonus to the mount's AC, attack rolls, and damage rolls, as well as to any saving throws and skills in which it has proficiency. Its hit point maximum is equal to its usual maximum plus an extra 5 hit points per banneret level you have attained.
 
-The mount obeys your commands to the best of its ability. It takes its turn on your initiative, although it doesn’t take an action unless you command it to. On your turn, you can verbally command your mount where to move (no action required by you), and you can use your action to command it to take the Attack, Dash, Disengage, Dodge, or Help action. Your command is verbal if you are not currently mounted, but need not be verbal if you are mounted on the creature.
+The mount obeys your commands to the best of its ability. It takes its turn on your initiative, although it doesn't take an action unless you command it to. On your turn, you can verbally command your mount where to move (no action required by you), and you can use your action to command it to take the Attack, Dash, Disengage, Dodge, or Help action. Your command is verbal if you are not currently mounted, but need not be verbal if you are mounted on the creature.
 
 If you have the Extra Attack feature, you can make one weapon attack yourself when you command the mount to take the Attack action. (If you can make three attacks using the Extra Attack feature, then you can make two weapon attacks yourself when you command your companion to take the Attack action.)
 
-If your mount dies, you can obtain another one by spending 8 hours bonding with another eligible creature that isn’t hostile to you.
+If your mount dies, you can obtain another one by spending 8 hours bonding with another eligible creature that isn't hostile to you.
 
 A banneret who gains a special mount through some other means, such as a paladin who uses the find steed spell, can apply the benefits of this class feature to that mount.
 

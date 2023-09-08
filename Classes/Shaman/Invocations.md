@@ -14,7 +14,7 @@ When you use the Attack action on your turn with your spirit weapon, you can mak
 ### Call of Elements
 *Prerequisite: 9th level, Speaker of Flames, Stones, Waters, or Winds*
 
-You can cast [conjure elemental](../../Magic/Spells/conjure-elemental.md) once, without expending spirit points, but only to conjure an elemental of the element to which you are called. You can’t do so again until you finish a long rest.
+You can cast [conjure elemental](../../Magic/Spells/conjure-elemental.md) once, without expending spirit points, but only to conjure an elemental of the element to which you are called. You can't do so again until you finish a long rest.
 
 ### Elemental Empowerment
 *Prerequisite: 7th level, Gift of Savagery feature*
@@ -46,7 +46,7 @@ You can read all writing.
 ### Mask of Beasts
 *Prerequisite: 9th level*
 
-You can cast [polymorph](../../Magic/Spells/polymorph.md) on yourself once, without expending spirit points. You can’t do so again until you finish a long rest.
+You can cast [polymorph](../../Magic/Spells/polymorph.md) on yourself once, without expending spirit points. You can't do so again until you finish a long rest.
 
 ### Mask of Many Faces
 You can cast [disguise self](../../Magic/Spells/disguise-self.md) at will, without expending spirit points.
@@ -64,17 +64,17 @@ You can see normally in darkness, both magical and nonmagical, to a distance of 
 ### Rally the Ancestors
 *Prerequisite: 9th level, Speaker of Ancestors*
 
-You can cast [animate dead](../../Magic/Spells/animate-dead.md) once, without expending spirit points. You can’t do so again until you finish a long rest.
+You can cast [animate dead](../../Magic/Spells/animate-dead.md) once, without expending spirit points. You can't do so again until you finish a long rest.
 
 ### Rewrite the Past
 *Prerequisite: 12th level, Speaker of Dreams*
 
-You can cast [modify memory](../../Magic/Spells/modify-memory.md) once, without expending spirit points. You can’t do so again until you finish a long rest.
+You can cast [modify memory](../../Magic/Spells/modify-memory.md) once, without expending spirit points. You can't do so again until you finish a long rest.
 
 ### Rite of Cleansing
 You can cast [purify food and drink](../../Magic/Spells/purify-food-and-drink.md), but only as a ritual.
 
-### River’s Secrets
+### River's Secrets
 *Prerequisite: 5th level*
 
 You can cast [water breathing](../../Magic/Spells/water-breathing.md) and [water walk](../../Magic/Spells/water-walk.md), but only as rituals.
@@ -82,7 +82,7 @@ You can cast [water breathing](../../Magic/Spells/water-breathing.md) and [water
 ### Savage Magic
 *Prerequisite: 5th level, Gift of Savagery feature*
 
-Whenever you would make a melee or ranged spell attack as a part of a shaman spell that you cast, you can spend 1 spirit point to instead make a single attack with your spirit weapon. If the attack hits, it deals its normal damage to the target in addition to the spell’s effects.
+Whenever you would make a melee or ranged spell attack as a part of a shaman spell that you cast, you can spend 1 spirit point to instead make a single attack with your spirit weapon. If the attack hits, it deals its normal damage to the target in addition to the spell's effects.
 
 ### See the Unwritten
 *Prerequisite: 12th level, Gift of Sight feature*
@@ -107,7 +107,7 @@ You can cast [skywrite](../../Magic/Spells/skywrite.md), but only as a ritual.
 ### Smoke Teller
 As an action, you can seize control of the smoke from a fire or other source within 10 feet of you and form it into an image that lasts for as long as you maintain concentration on this effect. Initially, the image can be no larger than a 5-foot cube. Though it can be as detailed as you like, the image is also clearly made of smoke, and no creature will mistake it for the real thing. 
 
-While you maintain concentration on this effect, you can use your action to draw further smoke from the source, increasing the possible size of the image by 5 feet, to a maximum of a 20-foot cube. You can also use your action to change the appearance of the object or make it appear to move, though it must remain centered on the source of the smoke. When changing the image’s appearance, you can change the color of some of the smoke, though fine detail is impossible.
+While you maintain concentration on this effect, you can use your action to draw further smoke from the source, increasing the possible size of the image by 5 feet, to a maximum of a 20-foot cube. You can also use your action to change the appearance of the object or make it appear to move, though it must remain centered on the source of the smoke. When changing the image's appearance, you can change the color of some of the smoke, though fine detail is impossible.
 
 The smoke image lightly obscures the area within it.
 
@@ -116,7 +116,7 @@ After you end your concentration, the smoke persists for 1 minute or until a str
 ### Soul Reading
 *Prerequisite: 5th level*
 
-You can cast [detect thoughts](../../Magic/Spells/detect-thoughts.md) once, without expending spirit points. You can’t do so again until you finish a short or long rest.
+You can cast [detect thoughts](../../Magic/Spells/detect-thoughts.md) once, without expending spirit points. You can't do so again until you finish a short or long rest.
 
 ### Speaker of All
 *Prerequisite: 12th level*
@@ -149,7 +149,7 @@ You can cast [speak with plants](../../Magic/Spells/speak-with-plants.md) at wil
 ### Twilight Shepherd
 *Prerequisite: 9th level*
 
-You can cast [reincarnate](../../Magic/Spells/reincarnate.md) once using spirit points. You can’t do so again until you finish a long rest.
+You can cast [reincarnate](../../Magic/Spells/reincarnate.md) once using spirit points. You can't do so again until you finish a long rest.
 
 ### Unfiltered Perceptions
 *Prerequisite: 7th level*

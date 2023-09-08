@@ -9,7 +9,7 @@ To gain levels as a glyph caster, you must meet the following requirements (in a
 * **Intelligence 15, Wisdom 15, or Charisma 15.** Whatever their spellcasting background, glyph casters must have a strong aptitude for magic.
 * **Constitution 13.** Glyph casters must be hardy enough to withstand rigorous training.
 * **Proficiency in the Arcana or Religion skill.** A glyph caster must have some understanding of arcane or theological lore to master the runic arts.
-* **Proficiency in artisan’s tools.** You must be able to work in stone, wood, or some other appropriate material to inscribe your glyphs.
+* **Proficiency in artisan's tools.** You must be able to work in stone, wood, or some other appropriate material to inscribe your glyphs.
 * **Spellcasting class feature.** To become a glyph caster, you must have at least some competence in the magical arts.
 * **Character level 7th.** You must already be a 7th-level character before you can gain glyph caster levels.
 
@@ -21,10 +21,10 @@ As a glyph caster, you gain the following class features.
 **Glyph Caster**
 Level|Cantrips Known|Spells Known|Spell Slots Per Spell Level|Inscribed glyphs|Max glyph Level|1st|2nd|3rd|Features
 -----|--------------|------------|---------------------------|---------------|--------------|---|---|---|--------
-1st  |1|2|2|—|—|2|1st|[Glyph Magic](#glyph-magic), [Spellcasting](#spellcasting)
-2nd  |1|3|3|—|—|3|2nd|glyphstore
-3rd  |2|4|4|2|—|3|3rd|glyph Adept
-4th  |2|5|4|3|—|4|4th|glyphshatter
+1st  |1|2|2|--|--|2|1st|[Glyph Magic](#glyph-magic), [Spellcasting](#spellcasting)
+2nd  |1|3|3|--|--|3|2nd|glyphstore
+3rd  |2|4|4|2|--|3|3rd|glyph Adept
+4th  |2|5|4|3|--|4|4th|glyphshatter
 5th  |3|6|4|3|2|4|5th|glyph Master
 
 There is no level progression beyond the 5th level in glyph casting, though certainly the character can continue to gain experience and apply it to other classes.
@@ -35,12 +35,12 @@ There is no level progression beyond the 5th level in glyph casting, though cert
 **Hit Points per Level:** 1d8 (or 5) + your Constitution modifier per glyph caster level
 
 ### Equipment
-The glyph caster prestige class provides you a spellbook at no charge, if you don’t already have one.
+The glyph caster prestige class provides you a spellbook at no charge, if you don't already have one.
 
 ## Glyph Magic
 *1st-level glyph caster feature*
 
-You can inscribe a spell you know as a glyph or sigil onto an object or surface. If you choose a surface, the glyph can cover an area of the surface no larger than 5 feet square. If you choose an object, the object must be no smaller than a cup or flask and no larger than a lute or backpack, and it must be made of a material you can etch upon using your artisan’s tools.
+You can inscribe a spell you know as a glyph or sigil onto an object or surface. If you choose a surface, the glyph can cover an area of the surface no larger than 5 feet square. If you choose an object, the object must be no smaller than a cup or flask and no larger than a lute or backpack, and it must be made of a material you can etch upon using your artisan's tools.
 
 To inscribe the glyph, you must cast the spell as a ritual (even if it is not normally a ritual spell). The spell being stored has no immediate effect when cast in this way. Once inscribed with a spell, the glyph remains in place, but inert, until it is triggered or dispelled.
 
@@ -56,7 +56,7 @@ A glpyh spell is used in one of two ways: as a helpful glyph or a trap glyph.
 
   You can further refine the trigger so the spell activates only under certain circumstances or according to physical characteristics (such as height or weight), creature kind (for example, the ward could be set to affect aberrations etc.), or alignment. 
   
-  You can also set conditions for creatures that don’t trigger the glyph, such as those who say a certain password.
+  You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password.
 
 **Inscribed Glyphs.** The Glyph Caster table shows the number of times you can inscribe a spell as a glyph. At 1st level, you can use this feature twice. You regain all expended uses of it when you finish a long rest.
 
@@ -71,7 +71,7 @@ As a student of the oldest form of written magic, you have a spellbook containin
 
 **Spellbook.** At 1st level, you have a spellbook containing two 1st-level spells of your choice from the cleric, sorcerer, or wizard spell lists. Your spellbook is the repository of the spells you know, except your cantrips, which are fixed in your mind.
 
-**Spell Slots.** The Glyph Caster table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+**Spell Slots.** The Glyph Caster table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 For example, if you know the 1st-level spell burning hands and have a 1st-level and a 2nd-level spell slot available, you can cast burning hands using either slot.
 
@@ -83,14 +83,14 @@ For example, if you know the 1st-level spell burning hands and have a 1st-level 
 
 **Spell attack modifier** = your proficiency bonus + your chosen spellcasting ability modifier
 
-**Ritual Casting.** You can cast a glyph caster spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don’t need to have the spell prepared.
+**Ritual Casting.** You can cast a glyph caster spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
 
 **Multiclassing.** Glyph Casters are full spellcasters, and you add all of your levels in the glyph caster class when determining your total spell slots.
 
 ## Glyphstore
 *2nd-level glyph caster feature*
 
-You can “store” a spell. You cast the spell as a ritual (even if it is not normally a ritual spell). The spell does not have its usual effect when cast in this way. Instead, the glyphstored spell appears as a glowing, immaterial glyph floating near you, giving off dim light in a 5-foot radius. It may be targeted normally with dispel magic spells and similar effects. The glyphstored spell lasts until you finish your next long rest or you fall unconscious.
+You can "store" a spell. You cast the spell as a ritual (even if it is not normally a ritual spell). The spell does not have its usual effect when cast in this way. Instead, the glyphstored spell appears as a glowing, immaterial glyph floating near you, giving off dim light in a 5-foot radius. It may be targeted normally with dispel magic spells and similar effects. The glyphstored spell lasts until you finish your next long rest or you fall unconscious.
 
 While your glyphstored spell lasts, you may trigger it as a reaction, at which time it takes effect normally as if you had just cast it. You determine targets and other variable aspects of the spell when you trigger it.
 

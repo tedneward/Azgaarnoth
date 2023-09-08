@@ -1,0 +1,3 @@
+# Great House: House Thar'ashk
+One of the greatest of the Hordish Great Houses, House Thar'ashk has been a near-constant member of the Council of the Five Hordes in Tragekia for as long as anyone can remember. ...
+

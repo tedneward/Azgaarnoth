@@ -20,18 +20,20 @@ def level0(npc):
 
   npc.CHA += 1
 
-  npc.cantripsknown.append('dancing lights')
+  npc.newspellcasting('Dark Elf', 'CHA').cantripsknown.append('dancing lights')
 
   npc.proficiencies.append('Rapier')
   npc.proficiencies.append('Shortsword')
   npc.proficiencies.append('Hand crossbow')
 
   npc.senses['darkvision'] = 120
-  npc.features.append(commonfeatures['sunlight-sensitivity'])
+  npc.traits.append(traits['sunlight-sensitivity'])
 
 def level3(npc):
-    npc.actions.append("***Dark Elf Magic (Recharges on long rest).*** You can cast " + spelllinkify('faerie fire') + ". Charisma is your spellcasting ability for this spell.")
+  npc.spellcasting['Dark Elf'].spells[1].append('faerie fire')
+  npc.spellcasting['Dark Elf'].slots = [ 1 ]
 
 def level5(npc):
-    replace("***Dark Elf Magic", npc.features, f"You can cast {spelllinkify('faerie fire')} or {spelllinkify('darkness')}. Charisma is your spellcasting ability for these spells.")
+  npc.spellcasting['Dark Elf'].spells[2].append('darkness')
+  npc.spellcasting['Dark Elf'].slots = [ 1, 1 ]
 ```

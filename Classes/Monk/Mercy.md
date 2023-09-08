@@ -1,5 +1,5 @@
 # Monastic Tradition: Way of Mercy
-Monks of the Way of Mercy learn to manipulate the life force of others to bring aid to those in need. They are wandering physicians to the poor and hurt. However, to those beyond their help—whether ailing or evil—they bring a swift end as an act of mercy.
+Monks of the Way of Mercy learn to manipulate the life force of others to bring aid to those in need. They are wandering physicians to the poor and hurt. However, to those beyond their help--whether ailing or evil--they bring a swift end as an act of mercy.
 
 Monks of Mercy are revered everywhere they travel, and no sentient creature on Azgaarnoth will deliberately attack a monk of Mercy without extreme provocation. (In return, however, most creatures will also expect the same sort of pacifism out of a Mercy monk, and violations of that expectation can often turn extremely violent.) The monks maintain a monastery--what they call a *hospital*--in the capital of every nation of Azgaarnoth, and many Masters of Mercy travel with a small retinue of other Mercy monks as a sort of "traveling hospital" to the various villages, towns, cities, and holdings. The monks are also willing to take any sort--from the smallet kobold to the boldest giant--as an initiate, so long as they abide by the Law of Mercy.
 

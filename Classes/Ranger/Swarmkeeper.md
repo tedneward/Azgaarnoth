@@ -1,13 +1,13 @@
 # Ranger Archetype: Swarmkeeper
-Feeling a deep connection to the world around them, some rangers reach out through their magical connection to nature and gather a host of fey spirits, which take the form of swarming beasts—be they buzzing insects, fluttering birds, slippery squids, or otherwise. The swarm becomes a potent force in battle, as well as helpful—if potentially disturbing—company for the ranger. Some Swarmkeepers are outcasts or hermits, keeping to themselves and their attendant swarms rather than dealing with the discomfort of others. Other Swarmkeepers enjoy building vibrant communities that work for the mutual benefit of all those they consider part of their swarm.
+Feeling a deep connection to the world around them, some rangers reach out through their magical connection to nature and gather a host of fey spirits, which take the form of swarming beasts--be they buzzing insects, fluttering birds, slippery squids, or otherwise. The swarm becomes a potent force in battle, as well as helpful--if potentially disturbing--company for the ranger. Some Swarmkeepers are outcasts or hermits, keeping to themselves and their attendant swarms rather than dealing with the discomfort of others. Other Swarmkeepers enjoy building vibrant communities that work for the mutual benefit of all those they consider part of their swarm.
 
 Swarmkeeper rangers are found in many corners of Azgaarnoth, particularly in the wilds of [North Bedia](../../Nations/Bedia.md). Several cities have been known to use a Swarmkeeper to keep rats and other swarming city-dwelling creatures under control, however.
 
 ## Swarmkeeper Magic
 3rd-level Swarmkeeper feature
-At the 3rd level, you learn the [mage hand](https://www.dndbeyond.com/spells/mage-hand) cantrip if you don’t already know it. When you cast it, the hand takes the form of swarming nature spirits.
+At the 3rd level, you learn the [mage hand](https://www.dndbeyond.com/spells/mage-hand) cantrip if you don't already know it. When you cast it, the hand takes the form of swarming nature spirits.
 
-You also learn an additional spell when you reach certain levels in this class, as shown in the Swarmkeeper Spells table. These spells count as ranger spells for you, but don’t count against the number of ranger spells you know.
+You also learn an additional spell when you reach certain levels in this class, as shown in the Swarmkeeper Spells table. These spells count as ranger spells for you, but don't count against the number of ranger spells you know.
 
 **Swarmkeeper Spells**
 Ranger Level | Spell
@@ -40,13 +40,13 @@ At the 11th level, as an action, you can magically form one of the spirits of yo
 
 As an action, you can dismiss the spirit early. If you do, you can magically teleport to an unoccupied space within 5 feet of where the spirit disappeared.
 
-Once you use this feature, you can’t do so again until you finish a long rest. You can also use it again by expending a spell slot of 3rd level or higher.
+Once you use this feature, you can't do so again until you finish a long rest. You can also use it again by expending a spell slot of 3rd level or higher.
 
 ## Storm of Minions
-At the 15th level, your swarm can expel a seething storm of spirits that drains life from others. As an action, you create a magical sphere filled with an enraged swarm centered on a point you can see within 120 feet of you. The sphere has a 10-foot-radius and lasts for 1 minute. The sphere is difficult terrain for creatures other than you. A creature other than you that starts its turn in the sphere’s area must make a Constitution saving throw against your spell save DC. On a failed save, the creature takes 2d8 necrotic damage and is blinded until the start of its next turn. On a successful save, it takes half as much damage and isn’t blinded. At the start of your turn, if any number of Small or larger creatures took necrotic damage from the swarm, you regain 1d8 hit points. On subsequent turns, you can use a bonus action to move the sphere up to 30 feet.
+At the 15th level, your swarm can expel a seething storm of spirits that drains life from others. As an action, you create a magical sphere filled with an enraged swarm centered on a point you can see within 120 feet of you. The sphere has a 10-foot-radius and lasts for 1 minute. The sphere is difficult terrain for creatures other than you. A creature other than you that starts its turn in the sphere's area must make a Constitution saving throw against your spell save DC. On a failed save, the creature takes 2d8 necrotic damage and is blinded until the start of its next turn. On a successful save, it takes half as much damage and isn't blinded. At the start of your turn, if any number of Small or larger creatures took necrotic damage from the swarm, you regain 1d8 hit points. On subsequent turns, you can use a bonus action to move the sphere up to 30 feet.
 
 When you activate this feature, you can choose any number of creatures you can see to be unaffected by it.
 
-Once you use this feature, you can’t do so again until you finish a long rest. You can also use it again by expending a spell slot of 4th level or higher.
+Once you use this feature, you can't do so again until you finish a long rest. You can also use it again by expending a spell slot of 4th level or higher.
 
 *Source: [Unearthed Arcana: Fighter, Ranger, and Rogue](https://dnd.wizards.com/articles/unearthed-arcana/fighter-ranger-rogue)*

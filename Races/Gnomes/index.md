@@ -7,18 +7,51 @@ name = 'Gnome'
 type = 'humanoid'
 ```
 
-## Rock gnomes
-Rock gnomes are often found in the Daw Range, but also within the many hillsides that litter the continent. Surprisingly larger numbers of rock gnome settlements are found on the Al'Uma/Yithi side of the Daws, but this may be simply coincidence. Rock gnomes in Azgaarnoth are not quite as inventive as Mordenkainen posits, but the trait is found in many, and for this reason rock gnomes are often drawn to the [Order of the Steel Dragon](../Organizations/MilitantOrders/DraconicOrder/Steel.md) and some of the larger [Merchant Guilds](../Organizations/MerchantGuilds/index.md), particularly the Alchemists' Guilds.
+**Ability Score Increase.** Your Intelligence score increases by 2.
 
+**Age.** Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
 
-## Forest gnomes
-Forest gnome villages are found in almost every wooded area on Azgaarnoth--if you can find them. Individual forest gnomes are not common, yet they are not so rare as to draw immediate attention when they wander into town. Many of the forest gnomes have spent time with the [Glittering Eye](../Organizations/MageSchools/GlitteringEye.md) mage school, to perfect their illusions, and often work closely with druids to maintain their forest home when threatened.
+**Size.** Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
 
+**Speed.** Your base walking speed is 25 feet.
 
-## [Svirfneblin](../../Creatures/Gnomes.md#deep-gnome) ("deep gnomes")
-[Svirfneblin](../Creatures/Gnomes.md#deep-gnome) enclaves are buried deep within the Daws Range and, like the rest of the Underdark, miles below the surface of the other continents of Azgaarnoth. Most svirfneblin never see the light of day, and most have been in a desperate struggle for survival for too long to have the gnomish "love of life" and curiosity that characterize their surface kin.
+**Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
+**Gnome Cunning.** You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
 
-## [Dark gnomes](../../Creatures/Derro.md)
-Like the dwarves and the elves, rumors abound of "dark gnomes" that live deep within the earth, but rumors cannot decide if these gnomes are abandoned Exodus tribes or tribes that never integrated with the dwarves to begin with. Rumor holds that these evil-tended gnomes live deep within the Daws Range, as part of the Underdark, and are frequently the target of Underdark slave raiders. Like their deep gnome cousins, dark gnomes have lost their "love of life"; unlike said cousins, the dark gnomes have gained a tendency to selfishness and cruelty in its place.
+**Languages.** You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.
+
+```
+def level0(npc):
+    npc.INT += 2
+
+    npc.size = 'Small'
+
+    npc.speed['walking'] = 25
+
+    npc.senses['darkvision'] = 60
+
+    npc.traits.append("***Gnome Cunning.*** You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.")
+
+    npc.languages.append("Common")
+    npc.languages.append("Gnomish")
+
+def generate_name(npc, gender):
+  """
+Male Names: Alston, Alvyn, Boddynock, Brocc, Burgell, Dimble, Eldon, Erky, Fonkin, Frug, Gerbo, Gimble, Glim, Jebeddo, Kellen, Namfoodle, Orryn, Roondar, Seebo, Sindri, Warryn, Wrenn, Zook
+
+Female Names: Bimpnottin, Breena, Caramip, Carlin, Donella, Duvamil, Ella, Ellyjobell, Ellywick, Lilli, Loopmottin, Lorilla, Mardnab, Nissa, Nyx, Oda, Orla, Roywyn, Shamil, Tana, Waywocket, Zanna
+
+Clan Names: Beren, Daergel, Folkor, Garrick, Nackle, Murnig, Ningel, Raulnor, Scheppen, Timbers, Turen
+  """
+```
+
+There are a few known gnomish subraces, and gnomes can also be [Dragonmarked](../Dragonmarked/index.md) with the [Mark of Scribing](Scribing.md):
+
+* [Dark](Dark.md)
+* [Deep](Deep.md)
+* [Forest](Forest.md)
+* [Rock](Rock.md)
+* [Mark of Scribing](Scribing.md)
+
 

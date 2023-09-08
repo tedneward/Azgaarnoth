@@ -1,11 +1,11 @@
 # Sorcerous Origin: Aberrant Mind
-An alien influence has wrapped its tendrils around you, warping you in both body and mind. Perhaps a psychic splinter lodged in your psyche after you suffered domination by an aboleth. Maybe you were born somewhere tainted by the Far Realm, a planar blot that changed you forever. Or perhaps mind flayers kidnapped you, subjecting you to the nightmarish process of ceremorphosis—-but the transformation failed and left you altered.
+An alien influence has wrapped its tendrils around you, warping you in both body and mind. Perhaps a psychic splinter lodged in your psyche after you suffered domination by an aboleth. Maybe you were born somewhere tainted by the Far Realm, a planar blot that changed you forever. Or perhaps mind flayers kidnapped you, subjecting you to the nightmarish process of ceremorphosis---but the transformation failed and left you altered.
 
 ## Invasive Thoughts
 At 1st level, you gain the ability to use a bonus action to magically create a telepathic link with one creature you can see within 30 feet of you. Until the link ends, you can telepathically speak to the target through the link, and if it understands at least one language, it can speak telepathically to you. The link lasts for 10 minutes, and it ends early if you are incapacitated or die, or if you use another bonus action to break the link or to establish this link with a different creature.
 
 ## Psionic Spells
-Starting at 1st level, your aberrant nature changes your mind in subtle but profound ways. You learn additional spells when you reach certain levels in this class, as shown on the Psionic Spells table. The spell counts as a sorcerer spell for you, but it doesn’t count against the number of sorcerer spells you know. These spells can’t be replaced when you gain a level in this class.
+Starting at 1st level, your aberrant nature changes your mind in subtle but profound ways. You learn additional spells when you reach certain levels in this class, as shown on the Psionic Spells table. The spell counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know. These spells can't be replaced when you gain a level in this class.
 
 **Psionic Spells**
 Sorcerer Level | Spells 
@@ -13,14 +13,14 @@ Sorcerer Level | Spells
 1st | arms of Hadar, dissonant whispers
 3rd | calm emotions, detect thoughts
 5th | hunger of Hadar, sending
-7th | compulsion, Evard’s black tentacles
-9th | modify memory, Rary’s telepathic bond
+7th | compulsion, Evard's black tentacles
+9th | modify memory, Rary's telepathic bond
 
 ## Warped Being
-Starting at 1st level, your aberrant origin protects you from harm. Your body might have a coating of viscous slime, tough hide, scales, or an invisible psionic barrier (choose the form of protection when you gain this feature). Whatever form the protection takes, your AC equals 13 + your Dexterity modifier while you aren’t wearing armor.
+Starting at 1st level, your aberrant origin protects you from harm. Your body might have a coating of viscous slime, tough hide, scales, or an invisible psionic barrier (choose the form of protection when you gain this feature). Whatever form the protection takes, your AC equals 13 + your Dexterity modifier while you aren't wearing armor.
 
 ## Psionic Sorcery
-Beginning at 6th level, when you cast any of the spells gained from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of sorcery points equal to the spell’s level. If you cast the spell using sorcery points, it requires no components.
+Beginning at 6th level, when you cast any of the spells gained from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of sorcery points equal to the spell's level. If you cast the spell using sorcery points, it requires no components.
 
 ## Psychic Defenses
 At 6th level, you gain resistance to psychic damage, and you have advantage on saving throws against being charmed or frightened.
@@ -37,6 +37,6 @@ At 18th level, you become the focal point of a reality-warping anomaly. As an ac
 
 As a bonus action, you can end the aura early. If you do so, you and any number of creatures you choose within the aura are teleported to a location you can see within 1 mile of you. Each creature must appear within 20 feet of you and in an unoccupied space. An unwilling creature that succeeds on a Charisma saving throw against your spell save DC is not teleported.
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can't use it again until you finish a long rest.
 
 *Source: [Unearthed Arcana: Sorcerer and Warlock](https://dnd.wizards.com/articles/unearthed-arcana/sorcerer-and-warlock)*

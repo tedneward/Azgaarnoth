@@ -1,5 +1,5 @@
 # Druidic Circle: Circle of Dreams
-Druids who are members of the Circle of Dreams hail from regions that have strong ties to the Feywild. The druids’ guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with merriment and light. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places.
+Druids who are members of the Circle of Dreams hail from regions that have strong ties to the Feywild. The druids' guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with merriment and light. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places.
 
 ## Balm of the Summer Court
 At 2nd level, you become imbued with the blessings of the Summer Court. You are a font of energy that lends relief to weary feet and respite from injuries. You have a pool of fey energy represented by a number of d6s equal to your druid level.
@@ -14,7 +14,7 @@ At 10th level, you can use the hidden, unpredictable magical pathways that some 
 
 You can also use this feature to teleport someone else. As an action, you can teleport a willing ally you touch up to 30 feet to a point you can see.
 
-Once you use either option—-teleporting yourself or an ally—you can’t use that option again until 1d4 rounds have passed.
+Once you use either option---teleporting yourself or an ally--you can't use that option again until 1d4 rounds have passed.
 
 ## Purifying Light
 At 14th level, the favor of the Summer Court allows you to end spells that hamper you and your allies. When you cast a spell with a spell slot and it restores hit points to you or an ally this turn, you can simultaneously target the healed creature with dispel magic, using a spell slot with a level equal to the slot used to cast the healing spell.

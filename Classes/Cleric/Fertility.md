@@ -18,7 +18,7 @@ At 1st level, you learn two languages of your choice. You also become proficient
 Your proficiency bonus is doubled for any ability check you make that uses either of those skills.
 
 ## Channel Divinity: Captivate Crowd
-Starting at 2nd level, you can use your Channel Divinity to sway other people’s opinions of you.
+Starting at 2nd level, you can use your Channel Divinity to sway other people's opinions of you.
 
 You weave a captivating string of words inspiring love and comraderie between you and the members of a crowd. As an action, choose a number of humanoids within 60 feet of you, up to a number equal to your Wisdom modifier (minimum of one). Each target must succeed on a Wisdom saving throw against your spell save DC or be charmed by you. While charmed in this way, the target adores you and those you designate, and it hinders anyone who opposes you, although it avoids violence unless it was already inclined to fight on your behalf. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies.
 

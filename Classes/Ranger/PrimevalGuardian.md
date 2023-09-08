@@ -6,7 +6,7 @@ These rangers dwell in the elder forests of the world. They venture out only rar
 ## Guardian Magic
 Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Primeval Guardian Spells table.
 
-The spell counts as a ranger spell for you, and it doesn’t count against the number of ranger spells you know.
+The spell counts as a ranger spell for you, and it doesn't count against the number of ranger spells you know.
 
 **Primeval Guardian Spells**
 Ranger Level|Spells

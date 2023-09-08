@@ -16,7 +16,7 @@ You can cast [levitate](../../Magic/Spells/levitate.md) on yourself at will, wit
 ### Aspect of the Moon
 *Prerequisite: Pact of the Tome feature*
 
-You no longer need to sleep and can’t be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.
+You no longer need to sleep and can't be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.
 
 ### Beast Speech
 You can cast [speak with animals](../../Magic/Spells/speak-with-animals.md) at will, without expending a spell slot.
@@ -27,7 +27,7 @@ You gain proficiency in the Deception and Persuasion skills.
 ### Bewitching Whispers
 *Prerequisite: 7th level*
 
-You can cast [compulsion](../../Magic/Spells/compulsion.md) once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast [compulsion](../../Magic/Spells/compulsion.md) once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ### Bond of the Talisman
 *Prerequisite: 12th level, Pact of the Talisman feature*
@@ -37,11 +37,11 @@ While someone else is wearing your talisman, you can use your action to teleport
 ### Book of Ancient Secrets
 *Prerequisite: Pact of the Tome feature*
 
-You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class’s spell list (the two needn’t be from the same list). The spells appear in the book and don’t count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
+You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list (the two needn't be from the same list). The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
 
-On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell’s level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
+On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
 
-### Chain Master’s Fury
+### Chain Master's Fury
 *Prerequisite: 9th level, Pact of the Chain feature*
 
 As a bonus action, you can command your familiar to make one attack.
@@ -49,29 +49,29 @@ As a bonus action, you can command your familiar to make one attack.
 ### Chains of Carceri
 *Prerequisite: 15th level, Pact of the Chain feature*
 
-You can cast [hold monster](../../Magic/Spells/hold-monster.md) at will — targeting a celestial, fiend, or elemental — without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
+You can cast [hold monster](../../Magic/Spells/hold-monster.md) at will -- targeting a celestial, fiend, or elemental -- without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
 
 ### Cloak of Flies
 *Prerequisite: 5th level*
 
-As a bonus action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you’re incapacitated or you dismiss it as a bonus action.
+As a bonus action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're incapacitated or you dismiss it as a bonus action.
 
 The aura grants you advantage on Charisma (Intimidation) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 0 damage).
 
-Once you use this invocation, you can’t use it again until you finish a short or long rest.
+Once you use this invocation, you can't use it again until you finish a short or long rest.
 
-### Devil’s Sight
+### Devil's Sight
 You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
 
 ### Dreadful Word
 *Prerequisite: 7th level*
 
-You can cast [confusion](../../Magic/Spells/confusion.md) once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast [confusion](../../Magic/Spells/confusion.md) once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ### Eldritch Armor
 *Prerequisite: Pact of the Blade feature*
 
-As an action, you can touch a suit of armor that isn’t being worn or carried by anyone and instantly don it, provided you aren’t wearing armor already. You are proficient with this suit of armor until it’s removed.
+As an action, you can touch a suit of armor that isn't being worn or carried by anyone and instantly don it, provided you aren't wearing armor already. You are proficient with this suit of armor until it's removed.
 
 ### Eldritch Mind
 *Prerequisite: Pact of the Tome feature*
@@ -107,14 +107,14 @@ As an action, you can magically erase a name on the page by touching the name on
 You can cast [false life](../../Magic/Spells/false-life.md) on yourself at will as a 1st-level spell, without expending a spell slot or material components.
 
 ### Gaze of Two Minds
-You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
 
 ### Ghostly Gaze
 *Prerequisite: 7th level*
 
-As an action, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have darkvision if you don’t already have it. This special sight lasts for 1 minute or until your concentration ends (as if you were concentrating on a spell). During that time, you perceive objects as ghostly, transparent images.
+As an action, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have darkvision if you don't already have it. This special sight lasts for 1 minute or until your concentration ends (as if you were concentrating on a spell). During that time, you perceive objects as ghostly, transparent images.
 
-Once you use this invocation, you can’t use it again until you finish a short or long rest.
+Once you use this invocation, you can't use it again until you finish a short or long rest.
 
 ### Gift of the Depths
 *Prerequisite: 5th level*
@@ -158,13 +158,13 @@ When you cast [find familiar](../../Magic/Spells/find-familiar.md), you infuse t
 
 * The familiar gains either a flying speed or a swimming speed (your choice) of 40 feet.
 * The familiar no longer needs to breathe.
-* The familiar’s weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.
+* The familiar's weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.
 * If the familiar forces a creature to make a saving throw, it uses your spell save DC.
 
 ### Lance of Lethargy
 *Prerequisite: eldritch blast cantrip*
 
-Once on each of your turns when you hit a creature with your eldritch blast, you can reduce that creature’s speed by 10 feet until the end of your next turn.
+Once on each of your turns when you hit a creature with your eldritch blast, you can reduce that creature's speed by 10 feet until the end of your next turn.
 
 ### Lifedrinker
 *Prerequisite: 12th level, Pact of the Blade feature*
@@ -174,7 +174,7 @@ When you hit a creature with your pact weapon, the creature takes extra necrotic
 ### Maddening Hex
 *Prerequisite: 5th level, hex spell or a warlock feature that curses*
 
-As a bonus action, you cause a psychic disturbance around the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade’s Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you.
+As a bonus action, you cause a psychic disturbance around the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you.
 
 ### Mask of Many Faces
 You can cast [disguise self](../../Magic/Spells/disguise-self.md) at will, without expending a spell slot.
@@ -187,12 +187,12 @@ You can cast [alter self](../../Magic/Spells/alter-self) at will, without expend
 ### Minions of Chaos
 *Prerequisite: 9th level*
 
-You can cast [conjure elemental](../../Magic/Spells/conjure-elemental.md) once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast [conjure elemental](../../Magic/Spells/conjure-elemental.md) once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ### Mire the Mind
 *Prerequisite: 5th level*
 
-You can cast [slow](../../Magic/Spells/slow.md) once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast [slow](../../Magic/Spells/slow.md) once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ### Misty Visions
 You can cast [silent image](../../Magic/Spells/silent-image.md) at will, without expending a spell slot or material components.
@@ -215,12 +215,12 @@ When the wearer of your talisman makes a saving throw in which they lack profici
 ### Rebuke of the Talisman
 *Prerequisite: Pact of the Talisman feature*
 
-When the wearer of your talisman is hit by an attacker you can see within 30 feet of you, you can use your reaction to deal psychic damage to the attacker equal to your Charisma modifier (minimum of 1 damage) and push it up to 10 feet away from the talisman’s wearer.
+When the wearer of your talisman is hit by an attacker you can see within 30 feet of you, you can use your reaction to deal psychic damage to the attacker equal to your Charisma modifier (minimum of 1 damage) and push it up to 10 feet away from the talisman's wearer.
 
 ### Relentless Hex
 *Prerequisite: 7th level, hex spell or a warlock feature that curses*
 
-Your curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade’s Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.
+Your curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.
 
 ### Repelling Blast
 *Prerequisite: eldritch blast cantrip*
@@ -230,7 +230,7 @@ When you hit a creature with eldritch blast, you can push the creature up to 10 
 ### Sculptor of Flesh
 *Prerequisite: 7th level*
 
-You can cast [polymorph](../../Magic/Spells/polymorph.md) once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast [polymorph](../../Magic/Spells/polymorph.md) once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ### Shroud of Shadow
 *Prerequisite: 15th level*
@@ -240,10 +240,10 @@ You can cast [invisibility](../../Magic/Spells/invisibility.md) at will, without
 ### Sign of Ill Omen
 *Prerequisite: 5th level*
 
-You can cast [bestow curse](../../Magic/Spells/bestow-curse.md) once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast [bestow curse](../../Magic/Spells/bestow-curse.md) once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ### Thief of Five Fates
-You can cast [bane](../../Magic/Spells/bane.md) once using a warlock spell slot. You can’t do so again until you finish a long rest.
+You can cast [bane](../../Magic/Spells/bane.md) once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ### Thirsting Blade
 *Prerequisite: 5th level, Pact of the Blade feature*
@@ -255,7 +255,7 @@ You can attack with your pact weapon twice, instead of once, whenever you take t
 
 As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. Immediately after you take the damage, you gain vulnerability to fire damage, your speed is reduced to 0, and you are incapacitated. These effects, including any remaining temporary hit points, all end when the ice melts.
 
-Once you use this invocation, you can’t use it again until you finish a short or long rest.
+Once you use this invocation, you can't use it again until you finish a short or long rest.
 
 ### Trickster's Escape
 *Prerequisite: 7th level*
@@ -270,7 +270,7 @@ You can cast [arcane eye](../../Magic/Spells/arcane-eye.md) at will, without exp
 ### Voice of the Chain Master
 *Prerequisite: Pact of the Chain feature*
 
-You can communicate telepathically with your familiar and perceive through your familiar’s senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar’s senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
+You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
 
 ### Whispers of the Grave
 *Prerequisite: 9th level*

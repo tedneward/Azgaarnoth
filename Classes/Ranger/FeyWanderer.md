@@ -16,7 +16,7 @@ d6 | Gift
 6 | Your skin and hair change color to match the season at each dawn.
 
 ## Fey Wanderer Magic
-At the 3rd leve, you learn an additional spell when you reach certain levels in this class, as shown in the Fey Wanderer Spells table. The spell counts as a ranger spell for you, but it doesn’t count against the number of ranger spells you know.
+At the 3rd leve, you learn an additional spell when you reach certain levels in this class, as shown in the Fey Wanderer Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
 
 **Fey Wanderer Spells**
 Ranger Level | Spell
@@ -32,7 +32,7 @@ At the 3rd level, your experience with the fey has guarded your mind and sharpen
 In addition, you gain proficiency in one of the following skills of your choice: Deception, Performance, or Persuasion.
 
 ## Dreadful Strikes
-At the 3rd level, you augment your attacks with mind-scarring magic, drawn from the gloomy hollows of the unseelie fey. You gain a bonus action that you can use to imbue the weapon, or weapons, you’re currently holding with magic. Until the end of the turn, the weapons are magical, and they deal an extra 1d6 psychic damage on a hit. A creature can take this extra damage only once per turn.
+At the 3rd level, you augment your attacks with mind-scarring magic, drawn from the gloomy hollows of the unseelie fey. You gain a bonus action that you can use to imbue the weapon, or weapons, you're currently holding with magic. Until the end of the turn, the weapons are magical, and they deal an extra 1d6 psychic damage on a hit. A creature can take this extra damage only once per turn.
 
 When you engage in two-weapon fighting, you can imbue your weapons as part of the same bonus action you use to make the attack.
 
@@ -50,8 +50,8 @@ At the 11th level, you learn how to manipulate mind-altering magic, channeling i
 * The creature takes 3d10 psychic damage.
 
 ## Misty Presence
-At the 15th level, you can magically remove yourself from one creature’s perception: you gain a bonus action that you can use to force a creature you can see within 30 feet of you to make a Wisdom saving throw against your spell save DC. On a failed save, the target can’t see or hear you for 24 hours. The target can repeat the saving throw at the end of any turn during which you hit it with an attack roll, forced it to make a saving throw, or dealt damage to it. The effect ends early if you use this bonus action again. On a successful save, the target is immune to this feature for 7 days.
+At the 15th level, you can magically remove yourself from one creature's perception: you gain a bonus action that you can use to force a creature you can see within 30 feet of you to make a Wisdom saving throw against your spell save DC. On a failed save, the target can't see or hear you for 24 hours. The target can repeat the saving throw at the end of any turn during which you hit it with an attack roll, forced it to make a saving throw, or dealt damage to it. The effect ends early if you use this bonus action again. On a successful save, the target is immune to this feature for 7 days.
 
-Once you’ve used this bonus action, you can’t use it again until you finish a long rest or until you expend a spell slot of 4th level or higher to use it again.
+Once you've used this bonus action, you can't use it again until you finish a long rest or until you expend a spell slot of 4th level or higher to use it again.
 
 *Original content: [Unearthed Arcana - Subclasses 3](https://dnd.wizards.com/articles/unearthed-arcana/subclasses_part3)*

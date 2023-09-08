@@ -26,9 +26,9 @@ At 10th level, you are able to taint the remains of a recently slain creature. Y
 
 The flameskull turns to ash when it drops to 0 hit points or when 1-hour passes. The flameskull is friendly to you and your companions for the duration. Roll initiative for the flameskull, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you).
 
-If you don’t issue any commands to the flameskull, it defends itself from hostile creatures but otherwise takes no actions. The DM has the flameskull’s statistics.
+If you don't issue any commands to the flameskull, it defends itself from hostile creatures but otherwise takes no actions. The DM has the flameskull's statistics.
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can't use it again until you finish a long rest.
 
 ## Deathless Vigor
 Your research of liches has taught you how to make a rudimentary phylactery, which serves as the pinnacle of your obsession with immortality.

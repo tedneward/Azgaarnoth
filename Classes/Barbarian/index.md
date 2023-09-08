@@ -119,7 +119,7 @@ You can attack twice, instead of once, whenever you take the Attack action on yo
 ## Instinctive Pounce
 *5th-level barbarian feature*
 
-When a creature ends its turn within 15 feet of you, you can use your reaction to move up to half your speed to a space closer to the creature. This movement doesn’t provoke opportunity attacks.
+When a creature ends its turn within 15 feet of you, you can use your reaction to move up to half your speed to a space closer to the creature. This movement doesn't provoke opportunity attacks.
 
 ## Feral Instinct
 *7th-level barbarian feature*

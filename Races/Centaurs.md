@@ -19,7 +19,7 @@ type = 'monstrosity'
 
 * **Charge**. If you move at least 30 feet straight toward a target and then hit it with a melee weapon attack on the same turn, you can use your bonus action to make a hoof attack.
 
-* **Hooves**. Your hooves are natural melee weapons, with which you’re proficient. If you hit with a hoof, the target takes bludgeoning damage equal to 1d4 + your Strength modifier.
+* **Hooves**. Your hooves are natural melee weapons, with which you're proficient. If you hit with a hoof, the target takes bludgeoning damage equal to 1d4 + your Strength modifier.
 
 * **Equine Build**. You count as one size larger when determining your carrying capacity and the weight you can push or drag. In addition, any climb that requires hands and feet is especially difficult for you because of your hooves. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal 1 extra foot.
 

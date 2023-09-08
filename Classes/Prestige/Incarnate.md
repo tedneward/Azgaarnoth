@@ -1,5 +1,5 @@
 # Prestige Class: Incarnate
-As the current reincarnation of an old soul, an Incarnate is able to bring the combined memories of numerous previous lives to bear in an effort to maintain balance in the world. An Incarnate’s oneness with nature is akin to that of a druid, but rather than assuming the forms of beasts alone, Incarnates take on the forms they once possessed in their prior lives.
+As the current reincarnation of an old soul, an Incarnate is able to bring the combined memories of numerous previous lives to bear in an effort to maintain balance in the world. An Incarnate's oneness with nature is akin to that of a druid, but rather than assuming the forms of beasts alone, Incarnates take on the forms they once possessed in their prior lives.
 
 As far as anyone knows, Incarnates have always existed. Each time an Incarnate dies, she is reincarnated as a new being of similar alignment. Incarnates gradually remember portions of these past lives, however, and thus have access to the wisdom of ages, of countless lives in service to their mistress. More than this, however, they are beings who have always been this way, since the first mortal creatures walked, slithered, or swam.
 
@@ -19,10 +19,10 @@ As an Incarnate, you gain the following class features.
 
 Level|Cantrips Known|1st|2nd|Features
 -----|--------------|---|---|--------
-1st  |1|—|—|[Cantrips](#cantrips), [Druidic](#druidic), [Past Lives](#past-lives)
-2nd  |1|2|—|[Spellcasting](#spellcasting), [Wild Incarnation](#wild-incarnation)
-3rd  |1|3|—|[Wild Incarnation](#wild-incarnation)
-4th  |2|3|—|[Wild Incarnation](#wild-incarnation)
+1st  |1|--|--|[Cantrips](#cantrips), [Druidic](#druidic), [Past Lives](#past-lives)
+2nd  |1|2|--|[Spellcasting](#spellcasting), [Wild Incarnation](#wild-incarnation)
+3rd  |1|3|--|[Wild Incarnation](#wild-incarnation)
+4th  |2|3|--|[Wild Incarnation](#wild-incarnation)
 5th  |2|4|2|[Wild Incarnation](#wild-incarnation)
 
 There is no level progression beyond the 5th level in Incarnate, though certainly the character can continue to gain experience and apply it to other classes.
@@ -45,7 +45,7 @@ You know one cantrip of your choice from the druid spell list. You learn additio
 ## Druidic
 *1st-level Incarnate feature*
 
-You begin to recover your memories of a past life as a druid or Incarnate. You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message’s presence with a successful DC 15 Wisdom (Perception) check but can’t decipher it without magic.
+You begin to recover your memories of a past life as a druid or Incarnate. You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.
 
 ## Past Lives
 *1st-level Incarnate feature*
@@ -57,11 +57,11 @@ Choose any two skills. You gain proficiency in both.
 
 You regain some of the druidic spellcasting ability of your past lives.
 
-**Preparing and Casting Spells.** The Incarnate table shows how many spell slots you have to cast your spells of 1st and 2nd level. To cast one of these druid spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+**Preparing and Casting Spells.** The Incarnate table shows how many spell slots you have to cast your spells of 1st and 2nd level. To cast one of these druid spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to your Wisdom modifier + your Incarnate level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 5th-level Incarnate, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include eight spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+For example, if you are a 5th-level Incarnate, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include eight spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can also change your list of prepared spells when you finish a long rest. Preparing a new list of druid spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -94,7 +94,7 @@ Incarnate Level|Max. CR|Type|Size
 
 While you are transformed, the following rules apply:
 
-* Your game statistics are replaced by the statistics of your wild incarnation form, except you retain your hit points and Hit Dice, alignment, personality, and your Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of your wild incarnation form. If your wild incarnation form has the same proficiency as you and the bonus in its stat block is higher than yours, use its bonus instead of yours. If the creature has any legendary or lair actions, you can’t use them.
-* You can cast any innate spells of your wild incarnation form, but you can’t cast your own spells. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as call lightning, that you’ve already cast.
-* You retain the benefit of any features from your class, race, or other source and can use them if your wild incarnation form is physically capable of doing so. Your ability to speak or take any action that requires hands is limited to the capabilities of your current form. However, you can’t use any of your special senses, such as darkvision, unless your wild incarnation form also has that sense.
-* You choose whether your equipment falls to the ground in your space, merges into your wild incarnation form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match your wild incarnation form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
+* Your game statistics are replaced by the statistics of your wild incarnation form, except you retain your hit points and Hit Dice, alignment, personality, and your Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of your wild incarnation form. If your wild incarnation form has the same proficiency as you and the bonus in its stat block is higher than yours, use its bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.
+* You can cast any innate spells of your wild incarnation form, but you can't cast your own spells. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as call lightning, that you've already cast.
+* You retain the benefit of any features from your class, race, or other source and can use them if your wild incarnation form is physically capable of doing so. Your ability to speak or take any action that requires hands is limited to the capabilities of your current form. However, you can't use any of your special senses, such as darkvision, unless your wild incarnation form also has that sense.
+* You choose whether your equipment falls to the ground in your space, merges into your wild incarnation form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match your wild incarnation form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.

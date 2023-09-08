@@ -30,16 +30,16 @@ Starting at 6th level, you can cast the vampiric touch spell using one of your s
 ## Undead Cohort: Vampiric Mist
 At 10th level, you are able to taint the soul of a recently slain creature. You choose the corpse of a creature that has died in the last 24 hour and bite it with your undead graft, infusing it with necrotic energy and causing its soul to rise as a vampiric mist under your control. The vampiric mist dissipates when it drops to 0 hit points or when 1-hour passes. The vampiric mist is friendly to you and your companions for the duration.
 
-Roll initiative for the vampiric mist, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the vampiric mist, it defends itself from hostile creatures but otherwise takes no actions. The DM has the vampiric mist’s statistics.
+Roll initiative for the vampiric mist, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don't issue any commands to the vampiric mist, it defends itself from hostile creatures but otherwise takes no actions. The DM has the vampiric mist's statistics.
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can't use it again until you finish a long rest.
 
 ## Cursed Blood
 At 14th level, you can bite a humanoid with your undead graft by making a melee spell attack and bestow a curse into the open wound. 
 
-When a creature's blood is cursed, it can’t regain hit points for the next 30 days. When the creature completes a long rest while cursed, it takes 19 (3d12) necrotic damage as their toxic blood begins to coagulate. A remove curse spell ends this effect.
+When a creature's blood is cursed, it can't regain hit points for the next 30 days. When the creature completes a long rest while cursed, it takes 19 (3d12) necrotic damage as their toxic blood begins to coagulate. A remove curse spell ends this effect.
 
-If a creature dies while under the effects of cursed blood, they become a vampire spawn under your control 1d10 days after it dies. The vampire spawn turns to ash when it drops to 0 hit points. Roll initiative for the vampire spawn, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). You can only control one vampire spawn at a time with this feature. If you bite another humanoid and it turns into a vamipre spawn, the current vampire spawn under your control turns to ash. The DM has the vampire spawn’s statistics.
+If a creature dies while under the effects of cursed blood, they become a vampire spawn under your control 1d10 days after it dies. The vampire spawn turns to ash when it drops to 0 hit points. Roll initiative for the vampire spawn, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). You can only control one vampire spawn at a time with this feature. If you bite another humanoid and it turns into a vamipre spawn, the current vampire spawn under your control turns to ash. The DM has the vampire spawn's statistics.
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can't use it again until you finish a long rest.
 

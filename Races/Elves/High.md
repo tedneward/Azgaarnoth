@@ -16,7 +16,7 @@ def level0(npc):
 
   npc.INT += 1
 
-  npc.traits.append("***Cantrip.*** You know one cantrip of your choice from the Wizard spell list. Intelligence is your spellcasting ability for it.")
+  npc.newspellcasting('High Elf', 'INT').cantripsknown.append("CHOOSE-Wizard")
 
   npc.proficiencies.append("Longsword")
   npc.proficiencies.append("Shortsword")

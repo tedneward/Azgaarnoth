@@ -13,7 +13,7 @@ Spell Level | Spells
 5th | animate objects, legend lore
 
 ## Bonus Cantrips
-At first level, you gain the dancing lights and vicious mockery cantrips. They count as warlock cantrips for you, but they don’t count against your number of cantrips known.
+At first level, you gain the dancing lights and vicious mockery cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.
 
 ## Weird Magic
 Starting at 1st level, you are privy to many strange and unusual secrets of magic known only to the hag sisterhood. Once per day, you may cast a spell of a level you are able to cast from your class list that you do not know. You must use a spell slot and fulfil all other requirements. Casting this spell should involve some bizarre and unusual prop, such as releasing a swarm of bees for a cloud of daggers spell. Once you have cast a spell with this ability, you can never cast it again for any reason.

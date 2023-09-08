@@ -2,10 +2,10 @@
 The fleuremancer delves deep into the mysteries of something that most creatures take for granted – light. With the dawn of each day, the fleuremancer begins their research anew. While for others this is a call to mundane activity, to the fleuremancer it is an opportunity to delve into the dichotomy that splits the existence of surface dwelling creatures. Beyond mere light and dark, the fleuremancer understands the subtleties of radiance, the spectrum of light, and the destructive nature of illumination.
 
 ## Bonus Proficiencies
-Starting at 2nd level, you gain proficiency in the Investigation and Perception skills if you don’t already have it.
+Starting at 2nd level, you gain proficiency in the Investigation and Perception skills if you don't already have it.
 
 ## Bonus Cantrips
-Starting at 2nd level, you learn the [light]() and [dancing lights]() cantrips and they don’t count against your number of cantrips known.
+Starting at 2nd level, you learn the [light]() and [dancing lights]() cantrips and they don't count against your number of cantrips known.
 
 ## Dazzling Display
 Starting at 2nd level, when you cast a spell with a visible effect, you can add a dazzling display of lights to it. A creature of your choice that is either the target of the spell, or in the area of effect of the spell, must make a successful Constitution saving throw against your spell DC or be blinded until the end of their next turn. Creatures with sunlight sensitivity make this saving throw at disadvantage. You regain the use of this ability after finishing a short or long rest.

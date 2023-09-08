@@ -1,4 +1,4 @@
-# Fighter Martial Archetype: Cavalier
+# Martial Archetype: Cavalier
 The archetypal cavalier excels at mounted combat. Usually born among the nobility and raised at court, a cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Compelled to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure.
 
 Cavalier Martial Archetypes are frequently found in [Mercenary Companies](../../Organizations/MercCompanies/MercCompanies.md). They are often not the leader of the company, but often lead the cavalry detachment, if the company has one.
@@ -7,7 +7,7 @@ Cavalier Martial Archetypes are frequently found in [Mercenary Companies](../../
 When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: Animal Handling, History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice.
 
 ## Born to the Saddle
-Starting at 3rd level, your mastery as a rider becomes apparent. You have advantage on saving throws made to avoid falling off your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you’re not incapacitated.
+Starting at 3rd level, your mastery as a rider becomes apparent. You have advantage on saving throws made to avoid falling off your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you're not incapacitated.
 
 Finally, mounting or dismounting a creature costs you only 5 feet of movement, rather than half your speed.
 

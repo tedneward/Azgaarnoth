@@ -22,7 +22,7 @@ type = 'humanoid/celestial'
 
 * **Healing Hands**. As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest.
 
-* **Light Bearer**. You know the [light](https://www.dndbeyond.com/spells/light) cantrip. Charisma is your spellcasting ability for it.
+* **Light Bearer**. You know the [light](../../Magic/Spells/light.md) cantrip. Charisma is your spellcasting ability for it.
 
 * **Languages**. You can speak, read, and write Common and Celestial.
 
@@ -36,8 +36,7 @@ def level0(npc):
     npc.senses['darkvision'] = '60ft'
     npc.damageresistances.append('necrotic')
     npc.defer(lambda npc: npc.actions.append(f"***Healing Hands (Recharges after long rest).*** You can touch a creature and cause it to regain {npc.levels()} hit points."))
-    npc.cantripsknown.append('light')
-    npc.spellcastingattribute = 'Charisma'
+    npc.newspellcasting(name, 'CHA').cantripsknown.append('light')
     npc.languages.append('Common')
     npc.languages.append('Celestial')
 ```

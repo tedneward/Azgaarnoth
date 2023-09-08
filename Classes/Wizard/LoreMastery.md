@@ -13,28 +13,28 @@ In addition, your analytical abilities are so well-honed that your initiative in
 ## Spell Secrets
 At 2nd level, you master the first in a series of arcane secrets uncovered by your extensive studies.
 
-When you cast a spell with a spell slot and the spell deals acid, cold, fire, force, lightning, necrotic, radiant, or thunder damage, you can substitute that damage type with one other type from that list (you can change only one damage type per casting of a spell). You replace one energy type for another by altering the spell’s formula as you cast it.
+When you cast a spell with a spell slot and the spell deals acid, cold, fire, force, lightning, necrotic, radiant, or thunder damage, you can substitute that damage type with one other type from that list (you can change only one damage type per casting of a spell). You replace one energy type for another by altering the spell's formula as you cast it.
 
-When you cast a spell with a spell slot and the spell requires a saving throw, you can change the saving throw from one ability score to another of your choice. Once you change a saving throw in this way, you can’t do so again until you finish a short or long rest.
+When you cast a spell with a spell slot and the spell requires a saving throw, you can change the saving throw from one ability score to another of your choice. Once you change a saving throw in this way, you can't do so again until you finish a short or long rest.
 
 ## Altering Spells
-While the Spell Secrets feature offers increased versatility, at the table its effects can be difficult to spot by the other players. If you’re playing a savant, take a moment to describe how you alter your spells. Think of a signature change your character is particularly proud of. Be inventive, and make the game more fun for everyone by playing up the sudden, unexpected tricks you character can employ. For example, a Fireball transformed to require a Strength save might become a sphere of burning rock that shatters and slams into its target. A Charm Person that requires a Constitution save might take the form of a vaporous narcotic that alters the target’s mood.
+While the Spell Secrets feature offers increased versatility, at the table its effects can be difficult to spot by the other players. If you're playing a savant, take a moment to describe how you alter your spells. Think of a signature change your character is particularly proud of. Be inventive, and make the game more fun for everyone by playing up the sudden, unexpected tricks you character can employ. For example, a Fireball transformed to require a Strength save might become a sphere of burning rock that shatters and slams into its target. A Charm Person that requires a Constitution save might take the form of a vaporous narcotic that alters the target's mood.
 
 ## Alchemical Casting
 At 6th level, you learn to augment spells in a variety of ways. When you cast a spell with a spell slot, you can expend one additional spell slot to augment its effects for this casting, mixing the raw stuff of magic into your spell to amplify it. The effect depends on the spell slot you expend.
 
-An additional 1st-level spell slot can increase the spell’s raw force. If you roll damage for the spell when you cast it, increase the damage against every target by 2d10 force damage. If the spell can deal damage on more than one turn, it deals this extra force damage only on the turn you cast the spell.
+An additional 1st-level spell slot can increase the spell's raw force. If you roll damage for the spell when you cast it, increase the damage against every target by 2d10 force damage. If the spell can deal damage on more than one turn, it deals this extra force damage only on the turn you cast the spell.
 
-An additional 2nd-level spell slot can increase the spell’s range. If the spell’s range is at least 30 feet, it becomes 1 mile.
+An additional 2nd-level spell slot can increase the spell's range. If the spell's range is at least 30 feet, it becomes 1 mile.
 
-An additional 3rd-level spell slot can increase the spell’s potency. Increase the spell’s save DC by 2.
+An additional 3rd-level spell slot can increase the spell's potency. Increase the spell's save DC by 2.
 
 ## Prodigious Memory
-At 10th level, you have attained a greater mastery of spell preparation. As a bonus action, you can replace one spell you have prepared with another spell from your spellbook. You can’t use this feature again until you finish a short or long rest.
+At 10th level, you have attained a greater mastery of spell preparation. As a bonus action, you can replace one spell you have prepared with another spell from your spellbook. You can't use this feature again until you finish a short or long rest.
 
 ## Master of Magic
-At 14th level, your knowledge of magic allows you to duplicate almost any spell. As a bonus action, you can call to mind the ability to cast one spell of your choice from any class’s spell list. The spell must be of a level for which you have spell slots, you mustn’t have it prepared, and you follow the normal rules for casting it, including expending a spell slot. If the spell isn’t a wizard spell, it counts as a wizard spell when you cast it. The ability to cast the spell vanishes from your mind when you cast it or when the current turn ends.
+At 14th level, your knowledge of magic allows you to duplicate almost any spell. As a bonus action, you can call to mind the ability to cast one spell of your choice from any class's spell list. The spell must be of a level for which you have spell slots, you mustn't have it prepared, and you follow the normal rules for casting it, including expending a spell slot. If the spell isn't a wizard spell, it counts as a wizard spell when you cast it. The ability to cast the spell vanishes from your mind when you cast it or when the current turn ends.
 
-You can’t use this feature again until you finish a long rest.
+You can't use this feature again until you finish a long rest.
 
 *Source: [Unearthed Arcana: Warlock and Wizard](https://dnd.wizards.com/articles/unearthed-arcana/warlock-and-wizard)*

@@ -24,15 +24,16 @@ def level0(npc):
 
     npc.damageresistances.append('acid')
 
-    npc.water = choose("Choose a spellcasting ability: ", ['INT', 'WIS', 'CHA'])
-    npc.cantripsknown.append('acid splash')
+    npc.newspellcasting('Genasi', choose("Choose a spellcasting ability: ", ['INT', 'WIS', 'CHA'])).cantripsknown.append('acid splash')
 
     npc.languages.append('Common')
     npc.languages.append('Aquan')
 
 def level3(npc):
-    npc.actions.append(f"***Call to the Wave (Recharges on long rest).*** You can cast {spelllinkify('create or destroy water')} using {npc.water} as your spellcasting ability. You can also use spell slots to cast this.")
+    npc.spellcasting['Genasi'].spells[1].append('create or destroy water')
+    npc.spellcasting['Genasi'].slots = [ 1 ]
 
 def level5(npc):
-    npc.actions.append(f"***Improved Reach to the Blaze (Recharges on long rest).*** You can cast {spelllinkify('create or destroy water')} or {spelllinkify('water walk')} using {npc.water} as your spellcasting ability. You can also use spell slots to cast these.")
+    npc.spellcasting['Genasi'].spells[1].append('water walk')
+    npc.spellcasting['Genasi'].slots = [ 1, 1 ]
 ```

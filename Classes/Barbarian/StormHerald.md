@@ -1,7 +1,7 @@
 # Primal Path: Path of the Storm Herald
 Typical barbarians harbor a fury that dwells within. Their rage grants them superior strength, durability, and speed. Barbarians who follow the Path of the Storm Herald learn instead to transform their rage into a mantle of primal magic that swirls around them. When in a fury, a barbarian of this path taps into nature to create powerful, magical effects.
 
-Storm heralds are typically elite champions who train alongside druids, rangers, and others sworn to protect the natural realm. Other storm heralds hone their craft in elite lodges founded in regions wracked by storms, in the frozen reaches at the world’s end, or deep in the hottest deserts. These barbarians can be found in quite a few places, most notably in the [Ravenlands](../../Geography/Ravenlands.md), the [United Hordes](../../Nations/Tragekia.md), or [North Bedia](../../Nations/Bedia.md).
+Storm heralds are typically elite champions who train alongside druids, rangers, and others sworn to protect the natural realm. Other storm heralds hone their craft in elite lodges founded in regions wracked by storms, in the frozen reaches at the world's end, or deep in the hottest deserts. These barbarians can be found in quite a few places, most notably in the [Ravenlands](../../Geography/Ravenlands.md), the [United Hordes](../../Nations/Tragekia.md), or [North Bedia](../../Nations/Bedia.md).
 
 ## Storm Aura
 When you select this path at 3rd level, you emanate a stormy, magical aura while you rage. The aura extends 10 feet from you in every direction, but not through total cover.
@@ -19,11 +19,11 @@ If your aura's effects require a saving throw, the DC equals 8 + your proficienc
 ## Storm Soul
 At 6th level, the storm grants you benefits even when your aura isn't active. The benefits are based on the environment you chose for your Storm Aura.
 
-* **Desert**. You gain resistance to fire damage, and you don’t suffer the effects of extreme heat, as described in the Dungeon Master's Guide. Moreover, as an action, you can touch a flammable object that isn't being worn or carried by anyone else and set it on fire.
+* **Desert**. You gain resistance to fire damage, and you don't suffer the effects of extreme heat, as described in the Dungeon Master's Guide. Moreover, as an action, you can touch a flammable object that isn't being worn or carried by anyone else and set it on fire.
 
 * **Sea**. You gain resistance to lightning damage, and you can breathe underwater. You also gain a swimming speed of 30 feet.
 
-* **Tundra**. You gain resistance to cold damage, and you don’t suffer the effects of extreme cold, as described in the Dungeon Master's Guide. Moreover, as an action, you can touch water and turn a 5-foot cube of it into ice, which melts after 1 minute. This action fails if a creature is in the cube.
+* **Tundra**. You gain resistance to cold damage, and you don't suffer the effects of extreme cold, as described in the Dungeon Master's Guide. Moreover, as an action, you can touch water and turn a 5-foot cube of it into ice, which melts after 1 minute. This action fails if a creature is in the cube.
 
 ## Shielding Storm
 At 10th level, you learn to use your mastery of the storm to protect others. Each creature of your choice has the damage resistance you gained from the Storm Soul feature while the creature is in your Storm Aura.

@@ -1,7 +1,7 @@
 # Sorcerous Origin: Clockwork Soul
 A plane of utmost order, Mechanus is a realm overseen by a godlike entity called Primus, whose actions are inscrutable and calculations, vast. You, or someone from your lineage, might have become entangled in one of the machinations of the leader of the modrons. Perhaps you were exposed to an artifact created by Primus, or your ancestor took part in the Great Modron March in some way.
 
-The power of Mechanus can seem strange and alien to others, but for you it is part of a vast and glorious system that others can’t comprehend. At your option, you can pick from or roll on the Manifestations of Mechanus table to create a way your connection to the plane manifests while you are casting a spell.
+The power of Mechanus can seem strange and alien to others, but for you it is part of a vast and glorious system that others can't comprehend. At your option, you can pick from or roll on the Manifestations of Mechanus table to create a way your connection to the plane manifests while you are casting a spell.
 
 **Manifestations of Mechanus**
 d6|Manifestation
@@ -14,7 +14,7 @@ d6|Manifestation
 6|The ringing of a clock can be heard by you and those affected by your magic.
 
 ## Clockwork Magic
-Starting at 1st level, you learn additional spells when you reach certain levels in this class, as shown on the Clockwork Spells table. Each spell counts as a sorcerer spell for you, but it doesn’t count against the number of sorcerer spells you know. These spells can’t be replaced when you gain a level in this class.
+Starting at 1st level, you learn additional spells when you reach certain levels in this class, as shown on the Clockwork Spells table. Each spell counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know. These spells can't be replaced when you gain a level in this class.
 
 **Clockwork Spells**
 Sorcerer Level | Spells
@@ -22,7 +22,7 @@ Sorcerer Level | Spells
 1st | alarm, protection from evil and good
 3rd | find traps, heat metal
 5th | counterspell, glyph of warding
-7th | arcane eye, Otiluke’s resilient sphere
+7th | arcane eye, Otiluke's resilient sphere
 9th  animate objects, wall of force
 
 ## Restore Balance
@@ -36,8 +36,8 @@ Starting at 6th level, you can imbue a creature with a shimmering shield of orde
 The ward is represented by a number of d8s equal to the number of sorcery points spent to create it. When the warded creature takes damage, it can use its reaction to spend a number of those dice, roll them, and reduce the damage taken by the total of the spent dice.
 
 ## Trance of Order
-Starting at 14th level, you gain the ability to enter a state of clockwork consciousness as a bonus action. For the next minute, attack rolls against you can’t benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a d20 roll of 9 or lower as a 10.
-Once you use this action, you can’t use it again until you finish a long rest or until you expend 5 sorcery points to use it again.
+Starting at 14th level, you gain the ability to enter a state of clockwork consciousness as a bonus action. For the next minute, attack rolls against you can't benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a d20 roll of 9 or lower as a 10.
+Once you use this action, you can't use it again until you finish a long rest or until you expend 5 sorcery points to use it again.
 
 ## Clockwork Cavalcade
 Starting at 18th level, you summon spirits of order to restore balance around you. As an action, you summon the spirits in a 30-foot cube originating from you. The spirits look like modrons or other constructs of your choice. The spirits are intangible and invulnerable, work fast and efficiently, and create the following effects within the cube before vanishing:
@@ -48,6 +48,6 @@ Starting at 18th level, you summon spirits of order to restore balance around yo
 
 * Every spell of 6th level or lower ends on creatures and objects of your choice in the cube.
 
-Once you use this action, you can’t use it again until you finish a long rest or until you expend 7 sorcery points to use it again.
+Once you use this action, you can't use it again until you finish a long rest or until you expend 7 sorcery points to use it again.
 
 *Original content: [Unearthed Arcana - Subclasses 2](https://dnd.wizards.com/articles/unearthed-arcana/subclasses_part2)*

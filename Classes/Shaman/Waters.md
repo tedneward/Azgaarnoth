@@ -35,13 +35,13 @@ Once you have used this feature to speak with a body of water, you cannot speak 
 ## Aqueous Form
 Starting at 6th level, you can briefly take on a watery form in order to escape from confinement. When you are grappled or restrained, you can use your reaction to automatically escape from the restraints. You need not use this feature immediately upon becoming grappled or restrained, and can use your reaction to escape the restraints at any time.
 
-Once you have used this feature, you can’t use it again until you finish a short or long rest.
+Once you have used this feature, you can't use it again until you finish a short or long rest.
 
 ## Master of Ice and Steam
 At 10th level, you are as fluid and changing as the spirits of water, allowing you to resist the effects of extreme temperatures. You have resistance to cold and fire damage and suffer no harm in temperatures as cold as -20 degrees Fahrenheit or as warm as 120 degrees Fahrenheit. In addition, you have advantage on saving throws made against effects that would reduce your speed or light you on fire.
 
 ## Move Across the Waters
-Upon reaching 14th level, you master the connection between all water, allowing you to gain knowledge of distant places. By spending 10 minutes meditating in a pool of calm water, you can animate your reflection and send it to distant pools of water, allowing you to see and speak through it. Your reflection can only appear in a body of water that is at least 1 foot in diameter and is calm enough to display the reflections of nearby creatures and objects. The body of water need not be natural—your reflection can appear in basins or other containers that are filled with water, so long as they are large enough.
+Upon reaching 14th level, you master the connection between all water, allowing you to gain knowledge of distant places. By spending 10 minutes meditating in a pool of calm water, you can animate your reflection and send it to distant pools of water, allowing you to see and speak through it. Your reflection can only appear in a body of water that is at least 1 foot in diameter and is calm enough to display the reflections of nearby creatures and objects. The body of water need not be natural--your reflection can appear in basins or other containers that are filled with water, so long as they are large enough.
 
 When you use this feature, you instantly know the location of all appropriate pools of water within 500 miles and you can use your action to move your reflection from the pool it currently occupies to another appropriate pool that you are aware of. Your reflection begins in the pool in which you are meditating.
 
@@ -51,4 +51,4 @@ You can see and hear through your reflection as though you were in its space. On
 
 The reflection is obviously not a real creature, appearing only as an image on the surface of the water. If the surface of the water is disturbed sufficiently to scatter the reflection, it disappears, and the effect ends. Otherwise, the effect lasts for 1 hour or until your concentration is broken (as if you are concentrating on a spell).
 
-Once you have used this feature, you can’t use it again until you finish a long rest.
+Once you have used this feature, you can't use it again until you finish a long rest.

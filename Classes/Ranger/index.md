@@ -48,6 +48,7 @@ As a ranger, you gain the following class features.
 
 ## Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
+
 * (a) scale mail or (b) leather armor
 * (a) two shortswords or (b) two simple melee weapons
 * (a) a dungeoneer's pack or (b) an explorer's pack
@@ -128,7 +129,7 @@ Wisdom is your spellcasting ability for your ranger spells, since your magic dra
 Whenever you finish a long rest, you can replace one spell you learned from this Spellcasting feature with another spell from the ranger spell list. The new spell must be the same level as the spell you replace.
 
 ### Spellcasting Focus
-You can use a druidic focus as a spellcasting focus for your ranger spells. See chapter 5, “Equipment,” of the *Player’s Handbook* for a list of things that count as druidic focuses.
+You can use a druidic focus as a spellcasting focus for your ranger spells.
 
 ## Animal Companion
 *3rd-level ranger feature*
@@ -137,9 +138,9 @@ You learn to use your magic to create a powerful bond with a creature of the nat
 
 With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you call forth an animal from the wilderness to serve as your faithful companion. You normally select you companion from among the following animals: an ape, a black bear, a boar, a giant badger, a giant weasel, a mule, a panther, or a wolf. However, your DM might pick one of these animals for you, based on the surrounding terrain and on what types of creatures would logically be present in the area.
 
-At the end of the 8 hours, your animal companion appears and gains all the benefits of your Companion’s Bond ability. You can have only one animal companion at a time.
+At the end of the 8 hours, your animal companion appears and gains all the benefits of your Companion's Bond ability. You can have only one animal companion at a time.
 
-If your animal companion is ever slain, the magical bond you share allows you to return it to life. With 8 hours of work and the expenditure of 25 gp worth of rare herbs and fine food, you call forth your companion’s spirit and use your magic to create a new body for it. You can return an animal companion to life in this manner even if you do not possess any part of its body.
+If your animal companion is ever slain, the magical bond you share allows you to return it to life. With 8 hours of work and the expenditure of 25 gp worth of rare herbs and fine food, you call forth your companion's spirit and use your magic to create a new body for it. You can return an animal companion to life in this manner even if you do not possess any part of its body.
 
 If you use this ability to return a former animal companion to life while you have a current animal companion, your current companion leaves you and is replaced by the restored companion.
 
@@ -158,27 +159,26 @@ Your animal companion gains proficiency in two skills of your choice. It also be
 
 For each level you gain after 3rd, your animal companion gains an additional hit die and increases its hit points accordingly.
 
-Whenever you gain the Ability Score Improvement class feature, your companion’s abilities also improve. Your companion can increase one ability score of your choice by 2, or it can increase two ability scores of your choice by 1. As normal, your companion can’t increase an ability score above 20 using this feature unless its description specifies otherwise.
+Whenever you gain the Ability Score Improvement class feature, your companion's abilities also improve. Your companion can increase one ability score of your choice by 2, or it can increase two ability scores of your choice by 1. As normal, your companion can't increase an ability score above 20 using this feature unless its description specifies otherwise.
 
-Your companion shares your alignment, and has a personality trait and a flaw that you can roll for or select from the tables below. Your companion shares your ideal, and its bond is always, “The ranger who travels with me is a beloved companion for whom I would gladly give my life.”
-
+Your companion shares your alignment, and has a personality trait and a flaw that you can roll for or select from the tables below. Your companion shares your ideal, and its bond is always, "The ranger who travels with me is a beloved companion for whom I
 Your animal companion gains the benefits of your Favored Enemy feature, and of your Greater Favored Enemy feature when you gain that feature at 6th level. It uses the favored enemies you selected for those features.
 
 d6|Trait
 --|------
-1|I’m dauntless in the face of adversity.
+1|I'm dauntless in the face of adversity.
 2|Threaten my friends, threaten me.
 3|I stay on alert so others can rest.
 4|People see an animal and underestimate me. I use that to my advantage.
 5|I have a knack for showing up in the nick of time.
-6|I put my friends’ needs before my own in all things.
+6|I put my friends' needs before my own in all things.
 
 d6|Flaw
 --|----
-1|If there’s food left unattended, I’ll eat it.
+1|If there's food left unattended, I'll eat it.
 2|I growl at strangers, and all people except my ranger are strangers to me.
 3|Any time is a good time for a belly rub.
-4|I’m deathly afraid of water.
+4|I'm deathly afraid of water.
 5|My idea of hello is a flurry of licks to the face.
 6|I jump on creatures to tell them how much I love them.
 
@@ -190,7 +190,7 @@ Your mastery of ranger lore allows you to establish a powerful link to beasts an
 
 You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast as an action, and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it to not attack. You cannot use this ability against a creature that you have attacked within the past 10 minutes.
 
-Additionally, you can attune your senses to determine if any of your favored enemies lurk nearby. By spending 1 uninterrupted minute in concentration (as if you were concentrating on a spell), you can sense whether any of your favored enemies are present within 5 miles of you. This feature reveals which of your favored enemies are present, their numbers, and the creatures’ general direction and distance (in miles) from you. If there are multiple groups of your favored enemies within range, you learn this information for each group.
+Additionally, you can attune your senses to determine if any of your favored enemies lurk nearby. By spending 1 uninterrupted minute in concentration (as if you were concentrating on a spell), you can sense whether any of your favored enemies are present within 5 miles of you. This feature reveals which of your favored enemies are present, their numbers, and the creatures' general direction and distance (in miles) from you. If there are multiple groups of your favored enemies within range, you learn this information for each group.
 
 ## Ranger Conclave
 *3rd level ranger feature*
@@ -243,6 +243,8 @@ You are also aware of the location of any invisible creature within 30 feet of y
 *20th-level ranger feature*
 
 You become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
+
+---
 
 # Ranger Spells
 The following spells listed are known (but not necessarily accessible, depending on the conclave chosen) to all rangers throughout Azgaarnoth; this is not the complete list of all ranger spells, however. Certain conclaves may have additional spells that are only known to them, and thus are not accessible to other conclaves. Rangers can learn new spells by visiting druidic circles, communing with nature for significant periods of time, studying with another ranger of a different conclave, and so on. (In other words, DMs can release new ranger spells, but all rangers do not have access to them by default.)

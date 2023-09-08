@@ -13,7 +13,7 @@ Feats, magic items, and other features may improve your Intuition die. This incr
 For example, if a dragonmarked trait and feat both grant intuition with Dexterity (Stealth) checks, you roll a d6, instead of a d4. Three instances would increase your Intuition Die to a d8, and so on.
 
 ## Dragonmark Appearance
-A dragonmark is a distinctive symbol that appears on the skin. There are twelve known dragonmarks, each unique in design and power. A dragonmark can appear on any part of the body. One half-elf could have the Mark of Detection across an eye, while another has it in the palm of their hand. Dragonmarks are painted in vivid shades of blue and purple and seem to shimmer or even move slightly. When used, they grow warm to the touch and may glow (though this doesn’t produce useful illumination). A dragonmark can’t be removed—even if a limb bearing a dragonmark is cut away, the mark eventually manifests on another part of the bearer’s body. All dragonmarks share the same initial appearance but a dragonmark can grow in size and complexity if a character takes the Greater Dragonmark feat or if the mark is tied to class abilities.
+A dragonmark is a distinctive symbol that appears on the skin. There are twelve known dragonmarks, each unique in design and power. A dragonmark can appear on any part of the body. One half-elf could have the Mark of Detection across an eye, while another has it in the palm of their hand. Dragonmarks are painted in vivid shades of blue and purple and seem to shimmer or even move slightly. When used, they grow warm to the touch and may glow (though this doesn’t produce useful illumination). A dragonmark can’t be removed--even if a limb bearing a dragonmark is cut away, the mark eventually manifests on another part of the bearer’s body. All dragonmarks share the same initial appearance but a dragonmark can grow in size and complexity if a character takes the Greater Dragonmark feat or if the mark is tied to class abilities.
 
 While dragonmarks share the same general appearance, your dragonmark could have a unique quality. If you’d like to explore this, roll on the Dragonmark Quirks table.
 
@@ -31,17 +31,31 @@ The Mark of Shadow lets an elf weave illusions from shadows, crafting sounds and
 
 ### Traits
 The Mark of Shadow only manifests on elves. If your character has the Mark of Shadow, this is your elf subrace.
-Ability Score Increase. Your Charisma score increases by 1.
 
-**Natural Talent**. You gain proficiency with one musical instrument or the Performance skill.
+**Ability Score Increase.** Your Charisma score increases by 1.
 
-**Gift of the Shadows**. When you make a Charisma (Performance) or Dexterity (Stealth) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
+**Natural Talent.** You gain proficiency with one musical instrument or the Performance skill.
 
-**Shape Shadows**. You know the [minor illusion](../Magic/Spells/minor-illusion.md) cantrip. Charisma is your spellcasting ability for this trait.
+**Gift of the Shadows.** When you make a Charisma (Performance) or Dexterity (Stealth) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
 
-**Slip Into Shadow**. You can use the Hide action as a bonus action, even if you have no cover or if you’re under observation. Regardless of whether you succeed or fail, once you use this ability, you can’t use it again until you finish a short or long rest.
+**Shape Shadows.** You know the [minor illusion](../Magic/Spells/minor-illusion.md) cantrip. Charisma is your spellcasting ability for this trait.
+
+**Slip Into Shadow.** You can use the Hide action as a bonus action, even if you have no cover or if you’re under observation. Regardless of whether you succeed or fail, once you use this ability, you can’t use it again until you finish a short or long rest.
 
 ```
 name = 'Shadow Dragonmarked'
+def level0(npc):
+    npc.CHA += 1
 
+    choice = choose("Choose one: ", ['Performance', 'Musical instrument'])
+    if choice == 'Performance':
+        npc.skills.append("Performance")
+    else:
+        npc.proficiencies.append("Musical instrument")
+
+    npc.traits.append("***Gift of the Shadows.*** When you make a Charisma (Performance) or Dexterity (Stealth) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.")
+
+    npc.newspellcasting("Dragonmark", 'CHA').cantripsknown.append('minor illusion')
+
+    npc.bonusactions.append("***Slip Into Shadow (Recharges on short or long rest).*** You can use the Hide action as a bonus action, even if you have no cover or if you’re under observation.")
 ```

@@ -24,7 +24,7 @@ At 14th level, whenever you use your Plant Camouflage ability, you are renewed w
 
 Additionally, for a single transformation, you regain 1d4 hit points for each minute spent in direct sunlight. 
 
-If this ability hasn’t been used, and you are reduced to zero hit points while transformed in sunlight, it automatically activates. 
+If this ability hasn't been used, and you are reduced to zero hit points while transformed in sunlight, it automatically activates. 
 
 After you have used the regeneration part of this ability, you cannot use it again until after you have completed a long rest.
 

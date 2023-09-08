@@ -1,5 +1,5 @@
 # Martial Archetype: Ghost Warrior
-The Ghost Warrior draws upon the collective wisdom, knowledge, and experience of a choir of ghosts or other ancestral spirits. This choir remains bonded to them, invisible and silent until summoned, offering guidance until the warrior fulfills their destiny or perishes in battle. Such a choir includes ancestral spirits, as well as spirits of former protectors of their clan and legendary warriors slain in combat--and perhaps even an enemy or rival slain by their hand. When the Ghost Warrior needs insight or advice, they listen to these spirits and--if wise--heed their counsel. In those moments where the ghost warrior needs an edge against enemies, they allow one of the spirits to possess their body. When the time comes and the ghost warrior falls, then they become part of another warrior’s choir, continuing the cycle of life and death.
+The Ghost Warrior draws upon the collective wisdom, knowledge, and experience of a choir of ghosts or other ancestral spirits. This choir remains bonded to them, invisible and silent until summoned, offering guidance until the warrior fulfills their destiny or perishes in battle. Such a choir includes ancestral spirits, as well as spirits of former protectors of their clan and legendary warriors slain in combat--and perhaps even an enemy or rival slain by their hand. When the Ghost Warrior needs insight or advice, they listen to these spirits and--if wise--heed their counsel. In those moments where the ghost warrior needs an edge against enemies, they allow one of the spirits to possess their body. When the time comes and the ghost warrior falls, then they become part of another warrior's choir, continuing the cycle of life and death.
 
 The Ghost Warrior is most commonly found among the tribes of Yithi, Zhi, and (increasingly) among the United Hordes.
 
@@ -8,11 +8,11 @@ When you choose this archetype at 3rd level, you gain a collection of spirits kn
 
 ***Ghosts.*** You gain the services of four ghosts of your choice, which are described below under "Spirits." Each spirit provides a different benefit; some aid your attacks or defenses, while others help you with ability checks or saving throws. You can only benefit from one spirit per attack or action.
 
-Under normal conditions (except as noted below), only you can see your choir or hear their voices. These spirits can, however, be detected by means of detect magic, and can be seen with a  gem of true seeing. The ghosts are not treated as undead or any type of creature—they cannot be attacked, harmed, exorcised, or banished.
+Under normal conditions (except as noted below), only you can see your choir or hear their voices. These spirits can, however, be detected by means of detect magic, and can be seen with a  gem of true seeing. The ghosts are not treated as undead or any type of creature--they cannot be attacked, harmed, exorcised, or banished.
 
-Once you’ve gained a particular spirit’s benefit, you cannot call upon that same spirit again until after you’ve completed a short or long rest.
+Once you've gained a particular spirit's benefit, you cannot call upon that same spirit again until after you've completed a short or long rest.
 
-***Saving Throw.*** Some benefits provided by your ghostly choir call for your target to make a saving throw to avoid or resist the feature’s effects. Calculate the saving throw DC as follows:
+***Saving Throw.*** Some benefits provided by your ghostly choir call for your target to make a saving throw to avoid or resist the feature's effects. Calculate the saving throw DC as follows:
 
 **Spirit save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
@@ -33,11 +33,11 @@ When you add a spirit to your choir, select from those described below. Once you
 
 When you gain a new fighter level, you can change one of your spirits for another.
 
-***Berserker.*** His rage clouds your mind, blocking your foe’s honeyed words. You do not summon this spirit, but rather he appears unbidden. If you fail a saving throw against an effect that imposes the charmed condition, each round thereafter at the beginning of your turn you may reroll the saving throw with advantage. If you succeed, the charm effect ends. If you fail, however, you suffer 1 hit point per level of damage. This feature continues until you break free of the charm or drop to 0 hit points—you cannot voluntarily end this feature.
+***Berserker.*** His rage clouds your mind, blocking your foe's honeyed words. You do not summon this spirit, but rather he appears unbidden. If you fail a saving throw against an effect that imposes the charmed condition, each round thereafter at the beginning of your turn you may reroll the saving throw with advantage. If you succeed, the charm effect ends. If you fail, however, you suffer 1 hit point per level of damage. This feature continues until you break free of the charm or drop to 0 hit points--you cannot voluntarily end this feature.
 
 ***Butcher.*** He bleeds your enemies of their vitality, granting it to you. You can invoke this spirit as a bonus action. Choose a number of enemies equal to your proficiency bonus that you can see within 30 feet. Each target must make a Constitution saving throw or suffer 2 points of necrotic damage. You regain half of this amount as temporary hit points. Summoning the butcher counts as invoking two of your spirit uses.
 
-***Coward.*** He teaches you the value of fear and caution. If you take the disengage action to move away from an enemy, your speed increases by half for that round only. Unlike the other spirits, you do not lose the coward feature after using him. Instead, choose one of your other ghostly choir. You instead lose that spirit’s feature until you complete a short or long rest.
+***Coward.*** He teaches you the value of fear and caution. If you take the disengage action to move away from an enemy, your speed increases by half for that round only. Unlike the other spirits, you do not lose the coward feature after using him. Instead, choose one of your other ghostly choir. You instead lose that spirit's feature until you complete a short or long rest.
 
 ***Crone.*** She peers a few moments ahead into your future and predicts what might happen. When an effect requires you to make a saving throw, as a reaction you can draw on this spirit and have advantage on that saving throw. If you cannot take a reaction, you cannot call upon the crone.
 
@@ -53,7 +53,7 @@ When you gain a new fighter level, you can change one of your spirits for anothe
 
 ***Monster.*** The ghost of a ferocious monster now grudgingly aids your cause. When you invoke the monster as an action, choose a number of enemy creatures within 30 feet that you can see, to a maximum of your proficiency bonus. Each creature must make a Wisdom saving throw or become frightened for a number of rounds equal to your Wisdom modifier (minimum of 1).
 
-***Old Hand.*** He tells you what you need to hear after you’ve suffered a setback. When you call upon this spirit as a bonus action, you can ignore one condition you are suffering, or up to two levels of exhaustion, for a number of rounds equal to your Wisdom modifier (minimum of 1).
+***Old Hand.*** He tells you what you need to hear after you've suffered a setback. When you call upon this spirit as a bonus action, you can ignore one condition you are suffering, or up to two levels of exhaustion, for a number of rounds equal to your Wisdom modifier (minimum of 1).
 
 ***Protector.*** If an enemy creature attacks you with advantage because you are surprised, you can draw on this spirit as a reaction to negate that advantage. You are no longer surprised, and the attacker rolls his attack normally.
 

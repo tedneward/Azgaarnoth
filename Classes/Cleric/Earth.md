@@ -8,7 +8,7 @@ Clerics of the earth domain are closely tied to soil and stone. Stones can make 
 Cleric Level | Spells
 ------------ | ------
 1st	| [earth tremor](../../Magic/Spells/earth-tremor.md), [shield](../../Magic/Spells/shield.md)
-3rd	| [magic weapon](../../Magic/Spells/magic-weapon.md), [maximilian’s earthen grasp](../../Magic/Spells/maximilians-earthen-grasp.md)
+3rd	| [magic weapon](../../Magic/Spells/magic-weapon.md), [maximilian's earthen grasp](../../Magic/Spells/maximilians-earthen-grasp.md)
 5th	| [erupting earth](../../Magic/Spells/erupting-earth.md), [meld into stone](../../Magic/Spells/meld-into-stone.md)
 7th	| [stone shape](../../Magic/Spells/stone-shape.md), [stoneskin](../../Magic/Spells/stoneskin.md)
 9th	| [transmute rock](../../Magic/Spells/transmute-rock.md), [wall of stone](../../Magic/Spells/wall-of-stone.md)

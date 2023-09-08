@@ -7,7 +7,7 @@ To gain levels as a tattoo adept, you must meet the following requirements (in a
 * **Dexterity 13.** Tattoo adepts must have nimble hands.
 * **Intelligence 13 or Charisma 13.** Tattoo adepts must have an aptitude for arcane magic.
 * **Proficiency in the Arcana skill.** A tattoo adept must be knowledgeable regarding arcane lore.
-* **Proficiency with tattooist’s supplies.** A tattoo adept must be skilled in the tattooist’s art.
+* **Proficiency with tattooist's supplies.** A tattoo adept must be skilled in the tattooist's art.
 * **Full arcane spellcasting class feature.** To become a tattoo adept, you must have the ability to cast spells from the bard, sorcerer, warlock, or wizard spell list.
 * **Character level 5th.** You must already be a 5th-level character before you can gain tattoo adept levels.
 
@@ -39,7 +39,7 @@ The following rules apply to your spellcasting.
 
 **Cantrips.** At 1st level, you learn one cantrip of your choice from the wizard spell list.
 
-**Spell Slots.** The Tattoo Adept table shows how many spell slots you have to cast your 1st-level spells. To cast one of these spells, you must expend a slot of the spell’s level (or higher). You regain all expended spell slots when you finish a long rest.
+**Spell Slots.** The Tattoo Adept table shows how many spell slots you have to cast your 1st-level spells. To cast one of these spells, you must expend a slot of the spell's level (or higher). You regain all expended spell slots when you finish a long rest.
 
 **Spells Known of 1st Level.** You know two 1st-level spells of your choice from the wizard spell list. You gain a third 1st-level spell when you reach 2nd level.
 
@@ -71,14 +71,14 @@ You can inscribe a Dancing Ink spell at the end of a short or long rest.
 ## Tattoo Mastery
 *2nd-level tattoo adept feature*
 
-Your proficiency bonus is doubled when you make an ability check that uses tattooist’s supplies.
+Your proficiency bonus is doubled when you make an ability check that uses tattooist's supplies.
 
-When you activate a one of your Dancing Ink tattoos or another magic tattoo that normally grants you some bonus or benefit for a duration, you can grant the effects to one willing creature you touch instead of yourself. You can’t transfer the ability to cast a spell or any permanent benefit.
+When you activate a one of your Dancing Ink tattoos or another magic tattoo that normally grants you some bonus or benefit for a duration, you can grant the effects to one willing creature you touch instead of yourself. You can't transfer the ability to cast a spell or any permanent benefit.
 
 ## Eldritch Tattoo
 *4th-level tattoo adept feature*
 
-You can ink a tattoo on your person to duplicate one warlock eldritch invocation effect from the following list: [Armor of Shadows](../Warlock.md#armor-of-shadows), [Beast Speech](../Warlock.md#beast-speech), [Beguiling Influence](../Warlock.md#beguiling-influence), [Devil’s Sight](../Warlock.md#devils-sight), [Eldritch Sight](../Warlock.md#eldritch-sight), [Eyes of the Rune Keeper](../Warlock.md#eyes-of-the-rune-keeper), [Fiendish Vigor](../Warlock.md#fiendish-vigor), [Gaze of Two Minds](../Warlock.md#gaze-of-two-minds), [Mask of Many Faces](../Warlock.md#mask-of-many-faces), or [Misty Visions](../Warlock.md#misty-visions). While this tattoo is on your person, you are considered to be a warlock of equal level to your tattoo adept level, using your chosen spellcasting ability modifier (if necessary).
+You can ink a tattoo on your person to duplicate one warlock eldritch invocation effect from the following list: [Armor of Shadows](../Warlock.md#armor-of-shadows), [Beast Speech](../Warlock.md#beast-speech), [Beguiling Influence](../Warlock.md#beguiling-influence), [Devil's Sight](../Warlock.md#devils-sight), [Eldritch Sight](../Warlock.md#eldritch-sight), [Eyes of the Rune Keeper](../Warlock.md#eyes-of-the-rune-keeper), [Fiendish Vigor](../Warlock.md#fiendish-vigor), [Gaze of Two Minds](../Warlock.md#gaze-of-two-minds), [Mask of Many Faces](../Warlock.md#mask-of-many-faces), or [Misty Visions](../Warlock.md#misty-visions). While this tattoo is on your person, you are considered to be a warlock of equal level to your tattoo adept level, using your chosen spellcasting ability modifier (if necessary).
 
 Only one such tattoo can be on your person at a time, though it can be replaced at any time. Once you have inked this tattoo, you cannot ink another one until you have finished a long rest.
 

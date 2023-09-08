@@ -9,7 +9,7 @@ At 3rd level, while wearing heavy armor you reduce the damage you suffer from sl
 Additionally, you automatically begin with one success whenever you must start making death saves.
 
 ## Fear of Failure
-At 7th level, if an attack fails to damage you, you may use your reaction to make a Strength (Intimidate) skill check against a DC of 8 + your opponent’s proficiency bonus + opponent’s Wisdom modifier. If you are successful, that opponent suffers disadvantage on all attacks made against you until the end of their next turn.
+At 7th level, if an attack fails to damage you, you may use your reaction to make a Strength (Intimidate) skill check against a DC of 8 + your opponent's proficiency bonus + opponent's Wisdom modifier. If you are successful, that opponent suffers disadvantage on all attacks made against you until the end of their next turn.
 
 ## Impenetrable Defense
 At 10th level, you treat all critical hits as normal hits while wearing heavy armor.
