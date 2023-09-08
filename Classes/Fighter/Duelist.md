@@ -15,7 +15,7 @@ def level3(npc):
 As a reaction, you add your Intelligence bonus to your AC against a single attack.
 
 ```
-    npc.defer(lambda npc: npc.reactions.append("***Duelist's Defense.*** You add +{npc.INTbonus()} to your AC against a single attack."))
+    npc.defer(lambda npc: npc.reactions.append(f"***Duelist's Defense.*** You add +{npc.INTbonus()} to your AC against a single attack."))
 ```
 
 ## Duelist's Challenge

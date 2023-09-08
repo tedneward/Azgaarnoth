@@ -1,70 +1,55 @@
 >### Name
-*Medium humanoid (Triton) Cleric (Ocean) 8, any alignment*
+*Medium humanoid (Sahuagin) Fighter (Brute) 6, any alignment*
 >___
->- **Armor Class** 12 (DEX (+2))
->- **Hit Points** 74 (8d8 + 28)
->- **Speed** 30 ft, swimming 30 ft
+>- **Armor Class** 10 (DEX (+0))
+>- **Hit Points** 51 (6d10 + 6)
+>- **Speed** 20 ft, swimming 40 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 '>|:-:|:-:|:-:|:-:|:-:|:-:|
->|15 (+2)|15 (+2)|18 (+4)|7 (-2)|18 (+4)|13 (+1)|
+>|17 (+3)|11 (+0)|14 (+2)|12 (+1)|14 (+2)|9 (-1)|
 >___
->- **Proficiency Bonus** +4
->- **Saving Throws** Wis +8,Cha +5
+>- **Proficiency Bonus** +3
+>- **Saving Throws** Str +6,Con +5
 >- **Damage Vulnerabilities** 
->- **Damage Resistances** cold
+>- **Damage Resistances** 
 >- **Damage Immunities** 
 >- **Condition Immunities** 
->- **Skills** History +2, Insight +8
->- **Proficiencies** Light armor,Medium armor,Shields,Simple weapons
->- **Senses** passive Perception 14
->- **Languages** Common,Aquan
+>- **Skills** Intimidation +2, Survival +5
+>- **Proficiencies** All armor and shields,Simple weapons,Martial weapons
+>- **Senses** darkvision 60 ft, blood 20 ft, passive Perception 12
+>- **Languages** 
 >___
->***Amphibious.*** You can breathe air and water.
+>***Limited Amphibiousness.*** You can breathe air and water, but need to be submerged at least once every 8 hours to avoid dehydration. For each 8 hours period you do not submerge, you suffer one additional level of exhaustion.
 >
->***Emissary of the Sea.*** You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return.
+>***Shark Telepathy.*** You can communicate simple ideas with sharks. They may understand you, but you have no way of understanding them.
 >
->***Guardians of the Depths.*** Adapted to even the most extreme ocean depths, you ignore any of the drawbacks caused by a deep, underwater environment.
+>***Blood in the Water.*** Your specialized sense of smell can detect blood. You are aware of creatures within 20 feet that have hit points below their maximum, and can bleed. When in water, this range extends to 60 feet.
 >
->***Channel Divinity (2/Recharges on short or long rest).*** See below for the details of each use.
+>***Fighting Style: Great Weapon Fighting.*** When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
 >
->***Divine Strike.*** Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 cold damage to the target.
+>***Action Surge (Recharges on short or long rest).*** On your turn, you can take one additional action on top of your regular action and a possible bonus action.
+>
+>***Brute Force.*** Whenever you hit with a weapon that you're proficient with and deal damage, the weapon's damage increases by {'1d4' if npc.levels('Fighter') < 10 else '1d6' if npc.levels('Fighter') < 16 else '1d8' if npc.levels('Fighter') < 20 else '1d10'}.
 >
 >#### Actions
->***Channel Divinity: Torrential Wrath.*** A forceful 10-foot-high wave of cold water erupts in a 30ft-radius circle around you. All creatures within the circle must succeed on a Strength saving throw or take 4d6 cold and 4d6 bludgeoning damage and be pushed back 10 feet and knocked prone. Creatures take half as much damage and are not pushed and knocked down on a successful saving throw. Creatures of the Huge size and larger are not pushed back and knocked prone. You must not be in the air when you do this.
+>***Bite.*** Melee Weapon Attack: 6 to hit, reach 5 ft., one target. Hit: 1d4 + 3 piercing damage.
 >
->***Channel Divinity: Turn Undead.***  You can use one of your uses of Channel Divinity to turn undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, if it is a CR of 1 or lower it is destroyed; otherwise it is turned for 1 minute or until it takes any damage.A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
->
->***Triton Spellcasting (Cha. Recharges on long rest).*** Spell save DC: 13, Spell attack bonus: +5
->
->* *1st (1 slots):* [fog cloud](http://azgaarnoth.tedneward.com/magic/spells/fog-cloud/)
->* *2nd (1 slots):* [gust of wind](http://azgaarnoth.tedneward.com/magic/spells/gust-of-wind/)
->* *3rd (1 slots):* [wall of water](http://azgaarnoth.tedneward.com/magic/spells/wall-of-water/)
->
->***Cleric Spellcasting (Wis, at level 8. Recharges on long rest).*** 4 cantrips known. 12 spells prepared. Spell save DC: 16, Spell attack bonus: +8
->
->* *Cantrips:* 
->* *1st (4 slots):* 
->* *2nd (3 slots):* 
->* *3rd (3 slots):* 
->* *4th (2 slots):* 
->
->#### Rections
->***Wrath of the Wave (4/Recharge on long rest).*** When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw (DC 16). The creature takes 2d6 cold damage on a failed saving throw and is pushed back 10 feet, and half as much damage (and is not pushed) on a successful one.
+>***Multiattack.*** You can attack twice whenever you take the Attack action on your turn.
 >
 >
 >#### Bonus Actions
->***Channel Divinity: Harness Divine Power.*** You can expend a use of your Channel Divinity to regain one expended spell slot, the level of which can be no higher than 3.
+>***Sharks Frenzy (Recharges on short or long rest).*** You can make a special attack with your Bite. If the attack hits, it deals its normal damage, and you gain 2 temporary hit points. These temporary hit points disappear when you finish a long rest.
+>
+>***Second Wind (Recharges on short or long rest).*** On your turn, you can regain 1d10 + 6 hit points.
 >
 
 #### Description
-***Race: Triton.*** Tritons guard the ocean depths, building small settlements beside deep trenches, portals to the elemental planes, and other dangerous spots far from the eyes of land-bound folk. Long-established guardians of the deep ocean floor, the noble tritons have gradually become increasingly active in the world above.
+***Race: Sahuagin.*** A fish-like monstrous humanoid species that lives in oceans, seas, underground lakes, and underwater caves.
 
-***Class: Cleric.*** Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
+***Class: Fighter.*** Fighters share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. They are well acquainted with death, both meting it out and staring it defiantly in the face.
 
-***Divine Domain: Ocean.***
-
-***Magic Item: Uncommon Permanent.***
+***Martial Archetype: Brute.*** Brutes are simple warriors who rely on mighty attacks and their own durability to overcome their enemies. Some brutes combine this physical might with tactical cunning. Others just hit things until those things stop hitting back.
 
 ***Magic Item: Uncommon Permanent.***
 

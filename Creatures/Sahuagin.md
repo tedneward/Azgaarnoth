@@ -17,6 +17,10 @@ So intense is sahuagin hatred for the aquatic elves that the sea devils have ada
 
 The sahuagin put the *malenti* to good use as spies and assassins in aquatic elf cities and the societies of other creatures that pose a threat to sahuagin. The mere shadow of the *malenti* threat incites paranoia and suspicion among aquatic elves, whose resilience is weakened as the prelude to an actual sahuagin invasion.
 
+***Playable Race: Combat Sharks.*** Not many sahuagin [adventure](../Races/Sahuagin.md) above the water level, but within the Undersea, many are well-known for their journies.
+
+***Sahuagin names.*** Mil Bel'ao, Nālin Tor'ta, Oris Glyn, Sin Hifo, Baer'y Ehryl', Moan Pyrr, Loa Kauiki, Kaulia Kaumav, Erlar' Yr, Therem Mahan, Falan' Malu, Raun'e Whir, Meliki Afa, Cha'ab Fale, Mel'an Ilt'li, Pomari Bea'de, Kyr'fr Alaia, Hin Cel'or, She'ry Kalaka, Ffuval Bia'ma, Piripi Sharyn, Eara'h Xha'dr, Elia Cha'ga, Rhyl'a Nap'ml, Kiv'va Bia'ar, Limu Galoha, Ikaera Afa, Cluyra Olina, Kahio Maan, Cae'ca Nale, Inc'an Mika, Siuli Lau'ar, Feilo Kapolo, Mer've Nainoa, Keth Sin'ro, Idri Bel'he, Makalu Kaia, Moana Samari, Ahia Koni, Vol'or Keya
+
 ---
 
 ## Sahuagin
@@ -65,6 +69,56 @@ The sahuagin put the *malenti* to good use as spies and assassins in aquatic elf
 >***Claws.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.
 >
 >***Spear.*** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+>
+
+---
+
+## Sahuagin Raider
+(No description given)
+
+### Environment
+Coastal, Undersea
+
+### Token
+
+>### Sahuagin Raider
+*Medium humanoid (Sahuagin) Fighter 1, any alignment*
+>___
+>- **Armor Class** 12 (DEX (+2))
+>- **Hit Points** 12 (1d10 + 2)
+>- **Speed** 20 ft, swimming 40 ft
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+'>|:-:|:-:|:-:|:-:|:-:|:-:|
+>|17 (+3)|15 (+2)|15 (+2)|6 (-2)|10 (+0)|9 (-1)|
+>___
+>- **Proficiency Bonus** +2
+>- **Saving Throws** Str +5,Con +4
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Intimidation +1, Survival +2
+>- **Proficiencies** All armor and shields,Simple weapons,Martial weapons
+>- **Senses** darkvision 60 ft, blood 20 ft, passive Perception 10
+>- **Languages** 
+>___
+>***Limited Amphibiousness.*** You can breathe air and water, but need to be submerged at least once every 8 hours to avoid dehydration. For each 8 hours period you do not submerge, you suffer one additional level of exhaustion.
+>
+>***Shark Telepathy.*** You can communicate simple ideas with sharks. They may understand you, but you have no way of understanding them.
+>
+>***Blood in the Water.*** Your specialized sense of smell can detect blood. You are aware of creatures within 20 feet that have hit points below their maximum, and can bleed. When in water, this range extends to 60 feet.
+>
+>***Fighting Style: Great Weapon Fighting.*** When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
+>
+>#### Actions
+>***Bite.*** Melee Weapon Attack: 5 to hit, reach 5 ft., one target. Hit: 1d4 + 3 piercing damage.
+>
+>
+>#### Bonus Actions
+>***Sharks Frenzy (Recharges on short or long rest).*** You can make a special attack with your Bite. If the attack hits, it deals its normal damage, and you gain 2 temporary hit points. These temporary hit points disappear when you finish a long rest.
+>
+>***Second Wind (Recharges on short or long rest).*** On your turn, you can regain 1d10 + 1 hit points.
 >
 
 ---
