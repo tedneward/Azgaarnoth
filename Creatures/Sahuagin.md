@@ -17,7 +17,7 @@ So intense is sahuagin hatred for the aquatic elves that the sea devils have ada
 
 The sahuagin put the *malenti* to good use as spies and assassins in aquatic elf cities and the societies of other creatures that pose a threat to sahuagin. The mere shadow of the *malenti* threat incites paranoia and suspicion among aquatic elves, whose resilience is weakened as the prelude to an actual sahuagin invasion.
 
-***Playable Race: Combat Sharks.*** Not many sahuagin [adventure](../Races/Sahuagin.md) above the water level, but within the Undersea, many are well-known for their journies.
+***Playable Race: Combat Sharks.*** Not many sahuagin [adventure](../Races/Sahuagin.md) above the water level, but within the Undersea, many are well-known for their journies. Note that good-aligned sahuagin will not make use of [blooded weapons](../Magic/Items/blooded-weapon.md) for any reason. Good- and neutral-aligned tribes of sahuagin are rare, and often vastly outnumbered by their evil kin, leading them to seek alliances with other similarly-minded Undersea creatures--including the aquatic elves, if they can get past their ancient enmity.
 
 ***Sahuagin names.*** Mil Bel'ao, Nālin Tor'ta, Oris Glyn, Sin Hifo, Baer'y Ehryl', Moan Pyrr, Loa Kauiki, Kaulia Kaumav, Erlar' Yr, Therem Mahan, Falan' Malu, Raun'e Whir, Meliki Afa, Cha'ab Fale, Mel'an Ilt'li, Pomari Bea'de, Kyr'fr Alaia, Hin Cel'or, She'ry Kalaka, Ffuval Bia'ma, Piripi Sharyn, Eara'h Xha'dr, Elia Cha'ga, Rhyl'a Nap'ml, Kiv'va Bia'ar, Limu Galoha, Ikaera Afa, Cluyra Olina, Kahio Maan, Cae'ca Nale, Inc'an Mika, Siuli Lau'ar, Feilo Kapolo, Mer've Nainoa, Keth Sin'ro, Idri Bel'he, Makalu Kaia, Moana Samari, Ahia Koni, Vol'or Keya
 
@@ -74,35 +74,38 @@ The sahuagin put the *malenti* to good use as spies and assassins in aquatic elf
 ---
 
 ## Sahuagin Raider
-(No description given)
+The sahuagin raiders are often the most experienced, toughest warriors of the tribe, most commonly used when the tribe seeks to wreak deadly violence upon the targets of their interest or wrath. They are almost always accompanied by at least one or more [priestesses](#sahuagin-priestess) and almost always led by a [baron](#sahuagin-baron).
 
 ### Environment
 Coastal, Undersea
 
 ### Token
+![]()
 
 >### Sahuagin Raider
-*Medium humanoid (Sahuagin) Fighter 1, any alignment*
+*Medium humanoid (Sahuagin) Fighter (Brute) 5, lawful evil*
 >___
->- **Armor Class** 12 (DEX (+2))
->- **Hit Points** 12 (1d10 + 2)
+>- **Armor Class** 15 (Half-plate)
+>- **Hit Points** 40 (5d10 + 5)
 >- **Speed** 20 ft, swimming 40 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 '>|:-:|:-:|:-:|:-:|:-:|:-:|
->|17 (+3)|15 (+2)|15 (+2)|6 (-2)|10 (+0)|9 (-1)|
+>|16 (+3)|11 (+0)|13 (+1)|12 (+1)|14 (+2)|9 (-1)|
 >___
->- **Proficiency Bonus** +2
->- **Saving Throws** Str +5,Con +4
+>- **Proficiency Bonus** +3
+>- **Saving Throws** Str +6,Con +4
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
 >- **Damage Immunities** 
 >- **Condition Immunities** 
->- **Skills** Intimidation +1, Survival +2
+>- **Skills** Intimidation +2, Survival +5
 >- **Proficiencies** All armor and shields,Simple weapons,Martial weapons
->- **Senses** darkvision 60 ft, blood 20 ft, passive Perception 10
->- **Languages** 
+>- **Senses** darkvision 60 ft, blood 20 ft, passive Perception 12
+>- **Languages** Common, Sahuagin, Aquan
 >___
+>***Blood Frenzy.*** The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
+>
 >***Limited Amphibiousness.*** You can breathe air and water, but need to be submerged at least once every 8 hours to avoid dehydration. For each 8 hours period you do not submerge, you suffer one additional level of exhaustion.
 >
 >***Shark Telepathy.*** You can communicate simple ideas with sharks. They may understand you, but you have no way of understanding them.
@@ -111,15 +114,31 @@ Coastal, Undersea
 >
 >***Fighting Style: Great Weapon Fighting.*** When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
 >
->#### Actions
->***Bite.*** Melee Weapon Attack: 5 to hit, reach 5 ft., one target. Hit: 1d4 + 3 piercing damage.
+>***Action Surge (Recharges on short or long rest).*** On your turn, you can take one additional action on top of your regular action and a possible bonus action.
 >
+>***Brute Force.*** Whenever you hit with a weapon that you're proficient with and deal damage, the weapon's damage increases by 1d4.
+>
+>#### Actions
+>***Multiattack.*** You can attack twice whenever you take the Attack action on your turn, plus once with your Bite.
+>
+>***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 1d4 + 1d4 (Brute) + 3 piercing damage.
+>
+>***Blooded trident (two-handed).*** Melee Weapon Attack: +7 to hit, reach 5ft., one target. Hit: 1d8 + 1d4 (Brute) + 4 piercing damage.
+>
+>***Blooded trident (thrown).*** Ranged Weapon Attack: +4 to hit, range 20/60, one target. Hit: 1d6 + 1d4 (Brute) + 1 piercing damage. Note that these weapons always have a loop at the end of their shaft, to which sahuagin attach an elastic form of kelp that acts as a rope, allowing them to recover the weapon (using a bonus action) when thrown; however, they can only throw them once per turn.
+>
+>***Javelin (thrown).*** Ranged Weapon Attack: +3 to hit, range 30/120, one target. Hit: 1d6 + 1d4 (Brute) piercing damage.
 >
 >#### Bonus Actions
->***Sharks Frenzy (Recharges on short or long rest).*** You can make a special attack with your Bite. If the attack hits, it deals its normal damage, and you gain 2 temporary hit points. These temporary hit points disappear when you finish a long rest.
+>***Sharks Frenzy (Recharges on short or long rest).*** You can make a special attack with your Bite. If the attack hits, it deals its normal damage, and you gain 1 temporary hit points. These temporary hit points disappear when you finish a long rest.
 >
->***Second Wind (Recharges on short or long rest).*** On your turn, you can regain 1d10 + 1 hit points.
+>***Second Wind (Recharges on short or long rest).*** On your turn, you can regain 1d10 + 5 hit points.
 >
+
+#### Description
+The sahuagin raiders often wear a form of half-plate made from Undersea materials. In addition to their trident, they will often carry 3 javelins with them for ranged attacks before closing to melee combat.
+
+***Magic Item: Uncommon Permanent.*** Sahuagin raiders almost always carry with them a [*blooded trident +1*](../Magic/Items/blooded-weapon.md), a sahuagin weapon that provides a magical +1 bonus and carries a sahuagin curse.
 
 ---
 
@@ -163,13 +182,10 @@ Coastal, Undersea
 >
 >***Spellcasting.*** The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following cleric spells prepared:
 >
->Cantrips (at will): guidance, thaumaturgy
->
->1st level (4 slots): bless, detect magic, guiding bolt
->
->2nd level (3 slots): hold person, spiritual weapon (trident)
->
->3rd level (3 slots): mass healing word, tongues
+>* *Cantrips (at will):* guidance, thaumaturgy
+>* *1st level (4 slots):* bless, detect magic, guiding bolt
+>* *2nd level (3 slots):* hold person, spiritual weapon (trident)
+>* *3rd level (3 slots):* mass healing word, tongues
 >
 >#### Actions
 >***Multiattack.*** The sahuagin makes two attacks: one with her bite and one with her claws.

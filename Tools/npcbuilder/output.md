@@ -1,16 +1,16 @@
 >### Name
-*Medium humanoid (Sahuagin) Fighter (Brute) 6, any alignment*
+*Medium humanoid (Sahuagin) Fighter (Brute) 5, any alignment*
 >___
 >- **Armor Class** 10 (DEX (+0))
->- **Hit Points** 51 (6d10 + 6)
+>- **Hit Points** 40 (5d10 + 5)
 >- **Speed** 20 ft, swimming 40 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 '>|:-:|:-:|:-:|:-:|:-:|:-:|
->|17 (+3)|11 (+0)|14 (+2)|12 (+1)|14 (+2)|9 (-1)|
+>|16 (+3)|11 (+0)|13 (+1)|12 (+1)|14 (+2)|9 (-1)|
 >___
 >- **Proficiency Bonus** +3
->- **Saving Throws** Str +6,Con +5
+>- **Saving Throws** Str +6,Con +4
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
 >- **Damage Immunities** 
@@ -30,7 +30,7 @@
 >
 >***Action Surge (Recharges on short or long rest).*** On your turn, you can take one additional action on top of your regular action and a possible bonus action.
 >
->***Brute Force.*** Whenever you hit with a weapon that you're proficient with and deal damage, the weapon's damage increases by {'1d4' if npc.levels('Fighter') < 10 else '1d6' if npc.levels('Fighter') < 16 else '1d8' if npc.levels('Fighter') < 20 else '1d10'}.
+>***Brute Force.*** Whenever you hit with a weapon that you're proficient with and deal damage, the weapon's damage increases by 1d4.
 >
 >#### Actions
 >***Bite.*** Melee Weapon Attack: 6 to hit, reach 5 ft., one target. Hit: 1d4 + 3 piercing damage.
@@ -39,9 +39,9 @@
 >
 >
 >#### Bonus Actions
->***Sharks Frenzy (Recharges on short or long rest).*** You can make a special attack with your Bite. If the attack hits, it deals its normal damage, and you gain 2 temporary hit points. These temporary hit points disappear when you finish a long rest.
+>***Sharks Frenzy (Recharges on short or long rest).*** You can make a special attack with your Bite. If the attack hits, it deals its normal damage, and you gain 1 temporary hit points. These temporary hit points disappear when you finish a long rest.
 >
->***Second Wind (Recharges on short or long rest).*** On your turn, you can regain 1d10 + 6 hit points.
+>***Second Wind (Recharges on short or long rest).*** On your turn, you can regain 1d10 + 5 hit points.
 >
 
 #### Description
