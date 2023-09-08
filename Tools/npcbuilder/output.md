@@ -1,9 +1,9 @@
 >### Name
-*Medium humanoid (Sahuagin) Cleric (Tempest) 8, any alignment*
+*Medium humanoid (Sahuagin) Cleric (Ocean) 8, any alignment*
 >___
 >- **Armor Class** 10 (DEX (+0))
->- **Hit Points** 53 (8d8 + 8)
->- **Speed** 20 ft, swimming 40 ft
+>- **Hit Points** 55 (8d8 + 8)
+>- **Speed** 20 ft, swimming 20 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 '>|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -16,7 +16,7 @@
 >- **Damage Immunities** 
 >- **Condition Immunities** 
 >- **Skills** Medicine +7, Religion +5
->- **Proficiencies** Light armor,Medium armor,Shields,Simple weapons
+>- **Proficiencies** Light armor,Medium armor,Shields,Simple weapons,Trident
 >- **Senses** darkvision 60 ft, blood 20 ft, passive Perception 13
 >- **Languages** Common,Sahuagin,Aquan
 >___
@@ -55,7 +55,7 @@
 
 ***Class: Cleric.*** Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
 
-***Magic Item: Uncommon Permanent.***
+***Magic Item: Uncommon Permanent: Half-trident.***
 
 ***Magic Item: Uncommon Permanent.***
 
