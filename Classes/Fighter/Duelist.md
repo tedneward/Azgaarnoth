@@ -5,8 +5,7 @@ Dueling grew out of the Dueling Colleges that have flourished across Azgaarnoth,
 
 ```
 name = 'Duelist'
-def level3(npc):
-    npc.description.append("***Martial Archetype: Duelist.*** The duelist lives for the thrill of combat, but most of all, they thrive in seeking out and challenging the most skilled foe on any battlefield. Once a duelist engages with their latest nemesis, everything else fades into oblivion, forgotten in the moment. The dance of the duel offers them the best way to learn new tricks, hone combat skills, and—most importantly--solidify their reputation as the superior swordsman.")
+description = "***Martial Archetype: Duelist.*** The duelist lives for the thrill of combat, but most of all, they thrive in seeking out and challenging the most skilled foe on any battlefield. Once a duelist engages with their latest nemesis, everything else fades into oblivion, forgotten in the moment. The dance of the duel offers them the best way to learn new tricks, hone combat skills, and—most importantly--solidify their reputation as the superior swordsman."
 ```
 
 ## Duelist's Defense
@@ -15,6 +14,7 @@ def level3(npc):
 As a reaction, you add your Intelligence bonus to your AC against a single attack.
 
 ```
+def level3(npc):
     npc.defer(lambda npc: npc.reactions.append(f"***Duelist's Defense.*** You add +{npc.INTbonus()} to your AC against a single attack."))
 ```
 

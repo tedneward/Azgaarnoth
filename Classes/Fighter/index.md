@@ -5,7 +5,63 @@ Fighters share an unparalleled mastery with weapons and armor, and a thorough kn
 
 ```
 name = 'Fighter'
+description = "***Class: Fighter.*** Fighters share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. They are well acquainted with death, both meting it out and staring it defiantly in the face."
+```
 
+Level|Proficiency Bonus|traits
+-----|-----------------|--------
+1st|+2|[Fighting Style](#fighting-style), [Second Wind](#second-wind)
+2nd|+2|[Action Surge](#action-surge) (x1)
+3rd|+2|[Martial Archetype](#martial-archetype)
+4th|+2|[Ability Score Improvement](#ability-score-improvement)
+5th|+3|[Extra Attack](#extra-attack) (x1)
+6th|+3|[Ability Score Improvement](#ability-score-improvement)
+7th|+3|[Martial Archetype feature](#martial-archetype)
+8th|+3|[Ability Score Improvement](#ability-score-improvement)
+9th|+4|[Indomitable](#indomitable) (x1)
+10th|+4|[Martial Archetype feature](#martial-archetype)
+11th|+4|[Extra Attack](#extra-attack) (x2)
+12th|+4|[Ability Score Improvement](#ability-score-improvement)
+13th|+5|[Indomitable](#indomitable) (x2)
+14th|+5|[Ability Score Improvement](#ability-score-improvement)
+15th|+5|[Martial Archetype feature](#martial-archetype)
+16th|+5|[Ability Score Improvement](#ability-score-improvement)
+17th|+6|[Action Surge](#action-surge) (x2), [Indomitable](#indomitable) (x3)
+18th|+6|[Martial Archetype feature](#martial-archetype)
+19th|+6|[Ability Score Improvement](#ability-score-improvement)
+20th|+6|[Extra Attack](#extra-attack) (x3)
+
+As a fighter, you gain the following class traits.
+
+## Hit Points
+**Hit Dice**: 1d10 per fighter level
+
+**Hit Points at 1st Level**: 10 + your Constitution modifier
+
+**Hit Points at Higher Levels**: 1d10 (or 6) + your Constitution modifier per fighter level after 1st
+
+```
+def everylevel(npc): npc.hits('d10')
+```
+
+## Proficiencies
+**Armor**: All armor, shields
+
+**Weapons**: Simple weapons, martial weapons
+
+**Tools**: None
+
+**Saving Throws**: Strength, Constitution
+
+**Skills**: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
+
+Equipment
+* (a) chain mail or (b) leather, longbow, and 20 arrows
+* (a) a martial weapon and a shield or (b) two martial weapons
+* (a) a light crossbow and 20 bolts or (b) two handaxes
+* (a) a dungeoneer's pack or (b) an explorer's pack
+
+```
 # Fighting Style
 def archery(npc):
     npc.traits.append("***Fighting Style: Archery.*** You gain a +2 bonus to attack rolls you make with ranged weapons.")
@@ -56,64 +112,7 @@ styles = {
     'Unarmed': unarmedfighting
 }
 
-def everylevel(npc): npc.hits('d10')
 def level1(npc):
-```
-
-Level|Proficiency Bonus|traits
------|-----------------|--------
-1st|+2|[Fighting Style](#fighting-style), [Second Wind](#second-wind)
-2nd|+2|[Action Surge](#action-surge) (x1)
-3rd|+2|[Martial Archetype](#martial-archetype)
-4th|+2|[Ability Score Improvement](#ability-score-improvement)
-5th|+3|[Extra Attack](#extra-attack) (x1)
-6th|+3|[Ability Score Improvement](#ability-score-improvement)
-7th|+3|[Martial Archetype feature](#martial-archetype)
-8th|+3|[Ability Score Improvement](#ability-score-improvement)
-9th|+4|[Indomitable](#indomitable) (x1)
-10th|+4|[Martial Archetype feature](#martial-archetype)
-11th|+4|[Extra Attack](#extra-attack) (x2)
-12th|+4|[Ability Score Improvement](#ability-score-improvement)
-13th|+5|[Indomitable](#indomitable) (x2)
-14th|+5|[Ability Score Improvement](#ability-score-improvement)
-15th|+5|[Martial Archetype feature](#martial-archetype)
-16th|+5|[Ability Score Improvement](#ability-score-improvement)
-17th|+6|[Action Surge](#action-surge) (x2), [Indomitable](#indomitable) (x3)
-18th|+6|[Martial Archetype feature](#martial-archetype)
-19th|+6|[Ability Score Improvement](#ability-score-improvement)
-20th|+6|[Extra Attack](#extra-attack) (x3)
-
-As a fighter, you gain the following class traits.
-
-```
-    npc.description.append("***Class: Fighter.*** Fighters share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. They are well acquainted with death, both meting it out and staring it defiantly in the face.")
-```
-
-## Hit Points
-**Hit Dice**: 1d10 per fighter level
-
-**Hit Points at 1st Level**: 10 + your Constitution modifier
-
-**Hit Points at Higher Levels**: 1d10 (or 6) + your Constitution modifier per fighter level after 1st
-
-## Proficiencies
-**Armor**: All armor, shields
-
-**Weapons**: Simple weapons, martial weapons
-
-**Tools**: None
-
-**Saving Throws**: Strength, Constitution
-
-**Skills**: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
-
-Equipment
-* (a) chain mail or (b) leather, longbow, and 20 arrows
-* (a) a martial weapon and a shield or (b) two martial weapons
-* (a) a light crossbow and 20 bolts or (b) two handaxes
-* (a) a dungeoneer's pack or (b) an explorer's pack
-
-```
     npc.savingthrows.append("STR")
     npc.savingthrows.append("CON")
 
@@ -193,6 +192,7 @@ def level3(npc):
     # Choose subclass
     (_, subclass) = choose("Choose a Martial Archetype:", subclasses)
     npc.subclasses[npc.classmodulefor('Fighter')] = subclass
+    npc.description.append(subclass.description)
 ```
 
 ## Ability Score Improvement

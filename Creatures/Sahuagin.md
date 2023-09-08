@@ -182,10 +182,10 @@ The sahuagin raiders often wear a form of half-plate made from Undersea material
 >
 >***Spellcasting.*** The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following cleric spells prepared:
 >
->* *Cantrips (at will):* guidance, thaumaturgy
->* *1st level (4 slots):* bless, detect magic, guiding bolt
->* *2nd level (3 slots):* hold person, spiritual weapon (trident)
->* *3rd level (3 slots):* mass healing word, tongues
+>* *Cantrips (at will):* [guidance](http://azgaarnoth.tedneward.com/magic/spells/guidance/), [thaumaturgy](http://azgaarnoth.tedneward.com/magic/spells/thaumaturgy/)
+>* *1st level (4 slots):* [bless](http://azgaarnoth.tedneward.com/magic/spells/bless/), [detect magic](http://azgaarnoth.tedneward.com/magic/spells/detect-magic/), [guiding bolt](http://azgaarnoth.tedneward.com/magic/spells/guiding-bolt/)
+>* *2nd level (3 slots):* [hold person](http://azgaarnoth.tedneward.com/magic/spells/hold-person/), [spiritual weapon](http://azgaarnoth.tedneward.com/magic/spells/spiritual-weapon/) (trident)
+>* *3rd level (3 slots):* [mass healing word](http://azgaarnoth.tedneward.com/magic/spells/mass-healing-word/), [tongues](http://azgaarnoth.tedneward.com/magic/spells/tongues/)
 >
 >#### Actions
 >***Multiattack.*** The sahuagin makes two attacks: one with her bite and one with her claws.

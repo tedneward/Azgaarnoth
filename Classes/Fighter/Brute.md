@@ -3,8 +3,7 @@ Brutes are simple warriors who rely on mighty attacks and their own durability t
 
 ```
 name = 'Brute'
-def level3(npc):
-    npc.description.append("***Martial Archetype: Brute.*** Brutes are simple warriors who rely on mighty attacks and their own durability to overcome their enemies. Some brutes combine this physical might with tactical cunning. Others just hit things until those things stop hitting back.")
+description = "***Martial Archetype: Brute.*** Brutes are simple warriors who rely on mighty attacks and their own durability to overcome their enemies. Some brutes combine this physical might with tactical cunning. Others just hit things until those things stop hitting back."
 ```
 
 ## Brute Force
@@ -22,6 +21,7 @@ Fighter Level | Damage Increase
 20th | 1d10
 
 ```
+def level3(npc):
     npc.defer(lambda npc: npc.traits.append(f"***Brute Force.*** Whenever you hit with a weapon that you're proficient with and deal damage, the weapon's damage increases by {'1d4' if npc.levels('Fighter') < 10 else '1d6' if npc.levels('Fighter') < 16 else '1d8' if npc.levels('Fighter') < 20 else '1d10'}."))
 ```
 

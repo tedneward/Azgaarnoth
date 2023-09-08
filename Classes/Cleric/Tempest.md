@@ -1,6 +1,11 @@
 # Divine Domain: Tempest
 This is a domain granted by the [*al'maeran* tradition](../../Religions/AlUma.md#almaeran-cleric),the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Auril](../../Religions/Pantheon/Auril.md), ...
 
+```
+name = 'Tempest'
+description = "***Divine Domain: Tempest.*** "
+```
+
 ## Domain Spells
 Starting at 1st level, you gain domain spells at the cleric levels listed in the Unity Domain Spells table. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
