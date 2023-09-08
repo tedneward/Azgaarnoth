@@ -92,7 +92,9 @@ def level8(npc):
 ```
 
 ## Stormborn
-At 17th level, you have a flying speed equal to your current walking speed whenever you are not underground or indoors.
+*17th-level Tempest Domain feature*
+
+You have a flying speed equal to your current walking speed whenever you are not underground or indoors.
 
 ```
 def level17(npc):
