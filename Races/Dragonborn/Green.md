@@ -8,7 +8,8 @@ You can use your action to exhale destructive poison. It deals damage in a 15' c
 You have resistance to poison.
 
 ```
-name = 'Black'
+name = 'Green'
+description = "***Green Dragonborn.***"
 def level0(npc):
     npc.damageresistances.append("poison")
     npc.defer(lambda npc: npc.actions.append(f"***Breath Weapon ({npc.CONbonus()}/Reharges on a long rest).*** You exhale destructive poison in a 15' cone. All creatures in the area must make a CON saving throw, DC {8 + npc.CONbonus() + npc.proficiencybonus()}. A creature takes {'2d6' if npc.levels() < 6 else '3d6' if npc.levels() < 11 else '4d6' if npc.levels() < 16 else '5d6'} poison damage on a failed save, or half on a successful one."))

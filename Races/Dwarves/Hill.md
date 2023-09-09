@@ -7,6 +7,7 @@ The hill and mountain dwarves are essentially small genetic differences within t
 
 ```
 name = 'Hill'
+description = "***Hill Dwarf.***"
 
 def level0(npc): 
     npc.WIS += 1

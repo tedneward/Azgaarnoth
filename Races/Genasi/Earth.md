@@ -13,9 +13,8 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
 
 ```
 name = 'Earth'
+description = "***Earth Genasi.*** Tracing their ancestry to dao, the genies of the Elemental Plane of Earth, earth genasi inherit dao’s steadfast strength and control over earth."
 def level0(npc):
-    npc.description.append("***Subrace: Earth.*** Tracing their ancestry to dao, the genies of the Elemental Plane of Earth, earth genasi inherit dao’s steadfast strength and control over earth.")
-
     npc.traits.append("***Earth Walk.*** You can move across difficult terrain without expending extra movement if you are using your walking speed on the ground or a floor.")
 
     mergeability = choose("Choose your spellcasting ability for Merge with Stone: ", ['INT', 'WIS', 'CHA'])

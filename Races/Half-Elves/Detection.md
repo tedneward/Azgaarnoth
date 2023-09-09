@@ -42,6 +42,7 @@ The Mark of Detection manifests exclusively on half-elves. If your character has
 
 ```
 name = 'Detection Dragonmarked'
+description = "***Dragonmark: Mark of Warding.*** "***Dragonmarked: Mark of Warding.*** A dragonmark is a distinctive symbol that appears on the skin. Dragonmarks are painted in vivid shades of blue and purple and seem to shimmer or even move slightly. When used, they grow warm to the touch. A dragonmark can’t be removed--even if a limb bearing a dragonmark is cut away, the mark eventually manifests on another part of the bearer’s body. The Mark of Detection is an inquisitor’s dream. It sharpens powers of observation and intuition, allowing the bearer to draw connections and interpret clues others might miss. By actively drawing on its powers, the bearer can detect poisons and study the energies of magic."
 def level0(npc):
     quirk = random([
         "Your dragonmark is unusually small.",
@@ -54,7 +55,7 @@ def level0(npc):
         "Your dragonmark tickles when you use it.",
         "Your dragonmark is an unusual color but a normal shape."
     ])
-    npc.description.append(f"***Dragonmarked: Mark of Deception.*** A dragonmark is a distinctive symbol that appears on the skin. Dragonmarks are painted in vivid shades of blue and purple and seem to shimmer or even move slightly. When used, they grow warm to the touch. A dragonmark can’t be removed--even if a limb bearing a dragonmark is cut away, the mark eventually manifests on another part of the bearer’s body. {quirk}")
+    npc.description.append(f"***Dragonmark Quirk.*** {quirk}")
 
     npc.INT += 1
     npc.CHA += 1

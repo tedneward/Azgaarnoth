@@ -5,9 +5,8 @@ One of your parents was a [Dark Elf](../Elves/Dark.md).
 
 ```
 name = 'Dark'
+description = "***Elvish Heritage: Dark Elf.*** One of your parents was a Dark Elf."
 def level0(npc):
-  npc.description.append("***Elvish Heritage: Dark Elf.*** One of your parents was a Dark Elf.")
-
   npc.cantripsknown.append('dancing lights')
 
 def level3(npc):

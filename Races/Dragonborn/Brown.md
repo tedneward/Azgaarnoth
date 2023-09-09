@@ -9,6 +9,7 @@ You have resistance to force.
 
 ```
 name = 'Brown'
+description = "***Brown Dragonborn.***"
 def level0(npc):
     npc.damageresistances.append("force")
     npc.defer(lambda npc: npc.actions.append(f"***Breath Weapon ({npc.CONbonus()}/Reharges on a long rest).*** You exhale destructive sand in a 15' cone. All creatures in the area must make a DEX saving throw, DC {8 + npc.CONbonus() + npc.proficiencybonus()}. A creature takes {'2d6' if npc.levels() < 6 else '3d6' if npc.levels() < 11 else '4d6' if npc.levels() < 16 else '5d6'} force damanage on a failed save, or half on a successful one."))

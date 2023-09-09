@@ -21,9 +21,8 @@ Whether *maerach* have cities in the Undersea is a hotly-debated topic among the
 
 ```
 name = 'Sea'
+description = "***Subrace: Sea Elf.*** *Maerach* look strikingly similar to elves, aside from a small set of gills set just below their ears, which long hair (worn loosely) can usually hide."
 def level0(npc):
-    npc.description.append("***Subrace: Sea Elf.*** *Maerach* look strikingly similar to elves, aside from a small set of gills set just below their ears, which long hair (worn loosely) can usually hide.")
-
     npc.CON += 1
 
     npc.proficiencies.append("Spear")

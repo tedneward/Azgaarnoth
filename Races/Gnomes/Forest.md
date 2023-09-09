@@ -3,4 +3,5 @@ Forest gnome villages are found in almost every wooded area on Azgaarnoth--if yo
 
 ```
 name = 'Forest'
+description = "***Forest Gnome.***"
 ```

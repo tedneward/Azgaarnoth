@@ -9,9 +9,8 @@ One of your parents was a [Bright Elf](../Elves/Bright.md).
 
 ```
 name = 'Bright'
+description = "***Elvish Heritage: Bright Elf.*** One of your parents was a Bright Elf."
 def level0(npc):
-    npc.description.append("***Elvish Heritage: Bright Elf.*** One of your parents was a Bright Elf.")
-
     asi = choose("Choose an ability score increase:", ['STR', 'CON', 'INT', 'WIS', 'CHA'])
 
     if asi == 'STR': npc.STR += 1
