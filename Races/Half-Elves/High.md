@@ -9,7 +9,7 @@ High elves and wood elves are, by this point in Azgaarnoth's history, fairly wel
 name = 'High'
 description = "***Elvish Heritage: High Elf.*** One of your parents was a High Elf."
 def level0(npc):
-  npc.traits.append("***Cantrip.*** You know one cantrip of your choice from the Wizard spell list. Intelligence is your spellcasting ability for it.")
+  npc.newspellcasting('High Elf', 'INT').cantripsknown.append('CHOOSE-Wizard')
 
   npc.proficiencies.append("Longsword")
   npc.proficiencies.append("Shortsword")

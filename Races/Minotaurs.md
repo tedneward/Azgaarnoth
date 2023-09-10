@@ -4,6 +4,7 @@ Minotaurs found in [Yithi](../Nations/Yithi.md) and (less often) [Zhi](../Nation
 
 ```
 name = 'Minotaur'
+description = "***Race: Minotaur.*** "
 type = 'humanoid'
 ```
 

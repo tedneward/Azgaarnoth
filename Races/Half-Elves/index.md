@@ -5,6 +5,7 @@ Half-Elves....
 
 ```
 name = 'Half-Elf'
+description = "***Race: Half-Elf.*** "
 type = 'humanoid'
 ```
 
@@ -34,7 +35,7 @@ type = 'humanoid'
   * [Dark Elf](Dark.md)
   * [Wild Elf](Wild.md)
   * [Shadow Elf](Shadow.md)
-  * **Sea Elf.** Your elvish parent came from Sea Elf (*maerach*) stock. You have a swimming speed of 30 feet.
+  * [Sea Elf](Sea.md) Your elvish parent came from Sea Elf (*maerach*) stock. You have a swimming speed of 30 feet.
 
   You may also be Dragonmarked:
 

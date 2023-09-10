@@ -2,6 +2,7 @@
 
 ```
 name = 'Hobgoblin'
+description = "***Race: Hobgoblin.*** "
 type = 'humanoid'
 ```
 
@@ -42,6 +43,4 @@ def level0(npc):
 
     npc.languages.append('Common')
     npc.languages.append('Goblin')
-
-    npc.description.append('***Race: Hobgoblin.***')
 ```

@@ -22,10 +22,9 @@
 
 ```
 name = 'Tabaxi'
+description = "***Race: Tabaxi.*** Meow."
 type = 'humanoid'
 def level0(npc):
-    npc.description.append("***Race: Tabaxi.*** Meow.")
-
     npc.DEX += 2
     npc.CHA += 1
 

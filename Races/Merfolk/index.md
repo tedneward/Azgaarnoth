@@ -13,10 +13,9 @@ Merfolk are associated with knowledge, logic, and strategy, though the tradition
 
 ```
 name = 'Merfolk'
+description = "***Race: Merfolk.*** Merfolk are an amphibious race, born and at home in the water but comfortable on dry land. Humanoid in form, they have skin of ivory, silver, russet, blue, or deep purple. Long fins extend from the backs of their forearms and calves, and their fingers and toes are webbed. The hairlike growths on their heads are either thick and bristly like the needles of a sea urchin, or long and wavy, resembling fine seaweed. In either case, these growths typically range in color from red to warm brown to black. Male merfolk have similar growths extending down from their cheekbones."
 type = 'humanoid'
 def level0(npc):
-    npc.description.append("***Race: Merfolk.*** Merfolk are an amphibious race, born and at home in the water but comfortable on dry land. Humanoid in form, they have skin of ivory, silver, russet, blue, or deep purple. Long fins extend from the backs of their forearms and calves, and their fingers and toes are webbed. The hairlike growths on their heads are either thick and bristly like the needles of a sea urchin, or long and wavy, resembling fine seaweed. In either case, these growths typically range in color from red to warm brown to black. Male merfolk have similar growths extending down from their cheekbones.")
-
     npc.CHA += 1
 
     npc.size = 'Medium'

@@ -20,7 +20,7 @@ def level0(npc):
     elif asi == 'CHA': npc.CHA += 1
 
     cantrip = choose("Choose a cantrip:", ['light', 'dancing lights', 'thaumaturgy'])
-    npc.cantripsknown.append(cantrip)
+    npc.newspellcasting('Half-Elf', 'CHA').cantripsknown.append(cantrip)
 
     npc.traits.append("***Brightfolk.*** You have advantage on saving throws to resist being blinded by effects that deal radiant damage or create light.")
     npc.damageresistances.append('radiant')

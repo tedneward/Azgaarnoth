@@ -16,6 +16,7 @@ The Mark of Passage only manifests on humans. If your character has the Mark of 
 
 ```
 name = 'Passage Dragonmark'
+description = "***Dragonmark: Mark of Passage.*** A dragonmark is a distinctive symbol that appears on the skin. Dragonmarks are painted in vivid shades of blue and purple and seem to shimmer or even move slightly. When used, they grow warm to the touch. A dragonmark can’t be removed--even if a limb bearing a dragonmark is cut away, the mark eventually manifests on another part of the bearer’s body. The Mark of Passage governs motion, allowing its bearer to move with uncanny speed and precision. Running, leaping, climbing--the Mark of Passage enhances every form of movement. The bearer of the mark can even slip through space, leaping from point to point in the blink of an eye."
 
 def level0(npc):
     npc.DEX += 2
@@ -28,4 +29,17 @@ def level0(npc):
     npc.traits.append("***Orien's Grace.*** During your turn, you can spend an amount of movement equal to half your speed to activate this trait. Once you activate Orien's Grace, you don't provoke opportunity attacks for the rest of the turn.")
 
     npc.bonusactions.append("***Shared Passage (Recharges on long rest).*** You can teleport up to your speed to an unoccupied space that you can see. You can bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you.")
+
+    quirk = random([
+        "Your dragonmark is unusually small.",
+        "Your dragonmark is remarkably large.",
+        "Your dragonmark slowly moves around your body.",
+        "Your dragonmark glows dramatically when you use it.",
+        "Your dargonmark emits a soft hum when you use it.",
+        "Your dragonmark itches when you’re near someone with a dragonmark.",
+        "Your dragonmark tingles when you’re near someone with the same mark.",
+        "Your dragonmark tickles when you use it.",
+        "Your dragonmark is an unusual color but a normal shape."
+    ])
+    npc.description.append(f"***Dragonmark Quirk.*** {quirk}")
 ```

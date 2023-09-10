@@ -7,9 +7,8 @@ The great city of Dis occupies most of Hell's second layer. It is a place where 
 
 ```
 name = 'Dispater'
+description = "***Tiefling Bloodline of Dispater.*** The great city of Dis occupies most of Hell's second layer. It is a place where secrets are uncovered and shared with the highest bidder, making tieflings tied to Dispater excellent spies and infiltrators."
 def level0(npc):
-    npc.description.append("***Tiefling Bloodline of Dispater.*** The great city of Dis occupies most of Hell's second layer. It is a place where secrets are uncovered and shared with the highest bidder, making tieflings tied to Dispater excellent spies and infiltrators.")
-
     npc.DEX += 1
 
     npc.cantripsknown.append('thaumaturgy')

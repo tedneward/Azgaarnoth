@@ -24,16 +24,16 @@
 
 ```
 name = 'Tortle'
+description = "***Race: Tortle.*** "
+type = 'humanoid'
 def level0(npc):
-    npc.description.append("***Race: Tortle.***")
-
     npc.STR += 2
     npc.WIS += 1
 
     npc.size = 'Medium'
     npc.speed['walking'] = 30
 
-    npc.actions.append("***Claws.*** ")
+    npc.actions.append("***Claws.*** TODO")
 
     npc.traits.append("***Hold Breath.*** You can hold your breath for up to 1 hour at a time. Tortles aren't natural swimmers, but they can remain underwater for some time before needing to come up for air.")
 

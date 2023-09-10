@@ -3,6 +3,8 @@ Half-dragons are begotten from the union of a polymorphed chromatic dragon and s
 
 ```
 name = 'Half-Dragon'
+description = "***Race: Half-Dragon.*** "
+type = 'humanoid'
 ```
 
 No record of any half-dragon of metallic dragon parentage have ever been found. Half-dragons are often found in close company of members of the [Cult of the Wyrm](../Organizations/CultOfTheWyrm.md), who consider them blessed and semi-divine. There are other methods of creating half-dragons, most of them magical, some of them profane, and all of them known to the [Cult of the Wyrm](../Organizations/CultOfTheWyrm.md).
@@ -12,13 +14,10 @@ As a half-dragon, you look like your draconic parent. You take on the appearance
 > Player Note: The first thing to consider about playing a Half-Dragon is "how am I a half-dragon"? Perhaps you were begotten by the union of a red dragon and a human. Perhaps you were cursed by a powerful wizard or deity for some act of hypocrisy. Perhaps you pledged yourself in service to a particular dragon and undertook a ritual to change yourself physically to emulate them. Often this will have some sort of connection to the [Cult of the Wyrm](../Organizations/CultOfTheWyrm.md) if it is not a story of tragic love or cruel abandonment. Once that is decided, decide the race of your other parent. The most common races are human, elf, and half-elf, though the others are not impossible, including dragonborn or other Created. 
 > Then decide your relationship with your parents. Did your draconic mother take you in and raise you as her own? Were you considered an abomination at birth and disowned? Is your draconic father a tyrant who expects you to follow his every command? Did your white dragon mother fall under the sway of love (or perhaps obedience) to a powerful human and feel maternal towards you, offering guidance and assistance? Take into account the dragon's type when determining this. Black dragons tend to be cruel, while a red dragon is simply too prideful to accept you would do anything but his will. Consider how many children your dragon parent has. What is your relationship with your half-siblings? Are they your rivals, or are they your companions and close friends?
 
-```
-def level0(npc):
-    npc.description.append("***Race: Half-Dragon.*** ")
-```
 * **Ability Score Increase.** Your Strength, Constitution, and Charisma scores each increase by 1.
 
 ```
+def level0(npc):
     npc.STR += 1
     npc.CON += 1
     npc.CHA += 1
