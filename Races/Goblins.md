@@ -22,6 +22,8 @@
 
 ```
 name = 'Goblin'
+description = "***Race: Goblin.***"
+type = 'humanoid'
 def level0(npc):
     npc.DEX += 2
     npc.CON += 1

@@ -19,9 +19,8 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
 
 ```
 name = 'Water'
+description = "***Water Genasi.*** Water genasi descend from marids, aquatic genies from the Elemental Plane of Water. Water genasi are perfectly suited to life underwater and carry the power of the waves inside themselves."
 def level0(npc):
-    npc.description.append("***Subrace: Water.*** Water genasi descend from marids, aquatic genies from the Elemental Plane of Water. Water genasi are perfectly suited to life underwater and carry the power of the waves inside themselves.")
-
     npc.damageresistances.append('acid')
 
     npc.newspellcasting('Genasi', choose("Choose a spellcasting ability: ", ['INT', 'WIS', 'CHA'])).cantripsknown.append('acid splash')

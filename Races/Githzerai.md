@@ -5,6 +5,7 @@ For whatever reason, both [githyanki](../Creatures/Githyanki.md) and [githzerai]
 
 ```
 name = 'Githzerai'
+description = "***Race: Githzerai.*** Githzerai were elves captured by mind flayers. Tortured and experimented on by the illithids, the githzerai later rebelled and won their freedom. These tall, gaunt folk have potent psionic powers and dwell, for the most part, on the Astral Plane."
 type = 'humanoid'
 ```
 
@@ -31,8 +32,6 @@ type = 'humanoid'
 
 ```
 def level0(npc):
-    npc.description.append("***Race: Githzerai.*** Githzerai were elves captured by mind flayers. Tortured and experimented on by the illithids, the githzerai later rebelled and won their freedom. These tall, gaunt folk have potent psionic powers and dwell, for the most part, on the Astral Plane.")
-
     npc.WIS += 2
     npc.INT += 1
     

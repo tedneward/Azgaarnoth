@@ -3,6 +3,7 @@ A halfling with the Mark of Healing can save a life with a touch, restoring vita
 
 ```
 name = 'Healing Dragonmarked'
+description = "***Dragonmark: Mark of Healing.*** A dragonmark is a distinctive symbol that appears on the skin. Dragonmarks are painted in vivid shades of blue and purple and seem to shimmer or even move slightly. When used, they grow warm to the touch. A dragonmark can’t be removed--even if a limb bearing a dragonmark is cut away, the mark eventually manifests on another part of the bearer’s body. A halfling with the Mark of Healing can save a life with a touch, restoring vitality and the will to live. When dealing with mundane medicine, the mark helps its bearer sense the nature of maladies and afflictions and find the best solution. When enhanced by dragonshard focus items, the mark can even draw the dead back to life."
 ```
 
 ### Traits

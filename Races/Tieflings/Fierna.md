@@ -7,17 +7,18 @@ A master manipulator, Fierna grants tieftings tied to her forceful personalities
 
 ```
 name = 'Fierna'
+description = "***Tiefling Bloodline of Fierna.*** A master manipulator, Fierna grants tieftings tied to her forceful personalities."
 def level0(npc):
-    npc.description.append("***Tiefling Bloodline of Fierna.*** A master manipulator, Fierna grants tieftings tied to her forceful personalities.")
-
     npc.WIS += 1
 
-    npc.cantripsknown.append('friends')
+    npc.newspellcasting("Tiefling", 'CHA').cantripsknown.append('friends')
 
 def level3(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Infernal Legacy (Recharges on long rest).*** You can cast " + spelllinkify('charm person') + "as a 2nd-level spell. (Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()})"))
+    npc.spellcasting("Tiefling").spells[1].append('charm person')
+    npc.spellcasting("Tiefling").slots = [1]
 
 def level5(npc):
-    npc.defer(lambda npc: replace("***Infernal Legacy", npc.actions, f" (Recharges on long rest).*** You can cast {spelllinkify('charm person')} as a 2nd-level spell or {spelllinkify('suggestion')}. (Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()})"))
+    npc.spellcasting("Tiefling").spells[2].append('suggestion')
+    npc.spellcasting("Tiefling").slots = [1,1]
 ```
 

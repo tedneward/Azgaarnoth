@@ -23,9 +23,8 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
 
 ```
 name = 'Air'
+description = "***Air Genasi.*** Air genasi resemble djinn, the genies of the Elemental Plane of Air. Embodying many of the airy traits of their otherworldly ancestors, air genasi can draw upon their connection to the winds."
 def level0(npc):
-    npc.description.append("***Subrace: Air.*** Air genasi resemble djinn, the genies of the Elemental Plane of Air. Embodying many of the airy traits of their otherworldly ancestors, air genasi can draw upon their connection to the winds.")
-
     npc.speed['walking'] = 35
 
     npc.traits.append("***Unending Breath.*** You can hold your breath indefinitely while you’re not incapacitated.")

@@ -3,6 +3,7 @@ The Mark of Finding sharpens the senses of those who carry it, guiding the hunte
 
 ```
 name = 'Finding Dragonmarked'
+description = "***Dragonmark: Mark of Finding.*** A dragonmark is a distinctive symbol that appears on the skin. Dragonmarks are painted in vivid shades of blue and purple and seem to shimmer or even move slightly. When used, they grow warm to the touch. A dragonmark can’t be removed--even if a limb bearing a dragonmark is cut away, the mark eventually manifests on another part of the bearer’s body. The Mark of Finding sharpens the senses of those who carry it, guiding the hunter to their prey."
 ```
 
 ### Traits
@@ -10,12 +11,25 @@ The Mark of Finding only manifests on half-orcs. If your character has the Mark 
 
 ```
 def level0(npc):
+    quirk = random([
+        "Your dragonmark is unusually small.",
+        "Your dragonmark is remarkably large.",
+        "Your dragonmark slowly moves around your body.",
+        "Your dragonmark glows dramatically when you use it.",
+        "Your dargonmark emits a soft hum when you use it.",
+        "Your dragonmark itches when you’re near someone with a dragonmark.",
+        "Your dragonmark tingles when you’re near someone with the same mark.",
+        "Your dragonmark tickles when you use it.",
+        "Your dragonmark is an unusual color but a normal shape."
+    ])
+    npc.description.append(f"***Dragonmark Quirk.*** {quirk}")
 ```
 
 * **Ability Score Increase**. Your Strength and Wisdom scores both increase by 1. In addition, one ability score of your choice increases by 1.
 
 ```
     npc.STR += 1
+    npc.WIS += 1
     npc.abilityscoreimprovement()
 ```
 

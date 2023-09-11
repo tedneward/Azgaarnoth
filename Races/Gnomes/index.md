@@ -5,6 +5,7 @@ Gnomes may be [dragonmarked](Dragonmarked.md) with the Mark of Scribing; see tha
 ```
 name = 'Gnome'
 type = 'humanoid'
+description = "***Race: Gnome.***"
 ```
 
 **Ability Score Increase.** Your Intelligence score increases by 2.

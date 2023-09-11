@@ -3,6 +3,7 @@ See [*Dwarves*](../Creatures/Dwarves.md) for more details.
 
 ```
 name = 'Dwarf'
+description = "***Race: Dwarf.***"
 type = 'humanoid'
 ```
 

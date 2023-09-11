@@ -12,6 +12,7 @@ The Mark of Handling only manifests on humans. If your character has the Mark of
 
 ```
 name = 'Handling Dragonmark'
+description = "***Dragonmark: Mark of Handling.*** A dragonmark is a distinctive symbol that appears on the skin. Dragonmarks are painted in vivid shades of blue and purple and seem to shimmer or even move slightly. When used, they grow warm to the touch. A dragonmark can’t be removed--even if a limb bearing a dragonmark is cut away, the mark eventually manifests on another part of the bearer’s body. The Mark of Handling gives its bearer a primal connection to beasts and the natural world, granting the power to calm and coax. This extends beyond purely natural animals; the mark allows its bearer to guide a hippogriff as easily as a horse."
 
 def level0(npc):
     npc.DEX += 1
@@ -25,4 +26,17 @@ def level0(npc):
     npc.actions.append(f"***Primal Connection.*** You can cast spelllinkify('animal friendship') once with this trait. Wisdom is your spellcasting ability for this.")
 
     npc.traits.append("***The Bigger They Are.*** When you cast a spell that affects only beasts, it also affects monstrosities with an Intelligence score of 3 or lower.")
+
+    quirk = random([
+        "Your dragonmark is unusually small.",
+        "Your dragonmark is remarkably large.",
+        "Your dragonmark slowly moves around your body.",
+        "Your dragonmark glows dramatically when you use it.",
+        "Your dargonmark emits a soft hum when you use it.",
+        "Your dragonmark itches when you’re near someone with a dragonmark.",
+        "Your dragonmark tingles when you’re near someone with the same mark.",
+        "Your dragonmark tickles when you use it.",
+        "Your dragonmark is an unusual color but a normal shape."
+    ])
+    npc.description.append(f"***Dragonmark Quirk.*** {quirk}")
 ```

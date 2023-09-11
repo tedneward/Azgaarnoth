@@ -24,9 +24,8 @@ Some *eladrin* remain associated with a particular season for their entire lives
 
 ```
 name = 'Fey'
+description = "***Fey Elves.*** The *eladrin* are elves native to the Feywild, a realm of beauty, unpredictable emotion, and boundless magic. They are most often found in the wilds of [North Bedia](http://azgaarnoth.tedneward.com/Nations/Bedia.md), or on any of the scattered islands around Azgaarnoth. Intriguingly, they are also commonly found in the lands of the [Hordes](http://azgaarnoth.tedneward.com/Races/index.md#hordes), without being forced into extensive combat against their neighbors."
 def level0(npc):
-  npc.description.append("***Subrace: Fey Elves.*** The *eladrin* are elves native to the Feywild, a realm of beauty, unpredictable emotion, and boundless magic. They are most often found in the wilds of [North Bedia](http://azgaarnoth.tedneward.com/Nations/Bedia.md), or on any of the scattered islands around Azgaarnoth. Intriguingly, they are also commonly found in the lands of the [Hordes](http://azgaarnoth.tedneward.com/Races/index.md#hordes), without being forced into extensive combat against their neighbors.")
-
   season = choose("Choose the season association:", ['Autumn', 'Winter', 'Spring', 'Summer'])
   if season == 'Autumn':
     npc.description.append("***Fey Elf Season: Autumn.*** Autumn is the season of peace and goodwill, when summer's harvest is shared with all. Their skin takes on a darker-brownish hue, and their hair tends to take on more of a darker orange or even brown.")

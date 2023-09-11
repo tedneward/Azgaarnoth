@@ -7,7 +7,7 @@ No merfolk will openly admit to following the creed of the trickster, but those 
 
 ```
 name = 'Cosi'
-
+description = "***Cosi Merfolk.*** No merfolk will openly admit to following the creed of the trickster, but those who do view Cosi as an ally who can grant them control over the chaotic forces of the world."
 def level0(npc):
     npc.CHA += 1
     npc.INT += 1

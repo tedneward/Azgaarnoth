@@ -3,4 +3,5 @@
 
 ```
 name = 'Deep'
+description = "***Deep Gnome.***"
 ```

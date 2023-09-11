@@ -11,6 +11,7 @@ One of your parents was a Fey Elf. When you create this character, choose the se
 
 ```
 name = 'Fey'
+description = "***Elvish Heritage: Fey Elf.*** One of your parents was a Fey Elf."
 def level0(npc):
   season = choose("Choose the season:", ['Autumn', 'Winter', 'Spring', 'Summer'])
   if season == 'Autumn':

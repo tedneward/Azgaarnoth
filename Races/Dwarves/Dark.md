@@ -19,6 +19,7 @@ Most of the *duergar* encountered tend to be bitter and resentful, angry at the 
 
 ```
 name = 'Duergar'
+description = "***Dark Dwarf (duergar).***"
 def level0(npc): 
     npc.STR += 1
     npc.senses['darkvision'] = '120 ft'

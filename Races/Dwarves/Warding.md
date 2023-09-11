@@ -40,6 +40,7 @@ The Mark of Warding manifests exclusively on dwarves. If your character has the 
 
 ```
 name = 'Warding Dragonmarked'
+description = "***Dragonmark: Mark of Warding.*** A dragonmark is a distinctive symbol that appears on the skin. Dragonmarks are painted in vivid shades of blue and purple and seem to shimmer or even move slightly. When used, they grow warm to the touch. A dragonmark can’t be removed--even if a limb bearing a dragonmark is cut away, the mark eventually manifests on another part of the bearer’s body. The Mark of Warding helps its bearers protect things of value. Using the mark, a dwarf can weave wards and seal portals with mystic force. It also provides its bearer with an intuitive understanding of locks and mechanisms used to protect and seal. The decision each heir has to make is whether they’ll use this power to keep things safe, or whether they’re more interested in opening locks and taking what’s inside."
 def level0(npc):
     npc.DEX += 1
     npc.INT += 1
@@ -59,6 +60,5 @@ def level0(npc):
         "Your dragonmark tickles when you use it.",
         "Your dragonmark is an unusual color but a normal shape."
     ])
-
-    npc.description.append(f"***Dragonmarked: Mark of Warding.*** A dragonmark is a distinctive symbol that appears on the skin. Dragonmarks are painted in vivid shades of blue and purple and seem to shimmer or even move slightly. When used, they grow warm to the touch. A dragonmark can’t be removed--even if a limb bearing a dragonmark is cut away, the mark eventually manifests on another part of the bearer’s body. {quirk}")
+    npc.description.append(f"***Dragonmark Quirk.*** {quirk}")
 ```

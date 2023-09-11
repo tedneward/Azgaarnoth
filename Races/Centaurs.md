@@ -2,6 +2,7 @@
 
 ```
 name = 'Centaur'
+description = "***Race: Centaur.***"
 type = 'monstrosity'
 ```
 

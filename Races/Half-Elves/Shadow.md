@@ -7,9 +7,8 @@ One of your parents was a Shadow Elf.
 
 ```
 name = 'Shadow'
+description = "***Elvish Heritage: Shadow Elf.*** One of your parents was a Shadow Elf."
 def level0(npc):
-  npc.description.append("***Elvish Heritage: Shadow Elf.*** One of your parents was a Shadow Elf.")
-
   npc.damageresistances.append('necrotic')
 
   npc.bonusactions.append("***Blessing of the Raven Queen (Recharges on long rest).*** You can magically teleport up to 30 feet to an unoccupied space you can see.")

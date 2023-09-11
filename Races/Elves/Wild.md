@@ -19,9 +19,8 @@ If anyone is fool enough to disturb a *grugach* realm, these elves take to arms 
 
 ```
 name = 'Wild'
+description = "***Subrace: Wild Elf.*** The *grugach* are those elves that sought to escape the world into the wilds. *Grugach* look almost identical to any other elves, and so will generally not raise an eyebrow when seen on the street or on board a ship. Other elves will note the subtle differences that mark the *grugach*, however, particularly after some close contact."
 def level0(npc):
-  npc.description.append("***Subrace: Wild Elf.*** The *grugach* are those elves that sought to escape the world into the wilds. *Grugach* look almost identical to any other elves, and so will generally not raise an eyebrow when seen on the street or on board a ship. Other elves will note the subtle differences that mark the *grugach*, however, particularly after some close contact.")
-
   npc.STR += 1
 
   npc.proficiencies.append("Spear")

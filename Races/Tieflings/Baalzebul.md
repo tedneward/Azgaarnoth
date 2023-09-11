@@ -8,9 +8,8 @@ The crumbling realm of Maladomini is ruled by Baalzebul, who excels at corruptin
 
 ```
 name = 'Baalzebul'
+description = "***Tiefling Bloodline of Baalzebul.*** The crumbling realm of Maladomini is ruled by Baalzebul, who excels at corrupting those whose minor sins can be transformed into acts of damnation. Tieflings linked to this archdevil can corrupt others both physically and psychically."
 def level0(npc):
-    npc.description.append("***Tiefling Bloodline of Baalzebul.*** The crumbling realm of Maladomini is ruled by Baalzebul, who excels at corrupting those whose minor sins can be transformed into acts of damnation. Tieflings linked to this archdevil can corrupt others both physically and psychically.")
-
     npc.INT += 1
 
     npc.cantripsknown.append("thaumaturgy")

@@ -5,6 +5,7 @@ Sirens are humanoid creatures with birdlike features. Their long, slender arms e
 
 ```
 name = 'Siren'
+description = "***Race: Siren.*** "
 type = 'humanoid'
 ```
 
@@ -26,7 +27,7 @@ def level0(npc):
     npc.size = 'Medium'
     npc.speed['walking'] = 25
     npc.speed['flying'] = 30
-    npc.cantripsknown.append('friends')
+    npc.newspellcasting("Siren", 'CHA').cantripsknown.append('friends')
     npc.languages.append('Common')
     npc.languages.append('Siren')
     npc.languages.append('Aquan')

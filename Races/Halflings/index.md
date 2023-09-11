@@ -16,6 +16,7 @@ Some halflings have independently shown characteristics of these two subraces of
 
 ```
 name = 'Halfling'
+description = "***Race: Halfling.*** Halflings...."
 def level0(npc):
     npc.DEX += 2
 

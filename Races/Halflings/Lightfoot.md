@@ -3,6 +3,7 @@ The Lightfoot family is an wide-sprawling family tree of halflings who were some
 
 ```
 name = 'Lightfoot'
+description = "***Lightfoot Halfling.***"
 ```
 
 **Ability Score Increase.** Your Charisma score increases by 1.

@@ -7,9 +7,8 @@ The tieflings connected to Nessus command the power of fire and darkness, guided
 
 ```
 name = 'Asmodeus'
+description = "***Bloodline of Asmodeus.*** The tieflings connected to Nessus command the power of fire and darkness, guided by a keener than normal intellect, as befits those linked to Asmodeus himself."
 def level0(npc):
-    npc.description.append("**Bloodline of Asmodeus.** The tieflings connected to Nessus command the power of fire and darkness, guided by a keener than normal intellect, as befits those linked to Asmodeus himself.")
-
     npc.INT += 1
     npc.cantripsknown.append('thaumaturgy')
 

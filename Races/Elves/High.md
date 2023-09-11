@@ -11,9 +11,8 @@ High elves and wood elves are, by this point in Azgaarnoth's history, fairly wel
 
 ```
 name = 'High'
+description = "***High Elf.*** High elves and wood elves are, by this point in Azgaarnoth's history, fairly well intermixed and are found in most locations all across Azgaarnoth; at this point in their evolution, no non-elf can tell the difference between them."
 def level0(npc):
-  npc.description.append("***Subrace: High Elf.*** High elves and wood elves are, by this point in Azgaarnoth's history, fairly well intermixed and are found in most locations all across Azgaarnoth; at this point in their evolution, no non-elf can tell the difference between them.")
-
   npc.INT += 1
 
   npc.newspellcasting('High Elf', 'INT').cantripsknown.append("CHOOSE-Wizard")

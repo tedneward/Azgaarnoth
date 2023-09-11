@@ -43,6 +43,7 @@ d8 | Origins
 
 ```
 name = 'Reborn'
+description = "***Race: Reborn.*** Some reborn exhibit the scars of fatal ends, their ashen flesh or bloodless veins making it clear that they've been touched by death. Some others appear identical to those of other races, their scars borne entirely on the mind rather than on the flesh. Whatever their origins, reborn know a new life and seek experiences and answers all their own."
 ```
 
 * **Type.** Humanoid, Undead
@@ -55,8 +56,6 @@ type = 'humanoid/undead'
 
 ```
 def level0(npc):
-    npc.description.append("***Race: Reborn.*** Some reborn exhibit the scars of fatal ends, their ashen flesh or bloodless veins making it clear that they've been touched by death. Some others appear identical to those of other races, their scars borne entirely on the mind rather than on the flesh. Whatever their origins, reborn know a new life and seek experiences and answers all their own.")
-
     npc.abilityscoreimprovement()
     npc.abilityscoreimprovement()
     npc.abilityscoreimprovement()

@@ -3,13 +3,13 @@ An aasimar who was touched by dark powers as a youth or who turns to evil in ear
 
 ```
 name = 'Fallen'
-def level0(npc):
-    npc.description.append("***Fallen Aasimar.*** An aasimar who was touched by dark powers as a youth or who turns to evil in early adulthood can become one of the fallen -- a group of aasimar whose inner light has been replaced by shadow.")
+description = "***Fallen Aasimar.*** An aasimar who was touched by dark powers as a youth or who turns to evil in early adulthood can become one of the fallen -- a group of aasimar whose inner light has been replaced by shadow."
 ```
 
 * **Ability Score Increase**. Your Strength score increases by 1.
 
 ```
+def level0(npc):
     npc.STR += 1
 ```
 

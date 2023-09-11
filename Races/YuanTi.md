@@ -2,15 +2,14 @@
 
 ```
 name = 'Yuan-Ti'
+description = "***Race: Yuan-Ti.*** You're a cold-blooded snake..."
 type = 'humanoid'
-
-def level0(npc):
-    npc.description.append("***Race: Yuan-Ti.*** You're a cold-blooded snake...")
 ```
 
 * **Ability Score Increase**. Your Charisma score increases by 2, and your Intelligence score increases by 1.
 
 ```
+def level0(npc):
     npc.CHA += 2
     npc.INT += 1
 ```

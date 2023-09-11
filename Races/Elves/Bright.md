@@ -3,6 +3,11 @@ The bright elves are one of the oldest subraces of elves. Due to their long year
 
 As a bright elf, your body and soul are infused with light. A bright elf's skin is bronze, silvery, pearly, or pale white, and their hair is golden blond, platinum blond, or silvery white. Their eyes are usually golden or silvery gray, with streaks of white radiating from their pupils like a starburst.
 
+```
+name = 'Bright'
+description = "***Bright Elf.*** As a bright elf, your body and soul are infused with light. A bright elf's skin is bronze, silvery, pearly, or pale white, and their hair is golden blond, platinum blond, or silvery white. Their eyes are usually golden or silvery gray, with streaks of white radiating from their pupils like a starburst."
+```
+
 * **Ability Score Increase.** One ability score of your choice other than Dexterity increases by 1.
 
 * **Ancient Magic.** Choose one of the following cantrips: [light](), [dancing lights](), or [thaumaturgy](). You know that cantrip, and Charisma is your spellcasting ability for it.
@@ -15,7 +20,6 @@ As a bright elf, your body and soul are infused with light. A bright elf's skin 
 name = 'Bright'
 def level0(npc):
     npc.type += "/celestial"
-    npc.description.append("***Subrace: Bright Elf.*** As a bright elf, your body and soul are infused with light. A bright elf's skin is bronze, silvery, pearly, or pale white, and their hair is golden blond, platinum blond, or silvery white. Their eyes are usually golden or silvery gray, with streaks of white radiating from their pupils like a starburst.")
 
     asi = choose("Choose an ability score increase:", ['STR', 'CON', 'INT', 'WIS', 'CHA'])
     match asi:

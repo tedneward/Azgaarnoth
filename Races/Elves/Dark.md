@@ -3,6 +3,11 @@ Elvish scholars speak of an ancient schism amongst the Eldar--and some insist th
 
 Most *drow* seem to hail from the Daw Mountains near the only active volcano in Azgaarnoth, Mt Bezulb.
 
+```
+name = 'Dark'
+description = "***Subrace: Dark Elf.*** Elvish scholars speak of an ancient schism amongst the Eldar--and some insist that this was the start of the Fall--that prompted an offshoot of the Eldar to take refuge underground. Rumors hold that these dark elves, the *drow*, are the reason (somehow) Mt Bezulb continues to erupt consistently. Note that despite numerous claims to the contrary, *drow* and *shadar-kai* are not the same race, and in fact they seem to have an inborn implacable hatred of one another that defies explanation."
+```
+
 * **Ability Score Increase**. Your Charisma score increases by 1.
 
 * ***Drow* Magic**. You know the [dancing lights](https://www.dndbeyond.com/spells/dancing-lights) cantrip. When you reach 3rd level, you can cast Faerie Fire once, and it recharges after a long rest. When you reach 5th level, you can cast Darkness once, and it recharges after a long rest. Charisma is your spellcasting ability for these spells.
@@ -16,8 +21,6 @@ Most *drow* seem to hail from the Daw Mountains near the only active volcano in 
 ```
 name = 'Dark'
 def level0(npc):
-  npc.description.append("***Subrace: Dark Elf.*** Elvish scholars speak of an ancient schism amongst the Eldar--and some insist that this was the start of the Fall--that prompted an offshoot of the Eldar to take refuge underground. Rumors hold that these dark elves, the *drow*, are the reason (somehow) Mt Bezulb continues to erupt consistently. Note that despite numerous claims to the contrary, *drow* and *shadar-kai* are not the same race, and in fact they seem to have an inborn implacable hatred of one another that defies explanation.")
-
   npc.CHA += 1
 
   npc.newspellcasting('Dark Elf', 'CHA').cantripsknown.append('dancing lights')

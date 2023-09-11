@@ -2,6 +2,7 @@
 
 ```
 name = 'Bugbear'
+description = "***Race: Bugbear.***"
 type = 'humanoid'
 ```
 

@@ -14,6 +14,7 @@
 
 ```
 name = 'Kobold'
+description = "***Race: Kobold.*** "
 type = 'humanoid'
 def level0(npc):
     npc.abilityscoreimprovement()

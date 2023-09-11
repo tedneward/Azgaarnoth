@@ -3,6 +3,7 @@ Few [half-ogres](../Creatures/Ogres.md#half-ogre) have a happy origin story, tho
 
 ```
 name = 'Half-Ogre'
+description = "***Race: Half-Ogre.*** "
 type = 'humanoid'
 ```
 
