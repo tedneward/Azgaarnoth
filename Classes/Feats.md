@@ -95,6 +95,7 @@ While aberrant dragonmarks can be disturbing, on the surface an aberrant mark se
 8 | You have horrific nightmares after you use your mark.
 
 You gain the following benefits.
+
 * Increase your Constitution score by 1, to a maximum of 20.
 * You learn a cantrip from the sorcerer spell list. In addition, choose a 1st-level spell from the sorcerer spell list. You learn that spell and can cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again. Constitution is your spellcasting ability for these spells.
 * You can increase the power of your aberrant spells at the risk of your own vitality. When you cast a spell with your aberrant mark, you can use one of your Hit Die to increase the spell's level by 1. Immediately after you cast the spell, roll the Hit Die. You take damage equal to the number rolled.
@@ -493,6 +494,7 @@ You learn more of the magic typical of dark elves. You learn the [detect magic](
 
 ## Dual Wielder
 You master fighting with two weapons, gaining the following benefits:
+
 * You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.
 * You can use two-weapon fighting even when the one handed melee weapons you are wielding aren't light.
 * You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
@@ -532,6 +534,7 @@ Whenever you gain a level, you can replace the invocation with another one from 
 
 ## Empathic
 You possess keen insight into how other people think and feel. You gain the following benefits:
+
 * Increase your Wisdom score by 1, to a maximum of 20.
 * You gain proficiency in the Insight skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * You can use your action to try to get uncanny insight about one humanoid you can see within 30 feet of you. Make a Wisdom (Insight) check contested by the target's Charisma (Deception) check. If your check succeeds, you have advantage on attack rolls and ability checks against the target until the end of your next turn.
@@ -580,6 +583,7 @@ You've manifested the fiery combat emblematic of fire giants, granting you the f
 *Prerequisite: Half-elf*
 
 You develop your magnetic personality to ease your way through the world. You gain the following benefits:
+
 * Increase your Charisma score by 1, up to a maximum of 20.
 * You gain proficiency in Deception and Persuasion skills. If you're already proficient in either skill, your proficiency bonus is doubled for any check you make with that skill.
 
@@ -588,12 +592,14 @@ You develop your magnetic personality to ease your way through the world. You ga
 *Prerequisite: Gnome*
 
 Your people are clever, with a knack for illusion magic. You have learned a magical trick for fading away when you suffer harm. You gain the following benefits:
+
 * Increase your Dexterity or Intelligence score by 1, to a maximum of 20.
 * Immediately after you take damage, you can use a reaction to magically become invisible until the end of your next turn or until you attack, deal damage, or force someone to make a saving throw. Once you use this ability, you can't do so again until you finish a short or long rest.
 
 
 ## Fell Handed
 You master the handaxe, battleaxe, greataxe, warhammer, and maul. You gain the following benefits when using any of them:
+
 * You gain a +1 bonus to attack rolls you make with the weapon.
 * Whenever you have advantage on a melee attack roll you make with the weapon and hit, you can also knock the target prone if the lower of the two d20 rolls would also hit the target.
 * Whenever you have disadvantage on a melee attack roll you make with the weapon, the target takes bludgeoning damage equal to your Strength modifier (minimum of 0) if the attack misses but the higher of the two d20 rolls would have hit.
@@ -604,6 +610,7 @@ You master the handaxe, battleaxe, greataxe, warhammer, and maul. You gain the f
 *Prerequisite: Elf (high)*
 
 Your study of high elven lore has unlocked fey power that few other elves possess, except your eladrin cousins. Drawing on your fey ancestry, you can momentarily stride through the Feywild to shorten your path from one place to another. You gain the following benefits:
+
 * Increase your Intelligence or Charisma score by 1, to a maximum of 20.
 * You learn to speak, read, and write Sylvan
 * You learn the [misty step](https://www.dndbeyond.com/spells/misty-step) spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest. Intelligence is your spellcasting ability for this spell.
@@ -611,6 +618,7 @@ Your study of high elven lore has unlocked fey power that few other elves posses
 
 ## Fey Touched
 Your exposure to the Feywild or one of its denizens has left a magical mark on you. You gain the following benefits:
+
 * Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 * You learn the [misty step](https://www.dndbeyond.com/spells/misty-step) spell and one 1st-level spell of your choice. The 1st-level spell must be from the divination or enchantment school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
@@ -633,6 +641,7 @@ Your bite deals +1 point of damage and inflicts 1 point of bleed on critical hit
 
 ## Flail Mastery
 The flail is a tricky weapon to use, but you have spent countless hours mastering it. You gain the following benefits:
+
 * You gain a +1 bonus to attack rolls you make with a flail.
 * As a bonus action on your turn, you can prepare yourself to extend your flail to sweep over targets' shields. Until the end of this turn, your attack rolls with a flail gain a +2 bonus against any target using a shield.
 * When you hit with an opportunity attack using a flail, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked prone.
@@ -658,6 +667,7 @@ You've manifested the icy might emblematic of frost giants, granting you the fol
 *Prerequisite: Tiefling*
 
 You learn to call on hellfire to serve your commands. You gain the following benefits:
+
 * Increase your Intelligence or Charisma score by 1, to a maximum of 20.
 * When you roll fire damage for a spell you cast, you can reroll any roll of 1 on the fire damage dice, but you must use the new roll, even if it is another 1.
 * Whenever you cast a spell that deals fire damage, you can cause flames to wreathe you until the end of your next turn. The flames don't harm you or your possessions, and they shed bright light out to 30 feet and dim light for an additional 30 feet. While the flames are present, any creature within 5 feet of you that hits you with a melee attack takes 1d4 fire damage.
@@ -690,6 +700,7 @@ You've manifested some of the power of metallic dragons, granting you the follow
 Sigils and symbols hold power, as the scholars of the Eldar have long known, and some spellcasters have perfected the art of storing spells in magical glyphs.
 
 You gain the following benefits:
+
 * Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
 * You add [glyph of warding]() to your spells known or prepared. It is a class spell for you and doesn't count against the
 number of spells you know or can have prepared.
@@ -701,6 +712,7 @@ number of spells you know or can have prepared.
 
 ## Gourmand
 You have mastered a variety of special recipes, allowing you to prepare exotic dishes with useful effects. You gain the following benefits:
+
 * Increase your Constitution score by 1, to a maximum of 20.
 * You gain proficiency with cook's utensils. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.
 * As an action, you can inspect a drink or plate of food within 5 feet of you and determine whether it is poisoned, provided that you can see and smell it.
@@ -711,12 +723,14 @@ You have mastered a variety of special recipes, allowing you to prepare exotic d
 *Prerequisite: Strength 13 or higher*
 
 You've developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
+
 * You have advantage on attack rolls against a creature you are grappling.
 * You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
 
 
 ## Great Weapon Master
 You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
+
 * On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
 * Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
 
@@ -753,6 +767,7 @@ Warding | Dexterity or Intelligence | glyph of warding, knock, Leomund's secret 
 *Prerequisite: Dwarf*
 
 You have a deep hatred for a particular kind of creature. Choose your foes, a type of creature to bear the burden of your wrath: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can choose two races of humanoid (such as gnolls and orcs). You gain the following benefits:
+
 * Increase your Strength, Constitution, or Wisdom score by 1, to a maximum of 20.
 * During the first round of any combat against your chosen foes, your attack rolls against any of them have advantage.
 * When any of your chosen foes makes an opportunity attack against you, it makes the attack roll with disadvantage.
@@ -779,6 +794,7 @@ You are an able physician, allowing you to mend wounds quickly and get your alli
 *Prerequisite: Proficiency with medium armor*
 
 You have trained to master the use of heavy armor, gaining the following benefits:
+
 * Increase your Strength score by 1, to a maximum of 20.
 * You gain proficiency with heavy armor.
 
@@ -787,6 +803,7 @@ You have trained to master the use of heavy armor, gaining the following benefit
 *Prerequisite: Proficiency with heavy armor*
 
 You can use your armor to deflect strikes that would kill others. You gain the following benefits:
+
 * Increase your Strength score by 1, to a maximum of 20.
 * While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from nonmagical weapons is reduced by 3.
 
@@ -800,6 +817,7 @@ Panicked creatures moving into or out of your threatened area incur attacks of o
 
 ## Historian
 Your study of history rewards you with the following benefits:
+
 * Increase your Intelligence score by 1, to a maximum of 20.
 * You gain proficiency in the History skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * When you take the Help action to aid another creature's ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature's check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you're saying.
@@ -817,6 +835,7 @@ Your bite's critical threat range improves to 19-20 and deals x3 critical damage
 *Prerequisite: Tiefling*
 
 Fiendish blood runs strong in you, unlocking a resilience akin to that possessed by some fiends. You gain the following benefits:
+
 * Increase your Constitution score by 1, up to a maximum of 20.
 * You have resistance to cold damage and poison damage.
 * You have advantage on saving throws against being poisoned.
@@ -832,6 +851,7 @@ You can spend 10 minutes inspiring your companions, shoring up their resolve to 
 *Prerequisite: One or more levels in at least one class that allows you to cast spells using Charisma or Wisdom as your spellcasting ability*
 
 Though spellcasting abilities of a type you practice are usually fueled by faith or force of personality, your own approach focuses more on study, rigor, and education. This feat grants the following benefits:
+
 * Increase your Intelligence score by 1, to a maximum of 20.
 * Choose one class in which you have at least one level, which grants you the Spellcasting class feature, and which specifies Charisma or Wisdom as the spellcasting ability for its Spellcasting feature. Your spellcasting ability for the Spellcasting feature provided by that class becomes Intelligence instead of Charisma or Wisdom.
 * You become proficient in the Arcana skill if you are not already.
@@ -924,13 +944,15 @@ Humans suffer a -2 penalty on all saves against fear when within 30' of you. In 
 
 
 ## Martial Adept
-You have martial training that allows you to perform special combat [maneuvers](Fighter/Maneuvers.md). You gain the following benefits.
+You have martial training that allows you to perform special combat [maneuvers](Fighter/Maneuvers.md). You gain the following benefits:
+
 * You learn two [maneuvers](Fighter/Maneuvers.md) of your choice . If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 * You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
 
 ## Master of Disguise
 You have honed your ability to shape your personality and to read the personalities of others. You gain the following benefits:
+
 * Increase your Charisma score by 1, to a maximum of 20.
 * You gain proficiency with the disguise kit. If you are already proficient with it, you add double your proficiency bonus to checks you make with it.
 * If you spend 1 hour observing a creature, you can then spend 8 hours crafting a disguise you can quickly don to mimic that creature. Making the disguise requires a disguise kit. You must make checks as normal to disguise yourself, but you can assume the disguise as an action.
@@ -938,6 +960,7 @@ You have honed your ability to shape your personality and to read the personalit
 
 ## Medic
 You master the physician's arts, gaining the following benefits:
+
 * Increase your Wisdom score by 1, to a maximum of 20.
 * You gain proficiency in the Medicine skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * During a short rest, you can clean and bind the wounds of up to six willing beasts and humanoids. Make a DC 15 Wisdom (Medicine) check for each creature. On a success, if a creature spends a Hit Die during this rest, that creature can forgo the roll and instead regain the maximum number of hit points the die can restore. A creature can do so only once per rest, regardless of how many Hit Dice it spends.
@@ -953,6 +976,7 @@ You have practiced moving in medium armor to gain the following benefits:
 
 ## Menacing
 You become fearsome to others, gaining the following benefits:
+
 * Increase your Charisma score by 1, to a maximum of 20.
 * You gain proficiency in the Intimidation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * When you take the Attack action on your turn, you can replace one attack with an attempt to demoralize one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Intimidation) check contested by the target's Wisdom (Insight) check. If your check succeeds, the target is frightened until the end of your next turn. If your check fails, the target can't be frightened by you in this way for 1 hour.
@@ -962,6 +986,7 @@ You become fearsome to others, gaining the following benefits:
 *Prerequisite*: Psionic Talent feature or Wild Talent feat
 
 You have refined psionic control over your body's functions. You gain the following benefits:
+
 * Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
 * If your Psionic Talent die is available, you can take an action to channel your psionic power to nourish yourself for the next 24 hours, as if you consumed sufficient food and water for a day. When you take this action, your Psionic Talent die decreases by one die size.
 * If your Psionic Talent die is available, you can meditate for 1 minute, at the end of which you gain the benefits of finishing a short rest, and your Psionic Talent die decreases by one die size. You can't meditate in this way again until you finish a long rest.
@@ -971,6 +996,7 @@ You have refined psionic control over your body's functions. You gain the follow
 *Prerequisite: Spellcasting or Pact Magic feature*
 
 You've learned how to exert your will on your spells to alter how they function. You gain the following benefits:
+
 * You learn two Metamagic options of your choice from the [sorcerer](Sorcerer.md) class. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. Whenever you gain a level, you can replace one of your Metamagic options with another one from the sorcerer class.
 * You gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source but can be used only on Metamagic). You regain all spent sorcery points when you finish a long rest.
 
@@ -1008,6 +1034,7 @@ You are a dangerous foe to face while mounted. While you are mounted and aren't 
 
 ## Naturalist
 Your extensive study of nature rewards you with the following benefits:
+
 * Increase your Intelligence score by 1, to a maximum of 20.
 * You gain proficiency in the Nature skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * You learn the [druidcraft]() and [detect poison and disease]() spells. You can cast [detect poison and disease]() once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
@@ -1033,9 +1060,7 @@ As a bonus action, you can move up to your speed toward an enemy of your choice 
 Your fury burns tirelessly. You gain the following benefits:
 
 * Increase your Strength or Constitution score by 1, up to a maximum of 20.
-
 * When you hit with an attack made with a simple or martial weapon, you can roll one of the weapon's damage dice an additional time and add it as extra damage of the weapon's damage type. Once you use this ability, you can't use it again until you finish a short or long rest.
-
 * Immediately after you use your Relentless Endurance trait, you can use your reaction to make one weapon attack.
 
 
@@ -1057,6 +1082,7 @@ When flanking an opponent, you gain a +1 dodge bonus to armor class against that
 
 ## Perceptive
 You hone your senses until they become razor sharp. You gain the following benefits:
+
 * Increase your Wisdom score by 1, to a maximum of 20.
 * You gain proficiency in the Perception skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * Being in a lightly obscured area doesn't impose disadvantage on your Wisdom (Perception) checks if you can both see and hear.
@@ -1064,6 +1090,7 @@ You hone your senses until they become razor sharp. You gain the following benef
 
 ## Performer
 You master performance so that you can command any stage. You gain the following benefits:
+
 * Increase your Charisma score by 1, to a maximum of 20.
 * You gain proficiency in the Performance skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * While performing, you can try to distract one humanoid you can see who can see and hear you. Make a Charisma (Performance) check contested by the humanoid's Wisdom (Insight) check. If your check succeeds, you grab the humanoid's attention enough that it makes Wisdom (Perception) and Intelligence (Investigation) checks with disadvantage until you stop performing.
@@ -1071,6 +1098,7 @@ You master performance so that you can command any stage. You gain the following
 
 ## Piercer
 You have achieved a penetrating precision in combat, granting you the following benefits:
+
 * Increase your Strength or Dexterity by 1, to a maximum of 20.
 * Once per turn, when you hit a creature with an attack that deals piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.
 * When you score a critical hit that deals piercing damage to a creature, you can roll one additional damage die when determining the extra piercing damage the target takes.
@@ -1088,6 +1116,7 @@ You can draw on the forces of the multiverse to survive cosmic extremes and to t
 
 ## Poisoner
 You can prepare and deliver deadly poisons, gaining the following benefits:
+
 * When you make a damage roll, you ignore resistance to poison damage.
 * You can coat a weapon in poison as a bonus action, instead of an action.
 * You gain proficiency with the poisoner's kit if you don't already have it. With one hour of work using a poisoner's kit and expending 50 gp worth of materials, you can create a number of doses of potent poison equal to your proficiency bonus. Once applied, the poison retains potency for 1 minute or until you hit with the weapon. When a weapon coated in this poison deals damage to a creature, that creature must succeed on a DC 14 Constitution saving throw or take 2d8 poison damage and become poisoned until the end of your next turn.
@@ -1102,6 +1131,7 @@ You gain the following benefits:
 
 ## Practiced Expert
 You have honed your proficiency with particular skills or tools, gaining the following benefits:
+
 * Increase one ability score of your choice by 1, to a maximum of 20.
 * You gain proficiency with one skill or tool of your choice.
 * Choose one of your skill or tool proficiencies. Your proficiency bonus is doubled for any ability check you make that uses the chosen proficiency. 
@@ -1119,6 +1149,7 @@ Choose one skill in which you have proficiency. You gain expertise with that ski
 
 ## Quick-Fingered
 Your nimble fingers and agility let you perform sleight of hand. You gain the following benefits:
+
 * Increase your Dexterity score by 1, to a maximum of 20.
 * You gain proficiency in the Sleight of Hand skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * As a bonus action, you can make a Dexterity (Sleight of Hand) check to plant something on someone else, conceal an object on a creature, lift a purse, or take something from a pocket.
@@ -1157,7 +1188,7 @@ If you come across a spell in written form, such as a magical spell scroll or a 
 
 
 ## Rune Lore
-You have learned one of the [Runes](/Magic/Runes.md) of the Eldar. You know one rune (so long as you meet all the prerequisites for that rune), and cannot learn any more unless taking this feat a second (or more) time.
+You have learned one of the [Runes](../Magic/Runes.md) of the Eldar. You know one rune (so long as you meet all the prerequisites for that rune), and cannot learn any more unless taking this feat a second (or more) time.
 
 Whenever you finish a long rest, you can touch a number of objects equal to the number of runes you know, and you inscribe a different rune onto each of the objects. To be eligible, an object must be a weapon, a suit of armor, a shield, a piece of jewelry, or something else you can wear or hold in a hand. Your rune remains on an object until you finish a long rest, and an object can bear only one of your runes at a time.
 
@@ -1193,6 +1224,7 @@ The Outlands | Psychic | [mage hand](../Magic/Spells/mage-hand.md)
 *Prerequisite: Halfling*
 
 Fortune favors you when someone tries to strike you. You gain the following benefits:
+
 * Increase your Dexterity, Constitution, or Charisma score by 1, to a maximum of 20.
 * When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can't use it again until you roll initiative at the start of combat or until you finish a short or long rest.
 
@@ -1207,8 +1239,9 @@ You have mastered techniques to take advantage of every drop in any enemy's guar
 
 ## Shadow Touched
 You learn how to bend shadows from your experience with the Shadowfell. You gain the following benefits:
+
 * Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
-* You learn the darkness spell and one 1st-level spell of your choice. The 1st-level spell must be from the illusion or necromancy school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
+* You learn the [darkness](../Magic/Spells/darkness.md) spell and one 1st-level spell of your choice. The 1st-level spell must be from the illusion or necromancy school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
 
 ## Shape Breath
@@ -1235,6 +1268,7 @@ You use shields not just for protection but also for offense. You gain the follo
 
 ## Shield Training
 You've trained in the effective use of shields. You gain the following benefits:
+
 * Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
 * You gain proficiency with shields.
 * In combat, you can don or doff a shield as the free object interaction on your turn.
@@ -1243,6 +1277,7 @@ You've trained in the effective use of shields. You gain the following benefits:
 
 ## Silver-Tongued
 You develop your conversational skill to better deceive others. You gain the following benefits:
+
 * Increase your Charisma score by 1, to a maximum of 20.
 * You gain proficiency in the Deception skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * When you take the Attack action on your turn, you can replace one attack with an attempt to deceive one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Deception) check contested by the target's Wisdom (Insight) check. If your check succeeds, your movement doesn't provoke opportunity attacks from the target and your attack rolls against it have advantage; both benefits last until the end of your next turn or until you use this ability on a different target. If your check fails, the target can't be deceived by you in this way for 1 hour.
@@ -1264,6 +1299,7 @@ You are an expert at slinking through shadows. You gain the following benefits:
 
 ## Slasher
 You've learned where to cut to have the greatest results, granting you the following benefits:
+
 * Increase your Strength or Dexterity by 1, to a maximum of 20.
 * Once per turn when you hit a creature with an attack that deals slashing damage, you can reduce the speed of the target by 10 feet until the start of your next turn.
 * When you score a critical hit that deals slashing damage to a creature, you grievously wound it. Until the start of your next turn, the target has disadvantage on all attack rolls.
@@ -1282,11 +1318,8 @@ You've manifested divination abilities and tempest magic emblematic of storm gia
 Though the spear is a simple weapon to learn, it rewards you for the time you have taken to master it. You gain the following benefits:
 
 * You gain a +1 bonus to attack rolls you make with a spear.
-
 * When you use a spear, its damage die changes from a d6 to a d8, and from a d8 to a d10 when wielded with two hands. (This benefit has no effect if another feature has already improved the weapon's die.)
-
 * You can set your spear to receive a charge. As a bonus action, choose a creature you can see that is at least 20 feet away from you. If that creatures moves within your spear's reach on its next turn, you can make a melee attack against it with your spear as a reaction. If the attack hits, the target takes an extra 1d8 piercing damage, or an extra 1d10 piercing damage if you wield the spear with two hands. You can't use this ability if the creature used the Disengage action before moving.
-
 * As a bonus action on your turn, you can increase your reach with a spear by 5 feet for the rest of your turn.
 
 
@@ -1327,7 +1360,7 @@ You are uncommonly nimble for your race. You gain the following benefits:
 ## Squire
 *Prerequisite: Member of a militant order, such as the [Draconic Order](../Organizations/DraconicOrder/DraconicOrder.md) or [Dread Knights](../Organizations/DreadOrder.md)*
 
-Your training in the ways of the Knights of Solamnia grants you these benefits:
+Your training in the ways of your militant order grants you these benefits:
 
 * **Martial Training.** You gain proficiency with medium armor and martial weapons.
 * **Defensive Rider.** You have advantage on saving throws made to avoid falling off a mount.
@@ -1336,6 +1369,7 @@ Your training in the ways of the Knights of Solamnia grants you these benefits:
 
 ## Stealthy
 You know how best to hide. You gain the following benefits:
+
 * Increase your Dexterity score by 1, to a maximum of 20.
 * You gain proficiency in the Stealth skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * If you are hidden, you can move up to 10 feet in the open without revealing yourself if you end the move in a position where you're not clearly visible.
@@ -1366,6 +1400,7 @@ You can use this bonus action a number of times equal to your proficiency bonus,
 
 ## Survivalist
 You master wilderness lore, gaining the following benefits:
+
 * Increase your Wisdom score by 1, to a maximum of 20.
 * You gain proficiency in the Survival skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * You learn the [alarm]() spell. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
@@ -1381,12 +1416,14 @@ You can also cast each of the following spells once with this ability: [blindnes
 
 ## Tandem Tactician
 Your presence in a scrap tends to elevate your comrades. You gain the following benefits:
+
 * You can use the Help action as a bonus action.
 * When you use the Help action to aid an ally in attacking a creature, increase the range of the Help action by 10 feet. Additionally, you can help two allies targeting the same creature within range when you use the Help action this way. 
 
 
 ## Tavern Brawler
 Accustomed to the rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:
+
 * Increase your Strength or Consititution score by 1, to a maximum of 20.
 * You are proficient with improvised weapons.
 * Your unarmed strike uses a d4 for damage.
@@ -1397,6 +1434,7 @@ Accustomed to the rough-and-tumble fighting using whatever weapons happen to be 
 *Prerequisite*: Psionic Talent feature or Wild Talent feat
 
 You learn to move things with your mind. You gain the following benefits:
+
 * Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 * You learn the [mage hand](https://www.dndbeyond.com/spells/mage-hand) cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible. If you already know this spell, its range increases by 30 feet when you cast it. Its spellcasting ability is the ability increased by this feat.
 * As a bonus action, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, roll your Psionic Talent die, and the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved toward you or away from you a number of feet equal to 5 times the number you rolled. A creature can willingly fail this save.
@@ -1406,6 +1444,7 @@ You learn to move things with your mind. You gain the following benefits:
 *Prerequisite*: Psionic Talent feature or Wild Talent feat
 
 You awaken the ability to mentally connect with others. You gain the following benefits:
+
 * Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 * You can speak telepathically to any creature you can see within 30 feet of you. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn't give the creature the ability to respond to you telepathically.
 * If your Psionic Talent die is available, you can cast the [detect thoughts]() spell, requiring no components. When you start casting the spell, your Psionic Talent die decreases by one die size. Your spellcasting ability for the spell is the ability increased by this feat.
@@ -1415,6 +1454,7 @@ You awaken the ability to mentally connect with others. You gain the following b
 *Prerequisite*: Telepathic feat in two creatures
 
 You form a deep, mind-linked bond with another Telepathic creature. You each gain the following benefits:
+
 * Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 21.
 * So long as you are each within 60 feet of each other, you may communicate without requiring speech (or even air).
 * When in combat, each of you rolls Initiative, but you share the higher of the two Initiative die rolls.
@@ -1432,6 +1472,7 @@ Non-gnolls in 60' radius must make Will save DC 10 + 1/2 HD + Cha mod or become 
 
 ## Theologian
 Your extensive study of religion rewards you with the following benefits:
+
 * Increase your Intelligence score by 1, to a maximum of 20.
 * You gain proficiency in the Religion skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 * You learn the [thaumaturgy](../Magic/Spells/thaumaturgy.md) and [detect evil and good](../Magic/Spells/detect-evil-and-good.md) spells. You can cast [detect evil and good](../Magic/Spells/detect-evil-and-good.md) once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
@@ -1512,23 +1553,23 @@ If you have a Psionic Talent die from another source, such as a class feature, y
 ## Wintry Breath
 *Prerequisites: Winter gnoll, Con 13+* 
 
-You gain a freezing breath attack like your winter wolf ancestry.
-
-You gain a breath weapon attack that deals 2d6 cold damage in a 15' cone. This breath weapon is usable a number of times per day equal to your Con modifier (minimum 1). You must wait at least 1 minute between uses.
+You gain a freezing breath attack like your winter wolf ancestry. You gain a breath weapon attack that deals 2d6 cold damage in a 15' cone. This breath weapon is usable a number of times per day equal to your Con modifier (minimum 1). You must wait at least 1 minute between uses.
 
 
 ## Wonder Maker
 *Prerequisite: Gnome (rock)*
 
 You master the tinker techniques of your people. You gain the following benefits:
+
 * Increase your Dexterity or Intelligence score by 1, to a maximum of 20.
 * When you make a check using your proficiency with tinker's tools, you add double your proficiency bonus to the check.
 * When you make a device with your Tinker trait, you have the following additional options for what you make:
-  * **Alarm**: This device senses when a creature moves to within 15 feet of it without speaking aloud a password chosen when you create it. One round after a creature moves into range, the alarm makes a shrill ringing that lasts for 1 minute and can be heard from up to 300 feet away.
-  * **Calculator**: This device makes doing sums easy.
-  * **Lifter**: This device can be used as a block and tackle, allowing its user to hoist five times the weight the user can normally lift.
-  * **Timekeeper**: This pocket watch keeps accurate time.
-  * **Weather Sensor**: When used as an action, this device predicts weather conditions in a 1-mile radius over the next 4 hours, showing one symbol (clouds, sun/moon, rain, or snow) for each hour
+
+    * **Alarm**: This device senses when a creature moves to within 15 feet of it without speaking aloud a password chosen when you create it. One round after a creature moves into range, the alarm makes a shrill ringing that lasts for 1 minute and can be heard from up to 300 feet away.
+    * **Calculator**: This device makes doing sums easy.
+    * **Lifter**: This device can be used as a block and tackle, allowing its user to hoist five times the weight the user can normally lift.
+    * **Timekeeper**: This pocket watch keeps accurate time.
+    * **Weather Sensor**: When used as an action, this device predicts weather conditions in a 1-mile radius over the next 4 hours, showing one symbol (clouds, sun/moon, rain, or snow) for each hour
 
 
 ## Wood Elf Magic

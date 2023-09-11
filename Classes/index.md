@@ -1,5 +1,5 @@
 # Classes
-Azgaarnoth has a wide range of classes available:
+Azgaarnoth has a wide range of classes available, and a number of [feats](Feats.md) by which to customize them further:
 
 ## [Artificer](Artificer)
 The artificer is a masters of invention, using ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions.
