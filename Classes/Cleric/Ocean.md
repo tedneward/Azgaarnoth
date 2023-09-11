@@ -29,16 +29,17 @@ domainspells = {
     7: ['control water', 'watery sphere'],
     9: ['maelstrom', 'control winds']
 }
-def domainspellsforlevel(npc):
-    results = []
-    if npc.levels('Cleric') >= 1: results += domainspells[1]
-    if npc.levels('Cleric') >= 3: results += domainspells[3]
-    if npc.levels('Cleric') >= 5: results += domainspells[5]
-    if npc.levels('Cleric') >= 7: results += domainspells[7]
-    if npc.levels('Cleric') >= 9: results += domainspells[9]
-    npc.spellcasting['Cleric'].spellsalwaysprepared += results
 
 def level1(npc):
+    def domainspellsforlevel(npc):
+        results = []
+        if npc.levels(baseclass.name) >= 1: results += domainspells[1]
+        if npc.levels(baseclass.name) >= 3: results += domainspells[3]
+        if npc.levels(baseclass.name) >= 5: results += domainspells[5]
+        if npc.levels(baseclass.name) >= 7: results += domainspells[7]
+        if npc.levels(baseclass.name) >= 9: results += domainspells[9]
+        npc.spellcasting[baseclass.name].spellsalwaysprepared += results
+
     npc.defer(lambda npc: domainspellsforlevel(npc))
 ```
 
@@ -68,7 +69,7 @@ You can torrentuously rebuke attackers. When a creature within 5 feet of you tha
 ```
     npc.speed['swimming'] = npc.speed['walking']
 
-    npc.defer(lambda npc: npc.reactions.append(f"***Wrath of the Wave ({npc.WISbonus() if npc.WISbonus() > 0 else 1}/Recharge on long rest).*** When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw (DC {npc.spellcasting['Cleric'].spellsavedc()}). The creature takes 2d6 cold damage on a failed saving throw and is pushed back 10 feet, and half as much damage (and is not pushed) on a successful one."))
+    npc.defer(lambda npc: npc.reactions.append(f"***Wrath of the Wave ({npc.WISbonus() if npc.WISbonus() > 0 else 1}/Recharge on long rest).*** When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw (DC {npc.spellcasting[baseclass.name].spellsavedc()}). The creature takes 2d6 cold damage on a failed saving throw and is pushed back 10 feet, and half as much damage (and is not pushed) on a successful one."))
 ```
 
 ## Channel Divinity: Torrential Wrath
@@ -80,7 +81,7 @@ As an action, you present your holy symbol and invoke the name of your deity. A 
 
 ```
 def level2(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Channel Divinity: Torrential Wrath.*** A forceful {'10' if npc.levels('Cleric') < 17 else '20'}-foot-high wave of cold water erupts in a {'30' if npc.levels('Cleric') < 17 else '60'}ft-radius circle around you. All creatures within the circle must succeed on a Strength saving throw or take {npc.proficiencybonus()}d6 cold and {npc.proficiencybonus()}d6 bludgeoning damage and be pushed back {'10' if npc.levels('Cleric') < 17 else '15'} feet and knocked prone. Creatures take half as much damage and are not pushed and knocked down on a successful saving throw. Creatures of the {'Huge' if npc.levels('Cleric') < 17 else 'Gargantuan'} size and larger are not pushed back and knocked prone. You must not be in the air when you do this."))
+    npc.defer(lambda npc: npc.actions.append(f"***Channel Divinity: Torrential Wrath.*** A forceful {'10' if npc.levels(baseclass) < 17 else '20'}-foot-high wave of cold water erupts in a {'30' if npc.levels(baseclass) < 17 else '60'}ft-radius circle around you. All creatures within the circle must succeed on a Strength saving throw or take {npc.proficiencybonus()}d6 cold and {npc.proficiencybonus()}d6 bludgeoning damage and be pushed back {'10' if npc.levels(baseclass) < 17 else '15'} feet and knocked prone. Creatures take half as much damage and are not pushed and knocked down on a successful saving throw. Creatures of the {'Huge' if npc.levels(baseclass) < 17 else 'Gargantuan'} size and larger are not pushed back and knocked prone. You must not be in the air when you do this."))
 ```
 
 ## Divine Strike
@@ -88,7 +89,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 
 ```
 def level8(npc):
-    npc.defer(lambda npc: npc.traits.append(f"***Divine Strike.*** Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra {'1' if npc.levels('Cleric') < 14 else '2'}d8 cold damage to the target."))
+    npc.defer(lambda npc: npc.traits.append(f"***Divine Strike.*** Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra {'1' if npc.levels(baseclass) < 14 else '2'}d8 cold damage to the target."))
 ```
 
 ## Seablooded

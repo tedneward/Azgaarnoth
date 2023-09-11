@@ -1,7 +1,7 @@
 # Sahuagin
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn -- a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
 
-> Jump to: [Sahuagin](Sahuagin.md#sahuagin) | [Sahuagin Priestess](Sahuagin.md#sahuagin-priestess) | [Sahuagin Baron](Sahuagin.md#sahuagin-baron)
+> Jump to: [Sahuagin](Sahuagin.md#sahuagin-1) | [Sahuagin Priestess](Sahuagin.md#sahuagin-priestess) | [Sahuagin Baron](Sahuagin.md#sahuagin-baron)
 
 ***Devils of the Deep.*** Sahuagin are a predatory, piscine race that ventures from the ocean's black depths to hunt the creatures of the shallows and shore. Though they dwell in the deepest trenches of the ocean, sahuagin view the entire aquatic realm as their kingdom and the creatures in it as blood sport for their hunting parties.
 
@@ -90,7 +90,7 @@ Coastal, Undersea
 >- **Speed** 20 ft, swimming 40 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
-'>|:-:|:-:|:-:|:-:|:-:|:-:|
+>|:-:|:-:|:-:|:-:|:-:|:-:|
 >|16 (+3)|11 (+0)|13 (+1)|12 (+1)|14 (+2)|9 (-1)|
 >___
 >- **Proficiency Bonus** +3

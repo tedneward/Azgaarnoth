@@ -3,6 +3,7 @@
 import argparse
 import os
 import random
+import traceback
 import types
 
 # This script parses the markdown files in /Races, /Classes, and /Backgrounds
@@ -357,7 +358,9 @@ def loadclasses():
                         log(f"Parsing {sf}...")
                         subclassname = os.path.splitext(sf)[0]
                         subclassmod = loadmodule(dirpath + '/' + sf, basemodule.name + "-" + subclassname)
-                        if subclassmod != None: setattr(subclassmod, "baseclass", basemodule)
+                        if subclassmod != None: 
+                            setattr(subclassmod, "baseclass", basemodule)
+                            print("Baseclass for " + subclassname + " is " + str(subclassmod.baseclass))
                         subclasses[subclassname] = subclassmod
                 setattr(basemodule, "subclasses", subclasses)
             if basemodule != None:
@@ -376,8 +379,13 @@ class NPC:
     class Spellcasting:
         def __init__(self, npc, ability):
             self.npc = npc
+            # Caster class is the base class for this Spellcasting trait.
+            # It can be None, which means there is no base class (typically for Innate casters)
             self.casterclass = None
+            # INT, WIS, or CHA
             self.ability = ability
+            # INTbonus(), WISbonus(), or CHAbonus()
+            self.abilitybonus = None
             self.maxcantripsknown = 0
             self.cantripsknown = []
             self.maxspellsknown = 0
@@ -387,7 +395,7 @@ class NPC:
 
             # This is a dict of level-to-list describing the slots at each level (offset by 1, of course....)
             self.slottable = {}
-            # This is for the spellcasting that isn't level-based
+            # This is for the spellcasting that isn't level-based (e.g., Innate casting)
             self.slots = []
 
         def __str__(self):
@@ -413,13 +421,15 @@ class NPC:
         self.race = None
         # Subrace is a dict ('name', 'levelX', ...) for the subrace selected
         self.subrace = None
-        # Classes is a list of the cl'ass-dicts 'for each class taken
+        # Classes is a list of the class-dicts for each class taken
         # e.g, '[<fighter>,<fighter>,<monk>,<monk>,<fighter>] for a Fighter 3/Monk 2 NPC
         self.classes = []
         # Subclasses is a map of the classmodule.name : subclassmodule
         # e.g, '{'Fighter':<samurai>,'Wizard':<necromancer>}
         self.subclasses = {}
 
+        # Armorclass is a dict of 'type'-to-value pairs; e.g., 'shield' : 2, 'breastplate' : 15, etc
+        # This is so that we can put the descriptors into parens after the total value
         self.armorclass = { }
 
         self.hitpoints = 0
@@ -455,8 +465,8 @@ class NPC:
         self.reactions = []
 
         # Spellcasting data; each is a hash tied to the name of the
-        # class or race whose spellcasting this is (Cleric, Wizard,
-        # Arcane Trickster, etc)
+        # class (or race, if it's Innate) whose spellcasting this is 
+        # (Cleric, Wizard, Fighter (for Arcane Trickster), etc)
         self.spellcasting = { }
 
         # Normalizers are fns run when the NPC is frozen;
@@ -686,7 +696,7 @@ class NPC:
         result += f">- **Speed** {getspeed()}\n"
         result += linesep
         result +=  ">|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|\n"
-        result +=  "'>|:-:|:-:|:-:|:-:|:-:|:-:|\n"
+        result +=  ">|:-:|:-:|:-:|:-:|:-:|:-:|\n"
         result += f">|{self.STR} ({self.STRbonus():+g})"
         result += f"|{self.DEX} ({self.DEXbonus():+g})"
         result += f"|{self.CON} ({self.CONbonus():+g})"
@@ -744,7 +754,7 @@ class NPC:
                 result += text
 
         if len(self.reactions) > 0:
-            result +=  ">#### Rections\n"
+            result +=  ">#### Reactions\n"
             for reaction in self.reactions:
                 result += f">{reaction}\n"
                 result +=  ">\n"
@@ -897,7 +907,7 @@ def process(script):
                 outputfile.write(npc.emitMD())
                 outputfile.write("\n\n")
             except Exception as ex:
-                print("Exception!", ex)
+                traceback.print_exception(ex)
 
 def main():
     global verbose

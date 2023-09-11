@@ -11,13 +11,17 @@ description = "***Divine Domain: Abandoned.*** Some clerics worship dead powers,
 
 You have an empty place in your soul where domain spells would usually reside (ignore the Domain spells this class gives you; they are placeholders). Thankfully for you, that space can be filled. At level 1, when you successfully save against a spell that is 5th level or lower, you can use a reaction to add that spell to your list of prepared spells the next time you finish a long rest if you can use that level spell slot. For the first two spells per spell level you use this ability with, they are added to your list of Domain spells, even if you cannot yet cast at that level. During a long rest, you can also use a spell scroll to add the spell to your list of prepared spells if you can cast it, adding it to your Domain spells if it is of an appropriate level which is not filled yet.
 
+```
+def level1(npc):
+    npc.reactions.append("***Spell Collection.*** When you successfully save against a spell that is 5th level or lower, you can use a reaction to add that spell to your list of prepared spells the next time you finish a long rest if you can use that level spell slot. For the first two spells per spell level you use this ability with, they are added to your list of Domain spells, even if you cannot yet cast at that level. During a long rest, you can also use a spell scroll to add the spell to your list of prepared spells if you can cast it, adding it to your Domain spells if it is of an appropriate level which is not filled yet.")
+```
+
 ## Empty Soul
 *1st-level Abandoned Domain feature*
 
 Your soul feels empty, and it craves any kind of healing. Whenever you are healed, you are healed for the maximum amount of hit points possible from the source of healing.
 
 ```
-def level1(npc):
     npc.traits.append("***Empty Soul.*** Whenever you are healed, you are healed for the maximum amount of hit points possible from the source of healing.")
 ```
 
