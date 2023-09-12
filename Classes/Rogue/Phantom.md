@@ -9,16 +9,19 @@ How did you discover this grim power? Did you sleep in a graveyard and awaken to
 
 ## Whispers of the Dead
 *3rd-level Phantom feature*
+
 Echoes of those who have died begin to cling to you. Whenever you finish a short or long rest, you can gain one skill or tool proficiency of your choice, as a ghostly presence shares its knowledge with you. This proficiency lasts until you use this feature again.
 
 ## Wails from the Grave
 *3rd-level Phantom feature*
+
 As you nudge someone closer to the grave, you can cause deathly wails to be heard near them. Immediately after you deal your Sneak Attack damage to a creature on your turn, you can target a second creature that you can see within 30 feet of the first creature. Roll half the number of Sneak Attack dice for your level (round up), and the second creature takes psychic damage equal to the roll's total, as wails of the dead sound around them for a moment.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ## Tokens of the Departed
 *9th-level Phantom feature*
+
 When a life ends in your presence, you're able to snatch a token from the departing soul, a sliver of its life essence that takes physical form: as a reaction when a creature you can see dies within 30 feet of you, you open your free hand and a Tiny trinket appears there, a soul trinket. The DM chooses the trinket's form or has you roll on the Trinkets table in the Player's Handbook to determine it.
 
 While the soul trinket is on your person, you have advantage on death saving throws and Constitution saving throws, as your vitality is enhanced by the life essence within the object.
@@ -29,12 +32,14 @@ As an action, you can destroy one of your soul trinkets, no matter where it's lo
 
 ## Ghost Walk
 *13th-level Phantom feature*
+
 You can now phase partially into the realm of the dead, becoming like a ghost. As a bonus action, you assume a spectral form. While in this form, you have a flying speed of 10 feet, you can hover, and attack rolls have disadvantage against you. You can also move through creatures and objects as if they were difficult terrain, but you take 1d10 force damage if you end your turn inside a creature or an object.
 
 You stay in this form for 10 minutes or until you end it as a bonus action. To use this feature again, you must finish a long rest or destroy one of your soul trinkets as part of the bonus action you use to activate Ghost Walk.
 
 ## Death Knell
 *17th-level Phantom feature*
+
 When you use your Wails from the Grave feature, you can now deal the psychic damage to both the first and the second creature.
 
 *Original content: [Unearthed Arcana - Subclasses Revisited](https://dnd.wizards.com/articles/unearthed-arcana/subclasses-revisited)*
