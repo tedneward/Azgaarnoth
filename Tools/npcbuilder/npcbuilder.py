@@ -564,6 +564,7 @@ class NPC:
         """Convenience factory method to be used from literate Race/Class/Background/Feats"""
         spellcasting = NPC.Spellcasting(self, ability)
         self.spellcasting[source] = spellcasting
+        spellcasting.abilitybonus = self.INTbonus if ability == 'INT' else self.WISbonus if ability == 'WIS' else self.CHAbonus if ability == 'CHA' else None
         return spellcasting
 
     def freeze(self):
