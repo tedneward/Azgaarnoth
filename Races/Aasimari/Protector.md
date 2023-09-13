@@ -1,6 +1,11 @@
 # Protector Aasimar
 Protector aasimar are charged by the powers of good to guard the weak, to strike at evil wherever it arises, and to stand vigilant against the darkness. From a young age, a protector aasimar receives advice and directives that urge to stand against evil.
 
+```
+name = 'Protector'
+description = "***Protector Aasimar.*** Protector aasimar are charged by the powers of good to guard the weak, to strike at evil wherever it arises, and to stand vigilant against the darkness. From a young age, a protector aasimar receives advice and directives that urge to stand against evil."
+```
+
 * **Ability Score Increase**. Your Wisdom score increases by 1.
 
 * **Radiant Soul**. Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back.
@@ -10,11 +15,7 @@ Protector aasimar are charged by the powers of good to guard the weak, to strike
   Once you use this trait, you can't use it again until you finish a long rest.
 
 ```
-name = 'Protector'
-
 def level0(npc): 
-    npc.description.append("***Protector Aasimar.*** Protector aasimar are charged by the powers of good to guard the weak, to strike at evil wherever it arises, and to stand vigilant against the darkness. From a young age, a protector aasimar receives advice and directives that urge to stand against evil.")
-
     npc.WIS += 1
 
 def level3(npc): 

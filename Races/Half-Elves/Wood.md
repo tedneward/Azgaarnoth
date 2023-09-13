@@ -9,9 +9,8 @@ Wood elves and high elves are, by this point in Azgaarnoth's history, fairly wel
 
 ```
 name = 'Wood'
+description = "***Elvish Heritage: Wood Elf.*** One of your parents was a Wood Elf."
 def level0(npc):
-  npc.description.append("***Elvish Heritage: Wood Elf.*** One of your parents was a Wood Elf.")
-
   npc.proficiencies.append("Longsword")
   npc.proficiencies.append("Shortsword")
   npc.proficiencies.append("Longbow")

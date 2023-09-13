@@ -9,6 +9,7 @@ Kenku adventurers, despite their relative independence, still have a tendency to
 
 ```
 name = 'Kenku'
+description = "***Race: Kenku.*** "
 type = 'humanoid'
 ```
 

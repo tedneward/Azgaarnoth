@@ -18,6 +18,7 @@
 
 ```
 name = 'Tiefling'
+description = "***Race: Tiefling.*** "
 type = 'humanoid/abyssal'
 def level0(npc):
     npc.size = 'Medium'

@@ -44,6 +44,7 @@ The Mark of Storm manifests exclusively on half-elves. If your character has the
 
 ```
 name = 'Storm Dragonmarked'
+description = "***Dragonmark: Mark of Storm.*** A dragonmark is a distinctive symbol that appears on the skin. Dragonmarks are painted in vivid shades of blue and purple and seem to shimmer or even move slightly. When used, they grow warm to the touch. A dragonmark can’t be removed--even if a limb bearing a dragonmark is cut away, the mark eventually manifests on another part of the bearer’s body. Wind and water welcome the half-elf who carries the Mark of Storms. The wind catches them when they fall, and they swim with remarkable speed. Those who possess the Greater Dragonmark and dragonshard focus items can call on even greater powers, shaping the weather and calling on the power of the storm."
 def level0(npc):
     quirk = random([
         "Your dragonmark is unusually small.",
@@ -56,7 +57,7 @@ def level0(npc):
         "Your dragonmark tickles when you use it.",
         "Your dragonmark is an unusual color but a normal shape."
     ])
-    npc.description.append(f"***Dragonmarked: Mark of Storm.*** A dragonmark is a distinctive symbol that appears on the skin. Dragonmarks are painted in vivid shades of blue and purple and seem to shimmer or even move slightly. When used, they grow warm to the touch. A dragonmark can’t be removed--even if a limb bearing a dragonmark is cut away, the mark eventually manifests on another part of the bearer’s body. {quirk}")
+    npc.description.append(f"***Dragonmark Quirk.*** {quirk}")
 
     npc.DEX += 1
     npc.CHA += 1
@@ -66,8 +67,9 @@ def level0(npc):
 
     npc.damageresistances.append('lightning')
 
-    npc.cantripsknown.append('gust')
+    npc.newspellcasting("StormDragonmark", 'INT').cantripsknown.append('gust')
 
 def level3(npc):
-    npc.actions.append(f"***Innate Spellcasting (Recharges on long rest).*** You can cast {spelllinkify('gust of wind')}.")
+    npc.spellcasting("StormDragonmark").spells[1].append('gust of wind')
+    npc.spellcasting("StormDragonmark").slots = [ 1 ]
 ```

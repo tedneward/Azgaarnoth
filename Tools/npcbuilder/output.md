@@ -1,76 +1,80 @@
 >### Name
-*Medium humanoid (Sahuagin) Cleric (Tempest) 8, any alignment*
+*Medium humanoid (Tabaxi) Rogue (Arcane Trickseter) 20, any alignment*
 >___
->- **Armor Class** 10 (DEX (+0))
->- **Hit Points** 58 (8d8 + 8)
->- **Speed** 20 ft, swimming 40 ft
+>- **Armor Class** 13 (DEX (+3))
+>- **Hit Points** 120 (20d8 + 16)
+>- **Speed** 30 ft, climbing 20 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
-'>|:-:|:-:|:-:|:-:|:-:|:-:|
->|15 (+2)|11 (+0)|14 (+2)|12 (+1)|16 (+3)|9 (-1)|
+>|:-:|:-:|:-:|:-:|:-:|:-:|
+>|11 (+0)|17 (+3)|13 (+1)|17 (+3)|11 (+0)|12 (+1)|
 >___
->- **Proficiency Bonus** +4
->- **Saving Throws** Wis +7,Cha +3
+>- **Proficiency Bonus** +7
+>- **Saving Throws** Dex +10,Int +10,Wis +7
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
 >- **Damage Immunities** 
 >- **Condition Immunities** 
->- **Skills** Medicine +7, Religion +5
->- **Proficiencies** Light armor,Medium armor,Shields,Simple weapons,Martial weapons,Heavy armor
->- **Senses** darkvision 60 ft, blood 20 ft, passive Perception 13
->- **Languages** Common,Sahuagin,Aquan
+>- **Skills** Perception +7,Stealth +10,Acrobatics +17,Athletics +14,Deception +15,Insight +14
+>- **Proficiencies** Light armor,Simple weapons,Hand crossbow,Longsword,Rapier,Shortsword,Thieves tools
+>- **Senses** darkvision 60 ft, blindsense 10 ft, passive Perception 17
+>- **Languages** Common,CHOOSE
 >___
->***Blood Frenzy.*** You have advantage on melee attack rolls against any creature that doesn't have all its hit points.
+>***Evasion.*** When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 >
->***Limited Amphibiousness.*** You can breathe air and water, but need to be submerged at least once every 8 hours to avoid dehydration. For each 8 hours period you do not submerge, you suffer one additional level of exhaustion.
+>***Magical Ambush.*** If you are hidden from a creature when you cast a spell on it, the creature has disadvantage on any saving throw it makes against the spell this turn.
 >
->***Shark Telepathy.*** You can communicate simple ideas with sharks. They may understand you, but you have no way of understanding them.
+>***Reliable Talent.*** Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
 >
->***Blood in the Water.*** Your specialized sense of smell can detect blood. You are aware of creatures within 20 feet that have hit points below their maximum, and can bleed. When in water, this range extends to 60 feet.
+>***Elusive.*** No attack roll has advantage against you while you aren't incapacitated.
 >
->***Channel Divinity: Destructive Wrath.*** When you roll lightning or thunder damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.
+>***Stroke of Luck (Recharges on short or long rest).*** If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
 >
->***Thunderous Strike.*** When you deal lightning damage to a Large or smaller creature, you can also push it up to 10 feet away from you.
+>***Mage Hand Legerdemain.*** When you cast [mage hand](../../Magic/Spells/mage-hand.md), you can make the spectral hand invisible, and you can perform the following additional tasks with it: (1) You can stow one object the hand is holding in a container worn or carried by another creature. (2) You can retrieve an object in a container worn or carried by another creature. (3) You can use thieves' tools to pick locks and disarm traps at range. You can perform one of these tasks without being noticed by a creature if you succeed on a Dexterity (Sleight of Hand) check contested by the creature's Wisdom (Perception) check. In addition, you can use the bonus action granted by your Cunning Action to control the hand.
 >
->***Channel Divinity (2/Recharges on short or long rest).*** See below for the details of each use.
+>***Sneak Attack.*** Once per turn, you can deal an extra 10d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
 >
->***Divine Strike.*** Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 thunder damage to the target.
+>***Expertise.*** Your proficiency bonus is doubled for any ability check that uses any of the following skills: Acrobatics,Athletics,Deception,Insight.
 >
 >#### Actions
->***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 1d4 + 2 piercing damage.
+>***Feline Agility.*** When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can’t use it again until you move 0 feet on one of your turns.
 >
->***Channel Divinity: Turn Undead.***  You can use one of your uses of Channel Divinity to turn undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, if it is a CR of 1 or lower it is destroyed; otherwise it is turned for 1 minute or until it takes any damage.A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
+>***Claws.*** Melee Weapon Attack: +7 to hit, reach 5ft., one target. Hit: 1d4 + 0 slashing damage
 >
->***Cleric Spellcasting (Wis, at level 8. Recharges on long rest).*** 4 cantrips known. 11 spells prepared. Spell save DC: 15, Spell attack bonus: +7
+>***Rogue Spellcasting (Int, at level 20. Recharges on long rest).*** 4 cantrips known. 13 spells known. Spell save DC: 18, Spell attack bonus: +10
 >
->Spells always prepared: [fog cloud](http://azgaarnoth.tedneward.com/magic/spells/fog-cloud/),[thunderwave](http://azgaarnoth.tedneward.com/magic/spells/thunderwave/),[gust of wind](http://azgaarnoth.tedneward.com/magic/spells/gust-of-wind/),[shatter](http://azgaarnoth.tedneward.com/magic/spells/shatter/),[call lightning](http://azgaarnoth.tedneward.com/magic/spells/call-lightning/),[sleet storm](http://azgaarnoth.tedneward.com/magic/spells/sleet-storm/),[control water](http://azgaarnoth.tedneward.com/magic/spells/control-water/),[ice storm](http://azgaarnoth.tedneward.com/magic/spells/ice-storm/)
->
->* *Cantrips:* 
+>* *Cantrips:* [mage hand](http://azgaarnoth.tedneward.com/magic/spells/mage-hand/)
 >* *1st (4 slots):* 
 >* *2nd (3 slots):* 
 >* *3rd (3 slots):* 
->* *4th (2 slots):* 
+>* *4th (1 slots):* 
 >
->#### Rections
->***Wrath of the Storm (3/Recharges on long rest).*** When a creature within 5 feet of you that you can see hits you with an attack, you can cause the creature to make a Dexterity saving throw (DC 15). The creature takes 2d8 lightning or thunder damage (your choice) on a failed saving throw, and half as much damage on a successful one.
+>#### Reactions
+>***Uncanny Dodge.*** When an attacker that you can see hits you with an attack, you can halve the attack's damage against you.
+>
+>***Spell Thief (Recharges on long rest).*** Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can use your reaction to force the creature to make a DC 18 saving throw with its spellcasting ability modifier. On a failed save, you negate the spell's effect against you, and you steal the knowledge of the spell if it is at least 1st level and of a level you can cast (it doesn't need to be a wizard spell). For the next 8 hours, you know the spell and can cast it using your spell slots. The creature can't cast that spell until the 8 hours have passed.
 >
 >
 >#### Bonus Actions
->***Sharks Frenzy (Recharges on short or long rest).*** You can make a special attack with your Bite. If the attack hits, it deals its normal damage, and you gain 2 temporary hit points. These temporary hit points disappear when you finish a long rest.
+>***Cunning Action.*** You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action. You may also your Cunning Action to carefully aim your next attack. As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
 >
->***Channel Divinity: Harness Divine Power.*** You can expend a use of your Channel Divinity to regain one expended spell slot, the level of which can be no higher than 3.
+>***Versatile Trickster.*** You can designate a creature within 5 feet of the spectral hand created by the *mage hand* spell; doing so gives you advantage on attack rolls against that creature until the end of the turn.
 >
 
 #### Description
-***Race: Sahuagin.*** A fish-like monstrous humanoid species that lives in oceans, seas, underground lakes, and underwater caves.
-
-***Class: Cleric.*** Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
-
-***Divine Domain: Tempest.*** 
+***Roguish Archetype: Arcane Trickster.*** Some rogues enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion. These rogues include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers.
 
 ***Magic Item: Uncommon Permanent.***
 
 ***Magic Item: Uncommon Permanent.***
+
+***Magic Item: Rare Permanent.***
+
+***Magic Item: Rare Permanent.***
+
+***Magic Item: Very Rare Permanent.***
+
+***Magic Item: Legendary Permanent.***
 
 
 

@@ -2,6 +2,7 @@
 
 ```
 name = 'Orc'
+description = "***Race: Orc.*** "
 type = 'humanoid'
 ```
 

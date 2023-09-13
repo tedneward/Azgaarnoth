@@ -3,6 +3,7 @@ The platinum dragonborn are different from the other dragonborn in one way: the 
 
 ```
 name = 'Platinum'
+description = "***Platinum Dragonborn.***"
 ```
 
 > #### Game Notes

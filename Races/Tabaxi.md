@@ -22,10 +22,9 @@
 
 ```
 name = 'Tabaxi'
+description = "***Race: Tabaxi.*** Meow."
 type = 'humanoid'
 def level0(npc):
-    npc.description.append("***Race: Tabaxi.*** Meow.")
-
     npc.DEX += 2
     npc.CHA += 1
 
@@ -37,7 +36,7 @@ def level0(npc):
 
     npc.actions.append("***Feline Agility.*** When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can’t use it again until you move 0 feet on one of your turns.")
 
-    npc.defer(npc.actions.append(f"***Claws.*** Melee Weapon... 1d4 + {npc.STRbonus()} slashing damage"))
+    npc.defer(lambda npc: npc.actions.append(f"***Claws.*** Melee Weapon Attack: +{npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5ft., one target. Hit: 1d4 + {npc.STRbonus()} slashing damage"))
 
     npc.skills.append('Perception')
     npc.skills.append('Stealth')

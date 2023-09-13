@@ -22,10 +22,12 @@ def level3(npc):
 You can use a bonus action to make a Wisdom (Perception) check to spot a hidden creature or object or to make an Intelligence (Investigation) check to uncover or decipher clues.
 
 ```
-    npc.bonusactions.append("***Eye for Detail.*** You can use a bonus action to make a Wisdom (Perception) check to spot a hidden creature or object or to make an Intelligence (Investigation) check to uncover or decipher clues.")
+    npc.bonusactions.append("***Eye for Detail.*** You can make a Wisdom (Perception) check to spot a hidden creature or object or to make an Intelligence (Investigation) check to uncover or decipher clues.")
 ```
 
 ## Insightful Fighting
+*3rd-level Inquisitive feature*
+
 You gain the ability to decipher an opponent's tactics and develop a counter to them. As a bonus action, you make a Wisdom (Insight) check against a creature you can see that isn't incapacitated, contested by the target's Charisma (Deception) check. If you succeed, you can use your Sneak Attack against that target even if you don't have advantage on the attack roll, but not if you have disadvantage on it.
 
 This benefit lasts for 1 minute or until you successfully use this feature against a different target.
@@ -53,7 +55,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ```
 def level13(npc):
-    npc.defer(lambda npc: npc.actions.append("***Unerring Eye ({npc.WISbonus()}/Recharges on long rest).*** You sense the presence of illusions, shapechangers not in their original form, and other magic designed to deceive the senses within 30 feet of you, provided you aren't blinded or deafened. You sense that an effect is attempting to trick you, but you gain no insight into what is hidden or into its true nature."))
+    npc.defer(lambda npc: npc.actions.append(f"***Unerring Eye ({npc.WISbonus()}/Recharges on long rest).*** You sense the presence of illusions, shapechangers not in their original form, and other magic designed to deceive the senses within 30 feet of you, provided you aren't blinded or deafened. You sense that an effect is attempting to trick you, but you gain no insight into what is hidden or into its true nature."))
 ```
 
 ## Eye for Weakness

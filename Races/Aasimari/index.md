@@ -3,6 +3,7 @@
 
 ```
 name = 'Aasimar'
+description = "***Race: Aasimar.*** "
 type = 'humanoid/celestial'
 ```
 
@@ -28,8 +29,6 @@ type = 'humanoid/celestial'
 
 ```
 def level0(npc):
-    npc.description.append("***Race: Aasimar.*** ")
-
     npc.CHA += 2
     npc.size = 'Medium'
     npc.speed['walking'] = 30

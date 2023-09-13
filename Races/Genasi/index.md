@@ -19,10 +19,9 @@ Within Azgaarnoth, genasi are often viewed with a certain amount of suspicion or
 
 ```
 name = 'Genasi'
+description = "***Race: Genasi.*** Thought to trace their ancestry to the genies of the Elemental Planes, each genasi can tap into the power of one of the elements."
 type = 'humanoid'
 def level0(npc):
-    npc.description.append("***Race: Genasi.*** Thought to trace their ancestry to the genies of the Elemental Planes, each genasi can tap into the power of one of the elements.")
-
     npc.size = choose("Choose your size: ", ['Small', 'Medium'])
     npc.speed['walking'] = 30
 

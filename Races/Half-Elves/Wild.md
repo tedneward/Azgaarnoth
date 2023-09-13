@@ -7,13 +7,12 @@ One of your parents was a Wild Elf.
 
 ```
 name = 'Wild'
+description = "***Elvish Heritage: Wild Elf.*** One of your parents was a Wild Elf."
 def level0(npc):
-  npc.description.append("***Elvish Heritage: Wild Elf.*** One of your parents was a Wild Elf.")
-
   npc.proficiencies.append("Spear")
   npc.proficiencies.append("Net")
   npc.proficiencies.append("Longbow")
   npc.proficiencies.append("Shortbow")
 
-  npc.traits.append("***Cantrip***. You know one cantrip of your choice from the Druid spell list. Wisdom is your spellcasting ability for it.")
+  npc.newspellcasting('Wild Elf', 'WIS').cantripsknown.append("CHOOSE-Druid")
 ```

@@ -3,4 +3,5 @@ Like the dwarves and the elves, rumors abound of "dark gnomes" that live deep wi
 
 ```
 name = 'Dark'
+description = "***Dark Gnome.***"
 ```

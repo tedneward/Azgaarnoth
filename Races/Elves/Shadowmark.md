@@ -44,6 +44,7 @@ The Mark of Shadow only manifests on elves. If your character has the Mark of Sh
 
 ```
 name = 'Shadow Dragonmarked'
+description = "***Dragonmark: Mark of Shadow.*** A dragonmark is a distinctive symbol that appears on the skin. Dragonmarks are painted in vivid shades of blue and purple and seem to shimmer or even move slightly. When used, they grow warm to the touch. A dragonmark can’t be removed--even if a limb bearing a dragonmark is cut away, the mark eventually manifests on another part of the bearer’s body. The Mark of Shadow lets an elf weave illusions from shadows, crafting sounds and images to distract or delight. The mark also allows its bearer to draw on the shadows, making it an easy matter to avoid detection or even disappear while in plain sight. It is a valuable tool for an entertainer, a spy, or an assassin; each elf who bears it will have to decide which path to follow."
 def level0(npc):
     npc.CHA += 1
 
@@ -58,4 +59,17 @@ def level0(npc):
     npc.newspellcasting("Dragonmark", 'CHA').cantripsknown.append('minor illusion')
 
     npc.bonusactions.append("***Slip Into Shadow (Recharges on short or long rest).*** You can use the Hide action as a bonus action, even if you have no cover or if you’re under observation.")
+
+    quirk = random([
+        "Your dragonmark is unusually small.",
+        "Your dragonmark is remarkably large.",
+        "Your dragonmark slowly moves around your body.",
+        "Your dragonmark glows dramatically when you use it.",
+        "Your dargonmark emits a soft hum when you use it.",
+        "Your dragonmark itches when you’re near someone with a dragonmark.",
+        "Your dragonmark tingles when you’re near someone with the same mark.",
+        "Your dragonmark tickles when you use it.",
+        "Your dragonmark is an unusual color but a normal shape."
+    ])
+    npc.description.append(f"***Dragonmark Quirk.*** {quirk}")
 ```

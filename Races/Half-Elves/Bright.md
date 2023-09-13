@@ -9,9 +9,8 @@ One of your parents was a [Bright Elf](../Elves/Bright.md).
 
 ```
 name = 'Bright'
+description = "***Elvish Heritage: Bright Elf.*** One of your parents was a Bright Elf."
 def level0(npc):
-    npc.description.append("***Elvish Heritage: Bright Elf.*** One of your parents was a Bright Elf.")
-
     asi = choose("Choose an ability score increase:", ['STR', 'CON', 'INT', 'WIS', 'CHA'])
 
     if asi == 'STR': npc.STR += 1
@@ -21,7 +20,7 @@ def level0(npc):
     elif asi == 'CHA': npc.CHA += 1
 
     cantrip = choose("Choose a cantrip:", ['light', 'dancing lights', 'thaumaturgy'])
-    npc.cantripsknown.append(cantrip)
+    npc.newspellcasting('Half-Elf', 'CHA').cantripsknown.append(cantrip)
 
     npc.traits.append("***Brightfolk.*** You have advantage on saving throws to resist being blinded by effects that deal radiant damage or create light.")
     npc.damageresistances.append('radiant')

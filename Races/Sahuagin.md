@@ -4,6 +4,7 @@ A fish-like monstrous humanoid species that lives in oceans, seas, underground l
 
 ```
 name = 'Sahuagin'
+description = "***Race: Sahuagin.***"
 type = 'humanoid'
 ```
 

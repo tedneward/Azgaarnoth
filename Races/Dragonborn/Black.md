@@ -9,6 +9,7 @@ You have resistance to acid.
 
 ```
 name = 'Black'
+description = "***Black Dragonborn.***"
 def level0(npc):
     npc.damageresistances.append("acid")
     npc.defer(lambda npc: npc.actions.append(f"***Breath Weapon ({npc.CONbonus()}/Reharges on a long rest).*** You exhale destructive acid in a line 5' x 30'. All creatures in the area must make a DEX saving throw, DC {8 + npc.CONbonus() + npc.proficiencybonus()}. A creature takes {'2d6' if npc.levels() < 6 else '3d6' if npc.levels() < 11 else '4d6' if npc.levels() < 16 else '5d6'} acid damage on a failed save, or half on a successful one."))

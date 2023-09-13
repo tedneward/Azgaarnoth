@@ -5,19 +5,17 @@ For gnoll player characters, an important part of the backstory will include the
 
 ```
 name = 'Gnoll'
+description = "***Race: Gnoll.*** Gnolls are brutal hunters with a demonic ancestry who are fiercely loyal to their pack."
+type = 'humanoid'
 ```
 
 ## Gnoll Traits
 Gnolls are brutal hunters with a demonic ancestry who are fiercely loyal to their pack.
 
-```
-def level0(npc):
-    npc.description.append("***Race: Gnoll.*** Gnolls are brutal hunters with a demonic ancestry who are fiercely loyal to their pack.")
-```
-
 * **Ability Score Increase.** Your Strength score increases by 2 and your Dexterity score increases by 1.
 
 ```
+def level0(npc):
     npc.STR += 2
     npc.DEX += 1
 ```

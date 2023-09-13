@@ -3,4 +3,5 @@ Rock gnomes are often found in the Daw Range, but also within the many hillsides
 
 ```
 name = 'Rock'
+description = "***Rock Gnome.***"
 ```

@@ -7,9 +7,8 @@ Aside from their raw physical and arcane power, many types of devils possess the
 
 ```
 name = 'Devil\'s Tongue'
+description = "***Tiefling Bloodline: Devil's Tongue.*** Aside from their raw physical and arcane power, many types of devils possess the means to warp and affect the attention of others. Tieflings may inherit some of these traits from a manipulative devilish ancestor."
 def level0(npc):
-    npc.description.append("**Tiefling Bloodline: Devil's Tongue.*** Aside from their raw physical and arcane power, many types of devils possess the means to warp and affect the attention of others. Tieflings may inherit some of these traits from a manipulative devilish ancestor.")
-
     npc.INT += 1
 
     npc.cantripsknown.append("vicious mockery")

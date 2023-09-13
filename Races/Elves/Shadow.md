@@ -11,9 +11,8 @@ These elves remain a mystery even to their kin--their origins are lost, their ho
 
 ```
 name = 'Shadow'
+description = "***Subrace: Shadow Elf.*** These elves, the *shadar-kai*, remain a mystery even to their kin--their origins are lost, their homes are undiscovered, and their motives and allegiances are absolutely indiscernible. Individual *shadar-kai* have been seen wandering the world, identifiable more by their piercings and tatoos than anything else, leaving many to wonder if other *shadar-kai*, unpierced and untattooed, also wander the world--and why. *Eladrin* and *shadar-kai* are like reflections of each other: one bursting with emotion, the other nearly devoid of it."
 def level0(npc):
-  npc.description.append("***Subrace: Shadow Elf.*** These elves, the *shadar-kai*, remain a mystery even to their kin--their origins are lost, their homes are undiscovered, and their motives and allegiances are absolutely indiscernible. Individual *shadar-kai* have been seen wandering the world, identifiable more by their piercings and tatoos than anything else, leaving many to wonder if other *shadar-kai*, unpierced and untattooed, also wander the world--and why. *Eladrin* and *shadar-kai* are like reflections of each other: one bursting with emotion, the other nearly devoid of it.")
-
   npc.CON += 1
 
   npc.damageresistances.append('necrotic')
