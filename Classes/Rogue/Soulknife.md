@@ -9,6 +9,7 @@ As a Soulknife, your psionic abilities might have haunted you since you were a c
 At the 3rd level, you harbor a wellspring of psionic power within yourself, an energy that ebbs and flows as you channel it in various ways. This power is represented by your Psionic Talent die, the starting size of which is a d6.
 
 ***Psionic Talent Options.*** You can use your Psionic Talent die in the following ways:
+
 * **Psi-Bolstered Knack**. When your non-psionic training fails you, you can tap into your psionic power to help: if you fail an ability check using a skill or tool with which you have proficiency, you can roll your Psionic Talent die and add the number rolled to the check, potentially turning failure into success.
 * **Psychic Whispers**. You can use your psychic abilities to establish telepathic communication between yourself and others--perfect for quiet infiltration. As an action, you give yourself and at least one other creature the ability to speak telepathically with each other. When you do so, roll your Psionic Talent die, and choose creatures you can see, up to a number of creatures equal to the number rolled. For 1 hour, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can't use this telepathy if it can't speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don't need to speak a common language to understand each other.
 
@@ -25,6 +26,7 @@ After you attack with the blade, you can make a melee or ranged weapon attack wi
 
 ## Soul Blades
 At the 9th level, your Psychic Blades are now an expression of your psi-suffused soul, giving you finer control over them in the following ways:
+
 * **Homing Strikes**. If you make an attack roll with your Psychic Blades and miss the target, you can roll your Psionic Talent die and add the number rolled to the attack roll. If this causes the attack to hit, your Psionic Talent die decreases by one die size, regardless of the number rolled.
 * **Psychic Teleportation**. If your Psionic Talent die is available, you can hurl your Psychic Blades to magically transport yourself to another location. As a bonus action, you manifest one of your Psychic Blades and throw it at an unoccupied space you can see, up to a number of feet away equal to 5 times the highest number on your Psionic Talent die. You then teleport to that space, the blade vanishes, and your Psionic Talent die decreases by one die size.
 
@@ -38,4 +40,3 @@ At the 17th level, you can sweep your Psychic Blades directly through a creature
 
 Once you use this feature, you can't do so again until you finish a long rest, unless you decrease your Psionic Talent die by one die size to use this feature again.
 
-*Source: [Unearthed Arcana: Psionic Options](https://dnd.wizards.com/articles/unearthed-arcana/psionic-options-revisited)*

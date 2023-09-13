@@ -1,9 +1,8 @@
 # Roguish Archetype: Spellthief
-
 These rogues focus their skills and training on recognizing magical spells and stealing them from the caster. They then refocus that magical energy to power their own spells.
 
 ## Spellcasting
-When you reach 3rd level, you gain the ability to cast spells… as long as you can steal the magical energy from another caster. Good luck!
+When you reach 3rd level, you gain the ability to cast spells… as long as you can steal the magical energy from another caster.
 
 ## Spell List
 You can choose one spell list from any of the following: Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard. Once you have chosen a spell list, all the spells you cast will come from that spell list.

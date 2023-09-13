@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import argparse
+import dis
 import os
 import random
 import traceback
@@ -452,6 +453,8 @@ class NPC:
         self.conditionimmunities = []
 
         # Proficiencies are for weapons and armor only; everything else is a skill
+        # TODO: It sounds like 5e holds the idea that skills are just proficiencies,
+        # so maybe unify these two at some point in the future. Ditto for langs?
         self.proficiencies = []
         self.skills = []
 
