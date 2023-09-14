@@ -3,7 +3,7 @@ These rogues focus their skills and training on recognizing magical spells and s
 
 ```
 name = 'Spellthief'
-description = ""
+description = "***Roguish Archetype: Spellthief.*** These rogues focus their skills and training on recognizing magical spells and stealing them from the caster. They then refocus that magical energy to power their own spells."
 ```
 
 ## Spellcasting

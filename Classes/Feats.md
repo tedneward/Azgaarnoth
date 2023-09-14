@@ -1576,3 +1576,24 @@ You master the tinker techniques of your people. You gain the following benefits
 *Prerequisite: Elf (wood)*
 
 You learn the magic of the primeval woods, which are revered and protected by your people. You learn one druid cantrip of your choice. You also learn the [longstrider](../Magic/Spells/longstrider.md) and [pass without trace](../Magic/Spells/pass-without-trace.md) spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Wisdom is your spellcasting ability for all three spells.
+
+```
+def woodelfmagic():
+    def prereq(npc):
+        return npc.race.name == 'Elf' and npc.subrace.name = 'Wood'
+    def feat(npc):
+        npc.newspellcasting('Wood Elf Magic', 'WIS')
+        npc.spellcasting['Wood Elf Magic'].cantripsknown.append('CHOOSE-Druid')
+        npc.spellcasting['Wood Elf Magic'].spellsknown.append('longstrider')
+        npc.spellcasting['Wood Elf Magic'].spellsknown.append('pass without trace')
+
+    return { 'prereqs' : prereq, 'feat' : feat}
+```
+
+```
+feats = {
+    'Wood Elf Magic': woodelfmagic
+}
+def choosefeat(npc):
+
+```
