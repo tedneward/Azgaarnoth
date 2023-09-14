@@ -1,80 +1,84 @@
 >### Name
-*Small humanoid (Kobold) Rogue (Divine Agent) 20, any alignment*
+*Medium humanoid (Wood Elf) Fighter (Samurai) 20, any alignment*
 >___
->- **Armor Class** 12 (DEX (+2))
->- **Hit Points** 126 (20d8 + 12)
->- **Speed** 30 ft, swimming 30 ft
+>- **Armor Class** 20 (Chain mail (16),Mariner (+1),DEX (+3))
+>- **Hit Points** 165 (20d10 + 32)
+>- **Speed** 35 ft, swimming 35 ft, climbing 35 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:-:|:-:|:-:|:-:|:-:|:-:|
->|14 (+2)|15 (+2)|13 (+1)|11 (+0)|17 (+3)|11 (+0)|
+>|16 (+3)|17 (+3)|16 (+3)|11 (+0)|12 (+1)|11 (+0)|
 >___
 >- **Proficiency Bonus** +7
->- **Saving Throws** Dex +9,Int +7,Wis +10
+>- **Saving Throws** Str +10,Con +10,Wis +8
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
 >- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** Arcana +7,Acrobatics +16,Athletics +16,Deception +14,Insight +17
->- **Proficiencies** Light armor,Simple weapons,Hand crossbow,Longsword,Rapier,Shortsword,Thieves tools,Trident
->- **Senses** darkvision 60 ft, blindsense 10 ft, passive Perception 13
->- **Languages** 
+>- **Condition Immunities** sleep
+>- **Skills** Perception +8, Intimidation +7, History +7, Insight +8
+>- **Proficiencies** Longsword,Shortsword,Longbow,Shortbow,All armor and shields,Simple weapons,Martial weapons
+>- **Senses** darkvision 60 ft, passive Perception 18
+>- **Languages** Common,Elven
 >___
->***Evasion.*** When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+>***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
 >
->***Lucky (feat).*** TODO
+>***Trance.*** Elves do not sleep. Instead they meditate deeply, remaining semi-conscious, for 4 hours a day. The Common word for this meditation is 'trance'. While meditating, you dream after a fashion; such dreams are actually mental exercises that have become reflexive after years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep.
 >
->***Reliable Talent.*** Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
+>***Mask of the Wild.*** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 >
->***Divine Strike.*** Once on each of your turns when you hit a creature with a weapon attack you can cause the attack to deal an extra 2d6 radiant damage to the target.
+>***Tireless Spirit.*** When you roll initiative and have no uses of Fighting Spirit remaining, you regain one use.
 >
->***Vessel of the Many Forms.*** You can cast [alter self](http://azgaarnoth.tedneward.com/magic/spells/alter-self/) at will, without expending a spell slot. For you, this spell does not require concentration and lasts until it is dispelled.
+>***Rapid Strike.*** If you take the Attack action on your turn and have advantage on an attack roll against against one of the targets, you can forgo the advantage for that roll to make an additional weapon attack against that target, as part of the same action. You can do so no more than once per turn.
 >
->***Elusive.*** No attack roll has advantage against you while you aren't incapacitated.
+>***Action Surge (2/Recharges on short or long rest).*** On your turn, you can take one additional action on top of your regular action and a possible bonus action.
 >
->***Stroke of Luck (Recharges on short or long rest).*** If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
+>***Elegant Courier.*** Whenever you make a Charisma (Persuasion) check, you gain a +1 bonus.
 >
->***Sneak Attack.*** Once per turn, you can deal an extra 10d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
->
->***Expertise.*** Your proficiency bonus is doubled for any ability check that uses any of the following skills: Acrobatics,Athletics,Deception,Insight.
+>***Indomitable (3Recharges on long rest).*** You can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
 >
 >#### Actions
->***Rogue Spellcasting (Wis, at level 20. Recharges on long rest).*** 4 cantrips known. 12 spells known. Spell save DC: 18, Spell attack bonus: +10
+>***Multiattack.*** You can attack four times whenever you take the Attack action on your turn.
 >
->Spells always prepared: [fog cloud](http://azgaarnoth.tedneward.com/magic/spells/fog-cloud/),[create or destroy water](http://azgaarnoth.tedneward.com/magic/spells/create-or-destroy-water/),[misty step](http://azgaarnoth.tedneward.com/magic/spells/misty-step/),[chilling scythe](http://azgaarnoth.tedneward.com/magic/spells/chilling-scythe/),[tidal wave](http://azgaarnoth.tedneward.com/magic/spells/tidal-wave/),[water breathing](http://azgaarnoth.tedneward.com/magic/spells/water-breathing/),[control water](http://azgaarnoth.tedneward.com/magic/spells/control-water/),[watery sphere](http://azgaarnoth.tedneward.com/magic/spells/watery-sphere/),[maelstrom](http://azgaarnoth.tedneward.com/magic/spells/maelstrom/),[control winds](http://azgaarnoth.tedneward.com/magic/spells/control-winds/)
->
->* *Cantrips:* [guidance](http://azgaarnoth.tedneward.com/magic/spells/guidance/)
->* *1st (4 slots):* 
->* *2nd (3 slots):* 
->* *3rd (3 slots):* 
->* *4th (1 slots):* 
->
->#### Rections
->***Uncanny Dodge.*** When an attacker that you can see hits you with an attack, you can halve the attack's damage against you.
->
->***Wrath of the Wave (3/Recharge on long rest).*** When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw (DC 18). The creature takes 2d6 cold damage on a failed saving throw and is pushed back 10 feet, and half as much damage (and is not pushed) on a successful one.
+>#### Reactions
+>***Strength Before Death (Recharges on long rest).*** If you take damage that reduces you to 0 hit points, you can use your reaction to delay falling unconscious, and you can immediately take an extra turn. While you have 0 hit points during that extra turn, taking damage causes death saving throw failures as normal, and three death saving throw failures can still kill you. When the extra turn ends, you fall unconscious if you still have 0 hit points.
 >
 >
 >#### Bonus Actions
->***Cunning Action.*** You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action. You may also your Cunning Action to carefully aim your next attack. As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
+>***Second Wind (Recharges on short or long rest).*** On your turn, you can regain 1d10 + 20 hit points.
 >
->***Draconic Cry (7/Recharges on long rest).*** You let out a cry at your enemies within 10 feet of you. Until the start of your next turn, you and your allies have advantage on attack rolls against any of those enemies who could hear you.
+>***Fighting Spirit (3/Recharges on long rest).*** you can give yourself advantage on all weapon attack rolls until the end of the current turn. When you do so, you also gain 15 temporary hit points.
+>
+>
+>#### Equipment
+>Martial weapon
+>
+>Shield OR martial weapon
+>
+>Light crossbow and 20 bolts OR two handaxes
+>
+>Dungeoneer's pack, or explorer's pack
+>
+>***Magic Item: Uncommon Permanent.***
+>
+>***Magic Item: Uncommon Permanent.***
+>
+>***Magic Item: Rare Permanent.***
+>
+>***Magic Item: Rare Permanent.***
+>
+>***Magic Item: Very Rare Permanent.***
+>
+>***Magic Item: Legendary Permanent.***
 >
 
 #### Description
-***Roguish Archetype: Divine Agent.*** In secrecy and shadows, divine agents work to further the agendas of the gods. Although divine agents dedicate their service to a deity in a similar way to clerics, they are generally above many of the normal rules and conventions of the church. Usually, they answer only to their deity and use divine magic and blessings to augment their roguish skills.
+***Race: Elf.*** Elves are almost as diverse as humans in their occupations, entertainments, and while most elves have a strong familial tie between them, numerous elves have wandered away from home to make their mark within the world, then to return and take up familial responsibilities. Elves revere their familial ancestors, and will often have a shrine to a favored ancestor, but elves do not see their familial ancestors as gods, and many elves are quite comfortable serving in a religious order even as they put offerings to their revered ancestors out on important holidays.
 
-***Magic Item: Uncommon Permanent.***
+***Wood Elf.*** Wood elves and high elves are, by this point in Azgaarnoth's history, fairly well intermixed and are found in most locations all across Azgaarnoth; at this point in their evolution, no non-elf can tell the difference between them.
 
-***Magic Item: Uncommon Permanent.***
+***Class: Fighter.*** Fighters share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. They are well acquainted with death, both meting it out and staring it defiantly in the face.
 
-***Magic Item: Rare Permanent.***
-
-***Magic Item: Rare Permanent.***
-
-***Magic Item: Very Rare Permanent.***
-
-***Magic Item: Legendary Permanent.***
+***Martial Archetype: Samurai.*** The Samurai is a fighter who draws on an implacable fighting spirit to overcome enemies. A samurai's resolve is nearly unbreakable, and the enemies in a samurai's path have two choices: yield or die fighting.
 
 
 

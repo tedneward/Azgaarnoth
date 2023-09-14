@@ -3,7 +3,7 @@ You've had a soul-shaking realization: you've been dead before, yet somehow you 
 
 Revived are often mistaken for [Phantoms](Phantoms.md), and vice versa.
 
-The Revived are often found in [Dradehalia](../../Nations/Dradehalia.md); whether this is because that nation has been through so much conflict and war that they're more common to revive, or something darker to do with the [Dread Emperor](/People/DreadEmporer.md)'s willingness to explore dark activities is not clear.
+The Revived are often found in [Dradehalia](../../Nations/Dradehalia.md); whether this is because that nation has been through so much conflict and war that they're more common to revive, or something darker to do with the [Dread Emperor](../../People/DreadEmporer.md)'s willingness to explore dark activities is not clear.
 
 ```
 name = 'Revived'
@@ -63,7 +63,7 @@ After you cast the spell with this feature, you can't do so again until you fini
 
 ```
 def level9(npc):
-    npc.traits.append(f"***Connect with the Dead (Recharges on short or long rest).*** You cast the {spelllinkify(speak with dead)} spell, without using a spell slot or material components. Intelligence is your spellcasting ability for this spell. Speaking with the dead in this way temporarily gives you a capability from a past life--you're unsure whether it's from your past or the spirit's. When the spell ends, you gain one random benefit from the Revived Capabilities table: d6: (1-2) You learn how to speak, read, and write one language of your choice. (3-4) You gain one skill or tool proficiency of your choice. (5-6) You gain proficiency with one saving throw of your choice. After you cast the spell with this feature, you can't do so again until you finish a short or long rest.")
+    npc.traits.append(f"***Connect with the Dead (Recharges on short or long rest).*** You cast the {spelllinkify('speak with dead')} spell, without using a spell slot or material components. Intelligence is your spellcasting ability for this spell. Speaking with the dead in this way temporarily gives you a capability from a past life--you're unsure whether it's from your past or the spirit's. When the spell ends, you gain one random benefit from the Revived Capabilities table: d6: **1-2** You learn how to speak, read, and write one language of your choice. **3-4** You gain one skill or tool proficiency of your choice. **5-6** You gain proficiency with one saving throw of your choice.")
 ```
 
 ## Audience with Death
@@ -75,7 +75,7 @@ In addition, whenever you have 0 hit points and are healed or stabilized, you ca
 
 ```
 def level13(npc):
-    npc.traits.append("***Audience with Death.*** You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with "yes," "no," or "unknown." The entity answers truthfully, using the knowledge of all those who have died. In addition, whenever you have 0 hit points and are healed or stabilized, you can change any of your personal characteristics: personality trait, ideal, bond, or flaw.")
+    npc.traits.append("***Audience with Death.*** You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with 'yes', 'no,' or 'unknown'. The entity answers truthfully, using the knowledge of all those who have died. In addition, whenever you have 0 hit points and are healed or stabilized, you can change any of your personal characteristics: personality trait, ideal, bond, or flaw.")
 ```
 
 ## Ethereal Jaunt

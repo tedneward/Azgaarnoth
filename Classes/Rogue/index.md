@@ -3,6 +3,7 @@ Rogues rely on skill, stealth, and their foes' vulnerabilities to get the upper 
 
 ```
 name = 'Rogue'
+description = "***Class: Rogue.*** Rogues rely on skill, stealth, and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem, demonstrating a resourcefulness and versatility that is the cornerstone of any successful adventuring party."
 ```
 
 *You must have a Dexterity score of 13 or higher in order to multiclass in or out of this class.*
@@ -54,29 +55,6 @@ def everylevel(npc): npc.hits('d8')
 
 **Skills**: Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
 
-## Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
-* (a) a rapier or (b) a shortsword
-* (a) a shortbow and quiver of 20 arrows or (b) a shortsword
-* (a) a burglar's pack, (b) dungeoneer's pack, or (c) an explorer's pack
-* Leather armor, two daggers, and thieves' tools
-
-## Expertise
-*1st-level rogue feature*
-
-Choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
-
-At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.
-
-## Sneak Attack
-*1st-level rogue feature*
-
-You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
-
-You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
-
-The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
-
 ```
 def level1(npc):
     npc.proficiencies.append('Light armor')
@@ -95,10 +73,59 @@ def level1(npc):
     npc.skills.append(choose("Choose a skill: ", thiefskills))
     npc.skills.append(choose("Choose a skill: ", thiefskills))
     npc.skills.append(choose("Choose a skill: ", thiefskills))
+```
 
+## Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+
+* (a) a rapier or (b) a shortsword
+* (a) a shortbow and quiver of 20 arrows or (b) a shortsword
+* (a) a burglar's pack, (b) dungeoneer's pack, or (c) an explorer's pack
+* Leather armor, two daggers, and thieves' tools
+
+```
+    npc.equipment.append("Rapier OR shortsword")
+    npc.equipment.append("Shortbow and 20 arrows")
+    npc.equipment.append("Burglar's pack, dungeoneer's pack, or explorer's pack")
+    npc.armorclass['Leather armor'] = 11
+    npc.equipment.append("2 daggers")
+    npc.equipment.append("Thieves' tools")
+```
+
+## Thieves' Cant
+*1st-level rogue feature*
+
+During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
+
+In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+
+```
+    npc.languages.append("Thieves' Cant")
+```
+
+## Sneak Attack
+*1st-level rogue feature*
+
+You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+
+You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
+
+The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
+
+```
     # Sneak Attack
     npc.defer(lambda npc: npc.traits.append(f"***Sneak Attack.*** Once per turn, you can deal an extra {(npc.levels(name) + 1) // 2}d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll."))
+```
 
+
+## Expertise
+*1st-level rogue feature*
+
+Choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+
+At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.
+
+```
     # Expertise
     exp1 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
     exp2 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
@@ -128,13 +155,6 @@ def level6(npc):
     exp2 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
     npc.roguishexpertise += [ exp1, exp2 ]
 ```
-
-## Thieves' Cant
-*1st-level rogue feature*
-
-During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
-
-In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
 
 ## Cunning Action
 *2nd-level rogue feature*
