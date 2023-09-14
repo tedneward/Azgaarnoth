@@ -6,6 +6,7 @@ Dragonkin seem to hate dragonborn, and many will attack a dragonborn on sight. E
 ```
 name = 'Dragonkin'
 description = "***Race: Dragonkin.*** Thought to be a distant branch off of the same genetic line that created [dragonborn](Dragonborn.md), dragonkin are the larger, more muscular but more violent cousins to dragonborn. Most dragonkin originated out of the lands of the Hordes, though now dragonkin can be found all over Azgaarnoth, albeit rarely."
+type = 'humanoid'
 ```
 
 * **Ability Score increase**. Your Strength score increases by 2, and your Charisma score increases by 1.

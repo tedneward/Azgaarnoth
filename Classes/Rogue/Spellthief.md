@@ -25,13 +25,15 @@ def level3(npc):
     }
     castingchoice = choose("Choose a spell list: ", list(listchoices.keys()))
     spellcasting = npc.newspellcasting('Rogue', listchoices[castingchoice])
+    npc.spellthievery = castingchoice
 ```
 
 ### Cantrips
 You learn two cantrips from your spell list. You learn additional cantrips at 4th level and 10th level. You do not have to steal magical power to cast your cantrips.
 
 ```
-    npc.defer(lambda npc: spellcasting.cantripsknown = (2 if npc.levels('Rogue') < 4 else 3 if npc.levels('Rogue') else 4))
+    def assigncantrips(npc): spellcasting.maxcantripsknown = (2 if npc.levels('Rogue') < 4 else 3 if npc.levels('Rogue') else 4)
+    npc.defer(lambda npc: assigncantrips(npc))
 ```
 
 ### Spells Known and Maximum Level
@@ -92,14 +94,15 @@ Rogue Level |  Spells Known  | Maximum Level
         19: [12, 5],
         20: [13, 5],
     }
-    npc.defer(lambda npc: npc.maxspellsknown = spellcastingtable[npc.levels('Rogue')][0] )
+    def assignmaxspells(npc): npc.maxspellsknown = spellcastingtable[npc.levels('Rogue')][0]
+    npc.defer(lambda npc: assignmaxspells(npc) )
 ```
 
 ### Stealing Spells
 In order to cast a spell you know, you must steal the magical energy from a spellcaster who is actively casting a spell of their own. You can steal a number of spell levels equal to your rogue level per long rest. For example, if you are a 3rd level Spell Thief, you can steal up to 3 levels of spells per long rest.
 
 ```
-    npc.defer(lambda npc: npc.traits.append(f"***Spellthievery.*** You can learn and know spells up to level {spellcastingtable[npc.levels('Rogue')][1]}, and you can steal {npc.levels('Rogue')} total spell levels per long rest."))
+    npc.defer(lambda npc: npc.traits.append(f"***Spellthievery.*** You can learn and know {npc.spellthievery} spells up to level {spellcastingtable[npc.levels('Rogue')][1]}, and you can steal {npc.levels('Rogue')} total spell levels per long rest."))
 ```
 
 In order to steal the magical energy from a spellcaster, you must use your reaction. You must also be able to see the spellcaster and they must be within 30 feet of you.
@@ -121,7 +124,7 @@ As an action, you can steal a number of spell slots from a spellcaster equal to 
 
 ```
 def level9(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Spell Drain.*** You can steal a number of spell slots from a spellcaster equal to the maximum level spell you can cast and use those spell levels to cast a spell of your own. When you attempt to do this, the spellcaster must make a Wisdom saving throw (DC {8 + npc.proficiencybonus() + npc.abilitybonus()}). On a success, they block your attempt to steal their magical energy. On a failure, you steal their energy and can cast a spell with their spell slots. You must be within 30 feet of the spellcaster{', and these stolen spell slots count against the total number you can steal per long rest' if npc.levels('Rogue') < 17 else ', and these stolen spell slots do not count against your total number you can steal per long rest'}. {'If you are hidden from a spellcaster, you can use your Spell Drain ability without the target getting the chance to make a saving throw.' if npc.levels('Rogue') > 13 else ''}"))
+    npc.defer(lambda npc: npc.actions.append(f"***Spell Drain.*** You can steal a number of spell slots from a spellcaster equal to the maximum level spell you can cast and use those spell levels to cast a spell of your own. When you attempt to do this, the spellcaster must make a Wisdom saving throw (DC {8 + npc.proficiencybonus() + npc.abilitybonus(npc.spellcasting['Rogue'].ability)}). On a success, they block your attempt to steal their magical energy. On a failure, you steal their energy and can cast a spell with their spell slots. You must be within 30 feet of the spellcaster{', and these stolen spell slots count against the total number you can steal per long rest' if npc.levels('Rogue') < 17 else ', and these stolen spell slots do not count against your total number you can steal per long rest'}. {'If you are hidden from a spellcaster, you can use your Spell Drain ability without the target getting the chance to make a saving throw.' if npc.levels('Rogue') > 13 else ''}"))
 ```
 
 ## Hidden Spell Drain

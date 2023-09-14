@@ -9,7 +9,7 @@ Phantoms are often mistaken for [Revived](Revived.md), and vice versa.
 
 ```
 name = 'Phantom'
-description = "Many rogues walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some rogues discover a mystical connection to death itself. These rogues take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts. Rogues' guilds value them as highly effective information gatherers and spies."
+description = "***Roguish Archetype: Phantom.*** Many rogues walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some rogues discover a mystical connection to death itself. These rogues take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts. Rogues' guilds value them as highly effective information gatherers and spies."
 ```
 
 ## Whispers of the Dead

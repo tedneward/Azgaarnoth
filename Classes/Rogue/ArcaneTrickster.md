@@ -10,7 +10,7 @@ description = "***Roguish Archetype: Arcane Trickster.*** Some rogues enhance th
 ## Arcane Trickster Spellcasting
 *3rd-level Arcane Trickster feature*
 
-When you reach 3rd level, you augment your roguish prowess with the ability to cast spells.
+You augment your roguish prowess with the ability to cast spells.
 
 ### Cantrips
 You learn three cantrips: [mage hand](../../Magic/Spells/mage-hand.md) and two other cantrips of your choice from the wizard spell list. You learn another wizard cantrip of your choice at 10th level.
@@ -148,7 +148,7 @@ def level9(npc):
 ## Versatile Trickster
 *11th-level Arcane Trickster feature*
 
-You gain the ability to distract targets with your [mage hand](https://www.dndbeyond.com/spells/mage-hand). As a bonus action on your turn, you can designate a creature within 5 feet of the spectral hand created by the spell. Doing so gives you advantage on attack rolls against that creature until the end of the turn.
+You gain the ability to distract targets with your [mage hand](../../Magic/Spells/mage-hand.md). As a bonus action on your turn, you can designate a creature within 5 feet of the spectral hand created by the spell. Doing so gives you advantage on attack rolls against that creature until the end of the turn.
 
 ```
 def level11(npc):

@@ -10,11 +10,6 @@ name = 'Revived'
 description = "***Rogue Archetype: Revived.*** You've had a soul-shaking realization: you've been dead before, yet somehow you are alive again. This life isn't your first; it might not even be your second. Your past life, or lives, are unclear to you, but you know that you passed through the gates of death. And the powers of death, or some other influence, wasn't done with you. You might have convinced a deity to let you return to the Material Plane, perhaps you signed a deal with a fiend, or maybe you used an artifact that revived you. Whatever force brought you back, you now know the truth about yourself: that you are one of death's representatives among the living."
 ```
 
-```
-name = 'Revived'
-description = "***Rogue Archetype: Revived.*** You've had a soul-shaking realization: you've been dead before, yet somehow you are alive again. This life isn't your first; it might not even be your second. Your past life, or lives, are unclear to you, but you know that you passed through the gates of death. And the powers of death, or some other influence, wasn't done with you. You might have convinced a deity to let you return to the Material Plane, perhaps you signed a deal with a fiend, or maybe you used an artifact that revived you. Whatever force brought you back, you now know the truth about yourself: that you are one of death's representatives among the living."
-```
-
 ## Tokens of Past Lives
 *3rd-level Revived feature*
 
@@ -68,7 +63,7 @@ After you cast the spell with this feature, you can't do so again until you fini
 
 ```
 def level9(npc):
-    npc.traits.append(f"***Connect with the Dead (Recharges on short or long rest).*** You cast the {spelllinkify(speak with dead)} spell, without using a spell slot or material components. Intelligence is your spellcasting ability for this spell. Speaking with the dead in this way temporarily gives you a capability from a past life--you're unsure whether it's from your past or the spirit's. When the spell ends, you gain one random benefit from the Revived Capabilities table: d6: (1-2) You learn how to speak, read, and write one language of your choice. (3-4) You gain one skill or tool proficiency of your choice. (5-6) You gain proficiency with one saving throw of your choice. After you cast the spell with this feature, you can't do so again until you finish a short or long rest.")
+    npc.traits.append(f"***Connect with the Dead (Recharges on short or long rest).*** You cast the {spelllinkify('speak with dead')} spell, without using a spell slot or material components. Intelligence is your spellcasting ability for this spell. Speaking with the dead in this way temporarily gives you a capability from a past life--you're unsure whether it's from your past or the spirit's. When the spell ends, you gain one random benefit from the Revived Capabilities table: d6: **1-2** You learn how to speak, read, and write one language of your choice. **3-4** You gain one skill or tool proficiency of your choice. **5-6** You gain proficiency with one saving throw of your choice.")
 ```
 
 ## Audience with Death
@@ -80,7 +75,7 @@ In addition, whenever you have 0 hit points and are healed or stabilized, you ca
 
 ```
 def level13(npc):
-    npc.traits.append("***Audience with Death.*** You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with "yes," "no," or "unknown." The entity answers truthfully, using the knowledge of all those who have died. In addition, whenever you have 0 hit points and are healed or stabilized, you can change any of your personal characteristics: personality trait, ideal, bond, or flaw.")
+    npc.traits.append("***Audience with Death.*** You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with 'yes', 'no,' or 'unknown'. The entity answers truthfully, using the knowledge of all those who have died. In addition, whenever you have 0 hit points and are healed or stabilized, you can change any of your personal characteristics: personality trait, ideal, bond, or flaw.")
 ```
 
 ## Ethereal Jaunt

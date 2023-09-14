@@ -229,6 +229,10 @@ weapons = {
 
 # ------------------------------------
 # Module management
+def ismdfile(filepath): 
+    if os.path.isfile(filepath) and os.path.splitext(filepath)[1] == '.md': return True
+    else: return False
+
 def loadmodule(filename, modulename=None):
     def parsemd(mdfilename):
         pythoncode = ""
@@ -293,10 +297,6 @@ def loadmodule(filename, modulename=None):
 #   weight(npc) : function
 races = {}
 def loadraces():
-    def ismdfile(filepath): 
-        if os.path.isfile(filepath) and os.path.splitext(filepath)[1] == '.md': return True
-        else: return False
-
     racesroot = REPOROOT + 'Races'
     entries = os.listdir(racesroot)
     for f in entries:
@@ -335,10 +335,6 @@ def loadraces():
 # subclasses: map<string, dict(name, levelX functions)>
 classes = {}
 def loadclasses():
-    def ismdfile(filepath): 
-        if os.path.isfile(filepath) and os.path.splitext(filepath)[1] == '.md': return True
-        else: return False
-
     classesroot = REPOROOT + 'Classes'
     entries = os.listdir(classesroot)
     for f in entries:
@@ -374,6 +370,21 @@ def loadclasses():
 #         print("Loading " + str(c))
 
 # Feats....
+feats = {}
+def loadfeats():
+    featsroot = REPOROOT + 'Feats'
+    entries = os.listdir(featsroot)
+    for f in entries:
+        entry = featsroot + "/" + f
+
+        excludedentries = [ 'index.md' ]
+        
+        # Load class and subclasses
+        if (os.path.basename(entry) not in excludedentries):
+            log(f"Parsing Feat {entry}..."); print(f"Parsing Feat {entry}...")
+            featmodule = loadmodule(entry, os.path.basename(entry))
+            if featmodule != None:
+                feats[featmodule.name] = featmodule
 
 
 class NPC:
@@ -466,6 +477,8 @@ class NPC:
         self.actions = []
         self.bonusactions = []
         self.reactions = []
+
+        self.equipment = []
 
         # Spellcasting data; each is a hash tied to the name of the
         # class (or race, if it's Innate) whose spellcasting this is 
@@ -767,6 +780,11 @@ class NPC:
             for bonus in self.bonusactions:
                 result += f">{bonus}\n"
                 result +=  ">\n"
+        if len(self.equipment) > 0:
+            result +=  ">\n>#### Equipment\n"
+            for equip in self.equipment:
+                result += f">{equip}\n"
+                result +=  ">\n"
         result += "\n#### Description\n"
         for descrip in self.description:
             result += f"{descrip}\n\n"
@@ -820,13 +838,23 @@ def generatenpc():
                 setattr(npc, stat, current + scores[0])
                 scores.pop(0)
                 stats.remove(stat)
+        def npcstandard():
+            scores = [16, 15, 12, 12, 12, 8]
+            stats = ['STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA']
+            while len(stats) > 0:
+                stat = choose(f"Apply the {scores[0]}: ", stats)
+                current = getattr(npc, stat, 0)
+                setattr(npc, stat, current + scores[0])
+                scores.pop(0)
+                stats.remove(stat)
 
-        (choose("Method:", {"Standard": standard, "Hand": handentry, "Randomgen": randomgen, "Average": average}))[1]()
+        (choose("Method:", {"Standard": standard, "NPC": npcstandard, "Hand": handentry, "Randomgen": randomgen, "Average": average}))[1]()
 
     def selectrace():
         (_, mod) = choose("Choose a race: ", races)
         npc.race = mod
-        npc.type = mod.type
+        npc.type = npc.race.type
+        npc.description.append(npc.race.description)
         if getattr(npc.race, 'level0', None) != None:
             log('Firing racial level0')
             getattr(npc.race, 'level0', None)(npc)
@@ -834,6 +862,7 @@ def generatenpc():
         if getattr(npc.race, 'subraces', None) != None:
             (_, subracemod) = choose("Subrace: ", npc.race.subraces)
             npc.subrace = subracemod
+            npc.description.append(npc.subrace.description)
             if getattr(npc.subrace, 'level0', None) != None:
                 log('Firing subracial level0')
                 getattr(npc.subrace, 'level0', None)(npc)
@@ -865,6 +894,8 @@ def generatenpc():
         clss = choose("Choose class:", classes)[1]
         npc.classes.append(clss)
         clsslevel = npc.levels(clss)
+        if clsslevel == 1:
+            npc.description.append(clss.description)
         # Every class should have an "everylevel(npc)" function, so crash if its not there
         (getattr(clss, 'everylevel', None))(npc)
         levelinvoke(clss, clsslevel, npc)
@@ -873,17 +904,17 @@ def generatenpc():
 
         # Magic items
         if npc.levels() == 4:
-            npc.description.append("***Magic Item: Uncommon Permanent.***")
+            npc.equipment.append("***Magic Item: Uncommon Permanent.***")
         if npc.levels() == 7:
-            npc.description.append("***Magic Item: Uncommon Permanent.***")
+            npc.equipment.append("***Magic Item: Uncommon Permanent.***")
         if npc.levels() == 10:
-            npc.description.append("***Magic Item: Rare Permanent.***")
+            npc.equipment.append("***Magic Item: Rare Permanent.***")
         if npc.levels() == 13:
-            npc.description.append("***Magic Item: Rare Permanent.***")
+            npc.equipment.append("***Magic Item: Rare Permanent.***")
         if npc.levels() == 16:
-            npc.description.append("***Magic Item: Very Rare Permanent.***")
+            npc.equipment.append("***Magic Item: Very Rare Permanent.***")
         if npc.levels() == 19:
-            npc.description.append("***Magic Item: Legendary Permanent.***")
+            npc.equipment.append("***Magic Item: Legendary Permanent.***")
 
         levelup = False if (choose("Another level? ", ['Yes','No']) == 'No') else True
 

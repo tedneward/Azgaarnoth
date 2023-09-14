@@ -7,7 +7,7 @@ As a Soulknife, your psionic abilities might have haunted you since you were a c
 
 ```
 name = 'Soulknife'
-description = "R***oguish Archetype: Soulknife.*** Most assassins strike with physical weapons, and many burglars and spies use thieves' tools to infiltrate secure locations, whereas a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work."
+description = "***Roguish Archetype: Soulknife.*** Most assassins strike with physical weapons, and many burglars and spies use thieves' tools to infiltrate secure locations, whereas a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work."
 ```
 
 ## Psionic Talent
@@ -30,7 +30,7 @@ Whenever you finish a long rest, your Psionic Talent die resets to its starting 
 
 ```
 def level3(npc):
-    npc.defer(lambda npc: npc.traits.append("***Psionic Talent (Recharges on long rest).*** Your Psionic Talent die starts as a {'d6' if npc.levels('Rogue') < 5 else 'd8' if npc.levels('Rogue') < 11 else 'd10' if npc.levels('Rogue') < 17 else 'd12'}. If you roll the highest number on your Psionic Talent die, it decreases by one die size after the roll. Conversely, if you roll a 1 on your Psionic Talent die, it increases by one die size after the roll, up to its starting size. Whenever you finish a long rest, your Psionic Talent die resets to its starting size. When you reach certain levels in this class, the starting size of your Psionic Talent die increases: at 5th level (d8), 11th level (d10), and 17th level (d12)."))
+    npc.defer(lambda npc: npc.traits.append(f"***Psionic Talent (Recharges on long rest).*** Your Psionic Talent die starts as a {'d6' if npc.levels('Rogue') < 5 else 'd8' if npc.levels('Rogue') < 11 else 'd10' if npc.levels('Rogue') < 17 else 'd12'}. If you roll the highest number on your Psionic Talent die, it decreases by one die size after the roll. Conversely, if you roll a 1 on your Psionic Talent die, it increases by one die size after the roll, up to its starting size. Whenever you finish a long rest, your Psionic Talent die resets to its starting size."))
 ```
 
 ## Psychic Blades
@@ -41,10 +41,10 @@ You can manifest your psionic power as shimmering blades of psychic energy. When
 After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is 1d4, instead of 1d6.
 
 ```
-    npc.actions.append("***Psychic Blade.*** Melee Weapon Attack: +{npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5ft., one target. Hit: 1d6 + {npc.STRbonus()} psychic damage. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage. After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it.")
-    npc.actions.append("***Psychic Blade (Thrown).*** Ranged Weapon Attack: +{npc.proficiencybonus() + npc.DEXbonus()} to hit, Range 20/60, one target. Hit: 1d6 + {npc.DEXbonus()} psychic damage. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage. After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it.")
-    npc.bonusactions.append("***Psychic Blade.*** Melee Weapon Attack: +{npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5ft., one target. Hit: 1d4 + {npc.STRbonus()} psychic damage")
-    npc.bonusactions.append("***Psychic Blade (Thrown).*** Ranged Weapon Attack: +{npc.proficiencybonus() + npc.DEXbonus()} to hit, Range 20/60, one target. Hit: 1d4 + {npc.DEXbonus()} psychic damage")
+    npc.defer(lambda npc: npc.actions.append(f"***Psychic Blade.*** Melee Weapon Attack: +{npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5ft., one target. Hit: 1d6 + {npc.STRbonus()} psychic damage. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage. After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it."))
+    npc.defer(lambda npc: npc.actions.append(f"***Psychic Blade (Thrown).*** Ranged Weapon Attack: +{npc.proficiencybonus() + npc.DEXbonus()} to hit, Range 20/60, one target. Hit: 1d6 + {npc.DEXbonus()} psychic damage. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage. After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it."))
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Psychic Blade.*** Melee Weapon Attack: +{npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5ft., one target. Hit: 1d4 + {npc.STRbonus()} psychic damage"))
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Psychic Blade (Thrown).*** Ranged Weapon Attack: +{npc.proficiencybonus() + npc.DEXbonus()} to hit, Range 20/60, one target. Hit: 1d4 + {npc.DEXbonus()} psychic damage"))
 ```
 
 ## Soul Blades
@@ -58,7 +58,7 @@ Your Psychic Blades are now an expression of your psi-suffused soul, giving you 
 ```
 def level9(npc):
     npc.traits.append("***Homing Strikes.*** If you make an attack roll with your Psychic Blades and miss the target, you can roll your Psionic Talent die and add the number rolled to the attack roll. If this causes the attack to hit, your Psionic Talent die decreases by one die size, regardless of the number rolled.")
-    npc.bonusactions.append("***Psychic Teleportation.*** If your Psionic Talent die is available, you can hurl your Psychic Blades to magically transport yourself to another location. As a bonus action, you manifest one of your Psychic Blades and throw it at an unoccupied space you can see, up to a number of feet away equal to 5 times the highest number on your Psionic Talent die. You then teleport to that space, the blade vanishes, and your Psionic Talent die decreases by one die size.")
+    npc.bonusactions.append("***Psychic Teleportation.*** If your Psionic Talent die is available, you can hurl your Psychic Blades to magically transport yourself to another location by manifesting one of your Psychic Blades and throwing it at an unoccupied space you can see, up to a number of feet away equal to 5 times the highest number on your Psionic Talent die. You then teleport to that space, the blade vanishes, and your Psionic Talent die decreases by one die size.")
 ```
 
 ## Psionic Veil
@@ -82,5 +82,5 @@ Once you use this feature, you can't do so again until you finish a long rest, u
 
 ```
 def level17(npc):
-    npc.defer(lambda npc: npc.traits.append("***Rend Mind (Recharges on long rest or decreased Psionic Talent die).*** When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC {8 + npc.proficiencybonus() + npc.DEXbonus()}). Unless the save succeeds, the target is stunned until the end of your next turn."))
+    npc.defer(lambda npc: npc.traits.append(f"***Rend Mind (Recharges on long rest or decreased Psionic Talent die).*** When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC {8 + npc.proficiencybonus() + npc.DEXbonus()}). Unless the save succeeds, the target is stunned until the end of your next turn."))
 ```

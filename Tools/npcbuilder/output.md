@@ -1,80 +1,84 @@
 >### Name
-*Medium humanoid (Tabaxi) Rogue (Arcane Trickseter) 20, any alignment*
+*Medium humanoid (Wood Elf) Fighter (Samurai) 20, any alignment*
 >___
->- **Armor Class** 13 (DEX (+3))
->- **Hit Points** 120 (20d8 + 16)
->- **Speed** 30 ft, climbing 20 ft
+>- **Armor Class** 20 (Chain mail (16),Mariner (+1),DEX (+3))
+>- **Hit Points** 165 (20d10 + 32)
+>- **Speed** 35 ft, swimming 35 ft, climbing 35 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:-:|:-:|:-:|:-:|:-:|:-:|
->|11 (+0)|17 (+3)|13 (+1)|17 (+3)|11 (+0)|12 (+1)|
+>|16 (+3)|17 (+3)|16 (+3)|11 (+0)|12 (+1)|11 (+0)|
 >___
 >- **Proficiency Bonus** +7
->- **Saving Throws** Dex +10,Int +10,Wis +7
+>- **Saving Throws** Str +10,Con +10,Wis +8
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
 >- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** Perception +7,Stealth +10,Acrobatics +17,Athletics +14,Deception +15,Insight +14
->- **Proficiencies** Light armor,Simple weapons,Hand crossbow,Longsword,Rapier,Shortsword,Thieves tools
->- **Senses** darkvision 60 ft, blindsense 10 ft, passive Perception 17
->- **Languages** Common,CHOOSE
+>- **Condition Immunities** sleep
+>- **Skills** Perception +8, Intimidation +7, History +7, Insight +8
+>- **Proficiencies** Longsword,Shortsword,Longbow,Shortbow,All armor and shields,Simple weapons,Martial weapons
+>- **Senses** darkvision 60 ft, passive Perception 18
+>- **Languages** Common,Elven
 >___
->***Evasion.*** When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+>***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
 >
->***Magical Ambush.*** If you are hidden from a creature when you cast a spell on it, the creature has disadvantage on any saving throw it makes against the spell this turn.
+>***Trance.*** Elves do not sleep. Instead they meditate deeply, remaining semi-conscious, for 4 hours a day. The Common word for this meditation is 'trance'. While meditating, you dream after a fashion; such dreams are actually mental exercises that have become reflexive after years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep.
 >
->***Reliable Talent.*** Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
+>***Mask of the Wild.*** You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 >
->***Elusive.*** No attack roll has advantage against you while you aren't incapacitated.
+>***Tireless Spirit.*** When you roll initiative and have no uses of Fighting Spirit remaining, you regain one use.
 >
->***Stroke of Luck (Recharges on short or long rest).*** If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
+>***Rapid Strike.*** If you take the Attack action on your turn and have advantage on an attack roll against against one of the targets, you can forgo the advantage for that roll to make an additional weapon attack against that target, as part of the same action. You can do so no more than once per turn.
 >
->***Mage Hand Legerdemain.*** When you cast [mage hand](../../Magic/Spells/mage-hand.md), you can make the spectral hand invisible, and you can perform the following additional tasks with it: (1) You can stow one object the hand is holding in a container worn or carried by another creature. (2) You can retrieve an object in a container worn or carried by another creature. (3) You can use thieves' tools to pick locks and disarm traps at range. You can perform one of these tasks without being noticed by a creature if you succeed on a Dexterity (Sleight of Hand) check contested by the creature's Wisdom (Perception) check. In addition, you can use the bonus action granted by your Cunning Action to control the hand.
+>***Action Surge (2/Recharges on short or long rest).*** On your turn, you can take one additional action on top of your regular action and a possible bonus action.
 >
->***Sneak Attack.*** Once per turn, you can deal an extra 10d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
+>***Elegant Courier.*** Whenever you make a Charisma (Persuasion) check, you gain a +1 bonus.
 >
->***Expertise.*** Your proficiency bonus is doubled for any ability check that uses any of the following skills: Acrobatics,Athletics,Deception,Insight.
+>***Indomitable (3Recharges on long rest).*** You can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
 >
 >#### Actions
->***Feline Agility.*** When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can’t use it again until you move 0 feet on one of your turns.
->
->***Claws.*** Melee Weapon Attack: +7 to hit, reach 5ft., one target. Hit: 1d4 + 0 slashing damage
->
->***Rogue Spellcasting (Int, at level 20. Recharges on long rest).*** 4 cantrips known. 13 spells known. Spell save DC: 18, Spell attack bonus: +10
->
->* *Cantrips:* [mage hand](http://azgaarnoth.tedneward.com/magic/spells/mage-hand/)
->* *1st (4 slots):* 
->* *2nd (3 slots):* 
->* *3rd (3 slots):* 
->* *4th (1 slots):* 
+>***Multiattack.*** You can attack four times whenever you take the Attack action on your turn.
 >
 >#### Reactions
->***Uncanny Dodge.*** When an attacker that you can see hits you with an attack, you can halve the attack's damage against you.
->
->***Spell Thief (Recharges on long rest).*** Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can use your reaction to force the creature to make a DC 18 saving throw with its spellcasting ability modifier. On a failed save, you negate the spell's effect against you, and you steal the knowledge of the spell if it is at least 1st level and of a level you can cast (it doesn't need to be a wizard spell). For the next 8 hours, you know the spell and can cast it using your spell slots. The creature can't cast that spell until the 8 hours have passed.
+>***Strength Before Death (Recharges on long rest).*** If you take damage that reduces you to 0 hit points, you can use your reaction to delay falling unconscious, and you can immediately take an extra turn. While you have 0 hit points during that extra turn, taking damage causes death saving throw failures as normal, and three death saving throw failures can still kill you. When the extra turn ends, you fall unconscious if you still have 0 hit points.
 >
 >
 >#### Bonus Actions
->***Cunning Action.*** You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action. You may also your Cunning Action to carefully aim your next attack. As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
+>***Second Wind (Recharges on short or long rest).*** On your turn, you can regain 1d10 + 20 hit points.
 >
->***Versatile Trickster.*** You can designate a creature within 5 feet of the spectral hand created by the *mage hand* spell; doing so gives you advantage on attack rolls against that creature until the end of the turn.
+>***Fighting Spirit (3/Recharges on long rest).*** you can give yourself advantage on all weapon attack rolls until the end of the current turn. When you do so, you also gain 15 temporary hit points.
+>
+>
+>#### Equipment
+>Martial weapon
+>
+>Shield OR martial weapon
+>
+>Light crossbow and 20 bolts OR two handaxes
+>
+>Dungeoneer's pack, or explorer's pack
+>
+>***Magic Item: Uncommon Permanent.***
+>
+>***Magic Item: Uncommon Permanent.***
+>
+>***Magic Item: Rare Permanent.***
+>
+>***Magic Item: Rare Permanent.***
+>
+>***Magic Item: Very Rare Permanent.***
+>
+>***Magic Item: Legendary Permanent.***
 >
 
 #### Description
-***Roguish Archetype: Arcane Trickster.*** Some rogues enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion. These rogues include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers.
+***Race: Elf.*** Elves are almost as diverse as humans in their occupations, entertainments, and while most elves have a strong familial tie between them, numerous elves have wandered away from home to make their mark within the world, then to return and take up familial responsibilities. Elves revere their familial ancestors, and will often have a shrine to a favored ancestor, but elves do not see their familial ancestors as gods, and many elves are quite comfortable serving in a religious order even as they put offerings to their revered ancestors out on important holidays.
 
-***Magic Item: Uncommon Permanent.***
+***Wood Elf.*** Wood elves and high elves are, by this point in Azgaarnoth's history, fairly well intermixed and are found in most locations all across Azgaarnoth; at this point in their evolution, no non-elf can tell the difference between them.
 
-***Magic Item: Uncommon Permanent.***
+***Class: Fighter.*** Fighters share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. They are well acquainted with death, both meting it out and staring it defiantly in the face.
 
-***Magic Item: Rare Permanent.***
-
-***Magic Item: Rare Permanent.***
-
-***Magic Item: Very Rare Permanent.***
-
-***Magic Item: Legendary Permanent.***
+***Martial Archetype: Samurai.*** The Samurai is a fighter who draws on an implacable fighting spirit to overcome enemies. A samurai's resolve is nearly unbreakable, and the enemies in a samurai's path have two choices: yield or die fighting.
 
 
 

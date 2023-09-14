@@ -52,11 +52,13 @@ def level0(npc):
     npc.proficiencies.append('Longsword')
     npc.proficiencies.append('Greatsword')
 
-    npc.cantripsknown.append('mage hand')
+    npc.newspellcasting('Githyanki', 'INT').cantripsknown.append('mage hand')
 
 def level3(npc):
-    npc.actions.append(f"***Psionics (Recharge on long rest).*** You can cast the {spelllinkify('jump')} spell. Intelligence is your spellcasting ability for this spell.")
+    npc.spellcasting['Githyanki'].spells[1].append('jump')
+    npc.spellcasting['Githyanki'].slots = [ 1 ]
 
 def level5(npc):
-    npc.actions.append(f"***Improved Psionics (Recharge on long rest).*** You can cast the {spelllinkify('misty step')} spell. Intelligence is your spellcasting ability for this spell.")
+    npc.spellcasting['Githyanki'].spells[2].append('misty step')
+    npc.spellcasting['Githyanki'].slots = [ 1, 1 ]
 ```
