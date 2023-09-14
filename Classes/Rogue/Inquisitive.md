@@ -13,7 +13,7 @@ You develop a keen ear for picking out lies. Whenever you make a Wisdom (Insight
 
 ```
 def level3(npc):
-    npc.traits.append("***Ear for Deceit.*** Whenever you make a Wisdom (Insight) check to determine whether a creature is lying, treat a roll of 7 or lower on the d20 as an 8.")
+    npc.traits.append("***Ear for Deceit.***  Whenever you make a Wisdom (Insight) check to determine whether a creature is lying, treat a roll of 7 or lower on the d20 as an 8.")
 ```
 
 ## Eye for Detail
@@ -33,7 +33,7 @@ You gain the ability to decipher an opponent's tactics and develop a counter to 
 This benefit lasts for 1 minute or until you successfully use this feature against a different target.
 
 ```
-    npc.defer(lambda npc: npc.bonusactions.append(f"***Insightful Fighting.*** You make a Wisdom (Insight) check against a creature you can see that isn't incapacitated, contested by the target's Charisma (Deception) check. If you succeed, you can use your Sneak Attack{' (increased by 3d6)' if npc.levels('Rogue') >= 17 else ''} against that target even if you don't have advantage on the attack roll, but not if you have disadvantage on it. This benefit lasts for 1 minute or until you successfully use this feature against a different target."))
+    npc.defer(lambda npc: npc.bonusactions.append("***Insightful Fighting.*** You make a Wisdom (Insight) check against a creature you can see that isn't incapacitated, contested by the target's Charisma (Deception) check. If you succeed, you can use your Sneak Attack{' plus 3d6 additional damage' if npc.levels('Rogue') >= 17 else ''} against that target even if you don't have advantage on the attack roll, but not if you have disadvantage on it. This benefit lasts for 1 minute or until you successfully use this feature against a different target."))
 ```
 
 ## Steady Eye
@@ -62,4 +62,3 @@ def level13(npc):
 *17th-level Inquisitive feature*
 
 You learn to exploit a creature's weaknesses by carefully studying its tactics and movement. While your Insightful Fighting feature applies to a creature, your Sneak Attack damage against that creature increases by 3d6.
-
