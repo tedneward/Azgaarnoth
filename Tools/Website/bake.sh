@@ -27,10 +27,10 @@ done
 mkdocs build
 
 # Upload it (via Dropbox)
-target="~/Dropbox/Apps/site44/azgaarnoth.tedneward.com"
+target="~/Dropbox/Apps/site44/azgaarnoth.tedneward.com/"
 if test -f "sitetarget"; then
   target=`cat sitetarget`
 fi
 
 echo "Copying site to $target..."
-cp -r site/* $target
+cp -Rv site/* $target

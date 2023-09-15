@@ -10,8 +10,6 @@ type = 'humanoid'
 
 ```
 def level0(npc):
-    npc.description.append("***Race: Orc.*** ")
-
     npc.STR += 2
     npc.CON += 1
     npc.INT -= 2
