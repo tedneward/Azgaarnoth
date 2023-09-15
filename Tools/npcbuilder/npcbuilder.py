@@ -364,10 +364,21 @@ def loadclasses():
                 classes[basemodule.name] = basemodule
 
 # Backgrounds....
+#backgrounds = {}
 #def loadbackgrounds():
-#    backgrounds = os.listdir(REPOROOT + 'Cultures/Backgrounds')
-#    for c in backgrounds:
-#         print("Loading " + str(c))
+#    backgroundsroot = os.listdir(REPOROOT + 'Cultures/Backgrounds')
+#    entries = os.listdir(backgroundsroot)
+#    for f in entries:
+#        entry = backgroundsroot + "/" + f
+#
+#        excludedentries = [ 'index.md' ]
+#        
+#        # Load class and subclasses
+#        if (ismdfile(entry) and os.path.basename(entry) not in excludedentries):
+#            log(f"Parsing Feat {entry}...")
+#            bgmodule = loadmodule(entry, os.path.basename(entry))
+#            if bgmodule != None:
+#                backgrounds[bgmodule.name] = bgmodule
 
 # Feats....
 feats = {}
@@ -380,8 +391,8 @@ def loadfeats():
         excludedentries = [ 'index.md' ]
         
         # Load class and subclasses
-        if (os.path.basename(entry) not in excludedentries):
-            log(f"Parsing Feat {entry}..."); print(f"Parsing Feat {entry}...")
+        if (ismdfile(entry) and os.path.basename(entry) not in excludedentries):
+            log(f"Parsing Feat {entry}...")
             featmodule = loadmodule(entry, os.path.basename(entry))
             if featmodule != None:
                 feats[featmodule.name] = featmodule
@@ -868,13 +879,17 @@ def generatenpc():
                 getattr(npc.subrace, 'level0', None)(npc)
 
     # Do we want to start with race, class, or ability scores?
-    startoptions = ['Ability Scores', 'Race']
+    startoptions = ['Ability Scores', 'Race']#, 'Gender', 'Name']
     while len(startoptions) > 0:
         opt = choose("Decide which?", startoptions)
         if opt == 'Ability Scores':
             selectabilities()
         elif opt == 'Race':
             selectrace()
+        #elif opt == 'Gender':
+        #    npc.gender = choose("Choose gender: ", ['Male', 'Female'])
+        #elif opt == 'Name':
+        #    npc.name = generatename()
         startoptions.remove(opt)
 
     # That's level 0; now do level 1+
