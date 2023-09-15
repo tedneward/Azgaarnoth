@@ -150,7 +150,7 @@ The archetype you choose grants you traits at 3rd level and again at 7th, 10th, 
 def level3(npc):
     # Choose subclass
     (_, subclass) = choose("Choose a Martial Archetype:", subclasses)
-    npc.subclasses[npc.classmodulefor('Fighter')] = subclass
+    npc.subclasses[allclasses['Fighter']] = subclass
     npc.description.append(subclass.description)
 ```
 

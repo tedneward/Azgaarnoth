@@ -210,8 +210,8 @@ Choose one domain:
 Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use [Channel Divinity](#channel-divinity) when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
 ```
-    (_, subclass) = choose("Choose a domain: ", classes['Cleric'].subclasses)
-    npc.subclasses[classes['Cleric']] = subclass
+    (_, subclass) = choose("Choose a domain: ", subclasses)
+    npc.subclasses[allclasses['Cleric']] = subclass
     npc.description.append(subclass.description)
 ```
 
