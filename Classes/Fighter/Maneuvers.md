@@ -8,7 +8,12 @@ Maneuvers are available to [Battle Master](BattleMaster.md)s and to characters w
 ***Superiority Dice.*** The study of maneuvers will grant one or more superiority dice; a superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
 
 ### Ambush
-When you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add the die to the roll, provided you aren't incapacitated. 
+When you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add the die to the roll, provided you aren't incapacitated.
+
+```
+def ambush(npc):
+    npc.traits.append("***Manevuer: Ambush.*** When you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add the die to the roll, provided you aren't incapacitated.")
+```
 
 ### Bait and Switch
 When you're within 5 feet of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and isn't incapacitated. This movement doesn't provoke opportunity attacks.
@@ -90,4 +95,8 @@ When you make an Intelligence (Investigation), an Intelligence (History), or a W
 ### Trip Attack
 When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
 
+```
+fightingmaneuvers = {
 
+}
+```
