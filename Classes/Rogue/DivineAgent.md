@@ -14,9 +14,9 @@ Choose a domain from your chosen deity's list of eligible domains, you gain the 
 ```
 def level3(npc):
     spellcasting = npc.newspellcasting('Rogue', 'WIS')
-    spellcasting.casterclass = allclasses['Rogue']
-    (domainname, domain) = choose("Choose a domain: ", allclasses['Cleric'].subclasses)
-    domain.baseclass = allclasses['Rogue']
+    spellcasting.casterclass = classes['Rogue']
+    (domainname, domain) = choose("Choose a domain: ", classes['Cleric'].subclasses)
+    domain.baseclass = classes['Rogue']
     domain.level1(npc)
 ```
 

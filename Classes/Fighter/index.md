@@ -158,40 +158,13 @@ def level3(npc):
 When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ```
-def level4(npc):
-    # Choose ability score improvement (or Feat)
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level6(npc):
-    # Choose ability score improvement (or Feat)
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level8(npc):
-    # Choose ability score improvement (or Feat)
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level12(npc):
-    # Choose ability score improvement (or Feat)
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level14(npc):
-    # Choose ability score improvement (or Feat)
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level16(npc):
-    # Choose ability score improvement (or Feat)
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level19(npc):
-    # Choose ability score improvement (or Feat)
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
+def level4(npc): abilityscoreimprovement(npc)
+def level6(npc): abilityscoreimprovement(npc)
+def level8(npc): abilityscoreimprovement(npc)
+def level12(npc): abilityscoreimprovement(npc)
+def level14(npc): abilityscoreimprovement(npc)
+def level16(npc): abilityscoreimprovement(npc)
+def level19(npc): abilityscoreimprovement(npc)
 ```
 
 ### Martial Versatility

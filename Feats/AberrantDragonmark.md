@@ -35,7 +35,7 @@ You gain the following benefits.
 * You can increase the power of your aberrant spells at the risk of your own vitality. When you cast a spell with your aberrant mark, you can use one of your Hit Die to increase the spell's level by 1. Immediately after you cast the spell, roll the Hit Die. You take damage equal to the number rolled.
 
 ```
-def applied(npc):
+def apply(npc):
     npc.CON += 20
     spellcasting = npc.newspellcasting['AberrantDragonmark', 'CON']
     spellcasting.cantripsknown.append("CHOOSE-Sorcerer")

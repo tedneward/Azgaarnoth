@@ -191,8 +191,8 @@ Your archetype choice grants you features at 3rd level and then again at 9th, 13
 
 ```
 def level3(npc):
-    (_, subclass) = choose("Choose a subclass: ", allclasses['Rogue'].subclasses)
-    npc.subclasses[allclasses['Rogue']] = subclass
+    (_, subclass) = choose("Choose a subclass: ", classes['Rogue'].subclasses)
+    npc.subclasses[classes['Rogue']] = subclass
     npc.description.append(subclass.description)
 ```
 
@@ -200,29 +200,12 @@ def level3(npc):
 When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ```
-def level4(npc):
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level8(npc):
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level10(npc):
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level12(npc):
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level16(npc):
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level19(npc):
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
+def level4(npc): abilityscoreimprovement(npc)
+def level8(npc): abilityscoreimprovement(npc)
+def level10(npc): abilityscoreimprovement(npc)
+def level12(npc): abilityscoreimprovement(npc)
+def level16(npc): abilityscoreimprovement(npc)
+def level19(npc): abilityscoreimprovement(npc)
 ```
 
 ## Uncanny Dodge

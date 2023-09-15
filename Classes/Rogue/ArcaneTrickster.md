@@ -58,7 +58,7 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 ```
 def level3(npc):
     spellcasting = npc.newspellcasting('Rogue', 'INT')
-    spellcasting.casterclass = allclasses['Rogue']
+    spellcasting.casterclass = classes['Rogue']
 
     npc.spellcasting['Rogue'].cantripsknown.append("mage hand")
     npc.spellcasting['Rogue'].maxcantripsknown = 3

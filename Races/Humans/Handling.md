@@ -16,8 +16,15 @@ description = "***Dragonmark: Mark of Handling.*** A dragonmark is a distinctive
 
 def level0(npc):
     npc.DEX += 1
-    npc.WIS ++ 1
-    npc.abilityscoreimprovement()
+    npc.WIS += 1
+    abilities = [ 'STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA']
+    ability = choose("Choose an ability to improve: ", abilities)
+    if ability == 'STR': npc.STR += 1
+    elif ability == 'DEX': npc.DEX += 1
+    elif ability == 'CON': npc.CON += 1
+    elif ability == 'INT': npc.INT += 1
+    elif ability == 'WIS': npc.WIS += 1
+    elif ability == 'CHA': npc.CHA += 1
 
     npc.traits.append("***Wild Intuition.*** When you make a Wisdom (Animal Handling) or Intelligence (Nature) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.")
 

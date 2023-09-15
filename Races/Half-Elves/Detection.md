@@ -59,7 +59,14 @@ def level0(npc):
 
     npc.INT += 1
     npc.CHA += 1
-    npc.abilityscoreimprovement()
+    abilities = [ 'STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA']
+    ability = choose("Choose an ability to improve: ", abilities)
+    if ability == 'STR': npc.STR += 1
+    elif ability == 'DEX': npc.DEX += 1
+    elif ability == 'CON': npc.CON += 1
+    elif ability == 'INT': npc.INT += 1
+    elif ability == 'WIS': npc.WIS += 1
+    elif ability == 'CHA': npc.CHA += 1
 
     npc.traits.append("***Deductive Intuition.*** When you make an Intelligence (Investigation) or Wisdom (Insight) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.")
 

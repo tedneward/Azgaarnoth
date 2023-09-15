@@ -177,6 +177,29 @@ def dieroll(dpattern):
         accum += random.randint(1, int(size))
     return accum
 
+def choosefeat(npc):
+    choices = {}
+    for featmod in feats:
+        if featmod.prereq == None or featmod.prereq(npc):
+            choices[featmod.name] = featmod
+    (_, chosenfeatmod) = choose("Choose a feat: ", choices)
+    chosenfeatmod.apply(npc)
+
+def abilityscoreimprovement(npc):
+    asiorfeat = choose("Ability Score Improvement, or Feat?", ['Ability', 'Feat'])
+    if asiorfeat == 'Ability':
+        for _ in range(0,2):
+            abilities = [ 'STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA']
+            ability = choose("Choose an ability to improve: ", abilities)
+            if ability == 'STR': npc.STR += 1
+            elif ability == 'DEX': npc.DEX += 1
+            elif ability == 'CON': npc.CON += 1
+            elif ability == 'INT': npc.INT += 1
+            elif ability == 'WIS': npc.WIS += 1
+            elif ability == 'CHA': npc.CHA += 1
+    else:
+        choosefeat(npc)
+
 traits = {
     'amphibious' : "***Amphibious.*** You can breathe air and water.",
     'fey-ancestry' : "***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.",
@@ -258,12 +281,14 @@ def loadmodule(filename, modulename=None):
         builtins = {
             "allclasses": classes,
             "allraces": races,
+            "feats": feats,
             "traits": traits,
             "spelllinkify": spelllinkify,
             "choose": choose,
             "replace": replace,
             "random": randomlist,
             "dieroll": dieroll,
+            "abilityscoreimprovement": abilityscoreimprovement,
             "min": min,
             "len": len,
             "print": print,
