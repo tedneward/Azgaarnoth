@@ -47,8 +47,8 @@ def level0(npc):
 
     npc.traits.append("***Hold Breath.*** You can hold your breath for up to 15 minutes at a time.")
 
-    npc.skills.append(choose("Choose a skill: ", ['Animal Handling', 'Nature', 'Perception', 'Stealth', 'Survival']))
-    npc.skills.append(choose("Choose a skill: ", ['Animal Handling', 'Nature', 'Perception', 'Stealth', 'Survival']))
+    chooseskill(npc, ['Animal Handling', 'Nature', 'Perception', 'Stealth', 'Survival'])
+    chooseskill(npc, ['Animal Handling', 'Nature', 'Perception', 'Stealth', 'Survival'])
 
     npc.armorclass['natural armor'] = 13
 

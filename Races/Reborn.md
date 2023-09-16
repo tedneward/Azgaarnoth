@@ -56,9 +56,15 @@ type = 'humanoid/undead'
 
 ```
 def level0(npc):
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
+    abilities = [ 'STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA']
+    for _ in range(0, 3):
+        ability = choose("Choose an ability to improve: ", abilities)
+        if ability == 'STR': npc.STR += 1
+        elif ability == 'DEX': npc.DEX += 1
+        elif ability == 'CON': npc.CON += 1
+        elif ability == 'INT': npc.INT += 1
+        elif ability == 'WIS': npc.WIS += 1
+        elif ability == 'CHA': npc.CHA += 1
 ```
 
 * **Size.** Medium or Small (choose when you gain this lineage)

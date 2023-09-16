@@ -41,11 +41,13 @@ def level0(npc):
     npc.languages.append('Gith')
 
     npc.traits.append("***Mental Discipline.*** You have advantage on saving throws against the charmed and frightened conditions.")
-    npc.cantripsknown.append('mage hand')
+    npc.newspellcasting('Githzerai', 'WIS').cantripsknown.append('mage hand')
 
 def level3(npc):
-    npc.actions.append(f"***Psionics (Recharge on long rest).*** You can cast the {spelllinkify('shield')} spell. Wisdom is your spellcasting ability for this spell.")
+    npc.spellcasting['Githzerai'].spells[1].append("shield")
+    npc.spellcasting['Githzerai'].slots = [ 1 ]
 
 def level5(npc):
-    npc.actions.append(f"***Improved Psionics (Recharge on long rest).*** You can cast the {spelllinkify('detect thoughts')} spell. Wisdom is your spellcasting ability for this spell.")
+    npc.spellcasting['Githzerai'].spells[2].append("detect thoughts")
+    npc.spellcasting['Githzerai'].slots = [ 1,1 ]
 ```

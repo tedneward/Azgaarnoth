@@ -177,6 +177,45 @@ def dieroll(dpattern):
         accum += random.randint(1, int(size))
     return accum
 
+def choosefeat(npc):
+    choices = {}
+    for (featname, featmod) in feats.items():
+        print(f"Examining {featmod}")
+        if featmod.prereq == None or featmod.prereq(npc):
+            choices[featname] = featmod
+    (_, chosenfeatmod) = choose("Choose a feat: ", choices)
+    chosenfeatmod.apply(npc)
+
+def chooseskill(npc, skills = None):
+    skilllist = None
+    if skills != None:
+        skilllist = skills.copy()
+    else:
+        skilllist = [ 'Acrobatics', 'Animal Handling', 'Arcana','Athletics',
+            'Deception', 'History', 'Insight', 'Intimidation', 'Investigation',
+            'Medicine', 'Nature', 'Perception', 'Performance', 'Persuasion',
+            'Religion', 'Sleight of Hand', 'Stealth', 'Survival']
+    
+    for sk in npc.skills:
+        skilllist.remove(sk)
+
+    npc.skills.append(choose("Choose a skill:", skilllist))
+
+def abilityscoreimprovement(npc):
+    asiorfeat = choose("Ability Score Improvement, or Feat?", ['Ability', 'Feat'])
+    if asiorfeat == 'Ability':
+        for _ in range(0,2):
+            abilities = [ 'STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA']
+            ability = choose("Choose an ability to improve: ", abilities)
+            if ability == 'STR': npc.STR += 1
+            elif ability == 'DEX': npc.DEX += 1
+            elif ability == 'CON': npc.CON += 1
+            elif ability == 'INT': npc.INT += 1
+            elif ability == 'WIS': npc.WIS += 1
+            elif ability == 'CHA': npc.CHA += 1
+    else:
+        choosefeat(npc)
+
 traits = {
     'amphibious' : "***Amphibious.*** You can breathe air and water.",
     'fey-ancestry' : "***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.",
@@ -258,12 +297,16 @@ def loadmodule(filename, modulename=None):
         builtins = {
             "allclasses": classes,
             "allraces": races,
+            "feats": feats,
             "traits": traits,
             "spelllinkify": spelllinkify,
             "choose": choose,
+            "choosefeat":choosefeat,
+            "chooseskill": chooseskill,
             "replace": replace,
             "random": randomlist,
             "dieroll": dieroll,
+            "abilityscoreimprovement": abilityscoreimprovement,
             "min": min,
             "len": len,
             "print": print,
@@ -364,12 +407,26 @@ def loadclasses():
                 classes[basemodule.name] = basemodule
 
 # Backgrounds....
+#backgrounds = {}
 #def loadbackgrounds():
-#    backgrounds = os.listdir(REPOROOT + 'Cultures/Backgrounds')
-#    for c in backgrounds:
-#         print("Loading " + str(c))
+#    backgroundsroot = os.listdir(REPOROOT + 'Cultures/Backgrounds')
+#    entries = os.listdir(backgroundsroot)
+#    for f in entries:
+#        entry = backgroundsroot + "/" + f
+#
+#        excludedentries = [ 'index.md' ]
+#        
+#        # Load class and subclasses
+#        if (ismdfile(entry) and os.path.basename(entry) not in excludedentries):
+#            log(f"Parsing Feat {entry}...")
+#            bgmodule = loadmodule(entry, os.path.basename(entry))
+#            if bgmodule != None:
+#                backgrounds[bgmodule.name] = bgmodule
 
 # Feats....
+# name : string
+# prereq : fn to determine if npc meets the *Prerequisite* criteria for the feat
+# apply : fn to apply the feat to the npc
 feats = {}
 def loadfeats():
     featsroot = REPOROOT + 'Feats'
@@ -380,8 +437,8 @@ def loadfeats():
         excludedentries = [ 'index.md' ]
         
         # Load class and subclasses
-        if (os.path.basename(entry) not in excludedentries):
-            log(f"Parsing Feat {entry}..."); print(f"Parsing Feat {entry}...")
+        if (ismdfile(entry) and os.path.basename(entry) not in excludedentries):
+            log(f"Parsing Feat {entry}...")
             featmodule = loadmodule(entry, os.path.basename(entry))
             if featmodule != None:
                 feats[featmodule.name] = featmodule
@@ -428,6 +485,7 @@ class NPC:
 
         self.size = 'Medium'
         self.type = ''
+        self.gender = ''
 
         # Race is a dict ('name', 'type', ...) for the race selected
         self.race = None
@@ -706,7 +764,7 @@ class NPC:
         linesep = ">___\n"
 
         result  =  ">### Name\n"
-        result += f'*{self.size} {getracesubstring()} {getclasssubstring()}, any alignment*\n'
+        result += f'*{self.size} {self.gender} {getracesubstring()} {getclasssubstring()}, any alignment*\n'
         result += linesep
         result += f">- **Armor Class** {getarmorclass()}\n"
         result += f">- **Hit Points** {self.hitpoints} ({self.hitdicedesc()} + {self.hpconbonus})\n"
@@ -868,13 +926,17 @@ def generatenpc():
                 getattr(npc.subrace, 'level0', None)(npc)
 
     # Do we want to start with race, class, or ability scores?
-    startoptions = ['Ability Scores', 'Race']
+    startoptions = ['Ability Scores', 'Race', 'Gender']#, 'Name']
     while len(startoptions) > 0:
         opt = choose("Decide which?", startoptions)
         if opt == 'Ability Scores':
             selectabilities()
         elif opt == 'Race':
             selectrace()
+        elif opt == 'Gender':
+            npc.gender = choose("Choose gender: ", ['Male', 'Female'])
+        #elif opt == 'Name':
+        #    npc.name = generatename()
         startoptions.remove(opt)
 
     # That's level 0; now do level 1+
@@ -951,6 +1013,7 @@ def main():
 
     loadraces()
     loadclasses()
+    loadfeats()
     #loadbackgrounds()
 
     parser = argparse.ArgumentParser(

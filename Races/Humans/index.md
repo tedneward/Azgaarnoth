@@ -1,10 +1,11 @@
 # Humans
-Owing to the prodigious rate at which humans reproduce, they are the dominant species of the Azgaarnothian lands. Owing to the 8,000-plus years of intermixing, humans characteristics are all over the map--different skin tones, different complexions, heights, weights, and so on. Humans were the servant race of the Eldar and flourished and took over much of the lands after the Fall. It is not clear if humans were created by the Eldar, or were uplifted by them. Either way, humans owe their civilization to the initial one built by the Eldar, inheriting it after the Fall."
+Owing to the prodigious rate at which humans reproduce, they are the dominant species of the Azgaarnothian lands. Owing to the 8,000-plus years of intermixing, humans characteristics are all over the map--different skin tones, different complexions, heights, weights, and so on. Humans were the servant race of the Eldar and flourished and took over much of the lands after the Fall. It is not clear if humans were created by the Eldar, or were uplifted by them. Either way, humans owe their civilization to the initial one built by the Eldar, inheriting it after the Fall.
 
 Human society is broken into several distinct cultures: [Al'Uma](../Cultures/AlUma.md), [Gozdor](../Cultures/Gozdor.md), [Anor](../Cultures/Anor.md), and [Dail](../Cultures/Dail.md).
 
 ```
 name = 'Human'
+description = "***Race: Human.*** Humans were the servant race of the Eldar and flourished and took over much of the lands after the Fall. It is not clear if humans were created by the Eldar, or were uplifted by them. Either way, humans owe their civilization to the initial one built by the Eldar, inheriting it after the Fall."
 type = 'humanoid'
 ```
 
@@ -24,17 +25,22 @@ type = 'humanoid'
 
 ```
 def level0(npc):
-    npc.description.append("Owing to the prodigious rate at which humans reproduce, they are the dominant species of the Azgaarnothian lands. Owing to the 8,000-plus years of intermixing, humans characteristics are all over the map--different skin tones, different complexions, heights, weights, and so on. Humans were the servant race of the Eldar and flourished and took over much of the lands after the Fall. It is not clear if humans were created by the Eldar, or were uplifted by them. Either way, humans owe their civilization to the initial one built by the Eldar, inheriting it after the Fall.")
-
     npc.size = 'Medium'
     npc.speed['walking'] = 30
 
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
+    abilities = [ 'STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA']
+    for _ in range(0, 2):
+        ability = choose("Choose an ability to improve: ", abilities)
+        if ability == 'STR': npc.STR += 1
+        elif ability == 'DEX': npc.DEX += 1
+        elif ability == 'CON': npc.CON += 1
+        elif ability == 'INT': npc.INT += 1
+        elif ability == 'WIS': npc.WIS += 1
+        elif ability == 'CHA': npc.CHA += 1
 
-    npc.skillchoice()
+    chooseskill(npc)
 
-    npc.traits.append("CHOOSE: Choose a feat.") #featchoice(npc)
+    choosefeat(npc)
 
     npc.languages.append("Common")
     npc.languages.append("CHOOSE")

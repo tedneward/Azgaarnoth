@@ -1,11 +1,11 @@
-Ability Scores,Hand,15,15,15,random,random,random,Race,Sahuagin,Fighter,Intimidation,Survival,Dueling,Yes
+Gender,random,Ability Scores,Hand,15,15,15,random,random,random,Race,Sahuagin,Fighter,Intimidation,Survival,Dueling,Yes
 Fighter,Yes
 Fighter,Duelist,Yes
-Fighter,CON,STR,Yes
+Fighter,Ability,CON,STR,Yes
 Fighter,Yes
-Fighter,CON,DEX,Yes
+Fighter,Ability,CON,DEX,Yes
 Fighter,Yes
-Fighter,CON,STR,Yes
+Fighter,Ability,CON,STR,Yes
 Fighter,Yes
 Fighter,Yes
 Fighter,No

@@ -61,7 +61,13 @@ def level0(npc):
 
     npc.DEX += 1
     npc.CHA += 1
-    npc.abilityscoreimprovement()
+    ability = choose("Choose an ability to improve: ", abilities)
+    if ability == 'STR': npc.STR += 1
+    elif ability == 'DEX': npc.DEX += 1
+    elif ability == 'CON': npc.CON += 1
+    elif ability == 'INT': npc.INT += 1
+    elif ability == 'WIS': npc.WIS += 1
+    elif ability == 'CHA': npc.CHA += 1
 
     npc.traits.append("***Windwright’s Intuition.*** When you make a Dexterity (Acrobatics) check or any ability check involving operating or maintaining a water or air vehicle, you can roll one Intuition die, a d4, and add the number rolled to the ability check.")
 

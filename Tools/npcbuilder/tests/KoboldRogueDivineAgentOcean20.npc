@@ -1,20 +1,20 @@
-Ability Scores,Average,Race,Kobold,STR,STR,STR,Craftiness,Arcana,Rogue,Acrobatics,Athletics,Deception,Insight,Acrobatics,Athletics,Yes
+Gender,random,Ability Scores,Average,Race,Kobold,STR,STR,STR,Craftiness,Arcana,Rogue,Acrobatics,Athletics,Deception,Insight,Acrobatics,Athletics,Yes
 Rogue,Yes
 Rogue,DivineAgent,Ocean,Yes
-Rogue,WIS,WIS,Yes
+Rogue,Ability,WIS,WIS,Yes
 Rogue,Yes
 Rogue,Deception,Insight,Yes
 Rogue,Yes
-Rogue,CON,CON,Yes
+Rogue,Ability,CON,CON,Yes
 Rogue,Yes
-Rogue,WIS,WIS,Yes
+Rogue,Ability,WIS,WIS,Yes
 Rogue,Yes
-Rogue,DEX,DEX,Yes
-Rogue,Yes
-Rogue,Yes
-Rogue,Yes
-Rogue,DEX,DEX,Yes
+Rogue,Ability,DEX,DEX,Yes
 Rogue,Yes
 Rogue,Yes
-Rogue,WIS,WIS,Yes
+Rogue,Yes
+Rogue,Ability,DEX,DEX,Yes
+Rogue,Yes
+Rogue,Yes
+Rogue,Ability,WIS,WIS,Yes
 Rogue,No
