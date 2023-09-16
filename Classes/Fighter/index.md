@@ -225,7 +225,7 @@ def thrownweapon(npc):
 def tunnelfighter(npc):
     npc.bonusactions.append("***Fighting Style: Tunnel Fighter.*** You can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.")
 def twoweapon(npc):
-    npc.actions.append("***Fighting Style: Two-Weapon Fighting.*** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.")
+    npc.bonusactions.append("***Fighting Style: Two-Weapon Fighting.*** When you take the Attack or Multiattack action and attack with a light melee weapon that you're holding in one hand, you can attack with a different light melee weapon that you're holding in the other hand. You can add your ability modifier to the damage of this other attack. If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.")
 def unarmedfighting(npc):
     npc.defer(lambda npc: npc.actions.append("***Fighting Style: Unarmed Fighting.*** Your unarmed strikes can deal 1d6 + {npc.STRbonus()} bludgeoning damage on a hit. If you aren't wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8. At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you."))
 styles = {

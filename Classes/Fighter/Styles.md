@@ -105,11 +105,11 @@ def tunnelfighter(npc):
 ```
 
 ## Two-Weapon Fighting
-When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+When you take the Attack or Multiattack action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand. You can add your ability modifier to the damage of this other attack. If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.
 
 ```
 def twoweapon(npc):
-    npc.actions.append("***Fighting Style: Two-Weapon Fighting.*** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.")
+    npc.bonusactions.append("***Fighting Style: Two-Weapon Fighting.*** When you take the Attack or Multiattack action and attack with a light melee weapon that you're holding in one hand, you can attack with a different light melee weapon that you're holding in the other hand. You can add your ability modifier to the damage of this other attack. If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.")
 ```
 
 ## Unarmed Fighting
