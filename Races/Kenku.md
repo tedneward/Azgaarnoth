@@ -42,8 +42,8 @@ def level0(npc):
 
     npc.traits.append("***Expert Forgery.*** You can duplicate other creatures’ handwriting and craftwork. You have advantage on all checks made to produce forgeries or duplicates of existing objects.")
 
-    npc.skills.append(choose("Choose a skill: ", ['Acrobatics', 'Deception', 'Stealth', 'Sleight of Hand']))
-    npc.skills.append(choose("Choose a skill: ", ['Acrobatics', 'Deception', 'Stealth', 'Sleight of Hand']))
+    chooseskill(npc, ['Acrobatics', 'Deception', 'Stealth', 'Sleight of Hand'])
+    chooseskill(npc, ['Acrobatics', 'Deception', 'Stealth', 'Sleight of Hand'])
 
     npc.traits.append("***Mimicry.*** You can mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations with a successful Wisdom (Insight) check opposed by your Charisma (Deception) check.")
 

@@ -7,6 +7,6 @@ You gain proficiency in two skills of your choice.
 name = 'Mixed'
 description = "***Elvish Heritage: Mixed.*** Either you had an elf parent of mixed blood, or there are multiple elvish heritages in your bloodline going back for more than one generation."
 def level0(npc):
-    npc.skillchoice()
-    npc.skillchoice()
+    chooseskill(npc)
+    chooseskill(npc)
 ```

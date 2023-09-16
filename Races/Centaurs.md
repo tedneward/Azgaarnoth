@@ -54,7 +54,7 @@ def level0(npc):
 * **Survivor**. You have proficiency in one of the following skills: Animal Handling, Medicine, Nature, or Survival.
 
 ```
-    npc.skills.append(choose("Choose one of these skills: ", ['Animal Handling', 'Medicine', 'Nature', 'Survival']))
+    chooseskill(npc, ['Animal Handling', 'Medicine', 'Nature', 'Survival'])
 ```
 
 * **Languages**. You can speak, read, and write Common and Sylvan.

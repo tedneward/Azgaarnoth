@@ -69,10 +69,10 @@ def level1(npc):
     npc.savingthrows.append('INT')
 
     thiefskills = ['Acrobatics', 'Athletics', 'Deception', 'Insight', 'Intimidation', 'Investigation', 'Perception', 'Performance', 'Persuasion', 'Sleight of Hand', 'Stealth']
-    npc.skills.append(choose("Choose a skill: ", thiefskills))
-    npc.skills.append(choose("Choose a skill: ", thiefskills))
-    npc.skills.append(choose("Choose a skill: ", thiefskills))
-    npc.skills.append(choose("Choose a skill: ", thiefskills))
+    chooseskill(npc, thiefskills)
+    chooseskill(npc, thiefskills)
+    chooseskill(npc, thiefskills)
+    chooseskill(npc, thiefskills)
 ```
 
 ## Equipment

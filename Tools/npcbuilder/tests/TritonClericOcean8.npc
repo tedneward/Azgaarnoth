@@ -1,9 +1,9 @@
-Ability Scores,Hand,random,14,16,random,16,12,Race,Triton
+Gender,random,Ability Scores,Hand,random,14,16,random,16,12,Race,Triton
 Cleric,History,Insight,Ocean,Yes
 Cleric,Yes
 Cleric,Yes
-Cleric,DEX,CON,Yes
+Cleric,Ability,DEX,CON,Yes
 Cleric,Yes
 Cleric,Yes
 Cleric,Yes
-Cleric,WIS,WIS,No
+Cleric,Ability,WIS,WIS,No

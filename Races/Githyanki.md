@@ -44,7 +44,7 @@ def level0(npc):
     npc.languages.append('Gith')
     npc.languages.append('CHOOSE')
 
-    npc.skillchoice()
+    chooseskill(npc)
     
     npc.proficiencies.append('Light armor')
     npc.proficiencies.append('Medium armor')

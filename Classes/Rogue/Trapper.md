@@ -15,7 +15,7 @@ You gain proficiency with your choice of either Alchemist's Supplies, Poisoner's
 
 ```
 def level3(npc):
-    npc.proficiencies.append(choose("Choose: ", ["Alcemist's supplies", "Poisoner's kit", "Tinker's tools"]))
+    npc.proficiencies.append(choose("Choose: ", ["Alchemist's supplies", "Poisoner's kit", "Tinker's tools"]))
 ```
 
 You also learn how to create and arrange amazing traps with which to catch your enemies. Arranging a trap takes 1 minute of uninterrupted work, and to do so you must both have the trap's materials and meet the trap's requirements. If a trap's materials include a tool, proficiency is not required, and the tool is not expended in the making of the trap.

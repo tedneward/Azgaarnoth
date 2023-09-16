@@ -67,8 +67,8 @@ def level1(npc):
     npc.savingthrows.append('CHA')
 
     skillchoices = ['History', 'Insight', 'Medicine', 'Persuasion', 'Religion']
-    npc.skills.append(choose("Choose a skill: ", skillchoices))
-    npc.skills.append(choose("Choose a skill: ", skillchoices))
+    chooseskill(npc, skillchoices)
+    chooseskill(npc, skillchoices)
 ```
 
 ### Equipment
@@ -118,7 +118,7 @@ Wisdom is your spellcasting ability for your cleric spells. The power of your sp
 
 ```
     sc = npc.newspellcasting(name, 'WIS')
-    sc.casterclass = classes['Cleric']
+    sc.casterclass = allclasses['Cleric']
     sc.slottable = {
         1: [ 2 ],
         2: [ 3 ],

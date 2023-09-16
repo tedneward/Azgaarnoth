@@ -57,7 +57,7 @@ def level0(npc):
 ```
     npc.koboldlegacy = choose("Choose a legacy: ", ['Craftiness', 'Defiance', 'Sorcery', 'Ferocity'])
     if npc.koboldlegacy == 'Craftiness':
-        npc.skills.append(choose("Choose a skill: ", ['Arcana', 'Investigation', 'Medicine', 'Sleight of Hand', 'Survival']))
+        chooseskill(npc, ['Arcana', 'Investigation', 'Medicine', 'Sleight of Hand', 'Survival'])
     elif npc.koboldlegacy == 'Defiance':
         npc.traits.append("***Kobold Legacy: Defiance.*** You have advantage on saving throws to avoid or end the frightened condition on yourself.")
     elif npc.koboldlegacy == 'Sorcery':

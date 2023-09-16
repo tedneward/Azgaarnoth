@@ -72,8 +72,8 @@ def level1(npc):
     npc.proficiencies.append("Martial weapons")
 
     skills = ['Acrobatics', 'Animal Handling', 'Athletics', 'History', 'Insight', 'Intimidation', 'Perception', 'Survival']
-    npc.skills.append(choose("Choose:", skills))
-    npc.skills.append(choose("Choose:", skills))
+    chooseskill(npc, skills)
+    chooseskill(npc, skills)
 
     npc.equipment.append("Martial weapon")
     npc.equipment.append("Shield OR martial weapon")
