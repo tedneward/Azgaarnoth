@@ -15,7 +15,7 @@ The Mark of Passage only manifests on humans. If your character has the Mark of 
 **Shared Passage**. You can use your bonus action to teleport up to your speed to an unoccupied space that you can see. You can bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you. Once you use this trait, you can't use it again until you finish a long rest.
 
 ```
-name = 'Passage Dragonmark'
+name = 'Passage Dragonmarked'
 description = "***Dragonmark: Mark of Passage.*** A dragonmark is a distinctive symbol that appears on the skin. Dragonmarks are painted in vivid shades of blue and purple and seem to shimmer or even move slightly. When used, they grow warm to the touch. A dragonmark can’t be removed--even if a limb bearing a dragonmark is cut away, the mark eventually manifests on another part of the bearer’s body. The Mark of Passage governs motion, allowing its bearer to move with uncanny speed and precision. Running, leaping, climbing--the Mark of Passage enhances every form of movement. The bearer of the mark can even slip through space, leaping from point to point in the blink of an eye."
 
 def level0(npc):

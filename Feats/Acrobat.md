@@ -7,6 +7,7 @@ You become more nimble, gaining the following benefits:
 
 ```
 name = 'Acrobat'
+description = "***Feat: Acrobat.*** You become more nimble."
 def prereq(npc): return True
 def apply(npc): 
     npc.DEX += 1

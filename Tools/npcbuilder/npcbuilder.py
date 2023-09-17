@@ -180,11 +180,12 @@ def dieroll(dpattern):
 def choosefeat(npc):
     choices = {}
     for (featname, featmod) in feats.items():
-        print(f"Examining {featmod}")
-        if featmod.prereq == None or featmod.prereq(npc):
+        if featmod.prereq(npc) != False:
             choices[featname] = featmod
-    (_, chosenfeatmod) = choose("Choose a feat: ", choices)
+    (chosenfeatname, chosenfeatmod) = choose("Choose a feat: ", choices)
     chosenfeatmod.apply(npc)
+    npc.feats.append(chosenfeatname)
+    return chosenfeatname
 
 def chooseskill(npc, skills = None):
     skilllist = None
@@ -199,20 +200,25 @@ def chooseskill(npc, skills = None):
     for sk in npc.skills:
         skilllist.remove(sk)
 
-    npc.skills.append(choose("Choose a skill:", skilllist))
+    skill = choose("Choose a skill:", skilllist)
+    npc.skills.append(skill)
+    return skill
+
+def chooseability(npc, abilities = ['STR','DEX','CON','INT','WIS','CHA']):
+    ability = choose("Choose an ability: ", abilities)
+    if ability == 'STR': npc.STR += 1
+    elif ability == 'DEX': npc.DEX += 1
+    elif ability == 'CON': npc.CON += 1
+    elif ability == 'INT': npc.INT += 1
+    elif ability == 'WIS': npc.WIS += 1
+    elif ability == 'CHA': npc.CHA += 1
+    return ability
 
 def abilityscoreimprovement(npc):
     asiorfeat = choose("Ability Score Improvement, or Feat?", ['Ability', 'Feat'])
     if asiorfeat == 'Ability':
         for _ in range(0,2):
-            abilities = [ 'STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA']
-            ability = choose("Choose an ability to improve: ", abilities)
-            if ability == 'STR': npc.STR += 1
-            elif ability == 'DEX': npc.DEX += 1
-            elif ability == 'CON': npc.CON += 1
-            elif ability == 'INT': npc.INT += 1
-            elif ability == 'WIS': npc.WIS += 1
-            elif ability == 'CHA': npc.CHA += 1
+            chooseability(npc)
     else:
         choosefeat(npc)
 
@@ -301,7 +307,8 @@ def loadmodule(filename, modulename=None):
             "traits": traits,
             "spelllinkify": spelllinkify,
             "choose": choose,
-            "choosefeat":choosefeat,
+            "chooseability": chooseability,
+            "choosefeat": choosefeat,
             "chooseskill": chooseskill,
             "replace": replace,
             "random": randomlist,
@@ -310,7 +317,8 @@ def loadmodule(filename, modulename=None):
             "min": min,
             "len": len,
             "print": print,
-            "types": types
+            "types": types,
+            "loadmodule": loadmodule
         }
         for (key, value) in builtins.items():
             module.__dict__[key] = value
@@ -391,8 +399,18 @@ def loadclasses():
             dirname = os.path.basename(dirpath)
             basemodule = loadmodule(dirpath + "/index.md", dirname)
             if basemodule != None:
+                classes[basemodule.name] = basemodule
+
+                dependentmods = []
+                if getattr(basemodule, "dependentmodules", None) != None:
+                    dependentmods = basemodule.dependentmodules
+                    for depname in dependentmods:
+                        loadmodule(dirpath + "/" + depname, basemodule.name + "-" + depname)
+
+                log("Parsing subclasses")
                 subclasses = {}
-                excludedmds = [ 'index.md', 'SpellList.md', 'Infusions.md', 'Invocations.md', 'Talents.md' ]
+                excludedmds = [ 'index.md', 'SpellList.md' ] + dependentmods
+                log("Ignoring " + str(excludedmds))
                 for sf in os.listdir(dirpath):
                     if ismdfile(dirpath + "/" + sf) and (sf not in excludedmds):
                         log(f"Parsing {sf}...")
@@ -400,11 +418,8 @@ def loadclasses():
                         subclassmod = loadmodule(dirpath + '/' + sf, basemodule.name + "-" + subclassname)
                         if subclassmod != None: 
                             setattr(subclassmod, "baseclass", basemodule)
-                            print("Baseclass for " + subclassname + " is " + str(subclassmod.baseclass))
                         subclasses[subclassname] = subclassmod
                 setattr(basemodule, "subclasses", subclasses)
-            if basemodule != None:
-                classes[basemodule.name] = basemodule
 
 # Backgrounds....
 #backgrounds = {}
@@ -439,7 +454,7 @@ def loadfeats():
         # Load class and subclasses
         if (ismdfile(entry) and os.path.basename(entry) not in excludedentries):
             log(f"Parsing Feat {entry}...")
-            featmodule = loadmodule(entry, os.path.basename(entry))
+            featmodule = loadmodule(entry, "Feat-" + os.path.basename(entry)[:-3])
             if featmodule != None:
                 feats[featmodule.name] = featmodule
 
@@ -520,6 +535,8 @@ class NPC:
         self.damageresistances = []
         self.damageimmunities = []
         self.conditionimmunities = []
+
+        self.feats = []
 
         # Proficiencies are for weapons and armor only; everything else is a skill
         # TODO: It sounds like 5e holds the idea that skills are just proficiencies,
@@ -721,16 +738,15 @@ class NPC:
             return text
                        
         def getsenses():
-            perception = f"passive Perception {10 + self.WISbonus() + (self.proficiencybonus() if 'Perception' in self.skills else 0)}"
-            if len(self.senses) == 1:
-                return perception
-            else:
-                text = ""
-                for (key, value) in self.senses.items():
-                    if key == 'passive Perception': continue
-                    else:
-                        text += f"{key} {value} ft, "
-                return text + perception
+            pp = f"passive Perception {10 + self.WISbonus() + (self.proficiencybonus() if 'Perception' in self.skills else 0)}"
+            text = ""
+            for (key, value) in self.senses.items():
+                if key == 'passive Perception':
+                    text += f"passive Perception {10 + value + self.WISbonus() + (self.proficiencybonus() if 'Perception' in self.skills else 0)}"
+                else:
+                    text += f"{key} {value} ft, "
+            if 'passive Perception' in list(self.senses.keys()): return text
+            else: return text + pp
         
         def getracesubstring():
             return f"{self.race.type} ({'' if self.subrace == None else self.subrace.name + ' '}{self.race.name})"
