@@ -21,9 +21,9 @@ You learn maneuvers that are fueled by special dice called superiority dice.
 def level3(npc):
     npc.superioritydicetype = 'd8'
     npc.superioritydice = 4
-    choosemaneuver()
-    #choosemaneuver()
-    #choosemaneuver()
+    allclasses['Fighter'].choosemaneuver(npc)
+    allclasses['Fighter'].choosemaneuver(npc)
+    allclasses['Fighter'].choosemaneuver(npc)
 ```
 
 ### Maneuver Versatility
@@ -54,8 +54,8 @@ If you spend at least 1 minute observing or interacting with another creature ou
 ```
 def level7(npc):
     npc.superioritydice = 5
-    choosemaneuver()
-    choosemaneuver()
+    allclasses['Fighter'].choosemaneuver(npc)
+    allclasses['Fighter'].choosemaneuver(npc)
 
     npc.traits.append("***Know Your Enemy.*** If you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice: Strength score; Dexterity score; Constitution score; Armor Class; current hit points; total class levels (if any); fighter class levels (if any)")
 ```
@@ -68,8 +68,8 @@ Your superiority dice turn into d10s. At 18th level, they turn into d12s.
 ```
 def level10(npc):
     npc.superioritydicetype = 'd10'
-    choosemaneuver()
-    choosemaneuver()
+    allclasses['Fighter'].choosemaneuver(npc)
+    allclasses['Fighter'].choosemaneuver(npc)
 ```
 
 ## Relentless
@@ -80,8 +80,8 @@ When you roll initiative and have no superiority dice remaining, you regain 1 su
 ```
 def level15(npc):
     npc.superioritydice = 6
-    choosemaneuver()
-    choosemaneuver()
+    allclasses['Fighter'].choosemaneuver(npc)
+    allclasses['Fighter'].choosemaneuver(npc)
 
     npc.traits.append("***Relentless.*** When you roll initiative and have no superiority dice remaining, you regain 1 superiority die.")
 ```
@@ -99,7 +99,7 @@ The suite of maneuvers you choose, when combined with a fighting style and feats
 
 **Maneuvers:** [Disarming Attack](Maneuvers.md#disarming-attack), [Distracting Strike](Manuevers.md#distracting-strike), [Precision Attack](Maneuvers.md#precision-attack)
 
-**Feats:** [Sharpshooter](../Feats.md#sharpshooter)
+**Feats:** [Sharpshooter](../Feats/Sharpshooter.md)
 
 You prefer to deal with your enemies from afar, trusting in a well-placed arrow, javelin, or sling bullet to end a fight without a response. You rely on accuracy and probably subscribe to the axiom that "those who live by the sword die by the bow." 
 

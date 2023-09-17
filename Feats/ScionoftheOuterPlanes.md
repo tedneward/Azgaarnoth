@@ -12,4 +12,10 @@ Good Outer Plane | Radiant | [sacred flame](../Magic/Spells/sacred-flame.md)
 Lawful Outer Plane | Radiant | [guidance](../Magic/Spells/guidance.md)
 The Outlands | Psychic | [mage hand](../Magic/Spells/mage-hand.md)
 
-
+```
+name = 'Scion of the Outer Planes'
+description = ""
+def prereq(npc): return True
+def apply(npc):
+    pass
+```

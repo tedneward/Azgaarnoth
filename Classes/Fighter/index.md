@@ -191,10 +191,10 @@ You can use this feature twice between long rests starting at 13th level and thr
 
 ```
 def level9(npc):
-    npc.defer(lambda npc: npc.traits.append(f"***Indomitable ({'' if npc.levels('Fighter') < 13 else '2' if npc.levels('Fighter') < 17 else '3'}Recharges on long rest).*** You can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest."))
+    npc.defer(lambda npc: npc.traits.append(f"***Indomitable ({'' if npc.levels('Fighter') < 13 else '2/' if npc.levels('Fighter') < 17 else '3/'}Recharges on long rest).*** You can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest."))
 ```
 
 ```
-# Many Fighter subclasses use styles and maneuvers
+# Fighter subclasses use styles and maneuvers
 dependentmodules = ['Styles.md', 'Maneuvers.md']
 ```

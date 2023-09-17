@@ -37,7 +37,6 @@ When you are wielding a melee weapon in one hand and no other weapons, you gain 
 
 ```
 def dueling(npc):
-    npc.armorclass['Dueling'] = 2
     npc.traits.append("***Fighting Style: Dueling.*** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.")
 ```
 
@@ -82,7 +81,7 @@ You gain one superiority die, which is a d6 (this die is added to any superiorit
 
 ```
 def superiortechnique(npc):
-    choosemaneuver(npc)
+    allclasses['Fighter'].choosemaneuver(npc)
 ```
 
 ## Thrown Weapon Fighting
@@ -118,7 +117,7 @@ At the start of each of your turns, you can deal 1d4 bludgeoning damage to one c
 
 ```
 def unarmedfighting(npc):
-    npc.defer(lambda npc: npc.actions.append("***Fighting Style: Unarmed Fighting.*** Your unarmed strikes can deal 1d6 + {npc.STRbonus()} bludgeoning damage on a hit. If you aren't wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8. At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you."))
+    npc.defer(lambda npc: npc.actions.append(f"***Fighting Style: Unarmed Fighting.*** Your unarmed strikes can deal 1d6 + {npc.STRbonus()} bludgeoning damage on a hit. If you aren't wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8. At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you."))
 ```
 
 ```
