@@ -7,7 +7,7 @@ You become more nimble, gaining the following benefits:
 
 ```
 name = 'Acrobat'
-prereq = None
+def prereq(npc): return True
 def apply(npc): 
     npc.DEX += 1
     if "Acrobatics" in npc.skills:
