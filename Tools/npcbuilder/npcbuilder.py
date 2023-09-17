@@ -221,7 +221,7 @@ traits = {
     'fey-ancestry' : "***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.",
     'powerful-build': "***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.",
     'sea-emissary' : "***Emissary of the Sea.*** You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return.",
-    'sunlight-sensitivity' : "***Sun'light' Sensitivity.*** You have disadvantage on Attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sun'light'.",
+    'sunlight-sensitivity' : "***Sunlight Sensitivity.*** You have disadvantage on Attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.",
 }
 
 weapons = {
@@ -546,13 +546,13 @@ class NPC:
 
         self.equipment = []
 
-        # Spellcasting data; each is a hash tied to the name of the
-        # class (or race, if it's Innate) whose spellcasting this is 
-        # (Cleric, Wizard, Fighter (for Arcane Trickster), etc)
+        # Spellcasting data; each is a hash tied to the name of the class (or race, if 
+        # it's Innate) whose spellcasting this is (Cleric, Wizard, Rogue (for Arcane 
+        # Trickster), Fighter (for Eldritch Knight), etc)
         self.spellcasting = { }
 
         # Normalizers are fns run when the NPC is frozen;
-        # usually these are le'vel-depend'ent text/traits/features/etc
+        # usually these are level-dependent text/traits/features/etc
         self.normalizers = []
         self.deferred = {}
 
@@ -575,16 +575,6 @@ class NPC:
             case 'WIS': return self.WISbonus()
             case 'CHA': return self.CHAbonus()
             case _ : return None
-
-    def abilityscoreimprovement(self):
-        abilities = [ 'STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA']
-        ability = choose("Choose an ability to improve: ", abilities)
-        if ability == 'STR': self.STR += 1
-        elif ability == 'DEX': self.DEX += 1
-        elif ability == 'CON': self.CON += 1
-        elif ability == 'INT': self.INT += 1
-        elif ability == 'WIS': self.WIS += 1
-        elif ability == 'CHA': self.CHA += 1
 
     def proficiencybonus(self):
         return (self.levels() // 4) + 2
