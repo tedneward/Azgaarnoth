@@ -3,6 +3,11 @@ Those who emulate the archetypal Battle Master employ martial techniques passed 
 
 Battle mastery is taught almost exclusively at the Great Academy run by the [Order of the Bronze Dragon](../../Organizations/MilitantOrders/DraconicOrder/Bronze.md), but many of its instructors and students have gone on to found much smaller schools or take on apprentices after leaving. Taking this archetype will typically involve spending some amount of time at the Academy or studying under one of its alumni in some fashion. Battle Masters are also found in many of the [Dueling Colleges](../../Organizations/DuelingColleges.md) across Azgaarnoth, and many [Mercenary Companies](../../Organizations/MercCompanies/) provide "field study" for Battle Masters.
 
+```
+name = 'Battle Master'
+description = "***Martial Archetype: Battle Master.*** Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master archetype, but those who do are well-rounded fighters of great skill and knowledge."
+```
+
 ## Combat Superiority
 *3rd-level Battle Master feature*
 
@@ -12,6 +17,15 @@ You learn maneuvers that are fueled by special dice called superiority dice.
 
 ***Superiority Dice.*** You have four superiority dice, which are d8s. You gain another superiority die at 7th level and one more at 15th level.
 
+```
+def level3(npc):
+    npc.superioritydicetype = 'd8'
+    npc.superioritydice = 4
+    choosemaneuver()
+    #choosemaneuver()
+    #choosemaneuver()
+```
+
 ### Maneuver Versatility
 If you know any maneuvers from the above list, you can replace one maneuver you know with a different maneuver whenever you finish a long rest. This change reflects your physical and mental preparation for the day ahead.
 
@@ -19,6 +33,10 @@ If you know any maneuvers from the above list, you can replace one maneuver you 
 *3rd-level Battle Master feature*
 
 You gain proficiency with one type of artisan's tools of your choice.
+
+```
+    npc.proficiencies.append("CHOOSE-Artisan's tools")
+```
 
 ## Know Your Enemy
 *7th-level Battle Master feature*
@@ -33,15 +51,45 @@ If you spend at least 1 minute observing or interacting with another creature ou
 * Total class levels, if any
 * Fighter class levels, if any
 
+```
+def level7(npc):
+    npc.superioritydice = 5
+    choosemaneuver()
+    choosemaneuver()
+
+    npc.traits.append("***Know Your Enemy.*** If you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice: Strength score; Dexterity score; Constitution score; Armor Class; current hit points; total class levels (if any); fighter class levels (if any)")
+```
+
 ## Improved Combat Superiority
 *10th-level Battle Master feature*
 
 Your superiority dice turn into d10s. At 18th level, they turn into d12s.
 
+```
+def level10(npc):
+    npc.superioritydicetype = 'd10'
+    choosemaneuver()
+    choosemaneuver()
+```
+
 ## Relentless
 *15th-level Battle Master feature*
 
 When you roll initiative and have no superiority dice remaining, you regain 1 superiority die.
+
+```
+def level15(npc):
+    npc.superioritydice = 6
+    choosemaneuver()
+    choosemaneuver()
+
+    npc.traits.append("***Relentless.*** When you roll initiative and have no superiority dice remaining, you regain 1 superiority die.")
+```
+
+```
+def level18(npc):
+    npc.superioritydicetype = 'd12'
+```
 
 ### Battle Master Builds
 The suite of maneuvers you choose, when combined with a fighting style and feats, allows you to create a broad range of fighters, each with its own flavor and play style. Below are recommendations for how you might build a Battle Master to reflect various types of warriors. Each of these builds contains suggested fighting styles, maneuvers, and feats.

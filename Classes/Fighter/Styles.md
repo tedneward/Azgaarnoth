@@ -82,8 +82,7 @@ You gain one superiority die, which is a d6 (this die is added to any superiorit
 
 ```
 def superiortechnique(npc):
-    # TODO: Choose from battlemaster.py maneuvers[] list
-    npc.traits.append("***Fighting Style: Superior Technique.*** You learn one maneuver of your choice from among those available to the [Battle Master](BattleMaster.md) archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice). \nYou gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it.  You regain your expended superiority dice when you finish a short or long rest.")
+    choosemaneuver(npc)
 ```
 
 ## Thrown Weapon Fighting
@@ -115,7 +114,7 @@ def twoweapon(npc):
 ## Unarmed Fighting
 Your unarmed strikes can deal bludgeoning damage equal to ld6 + your Strength modifier on a hit. If you aren't wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8.
 
-At the start of each of your turns, you can deal ld4 bludgeoning damage to one creature grappled by you.
+At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you.
 
 ```
 def unarmedfighting(npc):
@@ -123,7 +122,7 @@ def unarmedfighting(npc):
 ```
 
 ```
-fightingstyles = {
+styles = {
     'Archery': archery,
     'Blind': blindfighting,
     'Close Quarters Shooter': closequarters,
@@ -139,4 +138,10 @@ fightingstyles = {
     'Two-Weapon': twoweapon,
     'Unarmed': unarmedfighting
 }
+def choosestyle(npc):
+    (stylename, stylefn) = choose("Choose a Fighting Style: ", styles)
+    npc.fightingstyle = stylename
+    stylefn(npc)
+
+allclasses['Fighter'].choosestyle = choosestyle
 ```

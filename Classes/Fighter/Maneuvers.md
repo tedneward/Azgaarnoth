@@ -12,7 +12,7 @@ When you make a Dexterity (Stealth) check or an initiative roll, you can expend 
 
 ```
 def ambush(npc):
-    npc.traits.append("***Manevuer: Ambush.*** When you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add the die to the roll, provided you aren't incapacitated.")
+    npc.traits.append("***Maneuver: Ambush.*** When you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add the die to the roll, provided you aren't incapacitated.")
 ```
 
 ### Bait and Switch
@@ -20,17 +20,42 @@ When you're within 5 feet of a creature on your turn, you can expend one superio
 
 Roll the superiority die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled. 
 
+```
+def baitandswitch(npc):
+    npc.traits.append("***Maneuver: Bait and Switch.*** When you're within 5 feet of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and isn't incapacitated. This movement doesn't provoke opportunity attacks. Roll the superiority die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.")
+```
+
 ### Brace
 When a creature you can see moves into the reach you have with the melee weapon you're wielding, you can use your reaction to expend one superiority die and make one attack against the creature, using that weapon. If the attack hits, add the superiority die to the weapon's damage roll. 
+
+```
+def brace(npc):
+    noc.traits.append("***Maneuver: Brace.*** When a creature you can see moves into the reach you have with the melee weapon you're wielding, you can use your reaction to expend one superiority die and make one attack against the creature, using that weapon. If the attack hits, add the superiority die to the weapon's damage roll.")
+```
 
 ### Commander's Strike
 When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.
 
+```
+def commanderstrike(npc):
+    npc.bonusactions.append("***Maneuver: Commander's Strike.*** When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.")
+```
+
 ### Commanding Presence
 When you make a Charisma (Intimidation), a Charisma (Performance), or a Charisma (Persuasion) check, you can expend one superiority die and add the superiority die to the ability check.
 
+```
+def commandingpresence(npc):
+    npc.traits.append("***Maneuver: Commanding Presence.*** When you make a Charisma (Intimidation), a Charisma (Performance), or a Charisma (Persuasion) check, you can expend one superiority die and add the superiority die to the ability check.")
+```
+
 ### Disarming Attack 
 When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
+
+```
+def disarmingattack(npc):
+    npc.actions.append("***Maneuver: Disarming Attack.*** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.")
+```
 
 ### Distracting Strike
 When you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack's damage roll. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.
@@ -95,8 +120,27 @@ When you make an Intelligence (Investigation), an Intelligence (History), or a W
 ### Trip Attack
 When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
 
-```
-fightingmaneuvers = {
 
+```
+maneuvers = {
+    'Ambush': ambush,
+    'Bait and Switch': baitandswitch,
+    'Brace': brace,
+    "Commander's Strike": commanderstrike,
+    'Commanding Presence': commandingpresence,
+    'Disarming Attack': disarmingattack
 }
+def choosemaneuver(npc):
+    if getattr(npc, "fightingmaneuvers", None) == None:
+        npc.fightingmaneuvers = []
+        npc.superioritydice = 4
+        npc.superioritydicetype = 'd8'
+
+        npc.defer(lambda npc: npc.traits.append(f"***Superiority Dice (Recharges on short or long rest).*** You have {npc.superioritydice} {npc.superioritydicetype} superiority dice that can be used for your fighting maneuvers. You currently know the following maneuvers: " + ",".join(npc.fightingmaneuvers) + "."))
+
+    (manname, manfn) = choose("Choose a Fighting Maneuver: ", maneuvers)
+    npc.fightingmaneuvers.append(manname)
+    manfn(npc)
+
+allclasses['Fighter'].choosemaneuver = choosemaneuver
 ```

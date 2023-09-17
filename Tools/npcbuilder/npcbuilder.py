@@ -310,7 +310,8 @@ def loadmodule(filename, modulename=None):
             "min": min,
             "len": len,
             "print": print,
-            "types": types
+            "types": types,
+            "loadmodule": loadmodule
         }
         for (key, value) in builtins.items():
             module.__dict__[key] = value
@@ -391,8 +392,18 @@ def loadclasses():
             dirname = os.path.basename(dirpath)
             basemodule = loadmodule(dirpath + "/index.md", dirname)
             if basemodule != None:
+                classes[basemodule.name] = basemodule
+
+                dependentmods = []
+                if getattr(basemodule, "dependentmodules", None) != None:
+                    dependentmods = basemodule.dependentmodules
+                    for depname in dependentmods:
+                        loadmodule(dirpath + "/" + depname, basemodule.name + "-" + depname)
+
+                log("Parsing subclasses")
                 subclasses = {}
-                excludedmds = [ 'index.md', 'SpellList.md', 'Infusions.md', 'Invocations.md', 'Talents.md' ]
+                excludedmds = [ 'index.md', 'SpellList.md' ] + dependentmods
+                log("Ignoring " + str(excludedmds))
                 for sf in os.listdir(dirpath):
                     if ismdfile(dirpath + "/" + sf) and (sf not in excludedmds):
                         log(f"Parsing {sf}...")
@@ -400,11 +411,8 @@ def loadclasses():
                         subclassmod = loadmodule(dirpath + '/' + sf, basemodule.name + "-" + subclassname)
                         if subclassmod != None: 
                             setattr(subclassmod, "baseclass", basemodule)
-                            print("Baseclass for " + subclassname + " is " + str(subclassmod.baseclass))
                         subclasses[subclassname] = subclassmod
                 setattr(basemodule, "subclasses", subclasses)
-            if basemodule != None:
-                classes[basemodule.name] = basemodule
 
 # Backgrounds....
 #backgrounds = {}
