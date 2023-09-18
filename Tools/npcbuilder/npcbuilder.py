@@ -199,7 +199,9 @@ def chooseskill(npc, skills = None):
             'Religion', 'Sleight of Hand', 'Stealth', 'Survival']
     
     for sk in npc.skills:
-        skilllist.remove(sk)
+        if sk in skilllist:
+            print("Removing " + str(sk) + " from the npc skill list: " + str(npc.skills))
+            skilllist.remove(sk)
 
     skill = choose("Choose a skill:", skilllist)
     npc.skills.append(skill)

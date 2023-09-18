@@ -12,6 +12,6 @@ def apply(npc):
     npc.DEX += 1
     if "Thieves' tools" in npc.proficiencies:
         npc.traits.append("***Thieves' Tools.*** You add double your proficiency bonus to checks you make with them.")
-    else
+    else:
         npc.proficiencies.append("Thieves' tools")
 ```
