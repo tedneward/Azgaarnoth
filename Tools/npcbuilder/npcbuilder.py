@@ -180,8 +180,9 @@ def dieroll(dpattern):
 def choosefeat(npc):
     choices = {}
     for (featname, featmod) in feats.items():
-        if featmod.prereq(npc) != False:
-            choices[featname] = featmod
+        if featmod.prereq(npc) == False: continue
+        if featname in npc.feats: continue
+        choices[featname] = featmod
     (chosenfeatname, chosenfeatmod) = choose("Choose a feat: ", choices)
     chosenfeatmod.apply(npc)
     npc.feats.append(chosenfeatname)

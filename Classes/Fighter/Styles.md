@@ -139,7 +139,9 @@ styles = {
 }
 def choosestyle(npc):
     (stylename, stylefn) = choose("Choose a Fighting Style: ", styles)
-    npc.fightingstyle = stylename
+    if getattr(npc, "fightingstyles", None) == None:
+        npc.fightingstyles = []
+    npc.fightingstyles.append(stylename)
     stylefn(npc)
 
 allclasses['Fighter'].choosestyle = choosestyle

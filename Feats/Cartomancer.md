@@ -1,5 +1,5 @@
 ## Cartomancer
-*Prerequisite: 4th Level; [Sorcerer](/Classes/Sorcerer.md), [Warlock](/Classes/Warlock.md), or [Wizard](/Classes/Wizard.md) Class*
+*Prerequisite: 4th Level; [Sorcerer](../Classes/Sorcerer.md), [Warlock](../Classes/Warlock.md), or [Wizard](../Classes/Wizard.md) Class*
 
 You have learned to channel your magic through a deck of playing cards, granting you these benefits:
 
