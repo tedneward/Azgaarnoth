@@ -30,6 +30,7 @@ While you are wearing armor, you gain a +1 bonus to AC.
 ```
 def defense(npc):
     npc.traits.append("***Fighting Style: Defense.*** While you are wearing armor, you gain a +1 bonus to AC.")
+    npc.armorclass['Fighting Style'] = 1
 ```
 
 ## Dueling

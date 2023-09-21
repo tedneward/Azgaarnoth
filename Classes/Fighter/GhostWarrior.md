@@ -3,8 +3,15 @@ The Ghost Warrior draws upon the collective wisdom, knowledge, and experience of
 
 The Ghost Warrior is most commonly found among the tribes of Yithi, Zhi, and (increasingly) among the United Hordes.
 
+```
+name = 'Ghost Warrior'
+description = "***Martial Archetype: Ghost Warrior.*** The Ghost Warrior draws upon the collective wisdom, knowledge, and experience of a choir of ghosts or other ancestral spirits. This choir remains bonded to them, invisible and silent until summoned, offering guidance until the warrior fulfills their destiny or perishes in battle. Such a choir includes ancestral spirits, as well as spirits of former protectors of their clan and legendary warriors slain in combat--and perhaps even an enemy or rival slain by their hand. When the Ghost Warrior needs insight or advice, they listen to these spirits and--if wise--heed their counsel. In those moments where the ghost warrior needs an edge against enemies, they allow one of the spirits to possess their body. When the time comes and the ghost warrior falls, then they become part of another warrior's choir, continuing the cycle of life and death."
+```
+
 ## Ghostly Choir
-When you choose this archetype at 3rd level, you gain a collection of spirits known as a choir. These spirits, bound to you until your death, follow and watch over you. In times of danger or stress, you call upon one of these spirits to aid you. Each spirit offers a different benefit, but each demands a sacrifice in exchange for their help.
+*3rd-level Ghost Warrior feature*
+
+You have a collection of spirits known as a choir. These spirits, bound to you until your death, follow and watch over you. In times of danger or stress, you call upon one of these spirits to aid you. Each spirit offers a different benefit, but each demands a sacrifice in exchange for their help.
 
 ***Ghosts.*** You gain the services of four ghosts of your choice, which are described below under "Spirits." Each spirit provides a different benefit; some aid your attacks or defenses, while others help you with ability checks or saving throws. You can only benefit from one spirit per attack or action.
 
@@ -17,15 +24,23 @@ Once you've gained a particular spirit's benefit, you cannot call upon that same
 **Spirit save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
 ## The Spirit Path
-At 3rd level, as long as you have at least one spirit you have not invoked, you gain proficiency in two skills chosen from History, Medicine, Religion, and Survival. If you have called upon all your spirits, you lose this feature until you complete a short or long rest.
+*3rd-level Ghost Warrior feature*
+
+As long as you have at least one spirit you have not invoked, you gain proficiency in two skills chosen from History, Medicine, Religion, and Survival. If you have called upon all your spirits, you lose this feature until you complete a short or long rest.
 
 ## Ghostly Counsel
-When you achieve 7th level, as a free action you can call upon any one of your spirits to double your proficiency bonus in one skill of your choice, in place of the usual bonus that spirit provides.
+*7th-level Ghost Warrior feature*
+
+As a free action you can call upon any one of your spirits to double your proficiency bonus in one skill of your choice, in place of the usual bonus that spirit provides.
 
 ## Greater Spirit Choir
-Starting at 10th level, add three additional spirits to your choir. At 18th level, you gain an additional three spirits.
+*10th-level Ghost Warrior feature*
+
+Add three additional spirits to your choir. At 18th level, you gain an additional three spirits.
 
 ## Resurgence
+*15th-level Ghost Warrior feature*
+
 At 15th level, you regain access to two spirits of your choice if you have no spirits remaining to call upon when you roll initiative.
 
 # Spirits
@@ -43,11 +58,11 @@ When you gain a new fighter level, you can change one of your spirits for anothe
 
 ***Fallen Hero.*** He bolsters your reserves and helps you overcome hopeless odds. When an attack would drop you to 0 hit points, as a reaction you can summon this spirit. You remain at 1 hit point, standing and conscious. If you take further damage that drops you to 0 hit points, you fall unconscious.
 
-***Healer.*** Her gentle touch alleviates pain and staunches wounds. When you invoke the healer as an action, you may expend a number of your available recovery hit dice equal to 1 plus 1  additional die per five levels, as part of that action. Alternatively, you can ask the spirit to infuse one of your allies within 30 feet that you can see with the benefits of one of your recovery dice.
+***Healer.*** Her gentle touch alleviates pain and staunches wounds. When you invoke the healer as an action, you may expend a number of your available recovery hit dice equal to 1 plus 1 additional die per five levels, as part of that action. Alternatively, you can ask the spirit to infuse one of your allies within 30 feet that you can see with the benefits of one of your recovery dice.
 
 ***Hunter.*** This spirit guides your step, allowing you to move stealthily. Invoke this spirit as a bonus action to gain advantage on your next Dexterity (Stealth) check.
 
-***Maiden.*** She grants you a burst of speed. When you draw on this spirit, you can take dash as a bonus action.
+***Maiden.*** She grants you a burst of speed. When you draw on this spirit, you can take Dash as a bonus action.
 
 ***Mentor.*** He goads, cajoles, and pushes you beyond your physical limits. Invoke this spirit as a bonus action to gain advantage on your next Strength or Constitution ability check.
 
@@ -63,8 +78,7 @@ When you gain a new fighter level, you can change one of your spirits for anothe
 
 ***Skald.*** She teaches you a rousing war cry to rally your comrades. As an action, each ally within 30 feet who can hear you can either automatically succeed at a death saving throw or remove one of the following conditions: charmed, frightened, poisoned, or one level of exhaustion. You gain no benefit from this feature.
 
-***Steed.*** A spectral horse appears at your side, plainly visible. You can summon your spectral steed as an action. Treat the mount as a riding horse. The mount remains for up to one hour per level, or until you dismiss it as a bonus action, whichever comes first. The mount only has 1 hit
-point.
+***Steed.*** A spectral horse appears at your side, plainly visible. You can summon your spectral steed as an action. Treat the mount as a riding horse. The mount remains for up to one hour per level, or until you dismiss it as a bonus action, whichever comes first. The mount only has 1 hit point.
 
 ***Storyteller.*** Her song or poem inspires you when you need it most. You gain +1d4 temporary hit points. These hit points last for one minute and do not stack (use the greater value).
 

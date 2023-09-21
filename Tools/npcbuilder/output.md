@@ -2,7 +2,7 @@
 >*Medium Female humanoid/celestial (Fallen Aasimar) Fighter (Eldritch Knight) 20, any alignment*
 >___
 >- **Armor Class** 16 (Chain mail (16),DEX (+0))
->- **Hit Points** 164 (20d10 + 22)
+>- **Hit Points** 153 (20d10 + 22)
 >- **Speed** 30 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
@@ -20,7 +20,7 @@
 >- **Senses** darkvision 60ft,passive Perception 10
 >- **Languages** Common,Celestial
 >___
->***Fighting Style: Archery.*** You gain a +2 bonus to attack rolls you make with ranged weapons.
+>***Fighting Style: Defense.*** While you are wearing armor, you gain a +1 bonus to AC.
 >
 >***Weapon Bond.*** You learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond. Once you have bonded a weapon to yourself, you can't be disarmed of that weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand. You can have up to two bonded weapons, but can summon only one at a time with your bonus action. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
 >
