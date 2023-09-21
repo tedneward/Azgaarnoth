@@ -62,7 +62,7 @@ Your magical archery is ever available to you when you need it most. If you roll
 def level15(npc):
     npc.traits.append("***Ever-Ready Shot.*** If you roll initiative and have no uses of Arcane Shot remaining, you regain one use of it.")
     choosearcaneshot(npc)
-    npc.arcaneshot['uses'] = 3
+    npc.arcaneshot['uses'] = 4
 ```
 
 ## Arcane Shot Options
@@ -75,7 +75,7 @@ If an option requires a saving throw, your Arcane Shot save DC equals 8 + your p
 
 ```
 def banishingarrow(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Banishing Arrow. If the arrow hits a creature, the target takes the usual damage, {'plus 2d6 force damage, ' if npc.levels('Fighter') > 17 else ''}and must also succeed on a Charisma saving throw (DC {8 + npc.proficiencybonus() + INTbonus()}) or be banished. While banished in this way, its speed is 0, and it is incapacitated. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied."))
+    npc.defer(lambda npc: npc.actions.append(f"***Banishing Arrow.*** If the arrow hits a creature, the target takes the usual damage, {'plus 2d6 force damage, ' if npc.levels('Fighter') > 17 else ''}and must also succeed on a Charisma saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}) or be banished. While banished in this way, its speed is 0, and it is incapacitated. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied."))
 ```
 
 * **Brute Bane Arrow**. You weave necromantic magic into your arrow. If the arrow hits a creature, the target takes an extra 2d6 necrotic damage, and it must make a Constitution saving throw. On a failed save, the damage of the target's attacks is halved until the start of your next turn.
@@ -83,7 +83,7 @@ def banishingarrow(npc):
 
 ```
 def brutebanearrow(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Brute Bane Arrow.*** If the arrow hits a creature, the target takes the usual damage, plus {'2d6' if npc.levels('Fighter') < 18 else '4d6'} necrotic damage, and must also succeed on a Constitution saving throw (DC {8 + npc.proficiencybonus() + INTbonus()}). On a failed save, the damage of the target's attacks is halved until the start of your next turn."))
+    npc.defer(lambda npc: npc.actions.append(f"***Brute Bane Arrow.*** If the arrow hits a creature, the target takes the usual damage, plus {'2d6' if npc.levels('Fighter') < 18 else '4d6'} necrotic damage, and must also succeed on a Constitution saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}). On a failed save, the damage of the target's attacks is halved until the start of your next turn."))
 ```
 
 * **Bursting Arrow**. You imbue your arrow with a blast of force energy drawn from the school of evocation. If the arrow hits a creature, the target and each creature within 10 feet of it also take 2d6 force damage each.
@@ -99,7 +99,7 @@ def burstingarrow(npc):
 
 ```
 def graspingarrow(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Grasping Arrow.*** When this arrow strikes its target, conjuration magic creates grasping, poisonous brambles, which wrap around the target. If the arrow hits a creature, the target takes an extra {'2d6' if npc.levels('Fighter') < 18 else '4d6'} poison damage, its speed is reduced by 10 feet, and it takes {'2d6' if npc.levels('Fighter') < 18 else '4d6'} slashing damage the first time on each turn it moves 1 foot or more without teleporting. The target or any creature that can reach it can use its action to remove the brambles with a successful Strength (Athletics) check (DC {8 + npc.proficiencybonus() + INTbonus()}). Otherwise, the brambles last for 1 minute or until you use this option again."))
+    npc.defer(lambda npc: npc.actions.append(f"***Grasping Arrow.*** When this arrow strikes its target, conjuration magic creates grasping, poisonous brambles, which wrap around the target. If the arrow hits a creature, the target takes an extra {'2d6' if npc.levels('Fighter') < 18 else '4d6'} poison damage, its speed is reduced by 10 feet, and it takes {'2d6' if npc.levels('Fighter') < 18 else '4d6'} slashing damage the first time on each turn it moves 1 foot or more without teleporting. The target or any creature that can reach it can use its action to remove the brambles with a successful Strength (Athletics) check (DC {8 + npc.proficiencybonus() + npc.INTbonus()}). Otherwise, the brambles last for 1 minute or until you use this option again."))
 ```
 
 * **Mind-Scrambling Arrow**. Your enchantment magic causes this arrow to temporarily beguile its target. Choose one of your allies within 30 feet of the target. If the arrow hits a creature, the target takes an extra 2d6 psychic damage, and it must succeed on a Wisdom saving throw or it can't attack the chosen ally or include that ally in a harmful area of effect until the start of your next turn. This effect ends early if the chosen ally deals any damage to the target.
@@ -107,7 +107,7 @@ def graspingarrow(npc):
 
 ```
 def mindscramblingarrow(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Mind-Scrambling Arrow.*** Choose one of your allies within 30 feet of the target. If the arrow hits a creature, the target takes an extra {'2d6' if npc.levels('Fighter') < 18 else '4d6'} psychic damage, and it must succeed on a Wisdom saving throw (DC {8 + npc.proficiencybonus() + INTbonus()}) or it can't attack the chosen ally or include that ally in a harmful area of effect until the start of your next turn. This effect ends early if the chosen ally deals any damage to the target."))
+    npc.defer(lambda npc: npc.actions.append(f"***Mind-Scrambling Arrow.*** Choose one of your allies within 30 feet of the target. If the arrow hits a creature, the target takes an extra {'2d6' if npc.levels('Fighter') < 18 else '4d6'} psychic damage, and it must succeed on a Wisdom saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}) or it can't attack the chosen ally or include that ally in a harmful area of effect until the start of your next turn. This effect ends early if the chosen ally deals any damage to the target."))
 ```
 
 * **Piercing Arrow**. You use transmutation magic to give your arrow an ethereal quality. When you use this option, you don't make an attack roll for the attack. Instead, the arrow fires forward in a line that is 1 foot wide and 30 feet long, before disappearing. The arrow passes harmlessly through objects, ignoring cover. Each creature in that line must make a Dexterity saving throw. On a failed save, a target takes damage as if it were hit by the arrow, plus an extra 1d6 piercing damage. On a successful save, a target takes half as much damage.
@@ -115,7 +115,7 @@ def mindscramblingarrow(npc):
 
 ```
 def piercingarrow(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Piercing Arrow.*** When you use this option, you don't make an attack roll for the attack. Instead, the arrow fires forward in a line that is 1 foot wide and 30 feet long, before disappearing. The arrow passes harmlessly through objects, ignoring cover. Each creature in that line must make a Dexterity saving throw (DC {8 + npc.proficiencybonus() + INTbonus()}). On a failed save, a target takes damage as if it were hit by the arrow, plus an extra {'1d6' if npc.levels('Fighter') < 18 else '2d6'} piercing damage. On a successful save, a target takes half as much damage."))
+    npc.defer(lambda npc: npc.actions.append(f"***Piercing Arrow.*** When you use this option, you don't make an attack roll for the attack. Instead, the arrow fires forward in a line that is 1 foot wide and 30 feet long, before disappearing. The arrow passes harmlessly through objects, ignoring cover. Each creature in that line must make a Dexterity saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}). On a failed save, a target takes damage as if it were hit by the arrow, plus an extra {'1d6' if npc.levels('Fighter') < 18 else '2d6'} piercing damage. On a successful save, a target takes half as much damage."))
 ```
 
 * **Seeking Arrow**. Using divination magic, you grant your arrow the ability to seek out your target, allowing the arrow to curve and twist its path in search of its prey. When you use this option, you don't make an attack roll for the attack. Instead, choose one creature you have seen in the past minute. The arrow flies toward that creature, moving around corners if necessary and ignoring three-quarters cover and half cover. If the target is within the weapon's range and there is a path large enough for the arrow to travel to the target, the target must make a Dexterity saving throw. On a failed save, it takes damage as if it were hit by the arrow, plus an extra 1d6 force damage, and you learn the target's current location. On a successful save, the target takes half as much damage, and you don't learn its location.
@@ -123,7 +123,7 @@ def piercingarrow(npc):
 
 ```
 def seekingarrow(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Seeking Arrow.*** Using divination magic, you grant your arrow the ability to seek out your target, allowing the arrow to curve and twist its path in search of its prey. When you use this option, you don't make an attack roll for the attack. Instead, choose one creature you have seen in the past minute. The arrow flies toward that creature, moving around corners if necessary and ignoring three-quarters cover and half cover. If the target is within the weapon's range and there is a path large enough for the arrow to travel to the target, the target must make a Dexterity saving throw (DC {8 + npc.proficiencybonus() + INTbonus()}). On a failed save, it takes damage as if it were hit by the arrow, plus an extra {'1d6' if npc.levels('Fighter') < 18 else '2d6'} force damage, and you learn the target's current location. On a successful save, the target takes half as much damage, and you don't learn its location."))
+    npc.defer(lambda npc: npc.actions.append(f"***Seeking Arrow.*** Using divination magic, you grant your arrow the ability to seek out your target, allowing the arrow to curve and twist its path in search of its prey. When you use this option, you don't make an attack roll for the attack. Instead, choose one creature you have seen in the past minute. The arrow flies toward that creature, moving around corners if necessary and ignoring three-quarters cover and half cover. If the target is within the weapon's range and there is a path large enough for the arrow to travel to the target, the target must make a Dexterity saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}). On a failed save, it takes damage as if it were hit by the arrow, plus an extra {'1d6' if npc.levels('Fighter') < 18 else '2d6'} force damage, and you learn the target's current location. On a successful save, the target takes half as much damage, and you don't learn its location."))
 ```
 
 * **Shadow Arrow**. You weave illusion magic into your arrow, causing it to occlude your foe's vision with shadows. If the arrow hits a creature, the target takes an extra 2d6 psychic damage, and it must succeed on a Wisdom saving throw or be unable to see anything farther than 5 feet away until the start of your next turn. 
@@ -131,7 +131,7 @@ def seekingarrow(npc):
 
 ```
 def shadowarrow(npc):
-    npc.defer(lambda npc: npc.traits.append(f"***Shadow Arrow.*** If the arrow hits a creature, the target takes the usual damage, plus {'2d6' if npc.levels('Fighter') < 18 else '4d6'} psychic damage, and must also succeed on a Wisdom saving throw (DC {8 + npc.proficiencybonus() + INTbonus()}) or be unable to see anything farther than 5 feet away until the start of your next turn."))
+    npc.defer(lambda npc: npc.actions.append(f"***Shadow Arrow.*** If the arrow hits a creature, the target takes the usual damage, plus {'2d6' if npc.levels('Fighter') < 18 else '4d6'} psychic damage, and must also succeed on a Wisdom saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}) or be unable to see anything farther than 5 feet away until the start of your next turn."))
 ```
 
 ```

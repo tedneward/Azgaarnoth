@@ -200,7 +200,6 @@ def chooseskill(npc, skills = None):
     
     for sk in npc.skills:
         if sk in skilllist:
-            print("Removing " + str(sk) + " from the npc skill list: " + str(npc.skills))
             skilllist.remove(sk)
 
     skill = choose("Choose a skill:", skilllist)
@@ -273,6 +272,58 @@ weapons = {
     'Net': ['-', 'special', ['thrown (range 5/15)']]
 }
 
+def fullcaster(npc, ability):
+    spellcasting = NPC.Spellcasting(npc, ability)
+    spellcasting.abilitybonus = npc.INTbonus if ability == 'INT' else npc.WISbonus if ability == 'WIS' else npc.CHAbonus if ability == 'CHA' else None
+    spellcasting.slottable = {
+        1: [ 2 ],
+        2: [ 3 ],
+        3: [ 4, 2 ], 
+        4: [ 4, 3 ],
+        5: [ 4, 3, 2 ],
+        6: [ 4, 3, 3 ],
+        7: [ 4, 3, 3, 1 ],
+        8: [ 4, 3, 3, 2 ],
+        9: [ 4, 3, 3, 3, 1 ],
+        10: [ 4, 3, 3, 3, 2] ,
+        11: [ 4, 3, 3, 3, 2, 1 ],
+        12: [ 4, 3, 3, 3, 2, 1 ],
+        13: [ 4, 3, 3, 3, 2, 1, 1 ],
+        14: [ 4, 3, 3, 3, 2, 1, 1 ],
+        15: [ 4, 3, 3, 3, 2, 1, 1, 1 ],
+        16: [ 4, 3, 3, 3, 2, 1, 1, 1 ],
+        17: [ 4, 3, 3, 3, 2, 1, 1, 1, 1 ],
+        18: [ 4, 3, 3, 3, 3, 1, 1, 1, 1 ],
+        19: [ 4, 3, 3, 3, 3, 2, 1, 1, 1 ],
+        20: [ 4, 3, 3, 3, 3, 2, 2, 1, 1 ]
+    }
+    return spellcasting
+
+def halfcaster(npc, ability):
+    spellcasting = NPC.Spellcasting(npc, ability)
+    spellcasting.abilitybonus = npc.INTbonus if ability == 'INT' else npc.WISbonus if ability == 'WIS' else npc.CHAbonus if ability == 'CHA' else None
+    spellcasting.slottable = {
+        3: [ 2 ], 
+        4: [ 3 ],
+        5: [ 3 ],
+        6: [ 3 ],
+        7: [ 4, 2 ],
+        8: [ 4, 2 ],
+        9: [ 4, 2 ],
+        10: [ 4, 3 ] ,
+        11: [ 4, 3 ],
+        12: [ 4, 3 ],
+        13: [ 4, 3, 2 ],
+        14: [ 4, 3, 2 ],
+        15: [ 4, 3, 2 ],
+        16: [ 4, 3, 3 ],
+        17: [ 4, 3, 3 ],
+        18: [ 4, 3, 3 ],
+        19: [ 4, 3, 3, 1 ],
+        20: [ 4, 3, 3, 1 ]
+    }
+    return spellcasting
+
 
 
 # ------------------------------------
@@ -313,6 +364,8 @@ def loadmodule(filename, modulename=None):
             "chooseability": chooseability,
             "choosefeat": choosefeat,
             "chooseskill": chooseskill,
+            "fullcaster": fullcaster,
+            "halfcaster": halfcaster,
             "replace": replace,
             "random": randomlist,
             "dieroll": dieroll,
@@ -742,14 +795,15 @@ class NPC:
                        
         def getsenses():
             pp = f"passive Perception {10 + self.WISbonus() + (self.proficiencybonus() if 'Perception' in self.skills else 0)}"
-            text = ""
+            items = []
             for (key, value) in self.senses.items():
                 if key == 'passive Perception':
-                    text += f"passive Perception {10 + value + self.WISbonus() + (self.proficiencybonus() if 'Perception' in self.skills else 0)}"
+                    items.append(f"passive Perception {10 + value + self.WISbonus() + (self.proficiencybonus() if 'Perception' in self.skills else 0)}")
                 else:
-                    text += f"{key} {value} ft, "
-            if 'passive Perception' in list(self.senses.keys()): return text
-            else: return text + pp
+                    items.insert(0, f"{key} {value}")
+            #if 'passive Perception' in list(self.senses.keys()): return text
+            #else: return text + pp
+            return ",".join(items)
         
         def getracesubstring():
             return f"{self.race.type} ({'' if self.subrace == None else self.subrace.name + ' '}{self.race.name})"
@@ -773,7 +827,7 @@ class NPC:
         linesep = ">___\n"
 
         result  =  ">### Name\n"
-        result += f'*{self.size} {self.gender} {getracesubstring()} {getclasssubstring()}, any alignment*\n'
+        result += f'>*{self.size} {self.gender} {getracesubstring()} {getclasssubstring()}, any alignment*\n'
         result += linesep
         result += f">- **Armor Class** {getarmorclass()}\n"
         result += f">- **Hit Points** {self.hitpoints} ({self.hitdicedesc()} + {self.hpconbonus})\n"
