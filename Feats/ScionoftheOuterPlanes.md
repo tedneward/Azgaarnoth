@@ -14,8 +14,20 @@ The Outlands | Psychic | [mage hand](../Magic/Spells/mage-hand.md)
 
 ```
 name = 'Scion of the Outer Planes'
-description = ""
+description = "***Feat: Scion of the Outer Planes.*** You are influenced by and adept at navigating planar pathways and the strange realities of the Outer Planes."
 def prereq(npc): return True
 def apply(npc):
-    pass
+    planes = {
+        'Astral': ['psychic', 'message'],
+        'Chaotic': ['necrotic', 'minor illusion'],
+        'Evil': ['necrotic', 'chill touch'],
+        'Good': ['radiant', 'sacred flame'],
+        'Lawful': ['radiant', 'guidance'],
+        'Outlands': ['psychic', 'mage hand']
+    }
+    (planename, planeeffects) = choose("Choose your planar connection: ", planes)
+    npc.scionplane = planename
+    npc.damageresistances.append(planeeffects[0])
+    npc.spellcasting['Scion'].cantripsknown.append(spelllinkify(planeeffects[1]))
+    npc.spellcasting['Scion'].ability = choose("Choose your spellcasting ability: ", ['INT','WIS','CHA'])
 ```

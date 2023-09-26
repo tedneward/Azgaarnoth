@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import argparse
-import dis
 import os
 import random
 import traceback
@@ -157,6 +156,10 @@ def choose(text, choices):
     else:
         raise BaseException('Unrecognized type of choices: ' + str(type(choices)))
 
+def itemlinkify(name):
+    linkdest = name.replace(' ','-')
+    return f"[{name}](http://azgaarnoth.tedneward.com/magic/items/{linkdest}/)"
+
 def spelllinkify(name):
     linkdest = name.replace(' ','-')
     return f"[{name}](http://azgaarnoth.tedneward.com/magic/spells/{linkdest}/)"
@@ -186,6 +189,7 @@ def choosefeat(npc):
     (chosenfeatname, chosenfeatmod) = choose("Choose a feat: ", choices)
     chosenfeatmod.apply(npc)
     npc.feats.append(chosenfeatname)
+    npc.description.append(chosenfeatmod.description)
     return chosenfeatname
 
 def chooseskill(npc, skills = None):
@@ -532,6 +536,7 @@ class NPC:
             self.spellsprepared = 0
             self.spellsalwaysprepared = []
             self.spells = { 1: [], 2: [], 3: [], 4: [], 5: [], 6: [], 7: [], 8: [], 9: [] }
+            self.perday = { 1: [], 2: [], 3: [], 'atwill': []}
 
             # This is a dict of level-to-list describing the slots at each level (offset by 1, of course....)
             self.slottable = {}
@@ -618,6 +623,8 @@ class NPC:
 
         # Normalizers are fns run when the NPC is frozen;
         # usually these are level-dependent text/traits/features/etc
+        # that we have to wait until the NPC is done building
+        # before we can resolve to actual numbers
         self.normalizers = []
         self.deferred = {}
 

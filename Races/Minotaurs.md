@@ -35,8 +35,6 @@ type = 'humanoid'
 
 ```
 def level0(npc):
-    npc.description.append("***Race: Minotaur.***")
-
     npc.size = 'Medium'
 
     npc.hitpoints += dieroll('6d10') + (6 * npc.CONbonus())

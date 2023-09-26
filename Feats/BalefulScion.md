@@ -1,5 +1,5 @@
 ## Baleful Scion
-*Prerequisite: 4th Level, [Scion of the Outer Planes (Evil Outer Plane) Feat](#scion-of-the-outer-planes)*
+*Prerequisite: 4th Level, [Scion of the Outer Planes (Evil Outer Plane) Feat](ScionoftheOuterPlanes.md)*
 
 You can channel cosmic forces of evil that cause pain but invigorate your being. You can choose your own actions despite this malign connection. You gain the following benefits:
 

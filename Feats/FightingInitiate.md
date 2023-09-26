@@ -5,4 +5,11 @@ Your martial training has helped you develop a particular style of fighting. As 
 
 Whenever you gain a level, you can replace this feat's fighting style with another one from the fighter class that you don't have.
 
-
+```
+name = 'Fighting Initiate'
+description = "***Feat: Fighting Initiate.*** Your martial training has helped you develop a particular style of fighting."
+def prereq(npc):
+    return True
+def apply(npc):
+    npc.style = allclasses['Fighter'].choosestyle(npc)
+```

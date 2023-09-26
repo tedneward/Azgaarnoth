@@ -76,11 +76,16 @@ Female: Dagnyra, Gnara, Gnora, Gnyrl, Hyra, Hyrgna, Lhyra, Lhyrl, Malgna, Myrl, 
 
 ```
 def generate_name(npc, gender):
-  """
-Male: Dagnyr, Dhyrn, Doryc, Ghyrryn, Gnasc, Gnoryc, Gnyrn, Hyrn, Lhoryn, Lhyr, Mognyr, Sorgnyn, Thyrn, Toryc, Yrgnyn, Yrych
+    female_surnames = ['Dagnyra', 'Gnara', 'Gnora', 'Gnyrl', 'Hyra', 'Hyrgna', 'Lhyra', 'Lhyrl', 'Malgna', 'Myrl', 'Sargna', 'Shyrla', 'Tarnyra', 'Yrgna']
+    male_surnames = ['Dagnyr', 'Dhyrn', 'Doryc', 'Ghyrryn', 'Gnasc', 'Gnoryc', 'Gnyrn', 'Hyrn', 'Lhoryn', 'Lhyr', 'Mognyr', 'Sorgnyn', 'Thyrn', 'Toryc', 'Yrgnyn', 'Yrych']
+    # Family names
+    family_names = ['Artar', 'Athak', 'Bagoslalar', 'Bregan', 'Dheubpurwen', 'Dragazakama', 'Entragath', 'Feldadar', 
+        'Heral', 'Jernovalrimi', 'Jernokal', 'Malauth', 'Krasgosian', 'Natimorneh', 'Kaziganthi', 'Lagrangli', 
+        'Larenthian', 'Mascun', 'Orilg', 'Sahramar', 'Shiagan', 'Orilgrammar', 'Masral', 'Kulris', 'Manaron', 
+        'Sumarr', 'Teskos',  'Zhakan', 'Tanhos', 'Ilhagos']
 
-Female: Dagnyra, Gnara, Gnora, Gnyrl, Hyra, Hyrgna, Lhyra, Lhyrl, Malgna, Myrl, Sargna, Shyrla, Tarnyra, Yrgna
-  """
+    if gender == 'female': return random(female_surnames) + " " + random(family_names)
+    else: return random(male_surnames) + " " + random(family_names)
 ```
 
 **Random Height and Weight Table: Gnoll Random Height and Weight**
@@ -90,9 +95,9 @@ Base Height | Height Modifier | Base Weight | Weight Modifier
 5'11" | +2d6 | 210 lb. | * (2d4) lb.
 
 ```
-def height(npc):
+def generate_height(npc):
     pass
 
-def weight(npc):
+def generate_weight(npc):
     pass
 ```
