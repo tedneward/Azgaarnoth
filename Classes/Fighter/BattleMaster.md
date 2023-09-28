@@ -103,6 +103,7 @@ The suite of maneuvers you choose, when combined with a fighting style and feats
 
 You prefer to deal with your enemies from afar, trusting in a well-placed arrow, javelin, or sling bullet to end a fight without a response. You rely on accuracy and probably subscribe to the axiom that "those who live by the sword die by the bow." 
 
+
 #### Bodyguard
 **Fighting Style:** [Interception](Styles.md#interception), [Protection](Styles.md#protection) 
 
@@ -112,6 +113,7 @@ You prefer to deal with your enemies from afar, trusting in a well-placed arrow,
 
 Love, money, or some other obligation motivates you to place your own body between harm and the one you're sworn to protect. You have honed the ability to sniff out potential threats and see your charge through dangerous situations.
 
+
 #### Brawler
 **Fighting Style:** [Blind Fighting](Styles.md#blind-fighting), [Two-Weapon Fighting](Styles.md#two-weapon-fighting), [Unarmed Fighting](Styles.md#unarmed-fighting)
 
@@ -120,6 +122,7 @@ Love, money, or some other obligation motivates you to place your own body betwe
 **Feats:** [Athlete](../Feats.md#athlete), [Durable](../Feats.md#durable), [Grappler](../Feats.md#grappler), [Resilient](../Feats.md#resilient), [Shield Master](../Feats.md#shield-master), [Tavern Brawler](../Feats.md#tavern-brawler), [Tough](../Feats.md#tough)
 
 When bottles start breaking and chairs start flying, you're in your element. You love a good scrap, and you've likely seen your share of them. You may or may not have formal training, and while others might call you a dirty fighter, you're still alive.
+
 
 #### Duelist
 **Fighting Style:** [Dueling](Styles.md#dueling), [Two-Weapon Fighting](Styles.md#two-weapon-fighting)
@@ -140,6 +143,7 @@ You regard the duel as a proud tradition, a test of skill and wits that brings h
 
 You've fought to entertain crowds, whether for sport or as punishment. Along the way, you learned to use all manner of weapons to battle all kinds of adversaries. You're practical yet theatrical, and you know how to employ fear as an effective tool in a fight.
 
+
 #### Hoplite
 **Fighting Style:** [Defense](Styles.md#defense), [Thrown Weapon Fighting](Styles.md#two-weapon-fighting)
 
@@ -148,6 +152,7 @@ You've fought to entertain crowds, whether for sport or as punishment. Along the
 **Feats:** [Athlete](../Feats.md#athlete), [Grappler](../Feats.md#grappler), [Polearm Master](../Feats.md#polearm-master), [Sentinel](../Feats.md#sentinel), [Shield Master](../Feats.md#shield-master)
 
 With spear and shield, you follow in the footsteps of the heroes of ages past. You rely on discipline and athleticism to overcome improbable odds. Whether fighting in ranks alongside your comrades or squaring off as a lone warrior, you're equal to the task.
+
 
 #### Lancer
 **Fighting Style:** [Dueling](Styles.md#dueling)
@@ -158,6 +163,7 @@ With spear and shield, you follow in the footsteps of the heroes of ages past. Y
 
 When the cavalry is called in, that means you. You ride out to greet your enemy with the point of your weapon. As you charge, the ground trembles, and only the heaviest blows can deter you.
 
+
 #### Outrider
 **Fighting Style:** [Archery](Styles.md#archery)
 
@@ -166,6 +172,7 @@ When the cavalry is called in, that means you. You ride out to greet your enemy 
 **Feats:** [Alert](../Feats.md#alert), [Crossbow Expert](../Feats.md#crossbow-expert), [Mounted Combatant](../Feats.md#mounted-combatant), [Observant](../Feats.md#observant), [Sharpshooter](../Feats.md#sharpshooter)
 
 You find freedom in the saddle and a companion in your mount. A headlong charge into combat is a blunt instrument for oafs. You prefer mobility and range, opting to find advantageous positions that allow you to deal with foes at full gallop while evading the most dangerous threats.
+
 
 #### Pugilist
 **Fighting Style:** [Unarmed Fighting](Styles.md#unarmed-fighting)
@@ -176,14 +183,16 @@ You find freedom in the saddle and a companion in your mount. A headlong charge 
 
 Where others rely on steel, you've got your fists. Whether through training or experience, you've developed a superior technique that can help you overcome an enemy in an up-close fight.
 
+
 #### Shock Trooper
 **Fighting Style:** [Great Weapon Fighting](Styles.md#great-weapon-fighting)
 
 **Maneuvers:** [Menacing Attack](Maneuvers.md#menacing-attack), [Pushing Attack](Maneuvers.md#pushing-attack), [Sweeping Attack](Maneuvers.md#sweeping-attack)
 
-**Feats:** [Charger](../Feats.md#charger), [Great [Weapon Master](../Feats.md#weapon-master)](../Feats.md#great-weapon-master), [Heavy Armor Master](../Feats.md#heavy-armor-master)
+**Feats:** [Charger](../Feats.md#charger), [Great Weapon Master](../Feats.md#weapon-master)](../Feats.md#great-weapon-master), [Heavy Armor Master](../Feats.md#heavy-armor-master)
 
 Subtlety is not your style. You're trained to get straight into the fighting, busting through enemy lines and applying tremendous pressure quickly. Those who ignore you in combat do so at their peril. 
+
 
 #### Skirmisher
 **Fighting Style:** [Archery](Styles.md#archery), [Thrown Weapon Fighting](Styles.md#thrown-weapon-fighting)
@@ -193,6 +202,7 @@ Subtlety is not your style. You're trained to get straight into the fighting, bu
 **Feats:** [Alert](../Feats.md#alert), [Dual Wielder](../Feats.md#dual-wielder), [Mobile](../Feats.md#mobile), [Skulker](../Feats.md#skulker)
 
 You thrive amid the chaos of battle. You use your mobility and versatility in combat to soften your adversaries and disrupt their formations. An enemy's plan rarely survives contact with you.
+
 
 #### Strategist
 **Fighting Style:** [Defense](Styles.md#defense)
