@@ -21,16 +21,17 @@ description = "***Fire Genasi.*** Descended from efreet, the genies of the Eleme
 def level0(npc):
     npc.damageresistances.append('fire')
 
-    npc.newspellcasting('Genasi', choose("Choose a spellcasting ability: ", ['INT', 'WIS', 'CHA'])).cantripsknown.append('produce flame')
+    ability = choose("Choose a spellcasting ability: ", ['INT', 'WIS', 'CHA'])
+    spellcasting = innatecaster(npc, ability, 'Fire Genasi')
+    spellcasting.cantripsknown.append('produce flame')
 
     npc.languages.append('Common')
     npc.languages.append('Pyro')
 
 def level3(npc):
-    npc.spellcasting['Genasi'].spells[1].append('burning hands')
-    npc.spellcasting['Genasi'].slots = [ 1 ]
+    npc.spellcasting['Fire Genasi'].perday[1] = []
+    npc.spellcasting['Fire Genasi'].perday[1].append('burning hands')
 
 def level5(npc):
-    npc.spellcasting['Genasi'].spells[1].append('flame blade')
-    npc.spellcasting['Genasi'].slots = [ 1, 1 ]
+    npc.spellcasting['Fire Genasi'].perday[1].append('flame blade')
 ```

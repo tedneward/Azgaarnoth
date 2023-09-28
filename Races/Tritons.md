@@ -36,8 +36,8 @@ def level0(npc):
 
     npc.traits.append(traits['amphibious'])
 
-    npc.newspellcasting(name, 'CHA').spells[1].append('fog cloud')
-    npc.spellcasting[name].slots = [ 1 ]
+    spellcasting = innatecaster(npc, 'CHA', name)
+    spellcasting.perday[1] = ['fog cloud']
 
     npc.traits.append(traits['sea-emissary'])
 
@@ -48,10 +48,8 @@ def level0(npc):
     npc.languages.append("Aquan")
 
 def level3(npc):
-    npc.spellcasting[name].spells[2].append('gust of wind')
-    npc.spellcasting[name].slots = [ 1, 1 ]
+    npc.spellcasting[name].perday[1].append('gust of wind')
 
 def level5(npc):
-    npc.spellcasting[name].spells[3].append('wall of water')
-    npc.spellcasting[name].slots = [ 1, 1, 1 ]
+    npc.spellcasting[name].perday[1].append('wall of water')
 ```

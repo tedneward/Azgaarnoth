@@ -14,7 +14,9 @@ def prereq(npc):
     if npc.levels() < 4: return False
     if "Scion of the Outer Planes" not in npc.feats: return False
     return True
+
 def apply(npc):
     chooseability(npc)
-    npc.spellcasting['Outlands Envoy'] = 
+    npc.spellcasting['Scion'].spellsalwaysprepared.append("misty step")
+    npc.spellcasting['Scion'].spellsalwaysprepared.append("tongues")
 ```

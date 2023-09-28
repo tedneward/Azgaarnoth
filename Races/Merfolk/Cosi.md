@@ -15,5 +15,6 @@ def level0(npc):
     npc.skills.append("Sleight of Hand")
     npc.skills.append("Stealth")
 
-    npc.cantripsknown.append("CHOOSE-Bard")
+    spellcasting = innatecaster(npc, 'CHA', "Cosi Merfolk")
+    spellcasting.cantripsknown.append("CHOOSE-Bard")
 ```

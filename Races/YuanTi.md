@@ -60,10 +60,11 @@ def level0(npc):
 * **Innate Spellcasting**. You know the [poison spray](../Magic/Spells/poison-spray.md) cantrip. You can cast [animal friendship](../Magic/Spells/animal-friendship.md) an unlimited number of times with this trait, but you can target only snakes with it. Starting at 3rd level, you can also cast [suggestion](../Magic/Spells/suggestion.md) with this trait. Once you cast it, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ```
-    npc.newspellcasting['Yuan-Ti', 'CHA'].cantripsknown.append('poison spray')
+    spellcasting = innatecaster(npc, 'CHA', name)
+    spellcasting.cantripsknown.append('poison spray')
+
     npc.actions.append(f"***Snake Friendship.*** You can cast {spelllinkify('animal friendship')} at will, but you can target only snakes with it.")
 
 def level3(npc):
-    npc.spellcasting['Yuan-Ti'].spellsknown.append('suggestion')
-    npc.spellcasting['Yuan-Ti'].slots = [ 1 ]
+    npc.spellcasting['Yuan-Ti'].preday[1] = ['suggestion']
 ```

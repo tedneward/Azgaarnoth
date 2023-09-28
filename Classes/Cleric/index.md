@@ -117,7 +117,7 @@ Wisdom is your spellcasting ability for your cleric spells. The power of your sp
 **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
 
 ```
-    sc = npc.newspellcasting(name, 'WIS')
+    sc = fullcaster(npc, 'WIS', 'Cleric')
     sc.casterclass = allclasses['Cleric']
     sc.slottable = {
         1: [ 2 ],

@@ -12,11 +12,12 @@ def level0(npc):
 
     npc.CON += 1
 
-    npc.cantripsknown.append('ray of frost')
+    spellcasting = innatecaster(npc, 'CHA', "Levistus Tiefling")
+    spellcasting.cantripsknown.append('ray of frost')
 
 def level3(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Infernal Legacy (Recharges on long rest).*** You can cast " + spelllinkify('armor of agathys') + "as a 2nd-level spell. (Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()})"))
+    npc.spellcasting['Levistus Tiefling'].perday[1] = ['armor of agathys']
 
 def level5(npc):
-    npc.defer(lambda npc: replace(f"***Infernal Legacy", npc.actions, f" (Recharges on long rest).*** You can cast {spelllinkify('armor of agathys')} as a 2nd-level spell or {spelllinkify('darkness')}. (Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()})"))
+    npc.spellcasting['Levistus Tiefling'].perday[1].append('darkness')
 ```

@@ -28,6 +28,7 @@ def apply(npc):
     (planename, planeeffects) = choose("Choose your planar connection: ", planes)
     npc.scionplane = planename
     npc.damageresistances.append(planeeffects[0])
-    npc.spellcasting['Scion'].cantripsknown.append(spelllinkify(planeeffects[1]))
-    npc.spellcasting['Scion'].ability = choose("Choose your spellcasting ability: ", ['INT','WIS','CHA'])
+    ability = choose("Choose your spellcasting ability: ", ['INT','WIS','CHA'])
+    spellcasting = innatecaster(npc, ability, 'Scion')
+    spellcasting.cantripsknown.append(spelllinkify(planeeffects[1]))
 ```

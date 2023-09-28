@@ -30,18 +30,17 @@ def level0(npc):
     npc.traits.append("***Unending Breath.*** You can hold your breath indefinitely while you’re not incapacitated.")
     npc.damageresistances.append("lightning")
 
-    npc.newspellcasting('Genasi', choose("Choose Genasi spellcasting ability: ", ['INT', 'WIS', 'CHA']))
-
-    npc.spellcasting['Genasi'].cantripsknown.append('shocking grasp')
+    ability = choose("Choose Genasi spellcasting ability: ", ['INT', 'WIS', 'CHA'])
+    spellcasting = innatecaster(npc, ability, 'Air Genasi')
+    spellcasting.cantripsknown.append('shocking grasp')
 
     npc.languages.append('Common')
     npc.languages.append('Aeral')
 
 def level3(npc):
-    npc.spellcasting['Genasi'].spells[1].append('feather fall')
-    npc.spellcasting['Genasi'].slots = [ 1 ]
+    npc.spellcasting['Air Genasi'].perday[1] = []
+    npc.spellcasting['Air Genasi'].perday[1].append('feather fall')
 
 def level5(npc):
-    npc.spellcasting['Genasi'].spells[2].append('levitate')
-    npc.spellcasting['Genasi'].slots = [ 1, 1 ]
+    npc.spellcasting['Air Genasi'].perday[1].append('levitate')
 ```

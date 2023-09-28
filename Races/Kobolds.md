@@ -61,7 +61,9 @@ def level0(npc):
     elif npc.koboldlegacy == 'Defiance':
         npc.traits.append("***Kobold Legacy: Defiance.*** You have advantage on saving throws to avoid or end the frightened condition on yourself.")
     elif npc.koboldlegacy == 'Sorcery':
-        npc.cantripsknown.append("CHOOSE-SORCERER")
+        ability = choose("Choose your socery ability: ", ['INT', 'WIS', 'CHA'])
+        spellcasting = innatecaster(npc, ability, name)
+        spellcasting.cantripsknown.append("CHOOSE-Sorcerer")
     elif npc.koboldlegacy == 'Ferocity':
         npc.defer(lambda npc: npc.actions.append(f"***Tail.*** Melee Weapon Attack: {npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5 ft., one target. Hit: 1d6 + {npc.STRbonus()} bludgeoning damage."))
     else:

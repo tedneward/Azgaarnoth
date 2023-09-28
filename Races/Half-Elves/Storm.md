@@ -73,9 +73,10 @@ def level0(npc):
 
     npc.damageresistances.append('lightning')
 
-    npc.newspellcasting("StormDragonmark", 'INT').cantripsknown.append('gust')
+    spellcasting = innatecaster(npc, 'INT', "Storm Dragonmark")
+    spellcasting.cantripsknown.append("gust")
 
 def level3(npc):
-    npc.spellcasting("StormDragonmark").spells[1].append('gust of wind')
-    npc.spellcasting("StormDragonmark").slots = [ 1 ]
+    npc.spellcasting['Storm Dragonmark'].perday[1] = []
+    npc.spellcasting['Storm Dragonmark'].perday[1].append('gust of wind')
 ```

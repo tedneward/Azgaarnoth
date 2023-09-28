@@ -12,11 +12,13 @@ description = "***Tiefling Bloodline of Baalzebul.*** The crumbling realm of Mal
 def level0(npc):
     npc.INT += 1
 
-    npc.cantripsknown.append("thaumaturgy")
+    spellcasting = innatecaster(npc, 'INT', "Baalzebul Tiefling")
+    spellcasting.cantripsknown.append("thaumaturgy")
 
 def level3(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Infernal Legacy (Recharges on long rest).*** You can cast " + spelllinkify('ray of sickness') + "as a 2nd-level spell. (Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()})"))
+    npc.spellcasting['Baalzebul Tiefling'].perday[1] = []
+    npc.spellcasting['Baalzebul Tiefling'].perday[1].append('ray of sickness')
 
 def level5(npc):
-    npc.defer(lambda npc: replace("***Infernal Legacy", npc.actions, f" (Recharges on long rest).*** You can cast {spelllinkify('ray of sickness')} as a 2nd-level spell or {spelllinkify('crown of madness')}. (Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()})"))
+    npc.spellcasting['Baalzebul Tiefling'].perday[1].append("crown of madness")
 ```

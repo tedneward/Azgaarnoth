@@ -17,5 +17,5 @@ def apply(npc):
     spellcasting.slots = [ 1 ]
 
     npc.proficiencies.append("Artisan's Tools")
-    npc.spellcasting['Artificier Initiate'] = spellcasting    
+    npc.spellcasting['Artificer Initiate'] = spellcasting    
 ```

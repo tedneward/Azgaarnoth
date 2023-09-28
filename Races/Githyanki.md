@@ -52,13 +52,12 @@ def level0(npc):
     npc.proficiencies.append('Longsword')
     npc.proficiencies.append('Greatsword')
 
-    npc.newspellcasting('Githyanki', 'INT').cantripsknown.append('mage hand')
+    spellcasting = innatecaster(npc, 'INT', name)
+    spellcasting.cantripsknown.append('mage hand')
 
 def level3(npc):
-    npc.spellcasting['Githyanki'].spells[1].append('jump')
-    npc.spellcasting['Githyanki'].slots = [ 1 ]
+    npc.spellcasting['Githyanki'].preday[1] = ['jump']
 
 def level5(npc):
-    npc.spellcasting['Githyanki'].spells[2].append('misty step')
-    npc.spellcasting['Githyanki'].slots = [ 1, 1 ]
+    npc.spellcasting['Githyanki'].preday[1].append('misty step')
 ```
