@@ -20,7 +20,11 @@ In addition, any time an attack or effect would cause you to drop your weapon, y
 
 ```
 def level3(npc):
-    npc.masteryweapon = choose("Choose the weapon: ", list(weapons.keys()))
+    weaponlist = []
+    for cats in weapons.keys():
+        weaponlist += list(weapons[cats].keys())
+
+    npc.masteryweapon = choose("Choose the weapon: ", weaponlist)
     npc.traits.append(f"***Signature Weapon: {npc.masteryweapon}.*** Add half your proficiency bonus to all attack rolls with this weapon. Should you wield another weapon of any type, you do so with disadvantage. In addition, any time an attack or effect would cause you to drop your weapon, you may choose to keep hold of it so long as you remain conscious.")
 ```
 

@@ -56,8 +56,8 @@ def level0(npc):
     spellcasting.cantripsknown.append('mage hand')
 
 def level3(npc):
-    npc.spellcasting['Githyanki'].preday[1] = ['jump']
+    npc.spellcasting['Githyanki'].perday[1] = ['jump']
 
 def level5(npc):
-    npc.spellcasting['Githyanki'].preday[1].append('misty step')
+    npc.spellcasting['Githyanki'].perday[1].append('misty step')
 ```
