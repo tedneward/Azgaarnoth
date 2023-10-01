@@ -15,7 +15,8 @@ description = "***High Elf.*** High elves and wood elves are, by this point in A
 def level0(npc):
   npc.INT += 1
 
-  npc.newspellcasting('High Elf', 'INT').cantripsknown.append("CHOOSE-Wizard")
+  spellcasting = innatecaster(npc, 'INT', "High Elf")
+  spellcasting.cantripsknown.append("CHOOSE-Wizard")
 
   npc.proficiencies.append("Longsword")
   npc.proficiencies.append("Shortsword")

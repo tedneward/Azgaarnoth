@@ -30,7 +30,13 @@ def level0(npc):
 ```
     npc.STR += 1
     npc.WIS += 1
-    npc.abilityscoreimprovement()
+    ability = choose("Choose an ability to improve: ", abilities)
+    if ability == 'STR': npc.STR += 1
+    elif ability == 'DEX': npc.DEX += 1
+    elif ability == 'CON': npc.CON += 1
+    elif ability == 'INT': npc.INT += 1
+    elif ability == 'WIS': npc.WIS += 1
+    elif ability == 'CHA': npc.CHA += 1
 ```
 
 * **Hunter's Intuition**. Your mark sharpens your senses and helps you find your prey. When you make a Wisdom (Perception) or Wisdom (Survival) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.

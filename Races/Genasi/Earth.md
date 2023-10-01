@@ -17,16 +17,17 @@ description = "***Earth Genasi.*** Tracing their ancestry to dao, the genies of 
 def level0(npc):
     npc.traits.append("***Earth Walk.*** You can move across difficult terrain without expending extra movement if you are using your walking speed on the ground or a floor.")
 
-    mergeability = choose("Choose your spellcasting ability for Merge with Stone: ", ['INT', 'WIS', 'CHA'])
+    mergeability = choose("Choose your innate spellcasting ability: ", ['INT', 'WIS', 'CHA'])
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Merge with Stone ({npc.proficiencybonus()}/Recharges on long rest).*** You can cast {spelllinkify('blade ward')}."))
 
-    npc.newspellcasting('Genasi', choose("Choose Genasi spellcasting ability: ", ['INT', 'WIS', 'CHA']))
-
-    npc.spellcasting['Genasi'].cantripsknown.append('blade ward')
+    ability = choose("Choose Genasi spellcasting ability: ", ['INT', 'WIS', 'CHA'])
+    spellcasting = innatecaster(npc, ability, 'Earth Genasi')
+    spellcasting.cantripsknown.append('blade ward')
 
     npc.languages.append('Common')
     npc.languages.append('Terran')
 
 def level5(npc):
-    npc.spellcasting['Genasi'].spells[2].append('pass without trace')
-    npc.spellcasting['Genasi'].slots = [ 0, 1 ]
+    npc.spellcasting['Earth Genasi'].perday[1] = []
+    npc.spellcasting['Earth Genasi'].perday[1].append('pass without trace')
 ```

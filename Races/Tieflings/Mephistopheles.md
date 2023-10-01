@@ -12,11 +12,12 @@ def level0(npc):
 
     npc.INT += 1
 
-    npc.cantripsknown.append('mage hand')
+    spellcasting = innatecaster(npc, 'CHA', name + " Tiefling")
+    spellcasting.cantripsknown.append('mage hand')
 
 def level3(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Infernal Legacy (Recharges on long rest).*** You can cast " + spelllinkify('burning hands') + "as a 2nd-level spell. (Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()})"))
+    npc.spellcasting[name + ' Tiefling'].perday[1] = [ 'burning hands' ]
 
 def level5(npc):
-    npc.defer(lambda npc: replace("***Infernal Legacy", npc.actions, f" (Recharges on long rest).*** You can cast {spelllinkify('burning hands')} as a 2nd-level spell or {spelllinkify('flame blade')}. (Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()})"))
+    npc.spellcasting[name + ' Tiefling'].perday[1].append('flame blade')
 ```

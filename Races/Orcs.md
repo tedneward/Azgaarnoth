@@ -10,8 +10,6 @@ type = 'humanoid'
 
 ```
 def level0(npc):
-    npc.description.append("***Race: Orc.*** ")
-
     npc.STR += 2
     npc.CON += 1
     npc.INT -= 2
@@ -43,6 +41,12 @@ def level0(npc):
 
 ```
     npc.bonusactions.append("***Aggressive.*** You can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.")
+```
+
+* **Relentless Endurance**. When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.
+
+```
+    npc.traits.append("***Relentless Endurance (Recharges on long rest).*** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead.")
 ```
 
 * **Menacing.** You are proficient in the Intimidation skill.

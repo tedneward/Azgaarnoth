@@ -156,6 +156,10 @@ def choose(text, choices):
     else:
         raise BaseException('Unrecognized type of choices: ' + str(type(choices)))
 
+def itemlinkify(name):
+    linkdest = name.replace(' ','-')
+    return f"[{name}](http://azgaarnoth.tedneward.com/magic/items/{linkdest}/)"
+
 def spelllinkify(name):
     linkdest = name.replace(' ','-')
     return f"[{name}](http://azgaarnoth.tedneward.com/magic/spells/{linkdest}/)"
@@ -176,58 +180,192 @@ def dieroll(dpattern):
         accum += random.randint(1, int(size))
     return accum
 
+def choosefeat(npc):
+    choices = {}
+    for (featname, featmod) in feats.items():
+        if featmod.prereq(npc) == False: continue
+        if featname in npc.feats: continue
+        choices[featname] = featmod
+    (chosenfeatname, chosenfeatmod) = choose("Choose a feat: ", choices)
+    chosenfeatmod.apply(npc)
+    npc.feats.append(chosenfeatname)
+    npc.description.append(chosenfeatmod.description)
+    return chosenfeatname
+
+def chooseskill(npc, skills = None):
+    skilllist = None
+    if skills != None:
+        skilllist = skills.copy()
+    else:
+        skilllist = [ 'Acrobatics', 'Animal Handling', 'Arcana','Athletics',
+            'Deception', 'History', 'Insight', 'Intimidation', 'Investigation',
+            'Medicine', 'Nature', 'Perception', 'Performance', 'Persuasion',
+            'Religion', 'Sleight of Hand', 'Stealth', 'Survival']
+    
+    for sk in npc.skills:
+        if sk in skilllist:
+            skilllist.remove(sk)
+
+    skill = choose("Choose a skill:", skilllist)
+    npc.skills.append(skill)
+    return skill
+
+def chooseability(npc, abilities = ['STR','DEX','CON','INT','WIS','CHA']):
+    ability = choose("Choose an ability: ", abilities)
+    if ability == 'STR': npc.STR += 1
+    elif ability == 'DEX': npc.DEX += 1
+    elif ability == 'CON': npc.CON += 1
+    elif ability == 'INT': npc.INT += 1
+    elif ability == 'WIS': npc.WIS += 1
+    elif ability == 'CHA': npc.CHA += 1
+    return ability
+
+def abilityscoreimprovement(npc):
+    asiorfeat = choose("Ability Score Improvement, or Feat?", ['Ability', 'Feat'])
+    if asiorfeat == 'Ability':
+        for _ in range(0,2):
+            chooseability(npc)
+    else:
+        choosefeat(npc)
+
 traits = {
     'amphibious' : "***Amphibious.*** You can breathe air and water.",
     'fey-ancestry' : "***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.",
     'powerful-build': "***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.",
     'sea-emissary' : "***Emissary of the Sea.*** You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return.",
-    'sunlight-sensitivity' : "***Sun'light' Sensitivity.*** You have disadvantage on Attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sun'light'.",
+    'sunlight-sensitivity' : "***Sunlight Sensitivity.*** You have disadvantage on Attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.",
 }
 
 weapons = {
-    'Longsword': ['1d8', 'slashing', ['versatile (1d10)']],
-    'Battleaxe': ['1d8', 'slashing', ['versatile (1d10)']],
-    'Flail': ['1d8', 'bludgeoning', []],
-    'Glaive': ['1d10', 'slashing', ['heavy', 'reach', 'two-handed']],
-    'Greataxe': ['1d12', 'slashing', ['heavy', 'two-handed']],
-    'Greatsword': ['2d6', 'slashing', ['heavy', 'two-handed']],
-    'Halberd': ['1d10', 'slashing', ['heavy', 'reach', 'two-handed']],
-    'Lance': ['1d12', 'piercing', ['reach', 'special']],
-    'Maul': ['2d6', 'bludgeoning', ['heavy', 'two-handed']],
-    'Morningstar': ['1d8', 'piercing', []],
-    'Pike': ['1d10', 'piercing', ['heavy', 'reach', 'two-handed']],
-    'Rapier': ['1d8', 'piercing', ['finesse']],
-    'Scimitar': ['1d6', 'slashing', ['finesse', 'light']],
-    'Shortsword': ['1d6', 'piercing', ['finesse', 'light']],
-    'Trident': ['1d6', 'piercing', ['thrown (range 20/60)', 'versatile (1d8)']],
-    'War pick': ['1d8', 'piercing', []],
-    'Warhammer': ['1d8', 'bludgeoning', ['versatile (1d10)']],
-    'Whip': ['1d4', 'slashing', ['finesse', 'reach']],
-    'Club': ['1d4', 'bludgeoning', ['Light']],
-    'Dagger': ['1d4', 'piercing', ['finesse', 'light', 'thrown (range 20/60)']],
-    'Greatclub': ['1d8', 'bludgeoning', ['two-handed']],
-    'Handaxe': ['1d6', 'slashing', ['Light', 'thrown (range 20/60)']],
-    'Javelin': ['1d6', 'piercing', ['thrown (range 30/120)']],
-    'Light hammer': ['1d4' 'bludgeoning', ['Light', 'thrown (range 20/60)']],
-    'Mace': ['1d6', 'bludgeoning', []],
-    'Quarterstaff': ['1d6', 'bludgeoning', ['versatile (1d8)']],
-    'Sickle': ['1d4', 'slashing', ['light']],
-    'Spear': ['1d6', 'piercing',	['thrown (range 20/60)', 'versatile (1d8)']],
-    'Light Crossbow': ['1d8', 'piercing', ['ammunition (range 80/320)', 'loading', 'two-handed']],
-    'Dart': ['1d4' 'piercing', ['finesse', 'thrown (range 20/60)']],
-    'Shortbow': ['1d6', 'piercing', ['ammunition (range 80/320)', 'two-handed']],
-    'Sling': ['1d4' 'bludgeoning',	['ammunition (range 30/120)']],
-    'Blowgun': ['1' 'piercing', ['ammunition (range 25/100)', 'loading']],
-    'Hand Crossbow': ['1d6', 'piercing', ['ammunition (range 30/120)', 'light', 'loading']],
-    'Heavy Crossbow': ['1d10', 'piercing', ['ammunition (range 100/400)', 'heavy', 'loading', 'two-handed']],
-    'Longbow': ['1d8', 'piercing', ['ammunition (range 150/600)', 'heavy', 'two-handed']],
-    'Net': ['-', 'special', ['thrown (range 5/15)']]
+    'simple-melee' : {
+        'Club': ['1d4', 'bludgeoning', ['Light']],
+        'Dagger': ['1d4', 'piercing', ['finesse', 'light', 'thrown (range 20/60)']],
+        'Greatclub': ['1d8', 'bludgeoning', ['two-handed']],
+        'Handaxe': ['1d6', 'slashing', ['Light', 'thrown (range 20/60)']],
+        'Javelin': ['1d6', 'piercing', ['thrown (range 30/120)']],
+        'Light hammer': ['1d4' 'bludgeoning', ['Light', 'thrown (range 20/60)']],
+        'Mace': ['1d6', 'bludgeoning', []],
+        'Quarterstaff': ['1d6', 'bludgeoning', ['versatile (1d8)']],
+        'Sickle': ['1d4', 'slashing', ['light']],
+        'Spear': ['1d6', 'piercing',	['thrown (range 20/60)', 'versatile (1d8)']],
+    },
+    'martial-melee': {
+        'Battleaxe': ['1d8', 'slashing', ['versatile (1d10)']],
+        'Flail': ['1d8', 'bludgeoning', []],
+        'Glaive': ['1d10', 'slashing', ['heavy', 'reach', 'two-handed']],
+        'Greataxe': ['1d12', 'slashing', ['heavy', 'two-handed']],
+        'Greatsword': ['2d6', 'slashing', ['heavy', 'two-handed']],
+        'Halberd': ['1d10', 'slashing', ['heavy', 'reach', 'two-handed']],
+        'Lance': ['1d12', 'piercing', ['reach', 'special']],
+        'Longsword': ['1d8', 'slashing', ['versatile (1d10)']],
+        'Maul': ['2d6', 'bludgeoning', ['heavy', 'two-handed']],
+        'Morningstar': ['1d8', 'piercing', []],
+        'Pike': ['1d10', 'piercing', ['heavy', 'reach', 'two-handed']],
+        'Rapier': ['1d8', 'piercing', ['finesse']],
+        'Scimitar': ['1d6', 'slashing', ['finesse', 'light']],
+        'Shortsword': ['1d6', 'piercing', ['finesse', 'light']],
+        'Trident': ['1d6', 'piercing', ['thrown (range 20/60)', 'versatile (1d8)']],
+        'War pick': ['1d8', 'piercing', []],
+        'Warhammer': ['1d8', 'bludgeoning', ['versatile (1d10)']],
+        'Whip': ['1d4', 'slashing', ['finesse', 'reach']],
+    },
+    'simple-ranged': {
+        'Light Crossbow': ['1d8', 'piercing', ['ammunition (range 80/320)', 'loading', 'two-handed']],
+        'Dart': ['1d4' 'piercing', ['finesse', 'thrown (range 20/60)']],
+        'Shortbow': ['1d6', 'piercing', ['ammunition (range 80/320)', 'two-handed']],
+        'Sling': ['1d4' 'bludgeoning',	['ammunition (range 30/120)']],
+    },
+    'martial-ranged': {
+        'Blowgun': ['1' 'piercing', ['ammunition (range 25/100)', 'loading']],
+        'Hand Crossbow': ['1d6', 'piercing', ['ammunition (range 30/120)', 'light', 'loading']],
+        'Heavy Crossbow': ['1d10', 'piercing', ['ammunition (range 100/400)', 'heavy', 'loading', 'two-handed']],
+        'Longbow': ['1d8', 'piercing', ['ammunition (range 150/600)', 'heavy', 'two-handed']],
+        'Net': ['-', 'special', ['thrown (range 5/15)']]
+    },
 }
 
+armor = {
+    'light': {
+        'Padded' : 11, 
+        'Leather' : 11, 
+        'Studded leather' : 12
+    },
+    'medium': {
+        'Hide' : 12, 
+        'Chain shirt' : 13, 
+        'Scale mail' : 14, 
+        'Breastplate' : 14, 
+        'Half Plate' : 15
+    },
+    'heavy': {
+        'Ring mail' : 14,
+        'Chain mail' : 16,
+        'Splint' : 17,
+        'Plate' : 18
+    }
+}
+
+def fullcaster(npc, ability, name):
+    spellcasting = NPC.Spellcasting(npc, ability, name)
+    spellcasting.slottable = {
+        1: [ 2 ],
+        2: [ 3 ],
+        3: [ 4, 2 ], 
+        4: [ 4, 3 ],
+        5: [ 4, 3, 2 ],
+        6: [ 4, 3, 3 ],
+        7: [ 4, 3, 3, 1 ],
+        8: [ 4, 3, 3, 2 ],
+        9: [ 4, 3, 3, 3, 1 ],
+        10: [ 4, 3, 3, 3, 2] ,
+        11: [ 4, 3, 3, 3, 2, 1 ],
+        12: [ 4, 3, 3, 3, 2, 1 ],
+        13: [ 4, 3, 3, 3, 2, 1, 1 ],
+        14: [ 4, 3, 3, 3, 2, 1, 1 ],
+        15: [ 4, 3, 3, 3, 2, 1, 1, 1 ],
+        16: [ 4, 3, 3, 3, 2, 1, 1, 1 ],
+        17: [ 4, 3, 3, 3, 2, 1, 1, 1, 1 ],
+        18: [ 4, 3, 3, 3, 3, 1, 1, 1, 1 ],
+        19: [ 4, 3, 3, 3, 3, 2, 1, 1, 1 ],
+        20: [ 4, 3, 3, 3, 3, 2, 2, 1, 1 ]
+    }
+    return spellcasting
+
+def halfcaster(npc, ability, name):
+    spellcasting = NPC.Spellcasting(npc, ability, name)
+    spellcasting.slottable = {
+        3: [ 2 ], 
+        4: [ 3 ],
+        5: [ 3 ],
+        6: [ 3 ],
+        7: [ 4, 2 ],
+        8: [ 4, 2 ],
+        9: [ 4, 2 ],
+        10: [ 4, 3 ] ,
+        11: [ 4, 3 ],
+        12: [ 4, 3 ],
+        13: [ 4, 3, 2 ],
+        14: [ 4, 3, 2 ],
+        15: [ 4, 3, 2 ],
+        16: [ 4, 3, 3 ],
+        17: [ 4, 3, 3 ],
+        18: [ 4, 3, 3 ],
+        19: [ 4, 3, 3, 1 ],
+        20: [ 4, 3, 3, 1 ]
+    }
+    return spellcasting
+
+def innatecaster(npc, ability, name):
+    spellcasting = NPC.Spellcasting(npc, ability, name)
+    return spellcasting
 
 
 # ------------------------------------
 # Module management
+def ismdfile(filepath): 
+    if os.path.isfile(filepath) and os.path.splitext(filepath)[1] == '.md': return True
+    else: return False
+
 def loadmodule(filename, modulename=None):
     def parsemd(mdfilename):
         pythoncode = ""
@@ -253,16 +391,25 @@ def loadmodule(filename, modulename=None):
         builtins = {
             "allclasses": classes,
             "allraces": races,
+            "feats": feats,
             "traits": traits,
             "spelllinkify": spelllinkify,
             "choose": choose,
+            "chooseability": chooseability,
+            "choosefeat": choosefeat,
+            "chooseskill": chooseskill,
+            "fullcaster": fullcaster,
+            "halfcaster": halfcaster,
+            "innatecaster": innatecaster,
             "replace": replace,
             "random": randomlist,
             "dieroll": dieroll,
+            "abilityscoreimprovement": abilityscoreimprovement,
             "min": min,
             "len": len,
             "print": print,
-            "types": types
+            "types": types,
+            "loadmodule": loadmodule
         }
         for (key, value) in builtins.items():
             module.__dict__[key] = value
@@ -292,10 +439,6 @@ def loadmodule(filename, modulename=None):
 #   weight(npc) : function
 races = {}
 def loadraces():
-    def ismdfile(filepath): 
-        if os.path.isfile(filepath) and os.path.splitext(filepath)[1] == '.md': return True
-        else: return False
-
     racesroot = REPOROOT + 'Races'
     entries = os.listdir(racesroot)
     for f in entries:
@@ -334,10 +477,6 @@ def loadraces():
 # subclasses: map<string, dict(name, levelX functions)>
 classes = {}
 def loadclasses():
-    def ismdfile(filepath): 
-        if os.path.isfile(filepath) and os.path.splitext(filepath)[1] == '.md': return True
-        else: return False
-
     classesroot = REPOROOT + 'Classes'
     entries = os.listdir(classesroot)
     for f in entries:
@@ -351,8 +490,18 @@ def loadclasses():
             dirname = os.path.basename(dirpath)
             basemodule = loadmodule(dirpath + "/index.md", dirname)
             if basemodule != None:
+                classes[basemodule.name] = basemodule
+
+                dependentmods = []
+                if getattr(basemodule, "dependentmodules", None) != None:
+                    dependentmods = basemodule.dependentmodules
+                    for depname in dependentmods:
+                        loadmodule(dirpath + "/" + depname, basemodule.name + "-" + depname)
+
+                log("Parsing subclasses")
                 subclasses = {}
-                excludedmds = [ 'index.md', 'SpellList.md', 'Infusions.md', 'Invocations.md', 'Talents.md' ]
+                excludedmds = [ 'index.md', 'SpellList.md' ] + dependentmods
+                log("Ignoring " + str(excludedmds))
                 for sf in os.listdir(dirpath):
                     if ismdfile(dirpath + "/" + sf) and (sf not in excludedmds):
                         log(f"Parsing {sf}...")
@@ -360,46 +509,78 @@ def loadclasses():
                         subclassmod = loadmodule(dirpath + '/' + sf, basemodule.name + "-" + subclassname)
                         if subclassmod != None: 
                             setattr(subclassmod, "baseclass", basemodule)
-                            print("Baseclass for " + subclassname + " is " + str(subclassmod.baseclass))
                         subclasses[subclassname] = subclassmod
                 setattr(basemodule, "subclasses", subclasses)
-            if basemodule != None:
-                classes[basemodule.name] = basemodule
 
 # Backgrounds....
+#backgrounds = {}
 #def loadbackgrounds():
-#    backgrounds = os.listdir(REPOROOT + 'Cultures/Backgrounds')
-#    for c in backgrounds:
-#         print("Loading " + str(c))
+#    backgroundsroot = os.listdir(REPOROOT + 'Cultures/Backgrounds')
+#    entries = os.listdir(backgroundsroot)
+#    for f in entries:
+#        entry = backgroundsroot + "/" + f
+#
+#        excludedentries = [ 'index.md' ]
+#        
+#        # Load class and subclasses
+#        if (ismdfile(entry) and os.path.basename(entry) not in excludedentries):
+#            log(f"Parsing Feat {entry}...")
+#            bgmodule = loadmodule(entry, os.path.basename(entry))
+#            if bgmodule != None:
+#                backgrounds[bgmodule.name] = bgmodule
 
 # Feats....
+# name : string
+# prereq : fn to determine if npc meets the *Prerequisite* criteria for the feat
+# apply : fn to apply the feat to the npc
+feats = {}
+def loadfeats():
+    featsroot = REPOROOT + 'Feats'
+    entries = os.listdir(featsroot)
+    for f in entries:
+        entry = featsroot + "/" + f
+
+        excludedentries = [ 'index.md' ]
+        
+        # Load class and subclasses
+        if (ismdfile(entry) and os.path.basename(entry) not in excludedentries):
+            log(f"Parsing Feat {entry}...")
+            featmodule = loadmodule(entry, "Feat-" + os.path.basename(entry)[:-3])
+            if featmodule != None:
+                feats[featmodule.name] = featmodule
 
 
 class NPC:
     class Spellcasting:
-        def __init__(self, npc, ability):
+        def __init__(self, npc, ability, named, casterclass = None):
             self.npc = npc
+
             # Caster class is the base class for this Spellcasting trait.
             # It can be None, which means there is no base class (typically for Innate casters)
-            self.casterclass = None
+            self.casterclass = casterclass
+
             # INT, WIS, or CHA
             self.ability = ability
-            # INTbonus(), WISbonus(), or CHAbonus()
-            self.abilitybonus = None
+            self.abilitybonus = npc.INTbonus if ability == 'INT' else npc.WISbonus if ability == 'WIS' else npc.CHAbonus if ability == 'CHA' else None
+
             self.maxcantripsknown = 0
             self.cantripsknown = []
             self.maxspellsknown = 0
             self.spellsprepared = 0
             self.spellsalwaysprepared = []
             self.spells = { 1: [], 2: [], 3: [], 4: [], 5: [], 6: [], 7: [], 8: [], 9: [] }
+            self.perday = { } # keys being 1, 2, 3, ... and/or 'atwill'
 
             # This is a dict of level-to-list describing the slots at each level (offset by 1, of course....)
             self.slottable = {}
             # This is for the spellcasting that isn't level-based (e.g., Innate casting)
             self.slots = []
 
+            self.name = named
+            self.npc.spellcasting[self.name] = self
+
         def __str__(self):
-            return f"{self.casterclass} / {self.npc.levels(self.casterclass)} / {self.ability} / {self.spells} / {self.slottable}"
+            return f"{self.casterclass} / {self.npc.levels(self.casterclass)} / {self.ability} / {self.perday} / {self.spells} / {self.slottable}"
 
         def casterlevel(self):
             if self.casterclass == None: return 0
@@ -410,12 +591,49 @@ class NPC:
 
         def spellattack(self):
             return self.npc.proficiencybonus() + (self.npc.abilitybonus(self.ability))
+        
+        def emitMD(self):
+            advlevel = [ '1st', '2nd', '3rd', '4th', '5th', '6th', '7th', '8th', '9th']
+            casterlevel = ''
+            if self.casterlevel() > 0:
+                casterlevel = ", at level " + str(self.casterlevel())
+            text = f">***{self.name} Spellcasting ({self.ability.title()}{casterlevel}. Recharges on long rest).*** "
+            if self.maxcantripsknown > 0:
+                text += f"{self.maxcantripsknown} cantrips known. "
+            if self.maxspellsknown > 0:
+                text += f"{self.maxspellsknown} spells known. "
+            if self.spellsprepared > 0:
+                text += f"{self.spellsprepared} spells prepared. "
+            text += f"Spell save DC: {self.spellsavedc()}, Spell attack bonus: +{self.spellattack()}\n"
+            if len(self.spellsalwaysprepared) > 0:
+                text += f">\n>Spells always prepared: {','.join(map(lambda c: spelllinkify(c),self.spellsalwaysprepared))}\n"
+            text +=  ">\n"
+            if self.maxcantripsknown > 0 or len(self.cantripsknown):
+                text += ">* *Cantrips:* " + ",".join(map(lambda c: spelllinkify(c),self.cantripsknown)) + "\n"
+            if len(self.perday.keys()) > 0:
+                if 'atwill' in self.perday:
+                    text += ">* *At Will:*"
+                for (key, val) in self.perday.items():
+                    if key == 'atwill': continue
+                    else:
+                        text += f">* *{key}/day:* " + ",".join(map(lambda c: spelllinkify(c), val)) + "\n"
+            if self.casterclass != None:
+                slots = self.slottable[self.casterlevel()]
+                for lvl in range(len(slots)):
+                    text += f">* *{advlevel[lvl]} ({slots[lvl]} slots):* {','.join(map(lambda c: spelllinkify(c),self.spells[lvl+1]))}\n"
+            else:
+                for lvl in range(len(self.slots)):
+                    text += f">* *{advlevel[lvl]} ({self.slots[lvl]} slots):* {','.join(map(lambda c: spelllinkify(c),self.spells[lvl+1]))}\n"
+            text += ">\n"
+            return text
+
 
     def __init__(self):
         self.description = []
 
         self.size = 'Medium'
         self.type = ''
+        self.gender = ''
 
         # Race is a dict ('name', 'type', ...) for the race selected
         self.race = None
@@ -451,9 +669,14 @@ class NPC:
         self.damageimmunities = []
         self.conditionimmunities = []
 
+        self.feats = []
+
         # Proficiencies are for weapons and armor only; everything else is a skill
+        # TODO: It sounds like 5e holds the idea that skills are just proficiencies,
+        # so maybe unify these two at some point in the future. Ditto for langs?
         self.proficiencies = []
         self.skills = []
+        self.expertises = []
 
         # Languages are read/write/speak
         self.languages = []
@@ -464,13 +687,17 @@ class NPC:
         self.bonusactions = []
         self.reactions = []
 
-        # Spellcasting data; each is a hash tied to the name of the
-        # class (or race, if it's Innate) whose spellcasting this is 
-        # (Cleric, Wizard, Fighter (for Arcane Trickster), etc)
+        self.equipment = []
+
+        # Spellcasting data; each is a hash tied to the name of the class (or race, if 
+        # it's Innate) whose spellcasting this is (Cleric, Wizard, Rogue (for Arcane 
+        # Trickster), Fighter (for Eldritch Knight), etc)
         self.spellcasting = { }
 
         # Normalizers are fns run when the NPC is frozen;
-        # usually these are le'vel-depend'ent text/traits/features/etc
+        # usually these are level-dependent text/traits/features/etc
+        # that we have to wait until the NPC is done building
+        # before we can resolve to actual numbers
         self.normalizers = []
         self.deferred = {}
 
@@ -493,16 +720,6 @@ class NPC:
             case 'WIS': return self.WISbonus()
             case 'CHA': return self.CHAbonus()
             case _ : return None
-
-    def abilityscoreimprovement(self):
-        abilities = [ 'STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA']
-        ability = choose("Choose an ability to improve: ", abilities)
-        if ability == 'STR': self.STR += 1
-        elif ability == 'DEX': self.DEX += 1
-        elif ability == 'CON': self.CON += 1
-        elif ability == 'INT': self.INT += 1
-        elif ability == 'WIS': self.WIS += 1
-        elif ability == 'CHA': self.CHA += 1
 
     def proficiencybonus(self):
         return (self.levels() // 4) + 2
@@ -559,11 +776,16 @@ class NPC:
             skilllist.remove(sk)
 
         self.skills.append(choose("Choose a skill:", skilllist))
+    
+    def addskillorexpertise(self, skill):
+        if skill in self.skills: self.expertises.append(skill)
+        else: self.skills.append(skill)
 
     def newspellcasting(self, source, ability):
         """Convenience factory method to be used from literate Race/Class/Background/Feats"""
         spellcasting = NPC.Spellcasting(self, ability)
         self.spellcasting[source] = spellcasting
+        spellcasting.abilitybonus = self.INTbonus if ability == 'INT' else self.WISbonus if ability == 'WIS' else self.CHAbonus if ability == 'CHA' else None
         return spellcasting
 
     def freeze(self):
@@ -627,9 +849,13 @@ class NPC:
             'Stealth' : 'DEX', 
             'Survival' : 'WIS'
         }
-        def mapskill(skill):
-            return f"{skill} +{(getattr(self, str(skillmap[skill]) + 'bonus', None)()) + self.proficiencybonus()}"
-        return ", ".join(map(mapskill, self.skills))
+        results = []
+        for skill in self.skills:
+            if skill in self.expertises:
+                results.append(f"{skill} +{(getattr(self, str(skillmap[skill]) + 'bonus', None)()) + (self.proficiencybonus() * 2)}")
+            else:
+                results.append(f"{skill} +{(getattr(self, str(skillmap[skill]) + 'bonus', None)()) + self.proficiencybonus()}")
+        return ",".join(results)
  
     def emitMD(self):
         def getarmorclass():
@@ -656,16 +882,16 @@ class NPC:
             return text
                        
         def getsenses():
-            perception = f"passive Perception {10 + self.WISbonus() + (self.proficiencybonus() if 'Perception' in self.skills else 0)}"
-            if len(self.senses) == 1:
-                return perception
-            else:
-                text = ""
-                for (key, value) in self.senses.items():
-                    if key == 'passive Perception': continue
-                    else:
-                        text += f"{key} {value} ft, "
-                return text + perception
+            pp = f"passive Perception {10 + self.WISbonus() + (self.proficiencybonus() if 'Perception' in self.skills else 0)}"
+            items = []
+            for (key, value) in self.senses.items():
+                if key == 'passive Perception':
+                    items.append(f"passive Perception {10 + value + self.WISbonus() + (self.proficiencybonus() if 'Perception' in self.skills else 0)}")
+                else:
+                    items.insert(0, f"{key} {value}")
+            #if 'passive Perception' in list(self.senses.keys()): return text
+            #else: return text + pp
+            return ",".join(items)
         
         def getracesubstring():
             return f"{self.race.type} ({'' if self.subrace == None else self.subrace.name + ' '}{self.race.name})"
@@ -689,7 +915,7 @@ class NPC:
         linesep = ">___\n"
 
         result  =  ">### Name\n"
-        result += f'*{self.size} {getracesubstring()} {getclasssubstring()}, any alignment*\n'
+        result += f'>*{self.size} {self.gender} {getracesubstring()} {getclasssubstring()}, any alignment*\n'
         result += linesep
         result += f">- **Armor Class** {getarmorclass()}\n"
         result += f">- **Hit Points** {self.hitpoints} ({self.hitdicedesc()} + {self.hpconbonus})\n"
@@ -724,34 +950,10 @@ class NPC:
             result +=  ">\n"
 
         #Spellcasting is an action most of the time, so....
-        advlevel = [ '1st', '2nd', '3rd', '4th', '5th', '6th', '7th', '8th', '9th']
         if len(self.spellcasting.keys()) > 0:
-            for (source, details) in self.spellcasting.items():
-                casterlevel = ''
-                if details.casterlevel() > 0:
-                    casterlevel = ", at level " + str(details.casterlevel())
-                text = f">***{source} Spellcasting ({details.ability.title()}{casterlevel}. Recharges on long rest).*** "
-                if details.maxcantripsknown > 0:
-                    text += f"{details.maxcantripsknown} cantrips known. "
-                if details.maxspellsknown > 0:
-                    text += f"{details.maxspellsknown} spells known. "
-                if details.spellsprepared > 0:
-                    text += f"{details.spellsprepared} spells prepared. "
-                text += f"Spell save DC: {details.spellsavedc()}, Spell attack bonus: +{details.spellattack()}\n"
-                if len(details.spellsalwaysprepared) > 0:
-                    text += f">\n>Spells always prepared: {','.join(map(lambda c: spelllinkify(c),details.spellsalwaysprepared))}\n"
-                text +=  ">\n"
-                if details.maxcantripsknown > 0 or len(details.cantripsknown):
-                    text += ">* *Cantrips:* " + ",".join(map(lambda c: spelllinkify(c),details.cantripsknown)) + "\n"
-                if details.casterclass != None:
-                    slots = details.slottable[details.casterlevel()]
-                    for lvl in range(len(slots)):
-                        text += f">* *{advlevel[lvl]} ({slots[lvl]} slots):* {','.join(map(lambda c: spelllinkify(c),details.spells[lvl+1]))}\n"
-                else:
-                    for lvl in range(len(details.slots)):
-                        text += f">* *{advlevel[lvl]} ({details.slots[lvl]} slots):* {','.join(map(lambda c: spelllinkify(c),details.spells[lvl+1]))}\n"
-                text += ">\n"
-                result += text
+            for (_, details) in self.spellcasting.items():
+                result += details.emitMD()
+                result +=  ">\n"
 
         if len(self.reactions) > 0:
             result +=  ">#### Reactions\n"
@@ -762,6 +964,11 @@ class NPC:
             result +=  ">\n>#### Bonus Actions\n"
             for bonus in self.bonusactions:
                 result += f">{bonus}\n"
+                result +=  ">\n"
+        if len(self.equipment) > 0:
+            result +=  ">\n>#### Equipment\n"
+            for equip in self.equipment:
+                result += f">{equip}\n"
                 result +=  ">\n"
         result += "\n#### Description\n"
         for descrip in self.description:
@@ -816,13 +1023,23 @@ def generatenpc():
                 setattr(npc, stat, current + scores[0])
                 scores.pop(0)
                 stats.remove(stat)
+        def npcstandard():
+            scores = [16, 15, 12, 12, 12, 8]
+            stats = ['STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA']
+            while len(stats) > 0:
+                stat = choose(f"Apply the {scores[0]}: ", stats)
+                current = getattr(npc, stat, 0)
+                setattr(npc, stat, current + scores[0])
+                scores.pop(0)
+                stats.remove(stat)
 
-        (choose("Method:", {"Standard": standard, "Hand": handentry, "Randomgen": randomgen, "Average": average}))[1]()
+        (choose("Method:", {"Standard": standard, "NPC": npcstandard, "Hand": handentry, "Randomgen": randomgen, "Average": average}))[1]()
 
     def selectrace():
         (_, mod) = choose("Choose a race: ", races)
         npc.race = mod
-        npc.type = mod.type
+        npc.type = npc.race.type
+        npc.description.append(npc.race.description)
         if getattr(npc.race, 'level0', None) != None:
             log('Firing racial level0')
             getattr(npc.race, 'level0', None)(npc)
@@ -830,18 +1047,23 @@ def generatenpc():
         if getattr(npc.race, 'subraces', None) != None:
             (_, subracemod) = choose("Subrace: ", npc.race.subraces)
             npc.subrace = subracemod
+            npc.description.append(npc.subrace.description)
             if getattr(npc.subrace, 'level0', None) != None:
                 log('Firing subracial level0')
                 getattr(npc.subrace, 'level0', None)(npc)
 
     # Do we want to start with race, class, or ability scores?
-    startoptions = ['Ability Scores', 'Race']
+    startoptions = ['Ability Scores', 'Race', 'Gender']#, 'Name']
     while len(startoptions) > 0:
         opt = choose("Decide which?", startoptions)
         if opt == 'Ability Scores':
             selectabilities()
         elif opt == 'Race':
             selectrace()
+        elif opt == 'Gender':
+            npc.gender = choose("Choose gender: ", ['Male', 'Female'])
+        #elif opt == 'Name':
+        #    npc.name = generatename()
         startoptions.remove(opt)
 
     # That's level 0; now do level 1+
@@ -861,6 +1083,8 @@ def generatenpc():
         clss = choose("Choose class:", classes)[1]
         npc.classes.append(clss)
         clsslevel = npc.levels(clss)
+        if clsslevel == 1:
+            npc.description.append(clss.description)
         # Every class should have an "everylevel(npc)" function, so crash if its not there
         (getattr(clss, 'everylevel', None))(npc)
         levelinvoke(clss, clsslevel, npc)
@@ -869,17 +1093,17 @@ def generatenpc():
 
         # Magic items
         if npc.levels() == 4:
-            npc.description.append("***Magic Item: Uncommon Permanent.***")
+            npc.equipment.append("***Magic Item: Uncommon Permanent.***")
         if npc.levels() == 7:
-            npc.description.append("***Magic Item: Uncommon Permanent.***")
+            npc.equipment.append("***Magic Item: Uncommon Permanent.***")
         if npc.levels() == 10:
-            npc.description.append("***Magic Item: Rare Permanent.***")
+            npc.equipment.append("***Magic Item: Rare Permanent.***")
         if npc.levels() == 13:
-            npc.description.append("***Magic Item: Rare Permanent.***")
+            npc.equipment.append("***Magic Item: Rare Permanent.***")
         if npc.levels() == 16:
-            npc.description.append("***Magic Item: Very Rare Permanent.***")
+            npc.equipment.append("***Magic Item: Very Rare Permanent.***")
         if npc.levels() == 19:
-            npc.description.append("***Magic Item: Legendary Permanent.***")
+            npc.equipment.append("***Magic Item: Legendary Permanent.***")
 
         levelup = False if (choose("Another level? ", ['Yes','No']) == 'No') else True
 
@@ -916,6 +1140,7 @@ def main():
 
     loadraces()
     loadclasses()
+    loadfeats()
     #loadbackgrounds()
 
     parser = argparse.ArgumentParser(

@@ -28,7 +28,8 @@ def level0(npc):
   npc.proficiencies.append("Longbow")
   npc.proficiencies.append("Shortbow")
 
-  npc.newspellcasting('Wild Elf', 'WIS').cantripsknown.append("CHOOSE-Druid")
+  spellcasting = innatecaster(npc, 'WIS', "Wild Elf")
+  spellcasting.cantripsknown.append("CHOOSE-Druid")
 
   npc.languages.remove("Common")
   npc.languages.append("Sylvan")

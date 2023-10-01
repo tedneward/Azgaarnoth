@@ -34,5 +34,6 @@ def level0(npc):
 * **Jorasco’s Blessing**. You know the cantrip [spare the dying](../Magic/Spells/spare-the-dying.md). Wisdom is your spellcasting ability for this.
 
 ```
-    npc.cantripsknown.append('spare the dying')
+    spellcasting = innatecaster(npc, 'WIS', "Healing Dragonmark")
+    spellcasting.cantripsknown.append("spare the dying")
 ```

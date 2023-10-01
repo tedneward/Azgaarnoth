@@ -118,7 +118,7 @@ def level16(npc):
 def level19(npc):
     npc.spellcasting[baseclass.name].maxspellsknown = 12
 
-def level14(npc):
+def level20(npc):
     npc.spellcasting[baseclass.name].maxspellsknown = 13
 ```
 

@@ -11,11 +11,12 @@ description = "***Tiefling Bloodline of Dispater.*** The great city of Dis occup
 def level0(npc):
     npc.DEX += 1
 
-    npc.cantripsknown.append('thaumaturgy')
+    spellcasting = innatecaster(npc, 'INT', "Dispater Tiefling")
+    spellcasting.cantripsknown.append("thaumaturgy")
 
 def level3(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Infernal Legacy (Recharges on long rest).*** You can cast " + spelllinkify('disguise self') + "as a 2nd-level spell. (Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()})"))
+    npc.spellcasting['Dispater Tiefling'].perday[1] = ['disguise self']
 
 def level5(npc):
-    npc.defer(lambda npc: replace("***Infernal Legacy", npc.actions, f" (Recharges on long rest).*** You can cast {spelllinkify('disguise self')} as a 2nd-level spell or {spelllinkify('detect thoughts')}. (Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()})"))
+    npc.spellcasting['Dispater Tiefling'].perday[1].append('detect thoughts')
 ```

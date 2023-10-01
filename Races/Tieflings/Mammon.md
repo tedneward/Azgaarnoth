@@ -12,11 +12,12 @@ def level0(npc):
 
     npc.INT += 1
 
-    npc.cantripsknown.append('mage hand')
+    spellcasting = innatecaster(npc, 'CHA', "Mammon Tiefling")
+    spellcasting.cantripsknown.append('mage hand')
 
 def level3(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Infernal Legacy (Recharges on long rest).*** You can cast " + spelllinkify('tensers floating disk') + "as a 2nd-level spell. (Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()})"))
+    npc.spellcasting['Mammon Tiefling'].perday[1] = [ 'tensers floating disk' ]
 
 def level5(npc):
-    npc.defer(lambda npc: replace("***Infernal Legacy", npc.actions, f" (Recharges on long rest).*** You can cast {spelllinkify('tensers floating disk')} as a 2nd-level spell or {spelllinkify('arcane lock')}. (Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()})"))
+    npc.spellcasting['Mammon Tiefling'].perday[1].append('arcane lock')
 ```

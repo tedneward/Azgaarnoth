@@ -19,11 +19,19 @@ description = "***Dragonmark: Mark of Sentinel.*** A dragonmark is a distinctive
 def level0(npc):
     npc.STR += 1
     npc.WIS += 1
-    npc.abilityscoreimprovement()
+    abilities = [ 'STR', 'DEX', 'CON', 'INT', 'WIS', 'CHA']
+    ability = choose("Choose an ability to improve: ", abilities)
+    if ability == 'STR': npc.STR += 1
+    elif ability == 'DEX': npc.DEX += 1
+    elif ability == 'CON': npc.CON += 1
+    elif ability == 'INT': npc.INT += 1
+    elif ability == 'WIS': npc.WIS += 1
+    elif ability == 'CHA': npc.CHA += 1
 
     npc.traits.append("***Sentinel's Intuition.*** When you roll for Initiative or make a Wisdom (Perception) check to notice a threat, you can roll one Intuition die, a d4, and add the number rolled to the ability check.")
 
-    npc.cantripsknown.append('blade ward')
+    spellcasting = innatecaster(npc, 'INT', "Sentinel Dragonmark")
+    spellcasting.cantripsknown.append("blade ward")
     npc.actions.append(f"***Sentinel's Shield (Recharges on short or long rest).*** You can cast the {spelllinkify('shield')} spell.")
 
     npc.actions.append("***Vigilant Guardian. You can designate an ally you can see as your ward. You have advantage on Wisdom (Insight) and Wisdom (Perception) checks made to spot threats to your ward. In addition, when you are within 5 feet of your ward, and that creature is the target of an attack that you can see, you can use your reaction to swap places with your ward. When you do, you become the target of the attack.")

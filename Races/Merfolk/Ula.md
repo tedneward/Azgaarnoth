@@ -12,5 +12,6 @@ def level0(npc):
     npc.proficiencies.append("Navigator's tools")
     npc.skills.append("Survival")
 
-    npc.cantripsknown.append("CHOOSE-Wizard")
+    spellcasting = innatecaster(npc, 'INT', "Ula Merfolk")
+    spellcasting.cantripsknown.append("CHOOSE-Wizard")
 ```

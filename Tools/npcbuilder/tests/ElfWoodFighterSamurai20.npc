@@ -1,40 +1,20 @@
-Ability Scores,Average,Race,Elf,Wood
-Fighter,Intimidation,History,Mariner,Yes
-# Lvl 2
+Gender,random,Ability Scores,Average,Race,Elf,Wood,Fighter,Intimidation,History,Mariner,Yes
 Fighter,Yes
-# 3
 Fighter,Samurai,Insight,Yes
-# 4
-Fighter,STR,Yes
-# 5
+Fighter,Ability,STR,CON,Yes
 Fighter,Yes
-# 6
-Fighter,CON,Yes
-# 7
+Fighter,Ability,CON,STR,Yes
 Fighter,Yes
-# 8
-Fighter,DEX,Yes
-# 9
+Fighter,Ability,DEX,CON,Yes
 Fighter,Yes
-# 10
 Fighter,Yes
-# 11
 Fighter,Yes
-# 12
-Fighter,STR,Yes
-# 13
+Fighter,Ability,STR,DEX,Yes
 Fighter,Yes
-# 14
-Fighter,CON,Yes
-# 15
+Fighter,Ability,CON,STR,Yes
 Fighter,Yes
-# 16
-Fighter,CON,Yes
-# 17
+Fighter,Ability,CON,DEX,Yes
 Fighter,Yes
-# 18
 Fighter,Yes
-# 19
-Fighter,DEX,Yes
-# 20
+Fighter,Ability,DEX,STR,Yes
 Fighter,No

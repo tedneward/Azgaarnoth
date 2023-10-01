@@ -23,7 +23,8 @@ name = 'Dark'
 def level0(npc):
   npc.CHA += 1
 
-  npc.newspellcasting('Dark Elf', 'CHA').cantripsknown.append('dancing lights')
+  spellcasting = innatecaster(npc, 'CHA', 'Dark Elf')
+  spellcasting.cantripsknown.append('dancing lights')
 
   npc.proficiencies.append('Rapier')
   npc.proficiencies.append('Shortsword')
@@ -33,10 +34,8 @@ def level0(npc):
   npc.traits.append(traits['sunlight-sensitivity'])
 
 def level3(npc):
-  npc.spellcasting['Dark Elf'].spells[1].append('faerie fire')
-  npc.spellcasting['Dark Elf'].slots = [ 1 ]
+  npc.spellcasting['Dark Elf'].perday[1] = ['faerie fire']
 
 def level5(npc):
-  npc.spellcasting['Dark Elf'].spells[2].append('darkness')
-  npc.spellcasting['Dark Elf'].slots = [ 1, 1 ]
+  npc.spellcasting['Dark Elf'].perday[1].append('darkness')
 ```

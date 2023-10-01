@@ -41,11 +41,13 @@ def level0(npc):
     npc.languages.append('Gith')
 
     npc.traits.append("***Mental Discipline.*** You have advantage on saving throws against the charmed and frightened conditions.")
-    npc.cantripsknown.append('mage hand')
+
+    spellcasting = innatecaster(npc, 'WIS', name)
+    spellcasting.cantripsknown.append('mage hand')
 
 def level3(npc):
-    npc.actions.append(f"***Psionics (Recharge on long rest).*** You can cast the {spelllinkify('shield')} spell. Wisdom is your spellcasting ability for this spell.")
+    npc.spellcasting['Githyanki'].preday[1] = ['shield']
 
 def level5(npc):
-    npc.actions.append(f"***Improved Psionics (Recharge on long rest).*** You can cast the {spelllinkify('detect thoughts')} spell. Wisdom is your spellcasting ability for this spell.")
+    npc.spellcasting['Githyanki'].preday[1].append('detect thoughts')
 ```

@@ -47,6 +47,10 @@ def level0(npc):
 
     npc.traits.append("***Master of Locks.*** When you make an Intelligence (History), Intelligence (Investigation), or Thieves' Tools check involving lock and trap mechanisms, you can roll one Intuition die, a d4, and add the number rolled to the ability check.")
 
+    spellcasting = innatecaster(npc, 'INT', name)
+    spellcasting.perday[1] = ["alarm"]
+    npc.spellcasting[name] = spellcasting
+
     npc.traits.append("***Wards and Seals.*** You can use your mark to cast the [alarm](../Magic/Spells/alarm.md) spell as a ritual. Starting at 3rd level you can cast [arcane lock](../Magic/Spells/arcane-lock.md) once with this trait and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for these spells.")
 
     quirk = random([
@@ -61,4 +65,7 @@ def level0(npc):
         "Your dragonmark is an unusual color but a normal shape."
     ])
     npc.description.append(f"***Dragonmark Quirk.*** {quirk}")
+
+def level3(npc):
+    npc.spellcasting[name].perday[1].append("arcane lock")
 ```

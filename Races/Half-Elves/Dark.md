@@ -7,11 +7,12 @@ One of your parents was a [Dark Elf](../Elves/Dark.md).
 name = 'Dark'
 description = "***Elvish Heritage: Dark Elf.*** One of your parents was a Dark Elf."
 def level0(npc):
-  npc.newspellcasting('Dark Elf', 'CHA').cantripsknown.append('dancing lights')
+    spellcasting = innatecaster(npc, 'CHA', 'Dark Elf')
+    spellcasting.cantripsknown.append('dancing lights')
 
 def level3(npc):
-    npc.actions.append("***Dark Elf Magic (Recharges on long rest).*** You can cast " + spelllinkify('faerie fire') + ". Charisma is your spellcasting ability for this spell.")
+  npc.spellcasting['Dark Elf'].perday[1] = ['faerie fire']
 
 def level5(npc):
-    replace("***Dark Elf Magic", npc.features, f"You can cast {spelllinkify('faerie fire')} or {spelllinkify('darkness')}. Charisma is your spellcasting ability for these spells.")
+  npc.spellcasting['Dark Elf'].perday[1].append('darkness')
 ```

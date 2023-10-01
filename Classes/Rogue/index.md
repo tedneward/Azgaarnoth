@@ -3,6 +3,7 @@ Rogues rely on skill, stealth, and their foes' vulnerabilities to get the upper 
 
 ```
 name = 'Rogue'
+description = "***Class: Rogue.*** Rogues rely on skill, stealth, and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem, demonstrating a resourcefulness and versatility that is the cornerstone of any successful adventuring party."
 ```
 
 *You must have a Dexterity score of 13 or higher in order to multiclass in or out of this class.*
@@ -54,29 +55,6 @@ def everylevel(npc): npc.hits('d8')
 
 **Skills**: Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
 
-## Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
-* (a) a rapier or (b) a shortsword
-* (a) a shortbow and quiver of 20 arrows or (b) a shortsword
-* (a) a burglar's pack, (b) dungeoneer's pack, or (c) an explorer's pack
-* Leather armor, two daggers, and thieves' tools
-
-## Expertise
-*1st-level rogue feature*
-
-Choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
-
-At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.
-
-## Sneak Attack
-*1st-level rogue feature*
-
-You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
-
-You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
-
-The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
-
 ```
 def level1(npc):
     npc.proficiencies.append('Light armor')
@@ -91,42 +69,27 @@ def level1(npc):
     npc.savingthrows.append('INT')
 
     thiefskills = ['Acrobatics', 'Athletics', 'Deception', 'Insight', 'Intimidation', 'Investigation', 'Perception', 'Performance', 'Persuasion', 'Sleight of Hand', 'Stealth']
-    npc.skills.append(choose("Choose a skill: ", thiefskills))
-    npc.skills.append(choose("Choose a skill: ", thiefskills))
-    npc.skills.append(choose("Choose a skill: ", thiefskills))
-    npc.skills.append(choose("Choose a skill: ", thiefskills))
+    chooseskill(npc, thiefskills)
+    chooseskill(npc, thiefskills)
+    chooseskill(npc, thiefskills)
+    chooseskill(npc, thiefskills)
+```
 
-    # Sneak Attack
-    npc.defer(lambda npc: npc.traits.append(f"***Sneak Attack.*** Once per turn, you can deal an extra {(npc.levels(name) + 1) // 2}d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll."))
+## Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
 
-    # Expertise
-    exp1 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
-    exp2 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
-    npc.roguishexpertise = [ exp1, exp2 ]
-    npc.defer(lambda npc: npc.traits.append(f"***Expertise.*** Your proficiency bonus is doubled for any ability check that uses any of the following skills: {','.join(npc.roguishexpertise)}."))
+* (a) a rapier or (b) a shortsword
+* (a) a shortbow and quiver of 20 arrows or (b) a shortsword
+* (a) a burglar's pack, (b) dungeoneer's pack, or (c) an explorer's pack
+* Leather armor, two daggers, and thieves' tools
 
-    def getskills(self):
-        skillmap = {
-            'Acrobatics' : 'DEX', 'Animal Handling' : 'WIS', 'Arcana' : 'INT',
-            'Athletics' : 'STR', 'Deception' : 'CHA', 'History' : 'INT',
-            'Insight' : 'WIS', 'Intimidation' : 'CHA', 'Investigation' : 'INT',
-            'Medicine' : 'WIS', 'Nature' : 'INT', 'Perception' : 'WIS', 'Performance' : 'CHA', 
-            'Persuasion' : 'CHA', 'Religion' : 'INT', 'Sleight of Hand' : 'DEX', 
-            'Stealth' : 'DEX', 'Survival' : 'WIS'
-        }
-        results = []
-        for skill in self.skills:
-            if skill in self.roguishexpertise:
-                results.append(f"{skill} +{(getattr(self, str(skillmap[skill]) + 'bonus', None)()) + (self.proficiencybonus() * 2)}")
-            else:
-                results.append(f"{skill} +{(getattr(self, str(skillmap[skill]) + 'bonus', None)()) + self.proficiencybonus()}")
-        return ",".join(results)
-    npc.getskills = types.MethodType(getskills, npc)
-
-def level6(npc):
-    exp1 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
-    exp2 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
-    npc.roguishexpertise += [ exp1, exp2 ]
+```
+    npc.equipment.append("Rapier OR shortsword")
+    npc.equipment.append("Shortbow and 20 arrows")
+    npc.equipment.append("Burglar's pack, dungeoneer's pack, or explorer's pack")
+    npc.armorclass['Leather armor'] = 11
+    npc.equipment.append("2 daggers")
+    npc.equipment.append("Thieves' tools")
 ```
 
 ## Thieves' Cant
@@ -135,6 +98,44 @@ def level6(npc):
 During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
 
 In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+
+```
+    npc.languages.append("Thieves' Cant")
+```
+
+## Sneak Attack
+*1st-level rogue feature*
+
+You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+
+You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
+
+The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
+
+```
+    # Sneak Attack
+    npc.defer(lambda npc: npc.traits.append(f"***Sneak Attack.*** Once per turn, you can deal an extra {(npc.levels(name) + 1) // 2}d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll."))
+```
+
+
+## Expertise
+*1st-level rogue feature*
+
+Choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+
+At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.
+
+```
+    # Expertise
+    exp1 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
+    exp2 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
+    npc.expertises = [ exp1, exp2 ]
+
+def level6(npc):
+    exp1 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
+    exp2 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
+    npc.expertises += [ exp1, exp2 ]
+```
 
 ## Cunning Action
 *2nd-level rogue feature*
@@ -145,7 +146,7 @@ You may also your Cunning Action to carefully aim your next attack. As a bonus a
 
 ```
 def level2(npc):
-    npc.bonusactions.append("***Cunning Action.*** You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action. You may also your Cunning Action to carefully aim your next attack. As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.")
+    npc.bonusactions.append("***Cunning Action.*** You can take a bonus action on each of your turns in combat to take the Dash, Disengage, or Hide action. You may also your Cunning Action to carefully aim your next attack. As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.")
 ```
 
 ## Roguish Archetype
@@ -171,7 +172,7 @@ Your archetype choice grants you features at 3rd level and then again at 9th, 13
 
 ```
 def level3(npc):
-    (_, subclass) = choose("Choose a subclass: ", allclasses['Rogue'].subclasses)
+    (_, subclass) = choose("Choose a subclass: ", subclasses)
     npc.subclasses[allclasses['Rogue']] = subclass
     npc.description.append(subclass.description)
 ```
@@ -180,29 +181,12 @@ def level3(npc):
 When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ```
-def level4(npc):
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level8(npc):
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level10(npc):
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level12(npc):
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level16(npc):
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level19(npc):
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
+def level4(npc): abilityscoreimprovement(npc)
+def level8(npc): abilityscoreimprovement(npc)
+def level10(npc): abilityscoreimprovement(npc)
+def level12(npc): abilityscoreimprovement(npc)
+def level16(npc): abilityscoreimprovement(npc)
+def level19(npc): abilityscoreimprovement(npc)
 ```
 
 ## Uncanny Dodge

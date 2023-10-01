@@ -61,15 +61,22 @@ def level0(npc):
 
     npc.DEX += 1
     npc.CHA += 1
-    npc.abilityscoreimprovement()
+    ability = choose("Choose an ability to improve: ", abilities)
+    if ability == 'STR': npc.STR += 1
+    elif ability == 'DEX': npc.DEX += 1
+    elif ability == 'CON': npc.CON += 1
+    elif ability == 'INT': npc.INT += 1
+    elif ability == 'WIS': npc.WIS += 1
+    elif ability == 'CHA': npc.CHA += 1
 
     npc.traits.append("***Windwright’s Intuition.*** When you make a Dexterity (Acrobatics) check or any ability check involving operating or maintaining a water or air vehicle, you can roll one Intuition die, a d4, and add the number rolled to the ability check.")
 
     npc.damageresistances.append('lightning')
 
-    npc.newspellcasting("StormDragonmark", 'INT').cantripsknown.append('gust')
+    spellcasting = innatecaster(npc, 'INT', "Storm Dragonmark")
+    spellcasting.cantripsknown.append("gust")
 
 def level3(npc):
-    npc.spellcasting("StormDragonmark").spells[1].append('gust of wind')
-    npc.spellcasting("StormDragonmark").slots = [ 1 ]
+    npc.spellcasting['Storm Dragonmark'].perday[1] = []
+    npc.spellcasting['Storm Dragonmark'].perday[1].append('gust of wind')
 ```

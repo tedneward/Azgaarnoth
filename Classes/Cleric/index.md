@@ -5,6 +5,7 @@ Several major [religions](../../Religions/index.md) dot the surface of Azgaarnot
 
 ```
 name = 'Cleric'
+description = "***Class: Cleric.*** Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic."
 ```
 
 ## Class features
@@ -40,6 +41,10 @@ Level|Proficiency Bonus|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|Featu
 
 **Hit Points at Higher Levels**: 1d8 (or 5) + your Constitution modifier per cleric level after 1st
 
+```
+def everylevel(npc): npc.hits('d8')
+```
+
 ### Proficiencies
 **Armor**: Light armor, medium armor, shields
 
@@ -51,6 +56,21 @@ Level|Proficiency Bonus|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|Featu
 
 **Skills**: Choose two from History, Insight, Medicine, Persuasion, and Religion
 
+```
+def level1(npc):
+    npc.proficiencies.append("Light armor")
+    npc.proficiencies.append("Medium armor")
+    npc.proficiencies.append("Shields")
+    npc.proficiencies.append("Simple weapons")
+
+    npc.savingthrows.append('WIS')
+    npc.savingthrows.append('CHA')
+
+    skillchoices = ['History', 'Insight', 'Medicine', 'Persuasion', 'Religion']
+    chooseskill(npc, skillchoices)
+    chooseskill(npc, skillchoices)
+```
+
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -61,21 +81,12 @@ You start with the following equipment, in addition to the equipment granted by 
 * A shield and a holy symbol
 
 ```
-def everylevel(npc): npc.hits('d8')
-def level1(npc):
-    npc.description.append("***Class: Cleric.*** Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.")
-
-    npc.proficiencies.append("Light armor")
-    npc.proficiencies.append("Medium armor")
-    npc.proficiencies.append("Shields")
-    npc.proficiencies.append("Simple weapons")
-
-    npc.savingthrows.append('WIS')
-    npc.savingthrows.append('CHA')
-
-    skillchoices = ['History', 'Insight', 'Medicine', 'Persuasion', 'Religion']
-    npc.skills.append(choose("Choose a skill: ", skillchoices))
-    npc.skills.append(choose("Choose a skill: ", skillchoices))
+    npc.equipment.append("Mace")
+    npc.armorclass['Scale mail'] = 14
+    npc.equipment.append("Light crossbow and 20 bolts")
+    npc.equipment.append("Priest's pack")
+    npc.equipment.append("Shield")
+    npc.equipment.append("Holy symb0l")
 ```
 
 ## Spellcasting
@@ -106,7 +117,7 @@ Wisdom is your spellcasting ability for your cleric spells. The power of your sp
 **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
 
 ```
-    sc = npc.newspellcasting(name, 'WIS')
+    sc = fullcaster(npc, 'WIS', 'Cleric')
     sc.casterclass = allclasses['Cleric']
     sc.slottable = {
         1: [ 2 ],
@@ -199,7 +210,7 @@ Choose one domain:
 Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use [Channel Divinity](#channel-divinity) when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
 ```
-    (_, subclass) = choose("Choose a domain: ", allclasses['Cleric'].subclasses)
+    (_, subclass) = choose("Choose a domain: ", subclasses)
     npc.subclasses[allclasses['Cleric']] = subclass
     npc.description.append(subclass.description)
 ```
@@ -251,25 +262,11 @@ You can expend a use of your [Channel Divinity](#channel-divinity) to fuel your 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ```
-def level4(npc):
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level8(npc):
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level12(npc):
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level16(npc):
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
-
-def level19(npc):
-    npc.abilityscoreimprovement()
-    npc.abilityscoreimprovement()
+def level4(npc): abilityscoreimprovement(npc)
+def level8(npc): abilityscoreimprovement(npc)
+def level12(npc): abilityscoreimprovement(npc)
+def level16(npc): abilityscoreimprovement(npc)
+def level19(npc): abilityscoreimprovement(npc)
 ```
 
 ## Cantrip Versatility

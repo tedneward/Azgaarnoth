@@ -23,16 +23,17 @@ description = "***Water Genasi.*** Water genasi descend from marids, aquatic gen
 def level0(npc):
     npc.damageresistances.append('acid')
 
-    npc.newspellcasting('Genasi', choose("Choose a spellcasting ability: ", ['INT', 'WIS', 'CHA'])).cantripsknown.append('acid splash')
+    ability = choose("Choose Genasi spellcasting ability: ", ['INT', 'WIS', 'CHA'])
+    spellcasting = innatecaster(npc, ability, 'Water Genasi')
+    spellcasting.cantripsknown.append('acid splash')
 
     npc.languages.append('Common')
     npc.languages.append('Aquan')
 
 def level3(npc):
-    npc.spellcasting['Genasi'].spells[1].append('create or destroy water')
-    npc.spellcasting['Genasi'].slots = [ 1 ]
+    npc.spellcasting['Water Genasi'].perday[1] = []
+    npc.spellcasting['Water Genasi'].perday[1].append('create or destroy water')
 
 def level5(npc):
-    npc.spellcasting['Genasi'].spells[1].append('water walk')
-    npc.spellcasting['Genasi'].slots = [ 1, 1 ]
+    npc.spellcasting['Water Genasi'].perday[1].append('water walk')
 ```

@@ -25,4 +25,17 @@ def level0(npc):
     npc.senses['darkvision'] = '120 ft'
     npc.proficiencies.append("Light armor")
     npc.proficiencies.append("Medium armor")
+
+    npc.traits.append("***Duergar Resilience.*** You have advantage on saving throws against illusions and against being charmed or paralyzed.")
+
+    npc.traits.append("***Sunlight Sensitivity.*** You have disadvantage on Attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight. Additionally, you cannot cast your Duergar Spellcasting while in direct sunlight.")
+
+def level3(npc):
+    spellcasting = innatecaster(npc, 'INT', name)
+    spellcasting.perday[1] = []
+    spellcasting.perday[1].append("enlarge/reduce")
+    npc.spellcasting[name] = spellcasting
+
+def level5(npc):
+    npc.spellcasting[name].perday[1].append("invisibility")
 ```

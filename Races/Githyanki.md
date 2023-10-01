@@ -44,7 +44,7 @@ def level0(npc):
     npc.languages.append('Gith')
     npc.languages.append('CHOOSE')
 
-    npc.skillchoice()
+    chooseskill(npc)
     
     npc.proficiencies.append('Light armor')
     npc.proficiencies.append('Medium armor')
@@ -52,11 +52,12 @@ def level0(npc):
     npc.proficiencies.append('Longsword')
     npc.proficiencies.append('Greatsword')
 
-    npc.cantripsknown.append('mage hand')
+    spellcasting = innatecaster(npc, 'INT', name)
+    spellcasting.cantripsknown.append('mage hand')
 
 def level3(npc):
-    npc.actions.append(f"***Psionics (Recharge on long rest).*** You can cast the {spelllinkify('jump')} spell. Intelligence is your spellcasting ability for this spell.")
+    npc.spellcasting['Githyanki'].perday[1] = ['jump']
 
 def level5(npc):
-    npc.actions.append(f"***Improved Psionics (Recharge on long rest).*** You can cast the {spelllinkify('misty step')} spell. Intelligence is your spellcasting ability for this spell.")
+    npc.spellcasting['Githyanki'].perday[1].append('misty step')
 ```
