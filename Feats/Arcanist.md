@@ -13,13 +13,10 @@ description = "***Feat: Arcanist.*** You study the arcane arts."
 def prereq(npc): return True
 def apply(npc):
     npc.INT += 1
-    if "Arcana" in npc.skills:
-        npc.traits.append("***Arcanist.*** You add twice your proficiency bonus to Intelligence (Arcana) checks.")
-    else:
-        npc.skills.append("Arcana")
+
+    npc.addskillorexpertise("Arcana")
     
     spellcasting = npc.newspellcasting('Arcanist', 'INT')
     spellcasting.cantripsknown.append('prestidigitation')
-    spellcasting.spells[1].append('detect magic')
-    spellcasting.slots = [ 1 ]
+    spellcasting.perday[1] = ['detect magic']
 ```

@@ -11,6 +11,8 @@ description = "***Feat: Animal Handler.*** You master the techniques needed to t
 def prereq(npc): return True
 def apply(npc):
     npc.WIS += 1
-    npc.skills.append("Animal Handling")
+
+    npc.addskillorexpertise("Animal Handling")
+
     npc.bonusactions.append("***Animal Handling.*** You can command one friendly beast within 60 feet of you that can hear you and that isn't currently following the command of someone else. You decide now what action the beast will take and where it will move during its next turn, or you issue a general command that lasts for 1 minute, such as to guard a particular area.")
 ```

@@ -676,6 +676,7 @@ class NPC:
         # so maybe unify these two at some point in the future. Ditto for langs?
         self.proficiencies = []
         self.skills = []
+        self.expertises = []
 
         # Languages are read/write/speak
         self.languages = []
@@ -775,6 +776,10 @@ class NPC:
             skilllist.remove(sk)
 
         self.skills.append(choose("Choose a skill:", skilllist))
+    
+    def addskillorexpertise(self, skill):
+        if skill in self.skills: self.expertises.append(skill)
+        else: self.skills.append(skill)
 
     def newspellcasting(self, source, ability):
         """Convenience factory method to be used from literate Race/Class/Background/Feats"""
@@ -844,9 +849,13 @@ class NPC:
             'Stealth' : 'DEX', 
             'Survival' : 'WIS'
         }
-        def mapskill(skill):
-            return f"{skill} +{(getattr(self, str(skillmap[skill]) + 'bonus', None)()) + self.proficiencybonus()}"
-        return ", ".join(map(mapskill, self.skills))
+        results = []
+        for skill in self.skills:
+            if skill in self.expertises:
+                results.append(f"{skill} +{(getattr(self, str(skillmap[skill]) + 'bonus', None)()) + (self.proficiencybonus() * 2)}")
+            else:
+                results.append(f"{skill} +{(getattr(self, str(skillmap[skill]) + 'bonus', None)()) + self.proficiencybonus()}")
+        return ",".join(results)
  
     def emitMD(self):
         def getarmorclass():
