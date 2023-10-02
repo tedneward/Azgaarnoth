@@ -85,7 +85,7 @@ While you are wearing no armor and not wielding a shield, your AC equals 10 + yo
 
 ```
     def acadjust(npc):
-        npc.armorclass['Natural armor'] = (10 + npc.DEXbonus() + npc.WISbonus())
+        npc.armorclass['Natural armor'] = (10 + npc.WISbonus())
     npc.defer(lambda npc: acadjust(npc))
 ```
 
@@ -106,7 +106,7 @@ Certain monasteries use specialized forms of the monk weapons. For example, you 
 
 ```
     def madie(npc):
-        npc.martialartsdie = '4' if npc.levels('Monk') < 5 else '6' if npc.levels('Monk') < 11 else '10' if npc.levels('Monk') < 17 else '10'
+        npc.martialartsdie = '4' if npc.levels('Monk') < 5 else '6' if npc.levels('Monk') < 11 else '8' if npc.levels('Monk') < 17 else '10'
     npc.defer(lambda npc: madie(npc))
 
     npc.traits.append("***Martial Arts.*** When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.")
@@ -220,17 +220,7 @@ You can use your reaction to deflect or catch the missile when you are hit by a 
 If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with a range of 20/60 using the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack.
 
 ```
-    npc.defer(lambda npc: npc.reactions.append(f"***Deflect Missiles.*** When you are hit by a ranged weapon attack, you deflect or catch the missile, reducing the damage you take from the attack by 1d10 + {npc.DEXbonus() + npc.levels('Monk')}. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with a range of 20/60 using the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack.") )
-```
-
-## Ability Score Improvement
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-```
-def level8(npc): abilityscoreimprovement(npc)
-def level12(npc): abilityscoreimprovement(npc)
-def level16(npc): abilityscoreimprovement(npc)
-def level19(npc): abilityscoreimprovement(npc)
+    npc.defer(lambda npc: npc.reactions.append(f"***Deflect Missiles.*** When you are hit by a ranged weapon attack, you deflect or catch the missile, reducing the damage you take from the attack by 1d10 + {npc.DEXbonus() + npc.levels('Monk')}. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack using the weapon or piece of ammunition you just caught (*Ranged Weapon Attack* +{npc.proficiencybonus() + npc.DEXbonus()} to hit, range 20/60, one target. Hit: 1d{npc.martialartsdie} + {npc.DEXbonus()} damage of the ammunition's type), as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack.") )
 ```
 
 ## Slow Fall
@@ -241,7 +231,7 @@ You can use your reaction when you fall to reduce any falling damage you take by
 ```
 def level4(npc): 
     abilityscoreimprovement(npc)
-    npc.defer(lambda npc: npc.reactions.append("***Slow Fall.*** Reduce any falling damage you take by {5 * npc.levels('Monk')}."))
+    npc.defer(lambda npc: npc.reactions.append(f"***Slow Fall.*** Reduce any falling damage you take by {5 * npc.levels('Monk')}."))
 ```
 
 ## Quickened Healing
@@ -251,6 +241,16 @@ As an action, you can spend 2 ki points and roll a Martial Arts die. You regain 
 
 ```
     npc.defer(lambda npc: npc.actions.append(f"***Ki: Quickened Healing.*** You can spend 2 ki points and regain 1d{npc.martialartsdie} + {npc.proficiencybonus()} hit points.") )
+```
+
+## Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+```
+def level8(npc): abilityscoreimprovement(npc)
+def level12(npc): abilityscoreimprovement(npc)
+def level16(npc): abilityscoreimprovement(npc)
+def level19(npc): abilityscoreimprovement(npc)
 ```
 
 ## Focused Aim
@@ -314,7 +314,7 @@ Your mastery of the ki flowing through you makes you immune to disease and poiso
 def level10(npc):
     npc.traits.append("***Purity of Body.*** You are immune to disease and poison.")
     npc.damageimmunities.append('poison')
-    npc.damageimmunities.append('disease')
+    npc.conditionimmunities.append('diseased')
 ```
 
 ## Tongue of the Sun and Moon
@@ -339,7 +339,7 @@ def level14(npc):
     if 'CON' not in npc.savingthrows: npc.savingthrows.append('CON')
     if 'INT' not in npc.savingthrows: npc.savingthrows.append('INT')
     if 'WIS' not in npc.savingthrows: npc.savingthrows.append('WIS')
-    if 'DEX' not in npc.savingthrows: npc.savingthrows.append('DEX')
+    if 'CHA' not in npc.savingthrows: npc.savingthrows.append('CHA')
 
     npc.traits.append("***Ki: Diamond Soul.*** Whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the second result.")
 ```

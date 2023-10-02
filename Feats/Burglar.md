@@ -10,8 +10,6 @@ description = "***Feat: Burglar.*** You pride yourself on your quickness and you
 def prereq(npc): return True
 def apply(npc):
     npc.DEX += 1
-    if "Thieves' tools" in npc.proficiencies:
-        npc.traits.append("***Thieves' Tools.*** You add double your proficiency bonus to checks you make with them.")
-    else:
-        npc.proficiencies.append("Thieves' tools")
+
+    npc.addskillorexpertise("Theives' tools")
 ```
