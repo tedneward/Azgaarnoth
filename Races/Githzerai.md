@@ -46,8 +46,8 @@ def level0(npc):
     spellcasting.cantripsknown.append('mage hand')
 
 def level3(npc):
-    npc.spellcasting['Githyanki'].preday[1] = ['shield']
+    npc.spellcasting[name].perday[1] = ['shield']
 
 def level5(npc):
-    npc.spellcasting['Githyanki'].preday[1].append('detect thoughts')
+    npc.spellcasting[name].perday[1].append('detect thoughts')
 ```
