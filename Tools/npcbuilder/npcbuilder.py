@@ -550,6 +550,15 @@ def loadfeats():
                 feats[featmodule.name] = featmodule
 
 
+class TitledText:
+    def __init__(self, title, text):
+        self.title = title
+        self.text = text
+
+    def __str__(self):
+        return f"***{self.title}.*** {self.text}"
+
+
 class NPC:
     class Spellcasting:
         def __init__(self, npc, ability, named, casterclass = None):
@@ -793,22 +802,19 @@ class NPC:
         for dfn in self.normalizers:
             dfn(self)
 
-        # Let's see if there's any duplicate skills or other things
-        skilllist = []
-        for skill in self.skills:
-            if skill in skilllist:
-                warn("Duplicated skill: " + skill)
-            else:
-                skilllist.append(skill)
-        self.skills = skilllist
-
-        proflist = []
-        for prof in self.proficiencies:
-            if prof in proflist:
-                warn("Duplicated proficiency: " + prof)
-            else:
-                proflist.append(prof)
-        self.proficiencies = proflist
+        # Let's see if there's any duplicate skills/expertises/proficiencies or other things
+        def dupecheck(srclist, thingtype):
+            newlist = []
+            for thing in srclist:
+                if thing in newlist:
+                    warn(f"Duplicate {thingtype}:" + thing)
+                else:
+                    newlist.append(thing)
+            return newlist
+        self.skills = dupecheck(self.skills, "skill")
+        self.expertises = dupecheck(self.expertises, "expertise")
+        self.proficiencies = dupecheck(self.proficiencies, "proficiency")
+        self.languages = dupecheck(self.languages, "language")
 
         damagetypes = [ 
             'acid', 'bludgeoning', 'cold', 'fire', 'force', 'lightning', 'necrotic', 
@@ -821,6 +827,15 @@ class NPC:
         verifytypes(self.damageimmunities)
         verifytypes(self.damageresistances)
         verifytypes(self.damagevulnerabilities)
+
+        conditions = ['blinded', 'charmed', 'deafened', 'exhaustion', 'frightened',
+                      'grappled', 'incapacitated','invisible','paralyzed','petrified',
+                      'poisoned', 'prone', 'restrained', 'stunned', 'unconscious']
+        def verifyconditions(list):
+            for entry in list:
+                if entry not in conditions:
+                    warn("Unrecognized condition: " + entry)
+        verifyconditions(self.conditionimmunities)
 
     def getsavingthrows(self):
         results = []

@@ -1,8 +1,8 @@
 >### Name
->*Medium Male humanoid (Gray Dragonborn) Monk (Way of the Long Death) 20, any alignment*
+>*Medium Male humanoid (Gray Dragonborn) Monk (Way of the Astral Self) 20, any alignment*
 >___
 >- **Armor Class** 18 (Natural armor (14),DEX (+4))
->- **Hit Points** 162 (20d8 + 41)
+>- **Hit Points** 150 (20d8 + 41)
 >- **Speed** 60 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
@@ -30,8 +30,6 @@
 >
 >***Purity of Body.*** You are immune to disease and poison.
 >
->***Ki: Mastery of Death.*** When you are reduced to 0 hit points, you can expend 1 ki point (no action required) to have 1 hit point instead.
->
 >***Tongue of the Sun and Moon.*** You learn to touch the ki of other minds so that you understand all spoken languages. Moreover, any creature that can understand a language can understand what you say.
 >
 >***Ki: Diamond Soul.*** Whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the second result.
@@ -42,16 +40,10 @@
 >
 >***Ki (20/Recharges on short or long rest).*** Ki save DC 19.
 >
->***Touch of Death.*** When you reduce a creature within 5 feet of you to 0 hit points, you gain 24 temporary hit points.
->
 >#### Actions
 >***Multiattack.*** You can attack twice whenever you take the Attack action on your turn.
 >
->***Hour of Reaping.*** Each creature within 30 feet of you that can see you must succeed on a Wisdom saving throw (DC 13) or be frightened of you until the end of your next turn.
->
 >***Stillness of Mind.*** You can end one effect on yourself that is causing you to be charmed or frightened.
->
->***Ki: Touch of the Long Death.*** You touch one creature within 5 feet of you, and you expend 1 to 10 ki points. The target must make a Constitution saving throw (DC {8 + npc.WISbonus() + npc.proficiencybonus()}), taking 2d10 necrotic damage per ki point spent on a failed save, or half as much damage on a successful one.
 >
 >***Ki: Empty Body.*** You can spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage. You can spend 8 ki points to cast [astral projection](http://azgaarnoth.tedneward.com/magic/spells/astral-projection/) without needing material components; when you do so, you can't take any other creatures with you.
 >
@@ -62,9 +54,11 @@
 >***Ki: Quickened Healing.*** You can spend 2 ki points and regain 1d10 + 7 hit points.
 >
 >#### Reactions
->***Deflect Missiles.*** When you are hit by a ranged weapon attack, you deflect or catch the missile, reducing the damage you take from the attack by 1d10 + 24. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with a range of 20/60 using the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack.
+>***Deflect Missiles.*** When you are hit by a ranged weapon attack, you deflect or catch the missile, reducing the damage you take from the attack by 1d10 + 24. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack using the weapon or piece of ammunition you just caught (*Ranged Weapon Attack* +11 to hit, range 20/60, one target. Hit: 1d10 + 4 damage of the ammunition's type), as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack.
 >
 >***Slow Fall.*** Reduce any falling damage you take by 100.
+>
+>***Ki: Body of the Astral Self.*** When you take acid, cold, fire, force, lightning, or thunder damage, you can deflect it. When you do so, the damage you take is reduced by 1d10 + 4.
 >
 >
 >#### Bonus Actions
@@ -73,6 +67,14 @@
 >***Ki: Patient Defense.*** You can spend 1 ki point to take the Dodge action.
 >
 >***Ki: Step of the Wind.*** You can spend 1 ki point to take the Disengage or Dash action. Your jump distance is doubled for the turn.
+>
+>***Ki: Visage of the Astral Self.*** You can spend 1 ki point to summon the visage of your astral self for 10 minutes, covering your face like a helmet or mask. While present, you can see normally in darkness, both magical and nonmagical, to a distance of 120 feet; you have advantage on Wisdom (Insight) and Charisma (Intimidation) checks; when you speak, you can direct your words to a creature of your choice that you can see within 60 feet of you, making it so only that creature can hear you. Alternatively, you can amplify your voice so that all creatures within 600 feet can hear you.
+>
+>***Ki: Arms of the Astral Self.*** you can spend 1 ki point to summon the arms of your astral self. When you do so, each creature of your choice that you can see within 10 feet of you must succeed on a Dexterity saving throw (DC 19) or take 2d10 force damage. For 10 minutes, these spectral arms hover near your shoulders or surround your arms, and while they are present, you can use your Wisdom modifier in place of your Strength modifier when making Strength checks and saving throws; you can use the spectral arms to make unarmed strikes (*Melee Weapon Attack:* +11 to hit, reach 10 feet, one target. Hit: 1d10 + 4 force damage. This attack is considered magical for purposes of overcoming resistance and immunity to nonmagical attacks and damage.)
+>
+>***Ki: Arms of the Astral Self enhancement.*** Once on each of your turns when you hit a target with the Arms of the Astral Self, you can deal 1d10 extra damage to the target.
+>
+>***Ki: Awakened Astral Self.*** You can spend 5 ki points to summon the arms, visage, and body of your astral self and awaken it for 10 minutes. During this time, you gain a +2 bonus to Armor Class; whenever you use the Extra Attack feature to attack, you can attack three times if all the attacks are made with your astral arms; when a creature within 10 feet of you is reduced to 0 hit points, you can use your reaction to regain {npc.WISbonus()} ki points.
 >
 >
 >#### Equipment
@@ -102,7 +104,7 @@
 
 ***Class: Monk.*** Monks are united in their ability to magically harness the energy that flows in their bodies. Whether channeled as a striking display of combat prowess or a subtler focus of defensive ability and speed, this energy infuses all that a monk does.
 
-***Monastic Tradition: Way of the Long Death.*** Monks of the Way of the Long Death are obsessed with the meaning and mechanics of dying. They capture creatures and prepare elaborate experiments to capture, record, and understand the moments of their demise. They then use this knowledge to guide their understanding of martial arts, yielding a deadly fighting style.
+***Monastic Tradition: Way of the Astral Self.*** A monk who follows the Way of the Astral Self believes their body is an illusion. They see their ki as a representation of their true form, an astral self. This astral self has the capacity to be a force of order or disorder, with some monasteries training students to use their power to protect the weak and other instructing aspirants in how to manifest their true selves in service to the mighty.
 
 
 
