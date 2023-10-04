@@ -1,7 +1,7 @@
 # Dragons
 True dragons are winged reptiles of ancient lineage and fearsome power. They are known and feared for their predatory cunning and greed, with the oldest dragons accounted as some of the most powerful creatures in the world. Dragons are also magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities.
 
-Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the three broad categories: chromatic, gem, and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, iron, steel, and silver dragons are noble, good, and highly respected by the wise. The .... are often unknown to the general public, and are often found keeping their distance from everyone and everything alike.
+Many creatures, including wyverns and dragon turtles, have draconic blood. However, true dragons fall into the three broad categories: chromatic, gem, and metallic dragons. The black, blue, green, red, and white dragons are selfish, evil, and feared by all. The brass, bronze, copper, gold, iron, steel, and silver dragons are noble, good, and highly respected by the wise. The .... are often unknown to the general public, and work to keep their distance from everyone and everything alike.
 
 Though their goals and ideals vary tremendously, all true dragons covet wealth, hoarding mounds of coins and gathering gems, jewels, and magic items. Dragons with large hoards are loath to leave them for long, venturing out of their lairs only to patrol or feed.
 

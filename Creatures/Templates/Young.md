@@ -15,3 +15,4 @@ Most creatures do not spring, fully-formed, in an adult shape from the day of th
 * Most traits will not have emerged yet, and most actions will not be available until the creature is older.
 
 * Attack actions go down half the number of damage dice, and one size die (so 2d6 becomes 1d4, 10d10 becomes 5d8)
+

@@ -5,7 +5,6 @@ Many swashbucklers have a signature flourish with which they embellish their act
 
 **Swashbuckler Flourishes**
 
-
 d8	Flourish
 1	Winks and flashes a charming grin
 2	Bows theatrically

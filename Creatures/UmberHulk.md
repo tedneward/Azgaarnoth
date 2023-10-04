@@ -7,6 +7,12 @@ Burrowing into the wall of a cavern or passageway, an umber hulk lies in wait fo
 
 ***Mind Scrambler.*** Many survivors of an umber hulk encounter recollect little about the attack, because the monster's confusing gaze scrambles their memory of the event. Those who have fought and killed umber hulks recognize the signs. For other denizens of the Underdark, grisly tales of vanished explorers and wanton destruction speak of an unknown foe. Umber hulks take on supernatural status in these harrowing stories, many of which convey the same warning: once an umber hulk has been spotted, it is already too late to escape it.
 
+### Environment
+Underdark
+
+### Token
+![](UmberHulk-Token.png)
+
 >### Umber Hulk
 >*Large monstrosity, chaotic evil*
 >___
@@ -19,7 +25,7 @@ Burrowing into the wall of a cavern or passageway, an umber hulk lies in wait fo
 >|20 (+5)|13 (+1)|16 (+3)|9 (-1)|10 (+0)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
