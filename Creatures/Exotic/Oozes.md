@@ -372,7 +372,7 @@ A psionic gray ooze has an Intelligence score of 6 (−2), as well as the follow
 ### Token
 ![](PsychicGrayOoze-Token.png)
 
->### Psychic Gray Ooze
+>### Large Psychic Gray Ooze
 >*Large ooze, unaligned*
 >___
 >- **Armor Class** 8
@@ -393,7 +393,7 @@ A psionic gray ooze has an Intelligence score of 6 (−2), as well as the follow
 >- **Skills** Stealth +2
 >- **Senses** blindsight 60 ft. (blind beyond this radius),passive Perception 8
 >- **Languages** —
->- **Challenge** 
+>- **Challenge** 2
 >___
 >***Amorphous.*** The ooze can move through a space as narrow as 1 inch wide without squeezing.
 >
@@ -408,7 +408,7 @@ A psionic gray ooze has an Intelligence score of 6 (−2), as well as the follow
 >
 >***Pseudopod.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (2d6 + 2) bludgeoning damage plus 14 (4d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 >
->***Psychic Crush (Recharge 5–6).*** The ooze targets one creature that it can sense within 60 feet of it. The target must make a DC 11 Intelligence saving throw, taking 10 (3d6) psychic damage on a failed save, or half as much damage on a successful one.
+>***Psychic Crush (Recharge 5–6).*** The ooze targets one creature that it can sense within 60 feet of it. The target must make a DC 14 Intelligence saving throw, taking 20 (6d6) psychic damage on a failed save, or half as much damage on a successful one.
 >
 >## Token
 >
