@@ -8,10 +8,10 @@ First, the draconic parentage of the half-dragon must be determined:
 Type           | Energy    | Area
 -------------- | --------- | -------------
 Black, Copper  | Acid      | 100-foot line that is 10 feet wide
-Blue, Bronze   | Lightning | 
-Brass,Gold,Red | Fire      | 
-Green          | Poison    | 
-White, Silver  | Cold      | 
+Blue, Bronze   | Lightning | 100-foot line that is 10 feet wide
+Brass,Gold,Red | Fire      | 100-foot line that is 10 feet wide
+Green          | Poison    | 100-foot line that is 10 feet wide
+White, Silver  | Cold      | 100-foot line that is 10 feet wide
 
 * **Challenge.** To avoid recalculating the creature's challenge rating, apply the template only to a creature that meets the optional prerequisite in the Breath Weapon table below. Otherwise, use the guidelines in the Dungeon Master's Guide to recalculate the rating after you apply the template.
 
