@@ -192,6 +192,64 @@ A gray ooze is stone turned to liquid by chaos. When it moves, it slithers like 
 
 ---
 
+## Huge Gray Ooze
+A gray ooze is stone turned to liquid by chaos. When it moves, it slithers like a liquid snake, rising to strike.
+
+![](Oozes-GrayOoze.png)
+
+### Environment
+(FIXME)
+
+### Token
+![](GrayOoze-Token.png)
+
+>### Huge Gray Ooze
+>*Huge ooze, unaligned*
+>___
+>- **Armor Class** 8
+>- **Hit Points** 152 (16d12 + 48)
+>- **Speed** 10 ft., climb 10 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|6 (-2)|16 (+3)|1 (-5)|6 (-2)|2 (-4)|
+>
+>___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** acid,cold,fire
+>- **Condition Immunities** blinded,charmed,deafened,exhaustion,frightened,prone
+>- **Skills** Stealth +2
+>- **Senses** blindsight 60 ft. (blind beyond this radius),passive Perception 8
+>- **Languages** —
+>- **Challenge** 8
+>___
+>***Amorphous.*** The ooze can move through a space as narrow as 1 inch wide without squeezing.
+>
+>***Corrode Metal.*** Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.
+>
+>The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
+>
+>***False Appearance.*** While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.
+>
+>#### Actions
+>***Multiattack.*** As an action, it can make two attack with its pseudopods.
+>
+>***Pseudopod.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 21 (6d6) acid damage, or 42 (12d6) acid damage while the ooze is enlarged. If the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+>
+>***Enlarge (Recharges after a Short or Long Rest).*** For 1 minute, the ooze magically increases in size. While enlarged, the ooze is Gargantuan, doubles its damage dice with its pseudopod attack, and makes Strength checks and Strength saving throws with advantage.
+>
+>***Invisibility (Recharges after a Short or Long Rest).*** The ooze magically turns invisible for up to 1 hour until it attacks, it uses its Enlarge, or its concentration is broken (as if concentrating on a spell).
+>
+>## Token
+>
+>[](Oozes-GrayOoze-Token.png)
+>
+
+---
+
 ## Ochre Jelly
 Ochre jellies are yellowish blobs that can slide under doors and through narrow cracks in pursuit of creatures to devour. They have enough bestial cunning to avoid large groups of enemies.
 
@@ -293,6 +351,64 @@ A psionic gray ooze has an Intelligence score of 6 (−2), as well as the follow
 >***Pseudopod.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 >
 >***Psychic Crush (Recharge 5–6).*** The ooze targets one creature that it can sense within 60 feet of it. The target must make a DC 10 Intelligence saving throw, taking 10 (3d6) psychic damage on a failed save, or half as much damage on a successful one.
+>
+>## Token
+>
+>[](Oozes-GrayOoze-Token.png)
+>
+
+---
+
+## Large Psychic Gray Ooze
+A gray ooze that lives a long time can evolve to become more intelligent and develop limited psionic ability. Such occurrences are more common in gray oozes that live near psionic creatures such as [mind flayers](MindFlayers.md), suggesting that the ooze can sense and mimic psionic ability. Some are well-fed and grow to frightening sizes.
+
+![](Oozes-GrayOoze.png)
+
+A psionic gray ooze has an Intelligence score of 6 (−2), as well as the following additional action.
+
+### Environment
+(FIXME)
+
+### Token
+![](PsychicGrayOoze-Token.png)
+
+>### Psychic Gray Ooze
+>*Large ooze, unaligned*
+>___
+>- **Armor Class** 8
+>- **Hit Points** 68 (8d10 + 24)
+>- **Speed** 10 ft., climb 10 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|6 (-2)|16 (+3)|6 (-2)|6 (-2)|2 (-4)|
+>
+>___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** acid,cold,fire
+>- **Damage Immunities** 
+>- **Condition Immunities** blinded,charmed,deafened,exhaustion,frightened,prone
+>- **Skills** Stealth +2
+>- **Senses** blindsight 60 ft. (blind beyond this radius),passive Perception 8
+>- **Languages** —
+>- **Challenge** 
+>___
+>***Amorphous.*** The ooze can move through a space as narrow as 1 inch wide without squeezing.
+>
+>***Corrode Metal.*** Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.
+>
+>The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
+>
+>***False Appearance.*** While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.
+>
+>#### Actions
+>***Multiattack.*** The ooze can use both its Pseudopod and its Psychic Crush attack as part of its Attack action.
+>
+>***Pseudopod.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (2d6 + 2) bludgeoning damage plus 14 (4d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+>
+>***Psychic Crush (Recharge 5–6).*** The ooze targets one creature that it can sense within 60 feet of it. The target must make a DC 11 Intelligence saving throw, taking 10 (3d6) psychic damage on a failed save, or half as much damage on a successful one.
 >
 >## Token
 >

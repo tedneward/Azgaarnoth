@@ -837,6 +837,12 @@ class NPC:
                     warn("Unrecognized condition: " + entry)
         verifyconditions(self.conditionimmunities)
 
+        # Lets sort a few lists
+        self.traits.sort()
+        self.actions.sort()
+        self.bonusactions.sort()
+        self.reactions.sort()
+
     def getsavingthrows(self):
         results = []
         for st in self.savingthrows:

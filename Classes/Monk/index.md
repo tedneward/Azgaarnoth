@@ -85,7 +85,7 @@ While you are wearing no armor and not wielding a shield, your AC equals 10 + yo
 
 ```
     def acadjust(npc):
-        npc.armorclass['Natural armor'] = (10 + npc.WISbonus())
+        npc.armorclass['Unarmored Defense'] = (10 + npc.WISbonus())
     npc.defer(lambda npc: acadjust(npc))
 ```
 
