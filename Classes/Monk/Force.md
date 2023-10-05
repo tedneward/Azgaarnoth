@@ -73,7 +73,7 @@ def constrictinggrasp(npc):
 
 ```
 def empoweredweapon(npc):
-    npc.bonusactions.append("You can expend 2 ki points to channel the binding force into one monk weapon you're holding. For the next 1 minute, you deal an extra 1d6 radiant damage to any target you hit with the weapon, and the weapon becomes magical if it isn't already for the spell's duration.")
+    npc.bonusactions.append("***Force Discipline: Empowered Weapon.*** You can expend 2 ki points to channel the binding force into one monk weapon you're holding. For the next 1 minute, you deal an extra 1d6 radiant damage to any target you hit with the weapon, and the weapon becomes magical if it isn't already for the spell's duration.")
 ```
 
 **Extraordinary Speed (11th Level Required).** You can spend 4 ki points to cast [haste](../../Magic/Spells/haste.md), targeting yourself.
