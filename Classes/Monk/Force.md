@@ -19,6 +19,7 @@ Whenever you learn a new discipline, you can also replace one discipline that yo
 
 ```
 def level3(npc):
+    npc.forcedisciplines = ['Forceful Abilities']
     forcefulabilities(npc)
     choosediscipline(npc)
 
@@ -78,7 +79,7 @@ def empoweredweapon(npc):
 **Extraordinary Speed (11th Level Required).** You can spend 4 ki points to cast [haste](../../Magic/Spells/haste.md), targeting yourself.
 
 ```
-def extraordinearyspeed(npc):
+def extraordinaryspeed(npc):
     npc.actions.append(f"***Force Discipline: Extraordinary Speed.*** You can spend 4 ki points to cast {spelllinkify('haste')}, targeting yourself.")
 ```
 
@@ -107,18 +108,11 @@ def forcefulabilities(npc):
     npc.actions.append("***Force Discipline: Forceful Abilities.*** You can use your action and your understanding of the binding force to create one of the following effects at a point you can see within range: one Medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you; you create a small blast of force capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn't pushed with enough force to cause damage; you create a harmless sensory affect, such as causing leaves to rustle, shutters to slam shut, or your clothing to ripple.")
 ```
 
-**Forceful Pull.** You can spend 2 ki points as an action to use an unseen wave of force to pull a creature either toward you or to the ground. A creature that you can see within 30 feet of you must make a Strength saving throw. On a failed save the creature takes 3d10 force damage, plus an extra 1d10 force damage for each additional ki point you spend, and you can either knock the target prone or pull it up to 25 feet away toward you. On a successful save, the creature takes half as much damage and you don't push it or knock it prone.
+**Forceful Move.** You can spend 2 ki points as an action to use an unseen wave of force to push or pull a creature either toward you or to the ground. A creature that you can see within 30 feet of you must make a Strength saving throw. On a failed save the creature takes 3d10 force damage, plus an extra 1d10 force damage for each additional ki point you spend, and you can either knock the target prone, push it up to 25 feet away from you, or pull it up to 25 feet away toward you. On a successful save, the creature takes half as much damage and you don't move it or knock it prone.
 
 ```
-def forcefulpull(npc):
-    npc.defer(lambda npc: npc.actions.append("***Force Discipline: Forceful Pull.*** You can spend 2 ki points to use an unseen wave of force to pull a creature either toward you or to the ground. A creature that you can see within 30 feet of you must make a Strength saving throw (DC {8 + npc.proficiencybonus() + npc.WISbonus()}). On a failed save the creature takes 3d10 force damage, plus an extra 1d10 force damage for each additional ki point you spend, and you can either knock the target prone or pull it up to 25 feet away toward you. On a successful save, the creature takes half as much damage and you don't pull it or knock it prone.") )
-```
-
-**Forceful Push.** You can create an unseen wave of force that strikes and pushes a creature, knocking them off balance. As an action, you can spend 2 ki points and choose a creature within 30 feet of you. That creature must make a Strength saving throw. On a failed save, the creature takes 3d10 force damage, plus an extra 1d10 force damage for each additional ki point you spend, and you can push the creature up to 20 feet away from you and knock it prone. On a successful save, the creature takes half as much damage, and you don't push it or knock it prone.
-
-```
-def forcefulpush(npc):
-    npc.defer(lambda npc: npc.actions.append("***Force Discipline: Forceful Push.*** You can spend 2 ki points to use an unseen wave of force strikes and pushes a creature, knocking them off balance. A creature that you can see within 30 feet of you must make a Strength saving throw (DC {8 + npc.proficiencybonus() + npc.WISbonus()}). On a failed save the creature takes 3d10 force damage, plus an extra 1d10 force damage for each additional ki point you spend, and you can either knock the target prone or pull it up to 25 feet away toward you. On a successful save, the creature takes half as much damage and you don't push it or knock it prone.") )
+def forcefulmove(npc):
+    npc.defer(lambda npc: npc.actions.append("***Force Discipline: Forceful Move.*** You can spend 2 ki points to use an unseen wave of force to pull a creature either toward you or to the ground. A creature that you can see within 30 feet of you must make a Strength saving throw (DC {8 + npc.proficiencybonus() + npc.WISbonus()}). On a failed save the creature takes 3d10 force damage, plus an extra 1d10 force damage for each additional ki point you spend, and you can either knock the target prone or pull it up to 25 feet away toward you. On a successful save, the creature takes half as much damage and you don't pull it or knock it prone.") )
 ```
 
 **Forceful Returning.** Immediately after you make a ranged weapon attack with a thrown monk weapon, you can spend a ki point to manipulate the binding force and cause that weapon to fly back to your hand.
@@ -130,17 +124,52 @@ def forcefulreturning(npc):
 
 **Forceful Throw.** You can spend 2 ki points to cast [catapult](../../Magic/Spells/catapult.md).
 
+```
+def forcefulthrow(npc):
+    npc.actions.append("***Force Discipline: Forceful Throw.*** You can spend 2 ki points to cast {spelllinkify('catapult')}.")
+```
+
 **Mind Domination (17th Level Required).** You can spend 6 ki points to cast [dominate person](../../Magic/Spells/dominate-person.md).
+
+```
+def minddomination(npc):
+    npc.actions.append("***Force Discipline: Mind Domination.*** You can spend 6 ki points to cast {spelllinkify('dominate person;)}.")
+```
 
 **Mind Trick.** You can spend 2 ki points to cast [charm person](../../Magic/Spells/charm-person.md).
 
+```
+def mindtrick(npc):
+    npc.actions.append("***Force Discipline: Mind Trick.*** You can spend 2 ki points to cast {spelllinkify('charm person')}.")
+```
+
 **Mystic Senses (17th Level Required).** You can spend 5 ki points to cast [locate creature](../../Magic/Spells/locate-creature.md).
+
+```
+def mysticsenses(npc):
+    npc.actions.append("***Force Discipline: Mystic Senses.*** You can spend 5 ki points to cast {spelllinkify('locate creature')}.")
+```
 
 **Powerful Mind Trick (17th Level Required).** You can spend 5 ki points to cast [charm monster](../../Magic/Spells/charm-monster.md).
 
+```
+def powerfulmindtrick(npc):
+    npc.actions.append("***Force Discipline: Powerful Mind Trick.*** You can spend 5 ki points to cast {spelllinkify('charm monster')}.")
+```
+
 **Spirit Lightning. (11th Level Required).** You can spend 4 ki points to cast [lightning bolt](../../Magic/Spells/lightning-bolt.md).
 
+```
+def spiritlightning(npc):
+    npc.actions.append("***Force Discipline: Spirit Lightning.*** You can spend 4 ki points to cast {spelllinkify('lightning bolt')}.")
+```
+
 **Supernatural Agility.** You can spend 2 ki points to cast either [jump](../../Magic/Spells/jump.md) or [longstrider](../../Magic/Spells/longstrider.md), targeting yourself.
+
+```
+def supernaturalagility(npc):
+    npc.actions.append("***Force Discipline: Supernatural Agility.*** You can spend 2 ki points to cast either {spelllinkify('jump')} or {spelllinkify('longstrider')}, targeting yourself.")
+```
 
 ```
 disciplines = {
@@ -149,6 +178,25 @@ disciplines = {
     'Empowered Weapon': [0, empoweredweapon],
     'Extraordinary Speed': [11, extraordinaryspeed],
     'Far-Reaching Voice': [11, farreachingvoice],
-    'Focused Mind Trick': [6, focusedmindtrick]
+    'Focused Mind Trick': [6, focusedmindtrick],
+    'Forceful Abilities': [0, forcefulabilities],
+    'Forceful Move': [0, forcefulmove],
+    'Forceful Returning': [0, forcefulreturning],
+    'Forceful Throw': [0, forcefulthrow],
+    'Mind Domination': [17, minddomination],
+    'Mind Trick': [0, mindtrick],
+    'Mystic Senses': [17, mysticsenses],
+    'Powerful Mind Trick': [17, powerfulmindtrick],
+    'Spirit Lightning': [11, spiritlightning],
+    'Supernatural Agility': [0, supernaturalagility]
 }
+def choosediscipline(npc):
+    availdisciplines = {}
+    for (dname, dlist) in disciplines.items():
+        if dname not in npc.forcedisciplines:
+            if npc.levels('Monk') >= dlist[0]:
+                availdisciplines[dname] = dlist[1]
+    (chosenname, chosenfn) = choose("Choose a force discipline: ", availdisciplines)
+    npc.forcedisciplines.append(chosenname)
+    chosenfn(npc)
 ```
