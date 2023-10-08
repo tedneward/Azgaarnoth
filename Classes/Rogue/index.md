@@ -129,31 +129,12 @@ At 6th level, you can choose two more of your proficiencies (in skills or with t
     # Expertise
     exp1 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
     exp2 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
-    npc.roguishexpertise = [ exp1, exp2 ]
-    npc.defer(lambda npc: npc.traits.append(f"***Expertise.*** Your proficiency bonus is doubled for any ability check that uses any of the following skills: {','.join(npc.roguishexpertise)}."))
-
-    def getskills(self):
-        skillmap = {
-            'Acrobatics' : 'DEX', 'Animal Handling' : 'WIS', 'Arcana' : 'INT',
-            'Athletics' : 'STR', 'Deception' : 'CHA', 'History' : 'INT',
-            'Insight' : 'WIS', 'Intimidation' : 'CHA', 'Investigation' : 'INT',
-            'Medicine' : 'WIS', 'Nature' : 'INT', 'Perception' : 'WIS', 'Performance' : 'CHA', 
-            'Persuasion' : 'CHA', 'Religion' : 'INT', 'Sleight of Hand' : 'DEX', 
-            'Stealth' : 'DEX', 'Survival' : 'WIS'
-        }
-        results = []
-        for skill in self.skills:
-            if skill in self.roguishexpertise:
-                results.append(f"{skill} +{(getattr(self, str(skillmap[skill]) + 'bonus', None)()) + (self.proficiencybonus() * 2)}")
-            else:
-                results.append(f"{skill} +{(getattr(self, str(skillmap[skill]) + 'bonus', None)()) + self.proficiencybonus()}")
-        return ",".join(results)
-    npc.getskills = types.MethodType(getskills, npc)
+    npc.expertises = [ exp1, exp2 ]
 
 def level6(npc):
     exp1 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
     exp2 = choose("Choose an Expertise: ", npc.skills + ["Thieves' Tools"])
-    npc.roguishexpertise += [ exp1, exp2 ]
+    npc.expertises += [ exp1, exp2 ]
 ```
 
 ## Cunning Action

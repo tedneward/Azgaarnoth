@@ -7,4 +7,16 @@ You study the arcane arts, gaining the following benefits:
 
 Note that if you choose to be a member of a [Mage School](../Organizations/MageSchools/index.md), your cantrip and 1st-level spell may vary, according to the DM.
 
+```
+name = 'Arcanist'
+description = "***Feat: Arcanist.*** You study the arcane arts."
+def prereq(npc): return True
+def apply(npc):
+    npc.INT += 1
 
+    npc.addskillorexpertise("Arcana")
+    
+    spellcasting = npc.newspellcasting('Arcanist', 'INT')
+    spellcasting.cantripsknown.append('prestidigitation')
+    spellcasting.perday[1] = ['detect magic']
+```

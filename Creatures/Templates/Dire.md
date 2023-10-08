@@ -19,6 +19,7 @@ A Huge or smaller beast can become a dire creature.
 Here the dire creature template has been applied to an elephant.
 
 Dire Elephant
+
 Gargantuan beast, unaligned
 
 Armor Class 13 (natural armor)

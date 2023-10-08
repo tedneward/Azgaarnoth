@@ -11,11 +11,12 @@ description = "***Tiefling Bloodline: Devil's Tongue.*** Aside from their raw ph
 def level0(npc):
     npc.INT += 1
 
-    npc.cantripsknown.append("vicious mockery")
+    spellcasting = innatecaster(npc, 'CHA', "Devil's Tongue Tiefling")
+    spellcasting.cantripsknown.append("vicious mockery")
 
 def level3(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Devil's Tongue (Recharges on long rest).*** You can cast " + spelllinkify('charm person') + "as a 2nd-level spell. (Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()})"))
+    npc.spellcasting["Devil's Tongue Tiefling"].perday[1] = [ 'charm person' ]
 
 def level5(npc):
-    npc.defer(lambda npc: replace("***Devil's Tongue", npc.actions, f" (Recharges on long rest).*** You can cast {spelllinkify('charm person')} as a 2nd-level spell or {spelllinkify('enthrall')}. (Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()})"))
+    npc.spellcasting["Devil's Tongue Tiefling"].perday[1].append('enthrall')
 ```

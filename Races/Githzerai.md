@@ -41,13 +41,13 @@ def level0(npc):
     npc.languages.append('Gith')
 
     npc.traits.append("***Mental Discipline.*** You have advantage on saving throws against the charmed and frightened conditions.")
-    npc.newspellcasting('Githzerai', 'WIS').cantripsknown.append('mage hand')
+
+    spellcasting = innatecaster(npc, 'WIS', name)
+    spellcasting.cantripsknown.append('mage hand')
 
 def level3(npc):
-    npc.spellcasting['Githzerai'].spells[1].append("shield")
-    npc.spellcasting['Githzerai'].slots = [ 1 ]
+    npc.spellcasting[name].perday[1] = ['shield']
 
 def level5(npc):
-    npc.spellcasting['Githzerai'].spells[2].append("detect thoughts")
-    npc.spellcasting['Githzerai'].slots = [ 1,1 ]
+    npc.spellcasting[name].perday[1].append('detect thoughts')
 ```

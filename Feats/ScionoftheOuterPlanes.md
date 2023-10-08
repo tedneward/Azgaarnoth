@@ -12,4 +12,23 @@ Good Outer Plane | Radiant | [sacred flame](../Magic/Spells/sacred-flame.md)
 Lawful Outer Plane | Radiant | [guidance](../Magic/Spells/guidance.md)
 The Outlands | Psychic | [mage hand](../Magic/Spells/mage-hand.md)
 
-
+```
+name = 'Scion of the Outer Planes'
+description = "***Feat: Scion of the Outer Planes.*** You are influenced by and adept at navigating planar pathways and the strange realities of the Outer Planes."
+def prereq(npc): return True
+def apply(npc):
+    planes = {
+        'Astral': ['psychic', 'message'],
+        'Chaotic': ['necrotic', 'minor illusion'],
+        'Evil': ['necrotic', 'chill touch'],
+        'Good': ['radiant', 'sacred flame'],
+        'Lawful': ['radiant', 'guidance'],
+        'Outlands': ['psychic', 'mage hand']
+    }
+    (planename, planeeffects) = choose("Choose your planar connection: ", planes)
+    npc.scionplane = planename
+    npc.damageresistances.append(planeeffects[0])
+    ability = choose("Choose your spellcasting ability: ", ['INT','WIS','CHA'])
+    spellcasting = innatecaster(npc, ability, 'Scion')
+    spellcasting.cantripsknown.append(spelllinkify(planeeffects[1]))
+```

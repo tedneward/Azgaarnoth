@@ -1,5 +1,5 @@
 # Rogue (Assassin)
-Rogue,Acrobatics,Athletics,Deception,Insight,Acrobatics,Athletics,Yes,
+Rogue,Acrobatics,Athletics,Deception,Insight,Acrobatics,Athletics,Yes
 Rogue,Yes
 Rogue,Assassin,Yes
 Rogue,Ability,CON,CON,Yes
@@ -19,3 +19,25 @@ Rogue,Yes
 Rogue,Yes
 Rogue,Ability,CON,DEX,Yes
 Rogue,No
+
+# Fighter
+Fighter,Acrobatics,Athletics,Brute,Yes
+Fighter,Feat,Sharpshooter,Yes
+Fighter,Yes
+Fighter,Ability,CON,CON,Yes
+Fighter,Yes
+Fighter,Ability,CON,CON,Yes
+Fighter,Yes
+Fighter,Yes
+Fighter,Yes
+Fighter,Ability,DEX,DEX,Yes
+Fighter,Yes
+Fighter,Ability,DEX,DEX,Yes
+Fighter,Yes
+Fighter,Ability,DEX,DEX,Yes
+Fighter,Yes
+Fighter,Yes
+Fighter,Feat,Empathic,Yes
+Fighter,No
+
+# Cleric

@@ -5,4 +5,12 @@ You master the shortsword, longsword, scimitar, rapier, and greatsword. You gain
 * On your turn, you can use your reaction to assume a parrying stance, provided you have the weapon in hand. Doing so grants a +1 bonus to your AC until the start of your next turn or until you're not holding the weapon.
 * When you make an opportunity attack with the weapon, you have advantage on the attack roll.
 
-
+```
+name = 'Blade Mastery'
+description = "***Feat: Blade Mastery.*** You master the shortsowrd, longsword, scimitar, rapier, and greatsword."
+def prereq(npc): return True
+def apply(npc):
+    npc.actions.append("***TODO: Apply +1 to any attack rolls with shortsword, longsword, scimitar, rapier, and greatsword.")
+    npc.reactions.append("***Blade Mastery.*** You can assume a parrying stance, provided you have the weapon in hand; doing so grants a +1 bonus to AC until the start of your next turn or until you're not holding the weapon.")
+    npc.traits.append("***Blade Mastery.*** When you make an opportunity attack with a blade, you have advantage on the attack roll.")
+```

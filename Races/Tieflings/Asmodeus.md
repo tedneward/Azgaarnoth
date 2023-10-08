@@ -10,11 +10,13 @@ name = 'Asmodeus'
 description = "***Bloodline of Asmodeus.*** The tieflings connected to Nessus command the power of fire and darkness, guided by a keener than normal intellect, as befits those linked to Asmodeus himself."
 def level0(npc):
     npc.INT += 1
-    npc.cantripsknown.append('thaumaturgy')
+    spellcasting = innatecaster(npc, 'INT', "Asmodeus Tiefling")
+    spellcasting.cantripsknown.append("thaumaturgy")
 
 def level3(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Infernal Legacy (Recharges on long rest).*** You can cast " + spelllinkify('hellish rebuke') + "as a 2nd-level spell. (Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()})"))
+    npc.spellcasting['Asmodeus Tiefling'].preday[1] = []
+    npc.spellcasting['Asmodeus Tiefling'].preday[1].append('hellish rebuke')
 
 def level5(npc):
-    npc.defer(lambda npc: replace("***Infernal Legacy", npc.actions, f" (Recharges on long rest).*** You can cast {spelllinkify('hellish rebuke')} as a 2nd-level spell or {spelllinkify('darkness')}. (Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()})"))
+    npc.spellcasting['Asmodeus Tiefling'].preday[1].append('darkness')
 ```

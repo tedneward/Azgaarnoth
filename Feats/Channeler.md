@@ -11,4 +11,13 @@ This grants the following benefits:
 * As long as you have at least one unexpended channeling die remaining, you are considered naturally adapted to cold climates, and you have the ability to start fires with a touch. As an action, you can magically ignite a flammable object you touch with your hand--an object such as a torch, a piece of tinder, or the hem of drapes.
 * You learn the [produce flame](../Magic/Spells/produce-flame.md) cantrip.
 
-
+```
+name = 'Channeler'
+description = "***Feat: Channeler.*** You are one of the rare people who have the innate talent to control raw magic and express it in raw, fiery form."
+def prereq(npc): return True
+def apply(npc):
+    # If the NPC doesn't already have ChannelingMagic on it
+    # ... grab ChannelingMagic type from Sorcerer-Channeler module
+    npc.traits.append("***TODO.*** Add Channeler features.")
+    pass
+```

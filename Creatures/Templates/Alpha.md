@@ -10,3 +10,4 @@ For those creatures that run in packs (dogs, wolves, etc), there is often one th
 * Add 1 to Intelligence, Wisdom, or Charisma.
 
 * It may have additional traits, actions, or other features as determined by the DM.
+

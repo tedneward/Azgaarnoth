@@ -17,5 +17,4 @@ Rogue,Ability,DEX,DEX,Yes
 Rogue,Yes
 Rogue,Yes
 Rogue,Ability,INT,DEX,Yes
-Rogue,No
-Blade,Dart,Flame,Web
+Rogue,No,Blade,Dart,Flame,Web

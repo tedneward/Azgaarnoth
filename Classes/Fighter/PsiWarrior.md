@@ -5,6 +5,11 @@ The Psi Warrior Martial Archetype is only available to characters who have close
 
 > PC Psi Warriors do not have to be attached to the MindMage school, but the school will factor prominently somewhere in their background, either openly or from behind the scenes (perhaps without even the character's knowledge). In some cases, Psi Warriors studied with lone masters, only to learn later that the master was an ex-patriate MindMage Master, or discover their master murdered by an enemy of the MindMage school (or even by the school itself), and so on.
 
+```
+name = 'Psi Warrior'
+description = "***Martial Archetype: Psi Warrior.*** Awake to the psionic power within, a Psi Warrior is a fighter who augments their physical might with psi-infused weapon strikes, telekinetic lashes, and barriers of mental force."
+```
+
 ## Psionic Power
 *3rd-level Psi Warrior feature*
 
@@ -12,11 +17,30 @@ You harbor a wellspring of psionic energy within yourself. This energy is repres
 
 Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a short or long rest.
 
-When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (d8), 11th level (dlO), and 17th level (dl 2). The powers below use your Psionic Energy dice.
+When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (d8), 11th level (d10), and 17th level (d12). The powers below use your Psionic Energy dice.
 
 * **Protective Field.** When you or another creature you can see within 30 feet of you takes damage, you can use your reaction to expend one Psionic Energy die, roll the die, and reduce the damage taken by the number rolled plus your Intelligence modifier (minimum reduction of 1), as you create a momentary shield of telekinetic force.
 * **Psionic Strike.** You can propel your weapons with psionic force. Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a weapon, you can expend one Psionic Energy die, rolling it and dealing force damage to the target equal to the number rolled plus your Intelligence modifier.
 * **Telekinetic Movement.** You can move an object or a creature with your mind. As an action, you target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both. Once you take this action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.
+
+
+```
+def level3(npc):
+    def setpsidice(npc): npc.psionicdicecount = npc.proficiencybonus()
+    npc.psionicdie = 'd6'
+    npc.defer(lambda npc: setpsidice(npc) )
+
+    npc.defer(lambda npc: npc.reactions.append(f"***Protective Field.*** When you or another creature you can see within 30 feet of you takes damage, you can expend one Psionic Energy die, roll the die, and reduce the damage taken by the number rolled plus {npc.INTbonus()}, as you create a momentary shield of telekinetic force."))
+
+    npc.defer(lambda npc: npc.traits.append(f"***Psionic Strike.*** Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a weapon, you can expend one Psionic Energy die, rolling it and dealing force damage to the target equal to the number rolled plus {npc.INTbonus()}."))
+
+    npc.actions.append("***Telekinetic Movement (Recharges on short or long rest or Psionic Energy die).*** You target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both.")
+
+def level5(npc): npc.psionicdie = 'd8'
+def level11(npc): npc.psionicdie = 'd10'
+def level17(npc): npc.psionicdie = 'd12'
+```
+
 
 ## Telekinetic Adept
 *7th-level Psi Warrior feature*
@@ -26,10 +50,22 @@ You have mastered new ways to use your telekinetic abilities, detailed below.
 * **Psi-Powered Leap.** As a bonus action, you can propel your body with your mind. You gain a flying speed equal to twice your walking speed until the end of the current turn. Once you take this bonus action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.
 * **Telekinetic Thrust.** When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. If the save fails, you can knock the target prone or move it up to 10 feet in any direction horizontally.
 
+```
+def level7(npc):
+    npc.bonusactions.append("***Psi-Powered Leap (Recharges on short or long rest or Psionic Energy die).*** You gain a flying speed equal to twice your walking speed until the end of the current turn.")
+    npc.defer(lambda npc: npc.traits.append(f"***Telekinetic Thrust.*** When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}). If the save fails, you can knock the target prone or move it up to 10 feet in any direction horizontally."))
+```
+
 ## Guarded Mind
 *10th-level Psi Warrior feature*
 
 The psionic energy flowing through you has bolstered your mind. You have resistance to psychic damage. Moreover, if you start your turn charmed or frightened, you can expend a Psionic Energy die and end every effect on yourself subjecting you to those conditions.
+
+```
+def level10(npc):
+    npc.damageresistances.append("psychic")
+    npc.traits.append("***Guarded Mind.*** If you start your turn charmed or frightened, you can expend a Psionic Energy die and end every effect on yourself subjecting you to those conditions.")
+```
 
 ## Bulwark of Force
 *15th-level Psi Warrior feature*
@@ -38,9 +74,20 @@ You can shield yourself and others with telekinetic force. As a bonus action, yo
 
 Once you take this bonus action, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to take it again.
 
+```
+def level15(npc):
+    npc.bonusactions.append("***Bulwark of Force (Recharges on long rest or Psionic Energy die).*** You can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you're incapacitated.")
+```
+
 ## Telekinetic Master
 *18th-level Psi Warrior feature*
 
-Your ability to move creatures and objects with your mind is matched by few. You can cast the [telekinesis]() spell, requiring no components, and your spellcasting ability for the spell is Intelligence. On each of your turns while you concentrate on the spell, including the turn when you cast it, you can make one attack with a weapon as a bonus action.
+Your ability to move creatures and objects with your mind is matched by few. You can cast the [telekinesis](../../Magic/Spells/telekinesis.md) spell, requiring no components, and your spellcasting ability for the spell is Intelligence. On each of your turns while you concentrate on the spell, including the turn when you cast it, you can make one attack with a weapon as a bonus action.
 
 Once you cast the spell with this feature, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to cast it again.
+
+```
+def level18(npc):
+    npc.actions.append(f"***Telekinetic Master (Recharges on long rest or Psionic Energy die).*** You can cast the {spelllinkify('telekinesis')} spell, requiring no components, and your spellcasting ability for the spell is Intelligence. On each of your turns while you concentrate on the spell, including the turn when you cast it, you can make one attack with a weapon as a bonus action.")
+    npc.bonusactions.append("***Telekinetic Master Attack.*** On each of your turns while concentrating on your *telekinesis*, you can make one attack with a weapon.")
+```

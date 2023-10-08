@@ -27,7 +27,10 @@ def level0(npc):
     npc.size = 'Medium'
     npc.speed['walking'] = 25
     npc.speed['flying'] = 30
-    npc.newspellcasting("Siren", 'CHA').cantripsknown.append('friends')
+
+    spellcasting = innatecaster(npc, 'CHA', name)
+    spellcasting.cantripsknown.append('friends')
+
     npc.languages.append('Common')
     npc.languages.append('Siren')
     npc.languages.append('Aquan')

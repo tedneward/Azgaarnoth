@@ -9,10 +9,11 @@ One of your parents was a Wild Elf.
 name = 'Wild'
 description = "***Elvish Heritage: Wild Elf.*** One of your parents was a Wild Elf."
 def level0(npc):
-  npc.proficiencies.append("Spear")
-  npc.proficiencies.append("Net")
-  npc.proficiencies.append("Longbow")
-  npc.proficiencies.append("Shortbow")
+    npc.proficiencies.append("Spear")
+    npc.proficiencies.append("Net")
+    npc.proficiencies.append("Longbow")
+    npc.proficiencies.append("Shortbow")
 
-  npc.newspellcasting('Wild Elf', 'WIS').cantripsknown.append("CHOOSE-Druid")
+    spellcasting = innatecaster(npc, 'WIS', "Wild Elf")
+    spellcasting.cantripsknown.append("CHOOSE-Druid")
 ```

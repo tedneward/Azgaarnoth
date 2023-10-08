@@ -41,7 +41,7 @@ The Mark of Making only manifests on humans. If your character has the Mark of M
 **Spellsmith**. You can spend one minute to weave a temporary enchantment into a nonmagical suit of armor or weapon. For the next hour the object becomes a magic item, gaining a +1 bonus to AC if it's armor or a +1 bonus to hit and damage if it's a weapon. Once you use this trait, you can't use it again until you finish a long rest.
 
 ```
-name = 'Making Dragonmark'
+name = 'Making Dragonmarked'
 description = "***Dragonmark: Mark of Making.*** A dragonmark is a distinctive symbol that appears on the skin. Dragonmarks are painted in vivid shades of blue and purple and seem to shimmer or even move slightly. When used, they grow warm to the touch. A dragonmark can’t be removed--even if a limb bearing a dragonmark is cut away, the mark eventually manifests on another part of the bearer’s body. The Mark of Making guides its bearer through any act of creation. The bearer of the mark can mend broken things with a touch, and always has a minor magic item they've been working on. An artificer or a wizard will get the most out of the mark, but anyone can find a use for an enchanted blade."
 
 def level0(npc):

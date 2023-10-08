@@ -3,9 +3,9 @@ The monks who follow the Way of the Dragon learn to channel their ki to emulate 
 
 Rumors swirl around these monks, usually around the idea that a dragon is at the head of a monastary studying the Way of the Dragon. Regardless of the truth of that, each Dragon monastery studies a particular dragon type, and that dragon's type will have an enormous sway over the monks of that monastary; not only on what disciplines they study, but on their actions within the wider world.
 
-This monastic tradition is different from the [Way of the Ascendant Dragon](AscendantDragon.md), in that this tradition is one which studies dragonkind as a whole, rather than a particular species (within the chromatic or metallic spectrum). The Ascendant Dragons believe their style provides greater versatility, and thus, superior skill.
+This monastic tradition is different from the [Way of the Ascendant Dragon](AscendantDragon/), in that that tradition is one which studies dragonkind as a whole, rather than a particular species (within the chromatic or metallic spectrum). Where the Ascendant Dragons believe their style provides greater versatility, the Dragons believe their commitment to a single draconic type gives them deeper insight and familiarity, and thus, superior skill.
 
-Dragon monks are often closely associated with the [Cult of the Wyrm](../../Organizations/CultOfTheWyrm.md), largely because many of the Dragon monasteries are, in fact, run by Wyrmcult dragons. However, this does not mean all Dragon monks are evil--far from it. Many would be horrified to find they were in fact perpetrating the actions of evil. Nevertheless, Dragon tradition monks can often be found allied with the Wyrmcult, and as such frequently find themselves at odds with the [Knights of the Draconic Order](../../Organizations/MilitantOrders/DraconicOrder), at least at first.
+Dragon monks are often closely associated with the [Cult of the Wyrm](../../Organizations/CultOfTheWyrm/), largely because many of the Dragon monasteries are, in fact, run by Wyrmcult dragons. However, this does not mean all Dragon monks are evil--far from it. Many would be horrified to find they were in fact perpetrating the actions of evil. Nevertheless, Dragon tradition monks can often be found allied with the Wyrmcult, and as such frequently find themselves at odds with the [Knights of the Draconic Order](../../Organizations/MilitantOrders/DraconicOrder), at least at first.
 
 ## Dragon Disciple
 When you choose this discipline at 3rd level, you learn draconic disciplines that teach you to channel your ki to harness draconic techniques. A discipline requires you to spend ki points each time you use it. 
@@ -32,26 +32,26 @@ Monk Levels|Maximum Ki Points for a Spell
 ## Draconic Disciplines
 The draconic disciplines are listed in alphabetical order. If a discipline requires a level, you must be that level in this class to learn the discipline.
 
-* **Dragon's Breath** *(6th Level Required)*. You can spend 3 ki points to cast [dragon's breath]().
-* **Dragon's Charm** *(6th Level Required)*. You can spend 3 ki points to cast [charm person]().
+* **Dragon's Breath** *(6th Level Required)*. You can spend 3 ki points to cast [dragon's breath](http://azgaarnoth.tedneward.com/magic/spells/dragons-breath/).
+* **Dragon's Charm** *(6th Level Required)*. You can spend 3 ki points to cast [charm person](http://azgaarnoth.tedneward.com/magic/spells/charm-person.).
 * **Dragon's Hide** *(6th Level Required)*. When you take acid, cold, fire, lightning, or poison damage, you can use your reaction and spend 1 ki point to become resistant to that damage type, including to the triggering damage, until the end of your next turn.
-* **Dragon's Hoard** *(11th Level Required)*. You can spend 4 ki points to cast [Leomund's secret chest]().
+* **Dragon's Hoard** *(11th Level Required)*. You can spend 4 ki points to cast [Leomund's secret chest](http://azgaarnoth.tedneward.com/magic/spells/leomunds-secret-chest).
 * **Dragon's Knowledge**. You can speak, read, and write Draconic. You have advantage on History and Nature ability checks to recall information about dragons, and if you don't recall the information, you know where the information can be found, unless the DM rules that it is unknown.
-* **Dragon's Lore** *(11th Level Required)*. You can spend 3 ki points to cast [legend lore]().
+* **Dragon's Lore** *(11th Level Required)*. You can spend 3 ki points to cast [legend lore](http://azgaarnoth.tedneward.com/magic/spells/legend-lore/).
 * **Dragon's Power** *(11th Level Required)*. You have learned to channel the raw physical power of dragons through your ki. For as long as you maintain concentration (as if concentrating on a spell), for up to one minute, each of your unarmed strikes deals an extra 1d4 bludgeoning damage.
 * **Dragon's Sight**. You can spend 2 ki points to gain darkvision out to 60 feet.
 * **Dragon's Strength** *(6th Level Required)*. You have learned to channel the unstoppable might of the dragons through your ki. You can spend 3 ki points on your bonus action to activate this ability. For as long as you maintain concentration (as if concentrating on a spell), for up to one minute, you gain advantage on Strength ability checks and saving throws, and you count as one size larger when determining your carrying capacity and the amount of weight you can manipulate.
 * **Dragon's Strike**. When you hit with a melee weapon attack, you can spend 2 ki points to deal extra damage. Choose a damage type: acid, cold, fire, lightning, or poison. Your attack deals an extra 1d10 damage of that type, plus 1d10 for every extra ki point above 2 that you spend.
-* **Dragon's Visage**. You can spend 2 ki points to cast [cause fear](../../Magic/Spells/cause-fear.md).
+* **Dragon's Visage**. You can spend 2 ki points to cast [cause fear](http://azgaarnoth.tedneward.com/magic/spells/cause-fear/).
 * **Dragon's Will**. You can spend 2 ki points to make your mind nearly impenetrable. For as long as you maintain concentration (as if concentrating on a spell), for up to one minute, you become immune to fear and charming effects, and you have advantage on Wisdom saving throws.
-* **Dragon's Wings** *(11th Level Required)*. You can spend 4 ki points to cast fly, targeting yourself.
-* **Path of the Black Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [contagion](../../Magic/Spells/contagion.md) as a fifth-level spell.
-* **Path of the Blue Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [lightning bolt](../../Magic/Spells/lightning-bolt.md) as a fifth-level spell.
-* **Path of the Brass Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [immolation](../../Magic/Spells/immolation.md).
-* **Path of the Bronze Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [lightning bolt](../../Magic/Spells/lightning-bolt.md) as a fifth-level spell.
-* **Path of the Copper Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [wall of stone](../../Magic/Spells/wall-of-stone.md).
+* **Dragon's Wings** *(11th Level Required)*. You can spend 4 ki points to cast [fly](http://azgaarnoth.tedneward.com/magic/spells/fly/), targeting yourself.
+* **Path of the Black Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [contagion](http://azgaarnoth.tedneward.com/magic/spells/contagion/) as a fifth-level spell.
+* **Path of the Blue Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [lightning bolt](http://azgaarnoth.tedneward.com/magic/spells/lightning-bolt/) as a fifth-level spell.
+* **Path of the Brass Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [immolation](http://azgaarnoth.tedneward.com/magic/spells/immolation/).
+* **Path of the Bronze Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [lightning bolt](http://azgaarnoth.tedneward.com/magic/spells/lightning-bolt/) as a fifth-level spell.
+* **Path of the Copper Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [wall of stone](http://azgaarnoth.tedneward.com/magic/spells/wall-of-stone/).
 * **Path of the Gold Wyrm** *(17th Level Required)*. You can spend 6 ki points to gain the foresight of the gold wyrm. For as long as you maintain concentration (as if concentrating on a spell), for up to one minute, your attack rolls have advantage and attack rolls against you have disadvantage.
-* **Path of the Green Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [geas](../../Magic/Spells/geas.md).
-* **Path of the Red Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [immolation](../../Magic/Spells/immolation.md).
-* **Path of the Silver Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [cone of cold](../../Magic/Spells/cone-of-cold.md).
-* **Path of the White Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [cone of cold](../../Magic/Spells/cone-of-cold.md).
+* **Path of the Green Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [geas](http://azgaarnoth.tedneward.com/magic/spells/geas/).
+* **Path of the Red Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [immolation](http://azgaarnoth.tedneward.com/magic/spells/immolation/).
+* **Path of the Silver Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [cone of cold](http://azgaarnoth.tedneward.com/magic/spells/cone-of-cold/).
+* **Path of the White Wyrm** *(17th Level Required)*. You can spend 6 ki points to cast [cone of cold](http://azgaarnoth.tedneward.com/magic/spells/cone-of-cold/).

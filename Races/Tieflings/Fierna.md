@@ -11,14 +11,13 @@ description = "***Tiefling Bloodline of Fierna.*** A master manipulator, Fierna 
 def level0(npc):
     npc.WIS += 1
 
-    npc.newspellcasting("Tiefling", 'CHA').cantripsknown.append('friends')
+    spellcasting = innatecaster(npc, 'CHA', "Fierna Tiefling")
+    spellcasting.cantripsknown.append('friends')
 
 def level3(npc):
-    npc.spellcasting("Tiefling").spells[1].append('charm person')
-    npc.spellcasting("Tiefling").slots = [1]
+    npc.spellcasting['Fierna Tiefling'].perday[1] = ['charm person']
 
 def level5(npc):
-    npc.spellcasting("Tiefling").spells[2].append('suggestion')
-    npc.spellcasting("Tiefling").slots = [1,1]
+    npc.spellcasting['Fierna Tiefling'].perday[1].append('suggestion')
 ```
 

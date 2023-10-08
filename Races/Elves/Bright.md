@@ -10,7 +10,7 @@ description = "***Bright Elf.*** As a bright elf, your body and soul are infused
 
 * **Ability Score Increase.** One ability score of your choice other than Dexterity increases by 1.
 
-* **Ancient Magic.** Choose one of the following cantrips: [light](), [dancing lights](), or [thaumaturgy](). You know that cantrip, and Charisma is your spellcasting ability for it.
+* **Ancient Magic.** Choose one of the following cantrips: [light](http://azgaarnoth.tedneward.com/magic/spells/light/), [dancing lights](http://azgaarnoth.tedneward.com/magic/spells/dancing-lights/), or [thaumaturgy](http://azgaarnoth.tedneward.com/magic/spells/thaumaturgy/). You know that cantrip, and Charisma is your spellcasting ability for it.
 
 * **Brightfolk.** You have resistance to radiant damage, and you have advantage on saving throws to resist being blinded by effects that deal radiant damage or create light.
 
@@ -29,7 +29,8 @@ def level0(npc):
         case 'WIS': npc.WIS += 1
         case 'CHA': npc.CHA += 1
 
-    npc.newspellcasting('Bright Elf', 'CHA').cantripsknown.append(choose("Choose a cantrip:", ['light', 'dancing lights', 'thaumaturgy']))
+    spellcasting = innatecaster(npc, 'CHA', "Bright Elf")
+    spellcasting.cantripsknown.append(choose("Choose a cantrip:", ['light', 'dancing lights', 'thaumaturgy']))
 
     npc.traits.append("***Brightfolk.*** You have advantage on saving throws to resist being blinded by effects that deal radiant damage or create light.")
     npc.damageresistances.append('radiant')

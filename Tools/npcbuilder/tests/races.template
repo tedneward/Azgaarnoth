@@ -82,6 +82,7 @@ Gender,random,Ability Scores,Average,Race,Halfling,Stout,
 # Hobgoblins
 Gender,random,Ability Scores,Average,Race,Hobgoblin,
 # Humans
+Gender,random,Ability Scores,Average,Race,Human,DEX,DEX,Survival,Tough,None,
 # Kenku
 Gender,random,Ability Scores,Average,Race,Kenku,Acrobatics,Stealth,
 # Kobolds

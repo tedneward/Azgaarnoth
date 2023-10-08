@@ -1,11 +1,13 @@
-## Feat: Aberrant [Dragonmark](/Races/Dragonmarked.md)
+## Feat: Aberrant [Dragonmark](..//Races/Dragonmarked.md)
 *Prerequisite: No existing dragonmark.*
 
 ```
 name = 'Aberrant Dragonmark'
 description = "***Feat: Aberrant Dragonmark.*** Aberrant dragonmarks are marks that are unpredictable and dangerous to both the bearer and the people around them. Someone with such a mark can kill with a touch or control minds with a glance. Aberrant marks always have flaws. These may not actively hurt a character, but they are always a burden in some way--a burden that could drive a weak-willed person to madness."
 
-prereq = None
+def prereq(npc):
+    if npc.race.name.find("Dragonmarked") > -1: return False
+    else: return True
 ```
 
 The twelve original dragonmarks, passed down from the Eldar through countless generations, have prven to be reliable and predictable, and their powers are constructive. They create; they heal; they protect.
@@ -37,7 +39,7 @@ You gain the following benefits.
 ```
 def apply(npc):
     npc.CON += 20
-    spellcasting = npc.newspellcasting['AberrantDragonmark', 'CON']
+    spellcasting = npc.newspellcasting('AberrantDragonmark', 'CON')
     spellcasting.cantripsknown.append("CHOOSE-Sorcerer")
     spellcasting.spellsknown.append("CHOOSE-Sorcerer1")
     spellcasting.slots = [ 1 ]

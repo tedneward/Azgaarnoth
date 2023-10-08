@@ -12,11 +12,12 @@ def level0(npc):
 
     npc.STR += 1
 
-    npc.cantripsknown.append('thaumaturgy')
+    spellcasting = innatecaster(npc, 'CHA', name + " Tiefling")
+    spellcasting.cantripsknown.append('thaumaturgy')
 
 def level3(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Infernal Legacy (Recharges on long rest).*** You can cast " + spelllinkify('searing smite') + "as a 2nd-level spell. (Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()})"))
+    npc.spellcasting[name + ' Tiefling'].perday[1] = [ 'searing smite' ]
 
 def level5(npc):
-    npc.defer(lambda npc: replace("***Infernal Legacy", npc.actions, f" (Recharges on long rest).*** You can cast {spelllinkify('searing smite')} as a 2nd-level spell or {spelllinkify('branding smite')}. (Save DC = {8 + npc.proficiencybonus() + npc.CHAbonus()})"))
+    npc.spellcasting[name + ' Tiefling'].perday[1].append('branding smite')
 ```

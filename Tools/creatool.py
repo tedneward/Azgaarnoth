@@ -54,7 +54,7 @@ class SubtypedCreature:
                     creature.parseMD(creaturebuffer)
                     creature.collection = subtypedcreature
                     subtypedcreature.subtypes.append(creature)
-                    print("  Parsed " + creature.name)
+                    #print("  Parsed " + creature.name)
                     creaturebuffer = []
                 else:
                     creaturebuffer.append(line)
@@ -66,7 +66,7 @@ class SubtypedCreature:
                     creature.parseMD(creaturebuffer)
                     creature.collection = subtypedcreature
                     subtypedcreature.subtypes.append(creature)
-                    print("  Parsed " + creature.name)
+                    #print("  Parsed " + creature.name)
             
             return subtypedcreature
         elif mdlines[0][0:3] == '## ':
@@ -954,6 +954,8 @@ def camelcaseify(string):
     return string.lower().replace(' ', '')
 
 def main(argv):
+    global creatures
+
     parser = argparse.ArgumentParser(
                     prog='CreaTool',
                     description='A creature list(s) and contents tool',
@@ -992,11 +994,11 @@ def main(argv):
                     (_, ext) = os.path.splitext(f)
                     if ext == '.md':
                         with open(args.parsemd + '/' + f, 'r') as mdfile:
-                            print("Parsing " + args.parsemd + '/' + f)
+                            #print("Parsing " + args.parsemd + '/' + f)
                             lines = mdfile.readlines()
                             if (lines[0].find(':') > 0) or (lines[0].find('SKIP') > 0) :
                                 # Probably not a creature file; skip it
-                                print("Skipping")
+                                #print("Skipping")
                                 continue
                             parsedcreature = SubtypedCreature.parseMD(lines)
                             if isinstance(parsedcreature, SubtypedCreature):
@@ -1021,6 +1023,19 @@ def main(argv):
         print("No source set specified!")
 
     # Filter?
+    if args.filtercr != None:
+        cr = args.filtercr
+        print(f"Looking for CR {cr} creatures")
+        crcreatures = []
+        for creature in creatures:
+            if isinstance(creature, SubtypedCreature):
+                for subcreature in creature.subtypes:
+                    if subcreature.cr == cr:
+                        crcreatures.append(subcreature)
+            else:
+                if creature.cr == cr:
+                    crcreatures.append(creature)
+        creatures = crcreatures
 
     # Ingest?
     if args.ingest != None:

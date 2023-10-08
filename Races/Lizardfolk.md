@@ -32,8 +32,6 @@ type = 'humanoid'
 
 ```
 def level0(npc):
-    npc.description.append("***Race: Lizardfolk.*** ")
-
     npc.CON += 2
     npc.WIS += 1
 
@@ -52,7 +50,7 @@ def level0(npc):
 
     npc.armorclass['natural armor'] = 13
 
-    npc.defer(lambda npc: npc.bonusactions.append("***Hungry Jaws (Recharges on short or long rest).*** You can make a special attack with your bite. If the attack hits, it deals its normal damage, and you gain {npc.CONbonus()} temporary hit points."))
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Hungry Jaws (Recharges on short or long rest).*** You can make a special attack with your bite. If the attack hits, it deals its normal damage, and you gain {npc.CONbonus()} temporary hit points."))
 
     npc.languages.append('Common')
     npc.languages.append('Draconic')

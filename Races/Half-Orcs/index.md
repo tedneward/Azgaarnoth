@@ -65,3 +65,11 @@ def level0(npc0):
     npc.languages.append('Common')
     npc.languages.append('Orcish')
 ```
+
+## Half-Orc Names
+
+
+**Male Orc Names:** Dench, Feng, Gell, Henk, Holg, Imsh, Keth, Krusk, Mhurren, Ront, Shump, Thokk
+
+**Female Orc Names:** Baggi, Emen, Engong, Kansif, Myev, Neega, Ovak, Ownka, Shautha, Sutha, Vola, Volen, Yevelda
+

@@ -13,5 +13,6 @@ def level0(npc):
     npc.skills.append("Deception")
     npc.skills.append("Persuasion")
 
-    npc.cantripsknown.append("CHOOSE-Druid")
+    spellcasting = innatecaster(npc, 'WIS', "Emeria Merfolk")
+    spellcasting.cantripsknown.append("CHOOSE-Druid")
 ```
