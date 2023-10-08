@@ -66,3 +66,10 @@ def level0(npc):
     npc.languages.append('Common')
     npc.languages.append('Goblin')
 ```
+
+## Bugbear Names
+
+Rith, Nurrink, Zittuth, Chrivrar, Thank, Nadron, Zhun, Rurgunn, Breggor, Naddak, Tidrank, Thaghon, Nezzilk, 
+Vurk, Khor, Tugalk, Bidir, Ditrimkk, Viggamkk, Ghagurk, Hrork, Gonk, Brighar, Zhaggolk, Vidrok, Gughann, 
+Zhaddunn, Gozzath, Thetan, Tegron
+
