@@ -67,3 +67,5 @@ def level0(npc):
     npc.languages.append("Common")
     npc.languages.append("Orcish")
 ```
+
+## Orc Names

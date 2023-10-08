@@ -1,7 +1,7 @@
 # Hobgoblins
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
 
-> Jump to: [Hobgoblin](Hobgoblins.md#hobgoblin) | [Hobgoblin Warrior](Hobgoblins.md#hobgoblin-warrior) | [Hobgoblin Veteran](Hobgoblins.md#hobgoblin-veteran) | [Hobgoblin Sergeant](Hobgoblins.md#hobgoblin-sergeant) | [Hobgoblin Captain](Hobgoblins.md#hobgoblin-captain) | [Hobgoblin Warlord](Hobgoblins.md#hobgoblin-warlord) | [Bladebearer](Hobgoblins.md#bladebearer) | [Devastator](Hobgoblins.md#devastator) | [Hobgoblin Iron Shadow](Hobgoblins.md#hobgoblin-iron-shadow) | [Kulkor Zhul War Adept](Hobgoblins.md#kulkor-zhul-war-adept) | [Kulkor Zhul Mindbender](Hobgoblins.md#kulkor-zhul-mindbender) | [Doom Hand Cleric](Hobgoblins.md#doom-hand-cleric) | [Doom Fist Monk](Hobgoblins.md#doom-fist-monk) | [General]()
+> Jump to: [Hobgoblin](Hobgoblins.md#hobgoblin) | [Hobgoblin Warrior](Hobgoblins.md#hobgoblin-warrior) | [Hobgoblin Veteran](Hobgoblins.md#hobgoblin-veteran) | [Hobgoblin Sergeant](Hobgoblins.md#hobgoblin-sergeant) | [Hobgoblin Captain](Hobgoblins.md#hobgoblin-captain) | [Hobgoblin Warlord](Hobgoblins.md#hobgoblin-warlord) | [Bladebearer](Hobgoblins.md#bladebearer) | [Devastator](Hobgoblins.md#devastator) | [Iron Shadow](Hobgoblins.md#hobgoblin-iron-shadow) | [Kulkor Zhul War Adept](Hobgoblins.md#kulkor-zhul-war-adept) | [Kulkor Zhul Mindbender](Hobgoblins.md#kulkor-zhul-mindbender) | [Doom Hand Cleric](Hobgoblins.md#doom-hand-cleric) | [Doom Fist Monk](Hobgoblins.md#doom-fist-monk) | [Hobgoblin General](#hobgoblin-general)
 
 Hobgoblins have dark orange or red-orange skin, and hair ranging from dark red-brown to dark gray. Yellow or dark brown eyes peer out beneath their beetling brows, and their wide mouths sport sharp and yellowed teeth. A male hobgoblin might have a large blue or red nose, which symbolizes virility and power among goblinkin. Hobgoblins can live as long as humans, though their love of warfare and battle means that few do.
 
@@ -38,24 +38,24 @@ More recently, hobgoblins have come to revere [Lythtzu](../Religions/Pantheon/Ly
 ---
 
 ## Hobgoblin
-(No description given)
+Hobgoblins are generally disciplined in their daily lives, each contributing in their way to the common good of the tribe, town, city, or Horde.
 
 ### Environment
-(FIXME)
+Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
-![](Hobgoblin-Token.png)
+![](Hobgoblins-Token.png)
 
 >### Hobgoblin
 >*Medium humanoid (goblinoid), lawful evil*
 >___
->- **Armor Class** 18 (chain mail, shield)
+>- **Armor Class** 16 (chain mail (14), shield (+2))
 >- **Hit Points** 11 (2d8 + 2)
 >- **Speed** 30 ft.
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|13 (+1)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|9 (-1)|
+>|13 (+1)|11 (+0)|12 (+1)|10 (+0)|10 (+0)|9 (-1)|
 >
 >___
 >- **Proficiency Bonus** +2
@@ -83,15 +83,15 @@ More recently, hobgoblins have come to revere [Lythtzu](../Religions/Pantheon/Ly
 Hobgoblins which survive combat after a while get tougher and more skilled.
 
 ### Environment
-(FIXME)
+Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
-![](HobgoblinWarrior-Token.png)
+![](Hobgoblins-HobgoblinWarrior-Token.png)
 
 >### Hobgoblin Warrior
 >*Medium humanoid (goblinoid), lawful evil*
 >___
->- **Armor Class** 18 (chain mail, shield)
+>- **Armor Class** 17 (chain mail (14), shield (+2), DEX (+1))
 >- **Hit Points** 18 (3d8 + 3)
 >- **Speed** 30 ft.
 >___
@@ -100,7 +100,7 @@ Hobgoblins which survive combat after a while get tougher and more skilled.
 >|14 (+2)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|9 (-1)|
 >
 >___
->- **Proficiency Bonus** +1
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -125,15 +125,15 @@ Hobgoblins which survive combat after a while get tougher and more skilled.
 After a few years of combat, hobgoblin veterans are tough as nails and ridiculously hard to kill.
 
 ### Environment
-(FIXME)
+Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
-![](HobgoblinVeteran-Token.png)
+![](Hobgoblins-HobgoblinVeteran-Token.png)
 
 >### Hobgoblin Veteran
 >*Medium humanoid (goblinoid), lawful evil*
 >___
->- **Armor Class** 18 (chain mail, shield)
+>- **Armor Class** 17 (chain mail (14), shield (+2), DEX (+1))
 >- **Hit Points** 25 (4d8 + 4)
 >- **Speed** 30 ft.
 >___
@@ -165,16 +165,16 @@ After a few years of combat, hobgoblin veterans are tough as nails and ridiculou
 
 ---
 
-## Hobgoblin Sergeant
-(No description given)
+## Hobgoblin Sargeant
+The hobgoblin sargeant is a veteran responsible for the training and safety of the soldiers in its command, a responsibility which it does not take lightly.
 
 ### Environment
-(FIXME)
+Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
-![](HobgoblinSergeant-Token.png)
+![](Hobgoblins-HobgoblinSargeant-Token.png)
 
->### Hobgoblin Sergeant
+>### Hobgoblin Sargeant
 >*Medium humanoid (goblinoid), lawful evil*
 >___
 >- **Armor Class** 18 (chain mail (14), shield (+2), DEX (+2))
@@ -183,24 +183,26 @@ After a few years of combat, hobgoblin veterans are tough as nails and ridiculou
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|15 (+2)|14 (+2)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|
+>|15 (+2)|14 (+2)|14 (+2)|12 (+1)|12 (+1)|13 (+1)|
 >
 >___
->- **Proficiency Bonus** +2
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
 >- **Damage Immunities** 
 >- **Condition Immunities** 
 >- **Skills** 
->- **Senses** darkvision 60 ft.,passive Perception 10
+>- **Senses** darkvision 60 ft.,passive Perception 11
 >- **Languages** Common,Goblin
 >- **Challenge** 3
 >___
 >***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 >
+>***Military Training.*** The sargeant has advantage on an attack roll against a creature if at least one of the soldier's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>
 >#### Actions
->***Multiattack.*** The hobgoblin makes two greatsword attacks or two javelin attacks.
+>***Multiattack.*** The hobgoblin makes three greatsword attacks or three javelin attacks. The sargeant can use its Battle Command action in place of one of its attacks.
 >
 >***Greatsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) piercing damage.
 >
@@ -208,14 +210,16 @@ After a few years of combat, hobgoblin veterans are tough as nails and ridiculou
 >
 >***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is incapacitated.
 >
+>***Battle Command.*** Choose one creature within 30 feet of the sargeant that the sargeant can see. If the chosen creature can see or hear the sargeant, that creature can use its reaction to make one melee attack or to take the Dodge or Hide action.
+>
 
 ---
 
 ## Hobgoblin Captain
-(No description given)
+The hobgoblin captain is generally the leader of an organized force of goblinoids, 
 
 ### Environment
-(FIXME)
+Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
 ![](HobgoblinCaptain-Token.png)
@@ -223,7 +227,7 @@ After a few years of combat, hobgoblin veterans are tough as nails and ridiculou
 >### Hobgoblin Captain
 >*Medium humanoid (goblinoid), lawful evil*
 >___
->- **Armor Class** 17 (half plate)
+>- **Armor Class** 17 (half plate (15), DEX (+2))
 >- **Hit Points** 60 (9d8 + 18)
 >- **Speed** 30 ft.
 >___
@@ -254,6 +258,8 @@ After a few years of combat, hobgoblin veterans are tough as nails and ridiculou
 >
 >***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is incapacitated.
 >
+>***Battle Command.*** Choose one creature within 30 feet of the sargeant that the sargeant can see. If the chosen creature can see or hear the sargeant, that creature can use its reaction to make one melee attack or to take the Dodge or Hide action.
+>
 
 ---
 
@@ -261,7 +267,7 @@ After a few years of combat, hobgoblin veterans are tough as nails and ridiculou
 Hobgoblin warlords are masters of battle. Some often have additional levels in a playable class, in addition to the statistics below.
 
 ### Environment
-(FIXME)
+Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
 ![](HobgoblinWarlord-Token.png)
@@ -302,20 +308,21 @@ Hobgoblin warlords are masters of battle. Some often have additional levels in a
 >
 >***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is incapacitated.
 >
+>#### Reactions
 >***Parry.*** The hobgoblin adds 3 to its AC against one melee attack that would hit it. To do so, the hobgoblin must see the attacker and be wielding a melee weapon.
 >
 
 ---
 
 ## Bladebearer
-Hobgoblin Bladebearers are the solitary, legendary warriors of the hobgoblin species, spending hours in intense training and meditation around nothing but combat and the mastery of the form. When pressed, they can use crossbows for ranged combat, but would much prefer to engage with their blades--and most of all against what appears to be the most skilled of the opponents facing them.
+Among all the Hordes, hobgoblin Bladebearers are the solitary, legendary warriors of the hobgoblin species, spending hours in intense training and meditation around nothing but combat and the mastery of the form. When pressed, they can use crossbows for ranged combat, but would much prefer to engage with their blades--and most of all against what appears to be the most skilled of the opponents facing them.
 
-Bladebearers are often powerful warriors in their own right, and many have adventured solo or undertaken other activities to increase their personal martial skill; any such additional levels of Fighter would add on to this template. Many choose to specialize; the most popular specialization classes being [Weapon Master](../Classes/Fighter/WeaponMaster.md) and [Duelist](../Classes/Fighter/Duelist.md), but many also explore the mysteries of the [Psi Knight](../Classes/Fighter/PsiKnight.md), and a rare few have taken up the cause of the [Samurai](../Classes/Fighter/Samurai.md), particularly in the East.
+Bladebearers are powerful warriors, and many have adventured solo or undertaken other activities to increase their personal martial skill; any such additional levels of Fighter would add on to this template. Many choose to specialize; the most popular specialization classes being [Weapon Master](../Classes/Fighter/WeaponMaster.md) and [Duelist](../Classes/Fighter/Duelist.md), but many also explore the mysteries of the [Psi Knight](../Classes/Fighter/PsiKnight.md), and a rare few have taken up the cause of the [Samurai](../Classes/Fighter/Samurai.md), particularly in Yithi and Zhi.
 
 Among the [Tragedian United Hordes](../Nations/Tragekia.md), Bladebearers are known to participate and be members of the various [Dueling Colleges](../Organizations/DuelingColleges.md) there. Some will occasionally wander into [Liria](../Nations/Liria.md) in similar pursuit, though often meet with high amounts of distrust and unease, particularly if (when) they win.
 
 ### Environment
-(FIXME)
+Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
 ![](Bladebearer-Token.png)
@@ -323,7 +330,7 @@ Among the [Tragedian United Hordes](../Nations/Tragekia.md), Bladebearers are kn
 >### Bladebearer
 >*Medium humanoid, lawful evil*
 >___
->- **Armor Class** 17 (half plate)
+>- **Armor Class** 16 (half plate (15), DEX (+1))
 >- **Hit Points** 58 (9d8 + 18)
 >- **Speed** 30 ft.
 >___
@@ -358,28 +365,22 @@ Among the [Tragedian United Hordes](../Nations/Tragekia.md), Bladebearers are kn
 ---
 
 ## Devastator
-In Hobgoblin society, the Academy of Devastation identifies Hobgoblins with a Talent for magic and puts them through a grueling Training regimen that endows them with the ability to call down fireballs and other destructive magic on the host's behalf. A Hobgoblin devastator on the battlefield is simultaneously a boon to all its allies and a threat to every foe around it.
+Within the Ulmhorde, the Academy of Devastation identifies hobgoblins with a talent for magic and puts them through a grueling training regimen that endows them with the ability to call down fireballs and other destructive magic on the host's behalf. A hobgoblin devastator on the battlefield is simultaneously a boon to all its allies and a threat to every foe around it. Devastators have the respect of other members of the host, and they receive obedience and deference from many quarters. Their ability to lay waste to entire formations with a single use of magic allows them to gain far more glory in battle than a single warrior. Other cultures might view the use of such abilities as a short cut to glory, but to hobgoblins a gift for magic is as valued and useful as a strong sword arm or brilliance in tactics. They are all boons from Maglubiyet that must be cultivated and unleashed upon the enemy.
 
-***Into the Fray.*** While other cultures treat their wizards as cloistered academics, Hobgoblins expect their spellcasters to fight. Devastators learn The Basics of weapon use, and they measure their deeds by the enemies defeated though their magic.
+***Into the Fray.*** While other cultures treat their wizards as cloistered academics, hobgoblins expect their spellcasters to fight. Devastators learn the basics of weapon use, and they measure their deeds by the enemies defeated though their magic.
 
-Devastators have the respect of other Members of the host, and they receive obedience and deference from many quarters. Their ability to lay waste to entire formations with a single use of magic allows them to gain far more glory in battle than a single Warrior.
+***Only Results Matter.*** Devastators study a simplified form of evocation magic. Their training lacks the theory and context that other folk study, making them Skilled in battle but relatively illiterate on the finer points of how and why their magic works. The Academy of Devastation believes that an academic approach to magic is a sign of weakness and inefficiency. A warrior doesn't need to know about metallurgy to wield a blade, so why should a wizard care about where magic comes from? Devastators love to prove their superiority in battle by seeking out enemy spellcasters and destroying them. 
 
-Other cultures might view the use of such Abilities as a short cut to glory, but to Hobgoblins a gift for magic is as valued and useful as a strong sword arm or brilliance in Tactics. They are all boons from Maglubiyet that must be cultivated and unleashed upon the enemy.
-
-***Only Results Matter.*** Devastators study a simplified form of Evocation magic. Their Training lacks the theory and context that other folk study, making them Skilled in battle but relatively illiterate on the finer points of how and why their magic works.
-
-The Academy of Devastation believes that an academic approach to magic is a sign of weakness and inefficiency. A Warrior doesn't Need to Know about metallurgy to wield a blade, so why should a Wizard care about where magic comes from? Devastators love to prove their superiority in battle by seeking out enemy spellcasters and destroying them.
-
-If they survive long enough, Devastators usually end up looking to join one of the Evocation-friendly [Mage Schools](../Organizations/MageSchools/index.md) to further their education, and return to their Legion even more frightening and powerful.
+If they survive long enough, Devastators usually end up looking to join one of the Evocation-friendly [Mage Schools](../Organizations/MageSchools/index.md) to further their education, and return to their legion, tribe, Horde, or city even more frightening and powerful.
 
 ### Environment
-(FIXME)
+Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
-![](Devastator-Token.png)
+![](Hobgoblins-Devastator-Token.png)
 
 >### Devastator
->*Medium Fey (Goblinoid), Typically Lawful Neutral*
+>*Medium Fey (Goblinoid), typically Lawful Neutral*
 >___
 >- **Armor Class** 13 (studded leather)
 >- **Hit Points** 45 (7d8 + 14)
@@ -410,42 +411,40 @@ If they survive long enough, Devastators usually end up looking to join one of t
 >
 >***Devastating Bolt.*** Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 21 (4d8 + 3) force damage, and the target is knocked prone.
 >
->***Spellcasting.*** The hobgoblin is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:
+>***Spellcasting.*** The hobgoblin is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It usually has the following wizard spells prepared:
 >
->* Cantrips (at will): acid splash, fire bolt, ray of frost, shocking grasp
->* 1st level (4 slots): fog cloud, magic missile, thunderwave
->* 2nd level (3 slots): gust of wind, Melf's acid arrow, scorching ray
->* 3rd level (3 slots): fireball, fly, lightning bolt
->* 4th level (1 slot): ice storm
+>* *Cantrips (at will):* [acid splash](http://azgaarnoth.tedneward.com/magic/spells/acid-splash), [fire bolt](http://azgaarnoth.tedneward.com/magic/spells/fire-bolt), [ray of frost](http://azgaarnoth.tedneward.com/magic/spells/ray-of-frost), [shocking grasp](http://azgaarnoth.tedneward.com/magic/spells/shocking-grasp)
+>* *1st level (4 slots):* [fog cloud](http://azgaarnoth.tedneward.com/magic/spells/fog-cloud), [magic missile](http://azgaarnoth.tedneward.com/magic/spells/magic-missile), [thunderwave](http://azgaarnoth.tedneward.com/magic/spells/thunderwave)
+>* *2nd level (3 slots):* [gust of wind](http://azgaarnoth.tedneward.com/magic/spells/gust-of-wind), [Melf's acid arrow](http://azgaarnoth.tedneward.com/magic/spells/melfs-acid-arrow), [scorching ray](http://azgaarnoth.tedneward.com/magic/spells/scorching-ray)
+>* *3rd level (3 slots):* [fireball](http://azgaarnoth.tedneward.com/magic/spells/fireball), [fly](http://azgaarnoth.tedneward.com/magic/spells/fly), [lightning bolt](http://azgaarnoth.tedneward.com/magic/spells/lightning-bolt)
+>* *4th level (1 slot):* [ice storm](http://azgaarnoth.tedneward.com/magic/spells/ice-storm)
 >
 
 ---
 
-## Hobgoblin Iron Shadow
+## Iron Shadow
 Iron shadows are hobgoblin martial artists who serve fey and mortal courts as secret police, scouts, and assassins. They spy to ferret out treachery, rebellion, and betrayal and deal with it ruthlessly. Iron shadows possess agility and stamina matched only by their ironclad commitment to the will of their masters. They wield a deadly combination of unarmed fighting techniques and shadow magic to deceive and defeat their foes. While on secret missions, they wear masks crafted to resemble monsters, both to conceal their identities and to strike fear into their foes.
 
-***Trained in Secret.*** Iron Shadows are recruited from across the Hobgoblin ranks. Each member keeps her eyes open for potential recruits, those whose agility and stamina are matched only by an ironclad commitment to Maglubiyet's will.
+***Trained in Secret.*** Iron Shadows are routinely recruited from across hobgoblin tribes, cities, and Hordes. Each member keeps her eyes open for potential recruits, those whose agility and stamina are matched only by an ironclad commitment to Maglubiyet's will. A candidate for admission undergoes a series of tests designed to reveal any potential for treachery. Those who fail are slain, while those who pass receive secret training in the magical and martial arts. This indoctrination is a slow and arduous process; many aspirants don't finish it, and years might go by during which the Iron Shadows welcome no new members into their ranks. While a recruit is in training, it serves the Iron Shadows by looking for and reporting suspicious behavior.
 
-A candidate for admission undergoes a series of tests designed to reveal any potential for treachery. Those who fail are slain, while those who pass receive Secret Training in the magical and Martial Arts. This indoctrination is a slow and arduous process; many aspirants don't finish it, and years might go by during which the Iron Shadows welcome no new Members into their ranks. While a recruit is in Training, it serves the Iron Shadows by looking for and reporting suspicious behavior.
+Most Iron Shadow training appears to take place within Ulm, though many monasteries in Tragekia are also rumored to exist.
 
 ***Masters of Shadow and Fist.*** When a recruit's training is complete, she is ready to wield a deadly combination of unarmed fighting techniques and shadow magic to deceive and defeat her foes. She continues to spy on other Hobgoblins, but is now also empowered to conduct assassinations and spy missions, both against enemies and among Goblinoids. These missions are ordained by the Children of Maglubiyet, who keep a careful eye on the goblinoid community to ensure that it functions according to Maglubiyet's will.
 
-***Masked Devils.*** Iron Shadows on a secret mission wear masks crafted to resemble devils, both to conceal their identities and to strike fear into their foes.
+***Masked Devils.*** Iron Shadows on a secret mission wear masks crafted to resemble devils, both to conceal their identities and to strike fear into their foes. Their masks also signify the supposed origin of their fighting techniques. The Children of Maglubiyet teach that the Great One stole the secrets of shadows from an archdevil, allowing his followers to conceal their identities, walk between shadows, and craft illusions to confuse and confound their enemies.
 
-Their masks also signify the supposed origin of their fighting techniques. The Children of Maglubiyet teach that the Great One stole the secrets of shadows from an archdevil, allowing his followers to conceal their identities, walk between shadows, and craft illusions to confuse and confound their enemies.
-
-It is rumored that the Order of Iron Shadows is organized precisely along the same lines as any [Monastic Order](../Organizations/MonasticOrders/MonasticOrders.md), and could--if a candidate were dedicated enough--accept candidates of other races. This is, however, entirely unproven.
+It is rumored that the Order of Iron Shadows is organized precisely along the same lines as any [Monastic Order](../Organizations/MonasticOrders/MonasticOrders.md), and could--if a candidate were dedicated enough--accept candidates of other races.
 
 ### Environment
-(FIXME)
+Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
-![](HobgoblinIronShadow-Token.png)
+![](Hobgoblins-IronShadow-Token.png)
 
->### Hobgoblin Iron Shadow
->*Medium Fey (Goblinoid), Typically Lawful Neutral*
+>### Iron Shadow
+>*Medium Fey (Goblinoid), typically Lawful Neutral*
 >___
->- **Armor Class** 15 (Unarmored Defense)
+>- **Armor Class** 17 (Unarmored Defense (14), DES (+3))
 >- **Hit Points** 32 (5d8 + 10)
 >- **Speed** 40 ft.
 >___
@@ -478,8 +477,8 @@ It is rumored that the Order of Iron Shadows is organized precisely along the sa
 >
 >***Spellcasting.*** The hobgoblin casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 12):
 >
->* At will: minor illusion, prestidigitation
->* 1/day each: charm person, disguise self, silent image
+>* *At will:* [minor illusion](http://azgaarnoth.tedneward.com/magic/spells/minor-illusion), [prestidigitation](http://azgaarnoth.tedneward.com/magic/spells/prestidigitation)
+>* *1/day each:* [charm person](http://azgaarnoth.tedneward.com/magic/spells/charm-person), [disguise self](http://azgaarnoth.tedneward.com/magic/spells/disguise-self), [silent image](http://azgaarnoth.tedneward.com/magic/spells/silent-image)
 >
 
 ---
@@ -488,10 +487,10 @@ It is rumored that the Order of Iron Shadows is organized precisely along the sa
 The Kulkor Zhul War Adepts are a sect of hobgoblin that have embraced their sorcerous draconic heritage and used that to arcane advantage. They are crafty, cunning casters, and often lead hobgoblin detachments as well as support them with their spells.
 
 ### Environment
-(FIXME)
+Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
-![](KulkorZhulWarAdept-Token.png)
+![](Hobgoblins-KulkorZhulWarAdept-Token.png)
 
 >### Kulkor Zhul War Adept
 >*Medium humanoid, lawful evil*
@@ -517,6 +516,7 @@ The Kulkor Zhul War Adepts are a sect of hobgoblin that have embraced their sorc
 >- **Challenge** 3
 >___
 >***Sorcery Points.*** 8 sorcery points, which can be used as follows:
+>
 >* *Creating Spell Slots* 1st requires 2 points, 2nd requires 3 points, 3rd requires 5 points, 4th requires 6 points.
 >* *Converting a Spell Slot to Sorcery Points* Expend one spell slot and gain a number of sorcery points equal to the slot's level.
 >* *Empowering Reserves* When you make an ability check on your turn, you can spend 2 sorcery points to gain advantage on the check.
@@ -524,32 +524,34 @@ The Kulkor Zhul War Adepts are a sect of hobgoblin that have embraced their sorc
 >* *Sorcerous Fortitude* As an action, you can spend any number of sorcery points to roll a d4 for each point expended. You gain a number of temporary hit points equal to the total rolled.
 >
 >***Metamagic.*** You can only use one metamagic option on a spell when you cast it, unless otherwise noted.
+>
 >* *Empowered Spell* When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.
 >* *Elemental Spell* When you cast a spell that deals a type of damage from the following list, you can spend 1 sorcery point to change that damage type to one of the other listed types: acid, cold, fire, lightning, thunder.
 >
 >#### Actions
->**Shortbow.** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+>***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 >
->**Scimitar.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
+>***Scimitar.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 >
 >***Spellcaster.*** Sorcerer caster level 8th, spell attack bonus +7, Spell Save DC 15. 5 cantrips known, 9 spells known
->* Cantrips: acid splash, blade ward, fire bolt, message, true strike
->* 1st (4 slots): chaos bolt, fog cloud, shield
->* 2nd (3 slots): cloud of daggers, invisibility
->* 3rd (3 slots): fireball, haste
->* 4th (2 slots): ice storm, summon aberrant spirit
+>
+>* *Cantrips:* acid splash, blade ward, fire bolt, message, true strike
+>* *1st (4 slots):* chaos bolt, fog cloud, shield
+>* *2nd (3 slots):* cloud of daggers, invisibility
+>* *3rd (3 slots):* fireball, haste
+>* *4th (2 slots):* ice storm, summon aberrant spirit
 >
 
 ---
 
 ## Kulkor Zhul Mindbender
-The Mindbenders are Hobgoblin bards that serve as political officers across the Hobgoblin ranks. Among other Hobgoblins, they look to persuade the members of the Legions to act steadfast and true to the cause, as well as "re-educating" those Hobgoblins that seem to question or doubt. The Mindbenders are an offshoot of the [College of Whispers](../Classes/Bard/Whispers.md), and likely the result of a direct copy of that bardic college by Hobgoblin spies millennia ago.
+The Mindbenders are hobgoblin bards that serve as political officers across hobgoblin ranks. Among other hobgoblins, they look to persuade the members of the Legions to act steadfast and true to the cause, as well as "re-educating" those hobgoblins that seem to question or doubt. The Mindbenders are an offshoot of the [College of Whispers](../Classes/Bard/Whispers.md), and likely the result of a direct copy of that bardic college by Tragekian hobgoblin spies millennia ago. Today, many Mindbenders pass their knowledge directly to apprentices, but many others are trained by Tragekian colleges, then employed by Tragekian nobility or even mercenary companies.
 
 ### Environment
-(FIXME)
+Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
-![](KulkorZhulMindbender-Token.png)
+![](Hobgoblins-KulkorZhulMindbender-Token.png)
 
 >### Kulkor Zhul Mindbender
 >*Medium humanoid, lawful evil*
@@ -588,17 +590,18 @@ The Mindbenders are Hobgoblin bards that serve as political officers across the 
 >
 >***Spellcasting Focus.*** Mindbenders can use their weapons as an arcane focus for their spells.
 >
->***Spellcaster.*** Bard caster level 7th, spell attack bonus +6, Spell Save DC 14.
->* Cantrips: blade ward, message, minor illusion
->* 1st (4 slots): charm person, detect magic, disguise self
->* 2nd (3 slots): cloud of daggers, detect thoughts, suggestion
->* 3rd (3 slots): hypnotic pattern, major image
->* 4th (1 slot): greater invisibility, phantasmal killer
->
 >#### Actions
 >***Shortbow.*** 
 >
 >***Shortsword.*** 
+>
+>***Spellcaster.*** Bard caster level 7th, spell attack bonus +6, Spell Save DC 14.
+>
+>* *Cantrips:* [blade ward](http://azgaarnoth.tedneward.com/magic/spells/blade-ward), [message](http://azgaarnoth.tedneward.com/magic/spells/message), [minor illusion](http://azgaarnoth.tedneward.com/magic/spells/minor-illusion)
+>* *1st (4 slots):* [charm person](http://azgaarnoth.tedneward.com/magic/spells/charm-person), [detect magic](http://azgaarnoth.tedneward.com/magic/spells/detect-magic), [disguise self](http://azgaarnoth.tedneward.com/magic/spells/disguise-self)
+>* *2nd (3 slots):* [cloud of daggers](http://azgaarnoth.tedneward.com/magic/spells/cloud-of-daggers), [detect thoughts](http://azgaarnoth.tedneward.com/magic/spells/detect-thoughts), [suggestion](http://azgaarnoth.tedneward.com/magic/spells/suggestion)
+>* *3rd (3 slots):* [hypnotic pattern](http://azgaarnoth.tedneward.com/magic/spells/hypnotic-pattern), [major image](http://azgaarnoth.tedneward.com/magic/spells/major-image)
+>* *4th (1 slot):* [greater invisibility](http://azgaarnoth.tedneward.com/magic/spells/greater-invisibility), [phantasmal killer](http://azgaarnoth.tedneward.com/magic/spells/phatasmal-killer)
 >
 
 ---
@@ -607,10 +610,10 @@ The Mindbenders are Hobgoblin bards that serve as political officers across the 
 The Doom Hand Clerics are a sect of Maglubiyet worshippers dedicated to the advancement of hobgoblin supremacy. They frequently rally around any Legion that makes a strong move towards the conquest of lands or cities that will benefit goblinoidkind anywhere across Azgaarnoth. While they do not bear any ill will to the Children of Maglubiyet, the two sects often disagree on the will of the Mighty One, and sometimes find themselves working to cross purposes.
 
 ### Environment
-(FIXME)
+Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
-![](DoomHandCleric-Token.png)
+![](Hobgoblins-DoomHand-Token.png)
 
 >### Doom Hand Cleric
 >*Medium hobgoblin, lawful evil*
@@ -639,16 +642,16 @@ The Doom Hand Clerics are a sect of Maglubiyet worshippers dedicated to the adva
 >
 >***Dark Devotion.*** The doom hand cleric has advantage on saving throws against being charmed or frightened.
 >
->***Spellcasting.*** The doom hand cleric is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The doom hand has the following cleric spells prepared:
->
->* Cantrips (at will): [resistance](../Magic/Spells/resistance.md), [spare the dying](../Magic/Spells/spare-the-dying.md), [thaumaturgy](../Magic/Spells/thaumaturgy.md)
->* 1st level (4 slots): [bane](../Magic/Spells/bane.md)/[bless](../Magic/Spells/bless.md), [inflict wounds](../Magic/Spells/inflict-wounds.md), [guiding bolt](../Magic/Spells/guiding-bolt.md), [shield of faith](../Magic/Spells/shield-of-faith.md)
->* 2nd level (3 slots): [hold person](../Magic/Spells/hold-person.md), [invisibility](../Magic/Spells/invisibility.md), [spiritual weapon](../Magic/Spells/spiritual-weapon.md)
->
 >#### Actions
->***Multiattack.*** The doom hand makes two melee attacks.
+>***Multiattack.*** The doom hand makes two melee attacks. It can cast a cantrip in place of one of its attacks.
 >
->***Scimitar.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (2d4 + 2) slashing damage.
+>***Scimitar.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (2d4 + 2) slashing damage.
+>
+>***Spellcasting.*** The doom hand cleric is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The doom hand has the following cleric spells prepared:
+>
+>* *Cantrips (at will):* [resistance](http://azgaarnoth.tedneward.com/magic/spells/resistance/), [spare the dying](http://azgaarnoth.tedneward.com/magic/spells/spare-the-dying/), [thaumaturgy](http://azgaarnoth.tedneward.com/magic/spells/thaumaturgy/)
+>* *1st level (4 slots):* [bane](http://azgaarnoth.tedneward.com/magic/spells/bane)/[bless](http://azgaarnoth.tedneward.com/magic/spells/bless/), [inflict wounds](http://azgaarnoth.tedneward.com/magic/spells/inflict-wounds), [guiding bolt](http://azgaarnoth.tedneward.com/magic/spells/guiding-bolt), [shield of faith](http://azgaarnoth.tedneward.com/magic/spells/shield-of-faith)
+>* *2nd level (3 slots):* [hold person](http://azgaarnoth.tedneward.com/magic/spells/hold-person), [invisibility](http://azgaarnoth.tedneward.com/magic/spells/invisibility), [spiritual weapon](http://azgaarnoth.tedneward.com/magic/spells/spiritual-weapon)
 >
 
 ---
@@ -657,15 +660,15 @@ The Doom Hand Clerics are a sect of Maglubiyet worshippers dedicated to the adva
 The Doom First Monks are a monastic order of hobgoblins dedicated to the cause of hobgoblin supremacy. They frequently rally around any Legion that makes a strong move towards the conquest of lands or cities that will benefit goblinoidkind anywhere across Azgaarnoth. The location of their chapterhouses are a closely-guarded secret, and they are second only to the Iron Shadow Monks in number.
 
 ### Environment
-(FIXME)
+Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
-![](DoomFistMonk-Token.png)
+![](Hobgoblins-DoomFist-Token.png)
 
 >### Doom Fist Monk
 >*Medium humanoid, lawful evil*
 >___
->- **Armor Class** 15 (DEX, unarmored defense)
+>- **Armor Class** 15 (Unarmored defense (12), DEX (+3))
 >- **Hit Points** 32 (5d8 + 10)
 >- **Speed** 40 ft.
 >___
@@ -687,23 +690,31 @@ The Doom First Monks are a monastic order of hobgoblins dedicated to the cause o
 >___
 >***Unarmored Defense.*** While the doom fist monk is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 >
->***Spellcasting.*** The doom fist monk is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The doom fist has the following spells prepared:
->
->* Cantrips (at will): acid splash, fire bolt, ray of frost
->* 1st level (4 slots): burning hands, mage armor, thunderwave
->
 >#### Actions
->***Multiattack.*** The doom fist monk makes four attacks, each of which can be an unarmed strike or a dart attack.
+>***Multiattack.*** The doom fist monk makes four attacks, each of which can be an unarmed strike, quarterstaff, or a javelin attack. They can use a cantrip in place of one of these attacks.
 >
->***Unarmed Strike.*** Melee Weapon Attack. Hit: +5, Reach 5ft, One target, 1d8+3 bludgeoning damage.
+>***Unarmed Strike.*** Melee Weapon Attack: +5 to hit, Reach 5ft, One target, 1d8+3 bludgeoning damage.
 >
->***Javelin.*** Ranged Weapon Attack. Hit: +5, Range 20/60, One target, 1d8+3 piercing damage.
+>***Quarterstaff.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if used with two hands.
+>
+>***Javelin.*** Ranged Weapon Attack: +5 to hit, Range 20/60, One target, 1d8+3 piercing damage.
+>
+>***Spellcasting.*** The doom fist monk is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The doom fist has the following spells prepared:
+>
+>* *Cantrips (at will):* [acid splash](http://azgaarnoth.tedneward.com/magic/spells/acid-splash/), [fire bolt](http://azgaarnoth.tedneward.com/magic/spells/fire-bolt/), [ray of frost](http://azgaarnoth.tedneward.com/magic/spells/ray-of-frost/)
+>* *1st level (4 slots):* [burning hands](http://azgaarnoth.tedneward.com/magic/spells/burning-hands/), [mage armor](http://azgaarnoth.tedneward.com/magic/spells/mage-armor/), [thunderwave](http://azgaarnoth.tedneward.com/magic/spells/thunderwave/)
 >
 
 ---
 
 ## Hobgoblin General
 Not all hobgoblin warlords are equal; every so often an exceptional commander appears who can suppress the intense rivalry between the legions through personal strength and sheer force of will. Such a hobgoblin is recognized by a rank that translates to "general" in Common. The depth of cunning of these individuals makes them incredibly dangerous for any who stand against the general's goals or allies.
+
+### Environment
+Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban
+
+### Token
+![](Hobgoblins-HobgoblinGeneral-Token.png)
 
 >### Hobgoblin General
 >*Medium humanoid (goblinoid), lawful evil*
