@@ -3,7 +3,7 @@ Clerics of Gods who control the waves and tides, as well as the beasts who dwell
 
 ```
 name = 'Ocean'
-description = "***Divine Domain: Ocean.*** ... "
+description = "***Divine Domain: Ocean.*** Clerics of Gods who control the waves and tides, as well as the beasts who dwell within the depths of the sea draw power from this domain."
 ```
 
 ## Domain Spells

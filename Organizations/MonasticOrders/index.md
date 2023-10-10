@@ -1,7 +1,7 @@
 # Monastic Orders
 
 * [The Order of the North Star](NorthStar.md)
-
+* [The Order of Tiborec](Tiborec.md)
 
 ---
 
