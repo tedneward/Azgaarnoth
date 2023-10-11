@@ -25,12 +25,13 @@ While many Guilds were first formed by (and thus deeply intertwined with) the Dw
 
 * *Agricultural*: many Guilds work with the farmers of Azgaarnoth, buying their harvest and shipping it elsewhere for resale. This denies the farmers the added markup of selling directly, but also relieves the farmers of transport costs/overhead and storage. Most agricultural Guilds are highly commoditized, and are often looking for any advantage they can get over their competitors.
 
+    * **Kaze Clan Compact**: Liria, Bedia, Travesimia, Travenia, Whaveminsia, Bagonbia, Mighalia. Heavily invested into agricultural products (harvests) and foodstuffs. A smaller, yet highly profitable, portion of the Compact is dedicated to the production of a variety of alcoholic beverages.
+
 * *Entertainment*: these Guilds back musician and drama troupes, in return for percentage of the house take. These are generally newer Guilds, and many such Guilds were originally venture-backed by Donato's until they bought their investment back.
 
 * *Banking*: banking Guilds are happy to take deposits from adventurers and issue letters of credit. Deposits will generally earn 5% interest each year. Any banking Guild on this list will recognize and honor a letter of credit from another Guild on this list.
 
     * **Flenderwill, Opalin, and Chornda**: Yithi, Zhi, Tragekia. Investments are usually low-risk ventures. 
-    * ****
 
 * **Mercenary's Guild**: quite possibly the most famous of the Merchant Guilds, either mercenary companies and/or their employers will require contracts to be filed with this Guild. The Guild will hold the contract sum in escrow (minus any up-front payment) until the fulfillment of the contract. Disputes will be heard by the Mercenary Bond Council, which forms a seven-person board of inquiry to investigate using means both physical and arcane. All board findings are final, and mercenary companies or employers that are found in violation of contract risk censure or even outright ban.
 
