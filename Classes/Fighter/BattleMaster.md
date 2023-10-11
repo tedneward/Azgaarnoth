@@ -70,6 +70,9 @@ def level10(npc):
     npc.superioritydicetype = 'd10'
     allclasses['Fighter'].choosemaneuver(npc)
     allclasses['Fighter'].choosemaneuver(npc)
+
+def level18(npc):
+    npc.superioritydicetype = 'd12'
 ```
 
 ## Relentless
@@ -84,11 +87,6 @@ def level15(npc):
     allclasses['Fighter'].choosemaneuver(npc)
 
     npc.traits.append("***Relentless.*** When you roll initiative and have no superiority dice remaining, you regain 1 superiority die.")
-```
-
-```
-def level18(npc):
-    npc.superioritydicetype = 'd12'
 ```
 
 ### Battle Master Builds
