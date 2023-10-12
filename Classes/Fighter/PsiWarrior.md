@@ -23,12 +23,15 @@ When you reach certain levels in this class, the size of your Psionic Energy dic
 * **Psionic Strike.** You can propel your weapons with psionic force. Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a weapon, you can expend one Psionic Energy die, rolling it and dealing force damage to the target equal to the number rolled plus your Intelligence modifier.
 * **Telekinetic Movement.** You can move an object or a creature with your mind. As an action, you target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both. Once you take this action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.
 
-
 ```
 def level3(npc):
     def setpsidice(npc): npc.psionicdicecount = npc.proficiencybonus()
     npc.psionicdie = 'd6'
     npc.defer(lambda npc: setpsidice(npc) )
+
+    npc.defer(lambda npc: npc.traits.append(f"***Psionic Energy Dice (Recharges on long rest).*** You harbor a wellspring of psionic energy within yourself. This energy is represented by {npc.proficiencybonus() * 2} Psionic Energy dice, which are each a {npc.psionicdie}, and they fuel various psionic powers you have, which are detailed below. You can't use a power if it requires you to use a die when your dice are all expended.") )
+
+    npc.bonusactions.append("***Recover (Recharges on short or long rest).*** You can regain one expended Psionic Energy die.")
 
     npc.defer(lambda npc: npc.reactions.append(f"***Protective Field.*** When you or another creature you can see within 30 feet of you takes damage, you can expend one Psionic Energy die, roll the die, and reduce the damage taken by the number rolled plus {npc.INTbonus()}, as you create a momentary shield of telekinetic force."))
 

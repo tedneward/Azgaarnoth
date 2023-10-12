@@ -27,7 +27,7 @@ Across the Azgaarnothian continent, hundreds of guilds routinely crisscross the 
 
 * *Agricultural*: many Guilds work with the farmers of Azgaarnoth, buying their harvest and shipping it elsewhere for resale. This denies the farmers the added markup of selling directly, but also relieves the farmers of transport costs/overhead and storage. Most agricultural Guilds are highly commoditized, and are often looking for any advantage they can get over their competitors.
 
-    * **Kaze Clan Compact**: Liria, Bedia, Travesimia, Travenia, Whaveminsia, Bagonbia, Mighalia. Heavily invested into agricultural products (harvests) and foodstuffs. A smaller, yet highly profitable, portion of the Compact is dedicated to the production of a variety of alcoholic beverages.
+    * **[Kaze Clan Compact](KazeClan.md)**: Liria, Bedia, Travesimia, Travenia, Whaveminsia, Bagonbia, Mighalia. Heavily invested into agricultural products (harvests) and foodstuffs. A smaller, yet highly profitable, portion of the Compact is dedicated to the production of a variety of alcoholic beverages.
 
 * *Entertainment*: these Guilds back musician and drama troupes, in return for percentage of the house take. These are generally newer Guilds, and many such Guilds were originally venture-backed by Donato's until they bought their investment back.
 
