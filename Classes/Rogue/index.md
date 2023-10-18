@@ -63,7 +63,7 @@ def level1(npc):
     npc.proficiencies.append('Longsword')
     npc.proficiencies.append('Rapier')
     npc.proficiencies.append('Shortsword')
-    npc.proficiencies.append('Thieves tools')
+    npc.proficiencies.append("Thieves' tools")
 
     npc.savingthrows.append('DEX')
     npc.savingthrows.append('INT')

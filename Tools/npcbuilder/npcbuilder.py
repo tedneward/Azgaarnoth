@@ -787,8 +787,16 @@ class NPC:
         self.skills.append(choose("Choose a skill:", skilllist))
     
     def addskillorexpertise(self, skill):
-        if skill in self.skills: self.expertises.append(skill)
-        else: self.skills.append(skill)
+        skilllist = [ 'Acrobatics', 'Animal Handling', 'Arcana','Athletics',
+            'Deception', 'History', 'Insight', 'Intimidation', 'Investigation',
+            'Medicine', 'Nature', 'Perception', 'Performance', 'Persuasion',
+            'Religion', 'Sleight of Hand', 'Stealth', 'Survival']
+        if skill in skilllist:
+            if skill in self.skills: self.expertises.append(skill)
+            else: self.skills.append(skill)
+        else:
+            if skill in self.proficiencies: self.expertises.append(skill)
+            else: self.proficiencies.append(skill)
 
     def newspellcasting(self, source, ability):
         """Convenience factory method to be used from literate Race/Class/Background/Feats"""

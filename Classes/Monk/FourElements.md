@@ -5,8 +5,7 @@ Many monks of this tradition tattoo their bodies with representations of their k
 
 ```
 name = 'Way of the Four Elements'
-description = "***Monastic Tradition: Way of the Four Elements.***
-You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave the elements together."
+description = "***Monastic Tradition: Way of the Four Elements.*** You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave the elements together."
 ```
 
 ## Disciple of the Elements
@@ -62,7 +61,7 @@ def clenchofthenorthwind(npc):
 * Cause earth, fire, water, or mist that can fit within a 1-foot cube to shape itself into a crude form you designate for 1 minute.
 
 ```
-def elementalattunement(npc)
+def elementalattunement(npc):
     npc.actions.append(f"***Ki: Elemental Attunement.*** You can briefly control elemental forces within 30 feet of you, causing one of the following effects of your choice: Create a harmless, instantaneous sensory effect related to air, earth, fire, or water such as a shower of sparks, a puff of wind, a spray of light mist, or a gentle rumbling of stone; Instantaneously light or snuff out a candle, a torch, or a small campfire; Chill or warm up to 1 pound of nonliving material for up to 1 hour; Cause earth, fire, water, or mist that can fit within a 1-foot cube to shape itself into a crude form you designate for 1 minute.")
 ```
 
