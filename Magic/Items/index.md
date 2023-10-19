@@ -38,6 +38,9 @@ Ammunition, Bead, Oil, Potion, Scroll
 * [*ammunition* of slaying](ammo-of-slaying.md)
 * [animated shield](animated-shield.md)
 * [anstruth *instrument*](anstruth-instrument.md)
+* [arrow-catching *defense*](arrow-catching-defense.md)
+* [blooded armor](blooded-armor.md)
+* [blooded weapon](blooded-weapon.md)
 * [*defense* of arrow catching](defense-of-arrow-catching.md)
 * [*defense* of breath absorption](defense-of-breath-absorption.md)
 * [*focus* of cacophony](focus-of-cacophony.md)
@@ -59,6 +62,7 @@ Ammunition, Bead, Oil, Potion, Scroll
 * [Marshal's token](marshals-token.md)
 * [mask of elemental savagery](mask-of-elemental-savagery).md
 * [opal of the ild rune](opal-of-the-ild-rune.md)
+* [*ornament* of blasting](ornament-of-blasting.md)
 * [*ornament* of cantrips](ornament-of-cantrips.md)
 * [*ornament* of counterspelling](ornament-of-counterspelling.md)
 * [*ornament* of prayer beads](ornament-of-prayer-beads.md)
