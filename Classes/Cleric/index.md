@@ -119,28 +119,6 @@ Wisdom is your spellcasting ability for your cleric spells. The power of your sp
 ```
     sc = fullcaster(npc, 'WIS', 'Cleric')
     sc.casterclass = allclasses['Cleric']
-    sc.slottable = {
-        1: [ 2 ],
-        2: [ 3 ],
-        3: [ 4, 2 ], 
-        4: [ 4, 3 ],
-        5: [ 4, 3, 2 ],
-        6: [ 4, 3, 3 ],
-        7: [ 4, 3, 3, 1 ],
-        8: [ 4, 3, 3, 2 ],
-        9: [ 4, 3, 3, 3, 1 ],
-        10: [ 4, 3, 3, 3, 2] ,
-        11: [ 4, 3, 3, 3, 2, 1 ],
-        12: [ 4, 3, 3, 3, 2, 1 ],
-        13: [ 4, 3, 3, 3, 2, 1, 1 ],
-        14: [ 4, 3, 3, 3, 2, 1, 1 ],
-        15: [ 4, 3, 3, 3, 2, 1, 1, 1 ],
-        16: [ 4, 3, 3, 3, 2, 1, 1, 1 ],
-        17: [ 4, 3, 3, 3, 2, 1, 1, 1, 1 ],
-        18: [ 4, 3, 3, 3, 3, 1, 1, 1, 1 ],
-        19: [ 4, 3, 3, 3, 3, 2, 1, 1, 1 ],
-        20: [ 4, 3, 3, 3, 3, 2, 2, 1, 1 ]
-    }
 
     def spellcasting(npc): 
         npc.spellcasting[name].maxcantripsknown = 3 if npc.levels(name) < 4 else 4 if npc.levels(name) < 10 else 5

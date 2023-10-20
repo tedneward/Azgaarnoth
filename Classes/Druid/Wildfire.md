@@ -8,8 +8,8 @@ You have formed a bond with a wildfire spirit, a primal being of creation and de
 
 Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
-Druid Level| Spells
----------- | ------
+Druid Level | Spells
+----------- | ------
 2nd | burning hands, cure wounds
 3rd | flaming sphere, Scorching Ray
 5th | Plant Growth, revivify
