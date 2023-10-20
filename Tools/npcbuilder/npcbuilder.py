@@ -161,7 +161,7 @@ def itemlinkify(name):
     return f"[{name}](http://azgaarnoth.tedneward.com/magic/items/{linkdest}/)"
 
 def spelllinkify(name):
-    linkdest = name.replace(' ','-')
+    linkdest = name.replace(' ','-').replace("'","")
     return f"[{name}](http://azgaarnoth.tedneward.com/magic/spells/{linkdest}/)"
 
 def replace(text, list, newtext):
@@ -836,9 +836,9 @@ class NPC:
         verifytypes(self.damageresistances)
         verifytypes(self.damagevulnerabilities)
 
-        conditions = ['blinded', 'charmed', 'deafened', 'exhaustion', 'frightened',
-                      'grappled', 'incapacitated','invisible','paralyzed','petrified',
-                      'poisoned', 'prone', 'restrained', 'stunned', 'unconscious']
+        conditions = ['blinded', 'charmed', 'deafened', 'diseased', 'exhaustion', 'frightened',
+                      'grappled', 'incapacitated', 'invisible', 'paralyzed', 'petrified',
+                      'poisoned', 'prone', 'restrained', 'sleep', 'stunned', 'unconscious']
         def verifyconditions(list):
             for entry in list:
                 if entry not in conditions:
