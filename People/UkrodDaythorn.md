@@ -21,7 +21,7 @@ Ukrod is a patient, meticulous planner, and will not act in haste. He has numero
 >- **Damage Immunities** 
 >- **Condition Immunities** 
 >- **Skills** Intimidation +12,Acrobatics +3,Persuasion +12,Deception +12,Insight +10
->- **Proficiencies** Light armor,Simple weapons,Hand crossbow,Longsword,Rapier,Shortsword,Thieves' tools,Disguise kit,Forgery kit,CHOOSE-One gaming set
+>- **Proficiencies** Light armor,Simple weapons,Hand crossbow,Longsword,Rapier,Shortsword,Thieves' tools,Disguise kit,Forgery kit,Gaming dice
 >- **Senses** darkvision 60,passive Perception 12
 >- **Languages** Common,Orcish,Thieves' Cant,CHOOSE
 >___
@@ -52,19 +52,11 @@ Ukrod is a patient, meticulous planner, and will not act in haste. He has numero
 >***Help.*** You can perform the Help action. Additionally, when you do this to aid an ally in attacking a creature, the target of that attack can be within 30 feet of you, rather than 5 feet of you, if the target can see or hear you.
 >
 >#### Equipment
->*Rapier +1*
+>*Rapier +1*, 2 daggers, shortbow and 20 arrows
 >
->2 daggers
+>*Boots of Elvenkind*, *Cloak of Elvenkind*, *Gloves of Elvenkind*
 >
->Shortbow and 20 arrows
->
->Burglar's pack, dungeoneer's pack, or explorer's pack
->
->Thieves' tools
->
->***Magic Item: Uncommon Permanent.***
->
->***Magic Item: Rare Permanent.***
+>Burglar's pack, Thieves' tools
 >
 
 #### Description
