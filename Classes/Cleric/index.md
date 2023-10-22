@@ -213,7 +213,7 @@ Beginning at 6th level, you can use your [Channel Divinity](#channel-divinity) t
 
 ```
 def level2(npc):
-    npc.defer(lambda npc: npc.traits.append(f"***Channel Divinity ({'' if npc.levels('Cleric') < 6 else '2/' if npc.levels('Cleric') < 18 else '3'}Recharges on short or long rest).*** See below for the details of each use."))
+    npc.defer(lambda npc: npc.traits.append(f"***Channel Divinity ({'' if npc.levels('Cleric') < 6 else '2/' if npc.levels('Cleric') < 18 else '3/'}Recharges on short or long rest).*** See below for the details of each use."))
 ```
 
 ## Channel Divinity: Turn Undead

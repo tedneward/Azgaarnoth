@@ -243,7 +243,7 @@ weapons = {
         'Greatclub': ['1d8', 'bludgeoning', ['two-handed']],
         'Handaxe': ['1d6', 'slashing', ['Light', 'thrown (range 20/60)']],
         'Javelin': ['1d6', 'piercing', ['thrown (range 30/120)']],
-        'Light hammer': ['1d4' 'bludgeoning', ['Light', 'thrown (range 20/60)']],
+        'Light hammer': ['1d4', 'bludgeoning', ['Light', 'thrown (range 20/60)']],
         'Mace': ['1d6', 'bludgeoning', []],
         'Quarterstaff': ['1d6', 'bludgeoning', ['versatile (1d8)']],
         'Sickle': ['1d4', 'slashing', ['light']],
@@ -271,12 +271,12 @@ weapons = {
     },
     'simple-ranged': {
         'Light Crossbow': ['1d8', 'piercing', ['ammunition (range 80/320)', 'loading', 'two-handed']],
-        'Dart': ['1d4' 'piercing', ['finesse', 'thrown (range 20/60)']],
+        'Dart': ['1d4', 'piercing', ['finesse', 'thrown (range 20/60)']],
         'Shortbow': ['1d6', 'piercing', ['ammunition (range 80/320)', 'two-handed']],
-        'Sling': ['1d4' 'bludgeoning',	['ammunition (range 30/120)']],
+        'Sling': ['1d4', 'bludgeoning',	['ammunition (range 30/120)']],
     },
     'martial-ranged': {
-        'Blowgun': ['1' 'piercing', ['ammunition (range 25/100)', 'loading']],
+        'Blowgun': ['1', 'piercing', ['ammunition (range 25/100)', 'loading']],
         'Hand Crossbow': ['1d6', 'piercing', ['ammunition (range 30/120)', 'light', 'loading']],
         'Heavy Crossbow': ['1d10', 'piercing', ['ammunition (range 100/400)', 'heavy', 'loading', 'two-handed']],
         'Longbow': ['1d8', 'piercing', ['ammunition (range 150/600)', 'heavy', 'two-handed']],
@@ -307,6 +307,8 @@ armor = {
 
 def fullcaster(npc, ability, name):
     spellcasting = NPC.Spellcasting(npc, ability, name)
+    if name in classes:
+        spellcasting.casterclass = classes[name]
     spellcasting.slottable = {
         1: [ 2 ],
         2: [ 3 ],
@@ -393,6 +395,7 @@ def loadmodule(filename, modulename=None):
             "allraces": races,
             "feats": feats,
             "traits": traits,
+            "weapons": weapons,
             "spelllinkify": spelllinkify,
             "choose": choose,
             "chooseability": chooseability,
@@ -940,6 +943,160 @@ class NPC:
                 else:
                     strs.append(f"{c.name} {classmap[c]}")
             return "/".join(strs)
+        
+        def genappearance():
+            features = [
+                "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+                "Piercings",
+                "Flamboyant or outlandish clothing",
+                "Formal, clean clothes",
+                "Ragged, dirty clothes",
+                "Pronounced scar on face",
+                "Pronounced scars all over arms",
+                "Puckered scar on legs",
+                "Burn marks/scars visible somewhere",
+                "Missing teeth",
+                "Missing fingers",
+                "Unusual eye color, or two different eye colors",
+                "Exceptionally hairy",
+                "Tattoos",
+                "Birthmark (on visible portion of body)",
+                "Unusual skin color",
+                "Bald",
+                "Braided beard or hair",
+                "Unusual hair color",
+                "Nervous eye twitch",
+                "Distinctive nose",
+                "Distinctive posture (crooked or rigid)",
+                "Exceptionally beautiful/attractive",
+                "Exceptionally ugly/unattractive"
+            ]
+            return features[random.randint(0, len(features)-1)]
+
+        def gentalent():
+            talents = [
+                "Plays a musical instrument",
+                "Speaks many languages fluently",
+                "Unbelievably lucky",
+                "Incredibly unlucky",
+                "Expert juggler",
+                "Distinctive speaking voice",
+                "Excellent storyteller",
+                "Excellent fashion sense/taste",
+                "Perfect memory",
+                "Great with animals",
+                "Great with children",
+                "Great at solving puzzles",
+                "Great at one game",
+                "Great at impersonations",
+                "Draws beautifully",
+                "Paints beautifully",
+                "Sings beautifully",
+                "Drinks everyone under the table",
+                "Expert carpenter",
+                "Expert cook",
+                "Expert dart thrower and rock-skipper",
+                "Skilled actor",
+                "Master of disguise",
+                "Skilled dancer",
+                "Skilled mime"
+            ]
+            return talents[random.randint(0, len(talents)-1)]
+        
+        def genmannerism():
+            mannerisms = [
+                "Prone to singing, whistling, or humming quietly",
+                "Speaks in rhyme or some other noticeable habit",
+                "Frequently mispronounces common words",
+                "Particularly low or high voice",
+                "Speaks in unusually formal manner",
+                "Enunciates overly clearly",
+                "Speaks loudly",
+                "Refers to themself in the third person",
+                "Overly dramatic, as if on stage, when excited",
+                "Whispers",
+                "Uses flowery speech or long words",
+                "Frequently uses the wrong word",
+                "Uses colorful oaths and exclamations",
+                "Prone to predictions of doom",
+                "Prone to declarations of excessive nature",
+                "Fidgets all the time",
+                "Squints",
+                "Stares into the distance for long periods of time before speaking",
+                "Chews something incessantly",
+                "Paces while speaking",
+                "Taps fingers",
+                "Bites fingernails",
+                "Twirls hair or tugs beard"
+            ]
+            return mannerisms[random.randint(0, len(mannerisms)-1)]
+        
+        def geninteractions():
+            interactions = [
+                "Argumentative with others",
+                "Arrogant when speaking with others",
+                "Always convinced they are right when speaking with others",
+                "Blustering when talking to others",
+                "Self-deprecating with others",
+                "Humble with others",
+                "Frequently rude to others",
+                "Curious when speaking with others",
+                "Friendly when talking to others",
+                "Honest with others",
+                "Hot-tempered with others",
+                "Quick to cut off others when speaking with them",
+                "Irritable when speaking with others",
+                "Ponderous when speaking with others",
+                "Quiet with others",
+                "Suspicious when talking with others"
+            ]
+            return interactions[random.randint(0, len(interactions)-1)]
+        
+        def genideal():
+            ideals = [
+                "Beauty", "Charity", "Greater good", "Life", "Respect", "Self-sacrifice",
+                "Domination", "Greed", "Might", "Pain", "Retribution", "Slaughter",
+                "Community", "Fairness", "Honor", "Logic", "Responsibility", "Tradition",
+                "Change", "Creativity", "Freedom", "Independence", "No limits", "Whimsy",
+                "Balance", "Knowledge", "Live and let live", "Moderation", "Neutrality", "People",
+                "Aspiration", "Discovery", "Glory", "Nation", "Redemption", "Self-knowledge"
+            ]
+            return ideals[random.randint(0, len(ideals)-1)]
+        
+        def genbond():
+            bonds = [
+                "Dedicated to fulfilling a personal life goal",
+                "Protective of close family members",
+                "Protective of colleagues or compatriots",
+                "Loyal to a benefactor, patron, or employer",
+                "Captivated by a romantic interest",
+                "Drawn to a special place",
+                "Protective of a sentimental keepsake",
+                "Protective of a valuable possession",
+                "Out for revenge"
+            ]
+            return bonds[random.randint(0, len(bonds)-1)]
+
+        def genflaw():
+            flaws = [
+                "Forbidden love or susceptibility to romance",
+                "Enjoys decadent pleasures",
+                "Arrogance",
+                "Envies another creature's possessions or station",
+                "Overpowering greed",
+                "Prone to rage",
+                "Has a powerful enemy",
+                "Prone to sudden suspicion",
+                "Shameful or scandalous history",
+                "Secret crime or misdeed",
+                "Possession of forbidden lore",
+                "Foolhardy bravery",
+                "Convinced of their own immortality",
+                "Entirely too trusting",
+                "Quick to make assumptions",
+                "Hiding from powerful forces"
+            ]
+            return flaws[random.randint(0, len(flaws)-1)]
 
         linesep = ">___\n"
 
@@ -1000,6 +1157,13 @@ class NPC:
                 result += f">{equip}\n"
                 result +=  ">\n"
         result += "\n#### Description\n"
+        result += f"Ideals: {genideal()}, {genideal()}, {genideal()}\n\n"
+        result += f"Appearance: {genappearance()}\n\n"
+        result += f"Talents: {gentalent()}\n\n"
+        result += f"Mannerisms: {genmannerism()}\n\n"
+        result += f"Interactions with others: {geninteractions()}\n\n"
+        result += f"Bond: {genbond()}\n\n"
+        result += f"Flaw: {genflaw()}\n\n"
         for descrip in self.description:
             result += f"{descrip}\n\n"
 

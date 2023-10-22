@@ -1,52 +1,49 @@
 >### Name
->*Medium Male humanoid (Wild Elf) Druid (Circle of the Land) 20, any alignment*
+>*Medium Male humanoid (Winged Elf) Cleric (Death) 20, any alignment*
 >___
->- **Armor Class** 12 (Leather armor (11),DEX (+1))
->- **Hit Points** 136 (20d8 + 28)
->- **Speed** 30 ft
+>- **Armor Class** 15 (Scale mail (14),DEX (+1))
+>- **Hit Points** 135 (20d8 + 28)
+>- **Speed** 30 ft, flying 30 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:-:|:-:|:-:|:-:|:-:|:-:|
->|12 (+1)|13 (+1)|15 (+2)|11 (+0)|16 (+3)|11 (+0)|
+>|11 (+0)|13 (+1)|15 (+2)|11 (+0)|17 (+3)|11 (+0)|
 >___
 >- **Proficiency Bonus** +7
->- **Saving Throws** Wis +10,Int +7
+>- **Saving Throws** Wis +10,Cha +7
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
->- **Damage Immunities** poison
->- **Condition Immunities** sleep,poisoned,diseased
->- **Skills** Perception +10,Animal Handling +17,Survival +10
->- **Proficiencies** Spear,Net,Longbow,Shortbow,Padded Armor,Leather Armor,Studded Leather Armor,Hide Armor,Shield,Club,Dagger,Dart,Javelin,Mace,Quarterstaff,Scimitar,Sickle,Sling
+>- **Damage Immunities** 
+>- **Condition Immunities** sleep
+>- **Skills** Perception +10,History +7,Insight +10
+>- **Proficiencies** Light armor,Medium armor,Shields,Simple weapons,Club,Dagger,Greatclub,Handaxe,Javelin,Light hammer,Mace,Quarterstaff,Sickle,Spear,Battleaxe,Flail,Glaive,Greataxe,Greatsword,Halberd,Lance,Longsword,Maul,Morningstar,Pike,Rapier,Scimitar,Shortsword,Trident,War pick,Warhammer,Whip,Light Crossbow,Dart,Shortbow,Sling,Blowgun,Hand Crossbow,Heavy Crossbow,Longbow,Net
 >- **Senses** darkvision 60,passive Perception 20
->- **Languages** Elven,Sylvan,Druidic
+>- **Languages** Common,Elven,Auran
 >___
->***Beast Shapes.*** You can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren't able to provide material components.
+>***Channel Divinity (3/Recharges on short or long rest).*** See below for the details of each use.
+>
+>***Channel Divinity: Touch of Death.*** When you hit a creature with a melee attack, you can use Channel Divinity to deal 45 extra necrotic damage to the target. This ignores resistance to necrotic damage.
+>
+>***Divine Strike.*** Once on each of your turns when you hit a creature with a weapon attack, you cause the attack to deal an extra 2d8 necrotic damage to the target.
 >
 >***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
 >
->***Land's Stride.*** Moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard. In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the Entangle spell.
+>***Inescapable Destruction.*** Necrotic damage dealt by your cleric spells ignore resistance to necrotic damage.
 >
->***Natural Recovery (Recharges on long rest).*** During a short rest, you can recover up to 10 total spell slots of less than 6th level.
->
->***Timeless Body.*** The primal magic that you wield causes you to age more slowly. For every 10 years that pass, your body ages only 1 year.
+>***Reaper.*** When you cast a necromancy cantrip or 1st through 5th level spell that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other. If the spell consumes its material components, you must provide them for each target.
 >
 >***Trance.*** Elves do not sleep. Instead they meditate deeply, remaining semi-conscious, for 4 hours a day. The Common word for this meditation is 'trance'. While meditating, you dream after a fashion; such dreams are actually mental exercises that have become reflexive after years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep.
 >
 >#### Actions
->***Wild Companion.*** You can expend a use of your Wild Shape to cast [find familiar](http://azgaarnoth.tedneward.com/magic/spells/find-familiar/), without material components. When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after 10 hours.
+>***Channel Divinity: Turn Undead.***  You can use one of your uses of Channel Divinity to turn undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, if it is a CR of 4 or lower it is destroyed; otherwise it is turned for 1 minute or until it takes any damage.A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 >
->***Wild Shape.*** You can magically assume the shape of a beast that you have seen before. You can transform into any beast that has a challenge rating of 1 or lower. You can stay in a beast shape for 10 hours. You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
+>***Divine Intervention (Recharges on long rest/seven days).*** Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than {npc.levels('Cleric')}, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise you can use it again after you finish a long rest.
 >
->***Wild Elf Spellcasting (Wis. Recharges on long rest).*** Spell save DC: 18, Spell attack bonus: +10
+>***Cleric Spellcasting (Wis, at level 20. Recharges on long rest).*** 5 cantrips known. 23 spells prepared. Spell save DC: 18, Spell attack bonus: +10
 >
->* *Cantrips:* [CHOOSE-Druid](http://azgaarnoth.tedneward.com/magic/spells/CHOOSE-Druid/)
+>Spells always prepared: [false life](http://azgaarnoth.tedneward.com/magic/spells/false-life/),[ray of sickness](http://azgaarnoth.tedneward.com/magic/spells/ray-of-sickness/),[blindness-deafness](http://azgaarnoth.tedneward.com/magic/spells/blindness-deafness/),[ray of enfeeblement](http://azgaarnoth.tedneward.com/magic/spells/ray-of-enfeeblement/),[animate dead](http://azgaarnoth.tedneward.com/magic/spells/animate-dead/),[vampiric touch](http://azgaarnoth.tedneward.com/magic/spells/vampiric-touch/),[blight](http://azgaarnoth.tedneward.com/magic/spells/blight/),[death ward](http://azgaarnoth.tedneward.com/magic/spells/death-ward/),[antilife shell](http://azgaarnoth.tedneward.com/magic/spells/antilife-shell/),[cloudkill](http://azgaarnoth.tedneward.com/magic/spells/cloudkill/)
 >
->
->***Druid Spellcasting (Wis, at level 20. Recharges on long rest).*** 6 cantrips known. 23 spells prepared. Spell save DC: 18, Spell attack bonus: +10
->
->Spells always prepared: [blur](http://azgaarnoth.tedneward.com/magic/spells/blur/),[silence](http://azgaarnoth.tedneward.com/magic/spells/silence/),[create food and water](http://azgaarnoth.tedneward.com/magic/spells/create-food-and-water/),[protection from energy](http://azgaarnoth.tedneward.com/magic/spells/protection-from-energy/),[blight](http://azgaarnoth.tedneward.com/magic/spells/blight/),[hallucinatory terrain](http://azgaarnoth.tedneward.com/magic/spells/hallucinatory-terrain/),[insect plague](http://azgaarnoth.tedneward.com/magic/spells/insect-plague/),[wall of stone](http://azgaarnoth.tedneward.com/magic/spells/wall-of-stone/)
->
->* *Cantrips:* 
+>* *Cantrips:* [CHOOSE-necromancy](http://azgaarnoth.tedneward.com/magic/spells/CHOOSE-necromancy/)
 >* *1st (4 slots):* 
 >* *2nd (3 slots):* 
 >* *3rd (3 slots):* 
@@ -60,17 +57,19 @@
 >
 >
 >#### Bonus Actions
->***Animal Handling.*** You can command one friendly beast within 60 feet of you that can hear you and that isn't currently following the command of someone else. You decide now what action the beast will take and where it will move during its next turn, or you issue a general command that lasts for 1 minute, such as to guard a particular area.
+>***Channel Divinity: Harness Divine Power.*** You can expend a use of your Channel Divinity to regain one expended spell slot, the level of which can be no higher than 4.
 >
 >
 >#### Equipment
->Shield (wood) OR any simple weapon
+>Mace
 >
->Scimitar OR any simple melee weapon
+>Light crossbow and 20 bolts
 >
->Explorer's pack
+>Priest's pack
 >
->Druidic focus
+>Shield
+>
+>Holy symb0l
 >
 >***Magic Item: Uncommon Permanent.***
 >
@@ -86,15 +85,29 @@
 >
 
 #### Description
+Ideals: Beauty, Life, Greater good
+
+Appearance: Flamboyant or outlandish clothing
+
+Talents: Master of disguise
+
+Mannerisms: Fidgets all the time
+
+Interactions with others: Blustering when talking to others
+
+Bond: Loyal to a benefactor, patron, or employer
+
+Flaw: Quick to make assumptions
+
 ***Race: Elf.*** Elves are almost as diverse as humans in their occupations, entertainments, and while most elves have a strong familial tie between them, numerous elves have wandered away from home to make their mark within the world, then to return and take up familial responsibilities. Elves revere their familial ancestors, and will often have a shrine to a favored ancestor, but elves do not see their familial ancestors as gods, and many elves are quite comfortable serving in a religious order even as they put offerings to their revered ancestors out on important holidays.
 
-***Subrace: Wild Elf.*** The *grugach* are those elves that sought to escape the world into the wilds. *Grugach* look almost identical to any other elves, and so will generally not raise an eyebrow when seen on the street or on board a ship. Other elves will note the subtle differences that mark the *grugach*, however, particularly after some close contact.
+***Subrace: Winged Elf.*** The *avariel* are generally lighter in stature and size, often up to a full foot shorter than the average high or wood elf, and much lither of form. Their wings can be folded to curl up close to their backs, which if covered with clothing, could allow them to pass for another form of elf, though not under any sort of detailed scrutiny. (Most *avariel* don't like hiding their wings anyway, feeling it to be constricting and claustrophobic.) Generally they wear light clothing, though when flying at high altitudes will wrap themselves in furs or other insulating clothing to help with the chill of the high altitudes.
 
-***Class: Druid.*** Whether calling on the elemental forces of nature or emulating the creatures of the animal world, druids are an embodiment of nature's resilience, cunning, and fury. They claim no mastery over nature, but see themselves as extensions of nature's indomitable will.
+***Flight.*** To use your wings to fly, you can’t be wearing medium or heavy armor.
 
-***Druidic Circle: Circle of the Land.*** The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. As a member of this circle, your magic is influenced by the land where you were initiated into the circle's ways.
+***Class: Cleric.*** Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
 
-***Feat: Animal Handler.*** You master the techniques needed to train and handle animals.
+***Divine Domain: Death.*** The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. While many of the deities who serve as patrons to Death Clerics are evil and seek the absence of life, others are simply stewards of the realm of the dead. Some are even prone to carefully balance life against death, intervening when too much life threatens an ecosystem and death must be brought to bring things back into careful equilibrium.
 
 
 

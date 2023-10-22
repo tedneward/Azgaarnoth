@@ -94,8 +94,8 @@ You start with the following equipment, in addition to the equipment granted by 
 ```
     npc.equipment.append("Shield (wood) OR any simple weapon")
     npc.equipment.append("Scimitar OR any simple melee weapon")
-    npc.equipment.append("Explorer's pack")
     npc.armorclass['Leather armor'] = 11
+    npc.equipment.append("Explorer's pack")
     npc.equipment.append("Druidic focus")
 ```
 
@@ -135,8 +135,7 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 You can use a druidic focus as a spellcasting focus for your druid spells.
 
 ```
-    sc = fullcaster(npc, 'WIS', 'Druid')
-    sc.casterclass = allclasses['Druid']
+    sc = fullcaster(npc, 'WIS', name)
 
     def spellcasting(npc): 
         npc.spellcasting[name].maxcantripsknown = 3 if npc.levels(name) < 4 else 4 if npc.levels(name) < 10 else 5
