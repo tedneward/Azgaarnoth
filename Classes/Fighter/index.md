@@ -83,7 +83,6 @@ def level1(npc):
     npc.armorclass['Chain mail'] = 16
 ```
 
-
 ## Fighting Style
 *1st-level fighter feature* 
 

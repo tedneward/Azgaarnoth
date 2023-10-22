@@ -89,10 +89,13 @@ def choose(text, choices):
 
     def choosefrommap(choicemap):
         """Present a map of choices interactively"""
+        keys = list(choicemap.keys())
+        keys.sort()
         choiceidx = 0
-        for c in choicemap.items():
+        for k in keys:
             choiceidx += 1
-            print(f'{choiceidx}: {c[0]} ({c[1]})')
+            c = choicemap[k]
+            print(f'{choiceidx}: {k} ({c})')
 
         # Interactive
         response = None
@@ -106,7 +109,7 @@ def choose(text, choices):
                 response = None
 
         responseidx = int(response) - 1 # Account for z'ero-based 'index
-        responsekey = list(choicemap.keys())[responseidx]
+        responsekey = keys[responseidx]
         inputhistory.append(str(responseidx))
         print("You chose " + str((responsekey, choicemap[responsekey])))
         return (responsekey, choicemap[responsekey])
@@ -792,7 +795,7 @@ class NPC:
             skilllist.remove(sk)
 
         self.skills.append(choose("Choose a skill:", skilllist))
-    
+
     def addskillorexpertise(self, skill):
         skilllist = [ 'Acrobatics', 'Animal Handling', 'Arcana','Athletics',
             'Deception', 'History', 'Insight', 'Intimidation', 'Investigation',
