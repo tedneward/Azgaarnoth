@@ -19,5 +19,4 @@ def apply(npc):
     # If the NPC doesn't already have ChannelingMagic on it
     # ... grab ChannelingMagic type from Sorcerer-Channeler module
     npc.traits.append("***TODO.*** Add Channeler features.")
-    pass
 ```

@@ -60,11 +60,11 @@ def everylevel(npc): npc.hits('d8')
 
 ```
 def level1(npc):
-    npc.proficiencies.append('Padded Armor')
-    npc.proficiencies.append('Leather Armor')
-    npc.proficiencies.append('Studded Leather Armor')
-    npc.proficiencies.append('Hide Armor')
+    for arm in armor['light']:
+        npc.proficiencies.append(arm)
+    npc.proficiencies.append('Hide armor')
     npc.proficiencies.append('Shield')
+
     npc.proficiencies.append('Club')
     npc.proficiencies.append('Dagger')
     npc.proficiencies.append('Dart')

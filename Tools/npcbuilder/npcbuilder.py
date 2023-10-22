@@ -286,22 +286,25 @@ weapons = {
 
 armor = {
     'light': {
-        'Padded' : 11, 
-        'Leather' : 11, 
-        'Studded leather' : 12
+        'Padded armor' : 11, 
+        'Leather armor' : 11, 
+        'Studded leather armor' : 12
     },
     'medium': {
-        'Hide' : 12, 
+        'Hide armor' : 12, 
         'Chain shirt' : 13, 
         'Scale mail' : 14, 
         'Breastplate' : 14, 
-        'Half Plate' : 15
+        'Half-plate' : 15
     },
     'heavy': {
         'Ring mail' : 14,
         'Chain mail' : 16,
-        'Splint' : 17,
-        'Plate' : 18
+        'Splint armor' : 17,
+        'Plate armor' : 18
+    },
+    'shields': {
+        'Shield' : 2
     }
 }
 
@@ -395,6 +398,7 @@ def loadmodule(filename, modulename=None):
             "allraces": races,
             "feats": feats,
             "traits": traits,
+            "armor": armor,
             "weapons": weapons,
             "spelllinkify": spelllinkify,
             "choose": choose,
@@ -624,7 +628,7 @@ class NPC:
                 text += ">* *Cantrips:* " + ",".join(map(lambda c: spelllinkify(c),self.cantripsknown)) + "\n"
             if len(self.perday.keys()) > 0:
                 if 'atwill' in self.perday:
-                    text += ">* *At Will:*"
+                    text += ">* *At Will:* " + ",".join(map(lambda c: spelllinkify(c), self.perday['atwill'])) + "\n"
                 for (key, val) in self.perday.items():
                     if key == 'atwill': continue
                     else:

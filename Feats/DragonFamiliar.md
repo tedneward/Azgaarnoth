@@ -1,5 +1,5 @@
 ## Dragon Familiar
-*Prerequisite: must be a spellcaster with the ability to have a familiar, such as a [Warlock: Pact of the Chain]() or a wizard with the [find familiar]() spell.*
+*Prerequisite: must be a spellcaster with the ability to have a familiar, such as a [Warlock: Pact of the Chain]() or a wizard with the [find familiar](../Magic/Spells/find-familiar.md) spell.*
 
 Your familiar can take the form of a dragon wyrmling. You may use the rules for keeping a psuedodragon as a familiar for your wyrmling, at the DM's discretion. The dragon you choose must be within one step of your alignment, and can have a Challenge Rating as high as your character level divided by 4. The DM has the dragon's statistics. 
 

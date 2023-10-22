@@ -58,10 +58,10 @@ def everylevel(npc): npc.hits('d8')
 
 ```
 def level1(npc):
-    npc.proficiencies.append("Light armor")
-    npc.proficiencies.append("Medium armor")
-    npc.proficiencies.append("Shields")
-    npc.proficiencies.append("Simple weapons")
+    for arm in armor['light'] | armor['medium'] | armor['heavy'] | armor['shields']:
+        npc.proficiencies.append(arm)
+    for wpn in weapons['simple-melee'] | weapons['simple-ranged']:
+        npc.proficiencies.append(wpn)
 
     npc.savingthrows.append('WIS')
     npc.savingthrows.append('CHA')

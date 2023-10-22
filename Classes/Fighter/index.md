@@ -67,9 +67,10 @@ def level1(npc):
     npc.savingthrows.append("STR")
     npc.savingthrows.append("CON")
 
-    npc.proficiencies.append("All armor and shields")
-    npc.proficiencies.append("Simple weapons")
-    npc.proficiencies.append("Martial weapons")
+    for arm in armor['light'] | armor['medium'] | armor['heavy'] | armor['shields']:
+        npc.proficiencies.append(arm)
+    for wpn in weapons['simple-melee'] | weapons['martial-melee'] | weapons['simple-ranged'] | weapons['martial-ranged']:
+        npc.proficiencies.append(wpn)
 
     skills = ['Acrobatics', 'Animal Handling', 'Athletics', 'History', 'Insight', 'Intimidation', 'Perception', 'Survival']
     chooseskill(npc, skills)
