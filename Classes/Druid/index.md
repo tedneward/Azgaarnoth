@@ -5,6 +5,11 @@ Druids follow the path of [Druidism](../../Religions/Druidism.md) and carve thei
 
 *You must have a Wisdom score of 13 or higher in order to multiclass in or out of this class.*
 
+```
+name = 'Druid'
+description = "***Class: Druid.*** Whether calling on the elemental forces of nature or emulating the creatures of the animal world, druids are an embodiment of nature's resilience, cunning, and fury. They claim no mastery over nature, but see themselves as extensions of nature's indomitable will."
+```
+
 ## Class features
 As a druid, you gain the following class features.
 
@@ -38,6 +43,10 @@ Level|Proficiency Bonus|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|Featu
 
 **Hit Points at Higher Levels**: 1d8 (or 5) + your Constitution modifier per druid level after 1st
 
+```
+def everylevel(npc): npc.hits('d8')
+```
+
 ### Proficiencies
 **Armor**: Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
 
@@ -49,6 +58,32 @@ Level|Proficiency Bonus|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|Featu
 
 **Skills**: Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival
 
+```
+def level1(npc):
+    for arm in armor['light']:
+        npc.proficiencies.append(arm)
+    npc.proficiencies.append('Hide armor')
+    npc.proficiencies.append('Shield')
+
+    npc.proficiencies.append('Club')
+    npc.proficiencies.append('Dagger')
+    npc.proficiencies.append('Dart')
+    npc.proficiencies.append('Javelin')
+    npc.proficiencies.append('Mace')
+    npc.proficiencies.append('Quarterstaff')
+    npc.proficiencies.append('Scimitar')
+    npc.proficiencies.append('Sickle')
+    npc.proficiencies.append('Sling')
+    npc.proficiencies.append('Spear')
+
+    npc.savingthrows.append('WIS')
+    npc.savingthrows.append('INT')
+
+    druidskills = ['Arcana', 'Animal Handling', 'Insight', 'Medicine', 'Nature', 'Perception', 'Religion', 'Survival']
+    chooseskill(npc, druidskills)
+    chooseskill(npc, druidskills)
+```
+
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -56,8 +91,20 @@ You start with the following equipment, in addition to the equipment granted by 
 * (a) a scimitar or (b) any simple melee weapon
 * Leather armor, an explorer's pack, and a druidic focus
 
+```
+    npc.equipment.append("Shield (wood) OR any simple weapon")
+    npc.equipment.append("Scimitar OR any simple melee weapon")
+    npc.armorclass['Leather armor'] = 11
+    npc.equipment.append("Explorer's pack")
+    npc.equipment.append("Druidic focus")
+```
+
 ### Druidic
 You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.
+
+```
+    npc.languages.append("Druidic")
+```
 
 ## Spellcasting
 *1st-level druid feature*
@@ -87,6 +134,16 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 ### Spellcasting Focus
 You can use a druidic focus as a spellcasting focus for your druid spells.
 
+```
+    sc = fullcaster(npc, 'WIS', name)
+
+    def spellcasting(npc): 
+        npc.spellcasting[name].maxcantripsknown = 3 if npc.levels(name) < 4 else 4 if npc.levels(name) < 10 else 5
+        npc.spellcasting[name].spellsprepared = npc.levels(name) + npc.WISbonus()
+
+    npc.defer(lambda npc: spellcasting(npc))
+```
+
 ## Wild Shape
 *2nd-level druid feature*
 
@@ -96,11 +153,11 @@ Your druid level determines the beasts you can transform into, as shown in the B
 
 **Beast Shapes**
 
-Level|Max. CR|Limitations|Example
------|-------|-----------|--------
-2nd|1/4|No flying or swimming speed|Wolf
-4th|1/2|No flying speed|Crocodile
-8th|1|Giant eagle|
+Level | Max. CR | Limitations | Example
+----- | ------- | ----------- | --------
+2nd   | 1/4     | No flying or swimming speed | Wolf
+4th   | 1/2     | No flying speed | Crocodile
+8th   |  1      | - | Giant eagle
 
 You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
 
@@ -116,12 +173,21 @@ While you are transformed, the following rules apply:
 
 * You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
+```
+def level2(npc):
+    npc.defer(lambda npc: npc.actions.append(f"***Wild Shape{' (2/Recharges on short or long rest)' if npc.levels('Druid') < 20 else ''}.*** You can magically assume the shape of a beast that you have seen before. You can transform into any beast that has a challenge rating of {'1/4' if npc.levels('Druid') < 4 else '1/2' if npc.levels('Druid') < 8 else '1'} or lower{'that has no flying or swimming speed' if npc.levels('Druid') < 4 else 'that has no flying speed' if npc.levels('Druid') < 8 else ''}. You can stay in a beast shape for {npc.levels('Druid') // 2} hours. You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.") )
+```
+
 ## Wild Companion
 *2nd-level druid feature*
 
 You gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the [find familiar](../../Magic/Spells/find-familiar.md) spell, without material components.
 
 When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after a number of hours equal to half your druid level.
+
+```
+    npc.defer(lambda npc: npc.actions.append(f"***Wild Companion.*** You can expend a use of your Wild Shape to cast {spelllinkify('find familiar')}, without material components. When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after {(npc.levels('Druid') + 1) // 2} hours.") )
+```
 
 ## Druid Circle
 At 2nd level, you choose to identify with a circle of druids:
@@ -144,8 +210,22 @@ At 2nd level, you choose to identify with a circle of druids:
 
 Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
+```
+    (_, subclass) = choose("Choose a subclass: ", subclasses)
+    npc.subclasses[allclasses['Druid']] = subclass
+    npc.description.append(subclass.description)
+```
+
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+```
+def level4(npc): abilityscoreimprovement(npc)
+def level8(npc): abilityscoreimprovement(npc)
+def level12(npc): abilityscoreimprovement(npc)
+def level16(npc): abilityscoreimprovement(npc)
+def level19(npc): abilityscoreimprovement(npc)
+```
 
 ## Cantrip Versatility
 *4th-level druid feature*
@@ -157,10 +237,19 @@ Whenever you reach a level in this class that grants the Ability Score Improveme
 
 The primal magic that you wield causes you to age more slowly. For every 10 years that pass, your body ages only 1 year.
 
+```
+def level18(npc):
+    npc.traits.append("***Timeless Body.*** The primal magic that you wield causes you to age more slowly. For every 10 years that pass, your body ages only 1 year.")
+```
+
 ## Beast Shapes
 *18th-level druid feature*
 
 You can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren't able to provide material components.
+
+```
+    npc.traits.append("***Beast Shapes.*** You can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren't able to provide material components.")
+```
 
 ## Archdruid
 *20th-level druid feature*
@@ -174,7 +263,6 @@ The following spells listed are known (but not necessarily accessible, depending
 
 > ### GM Notes
 > These are all the spells found in the *Player's Handbook*, with no additions. In game terms, these spells are always accessible for use by a druid.
-
 
 ## Cantrips
 * [druidcraft](../../Magic/Spells/druidcraft.md)

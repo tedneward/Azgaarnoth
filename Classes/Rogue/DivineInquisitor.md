@@ -7,7 +7,7 @@ An inquisitor is often seen as a divine assassin, an exorcist, and a heretic hun
 
 ```
 name = 'Divine Inquisitor'
-description = "Grim and determined, the inquisitor roots out enemies of the faith and faithful ─ both mundane and supernatural, using trickery and guile when righteousness and purity is not enough. Although inquisitors are dedicated to a deity, they are above many of the normal rules and conventions of the church. They answer to their deity and their own sense of justice alone, and are willing to take extreme measures to meet their goals."
+description = "***Roguish Archetype: Divine Inquisitor.*** Grim and determined, the inquisitor roots out enemies of the faith and faithful ─ both mundane and supernatural, using trickery and guile when righteousness and purity is not enough. Although inquisitors are dedicated to a deity, they are above many of the normal rules and conventions of the church. They answer to their deity and their own sense of justice alone, and are willing to take extreme measures to meet their goals."
 ```
 
 ## Bonus Proficiencies
@@ -87,61 +87,47 @@ You can cast a cleric spell you know as a ritual if that spell has the ritual ta
 You use a holy symbol as a spellcasting focus for your cleric spells.
 
 ```
-    npc.newspellcasting('Rogue', 'WIS')
-    npc.spellcasting['Rogue'].cantripsknown.append("vicious mockery")
-    npc.spellcasting['Rogue'].maxcantripsknown = 3
-    npc.spellcasting['Rogue'].maxspellsknown = 3
-    npc.spellcasting['Rogue'].slottable = {
-        3: [ 2 ], 
-        4: [ 3 ],
-        5: [ 3 ],
-        6: [ 3 ],
-        7: [ 4, 2 ],
-        8: [ 4, 2 ],
-        9: [ 4, 2 ],
-        10: [ 4, 3 ] ,
-        11: [ 4, 3 ],
-        12: [ 4, 3 ],
-        13: [ 4, 3, 2 ],
-        14: [ 4, 3, 2 ],
-        15: [ 4, 3, 2 ],
-        16: [ 4, 3, 3 ],
-        17: [ 4, 3, 3 ],
-        18: [ 4, 3, 3 ],
-        19: [ 4, 3, 3, 1 ],
-        20: [ 4, 3, 3, 1 ]
-    }
+    spellcasting = halfcaster(npc, 'WIS', name)
+    spellcasting.casterclass = allclasses['Rogue']
+
+    spellcasting.cantripsknown.append("mage hand")
+    spellcasting.maxcantripsknown = 3
+    spellcasting.maxspellsknown = 3
+
+    spellcasting.cantripsknown.append("vicious mockery")
+    spellcasting.maxcantripsknown = 3
+    spellcasting.maxspellsknown = 3
 
 def level4(npc):
-    npc.spellcasting['Rogue'].maxspellsknown = 4
+    npc.spellcasting[name].maxspellsknown = 4
 
 def level7(npc):
-    npc.spellcasting['Rogue'].maxspellsknown = 5
+    npc.spellcasting[name].maxspellsknown = 5
 
 def level8(npc):
-    npc.spellcasting['Rogue'].maxspellsknown = 6
+    npc.spellcasting[name].maxspellsknown = 6
 
 def level10(npc):
-    npc.spellcasting['Rogue'].maxcantripsknown = 4
-    npc.spellcasting['Rogue'].maxspellsknown = 7
+    npc.spellcasting[name].maxcantripsknown = 4
+    npc.spellcasting[name].maxspellsknown = 7
 
 def level11(npc):
-    npc.spellcasting['Rogue'].maxspellsknown = 8
+    npc.spellcasting[name].maxspellsknown = 8
 
 def level13(npc):
-    npc.spellcasting['Rogue'].maxspellsknown = 9
+    npc.spellcasting[name].maxspellsknown = 9
 
 def level14(npc):
-    npc.spellcasting['Rogue'].maxspellsknown = 10
+    npc.spellcasting[name].maxspellsknown = 10
 
 def level16(npc):
-    npc.spellcasting['Rogue'].maxspellsknown = 11
+    npc.spellcasting[name].maxspellsknown = 11
 
 def level19(npc):
-    npc.spellcasting['Rogue'].maxspellsknown = 12
+    npc.spellcasting[name].maxspellsknown = 12
 
 def level20(npc):
-    npc.spellcasting['Rogue'].maxspellsknown = 13
+    npc.spellcasting[name].maxspellsknown = 13
 ```
 
 ## Occult Lore
@@ -163,7 +149,7 @@ In addition, if your target is invisible or shapechanged when you use the Judgme
 
 ```
 def level13(npc):
-    npc.defer(lambda npc: npc.traits.append(f"***Greater Judgment.*** Your Judgment grows stronger and you ignore any damage resistances the target of your judgment might have, and treat any of its damage immunities as damage resistances instead. This ability does not overlap with itself. Also, you can now use your Judgment even if you don't have a line of sight to your target, as long as you know the target's location. In addition, if your target is invisible or shapechanged when you use the Judgment, it must make a Wisdom saving throw (DC {npc.spellcasting['Rogue'].spellsavedc()}) at the start of each of its turns. On a failure either effect is suppressed until the Judgment ends, and the target cannot turn invisible or change shape for the duration."))
+    npc.defer(lambda npc: npc.traits.append(f"***Greater Judgment.*** Your Judgment grows stronger and you ignore any damage resistances the target of your judgment might have, and treat any of its damage immunities as damage resistances instead. This ability does not overlap with itself. Also, you can now use your Judgment even if you don't have a line of sight to your target, as long as you know the target's location. In addition, if your target is invisible or shapechanged when you use the Judgment, it must make a Wisdom saving throw (DC {npc.spellcasting[name].spellsavedc()}) at the start of each of its turns. On a failure either effect is suppressed until the Judgment ends, and the target cannot turn invisible or change shape for the duration."))
 ```
 
 ## Final Judgment
@@ -175,5 +161,5 @@ You can use this ability once before you must finish a long rest to be able to u
 
 ```
 def level17(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Final Judgment (Recharges on long rest).*** You pray to your deity for a final judgment. This ends the Judgment on your target, but it must succeed on a Charisma Saving Throw against DC {npc.spellcasting['Rogue'].spellsavedc()}. On a failed save, the target takes radiant damage equal to double your sneak attack damage. On a successful save the target takes only half damage."))
+    npc.defer(lambda npc: npc.actions.append(f"***Final Judgment (Recharges on long rest).*** You pray to your deity for a final judgment. This ends the Judgment on your target, but it must succeed on a Charisma Saving Throw against DC {npc.spellcasting[name].spellsavedc()}. On a failed save, the target takes radiant damage equal to double your sneak attack damage. On a successful save the target takes only half damage."))
 ```

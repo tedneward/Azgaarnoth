@@ -63,11 +63,10 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 
 ```
 def level3(npc):
-    spellcasting = halfcaster(npc, 'INT')
+    spellcasting = halfcaster(npc, 'INT', name)
     spellcasting.casterclass = allclasses['Fighter']
     spellcasting.maxcantripsknown = 2
     spellcasting.maxspellsknown = 3
-    npc.spellcasting['Fighter'] = spellcasting
 ```
 
 ## Weapon Bond
@@ -84,7 +83,7 @@ You can have up to two bonded weapons, but can summon only one at a time with yo
     npc.bonusactions.append("***Summon Bonded Weapon.*** You can summon one of your bonded weapons, causing it to teleport instantly to your hand.")
 
 def level4(npc):
-    npc.spellcasting['Fighter'].maxspellsknown += 1
+    npc.spellcasting[name].maxspellsknown += 1
 ```
 
 ## War Magic
@@ -95,9 +94,9 @@ When you use your action to cast a cantrip, you can make one weapon attack as a 
 ```
 def level7(npc):
     npc.bonusactions.append("***War Magic.*** When you use your action to cast a cantrip, you can make one weapon attack as a bonus action.")
-    npc.spellcasting['Fighter'].maxspellsknown += 1
+    npc.spellcasting[name].maxspellsknown += 1
 def level8(npc):
-    npc.spellcasting['Fighter'].maxspellsknown += 1
+    npc.spellcasting[name].maxspellsknown += 1
 ```
 
 ## Eldritch Strike
@@ -108,14 +107,14 @@ You learn how to make your weapon strikes undercut a creature's resistance to yo
 ```
 def level10(npc):
     npc.traits.append("***Eldritch Strike.*** When you hit a creature with a weapon attack, that creature has disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn.")
-    npc.spellcasting['Fighter'].maxspellsknown += 1
+    npc.spellcasting[name].maxspellsknown += 1
 
 def level11(npc):
-    npc.spellcasting['Fighter'].maxspellsknown += 1
+    npc.spellcasting[name].maxspellsknown += 1
 def level13(npc):
-    npc.spellcasting['Fighter'].maxspellsknown += 1
+    npc.spellcasting[name].maxspellsknown += 1
 def level14(npc):
-    npc.spellcasting['Fighter'].maxspellsknown += 1
+    npc.spellcasting[name].maxspellsknown += 1
 ```
 
 ## Arcane Charge
@@ -131,7 +130,7 @@ def level15(npc):
     npc.defer(lambda npc: replace("***Action Surge", npc.traits, f"({'2/' if npc.levels('Fighter') > 16 else ''}Recharges on short or long rest).*** On your turn, you can take one additional action on top of your regular action and a possible bonus action. When you use this, you can teleport up to 30 feet to an unoccupied space you can see. You can teleport before or after the additional action.") )
 
 def level16(npc):
-    npc.spellcasting['Fighter'].maxspellsknown += 1
+    npc.spellcasting[name].maxspellsknown += 1
 ```
 
 ## Improved War Magic
@@ -143,7 +142,7 @@ When you use your action to cast a spell, you can make one weapon attack as a bo
 def level18(npc):
     replace("***War Magic", npc.bonusactions, ".*** When you use your action to cast a cantrip or spell, you can make one weapon attack as a bonus action.")
 def level19(npc):
-    npc.spellcasting['Fighter'].maxspellsknown += 1
+    npc.spellcasting[name].maxspellsknown += 1
 def level20(npc):
-    npc.spellcasting['Fighter'].maxspellsknown += 1
+    npc.spellcasting[name].maxspellsknown += 1
 ```

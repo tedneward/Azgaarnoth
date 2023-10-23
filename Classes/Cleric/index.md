@@ -58,10 +58,10 @@ def everylevel(npc): npc.hits('d8')
 
 ```
 def level1(npc):
-    npc.proficiencies.append("Light armor")
-    npc.proficiencies.append("Medium armor")
-    npc.proficiencies.append("Shields")
-    npc.proficiencies.append("Simple weapons")
+    for arm in armor['light'] | armor['medium'] | armor['heavy'] | armor['shields']:
+        npc.proficiencies.append(arm)
+    for wpn in weapons['simple-melee'] | weapons['simple-ranged']:
+        npc.proficiencies.append(wpn)
 
     npc.savingthrows.append('WIS')
     npc.savingthrows.append('CHA')
@@ -119,28 +119,6 @@ Wisdom is your spellcasting ability for your cleric spells. The power of your sp
 ```
     sc = fullcaster(npc, 'WIS', 'Cleric')
     sc.casterclass = allclasses['Cleric']
-    sc.slottable = {
-        1: [ 2 ],
-        2: [ 3 ],
-        3: [ 4, 2 ], 
-        4: [ 4, 3 ],
-        5: [ 4, 3, 2 ],
-        6: [ 4, 3, 3 ],
-        7: [ 4, 3, 3, 1 ],
-        8: [ 4, 3, 3, 2 ],
-        9: [ 4, 3, 3, 3, 1 ],
-        10: [ 4, 3, 3, 3, 2] ,
-        11: [ 4, 3, 3, 3, 2, 1 ],
-        12: [ 4, 3, 3, 3, 2, 1 ],
-        13: [ 4, 3, 3, 3, 2, 1, 1 ],
-        14: [ 4, 3, 3, 3, 2, 1, 1 ],
-        15: [ 4, 3, 3, 3, 2, 1, 1, 1 ],
-        16: [ 4, 3, 3, 3, 2, 1, 1, 1 ],
-        17: [ 4, 3, 3, 3, 2, 1, 1, 1, 1 ],
-        18: [ 4, 3, 3, 3, 3, 1, 1, 1, 1 ],
-        19: [ 4, 3, 3, 3, 3, 2, 1, 1, 1 ],
-        20: [ 4, 3, 3, 3, 3, 2, 2, 1, 1 ]
-    }
 
     def spellcasting(npc): 
         npc.spellcasting[name].maxcantripsknown = 3 if npc.levels(name) < 4 else 4 if npc.levels(name) < 10 else 5
@@ -213,6 +191,7 @@ Your choice grants you domain spells and other features when you choose it at 1s
     (_, subclass) = choose("Choose a domain: ", subclasses)
     npc.subclasses[allclasses['Cleric']] = subclass
     npc.description.append(subclass.description)
+    subclass.spellcasting = npc.spellcasting[name]
 ```
 
 ## Domain Spells
@@ -235,7 +214,7 @@ Beginning at 6th level, you can use your [Channel Divinity](#channel-divinity) t
 
 ```
 def level2(npc):
-    npc.defer(lambda npc: npc.traits.append(f"***Channel Divinity ({'' if npc.levels('Cleric') < 6 else '2/' if npc.levels('Cleric') < 18 else '3'}Recharges on short or long rest).*** See below for the details of each use."))
+    npc.defer(lambda npc: npc.traits.append(f"***Channel Divinity ({'' if npc.levels('Cleric') < 6 else '2/' if npc.levels('Cleric') < 18 else '3/'}Recharges on short or long rest).*** See below for the details of each use."))
 ```
 
 ## Channel Divinity: Turn Undead

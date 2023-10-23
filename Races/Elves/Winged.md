@@ -11,7 +11,7 @@ Scholars who have (supposedly) studied the *avariel* have reported a general dis
 
 ```
 name = 'Winged'
-description = "***Winged Elf.*** The *avariel* are generally lighter in stature and size, often up to a full foot shorter than the average high or wood elf, and much lither of form. Their wings can be folded to curl up close to their backs, which if covered with clothing, could allow them to pass for another form of elf, though not under any sort of detailed scrutiny. (Most *avariel* don't like hiding their wings anyway, feeling it to be constricting and claustrophobic.) Generally they wear light clothing, though when flying at high altitudes will wrap themselves in furs or other insulating clothing to help with the chill of the high altitudes."
+description = "***Subrace: Winged Elf.*** The *avariel* are generally lighter in stature and size, often up to a full foot shorter than the average high or wood elf, and much lither of form. Their wings can be folded to curl up close to their backs, which if covered with clothing, could allow them to pass for another form of elf, though not under any sort of detailed scrutiny. (Most *avariel* don't like hiding their wings anyway, feeling it to be constricting and claustrophobic.) Generally they wear light clothing, though when flying at high altitudes will wrap themselves in furs or other insulating clothing to help with the chill of the high altitudes."
 def level0(npc):
   npc.description.append("***Flight.*** To use your wings to fly, you can’t be wearing medium or heavy armor.")
 

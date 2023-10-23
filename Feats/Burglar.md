@@ -11,5 +11,5 @@ def prereq(npc): return True
 def apply(npc):
     npc.DEX += 1
 
-    npc.addskillorexpertise("Theives' tools")
+    npc.addskillorexpertise("Thieves' tools")
 ```

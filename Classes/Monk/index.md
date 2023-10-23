@@ -56,6 +56,7 @@ def everylevel(npc): npc.hits('d8')
 
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
+
 * (a) a shortsword or (b) any simple weapon
 * (a) a dungeoneer's pack or (b) an explorer's pack
 * 10 darts
@@ -65,7 +66,8 @@ def level1(npc):
     npc.savingthrows.append("STR")
     npc.savingthrows.append("DEX")
 
-    npc.proficiencies.append("Simple weapons")
+    for wpn in weapons['simple-melee'] | weapons['simple-ranged']:
+        npc.proficiencies.append(wpn)
     npc.proficiencies.append("Shortsword")
     npc.proficiencies.append("One type of artisan's tools or musical instrument")
 

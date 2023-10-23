@@ -5,7 +5,7 @@ As a bright elf, your body and soul are infused with light. A bright elf's skin 
 
 ```
 name = 'Bright'
-description = "***Bright Elf.*** As a bright elf, your body and soul are infused with light. A bright elf's skin is bronze, silvery, pearly, or pale white, and their hair is golden blond, platinum blond, or silvery white. Their eyes are usually golden or silvery gray, with streaks of white radiating from their pupils like a starburst."
+description = "***Subrace: Bright Elf.*** As a bright elf, your body and soul are infused with light. A bright elf's skin is bronze, silvery, pearly, or pale white, and their hair is golden blond, platinum blond, or silvery white. Their eyes are usually golden or silvery gray, with streaks of white radiating from their pupils like a starburst."
 ```
 
 * **Ability Score Increase.** One ability score of your choice other than Dexterity increases by 1.

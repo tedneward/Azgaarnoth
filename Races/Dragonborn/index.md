@@ -3,7 +3,7 @@
 
 ```
 name = 'Dragonborn'
-description = "***Race: Dragonborn.*** "
+description = "***Race: Dragonborn.*** Born of dragons, as their name proclaims, the dragonborn walk proudly through a world that greets them with fearful incomprehension. Shaped by draconic gods or the dragons themselves, dragonborn originally hatched from dragon eggs as a unique race, combining the best attributes of dragons and humanoids. Some dragonborn are faithful servants to true dragons, others form the ranks of soldiers in great wars, and still others find themselves adrift, with no clear calling in life."
 type = 'humanoid'
 ```
 
@@ -30,7 +30,7 @@ def level0(npc):
 ```
 
 ## Draconic Ancestry
-You are distantly related to a particular kind of dragon. Choose a type of dragon; this determines a variety of characteristics about your abilities.
+You are distantly related to a particular kind of dragon. Choose a type of dragon; this determines a variety of characteristics about your abilities. However, despite the general characteristics of a particular color of dragonborn, you are always free to establish your own characteristics (a noble and contemplative red, for example, or a selfish and violent gold.)
 
 Dragonborn of chromatic colors are often chaotic, prone to violence, and sometimes selfish.
 
@@ -44,7 +44,11 @@ Dragonborn of chromatic colors are often chaotic, prone to violence, and sometim
 
 Dragonborn of gemstone colors are often quiet, contemplative, and aloof.
 
-
+* [Amethyst](Amethyst.md)
+* [Crystal](Crystal.md)
+* [Emerald](Emerald.md)
+* [Sapphire](Sapphire.md)
+* [Topaz](Topaz.md)
 
 Dragonborn of metallic colors are often law-abiding, slow to anger, and sometimes so noble you want to punch them in their perfect teeth.
 
@@ -54,3 +58,15 @@ Dragonborn of metallic colors are often law-abiding, slow to anger, and sometime
 * [Gold](Gold.md)
 * [Silver](Silver.md)
 * [Steel](Steel.md)
+
+## Names
+Dragonborn have personal names given at birth, but they put their clan names first as a mark of honor. A childhood name or nickname is often used among clutchmates as a descriptive term or a term of endearment. The name might recall an event or center on a habit.
+
+**Male Names:** Arjhan, Balasar, Bharash, Donaar, Ghesh, Heskan, Kriv, Medrash, Mehen, Nadarr, Pandjed, Patrin, Rhogar, Shamash, Shedinn, Tarhun, Torinn
+
+**Female Names:** Akra, Biri, Daar, Farideh, Harann, Havilar, Jheri, Kava, Korinn, Mishann, Nala, Perra, Raiann, Sora, Surina, Thava, Uadjit
+
+**Childhood Names:** Climber, Earbender, Leaper, Pious, Shieldbiter, Zealous
+
+**Clan Names:** Clethtinthiallor, Daardendrian, Delmirev, Drachedandion, Fenkenkabradon, Kepeshkmolik, Kerrhylon, Kimbatuul, Linxakasendalor, Myastan, Nemmonis, Norixius, Ophinshtalajiir, Prexijandilin, Shestendeliath, Turnuroth, Verthisathurgiesh, Yarjerit
+

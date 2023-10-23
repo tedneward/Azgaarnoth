@@ -30,9 +30,16 @@ Whenever you finish a long rest, your Psionic Talent die resets to its starting 
 
 ```
 def level3(npc):
-    npc.defer(lambda npc: npc.traits.append(f"***Psionic Talent (Recharges on long rest).*** Your Psionic Talent die starts as a {'d6' if npc.levels('Rogue') < 5 else 'd8' if npc.levels('Rogue') < 11 else 'd10' if npc.levels('Rogue') < 17 else 'd12'}. If you roll the highest number on your Psionic Talent die, it decreases by one die size after the roll. Conversely, if you roll a 1 on your Psionic Talent die, it increases by one die size after the roll, up to its starting size. Whenever you finish a long rest, your Psionic Talent die resets to its starting size."))
+    npc.psionicdie = 'd0'
+
+    def setpsidice(npc): 
+        npc.psionicdie = 'd6' if npc.levels('Rogue') < 5 else 'd8' if npc.levels('Rogue') < 11 else 'd10' if npc.levels('Rogue') < 17 else 'd12'
+    npc.defer(lambda npc: setpsidice(npc) )
+
+    npc.defer(lambda npc: npc.traits.append(f"***Psionic Talent (Recharges on long rest).*** Your Psionic Talent die starts as a {npc.psionicdie}. If you roll the highest number on your Psionic Talent die, it decreases by one die size after the roll. Conversely, if you roll a 1 on your Psionic Talent die, it increases by one die size after the roll, up to its starting size. Whenever you finish a long rest, your Psionic Talent die resets to its starting size."))
 
     npc.traits.append("***Psi-Bolstered Knack.*** When your non-psionic training fails you, you can tap into your psionic power to help: if you fail an ability check using a skill or tool with which you have proficiency, you can roll your Psionic Talent die and add the number rolled to the check, potentially turning failure into success.")
+
     npc.traits.append("***Psychic Whispers.*** You can use your psychic abilities to establish telepathic communication between yourself and others--perfect for quiet infiltration. As an action, you give yourself and at least one other creature the ability to speak telepathically with each other. When you do so, roll your Psionic Talent die, and choose creatures you can see, up to a number of creatures equal to the number rolled. For 1 hour, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can't use this telepathy if it can't speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don't need to speak a common language to understand each other.")
 ```
 
@@ -45,8 +52,11 @@ After you attack with the blade, you can make a melee or ranged weapon attack wi
 
 ```
     npc.defer(lambda npc: npc.actions.append(f"***Psychic Blade.*** Melee Weapon Attack: +{npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5ft., one target. Hit: 1d6 + {npc.STRbonus()} psychic damage. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage. After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it."))
+
     npc.defer(lambda npc: npc.actions.append(f"***Psychic Blade (Thrown).*** Ranged Weapon Attack: +{npc.proficiencybonus() + npc.DEXbonus()} to hit, Range 20/60, one target. Hit: 1d6 + {npc.DEXbonus()} psychic damage. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage. After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it."))
+
     npc.defer(lambda npc: npc.bonusactions.append(f"***Psychic Blade.*** Melee Weapon Attack: +{npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5ft., one target. Hit: 1d4 + {npc.STRbonus()} psychic damage"))
+
     npc.defer(lambda npc: npc.bonusactions.append(f"***Psychic Blade (Thrown).*** Ranged Weapon Attack: +{npc.proficiencybonus() + npc.DEXbonus()} to hit, Range 20/60, one target. Hit: 1d4 + {npc.DEXbonus()} psychic damage"))
 ```
 
@@ -61,6 +71,7 @@ Your Psychic Blades are now an expression of your psi-suffused soul, giving you 
 ```
 def level9(npc):
     npc.traits.append("***Homing Strikes.*** If you make an attack roll with your Psychic Blades and miss the target, you can roll your Psionic Talent die and add the number rolled to the attack roll. If this causes the attack to hit, your Psionic Talent die decreases by one die size, regardless of the number rolled.")
+
     npc.bonusactions.append("***Psychic Teleportation.*** If your Psionic Talent die is available, you can hurl your Psychic Blades to magically transport yourself to another location by manifesting one of your Psychic Blades and throwing it at an unoccupied space you can see, up to a number of feet away equal to 5 times the highest number on your Psionic Talent die. You then teleport to that space, the blade vanishes, and your Psionic Talent die decreases by one die size.")
 ```
 
