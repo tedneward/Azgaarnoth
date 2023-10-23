@@ -1063,10 +1063,10 @@ class NPC:
             ideals = [
                 "Beauty", "Charity", "Greater good", "Life", "Respect", "Self-sacrifice",
                 "Domination", "Greed", "Might", "Pain", "Retribution", "Slaughter",
-                "Community", "Fairness", "Honor", "Logic", "Responsibility", "Tradition",
                 "Change", "Creativity", "Freedom", "Independence", "No limits", "Whimsy",
                 "Balance", "Knowledge", "Live and let live", "Moderation", "Neutrality", "People",
-                "Aspiration", "Discovery", "Glory", "Nation", "Redemption", "Self-knowledge"
+                "Aspiration", "Discovery", "Glory", "Nation", "Redemption", "Self-knowledge",
+                "Community", "Fairness", "Honor", "Logic", "Responsibility", "Tradition",
             ]
             return ideals[random.randint(0, len(ideals)-1)]
         
@@ -1164,7 +1164,7 @@ class NPC:
                 result += f">{equip}\n"
                 result +=  ">\n"
         result += "\n#### Description\n"
-        result += f"Ideals: {genideal()}, {genideal()}, {genideal()}\n\n"
+        result += f"Ideals: {genideal()}/{genideal()}/{genideal()}\n\n"
         result += f"Appearance: {genappearance()}\n\n"
         result += f"Talents: {gentalent()}\n\n"
         result += f"Mannerisms: {genmannerism()}\n\n"

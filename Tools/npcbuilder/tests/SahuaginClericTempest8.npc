@@ -1,8 +1,8 @@
 Gender,random,Ability Scores,Hand,13,11,12,12,13,9,Race,Sahuagin,Cleric,Medicine,Religion,Tempest,Yes
 Cleric,Yes
 Cleric,Yes
-Cleric,Ability,WIS,CON,Yes
+Cleric,Feat,Elemental Adept,lightning,Yes
 Cleric,Yes
 Cleric,Yes
 Cleric,Yes
-Cleric,Ability,WIS,CON,No
+Cleric,Feat,Elemental Touched,WIS,thaumaturgy,No

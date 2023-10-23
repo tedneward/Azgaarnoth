@@ -13,5 +13,6 @@ def prereq(npc): return True
 def apply(npc):
     npc.STR += 1
 
-    npc.proficiencies.append("Heavy armor")
+    for arm in armor['heavy']:
+        npc.proficiencies.append(arm)
 ```
