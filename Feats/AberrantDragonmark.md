@@ -38,11 +38,12 @@ You gain the following benefits.
 
 ```
 def apply(npc):
-    npc.CON += 20
-    spellcasting = npc.newspellcasting('AberrantDragonmark', 'CON')
+    npc.CON += 1
+
+    spellcasting = innatecaster(npc, 'CON', name)
     spellcasting.cantripsknown.append("CHOOSE-Sorcerer")
-    spellcasting.spellsknown.append("CHOOSE-Sorcerer1")
-    spellcasting.slots = [ 1 ]
+    spellcasting.perday[1] = [ "CHOOSE-Sorcerer-1st" ]
+
     npc.traits.append("***Aberrant Mark Metamagic.*** When you cast a spell with your aberrant mark, you can use one of your Hit Die to increase the spell's level by 1. Immediately after you cast the spell, roll the Hit Die. You take damage equal to the number rolled.")
 
     flaws = [

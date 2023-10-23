@@ -9,7 +9,7 @@ Fortune favors you when someone tries to strike you. You gain the following bene
 ```
 name = 'Second Chance'
 description = "***Feat: Second Chance.*** Fortune favors you when someone tries to strike you."
-def prereq(npc): return True if npc.name == 'Halfling' else False
+def prereq(npc): return True if npc.race.name == 'Halfling' else False
 def apply(npc):
     chooseability(npc, ['DEX', 'CON', 'CHA'])
 

@@ -1,6 +1,6 @@
 Gender,random,Ability Scores,Average,Race,Dwarf,Brewer's Supplies,Warding,Rogue,Acrobatics,Athletics,Deception,Insight,Acrobatics,Athletics,Yes
 Rogue,Yes
-Rogue,Assassin,Yes
+Rogue,Swashbuckler,Yes
 Rogue,Ability,CON,CON,Yes
 Rogue,Yes
 Rogue,Deception,Insight,Yes
@@ -16,5 +16,5 @@ Rogue,Yes
 Rogue,Ability,DEX,DEX,Yes
 Rogue,Yes
 Rogue,Yes
-Rogue,Ability,CON,DEX,Yes
+Rogue,Feat,Aberrant Dragonmark,Yes
 Rogue,No

@@ -11,7 +11,7 @@ Choose one skill in which you have proficiency. You gain expertise with that ski
 name = 'Prodigy'
 description = "***Feat: Prodigy.*** You have a knack for learning new things."
 def prereq(npc):
-    if npc.name == 'Half-Elf' or npc.name == 'Half-Orc' or npc.name == 'Human':
+    if npc.race.name == 'Half-Elf' or npc.race.name == 'Half-Orc' or npc.race.name == 'Human':
         return True
     else:
         return False
