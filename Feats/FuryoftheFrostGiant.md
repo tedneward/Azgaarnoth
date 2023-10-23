@@ -17,6 +17,6 @@ def apply(npc):
 
     npc.damageresistances.append('cold')
 
-    npc.defer(lambda npc: npc.reactions.append(f"***Frigid Retaliation ({npc.proficiencybonus()}/Recharges on long rest).*** Immediately after a creature you can see within 30 feet of you hits you with an attack roll and deals damage, you can retaliate with a conjured blast of ice. The creature must make a Constitution saving throw (DC {8 + npc.proficiencybonus + npc.abilitybonus(ability)}). On a failed save, a creature takes 1d8 + {npc.proficiencybonus()} cold damage, and its speed is halved until the end of its next turn.") )
+    npc.defer(lambda npc: npc.reactions.append(f"***Frigid Retaliation ({npc.proficiencybonus()}/Recharges on long rest).*** Immediately after a creature you can see within 30 feet of you hits you with an attack roll and deals damage, you can retaliate with a conjured blast of ice. The creature must make a Constitution saving throw (DC {8 + npc.proficiencybonus() + npc.abilitybonus(ability)}). On a failed save, a creature takes 1d8 + {npc.proficiencybonus()} cold damage, and its speed is halved until the end of its next turn.") )
 ```
 

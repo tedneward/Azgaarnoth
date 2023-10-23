@@ -824,7 +824,9 @@ class NPC:
         def dupecheck(srclist, thingtype):
             newlist = []
             for thing in srclist:
-                if thing in newlist:
+                if "CHOOSE" in thing:
+                    newlist.append(thing)
+                elif thing in newlist:
                     warn(f"Duplicate {thingtype}:" + thing)
                 else:
                     newlist.append(thing)

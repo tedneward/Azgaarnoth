@@ -15,5 +15,5 @@ def prereq(npc):
 def apply(npc):
     ability = chooseability(npc, ['STR', 'CON', 'WIS'])
     npc.damageresistances.append('fire')
-    npc.defer(lambda npc: npc.actions.append(f"***Attack: Searing Ignition ({npc.proficiencybonus()}/Recharges on long rest).*** When you take the Attack action on your turn, you can replace a single attack with a magical burst of flame. Each creature of your choice within 15 feet of you that can see you must make a Dexterity saving throw (DC {8 + npc.proficiencybonus + npc.abilitybonus(ability)}). On a failed save, a creature takes 1d8 + {npc.proficiencybonus()} fire damage, and it is blinded until the start of your next turn. On a successful save, the creature takes half damage and isn't blinded.") )
+    npc.defer(lambda npc: npc.actions.append(f"***Attack: Searing Ignition ({npc.proficiencybonus()}/Recharges on long rest).*** When you take the Attack action on your turn, you can replace a single attack with a magical burst of flame. Each creature of your choice within 15 feet of you that can see you must make a Dexterity saving throw (DC {8 + npc.proficiencybonus() + npc.abilitybonus(ability)}). On a failed save, a creature takes 1d8 + {npc.proficiencybonus()} fire damage, and it is blinded until the start of your next turn. On a successful save, the creature takes half damage and isn't blinded.") )
 ```
