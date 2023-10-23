@@ -78,7 +78,7 @@ Once you take this bonus action, you can't do so again until you finish a long r
 
 ```
 def level15(npc):
-    npc.bonusactions.append("***Bulwark of Force (Recharges on long rest or Psionic Energy die).*** You can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you're incapacitated.")
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Bulwark of Force (Recharges on long rest or Psionic Energy die).*** You can choose up to {npc.INTbonus()} creatures, which can include you, that you can see within 30 feet of you. Each of the chosen creatures is protected by half cover for 1 minute or until you're incapacitated.") )
 ```
 
 ## Telekinetic Master

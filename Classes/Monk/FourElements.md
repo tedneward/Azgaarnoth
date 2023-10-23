@@ -23,7 +23,7 @@ Once you reach 5th level in this class, you can spend additional ki points to in
 
 ```
 def level5(npc):
-    npc.defer(lambda npc: npc.traits.append("***Ki: Fueling Elemental Disciplines.*** You can spend up to {3 if npc.levels('Monk') < 8 else 4 if npc.levels('Monk') < 12 else 5 if npc.levels('Monk') < 16 else 6} ki points to increase the level of an elemental discipline spell that you cast, provided that the spell has an enhanced effect at a higher level. The spell's level increases by 1 for each additional ki point you spend.") )
+    npc.defer(lambda npc: npc.traits.append(f"***Ki: Fueling Elemental Disciplines.*** You can spend up to the (total) maximum of {3 if npc.levels('Monk') < 8 else 4 if npc.levels('Monk') < 12 else 5 if npc.levels('Monk') < 16 else 6} ki points to increase the level of an elemental discipline spell that you cast, provided that the spell has an enhanced effect at a higher level. The spell's level increases by 1 for each additional ki point you spend.") )
 ```
 
 The maximum number of ki points you can spend to cast a spell in this way (including its base ki point cost and any additional ki points you spend to increase its level) is determined by your monk level, as shown in the Spells and Ki Points table.

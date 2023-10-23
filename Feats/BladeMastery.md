@@ -11,6 +11,6 @@ description = "***Feat: Blade Mastery.*** You master the shortsowrd, longsword, 
 def prereq(npc): return True
 def apply(npc):
     npc.actions.append("***TODO: Apply +1 to any attack rolls with shortsword, longsword, scimitar, rapier, and greatsword.")
-    npc.reactions.append("***Blade Mastery.*** You can assume a parrying stance, provided you have the weapon in hand; doing so grants a +1 bonus to AC until the start of your next turn or until you're not holding the weapon.")
-    npc.traits.append("***Blade Mastery.*** When you make an opportunity attack with a blade, you have advantage on the attack roll.")
+    npc.reactions.append("***Blade Mastery: Parry.*** You can assume a parrying stance, provided you have the weapon in hand; doing so grants a +1 bonus to AC until the start of your next turn or until you're not holding the weapon.")
+    npc.reactions.append("***Blade Mastery: Opportunity Attack.*** When you make an opportunity attack with a blade, you have advantage on the attack roll.")
 ```

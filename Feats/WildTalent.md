@@ -23,13 +23,17 @@ name = 'Wild Talent'
 description = "***Feat: Wild Talent.*** You awaken to your psionic potential, which enhances your mind or body."
 def prereq(npc): return True
 def apply(npc):
-    chooseability(npc)
+    ability = chooseability(npc)
 
-    npc.psionicdie = 'd0'
+    if getattr(npc, 'psionicdie', None) == None:
+        npc.psionicdie = 'd0'
+
+    npc.traits.append(f"***Psi-Boosted Ability.*** When you make a {ability} ability check, you can roll your Psionic Talent die and add the number rolled to the check. You can choose to do so before or after rolling the d20, but before you know whether the check succeeded or failed.")
+    npc.traits.append(f"***Psi-Guided Strike.*** Once on each of your turns when you hit with an attack roll that uses {ability}, you can roll your Psionic Talent die after you make the damage roll and then replace one of the damage dice with the number rolled on the Psionic Talent die.")
 
     def supplementpsi(npc):
         dielevels = ['d4','d6','d8','d10','d12','d20']
-        if getattr(npc, 'psionicdie', None) == None:
+        if npc.psionicdie == 'd0':
             npc.psionicdie = 'd6' if npc.levels() < 5 else 'd8' if npc.levels() < 11 else 'd10' if npc.levels() < 17 else 'd12'
 
             npc.defer(lambda npc: npc.traits.append(f"***Psionic Talent (Recharges on long rest).*** You also harbor a wellspring of psionic power within yourself, an energy that ebbs and flows as you channel it in various ways. This power is represented by your Psionic Talent die, the starting size of which is a {npc.psionicdie}. If you roll the highest number on your Psionic Talent die, it decreases by one die size after the roll, and if the die size is d4 when it decreases, your Psionic Talent becomes unusuable until after a long rest. Conversely, if you roll a 1 on your Psionic Talent die, it increases by one die size after the roll, up to its starting size."))
