@@ -20,7 +20,7 @@ The maximum number of ki points you can spend to cast a spell in this way (inclu
 
 Monk Levels|Maximum Ki Points for a Spell
 -----------|-----------------------------
-5th-8th     |3
-9th-12th	|4
-13th-16th	|5
-17th-20th	|6
+5th-8th    |3
+9th-12th	 |4
+13th-16th	 |5
+17th-20th	 |6
