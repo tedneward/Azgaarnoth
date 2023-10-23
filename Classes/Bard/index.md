@@ -192,7 +192,7 @@ def level2(npc):
 You can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
 
 ```
-    npc.defer(lambda npc: npc.traits.append("***Jack of All Trades.*** You can add {npc.proficiencybonus() // 2} to any ability check you make that doesn't already include your proficiency bonus.") )
+    npc.defer(lambda npc: npc.traits.append(f"***Jack of All Trades.*** You can add {npc.proficiencybonus() // 2} to any ability check you make that doesn't already include your proficiency bonus.") )
 ```
 
 ## Song of Rest
@@ -286,7 +286,7 @@ You learn two additional spells from any class at 14th level and again at 18th l
 
 ```
 def level10(npc):
-    pass
+    npc.traits.append("***Magical Secrets.*** You have plundered magical knowledge from a wide spectrum of disciplines. Two of your known spells at 10th level, two more at 14th level, and two more at 18th level can be from any classes, including this one.")
 ```
 
 ## Superior Inspiration

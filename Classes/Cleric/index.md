@@ -191,6 +191,7 @@ Your choice grants you domain spells and other features when you choose it at 1s
     (_, subclass) = choose("Choose a domain: ", subclasses)
     npc.subclasses[allclasses['Cleric']] = subclass
     npc.description.append(subclass.description)
+    subclass.spellcasting = npc.spellcasting[name]
 ```
 
 ## Domain Spells

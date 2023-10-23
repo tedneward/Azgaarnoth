@@ -15,6 +15,7 @@ def apply(npc):
 
     npc.proficiencies.append("Cook's utensils")
 
-    npc.traits.append("***Chef: Short rest.*** You can cook special food, provided you have ingredients and cook's utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 + your proficiency bonus. At the end of the short rest, any creature who eats the food and spends one or more Hit Dice to regain hit points regains an extra 1d8 hit points.")
-    npc.defer(lambda npc: npc.traits.append(f"***Chef: Long rest.*** With one hour of work or when you finish a long rest, you can cook a number of treats equal to your proficiency bonus. These special treats last 8 hours after being made. Any creature eating one of those treats (using a bonus action) gains {npc.proficiencybonus()} temporary hit points.") )
+    npc.defer(lambda npc: npc.traits.append(f"***Chef: Short rest.*** You can cook special food, provided you have ingredients and cook's utensils on hand. You can prepare enough of this food for {4 + npc.proficiencybonus()} creatures. At the end of the short rest, any creature who eats the food and spends one or more Hit Dice to regain hit points regains an extra 1d8 hit points.") )
+    
+    npc.defer(lambda npc: npc.traits.append(f"***Chef: Long rest.*** With one hour of work or when you finish a long rest, you can cook {npc.proficiencybonus()} treats. These special treats last 8 hours after being made. Any creature eating one of those treats (using a bonus action) gains {npc.proficiencybonus()} temporary hit points.") )
 ```

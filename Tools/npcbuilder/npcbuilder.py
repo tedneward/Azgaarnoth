@@ -1028,6 +1028,7 @@ class NPC:
                 "Prone to predictions of doom",
                 "Prone to declarations of excessive nature",
                 "Fidgets all the time",
+                "Makes constant jokes or puns",
                 "Squints",
                 "Stares into the distance for long periods of time before speaking",
                 "Chews something incessantly",
