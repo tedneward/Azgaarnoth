@@ -1,7 +1,6 @@
 # Monastic Tradition: Way of the Drunken Master
 The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant but proves frustrating to engage. The drunken master's erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats. Cunning warriors can see through the drunken master's apparent incompetence to recognize the masterful technique employed.
 
-
 ```
 name = 'Way of the Drunken Master'
 description = "***Monastic Tradition: Way of the Drunken Master.*** The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant but proves frustrating to engage. The drunken master's erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats. Cunning warriors can see through the drunken master's apparent incompetence to recognize the masterful technique employed."
