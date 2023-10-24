@@ -21,21 +21,24 @@ description = "***Subrace: Dark Elf.*** Elvish scholars speak of an ancient schi
 ```
 name = 'Dark'
 def level0(npc):
-  npc.CHA += 1
+    npc.CHA += 1
 
-  spellcasting = innatecaster(npc, 'CHA', 'Dark Elf')
-  spellcasting.cantripsknown.append('dancing lights')
+    spellcasting = innatecaster(npc, 'CHA', 'Dark Elf')
+    spellcasting.perday['atwill'] = ['dancing lights']
 
-  npc.proficiencies.append('Rapier')
-  npc.proficiencies.append('Shortsword')
-  npc.proficiencies.append('Hand crossbow')
+    npc.proficiencies.append('Rapier')
+    npc.proficiencies.append('Shortsword')
+    npc.proficiencies.append('Hand crossbow')
 
-  npc.senses['darkvision'] = 120
-  npc.traits.append(traits['sunlight-sensitivity'])
+    npc.senses['darkvision'] = 120
+    npc.traits.append(traits['sunlight-sensitivity'])
 
 def level3(npc):
-  npc.spellcasting['Dark Elf'].perday[1] = ['faerie fire']
+    if 1 in npc.spellcasting['Dark Elf'].perday:
+        npc.spellcasting['Dark Elf'].perday[1].append('faerie fire')
+    else:
+        npc.spellcasting['Dark Elf'].perday[1] = ['faerie fire']
 
 def level5(npc):
-  npc.spellcasting['Dark Elf'].perday[1].append('darkness')
+    npc.spellcasting['Dark Elf'].perday[1].append('darkness')
 ```

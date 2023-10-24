@@ -1,5 +1,5 @@
 ## Pack Master
-*Prerequisites: Gnoll, BAB +1*
+*Prerequisites: Gnoll, 4th-level*
 
 When taking down prey, the gnolls would surround dangerous opponents, rendering them ineffective in combat.
 

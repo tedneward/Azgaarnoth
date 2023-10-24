@@ -1,9 +1,11 @@
 # Divine Domain: Tempest
+Clerics of the Tempest domain find power and beauty in the wracking storms that batter coastlines and bring the seas to rage. They are often themselves of a fierce temper, some ready to embrace that temper at the first moment, others requiring longer provocation, but once provoked, their wrath knows no limits.
+
 This is a domain granted by the [*al'maeran* tradition](../../Religions/AlUma.md#almaeran-cleric),the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Auril](../../Religions/Pantheon/Auril.md), ...
 
 ```
 name = 'Tempest'
-description = "***Divine Domain: Tempest.*** "
+description = "***Divine Domain: Tempest.*** Clerics of the Tempest domain find power and beauty in the wracking storms that batter coastlines and bring the seas to rage. They are often themselves of a fierce temper, some ready to embrace that temper at the first moment, others requiring longer provocation, but once provoked, their wrath knows no limits."
 ```
 
 ## Domain Spells

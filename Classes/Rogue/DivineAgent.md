@@ -13,10 +13,11 @@ Choose a domain from your chosen deity's list of eligible domains, you gain the 
 
 ```
 def level3(npc):
-    spellcasting = npc.newspellcasting('Rogue', 'WIS')
+    spellcasting = halfcaster(npc, 'WIS', name)
     spellcasting.casterclass = allclasses['Rogue']
     (domainname, domain) = choose("Choose a domain: ", allclasses['Cleric'].subclasses)
     domain.baseclass = allclasses['Rogue']
+    domain.spellcasting = spellcasting
     domain.level1(npc)
 ```
 
@@ -66,60 +67,40 @@ Rogue Level | Cantrips Known | Spells Known | 1st|2nd|3rd|4th
 20th|4|13|4|3|3|1
 
 ```
-    npc.spellcasting[baseclass.name].cantripsknown.append("guidance")
-    npc.spellcasting[baseclass.name].maxcantripsknown = 3
-    npc.spellcasting[baseclass.name].maxspellsknown = 3
-    npc.spellcasting[baseclass.name].slottable = {
-        3: [ 2 ], 
-        4: [ 3 ],
-        5: [ 3 ],
-        6: [ 3 ],
-        7: [ 4, 2 ],
-        8: [ 4, 2 ],
-        9: [ 4, 2 ],
-        10: [ 4, 3 ] ,
-        11: [ 4, 3 ],
-        12: [ 4, 3 ],
-        13: [ 4, 3, 2 ],
-        14: [ 4, 3, 2 ],
-        15: [ 4, 3, 2 ],
-        16: [ 4, 3, 3 ],
-        17: [ 4, 3, 3 ],
-        18: [ 4, 3, 3 ],
-        19: [ 4, 3, 3, 1 ],
-        20: [ 4, 3, 3, 1 ]
-    }
+    npc.spellcasting[name].cantripsknown.append("guidance")
+    npc.spellcasting[name].maxcantripsknown = 3
+    npc.spellcasting[name].maxspellsknown = 3
 
 def level4(npc):
-    npc.spellcasting[baseclass.name].maxspellsknown = 4
+    npc.spellcasting[name].maxspellsknown = 4
 
 def level7(npc):
-    npc.spellcasting[baseclass.name].maxspellsknown = 5
+    npc.spellcasting[name].maxspellsknown = 5
 
 def level8(npc):
-    npc.spellcasting[baseclass.name].maxspellsknown = 6
+    npc.spellcasting[name].maxspellsknown = 6
 
 def level10(npc):
-    npc.spellcasting[baseclass.name].maxcantripsknown = 4
-    npc.spellcasting[baseclass.name].maxspellsknown = 7
+    npc.spellcasting[name].maxcantripsknown = 4
+    npc.spellcasting[name].maxspellsknown = 7
 
 def level11(npc):
-    npc.spellcasting[baseclass.name].maxspellsknown = 8
+    npc.spellcasting[name].maxspellsknown = 8
 
 def level13(npc):
-    npc.spellcasting[baseclass.name].maxspellsknown = 9
+    npc.spellcasting[name].maxspellsknown = 9
 
 def level14(npc):
-    npc.spellcasting[baseclass.name].maxspellsknown = 10
+    npc.spellcasting[name].maxspellsknown = 10
 
 def level16(npc):
-    npc.spellcasting[baseclass.name].maxspellsknown = 11
+    npc.spellcasting[name].maxspellsknown = 11
 
 def level19(npc):
-    npc.spellcasting[baseclass.name].maxspellsknown = 12
+    npc.spellcasting[name].maxspellsknown = 12
 
 def level20(npc):
-    npc.spellcasting[baseclass.name].maxspellsknown = 13
+    npc.spellcasting[name].maxspellsknown = 13
 ```
 
 ## Favor of the Gods
@@ -129,7 +110,11 @@ You gain the Lucky feat. If you already have the Lucky feat, you instead gain an
 
 ```
 def level9(npc):
-    npc.traits.append("***Lucky (feat).*** TODO")
+    print("Applying Lucky feat")
+    feats['Lucky'].apply(npc)
+    npc.feats.append(feats['Lucky'].name)
+    npc.description.append(feats['Lucky'].description)
+    print("Applying Lucky feat--Done")
 ```
 
 ## Divine Strike

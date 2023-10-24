@@ -1,5 +1,5 @@
 # *Weapon* of Berserk Fury
-*Melee wepaon, rare, requires attunement by barbarian*
+*Melee weapon, rare, requires attunement by barbarian*
 
 In the hands of a non-barbarian, you gain a +1 bonus to attack and damage rolls made with this magic weapon. 
 

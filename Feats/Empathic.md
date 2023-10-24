@@ -11,9 +11,8 @@ description = "***Feat: Empathic.*** You possess keen insight into how other peo
 def prereq(npc): return True
 def apply(npc):
     npc.WIS += 1
-    if "Insight" in npc.skills:
-        npc.traits.append("***Empathic.*** You add twice your proficiency bonus to Wisdom (Insight) checks.")
-    else:
-        npc.skills.append("Insight")
+
+    npc.addskillorexpertise('Insight')
+
     npc.actions.append("***Uncanny Insight.*** You can try to get uncanny insight about one humanoid you can see within 30 feet of you. Make a Wisdom (Insight) check contested by the target's Charisma (Deception) check. If your check succeeds, you have advantage on attack rolls and ability checks against the target until the end of your next turn.")
 ```

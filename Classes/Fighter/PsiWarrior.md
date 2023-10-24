@@ -25,8 +25,11 @@ When you reach certain levels in this class, the size of your Psionic Energy dic
 
 ```
 def level3(npc):
-    def setpsidice(npc): npc.psionicdicecount = npc.proficiencybonus()
-    npc.psionicdie = 'd6'
+    npc.psionicdie = 'd0'
+
+    def setpsidice(npc): 
+        npc.psionicdicecount = npc.proficiencybonus()
+        npc.psionicdie = 'd6' if npc.levels('Fighter') < 5 else 'd8' if npc.levels('Fighter') < 11 else 'd10' if npc.levels('Fighter') < 17 else 'd12'
     npc.defer(lambda npc: setpsidice(npc) )
 
     npc.defer(lambda npc: npc.traits.append(f"***Psionic Energy Dice (Recharges on long rest).*** You harbor a wellspring of psionic energy within yourself. This energy is represented by {npc.proficiencybonus() * 2} Psionic Energy dice, which are each a {npc.psionicdie}, and they fuel various psionic powers you have, which are detailed below. You can't use a power if it requires you to use a die when your dice are all expended.") )
@@ -38,10 +41,6 @@ def level3(npc):
     npc.defer(lambda npc: npc.traits.append(f"***Psionic Strike.*** Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a weapon, you can expend one Psionic Energy die, rolling it and dealing force damage to the target equal to the number rolled plus {npc.INTbonus()}."))
 
     npc.actions.append("***Telekinetic Movement (Recharges on short or long rest or Psionic Energy die).*** You target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both.")
-
-def level5(npc): npc.psionicdie = 'd8'
-def level11(npc): npc.psionicdie = 'd10'
-def level17(npc): npc.psionicdie = 'd12'
 ```
 
 
@@ -79,7 +78,7 @@ Once you take this bonus action, you can't do so again until you finish a long r
 
 ```
 def level15(npc):
-    npc.bonusactions.append("***Bulwark of Force (Recharges on long rest or Psionic Energy die).*** You can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you're incapacitated.")
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Bulwark of Force (Recharges on long rest or Psionic Energy die).*** You can choose up to {npc.INTbonus()} creatures, which can include you, that you can see within 30 feet of you. Each of the chosen creatures is protected by half cover for 1 minute or until you're incapacitated.") )
 ```
 
 ## Telekinetic Master

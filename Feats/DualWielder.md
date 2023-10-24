@@ -7,7 +7,7 @@ You master fighting with two weapons, gaining the following benefits:
 
 ```
 name = 'Dual Wielder'
-descriptions = "***Feat: Dual Wielder.*** You have mastered fighting with two weapons."
+description = "***Feat: Dual Wielder.*** You have mastered fighting with two weapons."
 def prereq(npc): return True
 def apply(npc):
     npc.armorclass['Dual wielder'] = 1

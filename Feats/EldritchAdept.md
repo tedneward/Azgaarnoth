@@ -13,5 +13,5 @@ def prereq(npc):
     elif getattr(npc, "pactmagic", None) != None: return True
     else: return False
 def apply(npc):
-    npc.traits.append("***Eldritch Adept.*** TODO you learn one Eldritch Invocation option of your choice from the [warlock](/Classes/Warlock.md) class.")
+    npc.traits.append("***Eldritch Adept.*** TODO you learn one Eldritch Invocation option of your choice from the [warlock](http://azgaarnoth.tedneward.com/Classes/Warlock) class.")
 ```

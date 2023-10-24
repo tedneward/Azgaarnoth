@@ -11,7 +11,7 @@ Wood elves and high elves are, by this point in Azgaarnoth's history, fairly wel
 
 ```
 name = 'Wood'
-description = "***Wood Elf.*** Wood elves and high elves are, by this point in Azgaarnoth's history, fairly well intermixed and are found in most locations all across Azgaarnoth; at this point in their evolution, no non-elf can tell the difference between them."
+description = "***Subrace: Wood Elf.*** Wood elves and high elves are, by this point in Azgaarnoth's history, fairly well intermixed and are found in most locations all across Azgaarnoth; at this point in their evolution, no non-elf can tell the difference between them."
 def level0(npc):
   npc.WIS += 1
 

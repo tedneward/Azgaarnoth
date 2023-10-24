@@ -9,14 +9,14 @@ Note that if you choose to be a member of a [Mage School](../Organizations/MageS
 
 ```
 name = 'Arcanist'
-description = "***Feat: Arcanist.*** You study the arcane arts."
+description = "***Feat: Arcanist.*** You study the arcane arts. (If you are a member of a mage school, your cantrip and spell may be different than these given.)"
 def prereq(npc): return True
 def apply(npc):
     npc.INT += 1
 
     npc.addskillorexpertise("Arcana")
     
-    spellcasting = npc.newspellcasting('Arcanist', 'INT')
+    spellcasting = innatecaster(npc, 'CHA', name)
     spellcasting.cantripsknown.append('prestidigitation')
     spellcasting.perday[1] = ['detect magic']
 ```

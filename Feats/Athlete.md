@@ -8,7 +8,7 @@ You have undergone extensive physical training to gain the following benefits:
 
 ```
 name = 'Athlete'
-description = "***Feat: Athlete.*** "
+description = "***Feat: Athlete.*** You have undergone extensive physical training."
 def prereq(npc): return True
 def apply(npc):
     chooseability(npc, ['STR', 'DEX'])
