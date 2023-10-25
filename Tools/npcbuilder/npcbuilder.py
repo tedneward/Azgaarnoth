@@ -564,9 +564,18 @@ class TitledText:
     def __init__(self, title, text):
         self.title = title
         self.text = text
+        self.uses = None
+        self.recharges = None
 
     def __str__(self):
-        return f"***{self.title}.*** {self.text}"
+        posttitletext = ""
+        if self.recharges != None and self.uses == None:
+            posttitletext = " (Recharges on {self.recharges})"
+        elif self.recharges == None and self.uses != None:
+            posttitletext = " ({self.uses})"
+        elif self.recharges != None and self.uses != None:
+            posttitletext = " ({self.uses}/Recharges on {self.recharges})"
+        return f"***{self.title}{posttitletext}.*** {self.text}"
 
 
 class NPC:
