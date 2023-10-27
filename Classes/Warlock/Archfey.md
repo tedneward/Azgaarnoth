@@ -5,6 +5,7 @@ Your patron is a lord or lady of the fey, a creature of legend who holds secrets
 The Archfey lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
 **Archfey Expanded Spells**
+
 Spell Level|Spells
 -----------|------
 1st|Faerie Fire, Sleep

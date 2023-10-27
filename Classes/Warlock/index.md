@@ -1,6 +1,11 @@
 # Warlock
 Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. Through pacts made with mysterious beings of supernatural power, warlocks unlock magical effects both subtle and spectacular.
 
+```
+name = 'Warlock'
+description = "***Class: Warlock.*** Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. Through pacts made with mysterious beings of supernatural power, warlocks unlock magical effects both subtle and spectacular."
+```
+
 *You must have a Charisma score of 13 or higher in order to multiclass in or out of this class.*
 
 Level|Proficiency Bonus|Cantrips Known|Spells Known|Spell Slots|Slot Level|Invocations Known|Features
@@ -26,6 +31,22 @@ Level|Proficiency Bonus|Cantrips Known|Spells Known|Spell Slots|Slot Level|Invoc
 19th |+6|4|15|4|5th|8|[Ability Score Improvement](#ability-score-improvement)
 20th |+6|4|15|4|5th|8|[Eldritch Master](#eldritch-master)
 
+```
+class PactMagic:
+    def __init__(self, npc):
+        self.npc = npc
+        self.maxcantripsknown = 0
+        self.cantripsknown = []
+        self.maxspellsknown = 0
+        self.spellsknown = []
+        self.spellslots = 0
+        self.slotlevel = 0
+
+    def spellsavedc(self): return 8 + npc.proficiencybonus() + npc.CHAbonus()
+
+    def spellattackbonus(self): return npc.proficiencybonus() + npc.CHAbonus()
+```
+
 As a warlock, you gain the following class features.
 
 ## Hit Points
@@ -34,6 +55,10 @@ As a warlock, you gain the following class features.
 **Hit Points at 1st Level**: 8 + your Constitution modifier
 
 **Hit Points at Higher Levels**: 1d8 (or 5) + your Constitution modifier per warlock level after 1st
+
+```
+def everylevel(npc): npc.hits('d10')
+```
 
 ## Proficiencies
 **Armor**: Light armor
@@ -46,12 +71,38 @@ As a warlock, you gain the following class features.
 
 **Skills**: Choose two from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
 
+```
+def level1(npc):
+    npc.savingthrows.append("WIS")
+    npc.savingthrows.append("CHA")
+
+    for arm in armor['light']:
+        npc.proficiencies.append(arm)
+    for wpn in weapons['simple-melee'] | weapons['simple-ranged']:
+        npc.proficiencies.append(wpn)
+
+    skills = ['Arcana', 'Deception', 'History', 'Intimidation', 'Investigation', 'Nature', 'Religion']
+    chooseskill(npc, skills)
+    chooseskill(npc, skills)
+```
+
 ## Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) a light crossbow and 20 bolts or (b) any simple weapon
 * (a) a component pouch or (b) an arcane focus
 * (a) a scholar's pack or (b) a dungeoneer's pack
 * Leather armor, any simple weapon, and two daggers
+
+```
+    npc.equipment.append("Leather armor")
+    npc.equipment.append("Simple weapon")
+    npc.equipment.append("Two daggers")
+    npc.equipment.append("Light crossbow and 20 bolts OR any simple weapon")
+    npc.equipment.append("Component pouch OR arcane focus")
+    npc.equipment.append("Scholar's pack OR dungeoneer's pack")
+    npc.equipment.append("Dungeoneer's pack, or explorer's pack")
+    npc.armorclass['Leather armor'] = 11
+```
 
 ## Otherworldly Patron
 At 1st level, you have struck a bargain with an otherworldly being of your choice:
@@ -75,6 +126,13 @@ At 1st level, you have struck a bargain with an otherworldly being of your choic
 * [The Witch](Witch.md)
 
 Your choice grants you features at 1st level and again at 6th, 10th, and 14th level.
+
+```
+    # Choose subclass
+    (_, subclass) = choose("Choose a Patron:", subclasses)
+    npc.subclasses[allclasses['Warlock']] = subclass
+    npc.description.append(subclass.description)
+```
 
 ## Pact Magic
 Your arcane research and the magic bestowed on you by your patron have given you facility with spells.
@@ -107,6 +165,11 @@ You can use an arcane focus as a spellcasting focus for your warlock spells.
 ### Spell Versatility
 Whenever you finish a long rest, you can replace one spell you learned from this Pact Magic feature with another spell from the warlock spell list. The new spell must be the same level as the spell you replace.
 
+```
+    # Something something pact magic
+    npc.pactmagic = PactMagic(npc)
+```
+
 ## Eldritch Invocations
 *2nd-level warlock feature*
 
@@ -117,6 +180,12 @@ You gain two eldritch invocations of your choice. When you gain certain warlock 
 Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
 
 A level prerequisite in an invocation refers to warlock level, not character level.
+
+```
+def level2(npc):
+    chooseinvocation(npc)
+    chooseinvocation(npc)
+```
 
 ## Pact Boon
 *3rd-level warlock feature*
