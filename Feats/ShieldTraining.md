@@ -9,7 +9,7 @@ You've trained in the effective use of shields. You gain the following benefits:
 ```
 name = 'Shield Training'
 description = "***Feat: Shield Training.*** You've trained in the effective use of shields."
-def prereq(npc): return true
+def prereq(npc): return True
 def apply(npc):
     chooseability(npc, ['STR', 'DEX', 'CON'])
     for arm in armor['shields']:

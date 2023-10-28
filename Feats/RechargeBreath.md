@@ -9,7 +9,7 @@ description = "***Feat: Recharge Breath.*** You have learned more stamina with y
 def prereq(npc):
     for act in npc.actions:
         if act[0:len("***Breath Weapon")] == '***Breath Weapon':
-            return true
+            return True
     return False
 def apply(npc):
     if 'Recharge Breath' in npc.feats:
