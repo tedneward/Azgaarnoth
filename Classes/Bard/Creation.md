@@ -3,7 +3,7 @@ Bards believe the cosmos is a work of art-the creation of the first dragons and 
 
 Members of this college might have developed their powers during experiences on other worlds or planes of existence. Those who have seen the commonalities of multiple realities might have learned how to tap into truths most mortals glimpse only for a moment. Alternatively, the bard might find themselves out of step with their own home plane, reality, or time, their connections to elsewhere allowing them to manipulate the space around them. Regardless of where a bard draws their powers from, other performers might be drawn to them, either to learn their secrets or to put an end to their dangerous manipulation of the Song of Creation.
 
-Dwarves and gnomes often encourage their bards to become students of the Song of Creation. And among dragonborn, the Song of Creation is revered, for legends portray Bahamut and Tiamat-the greatest of dragons-as two of the song's first singers.
+Dwarves and gnomes often encourage their bards to become students of the Song of Creation. And among dragonborn, the Song of Creation is revered, for legends portray Bahamut and Tiamat--the greatest of dragons--as two of the song's first singers.
 
 This college is quite popular among the [Al'Uma](../../Religions/Al'Uma.md), though of course the bards are singing of the Eldar when they speak of the power of creation. Universities offering this College can be found in many Al'Uman cities, and in a few outside of Al'Uma as well.
 
