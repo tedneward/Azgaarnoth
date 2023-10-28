@@ -6,6 +6,7 @@ The Seeker lets you choose from an expanded list of spells when you learn a warl
 
 **Seeker Expanded Spells**
 Spell Level | Spells
+----------- | --------
 1st | feather fall, jump
 2nd | levitate, locate object
 3rd | clairvoyance, sending
