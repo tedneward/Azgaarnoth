@@ -168,6 +168,7 @@ Whenever you finish a long rest, you can replace one spell you learned from this
 ```
     # Something something pact magic
     npc.pactmagic = PactMagic(npc)
+    npc.defer(lambda npc: npc.actions.append(f"***Pact Magic.*** {npc.pactmagic.maxcantripsknown()} cantrips known. {npc.pactmagic.spellslots()} {npc.pactmagic.slotlevel}-level spell slots. {npc.pactmagic.maxspellsknown()} spells known. Spell save DC {npc.pactmagic.spellsavedc()}. Spell attack modifier +{npc.pactmagic.spellattackmodifier()}. Cantrips known: {', '.join(npc.pactmagic.cantripsknown)} Spells known: {', '.join(npc.pactmagic.spellsknown)}") )
 ```
 
 ## Eldritch Invocations
@@ -182,8 +183,21 @@ Additionally, when you gain a level in this class, you can choose one of the inv
 A level prerequisite in an invocation refers to warlock level, not character level.
 
 ```
+    npc.invocations = []
+
 def level2(npc):
     chooseinvocation(npc)
+    chooseinvocation(npc)
+def level5(npc):
+    chooseinvocation(npc)
+def level7(npc):
+    chooseinvocation(npc)
+def level9(npc):
+    chooseinvocation(npc)
+#level12 has both ability score and invocation
+def level15(npc):
+    chooseinvocation(npc)
+def level18(npc):
     chooseinvocation(npc)
 ```
 
@@ -201,6 +215,12 @@ Your otherworldly patron bestows a gift upon you for your loyal service. You gai
 
   You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
 
+```
+def pactoftheblade(npc):
+    npc.actions.append("***Summon Pact Weapon.*** You create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.")
+    npc.traits.append("***Bind Weapon.*** You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.")  
+```
+
 * **Pact of the Chain**
   You learn the Find Familiar spell and can cast it as a ritual. The spell doesn't count against your number of spells known.
 
@@ -208,19 +228,54 @@ Your otherworldly patron bestows a gift upon you for your loyal service. You gai
 
   Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.
 
+```
+def pactofthechain(npc):
+    npc.traits.append(f"***Pact of the Chain.*** You can cast {spelllinkify('find familiar')} as a ritual. When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.")
+    npc.actions.append("***Familiar Attack.*** When you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.")
+```
+
 * **Pact of the Talisman**
   Your patron gives you a special amulet, a talisman that can aid you, or anyone else who wears it, when the need is great. When the wearer makes an ability check with a skill in which they lack proficiency, they can add a d4 to the roll. If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet.
 
   The talisman turns to ash when you die.
+
+```
+def pactofthetalisman(npc):
+    npc.equipment.append("***Talisman of the Pact.*** When the wearer makes an ability check with a skill in which they lack proficiency, they can add a d4 to the roll. If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet. The talisman turns to ash when you die.")
+```
 
 * **Pact of the Tome**
   Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list. While the book is on your person, you can cast those cantrips at will. They are considered warlock spells for you, and they needn't be from the same spell list. They don't count against your number of cantrips known.
 
   If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
 
+```
+def pactofthetome(npc):
+    npc.equipment.append("***Book of Shadows.*** While the book is on your person, you can cast the three CHOOSE cantrips at will. If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.")
+
+pactboons = {
+    'Pact of the Blade': pactoftheblade,
+    'Pact of the Chain': pactofthechain,
+    'Pact of the Talisman': pactofthetalisman,
+    'Pact of the Tome': pactofthetome
+}
+def choosepact(npc):
+    npc.pact = choose("Choose your Pact: ", pactboons)
+```
+
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+```
+def level4(npc): abilityscoreimprovement(npc)
+def level8(npc): abilityscoreimprovement(npc)
+def level12(npc): 
+    abilityscoreimprovement(npc)
+    chooseinvocation(npc)
+def level16(npc): abilityscoreimprovement(npc)
+def level19(npc): abilityscoreimprovement(npc)
+```
 
 ## Mystic Arcanum
 *11th-level warlock feature*

@@ -407,11 +407,12 @@ def chooseinvocation(npc):
     for (name, fn) in invocations.items():
         prereqfn = globals()[globals()[fn].__name__ + '_prereq']()
         if prereqfn(npc):
-            choices[name] = details[1]
+            if name in npc.invocations:
+                pass
+            else:
+                choices[name] = details[1]
 
     (invocationname, invocationfn) = choose("Choose an Eldritch Invocation: ", invocations)
-    if getattr(npc, "invocations", None) == None:
-        npc.invocations = []
     npc.invocations.append(invocationname)
     invocationfn(npc)
 
