@@ -19,5 +19,5 @@ def apply(npc):
 
     npc.actions.append("***Orcish Fury (Recharges on short or long rest).*** When you hit with an attack made with a simple or martial weapon, you can roll one of the weapon's damage dice an additional time and add it as extra damage of the weapon's damage type.")
 
-    npc.reactions.append("***Orcish Fury.*** Immediately after you use your Relentless Endurance trait, you can use your reaction to make one weapon attack.")
+    npc.reactions.append("***Orcish Fury.*** Immediately after you use your Relentless Endurance trait, you make one weapon attack.")
 ```

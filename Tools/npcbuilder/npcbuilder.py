@@ -564,9 +564,18 @@ class TitledText:
     def __init__(self, title, text):
         self.title = title
         self.text = text
+        self.uses = None
+        self.recharges = None
 
     def __str__(self):
-        return f"***{self.title}.*** {self.text}"
+        posttitletext = ""
+        if self.recharges != None and self.uses == None:
+            posttitletext = " (Recharges on {self.recharges})"
+        elif self.recharges == None and self.uses != None:
+            posttitletext = " ({self.uses})"
+        elif self.recharges != None and self.uses != None:
+            posttitletext = " ({self.uses}/Recharges on {self.recharges})"
+        return f"***{self.title}{posttitletext}.*** {self.text}"
 
 
 class NPC:
@@ -808,9 +817,9 @@ class NPC:
             if skill in self.proficiencies: self.expertises.append(skill)
             else: self.proficiencies.append(skill)
 
-    def newspellcasting(self, source, ability):
+    def newspellcasting(self, source, ability, named=''):
         """Convenience factory method to be used from literate Race/Class/Background/Feats"""
-        spellcasting = NPC.Spellcasting(self, ability)
+        spellcasting = NPC.Spellcasting(self, ability, named)
         self.spellcasting[source] = spellcasting
         spellcasting.abilitybonus = self.INTbonus if ability == 'INT' else self.WISbonus if ability == 'WIS' else self.CHAbonus if ability == 'CHA' else None
         return spellcasting
