@@ -1,5 +1,6 @@
 # Mystic Order: Order of the Awakened
-Mystics dedicated to the Order of the Awakened seek to unlock the full potential of the mind. By transcending the physical, the Awakened hope to attain a state of being focused on pure intellect and mental energy.
+Mystics dedicated to the Order of the Awakened seek to unlock the full potential of the mind. By transcending the physical, the Awakened hope to attain a state of being focused on pure intellect and mental energy. 
+
 The Awakened are skilled at bending minds and unleashing devastating psionic attacks, and they can read the secrets of the world through psionic energy. Awakened mystics who take to adventuring excel at unraveling mysteries, solving puzzles, and defeating monsters by turning them into unwilling pawns.
 
 ## Bonus Disciplines

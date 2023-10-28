@@ -1,0 +1,12 @@
+# Mantle of Fear
+*Avatar Discipline*
+
+You tap into a well of primal fear and turn yourself into a beacon of terror to your enemies.
+
+***Psychic Focus.*** While focused on this discipline, you have advantage on Charisma (Intimidation) checks.
+
+***Incite Fear (2 psi; concentration, 1 min.).*** As an action, choose one creature you can see within 60 feet of you. The target must succeed on a Wisdom saving throw or become frightened of you until your concentration ends. Whenever the frightened target ends its turn in a location where it can’t see you, it can repeat the saving throw, ending the effect on itself on a success.
+
+***Unsettling Aura (3 psi; concentration, 1 hr.).*** As a bonus action, you cloak yourself in unsettling psychic energy. Until your concentration ends, any enemy within 60 feet of you that can see you must spend 1 extra foot of movement for every foot it moves toward you. A creature ignores this effect if immune to being frightened.
+
+***Incite Panic (5 psi; concentration, 1 min.).*** As an action, choose up to eight creatures you can see within 90 feet of you that can see you. At the start of each of a target’s turns before your concentration ends, the target must make a Wisdom saving throw. On a failed save, the target is frightened until the start of its next turn, and you roll a die. If you roll an odd number, the frightened target moves half its speed in a random direction and takes no action on that turn, other than to scream in terror. If you roll an even number, the frightened target makes one melee attack against a random target within its reach. If there is no such target, it moves half its speed in a random direction and takes no action on that turn. This effect ends on a target if it succeeds on three saving throws against it.

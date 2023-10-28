@@ -66,5 +66,5 @@ def level0(npc):
     npc.actions.append(f"***Snake Friendship.*** You can cast {spelllinkify('animal friendship')} at will, but you can target only snakes with it.")
 
 def level3(npc):
-    npc.spellcasting['Yuan-Ti'].preday[1] = ['suggestion']
+    npc.spellcasting['Yuan-Ti'].perday[1] = ['suggestion']
 ```

@@ -808,9 +808,9 @@ class NPC:
             if skill in self.proficiencies: self.expertises.append(skill)
             else: self.proficiencies.append(skill)
 
-    def newspellcasting(self, source, ability):
+    def newspellcasting(self, source, ability, named=''):
         """Convenience factory method to be used from literate Race/Class/Background/Feats"""
-        spellcasting = NPC.Spellcasting(self, ability)
+        spellcasting = NPC.Spellcasting(self, ability, named)
         self.spellcasting[source] = spellcasting
         spellcasting.abilitybonus = self.INTbonus if ability == 'INT' else self.WISbonus if ability == 'WIS' else self.CHAbonus if ability == 'CHA' else None
         return spellcasting
