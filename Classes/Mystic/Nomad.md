@@ -67,7 +67,7 @@ def level14(npc):
 
 ```
 def nomadicarrow(npc):
-    npc.bonusactions.append("***Psychic Focus: Nomadic Arrow.*** While you are focused on this discipline, any attack roll you make for a ranged weapon attack ignores disadvantage. If disadvantage would normally apply to the roll, that roll also can’t benefit from advantage.")
+    npc.bonusactions.append("***Psychic Focus: Nomadic Arrow.*** While you are focused on this discipline, any attack roll you make for a ranged weapon attack ignores disadvantage. If disadvantage would normally apply to the roll, that roll also can’t benefit from advantage. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.bonusactions.append("***Speed Dart (1–7 psi).*** You imbue one ranged weapon you hold with psionic power. The next attack you make with it that hits before the end of the current turn deals an extra 1d10 psychic damage per psi point spent.")
 
@@ -76,7 +76,7 @@ def nomadicarrow(npc):
     npc.bonusactions.append("***Faithful Archer (5 psi; concentration, 1 min.).*** You imbue a ranged weapon with a limited sentience. Until your concentration ends, you can make an extra attack with the weapon at the start of each of your turns (no action required). If it is a thrown weapon, it returns to your grasp each time you make any attack with it.")
 
 def nomadicchameleon(npc):
-    npc.bonusactions.append("***Psychic Focus: Nomadic Chameleon.*** While focused on this discipline, you have advantage on Dexterity (Stealth) checks.")
+    npc.bonusactions.append("***Psychic Focus: Nomadic Chameleon.*** While focused on this discipline, you have advantage on Dexterity (Stealth) checks. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.actions.append("***Chameleon (2 psi).*** You can attempt to hide even if you fail to meet the requirements needed to do so. At the end of the current turn, you remain hidden only if you then meet the normal requirements for hiding.")
 
@@ -85,7 +85,7 @@ def nomadicchameleon(npc):
     npc.bonusactions.append("***Enduring Invisibility (7 psi; concentration, 1 min.).*** You turn invisible and remain so until your concentration ends.")
 
 def nomadicmind(npc):
-    npc.bonusactions.append("***Psychic Focus: Nomadic Mind.*** Whenever you focus on this discipline, you choose one skill or tool and have proficiency with it until your focus ends. Alternatively, you gain the ability to read and write one language of your choice until your focus ends.")
+    npc.bonusactions.append("***Psychic Focus: Nomadic Mind.*** Whenever you focus on this discipline, you choose one skill or tool and have proficiency with it until your focus ends. Alternatively, you gain the ability to read and write one language of your choice until your focus ends. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.traits.append("***Wandering Mind (2–6 psi; concentration, 10 min.).*** You enter a deep contemplation. If you concentrate for this option’s full duration, you then gain proficiency with up to three of the following skills (one skill for every 2 psi points spent): Animal Handling, Arcana, History, Medicine, Nature, Performance, Religion, and Survival. The benefit lasts for 1 hour, no concentration required.")
 
@@ -100,7 +100,7 @@ def nomadicmind(npc):
     npc.actions.append("***Phasing Eye (7 psi; concentration, 1 hr.).*** As Wandering Eye above, except the eye can move through solid objects but can’t end its movement in one. If it does so, the effect immediately ends.")
 
 def nomadicstep(npc):
-    npc.bonusactions.append("***Psychic Focus: Nomadic Step.*** After you teleport on your turn while focused on this discipline, your walking speed increases by 10 feet until the end of the turn, as you are propelled by the magic of your teleportation. You can receive this increase only once per turn.")
+    npc.bonusactions.append("***Psychic Focus: Nomadic Step.*** After you teleport on your turn while focused on this discipline, your walking speed increases by 10 feet until the end of the turn, as you are propelled by the magic of your teleportation. You can receive this increase only once per turn. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.bonusactions.append("***Step of a Dozen Paces (1–7 psi).*** If you haven’t moved yet on your turn, you teleport up to 20 feet per psi point spent to an unoccupied space you can see, and your speed is reduced to 0 until the end of the turn.")
 
@@ -119,7 +119,7 @@ def nomadicstep(npc):
     npc.actions.append("***Nomad’s Gate (7 psi; concentration, 1 hr.).*** You create a 5-foot cube of dim, gray light within 5 feet of you. You create an identical cube at any point of your choice within 1 mile that you have viewed within the past 24 hours. Until your concentration ends, anyone entering one of the cubes immediately teleports to the other one, appearing in an unoccupied space next to it. The teleportation fails if there is no space for the creature to appear in.")
 
 def thirdeye(npc): 
-    npc.bonusactions.append("***Psychic Focus.*** While focused on this discipline, you have darkvision with a range of 60 feet. If you already have darkvision with that range or greater, increase its range by 10 feet.")
+    npc.bonusactions.append("***Psychic Focus: Third Eye.*** While focused on this discipline, you have darkvision with a range of 60 feet. If you already have darkvision with that range or greater, increase its range by 10 feet. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.bonusactions.append("***Tremorsense (2 psi; concentration, 1 min.).*** You gain tremorsense with a radius of 30 feet, which lasts until your concentration ends.")
 

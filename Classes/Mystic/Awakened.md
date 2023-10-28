@@ -84,7 +84,7 @@ def level14(npc):
 
 ```
 def aurasight(npc):
-    npc.bonusactions.append("***Psychic Focus: Aura Sight.*** While focused on this discipline, you have advantage on Wisdom (Insight) checks.")
+    npc.bonusactions.append("***Psychic Focus: Aura Sight.*** While focused on this discipline, you have advantage on Wisdom (Insight) checks. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.bonusactions.append("***Assess Foe (2 psi).*** You analyze the aura of one creature you see. You learn its current hit point total and all its immunities, resistances, and vulnerabilities.")
 
@@ -95,7 +95,7 @@ def aurasight(npc):
     npc.bonusactions.append("***Perceive the Unseen (5 psi; concentration, 1 min.).*** You gain the ability to see auras even of invisible or hidden creatures. Until your concentration ends, you can see all creatures, including hidden and invisible ones, regardless of lighting conditions.")
 
 def intellectfortress(npc):
-    npc.bonusactions.append("***Psychic Focus: Intellect Fortress.*** While focused on this discipline, you gain resistance to psychic damage.")
+    npc.bonusactions.append("***Psychic Focus: Intellect Fortress.*** While focused on this discipline, you gain resistance to psychic damage. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.reactions.append("***Psychic Backlash (2 psi).*** You impose disadvantage on an attack roll against you if you can see the attacker. If the attack still hits you, the attacker takes 2d10 psychic damage.")
 
@@ -104,7 +104,7 @@ def intellectfortress(npc):
     npc.actions.append("***Psychic Redoubt (5 psi; concentration, 10 min.).*** You create a field of protective psychic energy. Choose any number of creatures within 30 feet of you. Until your concentration ends, each target has resistance to psychic damage and advantage on Intelligence, Wisdom, and Charisma saving throws.")
 
 def mantleofawe(npc):
-    npc.bonusactions.append("***Psychic Focus: Mantle of Awe.*** While focused on this discipline, you gain a bonus to Charisma checks. The bonus equals half your Intelligence modifier (minimum of +1).")
+    npc.bonusactions.append("***Psychic Focus: Mantle of Awe.*** While focused on this discipline, you gain a bonus to Charisma checks. The bonus equals half your Intelligence modifier (minimum of +1). The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.actions.append("***Charming Presence (1–7 psi).*** You exert an aura of sympathetic power. Roll 2d8 per psi point spent on this ability; the total is how many hit points worth of creatures this option can affect. Creatures within 30 feet of you are affected in ascending order of their hit point maximums, ignoring incapacitated creatures, creatures immune to being charmed, and creatures engaged in combat. Starting with the creature that has the lowest hit point maximum, each creature affected by this option is charmed by you for 10 minutes, regarding you as a friendly acquaintance. Subtract each creature’s hit point maximum from the total before moving on to the next creature. A creature’s hit point maximum must be equal to or less than the remaining total for that creature to be affected.")
 
@@ -113,7 +113,7 @@ def mantleofawe(npc):
     npc.actions.append("***Invoke Awe (7 psi; concentration, 10 min.).*** You exert an aura that inspires awe in others. Choose up to 5 creatures you can see within 60 feet of you. Each target must succeed on an Intelligence saving throw or be charmed by you until your concentration ends. While charmed, the target obeys all your verbal commands to the best of its ability and without doing anything obviously self-destructive. The charmed target will attack only creatures that it has seen attack you since it was charmed or that it was already hostile toward. At the end of each of its turns, it can repeat the saving throw, ending the effect on itself on a success.")
 
 def precognition(npc):
-    npc.bonusactions.append("***Psychic Focus: Precognition.*** While focused on this discipline, you have advantage on initiative rolls.")
+    npc.bonusactions.append("***Psychic Focus: Precognition.*** While focused on this discipline, you have advantage on initiative rolls. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.bonusactions.append("***Precognitive Hunch (2 psi; concentration, 1 min.).*** You open yourself to receive momentary insights that improve your odds of success; until your concentration ends, whenever you make an attack roll, a saving throw, or an ability check, you roll a d4 and add it to the total.")
 
@@ -124,7 +124,7 @@ def precognition(npc):
     npc.traits.append("***Victory Before Battle (7 psi).*** When you roll initiative, you can use this ability to grant yourself and up to five creatures of your choice within 60 feet of you a +10 bonus to initiative.")
 
 def psychicassault(npc):
-    npc.bonusactions.append("***Psychic Focus: Psychic Assault.*** While focused on this discipline, you gain a +2 bonus to damage rolls with psionic talents that deal psychic damage.")
+    npc.bonusactions.append("***Psychic Focus: Psychic Assault.*** While focused on this discipline, you gain a +2 bonus to damage rolls with psionic talents that deal psychic damage. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.actions.append("***Psionic Blast (1–7 psi).*** Choose one creature you can see within 60 feet of you. The target takes 1d8 psychic damage per psi point spent on this ability.")
 
@@ -137,7 +137,7 @@ def psychicassault(npc):
     npc.actions.append("***Psychic Crush (7 psi).*** You create a 20-foot cube of psychic energy within 120 feet of you. Each creature in that area must make an Intelligence saving throw. On a failed save, a target takes 8d8 psychic damage and is stunned until the end of your next turn. On a successful save, a target takes half damage.")
 
 def psychicdisruption(npc):
-    npc.bonusactions.append("***Psychic Focus: Psychic Disruption.*** While focused on this discipline, you have advantage on Charisma (Deception) checks.")
+    npc.bonusactions.append("***Psychic Focus: Psychic Disruption.*** While focused on this discipline, you have advantage on Charisma (Deception) checks. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.actions.append("***Distracting Haze (1–7 psi; concentration, 1 min.).*** Choose one creature you can see within 60 feet of you. That creature must make an Intelligence saving throw. On a failed save, it takes 1d10 psychic damage per psi point spent and can’t see anything more than 10 feet from it until your concentration ends. On a successful save, it takes half as much damage.")
 
@@ -146,7 +146,7 @@ def psychicdisruption(npc):
     npc.actions.append("***Mind Storm (5 psi).*** Choose a point you can see within 60 feet of you. Each creature in a 20-foot-radius sphere centered on that point must make a Wisdom saving throw. On a failed save, a target takes 6d8 psychic damage and suffers disadvantage on all saving throws until the end of your next turn. On a successful save, a creature takes half as much damage. You can increase the damage by 1d6 per additional psi point spent on this ability.")
 
 def psychicinquisition(npc):
-    npc.bonusactions.append("***Psychic Focus: Psychic Inquisition.*** While focused on this discipline, you know when a creature communicating with you via telepathy is lying.")
+    npc.bonusactions.append("***Psychic Focus: Psychic Inquisition.*** While focused on this discipline, you know when a creature communicating with you via telepathy is lying. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.actions.append("***Hammer of Inquisition (1–7 psi).*** Choose one creature you can see within 60 feet of you. The target must make an Intelligence saving throw. On a failed save, it takes 1d10 psychic damage per psi point spent and suffers disadvantage on its next Wisdom saving throw before the end of your next turn. On a successful save, it takes half as much damage.")
 
@@ -154,10 +154,10 @@ def psychicinquisition(npc):
 
     npc.traits.append("***Ransack Mind (5 psi; concentration, 1 hr.).*** While you concentrate on this ability, you probe one creature’s mind. The creature must remain within 30 feet of you, and you must be able to see it. If you reach the ability’s full duration (1 hour), the target must make three Intelligence saving throws, and you learn information from it based on the number of saving throws it fails: With one failed saving throw, you learn its key memories from the past 12 hours; With two failed saving throws, you learn its key memories from the past 24 hours; With three failed saving throws, you learn its key memories from the past 48 hours.")
 
-    npc.traits.append("***Phantom Idea (6 psi; concentration, 1 hr.).*** While you concentrate on this ability, you probe one creature’s mind. The creature must remain within 30 feet of you, and you must be able to see it. If you reach the ability’s full duration (1 hour), the target must make three Intelligence saving throws, and you plant a memory or an idea in it, which lasts for a number of hours based on the number of saving throws it fails (With one failed saving throw, the idea or memory lasts for the next 4 hours; With two failed saving throws, it lasts for 24 hours; With three failed saving throws, it lasts for 48 hours.). You choose whether the idea or memory is trivial (such as \“I had porridge for breakfast\” or \“Ale is the worst\”) or personality-defining (\“I failed to save my village from orc marauders and am therefore a coward\” or \“Magic is a scourge, so I renounce it\”).")
+    npc.traits.append("***Phantom Idea (6 psi; concentration, 1 hr.).*** While you concentrate on this ability, you probe one creature’s mind. The creature must remain within 30 feet of you, and you must be able to see it. If you reach the ability’s full duration (1 hour), the target must make three Intelligence saving throws, and you plant a memory or an idea in it, which lasts for a number of hours based on the number of saving throws it fails (With one failed saving throw, the idea or memory lasts for the next 4 hours; With two failed saving throws, it lasts for 24 hours; With three failed saving throws, it lasts for 48 hours.). You choose whether the idea or memory is trivial (such as “I had porridge for breakfast” or “Ale is the worst”) or personality-defining (“I failed to save my village from orc marauders and am therefore a coward” or “Magic is a scourge, so I renounce it”).")
 
 def psychicphantoms(npc):
-    npc.bonusactions.append("***Psychic Focus: Psychic Phantoms.*** While focused on this discipline, you have advantage on Charisma (Deception) checks.")
+    npc.bonusactions.append("***Psychic Focus: Psychic Phantoms.*** While focused on this discipline, you have advantage on Charisma (Deception) checks. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.actions.append("***Distracting Figment (1–7 psi).*** Choose one creature you can see within 60 feet of you. The target must make an Intelligence saving throw. On a failed save, it takes 1d10 psychic damage per psi point spent and thinks it perceives a threatening creature just out of its sight; until the end of your next turn, it can’t use reactions, and melee attack rolls against it have advantage. On a successful save, it takes half as much damage.")
 
@@ -168,7 +168,7 @@ def psychicphantoms(npc):
     npc.actions.append("***Phantom Riches (7 psi; concentration, 1 min.).*** You plant the phantom of a greatly desired object in a creature’s mind. Choose one creature you can see within 60 feet of you. The target must make an Intelligence saving throw. On a failed save, you gain partial control over the target’s behavior until your concentration ends; the target moves as you wish on each of its turns, as it thinks it pursues the phantom object it desires. If it hasn’t taken damage since its last turn, it can use its action only to admire the object you created in its perception. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.")
 
 def telepathiccontact(npc):
-    npc.bonusactions.append("***Psychic Focus: Telepathic Contact.*** While focused on this discipline, you gain the ability to use your Telepathy class feature with up to six creatures at once. If you don’t have that feature from the mystic class, you instead gain it while focused on this discipline.")
+    npc.bonusactions.append("***Psychic Focus: Telepathic Contact.*** While focused on this discipline, you gain the ability to use your Telepathy class feature with up to six creatures at once. If you don’t have that feature from the mystic class, you instead gain it while focused on this discipline. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.actions.append("***Exacting Query (2 psi).*** You target one creature you can communicate with via telepathy. The target must make an Intelligence saving throw. On a failed save, the target truthfully answers one question you ask it via telepathy. On a successful save, the target is unaffected, and you can’t use this ability on it again until you finish a long rest. A creature is immune to this ability if it is immune to being charmed.")
 

@@ -82,7 +82,7 @@ def level14(npc):
 
 ```
 def adaptivebody(npc):
-    npc.bonusactions.append("***Psychic Focus: Adaptive Body.*** While focused on this discipline, you don’t need to eat, breathe, or sleep. To gain the benefits of a long rest, you can spend 8 hours engaged in light activity, rather than sleeping during any of it.")
+    npc.bonusactions.append("***Psychic Focus: Adaptive Body.*** While focused on this discipline, you don’t need to eat, breathe, or sleep. To gain the benefits of a long rest, you can spend 8 hours engaged in light activity, rather than sleeping during any of it. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.actions.append("***Environmental Adaptation (2 psi).*** You or a creature you touch ignores the effects of extreme heat or cold (but not cold or fire damage) for the next hour.")
 
@@ -93,14 +93,14 @@ def adaptivebody(npc):
     npc.actions.append("***Energy Immunity (7 psi; concentration, 1 hr.).*** You touch one creature and give it immunity to acid, cold, fire, lightning, or thunder damage (your choice), which lasts until your concentration ends.")
 
 def bestialform(npc):
-    npc.bonusactions.append("***Psychic Focus: Bestial Form.*** While focused on this discipline, you have advantage on Wisdom (Animal Handling) checks.")
+    npc.bonusactions.append("***Psychic Focus: Bestial Form.*** While focused on this discipline, you have advantage on Wisdom (Animal Handling) checks. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.actions.append("***Bestial Claws (1–7 psi).*** You manifest long claws for an instant and make a melee weapon attack against one creature within 5 feet of you. On a hit, this attack deals 1d10 slashing damage per psi point spent.")
 
     npc.bonusactions.append("***Bestial Transformation.*** As a bonus action, you alter your physical form to gain different characteristics. When you use this ability, you can choose one or more of the following effects: **Amphibious (2 psi)**. You gain gills, enabling you to breathe air and water; **Climbing (2 psi)**. You grow tiny hooked claws that give you gain a climbing speed equal to your walking speed; **Flight (5 psi)**. Wings sprout from your back, giving you a flying speed equal to your walking speed; **Keen Senses (2 psi)**. Your eyes and ears become more sensitive, giving you advantage on Wisdom (Perception) checks; **Perfect Senses (3 psi)**. You gain a keen sense of smell and an instinct to detect prey, enabling you to see invisible creatures and objects within 10 feet of you, even if you are blinded; **Swimming (2 psi)**. You gain fins and webbing between your fingers and toes, granting you a swimming speed equal to your walking speed; **Tough Hide (2 psi)**. Your skin becomes as tough as leather, granting you a +2 bonus to AC. Add the psi costs together to determine the total cost. This transformation lasts for 1 hour, until you die, or until you end it as a bonus action.")
 
 def bruteforce(npc):
-    npc.bonusactions.append("***Psychic Focus: Brute Force.*** While focused on this discipline, you have advantage on Strength (Athletics) checks.")
+    npc.bonusactions.append("***Psychic Focus: Brute Force.*** While focused on this discipline, you have advantage on Strength (Athletics) checks. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.bonusactions.append("***Brute Strike (1–7 psi).*** You gain a bonus to your next damage roll against a target you hit with a melee attack during the current turn. The bonus equals +1d6 per psi point spent, and the bonus damage is the same type as the attack. If the attack has more than one damage type, you choose which one to use for the bonus damage.")
 
@@ -111,7 +111,7 @@ def bruteforce(npc):
     npc.bonusactions.append("***Feat of Strength (2 psi).*** As a bonus action, you gain a +5 bonus to Strength checks until the end of your next turn.")
 
 def celerity(npc):
-    npc.bonusactions.append("***Psychic Focus: Celerity.*** While focused on this discipline, your walking speed increases by 10 feet.")
+    npc.bonusactions.append("***Psychic Focus: Celerity.*** While focused on this discipline, your walking speed increases by 10 feet. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.bonusactions.append("***Rapid Step (1–7 psi).*** You increase your walking speed by 10 feet per psi point spent until the end of the current turn. If you have a climbing or swimming speed, this increase applies to that speed as well.")
 
@@ -124,7 +124,7 @@ def celerity(npc):
     npc.bonusactions.append("***Surge of Action (5 psi).*** As a bonus action, you can Dash or make one weapon attack.")
 
 def corrosivemetabolism(npc):
-    npc.bonusactions.append("***Psychic Focus: Corrosive Metabolism.*** While focused on this discipline, you have resistance to acid and poison damage.")
+    npc.bonusactions.append("***Psychic Focus: Corrosive Metabolism.*** While focused on this discipline, you have resistance to acid and poison damage. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.actions.append("***Corrosive Touch (1–7 psi).*** You deliver a touch of acid to one creature within your reach. The target must make a Dexterity saving throw, taking 1d10 acid damage per psi point spent on a failed save, or half as much damage on a successful one.")
 
@@ -137,7 +137,7 @@ def corrosivemetabolism(npc):
     npc.actions.append("***Breath of the Green Dragon (7 psi).*** You exhale a cloud of poison in a 90-foot cone. Each creature in the line must make a Constitution saving throw, taking 10d6 poison damage on a failed save, or half as much damage on a successful one.")
 
 def diminution(npc):
-    npc.bonusactions.append("***Psychic Focus: Diminution.*** While focused on this discipline, you have advantage on Dexterity (Stealth) checks.")
+    npc.bonusactions.append("***Psychic Focus: Diminution.*** While focused on this discipline, you have advantage on Dexterity (Stealth) checks. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.bonusactions.append("***Miniature Form (2 psi; concentration, 10 min.).*** You become Tiny until your concentration ends. While this size, you gain a +5 bonus to Dexterity (Stealth) checks and can move through gaps up to 6 inches across without squeezing.")
 
@@ -148,14 +148,14 @@ def diminution(npc):
     npc.bonusactions.append("***Microscopic Form (7 psi; concentration, 10 min.).*** You become smaller than Tiny until your concentration ends. While this size, you gain a +10 bonus to Dexterity (Stealth) checks and a +5 bonus to AC, you can move through gaps up to 1 inch across without squeezing, and you can’t make weapon attacks.")
 
 def giantgrowth(npc):
-    npc.bonusactions.append("***Psychic Focus: Giant Growth.*** While focused on this discipline, your reach increases by 5 feet.")
+    npc.bonusactions.append("***Psychic Focus: Giant Growth.*** While focused on this discipline, your reach increases by 5 feet. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.bonusactions.append("***Ogre Form (2 psi; concentration, 1 min.).*** You gain 10 temporary hit points. In addition, until your concentration ends, your melee weapon attacks deal an extra 1d4 bludgeoning damage on a hit, and your reach increases by 5 feet. If you’re smaller than Large, you also become Large for the duration.")
 
     npc.bonusactions.append("***Giant Form (7 psi; concentration, 1 min.).*** You gain 30 temporary hit points. In addition, until your concentration ends, your melee weapon attacks deal an extra 2d6 bludgeoning damage on a hit, and your reach increases by 10 feet. If you’re smaller than Huge, you also become Huge for the duration.")
 
 def irondurability(npc):
-    npc.bonusactions.append("***Psychic Focus: Iron Durability.*** While focused on this discipline, you gain a +1 bonus to AC.")
+    npc.bonusactions.append("***Psychic Focus: Iron Durability.*** While focused on this discipline, you gain a +1 bonus to AC. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.reactions.append("***Iron Hide (1–7 psi).*** When you are hit by an attack, you gain a +1 bonus to AC for each psi point you spend on this ability. The bonus lasts until the end of your next turn. This bonus applies against the triggering attack.")
 
@@ -164,7 +164,7 @@ def irondurability(npc):
     npc.actions.append("***Iron Resistance (7 psi; concentration, 1 hr.).*** You gain resistance to bludgeoning, piercing, or slashing damage (your choice), which lasts until your concentration ends.")
 
 def psionicrestoration(npc):
-    npc.bonusactions.append("***Psychic Focus: Psionic Restoration.*** While focused on this discipline, you can touch a creature that has 0 hit points and stabilize it.")
+    npc.bonusactions.append("***Psychic Focus: Psionic Restoration.*** While focused on this discipline, you can touch a creature that has 0 hit points and stabilize it. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.actions.append("***Mend Wounds (1–7 psi).*** You spend psi points to restore hit points to one creature you touch. The creature regains 1d8 hit points per psi point spent.")
 
@@ -175,7 +175,7 @@ def psionicrestoration(npc):
     npc.actions.append("***Restore Vigor (7 psi).*** You touch one creature and choose one of the following: remove any reductions to one of its ability scores, remove one effect that reduces its hit point maximum, or reduce its exhaustion level by one.")
 
 def psionicweapon(npc):
-    npc.defer(lambda npc: npc.bonusactions.append(f"***Psychic Focus: Psionic Weapon.*** Whenever you focus on this discipline, choose one weapon you’re holding or your Unarmed Strike. When you attack with it while focused on this discipline, its damage is psychic and magical, rather than its normal damage type{', and you add either your Strength or Dexterity modifier to the damage rolls' if npc.levels('Mystic') >= 6 else ''}.") )
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Psychic Focus: Psionic Weapon.*** Whenever you focus on this discipline, choose one weapon you’re holding or your Unarmed Strike. When you attack with it while focused on this discipline, its damage is psychic and magical, rather than its normal damage type{', and you add either your Strength or Dexterity modifier to the damage rolls' if npc.levels('Mystic') >= 6 else ''}. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.") )
 
     npc.bonusactions.append("***Ethereal Weapon (1 psi).*** You temporarily transform one weapon you’re holding or your unarmed strike into pure psionic energy. The next attack you make with it before the end of your turn ignores the target’s armor, requiring no attack roll. Instead, the target makes a Dexterity saving throw against this discipline. On a failed save, the target takes the attack’s normal damage and suffers its additional effects. On a successful save, the target takes half damage from the attack but suffers no additional effects that would normally be imposed on a hit.")
 

@@ -168,7 +168,7 @@ def masteryofwater(npc):
     npc.actions.append("***Animate Water (7 psi; concentration, 1 hr.).*** You cause a water elemental to appear in an unoccupied space you can see within 120 feet of you. The elemental lasts until your concentration ends, and it obeys your verbal commands. In combat, roll for its initiative, and choose its behavior during its turns. When this effect ends, the elemental disappears. See the Monster Manual for its stat block.")
 
 def masteryofweather(npc):
-    npc.bonusactions.append("***Psychic Focus: Mastery of Water.*** While focused on this discipline, you have resistance to lightning and thunder damage. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
+    npc.bonusactions.append("***Psychic Focus: Mastery of Weather.*** While focused on this discipline, you have resistance to lightning and thunder damage. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.actions.append("***Cloud Steps (1–7 psi; concentration, 10 min.).*** You conjure forth clouds to create a solid, translucent staircase that lasts until your concentration ends. The stairs form a spiral that fills a 10-foot-by-10-foot area and reaches upward 20 feet per psi point spent.")
 
@@ -185,7 +185,7 @@ def masteryofweather(npc):
     npc.actions.append("***Thunder Clap (7 psi).*** Choose a point you can see within 60 feet of you. Thunder energy erupts in a 20-foot-radius sphere centered on that point. Each creature in that area must make Constitution saving throw. On a failed save, a target takes 8d6 thunder damage, and it is stunned until the end of your next turn. On a successful save, a target takes half as much damage.")
 
 def masteryofwoodandearth(npc):
-    npc.bonusactions.append("***Psychic Focus: Mastery of Water.*** While focused on this discipline, you have a +1 bonus to AC. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
+    npc.bonusactions.append("***Psychic Focus: Mastery of Wood and Earth.*** While focused on this discipline, you have a +1 bonus to AC. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
 
     npc.actions.append("***Animate Weapon (1–7 psi).*** Your mind seizes control of a one-handed melee weapon you’re holding. The weapon flies toward one creature you can see within 30 feet of you and makes a one-handed melee weapon attack against it, using your discipline attack modifier for the attack and damage rolls. On a hit, the weapon deals its normal damage, plus an extra 1d10 force damage per psi point spent on this ability. The weapon returns to your grasp after it attacks.")
 
