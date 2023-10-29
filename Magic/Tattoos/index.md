@@ -23,7 +23,7 @@ Rare | One limb
 Very Rare | Two limbs or the chest or upper back
 Legendary | Two limbs and the torso
 
-Two tattoos cannot occupy the same body location, so most creatures are limited to four rare tattoos, or one legendary and two rare tattoos, and so on.
+Two tattoos cannot occupy the same body location, so most creatures are limited to four rare tattoos, or one legendary and two rare tattoos, and so on. A single creature cannot have more than twelve tattoos, regardless of size.
 
 **Tatto Attunement.** Some tattoos can be found in the wild, in the form of magic needles that can be used to apply the tattoo; this is attuning the tattoo. To attune to this item, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the attunement process. When the attunement is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin. If you have multiple magic tattoos, they count as a single magic item with regard to the number of magic items you can attune to.
 

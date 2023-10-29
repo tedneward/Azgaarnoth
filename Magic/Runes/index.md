@@ -18,7 +18,7 @@ A master rune is a rare object--a gem or carved rock, a magical token, a shard o
 Unless otherwise noted, you must have a master rune on your person in order to use its properties.
 
 ## Runes
-The known runes currently form a small list:
+The known runes currently:
 
 ***Algiz* (Elk).** It symbolizes Protection, Defense, Instinct, Group Effort, Guardianship.
 
@@ -40,11 +40,11 @@ The known runes currently form a small list:
 
 ***Haug* (Arch).** It symbolizes Resilience, Fortitude, Stamina.
 
-***Ild* (Fire).** It symbolizes Forge, Craftsmanship, Skill.
+[***Ild* (Fire).**](ild.md)
 
 ***Inguz* (a Seed).** It symbolizes Goals, Growth, Change, Common Sense, The Hearth (Home).
 
-***Isa* (Ice).** It symbolizes Clarity, Stasis, Challenges, Introspection, Watching & Waiting. 
+[***Isa* (Ice).**](isa.md) 
 
 ***Jera* (the Year).** It symbolizes Cycles, Completion, Changes, Harvest, Reaping Rewards.
 
@@ -66,7 +66,7 @@ The known runes currently form a small list:
 
 ***Sowilo* (Sun).** It symbolizes Health, Honor, Resources, Victory, Wholeness, Cleansing.
 
-***Stein* (Stone).** It symbolizes Stability, Wisdom, Understanding, Patience.
+[***Stein* (Stone).**](stein.md)
 
 ***Thurisaz* (Thorn).** It symbolizes Reaction, Defense, Conflict, Catharsis, Regeneration.
 

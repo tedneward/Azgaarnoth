@@ -1,4 +1,5 @@
 # [Tabaxi](../Creatures/Tabaxi.md)
+Tabaxi are catlike humanoids driven by curiosity to wander, often to collect interesting artifacts, gather tales and stories, and lay eyes on all the world's wonders. Ultimate travelers, the inquisitive tabaxi rarely stay in one place for long. Their innate nature pushes them to leave no secrets uncovered, no treasures or legends lost.
 
 ***Tabaxi Traits.*** Your tabaxi character has the following racial traits.
 
@@ -22,7 +23,7 @@
 
 ```
 name = 'Tabaxi'
-description = "***Race: Tabaxi.*** Meow."
+description = "***Race: Tabaxi.*** Tabaxi are catlike humanoids driven by curiosity to wander, often to collect interesting artifacts, gather tales and stories, and lay eyes on all the world's wonders. Ultimate travelers, the inquisitive tabaxi rarely stay in one place for long. Their innate nature pushes them to leave no secrets uncovered, no treasures or legends lost."
 type = 'humanoid'
 def level0(npc):
     npc.DEX += 2
@@ -36,7 +37,7 @@ def level0(npc):
 
     npc.actions.append("***Feline Agility.*** When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can’t use it again until you move 0 feet on one of your turns.")
 
-    npc.defer(lambda npc: npc.actions.append(f"***Claws.*** Melee Weapon Attack: +{npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5ft., one target. Hit: 1d4 + {npc.STRbonus()} slashing damage"))
+    npc.defer(lambda npc: npc.actions.append(f"***Claws.*** *Melee Weapon Attack:* +{npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5ft., one target. Hit: 1d4 + {npc.STRbonus()} slashing damage"))
 
     npc.skills.append('Perception')
     npc.skills.append('Stealth')
@@ -77,3 +78,30 @@ d10	| Quirk
 8 | When talking about something you’re obsessed with, you speak quickly and never pause and others can’t understand you.
 9 | You are a font of random trivia from the lore and stories you have discovered.
 10 | You can’t help but pocket interesting objects you come across.
+
+```
+    obsessions = [
+        "A god or planar entity",
+        "A monster",
+        "A lost civilization",
+        "A wizard’s secrets",
+        "A mundane item",
+        "A magic item",
+        "A location",
+        "A legend or tale"
+    ]
+    npc.description.append(f"***Tabaxi Personality: Obsession.*** {obsessions[dieroll('d8') - 1]}")
+    quirks = [
+        "You miss your tropical home and complain endlessly about the freezing weather, even in summer.",
+        "You never wear the same outfit twice, unless you absolutely must.",
+        "You have a minor phobia of water and hate getting wet.",
+        "Your tail always betrays your inner thoughts.",
+        "You purr loudly when you are happy.",
+        "You keep a small ball of yarn in your hand, which you constantly fidget with.",
+        "You are always in debt, since you spend your gold on lavish parties and gifts for friends.",
+        "When talking about something you’re obsessed with, you speak quickly and never pause and others can’t understand you.",
+        "You are a font of random trivia from the lore and stories you have discovered.",
+        "You can’t help but pocket interesting objects you come across."
+    ]
+    npc.description.append(f"***Tabaxi Personality: Quirk.*** {quirks[dieroll('d10') - 1]}")
+```

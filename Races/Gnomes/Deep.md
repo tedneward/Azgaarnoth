@@ -3,6 +3,6 @@
 
 ```
 name = 'Deep'
-description = "***Deep Gnome.*** Most svirfneblin never see the light of day, and most have been in a desperate struggle for survival for too long to have the gnomish "love of life" and curiosity that characterize their surface kin."
+description = "***Deep Gnome.*** Most svirfneblin never see the light of day, and most have been in a desperate struggle for survival for too long to have the gnomish \"love of life\" and curiosity that characterize their surface kin."
 ```
 

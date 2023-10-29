@@ -178,6 +178,7 @@ def randomlist(listofchoices):
 
 def dieroll(dpattern):
     (number, size) = dpattern.split("d")
+    if number == '': number = 1
     accum = 0
     for _ in range(int(number)):
         accum += random.randint(1, int(size))
