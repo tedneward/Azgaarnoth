@@ -16,17 +16,48 @@ Spell Level|Spells
 5th|Dominate Person, Telekinesis
 
 ## Awakened Mind
-Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures. You can communicate telepathically with any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
+*1st-level Great Old One feature*
+
+Your alien knowledge gives you the ability to touch the minds of other creatures. You can communicate telepathically with any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
+
+```
+def level1(npc):
+    npc.languages.append("Telepathy (30 ft)")
+
+    npc.traits.append("***Expanded Spell List.*** The following are considered warlock spells for you: 1st: {spelllinkify('dissonant whispers')}, {spelllinkify('tashas hideous laughter')}; 2nd: {spelllinkify('detect thoughts')}, {spelllinkify('phantasmal force')}; 3rd: {spelllinkify('clairvoyance')}, {spelllinkify('sending')}, 4th: {spelllinkify('dominate beast')}, {spelllinkify('evards black tentacles')}; 5th: {spelllinkify('dominate person')}, {spelllinkify('telekinesis')}.") 
+```
 
 ## Entropic Ward
-At 6th level, you learn to magically ward yourself against attack and to turn an enemy's failed strike into good luck for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn.
+*6th-level Great Old One feature*
+
+You learn to magically ward yourself against attack and to turn an enemy's failed strike into good luck for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
+```
+def level6(npc):
+    npc.reactions.append("***Entropic Ward (Recharges on short or long rest).*** When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn.")
+```
+
 ## Thought Shield
-Starting at 10th level, your thoughts can't be read by telepathy or other means unless you allow it. You also have resistance to psychic damage, and whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you do.
+*10th-level Great Old One feature*
+
+Your thoughts can't be read by telepathy or other means unless you allow it. You also have resistance to psychic damage, and whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you do.
+
+```
+def level10(npc):
+    npc.damageresistances.append("psychic")
+    npc.traits.append("***Thought Shield.*** Your thoughts can't be read by telepathy or other means unless you allow it. Whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you do.")
+```
 
 ## Create Thrall
-At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an incapacitated humanoid. That creature is then charmed by you until a Remove Curse spell is cast on it, the charmed condition is removed from it, or you use this feature again.
+*14th-level Great Old One feature*
+
+You gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an incapacitated humanoid. That creature is then charmed by you until a Remove Curse spell is cast on it, the charmed condition is removed from it, or you use this feature again.
 
 You can communicate telepathically with the charmed creature as long as the two of you are on the same plane of existence.
+
+```
+def level14(npc):
+    npc.actions.append(f"***Create Thrall.*** You touch an incapacitated humanoid. That creature is then charmed by you until a {spelllinkify('remove curse')} spell is cast on it, the charmed condition is removed from it, or you use this feature again. You can communicate telepathically with the charmed creature as long as the two of you are on the same plane of existence.")
+```

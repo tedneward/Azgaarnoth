@@ -37,7 +37,7 @@ You can use your Channel Divinity to repel those you see as representative of th
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
-After you reach 5th level, when a creature fails its saving throw against your Skeptic's Rebuke feature, the creature is banished for 1 minute (as the banishment spell, no concentration required) if it isn't on its plane of origin and its challenge rating is 1⁄2 or lower. As you reach higher levels in your cleric class, the challenge rating can be higher, as follows: CR 1 at 8th level, CR 2 at 11th level, CR 3 at 14th level, and CR 4 at 17th level.
+After you reach 5th level, when a creature fails its saving throw against your Skeptic's Rebuke feature, the creature is banished for 1 minute (as the banishment spell, no concentration required) if it isn't on its plane of origin and its challenge rating is 1/2 or lower. As you reach higher levels in your cleric class, the challenge rating can be higher, as follows: CR 1 at 8th level, CR 2 at 11th level, CR 3 at 14th level, and CR 4 at 17th level.
 
 ## Defiant Mind
 *6th-level Defier Domain feature*
