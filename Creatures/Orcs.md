@@ -1,23 +1,25 @@
 # Orcs
 Orcs are burly raiders with prominent lower canines that resemble tusks.
 
-> Jump to: [Orc](Orcs.md#orc) | [Orc War Chief](Orcs.md#orc-war-chief) | [Orc Eye of Gruumsh](Orcs.md#orc-eye-of-gruumsh) | [Orog](Orcs.md#orog) | [Orc Blade of Ilneval](Orcs.md#orc-blade-of-ilneval) | [Orc Claw of Luthic](Orcs.md#orc-claw-of-luthic) | [Orc Hand of Yurtrus](Orcs.md#orc-hand-of-yurtrus) | [Orc Nurtured One of Yurtrus](Orcs.md#orc-nurtured-one-of-yurtrus) | [Orc Red Fang of Shargaas](Orcs.md#orc-red-fang-of-shargaas) | [Tanarukk](Orcs.md#tanarukk)
+> Jump to: [Orc](Orcs.md#orc) | [Orc Champion](Orcs.md#orc-champion) | [Orc Conqueror](Orcs.md#orc-conqueror) | [Orc War Chief](Orcs.md#orc-war-chief) | [Orc Eye of Gruumsh](Orcs.md#orc-eye-of-gruumsh) | [Orog](Orcs.md#orog) | [Orc Blade of Ilneval](Orcs.md#orc-blade-of-ilneval) | [Orc Claw of Luthic](Orcs.md#orc-claw-of-luthic) | [Orc Hand of Yurtrus](Orcs.md#orc-hand-of-yurtrus) | [Orc Nurtured One of Yurtrus](Orcs.md#orc-nurtured-one-of-yurtrus) | [Orc Red Fang of Shargaas](Orcs.md#orc-red-fang-of-shargaas) | [Tanarukk](Orcs.md#tanarukk)
 
-***Gruumsh One-Eye.*** Orcs worship [Gruumsh](../Religions/Pantheon/Gruumsh.md), the mightiest of the orc deities and their creator. The orcs believe that in ancient days, the gods gathered to divide the world among their followers. When Gruumsh claimed the mountains, he learned they had been taken by the dwarves. He laid claim to the forests, but those had been settled by the elves. Each place that Gruumsh wanted had already been claimed. The other gods laughed at Gruumsh, but he responded with a furious bellow. Grasping his mighty spear, he laid waste to the mountains, set the forests aflame, and carved great furrows in the fields. Such was the role of the orcs, he proclaimed, to take and destroy all that the other races would deny them. To this day, the orcs wage an endless war on humans, elves, dwarves, and other folk.
+***Gruumsh One-Eye.*** Orcs worship [Gruumsh](../Religions/Pantheon/Gruumsh.md), the mightiest of the orc deities and their creator. The orcs believe that in ancient days, the gods gathered to divide the world among their followers. When Gruumsh claimed the mountains, he learned they had been taken by the dwarves. He laid claim to the forests, but those had been settled by the elves. Each place that Gruumsh wanted had already been claimed. The other gods laughed at Gruumsh, but he responded with a furious bellow. Grasping his mighty spear, he laid waste to the mountains, set the forests aflame, and carved great furrows in the fields. Such was the role of the orcs, he proclaimed, to take and destroy all that the other races would deny them.
 
-Orcs hold a particular hatred for elves. According to orcish legend, the god Larethian half-blinded Gruumsh with a well-placed arrow to the orc god's eye. Since then, the orcs have taken particular joy in slaughtering elves. Turning his injury into a baleful gift, Gruumsh grants divine might to any champion who willingly plucks out one of its eyes in his honor.
+In the millennia since the Hordes came to Azgaarnoth, orcs have long been at the forefront of the battle lines, and the most reluctant to leave them. Although many orcish tribes have discovered great prosperity through peaceful coexistence, many orcs still feel Gruumsh's call deep in their bones, and those that cannot come to terms with that call either take up a life of violence in bandit gangs or join one of the omnipresent military units all across Azgaarnoth. More and more orcs, however, are finding that lives outside of battle are quite well-lived, and are embracing lifestyles outside of direct combat. In fact, many of these orcs are finding that driving a sword into a rival's guts is sometimes even exceeded by the feeling of driving a rival merchant into bankruptcy.
 
-***Tribes Like Plagues.*** Orcs gather in tribes that exert their dominance and satisfy their bloodlust by plundering villages, devouring or driving off roaming herds, and slaying any humanoids that stand against them. After savaging a settlement, orcs pick it clean of wealth and items usable in their own lands. They set the remains of villages and camps ablaze, then retreat whence they came, their bloodlust satisfied.
+Stereotypically, orcs hold a particular hatred for elves. According to orcish legend, the god Larethian half-blinded Gruumsh with a well-placed arrow to the orc god's eye. Since then, the orcs have taken particular joy in slaughtering elves. Turning his injury into a baleful gift, Gruumsh grants divine might to any champion who willingly plucks out one of its eyes in his honor. In those places where orcs and elves interact on a regular basis, there is a thinly-veiled veneer of civilized behavior, but each is quick to suspect the other in times of stress or uncertainty.
+
+***Tribes Like Plagues.*** In their past, orcs would gather in tribes that exert their dominance and satisfy their bloodlust by plundering villages, devouring or driving off roaming herds, and slaying any humanoids that stand against them. After savaging a settlement, orcs would pick it clean of wealth and items usable in their own lands. They would then set the remains of villages and camps ablaze, then retreat whence they came, their bloodlust satisfied.
+
+In the more civilized lands, orcs tend to keep to this pattern, but adjusted for the "nonviolent" context in which they now live--they will satisfy their bloodlust by maneuvering a rival into submission, often by plundering a rival's congregation for converts or by driving off customers from a rival's shop by offering deeper discounts or better merchandise. When a rival is forced to surrender, they will pick the remnants clean of wealth and/or assets, usually leaving that rival entirely bereft and alone, before retreating to celebrate. Orcs often just as ruthless in peace as they are in war.
 
 ***Ranging Scavengers.*** Their lust for slaughter demands that orcs dwell always within striking distance of new targets. As such, they seldom settle permanently, instead converting ruins, cavern complexes, and defeated foes' villages into fortified camps and strongholds. Orcs build only for defense, making no innovation or improvement to their lairs beyond mounting the severed body parts of their victims on spiked stockade walls or pikes jutting up from moats and trenches.
 
 When an existing territory is depleted of food, an orc tribe divides into roving bands that scout for choice hunting grounds. When each party returns, it brings back trophies and news of targets ripe for attack, the richest of which is chosen. The tribe then sets out en masse to carve a bloody path to its new territory.
 
-On rare occasions, a tribe's leader chooses to hold onto a particularly defensible lair for decades. The orcs of such a tribe must range far across the countryside to sate their appetites.
+On rare occasions, a tribe's leader finds, chooses to occupy, and manages to hold onto a particularly defensible lair for decades. The orcs of such a tribe must range far across the countryside to sate their appetites.
 
-***Leadership and Might.*** Orc tribes are mostly patriarchal, flaunting such vivid or grotesque titles as Many-Arrows, Screaming Eye, and Elf Ripper. Occasionally, a powerful war chief unites scattered orc tribes into a single rampaging horde, which runs roughshod over other orc tribes and humanoid settlements from a position of overwhelming strength.
-
-Strength and power are the greatest of orcish virtues, and orcs embrace all manner of mighty creatures in their tribes. They proudly welcome ogres, trolls, half-orcs, and orogs into their ranks. As well, orcs respect and fear the size and power of evil giants, and often serve them as guards and soldiers.
+***Leadership and Might.*** Strength and power are the greatest of orcish virtues, and orcs embrace all manner of mighty creatures in their tribes, flaunting such vivid or grotesque titles as Many-Arrows, Screaming Eye, and Elf Ripper. Occasionally, a powerful war chief unites scattered orc tribes into a single rampaging horde, which runs roughshod over other orc tribes and humanoid settlements from a position of overwhelming strength. They will also proudly welcome ogres, trolls, half-orcs, and orogs into their ranks.
 
 ***Orc Progeny with Non-Orcs.*** The offspring of an orc and a non-orc humanoid of similar stature is either an orc or a half-orc. When an orc produces young with an ogre, the child is a half-ogre of intimidating strength and brutish features called an ogrillon.
 
@@ -41,7 +43,7 @@ Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 ![](Orcs-Token.png)
 
 >### Orc
->*Medium humanoid (orc), chaotic evil*
+>*Medium humanoid (orc), any alignment (typically chaotic)*
 >___
 >- **Armor Class** 13 (hide armor)
 >- **Hit Points** 15 (2d8 + 6)
@@ -74,6 +76,106 @@ Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 
 ---
 
+## Orc Champion
+Orcish champions are those orcs prone to combat, but lack the ability (or the desire) to lead the tribe. In the early days of the Hordes, these were often the challengers to the warchief for leadership, but in the past millennia, these have often become the chieftain's or warchief's principal partners and/or enforcers. In fact, many have evolved into a role as representative of the tribe, often participating in ritualistic trials-by-combat or physical contests on behalf of the tribe against other tribes.
+
+### Environment
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
+
+### Token
+![](OrcWarChief-Token.png)
+
+>### Orc Champion
+>*Medium humanoid (orc), any alignment (typically chaotic)*
+>___
+>- **Armor Class** 16 (ring mail, shield)
+>- **Hit Points** 85 (10d8 + 40)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|12 (+1)|18 (+4)|7 (-2)|11 (+0)|10 (+0)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** Str +6,Con +6
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Intimidation +2
+>- **Senses** darkvision 60 ft.,passive Perception 10
+>- **Languages** Common,Orc
+>- **Challenge** 3
+>___
+>***Gruumsh's Fury.*** The orc deals an extra 4 (1d8) damage when it hits with a weapon attack (included).
+>
+>#### Actions
+>***Multiattack.*** The orc makes two weapon attacks.
+>
+>***Battleaxe.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
+>
+>***Spear.*** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 12 (1d6 + 4 plus 1d8) piercing damage.
+>
+>#### Reactions
+>***Furious Advance.*** The orc imposes disadvantage on one opportunity attack when it moves toward a hostile creature it can see. To do so, the orc must see the attacker and be carrying a shield.
+>
+>#### Bonus Actions
+>***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
+>
+
+---
+
+## Orc Conqueror
+The orcish conqueror is often a militant orc that refuses to abandon the orcish traditions of battle and combat. However, many of them find less opportunities to do so in the more "civilized" lands, and have migrated further south, towards Chidia, Tragekia, Ulm, and even Dradehalia, in pursuit of greater and greater glory in war. Many of these become mercenary captains, indulging their love of battle and combat on behalf of mercenary employers--but more than one conqueror has walked away from a contract that lacked enough "action" to suit.
+
+### Environment
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
+
+### Token
+![](OrcWarChief-Token.png)
+
+>### Orc Conqueror
+>*Medium humanoid (orc), any alignment (typically chaotic)*
+>___
+>- **Armor Class** 17 (splint mail)
+>- **Hit Points** 127 (15d8 + 60)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|19 (+4)|12 (+1)|19 (+4)|12 (+1)|12 (+1)|16 (+3)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** Str +7,Con +7,Int +4,Wis +4
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Intimidation +6,Perception +4,Survival +4
+>- **Senses** darkvision 60 ft.,passive Perception 14
+>- **Languages** Common,Orc
+>- **Challenge** 7
+>___
+>***Gruumsh's Fury.*** The orc deals an extra 4 (1d8) damage when it hits with a weapon attack (included).
+>
+>#### Actions
+>***Multiattack.*** The orc makes three weapon attacks.
+>
+>***Greataxe.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. Hit: 15 (1d12 + 4 plus 1d8) slashing damage.
+>
+>***Spear.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft. , one target. Hit: 12 (1d6 + 4 plus 1d8) piercing damage. *Ranged Weapon Attack:* +7 to hit, range 20/60 ft., one target. Hit: 12 (1d6 + 4 plus 1d8) piercing damage.
+>
+>#### Reactions
+>***Furious Defense.*** The orc imposes disadvantage on one melee weapon attack by an opponent it can see. If the attack hits anyway, the orc can make one melee weapon attack against that opponent.
+>
+>#### Bonus Actions
+>***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
+>
+
+---
+
 ## Orc War Chief
 In their original Hordish nature, the war chief of an orc tribe was its strongest and most cunning member; as the orcs have matured as a race, their war chiefs have similarly evolved. While in the past the reign of a war chief lasts only as long as it commands the fear and respect of other tribe members, whose bloodlust must be regularly satisfied lest the chief appear weak, modern orcish tribes often rally around a leader whose intellect and mindset can lead them to greater glory, even if that isn't always through battle.
 
@@ -86,7 +188,7 @@ Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 ![](OrcWarChief-Token.png)
 
 >### Orc War Chief
->*Medium humanoid (orc), chaotic evil*
+>*Medium humanoid (orc), any alignment (typically chaotic)*
 >___
 >- **Armor Class** 16 (chain mail)
 >- **Hit Points** 93 (11d8 + 44)
@@ -137,7 +239,7 @@ Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 ![](./Orcs-EyeOfGruumsh-Token.png)
 
 >### Orc Eye of Gruumsh
->*Medium humanoid (orc), chaotic evil*
+>*Medium humanoid (orc), any alignment (typically chaotic)*
 >___
 >- **Armor Class** 16 (ring mail, shield)
 >- **Hit Points** 45 (6d8 + 18)
@@ -200,7 +302,7 @@ Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 ![](./Orcs-Orog-Token.png)
 
 >### Orog
->*Medium humanoid (orc), chaotic evil*
+>*Medium humanoid (orc), any alignment (typically chaotic)*
 >___
 >- **Armor Class** 18 (plate)
 >- **Hit Points** 42 (5d8 + 20)
@@ -247,7 +349,7 @@ Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 ![](OrcBladeofIlneval-Token.png)
 
 >### Orc Blade of Ilneval
->*Medium humanoid (orc), chaotic evil*
+>*Medium humanoid (orc), any alignment (typically chaotic)*
 >___
 >- **Armor Class** 18 (chain mail, shield)
 >- **Hit Points** 60 (8d8 + 24)
@@ -298,7 +400,7 @@ Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 ![](OrcClawofLuthic-Token.png)
 
 >### Orc Claw of Luthic
->*Medium humanoid (orc), chaotic evil*
+>*Medium humanoid (orc), any alignment (typically chaotic)*
 >___
 >- **Armor Class** 14 (hide armor)
 >- **Hit Points** 45 (6d8 + 18)
@@ -322,13 +424,10 @@ Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 >___
 >***Spellcasting.*** The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The orc has the following cleric spells prepared:
 >
->Cantrips (at will): guidance, mending, resistance, thaumaturgy
->
->1st level (4 slots): bane, cure wounds, guiding bolt
->
->2nd level (3 slots): augury, warding bond
->
->3rd level (2 slots): bestow curse, create food and water
+>* *Cantrips (at will):* guidance, mending, resistance, thaumaturgy
+>* *1st level (4 slots):* bane, cure wounds, guiding bolt
+>* *2nd level (3 slots):* augury, warding bond
+>* *3rd level (2 slots):* bestow curse, create food and water
 >
 >#### Actions
 >***Multiattack.*** The orc makes two claw attacks, or four claw attacks if it has fewer than half of its hit points remaining.
@@ -357,7 +456,7 @@ Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 ![](OrcHandofYurtrus-Token.png)
 
 >### Orc Hand of Yurtrus
->*Medium humanoid (orc), chaotic evil*
+>*Medium humanoid (orc), any alignment (typically chaotic)*
 >___
 >- **Armor Class** 12 (hide armor)
 >- **Hit Points** 30 (4d8 + 12)
@@ -406,7 +505,7 @@ Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 ![](OrcNurturedOneofYurtrus-Token.png)
 
 >### Orc Nurtured One of Yurtrus
->*Medium humanoid (orc), chaotic evil*
+>*Medium humanoid (orc), any alignment (typically chaotic)*
 >___
 >- **Armor Class** 9
 >- **Hit Points** 30 (4d8 + 12)
@@ -457,7 +556,7 @@ Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 ![](OrcRedFangofShargaas-Token.png)
 
 >### Orc Red Fang of Shargaas
->*Medium humanoid (orc), chaotic evil*
+>*Medium humanoid (orc), any alignment (typically chaotic)*
 >___
 >- **Armor Class** 15 (studded leather)
 >- **Hit Points** 52 (8d8 + 16)
@@ -516,7 +615,7 @@ Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 ![](Tanarukk-Token.png)
 
 >### Tanarukk
->*Medium fiend (demon;orc), chaotic evil*
+>*Medium fiend (demon/orc), chaotic evil*
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 95 (10d8 + 50)

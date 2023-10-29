@@ -13,72 +13,72 @@ Runes are always enscribed on something, but some runes are enscribed on tablets
 A master rune is a rare object--a gem or carved rock, a magical token, a shard of some special material, and so on--engraved with the rune and empowered with magic that allows you to unleash the rune’s effects. Those effects are divided into two categories.
 
 * **Simple properties** are usable by anyone who attunes to a master rune.
-* **Complex properties** are usable only by a character who attunes to a master rune and who possesses the Rune Lore class feature.
+* **Complex properties** are usable only by a character who attunes to a master rune and who possesses the Rune Lore feature.
 
 Unless otherwise noted, you must have a master rune on your person in order to use its properties.
 
 ## Runes
 The known runes currently form a small list:
 
-***Fehu* (Livestock).** It symbolizes Wealth, Abundance, Success, Security, Fertility.
-
-***Uruz* (Bull).** It symbolizes Strength, Tenacity, Courage, Untamed Potential, Freedom. 
-
-***Thurisaz* (Thorn).** It symbolizes Reaction, Defense, Conflict, Catharsis, Regeneration.
+***Algiz* (Elk).** It symbolizes Protection, Defense, Instinct, Group Effort, Guardianship.
 
 ***Ansuz* (Estuary).** It symbolizes the Mouth, Communication, Understanding, Inspiration.
 
-***Raidho* (Wagon).** It symbolizes Travel, Rhythm, Spontaneity, Evolution, Decisions. 
+***Berkana* (a Birch Tree).** It symbolizes Femininity, Fertility, Healing, Regeneration, Birth.
 
-***Kennaz* (Torch).** It symbolizes Vision, Creativity, Inspiration, Improvement, Vitality.
+***Dagaz* (Dawn).** It symbolizes Awakening, Certainty, Illumination, Completion, Hope.
+
+***Ehwaz* (Horse).** It symbolizes Transportation, Movement, Progress, Trust, Change. 
+
+***Eihwaz* (a Yew Tree).** It symbolizes Balance, Enlightenment, Death, The World Tree.
+
+***Fehu* (Livestock).** It symbolizes Wealth, Abundance, Success, Security, Fertility.
 
 ***Gebo* (Gift).** It symbolizes Balance, Exchange, Partnership, Generosity, Relationships. 
 
-***Wunjo* (Joy).** It symbolizes Pleasure, Comfort, Harmony, Prosperity, Reward, Success. 
-
 ***Hagalaz* (Hail).** It symbolizes Nature, Wrath, Being Tested, Overcoming Obstacles.
 
-***Nauthiz* (Need).** It symbolizes Restriction, Conflict, Willpower, Endurance, Self-Reliance.             
+***Haug* (Arch).** It symbolizes Resilience, Fortitude, Stamina.
+
+***Ild* (Fire).** It symbolizes Forge, Craftsmanship, Skill.
+
+***Inguz* (a Seed).** It symbolizes Goals, Growth, Change, Common Sense, The Hearth (Home).
 
 ***Isa* (Ice).** It symbolizes Clarity, Stasis, Challenges, Introspection, Watching & Waiting. 
 
 ***Jera* (the Year).** It symbolizes Cycles, Completion, Changes, Harvest, Reaping Rewards.
 
-***Eihwaz* (a Yew Tree).** It symbolizes Balance, Enlightenment, Death, The World Tree.
+***Laguz* (Water).** It symbolizes Intuition, Emotions, Flow, Renewal, Dreams, Hopes & Fears.
 
-***Perthro* (a Dice Cup).** It symbolizes Fate, Chance, Mystery, Destiny, Secrets. 
-
-***Algiz* (Elk).** It symbolizes Protection, Defense, Instinct, Group Effort, Guardianship.
-
-***Sowilo* (Sun).** It symbolizes Health, Honor, Resources, Victory, Wholeness, Cleansing.
-
-***Tiwaz* (Warrior).** It symbolizes Masculinity, Justice, Leadership, Logic, Battle. 
-
-***Berkana* (a Birch Tree).** It symbolizes Femininity, Fertility, Healing, Regeneration, Birth.
-
-***Ehwaz* (Horse).** It symbolizes Transportation, Movement, Progress, Trust, Change. 
+***Kennaz* (Torch).** It symbolizes Vision, Creativity, Inspiration, Improvement, Vitality.
 
 ***Mannaz* (Humanity).** It symbolizes Individuality, Friendship, Society, Cooperation, Help. 
 
-***Laguz* (Water).** It symbolizes Intuition, Emotions, Flow, Renewal, Dreams, Hopes & Fears.
-
-***Inguz* (a Seed).** It symbolizes Goals, Growth, Change, Common Sense, The Hearth (Home).
+***Nauthiz* (Need).** It symbolizes Restriction, Conflict, Willpower, Endurance, Self-Reliance.             
 
 ***Othala* (Inheritance).** It symbolizes Ancestry, Possessions, Heritage, Experience, Value.
 
-***Dagaz* (Dawn).** It symbolizes Awakening, Certainty, Illumination, Completion, Hope.
+***Perthro* (a Dice Cup).** It symbolizes Fate, Chance, Mystery, Destiny, Secrets. 
+
+***Raidho* (Wagon).** It symbolizes Travel, Rhythm, Spontaneity, Evolution, Decisions. 
 
 ***Skye* (Cloud).** It symbolizes Trickery, Deception, Misdirection.
 
-***Ild* (Fire).** It symbolizes Forge, Craftsmanship, Skill.
-
-***Haug* (Arch).** It symbolizes Resilience, Fortitude, Stamina.
+***Sowilo* (Sun).** It symbolizes Health, Honor, Resources, Victory, Wholeness, Cleansing.
 
 ***Stein* (Stone).** It symbolizes Stability, Wisdom, Understanding, Patience.
 
-***Vind* (Wind).** It symbolizes Change, Freedom, Direction, Communication.
+***Thurisaz* (Thorn).** It symbolizes Reaction, Defense, Conflict, Catharsis, Regeneration.
+
+***Tiwaz* (Warrior).** It symbolizes Masculinity, Justice, Leadership, Logic, Battle. 
+
+***Uruz* (Bull).** It symbolizes Strength, Tenacity, Courage, Untamed Potential, Freedom. 
 
 ***Uvar* (Storm).** It symbolizes Insight, Perception, Mystery, Contradiction, Chaos.
+
+***Vind* (Wind).** It symbolizes Change, Freedom, Direction, Communication.
+
+***Wunjo* (Joy).** It symbolizes Pleasure, Comfort, Harmony, Prosperity, Reward, Success. 
 
 In the days of the Eldar, it was not uncommon for the Eldar to combine runes to create powerful combinatorial effects (for example, the walls of Flakew still blaze with runes that appear to be a combination of the runes *thurisaz* and *othala*, and have never needed a moment of maintenance in recorded history despite numerous attempts to fell them or topple them), but such skill is lost to the world today.
 

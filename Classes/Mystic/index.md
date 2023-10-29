@@ -219,7 +219,16 @@ Though you have access to a potent amount of psionic energy, it takes training a
 
     choosediscipline(npc)
 
-    npc.defer(lambda npc: npc.actions.append(f"***Psionic Ability (Int, at level {npc.levels('Mystic')}. Recharges on long rest).*** {mystictable[npc.levels('Mystic')][0]} talents known. {mystictable[npc.levels('Mystic')][1]} disciplines known. {mystictable[npc.levels('Mystic')][2]} Psi Points. Psi Limit {mystictable[npc.levels('Mystic')][3]}/discipline. Discipline save DC {8 + npc.proficiencybonus() + npc.INTbonus()}, +{npc.proficiencybonus() + npc.INTbonus()} discipline attack bonus.") )
+    def psionicabilitytext(npc):
+        results  = f"***Psionic Ability (Int, at level { npc.levels('Mystic') }. Recharges on long rest).*** "
+        results += f"{ mystictable[npc.levels('Mystic')][2] } Psi points. "
+        results += f"{ mystictable[npc.levels('Mystic')][0] } talents known ({ ', '.join(npc.psionictalents) }). "
+        results += f"{ mystictable[npc.levels('Mystic')][1] } disciplines known ({ ', '.join(npc.psionicdisciplines) }). "
+        results += f"{ mystictable[npc.levels('Mystic')][3] } Psi/discipline. "
+        results += f"Discipline save DC { 8 + npc.proficiencybonus() + npc.INTbonus() }, +{npc.proficiencybonus() + npc.INTbonus()} attack bonus"
+        return results
+
+    npc.defer(lambda npc: npc.actions.append(psionicabilitytext(npc)) )
 ```
 
 ### Psychic Focus
