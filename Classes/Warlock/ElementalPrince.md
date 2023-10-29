@@ -1,9 +1,9 @@
-# Otherworldly Patron: Elemental Evil
+# Otherworldly Patron: Elemental Prince
 Your patron is a primordial spirit of elemental destruction, dedicated to one of the four elements that together comprise the building blocks of the material plane. The primal forces you command are often directed towards evil, but also hold the potential for acts of creation. Examples of patrons able to invest you with these powers include Olhydra, Imix, Yan-C-Bin and Orgremoch.
 
-When you choose this subclass, pick Fire, Water, Earth or Air, depending on the nature of your patron.
+When you choose this subclass, pick Fire, Water, Earth or Air, depending on the nature of your patron. You may also choose a patron that exists at the intersection of the elements, such as Magma (Fire/Earth), Ice (Water/Air), Ooze (Water/Earth), or Ash (Fire/Air).
 
-Expanded Spell List
+## Expanded Spell List
 The Elemental Evil lets you choose from an expanded list of spells when you learn a warlock spell. The Elemental Evil Expanded Spells table shows the spells that are added to the warlock spell list for you, depending on your patron's nature: fire, water, earth or air. Options are also provided for elementals hailing from the liminal planes of Ice, Magma, Ooze and Ash which form the borders between their larger cousins.
 
 Spell Level | Elemental Spells | Fire Spells | Water Spells | Earth Spells | Air Spells | Magma Spells | Ice Spells | Ooze Spells | Ash Spells
@@ -28,7 +28,7 @@ Earth, Ooze | mold earth
 Air, Ash    | gust
 
 ## ELemental Wards
-Starting at 6th level, your link to the planes manifests itself in your body, protecting you against attacks. The form this takes changes based on your patron's nature.
+Starting at 6th level, your link to the planes manifests itself in your body, protecting you against attacks. The form this takes changes based on your patron's nature. For those which have two natures, you may choose one of the two.
 
 Patron Nature | Ability
 ------------- | --------------

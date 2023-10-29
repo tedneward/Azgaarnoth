@@ -8,10 +8,24 @@ When you cast [eldritch blast](../../Magic/Spells/eldritch-blast.md), add your C
 ### Armor of Shadows
 You can cast [mage armor](../../Magic/Spells/mage-armor.md) on yourself at will, without expending a spell slot or material components.
 
+```
+def armorofshadows(npc):
+    npc.actions.append(f"***Armor of Shadows.*** You can cast {spelllinkify('mage armor')} at will, without expending a spell slot or material components.")
+
+def armorofshadows_prereq(npc): return True
+```
+
 ### Ascendant Step
 *Prerequisite: 9th level*
 
 You can cast [levitate](../../Magic/Spells/levitate.md) on yourself at will, without expending a spell slot or material components.
+
+```
+def ascendantstep(npc):
+    npc.actions.append(f"***Ascendant Step.*** You can cast {spelllinkify('levitate')} on yourself at will, without expending a spell slot or material components.")
+
+def ascendantstep_prereq(npc): return npc.levels('Warlock') >= 9
+```
 
 ### Aspect of the Moon
 *Prerequisite: Pact of the Tome feature*
@@ -21,13 +35,35 @@ You no longer need to sleep and can't be forced to sleep by any means. To gain t
 ### Beast Speech
 You can cast [speak with animals](../../Magic/Spells/speak-with-animals.md) at will, without expending a spell slot.
 
+```
+def beastspeech(npc):
+    npc.actions.append(f"***Beast Speech.*** You can cast {spelllinkify('speak with animals')} at will, without expending a spell slot.")
+
+def beastspeech_prereq(npc): return True
+```
+
 ### Beguiling Influence
 You gain proficiency in the Deception and Persuasion skills.
+
+```
+def beguilinginfluence(npc):
+    npc.proficiencies.append('Deception')
+    npc.proficiencies.append('Persuasion')
+
+def beguilinginfluence_prereq(npc): return True
+```
 
 ### Bewitching Whispers
 *Prerequisite: 7th level*
 
 You can cast [compulsion](../../Magic/Spells/compulsion.md) once using a warlock spell slot. You can't do so again until you finish a long rest.
+
+```
+def bewitchingwhispers(npc):
+    npc.actions.append(f"***Bewitching Whispers (Recharges on long rest).*** You can cast {spelllinkify('compulsion')} using a warlock a spell slot.")
+
+def bewitchingwhispers_prereq(npc): return npc.levels('Warlock') >= 7
+```
 
 ### Bond of the Talisman
 *Prerequisite: 12th level, Pact of the Talisman feature*
@@ -51,6 +87,13 @@ As a bonus action, you can command your familiar to make one attack.
 
 You can cast [hold monster](../../Magic/Spells/hold-monster.md) at will -- targeting a celestial, fiend, or elemental -- without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
 
+```
+def chainsofcarceri(npc):
+    npc.actions.append(f"***Chains of Carceri (Recharges on long rest).*** You can cast {spelllinkify('hold monster')} at will, targeting a celestial, fiend, or elemental, without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.")
+
+def chainsofcarceri_prereq(npc): return npc.levels('Warlock') >= 15
+```
+
 ### Cloak of Flies
 *Prerequisite: 5th level*
 
@@ -62,6 +105,14 @@ Once you use this invocation, you can't use it again until you finish a short or
 
 ### Devil's Sight
 You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
+
+```
+def devilssight(npc):
+    npc.traits.append(f"***Devil's Sight.*** You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.")
+    npc.sight['devilsight'] = 120
+
+def devilssight_prereq(npc): return npc.levels('Warlock') >= 15
+```
 
 ### Dreadful Word
 *Prerequisite: 7th level*
@@ -99,12 +150,19 @@ You can read all writing.
 
 A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your Charisma modifier (minimum of 1).
 
-You can cast the sending spell, targeting a creature whose name is on the page, without using a spell slot and without using material components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.
+You can cast the [sending](../../Magic/Spells/sending.md) spell, targeting a creature whose name is on the page, without using a spell slot and without using material components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.
 
 As an action, you can magically erase a name on the page by touching the name on it.
 
 ### Fiendish Vigor
 You can cast [false life](../../Magic/Spells/false-life.md) on yourself at will as a 1st-level spell, without expending a spell slot or material components.
+
+```
+def fiendishvigor(npc):
+    npc.actions.append(f"***Fiendish Vigor.*** You can cast {spelllinkify('false life')} on yourself as a 1st-level spell at will, without expending a spell slot or material components.")
+
+def fiendishvigor_prereq(npc): return True
+```
 
 ### Gaze of Two Minds
 You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
@@ -121,7 +179,7 @@ Once you use this invocation, you can't use it again until you finish a short or
 
 You can breathe underwater, and you gain a swimming speed equal to your walking speed.
 
-You can also cast water breathing once without expending a spell slot. You regain the ability to do so when you finish a long rest.
+You can also cast [water breathing](../../Magic/Spells/water-breathing.md) once without expending a spell slot. You regain the ability to do so when you finish a long rest.
 
 ### Gift of the Ever-Living Ones
 *Prerequisite: Pact of the Chain feature*
@@ -184,6 +242,8 @@ You can cast [disguise self](../../Magic/Spells/disguise-self.md) at will, witho
 
 You can cast [alter self](../../Magic/Spells/alter-self) at will, without expending a spell slot.md.
 
+
+
 ### Minions of Chaos
 *Prerequisite: 9th level*
 
@@ -196,6 +256,12 @@ You can cast [slow](../../Magic/Spells/slow.md) once using a warlock spell slot.
 
 ### Misty Visions
 You can cast [silent image](../../Magic/Spells/silent-image.md) at will, without expending a spell slot or material components.
+
+```
+def mistyvision(npc):
+    npc.traits.append("You can cast [silent image](../../Magic/Spells/silent-image.md) at will, without expending a spell slot or material components.")
+def mistyvision_prereq(npc): return True
+```
 
 ### One with Shadows
 *Prerequisite: 5th level*
@@ -237,6 +303,14 @@ You can cast [polymorph](../../Magic/Spells/polymorph.md) once using a warlock s
 
 You can cast [invisibility](../../Magic/Spells/invisibility.md) at will, without expending a spell slot.
 
+```
+def shroudofshadow(npc):
+    npc.actions.append(f"***Shroud of Shadow.*** You can cast {spelllinkify('invisibility')} at will, without expending a spell slot.")
+
+def shroudofshadow_prereq(npc):
+    return npc.levels('Warlock') >= 15
+```
+
 ### Sign of Ill Omen
 *Prerequisite: 5th level*
 
@@ -257,15 +331,39 @@ As a reaction when you take damage, you can entomb yourself in ice, which melts 
 
 Once you use this invocation, you can't use it again until you finish a short or long rest.
 
+```
+def tomboflevistus(npc):
+    npc.defer(lambda npc: npc.reactions.append(f"***Tomb of Levistus (Recharges on short or long rest).*** You entomb yourself in ice, which melts away at the end of your next turn. You gain {10 * npc.levels('Warlock')} temporary hit points, which take as much of the triggering damage as possible. Immediately after you take the damage, you gain vulnerability to fire damage, your speed is reduced to 0, and you are incapacitated. These effects, including any remaining temporary hit points, all end when the ice melts.") )
+
+def tomboflevistus_prereq(npc):
+    return npc.levels('Warlock') >= 5
+```
+
 ### Trickster's Escape
 *Prerequisite: 7th level*
 
 You can cast [freedom of movement](../../Magic/Spells/freedom-of-movement.md) once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.
 
+```
+def trickstersescape(npc):
+    npc.actions.append(f"***Trickster's Escape (Recharges on long rest).*** You can cast {spelllinkify('freedom')} on yourself, without expending a spell slot.")
+
+def trickstersescape_prereq(npc):
+    return npc.levels('Warlock') >= 15
+```
+
 ### Visions of Distant Realms
 *Prerequisite: 15th level*
 
 You can cast [arcane eye](../../Magic/Spells/arcane-eye.md) at will, without expending a spell slot.
+
+```
+def visionsofdistantrealms(npc):
+    npc.actions.append(f"***Visions of Distant Realms.*** You can cast {spelllinkify('arcane eye')} at will, without expending a spell slot.")
+
+def visionsofdistantrealms_prereq(npc):
+    return npc.levels('Warlock') >= 15
+```
 
 ### Voice of the Chain Master
 *Prerequisite: Pact of the Chain feature*
@@ -277,7 +375,46 @@ You can communicate telepathically with your familiar and perceive through your 
 
 You can cast [speak with dead](../../Magic/Spells/speak-with-dead.md) at will, without expending a spell slot.
 
+```
+def whispersofthegrave(npc):
+    npc.actions.append(f"***Whispers of the Grave.*** You can cast {spelllinkify('speak with dead')} at will, without expending a spell slot.")
+
+def whispersofthegrave_prereq(npc):
+    return npc.levels('Warlock') >= 9
+```
+
 ### Witch Sight
 *Prerequisite: 15th level*
 
 You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.
+
+```
+def witchsight(npc):
+    npc.senses['witchsight'] = 30
+    npc.traits.append("***Witch Sight.*** You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.")
+
+def witchsight_prereq(npc):
+    return npc.levels('Warlock') >= 15
+```
+
+```
+invocations = {
+    'Misty Vision': mistyvision,
+    'Witch Sight': witchsight
+}
+def chooseinvocation(npc):
+    choices = {}
+    for (name, fn) in invocations.items():
+        prereqfn = globals()[globals()[fn].__name__ + '_prereq']()
+        if prereqfn(npc):
+            if name in npc.invocations:
+                pass
+            else:
+                choices[name] = details[1]
+
+    (invocationname, invocationfn) = choose("Choose an Eldritch Invocation: ", invocations)
+    npc.invocations.append(invocationname)
+    invocationfn(npc)
+
+allclasses['Warlock'].chooseinvocation = chooseinvocation
+```

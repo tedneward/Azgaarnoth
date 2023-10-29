@@ -534,7 +534,7 @@ def loadclasses():
 #        
 #        # Load class and subclasses
 #        if (ismdfile(entry) and os.path.basename(entry) not in excludedentries):
-#            log(f"Parsing Feat {entry}...")
+#            log(f"Parsing Background {entry}...")
 #            bgmodule = loadmodule(entry, os.path.basename(entry))
 #            if bgmodule != None:
 #                backgrounds[bgmodule.name] = bgmodule
