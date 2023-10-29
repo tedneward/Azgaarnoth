@@ -51,7 +51,7 @@ def level1(npc):
 You gain proficiency with martial weapons.
 
 ```
-    for wpn in weapons['simple-melee'] | weapons['martial-melee'] | weapons['simple-ranged'] | weapons['martial-ranged']:
+    for wpn in weapons['martial-melee'] | weapons['martial-ranged']:
         npc.proficiencies.append(wpn)
 ```
 
