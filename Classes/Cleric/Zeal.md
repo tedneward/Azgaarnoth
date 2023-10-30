@@ -1,5 +1,5 @@
 # Divine Domain: Zeal
-This is a domain granted by [the Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric),the [Kaevarian Church](../../Religions/KaevarianChurch.md), ...
+The Zeal domain is not so much a concept owned by a diety, but the fervor with which a worshiper evangelizes their divine being's message or portfolio; as a result any cleric can be a Zealot, but to do so is to take the messages of the diety as your core identity.
 
 ## Domain Spells
 Starting at 1st level, you gain domain spells at the cleric levels listed in the Unity Domain Spells table. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.

@@ -136,9 +136,8 @@ You can use a holy symbol as a spellcasting focus for your cleric spells.
 ## Divine Domain
 *1st-level cleric feature*
 
-Choose one domain:
+Choose one domain, or choose a [diety or religion](../../Religions/index.md) and select one of their domains:
 
-* [Abandoned](Abandoned.md)
 * [Air](Air.md)
 * [Arcana](Arcana.md)
 * [Blood](Blood.md)
@@ -147,12 +146,10 @@ Choose one domain:
 * [Cold](Cold.md)
 * [Dark](Dark.md)
 * [Death](Death.md)
-* [Defier](Defier.md)
 * [Desire](Desire.md)
 * [Destruction](Destruction.md)
 * [Dragon](Dragon.md)
 * [Earth](Earth.md)
-* [Entropy](Entropy.md)
 * [Fertility](Fertility.md)
 * [Fire](Fire.md)
 * [Forge](Forge.md)
@@ -172,7 +169,6 @@ Choose one domain:
 * [Order](Order.md)
 * [Pain](Pain.md)
 * [Peace](Peace.md)
-* [Phoenix](Phoenix.md)
 * [Protection](Protection.md)
 * [Shadow](Shadow.md)
 * [Tempest](Tempest.md)
@@ -183,6 +179,12 @@ Choose one domain:
 * [Vengeance](Vengeance.md)
 * [War](War.md)
 * [Water](Water.md)
+
+Alternatively, there are some "concepts" beyond the simple "deity worship" that--somehow--yield divine power and benefits:
+
+* [Abandoned](Abandoned.md)
+* [Defier](Defier.md)
+* [Entropy](Entropy.md)
 * [Zeal](Zeal.md)
 
 Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use [Channel Divinity](#channel-divinity) when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
