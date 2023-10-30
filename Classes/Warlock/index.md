@@ -42,9 +42,30 @@ class PactMagic:
         self.spellslots = 0
         self.slotlevel = 0
 
-    def spellsavedc(self): return 8 + npc.proficiencybonus() + npc.CHAbonus()
+    def calculate(self):
+        npclevels = self.npc.levels('Warlock')
+        self.maxcantripsknown = 2 if npclevels < 4 else 3 if npclevels < 10 else 4
+        match npclevels:
+            case 1: self.maxspellsknown = 2
+            case 2: self.maxspellsknown = 3
+            case 3: self.maxspellsknown = 4
+            case 4: self.maxspellsknown = 5
+            case 5: self.maxspellsknown = 6
+            case 6: self.maxspellsknown = 7
+            case 7: self.maxspellsknown = 8
+            case 8: self.maxspellsknown = 9
+            case 9 | 10: self.maxspellsknown = 10
+            case 11 | 12: self.maxspellsknown = 11
+            case 13 | 14: self.maxspellsknown = 12
+            case 15 | 16: self.maxspellsknown = 13
+            case 17 | 18: self.maxspellsknown = 14
+            case 19 | 20: self.maxspellsknown = 15
+        self.spellslots = 1 if npclevels < 2 else 2 if npclevels < 11 else 3 if npclevels < 17 else 4
+        self.slotlevel = 1 if npclevels < 3 else 2 if npclevels < 5 else 3 if npclevels < 7 else 4 if npclevels < 9 else 5
 
-    def spellattackbonus(self): return npc.proficiencybonus() + npc.CHAbonus()
+    def spellsavedc(self): return 8 + self.npc.proficiencybonus() + self.npc.CHAbonus()
+
+    def spellattackmodifier(self): return self.npc.proficiencybonus() + self.npc.CHAbonus()
 ```
 
 As a warlock, you gain the following class features.
@@ -168,7 +189,8 @@ Whenever you finish a long rest, you can replace one spell you learned from this
 ```
     # Something something pact magic
     npc.pactmagic = PactMagic(npc)
-    npc.defer(lambda npc: npc.actions.append(f"***Pact Magic.*** {npc.pactmagic.maxcantripsknown()} cantrips known. {npc.pactmagic.spellslots()} {npc.pactmagic.slotlevel}-level spell slots. {npc.pactmagic.maxspellsknown()} spells known. Spell save DC {npc.pactmagic.spellsavedc()}. Spell attack modifier +{npc.pactmagic.spellattackmodifier()}. Cantrips known: {', '.join(npc.pactmagic.cantripsknown)} Spells known: {', '.join(npc.pactmagic.spellsknown)}") )
+    npc.defer(lambda npc: npc.pactmagic.calculate() )
+    npc.defer(lambda npc: npc.actions.append(f"***Pact Magic.*** {npc.pactmagic.maxcantripsknown} cantrips known. {npc.pactmagic.spellslots} {npc.pactmagic.slotlevel}th-level spell slots. {npc.pactmagic.maxspellsknown} spells known. Spell save DC {npc.pactmagic.spellsavedc()}. Spell attack modifier +{npc.pactmagic.spellattackmodifier()}. Cantrips known: {', '.join(npc.pactmagic.cantripsknown)}. Spells known: {', '.join(npc.pactmagic.spellsknown)}.") )
 ```
 
 ## Eldritch Invocations
@@ -183,6 +205,7 @@ Additionally, when you gain a level in this class, you can choose one of the inv
 A level prerequisite in an invocation refers to warlock level, not character level.
 
 ```
+    npc.pactboon = ''
     npc.invocations = []
 
 def level2(npc):
@@ -234,6 +257,16 @@ def pactofthechain(npc):
     npc.actions.append("***Familiar Attack.*** When you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.")
 ```
 
+*  **Pact of the Ring**
+  You bear a nigh-indestructible ring. If the ring is lost or somehow destroyed, you can perform a 1-hour ceremony to create a replacement. 
+  
+  While you bear this ring, once during your turn when you hit with an attack roll for a melee weapon or a cantrip, you can inflict extra radiant damage equal to your Charisma bonus on one target you hit with that attack. If the damage for the attack already includes your Charisma bonus (such as if you hit with eldritch blast and have the Agonizing Blast eldritch invocation), you cannot inflict this extra damage. An attack which includes this extra damage blazes with a violet, starlight glare.
+
+```
+def pactofthering(npc):
+    npc.actions.append("***Pact of the Ring.*** Once during your turn when you hit with an attack roll for a melee weapon or a cantrip, you can inflict extra radiant damage equal to your Charisma bonus on one target you hit with that attack. If the damage for the attack already includes your Charisma bonus (such as if you hit with eldritch blast and have the Agonizing Blast eldritch invocation), you cannot inflict this extra damage. An attack which includes this extra damage blazes with a violet, starlight glare.")
+```
+
 * **Pact of the Talisman**
   Your patron gives you a special amulet, a talisman that can aid you, or anyone else who wears it, when the need is great. When the wearer makes an ability check with a skill in which they lack proficiency, they can add a d4 to the roll. If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet.
 
@@ -256,11 +289,17 @@ def pactofthetome(npc):
 pactboons = {
     'Pact of the Blade': pactoftheblade,
     'Pact of the Chain': pactofthechain,
+    'Pact of the Ring': pactofthering,
     'Pact of the Talisman': pactofthetalisman,
     'Pact of the Tome': pactofthetome
 }
 def choosepact(npc):
-    npc.pact = choose("Choose your Pact: ", pactboons)
+    (pactname, pactfn) = choose("Choose your Pact: ", pactboons)
+    npc.pactboon = pactname
+    print(npc.pactboon)
+
+def level3(npc):
+    choosepact(npc)
 ```
 
 
@@ -286,10 +325,29 @@ You can cast your arcanum spell once without expending a spell slot. You must fi
 
 At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.
 
+```
+def level11(npc):
+    def arcanumcasting(npc):
+        arcanum = innatecaster(npc, 'CHA', 'Mystic Arcanum')
+        arcanum.perday[1] = ['CHOOSE-6th-level']
+        if npc.levels('Warlock') >= 13:
+            arcanum.perday[1].append('CHOOSE-7th-level')
+        if npc.levels('Warlock') >= 15:
+            arcanum.perday[1].append('CHOOSE-8th-level')
+        if npc.levels('Warlock') >= 17:
+            arcanum.perday[1].append('CHOOSE-9th-level')
+    npc.defer(lambda npc: arcanumcasting(npc) )
+```
+
 ## Eldritch Master
 *20th-level warlock feature*
 
 You can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots. You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can do so again.
+
+```
+def level20(npc):
+    npc.traits.append("***Eldritch Master (Recharges on long rest).*** You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature.")
+```
 
 ---
 

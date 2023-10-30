@@ -1,4 +1,4 @@
-# Warlock Patron: Great Phoenix
+# Otherworldly Patron: Great Phoenix
 The source of your power is the greatest of winged creatures, the mighty Phoenix. A Phoenix often approaches those who have suffered, and overcome great trauma. They are noble creatures who do not easily pick the side of evil, but also respect and reward wrathful passion. Those that make a pact with a Phoenix are likely to be emotionally volatile, and unconcerned with consequence. The price phoenixes usually require from their warlocks is change. A Phoenix might demand a warlock to work towards the destruction of a corrupt government, in order to interpose a new order from its ashes. As far as warlock patrons go, the Phoenix is less prone to long term schemes. A goal a Phoenix had in mind might no longer interest it on a frequent, almost random basis.
 
 ## Expanded Spell List

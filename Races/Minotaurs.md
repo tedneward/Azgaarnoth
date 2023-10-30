@@ -1,5 +1,4 @@
 # [Minotaurs](../Creatures/Minotaur.md)
-
 Minotaurs found in [Yithi](../Nations/Yithi.md) and (less often) [Zhi](../Nations/Zhi.md) are quite strikingly different from their Horde-homed brethren: frequently solitary, thoughtful, and quite committed to rule of law and order.
 
 ```
@@ -68,3 +67,85 @@ def generate_name(npc, gender):
     if gender == 'female': return random(female_surnames) + " " + random(family_names)
     else: return random(male_surnames) + " " + random(family_names)
 ```
+
+## Sample minotaur names (from https://www.roll4.net/generators/dd-name-generators/minotaur-name-generator)
+Kallia Sulgho
+Lysagu Tim
+Vabghu Aganth
+Vigu Abunga
+Kag Brath
+Tha Igitel
+Aritos Ymios
+Ales Dagh
+Vlorga Niasoc
+Regug Aredem
+Tog Panexi
+Agho Maeshg
+Gnor Anthu
+Xoth Narfut
+Helion Dig
+Zena Ambili
+Eronog Zurgu
+Farkgo Naros
+Cukgin Anoth
+Sos Xughe
+Cordud Drasikod
+Hyginugh Euthes
+Pregug Ephos
+Wapdud Hylus
+Kebub Apigorga
+Gog Theldrok
+Mab Lagugh
+Wingloug Dides
+Fog Vron
+Pho Omagaa
+Dakgu Arfu
+Sog Vamyntin
+Urmistra Lysopyto
+Istomatu Agh
+Krug Vergu
+Gnarfari Istatok
+Saraugug Sughe
+The Arek
+The Ampia
+Frikug Nagno
+Snorlena Stollus
+Pankrito Amynth
+Igmug Irtgu
+Zlapduda Zombilon
+Ulkagog Igorguka
+Bareknar Barotios
+Bereneuk Eia
+Snug Plaogu
+Agh Stios
+Arod Daghe
+Numhug Hedhanth
+Irenia Arodulga
+Kallia Ambilon
+Naragha Dracle
+Ste Dristo
+Plamgu Xunas
+Solog Ephonica
+Torgan Xeneios
+Vitgu Chugotur
+Athanoti Drastone
+Maltorin Ha
+Krothagh Ditha
+Nergu Eidos
+Corim Leios
+Rugbu Dios
+Herais Zon
+Glappho Hiline
+Nurghugl Anthu
+Hagbu Urgorkga
+Ja Fagh
+Sugbu Kakgarfu
+Xugh Fagh
+Vrok Enos
+Agape Niastorl
+Eudiod Urbaghun
+Anassa Papos
+Ronkath Zugh
+Eutha Oristras
+Bargu Niasto
+Etkallis Vag

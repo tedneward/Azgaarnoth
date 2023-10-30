@@ -1,4 +1,4 @@
-# Warlock Patron: The Seeker
+# Otherworldly Patron: The Seeker
 Your patron is an inscrutable being who travels the Astral Plane in search of knowledge and secrets. In return for your patron's gifts, you wander the world seeking lore that you can share with the Seeker.
 
 ## Expanded Spell List

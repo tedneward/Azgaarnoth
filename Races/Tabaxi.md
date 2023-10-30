@@ -105,3 +105,66 @@ d10	| Quirk
     ]
     npc.description.append(f"***Tabaxi Personality: Quirk.*** {quirks[dieroll('d10') - 1]}")
 ```
+
+
+## Sample Tabaxi names (from https://www.roll4.net/generators/dd-name-generators/dd-tabaxi-name-generator)
+Rune of the Leeches of the Defeated Cave Clan
+Shy Hare of The Washing Islet Clan
+Amethyst Logic of The Encroaching Inlet Clan
+Diamond Face of the Gilded Jungle Clan
+Talented Sulfer of the Inquisitive Hill Clan
+Mindrot of Night of The Flaying River Clan
+Submission of the Manatee of The Engaging Lagoon Clan
+Cold of Bubble of the Grumpy Coast Clan
+Sound of the of The Inspiring Swamp Clan
+Jealousy of the Swarms of The Diminishing River Clan
+Selfish Darts of the Vast Summit Clan
+Courage of Thunder of The Blood-Drinking Mesa Clan
+Doubtful Lightning of the Radiant Inlet Clan
+Sleep of the Blades of the Thankful Gully Clan
+Cobalt Manticore of The Rummaging Jungle Clan
+Engulfment of the Goose of the Muddy Swamp Clan
+Powerful Fall of The Clutching River Clan
+Ability of Thunder of The Mismanaging Plain Clan
+Goblin Hamster of the Repulsive Oasis Clan
+Creation of Cone of the Evil Marsh Clan
+Silliness of Morning of the Forward Lagoon Clan
+Hooked Trout of the Grieving Hill Clan
+Brilliance of the Metals of the Elegant Valley Clan
+Famous Smelt of The Scouring Ocean Clan
+Diamond Robin of The Ribbing Forest Clan
+Creepy Joy of The Approaching Cave Clan
+Cobalt Luxury of The Rewarding Channel Clan
+Dictatorship of the Pixie of The Sagging Valley Clan
+Divine Hooves of The Tittering Glacier Clan
+Hearsay of Water of the Discordant Jungle Clan
+Filaments Geyser of The Breathtaking Channel Clan
+Sound of the of the Cautious Canyon Clan
+Lovely Pegasus of The Accomplishing Glacier Clan
+Fate of Rake of the Forceful Peninsula Clan
+Beautiful Maturity of the Troubled Lagoon Clan
+Need of the Hooves of the Bone-Chilling Plain Clan
+Sound of the of The Pronouncing Hill Clan
+Shivers of Water of the Hilarious Coast Clan
+Justice of Summer of The Shaking Peninsula Clan
+Pronged Anteater of The Unlocking Oasis Clan
+Freedom of the Elk of The Unleashing Marsh Clan
+Innocent Deathcap of The Slashing Bay Clan
+Unusual Winter of The Brainwashing Jungle Clan
+Stupid Fire of the Sparkling Dune Clan
+Ferocity of Lotus of The Flashing Hollows Clan
+Dull Egg of The Scathing Hill Clan
+Sound of the of the Fearful Wasteland Clan
+Emerald Dreadblade of the Etheric Desert Clan
+Graceful Coils of the Unusual Glacier Clan
+Peridot Nightmares of the Grieving Ocean Clan
+Aquamarine Gorgon of the Zany Plateau Clan
+Absorbtion of Calvary of the Zealous Tundra Clan
+Sound of the of the Muddy Jungle Clan
+Glance of Beard of The Thrashing Tundra Clan
+Ravenous Trees of The Assimilating Inlet Clan
+Sound of the of The Cascading Hollows Clan
+Distortion of Shade of The Tripping Bay Clan
+Necro of Hand of the Fey Tundra Clan
+Calm Spirits of The Climbing Jungle Clan
+Fiery Loss of The Crashing Gully Clan

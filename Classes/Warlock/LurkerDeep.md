@@ -1,4 +1,4 @@
-# Warlock Patron: The Lurker in the Deep
+# Otherworldly Patron: The Lurker in the Deep
 You made a pact with an entity that lurks somewhere deep in the ocean, or even on the Elemental Plane of Water, such as a mighty kraken, an ancient primordial, or a monstrous being from creation's earliest days. You serve as this creature's eyes and ears, watching the world beyond its domain and reporting your findings. You may have gained this pact as a member of a cult dedicated to the entity or after your patron saved your life when you nearly drowned at sea.
 
 > ### The Lurker's Clutches

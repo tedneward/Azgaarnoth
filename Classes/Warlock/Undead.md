@@ -1,11 +1,11 @@
-# Warlock Patron: The Undead
+# Otherworldly Patron: The Undead
 The Undead is an entity that resides in the dark corners of the multiverse. Your patron some other ancient undead being, many times spoken of only in hushed whispers (and even then behind powerful anti-scrying magic, lest the name draw the attention of the being). You may seek to gain knowledge from your patron's countless lifetimes of experience, while it may see you as a piece of a centuries long plan.
 
-One such name is that of [Dread Emperor](../../People/DreadEmperor.md) himself, another whispered even more quietly is that of the ancient lich [Kali Kaal](../../People/KaliKaal.md).
+One such name whispered quietly is that of the ancient lich [Kali Kaal](../../People/KaliKaal.md).
 
 ```
 name = 'Undead'
-description = "***Warlock Patron: The Undead.*** The Undead is an entity that resides in the dark corners of the multiverse. Your patron some other ancient undead being, many times spoken of only in hushed whispers (and even then behind powerful anti-scrying magic, lest the name draw the attention of the being). You may seek to gain knowledge from your patron's countless lifetimes of experience, while it may see you as a piece of a centuries long plan."
+description = "***Otherworldly Patron: The Undead.*** The Undead is an entity that resides in the dark corners of the multiverse. Your patron some other ancient undead being, many times spoken of only in hushed whispers (and even then behind powerful anti-scrying magic, lest the name draw the attention of the being). You may seek to gain knowledge from your patron's countless lifetimes of experience, while it may see you as a piece of a centuries long plan."
 ```
 
 ## Expanded Spell List
@@ -43,7 +43,7 @@ You can transform a number of times equal to your proficiency bonus, and you reg
 The appearance of your Form of Dread reflects some aspect of your patron. For example, your form could be a shroud of shadows forming the crown and robes of your lich patron, or your face might transform into bat-like features due to your vampire patron.
 
 ```
-    npc.defer(lambda npc: npc.bonusactions.append(f"***Form of Dread ({npc.proficiencybonus()}/Recharges on long rest).*** You transform into an aspect of your patron's power. You gain the following benefits while transformed: You gain 1d10 + {npc.levels('Warlock')} temporary hit points; Once during each of your turns, when you hit a creature with an attack, you can force it to make a Wisdom saving throw (DC {npc.pactmagic.spellsavedc()}), and if the saving throw fails, the target is frightened of you until the end of your next turn; You are immune to the frightened condition{' and necrotic damage' if npc.levels('Warlock') >= 10 else ''}.") )
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Form of Dread ({npc.proficiencybonus()}/Recharges on long rest).*** You transform into an aspect of your patron's power. You gain the following benefits while transformed: You gain 1d10 + {npc.levels('Warlock')} temporary hit points; Once during each of your turns, when you hit a creature with an attack, you can force it to make a Wisdom saving throw (DC {npc.pactmagic.spellsavedc}), and if the saving throw fails, the target is frightened of you until the end of your next turn; You are immune to the frightened condition{' and necrotic damage' if npc.levels('Warlock') >= 10 else ''}.") )
 ```
 
 ## Grave Touched

@@ -47,3 +47,65 @@ def level0(npc):
 ```
 
 Humans may be [dragonmarked](Dragonmarked.md) with the [Mark of Handling](Handling.md), the [Mark of Making](Making.md), the [Mark of Passage](Passage.md), or the [Mark of Sentinel](Sentinel.md). Or not, as they choose.
+
+## Sample human names (from https://www.roll4.net/generators/dd-name-generators/dnd-human-name-generator)
+Ustice We
+Pert Ynn
+Pari Mpson
+Ey Va
+Quincy Wang
+Cora Aross
+Junter Barrin
+Ulia Yncano
+Jonald Guerre
+Ver Krajas
+Lla Ser
+Xan Guerra
+Son An
+La Pez
+Hali Pruz
+Zoe Ussen
+Oinn Ls
+Jeanor Ccorte
+Eonald Ton
+Ypri Ubbott
+Larkez Na
+Jaelan Gers
+Vel Quinn
+Hannon Ice
+Is Crosby
+Del Sam
+Yer Rrince
+Ylis Ke
+Ver Quez
+Von Things
+Yaelan As
+Arker Quinne
+Wan Quez
+Zie Mccars
+Charle No
+Pen Ton
+Van Dman
+Tt Boyd
+Xer Pson
+Kly Villo
+Icky Goosethorn
+Zan Winterscreamer
+St Snakewing
+Ker Icestriker
+Camen Camelcrawl
+Macey Fallseeker
+Ulan Jaguarscreamer
+Ley Oathbeak
+Xer Crocodilechaser
+Caseer Windwind
+Xaris Tigerhold
+Tayler Lionbone
+An Bearlove
+Ta Starwind
+Adler Lightforge
+Madel Morningbinder
+Zie Geckodestroyer
+Premilan Cranepunch
+Lyn Havocbash
+Ugh Wolfgutz
