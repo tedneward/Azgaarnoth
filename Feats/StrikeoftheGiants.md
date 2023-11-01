@@ -39,4 +39,5 @@ def apply(npc):
             npc.bonusactions.append(f"***Storm Giant Strike ({npc.proficiencybonus()}/Recharges on long rest).*** {text} the target takes an extra 1d6 lightning damage. If the target is a creature, it must succeed on a Constitution saving throw (DC {dc}), or it has disadvantage on attack rolls until the start of your next turn.")
         else:
             error(f"WTF! {giant} -- Not a recognized giant type!")
+    npc.defer(lambda npc: applystrike(npc))
 ```

@@ -1,4 +1,7 @@
 # [Tortles](../Creatures/Tortles.md)
+Tortles have a saying: “We wear our homes on our backs.” These turtle folk live on many worlds, most often journeying up and down coasts, along waterways, and across the sea. Tortles don’t have a unified story of how they were created, but they all have a sense of being mystically connected to the natural world. Carrying their shelter on their backs gives tortles a special feeling of security wherever they go, for even if they visit a far, unknown country, they have a place to lay their heads.
+
+Tortles exhibit the same range of coloration and patterns found among turtles, and many tortles enjoy adorning their shells in distinctive ways.
 
 * **Ability Score Increase**. Your Strength score increases by 2, and your Wisdom score increases by 1.
 
@@ -24,7 +27,7 @@
 
 ```
 name = 'Tortle'
-description = "***Race: Tortle.*** "
+description = "***Race: Tortle.*** Tortles have a saying: “We wear our homes on our backs.” These turtle folk live on many worlds, most often journeying up and down coasts, along waterways, and across the sea. Tortles don’t have a unified story of how they were created, but they all have a sense of being mystically connected to the natural world. Carrying their shelter on their backs gives tortles a special feeling of security wherever they go, for even if they visit a far, unknown country, they have a place to lay their heads. Tortles exhibit the same range of coloration and patterns found among turtles, and many tortles enjoy adorning their shells in distinctive ways."
 type = 'humanoid'
 def level0(npc):
     npc.STR += 2
@@ -33,7 +36,7 @@ def level0(npc):
     npc.size = 'Medium'
     npc.speed['walking'] = 30
 
-    npc.actions.append("***Claws.*** TODO")
+    npc.defer(lambda npc: npc.actions.append("***Claws.*** *Melee Weapon Attack*: +{npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5 ft, one target. Hit: 1d6 + {npc.STRbonus()} slashing damage.") )
 
     npc.traits.append("***Hold Breath.*** You can hold your breath for up to 1 hour at a time. Tortles aren't natural swimmers, but they can remain underwater for some time before needing to come up for air.")
 

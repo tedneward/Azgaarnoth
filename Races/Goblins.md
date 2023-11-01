@@ -1,4 +1,5 @@
 # [Goblins](../Creatures/Goblins.md)
+Originally a subterranean folk that came to Azgaarnoth as part of the Hordes, goblins can now be found in every corner of Azgaarnoth, often beside their bugbear and hobgoblin kin. Goblins hae thrived in dangerous environments thanks to a special knack for finding the weak spots in foes larger than themselves and for getting out of trouble. Originally the lackeys and servants of their larger goblinoid kin, now many goblins pursue their own destinies, escaping the plots of archfey, gods, and would-be warlords.
 
 * **Ability Score Increase.** Your Dexterity score increases by 2, and your Constitution score increases by 1.
 
@@ -22,7 +23,7 @@
 
 ```
 name = 'Goblin'
-description = "***Race: Goblin.***"
+description = "***Race: Goblin.*** Originally a subterranean folk that came to Azgaarnoth as part of the Hordes, goblins can now be found in every corner of Azgaarnoth, often beside their bugbear and hobgoblin kin. Goblins hae thrived in dangerous environments thanks to a special knack for finding the weak spots in foes larger than themselves and for getting out of trouble. Originally the lackeys and servants of their larger goblinoid kin, now many goblins pursue their own destinies, escaping the plots of archfey, gods, and would-be warlords."
 type = 'humanoid'
 def level0(npc):
     npc.DEX += 2
@@ -35,7 +36,8 @@ def level0(npc):
     npc.senses['darkvision'] = 60
 
     npc.traits.append(traits['fey-ancestry'])
-    npc.defer(lambda npc: npc.traits.append("***Fury of the Small ({self.proficiencybonus()}/Recharges on long rest).*** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal {self.levels()} extra damage to the creature. You can use this trait no more than once per turn."))
+    
+    npc.defer(lambda npc: npc.traits.append(f"***Fury of the Small ({npc.proficiencybonus()}/Recharges on long rest).*** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal {npc.levels()} extra damage to the creature. You can use this trait no more than once per turn."))
 
     npc.bonusactions.append("***Nimble Escape.*** You can take the Disengage or Hide action as a bonus action on each of your turns.")
 

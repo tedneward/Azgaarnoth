@@ -54,7 +54,7 @@ When you hit a creature with a weapon attack, you can expend one superiority die
 
 ```
 def disarmingattack(npc):
-    npc.actions.append("***Maneuver: Disarming Attack.*** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.")
+    npc.defer(lambda npc: npc.actions.append(f"***Maneuver: Disarming Attack.*** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw (DC {8 + npc.proficiencybonus() + (npc.STRbonus() if npc.STRbonus() > npc.DEXbonus() else npc.DEXbonus())}). On a failed save, it drops the object you choose. The object lands at its feet.") )
 ```
 
 ### Distracting Strike
@@ -118,7 +118,7 @@ When you hit a creature with a weapon attack, you can expend one superiority die
 
 ```
 def menacingattack(npc):
-    npc.traits.append("***Maneuver: Menacing Attack.*** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.")
+    npc.defer(lambda npc: npc.traits.append("***Maneuver: Menacing Attack.*** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw (DC {8 + npc.proficiencybonus() + (npc.STRbonus() if npc.STRbonus() > npc.DEXbonus() else npc.DEXbonus())}). On a failed save, it is frightened of you until the end of your next turn.") )
 ```
 
 ### Parry
@@ -126,7 +126,7 @@ When another creature damages you with a melee attack, you can use your reaction
 
 ```
 def parry(npc):
-    npc.reactions.append("***Maneuver: Parry.*** When another creature damages you with a melee attack, you can expend one superiority die to reduce the damage by the number you roll on your superiority die + your Dexterity modifier.")
+    npc.defer(lambda npc: npc.reactions.append(f"***Maneuver: Parry.*** When another creature damages you with a melee attack, you can expend one superiority die to reduce the damage by the number you roll on your superiority die + {npc.DEXbonus()}.") )
 ```
 
 ### Precision Attack
@@ -142,7 +142,7 @@ When you hit a creature with a weapon attack, you can expend one superiority die
 
 ```
 def pushingattack(npc):
-    npc.traits.append("***Maneuver: Pushing Attack.*** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you.")
+    npc.defer(lambda npc: npc.traits.append(f"***Maneuver: Pushing Attack.*** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw (DC {8 + npc.proficiencybonus() + (npc.STRbonus() if npc.STRbonus() > npc.DEXbonus() else npc.DEXbonus())}). On a failed save, you push the target up to 15 feet away from you.") )
 ```
 
 ### Quick Toss
@@ -158,7 +158,7 @@ On your turn, you can use a bonus action and expend one superiority die to bolst
 
 ```
 def rally(npc):
-    npc.bonusactions.append("***Maneuver: Rally.*** On your turn, you can expend one superiority die to bolster the resolve of one of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to the superiority die roll + your Charisma modifier.")
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Maneuver: Rally.*** On your turn, you can expend one superiority die to bolster the resolve of one of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to the superiority die roll + {npc.CHAbonus()}.") )
 ```
 
 ### Restraining Strike
@@ -166,7 +166,7 @@ Immediately after you hit a creature with a melee weapon attack on your turn, yo
 
 ```
 def restrainingstrike(npc):
-    npc.bonusactions.append("***Maneuver: Restraining Strike.*** Immediately after you hit a creature with a melee weapon attack on your turn, you can expend one superiority die and use a bonus action to grapple the target. Add the superiority die to your Strength (Athletics) check. The target is also restrained while grappled in this way.")
+    npc.bonusactions.append("***Maneuver: Restraining Strike.*** Immediately after you hit a creature with a melee weapon attack on your turn, you expend one superiority die and grapple the target. Add the superiority die to your Strength (Athletics) check. The target is also restrained while grappled in this way.")
 ```
 
 ### Riposte
@@ -174,7 +174,7 @@ When a creature misses you with a melee attack, you can use your reaction and ex
 
 ```
 def riposte(npc):
-    npc.reactions.append("***Maneuver: Riposte.*** When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.")
+    npc.reactions.append("***Maneuver: Riposte.*** When a creature misses you with a melee attack, you expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.")
 ```
 
 ### Silver Tongue
@@ -223,7 +223,7 @@ When you hit a creature with a weapon attack, you can expend one superiority die
 
 ```
 def tripattack(npc):
-    npc.traits.append("***Maneuver: Trip Attack.*** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.")
+    npc.defer(lambda npc: npc.traits.append(f"***Maneuver: Trip Attack.*** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw (DC {8 + npc.proficiencybonus() + (npc.STRbonus() if npc.STRbonus() > npc.DEXbonus() else npc.DEXbonus())}). On a failed save, you knock the target prone.") )
 ```
 
 

@@ -313,6 +313,46 @@ armor = {
     }
 }
 
+tools = {
+    'artisan': [
+        "Alchemist's supplies",
+        "Brewer's supplies",
+        "Calligrapher's supplies",
+        "Carpenter's tools",
+        "Cartographer's tools",
+        "Cobbler's tools",
+        "Cook's utensils",
+        "Glassblower's tools",
+        "Jeweler's tools",
+        "Leatherworker's tools",
+        "Mason's tools",
+        "Painter's supplies",
+        "Potter's tools",
+        "Smith's tools",
+        "Tinker's tools",
+        "Weaver's tools",
+        "Woodcarver's tools",
+    ],
+    'gaming': [
+        "Dice set",
+        "Dragonchess set",
+        "Playing card set",
+        "Three-Dragon Ante set",
+    ],
+    'musical': [
+        "Bagpipes",
+        "Drum",
+        "Dulcimer",
+        "Flute",
+        "Lute",
+        "Lyre",
+        "Horn",
+        "Pan flute",
+        "Shawm",
+        "Viol"
+    ]
+}
+
 def fullcaster(npc, ability, name):
     spellcasting = NPC.Spellcasting(npc, ability, name)
     if name in classes:
@@ -405,6 +445,7 @@ def loadmodule(filename, modulename=None):
             "traits": traits,
             "armor": armor,
             "weapons": weapons,
+            "tools": tools,
             "spelllinkify": spelllinkify,
             "choose": choose,
             "chooseability": chooseability,
@@ -1002,14 +1043,19 @@ class NPC:
                 "Expert juggler",
                 "Distinctive speaking voice",
                 "Excellent storyteller",
+                "Expert sketch artist",
                 "Excellent fashion sense/taste",
                 "Perfect memory",
                 "Great with animals",
                 "Great with children",
                 "Great at solving puzzles",
-                "Great at one game",
+                "Excellent improvisational poet",
+                "Great at dice",
                 "Great at impersonations",
+                "Skilled sportsball player",
+                "Great at dragonchess",
                 "Draws beautifully",
+                "Great at Three-Dragon Ante",
                 "Paints beautifully",
                 "Sings beautifully",
                 "Drinks everyone under the table",
@@ -1178,13 +1224,13 @@ class NPC:
                 result += f">{equip}\n"
                 result +=  ">\n"
         result += "\n#### Description\n"
-        result += f"Ideals: {genideal()}/{genideal()}/{genideal()}\n\n"
-        result += f"Appearance: {genappearance()}\n\n"
-        result += f"Talents: {gentalent()}\n\n"
-        result += f"Mannerisms: {genmannerism()}\n\n"
-        result += f"Interactions with others: {geninteractions()}\n\n"
-        result += f"Bond: {genbond()}\n\n"
-        result += f"Flaw: {genflaw()}\n\n"
+        result += f"***Ideals:*** *{genideal()}/{genideal()}/{genideal()}.*\n\n"
+        result += f"***Appearance:*** *{genappearance()}.*\n\n"
+        result += f"***Talents:*** *{gentalent()}.*\n\n"
+        result += f"***Mannerisms:*** *{genmannerism()}.*\n\n"
+        result += f"***Interactions with others:*** *{geninteractions()}.*\n\n"
+        result += f"***Bond:*** *{genbond()}.*\n\n"
+        result += f"***Flaw:*** *{genflaw()}.*\n\n"
         for descrip in self.description:
             result += f"{descrip}\n\n"
 

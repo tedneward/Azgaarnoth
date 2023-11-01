@@ -67,9 +67,10 @@ def level1(npc):
     npc.proficiencies.append('Longsword')
     npc.proficiencies.append('Shortsword')
     npc.proficiencies.append('Rapier')
-    npc.proficiencies.append('CHOOSE-instrument')
-    npc.proficiencies.append('CHOOSE-instrument')
-    npc.proficiencies.append('CHOOSE-instrument')
+
+    npc.proficiencies.append(choose("Choose an instrument: ", tools['musical']))
+    npc.proficiencies.append(choose("Choose an instrument: ", tools['musical']))
+    npc.proficiencies.append(choose("Choose an instrument: ", tools['musical']))
 
     chooseskill(npc)
     chooseskill(npc)
