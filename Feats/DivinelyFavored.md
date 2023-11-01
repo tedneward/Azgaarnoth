@@ -15,4 +15,17 @@ Your spellcasting ability for this feat's spells is Intelligence, Wisdom, or Cha
 
 In addition, you can use a holy symbol as a spellcasting focus for any spell you cast that uses the spellcasting ability you choose when you select this feat.
 
+```
+name = 'Divinely Favored'
+description = "***Feat: Divinely Favored.*** A god has chosen you to carry a spark of their divine power."
+def prereq(npc): return True
+def apply(npc):
+    spellclass = choose("Choose your spell type: ", ['Cleric', 'Druid', 'Warlock', 'Wizard'])
+    npc.divinefavor = choose("Choose your attribute: ", ['INT', 'WIS', 'CHA'])
+    spellcasting = innatecaster(npc, npc.divinefavor, name)
+    spellcasting.cantripsknown = [ 'thaumaturgy' ]
+    spellcasting.casterclass = spellclass
+    spellcasting.perday[1] = [ f'CHOOSE-{spellclass}-1st' ]
 
+    npc.traits.append(f"***Divine Favor.*** You can use a holy symbol as a spellcasting focus for any spell you cast that uses {npc.divinefavor}.")
+```
