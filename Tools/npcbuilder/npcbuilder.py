@@ -28,7 +28,8 @@ def log(*values):
     if verbose and not quiet:
         print(*values)
 
-REPOROOT = '../../'
+REPOROOT = os.path.realpath(os.path.dirname(os.path.realpath(__file__)) + '/../../') + "/"
+print("REPOROOT = " + REPOROOT)
 
 # ----------------------------------------------------------
 # Common routines available to all loaded modules
