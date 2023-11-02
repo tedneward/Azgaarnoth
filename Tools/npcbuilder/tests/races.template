@@ -56,6 +56,8 @@ Gender,random,Ability Scores,Average,Race,Gnome,Deep,
 Gender,random,Ability Scores,Average,Race,Gnome,Forest,
 Gender,random,Ability Scores,Average,Race,Gnome,Rock,
 Gender,random,Ability Scores,Average,Race,Gnome,Scribing,
+# Goblins
+Gender,random,Ability Scores,Average,Race,Goblin,
 # Half-Dragons
 Gender,random,Ability Scores,Average,Race,Half-Dragon,Medium,Red,
 # Half-Elves
