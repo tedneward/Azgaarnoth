@@ -24,28 +24,28 @@ With this obsession to learn every shred of obscure knowledge surrounding the ne
 ## Class features
 As a pale master, you gain the following class features.
 
-Level|Proficiency Bonus|Creations Known|Macabre Enchantments|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|Features
------|-----------------|---------------|--------------------|--------------|---|---|---|---|---|---|---|--------
-1st  |+2|--|--| 3| 2|--|--|--|--|--|--|[Spellcasting](#spellcasting), [Aspect of the Dead](#aspect-of-the-dead), [Undead Affinity](#undead-affinity)
-2nd  |+2| 3| 2| 3| 3|--|--|--|--|--|--|[Macabre Creations](#macabre-creations)
-3rd  |+2| 3| 2| 3| 3| 2|--|--|--|--|--|[Deathless Axiom](#deathless-axiom)
-4th  |+2| 4| 2| 3| 3| 3|--|--|--|--|--|Ability Score Improvement
-5th  |+3| 4| 2| 4| 4| 3|--|--|--|--|--|[Raise Incorporeal Undead](#raise-incorporeal-undead)
-6th  |+3| 4| 2| 4| 4| 3| 2|--|--|--|--|Deathless Axiom feature
-7th  |+3| 5| 3| 4| 4| 3| 3|--|--|--|--|-
-8th  |+3| 5| 3| 4| 4| 3| 3|--|--|--|--|Ability Score Improvement
-9th  |+4| 5| 3| 4| 4| 3| 3| 1|--|--|--|--
-10th |+4| 5| 3| 4| 4| 3| 3| 2|--|--|--|[Undead Cohort](#undead-cohort)
-11th |+4| 6| 3| 4| 4| 3| 3| 2|--|--|--|--
-12th |+4| 6| 3| 4| 4| 3| 3| 3| 1|--|--|Ability Score Improvement
-13th |+5| 6| 4| 5| 4| 3| 3| 3| 2|--|--|--
-14th |+5| 6| 4| 5| 4| 3| 3| 3| 2|--|--|Deathless Axiom feature
-15th |+5| 6| 4| 5| 4| 3| 3| 3| 2| 1|--|--
-16th |+5| 7| 4| 5| 4| 3| 3| 3| 2| 1|--|Ability Score Improvement
-17th |+6| 7| 4| 5| 4| 3| 3| 3| 2| 1|--|--
-18th |+6| 7| 4| 5| 4| 3| 3| 3| 2| 1| 1|[Necromastery](#necromastery)
-19th |+6| 7| 5| 5| 4| 3| 3| 3| 2| 1| 1|Ability Score Improvement
-20th |+6| 7| 5| 5| 4| 3| 3| 3| 2| 1| 1|[Amaranthine Shroud](#amaranthine-shroud)
+Level|Proficiency Bonus|Creations Known|Macabre Enchantments|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|Features
+-----|-----------------|---------------|--------------------|--------------|---|---|---|---|---|---|---|---|---|--------
+1st  |+2|--|--| 3| 2|--|--|--|--|--|--|--|--|[Spellcasting](#spellcasting), [Aspect of the Dead](#aspect-of-the-dead), [Undead Affinity](#undead-affinity)
+2nd  |+2| 3| 2| 3| 3|--|--|--|--|--|--|--|--|[Macabre Creations](#macabre-creations)
+3rd  |+2| 3| 2| 3| 4| 2|--|--|--|--|--|--|--|[Deathless Axiom](#deathless-axiom)
+4th  |+2| 4| 2| 3| 4| 3|--|--|--|--|--|--|--|Ability Score Improvement
+5th  |+3| 4| 2| 4| 4| 3| 2|--|--|--|--|--|--|[Raise Incorporeal Undead](#raise-incorporeal-undead)
+6th  |+3| 4| 2| 4| 4| 3| 3|--|--|--|--|--|--|Deathless Axiom feature
+7th  |+3| 5| 3| 4| 4| 3| 3| 1|--|--|--|--|--|-
+8th  |+3| 5| 3| 4| 4| 3| 3| 2|--|--|--|--|--|Ability Score Improvement
+9th  |+4| 5| 3| 4| 4| 3| 3| 3| 1|--|--|--|--|--
+10th |+4| 5| 3| 4| 4| 3| 3| 3| 2|--|--|--|--|[Undead Cohort](#undead-cohort)
+11th |+4| 6| 3| 4| 4| 3| 3| 3| 2| 1|--|--|--|--
+12th |+4| 6| 3| 4| 4| 3| 3| 3| 2| 1|--|--|--|Ability Score Improvement
+13th |+5| 6| 4| 5| 4| 3| 3| 3| 2| 1| 1|--|--|--
+14th |+5| 6| 4| 5| 4| 3| 3| 3| 2| 1| 1|--|--|Deathless Axiom feature
+15th |+5| 6| 4| 5| 4| 3| 3| 3| 2| 1| 1| 1|--|--
+16th |+5| 7| 4| 5| 4| 3| 3| 3| 2| 1| 1| 1|--|Ability Score Improvement
+17th |+6| 7| 4| 5| 4| 3| 3| 3| 2| 1| 1| 1| 1|--
+18th |+6| 7| 4| 5| 4| 3| 3| 3| 3| 1| 1| 1| 1|[Necromastery](#necromastery)
+19th |+6| 7| 5| 5| 4| 3| 3| 3| 3| 2| 1| 1| 1|Ability Score Improvement
+20th |+6| 7| 5| 5| 4| 3| 3| 3| 3| 2| 2| 1| 1|[Amaranthine Shroud](#amaranthine-shroud)
 
 ```
 # Creations Known, Macabre Enchantments, Cantrips
@@ -174,24 +174,24 @@ Intelligence is your spellcasting ability for your pale master spells, since you
     spellcasting.slottable = {
         1: [ 2 ],
         2: [ 3 ],
-        3: [ 3, 2 ], 
-        4: [ 3, 3 ],
-        5: [ 4, 3 ],
-        6: [ 4, 3, 2 ],
-        7: [ 4, 3, 3 ],
-        8: [ 4, 3, 3 ],
-        9: [ 4, 3, 3, 1 ],
-        10: [ 4, 3, 3, 2],
-        11: [ 4, 3, 3, 2 ],
-        12: [ 4, 3, 3, 3, 1 ],
-        13: [ 4, 3, 3, 3, 2 ],
-        14: [ 4, 3, 3, 3, 2 ],
-        15: [ 4, 3, 3, 3, 2, 1 ],
-        16: [ 4, 3, 3, 3, 2, 1 ],
-        17: [ 4, 3, 3, 3, 2, 1 ],
-        18: [ 4, 3, 3, 3, 3, 1, 1 ],
-        19: [ 4, 3, 3, 3, 3, 2, 1 ],
-        20: [ 4, 3, 3, 3, 3, 2, 1 ]
+        3: [ 4, 2 ], 
+        4: [ 4, 3 ],
+        5: [ 4, 3, 2 ],
+        6: [ 4, 3, 3 ],
+        7: [ 4, 3, 3, 1 ],
+        8: [ 4, 3, 3, 2 ],
+        9: [ 4, 3, 3, 3, 1 ],
+        10: [ 4, 3, 3, 3, 2] ,
+        11: [ 4, 3, 3, 3, 2, 1 ],
+        12: [ 4, 3, 3, 3, 2, 1 ],
+        13: [ 4, 3, 3, 3, 2, 1, 1 ],
+        14: [ 4, 3, 3, 3, 2, 1, 1 ],
+        15: [ 4, 3, 3, 3, 2, 1, 1, 1 ],
+        16: [ 4, 3, 3, 3, 2, 1, 1, 1 ],
+        17: [ 4, 3, 3, 3, 2, 1, 1, 1, 1 ],
+        18: [ 4, 3, 3, 3, 3, 1, 1, 1, 1 ],
+        19: [ 4, 3, 3, 3, 3, 2, 1, 1, 1 ],
+        20: [ 4, 3, 3, 3, 3, 2, 2, 1, 1 ]
     }
 ```
 
@@ -279,9 +279,10 @@ You can only create one macabre creation per long rest. The maximum number of ma
 
 ```
 def level2(npc):
+    npc.macabrecreationsknown = 3
     npc.macabrecreations = []
 
-    npc.defer(lambda npc: npc.traits.append("***Macabre Creations.*** Whenever you finish a long rest, you can craft a macabre creation, turning it into a magic item. The magical nature of these creations is specific to certain kinds of objects, as detailed in the creation's description. If the item requires attunement, you can attune yourself to it the instant you create the item, or you can forgo attunement so that someone else can attune to the item. If you decide to attune to the item later, you must do so using the normal process for attunement. The magical properties of a macabre creation remain indefinitely, but when you die, the magic used in its creation vanishes after {npc.INTbonus()} days have passed. However, the magic used in its creation will instantly vanish if you give up your knowledge of the macabre creation for another one.  You can only create one macabre creation per long rest. You can have active up to {palemastertable[npc.levels(name)][0]} at a time. If you try to exceed your maximum number of creations, the oldest one immediately loses its magical properties, and then the newest macabre creation is completed.") )
+    npc.defer(lambda npc: npc.traits.append(f"***Macabre Creations.*** Whenever you finish a long rest, you can craft a macabre creation, turning it into a magic item. The magical nature of these creations is specific to certain kinds of objects, as detailed in the creation's description. If the item requires attunement, you can attune yourself to it the instant you create the item, or you can forgo attunement so that someone else can attune to the item. If you decide to attune to the item later, you must do so using the normal process for attunement. The magical properties of a macabre creation remain indefinitely, but when you die, the magic used in its creation vanishes after {npc.INTbonus()} days have passed. However, the magic used in its creation will instantly vanish if you give up your knowledge of the macabre creation for another one.  You can only create one macabre creation per long rest. You can have active up to {palemastertable[npc.levels(name)][1]} at a time. If you try to exceed your maximum number of creations, the oldest one immediately loses its magical properties, and then the newest macabre creation is completed.") )
 
     #choosemacabrecreation(npc)
     #choosemacabrecreation(npc)
@@ -325,9 +326,9 @@ def level19(npc): abilityscoreimprovement(npc)
 ## Raise Incorporeal Undead
 *5th-level pale master feature*
 
-You can create an undead servant from the fading soul of a fallen creature. You choose a humanoid that has been dead no longer than 24 hours and create a specter (the DM has the creature's game statistics). Roll initiative for the specter, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don't issue any commands to the specter, it defends itself but otherwise takes no actions. The specter is under your control for 10 minutes, after which it disappears. 
+You can create an undead servant from the fading soul of a fallen creature. You choose a humanoid that has been dead no longer than 24 hours and create a [specter](../../Creatures/Undead/Specter.md). Roll initiative for the specter, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don't issue any commands to the specter, it defends itself but otherwise takes no actions. The specter is under your control for 10 minutes, after which it disappears. 
 
-Beginning at 12th level, you can raise a banshee instead of a specter.
+Beginning at 12th level, you can raise a [banshee](../../Creatures/Undead/Banshee.md) instead of a specter.
 
 You can use this feature a number of times equal to your Intelligence modifier (a minimum of once), but can only raise one incorporeal undead at a time. You regain any expended uses when you finish a long rest.
 
@@ -341,10 +342,6 @@ def level5(npc):
 
 You are able to create an undead creature specific to your chosen archetype.
 
-```
-def level10(npc):
-```
-
 ## Necromastery
 *10th-level pale master feature*
 
@@ -355,7 +352,9 @@ Choose a 1st-level pale master spell and a 2nd-level pale master spell that are 
 By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
 
 ```
-    pass
+def level10(npc):
+    npc.spellcasting[name].atwill = [ 'CHOOSE-1st-level-PaleMaster', 'CHOOSE-2nd-level-PaleMaster' ]
+    npc.traits.append("***Necromastery.*** Choose a 1st-level pale master spell and a 2nd-level pale master spell that are in your grimoire and belong to the necromancy school of magic. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal. By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.")
 ```
 
 ## Amaranthine Shroud
