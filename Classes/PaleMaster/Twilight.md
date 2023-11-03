@@ -19,7 +19,7 @@ Your undead graft becomes a spellcasting focus for your magic, allowing you to c
 def level3(npc):
     npc.traits.append("***Umbral Arm.*** You infuse the pores of your arm with small traces of necrotic energies that manifest and wreath your arm in shadow. Your undead graft becomes a spellcasting focus for your magic, allowing you to cast spells with it and perform the somatic components of spells even when you have weapons or a shield in one or both hands.")
 
-    npc.defer(lambda npc: npc.actions.append("***Umbral Arm.*** *Melee Spell Attack:* +{npc.proficiencybonus() + npc.STRbonus() + (0 if npc.levels('Pale Master') < 6 else 1 if npc.levels('Pale Master') < 12 else 2 if npc.levels('Pale Master') < 17 else 3)} to hit, reach 5ft., one target. Hit: 1d8 + {npc.STRbonus() + (0 if npc.levels('Pale Master') < 6 else 1 if npc.levels('Pale Master') < 12 else 2 if npc.levels('Pale Master') < 17 else 3)} necrotic damage.") )
+    npc.defer(lambda npc: npc.actions.append(f"***Umbral Arm.*** *Melee Spell Attack:* +{npc.proficiencybonus() + npc.STRbonus() + (0 if npc.levels('Pale Master') < 6 else 1 if npc.levels('Pale Master') < 12 else 2 if npc.levels('Pale Master') < 17 else 3)} to hit, reach 5ft., one target. Hit: 1d8 + {npc.STRbonus() + (0 if npc.levels('Pale Master') < 6 else 1 if npc.levels('Pale Master') < 12 else 2 if npc.levels('Pale Master') < 17 else 3)} necrotic damage.") )
 ```
 
 At 6th level, your graft gains a +1 bonus to melee attacks and damage rolls. This increases to a +2 bonus at 12th level and a +3 bonus at 17th level.
@@ -46,7 +46,7 @@ Expended uses are regained when you finish a long rest.
 
 ```
 def level6(npc):
-    npc.defer(lambda npc: npc.actions.append("***Fearful Touch ({'' if npc.levels('Pale Master') < 12 else '2/' if npc.levels('Pale Master') < 17 else '3/'}Recharges on long rest).*** When you hit a creature with a melee spell attack from your Undead Graft, you can instill irrational terror. The target takes an additional 2d8 necrotic damage and must succeed on a Wisdom saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()} ) or become frightened for 1 minute. A creature frightened in this manner must take the Dash action and move away from you by the safest available route on each of its turns. If there is nowhere to move, the creature stays in its current location, but takes 2d8 necrotic damage.") )
+    npc.defer(lambda npc: npc.actions.append(f"***Fearful Touch ({'' if npc.levels('Pale Master') < 12 else '2/' if npc.levels('Pale Master') < 17 else '3/'}Recharges on long rest).*** When you hit a creature with a melee spell attack from your Undead Graft, you can instill irrational terror. The target takes an additional 2d8 necrotic damage and must succeed on a Wisdom saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()} ) or become frightened for 1 minute. A creature frightened in this manner must take the Dash action and move away from you by the safest available route on each of its turns. If there is nowhere to move, the creature stays in its current location, but takes 2d8 necrotic damage.") )
 ```
 
 ## Insatiable Horror
