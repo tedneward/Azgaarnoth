@@ -1,9 +1,9 @@
 # Fire Genasi
 Descended from efreet, the genies of the Elemental Plane of Fire, fire genasi channel the flamboyant and often destructive nature of flame. They show their heritage in their skin tones, which can range from deep charcoal to shades of red and orange. Some bear skin tones common to humanity but with fiery marks, such as slowly swirling lights under their skin that resemble embers or glowing red lines tracing over their bodies like cracks. Fire genasi hair can resemble threads of fire or sooty smoke.
 
-**Fire Resistance.** You have resistance to fire damage.
+***Fire Resistance.*** You have resistance to fire damage.
 
-**Reach to the Blaze.** You know the [Produce Flame](../../Magic/Spells/produce-flame.md) cantrip. 
+***Reach to the Blaze.*** You know the [Produce Flame](../../Magic/Spells/produce-flame.md) cantrip. 
 
 Starting at 3rd level, you can cast the [Burning Hands](../../Magic/Spells/burning-hands.md) spell with this trait.
 
@@ -13,7 +13,7 @@ Once you cast Burning Hands or Flame Blade with this trait, you can’t cast tha
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
-**Languages.** Your character can speak, read, and write Common and Pyro.
+***Languages.*** Your character can speak, read, and write Common and Pyro.
 
 ```
 name = 'Fire'

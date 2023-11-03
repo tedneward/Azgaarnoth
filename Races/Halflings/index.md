@@ -5,18 +5,22 @@ It is rumored that many halflings are also high-ranking members of various Rogue
 
 Halflings may be [dragonmarked](Dragonmarked.md) with the [Mark of Healing](Healing.md) or the [Mark of Hospitality](Hospitality.md); see those entries for details.
 
-### Mixed parentage
-Some halflings are of such [mixed](Mixed.md) (halfling) parentage that they have no familial characteristics whatsoever.
-
 ### [Lightfoot](Lightfoot.md) and [Stout](Stout.md) halflings
 These halflings are pretty intermixed amongst each other by this point in Azgaarnoth's history, and no non-halfling can tell them apart. Culturally, there is little to no difference or differentiation between them, and many halfling families proudly claim to belong to one or the other (or sometimes both) without exhibiting any of the characteristics of either.
+
+### [Jungle](Jungle.md) halflings
+Halflings born and raised in the jungles of Azgaarnoth are a touch more "wild" than their more urban Lightfoot/Stout cousins, but no less halfling.
+
+### [River](River.md) halflings
+Many groups of halflings took to the seas and rivers of Azgaarnoth, and make a home upon the waters. Some call a major river (such as the Lenets River in Alalihat, or the Samny/Teyaslav Rivers in Zabalasa, or the Dustcross in Bagonbia) their home, using barges to travel up and down the waterways, others live in a communal ocean-going vessel, often as a cargo ship for hire by merchants or militaries.
 
 ### Ghostwise and Lotusden halflings
 Some halflings have independently shown characteristics of these two subraces of halfling, but there appears to be no widespread shared genetic legacy--it seems to randomly appear in various halflings throughout Azgaarnoth. Ghostwise halflings frequently tend to end up associating with some of the psionic-leaning [Mage Schools](../Organizations/MageSchools/index.md) and Lotusden halflings often wander the wildnerness alongside druids and rangers.
 
 ```
 name = 'Halfling'
-description = "***Race: Halfling.*** Halflings...."
+description = "***Race: Halfling.*** Halflings are the archetypal small race, and have made beloved thieves and trackers and hosts for millennia."
+
 def level0(npc):
     npc.DEX += 2
 

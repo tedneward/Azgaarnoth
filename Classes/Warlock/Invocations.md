@@ -733,6 +733,325 @@ def witchsight_prereq(npc):
     return npc.levels('Warlock') >= 15
 ```
 
+DEATHLY CHILLS
+When you deal cold damage to a creature using a
+warlock spell or feature, you ignore resistance to cold
+damage unless the creature also has resistance or immunity
+to necrotic damage, and you treat vulnerability to
+necrotic damage as vulnerability to both damage types.
+
+ELDRITCH DIGESTION
+When you deal acid damage to a creature using a
+warlock spell or feature, you ignore resistance to acid
+damage unless the creature also has resistance or
+immunity to force damage, and you treat vulnerability to
+force damage as vulnerability to both damage types.
+
+ELEMENTAL ATTUNEMENT
+When you finish a long rest, you choose one of four
+elements below to attune to. While attuned to an
+element, you know an associated can trip ( each is from
+Xanathar's Guide to Everything) as a warlock spelL and
+it doesn't count against the number of cantrips you can
+know as a warlock. You gain the following benefits
+while attuned to each element:
+Air. You know the gust cantrip, and you can hold your
+breath for twice as long.
+Earth. You know the mold earth cantrip, and you have
+advantage on ability checks made to climb earth or stone.
+Fire. You know the control flames cantrip, and you
+have advantage on saving throws made to resist the
+effects of extreme heat.
+Water. You know the shape water cantrip, and you
+have advantage on saving throws made to resist the
+effects of extreme cold
+
+HEAVENLY BOLTS
+When you deal lightning damage to a creature using a
+warlock spell or feature, you ignore resistance to
+lightning damage unless the creature also has
+resistance or immunity to radiant damage, and you treat
+vulnerability to radiant damage as vulnerability to both
+damage types.
+
+HUSH OFWINTER
+When you deal cold damage to a creature using a
+warlock spell or feature, you can force the target to
+make a Wisdom saving throw. On a failed save, the
+target is deafened and can't speak until the end of your
+next turn.
+Once you use this invocation, you must finish a long
+rest before you can use it again.
+
+NOXIOUS FuMES
+When you deal acid damage to a creature using a
+warlock spell or feature, you can force the target to
+make a Constitution saving throw. On a failed save, the
+target is poisoned until the end of its next turn.
+Once you use this invocation, you must finish a long
+rest before you can use it again.
+
+PRISMATIC BLAZE
+When you deal fire damage to a creature that isn't
+blinded using a warlock spell or feature, you can force
+the target to make a Wisdom saving throw. On a failed
+save, the target becomes charmed until the end of its
+next turn. While charmed in this way, the target is
+incapacitated and has a speed of 0. The effect ends if
+the target takes any additional damage or if someone
+else uses an action to shake it out of its stupor.
+Once you use this invocation, you must finish a long
+rest before you can use it again.
+
+SCORCHING RADIANCE
+When you deal radiant damage to a creature using a
+warlock spell or feature, you ignore resistance to
+radiant damage unless the creature also has resistance
+or immunity to fire damage, and you treat vulnerability
+to fire damage as vulnerability to both damage types.
+
+UMBRA FLAME
+When you deal fire damage to a creature using a
+warlock spell or feature, you ignore resistance to fire
+damage unless the creature also has resistance or immunity
+to necrotic damage, and you treat vulnerability to
+necrotic damage as vulnerability to both damage types.
+
+VOICE FROM BEYOND
+When you deal thunder damage to a creature using a
+warlock spell or feature, you ignore resistance to
+thunder damage unless the creature also has resistance
+or immunity to psychic damage, and you treat
+vulnerability to psychic damage as vulnerability to both
+damage types.
+
+WELCOMING LIGHT
+When you deal radiant damage to a creature using a
+warlock spell or feature, you can force the target to
+make a Wisdom saving throw. On a failed save, the
+target becomes charmed by you until the end of your
+next turn. While charmed in this way, the target regards
+you as a friendly acquaintance.
+Once you use this invocation, you must finish a long
+rest before you can use it again.
+
+WHISPER THE DREAD WIND
+When you deal thunder damage to a creature using a
+warlock spell or feature, you can force the target to
+make a Wisdom saving throw. On a failed save, the
+target is frightened of you until the end of its next turn.
+Once you use this invocation, you must finish a long
+rest before you can use it again.
+
+WITHERING LIGHTNING
+When you deal lightning damage to a creature using a
+warlock spell or feature, you can force the target to
+make a Constitution saving throw. On a failed save, the
+target's hit point maximum is reduced for 1 minute by
+an amount equal to the lightning damage it took. Any
+effect that removes a disease allows the target's hit point
+maximum to return to normal before that time passes.
+Once you use this invocation, you must finish a long
+rest before you can use it again.
+
+AMBASSADOR OF THE DEPTHS
+Prerequisite: 5th level
+You can expend a warlock spell slot to cast the new dive
+spell While the spell affects a target, that target also has
+darkvision that extends out to a range of 120 feet.
+
+DESERT ROAMER
+Prerequisite: 5th level
+You are adapted to both hot climates and cold climates,
+as described in the Dungeon Master's Guide, and you
+don't need to drink water to survive.
+
+FLAME WALKER
+Prerequisite: 5th level
+You and any equipment you are wearing or carrying are
+immune to the damage dealt by nonmagical fire, and you
+can breathe ashes, smoke, and the stinking cloud spell
+without any negative effects. This can't prevent damage
+dealt by traps or creatures, such as the breath weapon of
+a red dragon or the blast of a fire cannon.
+
+WEIGHTLESSNESS
+Prerequisite: 5th level
+You can cast feather fall targeting only yourself at will
+without expending a spell slot or requiring components.
+
+EXPLOSIVE VENGEANCE
+Prerequisite: 7th leve~ Pact of the Chain, fireball known
+as a warlock spell
+When another creature deals damage to your familiar
+and reduces it to O hit points, you can choose to use
+your reaction to cast fireball using a warlock spell slot
+centered at the location of your familiar, even if it is
+outside your normal range or line of sight for the spell
+The spell originates from your familiar. After you do
+this, you gain one level of exhaustion and you can't cast
+any spells of 1st-level or higher on your next turn.
+Once you use this invocation, you must finish a long
+rest before you can use it again.
+
+GRAVEBORNE
+Prerequisite: 7th level
+While you are buried or burrowing in earth or sealed
+underground, you don't need to eat, drink, or breathe.
+
+BREATH OF BAHAMUT
+Prerequisite: 9th leve~ Dragon Patron (Any Metallic)
+You can use an action to expend a warlock spell slot to
+exhale a secondary breath weapon in a 30-foot cone.
+Each creature in the area suffers the following effects,
+determined by your dragon patron's kind These effects
+end instantly if you lose your concentration (as if you
+were concentrating on a spell} Any saving throws are
+made against your warlock spell save DC.
+Brass. Targets must succeed on a Constitution saving
+throw or fall unconscious for 1 minute. This effect ends
+for a creature if the creature takes damage or someone
+uses an action to wake it. Any creature with hit points
+equal to or greater than your warlock level x 4 automatically
+succeeds on the saving throw.
+Bronze. Targets must succeed on a Strength saving
+throw or else be pushed 60 feet away from you.
+Copper. Each target must make a Constitution saving
+throw. On a failed save, a creature can't use reactions,
+its speed is halved, and it can't make more than one
+attack on its turn. Also, the creature can use either an
+action or a bonus action on its turn, but not both. These
+effects last for 1 minute. A creature repeats the saving
+throw at the end of each of its turns, ending the effect
+on itself on a success.
+Gold Each target must succeed on a Strength saving
+throw or suffer disadvantage on Strength-based attacks,
+Strength checks, and other Strength saving throws for 1
+minute. A creature repeats the saving throw at the end of
+each of its turns, ending the effect on itself on a success.
+Silver. Targets must succeed on a Constitution saving
+throw or be paralyzed until the end of your next turn.
+Any creature with hit points equal to or greater than
+your warlock level x 3 automatically succeeds on the
+saving throw.
+
+TIAMAT' S BARGAIN
+Prerequisite: 9th leve~ Dragon Patron (Any Chromatic)
+When you use your Breath of the Wynn feature, you
+can choose to use the breath weapon and damage type
+of any of the chromatic dragons from the list, instead of
+using the entry for your patron.
+When you finish a long rest, you can choose to change
+the damage type that your Draconic Essence feature
+grants resistance to. Choose one from acid, cold, fire,
+lightning, or poison damage.
+
+FIERY BREATH
+Prerequisite: 12th levd burning hands known as a
+warlock spell
+When you cast burning hands, you can do so as a bonus
+action, requiring only verbal components. Once you do,
+you can't do so again until you finish a long rest.
+
+OPEN THE GATE BELOW
+Prerequisite: 12th levei Any Water-themed Patron or
+Hydromancer feat
+You can expend a warlock spell slot to cast the new dark
+lagoon spelL requiring only somatic components. Once
+you do so, you can't do so again until you finish a long rest.
+
+TENTACLE GROWTH
+Prerequisite: 12th levei Fathomless Patron or Great
+Old One Patron
+You have an additional extremely flexible arm (a tentacle)
+that has reach 10 feet. Melee weapons wielded using
+this arm and no other arms have an additional 5 feet of
+reach, but the arm cannot wear shields. You also have
+advantage on ability checks made to grapple using this
+arm. If the arm is cut off or destroyed, it regrows with no
+apparent damage when you finish a long rest.
+You can take this invocation multiple times.
+
+GIFT OF THE 'TREANTS
+Prerequisite: 15th levei Archfey Patron or any Plantthemed
+Patron
+You can expend the 8th-level use of your Mystic Arcanum
+to cast the new animate tree spell
+
+HELLISH BLOOD
+Prerequisite: 15th levei Fiend Patron or Pyromancer
+Feat
+You are constantly affected by a lesser form of fire shield
+(warm option) that deals only ld6 damage. You can also
+expend a warlock spell slot to cast fire shield (as warm
+option only) on yourself as a bonus action, to increase
+the effect to that of a fire shield that deals 2d8 + ld6 fire
+damage for the normal duration.
+
+LOST TO THE COSMOS
+Prerequisite: 15th level
+You can cast nondetection using a warlock spell slot
+without requiring components, but you can only target
+yourself when you do so.
+
+PULL OF THE DARK
+Prerequisite: 15th levei Fathomless Patron, Eldritch
+Blast cantrip
+When you hit a creature with eldritch blast more than
+once in a turn, you can have it make a Strength saving
+throw. On a failed saving throw, the creature is knocked
+prone or pulled up to 10 feet toward you (your choice}
+
+WAVE CALLER
+Prerequisite: 15th levd Any Water-themed Patron or
+Hydromancer feat
+You can cast control water at-wilL expending no spell
+slots and requiring only verbal components.
+
+CONSIGN TO THE EARTH
+Prerequisite: 18th levei Any Earth-themed or Gravethemed
+Patron
+You can expend the 9th-level use of your Mystic Arcanum
+to cast the new earth whelm spell
+
+FOG FORM
+Prerequisite: 18th levei Any Water-themed Patron
+You can expend the 9th-level use of your Mystic Arcanum
+to cast the new ordainment of mist spell
+
+MAGMA FORM
+Prerequisite: 18th levei Any Fire-themed Patron
+You can expend the 9th-level use of your Mystic Arcanum
+to cast the new ordainment of lava spell
+
+STEEL FORM
+Prerequisite: 18th levd Any Tech-themed or Weaponthemed
+Patron
+You can expend the 9th-level use of your Mystic Arcanum
+to cast the new ordainment of metal spell
+
+PEERS OF THE PATRON
+Prerequisite: 18th levei Archfey Patron or any
+Elemental-themed Patron
+You can expend the 9th-level use of your Mystic Arcanum
+to cast the new summon primal spirit spell
+
+TAME THE WIND
+Prerequisite: 18th levei Any Air-themed or Stormthemed
+Patron
+You can expend the 9th-level use of your Mystic Arcanum
+to cast the new wind wake spell
+
+THOUSAND-YEAR FLOOD
+Prerequisite: 18th levei Any Water-themed Patron
+You can expend the 9th-level use of your Mystic Arcanum
+to cast the new grand flood spell
+
+VOLCANIC HERALD
+Prerequisite: 18th levei Any Fire-themed Patron
+You can expend the 9th-level use of your Mystic Arcanum
+to cast the new caldera spell
+
 ```
 invocations = {
     'Agonizing Blast': [agonizingblast, agonizingblast_prereq],

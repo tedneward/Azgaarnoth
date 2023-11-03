@@ -1,7 +1,7 @@
 # Oozes
 Oozes thrive in the dark, shunning areas of bright light and extreme temperatures. They flow through the damp underground, feeding on any creature or object that can be dissolved, slinking along the ground, dripping from walls and ceilings, spreading across the edges of underground pools, and squeezing through cracks. The first warning an adventurer receives of an ooze's presence is often the searing pain of its acidic touch.
 
-> Jump to: [Black Pudding](Oozes.md#black-pudding) | [Gelatinous Cube](Oozes.md#gelatinous-cube) | [Gray Ooze](Oozes.md#gray-ooze) | [Ochre Jelly](Oozes.md#ochre-jelly) | [Psychic Gray Ooze](Oozes.md#psychic-gray-ooze) | [Slithering Tracker](Oozes.md#slithering-tracker)
+> Jump to: [Black Pudding](Oozes.md#black-pudding) | [Gelatinous Cube](Oozes.md#gelatinous-cube) | [Gray Ooze](Oozes.md#gray-ooze) | [Ochre Jelly](Oozes.md#ochre-jelly) | [Psychic Gray Ooze](Oozes.md#psychic-gray-ooze) | [Slithering Tracker](Oozes.md#slithering-tracker) | [Molten Ooze](Oozes.md#molten-ooze)
 
 Oozes are drawn to movement and warmth. Organic material nourishes them, and when prey is scarce they feed on grime, fungus, and offal. Veteran explorers know that an immaculately clean passageway is a likely sign that an ooze lairs nearby.
 
@@ -472,3 +472,104 @@ Extraplanar, Conjured/Summoned
 >***Watery Stealth.*** If underwater, the slithering tracker takes the Hide action, and it makes the Dexterity (Stealth) check with advantage.
 >
 
+---
+
+## Molten Ooze
+Oozes are simple-minded, amorphous creatures that live only to consume. Some oozes take on elemental traits, such as the heated kind known as a molten ooze. It is mottled with red and black and speckled with orange flecks, and is easily mistaken for lava itself. Its body is dense, viscous, and resilient against harm. These oozes are extremely dangerous for novice adventurers.
+
+When a molten ooze moves, it rolls like a slow, fiery bubble, or flows like a slithering trickle of lava. Any organic material it moves over is dissolved, and any remains are seared to ash, which the ooze will also consume. It leaves stone and metal unharmed.
+
+Molten oozes typically dwell within volcanoes or fiery caverns beneath the earth, although some lurk in alleys and abandoned buildings in the City of Brass, the efreeti capital in the Elemental Plane of Fire. Some efreeti even keep these oozes as pets, using them to dispose of waste and to clean surfaces in their palaces. In a pinch, the oozes can even serve as defenders against enemies, but anyone who keeps an ooze as a pet knows that the ooze doesn't distinguish friend from food, especially in the chaos of a frenzied battle.
+
+### Environment
+Extraplanar, Mountain, Volcano, Conjured/Summoned
+
+### Token
+![](Oozes-MoltenOoze-Token.png)
+
+>### Molten Ooze
+>*Medium ooze, unaligned*
+>___
+>- **Armor Class** 6
+>- **Hit Points** 110 (13d8 + 52)
+>- **Speed** 20 ft., climb 20 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|14 (+2)|3 (-4)|19 (+4)|1 (-5)|6 (-2)|1 (-5)|
+>
+>___
+>- **Proficiency Bonus** +2
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** acid, fire, lightning, slashing
+>- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
+>- **Skills** 
+>- **Senses** blindsight 60 ft. (blind beyond this radius),passive Perception 8
+>- **Languages** --
+>- **Challenge** 7
+>___
+>***Amorphous.*** The ooze can move through a space as narrow as l inch wide without squeezing.
+>
+>***False Appearance.*** While the ooze remains motionless, it is indistinguishable from a pool of lava or a molten rock.
+>
+***Molten Form.*** A creature that touches the ooze or hits it with a melee attack while within 5 feet of it takes 3 (1d6) acid damage plus 5 (1d10) fire damage. At the start of the ooze's turn, it also deals this damage to each creature that it is grappling.
+>
+>***Spider Climb.*** The molten ooze can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+>
+>#### Actions
+>***Pseudopod.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage plus 7
+(2d6) acid damage and 9 (2d8) fire damage, and if the target is a creature, it is grappled (escape DC 14). While grappled in this way, the target is also restrained. Until this grapple ends, the ooze can't attack another target. If the target is a creature or a flammable object, it is also set ablaze. Until a creature takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the end of each of its turns.
+>
+
+---
+
+## Winter Ooze
+Oozes are simple-minded, amorphous creatures that live only to consume. Some oozes take on elemental traits, such as the frozen kind known as a winter ooze. It is often a murky white or clear, speckled with off-white flecks, and is easily mistaken for a pool of cold water or a formation of ice. Its body is dense, viscous, and resilient against harm. These oozes are extremely dangerous for novice adventurers.
+
+When a molten ooze moves, it rolls like a slow, icy ball, or flows like a slithering trickle of slush. Any organic material it moves over is dissolved, and any remains are frozen and shattered, which the ooze will also consume. It leaves stone and metal unharmed.
+
+Frozen oozes typically dwell within glaciers or frozen caverns in arctic conditions, although some lurk in alleys and abandoned buildings in the City of Ice, the capital in the Elemental Plane of Ice. For some who keep the frozen oozes as pets, the oozes can even serve as defenders against enemies, but anyone who keeps an ooze as a pet knows that the ooze doesn't distinguish friend from food, especially in the chaos of a frenzied battle.
+
+### Environment
+Extraplanar, Mountain, Arctic, Conjured/Summoned
+
+### Token
+![](Oozes-FrozenOoze-Token.png)
+
+>### Winter Ooze
+>*Medium ooze, unaligned*
+>___
+>- **Armor Class** 6
+>- **Hit Points** 110 (13d8 + 52)
+>- **Speed** 20 ft., climb 20 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|14 (+2)|3 (-4)|19 (+4)|1 (-5)|6 (-2)|1 (-5)|
+>
+>___
+>- **Proficiency Bonus** +2
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** acid, cold, lightning, slashing
+>- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
+>- **Skills** 
+>- **Senses** blindsight 60 ft. (blind beyond this radius),passive Perception 8
+>- **Languages** --
+>- **Challenge** 7
+>___
+>***Amorphous.*** The ooze can move through a space as narrow as l inch wide without squeezing.
+>
+>***False Appearance.*** While the ooze remains motionless, it is indistinguishable from a cold pool of water or ice feature.
+>
+***Frozen Form.*** A creature that touches the ooze or hits it with a melee attack while within 5 feet of it takes 3 (1d6) acid damage plus 5 (1d10) cold damage. At the start of the ooze's turn, it also deals this damage to each creature that it is grappling.
+>
+>***Spider Climb.*** The winter ooze can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+>
+>#### Actions
+>***Pseudopod.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage plus 7
+(2d6) acid damage and 9 (2d8) cold damage, and if the target is a creature, it is grappled (escape DC 14). While grappled in this way, the target is also restrained. Until this grapple ends, the ooze can't attack another target. If the target is a creature or a object, it takes 5 (1d10) cold damage at the end of each of its turns.
+>
