@@ -266,7 +266,7 @@ def level17(npc):
 You gain the ability to enhance mundane items with undead enchantments. The magic items you create with this feature are take the form of undead armors, weapons or wonderous items.
 
 ### Macabre Creations Known
-When you gain this feature, pick three pale master macabre creations to learn, choosing from the ["Macabre Creations" page](PaleMaster/MacabreCreations.md). You learn additional creations of your choice when you reach certain level in this class, as shown in the Creations Known column of the Pale Master table.
+When you gain this feature, pick three pale master macabre creations to learn, choosing from the ["Macabre Creations" page](MacabreCreations.md). You learn additional creations of your choice when you reach certain level in this class, as shown in the Creations Known column of the Pale Master table.
 
 Whenever you gain a level in this class, you can replace one of the macabre creations you learned with a new one.
 
