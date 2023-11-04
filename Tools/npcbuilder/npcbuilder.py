@@ -29,7 +29,6 @@ def log(*values):
         print(*values)
 
 REPOROOT = os.path.realpath(os.path.dirname(os.path.realpath(__file__)) + '/../../') + "/"
-print("REPOROOT = " + REPOROOT)
 
 # ----------------------------------------------------------
 # Common routines available to all loaded modules
@@ -541,6 +540,7 @@ def loadclasses():
         if os.path.isdir(entryname) and (os.path.basename(entryname) not in excludedentries):
             dirpath = entryname
             dirname = os.path.basename(dirpath)
+            log("Parsing base class: " + dirpath + "/index.md")
             basemodule = loadmodule(dirpath + "/index.md", dirname)
             if basemodule != None:
                 classes[basemodule.name] = basemodule
@@ -1398,11 +1398,6 @@ def main():
     global quiet
     global scripted
 
-    loadraces()
-    loadclasses()
-    loadfeats()
-    #loadbackgrounds()
-
     parser = argparse.ArgumentParser(
         prog='NPCBuilder',
         description='A tool for generating 5th-ed NPCs using PC rules/templates'
@@ -1420,6 +1415,11 @@ def main():
         elif args.verbose == 'quiet':
             quiet = True
     
+    loadraces()
+    loadclasses()
+    loadfeats()
+    #loadbackgrounds()
+
     if not scripted:
         npc = generatenpc()
         print(npc.emitMD())

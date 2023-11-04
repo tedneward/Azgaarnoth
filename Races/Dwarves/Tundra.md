@@ -18,7 +18,7 @@ description = "***Subrace: Tundra Dwarf.*** You owe your heartiness and enduranc
 def level0(npc): 
     choice = choose("Choose one: ", ['STR','WIS'])
     if choice == 'STR': npc.STR += 1
-    else npc.WIS += 1
+    else: npc.WIS += 1
 
     npc.damageresistances.append('cold')
 

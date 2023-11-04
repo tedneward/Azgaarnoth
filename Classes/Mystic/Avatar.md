@@ -3,6 +3,8 @@ Mystics of the Order of the Avatar delve into the world of emotion, mastering th
 
 Avatars can bring out extreme emotions in the people around them. For their allies, they can lend hope, ferocity, and courage, transforming a fighting band into a deadly, unified force. For their enemies, they bring fear, disgust, and trepidation that can make even the most hardened veteran act like a shaky rookie.
 
+The Heart of the Council of Seers in Zhi is always a mystic of the Order of the Avatar; their abilities to inspire and evoke emotion makes them the most common spokesperson to the people of Zhi, and they often serve as the interlocutor between the Council and visitors.
+
 ```
 name = 'Order of the Avatar'
 description = "***Mystic Order: Order of the Avatar.*** Mystics of the Order of the Avatar delve into the world of emotion, mastering their inner life to such an extent that they can manipulate and amplify the emotions of others with the same ease that an artist shapes clay. Known as Avatars, these mystics vary from tyrants to inspiring leaders who are loved by their followers."

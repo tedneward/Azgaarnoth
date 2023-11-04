@@ -26,7 +26,7 @@ When you use a bonus action to regain hit points using your Second Wind feature,
 Also, when your turn begins and your Second Wind feature is expended, you can choose to regain it. Once you do, you can't do so again until you finish a long rest.
 
 ```
-    npc.defer(lambda npc: replace("***Second Wind ", npc.bonusactions, f" (Recharges on short or long rest).*** On your turn, you can regain 1d10 + {npc.levels('Fighter')} hit points and gain {5 + (npc.levels('Fighter') // 2)} temporary hit points. Also, when you turn begins and your Second Wind is expended, you can choose to regain it. {'Once you do, you can't do so again' if npc.levels('Fighter') < 15 else 'You can do this up to three times, and then not again'} until you finish a long rest."))
+    npc.defer(lambda npc: replace("***Second Wind ", npc.bonusactions, f" (Recharges on short or long rest).*** On your turn, you can regain 1d10 + {npc.levels('Fighter')} hit points and gain {5 + (npc.levels('Fighter') // 2)} temporary hit points. Also, when you turn begins and your Second Wind is expended, you can choose to regain it. {'You can do this once' if npc.levels('Fighter') < 15 else 'You can do this up to three times'} before requiring you to finish a long rest to repeat."))
 ```
 
 ## One Foot in the Grave

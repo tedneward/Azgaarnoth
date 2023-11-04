@@ -23,7 +23,7 @@ Cleric Level | Spells
 
 ```
 domainspells = {
-    1: ['burning hands', 'hellish rebuke', 'earth tremor],
+    1: ['burning hands', 'hellish rebuke', 'earth tremor'],
     3: ['flame blade', 'scorching ray'],
     5: ['fireball', 'melfs minute meteors'],
     7: ['wall of fire', 'fire shield'],

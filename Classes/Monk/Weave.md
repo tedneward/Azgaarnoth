@@ -3,6 +3,11 @@ The Weave is a fabric of magic that underlies the planes and is arguably the sou
 
 This is probably one of the most public of the monastic traditions in Azgaarnoth, as nearly all of the [mage schools](../../Organizations/MageSchools/index.md) make use of Weave monks as bodyguards, assistants, and companions. It is not entirely clear what the monks get out of the partnership, however, though speculation is rife. To join one of the Weave monks, however, is simple: walk up to any Weave monk, ask how to join, and instructions will be made clear (usually a small quest to test the sincerity of the request, followed by directions to a monastery somewhere on the continent). Regardless of whatever other agreements mage schools have with Weave monks, the one consistent factor is that the Way of the Weave is always open to new students, of any race, at any time. It is for this reason, as well, that any race found anywhere on Azgaarnoth can be accepted as a Weave monk--human, Firstborn, Created, Horde, even Undersea, all are welcome, embraced, and taught.
 
+```
+name = 'Weave'
+description = "***Monastic Tradition: Way of the Weave.*** The Weave is a fabric of magic that underlies the planes and is arguably the source of power for all arcane magic. Monks of the Way of the Weave have, through their manipulation of ki, discovered how to tap into the Weave and channel its energy to cast spells. While many monks use this deep understanding of the Weave to explore the secrets of the multiverse, some Way of the Weave monks choose to wield this arcane power against their foes."
+```
+
 ## Spellcasting
 *3rd-level Way of the Weave feature*
 
@@ -91,7 +96,7 @@ Spell Slot Level|Ki Point Cost
 
 ```
 def level11(npc):
-    npc.bonusactions.append("***Ki: Weave-Infused Ki.*** You can transform 2 ki points into a 1st-level spell slot, 3 into a 2nd, 5 into a 3rd, or 6 into a 4th.")
+    npc.bonusactions.append("***Ki: Weave-Infused Ki.*** You can transform 2 ki points into a 1st level spell slot, 3 into a 2nd, 5 into a 3rd, or 6 into a 4th.")
 ```
 
 ## Spell Strike
@@ -105,3 +110,5 @@ The struck creature serves as the point of origin for the spell. The target auto
 def level17(npc):
     npc.actions.append("***Spell Strike.*** When you hit another creature with a melee weapon attack, you can spend a number of ki points (as described by Weave-Infused Ki) to cast a spell of that level without needing to expend a spell slot to do this. The struck creature serves as the point of origin for the spell. The target automatically fails the saving throw for the spell, if it has one, but any other creature that would be effected by the spell is entitled to the appropriate saving throws.")
 ```
+
+
