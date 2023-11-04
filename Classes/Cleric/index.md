@@ -3,6 +3,11 @@ Clerics are intermediaries between the mortal world and the distant planes of th
 
 Several major [religions](../../Religions/index.md) dot the surface of Azgaarnoth, each with its own set of domains and unique abilities. You may wish to take a look at these before making any particular choices about your cleric's domains and characteristics.
 
+```
+name = 'Cleric'
+description = "***Class: Cleric.*** Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic."
+```
+
 ## Class features
 As a cleric, you gain the following class features.
 
@@ -36,6 +41,10 @@ Level|Proficiency Bonus|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|Featu
 
 **Hit Points at Higher Levels**: 1d8 (or 5) + your Constitution modifier per cleric level after 1st
 
+```
+def everylevel(npc): npc.hits('d8')
+```
+
 ### Proficiencies
 **Armor**: Light armor, medium armor, shields
 
@@ -47,6 +56,21 @@ Level|Proficiency Bonus|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|Featu
 
 **Skills**: Choose two from History, Insight, Medicine, Persuasion, and Religion
 
+```
+def level1(npc):
+    for arm in armor['light'] | armor['medium'] | armor['shields']:
+        npc.proficiencies.append(arm)
+    for wpn in weapons['simple-melee'] | weapons['simple-ranged']:
+        npc.proficiencies.append(wpn)
+
+    npc.savingthrows.append('WIS')
+    npc.savingthrows.append('CHA')
+
+    skillchoices = ['History', 'Insight', 'Medicine', 'Persuasion', 'Religion']
+    chooseskill(npc, skillchoices)
+    chooseskill(npc, skillchoices)
+```
+
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -55,6 +79,15 @@ You start with the following equipment, in addition to the equipment granted by 
 * (a) a light crossbow and 20 bolts or (b) any simple weapon
 * (a) a priest's pack or (b) an explorer's pack
 * A shield and a holy symbol
+
+```
+    npc.equipment.append("Mace")
+    npc.armorclass['Scale mail'] = 14
+    npc.equipment.append("Light crossbow and 20 bolts")
+    npc.equipment.append("Priest's pack")
+    npc.equipment.append("Shield")
+    npc.equipment.append("Holy symb0l")
+```
 
 ## Spellcasting
 *1st-level cleric feature*
@@ -83,6 +116,17 @@ Wisdom is your spellcasting ability for your cleric spells. The power of your sp
 
 **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
 
+```
+    sc = fullcaster(npc, 'WIS', 'Cleric')
+    sc.casterclass = allclasses['Cleric']
+
+    def spellcasting(npc): 
+        npc.spellcasting[name].maxcantripsknown = 3 if npc.levels(name) < 4 else 4 if npc.levels(name) < 10 else 5
+        npc.spellcasting[name].spellsprepared = npc.levels(name) + npc.WISbonus()
+
+    npc.defer(lambda npc: spellcasting(npc))
+```
+
 ### Ritual Casting
 You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
@@ -92,9 +136,8 @@ You can use a holy symbol as a spellcasting focus for your cleric spells.
 ## Divine Domain
 *1st-level cleric feature*
 
-Choose one domain:
+Choose one domain, or choose a [diety or religion](../../Religions/index.md) and select one of their domains:
 
-* [Abandoned](Abandoned.md)
 * [Air](Air.md)
 * [Arcana](Arcana.md)
 * [Blood](Blood.md)
@@ -103,7 +146,6 @@ Choose one domain:
 * [Cold](Cold.md)
 * [Dark](Dark.md)
 * [Death](Death.md)
-* [Defier](Defier.md)
 * [Desire](Desire.md)
 * [Destruction](Destruction.md)
 * [Dragon](Dragon.md)
@@ -122,10 +164,11 @@ Choose one domain:
 * [Madness](Madness.md)
 * [Moon](Moon.md)
 * [Nature](Nature.md)
+* [Night](Night.md)
 * [Ocean](Ocean.md)
 * [Order](Order.md)
+* [Pain](Pain.md)
 * [Peace](Peace.md)
-* [Phoenix](Phoenix.md)
 * [Protection](Protection.md)
 * [Shadow](Shadow.md)
 * [Tempest](Tempest.md)
@@ -136,9 +179,22 @@ Choose one domain:
 * [Vengeance](Vengeance.md)
 * [War](War.md)
 * [Water](Water.md)
+
+Alternatively, there are some "concepts" beyond the simple "deity worship" that--somehow--yield divine power and benefits:
+
+* [Abandoned](Abandoned.md)
+* [Defier](Defier.md)
+* [Entropy](Entropy.md)
 * [Zeal](Zeal.md)
 
 Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use [Channel Divinity](#channel-divinity) when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
+
+```
+    (_, subclass) = choose("Choose a domain: ", subclasses)
+    npc.subclasses[allclasses['Cleric']] = subclass
+    npc.description.append(subclass.description)
+    subclass.spellcasting = npc.spellcasting[name]
+```
 
 ## Domain Spells
 *1st-level cleric feature*
@@ -158,6 +214,11 @@ Some [Channel Divinity](#channel-divinity) effects require saving throws. When y
 
 Beginning at 6th level, you can use your [Channel Divinity](#channel-divinity) twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
 
+```
+def level2(npc):
+    npc.defer(lambda npc: npc.traits.append(f"***Channel Divinity ({'' if npc.levels('Cleric') < 6 else '2/' if npc.levels('Cleric') < 18 else '3/'}Recharges on short or long rest).*** See below for the details of each use."))
+```
+
 ## Channel Divinity: Turn Undead
 *2nd-level cleric feature*
 
@@ -165,13 +226,29 @@ As an action, you present your holy symbol and speak a prayer censuring the unde
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
+```
+    npc.actions.append("***Channel Divinity: Turn Undead.*** You can use one of your uses of Channel Divinity to turn undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.")
+```
+
 ## Channel Divinity: Harness Divine Power
 *2nd-level cleric feature*
 
 You can expend a use of your [Channel Divinity](#channel-divinity) to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.
 
+```
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Channel Divinity: Harness Divine Power.*** You can expend a use of your Channel Divinity to regain one expended spell slot, the level of which can be no higher than {(npc.proficiencybonus() // 2) + 1}."))
+```
+
 ## [Ability Score Improvement](#ability-score-improvement)
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+```
+def level4(npc): abilityscoreimprovement(npc)
+def level8(npc): abilityscoreimprovement(npc)
+def level12(npc): abilityscoreimprovement(npc)
+def level16(npc): abilityscoreimprovement(npc)
+def level19(npc): abilityscoreimprovement(npc)
+```
 
 ## Cantrip Versatility
 *4th-level cleric feature*
@@ -193,10 +270,10 @@ Cleric Level | Destroys Undead of CR ...
 14th| 3 or lower
 17th| 4 or lower
 
-## Blessed Strikes
-*8th-level cleric feature*
-
-You are blessed with divine might in battle. When a creature takes damage from one of your spells or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can’t use this feature again until the start of your next turn.
+```
+def level5(npc):
+    npc.defer(lambda npc: replace("***Channel Divinity: Turn Undead.***", npc.actions, f" You can use one of your uses of Channel Divinity to turn undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, if it is a CR of {'1/2' if npc.levels('Cleric') < 8 else '1' if npc.levels('Cleric') < 11 else '2' if npc.levels('Cleric') < 14 else '3' if npc.levels('Cleric') < 17 else '4'} or lower it is destroyed; otherwise it is turned for 1 minute or until it takes any damage.A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action."))
+```
 
 ## Divine Intervention
 *10th-level cleric feature*
@@ -206,6 +283,11 @@ You can call on your deity to intervene on your behalf when your need is great.
 Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
 
 At 20th level, your call for intervention succeeds automatically, no roll required.
+
+```
+def level10(npc):
+    npc.defer(lambda npc: npc.actions.append("***Divine Intervention (Recharges on long rest/seven days).*** Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than {npc.levels('Cleric')}, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise you can use it again after you finish a long rest."))
+```
 
 ---
 

@@ -1,7 +1,7 @@
 # Cats
 Ranging from the mouser on the farm to the King of Beasts, the feline species, in all its forms, can be found all across Azgaarnoth.
 
-> Jump to: [Cat](Cats.md#cat) | [Lion](Cats.md#lion) | [Panther](Cats.md#panther) | [Saber-Toothed Tiger](Cats.md#saber-toothed-tiger) | [Tiger](Cats.md#tiger)
+> Jump to: [Cat](Cats.md#cat) | [Lion](Cats.md#lion) | [Panther](Cats.md#panther) | [Saber-Toothed Tiger](Cats.md#saber-toothed-tiger) | [Tiger](Cats.md#tiger) | [Greater Tiger](Cats.md#greater-tiger)
 
 ---
 
@@ -12,7 +12,7 @@ Meow. Purr.
 Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
-![](Cat-Token.png)
+![](Cats-Token.png)
 
 >### Cat
 >*Tiny beast, unaligned*
@@ -52,7 +52,7 @@ The lion is a pack animal, often a single male with several lionesses, who do th
 Desert, Grassland, Hill, Mountain
 
 ### Token
-![](Lion-Token.png)
+![](Cats-Lion-Token.png)
 
 >### Lion
 >*Large beast, unaligned*
@@ -93,6 +93,48 @@ Desert, Grassland, Hill, Mountain
 
 ---
 
+## Greater Lion
+Truly the king of the beasts, the greater lion often gathers other lions about itself as its pride. Cubs of greater lions are inevitably greater lions themselves, but many do not survive the battles of dominance within the pride.
+
+>### Greater Lion
+>*Large beast, unaligned*
+>___
+>- **Armor Class** 12
+>- **Hit Points** 67 (9d10 + 18)
+>- **Speed** 50 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|20 (+5)|15 (+2)|15 (+2)|3 (-4)|12 (+1)|10 (+0)|
+>
+>___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +4,Stealth +8
+>- **Senses** passive Perception 14
+>- **Languages** --
+>- **Challenge** 5
+>___
+>***Keen Smell.*** The lion has advantage on Wisdom (Perception) checks that rely on smell .
+>
+>***Pack Tactics.*** The lion has advantage on an attack roll against a creatu re if at least one of the lion 's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>
+>***Pounce.*** If the lion moves at least 20 feet straight toward a creature and then hits with a claw attack on the same turn, the target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action.
+>
+>***Running Leap.*** With a 10-foot running start, the lion can long jump up to 25 feet.
+>
+>#### Actions
+>***Bite.*** Melee Weapon Attack:  +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage.
+>
+>***Claw.*** Melee Weapon Attack:  +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
+>
+
+---
+
 ## Panther
 (No description given)
 
@@ -100,7 +142,7 @@ Desert, Grassland, Hill, Mountain
 Forest, Jungle, Swamp
 
 ### Token
-![](Panther-Token.png)
+![](Cats-Panther-Token.png)
 
 >### Panther
 >*Medium beast, unaligned*
@@ -188,7 +230,7 @@ Grassland, Hill
 Grassland, Jungle, Swamp
 
 ### Token
-![](Tiger-Token.png)
+![](Cats-Tiger-Token.png)
 
 >### Tiger
 >*Large beast, unaligned*
@@ -223,3 +265,46 @@ Grassland, Jungle, Swamp
 >***Claw.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.
 >
 
+---
+
+## Greater Tiger
+An apex predator, the greater tiger is one of the deadliest of great cats in the jungle and grasslands. Greater tigers will compete with one another over territory, and always hunt alone.
+
+### Environment
+Grassland, Swamp
+
+### Token
+![](GreaterTiger-Token.png)
+
+>### Greater Tiger
+>*Large beast, unaligned*
+>___
+>- **Armor Class** 12
+>- **Hit Points** 76 (9d10 + 27 )
+>- **Speed** 40 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|20 (+5)|15 (+2)|16 (+3)|3 (-4)|12 (+1)|10 (+0)|
+>
+>___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +4,Stealth +8
+>- **Senses** darkvision 60 ft.,passive Perception 14
+>- **Languages** --
+>- **Challenge** 5
+>___
+>***Keen Smell.*** The tiger has advantage on Wisdom (Perception) checks that rely on smell.
+>
+>***Pounce.*** If the tiger moves at least 20 feet straight toward a creature and then hits with a claw attack on the same turn, the target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack again st it as a bonus action.
+>
+>#### Actions
+>***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) piercing damage.
+>
+>***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.
+>

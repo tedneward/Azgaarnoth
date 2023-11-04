@@ -26,7 +26,7 @@ Few liches call themselves by their former names, instead adopting monikers such
 ***Undead Nature.*** A lich doesn’t require air, food, drink, or sleep.
 
 ### Environment
-(FIXME)
+Ruins, Underdark, Urban
 
 ### Token
 ![](Lich-Token.png)

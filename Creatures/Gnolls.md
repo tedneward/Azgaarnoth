@@ -1,7 +1,7 @@
 # Gnolls
-Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without warning, slaughtering their victims and devouring their flesh.
+Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without warning, slaughtering their victims and devouring their flesh. Gnolls are infamous among "civilized" nations for their brutality and demonic heritage. For the most part, they earned their reputation honestly. Many gnoll packs are indeed aggressive and have a demonic side to their affairs. Typically they worship the demon lord Yeenoghu. They also tend to be rather aggressive and are still mistrusted and avoided. To them, the pack is more important than anything else.
 
-> Jump to: [Gnoll](Gnolls.md#gnoll) | [Gnoll Pack Lord](Gnolls.md#gnoll-pack-lord) | [Gnoll Fang of Yeenoghu](Gnolls.md#gnoll-fang-of-yeenoghu) | [Flind](Gnolls.md#flind) | [Gnoll Flesh Gnawer](Gnolls.md#gnoll-flesh-gnawer) | [Gnoll Hunter](Gnolls.md#gnoll-hunter) | [Gnoll Witherling](Gnolls.md#gnoll-witherling)
+> Jump to: [Gnoll](Gnolls.md#gnoll) | [Gnoll Pack Lord](Gnolls.md#gnoll-pack-lord) | [Gnoll Fang of Yeenoghu](Gnolls.md#gnoll-fang-of-yeenoghu) | [Flind](Gnolls.md#flind) | [Gnoll Flesh Gnawer](Gnolls.md#gnoll-flesh-gnawer) | [Gnoll Hunter](Gnolls.md#gnoll-hunter) | [Gnoll Witherling](Gnolls.md#gnoll-witherling) | [Gnoll Headhunter](Gnolls.md#gnoll-headhunter) | [Gnoll Hunt Master](Gnolls.md#gnoll-hunt-master)
 
 ***Hordish Background.*** Gnoll packs were a large part of the Hordes that battled against the Eldar from the earliest days of Azgaarnoth's history; since that time, most have continued their tribal, nomadic ways, generally moving southward and now making up a significant percentage of the Ulmhorde. Some tribes chose to seek a more permanent existence within the more "civilized" Hordes, and many gnolls found themselves finding peace within Yithi and Zhi. Other tribes keep to their nomadic background but seek less to pillage and more to trade. Those gnolls who have "civilized" tend to worship any of the other gods *except* Yeenoghu.
 
@@ -13,9 +13,27 @@ Gnolls rarely build permanent structures or craft anything of lasting value. The
 
 ***Thirst for Blood.*** No goodness or compassion resides in the heart of a gnoll. Like a demon, it lacks anything resembling a conscience, and can't be taught or coerced to put aside its destructive tendencies. The gnolls' frenzied bloodlust makes them an enemy to all, and when they lack a common foe, they fight among themselves. Even the most savage orcs avoid allying with gnolls.
 
+## Physical Description
+Demon-worshiping is not the only reason many races are wary of gnolls. A lean, muscular 7-foot tall gnoll can be an imposing sight. Despite their musculature, they move rather quickly, easily outpacing most other races. Gnolls also outpace most other races in how quickly they mature. A gnoll matures by the age of 5 and lives to be about 30. Oddly a gnoll's vitality will remain with them until very soon before their natural death.
+
+Gnolls have reflective eyes that are typically bright green or yellow. They also have a thick coat of fur, which is generally light brown or dark brown. Certain clans may possess a single-colored coat or a spotted or striped coat. Some gnolls possess crest like manes of hair going from their head down their spine which rise up when they become frightened or angry.
+
+Adding to other races distrust about gnolls, occasionally a gnoll's demonic ancestry will result in peculiar physical traits. This might be manifested in the claws of gnoll claw fighters or an abnormal eye or coat colors.
+
+## History
+Gnolls are widely known as raiders and slavers. The pack will often serve as a "reconnaissance-in-force" scouting party for a Horde making its way across the landscape during a campaign, but gnolls typically are not known as civilized soldiers. In the middle of the night, they attack a village or town, killing and eating guards and taking slaves. These slaves are then brutalized physically and mentally. This has become an art among many gnoll tribes. In fact, many gnoll tribes have *tantekurash* or "spirit breakers" who are experts at breaking the wills of slaves. If the slave resists, it is eaten. Occasionally a slave's mind becomes so broken they revere the brutality of their gnoll captors. They then become *kryshantel* or "savage souls" who follow their gnoll masters into battle as thralls. (It is rumored that some have applied the same formula to captured gnolls and earned the loyalty of the gnoll, but this method retains the gnoll's love of savagery and brutality, making it a tactic generally only used by those who wish to use the gnoll for such purposes.)
+
+However, not all gnoll tribes are evil. There are a scattered few nomadic tribes who specialize as hunters and trappers. They may even come to peacefully interact with other races and often offer their service as hunters or trappers. Even so, they remain fairly aggressive and quick to anger, so other races have to be careful not to offend them. One large gnoll pack has even formed a mercenary company, the [Barking Dogs](../Organizations/MercCompanies/BarkingDogs.md). The [Dread Emperor](../People/DreadEmperor.md) has been rumored to be capturing and "turning" gnoll packs to serve as part of his armies, though if this is true they have yet to be used anywhere other than on the front lines against the Ulmhorde. Gnolls are also particularly desirable bodygards for the [Zhi](../Nations/Zhi.md) mystics and elite, as they are extremely difficult to be bought or enticed to betrayal.
+
+In addition to the typical variety of gnoll, there is a sub-race known as flind gnolls. They tend to be shorter and stouter than other gnolls, use flindbars more commonly, and live in more hilly areas than other gnolls who live in plains. Flind gnolls can be either raiders or hunters as described above. If you want to play a flind gnoll, make yourself somewhat short and stout and consider using a flindbar.
+
+***Society.*** While there may be struggles within packs to determine who the alpha is, throughout these conflicts, both sides remain allies. To gnolls, the good of the pack is far more important than any personal glory. As a result, gnolls can be loyal to a fault to their chosen pack. In battle gnolls strive endlessly to prevent their packmates from being harmed, even taking an injury themselves.
+
+Furthermore, a gnoll's mind is undeniably primal. They are natural predators and love the thrill and challenge of the hunt. This has resulted in a few traits in most gnolls. For the most part, gnolls prefer the wilds to any sort of urban area, though there are exceptions who see a city as a unique form of wilderness. Moreover, gnolls typically avoid diplomacy in favor of intimidating an answer out of others. It is simpler that way.
+
 ***Monstrous Gnoll Feats.*** For those gnolls which are favored by Yeenoghu enough to survive to the appropriate levels, a number of gnoll-specific [feats](../Classes/Feats.md) are available.
 
-***Playable Race: Incomparable Companions.*** Within the last millenium, tribes of gnolls have begun to change their ways, leaving some to wonder if the influence Yeenoghu exerted upon them has begun to wane. While exceptions exist, most gnolls continue to show their traditional ways, and when coming upon a gnoll in the wild, travelers are strongly suggested to keep weapons close at hand. Gnolls can be a [playable race](../Races/Gnoll.md).
+***Playable Race: Incomparable Companions.*** Gnoll [player characters](../Races/Gnolls.md) can be of any temperament--within the last millenium, an enlightenment has reached a number of gnoll packs, and those who seek more than just plunder and slaughter have made their way into a more "civilized" existence. While exceptions exist, most gnolls continue to show their traditional ways, and when coming upon a gnoll in the wild, travelers are strongly suggested to keep weapons close at hand.
 
 ---
 
@@ -353,5 +371,91 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 >
 >#### Reactions
 >***Vengeful Strike.*** In response to a gnoll being reduced to 0 hit points within 30 feet of the witherling, the witherling makes one Bite or Spiked Club attack.
+>
+
+---
+
+## Gnoll Headhunter
+The fiercest and most experienced gnolls become viciously proficient and hunting and killing. When gnolls of this caliber find each other, they set out together to collect the heads of enemies. These hunting packs are often held in awe by lesser gnolls.
+
+>### Gnoll Headhunter
+>*Medium humanoid (gnoll), chaotic evil*
+>___
+>- **Armor Class** 14 (studded leather)
+>- **Hit Points** 65 (10d8 + 20 )
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|17 (+3)|15 (+2)|15 (+2)|8 (-1)|11 (+0)|9 (-1)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** Con +4
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +2,Survival +2
+>- **Senses** darkvision 60 ft.,passive P erception 12
+>- **Languages** Gnoll
+>- **Challenge** 
+>___
+>***Rampage.*** When a gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
+>
+>#### Actions
+>***Multiattack.*** The gnoll makes two melee attacks with its glaive or two ranged  attacks with its longbow. It may substitute its bite for one of its melee attacks.
+>
+>***Bite.*** Melee Weapon Attack:  +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3 ) piercing damage.
+>
+>***Glaive.*** Melee Weapon Attack:  +5 to hit, reach 10 ft., one target. Hit: 8 (1d10 + 3 ) slashing damage.
+>
+>***Longbow.*** Ranged Weapon Attack:  +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8  + 2) piercing damage.
+>
+>#### Reactions
+>***Revenge.*** When hit by a melee attack, the gnoll can mark the attacker for revenge. On its next turn, the gnoll has advantage on its first attack against that opponent.
+>
+
+---
+
+## Gnoll Hunt Master
+The bloodiest gnoll hunters become legendary among their race. Gnoll Headhunters travel far and wide to find and hunt with them. Gnoll hunt masters can attract large and dangerous hunting packs. Some prefer to hunt in small bands of masters only, and are among the most dreaded prowlers of the wilderness.
+
+>### Gnoll Hunt Master
+>*Medium humanoid (gnoll), chaotic evil*
+>___
+>- **Armor Class** 15 (studded leather)
+>- **Hit Points** 97 (13d8 + 39 )
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|16 (+3)|16 (+3)|10 (+0)|12 (+1)|13 (+1)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** Con +6,Wis +4
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +4,Survival +4
+>- **Senses** darkvision 60 ft.,passive Perception 14
+>- **Languages** Gnoll
+>- **Challenge** 6
+>___
+>***Rampage.*** When a gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack .
+>
+>#### Actions
+>***Multiattack.*** The gnoll makes two melee attacks with its glaive and one with its bite, or two ranged attacks with its longbow.
+>
+>***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+>
+>***Glaive.*** Melee Weapon Attack: +7 to hit, rea ch 10 ft., one target. Hit: 9 (1d10 + 4) slashing damage.
+>
+>***Longbow.*** Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
+>
+>#### Reactions
+>***Revenge.*** When hit by a melee attack, the gnoll can mark the attacker for revenge. On its next turn, the gnoll has advantage on its first attack against that opponent.
 >
 

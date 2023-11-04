@@ -8,18 +8,18 @@ You have formed a bond with a wildfire spirit, a primal being of creation and de
 
 Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
-Druid Level| Spells
----------- | ------
-2nd| burning hands, cure wounds
-3rd| flaming sphere, Scorching Ray
-5th| Plant Growth, revivify
-7th| Aura of Life, Fire Shield
-9th| flame strike, mass cure wounds
+Druid Level | Spells
+----------- | ------
+2nd | burning hands, cure wounds
+3rd | flaming sphere, Scorching Ray
+5th | Plant Growth, revivify
+7th | Aura of Life, Fire Shield
+9th | flame strike, mass cure wounds
 
 ## Summon Wildfire
 *2nd-level Circle of Wildfire feature*
 
-You can summon the primal spirit bound to your soul. As an action, you can expend one use of your Wild Shape feature to summon your [wildfire spirit](../../Creatures/WildfireSpirit.md), rather than assuming a beast form.
+You can summon the primal spirit bound to your soul. As an action, you can expend one use of your Wild Shape feature to summon your [wildfire spirit](../../Creatures/Spirits.md#wildfire-spirit), rather than assuming a beast form.
 
 The spirit appears in an unoccupied space of your choice that you can see within 30 feet of you. Each creature within 10 feet of the spirit (other than you) when it appears must succeed on a Dexterity saving throw against your spell save DC or take 2d6 fire damage.
 

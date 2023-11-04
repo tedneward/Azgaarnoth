@@ -16,6 +16,8 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 ## Young Kruthik
 Kruthiks hatch from eggs laid by female adults. Each egg is about the size of an adult human's head and hatches within a month. Tiny kruthik hatchlings are harmless and rarely stray far from the nest. They feed primarily on offal and one another. Within a month, the survivors become young kruthiks large enough to hunt and defend themselves.
 
+![](Kruthiks-Young.png)
+
 ### Environment
 Underdark
 

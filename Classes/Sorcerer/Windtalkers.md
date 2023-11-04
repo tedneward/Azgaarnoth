@@ -10,7 +10,7 @@ The arcane magic you command is infused with elemental fire. You can speak, read
 
 Firespeaker Bonus Spells
 * 1st: [*burning hands*](https://www.dndbeyond.com/spells/burning-hands), [*faerie fire*](https://www.dndbeyond.com/spells/faerie-fire)
-* 3rd: [*Aganazzar’s scorcher*](https://www.dndbeyond.com/spells/aganazzars-scorcher), [*continual flame*](https://www.dndbeyond.com/spells/continual-flame)
+* 3rd: [*Aganazzar's scorcher*](https://www.dndbeyond.com/spells/aganazzars-scorcher), [*continual flame*](https://www.dndbeyond.com/spells/continual-flame)
 * 5th: [*flame arrows*](https://www.dndbeyond.com/spells/flame-arrows), [*Melf's minute meteors*](https://www.dndbeyond.com/spells/melfs-minute-meteors)
 * 7th: [*conjure minor elementals*](https://www.dndbeyond.com/spells/conjure-minor-elementals) (steam mephits, magma mephits, or magmin only, unless you gain this spell from another source)
 * 9th: [*conjure elemental*](https://www.dndbeyond.com/spells/conjure-elemental) (steam mephits, magma mephits, magmin, or fire elementals only, unless you gain this spell from another source)

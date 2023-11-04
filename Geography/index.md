@@ -26,3 +26,9 @@ The major land masses of Azgaarnoth include [Liria](Liria.md), [Al'Uma](AlUma.md
 ## Roads
 The history of Azgaarnoth is over 10 millennia old, and much of the continent--with the exception of the large landmass called "Northern Bedia", in the far northwest--is crisscrossed with roads, or at least, what were once roads. Cities once connected by large, well-traveled, well-maintained highways have seen those roads fall into disrepair, many of them, and many towns and villages cling to a single dirt track that connects them with other towns and villages nearby. Many roads are paved, but with broken pavingstones every so often, making it less comfortable on wagons than merchants would prefer. In many cases, it seems easier and cheaper to ship by boat than by wagon.
 
+## Notable geography
+
+* The [Great Bedian Desert](GreatBedianDesert.md), in the far northwest, marks the largest swath of uninhabited land in Azgaarnoth, and is much of the reason the further western parts of Bedia remain uninhabited (by civilized humanoids, anyway).
+* The Isle of Freyshia, a lone island in the [Bagonbian Deep](BagonbianDeep.md), is said to be entirely haunted. Once, House Freyshia, when gifted the provincial lands which now bears their name, built a mighty fortress here, in order to better connect to their wilderness holdings in the north. Only a milennia later, the fortress lies crumbling, and no right-thinking Bedian sets foot on the island. Even sailors are urged to stay a distance away, even as they sail the trade route from Sangecall to Badeponge and Storetire and beyond.
+* The Isle of Moswind, on which the city of [Moswind](../Cities/Moswind.md) rests, is unusual in that it is one of the few duchies in Azgaarnoth across all three "planes": the city has an active partner in Khaz Moswind in the Underdark, as well as a thriving trade and cultural exchange with the Undersea city of gbMoswind, approximately 40 miles to the southwest of Moswind itself.
+*  

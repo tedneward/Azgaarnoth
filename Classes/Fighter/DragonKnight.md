@@ -1,5 +1,7 @@
-# Fighter Martial Archetype: Dragon Knight
-Dragon Knights--almost all of them [Knights of the Draconic Order](../../Organizations/MilitantOrders/DraconicOrder/)--are known for their valor in battle and for their great personal charm during the victory feasts afterward. Their blades carry the sting of dragon's breath, and their resolve carries them ever onward into the eternal war between good and evil. But some few Dragon Knights are the agents of the [Cult of the Wyrm](../../Organizations/CultOfTheWyrm.md), and they inevitably wreak great havoc and fear on their immediate vicinity. Woe to those who draw the ire of a Dragon Knight.
+# Martial Archetype: Dragon Knight
+Dragon Knights--usually members of the [Knights of the Draconic Order](../../Organizations/MilitantOrders/DraconicOrder/)--are known for their valor in battle and for their great personal charm during the victory feasts afterward. Their blades carry the sting of dragon's breath, and their resolve carries them ever onward into the eternal war between good and evil. 
+
+But some Dragon Knights are the agents of the [Cult of the Wyrm](../../Organizations/CultOfTheWyrm.md), and they inevitably wreak great havoc and fear on their immediate vicinity. Woe to those who draw the attention of a Wyrmcult Dragon Knight.
 
 Dragon Knights of the Draconic Order develop their class traits as part of rituals performed within the Order at each level progression; the trait may not be used until the ritual is performed. (Whether this ritual is arcane, divine, or simple communion with an actual metallic dragon is not clear, and the Order isn't saying.) Dragon Knights of the Cult of the Wyrm are usually bound to a particular dragon directly, and their traits manifest automatically. However, where Dragon Knights of the Draconic Order may operate openly, Dragon Knights of the Cult must keep their identity a secret if they do not wish to bring the full power of the Draconic Order in the area down upon their heads, at least in lands that are "civilized".
 
@@ -7,7 +9,7 @@ Dragon Knights of the Draconic Order develop their class traits as part of ritua
 When you take this archetype at 3rd level, you learn to speak, read, and write Draconic. If you already know Draconic, you can learn a different language instead.
 
 ## Draconic Lord
-When you choose this archetype, you develop a close tie to either the Draconic Order, or a cell of the Cult of the Wyrm, whom you serve as your lord. This bond grants you strengths and abilities, some of which are determined by your lord's type. Choose a dragon type from the Draconic Lord list, and work with your DM to develop a suitable backstory.
+When you choose this archetype, you develop a close tie to either the Draconic Order, or a dragon that leads a cell of the Cult of the Wyrm, whom you serve as your lord. This bond grants you strengths and abilities, some of which are determined by your lord's type. Choose a dragon type from the Draconic Lord list, and work with your DM to develop a suitable backstory.
 
 In rare cases, a particularly studious individual can learn enough about dragons and their powers and abilities to become a Dragon Knight without having a Draconic Lord. If you are such an anomaly, work with your DM to see how you were able to harness this power. Is it through bloodline? Perhaps an inexplicable magical bond?
 
@@ -16,15 +18,15 @@ In rare cases, a particularly studious individual can learn enough about dragons
 Dragon Type|Damage Type|Draconic Eminence Ability
 -----------|-----------|-------------------------
 Black|acid|you gain blindsight with a radius of 30 feet and can breathe underwater for the next minute
-Blue|lightning|you cast [lightning bolt]() as a 5th level spell
-Brass|fire|you cast [conjure minor elementals]()
-Bronze|lightning|you cast [freedom of movement]() on yourself
-Copper|acid|you cast [stoneskin]() on yourself
-Gold|fire|you cast [polymorph]() on yourself
-Green|poison|you cast [dominate person]()
-Red|fire|you cast [dragon's breath]() as a 5th level spell on yourself, and you must choose fire as the damage type
-Silver|cold|you cast [fly](), targeting yourself, and you gain the ability to walk on clouds and fog as if on solid ground during the duration of the spell
-White|cold|you cast [cone of cold]()
+Blue|lightning|you cast [lightning bolt](http://azgaarnoth.tedneward.com/magic/spells/lightning-bolt/) as a 5th level spell
+Brass|fire|you cast [conjure minor elementals](http://azgaarnoth.tedneward.com/magic/spells/conjure-minor-elementals/)
+Bronze|lightning|you cast [freedom of movement](http://azgaarnoth.tedneward.com/magic/spells/freedom-of-movement/) on yourself
+Copper|acid|you cast [stoneskin](http://azgaarnoth.tedneward.com/magic/spells/stoneskin/) on yourself
+Gold|fire|you cast [polymorph](http://azgaarnoth.tedneward.com/magic/spells/polymorph/) on yourself
+Green|poison|you cast [dominate person](http://azgaarnoth.tedneward.com/magic/spells/dominate-person/)
+Red|fire|you cast [dragon's breath](http://azgaarnoth.tedneward.com/magic/spells/dragons-breath/) as a 5th level spell on yourself, and you must choose fire as the damage type
+Silver|cold|you cast [fly](http://azgaarnoth.tedneward.com/magic/spells/fly/), targeting yourself, and you gain the ability to walk on clouds and fog as if on solid ground during the duration of the spell
+White|cold|you cast [cone of cold](http://azgaarnoth.tedneward.com/magic/spells/cone-of-cold/)
 
 ## Draconic Strike
 Starting at 3rd level, your draconic lord has granted you a measure of ability over his respective element. Once on each of your turns, when you hit with a weapon attack, you can deal an extra 1d6 damage of the type corresponding to your draconic lord's type. Consult the Draconic Lord list to learn which damage type you deal.

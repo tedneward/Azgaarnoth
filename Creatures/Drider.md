@@ -20,7 +20,7 @@ Extraplanar, Underdark
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|16 (+3)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|12 (+1)|
+>|16 (+3)|16 (+3)|18 (+4)|15 (+2)|16 (+3)|12 (+1)|
 >
 >___
 >- **Proficiency Bonus** +3
@@ -35,12 +35,6 @@ Extraplanar, Underdark
 >- **Challenge** 6
 >___
 >***Fey Ancestry.*** The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.
->
->***Innate Spellcasting.*** The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components:
->
->At will: dancing lights
->
->1/day each: darkness, faerie fire
 >
 >***Spider Climb.*** The drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 >
@@ -57,17 +51,14 @@ Extraplanar, Underdark
 >
 >***Longbow.*** Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
 >
->***VARIANT: DRIDER SPELLCASTING.*** Driders that were once drow spellcasters might retain their ability to cast spells. Such driders typically have a higher spellcasting ability (15 or 16) than other driders. Further, the drider gains the Spellcasting trait. A drider that was a drow divine spellcaster, therefore, could have a Wisdom of 16 (+3) and a Spellcasting trait as follows.
+>***Innate Spellcasting.*** The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components:
+>* At will: dancing lights
+>* 1/day each: darkness, faerie fire
 >
 >***Spellcasting.*** The drider is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The drider has the following spells prepared from the cleric spell list:
->
->Cantrips (at will): poison spray, thaumaturgy
->
->1st level (4 slots): bane, detect magic, sanctuary
->
->2nd level (3 slots): hold person, silence
->
->3rd level (3 slots): clairvoyance, dispel magic
->
->4th level (2 slots): divination, freedom of movement
+>* Cantrips (at will): poison spray, thaumaturgy
+>* 1st level (4 slots): bane, detect magic, sanctuary
+>* 2nd level (3 slots): hold person, silence
+>* 3rd level (3 slots): clairvoyance, dispel magic
+>* 4th level (2 slots): divination, freedom of movement
 >

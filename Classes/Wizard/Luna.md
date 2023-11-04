@@ -21,7 +21,7 @@ Waxing Quarter Moon|No Effect
 ## Moon Shadows
 Beginning at the 6th level, when you are within 60 feet of a beam of moonlight, your connection with the moons allows you to bend this reflective shine within a 5-foot radius for up to 1 minute, even during the daylight hours. When using this in combination with making a Dexterity (Stealth) check, you do so with advantage. You can also use this ability to hide objects smaller than 5 feet wide, or other willing creatures that are Medium or smaller, for up to 1 minute. Any creature searching for such a hidden object or creature while the Moon Shadows ability is in effect must succeed on a Wisdom (Perception) check versus your Spell save DC to see it.
 
-Once you use this feature, you can’t do so again until you have finished a short or long rest. 
+Once you use this feature, you can't do so again until you have finished a short or long rest. 
 
 ## Lunar Retribution
 Starting at 10th level, as a reaction to a melee attack that hits you, you release a wave of lunar energies to rebuke your attacker. When successfully hit by a melee attack, you can use your reaction to force the attacker to make Wisdom saving throw against your Spell save DC, taking 1d8 + your Intelligence modifier (minimum of 1) in psychic damage on failed save, as they suffer a bout of moon madness from the exposure. If the attack was a critical hit, this damage is doubled. 

@@ -1,4 +1,4 @@
-# Paladin Sacred Oath: Oath of the Abyss
+# Sacred Oath: Oath of the Abyss
 The Oath of the Abyss is a curse, a journey that leads to one of two possible destinations -- salvation or perdition. Paladins who follow this oath walk the thin line that separates light from dark, hope from desperation, and sanity from madness. Unlike other paladins, they are tempted by evil against their will. This lure often stems from places of unspeakable horror, such as the corrupted layers of the Abyss or the distorted Shadowfell. Bearers of the curse are constantly at war with themselves, trying their utmost not to succumb to their inner demons which lurk in every thought, waiting to spring into existence and oppress their host. On their quest to eventual bliss, they ally with good-hearted souls in the hopes of finding strength through happiness and shared sorrow.
 
 ## Tenets of the Abyss
@@ -24,11 +24,11 @@ Paladin Level|Spells
 ## Channel Divinity
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-**Chant of the Deep.** As an action, you present your holy symbol and intone a mesmerizing chant for 1 minute, using your Channel Divinity. The effect ends early if you don't immediately use your action at the start of each of your subsequent turns to maintain it, if you can't speak, if you talk or cast a spell with verbal components, or if you lose concentration (as if concentrating on a spell).
+***Channel Divinity: Chant of the Deep.*** As an action, you present your holy symbol and intone a mesmerizing chant for 1 minute, using your Channel Divinity. The effect ends early if you don't immediately use your action at the start of each of your subsequent turns to maintain it, if you can't speak, if you talk or cast a spell with verbal components, or if you lose concentration (as if concentrating on a spell).
 
 Any creature that starts its turn within 60 feet of you and can hear you for the first time during the effect must make a Wisdom saving throw. When you use this feature, you can exclude any creatures you can see from the effect. On a failed save, a creature is frightened of you until the effect ends. While frightened in this way, its speed is halved, and it has disadvantage on attack rolls and ability checks if it can hear you. The creature can repeat the saving throw at the end of each of its turns if it is more than 60 feet away from you and can't hear you. On a successful save, the effect on the creature ends.
 
-**Eclipse.** Using your Channel Divinity as an action, you briefly succumb to your inner darkness and gain great power in return. For 1 minute, any radiant damage that you deal becomes necrotic damage instead and ignores resistance to necrotic damage. Additionally, when you hit a creature with a melee weapon attack, the target and each creature within 5 feet of it other than you take necrotic damage equal to your Charisma modifier (with a minimum bonus of +1). However, you have disadvantage on Wisdom saving throws against spells and other effects created by fiends or undead.
+***Channel Divinity: Eclipse.*** Using your Channel Divinity as an action, you briefly succumb to your inner darkness and gain great power in return. For 1 minute, any radiant damage that you deal becomes necrotic damage instead and ignores resistance to necrotic damage. Additionally, when you hit a creature with a melee weapon attack, the target and each creature within 5 feet of it other than you take necrotic damage equal to your Charisma modifier (with a minimum bonus of +1). However, you have disadvantage on Wisdom saving throws against spells and other effects created by fiends or undead.
 
 You can use your action to end this effect early if you aren't charmed by fiends or undead. The effect also ends if you are incapacitated.
 

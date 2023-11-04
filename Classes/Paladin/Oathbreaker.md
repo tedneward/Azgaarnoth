@@ -1,4 +1,4 @@
-# Paladin Sacred Oath: Oathbreakers
+# Sacred Oath: Oathbreakers
 An oathbreaker is a paladin who breaks their sacred oaths to pursue some dark ambition or serve an evil power. Whatever light burned in the paladin's heart been extinguished. Only darkness remains.
 
 ## Oath Spells

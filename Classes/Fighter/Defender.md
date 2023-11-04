@@ -1,4 +1,4 @@
-# Martial Archetype: Dwarven Defender
+# Martial Archetype: (Dwarven) Defender
 Dwarves are well-known for their stubborn, head-on approach on things. Give them a suit of armor, a shield, and centuries of war history, and you have a typical dwarven defender. Ironclad, both literally and metaphorically, these juggernauts embody a valuable lesson of why dwarves are not meant to be trifled with. Those who are foolish enough to taunt these guardians' physical appearance tend to regret what they just did, often while being stomped to death to the half-pints they've been wooing a minute before.
 
 Over the millennia, dwarves have learned to teach these martial skills to others (most notably humans). However, most defenders are dwarven still to this day, and any who take up this archetype likely have strong dwarven influence in their lives.

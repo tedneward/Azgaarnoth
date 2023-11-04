@@ -36,7 +36,7 @@ An air elemental can turn itself into a screaming cyclone, creating a whirlwind 
 >|14 (+2)|20 (+5)|14 (+2)|6 (-2)|10 (+0)|6 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** lightning,thunder; bludgeoning,piercing,and slashing from nonmagical attacks
@@ -80,7 +80,7 @@ Earth elementals glide through rock and earth as though they were liquid. Earthb
 >|20 (+5)|8 (-1)|20 (+5)|5 (-3)|10 (+0)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** thunder
 >- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks
@@ -120,7 +120,7 @@ A faint humanoid shape threads through the core of this wild, moving flame. A fi
 >|10 (+0)|17 (+3)|16 (+3)|6 (-2)|10 (+0)|7 (-2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks
@@ -159,18 +159,20 @@ Anything that touches an ice elemental is magically chilled by an icy cold that 
 >- **Hit Points** 127 (15d10 + 45)
 >- **Speed** 30 ft., swim 30 ft., burrow 15ft.
 >___
->|STR|DEX|CON|INT|WIS|CHA|
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|9 (-1)|17 (+3)|6 (-2)|10 (+0)|7 (-2)|
 >
 >___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** 
 >- **Damage Vulnerabilities** fire, thunder
 >- **Damage Immunities** cold, poison
 >- **Damage Resistances** acid; piercing, and slashing from nonmagical attacks
 >- **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Aquan, Auran
->- **Challenge** 6 (2,300 XP)
+>- **Challenge** 6
 >___
 >***Chilling.*** A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 3 (1 d6) cold damage, and if the creature doesn't have resistance or immunity to cold damage, it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
 >
@@ -197,11 +199,12 @@ Anything that touches an magma elemental is magically scalded by an intense burn
 >- **Hit Points** 228 (24d12 + 72)
 >- **Speed** 40ft, burrow 40 ft.
 >___
->|STR|DEX|CON|INT|WIS|CHA|
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23(+6)|11(+0)|17(+3)|4(-3)|10(+0)|9(-1)|
 >
 >___
+>- **Proficiency Bonus** +5
 >- **Saving Throws** Str + 11, Con +8
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical weapons
@@ -210,7 +213,7 @@ Anything that touches an magma elemental is magically scalded by an intense burn
 >- **Skills** 
 >- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
 >- **Languages** Ignan, Terran
->- **Challenge** 13 (10,000 XP)
+>- **Challenge** 13
 >___
 >***Lava Form.*** A creature or object that touches the elemental or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage. A creature that ends its turn within 5 feet of the elemental takes 5 (1d10) fire damage. At the end of the elemental's turn, it ignites any flammable objects within 5 feet of it that aren't being worn or carried.
 >
@@ -247,17 +250,20 @@ A water elemental is a cresting wave that rolls across the ground, becoming near
 >- **Hit Points** 114 (12d10 + 48)
 >- **Speed** 30 ft., swim 90 ft.
 >___
->|STR|DEX|CON|INT|WIS|CHA|
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|18 (+4)|5 (−3)|10 (+0)|8 (−1)|
 >
 >___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
 >- **Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
 >- **Damage Immunities** poison
 >- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Aquan
->- **Challenge** 5 (1,800 XP)
+>- **Challenge** 5
 >___
 >***Water Form.*** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 >

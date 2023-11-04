@@ -1,7 +1,7 @@
 # Yugoloths
 Yugoloths are fickle fiends that inhabit the planes of Acheron, Gehenna, Hades, and Carceri. They act as mercenaries and are notorious for their shifting loyalties. They are the embodiments of avarice. Before serving under anyone's banner, a yugoloth asks the only question on its mind: What's in it for me?
 
-> Jump to: [Arcanaloth](#arcanaloth) | [Canoloth](#canoloth) | [Dhergoloth](#dhergoloth) | [Hydroloth](#hydroloth) | [Merrenoloth]() | [Mezzoloth](#mezzoloth) | [Nycaloth](#nycaloth) | [Oinoloth](#oinoloth) | [Ultroloth](#ultroloth)
+> Jump to: [Arcanaloth](#arcanaloth) | [Canoloth](#canoloth) | [Dhergoloth](#dhergoloth) | [Hydroloth](#hydroloth) | [Merrenoloth]() | [Mezzoloth](#mezzoloth) | [Nycaloth](#nycaloth) | [Oinoloth](#oinoloth) | [Ultroloth](#ultroloth) | [Yagnoloth](#yagnoloth)
 
 ***Spawn of Gehenna.*** The first yugoloths were created by a sisterhood of night hags on Gehenna. It is widely believed that Asmodeus, Lord of the Nine Hells, commissioned the work, in the hope of creating an army of fiends that were not bound to the Nine Hells. In the course of making this new army, the hags crafted four magic tomes and recorded the true names of every yugoloth they created, save one, the General of Gehenna. These tomes were called the Books of Keeping. Since knowing a fiend's true name grants power over it, the hags used the books to ensure the yugoloths' loyalty. They also used the books to capture the true names of other fiends that crossed them. It is rumored that the Books of Keeping contain the true names of a few demon lords and archdevils as well.
 
@@ -44,7 +44,7 @@ Arcanaloths speak and write all languages, making them cunning diplomats and neg
 >|17 (+3)|12 (+1)|14 (+2)|20 (+5)|16 (+3)|17 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Dex +5,Int +9,Wis +7,Cha +7
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning; bludgeoning,piercing,and slashing from nonmagical attacks
@@ -71,7 +71,6 @@ Arcanaloths speak and write all languages, making them cunning diplomats and neg
 >***Teleport.*** The arcanaloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 >
 >***Spellcasting.*** The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The arcanaloth has the following wizard spells prepared:
->
 >* Cantrips (at will): fire bolt, mage hand, minor illusion, prestidigitation
 >* 1st level (4 slots): detect magic, identify, shield, Tenser's floating disk
 >* 2nd level (3 slots): detect thoughts, mirror image, phantasmal force, suggestion
@@ -221,10 +220,8 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
 >***Claw.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) force damage plus 9 (2d8) psychic damage.
 >
 >***Spellcasting.*** The hydroloth casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
->
->At will: darkness, detect magic, dispel magic, invisibility (self only)
->
->3/day each: control water, crown of madness, fear, suggestion
+>* At will: darkness, detect magic, dispel magic, invisibility (self only)
+>* 3/day each: control water, crown of madness, fear, suggestion
 >
 >***Steal Memory (1/Day).*** The hydroloth targets one creature it can see within 60 feet of it. The target takes 14 (4d6) psychic damage, and it must make a DC 16 Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth's Steal Memory for 24 hours. On a failed save, the target loses all proficiencies; it can't cast spells; it can't understand language; and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A greater restoration or remove curse spell cast on the target ends this effect early.
 >
@@ -269,10 +266,8 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
 >***Fear Gaze.*** The merrenoloth targets one creature it can see within 60 feet of it. The target must succeed on a DC 13 Wisdom saving throw or become frightened of the merrenoloth for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
 >***Spellcasting.*** The merrenoloth casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 13):
->
->At will: charm person, darkness, detect magic, dispel magic, gust of wind
->
->3/day: control water
+>* At will: charm person, darkness, detect magic, dispel magic, gust of wind
+>* 3/day: control water
 >
 >#### Bonus Actions
 >***Teleport.*** The merrenoloth teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
@@ -318,7 +313,7 @@ Violence and reward are the fundamental drives of a mezzoloth, and powerful bein
 >|18 (+4)|11 (+0)|16 (+3)|7 (-2)|10 (+0)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning; bludgeoning,piercing,and slashing from nonmagical attacks
@@ -329,12 +324,6 @@ Violence and reward are the fundamental drives of a mezzoloth, and powerful bein
 >- **Languages** Abyssal,Infernal,telepathy 60 ft.
 >- **Challenge** 5
 >___
->***Innate Spellcasting.*** The mezzoloth's innate spellcasting ability is Charisma (spell save DC 11). The mezzoloth can innately cast the following spells, requiring no material components:
->
->* 2/day each: darkness, dispel magic
->
->* 1/day: cloudkill
->
 >***Magic Resistance.*** The mezzoloth has advantage on saving throws against spells and other magical effects.
 >
 >***Magic Weapons.*** The mezzoloth's weapon attacks are magical.
@@ -349,6 +338,10 @@ Violence and reward are the fundamental drives of a mezzoloth, and powerful bein
 >***Trident.*** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage when held with two claws and used to make a melee attack.
 >
 >***Teleport.*** The mezzoloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+>
+>***Innate Spellcasting.*** The mezzoloth's innate spellcasting ability is Charisma (spell save DC 11). The mezzoloth can innately cast the following spells, requiring no material components:
+>* 2/day each: darkness, dispel magic
+>* 1/day: cloudkill
 >
 
 ---
@@ -370,7 +363,7 @@ Nycaloths are the most loyal of the yugoloths. When they find an evil master tha
 >|20 (+5)|11 (+0)|19 (+4)|12 (+1)|10 (+0)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning; bludgeoning,piercing,and slashing from nonmagical attacks
@@ -381,15 +374,9 @@ Nycaloths are the most loyal of the yugoloths. When they find an evil master tha
 >- **Languages** Abyssal,Infernal,telepathy 60 ft.
 >- **Challenge** 9
 >___
->***Innate Spellcasting.*** The nycaloth's innate spellcasting ability is Charisma. The nycaloth can innately cast the following spells, requiring no material components:
->
->* At will: darkness, detect magic, dispel magic, invisibility (self only), mirror image
->
 >***Magic Resistance.*** The nycaloth has advantage on saving throws against spells and other magical effects.
 >
 >***Magic Weapons.*** The nycaloth's weapon attacks are magical.
->
->***Summon Yugoloth (1/Day).*** The yugoloth chooses what to summon and attempts a magical summoning. A nycaloth has a 50 percent chance of summoning 1d4 mezzoloths or one nycaloth. A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for 1 minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it.
 >
 >#### Actions
 >***Multiattack.*** The nycaloth makes two melee attacks, or it makes one melee attack and teleports before or after the attack.
@@ -399,6 +386,11 @@ Nycaloths are the most loyal of the yugoloths. When they find an evil master tha
 >***Greataxe.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 18 (2d12 + 5) slashing damage.
 >
 >***Teleport.*** The nycaloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+>
+>***Innate Spellcasting.*** The nycaloth's innate spellcasting ability is Charisma. The nycaloth can innately cast the following spells, requiring no material components:
+>* At will: darkness, detect magic, dispel magic, invisibility (self only), mirror image
+>
+>***Summon Yugoloth (1/Day).*** The yugoloth chooses what to summon and attempts a magical summoning. A nycaloth has a 50 percent chance of summoning 1d4 mezzoloths or one nycaloth. A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for 1 minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it.
 >
 
 ---
@@ -478,7 +470,7 @@ With a reputation for cruelty, ultroloths command their minions to fight while t
 >|16 (+3)|16 (+3)|18 (+4)|18 (+4)|15 (+2)|19 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** cold,fire,lightning; bludgeoning,piercing,and slashing from nonmagical attacks
@@ -489,19 +481,9 @@ With a reputation for cruelty, ultroloths command their minions to fight while t
 >- **Languages** Abyssal,Infernal,telepathy 120 ft.
 >- **Challenge** 13
 >___
->***Innate Spellcasting.*** The ultroloth's innate spellcasting ability is Charisma (spell save DC 17). The ultroloth can innately cast the following spells, requiring no material components:
->
->* At will: alter self, clairvoyance, darkness, detect magic, detect thoughts, dispel magic, invisibility (self only), suggestion
->
->* 3/day each: dimension door, fear, wall of fire
->
->* 1/day each: fire storm, mass suggestion
->
 >***Magic Resistance.*** The ultroloth has advantage on saving throws against spells and other magical effects.
 >
 >***Magic Weapons.*** The ultroloth's weapon attacks are magical.
->
->***Summon Yugoloth (1/Day).*** The yugoloth chooses what to summon and attempts a magical summoning. An ultroloth has a 50 percent chance of summoning 1d6 mezzoloths, 1d4 nycaloths, or one ultroloth. A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for 1 minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it.
 >
 >#### Actions
 >***Multiattack.*** The ultroloth can use its Hypnotic Gaze and makes three melee attacks.
@@ -512,4 +494,62 @@ With a reputation for cruelty, ultroloths command their minions to fight while t
 >
 >***Teleport.*** The ultroloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 >
+>***Innate Spellcasting.*** The ultroloth's innate spellcasting ability is Charisma (spell save DC 17). The ultroloth can innately cast the following spells, requiring no material components:
+>* At will: alter self, clairvoyance, darkness, detect magic, detect thoughts, dispel magic, invisibility (self only), suggestion
+>* 3/day each: dimension door, fear, wall of fire
+>* 1/day each: fire storm, mass suggestion
+>
+>***Summon Yugoloth (1/Day).*** The yugoloth chooses what to summon and attempts a magical summoning. An ultroloth has a 50 percent chance of summoning 1d6 mezzoloths, 1d4 nycaloths, or one ultroloth. A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for 1 minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it.
+>
 
+---
+
+## Yagnoloth
+Anyone who would contract yugoloths for a task usually ends up dealing with a yagnoloth. Cunning negotiators, these strange Fiends handle the writing of contracts for their fellow yugoloths. Once a yagnoloth is hired, it communicates its employer's desires to the yugoloths it commands.
+
+Although they are entrusted with leading lesser yugoloths, yagnoloths ultimately take their orders from arcanaloths and ultroloths. Aside from their superiors, yagnoloths have full authority over and expect obedience from the yugoloths under their command. Yagnoloths follow the dictates of the contracts they negotiate but always include a loophole to escape their obligations if the situation warrants.
+
+A yagnoloth has one arm of human size and one giant-sized arm. During negotiations, the yagnoloth uses its human-sized arm to draft and sign contracts. When a show of force is necessary or when combat is joined, it attacks with its brutally powerful giant arm.
+
+>### Yagnoloth
+>*Large Fiend (Yugoloth), Typically Neutral Evil*
+>___
+>- **Armor Class** 17 (natural armor)
+>- **Hit Points** 147 (14d10 + 70)
+>- **Speed** 40 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|19 (+4)|14 (+2)|21 (+5)|16 (+3)|15 (+2)|18 (+4)|
+>
+>___
+>- **Proficiency Bonus** +4
+>- **Saving Throws** Dex +6,Int +7,Wis +6,Cha +8
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold,fire,lightning; bludgeoning,piercing,and slashing from nonmagical attacks
+>- **Damage Immunities** acid,poison
+>- **Condition Immunities** poisoned
+>- **Skills** Deception +8,Insight +6,Perception +6,Persuasion +8
+>- **Senses** blindsight 60 ft.,darkvision 60 ft.,passive Perception 16
+>- **Languages** Abyssal,Infernal,telepathy 60 ft.
+>- **Challenge** 11
+>___
+>***Magic Resistance.*** The yagnoloth has advantage on saving throws against spells and other magical effects.
+>
+>#### Actions
+>***Multiattack.*** The yagnoloth makes one Electrified Touch attack and one Massive Arm attack, or it makes one Massive Arm attack and uses Battlefield Cunning, if available, or Teleport.
+>
+>***Electrified Touch.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 27 (6d8) lightning damage.
+>
+>***Massive Arm.*** Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 23 (3d12 + 4) force damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or become stunned until the end of the yagnoloth's next turn.
+>
+>***Battlefield Cunning (Recharge 4-6).*** Up to two allied yugoloths within 60 feet of the yagnoloth that can hear it can use their reactions to make one melee attack each.
+>
+>***Life Leech.*** The yagnoloth touches one incapacitated creature within 15 feet of it. The target takes 36 (7d8 + 4) necrotic damage, and the yagnoloth gains temporary hit points equal to half the damage dealt. The target must succeed on a DC 16 Constitution saving throw, or its hit point maximum is reduced by an amount equal to half the necrotic damage taken. This reduction lasts until the target finishes a long rest, and the target dies if its hit point maximum is reduced to 0.
+>
+>***Spellcasting.*** The yagnoloth casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
+>* At will: darkness, detect magic, dispel magic, invisibility (self only), suggestion
+>* 3/day: lightning bolt
+>
+>***Teleport.*** The yagnoloth teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+>

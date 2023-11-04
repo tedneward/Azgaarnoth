@@ -1,7 +1,7 @@
 # Opal of the *ild* Rune
-*[master rune](/Magic/Runes.md), rare (requires attunement)*
+*wondrous item, rare (requires attunement)*
 
-This triangular fire opal measures about three inches on each side and is half an inch thick. The *ild* rune—the rune of fire—shimmers within its core. Grasping this object causes a split second of searing, fiery pain to pass through you. That pain quickly fades, giving way to a warming glow.
+This triangular fire opal measures about three inches on each side and is half an inch thick. The [*ild*](../Runes/ild.md) rune--the rune of fire--shimmers within its core. Grasping this object causes a split second of searing, fiery pain to pass through you. That pain quickly fades, giving way to a warming glow.
 
 This rune has both simple and complex properties; simple properties are available to anyone who attunes the master rune, while complex properties require you to have the Rune Lore feature to unlock and use.
 

@@ -1,5 +1,4 @@
-# Tritons
-Tritons guard the ocean depths, building small settlements beside deep trenches, portals to the elemental planes, and other dangerous spots far from the eyes of land-bound folk. Long-established guardians of the deep ocean floor, the noble tritons have gradually become increasingly active in the world above.
+# [Tritons](../Creatures/Tritons.md)
 
 * **Ability Score Increase**. Your Strength, Constitution, and Charisma scores each increase by 1.
 
@@ -20,3 +19,37 @@ Tritons guard the ocean depths, building small settlements beside deep trenches,
 * **Guardians of the Depths**. Adapted to even the most extreme ocean depths, you have resistance to cold damage, and you ignore any of the drawbacks caused by a deep, underwater environment.
 
 * **Languages**. You can speak, read, and write Common and Aquan.
+
+```
+name = "Triton"
+description = "***Race: Triton.*** Tritons guard the ocean depths, building small settlements beside deep trenches, portals to the elemental planes, and other dangerous spots far from the eyes of land-bound folk. Long-established guardians of the deep ocean floor, the noble tritons have gradually become increasingly active in the world above."
+type = 'humanoid'
+def level0(npc):
+    npc.STR += 1
+    npc.CON += 1
+    npc.CHA += 1
+
+    npc.size = 'Medium'
+
+    npc.speed['walking'] = 30
+    npc.speed['swimming'] = 30
+
+    npc.traits.append(traits['amphibious'])
+
+    spellcasting = innatecaster(npc, 'CHA', name)
+    spellcasting.perday[1] = ['fog cloud']
+
+    npc.traits.append(traits['sea-emissary'])
+
+    npc.damageresistances.append("cold")
+    npc.traits.append("***Guardians of the Depths.*** Adapted to even the most extreme ocean depths, you ignore any of the drawbacks caused by a deep, underwater environment.")
+    
+    npc.languages.append("Common")
+    npc.languages.append("Aquan")
+
+def level3(npc):
+    npc.spellcasting[name].perday[1].append('gust of wind')
+
+def level5(npc):
+    npc.spellcasting[name].perday[1].append('wall of water')
+```

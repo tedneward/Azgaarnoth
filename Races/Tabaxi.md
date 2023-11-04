@@ -1,48 +1,50 @@
-# Tabaxi
+# [Tabaxi](../Creatures/Tabaxi.md)
+Tabaxi are catlike humanoids driven by curiosity to wander, often to collect interesting artifacts, gather tales and stories, and lay eyes on all the world's wonders. Ultimate travelers, the inquisitive tabaxi rarely stay in one place for long. Their innate nature pushes them to leave no secrets uncovered, no treasures or legends lost.
 
-Wandering tabaxi are catlike humanoids driven by curiosity to collect interesting artifacts, gather tales and stories, and lay eyes on all the world’s wonders. Ultimate travelers, the inquisitive tabaxi rarely stay in one place for long. Their innate nature pushes them to leave no secrets uncovered, no treasures or legends lost.
+***Tabaxi Traits.*** Your tabaxi character has the following racial traits.
 
-Strangely, the lore surrounding the Eldars' creation of the Firstborn and humans leave the tabaxi out of the story entirely; it's as if the tabaxi simply appeared, and settled in without anyone noticing. One current theory holds that the tabaxi have aggressively sought to "prune" their history from the records, possibly to obscure a great weakness or a great shame. Another theory is that the Cat Lord was an Eldar who took upon themself the creation of the tabaxi using humans as a model, perhaps as part of or just before or after the rest of the Created came to be. Yet a third theory has them as migrants from somewhere else on the planet, marooned (or exiled, or refugees) on Azgaarnoth for millennia. However farcical it may seem, any ancient racial history of the tabaxi's origins has long been lost, and if any tabaxi elders know legends of their origins, they speak of it to no one.
+* **Ability Score Increase.** Your Dexterity score increases by 2, and your Charisma score increases by 1.
 
-Regardless, the tabaxi can be found anywhere in Azgaarnoth, wandering, exploring, investigating anything and everything that piques their curiosity.
+* **Age.** Tabaxi have lifespans equivalent to humans.
 
-## Wandering Outcasts
-The largest concentrations of tabaxi are found in the [Ravenlands](../Geography/Ravenlands.md), [Yithi](../Nations/Yithi.md) and [Zhi](../Nations/Zhi.md), although many also wander with the Caliphates across the endless grasslands. Most tabaxi remain content to dwell in small, tight clans, hunting for food, crafting goods, and largely keeping to themselves.
+* **Size.** Tabaxi are taller on average than humans and relatively slender. Your size is Medium.
 
-However, not all tabaxi are satisfied with such a life. The Cat Lord, the divine figure responsible for the creation of the tabaxi, gifts each of his children with one specific feline trait. Those tabaxi gifted with curiosity are compelled to wander far and wide. They seek out stories, artifacts, and lore. Those who survive this period of wanderlust return home in their elder years to share news of the outside world. In this manner, the tabaxi remain isolated but never ignorant of the world beyond their home.
+* **Speed.** Your base walking speed is 30 feet.
 
-## Barterers of Lore
-Tabaxi treasure knowledge rather than material things. A chest filled with gold coins might be useful to buy food or a coil of rope, but it’s not intrinsically interesting. In the tabaxi’s eyes, gathering wealth is like packing rations for a long trip. It’s important to survive in the world, but not worth fussing over.
+* **Darkvision.** You have a cat’s keen senses, especially in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
-Instead, tabaxi value knowledge and new experiences. Their ears perk up in a busy tavern, and they tease out stories with offers of food, drink, and coin. Tabaxi might walk away with empty purses, but they mull over the stories and rumors they collected like a miser counting coins.
+* **Feline Agility.** Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can’t use it again until you move 0 feet on one of your turns.
 
-Although material wealth holds little attraction for the tabaxi, they have an insatiable desire to find and inspect ancient relics, magical items, and other rare objects. Aside from the power such items might confer, a tabaxi takes great joy in unraveling the stories behind their creation and the history of their use. Some of Zhi's greatest scholars are tabaxi, and Zhi goes to great lengths to tempt tabaxi further into scholarly pursuits.
+* **Cat’s Claws.** Because of your claws, you have a climbing speed of 20 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
 
-## Fleeting Fancies
-Wandering tabaxi are mercurial creatures, trading one obsession or passion for the next as the whim strikes. A tabaxi’s desire burns bright, but once met it disappears to be replaced with a new obsession. Objects remain intriguing only as long as they still hold secrets.
+* **Cat’s Talent.** You have proficiency in the Perception and Stealth skills.
 
-A tabaxi rogue could happily spend months plotting to steal a strange gem from a noble, only to trade it for passage on a ship or a week’s lodging after stealing it. The tabaxi might take extensive notes or memorize every facet of the gem before passing it on, but the gem holds no more allure once its secrets and nature have been laid bare.
+* **Languages.** You can speak, read, and write Common and one other language of your choice.
 
-## Tinkers and Minstrels
-Curiosity drives most of the tabaxi found outside their homeland, but not all of them become adventurers. Tabaxi who seek a safer path to satisfy their obsessions become wandering tinkers and minstrels.
+```
+name = 'Tabaxi'
+description = "***Race: Tabaxi.*** Tabaxi are catlike humanoids driven by curiosity to wander, often to collect interesting artifacts, gather tales and stories, and lay eyes on all the world's wonders. Ultimate travelers, the inquisitive tabaxi rarely stay in one place for long. Their innate nature pushes them to leave no secrets uncovered, no treasures or legends lost."
+type = 'humanoid'
+def level0(npc):
+    npc.DEX += 2
+    npc.CHA += 1
 
-These tabaxi work in small troupes, usually consisting of an elder, more experienced tabaxi who guides up to four young ones learning their way in the world. They travel in small, colorful wagons, moving from settlement to settlement. When they arrive, they set up a small stage in a public square where they sing, play instruments, tell stories, and offer exotic goods in trade for items that spark their interest. Tabaxi reluctantly accept gold, but they much prefer interesting objects or pieces of lore as payment.
+    npc.size = 'Medium'
+    npc.speed['walking'] = 30
+    npc.speed['climbing'] = 20
 
-These wanderers keep to civilized realms, preferring to bargain instead of pursuing more dangerous methods of sating their curiosity. However, they aren’t above a little discreet theft to get their claws on a particularly interesting item when an owner refuses to sell or trade it.
+    npc.senses['darkvision'] = 60
 
-> **[THE CAT LORD](../Religions/Pantheon/CatLord.md)**
-> The deity of the tabaxi is a fickle entity, as befits the patron of cats. The tabaxi believe that the Cat Lord wanders the world, watching over them and intervening in their affairs as needed. He has also been known to ignore those who beseech him, even in the most dire situations, as befits the nature of cats. Clerics of the Cat Lord are rare, and are almost exclusively of the tabaxi. Few non-tabaxi worship the Cat Lord, and even fewer trust him.
+    npc.actions.append("***Feline Agility.*** When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can’t use it again until you move 0 feet on one of your turns.")
 
-## Tabaxi Names
-Each tabaxi has a single name, determined by clan and based on a complex formula that involves astrology, prophecy, clan history, and other esoteric factors. Tabaxi names can apply to both males and females, and most use nicknames derived from or inspired by their full names.
+    npc.defer(lambda npc: npc.actions.append(f"***Claws.*** *Melee Weapon Attack:* +{npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5ft., one target. Hit: 1d4 + {npc.STRbonus()} slashing damage"))
 
-Clan names are usually based on a geographical feature located in or near the clan’s territory.
+    npc.skills.append('Perception')
+    npc.skills.append('Stealth')
 
-The following list of sample tabaxi names includes nicknames in parenthesis.
-
-Tabaxi Names: Cloud on the Mountaintop (Cloud), Five Timber (Timber), Jade Shoe (Jade), Left-Handed Hummingbird (Bird), Seven Thundercloud (Thunder), Skirt of Snakes (Snake), Smoking Mirror (Smoke)
-
-Tabaxi Clans: Bright Cliffs, Distant Rain, Mountain Tree, Rumbling River, Snoring Mountain
+    npc.languages.append('Common')
+    npc.languages.append('CHOOSE')
+```
 
 ## Tabaxi Personality
 A tabaxi might have motivations and quirks much different from a dwarf or an elf with a similar background. You can use the following tables to customize your character in addition to the trait, ideal, bond, and flaw from your background.
@@ -77,23 +79,92 @@ d10	| Quirk
 9 | You are a font of random trivia from the lore and stories you have discovered.
 10 | You can’t help but pocket interesting objects you come across.
 
-**Tabaxi Traits**
-Your tabaxi character has the following racial traits.
+```
+    obsessions = [
+        "A god or planar entity",
+        "A monster",
+        "A lost civilization",
+        "A wizard’s secrets",
+        "A mundane item",
+        "A magic item",
+        "A location",
+        "A legend or tale"
+    ]
+    npc.description.append(f"***Tabaxi Personality: Obsession.*** {obsessions[dieroll('d8') - 1]}")
+    quirks = [
+        "You miss your tropical home and complain endlessly about the freezing weather, even in summer.",
+        "You never wear the same outfit twice, unless you absolutely must.",
+        "You have a minor phobia of water and hate getting wet.",
+        "Your tail always betrays your inner thoughts.",
+        "You purr loudly when you are happy.",
+        "You keep a small ball of yarn in your hand, which you constantly fidget with.",
+        "You are always in debt, since you spend your gold on lavish parties and gifts for friends.",
+        "When talking about something you’re obsessed with, you speak quickly and never pause and others can’t understand you.",
+        "You are a font of random trivia from the lore and stories you have discovered.",
+        "You can’t help but pocket interesting objects you come across."
+    ]
+    npc.description.append(f"***Tabaxi Personality: Quirk.*** {quirks[dieroll('d10') - 1]}")
+```
 
-* **Ability Score Increase.** Your Dexterity score increases by 2, and your Charisma score increases by 1.
 
-* **Age.** Tabaxi have lifespans equivalent to humans.
-
-* **Size.** Tabaxi are taller on average than humans and relatively slender. Your size is Medium.
-
-* **Speed.** Your base walking speed is 30 feet.
-
-* **Darkvision.** You have a cat’s keen senses, especially in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
-
-* **Feline Agility.** Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can’t use it again until you move 0 feet on one of your turns.
-
-* **Cat’s Claws.** Because of your claws, you have a climbing speed of 20 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
-
-* **Cat’s Talent.** You have proficiency in the Perception and Stealth skills.
-
-* **Languages.** You can speak, read, and write Common and one other language of your choice.
+## Sample Tabaxi names (from https://www.roll4.net/generators/dd-name-generators/dd-tabaxi-name-generator)
+Rune of the Leeches of the Defeated Cave Clan
+Shy Hare of The Washing Islet Clan
+Amethyst Logic of The Encroaching Inlet Clan
+Diamond Face of the Gilded Jungle Clan
+Talented Sulfer of the Inquisitive Hill Clan
+Mindrot of Night of The Flaying River Clan
+Submission of the Manatee of The Engaging Lagoon Clan
+Cold of Bubble of the Grumpy Coast Clan
+Sound of the of The Inspiring Swamp Clan
+Jealousy of the Swarms of The Diminishing River Clan
+Selfish Darts of the Vast Summit Clan
+Courage of Thunder of The Blood-Drinking Mesa Clan
+Doubtful Lightning of the Radiant Inlet Clan
+Sleep of the Blades of the Thankful Gully Clan
+Cobalt Manticore of The Rummaging Jungle Clan
+Engulfment of the Goose of the Muddy Swamp Clan
+Powerful Fall of The Clutching River Clan
+Ability of Thunder of The Mismanaging Plain Clan
+Goblin Hamster of the Repulsive Oasis Clan
+Creation of Cone of the Evil Marsh Clan
+Silliness of Morning of the Forward Lagoon Clan
+Hooked Trout of the Grieving Hill Clan
+Brilliance of the Metals of the Elegant Valley Clan
+Famous Smelt of The Scouring Ocean Clan
+Diamond Robin of The Ribbing Forest Clan
+Creepy Joy of The Approaching Cave Clan
+Cobalt Luxury of The Rewarding Channel Clan
+Dictatorship of the Pixie of The Sagging Valley Clan
+Divine Hooves of The Tittering Glacier Clan
+Hearsay of Water of the Discordant Jungle Clan
+Filaments Geyser of The Breathtaking Channel Clan
+Sound of the of the Cautious Canyon Clan
+Lovely Pegasus of The Accomplishing Glacier Clan
+Fate of Rake of the Forceful Peninsula Clan
+Beautiful Maturity of the Troubled Lagoon Clan
+Need of the Hooves of the Bone-Chilling Plain Clan
+Sound of the of The Pronouncing Hill Clan
+Shivers of Water of the Hilarious Coast Clan
+Justice of Summer of The Shaking Peninsula Clan
+Pronged Anteater of The Unlocking Oasis Clan
+Freedom of the Elk of The Unleashing Marsh Clan
+Innocent Deathcap of The Slashing Bay Clan
+Unusual Winter of The Brainwashing Jungle Clan
+Stupid Fire of the Sparkling Dune Clan
+Ferocity of Lotus of The Flashing Hollows Clan
+Dull Egg of The Scathing Hill Clan
+Sound of the of the Fearful Wasteland Clan
+Emerald Dreadblade of the Etheric Desert Clan
+Graceful Coils of the Unusual Glacier Clan
+Peridot Nightmares of the Grieving Ocean Clan
+Aquamarine Gorgon of the Zany Plateau Clan
+Absorbtion of Calvary of the Zealous Tundra Clan
+Sound of the of the Muddy Jungle Clan
+Glance of Beard of The Thrashing Tundra Clan
+Ravenous Trees of The Assimilating Inlet Clan
+Sound of the of The Cascading Hollows Clan
+Distortion of Shade of The Tripping Bay Clan
+Necro of Hand of the Fey Tundra Clan
+Calm Spirits of The Climbing Jungle Clan
+Fiery Loss of The Crashing Gully Clan

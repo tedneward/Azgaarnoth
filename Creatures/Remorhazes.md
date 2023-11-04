@@ -12,7 +12,7 @@ From beneath the snow and ice bursts a remorhaz in a cloud of steam, its body pu
 (FIXME)
 
 ### Token
-![](Remorhaz-Token.png)
+![](Remorhazes-Token.png)
 
 >### Remorhaz
 >*Huge monstrosity, unaligned*
@@ -56,7 +56,7 @@ From beneath the snow and ice bursts a remorhaz in a cloud of steam, its body pu
 (FIXME)
 
 ### Token
-![](YoungRemorhaz-Token.png)
+![](Remorhazes-Young-Token.png)
 
 >### Young Remorhaz
 >*Large monstrosity, unaligned*

@@ -284,6 +284,48 @@ Conjured/Summoned
 
 ---
 
+## Ice Spirit
+When this spirit is summoned, it takes the form of an elemental of Ice. The creature's statistics vary based on that choice, the spell's level when cast, and the caster's own statistics.
+
+### Environment
+Conjured/Summoned
+
+### Token
+![](Spirits-Ice-Token.png)
+
+>### Ice Spirit
+>*Medium elemental, unaligned*
+>___
+>- **Armor Class** 13 (natural armor)
+>- **Hit Points** 5 + (5 times the druid's level)
+>- **Speed** 40 ft., fly 40ft., swim 40 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|15 (+2)|17 (+3)|4 (-3)|10 (+0)|16 (+3)|
+>
+>___
+>- **Proficiency Bonus** +2 + druid's proficiency bonus
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** acid, cold (Water only)
+>- **Damage Immunities** poison
+>- **Condition Immunities** exhaustion,frightened,paralyzed,petrified,poisoned,unconscious
+>- **Skills** 
+>- **Senses** darkvision 60 ft.,passive Perception 10
+>- **Languages** Primordial,understands the languages caster speaks
+>- **Challenge** —
+>___
+>***Amorphous Form.*** The spirit can move through a space as narrow as 1 inch wide without squeezing.
+>
+>#### Actions
+>***Multiattack.*** The spirit makes a number of attacks equal to half the druid's proficiency bonus (rounded down).
+>
+>***Slam.*** Melee Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., one target. Hit: (1d10 + 4 + the druid's proficiency bonus) bludgeoning damage plus (4 + druid's proficiency bonus) cold damage.
+>
+
+---
+
 ## Reaper Spirit
 (No description given)
 

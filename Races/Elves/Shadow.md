@@ -8,3 +8,18 @@ These elves remain a mystery even to their kin--their origins are lost, their ho
 * **Necrotic Resistance**. You have resistance to necrotic damage.
 
 * **Blessing of the Raven Queen**. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a long rest. Starting at 3rd level, you also gain resistance to all damage when you teleport using this trait. The resistance lasts until the start of your next turn. During that time, you appear ghostly and translucent.
+
+```
+name = 'Shadow'
+description = "***Subrace: Shadow Elf.*** These elves, the *shadar-kai*, remain a mystery even to their kin--their origins are lost, their homes are undiscovered, and their motives and allegiances are absolutely indiscernible. Individual *shadar-kai* have been seen wandering the world, identifiable more by their piercings and tatoos than anything else, leaving many to wonder if other *shadar-kai*, unpierced and untattooed, also wander the world--and why. *Eladrin* and *shadar-kai* are like reflections of each other: one bursting with emotion, the other nearly devoid of it."
+def level0(npc):
+  npc.CON += 1
+
+  npc.damageresistances.append('necrotic')
+
+  npc.bonusactions.append("***Blessing of the Raven Queen (Recharges on long rest).*** You can magically teleport up to 30 feet to an unoccupied space you can see.")
+
+def level3(npc):
+    replace("***Blessing of the Raven Queen", npc.bonusactions, "You can magically teleport up to 30 feet to an unoccupied space you can see. When you do, you also gain resistance to all damage when you teleport using this trait. The resistance lasts until the start of your next turn. During that time, you appear ghostly and translucent.")
+```
+

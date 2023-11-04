@@ -1,8 +1,30 @@
 # Roguish Archetype: Divine Agent
 In secrecy and shadows, divine agents work to further the agendas of the gods. Although divine agents dedicate their service to a deity in a similar way to clerics, they are generally above many of the normal rules and conventions of the church. Usually, they answer only to their deity and use divine magic and blessings to augment their roguish skills.
 
+```
+name = 'Divine Agent'
+description = "***Roguish Archetype: Divine Agent.*** In secrecy and shadows, divine agents work to further the agendas of the gods. Although divine agents dedicate their service to a deity in a similar way to clerics, they are generally above many of the normal rules and conventions of the church. Usually, they answer only to their deity and use divine magic and blessings to augment their roguish skills."
+```
+
+## Agent of the Divines
+*3rd-level Divine Agent feature*
+
+Choose a domain from your chosen deity's list of eligible domains, you gain the 1st-level benefits of that domain as if you were a 1st-level cleric. However, you do not gain any armor proficiencies from this domain.
+
+```
+def level3(npc):
+    spellcasting = halfcaster(npc, 'WIS', name)
+    spellcasting.casterclass = allclasses['Rogue']
+    (domainname, domain) = choose("Choose a domain: ", allclasses['Cleric'].subclasses)
+    domain.baseclass = allclasses['Rogue']
+    domain.spellcasting = spellcasting
+    domain.level1(npc)
+```
+
 ## Spellcasting
-When you reach 3rd level, you gain the ability to cast spells from the cleric spell list.
+*3rd-level Divine Agent feature*
+
+You gain the ability to cast spells from the cleric spell list.
 
 **Cantrips.** You learn three cantrips: guidance and two other cantrips of your choice from the cleric spell list. At 10th level you learn another cantrip from the cleric spell list.
 
@@ -25,35 +47,92 @@ Whenever you gain a level in this class, you can replace one of the cleric spell
 **Divine Agent Spellcasting**
 Rogue Level | Cantrips Known | Spells Known | 1st|2nd|3rd|4th
 ------------|----------------|--------------|----|---|---|---
-3rd|3|3|2|—|—|—
-4th|3|4|3|—|—|—
-5th|3|4|3|—|—|—
-6th|3|4|3|—|—|—
-7th|3|5|4|2|—|—
-8th|3|6|4|2|—|—
-9th|3|6|4|2|—|—
-10th|4|7|4|3|—|—
-11th|4|8|4|3|—|—
-12th|4|8|4|3|—|—
-13th|4|9|4|3|2|—
-14th|4|10|4|3|2|—
-15th|4|10|4|3|2|—
-16th|4|11|4|3|3|—
-17th|4|11|4|3|3|—
-18th|4|11|4|3|3|—
+3rd|3|3|2|--|--|--
+4th|3|4|3|--|--|--
+5th|3|4|3|--|--|--
+6th|3|4|3|--|--|--
+7th|3|5|4|2|--|--
+8th|3|6|4|2|--|--
+9th|3|6|4|2|--|--
+10th|4|7|4|3|--|--
+11th|4|8|4|3|--|--
+12th|4|8|4|3|--|--
+13th|4|9|4|3|2|--
+14th|4|10|4|3|2|--
+15th|4|10|4|3|2|--
+16th|4|11|4|3|3|--
+17th|4|11|4|3|3|--
+18th|4|11|4|3|3|--
 19th|4|12|4|3|3|1
 20th|4|13|4|3|3|1
 
-## Agent of the Divines
-Starting at 3rd level, choose a domain from your chosen deity’s list of eligible domains, you gain the 1st-level benefits of that domain as if you were a 1st-level cleric. However, you do not gain any armor proficiencies from this domain.
+```
+    npc.spellcasting[name].cantripsknown.append("guidance")
+    npc.spellcasting[name].maxcantripsknown = 3
+    npc.spellcasting[name].maxspellsknown = 3
+
+def level4(npc):
+    npc.spellcasting[name].maxspellsknown = 4
+
+def level7(npc):
+    npc.spellcasting[name].maxspellsknown = 5
+
+def level8(npc):
+    npc.spellcasting[name].maxspellsknown = 6
+
+def level10(npc):
+    npc.spellcasting[name].maxcantripsknown = 4
+    npc.spellcasting[name].maxspellsknown = 7
+
+def level11(npc):
+    npc.spellcasting[name].maxspellsknown = 8
+
+def level13(npc):
+    npc.spellcasting[name].maxspellsknown = 9
+
+def level14(npc):
+    npc.spellcasting[name].maxspellsknown = 10
+
+def level16(npc):
+    npc.spellcasting[name].maxspellsknown = 11
+
+def level19(npc):
+    npc.spellcasting[name].maxspellsknown = 12
+
+def level20(npc):
+    npc.spellcasting[name].maxspellsknown = 13
+```
 
 ## Favor of the Gods
-At 9th level, you gain the Lucky feat. If you already have the Lucky feat, you instead gain an additional two luck points.
+*9th-leve Divine Agent feature*
+
+You gain the Lucky feat. If you already have the Lucky feat, you instead gain an additional two luck points.
+
+```
+def level9(npc):
+    print("Applying Lucky feat")
+    feats['Lucky'].apply(npc)
+    npc.feats.append(feats['Lucky'].name)
+    npc.description.append(feats['Lucky'].description)
+    print("Applying Lucky feat--Done")
+```
 
 ## Divine Strike
-Starting at 13th level, once on each of your turns when you hit a creature with a weapon attack you can cause the attack to deal an extra 2d6 radiant damage to the target.
+*13th-level Divine Agent feature*
+
+Once on each of your turns when you hit a creature with a weapon attack you can cause the attack to deal an extra 2d6 radiant damage to the target.
+
+```
+def level13(npc):
+    npc.traits.append("***Divine Strike.*** Once on each of your turns when you hit a creature with a weapon attack you can cause the attack to deal an extra 2d6 radiant damage to the target.")
+```
 
 ## Vessel of the Many Forms
-At 17th level, your deity has bestowed the power upon you to take many different faces and forms to assist you in doing their bidding. You can cast [alter self](../../Magic/Spells/alter-self.md) at will, without expending a spell slot.
+*17th-level Divine Agent feature*
 
-For you, this spell does not require concentration and lasts until it is dispelled.
+Your deity has bestowed the power upon you to take many different faces and forms to assist you in doing their bidding. You can cast [alter self](../../Magic/Spells/alter-self.md) at will, without expending a spell slot. For you, this spell does not require concentration and lasts until it is dispelled.
+
+```
+def level17(npc):
+    npc.traits.append(f"***Vessel of the Many Forms.*** You can cast {spelllinkify('alter self')} at will, without expending a spell slot. For you, this spell does not require concentration and lasts until it is dispelled.")
+```

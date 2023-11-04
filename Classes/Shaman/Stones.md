@@ -27,16 +27,16 @@ When you choose this calling at 1st level, you gain the magic stoneEE, mold eart
 ## Stonespeaker
 Also at 1st level, you gain the ability to speak with stones. As an action, you can call to the spirit of a stone or stone object that you touch, allowing it to communicate with you in Terran and answer the questions that you pose. You can ask the stone up to three questions before the effect ends. Stones cannot see, but can describe nearby events and creatures and objects that have passed through as though they had tremorsense out to 100 feet. However, a stone can provide complete descriptions of any creature or object that has come into contact with it, as well as anything that is covered or concealed behind or beneath it. A stone can also sense the presence of precious metals and gems within 100 feet, but not their exact locations. Answers are often cryptic or lyrical, but the stone always answers honestly.
 
-You can use this feature to speak with natural or worked stone. Stones have long memories, but often answer questions about the distant past with even more cryptic answers than usual. Moreover, the stone’s perspective and perception may prevent it from knowing details relevant to your question.
+You can use this feature to speak with natural or worked stone. Stones have long memories, but often answer questions about the distant past with even more cryptic answers than usual. Moreover, the stone's perspective and perception may prevent it from knowing details relevant to your question.
 
 You can attempt to use this feature to speak with natural land formations, such as mountains, but they rarely answer such calls, and only answer a single question if they do. Land formations are aware of only vague details, and do not register the passing of a single creature or object. They can sense the presence of precious metals and gems within themselves, but not in their surroundings.  
 
 Once you use this feature to speak with a stone, you cannot speak with that same stone again for 10 days.
 
 ## Unyielding Stone
-Starting at 6th level, you can briefly transform into stone to protect yourself. When an attacker that you can see hits you with an attack, you can use your reaction to prevent the attack’s damage against you.
+Starting at 6th level, you can briefly transform into stone to protect yourself. When an attacker that you can see hits you with an attack, you can use your reaction to prevent the attack's damage against you.
 
-Once you use this feature, you can’t use it again until you finish a short or long rest.
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ## Roots of the Mountain
 At 10th level, you are as sturdy and immovable as the mountains themselves. You have resistance to bludgeoning damage. In addition, you have advantage on Strength and Dexterity saving throws made against effects that would knock you prone.
@@ -46,7 +46,7 @@ Upon reaching 14th level, you learn to preserve creatures and objects in earthen
 
 If a creature or object that you have turned to stone with this feature is physically broken or damaged while transformed, the stone slowly reconstitutes the damage over 24 hours. If the creature or object is returned to its natural state before that point, however, it suffers from deformities appropriate to the damage it sustained.
 
-If you turn a creature to stone with this feature, you can choose whether or not that creature retains its awareness. A creature that retains its awareness remains fully aware and conscious while turned to stone, retaining its normal hearing capabilities and gaining blindsight out to 120 feet. You can communicate telepathically with such a creature by touching it. A creature that does not retain its awareness is unaware of its surroundings and does not register the passage of time. You can rouse such a creature’s consciousness for telepathic communication by touching it, in which case it is only dimly aware of its condition but is fully capable of understanding and communicating.
+If you turn a creature to stone with this feature, you can choose whether or not that creature retains its awareness. A creature that retains its awareness remains fully aware and conscious while turned to stone, retaining its normal hearing capabilities and gaining blindsight out to 120 feet. You can communicate telepathically with such a creature by touching it. A creature that does not retain its awareness is unaware of its surroundings and does not register the passage of time. You can rouse such a creature's consciousness for telepathic communication by touching it, in which case it is only dimly aware of its condition but is fully capable of understanding and communicating.
 
 At any time, you can take an action to release the creature or object from this effect, returning it to the state that it was in when you used this feature. To a creature that did not retain its awareness, it appears as though no time has passed, though it remembers any telepathic conversation in which it took part.
 

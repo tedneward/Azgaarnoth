@@ -1,4 +1,4 @@
-# Paladin Sacred Oath: Oath of the Ancients
+# Sacred Oath: Oath of the Ancients
 The Oath of the Ancients dates back to the time of the [Eldar](../../History/Eldar.md) themselves, and perhaps further. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things-leaves, antlers, or flowers-to reflect their commitment to preserving life and light in the world.
 
 Oath of the Ancients paladins usually swear to the [Eldar](../../History/Eldar.md), and find themselves most often among the [Al'Uma](../../Religions/AlUma.md).

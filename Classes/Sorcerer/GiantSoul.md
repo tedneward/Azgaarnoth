@@ -7,7 +7,7 @@ The giants once dwelled in a fabled realm known as Ostoria, a paradise for their
 The resilience of giants flows through your body. At 1st level, your hit point maximum increases by 1, and it increases by 1 again whenever you gain a level in this class.
 
 ## Mark of the Ordning
-At 1st level, you discover innate magical abilities within yourself that are based on your giant heritage. Select one of the giant types from the Mark of the Ordning table. At 1st and 3rd level, you learn the spells associated with your choice, as shown in the table. These spells count as sorcerer spells for you, but they don’t count against your number of sorcerer spells known.
+At 1st level, you discover innate magical abilities within yourself that are based on your giant heritage. Select one of the giant types from the Mark of the Ordning table. At 1st and 3rd level, you learn the spells associated with your choice, as shown in the table. These spells count as sorcerer spells for you, but they don't count against your number of sorcerer spells known.
 
 Giant Type|Spells at 1st Level|Spell at 3rd Level
 ----------|-------------------|------------------
@@ -42,7 +42,7 @@ Starting at 14th level, you gain the ability to channel the souls of your ancest
 * You have advantage on Strength checks and Strength saving throws.
 * You gain a bonus to the damage rolls of your melee weapon attacks; the bonus equals your Constitution modifier (minimum of +1).
 
-Once you use this feature, you can’t use it again until you finish a short or long rest.
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ## Blessing of the All Father
 At 18th level, your Constitution score increases by 2, up to a maximum of 22.

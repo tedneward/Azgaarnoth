@@ -18,3 +18,21 @@ Whether *maerach* have cities in the Undersea is a hotly-debated topic among the
 * **Friend of the Sea**. Using gestures and sounds, you can communicate simple ideas with any beast that has an innate swimming speed.
 
 * **Languages**. You can speak, read, and write Aquan.
+
+```
+name = 'Sea'
+description = "***Subrace: Sea Elf.*** *Maerach* look strikingly similar to elves, aside from a small set of gills set just below their ears, which long hair (worn loosely) can usually hide."
+def level0(npc):
+    npc.CON += 1
+
+    npc.proficiencies.append("Spear")
+    npc.proficiencies.append("Trident")
+    npc.proficiencies.append("Light crossbow")
+    npc.proficiencies.append("Net")
+
+    npc.traits.append(traits['sea-emissary'])
+    npc.traits.append(traits['amphibious'])
+    npc.speed['swimming'] = 30
+
+    npc.languages.append('Aquan')
+```

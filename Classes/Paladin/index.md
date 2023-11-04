@@ -8,22 +8,22 @@ Level|Proficiency Bonus|1st|2nd|3rd|4th|5th|Features
 1st  |+2               | - | - | - | - | - |[Divine Sense](#divine-sense), [Lay on Hands](#lay-on-hands)
 2nd  |+2               | 2 | - | - | - | - |[Fighting Style](#fighting-style), [Spellcasting](#spellcasting), [Divine Smite](#divine-smite)
 3rd  |+2               | 3 | - | - | - | - |[Divine Health](#divine-health), [Sacred Oath](#sacred-oath)
-4th  |+2               | 3 | - | - | - | - |Ability Score Improvement
+4th  |+2               | 3 | - | - | - | - |[Ability Score Improvement](#ability-score-improvement)
 5th  |+3               | 4 | 2 | - | - | - |[Extra Attack](#extra-attack)
 6th  |+3               | 4 | 2 | - | - | - |[Aura of Protection](#aura-of-protection)
 7th  |+3               | 4 | 3 | - | - | - |[Sacred Oath](#sacred-oath) feature  
-8th  |+3               | 4 | 3 | - | - | - |Ability Score Improvement
+8th  |+3               | 4 | 3 | - | - | - |[Ability Score Improvement](#ability-score-improvement)
 9th  |+4               | 4 | 3 | 2 | - | - |
 10th |+4               | 4 | 3 | 2 | - | - |[Aura of Courage](#aura-of-courage)
 11th |+4               | 4 | 3 | 3 | - | - |Improved Divine Smite
-12th |+4               | 4 | 3 | 3 | - | - |Ability Score Improvement
+12th |+4               | 4 | 3 | 3 | - | - |[Ability Score Improvement](#ability-score-improvement)
 13th |+5               | 4 | 3 | 3 | 1 | - |
 14th |+5               | 4 | 3 | 3 | 1 | - |[Cleansing Touch](#cleansing-touch)
 15th |+5               | 4 | 3 | 3 | 2 | - |[Sacred Oath](#sacred-oath) feature
-16th |+5               | 4 | 3 | 3 | 2 | - |Ability Score Improvement
+16th |+5               | 4 | 3 | 3 | 2 | - |[Ability Score Improvement](#ability-score-improvement)
 17th |+6               | 4 | 3 | 3 | 3 | 1 |
 18th |+6               | 4 | 3 | 3 | 3 | 1 |Aura improvements
-19th |+6               | 4 | 3 | 3 | 3 | 2 |Ability Score Improvement
+19th |+6               | 4 | 3 | 3 | 3 | 2 |[Ability Score Improvement](#ability-score-improvement)
 20th |+6               | 4 | 3 | 3 | 3 | 2 |[Sacred Oath](#sacred-oath) feature
 
 As a paladin, you gain the following class features.
@@ -119,25 +119,26 @@ The divine magic flowing through you makes you immune to disease.
 *3rd-level paladin feature*
 
 You swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose one of the following oaths:
-* [Abyss](Paladin/Abyss.md)
-* [Ancients](Paladin/Ancients.md)
-* [Conquest](Paladin/Conquest.md)
-* [Crown](Paladin/Crown.md)
-* [Devotion](Paladin/Devotion.md)
-* [Dragon](Paladin/Dragon.md)
-* [Glory](Paladin/Glory.md)
-* [Heroism](Paladin/Heroism.md)
-* [Redemption](Paladin/Redemption.md)
-* [Shadows](Paladin/Shadows.md)
-* [Stalker](Paladin/Stalker.md)
-* [Vengeance](Paladin/Vengeance.md)
-* [Watchers](Paladin/Watchers.md)
-* [Weave](Paladin/Weave.md)
+* [Abyss](./Abyss.md)
+* [Ancients](./Ancients.md)
+* [Conquest](./Conquest.md)
+* [Crown](./Crown.md)
+* [Devotion](./Devotion.md)
+* [Dragon](./Dragon.md)
+* [Glory](./Glory.md)
+* [Heroism](./Heroism.md)
+* [Inquisition](./Inquisition.md)
+* [Redemption](./Redemption.md)
+* [Shadows](./Shadows.md)
+* [Stalker](./Stalker.md)
+* [Vengeance](./Vengeance.md)
+* [Watchers](./Watchers.md)
+* [Weave](./Weave.md)
 
 .. or, you are an "anti-paladin", and you have sworn one of the following oaths:
-* [Grief](Paladin/Grief.md)
-* [Oathbreaker](Paladin/Oathbreaker.md)
-* [Treachery](Paladin/Treachery.md)
+* [Grief](./Grief.md)
+* [Oathbreaker](./Oathbreaker.md)
+* [Treachery](./Treachery.md)
 
 Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.
 

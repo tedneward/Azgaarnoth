@@ -132,7 +132,7 @@ The dragon can "throw" its voice (or any other sound it makes) to make it sound 
 >|17 (+3)|10 (+0)|15 (+2)|12 (+1)|11 (+0)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Dex +2,Con +4,Wis +2,Cha +4
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -165,7 +165,7 @@ The dragon can "throw" its voice (or any other sound it makes) to make it sound 
 >|18 (+4)|10 (+0)|16 (+3)|13 (+1)|11 (+0)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Dex +3,Con +6,Wis +3,Cha +5
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -198,7 +198,7 @@ The dragon can "throw" its voice (or any other sound it makes) to make it sound 
 >|19 (+4)|10 (+0)|18 (+4)|13 (+1)|11 (+0)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Dex +3,Con +7,Wis +3,Cha +6
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -212,7 +212,7 @@ The dragon can "throw" its voice (or any other sound it makes) to make it sound 
 >#### Actions
 >***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (1d10 + 8) piercing damage plus 4 (1d8) lightning damage.
 >
->***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 50-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 44 (8d10) lightning damage on a failed save, or half as much damage on a successful one
+>***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 50-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 44 (8d10) lightning damage on a failed save, or half as much damage on a successful one.
 >
 
 ---
@@ -231,7 +231,7 @@ The dragon can "throw" its voice (or any other sound it makes) to make it sound 
 >|21 (+5)|10 (+0)|19 (+4)|14 (+2)|13 (+1)|17 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Dex +4,Con +8,Wis +5,Cha +7
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -268,7 +268,7 @@ The dragon can "throw" its voice (or any other sound it makes) to make it sound 
 >|22 (+6)|10 (+0)|20 (+5)|15 (+2)|13 (+1)|17 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Dex +4,Con +9,Wis +5,Cha +7
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -307,7 +307,7 @@ The dragon can "throw" its voice (or any other sound it makes) to make it sound 
 >|23 (+6)|10 (+0)|21 (+5)|15 (+2)|13 (+1)|18 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** Dex +5,Con +10,Wis +6,Cha +9
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -375,7 +375,7 @@ If the dragon dies, the dust devils disappear immediately, and the thunderstorms
 >|25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** Dex +5,Con +11,Wis +7,Cha +9
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -445,7 +445,7 @@ If the dragon dies, the dust devils disappear immediately, and the thunderstorms
 >|26 (+8)|10 (+0)|24 (+7)|17 (+3)|15 (+2)|19 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +6
 >- **Saving Throws** Dex +6,Con +13,Wis +8,Cha +10
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -515,7 +515,7 @@ If the dragon dies, the dust devils disappear immediately, and the thunderstorms
 >|27 (+8)|10 (+0)|25 (+7)|17 (+3)|15 (+2)|20 (+5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +7
 >- **Saving Throws** Dex +7,Con +14,Wis +9,Cha +12
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -585,7 +585,7 @@ If the dragon dies, the dust devils disappear immediately, and the thunderstorms
 >|29 (+9)|10 (+0)|27 (+8)|18 (+4)|17 (+3)|21 (+5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +7
 >- **Saving Throws** Dex +7,Con +15,Wis +10,Cha +12
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -655,7 +655,7 @@ If the dragon dies, the dust devils disappear immediately, and the thunderstorms
 >|30 (+10)|10 (+0)|28 (+9)|19 (+4)|17 (+3)|21 (+5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +7
 >- **Saving Throws** Dex +7,Con +15,Wis +10,Cha +12
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -725,7 +725,7 @@ If the dragon dies, the dust devils disappear immediately, and the thunderstorms
 >|31 (+10)|10 (+0)|29 (+9)|20 (+5)|17 (+3)|22 (+6)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +8
 >- **Saving Throws** Dex +8,Con +17,Wis +11,Cha +14
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

@@ -3,7 +3,7 @@ Pale Masters have spent countless years fusing necrotic magic with undead parts 
 
 The description of each creation tells you the type of item that can receive it. The description also tells you if the resulting magic item requires attunement.
 
-Some creations specify a minimum pale master level. You can’t learn such a creation until you are at least that level.
+Some creations specify a minimum pale master level. You can't learn such a creation until you are at least that level.
 
 ## Baton of the Netherworld
 *Prerequisite: 12th-level pale master*
@@ -14,7 +14,7 @@ A steel baton containing several glyphs incised along its length that promise po
 
 As an action, the wielder presents your this baton and speak a prayer censuring the undead. Each undead that can see or hear the wielder within 30 feet of it must make a DC 15 Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
-A turned creature must spend its turns trying to move as far away from the wielder as it can, and it can’t willingly move to a space within 30 feet of it. The creature also can’t take reactions. For its action, the creature can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+A turned creature must spend its turns trying to move as far away from the wielder as it can, and it can't willingly move to a space within 30 feet of it. The creature also can't take reactions. For its action, the creature can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 ## Bagpipes of the Damned
 *Item: A set of bagpipes (Wondrous item), uncommon (requires attunement)*
@@ -71,7 +71,7 @@ When played, this lyre weakens the ability of undead creatures to resist turning
 ## Night Caller
 *Item: A whistle (Wondrous item), uncommon (requires attunement)*
 
-This whistle is wreathed in shadow and resembles a small skull with a snake's tongue protruding from its jaw. When blown at night over a grave containing a pile of bones or a corpse, the whistle imbues the target with a foul mimicry of life, raising it as an undead creature as per the animate dead spell. The target becomes a Skeleton if the grave contained bones or a Zombie if it contained corpse (the DM has the creature's game statistics). Once used, you must complete a long rest before you can use the night caller again. You can only control one creature with a night caller at a time, but you may maintain the control of the creature if use the whistle again before the current 24-hour period ends.
+This whistle is wreathed in shadow and resembles a small skull with a snake's tongue protruding from its jaw. When blown at night over a grave containing a pile of bones or a corpse, the whistle imbues the target with a foul mimicry of life, raising it as an undead creature as per the [animate dead](../../Magic/Spells/animate-dead.md) spell. The target becomes a [Skeleton](../../Creatures/Undead/Skeletons.md#skeleton) if the grave contained bones or a [Zombie](../../Creatures/Undead/Zombie.md) if it contained corpse (the DM has the creature's game statistics). Once used, you must complete a long rest before you can use the night caller again. You can only control one creature with a night caller at a time, but you may maintain the control of the creature if use the whistle again before the current 24-hour period ends.
 
 ## Nightstick
 *Prerequisite: 8th-level pale master*
@@ -103,3 +103,4 @@ This set of armor has been interwoven with an umbral essence. The wearer gains a
 *Item: Armor (light), uncommon (requires attunement)*
 
 A suit of armor stitched together with the intestines of a zombie. Once per long rest, if damage reduces the wearer to 0 Hit Points, it must make a Constitution saving throw with a DC of 5+ the damage taken, unless the damage is radiant or from a critical hit. On a success, the wearer drops to 1 hit point instead.
+

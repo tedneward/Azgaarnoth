@@ -66,6 +66,7 @@ class SubtypedCreature:
                     creature.parseMD(creaturebuffer)
                     creature.collection = subtypedcreature
                     subtypedcreature.subtypes.append(creature)
+                    #print("  Parsed " + creature.name)
             
             return subtypedcreature
         elif mdlines[0][0:3] == '## ':
@@ -85,6 +86,7 @@ class SubtypedCreature:
         results += '\n'
         results += '> Jump to: ' + subtypejumplinks
         results += ''.join(self.generaldescription[1:])
+        results += '\n\n'
         for creature in self.subtypes:
             results += '---\n\n'
             results += creature.emitMD()
@@ -125,6 +127,9 @@ class Creature:
 
         self.name = ''
         self.size = ''
+        # Creature types include:
+        # aberration, beast, celestial, construct, dragon, elemental,
+        # fey, fiend, giant, humanoid, monstrosity, ooze, plant, undead
         self.type = ''
         self.subtypes = []
         self.alignment = ''
@@ -372,12 +377,20 @@ class Creature:
 
             linect += 1
 
+    def parserow(self, sqlrow):
+        "Parse a row from a SQLite cursor"
+        pass
+
+    def normalize(self):
         # Closing out and fixups
+        if "(FIXME)" in self.environments:
+            print("WARNING: " + self.name + " lacking environments")
         if len(self.environments) < 1:
             self.environments.append('(FIXME)')
+            print("WARNING: " + self.name + " lacking environments")
         if self.tokenlink == '':
             self.tokenlink = '![](' + self.filename()[0:-3] + '-Token.png)'
-        if self.profbonus == '0' or self.profbonus == '+0':
+        if self.profbonus == 0 or self.profbonus == '0' or self.profbonus == '+0':
             print("WARNING: " + self.name + " lacking ProfBonus; CR = " + self.cr, end='')
             pbs = {
                 '+2': ['0', '1/8', '1/4', '1/2', '1', '2', '3', '4'],
@@ -395,10 +408,6 @@ class Creature:
                     print("; setting to " + pb)
                     self.profbonus = pb
                     break
-
-    def parserow(self, sqlrow):
-        "Parse a row from a SQLite cursor"
-        pass
 
     def emitMD(self):
         "Emit this creature description and stat block"
@@ -542,9 +551,6 @@ def ingest(arg):
 
             if line.find('(') > 0:
                 # It has a parenthesized subtype
-                # Find the parenthesized string and split there
-                endparen = line.find(')')
-                sizeandtype = line[0:endparen+1]
                 # Fnd the paren in the new sizeandtype string
                 startparen = line.find('(')
                 endparen = line.find(')')
@@ -715,6 +721,7 @@ def ingest(arg):
 
             linect += 1
 
+        creature.normalize()
         return creature
 
     def ingestrawtextfile(lines):
@@ -723,12 +730,12 @@ def ingest(arg):
             while (len(lines) > 0) and (len(lines[0].strip()) == 0):
                 del lines[0]
 
-            name = lines[0]
+            name = lines[0].strip()
             print("INGESTING CREATURE " + name)
             description = []
 
             linect = 1
-            while lines[linect] != name.upper():
+            while lines[linect].strip().upper() != name.upper():
                 if len((lines[linect]).strip()) > 0:
                     description.append(lines[linect])
                 linect += 1
@@ -736,6 +743,7 @@ def ingest(arg):
             creature = ingestrawstatblock(lines[linect:])
             creature.name = name.strip()
             creature.description = description
+            creature.normalize()
             return creature
 
         def ingestsubtypedcreature(lines):
@@ -901,6 +909,7 @@ def ingest(arg):
 
                 linect += 1
 
+            creature.normalize()
             return creature
 
     # Arg is a file
@@ -945,6 +954,8 @@ def camelcaseify(string):
     return string.lower().replace(' ', '')
 
 def main(argv):
+    global creatures
+
     parser = argparse.ArgumentParser(
                     prog='CreaTool',
                     description='A creature list(s) and contents tool',
@@ -985,6 +996,10 @@ def main(argv):
                         with open(args.parsemd + '/' + f, 'r') as mdfile:
                             #print("Parsing " + args.parsemd + '/' + f)
                             lines = mdfile.readlines()
+                            if (lines[0].find(':') > 0) or (lines[0].find('SKIP') > 0) :
+                                # Probably not a creature file; skip it
+                                #print("Skipping")
+                                continue
                             parsedcreature = SubtypedCreature.parseMD(lines)
                             if isinstance(parsedcreature, SubtypedCreature):
                                 #print("We parsed the multi-typed creature " + parsedcreature.name)
@@ -1008,6 +1023,19 @@ def main(argv):
         print("No source set specified!")
 
     # Filter?
+    if args.filtercr != None:
+        cr = args.filtercr
+        print(f"Looking for CR {cr} creatures")
+        crcreatures = []
+        for creature in creatures:
+            if isinstance(creature, SubtypedCreature):
+                for subcreature in creature.subtypes:
+                    if subcreature.cr == cr:
+                        crcreatures.append(subcreature)
+            else:
+                if creature.cr == cr:
+                    crcreatures.append(creature)
+        creatures = crcreatures
 
     # Ingest?
     if args.ingest != None:
@@ -1061,7 +1089,7 @@ def main(argv):
         if args.writeindex == '-':
             print(indexstr)
         else:
-            with open(args.writeindex + "/index.md", 'w') as indexfile:
+            with open(args.writeindex, 'w') as indexfile:
                 indexfile.write(indexstr)
     else:
         parser.print_help()

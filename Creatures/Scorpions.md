@@ -1,11 +1,17 @@
-# Scorpion
+# Scorpions
 Most scorpions are too small to be of much bother (singly); their larger cousins, or large swarms of them, however, can present a bit of a problem.
 
-> Jump to: [Scorpion](#scorpion-1) | [Giant Scorpion](#giant-scorpion)
+> Jump to: [Scorpion](#scorpion) | [Giant Scorpion](#giant-scorpion)
 
 ----
 
 ## Scorpion
+(No description given)
+
+### Environment
+Desert
+
+### Token
 
 >### Scorpion
 >*Tiny beast, unaligned*
@@ -38,6 +44,11 @@ Most scorpions are too small to be of much bother (singly); their larger cousins
 
 ## Giant Scorpion
 Giant scorpions are not native to most parts of Azgaarnoth, notable exceptions being certain parts of the northernmost [Al'Uma](../Geography/AlUma.md) grasslands.
+
+### Environment
+Desert
+
+### Token
 
 >### Giant Scorpion
 >*Large beast, unaligned*

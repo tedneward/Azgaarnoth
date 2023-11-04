@@ -30,7 +30,7 @@ A galeb duhr is permanently bound to the Material Plane, so that when it dies, i
 >|20 (+5)|14 (+2)|20 (+5)|11 (+0)|12 (+1)|11 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks
@@ -71,18 +71,21 @@ Most invisible stalkers are an unwilling servant at best, and resent any underta
 >- **Hit Points** 104 (16d8 + 32)
 >- **Speed** 50 ft., fly 50 ft. (hover)
 >___
->|STR|DEX|CON|INT|WIS|CHA|
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3) | 19 (+4) | 14 (+2) | 10 (+0) | 15 (+2) | 11 (+0)|
 >
 >___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 >- **Damage Immunities** poison
 >- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 >- **Skills** Perception +8, Stealth +10
 >- **Senses** darkvision 60 ft., passive Perception 18
 >- **Languages** Auran, understands Common but doesn’t speak it
->- **Challenge** 6 (2,300 XP)
+>- **Challenge** 6
 >___
 >***Invisibility.*** The stalker is invisible.
 >
@@ -113,16 +116,19 @@ If it has the opportunity while in service to its master, a magmin seeks out are
 >- **Hit Points** 9 (2d6 + 2)
 >- **Speed** 30 ft.
 >___
->|STR|DEX|CON|INT|WIS|CHA|
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (−2) | 15 (+2) | 12 (+1) | 8 (−1) | 11 (+0) | 10 (+0)|
 >
 >___
+>- **Proficiency Bonus** +2
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
 >- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 >- **Damage Immunities** fire
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Ignan
->- **Challenge** 1/2 (100 XP)
+>- **Challenge** 1/2
 >___
 >***Feature.***   
 >
@@ -151,19 +157,21 @@ A sand assassin resembles an athletic human made entirely of sand usually with m
 >- **Hit Points** 117 (18d8 + 36)
 >- **Speed** 60 ft., burrow 30 ft., fly 30 ft. (hover)
 >___
->|STR|DEX|CON|INT|WIS|CHA|
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|20 (+5)|15 (+2)|9 (-2) |14 (+2)|12(+1)|
 >
 >___
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Dex +9 
+>- **Damage Vulnerabilities** 
 >- **Damage Resistances** lightning; bludgeoning, piercing, and slashing from nonmagical weapons 
 >- **Damage Immunities** poison 
 >- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious 
 >- **Skills** Perception +6, Stealth +9 
 >- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10 
 >- **Languages** Auran, Terran 
->- **Challenge** 9 (5,000 XP) 
+>- **Challenge** 9 
 >___
 >***Sand Form.*** The sand assassin can move through a space as narrow as 1 inch wide without squeezing. In addition, the sand assassin can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature must succeed on a DC 14 Constitution saving throw. A creature that ends its turn inside the sand assassin's space must also make the saving throw. On a failed saving throw, a creature is blinded for 1 minute. A creature repeats the saving throw at the end of each of its turns, ending the blindness on a success.
 >
@@ -203,7 +211,7 @@ A neutral good water weird tries to frighten away interlopers rather than kill t
 >|17 (+3)|16 (+3)|13 (+1)|11 (+0)|10 (+0)|10 (+0)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** fire; bludgeoning,piercing,and slashing from nonmagical attacks

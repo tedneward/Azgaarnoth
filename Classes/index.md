@@ -1,5 +1,5 @@
 # Classes
-Azgaarnoth has a wide range of classes available:
+Azgaarnoth has a wide range of classes available, and a number of [feats](Feats.md) by which to customize them further:
 
 ## [Artificer](Artificer)
 The artificer is a masters of invention, using ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions.
@@ -38,7 +38,7 @@ Far from the bustle of cities and towns, past the hedges that shelter the most d
 Rogues rely on skill, stealth, and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem, demonstrating a resourcefulness and versatility that is the cornerstone of any successful adventuring party.
 
 ## [Shaman](Shaman)
-Shamans serve as intermediaries between the mortal world and the realms of spirits, called by the spirits to speak for them among mortals. These spirits come in a variety of forms, ranging from elemental nature spirits to the souls of fallen ancestors, and often take on animalistic shapes. While most shamans revere the spirits for which they speak, they rarely worship them outright. More often, a shaman negotiates with the spirits, being granted power both as a means to fulfill the spirits’ needs and as a reward for doing so.
+Shamans serve as intermediaries between the mortal world and the realms of spirits, called by the spirits to speak for them among mortals. These spirits come in a variety of forms, ranging from elemental nature spirits to the souls of fallen ancestors, and often take on animalistic shapes. While most shamans revere the spirits for which they speak, they rarely worship them outright. More often, a shaman negotiates with the spirits, being granted power both as a means to fulfill the spirits' needs and as a reward for doing so.
 
 ## [Sorcerer](Sorcerer)
 The Sorcerer is born with arcane power flowing through their veins. Relying on instinct and intuition instead of careful study and analysis, they often have a better "feel" for magic than their Wizard cousins, at the expense of a deeper understanding of what they can cast.

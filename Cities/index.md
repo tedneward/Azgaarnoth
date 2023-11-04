@@ -1,6 +1,5 @@
 # Cities in Azgaarnoth
 
-
 ## [Alalihat](../Nations/Alalihat.md)
 * [Adag](Adag.md) *(Daykah)*
 * [Alunenor](Alunenor.md) *(Ysemar)*
@@ -392,3 +391,34 @@
 * [Thaughatath](Thaughatath.md) *(Onhavean)*
 
 
+## Underdark
+Approximately 20-25 dwarven cities/kingdoms are scattered across Liria and Travenia. Numerous passages crisscross underneath the Ravensound, so much so that it is said that one can walk from Stagraven to Brinwal without getting one's feet wet, listening to the sound of the merchant ships on the surface of the water above.
+
+Approximately 12-15 more are scattered across Travesimia
+
+Another dozen or so are on the Dradehalian continent, though they are not connected to the larger Underdark, thanks to the depths of the Deepwaters separating them except at the westernmost (via Chidia) and easternmost (to Tragekia) ends of the continent. (A very long, very narrow set of passages connect from near Swigab to near Sroirna)
+
+Another half-dozen are in Chidia
+
+* Khaz Moswind, near [Moswind](Moswind.md), an important connector between the Chidian League and the Travesimian Underdark
+
+Bedia has a few (2-3); Northern Bedia has a few, none further west than the Tihulne River. Legend says that some dwarven cities were founded further out west, but were either abandoned or contact was lost over time--nobody is quite sure what happened.
+
+## The Lost Seventeen
+* Khun Ladur (near [Dukomi](Dukomi.md) (in Zabalasa), lost 1137 AF), said to be one of the richest sources of gemstone deposits in all of Azgaarnoth, rumored to be occupied by a black dragon and its kobold minion tribes
+* Bhem Buldar (near [Krikal](Krikal.md) (in Yithi), lost 1156 AF) 
+* Khun Boldohr (near Dheubpurwen (in Yithi), lost 1201 AF)
+* Khun Huldun (near Venerintyr (in Yithi), lost 1247 AF)
+* Bhem Boram (near Kraston (in Yithi), lost 1301 AF)
+* Khun Buldihr (near Ilhagos (in Zhi), lost 1303 AF)
+* Kher Todihr (near Sahramar (in Yithi), lost 1373 AF)
+* Khun Kulgrin (near Kebun (in Zabalasa), lost 1422 AF)
+* Bhem Thaghdihm (near [Nytharion](Nytharion.md) (in Alalihat), lost 1451 AF)
+* Bhem Meraruhm (near Ponpiron (Liria), lost 1542 AF)
+* Khun Gogbaduhr (near Shola (Liria/Tragekia), lost 1557 AF)
+* Kher Darwohrum (near Morodnomel (Tragekia), lost 1567 AF)
+* Kher Khinturm (near Nulgath (Liria), lost 1642 AF)
+* Khun Mamalduhr (near Shemkanar (Alalihat), lost 1690 AF), rumored to be occupied by orc-kin
+* Kolgalir (near [Nyllar](Nyllar.md), lost 1776 AF), the greatest (and deepest) of the Dwarven Cities and site of some of their most impressive engineering feats, rumored to be occupied by mind flayers
+* Khun Damkuldirh (near Selzed (Alalihat), lost 1821 AF), rumored to be occupied by drow
+* Khun Bernkuldir (near Mabran (Alalihat), lost 1861 AF), rumored to be occupied by goblin-kin

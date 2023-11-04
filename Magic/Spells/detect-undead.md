@@ -1,4 +1,4 @@
-#### Detect Familiar
+#### Detect Undead
 *2nd-level divination* (Bard,Cleric,Druid,Paladin,Pale Master,Ranger,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action

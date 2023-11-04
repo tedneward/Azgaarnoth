@@ -10,14 +10,14 @@ Beginning at 6th level, as an action, one inanimate object that you touch is tur
 ## Geyser
 At 10th level, you can summon a powerful surge of water from deep within the ground. As an action, you touch the ground, calling forth the water beneath.
 
-Choose a point within 60 feet of you that you can see. A 5-foot radius geyser erupts from the ground at that point. Any creatures in the geyser’s area are pushed 10 feet away from the center of the geyser, taking 4d8 bludgeoning damage as they are blasted with boiling water.
+Choose a point within 60 feet of you that you can see. A 5-foot radius geyser erupts from the ground at that point. Any creatures in the geyser's area are pushed 10 feet away from the center of the geyser, taking 4d8 bludgeoning damage as they are blasted with boiling water.
 
 The geyser remains in the area for 2d4 hours.
 
 Creatures forced out of the area of the geyser are unable to re-enter the area. Water from the geyser cannot be contained or collected in any shape or form. After the water gushes forth, it returns back into the ground in a cyclic motion, leaving the area as it was before the geyser appeared. Once you use this feature, you cannot use it again until after you have completed a long rest.
 
 ## Fountain of Youth
-Starting at 14th level, the magic of water lives in every cell of your body. You do not suffer the frailty of old age, and you can’t be aged magically. You no longer need to drink water to sustain your life. The waters of life cleanse you of impurities, giving you immunity to disease, immunity to poison damage, and immunity to the poisoned condition.
+Starting at 14th level, the magic of water lives in every cell of your body. You do not suffer the frailty of old age, and you can't be aged magically. You no longer need to drink water to sustain your life. The waters of life cleanse you of impurities, giving you immunity to disease, immunity to poison damage, and immunity to the poisoned condition.
 
 # Hydromancy Spells
 

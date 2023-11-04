@@ -3,29 +3,20 @@ Master thieves are known for perpetrating daring heists. They tend to develop a 
 
 When a master thief completes a challenging heist, they often leave behind a calling card to taunt their victims. You may roll on the Master Thief Calling Cards table to determine what a master thief leaves behind.
 
-Master Thief Calling Cards
+**Master Thief Calling Cards**
 
-d10	Calling Card
-
-1	Tiny, folded paper cat
-
-2	Red bird feather
-
-3	Rose petal
-
-4	Figurine made from twigs and twine
-
-5	Small note with the words "It's been fun!" written on it in an ornate script
-
-6	Glass bead that looks like an eye
-
-7	Pistachio shells
-
-8	Two playing cards balanced against each other, resembling a tent
-
-9	Worthless coin with a bite mark in it
-
-10	Chalk or charcoal sketch of a domino mask
+d10 | Calling Card
+--- | ------------
+ 1 | Tiny, folded paper cat
+ 2 | Red bird feather
+ 3 | Rose petal
+ 4 | Figurine made from twigs and twine
+ 5 | Small note with the words "It's been fun!" written on it in an ornate script
+ 6 | Glass bead that looks like an eye
+ 7 | Pistachio shells
+ 8 | Two playing cards balanced against each other, resembling a tent
+ 9 | Worthless coin with a bite mark in it
+10 | Chalk or charcoal sketch of a domino mask
 
 
 >### Master Thief

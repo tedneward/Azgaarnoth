@@ -1,4 +1,4 @@
-# Warlock Patron: The Legendary Dragon
+# Otherworldly Patron: The Legendary Dragon
 Your patron is a dragon of truly ancient origin, who has unlocked secrets of the multiverse still unknown to most of the cosmos. This dragon could be a gold wyrm who has watched over a kingdom for millenia, or perhaps he is a shadow dragon living in the Shadowfell, looking for ways to spread his corrupting influence. He could be a powerful dracolich that saw the dawn of the world, posing as a benevolent silver dragon.
 
 Dragons are versatile creatures, and take a variety of forms; work with your DM to determine who your patron is and why they have chosen you (or accepted your request for power). How did you learn of their existence, or vice versa? The dragon's identity determines its motives, alignment, and ultimately how it treats you as your patron. Choose (or roll) on the list of possible Legendary Dragons below. If you have ideas for other Legendary Dragon patrons, ask your DM about them.

@@ -20,9 +20,9 @@ You can choose one additional favored enemy at 6th and 14th level.
 ## Hedge Spellcasting
 Starting at 2nd level, you can expend your spellcasting energy to protect against harmful spells that target you or a nearby ally. Alternatively, you can expend extra spellcasting energy to improve your chances of affecting an enemy with a harmful spell you cast. When doing so, choose one of these options:
 
-* **Hedge Defense** – when you or an ally that you can see within 30 feet of you must make a saving throw against a harmful spell, you can use your reaction to expend a spell slot equal to half the harmful spell’s level to grant you or the ally advantage on the saving throw.
+* **Hedge Defense** – when you or an ally that you can see within 30 feet of you must make a saving throw against a harmful spell, you can use your reaction to expend a spell slot equal to half the harmful spell's level to grant you or the ally advantage on the saving throw.
 
-* **Hedge Offense** – When you cast a harmful spell that requires a saving throw against one or more of your enemies, you can expend an additional spell slot equal to the original spell’s level to boost the spell’s power and impose disadvantage on the saving throw for a number of creatures equal to your Intelligence modifier minimum 1).
+* **Hedge Offense** – When you cast a harmful spell that requires a saving throw against one or more of your enemies, you can expend an additional spell slot equal to the original spell's level to boost the spell's power and impose disadvantage on the saving throw for a number of creatures equal to your Intelligence modifier minimum 1).
 
 ## Improved Arcane Recovery
 At 6th level, you have learned to recover extra spell energy when you use Arcane Recovery to recover expended spell slots. You recover additional spell slots equal to your Intelligence modifier (minimum of 1) at the end of a short rest using Arcane Recovery.

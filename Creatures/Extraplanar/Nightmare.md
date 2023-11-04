@@ -19,7 +19,7 @@ A nightmare can be summoned from the Lower Planes, but unless a worthy sacrifice
 >|18 (+4)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

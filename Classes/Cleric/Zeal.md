@@ -1,5 +1,5 @@
 # Divine Domain: Zeal
-This is a domain granted by [the Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric),the [Kaevarian Church](../../Religions/KaevarianChurch.md), ...
+The Zeal domain is not so much a concept owned by a diety, but the fervor with which a worshiper evangelizes their divine being's message or portfolio; as a result any cleric can be a Zealot, but to do so is to take the messages of the diety as your core identity.
 
 ## Domain Spells
 Starting at 1st level, you gain domain spells at the cleric levels listed in the Unity Domain Spells table. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
@@ -36,6 +36,6 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 ## Blaze of Glory
 Starting at 17th level, you can delay death for an instant to perform a final heroic act.
 
-When you are reduced to 0 hit points by an attacker you can see, even if you would be killed outright, you can use your reaction to move up to your speed toward the attacker and make one melee weapon attack against it, as long as the movement brings it within your reach. You make this attack with advantage. If the attack hits, the creature takes an extra 5d10 fire damage and an extra 5d10 damage of the weapon’s type. You then fall unconscious and begin making death saving throws as normal, or you die if the damage you took would have killed you outright.
+When you are reduced to 0 hit points by an attacker you can see, even if you would be killed outright, you can use your reaction to move up to your speed toward the attacker and make one melee weapon attack against it, as long as the movement brings it within your reach. You make this attack with advantage. If the attack hits, the creature takes an extra 5d10 fire damage and an extra 5d10 damage of the weapon's type. You then fall unconscious and begin making death saving throws as normal, or you die if the damage you took would have killed you outright.
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can't use it again until you finish a long rest.

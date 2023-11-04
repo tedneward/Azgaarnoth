@@ -33,4 +33,4 @@ if test -f "sitetarget"; then
 fi
 
 echo "Copying site to $target..."
-cp -r site/* $target
+cp -Rv site/* $target

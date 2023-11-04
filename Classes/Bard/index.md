@@ -1,6 +1,11 @@
 # Bard
 Whether scholar, skald, or scoundrel, a bard weaves magic through words and music to inspire allies, demoralize foes, manipulate minds, create illusions, and even heal wounds. The bard is a master of song, speech, and the magic they contain.
 
+```
+name = 'Bard'
+description = "***Class: Bard.*** Whether scholar, skald, or scoundrel, a bard weaves magic through words and music to inspire allies, demoralize foes, manipulate minds, create illusions, and even heal wounds. The bard is a master of song, speech, and the magic they contain."
+```
+
 ## Class Features
 As a bard, you gain the following class features.
 
@@ -34,6 +39,10 @@ Level|Proficiency Bonus|Cantrips Known|Spells Known|1st|2nd|3rd|4th|5th|6th|7th|
 
 **Hit Points at Higher Levels**: 1d8 (or 5) + your Constitution modifier per bard level after 1st
 
+```
+def everylevel(npc): npc.hits('d8')
+```
+
 ### Proficiencies
 **Armor**: Light armor
 
@@ -45,6 +54,29 @@ Level|Proficiency Bonus|Cantrips Known|Spells Known|1st|2nd|3rd|4th|5th|6th|7th|
 
 **Skills**: Choose any three
 
+```
+def level1(npc):
+    npc.savingthrows.append("DEX")
+    npc.savingthrows.append("CHA")
+
+    for arm in armor['light']:
+        npc.proficiencies.append(arm)
+    for wpn in weapons['simple-melee'] | weapons['simple-ranged']:
+        npc.proficiencies.append(wpn)
+    npc.proficiencies.append('Hand crossbow')
+    npc.proficiencies.append('Longsword')
+    npc.proficiencies.append('Shortsword')
+    npc.proficiencies.append('Rapier')
+
+    npc.proficiencies.append(choose("Choose an instrument: ", tools['musical']))
+    npc.proficiencies.append(choose("Choose an instrument: ", tools['musical']))
+    npc.proficiencies.append(choose("Choose an instrument: ", tools['musical']))
+
+    chooseskill(npc)
+    chooseskill(npc)
+    chooseskill(npc)
+```
+
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -52,6 +84,14 @@ You start with the following equipment, in addition to the equipment granted by 
 * (a) a diplomat's pack or (b) an entertainer's pack
 * (a) a lute or (b) any other musical instrument
 * Leather armor and a dagger
+
+```
+    npc.armorclass['Leather armor'] = 11
+    npc.equipment.append("Rapier OR Longsword OR any simple weapon")
+    npc.equipment.append("Dagger")
+    npc.equipment.append("Diplomat's pack OR Entertainer's pack")
+    npc.equipment.append("Lute OR other musical instrument")
+```
 
 ## Spellcasting
 *1st-level bard feature*
@@ -87,6 +127,35 @@ You can use a musical instrument as a spellcasting focus for your bard spells.
 ### Spell Versatility
 Whenever you finish a long rest, you can replace one spell you learned from this Spellcasting feature with another spell from the bard spell list. The new spell must be the same level as the spell you replace.
 
+```
+    sc = fullcaster(npc, 'CHA', 'Bard')
+    sc.casterclass = allclasses['Bard']
+
+    def spellcasting(npc): 
+        npc.spellcasting[name].maxcantripsknown = 3 if npc.levels(name) < 4 else 4 if npc.levels(name) < 10 else 5
+        match npc.levels(name):
+            case 1: npc.spellcasting[name].spellsprepared = 4
+            case 2: npc.spellcasting[name].spellsprepared = 5
+            case 3: npc.spellcasting[name].spellsprepared = 6
+            case 4: npc.spellcasting[name].spellsprepared = 7
+            case 5: npc.spellcasting[name].spellsprepared = 8
+            case 6: npc.spellcasting[name].spellsprepared = 9
+            case 7: npc.spellcasting[name].spellsprepared = 10
+            case 8: npc.spellcasting[name].spellsprepared = 11
+            case 9: npc.spellcasting[name].spellsprepared = 12
+            case 10: npc.spellcasting[name].spellsprepared = 14
+            case 11 | 12: npc.spellcasting[name].spellsprepared = 15
+            case 13: npc.spellcasting[name].spellsprepared = 16
+            case 14: npc.spellcasting[name].spellsprepared = 18
+            case 15: npc.spellcasting[name].spellsprepared = 19
+            case 16 | 17: npc.spellcasting[name].spellsprepared = 20
+            case 18 | 19 | 20: npc.spellcasting[name].spellsprepared = 22
+
+        npc.spellcasting[name].spellsprepared += npc.WISbonus()
+
+    npc.defer(lambda npc: spellcasting(npc))
+```
+
 ## Bardic Inspiration
 *1st-level bard feature*
 
@@ -100,20 +169,41 @@ You can use this feature a number of times equal to your Charisma modifier (a mi
 
 Your [Bardic Inspiration](#bardic-inspiration) die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
 
+```
+    def bardicdie(npc):
+        npc.bardicinspirationdie = 6 if npc.levels('Bard') < 5 else 8 if npc.levels('Bard') < 10 else 10 if npc.levels('Bard') < 15 else 12
+
+    npc.defer(lambda npc: bardicdie(npc) )
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Bardic Inspiration ({npc.CHAbonus()}/Recharges on long rest).*** You can inspire others through stirring words or music. Choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d{npc.bardicinspirationdie}.") )
+```
+
 ## Magical Inspiration
 *2nd-level bard feature*
 
 If a creature has a [Bardic Inspiration](#bardic-inspiration) die from you and casts a spell that restores hit points or deals damage, the creature can roll that die and choose a target affected by the spell. Add the number rolled as a bonus to the hit points regained or the damage dealt. The [Bardic Inspiration](#bardic-inspiration) die is then lost.
+
+```
+def level2(npc):
+    npc.traits.append("***Magical Inspiration.*** If a creature has a Bardic Inspiration die from you and casts a spell that restores hit points or deals damage, the creature can roll that die and choose a target affected by the spell. Add the number rolled as a bonus to the hit points regained or the damage dealt. The Bardic Inspiration die is then lost.")
+```
 
 ## Jack of All Trades
 *2nd-level bard feature*
 
 You can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
 
+```
+    npc.defer(lambda npc: npc.traits.append(f"***Jack of All Trades.*** You can add {npc.proficiencybonus() // 2} to any ability check you make that doesn't already include your proficiency bonus.") )
+```
+
 ## Song of Rest
 *2nd-level bard feature*
 
 You can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.
+
+```
+    npc.traits.append("***Song of Rest.*** You can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.")
+```
 
 ## Bard College
 *3rd-level bard feature*
@@ -125,6 +215,7 @@ You delve into the advanced techniques of a [bard college](#bard-college) of you
 * [Eloquence](Eloquence.md)
 * [Glamour](Glamour.md)
 * [Lore](Lore.md)
+* [Ravens](Ravens.md)
 * [Satire](Satire.md)
 * [Secrets](Secrets.md)
 * [Spirits](Spirits.md)
@@ -134,6 +225,13 @@ You delve into the advanced techniques of a [bard college](#bard-college) of you
 
 Your choice grants you features at 3rd level and again at 6th and 14th level.
 
+```
+def level3(npc):
+    (_, subclass) = choose("Choose a college: ", subclasses)
+    npc.subclasses[allclasses['Bard']] = subclass
+    npc.description.append(subclass.description)
+```
+
 ## Expertise
 *3rd-level bard feature*
 
@@ -141,8 +239,21 @@ Choose two of your skill proficiencies. Your proficiency bonus is doubled for an
 
 At 10th level, you can choose another two skill proficiencies to gain this benefit.
 
+```
+    npc.expertises.append(choose("Choose one of your skills: ", npc.skills) )
+    npc.expertises.append(choose("Choose one of your skills: ", npc.skills) )
+```
+
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+```
+def level4(npc): abilityscoreimprovement(npc)
+def level8(npc): abilityscoreimprovement(npc)
+def level12(npc): abilityscoreimprovement(npc)
+def level16(npc): abilityscoreimprovement(npc)
+def level19(npc): abilityscoreimprovement(npc)
+```
 
 ## Bardic Versatility
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change in focus as you use your (#ability-score-improvement)skills and magic:
@@ -160,6 +271,11 @@ Beginning when you reach 5th level, you regain all of your expended uses of [Bar
 
 You gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
 
+```
+def level6(npc):
+    npc.actions.append("***Countercharm.*** You can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).")
+```
+
 ## Magical Secrets
 *10th-level bard feature*
 
@@ -169,8 +285,18 @@ The chosen spells count as bard spells for you and are included in the number in
 
 You learn two additional spells from any class at 14th level and again at 18th level.
 
+```
+def level10(npc):
+    npc.traits.append("***Magical Secrets.*** You have plundered magical knowledge from a wide spectrum of disciplines. Two of your known spells at 10th level, two more at 14th level, and two more at 18th level can be from any classes, including this one.")
+```
+
 ## Superior Inspiration
 At 20th level, when you roll initiative and have no uses of [Bardic Inspiration](#bardic-inspiration) left, you regain one use.
+
+```
+def level20(npc):
+    npc.traits.append("***Superior Inspiration.*** When you roll initiative and have no uses of Bardic Inspiration left, you regain one use.")
+```
 
 ---
 

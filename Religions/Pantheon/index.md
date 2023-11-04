@@ -53,3 +53,124 @@ Additionally, some of these gods are known beyond Azgaarnoth; this should not su
 Most Pantheon worship is decentralized, with scattered temples and buildings across Azgaarnoth, usually close to the physical expression of the god's domain. Some temples consist of the home of a cleric living within a village, or a concrete building attended by villagers on a regular basis; it depends greatly on the domain, the cleric, and the village.
 
 Becoming a cleric of a Pantheon god (often known as being a "Patheonite") is usually a matter of finding an existing cleric willing to take on an apprentice/acolyte, then engaging in study and worship, and if the god finds the individual worthy, that individual finds "the god's voice" and hears the call of the god's wishes for the future.
+
+
+
+---
+
+All 107 deities from D&D
+
+**Forgotten Realms**
+
+Auril – Neutral Evil goddess of winter
+Azuth – Lawful Neutral god of Wizards (Arcana, Knowledge)
+Bane – Lawful Evil god of murder
+Beshaba – Chaotic Evil goddess of misfortune
+Bhaal – Neutral Evil god of murder
+Chauntea – Neutral Good goddess of agriculture (Life)
+Cyric – Chaotic Evil god of lies
+Deneir – Neutral Good god of writing (Knowledge, Arcana)
+Eldath – Neutral Good goddess of peace (Life, Nature, Peace)
+Gond – Neutral god of craft
+Helm – Lawful Neutral god of protection (Life, Light)
+Ilmater – Lawful Good god of endurance (Life, Twilight)
+Kelemvor – Lawful Neutral god of the dead
+Lathander – Neutral Good god of birth and renewal (Life, Light)
+Leira – Chaotic Neutral goddess of illusion
+Lliira – Chaotic Neutral goddess of joy (Life)
+Loviatar – Lawful Evil goddess of pain
+Malar – Chaotic Evil god of the hunt
+Mask – Chaotic Neutral god of thieves
+Mielikki – Neutral Good goddess of forests (Nature)
+Milil – Neutral Good god of poetry and song (Light)
+Myrkul – Neutral Evil god of death
+Mystra – Neutral Good goddess of magic (Knowledge, Arcana)
+Oghma – Neutral god of knowledge
+Savras – Lawful Neutral god of divination and fate
+Selune – Chaotic Good goddess of the moon (Knowledge, Life)
+Shar – Neutral Evil goddess of darkness and loss
+Silvanus – Neutral god of wild nature
+Sune – Chaotic Good goddess of love and beauty (Life, Light)
+Talona – Chaotic Evil goddess of disease and poison
+Talos – Chaotic Evil god of storms
+Tempus – Neutral god of war
+Torm – Lawful Good god of courage and self-sacrifice (War)
+Tymora – Chaotic Good goddess of luck (Trickery)
+Tyr – Lawful Good god of justice (War, Order)
+Umberlee – Chaotic Evil goddess of the sea
+Waukeen – Neutral goddess of trade
+
+**Greyhawk**
+Beory – Neutral goddess of nature
+Boccob – Neutral god of magic
+Celestian – Neutral god of stars and wanderers
+Ehlonna – Neutral Good goddess of woodlands
+Erythnul – Chaotic Evil god of envy and slaughter
+Fharlanghn – Neutral Good god horizons and travel
+Heironeous – Lawful Good god of chivalry and valor
+Hextor – Lawful Evil god of war and discord
+Kord – Chaotic Good god of athletics and sport
+Incabulos – Neutral Evil god of plague and famine
+Istus – Neutral goddess of fate and destiny
+Iuz – Chaotic Evil god of pain and oppression
+Nerull – Neutral Evil god of death
+Obad-Hai – Neutral god of nature
+Olidammara – Chaotic Neutral god of revelry
+Pelor – Neutral Good god of the sun and healing
+Pholtus – Lawful Good god of light and law
+Ralishaz – Chaotic Neutral god of ill luck and insanity
+Rao – Lawful Good god of peace and reason
+St. Cuthbert – Lawful Neutral god of common sense and zeal
+Tharizdun – Chaotic Evil god of eternal darkness
+Trithereon – Chaotic Good god of liberty and retribution
+Ulaa – Lawful Good goddess of hills and mountains
+Vecna – Neutral Evil god of evil secrets
+Wee Jas – Lawful Neutral goddess of magic and death
+
+**Eberron**
+Arawai – Neutral Good goddess of fertility
+Aureon – Lawful Neutral god of law and knowledge
+Balinor – Neutral god of beasts and the hunt
+Boldrei – Lawful Good goddess of community and home
+Dol Arrah – Lawful Good goddess of sunlight and honor
+Dol Dorn – Chaotic Good god of strength at arms
+Kol Korran – Neutral god of trade and wealth
+Ollandra – Neutral Good goddess of good fortune
+Onatar – Neutral Good god of craft
+The Devourer – Neutral Evil god of nature’s wrath
+The Fury – Neutral Evil goddess of wrath and madness
+The Keeper – Neutral Evil god of greed and death
+The Mockery – Neutral Evil god of violence and treachery
+The Shadow – Chaotic Evil god of dark magic
+The Traveler – Chaotic Neutral deity of chaos and change
+The Silver Flame – Lawful Good deity of protection and good
+The Blood of Vol – Lawful Neutral philosophy of immortality and undeath
+Cults of the Dragon Below – Neutral Evil deities of madness
+The Path of Light – Lawful Neutral philosophy of light and self-improvement
+The Undying Court – Neutral Good elven ancestors
+The Spirits of the Past – Chaotic Good elven ancestors
+Bahamut – Lawful Good dragon god of good
+Blibdoolpoolp – Neutral Evil kuo-toa goddess
+Corellon Larethian – Chaotic Good elf deity of art and magic
+Deep Sashelas – Chaotic Good elf god of the sea
+Eadro – Neutral merfolk deity of the sea
+Garl Glittergold – Lawful Good gnome god of trickery and wiles
+Grolantor – Chaotic Evil hill giant god of war
+Gruumsh – Chaotic Evil orc god of storms and war
+Hruggek – Chaotic Evil bugbear god of violence
+Kutrulmak – Lawful Evil god of war and mining
+Laogzed – Chaotic Evil troglodyte god of hunger
+Lolth – Chaotic Evil goddess of spiders
+Maglubiyet – Lawful Evil goblinoid god of war
+Moradin – Lawful Good dwarf god of creation
+Rilifane Rallathil – Chaotic Good wood elf god of nature
+Sehanine Moonbow – Chaotic Good elf goddess of the moon
+Sekolah – Lawful Evil sahuagin god of the hunt
+Semuanya – Neutral lizardfolk deity of survival
+Skerrit – Neutral centaur and satyr god of nature
+Skoraeus Stonebones – god of stone giants and art
+Surtur – Lawful Evil god of fire giants and craft
+Thrym – Chaotic Evil god of frost giants and strength
+Tiamat – Lawful Evil goddess of evil
+Yondalla – Lawful Good halfling goddess of fertility and protection
+

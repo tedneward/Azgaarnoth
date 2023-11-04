@@ -165,10 +165,8 @@ Gifted with druidic magic, a grung wildling typically serves as an advisor, a he
 >
 >***Spellcasting.*** The grung casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 12):
 >
->At will: druidcraft
->
->3/day each: cure wounds, spike growth
->
->2/day: plant growth
+>* At will: druidcraft
+>* 3/day each: cure wounds, spike growth
+>* 2/day: plant growth
 >
 

@@ -6,11 +6,4 @@ ___
 - **Components:** V
 - **Duration:** Intantaneous
 ---
-A hemisphere of extraplanar chaos expands around
-you, deflecting incoming missiles or making you a
-bigger target. You and every creature within range
-of you that is not behind total cover must roll a d20.
-The creature that rolls the lowest number becomes
-the target of the triggering attack. The attack roll is
-compared to the creature's Armor Class normally to
-determine if the attack hits.
+A hemisphere of extraplanar chaos expands around you, deflecting incoming missiles or making you a bigger target. You and every creature within range of you that is not behind total cover must roll a d20. The creature that rolls the lowest number becomes the target of the triggering attack. The attack roll is compared to the creature's Armor Class normally to determine if the attack hits.

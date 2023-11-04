@@ -1,49 +1,7 @@
 # Wolves
 Primal and often savage cousins of the [Dog](Dogs.md), wolves often run in packs, and will demonstrate a fearsome loyalty to their packmates.
 
-> Jump to: [Dire Wolf](Wolves.md#dire-wolf) | [Wolf](Wolves.md#wolf) | [Winter Wolf](Wolves.md#winter-wolf) | [Worg](Wolves.md#worg)
-
----
-
-## Dire Wolf
-The dire wolf is a larger, more savage variant of the wolf. They retain their pack mentality and loyalty, but are often sought as guards, or mounts to Tiny or Small creatures.
-
-### Environment
-Forest, Hill
-
-### Token
-![](DireWolf-Token.png)
-
->### Dire Wolf
->*Large beast, unaligned*
->___
->- **Armor Class** 14 (natural armor)
->- **Hit Points** 37 (5d10 + 10)
->- **Speed** 50 ft.
->___
->|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|17 (+3)|15 (+2)|15 (+2)|3 (-4)|12 (+1)|7 (-2)|
->
->___
->- **Proficiency Bonus** +2
->- **Saving Throws** 
->- **Damage Vulnerabilities** 
->- **Damage Resistances** 
->- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** Perception +3,Stealth +4
->- **Senses** passive Perception 13
->- **Languages** —
->- **Challenge** 1
->___
->***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
->
->***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
->
->#### Actions
->***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
->
+> Jump to: [Wolf](Wolves.md#wolf) | [Greater Wolf](Wolves.md#greater-wolf) | [Dire Wolf](Wolves.md#dire-wolf) | [Winter Wolf](Wolves.md#winter-wolf) | [Worg](Wolves.md#worg)
 
 ---
 
@@ -85,6 +43,84 @@ Forest, Hill, Grassland, Mountain
 >
 >#### Actions
 >***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+>
+
+---
+
+## Greater Wolf
+In the roughest and most remote terrain dwell massive gray wolves, evolved descendants of fearsome prehistoric canines. Pelts of greater wolves are exceptionally tough and prized for hide armor. Hunting a solitary greater wolf is considered the ultimate test of manhood in many rustic warrior cultures.
+
+>### Greater Wolf
+>*Large beast, unaligned*
+>___
+>- **Armor Class** 15 (natural armor)
+>- **Hit Points** 68 (8d10 + 24 )
+>- **Speed** 50 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|20 (+5)|15 (+2)|17 (+3)|3 (-4)|12 (+1)|8 (-1)|
+>
+>___
+>- **Proficiency Bonus** +0
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +3,Stealth +4
+>- **Senses** passive Perception 13
+>- **Languages** --
+>- **Challenge** 
+>___
+>***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing/smell.
+>
+>***Pack Tactics.*** The wolf has advantage on an attack roll against a creature  if at least one of the wolf's  allies is within 5 feet of the creature and the ally isn't incapacitated.
+>
+>#### Actions
+>***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage. If the target is a creature of Medium size or below, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+>
+
+---
+
+## Dire Wolf
+The dire wolf is a larger, more savage variant of the wolf. They retain their pack mentality and loyalty, but are often sought as guards, or mounts to Tiny or Small creatures.
+
+### Environment
+Forest, Hill
+
+### Token
+![](DireWolf-Token.png)
+
+>### Dire Wolf
+>*Large beast, unaligned*
+>___
+>- **Armor Class** 14 (natural armor)
+>- **Hit Points** 37 (5d10 + 10)
+>- **Speed** 50 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|17 (+3)|15 (+2)|15 (+2)|3 (-4)|12 (+1)|7 (-2)|
+>
+>___
+>- **Proficiency Bonus** +2
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +3,Stealth +4
+>- **Senses** passive Perception 13
+>- **Languages** —
+>- **Challenge** 1
+>___
+>***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+>
+>***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>
+>#### Actions
+>***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 >
 
 ---

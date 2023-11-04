@@ -5,12 +5,12 @@ After examining a child that will not wake, a wizened dwarf leans back in his ch
 
 Roaring the name of an ancient warrior, a female halforc charges forward, swinging a mace that glows with an eerie, spectral light.
 
-Shamans serve as intermediaries between the mortal world and the realms of spirits, called by the spirits to speak for them among mortals. These spirits come in a variety of forms, ranging from elemental nature spirits to the souls of fallen ancestors, and often take on animalistic shapes. While most shamans revere the spirits for which they speak, they rarely worship them outright. More often, a shaman negotiates with the spirits, being granted power both as a means to fulfill the spirits’ needs and as a reward for doing so.
+Shamans serve as intermediaries between the mortal world and the realms of spirits, called by the spirits to speak for them among mortals. These spirits come in a variety of forms, ranging from elemental nature spirits to the souls of fallen ancestors, and often take on animalistic shapes. While most shamans revere the spirits for which they speak, they rarely worship them outright. More often, a shaman negotiates with the spirits, being granted power both as a means to fulfill the spirits' needs and as a reward for doing so.
 
 Shamans are often the connection to the spirit realm for those who eschew or ignore the divine; as such, shamans are frequently found in [Yithi](../../Nations/Yithi.md) and [Zhi](../../Nations/Zhi.md), including on the Council of Seers. The spirit world also seems to prefer those who live away from urban environments, such as in [North Bedia](../../Nations/Bedia.md) or in the [Ravenslands](/Geography/Ravenlands.md), but shamans have been called from within the slums of [Mighal](/Cities/Mighal.md), so clearly civilization is no barrier to the spirits. Many of the [*al'maera*](/Geography/AlUma.md) find themselves called as Speakers of Winds or Waters
 
 ## Speakers for Spirits
-Though a shaman usually awakens in response to a specific spirit’s call, she is thereafter bound to the type of spirit that called her, not the individual spirit itself. As such, relationships between a shaman and the various spirits she encounters tend to be less absolute in their tone than that between a cleric and his god or a warlock and his patron. A shaman traveling to a new land must acquaint herself with entirely new spirits and persuade them to grant her some of their power. While holding to the spirits’ obeisances is the easiest way to make these negotiations run smoothly, some spirits may require that a shaman perform some task with the power that they provide.
+Though a shaman usually awakens in response to a specific spirit's call, she is thereafter bound to the type of spirit that called her, not the individual spirit itself. As such, relationships between a shaman and the various spirits she encounters tend to be less absolute in their tone than that between a cleric and his god or a warlock and his patron. A shaman traveling to a new land must acquaint herself with entirely new spirits and persuade them to grant her some of their power. While holding to the spirits' obeisances is the easiest way to make these negotiations run smoothly, some spirits may require that a shaman perform some task with the power that they provide.
 
 The powers bestowed upon a shaman by the spirits can range from minor alterations to her being (such as an extended lifespan or ability to understand languages) to ancient, powerful forms of magic. Some shamans are gifted with spiritual strength that allows them to fight as warriors of the spirits for which they speak, while others gain insight into the future and hidden truths of the world. While many of the spells available to a shaman are determined by her calling, all shamans share an understanding of certain forms of natural magic.
 
@@ -21,14 +21,14 @@ While a paladin or warlock makes a conscious decision to swear himself to greate
 
 Every shaman experiences the call differently. One might suddenly possess memories of people and events long since past, or begin to hear voices in the wind. The shaman may find herself speaking with bizarre creatures in her dreams, or suddenly understanding the leaps and crackles of flames as though they were a language of their own. Initially, the signs of the call are subtle, growing stronger as time passes until the shaman finally makes contact with the spirits that have called her and agrees to speak for them.
 
-Once a shaman has answered the call, she is forever marked as a speaker of the type of spirit that called her, and can call upon and be called by any such spirits. While the individual spirit that first issued the call may have a specific task in mind for the shaman, she is under no obligation to serve that spirit’s interests, and can negotiate her terms or seek other spirits of the same type to grant her power. Deals between spirits and shamans are most often temporary arrangements, though shamans that are attached to a single location will often negotiate with the local spirits to receive power constantly in exchange for regular service. Many shamans, however, feel more loyalty to the type of spirit they speak for than any individual spirit, and may wander in search of spirits that need their aid. Others may find themselves sent to strange lands on quests given to them by spirits with unusual needs. Spirits will usually grant power to these wandering shamans even if they do not currently require a speaker, understanding that they may someday have to rely on the good will of a wanderer.
+Once a shaman has answered the call, she is forever marked as a speaker of the type of spirit that called her, and can call upon and be called by any such spirits. While the individual spirit that first issued the call may have a specific task in mind for the shaman, she is under no obligation to serve that spirit's interests, and can negotiate her terms or seek other spirits of the same type to grant her power. Deals between spirits and shamans are most often temporary arrangements, though shamans that are attached to a single location will often negotiate with the local spirits to receive power constantly in exchange for regular service. Many shamans, however, feel more loyalty to the type of spirit they speak for than any individual spirit, and may wander in search of spirits that need their aid. Others may find themselves sent to strange lands on quests given to them by spirits with unusual needs. Spirits will usually grant power to these wandering shamans even if they do not currently require a speaker, understanding that they may someday have to rely on the good will of a wanderer.
 
 ## Creating a Shaman
 As you create a shaman, the most important question to consider is the type of spirit to which your character is called and which of the obeisances your character is closest to. You should also think about where your character comes from and his or her place in the world. Did you come from a land where shamanic ways are common, perhaps receiving training from an elder shaman? Or were you raised in a region that had forgotten the ways of shamanism, making you an oddity in the area of the campaign? Do you take your spiritual responsibilities seriously, viewing your interactions with the spirit and mortal worlds as an important part of who you are? Or do you consider spirits to be little more than a convenient avenue to power?
 
 How did you experience your call to serve as a shaman? Did you suffer a traumatic event, after which the fire spoke to you of its healing power? Did another shaman help you interpret the visions that you had been having and decide to train you? Or did you simply gain a slow understanding of the world around you, culminating in the realization that every part of the world had a spirit, and that you could commune with them? 
 
-Once you’ve chosen a calling and settled on the experience of being called, consider your shaman’s relationship to the spirits she speaks for and work with your DM to determine how big a part your calling will play in your adventuring career. The requests of the spirits you encounter might drive you into adventures, or they might consist entirely of small favors you can do between adventures. Since you will probably deal with a multitude of different spirits in the course of your adventures, it may well be the case that some spirits will ask only minor tasks of you, while others may send you on larger quests.
+Once you've chosen a calling and settled on the experience of being called, consider your shaman's relationship to the spirits she speaks for and work with your DM to determine how big a part your calling will play in your adventuring career. The requests of the spirits you encounter might drive you into adventures, or they might consist entirely of small favors you can do between adventures. Since you will probably deal with a multitude of different spirits in the course of your adventures, it may well be the case that some spirits will ask only minor tasks of you, while others may send you on larger quests.
 
 ### Quick Build
 You can make a shaman quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the [outlander background](/Cultures/Backgrounds.md).
@@ -37,26 +37,26 @@ You can make a shaman quickly by following these suggestions. First, Charisma sh
 
 Level|Proficiency Bonus|Features|Cantrips Known|Spirit Points|Maximum Spell Level|Invocations Known
 -----|-----------------|--------|--------------|-------------|-------------------|-----------------
-1st  |+2|Shamanic Calling, Spirit Magic|1|1|1st|—
-2nd  |+2|Shamanic Invocations|1|2|1st|1
-3rd  |+2|Spiritual Gift|1|3|2nd|1
-4th  |+2|Ability Score Improvement|2|4|2nd|1
-5th  |+3|—|2|5|3rd|2
-6th  |+3|Shamanic Calling feature|2|6|3rd|2
-7th  |+3|—|2|7|4th|3
-8th  |+3|Ability Score Improvement|2|8|4th|3
-9th  |+4|—|2|9|5th|4
-10th |+4|Shamanic Calling feature|3|10|5th|4
-11th |+4|Hidden Lore (6th level)|3|11|5th|4
-12th |+4|Ability Score Improvement|3|12|5th|5
-13th |+5|Hidden Lore (7th level)|3|13|5th|5
-14th |+5|Shamanic Calling feature|3|14|5th|5
-15th |+5|Hidden Lore (8th level)|3|15|5th|6
-16th |+5|Ability Score Improvement|3|16|5th|6
-17th |+6|Hidden Lore (9th level)|3|17|5th|6
-18th |+6|Timeless Body|3|18|5th|7
-19th |+6|Ability Score Improvement|3|19|5th|7
-20th |+6|Spiritual Master|3|20|5th|7
+1st  |+2|[Shamanic Calling](#shamanic-calling), [Spirit Magic](#spirit-magic)|1|1|1st|--
+2nd  |+2|[Shamanic Invocations](#shamanic-invocations)|1|2|1st|1
+3rd  |+2|[Spiritual Gift](#spiritual-gift)|1|3|2nd|1
+4th  |+2|[Ability Score Improvement](#ability-score-improvement)|2|4|2nd|1
+5th  |+3|--|2|5|3rd|2
+6th  |+3|[Shamanic Calling feature](#shamanic-calling)|2|6|3rd|2
+7th  |+3|--|2|7|4th|3
+8th  |+3|[Ability Score Improvement](#ability-score-improvement)|2|8|4th|3
+9th  |+4|--|2|9|5th|4
+10th |+4|[Shamanic Calling feature](#shamanic-calling)|3|10|5th|4
+11th |+4|[Hidden Lore](#hidden-lore) (6th level)|3|11|5th|4
+12th |+4|[Ability Score Improvement](#ability-score-improvement)|3|12|5th|5
+13th |+5|[Hidden Lore](#hidden-lore) (7th level)|3|13|5th|5
+14th |+5|[Shamanic Calling feature](#shamanic-calling)|3|14|5th|5
+15th |+5|[Hidden Lore](#hidden-lore) (8th level)|3|15|5th|6
+16th |+5|[Ability Score Improvement](#ability-score-improvement)|3|16|5th|6
+17th |+6|[Hidden Lore](#hidden-lore) (9th level)|3|17|5th|6
+18th |+6|[Timeless Body](#timeless-body)|3|18|5th|7
+19th |+6|[Ability Score Improvement](#ability-score-improvement)|3|19|5th|7
+20th |+6|[Spiritual Master](#spiritual-master)|3|20|5th|7
 
 ## Class Features
 As a shaman, you gain the following class features.
@@ -84,7 +84,7 @@ Survival
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) a wooden shield or (b) any simple weapon
 * (a) a scimitar or (b) any simple melee weapon
-* Leather armor, an explorer’s pack, and a shamanic focus
+* Leather armor, an explorer's pack, and a shamanic focus
 
 ## Shamanic Calling
 *1st-level shaman feature*
@@ -95,19 +95,19 @@ The spirits that call shamans are not extraplanar beings, but local, worldly spi
 
 All spirits, even those that commune with shamans of the same calling, are very different beings, and a shaman will encounter a variety of different attitudes as she pursues her calling. Shamans of the same calling may bring news to one another of particularly notable spirits, or may issue warnings against dealing with more capricious or malicious ones.
 
-Some shamans prefer to commune with and draw power from a specific spirit or group of spirits, rather than calling upon local spirits. By carrying a talisman or token from a spirit—a branch burned by the flames of a specific fire spirit, the bone from the body of a specific ancestral spirit’s body, and so on—a shaman can commune with that spirit from a distance, allowing her to call upon its power even in strange lands.
+Some shamans prefer to commune with and draw power from a specific spirit or group of spirits, rather than calling upon local spirits. By carrying a talisman or token from a spirit--a branch burned by the flames of a specific fire spirit, the bone from the body of a specific ancestral spirit's body, and so on--a shaman can commune with that spirit from a distance, allowing her to call upon its power even in strange lands.
 
 ### Obeisance
-Every shamanic calling has several obeisances through which a shaman can honor the spirits for which she speaks. A shaman who has heard the call of the spirits usually already displays the values associated with at least one of that calling’s obeisances, or else has some hidden potential that the spirits are aware of.
+Every shamanic calling has several obeisances through which a shaman can honor the spirits for which she speaks. A shaman who has heard the call of the spirits usually already displays the values associated with at least one of that calling's obeisances, or else has some hidden potential that the spirits are aware of.
 
-While spirits can be fickle, they are rarely strict. A shaman need not act in accordance with all of the obeisances of her calling in order to call upon the spirits. Many shamans only display the values of one or two of their calling’s obeisances. However, a shaman whose actions and values stand in opposition to all of the obeisances of her calling may encounter difficulties in dealing with the spirits.
+While spirits can be fickle, they are rarely strict. A shaman need not act in accordance with all of the obeisances of her calling in order to call upon the spirits. Many shamans only display the values of one or two of their calling's obeisances. However, a shaman whose actions and values stand in opposition to all of the obeisances of her calling may encounter difficulties in dealing with the spirits.
 
-A shaman who stands against obeisance might have to spend a full night in communion with local spirits to gain their trust, or she might go on a vision quest, led by the spirits, in order to gain understanding of one of her calling’s obeisances and accept it as a part of her. However, a shaman who stands against obeisance and, for whatever reason, does not want to work to gain the trust of spirits or accept one of her obeisances can also search for another option. As all spirits are different individuals, it is possible to find a spirit that does not adhere to the standards of the rest of its kind and does not require the usual obeisance. By carrying a talisman or token of such a spirit, a shaman that stands against obeisance can continue to wield spiritual power.
+A shaman who stands against obeisance might have to spend a full night in communion with local spirits to gain their trust, or she might go on a vision quest, led by the spirits, in order to gain understanding of one of her calling's obeisances and accept it as a part of her. However, a shaman who stands against obeisance and, for whatever reason, does not want to work to gain the trust of spirits or accept one of her obeisances can also search for another option. As all spirits are different individuals, it is possible to find a spirit that does not adhere to the standards of the rest of its kind and does not require the usual obeisance. By carrying a talisman or token of such a spirit, a shaman that stands against obeisance can continue to wield spiritual power.
 
 ### Calling Spells
-Each shamanic calling has a list of spells--its calling spells--that you gain at the shaman levels noted in the calling description. Once you gain a calling spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day.
+Each shamanic calling has a list of spells--its calling spells--that you gain at the shaman levels noted in the calling description. Once you gain a calling spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
 
-If you have a calling spell that doesn’t appear on the shaman spell list, the spell is nonetheless a shaman spell for you.
+If you have a calling spell that doesn't appear on the shaman spell list, the spell is nonetheless a shaman spell for you.
 
 ## Spirit Magic
 *1st-level shaman feature*
@@ -118,7 +118,7 @@ Drawing on the power of spirits, as directed by your calling, you can cast spell
 You know one cantrip of your choice from the shaman spell list. You learn additional shaman cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Shaman table.
 
 ### Spirit Points
-Rather than spell slots, you use spirit points to cast your spells. These points represent your reservoir of spiritual energy. The Shaman table shows how many spirit points you have. To cast one of your shaman spells of 1st level or higher, you must expend a number of spirit points equal to the level of the spell that you are casting. You can increase a spell’s level in this way, but cannot exceed the level shown in the Maximum Spell Level column of the Shaman table. You regain all expended spirit points when you finish a short or long rest.
+Rather than spell slots, you use spirit points to cast your spells. These points represent your reservoir of spiritual energy. The Shaman table shows how many spirit points you have. To cast one of your shaman spells of 1st level or higher, you must expend a number of spirit points equal to the level of the spell that you are casting. You can increase a spell's level in this way, but cannot exceed the level shown in the Maximum Spell Level column of the Shaman table. You regain all expended spirit points when you finish a short or long rest.
 
 For example, when you are 5th level, you have 5 spirit points. You can cast one 3rd-level spell and one 2ndlevel spell, two 2nd-level spells and one 1st-level spell, five 1st-level spells, and so on.
 
@@ -270,7 +270,7 @@ You can use a spiritual totem as a spellcasting focus for your shaman spells.
 ## Shamanic Invocations
 *2nd-level shaman feature*
 
-In your dealings with spirits, you have been granted [shamanic invocations](/Classes/Shaman/Invocations.md), fragments of ancient knowledge that imbue you with powerful abilities and magic. 
+In your dealings with spirits, you have been granted [shamanic invocations](Invocations.md), fragments of ancient knowledge that imbue you with powerful abilities and magic. 
 
 At 2nd level, you gain one shamanic invocation of your choice. When you gain certain shaman levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Shaman table.
 
@@ -292,7 +292,7 @@ When you finish a long rest, roll two d20s and record the numbers rolled. You ca
 Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.
 
 ## Ability Score Improvement
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 ## Hidden Lore
 At 11th level, the spirits bestow upon you a piece of hidden lore. Choose one 6th-level spell from the shaman spell list as this hidden lore. You can cast your hidden lore spell once without expending spirit points. You must finish a long rest before you can do so again.
@@ -305,4 +305,4 @@ Starting at 18th level, the primal magic that you wield causes you to age more s
 ## Spiritual Master
 At 20th level, you can entreat nearby spirits to aid you in dire circumstances as an action, calling upon them to grant you access to all the magic available to a shaman. For 1 minute, you can cast any spell of 5th level or lower from the shaman spell list as if you had prepared it.
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can't use it again until you finish a long rest.

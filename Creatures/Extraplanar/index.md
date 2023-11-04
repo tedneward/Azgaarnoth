@@ -1,31 +1,5 @@
 # Extraplanar creatures
-
-```
-WARNING: Air Elemental lacking ProfBonus; CR = 5; setting to +3
-WARNING: Earth Elemental lacking ProfBonus; CR = 5; setting to +3
-WARNING: Fire Elemental lacking ProfBonus; CR = 5; setting to +3
-WARNING: Galeb Duhr lacking ProfBonus; CR = 6; setting to +3
-WARNING: Water Weird lacking ProfBonus; CR = 3; setting to +2
-WARNING: Empyrean lacking ProfBonus; CR = 23; setting to +7
-WARNING: Dao lacking ProfBonus; CR = 11; setting to +4
-WARNING: Djinni lacking ProfBonus; CR = 11; setting to +4
-WARNING: Efreeti lacking ProfBonus; CR = 11; setting to +4
-WARNING: Marid lacking ProfBonus; CR = 11; setting to +4
-WARNING: Nightmare lacking ProfBonus; CR = 3; setting to +2
-WARNING: Slaad Tadpole lacking ProfBonus; CR = 1/8; setting to +2
-WARNING: Red Slaad lacking ProfBonus; CR = 5; setting to +3
-WARNING: Blue Slaad lacking ProfBonus; CR = 7; setting to +3
-WARNING: Green Slaad lacking ProfBonus; CR = 8; setting to +3
-WARNING: Gray Slaad lacking ProfBonus; CR = 9; setting to +4
-WARNING: Death Slaad lacking ProfBonus; CR = 10; setting to +4
-WARNING: White Slaad lacking ProfBonus; CR = 21; setting to +7
-WARNING: Black Slaad lacking ProfBonus; CR = 29; setting to +9
-WARNING: Succubus lacking ProfBonus; CR = 4; setting to +2
-WARNING: Arcanaloth lacking ProfBonus; CR = 12; setting to +4
-WARNING: Mezzoloth lacking ProfBonus; CR = 5; setting to +3
-WARNING: Nycaloth lacking ProfBonus; CR = 9; setting to +4
-WARNING: Ultroloth lacking ProfBonus; CR = 13; setting to +5
-```
+Extraplanar creatures are those that commonly habitate (or are constrained to) planes of existence other than the Material Plane. This includes a range of creatures and alignments; although technically demons and devils both should appear here, there's so many of them (and so much lore and text that's specific to them) that it makes it easier to break them out into their own categories.
 
 ---
 

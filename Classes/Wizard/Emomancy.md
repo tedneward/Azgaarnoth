@@ -1,17 +1,17 @@
 # Arcane Tradition: Emomancy
 Practitioners of emomancy often term themselves as emomantics rather than emomancers and specialize in the subtle magic of emotions. 
 
-Emomantics generally eschew the clumsy “brute force” charms and dominations in favor of delicately manipulating the existing emotions of creatures. While most emomantics prefer to focus on enhancing positive emotions, all see value in pacifying destructive urges inherent in passionate beings.
+Emomantics generally eschew the clumsy "brute force" charms and dominations in favor of delicately manipulating the existing emotions of creatures. While most emomantics prefer to focus on enhancing positive emotions, all see value in pacifying destructive urges inherent in passionate beings.
 
 Like [enchanters](Enchantment.md), emomantics are often deeply distrusted by all walks of life, and in [Travenia](../../Nations/Travenia.md) the practice of emomancy is openly banned. Despite the open hostility to emomancy, the tradition carries on, which suggests that emomantic masters are far more subtle than most believe--or they have clandestine support from various quarters.
 
 ## Bonus Proficiencies
-Starting at 2nd level, you gain proficiency with the Insight skill if you don’t already have it, and your proficiency bonus is doubled for any ability check you make when using this skill.
+Starting at 2nd level, you gain proficiency with the Insight skill if you don't already have it, and your proficiency bonus is doubled for any ability check you make when using this skill.
 
 ## Sense Emotions
 Beginning at 2nd level, as an action, you can sense strong or extreme emotions in a radius of 20 feet of you.
 
-Until the end of your next turn, you know the emotional state of all creatures within the radius. Anger, anguish, contentment, envy, fear, hate, joy, longing, and love are common, but at the DM’s discretion, more subtle variations may be perceived if strong enough. This ability senses only strong emotions, so only the most overwhelming emotional states can be sensed.
+Until the end of your next turn, you know the emotional state of all creatures within the radius. Anger, anguish, contentment, envy, fear, hate, joy, longing, and love are common, but at the DM's discretion, more subtle variations may be perceived if strong enough. This ability senses only strong emotions, so only the most overwhelming emotional states can be sensed.
 
 You can use this feature a number of times equal to 1 + your Intelligence modifier (minimum of once), regaining all expended uses when you finish a long rest.
 

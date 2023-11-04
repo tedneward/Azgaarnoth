@@ -137,8 +137,52 @@ Mountain, Hill, Underdark
 
 ---
 
+## Greater Cave Bear
+Bulkier than even the greatest polar bear, greater cave bears are evolved descendants of fearsome prehistoric bears. They are stout-faced with massive jaws and long limbs. Greater cave bears are some of the largest and strongest land predators among beasts of nature.
+
+### Environment
+Forest, Hill, Mountain, Underdark
+
+### Token
+![](GreaterCaveBear-Token.png)
+
+>### Greater Cave Bear
+>*Large beast, unaligned*
+>___
+>- **Armor Class** 14 (natural armor)
+>- **Hit Points** 95 (10d10 + 40)
+>- **Speed** 40 ft., swim 3 0 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|22 (+6)|10 (+0)|18 (+4)|2 (-4)|13 (+1)|8 (-1)|
+>
+>___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +4
+>- **Senses** darkvision 60 ft.,passive Perception 14
+>- **Languages** --
+>- **Challenge** 6
+>___
+>***Keen Smell.*** The bear has advantage on Wisdom (Perception) checks that rely on smell.
+>
+>#### Actions
+>***Multiattack.*** The bear makes two attacks: one with its bite and one with its claws.
+>
+>***Bite.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 15 (2 d8 + 6) piercing damage.
+>
+>***Claws.*** Melee Weapon Attack: +9 to hit, reac h 10 ft., one target. Hit: 16 (3d6 + 6 ) slashing damage.
+>
+
+---
+
 ## Polar Bear
-(No description given)
+Ranging in bitterly-cold climates, polar bears often operate in small packs of family units, where cubs will be sheltered, fed, and taught to hunt by paired-off polar bear parents. When the cubs are old enough to hunt on their own, the unit breaks up and the bears hunt alone until mating season.
 
 ### Environment
 Arctic

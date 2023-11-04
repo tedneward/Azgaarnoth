@@ -7,8 +7,8 @@ The power of shadow magic casts a strange pall over your physical presence. The 
 d6|Quirk
 --|-----
 1|You are always icy cold to the touch.
-2|When you are asleep, you don’t appear to breathe (though you must still breathe to survive).
-3|You don’t seem to bleed, even when badly injured.
+2|When you are asleep, you don't appear to breathe (though you must still breathe to survive).
+3|You don't seem to bleed, even when badly injured.
 4|Your heart beats once per minute (though you still need it to survive). This event sometimes surprises you.
 5|You have trouble remembering that living creatures and corpses should be treated differently.
 6|You blinked. Once. Last week.
@@ -20,11 +20,11 @@ From 1st level, you have darkvision with a range of 60 feet. You can cast darkne
 Starting at 1st level, your existence in a twilight state between life and death makes you difficult to defeat. Whenever damage reduces you to 0 hit points, you can make a Constitution saving throw (DC 5 + the damage taken). On a success, you instead drop to 1 hit point. You cannot use this feature if you are reduced to 0 hit points by radiant damage or by a critical hit.
 
 ## Hound of Ill Omen
-At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to summon a hound of ill omen to target one creature you can see. The hound uses a dire wolf’s statistics with the following changes:
+At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to summon a hound of ill omen to target one creature you can see. The hound uses a dire wolf's statistics with the following changes:
 * The hound is size Medium.
 * It can move through other creatures and objects
 as if they were difficult terrain. The hound takes 5 force damage if it ends its turn inside an object.
-* At the start of its turn, the hound automatically knows its target’s location. If the target was hidden, it is no longer hidden from the hound.
+* At the start of its turn, the hound automatically knows its target's location. If the target was hidden, it is no longer hidden from the hound.
 
 The hound appears in an unoccupied space of your choice within 30 feet of the target. Roll initiative for the hound. On its turn, it can move only toward its target by the most direct route, and it can use its action only to attack its target. The hound makes opportunity attacks, but only against its target. Additionally, the target has disadvantage on all saving throws against your spells while the hound is within 5 feet of it. The hound disappears if it is reduced to 0 hit points, if its target is reduced to 0 hit points, or after 5 minutes.
 

@@ -1,6 +1,12 @@
 # Half-Ogres
 Few [half-ogres](../Creatures/Ogres.md#half-ogre) have a happy origin story, though there are those tales of the smooth-talking swashbuckler and the female ogre that loved him. More commonly, ogres find mates among orcs (whose offspring are called ogrillons), particularly among the Hordes; when the ogrillon cannot find a home among either the orc tribe or among ogres, the ogrillon often journeys out into the world to find its desinty.
 
+```
+name = 'Half-Ogre'
+description = "***Race: Half-Ogre.*** "
+type = 'humanoid'
+```
+
 * **Ability Score Increase.** Your Strength score increases by 4, your Constitution score increases by 1, and your Intelligence decreases by 2.
 
 * **Age.** Half-ogres mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.
@@ -16,3 +22,20 @@ Few [half-ogres](../Creatures/Ogres.md#half-ogre) have a happy origin story, tho
 * **Menacing.** You gain proficiency in the Intimidation skill.
 
 * **Languages.** You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.
+
+```
+def level0(npc):
+    npc.STR += 4
+    npc.CON += 1
+    npc.INT -= 2
+
+    npc.size = 'Large'
+    npc.speed['walking'] = 30
+
+    npc.senses['darkvision'] = 30
+
+    npc.skills.append('Intimidation')
+
+    npc.languages.append('Common')
+    npc.languages.append('Orcish')
+```

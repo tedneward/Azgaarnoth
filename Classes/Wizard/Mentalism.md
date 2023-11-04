@@ -7,7 +7,7 @@ This tradition emerged out of the study of the [Mind Mage](../../Organizations/M
 At 2nd level, any spell that deals psychic damage is added to your spell list, and the gold and time you must spend to copy a spell that deals psychic damage into your spellbook is halved. Additionally, you know the [vicious mockery]() cantrip.
 
 ## Tendrils of Doubt
-Starting at 2nd level, you’ve learned how to plant seeds of doubt into the minds of your enemies. When you deal psychic damage to a creature, they have disadvantage on attack rolls against you and one other creature of your choice that you can see, until the start of your next turn.
+Starting at 2nd level, you've learned how to plant seeds of doubt into the minds of your enemies. When you deal psychic damage to a creature, they have disadvantage on attack rolls against you and one other creature of your choice that you can see, until the start of your next turn.
 
 ## Bond of the Mentalist
 Beginning at 6th level, you can communicate telepathically with any creature within 30 feet. The creature must be able to understand a language you can speak. The range of this ability increases by 30 feet at 11th level (total of 60 feet), and again at 17th level (total

@@ -119,7 +119,7 @@ The dragon can add double its proficiency bonus to Deception and Persuasion abil
 >|15 (+2)|12 (+1)|13 (+1)|14 (+2)|11 (+0)|13 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Dex +3,Con +3,Wis +2,Cha +3
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -154,7 +154,7 @@ The dragon can add double its proficiency bonus to Deception and Persuasion abil
 >|16 (+3)|12 (+1)|14 (+2)|15 (+2)|11 (+0)|13 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +2
 >- **Saving Throws** Dex +3,Con +4,Wis +2,Cha +3
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -189,7 +189,7 @@ The dragon can add double its proficiency bonus to Deception and Persuasion abil
 >|17 (+3)|12 (+1)|16 (+3)|15 (+2)|11 (+0)|14 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Dex +4,Con +6,Wis +3,Cha +5
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -224,7 +224,7 @@ The dragon can add double its proficiency bonus to Deception and Persuasion abil
 >|19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** Dex +4,Con +6,Wis +4,Cha +5
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -263,7 +263,7 @@ The dragon can add double its proficiency bonus to Deception and Persuasion abil
 >|20 (+5)|12 (+1)|18 (+4)|17 (+3)|13 (+1)|15 (+2)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Dex +5,Con +8,Wis +5,Cha +6
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -304,7 +304,7 @@ The dragon can add double its proficiency bonus to Deception and Persuasion abil
 >|21 (+5)|12 (+1)|19 (+4)|17 (+3)|13 (+1)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** Dex +6,Con +9,Wis +6,Cha +8
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -376,7 +376,7 @@ If the dragon dies, the rodents and birds lose their supernatural link to it. Th
 >|23 (+6)|12 (+1)|21 (+5)|18 (+4)|15 (+2)|17 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** Dex +6,Con +10,Wis +7,Cha +8
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -450,7 +450,7 @@ If the dragon dies, the rodents and birds lose their supernatural link to it. Th
 >|24 (+7)|12 (+1)|22 (+6)|19 (+4)|15 (+2)|17 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +6
 >- **Saving Throws** Dex +7,Con +12,Wis +8,Cha +9
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -524,7 +524,7 @@ If the dragon dies, the rodents and birds lose their supernatural link to it. Th
 >|25 (+7)|12 (+1)|23 (+6)|19 (+4)|15 (+2)|18 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +7
 >- **Saving Throws** Dex +7,Con +12,Wis +8,Cha +10
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -598,7 +598,7 @@ If the dragon dies, the rodents and birds lose their supernatural link to it. Th
 >|27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|19 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +7
 >- **Saving Throws** Dex +8,Con +14,Wis +10,Cha +11
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -674,7 +674,7 @@ If the dragon dies, the rodents and birds lose their supernatural link to it. Th
 >|28 (+9)|12 (+1)|26 (+8)|21 (+5)|17 (+3)|19 (+4)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +7
 >- **Saving Throws** Dex +8,Con +15,Wis +10,Cha +11
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -748,7 +748,7 @@ If the dragon dies, the rodents and birds lose their supernatural link to it. Th
 >|29 (+9)|12 (+1)|27 (+8)|22 (+6)|17 (+3)|20 (+5)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +8
 >- **Saving Throws** Dex +9,Con +16,Wis +11,Cha +13
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 

@@ -20,10 +20,10 @@ Spell Level|Spell
 ## Stone's Durability
 At 1st level, your connection to stone gives you extra fortitude. Your hit point maximum increases by 1, and it increases by 1 again whenever you gain a level in this class.
 
-As an action, you can gain a base AC of 13 + your Constitution modifier if you aren’t wearing armor, and your skin assumes a stony appearance. This effect lasts until you end it as a bonus action, you are incapacitated, or you don armor other than a shield.
+As an action, you can gain a base AC of 13 + your Constitution modifier if you aren't wearing armor, and your skin assumes a stony appearance. This effect lasts until you end it as a bonus action, you are incapacitated, or you don armor other than a shield.
 
 ## Stone Aegis
-Starting at 6th level, your command of earth magic grows stronger, allowing you to harness it for your allies’ protection.
+Starting at 6th level, your command of earth magic grows stronger, allowing you to harness it for your allies' protection.
 
 As a bonus action, you can grant an aegis to one allied creature you can see within 60 feet of you. The aegis is a dim, gray aura of earth magic that protects the target. Any bludgeoning, piercing, or slashing damage the target takes is reduced by 2 + your sorcerer level divided by 4. This effect lasts for 1 minute, until you use it again, or until you are incapacitated.
 
@@ -33,6 +33,6 @@ In addition, when a creature you can see within 60 feet of you hits the protecte
 Starting at 14th level, your mastery of earth magic allows you to add the force of elemental earth to your spells. When you cast a spell that deals damage, choose one creature damaged by that spell on the round you cast it. That creature takes extra force damage equal to half your sorcerer level. This feature can be used only once per casting of a spell.
 
 ## Earth Master's Aegis
-Beginning at 18th level, when you use your Stone’s Aegis to protect an ally, you can choose up to three creatures to gain its benefits.
+Beginning at 18th level, when you use your Stone's Aegis to protect an ally, you can choose up to three creatures to gain its benefits.
 
 *Source: [Unearthed Arcana: Sorcerer](https://dnd.wizards.com/articles/unearthed-arcana/sorcerer)*

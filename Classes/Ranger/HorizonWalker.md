@@ -2,7 +2,7 @@
 Rangers of the Horizon Conclave guard the world against threats that originate from other planes. They seek out planar portals and keep watch over them, venturing to the outer and inner planes as needed to defeat threats.
 
 ## Planar Magic
-Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a ranger spell for you, and it doesn’t count against the number of ranger spells you know.
+Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a ranger spell for you, and it doesn't count against the number of ranger spells you know.
 
 **Horizon Walker Spells**
 Ranger Level|Spells
@@ -21,14 +21,14 @@ As a bonus action, choose one creature you can see within 30 feet of you. Until 
 ## Portal Lore
 At 3rd level, you gain the ability to detect the presence of planar portals. As an action, you detect the distance and direction to any planar portals within 1,000 feet of you. You also sense which plane of existence each portal leads to.
 
-However, if magic obscures any details of a portal, this feature doesn’t reveal them. 
+However, if magic obscures any details of a portal, this feature doesn't reveal them. 
 
-Once you use this feature, you can’t use it again until you finish a short or long rest. Alternatively, you can use the feature again if you expend a spell slot of 2nd level or higher.
+Once you use this feature, you can't use it again until you finish a short or long rest. Alternatively, you can use the feature again if you expend a spell slot of 2nd level or higher.
 
-See the “Planar Travel” section in chapter 2 of the *Dungeon Master’s Guide* for examples of planar portals.
+See the "Planar Travel" section in chapter 2 of the *Dungeon Master's Guide* for examples of planar portals.
 
 ## Ethereal Step
-At 7th level, you learn to step through the Ethereal Plane. As a bonus action on your turn, you can cast the [etherealness]() spell with this feature, but the spell ends at the end of the current turn. Once you use this feature, you can’t use it again until you finish a short or long rest.
+At 7th level, you learn to step through the Ethereal Plane. As a bonus action on your turn, you can cast the [etherealness]() spell with this feature, but the spell ends at the end of the current turn. Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ## Distant Strike
 At 11th level, you gain the ability to step between the planes in a blink of an eye. When you use the Attack action, you can teleport up to 10 feet before each attack. You must be able to see the destination of the teleportation. 

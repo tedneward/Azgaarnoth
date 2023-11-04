@@ -4,7 +4,7 @@ You are a master of observation, intuition, and interrogation, equally at home h
 The most famous of the Justicars are the Marshals of [Yithi](../../Nations/Yithi.md). The success of that group has led several other nations to seek to follow in their example, with varying results.
 
 ## Justicar Magic
-Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Justicar Spells table. The spell counts as a ranger spell for you, but it doesn’t count against the number of ranger spells you know.
+Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Justicar Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
 
 **Justicar Spells**
 You gain these spells at the ranger levels listed:
@@ -20,7 +20,7 @@ When you choose this ranger archetype at 3rd level, you gain proficiency in the 
 In addition, whenever you fail an Intelligence (Investigation) or Wisdom (Insight) check, you can spend a ranger spell slot to reroll that check with advantage. You must use the second roll.
 
 ## Instant Deduction
-Also at 3rd level, you can focus your deductive powers on a single target, analyzing its weaknesses and gaining insights on how to defeat it. As a bonus action, you can force a creature you can see that isn’t incapacitated to make a Charisma saving throw against your ranger spell DC. The target has disadvantage on this saving throw if it is your favored enemy. If the target fails, once during each of your turns, you can roll 1d6 and add the result to one of the following rolls of your choice:
+Also at 3rd level, you can focus your deductive powers on a single target, analyzing its weaknesses and gaining insights on how to defeat it. As a bonus action, you can force a creature you can see that isn't incapacitated to make a Charisma saving throw against your ranger spell DC. The target has disadvantage on this saving throw if it is your favored enemy. If the target fails, once during each of your turns, you can roll 1d6 and add the result to one of the following rolls of your choice:
 * A damage roll for a weapon attack against the target
 * A Charisma check to influence the target
 * An Intelligence or Wisdom check to discern information about the target
@@ -37,10 +37,10 @@ In addition, when you use your Instant Deduction feature on a creature, you also
 * Total class levels (if any)
 * Levels in a particular class (if any)
 
-At the DM’s option, you might also deduce a fact about the creature’s history or one of its personality traits, if it has any.
+At the DM's option, you might also deduce a fact about the creature's history or one of its personality traits, if it has any.
 
 ## Twenty Moves Ahead
-At 11th level, you can see through your opponent’s deceptions and anticipate their actions. When a creature that is the target of your Instant Deduction feature misses you with an attack roll, that creature provokes an opportunity attack from you. In addition, all Charisma (Deception) checks against you are made with disadvantage.
+At 11th level, you can see through your opponent's deceptions and anticipate their actions. When a creature that is the target of your Instant Deduction feature misses you with an attack roll, that creature provokes an opportunity attack from you. In addition, all Charisma (Deception) checks against you are made with disadvantage.
 
 ## Predictive Deduction
 Beginning at 15th level, while a creature that you have successfully used your Instant Deduction feature on within the last hour is also the target of a spell on which you are maintaining concentration, you have advantage on Wisdom (Insight) checks against that creature, and on any saving throw which that creature forces you to make.

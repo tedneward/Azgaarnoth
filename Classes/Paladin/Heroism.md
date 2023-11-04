@@ -1,14 +1,14 @@
-# Paladin Sacred Oath: Oath of Heroism
-The Oath of Heroism is an affirmation of a destined path, one laid out for you by divine hands. For whatever reason, a god or a group of gods has included you in their machinations. You are not a reluctant hero, but one who fully embraces the idea that great deeds are yours to achieve. You train diligently, sculpting your body and refining your skills so you’re ready when destiny calls.
+# Sacred Oath: Oath of Heroism
+The Oath of Heroism is an affirmation of a destined path, one laid out for you by divine hands. For whatever reason, a god or a group of gods has included you in their machinations. You are not a reluctant hero, but one who fully embraces the idea that great deeds are yours to achieve. You train diligently, sculpting your body and refining your skills so you're ready when destiny calls.
 
 ## Tenets of Heroism
-The tenets of the Oath of Heroism reflect a paladin’s commitment to fulfilling their calling as a hero worthy of legend.
+The tenets of the Oath of Heroism reflect a paladin's commitment to fulfilling their calling as a hero worthy of legend.
 
 **Actions over Words**. Strive to be known by deeds not words.
 
 **Challenges Are but Tests**. Every hardship serves to challenge your abilities and harden your resolve.
 
-**Embrace Destiny**. You didn’t choose this path, but it’s yours to walk. And it will carry you into legend.
+**Embrace Destiny**. You didn't choose this path, but it's yours to walk. And it will carry you into legend.
 
 **Hone the Body**. Like raw stone, your body must be worked so its potential can be realized.
 
@@ -43,7 +43,7 @@ Your actions on the battlefield can supernaturally bolster your allies and demor
 * The creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of you until the start of your next 
 turn.
 
-Once you use this feature, you can’t use it again until the start of your next turn.
+Once you use this feature, you can't use it again until the start of your next turn.
 
 ## Glorious Defense
 *15th-level Oath of Heroism feature*
@@ -53,11 +53,11 @@ Your blessed glory on the battlefield can misdirect an attack. When a creature y
 ## Living Myth
 *20th-level Oath of Heroism feature*
 
-You can now empower yourself with the legends—whether true or exaggerated—told of your great deeds. As a bonus action, you gain the following benefits for 10 minutes:
+You can now empower yourself with the legends--whether true or exaggerated--told of your great deeds. As a bonus action, you gain the following benefits for 10 minutes:
 * You are blessed with otherworldly comeliness, gaining advantage on all Charisma checks.
 * Once on each of your turns when you make a weapon attack and miss, you can cause that attack to hit instead.
 * If you fail a saving throw, you can use your reaction to succeed instead.
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can't use it again until you finish a long rest.
 
 *Source: [Unearthed Arcana: Bard and Paladin](https://dnd.wizards.com/articles/unearthed-arcana/bard-paladin)*

@@ -30,7 +30,7 @@ You can invoke the power of law to embolden an ally to attack. If you cast a spe
 
 If the spell targets more than one ally, you choose the ally who can make the attack. 
 
-## Channel Divinity: Order’s Demand
+## Channel Divinity: Order's Demand
 *2nd-level Order Domain feature*
 
 You can use your Channel Divinity to exert an intimidating presence over others.

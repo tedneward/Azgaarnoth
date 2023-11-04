@@ -16,7 +16,7 @@ At 1st level when you choose this sorcerous origin, you gain a set of abilities 
 * As an action, you can expend 1 channeling die to cast detect magic.
 channeling Radiance. Whenever you spend 1 or more channeling dice, until the end of your next turn you can cast the produce flame cantrip at will, and you shed bright light in a 30-foot radius and dim light for an additional 30 feet. If you spend 4 or more channeling dice at once, these radii are doubled.
 
-**Inner Warmth.** As long as you have at least one unexpended channeling die remaining, you are considered naturally adapted to cold climates, and you have the ability to start fires with a touch. As an action, you can magically ignite a flammable object you touch with your hand—an object such as a torch, a piece of tinder, or the hem of drapes.
+**Inner Warmth.** As long as you have at least one unexpended channeling die remaining, you are considered naturally adapted to cold climates, and you have the ability to start fires with a touch. As an action, you can magically ignite a flammable object you touch with your hand--an object such as a torch, a piece of tinder, or the hem of drapes.
 
 ## Absorb Magic
 At 6th level, when you roll a saving throw against a spell, you can use your reaction to expend 1 or more channeling dice and gain advantage on that saving throw. You then roll your channeling dice and regain hit points equal to half the total number rolled.
@@ -35,4 +35,4 @@ At 18th level, you can manifest the legendary crown of fire. As a bonus action, 
 * You have resistance to cold damage, fire damage, radiant damage, and necrotic damage, and resistance to damage from spells.
 * You gain a fly speed of 40 feet. You can hover when flying with this feature.
 * You shed bright light in a 100-foot radius and dim light for an additional 100 feet.
-* Once you use this feature, you can’t use it again until you finish a long rest.
+* Once you use this feature, you can't use it again until you finish a long rest.

@@ -1,4 +1,4 @@
-# Paladin Sacred Oath: Oath of Redemption
+# Sacred Oath: Oath of Redemption
 The Oath of Redemption sets a paladin on a difficult path, one that requires a holy warrior to use violence only as a last resort. Paladins who dedicate themselves to this oath believe that any person can be redeemed and that the path of benevolence and justice is one that anyone can walk. These paladins face evil creatures in the hope of turning them to the light, and the paladins slay them only when such a deed will clearly save other lives. Paladins who follow this path are known as redeemers.
 
 While redeemers are idealists, they are no fools. Redeemers know that undead, demons, devils, and other supernatural threats can be inherently evil. Against such foes, the paladins bring the full wrath of their weapons and spells to bear. Yet the redeemers still pray that, one day, even creatures of wickedness will invite their own redemption.
@@ -22,14 +22,14 @@ Paladin Level | Spells
 3rd | shield, sleep
 5th | hold person, ray of enfeeblement
 9th | counterspell, hypnotic pattern
-13th | Otiluke’s resilient sphere, stoneskin
+13th | Otiluke's resilient sphere, stoneskin
 17th | hold monster, wall of force
 
 ## Armor of Peace
-Starting at 3rd level, your commitment to peace allows you to walk into the most dangerous situations unarmored. While you aren’t wearing armor or wielding a shield, your base AC is 16 + your Dexterity modifier.
+Starting at 3rd level, your commitment to peace allows you to walk into the most dangerous situations unarmored. While you aren't wearing armor or wielding a shield, your base AC is 16 + your Dexterity modifier.
 
 ## Warrior of Reconciliation
-At 3rd level, you foreswear the weapons of war in favor of simple tools. While wielding a simple weapon that deals bludgeoning damage, you gain a special benefit if you reduce a creature to 0 hit points with that weapon and decide to spare the creature’s life. Instead of falling unconscious, the creature is charmed by you for 1 minute. During that time, the charmed creature is peaceful and docile, refusing to move or to take actions or reactions, unless you command it to. You can’t order the creature to attack, force someone to make a saving throw, or cause damage to itself or others. This charmed effect ends early if you are incapacitated or if you or your companions attack the creature, deal damage to it, or force it to make a saving throw. When the effect ends, the creature falls unconscious if it still has 0 hit points.
+At 3rd level, you foreswear the weapons of war in favor of simple tools. While wielding a simple weapon that deals bludgeoning damage, you gain a special benefit if you reduce a creature to 0 hit points with that weapon and decide to spare the creature's life. Instead of falling unconscious, the creature is charmed by you for 1 minute. During that time, the charmed creature is peaceful and docile, refusing to move or to take actions or reactions, unless you command it to. You can't order the creature to attack, force someone to make a saving throw, or cause damage to itself or others. This charmed effect ends early if you are incapacitated or if you or your companions attack the creature, deal damage to it, or force it to make a saving throw. When the effect ends, the creature falls unconscious if it still has 0 hit points.
 
 ## Channel Divinity
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
@@ -39,10 +39,10 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
 ***Rebuke the Violent.*** You can use your Channel Divinity to rebuke those who use violence. As a reaction when an enemy within 10 feet of you deals damage with a melee attack against one creature other than you, you force that attacker to make a Wisdom saving throw. On a failed save, the attacker takes radiant damage equal to the damage it just dealt. On a successful save, it takes half as much damage.
 
 ## Aura of the Guardian
-Starting at 7th level, you can shield your allies from harm at the cost of your own health. As a reaction when an ally within 10 feet of you takes damage, you instead magically take that damage. This feature doesn’t transfer any other effects that might accompany the damage.
+Starting at 7th level, you can shield your allies from harm at the cost of your own health. As a reaction when an ally within 10 feet of you takes damage, you instead magically take that damage. This feature doesn't transfer any other effects that might accompany the damage.
 
 ## Protective Spirit
-Starting at 15th level, a holy presence mends your wounds in combat. You regain hit points equal to 1d6 + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren’t incapacitated.
+Starting at 15th level, a holy presence mends your wounds in combat. You regain hit points equal to 1d6 + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't incapacitated.
 
 ## Emissary of Redemption
 At 20th level, you become an avatar of peace, which gives you two benefits:

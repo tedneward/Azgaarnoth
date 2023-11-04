@@ -12,7 +12,7 @@ A giant shark is 30 feet long and normally found in deep oceans. Utterly fearles
 Underwater
 
 ### Token
-![](GiantShark-Token.png)
+![](Sharks-Giant-Token.png)
 
 >### Giant Shark
 >*Huge beast, unaligned*
@@ -26,7 +26,7 @@ Underwater
 >|23 (+6)|11 (+0)|21 (+5)|1 (-5)|10 (+0)|5 (-3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +3
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -76,7 +76,7 @@ Coastal, Underwater
 >- **Condition Immunities** 
 >- **Skills** Perception +2
 >- **Senses** blindsight 30 ft.,passive Perception 12
->- **Languages** —
+>- **Languages** --
 >- **Challenge** 2
 >___
 >***Blood Frenzy.*** The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.
@@ -118,7 +118,7 @@ Coastal, Underwater
 >- **Condition Immunities** 
 >- **Skills** Perception +2
 >- **Senses** blindsight 30 ft.,passive Perception 12
->- **Languages** —
+>- **Languages** --
 >- **Challenge** 1/2
 >___
 >***Pack Tactics.*** The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally isn't incapacitated.

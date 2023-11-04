@@ -108,7 +108,7 @@ Appendage: eye
 
 Rare Component: a docile beholder's eye
 
-A crimson eye from an unusually docile beholder, which fits into your empty eye socket. The graft gives you resistance to fire damage and lets you cast the [fireball]() spell once per day, recharging at dusk.
+A crimson eye from an unusually docile beholder, which fits into your empty eye socket. The graft gives you resistance to fire damage and lets you cast the [fireball](./Spells/fireball.md) spell once per day, recharging at dusk.
 
 ### Lich’s Heart
 *Undead graft, legendary*
@@ -119,11 +119,11 @@ Charges: Special
 
 Appendage: heart
 
-Rare Component: a lich's phalacrity
+Rare Component: a lich's phalactery
 
-A phalacrity belonging to a lich, which replaces your heart. This graft grants you a limited form rejuvenation due to the power used during its initial creation. If you are killed, but your body is not destroyed, your body regains its life force over the next 1d10 days. Lost body parts are reformed, including any vital to life.
+A phalactery belonging to a lich, which replaces your heart. This graft grants you a limited form rejuvenation due to the power used during its initial creation. If you are killed, but your body is not destroyed, your body regains its life force over the next 1d10 days. Lost body parts are reformed, including any vital to life.
 
-The process turning a lich’s phylactery into a lich’s heart is more complicated that most undead grafts. If the lich whose soul is bound to the phalacrity has not been killed before the graft is completed, the lich's soul expelled from the phalacrity, but immediately knows and can locate it if on the same plane. Alternatively, if the lich has been killed and is undergoing the process of rejuvenation, the lich is completely and utterly destroyed.
+The process turning a lich’s phylactery into a lich’s heart is more complicated that most undead grafts. If the lich whose soul is bound to the phalactery has not been killed before the graft is completed, the lich's soul expelled from the phalactery, but immediately knows and can locate it if on the same plane. Alternatively, if the lich has been killed and is undergoing the process of rejuvenation, the lich is completely and utterly destroyed.
 
 ### Mohrg's Tongue
 *Undead graft, uncommon*
@@ -149,7 +149,7 @@ Appendage: legs
 
 Rare Component: a pair of zombie legs
 
-Two gaunt limbs composed of desiccated flesh, which replace your legs. The graft causes you to permanently lose 5 feet of movement speed. In return, you are no longer affected by difficult terrain which occurs on solid that is moderately flat, such a terrain caused by the mold earth cantrip.
+Two gaunt limbs composed of desiccated flesh, which replace your legs. The graft causes you to permanently lose 5 feet of movement speed. In return, you are no longer affected by difficult terrain which occurs on solid that is moderately flat, such a terrain caused by the [mold earth](Spells/mold-earth.md) cantrip.
 
 ### Mummified Torso
 *Undead graft, very rare*
@@ -177,7 +177,7 @@ Appendage: eye
 
 Rare Component: a mummified eye
 
-A dehydrated orb that fits into your empty eye socket. It looks much like a normal eye, but it has a distinctly dry appearance and does not move in your eye socket. The graft lets you cast the [eye bite]() spell once per day, recharging at dusk. 
+A dehydrated orb that fits into your empty eye socket. It looks much like a normal eye, but it has a distinctly dry appearance and does not move in your eye socket. The graft lets you cast the [eyebite](./Spells/eyebite.md) spell once per day, recharging at dusk. 
 
 ### Mummified Hand
 *Undead graft, rare*
@@ -237,7 +237,7 @@ Appendage: entire body
 
 Rare Component: remains from an incorporeal undead
 
-Whisps of shadow or ectoplasumn remains from a ghost, which are infused into your pours. The graft lets you cast the [misty step](https://www.dndbeyond.com/spells/misty-step) spell once per day, recharging at dusk. 
+Whisps of shadow or ectoplasumn remains from a ghost, which are infused into your pours. The graft lets you cast the [misty step](./Spells/misty-step.md) spell once per day, recharging at dusk. 
 
 ### Undead Skin
 *Undead graft, rare*
@@ -263,7 +263,7 @@ Appendage: teeth
 
 Rare Component: teeth from a vampire
 
-A set of sharp teeth, which are grafted into your jaw once you remove your own. The graft is a simple weapon with which you are proficient. Using an action, you can make a melee weapon attack with your graft. On a hit, the target takes 10 (3d6) necrotic damage, and you gain hit points equal to half of the necrotic damage done. Additionally, the target is grappled. A grappled creature can use its action to attempt to break free (escape DC is contested by your Strength (Athletics) skill.
+A set of sharp teeth, which are grafted into your jaw once you remove your own. The graft is a simple weapon with which you are proficient. Using an action, you can make a melee weapon attack with your graft. On a hit, the target takes 10 (3d6) necrotic damage, and you gain hit points equal to half of the necrotic damage done. Additionally, the target is grappled. A grappled creature can use its action to attempt to break free (escape DC is contested by your Strength (Athletics) skill).
 
 ### Zombie's Arm
 *Undead graft, uncommon*

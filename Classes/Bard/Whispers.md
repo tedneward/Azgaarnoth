@@ -1,7 +1,7 @@
 # Bardic College: College of Whispers
 Most folk are happy to welcome a bard into their midst. Bards of the College of Whispers use this to their advantage. They appear to be like any other bard, sharing news, singing songs, and telling tales to the audiences they gather. In truth, the College of Whispers teaches its students that they are wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats.
 
-Many other bards hate the College of Whispers, viewing it as a parasite that uses the bards’ reputation to acquire wealth and power. For this reason, these bards rarely reveal their true nature unless they must. They typically claim to follow some other college, or keep their true nature secret in order to better infiltrate and exploit royal courts and other settings of power.
+Many other bards hate the College of Whispers, viewing it as a parasite that uses the bards' reputation to acquire wealth and power. For this reason, these bards rarely reveal their true nature unless they must. They typically claim to follow some other college, or keep their true nature secret in order to better infiltrate and exploit royal courts and other settings of power.
 
 Rumors suggest that the College of Whispers is run by the [Copper Order](../../Organizations/MilitantOrders/DraconicOrder/Copper.md), although it is also said that they are operated by the [Dread Emperor](../../People/DreadEmperor.md), or any of the other nations of Azgaarnoth. It is entirely possible (and likely) that, like the [College of Valor](Valor.md), there are multiple colleges of Whispers within Azgaarnoth.
 
@@ -19,7 +19,7 @@ If you speak to a humanoid alone for at least 1 minute, you can attempt to seed 
 
 If the target succeeds on its saving throw, the target has no hint that you tried to frighten it.
 
-Once you use this feature, you can’t use it again until you finish a short rest or long rest.
+Once you use this feature, you can't use it again until you finish a short rest or long rest.
 
 ## Mantle of Whispers
 At 6th level, you gain the ability to adopt a humanoid's persona. When a humanoid dies within 30 feet of you, you can magically capture its shadow using your reaction. You retain this shadow until you use it or you finish a long rest.
@@ -33,14 +33,14 @@ Another creature can see through this disguise by succeeding on a Wisdom (Insigh
 Once you capture a shadow with this feature, you can't capture another one with it until you finish a short or long rest.
 
 ## Shadow Lore
-At 14th level, you gain the ability to weave dark magic into your words and tap into a creature’s deepest fears.
+At 14th level, you gain the ability to weave dark magic into your words and tap into a creature's deepest fears.
 
-As an action, you magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. The target must make a Wisdom saving throw against your spell save DC. It automatically succeeds if it doesn’t share a language with you or if it can’t hear you. On a successful saving throw, your whisper sounds like unintelligible mumbling and has no effect.
+As an action, you magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. The target must make a Wisdom saving throw against your spell save DC. It automatically succeeds if it doesn't share a language with you or if it can't hear you. On a successful saving throw, your whisper sounds like unintelligible mumbling and has no effect.
 
 If the target fails its saving throw, it is charmed by you for the next 8 hours or until you or your allies attack or damage it. It interprets the whispers as a description of its most mortifying secret.
 
-While you gain no knowledge of this secret, the target is convinced you know it. While charmed in this way, the creature obeys your commands for fear that you will reveal its secret. It won’t risk its life for you or fight for you, unless it was already inclined to do so. It grants you favors and gifts it would offer to a close friend.
+While you gain no knowledge of this secret, the target is convinced you know it. While charmed in this way, the creature obeys your commands for fear that you will reveal its secret. It won't risk its life for you or fight for you, unless it was already inclined to do so. It grants you favors and gifts it would offer to a close friend.
 
 When the effect ends, the creature has no understanding of why it held you in such fear.
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can't use it again until you finish a long rest.

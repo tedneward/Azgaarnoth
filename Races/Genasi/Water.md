@@ -3,16 +3,6 @@ Water genasi descend from marids, aquatic genies from the Elemental Plane of Wat
 
 Their skin is often shades of blue or green, sometimes a blend of the two. If they have a human skin tone, there is a glistening texture that catches the light, like water droplets or nearly invisible fish scales. Their hair can resemble seaweed, waving as if in a current, or it can even be like water itself.
 
-**Ability Score Increase.** When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
-
-**Creature Type.** You are a Humanoid.
-
-**Size.** You are Medium or Small. You choose the size when you select this race.
-
-**Speed.** Your walking speed is 30 feet.
-
-**Darkvision.** You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
-
 **Acid Resistance.** You have resistance to acid damage.
 
 **Call to the Wave.** You know the [Acid Splash](../../Magic/Spells/acid-splash.md) cantrip. 
@@ -26,3 +16,24 @@ Once you cast Create or Destroy Water or Water Walk with this trait, you can’t
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
 **Languages.** Your character can speak, read, and write Common and Aquan.
+
+```
+name = 'Water'
+description = "***Water Genasi.*** Water genasi descend from marids, aquatic genies from the Elemental Plane of Water. Water genasi are perfectly suited to life underwater and carry the power of the waves inside themselves."
+def level0(npc):
+    npc.damageresistances.append('acid')
+
+    ability = choose("Choose Genasi spellcasting ability: ", ['INT', 'WIS', 'CHA'])
+    spellcasting = innatecaster(npc, ability, 'Water Genasi')
+    spellcasting.cantripsknown.append('acid splash')
+
+    npc.languages.append('Common')
+    npc.languages.append('Aquan')
+
+def level3(npc):
+    npc.spellcasting['Water Genasi'].perday[1] = []
+    npc.spellcasting['Water Genasi'].perday[1].append('create or destroy water')
+
+def level5(npc):
+    npc.spellcasting['Water Genasi'].perday[1].append('water walk')
+```

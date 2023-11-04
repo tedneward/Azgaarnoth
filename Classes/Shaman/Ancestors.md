@@ -33,19 +33,19 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 
 **Turn Undead.** As an action, you channel ancestral power to censure the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 ## Channel Divinity: Control Undead
 Starting at 6th level, you can use your Channel Divinity to control an undead creature.
 
 **Control Undead.** As an action, you target one undead creature you can see within 30 feet of you. The target must make a Wisdom saving throw. On a failed save, the target must obey your commands for the next 24 hours, or until you use this Channel Divinity option again. An undead whose challenge rating is equal to or greater than your level is immune to this effect.
 
-## Death’s Comfort
-At 10th level, your position between life and death grants you respite from the weaknesses of the living. You have resistance to necrotic damage, and your hit point maximum can’t be reduced. In addition, you no longer need food or water.
+## Death's Comfort
+At 10th level, your position between life and death grants you respite from the weaknesses of the living. You have resistance to necrotic damage, and your hit point maximum can't be reduced. In addition, you no longer need food or water.
 
 ## Deny the Untimely
-Starting at 14th level, your connection to the energies of death allows you to avoid dying before your time. When you finish a long rest, you may state either a specific creature or a set of specific circumstance that you expect will be responsible for your death at some point in the next 24 hours. If you name a creature, that creature does not have to deal the deathblow, but it must play an active part in your demise. If you name a set of circumstances, those circumstances must be reasonably specific or the feature will fail, leaving you well and truly dead. An acceptable set of circumstances would be “I expect energy draining to play a pivotal role in my demise,” whereas an unacceptable set would be “I expect to die from loss of hit points.” The DM decides whether the terms you state are acceptable.
+Starting at 14th level, your connection to the energies of death allows you to avoid dying before your time. When you finish a long rest, you may state either a specific creature or a set of specific circumstance that you expect will be responsible for your death at some point in the next 24 hours. If you name a creature, that creature does not have to deal the deathblow, but it must play an active part in your demise. If you name a set of circumstances, those circumstances must be reasonably specific or the feature will fail, leaving you well and truly dead. An acceptable set of circumstances would be "I expect energy draining to play a pivotal role in my demise," whereas an unacceptable set would be "I expect to die from loss of hit points." The DM decides whether the terms you state are acceptable.
 
-Whether the subject of your demise is a specific person or a specific source, you must die for this feature to take effect. If you do, and the circumstances of your demise are similar enough to those you described (DM’s discretion), you are resurrected, as per the resurrection spell, one minute after your death.
+Whether the subject of your demise is a specific person or a specific source, you must die for this feature to take effect. If you do, and the circumstances of your demise are similar enough to those you described (DM's discretion), you are resurrected, as per the resurrection spell, one minute after your death.
 
 The death must occur within 24 hours of the declaration in order for the resurrection to take place. If you use this feature a second time, the new declaration replaces the old one: you cannot have multiple declarations in effect at one time. Once you have been resurrected by this feature, the magic that brought you back is exhausted. If you die a second time before taking a long rest and making a new declaration, you die permanently, even if the circumstances of your death perfectly match your most recent declaration.

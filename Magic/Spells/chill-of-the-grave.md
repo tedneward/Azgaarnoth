@@ -1,5 +1,5 @@
 #### Chill of the Grave
-*1st-level necromancy* (Cleric,Sorcerer,Warlock,Wizard)
+*1st-level necromancy* (Cleric,Pale Master,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 50 feet

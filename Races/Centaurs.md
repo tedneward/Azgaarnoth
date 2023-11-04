@@ -1,34 +1,65 @@
-# Centaurs
-Roamers at heart, centaurs love open spaces and the freedom to travel. As much as they can, centaurs run. They race the wind, hooves thundering and tails streaming behind them.
+# [Centaurs](../Creatures/Centaur.md)
 
-Centaurs have humanoid upper bodies, displaying all the human variety of skin tones and features. In size, they are comparable to a human rider mounted on a horse, and they fill similar roles—as cavalry, messengers, outriders, and scouts.
+```
+name = 'Centaur'
+description = "***Race: Centaur.***"
+type = 'humanoid/fey'
 
-Centaurs’ ears are slightly pointed, but their faces are more wide and square than those of elves. Below the waist, they have the bodies of horses, with coats tending toward brown shades (chestnut or bay) and darker tails. 
-
-Centaurs have a strong sense of the interconnectedness of the natural world, and they celebrate family and community as microcosms of that greater connection. The birth of a foal is always cause for festivities. At the same time, centaurs revere the traditions of the past, preserving old ways and keeping alive the legends of ancestral heroes. They feel a close kinship with wild animals, perhaps because of their own hybrid nature, and delight in the feeling of running alongside herds and packs of beasts.
-
-Centaurs’ given names are passed down through family lines. The name given to a new foal is typically the name of the most recently deceased family member of the same gender, keeping alive the memory—and, the centaurs believe, some shard of the spirit—of the departed. Centaurs rarely use family names, but wear symbols that represent their family membership. These symbols might include graphical representations of plants or animals, printed mottos, braids and beads worn in the hair and tail, or even specific patterns of woven fabric.
-
-Centaur are rare within Azgaarnoth, but can be found more often within the [Ravenlands](../Geography/Ravenlands.md) and [North Bedia](../Nations/Bedia.md). They usually move around in "herds", which are more properly tribes, led by a powerful centaur of some experience. They are nomads, for the most part, but extremely skilled, and are quite capable of artisanry when they choose to put their minds and hands to it.
+def level0(npc):
+```
 
 * **Ability Score Increase**. Your Strength score increases by 2, and your Wisdom score increases by 1.
+
+```
+    npc.STR += 2
+    npc.WIS += 1
+```
 
 * **Age**. Centaurs mature and age at about the same rate as humans.
 
 * **Alignment**. Centaurs are inclined toward neutrality.
 
-* **Size**. Your size is Medium, yet you tower over most other humanoids.
+* **Size**. Your size is Large; you tower over most other humanoids.
 
-* **Speed**. Your base walking speed is 40 feet.
+```
+    npc.size = 'Large'
+```
 
-* **Fey**. You are considered fey instead of humanoid.
+* **Speed**. Your base walking speed is 50 feet.
+
+```
+    npc.speed['walking'] = 50
+```
+
+* **Fey**. You are considered fey and humanoid.
 
 * **Charge**. If you move at least 30 feet straight toward a target and then hit it with a melee weapon attack on the same turn, you can use your bonus action to make a hoof attack.
 
-* **Hooves**. Your hooves are natural melee weapons, with which you’re proficient. If you hit with a hoof, the target takes bludgeoning damage equal to 1d4 + your Strength modifier.
+```
+    npc.bonusactions.append("***Charge.*** If you move at least 30 feet straight toward a target and then hit it with a melee weapon attack on the same turn, you can use your bonus action to make a hoof attack.")
+```
 
-* **Equine Build**. You count as one size larger when determining your carrying capacity and the weight you can push or drag. In addition, any climb that requires hands and feet is especially difficult for you because of your hooves. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal 1 extra foot.
+* **Hooves**. Your hooves are natural melee weapons, with which you're proficient. If you hit with a hoof, the target takes bludgeoning damage equal to 1d4 + your Strength modifier.
+
+```
+    npc.defer(lambda npc: npc.actions.append(f"***Hooves.*** Melee Weapon Attack: {npc.STRbonus() + npc.proficiencybonus()} to hit, reach 5 ft, one target. Hit: 1d4 + {npc.STRbonus()}."))
+```
+
+* **Equine Build**. Any climb that requires hands and feet is especially difficult for you because of your hooves. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal 1 extra foot.
+
+```
+    npc.traits.append("***Equine Build.*** In addition, any climb that requires hands and feet is especially difficult for you because of your hooves. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal 1 extra foot.")
+```
 
 * **Survivor**. You have proficiency in one of the following skills: Animal Handling, Medicine, Nature, or Survival.
 
+```
+    chooseskill(npc, ['Animal Handling', 'Medicine', 'Nature', 'Survival'])
+```
+
 * **Languages**. You can speak, read, and write Common and Sylvan.
+
+```
+    npc.languages.append('Common')
+    npc.languages.append('Sylvan')
+```

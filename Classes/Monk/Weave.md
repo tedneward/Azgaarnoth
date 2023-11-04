@@ -12,22 +12,22 @@ You gain the ability to cast spells from the sorcerer spell list.
 
 Level|Cantrips Known|Spells Known|1st|2nd|3rd|4th
 -----|--------------|------------|---|---|---|---
-3rd  | 2| 3 | 2| —| —| —
-4th  | 2| 4 | 3| —| —| —
-5th  | 2| 4 | 3| —| —| —
-6th  | 2| 4 | 3| —| —| —
-7th  | 2| 5 | 4| 2| —| —
-8th  | 2| 6 | 4| 2| —| —
-9th  | 2| 6 | 4| 2| —| —
-10th | 2| 7 | 4| 3| —| —
-11th | 3| 8 | 4| 3| —| —
-12th | 3| 8 | 4| 3| —| —
-13th | 3| 9 | 4| 3| 2| —
-14th | 3|10 | 4| 3| 2| —
-15th | 3|10 | 4| 3| 2| —
-16th | 3|11 | 4| 3| 3| —
-17th | 3|11 | 4| 3| 3| —
-18th | 3|11 | 4| 3| 3| —
+3rd  | 2| 3 | 2| --| --| --
+4th  | 2| 4 | 3| --| --| --
+5th  | 2| 4 | 3| --| --| --
+6th  | 2| 4 | 3| --| --| --
+7th  | 2| 5 | 4| 2| --| --
+8th  | 2| 6 | 4| 2| --| --
+9th  | 2| 6 | 4| 2| --| --
+10th | 3| 7 | 4| 3| --| --
+11th | 3| 8 | 4| 3| --| --
+12th | 3| 8 | 4| 3| --| --
+13th | 3| 9 | 4| 3| 2| --
+14th | 3|10 | 4| 3| 2| --
+15th | 3|10 | 4| 3| 2| --
+16th | 3|11 | 4| 3| 3| --
+17th | 3|11 | 4| 3| 3| --
+18th | 3|11 | 4| 3| 3| --
 19th | 3|12 | 4| 3| 3| 1
 20th | 3|13 | 4| 3| 3| 1
 
@@ -55,12 +55,25 @@ In addition, you use your Wisdom modifier when setting the saving throw DC for a
 
 **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
 
+```
+def level3(npc):
+    spellcasting = halfcaster(npc, 'WIS', 'Way of the Weave')
+    spellcasting.casterclass = allclasses['Monk']
+    spellcasting.maxcantripsknown = 2
+    spellcasting.maxspellsknown = 3
+    spellcasting.spellsknown = ['CHOOSE-Evocation/Transmutation Sorcerer', 'CHOOSE-Evocation/Transmutation Sorcerer', 'CHOOSE-Sorcerer']
+```
+
+
 ## Flurry of Spells
 *6th-level Way of the Weave feature*
 
-When you can use your action to cast a cantrip, you can make one unarmed strike as a bonus action.
+Immediately after you use your action to cast a cantrip on your turn, you can spend 1 ki point to make two Unarmed Strikes as a bonus action.
 
-Additionally, immediately after you use your action to cast a cantrip on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
+```
+def level6(npc):
+    npc.bonusactions.append("***Ki: Flurry of Spells.*** Immediately after you use your action to cast a cantrip on your turn, you can spend 1 ki point to make two Unarmed Strikes.")
+```
 
 ## Weave-Infused Ki
 *11th-level Way of the Weave feature*
@@ -76,9 +89,19 @@ Spell Slot Level|Ki Point Cost
 3rd| 5
 4th| 6
 
+```
+def level11(npc):
+    npc.bonusactions.append("***Ki: Weave-Infused Ki.*** You can transform 2 ki points into a 1st-level spell slot, 3 into a 2nd, 5 into a 3rd, or 6 into a 4th.")
+```
+
 ## Spell Strike
 *17th-level Way of the Weave feature*
 
 When you hit another creature with a melee weapon attack, you can spend a number of ki points equal to the amount shown on the Creating Spell Slots table to cast a spell of the corresponding level. You do not need to expend a spell slot to do this.
 
 The struck creature serves as the point of origin for the spell. The target automatically fails the saving throw for the spell, if it has one, but any other creature that would be effected by the spell is entitled to the appropriate saving throws.
+
+```
+def level17(npc):
+    npc.actions.append("***Spell Strike.*** When you hit another creature with a melee weapon attack, you can spend a number of ki points (as described by Weave-Infused Ki) to cast a spell of that level without needing to expend a spell slot to do this. The struck creature serves as the point of origin for the spell. The target automatically fails the saving throw for the spell, if it has one, but any other creature that would be effected by the spell is entitled to the appropriate saving throws.")
+```

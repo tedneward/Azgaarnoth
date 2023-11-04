@@ -1,5 +1,5 @@
 # Arcane Tradition: School of Binding
-When a wizard states they’re a conjurer, it usually means they summon creatures from the planes and use them as servants. A binder takes this tradition a step further: they make a deal with one of these beings and become their partner. Some wizards will bind an individual creature, over and over. Others will rotate through a slew of creatures, adapting abilities as needed.
+When a wizard states they're a conjurer, it usually means they summon creatures from the planes and use them as servants. A binder takes this tradition a step further: they make a deal with one of these beings and become their partner. Some wizards will bind an individual creature, over and over. Others will rotate through a slew of creatures, adapting abilities as needed.
 
 The Binder tradition is unique to the [School of the Collared Fiend](../../Organizations/MageSchools/CollaredFiend.md), and anyone of this tradition has some kid of history with that school at some point in their life.
 
@@ -16,7 +16,7 @@ Starting at 6th level, as a bonus action, your bound spirit can be released to a
 * **Demon**. Your physical form becomes more demonic, growing spikes and claws. If you deal damage to a creature with a spell on your turn, you can use your bonus action to try and claw them. This is a melee weapon attack you are proficient with, that uses your Intelligence modifier instead of Strength, and deals 2d6 slashing damage. This attack can be used as part of the bonus action to invoke this ability.
 * **Devil**. Your eyes blacken, your body reeks of brimstone, and you grow thick horns. When you cast a spell that has a duration on a creature, while that creature is affected by your spell, they are harassed by a flock of imps that come seemingly out of nowhere. All attacks against that target are made with advantage. If the spell targets multiple creatures, you must choose one of those creatures as the target creature to be affected by this ability. You can change this choice at the start of each of your turns.
 * **Angel**. You grow glowing wings made of light. You gain a fly speed that is twice your movement speed, and you shed bright light in a 20-foot radius and dim light for an additional 20 feet.
-* **Guardinal**. Your skin gains shaggy fur, your hair has the texture of feathers, and your physical form becomes more bestial. You are resistant to lightning damage, and magic can’t put you to sleep. Additionally, whenever you reduce a creature to zero hit points, you gain temporary hit points equal to your wizard level that last until this ability ends.
+* **Guardinal**. Your skin gains shaggy fur, your hair has the texture of feathers, and your physical form becomes more bestial. You are resistant to lightning damage, and magic can't put you to sleep. Additionally, whenever you reduce a creature to zero hit points, you gain temporary hit points equal to your wizard level that last until this ability ends.
 
 Once you use this ability, you cannot use it again until after you have completed a long rest.
 

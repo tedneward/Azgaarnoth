@@ -5,12 +5,12 @@ The alchemical artillerist (who is always a member of the [Crimson Sunrise](../.
 Starting at 2nd level, you are proficient in the Arcana skill, as well as with alchemist's supplies.
 
 ## Siege Artillerist
-Starting at 2nd level, if you use your alchemist’s supplies as the material component of your spells, you can imbue a spell to deal double damage to objects and structures. You can use this ability a number of times equal to your Intelligence modifier (minimum of once). 
+Starting at 2nd level, if you use your alchemist's supplies as the material component of your spells, you can imbue a spell to deal double damage to objects and structures. You can use this ability a number of times equal to your Intelligence modifier (minimum of once). 
 
 You regain all expended uses when you finish a long rest.
 
 ## Fog of War
-Beginning at 6th level, using your alchemist’s supplies as a material component of your spells, you can add a lasting smoke to any instantaneous area of effect spell you cast. Once the spell effect ends, it leaves behind a thick cloud of alchemical smoke for a short time. The residual smoke covers the same area as the spell, creating a heavily obscured area until the end of your next turn, and lightly obscured area until the end of your turn after that. You can use this ability a number of times equal to your Intelligence modifier (minimum 1).
+Beginning at 6th level, using your alchemist's supplies as a material component of your spells, you can add a lasting smoke to any instantaneous area of effect spell you cast. Once the spell effect ends, it leaves behind a thick cloud of alchemical smoke for a short time. The residual smoke covers the same area as the spell, creating a heavily obscured area until the end of your next turn, and lightly obscured area until the end of your turn after that. You can use this ability a number of times equal to your Intelligence modifier (minimum 1).
 
 You regain all expended uses of this ability when you finish a long rest.
 

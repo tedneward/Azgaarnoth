@@ -51,7 +51,7 @@ Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies 
 >
 >***Spellcasting.*** The firenewt casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12):
 >
->At will: guidance, light, mage armor, mage hand, prestidigitation
+>* At will: guidance, light, mage armor, mage hand, prestidigitation
 >
 
 ---
