@@ -85,12 +85,12 @@ Yeenoghu appears as a huge, scarred gnoll with a spiky crest of black spines, an
 - [Dybbuk](Dybbuk.md)
 
 ## F
-- [Fraz-Urb'luu](Fraz-Urb'luu.md)
+- [Fraz-Urb'luu](Fraz-Urbluu.md)
 
 ## G
 - [Glabrezu](Glabrezu.md)
 - [Goristro](Goristro.md)
-- [Graz'zt](Graz'zt.md)
+- [Graz'zt](Grazzt.md)
 
 ## H
 - [Hezrou](Hezrou.md)
