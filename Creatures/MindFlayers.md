@@ -1,7 +1,7 @@
 # Mind Flayers
 Mind flayers, also called illithids, are the scourge of sentient creatures across countless worlds. Psionic tyrants, slavers, and interdimensional voyagers, they are insidious masterminds that harvest entire races for their own twisted ends. Four tentacles snake from their octopus-like heads, flexing in hungry anticipation when sentient creatures come near.
 
-Jump to: [Mind Flayer](#mind-flayer) | [Arcanist](#mind-flayer-arcanist) | [Alhoon](#Alhoon) | [Illitilich](#illithilich) | [Elder Brain](#elder-brain) | [Ulitharid](#Ulitharid) | [Mindwitness](#Mindwitness) | [Neothelid](#neothelid)
+Jump to: [Mind Flayer](MindFlayers.md#mind-flayer) | [Arcanist](MindFlayers.md#mind-flayer-arcanist) | [Alhoon](MindFlayers.md#Alhoon) | [Infiltrator](MindFlayers.md#infiltrator) | [Illitilich](MindFlayers.md#illithilich) | [Elder Brain](MindFlayers.md#elder-brain) | [Ulitharid](MindFlayers.md#Ulitharid) | [Mindwitness](MindFlayers.md#Mindwitness) | [Neothelid](MindFlayers.md#neothelid)
 
 In eons past, illithids controlled empires that spanned many worlds. They subjugated and consequently warped whole races of humanoid slaves, including the githyanki and githzerai, the grimlocks, and the kuo-toa. Conjoined by a collective consciousness, the illithids hatch plots as far-reaching and evil as their fathomless minds can conceive.
 
@@ -99,16 +99,79 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 >***Mind Blast (Recharge 5–6).*** The mind flayer magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take 22 (4d8 + 4) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
 >***Innate Spellcasting (Psionics).*** The mind flayer's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
->* At will: detect thoughts, levitate
->* 1/day each: dominate monster, plane shift (self only)
+>
+>* *At will:* detect thoughts, levitate
+>* *1/day each:* dominate monster, plane shift (self only)
 >
 >***Spellcasting.*** The mind flayer is a 10th-level spellcaster. Its spellcasting ability is Intelligence (save DC 15, +7 to hit with spell attacks). The mind flayer has the following wizard spells prepared:
->* Cantrips (at will): blade ward, dancing lights, mage hand, shocking grasp
->* 1st level (4 slots): detect magic, disguise self, shield, sleep
->* 2nd level (3 slots): blur, invisibility, ray of enfeeblement
->* 3rd level (3 slots): clairvoyance, lightning bolt, sending
->* 4th level (3 slots): confusion, hallucinatory terrain
->* 5th level (2 slots): telekinesis, wall of force
+>
+>* *Cantrips (at will):* blade ward, dancing lights, mage hand, shocking grasp
+>* *1st level (4 slots):* detect magic, disguise self, shield, sleep
+>* *2nd level (3 slots):* blur, invisibility, ray of enfeeblement
+>* *3rd level (3 slots):* clairvoyance, lightning bolt, sending
+>* *4th level (3 slots):* confusion, hallucinatory terrain
+>* *5th level (2 slots):* telekinesis, wall of force
+>
+
+---
+
+## Mind Flayer Infiltrator
+The alien creatures known as mind flayers or illithids are famous for their cerebral nature. Though most of them are averse to relying on their physical abilities, a small portion of mind flayers find unity between their psionic abilities and their predatory instincts. Illithids who practice these ways are known as infiltrators.
+
+***Psionic Assassins.*** Infiltrators focus their psionic powers on enhancing their physical capabilities, making them exceptional spies, assassins, thieves, and scouts. These illithids learn to manifest their psychic energy in the form of soul blades, psionic blades of force extending from their arms and their tentacles. They use telekinetic abilities to protect themselves and enhance their agility. Some are even able to disguise or hide themselves by tricking the minds of nearby observers.
+
+***Illithid Outcasts.*** Though mind flayer colonies often have a variety of reasons to utilize the talents of one of these infiltrators, they are also deeply distrustful of the infiltrators and their devious abilities. After all their skills could be used against the leaders of the colony as part of an uprising. For this reason, they are often killed after their usefulness has expired, and many who could be infiltrators hide their abilities to avoid this fate.
+
+>### Mind Flayer Infiltrator
+>*Medium aberration, lawful evil*
+>___
+>- **Armor Class** 17 (telekinetic defense)
+>- **Hit Points** 91 (14d8 + 28)
+>- **Speed** 40 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|13 (+1)|16 (+3)|14 (+2)|19 (+4)|17 (+3)|17 (+3)|
+>
+>___
+>- **Proficiency Bonus** +4
+>- **Saving Throws** Dex +7, Int +8, Wis +7, Cha +7
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Arcana +8, Deception +7, Insight +7, Perception + 11, Persuasion + 7, Stealth + 7
+>- **Senses** darkvision 120 ft.,passive Perception 21
+>- **Languages** Deep Speech,Undercommon,telepathy 120 ft.
+>- **Challenge** 10
+>___
+>***Conniving.*** The mind flayer can take the Disengage or Hide action as a bonus action on each of its turns.
+>
+>***Evasion.*** If the mind flayer is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the mind flayer instead takes no damage if it succeeds on the save, and only half damage if it fails.
+>
+>***Magic Resistance.*** The mind flayer has advantage on saving throws against spells and other magical effects.
+>
+>***Sneak Attack (1/Turn).*** The mind flayer deals an extra 10 (3d6) damage when it hits a target with a weapon attack or an attack using its soul blade and it has advantage on the attack roll, or when the target is within 5 feet of an ally of the mind flayer that isn't incapacitated and the mind flayer doesn't have disadvantage on the attack roll.
+>
+>***Telekinetic Defense.*** While the mind flayer is wearing no armor and wielding no shield, its AC includes its Intelligence modifier.
+>
+>#### Actions
+>***Innate Spellcasting (Psionics).*** The mind flayer's innate spellcasting ability is Intelligence (spell save DC 16). It can innately cast the following spells, requiring no components:
+>
+>* *At will:* detect thoughts, disguise self, feather fall, glamour veil, levitate
+>* *1/day each:* dimension door, dominate monster, plane shift (self only), telekinesis
+>
+>***Multiattack.*** The mind flayer makes three soul blade attacks. It can also use its Teleport before or after the attacks.
+>
+>***Soulblade.*** Melee Spell Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) force damage.
+>
+>***Tentacles.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 15 (2d10 + 4) psychic damage plus 7 (2d6) force damage. If the target is Medium or smaller, it is grappled (escape DC 15) and must succeed on a DC 16 Intelligence saving throw or be stunned until this grapple ends.
+>
+>***Extract Brain.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one incapacitated humanoid grappled by the mind flayer. Hit: The target takes 55 (10d10) piercing damage plus 10 (3d6) force damage. This damage ignores resistances, and if this damage reduces the target to 0 hit points, the mind flayer kills the target by extracting and devouring its brain.
+>
+>***Mind Blast (Recharge 5–6).*** The mind flayer magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 16 Intelligence saving throw or take 25 (4d8 + 7) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>
+>***Teleport (Recharge 4-6).*** The mind flayer teleports to an unoccupied space that it can see within 60 feet of it. Any creatures the mind flayer has grappled are not teleported.
 >
 
 ---
