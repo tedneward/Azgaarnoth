@@ -1,0 +1,23 @@
+>### Eldritch Hag
+>*Large fey, chaotic evil*
+>___
+>- **Armor Class** 
+>- **Hit Points** 
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>||
+>
+>___
+>- **Proficiency Bonus**
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities**
+>- **Condition Immunities** 
+>- **Skills** 
+>- **Senses** 
+>- **Languages** 
+>- **Challenge** 
+>___
