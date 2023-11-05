@@ -2,7 +2,7 @@
 
 import os
 import sys
-from PyPDF2 import PdfReader
+from pypdf import PdfReader
 
 def spellprint(spell):
     print(f'# {spell[0]}')

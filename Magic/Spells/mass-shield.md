@@ -8,4 +8,4 @@ ___
 ---
 A shimmering barrier of magical force appears and protects you and up to two other creatures you can see within range. The attacked creature must be among your targets.
 
-Until the start of your next turn, each affected creature has a +4 bonus to AC, including against the triggering attack, and they take no damage from magic missile. If a creature leaves the range of the spell the effect ends on them.
+Until the start of your next turn, each affected creature has a +5 bonus to AC, including against the triggering attack, and they take no damage from [magic missile](../Spells/magic-missile.md). If a creature leaves the range of the spell the effect ends on them.

@@ -6,17 +6,17 @@ ___
 - **Components:** V, S, M (a bone taken from a grave)
 - **Duration:** Concentration, up to 1 minute
 ---
-Choose one creature on the ground that you can see within range. You cause the ground beneath it to break and liquefy under its feet, sucking it under and attempting to magically crush it underground. The target must make a Strength saving throw. On a failed saving throw, it takes 10d6 nonmagical bludgeoning damage and is pulled down until it is fully buried 10 feet beneath the ground. On a successful saving throw, the target takes half damage and escapes to an unoccupied space within 5 feet of its current space, and it must make a Dexterity saving throw, falling prone on a failure. The target can avoid the spell without leaving its space, but attempting to do so grants disadvantage to both saving throws.
+The ground opens beneath one creature on the ground that you can see within range. The target must make a Strength saving throw as magically fluid earth sucks it downward into the ground. On a failed saving throw, it takes 7d8 bludgeoning damage and it is pulled 10 feet under the ground and [buried](../Conditions/Buried.md) until the spell ends. On a success, it takes half as much damage and it isn't pulled or buried. 
 
-A creature that is fully buried under the ground by this spell suffers the following effects:
-* The target is blinded, deafened, and cannot use blindsight.
-* The target cannot breathe or provide somatic components. If the target normally needs to breathe, it also cannot speak or provide verbal components, it has disadvantage on Concentration checks, and it must hold its breath or suffocate.
-* The target is grappled and restrained.
-* The target has total cover from every direction, and everything has total cover from the target, since the target is surrounded by densely compressed earth on all sides.
-* At the end of each of the target's turns while the spell lasts, it takes 6d6 nonmagical bludgeoning damage.
+Until the spell ends, at the end of each of the target's turns while it is still buried, it takes 4d8 nonmagical bludgeoning damage. It can use an action on its turn to attempt to dig upward, making a Strength check against your spellcasting DC. If it succeeds or if the spell ends early, the target makes it up to the surface and is only 
+partially stuck in the ground.
 
-A creature can use an action on its turn to attempt to escape. The target must make either a Strength ability check or Dexterity ability check (its choice) against your spellcasting DC. This check is made with advantage if the creature has a burrowing speed If it succeeds, the target manages to dig themselves up to the surface and is now only partially buried A partially buried creature is grappled (escape DC equal to your spell saving throw DC) and restrained while grappled, though it is not magicai and it is grappled by the ground itself, not any creature or spell.
+While partially stuck, a creature is restrained by the ground itself. It can use an action on its turn to attempt to escape the ground. It makes a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself, falling prone on the ground.
 
-If the spell ends early, the target is propelled magically back to the surface, causing it to immediately transition to the partially unburied state. If the spell lasts its full duration, however, the target is left buried underground to suffocate without the aid of magic.
+If the spell lasts its full duration, the target remains buried permanently, until it escapes or is rescued.
 
-***At Higher Levels.***When you cast this spell using a spell slot of 8th level or higher, the damage dealt increases by ld6 for each slot level above 7th.
+***At Higher Levels.*** When you cast this spell using a spell slot of 8th level or higher, the damage dealt increases by 1d8 for each slot level above 7th.
+
+
+
+ 
