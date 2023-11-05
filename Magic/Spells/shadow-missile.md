@@ -27,4 +27,4 @@ for 24 hours.
 
 ***At Higher Levels.***  When you cast this spell using
 a 2nd level or higher spell slot, the necrotic damage
-increases by ld8 for each slot level above 2nd.
+increases by 1d8 for each slot level above 2nd.

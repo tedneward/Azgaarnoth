@@ -1,5 +1,5 @@
 #### Wall of Lava
-*8th-level conjuration* (Sorcerer,Wizard)
+*8th-level conjuration* (Druid,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 150 feet
@@ -8,7 +8,7 @@ ___
 ---
 You create a wall of fire on a solid surface within range. You can make the wall up to 100 feet long, 30 feet high, and 3 feet thick, or a ringed wall up to 50 feet in diameter, 30 feet high, and 3 feet thick. The wall is opaque, gives off dim light for 30 feet, and lasts for the duration.
 
-When the wall appears, each creature within its area must make a Dexterity saving throw. On a failed saving throw, a creature takes 8d8 fire damage and is restrained by the wall After it appears, creatures that enter the wall's space for the first time on a tum or that touch the wall must make the same Dexterity saving throw and suffer the same effects on a failed saving throw. If the creature touched the wan it also takes half damage on a successful saving throw.
+When the wall appears, each creature within its area must make a Dexterity saving throw. On a failed saving throw, a creature takes 8d8 fire damage and is restrained by the wall After it appears, creatures that enter the wall's space for the first time on aturn or that touch the wall must make the same Dexterity saving throw and suffer the same effects on a failed saving throw. If the creature touched the wan it also takes half damage on a successful saving throw.
 
 Creatures can enter and move through the wall but they must spend 6 feet of movement for every 1 foot moved through the wall. Any creature that touches the wall or ends its turn inside the wall must make a Strength saving throw, becoming restrained by the wall on a failed saving throw. Any creature that ends its turn within 5 feet of the wall takes 4d8 fire damage, or 12d8 fire damage if its restrained by or inside the wall. A restrained creature can use an action on its turn to attempt to escape. It makes a Strength check against your spell save DC. On a success, it frees itself.
 

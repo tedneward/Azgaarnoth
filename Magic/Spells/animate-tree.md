@@ -1,5 +1,5 @@
 #### Animate Tree
-*8th-level transmutation* (Druid only)
+*8th-level transmutation* (Druid)
 ___
 - **Casting Time:** 1 minute
 - **Range:** Touch
