@@ -9,9 +9,9 @@ The level of the spell in the tattoo determines the spell’s saving throw DC, a
 
 Spell Level | Rarity   | Spellcasting Ability Modifier | Save DC | Attack Bonus
 ----------- | -------- | ----------------------------- | ------- | ------------
-Cantrip     | Common   | +3 | 13 | +5
-1st         | Uncommon | +3 | 14 | +5
-2nd         | Uncommon | +3 | 14 | +5
-3rd         | Rare     | +4 | 16 | +7
-4th         | Rare     | +4 | 16 | +7
-5th         | Very Rare| +4 | 16 | +7
+Cantrip     | Common   | +3 | 13 | +4
+1st         | Uncommon | +3 | 13 | +4
+2nd         | Uncommon | +4 | 14 | +5
+3rd         | Rare     | +4 | 14 | +5
+4th         | Rare     | +5 | 16 | +7
+5th         | Very Rare| +5 | 16 | +7
