@@ -20,7 +20,7 @@ description = "***Subrace: Ember Dwarf.*** Your connection to the elements of fi
 def level0(npc): 
     choice = choose("Choose one: ", ['DEX','WIS'])
     if choice == 'DEX': npc.DEX += 1
-    else npc.WIS += 1
+    else: npc.WIS += 1
 
     npc.type = 'humanoid/elemental'
     npc.traits.append("***Elemental Hybrid.*** You have two creature types: humanoid (dwarf) and elemental (fire). You can be affected by a game effect if it works on either of your creature types.")
