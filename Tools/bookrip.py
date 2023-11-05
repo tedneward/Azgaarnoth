@@ -5,7 +5,7 @@ import sys
 from pypdf import PdfReader
 
 def spellprint(spell):
-    print(f'# {spell[0]}')
+    print(f'#### {spell[0]}')
     print(f'*{spell[1]}* ()')
     print('___')
     print(f'- **{spell[2]}')
