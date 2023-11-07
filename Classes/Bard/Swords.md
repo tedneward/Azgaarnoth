@@ -42,8 +42,6 @@ You adopt a style of fighting as your specialty. Choose one of the following opt
     choice = choose("Choose a fighting style: ", ['Dueling', 'Two-Weapon Fighting'])
     if choice == 'Dueling': dueling(npc)
     elif choice == 'Two-Weapon Fighting': twoweapon(npc)
-        
-
 ```
 
 ## Blade Flourish
