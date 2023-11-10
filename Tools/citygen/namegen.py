@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+
+import os
 import random
 
 def namegen(which):
@@ -7,15 +9,17 @@ def namegen(which):
     def replace(phrase):
         mappings = {
             'Adjective' : adjectives,
-            'Descriptor' : descriptors,
             'Building' : buildings,
-            'Noun' : nouns,
+            'College': colleges,
+            'Descriptor' : descriptors,
             'Geographical' : geographical,
+            'Instrument': instruments,
+            'Noun' : nouns,
             'Location' : locations,
             'Merchant' : merchants,
             'Militant' : militants,
-            'Weapon' : weapons,
-            '_Tavern' : taverns
+            '_Tavern' : taverns,
+            'Weapon' : weapons
         }
         done = False
         while not done:
@@ -43,7 +47,18 @@ def namegen(which):
         'Sober', 'Talking', 'Naked', 'Suffering', 'Cheap', 'Smelly', 'Easy', 'Heroic',
         'Hovering', 'Married', 'Pious', 'Pompous', 'Illegal', 'Sacred', 'Defiled', 'Spoilt',
         'Wooden', 'Bloody', 'Yawning', 'Sleepy', 'Hungry','Shining', 'Gleaming', 'Barking',
-        'Vorpal', 'Savage' ]
+        'Vorpal', 'Savage', 'Stout', 'Slow', 'Dull', 'Soaked', 'Drunken', 'Fabulous', 'Crooked',
+        'Noble', 'Soft', 'Broken', 'Shattered', 'Mighty', 'Strong', 'Lonely', 'Poor', 'Old',
+        'Generous', 'Lanky', 'Hapless', 'Tall', 'Remarkable', 'Frugal', 'Prudent', 'Foul',
+        'Evil', 'Good', 'Rotten', 'Shining', 'Fragile', 'Hungry', 'Tired', 'Patient', 'Merciful',
+        'Immortal', 'Faithful', 'Friendly', 'Forlorn', 'Adoring', 'Brittle', 'Floating',
+        'Sharp', 'Worn', 'Cursed', 'Beautiful', 'Beloved', 'Quiet', 'Happy', 'Courageous',
+        'Wounded', 'Blind', 'Clairvoyant', 'Wishing', 'Calm', 'Wary', 'Cheerful', 'Wise',
+        'Clumsy', 'Boorish', 'Boastful', 'Humble', 'Sly', 'Daring', 'Rebellious', 'Diligent',
+        'Disguised', 'Ominous', 'Determined', 'Reliable', 'Loyal', 'Raging', 'Excited',
+        'Shy', 'Golden', 'Frozen', 'Gracious', 'Hairy', 'Hoarse', 'Honest', 'Deceptive',
+        'Limping', 'Lively', 'Lucky', 'Lean', 'Nefarious', 'Crazy'
+    ]
     descriptors = [ 
         'Infinite', 'Miasmal', 'Nonesuch', 'Chthonic', 'Celestial', 'Spiral', 'Silver', 'Gold',
         'Crimson', 'Silent', 'Bronze', 'Colossal', 'Elemental', 'Gilded', 'Shimmering', 'Eldritch',
@@ -56,7 +71,11 @@ def namegen(which):
         'Cylinder', 'Minaret', 'Monument', 'Pylon', 'Tower', 'Spire', 'Turret', 'Column', 
         'Obelisk', 'Rock', 'Eye', 'Tome', 'Citadel', 'Fortress', 'Arch' ]
     nouns = [ 
-        'Dog', 'Wolf', 'Fox', 'Pul', 'Cat', 'Lion', 'Tiger', 'Kitten', 'Ox', 'Cow',
+        'Rooster', 'Hound', 'Elk',  'Cat', 'Guardian', 'Hunter', 'Troll', 'Sword', 'Shield',
+        'Bow', 'Hammer', 'Helm', 'Acrobat', 'Ghoul', 'Zombie', 'King', 'Pegasus', 'Mastiff', 
+        'Druid', 'Master', 'Mistress', 'Prince', 'Princess', 'Duke', 'Duchess', 'Baron', 'Baroness',
+        'Flounder', 'Whale', 'Elf', 'Dwarf', 'Halfling', 'Orc', 'Goblin', 'Bugbear', 'Giant',
+        'Dog', 'Wolf', 'Fox', 'Puma', 'Cat', 'Lion', 'Tiger', 'Kitten', 'Ox', 'Cow',
         'Sow', 'Bull', 'Calf', 'Horse', 'Stallion', 'Mare', 'Foal', 'Owl', 'Eagle',
         'Falcon', 'Hawk', 'Raven', 'Crow', 'Gull', 'Fish', 'Whale', 'Shark', 'Octopus',
         'Squid', 'Goat', 'Sheep', 'Ewe', 'Fly', 'Butterfly', 'Dragonfly', 'Beetle', 'Ant',
@@ -73,10 +92,13 @@ def namegen(which):
         'Daggers', 'Gang', 'Boys', 'Hand', 'Coil', 'Alliance', 'Maggots', 'Rats',
         'Knight', 'Page', 'Drunk', 'Shield', 'Wand', 'Helm', 'Flask', 'Flagon', 'Pint', 'Shot' ]
     geographical = [ 
-        'Lirian', 'Whaveminsian', 'Tragekian', 'Yithian', "Zhian", 'Ravenian', 'Mighalian' ]
+        'Lirian', 'Whaveminsian', 'Tragekian', 'Yithian', "Zhian", 'Ravenian', 'Mighalian',
+        'Bedian', 'Tragekian', 
+        '' ]
     locations = [ 
         'Liria', 'Mighalia', 'Tragekia', 'Yithia', 'Zhi', 'Bedia', 'Mighal', 'Brinwal',
-        'Stagraven', 'Nacoal', 'Flakew', '' ]
+        'Stagraven', 'Nacoal', 'Flakew', 
+        '' ]
     merchants = [ 
         'Compact', 'Company', 'Pact', 'Guild', 'Contract', 'Order', 'Alliance',
         'Federation', 'College', 'League', 'Group', 'Lodge', 'Order', 'Society', 'Trade', 
@@ -84,13 +106,24 @@ def namegen(which):
         'Fellowship', 'Foundation', 'Fraternity', 'Sorority', 'Institute', 'Traders' ]
     militants = [ 
         'Dragoons', 'Knights', 'Myrmidons', 'Gladiators', 'Cavalry', 'Reavers', 'Scoundrels',
-        'Devils', 'Demons', 'Knights', 'Cavaliers', 'Warriors', 'Raptors' ]
+        'Devils', 'Demons', 'Knights', 'Cavaliers', 'Warriors', 'Raptors', 'Guards', 'Highlanders',
+        'Marines', 'Infantry', 'Scouts', ''
+    ]
+    colleges = [
+        'College', 'University', 'School', 'Hall', 'Conservatory', 'Academy', 'Society', 'Institute',
+        'Fraternity', 'Sorority', 'Lyceum', 'Study', 'Fellowship', 'Band', 'Body', 'Lodge'
+    ]
     taverns = [ 
         'Bar', 'Brew House', 'Beer House', 'Mead House', 'Ale House', 'Speakeasy', 'Pub', 
         'Lounge', 'Brewery', 'Loft', 'Club', 'Inn', 'Tavern', 'Den', 'Lodge' ]
     weapons = [ 
         'Axe', 'Knife', 'Sword', 'Blade', 'Lance', 'Hatchet', 'Shield', 'Dagger', 'Rapier',
         'Saber', 'Scythe', 'Spit']
+    instruments = [
+        'Flute', 'Song', 'Players', 'Zither', 'Drum', 'Lute', 'Thespiates', 'Actors',
+        'Trumpet', 'Horn', 'Strings', 'Harpers', 'Bells', 'Cabasa', 'Claves', 'Cymbals',
+        'Gongs', 'Pipes', 'Quartet', 'Conch', ''
+    ]
 
     schemes = {
         'tavern' : [ 
@@ -98,25 +131,35 @@ def namegen(which):
             'The Adjective Noun _Tavern', 'Noun & Noun', 'Noun & Noun _Tavern',
             'The Noun & Noun', 'The Noun & Noun _Tavern', 'Adjective _Tavern',
             'The Adjective _Tavern' ],
-        'roguesguild': [
-            'Merchant of the Noun', 'Descriptor Noun', 'Merchant of the Descriptor Noun',
-            'Merchant of the Adjective Noun', 'Descriptor Adjective Noun'
+        'bardiccollege': [
+            'Adjective Instrument', 'Descriptor Instrument', 'The Instrument & Instrument Merchant',
+            'The Location Instrument', 'Merchant of the Descriptor Instrument',
+            'Merchant of the Instrument', 'Merchant of the Adjective Instrument',
+            'Instrument College', 'Adjective Instrument College', 'Descriptor Instrument College',
+            'College of the Instrument', 'College of the Adjective Instrument',
+            'College of the Descriptor Instrument'
+        ],
+        'duelingcollege': [
+            'Adjective Weapon College', 'Descriptor Weapon College',
+            'College of the Adjective Weapon', 'College of the Descriptor Weapon',
+            'College of the Weapon', 'College of the Adjective Descriptor Weapon'
         ],
         'mageschool' : [
             'Descriptor Building', 'Adjective Building', 'The Descriptor Building', 'The Adjective Building'
         ],
         'merchantguild' : [
-            'Geographical Merchant', 'Merchant of Location', 'The Geographical Merchant'
+            'Geographical Merchant', 'Merchant of Location', 'The Geographical Merchant',
+            'Adjective Geographical Merchant', 'Adjective Merchant of Location', 'The Adjective Geographical Merchant',
+            'Descriptor Geographical Merchant', 'Descriptor Merchant of Location', 'The Descriptor Geographical Merchant',
         ],
         'monasticorder' : [
             'Order of the Descriptor Noun', 'Order of the Adjective Noun', 'Order of the Descriptor Weapon',
             'Order of the Adjective Weapon', 'Order of the Adjective Descriptor Weapon', 
+        ],
+        'roguesguild': [
+            'Merchant of the Noun', 'Descriptor Noun', 'Merchant of the Descriptor Noun',
+            'Merchant of the Adjective Noun', 'Descriptor Adjective Noun'
         ]
     }
-    return replace(oneof(schemes[which]))
 
-print("Tavern: " + namegen('tavern'))
-print("Rogues Guild: " + namegen('roguesguild'))
-print("Mage School: " + namegen('mageschool'))
-print("Merchant Guild: " + namegen('merchantguild'))
-print("Monastic Order: " + namegen('monasticorder'))
+    return replace(oneof(schemes[which]))
