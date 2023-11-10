@@ -39,3 +39,70 @@ Once you have used this feature, you can't do so again until you finish a long r
 You master the art of blood magic. When a Blood spell you cast reduces a creature that has blood to 0 hit points, you can steal energy from its blood and gain a charge for this feature. You can store a maximum of three charges at once. You can expend up to three charges on your turn to cast a wizard spell of a spell slot level equal to the number of charges expended without expending a spell slot.
 
 When you finish a short or long rest, you lose all your charges for this feature. Once you've gained a number of charges equal to your wizard level divided by 3, you can't gain any more charges until you finish a long rest.
+
+---
+
+# Blood Spells
+
+## Cantrips
+Blood Boil
+Blood Curdle (Thunderclap)
+Choke the Wound (Toll the Dead)
+Gore Spike
+Hemokinesis
+
+## 1st Level
+Blood Reading*
+Exsanguinate (Witchbolt) 
+Laceration (Inflict Wounds) 
+Sanguine Wave*
+
+2ND LEVEL
+Carnage Burst
+Infuse Blood
+Numb Person (Hold Person) 
+Wither and Bloom
+
+3RD LEVEL
+Blood Expulsion (Fireball) 
+Blood Extraction
+Draining Smite
+Life Transference 
+Vampiric Touch
+
+4TH LEVEL
+Agonize
+Hemorrhage
+Vengeful Smite
+
+5TH LEVEL
+Bend Blood
+Empty the Veins (Immolation)
+Grim Terror
+Numb Monster (Hold Monster) 
+Seize Person (Dominate Person)
+
+6TH LEVEL
+Blood Fever
+Essence Sap 
+Investiture of Blood
+
+7TH LEVEL
+Hemoglobes (Crown of Stars) 
+Malady
+
+8TH LEVEL
+Blood Bath
+Heart Break
+Seize Monster (Dominate Monster)
+
+9TH LEVEL
+Blood to Bile (Blood to Flame*) 
+Blood to Flame*
+Blood to Ice (Blood to Flame*) 
+Blood to Lightning (Blood to Flame*) 
+Blood to Sand (Blood to Flame*) 
+Blood to Venom (Blood to Flame*) 
+Blood to Wind (Blood to Flame'") 
+Rizzak's Red Death*
+Turn Blood (Psychic Scream t)

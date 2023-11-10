@@ -1,7 +1,7 @@
 # Spirits
 The spirits listed here are always the result of a spell or spell-like ability, and are rarely (if ever) encountered naturally.
 
-> Jump to: [Aberrant Spirit](Spirits.md#aberrant-spirit) | [Celestial Spirit](Spirits.md#celestial-spirit) | [Construct Spirit](Spirits.md#construct-spirit) | [Draconic Spirit](Spirits.md#draconic-spirit) | [Elemental Spirit](Spirits.md#elemental-spirit) | [Fiendish Spirit](Spirits.md#fiendish-spirit) | [Reaper Spirit](Spirits.md#reaper-spirit) | [Shadow Spirit](Spirits.md#shadow-spirit) | [Warrior Spirit](Spirits.md#warrior-spirit) | [Wildfire Spirit](Spirits.md#wildfire-spirit)
+> Jump to: [Aberrant Spirit](Spirits.md#aberrant-spirit) | [Celestial Spirit](Spirits.md#celestial-spirit) | [Construct Spirit](Spirits.md#construct-spirit) | [Draconic Spirit](Spirits.md#draconic-spirit) | [Elemental Spirit](Spirits.md#elemental-spirit) | [Fiendish Spirit](Spirits.md#fiendish-spirit) | [Ooze Spirit](Spirits.md#ooze-spirit) | [Reaper Spirit](Spirits.md#reaper-spirit) | [Shadow Spirit](Spirits.md#shadow-spirit) | [Warrior Spirit](Spirits.md#warrior-spirit) | [Wildfire Spirit](Spirits.md#wildfire-spirit)
 
 Each spirit has statistics that vary with the proficiency bonus of the caster that summoned them; this is marked as "CPB" (caster's proficiency bonus) or "CL" (caster's level) in the respective listing.
 
@@ -322,6 +322,58 @@ Conjured/Summoned
 >***Multiattack.*** The spirit makes a number of attacks equal to half the druid's proficiency bonus (rounded down).
 >
 >***Slam.*** Melee Weapon Attack: caster's spell attack modifier to hit, reach 5 ft., one target. Hit: (1d10 + 4 + the druid's proficiency bonus) bludgeoning damage plus (4 + druid's proficiency bonus) cold damage.
+>
+
+---
+
+## Ooze Spirit
+(No description given)
+
+### Environment
+Conjured/Summoned
+
+### Token
+![](Spirits-OozeSpirit-Token.png)
+
+>### Ooze Spirit
+>*Medium ooze* 
+>___
+>- **Armor Class** 7 + the level of the spell (natural armor)
+>- **Hit Points** 30 + 10 for each spell level above 3rd
+>- **Speed** 20 ft., climb 20 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|6 (-2)|16 (+3)|2 (-4)|8 (-1)|2 (-4)|
+>
+>___
+>- **Proficiency Bonus** equals caster's proficiency bonus
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** piercing, slashing; acid (Diseased & Toxic only); poison (Corrosive only)
+>- **Damage Immunities** acid (Corrosive only); poison (Diseased and Toxic only)
+>- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone; poisoned (Diseased and Toxic only)
+>- **Skills** 
+>- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 9
+>- **Languages** understands the languages you speak
+>- **Challenge** —
+>___
+>***Acid Backlash (Corrosive only).*** A creature that touches the ooze or hits it with a melee attack while within 5 feet of it takes acid damage equal to the spell's level.
+>
+>***Amorphous.*** The ooze can move through a space as narrow as 1 inch wide without squeezing.
+>
+>***Miasma Fumes (Diseased only).*** Creatures within 10 feet of the ooze can't regain hit points. Constructs, undead, and creatures that are immune to disease are unaffected. 
+>
+>***Noxious Touch (Toxic only).*** When the ooze hits with an attack against a creature, the target must succeed on a Constitution saving throw against your spell save DC or else be poisoned until the end of its next turn.
+>
+>***Spider Climb.*** The ooze can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. 
+>
+>#### Actions 
+>***Multiattack.*** The ooze makes a number of attacks equal to half this spell's level (rounded down). 
+>
+>***Psuedopod.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d4 + 3 bludgeoning damage plus 1d4 + the spell's level acid damage (Corrosive only), necrotic damage (Diseased only), or poison damage (Toxic only). 
+>
+>***Engulf.*** The ooze tries to wrap itself around a Medium or smaller creature within 5 feet of it. The target must succeed on a Dexterity saving throw against your spell save DC or else become blinded and restrained as the ooze enters its space and engulfs it. While engulfed, the target takes acid damage (Corrosive only), necrotic damage (Diseased only), or poison damage (Toxic only) equal to the spell's level at the end of each of its turns. It can use an action on its turn to attempt to break free as if escaping from a grapple, ending the effect on a success and pushing the ooze 5 feet away; the escape DC is equal to your spell save DC. Unless the target is Tiny, the ooze can't move while the target is engulfed. 
 >
 
 ---
