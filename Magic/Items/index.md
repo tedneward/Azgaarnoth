@@ -6,7 +6,7 @@ Some items can only be a particular specific within the category--for example, a
 ## Residual Items
 *Items that hold charges or residual powers without charge; (charges/recharges @ period)*
 
-* *Clothing*: Belt, Boots, Cape, Cloak, Gloves, Hat, Mantle, Robe, Horseshoes
+* *Clothing*: Belt, Boots, Cape, Cloak, Gloves, Hat, Mantle, Robe, Slippers, Horseshoes
 
 * *Decoration*: Banner, Candle, Coin, Curtain, Mirror, Pennant
 
@@ -16,7 +16,7 @@ Some items can only be a particular specific within the category--for example, a
 
 * *Instrument*: Flute, Harp, Horn, Lute, Pipes
 
-* *Ornament*: Amulet, Brooch, Circlet, Crown, Mask, Medallion, Necklace, Ring, Talisman
+* *Ornament*: Amulet, Brooch, Circlet, Crown, Mask, Medallion, Necklace, Ring, Scarab, Talisman
 
 * *Stones*: Bead, Gem, Orb, Pearl, Stone
 
