@@ -540,6 +540,7 @@ def loadclasses():
         if os.path.isdir(entryname) and (os.path.basename(entryname) not in excludedentries):
             dirpath = entryname
             dirname = os.path.basename(dirpath)
+
             log("Parsing base class: " + dirpath + "/index.md")
             basemodule = loadmodule(dirpath + "/index.md", dirname)
             if basemodule != None:
