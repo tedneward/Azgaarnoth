@@ -6,6 +6,4 @@ ___
 - **Components:** V
 - **Duration:** 1 round
 ---
-You gain advantage on the triggering initiative roll,
-and until the end of your first turn in combat, your
-walking speed increases by 30 feet.
+You gain advantage on the triggering initiative roll, and until the end of your first turn in combat, your walking speed increases by 30 feet.
