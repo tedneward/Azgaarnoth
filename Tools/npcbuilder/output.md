@@ -1,90 +1,72 @@
 >### Name
->*Medium Male humanoid (Orc) Warlock (Witch) 20, any alignment*
+>*Medium Female humanoid (Gnoll) Barbarian (Berserker) 20, any alignment*
 >___
->- **Armor Class** 11 (Leather armor (11),DEX (+0))
->- **Hit Points** 147 (20d10 + 20)
+>- **Armor Class** 15 (Unarmored Defense (14),DEX (+1))
+>- **Hit Points** 154 (20d12 + 4)
 >- **Speed** 30 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:-:|:-:|:-:|:-:|:-:|:-:|
->|13 (+1)|11 (+0)|12 (+1)|10 (+0)|12 (+1)|17 (+3)|
+>|19 (+4)|13 (+1)|17 (+3)|11 (+0)|11 (+0)|11 (+0)|
 >___
 >- **Proficiency Bonus** +7
->- **Saving Throws** Wis +8,Cha +10
+>- **Saving Throws** Str +11,Con +10
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
 >- **Damage Immunities** 
 >- **Condition Immunities** 
->- **Skills** Intimidation +10,Arcana +7,Deception +10,Animal Handling +8,Investigation +7
->- **Proficiencies** Padded armor,Leather armor,Studded leather armor,Club,Dagger,Greatclub,Handaxe,Javelin,Light hammer,Mace,Quarterstaff,Sickle,Spear,Light Crossbow,Dart,Shortbow,Sling
->- **Senses** darkvision 60,passive Perception 11
->- **Languages** Common,Orcish
+>- **Skills** Intimidation +7,Animal Handling +7,Athletics +11,Perception +7,Stealth +8
+>- **Proficiencies** Padded armor,Leather armor,Studded leather armor,Hide armor,Chain shirt,Scale mail,Breastplate,Half-plate,Shield,Club,Dagger,Greatclub,Handaxe,Javelin,Light hammer,Mace,Quarterstaff,Sickle,Spear,Light Crossbow,Dart,Shortbow,Sling,Battleaxe,Flail,Glaive,Greataxe,Greatsword,Halberd,Lance,Longsword,Maul,Morningstar,Pike,Rapier,Scimitar,Shortsword,Trident,War pick,Warhammer,Whip,Blowgun,Hand Crossbow,Heavy Crossbow,Longbow,Net
+>- **Senses** darkvision 60,passive Perception 17
+>- **Languages** Common,Gnoll,Abyssal (can understand but not speak, read, or write)
 >___
->***Bonus Cantrips.*** *dancing lights* and *vicious mockery* do not count against your number of cantrips known.
+>***Brutal Critical.*** You roll three additional weapon damage dice when determining the extra damage for a critical hit with a melee attack.
 >
->***Eldritch Master (Recharges on long rest).*** You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature.
+>***Feral Instinct.*** You have advantage on initiative rolls. Additionally, if you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
 >
->***Expanded Spell List.*** The following spells are added to the warlock list for you: 1st: [speak with animals](http://azgaarnoth.tedneward.com/magic/spells/speak-with-animals/), [sleep](http://azgaarnoth.tedneward.com/magic/spells/sleep/); 2nd: [pass without trace](http://azgaarnoth.tedneward.com/magic/spells/pass-without-trace/), [alter self](http://azgaarnoth.tedneward.com/magic/spells/alter-self/); 3rd: [bestow curse](http://azgaarnoth.tedneward.com/magic/spells/bestow-curse/), [tiny servant](http://azgaarnoth.tedneward.com/magic/spells/tiny-servant/); 4th: [fabricate](http://azgaarnoth.tedneward.com/magic/spells/fabricate/), [polymorph](http://azgaarnoth.tedneward.com/magic/spells/polymorph/); 5th: [animate objects](http://azgaarnoth.tedneward.com/magic/spells/animate-objects/), [legend lore](http://azgaarnoth.tedneward.com/magic/spells/legend-lore/)
+>***Indomitable Might.*** If your total for a Strength check is less than your Strength score, you can use that score in place of the total.
 >
->***Misty Visions.*** You can cast [silent image](http://azgaarnoth.tedneward.com/magic/spells/silent-image/) at will, without expending a spell slot or material components.
+>***Mindless Rage.*** You can't be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
 >
->***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+>***Relentless Rage (Resets on short or long rest).*** If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead. Each time you use this feature after the first, the DC increases by 5.
 >
->***Relentless Endurance (Recharges on long rest).*** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead.
->
->***Strange Conveyance.*** You can choose an object as small as a broom up to the size of a cow, and enchanting that object takes 1 hour. When you straddle the object, it hovers beneath you and can be ridden in the air. The object has a flying speed of 50 feet. It can carry up to 400 pounds, but its flying speed becomes 30 feet while carrying over 200 pounds. It stops hovering when you land. You may only have one Strange Conveyance at any one time, and you may not create a new Conveyance whilst the other remains extant.
->
->***Voices of the Chain Master.*** You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
+>***Stealthy.*** If you are hidden, you can move up to 10 feet in the open without revealing yourself if you end the move in a position where you're not clearly visible.
 >
 >#### Actions
->***Armor of Shadows.*** You can cast [mage armor](http://azgaarnoth.tedneward.com/magic/spells/mage-armor/) at will, without expending a spell slot or material components.
+>***Bite.*** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 1d6 + 4 piercing damage.
 >
->***Beast Speech.*** You can cast [speak with animals](http://azgaarnoth.tedneward.com/magic/spells/speak-with-animals/) at will, without expending a spell slot.
+>***Intimidating Presence.*** Choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC 15) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you. If the creature succeeds on its saving throw, you can't use this feature on that creature again for 24 hours.
 >
->***Eldritch Sight.*** You cast [detect magic](http://azgaarnoth.tedneward.com/magic/spells/detect-magic/) at will, without expending a spell slot.
+>***Multiattack.*** You can attack twice, instead of once, whenever you take the Attack action on your turn.
 >
->***Exit Strategy.*** You can use an action to vanish in a suitably dramatic manner (perhaps into a cloud of smoke or a swarm of toads) reappearing 1d4 hours later in a place of emotional significance to you on the same plane of existence. If no such place exists, the DM decides where you appear.
+>***Reckless Attack.*** When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
 >
->***Gaze of Two Minds.*** You touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+>***Terrifying Howl.*** You howl, and creatures not allied with you within a 60' radius must make a Wisdom save (DC 15) or be frightened of you until the end of your next turn.
 >
->***One with Shadows.*** When you are in an area of dim light or darkness, you become invisible until you move or take an action or reaction.
+>#### Reactions
+>***Instinctive Pounce.*** When a creature ends its turn within 15 feet of you, you move up to half your speed to a space closer to the creature. This movement doesn't provoke opportunity attacks.
 >
->***Pact Magic.*** 4 cantrips known. 4 5th-level spell slots. 15 spells known. Spell save DC 18. Spell attack modifier +10. Cantrips known: dancing lights, vicious mockery. Spells known: .
->
->***Sign of Ill Omen (Recharges on long rest).*** You can cast [bestow curse](http://azgaarnoth.tedneward.com/magic/spells/bestow-curse/) once using a warlock spell slot.
->
->***The Rule of Three (Recharges on long rest).*** When you cast a spell, you may choose to cast it three times instead of once as part of the same action. You may choose new targets for these copies.
->
->***Weird Magic (1/Day).*** You may cast a spell of a level you are able to cast from your class list that you do not know. You must use a spell slot and fulfil all other requirements. Casting this spell should involve some bizarre and unusual prop, such as releasing a swarm of bees for a *cloud of daggers* spell. Once you have cast a spell with this ability, you can never cast it again for any reason.
->
->***Mystic Arcanum Spellcasting (Cha. Recharges on long rest).*** Spell save DC: 18, Spell attack bonus: +10
->
->* *1/day:* [CHOOSE-6th-level](http://azgaarnoth.tedneward.com/magic/spells/CHOOSE-6th-level/),[CHOOSE-7th-level](http://azgaarnoth.tedneward.com/magic/spells/CHOOSE-7th-level/),[CHOOSE-8th-level](http://azgaarnoth.tedneward.com/magic/spells/CHOOSE-8th-level/),[CHOOSE-9th-level](http://azgaarnoth.tedneward.com/magic/spells/CHOOSE-9th-level/)
->
+>***Retaliation.*** When you take damage from a creature that is within 5 feet of you, you make a melee weapon attack against that creature.
 >
 >
 >#### Bonus Actions
->***Aggressive.*** You can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.
+>***Frenzy.*** For the duration of your rage you make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion.
 >
->***Animal Handling.*** You can command one friendly beast within 60 feet of you that can hear you and that isn't currently following the command of someone else. You decide now what action the beast will take and where it will move during its next turn, or you issue a general command that lasts for 1 minute, such as to guard a particular area.
+>***Rage (6/Recharges on long rest).*** Your rage lasts for 1 minute. It ends early if you fall unconscious. You can end your rage on your turn as a bonus action.  You can move up to half your speed as part of this bonus action. If you aren't wearing heavy armor, you gain the following benefits: You have advantage on Strength checks and Strength saving throws; When you make a melee weapon attack using Strength, you gain a +4 bonus to the damage roll; You have resistance to bludgeoning, piercing, and slashing damage.
 >
->***Investigative Search.*** You can take the Search action as a bonus action.
+>***Rampage.*** After you reduce a creature to 0 hit points with a melee attack on its turn, the you can move up to half its speed and make a Bite attack.
+>
+>***Vicious Bite.*** You make a Bite attack.
 >
 >
 >#### Equipment
->Leather armor
+>Greataxe OR any martial melee weapon
 >
->Simple weapon
+>Two handaxes OR any simple weapon
 >
->Two daggers
+>Four javelins
 >
->Light crossbow and 20 bolts OR any simple weapon
->
->Component pouch OR arcane focus
->
->Scholar's pack OR dungeoneer's pack
->
->Dungeoneer's pack, or explorer's pack
+>An explorer's pack
 >
 >***Magic Item: Uncommon Permanent.***
 >
@@ -100,29 +82,31 @@
 >
 
 #### Description
-Ideals: Slaughter/Logic/Community
+***Ideals:*** *Greater good/Honor/Greed.*
 
-Appearance: Missing fingers
+***Appearance:*** *Pronounced scar on face.*
 
-Talents: Perfect memory
+***Talents:*** *Great at Three-Dragon Ante.*
 
-Mannerisms: Speaks in rhyme or some other noticeable habit
+***Mannerisms:*** *Prone to declarations of excessive nature.*
 
-Interactions with others: Curious when speaking with others
+***Interactions with others:*** *Ponderous when speaking with others.*
 
-Bond: Captivated by a romantic interest
+***Bond:*** *Drawn to a special place.*
 
-Flaw: Secret crime or misdeed
+***Flaw:*** *Possession of forbidden lore.*
 
-***Race: Orc.*** 
+***Race: Gnoll.*** Gnolls are brutal hunters with a demonic ancestry who are fiercely loyal to their pack.
 
-***Class: Warlock.*** Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. Through pacts made with mysterious beings of supernatural power, warlocks unlock magical effects both subtle and spectacular.
+***Class: Barbarian.*** Barbarians are defined by their rage: unbridled, unquenchable, and unthinking fury. More than a mere emotion, their anger is the ferocity of a cornered predator, the unrelenting assault of a storm, the churning turmoil of the sea. For some, their rage springs from a communion with fierce animal spirits. Others draw from a roiling reservoir of anger at a world full of pain. For every barbarian, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.
 
-***Otherworldly Patron: The Witch(es).*** Your patron is a powerful hag, usually a Grandmother hag, or even a coven of hags, which has taken an interest in your life. Hags are defined by their love of misery in other creatures, which often means they will only take on students and warlocks when the net suffering to be gained in the long run seems more than likely to offset the inconvenience. Some hags will even go so far as to blackmail or bribe certain influential figures into accepting a warlock pact, as part of some grand unknowable scheme, or perhaps to complete a coven. All forms of hags are able to grant pacts in this manner, and on rare occasions an entire coven of lesser hags will use their magic to grant a warlock pact to some unfortunate individual.
+***Primal Path: Path of the Berserker.*** For some barbarians, rage is a means to an end -- that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being.
 
-***Feat: Animal Handler.*** You master the techniques needed to train and handle animals.
+***Feat: Vicious Bite.*** You have developed a ferocious bite attack that even other gnolls fear.
 
-***Feat: Investigator.*** You have an eye for detail and can pick out the smallest clues.
+***Feat: Terrifying Howl.*** Your howl is that of the stalking predator, and can terrify your quarry.
+
+***Feat: Stealthy.*** You know how best to hide.
 
 
 
