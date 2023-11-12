@@ -10,7 +10,7 @@ Starting at 3rd level, you can cast spells while raging. However, casting spells
 
 When you cast a spell while raging, attack rolls against you are rolled with advantage until the beginning of your next turn.
 
-In addition, your rage ends early if you are knocked unconscious, if your turn ends and you haven't attacked a hostile creature, or if you haven't cast a spell since your last turn or taken damage since then. Otherwise your rage works normally.
+In addition, your rage ends early if you are knocked unconscious, if your turn ends and you haven't attacked a hostile creature, cast a spell, or taken damage since the end of your previous turn. Otherwise your rage works normally.
 
 **Fury Points**. The Spells and Fury Points table shows how many fury points you have to cast your spells of 1st level and higher. To cast one of these spells, you must be in rage and you must expend a number of fury points depending on the spell's level, as shown in the Fury Point Cost table. You regain all expended fury points when you finish a long rest.
 

@@ -1399,6 +1399,11 @@ def main():
     global quiet
     global scripted
 
+    loadraces()
+    loadclasses()
+    loadfeats()
+    #loadbackgrounds()
+
     parser = argparse.ArgumentParser(
         prog='NPCBuilder',
         description='A tool for generating 5th-ed NPCs using PC rules/templates'
@@ -1416,11 +1421,6 @@ def main():
         elif args.verbose == 'quiet':
             quiet = True
     
-    loadraces()
-    loadclasses()
-    loadfeats()
-    #loadbackgrounds()
-
     if not scripted:
         npc = generatenpc()
         print(npc.emitMD())

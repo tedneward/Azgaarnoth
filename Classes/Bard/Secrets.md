@@ -40,7 +40,7 @@ You can use what seems like gentle teasing, a polite word of caution, or even ju
 
 ```
 def level6(npc):
-    npc.defer(lamba npc: npc.traits.append(f"***Grim Mockery.*** When you cast {spelllinkify('vicious mockery')}, you add {npc.CHAbonus()} to the damage roll") )
+    npc.defer(lambda npc: npc.traits.append(f"***Grim Mockery.*** When you cast {spelllinkify('vicious mockery')}, you add {npc.CHAbonus()} to the damage roll") )
 ```
 
 ## Dangerous Secrets

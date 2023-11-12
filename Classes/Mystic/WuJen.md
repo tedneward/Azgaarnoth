@@ -59,10 +59,25 @@ The spell slot remains until you use it or finish a long rest. You must observe 
 Whenever you gain a level in this class, you can replace one of the chosen wizard spells with a different wizard spell of 1st through 3rd level.
 
 ```
+import npcbuilder
+
+class WuJenSpellcasting(npcbuilder.NPC.Spellcasting):
+    def __init__(self, npc):
+        npcbuilder.NPC.Spellcasting.__init__(self, npc, 'INT', "Wu Jen Spellcasting")
+        self.casterclass = allclasses['Mystic']
+        npc.spellcasting["Wu Jen Spellcasting"] = self
+
+    def emitMD(self):
+        text = f">***Wu Jen Spellcasting (Int, at level {self.casterlevel()}. Recharges on long rest).*** "
+        text += f"3 spells known (1st - 3rd level). Spell slots created from psi (Arcane Dabbler)."
+        text += f"Spell save DC: {self.spellsavedc()}, Spell attack bonus: +{self.spellattack()}\n"
+        text += f">\n>Spells prepared:\n"
+        text +=  ">\n"
+        return text
+
+
 def level6(npc):
-    spellcasting = npc.newspellcasting('Mystic', 'INT', named='Wu Jen Spellcasting')
-    spellcasting.casterclass = allclasses['Mystic']
-    spellcasting.maxspellsknown = 3
+    spellcasting = WuJenSpellcasting(npc)
     npc.bonusactions.append("***Arcane Dabbler.*** You can spend psi points to create spell slots (**2 psi:** 1st-level slot, **3:** 2nd, **5:** 3rd, **6:** 4th, **7:** 5th) that you can use to cast these spells, as well as other spells you are capable of casting. The spell slot remains until you use it or finish a long rest. You must observe your psi limit when spending psi points to create a spell slot.")
 ```
 
@@ -100,7 +115,7 @@ def masteryofair(npc):
 
     npc.actions.append("***Misty Form (6 psi; concentration, 1 min.).*** Your body becomes like a misty cloud until your concentration ends. In this form, you gain resistance to bludgeoning, piercing, and slashing damage, and you can’t take actions other than the Dash action. You can pass through openings that are no more than 1 inch wide without squeezing.")
 
-    npc.actions.append("***Animate Air (7 psi; concentration, 1 hr.).*** You cause an air elemental to appear in an unoccupied space you can see within 120 feet of you. The elemental lasts until your concentration ends, and it obeys your verbal commands. In combat, roll for its initiative, and choose its behavior during its turns. When this effect ends, the elemental disappears.")
+    npc.actions.append("***Animate Air (7 psi; concentration, 1 hr.).*** You cause an [air elemental](https://azgaarnoth.tedneward.com/creatures/extraplanar/Elementals/#air-elemental) to appear in an unoccupied space you can see within 120 feet of you. The elemental lasts until your concentration ends, and it obeys your verbal commands. In combat, roll for its initiative, and choose its behavior during its turns. When this effect ends, the elemental disappears.")
 
 def masteryoffire(npc):
     npc.bonusactions.append("***Psychic Focus: Mastery of fire.*** While focused on this discipline, you gain resistance to fire damage, and you gain a +2 bonus to rolls for fire damage. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
@@ -113,7 +128,7 @@ def masteryoffire(npc):
 
     npc.bonusactions.append("***Fire Form (5 psi; concentration, 1 min.).*** You become wreathed in flames until your concentration ends. Any creature that end its turn within 5 feet of you takes 3d6 fire damage.")
 
-    npc.actions.append("***Animate Fire (7 psi; concentration, 1 hr.).*** You cause a fire elemental to appear in an unoccupied space you can see within 120 feet of you. The elemental lasts until your concentration ends, and it obeys your verbal commands. In combat, roll for its initiative, and choose its behavior during its turns. When this effect ends, the elemental disappears.")
+    npc.actions.append("***Animate Fire (7 psi; concentration, 1 hr.).*** You cause a [fire elemental](https://azgaarnoth.tedneward.com/creatures/extraplanar/Elementals/#fire-elemental) to appear in an unoccupied space you can see within 120 feet of you. The elemental lasts until your concentration ends, and it obeys your verbal commands. In combat, roll for its initiative, and choose its behavior during its turns. When this effect ends, the elemental disappears.")
 
 def masteryofforce(npc):
     npc.bonusactions.append("***Psychic Focus: Mastery of Force.*** While focused on this discipline, you have advantage on Strength checks. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
@@ -165,7 +180,7 @@ def masteryofwater(npc):
 
     npc.actions.append("***Water Sphere (6 psi; concentration, 1 min.).*** You cause a sphere of water to form around a creature. Choose one creature you can see within 60 feet of you. The target must make a Dexterity saving throw. On a failed save, it becomes trapped in the sphere of water until your concentration ends. While the target is trapped, its speed is halved, it suffers disadvantage on attack rolls, and it can’t see anything more than 10 feet away from it. However, attack rolls against it also suffer disadvantage. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful one.")
 
-    npc.actions.append("***Animate Water (7 psi; concentration, 1 hr.).*** You cause a water elemental to appear in an unoccupied space you can see within 120 feet of you. The elemental lasts until your concentration ends, and it obeys your verbal commands. In combat, roll for its initiative, and choose its behavior during its turns. When this effect ends, the elemental disappears. See the Monster Manual for its stat block.")
+    npc.actions.append("***Animate Water (7 psi; concentration, 1 hr.).*** You cause a [water elemental](https://azgaarnoth.tedneward.com/creatures/extraplanar/Elementals/#water-elemental) to appear in an unoccupied space you can see within 120 feet of you. The elemental lasts until your concentration ends, and it obeys your verbal commands. In combat, roll for its initiative, and choose its behavior during its turns. When this effect ends, the elemental disappears. See the Monster Manual for its stat block.")
 
 def masteryofweather(npc):
     npc.bonusactions.append("***Psychic Focus: Mastery of Weather.*** While focused on this discipline, you have resistance to lightning and thunder damage. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.")
@@ -197,7 +212,7 @@ def masteryofwoodandearth(npc):
 
     npc.bonusactions.append("***Armored Form (6 psi; concentration, 1 min.).*** You gain resistance to bludgeoning, piercing, and slashing damage, which lasts until your concentration ends.")
 
-    npc.actions.append("***Animate Earth (7 psi; concentration, 1 hr.).*** You cause an earth elemental to appear in an unoccupied space you can see within 120 feet of you. The elemental lasts until your concentration ends, and it obeys your verbal commands. In combat, roll for its initiative, and choose its behavior during its turns. When this effect ends, the elemental disappears.")
+    npc.actions.append("***Animate Earth (7 psi; concentration, 1 hr.).*** You cause an [earth elemental](https://azgaarnoth.tedneward.com/creatures/extraplanar/Elementals/#earth-elemental) to appear in an unoccupied space you can see within 120 feet of you. The elemental lasts until your concentration ends, and it obeys your verbal commands. In combat, roll for its initiative, and choose its behavior during its turns. When this effect ends, the elemental disappears.")
 
 wujendisciplines = {
     'Mastery of Air': masteryofair,

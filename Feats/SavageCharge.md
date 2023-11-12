@@ -1,8 +1,21 @@
 ## Savage Charge
-*Prerequisites: Gnoll*
+*Prerequisites: Must have Bite attack*
 
-You can make a bite attack at the end of a charge in addition to your normal action.
+You know how to time your movement to get a nip in.
 
-When taking the charge action, the gnoll may also make a bite attack as a swift action.
+You can make a Bite attack as a bonus action at the end of a Dash action.
 
-
+```
+name = 'Savage Charge'
+description = "***Feat: Savage Charge.*** You know how to time your movement to get a nip in."
+def prereq(npc):
+    for act in npc.actions:
+        if act[0:len("***Bite")] == "***Bite": return true
+    for act in npc.bonusactions:
+        if act[0:len("***Bite")] == "***Bite": return true
+    for act in npc.reactions:
+        if act[0:len("***Bite")] == "***Bite": return true
+    return false
+def apply(npc):
+    npc.bonusactions.append("***Savage Charge.*** You make a Bite attack at the end of a Dash action.")
+```
