@@ -100,7 +100,6 @@ Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if
 Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.
 
 ```
-    def normalrage(): return ""
     npc.defer(lambda npc: npc.bonusactions.append(f"***Rage ({2 if npc.levels(name) < 3 else 3 if npc.levels(name) < 6 else 4 if npc.levels(name) < 12 else 5 if npc.levels(name) < 17 else 6}/Recharges on long rest).*** Your rage lasts for 1 minute. {'It ends early if you fall unconscious or if your turn ends and you have not attacked a hostile creature since your last turn or taken damage since then.' if npc.levels(name) < 15 else 'It ends early if you fall unconscious.'} You can end your rage on your turn as a bonus action. {'' if npc.levels(name) < 7 else ' You can move up to half your speed as part of this bonus action. '}If you aren't wearing heavy armor, you gain the following benefits: You have advantage on Strength checks and Strength saving throws; When you make a melee weapon attack using Strength, you gain a +{2 if npc.levels(name) < 9 else 3 if npc.levels(name) < 16 else 4} bonus to the damage roll; You have resistance to bludgeoning, piercing, and slashing damage.") )
 ```
 

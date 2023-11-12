@@ -1,9 +1,9 @@
 # Primal Path: Path of the Zealot
-Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots – warriors who channel their rage into powerful displays of divine power. These barbarians are quite common among the [Al'Uma](../../Cultures/AlUma.md), particularly among the nomads, but are also frequently bound to one of the [Pantheonic gods](../../Religions/Pantheon/index.md) or even, at times, the [Kaevarian Church](../../Religions/KaevarianChurch.md), though in the latter case usually in [Dradehalia](../../Nations/Dradehalia.md).
+Some deities -- or some fiends, or even some tribal chieftains with some amount of divine power themselves -- inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots, warriors who channel their rage into powerful displays of divine power. These barbarians are quite common among the [Al'Uma](../../Cultures/AlUma.md), particularly among the nomads, but are also frequently bound to one of the [Pantheonic gods](../../Religions/Pantheon/index.md) or even, at times, the [Kaevarian Church](../../Religions/KaevarianChurch.md), though in the latter case usually in [Dradehalia](../../Nations/Dradehalia.md).
 
 ```
 name = 'Zealot'
-description = "***Primal Path: Path of the Zealot.*** Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots -- warriors who channel their rage into powerful displays of divine power."
+description = "***Primal Path: Path of the Zealot.*** Some deities -- or some fiends, or even some tribal chieftains with some amount of divine power themselves -- inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots, warriors who channel their rage into powerful displays of divine power."
 ```
 
 ## Divine Fury
