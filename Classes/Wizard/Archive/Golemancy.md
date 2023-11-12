@@ -16,10 +16,11 @@ Your golem gains one level (and one Hit Die) for each level you gain after 2nd. 
 The mending cantrip restores 5 hit points to the golem. If your construct is reduced to zero hit points, it collapses, unable to be restored by the cantrip. The golem can only be repaired after spending a long rest using either mason's tools, smith's tools, or woodcarver's tools, and expending a 1st level spell slot to reactivate it.
 
 ## Advanced Programming
-Beginning at 6th level, your golem adds its profi ciency bonus to its AC and to its damage rolls. Your golem gains proficiency in two skills of your choice. It also becomes profi cient in Strength and Constitution saving throws.
+Beginning at 6th level, your golem adds its proficiency bonus to its AC and to its damage rolls. Your golem gains proficiency in two skills of your choice. It also becomes profi cient in Strength and Constitution saving throws.
 
 ## Adaptable Build
 Beginning at 10th level, your golem gains one of the following abilities, which can be changed at the end of a long rest:
+
 * Hostility Confrontation Matrix. The golem gains an additional slam attack, and its slam attacks deal 2d6 bludgeoning damage. If it hits a Large or smaller creature, the creature must make a successful Strength saving throw against your spell save DC, or be knocked prone. In addition, your golem deals double damage to objects and structures.
 * Arcane Hardened Chassis. Your golem gains immunity to bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine weapons. In addition, it gains resistance to acid, cold, fire, and lightning damage.
 * Prescient Defense Measures. If your golem is within 30 feet of you, you can transfer half of any damage you take (rounded up) to your golem. In addition, when a creature makes an attack against you, the golem can use its reaction to grant you a bonus to your AC against that attack equal to your Intelligence modifier (minimum of 1).

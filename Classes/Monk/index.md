@@ -111,7 +111,7 @@ Certain monasteries use specialized forms of the monk weapons. For example, you 
         npc.martialartsdie = '4' if npc.levels('Monk') < 5 else '6' if npc.levels('Monk') < 11 else '8' if npc.levels('Monk') < 17 else '10'
     npc.defer(lambda npc: madie(npc))
 
-    npc.traits.append("***Martial Arts.*** When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.")
+    npc.bonusactions.append("***Martial Arts.*** When you use the Attack action with an Unarmed Strike or a monk weapon on your turn, you can make an additional Unarmed Strike.")
 
     npc.defer(lambda npc: npc.actions.append(f"***Unarmed Strike.*** *Melee Weapon Attack:* +{npc.proficiencybonus() + npc.DEXbonus()} to hit, reach 5 ft., one target. Hit: 1d{npc.martialartsdie} + {npc.DEXbonus()} bludgeoning damage.{' This attack is considered magical for purposes of overcoming resistance and immunity to nonmagical attacks and damage.' if npc.levels('Monk') > 5 else ''}"))
 ```
@@ -126,6 +126,11 @@ The chosen weapon must meet these criteria:
 * The weapon must be a simple or martial weapon.
 * You must be proficient with it.
 * It must lack the heavy and special properties.
+
+```
+def level2(npc):
+    npc.traits.append("***Dedicated Weapon.*** Whenever you finish a short or long rest, you can touch one weapon (which must be a simple or martial weapon, one you are proficient in, and lacks the heavy and special properties), focus your ki on it, and then count that weapon as a monk weapon until you use this feature again.")
+```
 
 ## Ki
 *2nd-level monk feature*
@@ -147,8 +152,7 @@ Some of your ki features require your target to make a saving throw to resist th
 * **Step of the Wind.** You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
 
 ```
-def level2(npc):
-    npc.defer(lambda npc: npc.traits.append(f"***Ki ({npc.levels('Monk')}/Recharges on short or long rest).*** Ki save DC {8 + npc.proficiencybonus() + npc.WISbonus()}.") )
+    npc.defer(lambda npc: npc.traits.append(f"***Ki ({npc.levels('Monk')} points/Recharges on short or long rest).*** Ki save DC {8 + npc.proficiencybonus() + npc.WISbonus()}.") )
 
     npc.bonusactions.append("***Ki: Flurry of Blows.*** Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two Unarmed Strikes.")
 
@@ -185,6 +189,7 @@ def level3(npc):
 *3rd-level monk feature*
 
 You commit yourself to a monastic tradition:
+
 * [Ascendant Dragon](AscendantDragon.md)
 * [Astral Self](AstralSelf.md)
 * [Binding Force](Force.md)

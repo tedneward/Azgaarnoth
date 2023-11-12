@@ -145,7 +145,6 @@ You choose an arcane tradition, shaping your practice of magic through one of th
 * [Hydromancy](./Hydromancy.md)
 * [Illusion](./Illusion.md)
 * [Incantation](./Incantation.md)
-* [Invention](./Invention.md)
 * [Jaunter](./Jaunter.md)
 * [Kinetics](./Kinetics.md)
 * [Lore Mastery](./LoreMastery.md)
@@ -173,7 +172,7 @@ Additionally, there are some arcane traditions which dare not be practiced openl
 
 * [Bloodmancers](./Bloodmancer.md) and [NeoBloodmancers](./NeoBloodmancer.md): Those who draw power from life's blood can expect to be persecuted on sight; those seeking to join these traditions must find an existing master.
 * [Emomancy](./Emomancy.md): Those wizards who manipulate the emotional spectrum are widely distrusted all across Azgaarnoth. Those who would study it will need to find an existing master Emomancer to pursue this tradition.
-* [Enchantment](./Enchantment.md): Enchanters are widely distrusted all across Azgaarnoth, and are the only major arcane tradition that do not have their own [Mage School](../../Organizations/MageSchools/index.md) focusing on that tradition.
+* [Enchantment](./Enchantment.md): Enchanters are widely distrusted all across Azgaarnoth, and are the only major arcane tradition that do not have their own [Mage School](../../Organizations/MageSchools/index.md) focusing on that tradition. That's never stopped those who want to study the power of mortal emotion, however--just made them harder to find.
 * [Hemomancy](./Hemomancy.md): Like the Bloodmancers, Hemomancers explore the power of blood, which often puts them squarely in the sights of those who decry such powers.
 * [Necromancy](./Necromancy.md): Like all things related to the undead, necromancers often need to practice their skills in secret. However, several necromantic mage schools do operate in the open, either because they have political protection, or because their self-imposed oaths provide some degree of guarantee to the locals (such as the [Night's Blessing](../../Organizations/MageSchools/NightsBlessing.md) school, which studies necromancy as part of its pursuit of the studies of life and healing).
 * [Voidmancy](./Voidmancy.md): Voidmancers draw from powers that many (most) others would prefer left entirely alone. 
