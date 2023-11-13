@@ -1,20 +1,20 @@
 # Sacred Oath: Oath of the Dragon
 The Oath of the Dragon sets a paladin on a path of patient warfare. Their long lives give them time to set plans in motion that take decades or centuries to complete, always against the other side of the eternal war; when dealing with dragons, it is impossible to keep from taking a side.
 
-The [Draconic Order](Organizations/DraconicOrder/DraconicOrder.md) is, in many respects, the pinnacle of the Oath of the Dragon, but not all paladins within the Order swear their oaths to the dragons, nor are all Dragonsworn paladins a part of the Order; some will swear to a dragon or powerful entity within the [Cult of the Wrym](../../Organizations/CultOfTheWyrm.md), and some will swear to the even more sinister [Cult of the Nightwyrm](../../Organizations/CultOfTheWyrm.md).
+The [Draconic Order](Organizations/DraconicOrder/DraconicOrder.md) is, in many respects, the pinnacle of the Oath of the Dragon, but not all paladins within the Order swear their oaths to the dragons, nor are all Dragonsworn paladins a part of the Order; some will swear to a dragon or powerful entity within the [Cult of the Wrym](../../Organizations/CultOfTheWyrm.md), and some will swear to the even more sinister [Cult of the Nightwyrm](../../Organizations/CultOfTheWyrm.md#the-cult-of-the-nightwyrm).
 
 Regardless of the color of the dragon's scales, paladins swearing this Oath are powerful beings deserving of respect and, like their namesake, a little awe.
 
 ## Tenets of the Dragon
 A paladin who undertakes this oath usually does so under the supervision and guidance of a powerful dragon or figure allied to the dragons, whom the paladin chooses to serve, though it is possible to take this oath simply by devoting oneself to the cause and the draconic ideals. Even if you don't serve a particular dragon or type of dragon, choose a type of dragon to emulate from the Dragon Type table. This choice will effect the abilities you obtain later in this class.
 
-***Accumulate Wealth.*** It is your duty to accumulate wealth, whatever form that might take. Save what you gain, keep it somewhere safe, and do not part with it without good cause. (The Order uses this wealth to effect change all across Azgaarnoth, and Cultists use this wealth to further their ends.)
+* **Accumulate Wealth.** It is your duty to accumulate wealth, whatever form that might take. Save what you gain, keep it somewhere safe, and do not part with it without good cause. (The Order uses this wealth to effect change all across Azgaarnoth, and Cultists use this wealth to further their ends.)
 
-***Elimination.*** You play a crucial part in the eternal war between metallic and chromatic dragons. When you can, you must take any opportunity to destroy or weaken any dragon who would oppose you or your beliefs. It is your responsibility to ensure that dragons of your alignment are cared for and protected. Protect those who cannot defend themselves, and pledge loyalty to older dragons.
+* **Elimination.** You play a crucial part in the eternal war between metallic and chromatic dragons. When you can, you must take any opportunity to destroy or weaken any dragon who would oppose you or your beliefs. It is your responsibility to ensure that dragons of your alignment are cared for and protected. Protect those who cannot defend themselves, and pledge loyalty to older dragons.
 
-***Perspective.*** Dragons live for centuries or millennia. Their plans take time to execute; often humanoids forget this, and look at the short-term rewards rather than the long-term. Maintain a long-term perspective.
+* **Perspective.** Dragons live for centuries or millennia. Their plans take time to execute; often humanoids forget this, and look at the short-term rewards rather than the long-term. Maintain a long-term perspective.
 
-***Reverence.*** Dragons are the pinnacle of creation and they should be treated as such. Correct those who fail to see this, and commend those who do.
+* **Reverence.** Dragons are the pinnacle of creation and they should be treated as such. Correct those who fail to see this, and commend those who do.
 
 ## Oath Spells
 You gain oath spells at the paladin levels listed in the Oath of the Dragon Spells table. See the Sacred Oath class feature for how oath spells work.
