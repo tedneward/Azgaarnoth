@@ -1,8 +1,8 @@
 >### Name
->*Medium Female humanoid (Yuan-Ti) Mystic (Order of the Wu Jen) 20, any alignment*
+>*Medium Male humanoid (Yuan-Ti) Mystic (Order of the Wu Jen) 20, any alignment*
 >___
 >- **Armor Class** 13 (Studded leather (12),DEX (+1))
->- **Hit Points** 115 (20d8 + 0)
+>- **Hit Points** 110 (20d8 + 0)
 >- **Speed** 30 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
@@ -28,10 +28,6 @@
 >
 >***Magic Resistance.*** You have advantage on saving throws against spells and other magical effects.
 >
->***Potent Psionics.*** You add 4 to any damage roll you make for a psionic talent.
->
->***Potent Psionics: Attacks.*** Once on each of your turns when you hit a creature with a weapon, you can deal an extra 2d8 psychic damage to that target.
->
 >***Psionic Body.*** You no longer age. In addition, if you die, roll a d20. On a 10 or higher, you discorporate with 0 hit points, instead of dying, and you fall unconscious. You and your gear disappear. You appear at a spot of your choice 1d3 days later on the plane of existence where you died, having gained the benefits of one long rest.
 >
 >***Strength of Mind (Recharges on short or long rest).*** You can replace your proficiency in Wisdom saving throws whenever you finish a short or long rest. To do so, choose Strength, Dexterity, Constitution, or Charisma. You gain proficiency in saves using that ability, instead of Wisdom.
@@ -47,8 +43,6 @@
 >
 >***Animate Weapon (1–7 psi).*** Your mind seizes control of a one-handed melee weapon you’re holding. The weapon flies toward one creature you can see within 30 feet of you and makes a one-handed melee weapon attack against it, using your discipline attack modifier for the attack and damage rolls. On a hit, the weapon deals its normal damage, plus an extra 1d10 force damage per psi point spent on this ability. The weapon returns to your grasp after it attacks.
 >
->***Blind Spot.*** You erase your image from the mind of one creature you can see within 120 feet of you; the target must succeed on a Wisdom saving throw (DC 19), or you are invisible to it until the end of your next turn.
->
 >***Broken Will (5 psi).*** You target one creature you can communicate with via telepathy. The target must make an Intelligence saving throw. On a failed save, you choose the target's movement and action on its next turn. On a successful save, the target is unaffected, and you can't use this ability on it again until you finish a long rest. A creature is immune to this ability if it is immune to being charmed.
 >
 >***Cloud Steps (1–7 psi; concentration, 10 min.).*** You conjure forth clouds to create a solid, translucent staircase that lasts until your concentration ends. The stairs form a spiral that fills a 10-foot-by-10-foot area and reaches upward 20 feet per psi point spent.
@@ -60,8 +54,6 @@
 >***Desiccate (1–7 psi).*** Choose one creature you can see within 60 feet of you. The target must make a Constitution saving throw, taking 1d10 necrotic damage per psi point spent on this ability, or half as much damage on a successful one.
 >
 >***Detonation (5 psi).*** You create a fiery explosion at a point you can see within 120 feet of you. Each creature in a 20-foot-radius sphere centered on that point must make a Constitution saving throw, taking 7d6 fire damage and being knocked prone on a failed save, or half as much damage on a successful one.
->
->***Energy Beam.*** You target one creature you can see within 90 feet of you. The target must succeed on a Dexterity saving throw (DC 19) or take 4d8 acid, cold, fire, lightning, or thunder damage (your choice).
 >
 >***Exacting Query (2 psi).*** You target one creature you can communicate with via telepathy. The target must make an Intelligence saving throw. On a failed save, the target truthfully answers one question you ask it via telepathy. On a successful save, the target is unaffected, and you can't use this ability on it again until you finish a long rest. A creature is immune to this ability if it is immune to being charmed.
 >
@@ -83,17 +75,23 @@
 >
 >***Lightning Leap (5 psi).*** You let loose a line of lightning that is 60 feet long and 5 feet wide. Each creature in the line must make a Dexterity saving throw, taking 6d6 lightning damage on a failed save, or half as much damage on a successful one. You can then teleport to an unoccupied space touched by the line. You can increase this ability’s damage by 1d6 per additional psi point spent on it.
 >
->***Mind Thrust.*** You target one creature you can see within 120 feet of you. The target must succeed on an Intelligence saving throw (DC 19) or take 4d10 psychic damage.
->
 >***Misty Form (6 psi; concentration, 1 min.).*** Your body becomes like a misty cloud until your concentration ends. In this form, you gain resistance to bludgeoning, piercing, and slashing damage, and you can’t take actions other than the Dash action. You can pass through openings that are no more than 1 inch wide without squeezing.
 >
 >***Move (2–7 psi).*** Choose one object you can see within 60 feet of you that isn’t being worn or carried by another creature and that isn’t secured in place. It can’t be larger than 20 feet on a side, and its maximum weight depends on the psi points spent on this ability (**2**: 25 lbs; **3**: 50lbs; **5**: 250lbs; **6**: 500lbs; **7**: 1000lbs). You move the object up to 60 feet, and you must keep the object within sight during this movement. If the object ends this movement in the air, it falls. If the object would fall on a creature, the creature must succeed on a DC 10 Dexterity saving throw. On failure, the creature takes damage as given by the weight/psi spent: **2**: 2d6; **3**: 4d6; **5**: 6d6; **6**: 7d6; **7**: 8d6.
 >
 >***Occluded Mind (2 psi).*** You target one creature you can communicate with via telepathy. The target must make an Intelligence saving throw. On a failed save, the target believes one statement of your choice for the next 5 minutes that you communicate to it via telepathy. The statement can be up to ten words long, and it must describe you or a creature or an object the target can see. On a successful save, the target is unaffected, and you can't use this ability on it again until you finish a long rest. A creature is immune to this ability if it is immune to being charmed.
 >
+>***Potent Psionics: Attacks.*** Once on each of your turns when you hit a creature with a weapon, you can deal an extra 2d8 psychic damage to that target.
+>
 >***Psionic Ability (Int, at level 20. Recharges on long rest).*** 71 Psi points. 4 talents known (Energy Beam, Mind Thrust, Blind Spot, Mind Meld). 8 disciplines known (Mastery of Air, Mastery of Fire, Mastery of Force, Mastery of Ice, Mastery of Weather, Mastery of Wood and Earth, Mastery of Light and Darkness, Mastery of Water, Telepathic Contact). 7 Psi/discipline. Discipline save DC 19, +11 attack bonus
 >
 >***Psionic Mastery (4/Recharges on long rest).*** You gain 11 special psi points that you can spend only on disciplines that require an action or a bonus action to use. You can use all 11 points on one discipline, or you can spread them across multiple disciplines. You can't also spend your normal psi points on these disciplines; you can spend only the special points gained from this feature. If more than one of the disciplines you activate with these points require concentration, you can concentrate on all of them. Activating one of them ends any effect you were already concentrating on, and if you begin concentrating on an effect that doesn't use these special points, these disciplines end what you were concentrating on. When you finish a long rest, you lose any of these special points that you haven't spent.
+>
+>***Psionic Talent: Blind Spot.*** You erase your image from the mind of one creature you can see within 120 feet of you; the target must succeed on a Wisdom saving throw (DC 19), or you are invisible to it until the end of your next turn.
+>
+>***Psionic Talent: Energy Beam.*** You target one creature you can see within 90 feet of you. The target must succeed on a Dexterity saving throw (DC 19) or take 4d8+4 acid, cold, fire, lightning, or thunder damage (your choice).
+>
+>***Psionic Talent: Mind Thrust.*** You target one creature you can see within 120 feet of you. The target must succeed on an Intelligence saving throw (DC 19) or take 4d10+4 psychic damage.
 >
 >***Psychic Domination (7 psi; concentration, 1 min.).*** You target one creature you can see within 60 feet of you. The target must succeed on an Intelligence saving throw, or you choose the creature's actions and movement on its turns until your concentration ends. At the end of each of its turns, it can repeat the saving throw, ending the effect on itself on a success. A creature is immune to this ability if it is immune to being charmed.
 >
@@ -163,9 +161,9 @@
 >
 >***Frozen Sanctuary (3 psi).*** You sheathe yourself with icy resilience. You gain 20 temporary hit points.
 >
->***Mind Meld.*** You can communicate telepathically with one willing creature you can see within 120 feet of you. The target must have an Intelligence of at least 2, otherwise this talent fails and the action is wasted. This communication can occur until the end of the current turn. You don't need to share a language with the target for it to understand your telepathic utterances, and it understands you even if it lacks a language. You also gain access to one memory of the target's choice, gaining perfect recall of one thing it saw or did.
->
 >***Mystical Recovery.*** Immediately after you spend psi points on a psionic discipline, you regain hit points equal to the number of psi points you spent.
+>
+>***Psionic Talent: Mind Meld.*** You can communicate telepathically with one willing creature you can see within 120 feet of you. The target must have an Intelligence of at least 2, otherwise this talent fails and the action is wasted. This communication can occur until the end of the current turn. You don't need to share a language with the target for it to understand your telepathic utterances, and it understands you even if it lacks a language. You also gain access to one memory of the target's choice, gaining perfect recall of one thing it saw or did.
 >
 >***Psychic Focus: Mastery of Air.*** While focused on this discipline, you take no falling damage, and you ignore difficult terrain when walking. The benefit lasts until you are incapacitated or until you use another bonus action to choose a different focus benefit. You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines.
 >
@@ -211,19 +209,19 @@
 >
 
 #### Description
-***Ideals:*** *Honor/Moderation/Beauty.*
+***Ideals:*** *Moderation/Moderation/Slaughter.*
 
-***Appearance:*** *Distinctive jewelry: earrings, necklace, circlet, bracelets.*
+***Appearance:*** *Bald.*
 
-***Talents:*** *Expert dart thrower and rock-skipper.*
+***Talents:*** *Skilled mime.*
 
-***Mannerisms:*** *Fidgets all the time.*
+***Mannerisms:*** *Chews something incessantly.*
 
 ***Interactions with others:*** *Arrogant when speaking with others.*
 
-***Bond:*** *Loyal to a benefactor, patron, or employer.*
+***Bond:*** *Protective of colleagues or compatriots.*
 
-***Flaw:*** *Convinced of their own immortality.*
+***Flaw:*** *Quick to make assumptions.*
 
 ***Race: Yuan-Ti.*** Yuan-ti were originally humans who transformed themselves into serpent folk through ancient rituals. Most yuan-ti were corrupted into monsters by those rites, but some yuan-ti instead became a new people who mix characteristics of humans and snakes. Blessed with resistance to magical and poisonous effects by the rituals that created them, each of these yuan-ti manifests their serpentine heritage in a variety of ways: a forked tongue, snake eyes, a snakelike nose, or some other ophidian characteristic. However a yuan-ti looks, they have the power to pursue great good or evil in the multiverse.
 

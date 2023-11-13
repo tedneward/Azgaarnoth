@@ -82,31 +82,31 @@ def genquirk(npc):
         "You spend any money you earn within 1 week of gaining it.",
         "You often speak to an imaginary companion, and act only with its blessing."
     ]
-    npc.description.append(f"Mystic quirk: {quirks[random.randint[0, len(quirks) - 1]]}")
+    npc.description.append(f"***Mystic quirk.*** {quirks[random.randint[0, len(quirks) - 1]]}")
 ```
 
 Level|Proficiency Bonus|Features|Talents Known|Disciplines Known|Psi Points|Psi Limit
 -----|-----------------|--------|-------------|-----------------|----------|---------
-1st|+2|Psionics, Mystic Order|1|1|4|2
-2nd|+2|Mystical Recovery, Telepathy|1|1|6|2
+1st|+2|[Psionics](#psionics), [Mystic Order](#mystic-order)|1|1|4|2
+2nd|+2|[Mystical Recovery](#mystical-recovery), [Telepathy](#telepathy)|1|1|6|2
 3rd|+2|Mystic Order feature|2|2|14|3
-4th|+2|Ability Score Improvement, Strength of Mind|2|2|17|3
+4th|+2|[Ability Score Improvement](#ability-score-improvement), Strength of Mind|2|2|17|3
 5th|+3|--|2|3|27|5
 6th|+3|Mystic Order feature|2|3|32|5
 7th|+3|--|2|4|38|6
-8th|+3|Ability Score Improvement, Potent Psionics (1d8)|2|4|44|6
+8th|+3|[Ability Score Improvement](#ability-score-improvement), Potent Psionics (1d8)|2|4|44|6
 9th|+4|--|2|5|57|7
-10th|+4|Consumptive Power|3|5|64|7
-11th|+4|Psionic Mastery (1/day)|3|5|64|7
-12th|+4|Ability Score Improvement|3|6|64|7
-13th|+5|Psionic Mastery (2/day)|3|6|64|7
-14th|+5|Mystic Order feature, Potent Psionics (2d8)|3|6|64|7
-15th|+5|Psionic Mastery (3/day)|3|7|64|7
-16th|+5|Ability Score Improvement|3|7|64|7
-17th|+6|Psionic Mastery (4/day)|4|7|64|7
+10th|+4|[Consumptive Power](#consumptive-power)|3|5|64|7
+11th|+4|[Psionic Mastery (1/day)](#psionic-mastery)|3|5|64|7
+12th|+4|[Ability Score Improvement](#ability-score-improvement)|3|6|64|7
+13th|+5|[Psionic Mastery (2/day)](#psionic-mastery)|3|6|64|7
+14th|+5|Mystic Order feature, [Potent Psionics (2d8)](#potent-psionics)|3|6|64|7
+15th|+5|[Psionic Mastery (3/day)](#psionic-mastery)|3|7|64|7
+16th|+5|[Ability Score Improvement](#ability-score-improvement)|3|7|64|7
+17th|+6|[Psionic Mastery (4/day)](#psionic-mastery)|4|7|64|7
 18th|+6|--|4|8|71|7
-19th|+6|Ability Score Improvement|4|8|71|7
-20th|+6|Psionic Body|4|8|71|7
+19th|+6|[Ability Score Improvement](#ability-score-improvement)|4|8|71|7
+20th|+6|[Psionic Body](#psionic-body)|4|8|71|7
 
 ```
 mystictable = {
@@ -316,8 +316,7 @@ In addition, you add your Intelligence modifier to any damage roll you make for 
 def level8(npc):
     abilityscoreimprovement(npc)
 
-    npc.defer(lambda npc: npc.traits.append(f"***Potent Psionics: Attacks.*** Once on each of your turns when you hit a creature with a weapon, you can deal an extra {'1d8' if npc.levels('Mystic') < 14 else '2d8'} psychic damage to that target.") )
-    npc.defer(lambda npc: npc.traits.append(f"***Potent Psionics.*** You add {npc.INTbonus()} to any damage roll you make for a psionic talent.") )
+    npc.defer(lambda npc: npc.actions.append(f"***Potent Psionics: Attacks.*** Once on each of your turns when you hit a creature with a weapon, you can deal an extra {'1d8' if npc.levels('Mystic') < 14 else '2d8'} psychic damage to that target.") )
 ```
 
 ```
@@ -390,6 +389,8 @@ def level20(npc):
     npc.traits.append("***Psionic Body.*** You no longer age. In addition, if you die, roll a d20. On a 10 or higher, you discorporate with 0 hit points, instead of dying, and you fall unconscious. You and your gear disappear. You appear at a spot of your choice 1d3 days later on the plane of existence where you died, having gained the benefits of one long rest.")
 ```
 
+---
+
 # Psionic Talents
 Psionic talents are minor abilities that require psionic aptitude but don't drain a mystic's reservoir of psionic power. Talents are similar to disciplines and use the same rules, but with three important exceptions:
 
@@ -404,7 +405,7 @@ As a bonus action, you cause bright light to radiate from your body in a 20-foot
 
 ```
 def beacon(npc):
-    npc.bonusactions.append(f"***Beacon.*** Bright light radiates from your body in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. The light lasts for 1 hour, and you can extinguish it earlier as a bonus action.")
+    npc.bonusactions.append(f"***Psionic Talent: Beacon.*** Bright light radiates from your body in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. The light lasts for 1 hour, and you can extinguish it earlier as a bonus action.")
 ```
 
 ### Blade Meld
@@ -414,7 +415,7 @@ As a bonus action, a one-handed melee weapon you hold becomes one with your hand
 
 ```
 def blademeld(npc):
-    npc.bonusactions.append(f"***Blade Meld.*** A one-handed melee weapon you hold becomes one with your hand. For the next minute, you can't let go of the weapon nor can it be forced from your grasp.")
+    npc.bonusactions.append(f"***Psionic Talent: Blade Meld.*** A one-handed melee weapon you hold becomes one with your hand. For the next minute, you can't let go of the weapon nor can it be forced from your grasp.")
 ```
 
 ### Blind Spot
@@ -424,7 +425,7 @@ As an action, you erase your image from the mind of one creature you can see wit
 
 ```
 def blindspot(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Blind Spot.*** You erase your image from the mind of one creature you can see within 120 feet of you; the target must succeed on a Wisdom saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}), or you are invisible to it until the end of your next turn.") )
+    npc.defer(lambda npc: npc.actions.append(f"***Psionic Talent: Blind Spot.*** You erase your image from the mind of one creature you can see within 120 feet of you; the target must succeed on a Wisdom saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}), or you are invisible to it until the end of your next turn.") )
 ```
 
 ### Delusion
@@ -438,7 +439,7 @@ If you create an object, it must fit within a 5-foot cube and can't move or be r
 
 ```
 def delusion(npc):
-    npc.actions.append(f"***Delusion.*** you plant a false belief in the mind of one creature that you can see within 60 feet of you. You can create a sound or an image. Only the target of this talent perceives the sound or image you create. If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a creature's roar, a musical instrument, or any other sound you pick. It lasts for 1 minute. If you create an object, it must fit within a 5-foot cube and can't move or be reflective. The image can't create any effect that influences a sense other than sight. The image lasts for 1 minute, and it disappears if the creature touches it.")
+    npc.actions.append(f"***Psionic Talent: Delusion.*** you plant a false belief in the mind of one creature that you can see within 60 feet of you. You can create a sound or an image. Only the target of this talent perceives the sound or image you create. If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a creature's roar, a musical instrument, or any other sound you pick. It lasts for 1 minute. If you create an object, it must fit within a 5-foot cube and can't move or be reflective. The image can't create any effect that influences a sense other than sight. The image lasts for 1 minute, and it disappears if the creature touches it.")
 ```
 
 ## Energy Beam
@@ -450,7 +451,7 @@ The talent's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 
 ```
 def energybeam(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Energy Beam.*** You target one creature you can see within 90 feet of you. The target must succeed on a Dexterity saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}) or take {'1d8' if npc.levels('Mystic') < 5 else '2d8' if npc.levels('Mystic') < 11 else '3d8' if npc.levels('Mystic') < 17 else '4d8'} acid, cold, fire, lightning, or thunder damage (your choice).") )
+    npc.defer(lambda npc: npc.actions.append(f"***Psionic Talent: Energy Beam.*** You target one creature you can see within 90 feet of you. The target must succeed on a Dexterity saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}) or take {'1d8' if npc.levels('Mystic') < 5 else '2d8' if npc.levels('Mystic') < 11 else '3d8' if npc.levels('Mystic') < 17 else '4d8'}{'' if npc.levels('Mystic') < 8 else ('+' + str(npc.INTbonus()))} acid, cold, fire, lightning, or thunder damage (your choice).") )
 ```
 
 ## Light Step
@@ -460,7 +461,7 @@ As a bonus action, you alter your density and weight to improve your mobility. F
 
 ```
 def lightstep(npc):
-    npc.bonusactions.append(f"***Light Step.*** You alter your density and weight to improve your mobility. For the rest of your turn, your walking speed increases by 10 feet, and the first time you stand up this turn, you do so without expending any of your movement if your speed is greater than 0.")
+    npc.bonusactions.append(f"***Psionic Talent: Light Step.*** You alter your density and weight to improve your mobility. For the rest of your turn, your walking speed increases by 10 feet, and the first time you stand up this turn, you do so without expending any of your movement if your speed is greater than 0.")
 ```
 
 ## Mind Meld
@@ -472,7 +473,7 @@ This communication can occur until the end of the current turn. You don't need t
 
 ```
 def mindmeld(npc):
-    npc.bonusactions.append(f"***Mind Meld.*** You can communicate telepathically with one willing creature you can see within 120 feet of you. The target must have an Intelligence of at least 2, otherwise this talent fails and the action is wasted. This communication can occur until the end of the current turn. You don't need to share a language with the target for it to understand your telepathic utterances, and it understands you even if it lacks a language. You also gain access to one memory of the target's choice, gaining perfect recall of one thing it saw or did.")
+    npc.bonusactions.append(f"***Psionic Talent: Mind Meld.*** You can communicate telepathically with one willing creature you can see within 120 feet of you. The target must have an Intelligence of at least 2, otherwise this talent fails and the action is wasted. This communication can occur until the end of the current turn. You don't need to share a language with the target for it to understand your telepathic utterances, and it understands you even if it lacks a language. You also gain access to one memory of the target's choice, gaining perfect recall of one thing it saw or did.")
 ```
 
 ## Mind Slam
@@ -484,7 +485,7 @@ The talent's damage increases by 1d6 when you reach 5th level (2d6), 11th level 
 
 ```
 def mindslam(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Mind Slam.*** You target one creature you can see within 60 feet of you. The target must succeed on a Constitution saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}) or take {'1d6' if npc.levels('Mystic') < 5 else '2d6' if npc.levels('Mystic') < 11 else '3d6' if npc.levels('Mystic') < 17 else '4d6'} force damage. If it takes any of this damage and is Large size or smaller, it is knocked prone.") )
+    npc.defer(lambda npc: npc.actions.append(f"***Psionic Talent: Mind Slam.*** You target one creature you can see within 60 feet of you. The target must succeed on a Constitution saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}) or take {'1d6' if npc.levels('Mystic') < 5 else '2d6' if npc.levels('Mystic') < 11 else '3d6' if npc.levels('Mystic') < 17 else '4d6'}{'' if npc.levels('Mystic') < 8 else ('+' + str(npc.INTbonus()))} force damage. If it takes any of this damage and is Large size or smaller, it is knocked prone.") )
 ```
 
 ## Mind Thrust
@@ -496,7 +497,7 @@ The talent's damage increases by 1d10 when you reach 5th level (2d10), 11th leve
 
 ```
 def mindthrust(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Mind Thrust.*** You target one creature you can see within 120 feet of you. The target must succeed on an Intelligence saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}) or take {'1d10' if npc.levels('Mystic') < 5 else '2d10' if npc.levels('Mystic') < 11 else '3d10' if npc.levels('Mystic') < 17 else '4d10'} psychic damage.") )
+    npc.defer(lambda npc: npc.actions.append(f"***Psionic Talent: Mind Thrust.*** You target one creature you can see within 120 feet of you. The target must succeed on an Intelligence saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}) or take {'1d10' if npc.levels('Mystic') < 5 else '2d10' if npc.levels('Mystic') < 11 else '3d10' if npc.levels('Mystic') < 17 else '4d10'}{'' if npc.levels('Mystic') < 8 else ('+' + str(npc.INTbonus()))} psychic damage.") )
 ```
 
 ## Mystic Charm
@@ -506,7 +507,7 @@ As an action, you beguile one humanoid you can see within 120 feet of you. The t
 
 ```
 def mysticcharm(npc):
-    npc.actions.append(f"***Mystic Charm.*** You beguile one humanoid you can see within 120 feet of you. The target must succeed on a Charisma saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}) or be charmed by you until the end of your next turn.")
+    npc.actions.append(f"***Psionic Talent: Mystic Charm.*** You beguile one humanoid you can see within 120 feet of you. The target must succeed on a Charisma saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}) or be charmed by you until the end of your next turn.")
 ```
 
 ## Mystic Hand
@@ -520,7 +521,7 @@ The object falls to the ground at the end of your turn if you leave it suspended
 
 ```
 def mystichand(npc):
-    npc.actions.append(f"***Mystic Hand.*** You manipulate or move one object within 30 feet of you. The object can't weigh more than 10 pounds, and you can't affect an object being worn or carried by another creature. If the object is loose, you can move it up to 30 feet in any direction. This talent allows you to open an unlocked door, pour out a beer stein, and so on. The object falls to the ground at the end of your turn if you leave it suspended in midair.")
+    npc.actions.append(f"***Psionic Talent: Mystic Hand.*** You manipulate or move one object within 30 feet of you. The object can't weigh more than 10 pounds, and you can't affect an object being worn or carried by another creature. If the object is loose, you can move it up to 30 feet in any direction. This talent allows you to open an unlocked door, pour out a beer stein, and so on. The object falls to the ground at the end of your turn if you leave it suspended in midair.")
 ```
 
 ## Psychic Hammer
@@ -532,7 +533,7 @@ The talent's damage increases by 1d6 when you reach 5th level (2d6), 11th level 
 
 ```
 def psychichammer(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Psychic Hammer.*** You try to grasp one creature you can see within 120 feet of you, with a hand crafted from telekinetic energy. The target must succeed on a Strength saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}) or take {'1d6' if npc.levels('Mystic') < 5 else '2d6' if npc.levels('Mystic') < 11 else '3d6' if npc.levels('Mystic') < 17 else '4d6'} force damage. If it takes any of this damage and is Large or smaller, you can move it up to 10 feet in a straight line in a direction of your choice. You can't lift the target off the ground unless it is already airborne or underwater.") )
+    npc.defer(lambda npc: npc.actions.append(f"***Psionic Talent: Psychic Hammer.*** You try to grasp one creature you can see within 120 feet of you, with a hand crafted from telekinetic energy. The target must succeed on a Strength saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}) or take {'1d6' if npc.levels('Mystic') < 5 else '2d6' if npc.levels('Mystic') < 11 else '3d6' if npc.levels('Mystic') < 17 else '4d6'}{'' if npc.levels('Mystic') < 8 else ('+' + str(npc.INTbonus()))} force damage. If it takes any of this damage and is Large or smaller, you can move it up to 10 feet in a straight line in a direction of your choice. You can't lift the target off the ground unless it is already airborne or underwater.") )
 ```
 
 ```
@@ -559,6 +560,8 @@ def choosetalent(npc):
     npc.psionictalents.append(talentname)
     talentfn(npc)
 ```
+
+---
 
 # Psionic Disciplines
 Psionic disciplines are the heart of a mystic's craft. They are the mental exercises and psionic formulae used to forge will into tangible, magical effects.
