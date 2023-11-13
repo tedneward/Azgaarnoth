@@ -453,6 +453,7 @@ def loadmodule(filename, modulename=None):
             "fullcaster": fullcaster,
             "halfcaster": halfcaster,
             "innatecaster": innatecaster,
+            "Spellcasting": NPC.Spellcasting,
             "replace": replace,
             "random": randomlist,
             "dieroll": dieroll,

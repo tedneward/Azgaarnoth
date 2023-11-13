@@ -15,7 +15,7 @@ def prereq(npc):
         if act[0:len("***Bite")] == "***Bite": return true
     for act in npc.reactions:
         if act[0:len("***Bite")] == "***Bite": return true
-    return false
+    return False
 def apply(npc):
     npc.bonusactions.append("***Savage Charge.*** You make a Bite attack at the end of a Dash action.")
 ```
