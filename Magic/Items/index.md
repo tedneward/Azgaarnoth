@@ -31,7 +31,7 @@ Some items can only be a particular specific within the category--for example, a
 
 * [*Consumable*](potions.md): Philter, Oil, Potion
 
-* Scroll
+* [Scroll](scrolls.md)
 
 # List
 

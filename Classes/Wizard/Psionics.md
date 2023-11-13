@@ -1,9 +1,12 @@
 # Arcane Tradition: Psionics
-Wizards study magical power in all its forms, including the magic of psionics. Those wizards who follow the tradition of Psionics hone the magical potential of their own minds. Sometimes called psionicists or mentalists, these wizards interact with the multiverse through the lens of their psionic aptitude and awareness.
+Wizards study magical power in all its forms, including the magic of psionics. Those wizards who follow the tradition of Psionics hone the magical potential of their own minds. Sometimes called psionicists or psychics, these wizards interact with the multiverse through the lens of their psionic aptitude and awareness. Psionicists channel their magic by focusing their minds. By doing so they can transcend their physical bodies, adopting forms of pure thought, casting spells psionically to bypass the need for components, and perceiving the world with a broader range of senses. As a member of the Psionics tradition, you might have awoken your psionic potential through the strain of your esoteric studies, or perhaps you joined a scholarly order dedicated to unlocking the magic of the mind.
 
-Psionicists channel their magic by focusing their minds. By doing so they can transcend their physical bodies, adopting forms of pure thought, casting spells psionically to bypass the need for components, and perceiving the world with a broader range of senses.
+In the latter case, you likely joined the [MindMage](../../Organizations/MageSchools/MindMage.md) school, one of the very few that focuses on the use of psionics. It's also possible that you had the channels to your mind's power opened by a wandering ex-member of that school, but this happens quite rarely--most psionic wizards prefer to study within the walls of their *sanctum sanctorum* in [Mighal](../../Cities/Mighal.md).
 
-As a member of the Psionics tradition, you might have awoken your psionic potential through the strain of your esoteric studies, or perhaps you joined a scholarly order dedicated to unlocking the magic of the mind. In the latter case, you likely joined the [MindMage](../../Organizations/MageSchools/MindMage.md) school, one of the very few that focuses on the use of psionics. It's also possible that you had the channels to your mind's power opened by a wandering ex-member of that school, but this happens quite rarely--most psionic wizards prefer to study within the walls of their *sanctum sanctorum* in [Mighal](../../Cities/Mighal.md).
+```
+name = "Psionics"
+description = "***Arcane Tradition: Psionics.*** Wizards study magical power in all its forms, including the magic of psionics. Those wizards who follow the tradition of Psionics hone the magical potential of their own minds. Sometimes called psionicists or psychics, these wizards interact with the multiverse through the lens of their psionic aptitude and awareness. Psionicists channel their magic by focusing their minds. By doing so they can transcend their physical bodies, adopting forms of pure thought, casting spells psionically to bypass the need for components, and perceiving the world with a broader range of senses. As a member of the Psionics tradition, you might have awoken your psionic potential through the strain of your esoteric studies, or perhaps you joined a scholarly order dedicated to unlocking the magic of the mind.
+```
 
 ## Psionic Focus
 Starting at the 2nd level, you have learned to channel psionic energy through a special object: a psionic focus. You gain the object with this feature (see the "Your Psionic Focus" sidebar for how you might have acquired the item).
@@ -23,6 +26,7 @@ If your psionic focus is lost, you can magically recreate it by meditating for 1
 
 ## Psionic Devotion
 *2nd-level Psionics feature*
+
 Starting at the 2nd level, your study of psionics begins to unleash your mind's potential. When you gain this feature, choose one of the following cantrips: friends, mage hand, or message. You learn that cantrip if you don't already know it, and it doesn't count against the number of wizard cantrips you know.
 
 While your psionic focus is on your person, you can cast the chosen cantrip as a bonus action, requiring no components, and with the modification listed below:
@@ -33,6 +37,7 @@ While your psionic focus is on your person, you can cast the chosen cantrip as a
 
 ## Thought Form
 *6th-level Psionics feature*
+
 Starting at the 6th level, while you are carrying your psionic focus, you can use a bonus action to magically transform your body into pure psionic energy. The transformation lasts for 10 minutes, until you use a bonus action to assume your normal form, or until you are incapacitated or die.
 
 While in thought form, you are a figure of luminous psychic energy, with your psionic focus hovering within. Your form can appear as anything you wish, but it is obviously magical, is the same size as you, and sheds dim light in a 5- foot-radius. Any other equipment you are wearing or carrying transforms with you and melds into your thought form. You also gain the following benefits:
@@ -44,11 +49,13 @@ You can transform using this feature a number of times equal to your Intelligenc
 
 ## Mental Discipline
 *10th-level Psionics feature*
+
 Starting at the 10th level, your mind's power expands to greater heights. When you gain this feature, choose one of the following spells: dominate person, scrying, or telekinesis. You can add the spell to your spellbook, and you can cast it without components.
 You can also cast the chosen spell once without expending a spell slot. After you do so, you regain the ability to cast the spell without a slot when you finish a long rest.
 
 ## Empowered Psionics
 *10th-level Psionics feature*
+
 When you deal psychic or force damage with a wizard spell, you can add your Intelligence modifier to the damage against one of the spell's targets.
 
 ## Thought Travel
@@ -104,10 +111,10 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 * levitate
 * locate object
 * mental barrier
-* mind spike (Xanathar's Guide) 
+* [mind spike](../../Magic/Spells/mind-spike.md)
 * mind thrust
 * mirror image
-* [misty step](https://www.dndbeyond.com/spells/misty-step)
+* [misty step](../../Magic/Spells/misty-step.md)
 * phantasmal force
 * see invisibility
 * suggestion
@@ -117,13 +124,13 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 * blink
 * [catnap](../../Magic/Spells/catnap.md)
 * clairvoyance
-* enemies abound (Xanathar's Guide) 
+* [enemies abound](../../Magic/Spells/enemies-abound.md)
 * fear
 * fly
 * hypnotic pattern
 * major image
 * nondetection
-* psionic blast*
+* [psionic blast](../../Magic/Spells/psionic-blast.md)
 * sending
 * tongues
 
@@ -132,7 +139,7 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 * [charm monster](../../Magic/Spells/charm-monster.md) 
 * confusion
 * dimension door
-* ego whip*
+* ego whip
 * greater invisibility
 * hallucinatory terrain 
 * locate creature
@@ -144,18 +151,19 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 * contact other plane (ritual)
 * dominate person
 * dream
-* far step (Xanathar's Guide)
+* [far step](../../Magic/Spells/far-step.md)
 * geas
 * hold monster
-* intellect fortress*
+* intellect fortress
 * legend lore
 * mislead
 * modify memory
 * Rary's telepathic bond (ritual)
 * scrying
 * seeming
-* skill empowerment (Xanathar's Guide) 
-* synaptic static (Xanathar's Guide) telekinesis
+* [skill empowerment](../../Magic/Spells/skill-empowerment.md)
+* [synaptic static](../../Magic/Spells/synaptic-static.md)
+* telekinesis
 * teleportation circle
 * wall of force
 
@@ -165,11 +173,11 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 * eyebite
 * magic jar
 * mass suggestion
-* mental prison (Xanathar's Guide) 
+* [mental prison](../../Magic/Spells/mental-prison.md)
 * Otto's irresistible dance 
 * programmed illusion
 * psychic crush
-* scatter (Xanathar's Guide)
+* [scatter](../../Magic/Spells/scatter.md)
 * true seeing
 
 #### 7th Level
@@ -177,7 +185,7 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 * forcecage
 * mirage arcane
 * plane shift
-* power word pain (Xanathar's Guide) 
+* [power word pain](../../Magic/Spells/power-word-pain.md)
 * project image
 * reverse gravity 
 * sequester 
@@ -187,8 +195,8 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 * antipathy/sympathy
 * dominate monster
 * feeblemind
-* illusory dragon (Xanathar's Guide) 
-* maddening darkness (Xanathar's Guide) 
+* [illusory dragon](../../Magic/Spells/illusory-dragon.md)
+* [maddening darkness](../../Magic/Spells/maddening-darkness.md)
 * mind blank
 * power word stun 
 * telepathy
@@ -197,4 +205,4 @@ Here is a list of wizard spells that fit with these themes. Spells marked with a
 * astral projection
 * foresight
 * imprisonment
-* psychic scream (Xanathar's Guide)
+* [psychic scream](../../Magic/Spells/psychic-scream.md)
