@@ -1,8 +1,9 @@
 # [Bugbears](../Creatures/Bugbears.md)
+Bugbears were the lazy bullies of the Hordes, and the rest of Azgaarnoth is grateful that these physical specimens of might have generally chosen the easiest path rather than seek to assert themselves collectively as a race. The only members of the Hordes that might have challenged the minotaurs for primacy over the Hordes, bugbears instead chose to focus on their own indolence rather than leadership and control, and the average bugbear continues that tradition to this day.
 
 ```
 name = 'Bugbear'
-description = "***Race: Bugbear.*** Bugbears were the lazy bullies of the Hordes, and the rest of Azgaarnoth is grateful that these physical specimens of might have generally chosen the easiest path rather than seek to assert themselves collectively as a race. As the only members of the Hordes that might have challenged the minotaurs for primacy over the Hordes, bugbears effectively ceded primacy over the Hordes to the bull-men by choosing instead to focus on rest and sleep and lethargy."
+description = "***Race: Bugbear.*** Bugbears were the lazy bullies of the Hordes, and the rest of Azgaarnoth is grateful that these physical specimens of might have generally chosen the easiest path rather than seek to assert themselves collectively as a race. The only members of the Hordes that might have challenged the minotaurs for primacy over the Hordes, bugbears instead chose to focus on their own indolence rather than leadership and control, and the average bugbear continues that tradition to this day."
 type = 'humanoid'
 
 def level0(npc):
@@ -17,7 +18,7 @@ def level0(npc):
 
 * **Age**. Bugbears reach adulthood at age 16 and live up to 80 years.
 
-* **Alignment**. Bugbears endure a harsh existence that demands each of them to remain self-sufficient, even at the expense of their fellows. They tend to be chaotic evil.
+* **Alignment**. Bugbears endure a harsh existence that demands each of them to remain self-sufficient, even at the expense of their fellows. They tend to be chaotic, and often their natural tendency is to selfishness (evil).
 
 * **Size**. Bugbears are between 6 and 8 feet tall and weigh between 250 and 350 pounds. Your size is Medium.
 
@@ -69,7 +70,5 @@ def level0(npc):
 
 ## Bugbear Names
 
-Rith, Nurrink, Zittuth, Chrivrar, Thank, Nadron, Zhun, Rurgunn, Breggor, Naddak, Tidrank, Thaghon, Nezzilk, 
-Vurk, Khor, Tugalk, Bidir, Ditrimkk, Viggamkk, Ghagurk, Hrork, Gonk, Brighar, Zhaggolk, Vidrok, Gughann, 
-Zhaddunn, Gozzath, Thetan, Tegron
+Rith, Nurrink, Zittuth, Chrivrar, Thank, Nadron, Zhun, Rurgunn, Breggor, Naddak, Tidrank, Thaghon, Nezzilk, Vurk, Khor, Tugalk, Bidir, Ditrimkk, Viggamkk, Ghagurk, Hrork, Gonk, Brighar, Zhaggolk, Vidrok, Gughann, Zhaddunn, Gozzath, Thetan, Tegron
 

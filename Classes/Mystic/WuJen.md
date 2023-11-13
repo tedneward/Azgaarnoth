@@ -59,13 +59,10 @@ The spell slot remains until you use it or finish a long rest. You must observe 
 Whenever you gain a level in this class, you can replace one of the chosen wizard spells with a different wizard spell of 1st through 3rd level.
 
 ```
-import npcbuilder
-
-class WuJenSpellcasting(npcbuilder.NPC.Spellcasting):
+class WuJenSpellcasting(Spellcasting):
     def __init__(self, npc):
-        npcbuilder.NPC.Spellcasting.__init__(self, npc, 'INT', "Wu Jen Spellcasting")
+        Spellcasting.__init__(self, npc, 'INT', "Wu Jen Spellcasting")
         self.casterclass = allclasses['Mystic']
-        npc.spellcasting["Wu Jen Spellcasting"] = self
 
     def emitMD(self):
         text = f">***Wu Jen Spellcasting (Int, at level {self.casterlevel()}. Recharges on long rest).*** "
@@ -77,7 +74,7 @@ class WuJenSpellcasting(npcbuilder.NPC.Spellcasting):
 
 
 def level6(npc):
-    spellcasting = WuJenSpellcasting(npc)
+    npc.spellcasting["Wu Jen Spellcasting"] = WuJenSpellcasting(npc)
     npc.bonusactions.append("***Arcane Dabbler.*** You can spend psi points to create spell slots (**2 psi:** 1st-level slot, **3:** 2nd, **5:** 3rd, **6:** 4th, **7:** 5th) that you can use to cast these spells, as well as other spells you are capable of casting. The spell slot remains until you use it or finish a long rest. You must observe your psi limit when spending psi points to create a spell slot.")
 ```
 
