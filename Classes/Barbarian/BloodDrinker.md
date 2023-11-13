@@ -30,7 +30,7 @@ Not all Blood Drinkers are fur-wearing arctic warriors of the barren steppes, ei
 ## Blood Fury
 *3rd-level Blood Drinker feature*
 
-If you make a melee weapon attack on your turn while you're raging and you have no more than half of your hit points left, you add ld8 + half your barbarian level to the attack's damage roll on a hit. 
+If you make a melee weapon attack on your turn while you're raging and you have no more than half of your hit points left, you add 1d8 + half your barbarian level to the attack's damage roll on a hit. 
 
 You can only deal bonus damage in this way once per turn.
 

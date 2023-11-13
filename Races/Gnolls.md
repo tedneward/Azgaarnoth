@@ -43,13 +43,13 @@ def level0(npc):
 * **Bite.** You are proficient with your bite attack, which is a melee weapon attack that deals 1d6 piercing damage plus your Strength modifier.
 
 ```
-    npc.defer(lambda npc: npc.actions.append("***Bite.*** Melee Weapon Attack: +{npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5 ft., one target. Hit: 1d6 + {npc.STRbonus()} piercing damage."))
+    npc.defer(lambda npc: npc.actions.append(f"***Bite.*** Melee Weapon Attack: +{npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5 ft., one target. Hit: 1d6 + {npc.STRbonus()} piercing damage."))
 ```
 
 * **Rampage.** When you reduce a creature to 0 hit points with a melee attack on your turn, you may, use a bonus action to move up to half your speed and make a bite attack.
 
 ```
-    npc.bonusactions.append("***Rampage.*** After you reduce a creature to 0 hit points with a melee attack on its turn, the you can move up to half its speed and make a Bite attack.")
+    npc.bonusactions.append("***Rampage.*** After you reduce a creature to 0 hit points with a melee attack on its turn, the you can move up to half your speed and make a Bite attack.")
 ```
 
 * **Frightful Appearance.** You are proficient in the Intimidation skill.

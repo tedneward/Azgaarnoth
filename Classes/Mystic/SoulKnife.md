@@ -32,7 +32,7 @@ As a bonus action, you can prepare to use the blades to parry; you gain a +2 bon
 
 ```
     npc.bonusactions.append("***Soul Knife.*** You create scintillating knives of energy that project from both of your fists. You can't hold anything in your hands while manifesting these blades. You can dismiss them as a bonus action.")
-    npc.defer(lambda npc: npc.actions.append("***Soul Knife.*** *Melee Weapon Attack:* +{npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5 ft, one target. Hit: 1d8 psychic damage. This is a martial melee weapon with the light and finesse properties.") )
+    npc.defer(lambda npc: npc.actions.append(f"***Soul Knife.*** *Melee Weapon Attack:* +{npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5 ft, one target. Hit: 1d8 psychic damage. This is a martial melee weapon with the light and finesse properties.") )
     npc.bonusactions.append("***Soul Knife Parry.*** You gain a +2 bonus to AC until the start of your next turn or until you are incapacitated.")
 ```
 

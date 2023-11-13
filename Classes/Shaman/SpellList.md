@@ -14,6 +14,7 @@
 * [Shadow Garrote](../../Magic/Spells/shadow-garrote.md)
 * [Shadow Lance](../../Magic/Spells/shadow-lance.md)
 * [Touch of Madness](../../Magic/Spells/touch-of-madness.md)
+* [Toxic Cloud](../../Magic/Spells/toxic-cloud.md)
 * [Vicious Mockery](../../Magic/Spells/vicious-mockery.md)
  
 ## 1st-Level Spells

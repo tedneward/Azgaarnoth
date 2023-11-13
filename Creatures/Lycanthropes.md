@@ -1,7 +1,7 @@
 # Lycanthropes
 One of the most ancient and feared of all curses, lycanthropy can transform the most civilized humanoid into a ravening beast. In its natural humanoid form, a creature cursed by lycanthropy appears as its normal self. Over time, however, many lycanthropes acquire features suggestive of their animal form. In that animal form, a lycanthrope resembles a powerful version of a normal animal. On close inspection, its eyes show a faint spark of unnatural intelligence and might glow red in the dark.
 
-> Jump to: [Wereape](Lycanthropes.md#wereape) | [Werebear](Lycanthropes.md#werebear) | [Wereboar](Lycanthropes.md#wereboar) | [Werecobra](Lycanthropes.md#werecobra) | [Wereagle](Lycanthropes.md#wereagle) | [Weregator](Lycanthropes.md#weregator) | [Werekraken](Lycanthropes.md#werekraken) | [Wererat](Lycanthropes.md#wererat) | [Wereshark](Lycanthropes.md#wereshark) | [Werespider](Lycanthropes.md#werespider) | [Weretiger](Lycanthropes.md#weretiger) | [Wereturtle](Lycanthropes.md#wereturtle) | [Werewolf](Lycanthropes.md#werewolf)
+> Jump to: [Wereape](Lycanthropes.md#wereape) | [Werebear](Lycanthropes.md#werebear) | [Wereboar](Lycanthropes.md#wereboar) | [Werecobra](Lycanthropes.md#werecobra) | [Wereagle](Lycanthropes.md#wereagle) | [Weregator](Lycanthropes.md#weregator) | [Werekraken](Lycanthropes.md#werekraken) | [Wereowl](Lycanthropes.md#wereowl) | [Wererat](Lycanthropes.md#wererat) | [Wereshark](Lycanthropes.md#wereshark) | [Werespider](Lycanthropes.md#werespider) | [Weretiger](Lycanthropes.md#weretiger) | [Wereturtle](Lycanthropes.md#wereturtle) | [Werewolf](Lycanthropes.md#werewolf)
 
 Evil lycanthropes hide among normal folk, emerging in animal form at night to spread terror and bloodshed, especially under a full moon. Good lycanthropes are reclusive and uncomfortable around other civilized creatures, often living alone in wilderness areas far from villages and towns. Some lycanthropes seek out their own kind, only comfortable around those that suffer from their specific affliction, while others embrace any who share their curse. Rumors abound of whole villages of lycanthropes, somehow at peace with themselves and their surroundings.
 
@@ -107,7 +107,7 @@ Solitary creatures, werebears act as wardens over their territory, protecting fl
 >
 >***Claw (Bear or Hybrid Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
 >
->Greataxe (Humanoid or Hybrid Form Only). Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.
+>***Greataxe (Humanoid or Hybrid Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.
 >
 
 ---
@@ -150,12 +150,12 @@ Wereboars live in small family groups in remote forest areas, building ramshackl
 >
 >***Charge (Boar or Hybrid Form Only).*** If the wereboar moves at least 15 feet straight toward a target and then hits it with its tusks on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 >
->Relentless (Recharges after a Short or Long Rest). If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
+>***Relentless (Recharges after a Short or Long Rest).*** If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 >
 >#### Actions
->Multiattack (Humanoid or Hybrid Form Only). The wereboar makes two attacks, only one of which can be with its tusks.
+>***Multiattack (Humanoid or Hybrid Form Only).*** The wereboar makes two attacks, only one of which can be with its tusks.
 >
->Maul (Humanoid or Hybrid Form Only). Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.
+>***Maul (Humanoid or Hybrid Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.
 >
 >***Tusks (Boar or Hybrid Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
 >
@@ -328,8 +328,7 @@ Werekrakens are ruthless and self-interested, with a vicious fury that is roused
 >
 >***Amphibious.*** The werekraken can breathe air and water.
 >
->***Underwater Camouflage (Octopus or Hybrid Form Only).*** The werekraken has advantage on Dexterity (Stealth)
-checks made while underwater.
+>***Underwater Camouflage (Octopus or Hybrid Form Only).*** The werekraken has advantage on Dexterity (Stealth) checks made while underwater.
 >
 >#### Actions
 >***Multiattack (Hybrid Form Only).*** The werekraken makes two attacks with its harpoon or its tentacle.
@@ -383,18 +382,15 @@ Given their deep attraction to arcane magic, it is not surprising how many find 
 >***Keen Hearing and Sight.*** The wereowl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 >
 >#### Actions
->***Multiattack (Hybrid Form Only).*** The wereowl makes one attack with its Beak and one attack with its Quarterstaff. It
-can cast a spell in place of one of these attacks.
+>***Multiattack (Hybrid Form Only).*** The wereowl makes one attack with its Beak and one attack with its Quarterstaff. It can cast a spell in place of one of these attacks.
 >
->***Beak (Owl or Hybrid Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing
-damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wereowl lycanthropy.
+>***Beak (Owl or Hybrid Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wereowl lycanthropy.
 >
 >***Talons (Owl Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d6 + 3) slashing damage.
 >
 >***Quarterstaff (Humanoid or Hybrid Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 3) bludgeoning damage, or 8 (1d8 + 3) bludgeoning damage if used with two hands, plus 5 (2d4) force damage.
 >
->***Innate Spellcasting (Humanoid or Hybrid Form Only).*** The wereowl's innate spellcasting ability is Intelligence (spell
-save DC 13, +5 to hit with spell attacks). The wereowl can innately cast the following spells:
+>***Innate Spellcasting (Humanoid or Hybrid Form Only).*** The wereowl's innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The wereowl can innately cast the following spells:
 >
 >* *At will:* mage hand, message, minor illusion, prestidigitation, ray of frost
 >* *2/day each:* detect magic, disguise self, invisibility, magic missile, sleep
@@ -446,13 +442,13 @@ Wererat clans are found throughout urban civilization, often dwelling in cellars
 >***Keen Smell.*** The wererat has advantage on Wisdom (Perception) checks that rely on smell.
 >
 >#### Actions
->Multiattack (Humanoid or Hybrid Form Only). The wererat makes two attacks, only one of which can be a bite.
+>***Multiattack (Humanoid or Hybrid Form Only).*** The wererat makes two attacks, only one of which can be a bite.
 >
 >***Bite (Rat or Hybrid Form Only).*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.
 >
->Shortsword (Humanoid or Hybrid Form Only). Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+>***Shortsword (Humanoid or Hybrid Form Only).*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 >
->Hand Crossbow (Humanoid or Hybrid Form Only). Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+>***Hand Crossbow (Humanoid or Hybrid Form Only).*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 >
 
 ---
@@ -637,7 +633,7 @@ Most wereturtles live as isolated hermits in the deep wilderness, guarding the e
 >___
 >***Shapechanger.*** The wereturtle can use its action to polymorph into a turtle-humanoid hybrid or into a Medium turtle, or back into its true form, which is humanoid. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 >
->***Hold Breath.*** The wereturtle can hold its breath for l hour.
+>***Hold Breath.*** The wereturtle can hold its breath for 1 hour.
 >
 >***Stable (Turtle Form Only).*** Whenever an effect knocks the wereturtle prone, it can make a DC 10 Constitution saving throw to avoid being knocked prone. A prone wereturtle is upside down. To stand up, it must succeed on a DC 10 Dexterity check on its turn and then use all its movement for that turn.
 >
@@ -702,7 +698,7 @@ Most werewolves flee civilized lands not long after becoming afflicted. Those th
 >***Keen Hearing and Smell.*** The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 >
 >#### Actions
->Multiattack (Humanoid or Hybrid Form Only). The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form).
+>***Multiattack (Humanoid or Hybrid Form Only).*** The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form).
 >
 >***Bite (Wolf or Hybrid Form Only).*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.
 >

@@ -1,15 +1,21 @@
 # Primal Path: Path of the Beast
-Barbarians who walk the Path of Beast draw their rage from a bestial spark burning within their souls. That beast howls to be released and bursts forth in the throes of rage. Such a barbarian might be inhabited by a primal spirit or be descended from shape-shifters. You can choose the origin of your feral might or determine it by rolling on the Origin of the Beast table. These barbarians are often found at the fringes of civilization, in [North Bedia](../../Nations/Bedia.md); some may have emerged amongst the chaos in [Chidia](../../Geography/Chidia.md) but will generally want to keep their bestial nature a little disguised.
+Barbarians who walk the Path of Beast draw their rage from a bestial spark burning within their souls. That beast howls to be released and bursts forth in the throes of rage. Such a barbarian might be inhabited by a primal spirit or be descended from shape-shifters.
+
+You can choose the origin of your feral might or determine it by rolling on the Origin of the Beast table. These barbarians are often found at the fringes of civilization, in [North Bedia](../../Nations/Bedia.md); some may have emerged amongst the chaos in [Chidia](../../Geography/Chidia.md) but will generally want to keep their bestial nature a little disguised.
 
 **Origin of the Beast**
 
 d4|Origin
 --|------
 1 | One of your parents is a lycanthrope, and you've inherited some of their curse.
-2 | You are descended from an archdruid and inherited the ability to partially change sha pe.
+2 | You are descended from an archdruid and inherited the ability to partially change shape.
 3 | A fey spirit gifted you with the ability to adopt different bestial aspects.
 4 | An ancient animal spirit dwells within you, allowing you to walk this path.
 
+```
+name = 'Beast'
+description = "***Primal Path: Path of the Beast.*** Barbarians who walk the Path of Beast draw their rage from a bestial spark burning within their souls. That beast howls to be released and bursts forth in the throes of rage. Such a barbarian might be inhabited by a primal spirit or be descended from shape-shifters."
+```
 
 ## Form of the Beast
 *3rd-level Path of the Beast feature* 
@@ -18,9 +24,18 @@ When you enter your rage, you can transform, revealing the bestial power within 
 
 * **Bite**. Your mouth transforms into a bestial snout or great mandibles (your choice). Your bite deals 1d8 piercing damage on a hit. Once on each of your turns when you damage a creature with your bite, you regain a number of hit points equal to your proficiency bonus, provided you have less than half your hit points when you hit.
 
-* **Claws**. Each of your hands transforms into a claw, which you can use as a weapon if it's empty. It deals ld6 slashing damage on a hit. Once on each of your turns when you attack with a claw using the Attack action, you can make one additional claw attack as part of the same action.
+* **Claws**. Each of your hands transforms into a claw, which you can use as a weapon if it's empty. It deals 1d6 slashing damage on a hit. Once on each of your turns when you attack with a claw using the Attack action, you can make one additional claw attack as part of the same action.
 
-* **Tail**. You grow a lashing, spiny tail, which deals ld8 piercing damage on a hit and has the reach property. If a creature you can see within 10 feet of you hits you with an attack roll, you can use your reaction to swipe your tail and roll a d8, applying a bonus to your AC equal to the number rolled, potentially causing the attack to miss you.
+* **Tail**. You grow a lashing, spiny tail, which deals 1d8 piercing damage on a hit and has the reach property. If a creature you can see within 10 feet of you hits you with an attack roll, you can use your reaction to swipe your tail and roll a d8, applying a bonus to your AC equal to the number rolled, potentially causing the attack to miss you.
+
+```
+def level3(npc):
+    npc.bonusactions.append("***Beast Form.*** When you enter your rage, you can transform, revealing the bestial power within you. Until your rage ends, you manifest a natural weapon, either a Bite, Claws, or a Tail.")
+    npc.defer(lambda npc: npc.actions.append(f"***Bite (Beast Form only).*** Melee Weapon Attack: +{npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5 ft., one target. Hit: 1d8 + {npc.STRbonus()} piercing damage. Once on each of your turns when you damage a creature with your bite, you regain {npc.proficiencybonus()} hitpoints, provided you have less than half your hit points when you hit.{'' if npc.levels('Barbarian') < 6 else ' This attack is considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.'}") )
+    npc.defer(lambda npc: npc.actions.append(f"***Claws (Beast Form only).*** Melee Weapon Attack: +{npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5ft., one target. Hit: 1d6 + {npc.STRbonus()} slashing damage. Once on each of your turns when you attack with a claw using the Attack action, you can make one additional claw attack as part of the same action.{'' if npc.levels('Barbarian') < 6 else ' This attack is considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.'}") )
+    npc.actions.append(f"***Tail (Beast Form only).*** Melee Weapon Attack: +{npc.proficiencybonus() + npc.STRbonus()} to hit, reach 10ft., one target. Hit: 1d8 + {npc.STRbonus()} piercing damage.{'' if npc.levels('Barbarian') < 6 else ' This attack is considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.'}")
+    npc.reactions.append("***Tail Swipe (Beast Form only).*** If a creature you can see within 10 feet of you hits you with an attack roll, you swipe your tail. Roll a d8, applying the number rolled as a bonus to your AC, potentially causing the attack to miss you.")
+```
 
 ## Bestial Soul
 *6th-level Path of the Beast feature*
@@ -33,6 +48,11 @@ You can also alter your form to help you adapt to your surroundings. When you fi
 * You gain a climbing speed equal to your walking speed, and you can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 * When you jump, you can make a Strength (Athletics) check and extend your jump by a number of feet equal to the check's total. You can make this special check only once per turn.
 
+```
+def level6(npc):
+    npc.traits.append("***Bestial Soul.*** You can alter your form to help you adapt to your surroundings. When you finish a short or long rest, choose one of the following benefits, which lasts until you finish your next short or long rest: You gain a swimming speed equal to your walking speed, and you can breathe underwater; You gain a climbing speed equal to your walking speed, and you can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check; When you jump, you can make a Strength (Athletics) check and extend your jump by a number of feet equal to the check's total. You can make this special check only once per turn.")
+```
+
 ## Infectious Fury
 *10th-level Path of the Beast feature*
 
@@ -43,9 +63,19 @@ When you hit a creature with your natural weapons while you are raging, the spir
 
 You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
+```
+def level10(npc):
+    npc.defer(lambda npc: npc.traits.append(f"***Infectious Fury (Recharges on long rest).*** When you hit a creature with your natural weapons while you are raging, the spirit within you curses your target with rabid fury; the target must succeed on a Wisdom saving throw (DC {8 + npc.proficiencybonus() + CONbonus()}) or suffer one of the following effects (your choice): The target must use its reaction to make a melee attack against another creature of your choice that you can see; The target takes 2d12 psychic damage.") )
+```
+
 ## Call the Hunt
 *14th-level Path of the Beast feature*
 
 The beast within you grows so powerful that you can spread its ferocity to others and gain resilience from them joining your hunt. When you enter your rage, you can choose a number of other willing creatures you can see within 30 feet of you equal to your Constitution modifier (minimum of one creature). You gain 5 temporary hit points for each creature that accepts this feature. Until the rage ends, the chosen creatures can each use the following benefit once on each of their turns: when the creature hits a target with an attack roll and deals damage to it, the creature can roll a d6 and gain a bonus to the damage equal to the number rolled. 
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+```
+def level14(npc):
+    npc.defer(lambda npc: npc.traits.append(f"***Call the Hunt ({npc.proficiencybonus()}/Recharges on long rest).*** When you enter your rage, you can choose up to {npc.CONbonus()} willing creatures you can see within 30 feet of you. You gain 5 temporary hit points for each creature that accepts this feature. Until the rage ends, the chosen creatures can each use the following benefit once on each of their turns: when the creature hits a target with an attack roll and deals damage to it, the creature can add a 1d6 bonus to the damage.") )
+```
