@@ -109,55 +109,55 @@ def dragonswings(npc):
     npc.actions.append(f"***Ki: Dragon's Wings.*** You can spend 4 ki points to cast {spelllinkify('fly')}, targeting yourself.")
 
 def pathoftheamethystwyrm(npc):
-    npc.actions.append(f"***Ki: Path of the Amethyst Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.)
+    npc.actions.append(f"***Ki: Path of the Amethyst Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.")
 
 def pathoftheblackwyrm(npc):
-    npc.actions.append(f"***Ki: Path of the Black Wyrm.*** You can spend 6 ki points to cast {spelllinkify('contagion')} as a 5th-level spell.)
+    npc.actions.append(f"***Ki: Path of the Black Wyrm.*** You can spend 6 ki points to cast {spelllinkify('contagion')} as a 5th-level spell.")
 
 def pathofthebluewyrm(npc):
-    npc.actions.append(f"***Ki: Path of the Blue Wyrm.*** You can spend 6 ki points to cast {spelllinkify('lightning bolt')} as a 5th-level spell.)
+    npc.actions.append(f"***Ki: Path of the Blue Wyrm.*** You can spend 6 ki points to cast {spelllinkify('lightning bolt')} as a 5th-level spell.")
 
 def pathofthebrasswyrm(npc):
-    npc.actions.append(f"***Ki: Path of the Brass Wyrm.*** You can spend 6 ki points to cast {spelllinkify('immolation')} as a 5th-level spell.)
+    npc.actions.append(f"***Ki: Path of the Brass Wyrm.*** You can spend 6 ki points to cast {spelllinkify('immolation')} as a 5th-level spell.")
 
 def pathofthebronzewyrm(npc):
-    npc.actions.append(f"***Ki: Path of the Bronze Wyrm.*** You can spend 6 ki points to cast {spelllinkify('lightning bolt')} as a 5th-level spell.)
+    npc.actions.append(f"***Ki: Path of the Bronze Wyrm.*** You can spend 6 ki points to cast {spelllinkify('lightning bolt')} as a 5th-level spell.")
 
 def pathofthebrownwyrm(npc):
-    npc.actions.append(f"***Ki: Path of the Brown Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.)
+    npc.actions.append(f"***Ki: Path of the Brown Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.")
 
 def pathofthecopperwyrm(npc):
-    npc.actions.append(f"***Ki: Path of the Copper Wyrm.*** You can spend 6 ki points to cast {spelllinkify('wall of stone')} as a 5th-level spell.)
+    npc.actions.append(f"***Ki: Path of the Copper Wyrm.*** You can spend 6 ki points to cast {spelllinkify('wall of stone')} as a 5th-level spell.")
 
 def pathofthecrystalwyrm(npc):
-    npc.actions.append(f"***Ki: Path of the Crystal Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.)
+    npc.actions.append(f"***Ki: Path of the Crystal Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.")
 
 def pathoftheemeraldwyrm(npc):
-    npc.actions.append(f"***Ki: Path of the Emerald Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.)
+    npc.actions.append(f"***Ki: Path of the Emerald Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.")
 
 def pathofthegoldwyrm(npc):
     npc.actions.append("***Ki: Path of the Gold Wyrm.*** You can spend 6 ki points to gain the foresight of the gold wyrm. For as long as you maintain concentration (as if concentrating on a spell), for up to one minute, your attack rolls have advantage and attack rolls against you have disadvantage.")
 
 def pathofthegraywyrm(npc):
-    npc.actions.append(f"***Ki: Path of the Gray Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.)
+    npc.actions.append(f"***Ki: Path of the Gray Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.")
 
 def pathofthegreenwyrm(npc):
-    npc.actions.append(f"***Ki: Path of the Green Wyrm.*** You can spend 6 ki points to cast {spelllinkify('geas')} as a 5th-level spell.)
+    npc.actions.append(f"***Ki: Path of the Green Wyrm.*** You can spend 6 ki points to cast {spelllinkify('geas')} as a 5th-level spell.")
 
 def pathoftheredwyrm(npc):
-    npc.actions.append(f"***Ki: Path of the Red Wyrm.*** You can spend 6 ki points to cast {spelllinkify('immolation')} as a 5th-level spell.)
+    npc.actions.append(f"***Ki: Path of the Red Wyrm.*** You can spend 6 ki points to cast {spelllinkify('immolation')} as a 5th-level spell.")
 
 def pathofthesapphirewyrm(npc):
-    npc.actions.append(f"***Ki: Path of the Sapphire Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.)
+    npc.actions.append(f"***Ki: Path of the Sapphire Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.")
 
 def pathofthesilverwyrm(npc):
-    npc.actions.append(f"***Ki: Path of the Silver Wyrm.*** You can spend 6 ki points to cast {spelllinkify('cone of cold')} as a 5th-level spell.)
+    npc.actions.append(f"***Ki: Path of the Silver Wyrm.*** You can spend 6 ki points to cast {spelllinkify('cone of cold')} as a 5th-level spell.")
 
 def pathofthetopazwyrm(npc):
-    npc.actions.append(f"***Ki: Path of the Topaz Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.)
+    npc.actions.append(f"***Ki: Path of the Topaz Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.")
 
 def pathofthewhitewyrm(npc):
-    npc.actions.append(f"***Ki: Path of the White Wyrm.*** You can spend 6 ki points to cast {spelllinkify('cone of cold')} as a 5th-level spell.)
+    npc.actions.append(f"***Ki: Path of the White Wyrm.*** You can spend 6 ki points to cast {spelllinkify('cone of cold')} as a 5th-level spell.")
 
 def choosedraconicdiscipline(npc):
     draconicdisciplines = {
