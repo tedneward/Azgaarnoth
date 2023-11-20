@@ -14,8 +14,8 @@ What is less common, but still (somewhat) reasonable is that Trintiarians may al
 
 > ### Game Notes
 > When a cleric devoted to one of the Triune Gods levels up, they have the opportunity to change domains if they wish. Doing so means forgoing the benefits and features of their old domain, but also gaining the benefits of features of the new domain, as if they had been that domain from the beginning. Any domain spells from the old domain are lost; new domain spells may be immediately acquired and used.
-> In game terms, the player must do nothing more than pray to their Triune God and spend a long rest in quiet meditation and contemplation. 
-> If the player wishes to change dieties, this requires more in-game work; the character must journey to a Trinitarian temple and spend a week in deep commune with the clergy there, during which time the player is unable to access any domain features whatsoever. During that time, the cleric undergoes several rituals to end their time as an agent of the old, and several more to mark their time beginning as an agent of the new. At the end of that week, the player may select a new domain appropriate to the new Triune God, taking on the new domain features of that domain as mentioned above.
+> In game terms, the player must do nothing more than pray to their Triune God and spend a long rest in quiet meditation and contemplation. Once changed, however, the new domain remains until their next level-up.
+> If the player wishes to change deities, this requires more in-game work; the character must journey to a Trinitarian temple and spend a week in deep commune with the clergy there, during which time the player is unable to access any domain features whatsoever. During that time, the cleric undergoes several rituals to end their time as an agent of the old, and several more to mark their time beginning as an agent of the new. At the end of that week, the player may select a new domain appropriate to the new Triune God, taking on the new domain features of that domain as mentioned above.
 
 ---
 
@@ -23,9 +23,9 @@ What is less common, but still (somewhat) reasonable is that Trintiarians may al
 *The Father; the Sun*
 
 ### Clerical details
-Domains: Air, Fire, Forge, Light, Order, Protection, Unity, War, Time
+**Domains:** [Air](../Classes/Cleric/Air.md), [Fire](../Classes/Cleric/Fire.md), [Forge](../Classes/Cleric/Forge.md), [Light](../Classes/Cleric/Light.md), [Order](../Classes/Cleric/Order.md), [Protection](../Classes/Cleric/Protection.md), [Unity](../Classes/Cleric/Unity.md), [War](../Classes/Cleric/War.md), [Time](../Classes/Cleric/Time.md)
 
-Weapon: Dagger
+Weapon: Light hammer
 
 ### Worshipers, Clergy & Temples
 
@@ -48,12 +48,12 @@ Weapon: Dagger
 ---
 
 ## Dara
-*The Mother; the Moons*
+*The Mother; Home; the Moons*
 
 ### Clerical details
-Domains: Water, Earth, Twilight, Shadow, Dark, Hearth, Ocean, Peace, Tempest
+**Domains:** [Water](../Classes/Cleric/Water.md), [Earth](../Classes/Cleric/Earth.md), [Twilight](../Classes/Cleric/Twilight.md), [Shadow](../Classes/Cleric/Shadow.md), [Dark](../Classes/Cleric/Dark.md), [Hearth](../Classes/Cleric/Hearth.md), [Grave](../Classes/Cleric/Grave.md), [Peace](../Classes/Cleric/Peace.md), [Life](../Classes/Cleric/Life.md)
 
-Weapon: 
+Weapon: Quarterstaff
 
 ### Worshipers, Clergy & Temples
 
@@ -76,12 +76,12 @@ Weapon:
 ---
 
 ## Leriya
-*The Lover; Life; Nature*
+*The Lover; Birth; Nature*
 
 ### Clerical details
-Domains: Desire, Fertility, Healing, Nature, Hunt, Luck, Grave, Madness, Life
+**Domains:** [Desire](../Classes/Cleric/Desire.md), [Fertility](../Classes/Cleric/Fertility.md), [Healing](../Classes/Cleric/Healing.md), [Nature](../Classes/Cleric/Nature.md), [Hunt](../Classes/Cleric/Hunt.md), [Luck](../Classes/Cleric/Luck.md), [Madness](../Classes/Cleric/Madness.md), [Ocean](../Classes/Cleric/Ocean.md), [Tempest](../Classes/Cleric/Tempest.md)
 
-Weapon: 
+Weapon: Dagger
 
 ### Worshipers, Clergy & Temples
 

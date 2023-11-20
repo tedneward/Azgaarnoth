@@ -1,5 +1,5 @@
 # Divine Domain: Light
-This domain is available to those who revere [Ehlonna](../../Religions/Pantheon/Ehlonna.md), the [Alalihatian tradition](../../Religions/AlUma.md#alalihatian-cleric), the [Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric), the [Kaevarian Church](../../Religions/KaevarianChurch.md), ...
+This domain is available to those who revere [Ehlonna](../../Religions/Pantheon/Ehlonna.md), the [Alalihatian tradition](../../Religions/AlUma.md#alalihatian-cleric), the [Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric), the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Sor](../../Religions/Trinitarian.md#sor), ...
 
 
 ## Domain Spells

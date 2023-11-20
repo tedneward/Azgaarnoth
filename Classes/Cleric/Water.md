@@ -1,6 +1,8 @@
 # Divine Domain: Water
 Deities of water value ideals of purity, vitality, serenity, flexibility, and perseverance. Clerics of such deities seek to protect bodies of water and the communities around them. They might hunt monstrosities that corrupt and taint sources of water, or work to bring water to communities in need of it.
 
+This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Dara](../../Religions/Trinitarian.md#dara), ...
+
 **Water Domain Spells**
 
 Cleric Level | Spells

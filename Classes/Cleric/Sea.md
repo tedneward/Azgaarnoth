@@ -1,6 +1,8 @@
 # Divine Domain: Sea
 Clerics who serve deities of the sea act as both guides and guardians. The ocean is one of the most terrifying places in existence, due to what lies both above and below the water's surface. Clerics of the sea deities bring peace to sailors and calm the wrath of the waves.
 
+This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), ...
+
 **Sea Domain Spells**
 
 Cleric Level | Spells

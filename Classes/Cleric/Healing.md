@@ -1,5 +1,7 @@
 # Divine Domain: Healing
-Gods of healing & medicine offer guidance to those who wish to rid the world of suffering. The reward compassion & dedication with guidance and intervention and bless their healers with magic to help save lives. Healing Cleric temples are often sought out places of healing when Doctors surgeries are unavailable. Followers of such deities can be found throughout the world and they come from all walks of life. Many choose to study Medicine in a more direct path and can attention that way, others serve in temples and act as a vessel for the Gods themselves. Some are blessed from a young age with the miraculous healing abilities, hand picked by their deity to do great things in the years to come.
+Gods of healing & medicine offer guidance to those who wish to rid the world of suffering. They reward compassion and dedication with guidance and intervention and bless their healers with magic to help save lives. Healing temples are often sought out when doctors' surgeries are unavailable. Followers of such deities can be found throughout the world and they come from all walks of life. Many choose to study Medicine in a more direct path and can attention that way, others serve in temples and act as a vessel for the Gods themselves. Some are blessed from a young age with the miraculous healing abilities, hand picked by their deity to do great things in the years to come.
+
+This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Leriya](../../Religions/Trinitarian.md#leriya), ...
 
 ## Domain Spells
 You gain domain spells at the cleric levels listed in the Healing Domain Spells table. See the Divine Domain class feature for how domain spells work.

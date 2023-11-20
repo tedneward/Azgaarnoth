@@ -1,7 +1,9 @@
 # Divine Domain: Earth
-Deep underground, a dwarf swings its pick and shatters stones and prays to find diamonds, rubies, gold, and more. Up on the surface, a farmer digs through rocky soil and prays to find good loam beneath it. On the elemental plane of earth, earthen plates move to crush a visiting mortal who prays for deliverance. All these prayers and more are what your god grants.
+*Deep underground, a dwarf swings its pick and shatters stones and prays to find diamonds, rubies, gold, and more. Up on the surface, a farmer digs through rocky soil and prays to find good loam beneath it. On the elemental plane of earth, earthen plates move to crush a visiting mortal who prays for deliverance.*
 
 Clerics of the earth domain are closely tied to soil and stone. Stones can make an implacable obstacle for good or ill. With power over earth you can smash through these obstacles when used for ill purposes and strengthen them when used for good ones. You can use magic to bend the earth to your bending or to break it when it is defiant.
+
+This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Dara](../../Religions/Trinitarian.md#dara), ...
 
 **Domain Spells**
 

@@ -1,7 +1,9 @@
 # Divine Domain: Shadow
 The gods of Shadow though sometimes evil, are not always.  They are the patrons for those who feel out of place; from an orphan or an aspiring artist to a thief well versed in lying, used to being double-crossed. The gods of shadow teach that sometimes it is not always best for your presence to be known, or for your true identity to be known, sometimes it is best to sneak past your rival than punch them in the face. Clerics of these deities seek to silently effect from the darkness, convince others to liberate mines overrun by orcs or sneak past the guards of a museum to retrieve an artefact; these clerics tend to sit back and watch while they can, allowing others to make their choices, but if they go astray they are not afraid to quickly dart into action to rectify the mistakes. Clerics from these domains seek not to gain praise for themselves but seek to change the world from within the veil of shadow.
 
-Domain Spells
+This domain is available to [Trinitarians who worship Dara](../../Religions/Trinitarian.md#dara), ...
+
+## Domain Spells
 You gain domain spells at the cleric levels listed in the Shadow Domain Spells table. See the Divine Domain class feature for how domain spells work.
 
 **Domain Spells**
