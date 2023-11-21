@@ -6,14 +6,12 @@ ___
 - **Components:** V, S, M (a handful of acorns)
 - **Duration:** Concentration, up to 1 hour.
 ---
-You cause four trees to magically sprout at points on the ground you can see within range, growing upward and forming cages with their branches. Each creature in a space where a tree sprouts must make a Dexterity saving throw.
+You cause up to four trees to magically sprout at locations of your choice that you can see on the ground within range. Each creature that is directly above one of the locations must make a Dexterity saving throw, as the trees suddenly grow to full size and form cages with their branches. On a success, a creature can use its reaction to move up to half its speed to an unoccupied space to escape the branches. If it does not, it is trapped by the branches of the growing tree. 
 
-On a failed saving throw, a creature is trapped by the branches of the tree as it rises into the air. They are lifted up to 20 feet into the air, grappled by the tree until the spell ends, and restrained while they are grappled in this way. The escape DC is equal to your spellcasting DC. On a successful saving throw, a creature moves up to 5 feet to an unoccupied space adjacent to the newly sprouted tree.
+Each creature trapped inside the branches is rest­rained and held at the top of the tree. A trapped creature can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself. 
 
-You can choose to grow individual trees to lift targets less than 20 feet but no less than 5 feet up. The tops of the trees, including the spaces of grappled targets, are lightly obscured by leaves, and grappled targets have cover from the branches. The trunks have a diameter of 3 feet, and the trees can be climbed with a DC 12 Athletics check.
+You decide each tree's height. They can be as short as 5 feet and as tall as 20 feet. The trunks of the trees are 3 feet wide. The trees are solid objects that provide cover, and the tops of the trees are lightly obscured by leaves. The insides of the branch cages are lined with poisonous leaves and vines. Once per turn when a trapped creature makes a weapon attack or fails an ability check to escape, it must succeed on a Constitution saving throw or take 3d6 poison damage.
 
-The insides of the branches have poisonous thorns. When a grappled target makes a weapon attack or fails an attempt to escape the grapple, they must make a Constitution saving throw, taking 4d6 poison damage on a failed save. A creature can only take this damage once per turn.
+When the spell ends, the trees vanish, and any creatures trapped inside are freed. A freed creature falls if it cannot fly or climb the tree using a climbing speed.
 
-When the grapple ends on a target, they fall if they cannot fly or climb the tree using a climbing speed. The trees last until the spell ends, even with no prisoners inside. When the spell ends, the trees disintegrate into leaves, soil and slime.
-
-***At Higher Levels.***When you cast this spell using a spell slot of 5th level or higher, you can conjure one additional tree for each slot level above 5th.
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the number of trees you can cause to sprout increases by one for each slot level above 4th. 

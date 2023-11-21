@@ -30,7 +30,7 @@ Not all Blood Drinkers are fur-wearing arctic warriors of the barren steppes, ei
 ## Blood Fury
 *3rd-level Blood Drinker feature*
 
-If you make a melee weapon attack on your turn while you're raging and you have no more than half of your hit points left, you add ld8 + half your barbarian level to the attack's damage roll on a hit. 
+If you make a melee weapon attack on your turn while you're raging and you have no more than half of your hit points left, you add 1d8 + half your barbarian level to the attack's damage roll on a hit. 
 
 You can only deal bonus damage in this way once per turn.
 
@@ -62,8 +62,8 @@ Your body takes on a demonic change as your blood power grows stronger with each
 ## Gore Strike
 *14th-level Blood Drinker feature*
 
-You learn how to channel your own blood into your weapon and crush your opponents with overwhelming power. When you hit with a melee weapon attack while you're raging, you can choose to expend a hit die without regaining hit points. You take 1d12 necrotic damage which cannot be reduced by resistance or immunity, then roll the hit die. You increase the attack's damage roll by the amount rolled on the hit die + twice your Constitution modifier (minimum +2).
+The fell power in your blood grows stronger. Whenever you finish a long rest, you regain a number of extra expended hit dice equal to your proficiency bonus.
 
-> **Critical Gore Strikes**
-> Some abilities, effects, or rules may enable you to roll the bonus damage dice from the Gore Strike feature multiple times, such as when you activate the feature to benefit a critical hit.
-> Whenever you roll the damage dice from Gore Strike more than once or deal that damage more than once for a single usage, you roll the hit die you expended once for each additional roll of the bonus damage and take damage each time. You still only expend one hit die.
+In addition, when you hit with a melee weapon attack while you're raging, you can expend a hit die without regaining hit points. You take ld12 necrotic damage that cannot be reduced by resistance or immunity, and then you roll the hit die. The attack deals bonus damage to one target equal to the amount rolled on the hit die + twice your Constitution modifier (minimum +2).
+
+Whenever you roll this bonus damage more than once for an attack, you roll ld12 for each additional roll of the bonus damage, taking damage each time. For example, whenever you use this feature to affect a critical hit, the bonus damage is rolled twice, and so you would take 2d12 damage instead of only ld12 You still only expend one hit die, no matter how many times you roll it.

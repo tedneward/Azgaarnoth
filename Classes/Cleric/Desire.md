@@ -1,7 +1,7 @@
 # Divine Domain: Desire
 Gods and Goddesses of the Desire Domain take many forms, but all wield power over the feeling of raw desire, whether it be desire for money, food, fame, love, drugs, or even darker delights.
 
-
+This domain is available to [Trinitarians who worship Leriya](../../Religions/Trinitarian.md#leriya), ...
 
 **DESIRE DOMAIN SPELLS**
 

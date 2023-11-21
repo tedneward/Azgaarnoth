@@ -9,24 +9,66 @@ Jesters are loyal to only one cause: the pursuit and propagation of the truth. T
 
 Jesters adventure to safeguard the common folk and to undermine the plans of the rich, powerful, and arrogant. Their magic bolsters allies' spirits while casting doubt into foes' minds. Among bards, jesters are unmatched acrobats, and their ability to tumble, dodge, leap, and climb makes them slippery opponents in battle.
 
+```
+name = 'College of Satire'
+description = "***Bardic College: College of Satire.*** Bards of the College of Satire are called jesters. They use lowbrow stories, daring acrobatics, and cutting jokes to entertain audiences, ranging from the crowds in a rundown dockside pub to the nobles of a king's royal court. Where other bards seek forgotten lore or tales of epic bravery, jesters ferret out embarrassing and hilarious stories of all kinds. Whether telling the ribald tale of a brawny stable hand's affair with an aged duchess or a mocking satire of a paladin of Helm's cloying innocence, a jester never lets taste, social decorum, or shame get in the way of a good laugh."
+```
+
 ## Bonus Proficiencies
-When you join the College of Satire at 3rd level, you gain proficiency with thieves' tools. You also gain proficiency in Sleight of Hand and one additional skill of your choice. If you are already proficient with thieves' tools or in Sleight of Hand, choose another skill proficiency for each proficiency you already have.
+*3rd-level College of Satire feature*
+
+You gain proficiency with thieves' tools. You also gain proficiency in Sleight of Hand and one additional skill of your choice. If you are already proficient with thieves' tools or in Sleight of Hand, choose another skill proficiency for each proficiency you already have.
+
+```
+def level3(npc):
+    if "Thieves' tools" in npc.proficiencies:
+        chooseskill(npc)
+    else:
+        npc.proficiencies.append("Thieves' tools")
+
+    if "Sleight of Hand" in npc.proficiencies:
+        chooseskill(npc)
+    else:
+        npc.proficiencies.append("Sleight of Hand")
+
+    chooseskill(npc)
+```
 
 ## Tumbling Fool
-At 3rd level, you master a variety of acrobatic techniques that allow you to evade danger. As a bonus action, you can tumble. When you tumble, you gain the following benefits for the rest of your turn:
+*3rd-level College of Satire feature*
+
+You master a variety of acrobatic techniques that allow you to evade danger. As a bonus action, you can tumble. When you tumble, you gain the following benefits for the rest of your turn:
 
 * You gain the benefits of taking the Dash and Disengage actions.
 * You gain a climbing speed equal to your current speed.
 * You take half damage from falling.
 
+```
+    npc.reactions.append("***Tumble.*** You gain the benefits of the Dash and Disengage actions, you gain a climbing speed equal to your current speed, and you take half damage from falling.")
+```
+
 ## Fool's Insight
-At 6th level, your ability to gather stories and lore gains a supernatural edge. You can cast Detect Thoughts up to a number of times equal to your Charisma modifier. You regain any expended uses of this ability after completing a long rest.
+*6th-level College of Satire feature*
+
+Your ability to gather stories and lore gains a supernatural edge. You can cast Detect Thoughts up to a number of times equal to your Charisma modifier. You regain any expended uses of this ability after completing a long rest.
 
 If a creature resists your attempt to probe deeper and succeeds at its saving throw against your Detect Thoughts, it immediately suffers an embarrassing social gaffe. It might loudly pass gas, unleash a thunderous burp, trip and fall, or be compelled to tell a tasteless joke.
 
+```
+def level6(npc):
+    npc.defer(lambda npc: npc.actions.append(f"***Fool's Insight ({npc.CHAbonus()}/Recharges on long rest).*** You cast {spelllinkify('detect thoughts')}. If a creature resists your attempt to probe deeper and succeeds at its saving throw against your Detect Thoughts, it immediately suffers an embarrassing social gaffe. It might loudly pass gas, unleash a thunderous burp, trip and fall, or be compelled to tell a tasteless joke.") )
+```
+
 ## Fool's Luck
+*14th-level College of Satire feature*
+
 Jesters seem to have a knack for pulling themselves out of tight situations, transforming what looks like sure failure into an embarrassing but effective success.
 
-At 14th level, you can expend one use of Bardic Inspiration after you fail an ability check, fail a saving throw, or miss with an attack roll. Roll a Bardic Inspiration die and add the number rolled to your attack, saving throw, or ability check, using the new result in place of the failed one.
+You can expend one use of Bardic Inspiration after you fail an ability check, fail a saving throw, or miss with an attack roll. Roll a Bardic Inspiration die and add the number rolled to your attack, saving throw, or ability check, using the new result in place of the failed one.
 
 If using this ability grants you a success on the attack, saving throw, or ability check, note the number you rolled on the Bardic Inspiration die. The DM can then apply that result as a penalty to an attack or check you make, and you cannot use this ability again until you suffer this drawback. When the DM invokes this penalty, describe an embarrassing gaffe or mistake you make as part of the affected die roll.
+
+```
+def level14(npc):
+    npc.traits.append("***Fool's Luck.*** You can expend one use of Bardic Inspiration after you fail an ability check, fail a saving throw, or miss with an attack roll. Roll a Bardic Inspiration die and add the number rolled to your attack, saving throw, or ability check, using the new result in place of the failed one. If using this ability grants you a success on the attack, saving throw, or ability check, note the number you rolled on the Bardic Inspiration die. The DM can then apply that result as a penalty to an attack or check you make, and you cannot use this ability again until you suffer this drawback. When the DM invokes this penalty, describe an embarrassing gaffe or mistake you make as part of the affected die roll.")
+```

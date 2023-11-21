@@ -9,24 +9,26 @@ Kaevarian doctrine is one primarily around Law and Order; while good and evil ex
 
 Kaevarian priests, strangely enough, encompass nearly all the clerical domains available; specifically, a Kaevarian cleric can choose from among the following domains:
 
-* [Arcana](../Classes/Cleric/Arcana.md)
-* [Death](../Classes/Cleric/Death.md)
-* Elements: [Air](../Classes/Cleric/Air.md), [Earth](../Classes/Cleric/Earth.md), [Fire](../Classes/Cleric/Fire.md), [Water](../Classes/Cleric/Water.md)
-* [Forge](../Classes/Cleric/Forge.md)
-* [Grave](../Classes/Cleric/Grave.md)
+* [Arcana](../Classes/Cleric/Arcana.md): "Kaevar gives us the arcane, so that we might grow beyond the limits of the flesh."
+* [Death](../Classes/Cleric/Death.md) and [Grave](../Classes/Cleric/Grave.md): "Kaevar watches over us, even in death."
+* Elements: [Air](../Classes/Cleric/Air.md), [Earth](../Classes/Cleric/Earth.md), [Fire](../Classes/Cleric/Fire.md), [Water](../Classes/Cleric/Water.md): "Kaevar gives us the raw power of the elements to shape our lives"
+* [Fertility](../Classes/Cleric/Fertility.md): "Nothing is more precious to Kaevar than the reproduction of His children"
+* [Forge](../Classes/Cleric/Forge.md): "Kaevar provides us the tools of our own betterment."
+* [Healing](../Classes/Cleric/Healing.md): "Kaevar heals us when we are sick."
 * [Knowledge](../Classes/Cleric/Knowledge.md)
 * [Life](../Classes/Cleric/Life.md)
 * [Light](../Classes/Cleric/Light.md)
 * [Nature](../Classes/Cleric/Nature.md)
+* [Ocean](../Classes/Cleric/Ocean.md)
 * [Order](../Classes/Cleric/Order.md)
+* [Peace](../Classes/Cleric/Peace.md)
 * [Protection](../Classes/Cleric/Protection.md)
-* [Tempest](../Classes/Cleric/Tempest.md)
+* [Sea](../Classes/Cleric/Sea.md)
 * [Twilight](../Classes/Cleric/Twilight.md)
-* [Unity](../Classes/Cleric/Unity.md)
-* [War](../Classes/Cleric/War.md)
-* [Zeal](../Classes/Cleric/Zeal.md)
+* [War](../Classes/Cleric/War.md): "Kaevar smites our enemies, and commands us to do the same in His name."
 
-Kaevarian paladins (the [Kaevarian Templar](../Organizations/MilitantOrders/KaevarianTemplar.md)) are rare, however, and are almost always assumed to be divinely inspired by Kaevar to accomplish a singular mission (of large scale, usually to take a lifetime) before their death.
+Kaevarian paladins (the [Kaevarian Templar](../Organizations/MilitantOrders/KaevarianTemplar.md)) server Kaevar in the same way paladins do other gods, and are almost always assumed to be divinely inspired by Kaevar to accomplish a singular mission (of large scale, usually to take a lifetime) before their death.
 
 ## Singularian Heresy
-It is rumored that there is a heretical religious order within the Kaevarian Church that secretly works to eliminate all other religious worship in favor of Kaevar alone; while the Kaevarian Church disavows their theology and openly hunts those who promote the Singularian Heresy, it continues to operate, masquerading as Kaevarian clergy and subtly seeking to steer Kaevarian events to a universal worship of the One-and-only-True-God-of-All.
+It is rumored that there is a heretical religious order within the Kaevarian Church that secretly works to eliminate all other religious worship in favor of Kaevar alone; while the Kaevarian Church disavows their theology and openly hunts those who promote the Singularian Heresy, it continues to operate, masquerading as Kaevarian clergy and subtly seeking to steer Kaevarian events to a universal worship of the One-and-only-True-God-of-All. These priests are almost always of the [Unity](../Classes/Cleric/Unity.md) and/or [Zeal](../Classes/Cleric/Zeal.md) domains.
+

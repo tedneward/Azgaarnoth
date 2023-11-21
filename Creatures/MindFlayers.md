@@ -1,7 +1,7 @@
 # Mind Flayers
 Mind flayers, also called illithids, are the scourge of sentient creatures across countless worlds. Psionic tyrants, slavers, and interdimensional voyagers, they are insidious masterminds that harvest entire races for their own twisted ends. Four tentacles snake from their octopus-like heads, flexing in hungry anticipation when sentient creatures come near.
 
-Jump to: [Mind Flayer](#mind-flayer) | [Arcanist](#mind-flayer-arcanist) | [Alhoon](#Alhoon) | [Illitilich](#illithilich) | [Elder Brain](#elder-brain) | [Ulitharid](#Ulitharid) | [Mindwitness](#Mindwitness) | [Neothelid](#neothelid)
+Jump to: [Mind Flayer](MindFlayers.md#mind-flayer) | [Arcanist](MindFlayers.md#mind-flayer-arcanist) | [Alhoon](MindFlayers.md#Alhoon) | [Infiltrator](MindFlayers.md#infiltrator) | [Illitilich](MindFlayers.md#illithilich) | [Elder Brain](MindFlayers.md#elder-brain) | [Ulitharid](MindFlayers.md#Ulitharid) | [Mindwitness](MindFlayers.md#Mindwitness) | [Neothelid](MindFlayers.md#neothelid)
 
 In eons past, illithids controlled empires that spanned many worlds. They subjugated and consequently warped whole races of humanoid slaves, including the githyanki and githzerai, the grimlocks, and the kuo-toa. Conjoined by a collective consciousness, the illithids hatch plots as far-reaching and evil as their fathomless minds can conceive.
 
@@ -99,16 +99,79 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 >***Mind Blast (Recharge 5–6).*** The mind flayer magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take 22 (4d8 + 4) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
 >***Innate Spellcasting (Psionics).*** The mind flayer's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
->* At will: detect thoughts, levitate
->* 1/day each: dominate monster, plane shift (self only)
+>
+>* *At will:* detect thoughts, levitate
+>* *1/day each:* dominate monster, plane shift (self only)
 >
 >***Spellcasting.*** The mind flayer is a 10th-level spellcaster. Its spellcasting ability is Intelligence (save DC 15, +7 to hit with spell attacks). The mind flayer has the following wizard spells prepared:
->* Cantrips (at will): blade ward, dancing lights, mage hand, shocking grasp
->* 1st level (4 slots): detect magic, disguise self, shield, sleep
->* 2nd level (3 slots): blur, invisibility, ray of enfeeblement
->* 3rd level (3 slots): clairvoyance, lightning bolt, sending
->* 4th level (3 slots): confusion, hallucinatory terrain
->* 5th level (2 slots): telekinesis, wall of force
+>
+>* *Cantrips (at will):* blade ward, dancing lights, mage hand, shocking grasp
+>* *1st level (4 slots):* detect magic, disguise self, shield, sleep
+>* *2nd level (3 slots):* blur, invisibility, ray of enfeeblement
+>* *3rd level (3 slots):* clairvoyance, lightning bolt, sending
+>* *4th level (3 slots):* confusion, hallucinatory terrain
+>* *5th level (2 slots):* telekinesis, wall of force
+>
+
+---
+
+## Mind Flayer Infiltrator
+Though most mind flayers are averse to relying on their physical abilities, a small portion of mind flayers find unity between their psionic abilities and their predatory instincts. Illithids who practice these ways are known as infiltrators.
+
+***Psionic Assassins.*** Infiltrators focus their psionic powers on enhancing their physical capabilities, making them exceptional spies, assassins, thieves, and scouts. These illithids learn to manifest their psychic energy in the form of soul blades, psionic blades of force extending from their arms and their tentacles. They use telekinetic abilities to protect themselves and enhance their agility. Some are even able to disguise or hide themselves by tricking the minds of nearby observers.
+
+***Illithid Outcasts.*** Though mind flayer colonies often have a variety of reasons to utilize the talents of one of these infiltrators, they are also deeply distrustful of the infiltrators and their devious abilities. After all their skills could be used against the leaders of the colony as part of an uprising. For this reason, they are often killed after their usefulness has expired, and many who could be infiltrators hide their abilities to avoid this fate.
+
+>### Mind Flayer Infiltrator
+>*Medium aberration, lawful evil*
+>___
+>- **Armor Class** 17 (telekinetic defense)
+>- **Hit Points** 91 (14d8 + 28)
+>- **Speed** 40 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|13 (+1)|16 (+3)|14 (+2)|19 (+4)|17 (+3)|17 (+3)|
+>
+>___
+>- **Proficiency Bonus** +4
+>- **Saving Throws** Dex +7, Int +8, Wis +7, Cha +7
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Arcana +8, Deception +7, Insight +7, Perception + 11, Persuasion + 7, Stealth + 7
+>- **Senses** darkvision 120 ft.,passive Perception 21
+>- **Languages** Deep Speech,Undercommon,telepathy 120 ft.
+>- **Challenge** 10
+>___
+>***Conniving.*** The mind flayer can take the Disengage or Hide action as a bonus action on each of its turns.
+>
+>***Evasion.*** If the mind flayer is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the mind flayer instead takes no damage if it succeeds on the save, and only half damage if it fails.
+>
+>***Magic Resistance.*** The mind flayer has advantage on saving throws against spells and other magical effects.
+>
+>***Sneak Attack (1/Turn).*** The mind flayer deals an extra 10 (3d6) damage when it hits a target with a weapon attack or an attack using its soul blade and it has advantage on the attack roll, or when the target is within 5 feet of an ally of the mind flayer that isn't incapacitated and the mind flayer doesn't have disadvantage on the attack roll.
+>
+>***Telekinetic Defense.*** While the mind flayer is wearing no armor and wielding no shield, its AC includes its Intelligence modifier.
+>
+>#### Actions
+>***Innate Spellcasting (Psionics).*** The mind flayer's innate spellcasting ability is Intelligence (spell save DC 16). It can innately cast the following spells, requiring no components:
+>
+>* *At will:* detect thoughts, disguise self, feather fall, glamour veil, levitate
+>* *1/day each:* dimension door, dominate monster, plane shift (self only), telekinesis
+>
+>***Multiattack.*** The mind flayer makes three soul blade attacks. It can also use its Teleport before or after the attacks.
+>
+>***Soulblade.*** Melee Spell Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) force damage.
+>
+>***Tentacles.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 15 (2d10 + 4) psychic damage plus 7 (2d6) force damage. If the target is Medium or smaller, it is grappled (escape DC 15) and must succeed on a DC 16 Intelligence saving throw or be stunned until this grapple ends.
+>
+>***Extract Brain.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one incapacitated humanoid grappled by the mind flayer. Hit: The target takes 55 (10d10) piercing damage plus 10 (3d6) force damage. This damage ignores resistances, and if this damage reduces the target to 0 hit points, the mind flayer kills the target by extracting and devouring its brain.
+>
+>***Mind Blast (Recharge 5–6).*** The mind flayer magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 16 Intelligence saving throw or take 25 (4d8 + 7) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>
+>***Teleport (Recharge 4-6).*** The mind flayer teleports to an unoccupied space that it can see within 60 feet of it. Any creatures the mind flayer has grappled are not teleported.
 >
 
 ---
@@ -141,12 +204,6 @@ The path to true lichdom is something only the most powerful mind flayer mages c
 >___
 >***Magic Resistance.*** The illithilich has advantage on saving throws against spells and other magical effects.
 >
->***Innate Spellcasting (Psionics).*** The illithilich's innate spellcasting ability is Intelligence (spell save DC 20). It can innately cast the following spells, requiring no components. 
->At will: detect thoughts, levitate 
->
->1/day each: dominate monster, plane shift (self only)
->
->
 >***Undead Nature.*** A illithilich doesn’t require air, food, drink, or sleep.
 >
 >***Legendary Resistance (3/Day).*** If the illithilich fails a saving throw, it can choose to succeed instead.
@@ -164,18 +221,23 @@ The path to true lichdom is something only the most powerful mind flayer mages c
 >
 >***Paralyzing Touch.*** Melee Spell Attack: +12 to hit, reach 5 ft., one creature. Hit: 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
+>***Innate Spellcasting (Psionics).*** The illithilich's innate spellcasting ability is Intelligence (spell save DC 20). It can innately cast the following spells, requiring no components. 
+>
+>* *At will:* detect thoughts, levitate 
+>* *1/day each:* dominate monster, plane shift (self only)
+>
 >***Spellcasting.*** The illithilich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:
 >
->* Cantrips (at will): mage hand, prestidigitation, ray of frost
->* 1st level (4 slots): detect magic, magic missile, shield, thunderwave
->* 2nd level (3 slots): detect thoughts, invisibility, Melf’s acid arrow, mirror image
->* 3rd level (3 slots): animate dead, counterspell, dispel magic, fireball
->* 4th level (3 slots): blight, dimension door
->* 5th level (3 slots): cloudkill, scrying
->* 6th level (1 slot): disintegrate, globe of invulnerability
->* 7th level (1 slot): finger of death, plane shift
->* 8th level (1 slot): dominate monster, power word stun
->* 9th level (1 slot): power word kill
+>* *Cantrips (at will):* mage hand, prestidigitation, ray of frost
+>* *1st level (4 slots):* detect magic, magic missile, shield, thunderwave
+>* *2nd level (3 slots):* detect thoughts, invisibility, Melf’s acid arrow, mirror image
+>* *3rd level (3 slots):* animate dead, counterspell, dispel magic, fireball
+>* *4th level (3 slots):* blight, dimension door
+>* *5th level (3 slots):* cloudkill, scrying
+>* *6th level (1 slot):* disintegrate, globe of invulnerability
+>* *7th level (1 slot):* finger of death, plane shift
+>* *8th level (1 slot):* dominate monster, power word stun
+>* *9th level (1 slot):* power word kill
 >
 >#### Legendary Actions
 >The illithilich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The illithilich regains spent legendary actions at the start of its turn.
@@ -258,9 +320,8 @@ Destroying a *periapt of mind trapping* consigns those trapped within it to obli
 >
 >***Spellcasting.*** The alhoon casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
 >
->At will: dancing lights, detect magic, detect thoughts, disguise self, mage hand, prestidigitation
->
->1/day each: dominate monster, globe of invulnerability, invisibility, modify memory, plane shift (self only), wall of force
+>* *At will:* dancing lights, detect magic, detect thoughts, disguise self, mage hand, prestidigitation
+>* *1/day each:* dominate monster, globe of invulnerability, invisibility, modify memory, plane shift (self only), wall of force
 >
 >#### Reactions
 >***Negate Spell (3/Day).*** The alhoon targets one creature it can see within 60 feet of it that is casting a spell. If the spell is 3rd level or lower, the spell fails, but any spell slots or charges are not wasted.
@@ -345,11 +406,13 @@ The lair of an elder brain lies deep in the heart of a mind flayer colony. The b
 
 #### Lair Actions
 On initiative count 20 (losing initiative ties), an elder brain can take one of the following lair actions; the elder brain can't take the same lair action two rounds in a row:
+
 * Force Wall. The elder brain casts wall of force.
 * Psionic Anchor. The elder brain targets one creature it can sense within 120 feet of it and anchors it by sheer force of will. The target must make a DC 18 Charisma saving throw. On a failed save, its speed is reduced to 0, and it can't teleport. It can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 * Psychic Inspiration. The elder brain targets one friendly creature it can sense within 120 feet of it. The target has a flash of inspiration and gains advantage on one attack roll, ability check, or saving throw it makes before the end of its next turn.
 #### Regional Effects
 The territory within 5 miles of an elder brain is altered by the creature's psionic presence, which creates one or more of the following effects:
+
 * Paranoia. Creatures within 5 miles of an elder brain feel as if they are being followed, even when they're not.
 * Psychic Whispers. Any creature with which the elder brain has formed a psychic link hears faint, incomprehensible whispers in the deepest recesses of its mind. This psychic detritus consists of the elder brain's stray thoughts commingled with those of other creatures to which it is linked.
 * Telepathic Eavesdropping. The elder brain can overhear any telepathic conversation within 5 miles of it. The creature that initiated the telepathic conversation makes a DC 18 Wisdom saving throw when telepathic contact is first established. If the save is successful, the creature is aware that something is eavesdropping. The nature of the eavesdropper isn't revealed.
@@ -437,28 +500,23 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
 >- **Languages** Deep Speech,Undercommon,telepathy 600 ft.
 >- **Challenge** 5
 >___
->Telepathic Hub. When the mindwitness receives a telepathic message, it can telepathically share that message with up to seven other creatures within 600 feet of it that it can see.
+>***Telepathic Hub.*** When the mindwitness receives a telepathic message, it can telepathically share that message with up to seven other creatures within 600 feet of it that it can see.
 >
 >#### Actions
->Multiattack. The mindwitness makes one Bite attack and one Tentacles attack, or it uses Eye Ray three times.
+>***Multiattack.*** The mindwitness makes one Bite attack and one Tentacles attack, or it uses Eye Ray three times.
 >
->Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 16 (4d6 + 2) piercing damage.
+>***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 16 (4d6 + 2) piercing damage.
 >
->Tentacles. Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit: 20 (4d8 + 2) psychic damage. If the target is Large or smaller, it is grappled (escape DC 13), and it must succeed on a DC 13 Intelligence saving throw or be restrained until this grapple ends.
+>***Tentacles.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit: 20 (4d8 + 2) psychic damage. If the target is Large or smaller, it is grappled (escape DC 13), and it must succeed on a DC 13 Intelligence saving throw or be restrained until this grapple ends.
 >
->Eye Ray. The mindwitness shoots one magical eye ray at random (roll a d6, and reroll if the ray has already been used this turn), choosing one target it can see within 120 feet of it:
+>***Eye Ray.*** The mindwitness shoots one magical eye ray at random (roll a d6, and reroll if the ray has already been used this turn), choosing one target it can see within 120 feet of it:
 >
->Aversion Ray. The targeted creature must make a DC 13 Charisma saving throw. On a failed save, the target has disadvantage on attack rolls for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
->
->Fear Ray. The targeted creature must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
->
->Psychic Ray. The target must succeed on a DC 13 Intelligence saving throw or take 27 (6d8) psychic damage.
->
->Slowing Ray. The targeted creature must make a DC 13 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn but not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
->
->Stunning Ray. The targeted creature must succeed on a DC 13 Constitution saving throw or be stunned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
->
->Telekinetic Ray. If the target is a creature, it must make a DC 13 Strength saving throw. On a failed save, the mindwitness moves it up to 30 feet in any direction, and it is restrained by the ray's telekinetic grip until the start of the mindwitness's next turn or until the mindwitness is incapacitated.
+>* **Aversion Ray.** The targeted creature must make a DC 13 Charisma saving throw. On a failed save, the target has disadvantage on attack rolls for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>* **Fear Ray.** The targeted creature must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>* **Psychic Ray.** The target must succeed on a DC 13 Intelligence saving throw or take 27 (6d8) psychic damage.
+>* **Slowing Ray.** The targeted creature must make a DC 13 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn but not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>* **Stunning Ray.** The targeted creature must succeed on a DC 13 Constitution saving throw or be stunned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>* **Telekinetic Ray.** If the target is a creature, it must make a DC 13 Strength saving throw. On a failed save, the mindwitness moves it up to 30 feet in any direction, and it is restrained by the ray's telekinetic grip until the start of the mindwitness's next turn or until the mindwitness is incapacitated.
 >
 >If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is telekinetically moved up to 30 feet in any direction. The mindwitness can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.
 >
@@ -507,6 +565,7 @@ A slime-covered worm of immense size, a neothelid is the result of the mind flay
 >***Acid Breath (Recharge 5-6).*** The neothelid exhales acid in a 60-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw, taking 35 (10d6) acid damage on a failed save, or half as much damage on a successful one.
 >
 >***Innate Spellcasting (Psionics).*** The neothelid's innate spellcasting ability is Wisdom (spell save DC 16). It can innately cast the following spells, requiring no components:
->* At will: levitate
->* 1/day each: confusion, feeblemind, telekinesis
+> 
+>* *At will:* levitate
+>* *1/day each:* confusion, feeblemind, telekinesis
 >

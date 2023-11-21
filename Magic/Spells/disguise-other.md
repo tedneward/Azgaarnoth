@@ -1,12 +1,12 @@
 #### Disguise Other
-*3rd-level illusion* (Artificer,Bard,Sorcerer,Wizard)
+*2nd-level illusion* (Artificer,Bard,Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch
-- **Components:** V, S
+- **Components:** V, S, M (a disguise kit)
 - **Duration:** 1 hour
 ---
-You make a creature you can tough—including their clothing, armor, weapons, and other belongings on their person—look different until the spell ends or until you use your action to dismiss it. You can make the creature seem 1 foot shorter or taller and can appear thin, fat, or in between. You can’t change their body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
+You make a creature you can touch--including their clothing, armor, weapons, and other belongings on their person--look different until the spell ends or until you use a bonus action to dismiss it. You can make the creature seem 1 foot shorter or taller and can appear thin, fat, or in between. You can’t change their body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
 
 If the target is unwilling, make a melee spell attack against it. On a hit, the target must make a Charisma saving throw, becoming disguised only on a failed saving throw.
 

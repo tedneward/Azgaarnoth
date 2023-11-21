@@ -3,6 +3,8 @@ The balm of peace thrives at the heart of healthy communities, between friendly 
 
 Clerics of the Peace Domain preside over the signing of treaties, and they are often asked to arbitrate in disputes. These clerics' blessings draw people together and help them shoulder one another's burdens, and the clerics' magic aids those who are driven to fight for the way of peace.
 
+This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Dara](../../Religions/Trinitarian.md#dara), ...
+
 ## Domain Spells
 *1st-level Peace Domain feature*
 

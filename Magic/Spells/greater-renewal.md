@@ -6,7 +6,7 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ---
-Your magic forces one willing creature that you can see within range to expend great energy as you kindle its body's natural healing processes for an instant. You can cure one poison or disease afflicting the target. The target also gains one level of exhaustion and regains hit points equal to 25 + your spellcasting modifier (minimum + 1) + a number of d6s equal to the target's Constitution modifier (minimum ld6).
+Your magic forces one willing creature that you can see within range to expend great energy as you kindle its body's natural healing processes for an instant. You can cure one poison or disease afflicting the target. The target also gains one level of exhaustion and regains hit points equal to 25 + your spellcasting modifier (minimum + 1) + a number of d6s equal to the target's Constitution modifier (minimum 1d6).
 
 This spell has no effect on constructs, undead, or creatures that are naturally immune to exhaustion.
 

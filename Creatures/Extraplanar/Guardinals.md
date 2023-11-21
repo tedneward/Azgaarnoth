@@ -1,15 +1,13 @@
 # Guardinals
 From the mountains of Celestia, the lawful good angels reign supreme. Down in the depths of Carceri, the Nine Hells, and the Abyss, fiends fester in the dark corners of their forgotten planes. There are other beings of similar power elsewhere in the cosmos, but few as overlooked as the guardinal.
 
-These beings resemble humanoids with animal heads, which gives them a very distinct and disparate appearance. This impression quickly falls away when you sit down to enjoy a discussion with one. Guardinals are the near definition of honor and goodness. A guardinal will never lie, never cheat, never take a duplicitous path. All guardinals are about living in the moment, and just enjoying what is; not worrying about what might be, or being attached to what was. 
+> Jump to: [Avoral](Guardinals.md#avoral) | [Cerdeval](Guardinals.md#cerdeval) | [Equinal](Guardinals.md#equinal) | [Leonal](Guardinals.md#leonal) | [Lupinal](Guardinals.md#lupinal) | [Musteval](Guardinals.md#musteval) | [Ursinal](Guardinals.md#ursinal)
 
-While there are many forms of guardinal, the most common ones were rodent-headed, goat-headed, wolf-headed, horse-headed, bird-headed, bear-headed, and feline-headed. It is rare to find a permanent city of guardinals. They have a tendency to wander a nomadic lifestyle alone, in pairs, or in small groups of friends. 
+These beings resemble humanoids with animal heads, which gives them a very distinct and disparate appearance. While there are many forms of guardinal, the most common ones were rodent-headed, goat-headed, wolf-headed, horse-headed, bird-headed, bear-headed, and feline-headed. It is rare to find a permanent city of guardinals. They have a tendency to wander a nomadic lifestyle alone, in pairs, or in small groups of friends. 
 
-> Jump to [Avoral](#avoral) | [Cerdeval](#cerdeval) | [Equinal](#equinal) | [Leonal](#leonal) | [Lupinal](#lupinal) | [Musteval](#musteval) | [Ursinal](#ursinal)
+Guardinals are virtuous creatures, holding themselves above capricious acts such as lying, stealing, or cheating. This makes guardinals valuable peacekeepers to other beings of the outer planes. A guardinal will never lie, never cheat, never take a duplicitous path. All guardinals are about living in the moment, and just enjoying what is; not worrying about what might be, or being attached to what was. 
 
 The guardinals live in the outer planes, centered on Elysium, although many can be found in the service of various deities. Like their angelic brethren, the guardinals can shrug off most spells cast upon them and are immune to many mundane woes like exhaustion. While the selection of magic available to each type of guardinal differs, they are all capable magic users and healers.
-
-Guardinals are virtuous creatures, holding themselves above capricious acts such as lying, stealing, or cheating. This makes guardinals valuable peacekeepers to other beings of the outer planes.
 
 **Tranquility of Nature.** Guardinals love their home plane of Elysium for what it is; a picturesque image of nature in balance. To a mortal visiting their plane, it might remind them of a peaceful garden, or a quiet glade. Everything seems peaceful and safe, and that's the way the guardinals want to keep things. Should an invading force threaten to disturb this
 tranquility, they should be prepared for the full might of the guardinals to fall upon their heads.
@@ -25,6 +23,12 @@ Planar Creatures. Despite not being celestials, elementas or fiends, guardinals 
 
 ## Avoral
 With unmatched eyesight, the avoral are the perfect scouts for the guardinals. Their great skill at flying, mixed with excellent spellcasting, make them revered wherever they go. Rarely found alone, those that are alone are typically on an important mission, otherwise, they're generally found in the company of other guardinals.
+
+### Environment
+(FIXME)
+
+### Token
+![](Avoral-Token.png)
 
 >### Avoral
 >*Medium monstrosity, neutral good*
@@ -73,6 +77,12 @@ With unmatched eyesight, the avoral are the perfect scouts for the guardinals. T
 
 ## Cerdeval
 The ram-headed cerdeval are said to resemble satyrs, a statement they'll outright and flatly deny. Perhaps the differences are subtle, but it is more likely that of all the guardinals, the cerdeval have the most pride. Contrary to their powerful physical build, most cerdeval prefer to avoid conflict whenever possible through the use of their magic.
+
+### Environment
+(FIXME)
+
+### Token
+![](Cerdeval-Token.png)
 
 >### Cerdeval
 >*Medium monstrosity, neutral good*
@@ -124,6 +134,12 @@ The ram-headed cerdeval are said to resemble satyrs, a statement they'll outrigh
 ## Equinal
 The most reserved of the guardinals, the equinal is a deadly warrior. Able to survive damage that would end lesser creatures, they spend most of their lives perfecting a specific art, honing it in the same way they would their martial prowess. Warrior poets, artists, and songwriters are common ways of life for an equinal.
 
+### Environment
+(FIXME)
+
+### Token
+![](Equinal-Token.png)
+
 >### Equinal
 >*Large monstrosity, neutral good*
 >___
@@ -172,6 +188,12 @@ The most reserved of the guardinals, the equinal is a deadly warrior. Able to su
 ## Leonal
 Leonals are charismatic, natural leaders, and paragons of bravery. The leonals are exceptional combatants, with powerful magic to back their natural weapons. When found with other guardinals, they take on a commanding role. When found alone, they're often in a self-exile, searching for meaning in the universe.
 
+### Environment
+(FIXME)
+
+### Token
+![](Leonal-Token.png)
+
 >### Leonal
 >*Medium monstrosity, neutral good*
 >___
@@ -219,6 +241,12 @@ Leonals are charismatic, natural leaders, and paragons of bravery. The leonals a
 
 ## Lupinal
 The wolf-headed lupinal is an incomparable hunter; tracking down prey unerringly and quickly finishing them off. Lupinals very rarely congregate, with the sole exception of grand hunts. When a lupinal has found very difficult prey, they'll often seek out other lupinals to assist them.
+
+### Environment
+(FIXME)
+
+### Token
+![](Lupinal-Token.png)
 
 >### Lupinal
 >*Medium monstrosity, neutral good*
@@ -272,6 +300,12 @@ The wolf-headed lupinal is an incomparable hunter; tracking down prey unerringly
 ## Musteval
 Resembling mice, rats, or ferrets, the rodent-headed musteval is the lowest order of guardinal and one the most recent additions.  Unlike other guardinals, they tend to find packs to travel with, rarely adventuring alone.
 
+### Environment
+(FIXME)
+
+### Token
+![](Musteval-Token.png)
+
 >### Musteval
 >*Tiny monstrosity, neutral good*
 >___
@@ -315,6 +349,12 @@ Resembling mice, rats, or ferrets, the rodent-headed musteval is the lowest orde
 
 ## Ursinal
 Second in strength only to the leonal, the fearsome presence of a ursinal was intimidating, but they were actually quite prone to encouraging others to nonviolence. Philosophers and academics, the ursinal kept the lore and history of the guardinals as living testaments to everything they were, are, or ever will be.
+
+### Environment
+(FIXME)
+
+### Token
+![](Ursinal-Token.png)
 
 >### Ursinal
 >*Large monstrosity, neutral good*
@@ -362,3 +402,4 @@ Second in strength only to the leonal, the fearsome presence of a ursinal was in
 >
 >***Claw.*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 16 (2d8+7) slashing damage. If the ursinal hits with both claw attacks against the same target, the target must succeed on a DC 19 Strength saving throw or become grappled by the ursinal.
 >
+

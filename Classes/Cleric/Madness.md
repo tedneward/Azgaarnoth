@@ -3,6 +3,8 @@ The Madness Domain celebrates the variety of shapes the mind can take, reveling 
 
 Most gods of madness are considered Evil and in some settings they are also fiends or undead, such as a demon lord of chaos and insanity or a lich god of deranged seekers who leave the world of mortal thought behind. Some are simply misunderstood divinities that seek to spread their unique and mind-bending perspective on reality, only called "mad" by the ignorant fools who know little of their revelations. These gods rarely speak of things like hope or peace, and often espouse a pessimistic or even paranoid view of creation.
 
+This domain is available to [Trinitarians who worship Leriya](../../Religions/Trinitarian.md#leriya), ...
+
 **Madness Domain Spells**
 
 Cleric Level|Spells

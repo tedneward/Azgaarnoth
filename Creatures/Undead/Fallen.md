@@ -173,6 +173,7 @@ When a necromancer is able to transform a monk into a Fallen, reatining some or 
 >***Multiattack.*** The Fallen in Solemnity can either attack twice with its Claw attacks.
 >
 >***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
+>
 
 ---
 
@@ -255,7 +256,7 @@ Fallen of Mights are fallen martial champions, often retaining the weapons and a
 >
 >***Action Surge (1/Day).*** A Fallen of Might can push itself beyond normal limits for a moment. On its turn, it can take one additional action on top of its regular action and a possible bonus action.
 >
->***Fighting Styles.*** Some Fallen of Mights retain the feats or fighting styles they knew in life.
+>***Fighting Styles.*** Some Fallen of Might retain the feats or fighting styles they knew in life.
 >
 >### Actions
 >***Multiattack.*** The Fallen of Might can either attack once with its bastard sword and once with its Claw attack, or it can make 2 Claw attacks.
@@ -263,6 +264,7 @@ Fallen of Mights are fallen martial champions, often retaining the weapons and a
 >***Bastard Sword.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 4) slashing damage.
 >
 >***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
+>
 
 ---
 
@@ -312,9 +314,10 @@ The truest and deadliest form of the this line of undead, a death knight is a sk
 >***Parry.*** The death knight adds 6 to its AC against one melee attack that would hit it. To do so, the death knight must see the attacker and be wielding a melee weapon.
 >
 >***Spellcasting.*** The death knight is a 19th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). It has the following paladin spells prepared:
->* 1st level (4 slots): command, compelled duel, searing smite
->* 2nd level (3 slots): hold person, magic weapon
->* 3rd level (3 slots): dispel magic, elemental weapon
->* 4th level (3 slots): banishment, staggering smite
->* 5th level (2 slots): destructive wave (necrotic)
+>
+>* *1st level (4 slots):* command, compelled duel, searing smite
+>* *2nd level (3 slots):* hold person, magic weapon
+>* *3rd level (3 slots):* dispel magic, elemental weapon
+>* *4th level (3 slots):* banishment, staggering smite
+>* *5th level (2 slots):* destructive wave (necrotic)
 >

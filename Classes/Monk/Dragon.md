@@ -3,6 +3,11 @@ The monks who follow the Way of the Dragon learn to channel their ki to emulate 
 
 While it is widely known that the [Draconic Order](../../Organizations/MilitantOrders/DraconicOrder/index.md) has close ties (and some say, sponorships with) Dragon monasteries, it is also known that many Dragon monasteries are associated with the [Cult of the Wyrm](../../Organizations/CultOfTheWyrm/), largely because many of the Dragon monasteries are, in fact, run by Wyrmcult dragons. Some, in fact, may even be run by gem dragons. Discovering which is which is often difficult, even for those within the monastery.
 
+```
+name = 'Dragon'
+description = "***Monastic Tradition: Way of the Dragon.*** The monks who follow the Way of the Dragon learn to channel their ki to emulate draconic power within their fighting styles."
+```
+
 ## Dragon Disciple
 *3rd-level Way of the Dragon feature*
 
@@ -74,10 +79,85 @@ def dragonsstrike(npc):
     npc.actions.append("***Ki: Dragon's Strike.*** When you hit with a melee weapon attack, you can spend 2 ki points to deal extra damage. Choose a damage type: acid, cold, fire, lightning, or poison. Your attack deals an extra 1d10 damage of that type, plus 1d10 for every extra ki point above 2 that you spend.")
 
 def dragonsvisage(npc):
-    npc.actions.append("***Ki: Dragon's Visage.*** You spend 2 ki points to cast cause {spelllinkify('fear')}.")
+    npc.actions.append(f"***Ki: Dragon's Visage.*** You spend 2 ki points to cast cause {spelllinkify('fear')}.")
 
 def dragonswill(npc):
     npc.bonusactions.append("***Ki: Dragon's Will.*** You spend 2 ki points to make your mind nearly impenetrable. For as long as you maintain concentration (as if concentrating on a spell), for up to one minute, you become immune to fear and charming effects, and you have advantage on Wisdom saving throws.")
+
+def dragonsbreath(npc):
+    npc.actions.append(f"***Ki: Dragon's Breath.*** You can spend 3 ki points to cast {spelllinkify('dragons breath')}.")
+
+def dragonscharm(npc):
+    npc.actions.append(f"***Ki: Dragon's Charm.*** You can spend 3 ki points to cast {spelllinkify('charm person')}.")
+
+def dragonshide(npc):
+    npc.reactions.append("***Ki: Dragon's Hide.*** When you take acid, cold, fire, lightning, or poison damage, you spend 1 ki point to become resistant to that damage type, including to the triggering damage, until the end of your next turn.")
+
+def dragonsstrength(npc):
+    npc.bonusactions.append("***Ki: Dragon's Strength.*** You spend 3 ki points to gain advantage on Strength ability checks and saving throws, and you count as one size larger when determining your carrying capacity and the amount of weight you can manipulate. This lasts as long as you maintain concentration (as if concentrating on a spell), for up to one minute.")
+
+def dragonshoard(npc):
+    npc.actions.append(f"***Ki: Dragon's Hoard.*** You can spend 4 ki points to cast {spelllinkify('leomunds secret chest')}.")
+
+def dragonslore(npc):
+    npc.actions.append(f"***Ki: Dragon's Lore.*** You can spend 3 ki points to cast {spelllinkify('legend lore')}.")
+
+def dragonspower(npc):
+    npc.traits.append("***Ki: Dragon's Power.*** You have learned to channel the raw physical power of dragons through your ki. For as long as you maintain concentration (as if concentrating on a spell), for up to one minute, each of your unarmed strikes deals an extra 1d4 bludgeoning damage.")
+
+def dragonswings(npc):
+    npc.actions.append(f"***Ki: Dragon's Wings.*** You can spend 4 ki points to cast {spelllinkify('fly')}, targeting yourself.")
+
+def pathoftheamethystwyrm(npc):
+    npc.actions.append(f"***Ki: Path of the Amethyst Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.")
+
+def pathoftheblackwyrm(npc):
+    npc.actions.append(f"***Ki: Path of the Black Wyrm.*** You can spend 6 ki points to cast {spelllinkify('contagion')} as a 5th-level spell.")
+
+def pathofthebluewyrm(npc):
+    npc.actions.append(f"***Ki: Path of the Blue Wyrm.*** You can spend 6 ki points to cast {spelllinkify('lightning bolt')} as a 5th-level spell.")
+
+def pathofthebrasswyrm(npc):
+    npc.actions.append(f"***Ki: Path of the Brass Wyrm.*** You can spend 6 ki points to cast {spelllinkify('immolation')} as a 5th-level spell.")
+
+def pathofthebronzewyrm(npc):
+    npc.actions.append(f"***Ki: Path of the Bronze Wyrm.*** You can spend 6 ki points to cast {spelllinkify('lightning bolt')} as a 5th-level spell.")
+
+def pathofthebrownwyrm(npc):
+    npc.actions.append(f"***Ki: Path of the Brown Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.")
+
+def pathofthecopperwyrm(npc):
+    npc.actions.append(f"***Ki: Path of the Copper Wyrm.*** You can spend 6 ki points to cast {spelllinkify('wall of stone')} as a 5th-level spell.")
+
+def pathofthecrystalwyrm(npc):
+    npc.actions.append(f"***Ki: Path of the Crystal Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.")
+
+def pathoftheemeraldwyrm(npc):
+    npc.actions.append(f"***Ki: Path of the Emerald Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.")
+
+def pathofthegoldwyrm(npc):
+    npc.actions.append("***Ki: Path of the Gold Wyrm.*** You can spend 6 ki points to gain the foresight of the gold wyrm. For as long as you maintain concentration (as if concentrating on a spell), for up to one minute, your attack rolls have advantage and attack rolls against you have disadvantage.")
+
+def pathofthegraywyrm(npc):
+    npc.actions.append(f"***Ki: Path of the Gray Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.")
+
+def pathofthegreenwyrm(npc):
+    npc.actions.append(f"***Ki: Path of the Green Wyrm.*** You can spend 6 ki points to cast {spelllinkify('geas')} as a 5th-level spell.")
+
+def pathoftheredwyrm(npc):
+    npc.actions.append(f"***Ki: Path of the Red Wyrm.*** You can spend 6 ki points to cast {spelllinkify('immolation')} as a 5th-level spell.")
+
+def pathofthesapphirewyrm(npc):
+    npc.actions.append(f"***Ki: Path of the Sapphire Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.")
+
+def pathofthesilverwyrm(npc):
+    npc.actions.append(f"***Ki: Path of the Silver Wyrm.*** You can spend 6 ki points to cast {spelllinkify('cone of cold')} as a 5th-level spell.")
+
+def pathofthetopazwyrm(npc):
+    npc.actions.append(f"***Ki: Path of the Topaz Wyrm.*** You can spend 6 ki points to cast ??? as a 5th-level spell.")
+
+def pathofthewhitewyrm(npc):
+    npc.actions.append(f"***Ki: Path of the White Wyrm.*** You can spend 6 ki points to cast {spelllinkify('cone of cold')} as a 5th-level spell.")
 
 def choosedraconicdiscipline(npc):
     draconicdisciplines = {
@@ -87,19 +167,27 @@ def choosedraconicdiscipline(npc):
         "Dragon's Will": dragonswill
     }
     if npc.levels('Monk') >= 6:
-        pass
-        #draconicdisciplines["Dragon's Breath"] = dragonsbreath
-        #draconicdisciplines["Dragon's Charm"] = dragonscharm
-        #draconicdisciplines["Dragon's Hide"] = dragonshide
-        #draconicdisciplines["Dragon's Strength"] = dragonsstrength
+        draconicdisciplines["Dragon's Breath"] = dragonsbreath
+        draconicdisciplines["Dragon's Charm"] = dragonscharm
+        draconicdisciplines["Dragon's Hide"] = dragonshide
+        draconicdisciplines["Dragon's Strength"] = dragonsstrength
     if npc.levels('Monk') >= 11:
-        pass
-        #draconicdisciplines["Dragon's Hoard"] = dragonshoard
-        #draconicdisciplines["Dragon's Lore"] = dragonslore
-        #draconicdisciplines["Dragon's Power"] = dragonspower
-        #draconicdisciplines["Dragon's Wings"] = dragonswings
+        draconicdisciplines["Dragon's Hoard"] = dragonshoard
+        draconicdisciplines["Dragon's Lore"] = dragonslore
+        draconicdisciplines["Dragon's Power"] = dragonspower
+        draconicdisciplines["Dragon's Wings"] = dragonswings
     if npc.levels('Monk') >= 17:
-        pass
+        draconicdisciplines["Path of the Black Wyrm"] = pathoftheblackwyrm(npc)
+        draconicdisciplines["Path of the Blue Wyrm"] = pathofthebluewyrm(npc)
+        draconicdisciplines["Path of the Brass Wyrm"] = pathofthebrasswyrm(npc)
+        draconicdisciplines["Path of the Bronze Wyrm"] = pathofthebronzewyrm(npc)
+        draconicdisciplines["Path of the Brown Wyrm"] = pathofthebrownwyrm(npc)
+        draconicdisciplines["Path of the Gold Wyrm"] = pathofthegoldwyrm(npc)
+        draconicdisciplines["Path of the Gray Wyrm"] = pathofthegraywyrm(npc)
+        draconicdisciplines["Path of the Green Wyrm"] = pathofthegreenwyrm(npc)
+        draconicdisciplines["Path of the Red Wyrm"] = pathoftheredwyrm(npc)
+        draconicdisciplines["Path of the Silver Wyrm"] = pathofthesilverwyrm(npc)
+        draconicdisciplines["Path of the White Wyrm"] = pathofthewhitewyrm(npc)
     (choicename, choicefn) = choose("Choose: ", draconicdisciplines)
     choicefn(npc)
 

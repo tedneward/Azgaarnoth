@@ -453,6 +453,7 @@ def loadmodule(filename, modulename=None):
             "fullcaster": fullcaster,
             "halfcaster": halfcaster,
             "innatecaster": innatecaster,
+            "Spellcasting": NPC.Spellcasting,
             "replace": replace,
             "random": randomlist,
             "dieroll": dieroll,
@@ -540,6 +541,7 @@ def loadclasses():
         if os.path.isdir(entryname) and (os.path.basename(entryname) not in excludedentries):
             dirpath = entryname
             dirname = os.path.basename(dirpath)
+
             log("Parsing base class: " + dirpath + "/index.md")
             basemodule = loadmodule(dirpath + "/index.md", dirname)
             if basemodule != None:
@@ -1398,6 +1400,11 @@ def main():
     global quiet
     global scripted
 
+    loadraces()
+    loadclasses()
+    loadfeats()
+    #loadbackgrounds()
+
     parser = argparse.ArgumentParser(
         prog='NPCBuilder',
         description='A tool for generating 5th-ed NPCs using PC rules/templates'
@@ -1415,11 +1422,6 @@ def main():
         elif args.verbose == 'quiet':
             quiet = True
     
-    loadraces()
-    loadclasses()
-    loadfeats()
-    #loadbackgrounds()
-
     if not scripted:
         npc = generatenpc()
         print(npc.emitMD())

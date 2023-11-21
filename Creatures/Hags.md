@@ -1,7 +1,7 @@
 # Hags
 Hags represent all that is evil and cruel. Though they resemble withered crones, there is nothing mortal about these monstrous creatures, whose forms reflect only the wickedness in their hearts.
 
-> Jump to: [Annis Hag](Hags.md#annis-hag) | [Bheur Hag](Hags.md#bheur-hag) | [Cinder Hag](Hags.md#cinder-hag) | [Crimson Hag](Hags.md#crimson-hag) | [Desert Hag](Hags.md#desert-hag) | [Green Hag](Hags.md#green-hag) | [Howling Hag](Hags.md#howling-hag) | [Night Hag](Hags.md#night-hag) | [Sea Hag](Hags.md#sea-hag) | [Storm Hag](Hags.md#storm-hag) | [Troll Hag]() | [Grimflame](Hags.md#grimflame)
+> Jump to: [Annis Hag](Hags.md#annis-hag) | [Bheur Hag](Hags.md#bheur-hag) | [Cinder Hag](Hags.md#cinder-hag) | [Crimson Hag](Hags.md#crimson-hag) | [Death Hag](Hags.md#death-hag) | [Desert Hag](Hags.md#desert-hag) | [Eldritch Hag](Hags.md#eldritch-hag) | [Green Hag](Hags.md#green-hag) | [Howling Hag](Hags.md#howling-hag) | [Night Hag](Hags.md#night-hag) | [Sea Hag](Hags.md#sea-hag) | [Storm Hag](Hags.md#storm-hag) | [Troll Hag](Hags.md#troll-hag) | [Withering Hag](Hags.md#withering-hag) | [Grimflame](Hags.md#grimflame)
 
 ***Faces of Evil.*** Ancient beings with origins in the Feywild, hags are cankers on the mortal world. Their withered faces are framed by long, frayed hair, horrid moles and warts dot their blotchy skin, and their long, skinny fingers are tipped by claws that can slice open flesh with a touch. Their simple clothes are always tattered and filthy.
 
@@ -35,14 +35,78 @@ Any hag that is part of a coven has its CR boosted by 2 if encountered in its co
 While all three members of a hag coven are within 30 feet of one another, they each gain the following action:
 
 > ***Shared Spellcasting.*** The hag is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12 + the hag's Int modifier, +4 + the hag's Int modifier to hit with spell attacks). The three hags in the coven share the spell slots listed. The hag has the following wizard spells prepared:
->* 1st level (4 slots): [identify](../../Magic/Spells/identify.md), [ray of sickness](../../Magic/Spells/ray-of-sickness.md)
->* 2nd level (3 slots): [hold person](../../Magic/Spells/hold-person.md), [locate object](../../Magic/Spells/locate-object.md)
->* 3rd level (3 slots): [bestow curse](../../Magic/Spells/bestow-curse.md), [counterspell](../../Magic/Spells/counterspell.md), [lightning bolt](../../Magic/Spells/lightning-bolt.md)
->* 4th level (3 slots): [phantasmal killer](../../Magic/Spells/phantasmal-killer.md), [polymorph](../../Magic/Spells/polymorph.md)
->* 5th level (2 slots): [contact other plane](../../Magic/Spells/contact-other-plane.md), [scrying](../../Magic/Spells/scrying.md)
->* 6th level (1 slot): [eyebite](../../Magic/Spells/eyebite.md)
+>
+>* *1st level (4 slots):* [identify](../../Magic/Spells/identify.md), [ray of sickness](../../Magic/Spells/ray-of-sickness.md)
+>* *2nd level (3 slots):* [hold person](../../Magic/Spells/hold-person.md), [locate object](../../Magic/Spells/locate-object.md)
+>* *3rd level (3 slots):* [bestow curse](../../Magic/Spells/bestow-curse.md), [counterspell](../../Magic/Spells/counterspell.md), [lightning bolt](../../Magic/Spells/lightning-bolt.md)
+>* *4th level (3 slots):* [phantasmal killer](../../Magic/Spells/phantasmal-killer.md), [polymorph](../../Magic/Spells/polymorph.md)
+>* *5th level (2 slots):* [contact other plane](../../Magic/Spells/contact-other-plane.md), [scrying](../../Magic/Spells/scrying.md)
+>* *6th level (1 slot):* [eyebite](../../Magic/Spells/eyebite.md)
 
-Different covens may have different shared spells prepared.
+However, some covens gather for a specific purpose, such as collecting blood from rare magical bloodlines, summoning the souls of ancient heroes and villains, or polluting the land with vile toxins and noxious plagues. In such cases, since the coven strives to bend its magic to a more directed purpose, the coven members may have different spells available for use with their Shared Spellcasting trait, usually focusing on a theme related to that purpose.
+
+**Blood** Some covens are fascinated by the dark power invested in the blood of fey, fiends, and even mortalkind, developing magic that uses the following spell list:
+
+>* *1st level (4 slots):* blood reading, inflict wounds
+>* *2nd level (3 slots):* carnage blast, infuse bloodt
+>* *3rd level (3 slots):* blood extraction, life transference, vampiric touch
+>* *4th level (3 slots):* aura of life, hemorrhage
+>* *5th level (2 slots):* grim terror, hold monster
+>* *6th level (1 slot):* essence sap
+
+**Corruption.** Hags that, above all else, wish to see the world defiled, cursed, and blighted, form covens that use poisonous spell lists such as this one:
+
+>* *1st level (4 slots):* bane, spasm
+>* *2nd level (3 slots):* Rizzak's reeking filth, poison food or drink
+>* *3rd level (3 slots):* bestow curse, plague vector, toxic breath
+>* *4th level (3 slots):* blight, venom lash
+>* *5th level (2 slots):* befoul water, grave soil 
+>* *6th level (1 slot):* harm
+
+**Greed.** Though most care little for mortal coin, some hags form covens for the purpose of collecting magical items, eldritch artifacts, or anything else the hags might so desperately desire, using the following spells:
+
+>* *1st level (4 slots):* delude, identify, Tenser's floating disk
+>* *2nd level (3 slots):* locate object, suggestion
+>* *3rd level (3 slots):* excite emotions, mortify
+>* *4th level (3 slots):* compulsion, Leomund's secret chest
+>* *5th level (2 slots):* creation, geas
+>* *6th level (1 slot):* forbiddance
+
+**Madness.** Whether they are devoted to the spread of insanity or simply mad themselves, covens attuned to the touch of madness often have a spell list like this:
+
+>* *1st level (4 slots):* delude, dissonant whispers, Tasha's hideous laughter
+>* *2nd level (3 slots):* crown of madness, suggestion
+>* *3rd level (3 slots):* fear, incite self-harm
+>* *4th level (3 slots):* confusion, phantasmal killer
+>* *5th level (2 slots):* dominate person, modify memory
+>* *6th level (1 slot):* mass suggestion
+
+**Souls.** When a coven tampers with the magic of souls and the afterlife itself seeking power, lost wisdom, and ghastly servants, they usually use the following spells:
+
+>* *1st level (4 slots):* false life, unseen servant
+>* *2nd level (3 slots):* gentle repose, locate animals or plants
+>* *3rd level (3 slots):* revivify, speak with dead, spirit guardians
+>* *4th level (3 slots):* create apparition, locate creature
+>* *5th level (2 slots):* detect souls, spectral calling
+>* *6th level (1 slot):* soul blade
+
+**Trickery.** Hag covens organized around no purpose other than the delight they feel for wicked deceit often develop illusory magic and seek out spells like these:
+
+>* *1st level (4 slots):* disguised blast, silent image
+>* *2nd level (3 slots):* blur, mirror image, Nystul's magic aura
+>* *3rd level (3 slots):* hypnotic pattern, major image
+>* *4th level (3 slots):* greater invisibility, hallucinatory terrain
+>* *5th level (2 slots):* mislead, seeming
+>* *6th level (1 slot):* programmed illusion
+
+**Twilight.** Hags that seek mastery over both light and darkness or those that seek to walk among dreams use an eerie witchlight and spell lists such as this one:
+
+>* *1st level (4 slots):* faerie fire, sleep
+>* *2nd level (3 slots):* darkness, moonbeam, silence
+>* *3rd level (3 slots):* gaseous form, nondetection
+>* *4th level (3 slots):* shadow of Moil, sickening radiance
+>* *5th level (2 slots):* chilling darkness, dream
+>* *6th level (1 slot):* eyebite
 
 ***Hag Eye.*** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.
 
@@ -93,17 +157,17 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
 >- **Challenge** 6
 >___
 >#### Actions
->***Multiattack.*** The annis makes one Bite attack and two Claw attacks.
+>***Multiattack.*** The annis makes one Bite attack and two Claw attacks. The annis can use its Crushing Hug in place of its two Claw attacks.
 >
->***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) piercing damage.
+>***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) piercing damage.
 >
->***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) slashing damage.
+>***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) slashing damage.
 >
 >***Crushing Hug.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 36 (9d6 + 5) bludgeoning damage, and the target is grappled (escape DC 15) if it is a Large or smaller creature. Until the grapple ends, the target takes 36 (9d6 + 5) bludgeoning damage at the start of each of the hag's turns. The hag can't make attacks while grappling a creature in this way.
 >
 >***Spellcasting.*** The hag casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 13):
 >
->3/day each: disguise self (including the form of a Medium Humanoid), fog cloud
+>* *3/day each:* disguise self (including the form of a Medium Humanoid), fog cloud
 >
 
 ---
@@ -146,8 +210,6 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 >- **Languages** Auran,Common,Giant
 >- **Challenge** 7
 >___
->***Control Weather (1/Day).*** The hag can cast the control weather spell, requiring no material components and using Charisma as the spellcasting ability.
->
 >***Graystaff Magic.*** The hag carries a graystaff, a magic staff. The hag can use its flying speed only while astride the staff. If the staff is lost or destroyed, the hag must craft another, which takes a year and a day. Only a bheur hag can use a graystaff.
 >
 >***Ice Walk.*** The hag can move across and climb icy surfaces without needing to make an ability check, and difficult terrain composed of ice or snow doesn't cost the hag extra moment.
@@ -155,17 +217,18 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 >#### Actions
 >***Multiattack.*** The hag makes two Slam or Frost Shard attacks.
 >
->***Slam.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 10 (2d8 + 1) bludgeoning damage plus 18 (4d8) cold damage.
+>***Slam.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. Hit: 10 (2d8 + 1) bludgeoning damage plus 18 (4d8) cold damage.
 >
->***Frost Shard.*** Ranged Spell Attack: +6 to hit, range 60 ft., one target. Hit: 30 (6d8 + 3) cold damage, and the target's speed is reduced by 10 feet until the start of the hag's next turn.
+>***Frost Shard.*** *Ranged Spell Attack:* +6 to hit, range 60 ft., one target. Hit: 30 (6d8 + 3) cold damage, and the target's speed is reduced by 10 feet until the start of the hag's next turn.
 >
 >***Horrific Feast.*** The hag feeds on the corpse of one enemy within reach that died within the past minute. Each creature of the hag's choice that is within 60 feet and able to see the feeding must succeed on a DC 15 Wisdom saving throw or be frightened of the hag for 1 minute. While frightened in this way, a creature is incapacitated, can't understand what others say, can't read, and speaks only in gibberish. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Feast for the next 24 hours.
 >
->***Spellcasting.*** While holding or riding the graystaff, the hag casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):
+>***Innate Spellcasting.*** While holding or riding the graystaff, the hag casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 14):
 >
->At will: hold person
+>* *At will:* hold person
+>* *1/day each:* cone of cold, ice storm, wall of ice
 >
->1/day each: cone of cold, ice storm, wall of ice
+>***Control Weather (1/Day).*** The hag can cast the [control weather](../Magic/Spells/control-weather.md) spell, requiring no material components and using Charisma as the spellcasting ability.
 >
 
 ---
@@ -204,19 +267,20 @@ A cinder hag possesses the ability to teleport great distances, but only if her 
 >- **Proficiency Bonus** +3
 >- **Saving Throws** Wis +4
 >- **Damage Vulnerabilities** 
->- **Damage Resistances** , Intimidation +9, Perception +4, Stealth +5
+>- **Damage Resistances**  
 >- **Damage Immunities** 60 ft., passive Perception 14
->- **Condition Immunities** an, Sylvan
->- **Skills** ** 5
+>- **Condition Immunities** 
+>- **Skills** Intimidation +9, Perception +4, Stealth +5
 >- **Senses** 
->- **Languages** asting.*** The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
+>- **Languages** Common, Sylvan
 >- **Challenge** 
 >___
->* *1/day each*: [heat metal](../Magic/Spells/heat-metal.md), [hellish rebuke](../Magic/Spells/hellish-rebuke.md), [stinking cloud](../Magic/Spells/stinking-cloud.md)
->
 >***Magic Resistance.*** The hag has advantage on saving throws against spells and other magical effects.
 >
->### Actions
+>#### Actions
+>***Innate spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit). She can innately cast the following spells, requiring no material components:
+>
+>* *1/day each*: [heat metal](../Magic/Spells/heat-metal.md), [hellish rebuke](../Magic/Spells/hellish-rebuke.md), [stinking cloud](../Magic/Spells/stinking-cloud.md)
 >
 >***Change Shape.*** The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.
 >
@@ -226,7 +290,6 @@ A cinder hag possesses the ability to teleport great distances, but only if her 
 >
 >***Mobilize Grimflame.*** As an action, the hag can command the grimflame to rise into [a mobile form](#grimflame) for 1 minute. The grimflame obeys any verbal commands given to it by the hag and shares the hag's initiative, going after the hag does.
 >
->#### Actions
 
 ---
 
@@ -265,30 +328,99 @@ When they can't ignite an entire village or town, these hags settle for using th
 >- **Condition Immunities** frightened
 >- **Skills** Arcana +5, Deception +5, Perception +3, Stealth +4
 >- **Senses** darkvision 60 ft., passive Perception 13
->- **Languages** Abyssal, Common, Draconic, lgnan
+>- **Languages** Abyssal, Common, Draconic, Ignan
 >- **Challenge** 4
 >___
->***Flame Walker.*** The hag and any equipment she is wearing or carrying are immune to the damage dealt by nonmagical fire, and she can breathe ashes, smoke, and the [stinking cloud]() spell without any negative effects.
+>***Flame Walker.*** The hag and any equipment she is wearing or carrying are immune to the damage dealt by nonmagical fire, and she can breathe ashes, smoke, and the [stinking cloud](../Magic/Spells/stinking-cloud.md) spell without any negative effects.
+>
+>#### Actions
+>***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage plus 3 (1d6) fire damage.
+>
+>***Produce Flame (Cantrip).*** *Ranged Spell Attack:* +5 to hit, range 30 ft., one creature. Hit: 9 (2d8) fire damage.
 >
 >***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 >
->*At will*: [burning hands](../Magic/Spells/burning-hands.md), [control flames](../Magic/Spells/control-flames.md), [produce flame](../Magic/Spells/produce-flame.md) (see "Actions" below)
+>* *At will*: [burning hands](../Magic/Spells/burning-hands.md), [control flames](../Magic/Spells/control-flames.md), [produce flame](../Magic/Spells/produce-flame.md) (see "Actions" below)
+>* *2/day each*: [disguise self](../Magic/Spells/disguise-self.md), [fog cloud](../Magic/Spells/fog-cloud.md), [pyrokinesis](../Magic/Spells/pyrokinesis.md)
+>* *1/day each*: [crown of madness](../Magic/Spells/crown-of-madness.md), [heat metal](../Magic/Spells/heat-metal.md), [stinking cloud](../Magic/Spells/stinking-cloud.md)
 >
->*2/day each*: [disguise self](../Magic/Spells/disguise-self.md), [fog cloud](../Magic/Spells/fog-cloud.md), [pyrokinesis](../Magic/Spells/pyrokinesis.md)
+>#### Reactions
+>***Blood Madness (7/Day).*** When the hag kills a creature, she can enter a state of blood madness for 1 minute. While affected by this madness, the hag loses her ability to distinguish friend from foe and attempts to witness and cause as much death as possible with no regard for her own safety. She has advantage on saving throws made to maintain concentration or resist enchantment spells, she can't be charmed, and her speed is increased by 10 feet.
 >
->*1/day each*: [crown of madness](../Magic/Spells/crown-of-madness.md), [heat metal](../Magic/Spells/heat-metal.md), [stinking cloud](../Magic/Spells/stinking-cloud.md)
+
+---
+
+## Death Hag
+When a night hag gathers over a hundred twisted souls, she can transform into a more powerful kind of fiendish hag known as a death hag. Death hags are much larger than night hags, towering over other kinds of hags at ten to eleven feet tall They have withered violet skin, fangs, and pointed ears. Some have twisted horns like those of a goat or ram, while others lose their horns in the transformation from night hag to death hag. Each one carries a huge scythe adorned with bones and skulls, enchanted with potent death magic, and can ride the scythe as if it were an enchanted flying broom. They ride their scythes invisibly through the dark of night, cackling and stealing corpses to use for their foul purposes.
+
+***Twisting Good to Evil.*** Just as night hags often enjoy twisting a living soul from good to eviL death hags revel in their ability to twist the once-noble dead into undead paragons of evil Instead of returning the creature to life by retrieving their original soul, the hag fashions a dark mirror of their soul to inhabit the body in its place. 
+
+This mirror shadow-soul has all the skills, memories, and personality of the original souL except that any pain, grudges, or unfinished business lingering from their life is twisted into the fuel for anger, hatred, and evil. Once risen, these creatures of good-turned-evil will seek out the ones who wronged them and enact their terrible vengeance. Even their once-loved ones become targets for their hatred, as the hag's magic twists the heartache at missing those loved ones into hatred and indignation.
+
+Tragically, these risen champions will often turn to harming unrelated innocents in a misguided attempt to satisfy the endless pain inside them. The shadow soul believes itself to be the originaL and doesn't understand that the hag has twisted its emotions. The hag delights in watching all of this from afar. Her favorite outcome is when the tales of the champion's good deeds are finally replaced by the legends of the twisted, evil villain and their rampage of vengeance.
+
+***Torment from Beyond.*** Death hags take pleasure in any pain caused by bringing the dead back from beyond the grave. The target of their revival doesn't need to be a good-hearted hero for the death hag to be amused. She also enjoys watching other anguishes unravel, such as raising a widow's lost husband after she has happily remarried, or returning a monarch after the new one has already been crowned to cause strife. Death hags will eagerly bargain to resurrect the lost loved ones of their victims without revealing the likely tragic outcome.
+
+***Undead Allies.*** Death hags are capable of seizing control of weaker undead, and they use this power to surround themselves with undead minions such as ghouls, skeletons, specters, zombies, and even other hags (raised as withering hags). For undead that are too powerful to control through magic, such as liches or vampires, some of the more conniving death hags will make deals, arrangements, or even alliances to secure greater power. As with all hags, these bargains are
+always secretly in the hag's favor.
+
+***Covens.*** A death hag that is part of a coven (see the "Hag Covens" sidebar in the Monster Manual) has a challenge rating of 13 (10,000 XP).
+
+### Environment
+(FIXME)
+
+### Token
+![](DeathHag-Token.png)
+
+>### Death Hag
+>*Large fiend, neutral evil*
+>___
+>- **Armor Class** 17 (natural armor)
+>- **Hit Points** 152 (16d10 + 64)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|19 (+4)|16 (+3)|18 (+4)|17 (+3)|14 (+2)|18 (+4)|
 >
->### Actions
+>___
+>- **Proficiency Bonus** +4
+>- **Saving Throws**
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** cold, fire, psychic, bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+>- **Damage Immunities** necrotic
+>- **Condition Immunities** charmed, frightened
+>- **Skills** Arcana +7, Deception+ 12, Perception +6, Religion +7, Stealth +7
+>- **Senses** darkvision 120 ft., passive Perception 16
+>- **Languages** Abyssal, Celestial, Common, Infernal
+>- **Challenge** 11
+>___
+>***Corrupting Revival.*** When the hag casts a spell to bring a creature back to life, the target doesn't have to be willing, and unless the soul is in the hag's reaping scythe and she chooses to use it, the spell doesn't return the target's soul, instead creating a dark shadow to replace it: the creature returns to life with its alignment changed to evil, either lawful evil, neutral evil, or chaotic evil (based on its original alignment), and it counts as an undead in addition to its other types. These changes last until it dies again.
 >
->***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage plus 3 (1d6) fire damage.
->
->***Produce Flame (Cantrip).*** Ranged Spell Attack:+ 5 to hit, range 30 ft., one creature. Hit: 9 (2d8) fire damage.
->
->### Reactions
->
->***lood Madness (7/Day).*** When the hag kills a creature, she can enter a state of blood madness for 1 minute. While affected by this madness, the hag loses her ability to distinguish friend from foe and attempts to witness and cause as much death as possible with no regard for her own safety. She has advantage on saving throws made to maintain concentration or resist enchantment spells, she can't be charmed, and her speed is increased by 10 feet.
+>***Reaping Scythe.*** The hag carries a reaping scythe, a magical scythe that serves as a conduit between the worlds of the living and the dead. She can ride the scythe as if it were a broom of flying, although she cannot attack with it while doing so. While she holds the scythe, other creatures within 30 feet of her can't regain hit points unless she allows it. If the scythe is lost or destroyed, the hag must craft another, which takes a year and a day and can only be done in Hades. Only a death hag can use a reaping scythe.
 >
 >#### Actions
+>***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 16, +8 to hit). She can innately cast the following spells, requiring no material components:
+>
+>* *At will:* feign death, gentle repose, ray of sickness (as 5th level), speak with dead
+>* *3/day each:* animate dead, plane shift (self only), raise dead
+>* *1/day each:* create undead, resurrection
+>
+>***Multiattack.*** The hag makes three claw attacks, or one claw attack and one reaping scythe attack.
+>
+>***Claw (Hag Form Only).*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage
+plus 9 (2d8) necrotic damage.
+>
+>***Reaping Scythe.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) slashing damage plus 36
+(8d8) necrotic damage. If the target is not an undead or construct, the hag regains hit points equal one-third of the necrotic damage dealt, and if the attack kills such a target, the target's soul is stolen by the scythe. A creature whose
+soul is stolen can't be brought back to life until the scythe is destroyed, except by a death hag holding the scythe.
+>
+>***Invisible Passage.*** The hag magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her.
+>
+>***Change Shape.*** The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. The only equipment that is transformed is her reaping scythe, which shrinks so that it can be wielded in humanoid form. If she dies, she reverts to her true form, and the reaping scythe reverts to its normal size.
+>
+>***Control Undead (3/Day).*** One undead that the hag can see within 30 feet of her must make a DC 17 Wisdom saving throw. On a failed save, the target must obey the hag's commands for the next 24 hours. On a success, the target is immune to the hag's control for the next 24 hours. An undead whose challenge rating or level is greater than 5 is always immune to this effect.
+>
 
 ---
 
@@ -308,7 +440,7 @@ When they can't ignite an entire village or town, these hags settle for using th
 >### Desert Hag
 >*Large fey, chaotic evil*
 >___
->- **Armor Class** 15 (natural armor, 16 with barkskin)
+>- **Armor Class** 15 (natural armor, 16 with [barkskin](../Magic/Spells/barkskin.md))
 >- **Hit Points** 76 (9d10 + 27)
 >- **Speed** 30 ft.
 >___
@@ -318,29 +450,105 @@ When they can't ignite an entire village or town, these hags settle for using th
 >
 >___
 >- **Proficiency Bonus** +3
->- **Saving Throws** es** radiant
->- **Damage Vulnerabilities** rception +3, Stealth +3, Survival +3
->- **Damage Resistances** 0 ft., passive Perception 13
->- **Damage Immunities** Primordial, Sylvan
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** radiant 
+>- **Damage Immunities**
 >- **Condition Immunities** 
->- **Skills** 
->- **Senses** ller.*** The hag is naturally adapted to hot climates and never needs to drink water.
->- **Languages** 
->- **Challenge** asting.*** The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:
+>- **Skills** Perception +3, Stealth +3, Survival +3
+>- **Senses** darkvision 60 ft., passive Perception 13
+>- **Languages** Primordial, Sylvan
+>- **Challenge** 0
 >___
->* 3/day each: [barkskin](../Magic/Spells/barkskin.md) (self only), [disguise self](../Magic/Spells/disguise-self.md) (including the form of a Medium humanoid), [sand cloak](../Magic/Spells/sand-cloak.md)
+>#### Actions
+>***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:
 >
->* 1/day each: [hallucinatory terrain](../Magic/Spells/hallucinatory-terrain.md)
+>* *3/day each:* [barkskin](../Magic/Spells/barkskin.md) (self only), [disguise self](../Magic/Spells/disguise-self.md) (including the form of a Medium humanoid), [sand cloak](../Magic/Spells/sand-cloak.md)
+>* *1/day each:* [hallucinatory terrain](../Magic/Spells/hallucinatory-terrain.md)
 >
->### Actions
->
->***Claw.*** Melee Weapon Attack:+ 5 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage and the
->
->arget is grappled (escape DC 14).
+>***Claw.*** Melee Weapon Attack:+ 5 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage and the target is grappled (escape DC 14).
 >
 >***Enthralling Kiss.*** The hag kisses a creature within 5 feet. If the creature is not willing, it must succeed on a DC 11 Dexterity saving throw to avoid the kiss. A creature kissed in this way must succeed on a DC 13 Wisdom saving throw or become charmed by the hag for 1 hour, with the same effects as a [charm person](../Magic/Spells/charm-person.md) spell. While a creature is charmed by this ability, it sees an illusion of the hag made beautiful instead of her true form, and believes the true form of the hag seen by others to be the illusion.
 >
+
+---
+
+## Eldritch Hag
+On the rare occasions when a hag becomes lost in the Far Realm, the strange energies of that realm transform her into an aberrant hag known as an eldritch hag. Her skin turns pale and slimy, her claws become webbed, she gains gills, and she grows three to five tentacles out of her back. She loses her eyes, but it doesn't stop her from seeing, and her victims may still feel her eerie gaze upon them, and even meet her sightless gaze somehow. With just a look, she can inspire madness and warp a creature's body with strange Far Realm energies.
+
+Eldritch hags always return to the Material Plane or the Feywild in time, and when they do they search for a place near water to make their lair, usually at the edges of coastal cities and villages. Eldritch hags feel a natural compulsion to open the Far Realm to the planes and let the denizens of that other world flood into this one. 
+
+***Thief of Memories.*** An eldritch hag can consume the memories from inside a person's own mind When she does, she can replace the devoured memories with new fake memories. The new memories may be completely different from the originals, or they could be eerily similar with a few small but important alterations. The hag relishes the taste of real memories, and she enjoys the sadistic harm she can cause with the fake memories. An eldritch hag will often amuse herself by slowly altering a victim's entire identity or causing everyone they know to entirely forget who they are.
+
+***Hatred of Magic.*** Eldritch hags despise all non-psionic magic, and this hatred influences their choice of victims. Anyone with any magical power, talent, or learning is in danger when an eldritch hag is near. She loves to make spellcasters hurt, and she finds no child more delectable than one with magical power.
+
+While their hatred of magic causes eldritch hags to loath most other kinds of hags, eldritch hags consider riddle hags to be their greatest nemeses above all. 
+
+***Illithid Intrigue.*** Eldritch hags and illithids often find reason to work together, but the two factions rarely trust each other. The illithids use these Far Realm hags as mercenaries to be employed against their more magical enemies, and the hags use the illithids to gain access to new victims and new sources of power.
+
+When these arrangements fall apart, the eldritch hag can seriously threaten even the more powerful colonies of illithids. The hag's ability to reshape memories can be a problem even for mind flayers. Hags that work with a colony of mind flayers always have at least a few tricks in their back pocket for when the illithids decide she is no longer worth the threat she poses. Most commonly, she may try to elevate a challenger within the ranks of the colony, splitting the illithids in a civil war and coup backed by the hag herself.
+
+***Covens.*** An eldritch hag that is part of a coven (see the "Hag Covens" sidebar in the Monster Manual) has a challenge rating of 10 (5,900 XP).
+
+### Environment
+(FIXME)
+
+### Token
+![](DeathHag-Token.png)
+
+>### Eldritch Hag
+>*Medium aberration, chaotic evil*
+>___
+>- **Armor Class** 16 (natural armor)
+>- **Hit Points** 120 (16d8 + 48)
+>- **Speed** 30 ft., climb 30 ft., swim 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|13 (+1)|17 (+3)|19 (+4)|13 (+1)|19 (+4)|
+>
+>___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** force
+>- **Damage Immunities** psychic
+>- **Condition Immunities** blinded, charmed, frightened
+>- **Skills** Arcana +10, Deception +10, Insight +4, Investigation +7, Perception +4, Stealth +7
+>- **Senses** blindsight 60 ft., passive Perception 14
+>- **Languages** Aquan, Common, Deep Speech, Undercommon, telepathy 120 feet
+>- **Challenge** 9
+>___
+>***Amphibious.*** The hag can breathe air and water.
+>
+>***Hatred of Magic.*** When a creature within 120 feet of the hag casts a spell, uses a magical ability, or uses a magic item, the hag is aware of it and knows the direction toward it, though this doesn't grant her any knowledge of what the magic does. If the creature is an enemy that the hag can see, the magic enrages her until the end of her next turn, and she can use her reaction to use her Unearthly Gaze (if it is available) targeting the creature. While enraged, her speed is increased by 10 feet and she has advantage on attack rolls against the creature.
+>
+>***Magic Resistance.*** The hag has advantage on saving throws against spells and other magical effects.
+>
+>***Regeneration.*** The hag regains 15 hit points at the start of her turn if she has at least l hit point.
+>
+>***Repellant Appearance.*** Any humanoid that starts its turn within 60 feet of the hag and can see the hag's true form must make a DC 16 Intelligence saving throw. On a failed save, the creature's gaze slips off the hag, and the creature can't see the hag until the start of its next turn. On a successful save, the creature is immune to the hag's Repellant Appearance for the next 24 hours. Whenever the hag's true form is revealed, each humanoid within 60 feet of her must make the saving throw.
+>
+>***Spider Climb.*** The hag can climb difficult surfaces, including upside down on ceilings, without needing to make an
+ability check.
+>
 >#### Actions
+>***Multiattack.*** The hag makes three attacks: two tentacle attacks and one claw attack.
+>
+>***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage plus 4 (1d8)
+psychic damage.
+>
+>***Tentacle.*** *Melee Weapon Attack:* +7 to hit, reach 15 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage plus 4 (1d8) psychic damage and the target is grappled (escape DC 15).
+>
+>***Innate Spellcasting (Psionics).*** The hag's innate spellcasting ability is Charisma (spell save DC 15). She can innately cast the following spells, requiring no components:
+>
+>* *At will:* detect magic, detect thoughts, dissonant whispers
+>* *2/day each:* dispel magic, modify memory
+>
+>***Unearthly Gaze (Recharge 6).*** The hag turns her otherwordly gaze upon one creature she can see that can see her within 30 feet. The target must succeed on a DC 16 Wisdom saving throw or else take 21 (6d6) psychic damage plus 21 (6d6) force damage and become confused for l minute. On a success, the target takes half as much damage and suffers no other effects. While confused, the target acts as if it were affected by the confusion spell and repeats the save at the end of each of its turns, ending the effect on a success.
+>
+>***Illusory Appearance.*** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly humanoid of size Medium or Small. The effect ends if tne hag takes a bonus action to end it or if she dies. The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no tentacles, but someone touching her shoulder might feel the tentacles. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 18 Intelligence (Investigation) check to discern that the hag is disguised.
+>
 
 ---
 
@@ -445,9 +653,10 @@ Desert, Grassland, Mountain, Urban
 >***Improved Invisibility.*** The hag magically turns invisible until her concentration ends (as if concentrating on a spell) or she casts a spell. Any equipment the hag wears or carries is invisible with her.
 >
 >***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 13). She can innately cast the following spells, requiring no material components:
->* At will: dancing lights, disguise self, gust of wind, minor illusion, thunderwave
->* 3/day each: charm person, cyclone, wind funnel (new), wind wall
->* 1/day each: control winds
+>
+>* *At will:* dancing lights, disguise self, gust of wind, minor illusion, thunderwave
+>* *3/day each:* charm person, cyclone, wind funnel (new), wind wall
+>* *1/day each:* control winds
 >
 >***Shrieking Howl (Recharge 5-6).*** The hag shrieks loudly enough that she can be heard from up to 500 feet away. Each other creature within 60 feet of the hag must make a Constitution saving throw. On a failed save, a creature takes 13 (3d8) thunder damage and 13 (3d8) psychic damage and it is deafened until the end of the hag's next turn. While a creature is deafened in this way, it is confused, giving it disadvantage on attack rolls, Intelligence checks, and Wisdom checks. Other howling hags are immune to this ability.
 >
@@ -501,9 +710,8 @@ If either object is lost, the night hag will go to great lengths to retrieve it,
 >___
 >***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 >
->At will: detect magic, magic missile
->
->2/day each: plane shift (self only), ray of enfeeblement, sleep
+>* *At will:* detect magic, magic missile
+>* *2/day each:* plane shift (self only), ray of enfeeblement, sleep
 >
 >***Magic Resistance.*** The hag has advantage on saving throws against spells and other magical effects.
 >
@@ -557,18 +765,14 @@ Beauty drives a sea hag to fits of anger. When confronted with something beautif
 >___
 >***Amphibious.*** The hag can breathe air and water.
 >
->***Horrific Appearance.*** Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.
->
->Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.
+>***Horrific Appearance.*** Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours. Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.
 >
 >#### Actions
 >***Claws.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
 >
 >***Death Glare.*** The hag targets one frightened creature she can see within 30 feet of her. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0 hit points.
 >
->***Illusory Appearance.*** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly creature of her general size and humanoid shape. The effect ends if the hag takes a bonus action to end it or if she dies.
->
->The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no claws, but someone touching her hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check to discern that the hag is disguised.
+>***Illusory Appearance.*** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly creature of her general size and humanoid shape. The effect ends if the hag takes a bonus action to end it or if she dies. The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no claws, but someone touching her hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check to discern that the hag is disguised.
 >
 
 ---
@@ -686,6 +890,63 @@ Arctic, Forest, Hill, Mountain, Swamp, Underdark
 >***Trollstaff.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit:  11 (2d6 + 4) bludgeoning damage. A target hit by this weapon also has the [hex](../../Magic/Spells/hex.md) spell cast upon them instantaneously. (Any attempts to touch the staff will also result in Hex being cast on the creature.)
 >
 >***Net.*** Ranged Weapon Attack: +7 to hit, range (5/15)ft., one target. Hit:  A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
+>
+
+---
+
+## Withering Hag
+A necromancer that knows the proper rituals can raise a dead hag as an undead called a withering hag, named for not only their appearance but also their innate ability to drain youth and vitality with a touch. Withering hags come in every shape and size that living hags do. True to their name, they have withered skin that complements their thinning hair and skeletal frames.
+
+Withering hags typically lurk in the same areas where they were once defeated, nursing their ancient grudges and plotting new ways to achieve their final revenge as they wait in the dark for hapless victims to wander by. 
+
+***Seekers of Youth.*** Withering hags are desperate to take back the life and vitality that they have lost. Draining the youth from victims temporarily sates their lust for vital energy, but no matter how much they drain, the withering hag can't return itself to life. Despite this fact, most withering hags have convinced themselves to the contrary. They are recklessly eager to drain new victims.
+
+***Spectral Entourage.*** With her talents for trickery, a withering hag usually has little difficulty in convincing other vengeful undead, such as specters and ghosts, to join her cause. Withering hags naturally attract these spirits because of their foul aura. Once they are allied, the spirits stay near to the hag, ready to defend her. 
+
+***Undead Nature.*** A withering hag does not require air, drink, or sleep.
+
+***Covens.*** Withering hags can't form a proper coven because of their undead nature. Withering hags often collect in groups of three despite this, pantomiming the rituals of a proper coven of living hags.
+
+### Environment
+(FIXME)
+
+### Token
+![](WitheringHag-Token.png)
+
+>### Withering Hag
+>*Large (20%), Medium (60%), or Small (20%) undead, chaotic evil*
+>___
+>- **Armor Class** 14 (natural armor)
+>- **Hit Points** 52 (8d8 + 16)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|12 (+ 1)|15 (+2)|12 (+1)|13 (+1)|14 (+2)|
+>
+>___
+>- **Proficiency Bonus** +2
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** necrotic
+>- **Damage Immunities**
+>- **Condition Immunities** charmed
+>- **Skills** Deception +6, Perception +3, Stealth +3
+>- **Senses** darkvision 120 ft., passive Perception 13
+>- **Languages** only the languages she knew in life
+>- **Challenge** 1
+>___
+>***Foul Aura.*** Each creature within 10 feet of the hag can't regain hit points. Nonmagical non-creature plants in the area wilt, taking 2 (1d4) necrotic damage after each minute in the aura. Constructs, undead, and any creatures that are controlling the hag (as an undead) are unaffected.
+>
+>***Sunlight Sensitivity.*** While in sunlight, the hag has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+>
+>***Turn Immunity.*** The hag is immune to effects that turn undead.
+>
+>#### Actions
+>***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, and the target
+must make a DC 12 Constitution saving throw. On a failed save, the target takes 7 (2d6) necrotic damage and magically ages 10 (3d6) years. The hag regains hit points equal to the necrotic damage dealt. The aging effect can be reversed with a [greater restoration](../Magic/Spells/greater-restoration.md) spell.
+>
+>***Illusory Appearance.*** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly creature of her general size and humanoid shape. The effect ends if the hag takes a bonus action to end it or if she dies. The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no claws, but someone touching her hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 14 Intelligence (Investigation) check to discern that the hag is disguised.
 >
 
 ---

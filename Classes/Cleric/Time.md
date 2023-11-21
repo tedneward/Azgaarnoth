@@ -1,6 +1,8 @@
 # Divine Domain: Time
 Ageless and wise, gods of time preside over the timeline of the multiverse. Clerics that worship these mighty embodiments of time are granted a small portion of their deity's power to manipulate time and space. These abilities help time domain clerics in carrying out their duties to ensure that time continues to progress along the correct path.
 
+This domain is available to [Trinitarians who worship Sor](../../Religions/Trinitarian.md#sor), ...
+
 ## Domain Spells
 Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 

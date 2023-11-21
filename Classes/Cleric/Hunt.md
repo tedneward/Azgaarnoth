@@ -1,6 +1,8 @@
 # Divine Domain: Hunt
 Gods of the hunt expect their followers to not only respect the natural world, but to master it. They may revel in the pleasure of hunting and killing a target, or they may see it as a grim necessity of survival. Gods with the hunt domain include Artemis, Silvanus, Sobek, Odin, and Uller.
 
+This domain is available to those who [Trinitarians who worship Leriya](../../Religions/Trinitarian.md#leriya), ...
+
 ## Domain Spells
 You gain domain spells at the cleric levels listed in the Hunt Domain Spells table. See the Divine Domain class feature for how domain spells work.
 

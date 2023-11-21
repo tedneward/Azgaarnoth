@@ -6,6 +6,7 @@ import random
 import os
 import sqlite3
 import sys
+import namegen as NameGenerator
 
 # This script takes the CSV from the Azgaar tool and fleshes out cities
 # ("burbs") with some greater detail. Honestly, really should only need
@@ -31,163 +32,39 @@ def randreligion():
         return religion
 
 def namegen(which):
-    def replace(phrase, keyword, possibilities):
-        mappings = {
-            'Adjective' : adjectives,
-            'Descriptor' : descriptors,
-            'Building' : buildings,
-            'Noun' : nouns,
-            'Geographical' : geographical,
-            'Location' : locations,
-            'Merchant' : merchants,
-            'Militant' : militants
-        }
-        done = False
-        while not done:
-            found = False
-            for (keyword, repls) in mappings.items():
-                if phrase.find(keyword) > -1:
-                    phrase = phrase.replace(keyword, repls[random.randint(0, len(possibilities)-1)], 1)
-                    found = True
-            
-            if not found: done = True
-
-        return phrase
-
-    adjectives = [ 'Red', 'Orange', 'Yellow', 'Green', 'Blue', 'Purple', 'Sanguine', 'Sepia', 'Ochre',
-                   'Puce', 'Navy', 'Maroon', 'Pink', 'Peach', 'Cyan', 'Violet', 'Brown', 'Black',
-                   'Gray', 'White', 'Silver', 'Gold', 'Jumping', 'Sleeping', 'Running', 'Rolling',
-                   'Laughing', 'Singing', 'Flying', 'Burning', 'Swimming', 'Crying', 'Roaring',
-                   'Screaming', 'Silent', 'Petrified', 'Hiding', 'Hidden', 'Lost', 'Forgotten',
-                   'Shiny', 'Drowning', 'Giant', 'Tiny', 'Fat', 'Skinny', 'Humorous', 'Lonely',
-                   'Drunken', 'Slimy', 'Undead', 'Dark', 'Bright', 'Magical', 'Enchanted', 'Poor',
-                   'Wealthy', 'Lucky', 'Unfortunate', 'Angry', 'Happy', 'Sad', 'Thieving', 'Desperate',
-                   'Divine', 'Arcane', 'Profane', 'Discreet', 'Buried', 'False', 'Foolish',
-                   'Flatulent', 'Hypnotic', 'Haunted', 'Special', 'Fun', 'Drab', 'Daring', 'Stubborn',
-                   'Sober', 'Talking', 'Naked', 'Suffering', 'Cheap', 'Smelly', 'Easy', 'Heroic',
-                   'Hovering', 'Married', 'Pious', 'Pompous', 'Illegal', 'Sacred', 'Defiled', 'Spoilt',
-                   'Wooden', 'Bloody', 'Yawning', 'Sleepy', 'Hungry' ]
-    descriptors = [ 
-        'Infinite', 'Miasmal', 'Nonesuch', 'Chthonic', 'Celestial', 'Spiral', 'Silver', 'Gold',
-        'Crimson', 'Silent', 'Bronze', 'Colossal', 'Elemental', 'Gilded', 'Shimmering', 'Eldritch',
-        'Immaculate', 'Fey', 'Astral', 'Chaos', 'Enduring', 'Everlasting', 'Mercury', 'Night', 
-        'Midnight', 'Raven', 'Grey', 'Fire', 'Dusk', 'Nightshade', 'Reviled', 'Umbral', 'Stained', 
-        'Cursed', 'Long',
-    ]
-    buildings = [ 'Cylinder', 'Minaret', 'Monument', 'Pylon', 'Tower', 'Spire', 'Turret', 'Column', 
-                  'Obelisk', 'Rock', 'Eye', 'Tome', 'Citadel', 'Fortress', 'Arch' ]
-    nouns = [ 'Dog', 'Wolf', 'Fox', 'Pul', 'Cat', 'Lion', 'Tiger', 'Kitten', 'Ox', 'Cow',
-              'Sow', 'Bull', 'Calf', 'Horse', 'Stallion', 'Mare', 'Foal', 'Owl', 'Eagle',
-              'Falcon', 'Hawk', 'Raven', 'Crow', 'Gull', 'Fish', 'Whale', 'Shark', 'Octopus',
-              'Squid', 'Goat', 'Sheep', 'Ewe', 'Fly', 'Butterfly', 'Dragonfly', 'Beetle', 'Ant',
-              'Wasp', 'Termite', 'Louse', 'Worm', 'Lizard', 'Frog', 'Toad', 'Snake', 'Chameleon',
-              'Unicorn', 'Gryphon', 'Dragon', 'Wyvern', 'Roc', 'Clam', 'Oyster', 'Starfish', 'Slug',
-              'Snail', 'Mouse', 'Rat', 'Beaver', 'Marten', 'Mink', 'Otter', 'Seal', 'Manatee',
-              'Chipmunk', 'Squirrel', 'Gopher', 'Tower', 'Castle', 'Dagger', 'Sword', 'Bow',
-              'Arrow', 'Hat', 'Boot', 'Trophy', 'Goose', 'Duck', 'Boat', 'Ship', 'River', 'Falls', 
-              'Forest', 'Mountain', 'Vampire', 'Skeleton', 'Witch', 'Wench', 'Lady', 'Lord', 
-              'Blades', 'Knives', 'Star', 'Consortium', 'Syndicate', 'Cabal', 'Court',
-              'Daggers', 'Gang', 'Boys', 'Hand', 'Coil', 'Alliance', 'Maggots', 'Rats',
-              'Knight', 'Page', 'Drunk', 'Shield', 'Wand', 'Helm', 'Flask', 'Flagon', 'Pint', 'Shot' ]
-    geographical = [ 'Lirian', 'Whaveminsian', 'Tragekian', 'Yithian', "Zhian", 'Ravenian', 'Mighalian' ]
-    locations = [ 'Liria' ]
-    merchants = [ 'Compact', 'Company', 'Pact', 'Guild', 'Contract', 'Order', 'Alliance',
-                  'Federation', 'College', 'League', 'Group', 'Lodge', 'Order', 'Society', 'Trade', 
-                  'Union', 'Association', 'Club', 'Brotherhood', 'Confederation', 'Faction', 'Congress',
-                  'Fellowship', 'Foundation', 'Fraternity', 'Sorority', 'Institute' ]
-    militants = [ 'Dragoons', 'Knights', 'Myrmidons', 'Gladiators' ]
-    taverns = [ 'Bar', 'Brew House', 'Beer House', 'Mead House', 'Ale House', 'Speakeasy', 'Pub', 
-                'Lounge', 'Brewery', 'Loft', 'Club', 'Inn', 'Tavern', 'Den', 'Lodge' ]
-
-    def taverngen():
-        schemes = [ 'Adjective Noun', 'Adjective Noun Title', 'The Adjective Noun', 
-                    'The Adjective Noun Title', 'Noun & Noun', 'Noun & Noun Title',
-                    'The Noun & Noun', 'The Noun & Noun Title', 'Adjective Title',
-                    'The Adjective Title' ]
-        name = schemes[random.randint(0, 9)]
-        name = replace(name, "Noun", nouns)
-        name = replace(name, "Noun", nouns)
-        name = replace(name, "Title", taverns)
-        name = replace(name, "Adjective", adjectives)
-        return name
-
     if which == 'roguesguild':
         if random.randint(0,100) > 50:
             guilds = os.listdir('../../Organizations/RoguesGuilds')
             guilds.remove('index.md')
             guild = open('../../Organizations/RoguesGuilds/' + guilds[random.randint(0, len(guilds)-1)], 'r').readlines()[0][len('# Rogues Guild: '):-1]
             return guild
-        else:
-            schemes = [
-                'Merchant of the Noun', 'Descriptor Noun', 'Merchant of the Descriptor Noun',
-                'Merchant of the Adjective Noun', 'Descriptor Adjective Noun'
-            ]
-            desc = descriptors[random.randint(0, len(descriptors)-1)] + ' ' + nouns[random.randint(0, len(nouns))]
-            if random.randint(0, 100) > 75:
-                desc = prefixes[random.randint(0, len(prefixes)-1)] + ' ' + desc
-            return desc
     elif which == 'mageschool':
         if random.randint(0, 100) > 60:
             schools = os.listdir('../../Organizations/MageSchools')
             schools.remove('index.md')
             school = open('../../Organizations/MageSchools/' + schools[random.randint(0, len(schools))], 'r').readlines()[0][len('# Mage School: '):-1]
             return school
-        else:
-            descriptor = descriptors[random.randint(0, len(descriptors)-1)]
-            noun = nouns[random.randint(0, len(nouns)-1)]
-            return descriptor + ' ' + noun
-    elif which == 'bardiccollege':
-        return "**BARDIC COLLEGE**"
     elif which == 'duelingcollege':
-        return "**DUELING COLLEGE**"
+        pass
     elif which == 'merchantguild':
         if random.randint(0, 100) > 60:
             guilds = os.listdir('../../Organizations/MerchantGuilds')
             guilds.remove('index.md')
             guild = open('../../Organizations/MerchantGuilds/' + guilds[random.randint(0, len(guilds)-1)], 'r').readlines()[0][len('# Merchant Guild: '):-1]
             return guild
-        else:
-            cities = os.listdir('../../Cities')
-            cities.remove('index.md')
-            city = open('../../Cities/' + cities[random.randint(0, len(cities))], 'r').readlines()[0][len('# '):]
-            if random.randint(0, 100) > 50:
-                return organizations[random.randint(0, len(organizations)-1)] + ' of ' + city
-            else:
-                return city + ' ' + organizations[random.randint(0, len(organizations)-1)]
     elif which == 'mercenarycompany':
         if random.randint(0, 100) > 50:
             mercs = os.listdir('../../Organizations/MercenaryCompanies')
             mercs.remove('index.md')
             merc = open('../../Organizations/MercenaryCompanies/' + mercs[random.randint(0, len(mercs)-1)], 'r').readlines()[0][len('# Mercenary Company: '):-1]
             return merc
-        else:
-            descriptors = [
-                'Shining', 'Gleaming', 'Barking', 'Bright', 'Vorpal', 'Savage',
-            ]
-            weapons = [
-                'Axe', 'Knife', 'Swords', 'Blades', 'Dragoons', 'Dogs', 'Knights'
-            ]
-            collective = [
-                'Reavers', 'Scoundrels', 'Devils', 'Demons', 'Knights', 'Dragoons',
-                'Cavaliers', 'Warriors', 'Raptors', ''
-            ]
-            return "**MERC COMPANY**"
-    elif which == 'monasticorder':
-        modifiers = [
-            'Tranquil', 'Blue', 'Green', 'Gold', 'Verdant', 'Radiant', 'Silent',
-            'Focused', 'Elemental', 'Harmonic', ''
-        ]
-        nouns = [
-            'Swallow', 'Butterfly', 'Drake', 'Light', 'Soul', 'Mind', 'Body', 'Sun', 
-            'Moon', 'Star', 'Winds', 'Shadows', 'Harmony', 'Tiger', 'Monkey', 'Viper',
-            'Crane', 'Mantis', 'Bear', 'Element'
-        ]
-        return "**MONASTIC ORDER**"
     elif which == 'house':
         return "**GREAT HOUSE**"
-    elif which == 'tavern':
-    else:
-        return "UNRECOGNIZED NAME: '" + which + "'"
+
+    # If we're still here, then let's gen a name
+    return NameGenerator.namegen(which)
+
+
 
 class City:
     def __init__(self):
@@ -381,7 +258,7 @@ class City:
             else:
                 school = namegen('mageschool')
             self.mageschools.append(f'**[{school}](../Organizations/MageSchools/{school}.md)**')
-            self.authorities.append(f'**TODO**, Arcane Master - {school}')
+            self.authorities.append(f'**TODO**, Arcane Master, {school}')
 
     def calculatereligiousgroups(self):
         numgroups = int(self.populationct // 7500)
@@ -411,7 +288,13 @@ class City:
             self.authorities.append(f'**TODO**, Guildmaster - {guild}')
     
     def calculatemonasticorders(self):
-        pass
+        numorders = int(self.populationct // 15000)
+
+        for _ in range(numorders):
+            pop = random.randint(10, 50)
+            name = namegen('monasticorder')
+            self.religiousgroups.append(f'**Monastic Order.** The order currently has {pop} monks.')
+            self.authorities.append(f"**TODO**, Grand Sensei of the {name} monastic order")
 
     def calculateduelingcolleges(self):
         numcolleges = len(self.militaryunits)
