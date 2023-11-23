@@ -26,7 +26,7 @@ def level3(npc):
 You can make the most of an advantageous position. If you take the Attack action on your turn and have advantage on one of the attacks, you can forgo the advantage for that roll to make your strike exceptionally deadly. If the attack hits, it deals an extra 1d8 damage of the weapon's damage type, and the creature must succeed on a Strength saving throw or be knocked prone. This damage increases to 2d8 at 10th level. The DC for the Strength saving throw is equal to the total damage dealt. You can use this ability only once per round.
 
 ```
-    npc.defer(lamba npc: npc.actions.append("***Slaying Strike (1/round).*** If you take the Attack action on your turn and have advantage on one of the attacks, you can forgo the advantage for that roll to make your strike exceptionally deadly. If the attack hits, it deals an extra {'1d8' if npc.levels('Fighter') < 10 else '2d8'} damage of the weapon's damage type, and the creature must succeed on a Strength saving throw (DC equals the total damage dealt) or be knocked prone.") )
+    npc.defer(lambda npc: npc.actions.append(f"***Slaying Strike (1/round).*** If you take the Attack action on your turn and have advantage on one of the attacks, you can forgo the advantage for that roll to make your strike exceptionally deadly. If the attack hits, it deals an extra {'1d8' if npc.levels('Fighter') < 10 else '2d8'} damage of the weapon's damage type, and the creature must succeed on a Strength saving throw (DC equals the total damage dealt) or be knocked prone.") )
 ```
 
 ## Supernatural Resilience
