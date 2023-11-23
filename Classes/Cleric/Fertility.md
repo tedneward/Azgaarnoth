@@ -1,6 +1,6 @@
 # Divine Domain: Fertility
 
-This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Leriya](../../Religions/Trinitarian.md#leriya), ...
+This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Leriya](../../Religions/Trinitarian.md#leriya), [Brigantia](../../Religions/Pantheon/Brigantia.md), [Lathander](../../Religions/Pantheon/Lathander.md), ...
 
 **Fertility Domain Spells**
 

@@ -1,10 +1,10 @@
 # Pantheon: Lythtzu
 *Goddess of Victory*
 
-Lythtzu is the personification of the spirit of victory. As such, she is a somewhat shallow being who thinks only of conflict and ultimate triumph. If a problem or situation can't be described in terms of conflict, with definite conditions for declaring victory, Lythtzu considers it beneath her notice. She is not a very popular deity except among victorious people.
+Lythtzu is the personification of the spirit of victory. As such, she is a somewhat shallow being who thinks only of conflict and ultimate triumph. If a problem or situation can't be described in terms of conflict, with definite conditions for declaring victory, and with a deep, almost obsessive desire for victory, Lythtzu considers it beneath her notice. She is not a very popular deity except among victorious people.
 
 ## Clerical details
-Domains: [War](../../Classes/Cleric/War.md), [Life](../../Classes/Cleric/Life.md), [Order](../../Classes/Cleric/Order.md)
+Domains: [War](../../Classes/Cleric/War.md), [Desire](../../Classes/Cleric/Desire.md), [Order](../../Classes/Cleric/Order.md)
 
 Weapon: 
 

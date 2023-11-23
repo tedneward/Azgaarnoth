@@ -4,9 +4,9 @@ Hextor is the god of tyranny and brutal warfare. He is the patron of despots and
 Hextor seeks to conquer or destroy all that oppose him. He tells his followers that the world is a dark and bloody place where the strong rule the weak, and power is the only reward worth anything. The cruel and unrelenting pursuit of one's goals pleases Hexor, and he believes that order and law must be forged out of chaos and anarchy through iron-fisted tyranny.
 
 ## Clerical details
-Domains: [Fire](../../Classes/Cleric/Fire.md), [Grave](../../Classes/Cleric/Grave.md), [War](../../Classes/Cleric/War.md)
+**Domains:** [Fire](../../Classes/Cleric/Fire.md), [Grave](../../Classes/Cleric/Grave.md), [War](../../Classes/Cleric/War.md)
 
-Weapon: Shortbow
+**Weapon:** Shortbow
 
 ## Worshipers, Clergy & Temples
 Congregations of Hextorians can be found in Dradehalia and especially throughout the Ulmhorde, where Hextor's church is official state religions in both states.

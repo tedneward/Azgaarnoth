@@ -1,10 +1,10 @@
 # Pantheon: Milil
-*Lord of Song, the One True Hand of All-Wise Oghma, Guardian of Singers and Troubadours*
+*Lord of Song; Guardian of Singers and Troubadours*
 
 ## Clerical details
-Domains: 
+**Domains:** [Desire](../../Classes/Cleric/Desire.md), [Light](../../Classes/Cleric/Light.md), [Trickery](../../Classes/Cleric/Trickery.md)
 
-Weapon: 
+**Weapon:** 
 
 ## Worshipers, Clergy & Temples
 

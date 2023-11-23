@@ -1,6 +1,8 @@
 # Divine Domain: Pain
 Pain. All creatures know pain, and all pay homage to it with their tears, and their whispered pleas that they be spared it. Pain is not just physical - in fact, the adherents of gods who grant this portfolio understand that physical pain is perhaps the least dangerous of its brothers and sisters. Priests who exercise this domain use it with precision to achieve their goals, bring the world a catharsis which it has long been denied. Gods of this domain include Loviatar, Iuz, Phieran and Lolth.
 
+This domain is available to followers of [Diancecht](../../Religions/Pantheon/Diancecht.md), ...
+
 ## Domain spells
 You gain domain spells at the cleric levels listed in the Pain Domain Spells table. See the Divine Domain class feature for how domain spells work.
 

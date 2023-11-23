@@ -8,12 +8,12 @@ Gruumsh One-Eye drives his followers to overcome all foes, expand their territor
 Gruumsh is a widely worshipped deity among the [Ulmhorde](../../Nations/Ulm.md), and it is whispered in some circles that [Ulm](../../People/Ulm.md) himself is an avatar of Gruumsh, or least highly blessed of One-Eye's favor. Either way, he is worshipped openly among the Hordes that still devote themselves to the Old Ways, and vies for followers against Maglubiyet among them. Although most worship falls along clan lines, periodically one clan will raid another, taking slaves and absorbing the other, and "convince" the 'Mighty' One's followers of the superiority of He Who Never Sleeps.
 
 ## Clerical details
-Domains: [Fire](../../Classes/Cleric/Fire.md), [Tempest](../../Classes/Cleric/Tempest.md), [War](../../Classes/Cleric/War.md)
+**Domains:** [Fire](../../Classes/Cleric/Fire.md), [Tempest](../../Classes/Cleric/Tempest.md), [War](../../Classes/Cleric/War.md)
 
-Weapon: Spear
+**Weapon:** Spear
 
 ## Worshipers, Clergy & Temples
-As any that are not clerics or adepts are forbidden to speak his name, Gruumsh is also known as "One-Eye," "The One-Eyed God," "He-Who-Never-Sleeps," and "He-Who-Watches." "Gruumsh sees only victory!" and "Blood for the One-Eye!" are common oaths, as is "By his bloody spear!"
+Gruumsh is particular about those who can speak his name directly; "Gruumsh sees only victory!" and "Blood for the One-Eye!" are common oaths, as is "By his bloody spear!"
 
 The church of Gruumsh dominates most orcish tribes, and all other priesthoods are nominally subservient to it. Powerful specialty priests, clerics, and crusaders of Gruumsh are sometimes tribal chieftains, but more often they are advisors and war leaders, whereas shamans and witch-doctors are almost always advisors. They push their tribes to wage war and expand their territory, and are tasked with eliminating the weak, sickly, and infirm in order to keep the tribe strong and healthy. One-Eye's clergy can be very vindictive; they do not hesitate to put an orc into a dangerous situation, or eliminate them outright, if they feel they have been slighted. Gruumshan priests have great say in who becomes chief of a tribe, and the clergy will undermine a chief who opposes their goals.
 

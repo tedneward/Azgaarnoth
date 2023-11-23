@@ -10,9 +10,9 @@ Ehlonna is gentle and benevolent, but hard against the evil humanoids and the ma
 Symbol: Rampant Unicorn (or a unicorn horn)
 
 ## Clerical details
-Domains: [Protection](../../Classes/Cleric/Protection.md), [Nature](../../Classes/Cleric/Nature.md), [Sun (Light)](../../Classes/Cleric/Light.md)
+**Domains:** [Protection](../../Classes/Cleric/Protection.md), [Nature](../../Classes/Cleric/Nature.md), [Sun (Light)](../../Classes/Cleric/Light.md)
 
-Weapon: Longbow
+**Weapon:** Longbow
 
 ## Worshipers, Clergy & Temples
 Ehlonna is the patron of all good-aligned folk who love the forests. She is worshipped by hunters, trappers, foresters, rangers, woodcutters, and more. Brownies, elves, gnomes, and halflings are especially attuned to Ehlonna of the Forests, and will willingly aid her.

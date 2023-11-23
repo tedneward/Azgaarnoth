@@ -8,9 +8,9 @@ Gond cares only for the act of creation, playing little heed to the consequences
 Worshippers of Gond claim that he is always making new things, and that he can be distracted, businesslike, sarcastic, or patronizing as well as incredibly helpful and brilliant. He is dedicated to his faithful, however, and though he sometimes does not immediately respond to them because he is busy, he always ensures that their needs are met.
 
 ## Clerical details
-Domains: [Knowledge](../../Classes/Cleric/Knowledge.md), [Forge](../../Classes/Cleric/Forge.md), [Fire](../../Classes/Cleric/Fire.md)
+**Domains:** [Knowledge](../../Classes/Cleric/Knowledge.md), [Forge](../../Classes/Cleric/Forge.md), [Fire](../../Classes/Cleric/Fire.md)
 
-Weapon: Hammer
+**Weapon:** Hammer
 
 ## Worshipers, Clergy & Temples
 The church of Gond is largely tolerated across Azgaarnoth. Its members are found in bastions of both good and evil, as well as in an increasing number of smaller communities. Many [merchant guilds](../../Organizations/MerchantGuilds/index.md) cultivate strong relationships with the local clergy of the Wonderbringer, in hopes of acquiring and selling their latest inventions at great profit. However, at times the followers of Gond inadvertently create something that upsets existing markets, earning them sudden and unexpected hostility from other faiths.

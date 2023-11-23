@@ -4,9 +4,9 @@
 Azuth, the Lord of Spells, is the god of wizards and mages and to a much lesser degree, all spellcasters. Azuth is [Brigantia](Brigantia.md)'s husband, friend, and advisor. She took on his aspect of Arcana when he was killed by [Gruumsh](./Gruumsh.md). He took the domain back when she raised him back to life, but shares it with his divine wife. Some of his time in death changed him, however, and much of his aspect took on the unpredictability of chaos.
 
 ## Clerical details
-Domains: [Arcana](../../Classes/Cleric/Arcana.md), [Chaos](../../Classes/Cleric/Chaos.md), [Knowledge](../../Classes/Cleric/Knowledge.md)
+**Domains:** [Arcana](../../Classes/Cleric/Arcana.md), [Chaos](../../Classes/Cleric/Chaos.md), [Knowledge](../../Classes/Cleric/Knowledge.md)
 
-Weapon: quarterstaff
+**Weapon:** Quarterstaff
 
 ## Worshipers, Clergy & Temples
 Azuthan clergy tend to be folk who love magic for its own sake. They do not exult in power, for that is the tendency of those who enjoy what magic can allow them to do to others, but in in elegance, complexities of dweomer, and deft use of spells.

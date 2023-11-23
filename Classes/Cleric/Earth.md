@@ -3,7 +3,7 @@
 
 Clerics of the earth domain are closely tied to soil and stone. Stones can make an implacable obstacle for good or ill. With power over earth you can smash through these obstacles when used for ill purposes and strengthen them when used for good ones. You can use magic to bend the earth to your bending or to break it when it is defiant.
 
-This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Dara](../../Religions/Trinitarian.md#dara), ...
+This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Dara](../../Religions/Trinitarian.md#dara), [Daghda](../../Religions/Pantheon/Daghda.md), ...
 
 **Domain Spells**
 

@@ -6,9 +6,9 @@ Auril, also known as the Frostmaiden, is a deity of cold and evil. She is a fick
 Symbol: A white snowflake in a gray diamond (a heraldic lozenge) with a white border
 
 ## Clerical details
-Domains: [Nature](../../Classes/Cleric/Nature.md), [Tempest](../../Classes/Cleric/Tempest.md), [Cold](../../Classes/Cleric/Cold.md)
+**Domains:** [Nature](../../Classes/Cleric/Nature.md), [Tempest](../../Classes/Cleric/Tempest.md), [Cold](../../Classes/Cleric/Cold.md)
 
-Weapon: Battleaxe
+**Weapon:** Battleaxe
 
 ## Worshipers, Clergy & Temples
 Auril is feared and worshiped in order to hold off the depredations of the harsh winters with which she threatens Faerun. Trappers, miners, and settlers in the North, some barbarians and inhabitants of the Great Glacier, and residents of the lands crouching at any glacier's edge revere her and honor her in attempts to placate her cold fury come winter time. In recent years, winters have been getting longer and colder, and more and more folk have been making the prayers to Auril that her clergy urge be done. A few clans of frost giants are led by shamans in her service.
