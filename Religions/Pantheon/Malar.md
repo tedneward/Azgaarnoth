@@ -6,7 +6,7 @@ Malar, The Beastlord, is the lesser deity of the hunt, evil lycanthropes, bestia
 ## Clerical details
 Domains: [Hunt](../../Classes/Cleric/Hunt.md), [Chaos](../../Classes/Cleric/Chaos.md), [Shadow](../../Classes/Cleric/Shadow.md)
 
-Weapon: 
+Weapon: Shortbow
 
 ## Worshipers, Clergy & Temples
 In civilized settings, the church of Malar is widely loathed, for its members—-often evil lycanthropes—-are some of the most dangerous threats to the safety of the local populace. Along the frontier and in wilderness settings, however, those who must hunt for food reluctantly pay homage to the Beastlord, even as they fear his cruelty. Outsiders sometimes differentiate between "Hunts," as Malarite bands are known, that operate openly and those that stalk the night. Some realms, such as Cormyr, legally recognize the former as having dominion over hunting while considering the latter to be little more than dangerous predators to be driven off or slain.

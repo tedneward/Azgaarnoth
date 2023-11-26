@@ -5,7 +5,6 @@ Lathander, whose title is The Morninglord, is a deity of creativity, dawn, renew
 
 Lathander has a reputation for being sometimes overly enthusiastic, slightly vain, and given to excesses, all flaws very common among the young. He is also said to be eternally optimistic and doggedly perseverant.
 
-
 ## Clerical details
 Domains: [Fertility](../../Classes/Cleric/Fertility.md), [Light](../../Classes/Cleric/Light.md), [Protection](../../Classes/Cleric/Protection.md)
 

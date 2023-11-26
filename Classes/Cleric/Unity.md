@@ -3,7 +3,7 @@ A sense of oneness shines at the heart of healthy communities, whether bound tog
 
 Clerics of these gods preside over marriages and other familial bonding customs, but they also nurture the emotional bonds of friendship and camaraderie. Their divine blessings bolster and protect allies in battle through these deep bonds and turn aside malign influences.
 
-This is a domain granted by [the Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric),the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Sor](../../Religions/Trinitarian.md#sor), [Heironeous](../../Religions/Pantheon/Heironeous.md), ...
+This is a domain granted by [the Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric),the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Sor](../../Religions/Trinitarian.md#sor), [Heironeous](../../Religions/Pantheon/Heironeous.md), [Maglubiyet](../../Religions/Pantheon/Maglubiyet.md), ...
 
 ## Domain Spells
 Starting at 1st level, you gain domain spells at the cleric levels listed in the Unity Domain Spells table. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.

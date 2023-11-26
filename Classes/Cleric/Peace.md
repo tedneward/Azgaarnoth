@@ -14,11 +14,11 @@ You gain domain spells at the cleric levels listed in the Peace Domain Spells ta
 
 Cleric Level|Spells
 ------------|------
-1st|heroism, sanctuary
-3rd|aid, warding bond
-5th|beacon of hope, sending
-7th|aura of purity, Otiluke's resilient sphere
-9th|greater restoration, Rary's telepathic bond
+1st | heroism, sanctuary
+3rd | aid, warding bond
+5th | beacon of hope, sending
+7th | aura of purity, Otiluke's resilient sphere
+9th | greater restoration, Rary's telepathic bond
 
 ## Implement of Peace
 *1st-leve Peace Domain feature*

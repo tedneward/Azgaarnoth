@@ -30,7 +30,7 @@ Deity | Description |Alignment | Domains | Symbol
 [Lythtzu](Lythtzu.md)|God of battle|LN|[War](../../Classes/Cleric/War.md), [Desire](../../Classes/Cleric/Desire.md), [Order](../../Classes/Cleric/Order.md)|A gleaming blade in the light
 [Maglubiyet](Maglubiyet.md)|God of goblingkind|LE|[War](../../Classes/Cleric/War.md), [Order](../../Classes/Cleric/Order.md), [Unity](../../Classes/Cleric/Unity.md)|Flaming eyes set against darkness
 [Malar](Malar.md)|God of the hunt|CN|[Hunt](../../Classes/Cleric/Hunt.md), [Chaos](../../Classes/Cleric/Chaos.md), [Shadow](../../Classes/Cleric/Shadow.md)|Clawed paw
-[Milil](Milil.md)|God of poetry and song|NG|[Desire](../../Classes/Cleric/Desire.md), [Light](../../Classes/Cleric/Light.md), [Trickery](../../Classes/Cleric/Trickery.md)|Five-stringed harp made of leaves
+[Milil](Milil.md)|God of poetry and song|NG|[Desire](../../Classes/Cleric/Desire.md), [Illusion](../../Classes/Cleric/Illusion.md), [Trickery](../../Classes/Cleric/Trickery.md)|Five-stringed harp made of leaves
 [Onatar](Onatar.md)|God of craft|NG|[Fire](../../Classes/Cleric/Fire.md), [Forge](../../Classes/Cleric/Forge.md), [Knowledge](../../Classes/Cleric/Knowledge.md)|Crossed hammer and tongs
 [Pelor](Pelor.md)|God of sun, summer, and time|LG|[Light](../../Classes/Cleric/Light.md), [Life](../../Classes/Cleric/Life.md), [Time](../../Classes/Cleric/Time.md)|Blazing sunburst
 [Sashelas](Sashelas.md)|God of the sea|CG|[Ocean](../../Classes/Cleric/Ocean.md), [Tempest](../../Classes/Cleric/Tempest.md), [Water](../../Classes/Cleric/Water.md)|Dolphin

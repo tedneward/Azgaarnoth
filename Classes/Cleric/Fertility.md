@@ -1,4 +1,5 @@
 # Divine Domain: Fertility
+Gods of fertility are known in every culture and are associated with life, birth, abundance, and prosperity. They are known for their passionate hearts and physical beauty. These deities can be fickle and cruel, but they are more often playful and passionate. Their priestesses are known for their vitality, productivity, and proclivity. They are often accompanied by a menagerie animals and a harem of sexual partners.
 
 This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Leriya](../../Religions/Trinitarian.md#leriya), [Brigantia](../../Religions/Pantheon/Brigantia.md), [Lathander](../../Religions/Pantheon/Lathander.md), ...
 

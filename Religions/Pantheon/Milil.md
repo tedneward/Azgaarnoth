@@ -2,7 +2,7 @@
 *Lord of Song; Guardian of Singers and Troubadours*
 
 ## Clerical details
-**Domains:** [Desire](../../Classes/Cleric/Desire.md), [Light](../../Classes/Cleric/Light.md), [Trickery](../../Classes/Cleric/Trickery.md)
+**Domains:** [Desire](../../Classes/Cleric/Desire.md), [Illusion](../../Classes/Cleric/Illusion.md), [Trickery](../../Classes/Cleric/Trickery.md)
 
 **Weapon:** 
 

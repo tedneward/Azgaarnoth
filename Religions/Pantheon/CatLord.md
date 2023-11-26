@@ -21,10 +21,13 @@ There is no known hierarchy among the Cat Lord's servants, but somehow they know
 Bast's temples follow the general layout of most temples: a foyer leading to a central place of worship with an altar at the front, with small rooms (either living quarters or meditation cells, depending on the size of the temple and the population of the city or town in which it is housed) along the sides. Bast is also revered at countless small shrines and household altars.
 
 ## Rituals
+Bast has few rituals, and none that are seen by any who are not followers.
 
 ## Festivals
+Many of the clergy of the Cat Lord are quick to downplay the idea of formalized festivals, as the Cat Lord prefers his followers to celebrate life and the things worth celebrating every day, rather than on specific days of the year.
 
 ## Orders
+It is rumored that the Cat Lord maintains [a secret rogues' guild of burglars and assassins](../../Organizations/RoguesGuilds/BlackCats.md) that focus on doling out justice to those wronged, particularly against perpetrators that avoid justice because of their elevated rank or power. 
 
 ## Dogma
 The Cat Lord is a chaotic, often whimsical deity who demands no rigid adherence to principles of faith. In general, she promotes life and liberty, asserting the value of mortal life, things of beauty, and freedom from oppressive regulation. Bast hates evil, particularly Apep and his followers.

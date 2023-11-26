@@ -1,5 +1,5 @@
 # Divine Domain: Entropy
-All things must end. All creatures born into the planes of existence have some awareness of this fact from birth, and it comprises one of the most fundamental truths of reality. As such, some gods hold sway over the notion of entropy as a domain, though rare are those petitioners who would beg for their attention. Gods of this domain are often mad, capricious, or simply cruel, comprising such examples as Tharizdun, Toldoth and Nerull.
+All things must end. All creatures born into the planes of existence have some awareness of this fact from birth, and it comprises one of the most fundamental truths of reality. As such, many gods have nothing to do with entropy--yet those clerics who choose this domain still have their faith rewarded (in the form of spells).
 
 ## Domain spells
 You gain domain spells at the cleric levels listed in the Entropy Domain Spells table. See the Divine Domain class feature for how domain spells work.

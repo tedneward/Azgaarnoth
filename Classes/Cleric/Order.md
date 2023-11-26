@@ -1,7 +1,7 @@
 # Divine Domain: Order
 The ideal of order is obedience to the law above all else, rather than to a specific individual or the passing influence of emotion or popular rule. Clerics of Order believe that well-crafted laws establish legitimate hierarchies, and those selected by law to lead must be obeyed. Those who obey must do so to the best of their ability, and if those who lead fail to protect the law, they must be replaced. More importantly, law establishes hierarchies. Those selected by the law to lead must be obeyed. Those who obey must do so to the best of their ability. In this manner, law creates an intricate web of obligations that allows society to forge order and security in a chaotic multiverse.
 
-This is a domain granted by the [Alalihatian clerical tradition](../../Religions/AlUma.md#alalihatian-prophecy), the [Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric), the [Zabalasan tradition](../../Religions/AlUma.md#zabalasan-cleric), the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Sor](../../Religions/Trinitarian.md#sor), [Lythtzu](../../Religions/Pantheon/Lythtzu.md), ...
+This is a domain granted by the [Alalihatian clerical tradition](../../Religions/AlUma.md#alalihatian-prophecy), the [Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric), the [Zabalasan tradition](../../Religions/AlUma.md#zabalasan-cleric), the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Sor](../../Religions/Trinitarian.md#sor), [Lythtzu](../../Religions/Pantheon/Lythtzu.md), [Maglubiyet](../../Religions/Pantheon/Maglubiyet.md), ...
 
 ## Domain Spells
 *1st-level Order Domain feature* 

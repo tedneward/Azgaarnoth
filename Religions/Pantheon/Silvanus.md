@@ -1,10 +1,12 @@
 # Pantheon: Silvanus
 *Oak Father, the Forest Father*
 
-## Clerical details
-Domains: 
+Silvanus, the Forest Father, is the god of nature, though formerly considered only the god of wild nature and druids. Silvanus is one of the oldest and most prominent deities in Azgaarnoth, and the wilder counterpart to Brigantia (who are both on good terms with each other). His worshipers protect places of nature from the encroachment of civilization with vigor and are implacable foes of industrious peoples.
 
-Weapon: 
+## Clerical details
+**Domains:** [Hunt](../../Classes/Cleric/Hunt.md), [Nature](../../Classes/Cleric/Nature.md), [Luck](../../Classes/Cleric/Luck.md)
+
+Weapon: Spear
 
 ## Worshipers, Clergy & Temples
 
@@ -27,7 +29,6 @@ Weapon:
 
 
 
-Silvanus, the Forest Father, is the god of nature, though formerly considered only the god of wild nature and druids. Silvanus is one of the oldest and most prominent deities in Faerûn, and the wilder counterpart to Chauntea the Earthmother (who are both on good terms). His worshipers protect places of nature from the encroachment of civilization with vigor and are implacable foes of industrious peoples. He is served by Eldath and Mielikki, and many of the followers of one deity venerate the others as well.
 Worshipers, Clergy & Temples
 The church of Silvanus is often referred to as the Greenleaf Priesthood after the symbol of its deity. Silvanus has a strong base among both clerics in urban areas and druids in the wilder territories. Like Chauntea he calls both his dear children, but in his case the druids are the favored of the two. Silvanus also has a few shamans among the nomadic and barbarian societies of Faerûn who spread his word of balance and respect for nature while tending to their tribes' needs.
 

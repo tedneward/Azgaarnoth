@@ -28,10 +28,15 @@ What is less common, but still (somewhat) reasonable is that Trintiarians may al
 Weapon: Light hammer
 
 ### Worshipers, Clergy & Temples
+As Sor is the Father, the Sun, He is often portrayed as the most powerful of the Triune Gods. He inspires worship in those who see the strength and power in the Sun in all its forms, both beneficial and destructive. Worshippers include barbarians, rangers, paladins, druids, and elves. They believe in enjoying the warmth and the benefits offered, but are wary of it all the same.
+
+Sorian clergy preach that Sor is not a vengeful god, but that His wrath--visited upon those who seek to violate the order of the universe and nature--is one to be feared and avoided. Sor does not shy from a fight, and his followers have much in the way of divine martial might to bestow upon His foes should it be necessary.
 
 ### Vestments
+Clerics of Sor tend to favor bright white and yellow, with strong imagery of the sun front and center. Often this is a robe of white, offset with gold thread, with a sun motif emblazoned on the chest and/or back.
 
 ### Hierarchy
+Sor's 
 
 ### Temples
 
