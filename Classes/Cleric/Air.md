@@ -1,6 +1,8 @@
 # Divine Domain: Air
 Free-willed and adventurous, these Clerics worship the deities of the Air, always letting the ever-flowing winds guide them in their lives.
 
+This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md),  [Trinitarians who worship Sor](../../Religions/Trinitarian.md#sor), [Larethian](../../Religions/Pantheon/Larethian.md), ...
+
 ```
 name = 'Air'
 description = "***Divine Domain: Air.*** Free-willed and adventurous, these Clerics worship the deities of the Air, always letting the ever-flowing winds guide them in their lives."

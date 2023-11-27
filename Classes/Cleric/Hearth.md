@@ -3,6 +3,8 @@ These Clerics are typically Champions of the home. They serve their community an
 
 The hearth Cleric focuses on prevention and mitigation more than after the fact healing.
 
+This domain is available to [Trinitarians who worship Dara](../../Religions/Trinitarian.md#dara), ...
+
 **Hearth Domain Spells**
 
 Cleric Level | Spells

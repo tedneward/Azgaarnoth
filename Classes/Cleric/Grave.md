@@ -1,5 +1,5 @@
 # Divine Domain: Grave
-This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Arawn](../../Religions/Pantheon/Arawn.md), ...
+This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md),  [Trinitarians who worship Dara](../../Religions/Trinitarian.md#dara), [Arawn](../../Religions/Pantheon/Arawn.md), [Hextor](../../Religions/Pantheon/Hextor.md), [the Keeper](../../Religions/Pantheon/Keeper.md), ...
 
 ## Domain Spells
 Starting at 1st level, you gain domain spells at the cleric levels listed in the Grave Domain Spells table. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.

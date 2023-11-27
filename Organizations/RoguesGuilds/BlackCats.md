@@ -1,0 +1,4 @@
+# Rogues Guild: Black Cats
+The Black Cats, if they exist, are a guild closely associated (and, if the rumors are true, supported by) the clergy and followers of the [Cat Lord](../../Religions/Pantheon/CatLord.md), and charged with missions of vengeance and/or "persuasive charity" against those in power who abuse their office and/or profit at the expense of the others below them.
+
+Primarily made up of [burglars](../../Classes/Rogue/Burglar.md) and [assassins](../../Classes/Rogue/Assassin.md), with the odd [divine agent](../../Classes/Rogue/DivineAgent.md) thrown in, the Black Cats do everything in their power to maintain their nonexistence. They leave no calling card, they offer no explanation, and they disavow any agent who claims to be operating at their command. The perfect Black Cat mission is one in which nobody knows quite what happened, how it happened, or sometimes even to whom it happened.

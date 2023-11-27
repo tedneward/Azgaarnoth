@@ -8,9 +8,9 @@ Cyric enjoys tricking and misleading both well-meaning and corrupt individuals a
 He has an immense following--the unholy radiance of the Dark Sun draws power-hungry mortals like moths to a flame and then inexorably consumes them.
 
 ## Clerical details
-Domains: [Chaos](../../Classes/Cleric/Chaos.md), [Destruction](../../Classes/Cleric/Destruction.md), [Trickery](../../Classes/Cleric/Trickery.md)
+**Domains:** [Chaos](../../Classes/Cleric/Chaos.md), [Destruction](../../Classes/Cleric/Destruction.md), [Trickery](../../Classes/Cleric/Trickery.md)
 
-Weapon: Dagger
+**Weapon:** Shortsword
 
 ## Worshipers, Clergy & Temples
 The church of Cyric is widely (and justly) hated across all Azgaarnoth, for the Dark Sun's followers are pledged to spread strife and work murder everywhere. The followers of good-aligned deities hate Cyric's church for the wicked acts of its members. The followers of neutral-aligned deities, and even the faithless, detest the intrigues, murder, and discord sown by Cyricists that disrupt the lives of all. The followers of evil-aligned deities view Cyric's church as mad with power and a threat to their own influence--the Prince of Lies has shown himself willing to do almost anything, including kill rival deities whose power he covets.

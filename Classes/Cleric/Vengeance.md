@@ -1,6 +1,8 @@
 # Divine Domain: Vengeance
 There will always be those who have been wronged, robbed, or wounded. So much is lost to greed, treachery, and murder. In a corrupt world, sworn alliances crumble and trust shatters. Some can indulge in the complacency of forgiveness and compassion. For others, this is mere cowardice, a refusal to stand against the tyranny of injustice. When confronted with pain and devastation, the weak settle for acceptance. The strong choose vengeance.
 
+This domain is available to followers of [the Cat Lord](../../Religions/Pantheon/CatLord.md), [the Keeper](../../Religions/Pantheon/Keeper.md), ...
+
 ## Domain Spells
 **Vengeance Domain Spells**
 

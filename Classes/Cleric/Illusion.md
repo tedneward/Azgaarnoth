@@ -1,6 +1,8 @@
 # Divine Domain: Illusion
 Being Patronized by a God whose name remains a mystery to all but himself, most of the followers of the Illusion domain have decided to give the God a name that mostly only they will call and know him by, although some followers call him "The Traceless". As a cleric of this domain you will become harder and harder to pin and track down and eventually be able to hide your allies.
 
+This domain is available to followers of [Melil](../../Religions/Pantheon/Milil.md), ...
+
 ## Domain Spells
 As a Cleric of Illusion, you gain the following Domain spells at the appropriate levels. Domain spells are always considered prepared and do not count against the number of spells you can prepare each day.
 

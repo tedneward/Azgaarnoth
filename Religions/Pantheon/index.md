@@ -16,8 +16,8 @@ Deity | Description |Alignment | Domains | Symbol
 [Brigantia](Brigantia.md)|Goddess of rivers and livestock|NG|[Arcana](../../Classes/Cleric/Arcana.md), [Nature](../../Classes/Cleric/Nature.md), [Fertility](../../Classes/Cleric/Fertility.md), [Water](../../Classes/Cleric/Water.md)|Footbridge
 [Cat Lord](CatLord.md)|God of curiosity and lore ^1|CN|[Trickery](../../Classes/Cleric/Trickery.md), [Vengeance](../../Classes/Cleric/Vengeance.md), [Chaos](../../Classes/Cleric/Chaos.md), Cat|Cat's paw
 [Cyric](Cyric.md)|God of murder, lies, intrigue, deception|CE|[Chaos](../../Classes/Cleric/Chaos.md), [Destruction](../../Classes/Cleric/Destruction.md), [Illusion](../../Classes/Cleric/Illusion.md)|A black sun over an empty field
-[Daghdha](Daghda.md)|God of weather and crops|CG|[Life](../../Classes/Cleric/Life.md), [Nature](../../Classes/Cleric/Nature.md), [Trickery](../../Classes/Cleric/Trickery.md)|Bubbling cauldron or shield
-[Diancecht](Diancecht.md)|God of medicine and healing|LG|[Life](../../Classes/Cleric/Life.md), [Protection](../../Classes/Cleric/Protection.md), [Healing](../../Classes/Cleric/Healing.md)|Crossed oak and mistletoe branches
+[Daghdha](Daghda.md)|God of weather and crops|CG|[Hearth](../../Classes/Cleric/Hearth.md), [Nature](../../Classes/Cleric/Nature.md), [Earth](../../Classes/Cleric/Earth.md)|Bubbling cauldron or shield
+[Diancecht](Diancecht.md)|God of medicine and healing|LG|[Life](../../Classes/Cleric/Life.md), [Pain](../../Classes/Cleric/Pain.md), [Healing](../../Classes/Cleric/Healing.md)|Crossed oak and mistletoe branches
 [Ehlonna](Ehlonna.md)|Goddess of woodlands|NG|[Air](../../Classes/Cleric/Air.md), [Life](../../Classes/Cleric/Life.md), [Nature](../../Classes/Cleric/Nature.md)|Unicorn horn
 [Gond](Gond.md)|God of craft, trade, and merchants|N|[Knowledge](../../Classes/Cleric/Knowledge.md), [Forge](../../Classes/Cleric/Forge.md), [Fire](../../Classes/Cleric/Fire.md)|Toothed cog with four spokes
 [Gruumsh](Gruumsh.md)|God of storms and war|CE|[Fire](../../Classes/Cleric/Fire.md), [Tempest](../../Classes/Cleric/Tempest.md), [War](../../Classes/Cleric/War.md)|Unblinking eye
@@ -27,13 +27,13 @@ Deity | Description |Alignment | Domains | Symbol
 [Lathander](Lathander.md)|God of birth and renewal|NG|[Fertility](../../Classes/Cleric/Fertility.md), [Light](../../Classes/Cleric/Light.md), [Protection](../../Classes/Cleric/Protection.md)|Road traveling into a sunrise
 [Lugh](Lugh.md)|God of arts, travel, and commerce|CN|[Knowledge](../../Classes/Cleric/Knowledge.md), [Life](../../Classes/Cleric/Life.md), [Protection](../../Classes/Cleric/Protection.md)|Pair of long hands
 [Lyssa](Lyssa.md)|Goddess of madness and ecstasy|CN|[Madness](../../Classes/Cleric/Madness.md), [Desire](../../Classes/Cleric/Desire.md), [Trickery](../../Classes/Cleric/Trickery.md)|Hands clasped to a screaming face
-[Lythtzu](Lythtzu.md)|God of battle|LN|[War](../../Classes/Cleric/War.md), [Life](../../Classes/Cleric/Life.md), [Order](../../Classes/Cleric/Order.md)|A gleaming blade in the light
+[Lythtzu](Lythtzu.md)|God of battle|LN|[War](../../Classes/Cleric/War.md), [Desire](../../Classes/Cleric/Desire.md), [Order](../../Classes/Cleric/Order.md)|A gleaming blade in the light
 [Maglubiyet](Maglubiyet.md)|God of goblingkind|LE|[War](../../Classes/Cleric/War.md), [Order](../../Classes/Cleric/Order.md), [Unity](../../Classes/Cleric/Unity.md)|Flaming eyes set against darkness
-[Malar](Malar.md)|God of the hunt|CN|[Hunt](../../Classes/Cleric/Hunt.md), [Chaos](../../Classes/Cleric/Chaos.md), [Nature](../../Classes/Cleric/Nature.md)|Clawed paw
-[Milil](Milil.md)|Goddess of poetry and song|NG|[Desire](../../Classes/Cleric/Desire.md), [Light](../../Classes/Cleric/Light.md), [Trickery](../../Classes/Cleric/Trickery.md)|Five-stringed harp made of leaves
+[Malar](Malar.md)|God of the hunt|CN|[Hunt](../../Classes/Cleric/Hunt.md), [Chaos](../../Classes/Cleric/Chaos.md), [Shadow](../../Classes/Cleric/Shadow.md)|Clawed paw
+[Milil](Milil.md)|God of poetry and song|NG|[Desire](../../Classes/Cleric/Desire.md), [Illusion](../../Classes/Cleric/Illusion.md), [Trickery](../../Classes/Cleric/Trickery.md)|Five-stringed harp made of leaves
 [Onatar](Onatar.md)|God of craft|NG|[Fire](../../Classes/Cleric/Fire.md), [Forge](../../Classes/Cleric/Forge.md), [Knowledge](../../Classes/Cleric/Knowledge.md)|Crossed hammer and tongs
 [Pelor](Pelor.md)|God of sun, summer, and time|LG|[Light](../../Classes/Cleric/Light.md), [Life](../../Classes/Cleric/Life.md), [Time](../../Classes/Cleric/Time.md)|Blazing sunburst
-[Sashelas](Sashelas.md)|God of the sea|CG|[Nature](../../Classes/Cleric/Nature.md), [Tempest](../../Classes/Cleric/Tempest.md), [Water](../../Classes/Cleric/Water.md)|Dolphin
+[Sashelas](Sashelas.md)|God of the sea|CG|[Ocean](../../Classes/Cleric/Ocean.md), [Tempest](../../Classes/Cleric/Tempest.md), [Water](../../Classes/Cleric/Water.md)|Dolphin
 [Savras](Savras.md)|God of divination and fate|LN|[Time](../../Classes/Cleric/Time.md), [Order](../../Classes/Cleric/Order.md), [Peace](../../Classes/Cleric/Peace.md)|Crystal ball containing many kinds of eyes
 [Silvanus](Silvanus.md)|God of wild nature|N|[Hunt](../../Classes/Cleric/Hunt.md), [Nature](../../Classes/Cleric/Nature.md), [Luck](../../Classes/Cleric/Luck.md)|Oak leaf
 [Talos](Talos.md)|God of storms|CE|[Air](../../Classes/Cleric/Air.md), [Tempest](../../Classes/Cleric/Tempest.md), [Zeal](../../Classes/Cleric/Zeal.md)|Three lightning bolts radiating from a central point
@@ -149,6 +149,7 @@ Cults of the Dragon Below – Neutral Evil deities of madness
 The Path of Light – Lawful Neutral philosophy of light and self-improvement
 The Undying Court – Neutral Good elven ancestors
 The Spirits of the Past – Chaotic Good elven ancestors
+
 Bahamut – Lawful Good dragon god of good
 Blibdoolpoolp – Neutral Evil kuo-toa goddess
 Corellon Larethian – Chaotic Good elf deity of art and magic

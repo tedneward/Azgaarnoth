@@ -1,6 +1,8 @@
 # Divine Domain: Ocean
 Clerics of Gods who control the waves and tides, as well as the beasts who dwell within the depths of the sea draw power from this domain.
 
+This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Leriya](../../Religions/Trinitarian.md#leriya), ...
+
 ```
 name = 'Ocean'
 description = "***Divine Domain: Ocean.*** Clerics of Gods who control the waves and tides, as well as the beasts who dwell within the depths of the sea draw power from this domain."

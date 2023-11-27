@@ -10,4 +10,4 @@ You point toward a creature you can see within range, and your arm briefly becom
 
 While a creature is poisoned by this spelL its speed is halved and it takes 3d8 poison damage at the start of each of its turns. At the end of each of its turns, it makes a Con­stitution saving throw, ending the spell on a success. 
 
-***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the piercing damage increases by ld8 for each slot level above 4th.
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, the piercing damage increases by 1d8 for each slot level above 4th.

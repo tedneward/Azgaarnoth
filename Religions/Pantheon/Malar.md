@@ -4,9 +4,9 @@
 Malar, The Beastlord, is the lesser deity of the hunt, evil lycanthropes, bestial savagery and bloodlust. He is a primordial, savage deity who revels in the hunt and the blood of the kill. Malar delights in instilling fear in his victims, for he can literally smell and taste the essences of their terror. The Beastlord is known by many names in many lands, including the Stalker along the shores of the Vilhon Reach, the Render across the Endless Ice and the Great Glacier, the Blue Bear among the Uthgardt, and Herne among the orcs of the High Forest.
 
 ## Clerical details
-Domains: [Hunt](../../Classes/Cleric/Hunt.md), [Chaos](../../Classes/Cleric/Chaos.md), [Nature](../../Classes/Cleric/Nature.md)
+Domains: [Hunt](../../Classes/Cleric/Hunt.md), [Chaos](../../Classes/Cleric/Chaos.md), [Shadow](../../Classes/Cleric/Shadow.md)
 
-Weapon: 
+Weapon: Shortbow
 
 ## Worshipers, Clergy & Temples
 In civilized settings, the church of Malar is widely loathed, for its members—-often evil lycanthropes—-are some of the most dangerous threats to the safety of the local populace. Along the frontier and in wilderness settings, however, those who must hunt for food reluctantly pay homage to the Beastlord, even as they fear his cruelty. Outsiders sometimes differentiate between "Hunts," as Malarite bands are known, that operate openly and those that stalk the night. Some realms, such as Cormyr, legally recognize the former as having dominion over hunting while considering the latter to be little more than dangerous predators to be driven off or slain.

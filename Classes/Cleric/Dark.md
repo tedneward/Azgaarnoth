@@ -1,5 +1,7 @@
 # Divine Domain: Dark
-The most primal fear of all mortal races is fear of the dark.  Priests of the Dark Domain revel in this fear, worship it and learn to shape and control it.  They can reach into your mind and take the face of your loved ones.  They coalesce shadows around themselves making them harder to see and hit.  Darkness can remove them from sight even in a completely lit room.  The strongest among them can control weaker minds with nightmarish powers that force their enemies greatest fears to the surface. Darkness is the edge of fear, and as such has much in common with deities that also embody death, madness, and the void. 
+The most primal fear of all mortal races is fear of the dark.  Priests of the Dark Domain revel in this fear, worship it and learn to shape and control it. For some clerics, that control is to remove the fear, and show that in the dark, all there is to fear is the fear itself. But other clerics of the Dark Domain, their motives are not so pure. They can reach into your mind and take the face of your loved ones.  They coalesce shadows around themselves making them harder to see and hit.  Darkness can remove them from sight even in a completely lit room.  The strongest among them can control weaker minds with nightmarish powers that force their enemies greatest fears to the surface. Darkness is the edge of fear, and as such has much in common with deities that also embody death, madness, and the void. 
+
+This domain is available to [Trinitarians who worship Dara](../../Religions/Trinitarian.md#dara), [the Keeper](../../Religions/Pantheon/Keeper.md), ...
 
 ## Domain Spells
 You gain domain spells at the cleric levels listed in the Dark Domain Spells table. See the Divine Domain class feature for how domain spells work.

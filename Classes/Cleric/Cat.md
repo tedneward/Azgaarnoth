@@ -3,6 +3,8 @@ The [deity of the tabaxi](../../Religions/Pantheon/CatLord.md) is a fickle entit
 
 Clerics of the Cat Domain are almost exclusively found within the tribes of the exotic cat-like Tabaxi. These Clerics are extremely rare and are in very high standing within the Tabaxi culture and they serve as spiritual leaders but also as fearsome defenders of the land. Contrary to the heavily armored clerics of other domains, Cat Domain Clerics either wear light armor or no armor at all,  counting instead on the blessings of the Cat Lord to protect them. These Clerics almost never use a shield, instead preferring to use light weapons to remain mobile.
 
+This domain is available to followers of [the Cat Lord](../../Religions/Pantheon/CatLord.md).
+
 ```
 name = 'Cat'
 description = "***Divine Domain: Cat.*** Clerics of the Cat Lord are rare and are typically mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They are equally likely to be by your side up until the moment trouble begins as scoundrels, gamblers, rebels, and liberators. Their clerics are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions."

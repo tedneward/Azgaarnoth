@@ -1,6 +1,8 @@
 # Divine Domain: Dragon
 Within certain parts of Azgaarnoth, reverence for the dragons (both metallic and chromatic) has slipped into outright deification, and for whatever reason, their prayers are being answered.
 
+This domain is available to followers of [Bahamut](../../Religions/Pantheon/Bahamut.md), [Tiamat](../../Religions/Pantheon/Tiamat.md).
+
 ## Domain Spells
 You gain domain spells at the cleric levels listed in the Dragon Domain Spells table. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 

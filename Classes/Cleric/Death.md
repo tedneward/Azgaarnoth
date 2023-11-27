@@ -1,7 +1,7 @@
 # Divine Domain: Death
 The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. While many of the deities who serve as patrons to Death Clerics are evil and seek the absence of life, others are simply stewards of the realm of the dead. Some are even prone to carefully balance life against death, intervening when too much life threatens an ecosystem and death must be brought to bring things back into careful equilibrium.
 
-This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Arawn](../../Religions/Pantheon/Arawn.md), ...
+This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Arawn](../../Religions/Pantheon/Arawn.md), [the Keeper](../../Religions/Pantheon/Keeper.md), 
 
 ```
 name = 'Death'

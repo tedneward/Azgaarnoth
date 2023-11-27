@@ -86,7 +86,7 @@ You start with the following equipment, in addition to the equipment granted by 
     npc.equipment.append("Light crossbow and 20 bolts")
     npc.equipment.append("Priest's pack")
     npc.equipment.append("Shield")
-    npc.equipment.append("Holy symb0l")
+    npc.equipment.append("Holy symbol")
 ```
 
 ## Spellcasting
@@ -140,7 +140,6 @@ Choose one domain, or choose a [diety or religion](../../Religions/index.md) and
 
 * [Air](Air.md)
 * [Arcana](Arcana.md)
-* [Blood](Blood.md)
 * [Cat](Cat.md)
 * [Chaos](Chaos.md)
 * [Cold](Cold.md)
@@ -170,12 +169,12 @@ Choose one domain, or choose a [diety or religion](../../Religions/index.md) and
 * [Pain](Pain.md)
 * [Peace](Peace.md)
 * [Protection](Protection.md)
+* [Sea](Sea.md)
 * [Shadow](Shadow.md)
 * [Tempest](Tempest.md)
 * [Time](Time.md)
 * [Trickery](Trickery.md)
 * [Twilight](Twilight.md)
-* [Unity](Unity.md)
 * [Vengeance](Vengeance.md)
 * [War](War.md)
 * [Water](Water.md)
@@ -183,8 +182,11 @@ Choose one domain, or choose a [diety or religion](../../Religions/index.md) and
 Alternatively, there are some "concepts" beyond the simple "deity worship" that--somehow--yield divine power and benefits:
 
 * [Abandoned](Abandoned.md)
+* [Blood](Blood.md)
 * [Defier](Defier.md)
 * [Entropy](Entropy.md)
+* [Phoenix](Phoenix.md)
+* [Unity](Unity.md)
 * [Zeal](Zeal.md)
 
 Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use [Channel Divinity](#channel-divinity) when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.

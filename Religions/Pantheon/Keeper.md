@@ -6,7 +6,7 @@ Kiaransalee, the Lady of the Dead, or known more simply as The Keeper, is a deit
 Whispers of legend tell that Kiaransalee was once mortal and the lover of [Kali Kaal](../../People/KaliKaal.md), but spurned him when he chose to keep arcane secrets from her, and ascended to divinity in order to demonstrate her greater mastery of death than his. Whether this is true or not, The Keeper's clergy are constantly on the lookout for Kali's activities and constantly look to subvert or outright defy them.
 
 ## Clerical details
-Domains: [Death](../../Classes/Cleric/Death.md), [Grave](../../Classes/Cleric/Grave.md), [Vengeance](../../Classes/Cleric/Vengeance.md)
+Domains: [Dark](../../Classes/Cleric/Dark.md), [Death](../../Classes/Cleric/Death.md), [Grave](../../Classes/Cleric/Grave.md), [Vengeance](../../Classes/Cleric/Vengeance.md)
 
 Weapon: Stiletto (dagger) or mace
 

@@ -348,6 +348,35 @@ def graspofhadar(npc):
 def graspofhadar_prereq(npc): return True
 ```
 
+### Hag's Heritage
+*Prerequisite: Progenitor Patron*
+
+You have advantage on saving throws against being charmed, magic can't put you to sleep, and you are a fey instead of your normal creature type. Also, you gain proficiency in your choice of either Deception, Perception, or Stealth, and you can speak, read, and write your choice of either AbyssaL Giant, Primordial or Sylvan.
+
+In addition, you can use an action to cover yourself and anything you are wearing or carrying with a magical illusion that makes you look like an ugly creature of your general size and humanoid shape. The effect ends if you take a bonus action to end it or if you die.
+
+The changes wrought by this effect fail to hold up to physical inspection. For example, you could appear to have no hair, but someone touching your head might feel your hair, if you have any hair. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a Intelligence (Investigation) check against your warlock spell save DC to tell you are disguised
+
+However, you also have the following flaws:
+
+* **Foul Hunger.** You must eat five times as much food as normal for your size, but humanoid flesh counts as five times as much food for you.
+
+* **Hideous Countenance.** Your true appearance is ugly, and those who see your true form or your cursed form may become disgusted or worse. Whenever a creature sees either your true form or your cursed form for the first time, it must succeed on a DC 13 Wisdom saving throw or else it becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek to flee from you or make you leave the area in nonviolent ways (at the DM's discretion1 depending on the nature of your interaction with it.
+
+```
+def hagsheritage_prereq(npc): return npc.subclasses['Warlock'].name == 'Progenitor'
+def hagsheritage(npc):
+    npc.traits.append("***Hag's Heritage.*** You have advantage on saving throws against being charmed.")
+    npc.conditionimmunities.append("sleep")
+    npc.proficiencies.append(choose("Choose a proficiency: ", ['Deception','Perception','Stealth']))
+    npc.languages.append(choose("Choose a language: ", ['Abyssal','Giant', 'Primordial','Sylvan']))
+
+    npc.defer(lambda npc: npc.actions.append(f"***Hag's Heritage: Cast Illusion.*** You cover yourself and anything you are wearing or carrying with a magical illusion that makes you look like an ugly creature of your general size and humanoid shape. The effect ends if you take a bonus action to end it or if you die. A creature must take an action to visually inspect the illusion and succeed on a Intelligence (Investigation) check (DC {8 + npc.proficiencybonus() + npc.CHAbonus()}) to tell you are disguised. However, the changes wrought by this effect fail to hold up to physical inspection.") )
+    
+    npc.traits.append("***Foul Hunger.*** You must eat five times as much food as normal for your size, but humanoid flesh counts as five times as much food for you.")
+    npc.traits.append("***Hideous Countenance.*** Your true appearance is ugly, and those who see your true form or your cursed form may become disgusted or worse. Whenever a creature sees either your true form or your cursed form for the first time, it must succeed on a Wisdom saving throw (DC 13) or else it becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek to flee from you or make you leave the area in nonviolent ways (at the DM's discretion) depending on the nature of your interaction with it.")
+```
+
 ### Ironfell Blade
 *Prerequisites: 5th level, Pact of the Ring feature*. 
 
@@ -519,6 +548,22 @@ def otherworldlyleap(npc):
     npc.traits.append(f"***Otherworldly Leap.*** You can cast {spelllinkify('jump')} on yourself at will, without expending a spell slot or material components.")
 
 def otherworldlyleap_prereq(npc): return npc.levels('Warlock') >= 9
+```
+
+### Power of the Moon
+*Prerequisite: Progenitor Patron*
+
+While you're in your Cursed Shapechanger form and you're in moonlight at night, you gain a + 1 bonus to AC and attack rolls and have advantage on saving throws. In addition, you count as a shapechanger at all times.
+
+However, you also have the following flaw:
+
+***Silver Hypersensitivity.*** You have vulnerability to bludgeoning, piercing, and slashing damage dealt by silvered weapons. While touching silver, you have disadvantage on attack rolls and ability checks.
+
+```
+def powerofthemoon_prereq(npc): return npc.subclasses['Warlock'].name == 'Progenitor'
+def powerofthemoon(npc):
+    npc.traits.append("***Power of the Moon.*** You count as a shapechanger at all times. While you're in your Cursed Shapechanger form, and in moonlight at night, you gain a +1 bonus to AC and attack rolls and have advantage on saving throws.")
+    npc.traits.append("***Silver Hypersensitivity.*** You have vulnerability to bludgeoning, piercing, and slashing damage dealt by silvered weapons. While touching silver, you have disadvantage on attack rolls and ability checks.")
 ```
 
 ### Protection of the Talisman
@@ -733,77 +778,34 @@ def witchsight_prereq(npc):
     return npc.levels('Warlock') >= 15
 ```
 
-HAG'S HERITAGE
-Prerequisite: Progenitor Patron
-You have advantage on saving throws against being
-charmed, magic can't put you to sleep, and you are a fey
-instead of your normal creature type. Also, you gain
-proficiency in your choice of either Deception, Perception,
-or Stealth, and you can speak, read, and write your
-choice of either AbyssaL Giant, PrimordiaL or Sylvan.
-In addition, you can use an action to cover yourself
-and anything you are wearing or carrying with a magical
-illusion that makes you look like an ugly creature of
-your general size and humanoid shape. The effect ends
-if you take a bonus action to end it or if you die.
-The changes wrought by this effect fail to hold up to
-physical inspection. For example, you could appear to
-have no hair, but someone touching your head might
-feel your hair, if you have any hair. Otherwise, a creature
-must take an action to visually inspect the illusion and
-succeed on a Intelligence (Investigation) check against
-your warlock spell save DC to tell you are disguised
-However, you also have the following flaws:
-Foul Hunger. You must eat five times as much food
-as normal for your size, but humanoid flesh counts as
-five times as much food for you.
-Hideous Countenance. Your true appearance is ugly,
-and those who see your true form or your cursed form
-may become disgusted or worse. Whenever a creature
-sees either your true form or your cursed form for the
-first time, it must succeed on a DC 13 Wisdom saving
-throw or else it becomes hostile toward you. A creature
-prone to violence might attack you. Another creature
-might seek to flee from you or make you leave the area
-in nonviolent ways (at the DM's discretion1 depending
-on the nature of your interaction with it.
-POWER OF THE MOON
-Prerequisite: Progenitor Patron
-While you're in your Cursed Shapechanger form and
-you're in moonlight at night, you gain a + 1 bonus to AC
-and attack rolls and have advantage on saving throws.
-In addition, you count as a shapechanger at all times.
-However, you also have the following flaw:
-Silver Hypersensitivity. You have vulnerability to
-bludgeoning, piercing, and slashing damage dealt by
-silvered weapons. While touching silver, you have
-disadvantage on attack rolls and ability checks.
+---
+# New Invocations
 
-VAMPIRIC AsPECT
-Prerequisite: Progenitor Patron
-You have resistance to necrotic damage and you are an
-undead in addition to your normal creature type, but
-when a game effect targets you, you choose whether it
-treats you as undead or as your normal creature type.
-You can also choose one extra trait from your Cursed
-Shapechanger feature. You gain the benefit of that trait
-while in your cursed form. Finally, your Beast of the
-Curse feature treats bats, rats, and wolves as your
-chosen beasts, instead of your original choice.
+### Vampiric Aspect
+*Prerequisite: Progenitor Patron*
+
+You have resistance to necrotic damage and you are an undead in addition to your normal creature type, but when a game effect targets you, you choose whether it treats you as undead or as your normal creature type.
+
+You can also choose one extra trait from your Cursed Shapechanger feature. You gain the benefit of that trait while in your cursed form. Finally, your Beast of the Curse feature treats bats, rats, and wolves as your chosen beasts, instead of your original choice.
+
 However, you also have the following flaws:
-Forbiddance. You can't enter a residence without an
-invitation from one of the occupants.
-Harmed by Running Water. You take acid damage
-equal to 5 + your level when you end your turn in
-running water.
-No Reflection. You do not appear in reflections.
-Stake to the Heart. If a piercing weapon made of
-wood is driven into your heart while you are incapacitated,
-you are paralyzed until the stake is removed
-Sunlight Hypersensitivity. You take radiant damage
-equal to 5 + your level when you start your turn in
-sunlight. While in sunlight, you have disadvantage on
-attack rolls and ability checks.
+
+***Forbiddance.*** You can't enter a residence without an invitation from one of the occupants.
+
+***Harmed by Running Water.*** You take acid damage equal to 5 + your level when you end your turn in running water.
+
+***No Reflection.*** You do not appear in reflections.
+
+***Stake to the Heart.*** If a piercing weapon made of wood is driven into your heart while you are incapacitated, you are paralyzed until the stake is removed.
+
+***Sunlight Hypersensitivity.*** You take radiant damage equal to 5 + your level when you start your turn in sunlight. While in sunlight, you have disadvantage on attack rolls and ability checks.
+
+```
+def vampiricaspect_prereq(npc): return npc.subclasses['Warlock'].name == 'Progenitor'
+def vampiricaspect(npc):
+    npc.damageresistances.append('necrotic')
+    npc.traits.append("***Vampiric Aspect.*** You are an undead in addition to your normal creature type, but when a game affect targets you, you choose whether it treats you as undead or as your normal creature type.")
+```
 
 ARCANE SPECIALTY
 Prerequisite: Pact of the Skull feature
@@ -817,6 +819,7 @@ Once you use this invocation, you must finish a long
 rest before you can use it again. When you finish a long
 rest with the skull in your possession, you can change
 the school of magic that you chose for this invocation.
+
 BALEFUL BLOOD
 Prerequisite: Pact of the Blood feature
 When you take slashing, bludgeoning, or piercing
@@ -828,12 +831,14 @@ Charisma modifier (minimum 1 damage).
 You can use this reaction a number of times equal to
 your proficiency bonus, and you regain all expended
 uses when you finish a long rest.
+
 CoLDTERROR
 When you deal psychic damage to a creature using a
 warlock spell or feature, you ignore resistance to
 psychic damage unless the creature also has resistance
 or immunity to cold damage, and you treat vulnerability
 to cold damage as vulnerability to both damage types.
+
 CURSED POSSESSIONS
 You gain the ability to imbue objects that you own with
 your dark magic to use to afflict others from afar. As an
@@ -852,6 +857,7 @@ The spell discharges on its own without affecting
 anything when you finish a long rest. It also does so if
 you use this invocation again, or if you end your tum
 more than 300 feet away from the cursed item.
+
 ENTICING GAZE
 Prerequisite: Vampiric Aspect invocation
 As an action, you can attempt to enthrall one creature
@@ -864,6 +870,7 @@ to the target, the effect ends immediately. You can't use
 this invocation while you are in sunlight.
 Once you use this invocation, you must finish a long
 rest before you can use it again.
+
 GLIMPSE THE VISAGE OF DEATH
 When you deal necrotic damage to a creature using a
 warlock spell or feature, you can force the target to
@@ -873,6 +880,7 @@ Creatures that can't be charmed and creatures that can't
 be frightened are immune to this invocation.
 Once you use this invocation, you must finish a long
 rest before you can use it again.
+
 GRASPING SHADOW
 Prerequisite: Pact of the Shadow feature
 Your shadow servant can grapple creatures. You can use
@@ -880,9 +888,9 @@ a bonus action on your turn to command the servant to
 grapple a creature within 5 feet of the servant, using
 your warlock spellcasting ability in place of its Strength
 for the Strength (Athletics) check.
+
 HARBINGER OF THE PACK
-Prerequisite: Progenitor Patron, Pact of the Chain
-feature
+Prerequisite: Progenitor Patron, Pact of the Chain feature
 In addition to Touch spells, you can cast spells that
 conjure, summon, or create another creature (such as
 conjure animals) through the familiar summoned by
@@ -897,12 +905,14 @@ you can choose to gain temporary hit points equal to
 your warlock level that last until you change form again.
 Once you gain these temporary hit points, you can't
 gain them again until you finish a long rest.
+
 MADDENING POISON
 When you deal poison damage to a creature using a
 warlock spell or feature, you ignore resistance to poison
 damage unless the creature has resistance or immunity
 to psychic damage, and you treat vulnerability to psychic
 damage as vulnerability to both damage types.
+
 PSYCHIC CONVULSIONS
 When you deal psychic damage to a creature using a
 warlock spell or feature, you can force the target to
@@ -911,9 +921,9 @@ target drops whatever it is holding and is restrained
 until the start of your next turn.
 Once you use this invocation, you must finish a long
 rest before you can use it again.
+
 RECORDED LINEAGE
-Prerequisite: Progenitor or Ancestor Patron, Pact of the
-Tome feature
+Prerequisite: Progenitor or Ancestor Patron, Pact of the Tome feature
 Your Book of Shadows holds the stories of your patron's
 children who came before you. Before you make an
 ability check, you can spend 1 minute studying your
@@ -923,6 +933,7 @@ advantage on the check. You cannot use this invocation
 more than once for the same check.
 Once you gain this advantage, you must finish a long
 rest before you can gain it again.
+
 STUPEFYING TOXIN
 When you deal poison damage to a creature using a
 warlock spell or feature, you can force the target to
@@ -933,9 +944,9 @@ affected by this invocation and it is poisoned, it is also
 incapacitated
 Once you use this invocation, you must finish a long
 rest before you can use it again.
+
 TALISMAN OF ADOPTION
-Prerequisite: Progenitor Patron, Pact of the Talisman
-feature
+Prerequisite: Progenitor Patron, Pact of the Talisman feature
 While wearing your talisman, a creature gains all the
 benefits of your Beast of the Curse and Cursed
 Shapechanger features, including the ability to
@@ -944,23 +955,27 @@ choose its own. If the talisman is removed while the
 wearer is transformed using the talisman's power, the
 creature returns to its original form. The wearer is not
 able to release a terrifying sound when it transforms.
+
 TwILIGHT OF THE SOUL
 When you deal necrotic damage to a creature using a
 warlock spell or feature, you ignore resistance to necrotic
 damage unless the creature has resistance or immunity
 to radiant damage, and you treat vulnerability to radiant
 damage as vulnerability to both damage types.
+
 UNHOLY AsPECT
 You learn the thaumaturgyspelL it is a warlock spell for
 you, and it doesn't count against the number of cantrips
 you can learn. Also, you do not need to provide any
 components when you cast the thaumaturgyspelL and
 you can cast it with a casting time of 1 bonus action.
+
 VENOMOUS FAMILIAR
 Prerequisite: Defiler Patron, Pact of the Chain feature
 When your familiar hits a creature with a melee attack,
 you can expend a warlock spell slot to deal ld12 bonus
 poison damage to the target for each spell slot level
+
 ACCURSED BLADE
 Prerequisite: 5th level, Progenitor Patron, Pact of the
 Blade feature
@@ -982,15 +997,16 @@ You learn protection from poison as a warlock spelL and
 it doesn't count against the number of spells you can
 learn as a warlock. When you cast the spelL its range is
 30 feet, and you don't have to touch the target.
+
 BEFOUL FOOD AND DRINK
-Prerequisite: 5th levei Defiler Patron or Hag's Heritage
-invocation
+Prerequisite: 5th levei Defiler Patron or Hag's Heritage invocation
 You learn the new poison food and drink spell (pg. 89)
 as a warlock spelL and it doesn't count against the
 number of spells you can learn as a warlock.
 You can choose to cast the spell without expending a
 spell slot or requiring material components. Once you
 do so, you can't do so again until you finish a long rest.
+
 CURSED REGENERATION
 Prerequisite: 5th levei Progenitor Patron
 You regain hit points equal to half your proficiency
@@ -1010,6 +1026,7 @@ function if any part of your body is touching fire or silver.
 If you take fire damage or damage from an attack using
 a silvered weapon, this invocation doesn't function until
 the end of your next turn.
+
 DARK AND TERRIBLE
 Prerequisite: 5th levei Progenitor Patron
 While you are in your cursed form, you can make an
@@ -1017,6 +1034,7 @@ attack with your natural weapon twice, instead of once,
 when you take the Attack action on your turn. Also, your
 natural weapon deals ldlO damage instead of ld8 and
 counts as magical for overcoming resistance or immunity.
+
 ELDRITCH MOUNT
 Prerequisite: 5th level
 You can expend a warlock spell slot to cast phantom
@@ -1024,6 +1042,7 @@ steed, although you are the only creature that can ride
 the steed conjured by the spell
 Once you use this invocation, you must finish a long
 rest before you can use it again.
+
 MINIONS OF DARKNESS
 Prerequisite: 5th level
 You can cast the new shadow spies spell (pg. 94) using a
@@ -1032,22 +1051,26 @@ from Legends of Prestige & Prowess, you can use your
 magic cauldron as the material component for the spell
 Once you use this invocation, you must finish a long
 rest before you can use it again.
-SLUMBER PuPPET
+
+SLUMBER PUPPET
 Prerequisite: 5th level
 You can cast telekinesis at-wilL without expending a
 spell slot, but you can only target unconscious creatures
 with the spell when you cast it in this way.
+
 BLIGHTED BLADE
 Prerequisite: 7th levei Defiler Patron or Hag's Heritage
 invocation
 You can cast the new envenomed weapon spell (pg. 77)
 using a warlock spell slot. Once you use this invocation,
 you must finish a long rest before you can use it again.
+
 BLOODLINE GUAKDIAN
 Prerequisite: 7th levei Progenitor Patron
 You can cast mordenkainen's faithful hound using a
 warlock spell slot. Once you use this invocation, you
 must finish a long rest before you can use it again.
+
 CONTAGIOUS CURSE
 Prerequisite: 7th levei Power of the Moon invocation
 When you hit a creature with a natural weapon while in
@@ -1070,6 +1093,7 @@ Choose another three beasts for your Beast of the
 Curse feature. You gain the benefits of that feature for
 all of your chosen beasts instead of only one.
 You can take this invocation multiple times.
+
 VAMPIRIC MAGIC
 Prerequisite: 7th levd Vampiric Aspect invocation
 Choose two spells you know as a warlock. Those spells
@@ -1091,17 +1115,19 @@ temporary hit points.
 You can use this invocation to heal a number of times
 equal to your proficiency bonus, and you regain all
 expended uses when you finish a long rest.
+
 GESTALT MINDLINK
 Prerequisite: 9th levd Great Old One Patron
 You can cast rary'.s telepathic bond using a warlock spell
 slot. Once you use this invocation, you must finish a
 long rest before you can use it again.
-' .
+
 GLAMOUR WALK
 Prerequisite: 9th levei Archfey Patron or Hags Heritage
 invocation
 You can cast the new glamour veil spell (pg. 79) without
 expending spell slots or requiring material components.
+
 HOWL OF TERROR
 Prerequisite: 9th levei Power of the Moon invocation
 You gain one extra use of your Cursed Shapechanger
@@ -1110,15 +1136,18 @@ you finish a long rest. If you are in moonlight when you
 release the sound, the range increases to 120 feet and
 creatures within 15 feet of you that can also see you
 make the saving throw with disadvantage.
+
 PHANTOM BARGAIN
 Prerequisite: 9th level
 You can cast the new spectral calling spell (pg. 97) using
 a warlock spell slot. Once you use this invocation, you
 must finish a long rest before you can use it again.
+
 SCENT OF CORRUPTION
 Prerequisite: 9th levei Defiler Patron
 You can cast detect poison and disease at-wilL without
 expending a spell slot or requiring components.
+
 STRENGTH FROM HUNGER
 Prerequisite: 9th levei Vampiric Aspect invocation
 When you hit with an attack using your claws, you can
@@ -1129,15 +1158,16 @@ spell slot to add ld6 bonus necrotic damage per slot
 level to the attack. If the target of the attack is a valid
 target for your Dark Consumption feature, you also
 regain hit points equal to the necrotic damage dealt.
+
 FANG OF THE MA.LISON
-Prerequisite: 12th levd Defiler Patron, Pact of the
-Blade feature
+Prerequisite: 12th levd Defiler Patron, Pact of the Blade feature
 You can create a curved dagger using your Pact of the
 Blade feature. This weapon deals an extra ld4 poison
 damage on a hit. When you hit a creature with it, you
 can expend a warlock spell slot to deal ld8 bonus
 poison damage per spell level to the target and cause it
 to become poisoned until the start of your next turn.
+
 PLAGUEBEARER
 Prerequisite: 12th levei Progenitor Patron
 When you hit a creature with a natural weapon granted
@@ -1160,12 +1190,14 @@ the spirit is reduced to O hit points, it returns back
 inside the skull and is unharmed
 Once you use this invocation, you must finish a long
 rest before you can use it again.
+
 SANGUINE VIGOR
 Prerequisite: 12th leveZ Pact of the Blood feature
 You have advantage on saving throws against poison or
 disease. In addition, while you have no more than half of
 your hit points remaining, you also have advantage on
 Constitution saving throws.
+
 STRETCHING SHADOW
 Prerequisite: 12th leveZ Pact of the Shadow feature
 The range of each your warlock spells of 1st-level or
@@ -1173,54 +1205,61 @@ higher is increased by 30 feet when you're in an area of
 dim light or darkness and your shadow servant is in
 your space. This doesn't increase the range of Touch
 spells or the reach of melee spell attacks.
+
 ENCHANTED SLUMBER
 Prerequisite: 15th level
 You can expend the 7th-level use of your Mystic Arcanum
-to cast the new suspend animation spell (pg. 99}
+to cast the new suspend animation spell (pg. 99)
+
 FOCUSED REGENERATION
-Prerequisite: 15th leveZ Cursed Regeneration invocation
+Prerequisite: 15th level, Cursed Regeneration invocation
 Whenever you finish a short rest, you can expend two of
 your warlock spell slots to cast regenerate on yourself
 without needing components, but the spell only restores
 hit points while your Cursed Regeneration functions.
 Once you use this invocation, you must finish a long
 rest before you can use it again.
+
 PERCHANCE TO DREAM
-Prerequisite: 15th leveZ Archfey Patron or Hag's
-Heritage invocation
+Prerequisite: 15th level, Archfey Patron or Hag's Heritage invocation
 You can expend the 8th-level use of your Mystic Arcanum
 to cast the new sandman's slumber spell (pg. 93>
+
 REINS OF THE NIGHTMARE
-Prerequisite: 15th leveZ Fiend or Hexblade Patron
+Prerequisite: 15th level, Fiend or Hexblade Patron
 You can cast find greater steed using a warlock spell
 slot, but when you do, you summon a nightmare (from
 the Monster Manual) instead of the normal options. It is
 always a fiend, and the steed disappears after 1 hour.
 Once you use this invocation, you must finish a long
 rest before you can use it again.
-THE IMPERMISSICON
-✓
+
 SPEECH OF THE FAR REALM
 Prerequisite: 15th leveZ Enigma or Great Old One Patron
 You can expend the 8th-level use of your Mystic Arcanum
 to cast the telepathy spell
+
 BECKON THE DARKNESS
 Prerequisite: 18th leveZ Fiend or Hexblade Patron
 You can expend the 9th-level use of your Mystic Arcanum
 to cast the new midnight spell (pg. 83>
+
 MIRROR WORLD SUMMONING
 Prerequisite: 18th leveZ Archfey or Enigma Patron
 You can expend the 9th-level use of your Mystic Arcanum
 to cast the new duplication spell (pg. 76}
+
 PLAGUE HERALD
 Prerequisite: 18th leveZ Celestial or Undead Patron or
 Hag's Heritage invocation
 You can expend the 9th-level use of your Mystic Arcanum
-to cast the new pestilence spell (pg. 87}
+to cast the new pestilence spell (pg. 87)
+
 RITuAL OF THE DAMNED
 Prerequisite: 18th leveZ Fiend or Undead Patron
 You can expend the 9th-level use of your Mystic Arcanum
-to cast the new awaken the dead spell (pg. 68>
+to cast the new awaken the dead spell
+
 STAR OF DARKNESS
 Prerequisite: 18th leveZ Fiend or Great Old One Patron
 You can expend the 9th-level use of your Mystic Arcanum
@@ -1374,8 +1413,7 @@ You can cast feather fall targeting only yourself at will
 without expending a spell slot or requiring components.
 
 EXPLOSIVE VENGEANCE
-Prerequisite: 7th leve~ Pact of the Chain, fireball known
-as a warlock spell
+Prerequisite: 7th level Pact of the Chain, fireball known as a warlock spell
 When another creature deals damage to your familiar
 and reduces it to O hit points, you can choose to use
 your reaction to cast fireball using a warlock spell slot
@@ -1393,7 +1431,7 @@ While you are buried or burrowing in earth or sealed
 underground, you don't need to eat, drink, or breathe.
 
 BREATH OF BAHAMUT
-Prerequisite: 9th leve~ Dragon Patron (Any Metallic)
+Prerequisite: 9th level Dragon Patron (Any Metallic)
 You can use an action to expend a warlock spell slot to
 exhale a secondary breath weapon in a 30-foot cone.
 Each creature in the area suffers the following effects,
@@ -1428,7 +1466,7 @@ Any creature with hit points equal to or greater than
 your warlock level x 3 automatically succeeds on the
 saving throw.
 
-TIAMAT' S BARGAIN
+TIAMAT'S BARGAIN
 Prerequisite: 9th leve~ Dragon Patron (Any Chromatic)
 When you use your Breath of the Wynn feature, you
 can choose to use the breath weapon and damage type
@@ -1440,22 +1478,19 @@ grants resistance to. Choose one from acid, cold, fire,
 lightning, or poison damage.
 
 FIERY BREATH
-Prerequisite: 12th levd burning hands known as a
-warlock spell
+Prerequisite: 12th levd burning hands known as a warlock spell
 When you cast burning hands, you can do so as a bonus
 action, requiring only verbal components. Once you do,
 you can't do so again until you finish a long rest.
 
 OPEN THE GATE BELOW
-Prerequisite: 12th levei Any Water-themed Patron or
-Hydromancer feat
+Prerequisite: 12th levei Any Water-themed Patron or Hydromancer feat
 You can expend a warlock spell slot to cast the new dark
 lagoon spelL requiring only somatic components. Once
 you do so, you can't do so again until you finish a long rest.
 
 TENTACLE GROWTH
-Prerequisite: 12th levei Fathomless Patron or Great
-Old One Patron
+Prerequisite: 12th levei Fathomless Patron or Great Old One Patron
 You have an additional extremely flexible arm (a tentacle)
 that has reach 10 feet. Melee weapons wielded using
 this arm and no other arms have an additional 5 feet of
@@ -1466,14 +1501,12 @@ apparent damage when you finish a long rest.
 You can take this invocation multiple times.
 
 GIFT OF THE 'TREANTS
-Prerequisite: 15th levei Archfey Patron or any Plantthemed
-Patron
+Prerequisite: 15th levei Archfey Patron or any Plant-themed Patron
 You can expend the 8th-level use of your Mystic Arcanum
 to cast the new animate tree spell
 
 HELLISH BLOOD
-Prerequisite: 15th levei Fiend Patron or Pyromancer
-Feat
+Prerequisite: 15th levei Fiend Patron or Pyromancer Feat
 You are constantly affected by a lesser form of fire shield
 (warm option) that deals only ld6 damage. You can also
 expend a warlock spell slot to cast fire shield (as warm
@@ -1488,22 +1521,19 @@ without requiring components, but you can only target
 yourself when you do so.
 
 PULL OF THE DARK
-Prerequisite: 15th levei Fathomless Patron, Eldritch
-Blast cantrip
+Prerequisite: 15th levei Fathomless Patron, Eldritch Blast cantrip
 When you hit a creature with eldritch blast more than
 once in a turn, you can have it make a Strength saving
 throw. On a failed saving throw, the creature is knocked
 prone or pulled up to 10 feet toward you (your choice}
 
 WAVE CALLER
-Prerequisite: 15th levd Any Water-themed Patron or
-Hydromancer feat
+Prerequisite: 15th levd Any Water-themed Patron or Hydromancer feat
 You can cast control water at-wilL expending no spell
 slots and requiring only verbal components.
 
 CONSIGN TO THE EARTH
-Prerequisite: 18th levei Any Earth-themed or Gravethemed
-Patron
+Prerequisite: 18th levei Any Earth-themed or Grave-themed Patron
 You can expend the 9th-level use of your Mystic Arcanum
 to cast the new earth whelm spell
 
@@ -1518,20 +1548,17 @@ You can expend the 9th-level use of your Mystic Arcanum
 to cast the new ordainment of lava spell
 
 STEEL FORM
-Prerequisite: 18th levd Any Tech-themed or Weaponthemed
-Patron
+Prerequisite: 18th levd Any Weapon-themed Patron
 You can expend the 9th-level use of your Mystic Arcanum
 to cast the new ordainment of metal spell
 
 PEERS OF THE PATRON
-Prerequisite: 18th levei Archfey Patron or any
-Elemental-themed Patron
+Prerequisite: 18th levei Archfey Patron or any Elemental-themed Patron
 You can expend the 9th-level use of your Mystic Arcanum
 to cast the new summon primal spirit spell
 
 TAME THE WIND
-Prerequisite: 18th levei Any Air-themed or Stormthemed
-Patron
+Prerequisite: 18th levei Any Air-themed or Stormthemed Patron
 You can expend the 9th-level use of your Mystic Arcanum
 to cast the new wind wake spell
 

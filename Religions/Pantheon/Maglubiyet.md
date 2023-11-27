@@ -1,4 +1,6 @@
-# Pantheon: Maglubiyet, "The Mighty One", the god of Goblinkind
+# Pantheon: Maglubiyet
+*"The Mighty One"; the god of Goblinkind*
+
 Maglubiyet appears as an 11-foot tall hobgoblin with black skin and flaming eyes, with strong arms ending in sharp talons.
 
 Maglubiyet's divine realm is Clangor, located in Avalas, the first layer of the plane of Acheron. The mightiest goblin city in Clangor was Shetring, a fortification with five bridges spanning the River Lorfang. Maglubiyet lives at the bottom of a waterfall of the river in a cavern of magnificently carved steel dripping with moisture. He also keeps a retreat in the fortified sacred site of Grashmog, which translated from the Goblin language meant the "Heart of Battle."

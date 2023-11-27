@@ -1,12 +1,12 @@
 # Pantheon: Larethian
-*Star of Arvandor*
+*Star of Arvandor; Defender of the Folk; Battledancer*
 
 Larethian embodies the highest ideals of elvenkind, and he is the patron of most aesthetic endeavors, including art, magic, music, poetry, and warfare. He is venerated by all the Fair Folk, except the drow and those who have turned to Lolth and other dark powers. Larethian is especially popular with elf and half-elf mages, musicians, and poets. When need be, he works as a powerful war deity with his longsword Sahandrian (which is made from a star).
 
 ## Clerical details
 Domains: [Air](../../Classes/Cleric/Air.md), [Light](../../Classes/Cleric/Light.md), [Moon](../../Classes/Cleric/Moon.md)
 
-Weapon: 
+Weapon: Longsword
 
 ## Worshipers, Clergy & Temples
 Priests of Larethian are expected to serve actively in the defense and artistic development of  communities and to work to mediate disputes. In service to the Protector, many Larethianish priests serve in the armed forces of their homeland, defending territories from relentless expansion and training their fellows in combat skills and magic. Others work closely with elven artisans and craftsmen instructing them in the skills they need to create works of wondrous beauty, as well as using their own creative talents in similar pursuits.
