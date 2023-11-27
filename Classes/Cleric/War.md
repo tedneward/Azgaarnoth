@@ -1,4 +1,6 @@
 # Divine Domain: War
+
+
 This is a domain granted by the [Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric), the [Zabalasan tradition](../../Religions/AlUma.md#zabalasan-cleric),the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Sor](../../Religions/Trinitarian.md#sor), [Bahamut](../../Religions/Pantheon/Bahamut.md), [Heironeous](../../Religions/Pantheon/Heironeous.md), [Gruumsh](../../Religions/Pantheon/Gruumsh.md), [Hextor](../../Religions/Pantheon/Hextor.md), [Lythtzu](../../Religions/Pantheon/Lythtzu.md), [Maglubiyet](../../Religions/Pantheon/Maglubiyet.md), ...
 
 ## Domain Spells
