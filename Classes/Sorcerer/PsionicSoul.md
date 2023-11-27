@@ -6,6 +6,7 @@ Among [githyanki and githzerai](/Races/Gith.md), the powers of Psionic Soul sorc
 As a Psionic Soul sorcerer, you decide how you acquired your powers. Were you born with them, and did they manifest throughout childhood? Or did an extraordinary event later in life leave you shining with psionic awareness? Consult the Psionic Origins table for a possible origin of your power.
 
 **Psionic Origins**
+
 d10 | Origin
 --- | -----
 1 | Deep in your history, an ancestor was [dragonmarked](/Races/Dragonmarked.md), and the residual power in the genetic bloodline has manifested in you as psionics.
@@ -23,6 +24,7 @@ d10 | Origin
 Starting at your 1st level, you harbor a wellspring of psionic power within yourself, an energy that ebbs and flows as you channel it in various ways. This power is represented by your Psionic Talent die, the starting size of which is a d6.
 
 ***Psionic Talent Options.*** You can use your Psionic Talent die in the following ways:
+
 * **Psionic Discovery**. You can unlock the ability to cast a mind-oriented sorcerer spell you don't already know. After meditating for 10 minutes (which can be done during a rest), roll your Psionic Talent die, and choose a sorcerer spell of a level for which you have spell slots and that is in the school of divination or enchantment. You know the chosen spell for a number of hours equal to the number you rolled.
 * **Psychic Sorcery**. When you cast a spell, you can use your mind to form it, rather than relying on words, gestures, and materials. To do so, roll your Psionic Talent die. The spell then requires no verbal component, and if you rolled the level of the spell or higher, the spell doesn't require somatic or material components either.
 * **Telepathic Speech**. You can form a telepathic connection between your mind and the mind of another. As a bonus action, choose one creature you can see, and roll your Psionic Talent die. For a number of hours equal to the number you rolled, you and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to the number you rolled. To understand each other, you each must speak mentally in a language the other knows. The telepathic connection ends early if you use this ability to form a connection with a different creature.
@@ -49,5 +51,3 @@ At the 14th level, you can now use the psi that flows through you to give your b
 At the 18th level, if your Psionic Talent die is available, you can unleash your psionic power in a crackling aura of psychic energy; as a bonus action, you can magically radiate this transparent, 30-foot- radius aura for 1 minute or until you're incapacitated or lose the use of your Psionic Talent die.
 
 Whenever a creature starts its turn in the aura or moves into it for the first time on a turn, you can roll your Psionic Talent die and deal psychic damage to the creature, equaling the number rolled plus your Charisma modifier. If the creature takes any of this damage, its speed is halved until the start of its next turn.
-
-*Source: [Unearthed Arcana: Psionic Options](https://dnd.wizards.com/articles/unearthed-arcana/psionic-options-revisited)*

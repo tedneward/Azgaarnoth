@@ -49,5 +49,3 @@ Starting at 18th level, you summon spirits of order to restore balance around yo
 * Every spell of 6th level or lower ends on creatures and objects of your choice in the cube.
 
 Once you use this action, you can't use it again until you finish a long rest or until you expend 7 sorcery points to use it again.
-
-*Original content: [Unearthed Arcana - Subclasses 2](https://dnd.wizards.com/articles/unearthed-arcana/subclasses_part2)*
