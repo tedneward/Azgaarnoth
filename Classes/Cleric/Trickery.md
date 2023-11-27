@@ -1,5 +1,5 @@
 # Divine Domain: Trickery
-This domain is available to followers of [the Cat Lord](../../Religions/Pantheon/CatLord.md), [Cyric](../../Religions/Pantheon/Cyric.md), [Melil](../../Religions/Pantheon/Milil.md), [the Traveler](../../Religions/Pantheon/Traveler.md), ...
+This domain is available to followers of [the Cat Lord](../../Religions/Pantheon/CatLord.md), [Cyric](../../Religions/Pantheon/Cyric.md), [Melil](../../Religions/Pantheon/Milil.md), [the Traveler](../../Religions/Pantheon/Traveler.md), [Tiamat](../../Religions/Pantheon/Tiamat.md), ...
 
 ## Domain Spells
 Starting at 1st level, you gain domain spells at the cleric levels listed in the Unity Domain Spells table. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.

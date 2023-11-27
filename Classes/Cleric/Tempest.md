@@ -17,11 +17,11 @@ You gain domain spells at the cleric levels listed in the Tempest Domain Spells 
 
 Cleric Level |	Spells
 ------------ | -----
-1st	| Fog Cloud, Thunderwave
-3rd	| Gust of Wind, Shatter
-5th	| Call Lightning, Sleet Storm
-7th	| Control Water, Ice Storm
-9th	| Destructive Wave, Insect Plague
+1st	| [Fog Cloud](../../Magic/Spells/fog-cloud.md), [Thunderwave](../../Magic/Spells/thunderwave.md)
+3rd	| [Gust of Wind](../../Magic/Spells/gust-of-wind.md), [Shatter](../../Magic/Spells/shatter.md)
+5th	| [Call Lightning](../../Magic/Spells/call-lightning.md), [Sleet Storm](../../Magic/Spells/sleet-storm.md)
+7th	| [Control Water](../../Magic/Spells/control-water.md), [Ice Storm](../../Magic/Spells/ice-storm.md)
+9th	| [Destructive Wave](../../Magic/Spells/destructive-wave.md), [Insect Plague](../../Magic/Spells/insect-plague.md)
 
 ```
 domainspells = {
@@ -49,8 +49,10 @@ def level1(npc):
 You gain proficiency with martial weapons and heavy armor.
 
 ```
-    npc.proficiencies.append("Martial weapons")
-    npc.proficiencies.append("Heavy armor")
+    for wpn in weapons['martial-melee'] | weapons['martial-ranged']:
+        npc.proficiencies.append(wpn)
+    for arm in armor['heavy']:
+        npc.proficiencies.append(arm)
 ```
 
 ## Wrath of the Storm

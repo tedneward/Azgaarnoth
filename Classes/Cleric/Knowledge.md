@@ -1,4 +1,6 @@
 # Divine Domain: Knowledge
+
+
 This is a domain granted by [the Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric), the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Azuth](../../Religions/Pantheon/Azuth.md), [Gond](../../Religions/Pantheon/Gond.md), [Lugh](../../Religions/Pantheon/Lugh.md), [Onatar](../../Religions/Pantheon/Onatar.md), ... 
 
 ## Domain Spells

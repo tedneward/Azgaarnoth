@@ -86,7 +86,7 @@ You start with the following equipment, in addition to the equipment granted by 
     npc.equipment.append("Light crossbow and 20 bolts")
     npc.equipment.append("Priest's pack")
     npc.equipment.append("Shield")
-    npc.equipment.append("Holy symb0l")
+    npc.equipment.append("Holy symbol")
 ```
 
 ## Spellcasting

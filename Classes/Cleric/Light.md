@@ -1,7 +1,7 @@
 # Divine Domain: Light
 The gods of light have many followers, as so many mortals look up into the sky and see the sun, full of power and majesty. These deities often cast their light into the darkest shadows, bringing their light against the evil of the dark.
 
-This domain is available to those who revere [Ehlonna](../../Religions/Pantheon/Ehlonna.md), the [Alalihatian tradition](../../Religions/AlUma.md#alalihatian-cleric), the [Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric), the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Sor](../../Religions/Trinitarian.md#sor), [Lathander](../../Religions/Pantheon/Lathander.md), [Larethian](../../Religions/Pantheon/Larethian.md), [Pelor](../../Religions/Pantheon/Pelor.md), ...
+This domain is available to those who follow the [Alalihatian tradition](../../Religions/AlUma.md#alalihatian-cleric), the [Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric), the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Sor](../../Religions/Trinitarian.md#sor), and those who revere [Ehlonna](../../Religions/Pantheon/Ehlonna.md), [Lathander](../../Religions/Pantheon/Lathander.md), [Larethian](../../Religions/Pantheon/Larethian.md), [Pelor](../../Religions/Pantheon/Pelor.md), ...
 
 ```
 name = 'Light'

@@ -3,7 +3,7 @@
 
 Auril, also known as the Frostmaiden, is a deity of cold and evil. She is a fickle and vain deity, who is primarily venerated out of fear. She is worshipped mostly in southern Azgaarnoth due to its cold climate, and usually out of fear rather than adoration.
 
-Symbol: A white snowflake in a gray diamond (a heraldic lozenge) with a white border
+**Symbol:** A white snowflake in a gray diamond (a heraldic lozenge) with a white border
 
 ## Clerical details
 **Domains:** [Nature](../../Classes/Cleric/Nature.md), [Tempest](../../Classes/Cleric/Tempest.md), [Cold](../../Classes/Cleric/Cold.md)

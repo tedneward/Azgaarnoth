@@ -1,4 +1,6 @@
 # Divine Domain: Nature
+
+
 This domain is available to those who worship in the [Almalzish](../../Religions/AlUma.md#almalzish-cleric) or [*al'maeran*](../../Religions/AlUma.md#almaeran-cleric) traditions, as part of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Leriya](../../Religions/Trinitarian.md#leriya), or those who revere the Pantheonic gods [Auril](../../Religions/Pantheon/Auril.md), [Brigantia](../../Religions/Pantheon/Brigantia.md), [Daghda](../../Religions/Pantheon/Daghda.md), [Ehlonna](../../Religions/Pantheon/Ehlonna.md), [Silvanus](../../Religions/Pantheon/Silvanus.md), ...
 
 ## Domain Spells

@@ -1,5 +1,13 @@
->### Name
->*Medium Male humanoid ( Human) Cleric (Protection) 20, any alignment*
+# Pater Arn Tol Orheweth
+
+**Title:** Pater Arn of the Kaevarian Church
+
+**Residence:** [Migleme](../Cities/Migleme.md) ([Liria](../Nations/Liria.md))
+
+Tol Orheweth is a middle-aged human, with lean features and the weather-beaten skin that is more commonly found among clergy in a village than the heavily-urbanized city of Migleme. His eyes are clear, with laugh lines, and he usually sports a closely-cropped beard just slightly shot with gray. Given a choice, he will dress casually and humbly, but his role in the Church rarely affords him that opportunity.
+
+>### Tol Orheweth
+>*Medium Male humanoid (Human) Cleric (Protection) 20, neutral good*
 >___
 >- **Armor Class** 14 (Scale mail (14),DEX (+0))
 >- **Hit Points** 139 (20d8 + 20)
@@ -34,7 +42,7 @@
 >
 >***Larger than Life (Recharges on a long rest).*** When you make a melee attack, you can increase that attack's reach by 5 feet.
 >
->***Ritual Caster (Wizard).*** If you come across a spell in written form, you might be able to add it to your ritual book. The spell must be on the Wizard spell list, the spell's level can be no higher than 11, and it must have the *ritual* tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents the material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
+>***Ritual Caster (Wizard).*** If you come across a spell in written form, you might be able to add it to your ritual book. The spell must be on the Wizard spell list, the spell's level can be no higher than 9, and it must have the *ritual* tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents the material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
 >
 >#### Actions
 >***Channel Divinity: Radiant Defense.*** You channel blessed energy into an ally that you can see within 30 feet of you. The first time that ally is hit by an attack within the next minute, the attacker takes radiant damage equal to 2d10 + 20.
@@ -50,7 +58,6 @@
 >***Elemental Touched Spellcasting (Wis. Recharges on long rest).*** Spell save DC: 19, Spell attack bonus: +11
 >
 >* *Cantrips:* [druidcraft](http://azgaarnoth.tedneward.com/magic/spells/druidcraft/)
->
 >
 >***Cleric Spellcasting (Wis, at level 20. Recharges on long rest).*** 5 cantrips known. 24 spells prepared. Spell save DC: 19, Spell attack bonus: +11
 >
@@ -68,8 +75,9 @@
 >* *9th (1 slots):* 
 >
 >
->***Ritual Spellcasting (Wizard, Int, 20. Recharges on long rest).*** >
->Rituals known: [CHOOSE-1st-level-ritual](http://azgaarnoth.tedneward.com/magic/spells/CHOOSE-1st-level-ritual/),[CHOOSE-1st-level-ritual](http://azgaarnoth.tedneward.com/magic/spells/CHOOSE-1st-level-ritual/)
+>***Ritual Spellcasting (Wizard, Int, 20. Recharges on long rest).*** 
+>
+>Rituals known: [Illusory Script](../Magic/Spells/illusory-script.md),[Guiding Hand](../Magic/Spells/guiding-hand.md), [Identify](../Magic/Spells/identify.md), [Dead Man's Tell](../Magic/Spells/dead-mans-tell.md), [Find Familiar](../Magic/Spells/find-familiar.md), [Coalstone](../Magic/Spells/coalstone.md), [Unseen Servant](../Magic/Spells/unseen-servant.md), [Detect Magic](../Magic/Spells/detect-magic.md), [Alarm](../Magic/Spells/alarm.md), [Comprehend Languages](../Magic/Spells/comprehend-languages.md), [Inquisitive Intuition](../Magic/Spells/inquisitive-intuition.md), [Rain](../Magic/Spells/rain.md), [Wristpocket](../Magic/Spells/wristpocket.md), [Tidy](../Magic/Spells/tidy.md), [Gentle Repose](../Magic/Spells/gentle-repose.md), [Embalming Touch](../Magic/Spells/embalming-touch.md), [Howling Downpour](../Magic/Spells/howling-downpour.md), [Alahandra's Questing Call](../Magic/Spells/alahandras-questing-call.md), [Circle Dance](../Magic/Spells/circle-dance.md), [Phantom Steed](../Magic/Spells/phantom-steed.md), [Nightscar](../Magic/Spells/nightscar.md), [Feign Death](../Magic/Spells/feign-death.md), [Watchware](../Magic/Spells/watchware.md), [Divination](../Magic/Spells/divination.md), [Lesser Guardian Seal](../Magic/Spells/lesser-guardian-seal.md), [Detect Curses](../Magic/Spells/detect-curses.md), [Contact Other Plane](../Magic/Spells/contact-other-plane.md), [Rary's Telepathic Bond](../Magic/Spells/rarys-telepathic-bond.md), [Servant Army](../Magic/Spells/servant-army.md), [Probe Thoughts](../Magic/Spells/probe-thoughts.md)
 >
 >
 >#### Reactions
@@ -103,7 +111,7 @@
 >
 >Shield
 >
->Holy symb0l
+>Holy symbol
 >
 >***Magic Item: Uncommon Permanent.***
 >
@@ -119,6 +127,10 @@
 >
 
 #### Description
+Tol Orheweth was born and raised in [Bedia](../Nations/Bedia.md), where as a teen he came to Kaevar and took his vows in the same small church he later came to lead. Catching the eye of Bedia's Archbishop after leading a spirited defense of the town against a pack of displacer beasts, Tol soon found his star rising among the western Kaevarian clergy. While the Archbishop kept throwing advancement opportunities at him, Tol instead chose to remain in Bedia, at first tending to his church alone, then later taking a more nomadic role across the countryside, traveling from parish to parish lending his aid and his faith to the villagers and townsfolk as needed. Finally, a few years ago, he agreed to accompany the Archbishop to Migleme for a Congregation of the Clergy, where he impressed many of his peers. When the Pater Arn passed away, his name was put forth as a nominee, and to many Archibishops' surprise, he was elected in a near-landslide, despite his relative youth.
+
+Early in his life as a country priest, Tol had a close friend who was a mage, and from whom he learned the ability to manipulate arcane magic in rituals. Ever since, Tol's ritual book has been a constant companion, and many times during his adventures, he could be seen scribbling and taking notes on numerous arcane rituals; although he does not share the contents, it is thought that he has a significant number of arcane rituals within its covers, and he has not hesitated to cast from it when the need is present.
+
 ***Ideals:*** *Self-knowledge/Neutrality/Change.*
 
 ***Appearance:*** *Unusual skin color.*
@@ -131,13 +143,11 @@
 
 ***Bond:*** *Protective of close family members.*
 
-***Flaw:*** *Shameful or scandalous history.*
+***Flaw:*** *Shameful or scandalous history.* As a small child, Tol ran away from home one cold winter's night and found a small fire elemental which, strangely, passively tolerated the human's presence and interaction. Thinking he had made a new friend, Tol brought the elemental back to his family home, where the elemental promptly escaped and set fire to the home. Several of Tol's family members perished in the blaze, and while the cause of the fire was never discovered, Tol bears the shameful knowledge that it was his actions that led to their deaths. His efforts to stop the blaze once started left him with a unique burn scar just over his heart, and this spellscar has carried strange eldritch power ever since. The rest of his skin suffered significant burns, and his skin is still to this day discolored in places, including patches of pale skin on his arms that are distinctively different from his otherwise tanned and leather-colored skin.
 
 ***Race: Human.*** Humans were the servant race of the Eldar and flourished and took over much of the lands after the Fall. It is not clear if humans were created by the Eldar, or were uplifted by them. Either way, humans owe their civilization to the initial one built by the Eldar, inheriting it after the Fall.
 
 ***Feat: Elemental Touched.*** You've been exposed to the primordial magic of the Elemental Planes, granting you a measure of control over the natural world around you.
-
-
 
 ***Class: Cleric.*** Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
 
