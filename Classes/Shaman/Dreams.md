@@ -47,6 +47,7 @@ Starting at 10th level, your thoughts can't be read by telepathy or other means 
 Upon reaching 14th level, you learn to thrust a creature into a waking dream. As an action, choose a creature that you can see within 60 feet of you. It must make a Wisdom saving throw against your shaman spell save DC. On a failed save, it is charmed or frightened by you (your choice) for 1 minute or until your concentration is broken (as if you are concentrating on a spell). This effect ends early if the creature takes any damage.
 
 Until this illusion ends, the creature thinks it is lost in a realm of dreams or nightmares, the appearance of which you choose. The creature can see and hear only itself, you, and the illusion.
+
 Once you have used this feature, you can't use it again until you finish a short or long rest.
 
 
