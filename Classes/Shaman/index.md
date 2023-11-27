@@ -1,13 +1,18 @@
 # Shaman
-Speaking words that cause the fire before her to roar upwards with sudden life, a tall human woman thrusts an intricate wooden carving into the flames. Though her hand remains whole, the carving she holds burns to ash that slips between her fingers.
-
-After examining a child that will not wake, a wizened dwarf leans back in his chair and falls asleep. After a few minutes, the dwarf awakens, along with the child.
-
-Roaring the name of an ancient warrior, a female halforc charges forward, swinging a mace that glows with an eerie, spectral light.
+*Speaking words that cause the fire before her to roar upwards with sudden life, a tall human woman thrusts an intricate wooden carving into the flames. Though her hand remains whole, the carving she holds burns to ash that slips between her fingers.*
 
 Shamans serve as intermediaries between the mortal world and the realms of spirits, called by the spirits to speak for them among mortals. These spirits come in a variety of forms, ranging from elemental nature spirits to the souls of fallen ancestors, and often take on animalistic shapes. While most shamans revere the spirits for which they speak, they rarely worship them outright. More often, a shaman negotiates with the spirits, being granted power both as a means to fulfill the spirits' needs and as a reward for doing so.
 
-Shamans are often the connection to the spirit realm for those who eschew or ignore the divine; as such, shamans are frequently found in [Yithi](../../Nations/Yithi.md) and [Zhi](../../Nations/Zhi.md), including on the Council of Seers. The spirit world also seems to prefer those who live away from urban environments, such as in [North Bedia](../../Nations/Bedia.md) or in the [Ravenslands](/Geography/Ravenlands.md), but shamans have been called from within the slums of [Mighal](/Cities/Mighal.md), so clearly civilization is no barrier to the spirits. Many of the [*al'maera*](/Geography/AlUma.md) find themselves called as Speakers of Winds or Waters
+*After examining a child that will not wake, a wizened dwarf leans back in his chair and falls asleep. After a few minutes, the dwarf awakens, along with the child.*
+
+*Roaring the name of an ancient warrior, a female halforc charges forward, swinging a mace that glows with an eerie, spectral light.*
+
+Shamans are often the connection to the spirit realm for those who eschew or ignore the divine; as such, shamans are frequently found in [Yithi](../../Nations/Yithi.md) and [Zhi](../../Nations/Zhi.md), including on the Council of Seers. The spirit world also seems to prefer those who live away from urban environments, such as in [North Bedia](../../Nations/Bedia.md) or in the [Ravenslands](/Geography/Ravenlands.md), but shamans have been called from within the slums of [Mighal](/Cities/Mighal.md), so clearly civilization is no barrier to the spirits. Many of the [*al'maera*](/Geography/AlUma.md) find themselves called as Speakers of Winds or Waters.
+
+```
+name = 'Shaman'
+description = "***Class: Shaman.*** Shamans serve as intermediaries between the mortal world and the realms of spirits, called by the spirits to speak for them among mortals. These spirits come in a variety of forms, ranging from elemental nature spirits to the souls of fallen ancestors, and often take on animalistic shapes. While most shamans revere the spirits for which they speak, they rarely worship them outright. More often, a shaman negotiates with the spirits, being granted power both as a means to fulfill the spirits' needs and as a reward for doing so."
+```
 
 ## Speakers for Spirits
 Though a shaman usually awakens in response to a specific spirit's call, she is thereafter bound to the type of spirit that called her, not the individual spirit itself. As such, relationships between a shaman and the various spirits she encounters tend to be less absolute in their tone than that between a cleric and his god or a warlock and his patron. A shaman traveling to a new land must acquaint herself with entirely new spirits and persuade them to grant her some of their power. While holding to the spirits' obeisances is the easiest way to make these negotiations run smoothly, some spirits may require that a shaman perform some task with the power that they provide.
@@ -31,7 +36,7 @@ How did you experience your call to serve as a shaman? Did you suffer a traumati
 Once you've chosen a calling and settled on the experience of being called, consider your shaman's relationship to the spirits she speaks for and work with your DM to determine how big a part your calling will play in your adventuring career. The requests of the spirits you encounter might drive you into adventures, or they might consist entirely of small favors you can do between adventures. Since you will probably deal with a multitude of different spirits in the course of your adventures, it may well be the case that some spirits will ask only minor tasks of you, while others may send you on larger quests.
 
 ### Quick Build
-You can make a shaman quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the [outlander background](/Cultures/Backgrounds.md).
+You can make a shaman quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the [outlander background](../../Cultures/Backgrounds/Outlander.md).
 
 ## The Shaman
 
@@ -58,6 +63,37 @@ Level|Proficiency Bonus|Features|Cantrips Known|Spirit Points|Maximum Spell Leve
 19th |+6|[Ability Score Improvement](#ability-score-improvement)|3|19|5th|7
 20th |+6|[Spiritual Master](#spiritual-master)|3|20|5th|7
 
+```
+class ShamanSpellcasting(Spellcasting):
+    def __init__(self, npc):
+        Spellcasting.__init__(self, npc, 'CHA', 'Shaman Spellcasting')
+        self.casterclass = allclasses['Shaman']
+        del self.maxcantripsknown
+
+    def maxcantripsknown(self):
+        if self.npc.levels('Shaman') < 4: return 1
+        if self.npc.levels('Shaman') < 10: return 2
+        return 3
+
+    def maxspelllevel(self):
+        if self.npc.levels('Shaman') < 3: return '1st'
+        if self.npc.levels('Shaman') < 5: return '2nd'
+        if self.npc.levels('Shaman') < 7: return '3rd'
+        if self.npc.levels('Shaman') < 9: return '4th'
+        return '5th'
+
+    def spiritpoints(self):
+        return self.npc.levels('Shaman')
+
+    def emitMD(self):
+        text = f">***Shaman Spellcasting (Cha, at level {self.casterlevel()}. Recharges on long rest).*** "
+        text += f"{self.spiritpoints()} Spirit Points. {self.maxspelllevel()} max spell level"
+        text += f"Spell save DC: {self.spellsavedc()}, Spell attack bonus: +{self.spellattack()}\n"
+        text += f">\n>Spells prepared:\n"
+        text +=  ">\n"
+        return text
+```
+
 ## Class Features
 As a shaman, you gain the following class features.
 
@@ -68,6 +104,10 @@ As a shaman, you gain the following class features.
 
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per shaman level after 1st.
 
+```
+def everylevel(npc): npc.hits('d8')
+```
+
 ### Proficiencies
 **Armor:** Light armor, shields
 
@@ -77,8 +117,23 @@ As a shaman, you gain the following class features.
 
 **Saving Throws:** Wisdom, Charisma
 
-**Skills:** Choose two skills from Animal Handling, Arcana, Insight, Medicine, Nature, Perception, Persuasion, Religion, and
-Survival
+**Skills:** Choose two skills from Animal Handling, Arcana, Insight, Medicine, Nature, Perception, Persuasion, Religion, and Survival
+
+```
+def level1(npc):
+    npc.savingthrows.append("CHA")
+    npc.savingthrows.append("WIS")
+
+    for arm in armor['light'] | armor['shields']:
+        npc.proficiencies.append(arm)
+    for wpn in ['Club', 'Dagger', 'Javelin', 'Mace', 'Quarterstaff', 'Scimitar', 'Sickle', 'Sling', 'Spear']:
+        npc.proficiencies.append(wpn)
+    npc.proficiencies.append('Herbalism kit')
+
+    skills = ['Animal Handling', 'Arcana', 'Insight', 'Medicine', 'Nature', 'Perception', 'Persuasion', 'Religion', 'Survival']
+    chooseskill(npc, skills)
+    chooseskill(npc, skills)
+```
 
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -86,16 +141,31 @@ You start with the following equipment, in addition to the equipment granted by 
 * (a) a scimitar or (b) any simple melee weapon
 * Leather armor, an explorer's pack, and a shamanic focus
 
+```
+    npc.equipment.append("Wooden shield OR simple weapon")
+    npc.equipment.append("Scimitar OR simple melee weapon")
+    npc.equipment.append("Leather armor")
+    npc.equipment.append("Explorer's pack")
+    npc.equipment.append("Shamanic focus")
+```
+
 ## Shamanic Calling
 *1st-level shaman feature*
 
-At 1st level, you have felt the call of the spirits guiding you towards a shamanic path. You have become a [Speaker of the Ancestors](/Classes/Shaman/Ancestors.md), a [Speaker of Dreams](/Classes/Shaman/Dreams.md), a [Speaker of Flames](/Classes/Shaman/Flames.md), a [Speaker of Stones](/Classes/Shaman/Stones.md), a [Speaker of Waters](/Classes/Shaman/Waters.md), or a [Speaker of Winds](/Classes/Shaman/Winds.md). Your choice grants you calling spells and other features when you choose it at 1st level, and additional benefits at 6th, 10th, and 14th level.
+At 1st level, you have felt the call of the spirits guiding you towards a shamanic path. You have become a [Speaker of the Ancestors](Ancestors.md), a [Speaker of Dreams](Dreams.md), a [Speaker of Flames](Flames.md), a [Speaker of Stones](Stones.md), a [Speaker of Waters](Waters.md), or a [Speaker of Winds](Winds.md). Your choice grants you calling spells and other features when you choose it at 1st level, and additional benefits at 6th, 10th, and 14th level.
 
 The spirits that call shamans are not extraplanar beings, but local, worldly spirits. However, unlike a warlock, a shaman is not bound to a single entity. While she may initially work with one specific spirit, once she has accepted the call, she will likely meet and deal with many different spirits of her calling.
 
 All spirits, even those that commune with shamans of the same calling, are very different beings, and a shaman will encounter a variety of different attitudes as she pursues her calling. Shamans of the same calling may bring news to one another of particularly notable spirits, or may issue warnings against dealing with more capricious or malicious ones.
 
 Some shamans prefer to commune with and draw power from a specific spirit or group of spirits, rather than calling upon local spirits. By carrying a talisman or token from a spirit--a branch burned by the flames of a specific fire spirit, the bone from the body of a specific ancestral spirit's body, and so on--a shaman can commune with that spirit from a distance, allowing her to call upon its power even in strange lands.
+
+```
+    # Choose subclass
+    (_, subclass) = choose("Choose a Shamanic Calling:", subclasses)
+    npc.subclasses[allclasses[name]] = subclass
+    npc.description.append(subclass.description)
+```
 
 ### Obeisance
 Every shamanic calling has several obeisances through which a shaman can honor the spirits for which she speaks. A shaman who has heard the call of the spirits usually already displays the values associated with at least one of that calling's obeisances, or else has some hidden potential that the spirits are aware of.
@@ -137,135 +207,9 @@ Charisma is your spellcasting ability for your shaman spells, so you use your Ch
 ### Spellcasting Focus
 You can use a spiritual totem as a spellcasting focus for your shaman spells.
 
-## Shaman Spells
-
-#### cantrip-Level Spells
-* [Balance](../../Magic/Spells/balance.md)
-* [Bolster](../../Magic/Spells/bolster.md)
-* [Create Bonfire](../../Magic/Spells/create-bonfire.md)
-* [Druidcraft](../../Magic/Spells/druidcraft.md)
-* [Guidance](../../Magic/Spells/guidance.md)
-* [Lashing Wind](../../Magic/Spells/lashing-wind.md)
-* [Mending](../../Magic/Spells/mending.md)
-* [Message](../../Magic/Spells/message.md)
-* [Resistance](../../Magic/Spells/resistance.md)
-* [Shadow Garrote](../../Magic/Spells/shadow-garrote.md)
-* [Touch of Madness](../../Magic/Spells/touch-of-madness.md)
-* [Vicious Mockery](../../Magic/Spells/vicious-mockery.md)
- 
-#### 1st-Level Spells
-* [Absorb Elements](../../Magic/Spells/absorb-elements.md)
-* [Beast Bond](../../Magic/Spells/beast-bond.md)
-* [Blood Reading](../../Magic/Spells/blood-reading.md)
-* [Charm Person](../../Magic/Spells/charm-person.md)
-* [Command](../../Magic/Spells/command.md)
-* [Cure Wounds](../../Magic/Spells/cure-wounds.md)
-* [Detect Evil and Good](../../Magic/Spells/detect-evil-and-good.md)
-* [Detect Poison and Disease](../../Magic/Spells/detect-poison-and-disease.md)
-* [Dishearten](../../Magic/Spells/dishearten.md)
-* [Dissonant Whispers](../../Magic/Spells/dissonant-whispers.md)
-* [Entangle](../../Magic/Spells/entangle.md)
-* [Faerie Fire](../../Magic/Spells/faerie-fire.md)
-* [Fog Cloud](../../Magic/Spells/fog-cloud.md)
-* [Grimlore's Shadowblight](../../Magic/Spells/grimlores-shadowblight.md)
-* [Heroism](../../Magic/Spells/heroism.md)
-* [Hex](../../Magic/Spells/hex.md)
-* [Nightowl](../../Magic/Spells/nightowl.md)
-* [Positive Foundations](../../Magic/Spells/positive-foundations.md)
-* [Protection from Evil and Good](../../Magic/Spells/protection-from-evil-and-good.md)
-* [Speak with Animals](../../Magic/Spells/speak-with-animals.md)
-* [Summon Monster](../../Magic/Spells/summon-monster.md)
- 
-#### 2nd-Level Spells
-* [Barkskin](../../Magic/Spells/barkskin.md)
-* [Borrowed Knowledge](../../Magic/Spells/borrowed-knowledge.md)
-* [Darkness](../../Magic/Spells/darkness.md)
-* [Enhance Ability](../../Magic/Spells/enhance-ability.md)
-* [Healing Spirit](../../Magic/Spells/healing-spirit.md)
-* [Hold Person](../../Magic/Spells/hold-person.md)
-* [Misty Step](../../Magic/Spells/misty-step.md)
-* [Moonbeam](../../Magic/Spells/moonbeam.md)
-* [Pass without Trace](../../Magic/Spells/pass-without-trace.md)
-* [Passionate Pursuit](../../Magic/Spells/passionate-pursuit.md)
-* [Protection from Poison](../../Magic/Spells/protection-from-poison.md)
-* [Spider Climb](../../Magic/Spells/spider-climb.md)
-* [Spike Growth](../../Magic/Spells/spike-growth.md)
-* [Symbiotic Confidence](../../Magic/Spells/symbiotic-confidence.md)
-* [Warding Bond](../../Magic/Spells/warding-bond.md)
- 
-#### 3rd-Level Spells
-* [Ancestral Guidance](../../Magic/Spells/ancestral-guidance.md)
-* [Clairvoyance](../../Magic/Spells/clairvoyance.md)
-* [Daylight](../../Magic/Spells/daylight.md)
-* [Dispel Magic](../../Magic/Spells/dispel-magic.md)
-* [Elemental Weapon](../../Magic/Spells/elemental-weapon.md)
-* [Gaseous Form](../../Magic/Spells/gaseous-form.md)
-* [Healing Leeches](../../Magic/Spells/healing-leeches.md)
-* [Lunar Blessing](../../Magic/Spells/lunar-blessing.md)
-* [Magic Circle](../../Magic/Spells/magic-circle.md)
-* [Plant Growth](../../Magic/Spells/plant-growth.md)
-* [Poisoned Heart](../../Magic/Spells/poisoned-heart.md)
-* [Protection from Energy](../../Magic/Spells/protection-from-energy.md)
-* [Remove Curse](../../Magic/Spells/remove-curse.md)
-* [Spectral Steed](../../Magic/Spells/spectral-steed.md)
-* [Spirit Guardians](../../Magic/Spells/spirit-guardians.md)
-* [Spirit Shroud](../../Magic/Spells/spirit-shroud.md)
-* [Summon Shadowspawn](../../Magic/Spells/summon-shadowspawn.md)
-* [Summon Warrior Spirit](../../Magic/Spells/summon-warrior-spirit.md)
- 
-#### 4th-Level Spells
-* [Brook Healing](../../Magic/Spells/brook-healing.md)
-* [Detect Curses](../../Magic/Spells/detect-curses.md)
-* [Dominate Beast](../../Magic/Spells/dominate-beast.md)
-* [Elemental Bane](../../Magic/Spells/elemental-bane.md)
-* [Embers](../../Magic/Spells/embers.md)
-* [Fire Shield](../../Magic/Spells/fire-shield.md)
-* [Guardian of Nature](../../Magic/Spells/guardian-of-nature.md)
-* [Hallowing Curse](../../Magic/Spells/hallowing-curse.md)
-* [Hallucinatory Terrain](../../Magic/Spells/hallucinatory-terrain.md)
-* [Spirit of Death](../../Magic/Spells/spirit-of-death.md)
-* [Stoneskin](../../Magic/Spells/stoneskin.md)
- 
-#### 5th-Level Spells
-* [Contact Other Plane](../../Magic/Spells/contact-other-plane.md)
-* [Hold Monster](../../Magic/Spells/hold-monster.md)
-* [Scrying](../../Magic/Spells/scrying.md)
-* [Summon Draconic Spirit](../../Magic/Spells/summon-draconic-spirit.md)
-* [Telekinesis](../../Magic/Spells/telekinesis.md)
-* [Tree Stride](../../Magic/Spells/tree-stride.md)
- 
-#### 6th-Level Spells
-* [Bones of the Earth](../../Magic/Spells/bones-of-the-earth.md)
-* [Chain Lightning](../../Magic/Spells/chain-lightning.md)
-* [Find the Path](../../Magic/Spells/find-the-path.md)
-* [Heroes' Feast](../../Magic/Spells/heroes-feast.md)
-* [Mass Suggestion](../../Magic/Spells/mass-suggestion.md)
-* [Move Earth](../../Magic/Spells/move-earth.md)
-* [Sunbeam](../../Magic/Spells/sunbeam.md)
-* [Transport via Plants](../../Magic/Spells/transport-via-plants.md)
-* [True Seeing](../../Magic/Spells/true-seeing.md)
-* [Wall of Ice](../../Magic/Spells/wall-of-ice.md)
-* [Wind Walk](../../Magic/Spells/wind-walk.md)
- 
-#### 7th-Level Spells
-* [Etherealness](../../Magic/Spells/etherealness.md)
-* [Mirage Arcane](../../Magic/Spells/mirage-arcane.md)
-* [Plane Shift](../../Magic/Spells/plane-shift.md)
-* [Regenerate](../../Magic/Spells/regenerate.md)
-* [Reverse Gravity](../../Magic/Spells/reverse-gravity.md)
-* [Whirlwind](../../Magic/Spells/whirlwind.md)
- 
-#### 8th-Level Spells
-* [Animal Shapes](../../Magic/Spells/animal-shapes.md)
-* [Antipathy/Sympathy](../../Magic/Spells/antipathy-sympathy.md)
-* [Control Weather](../../Magic/Spells/control-weather.md)
-* [Earthquake](../../Magic/Spells/earthquake.md)
- 
-#### 9th-Level Spells
-* [Astral Projection](../../Magic/Spells/astral-projection.md)
-* [Foresight](../../Magic/Spells/foresight.md)
-* [Shapechange](../../Magic/Spells/shapechange.md)
-* [True Resurrection](../../Magic/Spells/true-resurrection.md)
+```
+    npc.spellcasting['Shaman'] = ShamanSpellcasting(npc)
+```
 
 ## Shamanic Invocations
 *2nd-level shaman feature*
@@ -275,6 +219,11 @@ In your dealings with spirits, you have been granted [shamanic invocations](Invo
 At 2nd level, you gain one shamanic invocation of your choice. When you gain certain shaman levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Shaman table.
 
 Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
+
+```
+def level2(npc):
+    # Invocations
+```
 
 ## Spiritual Gift
 *3rd-level shaman feature*
@@ -306,3 +255,154 @@ Starting at 18th level, the primal magic that you wield causes you to age more s
 At 20th level, you can entreat nearby spirits to aid you in dire circumstances as an action, calling upon them to grant you access to all the magic available to a shaman. For 1 minute, you can cast any spell of 5th level or lower from the shaman spell list as if you had prepared it.
 
 Once you use this feature, you can't use it again until you finish a long rest.
+
+---
+
+# Shaman Spells
+ 
+## cantrip-Level Spells
+* [Balance](../../Magic/Spells/balance.md)
+* [Blood Curse](../../Magic/Spells/blood-curse.md)
+* [Bolster](../../Magic/Spells/bolster.md)
+* [Create Bonfire](../../Magic/Spells/create-bonfire.md)
+* [Druidcraft](../../Magic/Spells/druidcraft.md)
+* [Guidance](../../Magic/Spells/guidance.md)
+* [Lashing Wind](../../Magic/Spells/lashing-wind.md)
+* [Mending](../../Magic/Spells/mending.md)
+* [Message](../../Magic/Spells/message.md)
+* [Resistance](../../Magic/Spells/resistance.md)
+* [Shadow Garrote](../../Magic/Spells/shadow-garrote.md)
+* [Shadow Lance](../../Magic/Spells/shadow-lance.md)
+* [Touch of Madness](../../Magic/Spells/touch-of-madness.md)
+* [Toxic Cloud](../../Magic/Spells/toxic-cloud.md)
+* [Vicious Mockery](../../Magic/Spells/vicious-mockery.md)
+ 
+## 1st-Level Spells
+* [Absorb Elements](../../Magic/Spells/absorb-elements.md)
+* [Beast Bond](../../Magic/Spells/beast-bond.md)
+* [Blackout](../../Magic/Spells/blackout.md)
+* [Blood Reading](../../Magic/Spells/blood-reading.md)
+* [Charm Person](../../Magic/Spells/charm-person.md)
+* [Command](../../Magic/Spells/command.md)
+* [Cure Wounds](../../Magic/Spells/cure-wounds.md)
+* [Detect Evil and Good](../../Magic/Spells/detect-evil-and-good.md)
+* [Detect Poison and Disease](../../Magic/Spells/detect-poison-and-disease.md)
+* [Dishearten](../../Magic/Spells/dishearten.md)
+* [Dissonant Whispers](../../Magic/Spells/dissonant-whispers.md)
+* [Entangle](../../Magic/Spells/entangle.md)
+* [Faerie Fire](../../Magic/Spells/faerie-fire.md)
+* [Fog Cloud](../../Magic/Spells/fog-cloud.md)
+* [Great Watcher Spirit](../../Magic/Spells/great-watcher-spirit.md)
+* [Grimlore's Shadowblight](../../Magic/Spells/grimlores-shadowblight.md)
+* [Heroism](../../Magic/Spells/heroism.md)
+* [Hex](../../Magic/Spells/hex.md)
+* [Inspire Dread](../../Magic/Spells/inspire-dread.md)
+* [Ironbreaker Claws](../../Magic/Spells/ironbreaker-claws.md)
+* [Nightowl](../../Magic/Spells/nightowl.md)
+* [Positive Foundations](../../Magic/Spells/positive-foundations.md)
+* [Protection from Evil and Good](../../Magic/Spells/protection-from-evil-and-good.md)
+* [Speak with Animals](../../Magic/Spells/speak-with-animals.md)
+* [Summon Monster](../../Magic/Spells/summon-monster.md)
+ 
+## 2nd-Level Spells
+* [Barkskin](../../Magic/Spells/barkskin.md)
+* [Bewitching Glare](../../Magic/Spells/bewitching-glare.md)
+* [Borrowed Knowledge](../../Magic/Spells/borrowed-knowledge.md)
+* [Darkness](../../Magic/Spells/darkness.md)
+* [Enhance Ability](../../Magic/Spells/enhance-ability.md)
+* [Healing Spirit](../../Magic/Spells/healing-spirit.md)
+* [Hold Person](../../Magic/Spells/hold-person.md)
+* [Misty Step](../../Magic/Spells/misty-step.md)
+* [Moonbeam](../../Magic/Spells/moonbeam.md)
+* [Pass without Trace](../../Magic/Spells/pass-without-trace.md)
+* [Passionate Pursuit](../../Magic/Spells/passionate-pursuit.md)
+* [Protection from Poison](../../Magic/Spells/protection-from-poison.md)
+* [Spider Climb](../../Magic/Spells/spider-climb.md)
+* [Spike Growth](../../Magic/Spells/spike-growth.md)
+* [Symbiotic Confidence](../../Magic/Spells/symbiotic-confidence.md)
+* [Warding Bond](../../Magic/Spells/warding-bond.md)
+ 
+## 3rd-Level Spells
+* [Ancestral Guidance](../../Magic/Spells/ancestral-guidance.md)
+* [Clairvoyance](../../Magic/Spells/clairvoyance.md)
+* [Daylight](../../Magic/Spells/daylight.md)
+* [Dispel Magic](../../Magic/Spells/dispel-magic.md)
+* [Elemental Weapon](../../Magic/Spells/elemental-weapon.md)
+* [Gaseous Form](../../Magic/Spells/gaseous-form.md)
+* [Healing Leeches](../../Magic/Spells/healing-leeches.md)
+* [Lunar Blessing](../../Magic/Spells/lunar-blessing.md)
+* [Magic Circle](../../Magic/Spells/magic-circle.md)
+* [Mortify](../../Magic/Spells/mortify.md)
+* [Plant Growth](../../Magic/Spells/plant-growth.md)
+* [Poisoned Heart](../../Magic/Spells/poisoned-heart.md)
+* [Protection from Energy](../../Magic/Spells/protection-from-energy.md)
+* [Remove Curse](../../Magic/Spells/remove-curse.md)
+* [Shadow Spies](../../Magic/Spells/shadow-spies.md)
+* [Spectral Steed](../../Magic/Spells/spectral-steed.md)
+* [Spirit Guardians](../../Magic/Spells/spirit-guardians.md)
+* [Spirit Shroud](../../Magic/Spells/spirit-shroud.md)
+* [Summon Shadowspawn](../../Magic/Spells/summon-shadowspawn.md)
+* [Summon Warrior Spirit](../../Magic/Spells/summon-warrior-spirit.md)
+* [Swift Ward](../../Magic/Spells/swift-ward.md)
+ 
+## 4th-Level Spells
+* [Absorb Strength](../../Magic/Spells/absorb-strength.md)
+* [Brook Healing](../../Magic/Spells/brook-healing.md)
+* [Detect Curses](../../Magic/Spells/detect-curses.md)
+* [Dominate Beast](../../Magic/Spells/dominate-beast.md)
+* [Elemental Bane](../../Magic/Spells/elemental-bane.md)
+* [Embers](../../Magic/Spells/embers.md)
+* [Fire Shield](../../Magic/Spells/fire-shield.md)
+* [Guardian of Nature](../../Magic/Spells/guardian-of-nature.md)
+* [Hallowing Curse](../../Magic/Spells/hallowing-curse.md)
+* [Hallucinatory Terrain](../../Magic/Spells/hallucinatory-terrain.md)
+* [Spirit of Death](../../Magic/Spells/spirit-of-death.md)
+* [Stoneskin](../../Magic/Spells/stoneskin.md)
+ 
+## 5th-Level Spells
+* [Armor of Bones](../../Magic/Spells/armor-of-bones.md)
+* [Contact Other Plane](../../Magic/Spells/contact-other-plane.md)
+* [Hold Monster](../../Magic/Spells/hold-monster.md)
+* [Ilmater's Fortune](../../Magic/Spells/ilmaters-fortune.md)
+* [Scrying](../../Magic/Spells/scrying.md)
+* [Summon Draconic Spirit](../../Magic/Spells/summon-draconic-spirit.md)
+* [Telekinesis](../../Magic/Spells/telekinesis.md)
+* [Tree Stride](../../Magic/Spells/tree-stride.md)
+ 
+## 6th-Level Spells
+* [Bones of the Earth](../../Magic/Spells/bones-of-the-earth.md)
+* [Chain Lightning](../../Magic/Spells/chain-lightning.md)
+* [Find the Path](../../Magic/Spells/find-the-path.md)
+* [Heroes' Feast](../../Magic/Spells/heroes-feast.md)
+* [Inevitable Winter](../../Magic/Spells/inevitable-winter.md)
+* [Mantle of Malar](../../Magic/Spells/mantle-of-malar.md)
+* [Mass Suggestion](../../Magic/Spells/mass-suggestion.md)
+* [Move Earth](../../Magic/Spells/move-earth.md)
+* [Sunbeam](../../Magic/Spells/sunbeam.md)
+* [Transport via Plants](../../Magic/Spells/transport-via-plants.md)
+* [True Seeing](../../Magic/Spells/true-seeing.md)
+* [Wall of Ice](../../Magic/Spells/wall-of-ice.md)
+* [Wind Walk](../../Magic/Spells/wind-walk.md)
+ 
+## 7th-Level Spells
+* [Bone Javelin](../../Magic/Spells/bone-javelin.md)
+* [Conjure Shambling Mound](../../Magic/Spells/conjure-shambling-mound.md)
+* [Etherealness](../../Magic/Spells/etherealness.md)
+* [Mirage Arcane](../../Magic/Spells/mirage-arcane.md)
+* [Plane Shift](../../Magic/Spells/plane-shift.md)
+* [Regenerate](../../Magic/Spells/regenerate.md)
+* [Reverse Gravity](../../Magic/Spells/reverse-gravity.md)
+* [Whirlwind](../../Magic/Spells/whirlwind.md)
+ 
+## 8th-Level Spells
+* [Animal Shapes](../../Magic/Spells/animal-shapes.md)
+* [Antipathy/Sympathy](../../Magic/Spells/antipathy-sympathy.md)
+* [Control Weather](../../Magic/Spells/control-weather.md)
+* [Earthquake](../../Magic/Spells/earthquake.md)
+ 
+## 9th-Level Spells
+* [Astral Projection](../../Magic/Spells/astral-projection.md)
+* [Foresight](../../Magic/Spells/foresight.md)
+* [Shapechange](../../Magic/Spells/shapechange.md)
+* [True Resurrection](../../Magic/Spells/true-resurrection.md)
+ 
