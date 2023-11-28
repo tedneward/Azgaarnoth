@@ -17,10 +17,36 @@ Spell Level | Spells
 4th | divination, guardian of faith
 5th | legend lore, raise dead
 
+```
+def level1(npc):
+    def expandedspells(npc):
+        if npc.levels('Warlock') >= 1:
+            npc.pactmagic.spellsknown.append('shield')
+            npc.pactmagic.spellsknown.append('wrathful smite')
+        if npc.levels('Warlock') >= 3:
+            npc.pactmagic.spellsknown.append('blur')
+            npc.pactmagic.spellsknown.append('branding smite')
+        if npc.levels('Warlock') >= 5:
+            npc.pactmagic.spellsknown.append('blink')
+            npc.pactmagic.spellsknown.append('elemental weapon')
+        if npc.levels('Warlock') >= 7:
+            npc.pactmagic.spellsknown.append('phantasmal killer')
+            npc.pactmagic.spellsknown.append('staggering smite')
+        if npc.levels('Warlock') >=9:
+            npc.pactmagic.spellsknown.append('banishing smite')
+            npc.pactmagic.spellsknown.append('cone of cold')
+    npc.defer(lambda npc: expandedspells(npc) )
+```
+
 ## Bonus Cantrip
 *1st-level Ancestor Spirit feature*
 
 You gain the [guidance](../../Magic/Spells/guidance.md) and [message](../../Magic/Spells/message.md) cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.
+
+```
+    npc.pactmagic.cantripsknown.append('guidance')
+    npc.pactmagic.cantripsknown.append('message')
+```
 
 ## Voice of the Oracle
 *1st-level Ancestor Spirit feature*
@@ -28,7 +54,6 @@ You gain the [guidance](../../Magic/Spells/guidance.md) and [message](../../Magi
 You may spend a bonus action to call on your ancestors, augmenting your presence with their wisdom and authority. When you activate this ability, choose Persuasion, Deception or Intimidation. For the next minute, skill checks you make of the chosen kind are made at advantage. During this time, your eyes roll back into your head, and your voice is echoed by a whispering chorus audible out to 10 feet from you. You must finish a short or long rest before using this ability again.
 
 ```
-def level1(npc):
     npc.bonusactions.append("***Voice of the Oracle (Recharges on short or long rest).*** You call on your ancestors, augmenting your presence with their wisdom and authority. When you activate this ability, choose Persuasion, Deception or Intimidation. For the next minute, skill checks you make of the chosen kind are made at advantage. During this time, your eyes roll back into your head, and your voice is echoed by a whispering chorus audible out to 10 feet from you.")
 ```
 

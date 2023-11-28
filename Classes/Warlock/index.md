@@ -249,11 +249,17 @@ def pactoftheblade(npc):
 
     As part of your deepening pact, your patron replaces some of your blood with magic blood of their own. You have advantage on saving throws against blood magic, and you are immune to the [blood reading](../../Magic/Spells/blood-reading.md) spell. While you have no more than half of your hit points remaining, you can use a free hand as a spellcasting focus for your warlock spells.
 
-    In addition, as a bonus action, you can spill your own blood and spend a number of your remaining hit dice equal to your warlock spell slot leveL but instead of healing you take ld8 necrotic damage per hit die expended that ignores resistance and immunity. This damage doesn't cause saving throws for concentration.
+    In addition, as a bonus action, you can spill your own blood and spend a number of your remaining hit dice equal to your warlock spell slot leveL but instead of healing you take 1d8 necrotic damage per hit die expended that ignores resistance and immunity. This damage doesn't cause saving throws for concentration.
     
-    The next warlock spell you cast on this tum using your Pact Magic feature is also a Blood spell in addition to its other schools and does not require a spell slot. If the casting time is 1 bonus action, you can cast the spell as part of using this feature. 
+    The next warlock spell you cast on this turn using your Pact Magic feature is also a Blood spell in addition to its other schools and does not require a spell slot. If the casting time is 1 bonus action, you can cast the spell as part of using this feature. 
 
-    However, the spell can't restore a dead creature to life. Also, unless it is a necromancy spelL it can't cause any creature to regain hit points; instead of restoring hit points, it grants temporary hit points equal to half as many hit points as it would have restored Once you use this feature to expend hit dice, you can't do so again until you finish a short or long rest.
+    However, the spell can't restore a dead creature to life. Also, unless it is a necromancy spelL it can't cause any creature to regain hit points; instead of restoring hit points, it grants temporary hit points equal to half as many hit points as it would have restored. Once you use this feature to expend hit dice, you can't do so again until you finish a short or long rest.
+
+```
+def pactoftheblood(npc):
+    npc.traits.append(f"***Pact of the Blood.*** You have saving throws against blood magic. You are immune to the {spelllinkify('blood reading')} spell. While you have no more than half of your hit points remaining, you can use a free hand as a spellcasting focus for your warlock spells.")
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Pact of the Blood: Blood Spell (Recharges on short or long rest).*** You spill your own blood and spend up to {npc.pactmagic.slotlevel} hit dice, but instead of healing you take 1d8 necrotic damage per hit die expended that ignores resistance and immunity. This damage doesn't cause saving throws for concentration. The next warlock spell you cast on this turn using your Pact Magic feature is also a Blood spell in addition to its other schools, and does not require a spell slot. If the casting time is 1 bonus action, you can cast the spell as part of using this feature. However, the spell can't restore a dead creature to life. Also, unless it is a necromancy spelL it can't cause any creature to regain hit points; instead of restoring hit points, it grants temporary hit points equal to half as many hit points as it would have restored.") )
+```
 
 * **Pact of the Chain**
 
@@ -288,17 +294,30 @@ def pactofthering(npc):
 
     When you cast a warlock spelL you can choose to cast it from your location or the location of your shadow servant. In addition, you can use a bonus action on your turn to command the servant to shove a creature that you can see within 5 feet of the servant, using your warlock spellcasting ability in place of its Strength for the Strength (Athletics) check.
 
-    While you are in dim light or darkness, the servant can be up to 20 feet away from you instead of only 10 feet away. If at any time the servant is too far away from you, it is instantly pulled into your space. If the servant is reduced to 0 hit points, it disappears, and it reappears in your space with all its hit points when you finish a short or long rest or when you expend a warlock spell slot to conjure it with a 1 minute ritual
+    While you are in dim light or darkness, the servant can be up to 20 feet away from you instead of only 10 feet away. If at any time the servant is too far away from you, it is instantly pulled into your space. If the servant is reduced to 0 hit points, it disappears, and it reappears in your space with all its hit points when you finish a short or long rest or when you expend a warlock spell slot to conjure it with a 1 minute ritual.
+
+```
+def pactoftheshadow(npc):
+    npc.traits.append(f"***Pact of the Shadow.*** You are constantly accompanied by a magical servant that uses the rules from the {spelllinkify('unseen servant')} spell, except it has hit points equal to your proficiency bonus and it isn't invisible unless it is entirely in darkness. The servant shares its turn in initiative with yours. It can't move more than 10 feet away from you, but it can move through your space and end its tum there. While it is in your space and hasn't taken any action, left your space, or interacted with any object or creature since the start of your last turn, it is indistinguishable from a normal shadow, it is immune to damage, and it moves with you. When you cast a warlock spelL you can choose to cast it from your location or the location of your shadow servant. While you are in dim light or darkness, the servant can be up to 20 feet away from you instead of only 10 feet away. If at any time the servant is too far away from you, it is instantly pulled into your space. If the servant is reduced to 0 hit points, it disappears, and it reappears in your space with all its hit points when you finish a short or long rest or when you expend a warlock spell slot to conjure it with a 1 minute ritual.")
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Pact of the Shadow: Shove.*** You command the shadow servant to shove a creature that you can see within 5 feet of the servant, the Strength (Athletics) check DC is {npc.pactmagic.spellsavedc}.") )
+```
 
 * **Pact of the Skull**
 
-    Your patron provides you with a magic skull (or another eerie object, such as a dolL an egg, a mirror, an orb, etc.) that houses an eldritch spirit of knowledge. The skull can speak and understand the same languages as you, but it can't move or perform any type of action. The skull has hit points equal to twice your proficiency bonus, its AC is equal to 10 + your spellcasting ability modifier, and it is immune to both poison and disease. Its ability scores other than Strength and Dexterity are equal to your Charisma score. You can also use the skull as a spellcasting focus for your warlock spells.
+    Your patron provides you with a magic skull (or another eerie object, such as a doll, an egg, a mirror, an orb, etc.) that houses an eldritch spirit of knowledge. The skull can speak and understand the same languages as you, but it can't move or perform any type of action. The skull has hit points equal to twice your proficiency bonus, its AC is equal to 10 + your spellcasting ability modifier, and it is immune to both poison and disease. Its ability scores (other than Strength and Dexterity, which are both 1) are equal to your Charisma score. You can also use the skull as a spellcasting focus for your warlock spells.
 
-    When you finish a long rest with the skull in your possession, you can consult the spirit within to bolster your knowledge for a time. Choose Arcana, History, Medicine, Nature, Religion, or Survival Alternatively, you can choose one tool proficiency or one language. You gain proficiency with the chosen skill or tooL or you can speak, read, and write the chosen language. This effect lasts until you finish your next long rest.
+    When you finish a long rest with the skull in your possession, you can consult the spirit within to bolster your knowledge for a time. Choose Arcana, History, Medicine, Nature, Religion, or Survival. Alternatively, you can choose one tool proficiency or one language. You gain proficiency with the chosen skill or tooL or you can speak, read, and write the chosen language. This effect lasts until you finish your next long rest.
 
-    In addition, whenever you finish a short or long rest, you can choose to receive eldritch knowledge from the skull. You learn one warlock can trip of your choice. This cantrip doesn't count against the number of cantrips you can learn as a warlock. If you receive eldritch knowledge from the skull again, or if the skull is destroyed, you no longer know the chosen cantrip. 
+    In addition, whenever you finish a short or long rest, you can choose to receive eldritch knowledge from the skull. You learn one warlock cantrip of your choice. This cantrip doesn't count against the number of cantrips you can learn as a warlock. If you receive eldritch knowledge from the skull again, or if the skull is destroyed, you no longer know the chosen cantrip. 
     
     If the skull is lost or destroyed, you can receive a new one from your patron at the end of a long rest, but the process magically afflicts you with one level of exhaustion. This also destroys the previous skull if it still exists, turning it to ash.
+
+```
+def pactoftheskull(npc):
+    npc.defer(lambda npc: npc.equipment.append(f"***Pact of the Skull: the Skull.*** Your patron provides you with a magic skull (or another eerie object, such as a doll, an egg, a mirror, an orb, etc.) that houses an eldritch spirit of knowledge. The skull can speak and understand the same languages as you, but it can't move or perform any type of action. The skull has {npc.proficiencybonus() * 2} hit points, its AC is {10 + npc.CHAbonus()}, and it is immune to both poison and disease. Its ability scores (other than Strength and Dexterity, which are each 1) are {npc.CHA()}. You can also use the skull as a spellcasting focus for your warlock spells. If the skull is lost or destroyed, you can receive a new one from your patron at the end of a long rest, but the process magically afflicts you with one level of exhaustion. This also destroys the previous skull if it still exists, turning it to ash.") )
+
+    npc.traits.append("***Pact of the Skull.*** When you finish a long rest with the skull in your possession, you can consult the spirit within to bolster your knowledge for a time. Choose Arcana, History, Medicine, Nature, Religion, or Survival Alternatively, you can choose one tool proficiency or one language. You gain proficiency with the chosen skill or tooL or you can speak, read, and write the chosen language. This effect lasts until you finish your next long rest. In addition, whenever you finish a short or long rest, you can choose to receive eldritch knowledge from the skull. You learn one warlock can trip of your choice. This cantrip doesn't count against the number of cantrips you can learn as a warlock. If you receive eldritch knowledge from the skull again, or if the skull is destroyed, you no longer know the chosen cantrip.")
+```
 
 * **Pact of the Talisman**
 
@@ -322,8 +341,11 @@ def pactofthetome(npc):
 
 pactboons = {
     'Pact of the Blade': pactoftheblade,
+    'Pact of the Blood': pactoftheblood,
     'Pact of the Chain': pactofthechain,
     'Pact of the Ring': pactofthering,
+    'Pact of the Shadow': pactoftheshadow,
+    'Pact of the Skull': pactoftheskull,
     'Pact of the Talisman': pactofthetalisman,
     'Pact of the Tome': pactofthetome
 }

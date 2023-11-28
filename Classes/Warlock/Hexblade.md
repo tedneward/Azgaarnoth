@@ -12,15 +12,31 @@ The Hexblade lets you choose from an expanded list of spells when you learn a wa
 **Hexblade Expanded Spells**
 Spell Level|Spells
 -----------|------
-1st|Shield, Wrathful Smite
-2nd|Blur, Branding Smite
-3rd|Blink, Elemental Weapon
-4th|Phantasmal Killer, Staggering Smite
-5th|Banishing Smite, Cone of Cold
+1st|[shield](../../Magic/Spells/shield.md), [wrathful smite](../../Magic/Spells/wrathful-smite.md)
+2nd|[blur](../../Magic/Spells/blur.md), [branding smite](../../Magic/Spells/branding-smite.md)
+3rd|[blink](../../Magic/Spells/blink.md), [elemental weapon](../../Magic/Spells/elemental-weapon.md)
+4th|[phantasmal killer](../../Magic/Spells/phantasmal-killer.md), [staggering smite](../../Magic/Spells/staggering-smite.md)
+5th|[banishing smite](../../Magic/Spells/banishing-smite.md), [cone of cold](../../Magic/Spells/cone-of-cold.md)
 
 ```
 def level1(npc):
-    npc.traits.append("***Expanded Spell List.*** The following spells are added to the warlock spell list for you: 1st: Shield, Wrathful Smite; 2nd: Blur, Branding Smite; 3rd: Blink, Elemental Weapon; 4th: Phantasmal Killer, Staggering Smite; 5th: Banishing Smite, Cone of Cold")
+    def expandedspells(npc):
+        if npc.levels('Warlock') >= 1:
+            npc.pactmagic.spellsknown.append('shield')
+            npc.pactmagic.spellsknown.append('wrathful smite')
+        if npc.levels('Warlock') >= 3:
+            npc.pactmagic.spellsknown.append('blur')
+            npc.pactmagic.spellsknown.append('branding smite')
+        if npc.levels('Warlock') >= 5:
+            npc.pactmagic.spellsknown.append('blink')
+            npc.pactmagic.spellsknown.append('elemental weapon')
+        if npc.levels('Warlock') >= 7:
+            npc.pactmagic.spellsknown.append('phantasmal killer')
+            npc.pactmagic.spellsknown.append('staggering smite')
+        if npc.levels('Warlock') >=9:
+            npc.pactmagic.spellsknown.append('banishing smite')
+            npc.pactmagic.spellsknown.append('cone of cold')
+    npc.defer(lambda npc: expandedspells(npc) )
 ```
 
 ## Hexblade's Curse
