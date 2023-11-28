@@ -129,11 +129,11 @@ You can use your sorcery points to gain additional spell slots, or sacrifice spe
 
 Spell Slot Level|Sorcery Point Cost
 ----------------|------------------
-1st|2
-2nd|3
-3rd|5
-4th|6
-5th|7
+1st | 2
+2nd | 3
+3rd | 5
+4th | 6
+5th | 7
 
 ***Converting a Spell Slot to Sorcery Points.*** As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
 
