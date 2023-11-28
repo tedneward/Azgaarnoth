@@ -8,11 +8,11 @@ You gain domain spells at the cleric levels listed in the Pain Domain Spells tab
 
 Cleric Level | Pain Domain Spells
 ------------ | ------------------
-1st | bane, hellish rebuke
-3rd | cloud of daggers, heat metal
-5th | bestow curse, fear
-7th | phantasmal killer, staggering smite
-9th | synaptic static, geas
+1st | [bane](../../Magic/Spells/bane.md), [hellish rebuke](../../Magic/Spells/hellish-rebuke.md)
+3rd | [cloud of daggers](../../Magic/Spells/cloud-of-daggers.md), [heat metal](../../Magic/Spells/heat-metal.md)
+5th | [bestow curse](../../Magic/Spells/bestow-curse.md), [fear](../../Magic/Spells/fear.md)
+7th | [phantasmal killer](../../Magic/Spells/phantasmal-killer.md), [staggering smite](../../Magic/Spells/staggering-smite.md)
+9th | [synaptic static](../../Magic/Spells/synaptic-static.md), [geas](../../Magic/Spells/geas.md)
 
 ## Sting
 At 1st level, you can jab a creature with a distracting sting to foil their spellcasting. When a creature you can see within 30 feet of you attempts to cast a spell, you can use your reaction to force that creature to make a concentration saving throw at disadvantage. On a failed saving throw, the spell fails and is wasted. You can use this ability a number of times equal to your Wisdom modifier. Uses of this ability recharge at the end of a long rest.

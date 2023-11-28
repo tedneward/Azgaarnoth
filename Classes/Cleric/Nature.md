@@ -10,11 +10,11 @@ Starting at 1st level, you gain domain spells at the cleric levels listed in the
 
 Cleric Level |	Spells
 ------------ | -----
-1st	|[Animal Friendship](../../Magic/Spells/animal-friendship.md), [Speak with Animals](../../Magic/Spells/speak-with-animals.md)
-3rd	|[Barkskin](../../Magic/Spells/barkskin.md), [Spike Growth](../../Magic/Spells/spike-growth.md)
-5th	|[Plant Growth](../../Magic/Spells/plant-growth.md), [Wind Wall](../../Magic/Spells/wind-wall.md)
-7th	|[Dominate Beast](../../Magic/Spells/dominate-beast.md), [Grasping Vine](../../Magic/Spells/grasping-vine.md)
-9th	|[Insect Plague](../../Magic/Spells/insect-plague.md), [Tree Stride](../../Magic/Spells/tree-stride.md), or [sandstorm](../../Magic/Spells/sandstorm.md) (pick 2)
+1st	| [animal friendship](../../Magic/Spells/animal-friendship.md), [speak with animals](../../Magic/Spells/speak-with-animals.md)
+3rd	| [barkskin](../../Magic/Spells/barkskin.md), [spike growth](../../Magic/Spells/spike-growth.md)
+5th	| [plant growth](../../Magic/Spells/plant-growth.md), [wind wall](../../Magic/Spells/wind-wall.md)
+7th	| [dominate beast](../../Magic/Spells/dominate-beast.md), [grasping vine](../../Magic/Spells/grasping-vine.md)
+9th	| [insect plague](../../Magic/Spells/insect-plague.md), [tree stride](../../Magic/Spells/tree-stride.md), or [sandstorm](../../Magic/Spells/sandstorm.md) (pick 2)
 
 ## Acolyte of Nature
 At 1st level, you learn one cantrip of your choice from the [druid "core" spell list](../Druid/index.md#core-druid-spells). You also gain proficiency in one of the following skills of your choice: Animal Handling, Nature, or Survival.

@@ -220,11 +220,6 @@ At 2nd level, you gain one shamanic invocation of your choice. When you gain cer
 
 Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
 
-```
-def level2(npc):
-    # Invocations
-```
-
 ## Spiritual Gift
 *3rd-level shaman feature*
 

@@ -25,11 +25,11 @@ Cleric Level | Spells
 
 ```
 domainspells = {
-    1: ['skywrite', 'feather fall'],
-    3: ['warding wind', 'dust devil'],
-    5: ['wind wall', 'haste'],
-    7: ['gust of wind', 'storm sphere'],
-    9: ['control winds', 'wind walk']
+    1: ['disguise self', 'longstrider'],
+    3: ['pass without trace', 'invisibility'],
+    5: ['nondetection', 'phantom steed'],
+    7: ['greater invisibility', 'freedom of movement'],
+    9: ['seeming', 'modify memory']
 }
 
 def level1(npc):

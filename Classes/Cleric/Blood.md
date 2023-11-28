@@ -64,7 +64,7 @@ When you touch a creature, you can reduce your own health by any amount to heal 
 If you are dropped to 0 hit points from this feature, the spell goes off before you drop unconscious. The self-inflicted damage cannot be made non-lethal unless you are under the effect of another spell or ability, but it also cannot break your concentration.
 
 ```
-    npc.defer(lambda npc: npc.traits.append("***Blood Magic.*** When you cast a spell, you can take 1d4+4 necrotic damage per spell level (which cannot be reduced) to cast the spell without a spell slot. When you do so, you can ignore all material components of the spell, even if it has a cost and/or is consumed, and if the spell deals damage, you may add {npc.WISbonus()} to that damage. If you cast a damaging spell, you can reduce your own health by any amount (separate from the casting damage if you use that instead of a spell slot) to add the same amount of damage to the spell. If you are dropped to 0 hit points from this feature, the spell goes off before you drop unconscious. The self-inflicted damage cannot be made non-lethal unless you are under the effect of another spell or ability, but it also cannot break your concentration.") )
+    npc.defer(lambda npc: npc.traits.append(f"***Blood Magic.*** When you cast a spell, you can take 1d4+4 necrotic damage per spell level (which cannot be reduced) to cast the spell without a spell slot. When you do so, you can ignore all material components of the spell, even if it has a cost and/or is consumed, and if the spell deals damage, you may add {npc.WISbonus()} to that damage. If you cast a damaging spell, you can reduce your own health by any amount (separate from the casting damage if you use that instead of a spell slot) to add the same amount of damage to the spell. If you are dropped to 0 hit points from this feature, the spell goes off before you drop unconscious. The self-inflicted damage cannot be made non-lethal unless you are under the effect of another spell or ability, but it also cannot break your concentration.") )
 
     npc.bonusactions.append("***Blood Magic.*** When you touch a creature, you can reduce your own health by any amount to heal that creature for the same amount of health.")
 ```
@@ -72,11 +72,11 @@ If you are dropped to 0 hit points from this feature, the spell goes off before 
 ## Channel Divinity: Blood Drain
 *2nd-level Blood domain feature*
 
-As an action, you can spend one of your channel divinity to make a melee spell attack on an enemy within 5 feet of you, dealing 2d4+4 necrotic necrotic damage on a hit. (You choose between radiant and necrotic damage when you reach level 6.) You gain the same amount in healing.
+As an action, you can spend one of your Channel Divinity to make a melee spell attack on an enemy within 5 feet of you, dealing 2d4+4 necrotic necrotic damage on a hit. (You choose between radiant and necrotic damage when you reach level 6.) You gain the same amount in healing.
 
 ```
 def level2(npc):
-    npc.defer(lambda npc: npc.actions.append("***Channel Divinity: Blood Drain.*** you can spend one of your channel divinity to make a melee spell attack on an enemy within 5 feet of you, dealing 2d4+4 {'necrotic' if npc.levels('Cleric') < 6 else 'necrotic or radiant (your choice)'} damage on a hit. You gain the same amount in healing.") )
+    npc.defer(lambda npc: npc.actions.append("***Channel Divinity: Blood Drain.*** You make a melee spell attack on an enemy within 5 feet of you, dealing 2d4+4 {'necrotic' if npc.levels('Cleric') < 6 else 'necrotic or radiant (your choice)'} damage on a hit. You gain the same amount in healing.") )
 ```
 
 ## Chanel Divinity: Flare Divinity

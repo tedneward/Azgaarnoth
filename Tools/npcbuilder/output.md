@@ -1,51 +1,43 @@
 >### Name
->*Medium Male humanoid ( Human) Cleric (Protection) 20, any alignment*
+>*Medium Female humanoid ( Human) Cleric (Abandoned) 20, any alignment*
 >___
 >- **Armor Class** 14 (Scale mail (14),DEX (+0))
->- **Hit Points** 139 (20d8 + 20)
+>- **Hit Points** 190 (20d8 + 20)
 >- **Speed** 30 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:-:|:-:|:-:|:-:|:-:|:-:|
->|8 (-1)|10 (+0)|12 (+1)|18 (+4)|18 (+4)|13 (+1)|
+>|8 (-1)|10 (+0)|13 (+1)|18 (+4)|18 (+4)|13 (+1)|
 >___
 >- **Proficiency Bonus** +7
->- **Saving Throws** Wis +11,Cha +8
+>- **Saving Throws** Wis +11,Cha +8,Con +8
 >- **Damage Vulnerabilities** 
->- **Damage Resistances** 
->- **Damage Immunities** 
+>- **Damage Resistances** Celestial,any damage types dealt by any celestial or fiend creature
+>- **Damage Immunities** radiant,any damage types dealth by any celestial or fiend creature
 >- **Condition Immunities** 
 >- **Skills** History +11,Persuasion +8,Medicine +11
->- **Proficiencies** Padded armor,Leather armor,Studded leather armor,Hide armor,Chain shirt,Scale mail,Breastplate,Half-plate,Shield,Club,Dagger,Greatclub,Handaxe,Javelin,Light hammer,Mace,Quarterstaff,Sickle,Spear,Light Crossbow,Dart,Shortbow,Sling,Ring mail,Chain mail,Splint armor,Plate armor
+>- **Proficiencies** Padded armor,Leather armor,Studded leather armor,Hide armor,Chain shirt,Scale mail,Breastplate,Half-plate,Shield,Club,Dagger,Greatclub,Handaxe,Javelin,Light hammer,Mace,Quarterstaff,Sickle,Spear,Light Crossbow,Dart,Shortbow,Sling
 >- **Senses** passive Perception 14
 >- **Languages** Common,CHOOSE
 >___
->***Blessed Healer.*** When you cast a spell with a spell slot and it restores hit points to any creature other than you this turn, you regain 2 + 20 hit points.
->
 >***Channel Divinity (3/Recharges on short or long rest).*** See below for the details of each use.
 >
->***Divine Strike.*** Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 2d8 radiant damage to the target.
+>***Divine Resistance.*** You also have Advantage on saving throws to resist non-damaging effects by fiends or celestials if the effect is magical or inflicted by magical means, unless you choose otherwise. Any effects paired with damage are not resisted.
+>
+>***Divine Strike.*** Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 2d8 damage of the same type dealt by the weapon to the target.
 >
 >***Elemental Touched.*** When you finish a long rest, you can choose which element you are attuned to: Air, Earth, Fire, or Water. Depending on your choice, you can use the appropriate bonus action listed.
 >
->***Indomitable Defense.*** Whenever you finish a short or long rest, you gain resistance to two damage types of your choice, choosing from bludgeoning, necrotic, piercing, radiant, and slashing.
+>***Empty Soul.*** Whenever you are healed, you are healed for the maximum amount of hit points possible from the source of healing.
 >
 >***Keen Mind.*** You always know which way is north, the number of hours left before the next sunrise or sunset, and you can accurately recall anything you have seen or heard within the past month.
 >
->***Larger than Life (Recharges on a long rest).*** When you make a melee attack, you can increase that attack's reach by 5 feet.
->
->***Ritual Caster (Wizard).*** If you come across a spell in written form, you might be able to add it to your ritual book. The spell must be on the Wizard spell list, the spell's level can be no higher than 11, and it must have the *ritual* tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents the material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
->
 >#### Actions
->***Channel Divinity: Radiant Defense.*** You channel blessed energy into an ally that you can see within 30 feet of you. The first time that ally is hit by an attack within the next minute, the attacker takes radiant damage equal to 2d10 + 20.
+>***Channel Divinity: Healing Pool. Melee Spell attack, +11 to hit, range 5 ft., one creature. Hit: 1d10 + 20, which is added into a Healing Pool equal to the damage done, separate from your health.
 >
 >***Channel Divinity: Turn Undead.***  You can use one of your uses of Channel Divinity to turn undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, if it is a CR of 4 or lower it is destroyed; otherwise it is turned for 1 minute or until it takes any damage.A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 >
 >***Divine Intervention (Recharges on long rest/seven days).*** Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than {npc.levels('Cleric')}, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise you can use it again after you finish a long rest.
->
->***Indomitable Defense.*** You can temporarily give up your Indomitable Defense resistance and transfer it to one creature you touch. The creature keeps the resistance until the end of your next short or long rest or until you transfer it back to yourself as a bonus action.
->
->***Spellscarred Strike (Recharges after the end of your next turn).*** When you strike an enemy, you can lash out with a flicker of blue fire that passes through their flesh and removes something vital. You make an Unarmed Strike against a target within 5 feet. You may use either your Strength modifier or your Dexterity modifier to modify the attack roll, but you do not add either ability modifier to damage. On a hit, the target takes 1d4 fire damage and 1d4 force damage. The next time the target makes an attack roll before the end of its next turn, it coughs up sickly blue-black blood, and must either accept disadvantage on that attack roll or take 1d8 necrotic damage.
 >
 >***Elemental Touched Spellcasting (Wis. Recharges on long rest).*** Spell save DC: 19, Spell attack bonus: +11
 >
@@ -53,8 +45,6 @@
 >
 >
 >***Cleric Spellcasting (Wis, at level 20. Recharges on long rest).*** 5 cantrips known. 24 spells prepared. Spell save DC: 19, Spell attack bonus: +11
->
->Spells always prepared: [compelled duel](http://azgaarnoth.tedneward.com/magic/spells/compelled-duel/),[protection from evil and good](http://azgaarnoth.tedneward.com/magic/spells/protection-from-evil-and-good/),[aid](http://azgaarnoth.tedneward.com/magic/spells/aid/),[protection from poison](http://azgaarnoth.tedneward.com/magic/spells/protection-from-poison/),[protection from energy](http://azgaarnoth.tedneward.com/magic/spells/protection-from-energy/),[slow](http://azgaarnoth.tedneward.com/magic/spells/slow/),[guardian of faith](http://azgaarnoth.tedneward.com/magic/spells/guardian-of-faith/),[otilukes resilient sphere](http://azgaarnoth.tedneward.com/magic/spells/otilukes-resilient-sphere/),[antilife shell](http://azgaarnoth.tedneward.com/magic/spells/antilife-shell/),[wall of force](http://azgaarnoth.tedneward.com/magic/spells/wall-of-force/)
 >
 >* *Cantrips:* 
 >* *1st (4 slots):* 
@@ -68,14 +58,8 @@
 >* *9th (1 slots):* 
 >
 >
->***Ritual Spellcasting (Wizard, Int, 20. Recharges on long rest).*** >
->Rituals known: [CHOOSE-1st-level-ritual](http://azgaarnoth.tedneward.com/magic/spells/CHOOSE-1st-level-ritual/),[CHOOSE-1st-level-ritual](http://azgaarnoth.tedneward.com/magic/spells/CHOOSE-1st-level-ritual/)
->
->
 >#### Reactions
->***Shield of the Faithful.*** When a creature attacks a target other than you that is within 5 feet of you, you impose disadvantage on the attack roll. To do so, you must be able to see both the attacker and the target. You interpose an arm, a shield, or some other part of yourself to try to throw the attack off target.
->
->***Sight of the Unseen.*** You gain the ability to see in both dim light and darkness as if they were bright light, but only out to a range of 5 feet. You can only end this effect during your turn, but doing so does not require an action. However, if the space you are in is exposed to bright light while this effect is active, you suffer disadvantage on sight-based Wisdom (Perception) checks until the end of your next turn. While this effect is active, your eyes are backlit with a dancing blue flame.
+>***Spell Collection.*** When you successfully save against a spell that is 5th level or lower, you can use a reaction to add that spell to your list of prepared spells the next time you finish a long rest if you can use that level spell slot. For the first two spells per spell level you use this ability with, they are added to your list of Domain spells, even if you cannot yet cast at that level. During a long rest, you can also use a spell scroll to add the spell to your list of prepared spells if you can cast it, adding it to your Domain spells if it is of an appropriate level which is not filled yet.
 >
 >
 >#### Bonus Actions
@@ -87,9 +71,7 @@
 >
 >***Fire-Touched (7/Recharges on long rest).*** You surround yourself in a cloud of ash and smoke. Until the end of your turn, your movement doesn't provoke opportunity attacks.
 >
->***Flamespeed (Recharges on a short or long rest).*** Increase your speed by 10 feet until the end of your next turn. Blue flame momentarily licks the ground where your feet touch it.
->
->***Sight of the Unseen.*** You gain the ability to see in both dim light and darkness as if they were bright light, but only out to a range of 5 feet. You can only end this effect during your turn, but doing so does not require an action. However, if the space you are in is exposed to bright light while this effect is active, you suffer disadvantage on sight-based Wisdom (Perception) checks until the end of your next turn. While this effect is active, your eyes are backlit with a dancing blue flame.
+>***Healing Pool.*** Add any amount of hit points to a creature you can touch, including yourself, by spending an equal amount of hit points from your Healing Pool.
 >
 >***Water-Touched (7/Recharges on long rest).*** You can create a forceful surge of water directed at a creature within 15 feet of you that you can see. The creature must succeed on a Strength saving throw (DC 19) (which it can choose to fail) or be pushed up to 10 feet away from you. The water vanishes immediately after the creature succeeds or fails.
 >
@@ -103,7 +85,7 @@
 >
 >Shield
 >
->Holy symb0l
+>Holy symbol
 >
 >***Magic Item: Uncommon Permanent.***
 >
@@ -119,19 +101,19 @@
 >
 
 #### Description
-***Ideals:*** *Self-knowledge/Neutrality/Change.*
+***Ideals:*** *Whimsy/Change/Balance.*
 
-***Appearance:*** *Unusual skin color.*
+***Appearance:*** *Pronounced scar on face.*
 
-***Talents:*** *Master of disguise.*
+***Talents:*** *Plays a musical instrument.*
 
-***Mannerisms:*** *Twirls hair or tugs beard.*
+***Mannerisms:*** *Frequently uses the wrong word.*
 
-***Interactions with others:*** *Quiet with others.*
+***Interactions with others:*** *Friendly when talking to others.*
 
-***Bond:*** *Protective of close family members.*
+***Bond:*** *Captivated by a romantic interest.*
 
-***Flaw:*** *Shameful or scandalous history.*
+***Flaw:*** *Prone to sudden suspicion.*
 
 ***Race: Human.*** Humans were the servant race of the Eldar and flourished and took over much of the lands after the Fall. It is not clear if humans were created by the Eldar, or were uplifted by them. Either way, humans owe their civilization to the initial one built by the Eldar, inheriting it after the Fall.
 
@@ -141,11 +123,11 @@
 
 ***Class: Cleric.*** Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
 
-***Divine Domain: Protection.*** The protection domain is the purview of deities who charge their followers to shield the weak from the strong. The gods’ faithful dwell in villages and towns on the borderlands, where they help bolster defenses and seek out evils to defeat. These gods believe that a strong shield and a suit of armor is the best defense against evil, second only to a stout mace on hand to respond to any attacks in kind.
+***Divine Domain: Abandoned.*** Some clerics worship dead powers, or gods that prefer not to give powers to the unworthy, or the unproven. And some have lost their god's trust, leaving them without their power. These are the clerics of the Abandoned Domain.
 
-***Feat: Ritual Caster.*** You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
+***Feat: Tough.*** You are harder to kill.
 
-***Feat: Spellscarred Savant.*** Your mastery of your spellscar allows you to tap into raw magical energy, either to harm others with its sizzling power or invigorate your own body. As your power grows, you can wield the fury of this raw magic as easily as a warrior does a blade, calling down the untempered essence of magic gone mad to burn foes to ash.
+***Feat: Resilient.*** You are harder to kill than most.
 
 ***Feat: Keen Mind.*** You have a mind that can track time, direction, and detail with uncanny precision.
 
