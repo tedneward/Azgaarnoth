@@ -164,6 +164,19 @@ def chainsofcarceri(npc):
 def chainsofcarceri_prereq(npc): return npc.levels('Warlock') >= 15 and npc.pactboon == 'Pact of the Chain'
 ```
 
+### Clinging Blaze
+*Prerequisite: 9th level; Phoenix Patron.* 
+
+Any time a creature takes fire damage from one of your spells of first level or higher they are set [ablaze](../../Magic/Conditions/Ablaze.md).
+
+```
+def clingingblaze(npc):
+    npc.traits.append("***Clinging Blaze.*** Any time a creature takes fire damage from one of your spells of first level or higher they are set [ablaze](http://azgaarnoth.tedneward.com/magic/conditions/Ablaze/).")
+
+def clingingblaze_prereq(npc):
+    return npc.levels('Warlock') >= 9 and return npc.subclasses[allclasses['Warlock']].name == 'Phoenix'
+```
+
 ### Cloak of Flies
 *Prerequisite: 5th level*
 
@@ -708,6 +721,19 @@ def repellingblast(npc):
 def repellingblast_prereq(npc): return True
 ```
 
+### Restorative Power
+*Prerequisite: 5th level; Phoenix Patron* 
+
+You can cast [greater restoration](../../Magic/Spells/greater-restoration.md) using a warlock spell slot, and one of your tears as an additional component.
+
+```
+def restorativepower(npc):
+    npc.actions.append(f"***Restorative Power.*** You can cast greater {spelllinkify('restoration')} using a warlock spell slot, and one of your tears as an additional component.")
+
+def restorativepower_prereq(npc):
+    return npc.levels('Warlock') >= 5 and return npc.subclasses[allclasses['Warlock']].name == 'Phoenix'
+```
+
 ### Sculptor of Flesh
 *Prerequisite: 7th level*
 
@@ -840,7 +866,7 @@ However, you also have the following flaws:
 ***Sunlight Hypersensitivity.*** You take radiant damage equal to 5 + your level when you start your turn in sunlight. While in sunlight, you have disadvantage on attack rolls and ability checks.
 
 ```
-def vampiricaspect_prereq(npc): return npc.subclasses['Warlock'].name == 'Progenitor'
+def vampiricaspect_prereq(npc): return npc.subclasses[allclasses['Warlock']].name == 'Progenitor'
 def vampiricaspect(npc):
     npc.damageresistances.append('necrotic')
     npc.traits.append("***Vampiric Aspect.*** You are an undead in addition to your normal creature type, but when a game affect targets you, you choose whether it treats you as undead or as your normal creature type.")
@@ -902,8 +928,34 @@ def witchsight_prereq(npc):
 
 # New Invocations
 
+### Ally of Flame
+*Prerequisite: Phoenix Patron*
+
+Any time an ally makes a saving throw against one of your spells that deals fire damage they take half damage on a failed save and no damage on success. You may expend one hit dice to have a creature automatically succeed on their saving throw, you can protect as many creatures as you have hit dice.
+
+```
+def restorativepower(npc):
+    npc.actions.append("***Restorative Power.*** ")
+
+def restorativepower_prereq(npc):
+    return npc.levels('Warlock') >= 5 and return npc.subclasses[allclasses['Warlock']].name == 'Phoenix'
+```
+
+### Increased Vitality
+*Prerequisite: Phoenix Patron*
+
+You gain a number of extra hit dice equal to your Charisma modifier.
+
+```
+def restorativepower(npc):
+    npc.actions.append("***Restorative Power.*** ")
+
+def restorativepower_prereq(npc):
+    return npc.levels('Warlock') >= 5 and return npc.subclasses[allclasses['Warlock']].name == 'Phoenix'
+```
+
 ### Venomous Familiar
-*Prerequisite: Defiler Patron, Pact of the Chain feature*
+*Prerequisite: Defiler or Lurker Deep Patron, Pact of the Chain feature*
 
 When your familiar hits a creature with a melee attack, you can expend a warlock spell slot to deal 1d12 bonus poison damage to the target for each level of the spell slot used.
 
@@ -1140,10 +1192,6 @@ You can expend the 9th-level use of your Mystic Arcanum to cast [pestilence](../
 
 You can expend the 9th-level use of your Mystic Arcanum to cast [awaken the dead](../../Magic/Spells/awaken-the-dead.md).
 
-STAR OF DARKNESS
-Prerequisite: 18th leveZ Fiend or Great Old One Patron
-You can expend the 9th-level use of your Mystic Arcanum to cast the new gravity well spell (pg. 79>
-
 ### Deathly Chills
 When you deal cold damage to a creature using a warlock spell or feature, you ignore resistance to cold damage unless the creature also has resistance or immunity to necrotic damage, and you treat vulnerability to necrotic damage as vulnerability to both damage types.
 
@@ -1188,44 +1236,35 @@ When you deal thunder damage to a creature using a warlock spell or feature, you
 ### Withering Lightning
 When you deal lightning damage to a creature using a warlock spell or feature, you can force the target to make a Constitution saving throw. On a failed save, the target's hit point maximum is reduced for 1 minute by an amount equal to the lightning damage it took. Any effect that removes a disease allows the target's hit point maximum to return to normal before that time passes. Once you use this invocation, you must finish a long rest before you can use it again.
 
+STAR OF DARKNESS
+Prerequisite: 18th leveZ Fiend or Great Old One Patron
+
+You can expend the 9th-level use of your Mystic Arcanum to cast [gravity well](../../Magic/Spells/gravity-well.md).
+
 AMBASSADOR OF THE DEPTHS
 Prerequisite: 5th level
-You can expend a warlock spell slot to cast the new dive
-spell While the spell affects a target, that target also has
-darkvision that extends out to a range of 120 feet.
+
+You can expend a warlock spell slot to cast [dive](../../Magic/Spells/dive.md). While the spell affects a target, that target also has darkvision that extends out to a range of 120 feet.
 
 DESERT ROAMER
 Prerequisite: 5th level
-You are adapted to both hot climates and cold climates,
-as described in the Dungeon Master's Guide, and you
-don't need to drink water to survive.
+
+You are adapted to both hot climates and cold climates, and you don't need to drink water to survive.
 
 FLAME WALKER
 Prerequisite: 5th level
-You and any equipment you are wearing or carrying are
-immune to the damage dealt by nonmagical fire, and you
-can breathe ashes, smoke, and the stinking cloud spell
-without any negative effects. This can't prevent damage
-dealt by traps or creatures, such as the breath weapon of
-a red dragon or the blast of a fire cannon.
+
+You and any equipment you are wearing or carrying are immune to the damage dealt by nonmagical fire, and you can breathe ashes, smoke, and the stinking cloud spell without any negative effects. This can't prevent damage dealt by traps or creatures, such as the breath weapon of a red dragon or the blast of a fire cannon.
 
 WEIGHTLESSNESS
 Prerequisite: 5th level
-You can cast feather fall targeting only yourself at will
-without expending a spell slot or requiring components.
+
+You can cast feather fall targeting only yourself at will without expending a spell slot or requiring components.
 
 EXPLOSIVE VENGEANCE
 Prerequisite: 7th level Pact of the Chain, fireball known as a warlock spell
-When another creature deals damage to your familiar
-and reduces it to O hit points, you can choose to use
-your reaction to cast fireball using a warlock spell slot
-centered at the location of your familiar, even if it is
-outside your normal range or line of sight for the spell
-The spell originates from your familiar. After you do
-this, you gain one level of exhaustion and you can't cast
-any spells of 1st-level or higher on your next turn.
-Once you use this invocation, you must finish a long
-rest before you can use it again.
+
+When another creature deals damage to your familiar and reduces it to O hit points, you can choose to use your reaction to cast fireball using a warlock spell slot centered at the location of your familiar, even if it is outside your normal range or line of sight for the spell. The spell originates from your familiar. After you do this, you gain one level of exhaustion and you can't cast any spells of 1st-level or higher on your next turn. Once you use this invocation, you must finish a long rest before you can use it again.
 
 GRAVEBORNE
 Prerequisite: 7th level
@@ -1233,6 +1272,7 @@ While you are buried or burrowing in earth or sealed underground, you don't need
 
 BREATH OF BAHAMUT
 Prerequisite: 9th level Dragon Patron (Any Metallic)
+
 You can use an action to expend a warlock spell slot to
 exhale a secondary breath weapon in a 30-foot cone.
 Each creature in the area suffers the following effects,
@@ -1268,46 +1308,34 @@ your warlock level x 3 automatically succeeds on the
 saving throw.
 
 TIAMAT'S BARGAIN
-Prerequisite: 9th leve~ Dragon Patron (Any Chromatic)
-When you use your Breath of the Wynn feature, you
-can choose to use the breath weapon and damage type
-of any of the chromatic dragons from the list, instead of
-using the entry for your patron.
-When you finish a long rest, you can choose to change
-the damage type that your Draconic Essence feature
-grants resistance to. Choose one from acid, cold, fire,
-lightning, or poison damage.
+Prerequisite: 9th level; Dragon Patron (Any Chromatic)
+
+When you use your Breath of the Wynn feature, you can choose to use the breath weapon and damage type of any of the chromatic dragons from the list, instead of
+using the entry for your patron. When you finish a long rest, you can choose to change the damage type that your Draconic Essence feature grants resistance to. Choose one from acid, cold, fire, lightning, or poison damage.
 
 FIERY BREATH
-Prerequisite: 12th levd burning hands known as a warlock spell
-When you cast burning hands, you can do so as a bonus
-action, requiring only verbal components. Once you do,
-you can't do so again until you finish a long rest.
+Prerequisite: 12th level; burning hands known as a warlock spell
+
+When you cast burning hands, you can do so as a bonus action, requiring only verbal components. Once you do, you can't do so again until you finish a long rest.
 
 OPEN THE GATE BELOW
-Prerequisite: 12th levei Any Water-themed Patron or Hydromancer feat
-You can expend a warlock spell slot to cast the new dark
-lagoon spelL requiring only somatic components. Once
-you do so, you can't do so again until you finish a long rest.
+Prerequisite: 12th level; Any Water-themed Patron or Hydromancer feat
+
+You can expend a warlock spell slot to cast the new dark lagoon spelL requiring only somatic components. Once you do so, you can't do so again until you finish a long rest.
 
 TENTACLE GROWTH
-Prerequisite: 12th levei Fathomless Patron or Great Old One Patron
-You have an additional extremely flexible arm (a tentacle)
-that has reach 10 feet. Melee weapons wielded using
-this arm and no other arms have an additional 5 feet of
-reach, but the arm cannot wear shields. You also have
-advantage on ability checks made to grapple using this
-arm. If the arm is cut off or destroyed, it regrows with no
-apparent damage when you finish a long rest.
-You can take this invocation multiple times.
+Prerequisite: 12th level; Fathomless Patron or Great Old One Patron
 
-GIFT OF THE 'TREANTS
+You have an additional extremely flexible arm (a tentacle) that has reach 10 feet. Melee weapons wielded using this arm and no other arms have an additional 5 feet of reach, but the arm cannot wear shields. You also have advantage on ability checks made to grapple using this arm. If the arm is cut off or destroyed, it regrows with no apparent damage when you finish a long rest. You can take this invocation multiple times.
+
+GIFT OF THE TREANTS
 Prerequisite: 15th levei Archfey Patron or any Plant-themed Patron
-You can expend the 8th-level use of your Mystic Arcanum
-to cast the new animate tree spell
+
+You can expend the 8th-level use of your Mystic Arcanum to cast the new animate tree spell
 
 HELLISH BLOOD
 Prerequisite: 15th levei Fiend Patron or Pyromancer Feat
+
 You are constantly affected by a lesser form of fire shield
 (warm option) that deals only ld6 damage. You can also
 expend a warlock spell slot to cast fire shield (as warm
@@ -1379,6 +1407,7 @@ invocations = {
     'Book of Ancient Secrets': [bookofancientsecrets, bookofancientsecrets_prereq],
     "Chain Master's Fury": [chainmastersfury, chainmastersfury_prereq],
     'Chains of Carceri': [chainsofcarceri, chainsofcarceri_prereq],
+    'Clinging Blaze': [clingingblaze, clingingblaze_prereq],
     "Cloak of Flies": [cloakofflies, cloakofflies_prereq],
     'Cold Terror': [coldterror, coldterror_prereq],
     'Cursed Possessions': [cursedpossessions, cursedpossessions_prereq],
@@ -1421,6 +1450,7 @@ invocations = {
     'Rebuke of the Talisman': [rebukeofthetalisman, rebukeofthetalisman_prereq],
     'Relentless Hex': [relentlesshex, relentlesshex_prereq],
     'Repelling Blast': [repellingblast, repellingblast_prereq],
+    'Restorative Power': [restorativepower, restorativepower_prereq],
     'Sculptor of Flesh': [sculptorofflesh, sculptorofflesh_prereq],
     'Shard Star Warrior': [shardstarwarrior, shardstarwarrior_prereq],
     'Shroud of Shadow': [shroudofshadow, shroudofshadow_prereq],

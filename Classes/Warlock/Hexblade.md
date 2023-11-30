@@ -21,19 +21,19 @@ Spell Level|Spells
 ```
 def level1(npc):
     def expandedspells(npc):
-        if npc.levels('Warlock') >= 1:
+        if npc.packmagic.slotlevel >= 1:
             npc.pactmagic.spellsknown.append('shield')
             npc.pactmagic.spellsknown.append('wrathful smite')
-        if npc.levels('Warlock') >= 3:
+        if npc.packmagic.slotlevel >= 2:
             npc.pactmagic.spellsknown.append('blur')
             npc.pactmagic.spellsknown.append('branding smite')
-        if npc.levels('Warlock') >= 5:
+        if npc.packmagic.slotlevel >= 3:
             npc.pactmagic.spellsknown.append('blink')
             npc.pactmagic.spellsknown.append('elemental weapon')
-        if npc.levels('Warlock') >= 7:
+        if npc.packmagic.slotlevel >= 4:
             npc.pactmagic.spellsknown.append('phantasmal killer')
             npc.pactmagic.spellsknown.append('staggering smite')
-        if npc.levels('Warlock') >=9:
+        if npc.packmagic.slotlevel >= 5:
             npc.pactmagic.spellsknown.append('banishing smite')
             npc.pactmagic.spellsknown.append('cone of cold')
     npc.defer(lambda npc: expandedspells(npc) )
