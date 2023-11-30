@@ -45,24 +45,9 @@ def level1(npc):
     ]
     npc.defer(lambda npc: npc.description.append(f"***Flaw: Undying Light.*** {randomlist[flaws]}"))
 
-    def expandedspells(npc):
-        if npc.pactmagic.slotlevel >= 1:
-            npc.pactmagic.spellsknown.append('dissonant whispers')
-            npc.pactmagic.spellsknown.append('tashas hideous laughter')
-        if npc.pactmagic.slotlevel >= 2:
-            npc.pactmagic.spellsknown.append('detect thoughts')
-            npc.pactmagic.spellsknown.append('phantasmal force')
-        if npc.pactmagic.slotlevel >= 3:
-            npc.pactmagic.spellsknown.append('clairvoyance')
-            npc.pactmagic.spellsknown.append('sending')
-        if npc.pactmagic.slotlevel >= 4:
-            npc.pactmagic.spellsknown.append('dominate beast')
-            npc.pactmagic.spellsknown.append('evards black tentacles')
-        if npc.pactmagic.slotlevel >= 5:
-            npc.pactmagic.spellsknown.append('dominate person')
-            npc.pactmagic.spellsknown.append('telekinesis')
-    npc.defer(lambda npc: expandedspells(npc) )
+    npc.traits.append(f"***Expanded Spell List.*** The following spells are added to the warlock spell list for you: 1st: {spelllinkify('burning hands')}; 2nd: {spelllinkify('flaming sphere')}; 3rd: {spelllinkify('daylight')}; 4th: {spelllinkify('fire shield')}; 5th: {spelllinkify('flame strike')}")
 ```
+
 
 ## Radiant Soul
 *1st-level Undying Light patron feature*
