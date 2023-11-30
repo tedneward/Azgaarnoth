@@ -18,19 +18,19 @@ Spell Level|Spells
 ```
 def level1(npc):
     def expandedspells(npc):
-        if npc.levels('Warlock') >= 1:
+        if npc.pactmagic.slotlevel >= 1:
             npc.pactmagic.spellsknown.append('dissonant whispers')
             npc.pactmagic.spellsknown.append('tashas hideous laughter')
-        if npc.levels('Warlock') >= 3:
+        if npc.pactmagic.slotlevel >= 2:
             npc.pactmagic.spellsknown.append('detect thoughts')
             npc.pactmagic.spellsknown.append('phantasmal force')
-        if npc.levels('Warlock') >= 5:
+        if npc.pactmagic.slotlevel >= 3:
             npc.pactmagic.spellsknown.append('clairvoyance')
             npc.pactmagic.spellsknown.append('sending')
-        if npc.levels('Warlock') >= 7:
+        if npc.pactmagic.slotlevel >= 4:
             npc.pactmagic.spellsknown.append('dominate beast')
             npc.pactmagic.spellsknown.append('evards black tentacles')
-        if npc.levels('Warlock') >=9:
+        if npc.pactmagic.slotlevel >= 5:
             npc.pactmagic.spellsknown.append('dominate person')
             npc.pactmagic.spellsknown.append('telekinesis')
     npc.defer(lambda npc: expandedspells(npc) )
