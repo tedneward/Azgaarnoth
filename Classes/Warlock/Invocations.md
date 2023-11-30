@@ -7,7 +7,7 @@ When you cast [eldritch blast](../../Magic/Spells/eldritch-blast.md), add your C
 
 ```
 def agonizingblast(npc):
-    npc.defer(lambda npc: npc.actions.append("***Agonizing Blast.*** When you cast *eldritch blast*, add {npc.CHAbonus()} to the damage it deals on a hit.") )
+    npc.defer(lambda npc: npc.actions.append(f"***Agonizing Blast.*** When you cast *eldritch blast*, add {npc.CHAbonus()} to the damage it deals on a hit.") )
 
 def agonizingblast_prereq(npc): return True
 ```
@@ -458,7 +458,7 @@ However, you also have the following flaws:
 * **Hideous Countenance.** Your true appearance is ugly, and those who see your true form or your cursed form may become disgusted or worse. Whenever a creature sees either your true form or your cursed form for the first time, it must succeed on a DC 13 Wisdom saving throw or else it becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek to flee from you or make you leave the area in nonviolent ways (at the DM's discretion1 depending on the nature of your interaction with it.
 
 ```
-def hagsheritage_prereq(npc): return npc.subclasses['Warlock'].name == 'Progenitor'
+def hagsheritage_prereq(npc): return npc.subclasses[allclasses['Warlock']].name == 'Progenitor'
 def hagsheritage(npc):
     npc.traits.append("***Hag's Heritage.*** You have advantage on saving throws against being charmed.")
     npc.conditionimmunities.append("sleep")
@@ -654,7 +654,7 @@ However, you also have the following flaw:
 ***Silver Hypersensitivity.*** You have vulnerability to bludgeoning, piercing, and slashing damage dealt by silvered weapons. While touching silver, you have disadvantage on attack rolls and ability checks.
 
 ```
-def powerofthemoon_prereq(npc): return npc.subclasses['Warlock'].name == 'Progenitor'
+def powerofthemoon_prereq(npc): return npc.subclasses[allclasses['Warlock']].name == 'Progenitor'
 def powerofthemoon(npc):
     npc.traits.append("***Power of the Moon.*** You count as a shapechanger at all times. While you're in your Cursed Shapechanger form, and in moonlight at night, you gain a +1 bonus to AC and attack rolls and have advantage on saving throws.")
     npc.traits.append("***Silver Hypersensitivity.*** You have vulnerability to bludgeoning, piercing, and slashing damage dealt by silvered weapons. While touching silver, you have disadvantage on attack rolls and ability checks.")
@@ -840,7 +840,7 @@ However, you also have the following flaws:
 ***Sunlight Hypersensitivity.*** You take radiant damage equal to 5 + your level when you start your turn in sunlight. While in sunlight, you have disadvantage on attack rolls and ability checks.
 
 ```
-def vampiricaspect_prereq(npc): return npc.subclasses['Warlock'].name == 'Progenitor'
+def vampiricaspect_prereq(npc): return npc.subclasses[allclasses['Warlock']].name == 'Progenitor'
 def vampiricaspect(npc):
     npc.damageresistances.append('necrotic')
     npc.traits.append("***Vampiric Aspect.*** You are an undead in addition to your normal creature type, but when a game affect targets you, you choose whether it treats you as undead or as your normal creature type.")

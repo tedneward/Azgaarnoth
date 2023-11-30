@@ -11,7 +11,7 @@ Fighter,Riposte,Studious Eye,Yes
 Fighter,Yes
 Fighter,Feat,Savage Attacker,Yes
 Fighter,Yes
-Fighter,Feat,Weapon Master,STR,Yes
+Fighter,Feat,Weapon Master,STR,random,random,random,random,Yes
 Fighter,Precision Attack,Silver Tongue,Yes
 Fighter,Feat,Dual Wielder,Yes
 Fighter,Yes

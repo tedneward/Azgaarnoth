@@ -11,7 +11,7 @@ Fighter,Unarmed,Yes
 Fighter,Yes
 Fighter,Feat,Savage Attacker,Yes
 Fighter,Yes
-Fighter,Feat,Weapon Master,STR,Yes
+Fighter,Feat,Weapon Master,STR,random,random,random,random,Yes
 Fighter,Yes
 Fighter,Feat,Dual Wielder,Yes
 Fighter,Yes

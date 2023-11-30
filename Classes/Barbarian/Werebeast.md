@@ -30,10 +30,10 @@ def level3(npc):
     npc.werebeast = choose("Choose a Bestial Bond: ", ['Ape', 'Bear', 'Boar', 'Eagle', 'Owl', 'Shark', 'Wolf', 'Cobra', 'Crocodile', 'Kraken', 'Rat', 'Spider', 'Tiger', 'Turtle'])
 
     if npc.werebeast in ['Ape', 'Bear', 'Boar', 'Eagle', 'Owl', 'Shark', 'Wolf']:
-        npc.proficiencies.append(choose("Choose one: ", ['Perception', 'Survival']))
+        npc.skills.append(choose("Choose one: ", ['Perception', 'Survival']))
         npc.traits.append("***Hunter Senses.*** You can memorize a creature's scent by sniffing it for 1 minute, and you have advantage on ability checks made to track, perceive, or recognize any creature whose scent you've memorized.")
     else:
-        npc.proficiencies.append(choose("Choose one: ", ['Sleight of Hand', 'Stealth']))
+        npc.skills.append(choose("Choose one: ", ['Sleight of Hand', 'Stealth']))
         npc.traits.append("***Lurker Instincts.*** You never have to slow your travel pace to move stealthily, and you can always watch for danger while traveling, even when you are performing an activity.")
 ```
 
