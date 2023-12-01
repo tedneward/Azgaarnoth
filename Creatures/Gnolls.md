@@ -397,7 +397,7 @@ The fiercest and most experienced gnolls become viciously proficient and hunting
 >- **Damage Immunities** 
 >- **Condition Immunities** 
 >- **Skills** Perception +2,Survival +2
->- **Senses** darkvision 60 ft.,passive P erception 12
+>- **Senses** darkvision 60 ft.,passive Perception 12
 >- **Languages** Gnoll
 >- **Challenge** 
 >___

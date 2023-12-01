@@ -229,7 +229,7 @@ Though you have access to a potent amount of psionic energy, it takes training a
         results += f"Discipline save DC { 8 + npc.proficiencybonus() + npc.INTbonus() }, +{npc.proficiencybonus() + npc.INTbonus()} attack bonus"
         return results
 
-    npc.defer(lambda npc: npc.actions.append(psionicabilitytext(npc)) )
+    npc.defer(lambda npc: npc.traits.append(psionicabilitytext(npc)) )
 ```
 
 ### Psychic Focus
@@ -508,7 +508,7 @@ As an action, you beguile one humanoid you can see within 120 feet of you. The t
 
 ```
 def mysticcharm(npc):
-    npc.actions.append(f"***Psionic Talent: Mystic Charm.*** You beguile one humanoid you can see within 120 feet of you. The target must succeed on a Charisma saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}) or be charmed by you until the end of your next turn.")
+    npc.defer(lambda npc: npc.actions.append(f"***Psionic Talent: Mystic Charm.*** You beguile one humanoid you can see within 120 feet of you. The target must succeed on a Charisma saving throw (DC {8 + npc.proficiencybonus() + npc.INTbonus()}) or be charmed by you until the end of your next turn.") )
 ```
 
 ## Mystic Hand

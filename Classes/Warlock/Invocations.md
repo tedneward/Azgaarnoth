@@ -12,6 +12,32 @@ def agonizingblast(npc):
 def agonizingblast_prereq(npc): return True
 ```
 
+### Ally of Flame
+*Prerequisite: Phoenix Patron*
+
+Any time an ally makes a saving throw against one of your spells that deals fire damage they take half damage on a failed save and no damage on success. You may expend one hit dice to have a creature automatically succeed on their saving throw, you can protect as many creatures as you have hit dice.
+
+```
+def allyofflame(npc):
+    npc.actions.append("***Ally of Flame.*** Any time an ally makes a saving throw against one of your spells that deals fire damage they take half damage on a failed save and no damage on success. You may expend one hit dice to have a creature automatically succeed on their saving throw, you can protect as many creatures as you have hit dice.")
+
+def allyofflame_prereq(npc):
+    return npc.subclasses[allclasses['Warlock']].name == 'Phoenix'
+```
+
+### Ambassador of the Depths
+*Prerequisite: 5th level*
+
+You can expend a warlock spell slot to cast [dive](../../Magic/Spells/dive.md). While the spell affects a target, that target also has darkvision that extends out to a range of 120 feet.
+
+```
+def ambassadorofthedepths(npc):
+    npc.actions.append(f"***Ambassador of the Depths.*** You can expend a warlock spell slot to cast {spelllinkify('dive')}. While the spell affects a target, that target also has darkvision that extends out to a range of 120 feet.")
+
+def ambassadorofthedepths_prereq(npc):
+    return npc.levels('Warlock') >= 5
+```
+
 ### Arcane Specialty
 *Prerequisite: Pact of the Skull feature*
 
@@ -174,7 +200,7 @@ def clingingblaze(npc):
     npc.traits.append("***Clinging Blaze.*** Any time a creature takes fire damage from one of your spells of first level or higher they are set [ablaze](http://azgaarnoth.tedneward.com/magic/conditions/Ablaze/).")
 
 def clingingblaze_prereq(npc):
-    return npc.levels('Warlock') >= 9 and return npc.subclasses[allclasses['Warlock']].name == 'Phoenix'
+    return npc.levels('Warlock') >= 9 and npc.subclasses[allclasses['Warlock']].name == 'Phoenix'
 ```
 
 ### Cloak of Flies
@@ -500,6 +526,19 @@ def improvedpactweapon(npc):
 def improvedpactweapon_prereq(npc): return npc.pactboon == 'Pact of the Blade'
 ```
 
+### Increased Vitality
+*Prerequisite: Phoenix Patron*
+
+You gain a number of extra hit dice equal to your Charisma modifier.
+
+```
+def increasedvitality(npc):
+    npc.defer(lambda npc: npc.actions.append(f"***Increased Vitality.*** You gain {npc.CHAbonus()} extra hit dice.") )
+
+def increasedvitality_prereq(npc):
+    return npc.subclasses[allclasses['Warlock']].name == 'Phoenix'
+```
+
 ### Investment of the Chain Master
 *Prerequisite: Pact of the Chain feature*
 
@@ -731,7 +770,7 @@ def restorativepower(npc):
     npc.actions.append(f"***Restorative Power.*** You can cast greater {spelllinkify('restoration')} using a warlock spell slot, and one of your tears as an additional component.")
 
 def restorativepower_prereq(npc):
-    return npc.levels('Warlock') >= 5 and return npc.subclasses[allclasses['Warlock']].name == 'Phoenix'
+    return npc.levels('Warlock') >= 5 and npc.subclasses[allclasses['Warlock']].name == 'Phoenix'
 ```
 
 ### Sculptor of Flesh
@@ -872,6 +911,19 @@ def vampiricaspect(npc):
     npc.traits.append("***Vampiric Aspect.*** You are an undead in addition to your normal creature type, but when a game affect targets you, you choose whether it treats you as undead or as your normal creature type.")
 ```
 
+### Venomous Familiar
+*Prerequisite: Defiler or Kraken or Lurker Patron, Pact of the Chain feature*
+
+When your familiar hits a creature with a melee attack, you can expend a warlock spell slot to deal 1d12 bonus poison damage to the target for each level of the spell slot used.
+
+```
+def venomousfamiliar(npc):
+    npc.traits.append("***Venomous Familiar.*** When your familiar hits a creature with a melee attack, you can expend a warlock spell slot to deal 1d12 bonus poison damage to the target for each level of the spell slot used.")
+
+def venomousfamiliar_prereq(npc):
+    return npc.levels('Warlock') >= 15
+```
+
 ### Visions of Distant Realms
 *Prerequisite: 15th level*
 
@@ -928,37 +980,6 @@ def witchsight_prereq(npc):
 
 # New Invocations
 
-### Ally of Flame
-*Prerequisite: Phoenix Patron*
-
-Any time an ally makes a saving throw against one of your spells that deals fire damage they take half damage on a failed save and no damage on success. You may expend one hit dice to have a creature automatically succeed on their saving throw, you can protect as many creatures as you have hit dice.
-
-```
-def restorativepower(npc):
-    npc.actions.append("***Restorative Power.*** ")
-
-def restorativepower_prereq(npc):
-    return npc.levels('Warlock') >= 5 and return npc.subclasses[allclasses['Warlock']].name == 'Phoenix'
-```
-
-### Increased Vitality
-*Prerequisite: Phoenix Patron*
-
-You gain a number of extra hit dice equal to your Charisma modifier.
-
-```
-def restorativepower(npc):
-    npc.actions.append("***Restorative Power.*** ")
-
-def restorativepower_prereq(npc):
-    return npc.levels('Warlock') >= 5 and return npc.subclasses[allclasses['Warlock']].name == 'Phoenix'
-```
-
-### Venomous Familiar
-*Prerequisite: Defiler or Lurker Deep Patron, Pact of the Chain feature*
-
-When your familiar hits a creature with a melee attack, you can expend a warlock spell slot to deal 1d12 bonus poison damage to the target for each level of the spell slot used.
-
 ### Accursed Blade
 *Prerequisite: 5th level; Progenitor Patron; Pact of the Blade feature*
 
@@ -971,42 +992,15 @@ Also, when you critically hit a creature or reduce one to 0 hit points with a we
 
 You learn [protection from poison](../../Magic/Spells/protection-from-poison.md) as a warlock spell, and it doesn't count against the number of spells you can learn as a warlock. When you cast the spell, its range is 30 feet, and you don't have to touch the target.
 
+### Beckon the Darkness
+*Prerequisite: 18th level; Fiend or Hexblade Patron*
+
+You can expend the 9th-level use of your Mystic Arcanum to cast [midnight](../../Magic/Spells/midnight.md).
+
 ### Befoul Food and Drink
 *Prerequisite: 5th level; Defiler Patron or Hag's Heritage invocation*
 
 You learn the [poison food and drink](../../Magic/Spells/poison-food-or-drink.md) spell as a warlock spelL and it doesn't count against the number of spells you can learn as a warlock. You can choose to cast the spell without expending a spell slot or requiring material components. Once you do so, you can't do so again until you finish a long rest.
-
-### Cursed Regeneration
-*Prerequisite: 5th levei Progenitor Patron*
-
-You regain hit points equal to half your proficiency bonus once every hour, so long as this invocation is still functioning the entire time. At the start of each of your turns, you can choose to expend up that many hit dice to regain hit points as if you had finished a short rest. However, you must also choose one of the following flaws to gain when you learn this invocation:
-
-* **Sunlight Weakness.** This invocation doesn't function if you are in sunlight or running water. If you start your turn in sunlight, take radiant damage, or end your turn in running water, this invocation doesn't function until the end of your next turn.
-* **Alchemical Weakness.** This invocation doesn't function if any part of your body is touching fire or silver. If you take fire damage or damage from an attack using a silvered weapon, this invocation doesn't function until the end of your next turn.
-
-### Dark and Terrible
-*Prerequisite: 5th levei Progenitor Patron*
-
-While you are in your cursed form, you can make an attack with your natural weapon twice, instead of once, when you take the Attack action on your turn. Also, your natural weapon deals 1d10 damage instead of 1d8 and counts as magical for overcoming resistance or immunity.
-
-### Eldritch Mount
-*Prerequisite: 5th level*
-
-You can expend a warlock spell slot to cast phantom steed, although you are the only creature that can ride the steed conjured by the spell.
-
-Once you use this invocation, you must finish a long rest before you can use it again.
-
-### Minions of Darkness
-*Prerequisite: 5th level*
-
-You can cast [shadow spies](../../Magic/Spells/shadow-spies.md) using a warlock spell slot. Once you use this invocation, you must finish a long rest before you can use it again.
-
-If you have the Pact of the Cauldron (from Legends of Prestige & Prowess), you can use your magic cauldron as the material component for the spell.
-
-### Slumber Puppet
-*Prerequisite: 5th level*
-
-You can cast [telekinesis](../../Magic/Spells/telekinesis.md) at-will, without expending a spell slot, but you can only target unconscious creatures with the spell when you cast it in this way..
 
 ### Blighted Blade
 *Prerequisite: 7th level; Defiler Patron or Hag's Heritage invocation*
@@ -1025,6 +1019,50 @@ When you hit a creature with a natural weapon while in your Cursed Shapechanger 
 
 Once you use this invocation, you must finish a long rest before you can use it again.
 
+### Cursed Regeneration
+*Prerequisite: 5th levei Progenitor Patron*
+
+You regain hit points equal to half your proficiency bonus once every hour, so long as this invocation is still functioning the entire time. At the start of each of your turns, you can choose to expend up that many hit dice to regain hit points as if you had finished a short rest. However, you must also choose one of the following flaws to gain when you learn this invocation:
+
+* **Sunlight Weakness.** This invocation doesn't function if you are in sunlight or running water. If you start your turn in sunlight, take radiant damage, or end your turn in running water, this invocation doesn't function until the end of your next turn.
+* **Alchemical Weakness.** This invocation doesn't function if any part of your body is touching fire or silver. If you take fire damage or damage from an attack using a silvered weapon, this invocation doesn't function until the end of your next turn.
+
+### Dark and Terrible
+*Prerequisite: 5th levei Progenitor Patron*
+
+While you are in your cursed form, you can make an attack with your natural weapon twice, instead of once, when you take the Attack action on your turn. Also, your natural weapon deals 1d10 damage instead of 1d8 and counts as magical for overcoming resistance or immunity.
+
+### Deathly Chills
+When you deal cold damage to a creature using a warlock spell or feature, you ignore resistance to cold damage unless the creature also has resistance or immunity to necrotic damage, and you treat vulnerability to necrotic damage as vulnerability to both damage types.
+
+### Desert Roamer
+*Prerequisite: 5th level*
+
+You are adapted to both hot climates and cold climates, and you don't need to drink water to survive.
+
+### Eldritch Digestion
+When you deal acid damage to a creature using a warlock spell or feature, you ignore resistance to acid damage unless the creature also has resistance or immunity to force damage, and you treat vulnerability to force damage as vulnerability to both damage types.
+
+### Eldritch Mount
+*Prerequisite: 5th level*
+
+You can expend a warlock spell slot to cast phantom steed, although you are the only creature that can ride the steed conjured by the spell.
+
+Once you use this invocation, you must finish a long rest before you can use it again.
+
+### Elemental Attunement
+When you finish a long rest, you choose one of four elements below to attune to. While attuned to an element, you know an associated cantrip as a warlock spelL and it doesn't count against the number of cantrips you can know as a warlock. You gain the following benefits while attuned to each element:
+
+* **Air.** You know the [gust](../../Magic/Spells/gust.md) cantrip, and you can hold your breath for twice as long.
+* **Earth.** You know the [mold earth](../../Magic/Spells/mold-earth.md) cantrip, and you have advantage on ability checks made to climb earth or stone.
+* **Fire.** You know the [control flames](../../Magic/Spells/control-flames.md) cantrip, and you have advantage on saving throws made to resist the effects of extreme heat.
+* **Water.** You know the [shape water](../../Magic/Spells/shape-water.md) cantrip, and you have advantage on saving throws made to resist the effects of extreme cold.
+
+### Enchanted Slumber
+*Prerequisite: 15th level*
+
+You can expend the 7th-level use of your Mystic Arcanum to cast [suspend animation](../../Magic/Spells/suspend-animation.md).
+
 ### Extended Family
 *Prerequisite: 7th level; Progenitor Patron*
 
@@ -1032,14 +1070,22 @@ Choose another three beasts for your Beast of the Curse feature. You gain the be
 
 You can take this invocation multiple times.
 
-### Vampiric Magic
-*Prerequisite: 7th level; Vampiric Aspect invocation*
+### Fang of the Malison
+*Prerequisite: 12th level Defiler Patron, Pact of the Blade feature*
 
-Choose two spells you know as a warlock. Those spells become Blood spells for you, and you can choose to change their names accordingly (such as changing hellish rebuke to "hellish bloodspray", or changing hex to "blood hex"). Whenever you gain a warlock leveL you can choose to replace one of these two spells with a different warlock spell you know. The old spell returns to its original form, and the new spell becomes a blood spell following the same rules.
+You can create a curved dagger using your Pact of the Blade feature. This weapon deals an extra 1d4 poison damage on a hit. When you hit a creature with it, you can expend a warlock spell slot to deal 1d8 bonus poison damage per spell level to the target and cause it to become poisoned until the start of your next turn.
 
-In addition, when you deal damage to a creature that has blood using the eldritch blast can trip or a Blood spell, you can consume a portion of its spilt blood and regain hit points equal to your Charisma modifier (minimum 1 hit point). The next time you cast a blood spell before the end of your next turn, you also gain 2 temporary hit points.
+### Flame Walker
+*Prerequisite: 5th level*
 
-You can use this invocation to heal a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+You and any equipment you are wearing or carrying are immune to the damage dealt by nonmagical fire, and you can breathe ashes, smoke, and the stinking cloud spell without any negative effects. This can't prevent damage dealt by traps or creatures, such as the breath weapon of a red dragon or the blast of a fire cannon.
+
+### Focused Regeneration
+*Prerequisite: 15th level, Cursed Regeneration invocation*
+
+Whenever you finish a short rest, you can expend two of your warlock spell slots to cast regenerate on yourself without needing components, but the spell only restores hit points while your Cursed Regeneration functions. 
+
+Once you use this invocation, you must finish a long rest before you can use it again.
 
 ### Gestalt Mindlink
 *Prerequisite: 9th level; Great Old One Patron*
@@ -1056,6 +1102,17 @@ You can cast the new [glamour veil](../../Magic/Spells/glamour-veil.md) spell wi
 
 In addition to Touch spells, you can cast spells that conjure, summon, or create another creature (such as conjure animals) through the familiar summoned by your Pact of the Chain feature as if the familiar was you.
 
+### Heavenly Bolts
+When you deal lightning damage to a creature using a warlock spell or feature, you ignore resistance to lightning damage unless the creature also has resistance or immunity to radiant damage, and you treat vulnerability to radiant damage as vulnerability to both damage types.
+
+### Howl of Terror
+*Prerequisite: 9th levei Power of the Moon invocation*
+
+You gain one extra use of your Cursed Shapechanger feature's terrifying sound, which you regain each time you finish a long rest. If you are in moonlight when you release the sound, the range increases to 120 feet and creatures within 15 feet of you that can also see you make the saving throw with disadvantage.
+
+### Hush of Winter
+When you deal cold damage to a creature using a warlock spell or feature, you can force the target to make a Wisdom saving throw. On a failed save, the target is deafened and can't speak until the end of your next turn. Once you use this invocation, you must finish a long rest before you can use it again.
+
 ### Lunar Transformation
 *Prerequisite: Power of the Moon invocation*
 
@@ -1065,6 +1122,46 @@ Once you gain these temporary hit points, you can't gain them again until you fi
 
 ### Maddening Poison
 When you deal poison damage to a creature using a warlock spell or feature, you ignore resistance to poison damage unless the creature has resistance or immunity to psychic damage, and you treat vulnerability to psychic damage as vulnerability to both damage types.
+
+### Minions of Darkness
+*Prerequisite: 5th level*
+
+You can cast [shadow spies](../../Magic/Spells/shadow-spies.md) using a warlock spell slot. Once you use this invocation, you must finish a long rest before you can use it again.
+
+If you have the Pact of the Cauldron (from Legends of Prestige & Prowess), you can use your magic cauldron as the material component for the spell.
+
+### Mirror World Summoning
+*Prerequisite: 18th level; Archfey or Enigma Patron*
+
+You can expend the 9th-level use of your Mystic Arcanum to cast [duplication](../../Magic/Spells/duplication.md).
+
+### Noxious Fumes
+When you deal acid damage to a creature using a warlock spell or feature, you can force the target to make a Constitution saving throw. On a failed save, the target is poisoned until the end of its next turn. Once you use this invocation, you must finish a long rest before you can use it again.
+
+### Perchance to Dream
+*Prerequisite: 15th level, Archfey Patron or Hag's Heritage invocation*
+
+You can expend the 8th-level use of your Mystic Arcanum to cast [sandman's slumber](../../Magic/Spells/sandmans-slumber.md).
+
+### Phantom Bargain
+*Prerequisite: 9th level*
+
+You can cast [spectral calling](../../Magic/Spells/spectral-calling.md) using a warlock spell slot. Once you use this invocation, you must finish a long rest before you can use it again.
+
+### Plaguebearer
+*Prerequisite: 12th levei Progenitor Patron*
+
+When you hit a creature with a natural weapon granted by your Cursed Shapechanger form, you can use your reaction to expend a warlock spell slot to cast [contagion](../../Magic/Spells/contagion.md) upon the target, requiring no components.
+
+Once you use this invocation, you must finish a long rest before you can use it again.
+
+### Plague Herald
+*Prerequisite: 18th level; Celestial or Undead Patron or Hag's Heritage invocation*
+
+You can expend the 9th-level use of your Mystic Arcanum to cast [pestilence](../../Magic/Spells/pestilence.md).
+
+### Prismatic Blaze
+When you deal fire damage to a creature that isn't blinded using a warlock spell or feature, you can force the target to make a Wisdom saving throw. On a failed save, the target becomes charmed until the end of its next turn. While charmed in this way, the target is incapacitated and has a speed of 0. The effect ends if the target takes any additional damage or if someone else uses an action to shake it out of its stupor. Once you use this invocation, you must finish a long rest before you can use it again.
 
 ### Psychic Convulsion
 When you deal psychic damage to a creature using a warlock spell or feature, you can force the target to make a Constitution saving throw. On a failed save, the target drops whatever it is holding and is restrained until the start of your next turn.
@@ -1077,6 +1174,63 @@ Once you use this invocation, you must finish a long rest before you can use it 
 Your Book of Shadows holds the stories of your patron's children who came before you. Before you make an ability check, you can spend 1 minute studying your book to see if it contains relevant stories. Roll 1d6. On a 6, you find ancient inspiration in the tome, and gain advantage on the check. You cannot use this invocation more than once for the same check.
 
 Once you gain this advantage, you must finish a long rest before you can gain it again.
+
+### Reins of the Nightmare
+*Prerequisite: 15th level, Fiend or Hexblade Patron*
+
+You can cast find greater steed using a warlock spell slot, but when you do, you summon a [nightmare](../../Creatures/Extraplanar/Nightmare.md) instead of the normal options. It is always a fiend, and the steed disappears after 1 hour.
+
+Once you use this invocation, you must finish a long rest before you can use it again.
+
+### Release from the Skull
+*Prerequisite: 12th level; Pact of the Skull feature*
+
+While you are holding your magic skull, you can use your action to cast [spectral calling](../../Magic/Spells/spectral-calling.md) without expending a spell slot or requiring material components. When cast in this way, the spell summons the spirit of the skull, which is friendly to you and your allies. While the spirit is released, it uses the statistics for a psychic remnant (pg. 175). When the spell ends or the spirit is reduced to 0 hit points, it returns back inside the skull and is unharmed.
+
+Once you use this invocation, you must finish a long rest before you can use it again.
+
+### Ritual of the Damned
+*Prerequisite: 18th level; Fiend or Undead Patron*
+
+You can expend the 9th-level use of your Mystic Arcanum to cast [awaken the dead](../../Magic/Spells/awaken-the-dead.md).
+
+### Sanguine Vigor
+*Prerequisite: 12th level; Pact of the Blood feature*
+
+You have advantage on saving throws against poison or disease. In addition, while you have no more than half of your hit points remaining, you also have advantage on Constitution saving throws.
+
+### Scent of Corruption
+*Prerequisite: 9th level; Defiler Patron*
+
+You can cast detect poison and disease at-will, without expending a spell slot or requiring components.
+
+### Scorching Radiance
+When you deal radiant damage to a creature using a warlock spell or feature, you ignore resistance to radiant damage unless the creature also has resistance or immunity to fire damage, and you treat vulnerability to fire damage as vulnerability to both damage types.
+
+### Slumber Puppet
+*Prerequisite: 5th level*
+
+You can cast [telekinesis](../../Magic/Spells/telekinesis.md) at-will, without expending a spell slot, but you can only target unconscious creatures with the spell when you cast it in this way..
+
+### Speech of the Far Realm
+*Prerequisite: 15th level; Enigma or Great Old One Patron*
+
+You can expend the 8th-level use of your Mystic Arcanum to cast [telepathy](../../Magic/Spells/telepathy.md).
+
+### Star of Darkness
+*Prerequisite: 18th level; Fiend or Great Old One Patron*
+
+You can expend the 9th-level use of your Mystic Arcanum to cast [gravity well](../../Magic/Spells/gravity-well.md).
+
+### Strength from Hunger
+*Prerequisite: 9th levei Vampiric Aspect invocation*
+
+When you hit with an attack using your claws, you can choose to grapple the target instead of dealing damage. Also, when you hit a creature you have grappled with an attack using your bite, you can expend a warlock spell slot to add ld6 bonus necrotic damage per slot level to the attack. If the target of the attack is a valid target for your Dark Consumption feature, you also regain hit points equal to the necrotic damage dealt.
+
+### Stretching Shadow
+*Prerequisite: 12th level; Pact of the Shadow feature*
+
+The range of each your warlock spells of 1st-level or higher is increased by 30 feet when you're in an area of dim light or darkness and your shadow servant is in your space. This doesn't increase the range of Touch spells or the reach of melee spell attacks.
 
 ### Stupefying Toxin
 When you deal poison damage to a creature using a warlock spell or feature, you can force the target to make a Wisdom saving throw. On a failed save, the target has disadvantage on ability checks and attack rolls until the start of your next turn. While a creature is affected by this invocation and it is poisoned, it is also incapacitated.
@@ -1091,138 +1245,20 @@ While wearing your talisman, a creature gains all the benefits of your Beast of 
 ### Twilight of the Soul
 When you deal necrotic damage to a creature using a warlock spell or feature, you ignore resistance to necrotic damage unless the creature has resistance or immunity to radiant damage, and you treat vulnerability to radiant damage as vulnerability to both damage types.
 
+### Umbra Flame
+When you deal fire damage to a creature using a warlock spell or feature, you ignore resistance to fire damage unless the creature also has resistance or immunity to necrotic damage, and you treat vulnerability to necrotic damage as vulnerability to both damage types.
+
 ### Unholy Aspect
 You learn the [thaumaturgy](../../Magic/Spells/thaumaturgy.md) spell, it is a warlock spell for you, and it doesn't count against the number of cantrips you can learn. Also, you do not need to provide any components when you cast [thaumaturgy](../../Magic/Spells/thaumaturgy.md), and you can cast it with a casting time of 1 bonus action.
 
-### Howl of Terror
-*Prerequisite: 9th levei Power of the Moon invocation*
+### Vampiric Magic
+*Prerequisite: 7th level; Vampiric Aspect invocation*
 
-You gain one extra use of your Cursed Shapechanger feature's terrifying sound, which you regain each time you finish a long rest. If you are in moonlight when you release the sound, the range increases to 120 feet and creatures within 15 feet of you that can also see you make the saving throw with disadvantage.
+Choose two spells you know as a warlock. Those spells become Blood spells for you, and you can choose to change their names accordingly (such as changing hellish rebuke to "hellish bloodspray", or changing hex to "blood hex"). Whenever you gain a warlock leveL you can choose to replace one of these two spells with a different warlock spell you know. The old spell returns to its original form, and the new spell becomes a blood spell following the same rules.
 
-### Phantom Bargain
-*Prerequisite: 9th level*
+In addition, when you deal damage to a creature that has blood using the eldritch blast can trip or a Blood spell, you can consume a portion of its spilt blood and regain hit points equal to your Charisma modifier (minimum 1 hit point). The next time you cast a blood spell before the end of your next turn, you also gain 2 temporary hit points.
 
-You can cast [spectral calling](../../Magic/Spells/spectral-calling.md) using a warlock spell slot. Once you use this invocation, you must finish a long rest before you can use it again.
-
-### Scent of Corruption
-*Prerequisite: 9th level; Defiler Patron*
-
-You can cast detect poison and disease at-will, without expending a spell slot or requiring components.
-
-### Strength from Hunger
-*Prerequisite: 9th levei Vampiric Aspect invocation*
-
-When you hit with an attack using your claws, you can choose to grapple the target instead of dealing damage. Also, when you hit a creature you have grappled with an attack using your bite, you can expend a warlock spell slot to add ld6 bonus necrotic damage per slot level to the attack. If the target of the attack is a valid target for your Dark Consumption feature, you also regain hit points equal to the necrotic damage dealt.
-
-### Fang of the Malison
-*Prerequisite: 12th level Defiler Patron, Pact of the Blade feature*
-
-You can create a curved dagger using your Pact of the Blade feature. This weapon deals an extra 1d4 poison damage on a hit. When you hit a creature with it, you can expend a warlock spell slot to deal 1d8 bonus poison damage per spell level to the target and cause it to become poisoned until the start of your next turn.
-
-### Plaguebearer
-*Prerequisite: 12th levei Progenitor Patron*
-
-When you hit a creature with a natural weapon granted by your Cursed Shapechanger form, you can use your reaction to expend a warlock spell slot to cast [contagion](../../Magic/Spells/contagion.md) upon the target, requiring no components.
-
-Once you use this invocation, you must finish a long rest before you can use it again.
-
-### Release from the Skull
-*Prerequisite: 12th level; Pact of the Skull feature*
-
-While you are holding your magic skull, you can use your action to cast [spectral calling](../../Magic/Spells/spectral-calling.md) without expending a spell slot or requiring material components. When cast in this way, the spell summons the spirit of the skull, which is friendly to you and your allies. While the spirit is released, it uses the statistics for a psychic remnant (pg. 175). When the spell ends or the spirit is reduced to 0 hit points, it returns back inside the skull and is unharmed.
-
-Once you use this invocation, you must finish a long rest before you can use it again.
-
-### Sanguine Vigor
-*Prerequisite: 12th level; Pact of the Blood feature*
-
-You have advantage on saving throws against poison or disease. In addition, while you have no more than half of your hit points remaining, you also have advantage on Constitution saving throws.
-
-### Stretching Shadow
-*Prerequisite: 12th level; Pact of the Shadow feature*
-
-The range of each your warlock spells of 1st-level or higher is increased by 30 feet when you're in an area of dim light or darkness and your shadow servant is in your space. This doesn't increase the range of Touch spells or the reach of melee spell attacks.
-
-### Enchanted Slumber
-*Prerequisite: 15th level*
-
-You can expend the 7th-level use of your Mystic Arcanum to cast [suspend animation](../../Magic/Spells/suspend-animation.md).
-
-### Focused Regeneration
-*Prerequisite: 15th level, Cursed Regeneration invocation*
-
-Whenever you finish a short rest, you can expend two of your warlock spell slots to cast regenerate on yourself without needing components, but the spell only restores hit points while your Cursed Regeneration functions. 
-
-Once you use this invocation, you must finish a long rest before you can use it again.
-
-### Perchance to Dream
-*Prerequisite: 15th level, Archfey Patron or Hag's Heritage invocation*
-
-You can expend the 8th-level use of your Mystic Arcanum to cast [sandman's slumber](../../Magic/Spells/sandmans-slumber.md).
-
-### Reins of the Nightmare
-*Prerequisite: 15th level, Fiend or Hexblade Patron*
-
-You can cast find greater steed using a warlock spell slot, but when you do, you summon a [nightmare](../../Creatures/Extraplanar/Nightmare.md) instead of the normal options. It is always a fiend, and the steed disappears after 1 hour.
-
-Once you use this invocation, you must finish a long rest before you can use it again.
-
-### Speech of the Far Realm
-*Prerequisite: 15th level; Enigma or Great Old One Patron*
-
-You can expend the 8th-level use of your Mystic Arcanum to cast [telepathy](../../Magic/Spells/telepathy.md).
-
-### Beckon the Darkness
-*Prerequisite: 18th level; Fiend or Hexblade Patron*
-
-You can expend the 9th-level use of your Mystic Arcanum to cast [midnight](../../Magic/Spells/midnight.md).
-
-### Mirror World Summoning
-*Prerequisite: 18th level; Archfey or Enigma Patron*
-
-You can expend the 9th-level use of your Mystic Arcanum to cast [duplication](../../Magic/Spells/duplication.md).
-
-### Plague Herald
-*Prerequisite: 18th level; Celestial or Undead Patron or Hag's Heritage invocation*
-
-You can expend the 9th-level use of your Mystic Arcanum to cast [pestilence](../../Magic/Spells/pestilence.md).
-
-### Ritual of the Damned
-*Prerequisite: 18th level; Fiend or Undead Patron*
-
-You can expend the 9th-level use of your Mystic Arcanum to cast [awaken the dead](../../Magic/Spells/awaken-the-dead.md).
-
-### Deathly Chills
-When you deal cold damage to a creature using a warlock spell or feature, you ignore resistance to cold damage unless the creature also has resistance or immunity to necrotic damage, and you treat vulnerability to necrotic damage as vulnerability to both damage types.
-
-### Eldritch Digestion
-When you deal acid damage to a creature using a warlock spell or feature, you ignore resistance to acid damage unless the creature also has resistance or immunity to force damage, and you treat vulnerability to force damage as vulnerability to both damage types.
-
-### Elemental Attunement
-When you finish a long rest, you choose one of four elements below to attune to. While attuned to an element, you know an associated cantrip as a warlock spelL and it doesn't count against the number of cantrips you can know as a warlock. You gain the following benefits while attuned to each element:
-
-* **Air.** You know the [gust](../../Magic/Spells/gust.md) cantrip, and you can hold your breath for twice as long.
-* **Earth.** You know the [mold earth](../../Magic/Spells/mold-earth.md) cantrip, and you have advantage on ability checks made to climb earth or stone.
-* **Fire.** You know the [control flames](../../Magic/Spells/control-flames.md) cantrip, and you have advantage on saving throws made to resist the effects of extreme heat.
-* **Water.** You know the [shape water](../../Magic/Spells/shape-water.md) cantrip, and you have advantage on saving throws made to resist the effects of extreme cold.
-
-### Heavenly Bolts
-When you deal lightning damage to a creature using a warlock spell or feature, you ignore resistance to lightning damage unless the creature also has resistance or immunity to radiant damage, and you treat vulnerability to radiant damage as vulnerability to both damage types.
-
-### Hush of Winter
-When you deal cold damage to a creature using a warlock spell or feature, you can force the target to make a Wisdom saving throw. On a failed save, the target is deafened and can't speak until the end of your next turn. Once you use this invocation, you must finish a long rest before you can use it again.
-
-### Noxious Fumes
-When you deal acid damage to a creature using a warlock spell or feature, you can force the target to make a Constitution saving throw. On a failed save, the target is poisoned until the end of its next turn. Once you use this invocation, you must finish a long rest before you can use it again.
-
-### Prismatic Blaze
-When you deal fire damage to a creature that isn't blinded using a warlock spell or feature, you can force the target to make a Wisdom saving throw. On a failed save, the target becomes charmed until the end of its next turn. While charmed in this way, the target is incapacitated and has a speed of 0. The effect ends if the target takes any additional damage or if someone else uses an action to shake it out of its stupor. Once you use this invocation, you must finish a long rest before you can use it again.
-
-### Scorching Radiance
-When you deal radiant damage to a creature using a warlock spell or feature, you ignore resistance to radiant damage unless the creature also has resistance or immunity to fire damage, and you treat vulnerability to fire damage as vulnerability to both damage types.
-
-### Umbra Flame
-When you deal fire damage to a creature using a warlock spell or feature, you ignore resistance to fire damage unless the creature also has resistance or immunity to necrotic damage, and you treat vulnerability to necrotic damage as vulnerability to both damage types.
+You can use this invocation to heal a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ### Voice From Beyond
 When you deal thunder damage to a creature using a warlock spell or feature, you ignore resistance to thunder damage unless the creature also has resistance or immunity to psychic damage, and you treat vulnerability to psychic damage as vulnerability to both damage types.
@@ -1235,26 +1271,6 @@ When you deal thunder damage to a creature using a warlock spell or feature, you
 
 ### Withering Lightning
 When you deal lightning damage to a creature using a warlock spell or feature, you can force the target to make a Constitution saving throw. On a failed save, the target's hit point maximum is reduced for 1 minute by an amount equal to the lightning damage it took. Any effect that removes a disease allows the target's hit point maximum to return to normal before that time passes. Once you use this invocation, you must finish a long rest before you can use it again.
-
-STAR OF DARKNESS
-Prerequisite: 18th leveZ Fiend or Great Old One Patron
-
-You can expend the 9th-level use of your Mystic Arcanum to cast [gravity well](../../Magic/Spells/gravity-well.md).
-
-AMBASSADOR OF THE DEPTHS
-Prerequisite: 5th level
-
-You can expend a warlock spell slot to cast [dive](../../Magic/Spells/dive.md). While the spell affects a target, that target also has darkvision that extends out to a range of 120 feet.
-
-DESERT ROAMER
-Prerequisite: 5th level
-
-You are adapted to both hot climates and cold climates, and you don't need to drink water to survive.
-
-FLAME WALKER
-Prerequisite: 5th level
-
-You and any equipment you are wearing or carrying are immune to the damage dealt by nonmagical fire, and you can breathe ashes, smoke, and the stinking cloud spell without any negative effects. This can't prevent damage dealt by traps or creatures, such as the breath weapon of a red dragon or the blast of a fire cannon.
 
 WEIGHTLESSNESS
 Prerequisite: 5th level
@@ -1336,65 +1352,68 @@ You can expend the 8th-level use of your Mystic Arcanum to cast the new animate 
 HELLISH BLOOD
 Prerequisite: 15th levei Fiend Patron or Pyromancer Feat
 
-You are constantly affected by a lesser form of fire shield
-(warm option) that deals only ld6 damage. You can also
-expend a warlock spell slot to cast fire shield (as warm
-option only) on yourself as a bonus action, to increase
-the effect to that of a fire shield that deals 2d8 + ld6 fire
-damage for the normal duration.
+You are constantly affected by a lesser form of fire shield (warm option) that deals only ld6 damage. You can also expend a warlock spell slot to cast fire shield (as warm option only) on yourself as a bonus action, to increase the effect to that of a fire shield that deals 2d8 + 1d6 fire damage for the normal duration.
 
 LOST TO THE COSMOS
 Prerequisite: 15th level
-You can cast nondetection using a warlock spell slot
-without requiring components, but you can only target
-yourself when you do so.
+
+You can cast nondetection using a warlock spell slot without requiring components, but you can only target yourself when you do so.
 
 PULL OF THE DARK
-Prerequisite: 15th levei Fathomless Patron, Eldritch Blast cantrip
-When you hit a creature with eldritch blast more than
-once in a turn, you can have it make a Strength saving
-throw. On a failed saving throw, the creature is knocked
-prone or pulled up to 10 feet toward you (your choice).
+Prerequisite: 15th level; Fathomless Patron, Eldritch Blast cantrip
+
+When you hit a creature with eldritch blast more than once in a turn, you can have it make a Strength saving throw. On a failed saving throw, the creature is knocked prone or pulled up to 10 feet toward you (your choice).
 
 WAVE CALLER
-Prerequisite: 15th levd Any Water-themed Patron or Hydromancer feat
+Prerequisite: 15th level; Any Water-themed Patron or Hydromancer feat
+
 You can cast control water at-will, expending no spell slots and requiring only verbal components.
 
 CONSIGN TO THE EARTH
-Prerequisite: 18th levei Any Earth-themed or Grave-themed Patron
-You can expend the 9th-level use of your Mystic Arcanum to cast the earth whelm spell
+Prerequisite: 18th level; Any Earth-themed or Grave-themed Patron
+
+You can expend the 9th-level use of your Mystic Arcanum to cast the earth whelm spell.
 
 FOG FORM
-Prerequisite: 18th levei Any Water-themed Patron
-You can expend the 9th-level use of your Mystic Arcanum to cast the ordainment of mist spell
+Prerequisite: 18th level; Any Water-themed Patron
+
+You can expend the 9th-level use of your Mystic Arcanum to cast the ordainment of mist spell.
 
 MAGMA FORM
-Prerequisite: 18th levei Any Fire-themed Patron
-You can expend the 9th-level use of your Mystic Arcanum to cast the ordainment of lava spell
+Prerequisite: 18th level; Any Fire-themed Patron
+
+You can expend the 9th-level use of your Mystic Arcanum to cast the ordainment of lava spell.
 
 STEEL FORM
-Prerequisite: 18th levd Any Weapon-themed Patron
-You can expend the 9th-level use of your Mystic Arcanum to cast the ordainment of metal spell
+Prerequisite: 18th level; Any Weapon-themed Patron
+
+You can expend the 9th-level use of your Mystic Arcanum to cast the ordainment of metal spell.
 
 PEERS OF THE PATRON
-Prerequisite: 18th levei Archfey Patron or any Elemental-themed Patron
-You can expend the 9th-level use of your Mystic Arcanum to cast the summon primal spirit spell
+Prerequisite: 18th level; Archfey Patron or any Elemental-themed Patron
+
+You can expend the 9th-level use of your Mystic Arcanum to cast the summon primal spirit spell.
 
 TAME THE WIND
-Prerequisite: 18th levei Any Air-themed or Storm-themed Patron
-You can expend the 9th-level use of your Mystic Arcanum to cast the wind wake spell
+Prerequisite: 18th level; Any Air-themed or Storm-themed Patron
+
+You can expend the 9th-level use of your Mystic Arcanum to cast the wind wake spell.
 
 THOUSAND-YEAR FLOOD
-Prerequisite: 18th levei Any Water-themed Patron
-You can expend the 9th-level use of your Mystic Arcanum to cast the grand flood spell
+Prerequisite: 18th level; Any Water-themed Patron
+
+You can expend the 9th-level use of your Mystic Arcanum to cast the grand flood spell.
 
 VOLCANIC HERALD
-Prerequisite: 18th levei Any Fire-themed Patron
-You can expend the 9th-level use of your Mystic Arcanum to cast the caldera spell
+Prerequisite: 18th level; Any Fire-themed Patron
+
+You can expend the 9th-level use of your Mystic Arcanum to cast the caldera spell.
 
 ```
 invocations = {
     'Agonizing Blast': [agonizingblast, agonizingblast_prereq],
+    'Ally of Flame': [allyofflame, allyofflame_prereq],
+    'Ambassador of the Depths': [ambassadorofthedepths, ambassadorofthedepths_prereq],
     'Arcane Specialty': [arcanespecialty, arcanespecialty_prereq],
     'Armor of Shadows': [armorofshadows, armorofshadows_prereq],
     'Ascendent Step': [ascendantstep, ascendantstep_prereq],
@@ -1432,6 +1451,7 @@ invocations = {
     'Grasping Shadow': [graspingshadow, graspingshadow_prereq],
     "Hag's Heritage": [hagsheritage, hagsheritage_prereq],
     'Improved Pact Weapon': [improvedpactweapon, improvedpactweapon_prereq],
+    'Increased Vitality': [increasedvitality, increasedvitality_prereq],
     'Investment of the Chain Master': [investmentofthechainmaster, investmentofthechainmaster_prereq],
     'Ironfell Blade': [ironfellblade, ironfellblade_prereq],
     'Iron Sky Starfall': [ironskystarfall, ironskystarfall_prereq],
@@ -1461,6 +1481,7 @@ invocations = {
     'Tomb of Levistus': [tomboflevistus, tomboflevistus_prereq],
     "Tricker's Escape": [trickstersescape, trickstersescape_prereq],
     'Vampiric Aspect': [vampiricaspect, vampiricaspect_prereq],
+    'Venomous Familiar': [venomousfamiliar, venomousfamiliar_prereq],
     'Visions of Distant Realms': [visionsofdistantrealms, visionsofdistantrealms_prereq],
     'Voices of the Chain Master': [voicesofthechainmaster, voicesofthechainmaster_prereq],
     'Whispers of the Grave': [whispersofthegrave, whispersofthegrave_prereq],

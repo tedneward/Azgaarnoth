@@ -18,7 +18,7 @@ d6| Flaw
 
 ```
 name = 'Undying Light'
-description = "***Otherworldly Patron: The Undying Light.*** Your patron is not a specific entity, but the energy that radiates from the Positive Plane. Your pact allows you to experience the barest touch of the raw stuff of life that powers the multiverse. Anything more, and you would be instantly incinerated by its energy. Contact with the Positive Plane causes subtle changes to your behavior and beliefs. You are driven to bring light to dark places, to annihilate undead creatures, and to protect all living things. At the same time, you crave the light and find total darkness a suffocating experience akin to drowning.
+description = "***Otherworldly Patron: The Undying Light.*** Your patron is not a specific entity, but the energy that radiates from the Positive Plane. Your pact allows you to experience the barest touch of the raw stuff of life that powers the multiverse. Anything more, and you would be instantly incinerated by its energy. Contact with the Positive Plane causes subtle changes to your behavior and beliefs. You are driven to bring light to dark places, to annihilate undead creatures, and to protect all living things. At the same time, you crave the light and find total darkness a suffocating experience akin to drowning."
 ```
 
 ## Expanded Spell List
@@ -40,7 +40,7 @@ def level1(npc):
         'You have a nervous compulsion to keep a bright light in even the barest shadow.',
         'You have a compulsion to enter and illuminate dark areas.',
         'You have an overwhelming hatred of undead creatures.',
-        'You fidget and are irritable when you can't see the sun.',
+        "You fidget and are irritable when you can't see the sun.",
         'In a dark area, you always carry a lit torch or lantern. Putting it down is an unbearable thought.'
     ]
     npc.defer(lambda npc: npc.description.append(f"***Flaw: Undying Light.*** {randomlist[flaws]}"))

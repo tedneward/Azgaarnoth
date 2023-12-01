@@ -13,7 +13,7 @@ You can reach out to spirits to guide you and others. You learn the [guidance](.
 
 ```
 def level3(npc):
-    npc.traits.append("***Guiding Whispers.*** The [guidance](../../Magic/Spells/guidance.md) cantripdoesn't count against the number of bard cantrips you know, and a range of 60 feet when you cast it.")
+    npc.traits.append("***Guiding Whispers.*** The [guidance](../../Magic/Spells/guidance.md) cantrip doesn't count against the number of bard cantrips you know, and a range of 60 feet when you cast it.")
     npc.spellcasting['Bard'].cantripsknown.append('guidance')
 ```
 
