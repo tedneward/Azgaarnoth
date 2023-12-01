@@ -1,7 +1,7 @@
 # Divine Domain: Protection
 The protection domain is the purview of deities who charge their followers to shield the weak from the strong. The gods’ faithful dwell in villages and towns on the borderlands, where they help bolster defenses and seek out evils to defeat. These gods believe that a strong shield and a suit of armor is the best defense against evil, second only to a stout mace on hand to respond to any attacks in kind.
 
-This is a domain available to followers of the [Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric), the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Sor](../../Religions/Trinitarian.md#sor), [Ehlonna](../../Religions/Pantheon/Ehlonna.md), [Lathander](../../Religions/Pantheon/Lathander.md), [Lugh](../../Religions/Pantheon/Lugh.md), ...
+This is a domain available to followers of the [Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric), the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Sor](../../Religions/Trinitarian.md#sor), [Bahamut](../../Religions/Pantheon/Bahamut.md), [Ehlonna](../../Religions/Pantheon/Ehlonna.md), [Lathander](../../Religions/Pantheon/Lathander.md), [Lugh](../../Religions/Pantheon/Lugh.md), ...
 
 ```
 name = 'Protection'

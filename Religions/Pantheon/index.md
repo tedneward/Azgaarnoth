@@ -5,7 +5,7 @@ Each member of the Pantheon has sway over one or more particular domains, and wh
 
 Among the known gods/goddesses of the Pantheon (and their associated domains) are:
 
-**Gods of Azgaarnoth**
+**Gods of Azgaarnoth** (detail pages trump this summary in case of conflict)
 
 Deity | Description |Alignment | Domains | Symbol
 ------|-------------|----------|---------|--------

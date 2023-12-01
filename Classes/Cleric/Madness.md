@@ -1,9 +1,7 @@
 # Divine Domain: Madness
 The Madness Domain celebrates the variety of shapes the mind can take, reveling in the truth and freedom of what others deride as insanity. The gods of madness seek to spread their gift and their perspective to all the mortal races and beyond, to disabuse fools of their fool ideas of "reality" and wake the sleeping masses from their idyllic dreams.
 
-Most gods of madness are considered Evil and in some settings they are also fiends or undead, such as a demon lord of chaos and insanity or a lich god of deranged seekers who leave the world of mortal thought behind. Some are simply misunderstood divinities that seek to spread their unique and mind-bending perspective on reality, only called "mad" by the ignorant fools who know little of their revelations. These gods rarely speak of things like hope or peace, and often espouse a pessimistic or even paranoid view of creation.
-
-This domain is available to [Trinitarians who worship Leriya](../../Religions/Trinitarian.md#leriya), ...
+This domain is available to [Trinitarians who worship Leriya](../../Religions/Trinitarian.md#leriya), [the Traceless](../../Religions/Pantheon/Traceless.md), ...
 
 **Madness Domain Spells**
 
