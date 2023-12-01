@@ -12,8 +12,17 @@ The most obvious of these disputes is the dispute between the Prophet [Alalihat]
 ## Zalabasan Sect
 
 
+## Almalzish Protectorate
+
+
+## *al'maeran* Heresy
+Certain clerics of the Al'Uma feel the call of the Eldar, but do not feel compelled to either the Alalihatian or Zalabasan traditions, but instead feel a deep compulsion to the sea. These *al'maeran* bring the veneration of the Eldar to sailing vessels, but also bring a strong back, willing hands, and a deep abiding love of that feeling when the wind fills the sails and the surf comes crashing over the bow.
+
+"True" Al'Uman clergy of the other three traditions look down upon the *al'maeran* priests, but cannot avoid the truth that *al'maeran* prayers yield divine favor every bit as much as Alalihatian or Zalabasan prayers do. The Almalzish priests do not understand the *al'maeran* need to wander, but heartily welcome them (and their cargoes) into town when they arrive--so long as they leave again in a few days.
+
+
 ## Game notes
-A cleric of the Al'Uman religion is always of either the Alalihatian, Alamalzish, or Zabalasan traditions; there are no other traditions officially recognized within Al'Uma (although apostasy is always possible, it's up the GM whether apostate Al'Uman clerics are actually receiving spells, and from whom--or what). Clerics of the *al'maeran* tradition are tolerated, but not welcomed, among the other traditions.
+A cleric of the Al'Uman religion is always of either the Alalihatian, Almalzish, *al'maeran*, or Zabalasan traditions; there are no other traditions within Al'Uma (although apostasy is always possible, it's up the GM whether apostate Al'Uman clerics are actually receiving spells, and from whom--or what). While Pantheonic and Trinitarian theology is known to the Al'Uma (and tolerated--barely), Kaevarians are definitely unwelcome, and more than one Kaevarian Church founded in an Al'Uman city has found itself burned to the groun by mysteriously-garbed strangers speaking in distinctly local accents.
 
 ### Alalihatian Cleric
 
@@ -25,7 +34,7 @@ A cleric of the Al'Uman religion is always of either the Alalihatian, Alamalzish
 
 ### Almalzish Cleric
 
-**Domain (choose one):** [Arcana](../Classes/Cleric/Arcana.md), [Knowledge](../Classes/Cleric/Knowledge.md), [Life](../Classes/Cleric/Life.md), [Light](../Classes/Cleric/Light.md), [Nature](../Classes/Cleric/Nature.md), [Protection](../Classes/Cleric/Protection.md), [Shadow](../Classes/Cleric/Shadow.md), [Unity](../Classes/Cleric/Unity.md), [Zeal](../Classes/Cleric/Zeal.md).
+**Domain (choose one):** [Arcana](../Classes/Cleric/Arcana.md), [Knowledge](../Classes/Cleric/Knowledge.md), [Life](../Classes/Cleric/Life.md), [Light](../Classes/Cleric/Light.md), [Nature](../Classes/Cleric/Nature.md), [Protection](../Classes/Cleric/Protection.md), [Shadow](../Classes/Cleric/Shadow.md), [Unity](../Classes/Cleric/Unity.md).
 
 **Preferred equipment:** mace, leather armor, light crossbow, shield
 
@@ -33,7 +42,7 @@ A cleric of the Al'Uman religion is always of either the Alalihatian, Alamalzish
 
 ### Zabalasan Cleric
 
-**Domain (choose one):** [War](../Classes/Cleric/War.md), [Healing](../Classes/Cleric/Healing.md), [Night](../Classes/Cleric/Night.md), [Zeal](../Classes/Cleric/Zeal.md)
+**Domain (choose one):** [War](../Classes/Cleric/War.md), [Healing](../Classes/Cleric/Healing.md), [Night](../Classes/Cleric/Night.md), [Song](../Classes/Cleric/Song.md), [Zeal](../Classes/Cleric/Zeal.md)
 
 **Preferred equipment:** mace, scale mail or chain mail, light crossbow, shield
 
