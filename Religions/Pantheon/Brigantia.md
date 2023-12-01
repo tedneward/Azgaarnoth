@@ -1,5 +1,5 @@
 # Brigantia
-Brigantia is the most powerful female deity of the Pantheon. She is a god of magic and fertility, a patron of marriage, and a god of motherhood. Her dominion over water represents the ancient rivers that are the source of fertility and life.
+Brigantia is a god of magic and fertility, a patron of marriage, and a god of motherhood. Her dominion over water represents the ancient rivers that are the source of fertility and life.
 
 Brigantia is a woman of even temper and great dedication. She is a regal and noble deity who is eager to share the knowledge of the gods with humanity and often goes to great lengths to introduce her worshipers to new concepts and ideas. In many cases, these new ideas take the form of magical spells. Brigantia often finds the antics of mortals amusing, but she is a kind, understanding goddess who cares greatly for her worshipers and all the peoples of Azgaarnoth. Her worshipers can be found all over Azgaarnoth, including a growing following among the traditional clans within Yithi, Zhi, and Tragekia, as well as the Lirian and western nations.
 

@@ -6,7 +6,7 @@ Auril, also known as the Frostmaiden, is a deity of cold and evil. She is a fick
 **Symbol:** A white snowflake in a gray diamond (a heraldic lozenge) with a white border
 
 ## Clerical details
-**Domains:** [Nature](../../Classes/Cleric/Nature.md), [Tempest](../../Classes/Cleric/Tempest.md), [Cold](../../Classes/Cleric/Cold.md)
+**Domains:** [Cold](../../Classes/Cleric/Cold.md), [Nature](../../Classes/Cleric/Nature.md), [Tempest](../../Classes/Cleric/Tempest.md), 
 
 **Weapon:** Battleaxe
 

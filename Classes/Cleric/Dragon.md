@@ -1,7 +1,7 @@
 # Divine Domain: Dragon
 Within certain parts of Azgaarnoth, reverence for the dragons (both metallic and chromatic) has slipped into outright deification, and for whatever reason, their prayers are being answered.
 
-This domain is available to followers of [Bahamut](../../Religions/Pantheon/Bahamut.md), [Tiamat](../../Religions/Pantheon/Tiamat.md).
+This domain is available to followers of [Bahamut](../../Religions/Pantheon/Bahamut.md) and [Tiamat](../../Religions/Pantheon/Tiamat.md).
 
 ```
 name = 'Dragon'

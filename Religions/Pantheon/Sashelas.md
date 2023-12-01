@@ -1,7 +1,7 @@
 # Pantheon: Sashelas
-*Dolphin Prince; Lord of the Undersea; Master of Waves*
+*Dolphin Prince; King of the Seas; Lord of the Undersea; Master of Waves*
 
-Sashelas is the elven god of the Ocean, and the patron deity of aquatic elves, whom he created long ago by modifying the Eldar's land-bound creations. He is also a god of Creation, Knowledge, Beauty, and Magic.
+Sashelas is the elven god of the Ocean, Seas, and Water, and the patron deity of aquatic elves, whom he created long ago by modifying the Eldar's land-bound creations. He is also a god of Creation, Knowledge, Beauty, and Magic.
 
 Sashelas is heavily involved with the lives of the sea peoples and spends most of his time with deities from that realm. He created the sea elves, wishing to see the wisdom and goodness of the elves prevail in the deeper and wilder realms of the sea. He is heavily involved in the constant reshaping of the ocean depths, creating reefs and islands, tinkering with undersea volcanoes and the like.
 
