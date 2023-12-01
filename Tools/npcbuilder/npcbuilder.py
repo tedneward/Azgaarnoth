@@ -916,6 +916,8 @@ class NPC:
         self.actions.sort()
         self.bonusactions.sort()
         self.reactions.sort()
+        self.skills.sort()
+        self.proficiencies.sort()
 
     def getsavingthrows(self):
         results = []

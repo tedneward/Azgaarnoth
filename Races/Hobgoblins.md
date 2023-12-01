@@ -41,8 +41,10 @@ def level0(npc):
 * **Martial Training**. You are proficient with two martial weapons of your choice and with light armor.
 
 ```
-    npc.proficiencies.append('CHOOSE-Martial weapon')
-    npc.proficiencies.append('CHOOSE-Martial weapon')
+    wpn = choose("Choose a martial weapon: ", weapons['martial-melee'] | weapons['martial-ranged'])
+    npc.proficiencies.append(wpn[0])
+    wpn = choose("Choose a martial weapon: ", weapons['martial-melee'] | weapons['martial-ranged'])
+    npc.proficiencies.append(wpn[0])
     for arm in armor['light']:
         npc.proficiencies.append(arm)
 ```

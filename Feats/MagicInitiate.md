@@ -3,4 +3,15 @@ Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two
 
 Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
+```
+name = 'Magic Initiate'
+description = "***Feat: Magic Initiate.*** You understand some of the fundamentals of spellcasting above and beyond any formal training."
+def prereq(npc): return True
+def apply(npc):
+    miclass = choose("Choose a class: ", ['Bard', 'Cleric', 'Druid', 'Sorcerer', 'Warlock', 'Wizard'])
+    ability = 'CHA' if miclass in ['Bard','Sorcerer','Warlock'] else 'WIS' if miclass in ['Cleric', 'Druid'] else 'INT'
 
+    spellcasting = innatecaster(npc, ability, name)
+    spellcasting.maxcantripsknown = 2
+    spellcasting.perday[1] = [f'CHOOSE-1st-level-{miclass}']
+```

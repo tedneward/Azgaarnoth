@@ -15,33 +15,13 @@ Spell Level|Spells
 4th | [dominate beast](../../Magic/Spells/dominate-beast.md), [Evard's black tentacles](../../Magic/Spells/evards-black-tentacles.md)
 5th | [dominate person](../../Magic/Spells/dominate-person.md), [telekinesis](../../Magic/Spells/telekinesis.md)
 
-```
-def level1(npc):
-    def expandedspells(npc):
-        if npc.levels('Warlock') >= 1:
-            npc.pactmagic.spellsknown.append('dissonant whispers')
-            npc.pactmagic.spellsknown.append('tashas hideous laughter')
-        if npc.levels('Warlock') >= 3:
-            npc.pactmagic.spellsknown.append('detect thoughts')
-            npc.pactmagic.spellsknown.append('phantasmal force')
-        if npc.levels('Warlock') >= 5:
-            npc.pactmagic.spellsknown.append('clairvoyance')
-            npc.pactmagic.spellsknown.append('sending')
-        if npc.levels('Warlock') >= 7:
-            npc.pactmagic.spellsknown.append('dominate beast')
-            npc.pactmagic.spellsknown.append('evards black tentacles')
-        if npc.levels('Warlock') >=9:
-            npc.pactmagic.spellsknown.append('dominate person')
-            npc.pactmagic.spellsknown.append('telekinesis')
-    npc.defer(lambda npc: expandedspells(npc) )
-```
-
 ## Awakened Mind
 *1st-level Great Old One feature*
 
 Your alien knowledge gives you the ability to touch the minds of other creatures. You can communicate telepathically with any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
 
 ```
+def level1(npc):
     npc.languages.append("Telepathy (30 ft)")
 
     npc.traits.append("***Expanded Spell List.*** The following are considered warlock spells for you: 1st: {spelllinkify('dissonant whispers')}, {spelllinkify('tashas hideous laughter')}; 2nd: {spelllinkify('detect thoughts')}, {spelllinkify('phantasmal force')}; 3rd: {spelllinkify('clairvoyance')}, {spelllinkify('sending')}, 4th: {spelllinkify('dominate beast')}, {spelllinkify('evards black tentacles')}; 5th: {spelllinkify('dominate person')}, {spelllinkify('telekinesis')}.") 

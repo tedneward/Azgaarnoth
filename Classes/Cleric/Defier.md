@@ -7,7 +7,7 @@ Other defiers instead align themselves with the supreme force they call "the Gre
 
 ```
 name = 'Defier'
-description = "***Divine Domain: Defier.*** Clerics of this domain are not true clerics, though they have similar abilities. They are disillusioned or heretical and have disavowed the worship of any deities they once believed in. Most consider the divine mysteries of the gods (who they often refer to only as "powers") to be elaborate scams. Many come to believe that the creatures called "gods" are not changeless, ineffable beings, but merely entities that have achieved a greater level of power--and are still as fallible as mortals. Such "clerics" often work tirelessly to discredit the gods, interfering with their clergy and attempting to liberate their congregations from what they consider false faith."
+description = "***Divine Domain: Defier.*** Clerics of this domain are not true clerics, though they have similar abilities. They are disillusioned or heretical and have disavowed the worship of any deities they once believed in. Most consider the divine mysteries of the gods to be elaborate scams. Many come to believe that the creatures called \"gods\" are not changeless, ineffable beings, but merely entities that have achieved a greater level of power--and are still as fallible as mortals. Defier clerics often work tirelessly to discredit the gods, interfering with their clergy and attempting to liberate their congregations from what they consider false faith."
 ```
 
 ## Domain Spells
@@ -105,7 +105,7 @@ You gain the ability to infuse your weapon strikes with psychic energy. Once on 
 
 ```
 def level8(npc):
-    npc.defer(lambda npc: npc.traits.append(f"***Disillusioned Strike.*** You gain the ability to infuse your weapon strikes with psychic energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra {'1d8' else npc.levels('Cleric') < 14 else '2d8'} psychic damage to the target.") )
+    npc.defer(lambda npc: npc.traits.append(f"***Disillusioned Strike.*** You gain the ability to infuse your weapon strikes with psychic energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra {'1d8' if npc.levels('Cleric') < 14 else '2d8'} psychic damage to the target.") )
 ```
 
 ## Unshackled Will

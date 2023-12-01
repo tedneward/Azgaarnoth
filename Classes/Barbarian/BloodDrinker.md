@@ -2,26 +2,28 @@
 During the darkest of times, tribal warriors have discovered that no better path to power exists than consuming the blood of a conquered foe. Some practice ancient rituals and solemnly consume their foe's heart, while others simply guzzle blood like ale in a crazed frenzy, but any of the blood rituals these barbarians undertake can transform some into demonic killers that steal life and power from the blood on their blade. Many Blood Drinkers find that the blood ritual not only granted them great power, but also altered their body in a minor way:
 
 **SIGNS OF BLOOD**
-d6|Alteration
---|----------
-l |You have small horns sprouting from your head.
-2 |Your teeth are all sharpened to eerie points.
-3 |You always smell like fresh blood.
-4 |Small, flimsy spines protrude from your back.
-5 |Your skin is deep red instead of its normal hue.
-6 |Thin patches of demonic fur or scales can be found on your shins, forearms, and neck.
+
+d6| Alteration
+--| ----------
+l | You have small horns sprouting from your head.
+2 | Your teeth are all sharpened to eerie points.
+3 | You always smell like fresh blood.
+4 | Small, flimsy spines protrude from your back.
+5 | Your skin is deep red instead of its normal hue.
+6 | Thin patches of demonic fur or scales can be found on your shins, forearms, and neck.
 
 Some Blood Drinkers begin to manifest strange changes while they are raging as a result of the strength in the blood they've consumed You can choose up to one of the following, or one of your own, when you first enter this barbarian path. If your DM allows, you might change your selection after you drink deeply from the blood of a powerful and noteworthy foe.
 
 **RAGE MANIFESTATIONS**
-d6|Manifestation While Raging
---|--------------------------
-l |Your skin is covered by demonic fur or scales, representing your rage's damage resistances.
-2 |Your eyes glow crimson. Even your veins and arteries glow bright red through your skin.
-3 |Blood pours from your eyes out of your mouth. When it touches the ground, it turns to mist.
-4 |Your heart begins to beat fiercely and loudly enough that it can be heard and felt for 30 feet.
-5 |With each breath, you exhale eerie red fumes that vanish quickly and harmlessly into the air.
-6 |Your body and weapons you wield are coated with fresh blood that can't be washed away.
+
+d6| Manifestation While Raging
+--| --------------------------
+l | Your skin is covered by demonic fur or scales, representing your rage's damage resistances.
+2 | Your eyes glow crimson. Even your veins and arteries glow bright red through your skin.
+3 | Blood pours from your eyes out of your mouth. When it touches the ground, it turns to mist.
+4 | Your heart begins to beat fiercely and loudly enough that it can be heard and felt for 30 feet.
+5 | With each breath, you exhale eerie red fumes that vanish quickly and harmlessly into the air.
+6 | Your body and weapons you wield are coated with fresh blood that can't be washed away.
 
 Blood-drinker barbarians are often (though not always) driven to madness by this path, and many are ostracized by their tribes. Not all Blood Drinkers are evil, despite the stories and/or nightmarish legends around them. Many are driven by deeper desires (revenge often being one of them), and use the path of blood as the quickest way to accomplish those desires. That said, not a lot of Blood Drinkers are good, either.
 
