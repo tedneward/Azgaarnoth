@@ -1,5 +1,5 @@
 # Divine Domain: Nature
-
+Gods of nature are as varied as the natural world itself; from inscrutable gods of the deep forests to friendly deities associated with particular springs and groves. Druids revere nature as a whole and might serve one of these deities, practicing mysterious rites and reciting all-but-forgotten prayers in their own secret tongue. But many of these gods have clerics as well, champions who take a more active role in advancing the interests of a particular nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.
 
 This domain is available to those who worship in the [Almalzish](../../Religions/AlUma.md#almalzish-cleric) or [*al'maeran*](../../Religions/AlUma.md#almaeran-cleric) traditions, as part of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Leriya](../../Religions/Trinitarian.md#leriya), or those who revere the Pantheonic gods [Auril](../../Religions/Pantheon/Auril.md), [Brigantia](../../Religions/Pantheon/Brigantia.md), [Daghda](../../Religions/Pantheon/Daghda.md), [Ehlonna](../../Religions/Pantheon/Ehlonna.md), [Silvanus](../../Religions/Pantheon/Silvanus.md), ...
 

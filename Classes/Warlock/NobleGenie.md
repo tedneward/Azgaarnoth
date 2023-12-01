@@ -4,17 +4,18 @@ You have made a pact with one of the rarest kinds of genie, a noble genie. Such 
 You choose your patron's kind or determine it randomly, using the Genie Kind table. Each kind of genie is associated with a particular element, as shown in the table.
 
 **Genie Kind**
-d4|Kind|Element
---|----|-------
-1|Dao|Earth
-2|Djinni|Air
-3|Efreeti|Fire
-4|Marid|Water
+d4| Kind    | Element
+--| ------- | -------
+1 | Dao     | Earth
+2 | Djinni  | Air
+3 | Efreeti | Fire
+4 | Marid   | Water
 
-While genies are not frequently spotted in Azgaarnoth, they do visit the land from time to time, and do accept patronage from mortals. For whatever reason, however, most warlocks of noble genies (and their kin) are found in [Al'Uma](/Geography/AlUma.md).
+While genies are not frequently spotted in Azgaarnoth, they do visit the land from time to time, and do accept patronage from mortals. For whatever reason, however, most warlocks of noble genies are found in [Al'Uma](/Geography/AlUma.md).
 
 ## Expanded Spell List
 *1st-level Genie feature*
+
 The Genie lets you choose from an expanded list of spells when you learn a warlock spell. The Genie Expanded Spells table shows the genie spells that are added to the warlock spell list for you, along with the spells associated in the table with your patron's kind: dao, djinni, efreeti, or marid.
 
 **Genie Expanded Spells**
@@ -29,19 +30,21 @@ Spell Level|Genie Spells|Dao Spells|Djinni Spells|Efreeti Spells|Marid Spells
 
 ## Genie's Vessel
 *1st-level Genie feature*
+
 Your patron gifts you a magical vessel that grants you a measure of the genie's power. The vessel is a Tiny object, and you can use it as a spellcasting focus for your warlock spells.
 
 You decide what the object is, or you can determine what it is randomly by rolling on the Genie's Vessel table.
 
 **Genie's Vessel**
-d6|Vessel
---|------
-1|Oil lamp
-2|Urn
-3|Ring with a compartment
-4|Stoppered bottle
-5|Hollow statuette
-6|Ornate lantern
+
+d6| Vessel
+--| ------
+1 | Oil lamp
+2 | Urn
+3 | Ring with a compartment
+4 | Stoppered bottle
+5 | Hollow statuette
+6 | Ornate lantern
 
 While you are touching the vessel, you can use it in the following ways:
 
@@ -57,12 +60,14 @@ If the vessel is destroyed or you lose it, you can perform a 1-hour ceremony to 
 
 ## Elemental Gift
 *6th-level Genie feature*
+
 You begin to take on characteristics of your patron's kind. You now have resistance to a damage type determined by your patron's kind: bludgeoning (dao), thunder (djinni), fire (efreeti), or cold (marid). 
 
 In addition, as a bonus action, you can give yourself a flying speed of 30 feet that lasts for 10 minutes, during which you can hover. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ## Sanctuary Vessel
 *10th-level Genie feature*
+
 When you enter your Genie's Vessel via the Bottled Respite feature, you can now choose up to five willing creatures that you can see within 30 feet of you, and the chosen creatures are drawn into the vessel with you.
 
 As a bonus action, you can eject any number of creatures from the vessel, and everyone is ejected if you leave or the vessel is destroyed.
@@ -71,9 +76,8 @@ In addition, anyone (including you) who remains within the vessel for at least 1
 
 ## Limited Wish
 *14th-level Genie feature*
+
 You entreat your patron to grant you a small wish. As an action, you can speak your desire to your Genie's Vessel, requesting the effect of one spell that is 6th level or lower and has a casting time of 1 action. The spell can be from any class's spell list, and you don't need to meet the requirements in that spell, including costly components; the spell simply takes effect as part of this action.
 
 Once you use this feature, you can't use it again until you finish 1d4 long rests.
 
-
-*Original content: [Unearthed Arcana -Revised Subclasses](https://dnd.wizards.com/articles/unearthed-arcana/subclasses-revisited)*

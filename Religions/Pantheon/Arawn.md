@@ -4,7 +4,7 @@
 Arawn was given governance of the underworld when his sister [Brigantia](Brigantia.md) came into the fullness of her being. When [Gruumsh](Gruumsh.md) killed her husband [Azuth](Azuth.md), he swore his help to [Brigantia](Brigantia.md), and journeyed with her and frequently helped her avoid the snares of the Land of the Dead. His countenance may be dour and gloomy, but death, in his view, is simply the last stage of life, and something to be considered a reward for service, not a place of fear and punishment. His aspect as the "grim reaper" is that of carrying out an obligation in the natural cycle of life, looking to ease the departed into the afterlife.
 
 ## Clerical details
-**Domains:** [Life](../../Classes/Cleric/Life.md), [Death](../../Classes/Cleric/Death.md), [Grave](../../Classes/Cleric/Grave.md)
+**Domains:** [Life](../../Classes/Cleric/Life.md), [Twilight](../../Classes/Cleric/Twilight.md), [Grave](../../Classes/Cleric/Grave.md)
 
 **Weapon:** Dagger
 

@@ -5,24 +5,24 @@ Each member of the Pantheon has sway over one or more particular domains, and wh
 
 Among the known gods/goddesses of the Pantheon (and their associated domains) are:
 
-**Gods of Azgaarnoth**
+**Gods of Azgaarnoth** (detail pages trump this summary in case of conflict)
 
 Deity | Description |Alignment | Domains | Symbol
 ------|-------------|----------|---------|--------
-[Arawn](Arawn.md)|God of life and death|NE|[Life](../../Classes/Cleric/Life.md), [Death](../../Classes/Cleric/Death.md), [Grave](../../Classes/Cleric/Grave.md)|Black star on gray background
-[Auril](Auril.md)|Goddess of winter|NE|[Nature](../../Classes/Cleric/Nature.md), [Tempest](../../Classes/Cleric/Tempest.md), [Cold](../../Classes/Cleric/Cold.md)|Six-pointed snowflake
-[Azuth](Azuth.md)|God of wizards|CG|[Arcana](../../Classes/Cleric/Arcana.md), [Chaos](../../Classes/Cleric/Chaos.md), [Knowledge](../../Classes/Cleric/Knowledge.md)|Left hand pointing upward, outlined in [fire](../../Classes/Cleric/Fire.md)
-[Bahamut](Bahamut.md)|Dragon god of good|LG|[Dragon](../../Classes/Cleric/Dragon.md), [Life](../../Classes/Cleric/Life.md), [War](../../Classes/Cleric/War.md)|Dragon’s head in profile
-[Brigantia](Brigantia.md)|Goddess of rivers and livestock|NG|[Arcana](../../Classes/Cleric/Arcana.md), [Nature](../../Classes/Cleric/Nature.md), [Fertility](../../Classes/Cleric/Fertility.md), [Water](../../Classes/Cleric/Water.md)|Footbridge
-[Cat Lord](CatLord.md)|God of curiosity and lore ^1|CN|[Trickery](../../Classes/Cleric/Trickery.md), [Vengeance](../../Classes/Cleric/Vengeance.md), [Chaos](../../Classes/Cleric/Chaos.md), Cat|Cat's paw
-[Cyric](Cyric.md)|God of murder, lies, intrigue, deception|CE|[Chaos](../../Classes/Cleric/Chaos.md), [Destruction](../../Classes/Cleric/Destruction.md), [Illusion](../../Classes/Cleric/Illusion.md)|A black sun over an empty field
-[Daghdha](Daghda.md)|God of weather and crops|CG|[Hearth](../../Classes/Cleric/Hearth.md), [Nature](../../Classes/Cleric/Nature.md), [Earth](../../Classes/Cleric/Earth.md)|Bubbling cauldron or shield
-[Diancecht](Diancecht.md)|God of medicine and healing|LG|[Life](../../Classes/Cleric/Life.md), [Pain](../../Classes/Cleric/Pain.md), [Healing](../../Classes/Cleric/Healing.md)|Crossed oak and mistletoe branches
-[Ehlonna](Ehlonna.md)|Goddess of woodlands|NG|[Air](../../Classes/Cleric/Air.md), [Life](../../Classes/Cleric/Life.md), [Nature](../../Classes/Cleric/Nature.md)|Unicorn horn
-[Gond](Gond.md)|God of craft, trade, and merchants|N|[Knowledge](../../Classes/Cleric/Knowledge.md), [Forge](../../Classes/Cleric/Forge.md), [Fire](../../Classes/Cleric/Fire.md)|Toothed cog with four spokes
-[Gruumsh](Gruumsh.md)|God of storms and war|CE|[Fire](../../Classes/Cleric/Fire.md), [Tempest](../../Classes/Cleric/Tempest.md), [War](../../Classes/Cleric/War.md)|Unblinking eye
-[Heironeous](Heironeous.md)|God of chivalry and valor|LG|[Twilight](../../Classes/Cleric/Twilight.md), [Unity](../../Classes/Cleric/Unity.md), [War](../../Classes/Cleric/War.md)|Lightning bolt
-[Hextor](Hextor.md)|God of war and discord|LE|[Fire](../../Classes/Cleric/Fire.md), [Grave](../../Classes/Cleric/Grave.md), [War](../../Classes/Cleric/War.md)|Six arrows facing downward in a fan
+[Arawn](Arawn.md)|God of life and death|NE| |Black star on gray background
+[Auril](Auril.md)|Goddess of winter|NE| |Six-pointed snowflake
+[Azuth](Azuth.md)|God of wizards|CG| |Left hand pointing upward, outlined in [fire](../../Classes/Cleric/Fire.md)
+[Bahamut](Bahamut.md)|Dragon god of good|LG| |Dragon’s head in profile
+[Brigantia](Brigantia.md)|Goddess of rivers and livestock|NG| |Footbridge
+[Cat Lord](CatLord.md)|God of curiosity and lore ^1|CN| |Cat's paw
+[Cyric](Cyric.md)|God of murder, lies, intrigue, deception|CE| |A black sun over an empty field
+[Daghdha](Daghda.md)|God of weather and crops|CG| |Bubbling cauldron or shield
+[Diancecht](Diancecht.md)|God of medicine and healing|LG| |Crossed oak and mistletoe branches
+[Ehlonna](Ehlonna.md)|Goddess of woodlands|NG| |Unicorn horn
+[Gond](Gond.md)|God of craft, trade, and merchants|N| |Toothed cog with four spokes
+[Gruumsh](Gruumsh.md)|God of storms and war|CE| |Unblinking eye
+[Heironeous](Heironeous.md)|God of chivalry and valor|LG| |Lightning bolt
+[Hextor](Hextor.md)|God of war and discord|LE| |Six arrows facing downward in a fan
 [Larethian](Larethian.md)|Deity of art and magic|CG|[Air](../../Classes/Cleric/Air.md), [Light](../../Classes/Cleric/Light.md), [Moon](../../Classes/Cleric/Moon.md)|Quarter moon or starburst
 [Lathander](Lathander.md)|God of birth and renewal|NG|[Fertility](../../Classes/Cleric/Fertility.md), [Light](../../Classes/Cleric/Light.md), [Protection](../../Classes/Cleric/Protection.md)|Road traveling into a sunrise
 [Lugh](Lugh.md)|God of arts, travel, and commerce|CN|[Knowledge](../../Classes/Cleric/Knowledge.md), [Life](../../Classes/Cleric/Life.md), [Protection](../../Classes/Cleric/Protection.md)|Pair of long hands
@@ -35,9 +35,11 @@ Deity | Description |Alignment | Domains | Symbol
 [Pelor](Pelor.md)|God of sun, summer, and time|LG|[Light](../../Classes/Cleric/Light.md), [Life](../../Classes/Cleric/Life.md), [Time](../../Classes/Cleric/Time.md)|Blazing sunburst
 [Sashelas](Sashelas.md)|God of the sea|CG|[Ocean](../../Classes/Cleric/Ocean.md), [Tempest](../../Classes/Cleric/Tempest.md), [Water](../../Classes/Cleric/Water.md)|Dolphin
 [Savras](Savras.md)|God of divination and fate|LN|[Time](../../Classes/Cleric/Time.md), [Order](../../Classes/Cleric/Order.md), [Peace](../../Classes/Cleric/Peace.md)|Crystal ball containing many kinds of eyes
+[Sekolah](Sekolah.md)|God of torture, pain, and death at sea|CE| |A trident
 [Silvanus](Silvanus.md)|God of wild nature|N|[Hunt](../../Classes/Cleric/Hunt.md), [Nature](../../Classes/Cleric/Nature.md), [Luck](../../Classes/Cleric/Luck.md)|Oak leaf
 [Talos](Talos.md)|God of storms|CE|[Air](../../Classes/Cleric/Air.md), [Tempest](../../Classes/Cleric/Tempest.md), [Zeal](../../Classes/Cleric/Zeal.md)|Three lightning bolts radiating from a central point
 [The Keeper](Keeper.md)|God of death and undeath|NE|[Death](../../Classes/Cleric/Death.md), [Grave](../../Classes/Cleric/Grave.md), [Vengeance](../../Classes/Cleric/Vengeance.md)|Obsidian tome against a backdrop of a headstone
+[The Traceless](Traceless.md)|Deity of illusion|N| |(No symbol)
 [The Traveler](Traveler.md)|Deity of chaos and change|CN|[Chaos](../../Classes/Cleric/Chaos.md), [Twilight](../../Classes/Cleric/Twilight.md), [Trickery](../../Classes/Cleric/Trickery.md)|Four crossed, rune-inscribed bones
 [Tiamat](Tiamat.md)|Dragon goddess of evil|LE|[Dragon](../../Classes/Cleric/Dragon.md), [Trickery](../../Classes/Cleric/Trickery.md), [Shadow](../../Classes/Cleric/Shadow.md)|Dragon head with five claw marks
 [Wee Jas](WeeJas.md)|Goddess of magic and death|LN|[Arcana](../../Classes/Cleric/Arcana.md), [Death](../../Classes/Cleric/Death.md), [Order](../../Classes/Cleric/Order.md)|Red skull in front of fireball

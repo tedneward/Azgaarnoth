@@ -4,7 +4,7 @@
 Diancecht is a lawful good lesser god worshipped by healers, son of Daghda.  He heals without regard to alignment, friendship, or other status, and can restore to life any creature who has not lost its head.
 
 ## Clerical details
-**Domains:** [Life](../../Classes/Cleric/Life.md), [Pain](../../Classes/Cleric/Pain.md), [Healing](../../Classes/Cleric/Healing.md)
+**Domains:** [Healing](../../Classes/Cleric/Healing.md), [Life](../../Classes/Cleric/Life.md), [Pain](../../Classes/Cleric/Pain.md)
 
 **Weapon:** Quarterstaff
 

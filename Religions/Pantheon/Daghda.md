@@ -6,7 +6,7 @@ Daghda is the goddess of the harvest and agriculture, presiding over grains and 
 Ironically, it is said that the first [hag covens](../../Creatures/Hag-Covens.md) were followers of Daghda, but corrupted over time by the steady influence of [Cyric](Cyric.md) until they were fully and irredeemably evil. Daghda's worshippers despise hags, as a result, and the hags often go out of their way to blaspheme their former god; many's a temple to Daghda that has been "converted" to the use of a hag coven.
 
 ## Clerical details
-**Domains:** [Hearth](../../Classes/Cleric/Hearth.md), [Nature](../../Classes/Cleric/Nature.md), [Earth](../../Classes/Cleric/Earth.md)
+**Domains:** [Earth](../../Classes/Cleric/Earth.md), [Hearth](../../Classes/Cleric/Hearth.md), [Nature](../../Classes/Cleric/Nature.md)
 
 **Weapon:** Sickle, hammer, or quarterstaff
 

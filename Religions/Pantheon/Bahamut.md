@@ -2,7 +2,7 @@
 Bahamut is the dragon god of justice, and a brother to Torm, god of law. Bahamut is revered in many locales. Though all good-aligned dragons pay homage to Bahamut, gold, silver, and brass dragons hold him in particularly high regard. Other dragons, even evil ones (except perhaps his archrival Tiamat), respect Bahamut for his wisdom and power.
 
 ## Clerical details
-**Domains:** [Dragon](../../Classes/Cleric/Dragon.md), [Life](../../Classes/Cleric/Life.md), [War](../../Classes/Cleric/War.md)
+**Domains:** [Dragon](../../Classes/Cleric/Dragon.md), [Order](../../Classes/Cleric/Order.md), [War](../../Classes/Cleric/War.md), [Knowledge](../../Classes/Cleric/Knowledge.md), [Protection](../../Classes/Cleric/Protection.md)
 
 **Weapon:** Longsword
 

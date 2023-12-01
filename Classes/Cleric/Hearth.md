@@ -1,9 +1,9 @@
 # Divine Domain: Hearth
-These Clerics are typically Champions of the home. They serve their community and are deeply respected by peasants and Nobles alike.  A hearth Cleric may serve the families of the community through counseling, divine blessings and direct defense if need be. These Clerics view adventures as service to their god by serving their allies and the communities they might happen upon.  A hearth cleric might serve in halfling village, a farming village, or you might find one on the battlefield with a group of Orc raiders protecting his tribe.
+These clerics are typically champions of the home. They serve their community and are deeply respected by peasants and Nobles alike.  A Hearth cleric may serve the families of the community through counseling, divine blessings and direct defense if need be. These clerics view adventures as service to their god by serving their allies and the communities they might happen upon.  A Hearth cleric might serve in a farming village, another might be watching over the agriculture grains and markets of a large city, or you might find one on the battlefield with a group of orc raiders protecting her tribe.
 
 The hearth Cleric focuses on prevention and mitigation more than after the fact healing.
 
-This domain is available to [Trinitarians who worship Dara](../../Religions/Trinitarian.md#dara), ...
+This domain is available to [Trinitarians who worship Dara](../../Religions/Trinitarian.md#dara), [Daghda](../../Religions/Pantheon/Daghda.md), ...
 
 **Hearth Domain Spells**
 

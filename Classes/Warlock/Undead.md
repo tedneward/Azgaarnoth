@@ -14,13 +14,14 @@ description = "***Otherworldly Patron: The Undead.*** The Undead is an entity th
 The Undead lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
 **Undead Expanded Spells**
+
 Spell Level|Spells
 -----------|------
-1st|bane, false life
-2nd|blindness/deafness, phantasmal force
-3rd|speak with dead, phantom steed
-4th|death ward, greater invisibility
-5th|antilife shell, cloudkill
+1st | [bane](../../Magic/Spells/bane.md), [false life](../../Magic/Spells/false-life.md)
+2nd | [blindness/deafness](../../Magic/Spells/blindness-deafness.md), [phantasmal force](../../Magic/Spells/phantasmal-force.md)
+3rd | [speak with dead](../../Magic/Spells/speak-with-dead.md), [phantom steed](../../Magic/Spells/phantom-steed.md)
+4th | [death ward](../../Magic/Spells/death-ward.md), [greater invisibility](../../Magic/Spells/greater-invisibility.md)
+5th | [antilife shell](../../Magic/Spells/antilife-shell.md), [cloudkill](../../Magic/Spells/cloudkill.md)
 
 ```
 def level1(npc):

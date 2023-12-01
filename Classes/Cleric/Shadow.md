@@ -3,7 +3,7 @@ The gods of Shadow, though sometimes evil, are not always.  They are the patrons
 
 Clerics of these deities seek to silently affect from the darkness, convince others to liberate mines overrun by orcs or sneak past the guards of a museum to retrieve an artefact; these clerics tend to sit back and watch while they can, allowing others to make their choices, but if they go astray they are not afraid to quickly dart into action to rectify the mistakes. Clerics from these domains seek not to gain praise for themselves but seek to change the world from within the veil of shadow.
 
-This domain is available to the [Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric),[Trinitarians who worship Dara](../../Religions/Trinitarian.md#dara), [Malar](../../Religions/Pantheon/Malar.md), [Tiamat](../../Religions/Pantheon/Tiamat.md), ...
+This domain is available to the [Almalzish tradition](../../Religions/AlUma.md#almalzish-cleric),[Trinitarians who worship Dara](../../Religions/Trinitarian.md#dara), [Malar](../../Religions/Pantheon/Malar.md), ...
 
 ```
 name = 'Shadow'

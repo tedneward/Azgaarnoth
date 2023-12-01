@@ -74,7 +74,7 @@ Sor's priests are not as firmly entrenched in hierarchy as, say, [Pelor](Pantheo
 *The Mother; Home; the Moons; Lady of Chaos*
 
 ### Clerical details
-**Domains:** [Water](../Classes/Cleric/Water.md), [Earth](../Classes/Cleric/Earth.md), [Twilight](../Classes/Cleric/Twilight.md), [Shadow](../Classes/Cleric/Shadow.md), [Dark](../Classes/Cleric/Dark.md), [Hearth](../Classes/Cleric/Hearth.md), [Grave](../Classes/Cleric/Grave.md), [Peace](../Classes/Cleric/Peace.md), [Chaos](../Classes/Cleric/Chaos.md)
+**Domains:** [Water](../Classes/Cleric/Water.md), [Earth](../Classes/Cleric/Earth.md), [Twilight](../Classes/Cleric/Twilight.md), [Shadow](../Classes/Cleric/Shadow.md), [Dark](../Classes/Cleric/Dark.md), [Hearth](../Classes/Cleric/Hearth.md), [Grave](../Classes/Cleric/Grave.md), [Peace](../Classes/Cleric/Peace.md), [Chaos](../Classes/Cleric/Chaos.md), [Moon](../Classes/Cleric/Moon.md)
 
 Weapon: Quarterstaff
 

@@ -1,7 +1,7 @@
 # Divine Domain: Destruction
 Gods of destruction are typically evil--or at the very least selfish--and revel in widespread and wanton destruction of things. Nothing is too great to be destroyed. Whether it's tearing down a building, collapsing a cave system, bringing walls tumbling down, or triggering an avalanche, destruction clerics live for that precise moment when it all begins to collapse.
 
-This domain is available to clerics of [Cyric](../../Religions/Pantheon/Cyric.md), ...
+This domain is available to clerics of [Cyric](../../Religions/Pantheon/Cyric.md), [Hextor](../../Religions/Pantheon/Hextor.md), ...
 
 ```
 name = 'Destruction'

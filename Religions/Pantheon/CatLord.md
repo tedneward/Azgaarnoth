@@ -2,7 +2,7 @@
 The Cat Lord is a mysterious deity revered by the tabaxi, whose portfolio includes protection (as a mother protects her children), punishment of wrongdoers, and cats. The Cat Lord, sometimes called Bast, is a wild deity, often appearing in dreams in either gender. To those he favors he gives great blessings, but when he is angry her wrath knows no bounds. He is a fierce enemy of Maglubiyet, Hextor, and Tiamat.
 
 ## Clerical details
-**Domains:** [Trickery](../../Classes/Cleric/Trickery.md), [Vengeance](../../Classes/Cleric/Vengeance.md), [Chaos](../../Classes/Cleric/Chaos.md), [Cat](../../Classes/Cleric/Cat.md)
+**Domains:** [Cat](../../Classes/Cleric/Cat.md), [Chaos](../../Classes/Cleric/Chaos.md), [Trickery](../../Classes/Cleric/Trickery.md), and [Vengeance](../../Classes/Cleric/Vengeance.md)
 
 **Weapon:** Daggers or Whip
 
