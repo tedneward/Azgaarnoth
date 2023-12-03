@@ -12,7 +12,7 @@ It is magicai and instead of one bowstring it has seven different bowstrings mad
 
 When you make a ranged weapon attack using this weapon, you choose one of the following bowstrings. Your attack deals damage of a different type based on that color instead of its normal damage type, it gains the benefits described for that color, and it deals an extra 2d6 damage on a hit.
 
-**Red.** The attack deals fire damage. On a critical hit, the target is lit [ablaze](../Conditions/Ablaze.md) if it is flammable or it is a creature. 
+**Red.** The attack deals fire damage. On a critical hit, the target is lit [ablaze](../../Conditions/Ablaze.md) if it is flammable or it is a creature. 
 
 **Orange.** The attack deals acid damage. On a critical hit, if the target does not have resistance or immunity to acid damage, it grants attackers advantage on attacks made against it and it doesn't benefit from any damage resistances until the end of your next turn. 
 

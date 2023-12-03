@@ -21,6 +21,28 @@ Cleric Level |	Spells
 7th	| [arcane eye](../../Magic/Spells/arcane-eye.md), [confusion](../../Magic/Spells/confusion.md)
 9th	| [legend lore](../../Magic/Spells/legend-lore.md), [scrying](../../Magic/Spells/scrying.md)
 
+```
+domainspells = {
+    1: ['command', 'identify'],
+    3: ['augury', 'suggestion'],
+    5: ['nondetection', 'speak with dead'],
+    7: ['arcane eye', 'confusion'],
+    9: ['legend lore', 'scrying']
+}
+
+def level1(npc):
+    def domainspellsforlevel(npc):
+        results = []
+        if npc.levels(spellcasting.casterclass) >= 1: results += domainspells[1]
+        if npc.levels(spellcasting.casterclass) >= 3: results += domainspells[3]
+        if npc.levels(spellcasting.casterclass) >= 5: results += domainspells[5]
+        if npc.levels(spellcasting.casterclass) >= 7: results += domainspells[7]
+        if npc.levels(spellcasting.casterclass) >= 9: results += domainspells[9]
+        spellcasting.spellsalwaysprepared += results
+
+    npc.defer(lambda npc: domainspellsforlevel(npc))
+```
+
 ## Blessings of Knowledge
 *1st-level Knowledge domain feature*
 

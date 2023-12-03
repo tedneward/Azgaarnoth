@@ -193,7 +193,7 @@ def chainsofcarceri_prereq(npc): return npc.levels('Warlock') >= 15 and npc.pact
 ### Clinging Blaze
 *Prerequisite: 9th level; Phoenix Patron.* 
 
-Any time a creature takes fire damage from one of your spells of first level or higher they are set [ablaze](../../Magic/Conditions/Ablaze.md).
+Any time a creature takes fire damage from one of your spells of first level or higher they are set [ablaze](../../Conditions/Ablaze.md).
 
 ```
 def clingingblaze(npc):

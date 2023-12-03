@@ -168,6 +168,7 @@ Choose one domain, or choose a [diety or religion](../../Religions/index.md) and
 * [Order](Order.md)
 * [Pain](Pain.md)
 * [Peace](Peace.md)
+* [Plague](Plague.md)
 * [Protection](Protection.md)
 * [Sea](Sea.md)
 * [Shadow](Shadow.md)

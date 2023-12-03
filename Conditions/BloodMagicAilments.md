@@ -84,4 +84,4 @@ Until it finishes another long rest, it has a terrible phobia of the damage type
 
 **Possessed Blood.** Any event that causes it great stress -- including entering combat, taking damage, experiencing fear, or having a nightmare -- forces the creature to roll a d6. On a roll of 5 or 6, it becomes incapacitated for 1 minute and falls prone, shaking and spasming for the duration.
 
-**Dire Hemophilia.** It can't regain hit points by spending hit dice or finishing a long rest, and while it is missing hit points, it loses l hit point from internal blood loss every 1d6 hours.
+**Dire Hemophilia.** It can't regain hit points by spending hit dice or finishing a long rest, and while it is missing hit points, it loses 1 hit point from internal blood loss every 1d6 hours.

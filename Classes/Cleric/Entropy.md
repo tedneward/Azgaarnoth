@@ -69,7 +69,7 @@ In addition, when you strike a creature with a melee attack, any armor or shield
 
 ```
 def level6(npc):
-    def.traits.append("***Entropic Gyre.*** Your presence becomes anathema to all things of beauty and permanence. Magical objects are now affected by your Rust Ward and Channel Divinity features. In addition, when you strike a creature with a melee attack, any armor or shield that creature is wearing takes a permanent and cumulative −1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed.")
+    npc.traits.append("***Entropic Gyre.*** Your presence becomes anathema to all things of beauty and permanence. Magical objects are now affected by your Rust Ward and Channel Divinity features. In addition, when you strike a creature with a melee attack, any armor or shield that creature is wearing takes a permanent and cumulative −1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed.")
 ```
 
 ## Divine Strike
