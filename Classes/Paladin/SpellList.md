@@ -1,8 +1,6 @@
 # Paladin Spells
  
 ## cantrip-Level Spells
-* [Balance](../../Magic/Spells/balance.md)
-* [Bolster](../../Magic/Spells/bolster.md)
  
 ## 1st-Level Spells
 * [Ablative Armor](../../Magic/Spells/ablative-armor.md)

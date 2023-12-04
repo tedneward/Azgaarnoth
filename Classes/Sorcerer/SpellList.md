@@ -364,6 +364,7 @@
 * [Gust of Wind](../../Magic/Spells/gust-of-wind.md)
 * [Hail of Stone](../../Magic/Spells/hail-of-stone.md)
 * [Hold Person](../../Magic/Spells/hold-person.md)
+* [Ice Sculpture](../../Magic/Spells/ice-sculpture.md)
 * [Ice Shield](../../Magic/Spells/ice-shield.md)
 * [Icicle Blast](../../Magic/Spells/icicle-blast.md)
 * [Icingdeath's Frost](../../Magic/Spells/icingdeaths-frost.md)
@@ -439,7 +440,6 @@
 * [Web](../../Magic/Spells/web.md)
 * [Whirling Blade](../../Magic/Spells/whirling-blade.md)
 * [Wither and Bloom](../../Magic/Spells/wither-and-bloom.md)
-* [ice sculpture](../../Magic/Spells/ice-sculpture.md)
  
 ## 3rd-Level Spells
 * [Abolish Shadows](../../Magic/Spells/abolish-shadows.md)

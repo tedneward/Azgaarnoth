@@ -87,6 +87,7 @@
 * [Detect Familiar](../../Magic/Spells/detect-familiar.md)
 * [Detect Undead](../../Magic/Spells/detect-undead.md)
 * [Drain Life](../../Magic/Spells/drain-life.md)
+* [Ebony Hand](../../Magic/Spells/ebony-hand.md)
 * [Elemental Anguish](../../Magic/Spells/elemental-anguish.md)
 * [Gentle Repose](../../Magic/Spells/gentle-repose.md)
 * [Grimlore's Shadowgrasp](../../Magic/Spells/grimlores-shadowgrasp.md)

@@ -18,7 +18,6 @@
 * [Create Item](../../Magic/Spells/create-item.md)
 * [Dancing Lights](../../Magic/Spells/dancing-lights.md)
 * [Echoing Blow](../../Magic/Spells/echoing-blow.md)
-* [Eerie Glare](../../Magic/Spells/eerie-glare.md)
 * [Fire Bolt](../../Magic/Spells/fire-bolt.md)
 * [Force Strike](../../Magic/Spells/force-strike.md)
 * [Fortifying Cry](../../Magic/Spells/fortifying-cry.md)
@@ -60,7 +59,6 @@
 * [Resistance](../../Magic/Spells/resistance.md)
 * [Shocking Grasp](../../Magic/Spells/shocking-grasp.md)
 * [Spare the Dying](../../Magic/Spells/spare-the-dying.md)
-* [Spear of Rot](../../Magic/Spells/spear-of-rot.md)
 * [Spiteful Glamour](../../Magic/Spells/spiteful-glamour.md)
 * [Static](../../Magic/Spells/static.md)
 * [Static Shock](../../Magic/Spells/static-shock.md)
@@ -217,6 +215,7 @@
 * [Glyph of Revealing](../../Magic/Spells/glyph-of-revealing.md)
 * [Greater Acupuncture](../../Magic/Spells/greater-acupuncture.md)
 * [Heat Metal](../../Magic/Spells/heat-metal.md)
+* [Ice Sculpture](../../Magic/Spells/ice-sculpture.md)
 * [Impart Knowledge](../../Magic/Spells/impart-knowledge.md)
 * [Infuse Blood](../../Magic/Spells/infuse-blood.md)
 * [Inquisitive Intuition](../../Magic/Spells/inquisitive-intuition.md)
@@ -272,7 +271,6 @@
 * [Whip of Flame](../../Magic/Spells/whip-of-flame.md)
 * [Whirling Blade](../../Magic/Spells/whirling-blade.md)
 * [Wieldskill](../../Magic/Spells/wieldskill.md)
-* [ice sculpture](../../Magic/Spells/ice-sculpture.md)
  
 ## 3rd-Level Spells
 * [Adamantine Weapon](../../Magic/Spells/adamantine-weapon.md)

@@ -197,7 +197,7 @@ Any time a creature takes fire damage from one of your spells of first level or 
 
 ```
 def clingingblaze(npc):
-    npc.traits.append("***Clinging Blaze.*** Any time a creature takes fire damage from one of your spells of first level or higher they are set [ablaze](http://azgaarnoth.tedneward.com/magic/conditions/Ablaze/).")
+    npc.traits.append("***Clinging Blaze.*** Any time a creature takes fire damage from one of your spells of first level or higher they are set [ablaze](http://azgaarnoth.tedneward.com/conditions/Ablaze/).")
 
 def clingingblaze_prereq(npc):
     return npc.levels('Warlock') >= 9 and npc.subclasses[allclasses['Warlock']].name == 'Phoenix'

@@ -464,6 +464,7 @@
 * [Hold Person](../../Magic/Spells/hold-person.md)
 * [Howling Downpour](../../Magic/Spells/howling-downpour.md)
 * [Hush](../../Magic/Spells/hush.md)
+* [Ice Sculpture](../../Magic/Spells/ice-sculpture.md)
 * [Ice Shield](../../Magic/Spells/ice-shield.md)
 * [Icicle Blast](../../Magic/Spells/icicle-blast.md)
 * [Icingdeath's Frost](../../Magic/Spells/icingdeaths-frost.md)
@@ -569,7 +570,6 @@
 * [Wieldskill](../../Magic/Spells/wieldskill.md)
 * [Wither and Bloom](../../Magic/Spells/wither-and-bloom.md)
 * [Wristpocket](../../Magic/Spells/wristpocket.md)
-* [ice sculpture](../../Magic/Spells/ice-sculpture.md)
  
 ## 3rd-Level Spells
 * [Ablative Body Ward](../../Magic/Spells/ablative-body-ward.md)

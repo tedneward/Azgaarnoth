@@ -187,7 +187,7 @@ Alternatively, there are some "concepts" beyond the simple "deity worship" that-
 * [Defier](Defier.md): 
 * [Entropy](Entropy.md): Entropy clerics use the divine power that comes from the entropy in the universe.
 * [Phoenix](Phoenix.md): Phoenix clerics tap into a raw cosmic force (the Phoenix). 
-* [Unity](Unity.md): Unity clerics borrow divine power that generates when a group of diverse beings collectively share in an unshakable belief in one another.
+* [Unity](Unity.md): Unity clerics borrow the divine power that generates when a group of diverse beings collectively share in an unshakable belief in one another.
 * [Zeal](Zeal.md): Zeal clerics believe not in the domain of their deity, but in the rabid belief that their deity's way is superior to all others.
 
 Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use [Channel Divinity](#channel-divinity) when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.

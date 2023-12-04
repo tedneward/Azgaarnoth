@@ -1,4 +1,4 @@
-#### ice sculpture
+#### Ice Sculpture
 *2nd-level conjuration* (Artificer,Druid,Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 action

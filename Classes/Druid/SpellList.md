@@ -251,6 +251,7 @@
 * [Heat Metal](../../Magic/Spells/heat-metal.md)
 * [Hold Person](../../Magic/Spells/hold-person.md)
 * [Howling Downpour](../../Magic/Spells/howling-downpour.md)
+* [Ice Sculpture](../../Magic/Spells/ice-sculpture.md)
 * [Ice Shield](../../Magic/Spells/ice-shield.md)
 * [Icicle Blast](../../Magic/Spells/icicle-blast.md)
 * [Insatiable Thirst](../../Magic/Spells/insatiable-thirst.md)
@@ -299,7 +300,6 @@
 * [Warp Stone](../../Magic/Spells/warp-stone.md)
 * [Wither and Bloom](../../Magic/Spells/wither-and-bloom.md)
 * [Zone of Natural Purity](../../Magic/Spells/zone-of-natural-purity.md)
-* [ice sculpture](../../Magic/Spells/ice-sculpture.md)
  
 ## 3rd-Level Spells
 * [Acid Cloud](../../Magic/Spells/acid-cloud.md)

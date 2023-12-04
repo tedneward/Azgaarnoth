@@ -57,16 +57,20 @@ You gain proficiency in the Medicine skill.
 ## Plaguebearer
 *1st-level Plague domain feature*
 
-Your touch can inflict disease. When you hit a creature with a melee attack, you can choose to inflict a disease on the target. The target must succeed on a Constitution saving throw or become infected with a disease of your choice from the [list of Tier 1 diseases](../../Magic/Conditions/Diseased.md#tier-one-diseases).
+Your touch can inflict disease. When you hit a creature with a melee attack, you can choose to inflict a disease on the target. The target must succeed on a Constitution saving throw or become infected with a disease of your choice from the [list of Tier 1 diseases](../../Conditions/Diseased.md#tier-one-diseases).
+
+```
+    npc.defer(lambda npc: npc.traits.append(f"***Plaguebearer.*** When you hit a creature with a melee attack, you can choose to inflict a disease on the target. The target must succeed on a Constitution saving throw (DC {spellcasting.spellsavedc()}) or become infected with a disease of your choice from the [list of Tier 1 diseases](http://azgaarnoth.tedneward.com/conditions/diseased/#tier-one-diseases).") )
+```
 
 ## Channel Divinity: Plague’s Embrace
 *2nd-level Plague domain feature*
 
-You can use your Channel Divinity to invoke the power of pestilence. As an action, you present your holy symbol and select a creature you can see within 30 feet of you. The target must make a Constitution saving throw or be affected by a [Tier 1 disease of your choice](../../Magic/Conditions/Diseased.md#tier-one-diseases). The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+You can use your Channel Divinity to invoke the power of pestilence. As an action, you present your holy symbol and select a creature you can see within 30 feet of you. The target must make a Constitution saving throw or be affected by a [Tier 1 disease of your choice](../../Conditions/Diseased.md#tier-one-diseases). The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
 ```
 def level2(npc):
-    npc.actions.append("***Channel Divinity: Plague's Embrace.*** You present your holy symbol and select a creature you can see within 30 feet of you. The target must make a Constitution saving throw (DC {spellcasting.spellsavedc()}) or be affected by a [Tier 1 disease of your choice](http://azgaarnoth.tedneward.com/magic/conditions/diseased/#tier-one-diseases). The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.")
+    npc.defer(lambda npc: npc.actions.append(f"***Channel Divinity: Plague's Embrace.*** You present your holy symbol and select a creature you can see within 30 feet of you. The target must make a Constitution saving throw (DC {spellcasting.spellsavedc()}) or be affected by a [Tier 1 disease of your choice](http://azgaarnoth.tedneward.com/conditions/diseased/#tier-one-diseases). The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.") )
 ```
 
 ## Aura of Decay
@@ -76,7 +80,7 @@ You emanate an aura of decay that weakens your enemies. The aura extends 10 feet
 
 ```
 def level6(npc):
-    npc.defer(lambda npc: npc.traits.append("***Aura of Decay.*** You emanate an aura of decay that extends 10 feet from you, and any enemy creature that starts its turn within this aura takes {npc.levels('Cleric')} necrotic damage. This damage ignores resistance and immunity to necrotic damage.") )
+    npc.defer(lambda npc: npc.traits.append(f"***Aura of Decay.*** You emanate an aura of decay that extends 10 feet from you, and any enemy creature that starts its turn within this aura takes {npc.levels('Cleric')} necrotic damage. This damage ignores resistance and immunity to necrotic damage.") )
 ```
 
 ## Divine Strike
@@ -96,5 +100,5 @@ Your mastery of diseases reaches its peak. As an action, you can choose a number
 
 ```
 def level17(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Epidemic Infusion.*** You choose {npc.WISbonus()} creatures within 60 feet of you and infuse them with contagious diseases. Each target must make a Constitution saving throw (DC {spellcasting.spellsavedc()}). On a failed save, a target is affected by a disease of your choice from the [Tier-2 list of diseases](https://azgaarnoth.tedneward.com/magic/conditions/diseased/#tier-two-diseases). On a successful save, a target is unaffected.") )
+    npc.defer(lambda npc: npc.actions.append(f"***Epidemic Infusion.*** You choose {npc.WISbonus()} creatures within 60 feet of you and infuse them with contagious diseases. Each target must make a Constitution saving throw (DC {spellcasting.spellsavedc()}). On a failed save, a target is affected by a disease of your choice from the [Tier-2 list of diseases](https://azgaarnoth.tedneward.com/conditions/diseased/#tier-two-diseases). On a successful save, a target is unaffected.") )
 ```

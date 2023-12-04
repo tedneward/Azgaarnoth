@@ -1,8 +1,6 @@
 # Ranger Spells
  
 ## cantrip-Level Spells
-* [Balance](../../Magic/Spells/balance.md)
-* [Bolster](../../Magic/Spells/bolster.md)
 * [Cinder Flare](../../Magic/Spells/cinder-flare.md)
 * [Flame Ward](../../Magic/Spells/flame-ward.md)
 * [Flame Wreath](../../Magic/Spells/flame-wreath.md)

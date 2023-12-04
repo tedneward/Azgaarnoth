@@ -76,8 +76,7 @@ The dragon can use the Hide action when it is flying at a higher altitude than t
 The dragon can mimic any sound or voice that it has heard, any time it likes. To discern the ruse, a creature can attempt a Wisdom (Insight) check contested by the dragon's Charisma (Deception) check. If the creature wins the contest, it learns that the sound is false, but doesn't learn its source.
 
 #### Storm Dragon
-The dragon can fly normally even in storm-strength winds. In addition, its vision is not obscured by precipitation, and it ignores cover granted by rain. The dragon also gains
-resistance to thunder damage.
+The dragon can fly normally even in storm-strength winds. In addition, its vision is not obscured by precipitation, and it ignores cover granted by rain. The dragon also gains resistance to thunder damage.
 
 #### Stunning Lightning
 *Prerequisite: Primeval Lightning.*

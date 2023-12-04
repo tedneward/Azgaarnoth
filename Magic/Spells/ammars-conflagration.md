@@ -1,5 +1,5 @@
 #### Ammar's Conflagration 
-*1st-level evocation (Druid, Sorcerer, Wizard)
+*1st-level evocation (Druid, Sorcerer, Wizard)*
 ___
 - **Casting Time:** 1 action 
 - **Range:** 60 feet 
