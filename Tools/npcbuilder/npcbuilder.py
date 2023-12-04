@@ -889,6 +889,7 @@ class NPC:
         self.expertises = dupecheck(self.expertises, "expertise")
         self.proficiencies = dupecheck(self.proficiencies, "proficiency")
         self.languages = dupecheck(self.languages, "language")
+        self.savingthrows = dupecheck(self.savingthrows, "saving throw")
 
         damagetypes = [ 
             'acid', 'bludgeoning', 'cold', 'fire', 'force', 'lightning', 'necrotic', 
