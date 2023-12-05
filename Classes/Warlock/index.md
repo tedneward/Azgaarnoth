@@ -190,7 +190,7 @@ Whenever you finish a long rest, you can replace one spell you learned from this
     # Something something pact magic
     npc.pactmagic = PactMagic(npc)
     npc.defer(lambda npc: npc.pactmagic.calculate() )
-    npc.defer(lambda npc: npc.actions.append(f"***Pact Magic.*** {npc.pactmagic.maxcantripsknown} cantrips known. {npc.pactmagic.spellslots} {npc.pactmagic.slotlevel}th-level spell slots. {npc.pactmagic.maxspellsknown} spells known. Spell save DC {npc.pactmagic.spellsavedc()}. Spell attack modifier +{npc.pactmagic.spellattackmodifier()}. Cantrips known: {', '.join(npc.pactmagic.cantripsknown)}. Spells known: {', '.join(npc.pactmagic.spellsknown)}.") )
+    npc.defer(lambda npc: npc.actions.append(f"***Pact Magic.*** {npc.pactmagic.maxcantripsknown} cantrips known. {npc.pactmagic.spellslots} spell slots at level {npc.pactmagic.slotlevel}. {npc.pactmagic.maxspellsknown} spells known. Spell save DC {npc.pactmagic.spellsavedc()}. Spell attack modifier +{npc.pactmagic.spellattackmodifier()}. Cantrips known: {', '.join(npc.pactmagic.cantripsknown)}. Spells known: {', '.join(npc.pactmagic.spellsknown)}.") )
 ```
 
 ## Eldritch Invocations
@@ -352,7 +352,7 @@ pactboons = {
 def choosepact(npc):
     (pactname, pactfn) = choose("Choose your Pact: ", pactboons)
     npc.pactboon = pactname
-    print(npc.pactboon)
+    pactfn(npc)
 
 def level3(npc):
     choosepact(npc)

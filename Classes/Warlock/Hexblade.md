@@ -20,7 +20,7 @@ Spell Level|Spells
 
 ```
 def level1(npc):
-    npc.traits.append("***Expanded Spell List.*** The following are considered warlock spells for you: 1st: {spelllinkify('shield')}, {spelllinkify('wrathful smite')}; 2nd: {spelllinkify('blur')}, {spelllinkify('branding smite')}; 3rd: {spelllinkify('blink')}, {spelllinkify('elemental weapon')}, 4th: {spelllinkify('phantasmal killer')}, {spelllinkify('staggering smite')}; 5th: {spelllinkify('banishing smite')}, {spelllinkify('cone of cold')}.") 
+    npc.traits.append(f"***Expanded Spell List.*** The following are considered warlock spells for you: 1st: {spelllinkify('shield')}, {spelllinkify('wrathful smite')}; 2nd: {spelllinkify('blur')}, {spelllinkify('branding smite')}; 3rd: {spelllinkify('blink')}, {spelllinkify('elemental weapon')}, 4th: {spelllinkify('phantasmal killer')}, {spelllinkify('staggering smite')}; 5th: {spelllinkify('banishing smite')}, {spelllinkify('cone of cold')}.") 
 ```
 
 ## Hexblade's Curse
@@ -53,7 +53,7 @@ You acquire the training necessary to effectively arm yourself for battle. You g
 The influence of your patron also allows you to mystically channel your will through a particular weapon. Whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. When you attack with that weapon, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls. This benefit lasts until you finish a long rest. If you later gain the Pact of the Blade feature, this benefit extends to every pact weapon you conjure with that feature, no matter the weapon's type.
 
 ```
-    npc.defer(lambda npc: npc.traits.append(f"***Hex Warrior.*** Whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. When you attack with that weapon, you can use your Charisma modifier (+{npc.CHAbonus()}), instead of Strength or Dexterity, for the attack and damage rolls. This benefit lasts until you finish a long rest. If you later gain the Pact of the Blade feature, this benefit extends to every pact weapon you conjure with that feature, no matter the weapon's type.") )
+    npc.defer(lambda npc: npc.traits.append(f"***Hex Warrior.*** Whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. When you attack with that weapon, you can use your Charisma modifier (+{npc.CHAbonus()}), instead of Strength (+{npc.STRbonus()}) or Dexterity (+{npc.DEXbonus()}), for the attack and damage rolls. This benefit lasts until you finish a long rest. {'This benefit extends to every pact weapon you conjure with that feature, no matter the type of the weapon.' if getattr(npc, 'pactboon', None) != None and getattr(npc.pactboon, 'name', None) != None and npc.pactboon.name == 'Pact of the Blade' else ''}" ) )
 ```
 
 ## Accursed Specter

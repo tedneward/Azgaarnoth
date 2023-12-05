@@ -44,8 +44,8 @@ Your distance from divinity has made you resistant to the effects of certain ext
 
 ```
 def level6(npc):
-  npc.damageresistances.append("Celestial")
-  npc.damageresistances.append("any damage types dealt by any celestial or fiend creature")
+  npc.damageresistances.append('radiant')
+  npc.damageresistances.append("any damage types dealt by celestial or fiend creatures")
   npc.traits.append("***Divine Resistance.*** You also have Advantage on saving throws to resist non-damaging effects by fiends or celestials if the effect is magical or inflicted by magical means, unless you choose otherwise. Any effects paired with damage are not resisted.")
 ```
 
@@ -67,5 +67,5 @@ You have built up even more barriers from divine and demonic forces. You now hav
 ```
 def level17(npc):
     npc.damageimmunities.append('radiant')
-    npc.damageimmunities.append('any damage types dealt by any celestial or fiend creature')
+    npc.traits.append("***Divine Immunity.*** You are immune to any non-damaging effects that a creature type of 'fiend' or 'celestial' inflict on you, unless you wish it to be inflicted, as long as the effect is magical or is inflicted by magical means. Any effects paired with damage are not resisted.")
 ```
