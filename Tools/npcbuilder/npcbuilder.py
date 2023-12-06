@@ -242,12 +242,12 @@ traits = {
 
 weapons = {
     'simple-melee' : {
-        'Club': ['1d4', 'bludgeoning', ['Light']],
+        'Club': ['1d4', 'bludgeoning', ['light']],
         'Dagger': ['1d4', 'piercing', ['finesse', 'light', 'thrown (range 20/60)']],
         'Greatclub': ['1d8', 'bludgeoning', ['two-handed']],
-        'Handaxe': ['1d6', 'slashing', ['Light', 'thrown (range 20/60)']],
+        'Handaxe': ['1d6', 'slashing', ['light', 'thrown (range 20/60)']],
         'Javelin': ['1d6', 'piercing', ['thrown (range 30/120)']],
-        'Light hammer': ['1d4', 'bludgeoning', ['Light', 'thrown (range 20/60)']],
+        'Light hammer': ['1d4', 'bludgeoning', ['light', 'thrown (range 20/60)']],
         'Mace': ['1d6', 'bludgeoning', []],
         'Quarterstaff': ['1d6', 'bludgeoning', ['versatile (1d8)']],
         'Sickle': ['1d4', 'slashing', ['light']],

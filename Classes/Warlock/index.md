@@ -158,8 +158,12 @@ Your choice grants you features at 1st level and again at 6th, 10th, and 14th le
 ## Pact Magic
 Your arcane research and the magic bestowed on you by your patron have given you facility with spells.
 
+Warlock spells, despite being similar in some respects to arcane spells cast by wizards, are in fact a divergent form of divine magic; as a result, warlocks know only the [spells listed here](SpellList.md), and even then only at their paton's whim. Patrons have been known, however, to grant warlocks insight into the deep mysteries of the universe and reveal new magical means to emulate arcane or divine spells, however, and so warlocks often scour Azgaarnoth looking for fragments of insight or knowledge that will gain favor with their patron and persuade the patron to reveal new mystical insights.
+
+> Game notes: In other words, DM's choice about adding new warlock spells to the "known" list, and the warlock may need to do some in-game activity or adventure to obtain them.
+
 ### Cantrips
-You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
+You know two cantrips of your choice from the [warlock spell list](SpellList.md#cantrip-level-spells). You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
 
 ### Spell Slots
 The Warlock table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
@@ -167,7 +171,7 @@ The Warlock table shows how many spell slots you have. The table also shows what
 For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell Witch Bolt, you must spend one of those slots, and you cast it as a 3rd-level spell.
 
 ### Spells Known of 1st Level and Higher
-At 1st level, you know two 1st-level spells of your choice from the warlock spell list.
+At 1st level, you know two [1st-level spells of your choice from the warlock spell list](SpellList.md#1st-level-spells).
 
 The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level or higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.
 
@@ -408,9 +412,6 @@ def level20(npc):
 ---
 
 # Warlock Spells
-Warlock spells, despite being similar in some respects to arcane spells cast by wizards, are in fact a divergent form of divine magic; as a result, warlocks know only the spells listed here, and even then only at their paton's whim. Patrons have been known, however, to grant warlocks insight into the deep mysteries of the universe and reveal new magical means to emulate arcane or divine spells, however, and so warlocks often scour Azgaarnoth looking for fragments of insight or knowledge that will gain favor with their patron and persuade the patron to reveal new mystical insights.
-
-> Game notes: In other words, DM's choice about adding new warlock spells to the "known" list, and the warlock may need to do some in-game activity or adventure to obtain them.
 
 ## Cantrips
 * [balance](../../Magic/Spells/balance.md)

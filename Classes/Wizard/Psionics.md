@@ -5,11 +5,13 @@ In the latter case, you likely joined the [MindMage](../../Organizations/MageSch
 
 ```
 name = "Psionics"
-description = "***Arcane Tradition: Psionics.*** Wizards study magical power in all its forms, including the magic of psionics. Those wizards who follow the tradition of Psionics hone the magical potential of their own minds. Sometimes called psionicists or psychics, these wizards interact with the multiverse through the lens of their psionic aptitude and awareness. Psionicists channel their magic by focusing their minds. By doing so they can transcend their physical bodies, adopting forms of pure thought, casting spells psionically to bypass the need for components, and perceiving the world with a broader range of senses. As a member of the Psionics tradition, you might have awoken your psionic potential through the strain of your esoteric studies, or perhaps you joined a scholarly order dedicated to unlocking the magic of the mind.
+description = "***Arcane Tradition: Psionics.*** Wizards study magical power in all its forms, including the magic of psionics. Those wizards who follow the tradition of Psionics hone the magical potential of their own minds. Sometimes called psionicists or psychics, these wizards interact with the multiverse through the lens of their psionic aptitude and awareness. Psionicists channel their magic by focusing their minds. By doing so they can transcend their physical bodies, adopting forms of pure thought, casting spells psionically to bypass the need for components, and perceiving the world with a broader range of senses. As a member of the Psionics tradition, you might have awoken your psionic potential through the strain of your esoteric studies, or perhaps you joined a scholarly order dedicated to unlocking the magic of the mind."
 ```
 
 ## Psionic Focus
-Starting at the 2nd level, you have learned to channel psionic energy through a special object: a psionic focus. You gain the object with this feature (see the "Your Psionic Focus" sidebar for how you might have acquired the item).
+*2nd-level Psionic feature*
+
+You have learned to channel psionic energy through a special object: a psionic focus. You gain the object with this feature (see the "Your Psionic Focus" sidebar for how you might have acquired the item).
 
 While your psionic focus is on your person, you gain the following benefits:
 
@@ -27,7 +29,7 @@ If your psionic focus is lost, you can magically recreate it by meditating for 1
 ## Psionic Devotion
 *2nd-level Psionics feature*
 
-Starting at the 2nd level, your study of psionics begins to unleash your mind's potential. When you gain this feature, choose one of the following cantrips: friends, mage hand, or message. You learn that cantrip if you don't already know it, and it doesn't count against the number of wizard cantrips you know.
+Your study of psionics begins to unleash your mind's potential. When you gain this feature, choose one of the following cantrips: *friends*, *mage hand*, or *message*. You learn that cantrip if you don't already know it, and it doesn't count against the number of wizard cantrips you know.
 
 While your psionic focus is on your person, you can cast the chosen cantrip as a bonus action, requiring no components, and with the modification listed below:
 
@@ -51,6 +53,7 @@ You can transform using this feature a number of times equal to your Intelligenc
 *10th-level Psionics feature*
 
 Starting at the 10th level, your mind's power expands to greater heights. When you gain this feature, choose one of the following spells: dominate person, scrying, or telekinesis. You can add the spell to your spellbook, and you can cast it without components.
+
 You can also cast the chosen spell once without expending a spell slot. After you do so, you regain the ability to cast the spell without a slot when you finish a long rest.
 
 ## Empowered Psionics
@@ -60,6 +63,7 @@ When you deal psychic or force damage with a wizard spell, you can add your Inte
 
 ## Thought Travel
 *14th-level Psionics feature*
+
 While using your Thought Form, you have a flying speed equal to your walking speed and can hover, and you can move through other creatures and objects as if they were difficult terrain.
 
 You take 1d10 force damage if you end your turn inside an object. If you return to your normal form while inside an object, you are shunted to the nearest unoccupied space, and you take 1d10 force damage for every 5 feet traveled.

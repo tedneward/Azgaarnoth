@@ -3,6 +3,11 @@ Wizards are supreme magic-users, defined and united as a class by the spells the
 
 You must have an Intelligence score of 13 or higher in order to multiclass in or out of this class.
 
+```
+name = 'Wizard'
+description = "***Class: Wizard.*** Wizards are supreme magic-users, defined and united as a class by the spells they cast. Drawing on the subtle weave of magic that permeates the cosmos, wizards cast spells of explosive fire, arcing lightning, subtle deception, brute-force mind control, and much more."
+```
+
 ## Class Features
 As a wizard, you gain the following class features.
 
@@ -36,6 +41,10 @@ Level|Proficiency Bonus|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|Featu
 
 **Hit Points at Higher Levels**: 1d6 (or 4) + your Constitution modifier per wizard level after 1st
 
+```
+def everylevel(npc): npc.hits('d6')
+```
+
 ### Proficiencies
 **Armor**: None
 
@@ -47,12 +56,31 @@ Level|Proficiency Bonus|Cantrips Known|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|Featu
 
 **Skills**: Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
 
+```
+def level1(npc):
+    npc.savingthrows.append("WIS")
+    npc.savingthrows.append("INT")
+
+    for wpn in ['Dagger', 'Dart', 'Sling', 'Quarterstaff', 'Light crossbow']:
+        npc.proficiencies.append(wpn)
+
+    skills = ['Arcana', 'History', 'Insight', 'Investigation', 'Medicine', 'Religion']
+    chooseskill(npc, skills)
+    chooseskill(npc, skills)
+```
+
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 * (a) a quarterstaff or (b) a dagger
 * (a) a component pouch or (b) an arcane focus
 * (a) a scholar's pack or (b) an explorer's pack
 * A spellbook
+
+```
+    npc.equipment.append("Quarterstaff OR dagger")
+    npc.equipment.append("Component pouch OR Arcane focus")
+    npc.equipment.append("Scholar's pack OR Explorer's pack")
+```
 
 ## Spellcasting
 *1st-level wizard feature*
@@ -76,7 +104,7 @@ Copying a spell into your spellbook involves reproducing the basic form of the s
 
 For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
 
-***Replacing the Book.*** You can copy a spell from your own spellbook into another book-for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
+***Replacing the Book.*** You can copy a spell from your own spellbook into another book--for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
 
 If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
 
@@ -85,6 +113,15 @@ If you lose your spellbook, you can use the same procedure to transcribe the spe
 There is no limit to the number of spells in a wizard's spellbook, and many wizards of great experience and renown have not just one spellbook, but vast libraries. These are guarded fiercely, and many a powerful wizard's library has served as the core nucleus (and monetary source) of a new [mage school](../../Organizations/MageSchools/index.md)'s spell library.
 
 Wizards are free to copy any arcane (wizard) spell into their spellbook, regardless of arcane tradition or mage school affiliation.
+
+```
+    npc.equipment.append("***Spellbook.*** When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a level for which you have spell slots; the process takes 2 hours and costs 50 gp per level of spell.Once you have spent this time and money, you can prepare the spell just like your other spells. Copying a spell from your spellbook into another spellbook costs half this amount (in time and gold), since you know it already.")
+
+    def spellbookspells(npc):
+        spelllist = ','.join(npc.spellbook)
+        return spelllist
+    npc.defer(lambda npc: npc.traits.append(f"***Spellbook.*** Contents: {spellbookspells(npc)}") )
+```
 
 ### Preparing and Casting Spells
 The Wizard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
@@ -103,13 +140,21 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 **Spell attack modifier** = your proficiency bonus + your Intelligence modifier
 
 ### Ritual Casting
-You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
+You can cast a wizard spell as a ritual if that spell has the *ritual* tag and you have the spell in your spellbook. You don't need to have the spell prepared.
 
 ### Spellcasting Focus
 You can use an arcane focus as a spellcasting focus for your wizard spells.
 
 ### Learning Spells of 1st Level and Higher
-Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook.
+Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook from the list below--these are "common spells" found all across the world and easily obtained. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook. More exclusive and/or rare spells will only be able to be obtained from adventuring sources.
+
+```
+    spellcasting = fullcaster(npc, 'INT', 'Wizard')
+    def setprepared(npc): 
+        npc.spellcasting[name].spellsprepared = npc.INTbonus() + npc.levels('Wizard')
+    npc.defer(lambda npc: setprepared(npc) )
+    npc.spellbook = []
+```
 
 ## Arcane Recovery
 *1st-level wizard feature*
@@ -118,19 +163,21 @@ You have learned to regain some of your magical energy by studying your spellboo
 
 For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.
 
+```
+    npc.defer(lambda npc: npc.traits.append(f"***Arcane Recovery.*** Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level of {(npc.levels('Wizard') // 2) + (npc.levels('Wizard') % 2)}, and none of the slots can be 6th level or higher.") )
+```
+
 ## Arcane Tradition
 *2nd-level wizard feature*
 
 You choose an arcane tradition, shaping your practice of magic through one of the following schools:
 
 * [Abjuration](./Abjuration.md)
-* [Arcane Experimenter](./ArcaneExperimenter.md)
 * [Arcanist](./Arcanist.md)
 * [Artillerist](./Artillerist.md)
 * [Astromancy](./Astromancy.md)
 * [Battle Magi](./BattleMagi.md)
 * [Binder](./Binder.md)
-* [Bladesinger](./Bladesinger.md)
 * [Conjuration](./Conjuration.md)
 * [Dimensionalism](./Dimensionalism.md)
 * [Divination](./Divination.md)
@@ -141,7 +188,6 @@ You choose an arcane tradition, shaping your practice of magic through one of th
 * [Floramancy](./Floramancy.md)
 * [Geomancy](./Geomancy.md)
 * [Green Star](./GreenStar.md)
-* [Hedge Magi](./HedgeMagi.md)
 * [Hydromancy](./Hydromancy.md)
 * [Illusion](./Illusion.md)
 * [Incantation](./Incantation.md)
@@ -168,20 +214,42 @@ Note that many of the [Mage Schools](../../Organizations/MageSchools/index.md) h
 
 Many mage schools will shun contact with those who are not of their mage school, but many also will shun those who are not part of *any* mage school (calling them "wilders"). Other schools look to recruit from the unaffiliated, while still others recognize the unaffiliated as great sources of inspiration.
 
-Additionally, there are some arcane traditions which dare not be practiced openly:
+There are some arcane traditions which choose to not follow the mage school tradition:
+
+* [Ancient Magic](./AncientMagic.md): These magi are those that have discovered some scrap of Eldar lore that has led to deep insights into how Eldar magic worked. They are often highly jealous of their discoveries, and refuse to share their secrets except with a precious few (usually only an apprentice).
+* [Arcane Experimenter](./ArcaneExperimenter.md): Arcane experimenters are often too fast and loose with rules (and concerns for safety) for the comfort of other casters. They are always willing to take on new students to help them with their experiments, but apprentices often find out (too late) that the job comes with a hefty amount of risk.
+* [Hedge Magi](./HedgeMagi.md): Often called "wilders" by those in mage schools, hedge magi are those magi who come to understand magic on their own terms rather than be "constrained" by the rules, traditions, or politics of a mage school.
+* [Bladesinger](./Bladesinger.md): Bladesingers are generally taught in one-on-one master/apprentice relationships, and not in formal schools anymore. Some Bladesingers in permanent residence at a [dueling college](../../Organizations/DuelingColleges/index.md) will take on apprentices, but these are almost always one-on-one pairings.
+* [Voidmancy](./Voidmancy.md): Voidmancers draw from powers that many (most) others would prefer left entirely alone. Voidmancers aren't banished or illegal like Enchanters, Bloodmancers, or Hemonacers, but are often judged "questionable", like Necromancers, and often made out to be the villain when anything arcane goes wrong nearby. Some Voidmancers find a home in a school, but others prefer solitude and take few apprentices.
+
+... and there are those mage schools that choose not (or dare not) practice openly:
 
 * [Bloodmancers](./Bloodmancer.md) and [NeoBloodmancers](./NeoBloodmancer.md): Those who draw power from life's blood can expect to be persecuted on sight; those seeking to join these traditions must find an existing master.
-* [Emomancy](./Emomancy.md): Those wizards who manipulate the emotional spectrum are widely distrusted all across Azgaarnoth. Those who would study it will need to find an existing master Emomancer to pursue this tradition.
-* [Enchantment](./Enchantment.md): Enchanters are widely distrusted all across Azgaarnoth, and are the only major arcane tradition that do not have their own [Mage School](../../Organizations/MageSchools/index.md) focusing on that tradition. That's never stopped those who want to study the power of mortal emotion, however--just made them harder to find.
+* [Emomancy](./Emomancy.md) and [Enchantment](./Enchantment.md): Those wizards who manipulate the emotional spectrum are widely distrusted all across Azgaarnoth. Those who would study it will need to find an existing master Emomancer or Enchanter to pursue this tradition. That's never stopped those who want to study the power of mortal emotion, however--just made them harder to find.
 * [Hemomancy](./Hemomancy.md): Like the Bloodmancers, Hemomancers explore the power of blood, which often puts them squarely in the sights of those who decry such powers.
 * [Necromancy](./Necromancy.md): Like all things related to the undead, necromancers often need to practice their skills in secret. However, several necromantic mage schools do operate in the open, either because they have political protection, or because their self-imposed oaths provide some degree of guarantee to the locals (such as the [Night's Blessing](../../Organizations/MageSchools/NightsBlessing.md) school, which studies necromancy as part of its pursuit of the studies of life and healing).
-* [Voidmancy](./Voidmancy.md): Voidmancers draw from powers that many (most) others would prefer left entirely alone. 
 
 ### Arcane Tradition Spells
-Note that many spells in use across the Azgaarnothian lands are "restricted", in the sense that those who know those spells are reluctant to allow the spell's text to be in the hands of "just anyone". Any spell listed in the *Player's Handbook* is considered a "core" spell and thus accessible to any Wizard; any spell not listed there is "restricted" and therefore must be obtained through some means before a Wizard can cast it. (*GM Note: This is one of the primary uses of the Mage Schools, to serve as a source for restricted spells.*) For this reason, mage schools often make a fair amount of money from selling access to their unique spell lists to other non-member schools for a hefty fee.
+Note that many spells in use across the Azgaarnothian lands are "restricted", in the sense that those who know those spells are reluctant to allow the spell's text to be in the hands of "just anyone". Any spell listed [below](#core-wizard-spells) (which includes all those listed in the *Player's Handbook*) is considered a "core" spell and thus easily accessible to any Wizard; any spell not listed there is "restricted" and therefore must be obtained through some alternative means. (*GM Note: This is one of the primary uses of the Mage Schools, to serve as a source for restricted spells.*) Different mage schools will have different rules, guidelines, or prices for their restricted spells.
+
+```
+def level2(npc):
+    # Choose subclass
+    (_, subclass) = choose("Choose an Arcane Tradition:", subclasses)
+    npc.subclasses[allclasses['Wizard']] = subclass
+    npc.description.append(subclass.description)
+```
 
 ## [Ability Score Improvement](#ability-score-improvement)
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+```
+def level4(npc): abilityscoreimprovement(npc)
+def level8(npc): abilityscoreimprovement(npc)
+def level12(npc): abilityscoreimprovement(npc)
+def level16(npc): abilityscoreimprovement(npc)
+def level19(npc): abilityscoreimprovement(npc)
+```
 
 ## Spell Mastery
 *18th-level wizard feature*
@@ -190,6 +258,11 @@ You have achieved such mastery over certain spells that you can cast them at wil
 
 By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
 
+```
+def level18(npc):
+    npc.traits.append("***Spell Mastery.*** By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.")
+```
+
 ## Signature Spells
 *20th-level wizard feature*
 
@@ -197,13 +270,18 @@ You gain mastery over two powerful spells and can cast them with little effort. 
 
 If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
+```
+def level20(npc):
+    npc.traits.append("***Signature Spells.*** You gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest. If you want to cast either spell at a higher level, you must expend a spell slot as normal.")
+```
+
 ---
 
 # "Core" Wizard Spells
 This is a list of the spells accessible to any wizard throughout Azgaarnoth (under most normal circumstances--it is possible, for example, that a wizard character came to power outside of any of the normal backgrounds thus has a very paltry spellbook to start as a handicap). 
 
 > ### GM Notes
-> These are all the spells found in the *Player's Handbook*, with no additions. In game terms, these spells are common spells as classified by the [White Winds](../../Organizations/MageSchools/WhiteWinds.md) school, and are always accessible for copy into a wizard's spellbook for a nominal fee.
+> These are all the spells found in the *Player's Handbook*, with few additions. In game terms, these spells are common spells as classified by the [White Winds](../../Organizations/MageSchools/WhiteWinds.md) school, and are always accessible for copy into a wizard's spellbook for a nominal fee.
 
 ## Cantrips
 * [acid splash](../../Magic/Spells/acid-splash.md)
@@ -330,22 +408,22 @@ This is a list of the spells accessible to any wizard throughout Azgaarnoth (und
 * [conjure minor elementals](../../Magic/Spells/conjure-minor-elementals.md)
 * [control water](../../Magic/Spells/control-water.md)
 * [dimension door](../../Magic/Spells/dimension-door.md)
-* Evard's Black Tentacles
-* Fabricate
-* Fire Shield
-* Greater Invisibility
-* Hallucinatory Terrain
+* [Evard's black tentacles](../../Magic/Spells/evards-black-tentacles.md)
+* [fabricate](../../Magic/Spells/fabricate.md)
+* [fire shield](../../Magic/Spells/fire-shield.md)
+* [greater invisibility](../../Magic/Spells/greater-invisibility.md)
+* [hallucinatory terrain](../../Magic/Spells/hallucinatory-terrain.md)
 * [ice storm](../../Magic/Spells/ice-storm.md)
-* Leomund's Secret Chest
-* Locate Creature
-* [mordenkainen's faithful hound](../../Magic/Spells/mordenkainens-faithful-hound.md)
-* [mordenkainen's private sanctum](../../Magic/Spells/mordenkainens-private-sanctum.md)
-* Otiluke's Resilient Sphere
-* Phantasmal Killer
-* Polymorph
-* Stone Shape
-* Stoneskin
-* Wall of Fire
+* [Leomund's secret chest](../../Magic/Spells/leomunds-secret-chest.md)
+* [locate creature](../../Magic/Spells/locate-creature.md)
+* [Mordenkainen's faithful hound](../../Magic/Spells/mordenkainens-faithful-hound.md)
+* [Mordenkainen's private sanctum](../../Magic/Spells/mordenkainens-private-sanctum.md)
+* [Otiluke's resilient sphere](../../Magic/Spells/otilukes-resilient-sphere.md)
+* [phantasmal killer](../../Magic/Spells/phantasmal-killer.md)
+* [polymorph](../../Magic/Spells/polymorph.md)
+* [stone shape](../../Magic/Spells/stone-shape.md)
+* [stoneskin](../../Magic/Spells/stoneskin.md)
+* [wall of fire](../../Magic/Spells/wall-of-fire.md)
 
 ## 5th Level
 * [animate objects](../../Magic/Spells/animate-objects.md)

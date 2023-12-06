@@ -1,94 +1,117 @@
 >### Name
->*Small Female humanoid (Goblin) Cleric (Plague) 8, any alignment*
+>*Medium Female humanoid (Bugbear) Wizard (Ancient Magic) 20, any alignment*
 >___
->- **Armor Class** 17 (Scale mail (14),DEX (+3))
->- **Hit Points** 68 (8d8 + 24)
+>- **Armor Class** 11 (DEX (+1))
+>- **Hit Points** 94 (20d6 + 0)
 >- **Speed** 30 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:-:|:-:|:-:|:-:|:-:|:-:|
->|11 (+0)|17 (+3)|17 (+3)|9 (-1)|19 (+4)|12 (+1)|
+>|13 (+1)|12 (+1)|11 (+0)|19 (+4)|11 (+0)|11 (+0)|
 >___
->- **Proficiency Bonus** +4
->- **Saving Throws** Wis +8,Cha +5
+>- **Proficiency Bonus** +7
+>- **Saving Throws** Wis +7,Int +11
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
 >- **Damage Immunities** 
 >- **Condition Immunities** 
->- **Skills** History +3,Insight +8
->- **Proficiencies** Breastplate,Chain shirt,Club,Dagger,Dart,Greatclub,Half-plate,Handaxe,Hide armor,Javelin,Leather armor,Light Crossbow,Light hammer,Mace,Medicine,Padded armor,Quarterstaff,Scale mail,Shield,Shortbow,Sickle,Sling,Spear,Studded leather armor
->- **Senses** darkvision 60,passive Perception 14
+>- **Skills** Arcana +11,Insight +7,Stealth +8
+>- **Proficiencies** Dagger,Dart,Light crossbow,Quarterstaff,Sling
+>- **Senses** darkvision 60,passive Perception 10
 >- **Languages** Common,Goblin
 >___
->***Aura of Decay.*** You emanate an aura of decay that extends 10 feet from you, and any enemy creature that starts its turn within this aura takes 8 necrotic damage. This damage ignores resistance and immunity to necrotic damage.
+>***Arcane Recovery.*** Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level of 10, and none of the slots can be 6th level or higher.
 >
->***Channel Divinity (2/Recharges on short or long rest).*** See below for the details of each use.
+>***Aura of Magic.*** You now emit a 10 foot magical aura. This aura dispels all illusions that come into contact with the aura, and you can sense whenever a creature enters or exits your aura, but not where they are in your aura.
 >
->***Divine Strike.*** Once on each of your turns, when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 necrotic damage to the target.
+>***Enhanced Spellcasting.*** When you cast a cantrip or spell that deals damage and roll a 1 on a damage roll, you may reroll the die. You must then use the new roll.
 >
->***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+>***Long-Limbed.*** When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
 >
->***Fury of the Small (4/Recharges on long rest).*** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal 8 extra damage to the creature. You can use this trait no more than once per turn.
+>***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 >
->***Plaguebearer.*** When you hit a creature with a melee attack, you can choose to inflict a disease on the target. The target must succeed on a Constitution saving throw (DC 16) or become infected with a disease of your choice from the [list of Tier 1 diseases](http://azgaarnoth.tedneward.com/conditions/diseased/#tier-one-diseases).
+>***Signature Spells.*** You gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+>
+>***Spell Mastery.*** By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+>
+>***Spellbook.*** Contents: 
+>
+>***Studied.*** You have advantage on any Intelligence (Arcana) or Intelligence (History) checks related to magic.
+>
+>***Surprise Attack.*** If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.
+>
+>***War Caster: Concentration.*** You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
+>
+>***War Caster: Somaticism.*** You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
 >
 >#### Actions
->***Channel Divinity: Plague's Embrace.*** You present your holy symbol and select a creature you can see within 30 feet of you. The target must make a Constitution saving throw (DC 16) or be affected by a [Tier 1 disease of your choice](http://azgaarnoth.tedneward.com/conditions/diseased/#tier-one-diseases). The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+>***Ancient Glyph (Recharges on long rest).*** You place an ancient glyph of magic on a creature you can see within 60 feet of you. For 1 minute, they have disadvantage on saving throws caused by spells you cast, they take 1d10 psychic damage at the start of their turn, and you have advantage on any saving throws due to the target's actions, bonus actions, reactions, or other activities.
 >
->***Channel Divinity: Turn Undead.***  You can use one of your uses of Channel Divinity to turn undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, if it is a CR of 1 or lower it is destroyed; otherwise it is turned for 1 minute or until it takes any damage.A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
+>***Wizard Spellcasting (Int, at level 20. Recharges on long rest).*** 24 spells prepared. Spell save DC: 19, Spell attack bonus: +11
 >
->***Cleric Spellcasting (Wis, at level 8. Recharges on long rest).*** 4 cantrips known. 12 spells prepared. Spell save DC: 16, Spell attack bonus: +8
->
->Spells always prepared: [ray of sickness](http://azgaarnoth.tedneward.com/magic/spells/ray-of-sickness/),[inflict wounds](http://azgaarnoth.tedneward.com/magic/spells/inflict-wounds/),[cloud of daggers](http://azgaarnoth.tedneward.com/magic/spells/cloud-of-daggers/),[blindness-deafnes](http://azgaarnoth.tedneward.com/magic/spells/blindness-deafnes/),[stinking cloud](http://azgaarnoth.tedneward.com/magic/spells/stinking-cloud/),[contagion](http://azgaarnoth.tedneward.com/magic/spells/contagion/),[blight](http://azgaarnoth.tedneward.com/magic/spells/blight/),[confusion](http://azgaarnoth.tedneward.com/magic/spells/confusion/)
->
->* *Cantrips:* [poison spray](http://azgaarnoth.tedneward.com/magic/spells/poison-spray/)
 >* *1st (4 slots):* 
 >* *2nd (3 slots):* 
 >* *3rd (3 slots):* 
->* *4th (2 slots):* 
+>* *4th (3 slots):* 
+>* *5th (3 slots):* 
+>* *6th (2 slots):* 
+>* *7th (2 slots):* 
+>* *8th (1 slots):* 
+>* *9th (1 slots):* 
+>
+>
+>#### Reactions
+>***War Caster: Opportunity Cast.*** When a hostile creature's movement provokes an opportunity attack from you, you can cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature. This does not count against your ability to cast a spell during your turn.
+>
 >
 >#### Bonus Actions
->***Channel Divinity: Harness Divine Power.*** You can expend a use of your Channel Divinity to regain one expended spell slot, the level of which can be no higher than 3.
->
->***Nimble Escape.*** You can take the Disengage or Hide action as a bonus action on each of your turns.
+>***Arcane Protection (Recharges on long rest).*** You touch a creature, giving it a +3 bonus to all saving throws for 8 hours.
 >
 >
 >#### Equipment
->Mace
+>Quarterstaff OR dagger
 >
->Light crossbow and 20 bolts
+>Component pouch OR Arcane focus
 >
->Priest's pack
+>Scholar's pack OR Explorer's pack
 >
->Shield
->
->Holy symbol
+>***Spellbook.*** When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a level for which you have spell slots; the process takes 2 hours and costs 50 gp per level of spell.Once you have spent this time and money, you can prepare the spell just like your other spells. Copying a spell from your spellbook into another spellbook costs half this amount (in time and gold), since you know it already.
 >
 >***Magic Item: Uncommon Permanent.***
 >
 >***Magic Item: Uncommon Permanent.***
+>
+>***Magic Item: Rare Permanent.***
+>
+>***Magic Item: Rare Permanent.***
+>
+>***Magic Item: Very Rare Permanent.***
+>
+>***Magic Item: Legendary Permanent.***
 >
 
 #### Description
-***Ideals:*** *Redemption/Freedom/Slaughter.*
+***Ideals:*** *Fairness/Greater good/Knowledge.*
 
-***Appearance:*** *Bald.*
+***Appearance:*** *Braided beard or hair.*
 
-***Talents:*** *Great with animals.*
+***Talents:*** *Skilled mime.*
 
 ***Mannerisms:*** *Uses flowery speech or long words.*
 
-***Interactions with others:*** *Honest with others.*
+***Interactions with others:*** *Curious when speaking with others.*
 
-***Bond:*** *Out for revenge.*
+***Bond:*** *Protective of colleagues or compatriots.*
 
 ***Flaw:*** *Quick to make assumptions.*
 
-***Race: Goblin.*** Originally a subterranean folk that came to Azgaarnoth as part of the Hordes, goblins can now be found in every corner of Azgaarnoth, often beside their bugbear and hobgoblin kin. Goblins hae thrived in dangerous environments thanks to a special knack for finding the weak spots in foes larger than themselves and for getting out of trouble. Originally the lackeys and servants of their larger goblinoid kin, now many goblins pursue their own destinies, escaping the plots of archfey, gods, and would-be warlords.
+***Race: Bugbear.*** Bugbears were the lazy bullies of the Hordes, and the rest of Azgaarnoth is grateful that these physical specimens of might have generally chosen the easiest path rather than seek to assert themselves collectively as a race. The only members of the Hordes that might have challenged the minotaurs for primacy over the Hordes, bugbears instead chose to focus on their own indolence rather than leadership and control, and the average bugbear continues that tradition to this day.
 
-***Class: Cleric.*** Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
+***Class: Wizard.*** Wizards are supreme magic-users, defined and united as a class by the spells they cast. Drawing on the subtle weave of magic that permeates the cosmos, wizards cast spells of explosive fire, arcing lightning, subtle deception, brute-force mind control, and much more.
 
-***Divine Domain: Plague.*** Clerics of the Plague domain are conduits of disease, decay, and pestilence. They wield the power of sickness to weaken their enemies and bring suffering to those who oppose them.
+***Arcane Tradition: Ancient Magic.*** You have stumbled upon some source of ancient magic (often--but not always--Eldar magic), whether it be spellcasting notes, an old magical item, magic runes, or something else which you are only starting to unravel the secrets of. The only thing that you know for certain is that this source of magic will enhance your spellcasting in some way.
+
+***Feat: War Caster.*** You have practiced casting spells in the midst of combat, learning useful techniques.
 
 
 

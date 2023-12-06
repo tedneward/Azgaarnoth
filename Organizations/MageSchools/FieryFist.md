@@ -1,7 +1,7 @@
 # Mage School: Fiery Fist
 **Home**: [Mighal](../../Cities/Mighal)
 
-**Enrollment**: 
+**Enrollment**: ~7,500; ~5,000 "deployed" magi in combat units (primarily in Chidia), and another ~2,500 in towers all across Azgaarnoth
 
 **Motto**: "Might Answers Problems"
 
@@ -29,3 +29,7 @@ The sight of a Fiery Fist magi throwing their robes back and spreading their han
 Fiery Fist magi have connections with almost every mercenary company in Azgaarnoth, for obvious reasons. They are often less interested in the work done by other mage schools, though they have grudging respect for the [Silent Tower](SilentTower.md) (reconnaissance is important to any military strategy) and frequently sigh with relief when [Night's Blessing](NightsBlessing.md) magi are accompanying them.
 
 They have a deep rivalry with [Crimson Tongue](CrimsonTongue.md) magi, and duels between members of the two schools are not uncommon. Unlike the festivals with the Hewn Arch or the High Tower, these duels are never taken lightly.
+
+## Restricted Spells
+
+* 

@@ -214,7 +214,7 @@ Once you use this invocation, you can't use it again until you finish a short or
 
 ```
 def cloakofflies(npc):
-    npc.bonusactions.append("***Cloak of Flies (Recharges on short or long rest).*** You surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're incapacitated or you dismiss it as a bonus action. The aura grants you advantage on Charisma (Intimidation) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 0 damage).")
+    npc.defer(lambda npc: npc.bonusactions.append("***Cloak of Flies (Recharges on short or long rest).*** You surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're incapacitated or you dismiss it as a bonus action. The aura grants you advantage on Charisma (Intimidation) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes {npc.CHAbonus()} poison damage.") )
 
 def cloakofflies_prereq(npc): return npc.levels('Warlock') >= 5
 ```
@@ -322,6 +322,21 @@ def eldritchspear(npc):
     npc.actions.append("***Eldritch Spear.*** When you cast eldritch blast, its range is 300 feet.")
 
 def eldritchspear_prereq(npc): return True
+```
+
+### Elemental Attunement
+When you finish a long rest, you choose one of four elements below to attune to. While attuned to an element, you know an associated cantrip as a warlock spelL and it doesn't count against the number of cantrips you can know as a warlock. You gain the following benefits while attuned to each element:
+
+* **Air.** You know the [gust](../../Magic/Spells/gust.md) cantrip, and you can hold your breath for twice as long.
+* **Earth.** You know the [mold earth](../../Magic/Spells/mold-earth.md) cantrip, and you have advantage on ability checks made to climb earth or stone.
+* **Fire.** You know the [control flames](../../Magic/Spells/control-flames.md) cantrip, and you have advantage on saving throws made to resist the effects of extreme heat.
+* **Water.** You know the [shape water](../../Magic/Spells/shape-water.md) cantrip, and you have advantage on saving throws made to resist the effects of extreme cold.
+
+```
+def elementalattunement(npc):
+    npc.traits.append(f"***Elemental Attunement.*** When you finish a long rest, you choose one of four elements below to attune to. While attuned to an element, you know an associated cantrip as a warlock spelL and it doesn't count against the number of cantrips you can know as a warlock. You gain the following benefits while attuned to each element: **Air.** You know the {spelllinkify('gust')} cantrip, and you can hold your breath for twice as long. **Earth.** You know the {spelllinkify('mold earth')} cantrip, and you have advantage on ability checks made to climb earth or stone. **Fire.** You know the {spelllinkify('control flames')} cantrip, and you have advantage on saving throws made to resist the effects of extreme heat. **Water.** You know the {spelllinkify('shape water')} cantrip, and you have advantage on saving throws made to resist the effects of extreme cold.")
+
+def elementalattunement_prereq(npc): return True
 ```
 
 ### Enticing Gaze
@@ -1020,7 +1035,7 @@ When you hit a creature with a natural weapon while in your Cursed Shapechanger 
 Once you use this invocation, you must finish a long rest before you can use it again.
 
 ### Cursed Regeneration
-*Prerequisite: 5th levei Progenitor Patron*
+*Prerequisite: 5th level; Progenitor Patron*
 
 You regain hit points equal to half your proficiency bonus once every hour, so long as this invocation is still functioning the entire time. At the start of each of your turns, you can choose to expend up that many hit dice to regain hit points as if you had finished a short rest. However, you must also choose one of the following flaws to gain when you learn this invocation:
 
@@ -1028,7 +1043,7 @@ You regain hit points equal to half your proficiency bonus once every hour, so l
 * **Alchemical Weakness.** This invocation doesn't function if any part of your body is touching fire or silver. If you take fire damage or damage from an attack using a silvered weapon, this invocation doesn't function until the end of your next turn.
 
 ### Dark and Terrible
-*Prerequisite: 5th levei Progenitor Patron*
+*Prerequisite: 5th level; Progenitor Patron*
 
 While you are in your cursed form, you can make an attack with your natural weapon twice, instead of once, when you take the Attack action on your turn. Also, your natural weapon deals 1d10 damage instead of 1d8 and counts as magical for overcoming resistance or immunity.
 
@@ -1046,17 +1061,9 @@ When you deal acid damage to a creature using a warlock spell or feature, you ig
 ### Eldritch Mount
 *Prerequisite: 5th level*
 
-You can expend a warlock spell slot to cast phantom steed, although you are the only creature that can ride the steed conjured by the spell.
+You can expend a warlock spell slot to cast [phantom steed](../../Magic/Spells/phantom-steed.md), although you are the only creature that can ride the steed conjured by the spell.
 
 Once you use this invocation, you must finish a long rest before you can use it again.
-
-### Elemental Attunement
-When you finish a long rest, you choose one of four elements below to attune to. While attuned to an element, you know an associated cantrip as a warlock spelL and it doesn't count against the number of cantrips you can know as a warlock. You gain the following benefits while attuned to each element:
-
-* **Air.** You know the [gust](../../Magic/Spells/gust.md) cantrip, and you can hold your breath for twice as long.
-* **Earth.** You know the [mold earth](../../Magic/Spells/mold-earth.md) cantrip, and you have advantage on ability checks made to climb earth or stone.
-* **Fire.** You know the [control flames](../../Magic/Spells/control-flames.md) cantrip, and you have advantage on saving throws made to resist the effects of extreme heat.
-* **Water.** You know the [shape water](../../Magic/Spells/shape-water.md) cantrip, and you have advantage on saving throws made to resist the effects of extreme cold.
 
 ### Enchanted Slumber
 *Prerequisite: 15th level*
@@ -1437,6 +1444,7 @@ invocations = {
     'Eldritch Sight': [eldritchsight, eldritchsight_prereq],
     'Eldritch Smite': [eldritchsmite, eldritchsmite_prereq],
     'Eldritch Spear': [eldritchspear, eldritchspear_prereq],
+    'Elemental Attunement': [elementalattunement, elementalattunement_prereq],
     'Enticing Gaze': [enticinggaze, enticinggaze_prereq],
     'Eyes of the Rune Keeper': [eyesoftherunekeeper, eyesoftherunekeeper_prereq],
     'Far Scribe': [farscribe, farscribe_prereq],

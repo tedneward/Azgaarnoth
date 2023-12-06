@@ -2,7 +2,7 @@
 Ferromancers are specialists in metal and magnetism; learning to create or manipulate metal objects, enhance or destroy them, or use magnetic forces to attract, repel or statically charge nearby metal. Ferromancers favor metal weapons and armor, their unique specialty enhanced, not hindered, by bulky raiment and arms.
 
 ## Bonus Proficiencies
-Starting at 2nd level you are proficient with all metal weapons and metal armor. You also learn the heat metal spell, adding it to your spellbook, but you cannot cast it until you have access to 2nd level spell slots.
+Starting at 2nd level you are proficient with all metal weapons and metal armor. You also learn the [heat metal](../../Magic/Spells/heat-metal.md) spell, adding it to your spellbook, but you cannot cast it until you have access to 2nd level spell slots.
 
 ## Magnetic Ward
 Beginning at 2nd level, as a reaction you can generate a magnetic ward around yourself that interferes with incoming weapon attacks, deflecting and reducing their velocity. For 1 minute, you reduce all damage that you take from weapon attacks by an amount equal to your Intelligence modifier (minimum of 1). You do not regain hit points if the damage is reduced to below zero. You regain the use of this ability after completing a long rest. At 10th level, you regain the use of this ability after finishing a short or long rest.
