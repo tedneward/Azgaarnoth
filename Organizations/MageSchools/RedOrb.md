@@ -1,7 +1,7 @@
 # Mage School: School of the Red Orb
 **Home**: None known
 
-**Enrollment**: unknown; the largest known school has ~50 members
+**Enrollment**: unknown; the largest known tower has ~50 members
 
 **Motto**: "Embrace Hell"
 
@@ -15,4 +15,6 @@ Membership in the school is difficult to come by, as they seek to keep a low pro
 ## Connections
 
 ## Restricted Spells
+Restricted spells are never accessible to non-members, and ownership of one of these spells by a non-member is cause for immediate attempts at execution by Red Orb members.
+
 

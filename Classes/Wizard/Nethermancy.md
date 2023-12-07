@@ -7,6 +7,7 @@ Common folk are often quick to distrust a nethermancer, but shadow magic's apolo
 Beginning at 2nd level when you choose this arcane tradition, you understand the darkness as few mortal beings can. You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
 
 Additionally, the gold and time you must spend to copy a spell into your spellbook is halved if the copied spell does one or more of the following things:
+
 * Creates magical darkness
 * Deals necrotic damage
 * Teleports you

@@ -34,7 +34,7 @@ You learn one additional maneuver of your choice at 6th level, 10th level, and 1
 **Maneuver save DC** = 8 + your proficiency bonus + your Intelligence modifier.
 
 ```
-    npc.defer(lambda npc: npc.traits.append("***Superiority Dice.*** You have {'four' if npc.levels('Wizard') < 7 else 'five' if npc.levels('Wizard') < 15 else 'six'} superiority dice, which are {'d6' if npc.levels('Wizard') < 10 else 'd8' if npc.levels('Wizard') < 18 else 'd10'}s. A superiority die is expended when you use it. **Maneuver Save DC {8 + npc.proficiencybonus() + npc.INTbonus()}**") )
+    npc.defer(lambda npc: npc.traits.append(f"***Superiority Dice.*** You have {'four' if npc.levels('Wizard') < 7 else 'five' if npc.levels('Wizard') < 15 else 'six'} superiority dice, which are {'d6' if npc.levels('Wizard') < 10 else 'd8' if npc.levels('Wizard') < 18 else 'd10'}s. A superiority die is expended when you use it. **Maneuver Save DC {8 + npc.proficiencybonus() + npc.INTbonus()}**") )
 
     npc.arcanemaneuvers = []
     choosearcanemaneuver(npc)
@@ -77,7 +77,7 @@ def occultinsight(npc):
 
 ```
 def powersurge(npc):
-    npc.defer(lambda npc: npc.reactions.append("***Power Surge.*** When you hit a creature with an attack, or it fails a saving throw against a spell you cast, you expend one superiority die and deal force damage equal to {'the' if npc.levels('Wizard') < 11 else 'twice the'} result of the superiority die. If the spell affects more than one creature, you choose which creature takes the additional damage.") )
+    npc.defer(lambda npc: npc.reactions.append(f"***Power Surge.*** When you hit a creature with an attack, or it fails a saving throw against a spell you cast, you expend one superiority die and deal force damage equal to {'the' if npc.levels('Wizard') < 11 else 'twice the'} result of the superiority die. If the spell affects more than one creature, you choose which creature takes the additional damage.") )
 ```
 
 * **Spell Dispersal**. If you are required to make a saving throw against a spell or magical effect, as a reaction, you can expend one superiority die and add the number rolled on the superiority die to your saving throw. You apply this bonus after you roll the die, but before the outcome is determined.
@@ -105,7 +105,11 @@ arcanemaneuvers = {
     'Weave Ward': weaveward
 }
 def choosearcanemaneuver(npc):
-    (name, fn) = choose("Choose an arcane maneuver: ", arcanemaneuvers)
+    available = {}
+    for amname in arcanemaneuvers:
+        if amname not in npc.arcanemaneuvers:
+            available[amname] = arcanemaneuvers[amname]
+    (name, fn) = choose("Choose an arcane maneuver: ", available)
     npc.arcanemaneuvers.append(name)
     fn(npc)
 ```

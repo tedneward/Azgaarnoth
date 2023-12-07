@@ -3,8 +3,6 @@ A variety of arcane colleges (most notably the [Fiery Fist](../../Organizations/
 
 Followers of this tradition are known as war mages. They see their magic as both a weapon and armor, a resource superior to any piece of steel. War mages act fast in battle, using their spells to seize tactical control of a situation. Their spells strike hard, while their defensive skills foil their opponents' attempts to counterattack. War mages are also adept at turning other spellcasters' magical energy against them.
 
-In great battles, a war mage often works with [evokers](Evocation.md), [abjurers](Abjuration.md), and other types of wizards. Evokers, in particular, sometimes tease war mages for splitting their attention between offense and defense. A war mage's typical response: "What good is being able to throw a mighty Fireball if I die before I can cast it?"
-
 ## Arcane Deflection
 At 2nd level, you have learned to weave your magic to fortify yourself against harm. When you are hit by an attack or you fail a saving throw, you can use your reaction to gain a +2 bonus to your AC against that attack or a +4 bonus to that saving throw.
 

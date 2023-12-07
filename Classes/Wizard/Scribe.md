@@ -1,7 +1,7 @@
 # Arcane Tradition: Scribe
 Magic of the book--that's what many spellcasters call wizardry. The name is apt, given how much time wizards spend poring over their spellbooks, penning theories about the nature of magic, and exploring the farthest recesses of libraries. It's rare to see a wizard traveling without books and scrolls sprouting from their bags, and a wizard would go to great lengths to plumb an archive of ancient knowledge.
 
-Among wizards, the Scriveners school is the most bookish. Its primary mission: recording discoveries (particularly those magical in nature) in tomes and scrolls so that wizardry can flourish. And while every wizard values their spellbook, a Scrivener dedicates themself to magically awakening their book, turning it into a trusted companion. All wizards study their spellbooks, but a wizardly scribe talks to theirs!
+Among wizards, the Scriveners school is the most bookish. Its primary mission: recording discoveries (particularly those magical in nature) in tomes and scrolls so that wizardry can flourish. And while every wizard values their spellbook, a Scrivener dedicates themself to magically awakening their book, turning it into a trusted companion. All wizards study their spellbooks, but a scribe talks to theirs.
 
 ## Wizardly Quill
 *2nd-level Order of Scribes feature*

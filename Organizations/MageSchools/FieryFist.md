@@ -31,5 +31,12 @@ Fiery Fist magi have connections with almost every mercenary company in Azgaarno
 They have a deep rivalry with [Crimson Tongue](CrimsonTongue.md) magi, and duels between members of the two schools are not uncommon. Unlike the festivals with the Hewn Arch or the High Tower, these duels are never taken lightly.
 
 ## Restricted Spells
+These spells are never shared with anyone outside of the Fiery Fist school. Any non-member found using any of these spells will find something terrible happening to them (or their spellbook) at some point in the future. (Part of the reason for the rivalry between this school and the Crimson Sunrise is the long-ancient accustation that one school stole several of these restricted spells from the other--and by this point, no one is quite sure which school started it.)
 
-* 
+Within the school, these spells are only made available to members who go out on active deployment.
+
+* 1st: [warding blade](../../Magic/Spells/warding-blade.md)
+* 2nd: [aggressive surge](../../Magic/Spells/aggressive-surge.md)
+* 3rd: [hungering blade](../../Magic/Spells/hungering-blade.md)
+* 4th: [arcane resilience](../../Magic/Spells/arcane-resilience.md)
+* 5th: [blessing of the elements](../../Magic/Spells/blessing-of-the-elements.md)

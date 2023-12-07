@@ -30,6 +30,8 @@ Starting at 14th level, you can store one spell of 4th level or lower in your go
 
 Whenever the golem has a spell stored within it, at the start of each of its turns, and as long as it has at least 1 hit point, the golem regains 5 hit points. Additionally, it gains the magic resistance trait, and its slam attacks count as magical for the purposes of overcoming damage immunities and resistances.
 
+---
+
 # Golemancy Spells
 
 ## 2nd-level

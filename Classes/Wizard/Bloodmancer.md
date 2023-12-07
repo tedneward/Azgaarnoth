@@ -10,7 +10,7 @@ This is often a misperception. Blood mages may not confine themselves to the lab
 ## A Tale of Two Traditions
 For a time, in the ancient days, the art of using the blood as power was threatened with extinction. Vigorous prosecution by various arcane and divine organizations had reduced those who practiced its skills down to a mere handful. As a result, instruction suffered; students were forced to improvise and learn on their own, rather than build upon what those before them had studied.
 
-Over time, the traditions of the bloodmancer varied and broke away from the ancient ways, and although the ancient ways eventually reasserted themselves centuries later, by that time already a new tradition had been born, colloquially called the "neobloodmancer". Those that learn the original path are referred more simply as "bloodmancers".
+Over time, the traditions of the bloodmancer varied and broke away from the ancient ways, and although the ancient ways eventually reasserted themselves centuries later, by that time already a new tradition had been born, colloquially called the ["neobloodmancer"](./NeoBloodmancer.md). Those that learn the original path are referred more simply as "bloodmancers".
 
 ## Blood Savant
 You combine the source of your arcane power with the blood flowing through your veins. When you select this arcane tradition at 2nd level, you gain proficiency in Medicine and double your proficiency bonus to any check made with the skill, instead of your normal proficiency bonus.

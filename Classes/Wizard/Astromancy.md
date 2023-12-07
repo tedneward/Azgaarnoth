@@ -1,6 +1,13 @@
 # Arcane Tradition: Astromancy
 Wizards who practice astromancy learn to harness the full power of both the heavens and the earth; to aid, hinder, or destroy. With an extreme love of the celestial bodies, they learn to extend their awareness of the weave to the stars. Having a deep respect for the power of the planet itself, they are able to manipulate the power of gravity itself. While scoffing at the idea that their school is in any way related to the predictive nature of astrology (a common mistake among the uninitiated), their powers are more often employed in professions where security or displays of force are required.
 
+While scoffing at the idea that their school is in any way related to the predictive nature of astrology (a common mistake among the uninitiated), their powers are more often employed in professions where security or displays of force are required. Most astromncers are a part of the [Four Moons](../../Organizations/MageSchools/FourMoons.md) or [Heaven's Gate](../../Organizations/MageSchools/HeavensGate.md) schools school at some point in their lives.
+
+```
+name = 'Astromancy'
+description = "***Arcane Tradition: Astromancy.*** Wizards who practice astromancy learn to harness the full power of both the heavens and the earth; to aid, hinder, or destroy. With an extreme love of the celestial bodies, they learn to extend their awareness of the weave to the stars. Having a deep respect for the power of the planet itself, they are able to manipulate the power of gravity itself."
+```
+
 ## Star Sight
 At 2nd level, your eyes glow with a flicker of starlight, even in the darkest dark. You gain darkvision out to a range of 30 feet and it can't be impeded by magical darkness. If you already have darkvision, its range increases by 30 feet.
 

@@ -13,3 +13,5 @@ Only those who are dedicated to the study of the Star are permitted membership; 
 ## Tendencies
 
 ## Connections
+
+## Restricted Spells

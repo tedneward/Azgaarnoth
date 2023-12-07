@@ -19,11 +19,13 @@ Crimson Sunrise magi are usually not found within cities, except when taking lea
 Many of the wizards who are a part of Crimson Sunrise are of the [Battle Magi](../../Classes/Wizard/BattleMagi.md), and several are a part of the school's unique arcane tradition, [Alchemical Artillery](../../Classes/Wizard/Artillerist.md).
 
 ## Restricted Spells
-These spells are never shared with anyone outside of the Crimson Sunrise school. Any non-member found using any of these spells will find something terrible happening to them (or their spellbook) at some point in the future.
+These spells are never shared with anyone outside of the Crimson Sunrise school. Any non-member found using any of these spells will find something terrible happening to them (or their spellbook) at some point in the future. (Part of the reason for the rivalry between this school and the Fiery Fist is the long-ancient accustation that one school stole several of these restricted spells from the other--and by this point, no one is quite sure which school started it.)
 
 Within the school, these spells are only made available to members who go out on active deployment.
 
 * cantrips: [alchemical grenade](../../Magic/Spells/alchemical-grenade.md)
-* 1st: [shrapnel ray](../../Magic/Spells/shrapnel-ray.md)
-* 3rd: [arcane ball bearings](../../Magic/Spells/arcane-ball-bearings.md)
-* 5th: [fires of Avernus](../../Magic/Spells/fires-of-Avernus.md)
+* 1st: [shrapnel ray](../../Magic/Spells/shrapnel-ray.md), [warding blade](../../Magic/Spells/warding-blade.md)
+* 2nd: [aggressive surge](../../Magic/Spells/aggressive-surge.md)
+* 3rd: [arcane ball bearings](../../Magic/Spells/arcane-ball-bearings.md), [hungering blade](../../Magic/Spells/hungering-blade.md)
+* 4th: [arcane resilience](../../Magic/Spells/arcane-resilience.md)
+* 5th: [blessing of the elements](../../Magic/Spells/blessing-of-the-elements.md), [fires of Avernus](../../Magic/Spells/fires-of-Avernus.md)

@@ -229,8 +229,12 @@ There are some arcane traditions which choose to not follow the mage school trad
 * [Hemomancy](./Hemomancy.md): Like the Bloodmancers, Hemomancers explore the power of blood, which often puts them squarely in the sights of those who decry such powers.
 * [Necromancy](./Necromancy.md): Like all things related to the undead, necromancers often need to practice their skills in secret. However, several necromantic mage schools do operate in the open, either because they have political protection, or because their self-imposed oaths provide some degree of guarantee to the locals (such as the [Night's Blessing](../../Organizations/MageSchools/NightsBlessing.md) school, which studies necromancy as part of its pursuit of the studies of life and healing).
 
+As a mage grows in skill, they will need to look for opportunities to gain new spells in their spellbook.
+
 ### Arcane Tradition Spells
 Note that many spells in use across the Azgaarnothian lands are "restricted", in the sense that those who know those spells are reluctant to allow the spell's text to be in the hands of "just anyone". Any spell listed [below](#core-wizard-spells) (which includes all those listed in the *Player's Handbook*) is considered a "core" spell and thus easily accessible to any Wizard; any spell not listed there is "restricted" and therefore must be obtained through some alternative means. (*GM Note: This is one of the primary uses of the Mage Schools, to serve as a source for restricted spells.*) Different mage schools will have different rules, guidelines, or prices for their restricted spells.
+
+For those magi that are not a part of a mage school, obtaining spells is a bit trickier. Some will be happy to trade spells in a spellbook with one another if they are of the same mindset (tradition), or even simply for money. Others will share spells only with others of their hidden faction--meaning a spellcaster will need to find others like them in order to gain acces to the "good stuff".
 
 ```
 def level2(npc):
@@ -428,26 +432,26 @@ This is a list of the spells accessible to any wizard throughout Azgaarnoth (und
 ## 5th Level
 * [animate objects](../../Magic/Spells/animate-objects.md)
 * [Bigby's hand](../../Magic/Spells/bigbys-hand.md)
-* Cloudkill
-* Cone of Cold
-* Conjure Elemental
-* Contact Other Plane
+* [cloudkill](../../Magic/Spells/cloudkill.md)
+* [cone of cold](../../Magic/Spells/cone-of-cold.md)
+* [conjure elemental](../../Magic/Spells/conjure-elemental.md)
+* [contact other plane](../../Magic/Spells/contact-other-plane.md)
 * [creation](../../Magic/Spells/creation.md)
-* Dominate Person
-* Dream
-* Geas
-* Hold Monster
-* Legend Lore
-* Mislead
-* Modify Memory
-* Passwall
-* Planar Binding
-* Rary's Telepathic Bond
-* Scrying
-* Seeming
-* Telekinesis
-* Teleportation Circle
-* Wall of Force
+* [dominate person](../../Magic/Spells/dominate-person.md)
+* [dream](../../Magic/Spells/dream.md)
+* [geas](../../Magic/Spells/geas.md)
+* [hold monster](../../Magic/Spells/hold-monster.md)
+* [legend lore](../../Magic/Spells/legend-lore.md)
+* [mislead](../../Magic/Spells/mislead.md)
+* [modify memory](../../Magic/Spells/modify-memory.md)
+* [passwall](../../Magic/Spells/passwall.md)
+* [planar binding](../../Magic/Spells/planar-binding.md)
+* [Rary's telepathic bond](../../Magic/Spells/rarys-telepathic-bond.md)
+* [scrying](../../Magic/Spells/scrying.md)
+* [seeming](../../Magic/Spells/seeming.md)
+* [telekinesis](../../Magic/Spells/telekinesis.md)
+* [teleportation circle](../../Magic/Spells/teleportation-circle.md)
+* [wall of force](../../Magic/Spells/wall-of-force.md)
 * [wall of stone](../../Magic/Spells/wall-of-stone.md)
 
 ## 6th Level

@@ -79,6 +79,7 @@ There are always rumors of additional schools that aren't formal or popular, suc
 ## The Mystics of Zhi
 [Mystics](../../Classes/Mystic.md) are a group of casters who specialize in powers of the mind (psionics) rather than of the arcane or the divine. Although some of the skills taught by the mystics are found in the West (such as membership found in the [MindMage](MindMage.md) school), the Council of Seers has made a much deeper and more extensive study of the psionic arts than anything found elsewhere. Mystics can certainly be found all over Azgaarnoth, and generally they are not part of any school (although some have joined the [MindMage](MindMage.md) school out of curiosity). Mysticism in Zhi is a high calling, however, perhaps even higher than that of the arcane or the divine, and this has caused no small amount of friction between the mage school nations and the nations of [Yithia](../../Geography/Yithia.md).
 
+---
 
 # Mage School Template
 ```
@@ -96,4 +97,6 @@ Description
 ## Tendencies
 
 ## Connections
+
+## Restricted Spells
 ```

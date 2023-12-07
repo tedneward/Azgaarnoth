@@ -15,5 +15,13 @@ The Scriveners have an open rivalry (some say hostility) with the [Silent Tower]
 
 ## Connections
 
+## Restricted Spells
+
+* cantrips: [piercing vision](../../Magic/Spells/piercing-vision.md)
+* 3rd: [x-ray vision](../../Magic/Spells/x-ray-vision.md)
+* 6th: [greater darkness](../../Magic/Spells/greater-darkness.md)
+* 7th: [predict action](../../Magic/Spells/predict-action.md)
+* 8th: [greater telepathic bond](../../Magic/Spells/greater-telepathic-bond.md)
+
 ## Game Notes
 [Diviners](../../Classes/Wizard/Divination.md), [Scrymancers](../../Classes/Wizard/Scrymancy.md), ...
