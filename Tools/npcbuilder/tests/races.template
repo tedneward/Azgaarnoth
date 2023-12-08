@@ -114,6 +114,11 @@ Gender,random,Ability Scores,Average,Race,Reborn,
 Gender,random,Ability Scores,Average,Race,Sahuagin,
 # Siren
 Gender,random,Ability Scores,Average,Race,Siren,
+# Spirit Folk
+Gender,random,Ability Scores,Average,Race,Spirit Folk,random,Bamboo,
+Gender,random,Ability Scores,Average,Race,Spirit Folk,random,Mountain,
+Gender,random,Ability Scores,Average,Race,Spirit Folk,random,River,
+Gender,random,Ability Scores,Average,Race,Spirit Folk,random,Sea,
 # Tabaxi
 Gender,random,Ability Scores,Average,Race,Tabaxi,
 # Tieflings

@@ -27,3 +27,4 @@ Despite the fact that the [Night's Blessing](NightsBlessing.md) school despises 
 ## Restricted Spells
 
 * 2nd: [enliven corpse](../../Magic/Spells/enliven-corpse.md)
+* 

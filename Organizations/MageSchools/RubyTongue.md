@@ -11,8 +11,10 @@ The Ruby Tongue school is, put simply, obsessed with fire and all its associated
 Wizard [Pyromancers](../../Classes/Wizard/Pyromancy.md) are obviously welcome here, as are [Firespeakers](../../Classes/Sorcerer/FireSpeaker.md). Clerics of the [Fire](../../Classes/Cleric/Fire.md) domain find kindred spirits here, though in many cases their aims are different. Some [Sun Soul](../../Classes/Monk/SunSoul.md) monks find it educational to spend time in the school, as do their [Four Elements](../../Classes/Monk/FourElements.md) cousins, but usually find the emphasis on fire to be too narrow to remain for long.
 
 ## Tendencies
+Members of the Ruby Tongue are often much like the element they put so much of their time and energy into: they can be impetuous, brash, hot-headed, and explosive. However, many are also intense, steady, and a constant force of creativity, power, and creation.
 
 ## Connections
+
 
 ## Restricted Spells
 The Ruby Tongue school offers fire spells for sale at generally reasonable prices, though they have been known to offer discounts to those casters who can demonstrate a love of fire approaching their own (and, similarly, to jack up prices for those casters who prefer water or cold). Non-members in possession of Ruby Tongue spells are generally not pursued or antagonized, though Ruby Tongue members have been known to frame said owners, burning buildings or fields in hopes of blaming the non-member for their "carelessness".
