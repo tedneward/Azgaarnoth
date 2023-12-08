@@ -1,4 +1,4 @@
-#### Cold Snap
+#### Snap of Cold
 *3rd-level evocation* (Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action 

@@ -35,6 +35,7 @@ These spells are never shared with anyone outside of the Fiery Fist school. Any 
 
 Within the school, these spells are only made available to members who go out on active deployment.
 
+* cantrips: []
 * 1st: [warding blade](../../Magic/Spells/warding-blade.md)
 * 2nd: [aggressive surge](../../Magic/Spells/aggressive-surge.md)
 * 3rd: [hungering blade](../../Magic/Spells/hungering-blade.md)

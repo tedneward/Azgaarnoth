@@ -13,7 +13,7 @@ Membership in the Twilight Star is open to any who would explore the powers of t
 ## Tendencies
 Contrary to popular belief, not all of the Twilight's Star magi are evil--some in fact see the undead as a powerful and untapped resource that deserves deeper exploration as service to the living--but those that aren't are clearly in the minority. Contrary to the canonical "insane loner" stereotype of the necromancer, however, Twilight Star magi are quite comfortable working together, seem quite sane (aside from their chosen profession, that is), and have no deep desire to conquer the world. (Most of them, anyway.) The magi of the Twilight Star understand that real power lies not in mundane conquest of land, but in the conquest of death via unlife.
 
-Most Twilight Star schools are no larger than a half-dozen in size, and usually made up of one Master, one Journeyman, and several apprentices.
+Most Twilight Star towers are no larger than a half-dozen in size, and usually made up of one Master, one Journeyman, and several apprentices.
 
 ## Connections
 In most of the nations of the west and north, the Twilight Star school is illegal, and its students (and particularly its instructors) are openly hunted and arrested. Although participation itself is not a crime, most of the nations of the west and north have laws against almost anything the Twilight Star does (including practicing necromancy on non-sentient creatures and beasts), and usually an investigator can find evidence enough for a conviction.
@@ -23,3 +23,7 @@ In the east, among the Hordes, the Twilight Star has a deeper meaning, simultane
 In the south, open practice of necromancy is ostensibly illegal, but rumors whisper that the Dread Emperor is a secret backer of the school, and that the school is welcome within Dradehalia, so long as it is kept secret from commonfolks' knowledge.
 
 Despite the fact that the [Night's Blessing](NightsBlessing.md) school despises them, Twilight Star magi have no strong feelings toward their sister school of necromancy--in fact, many Twilight Star members have a second set of robes in the Night's Blessing colors and heraldry handy in their chests for when they need a good cover story or explanation. In fact, many Twilight Star members are former Night's Blessing, cast out from their former school for crossing lines that the former school views as "too far". Many's the night that Twilight Star magi gather and tell stories of "pranks" they've pulled on their sister school, such as traveling a thousand miles to raise a graveyard full of kobold bodies to dance around the Night's Blessing tower in an Alalihatian town during a nighttime festival. (The fact that the dancing kobold skeletons led to a riot that burned down the Night's Blessing tower and killed fifteen magi of that school is merely an unfortunate detail to most Twilight Star members.)
+
+## Restricted Spells
+
+* 2nd: [enliven corpse](../../Magic/Spells/enliven-corpse.md)

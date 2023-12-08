@@ -16,8 +16,11 @@ The Four Moons school is relatively restricted in that they accept those who und
 
 ## Restricted Spells
 
-* cantrips: [Melf's most minute meteor](../../Magic/Spells/melfs-most-minute-meteor.md)
+* cantrips: [foot freeze](../../Magic/Spells/foot-freeze.md), [frost trap](../../Magic/Spells/frost-trap.md), [Melf's most minute meteor](../../Magic/Spells/melfs-most-minute-meteor.md)
+* 1st: [coldsnap](../../Magic/Spells/coldsnap.md), [magnet pull](../../Magic/Spells/magnet-pull.md)
 * 2nd: [gravity ward](../../Magic/Spells/gravity-ward.md), [lunar fire fist](../../Magic/Spells/lunar-fire-fist.md)
 * 3rd: [remove gravity](../../Magic/Spells/remove-gravity.md), [moon soul revival](../../Magic/Spells/moon-soul-revival.md)
 * 5th: [moon walk](../../Magic/Spells/moon-walk.md), [pulsar shield](../../Magic/Spells/pulsar-shield.md), [twinned lunar fire fist](../../Magic/Spells/twinned-lunar-fire-fist.md)
+* 7th: [arctic wind](../../Magic/Spells/arctic-wind.md)
+* 8th: [cryostasis](../../Magic/Spells/cryostasis.md)
 * 9th: [singularity](../../Magic/Spells/singularity.md)
