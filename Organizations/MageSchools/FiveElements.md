@@ -56,6 +56,7 @@ Restricted spells will not be sold to non-members without member sponsorship. No
 * 4th: [fire trap](../../Magic/Spells/fire-trap.md)
 * 5th: [curse of combustion](../../Magic/Spells/curse-of-combustion.md)
 * 6th: [greater fire trap](../../Magic/Spells/greater-fire-trap.md)
+* 8th: [fist of flame](../../Magic/Spells/fist-of-flame.md)
 * 9th: [pyroclastic cataclysm](../../Magic/Spells/pyroclastic-cataclysm.md)
 
 ### Voidmancy

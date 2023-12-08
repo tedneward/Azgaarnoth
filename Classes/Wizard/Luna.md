@@ -6,7 +6,7 @@ Luna magi are always members of (or former members of) the [Four Moons](../../Or
 ## Radiance of the Night
 *2nd-level Luna feature*
 
-If a spell does radiant damage, it counts as a wizard spell for you. You also know the [sacred flame](../../Magic/Spells/sacred-flame.md) cantrip which burns silver with moonlight.
+You also know the [sacred flame](../../Magic/Spells/sacred-flame.md) cantrip which burns silver with moonlight.
 
 ## Lunar Link
 *2nd-level Luna feature*
@@ -42,6 +42,8 @@ When you roll a 1 or 2 on a radiant damage die, you can reroll the die and must 
 ---
 
 # Luna Magi Spells
+
+If a spell does radiant damage, it counts as a wizard spell for you.
 
 ## 2nd-level
 * [lunar fire fist](../../Magic/Spells/lunar-fire-fist.md)

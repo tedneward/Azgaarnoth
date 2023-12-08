@@ -1,6 +1,8 @@
 # Arcane Tradition: Green Star Adept
 Arcanists often use magic to create, destroy, transform, or alter the things around them. Some wizards even work to use magic to change themselves on a fundamental level - to become infused with magic itself. The Green Star of Ilhagos, as it's referred to by those who have studied it, fell to the ground in the first age of the world, shattering and sending splinters all across the world. Those who choose to study the splinters join the [Green Star](../../Organizations/MageSchools/GreenStar.md) school of magic, are called Green Star Adepts, and infuse their bodies with the essence of this enchanted meteorite, changing themselves to living foci to channel their magical power.
 
+Inevitably, anyone who has possession of, or exposure to, a sliver of the Gren Star of Ilhagos will find themselves drawn to or in the company of the [Green Star](../../Organizations/MageSchools/GreenStar.md) school. Try as they might to avoid it, inevitably the Green Star calls home its own.
+
 ## Green Star Admixture
 Starting at 2nd level, your character imbibes regular alchemical mixtures; including trace amounts of green star metal. Your skin thickens and hardens, with tiny shards of emerald crystals growing where calluses and scars would mark your skin. This grants you the following benefits:
 * While you are not wearing any armor, your Armor Class equals 13 + your Dexterity modifier.

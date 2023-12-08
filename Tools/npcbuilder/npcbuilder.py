@@ -1099,7 +1099,9 @@ class NPC:
                 "Paces while speaking",
                 "Taps fingers",
                 "Bites fingernails",
-                "Twirls hair or tugs beard"
+                "Twirls hair or tugs beard",
+                "Absent-minded (when not under stress)",
+                "Hot-headed and brash"
             ]
             return mannerisms[random.randint(0, len(mannerisms)-1)]
         
@@ -1120,7 +1122,11 @@ class NPC:
                 "Irritable when speaking with others",
                 "Ponderous when speaking with others",
                 "Quiet with others",
-                "Suspicious when talking with others"
+                "Suspicious when talking with others",
+                "Animals shy away",
+                "Loves animals",
+                "Easily distracted",
+                "Hot-tempered and brash when questioned"
             ]
             return interactions[random.randint(0, len(interactions)-1)]
         
@@ -1138,6 +1144,8 @@ class NPC:
         def genbond():
             bonds = [
                 "Dedicated to fulfilling a personal life goal",
+                "Dedicated to an abstract ideal",
+                "Sworn to a secret",
                 "Protective of close family members",
                 "Protective of colleagues or compatriots",
                 "Loyal to a benefactor, patron, or employer",
@@ -1166,7 +1174,13 @@ class NPC:
                 "Convinced of their own immortality",
                 "Entirely too trusting",
                 "Quick to make assumptions",
-                "Hiding from powerful forces"
+                "Hiding from powerful forces",
+                "Abrasive personality",
+                "Aquaphobic (afraid of large bodies of water)",
+                "Claustrophobic",
+                "Clumsy",
+                "Obese",
+                "Emaciated"
             ]
             return flaws[random.randint(0, len(flaws)-1)]
 

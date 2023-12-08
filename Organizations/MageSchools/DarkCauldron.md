@@ -3,7 +3,7 @@
 
 **Enrollment**: ~2,500
 
-**Motto**: ""
+**Motto**: "If You Can Cast It, We Can Create It"
 
 A mage school focused around alchemy and, specifically, potion and construct creation.
 

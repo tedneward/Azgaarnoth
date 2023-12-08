@@ -37,12 +37,13 @@ Hundreds of mage schools of all size are present on Azgaarnoth. Currently the mo
 * [Collared Fiend](CollaredFiend.md): summoning
 * [Crimson Sunrise](CrimsonSunrise.md): combat
 * [Dark Cauldron](DarkCauldron.md): alchemy
+* [Divine Power](DivinePower.md): divinity
 * [Fiery Fist](FieryFist.md): combat
 * [Five Elements](FiveElements.md): earth/air/fire/water/void
 * [Four Moons](FourMoons.md): lunar magic
 * [Gathering Mist](GatheringMist.md): shadows
 * [Glittering Eye](GlitteringEye.md): illusion
-* [Green Star Adepts](GreenStar.md): a mage school around a particular mystical stone
+* [Green Star Adepts](GreenStar.md): a mage school centered on the Green Star of Ilhagos
 * [Heavens' Gate](HeavensGate.md): astromancy
 * [Hewn Arch](HewnArch.md): earth, stone, masonry
 * [High Tower](HighTower.md): abjuration
@@ -52,7 +53,7 @@ Hundreds of mage schools of all size are present on Azgaarnoth. Currently the mo
 * [Scriveners](Scriveners.md): scribes, historians, scholars, and more
 * [Shining Door](ShiningDoor.md): teleportation
 * [Silent Tower](SilentTower.md): divination and scrymancy
-* [Spinning Hands](SpinningHands.md): time and chronomancy
+* [Spinning Hands](SpinningHands.md): space-time and chronomancy
 * [Symbarchs](Symbarchs.md): followers of an ancient mage
 * [White Winds](WhiteWinds.md): generalists and arcanists
 
@@ -77,7 +78,7 @@ These schools are often actively hunted by secular authorities, and sometimes ot
 There are always rumors of additional schools that aren't formal or popular, such as a school dedicated to enchantment (which is feared by the common folk because of the obvious perils of abuse by said enchanters), and not all magi need join a school in order to thrive. School-affiliated magi, however, will look down on "wilders" as "uncivilized" or "uneducated", and many "wilders" in turn look upon their school-affiliated brethren as "sellouts" or "kept magi". These "wilders" will often be of the [Hedge Magi](../../Classes/Wizard/HedgeMagi.md) arcane tradition.
 
 ## The Mystics of Zhi
-[Mystics](../../Classes/Mystic.md) are a group of casters who specialize in powers of the mind (psionics) rather than of the arcane or the divine. Although some of the skills taught by the mystics are found in the West (such as membership found in the [MindMage](MindMage.md) school), the Council of Seers has made a much deeper and more extensive study of the psionic arts than anything found elsewhere. Mystics can certainly be found all over Azgaarnoth, and generally they are not part of any school (although some have joined the [MindMage](MindMage.md) school out of curiosity). Mysticism in Zhi is a high calling, however, perhaps even higher than that of the arcane or the divine, and this has caused no small amount of friction between the mage school nations and the nations of [Yithia](../../Geography/Yithia.md).
+[Mystics](../../Classes/Mystic.md) are those who specialize in powers of the mind (psionics) rather than of the arcane or the divine. Although some of the skills taught by the mystics are found in the West (such as membership found in the [MindMage](MindMage.md) school), Zhi's Council of Seers has made a much deeper and more extensive study of the psionic arts than anything found elsewhere. Mystics can certainly be found all over Azgaarnoth, and generally they are not part of any school (although some have joined the [MindMage](MindMage.md) school out of curiosity). Mysticism in Zhi is a high calling, however, perhaps even higher than that of the arcane or the divine, and this has caused no small amount of friction between Western nations, where the mage schools often hold direct sway over political decisions, and the nations of [Yithia](../../Geography/Yithia.md), where usually that influence is reserved solely to the Mystics and Council of Seers.
 
 ---
 
