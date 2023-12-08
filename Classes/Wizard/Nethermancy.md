@@ -29,6 +29,8 @@ Starting at 14th level, you can invest shadow magic into creatures you conjure. 
 
 Additionally, when you cast a conjuration spell that summons or creates one or more creatures, you can choose for the space in which each creature first appears to become heavily obscured by magical darkness until the end of your next turn.
 
+---
+
 # Nethermantic Spells
 
 ## Cantrips

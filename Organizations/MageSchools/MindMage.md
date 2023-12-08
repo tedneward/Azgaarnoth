@@ -166,6 +166,3 @@ Psionics generally focuses on spells that do the following:
 * 6th: [psychic armor](../../Magic/Spells/psychic-armor.md)
 * 8th: [mind bomb](../../Magic/Spells/mind-bomb.md)
 
-
-## Game Notes
-

@@ -19,3 +19,4 @@ Night's Blessing magi are welcome in just about any [mercenary company](../../Or
 
 Night's Blessing magi have a deep abiding hatred for those that give necromancy the reputation of evil--any mage of the [Twilight Star](TwilightStar.md) is to be destroyed on sight. (The fact that Twilight Star magi often masquerade as Night's Blessing magi only deepens the depths of hatred.)
 
+## Restricted Spells
