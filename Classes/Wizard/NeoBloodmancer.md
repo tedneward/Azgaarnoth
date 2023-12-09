@@ -34,8 +34,7 @@ Level | Blood Points
 
 **Healing.** Any form of healing you receive staunches the flow of blood and can close the hemophilic wound. When you regain one or more hit points, you also lose 1 blood point. When you no longer have any blood points, the hemophilic wound heals.
 
-**Blood Rites.** You learn two blood rituals of your choice, detailed below under Blood Rites.
-When you gain a level in the wizard class, you can choose one of the blood rites you know and replace it with another blood rite that you can learn.
+**Blood Rites.** You learn two blood rituals of your choice, detailed below under Blood Rites. When you gain a level in the wizard class, you can choose one of the blood rites you know and replace it with another blood rite that you can learn.
 
 ## Empowered Blood
 At 6th level, when you roll damage for a spell, you can reroll a number of damage dice

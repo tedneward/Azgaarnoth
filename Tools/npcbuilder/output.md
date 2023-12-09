@@ -1,65 +1,75 @@
 >### Name
->*Medium Female humanoid (Gnoll) Wizard (Corruption) 10, any alignment*
+>*Medium Female humanoid (Bugbear) Wizard (Bloodmancer) 20, any alignment*
 >___
 >- **Armor Class** 11 (DEX (+1))
->- **Hit Points** 48 (10d6 + 0)
+>- **Hit Points** 91 (20d6 + 0)
 >- **Speed** 30 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:-:|:-:|:-:|:-:|:-:|:-:|
->|13 (+1)|12 (+1)|11 (+0)|12 (+1)|11 (+0)|11 (+0)|
+>|13 (+1)|12 (+1)|11 (+0)|19 (+4)|11 (+0)|11 (+0)|
 >___
->- **Proficiency Bonus** +4
->- **Saving Throws** Wis +4,Int +5
+>- **Proficiency Bonus** +7
+>- **Saving Throws** Wis +7,Int +11
 >- **Damage Vulnerabilities** 
->- **Damage Resistances** 
+>- **Damage Resistances** psychic,fire
 >- **Damage Immunities** 
 >- **Condition Immunities** 
->- **Skills** Arcana +5,Intimidation +4,Religion +5
+>- **Skills** Arcana +11,Insight +7,Stealth +8
 >- **Proficiencies** Dagger,Dart,Light crossbow,Quarterstaff,Sling
 >- **Senses** darkvision 60,passive Perception 10
->- **Languages** Common,Gnoll,Abyssal (can understand but not speak, read, or write)
+>- **Languages** Common,Goblin
 >___
->***Abyssal Focus.*** At the end of a long rest, you can channel and crystallize Abyssal energy to create an Abyssal focus that serves as a spellcasting focus for your wizard spells. The focus is destroyed if you create another one, or if you die. When the focus is destroyed, it causes Signs of Corruption in a 25-foot cube for 1 hour. It also deals radiant damage equal to your wizard level to anything within that cube.
+>***Arcane Recovery.***  Once per day when you finish a short rest, you can regain 1 expended hit die and choose expended spell slots to recover. The spell slots can have a combined level of 10, and none of the slots can be 6th level or higher.
 >
->***Arcane Recovery.*** Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level of 5, and none of the slots can be 6th level or higher.
+>***Blood Siphon.*** When you reduce a creature to 0 hit points with a melee or spell attack, and the creature dies, you gain 1 blood point.
 >
->***Corrupted Empowerment (Recharges on long rest or one level of exhaustion).*** When you are affected by the [corrupted](http://azgaarnoth.tedneward.com/conditions/Corrupted) condition, you embrace the darkness and draw strength from it. Upon becoming corrupted, you regain one expended spell slot. The level of the spell slot must be 3rd level or lower. For each level of exhaustion you have, the level of the spell slot you regain increases by one.
+>***Burn the Blood.*** Whenever you begin casting a spell of 1st level or higher that deals psychic or fire damage, a wave of pain and anguish erupts from you. This wave causes creatures of your choice within 10 feet to suffer psychic or fire damage (you choose each time you activate this feature) equal to half your wizard level.
 >
->***Corrupted Spellcasting.*** When you cast a spell, you can incorporate Abyssal energy into the spell, changing its nature temporarily in following ways: If the spell deals damage, all of the spell's damage type becomes radiant damage; The spell uses a Constitution saving throw with your spell save DC, instead of an attack roll or the spell's original saving throw; If this spell has area of effect, that effect now spreads around corners, even if the original spell's effect did not; A [corrupted](http://azgaarnoth.tedneward.com/conditions/Corrupted) creature has disadvantage against this spell. As part of the spellcasting, you may also remove and expend an Abyssal Shard. When you use an Abyssal Shard with a spell, you can ignore material components up to 100 gp in value; a [corrupted](http://azgaarnoth.tedneward.com/conditions/Corrupted) creature that fails its saving throw against this spell becomes blinded.
+>***Inheritor of Blood.*** Should you drop to 0 hit points and do not die outright, you can make a DC 10 Constitution saving throw. If you succeed, one willing creature within 30 feet can expend one hit die and you regain a number of hit points equal to the result. Each time you use this feature after the first, increase the DC by 5. When you finish a short or long rest, reset the DC to 10.
 >
->***Keen Mind.*** You always know which way is north, the number of hours left before the next sunrise or sunset, and you can accurately recall anything you have seen or heard within the past month.
+>***Long-Limbed.*** When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
 >
->***Signs of Corruption.*** When you draw upon your Abyssal connection, corruption is released around you. The area of a 25-foot cube, centered on you, is lightly obscured, and any healing done within it is halved. Any vegetation within the cube withers and dies. When a creature enters the zone for the first time on a turn or starts its turn there, it must succeed on a Constitution saving throw (DC 13) or become [corrupted](http://azgaarnoth.tedneward.com/conditions/Corrupted) for 1 minute.
+>***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+>
+>***Signature Spells.*** You gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+>
+>***Spell Mastery.*** By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 >
 >***Spellbook.*** Contents: 
+>
+>***Surprise Attack.*** If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.
 >
 >***War Caster: Concentration.*** You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
 >
 >***War Caster: Somaticism.*** You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
 >
+>***Wellspring of Life.*** When you make a death saving throw and roll a 18-20 on the d20, you regain 1d6 hit points instead of normal.
+>
 >#### Actions
->***Abyssal Shard (Recharges on long rest or CON save/DC 7 + uses).*** While holding your Abyssal Focus, you can pluck a shard from it and throw it up to 30 feet, implanting it into the ground. At the end of your turn, the shard evaporates and causes Signs of Corruption on it for 1 minute. Once you use this feature, you can't use it again until you finish a long rest or you make a Constitution saving throw with a DC equal to 7 + the number of times you've used this feature with your current Abyssal Focus. You receive a bonus to this save equal to twice of your exhaustion level. On a failed save, Signs of Corruption immediately occurs centered on you instead and you become [corrupted](http://azgaarnoth.tedneward.com/conditions/Corrupted) for 1 minute. If you fail the save by 5 or more, you also suffer one level of exhaustion.
->
->***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1d6 + 1 piercing damage.
->
->***Fleshwarping.*** You touch a creature and use an Abyssal Shard to alter that creature's form, granting a benefit for 10 minutes (during which the affected creature has disadvantage on all Charisma-based ability checks); the benefit can be one of the following options: **Strength.** The target gains advantage on Strength saving throws, and when it hits with a melee weapon attack against a creature, that creature must succeed on a Constitution saving throw (DC {npc.spellcasting['Wizard'].spellsavedc()}) or be pushed up to 10 feet away and knocked prone. **Resilience.** The target gains {npc.proficiencybonus()} temporary hit points at the start of each of its turns. It also has advantage on Constitution saving throws. **Flight.** The target gains a fly speed equal to half of its walking speed and the ability to hover in place. **Swimming.** The target gains a swimming speed equal to its walking speed and the ability to breathe underwater.**Climbing.** The target gains a climb speed equal to its walking speed and can cling to walls and ceilings without making an ability check.
->
->***Wizard Spellcasting (Int, at level 10. Recharges on long rest).*** 11 spells prepared. Spell save DC: 13, Spell attack bonus: +5
+>***Wizard Spellcasting (Int, at level 20. Recharges on long rest).*** 24 spells prepared. Spell save DC: 19, Spell attack bonus: +11
 >
 >* *1st (4 slots):* 
 >* *2nd (3 slots):* 
 >* *3rd (3 slots):* 
 >* *4th (3 slots):* 
->* *5th (2 slots):* 
+>* *5th (3 slots):* 
+>* *6th (2 slots):* 
+>* *7th (2 slots):* 
+>* *8th (1 slots):* 
+>* *9th (1 slots):* 
 >
 >
 >#### Reactions
+>***Mark of Blood.*** When an attack scores a critical hit against a living creature within 10 feet, you spend 1 blood point. Until the end of your next turn, you gain advantage on attack rolls against the creature.
+>
 >***War Caster: Opportunity Cast.*** When a hostile creature's movement provokes an opportunity attack from you, you can cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature. This does not count against your ability to cast a spell during your turn.
 >
 >
 >#### Bonus Actions
->***Rampage.*** After you reduce a creature to 0 hit points with a melee attack on its turn, the you can move up to half your speed and make a Bite attack.
+>***Blood Magic.*** You call upon the power of blood by either inflicting a minor (expend 1 hit die, gain 2 blood points) or severe wound (expend 2 hit dice, gain 4 blood points) upon yourself. While you possess one or more blood points, you gain the following features: **Armor of Vitality.** When you do not wear armor, your AC equals 13 + your Constitution modifier. **Lifeblood.** You gain advantage on your first death saving throw of the day. **Blood Agony.** When you hit a creature with a melee or spell attack, you can expend 1 or more blood points to deal psychic damage to the target, in addition to the damage of the attack. The extra damage is 1d8 for 1 blood point, plus 1d8 for each additional blood point, to a maximum of 5d8. **Blood Sense.** Expend 1 blood point as an action to focus your awareness upon the immediate area to reveal the presence of living creatures. Until the end of your next turn, you know the location of any beast, giant, or humanoid, within 60 feet that is not behind total cover. You know the type of any being whose presence you sense, but not the identity of the creature. **Fortitude of Blood.** Expend 1 blood point as a bonus action to gain a bonus to Constitution saving throws, which lasts for 1 minute, equal to your Intelligence modifier (minimum of +1). You can invoke this ritual twice. Afterward, you cannot perform it again until you finish a short or long rest.
+>
+>***Soul Burn.*** Expend one or more blood points to create one spell slot. For each blood point you expend, roll 1d6: 7-9 1st; 10-16 2nd; 17-20 3rd; 21-23 4th; 24+ 5th
 >
 >
 >#### Equipment
@@ -77,31 +87,35 @@
 >
 >***Magic Item: Rare Permanent.***
 >
+>***Magic Item: Rare Permanent.***
+>
+>***Magic Item: Very Rare Permanent.***
+>
+>***Magic Item: Legendary Permanent.***
+>
 
 #### Description
-***Ideals:*** *Knowledge/Self-sacrifice/Responsibility.*
+***Ideals:*** *Responsibility/Whimsy/Domination.*
 
-***Appearance:*** *Missing fingers.*
+***Appearance:*** *Unusual skin color.*
 
-***Talents:*** *Unbelievably lucky.*
+***Talents:*** *Perfect memory.*
 
-***Mannerisms:*** *Refers to themself in the third person.*
+***Mannerisms:*** *Squints.*
 
-***Interactions with others:*** *Friendly when talking to others.*
+***Interactions with others:*** *Irritable when speaking with others.*
 
-***Bond:*** *Captivated by a romantic interest.*
+***Bond:*** *Out for revenge.*
 
-***Flaw:*** *Has a powerful enemy.*
+***Flaw:*** *Obese.*
 
-***Race: Gnoll.*** Gnolls are brutal hunters with a demonic ancestry who are fiercely loyal to their pack.
+***Race: Bugbear.*** Bugbears were the lazy bullies of the Hordes, and the rest of Azgaarnoth is grateful that these physical specimens of might have generally chosen the easiest path rather than seek to assert themselves collectively as a race. The only members of the Hordes that might have challenged the minotaurs for primacy over the Hordes, bugbears instead chose to focus on their own indolence rather than leadership and control, and the average bugbear continues that tradition to this day.
 
 ***Class: Wizard.*** Wizards are supreme magic-users, defined and united as a class by the spells they cast. Drawing on the subtle weave of magic that permeates the cosmos, wizards cast spells of explosive fire, arcing lightning, subtle deception, brute-force mind control, and much more.
 
-***Arcane Tradition: Corruption.*** Some wizards, driven by a particularly strong thirst for power, open portals to the most unholy, perverse, gruesome, and chaotic plane of existence: the Abyss. This chaotic power allows those who folow the Corruption Magic tradition to learn how to bend the darkest energies to their will. This magic is the most experimental and dangerous of all, and these mages are fearless pioneers of this new branch. Though, with great power comes great... side efects.
+***Arcane Tradition: Bloodmancer.*** Blood mages learn to heighten their spellcraft by uniting the power of blood and arcane might. Blood is life, though wizards that travel this path of magic view the sanguine fluid flowing through their veins as a wellspring of arcane power.
 
 ***Feat: War Caster.*** You have practiced casting spells in the midst of combat, learning useful techniques.
-
-***Feat: Keen Mind.*** You have a mind that can track time, direction, and detail with uncanny precision.
 
 
 

@@ -20,6 +20,11 @@ In exchange for these benefits, you must pay dues (typically 10 gp per month) to
 
 When you reach 14th level in your wizard class, you no longer need to pay these dues in gold or downtime, and can always use this feature's benefits, whether or not you have paid for them.
 
+```
+def level2(npc):
+    npc.defer(lambda npc: npc.traits.append(f"***Arcanist's Privileges.*** You gain a +{(npc.INTbonus + 1) // 2} bonus on all your Charisma checks to interact with other spellcasters.") )
+```
+
 ## Arcanist's Grimoire
 *2nd-level Arcanist feature*
 
@@ -29,15 +34,28 @@ You can use this feature a number of times equal to your Intelligence modifier (
 
 In addition, a copy of your spellbook is always available at any tower of your mage school.
 
+```
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Arcanist's Grimoire ({npc.INTbonus}/Recharges on long rest).*** Immediately after you use your action to cast a spell of 1st level or higher, if that spell is particular to your school, you reroll either up to {npc.INTbonus()} of the damage dice, or a target creature's saving throw, or your own. You must use the new rolls.") )
+```
+
 ## Guild Proficiencies
 *2nd-level Arcanist feature*
 
 You gain expertise with the Arcana skill, which means your proficiency bonus is doubled for any ability check you make with it.
 
+```
+    npc.expertises.append("Arcana")
+```
+
 ## Signature Training
 *6th-level Arcanist feature*
 
 You can employ an impressive spellcasting technique that is either distinctive to your guild, or your own method for distinguishing yourself within it. When you use your action to cast a spell of 3rd-level or higher that you prepared from your spellbook, you can use your bonus action to cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your spell save DC. On a failed save, the creature is charmed or frightened by you (your choice) until the end of your next turn. You can use this feature once, regaining the ability to do so the next time you make an ability check for initiative.
+
+```
+def level6(npc):
+    npc.bonusactions.append("***Signature Training (Recharges on Initiative die roll).*** When you use your action to cast a spell of 3rd-level or higher that you prepared from your spellbook, you cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw (DC {npc.spellcasting['Wizard'].spellsavedc()}). On a failed save, the creature is charmed or frightened by you (your choice) until the end of your next turn.")
+```
 
 ## Spellpool
 *10th-level Arcanist feature*
@@ -58,9 +76,19 @@ When you cast a spell you prepared via the spellpool, it is cast normally, with 
 
 All spells prepared using the spellpool return to the spellpool the next time you finish a long rest. Having successfully prepared a spell with this feature before does not allow you to prepare it with this feature again, nor does it alter your chances of finding that same spell available the next time you search for it.
 
+```
+def level10(npc):
+    npc.traits.append("***Spellpool.***")
+```
+
 ## Master of Wizardry
 *14th-level Arcanist feature*
 
 Having spent so much time interacting with other mages, you can quickly analyze their casting and seek to counter it. When a spell cast by another creature you can see allows you to make a saving throw to take only half damage, if you succeed on the saving throw, you can expend a wizard spell slot of 1st-level or higher as a reaction to instead take no damage at all.
 
 In addition, when you this feature, you can instead choose to reflect the spell back on the caster. When you do so, as part of the same reaction, you cause the spell to target its caster instead of you, and the caster makes its own saving throw against the same DC. If the spell you are trying to reflect is 6th-level or higher this ability fails. After you use this feature to reflect a spell you cannot use it again until you finish a long rest.
+
+```
+def level14(npc):
+    npc.reactions.append("***Master of Wizardry (Reflect recharges on long rest).*** When a spell cast by another creature you can see allows you to make a saving throw to take only half damage, if you succeed on the saving throw, you can expend a wizard spell slot of 1st-level or higher to instead take no damage at all. In addition, when you this feature, you can instead choose to reflect the spell back on the caster. When you do so, as part of the same reaction, you cause the spell to target its caster instead of you, and the caster makes its own saving throw against the same DC. If the spell you are trying to reflect is 6th-level or higher this ability fails.")
+```

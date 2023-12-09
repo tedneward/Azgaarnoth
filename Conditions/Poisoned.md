@@ -1,21 +1,27 @@
 # Condition: Poisoned
 Given their insidious and deadly nature, poisons are illegal in most societies but are a favorite tool among assassins and evil creatures such as drow.
 
+Unless stated otherwise in the poison description, a creature that is poisoned has disadvantage on attack rolls and ability checks.
+
 Poisons come in the following four types.
 
 ***Contact.*** Contact poison can be smeared on an object and remains potent until it is touched or washed off. A creature that touches contact poison with exposed skin suffers its effects.
 
-***Ingested.*** A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be de­livered in food or a liquid. You may decide that a partial dose has a reduced effect, such as allowing advantage on the saving throw or dealing only half damage on a failed save.
+***Ingested.*** A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be de­livered in food or a liquid. A partial dose may have a reduced effect (DM's discretion), such as allowing advantage on the saving throw or dealing only half damage on a failed save.
 
 ***Inhaled.*** These poisons are powders or gases that take effect when inhaled. Blowing the powder or re­leasing the gas subjects creatures in a 5-foot cube to its effect. The resulting cloud dissipates immediately after­ ward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.
 
-***Injury.*** Injury poison can be applied to weapons, am­ munition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.
+***Injury.*** Injury poison can be applied to weapons, am­munition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.
 
-Poisons are anywhere from common to legendary in terms of accessibility:
+Poisons are anywhere from common to legendary in terms of accessibility; in most cases, they also describe the lethality of the poison:
 
 ***Common.*** Common poisons can be found in the supplies of most apothecaries and alchemists, though they are unlikely to reveal such poisons except to customers that can show they won't spread word of such sales. Customers that speak in Thieves' Cant are usually able to acquire these poisons with ease. Common poisons can also be found in most wilderness environments with a successful DC 15 Wisdom (Survival) or Intelligence (Nature) check and several hours of searching.
 
+Common poisons include [Assassin's Blood](#assassins-blood), [common serpent venom](#common-serpent-venom), [deadly nightshade](#deadly-nightshade), [Hemlock](#hemlock), [Mandrake](#mandrake), and [Slayer's Boon](#slayers-boon).
+
 ***Uncommon.*** Uncommon poisons can be found in the inventories of most wealthy or unscrupulous apothecaries, alchemists, and death-dealers in major cities. These poisons are not easy to craft, and their ingredients are difficult to obtain. They are usually quite illegal in most societies.
+
+Uncommon poisons include [Black Fog](#black-fog), [Burnt Othur Fumes](#burnt-othur-fumes), [carrion crawler mucus](#carrion-crawler-mucus), [Death's Cleansing](#deaths-cleansing), [distilled serpent venom](#distilled-serpent-venom), [Ghoulfang](#ghoulfang), [Impish Delight](#impish-delight), [Oil of Taggit](#oil-of-taggit), [Pale Tincture](#pale-tincture), [Succulent Death](#succulent-death), [Torpor](#torpor), [Truth Serum](#truth-serum)
 
 ***Rare.*** Rare poisons can be found in the inventories of only the most capable or nefarious apothecaries and alchemists. Some merchants who specialize in the procurement of magic items have been known to carry rare poisons, but they do not advertise such wares except to customers who have demonstrated their discretion. Rare poisons can be found in certain areas of the wilderness, where danger lurks for those who would harvest them. These poisons are highly illegal in societies that know of them, but many civilizations are not aware of their existence.
 
@@ -208,7 +214,7 @@ A creature subjected to this poison must succeed on a DC 15 Constitution saving 
 ### Truth Serum
 *(Ingested; uncommon)*
 
-A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. The poisoned creature can't knowingly speak a lie, as if under the ef­fect of a [zone of truth](../Spells/zone-of-truth.md) spell.
+A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. During that tie, the poisoned creature can't knowingly speak a lie, as if under the ef­fect of a [zone of truth](../Spells/zone-of-truth.md) spell.
 
 ### Vileseed Poison
 *(Ingested/Injury; rare)*

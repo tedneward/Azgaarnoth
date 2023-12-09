@@ -155,6 +155,7 @@ def level2(npc):
 *3rd-level rogue feature*
 
 You choose an archetype that you emulate in the exercise of your rogue abilities:
+
 * [Arcane Trickster](ArcaneTrickster.md)
 * [Assassin](Assassin.md)
 * [Burglar](Burglar.md)
@@ -162,8 +163,8 @@ You choose an archetype that you emulate in the exercise of your rogue abilities
 * [Inquisitor](Inquisitor.md)
 * [Mastermind](Mastermind.md)
 * [Phantom](Phantom.md)
-* [Revived](Revived.md)
 * [Scout](Scout.md)
+* [Serpent Assassin](SerpentAssassin.md)
 * [Soulknife](Soulknife.md)
 * [Swashbuckler](Swashbuckler.md)
 * [Thief](Thief.md)

@@ -3,10 +3,6 @@ Many rogues walk a fine line between life and death, risking their own lives and
 
 Many shadar-kai of the Shadowfell are masters of these macabre techniques, and some are willing to teach this path. In places where many necromancers practice their craft, a Phantom can become a wizard's confidant and right hand. In temples of gods of death, the Phantom works as an agent to track down those who try to cheat death and to recover knowledge that might otherwise be lost to the grave. Phantoms are found all over Azgaarnoth, but they tend to end up in the company of the [Night's Blessing](../../Organizations/MageSchools/NightsBlessing.md) or [Twilight Star](../../Organizations/MageSchools/TwilightStar.md) magi over time. Some end up working for some of the [Great Houses](../../Organizations/Houses/index.md), and some find a home in a [Rogues' Guild](../../Organizations/RoguesGuilds/index.md).
 
-Phantoms are often mistaken for [Revived](Revived.md), and vice versa.
-
-> Player's Notes: How did you discover this grim power? Did you sleep in a graveyard and awaken to your new abilities? Or did you cultivate them in a temple or thieves' guild dedicated to a god of death?
-
 ```
 name = 'Phantom'
 description = "***Roguish Archetype: Phantom.*** Many rogues walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some rogues discover a mystical connection to death itself. These rogues take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts. Rogues' guilds value them as highly effective information gatherers and spies."
@@ -30,7 +26,7 @@ As you nudge someone closer to the grave, you can cause deathly wails to be hear
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ```
-    npc.defer(lambda npc: npc.traits.append("***Wails from the Grave (npc.proficiencybonus())/Recharges on long rest.*** Immediately after you deal your Sneak Attack damage to a creature on your turn, you can target a second creature that you can see within 30 feet of the first creature. Roll half the number of Sneak Attack dice for your level (round up), and {'the second creature takes' if npc.levels('Rogue') < 17 else 'both the first and second creatures take'>} psychic damage equal to the roll's total, as wails of the dead sound around them for a moment."))
+    npc.defer(lambda npc: npc.traits.append(f"***Wails from the Grave {npc.proficiencybonus()}/Recharges on long rest.*** Immediately after you deal your Sneak Attack damage to a creature on your turn, you can target a second creature that you can see within 30 feet of the first creature. Roll {(npc.levels('Rogue') + 3) // 4}d6, and {'the second creature takes' if npc.levels('Rogue') < 17 else 'both the first and second creatures take'} psychic damage equal to the roll's total, as wails of the dead sound around them for a moment."))
 ```
 
 ## Tokens of the Departed
