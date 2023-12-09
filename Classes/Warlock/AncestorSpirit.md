@@ -19,23 +19,7 @@ Spell Level | Spells
 
 ```
 def level1(npc):
-    def expandedspells(npc):
-        if npc.levels('Warlock') >= 1:
-            npc.pactmagic.spellsknown.append('shield')
-            npc.pactmagic.spellsknown.append('wrathful smite')
-        if npc.levels('Warlock') >= 3:
-            npc.pactmagic.spellsknown.append('blur')
-            npc.pactmagic.spellsknown.append('branding smite')
-        if npc.levels('Warlock') >= 5:
-            npc.pactmagic.spellsknown.append('blink')
-            npc.pactmagic.spellsknown.append('elemental weapon')
-        if npc.levels('Warlock') >= 7:
-            npc.pactmagic.spellsknown.append('phantasmal killer')
-            npc.pactmagic.spellsknown.append('staggering smite')
-        if npc.levels('Warlock') >=9:
-            npc.pactmagic.spellsknown.append('banishing smite')
-            npc.pactmagic.spellsknown.append('cone of cold')
-    npc.defer(lambda npc: expandedspells(npc) )
+    npc.traits.append("***Expanded Spell List.*** The following are considered warlock spells for you: 1st: {spelllinkify('unseen servant')}, {spelllinkify('detect evil and good')}; 2nd: {spelllinkify('augury')}, {spelllinkify('see invisibility')}; 3rd: {spelllinkify('speak with dead')}, {spelllinkify('spirit guardians')}, 4th: {spelllinkify('divination')}, {spelllinkify('guardian of faith')}; 5th: {spelllinkify('legend lore')}, {spelllinkify('raise dead')}.") 
 ```
 
 ## Bonus Cantrip
