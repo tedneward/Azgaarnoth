@@ -49,15 +49,16 @@ Hundreds of mage schools of all size are present on Azgaarnoth. Currently the mo
 * [High Tower](HighTower.md): abjuration
 * [MindMage](MindMage.md): psionics
 * [Night's Blessing](NightsBlessing.md): necromancy's healing
-* [Ruby Tongue](RubyTongue.md): fire
+* [Ruby Tongue](RubyTongue.md): fire and flame magic
 * [Scriveners](Scriveners.md): scribes, historians, scholars, and more
 * [Shining Door](ShiningDoor.md): teleportation
 * [Silent Tower](SilentTower.md): divination and scrymancy
 * [Spinning Hands](SpinningHands.md): space-time and chronomancy
 * [Symbarchs](Symbarchs.md): followers of an ancient mage
+* [White Spike](WhiteSpike.md): cold and ice magic
 * [White Winds](WhiteWinds.md): generalists and arcanists
 
-There are always rumors of additional schools that aren't formal or popular, such as a school dedicated to enchantment (which is feared by the common folk because of the obvious perils of abuse by said enchanters), and not all magi need join a school in order to thrive. School-affiliated magi, however, will look down on "wilders" as "uncivilized" or "uneducated", and many "wilders" in turn look upon their school-affiliated brethren as "sellouts" or "kept magi". These "wilders" will often be of the [Hedge Magi](../../Classes/Wizard/HedgeMagi.md) arcane tradition.
+There are always rumors of additional schools that aren't formal or popular, such as a school dedicated to enchantment (which is feared by the common folk because of the obvious perils of abuse by said enchanters), and not all magi need join a school in order to thrive. School-affiliated magi, however, will look down on ["wilders"](#wilders) as "uncivilized" or "uneducated", and many "wilders" in turn look upon their school-affiliated brethren as "sellouts" or "kept magi".
 
 > Still other schools are known to exist or have existed in the past, such as the Infinite Cylinder, Pylon of the Void, Miasmal Minaret, Pillar of the Endless Stair, Stone of Eternity, Nonesuch Monument, Chthonic Pylon, Belfry of the Forgotten Fane, Rock of Sorrow, Cylinder of Silence, Celestial Monument, Spiral Tower, Spire of Crimson, Bronze Turret, Colossal Column, Elemental Obelisk, Gilded Rock, Monument of the Emerald Rune, Shimmering Spire, Finger of the Phoenix, Rock of Oblivion, Edifice of the Endless Dark, Eldritch Column, Immaculate Cylinder, Obelisk of the Worm, Tower of the Brazen Delve, Greenstone Cylinder, Enchanted Tower, Purple Column, Fey Stone, Dusk Tower, Astral Spire, Turret of Chaos, Twisted Stone, Illusory Monument, Siltstone Rock, Turret of Sorrow, Cylinder of the Mist, Edifice of Iniquity, Grinding Turret, Ebony Stone, Scarlet Obelisk, Lightless Stone, and still others. Some had no more than a dozen members and a tower for a time, others rose to hundreds of members, and then obliterated themselves in spectacular fashion. Their histories may be waiting to be (re)discovered, if only the brave and the foolhardy are willing to explore their ruins....
 
