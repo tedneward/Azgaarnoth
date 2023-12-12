@@ -21,9 +21,9 @@ def level3(npc):
 ## Army of the Fallen
 *6th-level Path of the Dead feature*
 
-You shine like a beacon in the afterlife and your slain enemies rise again to fight under your banner. When you slay a medium or smaller living creature whilst raging, that creature rises as a zombie or a skeleton under your control on initiative count 20 of the next round. The assembled dead act on your turn, and attack the nearest hostile creature.
+You shine like a beacon in the afterlife and your slain enemies rise again to fight under your banner. When you slay a Medium or smaller living creature whilst raging, that creature rises as a [Zombie](../../Creatures/Undead/Zombie.md) or a [Skeleton](../../Creatures/Undead/Skeletons.md#skeleton) under your control on initiative count 20 of the next round. The assembled dead act on your turn, and attack the nearest hostile creature.
 
-There is no limit to the number of undead you can creature in this way, but when your rage ends, any undead raised by this ability become corpses once more.
+There is no limit to the number of undead you can create in this way, but when your rage ends, any undead raised by this ability become corpses once more.
 
 ```
 def level6(npc):

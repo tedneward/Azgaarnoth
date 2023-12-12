@@ -6,14 +6,14 @@ name = 'Dragon'
 description = "***Primal Path: Path of the Dragon.*** All barbarians harbor within them the rage that grants them superior strength, constitution, and speed. For barbarians who follow the Path of the Dragon, that rage is the fiery wrath of a red dragon, the bestial cold of a white dragon, or fury that in some way encapsulates the rage of dragons."
 ```
 
-These barbarians are always associated with cells of the [Cult of the Wyrm](../../Organizations/CultOfTheWyrm.md). Their zealousness for dragonkind is the seed of their power, from which their dragonlike rage stems. Most Path of the Dragon barbarians have an evil streak in their nature, though a few have managed to tame the chromatic tendencies and use their rage to good ends.
+These barbarians are always associated with cells of the [Cult of the Wyrm](../../Organizations/CultOfTheWyrm.md). Their zealousness for dragonkind is the seed of their power, from which their dragon-like rage stems. Most Path of the Dragon barbarians have an evil streak in their nature, though a few have managed to tame the chromatic tendencies and use their rage to good ends.
 
 ## Dragon's Rage
 *3rd-level Path of the Dragon feature*
 
 Your rage emulates the wrath of a powerful dragon. Choose one of the following options:
 
-* **Black Dragon**. While you are raging, you gain the ability to breathe underwater and you gain a swimming speed of 30 feet. If you already have a swimming speed, it increases to 30 feet, unless it was already faster.
+* **Black Dragon**. While you are raging, you gain the ability to breathe underwater, and you gain a swimming speed of 30 feet. If you already have a swimming speed, it increases to 30 feet, unless it was already faster.
 
 * **Blue Dragon**. While you are raging, your strikes are empowered with lightning. On each of your turns, the first time that you hit with a weapon attack, that attack deals extra lightning damage equal to 1d6 + your barbarian level.
 
