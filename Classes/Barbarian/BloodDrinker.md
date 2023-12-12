@@ -32,7 +32,7 @@ Not all Blood Drinkers are fur-wearing arctic warriors of the barren steppes, ei
 ## Blood Fury
 *3rd-level Blood Drinker feature*
 
-If you make a melee weapon attack on your turn while you're raging and you have no more than half of your hit points left, you add 1d8 + half your barbarian level to the attack's damage roll on a hit. 
+If you make a melee weapon attack on your turn while you're raging, and you have no more than half of your hit points left, you add 1d8 + half your barbarian level to the attack's damage roll on a hit. 
 
 You can only deal bonus damage in this way once per turn.
 
@@ -46,7 +46,7 @@ You can only use this feature up to a number of times equal to the number of rag
 ## The Blood Hunt
 *6th-level Blood Drinker feature*
 
-You learn how to taste a soul through the smell of blood When a creature that has blood within 15 feet of you takes damage, you can pick up the finer details of the smell and you learn things about the creature. You instantly learn its hit points, maximum hit points, and Constitution score. If its maximum hit points have been reduced, you learn that too. You can also choose to remember the scent. If you do, for the next 30 days, you gain advantage on Wisdom (Insight) and (Perception) checks to discern something about the creature or to track that creature, and on Charisma (Intimidation) or (Persuasion) checks against that creature. You know if the creature is within 10 miles of you, and if it is within 1 mile of you, you know how far away it is as well.
+You learn how to taste a soul through the smell of blood When a creature that has blood within 15 feet of you takes damage, you can pick up the finer details of the smell, and you learn things about the creature. You instantly learn its hit points, maximum hit points, and Constitution score. If its maximum hit points have been reduced, you learn that too. You can also choose to remember the scent. If you do, for the next 30 days, you gain advantage on Wisdom (Insight) and (Perception) checks to discern something about the creature or to track that creature, and on Charisma (Intimidation) or (Persuasion) checks against that creature. You know if the creature is within 10 miles of you, and if it is within 1 mile of you, you know how far away it is as well.
 
 You can only remember a number of blood scents equal to twice your Wisdom modifier (minimum one). You can forget a scent at any time.
 
@@ -59,7 +59,7 @@ Your body takes on a demonic change as your blood power grows stronger with each
 
 * **Fangs.** Your teeth lengthen into huge ghoulish fangs that struggle to fit into your closed mouth. You can survive on meals made of rotting meat, blood or old bones and suffer no ill effects, including diseases or poisons. You have advantage on Charisma (Intimidation) ability checks made against creatures that have seen your teeth, and your bite is a natural weapon, which you can use to make unarmed strikes. You have proficiency with this bite, and it deals piercing damage equal to ldlO + your Strength modifier.
 
-* **Wings.** You grow a pair of gigantic, leathery, batlike wings from your back. You have a base flying speed of 30 feet.
+* **Wings.** You grow a pair of gigantic, leathery, bat-like wings from your back. You have a base flying speed of 30 feet.
 
 ## Gore Strike
 *14th-level Blood Drinker feature*
