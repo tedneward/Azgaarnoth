@@ -47,6 +47,7 @@ Hundreds of mage schools of all size are present on Azgaarnoth. Currently the mo
 * [Heavens' Gate](HeavensGate.md): astromancy
 * [Hewn Arch](HewnArch.md): earth, stone, masonry
 * [High Tower](HighTower.md): abjuration
+* [Midnight Shadow](MidnightShadow.md): shadow magic
 * [MindMage](MindMage.md): psionics
 * [Night's Blessing](NightsBlessing.md): necromancy's healing
 * [Ruby Tongue](RubyTongue.md): fire and flame magic
@@ -70,6 +71,7 @@ Most mage schools have a "home" (the location of the heads of their school), par
 Some schools of magic do not seek to openly advertise their existence.
 
 * [Bloodmancers](Bloodmancers.md): practioners of ancient blood arts
+* [Nethermancers](Nethermancers.md): practitioners of shadow arts
 * [Red Orb](./RedOrb.md): Abyssal power
 * [Twilight Star](TwilightStar.md): necromancy's power
 

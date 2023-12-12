@@ -1,5 +1,5 @@
 # Arcane Tradition: Geomancy
-Geomancy wizards are the kind of wizard who appreciate the sturdiness and stability of earth magic. The world of stone, dirt, and rock is fi rm, hardy and strong. A wizard who learns to harness the magic of the earth can become a hardy practitioner of magic; one who can withstand even the toughest of foes.
+Geomancy wizards are the kind of wizard who appreciate the sturdiness and stability of earth magic. The world of stone, dirt, and rock is firm, hardy and strong. A wizard who learns to harness the magic of the earth can become a hardy practitioner of magic; one who can withstand even the toughest of foes.
 
 ## Geomancer's Knowledge
 Starting at 2nd level, your affi nity for utilizing stone and the earth has become second nature for you. You have advantage on Dexterity (Stealth) checks made to hide in rocky terrain, and advantage on Constitution saving throws to maintain your concentration while in rocky terrain.
@@ -24,6 +24,8 @@ While you are transformed, the following rules apply:
 * You can't cast spells while transformed. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as rain of stones (see below), that you've already cast.
 * You retain the benefit of any features from your class, race, or other source and can use them if the earth elemental form is physically capable of doing so. However, you can't use any special senses that you might have (such as darkvision) unless the earth elemental also has that sense.
 * You choose whether your equipment falls to the ground in your space, merges into your earth elemental form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the earth elemental to wear a piece of equipment based on the earth elemental's shape and size. Your equipment doesn't change size or shape to match the earth elemental form, and any equipment that the earth elemental form can't wear must either fall to the ground or merge with it. Equipment that merges with the earth elemental form has no effect until you revert back to your normal form.
+
+---
 
 # Geomancy Spells
 

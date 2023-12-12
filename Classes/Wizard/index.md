@@ -118,7 +118,7 @@ Wizards are free to copy any arcane (wizard) spell into their spellbook, regardl
     npc.equipment.append("***Spellbook.*** When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a level for which you have spell slots; the process takes 2 hours and costs 50 gp per level of spell.Once you have spent this time and money, you can prepare the spell just like your other spells. Copying a spell from your spellbook into another spellbook costs half this amount (in time and gold), since you know it already.")
 
     def spellbookspells(npc):
-        spelllist = ','.join(npc.spellbook)
+        spelllist = ','.join(npc.spellcasting['Wizard'].spellbook)
         return spelllist
     npc.defer(lambda npc: npc.traits.append(f"***Spellbook.*** Contents: {spellbookspells(npc)}") )
 ```
@@ -153,7 +153,7 @@ Each time you gain a wizard level, you can add two wizard spells of your choice 
     def setprepared(npc): 
         npc.spellcasting[name].spellsprepared = npc.INTbonus() + npc.levels('Wizard')
     npc.defer(lambda npc: setprepared(npc) )
-    npc.spellbook = []
+    spellcasting.spellbook = []
 ```
 
 ## Arcane Recovery
@@ -219,14 +219,15 @@ There are some arcane traditions which choose to not follow the mage school trad
 * [Ancient Magic](./AncientMagic.md): These magi are those that have discovered some scrap of Eldar lore that has led to deep insights into how Eldar magic worked. They are often highly jealous of their discoveries, and refuse to share their secrets except with a precious few (usually only an apprentice).
 * [Arcane Experimenter](./ArcaneExperimenter.md): Arcane experimenters are often too fast and loose with rules (and concerns for safety) for the comfort of other casters. They are always willing to take on new students to help them with their experiments, but apprentices often find out (too late) that the job comes with a hefty amount of risk.
 * [Hedge Magi](./HedgeMagi.md): Often called "wilders" by those in mage schools, hedge magi are those magi who come to understand magic on their own terms rather than be "constrained" by the rules, traditions, or politics of a mage school.
+* [Nethermancers](./Nethermancy.md): Many nethermancers study alone, but some will form small cells that vaguely resemble a [school](../../Organizations/MageSchools/Nethermancers.md) for a period of time. While nethermancers are not persecuted like some other magi, many commoners 
+* [Onomancers](./Onomancy.md): The study of true names is not one to be done collectively.
 * [Bladesinger](./Bladesinger.md): Bladesingers are generally taught in one-on-one master/apprentice relationships, and not in formal schools anymore. Some Bladesingers in permanent residence at a [dueling college](../../Organizations/DuelingColleges/index.md) will take on apprentices, but these are almost always one-on-one pairings.
 * [Voidmancy](./Voidmancy.md): Voidmancers draw from powers that many (most) others would prefer left entirely alone. Voidmancers aren't banished or illegal like Enchanters, Bloodmancers, or Hemonacers, but are often judged "questionable", like Necromancers, and often made out to be the villain when anything arcane goes wrong nearby. Some Voidmancers find a home in a school, but others prefer solitude and take few apprentices.
 
 ... and there are those mage schools that choose not (or dare not) practice openly:
 
-* [Bloodmancers](./Bloodmancer.md) and [NeoBloodmancers](./NeoBloodmancer.md): Those who draw power from life's blood can expect to be persecuted on sight; those seeking to join these traditions must find an existing master.
+* [Bloodmancers](./Bloodmancer.md), [Hemomancers](Hemomancy.md), and [NeoBloodmancers](./NeoBloodmancer.md): Those who draw power from life's blood can expect to be persecuted on sight; those seeking to join these traditions must find an existing master.
 * [Emomancy](./Emomancy.md) and [Enchantment](./Enchantment.md): Those wizards who manipulate the emotional spectrum are widely distrusted all across Azgaarnoth. Those who would study it will need to find an existing master Emomancer or Enchanter to pursue this tradition. That's never stopped those who want to study the power of mortal emotion, however--just made them harder to find.
-* [Hemomancy](./Hemomancy.md): Like the Bloodmancers, Hemomancers explore the power of blood, which often puts them squarely in the sights of those who decry such powers.
 * [Necromancy](./Necromancy.md): Like all things related to the undead, necromancers often need to practice their skills in secret. However, several necromantic mage schools do operate in the open, either because they have political protection, or because their self-imposed oaths provide some degree of guarantee to the locals (such as the [Night's Blessing](../../Organizations/MageSchools/NightsBlessing.md) school, which studies necromancy as part of its pursuit of the studies of life and healing).
 
 As a mage grows in skill, they will need to look for opportunities to gain new spells in their spellbook.
