@@ -164,13 +164,13 @@ You have learned to regain some of your magical energy by studying your spellboo
 For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.
 
 ```
-    npc.defer(lambda npc: npc.traits.append(f"***Arcane Recovery.*** Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level of {(npc.levels('Wizard') // 2) + (npc.levels('Wizard') % 2)}, and none of the slots can be 6th level or higher.") )
+    npc.defer(lambda npc: npc.traits.append(f"***Arcane Recovery.*** Once per day when you finish a short rest, you can recover up to {(npc.levels('Wizard') // 2) + (npc.levels('Wizard') % 2)} levels of expended spell slots, none of which can be 6th level or higher.") )
 ```
 
 ## Arcane Tradition
 *2nd-level wizard feature*
 
-You choose an arcane tradition, shaping your practice of magic through one of the following schools:
+You choose an arcane tradition. Some are formally taught in mage schools:
 
 * [Abjuration](./Abjuration.md)
 * [Arcanist](./Arcanist.md)
@@ -194,7 +194,6 @@ You choose an arcane tradition, shaping your practice of magic through one of th
 * [Jaunter](./Jaunter.md)
 * [Kinetics](./Kinetics.md)
 * [Lore Mastery](./LoreMastery.md)
-* [Onomancy](./Onomancy.md)
 * [Mentalism](./Mentalism.md)
 * [Psionics](./Psionics.md)
 * [Pyromancy](./Pyromancy.md)
@@ -212,16 +211,16 @@ Your choice grants yous at 2nd level and again at 6th, 10th, and 14th level.
 
 Note that many of the [Mage Schools](../../Organizations/MageSchools/index.md) have their own, unique, arcane traditions; being a part of that tradition will tie you to that school in some capacity or as part of your history. However, while many mage schools have an (exclusive) arcane tradition, not all arcane traditions belong exclusively to a mage school. 
 
-Many mage schools will shun contact with those who are not of their mage school, but many also will shun those who are not part of *any* mage school (calling them "wilders"). Other schools look to recruit from the unaffiliated, while still others recognize the unaffiliated as great sources of inspiration.
+Note that many mage schools will shun contact with those who are not of their mage school while other schools are fine with other schools but shun those who are not part of *any* mage school (calling them "wilders"). Some schools look to recruit from the unaffiliated, while still others recognize the unaffiliated as great sources of inspiration.
 
 There are some arcane traditions which choose to not follow the mage school tradition:
 
 * [Ancient Magic](./AncientMagic.md): These magi are those that have discovered some scrap of Eldar lore that has led to deep insights into how Eldar magic worked. They are often highly jealous of their discoveries, and refuse to share their secrets except with a precious few (usually only an apprentice).
 * [Arcane Experimenter](./ArcaneExperimenter.md): Arcane experimenters are often too fast and loose with rules (and concerns for safety) for the comfort of other casters. They are always willing to take on new students to help them with their experiments, but apprentices often find out (too late) that the job comes with a hefty amount of risk.
+* [Bladesinger](./Bladesinger.md): Bladesingers are generally taught in one-on-one master/apprentice relationships, and not in formal schools anymore. Some Bladesingers in permanent residence at a [dueling college](../../Organizations/DuelingColleges/index.md) will take on apprentices, but these are almost always one-on-one pairings.
 * [Hedge Magi](./HedgeMagi.md): Often called "wilders" by those in mage schools, hedge magi are those magi who come to understand magic on their own terms rather than be "constrained" by the rules, traditions, or politics of a mage school.
 * [Nethermancers](./Nethermancy.md): Many nethermancers study alone, but some will form small cells that vaguely resemble a [school](../../Organizations/MageSchools/Nethermancers.md) for a period of time. While nethermancers are not persecuted like some other magi, many commoners 
 * [Onomancers](./Onomancy.md): The study of true names is not one to be done collectively.
-* [Bladesinger](./Bladesinger.md): Bladesingers are generally taught in one-on-one master/apprentice relationships, and not in formal schools anymore. Some Bladesingers in permanent residence at a [dueling college](../../Organizations/DuelingColleges/index.md) will take on apprentices, but these are almost always one-on-one pairings.
 * [Voidmancy](./Voidmancy.md): Voidmancers draw from powers that many (most) others would prefer left entirely alone. Voidmancers aren't banished or illegal like Enchanters, Bloodmancers, or Hemonacers, but are often judged "questionable", like Necromancers, and often made out to be the villain when anything arcane goes wrong nearby. Some Voidmancers find a home in a school, but others prefer solitude and take few apprentices.
 
 ... and there are those mage schools that choose not (or dare not) practice openly:

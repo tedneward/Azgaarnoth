@@ -1,20 +1,50 @@
 # Arcane Tradition: Ferromancy
 Ferromancers are specialists in metal and magnetism; learning to create or manipulate metal objects, enhance or destroy them, or use magnetic forces to attract, repel or statically charge nearby metal. Ferromancers favor metal weapons and armor, their unique specialty enhanced, not hindered, by bulky raiment and arms.
 
+```
+name = 'Ferromancy'
+description = "***Arcane Tradition: Ferromancy.*** Ferromancers are specialists in metal and magnetism; learning to create or manipulate metal objects, enhance or destroy them, or use magnetic forces to attract, repel or statically charge nearby metal. Ferromancers favor metal weapons and armor, their unique specialty enhanced, not hindered, by bulky raiment and arms."
+```
+
 ## Bonus Proficiencies
-Starting at 2nd level you are proficient with all metal weapons and metal armor. You also learn the [heat metal](../../Magic/Spells/heat-metal.md) spell, adding it to your spellbook, but you cannot cast it until you have access to 2nd level spell slots.
+*2nd-level Ferromancy feature*
+
+You are proficient with all metal weapons and metal armor. You also learn the [heat metal](../../Magic/Spells/heat-metal.md) spell, adding it to your spellbook, but you cannot cast it until you have access to 2nd level spell slots.
+
+```
+def level2(npc):
+    wpns = weapons['simple-melee'] | weapons['martial-melee'] | weapons['martial-ranged']
+    for w in ['Club', 'Greatclub', 'Javelin', 'Quarterstaff', 'Whip', 'Blowgun', 'Longbow', 'Net']:
+        del wpns[w]
+    for w in wpns:
+        npc.proficiencies.append(w)
+
+    npc.spellcasting['Wizard'].spellbook.append('heat metal')
+```
 
 ## Magnetic Ward
-Beginning at 2nd level, as a reaction you can generate a magnetic ward around yourself that interferes with incoming weapon attacks, deflecting and reducing their velocity. For 1 minute, you reduce all damage that you take from weapon attacks by an amount equal to your Intelligence modifier (minimum of 1). You do not regain hit points if the damage is reduced to below zero. You regain the use of this ability after completing a long rest. At 10th level, you regain the use of this ability after finishing a short or long rest.
+*2nd-level Ferromancy feature*
+
+As a reaction you can generate a magnetic ward around yourself that interferes with incoming weapon attacks, deflecting and reducing their velocity. For 1 minute, you reduce all damage that you take from weapon attacks by an amount equal to your Intelligence modifier (minimum of 1). You do not regain hit points if the damage is reduced to below zero. You regain the use of this ability after completing a long rest. At 10th level, you regain the use of this ability after finishing a short or long rest.
+
+```
+    npc.defer(lambda npc: npc.reactions.append(f"***Magnetic Ward (Recharges on{' short or' if npc.levels('Wizard') >= 10 else ''} long rest).*** For 1 minute, you reduce all damage that you take from weapon attacks by {npc.INTbonus()}. You do not regain hit points if the damage is reduced to below zero.")
+```
 
 ## Static
-Starting at 6th level, whenever a creature fails a saving throw against one of your spells, they are surrounded by a residual static charge for a number of turns equal to your Intelligence modifier (minimum of 1). If the creature ends its turn within 5 feet of one or more creatures affected by this static charge, each creature takes 1d6 lightning damage.
+*6th-level Ferromancy feature*
+
+Whenever a creature fails a saving throw against one of your spells, they are surrounded by a residual static charge for a number of turns equal to your Intelligence modifier (minimum of 1). If the creature ends its turn within 5 feet of one or more creatures affected by this static charge, each creature takes 1d6 lightning damage.
 
 ## Breach Armor
-Starting at 10th level, your weapon and spell attacks against creatures constructed of metal, or creatures wearing armor that is primarily made of metal, are made with advantage as you are able to subtly manipulate their defenses to open weaknesses.
+*10th-level Ferromancy feature*
+
+Your weapon and spell attacks against creatures constructed of metal, or creatures wearing armor that is primarily made of metal, are made with advantage as you are able to subtly manipulate their defenses to open weaknesses.
 
 ## Magnetic Field
-Starting at 14th level, as an action, you can evoke an electrically charged magnetic field in a 20-foot-radius around yourself that moves with you. The field lasts for 1 minute. When a creature enters the magnetic field for the first time on a turn or starts its turn there, if it is wearing metal armor, wielding metal weapons, or carrying more than 30lbs of metal, the creature takes 1d6 lightning damage and treats the area as difficult terrain. If the creature is also affected by your Static ability, the damage increases to 2d6 lightning damage.
+*14th-level Ferromancy feature*
+
+As an action, you can evoke an electrically charged magnetic field in a 20-foot-radius around yourself that moves with you. The field lasts for 1 minute. When a creature enters the magnetic field for the first time on a turn or starts its turn there, if it is wearing metal armor, wielding metal weapons, or carrying more than 30lbs of metal, the creature takes 1d6 lightning damage and treats the area as difficult terrain. If the creature is also affected by your Static ability, the damage increases to 2d6 lightning damage.
 
 You can use this ability once per long rest.
 

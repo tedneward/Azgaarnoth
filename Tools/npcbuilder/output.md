@@ -1,75 +1,54 @@
 >### Name
->*Medium Female humanoid (Bugbear) Wizard (Bloodmancer) 20, any alignment*
+>*Small Female humanoid (Goblin) Wizard (Onomancy) 8, any alignment*
 >___
->- **Armor Class** 11 (DEX (+1))
->- **Hit Points** 91 (20d6 + 0)
+>- **Armor Class** 12 (DEX (+2))
+>- **Hit Points** 61 (8d6 + 24)
 >- **Speed** 30 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:-:|:-:|:-:|:-:|:-:|:-:|
->|13 (+1)|12 (+1)|11 (+0)|19 (+4)|11 (+0)|11 (+0)|
+>|8 (-1)|14 (+2)|18 (+4)|18 (+4)|12 (+1)|12 (+1)|
 >___
->- **Proficiency Bonus** +7
->- **Saving Throws** Wis +7,Int +11
+>- **Proficiency Bonus** +4
+>- **Saving Throws** Wis +5,Int +8
 >- **Damage Vulnerabilities** 
->- **Damage Resistances** psychic,fire
+>- **Damage Resistances** 
 >- **Damage Immunities** 
 >- **Condition Immunities** 
->- **Skills** Arcana +11,Insight +7,Stealth +8
->- **Proficiencies** Dagger,Dart,Light crossbow,Quarterstaff,Sling
->- **Senses** darkvision 60,passive Perception 10
->- **Languages** Common,Goblin
+>- **Skills** Insight +5,Religion +8
+>- **Proficiencies** Calligrapher's tools,Dagger,Dart,Light crossbow,Quarterstaff,Sling
+>- **Senses** darkvision 60,passive Perception 11
+>- **Languages** Common,Goblin,CHOOSE
 >___
->***Arcane Recovery.***  Once per day when you finish a short rest, you can regain 1 expended hit die and choose expended spell slots to recover. The spell slots can have a combined level of 10, and none of the slots can be 6th level or higher.
+>***Arcane Recovery.*** Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level of 4, and none of the slots can be 6th level or higher.
 >
->***Blood Siphon.*** When you reduce a creature to 0 hit points with a melee or spell attack, and the creature dies, you gain 1 blood point.
+>***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
 >
->***Burn the Blood.*** Whenever you begin casting a spell of 1st level or higher that deals psychic or fire damage, a wave of pain and anguish erupts from you. This wave causes creatures of your choice within 10 feet to suffer psychic or fire damage (you choose each time you activate this feature) equal to half your wizard level.
+>***Fury of the Small (4/Recharges on long rest).*** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal 8 extra damage to the creature. You can use this trait no more than once per turn.
 >
->***Inheritor of Blood.*** Should you drop to 0 hit points and do not die outright, you can make a DC 10 Constitution saving throw. If you succeed, one willing creature within 30 feet can expend one hit die and you regain a number of hit points equal to the result. Each time you use this feature after the first, increase the DC by 5. When you finish a short or long rest, reset the DC to 10.
+>***Resonant Utterance (3/Recharges on long rest).*** See below for options.
 >
->***Long-Limbed.*** When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
->
->***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
->
->***Signature Spells.*** You gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
->
->***Spell Mastery.*** By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
->
->***Spellbook.*** Contents: 
->
->***Surprise Attack.*** If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.
->
->***War Caster: Concentration.*** You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
->
->***War Caster: Somaticism.*** You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
->
->***Wellspring of Life.*** When you make a death saving throw and roll a 18-20 on the d20, you regain 1d6 hit points instead of normal.
+>***Spellbook.*** Contents: bane,bless
 >
 >#### Actions
->***Wizard Spellcasting (Int, at level 20. Recharges on long rest).*** 24 spells prepared. Spell save DC: 19, Spell attack bonus: +11
+>***Fateful Naming (4/Recharges on long rest).*** You can cast [bane](http://azgaarnoth.tedneward.com/magic/spells/bane/) or [bless](http://azgaarnoth.tedneward.com/magic/spells/bless/) without expending a spell slot if you speak the true name of one target of the spell as part of casting it.
+>
+>***Resonant: Absorption.*** You cast a wizard spell with a spell slot that deals damage to the named target and speak the true name of one creature targeted by the spell. In doing so, you gain 3d6 temporary hit points.
+>
+>***Resonant: Dissolution.*** You cast a wizard spell with a spell slot that deals damage to the named target and speak the true name of one creature targeted by the spell. The first time the named creature takes damage from the spell, that creature takes an extra 2d8 force damage.
+>
+>***Wizard Spellcasting (Int, at level 8. Recharges on long rest).*** 12 spells prepared. **Spell save DC: 16**, **Spell attack bonus: +8**
 >
 >* *1st (4 slots):* 
 >* *2nd (3 slots):* 
 >* *3rd (3 slots):* 
->* *4th (3 slots):* 
->* *5th (3 slots):* 
->* *6th (2 slots):* 
->* *7th (2 slots):* 
->* *8th (1 slots):* 
->* *9th (1 slots):* 
->
->
->#### Reactions
->***Mark of Blood.*** When an attack scores a critical hit against a living creature within 10 feet, you spend 1 blood point. Until the end of your next turn, you gain advantage on attack rolls against the creature.
->
->***War Caster: Opportunity Cast.*** When a hostile creature's movement provokes an opportunity attack from you, you can cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature. This does not count against your ability to cast a spell during your turn.
+>* *4th (2 slots):* 
 >
 >
 >#### Bonus Actions
->***Blood Magic.*** You call upon the power of blood by either inflicting a minor (expend 1 hit die, gain 2 blood points) or severe wound (expend 2 hit dice, gain 4 blood points) upon yourself. While you possess one or more blood points, you gain the following features: **Armor of Vitality.** When you do not wear armor, your AC equals 13 + your Constitution modifier. **Lifeblood.** You gain advantage on your first death saving throw of the day. **Blood Agony.** When you hit a creature with a melee or spell attack, you can expend 1 or more blood points to deal psychic damage to the target, in addition to the damage of the attack. The extra damage is 1d8 for 1 blood point, plus 1d8 for each additional blood point, to a maximum of 5d8. **Blood Sense.** Expend 1 blood point as an action to focus your awareness upon the immediate area to reveal the presence of living creatures. Until the end of your next turn, you know the location of any beast, giant, or humanoid, within 60 feet that is not behind total cover. You know the type of any being whose presence you sense, but not the identity of the creature. **Fortitude of Blood.** Expend 1 blood point as a bonus action to gain a bonus to Constitution saving throws, which lasts for 1 minute, equal to your Intelligence modifier (minimum of +1). You can invoke this ritual twice. Afterward, you cannot perform it again until you finish a short or long rest.
+>***Extract Name (4/Recharges on long rest).*** A target within 60 feet of you that you can see must make a Wisdom saving throw (DC 16). On a successful save, you discern that this magic failed, and you can't use this feature on the target again until the next dawn. On a failed save, the target is charmed by you until the end of your next turn, and you mentally learn the charmed target's name or the fact that the target lacks a name.
 >
->***Soul Burn.*** Expend one or more blood points to create one spell slot. For each blood point you expend, roll 1d6: 7-9 1st; 10-16 2nd; 17-20 3rd; 21-23 4th; 24+ 5th
+>***Nimble Escape.*** You can take the Disengage or Hide action as a bonus action on each of your turns.
 >
 >
 >#### Equipment
@@ -85,37 +64,31 @@
 >
 >***Magic Item: Uncommon Permanent.***
 >
->***Magic Item: Rare Permanent.***
->
->***Magic Item: Rare Permanent.***
->
->***Magic Item: Very Rare Permanent.***
->
->***Magic Item: Legendary Permanent.***
->
 
 #### Description
-***Ideals:*** *Responsibility/Whimsy/Domination.*
+***Ideals:*** *Greed/Honor/People.*
 
-***Appearance:*** *Unusual skin color.*
+***Motivation:*** *Doing a favor.*
 
-***Talents:*** *Perfect memory.*
+***Appearance:*** *Middle-aged*, *Burn marks/scars visible somewhere.*
 
-***Mannerisms:*** *Squints.*
+***Talents:*** *Excellent fashion sense/taste.*
 
-***Interactions with others:*** *Irritable when speaking with others.*
+***Mannerisms:*** *Enunciates overly clearly.*
 
-***Bond:*** *Out for revenge.*
+***Interactions with others:*** *Quiet* when speaking with others.
 
-***Flaw:*** *Obese.*
+***Bond:*** *Protective of colleagues or compatriots.*
 
-***Race: Bugbear.*** Bugbears were the lazy bullies of the Hordes, and the rest of Azgaarnoth is grateful that these physical specimens of might have generally chosen the easiest path rather than seek to assert themselves collectively as a race. The only members of the Hordes that might have challenged the minotaurs for primacy over the Hordes, bugbears instead chose to focus on their own indolence rather than leadership and control, and the average bugbear continues that tradition to this day.
+***Secret:*** *Origins in noble family.*
+
+***Flaw:*** *Envies another creature's possessions or station.*
+
+***Race: Goblin.*** Originally a subterranean folk that came to Azgaarnoth as part of the Hordes, goblins can now be found in every corner of Azgaarnoth, often beside their bugbear and hobgoblin kin. Goblins hae thrived in dangerous environments thanks to a special knack for finding the weak spots in foes larger than themselves and for getting out of trouble. Originally the lackeys and servants of their larger goblinoid kin, now many goblins pursue their own destinies, escaping the plots of archfey, gods, and would-be warlords.
 
 ***Class: Wizard.*** Wizards are supreme magic-users, defined and united as a class by the spells they cast. Drawing on the subtle weave of magic that permeates the cosmos, wizards cast spells of explosive fire, arcing lightning, subtle deception, brute-force mind control, and much more.
 
-***Arcane Tradition: Bloodmancer.*** Blood mages learn to heighten their spellcraft by uniting the power of blood and arcane might. Blood is life, though wizards that travel this path of magic view the sanguine fluid flowing through their veins as a wellspring of arcane power.
-
-***Feat: War Caster.*** You have practiced casting spells in the midst of combat, learning useful techniques.
+***Arcane Tradition: Onomancy.*** Practitioners of magic well know the power of names, but wizards who follow the tradition of Onomancy use their magic to manipulate the words that encompass existence. Onomancers expand their study into language itself, searching for threads of magical significance that weave through names. Something that is named stands out in the multiverse, distinct from the tapestry of creation all around it.
 
 
 
