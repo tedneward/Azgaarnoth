@@ -6,7 +6,7 @@ Many other bards hate the College of Whispers, viewing it as a parasite that use
 Rumors suggest that the College of Whispers is run by the [Copper Order](../../Organizations/MilitantOrders/DraconicOrder/Copper.md), although it is also said that they are operated by the [Dread Emperor](../../People/DreadEmperor.md), or any of the other nations of Azgaarnoth. It is entirely possible (and likely) that, like the [College of Valor](Valor.md), there are multiple colleges of Whispers within Azgaarnoth.
 
 ```
-name = 'Whispers'
+name = 'College of Whispers'
 description = "***Bardic College.*** Bards of the College of Whispers appear to be like any other bard, sharing news, singing songs, and telling tales to the audiences they gather. In truth, the College of Whispers teaches its students that they are wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats."
 ```
 

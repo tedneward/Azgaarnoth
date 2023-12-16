@@ -1,55 +1,63 @@
 >### Name
->*Medium Male humanoid (Fire Genasi) Wizard (War Magic) 20, any alignment*
+>*Medium Female humanoid (Shadow Elf) Bard (College of Eloquence) 20, any alignment*
 >___
->- **Armor Class** 11 (DEX (+1))
->- **Hit Points** 149 (20d6 + 56)
+>- **Armor Class** 15 (Leather armor (11),DEX (+4))
+>- **Hit Points** 123 (20d8 + 20)
 >- **Speed** 30 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:-:|:-:|:-:|:-:|:-:|:-:|
->|12 (+1)|13 (+1)|17 (+3)|20 (+5)|13 (+1)|8 (-1)|
+>|8 (-1)|18 (+4)|13 (+1)|13 (+1)|12 (+1)|18 (+4)|
 >___
 >- **Proficiency Bonus** +7
->- **Saving Throws** Wis +8,Int +12
+>- **Saving Throws** Dex +11,Cha +11
 >- **Damage Vulnerabilities** 
->- **Damage Resistances** fire
+>- **Damage Resistances** necrotic
 >- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** Arcana +12,Insight +8
->- **Proficiencies** Dagger,Dart,Light crossbow,Quarterstaff,Sling
->- **Senses** darkvision 60,passive Perception 11
->- **Languages** Common,Pyro
+>- **Condition Immunities** sleep
+>- **Skills** Acrobatics +11,Animal Handling +8,Arcana +15,Perception +15
+>- **Proficiencies** Bagpipes,Club,Dagger,Dart,Dulcimer,Greatclub,Hand crossbow,Handaxe,Javelin,Leather armor,Light Crossbow,Light hammer,Longsword,Lyre,Mace,Padded armor,Quarterstaff,Rapier,Shortbow,Shortsword,Sickle,Sling,Spear,Studded leather armor
+>- **Senses** darkvision 60,passive Perception 18
+>- **Languages** Common,Elven,CHOOSE,CHOOSE,CHOOSE
 >___
->***Arcane Recovery.*** Once per day when you finish a short rest, you can recover up to 10 levels of expended spell slots, none of which can be 6th level or higher.
+>***Acting.*** You have an advantage on Charisma (Deception) and Charisma (Performance) checks when trying to pass yourself off as a different person. You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine that the effect is faked.
 >
->***Durable Magic.*** While you maintain concentration on a spell, you have a +2 bonus to AC and all saving throws.
+>***Alert.*** You can't be surprised while you are conscious. You gain a +5 bonus to initiative. Other creatures don't gain advantage on attack rolls against you as a result of your not being able to see them.
 >
->***Keen Mind.*** You always know which way is north, the number of hours left before the next sunrise or sunset, and you can accurately recall anything you have seen or heard within the past month.
+>***Bardic Inspiration (4 dice/Recharges on short or long rest).*** You can inspire others through stirring words or music.
 >
->***Power Surge.*** Once per turn when you deal damage to a creature or object with a wizard spell, you can spend one power surge to deal 10 extra force damage to that target. You can store a maximum number of 5 power surges. Whenever you finish a long rest, your number of power surges resets to one. Whenever you successfully end a spell with [dispel magic](http://azgaarnoth.tedneward.com/magic/spells/dispel-magic/) or [counterspell](http://azgaarnoth.tedneward.com/magic/spells/counterspell/), you gain one power surge, as you steal magic from the spell you foiled. If you end a short rest with no power surges, you gain one power surge.
+>***Encipher.*** You can ably create written ciphers. Others can't decipher a code you create unless you teach them, they succeed on an Intelligence check (DC 20), or they use magic to decipher it.
+>
+>***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+>
+>***Jack of All Trades.*** You can add 3 to any ability check you make that doesn't already include your proficiency bonus.
+>
+>***Magical Inspiration.*** If a creature has a Bardic Inspiration die from you and casts a spell that restores hit points or deals damage, the creature can roll that die and choose a target affected by the spell. Add the number rolled as a bonus to the hit points regained or the damage dealt. The Bardic Inspiration die is then lost.
+>
+>***Magical Secrets.*** You have plundered magical knowledge from a wide spectrum of disciplines. Two of your known spells at 10th level, two more at 14th level, and two more at 18th level can be from any classes, including this one.
+>
+>***Piercer.*** Once per turn, when you hit a creature with an attack that deals piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll. When you score a critical hit that deals piercing damage to a creature, you can roll one additional damage die when determining the extra piercing damage the target takes.
 >
 >***Shadow-Touched Spells.*** You can also cast your Shadow-Touched spells using spell slots you have of the appropriate level.
 >
->***Signature Spells.*** You gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+>***Silver Tongue.*** You are a master at saying the right thing at the right time. When you make a Charisma (Persuasion) or Charisma (Deception) check, you can treat a d20 roll of 9 or lower as a 10.
 >
->***Spell Mastery.*** By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+>***Song of Rest.*** If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.
 >
->***Spellbook.*** Contents: 
+>***Superior Inspiration.*** When you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
 >
->***Tactical Wit.*** You have a +5 bonus to your initiative rolls.
+>***Trance.*** Elves do not sleep. Instead they meditate deeply, remaining semi-conscious, for 4 hours a day. The Common word for this meditation is 'trance'. While meditating, you dream after a fashion; such dreams are actually mental exercises that have become reflexive after years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep.
 >
->***War Caster: Concentration.*** You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
->
->***War Caster: Somaticism.*** You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
+>***Unfailing Inspiration.*** When a creature adds one of your Bardic Inspiration dice to its ability check, attack roll, or saving throw and the roll fails, the creature can keep the Bardic Inspiration die.
 >
 >#### Actions
->***Fire Genasi Spellcasting (Cha. Recharges on long rest).*** **Spell save DC: 14**, **Spell attack bonus: +6**
+>***Countercharm.*** You can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
 >
->* *Cantrips:* [produce flame](http://azgaarnoth.tedneward.com/magic/spells/produce-flame/)
->* *1/day:* [burning hands](http://azgaarnoth.tedneward.com/magic/spells/burning-hands/),[flame blade](http://azgaarnoth.tedneward.com/magic/spells/flame-blade/)
+>***Universal Speech (Recharges on long rest or spell slot of any level).*** Choose one or more creatures within 60 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). The chosen creatures can magically understand you, regardless of the language you speak, for 1 hour.
 >
->***Wizard Spellcasting (Int, at level 20. Recharges on long rest).*** 25 spells prepared. **Spell save DC: 20**, **Spell attack bonus: +12**
+>***Bard Spellcasting (Cha, at level 20. Recharges on long rest).*** 5 cantrips known. 23 spells prepared. **Spell save DC: 19**, **Spell attack bonus: +11**
 >
+>* *Cantrips:* 
 >* *1st (4 slots):* 
 >* *2nd (3 slots):* 
 >* *3rd (3 slots):* 
@@ -60,28 +68,30 @@
 >* *8th (1 slots):* 
 >* *9th (1 slots):* 
 >
->***Fey-Touched Spellcasting (Int. Recharges on long rest).*** **Spell save DC: 20**, **Spell attack bonus: +12**
->
->* *1/day:* [misty step](http://azgaarnoth.tedneward.com/magic/spells/misty-step/),[CHOOSE-1st-divination-or-enchantment](http://azgaarnoth.tedneward.com/magic/spells/CHOOSE-1st-divination-or-enchantment/)
->
->***Shadow-Touched Spellcasting (Int. Recharges on long rest).*** **Spell save DC: 20**, **Spell attack bonus: +12**
+>***Shadow-Touched Spellcasting (Cha. Recharges on long rest).*** **Spell save DC: 19**, **Spell attack bonus: +11**
 >
 >* *1/day:* [darkness](http://azgaarnoth.tedneward.com/magic/spells/darkness/),[CHOOSE-1st-level-Illusion-or-Necromancy](http://azgaarnoth.tedneward.com/magic/spells/CHOOSE-1st-level-Illusion-or-Necromancy/)
 >
 >#### Reactions
->***Arcane Deflection.*** When you are hit by an attack or you fail a saving throw, you gain a +2 bonus to your AC against that attack or a +4 bonus to that saving throw. When you use this feature, you can't cast spells other than cantrips until the end of your next turn. You cause magical energy to arc from you, causing up to three creatures of your choice within 60 feet of you to each take10 force damage.
+>***Infectious Inspiration (4/Recharges on long rest).*** When a creature within 60 feet of you adds one of your Bardic Inspiration dice to its ability check, attack roll, or saving throw and the roll succeeds, you can encourage a different creature (other than yourself) that can hear you within 60 feet of you, giving it a Bardic Inspiration die without expending any of your Bardic Inspiration uses.
 >
->***War Caster: Opportunity Cast.*** When a hostile creature's movement provokes an opportunity attack from you, you can cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature. This does not count against your ability to cast a spell during your turn.
+>
+>#### Bonus Actions
+>***Bardic Inspiration: Inspiration.*** Choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die (d12).
+>
+>***Blessing of the Raven Queen .*** You can magically teleport up to 30 feet to an unoccupied space you can see. When you do, you also gain resistance to all damage when you teleport using this trait. The resistance lasts until the start of your next turn. During that time, you appear ghostly and translucent.
+>
+>***Unsettling Words.*** You can expend one use of your Bardic Inspiration and choose one creature you can see within 60 feet of you. Roll the Bardic Inspiration die. The creature must subtract the number rolled from the next saving throw it makes before the start of your next turn.
 >
 >
 >#### Equipment
->Quarterstaff OR dagger
+>Rapier OR Longsword OR any simple weapon
 >
->Component pouch OR Arcane focus
+>Dagger
 >
->Scholar's pack OR Explorer's pack
+>Diplomat's pack OR Entertainer's pack
 >
->***Spellbook.*** When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a level for which you have spell slots; the process takes 2 hours and costs 50 gp per level of spell.Once you have spent this time and money, you can prepare the spell just like your other spells. Copying a spell from your spellbook into another spellbook costs half this amount (in time and gold), since you know it already.
+>Lute OR other musical instrument
 >
 >***Magic Item: Uncommon Permanent.***
 >
@@ -97,39 +107,41 @@
 >
 
 #### Description
-***Ideals:*** *Live and let live/Charity/Pain.*
+***Ideals:*** *Aspiration/No limits/Slaughter.*
 
-***Motivation:*** *Survival, of family member(s) or self.*
+***Motivation:*** *Practicing and improving/perfecting a skill.*
 
-***Appearance:*** *Elderly*, *Piercings.*
+***Appearance:*** *Middle-aged*, *Ragged, dirty clothes.*
 
-***Talents:*** *Expert carpenter.*
+***Talents:*** *Drinks everyone under the table.*
 
-***Mannerisms:*** *Speaks in rhyme or some other noticeable habit.*
+***Mannerisms:*** *Makes constant jokes or puns.*
 
-***Interactions (with others):*** *Stubborn*.
+***Interactions (with others):*** *Irritable*.
 
-***Bond:*** *Dedicated to an abstract ideal.*
+***Bond:*** *Dedicated to fulfilling a personal life goal.*
 
 ***Secret:*** *Has a secret magic item (possibly cursed).*
 
-***Flaw:*** *Prone to rage.*
+***Flaw:*** *Obese.*
 
-***Race: Genasi.*** Thought to trace their ancestry to the genies of the Elemental Planes, each genasi can tap into the power of one of the elements.
+***Race: Elf.*** Elves are almost as diverse as humans in their occupations, entertainments, and while most elves have a strong familial tie between them, numerous elves have wandered away from home to make their mark within the world, then to return and take up familial responsibilities. Elves revere their familial ancestors, and will often have a shrine to a favored ancestor, but elves do not see their familial ancestors as gods, and many elves are quite comfortable serving in a religious order even as they put offerings to their revered ancestors out on important holidays.
 
-***Fire Genasi.*** Descended from efreet, the genies of the Elemental Plane of Fire, fire genasi channel the flamboyant and often destructive nature of flame. They show their heritage in their skin tones, which can range from deep charcoal to shades of red and orange. Some bear skin tones common to humanity but with fiery marks, such as slowly swirling lights under their skin that resemble embers or glowing red lines tracing over their bodies like cracks. Fire genasi hair can resemble threads of fire or sooty smoke.
+***Subrace: Shadow Elf.*** These elves, the *shadar-kai*, remain a mystery even to their kin--their origins are lost, their homes are undiscovered, and their motives and allegiances are absolutely indiscernible. Individual *shadar-kai* have been seen wandering the world, identifiable more by their piercings and tatoos than anything else, leaving many to wonder if other *shadar-kai*, unpierced and untattooed, also wander the world--and why. *Eladrin* and *shadar-kai* are like reflections of each other: one bursting with emotion, the other nearly devoid of it.
 
-***Class: Wizard.*** Wizards are supreme magic-users, defined and united as a class by the spells they cast. Drawing on the subtle weave of magic that permeates the cosmos, wizards cast spells of explosive fire, arcing lightning, subtle deception, brute-force mind control, and much more.
+***Class: Bard.*** Whether scholar, skald, or scoundrel, a bard weaves magic through words and music to inspire allies, demoralize foes, manipulate minds, create illusions, and even heal wounds. The bard is a master of song, speech, and the magic they contain.
 
-***Arcane Tradition: War Magic.*** Followers of this tradition are known as war mages. They see their magic as both a weapon and armor, a resource superior to any piece of steel. War mages act fast in battle, using their spells to seize tactical control of a situation. Their spells strike hard, while their defensive skills foil their opponents' attempts to counterattack. War mages are also adept at turning other spellcasters' magical energy against them.
+***Bardic College: College of Eloquence.*** Adherents of the College of Eloquence master the art of oratory. Persuasion is regarded as a high art, and a well-reasoned, well-spoken argument often proves more powerful than objective truth. These bards wield a blend of logic and theatrical wordplay, winning over skeptics and detractors with logical arguments, and plucking at heartstrings to appeal to the emotions of entire audiences.
 
-***Feat: War Caster.*** You have practiced casting spells in the midst of combat, learning useful techniques.
-
-***Feat: Fey-Touched.*** Your exposure to the Feywild or one of its denizens has left a magical mark on you.
+***Feat: Actor.*** You are skilled at mimicry and dramatics.
 
 ***Feat: Shadow-Touched.*** You learn how to bend shadows from your experience with the Shadowfell.
 
-***Feat: Keen Mind.*** You have a mind that can track time, direction, and detail with uncanny precision.
+***Feat: Alert.*** You are always on the lookout for danger.
+
+***Feat: Linguist.*** You have studied languages and codes.
+
+***Feat: Piercer.*** You have achieved a penetrating precision in combat.
 
 
 

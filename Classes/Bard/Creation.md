@@ -8,7 +8,7 @@ Dwarves and gnomes often encourage their bards to become students of the Song of
 This college is quite popular among the [Al'Uma](../../Religions/Al'Uma.md), though of course the bards are singing of the Eldar when they speak of the power of creation. Universities offering this College can be found in many Al'Uman cities, and in a few outside of Al'Uma as well.
 
 ```
-name = 'Creation'
+name = 'College of Creation'
 description = "***Bardic College: College of Creation.*** Bards believe the cosmos is a work of art-the creation of the first dragons and gods. That creative work included harmonies that continue to resound through existence today, a power known as the Song of Creation. The bards of the College of Creation draw on that primeval song through dance, music, and poetry."
 ```
 

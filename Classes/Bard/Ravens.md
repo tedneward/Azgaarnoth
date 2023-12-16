@@ -2,7 +2,7 @@
 Bards of the College of Ravens have many friends, or so the saying goes. Whether perched on balconies overlooking cities, or stalking the deep hearts of umbral forests, these clever spies and sinister information brokers rely on their shadowy allies to acquire secrets. The College of Ravens relies on always having just the right secret to tip the balance in their favour. To their mind, it's not brute force that will win the day, but a small push in just the right place, at just the right moment.
 
 ```
-name = 'Ravens'
+name = 'College of Ravens'
 description = "***Bardic College: College of Ravens.*** Bards of the College of Ravens have many friends, or so the saying goes. Whether perched on balconies overlooking cities, or stalking the deep hearts of umbral forests, these clever spies and sinister information brokers rely on their shadowy allies to acquire secrets. The College of Ravens relies on always having just the right secret to tip the balance in their favour. To their mind, it's not brute force that will win the day, but a small push in just the right place, at just the right moment."
 ```
 

@@ -2,7 +2,7 @@
 There are many organizations that act in secrecy. From [Rogues' Guilds](../../Organizations/RoguesGuilds/) and spy rings to cults, rebellions and the [Order of the Copper Dragon](../../Organizations/MilitantOrders/DraconicOrder/Copper.md), all these secret societies need operatives and leaders like you. Your chosen group taught you the value of loyalty and secrecy, and how to command fear and respect, whether by magic or other means. The key to your success and survival is an unmatched understanding of the psychology and culture of those around you.
 
 ```
-name = 'Secrets'
+name = 'College of Secrets'
 description = "***Bardic College: College of Secrets.*** There are many organizations that act in secrecy. All these secret societies need operatives and leaders like you. Your chosen group taught you the value of loyalty and secrecy, and how to command fear and respect, whether by magic or other means. The key to your success and survival is an unmatched understanding of the psychology and culture of those around you."
 ```
 

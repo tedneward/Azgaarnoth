@@ -16,5 +16,5 @@ def apply(npc):
     npc.languages.append("CHOOSE")
     npc.languages.append("CHOOSE")
 
-    npc.defer(lambda npc: npc.traits.append("***Encipher.*** You can ably create written ciphers. Others can't decipher a code you create unless you teach them, they succeed on an Intelligence check (DC {npc.INT + npc.proficiencybonus()}), or they use magic to decipher it.") )
+    npc.defer(lambda npc: npc.traits.append(f"***Encipher.*** You can ably create written ciphers. Others can't decipher a code you create unless you teach them, they succeed on an Intelligence check (DC {npc.INT + npc.proficiencybonus()}), or they use magic to decipher it.") )
 ```

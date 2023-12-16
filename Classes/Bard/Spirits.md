@@ -2,12 +2,12 @@
 Stories of the past are powerful; they hold lessons of history, philosophy, and magic. Bards of the College of Spirits seek the stories of those from beyond the material plane. They reach out to hear their stories, but the bards have no control over what story they find.
 
 ```
-name = 'Spirits'
+name = 'College of Spirits'
 description = "***Bardic College: College of Spirits.*** Stories of the past are powerful; they hold lessons of history, philosophy, and magic. Bards of the College of Spirits seek the stories of those from beyond the material plane. They reach out to hear their stories, but the bards have no control over what story they find."
 ```
 
 ## Guiding Whispers
-*3rd-level College of Spirits*
+*3rd-level College of Spirits feature*
 
 You can reach out to spirits to guide you and others. You learn the [guidance](../../Magic/Spells/guidance.md) cantrip, which doesn't count against the number of bard cantrips you know. For you, it has a range of 60 feet when you cast it.
 
