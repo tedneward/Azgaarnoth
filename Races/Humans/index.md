@@ -1,11 +1,11 @@
 # Humans
-Owing to the prodigious rate at which humans reproduce, they are the dominant species of the Azgaarnothian lands. Owing to the 8,000-plus years of intermixing, humans characteristics are all over the map--different skin tones, different complexions, heights, weights, and so on. Humans were the servant race of the Eldar and flourished and took over much of the lands after the Fall. It is not clear if humans were created by the Eldar, or were uplifted by them. Either way, humans owe their civilization to the initial one built by the Eldar, inheriting it after the Fall.
+Humans are the most adaptable and ambitious people among the common races. They have widely varying tastes, morals, and customs in the many different lands where they have settled. When they settle, though, they stay: they build cities to last for the ages, and great kingdoms that can persist for long centuries. An individual human might have a relatively short life span, but a human nation or culture preserves traditions with origins far beyond the reach of any single human’s memory. They live fully in the present — making them well suited to the adventuring life — but also plan for the future, striving to leave a lasting legacy. Individually and as a group, humans are adaptable opportunists, and they stay alert to changing political and social dynamics.Owing to the prodigious rate at which humans reproduce, they are the dominant species of the Azgaarnothian lands. Owing to the 8,000-plus years of intermixing, humans characteristics are all over the map--different skin tones, different complexions, heights, weights, and so on.
 
-Human society is broken into several distinct cultures: [Al'Uma](../Cultures/AlUma.md), [Gozdor](../Cultures/Gozdor.md), [Anor](../Cultures/Anor.md), and [Dail](../Cultures/Dail.md).
+Humans were the servant race of the Eldar and flourished and took over much of the lands after the Fall. It is not clear if humans were created by the Eldar, or were uplifted by them. Either way, humans owe their civilization to the initial one built by the Eldar, inheriting it after the Fall. Human society is broken into several distinct cultures: [Al'Uma](../Cultures/AlUma.md), [Gozdor](../Cultures/Gozdor.md), [Anor](../Cultures/Anor.md), and [Dail](../Cultures/Dail.md).
 
 ```
 name = 'Human'
-description = "***Race: Human.*** Humans were the servant race of the Eldar and flourished and took over much of the lands after the Fall. It is not clear if humans were created by the Eldar, or were uplifted by them. Either way, humans owe their civilization to the initial one built by the Eldar, inheriting it after the Fall."
+description = "***Race: Human.*** Humans are the most adaptable and ambitious people among the common races. They have widely varying tastes, morals, and customs in the many different lands where they have settled. When they settle, though, they stay: they build cities to last for the ages, and great kingdoms that can persist for long centuries. An individual human might have a relatively short life span, but a human nation or culture preserves traditions with origins far beyond the reach of any single human’s memory. They live fully in the present — making them well suited to the adventuring life — but also plan for the future, striving to leave a lasting legacy. Individually and as a group, humans are adaptable opportunists, and they stay alert to changing political and social dynamics.Owing to the prodigious rate at which humans reproduce, they are the dominant species of the Azgaarnothian lands. Owing to the 8,000-plus years of intermixing, humans characteristics are all over the map--different skin tones, different complexions, heights, weights, and so on."
 type = 'humanoid'
 ```
 
@@ -19,7 +19,7 @@ type = 'humanoid'
 
 * **Skills.** You gain proficiency in one skill of your choice.
 
-* **Feat.** You gain one [Feat](../Classes/Feats.md) of your choice.
+* **Feat.** You gain one [Feat](../../Feats/) of your choice.
 
 * **Languages.** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
 
@@ -48,64 +48,28 @@ def level0(npc):
 
 Humans may be [dragonmarked](Dragonmarked.md) with the [Mark of Handling](Handling.md), the [Mark of Making](Making.md), the [Mark of Passage](Passage.md), or the [Mark of Sentinel](Sentinel.md). Or not, as they choose.
 
-## Sample human names (from https://www.roll4.net/generators/dd-name-generators/dnd-human-name-generator)
-Ustice We
-Pert Ynn
-Pari Mpson
-Ey Va
-Quincy Wang
-Cora Aross
-Junter Barrin
-Ulia Yncano
-Jonald Guerre
-Ver Krajas
-Lla Ser
-Xan Guerra
-Son An
-La Pez
-Hali Pruz
-Zoe Ussen
-Oinn Ls
-Jeanor Ccorte
-Eonald Ton
-Ypri Ubbott
-Larkez Na
-Jaelan Gers
-Vel Quinn
-Hannon Ice
-Is Crosby
-Del Sam
-Yer Rrince
-Ylis Ke
-Ver Quez
-Von Things
-Yaelan As
-Arker Quinne
-Wan Quez
-Zie Mccars
-Charle No
-Pen Ton
-Van Dman
-Tt Boyd
-Xer Pson
-Kly Villo
-Icky Goosethorn
-Zan Winterscreamer
-St Snakewing
-Ker Icestriker
-Camen Camelcrawl
-Macey Fallseeker
-Ulan Jaguarscreamer
-Ley Oathbeak
-Xer Crocodilechaser
-Caseer Windwind
-Xaris Tigerhold
-Tayler Lionbone
-An Bearlove
-Ta Starwind
-Adler Lightforge
-Madel Morningbinder
-Zie Geckodestroyer
-Premilan Cranepunch
-Lyn Havocbash
-Ugh Wolfgutz
+```
+# From https://www.roll4.net/generators/dd-name-generators/dnd-human-name-generator
+def generate_name(npc, gender):
+    female_firstnames = [
+        'Ustice','Ey','Pari','Cora','Ulia','Lla','La','Hali','Zoe','Jeanor','Ypri',
+        'Charle','Zie','Ker','Xaris','Ta','Premila'
+    ]
+    male_firstnames = [
+        'Pert','Quincy','Son','Junter','Jonald','Ver','Xan','Eonald','Oinn','Hannon',
+        'Isdel','Del','Yer','Ylis','Yaelan','Arker','Wan','Adler','Camen','Caseer',
+        'Premilan','Ulan','Xaris','Tayler','Lyn'
+    ]
+    
+    last_names = [
+        'We','Ynn','Mpson','Va','Wang','Aross','Barrin','Yncano','Guerre','Krajas',
+        'Ser','Guerra','An','Pez','Pruz','Ussen','Corte','Ton','Ubbott','Na','Gers',
+        'Quinn','Crosby','Sam','Rince','Ke','Quez','Quinne','Goosethorn',
+        'Winterscreamer','Snakewing','Icestriker','Camelcrawl','Fallseeker',
+        'Oathbreak','Jaguarscreamer','Crocchaser','Windhold','Tigerwind',
+        'Tigerbone','Lionbone','Bearwind','Starlove','Lightforge','Morningbinder',
+        'Cranepunch','Wolfguts'
+    ]
+
+    return (random(female_firstnames) if gender == 'female' else random(male_firstnames)) + random(last_names) 
+```

@@ -4,7 +4,7 @@ I choose to use a system whereby effects can be paired with a variety of differe
 Some items can only be a particular specific within the category--for example, an *animated shield* wouldn't make much sense as anything other than a shield, since an *animated breastplate* wouldn't yield any significant benefit (and possibly some drawbacks!).
 
 ## Residual Items
-*Items that hold charges or residual powers without charge; (charges/recharges @ period)*
+*Items that hold charges or periodic-based powers*
 
 * *Clothing*: Belt, Boots, Cape, Cloak, Gloves, Hat, Mantle, Robe, Slippers, Horseshoes
 
@@ -14,7 +14,7 @@ Some items can only be a particular specific within the category--for example, a
 
 * *Focus*: Rod, Scepter, Staff, Wand
 
-* *Instrument*: Chime, Flute, Harp, Horn, Lute, Pipes
+* *Instrument*: Chime, Drum, Flute, Harp, Horn, Lute, Pipes, Viola
 
 * *Ornament*: Amulet, Brooch, Circlet, Crown, Mask, Medallion, Necklace, Ring, Scarab, Talisman
 
