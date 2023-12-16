@@ -1,94 +1,134 @@
 >### Name
->*Small Female humanoid (Goblin) Wizard (Onomancy) 8, any alignment*
+>*Medium Male humanoid ( Half-Orc) Barbarian (Totem Warrior) 20, any alignment*
 >___
->- **Armor Class** 12 (DEX (+2))
->- **Hit Points** 61 (8d6 + 24)
->- **Speed** 30 ft
+>- **Armor Class** 17 (Unarmored Defense (16),DEX (+1))
+>- **Hit Points** 229 (20d12 + 60)
+>- **Speed** 30 ft, climbing 30 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:-:|:-:|:-:|:-:|:-:|:-:|
->|8 (-1)|14 (+2)|18 (+4)|18 (+4)|12 (+1)|12 (+1)|
+>|22 (+6)|12 (+1)|21 (+5)|8 (-1)|12 (+1)|12 (+1)|
 >___
->- **Proficiency Bonus** +4
->- **Saving Throws** Wis +5,Int +8
+>- **Proficiency Bonus** +7
+>- **Saving Throws** Str +13,Con +12
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
 >- **Damage Immunities** 
 >- **Condition Immunities** 
->- **Skills** Insight +5,Religion +8
->- **Proficiencies** Calligrapher's tools,Dagger,Dart,Light crossbow,Quarterstaff,Sling
->- **Senses** darkvision 60,passive Perception 11
->- **Languages** Common,Goblin,CHOOSE
+>- **Skills** Animal Handling +8,Athletics +13,Intimidation +8,Perception +8
+>- **Proficiencies** Battleaxe,Blowgun,Breastplate,Chain shirt,Club,Dagger,Dart,Flail,Glaive,Greataxe,Greatclub,Greatsword,Halberd,Half-plate,Hand Crossbow,Handaxe,Heavy Crossbow,Hide armor,Javelin,Lance,Leather armor,Light Crossbow,Light hammer,Longbow,Longsword,Mace,Maul,Morningstar,Net,Padded armor,Pike,Quarterstaff,Rapier,Scale mail,Scimitar,Shield,Shortbow,Shortsword,Sickle,Sling,Spear,Studded leather armor,Trident,War pick,Warhammer,Whip
+>- **Senses** darkvision 60,passive Perception 18
+>- **Languages** Common,Orcish
 >___
->***Arcane Recovery.*** Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level of 4, and none of the slots can be 6th level or higher.
+>***Aspect of the Beast: Eagle.*** You can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom (Perception) checks.
 >
->***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+>***Athletic.*** When you are prone, standing up uses only 5 feet of your movement. You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
 >
->***Fury of the Small (4/Recharges on long rest).*** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal 8 extra damage to the creature. You can use this trait no more than once per turn.
+>***Brutal Critical.*** You roll three additional weapon damage dice when determining the extra damage for a critical hit with a melee attack.
 >
->***Resonant Utterance (3/Recharges on long rest).*** See below for options.
+>***Durable.*** When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
 >
->***Spellbook.*** Contents: bane,bless
+>***Feral Instinct.*** You have advantage on initiative rolls. Additionally, if you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
+>
+>***Grappling.*** You have advantage on attack rolls against a creature you are grappling.
+>
+>***Indomitable Might.*** If your total for a Strength check is less than your Strength score, you can use that score in place of the total.
+>
+>***Relentless Endurance (Recharges on long rest.)*** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead.
+>
+>***Relentless Rage (Resets on short or long rest).*** If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead. Each time you use this feature after the first, the DC increases by 5.
+>
+>***Savage Attacks.*** When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
+>
+>***Totem Spirit: Bear.*** While raging, you have resistance to all damage except psychic damage.
 >
 >#### Actions
->***Fateful Naming (4/Recharges on long rest).*** You can cast [bane](http://azgaarnoth.tedneward.com/magic/spells/bane/) or [bless](http://azgaarnoth.tedneward.com/magic/spells/bless/) without expending a spell slot if you speak the true name of one target of the spell as part of casting it.
+>***Great Weapon Master.*** Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
 >
->***Resonant: Absorption.*** You cast a wizard spell with a spell slot that deals damage to the named target and speak the true name of one creature targeted by the spell. In doing so, you gain 3d6 temporary hit points.
+>***Multiattack.*** You can attack twice, instead of once, whenever you take the Attack action on your turn.
 >
->***Resonant: Dissolution.*** You cast a wizard spell with a spell slot that deals damage to the named target and speak the true name of one creature targeted by the spell. The first time the named creature takes damage from the spell, that creature takes an extra 2d8 force damage.
+>***Pin.*** If you are grappling a creature, you can make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
 >
->***Wizard Spellcasting (Int, at level 8. Recharges on long rest).*** 12 spells prepared. **Spell save DC: 16**, **Spell attack bonus: +8**
+>***Reckless Attack.*** When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
 >
->* *1st (4 slots):* 
->* *2nd (3 slots):* 
->* *3rd (3 slots):* 
->* *4th (2 slots):* 
+>***Spirit Seeker.*** You can cast [beast sense](http://azgaarnoth.tedneward.com/magic/spells/beast-sense/) as a ritual. You can cast [speak with animals](http://azgaarnoth.tedneward.com/magic/spells/speak-with-animals/) as a ritual.
+>
+>***Spirit Walker.*** You cast [commune with nature](http://azgaarnoth.tedneward.com/magic/spells/commune-with-nature/) as a ritual. When you do so, a spiritual version of one of the animals you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek.
+>
+>#### Reactions
+>***Instinctive Pounce.*** When a creature ends its turn within 15 feet of you, you move up to half your speed to a space closer to the creature. This movement doesn't provoke opportunity attacks.
+>
+>***Reactive Resilience (7/Recharges on long rest).*** When you take acid, cold, fire, lightning, or poison damage, you give yourself resistance to that instance of damage.
 >
 >
 >#### Bonus Actions
->***Extract Name (4/Recharges on long rest).*** A target within 60 feet of you that you can see must make a Wisdom saving throw (DC 16). On a successful save, you discern that this magic failed, and you can't use this feature on the target again until the next dawn. On a failed save, the target is charmed by you until the end of your next turn, and you mentally learn the charmed target's name or the fact that the target lacks a name.
+>***Chromatic Infusion (Recharges on on long rest).*** You touch a simple or martial weapon and infuse it with one of the following damage types: acid, cold, fire, lightning, or poison. For the next minute, the weapon deals an extra 1d4 damage of the chosen type when it hits.
 >
->***Nimble Escape.*** You can take the Disengage or Hide action as a bonus action on each of your turns.
+>***Great Weapon Master.*** When you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you make one melee weapon attack.
+>
+>***Rage (6/Recharges on long rest).*** Your rage lasts for 1 minute. It ends early if you fall unconscious. You can end your rage on your turn as a bonus action.  You can move up to half your speed as part of this bonus action. If you aren't wearing heavy armor, you gain the following benefits: You have advantage on Strength checks and Strength saving throws; When you make a melee weapon attack using Strength, you gain a +4 bonus to the damage roll; You have resistance to bludgeoning, piercing, and slashing damage.
+>
+>***Totemic Attunement: Tiger.*** While raging, if you move at least 20 feet in a straight line toward a Large or smaller target right before making a melee weapon attack against it, you make an additional melee weapon attack against it.
 >
 >
 >#### Equipment
->Quarterstaff OR dagger
+>Greataxe OR any martial melee weapon
 >
->Component pouch OR Arcane focus
+>Two handaxes OR any simple weapon
 >
->Scholar's pack OR Explorer's pack
+>Four javelins
 >
->***Spellbook.*** When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a level for which you have spell slots; the process takes 2 hours and costs 50 gp per level of spell.Once you have spent this time and money, you can prepare the spell just like your other spells. Copying a spell from your spellbook into another spellbook costs half this amount (in time and gold), since you know it already.
+>An explorer's pack
+>
+>***Magic Item: Uncommon Permanent.***
 >
 >***Magic Item: Uncommon Permanent.***
 >
->***Magic Item: Uncommon Permanent.***
+>***Magic Item: Rare Permanent.***
+>
+>***Magic Item: Rare Permanent.***
+>
+>***Magic Item: Very Rare Permanent.***
+>
+>***Magic Item: Legendary Permanent.***
 >
 
 #### Description
-***Ideals:*** *Greed/Honor/People.*
+***Ideals:*** *Redemption/Honor/Neutrality.*
 
-***Motivation:*** *Doing a favor.*
+***Motivation:*** *Staying loyal to a promise/ideal.*
 
-***Appearance:*** *Middle-aged*, *Burn marks/scars visible somewhere.*
+***Appearance:*** *Adult*, *Cross-eyed.*
 
-***Talents:*** *Excellent fashion sense/taste.*
+***Talents:*** *Master liar.*
 
-***Mannerisms:*** *Enunciates overly clearly.*
+***Mannerisms:*** *Fidgets all the time.*
 
-***Interactions with others:*** *Quiet* when speaking with others.
+***Interactions (with others):*** *Curious*.
 
-***Bond:*** *Protective of colleagues or compatriots.*
+***Bond:*** *Loyal to a benefactor, patron, or employer.*
 
-***Secret:*** *Origins in noble family.*
+***Secret:*** *Wanted, has a bounty on their head.*
 
-***Flaw:*** *Envies another creature's possessions or station.*
+***Flaw:*** *Walks (or worse) while sleeping.*
 
-***Race: Goblin.*** Originally a subterranean folk that came to Azgaarnoth as part of the Hordes, goblins can now be found in every corner of Azgaarnoth, often beside their bugbear and hobgoblin kin. Goblins hae thrived in dangerous environments thanks to a special knack for finding the weak spots in foes larger than themselves and for getting out of trouble. Originally the lackeys and servants of their larger goblinoid kin, now many goblins pursue their own destinies, escaping the plots of archfey, gods, and would-be warlords.
+***Race: Half-Orc.*** When alliances between humans and orcs are sealed by marriages, half-orcs are born. Some half-orcs rise to become proud chiefs of orc tribes, their human blood giving them an edge over their full-blooded orc rivals. Some venture into the world to prove their worth among humans and other more civilized races. Many of these become adventurers, achieving greatness for their mighty deeds and notoriety for their barbaric customs, savage fury, and impressive cunning.
 
-***Class: Wizard.*** Wizards are supreme magic-users, defined and united as a class by the spells they cast. Drawing on the subtle weave of magic that permeates the cosmos, wizards cast spells of explosive fire, arcing lightning, subtle deception, brute-force mind control, and much more.
 
-***Arcane Tradition: Onomancy.*** Practitioners of magic well know the power of names, but wizards who follow the tradition of Onomancy use their magic to manipulate the words that encompass existence. Onomancers expand their study into language itself, searching for threads of magical significance that weave through names. Something that is named stands out in the multiverse, distinct from the tapestry of creation all around it.
+
+***Class: Barbarian.*** Barbarians are defined by their rage: unbridled, unquenchable, and unthinking fury. More than a mere emotion, their anger is the ferocity of a cornered predator, the unrelenting assault of a storm, the churning turmoil of the sea. For some, their rage springs from a communion with fierce animal spirits. Others draw from a roiling reservoir of anger at a world full of pain. For every barbarian, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.
+
+***Primal Path: Path of the Totem Warrior.*** The Path of the Totem Warrior is a spiritual journey, as the barbarian accepts a spirit animal as guide, protector, and inspiration. In battle, your totem spirit fills you with supernatural might, adding magical fuel to your barbarian rage.
+
+***Feat: Athlete.*** You have undergone extensive physical training.
+
+***Feat: Durable.*** You are hardy and resilient.
+
+***Feat: Grappler.*** You've developed the skills necessary to hold your own in close-quarters grappling.
+
+***Feat: Great Weapon Master.*** You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes.
+
+***Feat: Gift of the Chromatic Dragon.*** You've manifested some of the power of chromatic dragons.
 
 
 

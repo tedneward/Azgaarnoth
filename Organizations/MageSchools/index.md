@@ -56,6 +56,7 @@ Hundreds of mage schools of all size are present on Azgaarnoth. Currently the mo
 * [Silent Tower](SilentTower.md): divination and scrymancy
 * [Spinning Hands](SpinningHands.md): space-time and chronomancy
 * [Symbarchs](Symbarchs.md): followers of an ancient mage
+* [Umbral Forge](UmbralForge.md): arcane smithing
 * [White Spike](WhiteSpike.md): cold and ice magic
 * [White Winds](WhiteWinds.md): generalists and arcanists
 

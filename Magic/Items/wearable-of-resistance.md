@@ -1,7 +1,7 @@
 # *Clothing/Defense/Ornament* of Resistance
 *rare (requires attunement)*
 
-You have resistance to one type of damage while you wear this armor.
+You have resistance to one type of damage while you wear this item.
 
 d10 | Damage Type
 --- |---------
