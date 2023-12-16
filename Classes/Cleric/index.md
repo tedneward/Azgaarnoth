@@ -289,7 +289,7 @@ At 20th level, your call for intervention succeeds automatically, no roll requir
 
 ```
 def level10(npc):
-    npc.defer(lambda npc: npc.actions.append("***Divine Intervention (Recharges on long rest/seven days).*** Describe the assistance you seek, and {'roll percentile dice. If you roll a number equal to or lower than ' + len(npc.levels('Cleric')) + ', ' if npc.levels('Cleric') < 20 else ''}your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise you can use it again after you finish a long rest."))
+    npc.defer(lambda npc: npc.actions.append(f"***Divine Intervention (Recharges on long rest/7 days).*** Describe the assistance you seek, and {'roll percentile dice. If you roll a number equal to or lower than ' + len(npc.levels('Cleric')) + ', ' if npc.levels('Cleric') < 20 else ''}your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise you can use it again after you finish a long rest."))
 ```
 
 ---

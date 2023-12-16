@@ -1,61 +1,64 @@
 >### Name
->*Medium Male humanoid (Wild Half-Elf) Bard (Spirits) 20, any alignment*
+>*Medium Female humanoid (High Elf) Wizard (Scribe) 20, any alignment*
 >___
->- **Armor Class** 14 (Leather armor (11),DEX (+3))
->- **Hit Points** 138 (20d8 + 20)
+>- **Armor Class** 12 (DEX (+2))
+>- **Hit Points** 142 (20d6 + 52)
 >- **Speed** 30 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:-:|:-:|:-:|:-:|:-:|:-:|
->|8 (-1)|16 (+3)|12 (+1)|12 (+1)|12 (+1)|22 (+6)|
+>|8 (-1)|14 (+2)|16 (+3)|21 (+5)|12 (+1)|12 (+1)|
 >___
 >- **Proficiency Bonus** +7
->- **Saving Throws** Dex +10,Cha +13
+>- **Saving Throws** Wis +8,Int +12
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
 >- **Damage Immunities** 
->- **Condition Immunities** 
->- **Skills** Acrobatics +10,Animal Handling +15,Arcana +15,Deception +13,Medicine +8,Stealth +10,Survival +8
->- **Proficiencies** Bagpipes,Club,Dagger,Dart,Drum,Greatclub,Hand crossbow,Handaxe,Javelin,Leather armor,Light Crossbow,Light hammer,Longbow,Longsword,Mace,Net,Padded armor,Quarterstaff,Rapier,Shortbow,Shortsword,Sickle,Sling,Spear,Studded leather armor
->- **Senses** darkvision 60,passive Perception 11
->- **Languages** Common,Elvish,CHOOSE
+>- **Condition Immunities** sleep
+>- **Skills** Arcana +12,Insight +8,Perception +8
+>- **Proficiencies** Dagger,Dart,Light crossbow,Longbow,Longsword,Quarterstaff,Shortbow,Shortsword,Sling
+>- **Senses** darkvision 60,passive Perception 23
+>- **Languages** Common,Elven,CHOOSE
 >___
+>***Arcane Recovery.*** Once per day when you finish a short rest, you can recover up to 10 levels of expended spell slots, none of which can be 6th level or higher.
+>
+>***Awakened Spellbook.*** While you are holding your Awakened Spellbook, you can use the book as a spellcasting focus for your wizard spells. When you cast a wizard spell with a spell slot, you can temporarily replace its damage type with the damage type of another spell in your spellbook, as your spellbook magically alters the spell's formula for this casting. When you cast a wizard spell as a ritual, you can use the spell's normal casting time, rather than adding 10 minutes to it. Once you use this benefit, you can't do so again until you finish a long rest.
+>
+>***Durable.*** When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
+>
 >***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
 >
->***Guiding Whispers.*** The [guidance](../../Magic/Spells/guidance.md) cantrip doesn't count against the number of bard cantrips you know, and a range of 60 feet when you cast it.
+>***Keen Mind.*** You always know which way is north, the number of hours left before the next sunrise or sunset, and you can accurately recall anything you have seen or heard within the past month.
 >
->***Jack of All Trades.*** You can add 3 to any ability check you make that doesn't already include your proficiency bonus.
+>***Manifest Mind: Remote Cast (7/Recharges on long rest).*** Whenever you cast a wizard spell on your turn, you can cast it as if you were in your spellbook's manifested spectral mind's space, instead of your own, using its senses. You can do so a number of times per day equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 >
->***Lucky (3/Recharges on long rest).*** Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend one of your luck points after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw. You can also spend one luck point when an attack roll is made against you. Roll a d20 and then choose whether the attack uses the attacker's roll or yours. If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled.
+>***Master Scrivener.*** Whenever you finish a long rest, you can create one magic scroll by touching your Wizardly Quill to a blank piece of paper or parchment and causing one spell from your Awakened Spellbook to be copied onto the scroll. The spellbook must be within 5 feet of you when you make the scroll. The chosen spell must be of 1st or 2nd level and must have a casting time of 1 action. Once in the scroll, the spell's power is enhanced, counting as one level higher than normal. You can cast the spell from the scroll by reading it as an action. The scroll is unintelligible to anyone else, and the spell vanishes from the scroll when you cast it or when you finish your next long rest. You are also adept at crafting spell scrolls. The gold and time you must spend to make such a scroll are halved if you use your Wizardly Quill.
 >
->***Magical Inspiration.*** If a creature has a Bardic Inspiration die from you and casts a spell that restores hit points or deals damage, the creature can roll that die and choose a target affected by the spell. Add the number rolled as a bonus to the hit points regained or the damage dealt. The Bardic Inspiration die is then lost.
+>***Observant.*** If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips. You have a +5 bonus to your passive Intelligence (Investigation) scores.
 >
->***Magical Secrets.*** You have plundered magical knowledge from a wide spectrum of disciplines. Two of your known spells at 10th level, two more at 14th level, and two more at 18th level can be from any classes, including this one.
+>***Signature Spells.*** You gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 >
->***Shadow-Touched Spells.*** You can also cast your Shadow-Touched spells using spell slots you have of the appropriate level.
+>***Spell Mastery.*** By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 >
->***Song of Rest.*** You can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.
+>***Spellbook.*** Contents: 
 >
->***Spirit Session (Recharges on long rest).*** You can conduct an hour-long ritual channeling spirits (which can be done during a short or long rest) using your Spiritual Focus. You can conduct the ritual with 7 creatures (including yourself). At the end of the ritual, you temporarily learn one spell of your choice from any class.The spell you choose must be level 7 or less, the spell must of a level you can cast, and it must be in the school of divination or necromancy. The chosen spell counts as a bard spell for you but doesn't count against the number of bard spells you know. You know the chosen spell until you start a long rest.
+>***Trance.*** Elves do not sleep. Instead they meditate deeply, remaining semi-conscious, for 4 hours a day. The Common word for this meditation is 'trance'. While meditating, you dream after a fashion; such dreams are actually mental exercises that have become reflexive after years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep.
 >
->***Spiritual Focus.*** You can use the following objects as a spellcasting focus for your bard spells: a candle, a crystal ball, a talking board, a tarokka deck, or a skull. When you cast a bard spell that deals damage or restores hit points through this Spiritual Focus, roll a d6 and add that to the result.
+>***War Caster: Concentration.*** You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
 >
->***Stealthy.*** If you are hidden, you can move up to 10 feet in the open without revealing yourself if you end the move in a position where you're not clearly visible.
->
->***Superior Inspiration.*** When you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
+>***War Caster: Somaticism.*** You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
 >
 >#### Actions
->***Countercharm.*** You can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
+>***Manifest Mind: Remote View.*** While your spellbook's spectral mind is manifested, you can hear and see using the its senses, instead of your own, until your concentration ends (as if concentrating on a spell).
 >
->***Tell the Tale.*** You choose one creature you can see within 30 feet of you (this can be you) to be the target of the Tales from the Beyond tale's effect. Once you do so, you can't bestow the tale's effect again until you roll it again.
+>***One with the Word (7/Recharges on long rest).*** While you are holding the book and its spectral mind is manifest, you cause the two of you to teleport, swapping places. Moreover, if you die but at least one spell remains in your Awakened Spellbook, you can return to life 1 minute later within 5 feet of the book. You revive with 1 hit point. Then roll 3d6. The book loses spells of your choice that have a combined spell level equal to that roll or higher. Thereafter, you are incapable of casting the lost spells, even if you find them on a scroll or in another spellbook. The only way to restore your ability to cast one of the lost spells is through the [wish](http://azgaarnoth.tedneward.com/magic/spells/wish/) spell, which can restore one spell to the book per casting.
 >
->***Wild Elf Spellcasting (Wis. Recharges on long rest).*** **Spell save DC: 16**, **Spell attack bonus: +8**
+>***High Elf Spellcasting (Int. Recharges on long rest).*** **Spell save DC: 20**, **Spell attack bonus: +12**
 >
->* *Cantrips:* [CHOOSE-Druid](http://azgaarnoth.tedneward.com/magic/spells/CHOOSE-Druid/)
+>* *Cantrips:* [CHOOSE-Wizard](http://azgaarnoth.tedneward.com/magic/spells/CHOOSE-Wizard/)
 >
->***Bard Spellcasting (Cha, at level 20. Recharges on long rest).*** 5 cantrips known. 23 spells prepared. **Spell save DC: 21**, **Spell attack bonus: +13**
+>***Wizard Spellcasting (Int, at level 20. Recharges on long rest).*** 25 spells prepared. **Spell save DC: 20**, **Spell attack bonus: +12**
 >
->* *Cantrips:* [guidance](http://azgaarnoth.tedneward.com/magic/spells/guidance/)
 >* *1st (4 slots):* 
 >* *2nd (3 slots):* 
 >* *3rd (3 slots):* 
@@ -66,29 +69,26 @@
 >* *8th (1 slots):* 
 >* *9th (1 slots):* 
 >
->***Fey-Touched Spellcasting (Cha. Recharges on long rest).*** **Spell save DC: 21**, **Spell attack bonus: +13**
->
->* *1/day:* [misty step](http://azgaarnoth.tedneward.com/magic/spells/misty-step/),[CHOOSE-1st-divination-or-enchantment](http://azgaarnoth.tedneward.com/magic/spells/CHOOSE-1st-divination-or-enchantment/)
->
->***Shadow-Touched Spellcasting (Cha. Recharges on long rest).*** **Spell save DC: 21**, **Spell attack bonus: +13**
->
->* *1/day:* [darkness](http://azgaarnoth.tedneward.com/magic/spells/darkness/),[CHOOSE-1st-level-Illusion-or-Necromancy](http://azgaarnoth.tedneward.com/magic/spells/CHOOSE-1st-level-Illusion-or-Necromancy/)
+>#### Reactions
+>***War Caster: Opportunity Cast.*** When a hostile creature's movement provokes an opportunity attack from you, you can cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature. This does not count against your ability to cast a spell during your turn.
 >
 >
 >#### Bonus Actions
->***Bardic Inspiration (6/Recharges on long rest).*** You can inspire others through stirring words or music. Choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d12.
+>***Manifest Mind.*** While the book is on your person, you can cause the mind to manifest as a Tiny spectral construct, hovering in an unoccupied space of your choice within 60 feet of you. This presence is intangible and doesn't occupy its space, and it sheds dim light in a 10-foot radius. It looks like a ghostly tome, a cascade of text, or a scholar from the past (your choice). The spectral mind has {npc.levels('Wizard') + npc.INTbonus()} hit points, and it uses your Armor Class and saving throw modifiers. While manifested, the spectral mind can hear and see, and it has darkvision with a range of 60 feet.
 >
->***Tales from the Beyond.*** You expend one use of your Bardic Inspiration and roll on against the list below using either a d6 or one of your Bardic Inspiration dice (a d12) to determine the tale told. You retain the tale in mind until you bestow the tale's effect or you finish a short or long rest. You can retain only one of these tales in mind at a time, and rolling on the Spirits' Tales table immediately ends the effect of the previous tale. **1: Beast.** You recite the tale of a clever animal. For 1 minute, the target has advantage on Wisdom (Perception) checks and advantage on attack rolls against a creature if another enemy is within 5 feet of it, and that enemy isn't incapacitated; **2: Warrior.** You recount the story of a renowned duelist. Make a melee spell attack against the target as an attacking spectral warrior briefly appears in an unoccupied space within 5 feet of the target before vanishing. On a hit, the target takes 2d12 + 6 force damage; **3: Friends.** You recite the tale of friends who found each other in the afterlife. The target and another creature of its choice it can see within 5 feet of it regains 2d12 + 6 hit points; **4: Runaway.** You tell the tale of an adventurer that could escape any confinement. The target can immediately use its reaction to teleport up to 30 feet to an unoccupied space it can see. When the target teleports, it can choose 6 creatures it can see within 30 feet of it to immediately use the same reaction; **5: Avenger.** You recount the tale of an avenging knight. For 1 minute, whenever a creature the target can see within 30 feet of it is damaged by a creature, the target can use its reaction to deal 1d12 force damageto the attacker; **6: Hero.** You speak the tale of an epic hero. Choose a creature you can see within 30 feet of you. The target gains 1d12 + 20 temporary hit points. While it has these temporary hit points, the target's walking speed increases by 10 feet;**7: Fey.** You recount the tale of a mischievous fey. The target must succeed on a Wisdom saving throw (DC 21) or become charmed by you until the end of its next turn. The charmed target must use its action to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no other creature; **8: Dark Spirit.** You speak a dreadful tale of a slayer in the dark. The target becomes invisible until the end of its next turn or until it hits a creature with an attack. If it hits a creature with an attack during this invisibility, that creature takes 1d12 necrotic damage equal and is frightened of the target until the end of its next turn; **9: Giant.** You speak of the deeds of a mighty giant. Each creature of the target's choice it can see within 30 feet of it must make a Strength saving throw (DC 21), taking 2d12 force damage on a failed save and is knocked prone. A creature that succeeds on its saving throw takes half as much damage and isn't knocked prone; **10: Dragon.** You breathe a poem of a wrathful dragon. The target magically spews fire from their mouth in a 30-foot cone. Each creature in that area must make a Dexterity saving throw (DC 21), taking 3d12 fire damage on a failed save, or half as much damage on a successful one; **11: Celestial.** You speak of the exalted deeds of a celestial. The target regains 2d12 + 20 hit points, and you end one disease or a condition from the following list affecting the target: blinded, deafened, paralyzed, petrified, or poisoned; **12: Unknown.** You utter an incomprehensible fable from a being beyond the stars. Choose a creature you can see within 30 feet of you. The target must succeed on an Intelligence saving throw (DC 21) or take 3d12 psychic damage, and the target is unable to speak any language for 1 minute.
+>***Wizardly Quill.*** You magically create a Tiny quill in your free hand. The quill doesn't require ink. When you write with it, it produces ink in a color of your choice on the writing surface. The gold and time you must spend to copy a spell into your spellbook are halved if you use the quill for the transcription. You can erase anything you write with the quill if you wave the feather over the text as a bonus action, provided the text is within 5 feet of you. This quill disappears if you create another one or if you die.
 >
 >
 >#### Equipment
->Rapier OR Longsword OR any simple weapon
+>Quarterstaff OR dagger
 >
->Dagger
+>Component pouch OR Arcane focus
 >
->Diplomat's pack OR Entertainer's pack
+>Scholar's pack OR Explorer's pack
 >
->Lute OR other musical instrument
+>***Spellbook.*** When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a level for which you have spell slots; the process takes 2 hours and costs 50 gp per level of spell.Once you have spent this time and money, you can prepare the spell just like your other spells. Copying a spell from your spellbook into another spellbook costs half this amount (in time and gold), since you know it already.
+>
+>***Awakened Spellbook.*** You have awakened arcane sentience within your spellbook. If necessary, you can replace the book over the course of a short rest by using your Wizardly Quill to write arcane sigils in a blank book or a magic spellbook to which you're attuned. At the end of the rest, your spellbook's consciousness is summoned into the new book, which the consciousness transforms into your spellbook, along with all its spells. If the previous book still existed somewhere, all the spells vanish from its pages.
 >
 >***Magic Item: Uncommon Permanent.***
 >
@@ -104,41 +104,39 @@
 >
 
 #### Description
-***Ideals:*** *Charity/Knowledge/Self-knowledge.*
+***Ideals:*** *Life/Knowledge/Greater good.*
 
-***Motivation:*** *Love.*
+***Motivation:*** *Enacting revenge.*
 
-***Appearance:*** *Adult*, *Distinctive jewelry: earrings, necklace, circlet, bracelets.*
+***Appearance:*** *Adult*, *Ragged, dirty clothes.*
 
-***Talents:*** *Expert cook.*
+***Talents:*** *Expert painter.*
 
-***Mannerisms:*** *Stares into the distance for long periods of time before speaking.*
+***Mannerisms:*** *Refers to themself in the third person.*
 
-***Interactions (with others):*** *Suspicious*.
+***Interactions (with others):*** *Honest*.
 
-***Bond:*** *Protective of colleagues or compatriots.*
+***Bond:*** *Drawn to a special place.*
 
-***Secret:*** *Origins in noble family.*
+***Secret:*** *Has a secret pet (not necessarily tamed).*
 
-***Flaw:*** *Envies another creature's possessions or station.*
+***Flaw:*** *Can't express emotions.*
 
-***Race: Half-Elf.*** 
+***Race: Elf.*** Elves are almost as diverse as humans in their occupations, entertainments, and while most elves have a strong familial tie between them, numerous elves have wandered away from home to make their mark within the world, then to return and take up familial responsibilities. Elves revere their familial ancestors, and will often have a shrine to a favored ancestor, but elves do not see their familial ancestors as gods, and many elves are quite comfortable serving in a religious order even as they put offerings to their revered ancestors out on important holidays.
 
-***Elvish Heritage: Wild Elf.*** One of your parents was a Wild Elf.
+***Subrace: High Elf.*** High elves and wood elves are, by this point in Azgaarnoth's history, fairly well intermixed and are found in most locations all across Azgaarnoth; at this point in their evolution, no non-elf can tell the difference between them.
 
-***Class: Bard.*** Whether scholar, skald, or scoundrel, a bard weaves magic through words and music to inspire allies, demoralize foes, manipulate minds, create illusions, and even heal wounds. The bard is a master of song, speech, and the magic they contain.
+***Class: Wizard.*** Wizards are supreme magic-users, defined and united as a class by the spells they cast. Drawing on the subtle weave of magic that permeates the cosmos, wizards cast spells of explosive fire, arcing lightning, subtle deception, brute-force mind control, and much more.
 
-***Bardic College: College of Spirits.*** Stories of the past are powerful; they hold lessons of history, philosophy, and magic. Bards of the College of Spirits seek the stories of those from beyond the material plane. They reach out to hear their stories, but the bards have no control over what story they find.
+***Arcane Tradition: Scribe.*** Among wizards, the Scriveners school is the most bookish. Its primary mission: recording discoveries (particularly those magical in nature) in tomes and scrolls so that wizardry can flourish. And while every wizard values their spellbook, a Scrivener dedicates themself to magically awakening their book, turning it into a trusted companion. All wizards study their spellbooks, but a scribe talks to theirs.
 
-***Feat: Fey-Touched.*** Your exposure to the Feywild or one of its denizens has left a magical mark on you.
+***Feat: Durable.*** You are hardy and resilient.
 
-***Feat: Shadow-Touched.*** You learn how to bend shadows from your experience with the Shadowfell.
+***Feat: War Caster.*** You have practiced casting spells in the midst of combat, learning useful techniques.
 
-***Feat: Lucky.*** You have inexplicable luck that seems to kick in at just the right moment.
+***Feat: Observant.*** You are quick to notice details of your environment.
 
-***Feat: Skilled.** You are skilled in a variety of skills and tools.
-
-***Feat: Stealthy.*** You know how best to hide.
+***Feat: Keen Mind.*** You have a mind that can track time, direction, and detail with uncanny precision.
 
 
 
