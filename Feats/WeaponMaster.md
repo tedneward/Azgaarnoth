@@ -13,5 +13,4 @@ def apply(npc):
     for _ in range(0, 4):
         wpn = choose("Choose a martial weapon: ", weapons['martial-melee'] | weapons['martial-ranged'] | weapons['simple-melee'] | weapons['simple-ranged'])
         npc.proficiencies.append(wpn[0])
-        npc.proficiencies.append("CHOOSE-simple or martial weapon")
 ```

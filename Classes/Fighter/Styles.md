@@ -54,7 +54,7 @@ When a creature you can see hits a target, other than you, within 5 feet of you 
 
 ```
 def interception(npc):
-    npc.defer(lambda npc: npc.reactions.append("***Fighting Style: Interception.*** When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can reduce the damage the target takes by 1d10 + {npc.proficiencybonus()}. You must be wielding a shield or a simple or martial weapon to use this reaction."))
+    npc.defer(lambda npc: npc.reactions.append(f"***Fighting Style: Interception.*** When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can reduce the damage the target takes by 1d10 + {npc.proficiencybonus()}. You must be wielding a shield or a simple or martial weapon to use this reaction."))
 ```
 
 ## Mariner

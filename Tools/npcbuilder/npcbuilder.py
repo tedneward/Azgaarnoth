@@ -288,6 +288,13 @@ weapons = {
     },
 }
 
+languages = {
+    'Common': ['Common', 'Dwarvish', 'Elvish', 'Gnomish', 'Goblin', 'Halfling', 'Orc'],
+    'Exotic': ['Abyssal', 'Celestial', 'Draconic', 'Deep Speech', 'Infernal', 
+               'Primordial','Aquan', 'Auran', 'Ignan', 'Terran',
+               'Sylvan', 'Undercommon' ]
+}
+
 armor = {
     'light': {
         'Padded armor' : 11, 
@@ -966,8 +973,9 @@ class NPC:
                 else:
                     ac += acnum
                     result.append(f'{actext} (+{acnum})')
-            ac += self.DEXbonus()
-            result.append(f'DEX ({self.DEXbonus():+g})')
+            if self.DEXbonus() != 0:
+                ac += self.DEXbonus()
+                result.append(f'DEX ({self.DEXbonus():+g})')
             return str(ac) + ' (' + ",".join(result) + ')'
         
         def getspeed():

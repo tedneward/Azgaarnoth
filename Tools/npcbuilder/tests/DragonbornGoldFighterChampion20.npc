@@ -1,13 +1,13 @@
-Gender,random,Ability Scores,Average,Race,Dragonborn,Gold,Fighter,Acrobatics,Perception,Dueling,Yes
+Gender,random,Ability Scores,NPC,STR,DEX,CON,INT,WIS,CHA,Race,Dragonborn,Gold,Fighter,Acrobatics,Perception,Blind,Yes
 Fighter,Yes
 Fighter,Champion,Yes
-Fighter,Ability,CON,DEX,Yes
+Fighter,Ability,CON,CON,Yes
 Fighter,Yes
-Fighter,Ability,CON,DEX,Yes
+Fighter,Feat,Lucky,Yes
 Fighter,Yes
 Fighter,Feat,Observant,Yes
 Fighter,Yes
-Fighter,Unarmed,Yes
+Fighter,Great Weapon,Yes
 Fighter,Yes
 Fighter,Feat,Savage Attacker,Yes
 Fighter,Yes

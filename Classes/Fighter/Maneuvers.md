@@ -30,7 +30,7 @@ When a creature you can see moves into the reach you have with the melee weapon 
 
 ```
 def brace(npc):
-    noc.traits.append("***Maneuver: Brace.*** When a creature you can see moves into the reach you have with the melee weapon you're wielding, you can use your reaction to expend one superiority die and make one attack against the creature, using that weapon. If the attack hits, add the superiority die to the weapon's damage roll.")
+    npc.traits.append("***Maneuver: Brace.*** When a creature you can see moves into the reach you have with the melee weapon you're wielding, you can use your reaction to expend one superiority die and make one attack against the creature, using that weapon. If the attack hits, add the superiority die to the weapon's damage roll.")
 ```
 
 ### Commander's Strike
@@ -78,7 +78,7 @@ You can expend one superiority die and use a bonus action on your turn to feint,
 
 ```
 def feintingattack(npc):
-    npc.traits.append("***Maneuver: Feinting Attack.*** You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature this turn. If that attack hits, add the superiority die to the attack's damage roll.")
+    npc.bonusactions.append("***Maneuver: Feinting Attack.*** You can expend one superiority die to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature this turn. If that attack hits, add the superiority die to the attack's damage roll.")
 ```
 
 ### Goading Attack
@@ -118,7 +118,7 @@ When you hit a creature with a weapon attack, you can expend one superiority die
 
 ```
 def menacingattack(npc):
-    npc.defer(lambda npc: npc.traits.append("***Maneuver: Menacing Attack.*** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw (DC {8 + npc.proficiencybonus() + (npc.STRbonus() if npc.STRbonus() > npc.DEXbonus() else npc.DEXbonus())}). On a failed save, it is frightened of you until the end of your next turn.") )
+    npc.defer(lambda npc: npc.traits.append(f"***Maneuver: Menacing Attack.*** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw (DC {8 + npc.proficiencybonus() + (npc.STRbonus() if npc.STRbonus() > npc.DEXbonus() else npc.DEXbonus())}). On a failed save, it is frightened of you until the end of your next turn.") )
 ```
 
 ### Parry
@@ -257,15 +257,20 @@ maneuvers = {
     'Tactical Assessment': tacticalassessment,
     'Trip Attack': tripattack
 }
-def choosemaneuver(npc):
+def choosemaneuver(npc, dice = None, dicetype = None):
     if getattr(npc, "fightingmaneuvers", None) == None:
         npc.fightingmaneuvers = []
-        npc.superioritydice = 4
-        npc.superioritydicetype = 'd8'
+        npc.superioritydice = 4 if dice == None else dice
+        npc.superioritydicetype = 'd8' if dicetype == None else dicetype
 
         npc.defer(lambda npc: npc.traits.append(f"***Superiority Dice (Recharges on short or long rest).*** You have {npc.superioritydice} {npc.superioritydicetype} superiority dice that can be used for your fighting maneuvers. You currently know the following maneuvers: " + ",".join(npc.fightingmaneuvers) + "."))
 
-    (manname, manfn) = choose("Choose a Fighting Maneuver: ", maneuvers)
+    avail = {}
+    for manname in maneuvers:
+        if manname not in npc.fightingmaneuvers:
+            avail[manname] = maneuvers[manname]
+
+    (manname, manfn) = choose("Choose a Fighting Maneuver: ", avail)
     npc.fightingmaneuvers.append(manname)
     manfn(npc)
 
