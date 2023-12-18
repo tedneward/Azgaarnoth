@@ -1,18 +1,18 @@
 Gender,random,Ability Scores,Average,Race,Dragonborn,Brown,Fighter,Acrobatics,Athletics,Unarmed,Yes
 Fighter,Yes
-Fighter,BattleMaster,Ambush,Disarming Attack,Feinting Attack,Yes
+Fighter,BattleMaster,Ambush,Disarming Attack,Feinting Attack,Ambush,Yes
 Fighter,Feat,Tavern Brawler,CON,Yes
 Fighter,Yes
 Fighter,Ability,CON,CON,Yes
 Fighter,Grappling Strike,Pushing Attack,Yes
 Fighter,Ability,CON,CON,Yes
 Fighter,Yes
-Fighter,Ambush,Trip Attack,Yes
+Fighter,random,random,Yes
 Fighter,Yes
 Fighter,Feat,Tough,Yes
 Fighter,Yes
 Fighter,Feat,Resilient,CON,Yes
-Fighter,Trip Attack,Silver Tongue,Yes
+Fighter,random,random,Yes
 Fighter,Feat,Durable,Yes
 Fighter,Yes
 Fighter,Yes
