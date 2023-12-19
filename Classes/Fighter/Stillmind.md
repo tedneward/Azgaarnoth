@@ -16,7 +16,7 @@ Your training distances you from the weave of magic. This has the following effe
 
 ```
 def level3(npc):
-    npc.defer(lambda npc: npc.traits.append("***Tranquil Soul.*** You can no longer be detected by magical spells of any kind, and you are invisible to all magical sensors; Creatures wanting to target you with any spell (including beneficial magic) must first succeed on a spellcasting ability check (DC {10 + (npc.levels() // 2) + 1}). On a failed check, the spell has no effect and is wasted.") )
+    npc.defer(lambda npc: npc.traits.append(f"***Tranquil Soul.*** You can no longer be detected by magical spells of any kind, and you are invisible to all magical sensors; Creatures wanting to target you with any spell (including beneficial magic) must first succeed on a spellcasting ability check (DC {10 + (npc.levels() // 2) + 1}). On a failed check, the spell has no effect and is wasted.") )
 ```
 
 ## Stillness Aura
@@ -26,7 +26,7 @@ You can project a strange aura that confounds magical abilities. As a bonus acti
 
 ```
 def level7(npc):
-    npc.defer(lambda npc: npc.bonusactions.append("***Stillness Aura.*** You activate an aura that confounds magical abilities, which is invisible and extends outwards to 30 feet from your location. Any creature which attempts to cast a spell whilst inside the aura must succeed on a spellcasting ability check (DC {10 + (npc.levels() // 2) + 1}). On a failed check, the spell has no effect and is wasted.") )
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Stillness Aura.*** You activate an aura that confounds magical abilities, which is invisible and extends outwards to 30 feet from your location. Any creature which attempts to cast a spell whilst inside the aura must succeed on a spellcasting ability check (DC {10 + (npc.levels() // 2) + 1}). On a failed check, the spell has no effect and is wasted.") )
 ```
 
 ## Reflection
@@ -52,9 +52,9 @@ def level15(npc):
 ## Limited Spell immunity
 *18th-level Stillmind feature*
 
-You cannot be affected by spells of 6th level or lower unless you wish to be. (This means all spells of 6th level or lower, even if cast with a higher level spell slot, such as a 7th level fireball).
+You cannot be affected by spells of 6th level or lower unless you wish to be. (This means all spells of 6th level or lower, even if cast with a higher level spell slot, such as a 7th level *fireball*).
 
 ```
 def level18(npc):
-    npc.traits.append("***Limited Spell Immunity.*** You cannot be affected by spells of 6th level or lower unless you wish to be. (This means all spells of 6th level or lower, even if cast with a higher level spell slot, such as a 7th level fireball).")
+    npc.traits.append("***Limited Spell Immunity.*** You cannot be affected by spells of 6th level or lower unless you wish to be. (This means all spells of 6th level or lower, even if cast with a higher level spell slot, such as a 7th level *fireball*).")
 ```
