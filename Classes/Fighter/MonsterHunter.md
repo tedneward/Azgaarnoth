@@ -16,7 +16,7 @@ You gain proficiency in two of the following skills of your choice: Arcana, Hist
 ```
 def level3(npc):
     chooseskill(npc, ['Arcana', 'History', 'Insight', 'Investigation', 'Nature', 'Perception'])
-    chooseskill(npc, tools['artisan'])
+    npc.proficiencies.append(choose("Choose a tool: ", tools['artisan']))
 ```
 
 ## Combat Superiority
@@ -43,10 +43,10 @@ You can expend superiority dice to gain a number of different benefits:
     npc.superioritydice = 4
 
     npc.defer(lambda npc: npc.traits.append(f"***Superiority Dice (Recharges on short or long rest).*** You have {npc.superioritydice} superiority dice, which are {npc.superioritydicetype}s.{' When you roll initiative and have no superiority dice remaining, you regain one superiority die.' if npc.levels('Fighter') >= 15 else ''} A superiority die is expended when you use it. You can expend superiority dice to exercise your Precision Attack, Sharpened Attack, Sharpened Senses, or Superior Willpower features."))
-    npc.traits.append("***Precision Attack.*** When you make a weapon attack against a creature, you can expend one superiority die to add it to the attack roll. You can use this ability before or after making the attack roll, but before any of the effects of the attack are applied. ")
-    npc.traits.append(f"***Sharpened Attack**. When you damage a creature with a weapon attack, you can expend {'one' if npc.levels('Fighter') < 7 else 'up to two'} superiority {'die' if npc.levels('Fighter') < 7 else 'dice'} to add it to the damage roll. You can use this ability after rolling damage. {'If the target of your attack is an aberration, a fey, a fiend, or an undead, you deal maximum damage with both dice, instead of rolling them. ' if npc.levels('Fighter') >= 7 else ''}If the attack causes the target to make a Constitution saving throw to maintain concentration, it has disadvantage on that save.")
-    npc.traits.append("***Sharpened Senses**. When you make a Wisdom (Perception) check to detect a hidden creature or object, or a Wisdom (Insight) check to determine if someone is lying to you, you can expend one superiority die to add it to the roll. You can use this feature after seeing the total but before learning if you succeeded or failed.")
-    npc.traits.append("***Superior Willpower**. When you make an Intelligence, a Wisdom, or a Charisma saving throw, you can expend one superiority die to add it to the roll. You can use this feature only before you learn if the save succeeded or failed.")
+    npc.traits.append("***Superiority Dice: Precision Attack.*** When you make a weapon attack against a creature, you can expend one superiority die to add it to the attack roll. You can use this ability before or after making the attack roll, but before any of the effects of the attack are applied. ")
+    npc.traits.append(f"***Superiority Dice: Sharpened Attack.*** When you damage a creature with a weapon attack, you can expend {'one' if npc.levels('Fighter') < 7 else 'up to two'} superiority {'die' if npc.levels('Fighter') < 7 else 'dice'} to add it to the damage roll. You can use this ability after rolling damage. {'If the target of your attack is an aberration, a fey, a fiend, or an undead, you deal maximum damage with both dice, instead of rolling them. ' if npc.levels('Fighter') >= 7 else ''}If the attack causes the target to make a Constitution saving throw to maintain concentration, it has disadvantage on that save.")
+    npc.traits.append("***Superiority Dice: Sharpened Senses.***.* When you make a Wisdom (Perception) check to detect a hidden creature or object, or a Wisdom (Insight) check to determine if someone is lying to you, you can expend one superiority die to add it to the roll. You can use this feature after seeing the total but before learning if you succeeded or failed.")
+    npc.traits.append("***Superiority Dice: Superior Willpower.*** When you make an Intelligence, a Wisdom, or a Charisma saving throw, you can expend one superiority die to add it to the roll. You can use this feature only before you learn if the save succeeded or failed.")
 ```
 
 ## Hunter's Mysticism
@@ -81,7 +81,7 @@ At 10th level, your superiority dice turn into d10s. At 18th level, they turn in
 
 ```
 def level10(npc):
-        npc.superioritydicetype = 'd10'
+    npc.superioritydicetype = 'd10'
 ```
 
 ## Relentless
@@ -94,5 +94,5 @@ def level15(npc):
     npc.superioritydice += 1
 
 def level18(npc):
-        npc.superioritydicetype = 'd12'
+    npc.superioritydicetype = 'd12'
 ```
