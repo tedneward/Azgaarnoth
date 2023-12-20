@@ -67,3 +67,13 @@ def level14(npc):
     npc.description.append("***Unbreakable Majesty.*** Your appearance permanently gains an otherworldly aspect that makes you look more lovely and fierce.")
     npc.defer(lambda npc: npc.bonusactions.append("***Unbreakable Majesty.*** You assume a magically majestic presence for 1 minute or until you are incapacitated. For the duration, whenever any creature tries to attack you for the first time on a turn, the attacker must make a Charisma saving throw (DC {8 + npc.proficiencybonus() + npc.CHAbonus()}). On a failed save, it can't attack you on this turn, and it must choose a new target for its attack or the attack is wasted. On a successful save, it can attack you on this turn, but it has disadvantage on any saving throw it makes against your spells on your next turn.") )
 ```
+
+---
+
+# Custom Bard Spells
+The College of Glamour has developed many custom spells solely for its own use.
+
+* 1st: [glow mark](), [luminous trail](), [persistent sparkle]()
+* 4th: [thunder stomp]()
+* 8th: [cacophony of thunder]()
+* 9th: [calm the skies](), [winterland]()

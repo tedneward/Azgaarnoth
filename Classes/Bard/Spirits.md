@@ -79,3 +79,10 @@ def level6(npc):
 *14th-level College of Spirits feature*
 
 Your connection to spirits has become semipermanent. Whenever you use your Tales from Beyond feature, you can roll a d6 and use it instead of expending a Bardic Inspiration die. You still use your Bardic Inspiration die for the tale's effect, without expending it.
+
+---
+
+# Custom Bard Spells
+
+* 3rd: [song of mercy]()
+* 4th: [song of light and shadow]()

@@ -49,3 +49,13 @@ You have mastered the art of weaving spellcasting and weapon use into a single h
 def level14(npc):
     npc.bonusactions.append("***Battle Magic.*** When you use your action to cast a bard spell, you make one weapon attack.")
 ```
+
+---
+
+# Custom Bard Spells
+The College of Valor has developed many spells for its bards to use.
+
+* 1st: [vertigo palm]()
+* 3rd: [deafening boom](), [song of mercy](), [thundering field]()
+* 5th: [day sphere]()
+* 7th: [far song]()

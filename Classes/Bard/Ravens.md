@@ -49,3 +49,12 @@ def level14(npc):
 
     npc.traits.append("***Umbral Subterfuge: Shadow Death.*** When you would die, instead your soul travels to your Shadow Friend, and you reform from inside your companion at the next dusk. Your original body remains at the scene (where relevant) and you generate a new one without any of your possessions. If your shadow friend is not available, then you may not use the ability, and if your Shadow Friend is killed whilst harbouring your soul, then you die as normal. Whilst inhabiting your shadow friend, you can see and hear everything going on around you, and you can telepathically direct your shadow friend.")
 ```
+
+---
+
+# Custom Bard Spells
+The College of Ravens has developed many spells for use by their bards.
+
+* 3rd: [reckless boost]()
+* 5th: [stairs of force]()
+* 6th: [bridge of force]()

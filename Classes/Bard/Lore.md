@@ -51,3 +51,9 @@ When you make an ability check, you can expend one use of Bardic Inspiration. Ro
 def level14(npc):
     npc.traits.append("***Peerless Skill.*** When you make an ability check, expend one use of Bardic Inspiration; roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roll the die for the ability check, but before the DM tells you whether you succeed or fail.")
 ```
+
+---
+
+# Custom Bard Spells
+
+* 3rd: [appraiser's light]()
