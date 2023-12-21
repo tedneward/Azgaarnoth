@@ -1,7 +1,7 @@
-# Mephit
+# Mephits
 Mephits are capricious, imp-like creatures native to the elemental planes. They come in six varieties, each one representing the mixture of two elements. Most mephits are the conjunction of two elemental essences and a longtime identity that chooses to continue its existence in a more corporeal form.
 
-> Jump to: [Dust](#dust) | [Ice](#ice) | [Magma](#magma) | [Mud](#mud) | [Smoke](#smoke) | [Steam](#steam)
+> Jump to: [Dust](Mephits.md#dust) | [Ice](Mephits.md#ice) | [Magma](Mephits.md#magma) | [Mud](Mephits.md#mud) | [Smoke](Mephits.md#smoke) | [Steam](Mephits.md#steam)
 
 Ageless tricksters, mephits gather in large numbers on the Elemental Planes and in the Elemental Chaos. They also find their way to the Material Plane, where they prefer to dwell in places where their base elements are abundant. For example, a magma mephit is composed of earth and fire, and it favors volcanic lairs, while an ice mephit, which is composed of air and water, favors frigid locales.
 
@@ -32,7 +32,7 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 >- **Skills** Perception +2, Stealth +4
 >- **Senses** darkvision 60 ft., passive Perception 12
 >- **Languages** Auran, Terran
->- **Challenge** 1/2 (100 XP)
+>- **Challenge** 1/2
 >___
 >***Feature.***   
 >***Death Burst.*** When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.
@@ -69,7 +69,7 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 >- **Skills** Perception +2, Stealth +3
 >- **Senses** darkvision 60 ft., passive Perception 12
 >- **Languages** Aquan, Auran
->- **Challenge** 1/2 (100 XP)
+>- **Challenge** 1/2
 >___
 >***Death Burst.*** When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one.
 >
@@ -107,9 +107,8 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 >- **Skills** Stealth +3
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Ignan, Terran
->- **Challenge** 1/2 (100 XP)
+>- **Challenge** 1/2 
 >___
->***Feature.***
 >***Death Burst.*** When the mephit dies, it explodes in a burst of lava. Each creature within 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
 >
 >***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma.
@@ -145,7 +144,7 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 >- **Skills** Stealth +3
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Aquan, Terran
->- **Challenge** 1/4 (50 XP)
+>- **Challenge** 1/4
 >___
 >***Death Burst.*** When the mephit dies, it explodes in a burst of sticky mud. Each Medium or smaller creature within 5 feet of it must succeed on a DC 11 Dexterity saving throw or be restrained until the end of the creature's next turn.
 >
@@ -180,7 +179,7 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 >- **Skills** Perception +2, Stealth +4
 >- **Senses** darkvision 60 ft., passive Perception 12
 >- **Languages** Auran, Ignan
->- **Challenge** 1/4 (50 XP)
+>- **Challenge** 1/4
 >___
 >***Death Burst.*** When the mephit dies, it leaves behind a cloud of smoke that fills a 5-foot-radius sphere centered on its space. The sphere is heavily obscured. Wind disperses the cloud, which otherwise lasts for 1 minute.
 >
@@ -214,7 +213,7 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 >- **Condition Immunities** poisoned
 >- **Senses** darkvision 60 ft., passive Perception 10
 >- **Languages** Aquan, Ignan
->- **Challenge** 1/4 (50 XP)
+>- **Challenge** 1/4
 >___
 >***Death Burst.*** When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) fire damage.
 >
