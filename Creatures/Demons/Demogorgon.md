@@ -11,7 +11,7 @@ Demogorgon's followers are typically lone killers driven by the whispering voice
 ***Two Minds of Chaos.*** This creature has advantage on all Intelligence, Wisdom, and Charisma saving throws.
 
 >### Demogorgon
->*Huge Fiend (Demon Lord), Chaotic Evil*
+>*Huge fiend (Demon Lord), Chaotic Evil*
 >___
 >- **Armor Class** 22 (natural armor)
 >- **Hit Points** 464 (32d12 + 256)

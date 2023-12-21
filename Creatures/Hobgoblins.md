@@ -380,7 +380,7 @@ Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban
 ![](Hobgoblins-Devastator-Token.png)
 
 >### Devastator
->*Medium Fey (Goblinoid), typically Lawful Neutral*
+>*Medium fey (Goblinoid), typically Lawful Neutral*
 >___
 >- **Armor Class** 13 (studded leather)
 >- **Hit Points** 45 (7d8 + 14)
@@ -442,7 +442,7 @@ Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban
 ![](Hobgoblins-IronShadow-Token.png)
 
 >### Iron Shadow
->*Medium Fey (Goblinoid), typically Lawful Neutral*
+>*Medium fey (Goblinoid), typically Lawful Neutral*
 >___
 >- **Armor Class** 17 (Unarmored Defense (14), DES (+3))
 >- **Hit Points** 32 (5d8 + 10)

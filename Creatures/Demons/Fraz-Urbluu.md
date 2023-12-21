@@ -13,7 +13,7 @@ Fraz-Urb'luu grants his cultists the Liar's Eye trait.
 Many of the cultists of Fraz-Urb'luu aren't even aware they serve the Prince of Deception, believing their master is a beneficent being and granter of wishes, some lost god or Celestial, or even another Fiend. Fraz-Urb'luu wears all these masks and more. He particularly delights in aiding demon-hunters against his demonic adversaries, driving the hunters to greater and greater atrocities in the name of their cause, only to eventually reveal his true nature and claim their souls as his own.
 
 >### Fraz-Urb'luu
->*Large Fiend (Demon Lord), Chaotic Evil*
+>*Large fiend (Demon Lord), Chaotic Evil*
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 337 (27d10 + 189)

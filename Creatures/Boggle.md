@@ -14,7 +14,7 @@ Forest, Hill, Underdark, Urban
 ![](Boggle-Token.png)
 
 >### Boggle
->*Small Fey, Typically Chaotic Neutral*
+>*Small fey, Typically Chaotic Neutral*
 >___
 >- **Armor Class** 14
 >- **Hit Points** 18 (4d6 + 4)

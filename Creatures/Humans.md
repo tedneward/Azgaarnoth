@@ -23,7 +23,7 @@ Although some humans can be xenophobic, in general their societies are inclusive
 ***Human Names and Ethnicities.*** Having so much more variety than other cultures, humans as a whole have no typical names. Some human parents give their children names from other languages, such as Dwarvish or Elvish (pronounced more or less correctly), but most parents give names that are linked to their region’s culture or to the naming traditions of their ancestors.
 
 >### Human
->*Medium Humanoid (Any Race), Any Alignment*
+>*Medium humanoid  (Any Race), Any Alignment*
 >___
 >- **Armor Class** 10 (natural armor)
 >- **Hit Points** 5 (1d8)
@@ -61,7 +61,7 @@ Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Ruins, Swamp, Underd
 ![](Humans-Veteran.png)
 
 >### Human
->*Medium Humanoid (Any Race), Any Alignment*
+>*Medium humanoid  (Any Race), Any Alignment*
 >___
 >- **Armor Class** 16 (chain shirt (14), DEX (+2))
 >- **Hit Points** 68 (8d8 + 24)
@@ -112,7 +112,7 @@ In most parts of the world, though, half-elves are uncommon enough that one migh
 Half-elves use either human or elven naming conventions. As if to emphasize that they don’t really fit in to either society, half-elves raised among humans are often given elven names, and those raised among elves often take human names.
 
 >### Half-Elf
->*Medium Humanoid (Any Race), Any Alignment*
+>*Medium humanoid  (Any Race), Any Alignment*
 >___
 >- **Armor Class** 10 (natural armor)
 >- **Hit Points** 5 (1d8)
@@ -150,7 +150,7 @@ Forest, Grassland, Hill, Swamp
 ![](Druid-Token.png)
 
 >### Half-Elf Druid
->*Medium Humanoid (human, elf), chaotic neutral*
+>*Medium humanoid  (human, elf), chaotic neutral*
 >___
 >- **Armor Class** 11 (16 with barkskin)
 >- **Hit Points** 27 (5d8 + 5)
@@ -201,7 +201,7 @@ Beyond the rage of Gruumsh, half-orcs feel emotion powerfully. Rage doesn’t ju
 Half-orcs usually have names appropriate to the culture in which they were raised. A half-orc who wants to fit in among humans might trade an orc name for a human name. Some half-orcs with human names decide to adopt a guttural orc name because they think it makes them more intimidating.
 
 >### Half-Orc
->*Medium Humanoid (Any Race), Any Alignment*
+>*Medium humanoid  (Any Race), Any Alignment*
 >___
 >- **Armor Class** 10 (natural armor)
 >- **Hit Points** 5 (1d8)

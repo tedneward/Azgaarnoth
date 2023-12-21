@@ -15,7 +15,7 @@ Yeenoghu grants special abilities to his cultists. His most devoted followers ga
 >***Aura of Bloodthirst.*** If this creature isn't incapacitated, any creature that has Rampage can make its Gnashing Jaws attack as a bonus action while within 10 feet of this creature.
 
 >### Yeenoghu
->*Huge Fiend (Demon), Chaotic Evil*
+>*Huge fiend (Demon), Chaotic Evil*
 >___
 >- **Armor Class** 20 (natural armor)
 >- **Hit Points** 333 (23d12 + 184)

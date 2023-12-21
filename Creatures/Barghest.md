@@ -11,7 +11,7 @@ A barghest avoids contact with large, open fires. Any conflagration larger than 
 ![](Barghest-Token.png)
 
 >### Barghest
->*Large Fiend, Typically Neutral Evil*
+>*Large fiend, Typically Neutral Evil*
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 60 (8d10 + 16)

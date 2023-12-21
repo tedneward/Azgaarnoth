@@ -56,7 +56,7 @@ Underwater
 ![](DolphinDelighter-Token.png)
 
 >### Dolphin Delighter
->*Medium Fey, Typically Chaotic Good*
+>*Medium fey, Typically Chaotic Good*
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 27 (5d8 + 5)

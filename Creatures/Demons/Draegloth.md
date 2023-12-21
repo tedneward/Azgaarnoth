@@ -8,7 +8,7 @@ Among the drow noble houses of Menzoberranzan in the Forgotten Realms, a high pr
 Although draegloths plays an important part in the plans of Lolth's cult, a draegloth can't rise above the status of a favored servant to a priest in that cult. Before a draegloth is given any duties, it receives instruction in accepting the role set for it and not challenging authority. Most draegloths fiercely resent being given orders, but thanks to their training, they typically take out their frustration on their creator's enemies, rather than on their creator. A draegloth that can't suppress its ambitions might abandon its creator and strike out on its own. Whether these rebellious draegloths are part of Lolth's plan for sowing chaos is unclear.
 
 >### Draegloth
->*Large Fiend (Demon), Typically Chaotic Evil*
+>*Large fiend (Demon), Typically Chaotic Evil*
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 123 (13d10 + 52)

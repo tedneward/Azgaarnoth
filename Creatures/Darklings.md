@@ -19,7 +19,7 @@ Forest, Swamp, Underdark, Urban
 ![](Darkling-Token.png)
 
 >### Darkling
->*Small Fey, Typically Chaotic Neutral*
+>*Small fey, Typically Chaotic Neutral*
 >___
 >- **Armor Class** 14 (leather armor)
 >- **Hit Points** 13 (3d6 + 3)
@@ -63,7 +63,7 @@ Forest, Swamp, Underdark, Urban
 ![](DarklingElder-Token.png)
 
 >### Darkling Elder
->*Medium Fey, Typically Chaotic Neutral*
+>*Medium fey, Typically Chaotic Neutral*
 >___
 >- **Armor Class** 15 (studded leather armor)
 >- **Hit Points** 27 (5d8 + 5)

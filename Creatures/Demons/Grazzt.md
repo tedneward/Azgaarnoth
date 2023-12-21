@@ -15,7 +15,7 @@ Graz'zt grants his cultists special abilities. His cultists can gain the Joy fro
 ***Master of Pleasures.*** As a reaction when this creature takes damage, it can magically grant 5 temporary hit points to itself and up to three allies within 30 feet of it.
 
 >### Graz'zt
->*Large Fiend (Demon Lord), Chaotic Evil*
+>*Large fiend (Demon Lord), Chaotic Evil*
 >___
 >- **Armor Class** 20 (natural armor)
 >- **Hit Points** 346 (33d10 + 165)

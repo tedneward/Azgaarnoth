@@ -4,7 +4,7 @@ A shoosuva is a hyena-demon gifted by Yeenoghu (appears in this book) to an espe
 Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongside its master. A gnoll that has been gifted with a shoosuva is second only to a flind (appears in this book) in status within a war band dedicated to Yeenoghu.
 
 >### Shoosuva
->*Large Fiend (Demon), Typically Chaotic Evil*
+>*Large fiend (Demon), Typically Chaotic Evil*
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 136 (16d10 + 48)

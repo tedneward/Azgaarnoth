@@ -11,7 +11,7 @@ Zuggtmoy's cultists are primarily mindless victims of her children's strange spo
 > ***Spore Kissed.*** This creature is immune to the charmed and frightened conditions. In addition, if it is reduced to 0 hit points, each creature within 10 feet of it takes poison damage equal to its number of Hit Dice.
 
 >### Zuggtmoy
->*Large Fiend (Demon), Chaotic Evil*
+>*Large fiend (Demon), Chaotic Evil*
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 304 (32d10 + 128)

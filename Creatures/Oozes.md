@@ -433,7 +433,7 @@ Extraplanar, Conjured/Summoned
 ![](Oozes-SlitheringTracker-Token.png)
 
 >### Slithering Tracker
->*Medium Ooze, Typically Chaotic Evil*
+>*Medium ooze, Typically Chaotic Evil*
 >___
 >- **Armor Class** 14
 >- **Hit Points** 39 (6d8 + 12)

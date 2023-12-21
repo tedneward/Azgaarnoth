@@ -24,7 +24,7 @@ d8	Accoutrement
 8	Glaive adorned with a length of cloth bearing the words "I choose violence"
 
 >### Blackguard
->*Medium Humanoid (Paladin), Typically Neutral Evil*
+>*Medium humanoid  (Paladin), Typically Neutral Evil*
 >___
 >- **Armor Class** 18 (plate)
 >- **Hit Points** 119 (14d8 + 56)

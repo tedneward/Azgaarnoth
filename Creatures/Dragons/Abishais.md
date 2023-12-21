@@ -14,7 +14,7 @@ Expert assassins and infiltrators, black abishais can weave shadows to mask thei
 ![](Abishais-Black.png)
 
 >### Black Abishai
->*Medium Fiend (Devil), Typically Lawful Evil*
+>*Medium fiend (Devil), Typically Lawful Evil*
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 58 (9d8 + 18)
@@ -61,7 +61,7 @@ Seekers of forgotten lore and lost relics, blue abishais are the most cunning an
 ![](Abishais-Blue.png)
 
 >### Blue Abishai
->*Medium Fiend (Devil, Wizard), Typically Lawful Evil*
+>*Medium fiend (Devil, Wizard), Typically Lawful Evil*
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 202 (27d8 + 81)
@@ -112,7 +112,7 @@ Green abishais are adept at discovering secrets and other sensitive information,
 ![](Abishais-Green.png)
 
 >### Green Abishai
->*Medium Fiend (Devil), Typically Lawful Evil*
+>*Medium fiend (Devil), Typically Lawful Evil*
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 195 (26d8 + 78)
@@ -160,7 +160,7 @@ Red abishais have no equals among the abishais when it comes to leadership abili
 ![](Abishais-Red.png)
 
 >### Red Abishai
->*Medium Fiend (Devil), Typically Lawful Evil*
+>*Medium fiend (Devil), Typically Lawful Evil*
 >___
 >- **Armor Class** 22 (natural armor)
 >- **Hit Points** 289 (34d8 + 136)
@@ -208,7 +208,7 @@ White abishais fight with a reckless fury, making them ideally suited for bolste
 ![](Abishais-White.png)
 
 >### White Abishai
->*Medium Fiend (Devil), Typically Lawful Evil*
+>*Medium fiend (Devil), Typically Lawful Evil*
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 68 (8d8 + 32)

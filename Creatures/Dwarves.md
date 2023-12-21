@@ -61,7 +61,7 @@ Hill, Mountain, Urban, Underdark
 ### Token
 
 >### Hill Dwarf
->*Medium Humanoid (Dwarf), Any Lawful Alignment*
+>*Medium humanoid  (Dwarf), Any Lawful Alignment*
 >___
 >- **Armor Class** 10
 >- **Hit Points** 5 (1d8 + 1)
@@ -98,7 +98,7 @@ Coastal, Forest, Grassland, Hill, Mountain, Urban, Underdark
 ### Token
 
 >### Hill Dwarf Merchant Guild Master
->*Medium Humanoid (Dwarf), Any Lawful Alignment*
+>*Medium humanoid  (Dwarf), Any Lawful Alignment*
 >___
 >- **Armor Class** 10
 >- **Hit Points** 5 (1d8 + 1)
@@ -139,7 +139,7 @@ Hill, Mountain, Urban, Underdark
 ### Token
 
 >### Mountain Dwarf
->*Medium Humanoid (Dwarf), Any Lawful Alignment*
+>*Medium humanoid  (Dwarf), Any Lawful Alignment*
 >___
 >- **Armor Class** 10
 >- **Hit Points** 5 (1d8 + 1)
@@ -178,7 +178,7 @@ Underdark, Urban
 ### Token
 
 >### Mountain Dwarf Clan Lord-in-Exile
->*Medium Humanoid (Dwarf), Any Lawful Alignment*
+>*Medium humanoid  (Dwarf), Any Lawful Alignment*
 >___
 >- **Armor Class** 18 (plate armor)
 >- **Hit Points** 100 (10d10 + 26)

@@ -9,7 +9,7 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
 
 
 >### Nupperibo
->*Medium Fiend (Devil), Typically Lawful Evil*
+>*Medium fiend (Devil), Typically Lawful Evil*
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 11 (2d8 + 2)

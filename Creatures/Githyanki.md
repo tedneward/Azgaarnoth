@@ -125,7 +125,7 @@ Gish blend their magical abilities with swordplay to become dangerous foes in ba
 ![](GithyankiGish-Token.png)
 
 >### Githyanki Gish
->*Medium Humanoid (Gith, Wizard), Any Alignment*
+>*Medium humanoid  (Gith, Wizard), Any Alignment*
 >___
 >- **Armor Class** 17 (half plate)
 >- **Hit Points** 130 (20d8 + 40)
@@ -178,7 +178,7 @@ Militarized githyanki cultures assign ranks and responsibilities to citizens. Gr
 ![](GithyankiKith'rak-Token.png)
 
 >### Githyanki Kith'rak
->*Medium Humanoid (Gith), Any Alignment*
+>*Medium humanoid  (Gith), Any Alignment*
 >___
 >- **Armor Class** 18 (plate)
 >- **Hit Points** 180 (24d8 + 72)
@@ -234,7 +234,7 @@ Generals lead armies, each one commanding ten kith'raks, who in turn lead the re
 ![](GithyankiGeneral-Token.png)
 
 >### Githyanki General
->*Medium Humanoid (Gith), Any Alignment*
+>*Medium humanoid  (Gith), Any Alignment*
 >___
 >- **Armor Class** 18 (plate)
 >- **Hit Points** 187 (22d8 + 88)

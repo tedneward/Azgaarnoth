@@ -14,7 +14,7 @@ Forest, Ruins, Underdark, Conjured/Summoned
 ![](Meenlock-Token.png)
 
 >### Meenlock
->*Small Fey, Typically Neutral Evil*
+>*Small fey, Typically Neutral Evil*
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 31 (7d6 + 7)

@@ -16,7 +16,7 @@ Mountain
 ### Token
 
 >### Winged Elf
->*Medium Humanoid (Elf), Any Chaotic Alignment*
+>*Medium humanoid  (Elf), Any Chaotic Alignment*
 >___
 >- **Armor Class** 11
 >- **Hit Points** 4 (1d8)

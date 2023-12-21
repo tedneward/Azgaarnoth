@@ -11,7 +11,7 @@ Vargouilles that roam free on the Material Plane are a dire threat to all creatu
 Extraplanar, Conjured/Summoned
 
 >### Vargouille
->*Tiny Fiend, Typically Chaotic Evil*
+>*Tiny fiend, Typically Chaotic Evil*
 >___
 >- **Armor Class** 12
 >- **Hit Points** 18 (4d4 + 8)

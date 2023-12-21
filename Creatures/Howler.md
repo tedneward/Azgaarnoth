@@ -6,7 +6,7 @@ These nightmare creatures are native to Pandemonium, but they can be found on mo
 Howlers rely on speed, numbers, and their mind-numbing howling to corner prey before they tear it apart. Their howls flood the minds of their victims, making complex thought impossible. Listeners can do little more than stare in horror and stumble around the battlefield in a search for safety. Fiends especially prize howlers for this reason, because for a few crucial moments in a battle, their howls can neutralize an enemy.
 
 >### Howler
->*Large Fiend, Typically Chaotic Evil*
+>*Large fiend, Typically Chaotic Evil*
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 90 (12d10 + 24)

@@ -5,7 +5,7 @@ Creatures bitten by rutterkins are exposed to a terrible disease that infects th
 
 
 >### Rutterkin
->*Medium Fiend (Demon), Typically Chaotic Evil*
+>*Medium fiend (Demon), Typically Chaotic Evil*
 >___
 >- **Armor Class** 12
 >- **Hit Points** 37 (5d8 + 15)

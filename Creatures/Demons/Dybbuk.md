@@ -4,7 +4,7 @@ Dybbuks are demons that terrorize mortals on the Material Plane by possessing co
 In their natural form, dybbuks appear as translucent flying jellyfish, trailing long tentacles as they move through the air. They rarely travel in this fashion, however. Instead, a dybbuk possesses a suitable corpse as a vehicle, rousing the body from death. Dybbuks delight in terrorizing other creatures by making their host bodies behave in horrifying ways--throwing up gouts of blood, excreting piles of squirming maggots, and contorting their limbs in impossible ways as they scuttle across the ground.
 
 >### Dybbuk
->*Medium Fiend (Demon), Typically Chaotic Evil*
+>*Medium fiend (Demon), Typically Chaotic Evil*
 >___
 >- **Armor Class** 14
 >- **Hit Points** 37 (5d8 + 15)

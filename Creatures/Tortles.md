@@ -19,7 +19,7 @@ Coastal, Forest, Hill, Mountain, Underdark, Urban
 
 
 >### Tortle
->*Medium Humanoid, Any Alignment*
+>*Medium humanoid , Any Alignment*
 >___
 >- **Armor Class** 17 (natural)
 >- **Hit Points** 22 (4d8 + 4)
@@ -65,7 +65,7 @@ Coastal, Forest, Grassland, Hill, Mountain, Underwater, Underdark, Urban
 
 
 >### Tortle Druid
->*Medium Humanoid, Any Alignment*
+>*Medium humanoid , Any Alignment*
 >___
 >- **Armor Class** 17 (natural)
 >- **Hit Points** 33 (6d8 + 6)

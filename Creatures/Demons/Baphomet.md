@@ -19,7 +19,7 @@ Baphomet grants his cultists special abilities. All his devotees gain the Labyri
 ***Incite the Hunters (Recharges after a Short or Long Rest).*** As an action, this creature allows each ally within 30 feet of it that has the Unerring Tracker trait to make one weapon attack as a reaction against the target of that ally's Unerring Tracker.
 
 >### Baphomet
->*Huge Fiend (Demon Lord), Chaotic Evil*
+>*Huge fiend (Demon Lord), Chaotic Evil*
 >___
 >- **Armor Class** 22 (natural armor)
 >- **Hit Points** 319 (22d12 + 176)

@@ -4,7 +4,7 @@ Demons and devils clash endlessly for control of the Lower Planes. One of these 
 A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It has leathery skin pulled tight over its gaunt frame and a curved horn protruding from the back of its elongated skull. A babau's baleful glare can weaken a creature, and its talons gleam with acidic slime.
 
 >### Babau
->*Medium Fiend (Demon), Typically Chaotic Evil*
+>*Medium fiend (Demon), Typically Chaotic Evil*
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 82 (11d8 + 33)

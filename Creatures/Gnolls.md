@@ -187,7 +187,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 ![](Flind-Token.png)
 
 >### Flind
->*Medium Fiend (Gnoll), Typically Chaotic Evil*
+>*Medium fiend (Gnoll), Typically Chaotic Evil*
 >___
 >- **Armor Class** 16 (breastplate)
 >- **Hit Points** 127 (15d8 + 60)

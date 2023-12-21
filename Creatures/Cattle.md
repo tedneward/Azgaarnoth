@@ -175,7 +175,7 @@ Stench kows are misshapen bison native to the Lower Planes. These orange and gre
 ![](StenchKow-Token.png)
 
 >### Stench Kow
->*Large Fiend (Cattle), Unaligned*
+>*Large fiend (Cattle), Unaligned*
 >___
 >- **Armor Class** 10
 >- **Hit Points** 15 (2d10 + 4)

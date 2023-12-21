@@ -79,7 +79,7 @@ Underdark
 ![](Duergar-Token.png)
 
 >### Duergar Despot
->*Medium Humanoid (Dwarf), Any Alignment*
+>*Medium humanoid  (Dwarf), Any Alignment*
 >___
 >- **Armor Class** 21 (natural armor)
 >- **Hit Points** 119 (14d8 + 56)
@@ -136,7 +136,7 @@ Underdark
 ![](Duergar-Token.png)
 
 >### Duergar Kavalrachni
->*Medium Humanoid (Dwarf), Any Alignment*
+>*Medium humanoid  (Dwarf), Any Alignment*
 >___
 >- **Armor Class** 16 (scale mail, shield)
 >- **Hit Points** 26 (4d8 + 8)
@@ -187,7 +187,7 @@ Underdark
 ![](Duergar-Token.png)
 
 >### Duergar Mind Master
->*Medium Humanoid (Dwarf), Any Alignment*
+>*Medium humanoid  (Dwarf), Any Alignment*
 >___
 >- **Armor Class** 14 (leather armor)
 >- **Hit Points** 39 (6d8 + 12)
@@ -237,7 +237,7 @@ Underdark
 ![](Duergar-Token.png)
 
 >### Duergar Soulblade
->*Medium Humanoid (Dwarf), Any Alignment*
+>*Medium humanoid  (Dwarf), Any Alignment*
 >___
 >- **Armor Class** 14 (leather armor)
 >- **Hit Points** 27 (6d8)
@@ -285,7 +285,7 @@ Underdark
 ![](Duergar-Token.png)
 
 >### Duergar Stone Guard
->*Medium Humanoid (Dwarf), Any Alignment*
+>*Medium humanoid  (Dwarf), Any Alignment*
 >___
 >- **Armor Class** 18 (chain mail, shield)
 >- **Hit Points** 39 (6d8 + 12)
@@ -339,7 +339,7 @@ Underdark
 ![](Duergar-Token.png)
 
 >### Duergar Warlord
->*Medium Humanoid (Dwarf), Any Alignment*
+>*Medium humanoid  (Dwarf), Any Alignment*
 >___
 >- **Armor Class** 20 (plate mail, shield)
 >- **Hit Points** 75 (10d8 + 30)
@@ -396,7 +396,7 @@ Underdark
 ![](Duergar-Token.png)
 
 >### Duergar Xarrorn
->*Medium Humanoid (Dwarf), Any Alignment*
+>*Medium humanoid  (Dwarf), Any Alignment*
 >___
 >- **Armor Class** 18 (plate mail)
 >- **Hit Points** 26 (4d8 + 8)

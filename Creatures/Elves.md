@@ -50,7 +50,7 @@ Wild elves typically don't bother with such ceremony, preferring to give a child
 Most elves prefer to avoid fighting and will flee in most cases, though they may respond to aggression with their shortbows.
 
 >### Bright Elf
->*Medium Humanoid (Elf), Any Chaotic Alignment*
+>*Medium humanoid  (Elf), Any Chaotic Alignment*
 >___
 >- **Armor Class** 11
 >- **Hit Points** 4 (1d8)
@@ -86,7 +86,7 @@ Most elves prefer to avoid fighting and will flee in most cases, though they may
 Most elves prefer to avoid fighting and will flee in most cases, though they may respond to aggression with their shortbows.
 
 >### High Elf
->*Medium Humanoid (Elf), Any Chaotic Alignment*
+>*Medium humanoid  (Elf), Any Chaotic Alignment*
 >___
 >- **Armor Class** 11
 >- **Hit Points** 4 (1d8)
@@ -124,7 +124,7 @@ Wood elves are those elves who live in tribes among the forests, typically in sm
 Wood elves’ skin tends to be copperish in hue, sometimes with traces of green. Their hair tends toward browns and blacks, but it is occasionally blond or copper-colored. Their eyes are green, brown, or hazel.
 
 >### Wood Elf
->*Medium Humanoid (Elf), Any Chaotic Alignment*
+>*Medium humanoid  (Elf), Any Chaotic Alignment*
 >___
 >- **Armor Class** 11
 >- **Hit Points** 4 (1d8)
@@ -162,7 +162,7 @@ Wood elves’ skin tends to be copperish in hue, sometimes with traces of green.
 The *grugach* are those elves who fled back into either barbarism or a closer connection to nature, depending on whom you ask. They have the deepest connection to nature of any of the elves (with possible exception of the eladrin, whose connection to the Feywild isn't always directly reflective of nature itself), and many wild elf tribes are found quite some distance away from civilization. It's not that they are too ignorant to understand civilization; it's that they don't trust it, and choose not to be a part of it.
 
 >### Wild Elf
->*Medium Humanoid (Elf), Any Chaotic Alignment*
+>*Medium humanoid  (Elf), Any Chaotic Alignment*
 >___
 >- **Armor Class** 11
 >- **Hit Points** 7 (2d8 + 2)
@@ -198,7 +198,7 @@ The *grugach* are those elves who fled back into either barbarism or a closer co
 The Tiri-Kitor are a band of wild elves living in the grasslands around [Brinwal](../Cities/Brinwal.md). They have a deep connection to nature, and their Hunters rove the wide grasslands and marshes, keeping an eye out for trouble. They are often accompanied by animal companions--favored creatures being giant owls or giant crocodiles.
 
 >### Tiri-Kitor Hunter
->*Medium Humanoid (Elf), Any Chaotic Alignment*
+>*Medium humanoid  (Elf), Any Chaotic Alignment*
 >___
 >- **Armor Class** 15 (leather armor (13), DEX bonus (+2))
 >- **Hit Points** 16 (3d8 + 3)

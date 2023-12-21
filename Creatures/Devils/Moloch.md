@@ -12,7 +12,7 @@ Rumors suggest that he can often be found in Sigil, where he bargains with yugol
 Most of Moloch's cultists have switched allegiance to one of the other archdevils, but idols constructed to honor him still stand in deep dungeons, their jeweled eyes and the remnants of power they hold drawing monstrous worshipers and unwise adventurers into places where his foul influence remains.
 
 >### Moloch
->*Large Fiend (Devil), Lawful Evil*
+>*Large fiend (Devil), Lawful Evil*
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 253 (22d10 + 132)

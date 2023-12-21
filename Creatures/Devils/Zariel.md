@@ -13,7 +13,7 @@ Zariel grants special abilities to her most loyal cultists. They can gain the Fe
 > ***Infernal Tactics.*** Immediately after rolling initiative, this creature can choose itself and up to three allies it can see if it isn't incapacitated. It can swap the initiative results of the chosen creatures among them.
 
 >### Zariel
->*Large Fiend (Devil), Lawful Evil*
+>*Large fiend (Devil), Lawful Evil*
 >___
 >- **Armor Class** 21 (natural armor)
 >- **Hit Points** 420 (29d10 + 261)

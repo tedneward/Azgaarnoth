@@ -9,7 +9,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 Warlocks of the Archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser Fey creatures such as boggles, quicklings, and redcaps or even satyrs and sprites.
 
 >### Warlock of the Archfey
->*Medium Humanoid, Any Alignment*
+>*Medium humanoid , Any Alignment*
 >___
 >- **Armor Class** 13 (16 with mage armor)
 >- **Hit Points** 67 (15d8)
@@ -52,7 +52,7 @@ Warlocks of the Archfey gain their powers through magical pacts forged with lord
 Warlocks of the Fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep imps or quasits as companions, and they tend toward philosophical extremes: consorting with fiendish cults or dedicating their lives to destroying such cults.
 
 >### Warlock of the Fiend
->*Medium Humanoid, Any Alignment*
+>*Medium humanoid , Any Alignment*
 >___
 >- **Armor Class** 13 (16 with mage armor)
 >- **Hit Points** 78 (12d8 + 24)
@@ -97,7 +97,7 @@ Warlocks of the Fiend gain their powers through magical pacts forged with archfi
 Warlocks of the Great Old One gain their powers through magical pacts forged with eldritch entities from strange and distant realms of existence. Some of these warlocks associate with cultists devoted to these entities, as well as Aberrations that share their goals, yet other warlocks of the Great Old One are experts at rooting out the chaos and wickedness inspired by bizarre beings from beyond the stars.
 
 >### Warlock of the Great Old One
->*Medium Humanoid, Any Alignment*
+>*Medium humanoid , Any Alignment*
 >___
 >- **Armor Class** 13 (16 with mage armor)
 >- **Hit Points** 91 (14d8 + 28)

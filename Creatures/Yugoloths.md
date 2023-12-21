@@ -92,7 +92,7 @@ With senses sharp enough to pinpoint the locations of nearby invisible creatures
 Canoloths confront intruders with swift and terrible force, projecting long, spiny tongues to grab their foes and drag them close. What happens next depends on the contract. Unless instructed to kill, a canoloth merely holds on to its prisoner, but if given the order to do so, it tears its prey limb from limb.
 
 >### Canoloth
->*Medium Fiend (Yugoloth), Typically Neutral Evil*
+>*Medium fiend (Yugoloth), Typically Neutral Evil*
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 120 (16d8 + 48)
@@ -136,7 +136,7 @@ A kind of yugoloth, dhergoloths rush into battle like whirlwinds of destruction,
 Since dhergoloths are little more than brutes, employers must use caution when instructing them. They can handle simple orders that don't take a lot of time to resolve. When given anything complex to do, however, they either forget what they're told or don't listen in the first place, and then bungle the task that was set for them.
 
 >### Dhergoloth
->*Medium Fiend (Yugoloth), Typically Neutral Evil*
+>*Medium fiend (Yugoloth), Typically Neutral Evil*
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 119 (14d8 +56)
@@ -182,7 +182,7 @@ Like the thought-stealing waters of the River Styx they inhabit, hydroloths filc
 For amphibious assaults or underwater conflicts, hydroloths have no equal among yugoloths. They sometimes hire themselves out to attack and scuttle ships and raid coastal settlements.
 
 >### Hydroloth
->*Medium Fiend (Yugoloth), Typically Neutral Evil*
+>*Medium fiend (Yugoloth), Typically Neutral Evil*
 >___
 >- **Armor Class** 15
 >- **Hit Points** 135 (18d8 + 54)
@@ -234,7 +234,7 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
 The grim captains of the ferries on the River Styx, merrenoloths can navigate safely through the worst storms and always stay on course. Wielding fiery oars, merrenoloths strike fear into anyone who forcefully boards their vessels.
 
 >### Merrenoloth
->*Medium Fiend (Yugoloth), Typically Neutral Evil*
+>*Medium fiend (Yugoloth), Typically Neutral Evil*
 >___
 >- **Armor Class** 13
 >- **Hit Points** 40 (9d8)
@@ -401,7 +401,7 @@ Grim specters of death, oinoloths bring pestilence wherever they go. When armies
 Oinoloths solve thorny problems by killing everyone involved. They are typically hired as a last resort when a siege has gone on too long or an army has proven too strong to overcome. Once summoned, oinoloths stalk the killing field, poisoning the ground and sickening creatures they encounter. Sometimes they might be hired to lift the very plagues they spread, but the price for such work is high, and the effort turns the creatures they save into debilitated wrecks.
 
 >### Oinoloth
->*Medium Fiend (Yugoloth), Typically Neutral Evil*
+>*Medium fiend (Yugoloth), Typically Neutral Evil*
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 119 (14d8 + 56)
@@ -512,7 +512,7 @@ Although they are entrusted with leading lesser yugoloths, yagnoloths ultimately
 A yagnoloth has one arm of human size and one giant-sized arm. During negotiations, the yagnoloth uses its human-sized arm to draft and sign contracts. When a show of force is necessary or when combat is joined, it attacks with its brutally powerful giant arm.
 
 >### Yagnoloth
->*Large Fiend (Yugoloth), Typically Neutral Evil*
+>*Large fiend (Yugoloth), Typically Neutral Evil*
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 147 (14d10 + 70)

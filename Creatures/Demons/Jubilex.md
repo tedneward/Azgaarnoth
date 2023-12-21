@@ -11,7 +11,7 @@ The Faceless Lord grants its cultists special abilities. Lesser followers can ga
 ***Slimy Organs.*** This creature has resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks. Whenever this creature suffers a critical hit or is reduced to 0 hit points, it sprays acid; each creature within 5 feet of it takes acid damage equal to its number of Hit Dice.
 
 >### Juiblex
->*Huge Fiend (Demon Lord), Chaotic Evil*
+>*Huge fiend (Demon Lord), Chaotic Evil*
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 350 (28d12 + 168)

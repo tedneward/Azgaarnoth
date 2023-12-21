@@ -15,7 +15,7 @@ Hill, Mountain, Underdark, Extraplanar
 ![](Korred-Token.png)
 
 >### Korred
->*Small Fey, Typically Chaotic Neutral*
+>*Small fey, Typically Chaotic Neutral*
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 93 (11d6 + 55)

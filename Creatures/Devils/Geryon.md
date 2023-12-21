@@ -13,7 +13,7 @@ Geryon grants his cultists special abilities. Members of his cult can gain the C
 ***Indomitable Strength (Recharge 5-6).*** As a reaction when this creature takes damage, it can roll a d10 and subtract the number rolled from the damage.
 
 >### Geryon
->*Huge Fiend (Devil Prince), Lawful Evil*
+>*Huge fiend (Devil Prince), Lawful Evil*
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 300 (24d12 + 144)
