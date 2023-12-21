@@ -16,7 +16,7 @@ Wraiths sometimes rule the legions of the dead, plotting the doom of living crea
 ***Undead Nature.*** A wraith doesn't require air, food, drink, or sleep.
 
 >### Wraith
->*Medium Undead, Neutral Evil*
+>*Medium undead, Neutral Evil*
 >___
 >- **Armor Class** 13
 >- **Hit Points** 67 (9d8 + 27)

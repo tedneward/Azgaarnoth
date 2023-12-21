@@ -14,7 +14,7 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 ![](EidolonSpirit-Token.png)
 
 >### Eidolon Spirit
->*Medium Undead, Any Alignment*
+>*Medium undead, Any Alignment*
 >___
 >- **Armor Class** 9
 >- **Hit Points** 63 (18d8 - 18)
@@ -40,7 +40,7 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 >
 >***Sacred Animation (Recharge 5-6).*** When the eidolon moves into a space occupied by a sacred statue, the eidolon can disappear, causing the statue to become a creature under the eidolon's control. The eidolon uses the sacred statue's stat block in place of its own.
 >
->***Turn Resistance.*** The eidolon has advantage on saving throws against any effect that turns Undead.
+>***Turn Resistance.*** The eidolon has advantage on saving throws against any effect that turns undead.
 >
 >***Unusual Nature.*** The eidolon doesn't require air, food, drink, or sleep.
 >

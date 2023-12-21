@@ -203,7 +203,7 @@ Swamp, Underdark
 ![](Frogs-Froghemoth-Token.png)
 
 >### Froghemoth
->*Huge Monstrosity, Unaligned*
+>*Huge monstrosity, Unaligned*
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 161 (14d12 + 70)

@@ -12,7 +12,7 @@ Extraplanar
 ![](Meazel-Token.png)
 
 >### Meazel
->*Medium Monstrosity, Typically Neutral Evil*
+>*Medium monstrosity, Typically Neutral Evil*
 >___
 >- **Armor Class** 13
 >- **Hit Points** 35 (10d8 - 10)

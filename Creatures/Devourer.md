@@ -6,7 +6,7 @@ A lesser demon that proves itself to Orcus might be granted the privilege of bec
 Devourers hunt Humanoids with the intent of consuming them body and soul. After a devourer brings a target to the brink of death, it pulls the victim's body in and traps the creature within its own ribcage. As the victim tries to stave off death (usually without success), the devourer tortures its soul with telepathic noise. When the victim expires, it undergoes a horrible transformation, springing forth from the devourer's body to begin its new existence as an Undead servitor of the monster that spawned it.
 
 >### Devourer
->*Large Undead, Typically Chaotic Evil*
+>*Large undead, Typically Chaotic Evil*
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 189 (18d10 + 90)

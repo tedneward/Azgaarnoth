@@ -973,7 +973,7 @@ def main(argv):
     parser.add_argument('--filteralignment', help='TODO: Filter the source set by alignment')
     parser.add_argument('--filtercr', help='TODO: Filter the source set by Challenge Rating')
     parser.add_argument('--filterenv', choices=['Arctic', 'Coastal', 'Desert', 'Forest', 'Grassland', 'Hill', 'Mountain', 'Swamp', 'Underdark', 'Underwater', 'Urban'], help='TODO: Filter the source set by Environment')
-    parser.add_argument('--filtertype', choices=['construct', 'elemental', 'fey', 'fiend', 'humanoid', 'undead'], help='TODO: Filter the source set by type')
+    parser.add_argument('--filtertype', choices=['aberration', 'beast', 'celestial', 'construct', 'dragon', 'elemental', 'fey', 'fiend', 'giant', 'humanoid', 'monstrosity', 'ooze', 'plant', 'undead'], help='TODO: Filter the source set by type')
     # Apply templates to the filtered creatures
     parser.add_argument('--apply', choices=['ghostly', 'skeletal', 'zombie'], help='TODO: Apply a template to the current list of creatures')
     parser.add_argument('--list', help='Print out the current set of creatures')
@@ -1036,6 +1036,19 @@ def main(argv):
                 if creature.cr == cr:
                     crcreatures.append(creature)
         creatures = crcreatures
+    elif args.filtertype != None:
+        type = args.filtertype
+        print(f"Looking for {type} creatures")
+        typecreatures = []
+        for creature in creatures:
+            if isinstance(creature, SubtypedCreature):
+                for subcreature in creature.subtypes:
+                    if type in subcreature.type:
+                        typecreatures.append(subcreature)
+            else:
+                if creature.type == type:
+                    typecreatures.append(creature)
+        creatures = typecreatures
 
     # Ingest?
     if args.ingest != None:
@@ -1084,7 +1097,7 @@ def main(argv):
                 indexstr += " | ".join(map(lambda subcrea: f"[{subcrea.name}]({subcrea.filename()})", creature.subtypes))
                 indexstr += "\n"
             else:
-                indexstr += f"- [{creature.name}]({creature.filename()})\n"
+                indexstr += f"- [{creature.name}]({creature.filename()}) *{creature.type}*, CR {creature.cr}\n"
 
         if args.writeindex == '-':
             print(indexstr)

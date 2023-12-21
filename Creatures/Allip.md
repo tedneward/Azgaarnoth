@@ -8,7 +8,7 @@ Every allip is wracked with a horrifying insight that torments what remains of i
 ***Insidious Lore.*** An allip might attempt to share its lore to escape its curse and enter the afterlife. It can transfer knowledge from its mind by guiding another creature to write down what it knows. This process takes days or possibly weeks. An allip can accomplish this task by lurking in the study or workplace of a scholar. If the allip remains hidden, its victim is gradually overcome by frantic energy. A scholar, driven by sudden insights to work night and day, produces reams of text with little memory of exactly what the documents contain. If the allip succeeds, it passes from the world--and its terrible secret hides somewhere in the scholar's text, waiting to be discovered by its next victim.
 
 >### Allip
->*Medium Undead, Typically Neutral Evil*
+>*Medium undead, Typically Neutral Evil*
 >___
 >- **Armor Class** 13
 >- **Hit Points** 40 (9d8)

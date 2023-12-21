@@ -13,7 +13,7 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
 Arctic, Desert, Urban
 
 >### Boneclaw
->*Large Undead, Typically Chaotic Evil*
+>*Large undead, Typically Chaotic Evil*
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 150 (20d10 + 40)

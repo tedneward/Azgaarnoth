@@ -12,7 +12,7 @@ An overpowering urge to serve consumes the mind of a newly awakened deathlock. A
 Whatever the goal, it always reflects the patron's interests, ranging from small-scale concerns to matters of cosmic scope. A deathlock in the thrall of a Fiend might work to destroy a specific temple dedicated to a good god, while one that serves a Great Old One might hunt for the materials needed to call forth a horrifying entity into the world. To accomplish a difficult goal, the deathlock might be forced to serve another powerful creature or might need to gather servants of its own.
 
 >### Deathlock
->*Medium Undead (Warlock), Typically Neutral Evil*
+>*Medium undead (Warlock), Typically Neutral Evil*
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 36 (8d8)
@@ -58,7 +58,7 @@ Whatever the goal, it always reflects the patron's interests, ranging from small
 Though deathlocks exist to serve their patrons, they retain some freedom when it comes to devising tactics and carrying out plans. Powerful deathlocks recruit lesser creatures to help them carry out their missions, becoming the masterminds behind vast conspiracies and intrigues that culminate in the accomplishment of great acts of evil.
 
 >### Deathlock Mastermind
->*Medium Undead (Warlock), Typically Neutral Evil*
+>*Medium undead (Warlock), Typically Neutral Evil*
 >___
 >- **Armor Class** 13 (16 with mage armor)
 >- **Hit Points** 110 (20d8 + 20)
@@ -106,7 +106,7 @@ Though deathlocks exist to serve their patrons, they retain some freedom when it
 Deprived of much of its magic as a special punishment, a deathlock wight lingers between the warlock it was and the wretched existence of a wight.
 
 >### Deathlock Wight
->*Medium Undead (Warlock), Typically Neutral Evil*
+>*Medium undead (Warlock), Typically Neutral Evil*
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 37 (5d8 + 15)

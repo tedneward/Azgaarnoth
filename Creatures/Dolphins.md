@@ -14,7 +14,7 @@ Underwater
 ![](Dolphin-Token.png)
 
 >### Dolphin
->*Medium Beast, Unaligned*
+>*Medium beast, Unaligned*
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 11 (2d8 + 2)

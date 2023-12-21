@@ -211,7 +211,7 @@ From a distance or in poor light, a spawn of Kyuss looks like an ordinary zombie
 Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeath. Left to its own devices, a solitary spawn of Kyuss travels aimlessly. If it stumbles across a living creature, the spawn attacks with the sole intent of creating more spawn. Whether spawn are dispersed or clustered, they reproduce exponentially if nothing stops them.
 
 >### Spawn of Kyuss
->*Medium Undead, Typically Chaotic Evil*
+>*Medium undead, Typically Chaotic Evil*
 >___
 >- **Armor Class** 10
 >- **Hit Points** 76 (9d8 + 36)

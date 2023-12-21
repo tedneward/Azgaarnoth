@@ -350,7 +350,7 @@ Indistinguishable from fog aside from the charnel reek it exudes, a vampiric mis
 Like sharks in water, vampiric mists can scent blood from up to a mile away. Any injury, no matter how small, might catch their attention and draw them toward their victims. In battle, a mist focuses its attacks on injured targets, since open wounds are a more ready source of blood.
 
 >### Vampiric Mist
->*Medium Undead, Typically Chaotic Evil*
+>*Medium undead, Typically Chaotic Evil*
 >___
 >- **Armor Class** 13
 >- **Hit Points** 30 (4d8 + 12)

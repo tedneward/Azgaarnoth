@@ -7,7 +7,7 @@ Infighting and treachery brought skull lords into existence. The first of them a
 Extraplanar, Ruins
 
 >### Skull Lord
->*Medium Undead (Sorcerer), Typically Lawful Evil*
+>*Medium undead (Sorcerer), Typically Lawful Evil*
 >___
 >- **Armor Class** 18 (plate)
 >- **Hit Points** 112 (15d8 + 45)

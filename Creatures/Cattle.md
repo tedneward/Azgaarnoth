@@ -55,7 +55,7 @@ Grassland, Hill, Mountain
 ![](Aurochs-Token.png)
 
 >### Aurochs
->*Large Beast (Cattle), Unaligned*
+>*Large beast (Cattle), Unaligned*
 >___
 >- **Armor Class** 11 (natural armor)
 >- **Hit Points** 38 (4d10 + 16)
@@ -93,7 +93,7 @@ Underdark
 ![](DeepRothe-Token.png)
 
 >### Deep Rothe
->*Medium Beast (Cattle), Unaligned*
+>*Medium beast (Cattle), Unaligned*
 >___
 >- **Armor Class** 10
 >- **Hit Points** 13 (2d8 + 4)
@@ -135,7 +135,7 @@ Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 ![](Ox-Token.png)
 
 >### Ox
->*Large Beast (Cattle), Unaligned*
+>*Large beast (Cattle), Unaligned*
 >___
 >- **Armor Class** 10
 >- **Hit Points** 15 (2d10 + 4)

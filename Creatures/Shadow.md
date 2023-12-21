@@ -14,7 +14,7 @@ Ruins, Underdark, Undersea, Extraplanar
 ![](Shadow-Token.png)
 
 >### Shadow
->*Medium Undead, Chaotic Evil*
+>*Medium undead, Chaotic Evil*
 >___
 >- **Armor Class** 12
 >- **Hit Points** 16 (3d8 + 3)

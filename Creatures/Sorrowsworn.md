@@ -9,7 +9,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 Relying on violence to sustain their existence, angry sorrowsworn--sometimes called the Angry--grow more powerful when their foes fight back. If a creature opts not to attack, though, this sorrowsworn becomes confused, and its attacks weaken. It also has two heads, which bicker with each other incessantly.
 
 >### Angry Sorrowsworn
->*Medium Monstrosity, Typically Neutral Evil*
+>*Medium monstrosity, Typically Neutral Evil*
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 255 (30d8 + 120)
@@ -50,7 +50,7 @@ Horrible creatures with grasping claws and distended jaws, hungry sorrowsworn--a
 
 
 >### Hungry Sorrowsworn
->*Medium Monstrosity, Typically Neutral Evil*
+>*Medium monstrosity, Typically Neutral Evil*
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 225 (30d8 + 90)
@@ -89,7 +89,7 @@ The sorrow of isolation afflicts many creatures that lurk in the Shadowfell, but
 
 
 >### Lonely Sorrowsworn
->*Medium Monstrosity, Typically Neutral Evil*
+>*Medium monstrosity, Typically Neutral Evil*
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 112 (15d8 + 45)
@@ -133,7 +133,7 @@ Lost sorrowsworn grasp at any creatures they can reach. A victim experiences a f
 
 
 >### Lost Sorrowsworn
->*Medium Monstrosity, Typically Neutral Evil*
+>*Medium monstrosity, Typically Neutral Evil*
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 78 (12d8 + 24)
@@ -173,7 +173,7 @@ Horrid little monsters, wretched sorrowsworn--or the Wretched--gather in packs t
 
 
 >### Wretched Sorrowsworn
->*Small Monstrosity, Typically Neutral Evil*
+>*Small monstrosity, Typically Neutral Evil*
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 10 (4d6 - 4)

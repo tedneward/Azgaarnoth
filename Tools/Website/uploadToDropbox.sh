@@ -1,16 +1,5 @@
 #!/bin/bash
 
-./clean.sh
-
-./copycontent.sh
-
-./genCreatureLists.sh
-./genSpellLists.sh
-
-# Convert it
-mkdocs build
-
-./uploadToDropbox.sh
 # Upload it (via Dropbox)
 target=~/Dropbox/Apps/site44/azgaarnoth.tedneward.com/
 if test -f "sitetarget"; then

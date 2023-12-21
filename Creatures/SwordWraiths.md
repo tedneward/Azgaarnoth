@@ -10,7 +10,7 @@ Sword wraith commanders haunt battlefields, attacking anyone who questions their
 
 
 >### Sword Wraith Commander
->*Medium Undead, Typically Lawful Evil*
+>*Medium undead, Typically Lawful Evil*
 >___
 >- **Armor Class** 18 (breastplate, shield)
 >- **Hit Points** 127 (15d8 + 60)
@@ -55,7 +55,7 @@ Sword wraith commanders haunt battlefields, attacking anyone who questions their
 Sword wraith warriors are most often found on ancient battlefields where soldiers were hemmed in and slaughtered without quarter.
 
 >### Sword Wraith Warrior
->*Medium Undead, Typically Lawful Evil*
+>*Medium undead, Typically Lawful Evil*
 >___
 >- **Armor Class** 16 (chain shirt, shield)
 >- **Hit Points** 45 (6d8 + 18)

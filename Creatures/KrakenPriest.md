@@ -12,7 +12,7 @@ Coastal, Urban
 ![](KrakenPriest-Token.png)
 
 >### Kraken Priest
->*Medium Monstrosity, Typically Chaotic Evil*
+>*Medium monstrosity, Typically Chaotic Evil*
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 75 (10d8 + 30)

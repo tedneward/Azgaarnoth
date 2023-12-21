@@ -11,7 +11,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 Fleeing his pursuers, Raxivort wandered across the multiverse and spawned xvarts, who not only look like him but also cause any magic that could reveal his location to point to the nearest xvart instead.
 
 >### Xvart
->*Small Monstrosity, Typically Chaotic Evil*
+>*Small monstrosity, Typically Chaotic Evil*
 >___
 >- **Armor Class** 13 (leather armor)
 >- **Hit Points** 7 (2d6)
@@ -50,7 +50,7 @@ Fleeing his pursuers, Raxivort wandered across the multiverse and spawned xvarts
 Some xvarts are spawned with a trace of Raxivort's divine energy. These xvarts usually form a pact with him and wield magic in his service as warlocks.
 
 >### Xvart Warlock of Raxivort
->*Small Monstrosity, Typically Chaotic Evil*
+>*Small monstrosity, Typically Chaotic Evil*
 >___
 >- **Armor Class** 12 (15 with mage armor)
 >- **Hit Points** 22 (5d6 + 5)

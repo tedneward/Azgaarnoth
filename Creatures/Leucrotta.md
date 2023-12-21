@@ -16,7 +16,7 @@ Extraplanar, Conjured/Summoned
 ![](Leucrotta-Token.png)
 
 >### Leucrotta
->*Large Monstrosity, Typically Chaotic Evil*
+>*Large monstrosity, Typically Chaotic Evil*
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 67 (9d10 + 18)
