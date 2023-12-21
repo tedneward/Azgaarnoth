@@ -24,7 +24,7 @@ These spells are never shared with anyone outside of the Crimson Sunrise school.
 Within the school, these spells are only made available to members who go out on active deployment.
 
 * cantrips: [alchemical grenade](../../Magic/Spells/alchemical-grenade.md)
-* 1st: [shrapnel ray](../../Magic/Spells/shrapnel-ray.md), [warding blade](../../Magic/Spells/warding-blade.md)
+* 1st: [assistance of flames](../../Magic/Spells/assistance-of-flames.md), [assistance of frost](../../Magic/Spells/assistance-of-frost.md), [assistance of lightning](../../Magic/Spells/assistance-of-lightning.md), [battlesheath of flames](../../Magic/Spells/battlesheath-of-flames.md), [battlesheath of frost](../../Magic/Spells/battlesheath-of-frost.md), [battlesheath of lightning](../../Magic/Spells/battlesheath-of-lightning.md), [shrapnel ray](../../Magic/Spells/shrapnel-ray.md), [warding blade](../../Magic/Spells/warding-blade.md)
 * 2nd: [aggressive surge](../../Magic/Spells/aggressive-surge.md)
 * 3rd: [arcane ball bearings](../../Magic/Spells/arcane-ball-bearings.md), [hungering blade](../../Magic/Spells/hungering-blade.md)
 * 4th: [arcane resilience](../../Magic/Spells/arcane-resilience.md)

@@ -17,14 +17,13 @@ In addition to wizards and sorcerers who seek to specialize in cold-related spel
 ## Restricted Spells
 Access to White Spire spells is actually very easy, comparatively speaking to other schools. Any mage that wishes to copy a White Spire spell must pay a fee (usually 150-200gp per spell level). Possession of White Spire spells by non-members is not remarkable, other than the relative rarity.
 
-* cantrips: [foot freeze](../../Magic/Spells/foot-freeze.md), [frigid grasp](../../Magic/Spells/frigid-grasp.md), [frost trap](../../Magic/Spells/frost-trap.md), [ice ward](../../Magic/Spells/ice-ward.md), [refreshing chill](../../Magic/Spells/refreshing-chill.md)
-* 1st: [coldsnap](../../Magic/Spells/coldsnap.md), [ice beam](../../Magic/Spells/ice-beam.md), [ice spire](../../Magic/Spells/ice-spire.md), [oppressive cold](../../Magic/Spells/oppressive-cold.md), [snowfield](../../Magic/Spells/snowfield.md)
-* 2nd: [ice shield](../../Magic/Spells/ice-shield.md), [icicle blast](../../Magic/Spells/icicle-blast.md), [snowball](../../Magic/Spells/snowball.md)
-* 3rd: [flashfreeze](../../Magic/Spells/flashfreeze.md), [frigid barrier](../../Magic/Spells/frigid-barrier.md), [ice warrior](../../Magic/Spells/ice-warrior.md), [snap of cold](../../Magic/Spells/snap-of-cold.md)
-* 4th: [ice blades](../../Magic/Spells/ice-blades.md), [ice body](../../Magic/Spells), 
-* 5th: [agonizing chill](../../Magic/Spells/agonizing-chill.md), [comet strike](../../Magic/Spells/comet-strike.md)
-* 6th: [blizzard](../../Magic/Spells/blizzard.md), [deep freeze](../../Magic/Spells/deep-freeze.md)
-* 7th: [arctic wind](../../Magic/Spells/arctic-wind.md), [ice cave](../../Magic/Spells/ice-cave.md)
+* cantrips: [foot freeze](../../Magic/Spells/foot-freeze.md), [frigid grasp](../../Magic/Spells/frigid-grasp.md), [frost trap](../../Magic/Spells/frost-trap.md), [ice missile](../../Magic/Spells/ice-missile.md), [ice ward](../../Magic/Spells/ice-ward.md), [refreshing chill](../../Magic/Spells/refreshing-chill.md)
+* 1st: [battlesheath of frost](../../Magic/Spells/battlesheath-of-frost.md), [coldsnap](../../Magic/Spells/coldsnap.md), [frozen feet](../../Magic/Spells/frozen-feet.md), [ice beam](../../Magic/Spells/ice-beam.md), [ice spire](../../Magic/Spells/ice-spire.md), [miniature frostball](../../Magic/Spells/miniature-frostball.md), [oppressive cold](../../Magic/Spells/oppressive-cold.md), [snowfield](../../Magic/Spells/snowfield.md)
+* 2nd: [chilling ray](../../Magic/Spells/chilling-ray.md), [glacial blade arc](../../Magic/Spells/glacial-blade.md) [ice shield](../../Magic/Spells/ice-shield.md), [icicle blast](../../Magic/Spells/icicle-blast.md), [snowball](../../Magic/Spells/snowball.md)
+* 3rd: [flashfreeze](../../Magic/Spells/flashfreeze.md), [frigid barrier](../../Magic/Spells/frigid-barrier.md), [frostball](../../Magic/Spells/frostball.md), [ice warrior](../../Magic/Spells/ice-warrior.md), [snap of cold](../../Magic/Spells/snap-of-cold.md), [wheel of ice](../../Magic/Spells/wheel-of-ice.md)
+* 4th: [ice blades](../../Magic/Spells/ice-blades.md), [ice body](../../Magic/Spells), [winterfloor](../../Magic/Spells/winterfloor.md)
+* 5th: [agonizing chill](../../Magic/Spells/agonizing-chill.md), [bridge of ice](../../Magic/Spells/bridge-of-ice.md), [glacial wave](../../Magic/Spells/glacial-wave.md), [pillar of chill](../../Magic/Spells/pillar-of-chill.md)
+* 6th: [blizzard](../../Magic/Spells/blizzard.md), [deep freeze](../../Magic/Spells/deep-freeze.md), [frost beam](../../Magic/Spells/frost-beam.md)
+* 7th: [arctic wind](../../Magic/Spells/arctic-wind.md), [flash freeze](../../Magic/Spells/flash-freeze.md), [ice cave](../../Magic/Spells/ice-cave.md)
 * 8th: [cryostasis](../../Magic/Spells/cryostasis.md), [reign of winter](../../Magic/Spells/reign-of-winter.md)
-* 9th: [aurora blast](../../Magic/Spells/aurora-blast.md), [ice mountain](../../Magic/Spells/ice-mountain.md)
-
+* 9th: [aurora blast](../../Magic/Spells/aurora-blast.md), [frigid vortex](../../Magic/Spells/frigid-vortex.md), [ice mountain](../../Magic/Spells/ice-mountain.md)
