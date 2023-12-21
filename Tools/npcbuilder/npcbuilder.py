@@ -347,6 +347,7 @@ tools = {
     ],
     'musical': [
         "Bagpipes",
+        "Chimes",
         "Drum",
         "Dulcimer",
         "Flute",

@@ -10,7 +10,7 @@ description = "***Subrace: Bright Elf.*** As a bright elf, your body and soul ar
 
 * **Ability Score Increase.** One ability score of your choice other than Dexterity increases by 1.
 
-* **Ancient Magic.** Choose one of the following cantrips: [light](http://azgaarnoth.tedneward.com/magic/spells/light/), [dancing lights](http://azgaarnoth.tedneward.com/magic/spells/dancing-lights/), or [thaumaturgy](http://azgaarnoth.tedneward.com/magic/spells/thaumaturgy/). You know that cantrip, and Charisma is your spellcasting ability for it.
+* **Ancient Magic.** Choose one of the following cantrips: [light](../../Magic/Spells/light.md), [dancing lights](../../Magic/Spells/dancing-lights.md), or [thaumaturgy](../../Magic/Spells/thaumaturgy.md). You know that cantrip, and Charisma is your spellcasting ability for it.
 
 * **Brightfolk.** You have resistance to radiant damage, and you have advantage on saving throws to resist being blinded by effects that deal radiant damage or create light.
 

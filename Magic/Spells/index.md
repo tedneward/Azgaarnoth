@@ -95,6 +95,8 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Hand of Radiance](./hand-of-radiance.md): Cleric
 * [Hemokinesis](./hemokinesis.md): Sorcerer, Warlock, Wizard
 * [Hinder](./hinder.md): Sorcerer, Warlock, Wizard
+* [Horizon Strike](./horizon-strike.md): Sorcerer, Warlock, Wizard
+* [Ice Missile](./ice-missile.md): Druid, Sorcerer, Warlock, Wizard
 * [Ice Shard](./ice-shard.md): Sorcerer, Wizard
 * [Ice Ward](./ice-ward.md): Cleric, Druid, Ranger, Sorcerer, Wizard
 * [Icon of Fear](./icon-of-fear.md): Artificer, Bard, Cleric, Sorcerer, Warlock, Wizard
@@ -115,6 +117,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Light](./light.md): Artificer, Bard, Cleric, Sorcerer, Wizard
 * [Lightning Blade](./lightning-blade.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
 * [Lightning Lure](./lightning-lure.md): Artificer, Sorcerer, Warlock, Wizard
+* [Lightning Shot](./lightning-shot.md): Druid, Sorcerer, Warlock, Wizard
 * [Lightning Speed](./lightning-speed.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
 * [Looming Shadow](./looming-shadow.md): Artificer, Sorcerer, Warlock, Wizard
 * [Lullaby](./lullaby.md): Bard
@@ -127,6 +130,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Melf's Most Mintue Meteor](./melfs-most-minute-meteor.md): Wizard
 * [Mending](./mending.md): Artificer, Bard, Cleric, Druid, Shaman, Sorcerer, Wizard
 * [Message](./message.md): Artificer, Bard, Shaman, Sorcerer, Wizard
+* [Mind Bolt](./mind-bolt.md): Sorcerer, Warlock, Wizard
 * [Mind Sliver](./mind-sliver.md): Sorcerer, Warlock, Wizard
 * [Mindspeak](./mindspeak.md): Bard, Druid, Sorcerer
 * [Minor Disguise](./minor-disguise.md): Bard, Sorcerer, Wizard
@@ -135,9 +139,11 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Mold Earth](./mold-earth.md): Druid, Sorcerer, Wizard
 * [Nauseate](./nauseate.md): Artificer, Druid, Pale Master, Sorcerer, Warlock, Wizard
 * [Night Terror](./night-terror.md): Pale Master, Warlock, Wizard
+* [Overheat](./overheat.md): Sorcerer, Wizard
 * [Pacify](./pacify.md): Bard, Cleric, Druid, Pale Master
 * [Peaceful Valediction](./peaceful-valediction.md): Cleric, Druid, Pale Master
 * [Peep-Hole](./peep-hole.md): Wizard
+* [Petal Shear](./petal-shear.md): Sorcerer, Wizard
 * [Phantasmal Assault](./phantasmal-assault.md): Sorcerer, Wizard
 * [Phase](./phase.md): Sorcerer, Wizard
 * [Piercing Vision](./piercing-vision.md): Wizard
@@ -153,6 +159,8 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Quickling Step](./quickling-step.md): Artificer, Druid, Sorcerer, Warlock, Wizard
 * [Rancorous-Mist Blade](./rancorous-mist-blade.md): Pale Master, Sorcerer, Warlock, Wizard
 * [Ray of Frost](./ray-of-frost.md): Artificer, Sorcerer, Wizard
+* [Ray of Necrosis](./ray-of-necrosis.md): Sorcerer, Wizard
+* [Ray of Radiance](./ray-of-radiance.md): Sorcerer, Wizard
 * [Razorleaf](./razorleaf.md): Druid
 * [Reassurance](./reassurance.md): Cleric, Druid
 * [Reaver's Touch](./reavers-touch.md): Cleric, Druid, Pale Master, Warlock, Wizard
@@ -174,6 +182,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Shifting Shadow](./shifting-shadow.md): Sorcerer, Warlock, Wizard
 * [Shillelagh](./shillelagh.md): Druid
 * [Shocking Grasp](./shocking-grasp.md): Artificer, Pale Master, Sorcerer, Wizard
+* [Shrill Note](./shrill-note.md): Bard
 * [Silent Portal](./silent-portal.md): Bard, Sorcerer, Wizard
 * [Siren's Touch](./sirens-touch.md): Bard, Sorcerer, Warlock, Wizard
 * [Song of the Dead](./song-of-the-dead.md): Bard, Pale Master
@@ -186,6 +195,8 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Static Shock](./static-shock.md): Artificer, Sorcerer, Wizard
 * [Steal Speed](./steal-speed.md): Artificer, Sorcerer, Warlock, Wizard
 * [Sudden Awakening](./sudden-awakening.md): Bard, Ranger, Sorcerer, Wizard
+* [Summer’s Touch](./summer’s-touch.md): Druid, Sorcerer, Warlock
+* [Surgical Ray](./surgical-ray.md): Wizard
 * [Sword Burst](./sword-burst.md): Artificer, Sorcerer, Warlock, Wizard
 * [Tend Plants](./tend-plants.md): Druid, Sorcerer, Wizard
 * [Thaumaturgy](./thaumaturgy.md): Cleric
@@ -205,6 +216,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Uncanny Balance](./uncanny-balance.md): Artificer, Druid, Wizard
 * [Unhinging Inclination](./unhinging-inclination.md): Bard, Cleric
 * [Unholy Flame](./unholy-flame.md): Cleric, Pale Master
+* [Vector Strike](./vector-strike.md): Sorcerer, Warlock, Wizard
 * [Veil](./veil.md): Wizard
 * [Venom Dart](./venom-dart.md): Artificer, Sorcerer, Warlock, Wizard
 * [Venomous Strike](./venomous-strike.md): Bard, Druid
@@ -219,9 +231,12 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Waning Vigor](./waning-vigor.md): Artificer, Cleric, Pale Master, Sorcerer, Warlock, Wizard
 * [Warmth](./warmth.md): Cleric, Druid, Ranger, Sorcerer, Wizard
 * [Weathering](./weathering.md): Artificer, Druid, Warlock, Wizard
+* [Welding Hand](./welding-hand.md): Wizard
 * [Whimsybloom](./whimsybloom.md): Wizard
+* [Wind Slam](./wind-slam.md): Druid, Sorcerer, Warlock, Wizard
 * [Wind Slash](./wind-slash.md): Druid, Wizard
 * [Winged Horde](./winged-horde.md): Sorcerer, Wizard
+* [Winter’s Touch](./winter’s-touch.md): Druid, Sorcerer, Warlock
 * [Word of Radiance](./word-of-radiance.md): Cleric
  
 ## 1st-Level Spells
@@ -247,12 +262,19 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Arms of Hadar](./arms-of-hadar.md): Pale Master, Warlock
 * [Arrow Mind](./arrow-mind.md): Sorcerer, Warlock, Wizard
 * [Aspect of the Wolf](./aspect-of-the-wolf.md): Artificer, Druid, Ranger
+* [Assistance of Flames](./assistance-of-flames.md): Wizard
+* [Assistance of Frost](./assistance-of-frost.md): Wizard
+* [Assistance of Lightning](./assistance-of-lightning.md): Wizard
 * [Attract Projectiles](./attract-projectiles.md): Artificer, Bard, Cleric, Paladin, Ranger
 * [Bane](./bane.md): Bard, Cleric, Pale Master
+* [Baneful Shock](./baneful-shock.md): Druid, Sorcerer, Warlock, Wizard
 * [Barrier](./barrier.md): Artificer, Bard, Cleric, Druid, Paladin, Ranger
 * [Battle Cry](./battle-cry.md): Bard, Cleric, Paladin
 * [Battle Guardian's Aura](./battle-guardians-aura.md): Artificer, Paladin, Warlock, Wizard
 * [Battlefate](./battlefate.md): Cleric, Sorcerer, Wizard
+* [Battlesheath of Flames](./battlesheath-of-flames.md): Paladin, Sorcerer, Warlock, Wizard
+* [Battlesheath of Frost](./battlesheath-of-frost.md): Paladin, Sorcerer, Warlock, Wizard
+* [Battlesheath of Lightning](./battlesheath-of-lightning.md): Paladin, Sorcerer, Warlock, Wizard
 * [Beast Bond](./beast-bond.md): Druid, Ranger, Shaman
 * [Beast Claws](./beast-claws.md): Druid, Ranger
 * [Beastlands Ferocity](./beastlands-ferocity.md): Bard, Druid, Ranger
@@ -261,6 +283,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Bestow Wound](./bestow-wound.md): Cleric, Paladin
 * [Blackout](./blackout.md): Artificer, Bard, Cleric, Druid, Pale Master, Ranger, Shaman, Sorcerer, Warlock, Wizard
 * [Blade of Nightmares](./blade-of-nightmares.md): Artificer, Paladin, Warlock, Wizard
+* [Blazing Lance](./blazing-lance.md): Paladin, Sorcerer, Wizard
 * [Bless](./bless.md): Cleric, Paladin
 * [Blessed Aim](./blessed-aim.md): Cleric, Paladin
 * [Blood Reading](./blood-reading.md): Cleric, Shaman, Sorcerer, Warlock, Wizard
@@ -268,6 +291,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Bloodhound](./bloodhound.md): Ranger
 * [Blur of Motion](./blur-of-motion.md): Ranger, Sorcerer, Warlock, Wizard
 * [Bone Storm](./bone-storm.md): Pale Master, Sorcerer, Warlock, Wizard
+* [Brightflash](./brightflash.md): Wizard
 * [Burning Hands](./burning-hands.md): Sorcerer, Wizard
 * [Candle Trick](./candle-trick.md): Artificer, Bard, Druid, Ranger
 * [Catapult](./catapult.md): Artificer, Sorcerer, Wizard
@@ -278,6 +302,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Ceremony](./ceremony.md): Cleric, Paladin
 * [Chameleon Stance](./chameleon-stance.md): Bard, Sorcerer, Wizard
 * [Chaos Bolt](./chaos-bolt.md): Sorcerer
+* [Chaotic Disruption](./chaotic-disruption.md): Sorcerer, Warlock, Wizard
 * [Charm Person](./charm-person.md): Bard, Druid, Shaman, Sorcerer, Warlock, Wizard
 * [Chill Air](./chill-air.md): Sorcerer, Warlock, Wizard
 * [Chill of the Grave](./chill-of-the-grave.md): Cleric, Pale Master, Sorcerer, Warlock, Wizard
@@ -291,7 +316,9 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Command](./command.md): Bard, Cleric, Paladin, Shaman
 * [Compelled Duel](./compelled-duel.md): Paladin
 * [Comprehend Languages](./comprehend-languages.md): Bard, Sorcerer, Warlock, Wizard
+* [Condense Reserves](./condense-reserves.md): Bard, Sorcerer, Wizard
 * [Conjure Critters](./conjure-critters.md): Druid, Ranger
+* [Cooperative Channeling](./cooperative-channeling.md): Bard, Wizard
 * [Corpse Link](./corpse-link.md): Artificer, Sorcerer, Warlock, Wizard
 * [Corpse Visage](./corpse-visage.md): Sorcerer, Warlock, Wizard
 * [Courtier's Cover](./courtiers-cover.md): Bard
@@ -302,6 +329,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Cure Wounds](./cure-wounds.md): Artificer, Bard, Cleric, Druid, Paladin, Ranger, Shaman
 * [Cursed with Undeath](./cursed-with-undeath.md): Pale Master, Warlock, Wizard
 * [Dark Pact](./dark-pact.md): Pale Master
+* [Darkness Lance](./darkness-lance.md): Paladin, Sorcerer, Wizard
 * [Dead End](./dead-end.md): Bard, Druid, Ranger
 * [Dead Man's Tell](./dead-mans-tell.md): Druid, Pale Master, Warlock, Wizard
 * [Death's Grasp](./deaths-grasp.md): Pale Master, Warlock, Wizard
@@ -323,14 +351,16 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Dissonant Whispers](./dissonant-whispers.md): Bard, Shaman
 * [Distort Speech](./distort-speech.md): Bard
 * [Distort Value](./distort-value.md): Bard, Sorcerer, Warlock, Wizard
-* [Divine Arm](./divine-arm.md): Cleric, Paladin
 * [Divine Favor](./divine-favor.md): Paladin
 * [Divine Sacrifice](./divine-sacrifice.md): Cleric, Paladin
 * [Divine Sanction](./divine-sanction.md): Paladin
+* [Divine Sheathe](./divine-sheathe.md): Cleric, Paladin
+* [Doubleback Surge](./doubleback-surge.md): Sorcerer, Warlock, Wizard
 * [Drawmij's Light Step](./drawmijs-light-step.md): Bard, Cleric, Druid, Ranger, Sorcerer, Wizard
 * [Dread](./dread.md): Pale Master, Warlock, Wizard
 * [Dread Provocation](./dread-provocation.md): Paladin, Warlock
 * [Dread Revelation](./dread-revelation.md): Bard, Cleric, Paladin, Warlock, Wizard
+* [Druidfire](./druidfire.md): Druid
 * [Earth Tremor](./earth-tremor.md): Bard, Druid, Sorcerer, Wizard
 * [Earthen Grace](./earthen-grace.md): Druid, Ranger, Sorcerer, Wizard
 * [Earthen Grip](./earthen-grip.md): Druid, Sorcerer, Wizard
@@ -361,12 +391,14 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Flare](./flare.md): Artificer, Bard, Cleric, Sorcerer, Wizard
 * [Flash](./flash.md): Cleric, Paladin, Sorcerer, Wizard
 * [Flechette Spray](./flechette-spray.md): Wizard
+* [Float Shot](./float-shot.md): Sorcerer, Warlock, Wizard
 * [Foesnare](./foesnare.md): Artificer, Warlock, Wizard
 * [Fog Cloud](./fog-cloud.md): Druid, Ranger, Shaman, Sorcerer, Wizard
 * [Forceful Query](./forceful-query.md): Bard, Sorcerer
 * [Foundation of Stone](./foundation-of-stone.md): Cleric, Druid
 * [Frightful Strike](./frightful-strike.md): Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard
 * [Frost Fingers](./frost-fingers.md): Cleric, Druid, Wizard
+* [Frozen Feet](./frozen-feet.md): Druid, Sorcerer, Warlock, Wizard
 * [Gamour Veil](./glamour-veil.md): Bard, Ranger, Sorcerer, Warlock, Wizard
 * [Gemidan's Icicle](./gemidans-icicle.md): Sorcerer, Warlock, Wizard
 * [Gemstone Fission](./gemstone-fission.md): Wizard
@@ -374,6 +406,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Ghoul Light](./ghoul-light.md): Sorcerer, Warlock, Wizard
 * [Gift of Alacrity](./gift-of-alacrity.md): Wizard
 * [Glide](./glide.md): Artificer, Druid, Ranger, Sorcerer, Wizard
+* [Glow Mark](./glow-mark.md): Bard, Cleric, Paladin, Sorcerer, Warlock, Wizard
 * [Goodberry](./goodberry.md): Druid, Ranger
 * [Grasping Limb](./grasping-limb.md): Sorcerer, Wizard
 * [Grease](./grease.md): Artificer, Sorcerer, Wizard
@@ -418,6 +451,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Jim's Magic Missile](./jims-magic-missile.md): Wizard
 * [Jump](./jump.md): Artificer, Druid, Ranger, Sorcerer, Wizard
 * [Keys to the City](./keys-to-the-city.md): Bard
+* [Knocking Pulse](./knocking-pulse.md): Sorcerer, Wizard
 * [Know Faction](./know-faction.md): Bard, Cleric, Sorcerer, Wizard
 * [Know Greatest Enemy](./know-greatest-enemy.md): Artificer, Bard, Paladin
 * [Know Protection](./know-protection.md): Bard, Cleric, Sorcerer, Wizard
@@ -434,10 +468,12 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Lightning Bug](./lightning-bug.md): Artificer, Druid, Sorcerer, Wizard
 * [Lightning Clash](./lightning-clash.md): Druid, Sorcerer, Warlock, Wizard
 * [Lightning Orb](./lightning-orb.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
+* [Lingering Shock](./lingering-shock.md): Sorcerer, Warlock, Wizard
 * [Lionheart](./lionheart.md): Paladin
 * [Living Link](./living-link.md): Sorcerer, Warlock, Wizard
 * [Longstrider](./longstrider.md): Artificer, Bard, Druid, Ranger, Wizard
 * [Lord's Armor](./lords-armor.md): Artificer, Bard, Paladin, Wizard
+* [Luminous Trail](./luminous-trail.md): Bard, Cleric, Druid, Ranger, Sorcerer, Warlock, Wizard
 * [Mage Armor](./mage-armor.md): Sorcerer, Wizard
 * [Magic Fang](./magic-fang.md): Artificer, Druid, Ranger
 * [Magic Fist](./magic-fist.md): Sorcerer, Wizard
@@ -448,6 +484,8 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Mark of the Vigilante](./mark-of-the-vigilante.md): Artificer, Bard, Paladin, Ranger, Warlock, Wizard
 * [Marshal's Mark](./marshals-mark.md): Artificer, Paladin, Ranger, Wizard
 * [Mighty Wallop](./mighty-wallop.md): Cleric, Paladin
+* [Miniature Fireball](./miniature-fireball.md): Sorcerer, Wizard
+* [Miniature Frostball](./miniature-frostball.md): Sorcerer, Wizard
 * [Misdirected Mark](./misdirected-mark.md): Bard
 * [Misery](./misery.md): Pale Master, Warlock, Wizard
 * [Murmurs of the Restless](./murmurs-of-the-restless.md): Bard, Cleric, Pale Master
@@ -462,6 +500,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Otiluke's Bubbling Buoyancy](./otilukes-bubbling-bouyancy.md): Sorcerer, Warlock, Wizard
 * [Otiluke's Bubbling Buoyancy](./otilukes-bubbling-buoyancy.md): Sorcerer, Warlock, Wizard
 * [Otiluke's Smoky Sphere](./otilukes-smoky-sphere.md): Artificer, Sorcerer, Warlock, Wizard
+* [Persistent Sparkle](./persistent-sparkle.md): Bard, Sorcerer, Wizard
 * [Piercing Smite](./piercing-smite.md): Paladin
 * [Poison Smite](./poison-smite.md): Paladin
 * [Positive Foundations](./positive-foundations.md): Shaman, Wizard
@@ -473,8 +512,10 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Puppet](./puppet.md): Bard, Warlock, Wizard
 * [Pure Flame](./pure-flame.md): Wizard
 * [Purify Food and Drink](./purify-food-and-drink.md): Artificer, Cleric, Druid, Paladin
+* [Push](./push.md): Sorcerer, Warlock, Wizard
 * [Pyrokinesis](./pyrokinesis.md): Sorcerer, Warlock, Wizard
 * [Quivaelyn's Sharpening Palm](./quivaelyns-sharpening-palm.md): Artificer, Cleric, Paladin, Ranger
+* [Radiant Lance](./radiant-lance.md): Paladin, Sorcerer, Wizard
 * [Radlo's Sudden Spark](./radlos-sudden-spark.md): Artificer, Ranger, Sorcerer, Wizard
 * [Ray of Sickness](./ray-of-sickness.md): Pale Master, Sorcerer, Wizard
 * [Ray of Terror](./ray-of-terror.md): Bard, Sorcerer, Wizard
@@ -496,7 +537,9 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Serpent Missile](./serpent-missile.md): Artificer, Druid, Sorcerer, Warlock, Wizard
 * [Shadow Missile](./shadow-missile.md): Artificer, Bard, Cleric, Ranger, Sorcerer, Warlock, Wizard
 * [Shadowing Mark](./shadowing-mark.md): Ranger, Warlock, Wizard
+* [Shatterpoke](./shatterpoke.md): Sorcerer, Warlock, Wizard
 * [Shed Skin](./shed-skin.md): Druid, Pale Master, Ranger, Wizard
+* [Sheltered Voices](./sheltered-voices.md): Bard, Sorcerer, Warlock, Wizard
 * [Shield](./shield.md): Sorcerer, Wizard
 * [Shield of Devotion](./shield-of-devotion.md): Cleric, Paladin
 * [Shield of Faith](./shield-of-faith.md): Cleric, Paladin
@@ -504,10 +547,13 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Shieldbearer](./shieldbearer.md): Artificer, Sorcerer, Wizard
 * [Shielding Cube](./shielding-cube.md): Artificer, Wizard
 * [Shock](./shock.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
+* [Shocking Globules](./shocking-globules.md): Sorcerer, Warlock, Wizard
 * [Shrapnel Ray](./shrapnel-ray.md): Wizard
+* [Shrouding Ray](./shrouding-ray.md): Sorcerer, Wizard
 * [Sign of Warning](./sign-of-warning.md): Druid
 * [Silent Image](./silent-image.md): Bard, Sorcerer, Wizard
 * [Silvery Barbs](./silvery-barbs.md): Bard, Sorcerer, Wizard
+* [Siphon Magic](./siphon-magic.md): Sorcerer, Warlock, Wizard
 * [Skein of Vines](./skein-of-vines.md): Druid, Ranger
 * [Skulking Spy](./skulking-spy.md): Ranger, Wizard
 * [Slashing Step](./slashing-step.md): Bard, Ranger
@@ -520,6 +566,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Snowfield](./snowfield.md): Cleric, Druid, Ranger, Sorcerer, Wizard
 * [Sorcerous Scribe](./sorcerous-scribe.md): Artificer, Sorcerer, Wizard
 * [Soulshare](./soulshare.md): Wizard
+* [Sound Channel](./sound-channel.md): Bard, Sorcerer, Warlock, Wizard
 * [Spasm](./spasm.md): Cleric, Druid, Sorcerer, Warlock, Wizard
 * [Speak with Animals](./speak-with-animals.md): Bard, Druid, Ranger, Shaman
 * [Speed of Thought](./speed-of-thought.md): Artificer, Ranger, Sorcerer, Warlock, Wizard
@@ -553,6 +600,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Unearthly Chorus](./unearthly-chorus.md): Bard
 * [Unseen Servant](./unseen-servant.md): Bard, Pale Master, Warlock, Wizard
 * [Updraft](./updraft.md): Artificer, Cleric, Druid
+* [Vertigo Palm](./vertigo-palm.md): Bard, Sorcerer, Warlock, Wizard
 * [Vigilante Grit](./vigilante-grit.md): Artificer, Ranger
 * [Vigor](./vigor.md): Cleric, Druid
 * [Viridian Shell](./viridian-shell.md): Wizard
@@ -564,6 +612,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Weakening Smite](./weakening-smite.md): Paladin
 * [Weightless Pursuit](./weightless-pursuit.md): Artificer, Paladin, Ranger, Sorcerer, Warlock, Wizard
 * [Wild Cunning](./wild-cunning.md): Druid, Ranger
+* [Wild Trigger](./wild-trigger.md): Wizard
 * [Wind Compass](./wind-compass.md): Druid, Ranger
 * [Witch Bolt](./witch-bolt.md): Pale Master, Sorcerer, Warlock, Wizard
 * [Wrathful Smite](./wrathful-smite.md): Paladin
@@ -592,6 +641,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Arcane Instincts](./arcane-instincts.md): Artificer, Sorcerer, Warlock, Wizard
 * [Arcane Lock](./arcane-lock.md): Artificer, Wizard
 * [Arcane Springboard](./arcane-springboard.md): Artificer, Wizard
+* [Arcane Transference](./arcane-transference.md): Bard, Wizard
 * [Arm Hammers](./arm-hammers.md): Artificer, Cleric, Paladin
 * [Armathor's Step](./armathors-step.md): Sorcerer, Warlock, Wizard
 * [Ash Cloud](./ash-cloud.md): Cleric, Druid, Ranger, Sorcerer, Wizard
@@ -616,13 +666,19 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Been There](./been-there.md): Bard, Sorcerer
 * [Beluud's Brutal Jaunt](./beluuds-brutal-jaunt.md): Sorcerer, Warlock, Wizard
 * [Bewitching Glare](./bewitching-glare.md): Bard, Shaman, Sorcerer, Warlock
+* [Binding Wind](./binding-wind.md): Cleric, Druid, Sorcerer, Warlock, Wizard
 * [Binding Winds](./binding-winds.md): Druid
 * [Black Talon](./black-talon.md): Sorcerer, Warlock, Wizard
 * [Blackrot](./blackrot.md): Druid, Pale Master, Ranger
 * [Blade of Dark Whispers](./blade-of-dark-whispers.md): Artificer, Bard, Paladin, Warlock, Wizard
+* [Blade of Elemental Chaos](./blade-of-elemental-chaos.md): Wizard
 * [Blades of Grass](./blades-of-grass.md): Ranger
 * [Blast of Force](./blast-of-force.md): Sorcerer, Warlock, Wizard
 * [Blastbones](./blastbones.md): Pale Master, Sorcerer, Warlock, Wizard
+* [Blaze](./blaze.md): Druid, Sorcerer, Warlock, Wizard
+* [Blazing Blade Arc](./blazing-blade-arc.md): Paladin, Sorcerer, Warlock, Wizard
+* [Blazing Portcullis](./blazing-portcullis.md): Sorcerer, Wizard
+* [Blinding Flare](./blinding-flare.md): Cleric, Sorcerer, Warlock, Wizard
 * [Blinding Spittle](./blinding-spittle.md): Druid
 * [Blindness/Deafness](./blindness-deafness.md): Bard, Cleric, Pale Master, Sorcerer, Wizard
 * [Blood Bond](./blood-bond.md): Cleric
@@ -630,14 +686,15 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Blood Quill](./blood-quill.md): Wizard
 * [Blur](./blur.md): Artificer, Sorcerer, Wizard
 * [Body Blades](./body-blades.md): Artificer, Druid, Warlock
+* [Body Spin](./body-spin.md): Bard, Sorcerer, Warlock, Wizard
 * [Body of the Sun](./body-of-the-sun.md): Druid, Sorcerer, Wizard
 * [Bone Break](./bone-break.md): Sorcerer, Warlock, Wizard
 * [Bonefiddle](./bonefiddle.md): Bard, Sorcerer, Warlock, Wizard
 * [Borrowed Knowledge](./borrowed-knowledge.md): Bard, Cleric, Shaman, Warlock, Wizard
 * [Bothersome Babble](./bothersome-babble.md): Bard, Sorcerer, Warlock, Wizard
-* [Branding Smite](./branding-smite.md): Paladin
 * [Breathsense](./breathsense.md): Druid, Ranger
 * [Briar Web](./briar-web.md): Druid, Ranger
+* [Brightflame](./brightflame.md): Cleric, Druid, Ranger, Warlock, Wizard
 * [Burning Blade](./burning-blade.md): Artificer, Paladin, Ranger, Warlock
 * [Burrowing Claws](./burrowing-claws.md): Cleric, Druid, Ranger
 * [Call for Capitulation](./call-for-capitulation.md): Bard, Cleric
@@ -645,9 +702,11 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Cannon Blast](./cannon-blast.md): Artificer, Sorcerer, Warlock, Wizard
 * [Carnage Blast](./carnage-blast.md): Sorcerer, Warlock, Wizard
 * [Carnage Burst](./carnage-burst.md): Sorcerer, Warlock, Wizard
+* [Chain of Spell Theft](./chain-of-spell-theft.md): Warlock, Wizard
 * [Chaos Dice](./chaos-dice.md): Artificer, Bard, Cleric, Sorcerer, Warlock
 * [Chaotic Polarity Aura](./chaotic-polarity-aura.md): Wizard
 * [Charge Object](./charge-object.md): Sorcerer, Wizard
+* [Chilling Ray](./chilling-ray.md): Sorcerer, Wizard
 * [Chilling Scythe](./chilling-scythe.md): Cleric, Paladin
 * [Choking Hands](./choking-hands.md): Warlock
 * [Clarifying Impact](./clarifying-impact.md): Artificer, Ranger, Sorcerer
@@ -661,12 +720,14 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Consecration](./consecration.md): Cleric, Paladin
 * [Continual Flame](./continual-flame.md): Artificer, Cleric, Druid, Wizard
 * [Cordon of Arrows](./cordon-of-arrows.md): Ranger
+* [Corroding Ray](./corroding-ray.md): Sorcerer, Wizard
 * [Creeping Cold](./creeping-cold.md): Druid
 * [Crimson Blade](./crimson-blade.md): Druid
 * [Crown of Madness](./crown-of-madness.md): Bard, Sorcerer, Warlock, Wizard
 * [Curse of Ill Fortune](./curse-of-ill-fortune.md): Cleric, Warlock
 * [Curse of Impending Blades](./curse-of-impending-blades.md): Cleric, Paladin
 * [Cursing Smite](./cursing-smite.md): Paladin
+* [Cutting Ray](./cutting-ray.md): Sorcerer, Wizard
 * [Cyclone Strike](./cyclone-strike.md): Ranger, Wizard
 * [Daggerspell Stance](./daggerspell-stance.md): Artificer, Bard, Druid, Sorcerer, Warlock, Wizard
 * [Dance of Ruin](./dance-of-ruin.md): Sorcerer, Warlock, Wizard
@@ -688,6 +749,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Disconnect Bond](./disconnect-bond.md): Wizard
 * [Disguise Other](./disguise-other.md): Artificer, Bard, Sorcerer, Wizard
 * [Disguise Undead](./disguise-undead.md): Bard, Sorcerer, Warlock, Wizard
+* [Disperse Reserves](./disperse-reserves.md): Bard, Sorcerer, Wizard
 * [Dissonant Chant](./dissonant-chant.md): Bard, Cleric
 * [Distracting Ray](./distracting-ray.md): Bard, Sorcerer, Warlock, Wizard
 * [Dive](./dive.md): Artificer, Druid, Ranger, Sorcerer, Wizard
@@ -718,18 +780,23 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Enliven Corpse](./enliven-corpse.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
 * [Enthrall](./enthrall.md): Bard, Warlock
 * [Ethereal Smite](./ethereal-smite.md): Paladin, Sorcerer
+* [Explosive Force Arrow](./explosive-force-arrow.md): Ranger, Sorcerer, Warlock, Wizard
 * [Expose the Dead](./expose-the-dead.md): Cleric, Druid, Paladin, Ranger
 * [Favor of Tymora](./favor-of-tymora.md): Bard, Cleric
 * [Find Steed](./find-steed.md): Paladin
 * [Find Traps](./find-traps.md): Cleric, Druid, Ranger
 * [Fist of Stone](./fist-of-stone.md): Wizard
 * [Flame Blade](./flame-blade.md): Druid, Sorcerer
+* [Flame Whip](./flame-whip.md): Druid
 * [Flaming Sphere](./flaming-sphere.md): Druid, Sorcerer, Wizard
 * [Flock of Familiars](./flock-of-familiars.md): Warlock, Wizard
 * [Fog of Viscidity](./fog-of-viscidity.md): Sorcerer, Wizard
+* [Force Arrow](./force-arrow.md): Ranger, Sorcerer, Warlock, Wizard
 * [Force Hammer](./force-hammer.md): Sorcerer, Wizard
 * [Fortune's Favor](./fortunes-favor.md): Wizard
 * [Free Will](./free-will.md): Cleric
+* [Freeze Projectile](./freeze-projectile.md): Sorcerer, Wizard
+* [Freezing Blade Arc](./freezing-blade-arc.md): Paladin, Sorcerer, Warlock, Wizard
 * [Frost Backlash](./frost-backlash.md): Druid, Ranger, Sorcerer
 * [Frost Breath](./frost-breath.md): Cleric, Druid
 * [Frost Whip](./frost-whip.md): Artificer, Cleric, Druid
@@ -744,7 +811,10 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Glyph of Revealing](./glyph-of-revealing.md): Artificer, Cleric, Sorcerer, Wizard
 * [Gravity Ward](./gravity-ward.md): Wizard
 * [Greater Acupuncture](./greater-acupuncture.md): Artificer, Cleric, Druid, Sorcerer
+* [Greater Knocking Pulse](./greater-knocking-pulse.md): Sorcerer, Wizard
 * [Grimlore's Shadowgrasp](./grimlores-shadowgrasp.md): Pale Master, Sorcerer, Warlock, Wizard
+* [Ground Blades](./ground-blades.md): Wizard
+* [Ground Spikes](./ground-spikes.md): Wizard
 * [Gust of Wind](./gust-of-wind.md): Druid, Ranger, Sorcerer, Wizard
 * [Hail of Stone](./hail-of-stone.md): Sorcerer, Wizard
 * [Handfang](./handfang.md): Druid, Ranger
@@ -752,13 +822,17 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Heat Metal](./heat-metal.md): Artificer, Bard, Druid
 * [Hold Person](./hold-person.md): Bard, Cleric, Druid, Shaman, Sorcerer, Warlock, Wizard
 * [Holy Missile](./holy-missile.md): Cleric
+* [Hovering Exploder](./hovering-exploder.md): Wizard
+* [Howling Blade Arc](./howling-blade-arc.md): Paladin, Sorcerer, Warlock, Wizard
 * [Howling Downpour](./howling-downpour.md): Druid, Wizard
 * [Hush](./hush.md): Bard, Ranger, Wizard
 * [Ice Sculpture](./ice-sculpture.md): Artificer, Druid, Sorcerer, Wizard
 * [Ice Shield](./ice-shield.md): Cleric, Druid, Ranger, Sorcerer, Wizard
 * [Icicle Blast](./icicle-blast.md): Cleric, Druid, Ranger, Sorcerer, Wizard
 * [Icingdeath's Frost](./icingdeaths-frost.md): Sorcerer, Wizard
+* [Illuminating Drone](./illuminating-drone.md): Wizard
 * [Illusory Reversal](./illusory-reversal.md): Bard, Sorcerer, Wizard
+* [Immolate](./immolate.md): Sorcerer, Wizard
 * [Immovable Object](./immovable-object.md): Wizard
 * [Impart Knowledge](./impart-knowledge.md): Artificer, Bard, Wizard
 * [Infuse Blood](./infuse-blood.md): Artificer, Cleric, Paladin, Sorcerer, Wizard
@@ -783,6 +857,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Levitate](./levitate.md): Artificer, Sorcerer, Wizard
 * [Lifetap](./lifetap.md): Artificer, Bard, Cleric, Druid, Pale Master, Warlock, Wizard
 * [Lightning Blast](./lightning-blast.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
+* [Lightning Portcullis](./lightning-portcullis.md): Sorcerer, Wizard
 * [Listening Lorecall](./listening-lorecall.md): Artificer, Bard, Druid, Ranger
 * [Lively Step](./lively-step.md): Artificer, Bard, Sorcerer, Wizard
 * [Living Bomb](./living-bomb.md): Sorcerer, Wizard
@@ -820,6 +895,8 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Nightmare Lullaby](./nightmare-lullaby.md): Bard
 * [Nimodes' Major Delousing](./nimodes-major-delousing.md): Artificer, Bard, Paladin, Ranger
 * [Nystul's Magic Aura](./nystuls-magic-aura.md): Wizard
+* [Orbital Flames](./orbital-flames.md): Sorcerer, Wizard
+* [Orbital Lightning](./orbital-lightning.md): Sorcerer, Wizard
 * [Otiluke's Boiling Oil Bath](./otilukes-boiling-oil-bath.md): Sorcerer, Warlock, Wizard
 * [Overpower Bond](./overpower-bond.md): Wizard
 * [Painful Revelations](./painful-revelations.md): Bard, Sorcerer
@@ -828,10 +905,12 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Past Life](./past-life.md): Cleric, Paladin
 * [Phantasmal Force](./phantasmal-force.md): Bard, Sorcerer, Wizard
 * [Phantom Wind](./phantom-wind.md): Sorcerer, Warlock, Wizard
+* [Piercing Ray](./piercing-ray.md): Sorcerer, Wizard
 * [Poison Food or Drink](./poison-food-or-drink.md): Artificer, Druid, Ranger, Sorcerer, Warlock, Wizard
 * [Poisonstar](./poisonstar.md): Druid, Ranger
 * [Portrait](./portrait.md): Artificer, Sorcerer, Warlock, Wizard
 * [Prayer of Healing](./prayer-of-healing.md): Cleric, Paladin
+* [Preserving Flame](./preserving-flame.md): Cleric, Druid, Paladin, Warlock, Wizard
 * [Projected Magnification](./projected-magnification.md): Bard
 * [Protection from Aerial Attack](./protection-from-aerial-attack.md): Artificer, Sorcerer, Warlock, Wizard
 * [Protection from Cantrips](./protection-from-cantrips.md): Artificer, Bard, Cleric, Paladin, Sorcerer, Warlock, Wizard
@@ -873,6 +952,9 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Shadow Sight](./shadow-sight.md): Bard, Ranger, Wizard
 * [Shatter](./shatter.md): Bard, Sorcerer, Warlock, Wizard
 * [Shield Other](./shield-other.md): Artificer, Bard, Cleric, Paladin
+* [Shocking Blade Arc](./shocking-blade-arc.md): Paladin, Sorcerer, Warlock, Wizard
+* [Shocking Circulation](./shocking-circulation.md): 
+* [Shocking Ray](./shocking-ray.md): Sorcerer, Wizard
 * [Siege Imbuement](./siege-imbuement.md): Wizard
 * [Silence](./silence.md): Bard, Cleric, Pale Master, Ranger
 * [Silvanus' Blessing](./silvanus-blessing.md): Druid, Pale Master, Ranger
@@ -881,9 +963,11 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Skywrite](./skywrite.md): Artificer, Bard, Druid, Wizard
 * [Snilloc's Snowball Storm](./snillocs-snowball-storm.md): Sorcerer, Wizard
 * [Snowball](./snowball.md): Cleric, Druid, Ranger, Sorcerer, Wizard
+* [Sonic Disruption](./sonic-disruption.md): Warlock, Wizard
 * [Sow Confusion](./sow-confusion.md): Bard, Ranger, Sorcerer, Warlock, Wizard
 * [Spider Climb](./spider-climb.md): Artificer, Shaman, Sorcerer, Warlock, Wizard
 * [Spike Growth](./spike-growth.md): Druid, Ranger, Shaman
+* [Spiritfire](./spiritfire.md): Cleric, Sorcerer, Warlock, Wizard
 * [Spiritual Weapon](./spiritual-weapon.md): Cleric
 * [Spray of Cards](./spray-of-cards.md): Bard, Sorcerer, Warlock, Wizard
 * [Stolen Breath](./stolen-breath.md): Cleric
@@ -897,14 +981,19 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Symbiotic Confidence](./symbiotic-confidence.md): Shaman, Wizard
 * [Tactical Precision](./tactical-precision.md): Artificer, Bard
 * [Tasha's Mind Whip](./tashas-mind-whip.md): Sorcerer, Wizard
+* [Telekinetic Shove](./telekinetic-shove.md): Sorcerer, Warlock, Wizard
+* [Telekinetic Wave](./telekinetic-wave.md): Sorcerer, Warlock, Wizard
 * [Terra Spike](./terra-spike.md): Druid, Sorcerer, Warlock, Wizard
 * [Tether Soul](./tether-soul.md): Cleric, Pale Master, Warlock
 * [Thought Shield](./thought-shield.md): Sorcerer, Warlock, Wizard
 * [Tidy](./tidy.md): Wizard
 * [Touch of the Talontar](./touch-of-the-talontar.md): Cleric
+* [Toxic Ray](./toxic-ray.md): Sorcerer, Wizard
 * [Track](./track.md): Druid, Ranger
+* [Trail Beacon](./trail-beacon.md): Wizard
 * [Twisting Throw](./twisting-throw.md): Artificer, Cleric, Paladin, Ranger
 * [Ubtao's Tiny Teraform](./ubtaos-tiny-teraform.md): Druid, Ranger, Wizard
+* [Unbalancing Rhythm](./unbalancing-rhythm.md): Bard, Cleric, Sorcerer, Wizard
 * [Unluck](./unluck.md): Bard, Cleric, Sorcerer, Wizard
 * [Unpickable Lock](./unpickable-lock.md): Artificer, Bard, Cleric
 * [Unseat Hand](./unseat-hand.md): Pale Master
@@ -914,16 +1003,20 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Voidsight](./voidsight.md): Wizard
 * [Vortex Warp](./vortex-warp.md): Artificer, Sorcerer, Wizard
 * [Wakefulness](./wakefulness.md): Druid, Ranger
+* [Wall Blades](./wall-blades.md): Wizard
+* [Wall Spikes](./wall-spikes.md): Wizard
 * [War Cry](./war-cry.md): Bard, Paladin, Ranger
 * [Warding Bond](./warding-bond.md): Cleric, Paladin, Shaman
 * [Warding Wind](./warding-wind.md): Bard, Druid, Sorcerer, Wizard
 * [Warning Breath](./warning-breath.md): Artificer, Cleric, Druid, Paladin, Ranger
 * [Warp Stone](./warp-stone.md): Artificer, Cleric, Druid, Ranger
+* [Wave Strike](./wave-strike.md): Sorcerer, Warlock, Wizard
 * [Web](./web.md): Artificer, Sorcerer, Wizard
 * [Whip of Flame](./whip-of-flame.md): Artificer, Cleric, Warlock
 * [Whirling Blade](./whirling-blade.md): Artificer, Sorcerer, Wizard
 * [Whispers of Hellfire](./whispers-of-hellfire.md): Warlock
 * [Wieldskill](./wieldskill.md): Artificer, Bard, Cleric, Wizard
+* [Wild Boost](./wild-boost.md): Wizard
 * [Wither and Bloom](./wither-and-bloom.md): Druid, Sorcerer, Wizard
 * [Wolfjaws](./wolfjaws.md): Cleric, Paladin
 * [Wracking Touch](./wracking-touch.md): Cleric, Paladin
@@ -954,6 +1047,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Ancestral Guidance](./ancestral-guidance.md): Druid, Shaman
 * [Animate Dead](./animate-dead.md): Cleric, Pale Master, Wizard
 * [Antagonize](./antagonize.md): Bard, Sorcerer, Warlock, Wizard
+* [Appraiser’s Light](./appraiser’s-light.md): Bard, Cleric, Warlock, Wizard
 * [Arcane Allegro](./arcane-allegro.md): Bard
 * [Arcane Ball Bearings](./arcane-ball-bearings.md): Wizard
 * [Arrow Storm](./arrow-storm.md): Ranger
@@ -961,6 +1055,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Aura of Vitality](./aura-of-vitality.md): Cleric, Druid, Paladin
 * [Bastion of Words](./bastion-of-words.md): Bard, Sorcerer
 * [Battlefield Shuffle](./battlefield-shuffle.md): Artificer, Bard, Cleric, Sorcerer, Warlock, Wizard
+* [Bazanthra’s Bellow](./bazanthra’s-bellow.md): Warlock
 * [Beacon of Hope](./beacon-of-hope.md): Cleric
 * [Bend Time](./bend-time.md): Sorcerer, Wizard
 * [Berserker Curse](./berserker-curse.md): Bard, Cleric, Warlock, Wizard
@@ -980,9 +1075,13 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Boon of Fortune](./boon-of-fortune.md): Cleric, Paladin
 * [Breath of Life](./breath-of-life.md): Wizard
 * [Brittleskin](./brittleskin.md): Cleric, Druid, Paladin, Ranger
+* [Burning Breath](./burning-breath.md): Druid, Sorcerer, Wizard
+* [Cage of Flames](./cage-of-flames.md): Wizard
+* [Cage of Lightning](./cage-of-lightning.md): Wizard
 * [Call Lightning](./call-lightning.md): Druid
 * [Catnap](./catnap.md): Artificer, Bard, Sorcerer, Wizard
 * [Celebration Song](./celebration-song.md): Bard, Warlock
+* [Chaining Palm](./chaining-palm.md): Sorcerer, Warlock, Wizard
 * [Charge](./charge.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
 * [Choose Future](./choose-future.md): Cleric
 * [Circle Dance](./circle-dance.md): Ranger, Sorcerer, Wizard
@@ -993,7 +1092,6 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Cloudburst](./cloudburst.md): Druid
 * [Clutch of Orcus](./clutch-of-orcus.md): Cleric, Warlock
 * [Cobra Strike](./cobra-strike.md): Cleric, Druid
-* [Cold Snap](./cold-snap.md): Druid, Sorcerer, Wizard
 * [Combined Effort](./combined-effort.md): Artificer, Cleric, Paladin, Sorcerer
 * [Comfort Ward](./comfort-ward.md): Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard
 * [Conjure Animals](./conjure-animals.md): Druid, Ranger
@@ -1009,7 +1107,9 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Create Useful Robe Patch](./create-useful-robe-patch.md): Bard, Wizard
 * [Crusader's Mantle](./crusaders-mantle.md): Paladin
 * [Dancing Chains](./dancing-chains.md): Artificer, Sorcerer, Warlock, Wizard
+* [Darkness Blade Arc](./darkness-blade-arc.md): Paladin, Sorcerer, Warlock, Wizard
 * [Daylight](./daylight.md): Cleric, Druid, Paladin, Ranger, Shaman, Sorcerer
+* [Deafening Boom](./deafening-boom.md): Bard, Cleric, Sorcerer, Wizard
 * [Death Sight](./death-sight.md): Sorcerer, Warlock, Wizard
 * [Death Talisman](./death-talisman.md): Artificer, Sorcerer, Warlock, Wizard
 * [Deeper Darkvision](./deeper-darkvision.md): Artificer, Ranger, Sorcerer, Warlock, Wizard
@@ -1056,6 +1156,8 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Freedom of the Waves](./freedom-of-the-waves.md): Druid, Ranger, Sorcerer
 * [Frigid Barrier](./frigid-barrier.md): Cleric, Druid, Ranger, Sorcerer, Wizard
 * [Frost Armor](./frost-armor.md): Druid, Sorcerer, Wizard
+* [Frost Gaol](./frost-gaol.md): Druid, Sorcerer, Warlock, Wizard
+* [Frostball](./frostball.md): Sorcerer, Wizard
 * [G'Elsewhere Chant](./gelsewhere-chant.md): Bard
 * [Galder's Tower](./galders-tower.md): Wizard
 * [Gaseous Form](./gaseous-form.md): Shaman, Sorcerer, Warlock, Wizard
@@ -1114,18 +1216,22 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Lightning Arrow](./lightning-arrow.md): Ranger
 * [Lightning Bolt](./lightning-bolt.md): Sorcerer, Wizard
 * [Lightning Leap](./lightning-leap.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
+* [Lightning Suppression](./lightning-suppression.md): Sorcerer, Warlock, Wizard
 * [Lion's Claws](./lions-claws.md): Druid, Ranger
 * [Locate Animal](./locate-animal.md): Druid, Ranger
 * [Love's Lament](./loves-lament.md): Bard
+* [Luminous Blade Arc](./luminous-blade-arc.md): Paladin, Sorcerer, Warlock, Wizard
 * [Lunacy](./lunacy.md): Bard
 * [Lunar Blessing](./lunar-blessing.md): Cleric, Druid, Pale Master, Ranger, Shaman
 * [Mace of Odo](./mace-of-odo.md): Artificer, Cleric, Paladin
+* [Magic Blade Arc](./magic-blade-arc.md): Paladin, Sorcerer, Warlock, Wizard
 * [Magic Circle](./magic-circle.md): Cleric, Paladin, Shaman, Warlock, Wizard
 * [Magnetism](./magnetism.md): Artificer, Wizard
 * [Major Image](./major-image.md): Bard, Sorcerer, Warlock, Wizard
 * [Maladweomer](./maladweomer.md): Wizard
 * [Marshal's Pursuit](./marshals-pursuit.md): Paladin, Ranger, Wizard
 * [Mass Healing Word](./mass-healing-word.md): Bard, Cleric
+* [Mass Knocking Pulse](./mass-knocking-pulse.md): Sorcerer, Wizard
 * [Mass Shield](./mass-shield.md): Artificer, Bard, Cleric, Paladin, Wizard
 * [Mass Vicious Mockery](./mass-vicious-mockery.md): Bard
 * [Master of the Mind](./master-of-the-mind.md): Cleric, Sorcerer, Warlock, Wizard
@@ -1136,6 +1242,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Minor Creation](./minor-creation.md): Cleric, Wizard
 * [Mirror Weapon](./mirror-weapon.md): Artificer, Bard, Sorcerer, Wizard
 * [Miscast Magic](./miscast-magic.md): Bard, Cleric
+* [Missile Drone](./missile-drone.md): Wizard
 * [Misty Escape](./misty-escape.md): Wizard
 * [Moment Reading](./moment-reading.md): Cleric
 * [Moon Blade](./moon-blade.md): Artificer, Druid, Ranger
@@ -1149,6 +1256,9 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [No More Lies](./no-more-lies.md): Bard, Cleric, Druid, Paladin, Wizard
 * [Nondetection](./nondetection.md): Bard, Ranger, Wizard
 * [Object Sight](./object-sight.md): Wizard
+* [Orb of Elemental Chaos](./orb-of-elemental-chaos.md): Sorcerer, Wizard
+* [Orb of Impact](./orb-of-impact.md): Sorcerer, Warlock, Wizard
+* [Orbital Sentries](./orbital-sentries.md): Sorcerer, Wizard
 * [Otiluke's Acid Cloud](./otilukes-acid-cloud.md): Sorcerer, Warlock, Wizard
 * [Otto's Crystal Rhythms](./ottos-crystal-rhythms.md): Bard, Sorcerer
 * [Petrify](./petrify.md): Druid, Warlock, Wizard
@@ -1178,6 +1288,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Ray of Exhaustion](./ray-of-exhaustion.md): Sorcerer, Warlock, Wizard
 * [Ray of Fatigue](./ray-of-fatigue.md): Sorcerer, Warlock, Wizard
 * [Ray of Reprisal](./ray-of-reprisal.md): Paladin
+* [Reckless Boost](./reckless-boost.md): Bard, Sorcerer, Wizard
 * [Redirect Spell](./redirect-spell.md): Artificer, Bard, Cleric, Paladin, Sorcerer, Wizard
 * [Reflect Elements](./reflect-elements.md): Artificer, Druid, Ranger, Sorcerer, Wizard
 * [Regal Procession](./regal-procession.md): Paladin, Sorcerer, Wizard
@@ -1187,6 +1298,8 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Return](./return.md): Sorcerer, Wizard
 * [Reverse Arrows](./reverse-arrows.md): Artificer, Ranger, Sorcerer, Wizard
 * [Revivify](./revivify.md): Artificer, Cleric, Druid, Paladin, Pale Master, Ranger
+* [Rings of Darkness](./rings-of-darkness.md): Sorcerer, Wizard
+* [Rings of Radiance](./rings-of-radiance.md): Sorcerer, Wizard
 * [Rusting Grasp](./rusting-grasp.md): Wizard
 * [Sacred Ward](./sacred-ward.md): Cleric, Warlock, Wizard
 * [Sand Cloak](./sand-cloak.md): Artificer, Druid, Ranger, Sorcerer
@@ -1203,10 +1316,14 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Shockwave](./shockwave.md): Sorcerer, Wizard
 * [Shroud of Undeath](./shroud-of-undeath.md): Artificer, Bard, Cleric, Sorcerer, Warlock, Wizard
 * [Sign of Sealing](./sign-of-sealing.md): Artificer, Sorcerer, Wizard
+* [Siphon Light](./siphon-light.md): Wizard
 * [Sleep of Horror](./sleep-of-horror.md): Bard, Sorcerer, Warlock, Wizard
 * [Sleet Storm](./sleet-storm.md): Druid, Sorcerer, Wizard
 * [Slow](./slow.md): Bard, Sorcerer, Wizard
+* [Snap of Cold](./snap-of-cold.md): Druid, Sorcerer, Wizard
+* [Song of Mercy](./song-of-mercy.md): Bard
 * [Soulburn](./soulburn.md): Wizard
+* [Sound Circle](./sound-circle.md): Wizard
 * [Speak with Dead](./speak-with-dead.md): Bard, Cleric, Pale Master, Wizard
 * [Speak with Plants](./speak-with-plants.md): Bard, Druid, Ranger
 * [Spectral Steed](./spectral-steed.md): Paladin, Shaman
@@ -1216,6 +1333,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Spirit Guardians](./spirit-guardians.md): Cleric, Shaman
 * [Spirit Shroud](./spirit-shroud.md): Cleric, Paladin, Shaman, Warlock, Wizard
 * [Steady Terrain](./steady-terrain.md): Druid, Ranger
+* [Still Wind](./still-wind.md): Bard, Cleric, Druid, Ranger, Sorcerer, Wizard
 * [Stinking Cloud](./stinking-cloud.md): Bard, Pale Master, Sorcerer, Wizard
 * [Stony Grasp](./stony-grasp.md): Sorcerer, Wizard
 * [Storm Cone](./storm-cone.md): Cleric, Druid, Ranger
@@ -1232,16 +1350,19 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Swift Ward](./swift-ward.md): Artificer, Bard, Cleric, Druid, Paladin, Pale Master, Ranger, Shaman, Sorcerer, Warlock, Wizard
 * [Target of All](./target-of-all.md): Bard, Sorcerer, Warlock, Wizard
 * [Tattoo Projectiles](./tattoo-projectiles.md): Artificer, Bard, Druid, Ranger, Sorcerer, Warlock, Wizard
+* [Telekinetic Burst](./telekinetic-burst.md): Sorcerer, Warlock, Wizard
 * [Tenser's Eye of the Eagle](./tensers-eye-of-the-eagle.md): Sorcerer, Warlock, Wizard
 * [Terra Steed](./terra-steed.md): Druid, Ranger, Sorcerer, Wizard
 * [Thief's Lament](./thiefs-lament.md): Bard, Sorcerer, Warlock, Wizard
 * [Thought Harvest](./thought-harvest.md): Sorcerer, Wizard
 * [Threehorn's Charge](./threehorns-charge.md): Artificer, Druid, Ranger
 * [Thunder Step](./thunder-step.md): Sorcerer, Warlock, Wizard
+* [Thundering Field](./thundering-field.md): Bard, Sorcerer, Wizard
 * [Thunderous Bellow](./thunderous-bellow.md): Bard, Sorcerer
 * [Tidal Wave](./tidal-wave.md): Druid, Wizard
 * [Tiny Servant](./tiny-servant.md): Artificer, Wizard
 * [Tongues](./tongues.md): Bard, Cleric, Pale Master, Sorcerer, Warlock, Wizard
+* [Tornado Blast](./tornado-blast.md): Druid, Sorcerer, Wizard
 * [Toxic Breath](./toxic-breath.md): Sorcerer, Wizard
 * [Tremorsense](./tremorsense.md): Druid, Ranger, Sorcerer, Wizard
 * [Undead Battlemight](./undead-battlemight.md): Cleric, Sorcerer, Warlock, Wizard
@@ -1258,9 +1379,14 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Water Breathing](./water-breathing.md): Artificer, Druid, Pale Master, Ranger, Sorcerer, Wizard
 * [Water Lasso](./water-lasso.md): Wizard
 * [Water Walk](./water-walk.md): Artificer, Cleric, Druid, Ranger, Sorcerer
+* [Wave of Repulsion](./wave-of-repulsion.md): Sorcerer, Warlock, Wizard
+* [Wheel of Fire](./wheel-of-fire.md): Sorcerer, Wizard
+* [Wheel of Lightning](./wheel-of-lightning.md): Sorcerer, Wizard
+* [Wheel of ice](./wheel-of-ice.md): Sorcerer, Wizard
 * [Whip of Pain](./whip-of-pain.md): Artificer, Sorcerer, Warlock, Wizard
 * [Whip of Shar](./whip-of-shar.md): Artificer, Cleric, Sorcerer, Warlock, Wizard
 * [Wind Wall](./wind-wall.md): Druid, Ranger
+* [Wings of Wind](./wings-of-wind.md): Bard, Druid, Sorcerer, Warlock, Wizard
 * [Wyrmling's Vitriol](./wyrmlings-vitriol.md): Bard, Warlock
 * [X-ray Vision](./x-ray-vision.md): Wizard
  
@@ -1298,11 +1424,16 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Boundary](./boundary.md): Bard, Cleric, Wizard
 * [Brainkill](./brainkill.md): Sorcerer, Warlock, Wizard
 * [Breath of the Elements](./breath-of-the-elements.md): Bard, Cleric, Druid
+* [Brilliant Smite](./brilliant-smite.md): Paladin
 * [Brook Healing](./brook-healing.md): Bard, Cleric, Druid, Paladin, Ranger, Shaman
 * [Burning Blood](./burning-blood.md): Sorcerer, Warlock, Wizard
+* [Cage of Black](./cage-of-black.md): Wizard
+* [Cage of Force](./cage-of-force.md): Wizard
+* [Cage of Radiance](./cage-of-radiance.md): Wizard
 * [Call Nightmare](./call-nightmare.md): Cleric, Sorcerer, Warlock, Wizard
 * [Calm Winds](./calm-winds.md): Cleric, Druid, Ranger
 * [Castigating Sanction](./castigating-sanction.md): Cleric, Paladin
+* [Celestial Shard](./celestial-shard.md): Cleric
 * [Chaos Hammer](./chaos-hammer.md): Sorcerer, Warlock, Wizard
 * [Charm Monster](./charm-monster.md): Bard, Druid, Sorcerer, Warlock, Wizard
 * [Circle of Privacy](./circle-of-privacy.md): Artificer, Druid, Ranger
@@ -1319,8 +1450,11 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Create Apparition](./create-apparition.md): Cleric, Pale Master, Warlock, Wizard
 * [Crown of Light](./crown-of-light.md): Bard, Cleric
 * [Curse Blade](./curse-blade.md): Artificer, Cleric, Paladin, Ranger
+* [Cutting Wheel](./cutting-wheel.md): Wizard
 * [Cyclone](./cyclone.md): Druid, Sorcerer, Wizard
 * [Daltim's Flaming Fist](./daltims-flaming-fist.md): Sorcerer, Wizard
+* [Dark Wave](./dark-wave.md): Paladin, Sorcerer
+* [Dark Zone](./dark-zone.md): Sorcerer, Warlock, Wizard
 * [Death Ward](./death-ward.md): Cleric, Paladin
 * [Decelerating Slash](./decelerating-slash.md): Wizard
 * [Deep Gloom](./deep-gloom.md): Bard, Cleric, Sorcerer, Wizard
@@ -1333,6 +1467,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Dominate Beast](./dominate-beast.md): Druid, Ranger, Shaman, Sorcerer
 * [Dragon Breath](./dragon-breath.md): Cleric, Sorcerer, Wizard
 * [Drawmij's Toolbox](./drawmijs-toolbox.md): Artificer, Sorcerer, Wizard
+* [Drilling Beam](./drilling-beam.md): Wizard
 * [Drums of War](./drums-of-war.md): Bard
 * [Dusk Arrows](./dusk-arrows.md): Bard, Cleric, Pale Master, Ranger, Wizard
 * [Ego Whip](./ego-whip.md): Bard, Sorcerer, Warlock, Wizard
@@ -1390,6 +1525,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Hemorrhage](./hemorrhage.md): Cleric, Sorcerer, Warlock, Wizard
 * [Hernan's Hemorrhage](./hernans-hemorrhage.md): Druid, Pale Master, Ranger
 * [Hero's Defiance](./heros-defiance.md): Paladin
+* [Hidden Exploder](./hidden-exploder.md): Wizard
 * [Holy Glare](./holy-glare.md): Cleric, Paladin
 * [Hoodwink](./hoodwink.md): Artificer, Bard, Wizard
 * [Hungering Curse](./hungering-curse.md): Cleric, Druid
@@ -1399,6 +1535,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Ice Storm](./ice-storm.md): Druid, Sorcerer, Wizard
 * [Improved Locate Object](./improved-locate-object.md): Bard, Cleric, Druid, Paladin, Ranger, Wizard
 * [Inspire Terror](./inspire-terror.md): Cleric, Paladin, Pale Master, Warlock, Wizard
+* [Intrusion of Kratoom](./intrusion-of-kratoom.md): Warlock
 * [Jade Clone](./jade-clone.md): Wizard
 * [Jinx](./jinx.md): Bard, Cleric, Warlock, Wizard
 * [Killing Ground](./killing-ground.md): Paladin, Pale Master, Warlock
@@ -1416,11 +1553,14 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Life Bolt](./life-bolt.md): Sorcerer, Warlock, Wizard
 * [Life Spring](./life-spring.md): Artificer, Cleric, Paladin, Ranger
 * [Lifesurge](./lifesurge.md): Artificer, Cleric, Paladin
+* [Lightning Pacification](./lightning-pacification.md): Warlock, Wizard
 * [Locate Creature](./locate-creature.md): Bard, Cleric, Druid, Paladin, Ranger, Wizard
+* [Luminous Wave](./luminous-wave.md): Paladin, Sorcerer
 * [Lungs of Water](./lungs-of-water.md): Sorcerer, Warlock, Wizard
 * [Magma Blade](./magma-blade.md): Artificer, Sorcerer, Warlock, Wizard
 * [Magma Jet](./magma-jet.md): Sorcerer, Warlock, Wizard
 * [Magma Shield](./magma-shield.md): Sorcerer, Warlock, Wizard
+* [Magnetic Singularity](./magnetic-singularity.md): Sorcerer, Wizard
 * [March of Blades](./march-of-blades.md): Bard, Sorcerer, Wizard
 * [Marshal's Resolve](./marshals-resolve.md): Artificer, Paladin, Ranger, Wizard
 * [Mask of Death](./mask-of-death.md): Sorcerer, Warlock, Wizard
@@ -1455,28 +1595,40 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Premonitory Vision](./premonitory-vision.md): Bard, Druid, Ranger, Sorcerer
 * [Prescient Sense](./prescient-sense.md): Bard, Druid, Ranger, Sorcerer, Wizard
 * [Psychic Poison](./psychic-poison.md): Sorcerer, Warlock, Wizard
+* [Punishment Circle](./punishment-circle.md): Wizard
+* [Questing Orb](./questing-orb.md): Sorcerer, Warlock, Wizard
+* [Radiant Ball](./radiant-ball.md): Sorcerer, Wizard
 * [Radiant Shield](./radiant-shield.md): Wizard
 * [Rain of Blood](./rain-of-blood.md): Sorcerer, Warlock, Wizard
 * [Rary's Mnemonic Enhancer](./rarys-mnemonic-enhancer.md): Artificer, Wizard
 * [Raulothim's Psychic Lance](./raulothims-psychic-lance.md): Bard, Sorcerer, Warlock, Wizard
 * [Raze](./raze.md): Sorcerer, Wizard
+* [Revealing Light](./revealing-light.md): Bard, Cleric, Warlock, Wizard
 * [Rusting Burst](./rusting-burst.md): Wizard
 * [Sacred Strike](./sacred-strike.md): Cleric
+* [Searching Ray](./searching-ray.md): Sorcerer, Wizard
 * [Seed of Fire](./seed-of-fire.md): Artificer, Sorcerer, Warlock, Wizard
 * [Seek Eternal Rest](./seek-eternal-rest.md): Cleric, Paladin
+* [Selective Flash](./selective-flash.md): Cleric, Sorcerer, Warlock, Wizard
 * [Sensory Deprivation](./sensory-deprivation.md): Sorcerer, Warlock, Wizard
 * [Serenity of Stone](./serenity-of-stone.md): Artificer, Druid, Paladin, Ranger
 * [Serpent Arrows](./serpent-arrows.md): Artificer, Druid, Ranger, Warlock, Wizard
 * [Serten's Spell Immunity](./sertens-spell-immunity.md): Sorcerer, Wizard
+* [Shadow Ball](./shadow-ball.md): Sorcerer, Wizard
 * [Shadow Monsters](./shadow-monsters.md): Sorcerer, Warlock, Wizard
 * [Shadow of Moil](./shadow-of-moil.md): Pale Master, Warlock
+* [Shattering Smite](./shattering-smite.md): Paladin
+* [Shining Beacon](./shining-beacon.md): Cleric, Paladin
 * [Shout of Deafening Thunder](./shout-of-deafening-thunder.md): Bard, Sorcerer, Wizard
 * [Sickening Radiance](./sickening-radiance.md): Sorcerer, Warlock, Wizard
 * [Sinsabur's Baleful Bolt](./sinsaburs-baleful-bolt.md): Sorcerer, Warlock, Wizard
 * [Sinuous Horrors](./sinuous-horrors.md): Warlock
+* [Sliding Frost](./sliding-frost.md): Druid, Sorcerer, Wizard
+* [Song of Light and Shadow](./song-of-light-and-shadow.md): Bard
 * [Spark of Life](./spark-of-life.md): Cleric, Druid
 * [Spirit of Death](./spirit-of-death.md): Shaman, Sorcerer, Warlock, Wizard
 * [Staggering Smite](./staggering-smite.md): Paladin
+* [Stairs of Ice](./stairs-of-ice.md): Sorcerer, Wizard
 * [Steam Strike](./steam-strike.md): Druid, Sorcerer, Wizard
 * [Sticks to Snakes](./sticks-to-snakes.md): Druid, Ranger
 * [Stockade Sprouts](./stockade-sprouts.md): Druid, Ranger, Sorcerer, Wizard
@@ -1492,8 +1644,10 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Sunbolt](./sunbolt.md): Sorcerer, Warlock, Wizard
 * [Suppress Lycanthropy](./suppress-lycanthropy.md): Druid, Ranger
 * [Swordshun](./swordshun.md): Artificer, Cleric, Paladin
+* [Temperature Zone](./temperature-zone.md): Bard, Cleric, Druid, Sorcerer, Wizard
 * [Temporal Push](./temporal-push.md): Sorcerer, Warlock, Wizard
 * [Tenser's Masters of Arms](./tensers-masters-of-arms.md): Artificer, Sorcerer, Warlock, Wizard
+* [Thunder Stomp](./thunder-stomp.md): Bard, Cleric, Sorcerer, Wizard
 * [Thunderlance](./thunderlance.md): Sorcerer, Wizard
 * [Thunderous Reprisal](./thunderous-reprisal.md): Artificer, Bard, Cleric, Druid, Sorcerer, Wizard
 * [Torm's Safeguard](./torms-safeguard.md): Cleric, Paladin
@@ -1501,6 +1655,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Treasure Scent](./treasure-scent.md): Artificer, Bard
 * [Turn Pebble to Boulder](./turn-pebble-to-boulder.md): Sorcerer, Warlock, Wizard
 * [Twist Fate](./twist-fate.md): Bard, Wizard
+* [Ultrasonic Pulse](./ultrasonic-pulse.md): Bard, Druid, Sorcerer, Wizard
 * [Unshakable Bond](./unshakable-bond.md): Bard, Sorcerer, Wizard
 * [Utter Immolation](./utter-immolation.md): Cleric, Druid, Ranger, Sorcerer, Wizard
 * [Vacillate](./vacillate.md): Bard, Cleric, Paladin, Pale Master
@@ -1514,14 +1669,19 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Watchware](./watchware.md): Artificer, Bard, Wizard
 * [Watery Sphere](./watery-sphere.md): Druid, Sorcerer, Wizard
 * [Wax](./wax.md): Wizard
+* [Wheel of Darkness](./wheel-of-darkness.md): Wizard
+* [Wheel of Force](./wheel-of-force.md): Sorcerer, Wizard
+* [Wheel of Radiance](./wheel-of-radiance.md): Sorcerer, Wizard
 * [Widogast's Vault of Amber](./widogasts-vault-of-amber.md): Wizard
 * [Widogast's Web of Fire](./widogasts-web-of-fire.md): Wizard
 * [Wind Funnel](./wind-funnel.md): Artificer, Druid, Ranger, Sorcerer, Warlock, Wizard
 * [Wind at Back](./wind-at-back.md): Druid, Ranger
+* [Winterfloor](./winterfloor.md): Bard, Druid, Sorcerer, Wizard
 * [Word of Chaos](./word-of-chaos.md): Sorcerer, Warlock, Wizard
 * [Word of Law](./word-of-law.md): Sorcerer, Warlock, Wizard
 * [Wrack](./wrack.md): Cleric, Sorcerer, Wizard
 * [Zala's Amberhelm](./zalas-amberhelm.md): Artificer, Cleric, Paladin
+* [Zone of Sonic Amplification](./zone-of-sonic-amplification.md): Bard, Wizard
  
 ## 5th-Level Spells
 * [Accelerate Metabolism](./accelerate-metabolism.md): Artificer, Cleric, Ranger
@@ -1544,6 +1704,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Azure Flame](./azure-flame.md): Sorcerer, Wizard
 * [Azuth's Exalted Triad](./azuths-exalted-triad.md): Cleric, Wizard
 * [Ball Lightning](./ball-lightning.md): Sorcerer, Wizard
+* [Banishing Ray](./banishing-ray.md): Sorcerer, Wizard
 * [Banishing Smite](./banishing-smite.md): Paladin
 * [Banshee's Grievance](./banshees-grievance.md): Bard, Pale Master
 * [Barrier of Retention](./barrier-of-retention.md): Sorcerer, Warlock, Wizard
@@ -1558,11 +1719,15 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Blood of the Martyr](./blood-of-the-martyr.md): Paladin
 * [Body Harmonic](./body-harmonic.md): Bard
 * [Bolts of Bedevilment](./bolts-of-bedevilment.md): Sorcerer, Warlock, Wizard
+* [Branding Smite](./branding-smite.md): Paladin
+* [Bridge of Ice](./bridge-of-ice.md): Sorcerer, Wizard
 * [Burrow](./burrow.md): Artificer, Druid, Ranger, Sorcerer, Wizard
 * [Cacophonic Burst](./cacophonic-burst.md): Bard
 * [Cacophonic Shield](./cacophonic-shield.md): Bard
 * [Caging Glaive](./caging-glaive.md): Artificer, Cleric, Paladin, Warlock, Wizard
 * [Call Forth the Beast](./call-forth-the-beast.md): Cleric, Druid, Warlock
+* [Cathexis](./cathexis.md): Wizard
+* [Chains of Force](./chains-of-force.md): Cleric, Wizard
 * [Champion's Strength](./champions-strength.md): Artificer, Cleric, Paladin
 * [Chaotic Wellspring](./chaotic-wellspring.md): Sorcerer
 * [Charnel Fire](./charnel-fire.md): Sorcerer, Warlock, Wizard
@@ -1576,6 +1741,8 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Comet Strike](./comet-strike.md): Cleric, Druid, Ranger, Sorcerer, Wizard
 * [Commune](./commune.md): Cleric
 * [Commune with Nature](./commune-with-nature.md): Druid, Ranger
+* [Concussive Fireball](./concussive-fireball.md): Sorcerer, Wizard
+* [Concussive Frostball](./concussive-frostball.md): Sorcerer, Wizard
 * [Conduit](./conduit.md): Artificer, Bard, Sorcerer, Wizard
 * [Cone of Cold](./cone-of-cold.md): Druid, Sorcerer, Wizard
 * [Conjure Elemental](./conjure-elemental.md): Druid, Wizard
@@ -1592,15 +1759,18 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Danse Macabre](./danse-macabre.md): Pale Master, Warlock, Wizard
 * [Darkbolt](./darkbolt.md): Sorcerer, Warlock, Wizard
 * [Dawn](./dawn.md): Cleric, Wizard
+* [Day Sphere](./day-sphere.md): Bard, Cleric, Sorcerer, Wizard
 * [Dead Magic Shield](./dead-magic-shield.md): Cleric, Paladin
 * [Death Throes](./death-throes.md): Sorcerer, Warlock, Wizard
 * [Defile](./defile.md): Druid, Pale Master, Sorcerer, Warlock, Wizard
 * [Demand Obedience](./demand-obedience.md): Bard, Cleric, Paladin, Sorcerer
+* [Destructive Force Arrow](./destructive-force-arrow.md): Ranger, Sorcerer, Warlock, Wizard
 * [Destructive Wave](./destructive-wave.md): Paladin
 * [Detect Souls](./detect-souls.md): Bard, Cleric, Paladin, Ranger, Warlock, Wizard
 * [Dinosaur Stampede](./dinosaur-stampede.md): Druid
 * [Dispel Evil and Good](./dispel-evil-and-good.md): Cleric, Paladin
 * [Divine Armor](./divine-armor.md): Cleric, Paladin
+* [Divine Bolt](./divine-bolt.md): Cleric
 * [Dominate Person](./dominate-person.md): Bard, Sorcerer, Wizard
 * [Doomtide](./doomtide.md): Bard, Cleric, Warlock
 * [Draconic Might](./draconic-might.md): Artificer, Paladin, Sorcerer, Wizard
@@ -1627,6 +1797,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Freedom of the Winds](./freedom-of-the-winds.md): Druid, Ranger, Sorcerer
 * [Frost Nova](./frost-nova.md): Sorcerer, Wizard
 * [Geas](./geas.md): Bard, Cleric, Druid, Paladin, Wizard
+* [Glacial Wave](./glacial-wave.md): Druid, Sorcerer, Wizard
 * [Grave Soil](./grave-soil.md): Cleric, Druid, Sorcerer, Warlock, Wizard
 * [Greater Restoration](./greater-restoration.md): Artificer, Bard, Cleric, Druid, Ranger
 * [Greater Water to Poison](./greater-water-to-poison.md): Artificer, Bard, Druid, Ranger, Sorcerer, Warlock, Wizard
@@ -1640,6 +1811,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Hellfire](./hellfire.md): Sorcerer, Warlock, Wizard
 * [Hidden Lodge](./hidden-lodge.md): Artificer, Bard, Sorcerer, Wizard
 * [Hold Monster](./hold-monster.md): Bard, Shaman, Sorcerer, Warlock, Wizard
+* [Holy Beacon](./holy-beacon.md): Cleric
 * [Holy Weapon](./holy-weapon.md): Cleric, Paladin
 * [Hornet Shot](./hornet-shot.md): Artificer, Druid, Ranger, Warlock, Wizard
 * [Hunter's Arrow](./hunters-arrow.md): Ranger
@@ -1695,12 +1867,19 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Paralyzing Smite](./paralyzing-smite.md): Paladin
 * [Passwall](./passwall.md): Wizard
 * [Phantasmal Plunge](./phantasmal-plunge.md): Bard, Sorcerer, Warlock, Wizard
+* [Pillar of Chill](./pillar-of-chill.md): Sorcerer, Wizard
+* [Pillar of Corrosion](./pillar-of-corrosion.md): Sorcerer, Wizard
+* [Pillar of Heat](./pillar-of-heat.md): Sorcerer, Wizard
+* [Pillar of Shock](./pillar-of-shock.md): Sorcerer, Wizard
+* [Pillar of Toxicity](./pillar-of-toxicity.md): Sorcerer, Wizard
 * [Planar Binding](./planar-binding.md): Bard, Cleric, Druid, Warlock, Wizard
 * [Plunge](./plunge.md): Bard, Sorcerer, Warlock, Wizard
 * [Pocket Cave](./pocket-cave.md): Artificer, Cleric, Druid, Warlock, Wizard
+* [Prayer Circle](./prayer-circle.md): Cleric, Paladin
 * [Pride of the Wild](./pride-of-the-wild.md): Druid, Ranger
 * [Prismatic Cloud](./prismatic-cloud.md): Wizard
 * [Prismatic Ray](./prismatic-ray.md): Wizard
+* [Prismatic Surge](./prismatic-surge.md): Sorcerer, Wizard
 * [Pulsar Shield](./pulsar-shield.md): Wizard
 * [Purifying Flame](./purifying-flame.md): Cleric, Druid, Ranger, Sorcerer, Wizard
 * [Quill Blast](./quill-blast.md): Druid, Ranger
@@ -1728,6 +1907,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Shining Armor](./shining-armor.md): Cleric, Paladin, Wizard
 * [Sinking Maw](./sinking-maw.md): Druid, Sorcerer, Wizard
 * [Skill Empowerment](./skill-empowerment.md): Artificer, Bard, Sorcerer, Wizard
+* [Sky Show](./sky-show.md): Bard, Wizard
 * [Slaying Arrow](./slaying-arrow.md): Artificer, Druid, Ranger
 * [Sleeper Awakens](./sleeper-awakens.md): Ranger, Sorcerer, Wizard
 * [Snow Snakes](./snow-snakes.md): Cleric, Druid, Ranger
@@ -1737,6 +1917,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Spectral Calling](./spectral-calling.md): Cleric, Pale Master, Warlock, Wizard
 * [Spell Resistance](./spell-resistance.md): Artificer, Cleric, Paladin
 * [Spidersilk Slash](./spidersilk-slash.md): Artificer, Ranger, Warlock
+* [Stairs of Force](./stairs-of-force.md): Bard, Sorcerer, Wizard
 * [Stalwart Pact](./stalwart-pact.md): Artificer, Cleric
 * [Stampede of Savagery](./stampede-of-savagery.md): Druid, Ranger
 * [Steel Wind Strike](./steel-wind-strike.md): Ranger, Wizard
@@ -1772,11 +1953,13 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Vehement Inquiry](./vehement-inquiry.md): Bard, Paladin, Warlock
 * [Vengeance of Talos](./vengeance-of-talos.md): Druid, Ranger, Sorcerer, Wizard
 * [Wall](./wall.md): Sorcerer, Wizard
+* [Wall of Darkness](./wall-of-darkness.md): Sorcerer, Warlock, Wizard
 * [Wall of Force](./wall-of-force.md): Wizard
 * [Wall of Light](./wall-of-light.md): Sorcerer, Warlock, Wizard
 * [Wall of Stone](./wall-of-stone.md): Artificer, Druid, Sorcerer, Wizard
 * [Water to Acid](./water-to-acid.md): Artificer, Druid, Warlock, Wizard
 * [Water to Poison](./water-to-poison.md): Artificer, Sorcerer, Warlock, Wizard
+* [Wave of Flames](./wave-of-flames.md): Druid, Sorcerer, Wizard
 * [Wave of Obliteration](./wave-of-obliteration.md): Cleric, Sorcerer, Warlock, Wizard
 * [Weaken Ability](./weaken-ability.md): Artificer, Sorcerer, Warlock, Wizard
 * [Whip of Woe](./whip-of-woe.md): Artificer, Cleric
@@ -1786,6 +1969,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Xorn Movement](./xorn-movement.md): Druid, Wizard
  
 ## 6th-Level Spells
+* [Abi-Dalzim's Antimagic Ray](./abi-dalzims-antimagic-ray.md): Sorcerer, Wizard
 * [Ability Rip](./ability-rip.md): Sorcerer, Warlock, Wizard
 * [Acid Fog](./acid-fog.md): Sorcerer, Wizard
 * [Acid Storm](./acid-storm.md): Sorcerer, Wizard
@@ -1794,8 +1978,10 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Anger of the Noonday Sun](./anger-of-the-noonday-sun.md): Druid
 * [Animate Blood](./animate-blood.md): Pale Master, Sorcerer, Warlock, Wizard
 * [Annihilation Disk](./annihilation-disk.md): Sorcerer, Wizard
+* [Antimagic Strike](./antimagic-strike.md): Sorcerer, Wizard
 * [Apocalypse](./apocalypse.md): Sorcerer, Wizard
 * [Arcane Gate](./arcane-gate.md): Sorcerer, Warlock, Wizard
+* [Attractive Singularity](./attractive-singularity.md): Sorcerer, Wizard
 * [Aura of Terror](./aura-of-terror.md): Cleric, Warlock
 * [Awaken Undead](./awaken-undead.md): Pale Master, Sorcerer, Warlock, Wizard
 * [Azuth's Alteration Mantle](./azuths-alteration-mantle.md): Cleric, Sorcerer, Wizard
@@ -1813,9 +1999,13 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Bones of the Earth](./bones-of-the-earth.md): Druid, Shaman
 * [Borrowed Time](./borrowed-time.md): Bard, Cleric, Sorcerer, Warlock, Wizard
 * [Bound into Obedience](./bound-into-obedience.md): Bard, Pale Master, Sorcerer, Warlock, Wizard
+* [Bridge of Force](./bridge-of-force.md): Bard, Sorcerer, Wizard
+* [Brightfield](./brightfield.md): Bard, Cleric, Wizard
+* [Burning Chains](./burning-chains.md): Cleric, Wizard
 * [Capacitor Box](./capacitor-box.md): Sorcerer, Warlock, Wizard
 * [Chain Lightning](./chain-lightning.md): Shaman, Sorcerer, Wizard
 * [Chain Madness](./chain-madness.md): Bard, Cleric
+* [Chilling Chains](./chilling-chains.md): Cleric, Wizard
 * [Circle of Death](./circle-of-death.md): Pale Master, Sorcerer, Warlock, Wizard
 * [Claws of the Umber Hulk](./claws-of-the-umber-hulk.md): Sorcerer, Wizard
 * [Cloudwalkers](./cloudwalkers.md): Druid
@@ -1830,6 +2020,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Curse of the Everbleeding Wounds](./curse-of-the-everbleeding-wounds.md): Cleric
 * [Dark Lagoon](./dark-lagoon.md): Druid, Sorcerer, Warlock, Wizard
 * [Death Spell](./death-spell.md): Sorcerer, Wizard
+* [Decapitating Disc](./decapitating-disc.md): Sorcerer, Wizard
 * [Deep Freeze](./deep-freeze.md): Cleric, Druid, Sorcerer, Wizard
 * [Dirge of Ruin](./dirge-of-ruin.md): Bard
 * [Disintegrate](./disintegrate.md): Pale Master, Sorcerer, Wizard
@@ -1853,6 +2044,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Force of Nature](./force-of-nature.md): Druid
 * [Fractal Armament](./fractal-armament.md): Bard, Sorcerer, Wizard
 * [Freezing Ray](./freezing-ray.md): Druid
+* [Frost Beam](./frost-beam.md): Sorcerer, Wizard
 * [Gate Walk](./gate-walk.md): Wizard
 * [Gemjump](./gemjump.md): Sorcerer, Warlock, Wizard
 * [Globe of Invulnerability](./globe-of-invulnerability.md): Sorcerer, Wizard
@@ -1862,6 +2054,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Gravity Fissure](./gravity-fissure.md): Wizard
 * [Greater Darkness](./greater-darkness.md): Wizard
 * [Greater Fire Trap](./greater-fire-trap.md): Wizard
+* [Greater Lingering Shock](./greater-lingering-shock.md): Cleric, Druid, Sorcerer, Wizard
 * [Greater Sign of Sealing](./greater-sign-of-sealing.md): Sorcerer, Wizard
 * [Grimlore's Aphotic Armor](./grimlores-aphotic-armor.md): Pale Master, Sorcerer, Warlock, Wizard
 * [Guards and Wards](./guards-and-wards.md): Bard, Wizard
@@ -1870,6 +2063,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Heal](./heal.md): Cleric, Druid
 * [Heartseeker](./heartseeker.md): Bard
 * [Hell's Own Blade](./hells-own-blade.md): Warlock, Wizard
+* [Hellfire Blast](./hellfire-blast.md): Sorcerer, Warlock, Wizard
 * [Heroes' Feast](./heroes-feast.md): Bard, Cleric, Druid, Shaman
 * [Hide the Path](./hide-the-path.md): Cleric, Druid
 * [Hoar's Revenance](./hoars-revenance.md): Cleric, Warlock
@@ -1886,7 +2080,6 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Investiture of Wind](./investiture-of-wind.md): Druid, Sorcerer, Warlock, Wizard
 * [Javelin of Retribution](./javelin-of-retribution.md): Sorcerer, Wizard
 * [Kossuth's Burning Mark](./kossuths-burning-mark.md): Sorcerer, Wizard
-* [Lingering Shock](./lingering-shock.md): Cleric, Druid, Sorcerer, Wizard
 * [Lingering Vitality](./lingering-vitality.md): Bard, Cleric, Druid
 * [Liquefy](./liquefy.md): Sorcerer, Wizard
 * [Lorloveim's Shadowy Transformation](./lorloveims-shadowy-transformation.md): Bard, Sorcerer, Wizard
@@ -1901,6 +2094,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Move Earth](./move-earth.md): Druid, Shaman, Sorcerer, Wizard
 * [Multi-Lock](./multi-lock.md): Sorcerer, Wizard
 * [Myrkul's Power](./myrkuls-power.md): Cleric, Pale Master, Warlock, Wizard
+* [Nature’s Mist](./nature’s-mist.md): Bard, Druid
 * [Note of Aggression](./note-of-aggression.md): Bard
 * [Open the Floodgates](./open-the-floodgates.md): Bard, Sorcerer
 * [Opportune Lacuna](./opportune-lacuna.md): Bard, Sorcerer, Wizard
@@ -1914,6 +2108,9 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Overwhelming Revelations](./overwhelming-revelations.md): Bard, Cleric
 * [Peer Through Flames](./peer-through-flames.md): Cleric, Druid, Sorcerer, Wizard
 * [Permafrost](./permafrost.md): Sorcerer, Wizard
+* [Petrifying Ray](./petrifying-ray.md): Sorcerer, Wizard
+* [Pillar of Darkness](./pillar-of-darkness.md): Cleric, Sorcerer, Wizard
+* [Pillar of Radiance](./pillar-of-radiance.md): Cleric, Sorcerer, Wizard
 * [Planar Ally](./planar-ally.md): Cleric
 * [Platinum Shield](./platinum-shield.md): Sorcerer, Wizard
 * [Polluting Sludge](./polluting-sludge.md): Druid, Sorcerer, Warlock, Wizard
@@ -1928,12 +2125,17 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Rampart of Dispel Magic](./rampart-of-dispel-magic.md): Bard, Cleric, Sorcerer, Wizard
 * [Ray of Entropy](./ray-of-entropy.md): Sorcerer, Warlock, Wizard
 * [Read Object](./read-object.md): Bard, Sorcerer, Wizard
+* [Repulsive Singularity](./repulsive-singularity.md): Sorcerer, Wizard
 * [Rizzak's Ravenous Starvation](./rizzaks-ravenous-starvation.md): Druid, Sorcerer, Warlock, Wizard
+* [Roaring Missile](./roaring-missile.md): Sorcerer, Wizard
 * [Rust Field](./rust-field.md): Wizard
 * [Sand Blade](./sand-blade.md): Cleric, Druid
 * [Scatter](./scatter.md): Sorcerer, Warlock, Wizard
 * [Seismic Jaws](./seismic-jaws.md): Druid, Sorcerer, Wizard
 * [Shelter from Energy](./shelter-from-energy.md): Cleric, Druid, Sorcerer, Wizard
+* [Shocking Chains](./shocking-chains.md): Cleric, Wizard
+* [Song of Ice and Fire](./song-of-ice-and-fire.md): Bard
+* [Song of Thunder and Lightning](./song-of-thunder-and-lightning.md): Bard
 * [Soul Blade](./soul-blade.md): Cleric, Sorcerer, Warlock, Wizard
 * [Soul Cage](./soul-cage.md): Pale Master, Warlock, Wizard
 * [Soulblade](./soulblade.md): Cleric, Sorcerer, Warlock, Wizard
@@ -1945,6 +2147,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Star Step](./star-step.md): Sorcerer, Warlock, Wizard
 * [Stone Body](./stone-body.md): Cleric, Druid, Sorcerer, Wizard
 * [Stone Tell](./stone-tell.md): Druid
+* [Storm of Petals](./storm-of-petals.md): Sorcerer, Wizard
 * [Summon Fiend](./summon-fiend.md): Warlock, Wizard
 * [Sunbeam](./sunbeam.md): Cleric, Druid, Shaman, Sorcerer, Wizard
 * [Superior Resistance](./superior-resistance.md): Bard, Cleric, Druid, Sorcerer, Wizard
@@ -1954,6 +2157,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Tenser's Transformation](./tensers-transformation.md): Wizard
 * [Tentacular Transformation](./tentacular-transformation.md): Sorcerer, Warlock, Wizard
 * [The Doom of Bane](./the-doom-of-bane.md): Cleric
+* [Thermal Reversal](./thermal-reversal.md): Bard, Sorcerer, Wizard
 * [Thunder Riposte](./thunder-riposte.md): Cleric, Warlock
 * [Tortoise Shell](./tortoise-shell.md): Druid
 * [Trailblazer](./trailblazer.md): Sorcerer, Warlock, Wizard
@@ -1961,6 +2165,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Trollish Fortitude](./trollish-fortitude.md): Druid
 * [True Seeing](./true-seeing.md): Bard, Cleric, Pale Master, Shaman, Sorcerer, Warlock, Wizard
 * [Unleash Instincts](./unleash-instincts.md): Druid, Sorcerer, Warlock, Wizard
+* [Unraveling Strike](./unraveling-strike.md): Cleric, Sorcerer, Warlock, Wizard
 * [Vampiric Lash](./vampiric-lash.md): Sorcerer, Warlock, Wizard
 * [Vampiric Mists](./vampiric-mists.md): Sorcerer, Warlock, Wizard
 * [Volcanic Rage](./volcanic-rage.md): Cleric, Druid, Warlock
@@ -1983,6 +2188,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Avasculate](./avasculate.md): Pale Master, Sorcerer, Warlock, Wizard
 * [Beluud's bile blossom](./beluuds-bile-blossom.md): Sorcerer, Wizard
 * [Blood to Water](./blood-to-water.md): Cleric, Warlock
+* [Blossom Deluge](./blossom-deluge.md): Sorcerer, Wizard
 * [Bone Javelin](./bone-javelin.md): Shaman, Warlock
 * [Brilliant Blade](./brilliant-blade.md): Druid, Sorcerer, Wizard
 * [Changestaff](./changestaff.md): Druid
@@ -1999,6 +2205,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Death Dragon](./death-dragon.md): Cleric, Warlock
 * [Death's Door](./deaths-door.md): Cleric, Sorcerer, Warlock, Wizard
 * [Delayed Blast Fireball](./delayed-blast-fireball.md): Sorcerer, Wizard
+* [Delayed Blast Frostball](./delayed-blast-frostball.md): Sorcerer, Wizard
 * [Dire Jinx](./dire-jinx.md): Bard, Cleric, Warlock, Wizard
 * [Divine Word](./divine-word.md): Cleric
 * [Draconic Transformation](./draconic-transformation.md): Druid, Sorcerer, Wizard
@@ -2010,8 +2217,10 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Evil Glare](./evil-glare.md): Sorcerer, Warlock, Wizard
 * [Explosive Rift](./explosive-rift.md): Sorcerer, Wizard
 * [Eyes of the Mage](./eyes-of-the-mage.md): Bard, Sorcerer, Warlock, Wizard
+* [Far Song](./far-song.md): Bard
 * [Finger of Death](./finger-of-death.md): Pale Master, Sorcerer, Warlock, Wizard
 * [Fire Storm](./fire-storm.md): Cleric, Druid, Sorcerer
+* [Flash Freeze](./flash-freeze.md): Sorcerer, Wizard
 * [Forcecage](./forcecage.md): Bard, Pale Master, Warlock, Wizard
 * [Glasya's Stride](./glasyas-stride.md): Warlock
 * [Globe of Winter](./globe-of-winter.md): Druid, Sorcerer, Warlock, Wizard
@@ -2031,6 +2240,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Kelemvor's Irradiating Beam](./kelemvors-irradiating-beam.md): Cleric, Wizard
 * [Kiss of the Vampire](./kiss-of-the-vampire.md): Sorcerer, Warlock, Wizard
 * [Light to Shadow](./light-to-shadow.md): Sorcerer, Wizard
+* [Lightning Judgement](./lightning-judgement.md): Sorcerer, Wizard
 * [Living Burial](./living-burial.md): Druid, Sorcerer, Warlock, Wizard
 * [Malady](./malady.md): Cleric, Druid, Sorcerer, Warlock, Wizard
 * [Malraz's Dramatic Death](./malrazs-dramatic-death.md): Bard
@@ -2051,6 +2261,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Otiluke's Siege Sphere](./otilukes-siege-sphere.md): Sorcerer, Warlock, Wizard
 * [Overwhelm Emotions](./overwhelm-emotions.md): Bard, Sorcerer, Warlock, Wizard
 * [Paralyzing Field](./paralyzing-field.md): Bard
+* [Pillar of Banishment](./pillar-of-banishment.md): Sorcerer, Wizard
 * [Plane Shift](./plane-shift.md): Cleric, Druid, Shaman, Sorcerer, Warlock, Wizard
 * [Poison Fang](./poison-fang.md): Druid, Sorcerer, Warlock, Wizard
 * [Power Word Pain](./power-word-pain.md): Sorcerer, Warlock, Wizard
@@ -2060,6 +2271,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Project Image](./project-image.md): Bard, Wizard
 * [Pulse Cannon](./pulse-cannon.md): Cleric, Druid, Sorcerer, Wizard
 * [Radiant Assault](./radiant-assault.md): Cleric, Sorcerer, Wizard
+* [Radical Beam](./radical-beam.md): Sorcerer, Wizard
 * [Refuge Talisman](./refuge-talisman.md): Cleric, Sorcerer, Wizard
 * [Regenerate](./regenerate.md): Bard, Cleric, Druid, Shaman
 * [Rescue the Dying](./rescue-the-dying.md): Cleric, Druid
@@ -2077,6 +2289,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Slime Wave](./slime-wave.md): Druid
 * [Spellsteal](./spellsteal.md): Wizard
 * [Sphere of Adaptation](./sphere-of-adaptation.md): Cleric, Druid, Sorcerer, Wizard
+* [Starlight Storm](./starlight-storm.md): Sorcerer, Wizard
 * [Stone Spiders](./stone-spiders.md): Druid, Sorcerer, Wizard
 * [Storm God's Haste](./storm-gods-haste.md): Sorcerer, Wizard
 * [Storm Spear](./storm-spear.md): Sorcerer, Wizard
@@ -2092,6 +2305,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Teleport](./teleport.md): Bard, Sorcerer, Wizard
 * [Temple of the Gods](./temple-of-the-gods.md): Cleric
 * [Tether Essence](./tether-essence.md): Wizard
+* [Thermal Equilibrium](./thermal-equilibrium.md): Bard, Cleric, Druid, Sorcerer, Wizard
 * [Thundercrash Cannon](./thundercrash-cannon.md): Sorcerer, Wizard
 * [Undeath to Death](./undeath-to-death.md): Cleric, Sorcerer, Wizard
 * [Vigorous Circle](./vigorous-circle.md): Cleric, Druid
@@ -2128,6 +2342,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Brand of Fire](./brand-of-fire.md): Cleric, Druid, Sorcerer
 * [Brilliant Aura](./brilliant-aura.md): Cleric, Druid, Sorcerer, Wizard
 * [Burn Path](./burn-path.md): Sorcerer, Warlock, Wizard
+* [Cacophony of Thunder](./cacophony-of-thunder.md): Bard, Sorcerer, Wizard
 * [Chalice of the Night](./chalice-of-the-night.md): Pale Master, Warlock, Wizard
 * [Clone](./clone.md): Pale Master, Wizard
 * [Conjure Dragon](./conjure-dragon.md): Cleric
@@ -2147,12 +2362,14 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Electric Interdiction](./electric-interdiction.md): Sorcerer, Wizard
 * [Elemental Meteor](./elemental-meteor.md): Wizard
 * [Encasing Ice](./encasing-ice.md): Druid, Sorcerer, Warlock, Wizard
+* [Erupting Flames](./erupting-flames.md): Sorcerer, Wizard
 * [Feeblemind](./feeblemind.md): Bard, Druid, Pale Master, Warlock, Wizard
 * [Fist of Flame](./fist-of-flame.md): Sorcerer, Wizard
 * [Flaring Weapon](./flaring-weapon.md): Wizard
 * [Flensing](./flensing.md): Sorcerer, Wizard
 * [Gateway](./gateway.md): Sorcerer, Warlock, Wizard
 * [General of Undeath](./general-of-undeath.md): Cleric
+* [Glacial Construction](./glacial-construction.md): Sorcerer, Wizard
 * [Glibness](./glibness.md): Bard, Druid, Warlock, Wizard
 * [Golem Armor](./golem-armor.md): Sorcerer, Warlock, Wizard
 * [Great Shout](./great-shout.md): Bard
@@ -2173,20 +2390,25 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Laeral's Invisible Blade](./laerals-invisible-blade.md): Bard, Sorcerer, Wizard
 * [Lasting Breath](./lasting-breath.md): Sorcerer, Wizard
 * [Levitate Landscape](./levitate-landscape.md): Wizard
+* [Lightning Shower](./lightning-shower.md): Sorcerer, Wizard
 * [Lightning Tether](./lightning-tether.md): Cleric, Druid, Sorcerer, Wizard
 * [Maddening Darkness](./maddening-darkness.md): Warlock, Wizard
 * [Mass Awaken](./mass-awaken.md): Druid
 * [Mass Death Ward](./mass-death-ward.md): Cleric
 * [Mass Fire Shield](./mass-fire-shield.md): Sorcerer, Wizard
+* [Mass Immolation](./mass-immolation.md): Sorcerer, Wizard
 * [Maze](./maze.md): Wizard
 * [Mighty Fortress](./mighty-fortress.md): Wizard
 * [Mind Blank](./mind-blank.md): Bard, Pale Master, Wizard
 * [Mind Bomb](./mind-bomb.md): Wizard
 * [Necrotic Web](./necrotic-web.md): Sorcerer, Warlock, Wizard
 * [Otiluke's Telekinetic Sphere](./otilukes-telekinetic-sphere.md): Sorcerer, Wizard
+* [Oversurge](./oversurge.md): Sorcerer, Wizard
+* [Pillar of Petrification](./pillar-of-petrification.md): Sorcerer, Wizard
 * [Polar Ray](./polar-ray.md): Sorcerer, Wizard
 * [Power Word Stun](./power-word-stun.md): Bard, Pale Master, Sorcerer, Warlock, Wizard
 * [Prismal's Wormhole](./prismals-wormhole.md): Bard, Sorcerer, Wizard
+* [Prismatic Orb](./prismatic-orb.md): Sorcerer, Wizard
 * [Pummeling Drumbeat](./pummeling-drumbeat.md): Bard
 * [Reality Break](./reality-break.md): Wizard
 * [Reflect Monster](./reflect-monster.md): Bard, Sorcerer, Warlock, Wizard
@@ -2234,12 +2456,15 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Basilisk Glare](./basilisk-glare.md): Cleric, Druid
 * [Bixmodeus' Binding of Perduring Possession](./bixmodeus-binding-of-perduring-possession.md): Pale Master, Wizard
 * [Black Blade of Disaster](./black-blade-of-disaster.md): Sorcerer, Wizard
+* [Black Coffin](./black-coffin.md): Sorcerer, Warlock, Wizard
 * [Blade of Disaster](./blade-of-disaster.md): Sorcerer, Warlock, Wizard
 * [Blasphemous](./blasphemous.md): Warlock, Wizard
+* [Blaze Inferno](./blaze-inferno.md): Sorcerer, Wizard
 * [Blood to Flame](./blood-to-flame.md): Sorcerer, Warlock, Wizard
 * [Brainblaze](./brainblaze.md): Sorcerer, Warlock, Wizard
 * [Burst of Glacial Wrath](./burst-of-glacial-wrath.md): Bard, Sorcerer, Warlock, Wizard
 * [Caldera](./caldera.md): Druid, Wizard
+* [Calm the Skies](./calm-the-skies.md): Bard, Cleric, Druid, Wizard
 * [Cast in Stone](./cast-in-stone.md): Druid, Warlock
 * [Combustion](./combustion.md): Druid, Wizard
 * [Conflagration](./conflagration.md): Warlock
@@ -2247,16 +2472,19 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Crystalbrittle](./crystalbrittle.md): Sorcerer, Wizard
 * [Decimation Bolts](./decimation-bolts.md): Cleric, Druid, Sorcerer, Wizard
 * [Desolation](./desolation.md): Sorcerer, Wizard
+* [Divine Arm](./divine-arm.md): Cleric
 * [Duplication](./duplication.md): Wizard
 * [Earth Whelm](./earth-whelm.md): Druid, Wizard
 * [Effulgent Epuration](./effulgent-epuration.md): Sorcerer, Wizard
 * [Elemental Step](./elemental-step.md): Sorcerer, Wizard
+* [Elemental Storm](./elemental-storm.md): Druid, Sorcerer, Wizard
 * [Energy Drain](./energy-drain.md): Cleric, Sorcerer, Wizard
 * [Exemplar of Self](./exemplar-of-self.md): Wizard
 * [Eye of Power](./eye-of-power.md): Sorcerer, Wizard
 * [Flame Body](./flame-body.md): Cleric, Druid, Sorcerer, Wizard
 * [Foresight](./foresight.md): Bard, Druid, Shaman, Warlock, Wizard
 * [Frailty](./frailty.md): Cleric, Druid, Warlock, Wizard
+* [Frigid Vortex](./frigid-vortex.md): Druid, Sorcerer, Wizard
 * [Gate](./gate.md): Cleric, Sorcerer, Warlock, Wizard
 * [Glacial Tide](./glacial-tide.md): Sorcerer, Wizard
 * [Glorious Transmutation](./glorious-transmutation.md): Sorcerer, Wizard
@@ -2275,6 +2503,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Invulnerability](./invulnerability.md): Wizard
 * [Khelben's Dweomerdoom](./khelbens-dweomerdoom.md): Sorcerer, Warlock, Wizard
 * [Laeral's Crowning Touch](./laerals-crowning-touch.md): Sorcerer, Wizard
+* [Luminous Tower](./luminous-tower.md): Wizard
 * [Mass Heal](./mass-heal.md): Cleric
 * [Mass Invisibility](./mass-invisibility.md): Bard, Sorcerer, Warlock, Wizard
 * [Mass Polymorph](./mass-polymorph.md): Bard, Sorcerer, Wizard
@@ -2344,5 +2573,7 @@ For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Mast
 * [Wail of the Banshee](./wail-of-the-banshee.md): Sorcerer, Wizard
 * [Weird](./weird.md): Warlock, Wizard
 * [Wind Wake](./wind-wake.md): Bard, Druid, Sorcerer, Wizard
+* [Winterland](./winterland.md): Bard, Druid, Sorcerer, Wizard
 * [Wish](./wish.md): Sorcerer, Wizard
+* [Wrath of Lightning](./wrath-of-lightning.md): Sorcerer, Wizard
  

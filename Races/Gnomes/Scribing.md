@@ -13,9 +13,9 @@ The Mark of Scribing manifests exclusively on gnomes. If your character has the 
 
 **Gifted Scribe**. You are proficient with calligrapher's supplies and forgery kits. When you make an ability check using either one of these tools, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
 
-**Scribe's Insight**. You can cast [comprehend languages](../Magic/Spells/comprehend-languages.md) once with this trait, and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for it.
+**Scribe's Insight**. You can cast [comprehend languages](../../Magic/Spells/comprehend-languages.md) once with this trait, and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for it.
 
-**Whispering Wind**. You know the [message](../Magic/Spells/message.md) cantrip. Intelligence is your spellcasting ability for it.
+**Whispering Wind**. You know the [message](../../Magic/Spells/message.md) cantrip. Intelligence is your spellcasting ability for it.
 
 **Extra Language**. You can speak, read, and write one extra language of your choice.
 
