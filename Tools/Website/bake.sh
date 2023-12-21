@@ -7,15 +7,6 @@
 ./genCreatureLists.sh
 ./genSpellLists.sh
 
-# Convert it
-mkdocs build
+./mkdocs.sh
 
 ./uploadToDropbox.sh
-# Upload it (via Dropbox)
-target=~/Dropbox/Apps/site44/azgaarnoth.tedneward.com/
-if test -f "sitetarget"; then
-  target=`cat sitetarget`
-fi
-
-echo "Copying site to $target..."
-cp -Rv site/* $target
