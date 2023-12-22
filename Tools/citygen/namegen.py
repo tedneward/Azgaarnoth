@@ -147,6 +147,10 @@ def namegen(which):
         'mageschool' : [
             'Descriptor Building', 'Adjective Building', 'The Descriptor Building', 'The Adjective Building'
         ],
+        'mercenarycompany': [
+            'Location Militant', 'Weapon Militant', 'Location Weapon',
+            'Adjective Militant', 'Adjective Weapon'
+        ],
         'merchantguild' : [
             'Geographical Merchant', 'Merchant of Location', 'The Geographical Merchant',
             'Adjective Geographical Merchant', 'Adjective Merchant of Location', 'The Adjective Geographical Merchant',

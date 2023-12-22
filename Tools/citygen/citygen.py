@@ -54,9 +54,9 @@ def namegen(which):
             return guild
     elif which == 'mercenarycompany':
         if random.randint(0, 100) > 50:
-            mercs = os.listdir('../../Organizations/MercenaryCompanies')
+            mercs = os.listdir('../../Organizations/MercCompanies')
             mercs.remove('index.md')
-            merc = open('../../Organizations/MercenaryCompanies/' + mercs[random.randint(0, len(mercs)-1)], 'r').readlines()[0][len('# Mercenary Company: '):-1]
+            merc = open('../../Organizations/MercCompanies/' + mercs[random.randint(0, len(mercs)-1)], 'r').readlines()[0][len('# Mercenary Company: '):-1]
             return merc
     elif which == 'house':
         return "**GREAT HOUSE**"
@@ -142,7 +142,7 @@ class City:
                 self.description.append("**Plaza.** The city has a central area of shops which sees much traffic. Already several fountains and other decorative statues mark the rough edges of this plaze.")
         if row[17] != '':
             self.temple = True
-            self.description.append(f"**Temple.** A large temple to **TODO** here sits near to the city center.")
+            self.description.append("**Temple.** A large temple to **TODO** here sits near to the city center.")
         if row[18] != '':
             self.shantytown = True
             poppercent = (random.randint(1, 8) * 5) 
