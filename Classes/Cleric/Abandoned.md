@@ -32,7 +32,7 @@ You can expend one use of Channel Divinity as an action to make a melee spell at
 
 ```
 def level2(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Channel Divinity: Healing Pool.*** *Melee Spell attack:* +{npc.spellcasting['Cleric'].spellattack()} to hit, range 5 ft., one creature. Hit: 1d10 + {npc.spellcasting['Cleric'].casterlevel()}, which is added into a Healing Pool equal to the damage done, separate from your health."))
+    npc.defer(lambda npc: npc.actions.append(f"***Channel Divinity: Healing Pool.*** *Melee Spell attack:* +{npc.spellcasting['Cleric'].spellattack()} to hit, range 5 ft., one creature. Hit: 1d10 + {npc.spellcasting['Cleric'].casterlevel()} poison damage, which is added into a Healing Pool equal to the damage done, separate from your health."))
 
     npc.bonusactions.append("***Healing Pool.*** Add any amount of hit points to a creature you can touch, including yourself, by spending an equal amount of hit points from your Healing Pool.")
 ```
