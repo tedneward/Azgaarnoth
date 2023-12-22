@@ -134,7 +134,7 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
 ![](AnnisHag-Token.png)
 
 >### Annis Hag
->*Large Fey, Typically Chaotic Evil*
+>*Large fey, Typically Chaotic Evil*
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 90 (12d10 + 24)
@@ -188,7 +188,7 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 ![](BheurHag-Token.png)
 
 >### Bheur Hag
->*Medium Fey, Typically Chaotic Evil*
+>*Medium fey, Typically Chaotic Evil*
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 91 (14d8 + 28)

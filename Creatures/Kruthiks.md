@@ -25,7 +25,7 @@ Underdark
 ![](YoungKruthik-Token.png)
 
 >### Young Kruthik
->*Small Monstrosity, Unaligned*
+>*Small monstrosity, Unaligned*
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 9 (2d6 + 2)
@@ -69,7 +69,7 @@ Underdark
 ![](AdultKruthik-Token.png)
 
 >### Adult Kruthik
->*Medium Monstrosity, Unaligned*
+>*Medium monstrosity, Unaligned*
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 39 (6d8 + 12)
@@ -115,7 +115,7 @@ Underdark
 ![](KruthikHiveLord-Token.png)
 
 >### Kruthik Hive Lord
->*Large Monstrosity, Unaligned*
+>*Large monstrosity, Unaligned*
 >___
 >- **Armor Class** 20 (natural armor)
 >- **Hit Points** 102 (12d10 + 36)

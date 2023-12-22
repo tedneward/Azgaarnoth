@@ -6,7 +6,7 @@ Orthons are infamous for their sharp senses. Because an orthon can become invisi
 Orthons value the challenge of the chase and the thrill of one-on-one combat above all else. An orthon's first loyalty is to its archduke, but one with no immediate assignment might work for anyone who promises it a worthy struggle against a lethal foe. Because they travel widely, orthons are unequaled as guides through the layers of the Nine Hells.
 
 >### Orthon
->*Large Fiend (Devil), Typically Lawful Evil*
+>*Large fiend (Devil), Typically Lawful Evil*
 >___
 >- **Armor Class** 17 (half plate)
 >- **Hit Points** 105 (10d10 + 50)

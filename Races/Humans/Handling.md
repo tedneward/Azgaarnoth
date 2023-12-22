@@ -7,7 +7,7 @@ The Mark of Handling only manifests on humans. If your character has the Mark of
 * **Ability Score Increase**. Your Dexterity and Wisdom scores both increase by 1. In addition, one ability score of your choice increases by 1.
 * **Wild Intuition**. When you make a Wisdom (Animal Handling) or Intelligence (Nature) check, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
 * **Expert Handling**. You can use the Help action to aid an ally animal companion or mount within 30 feet of you, rather than 5 feet of you.
-* **Primal Connection**. You can cast [animal friendship](../Magic/Spells/animal-friendship.md) once with this trait and regain the ability to do so when you finish a short or long rest. Wisdom is your spellcasting ability for this spell.
+* **Primal Connection**. You can cast [animal friendship](../../Magic/Spells/animal-friendship.md) once with this trait and regain the ability to do so when you finish a short or long rest. Wisdom is your spellcasting ability for this spell.
 * **The Bigger They Are**. When you cast a spell that affects only beasts, it also affects monstrosities with an Intelligence score of 3 or lower.
 
 ```

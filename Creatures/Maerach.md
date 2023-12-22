@@ -16,7 +16,7 @@ Most commoners prefer to avoid fighting and will flee in most cases, though they
 Coastal, Urban, Underwater
 
 >### Sea Elf Commoner
->*Medium Humanoid (Elf), Any Chaotic Alignment*
+>*Medium humanoid  (Elf), Any Chaotic Alignment*
 >___
 >- **Armor Class** 11
 >- **Hit Points** 4 (1d8)

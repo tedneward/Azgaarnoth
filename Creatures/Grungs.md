@@ -32,7 +32,7 @@ The grung stat block represents a typical grung warrior or hunter, met either in
 ![](Grung-Token.png)
 
 >### Grung
->*Small Humanoid, Any Alignment*
+>*Small humanoid , Any Alignment*
 >___
 >- **Armor Class** 12
 >- **Hit Points** 11 (2d6 + 4)
@@ -78,7 +78,7 @@ A grung elite warrior typically leads a group of grung and other warriors into b
 ![](GrungEliteWarrior-Token.png)
 
 >### Grung Elite Warrior
->*Small Humanoid, Any Alignment*
+>*Small humanoid , Any Alignment*
 >___
 >- **Armor Class** 13
 >- **Hit Points** 49 (9d6 + 18)
@@ -113,7 +113,7 @@ A grung elite warrior typically leads a group of grung and other warriors into b
 >
 >***Shortbow.*** Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 5 (2d4) poison damage.
 >
->***Mesmerizing Chirr (Recharge 6).*** The grung makes a chirring noise to which grungs are immune. Each Humanoid or Beast that is within 15 feet of the grung and able to hear it must succeed on a DC 12 Wisdom saving throw or be stunned until the end of the grung's next turn.
+>***Mesmerizing Chirr (Recharge 6).*** The grung makes a chirring noise to which grungs are immune. Each humanoid  or Beast that is within 15 feet of the grung and able to hear it must succeed on a DC 12 Wisdom saving throw or be stunned until the end of the grung's next turn.
 >
 
 ---
@@ -128,7 +128,7 @@ Gifted with druidic magic, a grung wildling typically serves as an advisor, a he
 ![](GrungWildling-Token.png)
 
 >### Grung Wildling
->*Small Humanoid, Any Alignment*
+>*Small humanoid , Any Alignment*
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 27 (5d6 + 10)

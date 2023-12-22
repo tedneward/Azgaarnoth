@@ -325,7 +325,7 @@ def eldritchspear_prereq(npc): return True
 ```
 
 ### Elemental Attunement
-When you finish a long rest, you choose one of four elements below to attune to. While attuned to an element, you know an associated cantrip as a warlock spelL and it doesn't count against the number of cantrips you can know as a warlock. You gain the following benefits while attuned to each element:
+When you finish a long rest, you choose one of four elements below to attune to. While attuned to an element, you know an associated cantrip as a warlock spell, and it doesn't count against the number of cantrips you can know as a warlock. You gain the following benefits while attuned to each element:
 
 * **Air.** You know the [gust](../../Magic/Spells/gust.md) cantrip, and you can hold your breath for twice as long.
 * **Earth.** You know the [mold earth](../../Magic/Spells/mold-earth.md) cantrip, and you have advantage on ability checks made to climb earth or stone.
@@ -334,7 +334,7 @@ When you finish a long rest, you choose one of four elements below to attune to.
 
 ```
 def elementalattunement(npc):
-    npc.traits.append(f"***Elemental Attunement.*** When you finish a long rest, you choose one of four elements below to attune to. While attuned to an element, you know an associated cantrip as a warlock spelL and it doesn't count against the number of cantrips you can know as a warlock. You gain the following benefits while attuned to each element: **Air.** You know the {spelllinkify('gust')} cantrip, and you can hold your breath for twice as long. **Earth.** You know the {spelllinkify('mold earth')} cantrip, and you have advantage on ability checks made to climb earth or stone. **Fire.** You know the {spelllinkify('control flames')} cantrip, and you have advantage on saving throws made to resist the effects of extreme heat. **Water.** You know the {spelllinkify('shape water')} cantrip, and you have advantage on saving throws made to resist the effects of extreme cold.")
+    npc.traits.append(f"***Elemental Attunement.*** When you finish a long rest, you choose one of four elements below to attune to. While attuned to an element, you know an associated cantrip as a warlock spell, and it doesn't count against the number of cantrips you can know as a warlock. You gain the following benefits while attuned to each element: **Air.** You know the {spelllinkify('gust')} cantrip, and you can hold your breath for twice as long. **Earth.** You know the {spelllinkify('mold earth')} cantrip, and you have advantage on ability checks made to climb earth or stone. **Fire.** You know the {spelllinkify('control flames')} cantrip, and you have advantage on saving throws made to resist the effects of extreme heat. **Water.** You know the {spelllinkify('shape water')} cantrip, and you have advantage on saving throws made to resist the effects of extreme cold.")
 
 def elementalattunement_prereq(npc): return True
 ```
@@ -923,7 +923,10 @@ However, you also have the following flaws:
 def vampiricaspect_prereq(npc): return npc.subclasses[allclasses['Warlock']].name == 'Progenitor'
 def vampiricaspect(npc):
     npc.damageresistances.append('necrotic')
+    npc.type = npc.type + "/undead"
     npc.traits.append("***Vampiric Aspect.*** You are an undead in addition to your normal creature type, but when a game affect targets you, you choose whether it treats you as undead or as your normal creature type.")
+    npc.defer(lambda npc: npc.traits.append(f"***Water Sensitivity.*** You take {5 + npc.levels('Warlock')} acid damage when you end your turn in running water.") )
+    npc.defer(lambda npc: npc.traits.append(f"***Radiant Sensitivity.*** You take {5 + npc.levels('Warlock')} radiant damage when you start your turn in sunlight. While in sunlight, you have disadvantage of attack rolls and ability checks.") )
 ```
 
 ### Venomous Familiar

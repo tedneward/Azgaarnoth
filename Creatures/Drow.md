@@ -259,7 +259,7 @@ Ruins, Underdark
 ![](DrowArachnomancer-Token.png)
 
 >### Drow Arachnomancer
->*Medium Humanoid (Elf), Typically Chaotic Evil*
+>*Medium humanoid  (Elf), Typically Chaotic Evil*
 >___
 >- **Armor Class** 15 (studded leather)
 >- **Hit Points** 162 (25d8 + 50)
@@ -323,7 +323,7 @@ Ruins, Underdark
 ![](DrowFavoredConsort-Token.png)
 
 >### Drow Favored Consort
->*Medium Humanoid (Elf, Wizard), Any Alignment*
+>*Medium humanoid  (Elf, Wizard), Any Alignment*
 >___
 >- **Armor Class** 15 (18 with mage armor)
 >- **Hit Points** 240 (32d8 + 96)
@@ -380,7 +380,7 @@ Ruins, Underdark
 ![](DrowHouseCaptain-Token.png)
 
 >### Drow House Captain
->*Medium Humanoid (Elf), Any Alignment*
+>*Medium humanoid  (Elf), Any Alignment*
 >___
 >- **Armor Class** 16 (chain mail)
 >- **Hit Points** 162 (25d8 + 50)
@@ -439,7 +439,7 @@ Ruins, Underdark
 ![](DrowInquisitor-Token.png)
 
 >### Drow Inquisitor
->*Medium Humanoid (Cleric, Elf), Typically Neutral Evil*
+>*Medium humanoid  (Cleric, Elf), Typically Neutral Evil*
 >___
 >- **Armor Class** 16 (breastplate)
 >- **Hit Points** 149 (23d8 + 46)
@@ -497,7 +497,7 @@ Ruins, Underdark
 ![](DrowMatronMother-Token.png)
 
 >### Drow Matron Mother
->*Medium Humanoid (Cleric, Elf), Typically Neutral Evil*
+>*Medium humanoid  (Cleric, Elf), Typically Neutral Evil*
 >___
 >- **Armor Class** 17 (half plate)
 >- **Hit Points** 247 (33d8 + 99)
@@ -588,7 +588,7 @@ Ruins, Underdark
 ![](DrowRebelliousMatron-Token.png)
 
 >### Drow Rebellious Matron
->*Medium Humanoid (Cleric, Elf), any alignment*
+>*Medium humanoid  (Cleric, Elf), any alignment*
 >___
 >- **Armor Class** 17 (half plate)
 >- **Hit Points** 247 (33d8 + 99)
@@ -672,7 +672,7 @@ Ruins, Underdark
 ![](DrowShadowblade-Token.png)
 
 >### Drow Shadowblade
->*Medium Humanoid (Elf), Any Alignment*
+>*Medium humanoid  (Elf), Any Alignment*
 >___
 >- **Armor Class** 17 (studded leather)
 >- **Hit Points** 150 (20d8 + 60)

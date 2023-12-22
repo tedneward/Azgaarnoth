@@ -12,7 +12,7 @@ Underwater
 ![](DeepScion-Token.png)
 
 >### Deep Scion
->*Medium Monstrosity, Typically Chaotic Evil*
+>*Medium monstrosity, Typically Chaotic Evil*
 >___
 >- **Armor Class** 11
 >- **Hit Points** 67 (9d8 + 27)

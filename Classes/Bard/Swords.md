@@ -66,3 +66,11 @@ You can attack twice, instead of once, whenever you use the Blade Flourish actio
 *14th-level College of Swords feature*
 
 Whenever you use a Blade Flourish option, you can roll a d6 and use it instead of expending a Bardic Inspiration die.
+
+---
+
+# Custom Bard Spells
+The College of Swords developed many custom spells over the years.
+
+* 2nd: [body spin]()
+* 4th: [winterfloor]()

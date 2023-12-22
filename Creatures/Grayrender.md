@@ -44,7 +44,7 @@ d12 | Quirk
 ![](GrayRender-Token.png)
 
 >### Gray Render
->*Large Monstrosity, Typically Chaotic Neutral*
+>*Large monstrosity, Typically Chaotic Neutral*
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 189 (18d10 + 90)

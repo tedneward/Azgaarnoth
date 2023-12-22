@@ -13,7 +13,7 @@ Sages say that gods of pestilence and rot created catoblepases as embodiments of
 Swamp
 
 >### Catoblepas
->*Large Monstrosity, Unaligned*
+>*Large monstrosity, Unaligned*
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 84 (8d10 + 40)

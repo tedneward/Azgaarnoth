@@ -6,7 +6,7 @@ Diseased manifestations of animalistic rage, bulezaus embody the violence of nat
 Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open sores, and a reek of rotten meat that follows them wherever they go.
 
 >### Bulezau
->*Medium Fiend (Demon), Typically Chaotic Evil*
+>*Medium fiend (Demon), Typically Chaotic Evil*
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 52 (7d8 + 21)

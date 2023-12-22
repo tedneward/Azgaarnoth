@@ -57,3 +57,12 @@ You can use this reaction a number of times equal to your Charisma modifier (min
 def level14(npc):
     npc.defer(lambda npc: npc.reactions.append(f"***Infectious Inspiration ({npc.CHAbonus()}/Recharges on long rest).*** When a creature within 60 feet of you adds one of your Bardic Inspiration dice to its ability check, attack roll, or saving throw and the roll succeeds, you can encourage a different creature (other than yourself) that can hear you within 60 feet of you, giving it a Bardic Inspiration die without expending any of your Bardic Inspiration uses.") )
 ```
+
+---
+
+# Custom Bard Spells
+The College of Eloquence has developed to a few spells that only bards of this college know.
+
+* cantrip: [shrill note]()
+* 5th: [sky show]()
+* 7th: [far song]()

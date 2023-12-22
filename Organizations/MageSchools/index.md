@@ -30,7 +30,7 @@ Such services may be offered to non-members, but at much higher rates (if at all
 ## Organizations
 Typically, a school is built around a particular concept or magic concept, such as the [White Winds](WhiteWinds.md)'s focus on general-purpose practicality, or the [Fiery Fist](FieryFist.md)'s obsession with combat. Each school has its own entrance criteria, membership rosters, and frequently they maintain distinct spells, items, and training for their members.
  
-Hundreds of mage schools of all size are present on Azgaarnoth. Currently the more widely-known include:
+Hundreds of mage schools, ranging in size from a dozen magi to thousands of masters, journeymagi, and apprentices, are present on Azgaarnoth. Currently the more widely-known include:
 
 * [Animalists](Animalists.md): natural kingdom
 * [Blue Sky](BlueSky.md): air, weather, storms
@@ -60,11 +60,9 @@ Hundreds of mage schools of all size are present on Azgaarnoth. Currently the mo
 * [White Spike](WhiteSpike.md): cold and ice magic
 * [White Winds](WhiteWinds.md): generalists and arcanists
 
-There are always rumors of additional schools that aren't formal or popular, such as a school dedicated to enchantment (which is feared by the common folk because of the obvious perils of abuse by said enchanters), and not all magi need join a school in order to thrive. School-affiliated magi, however, will look down on ["wilders"](#wilders) as "uncivilized" or "uneducated", and many "wilders" in turn look upon their school-affiliated brethren as "sellouts" or "kept magi".
+Many of these schools have explicit connections to other organizations, such as merchant guilds, mercenary companies, or the Draconic Orders. More frequently, a mage school will hire a mercenary company for a variety of tasks (including escort and guard duties), engage in trade with merchant guilds, and consult (or be consulted) with the Draconic Orders, particularly the [Brass](../../Organizations/DraconicOrder/Brass.md)
 
 > Still other schools are known to exist or have existed in the past, such as the Infinite Cylinder, Pylon of the Void, Miasmal Minaret, Pillar of the Endless Stair, Stone of Eternity, Nonesuch Monument, Chthonic Pylon, Belfry of the Forgotten Fane, Rock of Sorrow, Cylinder of Silence, Celestial Monument, Spiral Tower, Spire of Crimson, Bronze Turret, Colossal Column, Elemental Obelisk, Gilded Rock, Monument of the Emerald Rune, Shimmering Spire, Finger of the Phoenix, Rock of Oblivion, Edifice of the Endless Dark, Eldritch Column, Immaculate Cylinder, Obelisk of the Worm, Tower of the Brazen Delve, Greenstone Cylinder, Enchanted Tower, Purple Column, Fey Stone, Dusk Tower, Astral Spire, Turret of Chaos, Twisted Stone, Illusory Monument, Siltstone Rock, Turret of Sorrow, Cylinder of the Mist, Edifice of Iniquity, Grinding Turret, Ebony Stone, Scarlet Obelisk, Lightless Stone, and still others. Some had no more than a dozen members and a tower for a time, others rose to hundreds of members, and then obliterated themselves in spectacular fashion. Their histories may be waiting to be (re)discovered, if only the brave and the foolhardy are willing to explore their ruins....
-
-Many of these schools have explicit connections to other organizations, such as merchant guilds, mercenary companies, or the Draconic Orders. More frequently, a mage school will hire a mercenary company for a variety of tasks (including escort and guard duties), engage in trade with merchant guilds, and consult (or be consulted) with the Draconic Orders, particularly the [Brass](../../Organizations/DraconicOrder/Brass.md)
 
 Most mage schools have a "home" (the location of the heads of their school), particular membership conditions, and certain tendencies, as described in each school's individual entry. The "enrollment" lists only the number of actual spellcasters, and does not include any sort of guards, support staff, or extended agent networks (if applicable).
 
@@ -73,13 +71,13 @@ Some schools of magic do not seek to openly advertise their existence.
 
 * [Bloodmancers](Bloodmancers.md): practioners of ancient blood arts
 * [Nethermancers](Nethermancers.md): practitioners of shadow arts
-* [Red Orb](./RedOrb.md): Abyssal power
+* [Red Orb](RedOrb.md): Abyssal power
 * [Twilight Star](TwilightStar.md): necromancy's power
 
 These schools are often actively hunted by secular authorities, and sometimes other mage schools will look to aid in the hunt.
 
 ## "Wilders"
-There are always rumors of additional schools that aren't formal or popular, such as a school dedicated to enchantment (which is feared by the common folk because of the obvious perils of abuse by said enchanters), and not all magi need join a school in order to thrive. School-affiliated magi, however, will look down on "wilders" as "uncivilized" or "uneducated", and many "wilders" in turn look upon their school-affiliated brethren as "sellouts" or "kept magi". These "wilders" will often be of the [Hedge Magi](../../Classes/Wizard/HedgeMagi.md) arcane tradition.
+School-affiliated magi, however, will look down on "wilders" as "uncivilized" or "uneducated", and many "wilders" in turn look upon their school-affiliated brethren as "sellouts" or "kept magi". These "wilders" will often be of the [Hedge Magi](../../Classes/Wizard/HedgeMagi.md) arcane tradition.
 
 ## The Mystics of Zhi
 [Mystics](../../Classes/Mystic.md) are those who specialize in powers of the mind (psionics) rather than of the arcane or the divine. Although some of the skills taught by the mystics are found in the West (such as membership found in the [MindMage](MindMage.md) school), Zhi's Council of Seers has made a much deeper and more extensive study of the psionic arts than anything found elsewhere. Mystics can certainly be found all over Azgaarnoth, and generally they are not part of any school (although some have joined the [MindMage](MindMage.md) school out of curiosity). Mysticism in Zhi is a high calling, however, perhaps even higher than that of the arcane or the divine, and this has caused no small amount of friction between Western nations, where the mage schools often hold direct sway over political decisions, and the nations of [Yithia](../../Geography/Yithia.md), where usually that influence is reserved solely to the Mystics and Council of Seers.

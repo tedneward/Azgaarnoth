@@ -65,3 +65,13 @@ def level6(npc):
 When you use your Performance of Creation feature, you can create more than one item at once. The number of items equals your Charisma modifier (minimum of two items). If you create an item that would exceed that number, you choose which of the previously created items disappears. Only one of these items can be of the maximum size you can create; the rest must be Small or Tiny.
 
 You are no longer limited by gp value when creating items with Performance of Creation.
+
+---
+
+# Custom Bard Spells
+The College of Creation has developed several spells that only its bards know.
+
+* 1st: [condense reserves](), [cooperative channeling]()
+* 2nd: [disperse reserves]()
+* 4th: [temperature zone]()
+* 7th: [thermal equilibrium]()

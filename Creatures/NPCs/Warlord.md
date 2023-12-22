@@ -16,7 +16,7 @@ d8	Battle Cry
 8	"You know what to do!"
 
 >### Warlord
->*Medium Humanoid, Any Alignment*
+>*Medium humanoid , Any Alignment*
 >___
 >- **Armor Class** 18 (plate)
 >- **Hit Points** 229 (27d8 + 108)

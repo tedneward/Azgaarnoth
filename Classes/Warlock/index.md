@@ -409,6 +409,11 @@ def level20(npc):
     npc.traits.append("***Eldritch Master (Recharges on long rest).*** You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature.")
 ```
 
+```
+# Warlock subclasses use invocations
+dependentmodules = ['Invocations.md']
+```
+
 ---
 
 # Warlock Spells

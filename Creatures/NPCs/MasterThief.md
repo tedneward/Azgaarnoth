@@ -20,7 +20,7 @@ d10 | Calling Card
 
 
 >### Master Thief
->*Medium Humanoid, Any Alignment*
+>*Medium humanoid , Any Alignment*
 >___
 >- **Armor Class** 16 (studded leather)
 >- **Hit Points** 84 (13d8 + 26)

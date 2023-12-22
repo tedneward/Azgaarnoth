@@ -10,7 +10,7 @@ During its brief existence, a banderhobb attempts to carry out its creator's bid
 A banderhobb fulfills its duties until its existence ends. When it expires, usually several days after its birth, it leaves behind only tarry goo and wisps of shadow. Legends tell of an ominous tower in the Shadowfell where the shadows sometimes reform and banderhobbs roam.
 
 >### Banderhobb
->*Large Monstrosity, Typically Neutral Evil*
+>*Large monstrosity, Typically Neutral Evil*
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 84 (8d10 + 40)

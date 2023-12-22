@@ -11,7 +11,7 @@ An aasimar, except for one who has turned to evil, has a link to an angelic bein
 (No description given)
 
 >### Aasimar Protector
->*Medium Humanoid (Angel), Any Alignment*
+>*Medium humanoid  (Angel), Any Alignment*
 >___
 >- **Armor Class** 15 (chain shirt)
 >- **Hit Points** 26 (4d8 + 8)
@@ -50,7 +50,7 @@ An aasimar, except for one who has turned to evil, has a link to an angelic bein
 (No description given)
 
 >### Scourge Aasimar
->*Medium Humanoid (Angel), Any Alignment*
+>*Medium humanoid  (Angel), Any Alignment*
 >___
 >- **Armor Class** 15 (chain shirt)
 >- **Hit Points** 26 (4d8 + 8)
@@ -89,7 +89,7 @@ An aasimar, except for one who has turned to evil, has a link to an angelic bein
 (No description given)
 
 >### Fallen Aasimar
->*Medium Humanoid (Angel), Any Alignment*
+>*Medium humanoid  (Angel), Any Alignment*
 >___
 >- **Armor Class** 15 (chain shirt)
 >- **Hit Points** 26 (4d8 + 8)

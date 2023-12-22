@@ -24,7 +24,7 @@ d8	Favored Shape
 8	Water elemental
 
 >### Archdruid
->*Medium Humanoid (Druid), Any Alignment*
+>*Medium humanoid  (Druid), Any Alignment*
 >___
 >- **Armor Class** 14 (hide armor)
 >- **Hit Points** 154 (28d8 + 28)

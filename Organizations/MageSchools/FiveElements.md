@@ -63,6 +63,7 @@ Restricted spells will not be sold to non-members without member sponsorship. No
 
 * cantrips: [voidwhisper](../../Magic/Spells/voidwhisper.md)
 * 2nd: [voidsight](../../Magic/Spells/voidsight.md)
-* 3rd: [visions of the void](../../Magic/Spells/visions-of-the-void.md)
-* 5th: [echoes of the void](../../Magic/Spells/echoes-of-the-void.md)
+* 3rd: [rings of darkness](../../Magic/Spells/rings-of-darkness.md), [siphon light](../../Magic/Spells/siphon-light.md), [visions of the void](../../Magic/Spells/visions-of-the-void.md)
+* 4th: [cage of black](../../Magic/Spells/cage-of-black.md), [dark zone](../../Magic/Spells/dark-zone.md), [wheel of darkness](../../Magic/Spells/wheel-of-darkness.md)
+* 5th: [echoes of the void](../../Magic/Spells/echoes-of-the-void.md), [wall of darkness](../../Magic/Spells/wall-of-darkness.md)
 * 9th: [ravenous void](../../Magic/Spells/ravenous-void.md)

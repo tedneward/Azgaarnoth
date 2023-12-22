@@ -28,7 +28,7 @@ d10	Performance Type
 10	Acting
 
 >### Bard
->*Medium Humanoid, Any Alignment*
+>*Medium humanoid , Any Alignment*
 >___
 >- **Armor Class** 15 (chain shirt)
 >- **Hit Points** 44 (8d8 + 8)

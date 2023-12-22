@@ -8,7 +8,7 @@ Cruel and chaotic, skulks carry out their orders in the most violent manner poss
 After killing a person on the Material Plane, some skulks take up a silent imitation of that person's life. In extreme cases, skulks have invaded villages, killed all the occupants, and turned the places into seeming ghost towns where flavorless food is prepared daily, colorless clothes are hung up to dry, and livestock is shifted from pen to pen until it starves.
 
 >### Skulk
->*Medium Monstrosity, Typically Chaotic Neutral*
+>*Medium monstrosity, Typically Chaotic Neutral*
 >___
 >- **Armor Class** 14
 >- **Hit Points** 18 (4d8)

@@ -9,7 +9,7 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
 
 
 >### Nightwalker
->*Huge Undead, Typically Chaotic Evil*
+>*Huge undead, Typically Chaotic Evil*
 >___
 >- **Armor Class** 14
 >- **Hit Points** 337 (25d12 + 175)

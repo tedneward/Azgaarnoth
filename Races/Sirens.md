@@ -1,11 +1,13 @@
 # Sirens
-Sirens are at home along the waters of the Deepwaters. They settle on rocky coasts and remote islands, and even on floating piles of kelp. Sirens are mercurial creatures who can turn in an instant from lonely to repulsed, from desirous to hateful, from welcoming to irritated, from loving to murderous--and then back again. They are fascinated with ships, and enjoy toying with them. One siren might call out to a passing crew for company, only to capriciously draw the ship into an entangling mass of kelp. Another might lure a vessel onto jagged rocks so as to study the wreckage and learn more about the strange contraption. But as time has passed and the number of ships on the waters has increased over the years, a growing number of sirens have decided to satisfy their curiosity by taking positions on ship crews--including, in at least one case, the position of captain.
+Sirens are mercurial creatures who can turn in an instant from lonely to repulsed, from desirous to hateful, from welcoming to irritated, from loving to murderous--and then back again. They are humanoid creatures with birdlike features, with long, slender arms that extend into powerful wings that easily carry their light frames into the air. Their fingers bear sharp claws but are nimble enough to wield weapons and perform fine manipulation. Crests of feathery plumage start between their eyes and cover the backs of their heads.
 
-Sirens are humanoid creatures with birdlike features. Their long, slender arms extend into powerful wings that easily carry their light frames into the air. Their fingers bear sharp claws but are nimble enough to wield weapons and perform fine manipulation. Crests of feathery plumage start between their eyes and cover the backs of their heads.
+Sirens are at home along the shallower waters of the Deepwaters. They settle on rocky coasts and remote islands, and even on floating piles of kelp. 
+
+They are fascinated with ships, and enjoy toying with them. One siren might call out to a passing crew for company, only to capriciously draw the ship into an entangling mass of kelp. Another might lure a vessel onto jagged rocks so as to study the wreckage and learn more about the strange contraption. But as time has passed and the number of ships on the waters has increased over the years, a growing number of sirens have decided to satisfy their curiosity by taking positions on ship crews--including, in at least one case, the position of captain.
 
 ```
 name = 'Siren'
-description = "***Race: Siren.*** "
+description = "***Race: Siren.*** Sirens are mercurial creatures who can turn in an instant from lonely to repulsed, from desirous to hateful, from welcoming to irritated, from loving to murderous--and then back again. They are humanoid creatures with birdlike features, with long, slender arms that extend into powerful wings that easily carry their light frames into the air. Their fingers bear sharp claws but are nimble enough to wield weapons and perform fine manipulation. Crests of feathery plumage start between their eyes and cover the backs of their heads."
 type = 'humanoid'
 ```
 

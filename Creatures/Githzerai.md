@@ -133,7 +133,7 @@ Anarchs are githzerai sages and mystics who lead communities and maintain the ad
 ![](GithzeraiAnarch-Token.png)
 
 >### Githzerai Anarch
->*Medium Humanoid (Gith), Any Alignment*
+>*Medium humanoid  (Gith), Any Alignment*
 >___
 >- **Armor Class** 20 (Psychic Defense)
 >- **Hit Points** 144 (17d8 + 68)
@@ -219,7 +219,7 @@ Some spiritual githzerai spend long hours in meditation to transcend the limits 
 ![](GithzeraiEnlightened-Token.png)
 
 >### Githzerai Enlightened
->*Medium Humanoid (Gith), Any Alignment*
+>*Medium humanoid  (Gith), Any Alignment*
 >___
 >- **Armor Class** 18 (Psychic Defense)
 >- **Hit Points** 112 (15d8 + 45)

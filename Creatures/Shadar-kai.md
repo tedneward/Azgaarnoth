@@ -22,7 +22,7 @@ Although they're formidable warriors, gloom weavers are often content to hide in
 
 
 >### Gloom Weaver
->*Medium Humanoid (Elf), Typically Neutral Evil*
+>*Medium humanoid  (Elf), Typically Neutral Evil*
 >___
 >- **Armor Class** 14 (17 with mage armor)
 >- **Hit Points** 104 (16d8 + 32)
@@ -73,7 +73,7 @@ Those who have fought shadow dancers describe the experience as similar to fight
 
 
 >### Shadow Dancer
->*Medium Humanoid (Elf), Any Alignment*
+>*Medium humanoid  (Elf), Any Alignment*
 >___
 >- **Armor Class** 15 (studded leather)
 >- **Hit Points** 71 (13d8 + 13)
@@ -121,7 +121,7 @@ Wracked with despair over the loss of memories of a brighter time, soul mongers 
 
 
 >### Soul Monger
->*Medium Humanoid (Elf), Typically Neutral Evil*
+>*Medium humanoid  (Elf), Typically Neutral Evil*
 >___
 >- **Armor Class** 15 (studded leather)
 >- **Hit Points** 136 (21d8 + 42)

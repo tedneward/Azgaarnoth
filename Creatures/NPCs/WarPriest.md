@@ -15,7 +15,7 @@ d8	Holy Symbol
 8	Vessel such as a cup, a jug, an urn, or an amphora
 
 >### War Priest
->*Medium Humanoid (Cleric), Any Alignment*
+>*Medium humanoid  (Cleric), Any Alignment*
 >___
 >- **Armor Class** 18 (plate)
 >- **Hit Points** 117 (18d8 + 36)

@@ -233,7 +233,7 @@ Grassland, Ruins, Swamp, Underdark, Underwater, Urban
 ![](Yuan-tiAnathema-Token.png)
 
 >### Yuan-ti Anathema
->*Huge Monstrosity, Typically Neutral Evil*
+>*Huge monstrosity, Typically Neutral Evil*
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 189 (18d12 + 72)
@@ -412,7 +412,7 @@ Grassland, Ruins, Swamp, Underdark, Underwater, Urban
 ![](Yuan-tiNightmareSpeaker-Token.png)
 
 >### Yuan-ti Nightmare Speaker
->*Medium Monstrosity (Warlock), Typically Neutral Evil*
+>*Medium monstrosity (Warlock), Typically Neutral Evil*
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 71 (13d8 + 13)
@@ -514,7 +514,7 @@ Grassland, Ruins, Swamp, Underdark, Underwater, Urban
 
 
 >### Yuan-ti Pit Master
->*Medium Monstrosity (Warlock), Typically Neutral Evil*
+>*Medium monstrosity (Warlock), Typically Neutral Evil*
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 88 (16d8 + 16)

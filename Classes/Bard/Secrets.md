@@ -56,3 +56,11 @@ def level14(npc):
 
     npc.defer(lambda npc: npc.traits.append(f"***Dangerous Secrets.*** If you spend at least 1 minute observing or interacting with a creature outside combat, you can expend one of your uses of Bardic Inspiration to cast the {spelllinkify('detect thoughts')} spell on that creature while you are interacting with it without using a spell slot, as long as it is not hostile to you. When you cast *detect thoughts* in this way, if you choose to probe deeply into that creature's thoughts, you roll the Bardic Inspiration die you expended and subtract the result from the target's Wisdom saving throw roll. On a failed save, the target is not aware you are probing its mind. In addition, when you roll an ability check or saving throw to resist any attempt to discern information about you, your plans, your location, or your thoughts, you have advantage on that roll. This includes effects that would read your thoughts or compel you to speak the truth. If you succeed on your roll, you can cast {spelllinkify('vicious mockery')} as a reaction, targeting the source of the attempt to discern the information.") )
 ```
+
+---
+
+# Custom Bard Spells
+The College of Secrets has developed a number of spells specifically for their own use.
+
+* 1st: [sheltered voices](), [sound channel]()
+* 4th: [ultrasonic pulse]()

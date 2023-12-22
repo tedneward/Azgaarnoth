@@ -1,5 +1,5 @@
 # Dragonmark: Mark of Warding
-It is believed that the dragonmark dates back to the very earliest days of the [Eldar](../../History/Eldar.md), and that the Eldar handed out the dragonmark to favored [Firstborn](index.md#firstborn) or [humans](../Humans.md) as rewards for excellent service. No [Created](../index.md#created) have ever borne a dragonmark, and for many milennia, it was believed that no [Hordes](../index.md#hordes)ish race could bear one, but time has proven that to be a false assumption--at least, for those of mixed parentage.
+It is believed that the dragonmark dates back to the very earliest days of the [Eldar](../../History/Eldar.md), and that the Eldar handed out the dragonmark to favored [Firstborn](../index.md#firstborn) or [humans](../Humans) as rewards for excellent service. No [Created](../index.md#created) have ever borne a dragonmark, and for many milennia, it was believed that no [Hordes](../index.md#hordes)ish race could bear one, but time has proven that to be a false assumption--at least, for those of mixed parentage.
 
 Dragonmarked are generally "born wild" and, once known, often tracked down by either the [Draconic Order](../../Organizations/MilitantOrders/DraconicOrder/index.md) or hunted by the [Cult of the Wyrm](../../Organizations/CultOfTheWyrm.md), to either recruit or destroy. Dragonmarked are not part of a particular [noble House](../../Organizations/Houses/index.md), but bloodlines do carry through genetic lines (or so it seems), and many of the noble Houses carry the dragonmark within their bloodlines... as do most of the other races by this point in Azgaarnoth's history, although perhaps not as strongly as the nobility.
 
@@ -36,7 +36,7 @@ The Mark of Warding manifests exclusively on dwarves. If your character has the 
 
 **Master of Locks**. When you make an Intelligence (History), Intelligence (Investigation), or Thieves' Tools check involving lock and trap mechanisms, you can roll one Intuition die, a d4, and add the number rolled to the ability check.
 
-**Wards and Seals**. You can use your mark to cast the [alarm](../Magic/Spells/alarm.md) spell as a ritual. Starting at 3rd level you can cast [arcane lock](../Magic/Spells/arcane-lock.md) once with this trait and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for these spells.
+**Wards and Seals**. You can use your mark to cast the [alarm](../../Magic/Spells/alarm.md) spell as a ritual. Starting at 3rd level you can cast [arcane lock](../../Magic/Spells/arcane-lock.md) once with this trait and you regain the ability to do so when you finish a long rest. Intelligence is your spellcasting ability for these spells.
 
 ```
 name = 'Warding Dragonmarked'

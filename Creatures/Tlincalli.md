@@ -18,7 +18,7 @@ Desert, Grassland
 
 
 >### Tlincalli
->*Large Monstrosity, Typically Neutral*
+>*Large monstrosity, Typically Neutral*
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 85 (10d10 + 30)

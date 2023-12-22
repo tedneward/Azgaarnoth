@@ -1,19 +1,11 @@
 #### Lingering Shock
-*6th-level evocation* (Cleric, Druid, Sorcerer, Wizard)
+*1st-level evocation* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
-- **Range:** 90 feet
+- **Range:** Touch
 - **Components:** V, S
-- **Duration:** Concentration, up to 1 minute
+- **Duration:** 1 round
 ---
-You place an electric charge within a creature you 
-can see within range. The target takes 2d8 lightning 
-damage and must succeed on a Constitution saving 
-throw or be stunned until the beginning of its next 
-turn and be affected by the spell for the duration.
+Persistent strands of lightning curl around your hand and enter into a creature that you touch, spreading throughout its body. You make a melee spell attack against a Medium or smaller creature. The attack roll has advantage against a creature wearing metal armor. On a hit, the creature takes 1d8 lightning damage and must make a Constitution saving throw. On a failed save, the creature grants advantage to attacks made against it, has disadvantage on Dexterity saving throws and can’t take reactions until the start of your next turn.
 
-An affected creature repeats this process at the 
-start of each of its turns. If the creature accumulates
-three successful saving throws against the spell, the 
-creature is no longer affected. 
-
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you increase the damage by 1d8 for each slot level higher than 1st and the maximum target size category by one step for every two slot levels higher than 1st.

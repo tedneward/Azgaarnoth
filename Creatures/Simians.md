@@ -155,7 +155,7 @@ Girallons that are well treated might be willing to serve as guards, though they
 ![](Simians-Girallon-Token.png)
 
 >### Girallon
->*Large Monstrosity, Unaligned*
+>*Large monstrosity, Unaligned*
 >___
 >- **Armor Class** 13
 >- **Hit Points** 59 (7d10 + 21)

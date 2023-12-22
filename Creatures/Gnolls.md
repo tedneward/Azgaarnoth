@@ -187,7 +187,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 ![](Flind-Token.png)
 
 >### Flind
->*Medium Fiend (Gnoll), Typically Chaotic Evil*
+>*Medium fiend (Gnoll), Typically Chaotic Evil*
 >___
 >- **Armor Class** 16 (breastplate)
 >- **Hit Points** 127 (15d8 + 60)
@@ -235,7 +235,7 @@ These gnolls eschew the use of ranged weapons in favor of short blades that they
 ![](GnollFleshGnawer-Token.png)
 
 >### Gnoll Flesh Gnawer
->*Medium Monstrosity, Typically Chaotic Evil*
+>*Medium monstrosity, Typically Chaotic Evil*
 >___
 >- **Armor Class** 14 (studded leather)
 >- **Hit Points** 22 (4d8 + 4)
@@ -284,7 +284,7 @@ Hunters are particularly skilled with the longbow, and they fire arrows with vic
 ![](GnollHunter-Token.png)
 
 >### Gnoll Hunter
->*Medium Monstrosity, Typically Chaotic Evil*
+>*Medium monstrosity, Typically Chaotic Evil*
 >___
 >- **Armor Class** 13 (leather armor)
 >- **Hit Points** 22 (4d8 + 4)
@@ -335,7 +335,7 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 ![](GnollWitherling-Token.png)
 
 >### Gnoll Witherling
->*Medium Undead, Typically Chaotic Evil*
+>*Medium undead, Typically Chaotic Evil*
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 11 (2d8 + 2)

@@ -37,7 +37,7 @@ d100 | Effect
 
 
 >### Sibriex
->*Huge Fiend (Demon), Typically Chaotic Evil*
+>*Huge fiend (Demon), Typically Chaotic Evil*
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 150 (12d12 + 72)

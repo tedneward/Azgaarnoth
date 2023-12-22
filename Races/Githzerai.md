@@ -1,7 +1,11 @@
-# Gith
+# Githzerai
+*see [Githzerai](../Creatures/Githzerai.md) for more details*
+
 Within Azgaarnoth, gith are thought to be [elves](Elves/index.md) captured by the illithids very early in the days of the [Eldar](../History/Eldar.md) and never rescued. Once secured, the illithids examined their captive elves (and dwarves), and then subsequently genetically or behaviorally altered them into their current form. By the time the gith--named after the leader who led them in revolt--staged their successful rebellion against their illithid masters, the connection between elf and gith had long been lost to history. Despite that long and painful distance, genetically the two races seem to recognize one another. 
 
-For whatever reason, both [githyanki](../Creatures/Githyanki.md) and [githzerai](../Creatures/Githzerai.md) trod carefully around elves, preferring to be cautious around one another. It is rumored that the [Dread Emperor](../People/DreadEmperor.md) has sought an alliance with the githyanki for centuries; rumors also contend that the [Draconic Order](../Organizations/MilitantOrders/DraconicOrder/index.md) has made a deal with the githzerai: a secret safe monastery within Azgaarnoth (to train both young githzerai as well as promising mortal monks), in exchange for information and/or introductions to "psionic dragons". The reasons for the Order's interest in these dragons, if true, are fairly obvious.
+For whatever reason, both [githyanki](../Creatures/Githyanki.md) and [githzerai](../Creatures/Githzerai.md) trod carefully around elves, preferring to be cautious in their interactions and guarded in their speech. Most githzerai are more comfortable with the dwarven half of the Firstborn races, and often act aloof to humans. Among the Hordes, githzerai get along very well with hobgoblins and minotaurs, less so with orcs and goblins, and almost not at all with gnolls. 
+
+It is rumored that the [Dread Emperor](../People/DreadEmperor.md) has sought an alliance with the githyanki for centuries; rumors also contend that the [Draconic Order](../Organizations/MilitantOrders/DraconicOrder/index.md) has made a deal with the githzerai: a secret safe monastery within Azgaarnoth (to train both young githzerai as well as promising mortal monks), in exchange for information and/or introductions to "psionic dragons". The reasons for the Order's interest in these dragons, if true, are fairly obvious.
 
 ```
 name = 'Githzerai'

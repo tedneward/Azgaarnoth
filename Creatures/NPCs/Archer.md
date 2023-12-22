@@ -32,7 +32,7 @@ d12	Fletching
 12	Stirge wing vanes
 
 >### Archer
->*Medium Humanoid, Any Alignment*
+>*Medium humanoid , Any Alignment*
 >___
 >- **Armor Class** 16 (studded leather)
 >- **Hit Points** 75 (10d8 + 30)

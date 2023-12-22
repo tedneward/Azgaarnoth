@@ -428,7 +428,7 @@ Extraplanar, Conjured/Summoned
 ![](ShadowMastiff-Token.png)
 
 >### Shadow Mastiff
->*Medium Monstrosity, Typically Neutral Evil*
+>*Medium monstrosity, Typically Neutral Evil*
 >___
 >- **Armor Class** 12
 >- **Hit Points** 33 (6d8 + 6)

@@ -6,7 +6,7 @@ The demon lord Baphomet gladly shares the secret of creating tanarukks with thos
 Although tanarukks are valued as fearsome fighters, they are a threat to their allies off the battlefield. When not in combat, a tanarukk is destructive and volatile and is usually kept imprisoned by its allies. If unrestrained, a free tanarukk embarks on a rampage, attempting to take over by force. Most such coups fail but are costly nonetheless. If a tanarukk does seize the leadership of a group, reckless raiding or even war is the course they inevitably choose.
 
 >### Tanarukk
->*Medium Fiend (Demon), Typically Chaotic Evil*
+>*Medium fiend (Demon), Typically Chaotic Evil*
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 95 (10d8 + 50)

@@ -18,7 +18,7 @@ Underdark
 ### Token
 
 >### Female Steeder
->*Large Monstrosity, Unaligned*
+>*Large monstrosity, Unaligned*
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 30 (4d10 + 8)
@@ -62,7 +62,7 @@ Underdark
 
 
 >### Male Steeder
->*Medium Monstrosity, Unaligned*
+>*Medium monstrosity, Unaligned*
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 13 (2d8 + 4)

@@ -1,7 +1,7 @@
 # Duergar
 Duergar are dwarves of the deep reaches of the Underdark and other sunless realms. Their personalities and abilities have been deeply impacted by their ancestors' captivity and torment by mind flayers; they were infused with powerful psionic abilities but also a profound gloom. In some, this strain of sorrow inspires works of grand but melancholic beauty, while in others, it manifests as rage. Most duergar (including females) are bald and have ashen gray skin. They wear drab clothing designed to blend in with stone, along with simple jewelry that reflects their severe and utilitarian demeanor.
 
-> Jump to: [Duergar](#duergar-1) | [Duergar Despot](#duergar-despot) | [Duergar Kavalrachni](#duergar-kavalrachni) | [Duergar Mind Master](#duergar-mind-master) | [Duergar Soulblade](#duergar-soulblade) | [Duergar Stone Guard](#duergar-stone-guard) | [Duergar Warlord](#duergar-warlord) | [Duergar Xarrorn](#duergar-xarrorn)
+> Jump to: [Duergar](Duergar.md#duergar-1) | [Duergar Despot](#duergar-despot) | [Duergar Kavalrachni](#duergar-kavalrachni) | [Duergar Mind Master](#duergar-mind-master) | [Duergar Soulblade](#duergar-soulblade) | [Duergar Stone Guard](#duergar-stone-guard) | [Duergar Warlord](#duergar-warlord) | [Duergar Xarrorn](#duergar-xarrorn)
 
 Like many who dwell in the Underdark, duergar must constantly be on guard against the raids and plots of their neighbors. To this end, duergar warriors fulfill a variety of combat roles, often marrying their fury in battle with their psionic abilities or training dangerous Underdark creatures as mounts.
 
@@ -66,8 +66,9 @@ Underdark
 >
 >***Javelin.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarged.
 >
+
 ---
->
+
 ## Duergar Despot
 Duergar despots replace parts of their bodies with mechanical devices that they control through their psionic abilities.
 
@@ -78,7 +79,7 @@ Underdark
 ![](Duergar-Token.png)
 
 >### Duergar Despot
->*Medium Humanoid (Dwarf), Any Alignment*
+>*Medium humanoid  (Dwarf), Any Alignment*
 >___
 >- **Armor Class** 21 (natural armor)
 >- **Hit Points** 119 (14d8 + 56)
@@ -118,8 +119,9 @@ Underdark
 >***Flame Jet.*** The duergar spews flames in a line 100 feet long and 5 feet wide. Each creature in the line must make a DC 16 Dexterity saving throw, taking 18 (4d8) fire damage on a failed save, or half as much damage on a successful one.
 >
 >***Spellcasting (Psionics).*** The duergar casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 12):
->* At will: mage hand, minor illusion
->* 1/day: stinking cloud
+>
+>* *At will:* mage hand, minor illusion
+>* *1/day:* stinking cloud
 >
 
 ---
@@ -134,7 +136,7 @@ Underdark
 ![](Duergar-Token.png)
 
 >### Duergar Kavalrachni
->*Medium Humanoid (Dwarf), Any Alignment*
+>*Medium humanoid  (Dwarf), Any Alignment*
 >___
 >- **Armor Class** 16 (scale mail, shield)
 >- **Hit Points** 26 (4d8 + 8)
@@ -185,7 +187,7 @@ Underdark
 ![](Duergar-Token.png)
 
 >### Duergar Mind Master
->*Medium Humanoid (Dwarf), Any Alignment*
+>*Medium humanoid  (Dwarf), Any Alignment*
 >___
 >- **Armor Class** 14 (leather armor)
 >- **Hit Points** 39 (6d8 + 12)
@@ -235,7 +237,7 @@ Underdark
 ![](Duergar-Token.png)
 
 >### Duergar Soulblade
->*Medium Humanoid (Dwarf), Any Alignment*
+>*Medium humanoid  (Dwarf), Any Alignment*
 >___
 >- **Armor Class** 14 (leather armor)
 >- **Hit Points** 27 (6d8)
@@ -283,7 +285,7 @@ Underdark
 ![](Duergar-Token.png)
 
 >### Duergar Stone Guard
->*Medium Humanoid (Dwarf), Any Alignment*
+>*Medium humanoid  (Dwarf), Any Alignment*
 >___
 >- **Armor Class** 18 (chain mail, shield)
 >- **Hit Points** 39 (6d8 + 12)
@@ -337,7 +339,7 @@ Underdark
 ![](Duergar-Token.png)
 
 >### Duergar Warlord
->*Medium Humanoid (Dwarf), Any Alignment*
+>*Medium humanoid  (Dwarf), Any Alignment*
 >___
 >- **Armor Class** 20 (plate mail, shield)
 >- **Hit Points** 75 (10d8 + 30)
@@ -394,7 +396,7 @@ Underdark
 ![](Duergar-Token.png)
 
 >### Duergar Xarrorn
->*Medium Humanoid (Dwarf), Any Alignment*
+>*Medium humanoid  (Dwarf), Any Alignment*
 >___
 >- **Armor Class** 18 (plate mail)
 >- **Hit Points** 26 (4d8 + 8)
@@ -422,7 +424,7 @@ Underdark
 >#### Actions
 >***Fire Lance.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 9 (1d12 + 3) piercing damage, or 16 (2d12 + 3) piercing damage while under the effect of Enlarge, plus 3 (1d6) fire damage.
 >
->***Fire Spray (Recharge 5�6).*** From its fire lance, the duergar shoots a 15-foot cone of fire or a line of fire 30 feet long and 5 feet wide. Each creature in that area must make a DC 12 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one.
+>***Fire Spray (Recharge 5-6).*** From its fire lance, the duergar shoots a 15-foot cone of fire or a line of fire 30 feet long and 5 feet wide. Each creature in that area must make a DC 12 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one.
 >
 >***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns invisible for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
 >

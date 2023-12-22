@@ -404,7 +404,7 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 ![](Nilbog-Token.png)
 
 >### Nilbog
->*Small Fey (Goblinoid), Typically Chaotic Neutral*
+>*Small fey (Goblinoid), Typically Chaotic Neutral*
 >___
 >- **Armor Class** 13 (leather armor)
 >- **Hit Points** 7 (2d6)

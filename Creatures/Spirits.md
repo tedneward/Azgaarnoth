@@ -336,7 +336,7 @@ Conjured/Summoned
 ![](Spirits-OozeSpirit-Token.png)
 
 >### Ooze Spirit
->*Medium ooze* 
+>*Medium ooze, unaligned* 
 >___
 >- **Armor Class** 7 + the level of the spell (natural armor)
 >- **Hit Points** 30 + 10 for each spell level above 3rd
@@ -388,7 +388,7 @@ Conjured/Summoned
 ![](ReaperSpirit-Token.png)
 
 >### Reaper Spirit
->*Medium Undead, unaligned*
+>*Medium undead, unaligned*
 >___
 >- **Armor Class** 11 + the level of the spell (natural armor)
 >- **Hit Points** 40 + 10 for each level of the spell above 4th
@@ -484,7 +484,7 @@ Conjured/Summoned
 ![](WarriorSpirit-Token.png)
 
 >### Warrior Spirit
->*Medium Undead, unaligned*
+>*Medium undead, unaligned*
 >___
 >- **Armor Class** 13 + the level of the spell + 2 (Fighter only)
 >- **Hit Points** 30 (Babarian and Fighter only) or 20 (Monk only) + 10 for each spell level above 3rd

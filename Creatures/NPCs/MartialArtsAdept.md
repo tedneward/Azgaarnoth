@@ -25,7 +25,7 @@ d8	Tattoo
 
 
 >### Martial Arts Adept
->*Medium Humanoid, Any Alignment*
+>*Medium humanoid , Any Alignment*
 >___
 >- **Armor Class** 16 (Unarmored Defense)
 >- **Hit Points** 60 (11d8 + 11)

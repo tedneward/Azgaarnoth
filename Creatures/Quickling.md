@@ -18,7 +18,7 @@ Forest
 ![](Quickling-Token.png)
 
 >### Quickling
->*Tiny Fey, Typically Chaotic Evil*
+>*Tiny fey, Typically Chaotic Evil*
 >___
 >- **Armor Class** 16
 >- **Hit Points** 10 (3d4 + 3)

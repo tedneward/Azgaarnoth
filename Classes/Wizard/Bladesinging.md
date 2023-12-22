@@ -87,3 +87,12 @@ def level10(npc):
 *14th-level Bladesinging feature*
 
 You add your Intelligence modifier (minimum of +1) to the damage of your melee weapon attacks while your Bladesong is active.
+
+---
+
+# Bladesinging Spells
+Over the years, bladesingers have developed a certain number of spells that they will only teach to their apprentices.
+
+* [blade of elemental chaos](), [blazing blade arc](), [darkness blade arc](), [freezing blade arc](), [howling blade arc](), [luminous blade arc](), [magic blade arc](), [shocking blade arc]()
+* [battlesheath of flames](), [battlesheath of frost](), [battlesheath of lightning]()
+* 6th: [antimagic strike]()

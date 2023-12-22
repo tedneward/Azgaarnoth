@@ -8,10 +8,10 @@ Once you gain access to one of these spells, you always have it prepared, and it
 
 | Druid Level | Spells |
 |:----:|:------------- |
-| 3rd | darkness, Snilloc's snowball swarm |
+| 3rd | darkness, Snilloc's snowball swarm, frozen feet |
 | 5th | sleet storm, wall of water |
 | 7th | fire shield, ice storm |
-| 9th | cone of cold, control winds |
+| 9th | cone of cold, control winds, winterfloor |
 
 #### Winter Spirit
 At 2nd level, you can lower your body's temperature to below freezing through druidic magic. As an action, you can expend a use of your Wild Shape feature to channel the might of winter, rather than transforming into a beast form, and you gain 5 temporary hit points for each level you have in this class. While this feature is active, you gain the following benefits:

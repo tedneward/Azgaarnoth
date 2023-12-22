@@ -14,7 +14,7 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
 Underdark
 
 >### Cave Fisher
->*Medium Monstrosity, Unaligned*
+>*Medium monstrosity, Unaligned*
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 58 (9d8 + 18)

@@ -207,7 +207,7 @@ Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban
 ![](KoboldInventor-Token.png)
 
 >### Kobold Inventor
->*Small Humanoid, Any Alignment*
+>*Small humanoid , Any Alignment*
 >___
 >- **Armor Class** 12
 >- **Hit Points** 13 (3d6 + 3)
@@ -271,7 +271,7 @@ Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban
 ![](KoboldScaleSorcerer-Token.png)
 
 >### Kobold Scale Sorcerer
->*Small Humanoid, Any Alignment*
+>*Small humanoid , Any Alignment*
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 27 (5d6 + 10)

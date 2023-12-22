@@ -6,7 +6,7 @@ Narzugons wield hell-forged lances that shunt the souls of any they killed to th
 Each narzugon claims a [nightmare](../Exotic/Nightmare.md) as its mount. These steeds are bound by [infernal tack](../../Magic/Items/infernal-tack.md) and must respond to the summons and commands of the spurs' wearer.
 
 >### Narzugon
->*Medium Fiend (Devil), Typically Lawful Evil*
+>*Medium fiend (Devil), Typically Lawful Evil*
 >___
 >- **Armor Class** 20 (plate armor, shield)
 >- **Hit Points** 112 (15d8 + 45)

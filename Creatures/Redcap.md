@@ -20,7 +20,7 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 ![](Redcap-Token.png)
 
 >### Redcap
->*Small Fey, Chaotic Evil*
+>*Small fey, Chaotic Evil*
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 45 (6d6 + 24)
