@@ -1,7 +1,7 @@
 # Simians
 The simian family of creatures are those that are vaguely humanoid yet still bestial: monkeys, baboons, apes, and so on.
 
-> Jump to: [Baboon](Simians.md#baboon) | [Giant Ape](Simians.md#giant-ape) | [Girallon](Simians.md#girallon)
+> Jump to: [Ape](Simians.md#ape) [Baboon](Simians.md#baboon) | [Giant Ape](Simians.md#giant-ape) | [Girallon](Simians.md#girallon)
 
 ---
 

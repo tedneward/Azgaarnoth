@@ -135,13 +135,11 @@ At 3rd level, you choose an archetype that you strive to emulate in your combat 
 * [Eldritch Knight](EldritchKnight.md)
 * [Elemental Blade](ElementalBlade.md)
 * [Ghost Warrior](GhostWarrior.md)
-* [Hollow Knight](Hollow.md)
 * [Monster Hunter](MonsterHunter.md)
 * [Psi Knight](PsiKnight.md)
 * [Rune Knight](RuneKnight.md)
 * [Samurai](Samurai.md)
 * [Scout](Scout.md)
-* [Sharpshooter](Sharpshooter.md)
 * [Stillmind Warrior](Stillmind.md)
 * [Weapon Master](WeaponMaster.md)
 
