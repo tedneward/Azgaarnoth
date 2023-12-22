@@ -1,13 +1,13 @@
 # Zombies
 A zombie retains no vestiges of its former self, its mind devoid of thought and imagination. A zombie left without orders simply stands in place and rots unless something comes along that it can kill. The magic animating a zombie imbues it with evil, so left without purpose, it attacks any living creature it encounters.
 
-> Jump to: [Zombie](Zombies.md#zombie) | [Psychic Zombie](Zombies.md)
+> Jump to: [Zombie](Zombies.md#zombie) | [Psychic Zombie](Zombies.md) | [Zombie Knight](Zombies.md#zombie-knight)
 
 ***Hideous Forms.*** Zombies appear as they did in life, showing the wounds that killed them. However, the magic that creates these vile creatures often takes time to run its course. Dead warriors might rise from a battlefield, eviscerated and bloated after days in the sun. The muddy cadaver of a peasant could claw its way from the ground, riddled with maggots and worms. A zombie might wash ashore or rise from a marsh, swollen and reeking after weeks in the water.
 
 ***Mindless Soldiers.*** Zombies take the most direct route to any foe, unable to comprehend obstacles, tactics, or dangerous terrain. A zombie might stumble into a fast-flowing river to reach foes on a far shore, clawing at the surface as it is battered against rocks and destroyed. To reach a foe below it, a zombie might step out of an open window. Zombies stumble through roaring infernos, into pools of acid, and across fields littered with caltrops without hesitation.
 
-***Undead Nature.*** A wight doesn't require air, food, drink, or sleep.
+***Undead Nature.*** A zombie doesn't require air, food, drink, or sleep.
 
 ---
 
@@ -104,3 +104,55 @@ Arctic, Astral, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Under
 >
 >#### Reactions
 >***Feeding Frenzy.*** When a creature is reduced to 0 hit points, the zombie can move up to 20 feet directly towards it and make a Bite attack against it.
+
+---
+
+## Zombie Knight
+A reanimated knight, taken from their grave to serve a new master, as devoted in death as they were while alive. Zombie knights are more aware than ordinary zombies and may experience dim memories from their past lives, especially relating to battles they fought in. A zombie knight is often found leading a pack of lesser undead in a twisted parody of the soldiers they once commanded, though as strategy is almost lost to them, they fight unfeelingly and unrelentingly until destroyed.
+
+### Environment
+Arctic, Astral, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, Urban,  Summoned/Conjured
+
+### Token
+![](Zombies-Zombie-Token.png)
+
+>### Zombie Knight
+>*Medium undead, neutral evil*
+>___
+>- **Armor Class** 18 (chain mail, shield)
+>- **Hit Points** 60 (8d8 + 24)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|10 (+0)|16 (+3)|4 (-3)|8 (-1)|6 (-2)|
+>
+>___
+>- **Proficiency Bonus** +2
+>- **Saving Throws** Str +6, Con +5
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** necrotic
+>- **Damage Immunities** poison
+>- **Condition Immunities** poisoned
+>- **Skills** 
+>- **Senses** ddarkvision 60 ft., passive Perception 9
+>- **Languages** understands the languages it knew in life but can't speak
+>- **Challenge** 3
+>___
+>***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+>
+>***Undying Might (Recharges after a Short or Long Rest).*** If the zombie dies, it reanimates at the start of its next turn with half of its maximum hit points.
+>
+>#### Actions
+>***Multiattack.*** The zombie makes two melee attacks, either two Longsword attacks or one Longsword and one Shield Bash attack.
+>
+>***Longsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage or 9 (1d10 + 4) slashing damage if used with two hands.
+>
+>***Shield Bash.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 6 (1d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
+>
+>#### Bonus Actions
+>***Raise Shield.*** The zombie raises its shield, granting it a +2 bonus to its AC and Dexterity saving throws, and reducing any damage it takes by 1d10 + 3 until the start of its next turn. If the zombie is hit by a melee attack and does not reduce the damage to 0, it loses the benefits of its shield until the start of its next turn.
+>
+>#### Reactions
+>***Parry.*** The zombie adds 2 to its AC against one melee attack that would hit it. To do so, the zombie must see the attacker and be wielding a melee weapon.
+>

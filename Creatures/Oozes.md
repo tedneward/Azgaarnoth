@@ -1,7 +1,7 @@
 # Oozes
 Oozes thrive in the dark, shunning areas of bright light and extreme temperatures. They flow through the damp underground, feeding on any creature or object that can be dissolved, slinking along the ground, dripping from walls and ceilings, spreading across the edges of underground pools, and squeezing through cracks. The first warning an adventurer receives of an ooze's presence is often the searing pain of its acidic touch.
 
-> Jump to: [Black Pudding](Oozes.md#black-pudding) | [Gelatinous Cube](Oozes.md#gelatinous-cube) | [Gray Ooze](Oozes.md#gray-ooze) | [Ochre Jelly](Oozes.md#ochre-jelly) | [Psychic Gray Ooze](Oozes.md#psychic-gray-ooze) | [Slithering Tracker](Oozes.md#slithering-tracker) | [Molten Ooze](Oozes.md#molten-ooze)
+> Jump to: [Black Pudding](Oozes.md#black-pudding) | [Gelatinous Cube](Oozes.md#gelatinous-cube) | [Gray Ooze](Oozes.md#gray-ooze) | [Ochre Jelly](Oozes.md#ochre-jelly) | [Psychic Gray Ooze](Oozes.md#psychic-gray-ooze) | [Molten Ooze](Oozes.md#molten-ooze) | [Winter Ooze](Oozes.md#winter-ooze) | [Arcane Ooze](Oozes.md#arcane-ooze)
 
 Oozes are drawn to movement and warmth. Organic material nourishes them, and when prey is scarce they feed on grime, fungus, and offal. Veteran explorers know that an immaculately clean passageway is a likely sign that an ooze lairs nearby.
 
@@ -25,10 +25,10 @@ A black pudding resembles a heaving mound of sticky black sludge. In dim passage
 Flesh, wood, metal, and bone dissolve when the pudding ebbs over them. Stone remains behind, wiped clean.
 
 ### Environment
-(FIXME)
+Mountains, Ruins, Underdark, Undersea, Urban
 
 ### Token
-![](BlackPudding-Token.png)
+![](Oozes-BlackPudding-Token.png)
 
 >### Black Pudding
 >*Large ooze, unaligned*
@@ -84,10 +84,10 @@ Gelatinous cubes scour dungeon passages in silent, predictable patterns, leaving
 A gelatinous cube is all but transparent, making it hard to spot until it attacks. A cube that is well fed can be easier to spot, since its victims' bones, coins, and other objects can be seen suspended inside the creature.
 
 ### Environment
-(FIXME)
+Ruins, Underdark, Undersea, Urban
 
 ### Token
-![](GelatinousCube-Token.png)
+![](Oozes-GelatinousCube-Token.png)
 
 >### Gelatinous Cube
 >*Large ooze, unaligned*
@@ -146,10 +146,10 @@ A gray ooze is stone turned to liquid by chaos. When it moves, it slithers like 
 ![](Oozes-GrayOoze.png)
 
 ### Environment
-(FIXME)
+Hills, Mountains, Ruins, Underdark, Undersea, Urban
 
 ### Token
-![](GrayOoze-Token.png)
+![](Oozes-GrayOoze-Token.png)
 
 >### Gray Ooze
 >*Medium ooze, unaligned*
@@ -185,10 +185,6 @@ A gray ooze is stone turned to liquid by chaos. When it moves, it slithers like 
 >#### Actions
 >***Pseudopod.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 >
->## Token
->
->[](Oozes-GrayOoze-Token.png)
->
 
 ---
 
@@ -198,10 +194,10 @@ A gray ooze is stone turned to liquid by chaos. When it moves, it slithers like 
 ![](Oozes-GrayOoze.png)
 
 ### Environment
-(FIXME)
+Hills, Mountains, Ruins, Underdark, Undersea, Urban
 
 ### Token
-![](GrayOoze-Token.png)
+![](Oozes-GrayOoze-Token.png)
 
 >### Huge Gray Ooze
 >*Huge ooze, unaligned*
@@ -243,10 +239,6 @@ A gray ooze is stone turned to liquid by chaos. When it moves, it slithers like 
 >
 >***Invisibility (Recharges after a Short or Long Rest).*** The ooze magically turns invisible for up to 1 hour until it attacks, it uses its Enlarge, or its concentration is broken (as if concentrating on a spell).
 >
->## Token
->
->[](Oozes-GrayOoze-Token.png)
->
 
 ---
 
@@ -258,10 +250,10 @@ Ochre jellies are yellowish blobs that can slide under doors and through narrow 
 An ochre jelly follows at a safe distance as it pursues its meal. Its digestive enzymes dissolve flesh quickly but have no effect on other substances such as bone, wood, and metal.
 
 ### Environment
-(FIXME)
+Forest, Ruins, Swamp, Underdark, Undersea, Urban
 
 ### Token
-![](OchreJelly-Token.png)
+![](Oozes-OchreJelly-Token.png)
 
 >### Ochre Jelly
 >*Large ooze, unaligned*
@@ -295,11 +287,6 @@ An ochre jelly follows at a safe distance as it pursues its meal. Its digestive 
 >
 >#### Reactions
 >***Split.*** When a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10 hit points. Each new jelly has hit points equal to half the original jelly's, rounded down. New jellies are one size smaller than the original jelly.
->
->## Token
->
->[](Oozes-OchreJelly-Token.png)
->
 
 ---
 
@@ -308,13 +295,11 @@ A gray ooze that lives a long time can evolve to become more intelligent and dev
 
 ![](Oozes-GrayOoze.png)
 
-A psionic gray ooze has an Intelligence score of 6 (−2), as well as the following additional action.
-
 ### Environment
-(FIXME)
+Ruins, Underdark, Undersea, Urban
 
 ### Token
-![](PsychicGrayOoze-Token.png)
+![](Oozes-GrayOoze-Token.png)
 
 >### Psychic Gray Ooze
 >*Medium ooze, unaligned*
@@ -352,10 +337,6 @@ A psionic gray ooze has an Intelligence score of 6 (−2), as well as the follow
 >
 >***Psychic Crush (Recharge 5–6).*** The ooze targets one creature that it can sense within 60 feet of it. The target must make a DC 10 Intelligence saving throw, taking 10 (3d6) psychic damage on a failed save, or half as much damage on a successful one.
 >
->## Token
->
->[](Oozes-GrayOoze-Token.png)
->
 
 ---
 
@@ -364,13 +345,11 @@ A gray ooze that lives a long time can evolve to become more intelligent and dev
 
 ![](Oozes-GrayOoze.png)
 
-A psionic gray ooze has an Intelligence score of 6 (−2), as well as the following additional action.
-
 ### Environment
-(FIXME)
+Ruins, Underdark, Undersea, Urban
 
 ### Token
-![](PsychicGrayOoze-Token.png)
+![](Oozes-GrayOoze-Token.png)
 
 >### Large Psychic Gray Ooze
 >*Large ooze, unaligned*
@@ -410,69 +389,9 @@ A psionic gray ooze has an Intelligence score of 6 (−2), as well as the follow
 >
 >***Psychic Crush (Recharge 5–6).*** The ooze targets one creature that it can sense within 60 feet of it. The target must make a DC 14 Intelligence saving throw, taking 20 (6d6) psychic damage on a failed save, or half as much damage on a successful one.
 >
->## Token
->
->[](Oozes-GrayOoze-Token.png)
->
 
 ---
 
-## Slithering Tracker
-The quest for revenge sometimes leads one to undergo a ritual whereby they transform into a body of semiliquid sentience known as a slithering tracker. Innocuous and insidious at the same time, a tracker flows into places where a normal creature can't go and brings its own brand of watery death down upon its quarry.
-
-***Vengeance at Any Cost.*** The ritual for creating a slithering tracker is known to hags, liches, and priests who worship gods of vengeance. It can only be performed on a willing creature that hungers for revenge. The ritual sucks all the moisture from the person's body, killing it. Yet the mind lives on in the puddle of liquid that issues forth from the remains, and so too does the subject's insatiable need for retribution.
-
-***Stealthy Assassins.*** A slithering tracker tastes the ground it courses over, seeking any trace of its prey. To kill, a slithering tracker rises up and enshrouds a creature, attempting to drown the prey while also draining it of blood. A slithering tracker that has killed in this fashion becomes much easier to locate for a time, since its liquid form becomes tinged with blood and its body leaves a visible trail of the stuff behind it.
-
-***Descent into Madness.*** Achieving revenge against its target doesn't end a slithering tracker's existence, nor its hunger for blood. Some slithering trackers remain aware of their purpose and extend their quest for vengeance to others, such as anyone who supported or befriended the original target. Most of the time, though, a tracker's mind can't cope with being trapped in liquid form, unable to communicate, and driven by the desire for blood: after a tracker fulfills its duty, insanity takes over the creature, and it attacks indiscriminately until it is destroyed.
-
-### Environment
-Extraplanar, Conjured/Summoned
-
-### Token
-![](Oozes-SlitheringTracker-Token.png)
-
->### Slithering Tracker
->*Medium ooze, Typically Chaotic Evil*
->___
->- **Armor Class** 14
->- **Hit Points** 39 (6d8 + 12)
->- **Speed** 30 ft., climb 30 ft., swim 30 ft.
->___
->|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|16 (+3)|19 (+4)|15 (+2)|10 (+0)|14 (+2)|11 (+0)|
->
->___
->- **Proficiency Bonus** +2
->- **Saving Throws** 
->- **Damage Vulnerabilities** cold,fire
->- **Damage Resistances** bludgeoning,piercing,and slashing from nonmagical attacks
->- **Damage Immunities** 
->- **Condition Immunities** blinded,deafened,exhaustion,grappled,paralyzed,petrified,prone,restrained,unconscious
->- **Skills** Stealth +8,Survival +6
->- **Senses** blindsight 120 ft.,passive Perception 12
->- **Languages** understands languages it knew in its previous form but can't speak
->- **Challenge** 3
->___
->***False Appearance.*** If the slithering tracker is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the slithering tracker move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the slithering tracker isn't a puddle.
->
->***Liquid Form.*** The slithering tracker can enter an enemy's space and stop there. It can also move through a space as narrow as 1 inch wide without squeezing.
->
->***Spider Climb.*** The slithering tracker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
->
->#### Actions
->***Slam.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) bludgeoning damage.
->
->***Life Leech.*** One Large or smaller creature that the slithering tracker can see within 5 feet of it must succeed on a DC 13 Dexterity saving throw or be grappled (escape DC 13). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. In addition, the grappled target takes 16 (3d10) necrotic damage at the start of each of its turns. The slithering tracker can grapple only one target at a time.
->
->While grappling the target, the slithering tracker takes only half any damage dealt to it (rounded down), and the target takes the other half.
->
->#### Bonus Actions
->***Watery Stealth.*** If underwater, the slithering tracker takes the Hide action, and it makes the Dexterity (Stealth) check with advantage.
->
-
----
 
 ## Molten Ooze
 Oozes are simple-minded, amorphous creatures that live only to consume. Some oozes take on elemental traits, such as the heated kind known as a molten ooze. It is mottled with red and black and speckled with orange flecks, and is easily mistaken for lava itself. Its body is dense, viscous, and resilient against harm. These oozes are extremely dangerous for novice adventurers.
@@ -572,4 +491,68 @@ Extraplanar, Mountain, Arctic, Conjured/Summoned
 >#### Actions
 >***Pseudopod.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage plus 7
 (2d6) acid damage and 9 (2d8) cold damage, and if the target is a creature, it is grappled (escape DC 14). While grappled in this way, the target is also restrained. Until this grapple ends, the ooze can't attack another target. If the target is a creature or a object, it takes 5 (1d10) cold damage at the end of each of its turns.
+>
+
+---
+
+## Arcane Ooze
+Created in ancient times, arcane oozes have long since outlived their original purpose and their long-forgotten creators. They are often mistaken for green slime, but almost from the first moment of interaction, opponents discover the stark difference: The bizarre creatures are not only immune to arcane magic, they have a strange affinity for it, draining arcane energy from nearby spellcasters.
+
+![](Oozes-ArcaneOoze.png)
+>"The creature resembled a fluid mass of green protoplasm. Within its immense bulk, glowing veins throb and pulse with eldritch light." 
+
+Some speculate that these oozes were created to combat a rival group of arcane spellcasters, but scant evidence backs any such conclusion. Others suggest arcane oozes arose as a natural response to some cataclysmic event caused by arcane magic. Adherents of these later theories claim that one day arcane oozes will drown out all arcane magic in the world.
+
+Arcane oozes have a disturbingly high tendency to appear in the sewers of cities with high arcane concentration, and many large cities have dedicated teams of "sewer rats" (adventurers under contract) paid by mage schools to routinely explore the sewers to find and eliminate these arcane threats.
+
+### Environment
+Extraplanar, Ruins, Urban, Conjured/Summoned
+
+### Token
+
+>### Arcane Ooze
+>*Large ooze, unaligned*
+>___
+>- **Armor Class** 6
+>- **Hit Points** 147 (14d10 + 70)
+>- **Speed** 20 ft., climb 20 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|19 (+4)|3 (-4)|20 (+5)|1 (-5)|6 (-2)|1 (-5)|
+>
+>___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** acid, lightning, slashing
+>- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
+>- **Skills** 
+>- **Senses** blindsight 60 ft. (blind beyond this radius),passive Perception 8
+>- **Languages** --
+>- **Challenge** 5
+>___
+>***Arcane Absorption.*** Whenever the ooze is subjected to damage caused by magic, it takes no damage and instead regains a number of hit points equal to the damage dealt.
+>
+>***Amorphous.*** The ooze can move through a space as narrow as 1 inch wide without squeezing.
+>
+>***Dispelling Vulnerability.*** If the ooze is targeted by [dispel magic](../Magic/Spells/dispel-magic.md), it takes 1d10 force damage per spell slot level used to cast the spell.
+>
+>***Lightning Haste.*** Whenever the ooze is subjected to lightning damage, it takes no damage and instead is subjected to the [haste](../Magic/Spells/haste.md) spell, lasting for a number of turns equal to the spell slot used to create the lightning damage (cantrip, till the end of its next turn, 1st-level for a full turn beyond that, and so on).
+>
+>***Limited Magic Immunity.*** The ooze is immune to spells of 2nd level or lower unless it wishes to be affected. It has advantage on saving throws against all other spells and magical effects.
+>
+>***Silence Magic.*** Any spellcaster that the ooze hits loses the ability to cast any spell till the start of its next turn; furthermore, roll a d6. On a 1 to 5, the target is unaffected. On a 6, the target loses a single spell slot chosen from its lowest available at the time.
+>
+>A creature engulfed by the ooze can't cast any spells and must succeed on a DC 14 Wisdom saving throw at the start of each of the ooze's turns or lose a single spell slot chosen from its lowest available at the time.
+>
+>The ooze can eat through 2-inch-thick, magical or nonmagical wood or metal in 1 round.
+>
+>#### Actions
+>***Multiattack.*** The ooze makes two attacks with its pseudopod attack.
+>
+>***Pseudopod.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage plus 10 (3d6) acid damage.
+>
+>***Engulf.*** The ooze moves up to its speed. While doing so, it can enter Large or smaller creatures' spaces. Whenever the ooze enters a creature's space, the creature must make a DC 15 Dexterity saving throw. On a successful save, the creature can choose to be pushed 5 feet back or to the side of the ooze. A creature that chooses not to be pushed suffers the consequences of a failed saving throw. On a failed save, the ooze enters the creature's space, and the creature takes 10 (3d6) acid damage and is engulfed. The engulfed creature is restrained, and takes 21 (6d6) acid damage at the start of each of the ooze's turns. When the ooze moves, the engulfed creature moves with it. An engulfed creature can try to escape by taking an action to make a DC 15 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the ooze.
 >

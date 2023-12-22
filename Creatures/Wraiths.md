@@ -1,7 +1,7 @@
 # Wraiths
 A wraith is malice incarnate, concentrated into an incorporeal form that seeks to quench all life. The creature is suffused with negative energy, and its mere passage through the world leaves nearby plants blackened and withered. Animals flee from its presence. Even small fires can be extinguished by the sucking oblivion of the wraith's horrifying existence.
 
-> Jump to: [Wraith](Wraiths.md#wraith) | [Demizen Wraith](Wraiths.md#demizen-wraith) | [Sword Wraith Warrior](Wraiths.md#sword-wraith-warrior) | [Sword Wraith Commander](Wraiths.md#sword-wraith-commander) 
+> Jump to: [Wraith](Wraiths.md#wraith) | [Demizen Wraith](Wraiths.md#demizen-wraith) | [Sword Wraith Warrior](Wraiths.md#sword-wraith-warrior) | [Sword Wraith Commander](Wraiths.md#sword-wraith-commander) | [Void Wraith]()
 
 ***Vile Oblivion.*** When a mortal humanoid lives a debased life or enters into a fiendish pact, it consigns its soul to eternal damnation in the Lower Planes. However, sometimes the soul becomes so suffused with negative energy that it collapses in on itself and ceases to exist the instant before it can shuffle off to some horrible afterlife. When this occurs, the spirit becomes a soulless wraith — a malevolent void trapped on the plane where it died. Almost nothing of the wraith's former existence is preserved; in this new form, it exists only to annihilate other life.
 
@@ -233,3 +233,63 @@ Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Un
 >***Martial Fury.*** The commander makes one Longsword or Longbow attack, which deals an extra 9 (2d8) necrotic damage on a hit, and attack rolls against it have advantage until the start of its next turn.
 >
 
+---
+
+## Void Wraith
+The void wraiths are the embodiment of the unfeeling hunger that the Void can have, concentrated into an incorporeal form that seeks to take all souls to the Void. They are suffused with its energy, and its mere passage through any world leaves nearby plants blackened and withered. Animals flee from its presence. Even small fires can be extinguished by the sucking oblivion of its horrifying and unorthodox existence.
+
+***Bereft of Body.*** A void wraith can move through solid creatures and objects as easily as if they were fog.
+
+***Call of the Abyss.*** The soul of any creature slain by a void wraith is instantly transported to the Void, and in 24 hours they will become a void wraith themselves.
+
+### Environment
+
+### Token
+
+>### Void Wraith
+>*Medium undead, neutral evil*
+>___
+>- **Armor Class** 20 (natural armor)
+>- **Hit Points** 127 (15d8 + 60)
+>- **Speed** 0 ft., fly 70 ft. (hover)
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|19 (+4)|18 (+4)|6 (-2)|9 (-1)|20 (+5)|
+>
+>___
+>- **Proficiency Bonus** +5
+>- **Saving Throws** Cha +10
+>- **Damage Vulnerabilities** radiant
+>- **Damage Resistances** cold, fire; bludgeoning, piercing and slashing from nonmagical attacks
+>- **Damage Immunities** acid, necrotic, psychic
+>- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+>- **Skills** Intimidation +10, Perception +4
+>- **Senses** blindsight 30 ft., darkvision 60 ft., passive Perception 14
+>- **Languages** --
+>- **Challenge** 15
+>___
+>***Twisted Visage.*** When a creature sees a void wraith for the first time in its life, it must succeed in a DC 13 Constitution saving throw or become frightened for 5 minutes.
+>
+>***Incorporeal Movement.*** The void wraith can move through other creatures and objects as if they were difficult terrain. It takes 2 (1d4) force damage if it ends its turn inside an object, any creature the void wraith moves through in this way must make a DC 18 Wisdom saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a successful one.
+>
+>***Innate Spellcasting.*** The void wraith's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The void wraith can innately cast the following spells, requiring no material components:
+>
+>* *At will:* eldritch blast, spare the dying, thaumaturgy, vicious mockery
+>* *3/day each:* bane, chromatic orb, heat metal, spiritual weapon, thunderwave
+>
+>***Turn Resistance.*** The void wraith has advantage on saving throws against any effect that turns undead.
+>
+>#### Actions
+>***Multiattack.*** The void wraith makes three melee attacks or casts two spells and a cantrip.
+>
+>***Paralyzing Touch.*** Melee Spell Attack: +10 to hit, reach 5 ft., one creature. Hit: 25 (6d6 + 4) necrotic damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the beginning of each of its turns, ending the effect on itself on a success.
+>
+>#### Legendary Actions
+>The void wraith can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The void wraith regains spent legendary actions at the start of its turn.
+>
+>***Cantrip.*** The void wraith casts one spell it can cast at will.
+>
+>***True Soul Claim (Costs 2 Actions).*** The void wraith reaches out to the soul of one creature whose Hit Points have dropped to 0 within 10 feet of it. On their third failure, their soul will consume their body as the power of the Void enters them, turning them into a void wraith that will fight by its side.
+>
+>***Swarming Technique (Costs 2 Actions).*** The void wraith lets out an ethereal call that can be heard up to 300 feet away. Other void wraiths who hear it will respond, and other creatures must succeed on a Constitution saving throw or become stunned for 1 minute.
