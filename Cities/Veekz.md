@@ -5,7 +5,7 @@ Veekz is the lone city of the Ulmhorde on the Tragekian continent, and despite i
 
 **Population:** 17,000 *(Humans: 2,500, Firstborn: 1,700, Created: 2,500, Hordish: 11,000)*
 
-**Citadel.** An ancient citadel stands within Veekz's city limits, but currently is all but abandoned.
+**Citadel.** An ancient citadel stands within Veekz's city limits, but currently is all but abandoned, having fallen into disrepair after the Ninth Siege a few decades ago, and still needing extensive (and expensive) repairs. Lord Veekz has been promising to repair the citadel for several years now, but keeps running into obstacles in doing so (including his own greed).
 
 ## Geography
 **Latitude:** -16.57, **Longitude:** 25.23

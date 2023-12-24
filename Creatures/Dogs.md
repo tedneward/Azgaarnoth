@@ -314,15 +314,15 @@ Desert, Grassland, Hill
 ---
 
 ## Mastiff
-![](Dog-Mastiff.png)
-
 Mastiffs are impressive hounds prized by humanoids for their loyalty and keen senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halflings and other Small humanoids ride them as mounts.
+
+![](Dogs-Mastiff.png)
 
 ### Environment
 Forest, Urban
 
 ### Token
-![](Mastiff-Token.png)
+![](Dogs-Mastiff-Token.png)
 
 >### Mastiff
 >*Medium beast, unaligned*
@@ -408,6 +408,8 @@ Conjured/Summoned
 ## Shadow Mastiff
 These black hounds of the Shadowfell move invisibly through the shadows, always on the hunt. In gloomy places where the veil between the Shadowfell and the Material Plane is thinnest, they can cross over into the dark realms of the world.
 
+![](Dogs-ShadowMastiff.png)
+
 ***Ravenous Lurkers.*** Shadow mastiffs hunt in packs on the Shadowfell, so when one of them enters a rift between the planes, several more are sure to follow. Each pack is led by an alpha (male or female) that is the smartest and toughest one of the group. The alpha must remain sharp to keep the rest of the pack in line, lest it be killed and replaced.
 
 When a shadow mastiff pack is hungry and senses prey nearby, the alpha lets loose a howl that strikes fear into the hearts of nearby beasts and humanoids. Its howl is also a signal to the rest of the pack to move in for the kill. Gloom provides a shadow mastiff with supernatural protection, granting it resistance to nonmagical weapons while in dim light or darkness. Shadow mastiffs can tolerate bright light, but they shun sunlight.
@@ -425,7 +427,7 @@ A shadow mastiff [alpha](../Templates/Alpha.md) also has the Terrifying Howl act
 Extraplanar, Conjured/Summoned
 
 ### Token
-![](ShadowMastiff-Token.png)
+![](Dogs-ShadowMastiff-Token.png)
 
 >### Shadow Mastiff
 >*Medium monstrosity, Typically Neutral Evil*
@@ -467,6 +469,8 @@ Extraplanar, Conjured/Summoned
 ## Yeth Hound
 Granted by powerful fey to individuals who please them, yeth hounds serve evil masters like hunting dogs. Yeth hounds fly in pursuit of their prey, often waiting until it is too exhausted to fight back. Only the threat of dawn drives the pack back into hiding.
 
+![](Dogs-YethHound.png)
+
 ***Minions of a Dark Master.*** A pack of yeth hounds can be created by powerful fey such as the Queen of Air and Darkness. Once it is brought into existence, a pack must have a master, who is often someone the creator wishes to reward. The master can telepathically communicate with its yeth hounds to give them commands from afar. If the master of a pack is killed, the hounds seek and choose a new master, typically an individual of great evil such as a vampire, a necromancer, or a hag.
 
 A yeth hound stands about 5 feet tall at the shoulder and weighs around 400 pounds. Often all that can be seen of one in the darkness is the red glow of its eyes against its night-black fur. The head of a yeth hound has a human-like face, held up by a neck more flexible than a dog's. The creature gives off an odor like smoke.
@@ -481,7 +485,7 @@ Those that stand their ground and fight back discover that mundane weapons parti
 Conjured/Summoned
 
 ### Token
-![](YethHound-Token.png)
+![](Dogs-YethHound-Token.png)
 
 >### Yeth Hound
 >*Large fey, neutral evil*

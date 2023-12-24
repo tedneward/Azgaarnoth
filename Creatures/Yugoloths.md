@@ -133,6 +133,8 @@ Canoloths confront intruders with swift and terrible force, projecting long, spi
 ## Dhergoloth
 A kind of yugoloth, dhergoloths rush into battle like whirlwinds of destruction, lashing out with the five sets of claws that extend from their squat, barrel-shaped bodies. They take contracts to put down uprisings, clear out rabble, and eliminate scouts and skirmishers, and they revel in the butchery they create, their gleeful laughter rising above their victims' screams.
 
+![](Yugoloths-Dhergoloth.png)
+
 Since dhergoloths are little more than brutes, employers must use caution when instructing them. They can handle simple orders that don't take a lot of time to resolve. When given anything complex to do, however, they either forget what they're told or don't listen in the first place, and then bungle the task that was set for them.
 
 >### Dhergoloth
@@ -178,6 +180,8 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 
 ## Hydroloth
 Like the thought-stealing waters of the River Styx they inhabit, hydroloths filch the memories of creatures they attack, stealing away thoughts for delivery to whatever master they happen to serve. Hydroloths also savor finding lost things, especially those that have been swallowed up in the deeps.
+
+![](Yugoloths-Hydroloth.png)
 
 For amphibious assaults or underwater conflicts, hydroloths have no equal among yugoloths. They sometimes hire themselves out to attack and scuttle ships and raid coastal settlements.
 
@@ -232,6 +236,8 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
 
 ## Merrenoloth
 The grim captains of the ferries on the River Styx, merrenoloths can navigate safely through the worst storms and always stay on course. Wielding fiery oars, merrenoloths strike fear into anyone who forcefully boards their vessels.
+
+![](Yugoloths-Merrenoloth.png)
 
 >### Merrenoloth
 >*Medium fiend (Yugoloth), Typically Neutral Evil*
@@ -434,9 +440,8 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
 >
 >***Spellcasting.*** The oinoloth casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
 >
->At will: darkness, detect magic, dispel magic, hold monster, invisibility (self only)
->
->1/day each: feeblemind, globe of invulnerability
+>* *At will:* darkness, detect magic, dispel magic, hold monster, invisibility (self only)
+>* *1/day each:* feeblemind, globe of invulnerability
 >
 >***Teleport.*** The oinoloth teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 >
@@ -495,9 +500,10 @@ With a reputation for cruelty, ultroloths command their minions to fight while t
 >***Teleport.*** The ultroloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 >
 >***Innate Spellcasting.*** The ultroloth's innate spellcasting ability is Charisma (spell save DC 17). The ultroloth can innately cast the following spells, requiring no material components:
->* At will: alter self, clairvoyance, darkness, detect magic, detect thoughts, dispel magic, invisibility (self only), suggestion
->* 3/day each: dimension door, fear, wall of fire
->* 1/day each: fire storm, mass suggestion
+>
+>* *At will:* alter self, clairvoyance, darkness, detect magic, detect thoughts, dispel magic, invisibility (self only), suggestion
+>* *3/day each:* dimension door, fear, wall of fire
+>* *1/day each:* fire storm, mass suggestion
 >
 >***Summon Yugoloth (1/Day).*** The yugoloth chooses what to summon and attempts a magical summoning. An ultroloth has a 50 percent chance of summoning 1d6 mezzoloths, 1d4 nycaloths, or one ultroloth. A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for 1 minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it.
 >
@@ -548,8 +554,9 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
 >***Life Leech.*** The yagnoloth touches one incapacitated creature within 15 feet of it. The target takes 36 (7d8 + 4) necrotic damage, and the yagnoloth gains temporary hit points equal to half the damage dealt. The target must succeed on a DC 16 Constitution saving throw, or its hit point maximum is reduced by an amount equal to half the necrotic damage taken. This reduction lasts until the target finishes a long rest, and the target dies if its hit point maximum is reduced to 0.
 >
 >***Spellcasting.*** The yagnoloth casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
->* At will: darkness, detect magic, dispel magic, invisibility (self only), suggestion
->* 3/day: lightning bolt
+>
+>* *At will:* darkness, detect magic, dispel magic, invisibility (self only), suggestion
+>* *3/day:* lightning bolt
 >
 >***Teleport.*** The yagnoloth teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 >

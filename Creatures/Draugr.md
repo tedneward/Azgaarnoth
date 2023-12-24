@@ -1,7 +1,7 @@
 # Draugr
 When a ghost or spirit, in hatred, returns to its interred corpse and possesses the body to enact its vengeance, it becomes a type of undead known as a draugr.
 
-> Jump to: [Draugr]() | [Draugr Lord]()
+> Jump to: [Draugr](Draugr.md#draugr) | [Draugr Lord](Draugr.md#draugr-lord) | [Draugr King](Draugr.md#draugr-king)
 
 The body of a draugr is withered and emaciated but not entirely skeletal It has deathly blue-black skin and eyes that glow with a spectral blue light in the darkness. For a corpse to become a draugr, the body must be well-preserved, whether by ritual interment, warding magic, mummification, or even the cold of ice and snow.
 
@@ -76,7 +76,7 @@ When a powerful leader, hero, or warrior returns from the dead as a draugr, they
 Ruins, Urban, Underdark
 
 ### Token
-![](Draugrs-Draugr-Token.png)
+![](Draugrs-DraugrLord-Token.png)
 
 
 >### Draugr Lord
@@ -123,6 +123,7 @@ Ruins, Urban, Underdark
 >***Command Undead.*** The draugr targets one allied undead with a lower challenge rating that it can see within 30 feet of it. If the target can see or hear the draugr, the target can make one weapon attack as a reaction.
 >
 >***Spiteful Glare (Recharge 5-6).*** The draugr fixes its magical glare on any number of creatures that it can see within 30 feet of it. Each target must succeed on a DC 16 Wisdom saving throw or else be frightened of the draugr for l minute. While frightened in this way, a target can't move, and it must spend its action on each of its turns to Dodge. It repeats the saving throw at the end of each of its turns, ending the effect on a success.
+>
 
 ---
 
@@ -133,7 +134,7 @@ Some draugr are more powerful even than lords, and command legions of undead in 
 Ruins, Urban, Underdark
 
 ### Token
-![](Draugrs-Draugr-Token.png)
+![](Draugrs-DraugrKing-Token.png)
 
 
 >### Draugr King

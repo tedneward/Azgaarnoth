@@ -2,6 +2,9 @@
 Dolphins are clever, social marine mammals that feed on small fish and squid. An adult specimen is between 5 and 6 feet long.
 
 > Jump to: [Dolphin](Dolphins.md#dolphin) | [Dolphin Delighter](Dolphins.md#dolphin-delighter)
+
+![](Dolphins.png)
+
 ---
 
 ## Dolphin
