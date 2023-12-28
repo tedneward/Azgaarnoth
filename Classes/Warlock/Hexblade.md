@@ -12,11 +12,11 @@ The Hexblade lets you choose from an expanded list of spells when you learn a wa
 **Hexblade Expanded Spells**
 Spell Level|Spells
 -----------|------
-1st|[shield](../../Magic/Spells/shield.md), [wrathful smite](../../Magic/Spells/wrathful-smite.md)
-2nd|[blur](../../Magic/Spells/blur.md), [branding smite](../../Magic/Spells/branding-smite.md)
-3rd|[blink](../../Magic/Spells/blink.md), [elemental weapon](../../Magic/Spells/elemental-weapon.md)
-4th|[phantasmal killer](../../Magic/Spells/phantasmal-killer.md), [staggering smite](../../Magic/Spells/staggering-smite.md)
-5th|[banishing smite](../../Magic/Spells/banishing-smite.md), [cone of cold](../../Magic/Spells/cone-of-cold.md)
+1st | [shield](../../Magic/Spells/shield.md), [wrathful smite](../../Magic/Spells/wrathful-smite.md)
+2nd | [blur](../../Magic/Spells/blur.md), [branding smite](../../Magic/Spells/branding-smite.md)
+3rd | [blink](../../Magic/Spells/blink.md), [elemental weapon](../../Magic/Spells/elemental-weapon.md)
+4th | [phantasmal killer](../../Magic/Spells/phantasmal-killer.md), [staggering smite](../../Magic/Spells/staggering-smite.md)
+5th | [banishing smite](../../Magic/Spells/banishing-smite.md), [cone of cold](../../Magic/Spells/cone-of-cold.md)
 
 ```
 def level1(npc):
