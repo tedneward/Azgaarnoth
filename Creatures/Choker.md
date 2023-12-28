@@ -13,7 +13,7 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 Underdark
 
 >### Choker
->*Small Aberration, Typically Chaotic Evil*
+>*Small aberration, Typically Chaotic Evil*
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 13 (3d6 + 3)

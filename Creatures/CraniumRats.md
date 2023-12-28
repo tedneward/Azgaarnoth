@@ -16,7 +16,7 @@ Ruins, Underdark, Urban
 ![](CraniumRat-Token.png)
 
 >### Cranium Rat
->*Tiny Aberration, Unaligned*
+>*Tiny aberration, Unaligned*
 >___
 >- **Armor Class** 12
 >- **Hit Points** 2 (1d4)

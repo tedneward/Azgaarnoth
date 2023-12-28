@@ -21,7 +21,7 @@ Underdark
 ![](Derro-Token.png)
 
 >### Derro
->*Small Aberration, Typically Chaotic Evil*
+>*Small aberration, Typically Chaotic Evil*
 >___
 >- **Armor Class** 13 (leather armor)
 >- **Hit Points** 13 (3d6 + 3)
@@ -65,7 +65,7 @@ Underdark
 ![](DerroSavant-Token.png)
 
 >### Derro Savant
->*Small Aberration (Sorcerer), Typically Chaotic Evil*
+>*Small aberration (Sorcerer), Typically Chaotic Evil*
 >___
 >- **Armor Class** 13 (leather armor)
 >- **Hit Points** 36 (8d6 + 8)
