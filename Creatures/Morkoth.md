@@ -15,7 +15,7 @@ Some islands travel a specific route, arriving at the same destinations regularl
 
 
 >### Morkoth
->*Large Aberration, Typically Chaotic Evil*
+>*Large aberration, Typically Chaotic Evil*
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 165 (22d10 + 44)

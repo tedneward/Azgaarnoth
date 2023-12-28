@@ -26,7 +26,7 @@ A neogi lives about a century. When an individual is rendered weak by advanced a
 
 
 >### Neogi Hatchling
->*Tiny Aberration, Typically Lawful Evil*
+>*Tiny aberration, Typically Lawful Evil*
 >___
 >- **Armor Class** 11
 >- **Hit Points** 7 (3d4)
@@ -65,7 +65,7 @@ Neogi mark themselves and those they capture through the use of dyes, transforma
 
 
 >### Neogi
->*Small Aberration, Typically Lawful Evil*
+>*Small aberration, Typically Lawful Evil*
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 33 (6d6 + 12)
@@ -109,7 +109,7 @@ Neogi masters use magic, as a result of a pact between neogi and aberrant entiti
 
 
 >### Neogi Master
->*Medium Aberration (Warlock), Typically Lawful Evil*
+>*Medium aberration (Warlock), Typically Lawful Evil*
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 71 (11d8 + 22)

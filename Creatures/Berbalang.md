@@ -13,7 +13,7 @@ The knowledge that berbalangs accumulate makes them great sources of information
 Astral, Desert
 
 >### Berbalang
->*Medium Aberration, Typically Neutral Evil*
+>*Medium aberration, Typically Neutral Evil*
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 49 (14d8 - 14)

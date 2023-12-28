@@ -20,7 +20,7 @@ The mold is found only in places that are dark, warm, and wet. Russet mold that 
 Typical vegepygmies originate from the remains left behind when a Humanoid or a Giant is killed by russet mold. One or more vegepygmies emerge from the corpse a day later.
 
 >### Vegepygmy
->*Small Plant, Typically Neutral*
+>*Small plant, Typically Neutral*
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 13 (3d6 + 3)
@@ -58,7 +58,7 @@ Typical vegepygmies originate from the remains left behind when a Humanoid or a 
 As a vegepygmy ages, it grows tougher and develops spore clusters on its body. Other vegepygmies defer to these so-called chiefs. A chief can expel its spores in a burst, infecting nearby creatures. If a creature dies while infected, its corpse produces vegepygmies the same way russet mold does.
 
 >### Vegepygmy Chief
->*Small Plant, Typically Neutral*
+>*Small plant, Typically Neutral*
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 33 (6d6 + 12)
@@ -100,7 +100,7 @@ As a vegepygmy ages, it grows tougher and develops spore clusters on its body. O
 If a Beast such as a dog or a bear dies from russet mold, the result is a bestial moldy called a thorny, instead of a bipedal vegepygmy. Thornies are less intelligent than other vegepygmies, but they are larger and more ferocious and have thorn-covered bodies.
 
 >### Thorny Vegepygmy
->*Medium Plant, Typically Neutral*
+>*Medium plant, Typically Neutral*
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 27 (5d8 + 5)

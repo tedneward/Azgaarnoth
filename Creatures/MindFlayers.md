@@ -341,7 +341,7 @@ When a mind flayer perishes, the elder brain's servants feed its brain to their 
 An elder brain considers itself and its desires the most important things in the multiverse, and the mind flayers in its colony nothing more than extensions of its will. Each presides over its colony according to its own unique personality and storehouse of collected knowledge and experience. Some elder brains reign as tyrants, while others serve as sages, counselors, and repositories of information and lore for the mind flayers that protect and nourish them.
 
 >### Elder Brain
->*Large Aberration (Mind Flayer), Typically Lawful Evil*
+>*Large aberration (Mind Flayer), Typically Lawful Evil*
 >___
 >- **Armor Class** 10
 >- **Hit Points** 210 (20d10 + 100)
@@ -428,7 +428,7 @@ When an ulitharid finds sharing leadership with an elder brain insufferable, it 
 This process doesn't work on the brain of an ulitharid that dies a natural death, as such brains are too decrepit to be used. Instead, each ulitharid carries a psionically enhanced staff; when the ulitharid is ready to give up its life, it attaches the staff to the back of its head, and the staff cracks open its skull, enabling its brain to be extracted. The brain and the staff are then planted in the ulitharid's corpse, causing it to dissolve into ichor. This psionically potent slime helps to fuel the transformation of the area into a brine pool for the embryonic elder brain.
 
 >### Ulitharid
->*Large Aberration (Mind Flayer), Typically Lawful Evil*
+>*Large aberration (Mind Flayer), Typically Lawful Evil*
 >___
 >- **Armor Class** 15 (breastplate)
 >- **Hit Points** 127 (17d10 + 34)
@@ -478,7 +478,7 @@ A mindwitness's primary function is to improve telepathic communication in a min
 If separated from its illithid masters, a mindwitness seeks out other telepathic creatures to tell it what to do. Mindwitnesses have been known to ally with flumphs (see the Monster Manual) and planar beings such as demons, shifting their worldview and alignment to match those of their new masters.
 
 >### Mindwitness
->*Large Aberration, Typically Lawful Neutral*
+>*Large aberration, Typically Lawful Neutral*
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 75 (10d10 + 20)

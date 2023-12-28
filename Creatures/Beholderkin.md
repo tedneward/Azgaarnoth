@@ -261,7 +261,7 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
 ***A death kiss prefers to hunt alone.*** If it meets another of its kind, it might fight, flee, or team up, depending on its health and pride.
 
 >### Death Kiss
->*Large Aberration (Beholder), Typically Neutral Evil*
+>*Large aberration (Beholder), Typically Neutral Evil*
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 142 (15d10 + 60)
@@ -314,7 +314,7 @@ When the ritual to summon a spectator goes wrong, a gauth might push itself thro
 A beholder usually drives away or kills any gauths that enter its territory, but it might choose to force them to serve it as lieutenants. Gauths are less xenophobic than beholders, so they might form small clusters and work together, though they're just as likely to ignore each other entirely.
 
 >### Gauth
->*Medium Aberration (Beholder), Typically Lawful Evil*
+>*Medium aberration (Beholder), Typically Lawful Evil*
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 52 (7d8 + 21)
@@ -374,7 +374,7 @@ A gazer is a tiny manifestation of a beholder's dreams. It resembles the beholde
 ***Familiar.*** The gazer can serve another creature as a familiar, forming a telepathic bond with its willing master, provided that the master is at least a 3rd-level spellcaster. While the two are bonded, the master can sense what the gazer senses as long as they are within 1 mile of each other. If its master causes it physical harm, the gazer will end its service as a familiar, breaking the telepathic bond.
 
 >### Gazer
->*Tiny Aberration (Beholder), Typically Neutral Evil*
+>*Tiny aberration (Beholder), Typically Neutral Evil*
 >___
 >- **Armor Class** 13
 >- **Hit Points** 13 (3d4 + 6)

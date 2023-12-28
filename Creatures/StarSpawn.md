@@ -41,7 +41,7 @@ Extraplanar
 ### Token
 
 >### Star Spawn Grue
->*Small Aberration, Typically Neutral Evil*
+>*Small aberration, Typically Neutral Evil*
 >___
 >- **Armor Class** 11
 >- **Hit Points** 17 (5d6)
@@ -83,7 +83,7 @@ Extraplanar
 
 
 >### Star Spawn Hulk
->*Large Aberration, Typically Chaotic Evil*
+>*Large aberration, Typically Chaotic Evil*
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 136 (13d10 + 65)
@@ -127,7 +127,7 @@ Extraplanar
 
 
 >### Star Spawn Larva Mage
->*Medium Aberration, Typically Chaotic Evil*
+>*Medium aberration, Typically Chaotic Evil*
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 168 (16d8 + 96)
@@ -189,7 +189,7 @@ Extraplanar
 
 
 >### Star Spawn Mangler
->*Medium Aberration, Typically Chaotic Evil*
+>*Medium aberration, Typically Chaotic Evil*
 >___
 >- **Armor Class** 14
 >- **Hit Points** 71 (13d8 + 13)
@@ -240,7 +240,7 @@ Extraplanar
 
 
 >### Star Spawn Seer
->*Medium Aberration, Typically Neutral Evil*
+>*Medium aberration, Typically Neutral Evil*
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 153 (18d8 + 72)
