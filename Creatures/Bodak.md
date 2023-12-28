@@ -9,6 +9,11 @@ Bodaks are extensions of Orcus's will outside the Abyss, serving the demon princ
 
 A bodak retains vague impressions of its past life. It seeks out its former allies and enemies alike to destroy them, as its warped soul seeks to erase anything connected to its former life. Minions of Orcus are the one exception to this compulsion; a bodak recognizes them as kindred souls and spares them from its wrath. Anyone who knew the individual before its transformation into a bodak can recognize mannerisms or other subtle clues to its original identity.
 
+### Environment
+Arctic, Astral, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, Urban,  Summoned/Conjured
+
+### Token
+
 >### Bodak
 >*Medium undead, Typically Chaotic Evil*
 >___

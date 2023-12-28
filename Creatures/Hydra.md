@@ -1,6 +1,8 @@
 ## Hydra
 The hydra is a reptilian horror with a crocodilian body and multiple heads on long, serpentine necks. Although its heads can be severed, the hydra magically regrows them in short order. A typical specimen has five heads.
 
+![](Hydra.png)
+
 At the dawn of time, Tiamat, the Queen of Evil Dragons, slew a rival dragon god named Lernaea and cast her blood across the multiverse. Each drop that fell upon a world spawned a multi-headed hydra consumed by a hunger as great as the fallen god's hatred. Great champions are known to test their mettle against these fearsome creatures.
 
 ***Everlasting Hunger.*** A rapacious and gluttonous monster, a hydra snatches and tears apart its prey in a frenzy of feeding. When a hydra has cleared a territory of food and driven off any creatures smart enough to avoid it, it moves on to seek its meals elsewhere. A hydra's hunger is so great that if it can't feed, it might turn against itself, its heads attacking each other as the creature eats itself alive.
@@ -10,7 +12,7 @@ At the dawn of time, Tiamat, the Queen of Evil Dragons, slew a rival dragon god 
 When a hydra sleeps, at least one of its heads remains awake and alert, making the creature difficult to catch by surprise.
 
 ### Environment
-(FIXME)
+Coastal, Forest, Swamp, Underwater
 
 ### Token
 ![](Hydra-Token.png)

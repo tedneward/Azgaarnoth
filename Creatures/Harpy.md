@@ -18,7 +18,7 @@ When they attack, harpies play with their food, delighting in the "music" their 
 ***Gruesome Collectors.*** Harpies take shiny baubles, valuable objects, and other trophies from their victims, sometimes fighting with each other for the right to claim the choicest prizes. When no valuable objects can be found, a harpy takes hair, bones, or body parts to line its nest. A harpy's lair is usually hidden in remote ruins, where adventurers can discover valuable treasure and magic hidden beneath foul piles of offal.
 
 ### Environment
-(FIXME)
+Arctic, Astral, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, Urban, Summoned/Conjured
 
 ### Token
 ![](Harpy-Token.png)

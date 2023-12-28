@@ -10,7 +10,7 @@ The first sightings of the hexwraiths are shrouded in mystery, but it is said th
 ***Undead Nature.*** A hexwraith doesn't require air, food, drink, or sleep.
 
 ### Environment
-(FIXME)
+Arctic, Astral, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, Urban,  Summoned/Conjured
 
 ### Token
 ![](Hexwraith-Token.png)

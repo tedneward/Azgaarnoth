@@ -12,7 +12,15 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 ---
 
 ## Dust Mephit
-![](Mephit-Dust.png) | Composed of earth and air, dust mephits are drawn to catacombs and find death morbidly fascinating.
+![](Mephit-Dust.png)
+
+Composed of earth and air, dust mephits are drawn to catacombs and find death morbidly fascinating.
+
+### Environment
+Conjured/Summoned
+
+### Token
+(FIXME)
 
 >### Dust Mephit
 >*Small elemental, neutral evil*
@@ -34,7 +42,6 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 >- **Languages** Auran, Terran
 >- **Challenge** 1/2
 >___
->***Feature.***   
 >***Death Burst.*** When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.
 >
 >***Innate Spellcasting (1/Day).*** The mephit can innately cast [sleep](../Magic/Spells/sleep.md), requiring no material components. Its innate spellcasting ability is Charisma.
@@ -49,7 +56,15 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 ---
 
 ## Ice Mephit
-![](Mephit-Ice.png) | Comprising frigid air and water, ice mephits are aloof and cold, surpassing all other mephits in pitiless cruelty.
+![](Mephit-Ice.png)
+
+Comprising frigid air and water, ice mephits are aloof and cold, surpassing all other mephits in pitiless cruelty.
+
+### Environment
+Conjured/Summoned
+
+### Token
+(FIXME)
 
 >### Ice Mephit
 >*Small elemental, neutral evil*
@@ -87,7 +102,15 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 ---
 
 ## Magma Mephit
-![](Mephit-Magma.png) | Composed of earth and fire, magma mephits glow a dull red color as they perspire beads of molten lava. They are slow to comprehend the meaning of others' words and actions.
+![](Mephit-Magma.png)
+
+### Environment
+Conjured/Summoned
+
+### Token
+(FIXME)
+
+Composed of earth and fire, magma mephits glow a dull red color as they perspire beads of molten lava. They are slow to comprehend the meaning of others' words and actions.
 
 >### Magma Mephit
 >*Small elemental, neutral evil*
@@ -125,7 +148,15 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 ---
 
 ## Mud Mephit
-![](Mephit-Mud.png) Mud mephits are slow, unctuous creatures of earth and water. They drone their complaints to all who will listen, and beg incessantly for attention and treasure.
+![](Mephit-Mud.png)
+
+### Environment
+Conjured/Summoned
+
+### Token
+(FIXME)
+
+Mud mephits are slow, unctuous creatures of earth and water. They drone their complaints to all who will listen, and beg incessantly for attention and treasure.
 
 >### Mud Mephit
 >*Small elemental, neutral evil*
@@ -160,7 +191,15 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 ---
 
 ## Smoke Mephit
-![](Mephit-Smoke.png) | Smoke mephits are crude, lazy creatures of air and fire that billow smoke constantly. They rarely speak the truth and love to mock and mislead other creatures.
+![](Mephit-Smoke.png)
+
+Smoke mephits are crude, lazy creatures of air and fire that billow smoke constantly. They rarely speak the truth and love to mock and mislead other creatures.
+
+### Environment
+Conjured/Summoned
+
+### Token
+(FIXME)
 
 >### Smoke Mephit
 >*Small elemental, neutral evil*
@@ -195,7 +234,15 @@ Some scholars theorize that the mephit is the form punished souls take when disa
 ---
 
 ## Steam Mephit
-![](Mephit-Steam.png) | Composed of fire and water, steam mephits leave trails of hot water wherever they go, and they hiss with tendrils of steam. Bossy and hypersensitive, they are the self-appointed overlords of all mephits.
+![](Mephit-Steam.png)
+
+Composed of fire and water, steam mephits leave trails of hot water wherever they go, and they hiss with tendrils of steam. Bossy and hypersensitive, they are the self-appointed overlords of all mephits.
+
+### Environment
+Conjured/Summoned
+
+### Token
+(FIXME)
 
 >### Steam Mephit
 >*Small elemental, neutral evil*
