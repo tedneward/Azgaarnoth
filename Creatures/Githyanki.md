@@ -3,6 +3,8 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 
 > Jump to: [Githyanki Warrior](Githyanki.md#githyanki-warrior) | [Githyanki Knight](Githyanki.md#githyanki-knight) | [Githyanki Gish](Githyanki.md#githyanki-gish) | [Githyanki Kith'rak](Githyanki.md#githyanki-kith'rak) | [Githyanki General](Githyanki.md#githyanki-general)
 
+![](Githyanki.webp)
+
 ***Followers of Gith.*** In their own language, githyanki means "followers of Gith." Under the guidance of Gith, the githyanki stratified into a militaristic society, with a strict caste system, dedicated to the ongoing fight against the victims and sworn enemies of their race. When their leader Gith perished, she was replaced by her undead adviser, Vlaakith. The lich-queen forbade worship of all beings except herself.
 
 Of all their enemies, the githyanki most hate their former masters, the mind flayers. Their close kin, the githzerai, are second in their enmity. All other creatures are treated with simple contempt by the githyanki, whose xenophobic pride defines their view of inferior races.
@@ -28,7 +30,7 @@ In the eyes of the githyanki, each silver sword is a priceless relic and a work 
 (FIXME)
 
 ### Token
-![](GithyankiWarrior-Token.png)
+![](Githyanki-Warrior-Token.png)
 
 >### Githyanki Warrior
 >*Medium humanoid (gith), lawful evil*
@@ -55,9 +57,8 @@ In the eyes of the githyanki, each silver sword is a priceless relic and a work 
 >___
 >***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:
 >
->At will: mage hand (the hand is invisible)
->
->3/day each: jump, misty step, nondetection (self only)
+>* *At will:* mage hand (the hand is invisible)
+>* *3/day each:* jump, misty step, nondetection (self only)
 >
 >#### Actions
 >***Multiattack.*** The githyanki makes two greatsword attacks.
@@ -74,7 +75,7 @@ In the eyes of the githyanki, each silver sword is a priceless relic and a work 
 (FIXME)
 
 ### Token
-![](GithyankiKnight-Token.png)
+![](Githyanki-Knight-Token.png)
 
 >### Githyanki Knight
 >*Medium humanoid (gith), lawful evil*
@@ -101,11 +102,9 @@ In the eyes of the githyanki, each silver sword is a priceless relic and a work 
 >___
 >***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 >
->At will: mage hand (the hand is invisible)
->
->3/day each: jump, misty step, nondetection (self only), tongues
->
->1/day each: plane shift, telekinesis
+>* *At will:* mage hand (the hand is invisible)
+>* *3/day each:* jump, misty step, nondetection (self only), tongues
+>* *1/day each:* plane shift, telekinesis
 >
 >#### Actions
 >***Multiattack.*** The githyanki makes two silver greatsword attacks.
@@ -122,7 +121,7 @@ Gish blend their magical abilities with swordplay to become dangerous foes in ba
 (FIXME)
 
 ### Token
-![](GithyankiGish-Token.png)
+![](Githyanki-Gish-Token.png)
 
 >### Githyanki Gish
 >*Medium humanoid  (Gith, Wizard), Any Alignment*
@@ -156,11 +155,9 @@ Gish blend their magical abilities with swordplay to become dangerous foes in ba
 >
 >***Spellcasting (Psionics).*** The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 15):
 >
->At will: light, mage hand (the hand is invisible), message
->
->3/day each: fireball, invisibility, nondetection (self only)
->
->1/day each: dimension door, plane shift, telekinesis
+>* *At will:* light, mage hand (the hand is invisible), message
+>* *3/day each:* fireball, invisibility, nondetection (self only)
+>* *1/day each:* dimension door, plane shift, telekinesis
 >
 >#### Bonus Actions
 >***Astral Step (Recharge 4-6).*** The githyanki teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
@@ -175,7 +172,7 @@ Militarized githyanki cultures assign ranks and responsibilities to citizens. Gr
 (FIXME)
 
 ### Token
-![](GithyankiKith'rak-Token.png)
+![](Githyanki-Kith'rak-Token.png)
 
 >### Githyanki Kith'rak
 >*Medium humanoid  (Gith), Any Alignment*
@@ -207,11 +204,9 @@ Militarized githyanki cultures assign ranks and responsibilities to citizens. Gr
 >
 >***Spellcasting (Psionics).*** The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 15):
 >
->At will: mage hand (the hand is invisible)
->
->3/day each: blur, nondetection (self only)
->
->1/day each: plane shift, telekinesis
+>* *At will:* mage hand (the hand is invisible)
+>* *3/day each:* blur, nondetection (self only)
+>* *1/day each:* plane shift, telekinesis
 >
 >#### Bonus Actions
 >***Astral Step (Recharge 4-6).*** The githyanki teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
@@ -231,7 +226,7 @@ Generals lead armies, each one commanding ten kith'raks, who in turn lead the re
 (FIXME)
 
 ### Token
-![](GithyankiGeneral-Token.png)
+![](Githyanki-General-Token.png)
 
 >### Githyanki General
 >*Medium humanoid  (Gith), Any Alignment*
@@ -265,11 +260,9 @@ Generals lead armies, each one commanding ten kith'raks, who in turn lead the re
 >
 >***Spellcasting (Psionics).*** The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 16):
 >
->At will: mage hand (the hand is invisible)
->
->3/day each: levitate (self only), nondetection (self only)
->
->1/day each: Bigby's hand, mass suggestion, plane shift, telekinesis
+>* *At will:* mage hand (the hand is invisible)
+>* *3/day each:* levitate (self only), nondetection (self only)
+>* *1/day each:* Bigby's hand, mass suggestion, plane shift, telekinesis
 >
 >#### Bonus Actions
 >***Astral Step.*** The githyanki teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.

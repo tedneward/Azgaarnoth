@@ -52,7 +52,7 @@ If you are a player, please don't consult the reference page during the game! Br
 General description
 
 ### Environment
-Arctic, Astral, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, Urban,  Summoned/Conjured
+Arctic, Astral, Coastal, Desert, Forest, Grassland, Hill, Mountain, Ruins, Swamp, Underdark, Underwater, Urban, Summoned/Conjured
 
 ### Token
 ![](-Token.png)

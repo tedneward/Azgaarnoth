@@ -4,7 +4,7 @@ A fierce predator of the Underdark, the hook horror aggressively defends its hun
 ![](HookHorror.png)
 
 ### Environment
-Arctic, Astral, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, Urban,  Summoned/Conjured
+Arctic, Astral, Coastal, Desert, Forest, Grassland, Hill, Mountain, Ruins, Swamp, Underdark, Underwater, Urban, Summoned/Conjured
 
 ### Token
 ![](HookHorror-Token.png)
