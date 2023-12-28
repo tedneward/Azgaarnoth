@@ -138,8 +138,8 @@ The creation of a demizen wraith is a deep mystery to mortals, though some necro
 ### Environment
 Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, Urban
 
-### Tokens
-
+### Token
+(FIXME)
 
 >### Demizen Wraith
 >*Medium undead, neutral evil*
@@ -202,6 +202,7 @@ Sword wraith warriors are most often found on ancient battlefields where soldier
 Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, Urban
 
 ### Token
+(FIXME)
 
 >### Sword Wraith Warrior
 >*Medium undead, Typically Lawful Evil*
@@ -252,7 +253,7 @@ Sword wraith commanders haunt battlefields, attacking anyone who questions their
 Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, Urban
 
 ### Token
-
+(FIXME)
 
 >### Sword Wraith Commander
 >*Medium undead, Typically Lawful Evil*
@@ -308,8 +309,10 @@ The void wraiths are the embodiment of the unfeeling hunger that the Void can ha
 ***Call of the Abyss.*** The soul of any creature slain by a void wraith is instantly transported to the Void, and in 24 hours they will become a void wraith themselves.
 
 ### Environment
+(FIXME)
 
 ### Token
+(FIXME)
 
 >### Void Wraith
 >*Medium undead, neutral evil*

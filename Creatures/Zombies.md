@@ -111,7 +111,7 @@ Arctic, Astral, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Under
 A reanimated knight, taken from their grave to serve a new master, as devoted in death as they were while alive. Zombie knights are more aware than ordinary zombies and may experience dim memories from their past lives, especially relating to battles they fought in. A zombie knight is often found leading a pack of lesser undead in a twisted parody of the soldiers they once commanded, though as strategy is almost lost to them, they fight unfeelingly and unrelentingly until destroyed.
 
 ### Environment
-Arctic, Astral, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, Urban,  Summoned/Conjured
+Arctic, Astral, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, Urban, Summoned/Conjured
 
 ### Token
 ![](Zombies-Zombie-Token.png)
