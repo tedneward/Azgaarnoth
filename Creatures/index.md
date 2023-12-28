@@ -1,7 +1,8 @@
 # Master List of the Creatures of Azgaarnoth
 
-[Creatures A-Z](./index-az.md)
+[Creatures A-Z](./index-az.md) | [Demons](Demons/index.md) | [Devils](Devils/index.md) | [Dragons](Dragons/index.md) | [Giants](Giants/index.md)
 
+## Categories
 [Aberrations](./index-aberration.md) | [Beasts](./index-beast.md) | [Constructs](./index-construct.md) | [Celestials](./index-celestial.md) | [Dragons](./index-dragon.md) | [Elementals](./index-elemental.md) | [Fey](./index-fey.md) | [Fiend](./index-fiend.md) | [Giant](./index-giant.md) | [Humanoids](./index-humanoid.md) | [Monstrosities](./index-monstrosity.md) | [Oozes](./index-ooze.md) | [Plants](./index-plant.md) | [Undead](./index-undead.md)
 
 ## Players!
@@ -51,8 +52,10 @@ If you are a player, please don't consult the reference page during the game! Br
 General description
 
 ### Environment
+Arctic, Astral, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, Urban,  Summoned/Conjured
 
 ### Token
+![](-Token.png)
 
 >### (Subtype if any) (Name)
 >*Size Type, alignment*
