@@ -8,6 +8,8 @@ Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of
 ---
 
 ## Mummy
+The individual mummy is a frightening sight: the burial wrappings carrying the stench of attar, the burning pinpricks of unholy light in the empty sockets in its skull, the inhuman moaning made by vocal cords long since decayed, the shambling gait, the mummy is a nightmare brought to a distorted semblance of life.
+
 ***The Will of Dark Gods.*** An undead mummy is created when the priest of a death god or other dark deity ritually imbues a prepared corpse with necromantic magic. The mummy's linen wrappings are inscribed with necromantic markings before the burial ritual concludes with an invocation to darkness. As a mummy endures in undeath, it animates in response to conditions specified by the ritual. Most commonly, a transgression against its tomb, treasures, lands, or former loved ones will cause a mummy to rise.
 
 ***The Punished.*** Once deceased, an individual has no say in whether or not its body is made into a mummy. Some mummies were powerful individuals who displeased a high priest or pharaoh, or who committed crimes of treason, adultery, or murder. As punishment, they were cursed with eternal undeath, embalmed, mummified, and sealed away. Other times, mummies acting as tomb guardians are created from slaves put to death specifically to serve a greater purpose.

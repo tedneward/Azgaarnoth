@@ -22,6 +22,13 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 ---
 
 ## Mind Flayer
+Individual mind flayers are rare, they prefer be a part of an Elder Brain hive.
+
+### Environment
+Astral, Underdark, Urban, Summoned/Conjured
+
+### Token
+![](MindFlayers-Token.png)
 
 >### Mind Flayer
 >*Medium aberration, lawful evil*
@@ -50,9 +57,8 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 >
 >***Innate Spellcasting (Psionics).*** The mind flayer's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
 >
->At will: detect thoughts, levitate
->
->1/day each: dominate monster, plane shift (self only)
+>* *At will:* detect thoughts, levitate
+>* *1/day each:* dominate monster, plane shift (self only)
 >
 >#### Actions
 >***Tentacles.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 15 (2d10 + 4) psychic damage. If the target is Medium or smaller, it is grappled (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be stunned until this grapple ends.
@@ -65,6 +71,13 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 ---
 
 ## Mind Flayer Arcanist
+Sometimes, a mind flayer dabbles in the forbidden arcane, and becomes an arcanist.
+
+### Environment
+Astral, Ruins, Underdark, Urban, Summoned/Conjured
+
+### Token
+![](MindFlayers-Token.png)
 
 >### Mind Flayer Arcanist
 >*Medium aberration, lawful evil*
@@ -264,6 +277,8 @@ On initiative count 20 (losing initiative ties), the lich can take a lair action
 ## Alhoon
 Mind flayers that pursue arcane magic are exiled as deviants, and for them no everlasting communion with an elder brain is possible. The road to lichdom offers an alternative way to escape the permanency of death, but that path is long and fraught with barriers. Alhoons are mind flayers who have used a shortcut to attain a lich-like state.
 
+![](MindFlayers-Alhoon.png)
+
 Elder brains forbid mind flayers from pursuing magic power aside from psionics, but it isn't an interdiction they must often enforce. Illithids brook no masters but members of their own kind, so it isn't in their nature to bow to any god or otherworldly patron. However, wizardry remains a temptation. In the pages of a spellbook, an illithid sees a system to acquire authority. Through the writings of the wizard who penned it, the illithid perceives the workings of a highly intelligent mind. Most mind flayers who find a spellbook react with abhorrence or indifference, but for some, a spellbook is a gateway to a new way of thinking.
 
 For a time, the study of such forbidden texts can be hidden from other illithids and even from an elder brain. Yet eventually, mind flayer arcanists determined to pursue wizardry must flee the colony for their own safety. Once they taste freedom from the colony, some prize their privacy, others seek to commune with similar minds, and still others seek to dominate a colony by elevating themselves to the position of leadership normally held by an elder brain. Regardless, all such arcanists face the same stark fact: when they die, they will not join the host of minds in the elder brain--deviant minds are never accepted as part of the collective. For them, death means oblivion.
@@ -332,6 +347,8 @@ Destroying a *periapt of mind trapping* consigns those trapped within it to obli
 ## Elder Brain
 The ultimate expression of mind flayer domination, an elder brain sprawls within a vat of viscous brine, cared for by mind flayer minions as it touches the thoughts of creatures near and far. It scrawls upon the canvas of the creatures' minds, rewriting their thoughts and authoring their dreams.
 
+![](MindFlayers-ElderBrain.png)
+
 An elder brain sustains itself by consuming the brains of other creatures. If its mind flayer servants don't bring meals directly to it, the elder brain reaches out with tendrils of thought, compelling creatures to come to it so that it can feed on them.
 
 When a mind flayer perishes, the elder brain's servants feed its brain to their master, which then absorbs the knowledge and experience contained therein. Mind flayers conceive of this oneness with the elder brain as a sacred state akin to an afterlife.
@@ -378,11 +395,9 @@ An elder brain considers itself and its desires the most important things in the
 >
 >***Spellcasting (Psionics).*** The elder brain casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 18):
 >
->At will: detect thoughts, levitate
->
->3/day: modify memory
->
->1/day each: dominate monster, plane shift (self only)
+>* *At will:* detect thoughts, levitate
+>* *3/day:* modify memory
+>* *1/day each:* dominate monster, plane shift (self only)
 >
 >#### Bonus Actions
 >***Psychic Link.*** The elder brain targets one incapacitated creature it senses with its Creature Sense trait and establishes a psychic link with the target. Until the link ends, the elder brain can perceive everything the target senses. The target becomes aware that something is linked to its mind once it is no longer incapacitated, and the elder brain can terminate the link at any time (no action required). The target can use an action on its turn to attempt to break the link, doing so with a successful DC 18 Charisma saving throw. On a successful save, the target takes 10 (3d6) psychic damage. The link also ends if the target and the elder brain are more than 5 miles apart. The elder brain can form psychic links with up to ten creatures at a time.
@@ -422,6 +437,8 @@ The territory within 5 miles of an elder brain is altered by the creature's psio
 
 ## Ulitharid
 Very rarely, when a tadpole from the brine pool of an elder brain is implanted into a creature, that creature transforms into an ulitharid: a larger and more potent mind flayer with six tentacles. Illithids innately recognize that an ulitharid's survival is more important than their own. An elder brain's reaction to the rise of an ulitharid varies. In most colonies, the ulitharid becomes an elder brain's most favored servant, invested with power and authority. In others, the elder brain perceives an ulitharid as a potential rival and manipulates or quashes the ulitharid's ambitions accordingly.
+
+![](MindFlayers-Ulitharid.png)
 
 When an ulitharid finds sharing leadership with an elder brain insufferable, it breaks off from the colony, taking a group of mind flayers with it, and moves to another location to form a new colony. After the death of the ulitharid's body, a special process transforms its brain into a new elder brain for the colony.
 
@@ -472,6 +489,8 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
 
 ## Mindwitness
 If a beholder is stunned and brought to the brine pool of an elder brain, the beholder can be converted into a mindwitness. This alters some of its eye rays and transforms four of its eyestalks into tentacles similar to a mind flayer's. The mindwitness is psychically imprinted with devotion to the elder brain and submission to illithid commands.
+
+![](MindFlayers-Mindwitness.png)
 
 A mindwitness's primary function is to improve telepathic communication in a mind flayer colony. A creature in telepathic communication with a mindwitness can converse through it to as many as seven other creatures the mindwitness can see, rapidly disseminating commands and other information.
 
@@ -525,6 +544,8 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
 
 ## Neothelid
 A slime-covered worm of immense size, a neothelid is the result of the mind flayer reproductive cycle gone horribly wrong. On rare occasions, an illithid colony collapses, typically after an external assault, and the elder brain is killed. When that happens, the colony's tadpoles are suddenly freed from their fate. They no longer serve as food, and in turn are no longer fed by their caretakers. Driven by hunger, they turn to devouring one another. Only one tadpole survives out of the thousands in the colony's pool, and it emerges as a neothelid.
+
+![](MindFlayers-Neothelid.png)
 
 ***Abhorrent to Illithids.*** Among the strongest taboos in illithid society is the idea of allowing a mature tadpole to survive without implanting it into a donor brain. Under normal circumstances, any tadpole that grows larger than a few inches in length is killed by the elder brain to be food for it or for less mature tadpoles. Any tadpole that survives beyond that state is perceived as a threat to the colony, and the mind flayers organize hunting parties to exterminate the abomination. Lacking enough intelligence to be detected by an elder brain's power to sense thoughts, neothelids warrant such precautions.
 

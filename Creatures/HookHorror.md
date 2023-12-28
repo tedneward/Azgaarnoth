@@ -1,6 +1,8 @@
 ## Hook Horror
 A fierce predator of the Underdark, the hook horror aggressively defends its hunting grounds. The subterranean caverns where these creatures dwell echo with the constant clacking and scraping of their hooks as they wend their way up cliffs and along cavern walls.
 
+![](HookHorror.png)
+
 ### Environment
 Arctic, Astral, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, Urban,  Summoned/Conjured
 
