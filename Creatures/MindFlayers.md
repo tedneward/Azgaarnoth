@@ -24,8 +24,10 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 ## Mind Flayer
 Individual mind flayers are rare, they prefer be a part of an Elder Brain hive.
 
+![](MindFlayers-MindFlayer.jpg)
+
 ### Environment
-Astral, Underdark, Urban, Summoned/Conjured
+Astral, Ruins, Underdark, Urban, Summoned/Conjured
 
 ### Token
 ![](MindFlayers-Token.png)
@@ -422,15 +424,16 @@ The lair of an elder brain lies deep in the heart of a mind flayer colony. The b
 #### Lair Actions
 On initiative count 20 (losing initiative ties), an elder brain can take one of the following lair actions; the elder brain can't take the same lair action two rounds in a row:
 
-* Force Wall. The elder brain casts wall of force.
-* Psionic Anchor. The elder brain targets one creature it can sense within 120 feet of it and anchors it by sheer force of will. The target must make a DC 18 Charisma saving throw. On a failed save, its speed is reduced to 0, and it can't teleport. It can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-* Psychic Inspiration. The elder brain targets one friendly creature it can sense within 120 feet of it. The target has a flash of inspiration and gains advantage on one attack roll, ability check, or saving throw it makes before the end of its next turn.
+* **Force Wall.** The elder brain casts wall of force.
+* **Psionic Anchor.** The elder brain targets one creature it can sense within 120 feet of it and anchors it by sheer force of will. The target must make a DC 18 Charisma saving throw. On a failed save, its speed is reduced to 0, and it can't teleport. It can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+* **Psychic Inspiration.** The elder brain targets one friendly creature it can sense within 120 feet of it. The target has a flash of inspiration and gains advantage on one attack roll, ability check, or saving throw it makes before the end of its next turn.
+
 #### Regional Effects
 The territory within 5 miles of an elder brain is altered by the creature's psionic presence, which creates one or more of the following effects:
 
-* Paranoia. Creatures within 5 miles of an elder brain feel as if they are being followed, even when they're not.
-* Psychic Whispers. Any creature with which the elder brain has formed a psychic link hears faint, incomprehensible whispers in the deepest recesses of its mind. This psychic detritus consists of the elder brain's stray thoughts commingled with those of other creatures to which it is linked.
-* Telepathic Eavesdropping. The elder brain can overhear any telepathic conversation within 5 miles of it. The creature that initiated the telepathic conversation makes a DC 18 Wisdom saving throw when telepathic contact is first established. If the save is successful, the creature is aware that something is eavesdropping. The nature of the eavesdropper isn't revealed.
+* **Paranoia.** Creatures within 5 miles of an elder brain feel as if they are being followed, even when they're not.
+* **Psychic Whispers.** Any creature with which the elder brain has formed a psychic link hears faint, incomprehensible whispers in the deepest recesses of its mind. This psychic detritus consists of the elder brain's stray thoughts commingled with those of other creatures to which it is linked.
+* **Telepathic Eavesdropping.** The elder brain can overhear any telepathic conversation within 5 miles of it. The creature that initiated the telepathic conversation makes a DC 18 Wisdom saving throw when telepathic contact is first established. If the save is successful, the creature is aware that something is eavesdropping. The nature of the eavesdropper isn't revealed.
 * If the elder brain dies, these effects immediately end.
 
 ---
@@ -481,8 +484,9 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
 >***Mind Blast (Recharge 5-6).*** The ulitharid magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 17 Intelligence saving throw or take 31 (4d12 + 5) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >
 >***Spellcasting (Psionics).*** The ulitharid casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 17):
->* At will: detect thoughts, levitate
->* 1/day each: dominate monster, feeblemind, mass suggestion, plane shift (self only), project image, scrying, telekinesis
+>
+>* *At will:* detect thoughts, levitate
+>* *1/day each:* dominate monster, feeblemind, mass suggestion, plane shift (self only), project image, scrying, telekinesis
 >
 
 ---
