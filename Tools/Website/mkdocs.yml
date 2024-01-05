@@ -23,6 +23,7 @@ nav:
   - 'System':
     - Races: Races/index.md
     - Classes: Classes/index.md
+    - Equipment: Equipment/index.md
   - 'Reference':
     - Spells: Magic/Spells
     - Items: Magic/Items
