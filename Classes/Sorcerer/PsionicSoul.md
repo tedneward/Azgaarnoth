@@ -1,7 +1,7 @@
 # Sorcerous Origin: Psionic Soul
 One day a light blazed forth within you--the illumination of psionic power. Your mind now simmers with this power, the full extent of which you won't fully grasp for years to come. You can touch other minds with it and alter the world around you by using it to control the magical energy of the multiverse. Will this power shine from you as a hopeful beacon to others? Or will you be a source of terror to those who feel the stab of your mind and witness the strange manifestations of your might?
 
-Among [githyanki and githzerai](/Races/Gith.md), the powers of Psionic Soul sorcerers are revered and marshaled on both sides of the gith war. Within Azgaarnoth, psionics appear a little less frequently than arcane or divine manifestations, but to the average "lay" citizen, the source of the power is always a mystery--they just know that some creatures can do some things that aren't clear how they were done.
+Among [githyanki](../../Races/Githyanki.md) and [githzerai](../../Races/Githzerai.md), the powers of Psionic Soul sorcerers are revered. Githyanki have been known to steal away promising children with the Psionic Soul gift, and githzerai have sought to adopt (rather than seize) the same. Within Azgaarnoth, psionics appear less frequently than arcane or divine manifestations, but to the average "lay" citizen, the source of the power is always a mystery--they just know that some creatures can do some things that aren't clear how they were done. When a psionic does develop, however, it is often only a matter of time before they are contacted (openly or surreptitiously) by members of the [MindMage](../../Organizations/MageSchools/MindMage.md) school.
 
 As a Psionic Soul sorcerer, you decide how you acquired your powers. Were you born with them, and did they manifest throughout childhood? Or did an extraordinary event later in life leave you shining with psionic awareness? Consult the Psionic Origins table for a possible origin of your power.
 
@@ -9,7 +9,7 @@ As a Psionic Soul sorcerer, you decide how you acquired your powers. Were you bo
 
 d10 | Origin
 --- | -----
-1 | Deep in your history, an ancestor was [dragonmarked](/Races/Dragonmarked.md), and the residual power in the genetic bloodline has manifested in you as psionics.
+1 | Deep in your history, an ancestor was [dragonmarked](../../Races/Dragonmarked/index.md), and the residual power in the genetic bloodline has manifested in you as psionics.
 2 | A psychic wind from the Astral Plane carried psionic energy into your being. When you use your powers now, faint motes of light sparkle around you.
 3 | You or your ancestor were trained by a githzerai monk to unlock the psionic potential within yourself.
 4 | A spirit haunts your mind, lending incredible power to your thoughts. When you sleep, the spirit's memories invade your dreams.
@@ -42,6 +42,7 @@ At the 6th level, you have learned to channel additional psychic energy into you
 
 ## Mind Over Body
 At the 14th level, you can now use the psi that flows through you to give your body extraordinary abilities. As a bonus action, you can roll your Psionic Talent die and spend 1 or more sorcery points to magically transform yourself for a number of hours equal to the number rolled. Until the transformation ends, you gain one of the following benefits of your choice for each sorcery point you spent, choosing a different benefit for each point:
+
 * You can see any invisible creature within 60 feet of you, provided it isn't behind total cover.
 * You gain a flying speed equal to your walking speed, and you can hover.
 * You gain a swimming speed equal to twice your walking speed, and you can breathe underwater.

@@ -1,7 +1,29 @@
-# Sorcerous Origin: Eldar Bloodline
-Bloodlines are a powerful source of magic. Most kingdoms forbid the practice of blood sorcery since many believe it relies on the strength of a noble lineage--that of an Eldar who, against all laws and taboos, chose to mingle his blood with that of a human, providing powerful magic through a bloodline gift that often is as much curse as it is wondrous. Whether the rumors and suspicions are true are unknown; what is known is that certain individuals demonstrate a deep power available to only a few.
+# Sorcerous Origin: Lifespark
+Life is a powerful source of magic. Those who have a gift for that spark know how to harvest it at precisely the proper moment, providing a boost to their spellcasting that many sorcerers envy.  
 
-Nevertheless, kings and queens, along with great tribal chieftains, believe it a sinister form of blood magic and hunt the purveyors with zeal. On the other hand, several serve as advisors to immoral rulers. The depraved sovereigns often surround themselves with unwitting courtiers of strong heritage as a source for their blood sorcerer.
+Most kingdoms forbid the practice of lifespark sorcery, since the heart of its power is consumptive and destructive, encouraging its practitioners to take life wantonly and for selfish purposes. Some lifespark sorcerers try to hew to a higher moral standard, only consuming the spark of evil creatures or in service to a greater good, but many others find the lifespark power intoxicating, and embrace the darkness that comes with its practice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Portent of Blood
 Beginning at 1st level, when you choose this origin, you can select guidance when you learn a sorcerer cantrip.
@@ -14,14 +36,11 @@ Starting at 6th level, when you reduce a hostile creature to 0 hit points with a
 
 You can hold a number of life sparks equal to your Constitution modifier. At the end of a long rest, any unspent life sparks fade into the great beyond.
 
-Some life spark powers require your target to make a saving throw to resist its effects. Calculate the saving throw DC as follows:
-
-        **Life Spark save DC** = 8 + your proficiency bonus + your Charisma modifier.
+Some life spark powers require your target to make a saving throw to resist its effects. Calculate the saving throw DC as follows: **Life Spark save DC** = 8 + your proficiency bonus + your Charisma modifier.
 
 **Aberration.** You can expend an aberration life spark as a bonus action to gain a +2 bonus to AC until the end of your next turn.
 
-**Beast.** You can expend a beast life spark as an action to cast speak with animals without the expendi-
-ture of a spell slot.
+**Beast.** You can expend a beast life spark as an action to cast [speak with animals](../../Magic/Spells/speak-with-animals.md) without the expenditure of a spell slot.
 
 **Celestial.** You can expend a celestial life spark as a bonus action to gain resistance to all damage until the end of your next turn.
 
@@ -35,7 +54,7 @@ ture of a spell slot.
 
 **Giant.** You can expend a giant life spark to gain advantage to Strength checks until the end of your next turn.
 
-**Humanoid.** You can expend a humanoid life spark as an action to cast augury without expending a spell slot or material components
+**Humanoid.** You can expend a humanoid life spark as an action to cast [augury](../../Magic/Spells/augury.md) without expending a spell slot or material components
 
 **Monstrosity.** You can expend a monstrosity life spark as a bonus action to gain temporary hit points equal to 1d6 + half your sorcerer level.
 
