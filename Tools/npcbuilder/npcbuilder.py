@@ -297,25 +297,35 @@ languages = {
 
 armor = {
     'light': {
+        'Battle robe' : 11,
         'Padded armor' : 11, 
-        'Leather armor' : 11, 
+        'Leather armor' : 11,
+        'Leather lamellar' : 12,
         'Studded leather armor' : 12
     },
     'medium': {
         'Hide armor' : 12, 
-        'Chain shirt' : 13, 
+        'Chain shirt' : 13,
+        'Plated leather' : 13,
+        'Wood' : 13,
         'Scale mail' : 14, 
         'Breastplate' : 14, 
-        'Half-plate' : 15
+        'Half-plate' : 15,
+        'Kozane' : 15
     },
     'heavy': {
         'Ring mail' : 14,
+        'Lorica segmentata' : 15,
         'Chain mail' : 16,
         'Splint armor' : 17,
         'Plate armor' : 18
     },
     'shields': {
-        'Shield' : 2
+        'Buckler' : 1,
+        'Fencing cloak' : 1,
+        'Vambrace' : 1,
+        'Shield' : 2,
+        'Tower shield' : 2
     }
 }
 

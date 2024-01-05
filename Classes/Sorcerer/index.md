@@ -212,10 +212,9 @@ Spell Slot Level|Sorcery Point Cost
 ```
 def level2(npc):
     def calculatesorcerypoints(npc):
-        npc.spellcasting['Sorcerer'].sorcereypoints = npc.levels('Sorcerer')
+        npc.spellcasting['Sorcerer'].sorcerypoints = npc.levels('Sorcerer')
+        npc.traits.append(f"***Font of Magic (Recharges on long rest).*** You have {npc.spellcasting['Sorcerer'].sorcerypoints} sorcery points.")
     npc.defer(lambda npc: calculatesorcerypoints(npc) )
-
-    npc.traits.append("***Font of Magic (Recharges on long rest).*** You have {npc.spellcasting['Sorcerer'].sorcerypoints} sorcery points.")
 
     npc.traits.append("***Font of Magic: Empowering Reserves.*** When you make an ability check on your turn, you can spend 2 sorcery points to gain advantage on the check.")
 
