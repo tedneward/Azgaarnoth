@@ -17,7 +17,7 @@ Poisons are anywhere from common to legendary in terms of accessibility; in most
 
 ***Common.*** Common poisons can be found in the supplies of most apothecaries and alchemists, though they are unlikely to reveal such poisons except to customers that can show they won't spread word of such sales. Customers that speak in Thieves' Cant are usually able to acquire these poisons with ease. Common poisons can also be found in most wilderness environments with a successful DC 15 Wisdom (Survival) or Intelligence (Nature) check and several hours of searching.
 
-Common poisons include [Assassin's Blood](#assassins-blood), [common serpent venom](#common-serpent-venom), [deadly nightshade](#deadly-nightshade), [Hemlock](#hemlock), [Mandrake](#mandrake), and [Slayer's Boon](#slayers-boon).
+Common poisons include [Arsenic](#arsenic), [Assassin's Blood](#assassins-blood), [common serpent venom](#common-serpent-venom), [deadly nightshade](#deadly-nightshade), [Hemlock](#hemlock), [Mandrake](#mandrake), and [Slayer's Boon](#slayers-boon). Many monsters use a [common venom](#common-venom) to inflict the poisoned condition on PCs.
 
 ***Uncommon.*** Uncommon poisons can be found in the inventories of most wealthy or unscrupulous apothecaries, alchemists, and death-dealers in major cities. These poisons are not easy to craft, and their ingredients are difficult to obtain. They are usually quite illegal in most societies.
 
@@ -30,6 +30,11 @@ Uncommon poisons include [Black Fog](#black-fog), [Burnt Othur Fumes](#burnt-oth
 ***Legendary.*** Legendary poisons can only be found in the most deadly and extreme locales, and only with a legendary amount of luck on one's side. Crafting them is nearly impossible, but legends speak of once-in-a-generation alchemists who were able to manage such feats.
 
 ---
+
+### Arsenic
+*(various; common)*
+
+An arsenic-poisoned creature has disadvantage on attack rolls and ability checks, and must make a DC 10 Constitution saving throw each 24 hours it is poisoned. On a failed save, it takes 6 (1d12) poison damage and remains poisoned. On a successful save, the creature takes half damage and isn't poisoned.
 
 ### Assassin's Blood 
 *(Ingested; common)* 
@@ -55,6 +60,11 @@ This poison must be harvested from a dead or incapacitated carrion crawler. A cr
 *(Injury; common)*
 
 This poison must be har­vested from a dead or incapacitated giant poisonous snake. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+
+### Common Venom
+*(Injury; common)*
+
+This poison is often what's inflicted by a creature whose attacks render a target poisoned. A poisoned creature has disadvantage on all attack rolls and ability checks until cured, but can only be cured by application of healing agents--it will not heal with time or saving throws.
 
 ### Crimson Hatred
 *(Injury; legendary)* 
@@ -94,42 +104,44 @@ This rare poisonous herb is tasteless and odorless, growing only in lands that a
 ### Essence of Corruption
 *(Injury; legendary)*
 
-This poisonous dust is created by alchemically combining rare materials from each of the Outer Planes, Inner Planes, and Elemental Planes, following an ancient cosmic formula for brewing pure corruption to all things. A creature subjected to this cosmic poison must make a DC 21 Constitution saving throw. On a failed save, it takes 55 (lOdlO) poison damage, it gains one level of exhaustion, and it is poisoned for 1 minute. On a successful save, it takes half as much damage and suffers no other effects. This poison ignores immunity and resistance to poison damage as well as immunity to the poisoned condition.
+This poisonous dust is created by alchemically combining rare materials from each of the Outer Planes, Inner Planes, and Elemental Planes, following an ancient cosmic formula for brewing pure corruption to all things. A creature subjected to this cosmic poison must make a DC 21 Constitution saving throw. On a failed save, it takes 55 (10d10) poison damage, it is [corrupted](./Corrupted.md), and it gains one level of [exhaustion](./Exhaustion.md). On a successful save, it takes half as much damage and suffers no other effects. This poison ignores immunity and resistance to poison damage as well as immunity to the poisoned condition.
 
 ### Essence of Ether
 *(Inhaled; rare)*
 
-A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 8 hours. The poi­soned creature is unconscious. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
+A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become [unconscious](./Unconscious.md) for 8 hours. The creature wakes up if it takes damage or if another creature takes an action to shake it awake, but will have disadvantage on all attack rolls and ability checks for the entire 8-hour period.
 
 ### Frostbite Spider Venom
 *(Injury; rare)*
 
-This poison must be harvested from a dead or incapacitated frostbite spider. A creature subjected to this poison must make a DC 13 Constitution saving throw. On a failed save, the creature takes 13 (3d8) poison damage and 13 (3d8) cold damage, it is poisoned for 1 minute, and if it can be poisoned and doesn't have resistance or immunity to cold damage, it is restrained until the end of its next turn. On a successful save, the creature takes half damage and isn't restrained or poisoned. If the damage reduces the creature to 0 hit points, the creature is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+This poison must be harvested from a dead or incapacitated frostbite spider. A creature subjected to this poison must make a DC 13 Constitution saving throw. On a failed save, the creature takes 13 (3d8) poison damage and 13 (3d8) cold damage, it has disadvantage on all attack rolls and ability checks for 1 minute, and if it can be poisoned and doesn't have resistance or immunity to cold damage, it is [restrained](./Restrained.md) until the end of its next turn. On a successful save, the creature takes half damage and isn't restrained or poisoned. If the damage reduces the creature to 0 hit points, the creature is stable but poisoned for 1 hour, even after regaining hit points, and is [paralyzed](./Paralyzed.md) while poisoned in this way.
 
 ### Ghoulfang
 *(Contact/Injury; uncommon)*
 
-This poison must be brewed using elf blood and saliva harvested from a dead or incapacitated ghoul or ghast. A creature subjected to this poison must make a DC 13 Constitution saving throw. On a failure, it takes 11 (2d10) poison damage and 9 (2d8) necrotic damage and it is poisoned until the end of its next turn. While poisoned in this way, it is also paralyzed. On a successful save, it takes half as much damage and isn't poisoned. When this poison affects an elf or a fey, it ignores immunity to poison damage and to the poisoned condition.
+This poison must be brewed using elf blood and saliva harvested from a dead or incapacitated ghoul or ghast. A creature subjected to this poison must make a DC 13 Constitution saving throw. On a failure, it takes 11 (2d10) poison damage and 9 (2d8) necrotic damage and it is poisoned until the end of its next turn. While poisoned in this way, it is also [paralyzed](./Paralyzed.md). On a successful save, it takes half as much damage and isn't poisoned. When this poison affects an elf or a fey, it ignores immunity to poison damage and immunity to the poisoned condition.
 
 ### Hemlock
 *(Ingested; common)*
 
-This poisonous herb has a slightly sweet flavor. One minute after a creature is subjected to this poison, it takes 2 (1d4) poison damage and must make a DC 10 Constitution saving throw. On a failed save, the creature is poisoned for 1 hour and paralyzed while it is poisoned. At the end of that hour, it takes 2 (1d4) poison damage and must repeat the saving throw. When a creature takes damage from this poison, its maximum hit points are reduced by the same amount until it is no longer poisoned.
+This poisonous herb has a slightly sweet flavor. One minute after a creature is subjected to this poison, it takes 2 (1d4) poison damage and must make a DC 10 Constitution saving throw. On a failed save, the creature is poisoned for 1 hour and [paralyzed](./Paralyzed.md) while it is poisoned. At the end of that hour, it takes 2 (1d4) poison damage and must repeat the saving throw. When a creature takes damage from this poison, its maximum hit points are reduced by the same amount until it is no longer poisoned.
 
 ### Impish Delight
 *(Injury; uncommon)*
 
-This poison must be carefully brewed by combining the tail of a dead or incapacitated imp or dire imp with rare herbal ingredients. If harvested incorrectly, it vanishes back to the imp's native plane before it can be used. A creature subjected to this poison must make a DC 13 Constitution saving throw. On a failure, it takes 21 (6d6) poison damage and is poisoned for 1 minute. On a success, it takes half as much damage and isn't poisoned.
+This poison must be carefully brewed by combining the tail of a dead or incapacitated imp or dire imp with rare herbal ingredients. If harvested incorrectly, it vanishes back to the imp's native plane before it can be used. A creature subjected to this poison must make a DC 13 Constitution saving throw. On a failure, it takes 21 (6d6) poison damage and has disadvantage on all attack rolls and ability checks for 1 minute. On a success, it takes half as much damage and isn't poisoned.
 
 ### Infernal Poison
 *(Injury; very rare)*
 
-This poison is created by alchemically combining salamander blood with the blood of a devil. A creature subjected to this poison must make a DC 17 Constitution saving throw. On a failed save, the creature takes 28 (8d6) fire damage and it is poisoned for 1 minute. On a success, it takes half as much damage and isn't poisoned. On a success or a failure, if the creature can be poisoned, it also ignites and is [ablaze](Ablaze.md). Until a creature takes an action to douse the fire, the target takes 14 (4d6) fire damage at the end of each of its turns. When this poison affects a fey or celestial, it ignores immunity to the poisoned condition.
+This poison is created by alchemically combining salamander blood with the blood of a devil. A creature subjected to this poison must make a DC 17 Constitution saving throw. On a failed save, the creature takes 28 (8d6) fire damage and has disadvantage on all attack rolls and ability checks for 1 minute. On a success, it takes half as much damage and isn't poisoned. 
+
+On a success or a failure, if the creature can be poisoned, it also ignites and is [ablaze](Ablaze.md). Until a creature takes an action to douse the fire, the target takes 14 (4d6) fire damage at the end of each of its turns. When this poison affects a fey or celestial, it ignores immunity to the poisoned condition.
 
 ### Malice
 *(Inhaled; rare)* 
 
-A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 1 hour. The poisoned creature is blinded.
+A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 1 hour. The poisoned creature is [blinded](./Blinded.md).
 
 ### Mandrake
 *(Ingested; common)*
@@ -144,12 +156,12 @@ A creature that ingests this poison suffers no effect until the stroke of midnig
 ### Necrotic Miasma
 *(Inhaled; legendary)*
 
-This poisonous gas can only be harvested from the Negative Energy Plane using powerful arcane magic. A creature subjected to this poison must make a DC 20 Constitution saving throw. On a failed save, it takes 23 (5d8) poison damage and 28 (8d6) necrotic damage, it gains one level of exhaustion, and it can't regain hit points for 1 minute. On a successful save, it takes half as much damage and suffers no other effects. If the creature has no more than 50 hit points and it can be poisoned, it instantly dies instead of rolling the saving throw.
+This poisonous gas can only be harvested from the Negative Energy Plane using powerful arcane magic. A creature subjected to this poison must make a DC 20 Constitution saving throw. On a failed save, it takes 23 (5d8) poison damage and 28 (8d6) necrotic damage, it gains one level of [exhaustion](./Exhaustion.md), and it can't regain hit points for 1 minute. On a successful save, it takes half as much damage and suffers no other effects. If the creature has no more than 50 hit points and it can be poisoned, it instantly dies instead of rolling the saving throw.
 
 ### Oil of Taggit
 *(Contact; uncommon)*
 
-A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become poisoned for 24 hours. The poisoned creature is unconscious. It wakes up if it takes damage.
+A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become poisoned for 24 hours. The poisoned creature is [unconscious](./Unconscious.md). It wakes up if it takes damage.
 
 ### Pale Tincture
 *(Ingested; uncommon)*
@@ -159,12 +171,12 @@ A creature subjected to this poison must succeed on a DC 16 Constitution saving 
 ### Paralytic Fumes
 *(Contact/Inhaled; very rare)*
 
-A creature subjected to this alchemical poison must make a DC 18 Constitution saving throw. On a failed save, it takes 33 (6d10) poison damage and it is poisoned for 1 minute. While poisoned in this way, it is also paralyzed. Once it stops being poisoned, it has disadvantage on Dexterity checks for 1 hour. On a successful save, it takes half as much damage and isn't poisoned. While poisoned, the creature repeats the saving throw at the end of each of its turns, ending the effect on a success.
+A creature subjected to this alchemical poison must make a DC 18 Constitution saving throw. On a failed save, it takes 33 (6d10) poison damage and it is poisoned for 1 minute. While poisoned in this way, it is also [paralyzed](./Paralyzed.md). Once it stops being poisoned, it has disadvantage on Dexterity checks for 1 hour. On a successful save, it takes half as much damage and isn't poisoned. While poisoned, the creature repeats the saving throw at the end of each of its turns, ending the effect on a success.
 
 ### Phantom Pox Fluid
 *(Ingested; very rare)*
 
-This poison is created using materials that must be harvested from dead bodies that carry infectious plagues. 24 hours after a creature is subjected to this tasteless, sweet-smelling poison, it must make a DC 17 Constitution saving throw. On a failure, the target takes 31 (9d6) poison damage, it gains one level of exhaustion, and its maximum hit points are reduced by the amount of damage that it took. On a success, it takes half as much damage and suffers no other effects. A creature with reduced maximum hit points repeats the saving throw with disadvantage at the end of each long rest, restoring its hit point maximum on a success. Any effect that removes a disease allows the creature's hit point maximum to return to normal without requiring a successful saving throw. Creatures that are immune to disease are immune to this poison.
+This poison is created using materials that must be harvested from dead bodies that carry infectious plagues. 24 hours after a creature is subjected to this tasteless, sweet-smelling poison, it must make a DC 17 Constitution saving throw. On a failure, the target takes 31 (9d6) poison damage, it gains one level of [exhaustion](./Exhaustion.md), and its maximum hit points are reduced by the amount of damage that it took. On a success, it takes half as much damage and suffers no other effects. A creature with reduced maximum hit points repeats the saving throw with disadvantage at the end of each long rest, restoring its hit point maximum on a success. Any effect that removes a disease allows the creature's hit point maximum to return to normal without requiring a successful saving throw. Creatures that are immune to disease are immune to this poison.
 
 ### Pollutoad Mucus
 *(Contact/Injury; very rare)*
@@ -184,7 +196,7 @@ This poisonous herb has no taste or smell and is extremely rare. According to le
 ### Scorch Spider Venom
 *(Injury; rare)*
 
-This poison must be harvested from a dead or incapacitated scorch spider. A creature subjected to this poison must make a DC 13 Constitution saving throw. On a failed save, the target takes 10 (3d6) fire damage and 13 (3d8) poison damage and it is [ablaze](Ablaze.md). Until a creature takes an action to douse the fire, the poisoned target takes 5 (1dlO) fire damage at the start of each of its turns. On a successful save, it takes half damage and doesn't ignite. If the damage reduces the creature to 0 hit points, the creature is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+This poison must be harvested from a dead or incapacitated scorch spider. A creature subjected to this poison must make a DC 13 Constitution saving throw. On a failed save, the target takes 10 (3d6) fire damage and 13 (3d8) poison damage and it is [ablaze](Ablaze.md). Until a creature takes an action to douse the fire, the poisoned target takes 5 (1d10) fire damage at the start of each of its turns. On a successful save, it takes half damage and doesn't ignite. If the damage reduces the creature to 0 hit points, the creature is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
 ### Shadow Poison
 *(Injury; rare)*
@@ -204,12 +216,12 @@ There are many different varieties of this poison that are easily created via al
 ### Succulent Death
 *(Contact/Ingested; uncommon)*
 
-One minute after a creature is subjected to this sweet and savory herbal poison, it must make a DC 12 Constitution saving throw. On a failed save, it becomes poisoned for 1 hour. While poisoned in this way, it feels an overwhelming joy and satisfaction, and it is charmed by any creature that it sees or hears. It regards all creatures as its close friends, as if affected by the [charm person](../Spells/charm-person.md) spell. At the end of the hour, it takes 22 (4d10) poison damage. On a successful save, it takes half as much damage instantly but is not poisoned.
+One minute after a creature is subjected to this sweet and savory herbal poison, it must make a DC 12 Constitution saving throw. On a failed save, it becomes poisoned for 1 hour. While poisoned in this way, it feels an overwhelming joy and satisfaction, and it is [charmed](./Charmed.md) by any creature that it sees or hears. It regards all creatures as its close friends, as if affected by the [charm person](../Spells/charm-person.md) spell. At the end of the hour, it takes 22 (4d10) poison damage. On a successful save, it takes half as much damage instantly but is not poisoned.
 
 ### Torpor
 *(Ingested; uncommon)*
 
-A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 4d6 hours. The poisoned creature is incapacitated.
+A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 4d6 hours. The poisoned creature is [incapacitated](./Incapacitated.md).
 
 ### Truth Serum
 *(Ingested; uncommon)*

@@ -1,5 +1,5 @@
-# Condition: Madness
-Madness can be short-term, long-term, or indefinite. 
+# Condition: Madness (aka Insanity)
+Madness or insanity can be short-term, long-term, or indefinite. 
 
 Most relatively mundane effects impose short-term madness, which lasts forjust a few minutes. More horrific effects or cumulative effects can result in long­ term or indefinite madness.
 

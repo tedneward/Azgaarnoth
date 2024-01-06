@@ -6,7 +6,7 @@ Lycanthropy, in which a creature has the ability to transform into a savage crea
 
 A character who becomes a lycanthrope retains his or her statistics except as specified by lycanthrope type. The character gains the lycanthrope’s speeds in nonhumanoid form, damage immunities, traits, and actions that don’t involve equipment. The character is proficient with the lycanthrope’s natural attacks, such as its bite or claws, which deal damage as shown in the lycanthrope’s statistics. The character can’t speak while in animal form.
 
-A non-lycanthrope humanoid hit by an attack that carries the curse of lycanthropy must succeed on a Constitution saving throw (DC 8 + the lycanthrope’s proficiency bonus + the lycanthrope’s Constitution modifier) or be cursed. If the character embraces the curse, his or her alignment becomes the one defined for the lycanthrope while in that lycanthropic form; during their time as their original (humanoid) form, they retain full control over their choices and alignment.
+A non-lycanthrope humanoid hit by an attack that carries the curse of lycanthropy must succeed on a Constitution saving throw (DC 8 + the lycanthrope’s proficiency bonus + the lycanthrope's Constitution modifier) or be cursed. If the character embraces the curse, his or her alignment becomes the one defined for the lycanthrope while in that lycanthropic form; during their time as their original (humanoid) form, they retain full control over their choices and alignment.
 
 The following information applies to specific lycanthropes.
 
@@ -20,7 +20,4 @@ The following information applies to specific lycanthropes.
 
 ***Werewolf.*** The character gains a Strength of 15 if his or her score isn’t already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 
-
-
-
-
+Other lycanthropes may have similar adjustments.

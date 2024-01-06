@@ -1,7 +1,7 @@
 # Conditions: Blood Magic Ailments
 Sometimes, poisons and diseases are just not enough to represent the kind of wretched afflictions that forbidden magic is capable of producing. Legends speak of heroes struck by terrible blood hexes and of reckless warlocks who fouled their own blood in their pursuit of power.
 
-Blood magic aliments are magical afflictions that are not curses, diseases, or poisons, but linger in the blood of a creature until they are cured. Creatures that don't have blood can't suffer from blood magic ailments.
+Blood magic aliments are magical afflictions that are not [curses](./Cursed.md), [diseases](./Diseased.md), or [poisons](./Poisoned.md), but linger in the blood of a creature until they are cured. Creatures that don't have blood can't suffer from blood magic ailments.
 
 These ailments represent a form of magic that is both more primal and also more twisted than normal curses as they can't be removed with most effects that remove curses. They are inherently more magical than disease, and can't be removed by any disease-curing spells. (They are fundamentally plot components more than they are gameplay elements, and they should be treated as such within your campaign.)
 
@@ -24,7 +24,7 @@ When a creature is subjected to a blood magic ailment, it might be able to make 
 However, there is often no saving throw to resist the acquisition of a blood magic ailment. As a DM, you can always choose whether a creature can resist the ailment with a successful saving throw or not. Ailments that can not be resisted are sometimes more appropriate.
 
 ## Curing Ailments
-Blood magic ailments are not diseases and so cannot be cured by effects that remove a disease. Similarly, they're not curses, so effects such as the remove curse spell will not remove them, and they aren't poisons either.
+Blood magic ailments are not [diseases](./Diseased.md) and so cannot be cured by effects that remove a disease, nor are they [poisons](./Poisoned.md). Similarly, they're not curses, so effects such as the [remove curse](../Magic/Spells/remove-curse.md) spell will not remove them.
 
 Instead, blood magic ailments can only be removed by plot-relevant actions dictated by the DM. For example, an ailment might only be able to be cured through a special ritual that can only be performed at a specific location, or using specific rare materials. You might decide that an ailment can only be cured using a remedy made from ingredients obtained through difficult adventure, or that an ailment can only be removed by a specialized healer, such as a rare celestial or benevolent fey.
 
@@ -33,15 +33,15 @@ In the end, remember that these ailments are meant to improve your game and the 
 ## Ailments
 **Dead Blood.** It cannot regain hit points by spending hit dice or finishing a long rest, and it fails all saving throws against poisons and diseases.
 
-**Blood Madness.** Each time it finishes a long rest, it rolls on the Long-Term Madness table and the Indefinite Madness table, found in the Dungeon Master's Guide, and it experiences both results until it finishes another long rest.
+**Blood Madness.** Each time it finishes a long rest, it rolls on the [Long-Term Madness](./Madness.md#long-term-madness) table and the [Indefinite Madness](./Madness.md#indefinite-madness) table, and it experiences both results until it finishes another long rest.
 
-**Pale Blood.** Its blood loses some energy-restoring capacity. To reduce its exhaustion by one level, it must finish a number of long rests equal to 8 - its Constitution modifier (minimum of two long rests), instead o f only one. In addition, its blood cannot be used for blood magic.
+**Pale Blood.** Its blood loses some energy-restoring capacity. To reduce its [exhaustion](./Exhaustion.md) by one level, it must finish a number of long rests equal to 8 - its Constitution modifier (minimum of two long rests), instead o f only one. In addition, its blood cannot be used for blood magic.
 
 **Diluted Blood.** Its emotions are influenced against its will. It is reserved, aimless, and emotionless, unable to summon almost any amount of urgency or motivation to act.
 
 **Hot-Blooded.** Its emotions are influenced against its will. It is passionate, excitable, and easy to anger, unable to calm down or act slowly.
 
-**Blood Zeal.** Its blood is overly aggressive to toxins. When it becomes poisoned or diseased, it takes necrotic damage equal to its level or challenge rating (minimum 1 damage). While it remains poisoned or diseased, it cannot regain hit points by spending hit dice or finishing a long rest, and it takes necrotic damage equal to its level or challenge rating (minimum 1 damage) every hour.
+**Blood Zeal.** Its blood is overly aggressive to toxins. When it becomes [poisoned](./Poisoned.md) or [diseased](./Diseased.md), it takes necrotic damage equal to its level or challenge rating (minimum 1 damage). While it remains poisoned or diseased, it cannot regain hit points by spending hit dice or finishing a long rest, and it takes necrotic damage equal to its level or challenge rating (minimum 1 damage) every hour.
 
 **Rotten Blood.** Its blood decays quickly, and smells very strongly of rot and death as soon as it is spilled. It has vulnerability to necrotic damage, and while it is missing hit points it gives off a disgusting smell that enables those who can smell to track it without requiring an ability check.
 

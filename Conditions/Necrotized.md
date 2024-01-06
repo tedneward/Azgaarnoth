@@ -1,5 +1,4 @@
 # Condition: Necrotized
-
 When a creature has been subjected to certain kinds of necromantic energies, the energies can sometimes "take root" inside that creature for a period of time, causing it to be *necrotized* for some period of time. Only humanoids and beasts can be necrotized.
 
 While necrotized, there may be some perceptible symptoms for a necrotized creature, such as discoloration of eyes and skin, or coldness of touch, or darkening of veins.

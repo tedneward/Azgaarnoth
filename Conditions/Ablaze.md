@@ -1,6 +1,7 @@
 # Condition: Ablaze
+*(Ablaze is a new condition that unifies similar effects caused by some spells, monsters, and effects. If a spell or effect describes lighting a creature on fire, lighting it ablaze, igniting it, or causing it to start burning, that creature is **ablaze**.)*
 
-When a creature is on fire, either magical or nonmagical fire, it is ablaze. Ablaze is a new condition that unifies similar effects caused by some spells, monsters, and effects. If a spell or effect describes lighting a creature on fire, lighting it ablaze, igniting it, or causing it to start burning, that creature is **ablaze**.
+When a creature is on fire, either magical or nonmagical fire, it is ablaze.
 
 A creature that is ablaze will take 1d10 fire damage at the start of each of its turns, unless the effect that caused the flame specifies an amount of damage instead. Some effects, like the [immolation](../Spells/immolation.md) or [searing smite](../Spells/searing-smite.md) spells, cause a different amount of damage.
 

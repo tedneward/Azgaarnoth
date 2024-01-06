@@ -6,6 +6,7 @@ nav:
     - Religions: Religions
     - Nations: Nations
     - Cities: Cities
+    - Cultures: Cultures
     - 'Organizations':
       - Overview: Organizations
       - Bardic Colleges: Organizations/BardicColleges
@@ -21,12 +22,17 @@ nav:
       - Modern: History/Modern.md
       - Timeline: History/Timeline.md
   - 'System':
+    - Backgrounds: Cultures/Backgrounds/index.md
     - Races: Races/index.md
     - Classes: Classes/index.md
+    - Conditions: Conditions/index.md
     - Equipment: Equipment/index.md
-  - 'Reference':
-    - Spells: Magic/Spells
-    - Items: Magic/Items
+    - Feats: Feats/index.md
+    - 'Magic':
+      - Items: Magic/Items
+      - Spells: Magic/Spells
+      - Tattoos: Magic/Tattoos
+      - Undead Grafts: Magic/UndeadGrafts
     - Creatures: Creatures
   - 'About':
     - ... this site: about.md
