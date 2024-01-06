@@ -1,5 +1,5 @@
 #### Steam Strike
-*4th-level conjuration (Druid, Sorcerer, Wizard)
+*4th-level conjuration* (Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action 
 - **Range:** 60 feet 

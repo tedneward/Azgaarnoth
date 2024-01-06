@@ -1,5 +1,4 @@
-# Druid Spells
- 
+# Spell List Summary: Druid 
 ## cantrip-Level Spells
 * [Ammar's Waterspout](../../Magic/Spells/ammars-waterspout.md)
 * [Balance](../../Magic/Spells/balance.md)
@@ -25,9 +24,9 @@
 * [Frigid Grasp](../../Magic/Spells/frigid-grasp.md)
 * [Frost Trap](../../Magic/Spells/frost-trap.md)
 * [Frostbite](../../Magic/Spells/frostbite.md)
-* [Frostwind Blade](../../Magic/Spells/frostwind-blade.md)
+* [Frostwind Blade](../../Magic/Spells/frostwind-blade.md) *brandish*
 * [Gather Power](../../Magic/Spells/gather-power.md)
-* [Glimmering Blade](../../Magic/Spells/glimmering-blade.md)
+* [Glimmering Blade](../../Magic/Spells/glimmering-blade.md) *brandish*
 * [Gloom](../../Magic/Spells/gloom.md)
 * [Guidance](../../Magic/Spells/guidance.md)
 * [Gust](../../Magic/Spells/gust.md)
@@ -53,7 +52,7 @@
 * [Poison Spray](../../Magic/Spells/poison-spray.md)
 * [Primal Savagery](../../Magic/Spells/primal-savagery.md)
 * [Produce Flame](../../Magic/Spells/produce-flame.md)
-* [Punishing Strike](../../Magic/Spells/punishing-strike.md)
+* [Punishing Strike](../../Magic/Spells/punishing-strike.md) *brandish*
 * [Quickling Step](../../Magic/Spells/quickling-step.md)
 * [Razorleaf](../../Magic/Spells/razorleaf.md)
 * [Reassurance](../../Magic/Spells/reassurance.md)
@@ -83,7 +82,7 @@
  
 ## 1st-Level Spells
 * [Absorb Elements](../../Magic/Spells/absorb-elements.md)
-* [Acrid Delight](../../Magic/Spells/acrid-delight.md)
+* [Acrid Delight](../../Magic/Spells/acrid-delight.md) *ritual*
 * [Air Jaunt](../../Magic/Spells/air-jaunt.md)
 * [Ammar's Conflagration](../../Magic/Spells/ammars-conflagration.md)
 * [Animal Friendship](../../Magic/Spells/animal-friendship.md)
@@ -100,13 +99,13 @@
 * [Chilling Blow](../../Magic/Spells/chilling-blow.md)
 * [Coldsnap](../../Magic/Spells/coldsnap.md)
 * [Conjure Critters](../../Magic/Spells/conjure-critters.md)
-* [Create Poison](../../Magic/Spells/create-poison.md)
+* [Create Poison](../../Magic/Spells/create-poison.md) *ritual*
 * [Create or Destroy Water](../../Magic/Spells/create-or-destroy-water.md)
 * [Cure Wounds](../../Magic/Spells/cure-wounds.md)
 * [Dead End](../../Magic/Spells/dead-end.md)
-* [Dead Man's Tell](../../Magic/Spells/dead-mans-tell.md)
-* [Detect Magic](../../Magic/Spells/detect-magic.md)
-* [Detect Poison and Disease](../../Magic/Spells/detect-poison-and-disease.md)
+* [Dead Man's Tell](../../Magic/Spells/dead-mans-tell.md) *ritual*
+* [Detect Magic](../../Magic/Spells/detect-magic.md) *ritual*
+* [Detect Poison and Disease](../../Magic/Spells/detect-poison-and-disease.md) *ritual*
 * [Drawmij's Light Step](../../Magic/Spells/drawmijs-light-step.md)
 * [Druidfire](../../Magic/Spells/druidfire.md)
 * [Earth Tremor](../../Magic/Spells/earth-tremor.md)
@@ -130,9 +129,9 @@
 * [Glide](../../Magic/Spells/glide.md)
 * [Goodberry](../../Magic/Spells/goodberry.md)
 * [Great Watcher Spirit](../../Magic/Spells/great-watcher-spirit.md)
-* [Guiding Hand](../../Magic/Spells/guiding-hand.md)
+* [Guiding Hand](../../Magic/Spells/guiding-hand.md) *ritual*
 * [Healing Word](../../Magic/Spells/healing-word.md)
-* [Hibernate](../../Magic/Spells/hibernate.md)
+* [Hibernate](../../Magic/Spells/hibernate.md) *ritual*
 * [Ice Beam](../../Magic/Spells/ice-beam.md)
 * [Ice Knife](../../Magic/Spells/ice-knife.md)
 * [Ice Spike](../../Magic/Spells/ice-spike.md)
@@ -154,29 +153,29 @@
 * [Magic Fang](../../Magic/Spells/magic-fang.md)
 * [Magmin Grasp](../../Magic/Spells/magmin-grasp.md)
 * [Magnet Pull](../../Magic/Spells/magnet-pull.md)
-* [Nightowl](../../Magic/Spells/nightowl.md)
+* [Nightowl](../../Magic/Spells/nightowl.md) *ritual*
 * [Oppressive Cold](../../Magic/Spells/oppressive-cold.md)
 * [Protection from Evil and Good](../../Magic/Spells/protection-from-evil-and-good.md)
-* [Purify Food and Drink](../../Magic/Spells/purify-food-and-drink.md)
-* [Ripen](../../Magic/Spells/ripen.md)
+* [Purify Food and Drink](../../Magic/Spells/purify-food-and-drink.md) *ritual*
+* [Ripen](../../Magic/Spells/ripen.md) *ritual*
 * [Rot](../../Magic/Spells/rot.md)
 * [Scattered Form](../../Magic/Spells/scattered-form.md)
 * [Seeking Missile](../../Magic/Spells/seeking-missile.md)
-* [Sensory Caress](../../Magic/Spells/sensory-caress.md)
+* [Sensory Caress](../../Magic/Spells/sensory-caress.md) *ritual*
 * [Serpent Missile](../../Magic/Spells/serpent-missile.md)
 * [Shed Skin](../../Magic/Spells/shed-skin.md)
 * [Shock](../../Magic/Spells/shock.md)
 * [Sign of Warning](../../Magic/Spells/sign-of-warning.md)
 * [Skein of Vines](../../Magic/Spells/skein-of-vines.md)
 * [Snare](../../Magic/Spells/snare.md)
-* [Snow Boots](../../Magic/Spells/snow-boots.md)
+* [Snow Boots](../../Magic/Spells/snow-boots.md) *ritual*
 * [Snowfield](../../Magic/Spells/snowfield.md)
 * [Spasm](../../Magic/Spells/spasm.md)
-* [Speak with Animals](../../Magic/Spells/speak-with-animals.md)
+* [Speak with Animals](../../Magic/Spells/speak-with-animals.md) *ritual*
 * [Step of a Dozen Paces](../../Magic/Spells/step-of-a-dozen-paces.md)
 * [Summon Monster](../../Magic/Spells/summon-monster.md)
 * [Sunscorch](../../Magic/Spells/sunscorch.md)
-* [Sustain Fire](../../Magic/Spells/sustain-fire.md)
+* [Sustain Fire](../../Magic/Spells/sustain-fire.md) *ritual*
 * [Swoop](../../Magic/Spells/swoop.md)
 * [Taser](../../Magic/Spells/taser.md)
 * [Tearing Claws](../../Magic/Spells/tearing-claws.md)
@@ -184,10 +183,10 @@
 * [Touch of Venom](../../Magic/Spells/touch-of-venom.md)
 * [Updraft](../../Magic/Spells/updraft.md)
 * [Vigor](../../Magic/Spells/vigor.md)
-* [Wailing Wind](../../Magic/Spells/wailing-wind.md)
+* [Wailing Wind](../../Magic/Spells/wailing-wind.md) *ritual*
 * [Warning Shout](../../Magic/Spells/warning-shout.md)
 * [Water Whip](../../Magic/Spells/water-whip.md)
-* [Wild Cunning](../../Magic/Spells/wild-cunning.md)
+* [Wild Cunning](../../Magic/Spells/wild-cunning.md) *ritual*
 * [Wind Compass](../../Magic/Spells/wind-compass.md)
 * [Zen Archery](../../Magic/Spells/zen-archery.md)
  
@@ -198,18 +197,18 @@
 * [Allied Footsteps](../../Magic/Spells/allied-footsteps.md)
 * [Altruistic Healing](../../Magic/Spells/altruistic-healing.md)
 * [Amorphous Form](../../Magic/Spells/amorphous-form.md)
-* [Analyze Blood](../../Magic/Spells/analyze-blood.md)
-* [Animal Messenger](../../Magic/Spells/animal-messenger.md)
+* [Analyze Blood](../../Magic/Spells/analyze-blood.md) *ritual*
+* [Animal Messenger](../../Magic/Spells/animal-messenger.md) *ritual*
 * [Animal Spy](../../Magic/Spells/animal-spy.md)
 * [Ash Cloud](../../Magic/Spells/ash-cloud.md)
 * [Attuned Wards](../../Magic/Spells/attuned-wards.md)
-* [Augury](../../Magic/Spells/augury.md)
+* [Augury](../../Magic/Spells/augury.md) *ritual*
 * [Avian Geyser](../../Magic/Spells/avian-geyser.md)
 * [Balancing Lorecall](../../Magic/Spells/balancing-lorecall.md)
 * [Balliard's Rejuvenating Touch](../../Magic/Spells/balliards-rejuvenating-touch.md)
 * [Barkskin](../../Magic/Spells/barkskin.md)
 * [Bat Sense](../../Magic/Spells/bat-sense.md)
-* [Beast Sense](../../Magic/Spells/beast-sense.md)
+* [Beast Sense](../../Magic/Spells/beast-sense.md) *ritual*
 * [Binding Wind](../../Magic/Spells/binding-wind.md)
 * [Binding Winds](../../Magic/Spells/binding-winds.md)
 * [Blackrot](../../Magic/Spells/blackrot.md)
@@ -220,18 +219,18 @@
 * [Body of the Sun](../../Magic/Spells/body-of-the-sun.md)
 * [Breathsense](../../Magic/Spells/breathsense.md)
 * [Briar Web](../../Magic/Spells/briar-web.md)
-* [Brightflame](../../Magic/Spells/brightflame.md)
+* [Brightflame](../../Magic/Spells/brightflame.md) *ritual*
 * [Burrowing Claws](../../Magic/Spells/burrowing-claws.md)
 * [Clutch of the Mire](../../Magic/Spells/clutch-of-the-mire.md)
 * [Command Minor Beast](../../Magic/Spells/command-minor-beast.md)
 * [Continual Flame](../../Magic/Spells/continual-flame.md)
 * [Creeping Cold](../../Magic/Spells/creeping-cold.md)
-* [Crimson Blade](../../Magic/Spells/crimson-blade.md)
+* [Crimson Blade](../../Magic/Spells/crimson-blade.md) *blood*
 * [Daggerspell Stance](../../Magic/Spells/daggerspell-stance.md)
 * [Darkvision](../../Magic/Spells/darkvision.md)
 * [Decastave](../../Magic/Spells/decastave.md)
 * [Decomposition](../../Magic/Spells/decomposition.md)
-* [Desecrate](../../Magic/Spells/desecrate.md)
+* [Desecrate](../../Magic/Spells/desecrate.md) *ritual*
 * [Detect Familiar](../../Magic/Spells/detect-familiar.md)
 * [Detect Undead](../../Magic/Spells/detect-undead.md)
 * [Dive](../../Magic/Spells/dive.md)
@@ -263,7 +262,7 @@
 * [Healing Spirit](../../Magic/Spells/healing-spirit.md)
 * [Heat Metal](../../Magic/Spells/heat-metal.md)
 * [Hold Person](../../Magic/Spells/hold-person.md)
-* [Howling Downpour](../../Magic/Spells/howling-downpour.md)
+* [Howling Downpour](../../Magic/Spells/howling-downpour.md) *ritual*
 * [Ice Sculpture](../../Magic/Spells/ice-sculpture.md)
 * [Ice Shield](../../Magic/Spells/ice-shield.md)
 * [Icicle Blast](../../Magic/Spells/icicle-blast.md)
@@ -277,36 +276,37 @@
 * [Lifetap](../../Magic/Spells/lifetap.md)
 * [Lightning Blast](../../Magic/Spells/lightning-blast.md)
 * [Listening Lorecall](../../Magic/Spells/listening-lorecall.md)
-* [Locate Animals or Plants](../../Magic/Spells/locate-animals-or-plants.md)
+* [Locate Animals or Plants](../../Magic/Spells/locate-animals-or-plants.md) *ritual*
 * [Locate Object](../../Magic/Spells/locate-object.md)
 * [Luminous Swarm](../../Magic/Spells/luminous-swarm.md)
 * [Manythorns](../../Magic/Spells/manythorns.md)
-* [Maskstone](../../Magic/Spells/maskstone.md)
+* [Maskstone](../../Magic/Spells/maskstone.md) *ritual*
 * [Moonbeam](../../Magic/Spells/moonbeam.md)
 * [Mountain Stance](../../Magic/Spells/mountain-stance.md)
-* [Mountains to Molehills](../../Magic/Spells/mountains-to-molehills.md)
+* [Mountains to Molehills](../../Magic/Spells/mountains-to-molehills.md) *ritual*
 * [Needlestorm](../../Magic/Spells/needlestorm.md)
 * [Pass without Trace](../../Magic/Spells/pass-without-trace.md)
 * [Poison Food or Drink](../../Magic/Spells/poison-food-or-drink.md)
 * [Poisonstar](../../Magic/Spells/poisonstar.md)
-* [Preserving Flame](../../Magic/Spells/preserving-flame.md)
+* [Preserving Flame](../../Magic/Spells/preserving-flame.md) *ritual*
 * [Protection from Paralysis](../../Magic/Spells/protection-from-paralysis.md)
 * [Protection from Poison](../../Magic/Spells/protection-from-poison.md)
-* [Pullulate](../../Magic/Spells/pullulate.md)
+* [Pullulate](../../Magic/Spells/pullulate.md) *ritual*
 * [Quivaelyn's Silversteel Veil](../../Magic/Spells/quivaelyns-silversteel-veil.md)
 * [Quivaelyn's Wind Stepping Stance](../../Magic/Spells/quivaelyns-wind-stepping-stance.md)
 * [Razorscales](../../Magic/Spells/razorscales.md)
 * [Rizzak's Reeking Filth ](../../Magic/Spells/rizzaks-reeking-filth.md)
 * [See Through Other Eyes](../../Magic/Spells/see-through-other-eyes.md)
 * [Shadow Blink](../../Magic/Spells/shadow-blink.md)
+* [Shocking Circulation](../../Magic/Spells/shocking-circulation.md)
 * [Silvanus' Blessing](../../Magic/Spells/silvanus-blessing.md)
 * [Silvanus' Favor](../../Magic/Spells/silvanus-favor.md)
-* [Skywrite](../../Magic/Spells/skywrite.md)
+* [Skywrite](../../Magic/Spells/skywrite.md) *ritual*
 * [Snowball](../../Magic/Spells/snowball.md)
 * [Spike Growth](../../Magic/Spells/spike-growth.md)
 * [Summon Beast](../../Magic/Spells/summon-beast.md)
 * [Terra Spike](../../Magic/Spells/terra-spike.md)
-* [Track](../../Magic/Spells/track.md)
+* [Track](../../Magic/Spells/track.md) *ritual*
 * [Ubtao's Tiny Teraform](../../Magic/Spells/ubtaos-tiny-teraform.md)
 * [Wakefulness](../../Magic/Spells/wakefulness.md)
 * [Warding Wind](../../Magic/Spells/warding-wind.md)
@@ -319,18 +319,18 @@
 * [Acid Cloud](../../Magic/Spells/acid-cloud.md)
 * [Air Lens](../../Magic/Spells/air-lens.md)
 * [Ameliorate](../../Magic/Spells/ameliorate.md)
-* [Ancestral Guidance](../../Magic/Spells/ancestral-guidance.md)
+* [Ancestral Guidance](../../Magic/Spells/ancestral-guidance.md) *ritual*
 * [Aura of Vitality](../../Magic/Spells/aura-of-vitality.md)
 * [Blinding Arc](../../Magic/Spells/blinding-arc.md)
 * [Brittleskin](../../Magic/Spells/brittleskin.md)
 * [Burning Breath](../../Magic/Spells/burning-breath.md)
 * [Call Lightning](../../Magic/Spells/call-lightning.md)
 * [Charge](../../Magic/Spells/charge.md)
-* [Cloudburst](../../Magic/Spells/cloudburst.md)
+* [Cloudburst](../../Magic/Spells/cloudburst.md) *ritual*
 * [Cobra Strike](../../Magic/Spells/cobra-strike.md)
 * [Comfort Ward](../../Magic/Spells/comfort-ward.md)
 * [Conjure Animals](../../Magic/Spells/conjure-animals.md)
-* [Control Temperature](../../Magic/Spells/control-temperature.md)
+* [Control Temperature](../../Magic/Spells/control-temperature.md) *ritual*
 * [Daylight](../../Magic/Spells/daylight.md)
 * [Detonate](../../Magic/Spells/detonate.md)
 * [Dispel Magic](../../Magic/Spells/dispel-magic.md)
@@ -339,7 +339,7 @@
 * [Elemental Weapon](../../Magic/Spells/elemental-weapon.md)
 * [Energy Vortex](../../Magic/Spells/energy-vortex.md)
 * [Erupting Earth](../../Magic/Spells/erupting-earth.md)
-* [Feign Death](../../Magic/Spells/feign-death.md)
+* [Feign Death](../../Magic/Spells/feign-death.md) *ritual*
 * [Flame Arrows](../../Magic/Spells/flame-arrows.md)
 * [Flashfreeze](../../Magic/Spells/flashfreeze.md)
 * [Four-Winds Bag](../../Magic/Spells/four-winds-bag.md)
@@ -348,7 +348,7 @@
 * [Frost Armor](../../Magic/Spells/frost-armor.md)
 * [Frost Gaol](../../Magic/Spells/frost-gaol.md)
 * [Guardian's Shield](../../Magic/Spells/guardians-shield.md)
-* [Healing Leeches](../../Magic/Spells/healing-leeches.md)
+* [Healing Leeches](../../Magic/Spells/healing-leeches.md) *ritual*
 * [Healing Wave](../../Magic/Spells/healing-wave.md)
 * [Hearth Spirit](../../Magic/Spells/hearth-spirit.md)
 * [Heat Shimmer](../../Magic/Spells/heat-shimmer.md)
@@ -362,9 +362,9 @@
 * [Lava Splash](../../Magic/Spells/lava-splash.md)
 * [Lightning Leap](../../Magic/Spells/lightning-leap.md)
 * [Lion's Claws](../../Magic/Spells/lions-claws.md)
-* [Locate Animal](../../Magic/Spells/locate-animal.md)
+* [Locate Animal](../../Magic/Spells/locate-animal.md) *ritual*
 * [Lunar Blessing](../../Magic/Spells/lunar-blessing.md)
-* [Meld into Stone](../../Magic/Spells/meld-into-stone.md)
+* [Meld into Stone](../../Magic/Spells/meld-into-stone.md) *ritual*
 * [Moon Blade](../../Magic/Spells/moon-blade.md)
 * [No More Lies](../../Magic/Spells/no-more-lies.md)
 * [Petrify](../../Magic/Spells/petrify.md)
@@ -387,13 +387,13 @@
 * [Snap of Cold](../../Magic/Spells/snap-of-cold.md)
 * [Speak with Plants](../../Magic/Spells/speak-with-plants.md)
 * [Spider Gout](../../Magic/Spells/spider-gout.md)
-* [Steady Terrain](../../Magic/Spells/steady-terrain.md)
-* [Still Wind](../../Magic/Spells/still-wind.md)
+* [Steady Terrain](../../Magic/Spells/steady-terrain.md) *ritual*
+* [Still Wind](../../Magic/Spells/still-wind.md) *ritual*
 * [Storm Cone](../../Magic/Spells/storm-cone.md)
 * [Storm Shield](../../Magic/Spells/storm-shield.md)
 * [Summon Fey](../../Magic/Spells/summon-fey.md)
 * [Summon Ooze](../../Magic/Spells/summon-ooze.md)
-* [Sustaining Meditation](../../Magic/Spells/sustaining-meditation.md)
+* [Sustaining Meditation](../../Magic/Spells/sustaining-meditation.md) *ritual*
 * [Swift Ward](../../Magic/Spells/swift-ward.md)
 * [Tattoo Projectiles](../../Magic/Spells/tattoo-projectiles.md)
 * [Terra Steed](../../Magic/Spells/terra-steed.md)
@@ -404,8 +404,8 @@
 * [Unleash Devastation](../../Magic/Spells/unleash-devastation.md)
 * [Venomfire](../../Magic/Spells/venomfire.md)
 * [Wall of Water](../../Magic/Spells/wall-of-water.md)
-* [Water Breathing](../../Magic/Spells/water-breathing.md)
-* [Water Walk](../../Magic/Spells/water-walk.md)
+* [Water Breathing](../../Magic/Spells/water-breathing.md) *ritual*
+* [Water Walk](../../Magic/Spells/water-walk.md) *ritual*
 * [Wind Wall](../../Magic/Spells/wind-wall.md)
 * [Wings of Wind](../../Magic/Spells/wings-of-wind.md)
  
@@ -413,19 +413,19 @@
 * [Agonize](../../Magic/Spells/agonize.md)
 * [Bertin's Ball Lightning](../../Magic/Spells/bertins-ball-lightning.md)
 * [Blight](../../Magic/Spells/blight.md)
-* [Breath of the Elements](../../Magic/Spells/breath-of-the-elements.md)
+* [Breath of the Elements](../../Magic/Spells/breath-of-the-elements.md) *ritual*
 * [Brook Healing](../../Magic/Spells/brook-healing.md)
 * [Calm Winds](../../Magic/Spells/calm-winds.md)
 * [Charm Monster](../../Magic/Spells/charm-monster.md)
-* [Circle of Privacy](../../Magic/Spells/circle-of-privacy.md)
+* [Circle of Privacy](../../Magic/Spells/circle-of-privacy.md) *ritual*
 * [Confusion](../../Magic/Spells/confusion.md)
 * [Conjure Minor Elementals](../../Magic/Spells/conjure-minor-elementals.md)
 * [Conjure Woodland Beings](../../Magic/Spells/conjure-woodland-beings.md)
 * [Control Water](../../Magic/Spells/control-water.md)
 * [Crackling Burst](../../Magic/Spells/crackling-burst.md)
 * [Cyclone](../../Magic/Spells/cyclone.md)
-* [Detect Curses](../../Magic/Spells/detect-curses.md)
-* [Divination](../../Magic/Spells/divination.md)
+* [Detect Curses](../../Magic/Spells/detect-curses.md) *ritual*
+* [Divination](../../Magic/Spells/divination.md) *ritual*
 * [Dominate Beast](../../Magic/Spells/dominate-beast.md)
 * [Eldritch Pursuit](../../Magic/Spells/eldritch-pursuit.md)
 * [Electromagnetic Pulse](../../Magic/Spells/electromagnetic-pulse.md)
@@ -447,7 +447,7 @@
 * [Greater Resistance](../../Magic/Spells/greater-resistance.md)
 * [Guardian of Nature](../../Magic/Spells/guardian-of-nature.md)
 * [Hallucinatory Terrain](../../Magic/Spells/hallucinatory-terrain.md)
-* [Healing Stone](../../Magic/Spells/healing-stone.md)
+* [Healing Stone](../../Magic/Spells/healing-stone.md) *ritual*
 * [Heatwave](../../Magic/Spells/heatwave.md)
 * [Hernan's Hemorrhage](../../Magic/Spells/hernans-hemorrhage.md)
 * [Hungering Curse](../../Magic/Spells/hungering-curse.md)
@@ -467,21 +467,21 @@
 * [Pain](../../Magic/Spells/pain.md)
 * [Phantom Caravan](../../Magic/Spells/phantom-caravan.md)
 * [Polymorph](../../Magic/Spells/polymorph.md)
-* [Premonitory Vision](../../Magic/Spells/premonitory-vision.md)
+* [Premonitory Vision](../../Magic/Spells/premonitory-vision.md) *ritual*
 * [Prescient Sense](../../Magic/Spells/prescient-sense.md)
 * [Serenity of Stone](../../Magic/Spells/serenity-of-stone.md)
 * [Serpent Arrows](../../Magic/Spells/serpent-arrows.md)
 * [Sliding Frost](../../Magic/Spells/sliding-frost.md)
 * [Spark of Life](../../Magic/Spells/spark-of-life.md)
 * [Steam Strike](../../Magic/Spells/steam-strike.md)
-* [Sticks to Snakes](../../Magic/Spells/sticks-to-snakes.md)
+* [Sticks to Snakes](../../Magic/Spells/sticks-to-snakes.md) *ritual*
 * [Stockade Sprouts](../../Magic/Spells/stockade-sprouts.md)
 * [Stone Shape](../../Magic/Spells/stone-shape.md)
 * [Stoneskin](../../Magic/Spells/stoneskin.md)
 * [Sudden Stalagmite](../../Magic/Spells/sudden-stalagmite.md)
 * [Summon Elemental](../../Magic/Spells/summon-elemental.md)
 * [Suppress Lycanthropy](../../Magic/Spells/suppress-lycanthropy.md)
-* [Temperature Zone](../../Magic/Spells/temperature-zone.md)
+* [Temperature Zone](../../Magic/Spells/temperature-zone.md) *ritual*
 * [Thunderous Reprisal](../../Magic/Spells/thunderous-reprisal.md)
 * [Ultrasonic Pulse](../../Magic/Spells/ultrasonic-pulse.md)
 * [Utter Immolation](../../Magic/Spells/utter-immolation.md)
@@ -492,7 +492,7 @@
 * [Watery Sphere](../../Magic/Spells/watery-sphere.md)
 * [Wind Funnel](../../Magic/Spells/wind-funnel.md)
 * [Wind at Back](../../Magic/Spells/wind-at-back.md)
-* [Winterfloor](../../Magic/Spells/winterfloor.md)
+* [Winterfloor](../../Magic/Spells/winterfloor.md) *ritual*
  
 ## 5th-Level Spells
 * [Agonizing Chill](../../Magic/Spells/agonizing-chill.md)
@@ -506,7 +506,7 @@
 * [Burrow](../../Magic/Spells/burrow.md)
 * [Call Forth the Beast](../../Magic/Spells/call-forth-the-beast.md)
 * [Comet Strike](../../Magic/Spells/comet-strike.md)
-* [Commune with Nature](../../Magic/Spells/commune-with-nature.md)
+* [Commune with Nature](../../Magic/Spells/commune-with-nature.md) *ritual*
 * [Cone of Cold](../../Magic/Spells/cone-of-cold.md)
 * [Conjure Elemental](../../Magic/Spells/conjure-elemental.md)
 * [Consume Flame](../../Magic/Spells/consume-flame.md)
@@ -525,7 +525,7 @@
 * [Guiding Snarl](../../Magic/Spells/guiding-snarl.md)
 * [Hederan Embrace](../../Magic/Spells/hederan-embrace.md)
 * [Hornet Shot](../../Magic/Spells/hornet-shot.md)
-* [Ilmater's Fortune](../../Magic/Spells/ilmaters-fortune.md)
+* [Ilmater's Fortune](../../Magic/Spells/ilmaters-fortune.md) *ritual*
 * [Insect Plague](../../Magic/Spells/insect-plague.md)
 * [Jungle's Rapture](../../Magic/Spells/jungles-rapture.md)
 * [Lightning Army](../../Magic/Spells/lightning-army.md)
@@ -601,7 +601,7 @@
 * [Lingering Vitality](../../Magic/Spells/lingering-vitality.md)
 * [Mantle of Malar](../../Magic/Spells/mantle-of-malar.md)
 * [Move Earth](../../Magic/Spells/move-earth.md)
-* [Nature’s Mist](../../Magic/Spells/nature’s-mist.md)
+* [Nature’s Mist](../../Magic/Spells/nature’s-mist.md) *ritual*
 * [Peer Through Flames](../../Magic/Spells/peer-through-flames.md)
 * [Polluting Sludge](../../Magic/Spells/polluting-sludge.md)
 * [Primordial Ward](../../Magic/Spells/primordial-ward.md)
@@ -643,7 +643,7 @@
 * [Living Burial](../../Magic/Spells/living-burial.md)
 * [Malady](../../Magic/Spells/malady.md)
 * [Mantle of the Slime Lord](../../Magic/Spells/mantle-of-the-slime-lord.md)
-* [Mark of the Unfaithful](../../Magic/Spells/mark-of-the-unfaithful.md)
+* [Mark of the Unfaithful](../../Magic/Spells/mark-of-the-unfaithful.md) *ritual*
 * [Mighty Roots](../../Magic/Spells/mighty-roots.md)
 * [Mind Fog](../../Magic/Spells/mind-fog.md)
 * [Mirage Arcane](../../Magic/Spells/mirage-arcane.md)
@@ -698,7 +698,7 @@
 * [Lightning Tether](../../Magic/Spells/lightning-tether.md)
 * [Mass Awaken](../../Magic/Spells/mass-awaken.md)
 * [Reign of Winter](../../Magic/Spells/reign-of-winter.md)
-* [Shifting Paths](../../Magic/Spells/shifting-paths.md)
+* [Shifting Paths](../../Magic/Spells/shifting-paths.md) *ritual*
 * [Smiting Bolt](../../Magic/Spells/smiting-bolt.md)
 * [Stone Walk](../../Magic/Spells/stone-walk.md)
 * [Stormrage](../../Magic/Spells/stormrage.md)
@@ -710,7 +710,7 @@
 * [Windcage](../../Magic/Spells/windcage.md)
  
 ## 9th-Level Spells
-* [Anathema](../../Magic/Spells/anathema.md)
+* [Anathema](../../Magic/Spells/anathema.md) *ritual*
 * [Aurora Blast](../../Magic/Spells/aurora-blast.md)
 * [Basilisk Glare](../../Magic/Spells/basilisk-glare.md)
 * [Caldera](../../Magic/Spells/caldera.md)

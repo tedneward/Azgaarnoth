@@ -1,5 +1,5 @@
 #### Heavenly Pillar
-*5th-level evocation (Cleric, Paladin, Sorcerer)
+*5th-level evocation* (Cleric, Paladin, Sorcerer)
 ___
 - **Casting Time:** 1 action 
 - **Range:** 120 feet 

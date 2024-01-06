@@ -1,10 +1,10 @@
-# Warlock Spells
- 
+# Spell List Summary: Warlock 
 ## cantrip-Level Spells
 * [Amanuensis](../../Magic/Spells/amanuensis.md)
 * [Ammar's Waterspout](../../Magic/Spells/ammars-waterspout.md)
 * [Balance](../../Magic/Spells/balance.md)
 * [Blade Ward](../../Magic/Spells/blade-ward.md)
+* [Blade of Focus](../../Magic/Spells/blade-of-focus.md) *brandish*
 * [Blazing Starfall](../../Magic/Spells/blazing-starfall.md)
 * [Blood Boil](../../Magic/Spells/blood-boil.md)
 * [Blood Curdle](../../Magic/Spells/blood-curdle.md)
@@ -13,8 +13,8 @@
 * [Blood Siphon](../../Magic/Spells/blood-siphon.md)
 * [Bloodlink](../../Magic/Spells/bloodlink.md)
 * [Bolster](../../Magic/Spells/bolster.md)
-* [Booming Blade](../../Magic/Spells/booming-blade.md)
-* [Caustic Blade](../../Magic/Spells/caustic-blade.md)
+* [Booming Blade](../../Magic/Spells/booming-blade.md) *brandish*
+* [Caustic Blade](../../Magic/Spells/caustic-blade.md) *brandish*
 * [Challenger's Mark](../../Magic/Spells/challengers-mark.md)
 * [Chill Touch](../../Magic/Spells/chill-touch.md)
 * [Conflagrate](../../Magic/Spells/conflagrate.md)
@@ -34,13 +34,13 @@
 * [Force Strike](../../Magic/Spells/force-strike.md)
 * [Friends](../../Magic/Spells/friends.md)
 * [Frostbite](../../Magic/Spells/frostbite.md)
-* [Frostwind Blade](../../Magic/Spells/frostwind-blade.md)
-* [Glacial Blade](../../Magic/Spells/glacial-blade.md)
-* [Glimmering Blade](../../Magic/Spells/glimmering-blade.md)
+* [Frostwind Blade](../../Magic/Spells/frostwind-blade.md) *brandish*
+* [Glacial Blade](../../Magic/Spells/glacial-blade.md) *brandish*
+* [Glimmering Blade](../../Magic/Spells/glimmering-blade.md) *brandish*
 * [Glimpse of Madness](../../Magic/Spells/glimpse-of-madness.md)
 * [Gloom](../../Magic/Spells/gloom.md)
 * [Gore Spike](../../Magic/Spells/gore-spike.md)
-* [Green-Flame Blade](../../Magic/Spells/green-flame-blade.md)
+* [Green-Flame Blade](../../Magic/Spells/green-flame-blade.md) *brandish*
 * [Grim Scythe](../../Magic/Spells/grim-scythe.md)
 * [Grimlore's Influence](../../Magic/Spells/grimlores-influence.md)
 * [Guard](../../Magic/Spells/guard.md)
@@ -70,9 +70,9 @@
 * [Poison Spray](../../Magic/Spells/poison-spray.md)
 * [Prestidigitation](../../Magic/Spells/prestidigitation.md)
 * [Project Object](../../Magic/Spells/project-object.md)
-* [Punishing Strike](../../Magic/Spells/punishing-strike.md)
+* [Punishing Strike](../../Magic/Spells/punishing-strike.md) *brandish*
 * [Quickling Step](../../Magic/Spells/quickling-step.md)
-* [Rancorous-Mist Blade](../../Magic/Spells/rancorous-mist-blade.md)
+* [Rancorous-Mist Blade](../../Magic/Spells/rancorous-mist-blade.md) *brandish*
 * [Reaver's Touch](../../Magic/Spells/reavers-touch.md)
 * [Scholar's Curse](../../Magic/Spells/scholars-curse.md)
 * [Shadow Embrace](../../Magic/Spells/shadow-embrace.md)
@@ -124,14 +124,14 @@
 * [Chill Air](../../Magic/Spells/chill-air.md)
 * [Chill of the Grave](../../Magic/Spells/chill-of-the-grave.md)
 * [Chilling Blow](../../Magic/Spells/chilling-blow.md)
-* [Coalstone](../../Magic/Spells/coalstone.md)
-* [Comprehend Languages](../../Magic/Spells/comprehend-languages.md)
+* [Coalstone](../../Magic/Spells/coalstone.md) *ritual*
+* [Comprehend Languages](../../Magic/Spells/comprehend-languages.md) *ritual*
 * [Corpse Link](../../Magic/Spells/corpse-link.md)
 * [Corpse Visage](../../Magic/Spells/corpse-visage.md)
-* [Create Poison](../../Magic/Spells/create-poison.md)
-* [Creeping Crawling Claw](../../Magic/Spells/creeping-crawling-claw.md)
+* [Create Poison](../../Magic/Spells/create-poison.md) *ritual*
+* [Creeping Crawling Claw](../../Magic/Spells/creeping-crawling-claw.md) *ritual*
 * [Cursed with Undeath](../../Magic/Spells/cursed-with-undeath.md)
-* [Dead Man's Tell](../../Magic/Spells/dead-mans-tell.md)
+* [Dead Man's Tell](../../Magic/Spells/dead-mans-tell.md) *ritual*
 * [Death's Grasp](../../Magic/Spells/deaths-grasp.md)
 * [Deep Breath](../../Magic/Spells/deep-breath.md)
 * [Delude](../../Magic/Spells/delude.md)
@@ -150,7 +150,7 @@
 * [Frozen Feet](../../Magic/Spells/frozen-feet.md)
 * [Gamour Veil](../../Magic/Spells/glamour-veil.md)
 * [Gemidan's Icicle](../../Magic/Spells/gemidans-icicle.md)
-* [Ghoul Light](../../Magic/Spells/ghoul-light.md)
+* [Ghoul Light](../../Magic/Spells/ghoul-light.md) *ritual*
 * [Glow Mark](../../Magic/Spells/glow-mark.md)
 * [Grimlore's Shadowblight](../../Magic/Spells/grimlores-shadowblight.md)
 * [Healing Elixir](../../Magic/Spells/healing-elixir.md)
@@ -158,7 +158,7 @@
 * [Hex](../../Magic/Spells/hex.md)
 * [Hornung's Deflector](../../Magic/Spells/hornungs-deflector.md)
 * [Id Insinuation](../../Magic/Spells/id-insinuation.md)
-* [Illusory Script](../../Magic/Spells/illusory-script.md)
+* [Illusory Script](../../Magic/Spells/illusory-script.md) *ritual*
 * [Indisputable Possession](../../Magic/Spells/indisputable-possession.md)
 * [Inner Fire](../../Magic/Spells/inner-fire.md)
 * [Inspire Dread](../../Magic/Spells/inspire-dread.md)
@@ -168,7 +168,7 @@
 * [Lingering Shock](../../Magic/Spells/lingering-shock.md)
 * [Living Link](../../Magic/Spells/living-link.md)
 * [Luminous Trail](../../Magic/Spells/luminous-trail.md)
-* [Mark of the Vigilante](../../Magic/Spells/mark-of-the-vigilante.md)
+* [Mark of the Vigilante](../../Magic/Spells/mark-of-the-vigilante.md) *ritual*
 * [Misery](../../Magic/Spells/misery.md)
 * [Nybor's Gentle Reminder](../../Magic/Spells/nybors-gentle-reminder.md)
 * [Nystul's Flash](../../Magic/Spells/nystuls-flash.md)
@@ -192,6 +192,7 @@
 * [Siphon Magic](../../Magic/Spells/siphon-magic.md)
 * [Smolder](../../Magic/Spells/smolder.md)
 * [Snilloc's Snowball](../../Magic/Spells/snillocs-snowball.md)
+* [Soothing Blade](../../Magic/Spells/soothing-blade.md) *brandish*
 * [Sound Channel](../../Magic/Spells/sound-channel.md)
 * [Spasm](../../Magic/Spells/spasm.md)
 * [Speed of Thought](../../Magic/Spells/speed-of-thought.md)
@@ -200,9 +201,11 @@
 * [Stone Blast](../../Magic/Spells/stone-blast.md)
 * [Summon Monster](../../Magic/Spells/summon-monster.md)
 * [Surge of Speed](../../Magic/Spells/surge-of-speed.md)
+* [Thaumaturgic Retreat](../../Magic/Spells/thaumaturgic-retreat.md) *brandish*
+* [Theater of Fire](../../Magic/Spells/theater-of-fire.md) *brandish*
 * [Thundering Armor](../../Magic/Spells/thundering-armor.md)
 * [Trapspringer](../../Magic/Spells/trapspringer.md)
-* [Unseen Servant](../../Magic/Spells/unseen-servant.md)
+* [Unseen Servant](../../Magic/Spells/unseen-servant.md) *ritual*
 * [Vertigo Palm](../../Magic/Spells/vertigo-palm.md)
 * [Wandbane](../../Magic/Spells/wandbane.md)
 * [Weightless Pursuit](../../Magic/Spells/weightless-pursuit.md)
@@ -221,11 +224,11 @@
 * [Bewitching Glare](../../Magic/Spells/bewitching-glare.md)
 * [Binding Wind](../../Magic/Spells/binding-wind.md)
 * [Black Talon](../../Magic/Spells/black-talon.md)
-* [Blade of Dark Whispers](../../Magic/Spells/blade-of-dark-whispers.md)
+* [Blade of Dark Whispers](../../Magic/Spells/blade-of-dark-whispers.md) *brandish*
 * [Blast of Force](../../Magic/Spells/blast-of-force.md)
 * [Blastbones](../../Magic/Spells/blastbones.md)
 * [Blaze](../../Magic/Spells/blaze.md)
-* [Blazing Blade Arc](../../Magic/Spells/blazing-blade-arc.md)
+* [Blazing Blade Arc](../../Magic/Spells/blazing-blade-arc.md) *brandish*
 * [Blinding Flare](../../Magic/Spells/blinding-flare.md)
 * [Blood Frenzy](../../Magic/Spells/blood-frenzy.md)
 * [Body Blades](../../Magic/Spells/body-blades.md)
@@ -234,8 +237,8 @@
 * [Bonefiddle](../../Magic/Spells/bonefiddle.md)
 * [Borrowed Knowledge](../../Magic/Spells/borrowed-knowledge.md)
 * [Bothersome Babble](../../Magic/Spells/bothersome-babble.md)
-* [Brightflame](../../Magic/Spells/brightflame.md)
-* [Burning Blade](../../Magic/Spells/burning-blade.md)
+* [Brightflame](../../Magic/Spells/brightflame.md) *ritual*
+* [Burning Blade](../../Magic/Spells/burning-blade.md) *brandish*
 * [Cannon Blast](../../Magic/Spells/cannon-blast.md)
 * [Carnage Blast](../../Magic/Spells/carnage-blast.md)
 * [Carnage Burst](../../Magic/Spells/carnage-burst.md)
@@ -255,7 +258,7 @@
 * [Death Armor](../../Magic/Spells/death-armor.md)
 * [Death Knell](../../Magic/Spells/death-knell.md)
 * [Decastave](../../Magic/Spells/decastave.md)
-* [Desecrate](../../Magic/Spells/desecrate.md)
+* [Desecrate](../../Magic/Spells/desecrate.md) *ritual*
 * [Detect Familiar](../../Magic/Spells/detect-familiar.md)
 * [Detect Undead](../../Magic/Spells/detect-undead.md)
 * [Disguise Undead](../../Magic/Spells/disguise-undead.md)
@@ -267,15 +270,16 @@
 * [Elemental Anguish](../../Magic/Spells/elemental-anguish.md)
 * [Elemental Blade](../../Magic/Spells/elemental-blade.md)
 * [Enthrall](../../Magic/Spells/enthrall.md)
+* [Expansive Blade](../../Magic/Spells/expansive-blade.md) *brandish*
 * [Explosive Force Arrow](../../Magic/Spells/explosive-force-arrow.md)
 * [Flock of Familiars](../../Magic/Spells/flock-of-familiars.md)
 * [Force Arrow](../../Magic/Spells/force-arrow.md)
-* [Freezing Blade Arc](../../Magic/Spells/freezing-blade-arc.md)
+* [Freezing Blade Arc](../../Magic/Spells/freezing-blade-arc.md) *brandish*
 * [Gibberish Curse](../../Magic/Spells/gibberish-curse.md)
 * [Grimlore's Shadowgrasp](../../Magic/Spells/grimlores-shadowgrasp.md)
 * [Hold Person](../../Magic/Spells/hold-person.md)
-* [Howling Blade Arc](../../Magic/Spells/howling-blade-arc.md)
-* [Inquisitive Intuition](../../Magic/Spells/inquisitive-intuition.md)
+* [Howling Blade Arc](../../Magic/Spells/howling-blade-arc.md) *brandish*
+* [Inquisitive Intuition](../../Magic/Spells/inquisitive-intuition.md) *ritual*
 * [Invisibility](../../Magic/Spells/invisibility.md)
 * [Jolt of Pain](../../Magic/Spells/jolt-of-pain.md)
 * [Lesser Fire Trap](../../Magic/Spells/lesser-fire-trap.md)
@@ -293,20 +297,22 @@
 * [Phantom Wind](../../Magic/Spells/phantom-wind.md)
 * [Poison Food or Drink](../../Magic/Spells/poison-food-or-drink.md)
 * [Portrait](../../Magic/Spells/portrait.md)
-* [Preserving Flame](../../Magic/Spells/preserving-flame.md)
+* [Preserving Flame](../../Magic/Spells/preserving-flame.md) *ritual*
 * [Protection from Aerial Attack](../../Magic/Spells/protection-from-aerial-attack.md)
 * [Protection from Cantrips](../../Magic/Spells/protection-from-cantrips.md)
 * [Quivaelyn's Silversteel Veil](../../Magic/Spells/quivaelyns-silversteel-veil.md)
-* [Quivaelyn's Sloth Strike](../../Magic/Spells/quivaelyns-sloth-strike.md)
+* [Quivaelyn's Sloth Strike](../../Magic/Spells/quivaelyns-sloth-strike.md) *brandish*
 * [Ray of Enfeeblement](../../Magic/Spells/ray-of-enfeeblement.md)
 * [Ray of Ondovir](../../Magic/Spells/ray-of-ondovir.md)
+* [Revealing Stroke](../../Magic/Spells/revealing-stroke.md) *brandish*
 * [Rizzak's Reeking Filth ](../../Magic/Spells/rizzaks-reeking-filth.md)
 * [Seal Mouth](../../Magic/Spells/seal-mouth.md)
 * [Shadow Bind](../../Magic/Spells/shadow-bind.md)
 * [Shadow Blade](../../Magic/Spells/shadow-blade.md)
 * [Shadow Burst](../../Magic/Spells/shadow-burst.md)
 * [Shatter](../../Magic/Spells/shatter.md)
-* [Shocking Blade Arc](../../Magic/Spells/shocking-blade-arc.md)
+* [Shocking Blade Arc](../../Magic/Spells/shocking-blade-arc.md) *brandish*
+* [Shocking Circulation](../../Magic/Spells/shocking-circulation.md)
 * [Sonic Disruption](../../Magic/Spells/sonic-disruption.md)
 * [Sow Confusion](../../Magic/Spells/sow-confusion.md)
 * [Spider Climb](../../Magic/Spells/spider-climb.md)
@@ -318,6 +324,7 @@
 * [Telekinetic Wave](../../Magic/Spells/telekinetic-wave.md)
 * [Terra Spike](../../Magic/Spells/terra-spike.md)
 * [Tether Soul](../../Magic/Spells/tether-soul.md)
+* [Theater of the Blaze](../../Magic/Spells/theater-of-the-blaze.md) *brandish*
 * [Thought Shield](../../Magic/Spells/thought-shield.md)
 * [Vecna's Final Command](../../Magic/Spells/vecnas-final-command.md)
 * [Vocalize](../../Magic/Spells/vocalize.md)
@@ -330,26 +337,26 @@
 * [Absorb Mind](../../Magic/Spells/absorb-mind.md)
 * [Acid Breath](../../Magic/Spells/acid-breath.md)
 * [Aegis of Assault](../../Magic/Spells/aegis-of-assault.md)
-* [Alahandra's Questing Call](../../Magic/Spells/alahandras-questing-call.md)
+* [Alahandra's Questing Call](../../Magic/Spells/alahandras-questing-call.md) *ritual*
 * [Antagonize](../../Magic/Spells/antagonize.md)
-* [Appraiser’s Light](../../Magic/Spells/appraiser’s-light.md)
+* [Appraiser’s Light](../../Magic/Spells/appraiser’s-light.md) *ritual*
 * [Battlefield Shuffle](../../Magic/Spells/battlefield-shuffle.md)
 * [Bazanthra’s Bellow](../../Magic/Spells/bazanthra’s-bellow.md)
 * [Berserker Curse](../../Magic/Spells/berserker-curse.md)
 * [Blacklight](../../Magic/Spells/blacklight.md)
 * [Blade of Black Wind](../../Magic/Spells/blade-of-black-wind.md)
-* [Blade of Pain and Fear](../../Magic/Spells/blade-of-pain-and-fear.md)
+* [Blade of Pain and Fear](../../Magic/Spells/blade-of-pain-and-fear.md) *brandish*
 * [Blood Extraction](../../Magic/Spells/blood-extraction.md)
 * [Celebration Song](../../Magic/Spells/celebration-song.md)
 * [Chaining Palm](../../Magic/Spells/chaining-palm.md)
-* [Cloak of Khyber](../../Magic/Spells/cloak-of-khyber.md)
+* [Cloak of Khyber](../../Magic/Spells/cloak-of-khyber.md) *ritual*
 * [Clutch of Orcus](../../Magic/Spells/clutch-of-orcus.md)
 * [Counteroffer](../../Magic/Spells/counteroffer.md)
 * [Counterspell](../../Magic/Spells/counterspell.md)
 * [Dancing Chains](../../Magic/Spells/dancing-chains.md)
-* [Darkness Blade Arc](../../Magic/Spells/darkness-blade-arc.md)
+* [Darkness Blade Arc](../../Magic/Spells/darkness-blade-arc.md) *brandish*
 * [Death Sight](../../Magic/Spells/death-sight.md)
-* [Death Talisman](../../Magic/Spells/death-talisman.md)
+* [Death Talisman](../../Magic/Spells/death-talisman.md) *ritual*
 * [Deeper Darkvision](../../Magic/Spells/deeper-darkvision.md)
 * [Delay Death](../../Magic/Spells/delay-death.md)
 * [Detho's Delirium](../../Magic/Spells/dethos-delirium.md)
@@ -370,7 +377,7 @@
 * [Gaseous Form](../../Magic/Spells/gaseous-form.md)
 * [Ghost Armor](../../Magic/Spells/ghost-armor.md)
 * [Ghoul Gesture](../../Magic/Spells/ghoul-gesture.md)
-* [Glamour Blade](../../Magic/Spells/glamour-blade.md)
+* [Glamour Blade](../../Magic/Spells/glamour-blade.md) *brandish*
 * [Glowglory](../../Magic/Spells/glowglory.md)
 * [Grimlore's Affliction](../../Magic/Spells/grimlores-affliction.md)
 * [Hunger of Hadar](../../Magic/Spells/hunger-of-hadar.md)
@@ -385,8 +392,8 @@
 * [Lance of Disruption](../../Magic/Spells/lance-of-disruption.md)
 * [Life Drain](../../Magic/Spells/life-drain.md)
 * [Lightning Suppression](../../Magic/Spells/lightning-suppression.md)
-* [Luminous Blade Arc](../../Magic/Spells/luminous-blade-arc.md)
-* [Magic Blade Arc](../../Magic/Spells/magic-blade-arc.md)
+* [Luminous Blade Arc](../../Magic/Spells/luminous-blade-arc.md) *brandish*
+* [Magic Blade Arc](../../Magic/Spells/magic-blade-arc.md) *brandish*
 * [Magic Circle](../../Magic/Spells/magic-circle.md)
 * [Major Image](../../Magic/Spells/major-image.md)
 * [Master of the Mind](../../Magic/Spells/master-of-the-mind.md)
@@ -394,7 +401,7 @@
 * [Mortify](../../Magic/Spells/mortify.md)
 * [Mummify](../../Magic/Spells/mummify.md)
 * [Mystical Awareness](../../Magic/Spells/mystical-awareness.md)
-* [Nightscar](../../Magic/Spells/nightscar.md)
+* [Nightscar](../../Magic/Spells/nightscar.md) *ritual*
 * [Orb of Impact](../../Magic/Spells/orb-of-impact.md)
 * [Otiluke's Acid Cloud](../../Magic/Spells/otilukes-acid-cloud.md)
 * [Petrify](../../Magic/Spells/petrify.md)
@@ -410,7 +417,7 @@
 * [Remove Curse](../../Magic/Spells/remove-curse.md)
 * [Sacred Ward](../../Magic/Spells/sacred-ward.md)
 * [Shroud of Undeath](../../Magic/Spells/shroud-of-undeath.md)
-* [Sleep of Horror](../../Magic/Spells/sleep-of-horror.md)
+* [Sleep of Horror](../../Magic/Spells/sleep-of-horror.md) *ritual*
 * [Sphere of Deceit](../../Magic/Spells/sphere-of-deceit.md)
 * [Spirit Shroud](../../Magic/Spells/spirit-shroud.md)
 * [Summon Fey](../../Magic/Spells/summon-fey.md)
@@ -425,6 +432,8 @@
 * [Tattoo Projectiles](../../Magic/Spells/tattoo-projectiles.md)
 * [Telekinetic Burst](../../Magic/Spells/telekinetic-burst.md)
 * [Tenser's Eye of the Eagle](../../Magic/Spells/tensers-eye-of-the-eagle.md)
+* [Theater of Conflagration](../../Magic/Spells/theater-of-conflagration.md) *brandish*
+* [Theater of War](../../Magic/Spells/theater-of-war.md) *brandish*
 * [Thief's Lament](../../Magic/Spells/thiefs-lament.md)
 * [Thunder Step](../../Magic/Spells/thunder-step.md)
 * [Tongues](../../Magic/Spells/tongues.md)
@@ -449,18 +458,18 @@
 * [Blight](../../Magic/Spells/blight.md)
 * [Blood Lightning](../../Magic/Spells/blood-lightning.md)
 * [Bloodstar](../../Magic/Spells/bloodstar.md)
-* [Boiling Blood](../../Magic/Spells/boiling-blood.md)
+* [Boiling Blood](../../Magic/Spells/boiling-blood.md) *blood*
 * [Boiling Oil](../../Magic/Spells/boiling-oil.md)
 * [Boulder Shot](../../Magic/Spells/boulder-shot.md)
 * [Brainkill](../../Magic/Spells/brainkill.md)
 * [Burning Blood](../../Magic/Spells/burning-blood.md)
-* [Call Nightmare](../../Magic/Spells/call-nightmare.md)
+* [Call Nightmare](../../Magic/Spells/call-nightmare.md) *ritual*
 * [Chaos Hammer](../../Magic/Spells/chaos-hammer.md)
 * [Charm Monster](../../Magic/Spells/charm-monster.md)
 * [Cloud of Pestilence](../../Magic/Spells/cloud-of-pestilence.md)
 * [Consumptive Field](../../Magic/Spells/consumptive-field.md)
 * [Create Apparition](../../Magic/Spells/create-apparition.md)
-* [Dark Zone](../../Magic/Spells/dark-zone.md)
+* [Dark Zone](../../Magic/Spells/dark-zone.md) *ritual*
 * [Devastate Undead](../../Magic/Spells/devastate-undead.md)
 * [Dimension Door](../../Magic/Spells/dimension-door.md)
 * [Ego Whip](../../Magic/Spells/ego-whip.md)
@@ -486,7 +495,7 @@
 * [Jinx](../../Magic/Spells/jinx.md)
 * [Killing Ground](../../Magic/Spells/killing-ground.md)
 * [Kiss of Torment](../../Magic/Spells/kiss-of-torment.md)
-* [Lesser Guardian Seal](../../Magic/Spells/lesser-guardian-seal.md)
+* [Lesser Guardian Seal](../../Magic/Spells/lesser-guardian-seal.md) *ritual*
 * [Lesser Water to Poison](../../Magic/Spells/lesser-water-to-poison.md)
 * [Life Bolt](../../Magic/Spells/life-bolt.md)
 * [Lightning Pacification](../../Magic/Spells/lightning-pacification.md)
@@ -494,7 +503,7 @@
 * [Magma Blade](../../Magic/Spells/magma-blade.md)
 * [Magma Jet](../../Magic/Spells/magma-jet.md)
 * [Magma Shield](../../Magic/Spells/magma-shield.md)
-* [Mask of Death](../../Magic/Spells/mask-of-death.md)
+* [Mask of Death](../../Magic/Spells/mask-of-death.md) *ritual*
 * [Meteors of Celestian](../../Magic/Spells/meteors-of-celestian.md)
 * [Misfire](../../Magic/Spells/misfire.md)
 * [Mordenkainen's Electric Arc](../../Magic/Spells/mordenkainens-electric-arc.md)
@@ -510,7 +519,7 @@
 * [Questing Orb](../../Magic/Spells/questing-orb.md)
 * [Rain of Blood](../../Magic/Spells/rain-of-blood.md)
 * [Raulothim's Psychic Lance](../../Magic/Spells/raulothims-psychic-lance.md)
-* [Revealing Light](../../Magic/Spells/revealing-light.md)
+* [Revealing Light](../../Magic/Spells/revealing-light.md) *ritual*
 * [Seed of Fire](../../Magic/Spells/seed-of-fire.md)
 * [Selective Flash](../../Magic/Spells/selective-flash.md)
 * [Sensory Deprivation](../../Magic/Spells/sensory-deprivation.md)
@@ -527,6 +536,7 @@
 * [Sunbolt](../../Magic/Spells/sunbolt.md)
 * [Temporal Push](../../Magic/Spells/temporal-push.md)
 * [Tenser's Masters of Arms](../../Magic/Spells/tensers-masters-of-arms.md)
+* [Theater of the Inferno](../../Magic/Spells/theater-of-the-inferno.md) *brandish*
 * [Touch of the Blackened Soul](../../Magic/Spells/touch-of-the-blackened-soul.md)
 * [Turn Pebble to Boulder](../../Magic/Spells/turn-pebble-to-boulder.md)
 * [Venom Bolt](../../Magic/Spells/venom-bolt.md)
@@ -545,7 +555,7 @@
 * [Astaroth's Augmentation](../../Magic/Spells/astaroths-augmentation.md)
 * [Barrier of Retention](../../Magic/Spells/barrier-of-retention.md)
 * [Befoul Water](../../Magic/Spells/befoul-water.md)
-* [Bend BLood](../../Magic/Spells/bend-blood.md)
+* [Bend Blood](../../Magic/Spells/bend-blood.md) *blood*
 * [Bite of the Werebeast](../../Magic/Spells/bite-of-the-werebeast.md)
 * [Blazing Thunderbolt Strike](../../Magic/Spells/blazing-thunderbolt-strike.md)
 * [Bolts of Bedevilment](../../Magic/Spells/bolts-of-bedevilment.md)
@@ -554,7 +564,7 @@
 * [Charnel Fire](../../Magic/Spells/charnel-fire.md)
 * [Chilling Darkness](../../Magic/Spells/chilling-darkness.md)
 * [Coat of Arms](../../Magic/Spells/coat-of-arms.md)
-* [Contact Other Plane](../../Magic/Spells/contact-other-plane.md)
+* [Contact Other Plane](../../Magic/Spells/contact-other-plane.md) *ritual*
 * [Crimson Scourge](../../Magic/Spells/crimson-scourge.md)
 * [Curse of Stigma](../../Magic/Spells/curse-of-stigma.md)
 * [Danse Macabre](../../Magic/Spells/danse-macabre.md)
@@ -584,7 +594,7 @@
 * [Jaggar's Strengthened Bastion](../../Magic/Spells/jaggars-strengthened-bastion.md)
 * [Jergal's Mind Probe](../../Magic/Spells/jergals-mind-probe.md)
 * [Jungle's Rapture](../../Magic/Spells/jungles-rapture.md)
-* [Life Steal](../../Magic/Spells/life-steal.md)
+* [Life Steal](../../Magic/Spells/life-steal.md) *ritual*
 * [Lifebane](../../Magic/Spells/lifebane.md)
 * [Mass Inflict Wounds](../../Magic/Spells/mass-inflict-wounds.md)
 * [Midnight](../../Magic/Spells/midnight.md)
@@ -602,7 +612,7 @@
 * [Rip Creature](../../Magic/Spells/rip-creature.md)
 * [Ruin](../../Magic/Spells/ruin.md)
 * [Scrying](../../Magic/Spells/scrying.md)
-* [Servant Army](../../Magic/Spells/servant-army.md)
+* [Servant Army](../../Magic/Spells/servant-army.md) *ritual*
 * [Shadow Form](../../Magic/Spells/shadow-form.md)
 * [Shadow Magic](../../Magic/Spells/shadow-magic.md)
 * [Soar](../../Magic/Spells/soar.md)
@@ -616,7 +626,7 @@
 * [Undead Focus](../../Magic/Spells/undead-focus.md)
 * [Undead Regeneration](../../Magic/Spells/undead-regeneration.md)
 * [Unexpected Clarity](../../Magic/Spells/unexpected-clarity.md)
-* [Vehement Inquiry](../../Magic/Spells/vehement-inquiry.md)
+* [Vehement Inquiry](../../Magic/Spells/vehement-inquiry.md) *ritual*
 * [Wall of Darkness](../../Magic/Spells/wall-of-darkness.md)
 * [Wall of Light](../../Magic/Spells/wall-of-light.md)
 * [Water to Acid](../../Magic/Spells/water-to-acid.md)
@@ -648,7 +658,7 @@
 * [Fire Spiders](../../Magic/Spells/fire-spiders.md)
 * [Flesh Shiver](../../Magic/Spells/flesh-shiver.md)
 * [Flesh to Stone](../../Magic/Spells/flesh-to-stone.md)
-* [Gemjump](../../Magic/Spells/gemjump.md)
+* [Gemjump](../../Magic/Spells/gemjump.md) *ritual*
 * [Goad of Misfortune](../../Magic/Spells/goad-of-misfortune.md)
 * [Gravedust Cloud](../../Magic/Spells/gravedust-cloud.md)
 * [Grimlore's Aphotic Armor](../../Magic/Spells/grimlores-aphotic-armor.md)
@@ -677,7 +687,6 @@
 * [Ray of Entropy](../../Magic/Spells/ray-of-entropy.md)
 * [Rizzak's Ravenous Starvation](../../Magic/Spells/rizzaks-ravenous-starvation.md)
 * [Scatter](../../Magic/Spells/scatter.md)
-* [Soul Blade](../../Magic/Spells/soul-blade.md)
 * [Soul Cage](../../Magic/Spells/soul-cage.md)
 * [Soulblade](../../Magic/Spells/soulblade.md)
 * [Spirit Annihilation](../../Magic/Spells/spirit-annihilation.md)
@@ -702,7 +711,7 @@
 * [Avasculate](../../Magic/Spells/avasculate.md)
 * [Blood to Water](../../Magic/Spells/blood-to-water.md)
 * [Bone Javelin](../../Magic/Spells/bone-javelin.md)
-* [Conjure Wyrmling](../../Magic/Spells/conjure-wyrmling.md)
+* [Conjure Wyrmling](../../Magic/Spells/conjure-wyrmling.md) *ritual*
 * [Create Revenant](../../Magic/Spells/create-revenant.md)
 * [Crown of Stars](../../Magic/Spells/crown-of-stars.md)
 * [Death Dragon](../../Magic/Spells/death-dragon.md)
@@ -768,7 +777,7 @@
 * [Great Voice](../../Magic/Spells/greatvoice.md)
 * [Grimlore's Crippling Incursion](../../Magic/Spells/grimlores-crippling-incursion.md)
 * [Haunting Hour](../../Magic/Spells/haunting-hour.md)
-* [Heart of Stone](../../Magic/Spells/heart-of-stone.md)
+* [Heart of Stone](../../Magic/Spells/heart-of-stone.md) *ritual*
 * [Heartbreak](../../Magic/Spells/heartbreak.md)
 * [Heat Drain](../../Magic/Spells/heat-drain.md)
 * [Hindal's Shrinking Hex](../../Magic/Spells/hindals-shrinking-hex.md)

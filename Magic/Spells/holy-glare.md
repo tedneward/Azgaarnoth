@@ -1,5 +1,5 @@
 #### Holy Glare
-*4th-level evocation (Cleric, Paladin)
+*4th-level evocation* (Cleric, Paladin)
 ___
 - **Casting Time:** 1 bonus action 
 - **Range:** Self (10 feet) 

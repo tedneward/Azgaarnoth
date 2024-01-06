@@ -488,11 +488,17 @@ def main():
             levelspells.sort(key=lambda s: s.name)
             for spell in levelspells:
                 if withclasses and withtags:
-                    print("* [" + str(spell.name) + "](" + spell.filename + ") " + ",".join(spell.tags) + " : (" + ",".join(spell.classes) + ")")
+                    if len(spell.tags) > 0:
+                        print("* [" + str(spell.name) + "](" + spell.filename + ") *" + ",".join(spell.tags) + "* (" + ",".join(spell.classes) + ")")
+                    else:
+                        print("* [" + str(spell.name) + "](" + spell.filename + ") (" + ",".join(spell.classes) + ")")
                 elif withclasses:
                     print("* [" + str(spell.name) + "](" + spell.filename + ") (" + ",".join(spell.classes) + ")")
                 elif withtags:
-                    print("* [" + str(spell.name) + "](" + spell.filename + ") " + ",".join(spell.tags) )
+                    if len(spell.tags) > 0:
+                        print("* [" + str(spell.name) + "](" + spell.filename + ") *" + ",".join(spell.tags) + "*" )
+                    else:
+                        print("* [" + str(spell.name) + "](" + spell.filename + ")")
                 else:
                     print("* [" + str(spell.name) + "](" + spell.filename + ")")
             print(" ")
@@ -523,7 +529,10 @@ def main():
         filename = args.summarymd
         print("Writing " + filename + "; " + str(len(spells)) + " spells")
         with open(filename, 'w') as file:
-            lines = listmd(False, True, "Spell List Summary: " + listtitle)
+            if listtitle == "":
+                lines = listmd(True, True, "Spell List Summary: " + listtitle)
+            else:
+                lines = listmd(False, True, "Spell List Summary: " + listtitle)
             for line in lines: file.write(line + "\n")
 
     if args.summarytext != None:

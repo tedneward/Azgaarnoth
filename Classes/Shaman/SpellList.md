@@ -1,5 +1,4 @@
-# Shaman Spells
- 
+# Spell List Summary: Shaman 
 ## cantrip-Level Spells
 * [Balance](../../Magic/Spells/balance.md)
 * [Blood Curse](../../Magic/Spells/blood-curse.md)
@@ -26,7 +25,7 @@
 * [Command](../../Magic/Spells/command.md)
 * [Cure Wounds](../../Magic/Spells/cure-wounds.md)
 * [Detect Evil and Good](../../Magic/Spells/detect-evil-and-good.md)
-* [Detect Poison and Disease](../../Magic/Spells/detect-poison-and-disease.md)
+* [Detect Poison and Disease](../../Magic/Spells/detect-poison-and-disease.md) *ritual*
 * [Dishearten](../../Magic/Spells/dishearten.md)
 * [Dissonant Whispers](../../Magic/Spells/dissonant-whispers.md)
 * [Entangle](../../Magic/Spells/entangle.md)
@@ -38,10 +37,10 @@
 * [Hex](../../Magic/Spells/hex.md)
 * [Inspire Dread](../../Magic/Spells/inspire-dread.md)
 * [Ironbreaker Claws](../../Magic/Spells/ironbreaker-claws.md)
-* [Nightowl](../../Magic/Spells/nightowl.md)
+* [Nightowl](../../Magic/Spells/nightowl.md) *ritual*
 * [Positive Foundations](../../Magic/Spells/positive-foundations.md)
 * [Protection from Evil and Good](../../Magic/Spells/protection-from-evil-and-good.md)
-* [Speak with Animals](../../Magic/Spells/speak-with-animals.md)
+* [Speak with Animals](../../Magic/Spells/speak-with-animals.md) *ritual*
 * [Summon Monster](../../Magic/Spells/summon-monster.md)
  
 ## 2nd-Level Spells
@@ -63,13 +62,13 @@
 * [Warding Bond](../../Magic/Spells/warding-bond.md)
  
 ## 3rd-Level Spells
-* [Ancestral Guidance](../../Magic/Spells/ancestral-guidance.md)
+* [Ancestral Guidance](../../Magic/Spells/ancestral-guidance.md) *ritual*
 * [Clairvoyance](../../Magic/Spells/clairvoyance.md)
 * [Daylight](../../Magic/Spells/daylight.md)
 * [Dispel Magic](../../Magic/Spells/dispel-magic.md)
 * [Elemental Weapon](../../Magic/Spells/elemental-weapon.md)
 * [Gaseous Form](../../Magic/Spells/gaseous-form.md)
-* [Healing Leeches](../../Magic/Spells/healing-leeches.md)
+* [Healing Leeches](../../Magic/Spells/healing-leeches.md) *ritual*
 * [Lunar Blessing](../../Magic/Spells/lunar-blessing.md)
 * [Magic Circle](../../Magic/Spells/magic-circle.md)
 * [Mortify](../../Magic/Spells/mortify.md)
@@ -88,7 +87,7 @@
 ## 4th-Level Spells
 * [Absorb Strength](../../Magic/Spells/absorb-strength.md)
 * [Brook Healing](../../Magic/Spells/brook-healing.md)
-* [Detect Curses](../../Magic/Spells/detect-curses.md)
+* [Detect Curses](../../Magic/Spells/detect-curses.md) *ritual*
 * [Dominate Beast](../../Magic/Spells/dominate-beast.md)
 * [Elemental Bane](../../Magic/Spells/elemental-bane.md)
 * [Embers](../../Magic/Spells/embers.md)
@@ -101,9 +100,9 @@
  
 ## 5th-Level Spells
 * [Armor of Bones](../../Magic/Spells/armor-of-bones.md)
-* [Contact Other Plane](../../Magic/Spells/contact-other-plane.md)
+* [Contact Other Plane](../../Magic/Spells/contact-other-plane.md) *ritual*
 * [Hold Monster](../../Magic/Spells/hold-monster.md)
-* [Ilmater's Fortune](../../Magic/Spells/ilmaters-fortune.md)
+* [Ilmater's Fortune](../../Magic/Spells/ilmaters-fortune.md) *ritual*
 * [Scrying](../../Magic/Spells/scrying.md)
 * [Summon Draconic Spirit](../../Magic/Spells/summon-draconic-spirit.md)
 * [Telekinesis](../../Magic/Spells/telekinesis.md)
