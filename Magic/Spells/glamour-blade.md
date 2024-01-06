@@ -1,5 +1,5 @@
 #### Glamour Blade
-*3rd-level illusion* (Artificer,Bard,Sorcerer,Warlock,Wizard)
+*3rd-level illusion* *(brandish)* (Artificer,Bard,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 5 feet

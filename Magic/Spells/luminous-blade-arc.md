@@ -1,5 +1,5 @@
 #### Luminous Blade Arc
-*3rd-level evocation* (Paladin, Sorcerer, Warlock, Wizard)
+*3rd-level evocation* *(brandish)* (Paladin, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (30-foot line)

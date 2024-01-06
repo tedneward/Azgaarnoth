@@ -14,6 +14,8 @@ classes = ["Artificer", "Bard", "Cleric", "Druid",
            "Paladin", "Pale Master","Ranger", "Shaman",
            "Sorcerer", "Warlock", "Wizard"]
 levels = ["cantrip", "1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th"]
+spelltypes = ['abjuration', 'conjuration', 'divination', 'evocation', 
+              'enchantment', 'illusion', 'necromancy', 'transmutation']
 
 def extractClasses(subtitle):
     clazzes = []
@@ -271,8 +273,10 @@ class Spell:
         text += "  <name>" + self.name + "</name>"
         text += "  <level>" + self.level + "</level>"
         text += "  <type>" + self.type + "</type>"
-        if self.ritual:
-            text += "   <ritual />"
+        text += "  <tags>"
+        for tag in self.tags:
+            text += "<tag>${tag}</tag>"
+        text += "  </tags>"
         text += "  <classes>" + ",".join(self.classes) + "</classes>"
         text += "  <casting-time>" + self.casting_time + "</casting-time>"
         text += "  <range>" + self.range + "</range>"
@@ -298,15 +302,12 @@ class Spell:
     # description VARCHAR(1024)
     # );
     def writeRow(self, conn):
-        sql = "INSERT INTO spell (name, level, ritual, type, classes, castingtime, range, duration, components, description) "
+        sql = "INSERT INTO spell (name, level, tags, type, classes, castingtime, range, duration, components, description) "
         sql += "VALUES("
         sql += "\"" + self.name + "\","
         sql += "\"" + self.level + "\","
-        if self.ritual:
-            sql += "'Y',"
-        else:
-            sql += "'N',"
         sql += "\"" + self.type + "\","
+        sql += "\"" + ",".join(self.tags) + "\","
         sql += "\"" + ",".join(self.classes) + "\","
         sql += "\"" + self.casting_time + "\","
         sql += "\"" + self.range + "\","
@@ -337,14 +338,14 @@ def main():
     parser.add_argument('--lint', choices=['classes', 'general', 'name', 'type', 'all'], help='Examine parsed spells for oddness')
     # Find commands
     parser.add_argument('--findclass', choices=classOpts, help='Find spells for a given class')
+    parser.add_argument('--findname', help='Find spells with particular text in the name')
     parser.add_argument('--findtag', help='Find spells by tag (ritual, blood, etc)')
-    parser.add_argument('--findtype', help='Find spells by type')
+    parser.add_argument('--findtype', choices=spelltypes, help='Find spells by type')
     parser.add_argument('--findtext', help='Find keywords in spell text or title')
     # Output commands
     parser.add_argument('--summarymd', help='Produce an MD spell summary')
     parser.add_argument('--summarytext', help='Produce a text spell summary')
-    parser.add_argument('--listmd', choices=classOpts, help='Produce an MD spell list for the passed class')
-    parser.add_argument('--listtext', choices=classOpts, help='Produce a plain-text spell list for the passed class')
+    parser.add_argument('--list', choices=['md', 'text'], help='Produce a spell list in Markdown, text, etc')
     parser.add_argument('--writemd', help='Directory to which to write MD files')
     parser.add_argument('--writesql', help='SQLite filename to write spells to')
     parser.add_argument('--writexml', help='Directory to which to write XML files')
@@ -353,7 +354,10 @@ def main():
     args = parser.parse_args()
     #print(vars(args))
 
-    # Get input
+    ########
+    ### Input source
+    listtitle = ""
+
     if args.parsemd != None:
         target = args.parsemd
         files = os.listdir(target)
@@ -376,7 +380,6 @@ def main():
                 for row in cursor:
                     spell = Spell.parseRow(row)
                     spells.append(spell)
-            pass
     else:
         print('No input source specified; exiting')
         return
@@ -388,36 +391,55 @@ def main():
                 found.append(spell)
         return found
 
-    if args.findtype != None:
-        stype = args.findtype
-        print("Finding spells of type " + stype)
-        found = findSpells(lambda s: s.type == args.findtype)
+    if args.findclass != None:
+        sclass = args.findclass
+        print("Finding spells for class " + str(sclass))
+        listtitle += sclass + " "
+        found = []
+        if sclass == 'all':
+            found = spells
+        elif sclass == 'none':
+            found = findSpells(lambda s : s.classes == [])
+        else:
+            found = findSpells(lambda s : (sclass in s.classes))
         spells = found
 
     if args.findtag != None:
         tag = args.findtag
         print("Finding spells tagged " + str(tag))
+        listtitle += tag + " "
         found = findSpells(lambda s: tag in s.tags)
         spells = found
     
-    if args.findclass != None:
-        sclass = args.findclass
-        print("Finding spells for class " + str(sclass))
-        found = findSpells(lambda s: sclass in s.classes)
+    if args.findname != None:
+        name = args.findname
+        print("Finding spells with name containing '" + str(name) + "'")
+        listtitle += name + " "
+        found = findSpells(lambda s: name.casefold() in s.name.casefold())
         spells = found
 
-    def findSpellsByClass(classname):
-        return findSpells(lambda s : (classname == 'all' or classname in s.classes) or (classname == 'none' and s.classes == []))
-        
-    def findClassSpells(classname):
-        found = []
-        for spell in spells:
-            if classname == 'all' or classname in spell.classes:
-                found.append(spell)
-            if classname == 'none' and spell.classes == []:
-                found.append(spell)
-        return found
+    if args.findtype != None:
+        stype = args.findtype
+        print("Finding spells of type " + stype)
+        listtitle += stype + " "
+        found = findSpells(lambda s: s.type == args.findtype)
+        spells = found
 
+    if args.findtext != None:
+        def descriptionsearch(txt, description):
+            for desc in description:
+                if txt.casefold() in desc:
+                    return True
+            return False
+        
+        text = args.findtext
+        print("Finding spells with text containing '" + str(text) + "'")
+        listtitle += text + " "
+        found = findSpells(lambda s: descriptionsearch(text, s.description) )
+        spells = found
+
+    ########
+    ### Lint
     if args.lint != None:
         for spell in spells:
             if args.lint == 'classes' or args.lint == 'all':
@@ -431,7 +453,7 @@ def main():
                     print(spell.filename + " failed to pase spell name")
             if args.lint == 'type' or args.lint == 'all':
                 loweredType = spell.type.lower()
-                if loweredType not in ['abjuration', 'conjuration', 'divination', 'evocation', 'enchantment', 'illusion', 'necromancy', 'transmutation']:
+                if loweredType not in spelltypes:
                     print(spell.name + ': Unrecognized spell type: ' + loweredType)
             if args.lint == 'general' or args.lint == 'all':
                 if spell.level in ['6th', '7th', '8th', '9th']:
@@ -455,6 +477,7 @@ def main():
     # Are we doing a search, or lists?
 
     def printmd(withclasses=False,withtags=False):
+        print("# " + listtitle)
         for level in levels:
             print("## " + level + "-Level Spells")
             levelspells = list(filter(lambda s: s.level.strip() == level.strip(), spells))
@@ -469,12 +492,9 @@ def main():
                 else:
                     print("* [" + str(spell.name) + "](" + spell.filename + ")")
             print(" ")
-
-    if args.summarymd != None:
-        print("# " + args.summarymd)
-        printmd(True, True)
-
-    if args.listtext != None:
+    
+    def printtext(withclasses=False,withtags=False):
+        print(listtitle)
         for level in levels:
             print(level + "-Level Spells")
             levelspells = list(filter(lambda s: s.level.strip() == level.strip(), spells))
@@ -483,26 +503,19 @@ def main():
                 print(spell.name + ": (" + spell.filename + ")")
             print(" ")
 
-    elif args.listmd != None:
-        classTarget = str(args.listmd)
-        found = findClassSpells(classTarget)
-        if classTarget == 'all':
-            print("# Master List of Spells")
-            print("For all spellcasting classes (" + ", ".join(classes) + ")")
-        else:
-            print("# " + classTarget + " Spells")
-        print(" ")
 
-        for level in levels:
-            print("## " + level + "-Level Spells")
-            levelspells = list(filter(lambda s: s.level.strip() == level.strip(), found))
-            levelspells.sort(key=lambda s: s.name)
-            for spell in levelspells:
-                if classTarget == 'all':
-                    print("* [" + str(spell.name) + "](" + spell.filename + "): " + ", ".join(spell.classes))
-                else:
-                    print("* [" + str(spell.name) + "](" + spell.filename + ")")
-            print(" ")
+    if args.summarymd != None:
+        print("# " + args.summarymd)
+        printmd(True, True)
+
+    if args.list != None:
+        if args.list == 'md':
+            printmd(True)
+        elif args.list == 'text':
+            printtext(True)
+        else:
+            print("Unrecognized list format!")
+
 
 # This is only useful if I'm worried that spells are being lost in the
 # from the lists somehow.

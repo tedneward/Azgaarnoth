@@ -1,4 +1,4 @@
-#### Wheel of ice
+#### Wheel of Ice
 *3rd-level evocation* (Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action

@@ -1,5 +1,5 @@
 #### Blade of Pain and Fear
-*3rd-level evocation* (Artificer,Cleric,Sorcerer,Warlock,Wizard)
+*3rd-level evocation* *(brandish)* (Artificer,Cleric,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

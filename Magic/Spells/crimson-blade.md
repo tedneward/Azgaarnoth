@@ -8,7 +8,7 @@ ___
 ---
 You inflict a wound upon yourself and sculpt the flowing, crimson blood into a blade in your free hand. The blade is similar in size and shape to a scimitar, and lasts for the duration. If you let go of the blade, it splatters blood in a 5-foot radius and the spell ends. Each other creature in the radius must make a Dexterity saving or suffer 1d6 necrotic damage.
 
-You can use you action to make a melee spell attack with the crimson blade. On a hit, the target takes 4d6 necrotic damage and must succeed on a Wisdom saving throw or become frightened until the end of its next turn.
+You can use your action to make a melee spell attack with the crimson blade. On a hit, the target takes 4d6 necrotic damage and must succeed on a Wisdom saving throw or become frightened until the end of its next turn.
 
 While frightened by this spell, a creature must take the Dash action and move away from you by the safest route available on its turn, unless there is nowhere to move.
 

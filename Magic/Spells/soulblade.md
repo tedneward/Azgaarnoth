@@ -1,5 +1,5 @@
 #### Soulblade
-*6th-level necromancy* (Cleric, Sorcerer, Warlock, Wizard)
+*6th-level necromancy* (Cleric,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 bonus action 
 - **Range:** Self 
@@ -12,7 +12,7 @@ You can use your action to make a melee spell attack with the soul blade. On a h
 
 The attack also counts as a melee weapon attack made using a magic weapon, and you can choose to use your Strength modifier or your Dexterity modifier instead of your spellcasting modifier for the attack roll.
 
-The blade sheds bright light in a 15-foot radius and dim light for an additional 15 feet. A creature killed by this spell has its soul injured, and cannot be restored to life except by a true resurrection or wish spell.
+The blade sheds bright light in a 15-foot radius and dim light for an additional 15 feet. A creature killed by this spell has its soul injured, and cannot be restored to life except by a [true resurrection](./true-resurrection.md) or [wish](./wish.md) spell.
 
 You add your spellcasting ability modifier as a bonus to saving throws to maintain concentration on this spell.
 
