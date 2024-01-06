@@ -1,5 +1,5 @@
 #### Blood Rage
-*3rd-level enchantment* (Bard,Sorcerer,Wizard)
+*3rd-level enchantment* *(blood)* (Bard,Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 90 feet
@@ -14,4 +14,4 @@ If the target drops to 0 hit points before the spell ends, you can use a bonus a
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, increase the extra damage by one die step to a maximum of 1d12 for every slot above 3rd.
 
-**Blood Magic.** When you cast this spell, you must expend 3 hit dice plus an additional 1 hit dice for every slot above 3rd. At the end of the duration, gain one level of exhaustion. This level of exhaustion lasts until you finish a short rest.
+***Blood Magic.*** When you cast this spell, you must expend 3 hit dice plus an additional 1 hit dice for every slot above 3rd. At the end of the duration, gain one level of exhaustion. This level of exhaustion lasts until you finish a short rest.

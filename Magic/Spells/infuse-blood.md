@@ -1,5 +1,5 @@
 #### Infuse Blood
-*2nd-level abjuration* (Artificer,Cleric,Paladin,Sorcerer,Wizard)
+*2nd-level abjuration* *(blood)* (Artificer,Cleric,Paladin,Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

@@ -1,5 +1,5 @@
 #### Reaping Strike
-*2nd-level necromancy* (Ranger)
+*2nd-level necromancy* *(blood)* (Ranger)
 ___
 - **Casting Time:** 1 reaction, which you take when you hit a living creature with a melee weapon attack and it is a critical hit
 - **Range:** Self

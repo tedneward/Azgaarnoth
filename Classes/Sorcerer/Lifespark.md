@@ -25,6 +25,32 @@ Most kingdoms forbid the practice of lifespark sorcery, since the heart of its p
 
 
 
+
+
+## Mana Drain
+*18th-level Arcane Legacy feature*
+
+You can pull the magic out of other creatures and absorb it for yourself. As an action, you can spend any number of sorcery points and target a creature you can see, forcing them to make a Charisma saving throw against your spell save DC. On a failed save, the target loses unused spell slots with a combined spell level equal to the number of sorcery points spent, or half that amount on a successful save. Higher-level spell slots are lost first. You regain expended spell slots of the same number and levels as what the target lost. This cannot cause you to stockpile spell slots beyond your normal allotment.
+
+```
+def level18(npc):
+    npc.defer(lambda npc: npc.actions.append(f"***Mana Drain.*** You spend any number of sorcery points and target a creature you can see, forcing them to make a Charisma saving throw (DC {npc.spellcasting['Sorcerer'].spellsavedc()}). On a failed save, the target loses unused spell slots with a combined spell level equal to the number of sorcery points spent, or half that amount on a successful save. Higher-level spell slots are lost first. You regain expended spell slots of the same number and levels as what the target lost. This cannot cause you to stockpile spell slots beyond your normal allotment.") )
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Portent of Blood
 Beginning at 1st level, when you choose this origin, you can select guidance when you learn a sorcerer cantrip.
 

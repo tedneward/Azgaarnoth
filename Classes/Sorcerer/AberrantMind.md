@@ -7,6 +7,8 @@ description = "***Sorcerous Origin: Aberrant Mind.*** An alien influence has wra
 ```
 
 ## Invasive Thoughts
+*1st-level Aberrant Mind feature*
+
 You gain the ability to use a bonus action to magically create a telepathic link with one creature you can see within 30 feet of you. Until the link ends, you can telepathically speak to the target through the link, and if it understands at least one language, it can speak telepathically to you. The link lasts for 10 minutes, and it ends early if you are incapacitated or die, or if you use another bonus action to break the link or to establish this link with a different creature.
 
 ```
@@ -15,6 +17,8 @@ def level1(npc):
 ```
 
 ## Psionic Spells
+*1st-level Aberrant Mind feature*
+
 Your aberrant nature changes your mind in subtle but profound ways. You learn additional spells when you reach certain levels in this class, as shown on the Psionic Spells table. The spell counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know. These spells can't be replaced when you gain a level in this class.
 
 **Psionic Spells**

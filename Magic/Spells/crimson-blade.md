@@ -1,5 +1,5 @@
 #### Crimson Blade
-*2nd-level necromancy* (Druid)
+*2nd-level necromancy* *(blood)* (Druid)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self
@@ -14,4 +14,4 @@ While frightened by this spell, a creature must take the Dash action and move aw
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or 6th level, the damage increases by 2d6 for every two slots above 2nd.
 
-**Blood Magic.** When you cast this spell, you must expend 2 hit dice plus an additional 2 hit dice for every two slots above 2nd. At the end of the duration, gain one level of exhaustion (as described in appendix A of the Player's Handbook). This level of exhaustion lasts until you finish a short rest.
+***Blood Magic.*** When you cast this spell, you must expend 2 hit dice plus an additional 2 hit dice for every two slots above 2nd. At the end of the duration, gain one level of [exhaustion](../../Conditions/Exhaustion.md). This level of exhaustion lasts until you finish a short rest.
