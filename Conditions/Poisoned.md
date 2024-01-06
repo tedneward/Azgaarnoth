@@ -17,7 +17,7 @@ Poisons are anywhere from common to legendary in terms of accessibility; in most
 
 ***Common.*** Common poisons can be found in the supplies of most apothecaries and alchemists, though they are unlikely to reveal such poisons except to customers that can show they won't spread word of such sales. Customers that speak in Thieves' Cant are usually able to acquire these poisons with ease. Common poisons can also be found in most wilderness environments with a successful DC 15 Wisdom (Survival) or Intelligence (Nature) check and several hours of searching.
 
-Common poisons include [Arsenic](#arsenic), [Assassin's Blood](#assassins-blood), [common serpent venom](#common-serpent-venom), [deadly nightshade](#deadly-nightshade), [Hemlock](#hemlock), [Mandrake](#mandrake), and [Slayer's Boon](#slayers-boon). Many monsters use a [common venom](#common-venom) to inflict the poisoned condition on PCs.
+Common poisons include [Arsenic](#arsenic), [Assassin's Blood](#assassins-blood), [common serpent venom](#common-serpent-venom), [deadly nightshade](#deadly-nightshade), [Hemlock](#hemlock), [Mandrake](#mandrake), and [Slayer's Boon](#slayers-boon). Many monsters use a [common venom](#common-venom) to inflict the poisoned condition on PCs, and many spells inflict [Arcanic poison](#arcanic-poison) upon victims.
 
 ***Uncommon.*** Uncommon poisons can be found in the inventories of most wealthy or unscrupulous apothecaries, alchemists, and death-dealers in major cities. These poisons are not easy to craft, and their ingredients are difficult to obtain. They are usually quite illegal in most societies.
 
@@ -30,6 +30,11 @@ Uncommon poisons include [Black Fog](#black-fog), [Burnt Othur Fumes](#burnt-oth
 ***Legendary.*** Legendary poisons can only be found in the most deadly and extreme locales, and only with a legendary amount of luck on one's side. Crafting them is nearly impossible, but legends speak of once-in-a-generation alchemists who were able to manage such feats.
 
 ---
+
+### Arcanic poison
+*(various; common)*
+
+An arcanic-poisoned creature has disadvantage on attack rolls and ability checks. Generally arcanic poisoning ends with the cessation of a spell's duration.
 
 ### Arsenic
 *(various; common)*

@@ -343,9 +343,9 @@ def main():
     parser.add_argument('--findtype', choices=spelltypes, help='Find spells by type')
     parser.add_argument('--findtext', help='Find keywords in spell text or title')
     # Output commands
-    parser.add_argument('--summarymd', help='Produce an MD spell summary')
-    parser.add_argument('--summarytext', help='Produce a text spell summary')
-    parser.add_argument('--list', choices=['md', 'text'], help='Produce a spell list in Markdown, text, etc')
+    parser.add_argument('--list', choices=['md', 'text'], help='Print a spell list in the format given (Markdown, text, etc)')
+    parser.add_argument('--summarymd', help='Write an MD spell summary in the file named')
+    parser.add_argument('--summarytext', help='Write a text spell summary in the file named')
     parser.add_argument('--writemd', help='Directory to which to write MD files')
     parser.add_argument('--writesql', help='SQLite filename to write spells to')
     parser.add_argument('--writexml', help='Directory to which to write XML files')
@@ -476,59 +476,73 @@ def main():
 
     # Are we doing a search, or lists?
 
-    def printmd(withclasses=False,withtags=False):
-        print("# " + listtitle)
+    def listmd(withclasses=False,withtags=False,title=""):
+        lines = []
+        def print(text):
+            lines.append(text)
+        if title != "":
+            print("# " + title)
         for level in levels:
             print("## " + level + "-Level Spells")
             levelspells = list(filter(lambda s: s.level.strip() == level.strip(), spells))
             levelspells.sort(key=lambda s: s.name)
             for spell in levelspells:
                 if withclasses and withtags:
-                    print("* [" + str(spell.name) + "](" + spell.filename + ") (" + ",".join(spell.tags) + "): " + ",".join(spell.classes))
+                    print("* [" + str(spell.name) + "](" + spell.filename + ") " + ",".join(spell.tags) + " : (" + ",".join(spell.classes) + ")")
                 elif withclasses:
-                    print("* [" + str(spell.name) + "](" + spell.filename + "): " + ",".join(spell.classes))
+                    print("* [" + str(spell.name) + "](" + spell.filename + ") (" + ",".join(spell.classes) + ")")
                 elif withtags:
-                    print("* [" + str(spell.name) + "](" + spell.filename + ") (" + ",".join(spell.tags) + ")")
+                    print("* [" + str(spell.name) + "](" + spell.filename + ") " + ",".join(spell.tags) )
                 else:
                     print("* [" + str(spell.name) + "](" + spell.filename + ")")
             print(" ")
+        return lines
     
-    def printtext(withclasses=False,withtags=False):
+    def listtext(withclasses=False,withtags=False):
+        lines = []
+        def print(text):
+            lines.append(text)
         print(listtitle)
         for level in levels:
             print(level + "-Level Spells")
             levelspells = list(filter(lambda s: s.level.strip() == level.strip(), spells))
             levelspells.sort(key=lambda s: s.name)
             for spell in levelspells:
-                print(spell.name + ": (" + spell.filename + ")")
+                if withclasses and withtags:
+                    print("  " + spell.name)
+                elif withclasses:
+                    print("  " + spell.name + " (" + ",".join(spell.classes) + ")")
+                elif withtags:
+                    print("  " + spell.name + " -- " + ",".join(spell.tags))
+                else:
+                    print("  " + spell.name)
             print(" ")
-
+        return lines
 
     if args.summarymd != None:
-        print("# " + args.summarymd)
-        printmd(True, True)
+        filename = args.summarymd
+        print("Writing " + filename + "; " + str(len(spells)) + " spells")
+        with open(filename, 'w') as file:
+            lines = listmd(False, True, "Spell List Summary: " + listtitle)
+            for line in lines: file.write(line + "\n")
+
+    if args.summarytext != None:
+        filename = args.summarytext
+        print("Writing " + filename + "; " + str(len(spells)) + " spells")
+        with open(filename, 'w') as file:
+            lines = listmd(False, True)
+            for line in lines: file.write(line + "\n")
 
     if args.list != None:
         if args.list == 'md':
-            printmd(True)
+            lines = listmd(True)
+            for line in lines: print(line)
         elif args.list == 'text':
-            printtext(True)
+            lines = listtext(True)
+            for line in lines: print(line)
         else:
             print("Unrecognized list format!")
-
-
-# This is only useful if I'm worried that spells are being lost in the
-# from the lists somehow.
-#    elif args.summarymd != None:
-#        print("# Summary Spell List")
-#        print("For all spellcasting classes (" + ", ".join(classes) + ")")
-#        print(" ")
-#        for level in levels:
-#            print("## " + level + "-Level Spells")
-#            for spell in spells:
-#                if spell.level == level:
-#                    print("* [" + str(spell.name) + "](" + spell.filename + "): " + ", ".join(spell.classes))
-#            print(" ")
+        print(str(len(spells)) + " spells")
 
     elif args.writemd != None:
         prefix = args.writemd

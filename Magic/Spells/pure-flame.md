@@ -6,7 +6,9 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ---
-You conjure a flame, tinged with holy energy, and apply it to a wound. The target creature regains 1d4 hit points and if suffering from the effects of disease or poison due to failing a saving throw, the target creature can immediately make a new saving throw, ending the effect on itself on a success.
+You conjure a flame, tinged with holy energy, and apply it to a wound.
+
+The target creature regains 1d4 hit points and if suffering from the effects of disease or poison due to failing a saving throw, the target creature can immediately make a new saving throw, ending the effect on itself on a success.
 
 This is a painful treatment option, however, and the affected creature makes attack rolls and skill checks at disadvantage on its turn.
 

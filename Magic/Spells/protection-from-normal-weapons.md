@@ -6,5 +6,4 @@ ___
 - **Components:** V, S, M (a broken piece of a weapon)
 - **Duration:** Concentration, up to 10 minutes
 ---
-The protected creature has resistance to damage
-caused by nonmagical weapons.
+The protected creature has resistance to damage caused by nonmagical melee weapons.
