@@ -1,5 +1,5 @@
 #### Arrow Storm
-*3rd-level transmutation* (Ranger)
+*3rd-level transmutation* *(brandish)* (Ranger)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self
