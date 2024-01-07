@@ -30,6 +30,7 @@
 * [Create Item](../../Magic/Spells/create-item.md)
 * [Dancing Lights](../../Magic/Spells/dancing-lights.md)
 * [Dazzle](../../Magic/Spells/dazzle.md)
+* [Dimensional Pocket](../../Magic/Spells/dimensional-pocket.md)
 * [Dire Radiance](../../Magic/Spells/dire-radiance.md)
 * [Disarm](../../Magic/Spells/disarm.md)
 * [Duplicate Soul Object](../../Magic/Spells/duplicate-soul-object.md)
@@ -198,6 +199,7 @@
 * [Blackout](../../Magic/Spells/blackout.md)
 * [Blade of Nightmares](../../Magic/Spells/blade-of-nightmares.md)
 * [Blazing Lance](../../Magic/Spells/blazing-lance.md)
+* [Blink Feint](../../Magic/Spells/blink-feint.md) *brandish*
 * [Blood Reading](../../Magic/Spells/blood-reading.md)
 * [Blood Wind](../../Magic/Spells/blood-wind.md)
 * [Blur of Motion](../../Magic/Spells/blur-of-motion.md)
@@ -225,6 +227,7 @@
 * [Creeping Crawling Claw](../../Magic/Spells/creeping-crawling-claw.md) *ritual*
 * [Critical Strike](../../Magic/Spells/critical-strike.md)
 * [Cursed with Undeath](../../Magic/Spells/cursed-with-undeath.md)
+* [Dancing Weapon](../../Magic/Spells/dancing-weapon.md) *brandish*
 * [Darkness Lance](../../Magic/Spells/darkness-lance.md)
 * [Dead Man's Tell](../../Magic/Spells/dead-mans-tell.md) *ritual*
 * [Death's Grasp](../../Magic/Spells/deaths-grasp.md)
@@ -349,6 +352,9 @@
 * [Ray of Sickness](../../Magic/Spells/ray-of-sickness.md)
 * [Ray of Terror](../../Magic/Spells/ray-of-terror.md)
 * [Rot](../../Magic/Spells/rot.md)
+* [Rune of Cutting](../../Magic/Spells/rune-of-cutting.md) *brandish*
+* [Rune of Force](../../Magic/Spells/rune-of-force.md)
+* [Rune of Puncturing](../../Magic/Spells/rune-of-puncturing.md) *brandish*
 * [Sandblast](../../Magic/Spells/sandblast.md)
 * [Sanguine Wave](../../Magic/Spells/sanguine-wave.md)
 * [Scalding Sphere](../../Magic/Spells/scalding-sphere.md)
@@ -446,6 +452,7 @@
 * [Blazing Portcullis](../../Magic/Spells/blazing-portcullis.md)
 * [Blinding Flare](../../Magic/Spells/blinding-flare.md)
 * [Blindness/Deafness](../../Magic/Spells/blindness-deafness.md)
+* [Blink Slash](../../Magic/Spells/blink-slash.md) *brandish*
 * [Blood Quill](../../Magic/Spells/blood-quill.md) *blood,ritual*
 * [Blur](../../Magic/Spells/blur.md)
 * [Body Spin](../../Magic/Spells/body-spin.md)
@@ -660,7 +667,7 @@
 * [Warding Wind](../../Magic/Spells/warding-wind.md)
 * [Wave Strike](../../Magic/Spells/wave-strike.md)
 * [Web](../../Magic/Spells/web.md)
-* [Whirling Blade](../../Magic/Spells/whirling-blade.md)
+* [Whirling Blade](../../Magic/Spells/whirling-blade.md) *brandish*
 * [Wieldskill](../../Magic/Spells/wieldskill.md)
 * [Wild Boost](../../Magic/Spells/wild-boost.md)
 * [Wither and Bloom](../../Magic/Spells/wither-and-bloom.md)
@@ -809,6 +816,7 @@
 * [Misty Escape](../../Magic/Spells/misty-escape.md)
 * [Moon Soul Revival](../../Magic/Spells/moon-soul-revival.md)
 * [Mortify](../../Magic/Spells/mortify.md)
+* [Multiple Locality Strike](../../Magic/Spells/multiple-locality-strike.md) *brandish*
 * [Mummify](../../Magic/Spells/mummify.md)
 * [Mystical Awareness](../../Magic/Spells/mystical-awareness.md)
 * [Nauseating Breath](../../Magic/Spells/nauseating-breath.md)
@@ -911,8 +919,8 @@
 * [Wheel of Fire](../../Magic/Spells/wheel-of-fire.md)
 * [Wheel of Ice](../../Magic/Spells/wheel-of-ice.md)
 * [Wheel of Lightning](../../Magic/Spells/wheel-of-lightning.md)
-* [Whip of Pain](../../Magic/Spells/whip-of-pain.md)
-* [Whip of Shar](../../Magic/Spells/whip-of-shar.md)
+* [Whip of Pain](../../Magic/Spells/whip-of-pain.md) *brandish*
+* [Whip of Shar](../../Magic/Spells/whip-of-shar.md) *brandish*
 * [Wings of Wind](../../Magic/Spells/wings-of-wind.md)
 * [X-ray Vision](../../Magic/Spells/x-ray-vision.md)
  
@@ -1139,6 +1147,7 @@
 * [Arc of Lightning](../../Magic/Spells/arc-of-lightning.md)
 * [Arcane Armor](../../Magic/Spells/arcane-armor.md)
 * [Armor of Bones](../../Magic/Spells/armor-of-bones.md)
+* [Aspect of Marilith](../../Magic/Spells/aspect-of-marilith.md) *brandish*
 * [Astaroth's Augmentation](../../Magic/Spells/astaroths-augmentation.md)
 * [Azure Flame](../../Magic/Spells/azure-flame.md)
 * [Azuth's Exalted Triad](../../Magic/Spells/azuths-exalted-triad.md)
@@ -1768,6 +1777,7 @@
 * [Sphere of Ultimate Destruction](../../Magic/Spells/sphere-of-ultimate-destruction.md)
 * [Succor](../../Magic/Spells/succor.md)
 * [Tempestcone](../../Magic/Spells/tempestcone.md)
+* [Thousand Blade Strike](../../Magic/Spells/thousand-blade-strike.md) *brandish*
 * [Thunderous Tornado](../../Magic/Spells/thunderous-tornado.md)
 * [Time Ravage](../../Magic/Spells/time-ravage.md)
 * [Time Stop](../../Magic/Spells/time-stop.md)

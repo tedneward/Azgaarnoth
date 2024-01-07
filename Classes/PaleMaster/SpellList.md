@@ -77,7 +77,7 @@
  
 ## 2nd-Level Spells
 * [Analyze Blood](../../Magic/Spells/analyze-blood.md) *ritual*
-* [Blackrot](../../Magic/Spells/blackrot.md)
+* [Blackrot](../../Magic/Spells/blackrot.md) *brandish*
 * [Blade of Dark Whispers](../../Magic/Spells/blade-of-dark-whispers.md) *brandish*
 * [Blastbones](../../Magic/Spells/blastbones.md)
 * [Blindness/Deafness](../../Magic/Spells/blindness-deafness.md)

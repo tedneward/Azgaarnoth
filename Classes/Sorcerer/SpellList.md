@@ -91,7 +91,7 @@
 * [Mindspeak](../../Magic/Spells/mindspeak.md)
 * [Minor Disguise](../../Magic/Spells/minor-disguise.md)
 * [Minor Illusion](../../Magic/Spells/minor-illusion.md)
-* [Minor Telekinetic Weapon](../../Magic/Spells/minor-telekinetic-weapon.md)
+* [Minor Telekinetic Weapon](../../Magic/Spells/minor-telekinetic-weapon.md) *brandish, psionic*
 * [Mold Earth](../../Magic/Spells/mold-earth.md)
 * [Nauseate](../../Magic/Spells/nauseate.md)
 * [Overheat](../../Magic/Spells/overheat.md)
@@ -162,6 +162,7 @@
 * [Beluud's Corrosive Caress](../../Magic/Spells/beluuds-corrosive-caress.md)
 * [Blackout](../../Magic/Spells/blackout.md)
 * [Blazing Lance](../../Magic/Spells/blazing-lance.md)
+* [Blink Feint](../../Magic/Spells/blink-feint.md) *brandish*
 * [Blood Reading](../../Magic/Spells/blood-reading.md)
 * [Blood Wind](../../Magic/Spells/blood-wind.md)
 * [Blur of Motion](../../Magic/Spells/blur-of-motion.md)
@@ -184,6 +185,7 @@
 * [Corpse Link](../../Magic/Spells/corpse-link.md)
 * [Corpse Visage](../../Magic/Spells/corpse-visage.md)
 * [Critical Strike](../../Magic/Spells/critical-strike.md)
+* [Dancing Weapon](../../Magic/Spells/dancing-weapon.md) *brandish*
 * [Darkness Lance](../../Magic/Spells/darkness-lance.md)
 * [Deep Breath](../../Magic/Spells/deep-breath.md)
 * [Deflecting Shield](../../Magic/Spells/deflecting-shield.md)
@@ -319,6 +321,7 @@
 * [Wandbane](../../Magic/Spells/wandbane.md)
 * [Water Whip](../../Magic/Spells/water-whip.md)
 * [Weightless Pursuit](../../Magic/Spells/weightless-pursuit.md)
+* [Wild Trigger](../../Magic/Spells/wild-trigger.md)
 * [Witch Bolt](../../Magic/Spells/witch-bolt.md)
  
 ## 2nd-Level Spells
@@ -351,6 +354,7 @@
 * [Blazing Portcullis](../../Magic/Spells/blazing-portcullis.md)
 * [Blinding Flare](../../Magic/Spells/blinding-flare.md)
 * [Blindness/Deafness](../../Magic/Spells/blindness-deafness.md)
+* [Blink Slash](../../Magic/Spells/blink-slash.md) *brandish*
 * [Blur](../../Magic/Spells/blur.md)
 * [Body Spin](../../Magic/Spells/body-spin.md)
 * [Body of the Sun](../../Magic/Spells/body-of-the-sun.md)
@@ -515,7 +519,8 @@
 * [Warding Wind](../../Magic/Spells/warding-wind.md)
 * [Wave Strike](../../Magic/Spells/wave-strike.md)
 * [Web](../../Magic/Spells/web.md)
-* [Whirling Blade](../../Magic/Spells/whirling-blade.md)
+* [Whirling Blade](../../Magic/Spells/whirling-blade.md) *brandish*
+* [Wild Boost](../../Magic/Spells/wild-boost.md)
 * [Wither and Bloom](../../Magic/Spells/wither-and-bloom.md)
  
 ## 3rd-Level Spells
@@ -627,6 +632,7 @@
 * [Memorize Scene](../../Magic/Spells/memorize-scene.md) *ritual*
 * [Mirror Weapon](../../Magic/Spells/mirror-weapon.md)
 * [Mortify](../../Magic/Spells/mortify.md)
+* [Multiple Locality Strike](../../Magic/Spells/multiple-locality-strike.md) *brandish*
 * [Mystical Awareness](../../Magic/Spells/mystical-awareness.md)
 * [Nauseating Breath](../../Magic/Spells/nauseating-breath.md)
 * [Nightscar](../../Magic/Spells/nightscar.md) *ritual*
@@ -702,8 +708,8 @@
 * [Wheel of Fire](../../Magic/Spells/wheel-of-fire.md)
 * [Wheel of Ice](../../Magic/Spells/wheel-of-ice.md)
 * [Wheel of Lightning](../../Magic/Spells/wheel-of-lightning.md)
-* [Whip of Pain](../../Magic/Spells/whip-of-pain.md)
-* [Whip of Shar](../../Magic/Spells/whip-of-shar.md)
+* [Whip of Pain](../../Magic/Spells/whip-of-pain.md) *brandish*
+* [Whip of Shar](../../Magic/Spells/whip-of-shar.md) *brandish*
 * [Wings of Wind](../../Magic/Spells/wings-of-wind.md)
  
 ## 4th-Level Spells

@@ -30,6 +30,7 @@
 * [Beast Claws](../../Magic/Spells/beast-claws.md)
 * [Beastlands Ferocity](../../Magic/Spells/beastlands-ferocity.md)
 * [Blackout](../../Magic/Spells/blackout.md)
+* [Blink Feint](../../Magic/Spells/blink-feint.md) *brandish*
 * [Blood Wind](../../Magic/Spells/blood-wind.md)
 * [Bloodhound](../../Magic/Spells/bloodhound.md)
 * [Blur of Motion](../../Magic/Spells/blur-of-motion.md)
@@ -39,6 +40,7 @@
 * [Conjure Critters](../../Magic/Spells/conjure-critters.md)
 * [Create Poison](../../Magic/Spells/create-poison.md) *ritual*
 * [Cure Wounds](../../Magic/Spells/cure-wounds.md)
+* [Dancing Weapon](../../Magic/Spells/dancing-weapon.md) *brandish*
 * [Dead End](../../Magic/Spells/dead-end.md)
 * [Detect Magic](../../Magic/Spells/detect-magic.md) *ritual*
 * [Detect Poison and Disease](../../Magic/Spells/detect-poison-and-disease.md) *ritual*
@@ -138,8 +140,9 @@
 * [Barkskin](../../Magic/Spells/barkskin.md)
 * [Bat Sense](../../Magic/Spells/bat-sense.md)
 * [Beast Sense](../../Magic/Spells/beast-sense.md) *ritual*
-* [Blackrot](../../Magic/Spells/blackrot.md)
+* [Blackrot](../../Magic/Spells/blackrot.md) *brandish*
 * [Blades of Grass](../../Magic/Spells/blades-of-grass.md)
+* [Blink Slash](../../Magic/Spells/blink-slash.md) *brandish*
 * [Blood Frenzy](../../Magic/Spells/blood-frenzy.md)
 * [Breathsense](../../Magic/Spells/breathsense.md)
 * [Briar Web](../../Magic/Spells/briar-web.md)
@@ -215,7 +218,7 @@
 * [Spike Growth](../../Magic/Spells/spike-growth.md)
 * [Summon Beast](../../Magic/Spells/summon-beast.md)
 * [Track](../../Magic/Spells/track.md) *ritual*
-* [Twisting Throw](../../Magic/Spells/twisting-throw.md)
+* [Twisting Throw](../../Magic/Spells/twisting-throw.md) *brandish*
 * [Ubtao's Tiny Teraform](../../Magic/Spells/ubtaos-tiny-teraform.md)
 * [Wakefulness](../../Magic/Spells/wakefulness.md)
 * [War Cry](../../Magic/Spells/war-cry.md)
@@ -226,7 +229,7 @@
 ## 3rd-Level Spells
 * [Aegis of Ensnarement](../../Magic/Spells/aegis-of-ensnarement.md)
 * [Alternate Reality](../../Magic/Spells/alternate-reality.md)
-* [Arrow Storm](../../Magic/Spells/arrow-storm.md)
+* [Arrow Storm](../../Magic/Spells/arrow-storm.md) *brandish*
 * [Ashardalon's Stride](../../Magic/Spells/ashardalons-stride.md)
 * [Blade Storm](../../Magic/Spells/blade-storm.md)
 * [Blade of Black Wind](../../Magic/Spells/blade-of-black-wind.md)
@@ -269,6 +272,7 @@
 * [Marshal's Pursuit](../../Magic/Spells/marshals-pursuit.md)
 * [Meld into Stone](../../Magic/Spells/meld-into-stone.md) *ritual*
 * [Moon Blade](../../Magic/Spells/moon-blade.md)
+* [Multiple Locality Strike](../../Magic/Spells/multiple-locality-strike.md) *brandish*
 * [Nondetection](../../Magic/Spells/nondetection.md)
 * [Plant Growth](../../Magic/Spells/plant-growth.md)
 * [Poison Darts](../../Magic/Spells/poison-darts.md)

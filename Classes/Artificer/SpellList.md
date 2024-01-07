@@ -47,7 +47,7 @@
 * [Magic Stone](../../Magic/Spells/magic-stone.md)
 * [Mending](../../Magic/Spells/mending.md)
 * [Message](../../Magic/Spells/message.md)
-* [Minor Telekinetic Weapon](../../Magic/Spells/minor-telekinetic-weapon.md)
+* [Minor Telekinetic Weapon](../../Magic/Spells/minor-telekinetic-weapon.md) *brandish, psionic*
 * [Nauseate](../../Magic/Spells/nauseate.md)
 * [Poison Spray](../../Magic/Spells/poison-spray.md)
 * [Prestidigitation](../../Magic/Spells/prestidigitation.md)
@@ -142,7 +142,10 @@
 * [Purify Food and Drink](../../Magic/Spells/purify-food-and-drink.md) *ritual*
 * [Quivaelyn's Sharpening Palm](../../Magic/Spells/quivaelyns-sharpening-palm.md)
 * [Radlo's Sudden Spark](../../Magic/Spells/radlos-sudden-spark.md)
-* [Rune of Peace](../../Magic/Spells/rune-of-peace.md)
+* [Rune of Cutting](../../Magic/Spells/rune-of-cutting.md) *brandish*
+* [Rune of Force](../../Magic/Spells/rune-of-force.md)
+* [Rune of Peace](../../Magic/Spells/rune-of-peace.md) *brandish*
+* [Rune of Puncturing](../../Magic/Spells/rune-of-puncturing.md) *brandish*
 * [Sanctuary](../../Magic/Spells/sanctuary.md)
 * [Seeking Missile](../../Magic/Spells/seeking-missile.md)
 * [Serpent Missile](../../Magic/Spells/serpent-missile.md)
@@ -261,15 +264,15 @@
 * [Strength of Stone](../../Magic/Spells/strength-of-stone.md)
 * [Sudden Transposition](../../Magic/Spells/sudden-transposition.md)
 * [Tactical Precision](../../Magic/Spells/tactical-precision.md)
-* [Twisting Throw](../../Magic/Spells/twisting-throw.md)
+* [Twisting Throw](../../Magic/Spells/twisting-throw.md) *brandish*
 * [Unpickable Lock](../../Magic/Spells/unpickable-lock.md)
 * [Vecna's Final Command](../../Magic/Spells/vecnas-final-command.md)
 * [Vortex Warp](../../Magic/Spells/vortex-warp.md)
 * [Warning Breath](../../Magic/Spells/warning-breath.md)
 * [Warp Stone](../../Magic/Spells/warp-stone.md)
 * [Web](../../Magic/Spells/web.md)
-* [Whip of Flame](../../Magic/Spells/whip-of-flame.md)
-* [Whirling Blade](../../Magic/Spells/whirling-blade.md)
+* [Whip of Flame](../../Magic/Spells/whip-of-flame.md) *brandish*
+* [Whirling Blade](../../Magic/Spells/whirling-blade.md) *brandish*
 * [Wieldskill](../../Magic/Spells/wieldskill.md)
  
 ## 3rd-Level Spells
@@ -346,8 +349,8 @@
 * [Tiny Servant](../../Magic/Spells/tiny-servant.md)
 * [Water Breathing](../../Magic/Spells/water-breathing.md) *ritual*
 * [Water Walk](../../Magic/Spells/water-walk.md) *ritual*
-* [Whip of Pain](../../Magic/Spells/whip-of-pain.md)
-* [Whip of Shar](../../Magic/Spells/whip-of-shar.md)
+* [Whip of Pain](../../Magic/Spells/whip-of-pain.md) *brandish*
+* [Whip of Shar](../../Magic/Spells/whip-of-shar.md) *brandish*
  
 ## 4th-Level Spells
 * [Agonize](../../Magic/Spells/agonize.md)
@@ -450,7 +453,7 @@
 * [Water to Acid](../../Magic/Spells/water-to-acid.md)
 * [Water to Poison](../../Magic/Spells/water-to-poison.md)
 * [Weaken Ability](../../Magic/Spells/weaken-ability.md)
-* [Whip of Woe](../../Magic/Spells/whip-of-woe.md)
+* [Whip of Woe](../../Magic/Spells/whip-of-woe.md) *brandish*
  
 ## 6th-Level Spells
  

@@ -3,31 +3,29 @@ Normally, the power wielded by those who can tap into it via arcane means do so 
 
 Some arcane casters, however, have sought ways to tap into this uncontrolled force, allowing it into this world without tight controls, believing that doing so is a path to greater power. This "wild mages", as they came to be known, were particularly popular during the 
 
-## Wild Magic Zones
-
-
 ## Wild Magic Surge
+A wild magic surge can happen in a variety of ways, and the effects are entirely unpredictable. If the wild surge is triggered by an individual creature's actions, roll d100 on the Individual Wild Magic Surge Effect table, below; if the surge is triggered by something else, roll on the Area Wild Magic Surge table.
 
-
-**Wild Magic Surge**
+**Individual Wild Magic Surge Effect**
 d100  | Effect
 ----- | -------
-01-02 | Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls.
-03-04 | For the next minute, you can see any invisible creature if you have line of sight to it.	
+01-02 | Roll on this table at the start of each of your turns (or Initiative 20) for the next minute, ignoring this result on subsequent rolls.
+03    | For the next minute, you can see any invisible creature if you have line of sight to it.
+04    | You disappear, reappearing 1 minute later in exactly the same place, with no time having passed for you.
 05-06 | A modron chosen and controlled by the DM appears in an unoccupied space within 5 feet of you, then disappears 1 minute later.
-07-08 | You cast [Fireball](Spells/fireball.md) as a 3rd-level spell centered on yourself.
+07-08 | You cast [Fireball](Spells/fireball.md) as a 3rd-level spell, centered on yourself.
 09-10 | You cast [Magic Missile](Spells/magic-missile.md) as a 5th-level spell.	
 11-12 | Roll a d10. Your height changes by a number of inches equal to the roll. If the roll is odd, you shrink. If the roll is even, you grow.	
 13-14 | You cast [Confusion](Spells/confusion.md) centered on yourself.	
-15-16 | For the next minute, you regain 5 hit points at the start of each of your turns.	
+15-16 | For the next minute, you regain 5 hit points at the start of each of your turns.
 17-18 | You grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode out from your face.
 19-20 | You cast [Grease](Spells/grease.md) centered on yourself.	
 21-22 | Creatures have disadvantage on saving throws against the next spell you cast in the next minute that involves a saving throw.	
-23-24 | Your skin turns a vibrant shade of blue. A [Remove Curse](Spells/remove-curse.md) spell can end this effect.	
-25-26 | An eye appears on your forehead for the next minute. During that time, you have advantage on Wisdom (Perception) checks that rely on sight.	
-27-28 | For the next minute, all your spells with a casting time of 1 action have a casting time of 1 bonus action.	
-29-30 | You teleport up to 60 feet to an unoccupied space of your choice that you can see.	
-31-32 | You are transported to the Astral Plane until the end of your next turn, after which time you return to the space you previously occupied or the nearest unoccupied space if that space is occupied.	
+23-24 | Your skin turns a vibrant shade of blue permanently, but a [Remove Curse](Spells/remove-curse.md) spell can end this effect.
+25-26 | An eye appears on your forehead for the next minute. During that time, you have advantage on Wisdom (Perception) checks that rely on sight.
+27-28 | For the next minute, all your spells with a casting time of 1 action have a casting time of 1 bonus action.
+29-30 | You teleport up to 60 feet to an unoccupied space of your choice that you can see.
+31-32 | You are transported to the Astral Plane until the end of your next turn, after which time you return to the space you previously occupied or the nearest unoccupied space if that space is occupied.
 33-34 | Maximize the damage of the next damaging spell you cast within the next minute.	
 35-36 | Roll a d10. Your age changes by a number of years equal to the roll. If the roll is odd, you get younger (minimum 1 year old). If the roll is even, you get older.	
 37-38 | 1d6 flumphs controlled by the DM appear in unoccupied spaces within 60 feet of you and are frightened of you. They vanish after 1 minute.	
@@ -62,3 +60,26 @@ d100  | Effect
 95-96 | You and all creatures within 30 feet of you gain vulnerability to piercing damage for the next minute.
 97-98 | You are surrounded by faint, ethereal music for the next minute.
 99-00 | You regain all expended sorcery points.
+
+**Area Wild Magic Surge Effect**
+d100  | Effect
+----- | -------
+01-02 | Roll on this table at the start of each of your turns (or Initiative 20) for the next minute, ignoring this result on subsequent rolls.
+03-04 | A creature at random within 60 feet disappears, reappearing 1 minute later in exactly the same place, with no time having passed for that creature.
+05-06 | All creatures within 60 feet are [blinded](../Conditions/Blinded.md) and [deafened](../Conditions/Deafened.md) for 1 minute, but gain tremorsense out to 60 feet.
+07-08 | For the next minute, all creatures within 60 feet roll 1d10 at the start of each of their turns; if the die roll is odd, they gain that number of hit points, and if the die roll is even, they lose that number of hit points.	
+09-10 | All creatures within 60 feet must make a Wisdom saving throw against DC 25 or go [berserk](../Conditions/Berserk.md) for 1 minute.
+
+
+If a surge effect replicates a spell which normally requires concentration, it doesn't require concentration in this case; the spell lasts for its full duration. Some effects call for a saving throw; the saving throw DC is equal to your spell save DC (if the surge was triggered by a spell) or the item save DC (if the surge was triggered by a magic item).
+
+## Wild Magic Zones
+Sometimes the release of wild magic takes root temporarily within a given area, creating what's known as a wild magic zone. These zones appear without warning, but most commonly in response to the use of wild magic (typically by a [Wild Magic sorcerer](../Classes/Sorcerer/WildMagic.md) or a [Wild Mage](../Classes/Wizard/WildMagic.md), though zones have appeared in response to the rage of a [Wild Magic barbarian](../Classes/Barbarian/WildMagic.md) or even sometimes to the actions of a [Chaos](../Classes/Cleric/Chaos.md) or [Madness](../Classes/Cleric/Madness.md) cleric.) These zones are often small, measuring no more than 60 to 100 feet in diameter in a roughly circular shape, but zones as small as a single 5-foot square or as large as entire city blocks have been reported in the past. Legend tells of an entire city that disappeared into a wild magic zone, though not of what happened to it afterwards.
+
+In addition to the effects of certain character classes' actions, a wild magic surge can be triggered by anyone who casts a spell (including cantrips), activates a magical item, or uses a magical ability while inside a wild magic zone, due to the unstable arcane forces that permeate that space. Note that for magical items, only the activation of an item will trigger a surge--a *+1 longsword*, for example, does not need to be activated to have its effects, but a *wand of magic missiles* must be activated in order to function, and would therefore trigger a surge.
+
+These zones are often unsettling to practitioners of arcane magic; Bards, Sorcerers, and Wizards can make a Perception/DC15 check to sense the nature of the area. Sometimes, visual clues (strangely-colored or brightly-lit flora, for example, or strange etheral music or flickering lights) can provide advantage on the check.
+
+***Using magic in a wild magic zone.*** Creatures can cast spells without difficulty (unless specified otherwise). Generally, the normal effects of a cast spell apply, in addition to any surge effects. Spells cast in a wild magic zone 
+
+***Mantaining control in wild magic zones.*** While inside a wild magic zone, you can try to mantain control over a spell and prevent a surge from happening by succeeding on an ability check using your spellcasting ability. The DC equals 15 + the spell's level. It's impossible, however, to avoid surges caused by the activation of a magic item while inside a wild magic zone.

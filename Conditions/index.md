@@ -1,6 +1,7 @@
 # Conditions
 
 * [Ablaze](./Ablaze.md)
+* [Berserk](./Berserk.md)
 * [Blinded](./Blinded.md)
 * [Blood magic ailments](./BloodMagicAilments.md)
 * [Buried](./Buried.md)
@@ -22,6 +23,7 @@
 * [Poisoned](./Poisoned.md)
 * [Prone](./Prone.md)
 * [Restrained](./Restrained.md)
+* [Shaken](./Shaken.md)
 * [Stunned](./Stunned.md)
 * [Unconscious](./Unconscious.md)
 

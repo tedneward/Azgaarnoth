@@ -61,7 +61,10 @@
 * [Quivaelyn's Sharpening Palm](../../Magic/Spells/quivaelyns-sharpening-palm.md)
 * [Radiant Lance](../../Magic/Spells/radiant-lance.md)
 * [Rejuvenate Self](../../Magic/Spells/rejuvenate-self.md)
-* [Rune of Peace](../../Magic/Spells/rune-of-peace.md)
+* [Rune of Cutting](../../Magic/Spells/rune-of-cutting.md) *brandish*
+* [Rune of Force](../../Magic/Spells/rune-of-force.md)
+* [Rune of Peace](../../Magic/Spells/rune-of-peace.md) *brandish*
+* [Rune of Puncturing](../../Magic/Spells/rune-of-puncturing.md) *brandish*
 * [Searing Smite](../../Magic/Spells/searing-smite.md)
 * [Shield of Devotion](../../Magic/Spells/shield-of-devotion.md)
 * [Shield of Faith](../../Magic/Spells/shield-of-faith.md)
@@ -91,7 +94,7 @@
 * [Blade of Dark Whispers](../../Magic/Spells/blade-of-dark-whispers.md) *brandish*
 * [Blazing Blade Arc](../../Magic/Spells/blazing-blade-arc.md) *brandish*
 * [Burning Blade](../../Magic/Spells/burning-blade.md) *brandish*
-* [Chilling Scythe](../../Magic/Spells/chilling-scythe.md)
+* [Chilling Scythe](../../Magic/Spells/chilling-scythe.md) *brandish*
 * [Conquering Smite](../../Magic/Spells/conquering-smite.md)
 * [Consecration](../../Magic/Spells/consecration.md)
 * [Curse of Impending Blades](../../Magic/Spells/curse-of-impending-blades.md)
@@ -138,7 +141,7 @@
 * [Shocking Blade Arc](../../Magic/Spells/shocking-blade-arc.md) *brandish*
 * [Strength of Stone](../../Magic/Spells/strength-of-stone.md)
 * [Sudden Formation](../../Magic/Spells/sudden-formation.md)
-* [Twisting Throw](../../Magic/Spells/twisting-throw.md)
+* [Twisting Throw](../../Magic/Spells/twisting-throw.md) *brandish*
 * [War Cry](../../Magic/Spells/war-cry.md)
 * [Warding Bond](../../Magic/Spells/warding-bond.md)
 * [Warning Breath](../../Magic/Spells/warning-breath.md)

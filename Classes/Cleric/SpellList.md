@@ -18,6 +18,7 @@
 * [Courage](../../Magic/Spells/courage.md)
 * [Dazzle](../../Magic/Spells/dazzle.md)
 * [Decompose](../../Magic/Spells/decompose.md)
+* [Dimensional Pocket](../../Magic/Spells/dimensional-pocket.md)
 * [Disarm](../../Magic/Spells/disarm.md)
 * [Far Realm Gaze](../../Magic/Spells/far-realm-gaze.md)
 * [Fell Strike](../../Magic/Spells/fell-strike.md)
@@ -150,6 +151,9 @@
 * [Purify Food and Drink](../../Magic/Spells/purify-food-and-drink.md) *ritual*
 * [Quivaelyn's Sharpening Palm](../../Magic/Spells/quivaelyns-sharpening-palm.md)
 * [Rejuvenate Self](../../Magic/Spells/rejuvenate-self.md)
+* [Rune of Cutting](../../Magic/Spells/rune-of-cutting.md) *brandish*
+* [Rune of Force](../../Magic/Spells/rune-of-force.md)
+* [Rune of Puncturing](../../Magic/Spells/rune-of-puncturing.md) *brandish*
 * [Salutary Touch](../../Magic/Spells/salutary-touch.md)
 * [Sanctuary](../../Magic/Spells/sanctuary.md)
 * [Sensory Caress](../../Magic/Spells/sensory-caress.md) *ritual*
@@ -198,7 +202,7 @@
 * [Call for Capitulation](../../Magic/Spells/call-for-capitulation.md)
 * [Calm Emotions](../../Magic/Spells/calm-emotions.md)
 * [Chaos Dice](../../Magic/Spells/chaos-dice.md)
-* [Chilling Scythe](../../Magic/Spells/chilling-scythe.md)
+* [Chilling Scythe](../../Magic/Spells/chilling-scythe.md) *brandish*
 * [Command Minor Beast](../../Magic/Spells/command-minor-beast.md)
 * [Consecration](../../Magic/Spells/consecration.md)
 * [Continual Flame](../../Magic/Spells/continual-flame.md)
@@ -272,7 +276,7 @@
 * [Stolen Breath](../../Magic/Spells/stolen-breath.md)
 * [Tether Soul](../../Magic/Spells/tether-soul.md)
 * [Touch of the Talontar](../../Magic/Spells/touch-of-the-talontar.md)
-* [Twisting Throw](../../Magic/Spells/twisting-throw.md)
+* [Twisting Throw](../../Magic/Spells/twisting-throw.md) *brandish*
 * [Unbalancing Rhythm](../../Magic/Spells/unbalancing-rhythm.md)
 * [Unluck](../../Magic/Spells/unluck.md)
 * [Unpickable Lock](../../Magic/Spells/unpickable-lock.md)
@@ -280,7 +284,7 @@
 * [Warding Bond](../../Magic/Spells/warding-bond.md)
 * [Warning Breath](../../Magic/Spells/warning-breath.md)
 * [Warp Stone](../../Magic/Spells/warp-stone.md)
-* [Whip of Flame](../../Magic/Spells/whip-of-flame.md)
+* [Whip of Flame](../../Magic/Spells/whip-of-flame.md) *brandish*
 * [Wieldskill](../../Magic/Spells/wieldskill.md)
 * [Wolfjaws](../../Magic/Spells/wolfjaws.md)
 * [Wracking Touch](../../Magic/Spells/wracking-touch.md)
@@ -397,7 +401,7 @@
 * [Undead Battlemight](../../Magic/Spells/undead-battlemight.md)
 * [Venomfire](../../Magic/Spells/venomfire.md)
 * [Water Walk](../../Magic/Spells/water-walk.md) *ritual*
-* [Whip of Shar](../../Magic/Spells/whip-of-shar.md)
+* [Whip of Shar](../../Magic/Spells/whip-of-shar.md) *brandish*
  
 ## 4th-Level Spells
 * [Agonize](../../Magic/Spells/agonize.md)
@@ -574,7 +578,7 @@
 * [Valiancy](../../Magic/Spells/valiancy.md)
 * [Valiant Fury](../../Magic/Spells/valiant-fury.md)
 * [Wave of Obliteration](../../Magic/Spells/wave-of-obliteration.md)
-* [Whip of Woe](../../Magic/Spells/whip-of-woe.md)
+* [Whip of Woe](../../Magic/Spells/whip-of-woe.md) *brandish*
  
 ## 6th-Level Spells
 * [Aura of Terror](../../Magic/Spells/aura-of-terror.md)

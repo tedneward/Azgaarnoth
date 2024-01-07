@@ -24,5 +24,5 @@ The Ulmhorde claims its ancestry directly from the Ugluk, rumored to be the most
 ## [Durinn](Durinn.md): Human and Horde
 
 ## [Rakhnid](Rakhnid.md): Unitarian (Asian)
-Human, Eldar, and Horde, mixed together into a strangely compelling pragmatic mix.
+Human, Firstborn, Created, and Horde, mixed together into a strangely compelling pragmatic mix.
 
