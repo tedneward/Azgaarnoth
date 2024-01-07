@@ -1,5 +1,5 @@
 #### Amnesia
-*9th-level enchantment* (Bard, Warlock, Wizard)
+*9th-level enchantment* *(psionic)* (Bard, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action 
 - **Range:** Touch 

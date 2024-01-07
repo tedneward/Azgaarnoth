@@ -6,7 +6,7 @@ ___
 - **Components:** V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)
 - **Duration:** Instantaneous
 ---
-This spell creates an undead servant. Choose a pile of bones or a corpse of a Medium or Small humanoid within range. Your spell imbues the target with a foul mimicry of life, raising it as an undead creature. The target becomes a [skeleton](../../Creatures/Skeleton.md) if you chose bones or a [zombie](../../Creatures/Zombie.md) if you chose a corpse (the DM has the creature's game statistics).
+This spell creates an undead servant. Choose a pile of bones or a corpse of a Medium or Small humanoid within range. Your spell imbues the target with a foul mimicry of life, raising it as an undead creature. The target becomes a [skeleton](../../Creatures/Skeleton.md) if you chose bones or a [zombie](../../Creatures/Zombie.md) if you chose a corpse.
 
 On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within 60 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
 

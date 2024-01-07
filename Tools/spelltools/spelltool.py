@@ -483,9 +483,11 @@ def main():
         if title != "":
             print("# " + title)
         for level in levels:
-            print("## " + level + "-Level Spells")
             levelspells = list(filter(lambda s: s.level.strip() == level.strip(), spells))
+            if len(levelspells) == 0:
+                continue
             levelspells.sort(key=lambda s: s.name)
+            print("## " + level + "-Level Spells")
             for spell in levelspells:
                 if withclasses and withtags:
                     if len(spell.tags) > 0:
@@ -510,8 +512,10 @@ def main():
             lines.append(text)
         print(listtitle)
         for level in levels:
-            print(level + "-Level Spells")
             levelspells = list(filter(lambda s: s.level.strip() == level.strip(), spells))
+            if len(levelspells) == 0:
+                continue
+            print(level + "-Level Spells")
             levelspells.sort(key=lambda s: s.name)
             for spell in levelspells:
                 if withclasses and withtags:
