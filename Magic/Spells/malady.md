@@ -1,5 +1,5 @@
 #### Malady
-*7th-level necromancy* (Cleric, Druid, Sorcerer,  Warlock, Wizard)
+*7th-level necromancy* *(blood, brandish)* (Cleric, Druid, Sorcerer,  Warlock, Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:**Touch 
@@ -13,5 +13,3 @@ While cursed by the spell, the target is afflicted by an ever-changing medley of
 At the end of every 7 days, if the curse remains, the target takes 5d8 necrotic damage and gains one level of exhaustion, and it can make a Constitution saving throw. On a success, it ends the curse on itself. 
 
 Undead and constructs are immune to the spell, and it can't increase a creature's exhaustion level above five.
-
-This is a Blood spell.

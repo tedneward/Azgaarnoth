@@ -1,5 +1,5 @@
 #### Heartbreak
-*8th-level necromancy* (Pale Master, Sorcerer, Warlock, Wizard)
+*8th-level necromancy* *(blood)* (Pale Master, Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action 
 - **Range:** Touch 
@@ -11,5 +11,3 @@ You incant wicked words and try to touch a creature that you can see to tear the
 If the spell reduces a creature that has blood and vital organs to 0 hit points, your hand plunges into the target's body and tears out a vital organ (usually its heart) leaving the wound strangely closed. Until the organ is returned to its proper location, the creature is unconscious and dying, it can't be stabilized, and it can't regain hit points.
 
 If your concentration is broken or you decide to end the spell early, each organ that was removed by the spell immediately teleports back to its proper location in its owner's body. Once the spell has completed its full duration, each organ can only be returned to its proper location via surgery or magic. 
-
-This is a Blood spell.

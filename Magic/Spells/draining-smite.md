@@ -1,5 +1,5 @@
 #### Draining Smite
-*3rd-level necromancy* (Paladin)
+*3rd-level necromancy* *(blood)* (Paladin)
 ___
 - **Casting Time:** 1 bonus action 
 - **Range:** Self 
@@ -11,5 +11,3 @@ The first time you hit with a melee weapon attack during this spell's duration, 
 On a failed save, the target can't regain hit points until the spell ends. It can repeat the saving throw at the end of each of its turns, ending the spell on a success. 
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
-
-This is a Blood spell.
