@@ -1,9 +1,9 @@
 # [Orc](../Creatures/Orcs.md)
-Orcs are burly raiders with prominent lower canines that resemble tusks. They gather in tribes that satisfy their bloodlust by slaying any humanoids that stand against them.
+Orcs are burly raiders with prominent lower canines that resemble tusks. They gather in tribes, eager to prove their strength against all comers. In the past, that meant looking to satisfy their bloodlust by slaying any humanoids that stood against them; among many of the tribes, however, a more nuanced philosophy--that of facing and overcoming obstacles of all sorts, not just other humanoids--has allowed them to assume a place next to other races in (relative) peace.
 
 ```
 name = 'Orc'
-description = "***Race: Orc.*** Orcs are burly raiders with prominent lower canines that resemble tusks. They gather in tribes that satisfy their bloodlust by slaying any humanoids that stand against them."
+description = "***Race: Orc.*** Orcs are burly raiders with prominent lower canines that resemble tusks. They gather in tribes, eager to prove their strength against all comers. In the past, that meant looking to satisfy their bloodlust by slaying any humanoids that stood against them; among many of the tribes, however, a more nuanced philosophy--that of facing and overcoming obstacles of all sorts, not just other humanoids--has allowed them to assume a place next to other races in (relative) peace."
 type = 'humanoid'
 ```
 

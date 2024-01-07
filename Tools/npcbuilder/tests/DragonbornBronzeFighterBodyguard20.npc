@@ -1,6 +1,6 @@
 Gender,random,Ability Scores,Average,Race,Dragonborn,Bronze,Fighter,Acrobatics,Athletics,Protection,Yes
 Fighter,Yes
-Fighter,BattleMaster,Bait and Switch,Disarming Attack,Goading Attack,Yes
+Fighter,BattleMaster,Bait and Switch,Disarming Attack,Goading Attack,random,Yes
 Fighter,Feat,Alert,Yes
 Fighter,Yes
 Fighter,Feat,Observant,Yes
@@ -12,7 +12,7 @@ Fighter,Yes
 Fighter,Feat,Sentinel,Yes
 Fighter,Yes
 Fighter,Ability,CON,CON,Yes
-Fighter,Precision Attack,Silver Tongue,Yes
+Fighter,Lunging Attack,Silver Tongue,Yes
 Fighter,Ability,CON,CON,Yes
 Fighter,Yes
 Fighter,Yes

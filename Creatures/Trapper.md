@@ -14,7 +14,7 @@ Ruins, Underdark
 
 
 >### Trapper
->*Large Monstrosity, Unaligned*
+>*Large monstrosity, Unaligned*
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 68 (8d10 + 24)

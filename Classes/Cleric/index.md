@@ -86,7 +86,7 @@ You start with the following equipment, in addition to the equipment granted by 
     npc.equipment.append("Light crossbow and 20 bolts")
     npc.equipment.append("Priest's pack")
     npc.equipment.append("Shield")
-    npc.equipment.append("Holy symb0l")
+    npc.equipment.append("Holy symbol")
 ```
 
 ## Spellcasting
@@ -168,6 +168,7 @@ Choose one domain, or choose a [diety or religion](../../Religions/index.md) and
 * [Order](Order.md)
 * [Pain](Pain.md)
 * [Peace](Peace.md)
+* [Plague](Plague.md)
 * [Protection](Protection.md)
 * [Sea](Sea.md)
 * [Shadow](Shadow.md)
@@ -181,13 +182,13 @@ Choose one domain, or choose a [diety or religion](../../Religions/index.md) and
 
 Alternatively, there are some "concepts" beyond the simple "deity worship" that--somehow--yield divine power and benefits:
 
-* [Abandoned](Abandoned.md)
-* [Blood](Blood.md)
-* [Defier](Defier.md)
-* [Entropy](Entropy.md)
-* [Phoenix](Phoenix.md)
-* [Unity](Unity.md)
-* [Zeal](Zeal.md)
+* [Abandoned](Abandoned.md): Abandoned clerics borrow divine power from other gods and clerics in the universe.
+* [Blood](Blood.md): Blood clerics use the divine power present in each of us to power their spells.
+* [Defier](Defier.md): 
+* [Entropy](Entropy.md): Entropy clerics use the divine power that comes from the entropy in the universe.
+* [Phoenix](Phoenix.md): Phoenix clerics tap into a raw cosmic force (the Phoenix). 
+* [Unity](Unity.md): Unity clerics borrow the divine power that generates when a group of diverse beings collectively share in an unshakable belief in one another.
+* [Zeal](Zeal.md): Zeal clerics believe not in the domain of their deity, but in the rabid belief that their deity's way is superior to all others.
 
 Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use [Channel Divinity](#channel-divinity) when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
@@ -288,7 +289,7 @@ At 20th level, your call for intervention succeeds automatically, no roll requir
 
 ```
 def level10(npc):
-    npc.defer(lambda npc: npc.actions.append("***Divine Intervention (Recharges on long rest/seven days).*** Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than {npc.levels('Cleric')}, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise you can use it again after you finish a long rest."))
+    npc.defer(lambda npc: npc.actions.append(f"***Divine Intervention (Recharges on long rest/7 days).*** Describe the assistance you seek, and {'roll percentile dice. If you roll a number equal to or lower than ' + len(npc.levels('Cleric')) + ', ' if npc.levels('Cleric') < 20 else ''}your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise you can use it again after you finish a long rest."))
 ```
 
 ---

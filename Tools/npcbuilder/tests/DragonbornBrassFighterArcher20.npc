@@ -1,6 +1,6 @@
 Gender,random,Ability Scores,Average,Race,Dragonborn,Brass,Fighter,Acrobatics,Athletics,Archery,Yes
 Fighter,Yes
-Fighter,BattleMaster,Disarming Attack,Distracting Strike,Precision Attack,Yes
+Fighter,BattleMaster,Disarming Attack,Distracting Strike,Precision Attack,random,Yes
 Fighter,Feat,Sharpshooter,Yes
 Fighter,Yes
 Fighter,Ability,CON,CON,Yes
@@ -12,7 +12,7 @@ Fighter,Yes
 Fighter,Ability,DEX,DEX,Yes
 Fighter,Yes
 Fighter,Ability,DEX,DEX,Yes
-Fighter,Precision Attack,Silver Tongue,Yes
+Fighter,Trip Attack,Silver Tongue,Yes
 Fighter,Ability,DEX,DEX,Yes
 Fighter,Yes
 Fighter,Yes

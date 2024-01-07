@@ -6,7 +6,7 @@ Native to the Shadowfell, the vicious, predatory balhannoth alters reality in it
 Dungeon builders and Underdark tyrants sometimes venture into the Shadowfell to capture balhannoths for use as guardians.
 
 >### Balhannoth
->*Large Aberration, Typically Chaotic Evil*
+>*Large aberration, Typically Chaotic Evil*
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 114 (12d10 + 48)

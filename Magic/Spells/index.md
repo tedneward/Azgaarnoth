@@ -1,2334 +1,2596 @@
-# Master List of Spells
-For all spellcasting classes (Artificer, Bard, Cleric, Druid, Paladin, Pale Master, Ranger, Shaman, Sorcerer, Warlock, Wizard)
- 
+# Spell List Summary: 
 ## cantrip-Level Spells
-* [Acid Splash](../Magic/Spells/acid-splash.md): Artificer, Sorcerer, Wizard
-* [Alchemical Grenade](../Magic/Spells/alchemical-grenade.md): Wizard
-* [Amanuensis](../Magic/Spells/amanuensis.md): Artificer, Bard, Cleric, Sorcerer, Warlock, Wizard
-* [Ammar's Waterspout](../Magic/Spells/ammars-waterspout.md): Artificer, Druid, Sorcerer, Warlock, Wizard
-* [Arcane Sensitivity](../Magic/Spells/arcane-sensitivity.md): Sorcerer, Wizard
-* [Ascending Flame](../Magic/Spells/ascending-flame.md): Cleric
-* [Astral Seal](../Magic/Spells/astral-seal.md): Cleric
-* [Balance](../Magic/Spells/balance.md): Artificer, Bard, Cleric, Druid, Paladin, Pale Master, Ranger, Shaman, Sorcerer, Warlock, Wizard
-* [Benediction](../Magic/Spells/benediction.md): Bard, Cleric
-* [Blade Ward](../Magic/Spells/blade-ward.md): Bard, Sorcerer, Warlock, Wizard
-* [Blazing Starfall](../Magic/Spells/blazing-starfall.md): Cleric, Sorcerer, Warlock, Wizard
-* [Blood Boil](../Magic/Spells/blood-boil.md): Sorcerer, Warlock, Wizard
-* [Blood Curse](../Magic/Spells/blood-curse.md): Cleric, Pale Master, Shaman, Warlock, Wizard
-* [Blood Dagger](../Magic/Spells/blood-dagger.md): Sorcerer, Warlock
-* [Blood Siphon](../Magic/Spells/blood-siphon.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Bloodlink](../Magic/Spells/bloodlink.md): Cleric, Pale Master, Sorcerer, Warlock
-* [Blurred Step](../Magic/Spells/blurred-step.md): Sorcerer
-* [Bolster](../Magic/Spells/bolster.md): Artificer, Bard, Cleric, Druid, Paladin, Pale Master, Ranger, Shaman, Sorcerer, Warlock, Wizard
-* [Booming Blade](../Magic/Spells/booming-blade.md): Artificer, Sorcerer, Warlock, Wizard
-* [Brace](../Magic/Spells/brace.md): Bard, Cleric
-* [Camouflage](../Magic/Spells/camouflage.md): Artificer, Bard, Druid, Sorcerer, Wizard
-* [Catfeet](../Magic/Spells/catfeet.md): Artificer, Druid
-* [Caustic Blade](../Magic/Spells/caustic-blade.md): Sorcerer, Warlock, Wizard
-* [Challenger's Mark](../Magic/Spells/challengers-mark.md): Artificer, Cleric, Sorcerer, Warlock, Wizard
-* [Chill Touch](../Magic/Spells/chill-touch.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Cinder Flare](../Magic/Spells/cinder-flare.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Cloak of Adeamoz](../Magic/Spells/cloak-of-adeamoz.md): Artificer, Cleric
-* [Commendation](../Magic/Spells/commendation.md): Cleric
-* [Conflagrate](../Magic/Spells/conflagrate.md): Sorcerer, Warlock, Wizard
-* [Conjure Arms](../Magic/Spells/conjure-arms.md): Artificer, Bard, Cleric, Sorcerer, Wizard
-* [Conjure Caltrops](../Magic/Spells/conjure-caltrops.md): Artificer, Sorcerer, Warlock, Wizard
-* [Control Flames](../Magic/Spells/control-flames.md): Druid, Sorcerer, Wizard
-* [Corruption](../Magic/Spells/corruption.md): Pale Master, Warlock, Wizard
-* [Courage](../Magic/Spells/courage.md): Bard, Cleric, Druid
-* [Create Bonfire](../Magic/Spells/create-bonfire.md): Artificer, Druid, Shaman, Sorcerer, Warlock, Wizard
-* [Create Item](../Magic/Spells/create-item.md): Artificer, Bard, Druid, Sorcerer, Wizard
-* [Dancing Lights](../Magic/Spells/dancing-lights.md): Artificer, Bard, Pale Master, Sorcerer, Wizard
-* [Dazzle](../Magic/Spells/dazzle.md): Bard, Cleric, Druid, Wizard
-* [Decompose](../Magic/Spells/decompose.md): Cleric
-* [Detect Dragonblood](../Magic/Spells/detect-dragonblood.md): Druid, Sorcerer
-* [Dire Radiance](../Magic/Spells/dire-radiance.md): Wizard
-* [Disarm](../Magic/Spells/disarm.md): Bard, Cleric, Wizard
-* [Druidcraft](../Magic/Spells/druidcraft.md): Druid, Shaman
-* [Duplicate Soul Object](../Magic/Spells/duplicate-soul-object.md): Wizard
-* [Earth Stomp](../Magic/Spells/earth-stomp.md): Druid, Sorcerer, Warlock, Wizard
-* [Echoing Blow](../Magic/Spells/echoing-blow.md): Artificer, Bard, Sorcerer, Warlock, Wizard
-* [Eerie Glare](../Magic/Spells/eerie-glare.md): Artificer, Sorcerer, Wizard
-* [Ego Shock](../Magic/Spells/ego-shock.md): Bard, Sorcerer, Warlock, Wizard
-* [Eidolic Chains](../Magic/Spells/eidolic-chains.md): Bard, Pale Master, Sorcerer, Warlock, Wizard
-* [Eldritch Blast](../Magic/Spells/eldritch-blast.md): Warlock
-* [Encode Thoughts](../Magic/Spells/encode-thoughts.md): Wizard
-* [Far Hearing](../Magic/Spells/far-hearing.md): Bard, Druid, Sorcerer, Warlock, Wizard
-* [Far Realm Gaze](../Magic/Spells/far-realm-gaze.md): Cleric, Warlock, Wizard
-* [Fell Strike](../Magic/Spells/fell-strike.md): Cleric, Druid, Sorcerer, Warlock, Wizard
-* [Feywild Guardian](../Magic/Spells/feywild-guardian.md): Druid, Sorcerer, Warlock, Wizard
-* [Fingers of Divinity](../Magic/Spells/fingers-of-divinity.md): Cleric
-* [Fire Bolt](../Magic/Spells/fire-bolt.md): Artificer, Sorcerer, Wizard
-* [Fire Hawk](../Magic/Spells/fire-hawk.md): Druid
-* [Flame Ward](../Magic/Spells/flame-ward.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Flame Wreath](../Magic/Spells/flame-wreath.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Flechette](../Magic/Spells/flechette.md): Wizard
-* [Fleet Foot](../Magic/Spells/fleet-foot.md): Wizard
-* [Focused Discipline](../Magic/Spells/focused-discipline.md): Bard, Cleric, Wizard
-* [Foot Freeze](../Magic/Spells/foot-freeze.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Force Push](../Magic/Spells/force-push.md): Sorcerer
-* [Force Strike](../Magic/Spells/force-strike.md): Artificer, Sorcerer, Warlock, Wizard
-* [Fortifying Cry](../Magic/Spells/fortifying-cry.md): Artificer, Bard, Cleric
-* [Friends](../Magic/Spells/friends.md): Bard, Sorcerer, Warlock, Wizard
-* [Frigid Grasp](../Magic/Spells/frigid-grasp.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Frost Trap](../Magic/Spells/frost-trap.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Frostbite](../Magic/Spells/frostbite.md): Artificer, Druid, Sorcerer, Warlock, Wizard
-* [Frostwind Blade](../Magic/Spells/frostwind-blade.md): Druid, Sorcerer, Warlock, Wizard
-* [Gather Power](../Magic/Spells/gather-power.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Ghostharp](../Magic/Spells/ghostharp.md): Bard
-* [Glacial Blade](../Magic/Spells/glacial-blade.md): Sorcerer, Warlock, Wizard
-* [Gleam](../Magic/Spells/gleam.md): Bard, Cleric, Sorcerer, Wizard
-* [Glimmering Blade](../Magic/Spells/glimmering-blade.md): Artificer, Druid, Sorcerer, Warlock, Wizard
-* [Gloom](../Magic/Spells/gloom.md): Bard, Cleric, Druid, Pale Master, Warlock, Wizard
-* [Gore Spike](../Magic/Spells/gore-spike.md): Sorcerer, Warlock, Wizard
-* [Green-Flame Blade](../Magic/Spells/green-flame-blade.md): Artificer, Sorcerer, Warlock, Wizard
-* [Grim Scythe](../Magic/Spells/grim-scythe.md): Pale Master, Warlock, Wizard
-* [Grimlore's Influence](../Magic/Spells/grimlores-influence.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Guard](../Magic/Spells/guard.md): Artificer, Bard, Cleric, Sorcerer, Warlock, Wizard
-* [Guidance](../Magic/Spells/guidance.md): Artificer, Cleric, Druid, Shaman
-* [Gust](../Magic/Spells/gust.md): Druid, Sorcerer, Warlock, Wizard
-* [Hand of Radiance](../Magic/Spells/hand-of-radiance.md): Cleric
-* [Hemokinesis](../Magic/Spells/hemokinesis.md): Sorcerer, Warlock, Wizard
-* [Hinder](../Magic/Spells/hinder.md): Sorcerer, Warlock, Wizard
-* [Ice Shard](../Magic/Spells/ice-shard.md): Sorcerer, Wizard
-* [Ice Ward](../Magic/Spells/ice-ward.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Icon of Fear](../Magic/Spells/icon-of-fear.md): Artificer, Bard, Cleric, Sorcerer, Warlock, Wizard
-* [Inevitable Wave](../Magic/Spells/inevitable-wave.md): Artificer, Bard, Cleric, Warlock, Wizard
-* [Infestation](../Magic/Spells/infestation.md): Druid, Pale Master, Sorcerer, Warlock, Wizard
-* [Intent Laid Bare](../Magic/Spells/intent-laid-bare.md): Bard, Cleric, Druid, Sorcerer, Warlock, Wizard
-* [Internal Compass](../Magic/Spells/internal-compass.md): Artificer, Druid
-* [Irregular Dispersal](../Magic/Spells/irregular-dispersal.md): Artificer, Wizard
-* [Jinx Shot](../Magic/Spells/jinx-shot.md): Artificer, Bard, Warlock
-* [Jinx Touch](../Magic/Spells/jinx-touch.md): Cleric, Pale Master, Sorcerer, Warlock, Wizard
-* [Jolt](../Magic/Spells/jolt.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Know Direction](../Magic/Spells/know-direction.md): Druid, Wizard
-* [Know School](../Magic/Spells/know-school.md): Artificer, Wizard
-* [Lashing Wind](../Magic/Spells/lashing-wind.md): Shaman
-* [Launch Ammunition](../Magic/Spells/launch-ammunition.md): Artificer, Wizard
-* [Leading Strike](../Magic/Spells/leading-strike.md): Artificer, Bard, Cleric
-* [Lesser Acupuncture](../Magic/Spells/lesser-acupuncture.md): Artificer, Cleric, Druid, Sorcerer
-* [Light](../Magic/Spells/light.md): Artificer, Bard, Cleric, Sorcerer, Wizard
-* [Lightning Blade](../Magic/Spells/lightning-blade.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Lightning Lure](../Magic/Spells/lightning-lure.md): Artificer, Sorcerer, Warlock, Wizard
-* [Lightning Speed](../Magic/Spells/lightning-speed.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Looming Shadow](../Magic/Spells/looming-shadow.md): Artificer, Sorcerer, Warlock, Wizard
-* [Lullaby](../Magic/Spells/lullaby.md): Bard
-* [Luring Strike](../Magic/Spells/luring-strike.md): Bard, Sorcerer, Warlock, Wizard
-* [Mage Hand](../Magic/Spells/mage-hand.md): Artificer, Bard, Sorcerer, Warlock, Wizard
-* [Magecraft Focus](../Magic/Spells/magecraft-focus.md): Artificer, Sorcerer, Wizard
-* [Magic Orb](../Magic/Spells/magic-orb.md): Artificer, Sorcerer, Wizard
-* [Magic Stone](../Magic/Spells/magic-stone.md): Artificer, Druid, Warlock
-* [Manipulate Shadow](../Magic/Spells/manipulate-shadow.md): Bard, Druid, Pale Master, Sorcerer, Warlock, Wizard
-* [Melf's Most Mintue Meteor](../Magic/Spells/melfs-most-minute-meteor.md): Wizard
-* [Mending](../Magic/Spells/mending.md): Artificer, Bard, Cleric, Druid, Shaman, Sorcerer, Wizard
-* [Message](../Magic/Spells/message.md): Artificer, Bard, Shaman, Sorcerer, Wizard
-* [Mind Sliver](../Magic/Spells/mind-sliver.md): Sorcerer, Warlock, Wizard
-* [Mindspeak](../Magic/Spells/mindspeak.md): Bard, Druid, Sorcerer
-* [Minor Disguise](../Magic/Spells/minor-disguise.md): Bard, Sorcerer, Wizard
-* [Minor Illusion](../Magic/Spells/minor-illusion.md): Bard, Pale Master, Sorcerer, Warlock, Wizard
-* [Minor Telekinetic Weapon](../Magic/Spells/minor-telekinetic-weapon.md): Artificer, Sorcerer
-* [Mold Earth](../Magic/Spells/mold-earth.md): Druid, Sorcerer, Wizard
-* [Night Terror](../Magic/Spells/night-terror.md): Pale Master, Warlock, Wizard
-* [Pacify](../Magic/Spells/pacify.md): Bard, Cleric, Druid, Pale Master
-* [Peaceful Valediction](../Magic/Spells/peaceful-valediction.md): Cleric, Druid, Pale Master
-* [Peep-Hole](../Magic/Spells/peep-hole.md): Wizard
-* [Phantasmal Assault](../Magic/Spells/phantasmal-assault.md): Sorcerer, Wizard
-* [Phase](../Magic/Spells/phase.md): Sorcerer, Wizard
-* [Piercing Vision](../Magic/Spells/piercing-vision.md): Wizard
-* [Pilfer](../Magic/Spells/pilfer.md): Sorcerer, Wizard
-* [Poison Spray](../Magic/Spells/poison-spray.md): Artificer, Druid, Pale Master, Sorcerer, Warlock, Wizard
-* [Preserve Plant](../Magic/Spells/preserve-plant.md): Wizard
-* [Prestidigitation](../Magic/Spells/prestidigitation.md): Artificer, Bard, Sorcerer, Warlock, Wizard
-* [Primal Savagery](../Magic/Spells/primal-savagery.md): Druid
-* [Produce Flame](../Magic/Spells/produce-flame.md): Druid
-* [Project Object](../Magic/Spells/project-object.md): Artificer, Bard, Sorcerer, Warlock, Wizard
-* [Psychic Shock](../Magic/Spells/psychic-shock.md): Sorcerer
-* [Punishing Strike](../Magic/Spells/punishing-strike.md): Druid, Sorcerer, Warlock, Wizard
-* [Quickling Step](../Magic/Spells/quickling-step.md): Artificer, Druid, Sorcerer, Warlock, Wizard
-* [Rancorous-Mist Blade](../Magic/Spells/rancorous-mist-blade.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Ray of Frost](../Magic/Spells/ray-of-frost.md): Artificer, Sorcerer, Wizard
-* [Razorleaf](../Magic/Spells/razorleaf.md): Druid
-* [Reassurance](../Magic/Spells/reassurance.md): Cleric, Druid
-* [Reaver's Touch](../Magic/Spells/reavers-touch.md): Cleric, Druid, Pale Master, Warlock, Wizard
-* [Refreshing Chill](../Magic/Spells/refreshing-chill.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Remote Viewing](../Magic/Spells/remote-viewing.md): Bard, Sorcerer
-* [Renewal](../Magic/Spells/renewal.md): Artificer, Bard, Cleric, Druid
-* [Resistance](../Magic/Spells/resistance.md): Artificer, Cleric, Druid, Shaman
-* [Sacred Flame](../Magic/Spells/sacred-flame.md): Cleric
-* [Sapping Sting](../Magic/Spells/sapping-sting.md): Wizard
-* [Scourge](../Magic/Spells/scourge.md): Pale Master
-* [Seize Mind](../Magic/Spells/seize-mind.md): Sorcerer, Wizard
-* [Shadow Embrace](../Magic/Spells/shadow-embrace.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Shadow Garrote](../Magic/Spells/shadow-garrote.md): Bard, Druid, Ranger, Shaman, Sorcerer, Wizard
-* [Shadow Ink](../Magic/Spells/shadow-ink.md): Pale Master, Wizard
-* [Shadow Lance](../Magic/Spells/shadow-lance.md): Pale Master, Shaman, Sorcerer, Warlock, Wizard
-* [Shape Water](../Magic/Spells/shape-water.md): Druid, Sorcerer, Wizard
-* [Shawl of the Unseen](../Magic/Spells/shawl-of-the-unseen.md): Bard, Pale Master, Wizard
-* [Shifting Shadow](../Magic/Spells/shifting-shadow.md): Sorcerer, Warlock, Wizard
-* [Shillelagh](../Magic/Spells/shillelagh.md): Druid
-* [Shocking Grasp](../Magic/Spells/shocking-grasp.md): Artificer, Pale Master, Sorcerer, Wizard
-* [Silent Portal](../Magic/Spells/silent-portal.md): Bard, Sorcerer, Wizard
-* [Song of the Dead](../Magic/Spells/song-of-the-dead.md): Bard, Pale Master
-* [Spare the Dying](../Magic/Spells/spare-the-dying.md): Artificer, Cleric, Druid, Pale Master
-* [Spare the Living](../Magic/Spells/spare-the-living.md): Pale Master, Warlock, Wizard
-* [Spear of Rot](../Magic/Spells/spear-of-rot.md): Artificer, Pale Master, Sorcerer, Wizard
-* [Spirit Candles](../Magic/Spells/spirit-candles.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Spiteful Glamour](../Magic/Spells/spiteful-glamour.md): Artificer, Bard, Warlock
-* [Static](../Magic/Spells/static.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Static Shock](../Magic/Spells/static-shock.md): Artificer, Sorcerer, Wizard
-* [Steal Speed](../Magic/Spells/steal-speed.md): Artificer, Sorcerer, Warlock, Wizard
-* [Sudden Awakening](../Magic/Spells/sudden-awakening.md): Bard, Ranger, Sorcerer, Wizard
-* [Sword Burst](../Magic/Spells/sword-burst.md): Artificer, Sorcerer, Warlock, Wizard
-* [Tend Plants](../Magic/Spells/tend-plants.md): Druid, Sorcerer, Wizard
-* [Thaumaturgy](../Magic/Spells/thaumaturgy.md): Cleric
-* [Theatrics](../Magic/Spells/theatrics.md): Artificer, Bard, Sorcerer, Warlock, Wizard
-* [Thieves' Ruse](../Magic/Spells/thieves-ruse.md): Bard, Wizard
-* [Thorn Whip](../Magic/Spells/thorn-whip.md): Artificer, Druid
-* [Thought Blast](../Magic/Spells/thought-blast.md): Sorcerer
-* [Thought Projection](../Magic/Spells/thought-projection.md): Sorcerer
-* [Thunderclap](../Magic/Spells/thunderclap.md): Artificer, Bard, Druid, Sorcerer, Warlock, Wizard
-* [Thunderous Chord](../Magic/Spells/thunderous-chord.md): Bard
-* [Toll the Dead](../Magic/Spells/toll-the-dead.md): Cleric, Pale Master, Warlock, Wizard
-* [Topple](../Magic/Spells/topple.md): Artificer, Bard, Sorcerer, Warlock, Wizard
-* [Tormenting Flame](../Magic/Spells/tormenting-flame.md): Sorcerer, Warlock, Wizard
-* [Touch of Madness](../Magic/Spells/touch-of-madness.md): Shaman
-* [True Strike](../Magic/Spells/true-strike.md): Bard, Sorcerer, Warlock, Wizard
-* [Uncanny Balance](../Magic/Spells/uncanny-balance.md): Artificer, Druid, Wizard
-* [Unhinging Inclination](../Magic/Spells/unhinging-inclination.md): Bard, Cleric
-* [Unholy Flame](../Magic/Spells/unholy-flame.md): Cleric, Pale Master
-* [Veil](../Magic/Spells/veil.md): Wizard
-* [Venom Dart](../Magic/Spells/venom-dart.md): Artificer, Sorcerer, Warlock, Wizard
-* [Venomous Strike](../Magic/Spells/venomous-strike.md): Bard, Druid
-* [Vicious Mockery](../Magic/Spells/vicious-mockery.md): Bard, Shaman
-* [Vile Miasma](../Magic/Spells/vile-miasma.md): Artificer, Cleric, Druid, Pale Master, Wizard
-* [Virtue](../Magic/Spells/virtue.md): Cleric
-* [Virtuous Strike](../Magic/Spells/virtuous-strike.md): Cleric
-* [Voice of Battle](../Magic/Spells/voice-of-battle.md): Artificer, Bard, Cleric
-* [Voidwhisper](../Magic/Spells/voidwhisper.md): Wizard
-* [Wall Run](../Magic/Spells/wall-run.md): Artificer, Warlock
-* [Waning Touch](../Magic/Spells/waning-touch.md): Pale Master
-* [Warmth](../Magic/Spells/warmth.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Weathering](../Magic/Spells/weathering.md): Artificer, Druid, Warlock, Wizard
-* [Whimsybloom](../Magic/Spells/whimsybloom.md): Wizard
-* [Wind Slash](../Magic/Spells/wind-slash.md): Druid, Wizard
-* [Winged Horde](../Magic/Spells/winged-horde.md): Sorcerer, Wizard
-* [Word of Radiance](../Magic/Spells/word-of-radiance.md): Cleric
+* [Acid Splash](./acid-splash.md) (Artificer,Sorcerer,Wizard)
+* [Alchemical Grenade](./alchemical-grenade.md) (Wizard)
+* [Amanuensis](./amanuensis.md) (Artificer,Bard,Cleric,Sorcerer,Warlock,Wizard)
+* [Ammar's Waterspout](./ammars-waterspout.md) (Artificer,Druid,Sorcerer,Warlock,Wizard)
+* [Arcane Sensitivity](./arcane-sensitivity.md) (Sorcerer,Wizard)
+* [Ascending Flame](./ascending-flame.md) (Cleric)
+* [Astral Seal](./astral-seal.md) (Cleric)
+* [Balance](./balance.md) (Artificer,Bard,Cleric,Druid,Pale Master,Shaman,Sorcerer,Warlock,Wizard)
+* [Benediction](./benediction.md) (Bard,Cleric)
+* [Blade Ward](./blade-ward.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Blade of Focus](./blade-of-focus.md) *brandish* (Bard,Sorcerer,Warlock,Wizard)
+* [Blazing Starfall](./blazing-starfall.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Blood Boil](./blood-boil.md) (Sorcerer,Warlock,Wizard)
+* [Blood Curdle](./blood-curdle.md) (Sorcerer,Warlock,Wizard)
+* [Blood Curse](./blood-curse.md) (Cleric,Pale Master,Shaman,Warlock,Wizard)
+* [Blood Dagger](./blood-dagger.md) (Sorcerer,Warlock)
+* [Blood Siphon](./blood-siphon.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Bloodlink](./bloodlink.md) (Cleric,Pale Master,Sorcerer,Warlock)
+* [Blurred Step](./blurred-step.md) (Sorcerer)
+* [Bolster](./bolster.md) (Artificer,Bard,Cleric,Druid,Pale Master,Shaman,Sorcerer,Warlock,Wizard)
+* [Bone Lance](./bone-lance.md) (Artificer,Pale Master,Sorcerer,Wizard)
+* [Booming Blade](./booming-blade.md) *brandish* (Artificer,Sorcerer,Warlock,Wizard)
+* [Brace](./brace.md) (Bard,Cleric)
+* [Camouflage](./camouflage.md) (Artificer,Bard,Druid,Sorcerer,Wizard)
+* [Catfeet](./catfeet.md) (Artificer,Druid)
+* [Caustic Blade](./caustic-blade.md) *brandish* (Sorcerer,Warlock,Wizard)
+* [Challenger's Mark](./challengers-mark.md) (Artificer,Cleric,Sorcerer,Warlock,Wizard)
+* [Chill Touch](./chill-touch.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Cinder Flare](./cinder-flare.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Cloak of Adeamoz](./cloak-of-adeamoz.md) (Artificer,Cleric)
+* [Commendation](./commendation.md) (Cleric)
+* [Conflagrate](./conflagrate.md) (Sorcerer,Warlock,Wizard)
+* [Conjure Arms](./conjure-arms.md) (Artificer,Bard,Cleric,Sorcerer,Wizard)
+* [Conjure Caltrops](./conjure-caltrops.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Control Flames](./control-flames.md) (Druid,Sorcerer,Wizard)
+* [Corruption](./corruption.md) (Pale Master,Warlock,Wizard)
+* [Courage](./courage.md) (Bard,Cleric,Druid)
+* [Create Bonfire](./create-bonfire.md) (Artificer,Druid,Shaman,Sorcerer,Warlock,Wizard)
+* [Create Item](./create-item.md) (Artificer,Bard,Druid,Sorcerer,Wizard)
+* [Dancing Lights](./dancing-lights.md) (Artificer,Bard,Pale Master,Sorcerer,Wizard)
+* [Dazzle](./dazzle.md) (Bard,Cleric,Druid,Wizard)
+* [Decompose](./decompose.md) (Cleric)
+* [Detect Dragonblood](./detect-dragonblood.md) (Druid,Sorcerer)
+* [Dimensional Pocket](./dimensional-pocket.md) (Bard,Cleric,Warlock,Wizard)
+* [Dire Radiance](./dire-radiance.md) (Wizard)
+* [Disarm](./disarm.md) (Bard,Cleric,Wizard)
+* [Druidcraft](./druidcraft.md) (Druid,Shaman)
+* [Duplicate Soul Object](./duplicate-soul-object.md) (Wizard)
+* [Earth Stomp](./earth-stomp.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Echoing Blow](./echoing-blow.md) (Artificer,Bard,Sorcerer,Warlock,Wizard)
+* [Eerie Glare](./eerie-glare.md) (Sorcerer,Wizard)
+* [Ego Shock](./ego-shock.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Eidolic Chains](./eidolic-chains.md) (Bard,Pale Master,Sorcerer,Warlock,Wizard)
+* [Eldritch Blade](./eldritch-blade.md) *brandish* (Bard,Sorcerer,Wizard)
+* [Eldritch Blast](./eldritch-blast.md) (Warlock)
+* [Encode Thoughts](./encode-thoughts.md) (Wizard)
+* [Far Hearing](./far-hearing.md) (Bard,Druid,Sorcerer,Warlock,Wizard)
+* [Far Realm Gaze](./far-realm-gaze.md) (Cleric,Warlock,Wizard)
+* [Fell Strike](./fell-strike.md) (Cleric,Druid,Sorcerer,Warlock,Wizard)
+* [Feywild Guardian](./feywild-guardian.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Fingers of Divinity](./fingers-of-divinity.md) (Cleric)
+* [Fire Bolt](./fire-bolt.md) (Artificer,Sorcerer,Wizard)
+* [Fire Hawk](./fire-hawk.md) (Druid)
+* [Flame Ward](./flame-ward.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Flame Wreath](./flame-wreath.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Flechette](./flechette.md) (Wizard)
+* [Fleet Foot](./fleet-foot.md) (Wizard)
+* [Focused Discipline](./focused-discipline.md) (Bard,Cleric,Wizard)
+* [Foot Freeze](./foot-freeze.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Forbidding Strike](./forbidding-strike.md) (Sorcerer,Warlock,Wizard)
+* [Force Push](./force-push.md) (Sorcerer)
+* [Force Strike](./force-strike.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Fortifying Cry](./fortifying-cry.md) (Artificer,Bard,Cleric)
+* [Friends](./friends.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Frigid Grasp](./frigid-grasp.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Frost Trap](./frost-trap.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Frostbite](./frostbite.md) (Artificer,Druid,Sorcerer,Warlock,Wizard)
+* [Frostwind Blade](./frostwind-blade.md) *brandish* (Druid,Sorcerer,Warlock,Wizard)
+* [Gather Power](./gather-power.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Ghostharp](./ghostharp.md) (Bard)
+* [Glacial Blade](./glacial-blade.md) *brandish* (Sorcerer,Warlock,Wizard)
+* [Gleam](./gleam.md) (Bard,Cleric,Sorcerer,Wizard)
+* [Glimmering Blade](./glimmering-blade.md) *brandish* (Artificer,Druid,Sorcerer,Warlock,Wizard)
+* [Glimpse of Madness](./glimpse-of-madness.md) (Sorcerer,Warlock,Wizard)
+* [Gloom](./gloom.md) (Bard,Cleric,Druid,Pale Master,Warlock,Wizard)
+* [Gore Spike](./gore-spike.md) (Sorcerer,Warlock,Wizard)
+* [Grave Reminder](./grave-reminder.md) (Cleric,Pale Master)
+* [Green-Flame Blade](./green-flame-blade.md) *brandish* (Artificer,Sorcerer,Warlock,Wizard)
+* [Grim Scythe](./grim-scythe.md) (Pale Master,Warlock,Wizard)
+* [Grimlore's Influence](./grimlores-influence.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Guard](./guard.md) (Artificer,Bard,Cleric,Sorcerer,Warlock,Wizard)
+* [Guidance](./guidance.md) (Artificer,Cleric,Druid,Shaman)
+* [Gust](./gust.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Hand of Radiance](./hand-of-radiance.md) (Cleric)
+* [Hemokinesis](./hemokinesis.md) (Sorcerer,Warlock,Wizard)
+* [Hinder](./hinder.md) (Sorcerer,Warlock,Wizard)
+* [Horizon Strike](./horizon-strike.md) (Sorcerer,Warlock,Wizard)
+* [Ice Missile](./ice-missile.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Ice Shard](./ice-shard.md) (Sorcerer,Wizard)
+* [Ice Ward](./ice-ward.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Icon of Fear](./icon-of-fear.md) (Artificer,Bard,Cleric,Sorcerer,Warlock,Wizard)
+* [Inevitable Wave](./inevitable-wave.md) (Artificer,Bard,Cleric,Warlock,Wizard)
+* [Infestation](./infestation.md) (Druid,Pale Master,Sorcerer,Warlock,Wizard)
+* [Intent Laid Bare](./intent-laid-bare.md) (Bard,Cleric,Druid,Sorcerer,Warlock,Wizard)
+* [Internal Compass](./internal-compass.md) (Artificer,Druid)
+* [Irregular Dispersal](./irregular-dispersal.md) (Artificer,Wizard)
+* [Jinx Shot](./jinx-shot.md) (Artificer,Bard,Warlock)
+* [Jinx Touch](./jinx-touch.md) (Cleric,Pale Master,Sorcerer,Warlock,Wizard)
+* [Jolt](./jolt.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Know Direction](./know-direction.md) (Druid,Wizard)
+* [Know School](./know-school.md) (Artificer,Wizard)
+* [Lashing Wind](./lashing-wind.md) (Shaman)
+* [Launch Ammunition](./launch-ammunition.md) (Artificer,Wizard)
+* [Leading Strike](./leading-strike.md) (Artificer,Bard,Cleric)
+* [Lesser Acupuncture](./lesser-acupuncture.md) (Artificer,Cleric,Druid,Sorcerer)
+* [Light](./light.md) (Artificer,Bard,Cleric,Sorcerer,Wizard)
+* [Lightning Blade](./lightning-blade.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Lightning Lure](./lightning-lure.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Lightning Shot](./lightning-shot.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Lightning Speed](./lightning-speed.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Looming Shadow](./looming-shadow.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Lullaby](./lullaby.md) (Bard)
+* [Luring Strike](./luring-strike.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Mage Hand](./mage-hand.md) (Artificer,Bard,Sorcerer,Warlock,Wizard)
+* [Magecraft Focus](./magecraft-focus.md) (Artificer,Sorcerer,Wizard)
+* [Magic Orb](./magic-orb.md) (Artificer,Sorcerer,Wizard)
+* [Magic Stone](./magic-stone.md) (Artificer,Druid,Warlock)
+* [Manipulate Shadow](./manipulate-shadow.md) (Bard,Druid,Pale Master,Sorcerer,Warlock,Wizard)
+* [Melf's Most Mintue Meteor](./melfs-most-minute-meteor.md) (Wizard)
+* [Mending](./mending.md) (Artificer,Bard,Cleric,Druid,Shaman,Sorcerer,Wizard)
+* [Message](./message.md) (Artificer,Bard,Shaman,Sorcerer,Wizard)
+* [Mind Bolt](./mind-bolt.md) (Sorcerer,Warlock,Wizard)
+* [Mind Sliver](./mind-sliver.md) (Sorcerer,Warlock,Wizard)
+* [Mindspeak](./mindspeak.md) (Bard,Druid,Sorcerer)
+* [Minor Disguise](./minor-disguise.md) (Bard,Sorcerer,Wizard)
+* [Minor Illusion](./minor-illusion.md) (Bard,Pale Master,Sorcerer,Warlock,Wizard)
+* [Minor Telekinetic Weapon](./minor-telekinetic-weapon.md) *brandish, psionic* (Artificer,Sorcerer)
+* [Mold Earth](./mold-earth.md) (Druid,Sorcerer,Wizard)
+* [Nauseate](./nauseate.md) (Artificer,Druid,Pale Master,Sorcerer,Warlock,Wizard)
+* [Night Terror](./night-terror.md) (Pale Master,Warlock,Wizard)
+* [Overheat](./overheat.md) (Sorcerer,Wizard)
+* [Pacify](./pacify.md) (Bard,Cleric,Druid,Pale Master)
+* [Peaceful Valediction](./peaceful-valediction.md) (Cleric,Druid,Pale Master)
+* [Peep-Hole](./peep-hole.md) (Wizard)
+* [Petal Shear](./petal-shear.md) (Sorcerer,Wizard)
+* [Phantasmal Assault](./phantasmal-assault.md) (Sorcerer,Wizard)
+* [Phase](./phase.md) (Sorcerer,Wizard)
+* [Piercing Vision](./piercing-vision.md) (Wizard)
+* [Pilfer](./pilfer.md) (Sorcerer,Wizard)
+* [Poison Spray](./poison-spray.md) (Artificer,Druid,Pale Master,Sorcerer,Warlock,Wizard)
+* [Preserve Plant](./preserve-plant.md) (Wizard)
+* [Prestidigitation](./prestidigitation.md) (Artificer,Bard,Sorcerer,Warlock,Wizard)
+* [Primal Savagery](./primal-savagery.md) (Druid)
+* [Produce Flame](./produce-flame.md) (Druid)
+* [Project Object](./project-object.md) (Artificer,Bard,Sorcerer,Warlock,Wizard)
+* [Psychic Shock](./psychic-shock.md) (Sorcerer)
+* [Punishing Strike](./punishing-strike.md) *brandish* (Druid,Sorcerer,Warlock,Wizard)
+* [Quickling Step](./quickling-step.md) (Artificer,Druid,Sorcerer,Warlock,Wizard)
+* [Rancorous-Mist Blade](./rancorous-mist-blade.md) *brandish* (Pale Master,Sorcerer,Warlock,Wizard)
+* [Ray of Frost](./ray-of-frost.md) (Artificer,Sorcerer,Wizard)
+* [Ray of Necrosis](./ray-of-necrosis.md) (Sorcerer,Wizard)
+* [Ray of Radiance](./ray-of-radiance.md) (Sorcerer,Wizard)
+* [Razorleaf](./razorleaf.md) (Druid)
+* [Reassurance](./reassurance.md) (Cleric,Druid)
+* [Reaver's Touch](./reavers-touch.md) (Cleric,Druid,Pale Master,Warlock,Wizard)
+* [Refreshing Chill](./refreshing-chill.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Remote Viewing](./remote-viewing.md) (Bard,Sorcerer)
+* [Renewal](./renewal.md) (Artificer,Bard,Cleric,Druid)
+* [Resistance](./resistance.md) (Artificer,Cleric,Druid,Shaman)
+* [Sacred Flame](./sacred-flame.md) (Cleric)
+* [Sapping Sting](./sapping-sting.md) (Wizard)
+* [Scholar's Curse](./scholars-curse.md) (Sorcerer,Warlock,Wizard)
+* [Scourge](./scourge.md) (Pale Master)
+* [Seize Mind](./seize-mind.md) (Sorcerer,Wizard)
+* [Shadow Embrace](./shadow-embrace.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Shadow Garrote](./shadow-garrote.md) (Bard,Druid,Ranger,Shaman,Sorcerer,Wizard)
+* [Shadow Ink](./shadow-ink.md) (Pale Master,Wizard)
+* [Shadow Lance](./shadow-lance.md) (Pale Master,Shaman,Sorcerer,Warlock,Wizard)
+* [Shape Water](./shape-water.md) (Druid,Sorcerer,Wizard)
+* [Shawl of the Unseen](./shawl-of-the-unseen.md) (Bard,Pale Master,Wizard)
+* [Shifting Shadow](./shifting-shadow.md) (Sorcerer,Warlock,Wizard)
+* [Shillelagh](./shillelagh.md) (Druid)
+* [Shocking Grasp](./shocking-grasp.md) (Artificer,Pale Master,Sorcerer,Wizard)
+* [Shrill Note](./shrill-note.md) (Bard)
+* [Silent Portal](./silent-portal.md) (Bard,Sorcerer,Wizard)
+* [Siren's Touch](./sirens-touch.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Song of the Dead](./song-of-the-dead.md) (Bard,Pale Master)
+* [Spare the Dying](./spare-the-dying.md) (Artificer,Cleric,Druid,Pale Master)
+* [Spare the Living](./spare-the-living.md) (Pale Master,Warlock,Wizard)
+* [Spear of Rot](./spear-of-rot.md) (Pale Master,Sorcerer,Wizard)
+* [Spirit Candles](./spirit-candles.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Spiteful Glamour](./spiteful-glamour.md) (Artificer,Bard,Warlock)
+* [Static](./static.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Static Shock](./static-shock.md) (Artificer,Sorcerer,Wizard)
+* [Steal Speed](./steal-speed.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Sudden Awakening](./sudden-awakening.md) (Bard,Ranger,Sorcerer,Wizard)
+* [Summer’s Touch](./summer’s-touch.md) (Druid,Sorcerer,Warlock)
+* [Surgical Ray](./surgical-ray.md) (Wizard)
+* [Sword Burst](./sword-burst.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Tend Plants](./tend-plants.md) (Druid,Sorcerer,Wizard)
+* [Thaumaturgy](./thaumaturgy.md) (Cleric)
+* [Theatrics](./theatrics.md) (Artificer,Bard,Sorcerer,Warlock,Wizard)
+* [Thieves' Ruse](./thieves-ruse.md) (Bard,Wizard)
+* [Thorn Whip](./thorn-whip.md) (Artificer,Druid)
+* [Thought Blast](./thought-blast.md) (Sorcerer)
+* [Thought Projection](./thought-projection.md) (Sorcerer)
+* [Thunderclap](./thunderclap.md) (Artificer,Bard,Druid,Sorcerer,Warlock,Wizard)
+* [Thunderous Chord](./thunderous-chord.md) (Bard)
+* [Toll the Dead](./toll-the-dead.md) (Cleric,Pale Master,Warlock,Wizard)
+* [Topple](./topple.md) (Artificer,Bard,Sorcerer,Warlock,Wizard)
+* [Tormenting Flame](./tormenting-flame.md) (Sorcerer,Warlock,Wizard)
+* [Touch of Madness](./touch-of-madness.md) (Shaman)
+* [Toxic Cloud](./toxic-cloud.md) (Artificer,Druid,Shaman,Sorcerer,Warlock,Wizard)
+* [True Strike](./true-strike.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Uncanny Balance](./uncanny-balance.md) (Artificer,Druid,Wizard)
+* [Unhinging Inclination](./unhinging-inclination.md) (Bard,Cleric)
+* [Unholy Flame](./unholy-flame.md) (Cleric,Pale Master)
+* [Vector Strike](./vector-strike.md) (Sorcerer,Warlock,Wizard)
+* [Veil](./veil.md) (Wizard)
+* [Venom Dart](./venom-dart.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Venomous Strike](./venomous-strike.md) (Bard,Druid)
+* [Vicious Mockery](./vicious-mockery.md) (Bard,Shaman)
+* [Vile Miasma](./vile-miasma.md) (Artificer,Cleric,Druid,Pale Master,Wizard)
+* [Virtue](./virtue.md) (Cleric)
+* [Virtuous Strike](./virtuous-strike.md) (Cleric)
+* [Voice of Battle](./voice-of-battle.md) (Artificer,Bard,Cleric)
+* [Voidwhisper](./voidwhisper.md) (Wizard)
+* [Wall Run](./wall-run.md) (Artificer,Warlock)
+* [Waning Touch](./waning-touch.md) (Pale Master)
+* [Waning Vigor](./waning-vigor.md) (Artificer,Cleric,Pale Master,Sorcerer,Warlock,Wizard)
+* [Warmth](./warmth.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Weathering](./weathering.md) (Artificer,Druid,Warlock,Wizard)
+* [Welding Hand](./welding-hand.md) (Wizard)
+* [Whimsybloom](./whimsybloom.md) (Wizard)
+* [Wind Slam](./wind-slam.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Wind Slash](./wind-slash.md) (Druid,Wizard)
+* [Winged Horde](./winged-horde.md) (Sorcerer,Wizard)
+* [Winter’s Touch](./winter’s-touch.md) (Druid,Sorcerer,Warlock)
+* [Word of Radiance](./word-of-radiance.md) (Cleric)
  
 ## 1st-Level Spells
-* [Ablative Armor](../Magic/Spells/ablative-armor.md): Artificer, Cleric, Paladin
-* [Absorb Elements](../Magic/Spells/absorb-elements.md): Artificer, Druid, Ranger, Shaman, Sorcerer, Wizard
-* [Acid Stream](../Magic/Spells/acid-stream.md): Sorcerer, Wizard
-* [Acrid Delight](../Magic/Spells/acrid-delight.md): Bard, Druid, Pale Master, Wizard
-* [Active Momentum](../Magic/Spells/active-momentum.md): Artificer, Warlock, Wizard
-* [Agile Defense](../Magic/Spells/agile-defense.md): Ranger, Sorcerer
-* [Air Jaunt](../Magic/Spells/air-jaunt.md): Artificer, Cleric, Druid
-* [Alacritous Interpretation](../Magic/Spells/alacritous-interpretation.md): Pale Master, Wizard
-* [Alarm](../Magic/Spells/alarm.md): Artificer, Ranger, Wizard
-* [Alienated Mind](../Magic/Spells/alienated-mind.md): Bard, Warlock, Wizard
-* [Ammar's Conflagration](../Magic/Spells/ammars-conflagration.md): Druid, Sorcerer, Wizard
-* [Amplify Sound](../Magic/Spells/amplify-sound.md): Bard
-* [Angry Ache](../Magic/Spells/angry-ache.md): Bard, Cleric
-* [Animal Friendship](../Magic/Spells/animal-friendship.md): Bard, Druid, Ranger
-* [Animate Cranium](../Magic/Spells/animate-cranium.md): Pale Master
-* [Animate Percussion](../Magic/Spells/animate-percussion.md): Bard, Wizard
-* [Appraising Touch](../Magic/Spells/appraising-touch.md): Artificer, Bard, Sorcerer, Wizard
-* [Arcane Weapon](../Magic/Spells/arcane-weapon.md): Wizard
-* [Armor of Agathys](../Magic/Spells/armor-of-agathys.md): Warlock
-* [Arms of Hadar](../Magic/Spells/arms-of-hadar.md): Pale Master, Warlock
-* [Arrow Mind](../Magic/Spells/arrow-mind.md): Sorcerer, Warlock, Wizard
-* [Aspect of the Wolf](../Magic/Spells/aspect-of-the-wolf.md): Artificer, Druid, Ranger
-* [Attract Projectiles](../Magic/Spells/attract-projectiles.md): Artificer, Bard, Cleric, Paladin, Ranger
-* [Bane](../Magic/Spells/bane.md): Bard, Cleric, Pale Master
-* [Barrier](../Magic/Spells/barrier.md): Artificer, Bard, Cleric, Druid, Paladin, Ranger
-* [Battle Cry](../Magic/Spells/battle-cry.md): Bard, Cleric, Paladin
-* [Battle Guardian's Aura](../Magic/Spells/battle-guardians-aura.md): Artificer, Paladin, Warlock, Wizard
-* [Battlefate](../Magic/Spells/battlefate.md): Cleric, Sorcerer, Wizard
-* [Beast Bond](../Magic/Spells/beast-bond.md): Druid, Ranger, Shaman
-* [Beast Claws](../Magic/Spells/beast-claws.md): Druid, Ranger
-* [Beastlands Ferocity](../Magic/Spells/beastlands-ferocity.md): Bard, Druid, Ranger
-* [Beguile](../Magic/Spells/beguile.md): Bard, Sorcerer, Warlock
-* [Beluud's Corrosive Caress](../Magic/Spells/beluuds-corrosive-caress.md): Artificer, Sorcerer, Warlock, Wizard
-* [Bestow Wound](../Magic/Spells/bestow-wound.md): Cleric, Paladin
-* [Blackout](../Magic/Spells/blackout.md): Artificer, Bard, Cleric, Druid, Pale Master, Ranger, Shaman, Sorcerer, Warlock, Wizard
-* [Blade of Nightmares](../Magic/Spells/blade-of-nightmares.md): Artificer, Paladin, Warlock, Wizard
-* [Bless](../Magic/Spells/bless.md): Cleric, Paladin
-* [Blessed Aim](../Magic/Spells/blessed-aim.md): Cleric, Paladin
-* [Blood Reading](../Magic/Spells/blood-reading.md): Cleric, Shaman, Sorcerer, Warlock, Wizard
-* [Blood Wind](../Magic/Spells/blood-wind.md): Bard, Cleric, Druid, Ranger, Sorcerer, Warlock, Wizard
-* [Bloodhound](../Magic/Spells/bloodhound.md): Ranger
-* [Blur of Motion](../Magic/Spells/blur-of-motion.md): Ranger, Sorcerer, Warlock, Wizard
-* [Bone Storm](../Magic/Spells/bone-storm.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Burning Hands](../Magic/Spells/burning-hands.md): Sorcerer, Wizard
-* [Candle Trick](../Magic/Spells/candle-trick.md): Artificer, Bard, Druid, Ranger
-* [Catapult](../Magic/Spells/catapult.md): Artificer, Sorcerer, Wizard
-* [Cause Fear](../Magic/Spells/cause-fear.md): Pale Master, Warlock, Wizard
-* [Caustic Wound](../Magic/Spells/caustic-wound.md): Sorcerer, Wizard
-* [Cauterizing Flame](../Magic/Spells/cauterizing-flame.md): Cleric, Paladin
-* [Celestial Fist](../Magic/Spells/celestial-fist.md): Cleric
-* [Ceremony](../Magic/Spells/ceremony.md): Cleric, Paladin
-* [Chameleon Stance](../Magic/Spells/chameleon-stance.md): Bard, Sorcerer, Wizard
-* [Chaos Bolt](../Magic/Spells/chaos-bolt.md): Sorcerer
-* [Charm Person](../Magic/Spells/charm-person.md): Bard, Druid, Shaman, Sorcerer, Warlock, Wizard
-* [Chill Air](../Magic/Spells/chill-air.md): Sorcerer, Warlock, Wizard
-* [Chill of the Grave](../Magic/Spells/chill-of-the-grave.md): Cleric, Pale Master, Sorcerer, Warlock, Wizard
-* [Chilling Blow](../Magic/Spells/chilling-blow.md): Druid, Paladin, Ranger, Warlock
-* [Chromatic Orb](../Magic/Spells/chromatic-orb.md): Sorcerer, Wizard
-* [Cleansing Touch](../Magic/Spells/cleansing-touch.md): Artificer, Bard, Cleric, Paladin
-* [Coalstone](../Magic/Spells/coalstone.md): Artificer, Cleric, Sorcerer, Warlock, Wizard
-* [Cold Fire](../Magic/Spells/cold-fire.md): Cleric, Paladin
-* [Coldsnap](../Magic/Spells/coldsnap.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Color Spray](../Magic/Spells/color-spray.md): Bard, Sorcerer, Wizard
-* [Command](../Magic/Spells/command.md): Bard, Cleric, Paladin, Shaman
-* [Compelled Duel](../Magic/Spells/compelled-duel.md): Paladin
-* [Comprehend Languages](../Magic/Spells/comprehend-languages.md): Bard, Sorcerer, Warlock, Wizard
-* [Conjure Critters](../Magic/Spells/conjure-critters.md): Druid, Ranger
-* [Corpse Link](../Magic/Spells/corpse-link.md): Artificer, Sorcerer, Warlock, Wizard
-* [Corpse Visage](../Magic/Spells/corpse-visage.md): Sorcerer, Warlock, Wizard
-* [Courtier's Cover](../Magic/Spells/courtiers-cover.md): Bard
-* [Create Poison](../Magic/Spells/create-poison.md): Artificer, Bard, Druid, Ranger, Warlock, Wizard
-* [Create or Destroy Water](../Magic/Spells/create-or-destroy-water.md): Cleric, Druid
-* [Creeping Crawling Claw](../Magic/Spells/creeping-crawling-claw.md): Pale Master, Warlock, Wizard
-* [Critical Strike](../Magic/Spells/critical-strike.md): Bard, Sorcerer, Wizard
-* [Cure Wounds](../Magic/Spells/cure-wounds.md): Artificer, Bard, Cleric, Druid, Paladin, Ranger, Shaman
-* [Cursed with Undeath](../Magic/Spells/cursed-with-undeath.md): Pale Master, Warlock, Wizard
-* [Dark Pact](../Magic/Spells/dark-pact.md): Pale Master
-* [Dead End](../Magic/Spells/dead-end.md): Bard, Druid, Ranger
-* [Dead Man's Tell](../Magic/Spells/dead-mans-tell.md): Druid, Pale Master, Warlock, Wizard
-* [Death's Grasp](../Magic/Spells/deaths-grasp.md): Pale Master, Warlock, Wizard
-* [Deathwatch](../Magic/Spells/deathwatch.md): Artificer, Cleric
-* [Deep Breath](../Magic/Spells/deep-breath.md): Sorcerer, Warlock, Wizard
-* [Defensive Casting](../Magic/Spells/defensive-casting.md): Artificer, Wizard
-* [Deflecting Shield](../Magic/Spells/deflecting-shield.md): Artificer, Bard, Cleric, Paladin, Sorcerer, Wizard
-* [Delude](../Magic/Spells/delude.md): Bard, Sorcerer, Warlock, Wizard
-* [Detect Chaos and Order](../Magic/Spells/detect-chaos-and-order.md): Cleric, Paladin
-* [Detect Evil and Good](../Magic/Spells/detect-evil-and-good.md): Cleric, Paladin, Shaman
-* [Detect Magic](../Magic/Spells/detect-magic.md): Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard
-* [Detect Poison and Disease](../Magic/Spells/detect-poison-and-disease.md): Cleric, Druid, Paladin, Ranger, Shaman
-* [Dictation](../Magic/Spells/dictation.md): Artificer, Bard, Cleric
-* [Dimensional Window](../Magic/Spells/dimensional-window.md): Wizard
-* [Disarming Force](../Magic/Spells/disarming-force.md): Artificer, Bard, Paladin, Ranger, Sorcerer, Wizard
-* [Disguise Self](../Magic/Spells/disguise-self.md): Artificer, Bard, Sorcerer, Wizard
-* [Disguised Blast](../Magic/Spells/disguised-blast.md): Sorcerer, Warlock, Wizard
-* [Dishearten](../Magic/Spells/dishearten.md): Shaman, Wizard
-* [Dissonant Whispers](../Magic/Spells/dissonant-whispers.md): Bard, Shaman
-* [Distort Speech](../Magic/Spells/distort-speech.md): Bard
-* [Distort Value](../Magic/Spells/distort-value.md): Bard, Sorcerer, Warlock, Wizard
-* [Divine Arm](../Magic/Spells/divine-arm.md): Cleric, Paladin
-* [Divine Favor](../Magic/Spells/divine-favor.md): Paladin
-* [Divine Sacrifice](../Magic/Spells/divine-sacrifice.md): Cleric, Paladin
-* [Divine Sanction](../Magic/Spells/divine-sanction.md): Paladin
-* [Drawmij's Light Step](../Magic/Spells/drawmijs-light-step.md): Bard, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Dread](../Magic/Spells/dread.md): Pale Master, Warlock, Wizard
-* [Dread Provocation](../Magic/Spells/dread-provocation.md): Paladin, Warlock
-* [Dread Revelation](../Magic/Spells/dread-revelation.md): Bard, Cleric, Paladin, Warlock, Wizard
-* [Earth Tremor](../Magic/Spells/earth-tremor.md): Bard, Druid, Sorcerer, Wizard
-* [Earthen Grace](../Magic/Spells/earthen-grace.md): Druid, Ranger, Sorcerer, Wizard
-* [Earthen Grip](../Magic/Spells/earthen-grip.md): Druid, Sorcerer, Wizard
-* [Earthen Pillar](../Magic/Spells/earthen-pillar.md): Druid, Wizard
-* [Easy Trail](../Magic/Spells/easy-trail.md): Druid, Ranger
-* [Ego Lash](../Magic/Spells/ego-lash.md): Sorcerer
-* [Eldritch Alertness](../Magic/Spells/eldritch-alertness.md): Artificer, Bard, Ranger, Wizard
-* [Eldritch Speed](../Magic/Spells/eldritch-speed.md): Artificer, Ranger, Sorcerer, Warlock, Wizard
-* [Elemental Burst](../Magic/Spells/elemental-burst.md): Artificer, Druid, Sorcerer, Wizard
-* [Emerald Bands](../Magic/Spells/emerald-bands.md): Wizard
-* [Emparadweomer](../Magic/Spells/emparadweomer.md): Wizard
-* [Empathic Sense](../Magic/Spells/empathic-sense.md): Bard, Cleric
-* [Endure Elements](../Magic/Spells/endure-elements.md): Cleric, Druid, Ranger
-* [Energy Alteration](../Magic/Spells/energy-alteration.md): Sorcerer, Wizard
-* [Enrage Animals](../Magic/Spells/enrage-animals.md): Bard, Druid, Ranger, Warlock
-* [Ensnaring Strike](../Magic/Spells/ensnaring-strike.md): Ranger
-* [Entangle](../Magic/Spells/entangle.md): Druid, Ranger, Shaman
-* [Entropic Shield](../Magic/Spells/entropic-shield.md): Artificer, Bard, Cleric
-* [Expeditious Retreat](../Magic/Spells/expeditious-retreat.md): Artificer, Sorcerer, Warlock, Wizard
-* [Exploit Opening](../Magic/Spells/exploit-opening.md): Bard, Ranger, Wizard
-* [Faerie Fire](../Magic/Spells/faerie-fire.md): Artificer, Bard, Druid, Shaman
-* [False Life](../Magic/Spells/false-life.md): Artificer, Pale Master, Sorcerer, Wizard
-* [Feather Fall](../Magic/Spells/feather-fall.md): Artificer, Bard, Sorcerer, Wizard
-* [Fiery Wrath](../Magic/Spells/fiery-wrath.md): Druid, Sorcerer, Wizard
-* [Find Familiar](../Magic/Spells/find-familiar.md): Wizard
-* [Fist of Wood](../Magic/Spells/fist-of-wood.md): Druid, Sorcerer, Wizard
-* [Flame Slash](../Magic/Spells/flame-slash.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Flare](../Magic/Spells/flare.md): Artificer, Bard, Cleric, Sorcerer, Wizard
-* [Flash](../Magic/Spells/flash.md): Cleric, Paladin, Sorcerer, Wizard
-* [Flechette Spray](../Magic/Spells/flechette-spray.md): Wizard
-* [Foesnare](../Magic/Spells/foesnare.md): Artificer, Warlock, Wizard
-* [Fog Cloud](../Magic/Spells/fog-cloud.md): Druid, Ranger, Shaman, Sorcerer, Wizard
-* [Forceful Query](../Magic/Spells/forceful-query.md): Bard, Sorcerer
-* [Foundation of Stone](../Magic/Spells/foundation-of-stone.md): Cleric, Druid
-* [Frightful Strike](../Magic/Spells/frightful-strike.md): Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard
-* [Frost Fingers](../Magic/Spells/frost-fingers.md): Cleric, Druid, Wizard
-* [Gamour Veil](../Magic/Spells/glamour-veil.md): Bard, Ranger, Sorcerer, Warlock, Wizard
-* [Gemidan's Icicle](../Magic/Spells/gemidans-icicle.md): Sorcerer, Warlock, Wizard
-* [Gemstone Fission](../Magic/Spells/gemstone-fission.md): Wizard
-* [Ghostly Tail](../Magic/Spells/ghostly-tail.md): Paladin, Ranger, Sorcerer
-* [Ghoul Light](../Magic/Spells/ghoul-light.md): Sorcerer, Warlock, Wizard
-* [Gift of Alacrity](../Magic/Spells/gift-of-alacrity.md): Wizard
-* [Glide](../Magic/Spells/glide.md): Artificer, Druid, Ranger, Sorcerer, Wizard
-* [Goodberry](../Magic/Spells/goodberry.md): Druid, Ranger
-* [Grasping Limb](../Magic/Spells/grasping-limb.md): Sorcerer, Wizard
-* [Grease](../Magic/Spells/grease.md): Artificer, Sorcerer, Wizard
-* [Great Watcher Spirit](../Magic/Spells/great-watcher-spirit.md): Druid, Shaman
-* [Grimlore's Shadowblight](../Magic/Spells/grimlores-shadowblight.md): Pale Master, Shaman, Sorcerer, Warlock, Wizard
-* [Guided Shot](../Magic/Spells/guided-shot.md): Artificer, Ranger, Sorcerer, Wizard
-* [Guiding Bolt](../Magic/Spells/guiding-bolt.md): Cleric
-* [Guiding Hand](../Magic/Spells/guiding-hand.md): Bard, Cleric, Druid, Wizard
-* [Guillotine](../Magic/Spells/guillotine.md): Pale Master, Wizard
-* [Hail of Thorns](../Magic/Spells/hail-of-thorns.md): Ranger
-* [Halo of Glory](../Magic/Spells/halo-of-glory.md): Cleric, Paladin
-* [Hand of the Sorcerer King](../Magic/Spells/hand-of-the-sorcerer-king.md): Cleric, Paladin
-* [Healing Elixir](../Magic/Spells/healing-elixir.md): Warlock, Wizard
-* [Healing Word](../Magic/Spells/healing-word.md): Bard, Cleric, Druid
-* [Hellish Rebuke](../Magic/Spells/hellish-rebuke.md): Warlock
-* [Helm's Everwatchful Eye](../Magic/Spells/helms-everwatchful-eye.md): Cleric, Paladin
-* [Herald's Call](../Magic/Spells/heralds-call.md): Bard
-* [Heroism](../Magic/Spells/heroism.md): Bard, Paladin, Shaman
-* [Hex](../Magic/Spells/hex.md): Shaman, Warlock
-* [Hibernate](../Magic/Spells/hibernate.md): Druid, Ranger
-* [Hornung's Deflector](../Magic/Spells/hornungs-deflector.md): Cleric, Sorcerer, Warlock
-* [Hunter's Mark](../Magic/Spells/hunters-mark.md): Ranger
-* [Ice Beam](../Magic/Spells/ice-beam.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Ice Knife](../Magic/Spells/ice-knife.md): Druid, Sorcerer, Wizard
-* [Ice Spike](../Magic/Spells/ice-spike.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Id Insinuation](../Magic/Spells/id-insinuation.md): Sorcerer, Warlock, Wizard
-* [Identify](../Magic/Spells/identify.md): Artificer, Bard, Wizard
-* [Ignite Aether](../Magic/Spells/ignite-aether.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Illusory Script](../Magic/Spells/illusory-script.md): Bard, Warlock, Wizard
-* [Inaudible](../Magic/Spells/inaudible.md): Bard, Druid, Pale Master, Ranger, Wizard
-* [Indisputable Possession](../Magic/Spells/indisputable-possession.md): Sorcerer, Warlock, Wizard
-* [Inflict Wounds](../Magic/Spells/inflict-wounds.md): Cleric, Pale Master
-* [Injurious Spellbook](../Magic/Spells/injurious-spellbook.md): Wizard
-* [Inner Fire](../Magic/Spells/inner-fire.md): Sorcerer, Warlock
-* [Insightful Feint](../Magic/Spells/insightful-feint.md): Bard, Sorcerer, Wizard
-* [Inspire Dread](../Magic/Spells/inspire-dread.md): Bard, Cleric, Paladin, Pale Master, Shaman, Warlock, Wizard
-* [Instant Search](../Magic/Spells/instant-search.md): Artificer, Bard
-* [Interpret Bone](../Magic/Spells/interpret-bone.md): Bard, Cleric, Druid, Paladin, Pale Master, Ranger
-* [Iron Scarf](../Magic/Spells/iron-scarf.md): Artificer, Bard, Ranger, Wizard
-* [Ironbreaker Claws](../Magic/Spells/ironbreaker-claws.md): Artificer, Druid, Ranger, Shaman
-* [Ironguts](../Magic/Spells/ironguts.md): Cleric, Druid, Paladin, Ranger
-* [Jim's Magic Missile](../Magic/Spells/jims-magic-missile.md): Wizard
-* [Jump](../Magic/Spells/jump.md): Artificer, Druid, Ranger, Sorcerer, Wizard
-* [Keys to the City](../Magic/Spells/keys-to-the-city.md): Bard
-* [Know Faction](../Magic/Spells/know-faction.md): Bard, Cleric, Sorcerer, Wizard
-* [Know Greatest Enemy](../Magic/Spells/know-greatest-enemy.md): Artificer, Bard, Paladin
-* [Know Protection](../Magic/Spells/know-protection.md): Bard, Cleric, Sorcerer, Wizard
-* [Laeral's Cutting Hand](../Magic/Spells/laerals-cutting-hand.md): Bard, Pale Master, Sorcerer, Wizard
-* [Larloch's Minor Drain](../Magic/Spells/larlochs-minor-drain.md): Pale Master, Warlock, Wizard
-* [Lash of Cruel Inspiration](../Magic/Spells/lash-of-cruel-inspiration.md): Cleric, Warlock
-* [Last Breath](../Magic/Spells/last-breath.md): Druid, Sorcerer, Wizard
-* [Leaf Shield](../Magic/Spells/leaf-shield.md): Ranger
-* [Leaf into Dagger](../Magic/Spells/leaf-into-dagger.md): Artificer, Druid, Ranger
-* [Lesser Corona](../Magic/Spells/lesser-corona.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Liberating Memory](../Magic/Spells/liberating-memory.md): Artificer, Bard, Druid, Ranger, Sorcerer, Wizard
-* [Lightfoot](../Magic/Spells/lightfoot.md): Ranger
-* [Lightning Bug](../Magic/Spells/lightning-bug.md): Artificer, Druid, Sorcerer, Wizard
-* [Lightning Clash](../Magic/Spells/lightning-clash.md): Druid, Sorcerer, Warlock, Wizard
-* [Lightning Orb](../Magic/Spells/lightning-orb.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Lionheart](../Magic/Spells/lionheart.md): Paladin
-* [Living Link](../Magic/Spells/living-link.md): Sorcerer, Warlock, Wizard
-* [Longstrider](../Magic/Spells/longstrider.md): Artificer, Bard, Druid, Ranger, Wizard
-* [Lord's Armor](../Magic/Spells/lords-armor.md): Artificer, Bard, Paladin, Wizard
-* [Mage Armor](../Magic/Spells/mage-armor.md): Sorcerer, Wizard
-* [Magic Fang](../Magic/Spells/magic-fang.md): Artificer, Druid, Ranger
-* [Magic Fist](../Magic/Spells/magic-fist.md): Sorcerer, Wizard
-* [Magic Missile](../Magic/Spells/magic-missile.md): Sorcerer, Wizard
-* [Magmin Grasp](../Magic/Spells/magmin-grasp.md): Druid, Sorcerer, Wizard
-* [Magnet Pull](../Magic/Spells/magnet-pull.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Magnify Gravity](../Magic/Spells/magnify-gravity.md): Wizard
-* [Mark of the Vigilante](../Magic/Spells/mark-of-the-vigilante.md): Artificer, Bard, Paladin, Ranger, Warlock, Wizard
-* [Marshal's Mark](../Magic/Spells/marshals-mark.md): Artificer, Paladin, Ranger, Wizard
-* [Mighty Wallop](../Magic/Spells/mighty-wallop.md): Cleric, Paladin
-* [Misdirected Mark](../Magic/Spells/misdirected-mark.md): Bard
-* [Misery](../Magic/Spells/misery.md): Pale Master, Warlock, Wizard
-* [Murmurs of the Restless](../Magic/Spells/murmurs-of-the-restless.md): Bard, Cleric, Pale Master
-* [Nerveskitter](../Magic/Spells/nerveskitter.md): Artificer, Bard, Sorcerer, Wizard
-* [Night Vision](../Magic/Spells/night-vision.md): Wizard
-* [Nightowl](../Magic/Spells/nightowl.md): Druid, Ranger, Shaman
-* [Nightshield](../Magic/Spells/nightshield.md): Artificer, Sorcerer, Wizard
-* [Numinous Shield](../Magic/Spells/numinous-shield.md): Artificer, Cleric
-* [Nybor's Gentle Reminder](../Magic/Spells/nybors-gentle-reminder.md): Sorcerer, Warlock, Wizard
-* [Nystul's Flash](../Magic/Spells/nystuls-flash.md): Artificer, Sorcerer, Warlock, Wizard
-* [Oppressive Cold](../Magic/Spells/oppressive-cold.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Otiluke's Bubbling Buoyancy](../Magic/Spells/otilukes-bubbling-bouyancy.md): Sorcerer, Warlock, Wizard
-* [Otiluke's Bubbling Buoyancy](../Magic/Spells/otilukes-bubbling-buoyancy.md): Sorcerer, Warlock, Wizard
-* [Otiluke's Smoky Sphere](../Magic/Spells/otilukes-smoky-sphere.md): Artificer, Sorcerer, Warlock, Wizard
-* [Piercing Smite](../Magic/Spells/piercing-smite.md): Paladin
-* [Poison Smite](../Magic/Spells/poison-smite.md): Paladin
-* [Positive Foundations](../Magic/Spells/positive-foundations.md): Shaman, Wizard
-* [Prophesied Strike](../Magic/Spells/prophesied-strike.md): Bard, Cleric
-* [Protection from Evil and Good](../Magic/Spells/protection-from-evil-and-good.md): Cleric, Druid, Paladin, Shaman, Warlock, Wizard
-* [Protective Amulet](../Magic/Spells/protective-amulet.md): Artificer, Cleric, Paladin
-* [Psychic Assessment](../Magic/Spells/psychic-assessment.md): Bard, Sorcerer
-* [Psychic Shield](../Magic/Spells/psychic-shield.md): Bard, Sorcerer
-* [Puppet](../Magic/Spells/puppet.md): Bard, Warlock, Wizard
-* [Pure Flame](../Magic/Spells/pure-flame.md): Wizard
-* [Purify Food and Drink](../Magic/Spells/purify-food-and-drink.md): Artificer, Cleric, Druid, Paladin
-* [Pyrokinesis](../Magic/Spells/pyrokinesis.md): Sorcerer, Warlock, Wizard
-* [Quivaelyn's Sharpening Palm](../Magic/Spells/quivaelyns-sharpening-palm.md): Artificer, Cleric, Paladin, Ranger
-* [Radlo's Sudden Spark](../Magic/Spells/radlos-sudden-spark.md): Artificer, Ranger, Sorcerer, Wizard
-* [Ray of Sickness](../Magic/Spells/ray-of-sickness.md): Pale Master, Sorcerer, Wizard
-* [Read Moods](../Magic/Spells/read-moods.md): Bard, Sorcerer
-* [Rejuvenate Self](../Magic/Spells/rejuvenate-self.md): Cleric, Paladin
-* [Ripen](../Magic/Spells/ripen.md): Druid, Ranger
-* [Rot](../Magic/Spells/rot.md): Druid, Pale Master, Warlock, Wizard
-* [Rune of Peace](../Magic/Spells/rune-of-peace.md): Artificer, Paladin
-* [Salutary Touch](../Magic/Spells/salutary-touch.md): Cleric
-* [Sanctuary](../Magic/Spells/sanctuary.md): Artificer, Cleric
-* [Sandblast](../Magic/Spells/sandblast.md): Wizard
-* [Sanguine Wave](../Magic/Spells/sanguine-wave.md): Sorcerer, Warlock, Wizard
-* [Scalding Sphere](../Magic/Spells/scalding-sphere.md): Wizard
-* [Scattered Form](../Magic/Spells/scattered-form.md): Druid, Warlock
-* [Searing Smite](../Magic/Spells/searing-smite.md): Paladin, Ranger
-* [Seeking Missile](../Magic/Spells/seeking-missile.md): Artificer, Druid, Ranger, Sorcerer, Wizard
-* [Sense Emotion](../Magic/Spells/sense-emotion.md): Bard, Warlock, Wizard
-* [Sensory Caress](../Magic/Spells/sensory-caress.md): Bard, Cleric, Druid, Sorcerer
-* [Serpent Missile](../Magic/Spells/serpent-missile.md): Artificer, Druid, Sorcerer, Warlock, Wizard
-* [Shadow Missile](../Magic/Spells/shadow-missile.md): Artificer, Bard, Cleric, Ranger, Sorcerer, Warlock, Wizard
-* [Shadowing Mark](../Magic/Spells/shadowing-mark.md): Ranger, Warlock, Wizard
-* [Shed Skin](../Magic/Spells/shed-skin.md): Druid, Pale Master, Ranger, Wizard
-* [Shield](../Magic/Spells/shield.md): Sorcerer, Wizard
-* [Shield of Devotion](../Magic/Spells/shield-of-devotion.md): Cleric, Paladin
-* [Shield of Faith](../Magic/Spells/shield-of-faith.md): Cleric, Paladin
-* [Shield of Vanity](../Magic/Spells/shield-of-vanity.md): Artificer, Bard, Cleric, Paladin
-* [Shieldbearer](../Magic/Spells/shieldbearer.md): Artificer, Sorcerer, Wizard
-* [Shielding Cube](../Magic/Spells/shielding-cube.md): Artificer, Wizard
-* [Shock](../Magic/Spells/shock.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Shrapnel Ray](../Magic/Spells/shrapnel-ray.md): Wizard
-* [Sign of Warning](../Magic/Spells/sign-of-warning.md): Druid
-* [Silent Image](../Magic/Spells/silent-image.md): Bard, Sorcerer, Wizard
-* [Silvery Barbs](../Magic/Spells/silvery-barbs.md): Bard, Sorcerer, Wizard
-* [Skein of Vines](../Magic/Spells/skein-of-vines.md): Druid, Ranger
-* [Skulking Spy](../Magic/Spells/skulking-spy.md): Ranger, Wizard
-* [Slashing Step](../Magic/Spells/slashing-step.md): Bard, Ranger
-* [Sleep](../Magic/Spells/sleep.md): Bard, Sorcerer, Wizard
-* [Smolder](../Magic/Spells/smolder.md): Sorcerer, Warlock, Wizard
-* [Snare](../Magic/Spells/snare.md): Artificer, Druid, Ranger, Wizard
-* [Snilloc's Snowball](../Magic/Spells/snillocs-snowball.md): Sorcerer, Warlock, Wizard
-* [Snow Boots](../Magic/Spells/snow-boots.md): Artificer, Cleric, Druid, Ranger
-* [Snowfield](../Magic/Spells/snowfield.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Sorcerous Scribe](../Magic/Spells/sorcerous-scribe.md): Artificer, Sorcerer, Wizard
-* [Soulshare](../Magic/Spells/soulshare.md): Wizard
-* [Spasm](../Magic/Spells/spasm.md): Cleric, Druid, Sorcerer, Warlock, Wizard
-* [Speak with Animals](../Magic/Spells/speak-with-animals.md): Bard, Druid, Ranger, Shaman
-* [Speed of Thought](../Magic/Spells/speed-of-thought.md): Artificer, Ranger, Sorcerer, Warlock, Wizard
-* [Spirit Mask](../Magic/Spells/spirit-mask.md): Sorcerer, Warlock, Wizard
-* [Spy's Recovery](../Magic/Spells/spys-recovery.md): Bard, Ranger, Wizard
-* [Starlight](../Magic/Spells/starlight.md): Warlock
-* [Step of a Dozen Paces](../Magic/Spells/step-of-a-dozen-paces.md): Druid, Ranger, Sorcerer
-* [Stone Blast](../Magic/Spells/stone-blast.md): Sorcerer, Warlock, Wizard
-* [Storm of Arrows](../Magic/Spells/storm-of-arrows.md): Ranger
-* [Summon Monster](../Magic/Spells/summon-monster.md): Druid, Ranger, Shaman, Sorcerer, Warlock, Wizard
-* [Summons of Justice](../Magic/Spells/summons-of-justice.md): Cleric, Paladin
-* [Sunscorch](../Magic/Spells/sunscorch.md): Cleric, Druid, Paladin
-* [Surge of Speed](../Magic/Spells/surge-of-speed.md): Artificer, Ranger, Sorcerer, Warlock, Wizard
-* [Sustain Fire](../Magic/Spells/sustain-fire.md): Artificer, Cleric, Druid, Ranger
-* [Swoop](../Magic/Spells/swoop.md): Artificer, Druid, Ranger, Sorcerer, Wizard
-* [Sword of Sigils](../Magic/Spells/sword-of-sigils.md): Paladin, Wizard
-* [Sympathetic Agony](../Magic/Spells/sympathetic-agony.md): Bard, Paladin, Sorcerer
-* [Taser](../Magic/Spells/taser.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Tasha's Caustic Brew](../Magic/Spells/tashas-caustic-brew.md): Artificer, Sorcerer, Wizard
-* [Tasha's Hideous Laughter](../Magic/Spells/tashas-hideous-laughter.md): Bard, Wizard
-* [Tearing Claws](../Magic/Spells/tearing-claws.md): Artificer, Druid, Sorcerer, Wizard
-* [Telekinetic Slam](../Magic/Spells/telekinetic-slam.md): Sorcerer, Wizard
-* [Telepathic Link](../Magic/Spells/telepathic-link.md): Sorcerer
-* [Tenser's Floating Disk](../Magic/Spells/tensers-floating-disk.md): Wizard
-* [Thundering Armor](../Magic/Spells/thundering-armor.md): Artificer, Bard, Cleric, Paladin, Warlock, Wizard
-* [Thunderous Smite](../Magic/Spells/thunderous-smite.md): Paladin
-* [Thunderwave](../Magic/Spells/thunderwave.md): Bard, Druid, Sorcerer, Wizard
-* [Trapspringer](../Magic/Spells/trapspringer.md): Artificer, Bard, Warlock, Wizard
-* [Undersong](../Magic/Spells/undersong.md): Bard
-* [Unearthly Chorus](../Magic/Spells/unearthly-chorus.md): Bard
-* [Unseen Servant](../Magic/Spells/unseen-servant.md): Bard, Pale Master, Warlock, Wizard
-* [Updraft](../Magic/Spells/updraft.md): Artificer, Cleric, Druid
-* [Vigilante Grit](../Magic/Spells/vigilante-grit.md): Artificer, Ranger
-* [Vigor](../Magic/Spells/vigor.md): Cleric, Druid
-* [Viridian Shell](../Magic/Spells/viridian-shell.md): Wizard
-* [Wailing Wind](../Magic/Spells/wailing-wind.md): Cleric, Druid, Ranger
-* [Wandbane](../Magic/Spells/wandbane.md): Artificer, Sorcerer, Warlock, Wizard
-* [Warding Blade](../Magic/Spells/warding-blade.md): Wizard
-* [Warning Shout](../Magic/Spells/warning-shout.md): Artificer, Cleric, Druid, Paladin, Ranger
-* [Water Whip](../Magic/Spells/water-whip.md): Druid, Sorcerer
-* [Weakening Smite](../Magic/Spells/weakening-smite.md): Paladin
-* [Weightless Pursuit](../Magic/Spells/weightless-pursuit.md): Artificer, Paladin, Ranger, Sorcerer, Warlock, Wizard
-* [Wild Cunning](../Magic/Spells/wild-cunning.md): Druid, Ranger
-* [Wind Compass](../Magic/Spells/wind-compass.md): Druid, Ranger
-* [Witch Bolt](../Magic/Spells/witch-bolt.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Wrathful Smite](../Magic/Spells/wrathful-smite.md): Paladin
-* [Your Glorious Sacrifice](../Magic/Spells/your-glorious-sacrifice.md): Warlock
-* [Zen Archery](../Magic/Spells/zen-archery.md): Cleric, Druid, Ranger
-* [Zephyr Strike](../Magic/Spells/zephyr-strike.md): Ranger
+* [Ablative Armor](./ablative-armor.md) (Artificer,Cleric,Paladin)
+* [Absorb Elements](./absorb-elements.md) (Artificer,Druid,Ranger,Shaman,Sorcerer,Wizard)
+* [Acid Stream](./acid-stream.md) (Sorcerer,Wizard)
+* [Acrid Delight](./acrid-delight.md) *ritual* (Bard,Druid,Pale Master,Wizard)
+* [Active Momentum](./active-momentum.md) (Artificer,Warlock,Wizard)
+* [Agile Defense](./agile-defense.md) (Ranger,Sorcerer)
+* [Air Jaunt](./air-jaunt.md) (Artificer,Cleric,Druid)
+* [Alacritous Interpretation](./alacritous-interpretation.md) *ritual* (Pale Master,Wizard)
+* [Alarm](./alarm.md) *ritual* (Artificer,Ranger,Wizard)
+* [Alienated Mind](./alienated-mind.md) (Bard,Warlock,Wizard)
+* [Ammar's Conflagration](./ammars-conflagration.md) (Druid,Sorcerer,Wizard)
+* [Amplify Sound](./amplify-sound.md) (Bard)
+* [Angry Ache](./angry-ache.md) (Bard,Cleric)
+* [Animal Friendship](./animal-friendship.md) (Bard,Druid,Ranger)
+* [Animate Cranium](./animate-cranium.md) *ritual* (Pale Master)
+* [Animate Percussion](./animate-percussion.md) *ritual* (Bard,Wizard)
+* [Appraising Touch](./appraising-touch.md) (Artificer,Bard,Sorcerer,Wizard)
+* [Arcane Weapon](./arcane-weapon.md) (Wizard)
+* [Armor of Agathys](./armor-of-agathys.md) (Warlock)
+* [Arms of Hadar](./arms-of-hadar.md) (Pale Master,Warlock)
+* [Arrow Mind](./arrow-mind.md) (Sorcerer,Warlock,Wizard)
+* [Aspect of the Wolf](./aspect-of-the-wolf.md) (Artificer,Druid,Ranger)
+* [Assistance of Flames](./assistance-of-flames.md) (Wizard)
+* [Assistance of Frost](./assistance-of-frost.md) (Wizard)
+* [Assistance of Lightning](./assistance-of-lightning.md) (Wizard)
+* [Attract Projectiles](./attract-projectiles.md) (Artificer,Bard,Cleric,Paladin,Ranger)
+* [Bane](./bane.md) (Bard,Cleric,Pale Master)
+* [Baneful Shock](./baneful-shock.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Barrier](./barrier.md) (Artificer,Bard,Cleric,Druid,Paladin,Ranger)
+* [Battle Cry](./battle-cry.md) (Bard,Cleric,Paladin)
+* [Battle Guardian's Aura](./battle-guardians-aura.md) (Artificer,Paladin,Warlock,Wizard)
+* [Battlefate](./battlefate.md) (Cleric,Sorcerer,Wizard)
+* [Battlesheath of Flames](./battlesheath-of-flames.md) (Paladin,Sorcerer,Warlock,Wizard)
+* [Battlesheath of Frost](./battlesheath-of-frost.md) (Paladin,Sorcerer,Warlock,Wizard)
+* [Battlesheath of Lightning](./battlesheath-of-lightning.md) (Paladin,Sorcerer,Warlock,Wizard)
+* [Beast Bond](./beast-bond.md) (Druid,Ranger,Shaman)
+* [Beast Claws](./beast-claws.md) (Druid,Ranger)
+* [Beastlands Ferocity](./beastlands-ferocity.md) (Bard,Druid,Ranger)
+* [Beguile](./beguile.md) (Bard,Sorcerer,Warlock)
+* [Beluud's Corrosive Caress](./beluuds-corrosive-caress.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Bestow Wound](./bestow-wound.md) (Cleric,Paladin)
+* [Blackout](./blackout.md) (Artificer,Bard,Cleric,Druid,Pale Master,Ranger,Shaman,Sorcerer,Warlock,Wizard)
+* [Blade of Nightmares](./blade-of-nightmares.md) (Artificer,Paladin,Warlock,Wizard)
+* [Blazing Lance](./blazing-lance.md) (Paladin,Sorcerer,Wizard)
+* [Bless](./bless.md) (Cleric,Paladin)
+* [Blessed Aim](./blessed-aim.md) (Cleric,Paladin)
+* [Blink Feint](./blink-feint.md) *brandish* (Bard,Ranger,Sorcerer,Warlock,Wizard)
+* [Blood Reading](./blood-reading.md) (Cleric,Shaman,Sorcerer,Warlock,Wizard)
+* [Blood Wind](./blood-wind.md) (Bard,Cleric,Druid,Ranger,Sorcerer,Warlock,Wizard)
+* [Bloodhound](./bloodhound.md) (Ranger)
+* [Blur of Motion](./blur-of-motion.md) (Ranger,Sorcerer,Warlock,Wizard)
+* [Bone Storm](./bone-storm.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Brightflash](./brightflash.md) (Wizard)
+* [Burning Hands](./burning-hands.md) (Sorcerer,Wizard)
+* [Candle Trick](./candle-trick.md) (Artificer,Bard,Druid,Ranger)
+* [Catapult](./catapult.md) (Artificer,Sorcerer,Wizard)
+* [Cause Fear](./cause-fear.md) (Pale Master,Warlock,Wizard)
+* [Caustic Wound](./caustic-wound.md) *blood* (Sorcerer,Wizard)
+* [Cauterizing Flame](./cauterizing-flame.md) (Cleric,Paladin)
+* [Celestial Fist](./celestial-fist.md) (Cleric)
+* [Ceremony](./ceremony.md) *ritual* (Cleric,Paladin)
+* [Chameleon Stance](./chameleon-stance.md) (Bard,Sorcerer,Wizard)
+* [Chaos Bolt](./chaos-bolt.md) (Sorcerer)
+* [Chaotic Disruption](./chaotic-disruption.md) (Sorcerer,Warlock,Wizard)
+* [Charm Person](./charm-person.md) (Bard,Druid,Shaman,Sorcerer,Warlock,Wizard)
+* [Chill Air](./chill-air.md) (Sorcerer,Warlock,Wizard)
+* [Chill of the Grave](./chill-of-the-grave.md) (Cleric,Pale Master,Sorcerer,Warlock,Wizard)
+* [Chilling Blow](./chilling-blow.md) (Druid,Paladin,Ranger,Warlock)
+* [Chromatic Orb](./chromatic-orb.md) (Sorcerer,Wizard)
+* [Cleansing Touch](./cleansing-touch.md) (Artificer,Bard,Cleric,Paladin)
+* [Coalstone](./coalstone.md) *ritual* (Artificer,Cleric,Sorcerer,Warlock,Wizard)
+* [Cold Fire](./cold-fire.md) (Cleric,Paladin)
+* [Coldsnap](./coldsnap.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Color Spray](./color-spray.md) (Bard,Sorcerer,Wizard)
+* [Command](./command.md) (Bard,Cleric,Paladin,Shaman)
+* [Compelled Duel](./compelled-duel.md) (Paladin)
+* [Comprehend Languages](./comprehend-languages.md) *ritual* (Bard,Sorcerer,Warlock,Wizard)
+* [Condense Reserves](./condense-reserves.md) (Bard,Sorcerer,Wizard)
+* [Conjure Critters](./conjure-critters.md) (Druid,Ranger)
+* [Cooperative Channeling](./cooperative-channeling.md) (Bard,Wizard)
+* [Corpse Link](./corpse-link.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Corpse Visage](./corpse-visage.md) (Sorcerer,Warlock,Wizard)
+* [Courtier's Cover](./courtiers-cover.md) (Bard)
+* [Create Poison](./create-poison.md) *ritual* (Artificer,Bard,Druid,Ranger,Warlock,Wizard)
+* [Create or Destroy Water](./create-or-destroy-water.md) (Cleric,Druid)
+* [Creeping Crawling Claw](./creeping-crawling-claw.md) *ritual* (Pale Master,Warlock,Wizard)
+* [Critical Strike](./critical-strike.md) (Bard,Sorcerer,Wizard)
+* [Cure Wounds](./cure-wounds.md) (Artificer,Bard,Cleric,Druid,Paladin,Ranger,Shaman)
+* [Cursed with Undeath](./cursed-with-undeath.md) (Pale Master,Warlock,Wizard)
+* [Dancing Weapon](./dancing-weapon.md) *brandish* (Bard,Ranger,Sorcerer,Warlock,Wizard)
+* [Dark Pact](./dark-pact.md) (Pale Master)
+* [Darkness Lance](./darkness-lance.md) (Paladin,Sorcerer,Wizard)
+* [Dead End](./dead-end.md) (Bard,Druid,Ranger)
+* [Dead Man's Tell](./dead-mans-tell.md) *ritual* (Druid,Pale Master,Warlock,Wizard)
+* [Death's Grasp](./deaths-grasp.md) (Pale Master,Warlock,Wizard)
+* [Deathwatch](./deathwatch.md) (Artificer,Cleric)
+* [Deep Breath](./deep-breath.md) (Sorcerer,Warlock,Wizard)
+* [Defensive Casting](./defensive-casting.md) (Artificer,Wizard)
+* [Deflecting Shield](./deflecting-shield.md) (Artificer,Bard,Cleric,Paladin,Sorcerer,Wizard)
+* [Delude](./delude.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Detect Chaos and Order](./detect-chaos-and-order.md) (Cleric,Paladin)
+* [Detect Evil and Good](./detect-evil-and-good.md) (Cleric,Paladin,Shaman)
+* [Detect Magic](./detect-magic.md) *ritual* (Artificer,Bard,Cleric,Druid,Paladin,Ranger,Sorcerer,Wizard)
+* [Detect Poison and Disease](./detect-poison-and-disease.md) *ritual* (Cleric,Druid,Paladin,Ranger,Shaman)
+* [Dictation](./dictation.md) *ritual* (Artificer,Bard,Cleric)
+* [Dimensional Window](./dimensional-window.md) (Wizard)
+* [Disarming Force](./disarming-force.md) (Artificer,Bard,Paladin,Ranger,Sorcerer,Wizard)
+* [Disguise Self](./disguise-self.md) (Artificer,Bard,Sorcerer,Wizard)
+* [Disguised Blast](./disguised-blast.md) (Sorcerer,Warlock,Wizard)
+* [Dishearten](./dishearten.md) (Shaman,Wizard)
+* [Dissonant Whispers](./dissonant-whispers.md) (Bard,Shaman)
+* [Distort Speech](./distort-speech.md) (Bard)
+* [Distort Value](./distort-value.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Divine Favor](./divine-favor.md) (Paladin)
+* [Divine Sacrifice](./divine-sacrifice.md) (Cleric,Paladin)
+* [Divine Sanction](./divine-sanction.md) (Paladin)
+* [Divine Sheathe](./divine-sheathe.md) (Cleric,Paladin)
+* [Doubleback Surge](./doubleback-surge.md) (Sorcerer,Warlock,Wizard)
+* [Drawmij's Light Step](./drawmijs-light-step.md) (Bard,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Dread](./dread.md) (Pale Master,Warlock,Wizard)
+* [Dread Provocation](./dread-provocation.md) (Paladin,Warlock)
+* [Dread Revelation](./dread-revelation.md) (Bard,Cleric,Paladin,Warlock,Wizard)
+* [Druidfire](./druidfire.md) (Druid)
+* [Earth Tremor](./earth-tremor.md) (Bard,Druid,Sorcerer,Wizard)
+* [Earthen Grace](./earthen-grace.md) (Druid,Ranger,Sorcerer,Wizard)
+* [Earthen Grip](./earthen-grip.md) (Druid,Sorcerer,Wizard)
+* [Earthen Pillar](./earthen-pillar.md) (Druid,Wizard)
+* [Easy Trail](./easy-trail.md) (Druid,Ranger)
+* [Ego Lash](./ego-lash.md) (Sorcerer)
+* [Eldritch Alertness](./eldritch-alertness.md) (Artificer,Bard,Ranger,Wizard)
+* [Eldritch Speed](./eldritch-speed.md) (Artificer,Ranger,Sorcerer,Warlock,Wizard)
+* [Elemental Burst](./elemental-burst.md) (Artificer,Druid,Sorcerer,Wizard)
+* [Emerald Bands](./emerald-bands.md) (Wizard)
+* [Emparadweomer](./emparadweomer.md) (Wizard)
+* [Empathic Sense](./empathic-sense.md) (Bard,Cleric)
+* [Endure Elements](./endure-elements.md) (Cleric,Druid,Ranger)
+* [Energy Alteration](./energy-alteration.md) (Sorcerer,Wizard)
+* [Enrage Animals](./enrage-animals.md) (Bard,Druid,Ranger,Warlock)
+* [Ensnaring Strike](./ensnaring-strike.md) (Ranger)
+* [Entangle](./entangle.md) (Druid,Ranger,Shaman)
+* [Entropic Shield](./entropic-shield.md) (Artificer,Bard,Cleric)
+* [Expeditious Retreat](./expeditious-retreat.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Exploit Opening](./exploit-opening.md) (Bard,Ranger,Wizard)
+* [Faerie Fire](./faerie-fire.md) (Artificer,Bard,Druid,Shaman)
+* [False Life](./false-life.md) (Artificer,Pale Master,Sorcerer,Wizard)
+* [Feather Fall](./feather-fall.md) (Artificer,Bard,Sorcerer,Wizard)
+* [Fiery Wrath](./fiery-wrath.md) (Druid,Sorcerer,Wizard)
+* [Find Familiar](./find-familiar.md) *ritual* (Wizard)
+* [Fist of Wood](./fist-of-wood.md) (Druid,Sorcerer,Wizard)
+* [Flame Slash](./flame-slash.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Flare](./flare.md) (Artificer,Bard,Cleric,Sorcerer,Wizard)
+* [Flash](./flash.md) (Cleric,Paladin,Sorcerer,Wizard)
+* [Flechette Spray](./flechette-spray.md) (Wizard)
+* [Float Shot](./float-shot.md) (Sorcerer,Warlock,Wizard)
+* [Foesnare](./foesnare.md) (Artificer,Warlock,Wizard)
+* [Fog Cloud](./fog-cloud.md) (Druid,Ranger,Shaman,Sorcerer,Wizard)
+* [Forceful Query](./forceful-query.md) (Bard,Sorcerer)
+* [Foundation of Stone](./foundation-of-stone.md) (Cleric,Druid)
+* [Frightful Strike](./frightful-strike.md) (Bard,Cleric,Druid,Paladin,Ranger,Sorcerer,Warlock,Wizard)
+* [Frost Fingers](./frost-fingers.md) (Cleric,Druid,Wizard)
+* [Frozen Feet](./frozen-feet.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Gamour Veil](./glamour-veil.md) (Bard,Ranger,Sorcerer,Warlock,Wizard)
+* [Gemidan's Icicle](./gemidans-icicle.md) (Sorcerer,Warlock,Wizard)
+* [Gemstone Fission](./gemstone-fission.md) (Wizard)
+* [Ghostly Tail](./ghostly-tail.md) (Paladin,Ranger,Sorcerer)
+* [Ghoul Light](./ghoul-light.md) *ritual* (Sorcerer,Warlock,Wizard)
+* [Gift of Alacrity](./gift-of-alacrity.md) (Wizard)
+* [Glide](./glide.md) (Artificer,Druid,Ranger,Sorcerer,Wizard)
+* [Glow Mark](./glow-mark.md) (Bard,Cleric,Paladin,Sorcerer,Warlock,Wizard)
+* [Goodberry](./goodberry.md) (Druid,Ranger)
+* [Grasping Limb](./grasping-limb.md) (Sorcerer,Wizard)
+* [Grease](./grease.md) (Artificer,Sorcerer,Wizard)
+* [Great Watcher Spirit](./great-watcher-spirit.md) (Druid,Shaman)
+* [Grimlore's Shadowblight](./grimlores-shadowblight.md) (Pale Master,Shaman,Sorcerer,Warlock,Wizard)
+* [Guided Shot](./guided-shot.md) (Artificer,Ranger,Sorcerer,Wizard)
+* [Guiding Bolt](./guiding-bolt.md) (Cleric)
+* [Guiding Hand](./guiding-hand.md) *ritual* (Bard,Cleric,Druid,Wizard)
+* [Guillotine](./guillotine.md) (Pale Master,Wizard)
+* [Hail of Thorns](./hail-of-thorns.md) (Ranger)
+* [Halo of Glory](./halo-of-glory.md) (Cleric,Paladin)
+* [Hand of the Sorcerer King](./hand-of-the-sorcerer-king.md) (Cleric,Paladin)
+* [Healing Elixir](./healing-elixir.md) (Warlock,Wizard)
+* [Healing Word](./healing-word.md) (Bard,Cleric,Druid)
+* [Hellish Rebuke](./hellish-rebuke.md) (Warlock)
+* [Helm's Everwatchful Eye](./helms-everwatchful-eye.md) (Cleric,Paladin)
+* [Herald's Call](./heralds-call.md) (Bard)
+* [Heroism](./heroism.md) (Bard,Paladin,Shaman)
+* [Hex](./hex.md) (Shaman,Warlock)
+* [Hibernate](./hibernate.md) *ritual* (Druid,Ranger)
+* [Hornung's Deflector](./hornungs-deflector.md) (Cleric,Sorcerer,Warlock)
+* [Hunter's Mark](./hunters-mark.md) (Ranger)
+* [Ice Beam](./ice-beam.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Ice Knife](./ice-knife.md) (Druid,Sorcerer,Wizard)
+* [Ice Spike](./ice-spike.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Id Insinuation](./id-insinuation.md) (Sorcerer,Warlock,Wizard)
+* [Identify](./identify.md) *ritual* (Artificer,Bard,Wizard)
+* [Ignite Aether](./ignite-aether.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Illusory Script](./illusory-script.md) *ritual* (Bard,Warlock,Wizard)
+* [Inaudible](./inaudible.md) (Bard,Druid,Pale Master,Ranger,Wizard)
+* [Indisputable Possession](./indisputable-possession.md) (Sorcerer,Warlock,Wizard)
+* [Inflict Calm](./inflict-calm.md) *brandish* (Bard,Sorcerer,Wizard)
+* [Inflict Wounds](./inflict-wounds.md) (Cleric,Pale Master)
+* [Injurious Spellbook](./injurious-spellbook.md) (Wizard)
+* [Inner Fire](./inner-fire.md) (Sorcerer,Warlock)
+* [Insightful Feint](./insightful-feint.md) (Bard,Sorcerer,Wizard)
+* [Inspire Dread](./inspire-dread.md) (Bard,Cleric,Paladin,Pale Master,Shaman,Warlock,Wizard)
+* [Instant Search](./instant-search.md) (Artificer,Bard)
+* [Interpret Bone](./interpret-bone.md) (Bard,Cleric,Druid,Paladin,Pale Master,Ranger)
+* [Iron Scarf](./iron-scarf.md) (Artificer,Bard,Ranger,Wizard)
+* [Ironbreaker Claws](./ironbreaker-claws.md) (Artificer,Druid,Ranger,Shaman)
+* [Ironguts](./ironguts.md) (Cleric,Druid,Paladin,Ranger)
+* [Jim's Magic Missile](./jims-magic-missile.md) (Wizard)
+* [Jump](./jump.md) (Artificer,Druid,Ranger,Sorcerer,Wizard)
+* [Keys to the City](./keys-to-the-city.md) *ritual* (Bard)
+* [Knocking Pulse](./knocking-pulse.md) (Sorcerer,Wizard)
+* [Know Faction](./know-faction.md) (Bard,Cleric,Sorcerer,Wizard)
+* [Know Greatest Enemy](./know-greatest-enemy.md) (Artificer,Bard,Paladin)
+* [Know Protection](./know-protection.md) (Bard,Cleric,Sorcerer,Wizard)
+* [Laceration](./laceration.md) (Cleric,Pale Master,Sorcerer,Wizard)
+* [Laeral's Cutting Hand](./laerals-cutting-hand.md) (Bard,Pale Master,Sorcerer,Wizard)
+* [Larloch's Minor Drain](./larlochs-minor-drain.md) (Pale Master,Warlock,Wizard)
+* [Lash of Cruel Inspiration](./lash-of-cruel-inspiration.md) (Cleric,Warlock)
+* [Last Breath](./last-breath.md) (Druid,Sorcerer,Wizard)
+* [Leaf Shield](./leaf-shield.md) (Ranger)
+* [Leaf into Dagger](./leaf-into-dagger.md) (Artificer,Druid,Ranger)
+* [Lesser Corona](./lesser-corona.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Liberating Memory](./liberating-memory.md) (Artificer,Bard,Druid,Ranger,Sorcerer,Wizard)
+* [Lightfoot](./lightfoot.md) (Ranger)
+* [Lightning Bug](./lightning-bug.md) (Artificer,Druid,Sorcerer,Wizard)
+* [Lightning Clash](./lightning-clash.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Lightning Orb](./lightning-orb.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Lingering Shock](./lingering-shock.md) (Sorcerer,Warlock,Wizard)
+* [Lionheart](./lionheart.md) (Paladin)
+* [Living Link](./living-link.md) (Sorcerer,Warlock,Wizard)
+* [Longstrider](./longstrider.md) (Artificer,Bard,Druid,Ranger,Wizard)
+* [Lord's Armor](./lords-armor.md) (Artificer,Bard,Paladin,Wizard)
+* [Luminous Trail](./luminous-trail.md) (Bard,Cleric,Druid,Ranger,Sorcerer,Warlock,Wizard)
+* [Mage Armor](./mage-armor.md) (Sorcerer,Wizard)
+* [Magic Fang](./magic-fang.md) (Artificer,Druid,Ranger)
+* [Magic Fist](./magic-fist.md) (Sorcerer,Wizard)
+* [Magic Missile](./magic-missile.md) (Sorcerer,Wizard)
+* [Magmin Grasp](./magmin-grasp.md) (Druid,Sorcerer,Wizard)
+* [Magnet Pull](./magnet-pull.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Magnify Gravity](./magnify-gravity.md) (Wizard)
+* [Mark of the Vigilante](./mark-of-the-vigilante.md) *ritual* (Artificer,Bard,Paladin,Ranger,Warlock,Wizard)
+* [Marshal's Mark](./marshals-mark.md) (Artificer,Paladin,Ranger,Wizard)
+* [Mighty Wallop](./mighty-wallop.md) (Cleric,Paladin)
+* [Miniature Fireball](./miniature-fireball.md) (Sorcerer,Wizard)
+* [Miniature Frostball](./miniature-frostball.md) (Sorcerer,Wizard)
+* [Misdirected Mark](./misdirected-mark.md) (Bard)
+* [Misery](./misery.md) (Pale Master,Warlock,Wizard)
+* [Murmurs of the Restless](./murmurs-of-the-restless.md) *ritual* (Bard,Cleric,Pale Master)
+* [Nerveskitter](./nerveskitter.md) (Artificer,Bard,Sorcerer,Wizard)
+* [Night Vision](./night-vision.md) (Wizard)
+* [Nightowl](./nightowl.md) *ritual* (Druid,Ranger,Shaman)
+* [Nightshield](./nightshield.md) (Artificer,Sorcerer,Wizard)
+* [Numinous Shield](./numinous-shield.md) (Artificer,Cleric)
+* [Nybor's Gentle Reminder](./nybors-gentle-reminder.md) (Sorcerer,Warlock,Wizard)
+* [Nystul's Flash](./nystuls-flash.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Oppressive Cold](./oppressive-cold.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Otiluke's Bubbling Buoyancy](./otilukes-bubbling-bouyancy.md) (Sorcerer,Warlock,Wizard)
+* [Otiluke's Bubbling Buoyancy](./otilukes-bubbling-buoyancy.md) (Sorcerer,Warlock,Wizard)
+* [Otiluke's Smoky Sphere](./otilukes-smoky-sphere.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Persistent Sparkle](./persistent-sparkle.md) *ritual* (Bard,Sorcerer,Wizard)
+* [Piercing Smite](./piercing-smite.md) (Paladin)
+* [Poison Smite](./poison-smite.md) (Paladin)
+* [Positive Foundations](./positive-foundations.md) (Shaman,Wizard)
+* [Prophesied Strike](./prophesied-strike.md) (Bard,Cleric)
+* [Protection from Evil and Good](./protection-from-evil-and-good.md) (Cleric,Druid,Paladin,Shaman,Warlock,Wizard)
+* [Protective Amulet](./protective-amulet.md) (Artificer,Cleric,Paladin)
+* [Psychic Assessment](./psychic-assessment.md) (Bard,Sorcerer)
+* [Psychic Shield](./psychic-shield.md) (Bard,Sorcerer)
+* [Puppet](./puppet.md) (Bard,Warlock,Wizard)
+* [Pure Flame](./pure-flame.md) (Wizard)
+* [Purify Food and Drink](./purify-food-and-drink.md) *ritual* (Artificer,Cleric,Druid,Paladin)
+* [Push](./push.md) (Sorcerer,Warlock,Wizard)
+* [Pyrokinesis](./pyrokinesis.md) (Sorcerer,Warlock,Wizard)
+* [Quivaelyn's Sharpening Palm](./quivaelyns-sharpening-palm.md) (Artificer,Cleric,Paladin,Ranger)
+* [Radiant Lance](./radiant-lance.md) (Paladin,Sorcerer,Wizard)
+* [Radlo's Sudden Spark](./radlos-sudden-spark.md) (Artificer,Ranger,Sorcerer,Wizard)
+* [Ray of Sickness](./ray-of-sickness.md) (Pale Master,Sorcerer,Wizard)
+* [Ray of Terror](./ray-of-terror.md) (Bard,Sorcerer,Wizard)
+* [Read Moods](./read-moods.md) (Bard,Sorcerer)
+* [Rejuvenate Self](./rejuvenate-self.md) (Cleric,Paladin)
+* [Ripen](./ripen.md) *ritual* (Druid,Ranger)
+* [Rot](./rot.md) (Druid,Pale Master,Warlock,Wizard)
+* [Rune of Cutting](./rune-of-cutting.md) *brandish* (Artificer,Bard,Cleric,Paladin,Warlock,Wizard)
+* [Rune of Force](./rune-of-force.md) (Artificer,Bard,Cleric,Paladin,Warlock,Wizard)
+* [Rune of Peace](./rune-of-peace.md) *brandish* (Artificer,Paladin)
+* [Rune of Puncturing](./rune-of-puncturing.md) *brandish* (Artificer,Bard,Cleric,Paladin,Warlock,Wizard)
+* [Salutary Touch](./salutary-touch.md) (Cleric)
+* [Sanctuary](./sanctuary.md) (Artificer,Cleric)
+* [Sandblast](./sandblast.md) (Wizard)
+* [Sanguine Wave](./sanguine-wave.md) (Sorcerer,Warlock,Wizard)
+* [Scalding Sphere](./scalding-sphere.md) (Wizard)
+* [Scattered Form](./scattered-form.md) (Druid,Warlock)
+* [Searing Smite](./searing-smite.md) (Paladin,Ranger)
+* [Seeking Missile](./seeking-missile.md) (Artificer,Druid,Ranger,Sorcerer,Wizard)
+* [Sense Emotion](./sense-emotion.md) (Bard,Warlock,Wizard)
+* [Sensory Caress](./sensory-caress.md) *ritual* (Bard,Cleric,Druid,Sorcerer)
+* [Serpent Missile](./serpent-missile.md) (Artificer,Druid,Sorcerer,Warlock,Wizard)
+* [Shadow Missile](./shadow-missile.md) (Artificer,Bard,Cleric,Ranger,Sorcerer,Warlock,Wizard)
+* [Shadowing Mark](./shadowing-mark.md) (Ranger,Warlock,Wizard)
+* [Shatterpoke](./shatterpoke.md) (Sorcerer,Warlock,Wizard)
+* [Shed Skin](./shed-skin.md) (Druid,Pale Master,Ranger,Wizard)
+* [Sheltered Voices](./sheltered-voices.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Shield](./shield.md) (Sorcerer,Wizard)
+* [Shield of Devotion](./shield-of-devotion.md) (Cleric,Paladin)
+* [Shield of Faith](./shield-of-faith.md) (Cleric,Paladin)
+* [Shield of Vanity](./shield-of-vanity.md) (Artificer,Bard,Cleric,Paladin)
+* [Shieldbearer](./shieldbearer.md) (Artificer,Sorcerer,Wizard)
+* [Shielding Cube](./shielding-cube.md) (Artificer,Wizard)
+* [Shock](./shock.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Shocking Globules](./shocking-globules.md) (Sorcerer,Warlock,Wizard)
+* [Shrapnel Ray](./shrapnel-ray.md) (Wizard)
+* [Shrouding Ray](./shrouding-ray.md) (Sorcerer,Wizard)
+* [Sign of Warning](./sign-of-warning.md) (Druid)
+* [Silent Image](./silent-image.md) (Bard,Sorcerer,Wizard)
+* [Silvery Barbs](./silvery-barbs.md) (Bard,Sorcerer,Wizard)
+* [Siphon Magic](./siphon-magic.md) (Sorcerer,Warlock,Wizard)
+* [Skein of Vines](./skein-of-vines.md) (Druid,Ranger)
+* [Skulking Spy](./skulking-spy.md) (Ranger,Wizard)
+* [Slashing Step](./slashing-step.md) (Bard,Ranger)
+* [Sleep](./sleep.md) (Bard,Sorcerer,Wizard)
+* [Smokescreen](./smokescreen.md) (Bard,Sorcerer,Wizard)
+* [Smolder](./smolder.md) (Sorcerer,Warlock,Wizard)
+* [Snare](./snare.md) (Artificer,Druid,Ranger,Wizard)
+* [Snilloc's Snowball](./snillocs-snowball.md) (Sorcerer,Warlock,Wizard)
+* [Snow Boots](./snow-boots.md) *ritual* (Artificer,Cleric,Druid,Ranger)
+* [Snowfield](./snowfield.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Soothing Blade](./soothing-blade.md) *brandish* (Bard,Sorcerer,Warlock,Wizard)
+* [Sorcerous Scribe](./sorcerous-scribe.md) *ritual* (Artificer,Sorcerer,Wizard)
+* [Soulshare](./soulshare.md) (Wizard)
+* [Sound Channel](./sound-channel.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Spasm](./spasm.md) (Cleric,Druid,Sorcerer,Warlock,Wizard)
+* [Speak with Animals](./speak-with-animals.md) *ritual* (Bard,Druid,Ranger,Shaman)
+* [Speed of Thought](./speed-of-thought.md) (Artificer,Ranger,Sorcerer,Warlock,Wizard)
+* [Spirit Mask](./spirit-mask.md) (Sorcerer,Warlock,Wizard)
+* [Spy's Recovery](./spys-recovery.md) (Bard,Ranger,Wizard)
+* [Starlight](./starlight.md) (Warlock)
+* [Step of a Dozen Paces](./step-of-a-dozen-paces.md) (Druid,Ranger,Sorcerer)
+* [Stone Blast](./stone-blast.md) (Sorcerer,Warlock,Wizard)
+* [Storm of Arrows](./storm-of-arrows.md) (Ranger)
+* [Summon Monster](./summon-monster.md) (Druid,Ranger,Shaman,Sorcerer,Warlock,Wizard)
+* [Summons of Justice](./summons-of-justice.md) (Cleric,Paladin)
+* [Sunscorch](./sunscorch.md) (Cleric,Druid,Paladin)
+* [Surge of Speed](./surge-of-speed.md) (Artificer,Ranger,Sorcerer,Warlock,Wizard)
+* [Sustain Fire](./sustain-fire.md) *ritual* (Artificer,Cleric,Druid,Ranger)
+* [Swoop](./swoop.md) (Artificer,Druid,Ranger,Sorcerer,Wizard)
+* [Sword of Sigils](./sword-of-sigils.md) (Paladin,Wizard)
+* [Sympathetic Agony](./sympathetic-agony.md) (Bard,Paladin,Sorcerer)
+* [Taser](./taser.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Tasha's Caustic Brew](./tashas-caustic-brew.md) (Artificer,Sorcerer,Wizard)
+* [Tasha's Hideous Laughter](./tashas-hideous-laughter.md) (Bard,Wizard)
+* [Tearing Claws](./tearing-claws.md) (Artificer,Druid,Sorcerer,Wizard)
+* [Telekinetic Slam](./telekinetic-slam.md) (Sorcerer,Wizard)
+* [Telepathic Link](./telepathic-link.md) *ritual* (Sorcerer)
+* [Tenser's Floating Disk](./tensers-floating-disk.md) *ritual* (Wizard)
+* [Thaumaturgic Retreat](./thaumaturgic-retreat.md) *brandish* (Bard,Sorcerer,Warlock,Wizard)
+* [Theater of Fire](./theater-of-fire.md) *brandish* (Bard,Sorcerer,Warlock,Wizard)
+* [Thundering Armor](./thundering-armor.md) (Artificer,Bard,Cleric,Paladin,Warlock,Wizard)
+* [Thunderous Smite](./thunderous-smite.md) (Paladin)
+* [Thunderwave](./thunderwave.md) (Bard,Druid,Sorcerer,Wizard)
+* [Touch of Venom](./touch-of-venom.md) (Cleric,Druid)
+* [Trapspringer](./trapspringer.md) (Artificer,Bard,Warlock,Wizard)
+* [Undersong](./undersong.md) (Bard)
+* [Unearthly Chorus](./unearthly-chorus.md) (Bard)
+* [Unseen Servant](./unseen-servant.md) *ritual* (Bard,Pale Master,Warlock,Wizard)
+* [Updraft](./updraft.md) (Artificer,Cleric,Druid)
+* [Vertigo Palm](./vertigo-palm.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Vigilante Grit](./vigilante-grit.md) (Artificer,Ranger)
+* [Vigor](./vigor.md) (Cleric,Druid)
+* [Viridian Shell](./viridian-shell.md) (Wizard)
+* [Wailing Wind](./wailing-wind.md) *ritual* (Cleric,Druid,Ranger)
+* [Wandbane](./wandbane.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Warding Blade](./warding-blade.md) (Wizard)
+* [Warning Shout](./warning-shout.md) (Artificer,Cleric,Druid,Paladin,Ranger)
+* [Water Whip](./water-whip.md) (Druid,Sorcerer)
+* [Weakening Smite](./weakening-smite.md) (Paladin)
+* [Weightless Pursuit](./weightless-pursuit.md) (Artificer,Paladin,Ranger,Sorcerer,Warlock,Wizard)
+* [Wild Cunning](./wild-cunning.md) *ritual* (Druid,Ranger,Shaman)
+* [Wild Trigger](./wild-trigger.md) (Sorcerer,Warlock,Wizard)
+* [Wind Compass](./wind-compass.md) (Druid,Ranger)
+* [Witch Bolt](./witch-bolt.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Wrathful Smite](./wrathful-smite.md) (Paladin)
+* [Your Glorious Sacrifice](./your-glorious-sacrifice.md) (Warlock)
+* [Zen Archery](./zen-archery.md) (Cleric,Druid,Ranger)
+* [Zephyr Strike](./zephyr-strike.md) (Ranger)
  
 ## 2nd-Level Spells
-* [Accelerated Movement](../Magic/Spells/accelerated-movement.md): Artificer, Ranger
-* [Action Trance](../Magic/Spells/action-trance.md): Artificer, Druid, Paladin, Ranger, Wizard
-* [Aganazzar's Scorcher](../Magic/Spells/aganazzars-scorcher.md): Sorcerer, Wizard
-* [Aggressive Surge](../Magic/Spells/aggressive-surge.md): Wizard
-* [Aid](../Magic/Spells/aid.md): Artificer, Bard, Cleric, Paladin, Ranger
-* [Air Bubble](../Magic/Spells/air-bubble.md): Artificer, Druid, Ranger, Sorcerer, Wizard
-* [Alicorn Lance](../Magic/Spells/alicorn-lance.md): Cleric, Druid
-* [Align Weapon](../Magic/Spells/align-weapon.md): Artificer, Cleric, Paladin
-* [Allied Footsteps](../Magic/Spells/allied-footsteps.md): Artificer, Druid, Ranger
-* [Alter Self](../Magic/Spells/alter-self.md): Artificer, Sorcerer, Wizard
-* [Alter Time](../Magic/Spells/alter-time.md): Bard, Sorcerer, Wizard
-* [Altruistic Healing](../Magic/Spells/altruistic-healing.md): Cleric, Druid, Paladin, Ranger
-* [Amorphous Form](../Magic/Spells/amorphous-form.md): Druid, Sorcerer, Wizard
-* [Analyze Blood](../Magic/Spells/analyze-blood.md): Bard, Cleric, Druid, Pale Master, Ranger, Sorcerer
-* [Analyze Portal](../Magic/Spells/analyze-portal.md): Artificer, Sorcerer, Wizard
-* [Animal Messenger](../Magic/Spells/animal-messenger.md): Bard, Druid, Ranger
-* [Animal Spy](../Magic/Spells/animal-spy.md): Druid, Ranger
-* [Arcane Instincts](../Magic/Spells/arcane-instincts.md): Artificer, Sorcerer, Warlock, Wizard
-* [Arcane Lock](../Magic/Spells/arcane-lock.md): Artificer, Wizard
-* [Arcane Springboard](../Magic/Spells/arcane-springboard.md): Artificer, Wizard
-* [Arm Hammers](../Magic/Spells/arm-hammers.md): Artificer, Cleric, Paladin
-* [Armathor's Step](../Magic/Spells/armathors-step.md): Sorcerer, Warlock, Wizard
-* [Ash Cloud](../Magic/Spells/ash-cloud.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Ashstar](../Magic/Spells/ashstar.md): Cleric, Warlock
-* [Attuned Wards](../Magic/Spells/attuned-wards.md): Artificer, Druid, Wizard
-* [Augury](../Magic/Spells/augury.md): Cleric, Druid, Wizard
-* [Aura of Glory](../Magic/Spells/aura-of-glory.md): Cleric, Paladin
-* [Avian Geyser](../Magic/Spells/avian-geyser.md): Bard, Druid, Ranger, Sorcerer, Wizard
-* [Backbiter](../Magic/Spells/backbiter.md): Artificer, Bard, Sorcerer, Warlock, Wizard
-* [Bafflement](../Magic/Spells/bafflement.md): Bard, Sorcerer, Warlock, Wizard
-* [Balagarn's Iron Horn](../Magic/Spells/balagarns-iron-horn.md): Bard, Cleric, Paladin
-* [Balancing Lorecall](../Magic/Spells/balancing-lorecall.md): Artificer, Bard, Druid, Ranger, Sorcerer, Warlock, Wizard
-* [Baleful Transposition](../Magic/Spells/baleful-transposition.md): Sorcerer, Warlock, Wizard
-* [Balliard's Rejuvenating Touch](../Magic/Spells/balliards-rejuvenating-touch.md): Cleric, Druid, Paladin, Ranger
-* [Bane of Beshaba](../Magic/Spells/bane-of-beshaba.md): Cleric
-* [Barkskin](../Magic/Spells/barkskin.md): Druid, Ranger, Shaman
-* [Barricade](../Magic/Spells/barricade.md): Wizard
-* [Bastion of Clarity](../Magic/Spells/bastion-of-clarity.md): Cleric, Paladin, Sorcerer
-* [Bat Sense](../Magic/Spells/bat-sense.md): Druid, Ranger
-* [Battering Ram](../Magic/Spells/battering-ram.md): Paladin, Sorcerer, Wizard
-* [Beast Sense](../Magic/Spells/beast-sense.md): Druid, Ranger
-* [Been There](../Magic/Spells/been-there.md): Bard, Sorcerer
-* [Beluud's Brutal Jaunt](../Magic/Spells/beluuds-brutal-jaunt.md): Sorcerer, Warlock, Wizard
-* [Bewitching Glare](../Magic/Spells/bewitching-glare.md): Bard, Shaman, Sorcerer, Warlock
-* [Binding Winds](../Magic/Spells/binding-winds.md): Druid
-* [Black Talon](../Magic/Spells/black-talon.md): Sorcerer, Warlock, Wizard
-* [Blackrot](../Magic/Spells/blackrot.md): Druid, Pale Master, Ranger
-* [Blade of Dark Whispers](../Magic/Spells/blade-of-dark-whispers.md): Artificer, Bard, Paladin, Warlock, Wizard
-* [Blades of Grass](../Magic/Spells/blades-of-grass.md): Ranger
-* [Blast of Force](../Magic/Spells/blast-of-force.md): Sorcerer, Warlock, Wizard
-* [Blastbones](../Magic/Spells/blastbones.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Blinding Spittle](../Magic/Spells/blinding-spittle.md): Druid
-* [Blindness/Deafness](../Magic/Spells/blindness-deafness.md): Bard, Cleric, Pale Master, Sorcerer, Wizard
-* [Blood Bond](../Magic/Spells/blood-bond.md): Cleric
-* [Blood Frenzy](../Magic/Spells/blood-frenzy.md): Druid, Ranger, Warlock
-* [Blood Quill](../Magic/Spells/blood-quill.md): Wizard
-* [Blur](../Magic/Spells/blur.md): Artificer, Sorcerer, Wizard
-* [Body Blades](../Magic/Spells/body-blades.md): Artificer, Druid, Warlock
-* [Body of the Sun](../Magic/Spells/body-of-the-sun.md): Druid, Sorcerer, Wizard
-* [Bone Break](../Magic/Spells/bone-break.md): Sorcerer, Warlock, Wizard
-* [Bonefiddle](../Magic/Spells/bonefiddle.md): Bard, Sorcerer, Warlock, Wizard
-* [Borrowed Knowledge](../Magic/Spells/borrowed-knowledge.md): Bard, Cleric, Shaman, Warlock, Wizard
-* [Bothersome Babble](../Magic/Spells/bothersome-babble.md): Bard, Sorcerer, Warlock, Wizard
-* [Branding Smite](../Magic/Spells/branding-smite.md): Paladin
-* [Breathsense](../Magic/Spells/breathsense.md): Druid, Ranger
-* [Briar Web](../Magic/Spells/briar-web.md): Druid, Ranger
-* [Burning Blade](../Magic/Spells/burning-blade.md): Artificer, Paladin, Ranger, Warlock
-* [Burrowing Claws](../Magic/Spells/burrowing-claws.md): Cleric, Druid, Ranger
-* [Call for Capitulation](../Magic/Spells/call-for-capitulation.md): Bard, Cleric
-* [Calm Emotions](../Magic/Spells/calm-emotions.md): Bard, Cleric
-* [Cannon Blast](../Magic/Spells/cannon-blast.md): Artificer, Sorcerer, Warlock, Wizard
-* [Carnage Blast](../Magic/Spells/carnage-blast.md): Sorcerer, Warlock, Wizard
-* [Carnage Burst](../Magic/Spells/carnage-burst.md): Sorcerer, Warlock, Wizard
-* [Chaos Dice](../Magic/Spells/chaos-dice.md): Artificer, Bard, Cleric, Sorcerer, Warlock
-* [Chaotic Polarity Aura](../Magic/Spells/chaotic-polarity-aura.md): Wizard
-* [Charge Object](../Magic/Spells/charge-object.md): Sorcerer, Wizard
-* [Chilling Scythe](../Magic/Spells/chilling-scythe.md): Cleric, Paladin
-* [Choking Hands](../Magic/Spells/choking-hands.md): Warlock
-* [Clarifying Impact](../Magic/Spells/clarifying-impact.md): Artificer, Ranger, Sorcerer
-* [Claws of Darkness](../Magic/Spells/claws-of-darkness.md): Sorcerer, Warlock, Wizard
-* [Cloud of Daggers](../Magic/Spells/cloud-of-daggers.md): Bard, Sorcerer, Warlock, Wizard
-* [Clutch of the Mire](../Magic/Spells/clutch-of-the-mire.md): Druid, Ranger, Warlock
-* [Cognizant](../Magic/Spells/cognizant.md): Bard, Wizard
-* [Command Minor Beast](../Magic/Spells/command-minor-beast.md): Bard, Cleric, Druid, Ranger
-* [Compose Mind](../Magic/Spells/compose-mind.md): Sorcerer, Warlock, Wizard
-* [Conquering Smite](../Magic/Spells/conquering-smite.md): Paladin
-* [Consecration](../Magic/Spells/consecration.md): Cleric, Paladin
-* [Continual Flame](../Magic/Spells/continual-flame.md): Artificer, Cleric, Druid, Wizard
-* [Cordon of Arrows](../Magic/Spells/cordon-of-arrows.md): Ranger
-* [Creeping Cold](../Magic/Spells/creeping-cold.md): Druid
-* [Crimson Blade](../Magic/Spells/crimson-blade.md): Druid
-* [Crown of Madness](../Magic/Spells/crown-of-madness.md): Bard, Sorcerer, Warlock, Wizard
-* [Curse of Ill Fortune](../Magic/Spells/curse-of-ill-fortune.md): Cleric, Warlock
-* [Curse of Impending Blades](../Magic/Spells/curse-of-impending-blades.md): Cleric, Paladin
-* [Cursing Smite](../Magic/Spells/cursing-smite.md): Paladin
-* [Cyclone Strike](../Magic/Spells/cyclone-strike.md): Ranger, Wizard
-* [Daggerspell Stance](../Magic/Spells/daggerspell-stance.md): Artificer, Bard, Druid, Sorcerer, Warlock, Wizard
-* [Dance of Ruin](../Magic/Spells/dance-of-ruin.md): Sorcerer, Warlock, Wizard
-* [Darkfire](../Magic/Spells/darkfire.md): Cleric, Sorcerer, Warlock, Wizard
-* [Darkness](../Magic/Spells/darkness.md): Pale Master, Shaman, Sorcerer, Warlock, Wizard
-* [Darkvision](../Magic/Spells/darkvision.md): Artificer, Druid, Pale Master, Ranger, Sorcerer, Wizard
-* [Dazzling Flash](../Magic/Spells/dazzling-flash.md): Bard, Sorcerer, Wizard
-* [Death Armor](../Magic/Spells/death-armor.md): Artificer, Sorcerer, Warlock, Wizard
-* [Death Knell](../Magic/Spells/death-knell.md): Cleric, Paladin, Warlock
-* [Decastave](../Magic/Spells/decastave.md): Artificer, Druid, Warlock, Wizard
-* [Decomposition](../Magic/Spells/decomposition.md): Druid
-* [Desecrate](../Magic/Spells/desecrate.md): Cleric, Druid, Warlock
-* [Desecration](../Magic/Spells/desecration.md): Cleric, Paladin, Pale Master
-* [Desperate Gambit](../Magic/Spells/desperate-gambit.md): Cleric, Paladin, Sorcerer, Wizard
-* [Detect Familiar](../Magic/Spells/detect-familiar.md): Bard, Cleric, Druid, Paladin, Pale Master, Ranger, Sorcerer, Warlock, Wizard
-* [Detect Thoughts](../Magic/Spells/detect-thoughts.md): Bard, Sorcerer, Wizard
-* [Detect Undead](../Magic/Spells/detect-undead.md): Bard, Cleric, Druid, Paladin, Pale Master, Ranger, Sorcerer, Warlock, Wizard
-* [Dimensional Reach](../Magic/Spells/dimensional-reach.md): Wizard
-* [Disconnect Bond](../Magic/Spells/disconnect-bond.md): Wizard
-* [Disguise Other](../Magic/Spells/disguise-other.md): Artificer, Bard, Sorcerer, Wizard
-* [Disguise Undead](../Magic/Spells/disguise-undead.md): Bard, Sorcerer, Warlock, Wizard
-* [Dissonant Chant](../Magic/Spells/dissonant-chant.md): Bard, Cleric
-* [Distracting Ray](../Magic/Spells/distracting-ray.md): Bard, Sorcerer, Warlock, Wizard
-* [Dive](../Magic/Spells/dive.md): Artificer, Druid, Ranger, Sorcerer, Wizard
-* [Divine Ward](../Magic/Spells/divine-ward.md): Cleric, Paladin
-* [Doublespeak](../Magic/Spells/doublespeak.md): Bard
-* [Dragon's Breath](../Magic/Spells/dragons-breath.md): Sorcerer, Wizard
-* [Drain Life](../Magic/Spells/drain-life.md): Pale Master
-* [Dramatic Entrance](../Magic/Spells/dramatic-entrance.md): Bard, Paladin, Warlock, Wizard
-* [Drawmij's Breath of Life](../Magic/Spells/drawmijs-breath-of-life.md): Bard, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Dread Mercy](../Magic/Spells/dread-mercy.md): Bard, Paladin, Ranger
-* [Drown](../Magic/Spells/drown.md): Druid, Ranger, Sorcerer, Wizard
-* [Druthers](../Magic/Spells/druthers.md): Bard, Paladin, Sorcerer, Warlock
-* [Dust Devil](../Magic/Spells/dust-devil.md): Druid, Sorcerer, Wizard
-* [Earthbind](../Magic/Spells/earthbind.md): Druid, Sorcerer, Warlock, Wizard
-* [Earthen Affinity](../Magic/Spells/earthen-affinity.md): Druid, Ranger, Sorcerer, Wizard
-* [Easy Climb](../Magic/Spells/easy-climb.md): Artificer, Ranger
-* [Ebony Hand](../Magic/Spells/ebony-hand.md): Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Warlock, Wizard
-* [Elastic Tether](../Magic/Spells/elastic-tether.md): Wizard
-* [Eldritch Tactics](../Magic/Spells/eldritch-tactics.md): Artificer, Sorcerer, Wizard
-* [Electric Armaments](../Magic/Spells/electric-armaments.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Elemental Anguish](../Magic/Spells/elemental-anguish.md): Bard, Cleric, Pale Master, Warlock, Wizard
-* [Elemental Blade](../Magic/Spells/elemental-blade.md): Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard
-* [Elonia's Glamour](../Magic/Spells/elonias-glamour.md): Bard, Sorcerer, Wizard
-* [Embalming Touch](../Magic/Spells/embalming-touch.md): Artificer, Cleric, Sorcerer, Wizard
-* [Energized Shield](../Magic/Spells/energized-shield.md): Artificer, Cleric, Paladin
-* [Enhance Ability](../Magic/Spells/enhance-ability.md): Artificer, Bard, Cleric, Druid, Ranger, Shaman, Sorcerer, Wizard
-* [Enlarge/Reduce](../Magic/Spells/enlarge-reduce.md): Artificer, Bard, Druid, Sorcerer, Wizard
-* [Enliven Corpse](../Magic/Spells/enliven-corpse.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Enthrall](../Magic/Spells/enthrall.md): Bard, Warlock
-* [Ethereal Smite](../Magic/Spells/ethereal-smite.md): Paladin, Sorcerer
-* [Expose the Dead](../Magic/Spells/expose-the-dead.md): Cleric, Druid, Paladin, Ranger
-* [Favor of Tymora](../Magic/Spells/favor-of-tymora.md): Bard, Cleric
-* [Find Steed](../Magic/Spells/find-steed.md): Paladin
-* [Find Traps](../Magic/Spells/find-traps.md): Cleric, Druid, Ranger
-* [Fist of Stone](../Magic/Spells/fist-of-stone.md): Wizard
-* [Flame Blade](../Magic/Spells/flame-blade.md): Druid, Sorcerer
-* [Flaming Sphere](../Magic/Spells/flaming-sphere.md): Druid, Sorcerer, Wizard
-* [Flock of Familiars](../Magic/Spells/flock-of-familiars.md): Warlock, Wizard
-* [Fog of Viscidity](../Magic/Spells/fog-of-viscidity.md): Sorcerer, Wizard
-* [Force Hammer](../Magic/Spells/force-hammer.md): Sorcerer, Wizard
-* [Fortune's Favor](../Magic/Spells/fortunes-favor.md): Wizard
-* [Free Will](../Magic/Spells/free-will.md): Cleric
-* [Frost Backlash](../Magic/Spells/frost-backlash.md): Druid, Ranger, Sorcerer
-* [Frost Breath](../Magic/Spells/frost-breath.md): Cleric, Druid
-* [Frost Whip](../Magic/Spells/frost-whip.md): Artificer, Cleric, Druid
-* [Gale Weapons](../Magic/Spells/gale-weapons.md): Ranger, Wizard
-* [Gale of Obscurity](../Magic/Spells/gale-of-obscurity.md): Druid, Sorcerer, Wizard
-* [Gentle Repose](../Magic/Spells/gentle-repose.md): Cleric, Paladin, Pale Master, Wizard
-* [Ghost Pipes](../Magic/Spells/ghost-pipes.md): Bard
-* [Gibberish Curse](../Magic/Spells/gibberish-curse.md): Bard, Cleric, Druid, Sorcerer, Warlock
-* [Gift of Gab](../Magic/Spells/gift-of-gab.md): Bard, Wizard
-* [Glacious](../Magic/Spells/glacious.md): Druid, Sorcerer, Wizard
-* [Glitterdust](../Magic/Spells/glitterdust.md): Artificer, Bard, Cleric, Sorcerer, Wizard
-* [Glyph of Revealing](../Magic/Spells/glyph-of-revealing.md): Artificer, Cleric, Sorcerer, Wizard
-* [Gravity Ward](../Magic/Spells/gravity-ward.md): Wizard
-* [Greater Acupuncture](../Magic/Spells/greater-acupuncture.md): Artificer, Cleric, Druid, Sorcerer
-* [Grimlore's Shadowgrasp](../Magic/Spells/grimlores-shadowgrasp.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Gust of Wind](../Magic/Spells/gust-of-wind.md): Druid, Ranger, Sorcerer, Wizard
-* [Hail of Stone](../Magic/Spells/hail-of-stone.md): Sorcerer, Wizard
-* [Handfang](../Magic/Spells/handfang.md): Druid, Ranger
-* [Healing Spirit](../Magic/Spells/healing-spirit.md): Druid, Ranger, Shaman
-* [Heat Metal](../Magic/Spells/heat-metal.md): Artificer, Bard, Druid
-* [Hold Person](../Magic/Spells/hold-person.md): Bard, Cleric, Druid, Shaman, Sorcerer, Warlock, Wizard
-* [Holy Missile](../Magic/Spells/holy-missile.md): Cleric
-* [Howling Downpour](../Magic/Spells/howling-downpour.md): Druid, Wizard
-* [Hush](../Magic/Spells/hush.md): Bard, Ranger, Wizard
-* [Ice Shield](../Magic/Spells/ice-shield.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Icicle Blast](../Magic/Spells/icicle-blast.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Icingdeath's Frost](../Magic/Spells/icingdeaths-frost.md): Sorcerer, Wizard
-* [Illusory Reversal](../Magic/Spells/illusory-reversal.md): Bard, Sorcerer, Wizard
-* [Immovable Object](../Magic/Spells/immovable-object.md): Wizard
-* [Impart Knowledge](../Magic/Spells/impart-knowledge.md): Artificer, Bard, Wizard
-* [Infuse Blood](../Magic/Spells/infuse-blood.md): Artificer, Cleric, Paladin, Sorcerer, Wizard
-* [Inquisitive Intuition](../Magic/Spells/inquisitive-intuition.md): Artificer, Bard, Ranger, Sorcerer, Warlock, Wizard
-* [Insatiable Thirst](../Magic/Spells/insatiable-thirst.md): Druid, Ranger
-* [Invigorating Strike](../Magic/Spells/invigorating-strike.md): Artificer, Bard, Cleric, Paladin
-* [Invisibility](../Magic/Spells/invisibility.md): Artificer, Bard, Sorcerer, Warlock, Wizard
-* [Jaws of the Wolf](../Magic/Spells/jaws-of-the-wolf.md): Druid, Ranger
-* [Jim's Glowing Coin](../Magic/Spells/jims-glowing-coin.md): Wizard
-* [Jolt of Pain](../Magic/Spells/jolt-of-pain.md): Sorcerer, Warlock, Wizard
-* [Kelpstrand](../Magic/Spells/kelpstrand.md): Druid, Ranger
-* [Kinetic Jaunt](../Magic/Spells/kinetic-jaunt.md): Artificer, Bard, Sorcerer, Wizard
-* [Knight's Move](../Magic/Spells/knights-move.md): Artificer, Bard, Cleric, Paladin
-* [Knock](../Magic/Spells/knock.md): Bard, Sorcerer, Wizard
-* [Lava Missile](../Magic/Spells/lava-missile.md): Cleric, Druid
-* [Leomund's Trap](../Magic/Spells/leomunds-trap.md): Sorcerer, Wizard
-* [Lesser Charm of Second Chance](../Magic/Spells/lesser-charm-of-second-chance.md): Wizard
-* [Lesser Fabricate](../Magic/Spells/lesser-fabricate.md): Artificer, Cleric, Wizard
-* [Lesser Fire Trap](../Magic/Spells/lesser-fire-trap.md): Artificer, Druid, Sorcerer, Warlock, Wizard
-* [Lesser Restoration](../Magic/Spells/lesser-restoration.md): Artificer, Bard, Cleric, Druid, Paladin, Ranger
-* [Lesser Sticks to Snakes](../Magic/Spells/lesser-sticks-to-snakes.md): Cleric, Druid, Ranger
-* [Levitate](../Magic/Spells/levitate.md): Artificer, Sorcerer, Wizard
-* [Lifetap](../Magic/Spells/lifetap.md): Artificer, Bard, Cleric, Druid, Pale Master, Warlock, Wizard
-* [Lightning Blast](../Magic/Spells/lightning-blast.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Listening Lorecall](../Magic/Spells/listening-lorecall.md): Artificer, Bard, Druid, Ranger
-* [Lively Step](../Magic/Spells/lively-step.md): Artificer, Bard, Sorcerer, Wizard
-* [Living Bomb](../Magic/Spells/living-bomb.md): Sorcerer, Wizard
-* [Locate Animals or Plants](../Magic/Spells/locate-animals-or-plants.md): Bard, Druid, Ranger
-* [Locate Object](../Magic/Spells/locate-object.md): Bard, Cleric, Druid, Paladin, Ranger, Wizard
-* [Love Bite](../Magic/Spells/love-bite.md): Bard, Cleric, Paladin
-* [Loyal Vassal](../Magic/Spells/loyal-vassal.md): Paladin
-* [Lucky Blade](../Magic/Spells/lucky-blade.md): Artificer, Cleric, Paladin
-* [Luminous Swarm](../Magic/Spells/luminous-swarm.md): Druid, Ranger
-* [Lunar Fire Fist](../Magic/Spells/lunar-fire-fist.md): Wizard
-* [Magic Mouth](../Magic/Spells/magic-mouth.md): Artificer, Bard, Wizard
-* [Magic Weapon](../Magic/Spells/magic-weapon.md): Artificer, Paladin, Ranger, Sorcerer, Wizard
-* [Major Telekinetic Weapon](../Magic/Spells/major-telekinetic-weapon.md): Artificer, Cleric, Paladin, Sorcerer
-* [Mana Burn](../Magic/Spells/mana-burn.md): Sorcerer, Wizard
-* [Manacle of Burden](../Magic/Spells/manacle-of-burden.md): Pale Master, Warlock, Wizard
-* [Manythorns](../Magic/Spells/manythorns.md): Druid, Ranger
-* [Maskstone](../Magic/Spells/maskstone.md): Druid, Ranger
-* [Masochist's Salvation](../Magic/Spells/masochists-salvation.md): Sorcerer, Warlock, Wizard
-* [Maximilian's Earthen Grasp](../Magic/Spells/maximilians-earthen-grasp.md): Sorcerer, Wizard
-* [Melf's Acid Arrow](../Magic/Spells/melfs-acid-arrow.md): Wizard
-* [Mental Barrier](../Magic/Spells/mental-barrier.md): Sorcerer, Warlock, Wizard
-* [Merchant's Glamer](../Magic/Spells/merchants-glamer.md): Artificer, Bard
-* [Mind Spike](../Magic/Spells/mind-spike.md): Sorcerer, Warlock, Wizard
-* [Mind Thrust](../Magic/Spells/mind-thrust.md): Sorcerer, Warlock, Wizard
-* [Mirror Image](../Magic/Spells/mirror-image.md): Bard, Sorcerer, Warlock, Wizard
-* [Misty Step](../Magic/Spells/misty-step.md): Pale Master, Shaman, Sorcerer, Warlock, Wizard
-* [Moon Rune](../Magic/Spells/moon-rune.md): Artificer, Bard
-* [Moonbeam](../Magic/Spells/moonbeam.md): Druid, Shaman
-* [Mountain Stance](../Magic/Spells/mountain-stance.md): Artificer, Druid, Paladin, Sorcerer, Wizard
-* [Mountains to Molehills](../Magic/Spells/mountains-to-molehills.md): Druid, Ranger, Wizard
-* [Murderous Twin](../Magic/Spells/murderous-twin.md): Artificer, Warlock, Wizard
-* [Nathair's Mischief](../Magic/Spells/nathairs-mischief.md): Bard, Sorcerer, Wizard
-* [Necrotic Visage](../Magic/Spells/necrotic-visage.md): Pale Master, Warlock, Wizard
-* [Needlestorm](../Magic/Spells/needlestorm.md): Druid, Ranger
-* [Nightmare Lullaby](../Magic/Spells/nightmare-lullaby.md): Bard
-* [Nimodes' Major Delousing](../Magic/Spells/nimodes-major-delousing.md): Artificer, Bard, Paladin, Ranger
-* [Nystul's Magic Aura](../Magic/Spells/nystuls-magic-aura.md): Wizard
-* [Otiluke's Boiling Oil Bath](../Magic/Spells/otilukes-boiling-oil-bath.md): Sorcerer, Warlock, Wizard
-* [Overpower Bond](../Magic/Spells/overpower-bond.md): Wizard
-* [Painful Revelations](../Magic/Spells/painful-revelations.md): Bard, Sorcerer
-* [Pass without Trace](../Magic/Spells/pass-without-trace.md): Druid, Ranger, Shaman
-* [Passionate Pursuit](../Magic/Spells/passionate-pursuit.md): Shaman, Wizard
-* [Past Life](../Magic/Spells/past-life.md): Cleric, Paladin
-* [Phantasmal Force](../Magic/Spells/phantasmal-force.md): Bard, Sorcerer, Wizard
-* [Phantom Wind](../Magic/Spells/phantom-wind.md): Sorcerer, Warlock, Wizard
-* [Poison Food or Drink](../Magic/Spells/poison-food-or-drink.md): Artificer, Druid, Ranger, Sorcerer, Warlock, Wizard
-* [Poisonstar](../Magic/Spells/poisonstar.md): Druid, Ranger
-* [Portrait](../Magic/Spells/portrait.md): Artificer, Sorcerer, Warlock, Wizard
-* [Prayer of Healing](../Magic/Spells/prayer-of-healing.md): Cleric, Paladin
-* [Projected Magnification](../Magic/Spells/projected-magnification.md): Bard
-* [Protection from Aerial Attack](../Magic/Spells/protection-from-aerial-attack.md): Artificer, Sorcerer, Warlock, Wizard
-* [Protection from Cantrips](../Magic/Spells/protection-from-cantrips.md): Artificer, Bard, Cleric, Paladin, Sorcerer, Warlock, Wizard
-* [Protection from Paralysis](../Magic/Spells/protection-from-paralysis.md): Artificer, Cleric, Druid, Ranger
-* [Protection from Poison](../Magic/Spells/protection-from-poison.md): Artificer, Cleric, Druid, Paladin, Ranger, Shaman
-* [Psychic Backlash](../Magic/Spells/psychic-backlash.md): Bard, Sorcerer
-* [Pullulate](../Magic/Spells/pullulate.md): Druid
-* [Pyrotechnics](../Magic/Spells/pyrotechnics.md): Artificer, Bard, Sorcerer, Wizard
-* [Quivaelyn's Silversteel Veil](../Magic/Spells/quivaelyns-silversteel-veil.md): Artificer, Druid, Ranger, Sorcerer, Warlock, Wizard
-* [Quivaelyn's Sloth Strike](../Magic/Spells/quivaelyns-sloth-strike.md): Artificer, Bard, Sorcerer, Warlock, Wizard
-* [Quivaelyn's Wind Stepping Stance](../Magic/Spells/quivaelyns-wind-stepping-stance.md): Bard, Druid, Ranger, Sorcerer, Wizard
-* [Radiant Burst](../Magic/Spells/radiant-burst.md): Wizard
-* [Radiant Weapon](../Magic/Spells/radiant-weapon.md): Wizard
-* [Radiating Blade of Tempus](../Magic/Spells/radiating-blade-of-tempus.md): Cleric, Paladin
-* [Rain](../Magic/Spells/rain.md): Wizard
-* [Rain of Steel](../Magic/Spells/rain-of-steel.md): Artificer, Cleric, Paladin, Ranger
-* [Rainbow Beam](../Magic/Spells/rainbow-beam.md): Sorcerer, Wizard
-* [Ray of Enfeeblement](../Magic/Spells/ray-of-enfeeblement.md): Pale Master, Warlock, Wizard
-* [Ray of Ondovir](../Magic/Spells/ray-of-ondovir.md): Sorcerer, Warlock, Wizard
-* [Razorscales](../Magic/Spells/razorscales.md): Druid, Ranger, Sorcerer
-* [Reaping Strike](../Magic/Spells/reaping-strike.md): Ranger
-* [Recitation](../Magic/Spells/recitation.md): Cleric
-* [Revenance](../Magic/Spells/revenance.md): Cleric
-* [Rime's Binding Ice](../Magic/Spells/rimes-binding-ice.md): Sorcerer, Wizard
-* [Rizzak's Reeking Filth ](../Magic/Spells/rizzaks-reeking-filth.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Warlock, Wizard
-* [Rope Trick](../Magic/Spells/rope-trick.md): Artificer, Wizard
-* [Sanctify Water](../Magic/Spells/sanctify-water.md): Cleric, Paladin
-* [Scorching Ray](../Magic/Spells/scorching-ray.md): Sorcerer, Wizard
-* [Screen of Protection](../Magic/Spells/screen-of-protection.md): Artificer, Bard, Cleric, Paladin, Sorcerer, Wizard
-* [Seal Mouth](../Magic/Spells/seal-mouth.md): Sorcerer, Warlock, Wizard
-* [Secret Page](../Magic/Spells/secret-page.md): Artificer, Cleric, Wizard
-* [See Invisibility](../Magic/Spells/see-invisibility.md): Artificer, Bard, Sorcerer, Wizard
-* [See Through Other Eyes](../Magic/Spells/see-through-other-eyes.md): Druid, Ranger
-* [Self Destruct](../Magic/Spells/self-destruct.md): Wizard
-* [Shadow Bind](../Magic/Spells/shadow-bind.md): Bard, Pale Master, Sorcerer, Warlock, Wizard
-* [Shadow Blade](../Magic/Spells/shadow-blade.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Shadow Blink](../Magic/Spells/shadow-blink.md): Bard, Druid, Sorcerer, Wizard
-* [Shadow Burst](../Magic/Spells/shadow-burst.md): Sorcerer, Warlock, Wizard
-* [Shadow Sight](../Magic/Spells/shadow-sight.md): Bard, Ranger, Wizard
-* [Shatter](../Magic/Spells/shatter.md): Bard, Sorcerer, Warlock, Wizard
-* [Shield Other](../Magic/Spells/shield-other.md): Artificer, Bard, Cleric, Paladin
-* [Siege Imbuement](../Magic/Spells/siege-imbuement.md): Wizard
-* [Silence](../Magic/Spells/silence.md): Bard, Cleric, Pale Master, Ranger
-* [Silvanus' Blessing](../Magic/Spells/silvanus-blessing.md): Druid, Pale Master, Ranger
-* [Silvanus' Favor](../Magic/Spells/silvanus-favor.md): Druid, Ranger, Wizard
-* [Skip Time](../Magic/Spells/skip-time.md): Sorcerer, Wizard
-* [Skywrite](../Magic/Spells/skywrite.md): Artificer, Bard, Druid, Wizard
-* [Snilloc's Snowball Storm](../Magic/Spells/snillocs-snowball-storm.md): Sorcerer, Wizard
-* [Snowball](../Magic/Spells/snowball.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Sow Confusion](../Magic/Spells/sow-confusion.md): Bard, Ranger, Sorcerer, Warlock, Wizard
-* [Spider Climb](../Magic/Spells/spider-climb.md): Artificer, Shaman, Sorcerer, Warlock, Wizard
-* [Spike Growth](../Magic/Spells/spike-growth.md): Druid, Ranger, Shaman
-* [Spiritual Weapon](../Magic/Spells/spiritual-weapon.md): Cleric
-* [Spray of Cards](../Magic/Spells/spray-of-cards.md): Bard, Sorcerer, Warlock, Wizard
-* [Stolen Breath](../Magic/Spells/stolen-breath.md): Cleric
-* [Strength of Stone](../Magic/Spells/strength-of-stone.md): Artificer, Paladin
-* [Sudden Formation](../Magic/Spells/sudden-formation.md): Bard, Paladin
-* [Sudden Transposition](../Magic/Spells/sudden-transposition.md): Artificer, Bard, Wizard
-* [Suffer the Flesh](../Magic/Spells/suffer-the-flesh.md): Sorcerer, Warlock, Wizard
-* [Suggestion](../Magic/Spells/suggestion.md): Bard, Sorcerer, Warlock, Wizard
-* [Summon Beast](../Magic/Spells/summon-beast.md): Druid, Ranger
-* [Surge of Chaos](../Magic/Spells/surge-of-chaos.md): Sorcerer
-* [Symbiotic Confidence](../Magic/Spells/symbiotic-confidence.md): Shaman, Wizard
-* [Tactical Precision](../Magic/Spells/tactical-precision.md): Artificer, Bard
-* [Tasha's Mind Whip](../Magic/Spells/tashas-mind-whip.md): Sorcerer, Wizard
-* [Terra Spike](../Magic/Spells/terra-spike.md): Druid, Sorcerer, Warlock, Wizard
-* [Tether Soul](../Magic/Spells/tether-soul.md): Cleric, Pale Master, Warlock
-* [Thought Shield](../Magic/Spells/thought-shield.md): Sorcerer, Warlock, Wizard
-* [Tidy](../Magic/Spells/tidy.md): Wizard
-* [Touch of the Talontar](../Magic/Spells/touch-of-the-talontar.md): Cleric
-* [Track](../Magic/Spells/track.md): Druid, Ranger
-* [Twisting Throw](../Magic/Spells/twisting-throw.md): Artificer, Cleric, Paladin, Ranger
-* [Ubtao's Tiny Teraform](../Magic/Spells/ubtaos-tiny-teraform.md): Druid, Ranger, Wizard
-* [Unluck](../Magic/Spells/unluck.md): Bard, Cleric, Sorcerer, Wizard
-* [Unpickable Lock](../Magic/Spells/unpickable-lock.md): Artificer, Bard, Cleric
-* [Unseat Hand](../Magic/Spells/unseat-hand.md): Pale Master
-* [Vecna's Final Command](../Magic/Spells/vecnas-final-command.md): Artificer, Cleric, Warlock
-* [Veil of Elements](../Magic/Spells/veil-of-elements.md): Sorcerer, Wizard
-* [Vocalize](../Magic/Spells/vocalize.md): Sorcerer, Warlock, Wizard
-* [Voidsight](../Magic/Spells/voidsight.md): Wizard
-* [Vortex Warp](../Magic/Spells/vortex-warp.md): Artificer, Sorcerer, Wizard
-* [Wakefulness](../Magic/Spells/wakefulness.md): Druid, Ranger
-* [War Cry](../Magic/Spells/war-cry.md): Bard, Paladin, Ranger
-* [Warding Bond](../Magic/Spells/warding-bond.md): Cleric, Paladin, Shaman
-* [Warding Wind](../Magic/Spells/warding-wind.md): Bard, Druid, Sorcerer, Wizard
-* [Warning Breath](../Magic/Spells/warning-breath.md): Artificer, Cleric, Druid, Paladin, Ranger
-* [Warp Stone](../Magic/Spells/warp-stone.md): Artificer, Cleric, Druid, Ranger
-* [Web](../Magic/Spells/web.md): Artificer, Sorcerer, Wizard
-* [Whip of Flame](../Magic/Spells/whip-of-flame.md): Artificer, Cleric, Warlock
-* [Whirling Blade](../Magic/Spells/whirling-blade.md): Artificer, Sorcerer, Wizard
-* [Whispers of Hellfire](../Magic/Spells/whispers-of-hellfire.md): Warlock
-* [Wieldskill](../Magic/Spells/wieldskill.md): Artificer, Bard, Cleric, Wizard
-* [Wither and Bloom](../Magic/Spells/wither-and-bloom.md): Druid, Sorcerer, Wizard
-* [Wolfjaws](../Magic/Spells/wolfjaws.md): Cleric, Paladin
-* [Wracking Touch](../Magic/Spells/wracking-touch.md): Cleric, Paladin
-* [Wraithstrike](../Magic/Spells/wraithstrike.md): Bard
-* [Wristpocket](../Magic/Spells/wristpocket.md): Wizard
-* [Zeal](../Magic/Spells/zeal.md): Cleric, Paladin
-* [Zealous Sanction](../Magic/Spells/zealous-sanction.md): Cleric, Paladin
-* [Zone of Natural Purity](../Magic/Spells/zone-of-natural-purity.md): Druid, Ranger
-* [Zone of Truth](../Magic/Spells/zone-of-truth.md): Bard, Cleric, Paladin
-* [ice sculpture](../Magic/Spells/ice-sculpture.md): Artificer, Druid, Sorcerer, Wizard
+* [Accelerated Movement](./accelerated-movement.md) (Artificer,Ranger)
+* [Action Trance](./action-trance.md) (Artificer,Druid,Paladin,Ranger,Wizard)
+* [Aganazzar's Scorcher](./aganazzars-scorcher.md) (Sorcerer,Wizard)
+* [Aggressive Surge](./aggressive-surge.md) (Wizard)
+* [Aid](./aid.md) (Artificer,Bard,Cleric,Paladin,Ranger)
+* [Air Bubble](./air-bubble.md) (Artificer,Druid,Ranger,Sorcerer,Wizard)
+* [Alicorn Lance](./alicorn-lance.md) (Cleric,Druid)
+* [Align Weapon](./align-weapon.md) *ritual* (Artificer,Cleric,Paladin)
+* [Allied Footsteps](./allied-footsteps.md) (Artificer,Druid,Ranger)
+* [Alter Self](./alter-self.md) (Artificer,Sorcerer,Wizard)
+* [Alter Time](./alter-time.md) (Bard,Sorcerer,Wizard)
+* [Altruistic Healing](./altruistic-healing.md) (Cleric,Druid,Paladin,Ranger)
+* [Amorphous Form](./amorphous-form.md) (Druid,Sorcerer,Wizard)
+* [Analyze Blood](./analyze-blood.md) *ritual* (Bard,Cleric,Druid,Pale Master,Ranger,Sorcerer)
+* [Analyze Portal](./analyze-portal.md) *ritual* (Artificer,Sorcerer,Wizard)
+* [Animal Messenger](./animal-messenger.md) *ritual* (Bard,Druid,Ranger)
+* [Animal Spy](./animal-spy.md) (Druid,Ranger)
+* [Arcane Instincts](./arcane-instincts.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Arcane Lock](./arcane-lock.md) (Artificer,Wizard)
+* [Arcane Springboard](./arcane-springboard.md) (Artificer,Wizard)
+* [Arcane Transference](./arcane-transference.md) (Bard,Wizard)
+* [Arm Hammers](./arm-hammers.md) (Artificer,Cleric,Paladin)
+* [Armathor's Step](./armathors-step.md) (Sorcerer,Warlock,Wizard)
+* [Ash Cloud](./ash-cloud.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Ashstar](./ashstar.md) (Cleric,Warlock)
+* [Attuned Wards](./attuned-wards.md) (Artificer,Druid,Wizard)
+* [Augury](./augury.md) *ritual* (Cleric,Druid,Wizard)
+* [Aura of Glory](./aura-of-glory.md) (Cleric,Paladin)
+* [Avian Geyser](./avian-geyser.md) (Bard,Druid,Ranger,Sorcerer,Wizard)
+* [Backbiter](./backbiter.md) (Artificer,Bard,Sorcerer,Warlock,Wizard)
+* [Bafflement](./bafflement.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Balagarn's Iron Horn](./balagarns-iron-horn.md) (Bard,Cleric,Paladin)
+* [Balancing Lorecall](./balancing-lorecall.md) (Artificer,Bard,Druid,Ranger,Sorcerer,Warlock,Wizard)
+* [Baleful Transposition](./baleful-transposition.md) (Sorcerer,Warlock,Wizard)
+* [Balliard's Rejuvenating Touch](./balliards-rejuvenating-touch.md) (Cleric,Druid,Paladin,Ranger)
+* [Bane of Beshaba](./bane-of-beshaba.md) (Cleric)
+* [Barkskin](./barkskin.md) (Druid,Ranger,Shaman)
+* [Barricade](./barricade.md) (Wizard)
+* [Bastion of Clarity](./bastion-of-clarity.md) (Cleric,Paladin,Sorcerer)
+* [Bat Sense](./bat-sense.md) (Druid,Ranger)
+* [Battering Ram](./battering-ram.md) (Paladin,Sorcerer,Wizard)
+* [Beast Sense](./beast-sense.md) *ritual* (Druid,Ranger)
+* [Been There](./been-there.md) (Bard,Sorcerer)
+* [Beluud's Brutal Jaunt](./beluuds-brutal-jaunt.md) (Sorcerer,Warlock,Wizard)
+* [Bewitching Glare](./bewitching-glare.md) (Bard,Shaman,Sorcerer,Warlock)
+* [Binding Wind](./binding-wind.md) (Cleric,Druid,Sorcerer,Warlock,Wizard)
+* [Binding Winds](./binding-winds.md) (Druid)
+* [Black Talon](./black-talon.md) (Sorcerer,Warlock,Wizard)
+* [Blackrot](./blackrot.md) *brandish* (Druid,Pale Master,Ranger)
+* [Blade of Dark Whispers](./blade-of-dark-whispers.md) *brandish* (Artificer,Bard,Paladin,Pale Master,Warlock,Wizard)
+* [Blade of Elemental Chaos](./blade-of-elemental-chaos.md) (Wizard)
+* [Blades of Grass](./blades-of-grass.md) (Ranger)
+* [Blast of Force](./blast-of-force.md) (Sorcerer,Warlock,Wizard)
+* [Blastbones](./blastbones.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Blaze](./blaze.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Blazing Blade Arc](./blazing-blade-arc.md) *brandish* (Paladin,Sorcerer,Warlock,Wizard)
+* [Blazing Portcullis](./blazing-portcullis.md) (Sorcerer,Wizard)
+* [Blinding Flare](./blinding-flare.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Blinding Spittle](./blinding-spittle.md) (Druid)
+* [Blindness/Deafness](./blindness-deafness.md) (Bard,Cleric,Pale Master,Sorcerer,Wizard)
+* [Blink Slash](./blink-slash.md) *brandish* (Bard,Ranger,Sorcerer,Warlock,Wizard)
+* [Blood Bond](./blood-bond.md) *ritual* (Cleric)
+* [Blood Frenzy](./blood-frenzy.md) (Druid,Ranger,Warlock)
+* [Blood Quill](./blood-quill.md) *blood,ritual* (Wizard)
+* [Blur](./blur.md) (Artificer,Sorcerer,Wizard)
+* [Body Blades](./body-blades.md) (Artificer,Druid,Warlock)
+* [Body Spin](./body-spin.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Body of the Sun](./body-of-the-sun.md) (Druid,Sorcerer,Wizard)
+* [Bone Break](./bone-break.md) (Sorcerer,Warlock,Wizard)
+* [Bonefiddle](./bonefiddle.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Borrowed Knowledge](./borrowed-knowledge.md) (Bard,Cleric,Shaman,Warlock,Wizard)
+* [Bothersome Babble](./bothersome-babble.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Breathsense](./breathsense.md) (Druid,Ranger)
+* [Briar Web](./briar-web.md) (Druid,Ranger)
+* [Brightflame](./brightflame.md) *ritual* (Cleric,Druid,Ranger,Warlock,Wizard)
+* [Burning Blade](./burning-blade.md) *brandish* (Artificer,Paladin,Ranger,Warlock)
+* [Burrowing Claws](./burrowing-claws.md) (Cleric,Druid,Ranger)
+* [Call for Capitulation](./call-for-capitulation.md) (Bard,Cleric)
+* [Calm Emotions](./calm-emotions.md) (Bard,Cleric)
+* [Cannon Blast](./cannon-blast.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Carnage Blast](./carnage-blast.md) (Sorcerer,Warlock,Wizard)
+* [Carnage Burst](./carnage-burst.md) (Sorcerer,Warlock,Wizard)
+* [Chain of Spell Theft](./chain-of-spell-theft.md) (Warlock,Wizard)
+* [Chaos Dice](./chaos-dice.md) (Artificer,Bard,Cleric,Sorcerer,Warlock)
+* [Chaotic Polarity Aura](./chaotic-polarity-aura.md) (Wizard)
+* [Charge Object](./charge-object.md) (Sorcerer,Wizard)
+* [Chilling Ray](./chilling-ray.md) (Sorcerer,Wizard)
+* [Chilling Scythe](./chilling-scythe.md) *brandish* (Cleric,Paladin)
+* [Choking Hands](./choking-hands.md) (Warlock)
+* [Clarifying Impact](./clarifying-impact.md) (Artificer,Ranger,Sorcerer)
+* [Claws of Darkness](./claws-of-darkness.md) (Sorcerer,Warlock,Wizard)
+* [Cloud of Daggers](./cloud-of-daggers.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Clutch of the Mire](./clutch-of-the-mire.md) (Druid,Ranger,Warlock)
+* [Cognizant](./cognizant.md) *ritual* (Bard,Wizard)
+* [Command Minor Beast](./command-minor-beast.md) (Bard,Cleric,Druid,Ranger)
+* [Compose Mind](./compose-mind.md) (Sorcerer,Warlock,Wizard)
+* [Conquering Smite](./conquering-smite.md) (Paladin)
+* [Consecration](./consecration.md) (Cleric,Paladin)
+* [Continual Flame](./continual-flame.md) (Artificer,Cleric,Druid,Wizard)
+* [Cordon of Arrows](./cordon-of-arrows.md) (Ranger)
+* [Corroding Ray](./corroding-ray.md) (Sorcerer,Wizard)
+* [Creeping Cold](./creeping-cold.md) (Druid)
+* [Crimson Blade](./crimson-blade.md) *blood* (Druid)
+* [Crown of Madness](./crown-of-madness.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Curse of Ill Fortune](./curse-of-ill-fortune.md) (Cleric,Warlock)
+* [Curse of Impending Blades](./curse-of-impending-blades.md) (Cleric,Paladin)
+* [Cursing Smite](./cursing-smite.md) (Paladin)
+* [Cutting Ray](./cutting-ray.md) (Sorcerer,Wizard)
+* [Cyclone Strike](./cyclone-strike.md) (Ranger,Wizard)
+* [Daggerspell Stance](./daggerspell-stance.md) (Artificer,Bard,Druid,Sorcerer,Warlock,Wizard)
+* [Dance of Ruin](./dance-of-ruin.md) (Sorcerer,Warlock,Wizard)
+* [Darkfire](./darkfire.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Darkness](./darkness.md) (Pale Master,Shaman,Sorcerer,Warlock,Wizard)
+* [Darkvision](./darkvision.md) (Artificer,Druid,Pale Master,Ranger,Sorcerer,Wizard)
+* [Dazzling Flash](./dazzling-flash.md) (Bard,Sorcerer,Wizard)
+* [Death Armor](./death-armor.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Death Knell](./death-knell.md) (Cleric,Paladin,Warlock)
+* [Decastave](./decastave.md) (Artificer,Druid,Warlock,Wizard)
+* [Decomposition](./decomposition.md) (Druid)
+* [Desecrate](./desecrate.md) *ritual* (Cleric,Druid,Warlock)
+* [Desecration](./desecration.md) (Cleric,Paladin,Pale Master)
+* [Desperate Gambit](./desperate-gambit.md) (Cleric,Paladin,Sorcerer,Wizard)
+* [Detect Familiar](./detect-familiar.md) (Bard,Cleric,Druid,Paladin,Pale Master,Ranger,Sorcerer,Warlock,Wizard)
+* [Detect Thoughts](./detect-thoughts.md) (Bard,Sorcerer,Wizard)
+* [Detect Undead](./detect-undead.md) (Bard,Cleric,Druid,Paladin,Pale Master,Ranger,Sorcerer,Warlock,Wizard)
+* [Dimensional Reach](./dimensional-reach.md) (Wizard)
+* [Disconnect Bond](./disconnect-bond.md) (Wizard)
+* [Disguise Other](./disguise-other.md) (Artificer,Bard,Sorcerer,Wizard)
+* [Disguise Undead](./disguise-undead.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Disperse Reserves](./disperse-reserves.md) (Bard,Sorcerer,Wizard)
+* [Dissonant Chant](./dissonant-chant.md) (Bard,Cleric)
+* [Distracting Ray](./distracting-ray.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Dive](./dive.md) (Artificer,Druid,Ranger,Sorcerer,Wizard)
+* [Divine Ward](./divine-ward.md) (Cleric,Paladin)
+* [Doublespeak](./doublespeak.md) (Bard)
+* [Dragon's Breath](./dragons-breath.md) (Sorcerer,Wizard)
+* [Drain Life](./drain-life.md) (Pale Master)
+* [Dramatic Entrance](./dramatic-entrance.md) (Bard,Paladin,Warlock,Wizard)
+* [Drawmij's Breath of Life](./drawmijs-breath-of-life.md) (Bard,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Dread Mercy](./dread-mercy.md) (Bard,Paladin,Ranger)
+* [Drown](./drown.md) (Druid,Ranger,Sorcerer,Wizard)
+* [Druthers](./druthers.md) (Bard,Paladin,Sorcerer,Warlock)
+* [Dust Devil](./dust-devil.md) (Druid,Sorcerer,Wizard)
+* [Earthbind](./earthbind.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Earthen Affinity](./earthen-affinity.md) (Druid,Ranger,Sorcerer,Wizard)
+* [Easy Climb](./easy-climb.md) (Artificer,Ranger)
+* [Ebony Hand](./ebony-hand.md) (Artificer,Bard,Cleric,Druid,Pale Master,Ranger,Sorcerer,Warlock,Wizard)
+* [Elastic Tether](./elastic-tether.md) (Wizard)
+* [Eldritch Tactics](./eldritch-tactics.md) (Artificer,Sorcerer,Wizard)
+* [Electric Armaments](./electric-armaments.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Elemental Anguish](./elemental-anguish.md) (Bard,Cleric,Pale Master,Warlock,Wizard)
+* [Elemental Blade](./elemental-blade.md) (Artificer,Bard,Cleric,Druid,Paladin,Ranger,Sorcerer,Warlock,Wizard)
+* [Elonia's Glamour](./elonias-glamour.md) (Bard,Sorcerer,Wizard)
+* [Embalming Touch](./embalming-touch.md) *ritual* (Artificer,Cleric,Sorcerer,Wizard)
+* [Energized Shield](./energized-shield.md) (Artificer,Cleric,Paladin)
+* [Enhance Ability](./enhance-ability.md) (Artificer,Bard,Cleric,Druid,Ranger,Shaman,Sorcerer,Wizard)
+* [Enlarge/Reduce](./enlarge-reduce.md) (Artificer,Bard,Druid,Sorcerer,Wizard)
+* [Enliven Corpse](./enliven-corpse.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Enthrall](./enthrall.md) (Bard,Warlock)
+* [Ethereal Smite](./ethereal-smite.md) (Paladin,Sorcerer)
+* [Expansive Blade](./expansive-blade.md) *brandish* (Bard,Sorcerer,Warlock,Wizard)
+* [Explosive Force Arrow](./explosive-force-arrow.md) (Ranger,Sorcerer,Warlock,Wizard)
+* [Expose the Dead](./expose-the-dead.md) (Cleric,Druid,Paladin,Ranger)
+* [Favor of Tymora](./favor-of-tymora.md) (Bard,Cleric)
+* [Find Steed](./find-steed.md) (Paladin)
+* [Find Traps](./find-traps.md) (Cleric,Druid,Ranger)
+* [Fist of Stone](./fist-of-stone.md) (Wizard)
+* [Flame Blade](./flame-blade.md) (Druid,Sorcerer)
+* [Flame Whip](./flame-whip.md) (Druid)
+* [Flaming Sphere](./flaming-sphere.md) (Druid,Sorcerer,Wizard)
+* [Flock of Familiars](./flock-of-familiars.md) (Warlock,Wizard)
+* [Fog of Viscidity](./fog-of-viscidity.md) (Sorcerer,Wizard)
+* [Force Arrow](./force-arrow.md) (Ranger,Sorcerer,Warlock,Wizard)
+* [Force Hammer](./force-hammer.md) (Sorcerer,Wizard)
+* [Fortune's Favor](./fortunes-favor.md) (Wizard)
+* [Free Will](./free-will.md) (Cleric)
+* [Freeze Projectile](./freeze-projectile.md) (Sorcerer,Wizard)
+* [Freezing Blade Arc](./freezing-blade-arc.md) *brandish* (Paladin,Sorcerer,Warlock,Wizard)
+* [Frost Backlash](./frost-backlash.md) (Druid,Ranger,Sorcerer)
+* [Frost Breath](./frost-breath.md) (Cleric,Druid)
+* [Frost Whip](./frost-whip.md) (Artificer,Cleric,Druid)
+* [Gale Weapons](./gale-weapons.md) (Ranger,Wizard)
+* [Gale of Obscurity](./gale-of-obscurity.md) (Druid,Sorcerer,Wizard)
+* [Gentle Repose](./gentle-repose.md) *ritual* (Cleric,Paladin,Pale Master,Wizard)
+* [Ghost Pipes](./ghost-pipes.md) (Bard)
+* [Gibberish Curse](./gibberish-curse.md) (Bard,Cleric,Druid,Sorcerer,Warlock)
+* [Gift of Gab](./gift-of-gab.md) (Bard,Wizard)
+* [Glacious](./glacious.md) (Druid,Sorcerer,Wizard)
+* [Glitterdust](./glitterdust.md) (Artificer,Bard,Cleric,Sorcerer,Wizard)
+* [Glyph of Revealing](./glyph-of-revealing.md) (Artificer,Cleric,Sorcerer,Wizard)
+* [Gravity Ward](./gravity-ward.md) *ritual* (Wizard)
+* [Greater Acupuncture](./greater-acupuncture.md) (Artificer,Cleric,Druid,Sorcerer)
+* [Greater Knocking Pulse](./greater-knocking-pulse.md) (Sorcerer,Wizard)
+* [Grimlore's Shadowgrasp](./grimlores-shadowgrasp.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Ground Spikes](./ground-spikes.md) (Wizard)
+* [Gust of Wind](./gust-of-wind.md) (Druid,Ranger,Sorcerer,Wizard)
+* [Hail of Stone](./hail-of-stone.md) (Sorcerer,Wizard)
+* [Handfang](./handfang.md) (Druid,Ranger)
+* [Healing Spirit](./healing-spirit.md) (Druid,Ranger,Shaman)
+* [Heat Metal](./heat-metal.md) (Artificer,Bard,Druid)
+* [Hold Person](./hold-person.md) (Bard,Cleric,Druid,Shaman,Sorcerer,Warlock,Wizard)
+* [Holy Missile](./holy-missile.md) (Cleric)
+* [Hovering Exploder](./hovering-exploder.md) (Wizard)
+* [Howling Blade Arc](./howling-blade-arc.md) *brandish* (Paladin,Sorcerer,Warlock,Wizard)
+* [Howling Downpour](./howling-downpour.md) *ritual* (Druid,Wizard)
+* [Hush](./hush.md) (Bard,Ranger,Wizard)
+* [Ice Sculpture](./ice-sculpture.md) (Artificer,Druid,Sorcerer,Wizard)
+* [Ice Shield](./ice-shield.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Icicle Blast](./icicle-blast.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Icingdeath's Frost](./icingdeaths-frost.md) (Sorcerer,Wizard)
+* [Illuminating Drone](./illuminating-drone.md) (Wizard)
+* [Illusory Reversal](./illusory-reversal.md) (Bard,Sorcerer,Wizard)
+* [Immolate](./immolate.md) (Sorcerer,Wizard)
+* [Immovable Object](./immovable-object.md) (Wizard)
+* [Impart Knowledge](./impart-knowledge.md) (Artificer,Bard,Wizard)
+* [Infuse Blood](./infuse-blood.md) *blood* (Artificer,Cleric,Paladin,Sorcerer,Wizard)
+* [Inquisitive Intuition](./inquisitive-intuition.md) *ritual* (Artificer,Bard,Ranger,Sorcerer,Warlock,Wizard)
+* [Insatiable Thirst](./insatiable-thirst.md) (Druid,Ranger)
+* [Invigorating Strike](./invigorating-strike.md) (Artificer,Bard,Cleric,Paladin)
+* [Invisibility](./invisibility.md) (Artificer,Bard,Sorcerer,Warlock,Wizard)
+* [Jaws of the Wolf](./jaws-of-the-wolf.md) (Druid,Ranger)
+* [Jim's Glowing Coin](./jims-glowing-coin.md) (Wizard)
+* [Jolt of Pain](./jolt-of-pain.md) (Sorcerer,Warlock,Wizard)
+* [Kelpstrand](./kelpstrand.md) (Druid,Ranger)
+* [Kinetic Jaunt](./kinetic-jaunt.md) (Artificer,Bard,Sorcerer,Wizard)
+* [Knight's Move](./knights-move.md) (Artificer,Bard,Cleric,Paladin)
+* [Knock](./knock.md) (Bard,Sorcerer,Wizard)
+* [Lava Missile](./lava-missile.md) (Cleric,Druid)
+* [Leomund's Trap](./leomunds-trap.md) (Sorcerer,Wizard)
+* [Lesser Charm of Second Chance](./lesser-charm-of-second-chance.md) (Wizard)
+* [Lesser Fabricate](./lesser-fabricate.md) (Artificer,Cleric,Wizard)
+* [Lesser Fire Trap](./lesser-fire-trap.md) (Artificer,Druid,Sorcerer,Warlock,Wizard)
+* [Lesser Restoration](./lesser-restoration.md) (Artificer,Bard,Cleric,Druid,Paladin,Ranger)
+* [Lesser Sticks to Snakes](./lesser-sticks-to-snakes.md) (Cleric,Druid,Ranger)
+* [Levitate](./levitate.md) (Artificer,Sorcerer,Wizard)
+* [Lifetap](./lifetap.md) (Artificer,Bard,Cleric,Druid,Pale Master,Warlock,Wizard)
+* [Lightning Blast](./lightning-blast.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Lightning Portcullis](./lightning-portcullis.md) (Sorcerer,Wizard)
+* [Listening Lorecall](./listening-lorecall.md) (Artificer,Bard,Druid,Ranger)
+* [Lively Step](./lively-step.md) (Artificer,Bard,Sorcerer,Wizard)
+* [Living Bomb](./living-bomb.md) (Sorcerer,Wizard)
+* [Locate Animals or Plants](./locate-animals-or-plants.md) *ritual* (Bard,Druid,Ranger)
+* [Locate Object](./locate-object.md) (Bard,Cleric,Druid,Paladin,Ranger,Wizard)
+* [Love Bite](./love-bite.md) (Bard,Cleric,Paladin)
+* [Loyal Vassal](./loyal-vassal.md) (Paladin)
+* [Lucky Blade](./lucky-blade.md) (Artificer,Cleric,Paladin)
+* [Luminous Swarm](./luminous-swarm.md) (Druid,Ranger)
+* [Lunar Fire Fist](./lunar-fire-fist.md) (Wizard)
+* [Magic Mouth](./magic-mouth.md) *ritual* (Artificer,Bard,Wizard)
+* [Magic Weapon](./magic-weapon.md) (Artificer,Paladin,Ranger,Sorcerer,Wizard)
+* [Major Telekinetic Weapon](./major-telekinetic-weapon.md) (Artificer,Cleric,Paladin,Sorcerer)
+* [Mana Burn](./mana-burn.md) (Sorcerer,Wizard)
+* [Manacle of Burden](./manacle-of-burden.md) (Pale Master,Warlock,Wizard)
+* [Manythorns](./manythorns.md) (Druid,Ranger)
+* [Maskstone](./maskstone.md) *ritual* (Druid,Ranger)
+* [Masochist's Salvation](./masochists-salvation.md) (Sorcerer,Warlock,Wizard)
+* [Maximilian's Earthen Grasp](./maximilians-earthen-grasp.md) (Sorcerer,Wizard)
+* [Melf's Acid Arrow](./melfs-acid-arrow.md) (Wizard)
+* [Mental Barrier](./mental-barrier.md) (Sorcerer,Warlock,Wizard)
+* [Merchant's Glamer](./merchants-glamer.md) (Artificer,Bard)
+* [Mind Spike](./mind-spike.md) (Sorcerer,Warlock,Wizard)
+* [Mind Thrust](./mind-thrust.md) (Sorcerer,Warlock,Wizard)
+* [Mirror Image](./mirror-image.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Misty Step](./misty-step.md) (Pale Master,Shaman,Sorcerer,Warlock,Wizard)
+* [Moon Rune](./moon-rune.md) *ritual* (Artificer,Bard)
+* [Moonbeam](./moonbeam.md) (Druid,Shaman)
+* [Mountain Stance](./mountain-stance.md) (Artificer,Druid,Paladin,Sorcerer,Wizard)
+* [Mountains to Molehills](./mountains-to-molehills.md) *ritual* (Druid,Ranger,Wizard)
+* [Murderous Twin](./murderous-twin.md) (Artificer,Warlock,Wizard)
+* [Nathair's Mischief](./nathairs-mischief.md) (Bard,Sorcerer,Wizard)
+* [Necrotic Visage](./necrotic-visage.md) (Pale Master,Warlock,Wizard)
+* [Needlestorm](./needlestorm.md) (Druid,Ranger)
+* [Nightmare Lullaby](./nightmare-lullaby.md) (Bard)
+* [Nimodes' Major Delousing](./nimodes-major-delousing.md) (Artificer,Bard,Paladin,Ranger)
+* [Nystul's Magic Aura](./nystuls-magic-aura.md) (Wizard)
+* [Orbital Flames](./orbital-flames.md) (Sorcerer,Wizard)
+* [Orbital Lightning](./orbital-lightning.md) (Sorcerer,Wizard)
+* [Otiluke's Boiling Oil Bath](./otilukes-boiling-oil-bath.md) (Sorcerer,Warlock,Wizard)
+* [Overpower Bond](./overpower-bond.md) (Wizard)
+* [Painful Revelations](./painful-revelations.md) (Bard,Sorcerer)
+* [Pass without Trace](./pass-without-trace.md) (Druid,Ranger,Shaman)
+* [Passionate Pursuit](./passionate-pursuit.md) (Shaman,Wizard)
+* [Past Life](./past-life.md) (Cleric,Paladin)
+* [Phantasmal Force](./phantasmal-force.md) (Bard,Sorcerer,Wizard)
+* [Phantom Wind](./phantom-wind.md) (Sorcerer,Warlock,Wizard)
+* [Piercing Ray](./piercing-ray.md) (Sorcerer,Wizard)
+* [Poison Food or Drink](./poison-food-or-drink.md) (Artificer,Druid,Ranger,Sorcerer,Warlock,Wizard)
+* [Poisonstar](./poisonstar.md) (Druid,Ranger)
+* [Portrait](./portrait.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Prayer of Healing](./prayer-of-healing.md) (Cleric,Paladin)
+* [Preserving Flame](./preserving-flame.md) *ritual* (Cleric,Druid,Paladin,Warlock,Wizard)
+* [Projected Magnification](./projected-magnification.md) *ritual* (Bard)
+* [Protection from Aerial Attack](./protection-from-aerial-attack.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Protection from Cantrips](./protection-from-cantrips.md) (Artificer,Bard,Cleric,Paladin,Sorcerer,Warlock,Wizard)
+* [Protection from Paralysis](./protection-from-paralysis.md) (Artificer,Cleric,Druid,Ranger)
+* [Protection from Poison](./protection-from-poison.md) (Artificer,Cleric,Druid,Paladin,Ranger,Shaman)
+* [Psychic Backlash](./psychic-backlash.md) (Bard,Sorcerer)
+* [Pullulate](./pullulate.md) *ritual* (Druid)
+* [Pyrotechnics](./pyrotechnics.md) (Artificer,Bard,Sorcerer,Wizard)
+* [Quivaelyn's Silversteel Veil](./quivaelyns-silversteel-veil.md) (Artificer,Druid,Ranger,Sorcerer,Warlock,Wizard)
+* [Quivaelyn's Sloth Strike](./quivaelyns-sloth-strike.md) *brandish* (Artificer,Bard,Sorcerer,Warlock,Wizard)
+* [Quivaelyn's Wind Stepping Stance](./quivaelyns-wind-stepping-stance.md) (Bard,Druid,Ranger,Sorcerer,Wizard)
+* [Radiant Burst](./radiant-burst.md) (Wizard)
+* [Radiant Weapon](./radiant-weapon.md) (Wizard)
+* [Radiating Blade of Tempus](./radiating-blade-of-tempus.md) (Cleric,Paladin)
+* [Rain](./rain.md) *ritual* (Wizard)
+* [Rain of Steel](./rain-of-steel.md) *brandish* (Artificer,Cleric,Paladin,Ranger)
+* [Rainbow Beam](./rainbow-beam.md) (Sorcerer,Wizard)
+* [Ray of Enfeeblement](./ray-of-enfeeblement.md) (Pale Master,Warlock,Wizard)
+* [Ray of Ondovir](./ray-of-ondovir.md) (Sorcerer,Warlock,Wizard)
+* [Razorscales](./razorscales.md) (Druid,Ranger,Sorcerer)
+* [Reaping Strike](./reaping-strike.md) *blood* (Ranger)
+* [Recitation](./recitation.md) (Cleric)
+* [Revealing Stroke](./revealing-stroke.md) *brandish* (Bard,Sorcerer,Warlock,Wizard)
+* [Revenance](./revenance.md) (Cleric)
+* [Rime's Binding Ice](./rimes-binding-ice.md) (Sorcerer,Wizard)
+* [Rizzak's Reeking Filth ](./rizzaks-reeking-filth.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Warlock,Wizard)
+* [Rope Trick](./rope-trick.md) (Artificer,Wizard)
+* [Sanctify Water](./sanctify-water.md) (Cleric,Paladin)
+* [Scorching Ray](./scorching-ray.md) (Sorcerer,Wizard)
+* [Screen of Protection](./screen-of-protection.md) (Artificer,Bard,Cleric,Paladin,Sorcerer,Wizard)
+* [Seal Mouth](./seal-mouth.md) (Sorcerer,Warlock,Wizard)
+* [Secret Page](./secret-page.md) *ritual* (Artificer,Cleric,Wizard)
+* [See Invisibility](./see-invisibility.md) (Artificer,Bard,Sorcerer,Wizard)
+* [See Through Other Eyes](./see-through-other-eyes.md) (Druid,Ranger)
+* [Self Destruct](./self-destruct.md) (Wizard)
+* [Shadow Bind](./shadow-bind.md) (Bard,Pale Master,Sorcerer,Warlock,Wizard)
+* [Shadow Blade](./shadow-blade.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Shadow Blink](./shadow-blink.md) (Bard,Druid,Sorcerer,Wizard)
+* [Shadow Burst](./shadow-burst.md) (Sorcerer,Warlock,Wizard)
+* [Shadow Sight](./shadow-sight.md) (Bard,Ranger,Wizard)
+* [Shatter](./shatter.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Shield Other](./shield-other.md) (Artificer,Bard,Cleric,Paladin)
+* [Shocking Blade Arc](./shocking-blade-arc.md) *brandish* (Paladin,Sorcerer,Warlock,Wizard)
+* [Shocking Circulation](./shocking-circulation.md) (Artificer,Druid,Sorcerer,Warlock,Wizard)
+* [Shocking Ray](./shocking-ray.md) (Sorcerer,Wizard)
+* [Siege Imbuement](./siege-imbuement.md) (Wizard)
+* [Silence](./silence.md) *ritual* (Bard,Cleric,Pale Master,Ranger)
+* [Silvanus' Blessing](./silvanus-blessing.md) (Druid,Pale Master,Ranger)
+* [Silvanus' Favor](./silvanus-favor.md) (Druid,Ranger,Wizard)
+* [Skip Time](./skip-time.md) (Sorcerer,Wizard)
+* [Skywrite](./skywrite.md) *ritual* (Artificer,Bard,Druid,Wizard)
+* [Snilloc's Snowball Storm](./snillocs-snowball-storm.md) (Sorcerer,Wizard)
+* [Snowball](./snowball.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Sonic Disruption](./sonic-disruption.md) (Warlock,Wizard)
+* [Sow Confusion](./sow-confusion.md) (Bard,Ranger,Sorcerer,Warlock,Wizard)
+* [Spider Climb](./spider-climb.md) (Artificer,Shaman,Sorcerer,Warlock,Wizard)
+* [Spike Growth](./spike-growth.md) (Druid,Ranger,Shaman)
+* [Spiritfire](./spiritfire.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Spiritual Weapon](./spiritual-weapon.md) (Cleric)
+* [Spray of Cards](./spray-of-cards.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Stolen Breath](./stolen-breath.md) (Cleric)
+* [Strength of Stone](./strength-of-stone.md) (Artificer,Paladin)
+* [Sudden Formation](./sudden-formation.md) (Bard,Paladin)
+* [Sudden Transposition](./sudden-transposition.md) (Artificer,Bard,Wizard)
+* [Suffer the Flesh](./suffer-the-flesh.md) (Sorcerer,Warlock,Wizard)
+* [Suggestion](./suggestion.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Summon Beast](./summon-beast.md) (Druid,Ranger)
+* [Surge of Chaos](./surge-of-chaos.md) (Sorcerer)
+* [Symbiotic Confidence](./symbiotic-confidence.md) (Shaman,Wizard)
+* [Tactical Precision](./tactical-precision.md) (Artificer,Bard)
+* [Tasha's Mind Whip](./tashas-mind-whip.md) (Sorcerer,Wizard)
+* [Telekinetic Shove](./telekinetic-shove.md) (Sorcerer,Warlock,Wizard)
+* [Telekinetic Wave](./telekinetic-wave.md) (Sorcerer,Warlock,Wizard)
+* [Terra Spike](./terra-spike.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Tether Soul](./tether-soul.md) (Cleric,Pale Master,Warlock)
+* [Theater of the Blaze](./theater-of-the-blaze.md) *brandish* (Bard,Sorcerer,Warlock,Wizard)
+* [Thought Shield](./thought-shield.md) (Sorcerer,Warlock,Wizard)
+* [Tidy](./tidy.md) *ritual* (Wizard)
+* [Touch of the Talontar](./touch-of-the-talontar.md) (Cleric)
+* [Toxic Ray](./toxic-ray.md) (Sorcerer,Wizard)
+* [Track](./track.md) *ritual* (Druid,Ranger)
+* [Trail Beacon](./trail-beacon.md) (Wizard)
+* [Twisting Throw](./twisting-throw.md) *brandish* (Artificer,Bard,Cleric,Paladin,Ranger)
+* [Ubtao's Tiny Teraform](./ubtaos-tiny-teraform.md) (Druid,Ranger,Wizard)
+* [Unbalancing Rhythm](./unbalancing-rhythm.md) (Bard,Cleric,Sorcerer,Wizard)
+* [Unluck](./unluck.md) (Bard,Cleric,Sorcerer,Wizard)
+* [Unpickable Lock](./unpickable-lock.md) (Artificer,Bard,Cleric)
+* [Unseat Hand](./unseat-hand.md) *ritual* (Pale Master)
+* [Vecna's Final Command](./vecnas-final-command.md) (Artificer,Cleric,Warlock)
+* [Veil of Elements](./veil-of-elements.md) (Sorcerer,Wizard)
+* [Vocalize](./vocalize.md) (Sorcerer,Warlock,Wizard)
+* [Voidsight](./voidsight.md) (Wizard)
+* [Vortex Warp](./vortex-warp.md) (Artificer,Sorcerer,Wizard)
+* [Wakefulness](./wakefulness.md) (Druid,Ranger)
+* [Wall Spikes](./wall-spikes.md) (Wizard)
+* [War Cry](./war-cry.md) (Bard,Paladin,Ranger)
+* [Warding Bond](./warding-bond.md) (Cleric,Paladin,Shaman)
+* [Warding Wind](./warding-wind.md) (Bard,Druid,Sorcerer,Wizard)
+* [Warning Breath](./warning-breath.md) (Artificer,Cleric,Druid,Paladin,Ranger)
+* [Warp Stone](./warp-stone.md) (Artificer,Cleric,Druid,Ranger)
+* [Wave Strike](./wave-strike.md) (Sorcerer,Warlock,Wizard)
+* [Web](./web.md) (Artificer,Sorcerer,Wizard)
+* [Whip of Flame](./whip-of-flame.md) *brandish* (Artificer,Cleric,Warlock)
+* [Whirling Blade](./whirling-blade.md) *brandish* (Artificer,Sorcerer,Wizard)
+* [Whispers of Hellfire](./whispers-of-hellfire.md) (Warlock)
+* [Wieldskill](./wieldskill.md) (Artificer,Bard,Cleric,Wizard)
+* [Wild Boost](./wild-boost.md) (Sorcerer,Warlock,Wizard)
+* [Wither and Bloom](./wither-and-bloom.md) (Druid,Sorcerer,Wizard)
+* [Wolfjaws](./wolfjaws.md) (Cleric,Paladin)
+* [Wracking Touch](./wracking-touch.md) (Cleric,Paladin)
+* [Wraithstrike](./wraithstrike.md) (Bard)
+* [Wristpocket](./wristpocket.md) *ritual* (Wizard)
+* [Zeal](./zeal.md) (Cleric,Paladin)
+* [Zealous Sanction](./zealous-sanction.md) (Cleric,Paladin)
+* [Zone of Natural Purity](./zone-of-natural-purity.md) (Druid,Ranger)
+* [Zone of Truth](./zone-of-truth.md) (Bard,Cleric,Paladin)
  
 ## 3rd-Level Spells
-* [Ablative Body Ward](../Magic/Spells/ablative-body-ward.md): Wizard
-* [Abolish Shadows](../Magic/Spells/abolish-shadows.md): Sorcerer, Warlock, Wizard
-* [Absorb Mind](../Magic/Spells/absorb-mind.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Absorbing Ward](../Magic/Spells/absorbing-ward.md): Cleric, Paladin, Sorcerer
-* [Acid Breath](../Magic/Spells/acid-breath.md): Sorcerer, Warlock, Wizard
-* [Acid Cloud](../Magic/Spells/acid-cloud.md): Druid, Sorcerer, Wizard
-* [Adamantine Weapon](../Magic/Spells/adamantine-weapon.md): Artificer, Cleric, Paladin
-* [Aegis of Assault](../Magic/Spells/aegis-of-assault.md): Paladin, Warlock, Wizard
-* [Aegis of Ensnarement](../Magic/Spells/aegis-of-ensnarement.md): Paladin, Ranger, Sorcerer, Wizard
-* [Aegis of Shielding](../Magic/Spells/aegis-of-shielding.md): Artificer, Paladin, Wizard
-* [Air Lens](../Magic/Spells/air-lens.md): Artificer, Cleric, Druid
-* [Alahandra's Questing Call](../Magic/Spells/alahandras-questing-call.md): Bard, Sorcerer, Warlock, Wizard
-* [Altered Extremity](../Magic/Spells/altered-extremity.md): Cleric, Sorcerer, Wizard
-* [Alternate Reality](../Magic/Spells/alternate-reality.md): Cleric, Paladin, Ranger
-* [Ameliorate](../Magic/Spells/ameliorate.md): Bard, Cleric, Druid, Paladin
-* [Analyze Contraption](../Magic/Spells/analyze-contraption.md): Artificer, Bard, Cleric, Wizard
-* [Ancestral Guidance](../Magic/Spells/ancestral-guidance.md): Druid, Shaman
-* [Animate Dead](../Magic/Spells/animate-dead.md): Cleric, Pale Master, Wizard
-* [Antagonize](../Magic/Spells/antagonize.md): Bard, Sorcerer, Warlock, Wizard
-* [Arcane Allegro](../Magic/Spells/arcane-allegro.md): Bard
-* [Arcane Ball Bearings](../Magic/Spells/arcane-ball-bearings.md): Wizard
-* [Arrow Storm](../Magic/Spells/arrow-storm.md): Ranger
-* [Ashardalon's Stride](../Magic/Spells/ashardalons-stride.md): Artificer, Ranger, Sorcerer, Wizard
-* [Aura of Vitality](../Magic/Spells/aura-of-vitality.md): Cleric, Druid, Paladin
-* [Bastion of Words](../Magic/Spells/bastion-of-words.md): Bard, Sorcerer
-* [Battlefield Shuffle](../Magic/Spells/battlefield-shuffle.md): Artificer, Bard, Cleric, Sorcerer, Warlock, Wizard
-* [Beacon of Hope](../Magic/Spells/beacon-of-hope.md): Cleric
-* [Bend Time](../Magic/Spells/bend-time.md): Sorcerer, Wizard
-* [Berserker Curse](../Magic/Spells/berserker-curse.md): Bard, Cleric, Warlock, Wizard
-* [Bestow Curse](../Magic/Spells/bestow-curse.md): Bard, Cleric, Pale Master, Wizard
-* [Bewildering Charm](../Magic/Spells/bewildering-charm.md): Bard, Sorcerer, Wizard
-* [Blacklight](../Magic/Spells/blacklight.md): Sorcerer, Warlock, Wizard
-* [Blade Storm](../Magic/Spells/blade-storm.md): Ranger
-* [Blade of Black Wind](../Magic/Spells/blade-of-black-wind.md): Artificer, Paladin, Ranger, Warlock, Wizard
-* [Blade of Pain and Fear](../Magic/Spells/blade-of-pain-and-fear.md): Artificer, Cleric, Sorcerer, Warlock, Wizard
-* [Bladeweave](../Magic/Spells/bladeweave.md): Artificer, Bard, Sorcerer, Wizard
-* [Blast Rod](../Magic/Spells/blast-rod.md): Artificer, Wizard
-* [Blinding Arc](../Magic/Spells/blinding-arc.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Blinding Smite](../Magic/Spells/blinding-smite.md): Paladin
-* [Blink](../Magic/Spells/blink.md): Artificer, Sorcerer, Wizard
-* [Blood Extraction](../Magic/Spells/blood-extraction.md): Sorcerer, Warlock, Wizard
-* [Blood Rage](../Magic/Spells/blood-rage.md): Bard, Sorcerer, Wizard
-* [Boon of Fortune](../Magic/Spells/boon-of-fortune.md): Cleric, Paladin
-* [Breath of Life](../Magic/Spells/breath-of-life.md): Wizard
-* [Brittleskin](../Magic/Spells/brittleskin.md): Cleric, Druid, Paladin, Ranger
-* [Call Lightning](../Magic/Spells/call-lightning.md): Druid
-* [Catnap](../Magic/Spells/catnap.md): Artificer, Bard, Sorcerer, Wizard
-* [Celebration Song](../Magic/Spells/celebration-song.md): Bard, Warlock
-* [Charge](../Magic/Spells/charge.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Choose Future](../Magic/Spells/choose-future.md): Cleric
-* [Circle Dance](../Magic/Spells/circle-dance.md): Ranger, Sorcerer, Wizard
-* [Clairvoyance](../Magic/Spells/clairvoyance.md): Bard, Cleric, Shaman, Sorcerer, Wizard
-* [Clarity of Mind](../Magic/Spells/clarity-of-mind.md): Bard, Sorcerer, Wizard
-* [Cloak of Bravery](../Magic/Spells/cloak-of-bravery.md): Artificer, Bard, Cleric, Paladin
-* [Cloak of Khyber](../Magic/Spells/cloak-of-khyber.md): Warlock, Wizard
-* [Cloudburst](../Magic/Spells/cloudburst.md): Druid
-* [Clutch of Orcus](../Magic/Spells/clutch-of-orcus.md): Cleric, Warlock
-* [Cobra Strike](../Magic/Spells/cobra-strike.md): Cleric, Druid
-* [Cold Snap](../Magic/Spells/cold-snap.md): Druid, Sorcerer, Wizard
-* [Combined Effort](../Magic/Spells/combined-effort.md): Artificer, Cleric, Paladin, Sorcerer
-* [Comfort Ward](../Magic/Spells/comfort-ward.md): Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Conjure Animals](../Magic/Spells/conjure-animals.md): Druid, Ranger
-* [Conjure Barrage](../Magic/Spells/conjure-barrage.md): Ranger
-* [Conjure Lesser Demon](../Magic/Spells/conjure-lesser-demon.md): Sorcerer, Wizard
-* [Conjure Plants](../Magic/Spells/conjure-plants.md): Wizard
-* [Control Temperature](../Magic/Spells/control-temperature.md): Druid, Ranger
-* [Control Thoughts](../Magic/Spells/control-thoughts.md): Bard, Cleric, Wizard
-* [Corrosive Covering](../Magic/Spells/corrosive-covering.md): Wizard
-* [Counteroffer](../Magic/Spells/counteroffer.md): Bard, Cleric, Warlock
-* [Counterspell](../Magic/Spells/counterspell.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Create Food and Water](../Magic/Spells/create-food-and-water.md): Artificer, Cleric, Paladin
-* [Create Useful Robe Patch](../Magic/Spells/create-useful-robe-patch.md): Bard, Wizard
-* [Crusader's Mantle](../Magic/Spells/crusaders-mantle.md): Paladin
-* [Dancing Chains](../Magic/Spells/dancing-chains.md): Artificer, Sorcerer, Warlock, Wizard
-* [Daylight](../Magic/Spells/daylight.md): Cleric, Druid, Paladin, Ranger, Shaman, Sorcerer
-* [Death Sight](../Magic/Spells/death-sight.md): Sorcerer, Warlock, Wizard
-* [Death Talisman](../Magic/Spells/death-talisman.md): Artificer, Sorcerer, Warlock, Wizard
-* [Deeper Darkvision](../Magic/Spells/deeper-darkvision.md): Artificer, Ranger, Sorcerer, Warlock, Wizard
-* [Delay Death](../Magic/Spells/delay-death.md): Bard, Cleric, Sorcerer, Warlock, Wizard
-* [Detho's Delirium](../Magic/Spells/dethos-delirium.md): Warlock
-* [Detonate](../Magic/Spells/detonate.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Dimensional Doorway](../Magic/Spells/dimensional-doorway.md): Wizard
-* [Dispel Magic](../Magic/Spells/dispel-magic.md): Artificer, Bard, Cleric, Druid, Paladin, Pale Master, Shaman, Sorcerer, Warlock, Wizard
-* [Displacement](../Magic/Spells/displacement.md): Sorcerer, Wizard
-* [Dissonant Chord](../Magic/Spells/dissonant-chord.md): Bard
-* [Distracting Visions](../Magic/Spells/distracting-visions.md): Bard, Sorcerer, Wizard
-* [Distressing Melody](../Magic/Spells/distressing-melody.md): Bard
-* [Dragonskin](../Magic/Spells/dragonskin.md): Artificer, Sorcerer, Wizard
-* [Draining Smite](../Magic/Spells/draining-smite.md): Paladin
-* [Dread Carapace](../Magic/Spells/dread-carapace.md): Artificer, Druid, Warlock, Wizard
-* [Dread Word](../Magic/Spells/dread-word.md): Sorcerer, Warlock, Wizard
-* [Dreadful Warrior](../Magic/Spells/dreadful-warrior.md): Cleric
-* [Echoes of Cowardice](../Magic/Spells/echoes-of-cowardice.md): Cleric, Warlock, Wizard
-* [Eldritch Abduction](../Magic/Spells/eldritch-abduction.md): Ranger, Warlock, Wizard
-* [Eldritch Weapon](../Magic/Spells/eldritch-weapon.md): Artificer, Paladin, Warlock, Wizard
-* [Electric Fence](../Magic/Spells/electric-fence.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Elemental Weapon](../Magic/Spells/elemental-weapon.md): Artificer, Druid, Paladin, Ranger, Shaman
-* [Enemies Abound](../Magic/Spells/enemies-abound.md): Bard, Sorcerer, Warlock, Wizard
-* [Energy Vortex](../Magic/Spells/energy-vortex.md): Cleric, Druid
-* [Erupting Earth](../Magic/Spells/erupting-earth.md): Druid, Sorcerer, Wizard
-* [Ethereal Quiver](../Magic/Spells/ethereal-quiver.md): Wizard
-* [Excite Emotions](../Magic/Spells/excite-emotions.md): Bard, Cleric, Warlock
-* [Far Dash](../Magic/Spells/far-dash.md): Ranger, Sorcerer, Wizard
-* [Farspeaker](../Magic/Spells/farspeaker.md): Bard
-* [Fast Friends](../Magic/Spells/fast-friends.md): Bard, Cleric, Wizard
-* [Fear](../Magic/Spells/fear.md): Bard, Pale Master, Sorcerer, Warlock, Wizard
-* [Feign Death](../Magic/Spells/feign-death.md): Bard, Cleric, Druid, Pale Master, Wizard
-* [Fiery Fists](../Magic/Spells/fiery-fists.md): Cleric, Paladin
-* [Find the Gap](../Magic/Spells/find-the-gap.md): Ranger
-* [Fire Whip](../Magic/Spells/fire-whip.md): Bard, Sorcerer, Warlock, Wizard
-* [Fireball](../Magic/Spells/fireball.md): Sorcerer, Wizard
-* [Flame Arrows](../Magic/Spells/flame-arrows.md): Artificer, Druid, Ranger, Sorcerer, Wizard
-* [Flashfreeze](../Magic/Spells/flashfreeze.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Flesh Ripper](../Magic/Spells/flesh-ripper.md): Cleric, Paladin
-* [Fly](../Magic/Spells/fly.md): Artificer, Sorcerer, Warlock, Wizard
-* [Flying Step Stance](../Magic/Spells/flying-step-stance.md): Paladin, Ranger, Sorcerer, Warlock, Wizard
-* [Fool's Speech](../Magic/Spells/fools-speech.md): Bard, Cleric, Sorcerer, Wizard
-* [Four-Winds Bag](../Magic/Spells/four-winds-bag.md): Artificer, Bard, Druid, Ranger, Sorcerer, Warlock
-* [Freedom of the Waves](../Magic/Spells/freedom-of-the-waves.md): Druid, Ranger, Sorcerer
-* [Frigid Barrier](../Magic/Spells/frigid-barrier.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Frost Armor](../Magic/Spells/frost-armor.md): Druid, Sorcerer, Wizard
-* [G'Elsewhere Chant](../Magic/Spells/gelsewhere-chant.md): Bard
-* [Galder's Tower](../Magic/Spells/galders-tower.md): Wizard
-* [Gaseous Form](../Magic/Spells/gaseous-form.md): Shaman, Sorcerer, Warlock, Wizard
-* [Ghost Armor](../Magic/Spells/ghost-armor.md): Artificer, Warlock
-* [Ghoul Gesture](../Magic/Spells/ghoul-gesture.md): Sorcerer, Warlock, Wizard
-* [Glamour Blade](../Magic/Spells/glamour-blade.md): Artificer, Bard, Sorcerer, Warlock, Wizard
-* [Glowglory](../Magic/Spells/glowglory.md): Sorcerer, Warlock, Wizard
-* [Glyph of Warding](../Magic/Spells/glyph-of-warding.md): Artificer, Bard, Cleric, Wizard
-* [Grace of the Divine](../Magic/Spells/grace-of-the-divine.md): Bard, Cleric, Paladin
-* [Great Thunderclap](../Magic/Spells/great-thunderclap.md): Bard, Sorcerer, Wizard
-* [Greater Mage Armor](../Magic/Spells/greater-mage-armor.md): Artificer, Sorcerer, Wizard
-* [Grimlore's Affliction](../Magic/Spells/grimlores-affliction.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Guardian's Shield](../Magic/Spells/guardians-shield.md): Artificer, Druid, Ranger
-* [Hailstones](../Magic/Spells/hailstones.md): Sorcerer, Wizard
-* [Haste](../Magic/Spells/haste.md): Artificer, Sorcerer, Wizard
-* [Healing Leeches](../Magic/Spells/healing-leeches.md): Druid, Ranger, Shaman
-* [Healing Wave](../Magic/Spells/healing-wave.md): Artificer, Bard, Cleric, Druid, Paladin, Ranger
-* [Hearth Spirit](../Magic/Spells/hearth-spirit.md): Artificer, Bard, Cleric, Druid
-* [Heat Shimmer](../Magic/Spells/heat-shimmer.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Holy Storm](../Magic/Spells/holy-storm.md): Cleric, Paladin
-* [Home Port](../Magic/Spells/home-port.md): Bard, Druid, Ranger
-* [Hovering Snare](../Magic/Spells/hovering-snare.md): Sorcerer, Wizard
-* [Hunger of Hadar](../Magic/Spells/hunger-of-hadar.md): Warlock
-* [Hungering Blade](../Magic/Spells/hungering-blade.md): Wizard
-* [Hymn of Praise](../Magic/Spells/hymn-of-praise.md): Bard
-* [Hypnotic Flame](../Magic/Spells/hypnotic-flame.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Hypnotic Pattern](../Magic/Spells/hypnotic-pattern.md): Bard, Sorcerer, Warlock, Wizard
-* [Ice Axe](../Magic/Spells/ice-axe.md): Artificer, Cleric
-* [Ice Warrior](../Magic/Spells/ice-warrior.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Icelance](../Magic/Spells/icelance.md): Druid, Sorcerer, Wizard
-* [Improved Mage Armor](../Magic/Spells/improved-mage-armor.md): Sorcerer, Wizard
-* [Incite Greed](../Magic/Spells/incite-greed.md): Cleric, Sorcerer, Warlock, Wizard
-* [Incite Self-Harm](../Magic/Spells/incite-self-harm.md): Bard, Sorcerer, Warlock, Wizard
-* [Inferno](../Magic/Spells/inferno.md): Sorcerer, Warlock
-* [Infestation of Maggots](../Magic/Spells/infestation-of-maggots.md): Cleric, Druid, Pale Master
-* [Intellect Fortress](../Magic/Spells/intellect-fortress.md): Artificer, Bard, Sorcerer, Warlock, Wizard
-* [Intellect Redoubt](../Magic/Spells/intellect-redoubt.md): Sorcerer
-* [Invasive Id](../Magic/Spells/invasive-id.md): Sorcerer, Warlock, Wizard
-* [Invocation from Bahamut](../Magic/Spells/invocation-from-bahamut.md): Cleric, Paladin
-* [Iron Mind](../Magic/Spells/iron-mind.md): Bard, Sorcerer, Wizard
-* [Jalartan's Miraculum](../Magic/Spells/jalartans-miraculum.md): Sorcerer, Warlock, Wizard
-* [Junglerazer](../Magic/Spells/junglerazer.md): Druid, Paladin, Pale Master, Sorcerer, Warlock, Wizard
-* [Keen Edge](../Magic/Spells/keen-edge.md): Bard, Paladin, Ranger, Sorcerer, Wizard
-* [Khelben's Suspended Silence](../Magic/Spells/khelbens-suspended-silence.md): Sorcerer, Wizard
-* [Knightly Intercession](../Magic/Spells/knightly-intercession.md): Cleric, Paladin
-* [Know Customs](../Magic/Spells/know-customs.md): Bard, Cleric, Sorcerer, Wizard
-* [Laeral's Dancing Dweomer](../Magic/Spells/laerals-dancing-dweomer.md): Artificer, Sorcerer, Wizard
-* [Laeral's Silver Lance](../Magic/Spells/laerals-silver-lance.md): Sorcerer, Wizard
-* [Lance of Disruption](../Magic/Spells/lance-of-disruption.md): Artificer, Sorcerer, Warlock, Wizard
-* [Laughing Water](../Magic/Spells/laughing-water.md): Cleric, Druid, Ranger
-* [Lava Splash](../Magic/Spells/lava-splash.md): Cleric, Druid
-* [Leomund's Tiny Hut](../Magic/Spells/leomunds-tiny-hut.md): Bard, Wizard
-* [Life Drain](../Magic/Spells/life-drain.md): Cleric, Warlock
-* [Life Transference](../Magic/Spells/life-transference.md): Cleric, Pale Master, Wizard
-* [Light Lance](../Magic/Spells/light-lance.md): Wizard
-* [Lightning Arrow](../Magic/Spells/lightning-arrow.md): Ranger
-* [Lightning Bolt](../Magic/Spells/lightning-bolt.md): Sorcerer, Wizard
-* [Lightning Leap](../Magic/Spells/lightning-leap.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Lion's Claws](../Magic/Spells/lions-claws.md): Druid, Ranger
-* [Locate Animal](../Magic/Spells/locate-animal.md): Druid, Ranger
-* [Love's Lament](../Magic/Spells/loves-lament.md): Bard
-* [Lunacy](../Magic/Spells/lunacy.md): Bard
-* [Lunar Blessing](../Magic/Spells/lunar-blessing.md): Cleric, Druid, Pale Master, Ranger, Shaman
-* [Mace of Odo](../Magic/Spells/mace-of-odo.md): Artificer, Cleric, Paladin
-* [Magic Circle](../Magic/Spells/magic-circle.md): Cleric, Paladin, Shaman, Warlock, Wizard
-* [Magnetism](../Magic/Spells/magnetism.md): Artificer, Wizard
-* [Major Image](../Magic/Spells/major-image.md): Bard, Sorcerer, Warlock, Wizard
-* [Maladweomer](../Magic/Spells/maladweomer.md): Wizard
-* [Marshal's Pursuit](../Magic/Spells/marshals-pursuit.md): Paladin, Ranger, Wizard
-* [Mass Healing Word](../Magic/Spells/mass-healing-word.md): Bard, Cleric
-* [Mass Shield](../Magic/Spells/mass-shield.md): Artificer, Bard, Cleric, Paladin, Wizard
-* [Mass Vicious Mockery](../Magic/Spells/mass-vicious-mockery.md): Bard
-* [Master of the Mind](../Magic/Spells/master-of-the-mind.md): Cleric, Sorcerer, Warlock, Wizard
-* [Meld into Stone](../Magic/Spells/meld-into-stone.md): Cleric, Druid, Ranger
-* [Melf's Minute Meteors](../Magic/Spells/melfs-minute-meteors.md): Sorcerer, Wizard
-* [Melf's Slumber Arrow](../Magic/Spells/melfs-slumber-arrow.md): Sorcerer, Warlock, Wizard
-* [Memorize Scene](../Magic/Spells/memorize-scene.md): Artificer, Bard, Sorcerer, Wizard
-* [Minor Creation](../Magic/Spells/minor-creation.md): Cleric, Wizard
-* [Mirror Weapon](../Magic/Spells/mirror-weapon.md): Artificer, Bard, Sorcerer, Wizard
-* [Miscast Magic](../Magic/Spells/miscast-magic.md): Bard, Cleric
-* [Misty Escape](../Magic/Spells/misty-escape.md): Wizard
-* [Moment Reading](../Magic/Spells/moment-reading.md): Cleric
-* [Moon Blade](../Magic/Spells/moon-blade.md): Artificer, Druid, Ranger
-* [Moon Soul Revival](../Magic/Spells/moon-soul-revival.md): Wizard
-* [Mortify](../Magic/Spells/mortify.md): Bard, Shaman, Sorcerer, Warlock, Wizard
-* [Motivational Speech](../Magic/Spells/motivational-speech.md): Bard, Cleric
-* [Mummify](../Magic/Spells/mummify.md): Cleric, Pale Master, Warlock, Wizard
-* [Mystical Awareness](../Magic/Spells/mystical-awareness.md): Artificer, Sorcerer, Warlock, Wizard
-* [Nauseating Breath](../Magic/Spells/nauseating-breath.md): Bard, Cleric, Sorcerer, Wizard
-* [Nightscar](../Magic/Spells/nightscar.md): Bard, Sorcerer, Warlock, Wizard
-* [No More Lies](../Magic/Spells/no-more-lies.md): Bard, Cleric, Druid, Paladin, Wizard
-* [Nondetection](../Magic/Spells/nondetection.md): Bard, Ranger, Wizard
-* [Object Sight](../Magic/Spells/object-sight.md): Wizard
-* [Otiluke's Acid Cloud](../Magic/Spells/otilukes-acid-cloud.md): Sorcerer, Warlock, Wizard
-* [Otto's Crystal Rhythms](../Magic/Spells/ottos-crystal-rhythms.md): Bard, Sorcerer
-* [Petrify](../Magic/Spells/petrify.md): Druid, Warlock, Wizard
-* [Phantom Steed](../Magic/Spells/phantom-steed.md): Pale Master, Wizard
-* [Pinnacle of Awareness](../Magic/Spells/pinnacle-of-awareness.md): Bard, Sorcerer, Wizard
-* [Plague Vector](../Magic/Spells/plague-vector.md): Cleric, Druid, Sorcerer, Warlock, Wizard
-* [Plant Growth](../Magic/Spells/plant-growth.md): Bard, Druid, Ranger, Shaman
-* [Poison Darts](../Magic/Spells/poison-darts.md): Bard, Druid, Ranger, Wizard
-* [Poisoned Heart](../Magic/Spells/poisoned-heart.md): Pale Master, Shaman, Warlock
-* [Poisonous Touch](../Magic/Spells/poisonous-touch.md): Cleric, Druid, Warlock
-* [Portal Sense](../Magic/Spells/portal-sense.md): Wizard
-* [Predatory Shards](../Magic/Spells/predatory-shards.md): Artificer, Cleric, Druid, Sorcerer, Warlock, Wizard
-* [Predominance](../Magic/Spells/predominance.md): Sorcerer
-* [Protection from Energy](../Magic/Spells/protection-from-energy.md): Artificer, Cleric, Druid, Ranger, Shaman, Sorcerer, Wizard
-* [Protection from Normal Missiles](../Magic/Spells/protection-from-normal-missiles.md): Artificer, Sorcerer, Warlock, Wizard
-* [Protection from Normal Weapons](../Magic/Spells/protection-from-normal-weapons.md): Artificer, Bard, Cleric, Sorcerer, Wizard
-* [Psionic Blast](../Magic/Spells/psionic-blast.md): Sorcerer, Warlock, Wizard
-* [Psychic Wind](../Magic/Spells/psychic-wind.md): Wizard
-* [Pulse Wave](../Magic/Spells/pulse-wave.md): Wizard
-* [Pyroclastic Tide](../Magic/Spells/pyroclastic-tide.md): Druid, Ranger
-* [Quake Walk](../Magic/Spells/quake-walk.md): Druid, Ranger, Sorcerer
-* [Quickening Breeze](../Magic/Spells/quickening-breeze.md): Artificer, Bard, Cleric, Druid
-* [Quillfire](../Magic/Spells/quillfire.md): Druid, Ranger
-* [Rain of Stones](../Magic/Spells/rain-of-stones.md): Wizard
-* [Rainbow Blast](../Magic/Spells/rainbow-blast.md): Sorcerer, Wizard
-* [Random Casualty](../Magic/Spells/random-casualty.md): Bard, Warlock
-* [Ray of Exhaustion](../Magic/Spells/ray-of-exhaustion.md): Sorcerer, Warlock, Wizard
-* [Ray of Fatigue](../Magic/Spells/ray-of-fatigue.md): Sorcerer, Warlock, Wizard
-* [Ray of Reprisal](../Magic/Spells/ray-of-reprisal.md): Paladin
-* [Redirect Spell](../Magic/Spells/redirect-spell.md): Artificer, Bard, Cleric, Paladin, Sorcerer, Wizard
-* [Reflect Elements](../Magic/Spells/reflect-elements.md): Artificer, Druid, Ranger, Sorcerer, Wizard
-* [Regal Procession](../Magic/Spells/regal-procession.md): Paladin, Sorcerer, Wizard
-* [Relocate](../Magic/Spells/relocate.md): Artificer, Bard, Sorcerer, Wizard
-* [Remove Curse](../Magic/Spells/remove-curse.md): Cleric, Paladin, Pale Master, Shaman, Warlock, Wizard
-* [Remove Gravity](../Magic/Spells/remove-gravity.md): Wizard
-* [Return](../Magic/Spells/return.md): Sorcerer, Wizard
-* [Reverse Arrows](../Magic/Spells/reverse-arrows.md): Artificer, Ranger, Sorcerer, Wizard
-* [Revivify](../Magic/Spells/revivify.md): Artificer, Cleric, Druid, Paladin, Pale Master, Ranger
-* [Rusting Grasp](../Magic/Spells/rusting-grasp.md): Wizard
-* [Sacred Ward](../Magic/Spells/sacred-ward.md): Cleric, Warlock, Wizard
-* [Sand Cloak](../Magic/Spells/sand-cloak.md): Artificer, Druid, Ranger, Sorcerer
-* [Scaleskin](../Magic/Spells/scaleskin.md): Druid, Ranger
-* [Scintillating Sphere](../Magic/Spells/scintillating-sphere.md): Sorcerer, Wizard
-* [Searing Light](../Magic/Spells/searing-light.md): Cleric
-* [See Hidden Doors](../Magic/Spells/see-hidden-doors.md): Artificer, Cleric, Sorcerer, Wizard
-* [Sending](../Magic/Spells/sending.md): Bard, Cleric, Wizard
-* [Sensate's Rush](../Magic/Spells/sensates-rush.md): Bard, Ranger, Sorcerer, Wizard
-* [Sentinel's Mark](../Magic/Spells/sentinels-mark.md): Ranger
-* [Servant of Flame](../Magic/Spells/servant-of-flame.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Shadow Spies](../Magic/Spells/shadow-spies.md): Bard, Cleric, Pale Master, Shaman, Sorcerer, Wizard
-* [Shield of Warding](../Magic/Spells/shield-of-warding.md): Artificer, Cleric, Paladin
-* [Shockwave](../Magic/Spells/shockwave.md): Sorcerer, Wizard
-* [Shroud of Undeath](../Magic/Spells/shroud-of-undeath.md): Artificer, Bard, Cleric, Sorcerer, Warlock, Wizard
-* [Sign of Sealing](../Magic/Spells/sign-of-sealing.md): Artificer, Sorcerer, Wizard
-* [Sleep of Horror](../Magic/Spells/sleep-of-horror.md): Bard, Sorcerer, Warlock, Wizard
-* [Sleet Storm](../Magic/Spells/sleet-storm.md): Druid, Sorcerer, Wizard
-* [Slow](../Magic/Spells/slow.md): Bard, Sorcerer, Wizard
-* [Soulburn](../Magic/Spells/soulburn.md): Wizard
-* [Speak with Dead](../Magic/Spells/speak-with-dead.md): Bard, Cleric, Pale Master, Wizard
-* [Speak with Plants](../Magic/Spells/speak-with-plants.md): Bard, Druid, Ranger
-* [Spectral Steed](../Magic/Spells/spectral-steed.md): Paladin, Shaman
-* [Speechlink](../Magic/Spells/speechlink.md): Sorcerer, Wizard
-* [Sphere of Deceit](../Magic/Spells/sphere-of-deceit.md): Bard, Paladin, Warlock
-* [Spider Gout](../Magic/Spells/spider-gout.md): Cleric, Druid
-* [Spirit Guardians](../Magic/Spells/spirit-guardians.md): Cleric, Shaman
-* [Spirit Shroud](../Magic/Spells/spirit-shroud.md): Cleric, Paladin, Shaman, Warlock, Wizard
-* [Steady Terrain](../Magic/Spells/steady-terrain.md): Druid, Ranger
-* [Stinking Cloud](../Magic/Spells/stinking-cloud.md): Bard, Pale Master, Sorcerer, Wizard
-* [Stony Grasp](../Magic/Spells/stony-grasp.md): Sorcerer, Wizard
-* [Storm Cone](../Magic/Spells/storm-cone.md): Cleric, Druid, Ranger
-* [Storm Shield](../Magic/Spells/storm-shield.md): Cleric, Druid
-* [Summon Fey](../Magic/Spells/summon-fey.md): Druid, Ranger, Warlock, Wizard
-* [Summon Lesser Demons](../Magic/Spells/summon-lesser-demons.md): Warlock, Wizard
-* [Summon Ooze](../Magic/Spells/summon-ooze.md): Artificer, Druid, Warlock, Wizard
-* [Summon Shadowspawn](../Magic/Spells/summon-shadowspawn.md): Shaman, Warlock, Wizard
-* [Summon Undead](../Magic/Spells/summon-undead.md): Pale Master, Warlock, Wizard
-* [Summon Warrior Spirit](../Magic/Spells/summon-warrior-spirit.md): Shaman, Sorcerer, Warlock, Wizard
-* [Summons of Khirad](../Magic/Spells/summons-of-khirad.md): Warlock
-* [Suspicion and Doubt](../Magic/Spells/suspicion-and-doubt.md): Bard, Wizard
-* [Sustaining Meditation](../Magic/Spells/sustaining-meditation.md): Artificer, Druid, Ranger
-* [Swift Ward](../Magic/Spells/swift-ward.md): Artificer, Bard, Cleric, Druid, Paladin, Pale Master, Ranger, Shaman, Sorcerer, Warlock, Wizard
-* [Target of All](../Magic/Spells/target-of-all.md): Bard, Sorcerer, Warlock, Wizard
-* [Tattoo Projectiles](../Magic/Spells/tattoo-projectiles.md): Artificer, Bard, Druid, Ranger, Sorcerer, Warlock, Wizard
-* [Tenser's Eye of the Eagle](../Magic/Spells/tensers-eye-of-the-eagle.md): Sorcerer, Warlock, Wizard
-* [Terra Steed](../Magic/Spells/terra-steed.md): Druid, Ranger, Sorcerer, Wizard
-* [Thief's Lament](../Magic/Spells/thiefs-lament.md): Bard, Sorcerer, Warlock, Wizard
-* [Thought Harvest](../Magic/Spells/thought-harvest.md): Sorcerer, Wizard
-* [Threehorn's Charge](../Magic/Spells/threehorns-charge.md): Artificer, Druid, Ranger
-* [Thunder Step](../Magic/Spells/thunder-step.md): Sorcerer, Warlock, Wizard
-* [Thunderous Bellow](../Magic/Spells/thunderous-bellow.md): Bard, Sorcerer
-* [Tidal Wave](../Magic/Spells/tidal-wave.md): Druid, Wizard
-* [Tiny Servant](../Magic/Spells/tiny-servant.md): Artificer, Wizard
-* [Tongues](../Magic/Spells/tongues.md): Bard, Cleric, Pale Master, Sorcerer, Warlock, Wizard
-* [Toxic Breath](../Magic/Spells/toxic-breath.md): Sorcerer, Wizard
-* [Tremorsense](../Magic/Spells/tremorsense.md): Druid, Ranger, Sorcerer, Wizard
-* [Undead Battlemight](../Magic/Spells/undead-battlemight.md): Cleric, Sorcerer, Warlock, Wizard
-* [Unified Resilience](../Magic/Spells/unified-resilience.md): Bard, Paladin
-* [Unleash Devastation](../Magic/Spells/unleash-devastation.md): Druid, Warlock, Wizard
-* [Vampiric Touch](../Magic/Spells/vampiric-touch.md): Pale Master, Sorcerer, Wizard
-* [Vaporous Smite](../Magic/Spells/vaporous-smite.md): Paladin
-* [Veiled Blade](../Magic/Spells/veiled-blade.md): Bard, Ranger, Sorcerer, Warlock, Wizard
-* [Veiled Dagger](../Magic/Spells/veiled-dagger.md): Bard, Ranger, Sorcerer, Warlock, Wizard
-* [Venomfire](../Magic/Spells/venomfire.md): Cleric, Druid, Ranger
-* [Visions of the Void](../Magic/Spells/visions-of-the-void.md): Wizard
-* [Wall of Sand](../Magic/Spells/wall-of-sand.md): Wizard
-* [Wall of Water](../Magic/Spells/wall-of-water.md): Druid, Sorcerer, Wizard
-* [Water Breathing](../Magic/Spells/water-breathing.md): Artificer, Druid, Pale Master, Ranger, Sorcerer, Wizard
-* [Water Lasso](../Magic/Spells/water-lasso.md): Wizard
-* [Water Walk](../Magic/Spells/water-walk.md): Artificer, Cleric, Druid, Ranger, Sorcerer
-* [Whip of Pain](../Magic/Spells/whip-of-pain.md): Artificer, Sorcerer, Warlock, Wizard
-* [Whip of Shar](../Magic/Spells/whip-of-shar.md): Artificer, Cleric, Sorcerer, Warlock, Wizard
-* [Wind Wall](../Magic/Spells/wind-wall.md): Druid, Ranger
-* [Wyrmling's Vitriol](../Magic/Spells/wyrmlings-vitriol.md): Bard, Warlock
-* [X-ray Vision](../Magic/Spells/x-ray-vision.md): Wizard
+* [Ablative Body Ward](./ablative-body-ward.md) (Wizard)
+* [Abolish Shadows](./abolish-shadows.md) (Sorcerer,Warlock,Wizard)
+* [Absorb Mind](./absorb-mind.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Absorbing Ward](./absorbing-ward.md) (Cleric,Paladin,Sorcerer)
+* [Acid Breath](./acid-breath.md) (Sorcerer,Warlock,Wizard)
+* [Acid Cloud](./acid-cloud.md) (Druid,Sorcerer,Wizard)
+* [Adamantine Weapon](./adamantine-weapon.md) (Artificer,Cleric,Paladin)
+* [Aegis of Assault](./aegis-of-assault.md) (Paladin,Warlock,Wizard)
+* [Aegis of Ensnarement](./aegis-of-ensnarement.md) (Paladin,Ranger,Sorcerer,Wizard)
+* [Aegis of Shielding](./aegis-of-shielding.md) (Artificer,Paladin,Wizard)
+* [Air Lens](./air-lens.md) (Artificer,Cleric,Druid)
+* [Alahandra's Questing Call](./alahandras-questing-call.md) *ritual* (Bard,Sorcerer,Warlock,Wizard)
+* [Altered Extremity](./altered-extremity.md) (Cleric,Sorcerer,Wizard)
+* [Alternate Reality](./alternate-reality.md) (Cleric,Paladin,Ranger)
+* [Ameliorate](./ameliorate.md) (Bard,Cleric,Druid,Paladin)
+* [Analyze Contraption](./analyze-contraption.md) (Artificer,Bard,Cleric,Wizard)
+* [Ancestral Guidance](./ancestral-guidance.md) *ritual* (Druid,Shaman)
+* [Animate Dead](./animate-dead.md) (Cleric,Pale Master,Wizard)
+* [Antagonize](./antagonize.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Appraiser’s Light](./appraiser’s-light.md) *ritual* (Bard,Cleric,Warlock,Wizard)
+* [Arcane Allegro](./arcane-allegro.md) (Bard)
+* [Arcane Ball Bearings](./arcane-ball-bearings.md) (Wizard)
+* [Arrow Storm](./arrow-storm.md) *brandish* (Ranger)
+* [Ashardalon's Stride](./ashardalons-stride.md) (Artificer,Ranger,Sorcerer,Wizard)
+* [Aura of Vitality](./aura-of-vitality.md) (Cleric,Druid,Paladin)
+* [Bastion of Words](./bastion-of-words.md) (Bard,Sorcerer)
+* [Battlefield Shuffle](./battlefield-shuffle.md) (Artificer,Bard,Cleric,Sorcerer,Warlock,Wizard)
+* [Bazanthra’s Bellow](./bazanthra’s-bellow.md) (Warlock)
+* [Beacon of Hope](./beacon-of-hope.md) (Cleric)
+* [Bend Time](./bend-time.md) (Sorcerer,Wizard)
+* [Berserker Curse](./berserker-curse.md) (Bard,Cleric,Warlock,Wizard)
+* [Bestow Curse](./bestow-curse.md) (Bard,Cleric,Pale Master,Wizard)
+* [Bewildering Charm](./bewildering-charm.md) (Bard,Sorcerer,Wizard)
+* [Blacklight](./blacklight.md) (Sorcerer,Warlock,Wizard)
+* [Blade Storm](./blade-storm.md) (Ranger)
+* [Blade of Black Wind](./blade-of-black-wind.md) (Artificer,Paladin,Ranger,Warlock,Wizard)
+* [Blade of Pain and Fear](./blade-of-pain-and-fear.md) *brandish* (Artificer,Cleric,Sorcerer,Warlock,Wizard)
+* [Bladeweave](./bladeweave.md) (Artificer,Bard,Sorcerer,Wizard)
+* [Blast Rod](./blast-rod.md) (Artificer,Wizard)
+* [Blinding Arc](./blinding-arc.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Blinding Smite](./blinding-smite.md) (Paladin)
+* [Blink](./blink.md) (Artificer,Sorcerer,Wizard)
+* [Blood Extraction](./blood-extraction.md) (Sorcerer,Warlock,Wizard)
+* [Blood Rage](./blood-rage.md) *blood* (Bard,Sorcerer,Wizard)
+* [Boon of Fortune](./boon-of-fortune.md) (Cleric,Paladin)
+* [Breath of Life](./breath-of-life.md) (Wizard)
+* [Brittleskin](./brittleskin.md) (Cleric,Druid,Paladin,Ranger)
+* [Burning Breath](./burning-breath.md) (Druid,Sorcerer,Wizard)
+* [Cage of Flames](./cage-of-flames.md) *ritual* (Wizard)
+* [Cage of Lightning](./cage-of-lightning.md) *ritual* (Wizard)
+* [Call Lightning](./call-lightning.md) (Druid)
+* [Catnap](./catnap.md) (Artificer,Bard,Sorcerer,Wizard)
+* [Celebration Song](./celebration-song.md) (Bard,Warlock)
+* [Chaining Palm](./chaining-palm.md) (Sorcerer,Warlock,Wizard)
+* [Charge](./charge.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Choose Future](./choose-future.md) (Cleric)
+* [Circle Dance](./circle-dance.md) *ritual* (Ranger,Sorcerer,Wizard)
+* [Clairvoyance](./clairvoyance.md) (Bard,Cleric,Shaman,Sorcerer,Wizard)
+* [Clarity of Mind](./clarity-of-mind.md) (Bard,Sorcerer,Wizard)
+* [Cloak of Bravery](./cloak-of-bravery.md) (Artificer,Bard,Cleric,Paladin)
+* [Cloak of Khyber](./cloak-of-khyber.md) *ritual* (Warlock,Wizard)
+* [Cloudburst](./cloudburst.md) *ritual* (Druid)
+* [Clutch of Orcus](./clutch-of-orcus.md) (Cleric,Warlock)
+* [Cobra Strike](./cobra-strike.md) (Cleric,Druid)
+* [Combined Effort](./combined-effort.md) (Artificer,Cleric,Paladin,Sorcerer)
+* [Comfort Ward](./comfort-ward.md) (Artificer,Bard,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Conjure Animals](./conjure-animals.md) (Druid,Ranger)
+* [Conjure Barrage](./conjure-barrage.md) (Ranger)
+* [Conjure Lesser Demon](./conjure-lesser-demon.md) (Sorcerer,Wizard)
+* [Conjure Plants](./conjure-plants.md) (Wizard)
+* [Control Temperature](./control-temperature.md) *ritual* (Druid,Ranger)
+* [Control Thoughts](./control-thoughts.md) (Bard,Cleric,Wizard)
+* [Corrosive Covering](./corrosive-covering.md) (Wizard)
+* [Counteroffer](./counteroffer.md) (Bard,Cleric,Warlock)
+* [Counterspell](./counterspell.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Create Food and Water](./create-food-and-water.md) (Artificer,Cleric,Paladin)
+* [Create Useful Robe Patch](./create-useful-robe-patch.md) *ritual* (Bard,Wizard)
+* [Crusader's Mantle](./crusaders-mantle.md) (Paladin)
+* [Dancing Chains](./dancing-chains.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Darkness Blade Arc](./darkness-blade-arc.md) *brandish* (Paladin,Sorcerer,Warlock,Wizard)
+* [Daylight](./daylight.md) (Cleric,Druid,Paladin,Ranger,Shaman,Sorcerer)
+* [Deafening Boom](./deafening-boom.md) (Bard,Cleric,Sorcerer,Wizard)
+* [Death Sight](./death-sight.md) (Sorcerer,Warlock,Wizard)
+* [Death Talisman](./death-talisman.md) *ritual* (Artificer,Sorcerer,Warlock,Wizard)
+* [Deeper Darkvision](./deeper-darkvision.md) (Artificer,Ranger,Sorcerer,Warlock,Wizard)
+* [Delay Death](./delay-death.md) (Bard,Cleric,Sorcerer,Warlock,Wizard)
+* [Detho's Delirium](./dethos-delirium.md) (Warlock)
+* [Detonate](./detonate.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Dimensional Doorway](./dimensional-doorway.md) (Wizard)
+* [Dispel Magic](./dispel-magic.md) (Artificer,Bard,Cleric,Druid,Paladin,Pale Master,Shaman,Sorcerer,Warlock,Wizard)
+* [Displacement](./displacement.md) (Sorcerer,Wizard)
+* [Dissonant Chord](./dissonant-chord.md) (Bard)
+* [Distracting Visions](./distracting-visions.md) (Bard,Sorcerer,Wizard)
+* [Distressing Melody](./distressing-melody.md) (Bard)
+* [Dragonskin](./dragonskin.md) (Artificer,Sorcerer,Wizard)
+* [Draining Smite](./draining-smite.md) (Paladin)
+* [Dread Carapace](./dread-carapace.md) (Artificer,Druid,Warlock,Wizard)
+* [Dread Word](./dread-word.md) (Sorcerer,Warlock,Wizard)
+* [Dreadful Warrior](./dreadful-warrior.md) (Cleric)
+* [Echoes of Cowardice](./echoes-of-cowardice.md) (Cleric,Warlock,Wizard)
+* [Eldritch Abduction](./eldritch-abduction.md) (Ranger,Warlock,Wizard)
+* [Eldritch Weapon](./eldritch-weapon.md) (Artificer,Paladin,Warlock,Wizard)
+* [Electric Fence](./electric-fence.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Elemental Weapon](./elemental-weapon.md) (Artificer,Druid,Paladin,Ranger,Shaman)
+* [Enemies Abound](./enemies-abound.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Energy Vortex](./energy-vortex.md) (Cleric,Druid)
+* [Erupting Earth](./erupting-earth.md) (Druid,Sorcerer,Wizard)
+* [Ethereal Quiver](./ethereal-quiver.md) (Wizard)
+* [Excite Emotions](./excite-emotions.md) (Bard,Cleric,Warlock)
+* [Far Dash](./far-dash.md) (Ranger,Sorcerer,Wizard)
+* [Farspeaker](./farspeaker.md) *ritual* (Bard)
+* [Fast Friends](./fast-friends.md) (Bard,Cleric,Wizard)
+* [Fear](./fear.md) (Bard,Pale Master,Sorcerer,Warlock,Wizard)
+* [Feign Death](./feign-death.md) *ritual* (Bard,Cleric,Druid,Pale Master,Wizard)
+* [Fiery Fists](./fiery-fists.md) (Cleric,Paladin)
+* [Find the Gap](./find-the-gap.md) (Ranger)
+* [Fire Whip](./fire-whip.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Fireball](./fireball.md) (Sorcerer,Wizard)
+* [Flame Arrows](./flame-arrows.md) (Artificer,Druid,Ranger,Sorcerer,Wizard)
+* [Flashfreeze](./flashfreeze.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Flesh Ripper](./flesh-ripper.md) (Cleric,Paladin)
+* [Fly](./fly.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Flying Step Stance](./flying-step-stance.md) (Paladin,Ranger,Sorcerer,Warlock,Wizard)
+* [Fool's Speech](./fools-speech.md) (Bard,Cleric,Sorcerer,Wizard)
+* [Four-Winds Bag](./four-winds-bag.md) (Artificer,Bard,Druid,Ranger,Sorcerer,Warlock)
+* [Freedom of the Waves](./freedom-of-the-waves.md) (Druid,Ranger,Sorcerer)
+* [Frigid Barrier](./frigid-barrier.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Frost Armor](./frost-armor.md) (Druid,Sorcerer,Wizard)
+* [Frost Gaol](./frost-gaol.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Frostball](./frostball.md) (Sorcerer,Wizard)
+* [G'Elsewhere Chant](./gelsewhere-chant.md) (Bard)
+* [Galder's Tower](./galders-tower.md) (Wizard)
+* [Gaseous Form](./gaseous-form.md) (Shaman,Sorcerer,Warlock,Wizard)
+* [Ghost Armor](./ghost-armor.md) (Artificer,Warlock)
+* [Ghoul Gesture](./ghoul-gesture.md) (Sorcerer,Warlock,Wizard)
+* [Glamour Blade](./glamour-blade.md) *brandish* (Artificer,Bard,Sorcerer,Warlock,Wizard)
+* [Glowglory](./glowglory.md) (Sorcerer,Warlock,Wizard)
+* [Glyph of Warding](./glyph-of-warding.md) (Artificer,Bard,Cleric,Wizard)
+* [Grace of the Divine](./grace-of-the-divine.md) (Bard,Cleric,Paladin)
+* [Great Thunderclap](./great-thunderclap.md) (Bard,Sorcerer,Wizard)
+* [Greater Mage Armor](./greater-mage-armor.md) (Artificer,Sorcerer,Wizard)
+* [Grimlore's Affliction](./grimlores-affliction.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Guardian's Shield](./guardians-shield.md) (Artificer,Druid,Ranger)
+* [Hailstones](./hailstones.md) (Sorcerer,Wizard)
+* [Haste](./haste.md) (Artificer,Sorcerer,Wizard)
+* [Healing Leeches](./healing-leeches.md) *ritual* (Druid,Ranger,Shaman)
+* [Healing Wave](./healing-wave.md) (Artificer,Bard,Cleric,Druid,Paladin,Ranger)
+* [Hearth Spirit](./hearth-spirit.md) (Artificer,Bard,Cleric,Druid)
+* [Heat Shimmer](./heat-shimmer.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Holy Storm](./holy-storm.md) (Cleric,Paladin)
+* [Home Port](./home-port.md) (Bard,Druid,Ranger)
+* [Hovering Snare](./hovering-snare.md) (Sorcerer,Wizard)
+* [Hunger of Hadar](./hunger-of-hadar.md) (Warlock)
+* [Hungering Blade](./hungering-blade.md) (Wizard)
+* [Hymn of Praise](./hymn-of-praise.md) (Bard)
+* [Hypnotic Flame](./hypnotic-flame.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Hypnotic Pattern](./hypnotic-pattern.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Ice Axe](./ice-axe.md) (Artificer,Cleric)
+* [Ice Warrior](./ice-warrior.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Icelance](./icelance.md) (Druid,Sorcerer,Wizard)
+* [Improved Mage Armor](./improved-mage-armor.md) (Sorcerer,Wizard)
+* [Incite Greed](./incite-greed.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Incite Self-Harm](./incite-self-harm.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Inferno](./inferno.md) (Sorcerer,Warlock)
+* [Infestation of Maggots](./infestation-of-maggots.md) (Cleric,Druid,Pale Master)
+* [Intellect Fortress](./intellect-fortress.md) (Artificer,Bard,Sorcerer,Warlock,Wizard)
+* [Intellect Redoubt](./intellect-redoubt.md) (Sorcerer)
+* [Invasive Id](./invasive-id.md) (Sorcerer,Warlock,Wizard)
+* [Invocation from Bahamut](./invocation-from-bahamut.md) (Cleric,Paladin)
+* [Iron Mind](./iron-mind.md) (Bard,Sorcerer,Wizard)
+* [Jalartan's Miraculum](./jalartans-miraculum.md) (Sorcerer,Warlock,Wizard)
+* [Junglerazer](./junglerazer.md) (Druid,Paladin,Pale Master,Sorcerer,Warlock,Wizard)
+* [Keen Edge](./keen-edge.md) (Bard,Paladin,Ranger,Sorcerer,Wizard)
+* [Khelben's Suspended Silence](./khelbens-suspended-silence.md) (Sorcerer,Wizard)
+* [Knightly Intercession](./knightly-intercession.md) (Cleric,Paladin)
+* [Know Customs](./know-customs.md) (Bard,Cleric,Sorcerer,Wizard)
+* [Laeral's Dancing Dweomer](./laerals-dancing-dweomer.md) (Artificer,Sorcerer,Wizard)
+* [Laeral's Silver Lance](./laerals-silver-lance.md) (Sorcerer,Wizard)
+* [Lance of Disruption](./lance-of-disruption.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Laughing Water](./laughing-water.md) (Cleric,Druid,Ranger)
+* [Lava Splash](./lava-splash.md) (Cleric,Druid)
+* [Leomund's Tiny Hut](./leomunds-tiny-hut.md) *ritual* (Bard,Wizard)
+* [Life Drain](./life-drain.md) (Cleric,Warlock)
+* [Life Transference](./life-transference.md) (Cleric,Pale Master,Wizard)
+* [Light Lance](./light-lance.md) (Wizard)
+* [Lightning Arrow](./lightning-arrow.md) (Ranger)
+* [Lightning Bolt](./lightning-bolt.md) (Sorcerer,Wizard)
+* [Lightning Leap](./lightning-leap.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Lightning Suppression](./lightning-suppression.md) (Sorcerer,Warlock,Wizard)
+* [Lion's Claws](./lions-claws.md) (Druid,Ranger)
+* [Locate Animal](./locate-animal.md) *ritual* (Druid,Ranger)
+* [Love's Lament](./loves-lament.md) (Bard)
+* [Luminous Blade Arc](./luminous-blade-arc.md) *brandish* (Paladin,Sorcerer,Warlock,Wizard)
+* [Lunacy](./lunacy.md) (Bard)
+* [Lunar Blessing](./lunar-blessing.md) (Cleric,Druid,Pale Master,Ranger,Shaman)
+* [Mace of Odo](./mace-of-odo.md) (Artificer,Cleric,Paladin)
+* [Magic Blade Arc](./magic-blade-arc.md) *brandish* (Paladin,Sorcerer,Warlock,Wizard)
+* [Magic Circle](./magic-circle.md) (Cleric,Paladin,Shaman,Warlock,Wizard)
+* [Magnetism](./magnetism.md) (Artificer,Wizard)
+* [Major Image](./major-image.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Maladweomer](./maladweomer.md) (Wizard)
+* [Marshal's Pursuit](./marshals-pursuit.md) (Paladin,Ranger,Wizard)
+* [Mass Healing Word](./mass-healing-word.md) (Bard,Cleric)
+* [Mass Knocking Pulse](./mass-knocking-pulse.md) (Sorcerer,Wizard)
+* [Mass Shield](./mass-shield.md) (Artificer,Bard,Cleric,Paladin,Wizard)
+* [Mass Vicious Mockery](./mass-vicious-mockery.md) (Bard)
+* [Master of the Mind](./master-of-the-mind.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Meld into Stone](./meld-into-stone.md) *ritual* (Cleric,Druid,Ranger)
+* [Melf's Minute Meteors](./melfs-minute-meteors.md) (Sorcerer,Wizard)
+* [Melf's Slumber Arrow](./melfs-slumber-arrow.md) (Sorcerer,Warlock,Wizard)
+* [Memorize Scene](./memorize-scene.md) *ritual* (Artificer,Bard,Sorcerer,Wizard)
+* [Minor Creation](./minor-creation.md) (Cleric,Wizard)
+* [Mirror Weapon](./mirror-weapon.md) (Artificer,Bard,Sorcerer,Wizard)
+* [Miscast Magic](./miscast-magic.md) (Bard,Cleric)
+* [Missile Drone](./missile-drone.md) (Wizard)
+* [Misty Escape](./misty-escape.md) (Wizard)
+* [Moment Reading](./moment-reading.md) (Cleric)
+* [Moon Blade](./moon-blade.md) (Artificer,Druid,Ranger)
+* [Moon Soul Revival](./moon-soul-revival.md) (Wizard)
+* [Mortify](./mortify.md) (Bard,Shaman,Sorcerer,Warlock,Wizard)
+* [Motivational Speech](./motivational-speech.md) (Bard,Cleric)
+* [Multiple Locality Strike](./multiple-locality-strike.md) *brandish* (Bard,Ranger,Sorcerer,Warlock,Wizard)
+* [Mummify](./mummify.md) (Cleric,Pale Master,Warlock,Wizard)
+* [Mystical Awareness](./mystical-awareness.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Nauseating Breath](./nauseating-breath.md) (Bard,Cleric,Sorcerer,Wizard)
+* [Nightscar](./nightscar.md) *ritual* (Bard,Sorcerer,Warlock,Wizard)
+* [No More Lies](./no-more-lies.md) (Bard,Cleric,Druid,Paladin,Wizard)
+* [Nondetection](./nondetection.md) (Bard,Ranger,Wizard)
+* [Object Sight](./object-sight.md) (Wizard)
+* [Orb of Elemental Chaos](./orb-of-elemental-chaos.md) (Sorcerer,Wizard)
+* [Orb of Impact](./orb-of-impact.md) (Sorcerer,Warlock,Wizard)
+* [Orbital Sentries](./orbital-sentries.md) (Sorcerer,Wizard)
+* [Otiluke's Acid Cloud](./otilukes-acid-cloud.md) (Sorcerer,Warlock,Wizard)
+* [Otto's Crystal Rhythms](./ottos-crystal-rhythms.md) (Bard,Sorcerer)
+* [Petrify](./petrify.md) (Druid,Warlock,Wizard)
+* [Phantom Steed](./phantom-steed.md) *ritual* (Pale Master,Wizard)
+* [Pinnacle of Awareness](./pinnacle-of-awareness.md) (Bard,Sorcerer,Wizard)
+* [Plague Vector](./plague-vector.md) (Cleric,Druid,Sorcerer,Warlock,Wizard)
+* [Plant Growth](./plant-growth.md) (Bard,Druid,Ranger,Shaman)
+* [Poison Darts](./poison-darts.md) (Bard,Druid,Ranger,Wizard)
+* [Poisoned Heart](./poisoned-heart.md) (Pale Master,Shaman,Warlock)
+* [Poisonous Touch](./poisonous-touch.md) (Cleric,Druid,Warlock)
+* [Portal Sense](./portal-sense.md) (Wizard)
+* [Predatory Shards](./predatory-shards.md) (Artificer,Cleric,Druid,Sorcerer,Warlock,Wizard)
+* [Predominance](./predominance.md) (Sorcerer)
+* [Protection from Energy](./protection-from-energy.md) (Artificer,Cleric,Druid,Ranger,Shaman,Sorcerer,Wizard)
+* [Protection from Normal Missiles](./protection-from-normal-missiles.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Protection from Normal Weapons](./protection-from-normal-weapons.md) (Artificer,Bard,Cleric,Sorcerer,Wizard)
+* [Psionic Blast](./psionic-blast.md) (Sorcerer,Warlock,Wizard)
+* [Psychic Wind](./psychic-wind.md) (Wizard)
+* [Pulse Wave](./pulse-wave.md) (Wizard)
+* [Pyroclastic Tide](./pyroclastic-tide.md) (Druid,Ranger)
+* [Quake Walk](./quake-walk.md) (Druid,Ranger,Sorcerer)
+* [Quickening Breeze](./quickening-breeze.md) (Artificer,Bard,Cleric,Druid)
+* [Quillfire](./quillfire.md) (Druid,Ranger)
+* [Rain of Stones](./rain-of-stones.md) (Wizard)
+* [Rainbow Blast](./rainbow-blast.md) (Sorcerer,Wizard)
+* [Random Casualty](./random-casualty.md) (Bard,Warlock)
+* [Ray of Exhaustion](./ray-of-exhaustion.md) (Sorcerer,Warlock,Wizard)
+* [Ray of Fatigue](./ray-of-fatigue.md) (Sorcerer,Warlock,Wizard)
+* [Ray of Reprisal](./ray-of-reprisal.md) (Paladin)
+* [Reckless Boost](./reckless-boost.md) (Bard,Sorcerer,Wizard)
+* [Redirect Spell](./redirect-spell.md) (Artificer,Bard,Cleric,Paladin,Sorcerer,Wizard)
+* [Reflect Elements](./reflect-elements.md) (Artificer,Druid,Ranger,Sorcerer,Wizard)
+* [Regal Procession](./regal-procession.md) (Paladin,Sorcerer,Wizard)
+* [Relocate](./relocate.md) (Artificer,Bard,Sorcerer,Wizard)
+* [Remove Curse](./remove-curse.md) (Cleric,Paladin,Pale Master,Shaman,Warlock,Wizard)
+* [Remove Gravity](./remove-gravity.md) (Wizard)
+* [Return](./return.md) (Sorcerer,Wizard)
+* [Reverse Arrows](./reverse-arrows.md) (Artificer,Ranger,Sorcerer,Wizard)
+* [Revivify](./revivify.md) (Artificer,Cleric,Druid,Paladin,Pale Master,Ranger)
+* [Rings of Darkness](./rings-of-darkness.md) (Sorcerer,Wizard)
+* [Rings of Radiance](./rings-of-radiance.md) (Sorcerer,Wizard)
+* [Rusting Grasp](./rusting-grasp.md) (Wizard)
+* [Sacred Ward](./sacred-ward.md) (Cleric,Warlock,Wizard)
+* [Sand Cloak](./sand-cloak.md) (Artificer,Druid,Ranger,Sorcerer)
+* [Scaleskin](./scaleskin.md) (Druid,Ranger)
+* [Scintillating Sphere](./scintillating-sphere.md) (Sorcerer,Wizard)
+* [Searing Light](./searing-light.md) (Cleric)
+* [See Hidden Doors](./see-hidden-doors.md) (Artificer,Cleric,Sorcerer,Wizard)
+* [Sending](./sending.md) (Bard,Cleric,Wizard)
+* [Sensate's Rush](./sensates-rush.md) (Bard,Ranger,Sorcerer,Wizard)
+* [Sentinel's Mark](./sentinels-mark.md) (Ranger)
+* [Servant of Flame](./servant-of-flame.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Shadow Spies](./shadow-spies.md) (Bard,Cleric,Pale Master,Shaman,Sorcerer,Wizard)
+* [Shield of Warding](./shield-of-warding.md) (Artificer,Cleric,Paladin)
+* [Shockwave](./shockwave.md) (Sorcerer,Wizard)
+* [Shroud of Undeath](./shroud-of-undeath.md) (Artificer,Bard,Cleric,Sorcerer,Warlock,Wizard)
+* [Sign of Sealing](./sign-of-sealing.md) (Artificer,Sorcerer,Wizard)
+* [Siphon Light](./siphon-light.md) (Wizard)
+* [Sleep of Horror](./sleep-of-horror.md) *ritual* (Bard,Sorcerer,Warlock,Wizard)
+* [Sleet Storm](./sleet-storm.md) (Druid,Sorcerer,Wizard)
+* [Slow](./slow.md) (Bard,Sorcerer,Wizard)
+* [Snap of Cold](./snap-of-cold.md) (Druid,Sorcerer,Wizard)
+* [Song of Mercy](./song-of-mercy.md) (Bard)
+* [Soulburn](./soulburn.md) (Wizard)
+* [Sound Circle](./sound-circle.md) *ritual* (Wizard)
+* [Speak with Dead](./speak-with-dead.md) (Bard,Cleric,Pale Master,Wizard)
+* [Speak with Plants](./speak-with-plants.md) (Bard,Druid,Ranger)
+* [Spectral Steed](./spectral-steed.md) (Paladin,Shaman)
+* [Speechlink](./speechlink.md) (Sorcerer,Wizard)
+* [Sphere of Deceit](./sphere-of-deceit.md) (Bard,Paladin,Warlock)
+* [Spider Gout](./spider-gout.md) (Cleric,Druid)
+* [Spirit Guardians](./spirit-guardians.md) (Cleric,Shaman)
+* [Spirit Shroud](./spirit-shroud.md) (Cleric,Paladin,Shaman,Warlock,Wizard)
+* [Steady Terrain](./steady-terrain.md) *ritual* (Druid,Ranger)
+* [Still Wind](./still-wind.md) *ritual* (Bard,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Stinking Cloud](./stinking-cloud.md) (Bard,Pale Master,Sorcerer,Wizard)
+* [Stony Grasp](./stony-grasp.md) (Sorcerer,Wizard)
+* [Storm Cone](./storm-cone.md) (Cleric,Druid,Ranger)
+* [Storm Shield](./storm-shield.md) (Cleric,Druid)
+* [Summon Fey](./summon-fey.md) (Druid,Ranger,Warlock,Wizard)
+* [Summon Lesser Demons](./summon-lesser-demons.md) (Warlock,Wizard)
+* [Summon Ooze](./summon-ooze.md) (Artificer,Druid,Warlock,Wizard)
+* [Summon Shadowspawn](./summon-shadowspawn.md) (Shaman,Warlock,Wizard)
+* [Summon Undead](./summon-undead.md) (Pale Master,Warlock,Wizard)
+* [Summon Warrior Spirit](./summon-warrior-spirit.md) (Shaman,Sorcerer,Warlock,Wizard)
+* [Summons of Khirad](./summons-of-khirad.md) (Warlock)
+* [Suspicion and Doubt](./suspicion-and-doubt.md) (Bard,Wizard)
+* [Sustaining Meditation](./sustaining-meditation.md) *ritual* (Artificer,Druid,Ranger)
+* [Swift Ward](./swift-ward.md) (Artificer,Bard,Cleric,Druid,Paladin,Pale Master,Ranger,Shaman,Sorcerer,Warlock,Wizard)
+* [Target of All](./target-of-all.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Tattoo Projectiles](./tattoo-projectiles.md) (Artificer,Bard,Druid,Ranger,Sorcerer,Warlock,Wizard)
+* [Telekinetic Burst](./telekinetic-burst.md) (Sorcerer,Warlock,Wizard)
+* [Tenser's Eye of the Eagle](./tensers-eye-of-the-eagle.md) (Sorcerer,Warlock,Wizard)
+* [Terra Steed](./terra-steed.md) (Druid,Ranger,Sorcerer,Wizard)
+* [Theater of Conflagration](./theater-of-conflagration.md) *brandish* (Bard,Sorcerer,Warlock,Wizard)
+* [Theater of War](./theater-of-war.md) *brandish* (Bard,Sorcerer,Warlock,Wizard)
+* [Thief's Lament](./thiefs-lament.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Thought Harvest](./thought-harvest.md) (Sorcerer,Wizard)
+* [Threehorn's Charge](./threehorns-charge.md) (Artificer,Druid,Ranger)
+* [Thunder Step](./thunder-step.md) (Sorcerer,Warlock,Wizard)
+* [Thundering Field](./thundering-field.md) (Bard,Sorcerer,Wizard)
+* [Thunderous Bellow](./thunderous-bellow.md) (Bard,Sorcerer)
+* [Tidal Wave](./tidal-wave.md) (Druid,Wizard)
+* [Tiny Servant](./tiny-servant.md) (Artificer,Wizard)
+* [Tongues](./tongues.md) (Bard,Cleric,Pale Master,Sorcerer,Warlock,Wizard)
+* [Tornado Blast](./tornado-blast.md) (Druid,Sorcerer,Wizard)
+* [Toxic Breath](./toxic-breath.md) (Sorcerer,Wizard)
+* [Tremorsense](./tremorsense.md) (Druid,Ranger,Sorcerer,Wizard)
+* [Undead Battlemight](./undead-battlemight.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Unified Resilience](./unified-resilience.md) (Bard,Paladin)
+* [Unleash Devastation](./unleash-devastation.md) (Druid,Warlock,Wizard)
+* [Vampiric Touch](./vampiric-touch.md) (Pale Master,Sorcerer,Wizard)
+* [Vaporous Smite](./vaporous-smite.md) (Paladin)
+* [Veiled Blade](./veiled-blade.md) (Bard,Ranger,Sorcerer,Warlock,Wizard)
+* [Veiled Dagger](./veiled-dagger.md) (Bard,Ranger,Sorcerer,Warlock,Wizard)
+* [Venomfire](./venomfire.md) (Cleric,Druid,Ranger)
+* [Visions of the Void](./visions-of-the-void.md) (Wizard)
+* [Wall of Sand](./wall-of-sand.md) (Wizard)
+* [Wall of Water](./wall-of-water.md) (Druid,Sorcerer,Wizard)
+* [Water Breathing](./water-breathing.md) *ritual* (Artificer,Druid,Pale Master,Ranger,Sorcerer,Wizard)
+* [Water Lasso](./water-lasso.md) (Wizard)
+* [Water Walk](./water-walk.md) *ritual* (Artificer,Cleric,Druid,Ranger,Sorcerer)
+* [Wave of Repulsion](./wave-of-repulsion.md) (Sorcerer,Warlock,Wizard)
+* [Wheel of Fire](./wheel-of-fire.md) (Sorcerer,Wizard)
+* [Wheel of Ice](./wheel-of-ice.md) (Sorcerer,Wizard)
+* [Wheel of Lightning](./wheel-of-lightning.md) (Sorcerer,Wizard)
+* [Whip of Pain](./whip-of-pain.md) *brandish* (Artificer,Sorcerer,Warlock,Wizard)
+* [Whip of Shar](./whip-of-shar.md) *brandish* (Artificer,Cleric,Sorcerer,Warlock,Wizard)
+* [Wind Wall](./wind-wall.md) (Druid,Ranger)
+* [Wings of Wind](./wings-of-wind.md) (Bard,Druid,Sorcerer,Warlock,Wizard)
+* [Wyrmling's Vitriol](./wyrmlings-vitriol.md) (Bard,Warlock)
+* [X-ray Vision](./x-ray-vision.md) (Wizard)
  
 ## 4th-Level Spells
-* [Absorb Strength](../Magic/Spells/absorb-strength.md): Pale Master, Shaman, Sorcerer, Warlock, Wizard
-* [Acid Bolts](../Magic/Spells/acid-bolts.md): Sorcerer, Wizard
-* [Agonize](../Magic/Spells/agonize.md): Artificer, Cleric, Druid, Sorcerer, Warlock, Wizard
-* [Air Lift](../Magic/Spells/air-lift.md): Wizard
-* [Ammar's Frost Armor](../Magic/Spells/ammars-frost-armor.md): Wizard
-* [Anyspell](../Magic/Spells/anyspell.md): Cleric, Wizard
-* [Arcane Eye](../Magic/Spells/arcane-eye.md): Artificer, Wizard
-* [Arcane Resilience](../Magic/Spells/arcane-resilience.md): Wizard
-* [Army of the Dead](../Magic/Spells/army-of-the-dead.md): Pale Master
-* [Aura of Life](../Magic/Spells/aura-of-life.md): Cleric, Paladin
-* [Aura of Purity](../Magic/Spells/aura-of-purity.md): Cleric, Paladin
-* [Axe Storm of Clangeddin](../Magic/Spells/axe-storm-of-clangeddin.md): Cleric, Paladin
-* [Azuth's Fedensor](../Magic/Spells/azuths-fedensor.md): Cleric, Sorcerer, Wizard
-* [Backlash Curse](../Magic/Spells/backlash-curse.md): Sorcerer, Warlock, Wizard
-* [Balor's Nimbus](../Magic/Spells/balors-nimbus.md): Cleric, Sorcerer, Warlock, Wizard
-* [Banishment](../Magic/Spells/banishment.md): Cleric, Paladin, Sorcerer, Warlock, Wizard
-* [Battle Hymn](../Magic/Spells/battle-hymn.md): Bard, Cleric, Paladin, Sorcerer, Wizard
-* [Bertin's Ball Lightning](../Magic/Spells/bertins-ball-lightning.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Blacksphere](../Magic/Spells/blacksphere.md): Bard, Sorcerer, Warlock, Wizard
-* [Blade of Flickering Shadows](../Magic/Spells/blade-of-flickering-shadows.md): Artificer, Paladin, Warlock, Wizard
-* [Blight](../Magic/Spells/blight.md): Druid, Pale Master, Sorcerer, Warlock, Wizard
-* [Blistering Radiance](../Magic/Spells/blistering-radiance.md): Cleric, Sorcerer, Wizard
-* [Blood Lightning](../Magic/Spells/blood-lightning.md): Sorcerer, Warlock, Wizard
-* [Blood Mantle](../Magic/Spells/blood-mantle.md): Cleric
-* [Bloodstar](../Magic/Spells/bloodstar.md): Sorcerer, Warlock, Wizard
-* [Body Clock](../Magic/Spells/body-clock.md): Artificer, Wizard
-* [Boiling Blood](../Magic/Spells/boiling-blood.md): Warlock, Wizard
-* [Boiling Oil](../Magic/Spells/boiling-oil.md): Artificer, Sorcerer, Warlock, Wizard
-* [Boon of the God](../Magic/Spells/boon-of-the-god.md): Cleric, Paladin
-* [Boulder Shot](../Magic/Spells/boulder-shot.md): Sorcerer, Warlock, Wizard
-* [Boundary](../Magic/Spells/boundary.md): Bard, Cleric, Wizard
-* [Brainkill](../Magic/Spells/brainkill.md): Sorcerer, Warlock, Wizard
-* [Breath of the Elements](../Magic/Spells/breath-of-the-elements.md): Bard, Cleric, Druid
-* [Brook Healing](../Magic/Spells/brook-healing.md): Bard, Cleric, Druid, Paladin, Ranger, Shaman
-* [Burning Blood](../Magic/Spells/burning-blood.md): Sorcerer, Warlock, Wizard
-* [Call Nightmare](../Magic/Spells/call-nightmare.md): Cleric, Sorcerer, Warlock, Wizard
-* [Calm Winds](../Magic/Spells/calm-winds.md): Cleric, Druid, Ranger
-* [Castigating Sanction](../Magic/Spells/castigating-sanction.md): Cleric, Paladin
-* [Chaos Hammer](../Magic/Spells/chaos-hammer.md): Sorcerer, Warlock, Wizard
-* [Charm Monster](../Magic/Spells/charm-monster.md): Bard, Druid, Sorcerer, Warlock, Wizard
-* [Circle of Privacy](../Magic/Spells/circle-of-privacy.md): Artificer, Druid, Ranger
-* [Cloud of Pestilence](../Magic/Spells/cloud-of-pestilence.md): Cleric, Warlock
-* [Command Water](../Magic/Spells/command-water.md): Wizard
-* [Compulsion](../Magic/Spells/compulsion.md): Bard
-* [Confusion](../Magic/Spells/confusion.md): Bard, Druid, Sorcerer, Wizard
-* [Conjure Minor Elementals](../Magic/Spells/conjure-minor-elementals.md): Druid, Wizard
-* [Conjure Woodland Beings](../Magic/Spells/conjure-woodland-beings.md): Druid, Ranger
-* [Consumptive Field](../Magic/Spells/consumptive-field.md): Cleric, Warlock
-* [Control Water](../Magic/Spells/control-water.md): Cleric, Druid, Wizard
-* [Corona](../Magic/Spells/corona.md): Cleric, Paladin
-* [Crackling Burst](../Magic/Spells/crackling-burst.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Create Apparition](../Magic/Spells/create-apparition.md): Cleric, Pale Master, Warlock, Wizard
-* [Crown of Light](../Magic/Spells/crown-of-light.md): Bard, Cleric
-* [Curse Blade](../Magic/Spells/curse-blade.md): Artificer, Cleric, Paladin, Ranger
-* [Cyclone](../Magic/Spells/cyclone.md): Druid, Sorcerer, Wizard
-* [Daltim's Flaming Fist](../Magic/Spells/daltims-flaming-fist.md): Sorcerer, Wizard
-* [Death Ward](../Magic/Spells/death-ward.md): Cleric, Paladin
-* [Decelerating Slash](../Magic/Spells/decelerating-slash.md): Wizard
-* [Deep Gloom](../Magic/Spells/deep-gloom.md): Bard, Cleric, Sorcerer, Wizard
-* [Delayed Magic Missile](../Magic/Spells/delayed-magic-missile.md): Sorcerer, Wizard
-* [Detect Curses](../Magic/Spells/detect-curses.md): Bard, Cleric, Druid, Shaman, Sorcerer, Wizard
-* [Detect Magical Object](../Magic/Spells/detect-magical-object.md): Wizard
-* [Devastate Undead](../Magic/Spells/devastate-undead.md): Pale Master, Warlock, Wizard
-* [Dimension Door](../Magic/Spells/dimension-door.md): Bard, Sorcerer, Warlock, Wizard
-* [Divination](../Magic/Spells/divination.md): Cleric, Druid, Wizard
-* [Dominate Beast](../Magic/Spells/dominate-beast.md): Druid, Ranger, Shaman, Sorcerer
-* [Dragon Breath](../Magic/Spells/dragon-breath.md): Cleric, Sorcerer, Wizard
-* [Drawmij's Toolbox](../Magic/Spells/drawmijs-toolbox.md): Artificer, Sorcerer, Wizard
-* [Drums of War](../Magic/Spells/drums-of-war.md): Bard
-* [Dusk Arrows](../Magic/Spells/dusk-arrows.md): Bard, Cleric, Pale Master, Ranger, Wizard
-* [Ego Whip](../Magic/Spells/ego-whip.md): Bard, Sorcerer, Warlock, Wizard
-* [Eldritch Isolation](../Magic/Spells/eldritch-isolation.md): Paladin, Warlock, Wizard
-* [Eldritch Pursuit](../Magic/Spells/eldritch-pursuit.md): Druid, Ranger, Warlock, Wizard
-* [Electromagnetic Pulse](../Magic/Spells/electromagnetic-pulse.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Elemental Bane](../Magic/Spells/elemental-bane.md): Artificer, Druid, Shaman, Warlock, Wizard
-* [Elemental Foible](../Magic/Spells/elemental-foible.md): Druid, Ranger, Sorcerer, Warlock, Wizard
-* [Embers](../Magic/Spells/embers.md): Bard, Druid, Pale Master, Shaman, Sorcerer, Wizard
-* [Enervating Bolt](../Magic/Spells/enervating-bolt.md): Sorcerer, Warlock, Wizard
-* [Enhance Body](../Magic/Spells/enhance-body.md): Artificer, Cleric, Paladin, Ranger, Sorcerer, Wizard
-* [Envenomed Weapon](../Magic/Spells/envenomed-weapon.md): Artificer, Druid, Ranger, Wizard
-* [Evard's Black Tentacles](../Magic/Spells/evards-black-tentacles.md): Pale Master, Wizard
-* [Eye for an Eye](../Magic/Spells/eye-for-an-eye.md): Artificer, Bard, Paladin
-* [Eye of the Hurricane](../Magic/Spells/eye-of-the-hurricane.md): Druid, Ranger
-* [Fabricate](../Magic/Spells/fabricate.md): Artificer, Wizard
-* [Fang Trap](../Magic/Spells/fang-trap.md): Artificer, Druid, Wizard
-* [Feat of Magnificence](../Magic/Spells/feat-of-magnificence.md): Bard, Cleric
-* [Find Greater Steed](../Magic/Spells/find-greater-steed.md): Paladin
-* [Finger of Agony](../Magic/Spells/finger-of-agony.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Fire Aura](../Magic/Spells/fire-aura.md): Cleric, Druid, Sorcerer, Wizard
-* [Fire Enchantment](../Magic/Spells/fire-enchantment.md): Sorcerer, Wizard
-* [Fire Shield](../Magic/Spells/fire-shield.md): Druid, Shaman, Sorcerer, Wizard
-* [Fire Trap](../Magic/Spells/fire-trap.md): Wizard
-* [Firequench](../Magic/Spells/firequench.md): Artificer, Sorcerer, Warlock, Wizard
-* [Firestride Exhalation](../Magic/Spells/firestride-exhalation.md): Sorcerer, Warlock, Wizard
-* [Flight of the Dragon](../Magic/Spells/flight-of-the-dragon.md): Sorcerer, Wizard
-* [Force Orb](../Magic/Spells/force-orb.md): Sorcerer, Wizard
-* [Forceful Missile](../Magic/Spells/forceful-missile.md): Artificer, Cleric, Ranger, Warlock, Wizard
-* [Freedom of Movement](../Magic/Spells/freedom-of-movement.md): Artificer, Bard, Cleric, Druid, Ranger
-* [Fugue](../Magic/Spells/fugue.md): Bard, Sorcerer, Wizard
-* [Fumbling Curse](../Magic/Spells/fumbling-curse.md): Bard, Cleric, Sorcerer, Wizard
-* [Furtive Armory](../Magic/Spells/furtive-armory.md): Wizard
-* [Galder's Speedy Courier](../Magic/Spells/galders-speedy-courier.md): Warlock, Wizard
-* [Galkyn's Bolt](../Magic/Spells/galkyns-bolt.md): Sorcerer, Warlock, Wizard
-* [Ghostflame](../Magic/Spells/ghostflame.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Giant Insect](../Magic/Spells/giant-insect.md): Druid
-* [Gift of Vivacity](../Magic/Spells/gift-of-vivacity.md): Paladin
-* [Glistening Acid Slick](../Magic/Spells/glistening-acid-slick.md): Druid, Sorcerer, Wizard
-* [Grasping Vine](../Magic/Spells/grasping-vine.md): Druid, Ranger
-* [Gravelslide](../Magic/Spells/gravelslide.md): Druid, Sorcerer, Wizard
-* [Gravity Sinkhole](../Magic/Spells/gravity-sinkhole.md): Wizard
-* [Greater Charm of Second Chance](../Magic/Spells/greater-charm-of-second-chance.md): Wizard
-* [Greater Invisibility](../Magic/Spells/greater-invisibility.md): Bard, Sorcerer, Wizard
-* [Greater Renewal](../Magic/Spells/greater-renewal.md): Artificer, Bard, Cleric, Druid, Ranger
-* [Greater Resistance](../Magic/Spells/greater-resistance.md): Artificer, Bard, Cleric, Druid, Sorcerer, Wizard
-* [Grimlore's Withering Coils](../Magic/Spells/grimlores-withering-coils.md): Pale Master, Warlock, Wizard
-* [Guardian of Faith](../Magic/Spells/guardian-of-faith.md): Cleric
-* [Guardian of Nature](../Magic/Spells/guardian-of-nature.md): Druid, Ranger, Shaman
-* [Hallowing Curse](../Magic/Spells/hallowing-curse.md): Bard, Cleric, Pale Master, Shaman, Warlock, Wizard
-* [Hallucinatory Terrain](../Magic/Spells/hallucinatory-terrain.md): Bard, Druid, Shaman, Warlock, Wizard
-* [Healing Stone](../Magic/Spells/healing-stone.md): Druid
-* [Heatwave](../Magic/Spells/heatwave.md): Druid, Sorcerer, Warlock, Wizard
-* [Hellfire Harrowing](../Magic/Spells/hellfire-harrowing.md): Sorcerer, Warlock, Wizard
-* [Hemorrhage](../Magic/Spells/hemorrhage.md): Cleric, Sorcerer, Warlock, Wizard
-* [Hernan's Hemorrhage](../Magic/Spells/hernans-hemorrhage.md): Druid, Pale Master, Ranger
-* [Hero's Defiance](../Magic/Spells/heros-defiance.md): Paladin
-* [Holy Glare](../Magic/Spells/holy-glare.md): Cleric, Paladin
-* [Hoodwink](../Magic/Spells/hoodwink.md): Artificer, Bard, Wizard
-* [Hungering Curse](../Magic/Spells/hungering-curse.md): Cleric, Druid
-* [Hypothermia](../Magic/Spells/hypothermia.md): Cleric, Druid
-* [Ice Blades](../Magic/Spells/ice-blades.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Ice Body](../Magic/Spells/ice-body.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Ice Storm](../Magic/Spells/ice-storm.md): Druid, Sorcerer, Wizard
-* [Improved Locate Object](../Magic/Spells/improved-locate-object.md): Bard, Cleric, Druid, Paladin, Ranger, Wizard
-* [Inspire Terror](../Magic/Spells/inspire-terror.md): Cleric, Paladin, Pale Master, Warlock, Wizard
-* [Jade Clone](../Magic/Spells/jade-clone.md): Wizard
-* [Jinx](../Magic/Spells/jinx.md): Bard, Cleric, Warlock, Wizard
-* [Killing Ground](../Magic/Spells/killing-ground.md): Paladin, Pale Master, Warlock
-* [Kiss of Torment](../Magic/Spells/kiss-of-torment.md): Cleric, Warlock
-* [Know Vulnerabilities](../Magic/Spells/know-vulnerabilities.md): Ranger, Sorcerer, Wizard
-* [Knurl](../Magic/Spells/knurl.md): Druid, Ranger
-* [Lair Divination](../Magic/Spells/lair-divination.md): Cleric
-* [Land Womb](../Magic/Spells/land-womb.md): Druid, Ranger
-* [Lathander's Blessing](../Magic/Spells/lathanders-blessing.md): Cleric, Paladin
-* [Lava Eruption](../Magic/Spells/lava-eruption.md): Druid, Wizard
-* [Leomund's Secret Chest](../Magic/Spells/leomunds-secret-chest.md): Artificer, Wizard
-* [Lesser Guardian Seal](../Magic/Spells/lesser-guardian-seal.md): Artificer, Sorcerer, Warlock, Wizard
-* [Lesser Spellsteal](../Magic/Spells/lesser-spellsteal.md): Wizard
-* [Lesser Water to Poison](../Magic/Spells/lesser-water-to-poison.md): Artificer, Bard, Druid, Ranger, Sorcerer, Warlock, Wizard
-* [Life Bolt](../Magic/Spells/life-bolt.md): Sorcerer, Warlock, Wizard
-* [Life Spring](../Magic/Spells/life-spring.md): Artificer, Cleric, Paladin, Ranger
-* [Lifesurge](../Magic/Spells/lifesurge.md): Artificer, Cleric, Paladin
-* [Locate Creature](../Magic/Spells/locate-creature.md): Bard, Cleric, Druid, Paladin, Ranger, Wizard
-* [Lungs of Water](../Magic/Spells/lungs-of-water.md): Sorcerer, Warlock, Wizard
-* [Magma Blade](../Magic/Spells/magma-blade.md): Artificer, Sorcerer, Warlock, Wizard
-* [Magma Jet](../Magic/Spells/magma-jet.md): Sorcerer, Warlock, Wizard
-* [Magma Shield](../Magic/Spells/magma-shield.md): Sorcerer, Warlock, Wizard
-* [March of Blades](../Magic/Spells/march-of-blades.md): Bard, Sorcerer, Wizard
-* [Marshal's Resolve](../Magic/Spells/marshals-resolve.md): Artificer, Paladin, Ranger, Wizard
-* [Mask of Death](../Magic/Spells/mask-of-death.md): Sorcerer, Warlock, Wizard
-* [Mass Shield of Faith](../Magic/Spells/mass-shield-of-faith.md): Cleric, Paladin
-* [Meteors of Celestian](../Magic/Spells/meteors-of-celestian.md): Sorcerer, Warlock, Wizard
-* [Misfire](../Magic/Spells/misfire.md): Bard, Cleric, Sorcerer, Warlock, Wizard
-* [Moon Bolt](../Magic/Spells/moon-bolt.md): Cleric, Druid
-* [Mordenkainen's Electric Arc](../Magic/Spells/mordenkainens-electric-arc.md): Sorcerer, Warlock, Wizard
-* [Mordenkainen's Faithful Hound](../Magic/Spells/mordenkainens-faithful-hound.md): Artificer, Wizard
-* [Mordenkainen's Force Missile](../Magic/Spells/mordenkainens-force-missile.md): Sorcerer, Wizard
-* [Mordenkainen's Private Sanctum](../Magic/Spells/mordenkainens-private-sanctum.md): Artificer, Wizard
-* [Murderous Mist](../Magic/Spells/murderous-mist.md): Sorcerer, Warlock, Wizard
-* [Necrotic Compulsion](../Magic/Spells/necrotic-compulsion.md): Cleric, Wizard
-* [Negative Energy Aura](../Magic/Spells/negative-energy-aura.md): Cleric, Sorcerer, Warlock, Wizard
-* [Nystul's Blacklight Burst](../Magic/Spells/nystuls-blacklight-burst.md): Sorcerer, Warlock, Wizard
-* [Oak Skewer](../Magic/Spells/oak-skewer.md): Artificer, Druid
-* [Oakheart](../Magic/Spells/oakheart.md): Druid
-* [Observance](../Magic/Spells/observance.md): Bard, Cleric, Ranger
-* [Odeen's Impenetrable Lock](../Magic/Spells/odeens-impenetrable-lock.md): Artificer, Bard, Sorcerer, Warlock, Wizard
-* [Orb of Cold](../Magic/Spells/orb-of-cold.md): Sorcerer, Wizard
-* [Otiluke's Dispelling Screen](../Magic/Spells/otilukes-dispelling-screen.md): Sorcerer, Warlock, Wizard
-* [Otiluke's Resilient Sphere](../Magic/Spells/otilukes-resilient-sphere.md): Artificer, Wizard
-* [Pain](../Magic/Spells/pain.md): Bard, Druid, Sorcerer, Warlock, Wizard
-* [Phantasmal Killer](../Magic/Spells/phantasmal-killer.md): Bard, Pale Master, Wizard
-* [Phantom Caravan](../Magic/Spells/phantom-caravan.md): Artificer, Druid, Sorcerer
-* [Pierce Magic Resistance](../Magic/Spells/pierce-magic-resistance.md): Wizard
-* [Plague](../Magic/Spells/plague.md): Pale Master, Warlock
-* [Plague Bearer's Masque](../Magic/Spells/plague-bearers-masque.md): Cleric, Sorcerer, Warlock, Wizard
-* [Polymorph](../Magic/Spells/polymorph.md): Bard, Druid, Sorcerer, Wizard
-* [Pool of Deeds](../Magic/Spells/pool-of-deeds.md): Bard
-* [Positive Energy Aura](../Magic/Spells/positive-energy-aura.md): Cleric, Paladin, Sorcerer, Wizard
-* [Premonitory Vision](../Magic/Spells/premonitory-vision.md): Bard, Druid, Ranger, Sorcerer
-* [Prescient Sense](../Magic/Spells/prescient-sense.md): Bard, Druid, Ranger, Sorcerer, Wizard
-* [Psychic Poison](../Magic/Spells/psychic-poison.md): Sorcerer, Warlock, Wizard
-* [Radiant Shield](../Magic/Spells/radiant-shield.md): Wizard
-* [Rain of Blood](../Magic/Spells/rain-of-blood.md): Sorcerer, Warlock, Wizard
-* [Rary's Mnemonic Enhancer](../Magic/Spells/rarys-mnemonic-enhancer.md): Artificer, Wizard
-* [Raulothim's Psychic Lance](../Magic/Spells/raulothims-psychic-lance.md): Bard, Sorcerer, Warlock, Wizard
-* [Raze](../Magic/Spells/raze.md): Sorcerer, Wizard
-* [Rusting Burst](../Magic/Spells/rusting-burst.md): Wizard
-* [Sacred Strike](../Magic/Spells/sacred-strike.md): Cleric
-* [Seed of Fire](../Magic/Spells/seed-of-fire.md): Artificer, Sorcerer, Warlock, Wizard
-* [Seek Eternal Rest](../Magic/Spells/seek-eternal-rest.md): Cleric, Paladin
-* [Sensory Deprivation](../Magic/Spells/sensory-deprivation.md): Sorcerer, Warlock, Wizard
-* [Serenity of Stone](../Magic/Spells/serenity-of-stone.md): Artificer, Druid, Paladin, Ranger
-* [Serpent Arrows](../Magic/Spells/serpent-arrows.md): Artificer, Druid, Ranger, Warlock, Wizard
-* [Serten's Spell Immunity](../Magic/Spells/sertens-spell-immunity.md): Sorcerer, Wizard
-* [Shadow Monsters](../Magic/Spells/shadow-monsters.md): Sorcerer, Warlock, Wizard
-* [Shadow of Moil](../Magic/Spells/shadow-of-moil.md): Pale Master, Warlock
-* [Shout of Deafening Thunder](../Magic/Spells/shout-of-deafening-thunder.md): Bard, Sorcerer, Wizard
-* [Sickening Radiance](../Magic/Spells/sickening-radiance.md): Sorcerer, Warlock, Wizard
-* [Sinsabur's Baleful Bolt](../Magic/Spells/sinsaburs-baleful-bolt.md): Sorcerer, Warlock, Wizard
-* [Sinuous Horrors](../Magic/Spells/sinuous-horrors.md): Warlock
-* [Spark of Life](../Magic/Spells/spark-of-life.md): Cleric, Druid
-* [Spirit of Death](../Magic/Spells/spirit-of-death.md): Shaman, Sorcerer, Warlock, Wizard
-* [Staggering Smite](../Magic/Spells/staggering-smite.md): Paladin
-* [Steam Strike](../Magic/Spells/steam-strike.md): Druid, Sorcerer, Wizard
-* [Sticks to Snakes](../Magic/Spells/sticks-to-snakes.md): Druid, Ranger
-* [Stockade Sprouts](../Magic/Spells/stockade-sprouts.md): Druid, Ranger, Sorcerer, Wizard
-* [Stone Shape](../Magic/Spells/stone-shape.md): Artificer, Cleric, Druid, Wizard
-* [Stoneskin](../Magic/Spells/stoneskin.md): Artificer, Druid, Ranger, Shaman, Sorcerer, Wizard
-* [Storm Sphere](../Magic/Spells/storm-sphere.md): Sorcerer, Wizard
-* [Strangulate](../Magic/Spells/strangulate.md): Bard, Cleric, Paladin, Sorcerer, Warlock, Wizard
-* [Sudden Stalagmite](../Magic/Spells/sudden-stalagmite.md): Druid
-* [Summon Aberration](../Magic/Spells/summon-aberration.md): Warlock, Wizard
-* [Summon Construct](../Magic/Spells/summon-construct.md): Artificer, Wizard
-* [Summon Elemental](../Magic/Spells/summon-elemental.md): Druid, Ranger, Wizard
-* [Summon Greater Demon](../Magic/Spells/summon-greater-demon.md): Warlock, Wizard
-* [Sunbolt](../Magic/Spells/sunbolt.md): Sorcerer, Warlock, Wizard
-* [Suppress Lycanthropy](../Magic/Spells/suppress-lycanthropy.md): Druid, Ranger
-* [Swordshun](../Magic/Spells/swordshun.md): Artificer, Cleric, Paladin
-* [Temporal Push](../Magic/Spells/temporal-push.md): Sorcerer, Warlock, Wizard
-* [Tenser's Masters of Arms](../Magic/Spells/tensers-masters-of-arms.md): Artificer, Sorcerer, Warlock, Wizard
-* [Thunderlance](../Magic/Spells/thunderlance.md): Sorcerer, Wizard
-* [Thunderous Reprisal](../Magic/Spells/thunderous-reprisal.md): Artificer, Bard, Cleric, Druid, Sorcerer, Wizard
-* [Torm's Safeguard](../Magic/Spells/torms-safeguard.md): Cleric, Paladin
-* [Touch of the Blackened Soul](../Magic/Spells/touch-of-the-blackened-soul.md): Sorcerer, Warlock, Wizard
-* [Treasure Scent](../Magic/Spells/treasure-scent.md): Artificer, Bard
-* [Turn Pebble to Boulder](../Magic/Spells/turn-pebble-to-boulder.md): Sorcerer, Warlock, Wizard
-* [Twist Fate](../Magic/Spells/twist-fate.md): Bard, Wizard
-* [Unshakable Bond](../Magic/Spells/unshakable-bond.md): Bard, Sorcerer, Wizard
-* [Utter Immolation](../Magic/Spells/utter-immolation.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Vacillate](../Magic/Spells/vacillate.md): Bard, Cleric, Paladin, Pale Master
-* [Vengeful Smite](../Magic/Spells/vengeful-smite.md): Paladin
-* [Venom Bolt](../Magic/Spells/venom-bolt.md): Druid, Sorcerer, Warlock, Wizard
-* [Venom Lash](../Magic/Spells/venom-lash.md): Druid, Ranger, Sorcerer, Wizard
-* [Vermintide](../Magic/Spells/vermintide.md): Druid
-* [Vision Stone](../Magic/Spells/vision-stone.md): Artificer, Sorcerer, Warlock, Wizard
-* [Vitriolic Sphere](../Magic/Spells/vitriolic-sphere.md): Sorcerer, Wizard
-* [Wall of Fire](../Magic/Spells/wall-of-fire.md): Druid, Sorcerer, Wizard
-* [Watchware](../Magic/Spells/watchware.md): Artificer, Bard, Wizard
-* [Watery Sphere](../Magic/Spells/watery-sphere.md): Druid, Sorcerer, Wizard
-* [Wax](../Magic/Spells/wax.md): Wizard
-* [Widogast's Vault of Amber](../Magic/Spells/widogasts-vault-of-amber.md): Wizard
-* [Widogast's Web of Fire](../Magic/Spells/widogasts-web-of-fire.md): Wizard
-* [Wind Funnel](../Magic/Spells/wind-funnel.md): Artificer, Druid, Ranger, Sorcerer, Warlock, Wizard
-* [Wind at Back](../Magic/Spells/wind-at-back.md): Druid, Ranger
-* [Word of Chaos](../Magic/Spells/word-of-chaos.md): Sorcerer, Warlock, Wizard
-* [Word of Law](../Magic/Spells/word-of-law.md): Sorcerer, Warlock, Wizard
-* [Wrack](../Magic/Spells/wrack.md): Cleric, Sorcerer, Wizard
-* [Zala's Amberhelm](../Magic/Spells/zalas-amberhelm.md): Artificer, Cleric, Paladin
+* [Absorb Strength](./absorb-strength.md) (Pale Master,Shaman,Sorcerer,Warlock,Wizard)
+* [Acid Bolts](./acid-bolts.md) (Sorcerer,Wizard)
+* [Agonize](./agonize.md) (Artificer,Cleric,Druid,Sorcerer,Warlock,Wizard)
+* [Air Lift](./air-lift.md) (Wizard)
+* [Ammar's Frost Armor](./ammars-frost-armor.md) (Wizard)
+* [Anyspell](./anyspell.md) (Cleric,Wizard)
+* [Arcane Eye](./arcane-eye.md) (Artificer,Wizard)
+* [Arcane Resilience](./arcane-resilience.md) (Wizard)
+* [Army of the Dead](./army-of-the-dead.md) (Pale Master)
+* [Aura of Life](./aura-of-life.md) (Cleric,Paladin)
+* [Aura of Purity](./aura-of-purity.md) (Cleric,Paladin)
+* [Axe Storm of Clangeddin](./axe-storm-of-clangeddin.md) (Cleric,Paladin)
+* [Azuth's Fedensor](./azuths-fedensor.md) (Cleric,Sorcerer,Wizard)
+* [Backlash Curse](./backlash-curse.md) (Sorcerer,Warlock,Wizard)
+* [Balor's Nimbus](./balors-nimbus.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Banishment](./banishment.md) (Cleric,Paladin,Sorcerer,Warlock,Wizard)
+* [Battle Hymn](./battle-hymn.md) (Bard,Cleric,Paladin,Sorcerer,Wizard)
+* [Bertin's Ball Lightning](./bertins-ball-lightning.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Blacksphere](./blacksphere.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Blade of Flickering Shadows](./blade-of-flickering-shadows.md) (Artificer,Paladin,Warlock,Wizard)
+* [Blight](./blight.md) (Druid,Pale Master,Sorcerer,Warlock,Wizard)
+* [Blistering Radiance](./blistering-radiance.md) (Cleric,Sorcerer,Wizard)
+* [Blood Lightning](./blood-lightning.md) (Sorcerer,Warlock,Wizard)
+* [Blood Mantle](./blood-mantle.md) (Cleric)
+* [Bloodstar](./bloodstar.md) (Sorcerer,Warlock,Wizard)
+* [Body Clock](./body-clock.md) (Artificer,Wizard)
+* [Boiling Blood](./boiling-blood.md) *blood* (Warlock,Wizard)
+* [Boiling Oil](./boiling-oil.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Boon of the God](./boon-of-the-god.md) (Cleric,Paladin)
+* [Boulder Shot](./boulder-shot.md) (Sorcerer,Warlock,Wizard)
+* [Boundary](./boundary.md) (Bard,Cleric,Wizard)
+* [Brainkill](./brainkill.md) (Sorcerer,Warlock,Wizard)
+* [Breath of the Elements](./breath-of-the-elements.md) *ritual* (Bard,Cleric,Druid)
+* [Brilliant Smite](./brilliant-smite.md) (Paladin)
+* [Brook Healing](./brook-healing.md) (Bard,Cleric,Druid,Paladin,Ranger,Shaman)
+* [Burning Blood](./burning-blood.md) (Sorcerer,Warlock,Wizard)
+* [Cage of Black](./cage-of-black.md) *ritual* (Wizard)
+* [Cage of Force](./cage-of-force.md) *ritual* (Wizard)
+* [Cage of Radiance](./cage-of-radiance.md) *ritual* (Wizard)
+* [Call Nightmare](./call-nightmare.md) *ritual* (Cleric,Sorcerer,Warlock,Wizard)
+* [Calm Winds](./calm-winds.md) (Cleric,Druid,Ranger)
+* [Castigating Sanction](./castigating-sanction.md) (Cleric,Paladin)
+* [Celestial Shard](./celestial-shard.md) (Cleric)
+* [Chaos Hammer](./chaos-hammer.md) (Sorcerer,Warlock,Wizard)
+* [Charm Monster](./charm-monster.md) (Bard,Druid,Sorcerer,Warlock,Wizard)
+* [Circle of Privacy](./circle-of-privacy.md) *ritual* (Artificer,Druid,Ranger)
+* [Cloud of Pestilence](./cloud-of-pestilence.md) (Cleric,Warlock)
+* [Command Water](./command-water.md) (Wizard)
+* [Compulsion](./compulsion.md) (Bard)
+* [Confusion](./confusion.md) (Bard,Druid,Sorcerer,Wizard)
+* [Conjure Minor Elementals](./conjure-minor-elementals.md) (Druid,Wizard)
+* [Conjure Woodland Beings](./conjure-woodland-beings.md) (Druid,Ranger)
+* [Consumptive Field](./consumptive-field.md) (Cleric,Warlock)
+* [Control Water](./control-water.md) (Cleric,Druid,Wizard)
+* [Corona](./corona.md) (Cleric,Paladin)
+* [Crackling Burst](./crackling-burst.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Create Apparition](./create-apparition.md) (Cleric,Pale Master,Warlock,Wizard)
+* [Crown of Light](./crown-of-light.md) (Bard,Cleric)
+* [Curse Blade](./curse-blade.md) (Artificer,Cleric,Paladin,Ranger)
+* [Cutting Wheel](./cutting-wheel.md) (Wizard)
+* [Cyclone](./cyclone.md) (Druid,Sorcerer,Wizard)
+* [Daltim's Flaming Fist](./daltims-flaming-fist.md) (Sorcerer,Wizard)
+* [Dark Wave](./dark-wave.md) (Paladin,Sorcerer)
+* [Dark Zone](./dark-zone.md) *ritual* (Sorcerer,Warlock,Wizard)
+* [Death Ward](./death-ward.md) (Cleric,Paladin)
+* [Decelerating Slash](./decelerating-slash.md) (Wizard)
+* [Deep Gloom](./deep-gloom.md) (Bard,Cleric,Sorcerer,Wizard)
+* [Delayed Magic Missile](./delayed-magic-missile.md) (Sorcerer,Wizard)
+* [Detect Curses](./detect-curses.md) *ritual* (Bard,Cleric,Druid,Shaman,Sorcerer,Wizard)
+* [Detect Magical Object](./detect-magical-object.md) (Wizard)
+* [Devastate Undead](./devastate-undead.md) (Pale Master,Warlock,Wizard)
+* [Dimension Door](./dimension-door.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Divination](./divination.md) *ritual* (Cleric,Druid,Wizard)
+* [Dominate Beast](./dominate-beast.md) (Druid,Ranger,Shaman,Sorcerer)
+* [Dragon Breath](./dragon-breath.md) (Cleric,Sorcerer,Wizard)
+* [Drawmij's Toolbox](./drawmijs-toolbox.md) (Artificer,Sorcerer,Wizard)
+* [Drilling Beam](./drilling-beam.md) (Wizard)
+* [Drums of War](./drums-of-war.md) (Bard)
+* [Dusk Arrows](./dusk-arrows.md) (Bard,Cleric,Pale Master,Ranger,Wizard)
+* [Ego Whip](./ego-whip.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Eldritch Isolation](./eldritch-isolation.md) (Paladin,Warlock,Wizard)
+* [Eldritch Pursuit](./eldritch-pursuit.md) (Druid,Ranger,Warlock,Wizard)
+* [Electromagnetic Pulse](./electromagnetic-pulse.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Elemental Bane](./elemental-bane.md) (Artificer,Druid,Shaman,Warlock,Wizard)
+* [Elemental Foible](./elemental-foible.md) (Druid,Ranger,Sorcerer,Warlock,Wizard)
+* [Embers](./embers.md) (Bard,Druid,Pale Master,Shaman,Sorcerer,Wizard)
+* [Enervating Bolt](./enervating-bolt.md) (Sorcerer,Warlock,Wizard)
+* [Enhance Body](./enhance-body.md) (Artificer,Cleric,Paladin,Ranger,Sorcerer,Wizard)
+* [Envenomed Weapon](./envenomed-weapon.md) (Artificer,Druid,Ranger,Wizard)
+* [Evard's Black Tentacles](./evards-black-tentacles.md) (Pale Master,Wizard)
+* [Eye for an Eye](./eye-for-an-eye.md) (Artificer,Bard,Paladin)
+* [Eye of the Hurricane](./eye-of-the-hurricane.md) (Druid,Ranger)
+* [Fabricate](./fabricate.md) (Artificer,Wizard)
+* [Fang Trap](./fang-trap.md) (Artificer,Druid,Wizard)
+* [Feat of Magnificence](./feat-of-magnificence.md) (Bard,Cleric)
+* [Find Greater Steed](./find-greater-steed.md) (Paladin)
+* [Finger of Agony](./finger-of-agony.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Fire Aura](./fire-aura.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Fire Enchantment](./fire-enchantment.md) (Sorcerer,Wizard)
+* [Fire Shield](./fire-shield.md) (Druid,Shaman,Sorcerer,Wizard)
+* [Fire Trap](./fire-trap.md) (Wizard)
+* [Firequench](./firequench.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Firestride Exhalation](./firestride-exhalation.md) (Sorcerer,Warlock,Wizard)
+* [Flight of the Dragon](./flight-of-the-dragon.md) (Sorcerer,Wizard)
+* [Force Orb](./force-orb.md) (Sorcerer,Wizard)
+* [Forceful Missile](./forceful-missile.md) (Artificer,Cleric,Ranger,Warlock,Wizard)
+* [Freedom of Movement](./freedom-of-movement.md) (Artificer,Bard,Cleric,Druid,Ranger)
+* [Fugue](./fugue.md) (Bard,Sorcerer,Wizard)
+* [Fumbling Curse](./fumbling-curse.md) (Bard,Cleric,Sorcerer,Wizard)
+* [Furtive Armory](./furtive-armory.md) (Wizard)
+* [Galder's Speedy Courier](./galders-speedy-courier.md) (Warlock,Wizard)
+* [Galkyn's Bolt](./galkyns-bolt.md) (Sorcerer,Warlock,Wizard)
+* [Ghostflame](./ghostflame.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Giant Insect](./giant-insect.md) (Druid)
+* [Gift of Vivacity](./gift-of-vivacity.md) (Paladin)
+* [Glistening Acid Slick](./glistening-acid-slick.md) (Druid,Sorcerer,Wizard)
+* [Grasping Vine](./grasping-vine.md) (Druid,Ranger)
+* [Gravelslide](./gravelslide.md) (Druid,Sorcerer,Wizard)
+* [Gravity Sinkhole](./gravity-sinkhole.md) (Wizard)
+* [Greater Charm of Second Chance](./greater-charm-of-second-chance.md) (Wizard)
+* [Greater Invisibility](./greater-invisibility.md) (Bard,Sorcerer,Wizard)
+* [Greater Renewal](./greater-renewal.md) (Artificer,Bard,Cleric,Druid,Ranger)
+* [Greater Resistance](./greater-resistance.md) (Artificer,Bard,Cleric,Druid,Sorcerer,Wizard)
+* [Grimlore's Withering Coils](./grimlores-withering-coils.md) (Pale Master,Warlock,Wizard)
+* [Guardian of Faith](./guardian-of-faith.md) (Cleric)
+* [Guardian of Nature](./guardian-of-nature.md) (Druid,Ranger,Shaman)
+* [Hallowing Curse](./hallowing-curse.md) (Bard,Cleric,Pale Master,Shaman,Warlock,Wizard)
+* [Hallucinatory Terrain](./hallucinatory-terrain.md) (Bard,Druid,Shaman,Warlock,Wizard)
+* [Healing Stone](./healing-stone.md) *ritual* (Druid)
+* [Heatwave](./heatwave.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Hellfire Harrowing](./hellfire-harrowing.md) (Sorcerer,Warlock,Wizard)
+* [Hemorrhage](./hemorrhage.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Hernan's Hemorrhage](./hernans-hemorrhage.md) (Druid,Pale Master,Ranger)
+* [Hero's Defiance](./heros-defiance.md) (Paladin)
+* [Hidden Exploder](./hidden-exploder.md) (Wizard)
+* [Holy Glare](./holy-glare.md) (Cleric,Paladin)
+* [Hoodwink](./hoodwink.md) (Artificer,Bard,Wizard)
+* [Hungering Curse](./hungering-curse.md) (Cleric,Druid)
+* [Hypothermia](./hypothermia.md) (Cleric,Druid)
+* [Ice Blades](./ice-blades.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Ice Body](./ice-body.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Ice Storm](./ice-storm.md) (Druid,Sorcerer,Wizard)
+* [Improved Locate Object](./improved-locate-object.md) (Bard,Cleric,Druid,Paladin,Ranger,Wizard)
+* [Inspire Terror](./inspire-terror.md) (Cleric,Paladin,Pale Master,Warlock,Wizard)
+* [Intrusion of Kratoom](./intrusion-of-kratoom.md) (Warlock)
+* [Jade Clone](./jade-clone.md) (Wizard)
+* [Jinx](./jinx.md) (Bard,Cleric,Warlock,Wizard)
+* [Killing Ground](./killing-ground.md) (Paladin,Pale Master,Warlock)
+* [Kiss of Torment](./kiss-of-torment.md) (Cleric,Warlock)
+* [Know Vulnerabilities](./know-vulnerabilities.md) (Ranger,Sorcerer,Wizard)
+* [Knurl](./knurl.md) (Druid,Ranger)
+* [Lair Divination](./lair-divination.md) (Cleric)
+* [Land Womb](./land-womb.md) (Druid,Ranger)
+* [Lathander's Blessing](./lathanders-blessing.md) (Cleric,Paladin)
+* [Lava Eruption](./lava-eruption.md) (Druid,Wizard)
+* [Leomund's Secret Chest](./leomunds-secret-chest.md) (Artificer,Wizard)
+* [Lesser Guardian Seal](./lesser-guardian-seal.md) *ritual* (Artificer,Sorcerer,Warlock,Wizard)
+* [Lesser Spellsteal](./lesser-spellsteal.md) (Wizard)
+* [Lesser Water to Poison](./lesser-water-to-poison.md) (Artificer,Bard,Druid,Ranger,Sorcerer,Warlock,Wizard)
+* [Life Bolt](./life-bolt.md) (Sorcerer,Warlock,Wizard)
+* [Life Spring](./life-spring.md) (Artificer,Cleric,Paladin,Ranger)
+* [Lifesurge](./lifesurge.md) (Artificer,Cleric,Paladin)
+* [Lightning Pacification](./lightning-pacification.md) (Warlock,Wizard)
+* [Locate Creature](./locate-creature.md) (Bard,Cleric,Druid,Paladin,Ranger,Wizard)
+* [Luminous Wave](./luminous-wave.md) (Paladin,Sorcerer)
+* [Lungs of Water](./lungs-of-water.md) (Sorcerer,Warlock,Wizard)
+* [Magma Blade](./magma-blade.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Magma Jet](./magma-jet.md) (Sorcerer,Warlock,Wizard)
+* [Magma Shield](./magma-shield.md) (Sorcerer,Warlock,Wizard)
+* [Magnetic Singularity](./magnetic-singularity.md) (Sorcerer,Wizard)
+* [March of Blades](./march-of-blades.md) (Bard,Sorcerer,Wizard)
+* [Marshal's Resolve](./marshals-resolve.md) (Artificer,Paladin,Ranger,Wizard)
+* [Mask of Death](./mask-of-death.md) *ritual* (Sorcerer,Warlock,Wizard)
+* [Mass Shield of Faith](./mass-shield-of-faith.md) (Cleric,Paladin)
+* [Meteors of Celestian](./meteors-of-celestian.md) (Sorcerer,Warlock,Wizard)
+* [Misfire](./misfire.md) (Bard,Cleric,Sorcerer,Warlock,Wizard)
+* [Moon Bolt](./moon-bolt.md) (Cleric,Druid)
+* [Mordenkainen's Electric Arc](./mordenkainens-electric-arc.md) (Sorcerer,Warlock,Wizard)
+* [Mordenkainen's Faithful Hound](./mordenkainens-faithful-hound.md) (Artificer,Wizard)
+* [Mordenkainen's Force Missile](./mordenkainens-force-missile.md) (Sorcerer,Wizard)
+* [Mordenkainen's Private Sanctum](./mordenkainens-private-sanctum.md) (Artificer,Wizard)
+* [Murderous Mist](./murderous-mist.md) (Sorcerer,Warlock,Wizard)
+* [Necrotic Compulsion](./necrotic-compulsion.md) (Cleric,Wizard)
+* [Negative Energy Aura](./negative-energy-aura.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Nystul's Blacklight Burst](./nystuls-blacklight-burst.md) (Sorcerer,Warlock,Wizard)
+* [Oak Skewer](./oak-skewer.md) (Artificer,Druid)
+* [Oakheart](./oakheart.md) (Druid)
+* [Observance](./observance.md) (Bard,Cleric,Ranger)
+* [Odeen's Impenetrable Lock](./odeens-impenetrable-lock.md) (Artificer,Bard,Sorcerer,Warlock,Wizard)
+* [Orb of Cold](./orb-of-cold.md) (Sorcerer,Wizard)
+* [Otiluke's Dispelling Screen](./otilukes-dispelling-screen.md) (Sorcerer,Warlock,Wizard)
+* [Otiluke's Resilient Sphere](./otilukes-resilient-sphere.md) (Artificer,Wizard)
+* [Pain](./pain.md) (Bard,Druid,Sorcerer,Warlock,Wizard)
+* [Phantasmal Killer](./phantasmal-killer.md) (Bard,Pale Master,Wizard)
+* [Phantom Caravan](./phantom-caravan.md) (Artificer,Druid,Sorcerer)
+* [Pierce Magic Resistance](./pierce-magic-resistance.md) (Wizard)
+* [Plague](./plague.md) (Pale Master,Warlock)
+* [Plague Bearer's Masque](./plague-bearers-masque.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Polymorph](./polymorph.md) (Bard,Druid,Sorcerer,Wizard)
+* [Pool of Deeds](./pool-of-deeds.md) *ritual* (Bard)
+* [Positive Energy Aura](./positive-energy-aura.md) (Cleric,Paladin,Sorcerer,Wizard)
+* [Premonitory Vision](./premonitory-vision.md) *ritual* (Bard,Druid,Ranger,Sorcerer)
+* [Prescient Sense](./prescient-sense.md) (Bard,Druid,Ranger,Sorcerer,Wizard)
+* [Psychic Poison](./psychic-poison.md) (Sorcerer,Warlock,Wizard)
+* [Punishment Circle](./punishment-circle.md) (Wizard)
+* [Questing Orb](./questing-orb.md) (Sorcerer,Warlock,Wizard)
+* [Radiant Ball](./radiant-ball.md) (Sorcerer,Wizard)
+* [Radiant Shield](./radiant-shield.md) (Wizard)
+* [Rain of Blood](./rain-of-blood.md) (Sorcerer,Warlock,Wizard)
+* [Rary's Mnemonic Enhancer](./rarys-mnemonic-enhancer.md) (Wizard)
+* [Raulothim's Psychic Lance](./raulothims-psychic-lance.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Raze](./raze.md) (Sorcerer,Wizard)
+* [Revealing Light](./revealing-light.md) *ritual* (Bard,Cleric,Warlock,Wizard)
+* [Rusting Burst](./rusting-burst.md) (Wizard)
+* [Sacred Strike](./sacred-strike.md) (Cleric)
+* [Searching Ray](./searching-ray.md) (Sorcerer,Wizard)
+* [Seed of Fire](./seed-of-fire.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Seek Eternal Rest](./seek-eternal-rest.md) (Cleric,Paladin)
+* [Selective Flash](./selective-flash.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Sensory Deprivation](./sensory-deprivation.md) (Sorcerer,Warlock,Wizard)
+* [Serenity of Stone](./serenity-of-stone.md) (Artificer,Druid,Paladin,Ranger)
+* [Serpent Arrows](./serpent-arrows.md) (Artificer,Druid,Ranger,Warlock,Wizard)
+* [Serten's Spell Immunity](./sertens-spell-immunity.md) (Sorcerer,Wizard)
+* [Shadow Ball](./shadow-ball.md) (Sorcerer,Wizard)
+* [Shadow Monsters](./shadow-monsters.md) (Sorcerer,Warlock,Wizard)
+* [Shadow of Moil](./shadow-of-moil.md) (Pale Master,Warlock)
+* [Shattering Smite](./shattering-smite.md) (Paladin)
+* [Shining Beacon](./shining-beacon.md) (Cleric,Paladin)
+* [Shout of Deafening Thunder](./shout-of-deafening-thunder.md) (Bard,Sorcerer,Wizard)
+* [Sickening Radiance](./sickening-radiance.md) (Sorcerer,Warlock,Wizard)
+* [Sinsabur's Baleful Bolt](./sinsaburs-baleful-bolt.md) (Sorcerer,Warlock,Wizard)
+* [Sinuous Horrors](./sinuous-horrors.md) (Warlock)
+* [Sliding Frost](./sliding-frost.md) (Druid,Sorcerer,Wizard)
+* [Song of Light and Shadow](./song-of-light-and-shadow.md) (Bard)
+* [Spark of Life](./spark-of-life.md) (Cleric,Druid)
+* [Spirit of Death](./spirit-of-death.md) (Shaman,Sorcerer,Warlock,Wizard)
+* [Staggering Smite](./staggering-smite.md) (Paladin)
+* [Stairs of Ice](./stairs-of-ice.md) (Sorcerer,Wizard)
+* [Steam Strike](./steam-strike.md) (Druid,Sorcerer,Wizard)
+* [Sticks to Snakes](./sticks-to-snakes.md) *ritual* (Druid,Ranger)
+* [Stockade Sprouts](./stockade-sprouts.md) (Druid,Ranger,Sorcerer,Wizard)
+* [Stone Shape](./stone-shape.md) (Artificer,Cleric,Druid,Wizard)
+* [Stoneskin](./stoneskin.md) (Artificer,Druid,Ranger,Shaman,Sorcerer,Wizard)
+* [Storm Sphere](./storm-sphere.md) (Sorcerer,Wizard)
+* [Strangulate](./strangulate.md) (Bard,Cleric,Paladin,Sorcerer,Warlock,Wizard)
+* [Sudden Stalagmite](./sudden-stalagmite.md) (Druid)
+* [Summon Aberration](./summon-aberration.md) (Warlock,Wizard)
+* [Summon Construct](./summon-construct.md) (Artificer,Wizard)
+* [Summon Elemental](./summon-elemental.md) (Druid,Ranger,Wizard)
+* [Summon Greater Demon](./summon-greater-demon.md) (Warlock,Wizard)
+* [Sunbolt](./sunbolt.md) (Sorcerer,Warlock,Wizard)
+* [Suppress Lycanthropy](./suppress-lycanthropy.md) (Druid,Ranger)
+* [Swordshun](./swordshun.md) (Artificer,Cleric,Paladin)
+* [Temperature Zone](./temperature-zone.md) *ritual* (Bard,Cleric,Druid,Sorcerer,Wizard)
+* [Temporal Push](./temporal-push.md) (Sorcerer,Warlock,Wizard)
+* [Tenser's Masters of Arms](./tensers-masters-of-arms.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Theater of the Inferno](./theater-of-the-inferno.md) *brandish* (Bard,Sorcerer,Warlock,Wizard)
+* [Thunder Stomp](./thunder-stomp.md) (Bard,Cleric,Sorcerer,Wizard)
+* [Thunderlance](./thunderlance.md) (Sorcerer,Wizard)
+* [Thunderous Reprisal](./thunderous-reprisal.md) (Artificer,Bard,Cleric,Druid,Sorcerer,Wizard)
+* [Torm's Safeguard](./torms-safeguard.md) (Cleric,Paladin)
+* [Touch of the Blackened Soul](./touch-of-the-blackened-soul.md) (Sorcerer,Warlock,Wizard)
+* [Treasure Scent](./treasure-scent.md) (Artificer,Bard)
+* [Turn Pebble to Boulder](./turn-pebble-to-boulder.md) (Sorcerer,Warlock,Wizard)
+* [Twist Fate](./twist-fate.md) (Bard,Wizard)
+* [Ultrasonic Pulse](./ultrasonic-pulse.md) (Bard,Druid,Sorcerer,Wizard)
+* [Unshakable Bond](./unshakable-bond.md) (Bard,Sorcerer,Wizard)
+* [Utter Immolation](./utter-immolation.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Vacillate](./vacillate.md) (Bard,Cleric,Paladin,Pale Master)
+* [Vengeful Smite](./vengeful-smite.md) *blood* (Paladin)
+* [Venom Bolt](./venom-bolt.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Venom Lash](./venom-lash.md) (Druid,Ranger,Sorcerer,Wizard)
+* [Vermintide](./vermintide.md) (Druid)
+* [Vision Stone](./vision-stone.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Vitriolic Sphere](./vitriolic-sphere.md) (Sorcerer,Wizard)
+* [Wall of Fire](./wall-of-fire.md) (Druid,Sorcerer,Wizard)
+* [Watchware](./watchware.md) *ritual* (Artificer,Bard,Wizard)
+* [Watery Sphere](./watery-sphere.md) (Druid,Sorcerer,Wizard)
+* [Wax](./wax.md) (Wizard)
+* [Wheel of Darkness](./wheel-of-darkness.md) (Wizard)
+* [Wheel of Force](./wheel-of-force.md) (Sorcerer,Wizard)
+* [Wheel of Radiance](./wheel-of-radiance.md) (Sorcerer,Wizard)
+* [Widogast's Vault of Amber](./widogasts-vault-of-amber.md) *ritual* (Wizard)
+* [Widogast's Web of Fire](./widogasts-web-of-fire.md) (Wizard)
+* [Wind Funnel](./wind-funnel.md) (Artificer,Druid,Ranger,Sorcerer,Warlock,Wizard)
+* [Wind at Back](./wind-at-back.md) (Druid,Ranger)
+* [Winterfloor](./winterfloor.md) *ritual* (Bard,Druid,Sorcerer,Wizard)
+* [Word of Chaos](./word-of-chaos.md) (Sorcerer,Warlock,Wizard)
+* [Word of Law](./word-of-law.md) (Sorcerer,Warlock,Wizard)
+* [Wrack](./wrack.md) (Cleric,Sorcerer,Wizard)
+* [Zala's Amberhelm](./zalas-amberhelm.md) (Artificer,Cleric,Paladin)
+* [Zone of Sonic Amplification](./zone-of-sonic-amplification.md) (Bard,Wizard)
  
 ## 5th-Level Spells
-* [Accelerate Metabolism](../Magic/Spells/accelerate-metabolism.md): Artificer, Cleric, Ranger
-* [Acid Sheath](../Magic/Spells/acid-sheath.md): Sorcerer, Warlock, Wizard
-* [Acid for Blood](../Magic/Spells/acid-for-blood.md): Artificer, Sorcerer, Warlock, Wizard
-* [Aegis](../Magic/Spells/aegis.md): Paladin
-* [Agonizing Chill](../Magic/Spells/agonizing-chill.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Anesthetic Gaze](../Magic/Spells/anesthetic-gaze.md): Artificer, Sorcerer, Warlock, Wizard
-* [Animate Legion](../Magic/Spells/animate-legion.md): Cleric, Sorcerer, Warlock, Wizard
-* [Animate Objects](../Magic/Spells/animate-objects.md): Artificer, Bard, Sorcerer, Wizard
-* [Animate Shadow](../Magic/Spells/animate-shadow.md): Pale Master
-* [Anticold Sphere](../Magic/Spells/anticold-sphere.md): Cleric, Ranger
-* [Antilife Shell](../Magic/Spells/antilife-shell.md): Druid
-* [Arc of Lightning](../Magic/Spells/arc-of-lightning.md): Sorcerer, Warlock, Wizard
-* [Arcane Armor](../Magic/Spells/arcane-armor.md): Wizard
-* [Armor of Bones](../Magic/Spells/armor-of-bones.md): Cleric, Druid, Pale Master, Shaman, Warlock, Wizard
-* [Articus' Devolutionary Warrior](../Magic/Spells/articus-devolutionary-warrior.md): Cleric, Druid
-* [Astaroth's Augmentation](../Magic/Spells/astaroths-augmentation.md): Bard, Cleric, Druid, Paladin, Pale Master, Ranger, Sorcerer, Warlock, Wizard
-* [Awaken](../Magic/Spells/awaken.md): Bard, Druid
-* [Azure Flame](../Magic/Spells/azure-flame.md): Sorcerer, Wizard
-* [Azuth's Exalted Triad](../Magic/Spells/azuths-exalted-triad.md): Cleric, Wizard
-* [Ball Lightning](../Magic/Spells/ball-lightning.md): Sorcerer, Wizard
-* [Banishing Smite](../Magic/Spells/banishing-smite.md): Paladin
-* [Banshee's Grievance](../Magic/Spells/banshees-grievance.md): Bard, Pale Master
-* [Barrier of Retention](../Magic/Spells/barrier-of-retention.md): Sorcerer, Warlock, Wizard
-* [Befoul Water](../Magic/Spells/befoul-water.md): Cleric, Druid, Paladin, Ranger, Warlock, Wizard
-* [Bend BLood](../Magic/Spells/bend-blood.md): Sorcerer, Warlock, Wizard
-* [Bestow Enchantment](../Magic/Spells/bestow-enchantment.md): Artificer, Bard, Cleric, Sorcerer, Wizard
-* [Bigby's Hand](../Magic/Spells/bigbys-hand.md): Artificer, Sorcerer, Wizard
-* [Bite of the Werebeast](../Magic/Spells/bite-of-the-werebeast.md): Druid, Sorcerer, Warlock, Wizard
-* [Blazing Thunderbolt Strike](../Magic/Spells/blazing-thunderbolt-strike.md): Paladin, Ranger, Warlock, Wizard
-* [Blessing of Luck](../Magic/Spells/blessing-of-luck.md): Bard, Cleric
-* [Blessing of the Elements](../Magic/Spells/blessing-of-the-elements.md): Wizard
-* [Blood of the Martyr](../Magic/Spells/blood-of-the-martyr.md): Paladin
-* [Body Harmonic](../Magic/Spells/body-harmonic.md): Bard
-* [Bolts of Bedevilment](../Magic/Spells/bolts-of-bedevilment.md): Sorcerer, Warlock, Wizard
-* [Burrow](../Magic/Spells/burrow.md): Artificer, Druid, Ranger, Sorcerer, Wizard
-* [Cacophonic Burst](../Magic/Spells/cacophonic-burst.md): Bard
-* [Cacophonic Shield](../Magic/Spells/cacophonic-shield.md): Bard
-* [Caging Glaive](../Magic/Spells/caging-glaive.md): Artificer, Cleric, Paladin, Warlock, Wizard
-* [Call Forth the Beast](../Magic/Spells/call-forth-the-beast.md): Cleric, Druid, Warlock
-* [Champion's Strength](../Magic/Spells/champions-strength.md): Artificer, Cleric, Paladin
-* [Chaotic Wellspring](../Magic/Spells/chaotic-wellspring.md): Sorcerer
-* [Charnel Fire](../Magic/Spells/charnel-fire.md): Sorcerer, Warlock, Wizard
-* [Chilling Darkness](../Magic/Spells/chilling-darkness.md): Sorcerer, Warlock, Wizard
-* [Chilling Frost](../Magic/Spells/chilling-frost.md): Sorcerer, Wizard
-* [Circle of Power](../Magic/Spells/circle-of-power.md): Paladin
-* [Cloudkill](../Magic/Spells/cloudkill.md): Pale Master, Sorcerer, Wizard
-* [Coat of Arms](../Magic/Spells/coat-of-arms.md): Artificer, Sorcerer, Warlock, Wizard
-* [Code of Secrecy](../Magic/Spells/code-of-secrecy.md): Bard, Cleric
-* [Cognition](../Magic/Spells/cognition.md): Wizard
-* [Comet Strike](../Magic/Spells/comet-strike.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Commune](../Magic/Spells/commune.md): Cleric
-* [Commune with Nature](../Magic/Spells/commune-with-nature.md): Druid, Ranger
-* [Conduit](../Magic/Spells/conduit.md): Artificer, Bard, Sorcerer, Wizard
-* [Cone of Cold](../Magic/Spells/cone-of-cold.md): Druid, Sorcerer, Wizard
-* [Conjure Elemental](../Magic/Spells/conjure-elemental.md): Druid, Wizard
-* [Conjure Volley](../Magic/Spells/conjure-volley.md): Ranger
-* [Conjure Vrock](../Magic/Spells/conjure-vrock.md): Sorcerer, Wizard
-* [Consume Flame](../Magic/Spells/consume-flame.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Contact Other Plane](../Magic/Spells/contact-other-plane.md): Shaman, Warlock, Wizard
-* [Contagion](../Magic/Spells/contagion.md): Cleric, Druid, Pale Master
-* [Control Winds](../Magic/Spells/control-winds.md): Druid, Sorcerer, Wizard
-* [Creation](../Magic/Spells/creation.md): Artificer, Sorcerer, Wizard
-* [Crimson Scourge](../Magic/Spells/crimson-scourge.md): Sorcerer, Warlock, Wizard
-* [Curse of Combustion](../Magic/Spells/curse-of-combustion.md): Wizard
-* [Curse of Stigma](../Magic/Spells/curse-of-stigma.md): Bard, Cleric, Paladin, Warlock, Wizard
-* [Danse Macabre](../Magic/Spells/danse-macabre.md): Pale Master, Warlock, Wizard
-* [Darkbolt](../Magic/Spells/darkbolt.md): Sorcerer, Warlock, Wizard
-* [Dawn](../Magic/Spells/dawn.md): Cleric, Wizard
-* [Dead Magic Shield](../Magic/Spells/dead-magic-shield.md): Cleric, Paladin
-* [Death Throes](../Magic/Spells/death-throes.md): Sorcerer, Warlock, Wizard
-* [Defile](../Magic/Spells/defile.md): Druid, Pale Master, Sorcerer, Warlock, Wizard
-* [Demand Obedience](../Magic/Spells/demand-obedience.md): Bard, Cleric, Paladin, Sorcerer
-* [Destructive Wave](../Magic/Spells/destructive-wave.md): Paladin
-* [Detect Souls](../Magic/Spells/detect-souls.md): Bard, Cleric, Paladin, Ranger, Warlock, Wizard
-* [Dinosaur Stampede](../Magic/Spells/dinosaur-stampede.md): Druid
-* [Dispel Evil and Good](../Magic/Spells/dispel-evil-and-good.md): Cleric, Paladin
-* [Divine Armor](../Magic/Spells/divine-armor.md): Cleric, Paladin
-* [Dominate Person](../Magic/Spells/dominate-person.md): Bard, Sorcerer, Wizard
-* [Doomtide](../Magic/Spells/doomtide.md): Bard, Cleric, Warlock
-* [Draconic Might](../Magic/Spells/draconic-might.md): Artificer, Paladin, Sorcerer, Wizard
-* [Dragonsight](../Magic/Spells/dragonsight.md): Bard, Sorcerer, Wizard
-* [Drain Vitality](../Magic/Spells/drain-vitality.md): Sorcerer, Warlock, Wizard
-* [Dream](../Magic/Spells/dream.md): Bard, Warlock, Wizard
-* [Duel Ward](../Magic/Spells/duel-ward.md): Wizard
-* [Duplicate Text](../Magic/Spells/duplicate-text.md): Artificer, Sorcerer, Warlock, Wizard
-* [Earth Reaver](../Magic/Spells/earth-reaver.md): Cleric, Sorcerer, Wizard
-* [Echo Skull](../Magic/Spells/echo-skull.md): Druid, Wizard
-* [Echoes of the Void](../Magic/Spells/echoes-of-the-void.md): Wizard
-* [Enervation](../Magic/Spells/enervation.md): Bard, Pale Master, Warlock, Wizard
-* [Eruption](../Magic/Spells/eruption.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Eyefire](../Magic/Spells/eyefire.md): Sorcerer, Warlock, Wizard
-* [Fallion's Fabulous Fireball](../Magic/Spells/fallions-fabulous-fireball.md): Sorcerer, Warlock, Wizard
-* [Far Step](../Magic/Spells/far-step.md): Sorcerer, Warlock, Wizard
-* [Fingers of Lightning](../Magic/Spells/fingers-of-lightning.md): Sorcerer, Wizard
-* [Fire and Brimstone](../Magic/Spells/fire-and-brimstone.md): Sorcerer, Warlock, Wizard
-* [Fire of Justice](../Magic/Spells/fire-of-justice.md): Cleric, Paladin
-* [Fires of Avernus](../Magic/Spells/fires-of-avernus.md): Wizard
-* [Flame Strike](../Magic/Spells/flame-strike.md): Cleric
-* [Flechette Storm](../Magic/Spells/flechette-storm.md): Wizard
-* [Fleeting Journey](../Magic/Spells/fleeting-journey.md): Wizard
-* [Freedom of the Winds](../Magic/Spells/freedom-of-the-winds.md): Druid, Ranger, Sorcerer
-* [Frost Nova](../Magic/Spells/frost-nova.md): Sorcerer, Wizard
-* [Geas](../Magic/Spells/geas.md): Bard, Cleric, Druid, Paladin, Wizard
-* [Grave Soil](../Magic/Spells/grave-soil.md): Cleric, Druid, Sorcerer, Warlock, Wizard
-* [Greater Restoration](../Magic/Spells/greater-restoration.md): Artificer, Bard, Cleric, Druid, Ranger
-* [Greater Water to Poison](../Magic/Spells/greater-water-to-poison.md): Artificer, Bard, Druid, Ranger, Sorcerer, Warlock, Wizard
-* [Grim Terror](../Magic/Spells/grim-terror.md): Sorcerer, Warlock, Wizard
-* [Grimlore's Touch of Undeath](../Magic/Spells/grimlores-touch-of-undeath.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Grimwald's Greymantle](../Magic/Spells/grimwalds-greymantle.md): Cleric, Sorcerer, Warlock, Wizard
-* [Guiding Snarl](../Magic/Spells/guiding-snarl.md): Bard, Druid
-* [Hallow](../Magic/Spells/hallow.md): Cleric, Pale Master
-* [Heavenly Pillar](../Magic/Spells/heavenly-pillar.md): Cleric, Paladin, Sorcerer
-* [Hederan Embrace](../Magic/Spells/hederan-embrace.md): Druid, Ranger
-* [Hellfire](../Magic/Spells/hellfire.md): Sorcerer, Warlock, Wizard
-* [Hidden Lodge](../Magic/Spells/hidden-lodge.md): Artificer, Bard, Sorcerer, Wizard
-* [Hold Monster](../Magic/Spells/hold-monster.md): Bard, Shaman, Sorcerer, Warlock, Wizard
-* [Holy Weapon](../Magic/Spells/holy-weapon.md): Cleric, Paladin
-* [Hornet Shot](../Magic/Spells/hornet-shot.md): Artificer, Druid, Ranger, Warlock, Wizard
-* [Hunter's Arrow](../Magic/Spells/hunters-arrow.md): Ranger
-* [Ilmater's Fortune](../Magic/Spells/ilmaters-fortune.md): Cleric, Druid, Paladin, Pale Master, Ranger, Shaman
-* [Immolation](../Magic/Spells/immolation.md): Sorcerer, Wizard
-* [Immunity to Poison and Disease](../Magic/Spells/immunity-to-poison-and-disease.md): Artificer, Bard, Sorcerer, Wizard
-* [Indomitability](../Magic/Spells/indomitability.md): Artificer, Sorcerer, Wizard
-* [Infernal Calling](../Magic/Spells/infernal-calling.md): Warlock, Wizard
-* [Insect Plague](../Magic/Spells/insect-plague.md): Cleric, Druid, Pale Master, Sorcerer
-* [Jaggar's Strengthened Bastion](../Magic/Spells/jaggars-strengthened-bastion.md): Artificer, Sorcerer, Warlock, Wizard
-* [Jergal's Mind Probe](../Magic/Spells/jergals-mind-probe.md): Sorcerer, Warlock, Wizard
-* [Jungle's Rapture](../Magic/Spells/jungles-rapture.md): Druid, Ranger, Warlock
-* [Legend Lore](../Magic/Spells/legend-lore.md): Bard, Cleric, Wizard
-* [Lesser Chainfire](../Magic/Spells/lesser-chainfire.md): Bard, Cleric, Sorcerer
-* [Lesser Ironguard](../Magic/Spells/lesser-ironguard.md): Artificer, Sorcerer, Wizard
-* [Life Steal](../Magic/Spells/life-steal.md): Sorcerer, Warlock, Wizard
-* [Life's Grace](../Magic/Spells/lifes-grace.md): Artificer, Cleric
-* [Lifebane](../Magic/Spells/lifebane.md): Sorcerer, Warlock, Wizard
-* [Lightning Army](../Magic/Spells/lightning-army.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Lightning Reflection](../Magic/Spells/lightning-reflection.md): Druid, Sorcerer, Wizard
-* [Lightning Rod](../Magic/Spells/lightning-rod.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Locate Favored Enemy](../Magic/Spells/locate-favored-enemy.md): Wizard
-* [Maelstrom](../Magic/Spells/maelstrom.md): Druid
-* [Manifest Mimic](../Magic/Spells/manifest-mimic.md): Bard, Wizard
-* [Mantle of Baravar](../Magic/Spells/mantle-of-baravar.md): Cleric, Paladin
-* [Marshal's Triumph](../Magic/Spells/marshals-triumph.md): Paladin, Ranger, Wizard
-* [Mass Cure Wounds](../Magic/Spells/mass-cure-wounds.md): Bard, Cleric, Druid
-* [Mass Curse of Ill Fortune](../Magic/Spells/mass-curse-of-ill-fortune.md): Bard, Cleric
-* [Mass Inflict Wounds](../Magic/Spells/mass-inflict-wounds.md): Cleric, Pale Master, Warlock
-* [Mass Longstrider](../Magic/Spells/mass-longstrider.md): Artificer, Druid, Ranger
-* [Mass Sanctuary](../Magic/Spells/mass-sanctuary.md): Cleric
-* [Maximum Damage](../Magic/Spells/maximum-damage.md): Cleric, Paladin, Ranger
-* [Memory Rot](../Magic/Spells/memory-rot.md): Druid
-* [Meteor Dash](../Magic/Spells/meteor-dash.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Midnight](../Magic/Spells/midnight.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Mind Hold](../Magic/Spells/mind-hold.md): Wizard
-* [Misfortune & Misery](../Magic/Spells/misfortune-&-misery.md): Bard, Cleric, Warlock
-* [Mislead](../Magic/Spells/mislead.md): Bard, Pale Master, Warlock, Wizard
-* [Modify Memory](../Magic/Spells/modify-memory.md): Bard, Wizard
-* [Molten Upheaval](../Magic/Spells/molten-upheaval.md): Druid, Sorcerer, Wizard
-* [Moon Walk](../Magic/Spells/moon-walk.md): Wizard
-* [Moonbow](../Magic/Spells/moonbow.md): Artificer, Druid, Sorcerer, Wizard
-* [Muffle](../Magic/Spells/muffle.md): Bard, Ranger, Wizard
-* [Mystra's Bequest](../Magic/Spells/mystras-bequest.md): Sorcerer
-* [Necrotic Armor](../Magic/Spells/necrotic-armor.md): Cleric, Pale Master
-* [Negative Energy Flood](../Magic/Spells/negative-energy-flood.md): Pale Master, Warlock, Wizard
-* [Noxious Geyser](../Magic/Spells/noxious-geyser.md): Artificer, Druid, Sorcerer, Wizard
-* [Oghma's Knowledge Transferal](../Magic/Spells/oghmas-knowledge-transferal.md): Pale Master, Sorcerer, Wizard
-* [Orb of Dancing Death](../Magic/Spells/orb-of-dancing-death.md): Cleric
-* [Otiluke's Electrical Screen](../Magic/Spells/otilukes-electrical-screen.md): Artificer, Sorcerer, Warlock, Wizard
-* [Otiluke's Polar Screen](../Magic/Spells/otilukes-polar-screen.md): Sorcerer, Warlock, Wizard
-* [Otiluke's Radiant Screen](../Magic/Spells/otilukes-radiant-screen.md): Sorcerer, Warlock, Wizard
-* [Paralyzing Smite](../Magic/Spells/paralyzing-smite.md): Paladin
-* [Passwall](../Magic/Spells/passwall.md): Wizard
-* [Phantasmal Plunge](../Magic/Spells/phantasmal-plunge.md): Bard, Sorcerer, Warlock, Wizard
-* [Planar Binding](../Magic/Spells/planar-binding.md): Bard, Cleric, Druid, Warlock, Wizard
-* [Plunge](../Magic/Spells/plunge.md): Bard, Sorcerer, Warlock, Wizard
-* [Pocket Cave](../Magic/Spells/pocket-cave.md): Artificer, Cleric, Druid, Warlock, Wizard
-* [Pride of the Wild](../Magic/Spells/pride-of-the-wild.md): Druid, Ranger
-* [Prismatic Cloud](../Magic/Spells/prismatic-cloud.md): Wizard
-* [Prismatic Ray](../Magic/Spells/prismatic-ray.md): Wizard
-* [Pulsar Shield](../Magic/Spells/pulsar-shield.md): Wizard
-* [Purifying Flame](../Magic/Spells/purifying-flame.md): Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Quill Blast](../Magic/Spells/quill-blast.md): Druid, Ranger
-* [Rage Beacon](../Magic/Spells/rage-beacon.md): Paladin
-* [Rainbow](../Magic/Spells/rainbow.md): Ranger
-* [Raise Dead](../Magic/Spells/raise-dead.md): Bard, Cleric, Paladin, Pale Master
-* [Rary's Superior Spell Enhancer](../Magic/Spells/rarys-superior-spell-enhancer.md): Cleric, Wizard
-* [Rary's Telepathic Bond](../Magic/Spells/rarys-telepathic-bond.md): Bard, Wizard
-* [Redirect](../Magic/Spells/redirect.md): Wizard
-* [Reflect Person](../Magic/Spells/reflect-person.md): Artificer, Bard, Sorcerer, Warlock, Wizard
-* [Reincarnate](../Magic/Spells/reincarnate.md): Druid, Pale Master
-* [Rejuvenate](../Magic/Spells/rejuvenate.md): Artificer, Cleric, Druid, Paladin, Ranger
-* [Remove Oxygen](../Magic/Spells/remove-oxygen.md): Wizard
-* [Reverse Projectiles](../Magic/Spells/reverse-projectiles.md): Artificer, Bard, Cleric, Ranger, Wizard
-* [Righteous Might](../Magic/Spells/righteous-might.md): Paladin
-* [Rip Creature](../Magic/Spells/rip-creature.md): Sorcerer, Warlock, Wizard
-* [Ruin](../Magic/Spells/ruin.md): Druid, Sorcerer, Warlock, Wizard
-* [Scrying](../Magic/Spells/scrying.md): Bard, Cleric, Druid, Pale Master, Shaman, Warlock, Wizard
-* [Seeming](../Magic/Spells/seeming.md): Bard, Sorcerer, Wizard
-* [Servant Army](../Magic/Spells/servant-army.md): Artificer, Bard, Warlock, Wizard
-* [Shadow Form](../Magic/Spells/shadow-form.md): Bard, Sorcerer, Warlock, Wizard
-* [Shadow Magic](../Magic/Spells/shadow-magic.md): Sorcerer, Warlock, Wizard
-* [Shard Storm](../Magic/Spells/shard-storm.md): Artificer, Sorcerer, Wizard
-* [Shift Glyph](../Magic/Spells/shift-glyph.md): Artificer, Cleric, Sorcerer, Wizard
-* [Shining Armor](../Magic/Spells/shining-armor.md): Cleric, Paladin, Wizard
-* [Sinking Maw](../Magic/Spells/sinking-maw.md): Druid, Sorcerer, Wizard
-* [Skill Empowerment](../Magic/Spells/skill-empowerment.md): Artificer, Bard, Sorcerer, Wizard
-* [Slaying Arrow](../Magic/Spells/slaying-arrow.md): Artificer, Druid, Ranger
-* [Sleeper Awakens](../Magic/Spells/sleeper-awakens.md): Ranger, Sorcerer, Wizard
-* [Snow Snakes](../Magic/Spells/snow-snakes.md): Cleric, Druid, Ranger
-* [Soar](../Magic/Spells/soar.md): Artificer, Ranger, Sorcerer, Warlock, Wizard
-* [Sonic Boom](../Magic/Spells/sonic-boom.md): Bard, Druid, Sorcerer, Wizard
-* [Soul Scour](../Magic/Spells/soul-scour.md): Cleric, Warlock
-* [Spectral Calling](../Magic/Spells/spectral-calling.md): Cleric, Pale Master, Warlock, Wizard
-* [Spell Resistance](../Magic/Spells/spell-resistance.md): Artificer, Cleric, Paladin
-* [Spidersilk Slash](../Magic/Spells/spidersilk-slash.md): Artificer, Ranger, Warlock
-* [Stalwart Pact](../Magic/Spells/stalwart-pact.md): Artificer, Cleric
-* [Stampede of Savagery](../Magic/Spells/stampede-of-savagery.md): Druid, Ranger
-* [Steel Wind Strike](../Magic/Spells/steel-wind-strike.md): Ranger, Wizard
-* [Stormcloud](../Magic/Spells/stormcloud.md): Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
-* [Strength of One](../Magic/Spells/strength-of-one.md): Cleric, Paladin
-* [Summon Celestial](../Magic/Spells/summon-celestial.md): Cleric, Paladin
-* [Summon Draconic Spirit](../Magic/Spells/summon-draconic-spirit.md): Druid, Shaman, Sorcerer, Wizard
-* [Sun Flower](../Magic/Spells/sun-flower.md): Druid, Sorcerer, Wizard
-* [Sundering Smite](../Magic/Spells/sundering-smite.md): Paladin
-* [Sunglow](../Magic/Spells/sunglow.md): Wizard
-* [Swift Quiver](../Magic/Spells/swift-quiver.md): Ranger
-* [Synaptic Static](../Magic/Spells/synaptic-static.md): Bard, Sorcerer, Warlock, Wizard
-* [Talona's Blessing](../Magic/Spells/talonas-blessing.md): Cleric
-* [Telekinesis](../Magic/Spells/telekinesis.md): Shaman, Sorcerer, Wizard
-* [Teleportation Circle](../Magic/Spells/teleportation-circle.md): Bard, Sorcerer, Warlock, Wizard
-* [Temporal Shunt](../Magic/Spells/temporal-shunt.md): Wizard
-* [Tendrils of Thurban](../Magic/Spells/tendrils-of-thurban.md): Sorcerer, Warlock, Wizard
-* [Tenser's Destructive Resonance](../Magic/Spells/tensers-destructive-resonance.md): Sorcerer, Warlock, Wizard
-* [Tenser's Recall](../Magic/Spells/tensers-recall.md): Wizard
-* [Tethered Mind](../Magic/Spells/tethered-mind.md): Wizard
-* [Thanguul's Preservation](../Magic/Spells/thanguuls-preservation.md): Cleric
-* [Thornwrack](../Magic/Spells/thornwrack.md): Druid, Ranger
-* [Threefold Boon](../Magic/Spells/threefold-boon.md): Cleric, Paladin
-* [Transmute Rock](../Magic/Spells/transmute-rock.md): Artificer, Druid, Wizard
-* [Tree Stride](../Magic/Spells/tree-stride.md): Druid, Ranger, Shaman
-* [Twinned Lunar Fire Fist](../Magic/Spells/twinned-lunar-fire-fist.md): Wizard
-* [Undead Focus](../Magic/Spells/undead-focus.md): Cleric, Sorcerer, Warlock, Wizard
-* [Undead Regeneration](../Magic/Spells/undead-regeneration.md): Cleric, Sorcerer, Warlock, Wizard
-* [Unexpected Clarity](../Magic/Spells/unexpected-clarity.md): Bard, Paladin, Ranger, Sorcerer, Warlock, Wizard
-* [Unshakable Self Awareness](../Magic/Spells/unshakable-self-awareness.md): Wizard
-* [Valiancy](../Magic/Spells/valiancy.md): Cleric, Paladin, Ranger, Sorcerer, Wizard
-* [Valiant Fury](../Magic/Spells/valiant-fury.md): Cleric, Paladin
-* [Vehement Inquiry](../Magic/Spells/vehement-inquiry.md): Bard, Paladin, Warlock
-* [Vengeance of Talos](../Magic/Spells/vengeance-of-talos.md): Druid, Ranger, Sorcerer, Wizard
-* [Wall](../Magic/Spells/wall.md): Sorcerer, Wizard
-* [Wall of Force](../Magic/Spells/wall-of-force.md): Wizard
-* [Wall of Light](../Magic/Spells/wall-of-light.md): Sorcerer, Warlock, Wizard
-* [Wall of Stone](../Magic/Spells/wall-of-stone.md): Artificer, Druid, Sorcerer, Wizard
-* [Water to Acid](../Magic/Spells/water-to-acid.md): Artificer, Druid, Warlock, Wizard
-* [Water to Poison](../Magic/Spells/water-to-poison.md): Artificer, Sorcerer, Warlock, Wizard
-* [Wave of Obliteration](../Magic/Spells/wave-of-obliteration.md): Cleric, Sorcerer, Warlock, Wizard
-* [Weaken Ability](../Magic/Spells/weaken-ability.md): Artificer, Sorcerer, Warlock, Wizard
-* [Whip of Woe](../Magic/Spells/whip-of-woe.md): Artificer, Cleric
-* [Wind Tunnel](../Magic/Spells/wind-tunnel.md): Druid, Ranger
-* [Windlance](../Magic/Spells/windlance.md): Sorcerer, Warlock, Wizard
-* [Wrath of Nature](../Magic/Spells/wrath-of-nature.md): Druid, Ranger
-* [Xorn Movement](../Magic/Spells/xorn-movement.md): Druid, Wizard
+* [Accelerate Metabolism](./accelerate-metabolism.md) *ritual* (Artificer,Cleric,Ranger)
+* [Acid Sheath](./acid-sheath.md) (Sorcerer,Warlock,Wizard)
+* [Acid for Blood](./acid-for-blood.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Aegis](./aegis.md) (Paladin)
+* [Agonizing Chill](./agonizing-chill.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Anesthetic Gaze](./anesthetic-gaze.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Animate Legion](./animate-legion.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Animate Objects](./animate-objects.md) (Artificer,Bard,Sorcerer,Wizard)
+* [Animate Shadow](./animate-shadow.md) (Pale Master)
+* [Anticold Sphere](./anticold-sphere.md) (Cleric,Ranger)
+* [Antilife Shell](./antilife-shell.md) (Druid)
+* [Arc of Lightning](./arc-of-lightning.md) (Sorcerer,Warlock,Wizard)
+* [Arcane Armor](./arcane-armor.md) (Wizard)
+* [Armor of Bones](./armor-of-bones.md) (Cleric,Druid,Pale Master,Shaman,Warlock,Wizard)
+* [Articus' Devolutionary Warrior](./articus-devolutionary-warrior.md) (Cleric,Druid)
+* [Aspect of Marilith](./aspect-of-marilith.md) *brandish* (Warlock,Wizard)
+* [Astaroth's Augmentation](./astaroths-augmentation.md) (Bard,Cleric,Druid,Paladin,Pale Master,Ranger,Sorcerer,Warlock,Wizard)
+* [Awaken](./awaken.md) (Bard,Druid)
+* [Azure Flame](./azure-flame.md) (Sorcerer,Wizard)
+* [Azuth's Exalted Triad](./azuths-exalted-triad.md) (Cleric,Wizard)
+* [Ball Lightning](./ball-lightning.md) (Sorcerer,Wizard)
+* [Banishing Ray](./banishing-ray.md) (Sorcerer,Wizard)
+* [Banishing Smite](./banishing-smite.md) (Paladin)
+* [Banshee's Grievance](./banshees-grievance.md) (Bard,Pale Master)
+* [Barrier of Retention](./barrier-of-retention.md) (Sorcerer,Warlock,Wizard)
+* [Befoul Water](./befoul-water.md) (Cleric,Druid,Paladin,Ranger,Warlock,Wizard)
+* [Bend Blood](./bend-blood.md) *blood* (Sorcerer,Warlock,Wizard)
+* [Bestow Enchantment](./bestow-enchantment.md) (Artificer,Bard,Cleric,Sorcerer,Wizard)
+* [Bigby's Hand](./bigbys-hand.md) (Artificer,Sorcerer,Wizard)
+* [Bite of the Werebeast](./bite-of-the-werebeast.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Blazing Thunderbolt Strike](./blazing-thunderbolt-strike.md) (Paladin,Ranger,Warlock,Wizard)
+* [Blessing of Luck](./blessing-of-luck.md) (Bard,Cleric)
+* [Blessing of the Elements](./blessing-of-the-elements.md) (Wizard)
+* [Blood of the Martyr](./blood-of-the-martyr.md) (Paladin)
+* [Body Harmonic](./body-harmonic.md) (Bard)
+* [Bolts of Bedevilment](./bolts-of-bedevilment.md) (Sorcerer,Warlock,Wizard)
+* [Branding Smite](./branding-smite.md) (Paladin)
+* [Bridge of Ice](./bridge-of-ice.md) (Sorcerer,Wizard)
+* [Burrow](./burrow.md) (Artificer,Druid,Ranger,Sorcerer,Wizard)
+* [Cacophonic Burst](./cacophonic-burst.md) (Bard)
+* [Cacophonic Shield](./cacophonic-shield.md) (Bard)
+* [Caging Glaive](./caging-glaive.md) (Artificer,Cleric,Paladin,Warlock,Wizard)
+* [Call Forth the Beast](./call-forth-the-beast.md) (Cleric,Druid,Warlock)
+* [Cathexis](./cathexis.md) (Wizard)
+* [Chains of Force](./chains-of-force.md) (Cleric,Wizard)
+* [Champion's Strength](./champions-strength.md) (Artificer,Cleric,Paladin)
+* [Chaotic Wellspring](./chaotic-wellspring.md) (Sorcerer)
+* [Charnel Fire](./charnel-fire.md) (Sorcerer,Warlock,Wizard)
+* [Chilling Darkness](./chilling-darkness.md) (Sorcerer,Warlock,Wizard)
+* [Chilling Frost](./chilling-frost.md) (Sorcerer,Wizard)
+* [Circle of Power](./circle-of-power.md) (Paladin)
+* [Cloudkill](./cloudkill.md) (Pale Master,Sorcerer,Wizard)
+* [Coat of Arms](./coat-of-arms.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Code of Secrecy](./code-of-secrecy.md) (Bard,Cleric)
+* [Cognition](./cognition.md) (Wizard)
+* [Comet Strike](./comet-strike.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Commune](./commune.md) *ritual* (Cleric)
+* [Commune with Nature](./commune-with-nature.md) *ritual* (Druid,Ranger)
+* [Concussive Fireball](./concussive-fireball.md) (Sorcerer,Wizard)
+* [Concussive Frostball](./concussive-frostball.md) (Sorcerer,Wizard)
+* [Conduit](./conduit.md) (Artificer,Bard,Sorcerer,Wizard)
+* [Cone of Cold](./cone-of-cold.md) (Druid,Sorcerer,Wizard)
+* [Conjure Elemental](./conjure-elemental.md) (Druid,Wizard)
+* [Conjure Volley](./conjure-volley.md) (Ranger)
+* [Conjure Vrock](./conjure-vrock.md) (Sorcerer,Wizard)
+* [Consume Flame](./consume-flame.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Contact Other Plane](./contact-other-plane.md) *ritual* (Shaman,Warlock,Wizard)
+* [Contagion](./contagion.md) (Cleric,Druid,Pale Master)
+* [Control Winds](./control-winds.md) (Druid,Sorcerer,Wizard)
+* [Creation](./creation.md) (Artificer,Sorcerer,Wizard)
+* [Crimson Scourge](./crimson-scourge.md) (Sorcerer,Warlock,Wizard)
+* [Curse of Combustion](./curse-of-combustion.md) (Wizard)
+* [Curse of Stigma](./curse-of-stigma.md) (Bard,Cleric,Paladin,Warlock,Wizard)
+* [Danse Macabre](./danse-macabre.md) (Pale Master,Warlock,Wizard)
+* [Darkbolt](./darkbolt.md) (Sorcerer,Warlock,Wizard)
+* [Dawn](./dawn.md) (Cleric,Wizard)
+* [Day Sphere](./day-sphere.md) (Bard,Cleric,Sorcerer,Wizard)
+* [Dead Magic Shield](./dead-magic-shield.md) (Cleric,Paladin)
+* [Death Throes](./death-throes.md) (Sorcerer,Warlock,Wizard)
+* [Defile](./defile.md) (Druid,Pale Master,Sorcerer,Warlock,Wizard)
+* [Demand Obedience](./demand-obedience.md) (Bard,Cleric,Paladin,Sorcerer)
+* [Destructive Force Arrow](./destructive-force-arrow.md) (Ranger,Sorcerer,Warlock,Wizard)
+* [Destructive Wave](./destructive-wave.md) (Paladin)
+* [Detect Souls](./detect-souls.md) (Bard,Cleric,Paladin,Ranger,Warlock,Wizard)
+* [Dinosaur Stampede](./dinosaur-stampede.md) (Druid)
+* [Dispel Evil and Good](./dispel-evil-and-good.md) (Cleric,Paladin)
+* [Divine Armor](./divine-armor.md) (Cleric,Paladin)
+* [Divine Bolt](./divine-bolt.md) (Cleric)
+* [Dominate Person](./dominate-person.md) (Bard,Sorcerer,Wizard)
+* [Doomtide](./doomtide.md) (Bard,Cleric,Warlock)
+* [Draconic Might](./draconic-might.md) (Artificer,Paladin,Sorcerer,Wizard)
+* [Dragonsight](./dragonsight.md) (Bard,Sorcerer,Wizard)
+* [Drain Vitality](./drain-vitality.md) (Sorcerer,Warlock,Wizard)
+* [Dream](./dream.md) (Bard,Warlock,Wizard)
+* [Duel Ward](./duel-ward.md) (Wizard)
+* [Duplicate Text](./duplicate-text.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Earth Reaver](./earth-reaver.md) (Cleric,Sorcerer,Wizard)
+* [Echo Skull](./echo-skull.md) (Druid,Wizard)
+* [Echoes of the Void](./echoes-of-the-void.md) (Wizard)
+* [Enervation](./enervation.md) (Bard,Pale Master,Warlock,Wizard)
+* [Eruption](./eruption.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Eyefire](./eyefire.md) (Sorcerer,Warlock,Wizard)
+* [Fallion's Fabulous Fireball](./fallions-fabulous-fireball.md) (Sorcerer,Warlock,Wizard)
+* [Far Step](./far-step.md) (Sorcerer,Warlock,Wizard)
+* [Fingers of Lightning](./fingers-of-lightning.md) (Sorcerer,Wizard)
+* [Fire and Brimstone](./fire-and-brimstone.md) (Sorcerer,Warlock,Wizard)
+* [Fire of Justice](./fire-of-justice.md) (Cleric,Paladin)
+* [Fires of Avernus](./fires-of-avernus.md) (Wizard)
+* [Flame Strike](./flame-strike.md) (Cleric)
+* [Flechette Storm](./flechette-storm.md) (Wizard)
+* [Fleeting Journey](./fleeting-journey.md) (Wizard)
+* [Freedom of the Winds](./freedom-of-the-winds.md) (Druid,Ranger,Sorcerer)
+* [Frost Nova](./frost-nova.md) (Sorcerer,Wizard)
+* [Geas](./geas.md) (Bard,Cleric,Druid,Paladin,Wizard)
+* [Glacial Wave](./glacial-wave.md) (Druid,Sorcerer,Wizard)
+* [Grave Soil](./grave-soil.md) (Cleric,Druid,Sorcerer,Warlock,Wizard)
+* [Greater Restoration](./greater-restoration.md) (Artificer,Bard,Cleric,Druid,Ranger)
+* [Greater Water to Poison](./greater-water-to-poison.md) (Artificer,Bard,Druid,Ranger,Sorcerer,Warlock,Wizard)
+* [Grim Terror](./grim-terror.md) (Sorcerer,Warlock,Wizard)
+* [Grimlore's Touch of Undeath](./grimlores-touch-of-undeath.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Grimwald's Greymantle](./grimwalds-greymantle.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Guiding Snarl](./guiding-snarl.md) (Bard,Druid)
+* [Hallow](./hallow.md) (Cleric,Pale Master)
+* [Heavenly Pillar](./heavenly-pillar.md) (Cleric,Paladin,Sorcerer)
+* [Hederan Embrace](./hederan-embrace.md) (Druid,Ranger)
+* [Hellfire](./hellfire.md) (Sorcerer,Warlock,Wizard)
+* [Hidden Lodge](./hidden-lodge.md) (Artificer,Bard,Sorcerer,Wizard)
+* [Hold Monster](./hold-monster.md) (Bard,Shaman,Sorcerer,Warlock,Wizard)
+* [Holy Beacon](./holy-beacon.md) *ritual* (Cleric)
+* [Holy Weapon](./holy-weapon.md) (Cleric,Paladin)
+* [Hornet Shot](./hornet-shot.md) (Artificer,Druid,Ranger,Warlock,Wizard)
+* [Hunter's Arrow](./hunters-arrow.md) (Ranger)
+* [Ilmater's Fortune](./ilmaters-fortune.md) *ritual* (Cleric,Druid,Paladin,Pale Master,Ranger,Shaman)
+* [Immolation](./immolation.md) (Sorcerer,Wizard)
+* [Immunity to Poison and Disease](./immunity-to-poison-and-disease.md) (Artificer,Bard,Sorcerer,Wizard)
+* [Indomitability](./indomitability.md) (Artificer,Sorcerer,Wizard)
+* [Infernal Calling](./infernal-calling.md) (Warlock,Wizard)
+* [Insect Plague](./insect-plague.md) (Cleric,Druid,Pale Master,Sorcerer)
+* [Jaggar's Strengthened Bastion](./jaggars-strengthened-bastion.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Jergal's Mind Probe](./jergals-mind-probe.md) (Sorcerer,Warlock,Wizard)
+* [Jungle's Rapture](./jungles-rapture.md) (Druid,Ranger,Warlock)
+* [Legend Lore](./legend-lore.md) (Bard,Cleric,Wizard)
+* [Lesser Chainfire](./lesser-chainfire.md) (Bard,Cleric,Sorcerer)
+* [Lesser Ironguard](./lesser-ironguard.md) (Artificer,Sorcerer,Wizard)
+* [Life Steal](./life-steal.md) *ritual* (Sorcerer,Warlock,Wizard)
+* [Life's Grace](./lifes-grace.md) (Artificer,Cleric)
+* [Lifebane](./lifebane.md) (Sorcerer,Warlock,Wizard)
+* [Lightning Army](./lightning-army.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Lightning Reflection](./lightning-reflection.md) (Druid,Sorcerer,Wizard)
+* [Lightning Rod](./lightning-rod.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Locate Favored Enemy](./locate-favored-enemy.md) (Wizard)
+* [Maelstrom](./maelstrom.md) (Druid)
+* [Manifest Mimic](./manifest-mimic.md) *ritual* (Bard,Wizard)
+* [Mantle of Baravar](./mantle-of-baravar.md) (Cleric,Paladin)
+* [Marshal's Triumph](./marshals-triumph.md) (Paladin,Ranger,Wizard)
+* [Mass Cure Wounds](./mass-cure-wounds.md) (Bard,Cleric,Druid)
+* [Mass Curse of Ill Fortune](./mass-curse-of-ill-fortune.md) (Bard,Cleric)
+* [Mass Inflict Wounds](./mass-inflict-wounds.md) (Cleric,Pale Master,Warlock)
+* [Mass Longstrider](./mass-longstrider.md) (Artificer,Druid,Ranger)
+* [Mass Sanctuary](./mass-sanctuary.md) (Cleric)
+* [Maximum Damage](./maximum-damage.md) (Cleric,Paladin,Ranger)
+* [Memory Rot](./memory-rot.md) (Druid)
+* [Meteor Dash](./meteor-dash.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Midnight](./midnight.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Mind Hold](./mind-hold.md) (Wizard)
+* [Misfortune & Misery](./misfortune-&-misery.md) (Bard,Cleric,Warlock)
+* [Mislead](./mislead.md) (Bard,Pale Master,Warlock,Wizard)
+* [Modify Memory](./modify-memory.md) (Bard,Wizard)
+* [Molten Upheaval](./molten-upheaval.md) (Druid,Sorcerer,Wizard)
+* [Moon Walk](./moon-walk.md) (Wizard)
+* [Moonbow](./moonbow.md) (Artificer,Druid,Sorcerer,Wizard)
+* [Muffle](./muffle.md) *ritual* (Bard,Ranger,Wizard)
+* [Mystra's Bequest](./mystras-bequest.md) (Sorcerer)
+* [Necrotic Armor](./necrotic-armor.md) (Cleric,Pale Master)
+* [Negative Energy Flood](./negative-energy-flood.md) (Pale Master,Warlock,Wizard)
+* [Noxious Geyser](./noxious-geyser.md) (Artificer,Druid,Sorcerer,Wizard)
+* [Oghma's Knowledge Transferal](./oghmas-knowledge-transferal.md) (Pale Master,Sorcerer,Wizard)
+* [Orb of Dancing Death](./orb-of-dancing-death.md) (Cleric)
+* [Otiluke's Electrical Screen](./otilukes-electrical-screen.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Otiluke's Polar Screen](./otilukes-polar-screen.md) (Sorcerer,Warlock,Wizard)
+* [Otiluke's Radiant Screen](./otilukes-radiant-screen.md) (Sorcerer,Warlock,Wizard)
+* [Paralyzing Smite](./paralyzing-smite.md) (Paladin)
+* [Passwall](./passwall.md) (Wizard)
+* [Phantasmal Plunge](./phantasmal-plunge.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Pillar of Chill](./pillar-of-chill.md) (Sorcerer,Wizard)
+* [Pillar of Corrosion](./pillar-of-corrosion.md) (Sorcerer,Wizard)
+* [Pillar of Heat](./pillar-of-heat.md) (Sorcerer,Wizard)
+* [Pillar of Shock](./pillar-of-shock.md) (Sorcerer,Wizard)
+* [Pillar of Toxicity](./pillar-of-toxicity.md) (Sorcerer,Wizard)
+* [Planar Binding](./planar-binding.md) (Bard,Cleric,Druid,Warlock,Wizard)
+* [Plunge](./plunge.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Pocket Cave](./pocket-cave.md) (Artificer,Cleric,Druid,Warlock,Wizard)
+* [Prayer Circle](./prayer-circle.md) *ritual* (Cleric,Paladin)
+* [Pride of the Wild](./pride-of-the-wild.md) (Druid,Ranger)
+* [Prismatic Cloud](./prismatic-cloud.md) (Wizard)
+* [Prismatic Ray](./prismatic-ray.md) (Wizard)
+* [Prismatic Surge](./prismatic-surge.md) (Sorcerer,Wizard)
+* [Pulsar Shield](./pulsar-shield.md) (Wizard)
+* [Purifying Flame](./purifying-flame.md) (Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Quill Blast](./quill-blast.md) (Druid,Ranger)
+* [Rage Beacon](./rage-beacon.md) (Paladin)
+* [Rainbow](./rainbow.md) (Ranger)
+* [Raise Dead](./raise-dead.md) (Bard,Cleric,Paladin,Pale Master)
+* [Rary's Superior Spell Enhancer](./rarys-superior-spell-enhancer.md) (Cleric,Wizard)
+* [Rary's Telepathic Bond](./rarys-telepathic-bond.md) *ritual* (Bard,Wizard)
+* [Redirect](./redirect.md) (Wizard)
+* [Reflect Person](./reflect-person.md) (Artificer,Bard,Sorcerer,Warlock,Wizard)
+* [Reincarnate](./reincarnate.md) (Druid,Pale Master)
+* [Rejuvenate](./rejuvenate.md) (Artificer,Cleric,Druid,Paladin,Ranger)
+* [Remove Oxygen](./remove-oxygen.md) (Wizard)
+* [Reverse Projectiles](./reverse-projectiles.md) (Artificer,Bard,Cleric,Ranger,Wizard)
+* [Righteous Might](./righteous-might.md) (Paladin)
+* [Rip Creature](./rip-creature.md) (Sorcerer,Warlock,Wizard)
+* [Ruin](./ruin.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Scrying](./scrying.md) (Bard,Cleric,Druid,Pale Master,Shaman,Warlock,Wizard)
+* [Seeming](./seeming.md) (Bard,Sorcerer,Wizard)
+* [Servant Army](./servant-army.md) *ritual* (Artificer,Bard,Warlock,Wizard)
+* [Shadow Form](./shadow-form.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Shadow Magic](./shadow-magic.md) (Sorcerer,Warlock,Wizard)
+* [Shard Storm](./shard-storm.md) (Artificer,Sorcerer,Wizard)
+* [Shift Glyph](./shift-glyph.md) (Artificer,Cleric,Sorcerer,Wizard)
+* [Shining Armor](./shining-armor.md) (Cleric,Paladin,Wizard)
+* [Sinking Maw](./sinking-maw.md) (Druid,Sorcerer,Wizard)
+* [Skill Empowerment](./skill-empowerment.md) (Artificer,Bard,Sorcerer,Wizard)
+* [Sky Show](./sky-show.md) (Bard,Wizard)
+* [Slaying Arrow](./slaying-arrow.md) (Artificer,Druid,Ranger)
+* [Sleeper Awakens](./sleeper-awakens.md) (Ranger,Sorcerer,Wizard)
+* [Snow Snakes](./snow-snakes.md) (Cleric,Druid,Ranger)
+* [Soar](./soar.md) (Artificer,Ranger,Sorcerer,Warlock,Wizard)
+* [Sonic Boom](./sonic-boom.md) (Bard,Druid,Sorcerer,Wizard)
+* [Soul Scour](./soul-scour.md) (Cleric,Warlock)
+* [Spectral Calling](./spectral-calling.md) (Cleric,Pale Master,Warlock,Wizard)
+* [Spell Resistance](./spell-resistance.md) (Artificer,Cleric,Paladin)
+* [Spidersilk Slash](./spidersilk-slash.md) (Artificer,Ranger,Warlock)
+* [Stairs of Force](./stairs-of-force.md) (Bard,Sorcerer,Wizard)
+* [Stalwart Pact](./stalwart-pact.md) (Artificer,Cleric)
+* [Stampede of Savagery](./stampede-of-savagery.md) (Druid,Ranger)
+* [Steel Wind Strike](./steel-wind-strike.md) (Ranger,Wizard)
+* [Stormcloud](./stormcloud.md) (Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard)
+* [Strength of One](./strength-of-one.md) (Cleric,Paladin)
+* [Summon Celestial](./summon-celestial.md) (Cleric,Paladin)
+* [Summon Draconic Spirit](./summon-draconic-spirit.md) (Druid,Shaman,Sorcerer,Wizard)
+* [Sun Flower](./sun-flower.md) (Druid,Sorcerer,Wizard)
+* [Sundering Smite](./sundering-smite.md) (Paladin)
+* [Sunglow](./sunglow.md) (Wizard)
+* [Swift Quiver](./swift-quiver.md) (Ranger)
+* [Synaptic Static](./synaptic-static.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Talona's Blessing](./talonas-blessing.md) (Cleric)
+* [Telekinesis](./telekinesis.md) (Shaman,Sorcerer,Wizard)
+* [Teleportation Circle](./teleportation-circle.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Temporal Shunt](./temporal-shunt.md) (Wizard)
+* [Tendrils of Thurban](./tendrils-of-thurban.md) (Sorcerer,Warlock,Wizard)
+* [Tenser's Destructive Resonance](./tensers-destructive-resonance.md) (Sorcerer,Warlock,Wizard)
+* [Tenser's Recall](./tensers-recall.md) (Wizard)
+* [Tethered Mind](./tethered-mind.md) (Wizard)
+* [Thanguul's Preservation](./thanguuls-preservation.md) (Cleric)
+* [Thornwrack](./thornwrack.md) (Druid,Ranger)
+* [Threefold Boon](./threefold-boon.md) (Cleric,Paladin)
+* [Transmute Rock](./transmute-rock.md) (Artificer,Druid,Wizard)
+* [Tree Stride](./tree-stride.md) (Druid,Ranger,Shaman)
+* [Twinned Lunar Fire Fist](./twinned-lunar-fire-fist.md) (Wizard)
+* [Undead Focus](./undead-focus.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Undead Regeneration](./undead-regeneration.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Unexpected Clarity](./unexpected-clarity.md) (Bard,Paladin,Ranger,Sorcerer,Warlock,Wizard)
+* [Unshakable Self Awareness](./unshakable-self-awareness.md) (Wizard)
+* [Valiancy](./valiancy.md) (Cleric,Paladin,Ranger,Sorcerer,Wizard)
+* [Valiant Fury](./valiant-fury.md) (Cleric,Paladin)
+* [Vehement Inquiry](./vehement-inquiry.md) *ritual* (Bard,Paladin,Warlock)
+* [Vengeance of Talos](./vengeance-of-talos.md) (Druid,Ranger,Sorcerer,Wizard)
+* [Wall](./wall.md) (Sorcerer,Wizard)
+* [Wall of Darkness](./wall-of-darkness.md) (Sorcerer,Warlock,Wizard)
+* [Wall of Force](./wall-of-force.md) (Wizard)
+* [Wall of Light](./wall-of-light.md) (Sorcerer,Warlock,Wizard)
+* [Wall of Stone](./wall-of-stone.md) (Artificer,Druid,Sorcerer,Wizard)
+* [Water to Acid](./water-to-acid.md) (Artificer,Druid,Warlock,Wizard)
+* [Water to Poison](./water-to-poison.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Wave of Flames](./wave-of-flames.md) (Druid,Sorcerer,Wizard)
+* [Wave of Obliteration](./wave-of-obliteration.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Weaken Ability](./weaken-ability.md) (Artificer,Sorcerer,Warlock,Wizard)
+* [Whip of Woe](./whip-of-woe.md) *brandish* (Artificer,Cleric)
+* [Wind Tunnel](./wind-tunnel.md) (Druid,Ranger)
+* [Windlance](./windlance.md) (Sorcerer,Warlock,Wizard)
+* [Wrath of Nature](./wrath-of-nature.md) (Druid,Ranger)
+* [Xorn Movement](./xorn-movement.md) (Druid,Wizard)
  
 ## 6th-Level Spells
-* [Ability Rip](../Magic/Spells/ability-rip.md): Sorcerer, Warlock, Wizard
-* [Acid Fog](../Magic/Spells/acid-fog.md): Sorcerer, Wizard
-* [Acid Storm](../Magic/Spells/acid-storm.md): Sorcerer, Wizard
-* [Acidic Armor](../Magic/Spells/acidic-armor.md): Druid, Warlock, Wizard
-* [Amplify Magic](../Magic/Spells/amplify-magic.md): Sorcerer, Wizard
-* [Anger of the Noonday Sun](../Magic/Spells/anger-of-the-noonday-sun.md): Druid
-* [Animate Blood](../Magic/Spells/animate-blood.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Annihilation Disk](../Magic/Spells/annihilation-disk.md): Sorcerer, Wizard
-* [Apocalypse](../Magic/Spells/apocalypse.md): Sorcerer, Wizard
-* [Arcane Gate](../Magic/Spells/arcane-gate.md): Sorcerer, Warlock, Wizard
-* [Aura of Terror](../Magic/Spells/aura-of-terror.md): Cleric, Warlock
-* [Awaken Undead](../Magic/Spells/awaken-undead.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Azuth's Alteration Mantle](../Magic/Spells/azuths-alteration-mantle.md): Cleric, Sorcerer, Wizard
-* [Azuth's Firing Frenzy](../Magic/Spells/azuths-firing-frenzy.md): Cleric, Sorcerer, Wizard
-* [Azuth's Spell Shield](../Magic/Spells/azuths-spell-shield.md): Cleric, Sorcerer, Wizard
-* [Battle Beetle](../Magic/Spells/battle-beetle.md): Sorcerer, Wizard
-* [Beckon Closer](../Magic/Spells/beckon-closer.md): Wizard
-* [Beluud's Boiling Bubble](../Magic/Spells/beluuds-boiling-bubble.md): Wizard
-* [Bigby's Besieging Bolt](../Magic/Spells/bigbys-besieging-bolt.md): Sorcerer, Wizard
-* [Blackmantle](../Magic/Spells/blackmantle.md): Sorcerer, Warlock, Wizard
-* [Blade Barrier](../Magic/Spells/blade-barrier.md): Cleric
-* [Blizzard](../Magic/Spells/blizzard.md): Cleric, Druid, Sorcerer, Wizard
-* [Blood Fever](../Magic/Spells/blood-fever.md): Bard, Cleric, Druid, Warlock, Wizard
-* [Bolt of Glory](../Magic/Spells/bolt-of-glory.md): Cleric
-* [Bones of the Earth](../Magic/Spells/bones-of-the-earth.md): Druid, Shaman
-* [Borrowed Time](../Magic/Spells/borrowed-time.md): Bard, Cleric, Sorcerer, Warlock, Wizard
-* [Bound into Obedience](../Magic/Spells/bound-into-obedience.md): Bard, Pale Master, Sorcerer, Warlock, Wizard
-* [Capacitor Box](../Magic/Spells/capacitor-box.md): Sorcerer, Warlock, Wizard
-* [Chain Lightning](../Magic/Spells/chain-lightning.md): Shaman, Sorcerer, Wizard
-* [Chain Madness](../Magic/Spells/chain-madness.md): Bard, Cleric
-* [Circle of Death](../Magic/Spells/circle-of-death.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Claws of the Umber Hulk](../Magic/Spells/claws-of-the-umber-hulk.md): Sorcerer, Wizard
-* [Cloudwalkers](../Magic/Spells/cloudwalkers.md): Druid
-* [Cometfall](../Magic/Spells/cometfall.md): Druid
-* [Conjure Fey](../Magic/Spells/conjure-fey.md): Druid, Warlock
-* [Contagious Touch](../Magic/Spells/contagious-touch.md): Cleric
-* [Contingency](../Magic/Spells/contingency.md): Wizard
-* [Crawling Darkness](../Magic/Spells/crawling-darkness.md): Cleric
-* [Create Homunculus](../Magic/Spells/create-homunculus.md): Wizard
-* [Create Undead](../Magic/Spells/create-undead.md): Cleric, Pale Master, Warlock, Wizard
-* [Curse of Odium](../Magic/Spells/curse-of-odium.md): Bard, Cleric, Warlock, Wizard
-* [Curse of the Everbleeding Wounds](../Magic/Spells/curse-of-the-everbleeding-wounds.md): Cleric
-* [Dark Lagoon](../Magic/Spells/dark-lagoon.md): Druid, Sorcerer, Warlock, Wizard
-* [Death Spell](../Magic/Spells/death-spell.md): Sorcerer, Wizard
-* [Deep Freeze](../Magic/Spells/deep-freeze.md): Cleric, Druid, Sorcerer, Wizard
-* [Dirge of Ruin](../Magic/Spells/dirge-of-ruin.md): Bard
-* [Disintegrate](../Magic/Spells/disintegrate.md): Pale Master, Sorcerer, Wizard
-* [Drawmij's Instant Summons](../Magic/Spells/drawmijs-instant-summons.md): Wizard
-* [Dream Sight](../Magic/Spells/dream-sight.md): Sorcerer, Wizard
-* [Druid Grove](../Magic/Spells/druid-grove.md): Druid
-* [Dust of Death](../Magic/Spells/dust-of-death.md): Sorcerer, Wizard
-* [Energy Immunity](../Magic/Spells/energy-immunity.md): Cleric, Druid, Sorcerer, Wizard
-* [Ensnaring Draft](../Magic/Spells/ensnaring-draft.md): Wizard
-* [Essence Sap](../Magic/Spells/essence-sap.md): Sorcerer, Warlock, Wizard
-* [Exaggerated Demise](../Magic/Spells/exaggerated-demise.md): Bard, Wizard
-* [Eyebite](../Magic/Spells/eyebite.md): Bard, Pale Master, Sorcerer, Warlock, Wizard
-* [Fellblade](../Magic/Spells/fellblade.md): Cleric, Sorcerer, Warlock, Wizard
-* [Find the Path](../Magic/Spells/find-the-path.md): Bard, Cleric, Druid, Shaman
-* [Fire Seeds](../Magic/Spells/fire-seeds.md): Druid
-* [Fire Spiders](../Magic/Spells/fire-spiders.md): Sorcerer, Warlock, Wizard
-* [Flame Vortex](../Magic/Spells/flame-vortex.md): Cleric, Druid, Sorcerer, Wizard
-* [Flesh Shiver](../Magic/Spells/flesh-shiver.md): Sorcerer, Warlock, Wizard
-* [Flesh to Stone](../Magic/Spells/flesh-to-stone.md): Druid, Sorcerer, Warlock, Wizard
-* [Forbiddance](../Magic/Spells/forbiddance.md): Cleric
-* [Force of Nature](../Magic/Spells/force-of-nature.md): Druid
-* [Fractal Armament](../Magic/Spells/fractal-armament.md): Bard, Sorcerer, Wizard
-* [Freezing Ray](../Magic/Spells/freezing-ray.md): Druid
-* [Gate Walk](../Magic/Spells/gate-walk.md): Wizard
-* [Gemjump](../Magic/Spells/gemjump.md): Sorcerer, Warlock, Wizard
-* [Globe of Invulnerability](../Magic/Spells/globe-of-invulnerability.md): Sorcerer, Wizard
-* [Goad of Misfortune](../Magic/Spells/goad-of-misfortune.md): Cleric, Warlock
-* [Grace of Shar](../Magic/Spells/grace-of-shar.md): Bard, Cleric, Pale Master, Sorcerer, Wizard
-* [Gravedust Cloud](../Magic/Spells/gravedust-cloud.md): Cleric, Warlock, Wizard
-* [Gravity Fissure](../Magic/Spells/gravity-fissure.md): Wizard
-* [Greater Darkness](../Magic/Spells/greater-darkness.md): Wizard
-* [Greater Fire Trap](../Magic/Spells/greater-fire-trap.md): Wizard
-* [Greater Sign of Sealing](../Magic/Spells/greater-sign-of-sealing.md): Sorcerer, Wizard
-* [Grimlore's Aphotic Armor](../Magic/Spells/grimlores-aphotic-armor.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Guards and Wards](../Magic/Spells/guards-and-wards.md): Bard, Wizard
-* [Harden Object](../Magic/Spells/harden-object.md): Sorcerer, Wizard
-* [Harm](../Magic/Spells/harm.md): Cleric, Pale Master
-* [Heal](../Magic/Spells/heal.md): Cleric, Druid
-* [Heartseeker](../Magic/Spells/heartseeker.md): Bard
-* [Hell's Own Blade](../Magic/Spells/hells-own-blade.md): Warlock, Wizard
-* [Heroes' Feast](../Magic/Spells/heroes-feast.md): Bard, Cleric, Druid, Shaman
-* [Hide the Path](../Magic/Spells/hide-the-path.md): Cleric, Druid
-* [Hoar's Revenance](../Magic/Spells/hoars-revenance.md): Cleric, Warlock
-* [Howling Chain](../Magic/Spells/howling-chain.md): Sorcerer, Wizard
-* [Howling Void](../Magic/Spells/howling-void.md): Bard, Druid, Sorcerer, Warlock, Wizard
-* [Ice Wave](../Magic/Spells/ice-wave.md): Druid, Sorcerer, Wizard
-* [Imbue Undead with Spell Ability](../Magic/Spells/imbue-undead-with-spell-ability.md): Sorcerer, Wizard
-* [Inevitable Winter](../Magic/Spells/inevitable-winter.md): Bard, Druid, Pale Master, Shaman, Sorcerer, Warlock, Wizard
-* [Investiture of Blood](../Magic/Spells/investiture-of-blood.md): Cleric, Druid, Sorcerer, Warlock, Wizard
-* [Investiture of Flame](../Magic/Spells/investiture-of-flame.md): Druid, Sorcerer, Warlock, Wizard
-* [Investiture of Ice](../Magic/Spells/investiture-of-ice.md): Druid, Sorcerer, Warlock, Wizard
-* [Investiture of Necrosis](../Magic/Spells/investiture-of-necrosis.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Investiture of Stone](../Magic/Spells/investiture-of-stone.md): Druid, Sorcerer, Warlock, Wizard
-* [Investiture of Wind](../Magic/Spells/investiture-of-wind.md): Druid, Sorcerer, Warlock, Wizard
-* [Javelin of Retribution](../Magic/Spells/javelin-of-retribution.md): Sorcerer, Wizard
-* [Kossuth's Burning Mark](../Magic/Spells/kossuths-burning-mark.md): Sorcerer, Wizard
-* [Lingering Shock](../Magic/Spells/lingering-shock.md): Cleric, Druid, Sorcerer, Wizard
-* [Lingering Vitality](../Magic/Spells/lingering-vitality.md): Bard, Cleric, Druid
-* [Liquefy](../Magic/Spells/liquefy.md): Sorcerer, Wizard
-* [Lorloveim's Shadowy Transformation](../Magic/Spells/lorloveims-shadowy-transformation.md): Bard, Sorcerer, Wizard
-* [Magic Jar](../Magic/Spells/magic-jar.md): Pale Master, Wizard
-* [Mantle of Malar](../Magic/Spells/mantle-of-malar.md): Cleric, Druid, Shaman, Sorcerer
-* [Martyr's Cry](../Magic/Spells/martyrs-cry.md): Bard, Cleric
-* [Mass Shield of Warding](../Magic/Spells/mass-shield-of-warding.md): Cleric
-* [Mass Suggestion](../Magic/Spells/mass-suggestion.md): Bard, Shaman, Sorcerer, Warlock, Wizard
-* [Meld of Lolth](../Magic/Spells/meld-of-lolth.md): Cleric
-* [Mental Prison](../Magic/Spells/mental-prison.md): Sorcerer, Warlock, Wizard
-* [Metal to Rust](../Magic/Spells/metal-to-rust.md): Sorcerer, Wizard
-* [Move Earth](../Magic/Spells/move-earth.md): Druid, Shaman, Sorcerer, Wizard
-* [Multi-Lock](../Magic/Spells/multi-lock.md): Sorcerer, Wizard
-* [Myrkul's Power](../Magic/Spells/myrkuls-power.md): Cleric, Pale Master, Warlock, Wizard
-* [Note of Aggression](../Magic/Spells/note-of-aggression.md): Bard
-* [Open the Floodgates](../Magic/Spells/open-the-floodgates.md): Bard, Sorcerer
-* [Opportune Lacuna](../Magic/Spells/opportune-lacuna.md): Bard, Sorcerer, Wizard
-* [Oppression](../Magic/Spells/oppression.md): Bard, Wizard
-* [Otherworldly Form](../Magic/Spells/otherworldly-form.md): Cleric, Sorcerer, Warlock, Wizard
-* [Otiluke's Diamond Screen](../Magic/Spells/otilukes-diamond-screen.md): Sorcerer, Warlock, Wizard
-* [Otiluke's Excruciating Screen](../Magic/Spells/otilukes-excruciating-screen.md): Sorcerer, Warlock, Wizard
-* [Otiluke's Freezing Sphere](../Magic/Spells/otilukes-freezing-sphere.md): Sorcerer, Wizard
-* [Otiluke's Orb of Containment](../Magic/Spells/otilukes-orb-of-containment.md): Sorcerer, Warlock, Wizard
-* [Otto's Irresistible Dance](../Magic/Spells/ottos-irresistible-dance.md): Bard, Wizard
-* [Overwhelming Revelations](../Magic/Spells/overwhelming-revelations.md): Bard, Cleric
-* [Peer Through Flames](../Magic/Spells/peer-through-flames.md): Cleric, Druid, Sorcerer, Wizard
-* [Permafrost](../Magic/Spells/permafrost.md): Sorcerer, Wizard
-* [Planar Ally](../Magic/Spells/planar-ally.md): Cleric
-* [Platinum Shield](../Magic/Spells/platinum-shield.md): Sorcerer, Wizard
-* [Polluting Sludge](../Magic/Spells/polluting-sludge.md): Druid, Sorcerer, Warlock, Wizard
-* [Possess Object](../Magic/Spells/possess-object.md): Sorcerer, Warlock, Wizard
-* [Primordial Ward](../Magic/Spells/primordial-ward.md): Druid
-* [Probe Thoughts](../Magic/Spells/probe-thoughts.md): Sorcerer, Wizard
-* [Programmed Illusion](../Magic/Spells/programmed-illusion.md): Bard, Wizard
-* [Programmed Image](../Magic/Spells/programmed-image.md): Bard, Sorcerer, Warlock, Wizard
-* [Psyche Onslaught](../Magic/Spells/psyche-onslaught.md): Bard, Cleric, Wizard
-* [Psychic Armor](../Magic/Spells/psychic-armor.md): Wizard
-* [Psychic Crush](../Magic/Spells/psychic-crush.md): Sorcerer, Warlock, Wizard
-* [Rampart of Dispel Magic](../Magic/Spells/rampart-of-dispel-magic.md): Bard, Cleric, Sorcerer, Wizard
-* [Ray of Entropy](../Magic/Spells/ray-of-entropy.md): Sorcerer, Warlock, Wizard
-* [Read Object](../Magic/Spells/read-object.md): Bard, Sorcerer, Wizard
-* [Rizzak's Ravenous Starvation](../Magic/Spells/rizzaks-ravenous-starvation.md): Druid, Sorcerer, Warlock, Wizard
-* [Rust Field](../Magic/Spells/rust-field.md): Wizard
-* [Sand Blade](../Magic/Spells/sand-blade.md): Cleric, Druid
-* [Scatter](../Magic/Spells/scatter.md): Sorcerer, Warlock, Wizard
-* [Seismic Jaws](../Magic/Spells/seismic-jaws.md): Druid, Sorcerer, Wizard
-* [Shelter from Energy](../Magic/Spells/shelter-from-energy.md): Cleric, Druid, Sorcerer, Wizard
-* [Soul Blade](../Magic/Spells/soul-blade.md): Cleric, Sorcerer, Warlock, Wizard
-* [Soul Cage](../Magic/Spells/soul-cage.md): Pale Master, Warlock, Wizard
-* [Soulblade](../Magic/Spells/soulblade.md): Cleric, Sorcerer, Warlock, Wizard
-* [Soultap](../Magic/Spells/soultap.md): Pale Master
-* [Spider Plague](../Magic/Spells/spider-plague.md): Cleric, Druid
-* [Spirit Annihilation](../Magic/Spells/spirit-annihilation.md): Sorcerer, Warlock, Wizard
-* [Spirit of Flame](../Magic/Spells/spirit-of-flame.md): Sorcerer, Warlock, Wizard
-* [Spirits of Victory](../Magic/Spells/spirits-of-victory.md): Cleric
-* [Star Step](../Magic/Spells/star-step.md): Sorcerer, Warlock, Wizard
-* [Stone Body](../Magic/Spells/stone-body.md): Cleric, Druid, Sorcerer, Wizard
-* [Stone Tell](../Magic/Spells/stone-tell.md): Druid
-* [Summon Fiend](../Magic/Spells/summon-fiend.md): Warlock, Wizard
-* [Sunbeam](../Magic/Spells/sunbeam.md): Cleric, Druid, Shaman, Sorcerer, Wizard
-* [Superior Resistance](../Magic/Spells/superior-resistance.md): Bard, Cleric, Druid, Sorcerer, Wizard
-* [Swelling Storm](../Magic/Spells/swelling-storm.md): Druid, Sorcerer, Wizard
-* [Tasha's Otherworldly Guise](../Magic/Spells/tashas-otherworldly-guise.md): Sorcerer, Warlock, Wizard
-* [Temporal Visions](../Magic/Spells/temporal-visions.md): Wizard
-* [Tenser's Transformation](../Magic/Spells/tensers-transformation.md): Wizard
-* [Tentacular Transformation](../Magic/Spells/tentacular-transformation.md): Sorcerer, Warlock, Wizard
-* [The Doom of Bane](../Magic/Spells/the-doom-of-bane.md): Cleric
-* [Thunder Riposte](../Magic/Spells/thunder-riposte.md): Cleric, Warlock
-* [Tortoise Shell](../Magic/Spells/tortoise-shell.md): Druid
-* [Trailblazer](../Magic/Spells/trailblazer.md): Sorcerer, Warlock, Wizard
-* [Transport via Plants](../Magic/Spells/transport-via-plants.md): Druid, Shaman
-* [Trollish Fortitude](../Magic/Spells/trollish-fortitude.md): Druid
-* [True Seeing](../Magic/Spells/true-seeing.md): Bard, Cleric, Pale Master, Shaman, Sorcerer, Warlock, Wizard
-* [Unleash Instincts](../Magic/Spells/unleash-instincts.md): Druid, Sorcerer, Warlock, Wizard
-* [Vampiric Lash](../Magic/Spells/vampiric-lash.md): Sorcerer, Warlock, Wizard
-* [Vampiric Mists](../Magic/Spells/vampiric-mists.md): Sorcerer, Warlock, Wizard
-* [Volcanic Rage](../Magic/Spells/volcanic-rage.md): Cleric, Druid, Warlock
-* [Wall of Ice](../Magic/Spells/wall-of-ice.md): Shaman, Wizard
-* [Wall of Thorns](../Magic/Spells/wall-of-thorns.md): Druid
-* [Whirl of Fangs](../Magic/Spells/whirl-of-fangs.md): Druid, Warlock
-* [Widogast's Transmogrification](../Magic/Spells/widogasts-transmogrification.md): Wizard
-* [Wind Walk](../Magic/Spells/wind-walk.md): Druid, Shaman
-* [Word of Recall](../Magic/Spells/word-of-recall.md): Cleric
-* [Zariel's Memento](../Magic/Spells/zariels-memento.md): Warlock, Wizard
-* [Zealot Pact](../Magic/Spells/zealot-pact.md): Cleric
-* [Zone of Restoration](../Magic/Spells/zone-of-restoration.md): Bard, Cleric, Druid
+* [Abi-Dalzim's Antimagic Ray](./abi-dalzims-antimagic-ray.md) (Sorcerer,Wizard)
+* [Ability Rip](./ability-rip.md) (Sorcerer,Warlock,Wizard)
+* [Acid Fog](./acid-fog.md) (Sorcerer,Wizard)
+* [Acid Storm](./acid-storm.md) (Sorcerer,Wizard)
+* [Acidic Armor](./acidic-armor.md) (Druid,Warlock,Wizard)
+* [Amplify Magic](./amplify-magic.md) (Sorcerer,Wizard)
+* [Anger of the Noonday Sun](./anger-of-the-noonday-sun.md) (Druid)
+* [Animate Blood](./animate-blood.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Annihilation Disk](./annihilation-disk.md) (Sorcerer,Wizard)
+* [Antimagic Strike](./antimagic-strike.md) (Sorcerer,Wizard)
+* [Apocalypse](./apocalypse.md) (Sorcerer,Wizard)
+* [Arcane Gate](./arcane-gate.md) (Sorcerer,Warlock,Wizard)
+* [Attractive Singularity](./attractive-singularity.md) (Sorcerer,Wizard)
+* [Aura of Terror](./aura-of-terror.md) (Cleric,Warlock)
+* [Awaken Undead](./awaken-undead.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Azuth's Alteration Mantle](./azuths-alteration-mantle.md) (Cleric,Sorcerer,Wizard)
+* [Azuth's Firing Frenzy](./azuths-firing-frenzy.md) (Cleric,Sorcerer,Wizard)
+* [Azuth's Spell Shield](./azuths-spell-shield.md) (Cleric,Sorcerer,Wizard)
+* [Battle Beetle](./battle-beetle.md) (Sorcerer,Wizard)
+* [Beckon Closer](./beckon-closer.md) (Wizard)
+* [Beluud's Boiling Bubble](./beluuds-boiling-bubble.md) (Wizard)
+* [Bigby's Besieging Bolt](./bigbys-besieging-bolt.md) (Sorcerer,Wizard)
+* [Blackmantle](./blackmantle.md) (Sorcerer,Warlock,Wizard)
+* [Blade Barrier](./blade-barrier.md) (Cleric)
+* [Blizzard](./blizzard.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Blood Fever](./blood-fever.md) (Bard,Cleric,Druid,Warlock,Wizard)
+* [Bolt of Glory](./bolt-of-glory.md) (Cleric)
+* [Bones of the Earth](./bones-of-the-earth.md) (Druid,Shaman)
+* [Borrowed Time](./borrowed-time.md) (Bard,Cleric,Sorcerer,Warlock,Wizard)
+* [Bound into Obedience](./bound-into-obedience.md) (Bard,Pale Master,Sorcerer,Warlock,Wizard)
+* [Bridge of Force](./bridge-of-force.md) (Bard,Sorcerer,Wizard)
+* [Brightfield](./brightfield.md) *ritual* (Bard,Cleric,Wizard)
+* [Burning Chains](./burning-chains.md) (Cleric,Wizard)
+* [Capacitor Box](./capacitor-box.md) (Sorcerer,Warlock,Wizard)
+* [Chain Lightning](./chain-lightning.md) (Shaman,Sorcerer,Wizard)
+* [Chain Madness](./chain-madness.md) (Bard,Cleric)
+* [Chilling Chains](./chilling-chains.md) (Cleric,Wizard)
+* [Circle of Death](./circle-of-death.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Claws of the Umber Hulk](./claws-of-the-umber-hulk.md) (Sorcerer,Wizard)
+* [Cloudwalkers](./cloudwalkers.md) (Druid)
+* [Cometfall](./cometfall.md) (Druid)
+* [Conjure Fey](./conjure-fey.md) (Druid,Warlock)
+* [Contagious Touch](./contagious-touch.md) (Cleric)
+* [Contingency](./contingency.md) (Wizard)
+* [Crawling Darkness](./crawling-darkness.md) (Cleric)
+* [Create Homunculus](./create-homunculus.md) (Wizard)
+* [Create Undead](./create-undead.md) (Cleric,Pale Master,Warlock,Wizard)
+* [Curse of Odium](./curse-of-odium.md) (Bard,Cleric,Warlock,Wizard)
+* [Curse of the Everbleeding Wounds](./curse-of-the-everbleeding-wounds.md) (Cleric)
+* [Dark Lagoon](./dark-lagoon.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Death Spell](./death-spell.md) (Sorcerer,Wizard)
+* [Decapitating Disc](./decapitating-disc.md) (Sorcerer,Wizard)
+* [Deep Freeze](./deep-freeze.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Dirge of Ruin](./dirge-of-ruin.md) (Bard)
+* [Disintegrate](./disintegrate.md) (Pale Master,Sorcerer,Wizard)
+* [Drawmij's Instant Summons](./drawmijs-instant-summons.md) *ritual* (Wizard)
+* [Dream Sight](./dream-sight.md) *ritual* (Sorcerer,Wizard)
+* [Druid Grove](./druid-grove.md) (Druid)
+* [Dust of Death](./dust-of-death.md) (Sorcerer,Wizard)
+* [Energy Immunity](./energy-immunity.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Ensnaring Draft](./ensnaring-draft.md) (Wizard)
+* [Essence Sap](./essence-sap.md) (Sorcerer,Warlock,Wizard)
+* [Exaggerated Demise](./exaggerated-demise.md) (Bard,Wizard)
+* [Eyebite](./eyebite.md) (Bard,Pale Master,Sorcerer,Warlock,Wizard)
+* [Fellblade](./fellblade.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Find the Path](./find-the-path.md) (Bard,Cleric,Druid,Shaman)
+* [Fire Seeds](./fire-seeds.md) (Druid)
+* [Fire Spiders](./fire-spiders.md) (Sorcerer,Warlock,Wizard)
+* [Flame Vortex](./flame-vortex.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Flesh Shiver](./flesh-shiver.md) (Sorcerer,Warlock,Wizard)
+* [Flesh to Stone](./flesh-to-stone.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Forbiddance](./forbiddance.md) *ritual* (Cleric)
+* [Force of Nature](./force-of-nature.md) (Druid)
+* [Fractal Armament](./fractal-armament.md) (Bard,Sorcerer,Wizard)
+* [Freezing Ray](./freezing-ray.md) (Druid)
+* [Frost Beam](./frost-beam.md) (Sorcerer,Wizard)
+* [Gate Walk](./gate-walk.md) (Wizard)
+* [Gemjump](./gemjump.md) *ritual* (Sorcerer,Warlock,Wizard)
+* [Globe of Invulnerability](./globe-of-invulnerability.md) (Sorcerer,Wizard)
+* [Goad of Misfortune](./goad-of-misfortune.md) (Cleric,Warlock)
+* [Grace of Shar](./grace-of-shar.md) (Bard,Cleric,Pale Master,Sorcerer,Wizard)
+* [Gravedust Cloud](./gravedust-cloud.md) (Cleric,Warlock,Wizard)
+* [Gravity Fissure](./gravity-fissure.md) (Wizard)
+* [Greater Darkness](./greater-darkness.md) (Wizard)
+* [Greater Fire Trap](./greater-fire-trap.md) (Wizard)
+* [Greater Lingering Shock](./greater-lingering-shock.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Greater Sign of Sealing](./greater-sign-of-sealing.md) (Sorcerer,Wizard)
+* [Grimlore's Aphotic Armor](./grimlores-aphotic-armor.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Guards and Wards](./guards-and-wards.md) (Bard,Wizard)
+* [Harden Object](./harden-object.md) (Sorcerer,Wizard)
+* [Harm](./harm.md) (Cleric,Pale Master)
+* [Heal](./heal.md) (Cleric,Druid)
+* [Heartseeker](./heartseeker.md) (Bard)
+* [Hell's Own Blade](./hells-own-blade.md) (Warlock,Wizard)
+* [Hellfire Blast](./hellfire-blast.md) (Sorcerer,Warlock,Wizard)
+* [Heroes' Feast](./heroes-feast.md) (Bard,Cleric,Druid,Shaman)
+* [Hide the Path](./hide-the-path.md) (Cleric,Druid)
+* [Hoar's Revenance](./hoars-revenance.md) (Cleric,Warlock)
+* [Howling Chain](./howling-chain.md) (Sorcerer,Wizard)
+* [Howling Void](./howling-void.md) (Bard,Druid,Sorcerer,Warlock,Wizard)
+* [Ice Wave](./ice-wave.md) (Druid,Sorcerer,Wizard)
+* [Imbue Undead with Spell Ability](./imbue-undead-with-spell-ability.md) *ritual* (Sorcerer,Wizard)
+* [Inevitable Winter](./inevitable-winter.md) (Bard,Druid,Pale Master,Shaman,Sorcerer,Warlock,Wizard)
+* [Investiture of Blood](./investiture-of-blood.md) (Cleric,Druid,Sorcerer,Warlock,Wizard)
+* [Investiture of Flame](./investiture-of-flame.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Investiture of Ice](./investiture-of-ice.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Investiture of Necrosis](./investiture-of-necrosis.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Investiture of Stone](./investiture-of-stone.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Investiture of Wind](./investiture-of-wind.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Javelin of Retribution](./javelin-of-retribution.md) (Sorcerer,Wizard)
+* [Kossuth's Burning Mark](./kossuths-burning-mark.md) (Sorcerer,Wizard)
+* [Lingering Vitality](./lingering-vitality.md) (Bard,Cleric,Druid)
+* [Liquefy](./liquefy.md) (Sorcerer,Wizard)
+* [Lorloveim's Shadowy Transformation](./lorloveims-shadowy-transformation.md) (Bard,Sorcerer,Wizard)
+* [Magic Jar](./magic-jar.md) (Pale Master,Wizard)
+* [Mantle of Malar](./mantle-of-malar.md) (Cleric,Druid,Shaman,Sorcerer)
+* [Martyr's Cry](./martyrs-cry.md) (Bard,Cleric)
+* [Mass Shield of Warding](./mass-shield-of-warding.md) (Cleric)
+* [Mass Suggestion](./mass-suggestion.md) (Bard,Shaman,Sorcerer,Warlock,Wizard)
+* [Meld of Lolth](./meld-of-lolth.md) (Cleric)
+* [Mental Prison](./mental-prison.md) (Sorcerer,Warlock,Wizard)
+* [Metal to Rust](./metal-to-rust.md) (Sorcerer,Wizard)
+* [Move Earth](./move-earth.md) (Druid,Shaman,Sorcerer,Wizard)
+* [Multi-Lock](./multi-lock.md) (Sorcerer,Wizard)
+* [Myrkul's Power](./myrkuls-power.md) (Cleric,Pale Master,Warlock,Wizard)
+* [Nature’s Mist](./nature’s-mist.md) *ritual* (Bard,Druid)
+* [Note of Aggression](./note-of-aggression.md) (Bard)
+* [Open the Floodgates](./open-the-floodgates.md) (Bard,Sorcerer)
+* [Opportune Lacuna](./opportune-lacuna.md) (Bard,Sorcerer,Wizard)
+* [Oppression](./oppression.md) (Bard,Wizard)
+* [Otherworldly Form](./otherworldly-form.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Otiluke's Diamond Screen](./otilukes-diamond-screen.md) (Sorcerer,Warlock,Wizard)
+* [Otiluke's Excruciating Screen](./otilukes-excruciating-screen.md) (Sorcerer,Warlock,Wizard)
+* [Otiluke's Freezing Sphere](./otilukes-freezing-sphere.md) (Sorcerer,Wizard)
+* [Otiluke's Orb of Containment](./otilukes-orb-of-containment.md) (Sorcerer,Warlock,Wizard)
+* [Otto's Irresistible Dance](./ottos-irresistible-dance.md) (Bard,Wizard)
+* [Overwhelming Revelations](./overwhelming-revelations.md) (Bard,Cleric)
+* [Peer Through Flames](./peer-through-flames.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Permafrost](./permafrost.md) (Sorcerer,Wizard)
+* [Petrifying Ray](./petrifying-ray.md) (Sorcerer,Wizard)
+* [Pillar of Darkness](./pillar-of-darkness.md) (Cleric,Sorcerer,Wizard)
+* [Pillar of Radiance](./pillar-of-radiance.md) (Cleric,Sorcerer,Wizard)
+* [Planar Ally](./planar-ally.md) (Cleric)
+* [Platinum Shield](./platinum-shield.md) (Sorcerer,Wizard)
+* [Polluting Sludge](./polluting-sludge.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Possess Object](./possess-object.md) (Sorcerer,Warlock,Wizard)
+* [Primordial Ward](./primordial-ward.md) (Druid)
+* [Probe Thoughts](./probe-thoughts.md) *ritual* (Sorcerer,Wizard)
+* [Programmed Illusion](./programmed-illusion.md) (Bard,Wizard)
+* [Programmed Image](./programmed-image.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Psyche Onslaught](./psyche-onslaught.md) (Bard,Cleric,Wizard)
+* [Psychic Armor](./psychic-armor.md) (Wizard)
+* [Psychic Crush](./psychic-crush.md) (Sorcerer,Warlock,Wizard)
+* [Rampart of Dispel Magic](./rampart-of-dispel-magic.md) (Bard,Cleric,Sorcerer,Wizard)
+* [Ray of Entropy](./ray-of-entropy.md) (Sorcerer,Warlock,Wizard)
+* [Read Object](./read-object.md) *ritual* (Bard,Sorcerer,Wizard)
+* [Repulsive Singularity](./repulsive-singularity.md) (Sorcerer,Wizard)
+* [Rizzak's Ravenous Starvation](./rizzaks-ravenous-starvation.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Roaring Missile](./roaring-missile.md) (Bard,Sorcerer,Wizard)
+* [Rust Field](./rust-field.md) (Wizard)
+* [Sand Blade](./sand-blade.md) (Cleric,Druid)
+* [Scatter](./scatter.md) (Sorcerer,Warlock,Wizard)
+* [Seismic Jaws](./seismic-jaws.md) (Druid,Sorcerer,Wizard)
+* [Shelter from Energy](./shelter-from-energy.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Shocking Chains](./shocking-chains.md) (Cleric,Wizard)
+* [Song of Ice and Fire](./song-of-ice-and-fire.md) (Bard)
+* [Song of Thunder and Lightning](./song-of-thunder-and-lightning.md) (Bard)
+* [Soul Cage](./soul-cage.md) (Pale Master,Warlock,Wizard)
+* [Soulblade](./soulblade.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Soultap](./soultap.md) (Pale Master)
+* [Spider Plague](./spider-plague.md) (Cleric,Druid)
+* [Spirit Annihilation](./spirit-annihilation.md) (Sorcerer,Warlock,Wizard)
+* [Spirit of Flame](./spirit-of-flame.md) (Sorcerer,Warlock,Wizard)
+* [Spirits of Victory](./spirits-of-victory.md) (Cleric)
+* [Star Step](./star-step.md) (Sorcerer,Warlock,Wizard)
+* [Stone Body](./stone-body.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Stone Tell](./stone-tell.md) (Druid)
+* [Storm of Petals](./storm-of-petals.md) (Sorcerer,Wizard)
+* [Summon Fiend](./summon-fiend.md) (Warlock,Wizard)
+* [Sunbeam](./sunbeam.md) (Cleric,Druid,Shaman,Sorcerer,Wizard)
+* [Superior Resistance](./superior-resistance.md) (Bard,Cleric,Druid,Sorcerer,Wizard)
+* [Swelling Storm](./swelling-storm.md) (Druid,Sorcerer,Wizard)
+* [Tasha's Otherworldly Guise](./tashas-otherworldly-guise.md) (Sorcerer,Warlock,Wizard)
+* [Temporal Visions](./temporal-visions.md) (Wizard)
+* [Tenser's Transformation](./tensers-transformation.md) (Wizard)
+* [Tentacular Transformation](./tentacular-transformation.md) (Sorcerer,Warlock,Wizard)
+* [The Doom of Bane](./the-doom-of-bane.md) (Cleric)
+* [Thermal Reversal](./thermal-reversal.md) (Bard,Sorcerer,Wizard)
+* [Thunder Riposte](./thunder-riposte.md) (Cleric,Warlock)
+* [Tortoise Shell](./tortoise-shell.md) (Druid)
+* [Trailblazer](./trailblazer.md) (Sorcerer,Warlock,Wizard)
+* [Transport via Plants](./transport-via-plants.md) (Druid,Shaman)
+* [Trollish Fortitude](./trollish-fortitude.md) (Druid)
+* [True Seeing](./true-seeing.md) (Bard,Cleric,Pale Master,Shaman,Sorcerer,Warlock,Wizard)
+* [Unleash Instincts](./unleash-instincts.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Unraveling Strike](./unraveling-strike.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Vampiric Lash](./vampiric-lash.md) (Sorcerer,Warlock,Wizard)
+* [Vampiric Mists](./vampiric-mists.md) (Sorcerer,Warlock,Wizard)
+* [Volcanic Rage](./volcanic-rage.md) (Cleric,Druid,Warlock)
+* [Wall of Ice](./wall-of-ice.md) (Shaman,Wizard)
+* [Wall of Thorns](./wall-of-thorns.md) (Druid)
+* [Whirl of Fangs](./whirl-of-fangs.md) (Druid,Warlock)
+* [Widogast's Transmogrification](./widogasts-transmogrification.md) (Wizard)
+* [Wind Walk](./wind-walk.md) (Druid,Shaman)
+* [Word of Recall](./word-of-recall.md) (Cleric)
+* [Zariel's Memento](./zariels-memento.md) (Warlock,Wizard)
+* [Zealot Pact](./zealot-pact.md) (Cleric)
+* [Zone of Restoration](./zone-of-restoration.md) (Bard,Cleric,Druid)
  
 ## 7th-Level Spells
-* [Acid Rain](../Magic/Spells/acid-rain.md): Sorcerer, Wizard
-* [Amorphous Blob](../Magic/Spells/amorphous-blob.md): Sorcerer, Wizard
-* [Antimagic Ray](../Magic/Spells/antimagic-ray.md): Bard, Sorcerer, Wizard
-* [Arctic Wind](../Magic/Spells/arctic-wind.md): Cleric, Druid, Sorcerer, Wizard
-* [Arrow of Bone](../Magic/Spells/arrow-of-bone.md): Cleric, Pale Master, Sorcerer, Warlock, Wizard
-* [Avasculate](../Magic/Spells/avasculate.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Beluud's bile blossom](../Magic/Spells/beluuds-bile-blossom.md): Sorcerer, Wizard
-* [Blood to Water](../Magic/Spells/blood-to-water.md): Cleric, Warlock
-* [Bone Javelin](../Magic/Spells/bone-javelin.md): Shaman, Warlock
-* [Brilliant Blade](../Magic/Spells/brilliant-blade.md): Druid, Sorcerer, Wizard
-* [Changestaff](../Magic/Spells/changestaff.md): Druid
-* [Chariot of Sustarre](../Magic/Spells/chariot-of-sustarre.md): Cleric
-* [Conjure Celestial](../Magic/Spells/conjure-celestial.md): Cleric
-* [Conjure Hezrou](../Magic/Spells/conjure-hezrou.md): Sorcerer, Wizard
-* [Conjure Remorhaz](../Magic/Spells/conjure-remorhaz.md): Cleric
-* [Conjure Shambling Mound](../Magic/Spells/conjure-shambling-mound.md): Druid, Shaman
-* [Conjure Wyrmling](../Magic/Spells/conjure-wyrmling.md): Sorcerer, Warlock, Wizard
-* [Create Magen](../Magic/Spells/create-magen.md): Wizard
-* [Create Revenant](../Magic/Spells/create-revenant.md): Cleric, Pale Master, Warlock, Wizard
-* [Creeping Doom](../Magic/Spells/creeping-doom.md): Druid
-* [Crown of Stars](../Magic/Spells/crown-of-stars.md): Sorcerer, Warlock, Wizard
-* [Death Dragon](../Magic/Spells/death-dragon.md): Cleric, Warlock
-* [Death's Door](../Magic/Spells/deaths-door.md): Cleric, Sorcerer, Warlock, Wizard
-* [Delayed Blast Fireball](../Magic/Spells/delayed-blast-fireball.md): Sorcerer, Wizard
-* [Dire Jinx](../Magic/Spells/dire-jinx.md): Bard, Cleric, Warlock, Wizard
-* [Divine Word](../Magic/Spells/divine-word.md): Cleric
-* [Draconic Transformation](../Magic/Spells/draconic-transformation.md): Druid, Sorcerer, Wizard
-* [Dream of the Blue Veil](../Magic/Spells/dream-of-the-blue-veil.md): Bard, Sorcerer, Warlock, Wizard
-* [Elemental Body](../Magic/Spells/elemental-body.md): Sorcerer, Wizard
-* [Elemental Chains](../Magic/Spells/elemental-chains.md): Druid, Sorcerer, Warlock, Wizard
-* [Eruption of Earth's Fury](../Magic/Spells/eruption-of-earths-fury.md): Cleric, Druid
-* [Etherealness](../Magic/Spells/etherealness.md): Bard, Cleric, Pale Master, Shaman, Sorcerer, Warlock, Wizard
-* [Evil Glare](../Magic/Spells/evil-glare.md): Sorcerer, Warlock, Wizard
-* [Explosive Rift](../Magic/Spells/explosive-rift.md): Sorcerer, Wizard
-* [Eyes of the Mage](../Magic/Spells/eyes-of-the-mage.md): Bard, Sorcerer, Warlock, Wizard
-* [Finger of Death](../Magic/Spells/finger-of-death.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Fire Storm](../Magic/Spells/fire-storm.md): Cleric, Druid, Sorcerer
-* [Forcecage](../Magic/Spells/forcecage.md): Bard, Pale Master, Warlock, Wizard
-* [Glasya's Stride](../Magic/Spells/glasyas-stride.md): Warlock
-* [Globe of Winter](../Magic/Spells/globe-of-winter.md): Druid, Sorcerer, Warlock, Wizard
-* [Great Worm of the Earth](../Magic/Spells/great-worm-of-the-earth.md): Cleric, Druid
-* [Greater Stone Shape](../Magic/Spells/greater-stone-shape.md): Cleric, Druid, Sorcerer, Wizard
-* [Grimlore's Doom](../Magic/Spells/grimlores-doom.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Heart of Ice](../Magic/Spells/heart-of-ice.md): Sorcerer, Warlock, Wizard
-* [Hellfire Burst](../Magic/Spells/hellfire-burst.md): Sorcerer, Warlock, Wizard
-* [Hiss of Sleep](../Magic/Spells/hiss-of-sleep.md): Bard, Sorcerer, Warlock, Wizard
-* [Holy Star](../Magic/Spells/holy-star.md): Cleric
-* [Holy Word](../Magic/Spells/holy-word.md): Cleric
-* [Ice Cave](../Magic/Spells/ice-cave.md): Cleric, Druid, Sorcerer, Wizard
-* [Ice Claw](../Magic/Spells/ice-claw.md): Sorcerer, Wizard
-* [Inevitability of the Grave](../Magic/Spells/inevitability-of-the-grave.md): Bard, Druid, Warlock, Wizard
-* [Instill Vulnerability](../Magic/Spells/instill-vulnerability.md): Cleric, Warlock
-* [Ironguard](../Magic/Spells/ironguard.md): Sorcerer, Wizard
-* [Kelemvor's Irradiating Beam](../Magic/Spells/kelemvors-irradiating-beam.md): Cleric, Wizard
-* [Kiss of the Vampire](../Magic/Spells/kiss-of-the-vampire.md): Sorcerer, Warlock, Wizard
-* [Light to Shadow](../Magic/Spells/light-to-shadow.md): Sorcerer, Wizard
-* [Living Burial](../Magic/Spells/living-burial.md): Druid, Sorcerer, Warlock, Wizard
-* [Malady](../Magic/Spells/malady.md): Cleric, Druid, Sorcerer, Warlock, Wizard
-* [Malraz's Dramatic Death](../Magic/Spells/malrazs-dramatic-death.md): Bard
-* [Mantle of the Slime Lord](../Magic/Spells/mantle-of-the-slime-lord.md): Cleric, Druid, Sorcerer, Warlock, Wizard
-* [Mark of the Unfaithful](../Magic/Spells/mark-of-the-unfaithful.md): Cleric, Druid
-* [Master Earth](../Magic/Spells/master-earth.md): Sorcerer, Wizard
-* [Mighty Roots](../Magic/Spells/mighty-roots.md): Druid
-* [Mind Fog](../Magic/Spells/mind-fog.md): Bard, Druid, Sorcerer, Warlock, Wizard
-* [Mirage Arcane](../Magic/Spells/mirage-arcane.md): Bard, Druid, Shaman, Wizard
-* [Mirror Army](../Magic/Spells/mirror-army.md): Bard, Sorcerer, Warlock, Wizard
-* [Misty March](../Magic/Spells/misty-march.md): Bard, Warlock, Wizard
-* [Moonlight](../Magic/Spells/moonlight.md): Druid, Wizard
-* [Mordenkainen's Magnificent Mansion](../Magic/Spells/mordenkainens-magnificent-mansion.md): Bard, Wizard
-* [Mordenkainen's Penultimate Cogitation](../Magic/Spells/mordenkainens-penultimate-cogitation.md): Sorcerer, Warlock, Wizard
-* [Mordenkainen's Sword](../Magic/Spells/mordenkainens-sword.md): Bard, Wizard
-* [Otiluke's Death Screen](../Magic/Spells/otilukes-death-screen.md): Sorcerer, Warlock, Wizard
-* [Otiluke's Fire and Ice](../Magic/Spells/otilukes-fire-and-ice.md): Sorcerer, Warlock, Wizard
-* [Otiluke's Siege Sphere](../Magic/Spells/otilukes-siege-sphere.md): Sorcerer, Warlock, Wizard
-* [Overwhelm Emotions](../Magic/Spells/overwhelm-emotions.md): Bard, Sorcerer, Warlock, Wizard
-* [Paralyzing Field](../Magic/Spells/paralyzing-field.md): Bard
-* [Plane Shift](../Magic/Spells/plane-shift.md): Cleric, Druid, Shaman, Sorcerer, Warlock, Wizard
-* [Poison Fang](../Magic/Spells/poison-fang.md): Druid, Sorcerer, Warlock, Wizard
-* [Power Word Pain](../Magic/Spells/power-word-pain.md): Sorcerer, Warlock, Wizard
-* [Predict Action](../Magic/Spells/predict-action.md): Wizard
-* [Primordial Tides](../Magic/Spells/primordial-tides.md): Druid, Sorcerer
-* [Prismatic Spray](../Magic/Spells/prismatic-spray.md): Bard, Sorcerer, Wizard
-* [Project Image](../Magic/Spells/project-image.md): Bard, Wizard
-* [Pulse Cannon](../Magic/Spells/pulse-cannon.md): Cleric, Druid, Sorcerer, Wizard
-* [Radiant Assault](../Magic/Spells/radiant-assault.md): Cleric, Sorcerer, Wizard
-* [Refuge Talisman](../Magic/Spells/refuge-talisman.md): Cleric, Sorcerer, Wizard
-* [Regenerate](../Magic/Spells/regenerate.md): Bard, Cleric, Druid, Shaman
-* [Rescue the Dying](../Magic/Spells/rescue-the-dying.md): Cleric, Druid
-* [Resurrection](../Magic/Spells/resurrection.md): Bard, Cleric, Pale Master
-* [Reveille](../Magic/Spells/reveille.md): Bard, Cleric, Wizard
-* [Reverse Gravity](../Magic/Spells/reverse-gravity.md): Druid, Shaman, Sorcerer, Wizard
-* [Ruthless Assault](../Magic/Spells/ruthless-assault.md): Cleric
-* [Sandstorm](../Magic/Spells/sandstorm.md): Druid, Sorcerer, Wizard
-* [Sequester](../Magic/Spells/sequester.md): Wizard
-* [Shadow Walk](../Magic/Spells/shadow-walk.md): Sorcerer, Warlock, Wizard
-* [Shocking Aura](../Magic/Spells/shocking-aura.md): Cleric, Druid, Sorcerer, Wizard
-* [Sift Memory](../Magic/Spells/sift-memory.md): Bard, Wizard
-* [Simbul's Spell Sequencer](../Magic/Spells/simbuls-spell-sequencer.md): Bard, Sorcerer, Wizard
-* [Simulacrum](../Magic/Spells/simulacrum.md): Wizard
-* [Slime Wave](../Magic/Spells/slime-wave.md): Druid
-* [Spellsteal](../Magic/Spells/spellsteal.md): Wizard
-* [Sphere of Adaptation](../Magic/Spells/sphere-of-adaptation.md): Cleric, Druid, Sorcerer, Wizard
-* [Stone Spiders](../Magic/Spells/stone-spiders.md): Druid, Sorcerer, Wizard
-* [Storm God's Haste](../Magic/Spells/storm-gods-haste.md): Sorcerer, Wizard
-* [Storm Spear](../Magic/Spells/storm-spear.md): Sorcerer, Wizard
-* [Storm Tower](../Magic/Spells/storm-tower.md): Druid
-* [Storm of Elemental Fury](../Magic/Spells/storm-of-elemental-fury.md): Druid
-* [Sundered Bravery](../Magic/Spells/sundered-bravery.md): Bard, Cleric, Sorcerer
-* [Sunstone](../Magic/Spells/sunstone.md): Cleric
-* [Suspend Animation](../Magic/Spells/suspend-animation.md): Cleric, Druid, Warlock, Wizard
-* [Symbol](../Magic/Spells/symbol.md): Bard, Cleric, Druid, Pale Master, Wizard
-* [Symphonic Nightmare](../Magic/Spells/symphonic-nightmare.md): Bard, Cleric, Sorcerer, Wizard
-* [Synostodweomer](../Magic/Spells/synostodweomer.md): Sorcerer, Wizard
-* [Tartarean Tomb](../Magic/Spells/tartarean-tomb.md): Sorcerer, Warlock, Wizard
-* [Teleport](../Magic/Spells/teleport.md): Bard, Sorcerer, Wizard
-* [Temple of the Gods](../Magic/Spells/temple-of-the-gods.md): Cleric
-* [Tether Essence](../Magic/Spells/tether-essence.md): Wizard
-* [Thundercrash Cannon](../Magic/Spells/thundercrash-cannon.md): Sorcerer, Wizard
-* [Undeath to Death](../Magic/Spells/undeath-to-death.md): Cleric, Sorcerer, Wizard
-* [Vigorous Circle](../Magic/Spells/vigorous-circle.md): Cleric, Druid
-* [Vipergout](../Magic/Spells/vipergout.md): Druid, Sorcerer, Warlock, Wizard
-* [Vortex](../Magic/Spells/vortex.md): Cleric, Druid
-* [Waterspout](../Magic/Spells/waterspout.md): Druid
-* [Wesley's Delayed Damage](../Magic/Spells/wesleys-delayed-damage.md): Cleric, Druid
-* [Whirlwind](../Magic/Spells/whirlwind.md): Druid, Shaman, Wizard
-* [Wing Gifting](../Magic/Spells/wing-gifting.md): Sorcerer, Warlock, Wizard
-* [Withering Palm](../Magic/Spells/withering-palm.md): Cleric, Warlock
+* [Acid Rain](./acid-rain.md) (Sorcerer,Wizard)
+* [Amorphous Blob](./amorphous-blob.md) (Sorcerer,Wizard)
+* [Antimagic Ray](./antimagic-ray.md) (Bard,Sorcerer,Wizard)
+* [Arctic Wind](./arctic-wind.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Arrow of Bone](./arrow-of-bone.md) (Cleric,Pale Master,Sorcerer,Warlock,Wizard)
+* [Avasculate](./avasculate.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Beluud's bile blossom](./beluuds-bile-blossom.md) (Sorcerer,Wizard)
+* [Blood to Water](./blood-to-water.md) (Cleric,Warlock)
+* [Blossom Deluge](./blossom-deluge.md) (Sorcerer,Wizard)
+* [Bone Javelin](./bone-javelin.md) (Shaman,Warlock)
+* [Brilliant Blade](./brilliant-blade.md) (Druid,Sorcerer,Wizard)
+* [Changestaff](./changestaff.md) (Druid)
+* [Chariot of Sustarre](./chariot-of-sustarre.md) *ritual* (Cleric)
+* [Conjure Celestial](./conjure-celestial.md) (Cleric)
+* [Conjure Hezrou](./conjure-hezrou.md) (Sorcerer,Wizard)
+* [Conjure Remorhaz](./conjure-remorhaz.md) (Cleric)
+* [Conjure Shambling Mound](./conjure-shambling-mound.md) (Druid,Shaman)
+* [Conjure Wyrmling](./conjure-wyrmling.md) *ritual* (Sorcerer,Warlock,Wizard)
+* [Create Magen](./create-magen.md) (Wizard)
+* [Create Revenant](./create-revenant.md) (Cleric,Pale Master,Warlock,Wizard)
+* [Creeping Doom](./creeping-doom.md) (Druid)
+* [Crown of Stars](./crown-of-stars.md) (Sorcerer,Warlock,Wizard)
+* [Death Dragon](./death-dragon.md) (Cleric,Warlock)
+* [Death's Door](./deaths-door.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Delayed Blast Fireball](./delayed-blast-fireball.md) (Sorcerer,Wizard)
+* [Delayed Blast Frostball](./delayed-blast-frostball.md) (Sorcerer,Wizard)
+* [Dire Jinx](./dire-jinx.md) (Bard,Cleric,Warlock,Wizard)
+* [Divine Word](./divine-word.md) (Cleric)
+* [Draconic Transformation](./draconic-transformation.md) (Druid,Sorcerer,Wizard)
+* [Dream of the Blue Veil](./dream-of-the-blue-veil.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Elemental Body](./elemental-body.md) (Sorcerer,Wizard)
+* [Elemental Chains](./elemental-chains.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Eruption of Earth's Fury](./eruption-of-earths-fury.md) (Cleric,Druid)
+* [Etherealness](./etherealness.md) (Bard,Cleric,Pale Master,Shaman,Sorcerer,Warlock,Wizard)
+* [Evil Glare](./evil-glare.md) (Sorcerer,Warlock,Wizard)
+* [Explosive Rift](./explosive-rift.md) (Sorcerer,Wizard)
+* [Eyes of the Mage](./eyes-of-the-mage.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Far Song](./far-song.md) (Bard)
+* [Finger of Death](./finger-of-death.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Fire Storm](./fire-storm.md) (Cleric,Druid,Sorcerer)
+* [Flash Freeze](./flash-freeze.md) (Sorcerer,Wizard)
+* [Forcecage](./forcecage.md) (Bard,Pale Master,Warlock,Wizard)
+* [Glasya's Stride](./glasyas-stride.md) (Warlock)
+* [Globe of Winter](./globe-of-winter.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Great Worm of the Earth](./great-worm-of-the-earth.md) (Cleric,Druid)
+* [Greater Stone Shape](./greater-stone-shape.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Grimlore's Doom](./grimlores-doom.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Heart of Ice](./heart-of-ice.md) (Sorcerer,Warlock,Wizard)
+* [Hellfire Burst](./hellfire-burst.md) (Sorcerer,Warlock,Wizard)
+* [Hiss of Sleep](./hiss-of-sleep.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Holy Star](./holy-star.md) (Cleric)
+* [Holy Word](./holy-word.md) (Cleric)
+* [Ice Cave](./ice-cave.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Ice Claw](./ice-claw.md) (Sorcerer,Wizard)
+* [Inevitability of the Grave](./inevitability-of-the-grave.md) (Bard,Druid,Warlock,Wizard)
+* [Instill Vulnerability](./instill-vulnerability.md) (Cleric,Warlock)
+* [Ironguard](./ironguard.md) (Sorcerer,Wizard)
+* [Kelemvor's Irradiating Beam](./kelemvors-irradiating-beam.md) (Cleric,Wizard)
+* [Kiss of the Vampire](./kiss-of-the-vampire.md) (Sorcerer,Warlock,Wizard)
+* [Light to Shadow](./light-to-shadow.md) (Sorcerer,Wizard)
+* [Lightning Judgement](./lightning-judgement.md) (Sorcerer,Wizard)
+* [Living Burial](./living-burial.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Malady](./malady.md) (Cleric,Druid,Sorcerer,Warlock,Wizard)
+* [Malraz's Dramatic Death](./malrazs-dramatic-death.md) (Bard)
+* [Mantle of the Slime Lord](./mantle-of-the-slime-lord.md) (Cleric,Druid,Sorcerer,Warlock,Wizard)
+* [Mark of the Unfaithful](./mark-of-the-unfaithful.md) *ritual* (Cleric,Druid)
+* [Master Earth](./master-earth.md) (Sorcerer,Wizard)
+* [Mighty Roots](./mighty-roots.md) (Druid)
+* [Mind Fog](./mind-fog.md) (Bard,Druid,Sorcerer,Warlock,Wizard)
+* [Mirage Arcane](./mirage-arcane.md) (Bard,Druid,Shaman,Wizard)
+* [Mirror Army](./mirror-army.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Misty March](./misty-march.md) (Bard,Warlock,Wizard)
+* [Moonlight](./moonlight.md) (Druid,Wizard)
+* [Mordenkainen's Magnificent Mansion](./mordenkainens-magnificent-mansion.md) (Bard,Wizard)
+* [Mordenkainen's Penultimate Cogitation](./mordenkainens-penultimate-cogitation.md) (Sorcerer,Warlock,Wizard)
+* [Mordenkainen's Sword](./mordenkainens-sword.md) (Bard,Wizard)
+* [Otiluke's Death Screen](./otilukes-death-screen.md) (Sorcerer,Warlock,Wizard)
+* [Otiluke's Fire and Ice](./otilukes-fire-and-ice.md) (Sorcerer,Warlock,Wizard)
+* [Otiluke's Siege Sphere](./otilukes-siege-sphere.md) (Sorcerer,Warlock,Wizard)
+* [Overwhelm Emotions](./overwhelm-emotions.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Paralyzing Field](./paralyzing-field.md) (Bard)
+* [Pillar of Banishment](./pillar-of-banishment.md) (Sorcerer,Wizard)
+* [Plane Shift](./plane-shift.md) (Cleric,Druid,Shaman,Sorcerer,Warlock,Wizard)
+* [Poison Fang](./poison-fang.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Power Word Pain](./power-word-pain.md) (Sorcerer,Warlock,Wizard)
+* [Predict Action](./predict-action.md) (Wizard)
+* [Primordial Tides](./primordial-tides.md) (Druid,Sorcerer)
+* [Prismatic Spray](./prismatic-spray.md) (Bard,Sorcerer,Wizard)
+* [Project Image](./project-image.md) (Bard,Wizard)
+* [Pulse Cannon](./pulse-cannon.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Radiant Assault](./radiant-assault.md) (Cleric,Sorcerer,Wizard)
+* [Radical Beam](./radical-beam.md) (Sorcerer,Wizard)
+* [Refuge Talisman](./refuge-talisman.md) (Cleric,Sorcerer,Wizard)
+* [Regenerate](./regenerate.md) (Bard,Cleric,Druid,Shaman)
+* [Rescue the Dying](./rescue-the-dying.md) (Cleric,Druid)
+* [Resurrection](./resurrection.md) (Bard,Cleric,Pale Master)
+* [Reveille](./reveille.md) (Bard,Cleric,Wizard)
+* [Reverse Gravity](./reverse-gravity.md) (Druid,Shaman,Sorcerer,Wizard)
+* [Ruthless Assault](./ruthless-assault.md) (Cleric)
+* [Sandstorm](./sandstorm.md) (Druid,Sorcerer,Wizard)
+* [Sequester](./sequester.md) (Wizard)
+* [Shadow Walk](./shadow-walk.md) (Sorcerer,Warlock,Wizard)
+* [Shocking Aura](./shocking-aura.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Sift Memory](./sift-memory.md) (Bard,Wizard)
+* [Simbul's Spell Sequencer](./simbuls-spell-sequencer.md) (Bard,Sorcerer,Wizard)
+* [Simulacrum](./simulacrum.md) (Wizard)
+* [Slime Wave](./slime-wave.md) (Druid)
+* [Spellsteal](./spellsteal.md) (Wizard)
+* [Sphere of Adaptation](./sphere-of-adaptation.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Starlight Storm](./starlight-storm.md) (Sorcerer,Wizard)
+* [Stone Spiders](./stone-spiders.md) (Druid,Sorcerer,Wizard)
+* [Storm God's Haste](./storm-gods-haste.md) (Sorcerer,Wizard)
+* [Storm Spear](./storm-spear.md) (Sorcerer,Wizard)
+* [Storm Tower](./storm-tower.md) (Druid)
+* [Storm of Elemental Fury](./storm-of-elemental-fury.md) (Druid)
+* [Sundered Bravery](./sundered-bravery.md) (Bard,Cleric,Sorcerer)
+* [Sunstone](./sunstone.md) (Cleric)
+* [Suspend Animation](./suspend-animation.md) (Cleric,Druid,Warlock,Wizard)
+* [Symbol](./symbol.md) (Bard,Cleric,Druid,Pale Master,Wizard)
+* [Symphonic Nightmare](./symphonic-nightmare.md) (Bard,Cleric,Sorcerer,Wizard)
+* [Synostodweomer](./synostodweomer.md) (Sorcerer,Wizard)
+* [Tartarean Tomb](./tartarean-tomb.md) (Sorcerer,Warlock,Wizard)
+* [Teleport](./teleport.md) (Bard,Sorcerer,Wizard)
+* [Temple of the Gods](./temple-of-the-gods.md) (Cleric)
+* [Tether Essence](./tether-essence.md) (Wizard)
+* [Thermal Equilibrium](./thermal-equilibrium.md) (Bard,Cleric,Druid,Sorcerer,Wizard)
+* [Thundercrash Cannon](./thundercrash-cannon.md) (Sorcerer,Wizard)
+* [Undeath to Death](./undeath-to-death.md) (Cleric,Sorcerer,Wizard)
+* [Vigorous Circle](./vigorous-circle.md) (Cleric,Druid)
+* [Vipergout](./vipergout.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Vortex](./vortex.md) (Cleric,Druid)
+* [Waterspout](./waterspout.md) (Druid)
+* [Wesley's Delayed Damage](./wesleys-delayed-damage.md) (Cleric,Druid)
+* [Whirlwind](./whirlwind.md) (Druid,Shaman,Wizard)
+* [Wing Gifting](./wing-gifting.md) (Sorcerer,Warlock,Wizard)
+* [Withering Palm](./withering-palm.md) (Cleric,Warlock)
  
 ## 8th-Level Spells
-* [Abi-Dalzim's Horrid Wilting](../Magic/Spells/abi-dalzims-horrid-wilting.md): Pale Master, Sorcerer, Wizard
-* [Afterclap](../Magic/Spells/afterclap.md): Sorcerer, Wizard
-* [Alluvial Pool](../Magic/Spells/alluvial-pool.md): Druid, Sorcerer, Warlock, Wizard
-* [Analyze Dweomer](../Magic/Spells/analyze-dweomer.md): Sorcerer, Wizard
-* [Animal Shapes](../Magic/Spells/animal-shapes.md): Druid, Shaman
-* [Animate Tree](../Magic/Spells/animate-tree.md): Druid
-* [Antimagic Field](../Magic/Spells/antimagic-field.md): Cleric, Wizard
-* [Antipathy/Sympathy](../Magic/Spells/antipathy-sympathy.md): Bard, Druid, Shaman, Wizard
-* [Armament of Irritants](../Magic/Spells/armament-of-irritants.md): Druid, Pale Master
-* [Ascendancy of Vecna](../Magic/Spells/ascendancy-of-vecna.md): Pale Master, Warlock, Wizard
-* [Aura of Invisibility](../Magic/Spells/aura-of-invisibility.md): Bard, Sorcerer, Wizard
-* [Avascular Mass](../Magic/Spells/avascular-mass.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Barbed Construct](../Magic/Spells/barbed-construct.md): Warlock, Wizard
-* [Bite of the King](../Magic/Spells/bite-of-the-king.md): Druid, Warlock
-* [Blackfire](../Magic/Spells/blackfire.md): Sorcerer, Wizard
-* [Blackstaff](../Magic/Spells/blackstaff.md): Sorcerer, Warlock, Wizard
-* [Bloodbath](../Magic/Spells/bloodbath.md): Sorcerer, Warlock, Wizard
-* [Bodak's Glare](../Magic/Spells/bodaks-glare.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Bone Blade](../Magic/Spells/bone-blade.md): Cleric
-* [Boulder Bombardment](../Magic/Spells/boulder-bombardment.md): Druid, Sorcerer, Wizard
-* [Brain Spider](../Magic/Spells/brain-spider.md): Bard, Cleric
-* [Brand of Fire](../Magic/Spells/brand-of-fire.md): Cleric, Druid, Sorcerer
-* [Brilliant Aura](../Magic/Spells/brilliant-aura.md): Cleric, Druid, Sorcerer, Wizard
-* [Burn Path](../Magic/Spells/burn-path.md): Sorcerer, Warlock, Wizard
-* [Chalice of the Night](../Magic/Spells/chalice-of-the-night.md): Pale Master, Warlock, Wizard
-* [Clone](../Magic/Spells/clone.md): Pale Master, Wizard
-* [Conjure Dragon](../Magic/Spells/conjure-dragon.md): Cleric
-* [Contaminate](../Magic/Spells/contaminate.md): Druid, Sorcerer, Warlock, Wizard
-* [Control Weather](../Magic/Spells/control-weather.md): Cleric, Druid, Shaman, Wizard
-* [Corrosive Plume](../Magic/Spells/corrosive-plume.md): Sorcerer, Wizard
-* [Crown of Glory](../Magic/Spells/crown-of-glory.md): Cleric
-* [Cryostasis](../Magic/Spells/cryostasis.md): Cleric, Druid, Sorcerer, Wizard
-* [Curse of the Fey King](../Magic/Spells/curse-of-the-fey-king.md): Druid, Warlock
-* [Dark Star](../Magic/Spells/dark-star.md): Wizard
-* [Deadfall](../Magic/Spells/deadfall.md): Druid
-* [Death Spider](../Magic/Spells/death-spider.md): Cleric, Sorcerer, Wizard
-* [Demiplane](../Magic/Spells/demiplane.md): Sorcerer, Warlock, Wizard
-* [Dominate Monster](../Magic/Spells/dominate-monster.md): Bard, Sorcerer, Warlock, Wizard
-* [Dragon's Roar](../Magic/Spells/dragons-roar.md): Cleric
-* [Earthquake](../Magic/Spells/earthquake.md): Cleric, Druid, Shaman, Sorcerer
-* [Electric Interdiction](../Magic/Spells/electric-interdiction.md): Sorcerer, Wizard
-* [Elemental Meteor](../Magic/Spells/elemental-meteor.md): Wizard
-* [Encasing Ice](../Magic/Spells/encasing-ice.md): Druid, Sorcerer, Warlock, Wizard
-* [Feeblemind](../Magic/Spells/feeblemind.md): Bard, Druid, Pale Master, Warlock, Wizard
-* [Fist of Flame](../Magic/Spells/fist-of-flame.md): Sorcerer, Wizard
-* [Flaring Weapon](../Magic/Spells/flaring-weapon.md): Wizard
-* [Flensing](../Magic/Spells/flensing.md): Sorcerer, Wizard
-* [Gateway](../Magic/Spells/gateway.md): Sorcerer, Warlock, Wizard
-* [General of Undeath](../Magic/Spells/general-of-undeath.md): Cleric
-* [Glibness](../Magic/Spells/glibness.md): Bard, Druid, Warlock, Wizard
-* [Golem Armor](../Magic/Spells/golem-armor.md): Sorcerer, Warlock, Wizard
-* [Great Shout](../Magic/Spells/great-shout.md): Bard
-* [Great Voice](../Magic/Spells/greatvoice.md): Bard, Cleric, Sorcerer, Warlock, Wizard
-* [Greater Maelstrom](../Magic/Spells/greater-maelstrom.md): Druid
-* [Greater Telepathic Bond](../Magic/Spells/greater-telepathic-bond.md): Wizard
-* [Grimlore's Crippling Incursion](../Magic/Spells/grimlores-crippling-incursion.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Haunting Hour](../Magic/Spells/haunting-hour.md): Cleric, Pale Master, Warlock, Wizard
-* [Heart of Stone](../Magic/Spells/heart-of-stone.md): Sorcerer, Warlock, Wizard
-* [Heartbreak](../Magic/Spells/heartbreak.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Heat Drain](../Magic/Spells/heat-drain.md): Cleric, Warlock
-* [Hindal's Shrinking Hex](../Magic/Spells/hindals-shrinking-hex.md): Bard, Cleric, Druid, Sorcerer, Warlock, Wizard
-* [Holy Aura](../Magic/Spells/holy-aura.md): Cleric
-* [Horrid Withering](../Magic/Spells/horrid-withering.md): Sorcerer, Warlock, Wizard
-* [Illusory Dragon](../Magic/Spells/illusory-dragon.md): Wizard
-* [Incendiary Cloud](../Magic/Spells/incendiary-cloud.md): Druid, Sorcerer, Wizard
-* [Inferno Rain](../Magic/Spells/inferno-rain.md): Cleric, Druid, Sorcerer, Wizard
-* [Laeral's Invisible Blade](../Magic/Spells/laerals-invisible-blade.md): Bard, Sorcerer, Wizard
-* [Lasting Breath](../Magic/Spells/lasting-breath.md): Sorcerer, Wizard
-* [Levitate Landscape](../Magic/Spells/levitate-landscape.md): Wizard
-* [Lightning Tether](../Magic/Spells/lightning-tether.md): Cleric, Druid, Sorcerer, Wizard
-* [Maddening Darkness](../Magic/Spells/maddening-darkness.md): Warlock, Wizard
-* [Mass Awaken](../Magic/Spells/mass-awaken.md): Druid
-* [Mass Death Ward](../Magic/Spells/mass-death-ward.md): Cleric
-* [Mass Fire Shield](../Magic/Spells/mass-fire-shield.md): Sorcerer, Wizard
-* [Maze](../Magic/Spells/maze.md): Wizard
-* [Mighty Fortress](../Magic/Spells/mighty-fortress.md): Wizard
-* [Mind Blank](../Magic/Spells/mind-blank.md): Bard, Pale Master, Wizard
-* [Mind Bomb](../Magic/Spells/mind-bomb.md): Wizard
-* [Necrotic Web](../Magic/Spells/necrotic-web.md): Sorcerer, Warlock, Wizard
-* [Otiluke's Telekinetic Sphere](../Magic/Spells/otilukes-telekinetic-sphere.md): Sorcerer, Wizard
-* [Polar Ray](../Magic/Spells/polar-ray.md): Sorcerer, Wizard
-* [Power Word Stun](../Magic/Spells/power-word-stun.md): Bard, Pale Master, Sorcerer, Warlock, Wizard
-* [Prismal's Wormhole](../Magic/Spells/prismals-wormhole.md): Bard, Sorcerer, Wizard
-* [Pummeling Drumbeat](../Magic/Spells/pummeling-drumbeat.md): Bard
-* [Reality Break](../Magic/Spells/reality-break.md): Wizard
-* [Reflect Monster](../Magic/Spells/reflect-monster.md): Bard, Sorcerer, Warlock, Wizard
-* [Reign of Winter](../Magic/Spells/reign-of-winter.md): Cleric, Druid, Sorcerer, Wizard
-* [Reverse Teleport](../Magic/Spells/reverse-teleport.md): Sorcerer, Warlock, Wizard
-* [Reverse Teleportation](../Magic/Spells/reverse-teleportation.md): Wizard
-* [Sandman's Slumber](../Magic/Spells/sandmans-slumber.md): Bard, Sorcerer, Wizard
-* [Scornful Mantle of the Undaunted](../Magic/Spells/scornful-mantle-of-the-undaunted.md): Bard, Cleric, Pale Master
-* [Shifting Paths](../Magic/Spells/shifting-paths.md): Cleric, Druid, Sorcerer, Wizard
-* [Shooting Stars](../Magic/Spells/shooting-stars.md): Bard, Sorcerer, Wizard
-* [Smiting Bolt](../Magic/Spells/smiting-bolt.md): Cleric, Druid, Sorcerer, Wizard
-* [Song of Battle](../Magic/Spells/song-of-battle.md): Bard
-* [Soul Expulsion](../Magic/Spells/soul-expulsion.md): Cleric, Sorcerer, Wizard
-* [Soul Imprisonment](../Magic/Spells/soul-imprisonment.md): Pale Master, Warlock, Wizard
-* [Spell Engine](../Magic/Spells/spell-engine.md): Wizard
-* [Stone Walk](../Magic/Spells/stone-walk.md): Cleric, Druid
-* [Stormrage](../Magic/Spells/stormrage.md): Cleric, Druid
-* [Sunburst](../Magic/Spells/sunburst.md): Cleric, Druid, Sorcerer, Wizard
-* [Superior Invisibility](../Magic/Spells/superior-invisibility.md): Bard, Sorcerer, Warlock, Wizard
-* [Telepathy](../Magic/Spells/telepathy.md): Wizard
-* [Temporal Stasis](../Magic/Spells/temporal-stasis.md): Sorcerer, Wizard
-* [Trait Rip](../Magic/Spells/trait-rip.md): Sorcerer, Warlock, Wizard
-* [Tsunami](../Magic/Spells/tsunami.md): Druid
-* [Unyielding Roots](../Magic/Spells/unyielding-roots.md): Druid
-* [Vertigo](../Magic/Spells/vertigo.md): Cleric, Druid, Sorcerer, Warlock, Wizard
-* [Wall of Lava](../Magic/Spells/wall-of-lava.md): Druid, Sorcerer, Warlock, Wizard
-* [Wasting](../Magic/Spells/wasting.md): Sorcerer, Warlock, Wizard
-* [Wave of Death](../Magic/Spells/wave-of-death.md): Sorcerer, Warlock, Wizard
-* [Windcage](../Magic/Spells/windcage.md): Druid, Sorcerer, Wizard
-* [Wrathful Castigation](../Magic/Spells/wrathful-castigation.md): Cleric, Sorcerer, Warlock, Wizard
+* [Abi-Dalzim's Horrid Wilting](./abi-dalzims-horrid-wilting.md) (Pale Master,Sorcerer,Wizard)
+* [Afterclap](./afterclap.md) (Sorcerer,Wizard)
+* [Alluvial Pool](./alluvial-pool.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Analyze Dweomer](./analyze-dweomer.md) *ritual* (Sorcerer,Wizard)
+* [Animal Shapes](./animal-shapes.md) (Druid,Shaman)
+* [Animate Tree](./animate-tree.md) (Druid)
+* [Antimagic Field](./antimagic-field.md) (Cleric,Wizard)
+* [Antipathy/Sympathy](./antipathy-sympathy.md) (Bard,Druid,Shaman,Wizard)
+* [Armament of Irritants](./armament-of-irritants.md) (Druid,Pale Master)
+* [Ascendancy of Vecna](./ascendancy-of-vecna.md) (Pale Master,Warlock,Wizard)
+* [Aura of Invisibility](./aura-of-invisibility.md) (Bard,Sorcerer,Wizard)
+* [Avascular Mass](./avascular-mass.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Barbed Construct](./barbed-construct.md) (Warlock,Wizard)
+* [Bite of the King](./bite-of-the-king.md) (Druid,Warlock)
+* [Blackfire](./blackfire.md) (Sorcerer,Wizard)
+* [Blackstaff](./blackstaff.md) (Sorcerer,Warlock,Wizard)
+* [Bloodbath](./bloodbath.md) (Sorcerer,Warlock,Wizard)
+* [Bodak's Glare](./bodaks-glare.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Bone Blade](./bone-blade.md) (Cleric)
+* [Boulder Bombardment](./boulder-bombardment.md) (Druid,Sorcerer,Wizard)
+* [Brain Spider](./brain-spider.md) *ritual* (Bard,Cleric)
+* [Brand of Fire](./brand-of-fire.md) (Cleric,Druid,Sorcerer)
+* [Brilliant Aura](./brilliant-aura.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Burn Path](./burn-path.md) (Sorcerer,Warlock,Wizard)
+* [Cacophony of Thunder](./cacophony-of-thunder.md) (Bard,Sorcerer,Wizard)
+* [Chalice of the Night](./chalice-of-the-night.md) (Pale Master,Warlock,Wizard)
+* [Clone](./clone.md) (Pale Master,Wizard)
+* [Conjure Dragon](./conjure-dragon.md) (Cleric)
+* [Contaminate](./contaminate.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Control Weather](./control-weather.md) (Cleric,Druid,Shaman,Wizard)
+* [Corrosive Plume](./corrosive-plume.md) (Sorcerer,Wizard)
+* [Crown of Glory](./crown-of-glory.md) (Cleric)
+* [Cryostasis](./cryostasis.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Curse of the Fey King](./curse-of-the-fey-king.md) (Druid,Warlock)
+* [Dark Star](./dark-star.md) (Wizard)
+* [Deadfall](./deadfall.md) (Druid)
+* [Death Spider](./death-spider.md) (Cleric,Sorcerer,Wizard)
+* [Demiplane](./demiplane.md) (Sorcerer,Warlock,Wizard)
+* [Dominate Monster](./dominate-monster.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Dragon's Roar](./dragons-roar.md) (Cleric)
+* [Earthquake](./earthquake.md) (Cleric,Druid,Shaman,Sorcerer)
+* [Electric Interdiction](./electric-interdiction.md) (Sorcerer,Wizard)
+* [Elemental Meteor](./elemental-meteor.md) (Wizard)
+* [Encasing Ice](./encasing-ice.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Erupting Flames](./erupting-flames.md) (Sorcerer,Wizard)
+* [Feeblemind](./feeblemind.md) (Bard,Druid,Pale Master,Warlock,Wizard)
+* [Fist of Flame](./fist-of-flame.md) (Sorcerer,Wizard)
+* [Flaring Weapon](./flaring-weapon.md) (Wizard)
+* [Flensing](./flensing.md) (Sorcerer,Wizard)
+* [Gateway](./gateway.md) (Sorcerer,Warlock,Wizard)
+* [General of Undeath](./general-of-undeath.md) (Cleric)
+* [Glacial Construction](./glacial-construction.md) (Sorcerer,Wizard)
+* [Glibness](./glibness.md) (Bard,Druid,Warlock,Wizard)
+* [Golem Armor](./golem-armor.md) (Sorcerer,Warlock,Wizard)
+* [Great Shout](./great-shout.md) (Bard)
+* [Great Voice](./greatvoice.md) (Bard,Cleric,Sorcerer,Warlock,Wizard)
+* [Greater Maelstrom](./greater-maelstrom.md) (Druid)
+* [Greater Telepathic Bond](./greater-telepathic-bond.md) (Wizard)
+* [Grimlore's Crippling Incursion](./grimlores-crippling-incursion.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Haunting Hour](./haunting-hour.md) (Cleric,Pale Master,Warlock,Wizard)
+* [Heart of Stone](./heart-of-stone.md) *ritual* (Sorcerer,Warlock,Wizard)
+* [Heartbreak](./heartbreak.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Heat Drain](./heat-drain.md) (Cleric,Warlock)
+* [Hindal's Shrinking Hex](./hindals-shrinking-hex.md) (Bard,Cleric,Druid,Sorcerer,Warlock,Wizard)
+* [Holy Aura](./holy-aura.md) (Cleric)
+* [Horrid Withering](./horrid-withering.md) (Sorcerer,Warlock,Wizard)
+* [Illusory Dragon](./illusory-dragon.md) (Wizard)
+* [Incendiary Cloud](./incendiary-cloud.md) (Druid,Sorcerer,Wizard)
+* [Inferno Rain](./inferno-rain.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Laeral's Invisible Blade](./laerals-invisible-blade.md) (Bard,Sorcerer,Wizard)
+* [Lasting Breath](./lasting-breath.md) (Sorcerer,Wizard)
+* [Levitate Landscape](./levitate-landscape.md) (Wizard)
+* [Lightning Shower](./lightning-shower.md) (Sorcerer,Wizard)
+* [Lightning Tether](./lightning-tether.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Maddening Darkness](./maddening-darkness.md) (Warlock,Wizard)
+* [Mass Awaken](./mass-awaken.md) (Druid)
+* [Mass Death Ward](./mass-death-ward.md) (Cleric)
+* [Mass Fire Shield](./mass-fire-shield.md) (Sorcerer,Wizard)
+* [Mass Immolation](./mass-immolation.md) (Sorcerer,Wizard)
+* [Maze](./maze.md) (Wizard)
+* [Mighty Fortress](./mighty-fortress.md) (Wizard)
+* [Mind Blank](./mind-blank.md) (Bard,Pale Master,Wizard)
+* [Mind Bomb](./mind-bomb.md) (Wizard)
+* [Necrotic Web](./necrotic-web.md) (Sorcerer,Warlock,Wizard)
+* [Otiluke's Telekinetic Sphere](./otilukes-telekinetic-sphere.md) (Sorcerer,Wizard)
+* [Oversurge](./oversurge.md) (Sorcerer,Wizard)
+* [Pillar of Petrification](./pillar-of-petrification.md) (Sorcerer,Wizard)
+* [Polar Ray](./polar-ray.md) (Sorcerer,Wizard)
+* [Power Word Stun](./power-word-stun.md) (Bard,Pale Master,Sorcerer,Warlock,Wizard)
+* [Prismal's Wormhole](./prismals-wormhole.md) (Bard,Sorcerer,Wizard)
+* [Prismatic Orb](./prismatic-orb.md) (Sorcerer,Wizard)
+* [Pummeling Drumbeat](./pummeling-drumbeat.md) (Bard)
+* [Reality Break](./reality-break.md) (Wizard)
+* [Reflect Monster](./reflect-monster.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Reign of Winter](./reign-of-winter.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Reverse Teleport](./reverse-teleport.md) (Sorcerer,Warlock,Wizard)
+* [Reverse Teleportation](./reverse-teleportation.md) (Wizard)
+* [Sandman's Slumber](./sandmans-slumber.md) (Bard,Sorcerer,Wizard)
+* [Scornful Mantle of the Undaunted](./scornful-mantle-of-the-undaunted.md) (Bard,Cleric,Pale Master)
+* [Shifting Paths](./shifting-paths.md) *ritual* (Cleric,Druid,Sorcerer,Wizard)
+* [Shooting Stars](./shooting-stars.md) (Bard,Sorcerer,Wizard)
+* [Smiting Bolt](./smiting-bolt.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Song of Battle](./song-of-battle.md) (Bard)
+* [Soul Expulsion](./soul-expulsion.md) (Cleric,Sorcerer,Wizard)
+* [Soul Imprisonment](./soul-imprisonment.md) (Pale Master,Warlock,Wizard)
+* [Spell Engine](./spell-engine.md) (Wizard)
+* [Stone Walk](./stone-walk.md) (Cleric,Druid)
+* [Stormrage](./stormrage.md) (Cleric,Druid)
+* [Sunburst](./sunburst.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Superior Invisibility](./superior-invisibility.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Telepathy](./telepathy.md) (Wizard)
+* [Temporal Stasis](./temporal-stasis.md) (Sorcerer,Wizard)
+* [Trait Rip](./trait-rip.md) (Sorcerer,Warlock,Wizard)
+* [Tsunami](./tsunami.md) (Druid)
+* [Unyielding Roots](./unyielding-roots.md) (Druid)
+* [Vertigo](./vertigo.md) (Cleric,Druid,Sorcerer,Warlock,Wizard)
+* [Wall of Lava](./wall-of-lava.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Wasting](./wasting.md) (Sorcerer,Warlock,Wizard)
+* [Wave of Death](./wave-of-death.md) (Sorcerer,Warlock,Wizard)
+* [Windcage](./windcage.md) (Druid,Sorcerer,Wizard)
+* [Wrathful Castigation](./wrathful-castigation.md) (Cleric,Sorcerer,Warlock,Wizard)
  
 ## 9th-Level Spells
-* [Absorption Ward](../Magic/Spells/absorption-ward.md): Sorcerer, Wizard
-* [Acid Ward](../Magic/Spells/acid-ward.md): Sorcerer, Wizard
-* [Alamanther's Return](../Magic/Spells/alamanthers-return.md): Wizard
-* [Ammar's Deep Freeze](../Magic/Spells/ammars-deep-freeze.md): Sorcerer, Wizard
-* [Amnesia](../Magic/Spells/amnesia.md): Bard, Warlock, Wizard
-* [Anathema](../Magic/Spells/anathema.md): Cleric, Druid
-* [Apocalypse from the Sky](../Magic/Spells/apocalypse-from-the-sky.md): Sorcerer, Warlock, Wizard
-* [Asmodeus' Eternal Suffering](../Magic/Spells/asmodeus-eternal-suffering.md): Cleric, Warlock, Wizard
-* [Astral Projection](../Magic/Spells/astral-projection.md): Cleric, Pale Master, Shaman, Warlock, Wizard
-* [Aurora Blast](../Magic/Spells/aurora-blast.md): Cleric, Druid, Sorcerer, Wizard
-* [Awaken Construct](../Magic/Spells/awaken-construct.md): Cleric, Pale Master, Sorcerer, Wizard
-* [Awaken the Dead](../Magic/Spells/awaken-the-dead.md): Cleric, Pale Master, Warlock, Wizard
-* [Basilisk Glare](../Magic/Spells/basilisk-glare.md): Cleric, Druid
-* [Bixmodeus' Binding of Perduring Possession](../Magic/Spells/bixmodeus-binding-of-perduring-possession.md): Pale Master, Wizard
-* [Black Blade of Disaster](../Magic/Spells/black-blade-of-disaster.md): Sorcerer, Wizard
-* [Blade of Disaster](../Magic/Spells/blade-of-disaster.md): Sorcerer, Warlock, Wizard
-* [Blasphemous](../Magic/Spells/blasphemous.md): Warlock, Wizard
-* [Blood to Flame](../Magic/Spells/blood-to-flame.md): Sorcerer, Warlock, Wizard
-* [Brainblaze](../Magic/Spells/brainblaze.md): Sorcerer, Warlock, Wizard
-* [Burst of Glacial Wrath](../Magic/Spells/burst-of-glacial-wrath.md): Bard, Sorcerer, Warlock, Wizard
-* [Caldera](../Magic/Spells/caldera.md): Druid, Wizard
-* [Cast in Stone](../Magic/Spells/cast-in-stone.md): Druid, Warlock
-* [Combustion](../Magic/Spells/combustion.md): Druid, Wizard
-* [Conflagration](../Magic/Spells/conflagration.md): Warlock
-* [Crushing Fist of Spite](../Magic/Spells/crushing-fist-of-spite.md): Sorcerer, Warlock, Wizard
-* [Crystalbrittle](../Magic/Spells/crystalbrittle.md): Sorcerer, Wizard
-* [Decimation Bolts](../Magic/Spells/decimation-bolts.md): Cleric, Druid, Sorcerer, Wizard
-* [Desolation](../Magic/Spells/desolation.md): Sorcerer, Wizard
-* [Duplication](../Magic/Spells/duplication.md): Wizard
-* [Earth Whelm](../Magic/Spells/earth-whelm.md): Druid, Wizard
-* [Effulgent Epuration](../Magic/Spells/effulgent-epuration.md): Sorcerer, Wizard
-* [Elemental Step](../Magic/Spells/elemental-step.md): Sorcerer, Wizard
-* [Energy Drain](../Magic/Spells/energy-drain.md): Cleric, Sorcerer, Wizard
-* [Exemplar of Self](../Magic/Spells/exemplar-of-self.md): Wizard
-* [Eye of Power](../Magic/Spells/eye-of-power.md): Sorcerer, Wizard
-* [Flame Body](../Magic/Spells/flame-body.md): Cleric, Druid, Sorcerer, Wizard
-* [Foresight](../Magic/Spells/foresight.md): Bard, Druid, Shaman, Warlock, Wizard
-* [Frailty](../Magic/Spells/frailty.md): Cleric, Druid, Warlock, Wizard
-* [Gate](../Magic/Spells/gate.md): Cleric, Sorcerer, Warlock, Wizard
-* [Glacial Tide](../Magic/Spells/glacial-tide.md): Sorcerer, Wizard
-* [Glorious Transmutation](../Magic/Spells/glorious-transmutation.md): Sorcerer, Wizard
-* [Grand Flood](../Magic/Spells/grand-flood.md): Cleric, Druid
-* [Gravity Well](../Magic/Spells/gravity-well.md): Wizard
-* [Greater Midnight](../Magic/Spells/greatermidnight.md): Cleric, Druid, Sorcerer, Warlock, Wizard
-* [Greater Whirlwind](../Magic/Spells/greater-whirlwind.md): Druid
-* [Grievous Star](../Magic/Spells/grievous-star.md): Wizard
-* [Grimlore's Calamity](../Magic/Spells/grimlores-calamity.md): Pale Master, Sorcerer, Warlock, Wizard
-* [Hindsight](../Magic/Spells/hindsight.md): Sorcerer, Wizard
-* [Ice Mountain](../Magic/Spells/ice-mountain.md): Cleric, Druid, Sorcerer, Wizard
-* [Implosion](../Magic/Spells/implosion.md): Cleric
-* [Imprisonment](../Magic/Spells/imprisonment.md): Warlock, Wizard
-* [Instant Refuge](../Magic/Spells/instant-refuge.md): Bard, Sorcerer, Wizard
-* [Interplanar Telepathic Bond](../Magic/Spells/interplanar-telepathic-bond.md): Sorcerer, Wizard
-* [Invulnerability](../Magic/Spells/invulnerability.md): Wizard
-* [Khelben's Dweomerdoom](../Magic/Spells/khelbens-dweomerdoom.md): Sorcerer, Warlock, Wizard
-* [Laeral's Crowning Touch](../Magic/Spells/laerals-crowning-touch.md): Sorcerer, Wizard
-* [Mass Heal](../Magic/Spells/mass-heal.md): Cleric
-* [Mass Invisibility](../Magic/Spells/mass-invisibility.md): Bard, Sorcerer, Warlock, Wizard
-* [Mass Polymorph](../Magic/Spells/mass-polymorph.md): Bard, Sorcerer, Wizard
-* [Mass Renewal](../Magic/Spells/mass-renewal.md): Bard, Cleric, Druid
-* [Megalith](../Magic/Spells/megalith.md): Sorcerer, Wizard
-* [Meteor Swarm](../Magic/Spells/meteor-swarm.md): Sorcerer, Wizard
-* [Monstrous Thrall](../Magic/Spells/monstrous-thrall.md): Bard, Cleric, Warlock
-* [Moonfire](../Magic/Spells/moonfire.md): Druid, Sorcerer, Warlock, Wizard
-* [Mordenkainen's Disjunction](../Magic/Spells/mordenkainens-disjunction.md): Sorcerer, Warlock, Wizard
-* [Mycontil's Last Resort](../Magic/Spells/mycontils-last-resort.md): Sorcerer, Wizard
-* [Nature's Avatar](../Magic/Spells/natures-avatar.md): Druid
-* [Obedient Avalanche](../Magic/Spells/obedient-avalanche.md): Druid, Sorcerer, Wizard
-* [Obliteration Beam](../Magic/Spells/obliteration-beam.md): Sorcerer, Wizard
-* [Omnisight](../Magic/Spells/omnisight.md): Bard, Cleric, Druid, Warlock, Wizard
-* [Ordainment of Colors](../Magic/Spells/ordainment-of-colors.md): Cleric, Sorcerer, Warlock, Wizard
-* [Ordainment of Crystal](../Magic/Spells/ordainment-of-crystal.md): Sorcerer, Wizard
-* [Ordainment of Darkness](../Magic/Spells/ordainment-of-darkness.md): Cleric, Pale Master, Sorcerer, Warlock, Wizard
-* [Ordainment of Lava](../Magic/Spells/ordainment-of-lava.md): Sorcerer, Wizard
-* [Ordainment of Metal](../Magic/Spells/ordainment-of-metal.md): Bard, Cleric, Sorcerer, Wizard
-* [Ordainment of Mist](../Magic/Spells/ordainment-of-mist.md): Druid, Sorcerer, Wizard
-* [Ordainment of Slime](../Magic/Spells/ordainment-of-slime.md): Druid, Sorcerer, Warlock, Wizard
-* [Ordainment of Storms](../Magic/Spells/ordainment-of-storms.md): Druid, Sorcerer, Wizard
-* [Ordainment of Void](../Magic/Spells/ordainment-of-void.md): Bard, Sorcerer, Warlock, Wizard
-* [Pestilence](../Magic/Spells/pestilence.md): Cleric, Druid, Warlock, Wizard
-* [Phantom World](../Magic/Spells/phantom-world.md): Bard, Warlock, Wizard
-* [Pierce Any Shield](../Magic/Spells/pierce-any-shield.md): Sorcerer, Warlock, Wizard
-* [Plague of Undead](../Magic/Spells/plague-of-undead.md): Cleric, Sorcerer, Wizard
-* [Plasma Coil](../Magic/Spells/plasma-coil.md): Sorcerer, Wizard
-* [Power Word Heal](../Magic/Spells/power-word-heal.md): Bard, Cleric
-* [Power Word Kill](../Magic/Spells/power-word-kill.md): Bard, Pale Master, Sorcerer, Warlock, Wizard
-* [Prismatic Wall](../Magic/Spells/prismatic-wall.md): Bard, Wizard
-* [Psychic Scream](../Magic/Spells/psychic-scream.md): Bard, Sorcerer, Warlock, Wizard
-* [Pyroclastic Cataclysm](../Magic/Spells/pyroclastic-cataclysm.md): Wizard
-* [Raiju Ascension](../Magic/Spells/raiju-ascension.md): Cleric, Druid, Sorcerer, Wizard
-* [Raise Abomination](../Magic/Spells/raise-abomination.md): Cleric, Warlock, Wizard
-* [Ravenous Void](../Magic/Spells/ravenous-void.md): Wizard
-* [Reality Maelstrom](../Magic/Spells/reality-maelstrom.md): Sorcerer, Warlock, Wizard
-* [Replicate](../Magic/Spells/replicate.md): Wizard
-* [Resonance](../Magic/Spells/resonance.md): Bard, Sorcerer, Wizard
-* [Rizzak's Red Death ](../Magic/Spells/rizzaks-red-death.md): Sorcerer, Warlock, Wizard
-* [Saga of Foretold Doom](../Magic/Spells/saga-of-foretold-doom.md): Bard
-* [Shapechange](../Magic/Spells/shapechange.md): Druid, Shaman, Warlock, Wizard
-* [Singularity](../Magic/Spells/singularity.md): Wizard
-* [Sphere of Ultimate Destruction](../Magic/Spells/sphere-of-ultimate-destruction.md): Sorcerer, Warlock, Wizard
-* [Sphere of Wonder](../Magic/Spells/sphere-of-wonder.md): Cleric
-* [Storm of Vengeance](../Magic/Spells/storm-of-vengeance.md): Druid
-* [Succor](../Magic/Spells/succor.md): Sorcerer, Warlock, Wizard
-* [Summon Primal Spirit](../Magic/Spells/summon-primal-spirit.md): Druid
-* [Tamara's Rebirth](../Magic/Spells/tamaras-rebirth.md): Bard, Cleric, Druid, Pale Master
-* [Tempestcone](../Magic/Spells/tempestcone.md): Sorcerer, Warlock, Wizard
-* [Thunderous Tornado](../Magic/Spells/thunderous-tornado.md): Sorcerer, Wizard
-* [Time Ravage](../Magic/Spells/time-ravage.md): Wizard
-* [Time Stop](../Magic/Spells/time-stop.md): Sorcerer, Wizard
-* [Torch of Life](../Magic/Spells/torch-of-life.md): Cleric, Druid
-* [Transmute Rock to Lava](../Magic/Spells/transmute-rock-to-lava.md): Druid, Sorcerer, Wizard
-* [True Polymorph](../Magic/Spells/true-polymorph.md): Bard, Warlock, Wizard
-* [True Resurrection](../Magic/Spells/true-resurrection.md): Cleric, Druid, Pale Master, Shaman
-* [Unbinding](../Magic/Spells/unbinding.md): Sorcerer, Wizard
-* [Undeath's Eternal Foe](../Magic/Spells/undeaths-eternal-foe.md): Cleric
-* [Unname](../Magic/Spells/unname.md): Sorcerer, Warlock, Wizard
-* [Vampiric Youthfulness](../Magic/Spells/vampiric-youthfulness.md): Sorcerer, Warlock, Wizard
-* [Vaporize](../Magic/Spells/vaporize.md): Cleric, Druid
-* [Virus Charm](../Magic/Spells/virus-charm.md): Sorcerer, Warlock, Wizard
-* [Visage of the Deity](../Magic/Spells/visage-of-the-deity.md): Cleric
-* [Volcanic Eruption](../Magic/Spells/volcanic-eruption.md): Cleric, Druid, Wizard
-* [Vorpal Doom](../Magic/Spells/vorpal-doom.md): Cleric, Sorcerer, Warlock, Wizard
-* [Wail of the Banshee](../Magic/Spells/wail-of-the-banshee.md): Sorcerer, Wizard
-* [Weird](../Magic/Spells/weird.md): Warlock, Wizard
-* [Wind Wake](../Magic/Spells/wind-wake.md): Bard, Druid, Sorcerer, Wizard
-* [Wish](../Magic/Spells/wish.md): Sorcerer, Wizard
+* [Absorption Ward](./absorption-ward.md) (Sorcerer,Wizard)
+* [Acid Ward](./acid-ward.md) (Sorcerer,Wizard)
+* [Alamanther's Return](./alamanthers-return.md) (Wizard)
+* [Ammar's Deep Freeze](./ammars-deep-freeze.md) (Sorcerer,Wizard)
+* [Amnesia](./amnesia.md) (Bard,Warlock,Wizard)
+* [Anathema](./anathema.md) *ritual* (Cleric,Druid)
+* [Apocalypse from the Sky](./apocalypse-from-the-sky.md) (Sorcerer,Warlock,Wizard)
+* [Asmodeus' Eternal Suffering](./asmodeus-eternal-suffering.md) (Cleric,Warlock,Wizard)
+* [Astral Projection](./astral-projection.md) (Cleric,Pale Master,Shaman,Warlock,Wizard)
+* [Aurora Blast](./aurora-blast.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Awaken Construct](./awaken-construct.md) (Cleric,Pale Master,Sorcerer,Wizard)
+* [Awaken the Dead](./awaken-the-dead.md) (Cleric,Pale Master,Warlock,Wizard)
+* [Basilisk Glare](./basilisk-glare.md) (Cleric,Druid)
+* [Bixmodeus' Binding of Perduring Possession](./bixmodeus-binding-of-perduring-possession.md) (Pale Master,Wizard)
+* [Black Blade of the Void](./black-blade-of-the-void.md) (Sorcerer,Wizard)
+* [Black Coffin](./black-coffin.md) (Sorcerer,Warlock,Wizard)
+* [Blade of Disaster](./blade-of-disaster.md) (Sorcerer,Warlock,Wizard)
+* [Blasphemous](./blasphemous.md) (Warlock,Wizard)
+* [Blaze Inferno](./blaze-inferno.md) (Sorcerer,Wizard)
+* [Blood to Flame](./blood-to-flame.md) (Sorcerer,Warlock,Wizard)
+* [Brainblaze](./brainblaze.md) (Sorcerer,Warlock,Wizard)
+* [Burst of Glacial Wrath](./burst-of-glacial-wrath.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Caldera](./caldera.md) (Druid,Wizard)
+* [Calm the Skies](./calm-the-skies.md) (Bard,Cleric,Druid,Wizard)
+* [Cast in Stone](./cast-in-stone.md) (Druid,Warlock)
+* [Combustion](./combustion.md) (Druid,Wizard)
+* [Conflagration](./conflagration.md) (Warlock)
+* [Crushing Fist of Spite](./crushing-fist-of-spite.md) (Sorcerer,Warlock,Wizard)
+* [Crystalbrittle](./crystalbrittle.md) (Sorcerer,Wizard)
+* [Decimation Bolts](./decimation-bolts.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Desolation](./desolation.md) (Sorcerer,Wizard)
+* [Divine Arm](./divine-arm.md) (Cleric)
+* [Duplication](./duplication.md) (Wizard)
+* [Earth Whelm](./earth-whelm.md) (Druid,Wizard)
+* [Effulgent Epuration](./effulgent-epuration.md) (Sorcerer,Wizard)
+* [Elemental Step](./elemental-step.md) (Sorcerer,Wizard)
+* [Elemental Storm](./elemental-storm.md) (Druid,Sorcerer,Wizard)
+* [Energy Drain](./energy-drain.md) (Cleric,Sorcerer,Wizard)
+* [Exemplar of Self](./exemplar-of-self.md) (Wizard)
+* [Eye of Power](./eye-of-power.md) (Sorcerer,Wizard)
+* [Flame Body](./flame-body.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Foresight](./foresight.md) (Bard,Druid,Shaman,Warlock,Wizard)
+* [Frailty](./frailty.md) (Cleric,Druid,Warlock,Wizard)
+* [Frigid Vortex](./frigid-vortex.md) (Druid,Sorcerer,Wizard)
+* [Gate](./gate.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Glacial Tide](./glacial-tide.md) (Sorcerer,Wizard)
+* [Glorious Transmutation](./glorious-transmutation.md) (Sorcerer,Wizard)
+* [Grand Flood](./grand-flood.md) (Cleric,Druid)
+* [Gravity Well](./gravity-well.md) (Wizard)
+* [Greater Midnight](./greatermidnight.md) (Cleric,Druid,Sorcerer,Warlock,Wizard)
+* [Greater Whirlwind](./greater-whirlwind.md) (Druid)
+* [Grievous Star](./grievous-star.md) (Wizard)
+* [Grimlore's Calamity](./grimlores-calamity.md) (Pale Master,Sorcerer,Warlock,Wizard)
+* [Hindsight](./hindsight.md) (Sorcerer,Wizard)
+* [Ice Mountain](./ice-mountain.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Implosion](./implosion.md) (Cleric)
+* [Imprisonment](./imprisonment.md) (Warlock,Wizard)
+* [Instant Refuge](./instant-refuge.md) *ritual* (Bard,Sorcerer,Wizard)
+* [Interplanar Telepathic Bond](./interplanar-telepathic-bond.md) (Sorcerer,Wizard)
+* [Invulnerability](./invulnerability.md) (Wizard)
+* [Khelben's Dweomerdoom](./khelbens-dweomerdoom.md) (Sorcerer,Warlock,Wizard)
+* [Laeral's Crowning Touch](./laerals-crowning-touch.md) (Sorcerer,Wizard)
+* [Luminous Tower](./luminous-tower.md) (Wizard)
+* [Mass Heal](./mass-heal.md) (Cleric)
+* [Mass Invisibility](./mass-invisibility.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Mass Polymorph](./mass-polymorph.md) (Bard,Sorcerer,Wizard)
+* [Mass Renewal](./mass-renewal.md) (Bard,Cleric,Druid)
+* [Megalith](./megalith.md) (Sorcerer,Wizard)
+* [Meteor Swarm](./meteor-swarm.md) (Sorcerer,Wizard)
+* [Monstrous Thrall](./monstrous-thrall.md) (Bard,Cleric,Warlock)
+* [Moonfire](./moonfire.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Mordenkainen's Disjunction](./mordenkainens-disjunction.md) (Sorcerer,Warlock,Wizard)
+* [Mycontil's Last Resort](./mycontils-last-resort.md) (Sorcerer,Wizard)
+* [Nature's Avatar](./natures-avatar.md) (Druid)
+* [Obedient Avalanche](./obedient-avalanche.md) (Druid,Sorcerer,Wizard)
+* [Obliteration Beam](./obliteration-beam.md) (Sorcerer,Wizard)
+* [Omnisight](./omnisight.md) (Bard,Cleric,Druid,Warlock,Wizard)
+* [Ordainment of Colors](./ordainment-of-colors.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Ordainment of Crystal](./ordainment-of-crystal.md) (Sorcerer,Wizard)
+* [Ordainment of Darkness](./ordainment-of-darkness.md) (Cleric,Pale Master,Sorcerer,Warlock,Wizard)
+* [Ordainment of Lava](./ordainment-of-lava.md) (Sorcerer,Wizard)
+* [Ordainment of Metal](./ordainment-of-metal.md) (Bard,Cleric,Sorcerer,Wizard)
+* [Ordainment of Mist](./ordainment-of-mist.md) (Druid,Sorcerer,Wizard)
+* [Ordainment of Slime](./ordainment-of-slime.md) (Druid,Sorcerer,Warlock,Wizard)
+* [Ordainment of Storms](./ordainment-of-storms.md) (Druid,Sorcerer,Wizard)
+* [Ordainment of Void](./ordainment-of-void.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Pestilence](./pestilence.md) (Cleric,Druid,Warlock,Wizard)
+* [Phantom World](./phantom-world.md) (Bard,Warlock,Wizard)
+* [Pierce Any Shield](./pierce-any-shield.md) (Sorcerer,Warlock,Wizard)
+* [Plague of Undead](./plague-of-undead.md) (Cleric,Sorcerer,Wizard)
+* [Plasma Coil](./plasma-coil.md) (Sorcerer,Wizard)
+* [Power Word Heal](./power-word-heal.md) (Bard,Cleric)
+* [Power Word Kill](./power-word-kill.md) (Bard,Pale Master,Sorcerer,Warlock,Wizard)
+* [Prismatic Wall](./prismatic-wall.md) (Bard,Wizard)
+* [Psychic Scream](./psychic-scream.md) (Bard,Sorcerer,Warlock,Wizard)
+* [Pyroclastic Cataclysm](./pyroclastic-cataclysm.md) (Wizard)
+* [Raiju Ascension](./raiju-ascension.md) (Cleric,Druid,Sorcerer,Wizard)
+* [Raise Abomination](./raise-abomination.md) (Cleric,Warlock,Wizard)
+* [Ravenous Void](./ravenous-void.md) (Wizard)
+* [Reality Maelstrom](./reality-maelstrom.md) (Sorcerer,Warlock,Wizard)
+* [Replicate](./replicate.md) (Wizard)
+* [Resonance](./resonance.md) (Bard,Sorcerer,Wizard)
+* [Rizzak's Red Death ](./rizzaks-red-death.md) (Sorcerer,Warlock,Wizard)
+* [Saga of Foretold Doom](./saga-of-foretold-doom.md) *brandish* (Bard)
+* [Shapechange](./shapechange.md) (Druid,Shaman,Warlock,Wizard)
+* [Singularity](./singularity.md) (Wizard)
+* [Sphere of Ultimate Destruction](./sphere-of-ultimate-destruction.md) (Sorcerer,Warlock,Wizard)
+* [Sphere of Wonder](./sphere-of-wonder.md) (Cleric)
+* [Storm of Vengeance](./storm-of-vengeance.md) (Druid)
+* [Succor](./succor.md) (Sorcerer,Warlock,Wizard)
+* [Summon Primal Spirit](./summon-primal-spirit.md) (Druid)
+* [Tamara's Rebirth](./tamaras-rebirth.md) (Bard,Cleric,Druid,Pale Master)
+* [Tempestcone](./tempestcone.md) (Sorcerer,Warlock,Wizard)
+* [Thousand Blade Strike](./thousand-blade-strike.md) *brandish* (Bard,Warlock,Wizard)
+* [Thunderous Tornado](./thunderous-tornado.md) (Sorcerer,Wizard)
+* [Time Ravage](./time-ravage.md) (Wizard)
+* [Time Stop](./time-stop.md) (Sorcerer,Wizard)
+* [Torch of Life](./torch-of-life.md) (Cleric,Druid)
+* [Transmute Rock to Lava](./transmute-rock-to-lava.md) (Druid,Sorcerer,Wizard)
+* [True Polymorph](./true-polymorph.md) (Bard,Warlock,Wizard)
+* [True Resurrection](./true-resurrection.md) (Cleric,Druid,Pale Master,Shaman)
+* [Unbinding](./unbinding.md) (Sorcerer,Wizard)
+* [Undeath's Eternal Foe](./undeaths-eternal-foe.md) (Cleric)
+* [Unname](./unname.md) (Sorcerer,Warlock,Wizard)
+* [Vampiric Youthfulness](./vampiric-youthfulness.md) (Sorcerer,Warlock,Wizard)
+* [Vaporize](./vaporize.md) (Cleric,Druid)
+* [Virus Charm](./virus-charm.md) (Sorcerer,Warlock,Wizard)
+* [Visage of the Deity](./visage-of-the-deity.md) (Cleric)
+* [Volcanic Eruption](./volcanic-eruption.md) (Cleric,Druid,Wizard)
+* [Vorpal Doom](./vorpal-doom.md) (Cleric,Sorcerer,Warlock,Wizard)
+* [Wail of the Banshee](./wail-of-the-banshee.md) (Sorcerer,Wizard)
+* [Weird](./weird.md) (Warlock,Wizard)
+* [Wind Wake](./wind-wake.md) (Bard,Druid,Sorcerer,Wizard)
+* [Winterland](./winterland.md) (Bard,Druid,Sorcerer,Wizard)
+* [Wish](./wish.md) (Sorcerer,Wizard)
+* [Wrath of Lightning](./wrath-of-lightning.md) (Sorcerer,Wizard)
  

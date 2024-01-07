@@ -17,7 +17,7 @@ d8	Flourish
 
 
 >### Swashbuckler
->*Medium Humanoid, Any Alignment*
+>*Medium humanoid , Any Alignment*
 >___
 >- **Armor Class** 17 (leather armor, Suave Defense)
 >- **Hit Points** 66 (12d8 + 12)

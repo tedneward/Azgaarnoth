@@ -1,5 +1,5 @@
 #### Active Momentum
-*1st-level abjuration* (Artificer,Warlock,Wizard)
+*1st-level abjuration* *(psionic)* (Artificer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 reaction, which you take when you would fail a Wisdom or Intelligence saving throw
 - **Range:** Self

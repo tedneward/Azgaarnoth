@@ -3,14 +3,12 @@
 
 Blood mages learn to heighten their spellcraft by uniting the power of blood and arcane might. Blood is life, though wizards that travel this path of magic view the sanguine fluid flowing through their veins as a wellspring of arcane power.
 
-Blood mages often forgo tradition, seeing it as a hindrance toward obtaining knowledge rather than a foundation. Since very few understand their motives and lack of regard for proven arcane conventions, many believe they are free spirits.
-
-This is often a misperception. Blood mages may not confine themselves to the laborious task of scribing spells, but will instead focus that energy into a structured dance and exercise. This deliberate movement of the body increases the flow of blood and intertwines its power with the Weave.
+Blood mages often forgo tradition, seeing it as a hindrance toward obtaining knowledge rather than a foundation. Since very few understand their motives and lack of regard for proven arcane conventions, many believe they are free spirits, simply acting in an entirely intuitive manner and with little to no thought. This is a misperception. Blood mages may not confine themselves to the laborious task of scribing spells, but will instead focus that energy into a structured dance and exercise. This deliberate movement of the body increases the flow of blood and intertwines its power with the Weave.
 
 ## A Tale of Two Traditions
 For a time, in the ancient days, the art of using the blood as power was threatened with extinction. Vigorous prosecution by various arcane and divine organizations had reduced those who practiced its skills down to a mere handful. As a result, instruction suffered; students were forced to improvise and learn on their own, rather than build upon what those before them had studied.
 
-Over time, the traditions of the bloodmancer varied and broke away from the ancient ways, and although the ancient ways eventually reasserted themselves centuries later, by that time already a new tradition had been born, colloquially called the "neobloodmancer".
+Over time, the traditions of the [Bloodmancer](./Bloodmancer.md) varied and broke away from the ancient ways, and although the ancient ways eventually reasserted themselves centuries later, by that time a new tradition had already been born, colloquially called the "neobloodmancer". The two groups generally steer clear of each other, preferring to study the power of blood in their own way.
 
 ## Blood Savant
 You combine the source of your arcane power with the blood flowing through your veins. When you select this arcane tradition at 2nd level, you gain proficiency in Medicine and double your proficiency bonus to any check made with the skill, instead of your normal proficiency bonus.
@@ -36,8 +34,7 @@ Level | Blood Points
 
 **Healing.** Any form of healing you receive staunches the flow of blood and can close the hemophilic wound. When you regain one or more hit points, you also lose 1 blood point. When you no longer have any blood points, the hemophilic wound heals.
 
-**Blood Rites.** You learn two blood rituals of your choice, detailed below under Blood Rites.
-When you gain a level in the wizard class, you can choose one of the blood rites you know and replace it with another blood rite that you can learn.
+**Blood Rites.** You learn two blood rituals of your choice, detailed below under Blood Rites. When you gain a level in the wizard class, you can choose one of the blood rites you know and replace it with another blood rite that you can learn.
 
 ## Empowered Blood
 At 6th level, when you roll damage for a spell, you can reroll a number of damage dice

@@ -10,7 +10,7 @@ Outside the Nine Hells, Hutijin is a relatively obscure figure, known only to th
 Mephistopheles forbids Hutijin from making too many forays into the Material Plane, since the duke's absence leaves him vulnerable to his rivals. Other archdevils know how much Hutijin despises mortals and have secretly disseminated the means to call him from the Nine Hells in the hope of distracting the archdevil long enough for them to assail Mephistopheles. Hutijin sends devils into the Material Plane to eradicate mention of his name and destroy those who have learned of him, but the summonings still occur. When called from his post, he negotiates as quickly as he can, usually closing a deal with little cost to the summoner. However, once the deal has been fulfilled, Hutijin repays the interruption with death.
 
 >### Hutijin
->*Large Fiend (Devil Prince), Lawful Evil*
+>*Large fiend (Devil Prince), Lawful Evil*
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 200 (16d10 + 112)

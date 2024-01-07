@@ -2,7 +2,7 @@
 Bards of the College of Ravens have many friends, or so the saying goes. Whether perched on balconies overlooking cities, or stalking the deep hearts of umbral forests, these clever spies and sinister information brokers rely on their shadowy allies to acquire secrets. The College of Ravens relies on always having just the right secret to tip the balance in their favour. To their mind, it's not brute force that will win the day, but a small push in just the right place, at just the right moment.
 
 ```
-name = 'Ravens'
+name = 'College of Ravens'
 description = "***Bardic College: College of Ravens.*** Bards of the College of Ravens have many friends, or so the saying goes. Whether perched on balconies overlooking cities, or stalking the deep hearts of umbral forests, these clever spies and sinister information brokers rely on their shadowy allies to acquire secrets. The College of Ravens relies on always having just the right secret to tip the balance in their favour. To their mind, it's not brute force that will win the day, but a small push in just the right place, at just the right moment."
 ```
 
@@ -49,3 +49,12 @@ def level14(npc):
 
     npc.traits.append("***Umbral Subterfuge: Shadow Death.*** When you would die, instead your soul travels to your Shadow Friend, and you reform from inside your companion at the next dusk. Your original body remains at the scene (where relevant) and you generate a new one without any of your possessions. If your shadow friend is not available, then you may not use the ability, and if your Shadow Friend is killed whilst harbouring your soul, then you die as normal. Whilst inhabiting your shadow friend, you can see and hear everything going on around you, and you can telepathically direct your shadow friend.")
 ```
+
+---
+
+# Custom Bard Spells
+The College of Ravens has developed many spells for use by their bards.
+
+* 3rd: [reckless boost]()
+* 5th: [stairs of force]()
+* 6th: [bridge of force]()

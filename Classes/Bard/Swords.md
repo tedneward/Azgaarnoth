@@ -6,7 +6,7 @@ Blades who abandon lives as entertainers have often run into trouble that makes 
 Being one of the least-restrictive among the Bardic Colleges, the Colleges of Swords are found in universities all over Azgaarnoth; additionally, Sword bards are often taking on promising individuals, teaching them the rudiments, and then passing them on with a referral or endorsement to a nearby Sword College. These bards are often found out in the sketchiest places of the world, and many have found employment as an agent of the [Copper Order](../../Organizations/MilitantOrders/DraconicOrder/Copper.md). Many also join [mercenary companies](../../Organizations/MercCompanies/index.md) as soldiers, support staff, or advisers, and still more sign on with [merchant guilds](../../Organizations/MerchantGuilds/index.md) as guards, entertainment, or just to travel.
 
 ```
-name = 'Swords'
+name = 'College of Swords'
 description = "***Bardic College: College of Swords.*** Bards of the College of Swords are called blades, and they entertain through daring feats of weapon prowess. Blades perform stunts such as sword swallowing, knife throwing and juggling, and mock combats. Though they use their weapons to entertain, they are also highly trained and skilled warriors in their own right. Their talent with weapons inspires many blades to lead double lives. One blade might use a circus troupe as cover for nefarious deeds such as assassination, robbery, and blackmail. Other blades strike at the wicked, bringing justice to bear against the cruel and powerful. Most troupes are happy to accept a blade's talent for the excitement it adds to a performance, but few entertainers fully trust them."
 ```
 
@@ -66,3 +66,11 @@ You can attack twice, instead of once, whenever you use the Blade Flourish actio
 *14th-level College of Swords feature*
 
 Whenever you use a Blade Flourish option, you can roll a d6 and use it instead of expending a Bardic Inspiration die.
+
+---
+
+# Custom Bard Spells
+The College of Swords developed many custom spells over the years.
+
+* 2nd: [body spin]()
+* 4th: [winterfloor]()

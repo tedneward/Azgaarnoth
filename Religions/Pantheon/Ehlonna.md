@@ -3,16 +3,16 @@
 
 Ehlonna has many aspects: hunter, ranger, woman of the woods, protector of elves and half-elves, or goddess of fertility.
 
-Ehlonna is an ancient deity of unknown origin, who is concerned with all aspects of life in the woodlands, which includes the protection of those of good alignment; given the elves' history with the woods, she is often seen as being and specifically protective of elves and their kin. She is the patron saint of all those who make their living from the forest while ensuring respect for the flora and fauna it shelters. She teaches her followers to live in harmony with their woodland homes, taking only what they need. The bounty of the forest, Ehlonna teaches, is a gift to be cherished and appreciated, not a treasure to be coveted or looted.
+Ehlonna is an ancient deity of unknown origin, who is concerned with all aspects of life in the woodlands, which includes the protection of those of good alignment; given the elves' history with the woods, she is often seen as protective of elves and their kin. She is the patron saint of all those who make their living from the forest while ensuring respect for the flora and fauna it shelters. She teaches her followers to live in harmony with their woodland homes, taking only what they need. The bounty of the forest, Ehlonna teaches, is a gift to be cherished and appreciated, not a treasure to be coveted or looted.
 
 Ehlonna is gentle and benevolent, but hard against the evil humanoids and the marauders who plunder the wooded regions.
 
 Symbol: Rampant Unicorn (or a unicorn horn)
 
 ## Clerical details
-Domains: [Protection](../../Classes/Cleric/Protection.md), [Nature](../../Classes/Cleric/Nature.md), [Sun (Light)](../../Classes/Cleric/Light.md)
+**Domains:** [Nature](../../Classes/Cleric/Nature.md), [Protection](../../Classes/Cleric/Protection.md), [Sun (Light)](../../Classes/Cleric/Light.md)
 
-Weapon: Longbow
+**Weapon:** Longbow
 
 ## Worshipers, Clergy & Temples
 Ehlonna is the patron of all good-aligned folk who love the forests. She is worshipped by hunters, trappers, foresters, rangers, woodcutters, and more. Brownies, elves, gnomes, and halflings are especially attuned to Ehlonna of the Forests, and will willingly aid her.

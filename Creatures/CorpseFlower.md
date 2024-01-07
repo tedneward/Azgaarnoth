@@ -1,6 +1,8 @@
 ## Corpse Flower
 A corpse flower can sprout atop the grave of an evil necromancer or the remains of powerful Undead creatures. Unless it is uprooted and burned while it is still a seedling, the corpse flower grows to enormous size over several weeks, then tears itself free of the earth and begins scavenging Humanoid corpses from battlefields and graveyards. Using its fibrous tentacles, it stuffs the remains into its body to sustain and repair itself. The plant has a malevolent bent and despises the living.
 
+![](CorpseFlower.png)
+
 With or without corpses nested in its body, a corpse flower exudes a stench of decay that can overwhelm the senses of nearby creatures, causing them to become nauseated. The stench, which serves as a defense mechanism, fades 2d4 days after the corpse flower dies.
 
 ### Environment
@@ -10,7 +12,7 @@ Swamp, Ruins, Underdark
 ![](CorpseFlower-Token.png)
 
 >### Corpse Flower
->*Large Plant, Typically Chaotic Evil*
+>*Large plant, typically chaotic evil*
 >___
 >- **Armor Class** 12
 >- **Hit Points** 127 (15d10 + 45)
@@ -48,5 +50,5 @@ Swamp, Ruins, Underdark
 >#### Bonus Actions
 >***Digest.*** The corpse flower digests one corpse in its body and instantly regains 11 (2d10) hit points. Nothing of the digested corpse remains. Any equipment on the corpse is expelled from the corpse flower in its space.
 >
->***Reanimate.*** The corpse flower animates one corpse in its body, turning it into a zombie (see the Monster Manual). The zombie appears in an unoccupied space within 5 feet of the corpse flower and acts immediately after it in the initiative order. The zombie acts as an ally of the corpse flower but isn't under its control, and the flower's stench clings to it (see Stench of Death).
+>***Reanimate.*** The corpse flower animates one corpse in its body, turning it into a [zombie](./Zombies.md#zombie). The zombie appears in an unoccupied space within 5 feet of the corpse flower and acts immediately after it in the initiative order. The zombie acts as an ally of the corpse flower but isn't under its control, and the flower's stench clings to it (see Stench of Death).
 >

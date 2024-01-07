@@ -8,7 +8,7 @@ The appearance of an alkilith in the world heralds a great wrongness and an immi
 Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. They gradually become self-aware and seek to find their way onto the Material Plane. Since most cultists consider them too risky to summon--they can, after all, create portals to the Abyss--alkiliths must find other escape routes out of their native plane.
 
 >### Alkilith
->*Medium Fiend (Demon), Typically Chaotic Evil*
+>*Medium fiend (Demon), Typically Chaotic Evil*
 >___
 >- **Armor Class** 17 (natural armor)
 >- **Hit Points** 168 (16d8 + 96)

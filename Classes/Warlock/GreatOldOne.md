@@ -9,11 +9,11 @@ The Great Old One lets you choose from an expanded list of spells when you learn
 **Great Old One Expanded Spells**
 Spell Level|Spells
 -----------|------
-1st|Dissonant Whispers, Tasha's Hideous Laughter
-2nd|Detect Thoughts, Phantasmal Force
-3rd|Clairvoyance, Sending
-4th|Dominate Beast, Evard's Black Tentacles
-5th|Dominate Person, Telekinesis
+1st | [dissonant whispers](../../Magic/Spells/dissonant-whispers.md), [Tasha's hideous laughter](../../Magic/Spells/tashas-hideous-laughter.md)
+2nd | [detect thoughts](../../Magic/Spells/detect-thoughts.md), [phantasmal force](../../Magic/Spells/phantasmal-force.md)
+3rd | [clairvoyance](../../Magic/Spells/clairvoyance.md), [sending](../../Magic/Spells/sending.md)
+4th | [dominate beast](../../Magic/Spells/dominate-beast.md), [Evard's black tentacles](../../Magic/Spells/evards-black-tentacles.md)
+5th | [dominate person](../../Magic/Spells/dominate-person.md), [telekinesis](../../Magic/Spells/telekinesis.md)
 
 ## Awakened Mind
 *1st-level Great Old One feature*

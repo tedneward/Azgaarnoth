@@ -1,5 +1,10 @@
 ## Achaierai
 
+### Environment
+Arctic, Astral, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, Urban,  Summoned/Conjured
+
+### Token
+
 >### Achaierai
 >*Large fiend, lawful evil*
 >___

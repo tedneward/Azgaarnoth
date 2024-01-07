@@ -10,4 +10,4 @@ A bead of thunderous force rockets from your fingertips toward a point you can s
 
 Unsecured objects that are completely within the area of effect are automatically pushed 20 feet away from the center of the area by the spell's effect.
 
-***At Higher Levels.***When you cast this spell using a spell slot of 6th level or higher, the thunder damage dealt increases by 1d10 and the distance a creature is puched increases by 5 feet for each slot level above 5th.
+***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the thunder damage dealt increases by 1d10 and the distance a creature is puched increases by 5 feet for each slot level above 5th.

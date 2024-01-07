@@ -12,7 +12,7 @@ Bael also welcomes mortals into his service if they can provide him with an adva
 Despite his lack of interest in affairs outside battle, or perhaps because of it, Bael has gained a small following of cultists. Those who worship at his altar call him the King of Hell, and the most deluded believe that he is the lord of all devils. In arcane circles, certain writings, such as the dreaded Book of Fire, say that Bael revealed the invisibility spell to the world, though some scholars of magic hotly refute such claims. Bael is sometimes depicted as a toad, a cat, a human, or some combination of these forms.
 
 >### Bael
->*Large Fiend (Devil), Lawful Evil*
+>*Large fiend (Devil), Lawful Evil*
 >___
 >- **Armor Class** 18 (plate)
 >- **Hit Points** 189 (18d10 + 90)

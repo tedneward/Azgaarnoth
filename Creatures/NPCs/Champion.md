@@ -32,7 +32,7 @@ d12	Coat of Arms
 12	Black anvil cracked down the middle on an orange field
 
 >### Champion
->*Medium Humanoid, Any Alignment*
+>*Medium humanoid , Any Alignment*
 >___
 >- **Armor Class** 18 (plate)
 >- **Hit Points** 143 (22d8 + 44)

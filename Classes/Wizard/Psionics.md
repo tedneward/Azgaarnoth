@@ -5,11 +5,13 @@ In the latter case, you likely joined the [MindMage](../../Organizations/MageSch
 
 ```
 name = "Psionics"
-description = "***Arcane Tradition: Psionics.*** Wizards study magical power in all its forms, including the magic of psionics. Those wizards who follow the tradition of Psionics hone the magical potential of their own minds. Sometimes called psionicists or psychics, these wizards interact with the multiverse through the lens of their psionic aptitude and awareness. Psionicists channel their magic by focusing their minds. By doing so they can transcend their physical bodies, adopting forms of pure thought, casting spells psionically to bypass the need for components, and perceiving the world with a broader range of senses. As a member of the Psionics tradition, you might have awoken your psionic potential through the strain of your esoteric studies, or perhaps you joined a scholarly order dedicated to unlocking the magic of the mind.
+description = "***Arcane Tradition: Psionics.*** Wizards study magical power in all its forms, including the magic of psionics. Those wizards who follow the tradition of Psionics hone the magical potential of their own minds. Sometimes called psionicists or psychics, these wizards interact with the multiverse through the lens of their psionic aptitude and awareness. Psionicists channel their magic by focusing their minds. By doing so they can transcend their physical bodies, adopting forms of pure thought, casting spells psionically to bypass the need for components, and perceiving the world with a broader range of senses. As a member of the Psionics tradition, you might have awoken your psionic potential through the strain of your esoteric studies, or perhaps you joined a scholarly order dedicated to unlocking the magic of the mind."
 ```
 
 ## Psionic Focus
-Starting at the 2nd level, you have learned to channel psionic energy through a special object: a psionic focus. You gain the object with this feature (see the "Your Psionic Focus" sidebar for how you might have acquired the item).
+*2nd-level Psionic feature*
+
+You have learned to channel psionic energy through a special object: a psionic focus. You gain the object with this feature (see the "Your Psionic Focus" sidebar for how you might have acquired the item).
 
 While your psionic focus is on your person, you gain the following benefits:
 
@@ -17,6 +19,13 @@ While your psionic focus is on your person, you gain the following benefits:
 * When you roll psychic or force damage for any of your wizard spells, you can reroll any of those damage dice that rolls a 1, but you must use the new roll.
 
 If your psionic focus is lost, you can magically recreate it by meditating for 1 hour during a short or long rest, at the end of which the focus appears in your hand.
+
+```
+def level2(npc):
+    npc.traits.append("***Psionic Focus.*** You have learned to channel psionic energy through a psionic focus. While your psionic focus is on your person, you gain the following benefits: The object is a spellcasting focus for you; When you roll psychic or force damage for any of your wizard spells, you can reroll any of those damage dice that rolls a 1, but you must use the new roll.")
+
+    npc.equipment.append("***Psionic focus.*** If your psionic focus is lost, you can magically recreate it by meditating for 1 hour during a short or long rest, at the end of which the focus appears in your hand.")
+```
 
 > ### Your Psionic Focus
 > Every member of the Psionics tradition has a story about how their psionic focus came into their life. Consider how you found yours and what form it takes.
@@ -27,7 +36,7 @@ If your psionic focus is lost, you can magically recreate it by meditating for 1
 ## Psionic Devotion
 *2nd-level Psionics feature*
 
-Starting at the 2nd level, your study of psionics begins to unleash your mind's potential. When you gain this feature, choose one of the following cantrips: friends, mage hand, or message. You learn that cantrip if you don't already know it, and it doesn't count against the number of wizard cantrips you know.
+Your study of psionics begins to unleash your mind's potential. When you gain this feature, choose one of the following cantrips: *friends*, *mage hand*, or *message*. You learn that cantrip if you don't already know it, and it doesn't count against the number of wizard cantrips you know.
 
 While your psionic focus is on your person, you can cast the chosen cantrip as a bonus action, requiring no components, and with the modification listed below:
 
@@ -35,31 +44,53 @@ While your psionic focus is on your person, you can cast the chosen cantrip as a
 * **[mage hand](../../Magic/Spells/mage-hand.md)**. You can make the hand invisible when you cast the spell, and controlling the spell is a bonus action for you.
 * **[message](../../Magic/Spells/message.md)**. You don't need to point toward the target or whisper your message out loud.
 
+```
+    cantrip = choose("Choose a cantrip: ", ['friends', 'mage hand', 'message'])
+    npc.spellcasting['Wizard'].cantripsknown.append(cantrip)
+```
+
 ## Thought Form
 *6th-level Psionics feature*
 
-Starting at the 6th level, while you are carrying your psionic focus, you can use a bonus action to magically transform your body into pure psionic energy. The transformation lasts for 10 minutes, until you use a bonus action to assume your normal form, or until you are incapacitated or die.
+While you are carrying your psionic focus, you can use a bonus action to magically transform your body into pure psionic energy. The transformation lasts for 10 minutes, until you use a bonus action to assume your normal form, or until you are incapacitated or die.
 
-While in thought form, you are a figure of luminous psychic energy, with your psionic focus hovering within. Your form can appear as anything you wish, but it is obviously magical, is the same size as you, and sheds dim light in a 5- foot-radius. Any other equipment you are wearing or carrying transforms with you and melds into your thought form. You also gain the following benefits:
+While in Thought Form, you are a figure of luminous psychic energy, with your psionic focus hovering within. Your form can appear as anything you wish, but it is obviously magical, is the same size as you, and sheds dim light in a 5- foot-radius. Any other equipment you are wearing or carrying transforms with you and melds into your thought form. You also gain the following benefits:
 
 * **Psionic Spellcasting**. When you cast a spell while in thought form, you can cast the spell psionically. If you do so, the spell doesn't require verbal, somatic, or material components that lack a gold cost.
 * **Psychic Resilience**. You gain resistance to psychic damage and to bludgeoning, piercing, and slashing damage from nonmagical attacks.
 
 You can transform using this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
+```
+def level6(npc):
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Thought Form ({npc.INTbonus()}/Recharges on long rest).*** You magically transform your body into pure psionic energy. The transformation lasts for 10 minutes, until you use a bonus action to assume your normal form, or until you are incapacitated or die. While in thought form, you are a figure of luminous psychic energy, with your psionic focus hovering within. Your form can appear as anything you wish, but it is obviously magical, is the same size as you, and sheds dim light in a 5-foot-radius. {'You have a flying speed equal to your walking speed and can hover, and you can move through other creatures and objects as if they were difficult terrain. You take 1d10 force damage if you end your turn inside an object. If you return to your normal form while inside an object, you are shunted to the nearest unoccupied space, and you take 1d10 force damage for every 5 feet traveled.' if npc.levels('Wizard') >= 14 else ''}Any other equipment you are wearing or carrying transforms with you and melds into your thought form. You also gain the following benefits: **Psionic Spellcasting**. When you cast a spell while in thought form, you can cast the spell psionically. If you do so, the spell doesn't require verbal, somatic, or material components that lack a gold cost. **Psychic Resilience**. You gain resistance to psychic damage and to bludgeoning, piercing, and slashing damage from nonmagical attacks.") )
+```
+
 ## Mental Discipline
 *10th-level Psionics feature*
 
-Starting at the 10th level, your mind's power expands to greater heights. When you gain this feature, choose one of the following spells: dominate person, scrying, or telekinesis. You can add the spell to your spellbook, and you can cast it without components.
+Your mind's power expands to greater heights. When you gain this feature, choose one of the following spells: [dominate person](../../Magic/Spells/dominate-person.md), [scrying](../../Magic/Spells/scrying.md), or [telekinesis](../../Magic/Spells/telekinesis.md). You can add the spell to your spellbook, and you can cast it without components.
+
 You can also cast the chosen spell once without expending a spell slot. After you do so, you regain the ability to cast the spell without a slot when you finish a long rest.
+
+```
+def level10(npc):
+    chosenspell = choose("Choose a spell: ", ['dominate person', 'scrying', 'telekinesis'])
+    npc.actions.append(f"***Mental Discipline (Recharges on long rest).*** You can cast {spelllinkify(chosenspell)} once without expending a spell slot.")
+```
 
 ## Empowered Psionics
 *10th-level Psionics feature*
 
 When you deal psychic or force damage with a wizard spell, you can add your Intelligence modifier to the damage against one of the spell's targets.
 
+```
+    npc.defer(lambda npc: npc.traits.append(f"***Empowered Psionics.*** When you deal psychic or force damage with a wizard spell, you add {npc.INTbonus()} to the damage against one of the spell's targets.") )
+```
+
 ## Thought Travel
 *14th-level Psionics feature*
+
 While using your Thought Form, you have a flying speed equal to your walking speed and can hover, and you can move through other creatures and objects as if they were difficult terrain.
 
 You take 1d10 force damage if you end your turn inside an object. If you return to your normal form while inside an object, you are shunted to the nearest unoccupied space, and you take 1d10 force damage for every 5 feet traveled.

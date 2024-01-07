@@ -6,7 +6,7 @@ A wastrilith pollutes the waters around it. Its noxious presence even affects ne
 Creatures that ingest water corrupted by a wastrilith risk their very souls. Those who drink the poisonous liquid might wither away until they finally die, or they remain alive only to become thralls of chaos and evil. To represent this defilement, you can use the optional rule on abyssal corruption in chapter 2 of the Dungeon Master's Guide, causing the poisoned creature to be corrupted.
 
 >### Wastrilith
->*Large Fiend (Demon), Typically Chaotic Evil*
+>*Large fiend (Demon), Typically Chaotic Evil*
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 157 (15d10 + 75)

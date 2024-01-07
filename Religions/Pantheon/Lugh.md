@@ -6,9 +6,9 @@ Lugh is the God of Travel and Exploration in the Morndinsamman, the Dwarven Pant
 The most conservative dwarves pledge that the Stout Folk belong underground, and that those who travel the Realm Above (known collectively among the dwarven culture as Wanderers) have at worst betrayed ancient ideals and at best are somewhat disturbed fools. If the latter is the case, then the young dwarven deity Lugh is the grand king of fools. Originally the patron of those dwarves who have left the clanholds to explore the world under the sun, Lugh approaches life with an almost gnome-like demeanor, always curious to see what's beyond the horizon and always willing to trade stories of travels past beside a crackling campfire. His is the rare spirit of exploration embodied in divine form, the spark of curiosity his followers equate with a quick burst of lightning from the open skies.
 
 ## Clerical details
-Domains: [Knowledge](../../Classes/Cleric/Knowledge.md), [Life](../../Classes/Cleric/Life.md), [Protection](../../Classes/Cleric/Protection.md)
+**Domains:** [Knowledge](../../Classes/Cleric/Knowledge.md), [Life](../../Classes/Cleric/Life.md), [Protection](../../Classes/Cleric/Protection.md)
 
-Weapon: Hammer
+**Weapon:** Hammer
 
 ## Worshipers, Clergy & Temples
 Lugh is well regarded by wanderers and travelers. The Watcher's advocacy of racial integration, exploration, and adventure is little understood by those dwarves who remain cloistered in isolated dwarven holds deep in the mountains. Most of those dwarves (many of whom drive the calls for the next Return) look at the Finder-of-Trails and his priests with incomprehension, not antipathy. Lugh's clergy represent one of the most widely recognized dwarven churches of the surface, to the point where many of his followers don't even realize his dwarven ancestry.

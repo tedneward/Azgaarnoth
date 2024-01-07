@@ -1,7 +1,7 @@
 # Blights
 Awakened plants gifted with the powers of intelligence and mobility, blights plague lands contaminated by darkness. Drinking that darkness from the soil, a blight carries out the will of ancient evil and attempts to spread that evil wherever it can.
 
-> Jump to: [Needle Blight](#needle-blight) | [Twig Blight](#twig-blight) | [Vine Blight](#vine-blight)
+> Jump to: [Needle Blight](Blights.md#needle-blight) | [Twig Blight](Blights.md#twig-blight) | [Vine Blight](Blights.md#vine-blight)
 
 ***Roots of the Gulthias Tree.*** Legends tell of a vampire named Gulthias who worked terrible magic and raised up an abominable tower called Nightfang Spire. Gulthias was undone when a hero plunged a wooden stake through his heart, but as the vampire was destroyed, his blood infused the stake with a dreadful power. In time, tendrils of new growth sprouted from the wood, growing into a sapling infused with the vampire’s evil essence. It is said that a mad druid discovered the sapling, transplanting it to an underground grotto where it could grow. From this Gulthias tree came the seeds from which the first blights were sown.
 
@@ -17,6 +17,11 @@ In forests infested with blights, trees and plants grow with supernatural speed.
 In the shadows of a forest, needle blights might be taken at a distance for shuffling, hunched humanoids. Up close, these creatures reveal themselves as horrid plants whose conifer-like needles grow across their bodies in quivering clumps. A needle blight lashes out with these needles or launches them as an aerial assault that can punch through armor and flesh.
 
 When needle blights detect a threat, they loose a pollen that the wind carries to other needle blights throughout the forest. Alerted to their foes' location, needle blights converge from all sides to drench their roots in blood.
+
+### Environment
+Arctic, Astral, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, Urban,  Summoned/Conjured
+
+### Token
 
 >### Needle Blight
 >*Medium plant, neutral evil*
@@ -56,6 +61,11 @@ Twig blights seek out campsites and watering holes, rooting there to set up ambu
 
 Given how dry they are, twig blights are particularly susceptible to fire.
 
+### Environment
+Arctic, Astral, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, Urban,  Summoned/Conjured
+
+### Token
+
 >### Twig Blight
 >*Small plant, neutral evil*
 >___
@@ -91,6 +101,11 @@ Given how dry they are, twig blights are particularly susceptible to fire.
 Appearing as masses of slithering creepers, vine blights hide in undergrowth and wait for prey to draw near. By animating the plants around them, vine blights entangle and hinder their foes before attacking.
 
 Vine blights are the only blights capable of speech. Through its connection to the evil spirit of the Gulthias tree it serves, a vine blight speaks in a fractured version of its dead master's voice, taunting victims or bargaining with powerful foes.
+
+### Environment
+Arctic, Astral, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, Urban,  Summoned/Conjured
+
+### Token
 
 >### Vine Blight
 >*Medium plant, neutral evil*

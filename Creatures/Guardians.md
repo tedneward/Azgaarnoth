@@ -17,7 +17,7 @@ A guardian's solitary focus is to protect the amulet's wearer. The amulet's wear
 ***Spell storage.*** A spellcaster can store a single spell within a shield guardian, which can then cast the spell on command or under specific conditions. Many a wizard has been rendered helpless by enemies, only to surprise those foes when its shield guardian unleashes potent magical power.
 
 ### Environment
-(FIXME)
+Summoned/Conjured
 
 ### Token
 ![](ShieldGuardian-Token.png)

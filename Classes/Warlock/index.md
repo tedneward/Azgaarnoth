@@ -158,8 +158,12 @@ Your choice grants you features at 1st level and again at 6th, 10th, and 14th le
 ## Pact Magic
 Your arcane research and the magic bestowed on you by your patron have given you facility with spells.
 
+Warlock spells, despite being similar in some respects to arcane spells cast by wizards, are in fact a divergent form of divine magic; as a result, warlocks know only the [spells listed here](SpellList.md), and even then only at their paton's whim. Patrons have been known, however, to grant warlocks insight into the deep mysteries of the universe and reveal new magical means to emulate arcane or divine spells, however, and so warlocks often scour Azgaarnoth looking for fragments of insight or knowledge that will gain favor with their patron and persuade the patron to reveal new mystical insights.
+
+> Game notes: In other words, DM's choice about adding new warlock spells to the "known" list, and the warlock may need to do some in-game activity or adventure to obtain them.
+
 ### Cantrips
-You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
+You know two cantrips of your choice from the [warlock spell list](SpellList.md#cantrip-level-spells). You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
 
 ### Spell Slots
 The Warlock table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
@@ -167,7 +171,7 @@ The Warlock table shows how many spell slots you have. The table also shows what
 For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell Witch Bolt, you must spend one of those slots, and you cast it as a 3rd-level spell.
 
 ### Spells Known of 1st Level and Higher
-At 1st level, you know two 1st-level spells of your choice from the warlock spell list.
+At 1st level, you know two [1st-level spells of your choice from the warlock spell list](SpellList.md#1st-level-spells).
 
 The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level or higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.
 
@@ -229,15 +233,13 @@ def level18(npc):
 
 Your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
 
-* **Pact of the Blade**
+* **Pact of the Blade**: You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
-  You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+    Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
 
-  Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
+    You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest.
 
-  You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest.
-
-  You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
+    You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
 
 ```
 def pactoftheblade(npc):
@@ -245,23 +247,21 @@ def pactoftheblade(npc):
     npc.traits.append("***Bind Weapon.*** You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.")  
 ```
 
-* **Pact of the Blood** 
+* **Pact of the Blood**: As part of your deepening pact, your patron replaces some of your blood with magic blood of their own. You have advantage on saving throws against blood magic, and you are immune to the [blood reading](../../Magic/Spells/blood-reading.md) spell. While you have no more than half of your hit points remaining, you can use a free hand as a spellcasting focus for your warlock spells.
 
-    As part of your deepening pact, your patron replaces some of your blood with magic blood of their own. You have advantage on saving throws against blood magic, and you are immune to the [blood reading](../../Magic/Spells/blood-reading.md) spell. While you have no more than half of your hit points remaining, you can use a free hand as a spellcasting focus for your warlock spells.
-
-    In addition, as a bonus action, you can spill your own blood and spend a number of your remaining hit dice equal to your warlock spell slot leveL but instead of healing you take ld8 necrotic damage per hit die expended that ignores resistance and immunity. This damage doesn't cause saving throws for concentration.
+    In addition, as a bonus action, you can spill your own blood and spend a number of your remaining hit dice equal to your warlock spell slot leveL but instead of healing you take 1d8 necrotic damage per hit die expended that ignores resistance and immunity. This damage doesn't cause saving throws for concentration.
     
-    The next warlock spell you cast on this tum using your Pact Magic feature is also a Blood spell in addition to its other schools and does not require a spell slot. If the casting time is 1 bonus action, you can cast the spell as part of using this feature. 
+    The next warlock spell you cast on this turn using your Pact Magic feature is also a Blood spell in addition to its other schools and does not require a spell slot. If the casting time is 1 bonus action, you can cast the spell as part of using this feature. 
 
-    However, the spell can't restore a dead creature to life. Also, unless it is a necromancy spelL it can't cause any creature to regain hit points; instead of restoring hit points, it grants temporary hit points equal to half as many hit points as it would have restored Once you use this feature to expend hit dice, you can't do so again until you finish a short or long rest.
+    However, the spell can't restore a dead creature to life. Also, unless it is a necromancy spelL it can't cause any creature to regain hit points; instead of restoring hit points, it grants temporary hit points equal to half as many hit points as it would have restored. Once you use this feature to expend hit dice, you can't do so again until you finish a short or long rest.
 
-* **Pact of the Chain**
+```
+def pactoftheblood(npc):
+    npc.traits.append(f"***Pact of the Blood.*** You have saving throws against blood magic. You are immune to the {spelllinkify('blood reading')} spell. While you have no more than half of your hit points remaining, you can use a free hand as a spellcasting focus for your warlock spells.")
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Pact of the Blood: Blood Spell (Recharges on short or long rest).*** You spill your own blood and spend up to {npc.pactmagic.slotlevel} hit dice, but instead of healing you take 1d8 necrotic damage per hit die expended that ignores resistance and immunity. This damage doesn't cause saving throws for concentration. The next warlock spell you cast on this turn using your Pact Magic feature is also a Blood spell in addition to its other schools, and does not require a spell slot. If the casting time is 1 bonus action, you can cast the spell as part of using this feature. However, the spell can't restore a dead creature to life. Also, unless it is a necromancy spelL it can't cause any creature to regain hit points; instead of restoring hit points, it grants temporary hit points equal to half as many hit points as it would have restored.") )
+```
 
-    You learn the [Find Familiar](../../Magic/Spells/find-familiar.md) spell and can cast it as a ritual. The spell doesn't count against your number of spells known.
-
-    When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.
-
-    Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.
+* **Pact of the Chain**: You learn the [Find Familiar](../../Magic/Spells/find-familiar.md) spell and can cast it as a ritual. The spell doesn't count against your number of spells known. When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.
 
 ```
 def pactofthechain(npc):
@@ -269,40 +269,43 @@ def pactofthechain(npc):
     npc.actions.append("***Familiar Attack.*** When you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.")
 ```
 
-*  **Pact of the Ring**
-
-    You bear a nigh-indestructible ring. If the ring is lost or somehow destroyed, you can perform a 1-hour ceremony to create a replacement. 
-  
-    While you bear this ring, once during your turn when you hit with an attack roll for a melee weapon or a cantrip, you can inflict extra radiant damage equal to your Charisma bonus on one target you hit with that attack. If the damage for the attack already includes your Charisma bonus (such as if you hit with eldritch blast and have the Agonizing Blast eldritch invocation), you cannot inflict this extra damage. An attack which includes this extra damage blazes with a violet, starlight glare.
+*  **Pact of the Ring**: You bear a nigh-indestructible ring. If the ring is lost or somehow destroyed, you can perform a 1-hour ceremony to create a replacement. While you bear this ring, once during your turn when you hit with an attack roll for a melee weapon or a cantrip, you can inflict extra radiant damage equal to your Charisma bonus on one target you hit with that attack. If the damage for the attack already includes your Charisma bonus (such as if you hit with eldritch blast and have the Agonizing Blast eldritch invocation), you cannot inflict this extra damage. An attack which includes this extra damage blazes with a violet, starlight glare.
 
 ```
 def pactofthering(npc):
     npc.actions.append("***Pact of the Ring.*** Once during your turn when you hit with an attack roll for a melee weapon or a cantrip, you can inflict extra radiant damage equal to your Charisma bonus on one target you hit with that attack. If the damage for the attack already includes your Charisma bonus (such as if you hit with eldritch blast and have the Agonizing Blast eldritch invocation), you cannot inflict this extra damage. An attack which includes this extra damage blazes with a violet, starlight glare.")
 ```
 
-* **Pact of the Shadow**
-
-    Your patron grants your own shadow a mind of its own, a dark reflection of your own mind that is subservient to you. Your shadow can stretch to move a short distance away from you and perform simple tasks at your mental command, acting as your servant.
+* **Pact of the Shadow**: Your patron grants your own shadow a mind of its own, a dark reflection of your own mind that is subservient to you. Your shadow can stretch to move a short distance away from you and perform simple tasks at your mental command, acting as your servant.
 
     You are constantly accompanied by a magical servant that uses the rules from the unseen servant spelL except it has hit points equal to your proficiency bonus and it isn't invisible unless it is entirely in darkness. The servant shares its tum in initiative with your's. It can't move more than 10 feet away from you, but it can move through your space and end its tum there. While it is in your space and hasn't taken any action, left your space, or interacted with any object or creature since the start of your last turn, it is indistinguishable from a normal shadow, it is immune to damage, and it moves with you.
 
     When you cast a warlock spelL you can choose to cast it from your location or the location of your shadow servant. In addition, you can use a bonus action on your turn to command the servant to shove a creature that you can see within 5 feet of the servant, using your warlock spellcasting ability in place of its Strength for the Strength (Athletics) check.
 
-    While you are in dim light or darkness, the servant can be up to 20 feet away from you instead of only 10 feet away. If at any time the servant is too far away from you, it is instantly pulled into your space. If the servant is reduced to 0 hit points, it disappears, and it reappears in your space with all its hit points when you finish a short or long rest or when you expend a warlock spell slot to conjure it with a 1 minute ritual
+    While you are in dim light or darkness, the servant can be up to 20 feet away from you instead of only 10 feet away. If at any time the servant is too far away from you, it is instantly pulled into your space. If the servant is reduced to 0 hit points, it disappears, and it reappears in your space with all its hit points when you finish a short or long rest or when you expend a warlock spell slot to conjure it with a 1 minute ritual.
 
-* **Pact of the Skull**
+```
+def pactoftheshadow(npc):
+    npc.traits.append(f"***Pact of the Shadow.*** You are constantly accompanied by a magical servant that uses the rules from the {spelllinkify('unseen servant')} spell, except it has hit points equal to your proficiency bonus and it isn't invisible unless it is entirely in darkness. The servant shares its turn in initiative with yours. It can't move more than 10 feet away from you, but it can move through your space and end its tum there. While it is in your space and hasn't taken any action, left your space, or interacted with any object or creature since the start of your last turn, it is indistinguishable from a normal shadow, it is immune to damage, and it moves with you. When you cast a warlock spelL you can choose to cast it from your location or the location of your shadow servant. While you are in dim light or darkness, the servant can be up to 20 feet away from you instead of only 10 feet away. If at any time the servant is too far away from you, it is instantly pulled into your space. If the servant is reduced to 0 hit points, it disappears, and it reappears in your space with all its hit points when you finish a short or long rest or when you expend a warlock spell slot to conjure it with a 1 minute ritual.")
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Pact of the Shadow: Shove.*** You command the shadow servant to shove a creature that you can see within 5 feet of the servant, the Strength (Athletics) check DC is {npc.pactmagic.spellsavedc}.") )
+```
 
-    Your patron provides you with a magic skull (or another eerie object, such as a dolL an egg, a mirror, an orb, etc.) that houses an eldritch spirit of knowledge. The skull can speak and understand the same languages as you, but it can't move or perform any type of action. The skull has hit points equal to twice your proficiency bonus, its AC is equal to 10 + your spellcasting ability modifier, and it is immune to both poison and disease. Its ability scores other than Strength and Dexterity are equal to your Charisma score. You can also use the skull as a spellcasting focus for your warlock spells.
+* **Pact of the Skull**: Your patron provides you with a magic skull (or another eerie object, such as a doll, an egg, a mirror, an orb, etc.) that houses an eldritch spirit of knowledge. The skull can speak and understand the same languages as you, but it can't move or perform any type of action. The skull has hit points equal to twice your proficiency bonus, its AC is equal to 10 + your spellcasting ability modifier, and it is immune to both poison and disease. Its ability scores (other than Strength and Dexterity, which are both 1) are equal to your Charisma score. You can also use the skull as a spellcasting focus for your warlock spells.
 
-    When you finish a long rest with the skull in your possession, you can consult the spirit within to bolster your knowledge for a time. Choose Arcana, History, Medicine, Nature, Religion, or Survival Alternatively, you can choose one tool proficiency or one language. You gain proficiency with the chosen skill or tooL or you can speak, read, and write the chosen language. This effect lasts until you finish your next long rest.
+    When you finish a long rest with the skull in your possession, you can consult the spirit within to bolster your knowledge for a time. Choose Arcana, History, Medicine, Nature, Religion, or Survival. Alternatively, you can choose one tool proficiency or one language. You gain proficiency with the chosen skill or tooL or you can speak, read, and write the chosen language. This effect lasts until you finish your next long rest.
 
-    In addition, whenever you finish a short or long rest, you can choose to receive eldritch knowledge from the skull. You learn one warlock can trip of your choice. This cantrip doesn't count against the number of cantrips you can learn as a warlock. If you receive eldritch knowledge from the skull again, or if the skull is destroyed, you no longer know the chosen cantrip. 
+    In addition, whenever you finish a short or long rest, you can choose to receive eldritch knowledge from the skull. You learn one warlock cantrip of your choice. This cantrip doesn't count against the number of cantrips you can learn as a warlock. If you receive eldritch knowledge from the skull again, or if the skull is destroyed, you no longer know the chosen cantrip. 
     
     If the skull is lost or destroyed, you can receive a new one from your patron at the end of a long rest, but the process magically afflicts you with one level of exhaustion. This also destroys the previous skull if it still exists, turning it to ash.
 
-* **Pact of the Talisman**
+```
+def pactoftheskull(npc):
+    npc.defer(lambda npc: npc.equipment.append(f"***Pact of the Skull: the Skull.*** Your patron provides you with a magic skull (or another eerie object, such as a doll, an egg, a mirror, an orb, etc.) that houses an eldritch spirit of knowledge. The skull can speak and understand the same languages as you, but it can't move or perform any type of action. The skull has {npc.proficiencybonus() * 2} hit points, its AC is {10 + npc.CHAbonus()}, and it is immune to both poison and disease. Its ability scores (other than Strength and Dexterity, which are each 1) are {npc.CHA()}. You can also use the skull as a spellcasting focus for your warlock spells. If the skull is lost or destroyed, you can receive a new one from your patron at the end of a long rest, but the process magically afflicts you with one level of exhaustion. This also destroys the previous skull if it still exists, turning it to ash.") )
 
-    Your patron gives you a special amulet, a talisman that can aid you, or anyone else who wears it, when the need is great. When the wearer makes an ability check with a skill in which they lack proficiency, they can add a d4 to the roll. If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet.
+    npc.traits.append("***Pact of the Skull.*** When you finish a long rest with the skull in your possession, you can consult the spirit within to bolster your knowledge for a time. Choose Arcana, History, Medicine, Nature, Religion, or Survival Alternatively, you can choose one tool proficiency or one language. You gain proficiency with the chosen skill or tooL or you can speak, read, and write the chosen language. This effect lasts until you finish your next long rest. In addition, whenever you finish a short or long rest, you can choose to receive eldritch knowledge from the skull. You learn one warlock can trip of your choice. This cantrip doesn't count against the number of cantrips you can learn as a warlock. If you receive eldritch knowledge from the skull again, or if the skull is destroyed, you no longer know the chosen cantrip.")
+```
+
+* **Pact of the Talisman**: Your patron gives you a special amulet, a talisman that can aid you, or anyone else who wears it, when the need is great. When the wearer makes an ability check with a skill in which they lack proficiency, they can add a d4 to the roll. If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet.
 
     The talisman turns to ash when you die.
 
@@ -311,8 +314,7 @@ def pactofthetalisman(npc):
     npc.equipment.append("***Talisman of the Pact.*** When the wearer makes an ability check with a skill in which they lack proficiency, they can add a d4 to the roll. If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet. The talisman turns to ash when you die.")
 ```
 
-* **Pact of the Tome**
-  Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list. While the book is on your person, you can cast those cantrips at will. They are considered warlock spells for you, and they needn't be from the same spell list. They don't count against your number of cantrips known.
+* **Pact of the Tome**: Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list. While the book is on your person, you can cast those cantrips at will. They are considered warlock spells for you, and they needn't be from the same spell list. They don't count against your number of cantrips known.
 
   If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
 
@@ -322,15 +324,18 @@ def pactofthetome(npc):
 
 pactboons = {
     'Pact of the Blade': pactoftheblade,
+    'Pact of the Blood': pactoftheblood,
     'Pact of the Chain': pactofthechain,
     'Pact of the Ring': pactofthering,
+    'Pact of the Shadow': pactoftheshadow,
+    'Pact of the Skull': pactoftheskull,
     'Pact of the Talisman': pactofthetalisman,
     'Pact of the Tome': pactofthetome
 }
 def choosepact(npc):
     (pactname, pactfn) = choose("Choose your Pact: ", pactboons)
     npc.pactboon = pactname
-    print(npc.pactboon)
+    pactfn(npc)
 
 def level3(npc):
     choosepact(npc)
@@ -383,12 +388,14 @@ def level20(npc):
     npc.traits.append("***Eldritch Master (Recharges on long rest).*** You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature.")
 ```
 
+```
+# Warlock subclasses use invocations
+dependentmodules = ['Invocations.md']
+```
+
 ---
 
 # Warlock Spells
-Warlock spells, despite being similar in some respects to arcane spells cast by wizards, are in fact a divergent form of divine magic; as a result, warlocks know only the spells listed here, and even then only at their paton's whim. Patrons have been known, however, to grant warlocks insight into the deep mysteries of the universe and reveal new magical means to emulate arcane or divine spells, however, and so warlocks often scour Azgaarnoth looking for fragments of insight or knowledge that will gain favor with their patron and persuade the patron to reveal new mystical insights.
-
-> Game notes: In other words, DM's choice about adding new warlock spells to the "known" list, and the warlock may need to do some in-game activity or adventure to obtain them.
 
 ## Cantrips
 * [balance](../../Magic/Spells/balance.md)

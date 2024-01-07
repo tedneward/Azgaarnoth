@@ -13,7 +13,7 @@ Your weapon attacks score a critical hit on a roll of 19 or 20.
 
 ```
 def level3(npc):
-    npc.traits.append("***Improved Critical.*** Your weapon attacks score a critical hit on a roll of {19 if npc.levels('Fighter') < 15 else 18}-20.")
+    npc.traits.append(f"***Improved Critical.*** Your weapon attacks score a critical hit on a roll of {19 if npc.levels('Fighter') < 15 else 18}-20.")
 ```
 
 ## Remarkable Athlete
@@ -50,5 +50,5 @@ You attain the pinnacle of resilience in battle. At the start of each of your tu
 
 ```
 def level18(npc):
-    npc.defer(lambda npc: npc.traits.append("***Survivor.*** At the start of each of your turns, you regain {5 + npc.CONbonus()} hit points if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points."))
+    npc.defer(lambda npc: npc.traits.append(f"***Survivor.*** At the start of each of your turns, you regain {5 + npc.CONbonus()} hit points if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points."))
 ```

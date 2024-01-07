@@ -1,25 +1,47 @@
 # Giants
 Ancient empires once cast long shadows over a world that quaked beneath the giants' feet. In those lost days, these towering figures were dragon slayers, dreamers, crafters, and kings, but their kind fell from glory long ago. However, even divided among secluded clans scattered throughout the world, the giants maintain the customs and traditions of old.
 
-> Jump to: [Cloud Giant](#cloud-giant) | [Fire Giant](#fire-giant) | [Frost Giant](#frost-giant) | [Hill Giant](#hill-giant) | [Stone Giant](#stone-giant) | [Storm Giant](#storm-giant)
+> Jump to: [Cloud Giant](Giants.md#cloud-giant) | [Fire Giant](Giants.md#fire-giant) | [Forest Giant](Giants.md#forest-giant) [Frost Giant](Giants.md#frost-giant) | [Hill Giant](Giants.md#hill-giant) | [Stone Giant](Giants.md#stone-giant) | [Storm Giant](Giants.md#storm-giant)
 
 ***Old as Legend.*** In remote regions of the world, the last remaining plinths, monoliths, and statues of the great giant empires bow their heads in desolate obscurity. Where once those empires sprawled across all lands, now the giants dwell in isolated tribes and clans.
 
-Giants are almost as old as dragons, which were still young when the giants' heavy feet first shook the foundations of the world. As they spread across new lands, giants and dragons fought bitter generational wars that nearly brought both sides low. No living giant remembers what started the conflict, but myths and tales of their race's glorious dawn are still sung in their steadings and holdfasts, vilifying the primeval wyrms. Giants and dragons continue to harbor grudges against one another, and it is seldom that they will meet or occupy the same area without a fight.
+Giants are almost as old as dragons, which were still young when the giants' heavy feet first shook the foundations of the world. Legends tell of two, wildly different paths that the two ancient races took.
 
-***The Ordning.*** Each of the main giant races — the cloudgiant, firegiant, frostgiant, hillgiant, stonegiant, and storm giants — are related by common elements of history, religion, and culture. They view one another as kindred, keeping any inherent animosity over territory and ambition to a minimum.
+One held that as the giants and dragons spread across new lands, they fought bitter generational wars that nearly brought both sides low. No living giant remembers what started the conflict, but myths and tales of their race's glorious dawn are still sung in their steadings and holdfasts, vilifying the primeval wyrms.
 
-Giants belong to a caste structure called the ordning. Based on social class and highly organized, the ordning assigns a social rank to each giant. By understanding its place in the ordning, a giant knows which other giants are inferior or superior to it, since no two giants are equal. Each of the giant races analyzes a different combination of skills or qualities to determine the ordning. Giants make excelling in these qualities the purpose of their lives.
+The other holds the exact opposite: That giants and dragons were friends and allies, working together to create and safeguard the world as a peaceful haven, living in harmony until the coming of the Hordes. It is said that the giants of this time were known by a different name--the Eldar--and of their will and power were begotten the races of the Firstborn, the humans, and the Created. At some point, however, the Eldar suffered a Fall, and doing so sundered the partnership of the Eldar and their draconic allies.
 
-At the highest level of the ordning, the races of the giants are also ranked according to status. Storm giants are the highest in the ordning, followed by cloud giants, fire giants, frost giants, stone giants, hill giants, and finally giant kin such as fomorians, ettins, and ogres.
+Some reconcile the two tales together: That dragons worked closely with the Eldar in ancient days, but with the coming of the Hordes the two ancient and puissant races found themselves disagreeing on how to proceed. In time, this disagreement grew into a civil war of sorts, which scholars believe to be the Fall of the Eldar, ending their partnership, erasing any chance of achieving a complete victory against the Hordes, driving the two races into hiding or near extinction, and leaving the mortal races to carry on the work of the Eldar alone.
 
-Regardless of a giant's rank among its own race, the chief of a hill giant tribe is inferior to the most common of stone giants. The lowest ranked giant of any type is superior to the highest ranked giant of an inferior type. It isn't considered evil to disrespect or even betray a giant of another type, merely rude.
+Whatever the tale, giants and dragons continue to harbor grudges against one another, and it is seldom that they will meet or occupy the same area without a fight.
 
-When the giants' ancient empires fell, Annam, father of all giants, forsook his children and the world. He swore never to look upon either again until the giants had returned to their glory and reclaimed their birthright as rulers of the world. As a result, giants pray not to Annam but to his divine children, along with a host of hero-deities and godly villains that make up the giants' pantheon.
+***The Ordning.*** Each of the main giant races are related by common elements of history, religion, and culture. They view one another as kindred, keeping any inherent animosity over territory and ambition to a minimum. This has evolved into a caste structure called the ***ordning***. Based on social class and highly organized, the ordning assigns a social rank to each giant. By understanding its place in the ordning, a giant knows which other giants are inferior or superior to it, since no two giants are equal. Each of the giant races analyzes a different combination of skills or qualities to determine the ordning. Giants make excelling in these qualities the purpose of their lives.
 
-Chief among these gods are the children of Annam, whose sons represent each type of giant: Stronmaus for storm giants, Memnor for cloud giants, Skoraeus Stonebones for stone giants, Thrym for frost giants, Surtur for fire giants, and Grolantor for hill giants. Not all giants automatically revere their kind's primary deity, however. Many good cloud giants refuse to worship the deceitful Memnor, and a storm giant dwelling in the icy mountains of the north might pay more homage to Thrym than Stronmaus. Other giants feel a stronger connection to Annam's daughters, who include Hiatea, the huntress and home warden; Iallanis, goddess of love and peace; and Diancastra, an impetuous and arrogant trickster.
+At the highest level of the ordning, the races of the giants are also ranked according to status. Storm giants are the highest in the ordning, followed by cloud giants, depth giants, fire giants, frost giants, forest giants, stone giants, hill giants, and finally giant-kin. The castes are absolute, regardless of a giant's rank among its own race; the chief of a hill giant tribe is inferior to the most common of stone giants. The lowest ranked giant of any type is superior to the highest ranked giant of an inferior type. It isn't considered evil to disrespect or even betray a giant of another type, merely rude.
 
-Some giants abandon their own gods and fall prey to demon cults, paying homage to Baphomet or Kostchtchie. To worship them or any other non-giant deity is a great sin against the ordning, and almost certain to make a giant an outcast.
+>***The Ordning.*** "Gather round, ye of the ordning, and hear of our history.
+>"When Annam, father of all giants, took the earth of our making into His hands and shaped us, he shaped us each to a different task. 
+>"Those most gifted, who would look upon the world from on high in order to assist Him in the shaping and creating, He gave the power of the wind and sea and storm itself, and gave unto them the highest throne in the ordning.
+>"All thrones need those to carry out the work, so to those who lived with Annam's Children of the Storm, He gave them the ability to live among the clouds.
+>"But those in the clouds could not peer into the sea, so He created those who could find the very ocean floor a home.
+>"Much work needed to be done, and many fires and forges needed tending, so those came next from His hands. To them was given the gift of fire itself.
+>"The heat and hearth must by necessity be balanced by cold and ice, so then were born those who find beauty in the frozen tundra and arctic plains.
+>"Much of the world was neither fire nor ice, but forest, grove, and glade, and to those He gave the same gifts of leaf and bark as the trees He bade them call home.
+>"His labors required stone, and so He set those to live in and among the spine of the land, feeling the deep rumblings of the mountains as no other.
+>"All of these often had need of more of the raw power that is the gift of all giants, and so did He create those who lived among the hills, to be close to any of the others that might have need of them, whether that call came from cloud, forge, forest, or crest.
+>"Much more was yet to be done, but Annam found He had little of the earth of our making left. So He cast it into the air, trusting to the winds to settle the gift among the lesser races around the world. Some places it gathered in shapes that came to resemble us, but were perverted by forces beyond our perception, and so became the fomorians. In some places, not enough of the earth was left, and so became the ettins and ogres. In some places, the earth gathered, but was cursed, and so became the cyclops."
+>"Gather round, ye of the ordning, and understand that our forging was of Annam's will, and our Creator's will surpasses all. Be courteous and respectful of those forged before you, give unto them the respect ye owe Annam, so that His work may be done."
+
+***Worship.*** Giants are Pantheonic, and tend to worship either gods of their own faith, or else certain "giant-flavored" versions of Pantheonic deities. They have zero concept of a monotheistic divinity (Kaevar), and cannot understand how the entire universe could be governed by three deities alone (Trinitarian). They find the mortal squabbling of the Al'Uman religions hysterical, particularly since giantish religious beliefs are never a valid reason for violation of the ordning, but in the same breath find the slavish devotion to one cleric's interpretation of the god's words to be... excessive. While some giants came to something of a casual relationship with gods, they never completely abandon a religious mindset, and find it appalling that creatures of other races might consider life without some kind of religious worship.
+
+> ***The Tale of Annam:*** "Gather round, ye of the ordning, and hear of our history.
+> "When the our ancient empires fell, Annam, father of all giants, forsook His children and the world. He swore never to look upon either again until the giants had returned to their glory and reclaimed their birthright as rulers of the world. Thus, we pray not to Annam but to His divine children, and seek to emulate the exploits of his heroic children, and learn the lessons of the failed villainy of those who seek to lead us astray.
+> "Chief among the gods are the children of Annam, whose sons represent each type of giant: Stronmaus Cirrus for storm giants, Memnor Cumulus for cloud giants, Skoraeus Stonebones for stone giants, Thrym Glacies for frost giants, Surtur Ignis for fire giants, Lorallian Silva for forest giants, and Grolantor Forto for hill giants.
+> "Such was the will of Annam, however, that giant-kin feel free to worship as they choose, and we do. Not all giants revere the deity proscribed by the ornding. Many good cloud giants refuse to worship the deceitful Memnor, and a storm giant dwelling in the icy mountains of the north might pay more homage to Thrym than Stronmaus. Other giants feel a stronger connection to Annam's daughters, who include Hiatea, the huntress and home warden; Iallanis, goddess of love and peace; and Diancastra, an impetuous and arrogant trickster.
+> "Alas, such is our fate that sometimes, we fall prey to the same temptations that befall the mortal races, abandon our gods and instead finding cause in demon cults, paying homage to Baphomet or Kostchtchie. To do so--to worship *any* non-giant deity--is a great sin against the ordning, and can only be met with exile.
+> "Guard well thy heart, kin of the ordning, and make not the mistakes of our ancestors. Follow the ordning, guard your clans and grow your tribes, and in time, He will lead us to find once again our lost empires."
+
+
 
 ---
 
@@ -50,7 +72,7 @@ As humanoid nobles keep an aerie for hunting hawks, so do cloud giants keep grif
 >|27 (+8)|10 (+0)|22 (+6)|12 (+1)|16 (+3)|16 (+3)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +5
 >- **Saving Throws** Con +10,Wis +7,Cha +7
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -65,11 +87,9 @@ As humanoid nobles keep an aerie for hunting hawks, so do cloud giants keep grif
 >
 >***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 >
->At will: detect magic, fog cloud, light
->
->3/day each: feather fall, fly, misty step, telekinesis
->
->1/day each: control weather, gaseous form
+>* *At will:* [detect magic](../../Magic/Spells/detect-magic.md), [fog cloud](../../Magic/Spells/fog-cloud.md), [light](../../Magic/Spells/light.md)
+>* *3/day each:* [feather fall](../../Magic/Spells/feather-fall.md), [fly](../../Magic/Spells/fly.md), [misty step](../../Magic/Spells/misty-step.md), [telekinesis](../../Magic/Spells/telekinesis.md)
+>* *1/day each:* [control weather](../../Magic/Spells/control-weather.md), [gaseous form](../../Magic/Spells/gaseous-form.md)
 >
 >#### Actions
 >***Multiattack.*** The giant makes two morningstar attacks.
@@ -83,6 +103,61 @@ As humanoid nobles keep an aerie for hunting hawks, so do cloud giants keep grif
 >***Wealth and Power.*** A cloud giant earns its place in the ordning by the treasure it accumulates, the wealth it wears, and the gifts it bestows on other cloud giants. However, value is only one part of the assessment. The extravagances a cloud giant wears or places about its home must also be beautiful or wondrous. Sacks of gold or gems are worth less to a cloud giant than the jewelry that might be crafted from those materials, creating treasures that bring esteem to a cloud giant's household.
 >
 >Rather than steal from one another or fight over treasures, cloud giants are inveterate gamblers with a hunger for high risks and high rewards. They frequently bet on the outcome of events nominally outside their control, such as the lives of lesser creatures. Ordning ranks and kings' ransoms can be won and lost in bets over the military triumphs of humanoid nations. Fixing wagers by interfering in the conflict causes the loss of the bet, but such deceit is considered to be cheating only if it is discovered. Otherwise, it is cleverness honoring Memnor.
+>
+
+---
+
+## Depth Giant
+Of all the things that lurk in the depths of the ocean, the giants are the ones often discounted from texts. Giants make their home among extreme elements, and these surface-lumbering/sea-elegant massive humanoids are no different. Residing in coral empires, the depth giants live beneath the waves and hunt the beasts most adventurers would never dare to challenge. Depth giants are brave, strong, and often objective. Given the extreme conditions of their world, they tend to see things as they are and nothing more. Despite their size, depth giants are incredibly graceful, appearing to fly as they traverse the deep.
+
+***Pressure-Tested.*** Depth giants find themselves at home in the crushing depths of even the deepest waters, and find a deep peace and elegance in the stark emptiness of the deep. Although they are fully amphibious, able to breathe and function equally well in or out of water, depth giants prefer the solemnity they find in the Undersea.
+
+***Family Ties.*** Depth giants generally live a nomadic lifestyle alone until they mate (for life), at which point they find a defensible spot on the ocean floor and build a home from which to raise a family. The average depth giant family has one to three children, and when the children have all reached a certain age, the family may become nomadic again rather than remain in the home. Once the children have all left (typically shortly after reaching young adult age), the mated pair will go back to a nomadic lifestyle until one of the pair dies, at which point the other will typically grieve to death as well. They are extremely committed to their immediate family, but have little ties to their children or parents once they have left the home.
+
+***Psionic Masters.*** Thanks to the crushing depths of the ocean that interfere with the verbal components needed for arcane or divine spellcasting, depth giants learned to channel the power within themselves in the form of psionic and psychic abilities. For most depth giants, this manifests as an ability to speak to others' minds directly; for some, they develop additional psionic/psychic innate abilities. Those that do have the following:
+
+>***Innate Spellcasting.*** The giant's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no verbal components:
+>
+>* *At will:* [detect magic](../../Magic/Spells/detect-magic.md), [mind bolt](../../Magic/Spells/mind-bolt.md), [water whip](../../Magic/Spells/water-whip.md)
+>* *3/day each:* [command water](../../Magic/Spells/command-water.md), [telekinesis](../../Magic/Spells/telekinesis.md), [telekinetic burst](../../Magic/Spells/telekinetic-burst.md)
+>* *1/day each:* [control weather](../../Magic/Spells/control-weather.md), [waterspout](../../Magic/Spells/waterspout.md)
+>
+
+***Undersea Alliances.*** Depth giants frequently find themselves in the company of merfolk and tritons, particularly in service to stand against some of the greater evils of the depths, such as [aboleths](../Aboleth.md). Though they are often willing to combat a large threat, depth giants do not find themselves overly worried about the incessant battles between triton and sahuagin, or any of the other "petty battles" the mortal Undersea races wage amongst themselves.
+
+>### Depth Giant
+>*Huge giant, neutral*
+>___
+>- **Armor Class** 17 (coral breastplate, DEX (+2))
+>- **Hit Points** 162 (12d12 + 84)
+>- **Speed** 30 ft., swim 60 ft
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|24 (+7)|14 (+2)|24 (+7)|10 (+0)|12 (+1)|8 (-1)|
+>
+>___
+>- **Proficiency Bonus** +4
+>- **Saving Throws** Str +11,Con +11,Wis +5
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** lightning
+>- **Damage Immunities** cold
+>- **Condition Immunities** 
+>- **Skills** Athletics +11,Nature +4,Perception +5,Stealth +6,Survival +5
+>- **Senses** blindsight (while in water) 30 ft, darkvision 120 ft, telepathy (while in water) 240 ft (while on surface) 30 ft, passive Perception 15
+>- **Languages** Giant, Aquan, Undersea
+>- **Challenge** 9
+>___
+>***Amphibious.*** The giant can breathe air and water.
+>
+>***Pressurized.*** The giant has advantage on saving throws against being moved involuntarily or knocked prone.
+>
+>#### Actions
+>***Multiattack.*** The giant makes two attacks.
+>
+>***Trident.*** Melee Weapon Attack: +11 to hit, reach 10 ft. or range 60/200 ft, one target. Hit: 30 (5d8 + 7) piercing damage.
+>
+>***Net.*** Ranged Weapon Attack: +6 to hit, ranged 20/60 ft., one Huge or smaller creature. Hit: The target is restrained until it escapes the net. Any creature can use its action to make a DC 17 Strength check to free itself or another creature in the net, ending the effect on a success. Dealing 20 slashing damage to the net (AC 12) destroys the net and frees the target.
 >
 
 ---
@@ -120,7 +195,7 @@ Fire giants strive to build the strongest fortresses and most potent siege weapo
 >|25 (+7)|9 (-1)|23 (+6)|10 (+0)|14 (+2)|13 (+1)|
 >
 >___
->- **Proficiency Bonus** +0
+>- **Proficiency Bonus** +4
 >- **Saving Throws** Dex +3,Con +10,Cha +5
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** 
@@ -400,8 +475,7 @@ Some humanoid cultures worship storm giants as they would worship lesser gods, c
 >
 >***Spellcasting.*** The giant casts one of the following spells, requiring no material spell components and using Charisma as the spellcasting ability (spell save DC 17):
 >
->At will: detect magic, levitate, light
+>* *At will:* detect magic, levitate, light
 >
->1/day each: control weather (cast as 1 action), water breathing
+>* *1/day each:* control weather (cast as 1 action), water breathing
 >
-

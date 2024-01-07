@@ -17,13 +17,27 @@ Spell Level | Spells
 4th | [divination](../../Magic/Spells/divination.md), [guardian of faith](../../Magic/Spells/guardian-of-faith.md)
 5th | [legend lore](../../Magic/Spells/legend-lore.md), [raise dead](../../Magic/Spells/raise-dead.md)
 
+```
+def level1(npc):
+    npc.traits.append("***Expanded Spell List.*** The following are considered warlock spells for you: 1st: {spelllinkify('unseen servant')}, {spelllinkify('detect evil and good')}; 2nd: {spelllinkify('augury')}, {spelllinkify('see invisibility')}; 3rd: {spelllinkify('speak with dead')}, {spelllinkify('spirit guardians')}, 4th: {spelllinkify('divination')}, {spelllinkify('guardian of faith')}; 5th: {spelllinkify('legend lore')}, {spelllinkify('raise dead')}.") 
+```
+
+## Bonus Cantrip
+*1st-level Ancestor Spirit feature*
+
+You gain the [guidance](../../Magic/Spells/guidance.md) and [message](../../Magic/Spells/message.md) cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.
+
+```
+    npc.pactmagic.cantripsknown.append('guidance')
+    npc.pactmagic.cantripsknown.append('message')
+```
+
 ## Voice of the Oracle
 *1st-level Ancestor Spirit feature*
 
 You may spend a bonus action to call on your ancestors, augmenting your presence with their wisdom and authority. When you activate this ability, choose Persuasion, Deception or Intimidation. For the next minute, skill checks you make of the chosen kind are made at advantage. During this time, your eyes roll back into your head, and your voice is echoed by a whispering chorus audible out to 10 feet from you. You must finish a short or long rest before using this ability again.
 
 ```
-def level1(npc):
     npc.bonusactions.append("***Voice of the Oracle (Recharges on short or long rest).*** You call on your ancestors, augmenting your presence with their wisdom and authority. When you activate this ability, choose Persuasion, Deception or Intimidation. For the next minute, skill checks you make of the chosen kind are made at advantage. During this time, your eyes roll back into your head, and your voice is echoed by a whispering chorus audible out to 10 feet from you.")
 ```
 

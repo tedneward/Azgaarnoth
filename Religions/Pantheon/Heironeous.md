@@ -1,10 +1,10 @@
 # Pantheon: Heironeous
-Heironeous is the champion of fights for honor, justice and the good order of things. He is a strong warlike and protective power, and this duality attracts many followers. He is widely venerated throughout all the non-bad regions of Flannesse and more particularly in the highly militarized zones. As patron of knightly warriors and noble fighters, he is constantly a thorn in the side of the evil gods, especially his half-brother and nemesis, Hextor. There are many quests against Evil, and Heironeous is always quick to act to help the forces of Good.
+Heironeous is the champion of battles for honor, justice and the good order of things. He is a strong warlike and protective power, and this duality attracts many followers. He is widely venerated throughout regions of Azgaarnoth and more particularly in the highly militarized zones. As patron of knightly warriors and noble fighters, he is constantly a thorn in the side of the evil gods, especially his half-brother and nemesis, Hextor. There are many quests against Evil, and Heironeous is always quick to act to help the forces of Good.
 
 ## Clerical details
-Domains: [Twilight](../../Classes/Cleric/Twilight.md), [Unity](../../Classes/Cleric/Unity.md), [War](../../Classes/Cleric/War.md)
+**Domains:** [Twilight](../../Classes/Cleric/Twilight.md), [Unity](../../Classes/Cleric/Unity.md), [War](../../Classes/Cleric/War.md)
 
-Weapon: Longsword or battleaxe
+**Weapon:** Longsword or battleaxe
 
 ## Worshipers, Clergy & Temples
 Traditionally revered by paladins, officers, rulers of good character and noble or heroic combatants, the cult has spread to a large number of ordinary combatants, even of modest origin. Soldiers, city watchmen, mercenaries, and others who make their living by the sword find themselves honoring the Archpaladin.

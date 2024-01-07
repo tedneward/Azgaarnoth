@@ -1,5 +1,5 @@
-#### Bend BLood
-*5th-level necromancy* (Sorcerer, Warlock, Wizard)
+#### Bend Blood
+*5th-level necromancy* *(blood)* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action 
 - **Range:** 30 feet 
@@ -13,5 +13,3 @@ At the start of each of the target's turns while it is afflicted by the spelL it
 Until the spell ends, you can use an action on your turn to try to afflict a creature that you can see within range. Any creatures that are still afflicted by the spell are no longer afflicted by it, and the new target must make the initial saving throw instead 
 
 Creatures that have no blood, that can't be paralyzed, or that can't be restrained are immune to the spell If a creature afflicted by the spell is no longer within range of you, it immediately stops being afflicted by the spell.
-
-This is a Blood spell.

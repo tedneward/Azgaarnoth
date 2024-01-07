@@ -52,3 +52,12 @@ Once you invoke this dragonsong, you cannot do so again until you finish a long 
 def level14(npc):
     npc.defer(lambda npc: npc.actions.append("***Song of Flight (Recharges on long rest).*** You cast {spelllinkify('fly')} on yourself and up to {npc.CHAbonus()} other creatures that are within 30 feet of you and can hear you.") )
 ```
+
+---
+
+# Custom Bard Spells
+The College of Dragonsong developed a number of spells for its own use.
+
+* 3rd: [wings of wind]()
+* 4th: [thunder stomp]()
+* 6th: [song of ice and fire](), [song of thunder and lightning]()

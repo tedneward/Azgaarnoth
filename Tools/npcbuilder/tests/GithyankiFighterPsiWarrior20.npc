@@ -1,4 +1,4 @@
-Gender,random,Ability Scores,Average,Race,Githyanki,Medicine,Fighter,Arcana,Athletics,Defense,Yes
+Gender,random,Ability Scores,NPC,DEX,INT,CON,STR,WIS,CHA,Race,Githyanki,Medicine,Fighter,Arcana,Athletics,Defense,Yes
 Fighter,Yes
 Fighter,PsiWarrior,Yes
 Fighter,Feat,Tough,Yes
@@ -9,9 +9,9 @@ Fighter,Feat,Blade Mastery,Yes
 Fighter,Yes
 Fighter,Yes
 Fighter,Yes
-Fighter,Ability,CON,CON,Yes
+Fighter,Feat,Telepathic,INT,Yes
 Fighter,Yes
-Fighter,Ability,INT,INT,Yes
+Fighter,Feat,Martial Adept,random,random,Yes
 Fighter,Yes
 Fighter,Ability,INT,INT,Yes
 Fighter,Yes

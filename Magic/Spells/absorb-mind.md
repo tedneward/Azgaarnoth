@@ -1,5 +1,5 @@
 #### Absorb Mind
-*3rd-level divination* (Pale Master, Sorcerer,Warlock,Wizard)
+*3rd-level divination* *(psionic)* (Pale Master, Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

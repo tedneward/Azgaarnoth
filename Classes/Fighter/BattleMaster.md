@@ -35,7 +35,7 @@ If you know any maneuvers from the above list, you can replace one maneuver you 
 You gain proficiency with one type of artisan's tools of your choice.
 
 ```
-    npc.proficiencies.append("CHOOSE-Artisan's tools")
+    npc.proficiencies.append(choose("Choose one: ", tools['artisan']))
 ```
 
 ## Know Your Enemy
@@ -53,7 +53,7 @@ If you spend at least 1 minute observing or interacting with another creature ou
 
 ```
 def level7(npc):
-    npc.superioritydice = 5
+    npc.superioritydice += 1
     allclasses['Fighter'].choosemaneuver(npc)
     allclasses['Fighter'].choosemaneuver(npc)
 
@@ -82,12 +82,14 @@ When you roll initiative and have no superiority dice remaining, you regain 1 su
 
 ```
 def level15(npc):
-    npc.superioritydice = 6
+    npc.superioritydice += 1
     allclasses['Fighter'].choosemaneuver(npc)
     allclasses['Fighter'].choosemaneuver(npc)
 
     npc.traits.append("***Relentless.*** When you roll initiative and have no superiority dice remaining, you regain 1 superiority die.")
 ```
+
+---
 
 ### Battle Master Builds
 The suite of maneuvers you choose, when combined with a fighting style and feats, allows you to create a broad range of fighters, each with its own flavor and play style. Below are recommendations for how you might build a Battle Master to reflect various types of warriors. Each of these builds contains suggested fighting styles, maneuvers, and feats.
@@ -107,7 +109,7 @@ You prefer to deal with your enemies from afar, trusting in a well-placed arrow,
 
 **Maneuvers:** [Bait and Switch](Maneuvers.md#bait-and-switch), [Disarming Attack](Maneuvers.md#disarming-attack), [Goading Attack](Maneuvers.md#goading-attack), [Grappling Strike](Maneuvers.md#grappling-strike)
 
-**Feats:** [Alert](../Feats.md#alert), [Observant](../Feats.md#observant), [Sentinel](../Feats.md#sentinel), [Tough](../Feats.md#tough)
+**Feats:** [Alert](../../Feats/Alert.md), [Observant](../../Feats/Observant.md), [Sentinel](../../Feats/Sentinel.md), [Tough](../../Feats/Tough.md)
 
 Love, money, or some other obligation motivates you to place your own body between harm and the one you're sworn to protect. You have honed the ability to sniff out potential threats and see your charge through dangerous situations.
 
@@ -117,7 +119,7 @@ Love, money, or some other obligation motivates you to place your own body betwe
 
 **Maneuvers:** [Ambush](Maneuvers.md#ambush), [Disarming Attack](Maneuvers.md#disarming-attack), [Feinting Attack](Maneuvers.md#feinting-attack), [Pushing Attack](Maneuvers.md#pushing-attack), [Trip Attack](Maneuvers.md#trip-attack)
 
-**Feats:** [Athlete](../Feats.md#athlete), [Durable](../Feats.md#durable), [Grappler](../Feats.md#grappler), [Resilient](../Feats.md#resilient), [Shield Master](../Feats.md#shield-master), [Tavern Brawler](../Feats.md#tavern-brawler), [Tough](../Feats.md#tough)
+**Feats:** [Athlete](../../Feats/Athlete.md), [Durable](../../Feats/Durable.md), [Grappler](../../Feats/Grappler.md), [Resilient](../../Feats/Resilient.md), [Shield Master](../../Feats/ShieldMaster.md), [Tavern Brawler](../../Feats/TavernBrawler.md), [Tough](../../Feats/Tough.md)
 
 When bottles start breaking and chairs start flying, you're in your element. You love a good scrap, and you've likely seen your share of them. You may or may not have formal training, and while others might call you a dirty fighter, you're still alive.
 
@@ -127,7 +129,7 @@ When bottles start breaking and chairs start flying, you're in your element. You
 
 **Maneuvers:** [Evasive Footwork](Maneuvers.md#evasive-footwork), [Feinting Attack](Maneuvers.md#feinting-attack), [Lunging Attack](Maneuvers.md#lunging-attack), [Parry](Maneuvers.md#parry), [Precision Attack](Maneuvers.md#precision-attack), [Riposte](Maneuvers.md#riposte)
 
-**Feats:** [Defensive Duelist](../Feats.md#defensive-duelist), [Dual Wielder](../Feats.md#dual-wielder), [Observant](../Feats.md#observant), [Savage Attacker](../Feats.md#savage-attacker), [Weapon Master](../Feats.md#weapon-master)
+**Feats:** [Defensive Duelist](../../Feats/DefensiveDuelist.md), [Dual Wielder](../../Feats/DualWielder.md), [Observant](../../Feats/Observant.md), [Savage Attacker](../../Feats/SavageAttacker.md), [Weapon Master](../../Feats/WeaponMaster.md)
 
 You regard the duel as a proud tradition, a test of skill and wits that brings honor to those who can defeat an enemy while respecting the art. Your search for improvement is a consuming passion, and you draw on the expertise of the masters who've come before you as you work to perfect your form.
 
@@ -137,7 +139,7 @@ You regard the duel as a proud tradition, a test of skill and wits that brings h
 
 **Maneuvers:** [Goading Attack](Maneuvers.md#goading-attack), [Menacing Attack](Maneuvers.md#menacing-attack), [Sweeping Attack](Maneuvers.md#sweeping-attack), [Trip Attack](Maneuvers.md#trip-attack)
 
-**Feats:** [Athlete](../Feats.md#athlete), [Charger](../Feats.md#charger), [Dual Wielder](../Feats.md#dual-wielder), [Durable](../Feats.md#durable), [Grappler](../Feats.md#grappler), [Savage Attacker](../Feats.md#savage-attacker), [Tough](../Feats.md#tough), [Weapon Master](../Feats.md#weapon-master)
+**Feats:** [Athlete](../../Feats/Athlete.md), [Charger](../../Feats/Charger.md), [Dual Wielder](../../Feats/DualWielder.md), [Durable](../../Feats/Durable.md), [Grappler](../../Feats/Grappler.md), [Savage Attacker](../../Feats/SavageAttacker.md), [Tough](../../Feats/Tough.md), [Weapon Master](../../Feats/WeaponMaster.md)
 
 You've fought to entertain crowds, whether for sport or as punishment. Along the way, you learned to use all manner of weapons to battle all kinds of adversaries. You're practical yet theatrical, and you know how to employ fear as an effective tool in a fight.
 
@@ -147,7 +149,7 @@ You've fought to entertain crowds, whether for sport or as punishment. Along the
 
 **Maneuvers:** [Brace](Maneuvers.md#brace), [Lunging Attack](Maneuvers.md#lunging-attack), [Parry](Maneuvers.md#parry), [Precision Attack](Maneuvers.md#precision-attack)
 
-**Feats:** [Athlete](../Feats.md#athlete), [Grappler](../Feats.md#grappler), [Polearm Master](../Feats.md#polearm-master), [Sentinel](../Feats.md#sentinel), [Shield Master](../Feats.md#shield-master)
+**Feats:** [Athlete](../../Feats/Athlete.md), [Grappler](../../Feats/Grappler.md), [Polearm Master](../../Feats/PolearmMaster.md), [Sentinel](../../Feats/Sentinel.md), [Shield Master](../../Feats/ShieldMaster.md)
 
 With spear and shield, you follow in the footsteps of the heroes of ages past. You rely on discipline and athleticism to overcome improbable odds. Whether fighting in ranks alongside your comrades or squaring off as a lone warrior, you're equal to the task.
 
@@ -157,7 +159,7 @@ With spear and shield, you follow in the footsteps of the heroes of ages past. Y
 
 **Maneuvers:** [Lunging Attack](Maneuvers.md#lunging-attack), [Menacing Attack](Maneuvers.md#menacing-attack), [Precision Attack](Maneuvers.md#precision-attack), [Pushing Attack](Maneuvers.md#pushing-attack)
 
-**Feats:** [Heavy Armor Master](../Feats.md#heavy-armor-master), [Mounted Combatant](../Feats.md#mounted-combatant), [Savage Attacker](../Feats.md#savage-attacker)
+**Feats:** [Heavy Armor Master](../../Feats/HeavyArmorMaster.md), [Mounted Combatant](../../Feats/MountedCombatant.md), [Savage Attacker](../../Feats/SavageAttacker.md)
 
 When the cavalry is called in, that means you. You ride out to greet your enemy with the point of your weapon. As you charge, the ground trembles, and only the heaviest blows can deter you.
 
@@ -167,7 +169,7 @@ When the cavalry is called in, that means you. You ride out to greet your enemy 
 
 **Maneuvers:** [Ambush](Maneuvers.md#ambush), [Distracting Strike](Manuevers.md#distracting-strike), [Goading Attack](Maneuvers.md#goading-attack), , [Quick Toss](Maneuvers.md#quick-toss), [Precision Attack](Maneuvers.md#precision-attack)
 
-**Feats:** [Alert](../Feats.md#alert), [Crossbow Expert](../Feats.md#crossbow-expert), [Mounted Combatant](../Feats.md#mounted-combatant), [Observant](../Feats.md#observant), [Sharpshooter](../Feats.md#sharpshooter)
+**Feats:** [Alert](../../Feats/Alert.md), [Crossbow Expert](../../Feats/CrossbowExpert.md), [Mounted Combatant](../../Feats/MountedCombatant.md), [Observant](../../Feats/Observant.md), [Sharpshooter](../../Feats/Sharpshooter.md)
 
 You find freedom in the saddle and a companion in your mount. A headlong charge into combat is a blunt instrument for oafs. You prefer mobility and range, opting to find advantageous positions that allow you to deal with foes at full gallop while evading the most dangerous threats.
 
@@ -177,7 +179,7 @@ You find freedom in the saddle and a companion in your mount. A headlong charge 
 
 **Maneuvers:** [Disarming Attack](Maneuvers.md#disarming-attack), [Evasive Footwork](Maneuvers.md#evasive-footwork), [Grappling Strike](Maneuvers.md#grappling-strike), [Menacing Attack](Maneuvers.md#menacing-attack), [Pushing Attack](Maneuvers.md#pushing-attack), [Riposte](Maneuvers.md#riposte), [Trip Attack](Maneuvers.md#trip-attack)
 
-**Feats:** [Athlete](../Feats.md#athlete), [Durable](../Feats.md#durable), [Grappler](../Feats.md#grappler), [Savage Attacker](../Feats.md#savage-attacker), [Tavern Brawler](../Feats.md#tavern-brawler)
+**Feats:** [Athlete](../../Feats/Athlete.md), [Durable](../../Feats/Durable.md), [Grappler](../../Feats/Grappler.md), [Savage Attacker](../../Feats/SavageAttacker.md), [Tavern Brawler](../../Feats/TavernBrawler.md)
 
 Where others rely on steel, you've got your fists. Whether through training or experience, you've developed a superior technique that can help you overcome an enemy in an up-close fight.
 
@@ -187,7 +189,7 @@ Where others rely on steel, you've got your fists. Whether through training or e
 
 **Maneuvers:** [Menacing Attack](Maneuvers.md#menacing-attack), [Pushing Attack](Maneuvers.md#pushing-attack), [Sweeping Attack](Maneuvers.md#sweeping-attack)
 
-**Feats:** [Charger](../Feats.md#charger), [Great Weapon Master](../Feats.md#weapon-master)](../Feats.md#great-weapon-master), [Heavy Armor Master](../Feats.md#heavy-armor-master)
+**Feats:** [Charger](../../Feats/Charger.md), [Great Weapon Master](../../Feats/GreatWeaponMaster.md), [Heavy Armor Master](../../Feats/HeavyArmorMaster.md)
 
 Subtlety is not your style. You're trained to get straight into the fighting, busting through enemy lines and applying tremendous pressure quickly. Those who ignore you in combat do so at their peril. 
 
@@ -197,7 +199,7 @@ Subtlety is not your style. You're trained to get straight into the fighting, bu
 
 **Maneuvers:** [Ambush](Maneuvers.md#ambush), [Bait and Switch](Maneuvers.md#bait-and-switch), [Distracting Strike](Manuevers.md#distracting-strike), [Quick Toss](Maneuvers.md#quick-toss)
 
-**Feats:** [Alert](../Feats.md#alert), [Dual Wielder](../Feats.md#dual-wielder), [Mobile](../Feats.md#mobile), [Skulker](../Feats.md#skulker)
+**Feats:** [Alert](../../Feats/Alert.md), [Dual Wielder](../../Feats/DualWielder.md), [Mobile](../../Feats/Mobile.md), [Skulker](../../Feats/Skulker.md)
 
 You thrive amid the chaos of battle. You use your mobility and versatility in combat to soften your adversaries and disrupt their formations. An enemy's plan rarely survives contact with you.
 
@@ -207,7 +209,6 @@ You thrive amid the chaos of battle. You use your mobility and versatility in co
 
 **Maneuvers:** [Commander's Strike](Maneuvers.md#commanders-strike), [Commanding Presence](Maneuvers.md#commanding-presence), [Maneuvering Attack](Maneuvers.md#maneuvering-attack), [Rally](Maneuvers.md#rally), [Tactical Assessment](Maneuvers.md#tactical-assessment)
 
-**Feats:** [Inspiring Leader](../Feats.md#inspiring-leader), [Keen Mind](../Feats.md#keen-mind), [Linguist](../Feats.md#linguist)
+**Feats:** [Inspiring Leader](../../Feats/InspiringLeader.md), [Keen Mind](../../Feats/KeenMind.md), [Linguist](../../Feats/Linguist.md)
 
 To you, battles unfold like a game of chess. You understand that strength and speed are important in a fight, but it takes intellect and experience to know how best to apply them. That's where you come in.
-

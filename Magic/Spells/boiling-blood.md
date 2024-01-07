@@ -1,5 +1,5 @@
 #### Boiling Blood
-*4th-level transmutation* (Warlock,Wizard)
+*4th-level transmutation* *(blood)* (Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60 feet

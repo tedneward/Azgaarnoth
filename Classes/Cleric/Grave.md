@@ -1,5 +1,7 @@
 # Divine Domain: Grave
-This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Arawn](../../Religions/Pantheon/Arawn.md), [Trinitarians who worship Dara](../../Religions/Trinitarian.md#dara), ...
+Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse’s workings. To resist death, or to desecrate the dead’s rest, is an abomination. These deities teach their followers to respect the dead and pay them due homage. Followers of these deities seek to put restless spirits to rest, destroy the undead wherever they find them, and ease the suffering of dying creatures. Their magic also allows them to stave off a creature’s death, though they refuse to use such magic to extend a creature’s lifespan beyond its mortal limits.
+
+This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md),  [Trinitarians who worship Dara](../../Religions/Trinitarian.md#dara), [Arawn](../../Religions/Pantheon/Arawn.md), ...
 
 ## Domain Spells
 Starting at 1st level, you gain domain spells at the cleric levels listed in the Grave Domain Spells table. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.

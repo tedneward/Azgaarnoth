@@ -6,7 +6,7 @@ Enormous and terrifying, astral dreadnoughts haunt the silvery void of the Astra
 Covered from head to tail in layers of thick, spiked plates, a dreadnought has two gnarled limbs that end in magic-enhanced pincer claws. Constellations appear to swirl in the depths of its single eye, and its serpentine tail trails off into the silvery void. Anything it swallows is deposited in a unique demiplane--an enclosed space that contains eons worth of detritus, as well as the remains of travelers. The place has gravity and breathable air, and organic matter decays there. When the dreadnought dies, its demiplane vanishes, and its contents are released into the Astral Plane.
 
 >### Astral Dreadnought
->*Gargantuan Monstrosity (Titan), Unaligned*
+>*Gargantuan monstrosity (Titan), Unaligned*
 >___
 >- **Armor Class** 20 (natural armor)
 >- **Hit Points** 297 (17d20 + 119)

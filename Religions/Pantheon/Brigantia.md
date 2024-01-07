@@ -1,12 +1,12 @@
 # Brigantia
-Brigantia is the most powerful female deity of the Pantheon. She is a god of magic and fertility, a patron of marriage, and a god of motherhood. Her dominion over water represents the ancient rivers that are the source of fertility and life.
+Brigantia is a god of magic and fertility, a patron of marriage, and a god of motherhood. Her dominion over water represents the ancient rivers that are the source of fertility and life.
 
 Brigantia is a woman of even temper and great dedication. She is a regal and noble deity who is eager to share the knowledge of the gods with humanity and often goes to great lengths to introduce her worshipers to new concepts and ideas. In many cases, these new ideas take the form of magical spells. Brigantia often finds the antics of mortals amusing, but she is a kind, understanding goddess who cares greatly for her worshipers and all the peoples of Azgaarnoth. Her worshipers can be found all over Azgaarnoth, including a growing following among the traditional clans within Yithi, Zhi, and Tragekia, as well as the Lirian and western nations.
 
 ## Clerical details
-Domains: [Arcana](../../Classes/Cleric/Arcana.md), [Nature](../../Classes/Cleric/Nature.md), [Fertility](../../Classes/Cleric/Fertility.md), [Water](../../Classes/Cleric/Water.md)
+**Domains:** [Arcana](../../Classes/Cleric/Arcana.md), [Nature](../../Classes/Cleric/Nature.md), [Fertility](../../Classes/Cleric/Fertility.md), [Water](../../Classes/Cleric/Water.md)
 
-Weapon: Quarterstaff
+**Weapon:** Quarterstaff
 
 ## Worshipers, Clergy & Temples
 Clerics of Brigantia spend their days overseeing the agricultural production of the nation's farms, particularly during planting time. Brigantia's high clerics often use weather control spells to ensure a bountiful harvest. Members of her clergy also administer marriage ceremonies, work as matchmakers for those in search of a mate, serve as go-betweens for lovers, and counsel young mothers on raising their children. They often fashion small charms for those whose deeds have won the goddess's favor, and sometimes they will even fashion unobtrusive magic items to serve good causes or lighten the burden of the common people.

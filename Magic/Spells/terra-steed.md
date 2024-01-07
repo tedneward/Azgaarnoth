@@ -1,5 +1,5 @@
 #### Terra Steed
-*3rd-level conjuration (Druid, Ranger, Sorcerer, Wizard)
+*3rd-level conjuration* (Druid, Ranger, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action 
 - **Range:** Self 

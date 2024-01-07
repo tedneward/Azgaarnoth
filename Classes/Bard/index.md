@@ -174,7 +174,8 @@ Your [Bardic Inspiration](#bardic-inspiration) die changes when you reach certai
         npc.bardicinspirationdie = 6 if npc.levels('Bard') < 5 else 8 if npc.levels('Bard') < 10 else 10 if npc.levels('Bard') < 15 else 12
 
     npc.defer(lambda npc: bardicdie(npc) )
-    npc.defer(lambda npc: npc.bonusactions.append(f"***Bardic Inspiration ({npc.CHAbonus()}/Recharges on long rest).*** You can inspire others through stirring words or music. Choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d{npc.bardicinspirationdie}.") )
+    npc.defer(lambda npc: npc.traits.append(f"***Bardic Inspiration ({npc.CHAbonus()} dice/Recharges on {'long' if npc.levels('Bard') < 5 else 'short or long'} rest).*** You can inspire others through stirring words or music."))
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Bardic Inspiration: Inspiration.*** Choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die (d{npc.bardicinspirationdie}).") )
 ```
 
 ## Magical Inspiration
@@ -202,7 +203,7 @@ You can add half your proficiency bonus, rounded down, to any ability check you 
 You can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.
 
 ```
-    npc.traits.append("***Song of Rest.*** You can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.")
+    npc.traits.append("***Song of Rest.*** If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.")
 ```
 
 ## Bard College

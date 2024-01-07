@@ -22,7 +22,7 @@ Elven communities encourage owlbears to den beneath their treetop villages, usin
 ![](Owlbear-Token.png)
 
 >### Owlbear
->*Large Monstrosity, Unaligned*
+>*Large monstrosity, Unaligned*
 >___
 >- **Armor Class** 13 (natural armor)
 >- **Hit Points** 59 (7d10 + 21)

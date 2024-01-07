@@ -1,6 +1,6 @@
 Gender,random,Ability Scores,Average,Race,Dragonborn,Copper,Fighter,Acrobatics,Perception,Dueling,Yes
 Fighter,Yes
-Fighter,BattleMaster,Evasive Footwork,Feinting Attack,Lunging Attack,Yes
+Fighter,BattleMaster,Evasive Footwork,Feinting Attack,Lunging Attack,random,Yes
 Fighter,Ability,CON,DEX,Yes
 Fighter,Yes
 Fighter,Ability,CON,DEX,Yes
@@ -11,8 +11,8 @@ Fighter,Riposte,Studious Eye,Yes
 Fighter,Yes
 Fighter,Feat,Savage Attacker,Yes
 Fighter,Yes
-Fighter,Feat,Weapon Master,STR,Yes
-Fighter,Precision Attack,Silver Tongue,Yes
+Fighter,Feat,Weapon Master,STR,random,random,random,random,Yes
+Fighter,random,random,Yes
 Fighter,Feat,Dual Wielder,Yes
 Fighter,Yes
 Fighter,Yes

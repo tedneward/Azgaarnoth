@@ -72,3 +72,12 @@ If using this ability grants you a success on the attack, saving throw, or abili
 def level14(npc):
     npc.traits.append("***Fool's Luck.*** You can expend one use of Bardic Inspiration after you fail an ability check, fail a saving throw, or miss with an attack roll. Roll a Bardic Inspiration die and add the number rolled to your attack, saving throw, or ability check, using the new result in place of the failed one. If using this ability grants you a success on the attack, saving throw, or ability check, note the number you rolled on the Bardic Inspiration die. The DM can then apply that result as a penalty to an attack or check you make, and you cannot use this ability again until you suffer this drawback. When the DM invokes this penalty, describe an embarrassing gaffe or mistake you make as part of the affected die roll.")
 ```
+
+---
+
+# Custom Bard Spells
+The College of Satire has created a few spells for their own use.
+
+* 2nd: [unbalancing rhythm]()
+* 3rd: [still wind]()
+* 6th: [thermal reversal]()

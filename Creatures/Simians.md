@@ -1,7 +1,7 @@
 # Simians
 The simian family of creatures are those that are vaguely humanoid yet still bestial: monkeys, baboons, apes, and so on.
 
-> Jump to: [Baboon](Simians.md#baboon) | [Giant Ape](Simians.md#giant-ape) | [Girallon](Simians.md#girallon)
+> Jump to: [Ape](Simians.md#ape) [Baboon](Simians.md#baboon) | [Giant Ape](Simians.md#giant-ape) | [Girallon](Simians.md#girallon)
 
 ---
 
@@ -155,7 +155,7 @@ Girallons that are well treated might be willing to serve as guards, though they
 ![](Simians-Girallon-Token.png)
 
 >### Girallon
->*Large Monstrosity, Unaligned*
+>*Large monstrosity, Unaligned*
 >___
 >- **Armor Class** 13
 >- **Hit Points** 59 (7d10 + 21)

@@ -25,17 +25,9 @@ Beginning at 14th level, aware of your infinitesimally inconsequential nature ag
 # Voidmancy Spells
 In addition to the core spell list, Voidmancers will typically have access to the following spells:
 
-## Cantrip
-* [voidwhisper](../../Magic/Spells/voidwhisper.md)
-
-## 2nd-level
-* [voidsight](../../Magic/Spells/voidsight.md)
-
-## 3rd-level
-* [visions of the void](../../Magic/Spells/visions-of-the-void.md)
-
-## 5th-level
-* [echoes of the void](../../Magic/Spells/echoes-of-the-void.md)
-
-## 9th-level
-* [ravenous void](../../Magic/Spells/ravenous-void.md)
+* cantrips: [voidwhisper](../../Magic/Spells/voidwhisper.md)
+* 2nd: [voidsight](../../Magic/Spells/voidsight.md)
+* 3rd: [rings of darkness](../../Magic/Spells/rings-of-darkness.md), [siphon light](../../Magic/Spells/siphon-light.md), [visions of the void](../../Magic/Spells/visions-of-the-void.md)
+* 4th: [cage of black](../../Magic/Spells/cage-of-black.md), [dark zone](../../Magic/Spells/dark-zone.md), [wheel of darkness](../../Magic/Spells/wheel-of-darkness.md)
+* 5th: [echoes of the void](../../Magic/Spells/echoes-of-the-void.md), [wall of darkness](../../Magic/Spells/wall-of-darkness.md)
+* 9th: [ravenous void](../../Magic/Spells/ravenous-void.md)

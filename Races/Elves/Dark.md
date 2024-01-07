@@ -10,7 +10,7 @@ description = "***Subrace: Dark Elf.*** Elvish scholars speak of an ancient schi
 
 * **Ability Score Increase**. Your Charisma score increases by 1.
 
-* ***Drow* Magic**. You know the [dancing lights](https://www.dndbeyond.com/spells/dancing-lights) cantrip. When you reach 3rd level, you can cast Faerie Fire once, and it recharges after a long rest. When you reach 5th level, you can cast Darkness once, and it recharges after a long rest. Charisma is your spellcasting ability for these spells.
+* ***Drow* Magic**. You know the [dancing lights](../../Magic/Spells/dancing-lights.md) cantrip. When you reach 3rd level, you can cast [Faerie Fire](../../Magic/Spells/faerie-fire.md) once, and it recharges after a long rest. When you reach 5th level, you can cast [Darkness](../../Magic/Spells/darkness.md) once, and it recharges after a long rest. Charisma is your spellcasting ability for these spells.
 
 * ***Drow* Weapon Training**. You have proficiency with rapiers, shortswords, and hand crossbows.
 

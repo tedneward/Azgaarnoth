@@ -3,7 +3,7 @@
 
 Clerics of Fire hold dominion over the powers of destruction but also creation; immolation yet warmth. While fire is a symbol of chaos and unrelenting harm, it also stands as a symbol of purification (such as how incense burned to permeate a scent of cleansing) and healing (like how a wound is seared to prevent infection). The one constant of fire is that whatever it touches is forever changed.
 
-This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Sor](../../Religions/Trinitarian.md#sor), ...
+This domain is available to clerics of the [Kaevarian Church](../../Religions/KaevarianChurch.md), [Trinitarians who worship Sor](../../Religions/Trinitarian.md#sor), [Gond](../../Religions/Pantheon/Gond.md), [Gruumsh](../../Religions/Pantheon/Gruumsh.md), [Hextor](../../Religions/Pantheon/Hextor.md), [Onatar](../../Religions/Pantheon/Onatar.md), ...
 
 ```
 name = 'Fire'

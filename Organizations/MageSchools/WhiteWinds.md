@@ -21,7 +21,7 @@ White Winds was the first to develop the [Arcanist](../../Classes/Wizard/Arcanis
 ## Connections
 
 # White Winds Spells
-These are actually quite common across Azgaarnoth, but require a White Winds mage to teach them.
+These are actually quite common across Azgaarnoth, but require a White Winds mage to teach them. Despite their commonality, they ae not considered "core" spells, and if a player character wishes to learn one, it should be done as part of game activities.
 
 ## Cantrips
 * [dire radiance](../../Magic/Spells/dire-radiance.md)

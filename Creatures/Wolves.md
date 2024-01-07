@@ -1,7 +1,7 @@
 # Wolves
 Primal and often savage cousins of the [Dog](Dogs.md), wolves often run in packs, and will demonstrate a fearsome loyalty to their packmates.
 
-> Jump to: [Wolf](Wolves.md#wolf) | [Greater Wolf](Wolves.md#greater-wolf) | [Dire Wolf](Wolves.md#dire-wolf) | [Winter Wolf](Wolves.md#winter-wolf) | [Worg](Wolves.md#worg)
+> Jump to: [Wolf](Wolves.md#wolf) | [Greater Wolf](Wolves.md#greater-wolf) | [Dire Wolf](Wolves.md#dire-wolf) | [Winter Wolf](Wolves.md#winter-wolf) | [Worg](Wolves.md#worg) | [Hound of Ill Omen]()
 
 ---
 
@@ -213,3 +213,48 @@ Forest, Hill, Mountain
 >***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 >
 
+---
+
+## Hound of Ill Omen
+The hound of ill omen is a creature of the Shadowfell, and its mournful wail is both a warning and a curse to those it hunts.
+
+### Environment
+Conjured/Summoned, Ruins, Forest, Swamp
+
+### Token
+![](Wolves-HoundofIllOmen-Token.png)
+
+>### Hound of Ill Omen
+>*Medium beast, unaligned*
+>___
+>- **Armor Class** 14 (natural armor)
+>- **Hit Points** 37 (5d10 + 10)
+>- **Speed** 50 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|17 (+3)|15 (+2)|15 (+2)|3 (-4)|12 (+1)|7 (-2)|
+>
+>___
+>- **Proficiency Bonus** +2
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +3,Stealth +4
+>- **Senses** passive Perception 13
+>- **Languages** —
+>- **Challenge** 1
+>___
+>***Incorporeal Movement.*** The hound can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+>
+>***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+>
+>***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>
+>***Prey Sense.*** At the start of its turn, the hound automatically knows its target's location. If the target was hidden, it is no longer hidden from the hound.
+>
+>#### Actions
+>***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+>

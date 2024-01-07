@@ -188,15 +188,15 @@ Pick a number of spells equal to the dragon's Charisma modifier. Follow the tabl
 **Dragon Innate Casting**
 Charisma Modifier|At Will Spells|3/Day Spells|1/Day Spells
 -----------------|--------------|------------|------------
-+1|1|0|0
-+2|1|1|0
-+3|2|1|0
-+4|2|1|1
-+5|2|2|1
-+6|3|2|1
-+7|3|2|2
-+8|3|3|2
-+9|4|3|2
++1 | 1 | 0 | 0
++2 | 1 | 1 | 0
++3 | 2 | 1 | 0
++4 | 2 | 1 | 1
++5 | 2 | 2 | 1
++6 | 3 | 2 | 1
++7 | 3 | 2 | 2
++8 | 3 | 3 | 2
++9 | 4 | 3 | 2
 
 Preferred spells vary according to dragon type. 
 
@@ -204,9 +204,9 @@ General spells are provided here: [absorb elements](../../Magic/Spells/absorb-el
 
 Preferred spells by dragon type are given here:
 
-* **Black Dragons:** acid splash, chill touch, darkness, plant growth, vampiric touch, insect plague, melf's acid arrow, stinking cloud, circle of death, contagion, cloudkill, finger of death, harm.
-* **Blue Dragons:** lightning bolt, minor illusion, shocking grasp, thunderclap, call lightning, major image, silent image, hallucinatory terrain, project image, mirage arcane, storm of vengeance, storm sphere, control weather.
-* **Green Dragons:** friends, poison spray, suggestion, thorn whip, charm person, cloudkill, command, dominate beast, dominate person, entangle, glibness, mass suggestion, plant growth, dominate monster, wall of thorns.
+* **Black Dragons:** [acid splash](../../Magic/Spells/acid-splash.md), [chill touch](../../Magic/Spells/chill-touch.md), [darkness](../../Magic/Spells/darkness.md), [plant growth](../../Magic/Spells/plant-growth.md), [vampiric touch](../../Magic/Spells/vampiric-touch.md), [insect plague](../../Magic/Spells/insect-plague.md), [melf's acid arrow](../../Magic/Spells/melfs-acid-arrow.md), [stinking cloud](../../Magic/Spells/stinking-cloud.md), [circle of death](../../Magic/Spells/circle-of-death.md), [contagion](../../Magic/Spells/contagion.md), [cloudkill](../../Magic/Spells/cloudkill.md), [finger of death](../../Magic/Spells/finger-of-death.md), [harm](../../Magic/Spells/harm.md)
+* **Blue Dragons:** [lightning bolt](../../Magic/Spells/lightning-bolt.md), [minor illusion](../../Magic/Spells/minor-illusion.md), [shocking grasp](../../Magic/Spells/shocking-grasp.md), [thunderclap](../../Magic/Spells/thunderclap.md), [call lightning](../../Magic/Spells/call-lightning.md), [major image](../../Magic/Spells/major-image.md), [silent image](../../Magic/Spells/silent-image.md), [hallucinatory terrain](../../Magic/Spells/hallucinatory-terrain.md), [project image](../../Magic/Spells/project-image.md), [mirage arcane](../../Magic/Spells/mirage-arcane.md), [storm of vengeance](../../Magic/Spells/storm-of-vengeance.md), [storm sphere](../../Magic/Spells/storm-sphere.md), [control weather](../../Magic/Spells/control-weather.md).
+* **Green Dragons:** [friends](../../Magic/Spells/friends.md), [poison spray](../../Magic/Spells/poison-spray.md), [suggestion](../../Magic/Spells/suggestion.md), [thorn whip](../../Magic/Spells/thorn-whip.md), [charm person](../../Magic/Spells/charm-person.md), [cloudkill](../../Magic/Spells/cloudkill.md), [command](../../Magic/Spells/command.md), [dominate beast](../../Magic/Spells/dominate-beast.md), [dominate person](../../Magic/Spells/dominate-person.md), [entangle](../../Magic/Spells/entangle.md), [glibness](../../Magic/Spells/glibness.md), [mass suggestion](../../Magic/Spells/mass-suggestion.md), [plant growth](../../Magic/Spells/plant-growth.md), [dominate monster](../../Magic/Spells/dominate-monster.md), [wall of thorns](../../Magic/Spells/wall-of-thorns.md).
 * **Red Dragons:** [control flames](../../Magic/Spells/control-flames.md), [create bonfire](../../Magic/Spells/create-bonfire.md), firebolt, locate object, produce flame, clairvoyance, delayed blast fireball, fireball, heat metal, immolation, scrying, wall of fire, firestorm, incendiary cloud.
 * **White Dragons:** frostbite, fog cloud, gust of wind, sleet storm, ice storm, cone of cold, investiture of ice, wall of ice, investiture of wind, control weather.
 * **Brown Dragons:** [create bonfire](../../Magic/Spells/create-bonfire.md), mold earth, heat metal, erupting earth, earthbind, wall of sand, transmute rock, move earth, earthquake.

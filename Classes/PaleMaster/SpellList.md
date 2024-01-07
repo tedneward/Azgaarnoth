@@ -1,5 +1,4 @@
-# Pale Master Spells
- 
+# Spell List Summary: Pale Master 
 ## cantrip-Level Spells
 * [Balance](../../Magic/Spells/balance.md)
 * [Blood Curse](../../Magic/Spells/blood-curse.md)
@@ -24,7 +23,7 @@
 * [Pacify](../../Magic/Spells/pacify.md)
 * [Peaceful Valediction](../../Magic/Spells/peaceful-valediction.md)
 * [Poison Spray](../../Magic/Spells/poison-spray.md)
-* [Rancorous-Mist Blade](../../Magic/Spells/rancorous-mist-blade.md)
+* [Rancorous-Mist Blade](../../Magic/Spells/rancorous-mist-blade.md) *brandish*
 * [Reaver's Touch](../../Magic/Spells/reavers-touch.md)
 * [Scourge](../../Magic/Spells/scourge.md)
 * [Shadow Embrace](../../Magic/Spells/shadow-embrace.md)
@@ -43,19 +42,19 @@
 * [Waning Vigor](../../Magic/Spells/waning-vigor.md)
  
 ## 1st-Level Spells
-* [Acrid Delight](../../Magic/Spells/acrid-delight.md)
-* [Alacritous Interpretation](../../Magic/Spells/alacritous-interpretation.md)
-* [Animate Cranium](../../Magic/Spells/animate-cranium.md)
+* [Acrid Delight](../../Magic/Spells/acrid-delight.md) *ritual*
+* [Alacritous Interpretation](../../Magic/Spells/alacritous-interpretation.md) *ritual*
+* [Animate Cranium](../../Magic/Spells/animate-cranium.md) *ritual*
 * [Arms of Hadar](../../Magic/Spells/arms-of-hadar.md)
 * [Bane](../../Magic/Spells/bane.md)
 * [Blackout](../../Magic/Spells/blackout.md)
 * [Bone Storm](../../Magic/Spells/bone-storm.md)
 * [Cause Fear](../../Magic/Spells/cause-fear.md)
 * [Chill of the Grave](../../Magic/Spells/chill-of-the-grave.md)
-* [Creeping Crawling Claw](../../Magic/Spells/creeping-crawling-claw.md)
+* [Creeping Crawling Claw](../../Magic/Spells/creeping-crawling-claw.md) *ritual*
 * [Cursed with Undeath](../../Magic/Spells/cursed-with-undeath.md)
 * [Dark Pact](../../Magic/Spells/dark-pact.md)
-* [Dead Man's Tell](../../Magic/Spells/dead-mans-tell.md)
+* [Dead Man's Tell](../../Magic/Spells/dead-mans-tell.md) *ritual*
 * [Death's Grasp](../../Magic/Spells/deaths-grasp.md)
 * [Dread](../../Magic/Spells/dread.md)
 * [False Life](../../Magic/Spells/false-life.md)
@@ -69,16 +68,17 @@
 * [Laeral's Cutting Hand](../../Magic/Spells/laerals-cutting-hand.md)
 * [Larloch's Minor Drain](../../Magic/Spells/larlochs-minor-drain.md)
 * [Misery](../../Magic/Spells/misery.md)
-* [Murmurs of the Restless](../../Magic/Spells/murmurs-of-the-restless.md)
+* [Murmurs of the Restless](../../Magic/Spells/murmurs-of-the-restless.md) *ritual*
 * [Ray of Sickness](../../Magic/Spells/ray-of-sickness.md)
 * [Rot](../../Magic/Spells/rot.md)
 * [Shed Skin](../../Magic/Spells/shed-skin.md)
-* [Unseen Servant](../../Magic/Spells/unseen-servant.md)
+* [Unseen Servant](../../Magic/Spells/unseen-servant.md) *ritual*
 * [Witch Bolt](../../Magic/Spells/witch-bolt.md)
  
 ## 2nd-Level Spells
-* [Analyze Blood](../../Magic/Spells/analyze-blood.md)
-* [Blackrot](../../Magic/Spells/blackrot.md)
+* [Analyze Blood](../../Magic/Spells/analyze-blood.md) *ritual*
+* [Blackrot](../../Magic/Spells/blackrot.md) *brandish*
+* [Blade of Dark Whispers](../../Magic/Spells/blade-of-dark-whispers.md) *brandish*
 * [Blastbones](../../Magic/Spells/blastbones.md)
 * [Blindness/Deafness](../../Magic/Spells/blindness-deafness.md)
 * [Darkness](../../Magic/Spells/darkness.md)
@@ -87,8 +87,9 @@
 * [Detect Familiar](../../Magic/Spells/detect-familiar.md)
 * [Detect Undead](../../Magic/Spells/detect-undead.md)
 * [Drain Life](../../Magic/Spells/drain-life.md)
+* [Ebony Hand](../../Magic/Spells/ebony-hand.md)
 * [Elemental Anguish](../../Magic/Spells/elemental-anguish.md)
-* [Gentle Repose](../../Magic/Spells/gentle-repose.md)
+* [Gentle Repose](../../Magic/Spells/gentle-repose.md) *ritual*
 * [Grimlore's Shadowgrasp](../../Magic/Spells/grimlores-shadowgrasp.md)
 * [Lifetap](../../Magic/Spells/lifetap.md)
 * [Manacle of Burden](../../Magic/Spells/manacle-of-burden.md)
@@ -97,10 +98,10 @@
 * [Ray of Enfeeblement](../../Magic/Spells/ray-of-enfeeblement.md)
 * [Shadow Bind](../../Magic/Spells/shadow-bind.md)
 * [Shadow Blade](../../Magic/Spells/shadow-blade.md)
-* [Silence](../../Magic/Spells/silence.md)
+* [Silence](../../Magic/Spells/silence.md) *ritual*
 * [Silvanus' Blessing](../../Magic/Spells/silvanus-blessing.md)
 * [Tether Soul](../../Magic/Spells/tether-soul.md)
-* [Unseat Hand](../../Magic/Spells/unseat-hand.md)
+* [Unseat Hand](../../Magic/Spells/unseat-hand.md) *ritual*
  
 ## 3rd-Level Spells
 * [Absorb Mind](../../Magic/Spells/absorb-mind.md)
@@ -109,14 +110,14 @@
 * [Counterspell](../../Magic/Spells/counterspell.md)
 * [Dispel Magic](../../Magic/Spells/dispel-magic.md)
 * [Fear](../../Magic/Spells/fear.md)
-* [Feign Death](../../Magic/Spells/feign-death.md)
+* [Feign Death](../../Magic/Spells/feign-death.md) *ritual*
 * [Grimlore's Affliction](../../Magic/Spells/grimlores-affliction.md)
 * [Infestation of Maggots](../../Magic/Spells/infestation-of-maggots.md)
 * [Junglerazer](../../Magic/Spells/junglerazer.md)
 * [Life Transference](../../Magic/Spells/life-transference.md)
 * [Lunar Blessing](../../Magic/Spells/lunar-blessing.md)
 * [Mummify](../../Magic/Spells/mummify.md)
-* [Phantom Steed](../../Magic/Spells/phantom-steed.md)
+* [Phantom Steed](../../Magic/Spells/phantom-steed.md) *ritual*
 * [Poisoned Heart](../../Magic/Spells/poisoned-heart.md)
 * [Remove Curse](../../Magic/Spells/remove-curse.md)
 * [Revivify](../../Magic/Spells/revivify.md)
@@ -127,7 +128,7 @@
 * [Swift Ward](../../Magic/Spells/swift-ward.md)
 * [Tongues](../../Magic/Spells/tongues.md)
 * [Vampiric Touch](../../Magic/Spells/vampiric-touch.md)
-* [Water Breathing](../../Magic/Spells/water-breathing.md)
+* [Water Breathing](../../Magic/Spells/water-breathing.md) *ritual*
  
 ## 4th-Level Spells
 * [Absorb Strength](../../Magic/Spells/absorb-strength.md)
@@ -161,7 +162,7 @@
 * [Enervation](../../Magic/Spells/enervation.md)
 * [Grimlore's Touch of Undeath](../../Magic/Spells/grimlores-touch-of-undeath.md)
 * [Hallow](../../Magic/Spells/hallow.md)
-* [Ilmater's Fortune](../../Magic/Spells/ilmaters-fortune.md)
+* [Ilmater's Fortune](../../Magic/Spells/ilmaters-fortune.md) *ritual*
 * [Insect Plague](../../Magic/Spells/insect-plague.md)
 * [Mass Inflict Wounds](../../Magic/Spells/mass-inflict-wounds.md)
 * [Midnight](../../Magic/Spells/midnight.md)

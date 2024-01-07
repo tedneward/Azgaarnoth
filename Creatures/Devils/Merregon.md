@@ -6,7 +6,7 @@ Merregons have no individuality and hence no need for faces. Every merregon legi
 Because of their unshakable loyalty, merregons form the backbone of many devils' protective retinues. They shrink from no task, no matter how dangerous. Unless ordered to fall back, they never retreat from a fight.
 
 >### Merregon
->*Medium Fiend (Devil), Typically Lawful Evil*
+>*Medium fiend (Devil), Typically Lawful Evil*
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 45 (6d8 + 18)
@@ -40,5 +40,5 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 >***Heavy Crossbow.*** Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. Hit: 7 (1d10 + 2) piercing damage.
 >
 >#### Reactions
->***Loyal Bodyguard.*** When another Fiend within 5 feet of the merregon is hit by an attack roll, the merregon causes itself to be hit instead.
+>***Loyal Bodyguard.*** When another fiend within 5 feet of the merregon is hit by an attack roll, the merregon causes itself to be hit instead.
 >

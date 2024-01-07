@@ -12,7 +12,7 @@ Extraplanar, Ruins, Urban, Conjured/Summoned
 ![](Maurezhi-Token.png)
 
 >### Maurezhi
->*Medium Fiend (Demon), Typically Chaotic Evil*
+>*Medium fiend (Demon), Typically Chaotic Evil*
 >___
 >- **Armor Class** 15 (natural armor)
 >- **Hit Points** 88 (16d8 + 16)

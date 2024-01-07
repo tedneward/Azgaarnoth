@@ -242,12 +242,12 @@ traits = {
 
 weapons = {
     'simple-melee' : {
-        'Club': ['1d4', 'bludgeoning', ['Light']],
+        'Club': ['1d4', 'bludgeoning', ['light']],
         'Dagger': ['1d4', 'piercing', ['finesse', 'light', 'thrown (range 20/60)']],
         'Greatclub': ['1d8', 'bludgeoning', ['two-handed']],
-        'Handaxe': ['1d6', 'slashing', ['Light', 'thrown (range 20/60)']],
+        'Handaxe': ['1d6', 'slashing', ['light', 'thrown (range 20/60)']],
         'Javelin': ['1d6', 'piercing', ['thrown (range 30/120)']],
-        'Light hammer': ['1d4', 'bludgeoning', ['Light', 'thrown (range 20/60)']],
+        'Light hammer': ['1d4', 'bludgeoning', ['light', 'thrown (range 20/60)']],
         'Mace': ['1d6', 'bludgeoning', []],
         'Quarterstaff': ['1d6', 'bludgeoning', ['versatile (1d8)']],
         'Sickle': ['1d4', 'slashing', ['light']],
@@ -288,27 +288,44 @@ weapons = {
     },
 }
 
+languages = {
+    'Common': ['Common', 'Dwarvish', 'Elvish', 'Gnomish', 'Goblin', 'Halfling', 'Orc'],
+    'Exotic': ['Abyssal', 'Celestial', 'Draconic', 'Deep Speech', 'Infernal', 
+               'Primordial','Aquan', 'Auran', 'Ignan', 'Terran',
+               'Sylvan', 'Undercommon' ]
+}
+
 armor = {
     'light': {
+        'Battle robe' : 11,
         'Padded armor' : 11, 
-        'Leather armor' : 11, 
+        'Leather armor' : 11,
+        'Leather lamellar' : 12,
         'Studded leather armor' : 12
     },
     'medium': {
         'Hide armor' : 12, 
-        'Chain shirt' : 13, 
+        'Chain shirt' : 13,
+        'Plated leather' : 13,
+        'Wood' : 13,
         'Scale mail' : 14, 
         'Breastplate' : 14, 
-        'Half-plate' : 15
+        'Half-plate' : 15,
+        'Kozane' : 15
     },
     'heavy': {
         'Ring mail' : 14,
+        'Lorica segmentata' : 15,
         'Chain mail' : 16,
         'Splint armor' : 17,
         'Plate armor' : 18
     },
     'shields': {
-        'Shield' : 2
+        'Buckler' : 1,
+        'Fencing cloak' : 1,
+        'Vambrace' : 1,
+        'Shield' : 2,
+        'Tower shield' : 2
     }
 }
 
@@ -340,6 +357,7 @@ tools = {
     ],
     'musical': [
         "Bagpipes",
+        "Chimes",
         "Drum",
         "Dulcimer",
         "Flute",
@@ -677,10 +695,10 @@ class NPC:
                 text += f"{self.maxspellsknown} spells known. "
             if self.spellsprepared > 0:
                 text += f"{self.spellsprepared} spells prepared. "
-            text += f"Spell save DC: {self.spellsavedc()}, Spell attack bonus: +{self.spellattack()}\n"
+            text += f"**Spell save DC: {self.spellsavedc()}**, **Spell attack bonus: +{self.spellattack()}**\n>\n"
             if len(self.spellsalwaysprepared) > 0:
                 text += f">\n>Spells always prepared: {','.join(map(lambda c: spelllinkify(c),self.spellsalwaysprepared))}\n"
-            text +=  ">\n"
+                text +=  ">\n"
             if self.maxcantripsknown > 0 or len(self.cantripsknown):
                 text += ">* *Cantrips:* " + ",".join(map(lambda c: spelllinkify(c),self.cantripsknown)) + "\n"
             if len(self.perday.keys()) > 0:
@@ -697,7 +715,6 @@ class NPC:
             else:
                 for lvl in range(len(self.slots)):
                     text += f">* *{advlevel[lvl]} ({self.slots[lvl]} slots):* {','.join(map(lambda c: spelllinkify(c),self.spells[lvl+1]))}\n"
-            text += ">\n"
             return text
 
 
@@ -889,6 +906,7 @@ class NPC:
         self.expertises = dupecheck(self.expertises, "expertise")
         self.proficiencies = dupecheck(self.proficiencies, "proficiency")
         self.languages = dupecheck(self.languages, "language")
+        self.savingthrows = dupecheck(self.savingthrows, "saving throw")
 
         damagetypes = [ 
             'acid', 'bludgeoning', 'cold', 'fire', 'force', 'lightning', 'necrotic', 
@@ -916,6 +934,8 @@ class NPC:
         self.actions.sort()
         self.bonusactions.sort()
         self.reactions.sort()
+        self.skills.sort()
+        self.proficiencies.sort()
 
     def getsavingthrows(self):
         results = []
@@ -964,8 +984,9 @@ class NPC:
                 else:
                     ac += acnum
                     result.append(f'{actext} (+{acnum})')
-            ac += self.DEXbonus()
-            result.append(f'DEX ({self.DEXbonus():+g})')
+            if self.DEXbonus() != 0:
+                ac += self.DEXbonus()
+                result.append(f'DEX ({self.DEXbonus():+g})')
             return str(ac) + ' (' + ",".join(result) + ')'
         
         def getspeed():
@@ -1007,27 +1028,46 @@ class NPC:
                     strs.append(f"{c.name} {classmap[c]}")
             return "/".join(strs)
         
+        def genage():
+            ages = [
+                "Child", "Teenager", "Young adult", "Adult", "Middle-aged", "Old adult", "Elderly"
+            ]
+            return ages[random.randint(0, len(ages) -1)]
+        
         def genappearance():
             features = [
+                "Bald",
+                "Bad posture",
+                "Cross-eyed",
+                "Pale",
+                "Unusually short",
+                "Thin as a rail",
+                "Heavy in the torso",
+                "Unusually tall",
                 "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+                "Distinctive clothing: Flamboyant or outlandish",
                 "Piercings",
-                "Flamboyant or outlandish clothing",
                 "Formal, clean clothes",
                 "Ragged, dirty clothes",
                 "Pronounced scar on face",
                 "Pronounced scars all over arms",
                 "Puckered scar on legs",
                 "Burn marks/scars visible somewhere",
+                "Pock-marked face and scraggly beard",
+                "Winning smile",
+                "Breath reeking of onions",
+                "Broken nose",
                 "Missing teeth",
                 "Missing fingers",
                 "Unusual eye color, or two different eye colors",
-                "Exceptionally hairy",
-                "Tattoos",
-                "Birthmark (on visible portion of body)",
                 "Unusual skin color",
-                "Bald",
-                "Braided beard or hair",
                 "Unusual hair color",
+                "Exceptionally hairy",
+                "Tattoos, beautiful works of art",
+                "Tattoos, clumsy and childish",
+                "Tattoos, foreign or unknown script",
+                "Birthmark (on visible portion of body)",
+                "Braided beard or hair",
                 "Nervous eye twitch",
                 "Distinctive nose",
                 "Distinctive posture (crooked or rigid)",
@@ -1038,11 +1078,16 @@ class NPC:
 
         def gentalent():
             talents = [
+                "Master liar",
+                "Master of disguise",
+                "Appears more clever than they actually are",
+                "Unremarkable, can hide in plain sight",
+                "Can eat unreasonably large amounts of food",
+                "Great at causing distractions",
+                "Excellent at hiding emotions/thoughts",
+                "Great at improvisation",
                 "Plays a musical instrument",
                 "Speaks many languages fluently",
-                "Unbelievably lucky",
-                "Incredibly unlucky",
-                "Expert juggler",
                 "Distinctive speaking voice",
                 "Excellent storyteller",
                 "Expert sketch artist",
@@ -1050,7 +1095,8 @@ class NPC:
                 "Perfect memory",
                 "Great with animals",
                 "Great with children",
-                "Great at solving puzzles",
+                "Amateur woodcrafter",
+                "Great at solving riddles and puzzles",
                 "Excellent improvisational poet",
                 "Great at dice",
                 "Great at impersonations",
@@ -1061,11 +1107,14 @@ class NPC:
                 "Paints beautifully",
                 "Sings beautifully",
                 "Drinks everyone under the table",
+                "Expert juggler",
+                "Expert salesperson",
+                "Expert painter",
+                "Expert cartographer",
                 "Expert carpenter",
                 "Expert cook",
                 "Expert dart thrower and rock-skipper",
                 "Skilled actor",
-                "Master of disguise",
                 "Skilled dancer",
                 "Skilled mime"
             ]
@@ -1082,6 +1131,7 @@ class NPC:
                 "Speaks loudly",
                 "Refers to themself in the third person",
                 "Overly dramatic, as if on stage, when excited",
+                "Always appears to be busy or in a hurry",
                 "Whispers",
                 "Uses flowery speech or long words",
                 "Frequently uses the wrong word",
@@ -1096,28 +1146,21 @@ class NPC:
                 "Paces while speaking",
                 "Taps fingers",
                 "Bites fingernails",
-                "Twirls hair or tugs beard"
+                "Twirls hair or tugs beard",
+                "Absent-minded (when not under stress)",
+                "Hot-headed and brash"
             ]
             return mannerisms[random.randint(0, len(mannerisms)-1)]
         
         def geninteractions():
             interactions = [
-                "Argumentative with others",
-                "Arrogant when speaking with others",
-                "Always convinced they are right when speaking with others",
-                "Blustering when talking to others",
-                "Self-deprecating with others",
-                "Humble with others",
-                "Frequently rude to others",
-                "Curious when speaking with others",
-                "Friendly when talking to others",
-                "Honest with others",
-                "Hot-tempered with others",
-                "Quick to cut off others when speaking with them",
-                "Irritable when speaking with others",
-                "Ponderous when speaking with others",
-                "Quiet with others",
-                "Suspicious when talking with others"
+                "Annoying", "Argumentative", "Arrogant", "Blustering",
+                "Braggart", "Competitive", "Curious", "Excited",
+                "Friendly", "Generous", "Happy", "Honest", "Humble",
+                "Humorous", "Impatient", "Irritable", "Liar", "Nervous",
+                "Kind", "Ponderous", "Quiet", "Rude", "Sad", "Scared",
+                "Self-deprecating", "Serious", "Short-tempered", "Shy",
+                "Stubborn", "Suspicious"
             ]
             return interactions[random.randint(0, len(interactions)-1)]
         
@@ -1135,6 +1178,8 @@ class NPC:
         def genbond():
             bonds = [
                 "Dedicated to fulfilling a personal life goal",
+                "Dedicated to an abstract ideal",
+                "Sworn to a secret",
                 "Protective of close family members",
                 "Protective of colleagues or compatriots",
                 "Loyal to a benefactor, patron, or employer",
@@ -1147,7 +1192,7 @@ class NPC:
             return bonds[random.randint(0, len(bonds)-1)]
 
         def genflaw():
-            flaws = [
+            table = [
                 "Forbidden love or susceptibility to romance",
                 "Enjoys decadent pleasures",
                 "Arrogance",
@@ -1157,15 +1202,88 @@ class NPC:
                 "Has a powerful enemy",
                 "Prone to sudden suspicion",
                 "Shameful or scandalous history",
-                "Secret crime or misdeed",
-                "Possession of forbidden lore",
                 "Foolhardy bravery",
                 "Convinced of their own immortality",
-                "Entirely too trusting",
+                "Entirely too trusting, easily manipulated",
                 "Quick to make assumptions",
-                "Hiding from powerful forces"
+                "Hiding from powerful forces",
+                "Abrasive personality",
+                "Aquaphobic (afraid of large bodies of water)",
+                "Claustrophobic",
+                "Clumsy",
+                "Obese",
+                "Emaciated",
+                "Tries to please everyone",
+                "Low self-esteem",
+                "Anxious in large crowds",
+                "Can't hide emotions",
+                "Can't express emotions",
+                "Can't resist good food",
+                "Drinks too much/borderline alcoholic",
+                "Obsessed with money and/or fame",
+                "Always late",
+                "Always uncomfortably early",
+                "Easily tired or bored with any physical activity",
+                "Weird phobia",
+                "Weird allergy",
+                "Poor eyesight",
+                "Poor hearing",
+                "Trouble sleeping",
+                "Walks (or worse) while sleeping"
             ]
-            return flaws[random.randint(0, len(flaws)-1)]
+            return table[random.randint(0, len(table)-1)]
+        
+        def genmotivation():
+            table = [
+                "Survival, of family member(s) or self",
+                "Protecting the weak",
+                "Enjoying the pleasures of life",
+                "Acquiring money (for a reason/cause)",
+                "Acquiring money (just to acquire money)",
+                "Acquiring fame",
+                "Practicing and improving/perfecting a skill",
+                "Obsession with a project/goal",
+                "Exploration and adventure",
+                "Discovering the truth about a personal matter",
+                "Gathering knowledge",
+                "Doing a favor",
+                "Repaying a favor",
+                "Fulfilling a last wish",
+                "Fulfilling a prophecy",
+                "Staying loyal to a promise/ideal",
+                "Love",
+                "Enacting revenge",
+                "Killing a specific person or group",
+                "Enjoying the suffering of others",
+                "Changing the world"
+            ]
+            return table[random.randint(0, len(table)-1)]
+
+        def gensecret():
+            table = [
+                "Committed a crime no one knows about",
+                "Secret affair (ongoing)",
+                "Secret affair (past)",
+                "Secret goal",
+                "Secret (typically illegal) pleasure",
+                "Has a double life",
+                "Has an incurable illness",
+                "Has a special power and/or curse",
+                "Owes a great deal of money",
+                "Is a member of an illicit organization",
+                "Is afraid of a certain individual or group",
+                "Hates their family",
+                "Is jealous of a specific individual",
+                "Has a secret pet (not necessarily tamed)",
+                "Has a secret magic item (possibly cursed)",
+                "Has hidden a treasure (gold, magic, knowledge)",
+                "Secret patron",
+                "Origins in noble family",
+                "Uses a fake name",
+                "Wanted, has a bounty on their head",
+                "Died at some point in the past"
+            ]
+            return table[random.randint(0, len(table)-1)]
 
         linesep = ">___\n"
 
@@ -1227,11 +1345,13 @@ class NPC:
                 result +=  ">\n"
         result += "\n#### Description\n"
         result += f"***Ideals:*** *{genideal()}/{genideal()}/{genideal()}.*\n\n"
-        result += f"***Appearance:*** *{genappearance()}.*\n\n"
+        result += f"***Motivation:*** *{genmotivation()}.*\n\n"
+        result += f"***Appearance:*** *{genage()}*, *{genappearance()}.*\n\n"
         result += f"***Talents:*** *{gentalent()}.*\n\n"
         result += f"***Mannerisms:*** *{genmannerism()}.*\n\n"
-        result += f"***Interactions with others:*** *{geninteractions()}.*\n\n"
+        result += f"***Interactions (with others):*** *{geninteractions()}*.\n\n"
         result += f"***Bond:*** *{genbond()}.*\n\n"
+        result += f"***Secret:*** *{gensecret()}.*\n\n"
         result += f"***Flaw:*** *{genflaw()}.*\n\n"
         for descrip in self.description:
             result += f"{descrip}\n\n"

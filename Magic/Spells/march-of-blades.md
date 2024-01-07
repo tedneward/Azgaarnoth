@@ -1,5 +1,5 @@
 #### March of Blades
-*4th-level conjuration (Bard, Sorcerer, Wizard)
+*4th-level conjuration* (Bard, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action 
 - **Range:** 30 feet 

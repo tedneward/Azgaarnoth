@@ -8,7 +8,7 @@ Dragons, griffons, and wyverns have a taste for hippogriff meat and frequently p
 ***Flying Mounts.*** A hippogriff raised in captivity can be trained to be a faithful companion and mount. Of all the creatures that can serve as flying mounts, hippogriffs are among the easiest to train and the most loyal once trained properly.
 
 ### Environment
-(FIXME)
+Arctic, Astral, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, Urban,  Summoned/Conjured
 
 ### Token
 ![](Hippogriff-Token.png)

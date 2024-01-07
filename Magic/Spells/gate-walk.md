@@ -1,5 +1,5 @@
 #### Gate Walk
-*6th-level conjuration (Wizard)
+*6th-level conjuration* (Wizard)
 ___
 - **Casting Time:** 1 action 
 - **Range:** 120 feet 

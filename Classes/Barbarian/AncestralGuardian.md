@@ -29,7 +29,7 @@ When you reach certain levels in this class, you can reduce the damage by more: 
 
 ```
 def level6(npc):
-    npc.defer(lambda npc: npc.reactions.append("***Spirit Shield.*** If you are raging and a creature you can see within 30 feet of you takes damage, you reduce that damage by {'2d6' if npc.levels('Barbarian') < 10 else '3d6' if npc.levels('Barbarian') < 14 else '4d6'}.{'' if npc.levels('Barbarian') < 14 else ' The attacker takes that same amount of damage as force damage.'}") )
+    npc.defer(lambda npc: npc.reactions.append(f"***Spirit Shield.*** If you are raging and a creature you can see within 30 feet of you takes damage, you reduce that damage by {'2d6' if npc.levels('Barbarian') < 10 else '3d6' if npc.levels('Barbarian') < 14 else '4d6'}.{'' if npc.levels('Barbarian') < 14 else ' The attacker takes that same amount of damage as force damage.'}") )
 ```
 
 ## Consult the Spirits
@@ -41,7 +41,7 @@ After you cast either spell in this way, you can't use this feature again until 
 
 ```
 def level10(npc):
-    npc.traits.append("***Consult the Spirits (Recharges on short or long rest).*** You consult with your ancestral spirits, which give you the ability to cast the {spelllinkify('augury')} or {spelllinkify('clairvoyance')} spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of *clairvoyance* invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.")
+    npc.traits.append(f"***Consult the Spirits (Recharges on short or long rest).*** You consult with your ancestral spirits, which give you the ability to cast the {spelllinkify('augury')} or {spelllinkify('clairvoyance')} spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of *clairvoyance* invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.")
 ```
 
 ## Vengeful Ancestors

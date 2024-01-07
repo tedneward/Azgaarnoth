@@ -14,9 +14,9 @@ def level0(npc):
     spellcasting.cantripsknown.append("thaumaturgy")
 
 def level3(npc):
-    npc.spellcasting['Asmodeus Tiefling'].preday[1] = []
-    npc.spellcasting['Asmodeus Tiefling'].preday[1].append('hellish rebuke')
+    npc.spellcasting['Asmodeus Tiefling'].perday[1] = []
+    npc.spellcasting['Asmodeus Tiefling'].perday[1].append('hellish rebuke')
 
 def level5(npc):
-    npc.spellcasting['Asmodeus Tiefling'].preday[1].append('darkness')
+    npc.spellcasting['Asmodeus Tiefling'].perday[1].append('darkness')
 ```

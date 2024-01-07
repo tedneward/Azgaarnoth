@@ -1,7 +1,7 @@
 # Blue Dragons
 Of all the chromatic dragons, blue dragons (also called storm dragons) are the most vain and arrogant, they soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
 
-> Jump to: [Blue Dragon Wyrmling](BlueDragonWyrmling.md) | [Very Young Blue Dragon](VeryYoungBlueDragon.md) | [Young Blue Dragon](YoungBlueDragon.md) | [Juvenile Blue Dragon](JuvenileBlueDragon.md) | [Young Adult Blue Dragon](YoungAdultBlueDragon.md) | [Adult Blue Dragon](AdultBlueDragon.md) | [Mature Adult Blue Dragon](MatureAdultBlueDragon.md) | [Old Blue Dragon](OldBlueDragon.md) | [Elder Blue Dragon](ElderBlueDragon.md) | [Ancient Blue Dragon](AncientBlueDragon.md) | [Blue Wyrm](BlueWyrm.md) | [Great Blue Wyrm](GreatBlueWyrm.md)
+> Jump to: [Blue Dragon Wyrmling](BlueDragons.md#blue-dragon-wyrmling) | [Very Young Blue Dragon](BlueDragons.md#very-young-blue-dragon) | [Young Blue Dragon](BlueDragons.md#young-blue-dragon) | [Juvenile Blue Dragon](BlueDragons.md#juvenile-blue-dragon) | [Young Adult Blue Dragon](BlueDragons.md#young-adult-blue-dragon) | [Adult Blue Dragon](BlueDragons.md#adult-blue-dragon) | [Mature Adult Blue Dragon](BlueDragons.md#mature-adult-blue-dragon) | [Old Blue Dragon](BlueDragons.md#old-blue-dragon) | [Elder Blue Dragon](BlueDragons.md#elder-blue-dragon) | [Ancient Blue Dragon](BlueDragons.md#ancient-blue-dragon) | [Blue Wyrm](BlueDragons.md#blue-wyrm) | [Great Blue Wyrm](BlueDragons.md#great-blue-wyrm)
 
 A blue dragon is recognized by its dramatic frilled ears and the massive ridged horn atop its blunt head. Rows of spikes extend back from its nostrils to line its brow, and cluster on its jutting lower jaw.
 
@@ -37,7 +37,6 @@ A blue dragon keeps its lair secret and well protected, and even its most truste
 Blue dragons like treasure that is as pretty to look at as it is valuable. Particularly they love gems, especially blue ones, but they also have a love for art and jewelry. Rarely, a blue dragon actually leaves some treasure behind because the dragon felt that it was unattractive, and therefore would detract from the greatness of the hoard and, by extension, of the dragon itself.
 
 A blue dragon buries its most valuable treasures deep in the sand, while scattering a few less valuable trinkets in plainer sight over hidden sinkholes to punish and eliminate would-be thieves.
-
 
 ### Physical Characteristics
 The scales of a blue dragon are more reflective than those of the other chromatic dragons. They cannot be used as mirrors, but when in blue or dark environments (such as the sky during the day or night, respectively), their scales take on the associated color and allow them to blend in. The enormous prominent horn on its nose, in addition to being an effective bashing weapon, is practically used in conjunction with its brow as a rain funnel to keep precipitation out of its eyes. This gives it enhanced vision during storms. They might smell of ozone, but the smell is easily masked by wind or inclement weather.
@@ -77,8 +76,7 @@ The dragon can use the Hide action when it is flying at a higher altitude than t
 The dragon can mimic any sound or voice that it has heard, any time it likes. To discern the ruse, a creature can attempt a Wisdom (Insight) check contested by the dragon's Charisma (Deception) check. If the creature wins the contest, it learns that the sound is false, but doesn't learn its source.
 
 #### Storm Dragon
-The dragon can fly normally even in storm-strength winds. In addition, its vision is not obscured by precipitation, and it ignores cover granted by rain. The dragon also gains
-resistance to thunder damage.
+The dragon can fly normally even in storm-strength winds. In addition, its vision is not obscured by precipitation, and it ignores cover granted by rain. The dragon also gains resistance to thunder damage.
 
 #### Stunning Lightning
 *Prerequisite: Primeval Lightning.*
@@ -95,14 +93,15 @@ The dragon gains the following action option:
 The range and damage are given in the following table.
 
 **Thunder Breath**
-Dragon Age|Range (radius)|Damage
-----------|--------------|------
-Mature Adult|80 ft|77 (14d10)
-Old |100 ft|88 (16d10)
-Elder |120 ft|93 (17d10)
-Ancient |140 ft|99 (18d10)
-Wyrm |170 ft|104 (19d10)
-Great Wyrm |200 ft|110 (20d10)
+
+Dragon Age | Range (radius) | Damage
+---------- | -------------- | ------
+Mature Adult | 80 ft | 77 (14d10)
+Old | 100 ft | 88 (16d10)
+Elder | 120 ft | 93 (17d10)
+Ancient | 140 ft | 99 (18d10)
+Wyrm | 170 ft | 104 (19d10)
+Great Wyrm | 200 ft | 110 (20d10)
 
 #### Veil
 *Prerequisite: must be Ancient or older.*

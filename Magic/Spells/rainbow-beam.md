@@ -6,7 +6,7 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 ---
-A ray of rainbow colored light streaks from your hand. Make a ranged spell attack. On a hit, the target takes damage equal to 2d12 + your spellcasting ability modifier, and it is stunned until the end of its next turn. A successful Constitution saving throw negates the stunning effect.
+A ray of rainbow colored light streaks from your hand. Make a ranged spell attack. On a hit, the target takes damage equal to 2d12 + your spellcasting ability modifier, and it is [stunned](../../Conditions/Stunned.md) until the end of its next turn. A successful Constitution saving throw negates the stunning effect.
 
 The type of damage dealt is rolled randomly from the following table:
 

@@ -40,15 +40,12 @@ The Fury: A ceremony in which the cleric prays, and then makes berserk attacks t
 ## Orders
 The existence of religious orders affiliated with Talos are shrouded in mystery and rumor. Two speculated groups are:
 
-Lords of the Tempest: A group of wizards that specialize in combining elemental magic.
+**Lords of the Tempest:** A group of wizards that specialize in combining elemental magic.
 
-Circle of Rust and the Worm: A cabal of insane sages and mystics of various disciplines with the aim of destroying the world.
+**Circle of Rust and the Worm:** A cabal of insane sages and mystics of various disciplines with the aim of destroying the world.
 
-Liches: Some say Talos has sponsored certain necromancers into lichdom.
+**Liches:** Some say Talos has sponsored certain necromancers into lichdom.
 
 ## Dogma
 Talos the Destroyer is the dark side of nature, the uncaring and destructive force that lies waiting to strike at any time. Talassans are taught that life is a combination of random effects and chaos, so the devout should grab what they can, when they can, as who can say when Talos will strike and bring them into the afterlife.
-
-## Appearance, Manifestations
-
 

@@ -1,5 +1,5 @@
 #### Action Trance
-*2nd-level transmutation* (Artificer,Druid,Paladin,Ranger,Wizard)
+*2nd-level transmutation* *(psionic)* (Artificer,Druid,Paladin,Ranger,Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

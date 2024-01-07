@@ -14,6 +14,9 @@ Originally formed from the seventeen Clan Lords of the Lost Seventeen Cities, th
 **TODO**, First Lord, Lord of the **TODO** Clan, Guardian of the Return
 
 ## Political Structure
+The Dwarven Courts are made up of seventeen Clan Lords, each of which represent anywhere from a few to a dozen or more dwarven clans in a constantly-shifting political landscape. 
+
+Technically, each Clan Lord represents only their individual clan, but long ago, the Dwarven Courts had seventeen seats for the seventeen cities, so seventeen seats remains. Different clans, then, form and join alliances with one another as their fortunes wax and wane, and if enough support is removed from a Clan Lord, the seat is vacated until a new clan's leader can amass the necessary support to assume the seat.
 
 ## Population
 

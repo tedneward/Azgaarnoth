@@ -13,6 +13,6 @@ def prereq(npc): return True
 def apply(npc):
     chooseability(npc, ['STR', 'CON'])
     npc.proficiencies.append("Improvised weapons")
-    npc.defer(lambda npc: npc.actions.append(f"***Unarmed Strike.*** Melee weapon attack, +{npc.proficiencybonus() + npc.STRbonus()}, reach 5 ft., one target. Hit d4 + {npc.STRbonus()} bludgeoning damage.") )
-    npc.bonusactions.append("***Tavern Brawler.*** When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.")
+    npc.defer(lambda npc: npc.actions.append(f"***Unarmed Strike.*** *Melee weapon attack*, +{npc.proficiencybonus() + npc.STRbonus()}, reach 5 ft., one target. Hit d4 + {npc.STRbonus()} bludgeoning damage.") )
+    npc.bonusactions.append("***Tavern Brawler: Grappler.*** When you hit a creature with an Unarmed Strike or an improvised weapon on your turn, you grapple the target.")
 ```

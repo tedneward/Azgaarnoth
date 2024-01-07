@@ -24,7 +24,7 @@ Some *eladrin* remain associated with a particular season for their entire lives
 
 ```
 name = 'Fey'
-description = "***Subrace: Fey Elf (Eladrin).*** The *eladrin* are elves native to the Feywild, a realm of beauty, unpredictable emotion, and boundless magic. They are most often found in the wilds of [North Bedia](http://azgaarnoth.tedneward.com/Nations/Bedia.md), or on any of the scattered islands around Azgaarnoth. Intriguingly, they are also commonly found in the lands of the [Hordes](http://azgaarnoth.tedneward.com/Races/index.md#hordes), without being forced into extensive combat against their neighbors."
+description = "***Subrace: Fey Elf (Eladrin).*** The *eladrin* are elves native to the Feywild, a realm of beauty, unpredictable emotion, and boundless magic. An *eladrin* is associated with one of the four seasons and has coloration reminiscent of that season, which can also affect the *eladrin*'s mood."
 def level0(npc):
   season = choose("Choose the season association:", ['Autumn', 'Winter', 'Spring', 'Summer'])
   if season == 'Autumn':

@@ -1,7 +1,7 @@
 # Mage School: Bloodmancers
-**Home**: [Mighal](../../Cities/Mighal.md)
+**Home**: unknown, though a large (~100) tower openly resides in [Belhell](../../Cities/Belhell.md) (in [Travenia](../../Nations/Travenia.md))
 
-**Enrollment**: ~250
+**Enrollment**: unknown
 
 **Motto**: "Blood Brings Power"
 
@@ -20,3 +20,13 @@ This school has been outlawed, it is said, since the time of the Eldar, and almo
 
 For obvious reasons, bloodmancers are highly-sought allies and partners of those [Rogues Guilds](../RoguesGuilds/index.md) that are deeply versed in assassination. In return, those guilds often provide much of the cover for the Bloodmancer schools to study and practice--at least until the guild discovers the bloodmancers' love of blood sometimes strays into that of the guild itself....
 
+## Restricted Spells
+Given the reputation of the Bloodmancers, possession of Bloodmancer spells are generally kept extremely quiet to avoid accusation and/or trial.
+
+* 1st: [caustic wound](../../Magic/Spells/caustic-wound.md)
+* 2nd: [blood quill](../../Magic/Spells/blood-quill.md), [crimson blade](../../Magic/Spells/crimson-blade.md), [reaping strike](../../Magic/Spells/reaping-strike.md)
+* 3rd: [blood rage](../../Magic/Spells/blood-rage.md)
+* 4th: [boiling blood](../../Magic/Spells/boiling-blood.md)
+* 9th: [blood to flame](../../Magic/Spells/blood-to-flame.md)
+  
+  

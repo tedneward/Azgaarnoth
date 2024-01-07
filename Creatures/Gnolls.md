@@ -38,13 +38,13 @@ Furthermore, a gnoll's mind is undeniably primal. They are natural predators and
 ---
 
 ## Gnoll
-(No description given)
+The average gnoll is fierce, aggressive, and loyal to their pack. They can often be cowed into submission (or at least out of aggression) by displays of strength and power, but the pack backing them makes them braver than they often should be, and when a gnoll feels brave, it tends to attack first and think later.
 
 ### Environment
-(FIXME)
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
-![](Gnoll-Token.png)
+![](Gnolls-Gnoll-Token.png)
 
 >### Gnoll
 >*Medium humanoid (gnoll), chaotic evil*
@@ -84,11 +84,13 @@ Furthermore, a gnoll's mind is undeniably primal. They are natural predators and
 ## Gnoll Pack Lord
 The alpha of a gnoll pack is the pack lord, ruling by might and cunning. A pack lord earns the best of a gnoll pack's spoils, food, valuable trinkets, and magic items. It ornaments its body with brutal piercings and grotesque trophies, dyeing its fur with demonic sigils, hoping Yeenoghu will make it invulnerable.
 
+![](Gnolls-PackLord.png)
+
 ### Environment
-(FIXME)
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
-![](GnollPackLord-Token.png)
+![](Gnolls-PackLord-Token.png)
 
 >### Gnoll Pack Lord
 >*Medium humanoid (gnoll), chaotic evil*
@@ -132,11 +134,13 @@ The alpha of a gnoll pack is the pack lord, ruling by might and cunning. A pack 
 ## Gnoll Fang of Yeenoghu
 Gnolls celebrate their victories by performing demonic rituals and making blood offerings to Yeenoghu. Sometimes the demon lord rewards his worshipers by allowing one of them to be possessed by a demonic spirit. Marked as Yeenoghu's favorite, the lucky recipient becomes a fang of Yeenoghu, the chosen of the Gnoll Lord. In much the same way Yeenoghu created the first gnolls, a hyena that feasts on a fang's slain foe undergoes a horrible transformation, becoming a full-grown adult gnoll. Depending on the number of hyenas in a region, a fang of Yeenoghu can lead to a startling increase in the gnoll population. Finding and killing the fang is the only way to keep that population in check.
 
+![](Gnolls-FangofYeenoghu.png)
+
 ### Environment
-(FIXME)
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
-![](GnollFangofYeenoghu-Token.png)
+![](Gnolls-FangofYeenoghu-Token.png)
 
 >### Gnoll Fang of Yeenoghu
 >*Medium fiend (gnoll), chaotic evil*
@@ -176,18 +180,20 @@ Gnolls celebrate their victories by performing demonic rituals and making blood 
 ## Flind
 When the demon lord Yeenoghu (appears in this book) wants to create a particularly fearsome war band leader, he transforms an exceptionally strong and vicious gnoll into a demonic warrior known as a flind.
 
+![](Gnolls-Flind.png)
+
 A war band of demon-worshiping gnolls typically contains only one flind, and that creature sets the war band's path. Because of its special connection to Yeenoghu, a flind uses demonic insight to guide the gnolls toward weak prey ripe for slaughter.
 
 Unlike other leaders who might skulk behind their minions, a flind leads the charge in battle. Its flail causes wracking pain, paralysis, and disorientation in those it strikes.
 
 ### Environment
-(FIXME)
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
-![](Flind-Token.png)
+![](Gnolls-Flind-Token.png)
 
 >### Flind
->*Medium Fiend (Gnoll), Typically Chaotic Evil*
+>*Medium fiend (Gnoll), Typically Chaotic Evil*
 >___
 >- **Armor Class** 16 (breastplate)
 >- **Hit Points** 127 (15d8 + 60)
@@ -229,13 +235,13 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 These gnolls eschew the use of ranged weapons in favor of short blades that they wield with great speed and efficiency. In the thick of a fight, they dash across the battlefield, slashing and snarling as they run down stragglers and finish off wounded foes.
 
 ### Environment
-(FIXME)
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
 ![](GnollFleshGnawer-Token.png)
 
 >### Gnoll Flesh Gnawer
->*Medium Monstrosity, Typically Chaotic Evil*
+>*Medium monstrosity, Typically Chaotic Evil*
 >___
 >- **Armor Class** 14 (studded leather)
 >- **Hit Points** 22 (4d8 + 4)
@@ -275,16 +281,18 @@ These gnolls eschew the use of ranged weapons in favor of short blades that they
 ## Gnoll Hunter
 Hunters are the stealthiest gnolls in a war band. In the vanguard, they creep around, picking off isolated opposition while clearing the way for the rest of the force to advance.
 
+![](Gnolls-Hunter.png)
+
 Hunters are particularly skilled with the longbow, and they fire arrows with viciously barbed heads. Even when a hunter doesn't kill their target with their first shot, the arrow strike brings so much pain that the victim is hobbled in its attempt to run away.
 
 ### Environment
-(FIXME)
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
-![](GnollHunter-Token.png)
+![](Gnolls-Hunter-Token.png)
 
 >### Gnoll Hunter
->*Medium Monstrosity, Typically Chaotic Evil*
+>*Medium monstrosity, Typically Chaotic Evil*
 >___
 >- **Armor Class** 13 (leather armor)
 >- **Hit Points** 22 (4d8 + 4)
@@ -324,18 +332,20 @@ Hunters are particularly skilled with the longbow, and they fire arrows with vic
 ## Gnoll Witherling
 Sometimes the gnolls of Yeenoghu turn against each other, perhaps to determine who rules a war band or because of extreme starvation. Even under ordinary circumstances, gnolls that are deprived of victims for too long struggle to control their hunger and violent urges. Eventually, they fight among themselves.
 
-The survivors devour the flesh of their slain comrades but preserve the bones. Then, by invoking rituals to Yeenoghu (appears in this book) they bring the remains back to a semblance of life in the form of a gnoll witherling.
+![](Gnolls-Witherling.png)
+
+The survivors devour the flesh of their slain comrades but preserve the bones. Then, by invoking rituals to Yeenoghu (appears in this book) they bring the remains back to a semblance of life in the form of a gnoll witherling. 
 
 Witherlings travel with their comrades and try to kill anything in their path. They don't eat and aren't motivated by hunger, leaving more flesh for the rest of the war band.
 
 ### Environment
-(FIXME)
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
 
 ### Token
-![](GnollWitherling-Token.png)
+![](Gnolls-Witherling-Token.png)
 
 >### Gnoll Witherling
->*Medium Undead, Typically Chaotic Evil*
+>*Medium undead, Typically Chaotic Evil*
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 11 (2d8 + 2)
@@ -378,6 +388,11 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 ## Gnoll Headhunter
 The fiercest and most experienced gnolls become viciously proficient and hunting and killing. When gnolls of this caliber find each other, they set out together to collect the heads of enemies. These hunting packs are often held in awe by lesser gnolls.
 
+### Environment
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
+
+### Token
+
 >### Gnoll Headhunter
 >*Medium humanoid (gnoll), chaotic evil*
 >___
@@ -397,7 +412,7 @@ The fiercest and most experienced gnolls become viciously proficient and hunting
 >- **Damage Immunities** 
 >- **Condition Immunities** 
 >- **Skills** Perception +2,Survival +2
->- **Senses** darkvision 60 ft.,passive P erception 12
+>- **Senses** darkvision 60 ft.,passive Perception 12
 >- **Languages** Gnoll
 >- **Challenge** 
 >___
@@ -420,6 +435,11 @@ The fiercest and most experienced gnolls become viciously proficient and hunting
 
 ## Gnoll Hunt Master
 The bloodiest gnoll hunters become legendary among their race. Gnoll Headhunters travel far and wide to find and hunt with them. Gnoll hunt masters can attract large and dangerous hunting packs. Some prefer to hunt in small bands of masters only, and are among the most dreaded prowlers of the wilderness.
+
+### Environment
+Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Urban
+
+### Token
 
 >### Gnoll Hunt Master
 >*Medium humanoid (gnoll), chaotic evil*

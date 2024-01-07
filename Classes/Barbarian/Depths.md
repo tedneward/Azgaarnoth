@@ -62,4 +62,4 @@ def level10(npc):
 ## Depth Charge
 *14th-level Path of the Depths feature*
 
-When you use your ghostwater dive ability, you can choose to appear with a wave of tidal force. When you appear all creatures within 10 feet of you must make a Strength saving throw. On a failed save a creature takes 3d6 force damage and is knocked prone. On a successful save, a creature takes half damage and is not knocked prone.
+When you use your Ghostwater Dive ability, you can choose to appear with a wave of tidal force. When you appear all creatures within 10 feet of you must make a Strength saving throw. On a failed save a creature takes 3d6 force damage and is knocked prone. On a successful save, a creature takes half damage and is not knocked prone.

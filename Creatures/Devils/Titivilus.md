@@ -10,7 +10,7 @@ Since gaining his position, Titivilus has convinced Dispater that countless plot
 Titivilus recognizes the precariousness of his position. After all, Dispater's acceptance of his plans and his advice can last only so long before some other plotter steps in and reveals the truth. For insurance, Titi­vilus has begun recruiting outsiders to deal with problem devils, to insulate him against criticism, and, above all, to create complications that he can solve so as to reinforce his value in the eyes of his master. Titivilus finds adventurers well suited to the tasks he needs performed and recruits them directly or through intermediaries, expending them later as his plans require.
 
 >### Titivilus
->*Medium Fiend (Devil), Lawful Evil*
+>*Medium fiend (Devil), Lawful Evil*
 >___
 >- **Armor Class** 20 (natural armor)
 >- **Hit Points** 150 (20d8 + 60)

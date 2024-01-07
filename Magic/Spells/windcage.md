@@ -1,5 +1,5 @@
 #### Windcage
-*8th-level transmutation (Druid, Sorcerer, Wizard)
+*8th-level transmutation* (Druid, Sorcerer, Wizard)
 ___
 - **Casting Time:** 1 action 
 - **Range:** 150 feet 

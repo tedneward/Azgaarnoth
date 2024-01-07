@@ -4,7 +4,7 @@ The fearsome molydeus speaks for the demon lord it serves and enforces its maste
 A molydeus's demon lord bestows on it a powerful weapon that dissolves if the molydeus dies. The weapon's form varies depending on the creator, but that doesn't affect the weapon's capabilities.
 
 >### Molydeus
->*Huge Fiend (Demon), Typically Chaotic Evil*
+>*Huge fiend (Demon), Typically Chaotic Evil*
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 216 (16d12 + 112)

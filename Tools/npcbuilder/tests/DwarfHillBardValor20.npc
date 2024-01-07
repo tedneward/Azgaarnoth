@@ -1,4 +1,4 @@
-Gender,random,Ability Scores,Average,Race,Dwarf,Brewer's Supplies,Hill,Bard,random,random,random,Acrobatics,Animal Handling,Arcana,Yes
+Gender,random,Ability Scores,NPC,CHA,DEX,CON,INT,WIS,STR,Race,Dwarf,Brewer's Supplies,Hill,Bard,random,random,random,Acrobatics,Animal Handling,Arcana,Yes
 Bard,Yes
 Bard,Valor,Arcana,Animal Handling,Yes
 Bard,Feat,Strike of the Giants,Frost,Yes
@@ -13,7 +13,7 @@ Bard,Feat,Lucky,Yes
 Bard,Yes
 Bard,Yes
 Bard,Yes
-Bard,Feat,Alchemist,Yes
+Bard,Feat,Actor,Yes
 Bard,Yes
 Bard,Yes
 Bard,Feat,Piercer,DEX,Yes

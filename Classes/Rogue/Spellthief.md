@@ -15,6 +15,48 @@ You gain the ability to cast spells… as long as you can steal the magical ener
 You can choose one spell list from any of the following: Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard. Once you have chosen a spell list, all the spells you cast will come from that spell list.
 
 ```
+spellcastingtable = {
+    3: [3, 1],
+    4: [4, 1],
+    5: [4, 1],
+    6: [5, 2],
+    7: [5, 2],
+    8: [6, 2],
+    9: [6, 2],
+    10: [7, 3],
+    11: [8, 3],
+    12: [8, 3],
+    13: [9, 3],
+    14: [10, 4],
+    15: [10, 4],
+    16: [11, 4],
+    17: [11, 4],
+    18: [12, 5],
+    19: [12, 5],
+    20: [13, 5]
+}
+class SpellthiefSpellcasting(Spellcasting):
+    def __init__(self, npc, ability, spelllist):
+        Spellcasting.__init__(self, npc, ability, "Spellthief", allclasses['Rogue'])
+        self.spelllist = spelllist
+        self.maxcantripsknown = lambda: (2 if self.npc.levels('Rogue') < 4 else 3 if self.npc.levels('Rogue') else 4)
+        self.maxspellsknown = lambda: spellcastingtable[self.npc.levels('Rogue')][0]
+
+    def maxlevel(self): return spellcastingtable[self.npc.levels('Rogue')][1]
+
+    def totalspelllevels(self): return self.npc.levels('Rogue')
+
+    def emitMD(self):
+        text  = f">***{self.name} Spellcasting ({self.ability.title()}, using the {self.spelllist} spell list, at level {self.npc.levels('Rogue')}).***"
+        text += f" **Spell save DC: {self.spellsavedc()}**, **Spell attack bonus: +{self.spellattack()}**."
+        text += f" Max {self.totalspelllevels()} spell levels thievable before requiring a long rest.\n"
+        text +=  ">\n"
+        text += f">Cantrips known ({self.maxcantripsknown()}): \n"
+        text +=  ">\n"
+        text += f">Spells known ({self.maxspellsknown()}, up to level {self.maxlevel()}): \n"
+        text += ">\n"
+        return text
+
 def level3(npc):
     listchoices = {
         'Bard' : 'CHA',
@@ -24,18 +66,11 @@ def level3(npc):
         'Wizard' : 'INT'
     }
     castingchoice = choose("Choose a spell list: ", list(listchoices.keys()))
-    spellcasting = halfcaster(npc, listchoices[castingchoice], name)
-    spellcasting.casterclass = allclasses['Rogue']
-    npc.spellthievery = castingchoice
+    spellcasting = SpellthiefSpellcasting(npc, listchoices[castingchoice], castingchoice)
 ```
 
 ### Cantrips
 You learn two cantrips from your spell list. You learn additional cantrips at 4th level and 10th level. You do not have to steal magical power to cast your cantrips.
-
-```
-    def assigncantrips(npc): spellcasting.maxcantripsknown = (2 if npc.levels('Rogue') < 4 else 3 if npc.levels('Rogue') else 4)
-    npc.defer(lambda npc: assigncantrips(npc))
-```
 
 ### Spells Known and Maximum Level
 You learn three 1st level spells from your spell list. The Spells Known column from the Spell Thief Spellcasting Table shows when you learn more spells. The Maximum Level column from the Spell Thief Spellcasting Table shows the maximum level of any spell you can know. Whenever you gain a level in this class, you can replace one spell with another spell from your spell list.
@@ -73,37 +108,11 @@ Rogue Level |  Spells Known  | Maximum Level
 19th        | 12             | 5
 20th        | 13             | 5
 
-
-```
-    spellcastingtable = {
-        3: [3, 1],
-        4: [4, 1],
-        5: [4, 1],
-        6: [5, 2],
-        7: [5, 2],
-        8: [6, 2],
-        9: [6, 2],
-        10: [7, 3],
-        11: [8, 3],
-        12: [8, 3],
-        13: [9, 3],
-        14: [10, 4],
-        15: [10, 4],
-        16: [11, 4],
-        17: [11, 4],
-        18: [12, 5],
-        19: [12, 5],
-        20: [13, 5],
-    }
-    def assignmaxspells(npc): npc.maxspellsknown = spellcastingtable[npc.levels('Rogue')][0]
-    npc.defer(lambda npc: assignmaxspells(npc) )
-```
-
 ### Stealing Spells
 In order to cast a spell you know, you must steal the magical energy from a spellcaster who is actively casting a spell of their own. You can steal a number of spell levels equal to your rogue level per long rest. For example, if you are a 3rd level Spell Thief, you can steal up to 3 levels of spells per long rest.
 
 ```
-    npc.defer(lambda npc: npc.traits.append(f"***Spellthievery.*** You can learn and know {npc.spellthievery} spells up to level {spellcastingtable[npc.levels('Rogue')][1]}, and you can steal {npc.levels('Rogue')} total spell levels per long rest."))
+    npc.defer(lambda npc: npc.traits.append(f"***Spellthievery.*** You can learn and know {npc.spellcasting[name].spelllist} spells up to level {npc.spellcasting[name].maxlevel()}, and you can steal {npc.spellcasting[name].totalspelllevels()} total spell levels per long rest."))
 ```
 
 In order to steal the magical energy from a spellcaster, you must use your reaction. You must also be able to see the spellcaster and they must be within 30 feet of you.
@@ -113,7 +122,7 @@ Once you have stolen the magical energy from another spellcaster, you immediatel
 If you attempt to steal a spell that is higher level than what you are able to steal, the attempt will fail, and you cannot steal spells again until you finish a long rest. For example, if you are a 5th level Spell Thief, you can steal 5 levels of spells per long rest. If you have already stolen 2 levels of spells and attempt to steal a 4th level Fireball, the attempt will fail and you will no longer be able to steal spells until you complete a long rest.
 
 ```
-    npc.reactions.append("***Steal Spell.*** In order to cast a spell you know, you must steal the magical energy from a spellcaster who is actively casting a spell of their own. In order to steal the magical energy from a spellcaster, you must be able to see the spellcaster and they must be within 30 feet of you. Once you have stolen the magical energy from another spellcaster, you immediately channel that energy into a spell of your own. You can cast any spell you know, and you will cast it at the level corresponding to the level of the spell you just stole. If that spell has a casting time of 1 action or longer, you must cast it on your next action, or the energy dissipates harmlessly. If you attempt to steal a spell that is higher level than what you are able to steal, or if stealing the spell would exceed your maximum spell levels per long rest, the attempt will automatically fail and you cannot steal spells again until you finish a long rest.")
+    npc.reactions.append("***Steal Spell.*** When you can see a spellcaster within 30 feet of you, you steal that spell energy and immediately channel that energy into a spell of your own. You can cast any spell you know, and you will cast it at the level corresponding to the level of the spell you just stole. If that spell has a casting time of 1 action or longer, you must cast it on your next action, or the energy dissipates harmlessly. If you attempt to steal a spell that is higher level than what you are able to steal, or if stealing the spell would exceed your maximum spell levels per long rest, the attempt will automatically fail and you cannot steal spells again until you finish a long rest.")
 ```
 
 ## Spell Drain

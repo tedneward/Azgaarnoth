@@ -1,8 +1,5 @@
-# Paladin Spells
- 
+# Spell List Summary: Paladin 
 ## cantrip-Level Spells
-* [Balance](../../Magic/Spells/balance.md)
-* [Bolster](../../Magic/Spells/bolster.md)
  
 ## 1st-Level Spells
 * [Ablative Armor](../../Magic/Spells/ablative-armor.md)
@@ -10,33 +7,39 @@
 * [Barrier](../../Magic/Spells/barrier.md)
 * [Battle Cry](../../Magic/Spells/battle-cry.md)
 * [Battle Guardian's Aura](../../Magic/Spells/battle-guardians-aura.md)
+* [Battlesheath of Flames](../../Magic/Spells/battlesheath-of-flames.md)
+* [Battlesheath of Frost](../../Magic/Spells/battlesheath-of-frost.md)
+* [Battlesheath of Lightning](../../Magic/Spells/battlesheath-of-lightning.md)
 * [Bestow Wound](../../Magic/Spells/bestow-wound.md)
 * [Blade of Nightmares](../../Magic/Spells/blade-of-nightmares.md)
+* [Blazing Lance](../../Magic/Spells/blazing-lance.md)
 * [Bless](../../Magic/Spells/bless.md)
 * [Blessed Aim](../../Magic/Spells/blessed-aim.md)
 * [Cauterizing Flame](../../Magic/Spells/cauterizing-flame.md)
-* [Ceremony](../../Magic/Spells/ceremony.md)
+* [Ceremony](../../Magic/Spells/ceremony.md) *ritual*
 * [Chilling Blow](../../Magic/Spells/chilling-blow.md)
 * [Cleansing Touch](../../Magic/Spells/cleansing-touch.md)
 * [Cold Fire](../../Magic/Spells/cold-fire.md)
 * [Command](../../Magic/Spells/command.md)
 * [Compelled Duel](../../Magic/Spells/compelled-duel.md)
 * [Cure Wounds](../../Magic/Spells/cure-wounds.md)
+* [Darkness Lance](../../Magic/Spells/darkness-lance.md)
 * [Deflecting Shield](../../Magic/Spells/deflecting-shield.md)
 * [Detect Chaos and Order](../../Magic/Spells/detect-chaos-and-order.md)
 * [Detect Evil and Good](../../Magic/Spells/detect-evil-and-good.md)
-* [Detect Magic](../../Magic/Spells/detect-magic.md)
-* [Detect Poison and Disease](../../Magic/Spells/detect-poison-and-disease.md)
+* [Detect Magic](../../Magic/Spells/detect-magic.md) *ritual*
+* [Detect Poison and Disease](../../Magic/Spells/detect-poison-and-disease.md) *ritual*
 * [Disarming Force](../../Magic/Spells/disarming-force.md)
-* [Divine Arm](../../Magic/Spells/divine-arm.md)
 * [Divine Favor](../../Magic/Spells/divine-favor.md)
 * [Divine Sacrifice](../../Magic/Spells/divine-sacrifice.md)
 * [Divine Sanction](../../Magic/Spells/divine-sanction.md)
+* [Divine Sheathe](../../Magic/Spells/divine-sheathe.md)
 * [Dread Provocation](../../Magic/Spells/dread-provocation.md)
 * [Dread Revelation](../../Magic/Spells/dread-revelation.md)
 * [Flash](../../Magic/Spells/flash.md)
 * [Frightful Strike](../../Magic/Spells/frightful-strike.md)
 * [Ghostly Tail](../../Magic/Spells/ghostly-tail.md)
+* [Glow Mark](../../Magic/Spells/glow-mark.md)
 * [Halo of Glory](../../Magic/Spells/halo-of-glory.md)
 * [Hand of the Sorcerer King](../../Magic/Spells/hand-of-the-sorcerer-king.md)
 * [Helm's Everwatchful Eye](../../Magic/Spells/helms-everwatchful-eye.md)
@@ -47,17 +50,21 @@
 * [Know Greatest Enemy](../../Magic/Spells/know-greatest-enemy.md)
 * [Lionheart](../../Magic/Spells/lionheart.md)
 * [Lord's Armor](../../Magic/Spells/lords-armor.md)
-* [Mark of the Vigilante](../../Magic/Spells/mark-of-the-vigilante.md)
+* [Mark of the Vigilante](../../Magic/Spells/mark-of-the-vigilante.md) *ritual*
 * [Marshal's Mark](../../Magic/Spells/marshals-mark.md)
 * [Mighty Wallop](../../Magic/Spells/mighty-wallop.md)
 * [Piercing Smite](../../Magic/Spells/piercing-smite.md)
 * [Poison Smite](../../Magic/Spells/poison-smite.md)
 * [Protection from Evil and Good](../../Magic/Spells/protection-from-evil-and-good.md)
 * [Protective Amulet](../../Magic/Spells/protective-amulet.md)
-* [Purify Food and Drink](../../Magic/Spells/purify-food-and-drink.md)
+* [Purify Food and Drink](../../Magic/Spells/purify-food-and-drink.md) *ritual*
 * [Quivaelyn's Sharpening Palm](../../Magic/Spells/quivaelyns-sharpening-palm.md)
+* [Radiant Lance](../../Magic/Spells/radiant-lance.md)
 * [Rejuvenate Self](../../Magic/Spells/rejuvenate-self.md)
-* [Rune of Peace](../../Magic/Spells/rune-of-peace.md)
+* [Rune of Cutting](../../Magic/Spells/rune-of-cutting.md) *brandish*
+* [Rune of Force](../../Magic/Spells/rune-of-force.md)
+* [Rune of Peace](../../Magic/Spells/rune-of-peace.md) *brandish*
+* [Rune of Puncturing](../../Magic/Spells/rune-of-puncturing.md) *brandish*
 * [Searing Smite](../../Magic/Spells/searing-smite.md)
 * [Shield of Devotion](../../Magic/Spells/shield-of-devotion.md)
 * [Shield of Faith](../../Magic/Spells/shield-of-faith.md)
@@ -76,7 +83,7 @@
 ## 2nd-Level Spells
 * [Action Trance](../../Magic/Spells/action-trance.md)
 * [Aid](../../Magic/Spells/aid.md)
-* [Align Weapon](../../Magic/Spells/align-weapon.md)
+* [Align Weapon](../../Magic/Spells/align-weapon.md) *ritual*
 * [Altruistic Healing](../../Magic/Spells/altruistic-healing.md)
 * [Arm Hammers](../../Magic/Spells/arm-hammers.md)
 * [Aura of Glory](../../Magic/Spells/aura-of-glory.md)
@@ -84,10 +91,10 @@
 * [Balliard's Rejuvenating Touch](../../Magic/Spells/balliards-rejuvenating-touch.md)
 * [Bastion of Clarity](../../Magic/Spells/bastion-of-clarity.md)
 * [Battering Ram](../../Magic/Spells/battering-ram.md)
-* [Blade of Dark Whispers](../../Magic/Spells/blade-of-dark-whispers.md)
-* [Branding Smite](../../Magic/Spells/branding-smite.md)
-* [Burning Blade](../../Magic/Spells/burning-blade.md)
-* [Chilling Scythe](../../Magic/Spells/chilling-scythe.md)
+* [Blade of Dark Whispers](../../Magic/Spells/blade-of-dark-whispers.md) *brandish*
+* [Blazing Blade Arc](../../Magic/Spells/blazing-blade-arc.md) *brandish*
+* [Burning Blade](../../Magic/Spells/burning-blade.md) *brandish*
+* [Chilling Scythe](../../Magic/Spells/chilling-scythe.md) *brandish*
 * [Conquering Smite](../../Magic/Spells/conquering-smite.md)
 * [Consecration](../../Magic/Spells/consecration.md)
 * [Curse of Impending Blades](../../Magic/Spells/curse-of-impending-blades.md)
@@ -106,8 +113,10 @@
 * [Ethereal Smite](../../Magic/Spells/ethereal-smite.md)
 * [Expose the Dead](../../Magic/Spells/expose-the-dead.md)
 * [Find Steed](../../Magic/Spells/find-steed.md)
-* [Gentle Repose](../../Magic/Spells/gentle-repose.md)
-* [Infuse Blood](../../Magic/Spells/infuse-blood.md)
+* [Freezing Blade Arc](../../Magic/Spells/freezing-blade-arc.md) *brandish*
+* [Gentle Repose](../../Magic/Spells/gentle-repose.md) *ritual*
+* [Howling Blade Arc](../../Magic/Spells/howling-blade-arc.md) *brandish*
+* [Infuse Blood](../../Magic/Spells/infuse-blood.md) *blood*
 * [Invigorating Strike](../../Magic/Spells/invigorating-strike.md)
 * [Knight's Move](../../Magic/Spells/knights-move.md)
 * [Lesser Restoration](../../Magic/Spells/lesser-restoration.md)
@@ -121,16 +130,18 @@
 * [Nimodes' Major Delousing](../../Magic/Spells/nimodes-major-delousing.md)
 * [Past Life](../../Magic/Spells/past-life.md)
 * [Prayer of Healing](../../Magic/Spells/prayer-of-healing.md)
+* [Preserving Flame](../../Magic/Spells/preserving-flame.md) *ritual*
 * [Protection from Cantrips](../../Magic/Spells/protection-from-cantrips.md)
 * [Protection from Poison](../../Magic/Spells/protection-from-poison.md)
 * [Radiating Blade of Tempus](../../Magic/Spells/radiating-blade-of-tempus.md)
-* [Rain of Steel](../../Magic/Spells/rain-of-steel.md)
+* [Rain of Steel](../../Magic/Spells/rain-of-steel.md) *brandish*
 * [Sanctify Water](../../Magic/Spells/sanctify-water.md)
 * [Screen of Protection](../../Magic/Spells/screen-of-protection.md)
 * [Shield Other](../../Magic/Spells/shield-other.md)
+* [Shocking Blade Arc](../../Magic/Spells/shocking-blade-arc.md) *brandish*
 * [Strength of Stone](../../Magic/Spells/strength-of-stone.md)
 * [Sudden Formation](../../Magic/Spells/sudden-formation.md)
-* [Twisting Throw](../../Magic/Spells/twisting-throw.md)
+* [Twisting Throw](../../Magic/Spells/twisting-throw.md) *brandish*
 * [War Cry](../../Magic/Spells/war-cry.md)
 * [Warding Bond](../../Magic/Spells/warding-bond.md)
 * [Warning Breath](../../Magic/Spells/warning-breath.md)
@@ -157,6 +168,7 @@
 * [Combined Effort](../../Magic/Spells/combined-effort.md)
 * [Create Food and Water](../../Magic/Spells/create-food-and-water.md)
 * [Crusader's Mantle](../../Magic/Spells/crusaders-mantle.md)
+* [Darkness Blade Arc](../../Magic/Spells/darkness-blade-arc.md) *brandish*
 * [Daylight](../../Magic/Spells/daylight.md)
 * [Dispel Magic](../../Magic/Spells/dispel-magic.md)
 * [Draining Smite](../../Magic/Spells/draining-smite.md)
@@ -172,7 +184,9 @@
 * [Junglerazer](../../Magic/Spells/junglerazer.md)
 * [Keen Edge](../../Magic/Spells/keen-edge.md)
 * [Knightly Intercession](../../Magic/Spells/knightly-intercession.md)
+* [Luminous Blade Arc](../../Magic/Spells/luminous-blade-arc.md) *brandish*
 * [Mace of Odo](../../Magic/Spells/mace-of-odo.md)
+* [Magic Blade Arc](../../Magic/Spells/magic-blade-arc.md) *brandish*
 * [Magic Circle](../../Magic/Spells/magic-circle.md)
 * [Marshal's Pursuit](../../Magic/Spells/marshals-pursuit.md)
 * [Mass Shield](../../Magic/Spells/mass-shield.md)
@@ -198,10 +212,12 @@
 * [Battle Hymn](../../Magic/Spells/battle-hymn.md)
 * [Blade of Flickering Shadows](../../Magic/Spells/blade-of-flickering-shadows.md)
 * [Boon of the God](../../Magic/Spells/boon-of-the-god.md)
+* [Brilliant Smite](../../Magic/Spells/brilliant-smite.md)
 * [Brook Healing](../../Magic/Spells/brook-healing.md)
 * [Castigating Sanction](../../Magic/Spells/castigating-sanction.md)
 * [Corona](../../Magic/Spells/corona.md)
 * [Curse Blade](../../Magic/Spells/curse-blade.md)
+* [Dark Wave](../../Magic/Spells/dark-wave.md)
 * [Death Ward](../../Magic/Spells/death-ward.md)
 * [Eldritch Isolation](../../Magic/Spells/eldritch-isolation.md)
 * [Enhance Body](../../Magic/Spells/enhance-body.md)
@@ -217,17 +233,20 @@
 * [Life Spring](../../Magic/Spells/life-spring.md)
 * [Lifesurge](../../Magic/Spells/lifesurge.md)
 * [Locate Creature](../../Magic/Spells/locate-creature.md)
+* [Luminous Wave](../../Magic/Spells/luminous-wave.md)
 * [Marshal's Resolve](../../Magic/Spells/marshals-resolve.md)
 * [Mass Shield of Faith](../../Magic/Spells/mass-shield-of-faith.md)
 * [Positive Energy Aura](../../Magic/Spells/positive-energy-aura.md)
 * [Seek Eternal Rest](../../Magic/Spells/seek-eternal-rest.md)
 * [Serenity of Stone](../../Magic/Spells/serenity-of-stone.md)
+* [Shattering Smite](../../Magic/Spells/shattering-smite.md)
+* [Shining Beacon](../../Magic/Spells/shining-beacon.md)
 * [Staggering Smite](../../Magic/Spells/staggering-smite.md)
 * [Strangulate](../../Magic/Spells/strangulate.md)
 * [Swordshun](../../Magic/Spells/swordshun.md)
 * [Torm's Safeguard](../../Magic/Spells/torms-safeguard.md)
 * [Vacillate](../../Magic/Spells/vacillate.md)
-* [Vengeful Smite](../../Magic/Spells/vengeful-smite.md)
+* [Vengeful Smite](../../Magic/Spells/vengeful-smite.md) *blood*
 * [Zala's Amberhelm](../../Magic/Spells/zalas-amberhelm.md)
  
 ## 5th-Level Spells
@@ -237,6 +256,7 @@
 * [Befoul Water](../../Magic/Spells/befoul-water.md)
 * [Blazing Thunderbolt Strike](../../Magic/Spells/blazing-thunderbolt-strike.md)
 * [Blood of the Martyr](../../Magic/Spells/blood-of-the-martyr.md)
+* [Branding Smite](../../Magic/Spells/branding-smite.md)
 * [Caging Glaive](../../Magic/Spells/caging-glaive.md)
 * [Champion's Strength](../../Magic/Spells/champions-strength.md)
 * [Circle of Power](../../Magic/Spells/circle-of-power.md)
@@ -252,11 +272,12 @@
 * [Geas](../../Magic/Spells/geas.md)
 * [Heavenly Pillar](../../Magic/Spells/heavenly-pillar.md)
 * [Holy Weapon](../../Magic/Spells/holy-weapon.md)
-* [Ilmater's Fortune](../../Magic/Spells/ilmaters-fortune.md)
+* [Ilmater's Fortune](../../Magic/Spells/ilmaters-fortune.md) *ritual*
 * [Mantle of Baravar](../../Magic/Spells/mantle-of-baravar.md)
 * [Marshal's Triumph](../../Magic/Spells/marshals-triumph.md)
 * [Maximum Damage](../../Magic/Spells/maximum-damage.md)
 * [Paralyzing Smite](../../Magic/Spells/paralyzing-smite.md)
+* [Prayer Circle](../../Magic/Spells/prayer-circle.md) *ritual*
 * [Rage Beacon](../../Magic/Spells/rage-beacon.md)
 * [Raise Dead](../../Magic/Spells/raise-dead.md)
 * [Rejuvenate](../../Magic/Spells/rejuvenate.md)
@@ -270,7 +291,7 @@
 * [Unexpected Clarity](../../Magic/Spells/unexpected-clarity.md)
 * [Valiancy](../../Magic/Spells/valiancy.md)
 * [Valiant Fury](../../Magic/Spells/valiant-fury.md)
-* [Vehement Inquiry](../../Magic/Spells/vehement-inquiry.md)
+* [Vehement Inquiry](../../Magic/Spells/vehement-inquiry.md) *ritual*
  
 ## 6th-Level Spells
  

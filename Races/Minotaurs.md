@@ -1,5 +1,5 @@
 # [Minotaurs](../Creatures/Minotaur.md)
-Minotaurs found in [Yithi](../Nations/Yithi.md) and (less often) [Zhi](../Nations/Zhi.md) are quite strikingly different from their Horde-homed brethren: frequently solitary, thoughtful, and quite committed to rule of law and order.
+Minotaurs found in [Yithi](../Nations/Yithi.md) and (less often) [Zhi](../Nations/Zhi.md) are quite strikingly different from their Horde-homed brethren: frequently solitary, thoughtful, and quite committed to rule of law and order. Among the [United Hordes](../Nations/Tragekia.md) they often take leadership roles among the tribes and Houses, exhibiting more physical attributes and less intellectual ones than their northern cousins. Among the [Ulmhorde](../Nations/Ulm.md), minotaurs are frequently solitary champions of cunning physical combat, looking for tests to their skill and strength among their opponents. Many minotaurs of both Tragekian and Ulm descent find life among a mercenary company to be ideal, allowing them ample opportunities to test their prowess and build personal wealth, and many more take to the seas for the same reasons.
 
 ```
 name = 'Minotaur'
@@ -14,7 +14,7 @@ type = 'humanoid'
 
 * **Size**. Minotaurs typically stand well over 6 feet tall and weigh an average of 300 pounds. Your size is Large.
 
-* **Hit Points.** You start with 6d10 + (6 * CON bonus) hit points. Thse are "base" hit points, and do not count as Hit Dice for use during short rest periods, for example. These also do not count as character "levels"; thus, a Minotaur Fighter 1 has 1 Hit Dice and is 1 level, even though they have 6d10 + 1d10 + (7 * CON bonus) total hit points. *(GM's note: For this reason, minotaur PCs should usually be a few levels behind their peers, as a means of keeping balance.)*
+* **Hit Points.** You start with 6d10 + (6 * CON bonus) hit points. Thse are "base" hit points, and do not count as Hit Dice for use during short rest periods, for example. These also do not count as character "levels"; thus, a Minotaur Fighter 1 has 1 Hit Dice and is 1 level, even though they have 6d10 + 1d10 + (7x CON bonuses) total hit points. *(GM's note: For this reason, minotaur PCs should usually be a few levels behind their peers, as a means of keeping balance.)*
 
 * **Speed**. Your base walking speed is 30 feet.
 

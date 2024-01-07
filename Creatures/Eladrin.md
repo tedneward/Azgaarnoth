@@ -24,7 +24,7 @@ Eladrin often enter the autumn season when they are overcome by feelings of good
 ![](AutumnEladrin-Token.png)
 
 >### Autumn Eladrin
->*Medium Fey (Elf), Typically Chaotic Neutral*
+>*Medium fey (Elf), Typically Chaotic Neutral*
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 165 (22d8 + 66)
@@ -84,7 +84,7 @@ Their hearts filled with joy, spring eladrin cavort through their sylvan realms,
 ![](SpringEladrin-Token.png)
 
 >### Spring Eladrin
->*Medium Fey (Elf), Typically Chaotic Neutral*
+>*Medium fey (Elf), Typically Chaotic Neutral*
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 165 (22d8 + 66)
@@ -140,7 +140,7 @@ When angered, eladrin enter the season of summer, a burning, tempestuous state t
 ![](SummerEladrin-Token.png)
 
 >### Summer Eladrin
->*Medium Fey (Elf), Typically Chaotic Neutral*
+>*Medium fey (Elf), Typically Chaotic Neutral*
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 165 (22d8 + 66)
@@ -192,7 +192,7 @@ When sorrow distresses eladrin, they enter the winter season, becoming figures o
 ![](WinterEladrin-Token.png)
 
 >### Winter Eladrin
->*Medium Fey (Elf), Typically Chaotic Neutral*
+>*Medium fey (Elf), Typically Chaotic Neutral*
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 165 (22d8 + 66)

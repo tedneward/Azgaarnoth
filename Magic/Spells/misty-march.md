@@ -1,5 +1,5 @@
 #### Misty March
-*7th-level conjuration (Bard, Warlock, Wizard)
+*7th-level conjuration* (Bard, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action 
 - **Range:** 60 feet 

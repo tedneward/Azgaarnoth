@@ -72,3 +72,8 @@ def level0(npc):
 
 Rith, Nurrink, Zittuth, Chrivrar, Thank, Nadron, Zhun, Rurgunn, Breggor, Naddak, Tidrank, Thaghon, Nezzilk, Vurk, Khor, Tugalk, Bidir, Ditrimkk, Viggamkk, Ghagurk, Hrork, Gonk, Brighar, Zhaggolk, Vidrok, Gughann, Zhaddunn, Gozzath, Thetan, Tegron
 
+```
+def generate_name(npc, gender):
+    names = ['Rith', 'Nurrink', 'Zittuth', 'Chrivrar', 'Thank', 'Nadron', 'Zhun', 'Rurgunn', 'Breggor', 'Naddak', 'Tidrank', 'Thaghon', 'Nezzilk', 'Vurk', 'Khor', 'Tugalk', 'Bidir', 'Ditrimkk', 'Viggamkk', 'Ghagurk', 'Hrork', 'Gonk', 'Brighar', 'Zhaggolk', 'Vidrok', 'Gughann', 'Zhaddunn', 'Gozzath', 'Thetan', 'Tegron']
+    return random(names)
+```

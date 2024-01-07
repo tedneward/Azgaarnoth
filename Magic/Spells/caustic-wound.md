@@ -1,5 +1,5 @@
 #### Caustic Wound
-*1st-level transmutation* (Sorcerer,Wizard)
+*1st-level transmutation* *(blood)* (Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 reaction, which you take in response to being damaged by a creature with either piercing or slashing damage
 - **Range:** Self

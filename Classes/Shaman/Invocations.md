@@ -6,20 +6,46 @@ If a shamanic invocation has prerequisites, you must meet them to learn it. You 
 
 You can cast [levitate](../../Magic/Spells/levitate.md) on yourself at will, without expending spirit points or material components.
 
+```
+def ascendantstep(npc):
+    npc.actions.append(f"***Invocation: Ascendant Step.*** You can cast {spelllinkify('levitate')} on yourself at will, without expending spirit points or material components.")
+def ascendantstep_prereq(npc): return npc.levels('Shaman') >= 9
+```
+
 ### Battle Frenzy
 *Prerequisite: 12th level, Gift of Savagery feature*
 
 When you use the Attack action on your turn with your spirit weapon, you can make one attack with the same weapon as a bonus action.
+
+```
+def battlefrenzy(npc):
+    npc.actions.append(f"***Invocation: Ascendant Step.*** You can cast {spelllinkify('levitate')} on yourself at will, without expending spirit points or material components.")
+def battlefrenzy_prereq(npc): return npc.levels('Shaman') >= 12 # and gift of savagery
+```
 
 ### Call of Elements
 *Prerequisite: 9th level, Speaker of Flames, Stones, Waters, or Winds*
 
 You can cast [conjure elemental](../../Magic/Spells/conjure-elemental.md) once, without expending spirit points, but only to conjure an elemental of the element to which you are called. You can't do so again until you finish a long rest.
 
+```
+def callofelements(npc):
+    npc.actions.append(f"***Invocation: Call of Elements (Recharges on long rest).*** You can cast {spelllinkify('conjure elemental')} on yourself at will, but only to conjure a {'air' if npc.subclass.name == 'Speaker of Winds' else 'earth' if npc.subclass.name == 'Speaker of Stones' else 'fire' if npc.subclass.name == 'Speaker of Flames' else 'water' if npc.subclass.name == 'Speaker of Waters' else 'WTF?!?!'} elemental.")
+def callofelements_prereq(npc): 
+    return npc.levels('Shaman') >= 9 and (npc.subclass.name in ['Speaker of Flames', 'Speaker of Stones', 'Speaker of Waters', 'Speaker of Winds'])
+```
+
 ### Elemental Empowerment
 *Prerequisite: 7th level, Gift of Savagery feature*
 
 When you cast [elemental weapon](../../Magic/Spells/elemental-weapon.md) on your spirit weapon, you can choose to cast it with a casting time of 1 bonus action. In addition, you can maintain concentration on an [elemental weapon](../../Magic/Spells/elemental-weapon.md) spell that you have cast on your spirit weapon until you take a long or short rest, and you can spend 1 spirit point whenever you take damage to avoid breaking your concentration on [elemental weapon](../../Magic/Spells/elemental-weapon.md).
+
+```
+def elementalempowerment(npc):
+    npc.actions.append(f"***Invocation: Call of Elements (Recharges on long rest).*** You can cast {spelllinkify('conjure elemental')} on yourself at will, but only to conjure a {'air' if npc.subclass.name == 'Speaker of Winds' else 'earth' if npc.subclass.name == 'Speaker of Stones' else 'fire' if npc.subclass.name == 'Speaker of Flames' else 'water' if npc.subclass.name == 'Speaker of Waters' else 'WTF?!?!'} elemental.")
+def elementalempowerment_prereq(npc): 
+    return npc.levels('Shaman') >= 7 # and gift of savagery
+```
 
 ### Entreat the Spirits
 *Prerequisite: 9th level*

@@ -1,13 +1,13 @@
 Gender,random,Ability Scores,Average,Race,Dwarf,Brewer's Supplies,Dark,Rogue,Acrobatics,Athletics,Deception,Insight,Acrobatics,Athletics,Yes
 Rogue,Yes
 Rogue,Assassin,Yes
-Rogue,Ability,CON,CON,Yes
+Rogue,Feat,Alert,Yes
 Rogue,Yes
-Rogue,Deception,Insight,Yes
+Rogue,Deception,Sleight of Hand,Yes
 Rogue,Yes
 Rogue,Feat,Dwarven Resilience,Yes
 Rogue,Yes
-Rogue,Ability,CON,CON,Yes
+Rogue,Feat,Sharpshooter,Yes
 Rogue,Yes
 Rogue,Ability,DEX,DEX,Yes
 Rogue,Yes

@@ -1,5 +1,5 @@
 #### Summon Primal Spirit
-*9th-level conjuration (Druid)
+*9th-level conjuration* (Druid)
 ___
 - **Casting Time:** 1 minute 
 - **Range:** 60 feet 

@@ -1,11 +1,11 @@
-Gender,random,Ability Scores,Average,Race,Hobgoblin,Mystic,History,Insight,Energy Beam,Bestial Form,Avatar,Crown of Despair,Crown of Disgust,Yes
+Gender,random,Ability Scores,Average,Race,Hobgoblin,random,random,Mystic,History,Insight,Energy Beam,Bestial Form,Avatar,Crown of Despair,Crown of Disgust,Yes
 Mystic,Yes
 Mystic,Mind Thrust,Crown of Rage,Yes
 Mystic,Feat,Keen Mind,Yes
 Mystic,Yes
 Mystic,Yes
 Mystic,Mantle of Command,Yes
-Mystic,Feat,Weapon Master,DEX,Yes
+Mystic,Feat,Weapon Master,DEX,random,random,random,random,Yes
 Mystic,Mantle of Courage,Yes
 Mystic,Blind Spot,Yes
 Mystic,Yes

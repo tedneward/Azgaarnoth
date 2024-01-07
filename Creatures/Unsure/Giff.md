@@ -12,7 +12,7 @@ In addition to their personal gunpowder weapons, giff ships and mercenary compan
 Every other keg of gunpowder within 20 feet of an exploding keg has a 50 percent chance of also exploding. Check each keg only once per turn, no matter how many other kegs explode around it.
 
 >### Giff
->*Medium Humanoid, Any Alignment*
+>*Medium humanoid , Any Alignment*
 >___
 >- **Armor Class** 16 (breastplate)
 >- **Hit Points** 60 (8d8 + 24)

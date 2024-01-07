@@ -4,7 +4,7 @@ Amnizus lead infernal legions into battle and command guardians at the gateways 
 Some amnizus perform the critical task of watching over the River Styx from fortresses along the river's blighted banks, where it flows through Dis and Stygia. They collect the souls arriving in the form of lemures (see the Monster Manual). Lemures have no personalities or memories; they're driven only by the desire to commit evil. The amnizus that patrol here drill the rules of the Nine Hells into the new arrivals' minds and marshal them into legions.
 
 >### Amnizu
->*Medium Fiend (Devil), Typically Lawful Evil*
+>*Medium fiend (Devil), Typically Lawful Evil*
 >___
 >- **Armor Class** 21 (natural armor)
 >- **Hit Points** 202 (27d8 + 81)

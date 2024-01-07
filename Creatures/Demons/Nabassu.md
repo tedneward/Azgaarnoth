@@ -7,7 +7,7 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
 
 
 >### Nabassu
->*Medium Fiend (Demon), Typically Chaotic Evil*
+>*Medium fiend (Demon), Typically Chaotic Evil*
 >___
 >- **Armor Class** 18 (natural armor)
 >- **Hit Points** 190 (20d8 + 100)

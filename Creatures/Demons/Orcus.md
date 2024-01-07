@@ -15,7 +15,7 @@ Orcus grants his rank-and-file cultists the Undying Soul trait, and his cult lea
 Orcus is a bestial creature of corruption with a diseased, decaying look. He has the lower torso of a goat and a humanlike upper body with a belly swollen with rot. Great bat wings sprout from his shoulders, and his head is like the skull of a goat, the flesh nearly rotted from it. In one hand, he wields the legendary Wand of Orcus.
 
 >### Orcus
->*Huge Fiend (Demon Lord), Chaotic Evil*
+>*Huge fiend (Demon Lord), Chaotic Evil*
 >___
 >- **Armor Class** 17 (natural armor), 20 with the Wand of Orcus
 >- **Hit Points** 405 (30d12 + 210)

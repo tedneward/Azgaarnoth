@@ -2,6 +2,9 @@
 Dolphins are clever, social marine mammals that feed on small fish and squid. An adult specimen is between 5 and 6 feet long.
 
 > Jump to: [Dolphin](Dolphins.md#dolphin) | [Dolphin Delighter](Dolphins.md#dolphin-delighter)
+
+![](Dolphins.png)
+
 ---
 
 ## Dolphin
@@ -14,7 +17,7 @@ Underwater
 ![](Dolphin-Token.png)
 
 >### Dolphin
->*Medium Beast, Unaligned*
+>*Medium beast, Unaligned*
 >___
 >- **Armor Class** 12 (natural armor)
 >- **Hit Points** 11 (2d8 + 2)
@@ -56,7 +59,7 @@ Underwater
 ![](DolphinDelighter-Token.png)
 
 >### Dolphin Delighter
->*Medium Fey, Typically Chaotic Good*
+>*Medium fey, Typically Chaotic Good*
 >___
 >- **Armor Class** 14 (natural armor)
 >- **Hit Points** 27 (5d8 + 5)

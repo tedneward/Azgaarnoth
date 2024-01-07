@@ -12,7 +12,7 @@ Coastal, Desert, Forest, Ruins, Swamp, Underdark, Urban
 ![](Nagpa-Token.png)
 
 >### Nagpa
->*Medium Monstrosity (Wizard), Typically Neutral Evil*
+>*Medium monstrosity (Wizard), Typically Neutral Evil*
 >___
 >- **Armor Class** 19 (natural armor)
 >- **Hit Points** 203 (37d8 + 37)

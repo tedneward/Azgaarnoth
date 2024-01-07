@@ -3,6 +3,8 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 
 > Jump to: [Githzerai Monk](Githzerai.md#githzerai-monk) | [Githzerai Zerth](Githzerai.md#githzerai-zerth) | [Githzerai Anarch](Githzerai.md#githzerai-anarch) | [Githzerai Enlightened](Githzerai.md#githzerai-enlightened)
 
+![](Githzerai.webp)
+
 Focused philosophers and austere ascetics, the githzerai pursue lives of rigid order. Lean and muscular, they wear unadorned clothing free of ornamentation, keeping their own counsel and trusting few creatures outside of their own kind. Having turned their backs on their warlike githyanki kin, the githzerai maintain a strict monastic lifestyle, dwelling on islands of order in the vast sea of chaos that is the plane of Limbo.
 
 ***Order amid Chaos.*** The githzerai willingly dwell in the heart of utter chaos in Limbo — a twisting, mercurial plane prone to manipulation and subjugation by githzerai minds strong enough to master it. Limbo is a maelstrom of primal matter and energy, its terrain a storm of rock and earth swept up in torrents of murky liquid, buffeted by strong winds, blasted by fire, and chilled by crushing walls of ice.
@@ -32,7 +34,7 @@ As disciplined as they are, the githzerai have never forgotten their long impris
 (FIXME)
 
 ### Token
-![](GithzeraiMonk-Token.png)
+![](Githzerai-Monk-Token.png)
 
 >### Githzerai Monk
 >*Medium humanoid (gith), lawful neutral*
@@ -59,9 +61,8 @@ As disciplined as they are, the githzerai have never forgotten their long impris
 >___
 >***Innate Spellcasting (Psionics).*** The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:
 >
->At will: mage hand (the hand is invisible)
->
->3/day each: feather fall, jump, see invisibility, shield
+>* *At will:* mage hand (the hand is invisible)
+>* *3/day each:* feather fall, jump, see invisibility, shield
 >
 >***Psychic Defense.*** While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 >
@@ -80,7 +81,7 @@ Skilled githzerai monks that best exemplify the teachings and principles of Zert
 (FIXME)
 
 ### Token
-![](GithzeraiZerth-Token.png)
+![](Githzerai-Zerth-Token.png)
 
 >### Githzerai Zerth
 >*Medium humanoid (gith), lawful neutral*
@@ -107,11 +108,9 @@ Skilled githzerai monks that best exemplify the teachings and principles of Zert
 >___
 >***Innate Spellcasting (Psionics).*** The githzerai's spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 >
->At will: mage hand (the hand is invisible)
->
->3/day each: feather fall, jump, see invisibility, shield
->
->1/day each: phantasmal killer, plane shift
+>* *At will:* mage hand (the hand is invisible)
+>* *3/day each:* feather fall, jump, see invisibility, shield
+>* *1/day each:* phantasmal killer, plane shift
 >
 >***Psychic Defense.*** While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 >
@@ -130,10 +129,10 @@ Anarchs are githzerai sages and mystics who lead communities and maintain the ad
 (FIXME)
 
 ### Token
-![](GithzeraiAnarch-Token.png)
+![](Githzerai-Anarch-Token.png)
 
 >### Githzerai Anarch
->*Medium Humanoid (Gith), Any Alignment*
+>*Medium humanoid  (Gith), Any Alignment*
 >___
 >- **Armor Class** 20 (Psychic Defense)
 >- **Hit Points** 144 (17d8 + 68)
@@ -166,11 +165,9 @@ Anarchs are githzerai sages and mystics who lead communities and maintain the ad
 >
 >***Spellcasting (Psionics).*** The githzerai casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 18):
 >
->At will: mage hand (the hand is invisible)
->
->3/day each: see invisibility, telekinesis
->
->1/day each: globe of invulnerability, plane shift, wall of force
+>* *At will:* mage hand (the hand is invisible)
+>* *3/day each:* see invisibility, telekinesis
+>* *1/day each:* globe of invulnerability, plane shift, wall of force
 >
 >#### Legendary Actions
 >The githzerai can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The githzerai regains spent legendary actions at the start of its turn.
@@ -216,10 +213,10 @@ Some spiritual githzerai spend long hours in meditation to transcend the limits 
 (FIXME)
 
 ### Token
-![](GithzeraiEnlightened-Token.png)
+![](Githzerai-Enlightened-Token.png)
 
 >### Githzerai Enlightened
->*Medium Humanoid (Gith), Any Alignment*
+>*Medium humanoid  (Gith), Any Alignment*
 >___
 >- **Armor Class** 18 (Psychic Defense)
 >- **Hit Points** 112 (15d8 + 45)
@@ -250,11 +247,9 @@ Some spiritual githzerai spend long hours in meditation to transcend the limits 
 >
 >***Spellcasting (Psionics).*** The githzerai casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 16):
 >
->At will: mage hand (the hand is invisible)
->
->3/day: see invisibility
->
->1/day each: plane shift, teleport
+>* *At will:* mage hand (the hand is invisible)
+>* *3/day:* see invisibility
+>* *1/day each:* plane shift, teleport
 >
 >***Temporal Strike (Recharge 6).*** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) bludgeoning damage plus 52 (8d12) psychic damage. The target must succeed on a DC 16 Wisdom saving throw or move 1 round forward in time. A target moved forward in time vanishes for the duration. When the effect ends, the target reappears in the space it left or in an unoccupied space nearest to that space if it's occupied.
 >

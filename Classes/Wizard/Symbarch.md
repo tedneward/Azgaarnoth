@@ -2,7 +2,7 @@
 Symbarchs are a unique tradition that is only taught to wizard members of the [Symbarch](../../Organizations/MageSchools/Symbarchs.md) mage school; over the centuries, only a handful of Symbarchs have ever left the school, and usually then under amicable conditions. Any apprentices they taught the tradition to were then accepted into the school when the apprentice (inevitably) journeyed to Bedia to take up the mantle of their master.
 
 > ### Game Notes
-> Wizard members of this tradition are deeply tied into the lives and happenings in the nation of Bedia; players should expect to have strong elements of that nation and its history in their backstory, and the Symbarch mage school to figure prominently in their stories.
+> Wizard members of this tradition are deeply tied into the lives and happenings in the nation of Bedia; players should expect to have strong elements of that nation and its history in their backstory, and the Symbarch mage school should figure prominently in their stories.
 
 ## Minor Synosdweomer
 Beginning when you select this arcane tradition at 2nd level, you can expend one spell slot to accelerate your body's natural healing powers. As a bonus action, expend a single spell slot as if you were casting a spell, and then spend one Hit Die. You regain hit points as if that Hit Die had been spent during a short rest, plus additional hit points equal to twice the level of the spell slot used.

@@ -1,5 +1,5 @@
 #### Wild Cunning
-*1st-level transmutation* *(ritual)* (Druid,Ranger)
+*1st-level transmutation* *(ritual)* (Druid,Ranger,Shaman)
 ___
 - **Casting Time:** 1 action
 - **Range:** 120 feet
@@ -9,6 +9,7 @@ ___
 You call out to the spirits of nature to aid you. 
 
 When you cast this spell, choose one of the following effects:
+
 * If there are any tracks on the ground within range, you know where they are, and you make Wisdom (Survival) checks to follow these tracks with advantage for 1 hour or until you cast this spell again.
 * If there is edible forage within range, you know it and where to find it.
 * If there is clean drinking water within range, you know it and where to find it.

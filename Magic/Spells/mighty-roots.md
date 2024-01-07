@@ -1,5 +1,5 @@
 #### Mighty Roots
-*7th-level conjuration (Druid)
+*7th-level conjuration* (Druid)
 ___
 - **Casting Time:** 1 action 
 - **Range:** 60 feet 

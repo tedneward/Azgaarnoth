@@ -4,7 +4,7 @@ The Weave is a fabric of magic that underlies the planes and is arguably the sou
 This is probably one of the most public of the monastic traditions in Azgaarnoth, as nearly all of the [mage schools](../../Organizations/MageSchools/index.md) make use of Weave monks as bodyguards, assistants, and companions. It is not entirely clear what the monks get out of the partnership, however, though speculation is rife. To join one of the Weave monks, however, is simple: walk up to any Weave monk, ask how to join, and instructions will be made clear (usually a small quest to test the sincerity of the request, followed by directions to a monastery somewhere on the continent). Regardless of whatever other agreements mage schools have with Weave monks, the one consistent factor is that the Way of the Weave is always open to new students, of any race, at any time. It is for this reason, as well, that any race found anywhere on Azgaarnoth can be accepted as a Weave monk--human, Firstborn, Created, Horde, even Undersea, all are welcome, embraced, and taught.
 
 ```
-name = 'Weave'
+name = 'Way of the Weave'
 description = "***Monastic Tradition: Way of the Weave.*** The Weave is a fabric of magic that underlies the planes and is arguably the source of power for all arcane magic. Monks of the Way of the Weave have, through their manipulation of ki, discovered how to tap into the Weave and channel its energy to cast spells. While many monks use this deep understanding of the Weave to explore the secrets of the multiverse, some Way of the Weave monks choose to wield this arcane power against their foes."
 ```
 

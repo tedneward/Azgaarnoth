@@ -6,7 +6,7 @@ In the armies of demon lords, armanites perform the role of heavy cavalry, leadi
 Part of what makes armanites so fearsome is the number of weapons they have at their disposal. They possess dense hooves, claws that end in curling talons, and long tails whose serrated ridges can flense the flesh from a victim, and they use them all to carve through their foes. When they're up against tough formations, they can call on their innate magic to loose bolts of lightning and blow holes in enemy ranks.
 
 >### Armanite
->*Large Fiend (Demon), Typically Chaotic Evil*
+>*Large fiend (Demon), Typically Chaotic Evil*
 >___
 >- **Armor Class** 16 (natural armor)
 >- **Hit Points** 94 (9d10 + 45)

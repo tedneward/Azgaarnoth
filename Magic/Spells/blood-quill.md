@@ -1,5 +1,5 @@
 #### Blood Quill
-*2nd-level divination* *(ritual)* (Wizard)
+*2nd-level divination* *(blood,ritual)* (Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch

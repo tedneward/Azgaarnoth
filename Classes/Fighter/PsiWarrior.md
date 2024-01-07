@@ -32,13 +32,13 @@ def level3(npc):
         npc.psionicdie = 'd6' if npc.levels('Fighter') < 5 else 'd8' if npc.levels('Fighter') < 11 else 'd10' if npc.levels('Fighter') < 17 else 'd12'
     npc.defer(lambda npc: setpsidice(npc) )
 
-    npc.defer(lambda npc: npc.traits.append(f"***Psionic Energy Dice (Recharges on long rest).*** You harbor a wellspring of psionic energy within yourself. This energy is represented by {npc.proficiencybonus() * 2} Psionic Energy dice, which are each a {npc.psionicdie}, and they fuel various psionic powers you have, which are detailed below. You can't use a power if it requires you to use a die when your dice are all expended.") )
+    npc.defer(lambda npc: npc.traits.append(f"***Psionic Energy Dice ({npc.proficiencybonus() * 2}/Recharges on long rest).*** You harbor a wellspring of psionic energy within yourself. This energy is represented by {npc.proficiencybonus() * 2} Psionic Energy dice, which are each a {npc.psionicdie}, and they fuel various psionic powers you have, which are detailed below. You can't use a power if it requires you to use a die when your dice are all expended.") )
 
     npc.bonusactions.append("***Recover (Recharges on short or long rest).*** You can regain one expended Psionic Energy die.")
 
-    npc.defer(lambda npc: npc.reactions.append(f"***Protective Field.*** When you or another creature you can see within 30 feet of you takes damage, you can expend one Psionic Energy die, roll the die, and reduce the damage taken by the number rolled plus {npc.INTbonus()}, as you create a momentary shield of telekinetic force."))
+    npc.defer(lambda npc: npc.reactions.append(f"***Protective Field.*** When you or another creature you can see within 30 feet of you takes damage, you can expend one Psionic Energy die, and reduce the damage by 1{npc.psionicdie} + {npc.INTbonus()}, as you create a momentary shield of telekinetic force."))
 
-    npc.defer(lambda npc: npc.traits.append(f"***Psionic Strike.*** Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a weapon, you can expend one Psionic Energy die, rolling it and dealing force damage to the target equal to the number rolled plus {npc.INTbonus()}."))
+    npc.defer(lambda npc: npc.traits.append(f"***Psionic Strike.*** Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a weapon, you can expend one Psionic Energy die, dealing 1{npc.psionicdie} + {npc.INTbonus()} force damage to the target."))
 
     npc.actions.append("***Telekinetic Movement (Recharges on short or long rest or Psionic Energy die).*** You target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both.")
 ```
@@ -84,12 +84,12 @@ def level15(npc):
 ## Telekinetic Master
 *18th-level Psi Warrior feature*
 
-Your ability to move creatures and objects with your mind is matched by few. You can cast the [telekinesis](../../Magic/Spells/telekinesis.md) spell, requiring no components, and your spellcasting ability for the spell is Intelligence. On each of your turns while you concentrate on the spell, including the turn when you cast it, you can make one attack with a weapon as a bonus action.
+Your ability to move creatures and objects with your mind is matched by few. You can cast the [telekinesis](../../Magic/Spells/telekinesis.md) spell, requiring no components, and your spellcasting ability for the spell is Intelligence. On each of your turns while you concentrate on the spell, including the turn when you cast it, you can make one attack with a weapon as a bonus action, whether by your hand or by a weapon being manipulated by the *telekinesis*.
 
 Once you cast the spell with this feature, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to cast it again.
 
 ```
 def level18(npc):
     npc.actions.append(f"***Telekinetic Master (Recharges on long rest or Psionic Energy die).*** You can cast the {spelllinkify('telekinesis')} spell, requiring no components, and your spellcasting ability for the spell is Intelligence. On each of your turns while you concentrate on the spell, including the turn when you cast it, you can make one attack with a weapon as a bonus action.")
-    npc.bonusactions.append("***Telekinetic Master Attack.*** On each of your turns while concentrating on your *telekinesis*, you can make one attack with a weapon.")
+    npc.bonusactions.append("***Telekinetic Master Attack.*** On each of your turns while concentrating on your *telekinesis*, you can make one attack with a weapon, whether by your hand or by a weapon being manipulated by the *telekinesis*.")
 ```

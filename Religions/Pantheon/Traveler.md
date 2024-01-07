@@ -7,6 +7,11 @@ When he appears, he often appears as a handsome humanoid, often a halfling. (To 
 
 The mischievous Master of Stealth is always on the lockout for a worthy risk and challenge to face, and he may even seek out a highly skilled halfling thief or two to join him in some caper as he wanders the Prime. Other thieves may come along on such jaunts, but if they do not worship The Traveler they might find some of their valuables missing when the adventure is over. The Traveler reveals his identity only after the adventure is over, and only to his followers. The Traveler's adventures can be exceptionally challenging and dangerous, but hold the promise of great reward for the fast, the clever, and the quiet!
 
+## Clerical Details
+**Domains:** [Chaos](../../Classes/Cleric/Chaos.md), [Twilight](../../Classes/Cleric/Twilight.md), [Trickery](../../Classes/Cleric/Trickery.md)
+
+Weapon: Dagger
+
 ## Worshipers, Clergy & Temples
 The church of Misadventure, as The Traveler's "organized" religion is known, teems with adventuresome troublemakers who usually emerge from some dangerous endeavor better off than when they entered it. Though most halflings (particularly children) love stories of their exploits, most halflings would prefer that the church of The Traveler keep far away from their own lives and are personally unwilling to get involved in the misadventurous capers of the Traveler's entourage. Many strong heart communities discourage The Traveler' worship, and some even view The Traveler and his cult as a perversion of the civilized world.
 

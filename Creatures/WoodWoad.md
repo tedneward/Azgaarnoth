@@ -14,7 +14,7 @@ Like trees, wood woads need only sunlight, air, and nutrients from the earth to 
 Wood woads are drawn to creatures that have close ties to nature and that protect and respect the land, such as druids and treants (both appear in the Monster Manual). Some treants have wood woad servants by virtue of age-old pacts with druids or Fey that performed the rituals, while others acquire the services of freed wood woads that find renewed purpose in serving a kindred guardian.
 
 >### Wood Woad
->*Medium Plant, Typically Lawful Neutral*
+>*Medium plant, Typically Lawful Neutral*
 >___
 >- **Armor Class** 18 (natural armor, shield)
 >- **Hit Points** 75 (10d8 + 30)
