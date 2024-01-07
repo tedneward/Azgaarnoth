@@ -10,4 +10,4 @@ You channel the essence of entropy, through yourself, into the sky. Every creatu
 
 Casting this spell is an unquestionably evil act. Other gods take notice, and often warn their followers or send servants to deal with you directly.
 
-Channeling the essence of entropy takes a direct toll on the caster as well: when you cast this spell, you take 10d6 necrotic damage, and must roll 1d6 and permanently decrease your Constitution by the number rolled. This damage cannot reduced or resisted in any way.
+Channeling the essence of entropy takes a direct toll on the caster as well: when you cast this spell, you take 10d6 necrotic damage, you are [necrotized](../../Conditions/Necrotized.md) for 24 hours, and must roll 1d6 and permanently decrease your Constitution by the number rolled. This damage cannot reduced or resisted in any way.

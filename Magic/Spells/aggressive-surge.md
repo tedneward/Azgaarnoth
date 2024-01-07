@@ -1,5 +1,5 @@
 #### Aggressive Surge
-*2nd-level enchantment* (Wizard)
+*2nd-level enchantment* (Bard,Wizard)
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self

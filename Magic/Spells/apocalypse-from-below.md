@@ -1,4 +1,4 @@
-#### Apocalypse
+#### Apocalypse from Below
 *6th-level conjuration* (Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 action
