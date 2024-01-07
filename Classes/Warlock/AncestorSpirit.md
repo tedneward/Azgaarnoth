@@ -11,16 +11,11 @@ The Ancestor lets you choose from an expanded list of spells when you learn a wa
 
 Spell Level | Spells
 ----------- | ----------
-1st | unseen servant, detect evil and good
-2nd | augury, see invisibility
-3rd | speak with dead, spirit guardians
-4th | divination, guardian of faith
-5th | legend lore, raise dead
-
-## Bonus Cantrip
-*1st-level Ancestor Spirit feature*
-
-You gain the [guidance](../../Magic/Spells/guidance.md) and [message](../../Magic/Spells/message.md) cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.
+1st | [unseen servant](../../Magic/Spells/unseen-servant.md), [detect evil and good](../../Magic/Spells/detect-evil-and-good.md)
+2nd | [augury](../../Magic/Spells/augury.md), [see invisibility](../../Magic/Spells/see-invisibility.md)
+3rd | [speak with dead](../../Magic/Spells/speak-with-dead.md), [spirit guardians](../../Magic/Spells/spirit-guardians.md)
+4th | [divination](../../Magic/Spells/divination.md), [guardian of faith](../../Magic/Spells/guardian-of-faith.md)
+5th | [legend lore](../../Magic/Spells/legend-lore.md), [raise dead](../../Magic/Spells/raise-dead.md)
 
 ## Voice of the Oracle
 *1st-level Ancestor Spirit feature*
@@ -30,6 +25,16 @@ You may spend a bonus action to call on your ancestors, augmenting your presence
 ```
 def level1(npc):
     npc.bonusactions.append("***Voice of the Oracle (Recharges on short or long rest).*** You call on your ancestors, augmenting your presence with their wisdom and authority. When you activate this ability, choose Persuasion, Deception or Intimidation. For the next minute, skill checks you make of the chosen kind are made at advantage. During this time, your eyes roll back into your head, and your voice is echoed by a whispering chorus audible out to 10 feet from you.")
+```
+
+## Bonus Cantrip
+*1st-level Ancestor Spirit feature*
+
+You gain the [guidance](../../Magic/Spells/guidance.md) and [message](../../Magic/Spells/message.md) cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.
+
+```
+    npc.pactmagic.cantripsknown.append('guidance')
+    npc.pactmagic.cantripsknown.append('message')
 ```
 
 ## Prescience
