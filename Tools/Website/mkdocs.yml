@@ -33,6 +33,7 @@ nav:
       - Spells: Magic/Spells
       - Tattoos: Magic/Tattoos
       - Undead Grafts: Magic/UndeadGrafts
+      - Wild: Magic/Wild
     - Creatures: Creatures
   - 'About':
     - ... this site: about.md

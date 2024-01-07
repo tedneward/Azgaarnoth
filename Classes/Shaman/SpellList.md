@@ -42,6 +42,7 @@
 * [Protection from Evil and Good](../../Magic/Spells/protection-from-evil-and-good.md)
 * [Speak with Animals](../../Magic/Spells/speak-with-animals.md) *ritual*
 * [Summon Monster](../../Magic/Spells/summon-monster.md)
+* [Wild Cunning](../../Magic/Spells/wild-cunning.md) *ritual*
  
 ## 2nd-Level Spells
 * [Barkskin](../../Magic/Spells/barkskin.md)

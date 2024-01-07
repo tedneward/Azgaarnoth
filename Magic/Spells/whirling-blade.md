@@ -1,5 +1,5 @@
 #### Whirling Blade
-*2nd-level transmutation* (Artificer,Sorcerer,Wizard)
+*2nd-level transmutation* *(brandish)* (Artificer,Sorcerer,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 60-foot line

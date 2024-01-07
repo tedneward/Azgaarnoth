@@ -21,6 +21,7 @@
 * [Conjure Caltrops](../../Magic/Spells/conjure-caltrops.md)
 * [Corruption](../../Magic/Spells/corruption.md)
 * [Create Bonfire](../../Magic/Spells/create-bonfire.md)
+* [Dimensional Pocket](../../Magic/Spells/dimensional-pocket.md)
 * [Earth Stomp](../../Magic/Spells/earth-stomp.md)
 * [Echoing Blow](../../Magic/Spells/echoing-blow.md)
 * [Ego Shock](../../Magic/Spells/ego-shock.md)
@@ -114,6 +115,7 @@
 * [Beluud's Corrosive Caress](../../Magic/Spells/beluuds-corrosive-caress.md)
 * [Blackout](../../Magic/Spells/blackout.md)
 * [Blade of Nightmares](../../Magic/Spells/blade-of-nightmares.md)
+* [Blink Feint](../../Magic/Spells/blink-feint.md) *brandish*
 * [Blood Reading](../../Magic/Spells/blood-reading.md)
 * [Blood Wind](../../Magic/Spells/blood-wind.md)
 * [Blur of Motion](../../Magic/Spells/blur-of-motion.md)
@@ -131,6 +133,7 @@
 * [Create Poison](../../Magic/Spells/create-poison.md) *ritual*
 * [Creeping Crawling Claw](../../Magic/Spells/creeping-crawling-claw.md) *ritual*
 * [Cursed with Undeath](../../Magic/Spells/cursed-with-undeath.md)
+* [Dancing Weapon](../../Magic/Spells/dancing-weapon.md) *brandish*
 * [Dead Man's Tell](../../Magic/Spells/dead-mans-tell.md) *ritual*
 * [Death's Grasp](../../Magic/Spells/deaths-grasp.md)
 * [Deep Breath](../../Magic/Spells/deep-breath.md)
@@ -180,6 +183,9 @@
 * [Push](../../Magic/Spells/push.md)
 * [Pyrokinesis](../../Magic/Spells/pyrokinesis.md)
 * [Rot](../../Magic/Spells/rot.md)
+* [Rune of Cutting](../../Magic/Spells/rune-of-cutting.md) *brandish*
+* [Rune of Force](../../Magic/Spells/rune-of-force.md)
+* [Rune of Puncturing](../../Magic/Spells/rune-of-puncturing.md) *brandish*
 * [Sanguine Wave](../../Magic/Spells/sanguine-wave.md)
 * [Scattered Form](../../Magic/Spells/scattered-form.md)
 * [Sense Emotion](../../Magic/Spells/sense-emotion.md)
@@ -209,6 +215,7 @@
 * [Vertigo Palm](../../Magic/Spells/vertigo-palm.md)
 * [Wandbane](../../Magic/Spells/wandbane.md)
 * [Weightless Pursuit](../../Magic/Spells/weightless-pursuit.md)
+* [Wild Trigger](../../Magic/Spells/wild-trigger.md)
 * [Witch Bolt](../../Magic/Spells/witch-bolt.md)
 * [Your Glorious Sacrifice](../../Magic/Spells/your-glorious-sacrifice.md)
  
@@ -230,6 +237,7 @@
 * [Blaze](../../Magic/Spells/blaze.md)
 * [Blazing Blade Arc](../../Magic/Spells/blazing-blade-arc.md) *brandish*
 * [Blinding Flare](../../Magic/Spells/blinding-flare.md)
+* [Blink Slash](../../Magic/Spells/blink-slash.md) *brandish*
 * [Blood Frenzy](../../Magic/Spells/blood-frenzy.md)
 * [Body Blades](../../Magic/Spells/body-blades.md)
 * [Body Spin](../../Magic/Spells/body-spin.md)
@@ -329,8 +337,9 @@
 * [Vecna's Final Command](../../Magic/Spells/vecnas-final-command.md)
 * [Vocalize](../../Magic/Spells/vocalize.md)
 * [Wave Strike](../../Magic/Spells/wave-strike.md)
-* [Whip of Flame](../../Magic/Spells/whip-of-flame.md)
+* [Whip of Flame](../../Magic/Spells/whip-of-flame.md) *brandish*
 * [Whispers of Hellfire](../../Magic/Spells/whispers-of-hellfire.md)
+* [Wild Boost](../../Magic/Spells/wild-boost.md)
  
 ## 3rd-Level Spells
 * [Abolish Shadows](../../Magic/Spells/abolish-shadows.md)
@@ -399,6 +408,7 @@
 * [Master of the Mind](../../Magic/Spells/master-of-the-mind.md)
 * [Melf's Slumber Arrow](../../Magic/Spells/melfs-slumber-arrow.md)
 * [Mortify](../../Magic/Spells/mortify.md)
+* [Multiple Locality Strike](../../Magic/Spells/multiple-locality-strike.md) *brandish*
 * [Mummify](../../Magic/Spells/mummify.md)
 * [Mystical Awareness](../../Magic/Spells/mystical-awareness.md)
 * [Nightscar](../../Magic/Spells/nightscar.md) *ritual*
@@ -442,8 +452,8 @@
 * [Veiled Blade](../../Magic/Spells/veiled-blade.md)
 * [Veiled Dagger](../../Magic/Spells/veiled-dagger.md)
 * [Wave of Repulsion](../../Magic/Spells/wave-of-repulsion.md)
-* [Whip of Pain](../../Magic/Spells/whip-of-pain.md)
-* [Whip of Shar](../../Magic/Spells/whip-of-shar.md)
+* [Whip of Pain](../../Magic/Spells/whip-of-pain.md) *brandish*
+* [Whip of Shar](../../Magic/Spells/whip-of-shar.md) *brandish*
 * [Wings of Wind](../../Magic/Spells/wings-of-wind.md)
 * [Wyrmling's Vitriol](../../Magic/Spells/wyrmlings-vitriol.md)
  
@@ -552,6 +562,7 @@
 * [Animate Legion](../../Magic/Spells/animate-legion.md)
 * [Arc of Lightning](../../Magic/Spells/arc-of-lightning.md)
 * [Armor of Bones](../../Magic/Spells/armor-of-bones.md)
+* [Aspect of Marilith](../../Magic/Spells/aspect-of-marilith.md) *brandish*
 * [Astaroth's Augmentation](../../Magic/Spells/astaroths-augmentation.md)
 * [Barrier of Retention](../../Magic/Spells/barrier-of-retention.md)
 * [Befoul Water](../../Magic/Spells/befoul-water.md)
@@ -839,6 +850,7 @@
 * [Sphere of Ultimate Destruction](../../Magic/Spells/sphere-of-ultimate-destruction.md)
 * [Succor](../../Magic/Spells/succor.md)
 * [Tempestcone](../../Magic/Spells/tempestcone.md)
+* [Thousand Blade Strike](../../Magic/Spells/thousand-blade-strike.md) *brandish*
 * [True Polymorph](../../Magic/Spells/true-polymorph.md)
 * [Unname](../../Magic/Spells/unname.md)
 * [Vampiric Youthfulness](../../Magic/Spells/vampiric-youthfulness.md)

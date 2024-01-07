@@ -211,7 +211,7 @@
 * [Beast Sense](../../Magic/Spells/beast-sense.md) *ritual*
 * [Binding Wind](../../Magic/Spells/binding-wind.md)
 * [Binding Winds](../../Magic/Spells/binding-winds.md)
-* [Blackrot](../../Magic/Spells/blackrot.md)
+* [Blackrot](../../Magic/Spells/blackrot.md) *brandish*
 * [Blaze](../../Magic/Spells/blaze.md)
 * [Blinding Spittle](../../Magic/Spells/blinding-spittle.md)
 * [Blood Frenzy](../../Magic/Spells/blood-frenzy.md)

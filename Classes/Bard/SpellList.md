@@ -13,6 +13,7 @@
 * [Create Item](../../Magic/Spells/create-item.md)
 * [Dancing Lights](../../Magic/Spells/dancing-lights.md)
 * [Dazzle](../../Magic/Spells/dazzle.md)
+* [Dimensional Pocket](../../Magic/Spells/dimensional-pocket.md)
 * [Disarm](../../Magic/Spells/disarm.md)
 * [Echoing Blow](../../Magic/Spells/echoing-blow.md)
 * [Ego Shock](../../Magic/Spells/ego-shock.md)
@@ -80,6 +81,7 @@
 * [Beastlands Ferocity](../../Magic/Spells/beastlands-ferocity.md)
 * [Beguile](../../Magic/Spells/beguile.md)
 * [Blackout](../../Magic/Spells/blackout.md)
+* [Blink Feint](../../Magic/Spells/blink-feint.md) *brandish*
 * [Blood Wind](../../Magic/Spells/blood-wind.md)
 * [Candle Trick](../../Magic/Spells/candle-trick.md)
 * [Chameleon Stance](../../Magic/Spells/chameleon-stance.md)
@@ -94,6 +96,7 @@
 * [Create Poison](../../Magic/Spells/create-poison.md) *ritual*
 * [Critical Strike](../../Magic/Spells/critical-strike.md)
 * [Cure Wounds](../../Magic/Spells/cure-wounds.md)
+* [Dancing Weapon](../../Magic/Spells/dancing-weapon.md) *brandish*
 * [Dead End](../../Magic/Spells/dead-end.md)
 * [Deflecting Shield](../../Magic/Spells/deflecting-shield.md)
 * [Delude](../../Magic/Spells/delude.md)
@@ -152,6 +155,9 @@
 * [Puppet](../../Magic/Spells/puppet.md)
 * [Ray of Terror](../../Magic/Spells/ray-of-terror.md)
 * [Read Moods](../../Magic/Spells/read-moods.md)
+* [Rune of Cutting](../../Magic/Spells/rune-of-cutting.md) *brandish*
+* [Rune of Force](../../Magic/Spells/rune-of-force.md)
+* [Rune of Puncturing](../../Magic/Spells/rune-of-puncturing.md) *brandish*
 * [Sense Emotion](../../Magic/Spells/sense-emotion.md)
 * [Sensory Caress](../../Magic/Spells/sensory-caress.md) *ritual*
 * [Shadow Missile](../../Magic/Spells/shadow-missile.md)
@@ -193,6 +199,7 @@
 * [Bewitching Glare](../../Magic/Spells/bewitching-glare.md)
 * [Blade of Dark Whispers](../../Magic/Spells/blade-of-dark-whispers.md) *brandish*
 * [Blindness/Deafness](../../Magic/Spells/blindness-deafness.md)
+* [Blink Slash](../../Magic/Spells/blink-slash.md) *brandish*
 * [Body Spin](../../Magic/Spells/body-spin.md)
 * [Bonefiddle](../../Magic/Spells/bonefiddle.md)
 * [Borrowed Knowledge](../../Magic/Spells/borrowed-knowledge.md)
@@ -282,6 +289,7 @@
 * [Suggestion](../../Magic/Spells/suggestion.md)
 * [Tactical Precision](../../Magic/Spells/tactical-precision.md)
 * [Theater of the Blaze](../../Magic/Spells/theater-of-the-blaze.md) *brandish*
+* [Twisting Throw](../../Magic/Spells/twisting-throw.md) *brandish*
 * [Unbalancing Rhythm](../../Magic/Spells/unbalancing-rhythm.md)
 * [Unluck](../../Magic/Spells/unluck.md)
 * [Unpickable Lock](../../Magic/Spells/unpickable-lock.md)
@@ -356,6 +364,7 @@
 * [Miscast Magic](../../Magic/Spells/miscast-magic.md)
 * [Mortify](../../Magic/Spells/mortify.md)
 * [Motivational Speech](../../Magic/Spells/motivational-speech.md)
+* [Multiple Locality Strike](../../Magic/Spells/multiple-locality-strike.md) *brandish*
 * [Nauseating Breath](../../Magic/Spells/nauseating-breath.md)
 * [Nightscar](../../Magic/Spells/nightscar.md) *ritual*
 * [No More Lies](../../Magic/Spells/no-more-lies.md)
@@ -550,6 +559,7 @@
 * [Psyche Onslaught](../../Magic/Spells/psyche-onslaught.md)
 * [Rampart of Dispel Magic](../../Magic/Spells/rampart-of-dispel-magic.md)
 * [Read Object](../../Magic/Spells/read-object.md) *ritual*
+* [Roaring Missile](../../Magic/Spells/roaring-missile.md)
 * [Song of Ice and Fire](../../Magic/Spells/song-of-ice-and-fire.md)
 * [Song of Thunder and Lightning](../../Magic/Spells/song-of-thunder-and-lightning.md)
 * [Superior Resistance](../../Magic/Spells/superior-resistance.md)
@@ -631,8 +641,9 @@
 * [Prismatic Wall](../../Magic/Spells/prismatic-wall.md)
 * [Psychic Scream](../../Magic/Spells/psychic-scream.md)
 * [Resonance](../../Magic/Spells/resonance.md)
-* [Saga of Foretold Doom](../../Magic/Spells/saga-of-foretold-doom.md)
+* [Saga of Foretold Doom](../../Magic/Spells/saga-of-foretold-doom.md) *brandish*
 * [Tamara's Rebirth](../../Magic/Spells/tamaras-rebirth.md)
+* [Thousand Blade Strike](../../Magic/Spells/thousand-blade-strike.md) *brandish*
 * [True Polymorph](../../Magic/Spells/true-polymorph.md)
 * [Wind Wake](../../Magic/Spells/wind-wake.md)
 * [Winterland](../../Magic/Spells/winterland.md)
