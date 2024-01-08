@@ -125,7 +125,7 @@
  
 ## 2nd-Level Spells
 * [Accelerated Movement](../../Magic/Spells/accelerated-movement.md)
-* [Action Trance](../../Magic/Spells/action-trance.md)
+* [Action Trance](../../Magic/Spells/action-trance.md) *psionic*
 * [Aid](../../Magic/Spells/aid.md)
 * [Air Bubble](../../Magic/Spells/air-bubble.md)
 * [Allied Footsteps](../../Magic/Spells/allied-footsteps.md)
@@ -406,12 +406,4 @@
 * [Vengeance of Talos](../../Magic/Spells/vengeance-of-talos.md)
 * [Wind Tunnel](../../Magic/Spells/wind-tunnel.md)
 * [Wrath of Nature](../../Magic/Spells/wrath-of-nature.md)
- 
-## 6th-Level Spells
- 
-## 7th-Level Spells
- 
-## 8th-Level Spells
- 
-## 9th-Level Spells
  

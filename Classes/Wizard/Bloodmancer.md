@@ -1,21 +1,12 @@
 # Arcane Tradition: Bloodmancer
-*"My blood courses with arcane power; your blood will simply spill from your body."*
+Blood mages learn to heighten their spellcraft by uniting the power of blood and arcane might. Blood is life, and wizards that travel this path of magic view the sanguine fluid flowing through their veins--and others' veins--as a wellspring of arcane power.
 
-Blood mages learn to heighten their spellcraft by uniting the power of blood and arcane might. Blood is life, though wizards that travel this path of magic view the sanguine fluid flowing through their veins as a wellspring of arcane power.
-
-Blood mages often forgo tradition, seeing it as a hindrance toward obtaining knowledge rather than a foundation. Since very few understand their motives and lack of regard for proven arcane conventions, many believe they are free spirits.
-
-This is often a misperception. Blood mages may not confine themselves to the laborious task of scribing spells, but will instead focus that energy into a structured dance and exercise. This deliberate movement of the body increases the flow of blood and intertwines its power with the Weave.
+Because of the historical proclivities of bloodmancers, blood magic is a dark secret, and shunned by polite society. Open practitioners of blood magic are openly disliked or hated (at best), jailed, or immediately hunted and killed. Those who practice it must usually do so in secret, and take apprentices for one of two reasons: to pass on the knowledge to the next generation, or to have a ready supply of blood.
 
 ```
 name = 'Bloodmancer'
-description = "***Arcane Tradition: Bloodmancer.*** Blood mages learn to heighten their spellcraft by uniting the power of blood and arcane might. Blood is life, though wizards that travel this path of magic view the sanguine fluid flowing through their veins as a wellspring of arcane power."
+description = "***Arcane Tradition: Bloodmancer.*** Blood mages learn to heighten their spellcraft by uniting the power of blood and arcane might. Blood is life, and wizards that travel this path of magic view the sanguine fluid flowing through their veins--and others' veins--as a wellspring of arcane power."
 ```
-
-## A Tale of Two Traditions
-For a time, in the ancient days, the art of using the blood as power was threatened with extinction. Vigorous prosecution by various arcane and divine organizations had reduced those who practiced its skills down to a mere handful. As a result, instruction suffered; students were forced to improvise and learn on their own, rather than build upon what those before them had studied.
-
-Over time, the traditions of the bloodmancer varied and broke away from the ancient ways, and although the ancient ways eventually reasserted themselves centuries later, by that time already a new tradition had been born, colloquially called the ["neobloodmancer"](./NeoBloodmancer.md). Those that learn the original path are referred more simply as "bloodmancers".
 
 ## Blood Savant
 *2nd-level Bloodmancer feature*
@@ -33,11 +24,32 @@ def level2(npc):
 ## Blood Magic
 *2nd-level Bloodmancer feature*
 
-You invoke blood magic to gain supernatural powers. You can use a bonus action to call upon the power of blood by either inflicting a minor or severe wound upon yourself.
+You invoke blood magic to gain supernatural powers. 
+
+**Blood Pool.** You have a number of blood points determined by your wizard level. You can have more blood points than shown on the table for your level. These points automatically regenerate after a long rest.
+
+Level | Blood Points
+----- | ------------
+2-4   | 2
+5-8   | 3
+9-12  | 4
+13-16 | 5
+17-20 | 6
+
+Additionally, you can use a bonus action to call upon the power of blood by either inflicting a minor or severe wound upon yourself.
 
 **Minor Wound.** Inflicting a minor wound requires the expenditure of 1 hit die. Instead of regaining hit points, you gain 1 blood point.
 
 **Severe Wound.** Inflicting a severe wound requires the expenditure of 2 hit dice. Instead of regaining hit points, you gain 2 blood points.
+
+Willing creatures can offer up their blood, so long as they are within 5 feet of you when you perform the bonus action. Charmed creatures will always be willing, and the expenditure of hit dice does not count as "damage" or an "attack" for purposes of ending the charmed effect.
+
+```
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Blood Magic.*** You call upon the power of blood by either inflicting a minor (expend 1 hit die, gain {'1 blood point' if npc.levels('Wizard') < 14 else '2 blood points'}) or severe wound (expend 2 hit dice, gain {'2' if npc.levels('Wizard') < 14 else '4'} blood points) upon yourself or upon a willing creature within 5 feet of you. Charmed creatures will always be willing, and the expenditure of hit dice does not count as damage or an attack for purposes of ending the charmed effect.") )
+```
+
+## Blood Effect
+*2nd-level Bloodmancer feature*
 
 While you possess one or more blood points, you gain the following features:
 
@@ -45,20 +57,27 @@ While you possess one or more blood points, you gain the following features:
 
 * **Lifeblood.** You gain advantage on your first death saving throw of the day.
 
-Furthermore, you can expend blood points to perform the following blood rituals:
+```
+    def assignac(npc):
+        npc.armorclass['Blood Magic'] = 13 + npc.CONbonus()
+    npc.defer(lambda npc: assignac(npc) )
+    npc.defer(lambda npc: npc.traits.append(f"***Blood Magic: Armor of Vitality.*** While you possess one or more blood points, and you do not wear armor, your AC is {13 + npc.CONbonus()}.") )
+    npc.defer(lambda npc: npc.traits.append(f"***Blood Magic: Lifeblood.*** While you possess one or more blood points, you gain advantage on your death saving throws.") )
+```
+
+Furthermore, as a bonus action you can expend blood points to perform the following blood effects:
 
 * **Blood Agony.** When you hit a creature with a melee or spell attack, you can expend 1 or more blood points to deal psychic damage to the target, in addition to the damage of the attack. The extra damage is 1d6 for 1 blood point, plus 1d6 for each additional blood point, to a maximum of 5d6.
     At 14th level, increase the damage die of Blood Agony to a d8.
 
-* **Blood Sense.** The sound of blood pumping in the veins of the living registers upon your senses like a soothing rhythm upon your being. Expend 1 blood point as an action to focus your awareness upon the immediate area to reveal the presence of living creatures. Until the end of your next turn, you know the location of any beast, giant, or humanoid, within 60 feet that is not behind total cover. You know the type of any being whose presence you sense, but not the identity of the creature.
+* **Blood Sense.** The sound of blood pumping in the veins of the living registers upon your senses like a soothing rhythm upon your being. Expend 1 blood point as an action to focus your awareness upon the immediate area to reveal the presence of living creatures. Until the end of your next turn, you know the location of any beast, giant, or humanoid, within 60 feet that is not behind total cover. You know the type (humanoid, fey, beast, etc) of any being whose presence you sense, but not the identity of the creature. Constructs and undead will not register on your Blood Sense.
 
-* **Fortitude of Blood.** Expend 1 blood point as a bonus action to gain a bonus to Constitution saving throws, which lasts for 1 minute, equal to your Intelligence modifier (minimum of +1).
-    You can invoke this ritual twice. Afterward, you cannot perform it again until you finish a short or long rest.
-
-After a long rest, unexpended blood points vanish.
+* **Fortitude of Blood.** Expend 1 blood point as a bonus action to gain a bonus to Constitution saving throws, which lasts for 1 minute, equal to your Intelligence modifier (minimum of +1). You can invoke this ritual twice. Afterward, you cannot perform it again until you finish a short or long rest.
 
 ```
-    npc.defer(lambda npc: npc.bonusactions.append(f"***Blood Magic.*** You call upon the power of blood by either inflicting a minor (expend 1 hit die, gain {'1 blood point' if npc.levels('Wizard') < 14 else '2 blood points'}) or severe wound (expend 2 hit dice, gain {'2' if npc.levels('Wizard') < 14 else '4'} blood points) upon yourself. While you possess one or more blood points, you gain the following features: **Armor of Vitality.** When you do not wear armor, your AC is {13 + npc.CONbonus()}. **Lifeblood.** You gain advantage on your first death saving throw of the day. **Blood Agony.** When you hit a creature with a melee or spell attack, you can expend 1 or more blood points to deal psychic damage to the target, in addition to the damage of the attack. The extra damage is 1{'d6' if npc.levels('Wizard') < 14 else 'd8'} for 1 blood point, plus 1{'d6' if npc.levels('Wizard') < 14 else 'd8'} for each additional blood point, to a maximum of 5{'d6' if npc.levels('Wizard') < 14 else 'd8'}. **Blood Sense.** Expend 1 blood point as an action to focus your awareness upon the immediate area to reveal the presence of living creatures. Until the end of your next turn, you know the location of any beast, giant, or humanoid, within 60 feet that is not behind total cover. You know the type of any being whose presence you sense, but not the identity of the creature. **Fortitude of Blood.** Expend 1 blood point as a bonus action to gain a +{npc.INTbonus()} bonus to Constitution saving throws, which lasts for 1 minute. You can invoke this ritual twice. Afterward, you cannot perform it again until you finish a short or long rest.") )
+    npc.defer(lambda npc: npc.bonusactions.append(f"***Blood Magic: Blood Agony.*** When you hit a creature with a melee or spell attack, you expend 1 or more blood points to deal psychic damage to the target, in addition to the damage of the attack. The extra damage is 1{'d6' if npc.levels('Wizard') < 14 else 'd8'} for 1 blood point, plus 1{'d6' if npc.levels('Wizard') < 14 else 'd8'} for each additional blood point, to a maximum of 5{'d6' if npc.levels('Wizard') < 14 else 'd8'}.") )
+    npc.bonusactions.append("***Blood Magic: Blood Sense.*** Expend 1 blood point as an action to focus your awareness upon the immediate area to reveal the presence of living creatures. Until the end of your next turn, you know the location of any beast, giant, or humanoid, within 60 feet that is not behind total cover. You know the type of any being whose presence you sense, but not the identity of the creature.")
+    npc.defer(lambda npc: npc.bonusactions.append("***Blood Magic: Fortitude of Blood (2/Recharges on short or long rest).*** Expend 1 blood point as a bonus action to gain a +{npc.INTbonus()} bonus to Constitution saving throws, which lasts for 1 minute. You can invoke this ritual twice. Afterward, you cannot perform it again until you finish a short or long rest.") )
 ```
 
 ## Burn the Blood
@@ -78,14 +97,14 @@ def level6(npc):
 
 You learn to manipulate the flow blood, even if it is not your own, to either stem death or empower your blood magic.
 
-* **Blood Siphon.** When you reduce a creature to 0 hit points with a melee or spell attack, and the creature dies, you gain 1 blood point.
+* **Blood Siphon.** When you reduce a creature to 0 hit points with a melee or spell attack, you gain 1 blood point. Similarly, if a creature within 10 feet of you is reduced to 0 hit points, you gain 1 blood point.
 
 * **Mark of Blood.** When an attack scores a critical hit against a living creature within 10 feet, you can spend 1 blood point as a reaction. Until the end of your next turn, you gain advantage on attack rolls against the creature.
 
 * **Wellspring of Life.** When you make a death saving throw and roll a 19-20 on the d20, you regain 1d6 hit points instead of normal. At 14th level, you regain 1d6 hits points when you instead roll a 18-20 on a death saving throw.
 
 ```
-    npc.traits.append("***Blood Siphon.*** When you reduce a creature to 0 hit points with a melee or spell attack, and the creature dies, you gain 1 blood point.")
+    npc.traits.append("***Blood Siphon.*** When you reduce a creature to 0 hit points with a melee or spell attack, you gain 1 blood point. Similarly, if a creature within 10 feet of you is reduced to 0 hit points, you gain 1 blood point.")
     
     npc.reactions.append("***Mark of Blood.*** When an attack scores a critical hit against a living creature within 10 feet, you spend 1 blood point. Until the end of your next turn, you gain advantage on attack rolls against the creature.")
     

@@ -68,7 +68,7 @@
  
 ## 1st-Level Spells
 * [Acrid Delight](../../Magic/Spells/acrid-delight.md) *ritual*
-* [Alienated Mind](../../Magic/Spells/alienated-mind.md)
+* [Alienated Mind](../../Magic/Spells/alienated-mind.md) *psionic*
 * [Amplify Sound](../../Magic/Spells/amplify-sound.md)
 * [Angry Ache](../../Magic/Spells/angry-ache.md)
 * [Animal Friendship](../../Magic/Spells/animal-friendship.md)
@@ -185,6 +185,7 @@
 * [Vertigo Palm](../../Magic/Spells/vertigo-palm.md)
  
 ## 2nd-Level Spells
+* [Aggressive Surge](../../Magic/Spells/aggressive-surge.md)
 * [Aid](../../Magic/Spells/aid.md)
 * [Alter Time](../../Magic/Spells/alter-time.md)
 * [Analyze Blood](../../Magic/Spells/analyze-blood.md) *ritual*
@@ -525,7 +526,7 @@
 * [Vehement Inquiry](../../Magic/Spells/vehement-inquiry.md) *ritual*
  
 ## 6th-Level Spells
-* [Blood Fever](../../Magic/Spells/blood-fever.md)
+* [Blood Fever](../../Magic/Spells/blood-fever.md) *blood*
 * [Borrowed Time](../../Magic/Spells/borrowed-time.md)
 * [Bound into Obedience](../../Magic/Spells/bound-into-obedience.md)
 * [Bridge of Force](../../Magic/Spells/bridge-of-force.md)
@@ -623,7 +624,7 @@
 * [Superior Invisibility](../../Magic/Spells/superior-invisibility.md)
  
 ## 9th-Level Spells
-* [Amnesia](../../Magic/Spells/amnesia.md)
+* [Amnesia](../../Magic/Spells/amnesia.md) *psionic*
 * [Burst of Glacial Wrath](../../Magic/Spells/burst-of-glacial-wrath.md)
 * [Calm the Skies](../../Magic/Spells/calm-the-skies.md)
 * [Foresight](../../Magic/Spells/foresight.md)

@@ -7,11 +7,11 @@ You have delved into the forbidden secrets of blood magic, learning to fuel the 
 
 You gain the following benefits:
 
-* Choose one class that grants you spell slots, and choose a number of spells on that class's spell list equal to 1 + half your proficiency bonus. When you cast any of these spells as a spell of that class, you may choose to cast them as Blood spells. As your proficiency bonus increases, you can choose more spells. You also choose one of the following cantrips to learn as the chosen class when you gain this feat: blood boil, hemokinesis, or gore spike. Whenever you reach a level that grants the Ability Score Improvement feature, you can change one of these choices.
-
-* You can use the Blood Magic feature (below). Your limit for the number of times you can gain blood points is equal to half your proficiency bonus. If you have levels in the sanguinist class, you increase your Blood Magic Uses by half your proficiency bonus instead.
+* Choose one class that grants you spell slots, and choose a number of spells on that class's spell list equal to 1 + half your proficiency bonus. When you cast any of these spells as a spell of that class, you may choose to cast them as Blood spells. As your proficiency bonus increases, you can choose more spells. You also choose one of the following cantrips to learn as the chosen class when you gain this feat: [blood boil](../Magic/Spells/blood-boil.md), [hemokinesis](../Magic/Spells/hemokinesis.md), or [gore spike](../Magic/Spells/gore-spike.md). Whenever you reach a level that grants the Ability Score Improvement feature, you can change one of these choices.
 
 * When a creature with blood fails a saving throw against a Blood spell that you cast or takes damage from one, it suffers disadvantage on all ability checks made with one ability score of your choice until the end of your next turn. Alternatively, you can reduce its speed by 10 feet for the same duration instead.
+
+* You can use the Blood Magic feature (below). Your limit for the number of times you can gain blood points is equal to half your proficiency bonus. If you have levels in the sanguinist class, you increase your Blood Magic Uses by half your proficiency bonus instead.
 
 ***Blood Magic.*** When a creature with blood fails a saving throw against a *blood*-tagged spell that you cast, or takes damage from one, you can choose to gain 1 blood point by extracting energy from the target's blood. You can also gain 1 blood point whenever a creature with blood is reduced to O hit points within 60 feet of you. You can only have up to half your proficiency bonus (minimum 1) blood points at any time. When you finish a short or long rest, you lose any unexpended blood points.
 
@@ -25,12 +25,12 @@ description = "***Feat: Blood Magic.*** You have delved into the forbidden secre
 def prereq(npc): return len(npc.spellcasting.keys()) > 0
 def apply(npc):
     spellcastingclasses = []
-    if len(npc.spellcasting.keys) == 1:
-        npc.bloodspellcasting = npc.spellcasting[npc.spellcasting.keys()[0]]
+    for classname in npc.spellcasting:
+        spellcastingclasses.append(classname)
+    if len(spellcastingclasses) == 1:
+        npc.bloodspellcasting = npc.spellcasting[spellcastingclasses[0]]
     else:
-        for (classname, classspellcasting) in npc.spellcasting:
-            spellcasting.classes.append(classname)
-        npc.bloodspellcasting = choose("Choose a spell)
+        npc.bloodspellcasting = npc.spellcasting[choose("Choose a spellcasting class: ", spellcastingclasses)]
 
     cantrip = choose("Choose one:", ['blood boil', 'hemokinesis', 'gore spike'])
     npc.bloodspellcasting.cantripsknown.append(cantrip)

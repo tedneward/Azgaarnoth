@@ -135,7 +135,7 @@
 * [Ironguts](../../Magic/Spells/ironguts.md)
 * [Know Faction](../../Magic/Spells/know-faction.md)
 * [Know Protection](../../Magic/Spells/know-protection.md)
-* [Laceration](../../Magic/Spells/laceration.md)
+* [Laceration](../../Magic/Spells/laceration.md) *blood, brandish*
 * [Lash of Cruel Inspiration](../../Magic/Spells/lash-of-cruel-inspiration.md)
 * [Lesser Corona](../../Magic/Spells/lesser-corona.md)
 * [Lightning Orb](../../Magic/Spells/lightning-orb.md)
@@ -404,7 +404,7 @@
 * [Whip of Shar](../../Magic/Spells/whip-of-shar.md) *brandish*
  
 ## 4th-Level Spells
-* [Agonize](../../Magic/Spells/agonize.md)
+* [Agonize](../../Magic/Spells/agonize.md) *blood*
 * [Anyspell](../../Magic/Spells/anyspell.md)
 * [Aura of Life](../../Magic/Spells/aura-of-life.md)
 * [Aura of Purity](../../Magic/Spells/aura-of-purity.md)
@@ -587,7 +587,7 @@
 * [Azuth's Spell Shield](../../Magic/Spells/azuths-spell-shield.md)
 * [Blade Barrier](../../Magic/Spells/blade-barrier.md)
 * [Blizzard](../../Magic/Spells/blizzard.md)
-* [Blood Fever](../../Magic/Spells/blood-fever.md)
+* [Blood Fever](../../Magic/Spells/blood-fever.md) *blood*
 * [Bolt of Glory](../../Magic/Spells/bolt-of-glory.md)
 * [Borrowed Time](../../Magic/Spells/borrowed-time.md)
 * [Brightfield](../../Magic/Spells/brightfield.md) *ritual*
@@ -614,7 +614,7 @@
 * [Heroes' Feast](../../Magic/Spells/heroes-feast.md)
 * [Hide the Path](../../Magic/Spells/hide-the-path.md)
 * [Hoar's Revenance](../../Magic/Spells/hoars-revenance.md)
-* [Investiture of Blood](../../Magic/Spells/investiture-of-blood.md)
+* [Investiture of Blood](../../Magic/Spells/investiture-of-blood.md) *blood*
 * [Lingering Vitality](../../Magic/Spells/lingering-vitality.md)
 * [Mantle of Malar](../../Magic/Spells/mantle-of-malar.md)
 * [Martyr's Cry](../../Magic/Spells/martyrs-cry.md)
@@ -669,7 +669,7 @@
 * [Ice Cave](../../Magic/Spells/ice-cave.md)
 * [Instill Vulnerability](../../Magic/Spells/instill-vulnerability.md)
 * [Kelemvor's Irradiating Beam](../../Magic/Spells/kelemvors-irradiating-beam.md)
-* [Malady](../../Magic/Spells/malady.md)
+* [Malady](../../Magic/Spells/malady.md) *blood, brandish*
 * [Mantle of the Slime Lord](../../Magic/Spells/mantle-of-the-slime-lord.md)
 * [Mark of the Unfaithful](../../Magic/Spells/mark-of-the-unfaithful.md) *ritual*
 * [Plane Shift](../../Magic/Spells/plane-shift.md)

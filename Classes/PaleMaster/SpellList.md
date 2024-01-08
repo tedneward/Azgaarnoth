@@ -64,7 +64,7 @@
 * [Inflict Wounds](../../Magic/Spells/inflict-wounds.md)
 * [Inspire Dread](../../Magic/Spells/inspire-dread.md)
 * [Interpret Bone](../../Magic/Spells/interpret-bone.md)
-* [Laceration](../../Magic/Spells/laceration.md)
+* [Laceration](../../Magic/Spells/laceration.md) *blood, brandish*
 * [Laeral's Cutting Hand](../../Magic/Spells/laerals-cutting-hand.md)
 * [Larloch's Minor Drain](../../Magic/Spells/larlochs-minor-drain.md)
 * [Misery](../../Magic/Spells/misery.md)
@@ -104,7 +104,7 @@
 * [Unseat Hand](../../Magic/Spells/unseat-hand.md) *ritual*
  
 ## 3rd-Level Spells
-* [Absorb Mind](../../Magic/Spells/absorb-mind.md)
+* [Absorb Mind](../../Magic/Spells/absorb-mind.md) *psionic*
 * [Animate Dead](../../Magic/Spells/animate-dead.md)
 * [Bestow Curse](../../Magic/Spells/bestow-curse.md)
 * [Counterspell](../../Magic/Spells/counterspell.md)
@@ -196,7 +196,7 @@
  
 ## 7th-Level Spells
 * [Arrow of Bone](../../Magic/Spells/arrow-of-bone.md)
-* [Avasculate](../../Magic/Spells/avasculate.md)
+* [Avasculate](../../Magic/Spells/avasculate.md) *blood*
 * [Create Revenant](../../Magic/Spells/create-revenant.md)
 * [Etherealness](../../Magic/Spells/etherealness.md)
 * [Finger of Death](../../Magic/Spells/finger-of-death.md)
@@ -209,14 +209,14 @@
 * [Abi-Dalzim's Horrid Wilting](../../Magic/Spells/abi-dalzims-horrid-wilting.md)
 * [Armament of Irritants](../../Magic/Spells/armament-of-irritants.md)
 * [Ascendancy of Vecna](../../Magic/Spells/ascendancy-of-vecna.md)
-* [Avascular Mass](../../Magic/Spells/avascular-mass.md)
+* [Avascular Mass](../../Magic/Spells/avascular-mass.md) *blood*
 * [Bodak's Glare](../../Magic/Spells/bodaks-glare.md)
 * [Chalice of the Night](../../Magic/Spells/chalice-of-the-night.md)
 * [Clone](../../Magic/Spells/clone.md)
 * [Feeblemind](../../Magic/Spells/feeblemind.md)
 * [Grimlore's Crippling Incursion](../../Magic/Spells/grimlores-crippling-incursion.md)
 * [Haunting Hour](../../Magic/Spells/haunting-hour.md)
-* [Heartbreak](../../Magic/Spells/heartbreak.md)
+* [Heartbreak](../../Magic/Spells/heartbreak.md) *blood*
 * [Mind Blank](../../Magic/Spells/mind-blank.md)
 * [Power Word Stun](../../Magic/Spells/power-word-stun.md)
 * [Scornful Mantle of the Undaunted](../../Magic/Spells/scornful-mantle-of-the-undaunted.md)

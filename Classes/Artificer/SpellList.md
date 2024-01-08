@@ -79,7 +79,7 @@
 ## 1st-Level Spells
 * [Ablative Armor](../../Magic/Spells/ablative-armor.md)
 * [Absorb Elements](../../Magic/Spells/absorb-elements.md)
-* [Active Momentum](../../Magic/Spells/active-momentum.md)
+* [Active Momentum](../../Magic/Spells/active-momentum.md) *psionic*
 * [Air Jaunt](../../Magic/Spells/air-jaunt.md)
 * [Alarm](../../Magic/Spells/alarm.md) *ritual*
 * [Appraising Touch](../../Magic/Spells/appraising-touch.md)
@@ -174,7 +174,7 @@
  
 ## 2nd-Level Spells
 * [Accelerated Movement](../../Magic/Spells/accelerated-movement.md)
-* [Action Trance](../../Magic/Spells/action-trance.md)
+* [Action Trance](../../Magic/Spells/action-trance.md) *psionic*
 * [Aid](../../Magic/Spells/aid.md)
 * [Air Bubble](../../Magic/Spells/air-bubble.md)
 * [Align Weapon](../../Magic/Spells/align-weapon.md) *ritual*
@@ -353,7 +353,7 @@
 * [Whip of Shar](../../Magic/Spells/whip-of-shar.md) *brandish*
  
 ## 4th-Level Spells
-* [Agonize](../../Magic/Spells/agonize.md)
+* [Agonize](../../Magic/Spells/agonize.md) *blood*
 * [Arcane Eye](../../Magic/Spells/arcane-eye.md)
 * [Bertin's Ball Lightning](../../Magic/Spells/bertins-ball-lightning.md)
 * [Blade of Flickering Shadows](../../Magic/Spells/blade-of-flickering-shadows.md)
@@ -454,12 +454,4 @@
 * [Water to Poison](../../Magic/Spells/water-to-poison.md)
 * [Weaken Ability](../../Magic/Spells/weaken-ability.md)
 * [Whip of Woe](../../Magic/Spells/whip-of-woe.md) *brandish*
- 
-## 6th-Level Spells
- 
-## 7th-Level Spells
- 
-## 8th-Level Spells
- 
-## 9th-Level Spells
  
