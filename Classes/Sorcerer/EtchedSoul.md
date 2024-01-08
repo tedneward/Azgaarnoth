@@ -27,13 +27,21 @@ Sorcerer Level  | Spells
 17th | power word heal, power word death
 
 ## Forbidden Speech
-Starting at first level, you can use an action to speak fragments of the word in your soul out loud, overwhelming listeners. Each time you do so, you take 1d12 psychic damage, and each creature within 15 feet of you takes 3d6 psychic damage.
+*1st-level Etched Soul feature*
+
+You can use an action to speak fragments of the word in your soul out loud, overwhelming listeners. Each time you do so, you take 1d12 psychic damage, and each creature within 15 feet of you takes 3d6 psychic damage.
 
 ## Evoke the Name
-Starting at 6th level, you understand better the glyphs that burn in your heart. Odd patterns and words float around everything in existence, but only you can attempt to understand them. You can spend a sorcery point to scrutinize a creature and learn its true name if it fails a Charisma saving throw against your spell save DC. Knowing a creature's true name (unpronouncable in most tongues) allows you to cast spells on it more easily, and that creature has disadvantage on all saving throws against your magic. You may only ever attempt to learn any given creature's true name in this way once.
+*6th-level Etched Soul feature*
+
+You understand better the glyphs that burn in your heart. Odd patterns and words float around everything in existence, but only you can attempt to understand them. You can spend a sorcery point to scrutinize a creature and learn its true name if it fails a Charisma saving throw against your spell save DC. Knowing a creature's true name (unpronouncable in most tongues) allows you to cast spells on it more easily, and that creature has disadvantage on all saving throws against your magic. You may only ever attempt to learn any given creature's true name in this way once.
 
 ## Babbling Insight
-Starting at 14h level, you can read the words in your soul, and they speak to you of things yet to come. You learn contact other plane and can cast it for a single sorcery point with a casting time of 1 action.
+*14th-level Etched Soul feature*
+
+You can read the words in your soul, and they speak to you of things yet to come. You learn contact other plane and can cast it for a single sorcery point with a casting time of 1 action.
 
 ## Words of Power
-At 18th level, your mastery of the word supercedes all lesser magical foibles. As long as you can complete the vocal component of a spell, you can ignore any other components listed.
+*18th-level Etched Soul feature*
+
+Your mastery of the word supercedes all lesser magical foibles. As long as you can complete the vocal component of a spell, you can ignore any other components listed.

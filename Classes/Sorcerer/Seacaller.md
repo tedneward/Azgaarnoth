@@ -39,5 +39,3 @@ Starting at 18th level, your being is altered by the power of the sea. You gain 
 * A critical hit against you becomes a normal hit.
 
 * You have resistance to bludgeoning, piercing, and slashing damage.
-
-*Source: [Unearthed Arcana: Sorcerer](https://dnd.wizards.com/articles/unearthed-arcana/sorcerer)*
