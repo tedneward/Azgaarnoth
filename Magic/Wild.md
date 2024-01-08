@@ -47,12 +47,12 @@ d100 | Effect
 67-68 | You are frightened by the nearest creature until the end of your next turn.
 69-70 | Each creature within 30 feet of you becomes [invisible](../Conditions/Invisible.md) for the next minute. The invisibility ends on a creature when it attacks or casts a spell.
 71-72 | You gain resistance to all damage for the next minute.
-73-74 | A random creature within 60 feet of you becomes [poisoned](../Conditions/Poisoned.md#arcanic-poison) for 1d4 hours.
+73-74 | The caster gets the hiccups, which last for 1d6 minutes. So long as the hiccups remain, the caster cannot cast any spell with a verbal component.
 75-76 | You glow with bright light in a 30-foot radius for the next minute. Any creature that ends its turn within 5 feet of you is blinded until the end of its next turn.
 77-78 | You cast [Polymorph](Spells/polymorph.md) on yourself. If you fail the saving throw, you turn into a sheep for the spell's duration.
 79-80 | 2d8 gp fly out of the casters hands. 2d8 of them hit (if the second roll exceeds the first, they all hit), dealing 1d4-1 bludgeoning damage each.
 81-82 | You can take one additional action immediately.
-83-84 | Each creature within 30 feet of you takes 1d10 necrotic damage and is [necrotized](../Conditions/Necrotized.md). You regain hit points equal to the sum of the necrotic damage dealt.
+83-84 | The spell fails to take effect... until 1d4 rounds later.
 85-86 | You cast [Mirror Image](Spells/mirror-image.md).
 87-88 | You cast [Fly](Spells/fly.md) on a random creature within 60 feet of you.
 89-90 | You become [invisible](../Conditions/Invisible.md) for the next minute. During that time, other creatures can't hear you. The invisibility ends if you attack or cast a spell.
@@ -80,42 +80,42 @@ d100  | Effect
 23-24 | A sinkhole, 10 feet deep and 20 feet in diameter, appears at a random location within the zone. Creatures caught within the radius must make an immediate Dexterity/DC20 save. On a failed save, they fall into the sinkhole, taking falling damage if appropriate. On a successful save, creatures move to the nearest location that is not within the sinkhole's radius.
 25-26 | Fog seeps up from the ground, obscuring everything within the zone.
 27-28 | A modron chosen and controlled by the DM appears in an unoccupied space inside the zone, then disappears 1 minute later.
-29-30 |
-31-32 |
-33-34 |
-35-36 |
-37-38 |
-39-40 |
-41-42 |
-43-44 |
-45-46 |
-47-48 |
-49-50 |
-51-52 |
-53-54 |
-55-56 |
-57-58 |
-59-60 |
-61-62 |
-63-64 |
-65-66 |
-67-68 |
-69-70 |
-71-72 |
-73-74 |
-75-76 |
-77-78 |
-79-80 |
-81-82 |
-83-84 |
-85-86 |
-87-88 |
-89-90 |
-91-92 |
-93-94 |
-95-96 |
-97-98 |
-99-00 |
+29-30 | A random creature inside the zone becomes [poisoned](../Conditions/Poisoned.md#arcanic-poison) for 1d4 hours.
+31-32 | Each creature within within the wild magic zone takes 1d10 necrotic damage and is [necrotized](../Conditions/Necrotized.md). One creature, chosen at random, regains hit points equal to the sum of the necrotic damage dealt.
+33-34 | The shadow of each creature within the zone detaches from them and becomes a [shadow](../Creatures/Shadow.md). Each shadow immediately attacks the creature it detached from. If the shadow is defeated, the creature's shadow returns; if not, the creature's body fades into mist and the shadow flees.
+35-36 | Each creature in the zone is charged with lightning. The first time any creature touches another, regardless of intent, the recipient takes 1d6 lightning damage. Melee weapon attacks that result in a hit discharge the lightning; misses do not. Ranged weapon attacks do not discharge. Being touched does not trigger this discharge. If a creature has not discharged the lightning within 3 rounds, it discharges against themselves, and inflicts 2d6 lightning damage.
+37-38 | A [storm of elemental fury](Spells/storm-of-elemental-fury.md) erupts, centered on the (rough) center of the wild magic zone.
+39-40 | [Silence](Spells/silence.md) falls on the entire zone. All creatures are treated as if they are [deafened](../Conditions/Deafened.md). The effect lasts for 1d10 rounds. No spells with a verbal component may be cast from within the zone, and no speech of any kind may be uttered. Thieves' cant, with its gestures, can be used to communicate basic concepts if both speaker and recipient are proficient in it. Telepathy functions normally.
+41-42 | An [antimagic field](Spells/antimagic-field.md) fills the zone. It lasts for 1d6 rounds, and during this time, even as the antimagic field affects the creatures within the zone, a new Area Wild Surge Effect takes place each round, in conjunction with this one. If this effect is rolled while this effect is still in place, the two cancel each other out.
+43-44 | Aa uncontrolled [sphere of annihilation](Items/sphere-of-annihiliation.md) appears in an unoccupied space in the center of the wild magic zone.
+45-46 | All creatures within the zone are immune to being intoxicated by alcohol for the next 5d6 days. They are all each aware of this effect, though they do not know how or why.
+47-48 | If any creature within the wild magic zone takes acid, cold, fire, lightning, or thunder damage within the next minute, they gain resistance to that type of damage for 1 hour.
+49-50 | 1d6 [flumphs](../Creatures/Flumph.md) controlled by the DM appear in unoccupied spaces within the wild magic zone. They vanish after 1 minute.
+51-52 | Strong winds swirl throughout the entirety of the wild magic zone for 1d10 minutes. During this time, no ranged weapon attack will hit its target, although ranged spell attacks are made at disadvantage.
+53-54 | Up to 6 corpses within the zone rise as zombies within the zone, and are hostile to all non-undead creatures.
+55-56 | All water within the wild magic zone evaporates instantly. Any water-based creature (such as a water elemental) immediately take 2d6 damage.
+57-58 | All creatures within the wild magic zone have [haste](Spells/haste.md) cast on them for 3 rounds. When it wears off, each creature suffers 2 levels of [exhaustion](../Conditions/Exhaustion.md) for 1d6 hours.
+59-60 | A chorus of ethereal voices begin to make compliments and offer criticism on everything that is happening inside the wild magic zone. For example, they may congratulate the caster on casting the spell and compliment the quality of both the casting and the spell itself. Anytime anyone uses magic within an hour of the casting of the original spell, they are met with the murmured approval and commentary of the voices.
+61-62 | Each creature in the wild magic zone is launched ten feet into the air, hangs there for a moment (permitting a reaction), then falls back down, taking falling damage.
+63-64 | 1d8 medium sized purple tentacles rise from the ground. They are semi-sentient and not aligned to caster nor foe. They attempt to grapple anything within range (Athletics/DC 14).
+65-66 | All creatures change places, randomly teleporting to a different place formerly occupied by another creature.
+67-68 | A [fog cloud](Spells/fog-cloud.md) descends to fill the wild magic zone.
+69-70 | 
+71-72 | 
+73-74 | 
+75-76 | 
+77-78 | 
+79-80 | 
+81-82 | 
+83-84 | 
+85-86 | 
+87-88 | 
+89-90 | 
+91-92 | 
+93-94 | 
+95-96 | 
+97-98 | 
+99-00 | 
 
 If a surge effect replicates a spell which normally requires concentration, it doesn't require concentration in this case; the spell lasts for its full duration. Some effects call for a saving throw; the saving throw DC is equal to your spell save DC (if the surge was triggered by a spell) or the item save DC (if the surge was triggered by a magic item).
 
@@ -135,7 +135,7 @@ These zones are often unsettling to practitioners of arcane magic; Bards, Sorcer
 
 d100	Entry
 1	A caster teleports 25 ft. to the left of their location. A trail of fire appears from their starting position to their teleported position.
-2	The spell fails to take effect... until 1d4 rounds later.
+2	
 4	All the players randomly change bodies for 1d4 rounds.
 6	Feathers - The caster hair follicle's sprout feathers of one type and in the next round, these fall off, or fly away and a round after, they sprout different feathers. This effect lasts a number of turns = d6+spell level . So the caster was casting Chain Lightning a 6th level spell. 6d6 turns.
 7	A genie offers the caster a Wish, but refuses to grant it and disappears.
@@ -148,8 +148,7 @@ d100	Entry
 14	A force explodes out in a ring around the caster, knocking everybody back 5 feet (Fort save DC14, range 25ft)
 15	The caster begins to glow. (As Light spell, no save)
 16	The caster loses control of their bladder. Constitution save DC18 or they urinate on the spot.
-17	The user is driven mad by the spell, causing them to go into a barbarian rage for one minute.
-18	Your shadow detaches from you and becomes a shadow (the creature).
+18	
 19	You flash with golden light that seems to hang in the air around you. Everyone caught in this light (20 foot radius) receives double healing and cannot lie for the next 10 turns (one minute outside combat).
 20	The world seems to dim and plants seem to wilt around you. Everybody in a 20 foot radius takes double damage from necrotic damage and take one point of exhaustion on any critical failures for the next 10 turns (one minute outside combat).
 21	You feel very attractive... All unsecured objects and creatures in a 100 ft radius moves towards you by 5 feet.
@@ -159,14 +158,14 @@ d100	Entry
 25	A small songbird pops into existence in mid-flight 10 feet above the caster. Roll a d20. On a 1, the bird poops and it lands on the caster. On a 20, the bird poops and it lands on the target of the spell.
 26	The caster develops severe claustrophobia for 1d4 hours.
 27	
-28	The caster gets the hiccups, which last for 1d6 minutes.
+28	
 29	Any non-magical pouches or containers on the caster’s person tear open and spill their contents onto the ground.
 30	Around the caster spawns 10 frogs, all of them are passive.
 31	Around the caster spawns 10 rats, all of them hostile.
 32	A lit birthday candle appears before the caster. In front of the candle is a note. The note reads “blow the candle out to make a wish.
 33	A tiny elemental of the caster’s choice appears as a familiar.
 34	
-35	The next person the caster physically touches takes 1d6 lightning damage.
+35	
 36	The caster grows an extra finger on one of their hands. A remove curse spell or a successful DC20 medicine check can remove the finger.
 37	The spell is unexpectedly loud and everyone within 10 feet of you (including you) takes 1d6 thunder damage and the spell can be heard 600 feet away.
 38	The casters eyes catch on fire and their hands are covered in ice crystals. Any unarmed attack deals an additional 1d4 cold damage for 1d4 rounds.
@@ -183,7 +182,7 @@ d100	Entry
 49	For the next 24 hours, the caster’s nose grows outwards by 1 inch every time they knowingly tell a lie. The nose returns to it’s previous size once the duration is up.
 50	For the next hour, the caster bursts into a fit of evil, maniacal laughter every time they open their mouth. Each time they do so, they must make a DC 13 Wisdom saving throw or be compelled to pull a minor prank of some kind. The nature of the prank is at the player’s discretion, so long as it is suitably mischevious and harmless.
 51	Every writing in a 10-foot radius of the caster immediately transforms into incredibly petty criticism of the caster. If the caster reads any of it, they must make a DC 10 Wisdom saving throw or believe whatever minor putdown the writing describes.
-52	A chorus of ethereal voices congratulate the caster on casting the spell and compliment the quality of both the casting and the spell itself. Anytime the caster uses magic within an hour of the casting of the original spell, they are met with the murmured approval and commentary of the voices.
+52	
 53	You immediately grow a bunch of body hair that falls off after a day.
 54	Instead of the fireball you were expecting, you begin summoning countless cabbages, pouring out in a cone in front of you.
 55	Instead of doing any damage the full points of damage would heal the person instead.
@@ -200,13 +199,13 @@ d100	Entry
 66	Target turns into a marble figurine of itself. When the figurine is activated (by throwing it into an unoccupied space) it transforms back into its living form and is hostile towards all creatures.
 67	Any keratin on the caster's body (hair, nails, feathers, some skin, horns, hooves, etc...) turn a vibrant hue.
 68	The caster spontaneously combusts and is set ablaze.
-69	The caster is launched ten feet into the air, hangs there for a moment (permitting a reaction), then falls back down, taking falling damage.
+69	
 70	Caster turns into massive oak tree.
-71	All the PCs and NPCs including monsters change places, rotate places 1d4 spots clockwise.
+71	
 72	The caster's hair grows very rapidly, if male, so does the beard. It grows to about 2meters length, and turns purple, green or blue.
 73	Bubbles sprout from the casters mouth every time he exales, lasts 1 hour.
 74	Next book the caster reads, has him/her as protagonist
-75	1d8 medium sized purple tentacles rise from the ground. They are semi-sentinel and not aligned to caster nor foe. They attempt to grapple anything within range (DC 14)
+75	
 76	Irregardless of the amount of time that passes in game the caster of this spell can see and hear all that happens in the real world surrounding the player of said character for the next 1d6 minutes per level of spell cast.
 77	The caster and target switch classes but retain their respective level, if the target does not have a class then the caster switches classes with the closest humanoid with one.
 78	In the next 1d6 hours the caster grows 1d6 feet, but gains no mass, so a halfling would become an extremely tall thin creature. No negative effects purely cosmetic, can be reversed with remove curse.
@@ -216,10 +215,10 @@ d100	Entry
 82	Any object or being that the caster touches for 1d10 rounds ( 1 minute out of combat) turns to leaves for 1d10 minutes.
 83	If the caster is using a spell casting focus, it grows 100 times heavier for one minute.
 84	The casters eyes flash with a strange color. To the caster, everybody's skin and muscles are transparent, revealing their organs. This lasts for 1 minute.
-85	Magical silence falls in a 50 ft radius that lasts for 10 minutes.
+85	
 86	All noises the caster makes for the next minute are x100 times louder.
 87	The next piece of metal the caster touches turns to gold.
-88	All water in a 50 ft radius evaporates instantly.
+88	
 89	A small lead figure of the caster in the exact pose they were in appears in mid air and falls to the ground. Despite being so small, it weighs exactly as much as the caster.
 90	The caster suddenly witnesses a memory from one of their ancestors.
 91	The casters hair disappears, reappearing 1d6 days later, washed, braided and decorated with flowers.
@@ -235,7 +234,7 @@ d100	Entry
 
 d100 Effect
 1 - Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls.
-2 - You lose concentration on any spells you are concentrating on, and an antimagic field surrounds you for the next minute.
+2 - 
 3 - For the next minute, you can see any invisible creature if you have line of sight to it.
 4 - All of your teeth fall out of your mouth, and slowly regrow over 10 minutes.
 5 - A modron chosen and controlled by the DM appears in an unoccupied space within 5 feet of you, then disappears 1 minute later.
@@ -245,40 +244,21 @@ d100 Effect
 9 - You cast magic missile as a 5th-level spell.
 10 - You let out a loud, thunderous belch that replicates the effect of a 1st-level thunderwave spell.
 11 - Roll a d10. Your height changes by a number of inches equal to the roll. If the roll is odd, you shrink. If the roll is even, you grow.
-12 - Up to 3 corpses within 30 feet of you rise as zombies hostile to all non-undead creatures.
-
 13 - You cast confusion centered on yourself.
-
 14 - Your body and all your gear take on a glassy appearance for the next minute. During this time, ranged attacks that target you bounce off and target other random creatures within 30 feet of you instead.
-
 15 - For the next minute, you regain 5 hit points at the start of each of your turns.
-
 16 - For the next minute, the only languages you know are Deep Speech, Primordial, and Sylvan.
-
 17 - You grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode out from your face.
-
 18 - Your body (none of your clothing or gear) teleports 10 feet in a random direction.
-
 19 - You cast grease centered on yourself.
-
 20 - You cast Tasha’s hideous laughter on the nearest creature to you. If there is no other creature within range, you target yourself.
-
 21 - Creatures have disadvantage on saving throws against the next spell you cast in the next minute that involves a saving throw.
-
 22 - A deck of many things appears hovering in front of you expectantly, only visible and touchable by you. It disappears at the end of your next turn.
-
 23 - Your skin turns a vibrant shade of blue. A remove curse spell can end this effect.
-
-24 - If you take acid, cold, fire, lightning, or thunder damage within the next minute, you gain resistance to that type of damage for 1 hour.
-
 25 - An eye appears on your forehead for the next minute. During that time, you have advantage on Wisdom (Perception) checks that rely on sight.
-
 26 - You gain a random form of short-term madness (see the Dungeon Master’s Guide).
-
 27 - For the next minute, all your spells with a casting time of 1 action have a casting time of 1 bonus action.
-
 28 - You break your attunement with 1d3 of your magic items to which you are attuned.
-
 29 - You teleport up to 60 feet to an unoccupied space of your choice that you can see.
 
 30 - You cast haste on yourself.
@@ -322,13 +302,8 @@ d100 Effect
 49 - You can’t speak for the next minute. Whenever you try, pink bubbles float out of your mouth.
 
 50 - You suddenly realize that you are nothing more than a fictional character in a game played by other creatures in another plane of existence, which causes you to be stunned. This existential crisis lasts until the start of your next turn, after which you shake it off as nonsense.
-
 51 - A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and immunity to the magic missile spell.
-
 52 - You feel lucky. You automatically succeed on the next saving throw you make within the next minute.
-
-53 - You are immune to being intoxicated by alcohol for the next 5d6 days.
-
 54 - You gain 2d10 temporary hit points.
 
 55 - Your hair falls out but grows back within 24 hours.
@@ -377,7 +352,7 @@ d100 Effect
 
 77 - You cast polymorph on yourself. If you fail the saving throw, you turn into a sheep for the spell’s duration.
 
-78 - A strong wind swirls around you in a 10-foot radius, making ranged attacks going into or out of this aura automatically miss.
+78 - 
 
 79 - Illusory butterflies and flower petals flutter in the air within 10 feet of you for the next minute.
 
