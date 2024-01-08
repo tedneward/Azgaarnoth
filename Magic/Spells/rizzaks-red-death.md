@@ -1,5 +1,5 @@
 # Rizzak's Red Death 
-*9th-level necromancy* (Sorcerer, Warlock, Wizard)
+*9th-level necromancy* *(blood)* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action 
 - **Range:** 300 feet 
@@ -13,5 +13,3 @@ On a failed saving throw, a creature takes 8d8 poison damage and 8d8 necrotic da
 Until the spell ends, at the start of each of your turns, the radius of the sphere increases by 30 feet, up to a maximum of a 300-foot radius. Any creature with blood that has no more than half of its hit points remaining has disadvantage on saving throws against the spell.
 
 Extremely strong wind can disperse the cloud, such as wind from the wind wake spell or the strongest wind created by the control weather spell.
-
-This is a Blood spell.

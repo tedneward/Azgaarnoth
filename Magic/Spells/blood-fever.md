@@ -1,5 +1,5 @@
 #### Blood Fever 
-*6th-level enchantment* (Bard, Cleric, Druid, Warlock, Wizard)
+*6th-level enchantment* *(blood)* (Bard, Cleric, Druid, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action 
 - **Range:** 60 feet 
@@ -26,5 +26,3 @@ In addition, if the target has levels in the barbarian class, it gains the follo
 
 The target can repeat the saving throw at the end of each of its turns, ending the spell on a success. 
 Creatures that do not have blood, can't be charmed, are immune to disease, or have levels in the barbarian class have advantage on saving throws against the spell.
-
-This is a Blood spell.

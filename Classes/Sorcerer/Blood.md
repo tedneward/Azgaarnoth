@@ -41,33 +41,34 @@ You can't expend more hit dice using this feature than half your sorcerer level 
 ## Bleed Magic
 *6th-level Blood Magic feature*
 
-You gain the ability to cast spells when you are wounded, turning the blood spilt from your veins into magic as you bleed. When you take slashing, bludgeoning, or piercing damage, or damage from a *blood*-tagged spell you can spend 2 sorcery points and use your reaction to cast one spell that would normally require an action or bonus action to cast. You cast this spell after you take the damage.
+You gain the ability to cast spells when you are wounded, turning the blood spilt from your veins into magic as you bleed. When you take slashing, bludgeoning, or piercing damage, you can spend 2 sorcery points and use your Reaction to cast one *blood*-tagged spell that would normally require an action or bonus action to cast. You cast this spell after you take the damage. You may use this feature even if you have cast a spell on both your action and bonus action.
 
 ```
 def level6(npc):
     npc.traits.append("***Resistent Blood.*** You gain advantage on saving throws made to resist *blood*-tagged spells and to resist poison.")
 
-    npc.reactions.append("***Bleed Magic.*** When you take slashing, bludgeoning, or piercing damage, or damage from a Blood spell, you spend 2 sorcery points to cast one spell that would normally require an action or bonus action to cast. You cast this spell after you take the damage.")
+    npc.reactions.append("***Bleed Magic.*** When you take slashing, bludgeoning, or piercing damage, you spend 2 sorcery points to cast one *blood*-tagged spell that would normally require an action or bonus action to cast. You cast this spell after you take the damage.")
 ```
 
 ## Crimson Power
 *14th-level Blood Magic feature*
 
-You learn how to make use of the blood your enemies have already spilled from you to strengthen your magic beyond its normal limits even as your blood magically shields you from harm. While you have no more than half your hit points left, you gain a + 3 bonus to AC. When you have this bonus and you roll damage for a sorcerer spell that you cast, you add your proficiency bonus as bonus damage. You can only add this bonus damage once per turn.
+You learn how to make use of the blood your enemies have already spilled from you to strengthen your magic beyond its normal limits even as your blood magically shields you from harm. While you have no more than half your hit points left, you gain a +3 bonus to AC. When you have this bonus and you roll damage for a sorcerer spell that you cast, you add your proficiency bonus as bonus damage. You can only add this bonus damage once per turn.
 
 ```
 def level14(npc):
     npc.defer(lambda npc: npc.traits.append(f"***Crimson Power.*** While you have no more than half your hit points left, you gain a + 3 bonus to AC. When you have this bonus and you roll damage for a sorcerer spell that you cast, you add {npc.proficiencybonus()} as bonus damage. You can only add this bonus damage once per turn.") )
+    npc.armorclass['Crimson Power'] = 3
 ```
 
 ## Sanguine Storm
 *18th-level Blood Magic feature*
 
-You learn how to force your magic into the body of a mortally wounded creature with such ease and force as to create an explosion of magic. When you deal damage to a creature and reduce it to 0 hit points, you can spend 2 sorcery points to cause the creature to explode violently. The target fails one death saving throw automatically. Each creature within a 15-foot sphere centered on the target must make a Constitution saving throw. On a failed saving throw, a creature takes 7d6 necrotic damage. On a successful saving throw, a creature takes half damage.
+You learn how to force your magic into the body of a mortally wounded creature with such ease and force as to create an explosion of magic. When you deal damage to a creature and reduce it to 0 hit points, you can spend 2 sorcery points to cause the creature to explode violently. The target fails one death saving throw automatically. Each creature within a 15-foot sphere centered on the target must make a Constitution saving throw. On a failed saving throw, a creature takes 7d6 necrotic damage and is [necrotized](../../Conditions/Necrotized.md) for 1 minute. On a successful saving throw, a creature only takes half damage.
 
 For the purpose of any other Sorcerer class feature, you treat each explosion from this class feature as if it were a Necromancy spell that you know as a sorcerer.
 
 ```
 def level18(npc):
-    npc.traits.append("***Sanguine Storm.*** When you deal damage to a creature and reduce it to 0 hit points, you can spend 2 sorcery points to cause the creature to explode violently. The target fails one death saving throw automatically. Each creature within a 15-foot sphere centered on the target must make a Constitution saving throw. On a failed saving throw, a creature takes 7d6 necrotic damage. On a successful saving throw, a creature takes half damage. For the purpose of any other Sorcerer class feature, you treat each explosion from this class feature as if it were a Necromancy spell that you know as a sorcerer.")
+    npc.traits.append("***Sanguine Storm.*** When you deal damage to a creature and reduce it to 0 hit points, you can spend 2 sorcery points to cause the creature to explode violently. The target fails one death saving throw automatically. Each creature within a 15-foot sphere centered on the target must make a Constitution saving throw. On a failed saving throw, a creature takes 7d6 necrotic damage and is [necrotized](http://azgaarnoth.tedneward.com/conditions/Necrotized). On a successful saving throw, a creature takes half damage. For the purpose of any other Sorcerer class feature, you treat each explosion from this class feature as if it were a Necromancy spell that you know as a sorcerer.")
 ```

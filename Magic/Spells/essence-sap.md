@@ -1,5 +1,5 @@
 #### Essence Sap
-*6th-level necromancy* (Sorcerer, Warlock, Wizard)
+*6th-level necromancy* *(blood)* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action 
 - **Range:**60 feet 
@@ -13,5 +13,3 @@ While the cord connects you, the target is poisoned, and you can use your action
 Whenever you deal necrotic damage with this spell, if the target has blood or unexpended spell slots, you can restore the use of one of your expended 1st-level spell slots or reduce your exhaustion level by 1. 
 
 All exhaustion caused by this spell is removed from a creature when it finishes a short or long rest with food and water to snack on during the rest. The spell can't raise a creature's exhaustion level above five. 
-
-This is a Blood spell.

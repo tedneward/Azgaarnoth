@@ -59,7 +59,7 @@ def level14(npc):
 ## Reality Tear
 *18th-level Arcane Anomaly feature*
 
-Your magic has the potential to rip holes in existence. When you use your Metamagic feature, roll a d20. On a result of 19 or 20, a [sphere of annihilation](../../Magic/Items/sphere-of-annihiliation.md) forms adjacent to the target of the spell. The sphere remains for 1 minute before vanishing. You can spend a sorcery point to maintain and control the sphere for 1 hour.
+Your magic has the potential to rip holes in existence. When you use your Metamagic feature, roll a d20. On a result of 19 or 20, a [sphere of annihilation](../../Magic/Items/sphere-of-annihiliation.md) forms adjacent to the target of the spell. The sphere remains for 1 minute before vanishing. You can spend a sorcery point to maintain and control the sphere for 1 minute.
 
 ```
 def level18(npc):

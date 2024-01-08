@@ -28,10 +28,10 @@ You learn extra spells at certain levels, as shown in the Legacy Spells chart be
 Sorcerer Level|Spell
 --------------|-----
 1st|[find familiar](../../Magic/Spells/find-familiar.md)
-3rd|[silence](../../Magic/Spells/silence.md)
+3rd|[silence](../../Magic/Spells/arcane-transference.md)
 5th|[Leomund's tiny hut](../../Magic/Spells/leomunds-tiny-hut.md)
 7th|[detect curses](../../Magic/Spells/detect-curses.md)
-9th|[Rary's telepathic bond](../../Magic/Spells/rarys-telepathic-bond.md)
+9th|[Rary's mnemonic enhancer](../../Magic/Spells/rarys-mnemonic-enhancer.md)
 
 > **GM's Note:** Alternatively, allow the player to choose a non-sorcerer spell of their choice from the wizard's spell list, so long as all the spells chosen follow a player-defined theme.
 
@@ -40,7 +40,7 @@ Sorcerer Level|Spell
         level = npc.levels('Sorcerer')
         spellcasting = npc.spellcasting['Sorcerer']
         spellcasting.spellsalwaysprepared.append('find familiar')
-        if level >= 3: spellcasting.spellsalwaysprepared.append('silence')
+        if level >= 3: spellcasting.spellsalwaysprepared.append('arcane transference')
         if level >= 5: spellcasting.spellsalwaysprepared.append('leomunds tiny hut')
         if level >= 7: spellcasting.spellsalwaysprepared.append('detect curses')
         if level >= 9: spellcasting.spellsalwaysprepared.append('rarys telepathic bond')
