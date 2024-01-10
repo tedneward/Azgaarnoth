@@ -7,7 +7,7 @@
 * [Blade of Focus](../../Magic/Spells/blade-of-focus.md) *brandish*
 * [Blazing Starfall](../../Magic/Spells/blazing-starfall.md)
 * [Blood Boil](../../Magic/Spells/blood-boil.md)
-* [Blood Curdle](../../Magic/Spells/blood-curdle.md)
+* [Blood Curdle](../../Magic/Spells/blood-curdle.md) *blood*
 * [Blood Curse](../../Magic/Spells/blood-curse.md)
 * [Blood Dagger](../../Magic/Spells/blood-dagger.md)
 * [Blood Siphon](../../Magic/Spells/blood-siphon.md)
@@ -101,8 +101,8 @@
 * [Winter’s Touch](../../Magic/Spells/winter’s-touch.md)
  
 ## 1st-Level Spells
-* [Active Momentum](../../Magic/Spells/active-momentum.md)
-* [Alienated Mind](../../Magic/Spells/alienated-mind.md)
+* [Active Momentum](../../Magic/Spells/active-momentum.md) *psionic*
+* [Alienated Mind](../../Magic/Spells/alienated-mind.md) *psionic*
 * [Armor of Agathys](../../Magic/Spells/armor-of-agathys.md)
 * [Arms of Hadar](../../Magic/Spells/arms-of-hadar.md)
 * [Arrow Mind](../../Magic/Spells/arrow-mind.md)
@@ -186,7 +186,7 @@
 * [Rune of Cutting](../../Magic/Spells/rune-of-cutting.md) *brandish*
 * [Rune of Force](../../Magic/Spells/rune-of-force.md)
 * [Rune of Puncturing](../../Magic/Spells/rune-of-puncturing.md) *brandish*
-* [Sanguine Wave](../../Magic/Spells/sanguine-wave.md)
+* [Sanguine Wave](../../Magic/Spells/sanguine-wave.md) *blood*
 * [Scattered Form](../../Magic/Spells/scattered-form.md)
 * [Sense Emotion](../../Magic/Spells/sense-emotion.md)
 * [Serpent Missile](../../Magic/Spells/serpent-missile.md)
@@ -249,7 +249,7 @@
 * [Burning Blade](../../Magic/Spells/burning-blade.md) *brandish*
 * [Cannon Blast](../../Magic/Spells/cannon-blast.md)
 * [Carnage Blast](../../Magic/Spells/carnage-blast.md)
-* [Carnage Burst](../../Magic/Spells/carnage-burst.md)
+* [Carnage Burst](../../Magic/Spells/carnage-burst.md) *blood*
 * [Chain of Spell Theft](../../Magic/Spells/chain-of-spell-theft.md)
 * [Chaos Dice](../../Magic/Spells/chaos-dice.md)
 * [Choking Hands](../../Magic/Spells/choking-hands.md)
@@ -343,7 +343,7 @@
  
 ## 3rd-Level Spells
 * [Abolish Shadows](../../Magic/Spells/abolish-shadows.md)
-* [Absorb Mind](../../Magic/Spells/absorb-mind.md)
+* [Absorb Mind](../../Magic/Spells/absorb-mind.md) *psionic*
 * [Acid Breath](../../Magic/Spells/acid-breath.md)
 * [Aegis of Assault](../../Magic/Spells/aegis-of-assault.md)
 * [Alahandra's Questing Call](../../Magic/Spells/alahandras-questing-call.md) *ritual*
@@ -459,7 +459,7 @@
  
 ## 4th-Level Spells
 * [Absorb Strength](../../Magic/Spells/absorb-strength.md)
-* [Agonize](../../Magic/Spells/agonize.md)
+* [Agonize](../../Magic/Spells/agonize.md) *blood*
 * [Backlash Curse](../../Magic/Spells/backlash-curse.md)
 * [Balor's Nimbus](../../Magic/Spells/balors-nimbus.md)
 * [Banishment](../../Magic/Spells/banishment.md)
@@ -595,7 +595,7 @@
 * [Fire and Brimstone](../../Magic/Spells/fire-and-brimstone.md)
 * [Grave Soil](../../Magic/Spells/grave-soil.md)
 * [Greater Water to Poison](../../Magic/Spells/greater-water-to-poison.md)
-* [Grim Terror](../../Magic/Spells/grim-terror.md)
+* [Grim Terror](../../Magic/Spells/grim-terror.md) *blood*
 * [Grimlore's Touch of Undeath](../../Magic/Spells/grimlores-touch-of-undeath.md)
 * [Grimwald's Greymantle](../../Magic/Spells/grimwalds-greymantle.md)
 * [Hellfire](../../Magic/Spells/hellfire.md)
@@ -654,7 +654,7 @@
 * [Aura of Terror](../../Magic/Spells/aura-of-terror.md)
 * [Awaken Undead](../../Magic/Spells/awaken-undead.md)
 * [Blackmantle](../../Magic/Spells/blackmantle.md)
-* [Blood Fever](../../Magic/Spells/blood-fever.md)
+* [Blood Fever](../../Magic/Spells/blood-fever.md) *blood*
 * [Borrowed Time](../../Magic/Spells/borrowed-time.md)
 * [Bound into Obedience](../../Magic/Spells/bound-into-obedience.md)
 * [Capacitor Box](../../Magic/Spells/capacitor-box.md)
@@ -663,7 +663,7 @@
 * [Create Undead](../../Magic/Spells/create-undead.md)
 * [Curse of Odium](../../Magic/Spells/curse-of-odium.md)
 * [Dark Lagoon](../../Magic/Spells/dark-lagoon.md)
-* [Essence Sap](../../Magic/Spells/essence-sap.md)
+* [Essence Sap](../../Magic/Spells/essence-sap.md) *blood*
 * [Eyebite](../../Magic/Spells/eyebite.md)
 * [Fellblade](../../Magic/Spells/fellblade.md)
 * [Fire Spiders](../../Magic/Spells/fire-spiders.md)
@@ -678,7 +678,7 @@
 * [Hoar's Revenance](../../Magic/Spells/hoars-revenance.md)
 * [Howling Void](../../Magic/Spells/howling-void.md)
 * [Inevitable Winter](../../Magic/Spells/inevitable-winter.md)
-* [Investiture of Blood](../../Magic/Spells/investiture-of-blood.md)
+* [Investiture of Blood](../../Magic/Spells/investiture-of-blood.md) *blood*
 * [Investiture of Flame](../../Magic/Spells/investiture-of-flame.md)
 * [Investiture of Ice](../../Magic/Spells/investiture-of-ice.md)
 * [Investiture of Necrosis](../../Magic/Spells/investiture-of-necrosis.md)
@@ -719,7 +719,7 @@
  
 ## 7th-Level Spells
 * [Arrow of Bone](../../Magic/Spells/arrow-of-bone.md)
-* [Avasculate](../../Magic/Spells/avasculate.md)
+* [Avasculate](../../Magic/Spells/avasculate.md) *blood*
 * [Blood to Water](../../Magic/Spells/blood-to-water.md)
 * [Bone Javelin](../../Magic/Spells/bone-javelin.md)
 * [Conjure Wyrmling](../../Magic/Spells/conjure-wyrmling.md) *ritual*
@@ -745,7 +745,7 @@
 * [Instill Vulnerability](../../Magic/Spells/instill-vulnerability.md)
 * [Kiss of the Vampire](../../Magic/Spells/kiss-of-the-vampire.md)
 * [Living Burial](../../Magic/Spells/living-burial.md)
-* [Malady](../../Magic/Spells/malady.md)
+* [Malady](../../Magic/Spells/malady.md) *blood, brandish*
 * [Mantle of the Slime Lord](../../Magic/Spells/mantle-of-the-slime-lord.md)
 * [Mind Fog](../../Magic/Spells/mind-fog.md)
 * [Mirror Army](../../Magic/Spells/mirror-army.md)
@@ -768,11 +768,11 @@
 ## 8th-Level Spells
 * [Alluvial Pool](../../Magic/Spells/alluvial-pool.md)
 * [Ascendancy of Vecna](../../Magic/Spells/ascendancy-of-vecna.md)
-* [Avascular Mass](../../Magic/Spells/avascular-mass.md)
+* [Avascular Mass](../../Magic/Spells/avascular-mass.md) *blood*
 * [Barbed Construct](../../Magic/Spells/barbed-construct.md)
 * [Bite of the King](../../Magic/Spells/bite-of-the-king.md)
 * [Blackstaff](../../Magic/Spells/blackstaff.md)
-* [Bloodbath](../../Magic/Spells/bloodbath.md)
+* [Bloodbath](../../Magic/Spells/bloodbath.md) *blood*
 * [Bodak's Glare](../../Magic/Spells/bodaks-glare.md)
 * [Burn Path](../../Magic/Spells/burn-path.md)
 * [Chalice of the Night](../../Magic/Spells/chalice-of-the-night.md)
@@ -789,7 +789,7 @@
 * [Grimlore's Crippling Incursion](../../Magic/Spells/grimlores-crippling-incursion.md)
 * [Haunting Hour](../../Magic/Spells/haunting-hour.md)
 * [Heart of Stone](../../Magic/Spells/heart-of-stone.md) *ritual*
-* [Heartbreak](../../Magic/Spells/heartbreak.md)
+* [Heartbreak](../../Magic/Spells/heartbreak.md) *blood*
 * [Heat Drain](../../Magic/Spells/heat-drain.md)
 * [Hindal's Shrinking Hex](../../Magic/Spells/hindals-shrinking-hex.md)
 * [Horrid Withering](../../Magic/Spells/horrid-withering.md)
@@ -808,7 +808,7 @@
 * [Wrathful Castigation](../../Magic/Spells/wrathful-castigation.md)
  
 ## 9th-Level Spells
-* [Amnesia](../../Magic/Spells/amnesia.md)
+* [Amnesia](../../Magic/Spells/amnesia.md) *psionic*
 * [Apocalypse from the Sky](../../Magic/Spells/apocalypse-from-the-sky.md)
 * [Asmodeus' Eternal Suffering](../../Magic/Spells/asmodeus-eternal-suffering.md)
 * [Astral Projection](../../Magic/Spells/astral-projection.md)
