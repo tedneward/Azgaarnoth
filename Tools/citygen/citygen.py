@@ -4,7 +4,6 @@ import argparse
 import csv
 import random
 import os
-import sqlite3
 import sys
 import namegen as NameGenerator
 
@@ -64,6 +63,14 @@ def namegen(which):
     # If we're still here, then let's gen a name
     return NameGenerator.namegen(which)
 
+def dieroll(dpattern):
+    (number, size) = dpattern.split("d")
+    if number == '': number = 1
+    accum = 0
+    for _ in range(int(number)):
+        accum += random.randint(1, int(size))
+    return accum
+
 
 
 class City:
@@ -93,7 +100,90 @@ class City:
         self.duelingcolleges = []
         self.religiousgroups = []
         self.monasticorders = []
-    
+
+
+    # Based https://donjon.bin.sh/fantasy/demographics/medieval-demographics-made-easy.pdf
+    # Villages range from 20 to 1,000 people, with most in 50-300 range. Agrarian communities.
+    # Towns range 1,000-8,000, with most around 2,500. Tend to have walls only if they're 
+    # politically important or frequently threatened.
+    # Cities 8,000 to 12,000. Universities tend to be in cities of this size
+    # Big cities: 12,000 to 100,000. Where large arteries of traffic converge.
+        
+    def gendemographics(self):
+        popdensity = 0
+        if self.state == '':
+            popdensity = dieroll('6d4') * random.randint(5, 8)
+        else:
+            densities = {
+                'Dense province name': 7,
+                'Sparse province name': 1
+            }
+            if self.province in densities.keys():
+                popdensity = dieroll('6d4') * densities[self.province]
+            else:
+                popdensity = dieroll('6d4') * random.randint(5, 8)
+
+    def genbusinesses(self):
+        business = {
+            "Shoemakers": 150,
+            "Furriers": 250,
+            "Servants": 250,
+            "Tailors": 250,
+            "Barbers": 350,
+            "Jewelers": 400,
+            "Taverns": 400,
+            "Pastrycooks": 500,
+            "Masons": 500,
+            "Carpenters": 550, 
+            "Weavers": 600,
+            "Chandlers": 700, # Only if docks
+            "Mercers": 700,
+            "Coopers": 700,
+            "Bakers": 800,
+            "Watercarriers": 850,
+            "Winesellers": 900,
+            "Hatmakers": 950,
+            "Saddlers": 1000,
+            "Pursemakers": 1100,
+            "Woodsellers": 2400,
+            "Magic shops": 2800,
+            "Bookbinders": 3000,
+            "Butchers": 1200,
+            "Fishmongers": 1200,
+            "Beersellers": 1400,
+            "Buckle-makers": 1400,
+            "Plasterers": 1400,
+            "Spice merchants": 1400,
+            "Blacksmiths": 1500,
+            "Painters": 1500,
+            "Doctors": 350,
+            "Roofers": 1800,
+            "Locksmiths": 1900,
+            "Bathhouses": 1900,
+            "Ropemakers": 1900,
+            "Inns": 2000,
+            "Tanners": 2000,
+            "Copyists": 2000,
+            "Sculptors": 2000,
+            "Rugmakers": 2000,
+            "Cutlers": 2300,
+            "Glovemakers": 2400,
+            "Woodcarvers": 2400,
+            "Booksellers": 6300,
+            "Illuminators": 3900,
+            "Legal advocates": 650,
+            "Clergy": 40,
+            "Priest": 150
+        }
+        numbers = {}
+        for (name, sv) in business.items():
+            sv += (dieroll('4d4') - 6) * 10
+            if self.populationct < sv:
+                if random.randint(1, 100) < int((self.populationct / sv) * 100):
+                    numbers[name] = 1
+            else:
+                numbers[name] = self.populationct // sv
+
     def parsecsvrow(self, row):
         # 0: Id, 1: Burg, 2: Province, 3: Province Full Name,
         # 4: State, 5: State Full Name, 6: Culture, 7: Religion,
@@ -265,7 +355,7 @@ class City:
 
         for _ in range(numgroups):
             god = randreligion()
-            pop = random.randint(10, 50) * 10
+            pop = random.randint(10, 20) * int(self.populationct // 100)
             self.religiousgroups.append(f'**Temple.** The temple to {god} has around {pop} followers.')
             self.authorities.append(f"**TODO**, High Priest of {god}")
 
