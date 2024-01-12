@@ -97,11 +97,11 @@ d100  | Effect
 57-58 | All creatures within the wild magic zone have [haste](Spells/haste.md) cast on them for 3 rounds. When it wears off, each creature suffers 2 levels of [exhaustion](../Conditions/Exhaustion.md) for 1d6 hours.
 59-60 | A chorus of ethereal voices begin to make compliments and offer criticism on everything that is happening inside the wild magic zone. For example, they may congratulate the caster on casting the spell and compliment the quality of both the casting and the spell itself. Anytime anyone uses magic within an hour of the casting of the original spell, they are met with the murmured approval and commentary of the voices.
 61-62 | Each creature in the wild magic zone is launched ten feet into the air, hangs there for a moment (permitting a reaction), then falls back down, taking falling damage.
-63-64 | 1d8 medium sized purple tentacles rise from the ground. They are semi-sentient and not aligned to caster nor foe. They attempt to grapple anything within range (Athletics/DC 14).
+63-64 | 1d8 Medium-sized purple tentacles rise from the ground throughout the wild magic zone. They are not aligned to any creatures within the zone, and attempt to grapple (Athletics/DC 14) anything within their reach of 10 feet. If they succeed, each round they deliver (randomly) either 1d6 healing or 1d6 necrotic damage. They have AC 15, 25 hit points, and will retreat back into the ground after 1 minute.
 65-66 | All creatures change places, randomly teleporting to a different place formerly occupied by another creature.
 67-68 | A [fog cloud](Spells/fog-cloud.md) descends to fill the wild magic zone.
-69-70 | 
-71-72 | 
+69-70 | All creatures inside the wild magic zone each roll 1d6 twice, the first die roll indicating what kind of damage the creature gains immunity to, the second die roll indicating what kind of damage the creature gains vulnerability to: 1-2 bludgeoning damage; 3-4 piercing damage, 5-6 slashing damage. This effect lasts for 1 minute.
+71-72 | For the next minute, at the start of each round, the DM secretly rolls a d10; if the die roll is odd, all damage-based spells cure their targets instead, and all curative spells do necrotic or radiant (whichever is worse to that creature) damage instead. A creature can attempt an Arcana/DC25 check to tell which effect is in place.
 73-74 | 
 75-76 | 
 77-78 | 
