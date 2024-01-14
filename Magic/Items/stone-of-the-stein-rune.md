@@ -1,7 +1,7 @@
-# Globe of the *stein* Rune
+# *stone* of the Stein Rune
 *wondrous item, rare (requires attunement)*
 
-This spherical chunk of granite is about the size of a human fist. The [*stein*](../Runes/stein.md) rune--the rune of stone--appears on the orb as crystalline veins that play across its surface. When first grasped, the stone feels impossibly heavy, as if even a titan could not lift it. That feeling passes after a moment, allowing you to carry the stone with ease.
+This *stone* (usually a spherical chunk of granite) is about the size of a human fist. The [*stein*](../Runes/stein.md) rune--the rune of stone--appears on the *stone* as crystalline veins that play across its surface. When first grasped, the stone feels impossibly heavy, as if even a titan could not lift it. That feeling passes after a moment, allowing you to carry the stone with ease.
 
 This rune has both simple and complex properties; simple properties are available to anyone who attunes the master rune, while complex properties require you to have the Rune Lore feature to unlock and use.
 
