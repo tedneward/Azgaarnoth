@@ -1,5 +1,5 @@
 # Sorcerous Origin: Blood Magic
-Your magic is the magic within all living blood - and you use none more often than your own. It comes naturally to you, and you find that your blood is strong, and getting stronger the more you draw on its magical power. Most who have their blood continually tapped for magic begin to suffer illness and frailty, but your blood is different in some way. Perhaps your blood is growing stronger the way warriors train their muscles, or perhaps your blood carries a gift made for blood magic itself. Whatever it is, you feel your heartbeat grow stronger and louder with every growth in sanguine power.
+Your magic is the magic within all living blood--and you use none more often than your own. It comes naturally to you, and you find that your blood is strong, and getting stronger the more you draw on its magical power. Most who have their blood continually tapped for magic begin to suffer illness and frailty, but your blood is different in some way. Perhaps your blood is growing stronger the way warriors train their muscles, or perhaps your blood carries a gift made for blood magic itself. Whatever it is, you feel your heartbeat grow stronger and louder with every growth in sanguine power.
 
 ```
 name = 'Blood'
@@ -30,6 +30,7 @@ Additionally, you can use a bonus action to call upon the power of blood by eith
 Willing creatures can offer up their blood, so long as they are within 5 feet of you when you perform the bonus action. Charmed creatures will always be willing, and this effect does not count as "damage" or an "attack" for purposes of ending the charmed effect.
 
 ```
+def level1(npc):
     npc.defer(lambda npc: npc.bonusactions.append(f"***Blood Magic.*** You call upon the power of blood by either inflicting a minor (expend 1 hit die and 1d8 hit points, gain {'1 blood point' if npc.levels('Wizard') < 14 else '2 blood points'}) or severe wound (expend 2 hit dice and 2d8 hit points, gain {'2' if npc.levels('Wizard') < 14 else '4'} blood points) upon yourself or upon a willing creature within 5 feet of you. Charmed creatures will always be willing, and this effect does not count as damage or an attack for purposes of ending the charmed effect.") )
 ```
 
