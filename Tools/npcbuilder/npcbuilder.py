@@ -719,6 +719,7 @@ class NPC:
 
 
     def __init__(self):
+        self.name = ''
         self.description = []
 
         self.size = 'Medium'
@@ -885,6 +886,14 @@ class NPC:
         self.spellcasting[source] = spellcasting
         spellcasting.abilitybonus = self.INTbonus if ability == 'INT' else self.WISbonus if ability == 'WIS' else self.CHAbonus if ability == 'CHA' else None
         return spellcasting
+    
+    def generatename(self):
+        if self.subrace != None and getattr(self.subrace, 'generate_name', None) != None:
+            self.name = self.subrace.generate_name(self)
+        elif getattr(self.race, 'generate_name', None) != None:
+            self.name = self.race.generate_name(self)
+        else:
+            self.name = "(Name)"
 
     def freeze(self):
         """The NPC is finished building, so normalize any traits/features to this level."""
@@ -936,6 +945,9 @@ class NPC:
         self.reactions.sort()
         self.skills.sort()
         self.proficiencies.sort()
+
+        # Lets try out a name
+        self.generatename()
 
     def getsavingthrows(self):
         results = []

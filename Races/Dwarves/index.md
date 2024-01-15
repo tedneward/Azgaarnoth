@@ -51,3 +51,18 @@ Dwarves have a number of genetically-differentiated offshoots (subraces):
 * [Mountain](Mountain.md)
 * [Dark](Dark.md)
 * [Mark of Warding Dragonmark](Warding.md)
+
+```
+def generate_name(npc, gender):
+    def generate_lastname(npc):
+        # Dwarven lastnames are often two-parters
+        parts = [
+            'strong', 'steady',
+            'sword', 'spear',
+            'shaft', 'haft',
+            'breaker',
+            'eagle',
+            'brown', 'gray', 'green', 'black', 'red', '
+        ]
+
+```
