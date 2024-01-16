@@ -232,6 +232,84 @@ def abilityscoreimprovement(npc):
     else:
         choosefeat(npc)
 
+def generatemarkovname(exemplars):
+    def markov_name(chain):
+        parts = select_link(chain, 'parts')
+        names = []
+        for _ in range(parts):
+            name_len = select_link(chain, 'name_len')
+            c = select_link(chain, 'initial')
+            name = c
+            last_c = c
+            while len(name) < name_len:
+                c = select_link(chain, last_c)
+                if not c:
+                    break
+                name += c
+                last_c = c
+            names.append(name)
+        return ' '.join(names)
+
+    def construct_chain(lst):
+        chain = {}
+        for item in lst:
+            names = item.split()
+            chain = incr_chain(chain, 'parts', len(names))
+            for name in names:
+                chain = incr_chain(chain, 'name_len', len(name))
+                c = name[0]
+                chain = incr_chain(chain, 'initial', c)
+                string = name[1:]
+                last_c = c
+                while len(string) > 0:
+                    c = string[0]
+                    chain = incr_chain(chain, last_c, c)
+                    string = string[1:]
+                    last_c = c
+        return scale_chain(chain)
+
+    def incr_chain(chain, key, token):
+        if key in chain:
+            if token in chain[key]:
+                chain[key][token] += 1
+            else:
+                chain[key][token] = 1
+        else:
+            chain[key] = {}
+            chain[key][token] = 1
+        return chain
+
+    def scale_chain(chain):
+        table_len = {}
+        for key in chain:
+            table_len[key] = 0
+            for token in chain[key]:
+                count = chain[key][token]
+                weighted = int(count ** 1.3)
+                chain[key][token] = weighted
+                table_len[key] += weighted
+        chain['table_len'] = table_len
+        return chain
+
+    import random
+
+    def select_link(chain, key):
+        length = chain['table_len'][key]
+        if not length:
+            return False
+        idx = random.randint(0, length-1)
+        tokens = list(chain[key].keys())
+        acc = 0
+        for i in range(len(tokens)):
+            token = tokens[i]
+            acc += chain[key][token]
+            if acc > idx:
+                return token
+        return False
+
+    chain = construct_chain(exemplars)
+    return markov_name(chain)
+
 traits = {
     'amphibious' : "***Amphibious.*** You can breathe air and water.",
     'fey-ancestry' : "***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can't put you to sleep.",
@@ -471,6 +549,7 @@ def loadmodule(filename, modulename=None):
             "fullcaster": fullcaster,
             "halfcaster": halfcaster,
             "innatecaster": innatecaster,
+            "generatemarkovname": generatemarkovname,
             "Spellcasting": NPC.Spellcasting,
             "replace": replace,
             "random": randomlist,
@@ -719,6 +798,7 @@ class NPC:
 
 
     def __init__(self):
+        self.name = ''
         self.description = []
 
         self.size = 'Medium'
@@ -885,6 +965,14 @@ class NPC:
         self.spellcasting[source] = spellcasting
         spellcasting.abilitybonus = self.INTbonus if ability == 'INT' else self.WISbonus if ability == 'WIS' else self.CHAbonus if ability == 'CHA' else None
         return spellcasting
+    
+    def generatename(self):
+        if self.subrace != None and getattr(self.subrace, 'generate_name', None) != None:
+            self.name = self.subrace.generate_name(self)
+        elif getattr(self.race, 'generate_name', None) != None:
+            self.name = self.race.generate_name(self)
+        else:
+            self.name = "(Name)"
 
     def freeze(self):
         """The NPC is finished building, so normalize any traits/features to this level."""
@@ -936,6 +1024,9 @@ class NPC:
         self.reactions.sort()
         self.skills.sort()
         self.proficiencies.sort()
+
+        # Lets try out a name
+        self.generatename()
 
     def getsavingthrows(self):
         results = []

@@ -47,7 +47,72 @@ def level0(npc):
 
 Dwarves have a number of genetically-differentiated offshoots (subraces):
 
-* [Hill](Hill.md)
-* [Mountain](Mountain.md)
+* [Hill](Hill.md) and [Mountain](Mountain.md) dwarves are the core stock of dwarvish lineage.
+* [Ember](Ember.md) dwarves are commonly found in the eastern Daws mountains, near the only active volcanic region in Azgaarnoth, but many have emigrated away to all corners of the continent(s).
+* [Stone](Stone.md) dwarves lived (and live still) for entire generations in the Underdark.
+* [Tundra](Tundra.md) dwarves are those who have embraced the endless plains of the surface as their home.
 * [Dark](Dark.md)
 * [Mark of Warding Dragonmark](Warding.md)
+
+```
+def generate_name(npc, gender):
+    def generate_firstname():
+        names = [
+            'Alaron', 'Aldrek', 'Ardo',
+            'Barazak', 'Balur', 'Bombur', 'Bofur', 'Bnar',
+            'Chakrir', 'Carnir', 'Cadmael',
+            'Dendirsyr', 'Dorn', 'Dophensus',
+            'Erwid', 'Erli', 'Ednir',
+            'Farsben', 'Fili', 'Fordreth', 'Fenzig',
+            'Gadaric', 'Gimli', 'Graflyn', 'Gunder', 'Goltan', 'Grimn', 'Grisbane',
+            'Haldrik', 'Heimoc', 'Helsbid', 'Helwright', 'Hoskuld',
+            'Kalhor', 'Karsten', 'Kenth', 'Kili', 'Kulderik', 'Kellan', 'Kardnyr', 'Krael',
+            'Kall',
+            'Lornir', 'Lorik', 'Laron',
+            'Maarik', 'Meli', 'Mostyr',
+            'Nomir',
+            'Ostrin',
+            'Ryonn',
+            'Thorin', 'Thordrik', 'Thorstyr', 'Thaladan', 'Tomir',
+            'Valamar', 'Valdan',
+        ]
+        return generate_name(names)
+
+    def generate_lastname():
+        # Dwarven lastnames are often two-parters
+        prenouns = [
+            'strong', 'steady', 'barren',
+            'mountain','hill','cliff','range','mine','crag','storm','root',
+            'sword', 'spear', 'axe', 'hammer',
+            'two', 'three', 'four',
+            'shaft', 'haft',
+            'wolf', 'bear', 'tiger', 'rat', 'troll', 'dragon',
+            'eagle','raven','hawk','hen',
+            'brown', 'gray', 'green', 'black', 'red',
+            'coal', 'shale', 'iron', 'oak', 'steel', 'gravel',
+            'wooden','oaken','ivy',
+            'fire','earth','air','water','lightning','thunder','psychic',
+        ]
+        postnouns = [
+            'mountain','hill','cliff','range','mine','crag','storm','root',
+            'gates',
+            'sword', 'spear', 'axe', 'hammer', 'shield',
+            'hand','tongue', 'skull', 'blood', 'fist',
+            'talon','claw','beak','hawk',
+            'borne', 'heim', 'bane',
+            'pants','vest','tunic','shirt',
+            'smith','shadow',
+        ]
+        verbs = [
+            'breaker','smiter','hewer','slasher','stealer'
+        ]
+        if random.randint(0,1) == 0:
+            part1 = prenouns[random.randint(0, len(prenouns)-1)].capitalize()
+            part2 = postnouns[random.randint(0, len(postnouns)-1)]
+            return f"{part1}{part2}"
+        else:
+            part1 = prenouns[random.randint(0, len(prenouns)-1)].capitalize()
+            part2 = verbs[random.randint(0, len(verbs)-1)]
+            return f"{part1}{part2}"
+    return f"{generate_firstname()} {generate_lastname()}"
+```
