@@ -17,12 +17,19 @@ import namegen as NameGenerator
 def existingorg(orgtype, directory):
     orgs = os.listdir(directory)
     orgs.remove('index.md')
-    org = open(directory + '/' + orgs[random.randint(0, len(orgs)-1)], 'r').readlines()[0][len(f'# {orgtype}: '):-1]
-    return org
+    if 'Code.md' in orgs:
+        orgs.remove('Code.md')
+    filename = directory + '/' + orgs[random.randint(0, len(orgs)-1)]
+    org = open(filename, 'r').readlines()[0][len(f'# {orgtype}: '):-1]
+    return (org, filename)
 
 def randreligion():
-    religions = ['AlUma - Prophet', "Al'Uma - Disciple", 'Dailish', 'Druidism', 
-                 'Kaevarian Church', 'Pantheon', 'Spiritualism', 'Trinitarian Church']
+    religions = ["[Al'Uma - Prophet](../Religions/AlUma.md)", "[Al'Uma - Disciple](../Religions/AlUma.md)",
+                 '[Dail](../Religions/Dail.md)', '[Druidism]((../Religions/Druidism.md))', 
+                 '[Kaevarian Church](../Religions/KaevarianChurch.md)', 
+                 'Pantheon', 
+                 '[Spiritualism](../Religions/Spirits.md)', 
+                 '[Trinitarian Church](../Religions/Trinitarian.md)']
     religion = religions[random.randint(0, len(religions)-1)]
     if religion == 'Pantheon':
         gods = os.listdir('../../Religions/Pantheon')
@@ -63,7 +70,6 @@ def namegen(which):
 
     # If we're still here, then let's gen a name
     return NameGenerator.namegen(which)
-
 
 
 class City:
@@ -161,6 +167,49 @@ class City:
     def parsemd(self, lines):
         pass
 
+    ###### Some leader-type generations
+    def genleader(self, title):
+        def randomoption(dictoptions):
+            roll = random.randint(1, 100)
+            accum = 0
+            for (option, chance) in dictoptions.items():
+                if roll <= (accum + chance):
+                    return option
+                else:
+                    accum += chance
+            return "We rolled {roll} against {dictoptions} and nothing came back?!?"
+        
+        townlevels = { 4: 30, 5: 40, 6: 30 }
+        citylevels = { 7: 20, 8: 20, 9: 20, 10: 20, 11: 10, 12: 10 }
+        levels = townlevels if self.populationct < 10000 else citylevels
+
+        if title == 'City Guard':
+            classdict = { "Fighter": 60, "Paladin": 20, "Rogue": 10, "Cleric": 5, "Wizard": 5 }
+            return f"{randomoption(classdict)} {randomoption(citylevels)}"
+        elif title == 'Town Guard':
+            classdict = { "Fighter": 65, "Paladin": 15, "Rogue": 10, "Cleric": 5, "Wizard": 5 }
+            return f"{randomoption(classdict)} {randomoption(townlevels)}"
+        elif title == 'Mercenary Captain':
+            classdict = { "Fighter": 60, "Rogue": 20, "Ranger": 10, "Cleric": 5, "Wizard": 5 }
+            return f"{randomoption(classdict)} {randomoption(levels)}"
+        elif title == 'Arcane Master':
+            classdict = { "Wizard": 40, "Sorcerer": 40, "Warlock": 20 }
+            return f"{randomoption(classdict)} {randomoption(levels)}"
+        elif title == 'High Priest':
+            classdict = { "Cleric": 55, "Paladin": 20, "Druid": 15, "Warlock": 10 }
+            return f"{randomoption(classdict)} {randomoption(levels)}"
+        elif title == 'Grand Sensei':
+            classdict = { "Monk": 85, "Mystic": 15 }
+            return f"{randomoption(classdict)} {randomoption(levels)}"
+        elif title == 'Dueling College':
+            classdict = { "Fighter": 35, "Rogue": 25, "Monk": 10, "Ranger": 10, "Barbarian": 10, "Bard": 5, "Wizard": 5 }
+            return f"{randomoption(classdict)} {randomoption(levels)}"
+        elif title == 'Rogues Guild':
+            classdict = { "Rogue": 50, "Fighter": 10, "Monk": 10, "Ranger": 10, "Wizard": 10, "Warlock": 5, "Bard": 5 }
+            return f"{randomoption(classdict)} {randomoption(levels)}"
+        else:
+            return f"Unknown leader type: {title}"
+
     def calculate(self):
         # This is temporary, until the CSV data is finally not needed anymore
         self.populationct = int(self.populationct * random.randint(20, 30)) // 1000 * 100
@@ -185,10 +234,10 @@ class City:
             # The Guard
             self.militaryunits.append("**City Guard.** **TODO**")
             # Captain of the Guard
-            self.authorities.append("**TODO**, Fighter 8, Captain of the City Guard")
+            self.authorities.append(f"**TODO**, {self.genleader('City Guard')}, Captain of the City Guard")
         else:
             self.militaryunits.append("**Town Guard.** **TODO**")
-            self.authorities.append("**TODO**, Fighter 5, Captain of the Town Guard")
+            self.authorities.append(f"**TODO**, {self.genleader('Town Guard')}, Captain of the Town Guard")
 
     def calculatemilitia(self):
         results = "**Militia.** "
@@ -239,26 +288,28 @@ class City:
 
         # How many mercs are associated here?
         # Really, this should be tripled or more for all cities in Chidia
-        nummercs = int(self.populationct // 2000)
-        if nummercs > 6: nummercs = 6
+        nummercs = int(self.populationct // 5000)
+        if nummercs > 3: nummercs = 3
 
         for _ in range(nummercs):
             merc = namegen('mercenarycompany')
             self.mercenarycompanies.append(f'**[{merc}](../Organizations/MercCompanies/{merc}.md)**')
-            self.authorities.append(f'**TODO**, Captain - {merc}')
+            self.authorities.append(f"**TODO**, {self.genleader('Mercenary Captain')}, Captain - {merc}")
 
     def calculatemageschools(self):
         # How many schools are here? 1 per 7500 population?
         numschools = int(self.populationct // 7500)
 
         for _ in range(numschools):
-            school = ''
+            schoolpop = random.randint(1,3) * (self.populationct // 7500)
             if random.randint(0, 100) > 25:
-                school = existingorg('Mage School', '../../Organizations/MageSchools')
+                (school, link) = existingorg('Mage School', '../../Organizations/MageSchools')
+                self.mageschools.append(f'**[{school}]({link}).** The school currently has {schoolpop * 2} active members.')
+                self.authorities.append(f"**TODO**, {self.genleader('Arcane Master')}, Arcane Master, [{school}]({link})")
             else:
                 school = namegen('mageschool')
-            self.mageschools.append(f'**[{school}](../Organizations/MageSchools/{school}.md)**')
-            self.authorities.append(f'**TODO**, Arcane Master, {school}')
+                self.mageschools.append(f'**{school}.** The school currently has {schoolpop} active members.')
+                self.authorities.append(f"**TODO**, {self.genleader('Arcane Master')}, Arcane Master, {school}")
 
     def calculatereligiousgroups(self):
         numgroups = int(self.populationct // 7500)
@@ -267,7 +318,7 @@ class City:
             god = randreligion()
             pop = random.randint(10, 50) * 10
             self.religiousgroups.append(f'**Temple.** The temple to {god} has around {pop} followers.')
-            self.authorities.append(f"**TODO**, High Priest of {god}")
+            self.authorities.append(f"**TODO**, {self.genleader('High Priest')}, High Priest of {god}")
 
     def calculatemerchantguilds(self):
         numguilds = self.populationct // 5000
@@ -279,13 +330,14 @@ class City:
         if numguilds < 0: numguilds = 0
 
         for _ in range(int(numguilds)):
-            guild = ''
-            if random.randint(0, 100) > 25:
-                guild = existingorg('Merchant Guild', '../../Organizations/MerchantGuilds')
+            if random.randint(0, 100) <= 25:
+                (guild, link) = existingorg('Merchant Guild', '../../Organizations/MerchantGuilds')
+                self.merchantguilds.append(f'**[{guild}](../Organizations/MerchantGuilds/{link})**')
+                self.authorities.append(f'**TODO**, Guildmaster - {guild}')
             else:
                 guild = namegen('merchantguild')
-            self.merchantguilds.append(f'**[{guild}](../Organizations/MerchantGuilds/{guild}.md)**')
-            self.authorities.append(f'**TODO**, Guildmaster - {guild}')
+                self.merchantguilds.append(f'**{guild}**')
+                self.authorities.append(f'**TODO**, Guildmaster - {guild}')
     
     def calculatemonasticorders(self):
         numorders = int(self.populationct // 15000)
@@ -293,8 +345,8 @@ class City:
         for _ in range(numorders):
             pop = random.randint(10, 50)
             name = namegen('monasticorder')
-            self.religiousgroups.append(f'**Monastic Order.** The order currently has {pop} monks.')
-            self.authorities.append(f"**TODO**, Grand Sensei of the {name} monastic order")
+            self.monasticorders.append(f'**Monastic Order: {name}.** The order currently has {pop} monks.')
+            self.authorities.append(f"**TODO**, {self.genleader('Grand Sensei')} Grand Sensei of the {name} monastic order")
 
     def calculateduelingcolleges(self):
         numcolleges = len(self.militaryunits)
@@ -313,7 +365,7 @@ class City:
         for _ in range(numcolleges):
             dc = namegen('duelingcollege')
             self.duelingcolleges.append(dc)
-            self.authorities.append(f"**TODO**, Head of the {dc} dueling college")
+            self.authorities.append(f"**TODO**, {self.genleader('Dueling College')}, Head of the {dc} dueling college")
 
     def calculateroguesguilds(self):
         numguilds = self.populationct // 5000
@@ -325,9 +377,14 @@ class City:
         if numguilds < 0: numguilds = 0
 
         for _ in range(numguilds):
-            g = namegen('roguesguild')
-            self.roguesguilds.append(f'**[{g}](../Organizations/RoguesGuilds/{g}.md**')
-            self.authorities.append(f"**TODO**, Guildmaster of the {g} rogue's guild")
+            if random.randint(0, 100) <= 25:
+                (guild, link) = existingorg('Rogues Guild', '../../Organizations/RoguesGuilds')
+                self.roguesguilds.append(f'**[{guild}]({link})**')
+                self.authorities.append(f'**TODO**, Guildmaster, [{guild}]({link})')
+            else:
+                guild = namegen('roguesguild')
+                self.roguesguilds.append(f'**{guild}**')
+                self.authorities.append(f'**TODO**, Guildmaster, {guild}')
     
     def formatmd(self):
         results = f"# {self.name}\n"
@@ -411,6 +468,7 @@ def main():
                     description='A tool for generating random settings for a city',
                     epilog='Written in Python with love')
     parser.add_argument('--version', action='version', version='%(prog)s 0.1')
+    parser.add_argument('--parsemd', help='CSV file to use as input database')
     parser.add_argument('--parsecsv', help='CSV file to use as input database')
     parser.add_argument('--out', help='Target directory for any written files')
     parser.add_argument('--writeindex', choices=states + ['all'], help='Create an index.md page for all cities in given state')
