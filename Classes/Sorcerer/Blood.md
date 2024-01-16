@@ -9,7 +9,11 @@ description = "***Sorcerous Origin: Blood Magic.*** Your magic is the magic with
 ## Blood Magic
 *1st-level Blood Magic feature*
 
-You invoke blood magic to gain supernatural powers. 
+You invoke blood magic to gain supernatural powers.
+
+```
+def level1(npc):
+```
 
 **Blood Pool.** You have a number of blood points determined by your sorcerer level. You can have more blood points than shown on the table for your level. These points automatically regenerate after a long rest.
 
