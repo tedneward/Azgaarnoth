@@ -1,4 +1,13 @@
 # Equipment: Armor
+*Cost* indicates the going rate for said armor, assuming it is purchased in a Major City (population > 25,000) and all materials are easily available.
+
+*Armor Class* indicates the armor class for the creature wearing it. "+ Dex" means the creature adds its full Dexterity attribute bonus to AC; "+Dex (max 2)" means the creature gets, at most, a +2 bonus for its Dexterity. If Dex is not mentioned, then the armor is too bulky to benefit from Dexterity.
+
+*Strength* indicates the minimum Strength score a creature must have in order to wear this armor.
+
+*Stealth* indicates any Advantage or Disadvantage to Stealth checks when wearing this armor.
+
+*Weight* describes the total weight to the armor once donned.
 
 ## Light Armor
 Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class.
@@ -9,7 +18,7 @@ Name        | Cost | Armor Class | Strength | Stealth | Weight
 [Leather](#leather) | 10 gp | 11 + Dex | - | - | 10 lb.
 [Padded](#padded) | 5 gp | 11 + Dex | - | Disadvantage | 8 lb.
 [Leather Lamellar](#leather-lamellar) | 30 gp | 12 + Dex | - | Disadvantage | 13 lb
-[Studded leather](#studden-leather) | 45 gp | 12 + Dex | - | - | 13 lb.
+[Studded leather](#studded-leather) | 45 gp | 12 + Dex | - | - | 13 lb.
 
 ## Medium Armor
 Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class.
@@ -33,7 +42,7 @@ Heavy armor doesn’t let you add your Dexterity modifier to your Armor Class, b
 Name        | Cost | Armor Class | Strength | Stealth | Weight
 ----------- | ---- | ----------- | -------- | ------- | ------
 [Ring mail](#ring-mail) | 30 gp | 14 | - | Disadvantage | 40 lb.
-[Lorica Segmentata](#lorica-segmentata) | 45 gp | 15 | 11 | Disadvantage | 30 lb.
+[Lorica Segmentata](#lorica-segmentata) | 45 gp | 15 | Str 11 | Disadvantage | 30 lb.
 [Chain mail](#chain-mail) | 75 gp | 16 | Str 13 | Disadvantage | 55 lb.
 [Splint](#splint) | 200 gp | 17 | Str 15 | Disadvantage | 60 lb.
 [Plate](#plate) | 1,500 gp | 18 | Str 15 | Disadvantage | 65 lb.
@@ -47,7 +56,7 @@ Name        | Cost | Armor Class | Strength | Stealth | Weight
 [Fencing Cloak](#fencing-cloak) | 6 gp | +1 | - | - | 2 lb.
 [Vambrace](#vambrace) | 15gp | +1 | - | - | 2 lb.
 [Shield](#shield) | 10 gp | +2 | - | - | 6 lb.
-[Tower Shield](#tower-shield) | 25 gp | +2 | 16 | Disadvantage | 15 lb.
+[Tower Shield](#tower-shield) | 25 gp | +3 | Str 16 | Disadvantage | 15 lb.
 
 
 #### Battle Robe
@@ -117,7 +126,7 @@ A shield is made from wood or metal and is carried in one hand. Wielding a shiel
 #### Splint
 This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.
 
-#### Studden leather
+#### Studded leather
 Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
 
 #### Tower Shield
@@ -125,6 +134,7 @@ This massive shield is used frequently in organized armies for its effectiveness
 
 While you are holding a tower shield:
 
+* You cannot Dash.
 * You have disadvantage on attack rolls.
 * You have half cover.
 * You can spend an amount of movement equal to half your speed to have three-quarters cover until the start of your next turn. If you do this, then when you are an obstacle to a target you grant three-quarters cover instead of half cover.

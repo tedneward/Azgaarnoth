@@ -6,13 +6,15 @@ Some items can only be a particular specific within the category--for example, a
 ## Residual Items
 *Items that hold charges or periodic-based powers*
 
-* *Clothing*: Belt, Boots, Cape, Cloak, Gloves, Hat, Mantle, Robe, Slippers, Horseshoes
+* *Clothing*: Belt, Boots, Bracers, Cape, Cloak, Gloves, Hat, Mantle, Robe, Slippers, Horseshoes
 
 * *Decoration*: Banner, Candle, Coin, Curtain, Mirror, Pennant
 
 * *Defense*: Armor, Bracers, Gauntlets, Helm, Shield, Barding
 
-* *Focus*: Rod, Scepter, Staff, Wand
+* *Focus*: Amulet, Grimoire, Rod, Scepter, Staff, Wand
+
+* *Footwear*: Boots, Shoes, Slippers
 
 * *Instrument*: Chime, Drum, Flute, Harp, Horn, Lute, Pipes, Viola
 
@@ -20,11 +22,13 @@ Some items can only be a particular specific within the category--for example, a
 
 * *Stones*: Bead, Gem, Orb, Pearl, Stone
 
+* *Readable*: Archive, Atlas, Book, Compendium, Grimoire, Tome
+
 * *Wearable*: *Clothing*, *Defense*, *Ornament*
 
 * *Weapon*: Axe, Bow (long, short), Dagger, Flail, Mace, Spear, Sword, Trident, ...
 
-* *Vessel*: Bag, Bowl, Censer, Decanter, Flask, Jug, Sack
+* *Vessel*: Bag, Bowl, Censer, Chalice, Decanter, Flask, Jug, Sack, Vial
 
 ## One-shot Items
 *Items that hold only one charge/use*
@@ -40,7 +44,7 @@ Many arcane item smiths have long known ways to "tie" an item to a specific coll
 
 Restriction can be deliberately forged in a magical item, applied post-completion, or in some cases, develop on its own.
 
-Forging an item to have a restriction generally heightens its power, allowing for more charges, or perhaps to develop a new minor feature (that is in some way related to the restriction). Typically restrictions are around which kind of creatures can use the item, but some have developed to restrict how the item can be used (such as what sort of creatures can be targeted, for example), so that a *want of magic missiles* might be restricted to only be able to affect undead and do twice the damage, or have twice the charges, or twice the range, and so on.
+Forging an item to have a restriction generally heightens its power, allowing for more charges, or perhaps to develop a new minor feature (that is in some way related to the restriction). Typically restrictions are around which kind of creatures can use the item, but some have developed to restrict how the item can be used (such as what sort of creatures can be targeted, for example), so that a *wand of magic missiles* might be restricted to only be able to affect undead and do twice the damage, or have twice the charges, or twice the range, and so on.
 
 Restrictions cn also develop over time, based on how it is used; for example, if Ser Lemdat, the Undead Slayer, uses that *want of magic missiles* exclusively against undead armies attacking the town, the wand may develop some particular properties making it more effective against undead, such as dealing radiant damage, or shooting an extra missile at undead targets, or 
 

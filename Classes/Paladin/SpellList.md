@@ -1,6 +1,4 @@
 # Spell List Summary: Paladin 
-## cantrip-Level Spells
- 
 ## 1st-Level Spells
 * [Ablative Armor](../../Magic/Spells/ablative-armor.md)
 * [Attract Projectiles](../../Magic/Spells/attract-projectiles.md)
@@ -81,7 +79,7 @@
 * [Wrathful Smite](../../Magic/Spells/wrathful-smite.md)
  
 ## 2nd-Level Spells
-* [Action Trance](../../Magic/Spells/action-trance.md)
+* [Action Trance](../../Magic/Spells/action-trance.md) *psionic*
 * [Aid](../../Magic/Spells/aid.md)
 * [Align Weapon](../../Magic/Spells/align-weapon.md) *ritual*
 * [Altruistic Healing](../../Magic/Spells/altruistic-healing.md)
@@ -171,7 +169,7 @@
 * [Darkness Blade Arc](../../Magic/Spells/darkness-blade-arc.md) *brandish*
 * [Daylight](../../Magic/Spells/daylight.md)
 * [Dispel Magic](../../Magic/Spells/dispel-magic.md)
-* [Draining Smite](../../Magic/Spells/draining-smite.md)
+* [Draining Smite](../../Magic/Spells/draining-smite.md) *blood*
 * [Eldritch Weapon](../../Magic/Spells/eldritch-weapon.md)
 * [Elemental Weapon](../../Magic/Spells/elemental-weapon.md)
 * [Fiery Fists](../../Magic/Spells/fiery-fists.md)
@@ -292,12 +290,4 @@
 * [Valiancy](../../Magic/Spells/valiancy.md)
 * [Valiant Fury](../../Magic/Spells/valiant-fury.md)
 * [Vehement Inquiry](../../Magic/Spells/vehement-inquiry.md) *ritual*
- 
-## 6th-Level Spells
- 
-## 7th-Level Spells
- 
-## 8th-Level Spells
- 
-## 9th-Level Spells
  

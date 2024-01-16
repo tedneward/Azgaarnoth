@@ -87,8 +87,18 @@ You start with the following equipment, in addition to the equipment granted by 
 
 As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power.
 
+```
+    spellcasting = fullcaster(npc, 'INT', 'Wizard')
+```
+
 ### Cantrips
 At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table.
+
+```
+    def setmaxknowncantrips(npc):
+        spellcasting.maxcantripsknown = 3 if npc.levels('Wizard') < 4 else 4 if npc.levels('Wizard') < 10 else 5
+    npc.defer(lambda npc: setmaxknowncantrips(npc) )
+```
 
 ### Cantrip Versatility
 Whenever you gain a level in this class, you can replace one cantrip you learned from this Spellcasting with another cantrip from the wizard spell list. 
@@ -149,7 +159,6 @@ You can use an arcane focus as a spellcasting focus for your wizard spells.
 Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook from the list below--these are "common spells" found all across the world and easily obtained. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook. More exclusive and/or rare spells will only be able to be obtained from adventuring sources.
 
 ```
-    spellcasting = fullcaster(npc, 'INT', 'Wizard')
     def setprepared(npc): 
         npc.spellcasting[name].spellsprepared = npc.INTbonus() + npc.levels('Wizard')
     npc.defer(lambda npc: setprepared(npc) )
@@ -225,16 +234,20 @@ There are some arcane traditions which choose to not follow the mage school trad
 
 ... and there are those mage schools that choose not (or dare not) practice openly:
 
-* [Bloodmancers](./Bloodmancer.md), [Hemomancers](Hemomancy.md), and [NeoBloodmancers](./NeoBloodmancer.md): Those who draw power from life's blood can expect to be persecuted on sight; those seeking to join these traditions must find an existing master.
+* [Bloodmancers](./Bloodmancer.md): Those who draw power from life's blood can expect to be persecuted on sight.
 * [Emomancy](./Emomancy.md) and [Enchantment](./Enchantment.md): Those wizards who manipulate the emotional spectrum are widely distrusted all across Azgaarnoth. Those who would study it will need to find an existing master Emomancer or Enchanter to pursue this tradition. That's never stopped those who want to study the power of mortal emotion, however--just made them harder to find.
 * [Necromancy](./Necromancy.md): Like all things related to the undead, necromancers often need to practice their skills in secret. However, several necromantic mage schools do operate in the open, either because they have political protection, or because their self-imposed oaths provide some degree of guarantee to the locals (such as the [Night's Blessing](../../Organizations/MageSchools/NightsBlessing.md) school, which studies necromancy as part of its pursuit of the studies of life and healing).
 
-As a mage grows in skill, they will need to look for opportunities to gain new spells in their spellbook.
+Those who would study with any of these shunned traditions must typically search for a master at great length, and often must keep moving from town to town lest they be discovered and "dealt with" by the locals.
 
 ### Arcane Tradition Spells
-Note that many spells in use across the Azgaarnothian lands are "restricted", in the sense that those who know those spells are reluctant to allow the spell's text to be in the hands of "just anyone". Any spell listed [below](#core-wizard-spells) (which includes all those listed in the *Player's Handbook*) is considered a "core" spell and thus easily accessible to any Wizard; any spell not listed there is "restricted" and therefore must be obtained through some alternative means. (*GM Note: This is one of the primary uses of the Mage Schools, to serve as a source for restricted spells.*) Different mage schools will have different rules, guidelines, or prices for their restricted spells.
+As a mage grows in skill, they will need to look for opportunities to gain new spells in their spellbook. Often a mage will return to their school or former master to have an opportunity to gain new spells, if they are on good terms with them. However, doing so too often can feel a touch degrading, and many schools (and masters) will demand new spells in turn as trade. 
 
-For those magi that are not a part of a mage school, obtaining spells is a bit trickier. Some will be happy to trade spells in a spellbook with one another if they are of the same mindset (tradition), or even simply for money. Others will share spells only with others of their hidden faction--meaning a spellcaster will need to find others like them in order to gain acces to the "good stuff".
+Note that many spells in use across the Azgaarnothian lands are "restricted", in the sense that those who know those spells are reluctant to allow the spell's text to be in the hands of "just anyone". Any spell listed [below](#core-wizard-spells) (which includes all those listed in the *Player's Handbook*) is considered a "core" spell and thus easily accessible to any Wizard; any spell not listed there is "restricted" and therefore must be obtained through some alternative means. (*GM Note: This is one of the primary uses of the [Mage Schools](../../Organizations/MageSchools/index.md), to serve as a source for restricted spells.*) Different mage schools will have different rules, guidelines, or prices for their restricted spells.
+
+For those magi that are not a part of a school, obtaining spells is trickier. Some schools or magi will be happy to trade spells in a spellbook with one another if they are of the same or similar mindset (tradition). Some will do so for money. Some will require a "favor", others might refuse until persuaded. Others will share spells only with others of their hidden faction--meaning a spellcaster will need to find others like them in order to gain acces to the "good stuff".
+
+For those magi who are part of a shunned tradition, new spells must almost always be found "in the wild" via lost spellbooks, spell scrolls, 
 
 ```
 def level2(npc):
@@ -264,7 +277,7 @@ By spending 8 hours in study, you can exchange one or both of the spells you cho
 
 ```
 def level18(npc):
-    npc.traits.append("***Spell Mastery.*** By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.")
+    npc.traits.append("***Spell Mastery.*** You can cast the (Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook) spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.")
 ```
 
 ## Signature Spells
@@ -276,7 +289,7 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 
 ```
 def level20(npc):
-    npc.traits.append("***Signature Spells.*** You gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest. If you want to cast either spell at a higher level, you must expend a spell slot as normal.")
+    npc.traits.append("***Signature Spells (Each recharges on short or long rest).*** You always have the spells (Choose two 3rd-level wizard spells in your spellbook) prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest. If you want to cast either spell at a higher level, you must expend a spell slot as normal.")
 ```
 
 ---

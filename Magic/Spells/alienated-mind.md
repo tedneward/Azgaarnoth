@@ -1,5 +1,5 @@
 #### Alienated Mind
-*1st-level enchantment* (Bard,Warlock,Wizard)
+*1st-level enchantment* *(psionic)* (Bard,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** Self

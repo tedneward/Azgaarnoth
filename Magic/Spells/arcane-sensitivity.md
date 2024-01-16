@@ -6,4 +6,6 @@ ___
 - **Components:** S
 - **Duration:** Instantaneous
 ---
-With a touch you learn if your opponent can cast spells. Make a melee touch attack. On a hit, you learn if your opponent can cast arcane or divine spell, and if so, the maximum spell level it can cast.
+With a touch you learn if your opponent can cast spells.
+
+Make a melee touch attack. On a hit, you learn if your opponent can cast arcane or divine spell, and if so, the maximum spell level it can cast.

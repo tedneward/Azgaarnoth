@@ -4,7 +4,7 @@
 [Acrobat](Acrobat.md) | [Actor](Actor.md) | [Adept of the Mage School](AdeptoftheMageSchool.md) | [Aerial Mounted Combatant](AerialMountedCombatant.md) | [Agent of Order](AgentofOrder.md) | [Alchemist](Alchemist.md) | [Alert](Alert.md) | [Animal Handler](AnimalHandler.md) | [Arcanist](Arcanist.md) | [Artificer Initiate](ArtificerInitiate.md) | [Athlete](Athlete.md)
 
 #### B
-[Baleful Scion](BalefulScion.md) | [Barbed Hide](BarbedHide.md) | [Blade Mastery](BladeMastery.md) | [Blood Crazed](BloodCrazed.md) | [Bountiful Luck](BountifulLuck.md) | [Brave](Brave.md) | [Brawny](Brawny.md) | [Breath Weapon Training](BreathWeaponTraining.md) | [Burglar](Burglar.md)
+[Baleful Scion](BalefulScion.md) | [Barbed Hide](BarbedHide.md) | [Blade Mastery](BladeMastery.md) | [Blood Crazed](BloodCrazed.md) | [Blood Magic](BloodMagic.md) | [Bountiful Luck](BountifulLuck.md) | [Brave](Brave.md) | [Brawny](Brawny.md) | [Breath Weapon Training](BreathWeaponTraining.md) | [Burglar](Burglar.md)
 
 #### C
 [Cartomancer](Cartomancer.md) | [Channeler](Channeler.md) | [Charger](Charger.md) | [Chef](Chef.md) | [Cohort of Chaos](CohortofChaos.md) | [Confusing Onslaught](ConfusingOnslaught.md) | [Critter Friend](CritterFriend.md) | [Crossbow Expert](CrossbowExpert.md) | [Crusher](Crusher.md)

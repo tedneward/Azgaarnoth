@@ -1,48 +1,57 @@
 >### Name
->*Medium Male humanoid (Steel Dragonborn) Sorcerer (Arcane Legacy) 20, any alignment*
+>*Medium Female humanoid (Bugbear) Wizard (Bloodmancer) 20, any alignment*
 >___
->- **Armor Class** 11 (DEX (+1))
->- **Hit Points** 133 (20d6 + 40)
+>- **Armor Class** 14 (Blood Magic (13),DEX (+1))
+>- **Hit Points** 92 (20d6 + 0)
 >- **Speed** 30 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:-:|:-:|:-:|:-:|:-:|:-:|
->|18 (+4)|12 (+1)|15 (+2)|12 (+1)|12 (+1)|18 (+4)|
+>|13 (+1)|12 (+1)|11 (+0)|19 (+4)|11 (+0)|11 (+0)|
 >___
 >- **Proficiency Bonus** +7
->- **Saving Throws** Cha +11,Con +9
+>- **Saving Throws** Wis +7,Int +11
 >- **Damage Vulnerabilities** 
->- **Damage Resistances** lightning
+>- **Damage Resistances** psychic,fire
 >- **Damage Immunities** 
 >- **Condition Immunities** 
->- **Skills** Arcana +8,Intimidation +11
+>- **Skills** Arcana +11,Insight +7,Stealth +8
 >- **Proficiencies** Dagger,Dart,Light crossbow,Quarterstaff,Sling
->- **Senses** passive Perception 11
->- **Languages** Common,Draconic
+>- **Senses** darkvision 60,passive Perception 10
+>- **Languages** Common,Goblin
 >___
->***Font of Magic (Recharges on long rest).*** You have 20 sorcery points.
+>***Arcane Recovery.***  Once per day when you finish a short rest, you can regain 1 expended hit die and choose expended spell slots to recover. The spell slots can have a combined level of 10, and none of the slots can be 6th level or higher.
 >
->***Font of Magic: Empowering Reserves.*** When you make an ability check on your turn, you can spend 2 sorcery points to gain advantage on the check.
+>***Blood Magic: Armor of Vitality.*** While you possess one or more blood points, and you do not wear armor, your AC is 13.
 >
->***Magical Knack.*** Whenever you make an Intelligence (Arcana) check, you can add 4 to the roll. If you make the check intentionally (such as to examine something), you can expend 1 sorcery point to give yourself advantage on the roll.
+>***Blood Magic: Lifeblood.*** While you possess one or more blood points, you gain advantage on your death saving throws.
 >
->***Shadow-Touched Spells.*** You can also cast your Shadow-Touched spells using spell slots you have of the appropriate level.
+>***Blood Siphon.*** When you reduce a creature to 0 hit points with a melee or spell attack, and the creature dies, you gain 1 blood point.
+>
+>***Burn the Blood.*** Whenever you begin casting a spell of 1st level or higher that deals psychic or fire damage, a wave of pain and anguish erupts from you. This wave causes creatures of your choice within 10 feet to suffer psychic or fire damage (you choose each time you activate this feature) equal to half your wizard level.
+>
+>***Inheritor of Blood.*** Should you drop to 0 hit points and do not die outright, you can make a DC 10 Constitution saving throw. If you succeed, one willing creature within 30 feet can expend one hit die and you regain a number of hit points equal to the result. Each time you use this feature after the first, increase the DC by 5. When you finish a short or long rest, reset the DC to 10.
+>
+>***Long-Limbed.*** When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
+>
+>***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+>
+>***Signature Spells.*** You gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+>
+>***Spell Mastery.*** By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+>
+>***Spellbook.*** Contents: 
+>
+>***Surprise Attack.*** If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.
+>
+>***War Caster: Concentration.*** You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
+>
+>***War Caster: Somaticism.*** You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
+>
+>***Wellspring of Life.*** When you make a death saving throw and roll a 18-20 on the d20, you regain 1d6 hit points instead of normal.
 >
 >#### Actions
->***Breath Weapon (7/Reharges on a long rest).*** You exhale destructive lightning in a line 5' x 30'. All creatures in the area must make a DEX saving throw, DC 17. A creature takes 4d10 lightning damage on a failed save, or half on a successful one.
->
->***Font of Magic: Sorcerous Fortitude.*** You spend any number of sorcery points to roll a d4 for each point expended. You gain a number of temporary hit points equal to the total.
->
->***Forceful Concentration.*** While you are concentrating on exactly one spell, you cast a concentration spell without ending the first spell. The combined spell level of the two spells cannot exceed 9. Any Constitution saving throws to maintain concentration are made for each spell individually.
->
->***Mana Drain.*** You spend any number of sorcery points and target a creature you can see, forcing them to make a Charisma saving throw (DC 19). On a failed save, the target loses unused spell slots with a combined spell level equal to the number of sorcery points spent, or half that amount on a successful save. Higher-level spell slots are lost first. You regain expended spell slots of the same number and levels as what the target lost. This cannot cause you to stockpile spell slots beyond your normal allotment.
->
->***Metallic Breath Weapon (Recharges on long rest).*** You exhale a 15-foot cone of either Enervating Breath (Each creature in the cone must succeed on a Constitution saving throw or become incapacitated until the start of your next turn) or Repulsion Breath (Each creature in the cone must succeed on a Strength saving throw or be pushed 20 feet away from you and be knocked prone); save DC is {8 + npc.CONbonus() + npc.proficiencybonus()}.
->
->***Sorcerer Spellcasting (Cha, at level 20. Recharges on long rest).*** 6 cantrips known. 15 spells known. **Spell save DC: 19**, **Spell attack bonus: +11**
->
->
->Spells always prepared: [detect magic](http://azgaarnoth.tedneward.com/magic/spells/detect-magic/),[identify](http://azgaarnoth.tedneward.com/magic/spells/identify/),[find familiar](http://azgaarnoth.tedneward.com/magic/spells/find-familiar/),[silence](http://azgaarnoth.tedneward.com/magic/spells/silence/),[leomunds tiny hut](http://azgaarnoth.tedneward.com/magic/spells/leomunds-tiny-hut/),[detect curses](http://azgaarnoth.tedneward.com/magic/spells/detect-curses/),[rarys telepathic bond](http://azgaarnoth.tedneward.com/magic/spells/rarys-telepathic-bond/)
+>***Wizard Spellcasting (Int, at level 20. Recharges on long rest).*** 5 cantrips known. 24 spells prepared. **Spell save DC: 19**, **Spell attack bonus: +11**
 >
 >* *Cantrips:* 
 >* *1st (4 slots):* 
@@ -55,27 +64,32 @@
 >* *8th (1 slots):* 
 >* *9th (1 slots):* 
 >
->***Shadow-Touched Spellcasting (Cha. Recharges on long rest).*** **Spell save DC: 19**, **Spell attack bonus: +11**
+>#### Reactions
+>***Mark of Blood.*** When an attack scores a critical hit against a living creature within 10 feet, you spend 1 blood point. Until the end of your next turn, you gain advantage on attack rolls against the creature.
 >
->* *1/day:* [darkness](http://azgaarnoth.tedneward.com/magic/spells/darkness/),[CHOOSE-1st-level-Illusion-or-Necromancy](http://azgaarnoth.tedneward.com/magic/spells/CHOOSE-1st-level-Illusion-or-Necromancy/)
+>***War Caster: Opportunity Cast.*** When a hostile creature's movement provokes an opportunity attack from you, you can cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature. This does not count against your ability to cast a spell during your turn.
 >
 >
 >#### Bonus Actions
->***Font of Magic: Convert.*** You expend one spell slot and gain a number of sorcery points equal to the slot's level.
+>***Blood Magic.*** You call upon the power of blood by either inflicting a minor (expend 1 hit die, gain 2 blood points) or severe wound (expend 2 hit dice, gain 4 blood points) upon yourself or upon a willing creature within 5 feet of you. Charmed creatures will always be willing, and the expenditure of hit dice does not count as damage or an attack for purposes of ending the charmed effect.
 >
->***Font of Magic: Create.*** You expend sorcery points to create a spell slot. 2 points creates a 1st-level slot, 3 creates a 2nd, 5 creates a 3rd, 6 creates a 4th, and 7 points creates a 5th-level slot.
+>***Blood Magic: Blood Agony.*** When you hit a creature with a melee or spell attack, you expend 1 or more blood points to deal psychic damage to the target, in addition to the damage of the attack. The extra damage is 1d8 for 1 blood point, plus 1d8 for each additional blood point, to a maximum of 5d8.
 >
->***Maintain Forceful Concentration.*** You expend sorcery points equal to the spell level of the highest-level spell you're concentrating on. If you are unable to pay this cost (or if you choose not to), you instead choose one spell to end.
+>***Blood Magic: Blood Sense.*** Expend 1 blood point as an action to focus your awareness upon the immediate area to reveal the presence of living creatures. Until the end of your next turn, you know the location of any beast, giant, or humanoid, within 60 feet that is not behind total cover. You know the type of any being whose presence you sense, but not the identity of the creature.
+>
+>***Blood Magic: Fortitude of Blood (2/Recharges on short or long rest).*** Expend 1 blood point as a bonus action to gain a +{npc.INTbonus()} bonus to Constitution saving throws, which lasts for 1 minute. You can invoke this ritual twice. Afterward, you cannot perform it again until you finish a short or long rest.
+>
+>***Soul Burn.*** Expend one or more blood points to create one spell slot. For each blood point you expend, roll 1d6: 7-9 1st; 10-16 2nd; 17-20 3rd; 21-23 4th; 24+ 5th.
 >
 >
 >#### Equipment
->Light crossbow and 20 bolts OR any simple weapon
+>Quarterstaff OR dagger
 >
->Component pouch OR an arcane focus
+>Component pouch OR Arcane focus
 >
->Dungeoneer's pack, or explorer's pack
+>Scholar's pack OR Explorer's pack
 >
->Two daggers
+>***Spellbook.*** When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a level for which you have spell slots; the process takes 2 hours and costs 50 gp per level of spell.Once you have spent this time and money, you can prepare the spell just like your other spells. Copying a spell from your spellbook into another spellbook costs half this amount (in time and gold), since you know it already.
 >
 >***Magic Item: Uncommon Permanent.***
 >
@@ -91,33 +105,31 @@
 >
 
 #### Description
-***Ideals:*** *Aspiration/No limits/Redemption.*
+***Ideals:*** *Live and let live/Community/Nation.*
 
-***Motivation:*** *Changing the world.*
+***Motivation:*** *Enacting revenge.*
 
-***Appearance:*** *Adult*, *Nervous eye twitch.*
+***Appearance:*** *Young adult*, *Missing fingers.*
 
-***Talents:*** *Expert juggler.*
+***Talents:*** *Unremarkable, can hide in plain sight.*
 
-***Mannerisms:*** *Frequently uses the wrong word.*
+***Mannerisms:*** *Fidgets all the time.*
 
-***Interactions (with others):*** *Impatient*.
+***Interactions (with others):*** *Scared*.
 
-***Bond:*** *Out for revenge.*
+***Bond:*** *Protective of a valuable possession.*
 
-***Secret:*** *Hates their family.*
+***Secret:*** *Committed a crime no one knows about.*
 
-***Flaw:*** *Always late.*
+***Flaw:*** *Envies another creature's possessions or station.*
 
-***Race: Dragonborn.*** Born of dragons, as their name proclaims, the dragonborn walk proudly through a world that greets them with fearful incomprehension. Shaped by draconic gods or the dragons themselves, dragonborn originally hatched from dragon eggs as a unique race, combining the best attributes of dragons and humanoids. Some dragonborn are faithful servants to true dragons, others form the ranks of soldiers in great wars, and still others find themselves adrift, with no clear calling in life.
+***Race: Bugbear.*** Bugbears were the lazy bullies of the Hordes, and the rest of Azgaarnoth is grateful that these physical specimens of might have generally chosen the easiest path rather than seek to assert themselves collectively as a race. The only members of the Hordes that might have challenged the minotaurs for primacy over the Hordes, bugbears instead chose to focus on their own indolence rather than leadership and control, and the average bugbear continues that tradition to this day.
 
-***Steel Dragonborn.***
+***Class: Wizard.*** Wizards are supreme magic-users, defined and united as a class by the spells they cast. Drawing on the subtle weave of magic that permeates the cosmos, wizards cast spells of explosive fire, arcing lightning, subtle deception, brute-force mind control, and much more.
 
-***Class: Sorcerer.*** Sorcerers carry a magical birthright conferred upon them by an exotic bloodline, some otherworldly influence, or exposure to unknown cosmic forces. No one chooses sorcery; the power chooses the sorcerer.
+***Arcane Tradition: Bloodmancer.*** Blood mages learn to heighten their spellcraft by uniting the power of blood and arcane might. Blood is life, and wizards that travel this path of magic view the sanguine fluid flowing through their veins--and others' veins--as a wellspring of arcane power.
 
-***Sorcerous Origin: Arcane Legacy.*** You have inherited an aptitude for magic which you later learned to control. This usually means you are part of a long line of powerful mages, but it's also possible that your inborn talent is the first in your family.
-
-***Feat: Shadow-Touched.*** You learn how to bend shadows from your experience with the Shadowfell.
+***Feat: War Caster.*** You have practiced casting spells in the midst of combat, learning useful techniques.
 
 
 

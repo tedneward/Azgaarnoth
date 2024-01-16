@@ -1,5 +1,5 @@
 #### Sanguine Wave 
-*1st-level necromancy* (Sorcerer, Warlock, Wizard)
+*1st-level necromancy* *(blood)* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action 
 - **Range:**60 feet 
@@ -11,5 +11,3 @@ Choose either yourself, a willing creature within range that has less than half 
 A wave of crimson energy surges out from the target. Each creature other than the target within 5 feet of the target must make a Constitution saving throw, taking 2d8 necrotic damage on a failed save, or half as much damage on a successful one. 
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
-
-This is a Blood spell.

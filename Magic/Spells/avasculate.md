@@ -1,5 +1,5 @@
 #### Avasculate
-*7th-level necromancy* (Pale Master,Sorcerer,Warlock,Wizard)
+*7th-level necromancy* *(blood)* (Pale Master,Sorcerer,Warlock,Wizard)
 ___
 - **Casting Time:** 1 action
 - **Range:** 90 feet

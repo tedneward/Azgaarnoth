@@ -1,5 +1,5 @@
 #### Grim Terror
-*5th-level necromancy* (Sorcerer, Warlock, Wizard)
+*5th-level necromancy* *(blood)* (Sorcerer, Warlock, Wizard)
 ___
 - **Casting Time:** 1 action 
 - **Range:**Self (30 feet) 
@@ -13,5 +13,3 @@ While a creature is frightened by the spelL it is inca­pacitated, it can't move
 The spell fails if you don't have blood. If you have less than half of your hit points remaining, you can choose to have the spell extend out to 45 feet instead of 30 feet. 
 
 This spell has no effect on constructs and undead.
-
-This is a Blood spell.

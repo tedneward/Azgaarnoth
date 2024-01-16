@@ -14,5 +14,5 @@ Until the spell ends, the target undergoes the following changes:
 * Is Intelligence and Wisdom are reduced to 5;
 * It has disadvantage on Charisma (Performance or Persuasion) checks;
 * Its nails become thick claws, allowing it to deal 1d8 slashing damage with unarmed strikes instead of the normal damage; * The target must drop any melee or ranged weapon in favor of its new claws;
-* It gains +10 to its speed
+* It gains +10 to its preferred speed;
 * The target's posture becomes noticeably hunched, and its hair becomes thick and coarse.

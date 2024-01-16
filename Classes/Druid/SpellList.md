@@ -191,7 +191,7 @@
 * [Zen Archery](../../Magic/Spells/zen-archery.md)
  
 ## 2nd-Level Spells
-* [Action Trance](../../Magic/Spells/action-trance.md)
+* [Action Trance](../../Magic/Spells/action-trance.md) *psionic*
 * [Air Bubble](../../Magic/Spells/air-bubble.md)
 * [Alicorn Lance](../../Magic/Spells/alicorn-lance.md)
 * [Allied Footsteps](../../Magic/Spells/allied-footsteps.md)
@@ -410,7 +410,7 @@
 * [Wings of Wind](../../Magic/Spells/wings-of-wind.md)
  
 ## 4th-Level Spells
-* [Agonize](../../Magic/Spells/agonize.md)
+* [Agonize](../../Magic/Spells/agonize.md) *blood*
 * [Bertin's Ball Lightning](../../Magic/Spells/bertins-ball-lightning.md)
 * [Blight](../../Magic/Spells/blight.md)
 * [Breath of the Elements](../../Magic/Spells/breath-of-the-elements.md) *ritual*
@@ -571,7 +571,7 @@
 * [Acidic Armor](../../Magic/Spells/acidic-armor.md)
 * [Anger of the Noonday Sun](../../Magic/Spells/anger-of-the-noonday-sun.md)
 * [Blizzard](../../Magic/Spells/blizzard.md)
-* [Blood Fever](../../Magic/Spells/blood-fever.md)
+* [Blood Fever](../../Magic/Spells/blood-fever.md) *blood*
 * [Bones of the Earth](../../Magic/Spells/bones-of-the-earth.md)
 * [Cloudwalkers](../../Magic/Spells/cloudwalkers.md)
 * [Cometfall](../../Magic/Spells/cometfall.md)
@@ -593,7 +593,7 @@
 * [Howling Void](../../Magic/Spells/howling-void.md)
 * [Ice Wave](../../Magic/Spells/ice-wave.md)
 * [Inevitable Winter](../../Magic/Spells/inevitable-winter.md)
-* [Investiture of Blood](../../Magic/Spells/investiture-of-blood.md)
+* [Investiture of Blood](../../Magic/Spells/investiture-of-blood.md) *blood*
 * [Investiture of Flame](../../Magic/Spells/investiture-of-flame.md)
 * [Investiture of Ice](../../Magic/Spells/investiture-of-ice.md)
 * [Investiture of Stone](../../Magic/Spells/investiture-of-stone.md)
@@ -641,7 +641,7 @@
 * [Ice Cave](../../Magic/Spells/ice-cave.md)
 * [Inevitability of the Grave](../../Magic/Spells/inevitability-of-the-grave.md)
 * [Living Burial](../../Magic/Spells/living-burial.md)
-* [Malady](../../Magic/Spells/malady.md)
+* [Malady](../../Magic/Spells/malady.md) *blood, brandish*
 * [Mantle of the Slime Lord](../../Magic/Spells/mantle-of-the-slime-lord.md)
 * [Mark of the Unfaithful](../../Magic/Spells/mark-of-the-unfaithful.md) *ritual*
 * [Mighty Roots](../../Magic/Spells/mighty-roots.md)
