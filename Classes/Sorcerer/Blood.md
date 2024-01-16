@@ -34,7 +34,6 @@ Additionally, you can use a bonus action to call upon the power of blood by eith
 Willing creatures can offer up their blood, so long as they are within 5 feet of you when you perform the bonus action. Charmed creatures will always be willing, and this effect does not count as "damage" or an "attack" for purposes of ending the charmed effect.
 
 ```
-def level1(npc):
     npc.defer(lambda npc: npc.bonusactions.append(f"***Blood Magic.*** You call upon the power of blood by either inflicting a minor (expend 1 hit die and 1d8 hit points, gain {'1 blood point' if npc.levels('Wizard') < 14 else '2 blood points'}) or severe wound (expend 2 hit dice and 2d8 hit points, gain {'2' if npc.levels('Wizard') < 14 else '4'} blood points) upon yourself or upon a willing creature within 5 feet of you. Charmed creatures will always be willing, and this effect does not count as damage or an attack for purposes of ending the charmed effect.") )
 ```
 

@@ -176,6 +176,9 @@ def replace(text, list, newtext):
 def randomlist(listofchoices):
     return listofchoices[random.randint(0, len(listofchoices)-1)]
 
+def randomint(beg, end):
+    return random.randint(beg, end)
+
 def dieroll(dpattern):
     (number, size) = dpattern.split("d")
     if number == '': number = 1
@@ -553,6 +556,7 @@ def loadmodule(filename, modulename=None):
             "Spellcasting": NPC.Spellcasting,
             "replace": replace,
             "random": randomlist,
+            "randomint": randomint,
             "dieroll": dieroll,
             "abilityscoreimprovement": abilityscoreimprovement,
             "min": min,
@@ -1378,7 +1382,7 @@ class NPC:
 
         linesep = ">___\n"
 
-        result  =  ">### Name\n"
+        result  = f">### {self.name}\n"
         result += f'>*{self.size} {self.gender} {getracesubstring()} {getclasssubstring()}, any alignment*\n'
         result += linesep
         result += f">- **Armor Class** {getarmorclass()}\n"

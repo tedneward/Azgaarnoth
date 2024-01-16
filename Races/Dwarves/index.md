@@ -55,7 +55,7 @@ Dwarves have a number of genetically-differentiated offshoots (subraces):
 * [Mark of Warding Dragonmark](Warding.md)
 
 ```
-def generate_name(npc, gender):
+def generate_name(npc):
     def generate_firstname():
         names = [
             'Alaron', 'Aldrek', 'Ardo',
@@ -76,7 +76,7 @@ def generate_name(npc, gender):
             'Thorin', 'Thordrik', 'Thorstyr', 'Thaladan', 'Tomir',
             'Valamar', 'Valdan',
         ]
-        return generate_name(names)
+        return generatemarkovname(names)
 
     def generate_lastname():
         # Dwarven lastnames are often two-parters
@@ -106,13 +106,13 @@ def generate_name(npc, gender):
         verbs = [
             'breaker','smiter','hewer','slasher','stealer'
         ]
-        if random.randint(0,1) == 0:
-            part1 = prenouns[random.randint(0, len(prenouns)-1)].capitalize()
-            part2 = postnouns[random.randint(0, len(postnouns)-1)]
+        if randomint(0,1) == 0:
+            part1 = random(prenouns).capitalize()
+            part2 = random(postnouns)
             return f"{part1}{part2}"
         else:
-            part1 = prenouns[random.randint(0, len(prenouns)-1)].capitalize()
-            part2 = verbs[random.randint(0, len(verbs)-1)]
+            part1 = random(prenouns).capitalize()
+            part2 = random(verbs)
             return f"{part1}{part2}"
     return f"{generate_firstname()} {generate_lastname()}"
 ```
