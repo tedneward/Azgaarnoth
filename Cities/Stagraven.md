@@ -1,9 +1,24 @@
-# Stagraven ([Liria](../Nations/Liria.md))
-*Population: 9,000 -- 40% human, 45% Firstborn, 15% Created*
-
-**Facilities:** Port, Citadel, Walled, Marketplace, Shantytown
+# Stagraven ()
+*(...province..., [Liria](../Nations/Liria.md))*
 
 Stagraven sits at an important juncture: the southern end of the Ravensound, and the southwestern point of the Daw Mountains, it also marks the southern "border" of the Ravenslands and the last point of civilization along the Ravensroad that (more or less) travels down the western coast of Liria before one crosses the Daws to get to Dawsilent.
+
+**Population:** 9,000  *(Humans: 40%, Firstborn: 45%, Created: 15%, Hordish: few)*
+
+**Docks.** Shiagan boasts a port for maritime shipping....
+
+**Citadel.** Shiagan retains a citadel for the upper ranks and guests, and much of the elite guard resides there.
+
+**Plaza.** Shiagan's city center boasts a large plaza, called **TODO**, which is a central place in the lives of many within the city.
+
+**Walls.**
+
+**Marketplace.**
+
+**Shantytown.**
+
+------
+
 
 ## Geography
 ![Stagraven and surrounds](Stagraven.jpeg)

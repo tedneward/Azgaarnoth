@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import argparse
 import os
 import random
 
@@ -8,16 +9,22 @@ def namegen(which):
         return options[random.randint(0, len(options)-1)]
     def replace(phrase):
         mappings = {
+            'Abstract' : abstracts,
             'Adjective' : adjectives,
+            'Animal' : animals,
+            'Arcane' : arcane,
             'Building' : buildings,
-            'College': colleges,
-            'Descriptor' : descriptors,
+            'College' : colleges,
+            'Feature' : features,
             'Geographical' : geographical,
-            'Instrument': instruments,
-            'Noun' : nouns,
+            'Guild' : guilds,
+            'Humanoid' : humanoids,
+            'Instrument' : instruments,
             'Location' : locations,
-            'Merchant' : merchants,
+            'Noun' : nouns,
+            'Numeric' : numeric,
             'Militant' : militants,
+            'Royalty' : royalty,
             '_Tavern' : taverns,
             'Weapon' : weapons
         }
@@ -33,6 +40,11 @@ def namegen(which):
 
         return phrase
 
+    abstracts = [
+        'Harmony', 'Light', 'Dark', 'Soul', 'Abyss', 'Star', 'Shadows', 
+        'Earth', 'Air', 'Fire', 'Water', 'Coil', 'Endless Night',
+        'Soul', 'Mind', 'Body', 'Sun', 'Moon', 'Winds',
+    ]
     adjectives = [ 
         'Red', 'Orange', 'Yellow', 'Green', 'Blue', 'Purple', 'Sanguine', 'Sepia', 'Ochre',
         'Puce', 'Navy', 'Maroon', 'Pink', 'Peach', 'Cyan', 'Violet', 'Brown', 'Black',
@@ -59,7 +71,19 @@ def namegen(which):
         'Shy', 'Golden', 'Frozen', 'Gracious', 'Hairy', 'Hoarse', 'Honest', 'Deceptive',
         'Limping', 'Lively', 'Lucky', 'Lean', 'Nefarious', 'Crazy'
     ]
-    descriptors = [ 
+    animals = [
+        'Rooster', 'Hound', 'Elk',  'Cat', 'Flounder', 'Whale', 'Pegasus', 'Mastiff', 
+        'Dog', 'Wolf', 'Fox', 'Puma', 'Cat', 'Lion', 'Tiger', 'Kitten', 'Ox', 'Cow',
+        'Sow', 'Bull', 'Calf', 'Horse', 'Stallion', 'Mare', 'Foal', 'Owl', 'Eagle',
+        'Falcon', 'Hawk', 'Raven', 'Crow', 'Gull', 'Fish', 'Whale', 'Shark', 'Octopus',
+        'Squid', 'Goat', 'Sheep', 'Ewe', 'Fly', 'Butterfly', 'Dragonfly', 'Beetle', 'Ant',
+        'Wasp', 'Termite', 'Louse', 'Worm', 'Lizard', 'Frog', 'Toad', 'Snake', 'Chameleon',
+        'Unicorn', 'Gryphon', 'Dragon', 'Wyvern', 'Roc', 'Clam', 'Oyster', 'Starfish', 'Slug',
+        'Snail', 'Mouse', 'Rat', 'Beaver', 'Marten', 'Mink', 'Otter', 'Seal', 'Manatee',
+        'Swallow', 'Drake', 'Monkey', 'Viper', 'Crane', 'Mantis', 'Bear', 
+        'Chipmunk', 'Squirrel', 'Gopher', 'Goose', 'Duck', 'Rat',
+    ]
+    arcane = [ 
         'Infinite', 'Miasmal', 'Nonesuch', 'Chthonic', 'Celestial', 'Spiral', 'Silver', 'Gold',
         'Crimson', 'Silent', 'Bronze', 'Colossal', 'Elemental', 'Gilded', 'Shimmering', 'Eldritch',
         'Immaculate', 'Fey', 'Astral', 'Chaos', 'Enduring', 'Everlasting', 'Mercury', 'Night', 
@@ -69,49 +93,64 @@ def namegen(which):
     ]
     buildings = [ 
         'Cylinder', 'Minaret', 'Monument', 'Pylon', 'Tower', 'Spire', 'Turret', 'Column', 
-        'Obelisk', 'Rock', 'Eye', 'Tome', 'Citadel', 'Fortress', 'Arch' ]
-    nouns = [ 
-        'Rooster', 'Hound', 'Elk',  'Cat', 'Guardian', 'Hunter', 'Troll', 'Sword', 'Shield',
-        'Bow', 'Hammer', 'Helm', 'Acrobat', 'Ghoul', 'Zombie', 'King', 'Pegasus', 'Mastiff', 
-        'Druid', 'Master', 'Mistress', 'Prince', 'Princess', 'Duke', 'Duchess', 'Baron', 'Baroness',
-        'Flounder', 'Whale', 'Elf', 'Dwarf', 'Halfling', 'Orc', 'Goblin', 'Bugbear', 'Giant',
-        'Dog', 'Wolf', 'Fox', 'Puma', 'Cat', 'Lion', 'Tiger', 'Kitten', 'Ox', 'Cow',
-        'Sow', 'Bull', 'Calf', 'Horse', 'Stallion', 'Mare', 'Foal', 'Owl', 'Eagle',
-        'Falcon', 'Hawk', 'Raven', 'Crow', 'Gull', 'Fish', 'Whale', 'Shark', 'Octopus',
-        'Squid', 'Goat', 'Sheep', 'Ewe', 'Fly', 'Butterfly', 'Dragonfly', 'Beetle', 'Ant',
-        'Wasp', 'Termite', 'Louse', 'Worm', 'Lizard', 'Frog', 'Toad', 'Snake', 'Chameleon',
-        'Unicorn', 'Gryphon', 'Dragon', 'Wyvern', 'Roc', 'Clam', 'Oyster', 'Starfish', 'Slug',
-        'Snail', 'Mouse', 'Rat', 'Beaver', 'Marten', 'Mink', 'Otter', 'Seal', 'Manatee',
-        'Minstrel', 'Brute', 'Strumpet', 'Helmet', 'Devil', 'Demon', 'Throne',
-        'Chipmunk', 'Squirrel', 'Gopher', 'Tower', 'Castle', 'Dagger', 'Sword', 'Bow',
-        'Arrow', 'Hat', 'Boot', 'Trophy', 'Goose', 'Duck', 'Boat', 'Ship', 'River', 'Falls', 
-        'Forest', 'Mountain', 'Vampire', 'Skeleton', 'Witch', 'Wench', 'Lady', 'Lord', 
-        'Blades', 'Knives', 'Star', 'Consortium', 'Syndicate', 'Cabal', 'Court',
-        'Swallow', 'Drake', 'Light', 'Soul', 'Mind', 'Body', 'Sun', 'Moon', 'Winds', 
-        'Shadows', 'Harmony', 'Monkey', 'Viper', 'Crane', 'Mantis', 'Bear', 'Element',
-        'Daggers', 'Gang', 'Boys', 'Hand', 'Coil', 'Alliance', 'Maggots', 'Rats',
-        'Knight', 'Page', 'Drunk', 'Shield', 'Wand', 'Helm', 'Flask', 'Flagon', 'Pint', 'Shot' ]
-    geographical = [ 
-        'Lirian', 'Whaveminsian', 'Tragekian', 'Yithian', "Zhian", 'Ravenian', 'Mighalian',
-        'Bedian', 'Tragekian', 
-        '' ]
-    locations = [ 
-        'Liria', 'Mighalia', 'Tragekia', 'Yithia', 'Zhi', 'Bedia', 'Mighal', 'Brinwal',
-        'Stagraven', 'Nacoal', 'Flakew', 
-        '' ]
-    merchants = [ 
-        'Compact', 'Company', 'Pact', 'Guild', 'Contract', 'Order', 'Alliance',
-        'Federation', 'College', 'League', 'Group', 'Lodge', 'Order', 'Society', 'Trade', 
-        'Union', 'Association', 'Club', 'Brotherhood', 'Confederation', 'Faction', 'Congress',
-        'Fellowship', 'Foundation', 'Fraternity', 'Sorority', 'Institute', 'Traders' ]
-    militants = [ 
-        'Dragoons', 'Knights', 'Myrmidons', 'Gladiators', 'Cavalry', 'Reavers', 'Scoundrels',
-        'Devils', 'Demons', 'Knights', 'Cavaliers', 'Warriors', 'Raptors', 'Guards', 'Highlanders',
-        'Marines', 'Infantry', 'Scouts', ''
+        'Obelisk', 'Rock', 'Eye', 'Tome', 'Citadel', 'Fortress', 'Arch', 'Castle', 'Keep',
+        'Outpost', 'Watchpost', 'Spire',
     ]
     colleges = [
         'College', 'University', 'School', 'Hall', 'Conservatory', 'Academy', 'Society', 'Institute',
         'Fraternity', 'Sorority', 'Lyceum', 'Study', 'Fellowship', 'Band', 'Body', 'Lodge'
+    ]
+    features = [
+        'Flower', 'Petal', 'Tree', 'Woods', 'Mountain', 'Falls', 'Swamp', 'Fens', 'Forest',
+        'River', 'Lake', 'Sea', 'Badlands', 'Grasslands', 'Cliffs', 'Hills',
+    ]
+    geographical = [ 
+        'Lirian', 'Whaveminsian', 'Tragekian', 'Yithian', "Zhian", 'Ravenian', 'Mighalian',
+        'Bedian', 'Tragekian', 'Northern', 'Eastern', 'Western', 'Southern']
+    guilds = [ 
+        'Compact', 'Company', 'Pact', 'Guild', 'Contract', 'Order', 'Alliance',
+        'Federation', 'College', 'League', 'Group', 'Lodge', 'Order', 'Society', 'Trade', 
+        'Union', 'Association', 'Club', 'Brotherhood', 'Confederation', 'Faction', 'Congress',
+        'Fellowship', 'Foundation', 'Fraternity', 'Sorority', 'Institute', 'Traders' 
+    ]
+    humanoids = [
+        'Druid', 'Cleric', 'Barbarian', 'Paladin', 'Sorcerer', 'Wizard', 'Warrior', 'Rogue',
+        'Guardian', 'Hunter', 'Acrobat', 'Minstrel', 'Hobgoblin', 'Triton', 'Mermaid', 'Merman',
+        'Witch', 'Wench', 'Warlock',
+        'Elf', 'Dwarf', 'Halfling', 'Orc', 'Goblin', 'Bugbear', 'Giant', 'Troll',
+        'Ghoul', 'Zombie', 'Devil', 'Demon', 'Vampire', 'Skeleton', 
+        'Minstrel','Strumpet','Wench','Matron','Innkeeper','Brute','Page','Drunk'
+    ]
+    instruments = [
+        'Flutes', 'Song', 'Players', 'Zithers', 'Drums', 'Lutes', 'Thespiates', 'Actors',
+        'Trumpets', 'Horns', 'Strings', 'Harpers', 'Bells', 'Cabasa', 'Claves', 'Cymbals',
+        'Gongs', 'Pipes', 'Quartet', 'Conch',
+    ]
+    locations = [ 
+        'Liria', 'Mighalia', 'Tragekia', 'Yithia', 'Zhi', 'Bedia', 'Mighal', 'Brinwal',
+        'Stagraven', 'Nacoal', 'Flakew', 
+    ]
+    militants = [ 
+        'Dragoons', 'Knights', 'Myrmidons', 'Gladiators', 'Cavalry', 'Reavers', 'Scoundrels',
+        'Devils', 'Demons', 'Knights', 'Cavaliers', 'Warriors', 'Raptors', 'Guards', 
+        'Highlanders', 'Marines', 'Infantry', 'Scouts', 'Blades', 'Squad', 'Platoon',
+        'Company', 'Battalion', 'Army', 'Legion', 'Ranks',
+    ]
+    nouns = [
+        'Cups','Plates','Flagon','Chalice','Spoon','Knife','Spice','Trough',
+        'Flask','Pint','Shot','Jug',
+
+        'Staff','Wand','Rod','Hat',
+
+        'Hat', 'Boot', 'Cloak', 'Robe',
+    ]
+    numeric = [
+        'Lone', 'Twin', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine', 'Ten',
+        'Dozen', 'Thirteen',
+    ]
+    royalty = [
+        'Emperor', 'Empress', 'King', 'Queen', 'Prince', 'Princess', 'Knight',
+        'Duke', 'Duchess', 'Baron', 'Baroness', 'Lord', 'Lady', 'Master', 'Mistress',
     ]
     taverns = [ 
         'Bar', 'Brew House', 'Beer House', 'Mead House', 'Ale House', 'Speakeasy', 'Pub', 
@@ -119,46 +158,79 @@ def namegen(which):
     weapons = [ 
         'Axe', 'Knife', 'Sword', 'Blade', 'Lance', 'Hatchet', 'Shield', 'Dagger', 'Rapier',
         'Saber', 'Scythe', 'Spit']
-    instruments = [
-        'Flute', 'Song', 'Players', 'Zither', 'Drum', 'Lute', 'Thespiates', 'Actors',
-        'Trumpet', 'Horn', 'Strings', 'Harpers', 'Bells', 'Cabasa', 'Claves', 'Cymbals',
-        'Gongs', 'Pipes', 'Quartet', 'Conch', ''
-    ]
 
     schemes = {
         'tavern' : [ 
-            'Adjective Noun', 'Adjective Noun _Tavern', 'The Adjective Noun', 
-            'The Adjective Noun _Tavern', 'Noun & Noun', 'Noun & Noun _Tavern',
-            'The Noun & Noun', 'The Noun & Noun _Tavern', 'Adjective _Tavern',
-            'The Adjective _Tavern' ],
+            'Animal & Animal',
+            'Noun & Animal',
+            'Animal & Noun',
+            'Noun & Noun',
+            'Humanoid & Animal',
+            'Animal & Humanoid',
+            'Noun & Humanoid',
+            'Humanoid & Noun',
+            'Adjective Animal',
+            'Adjective Noun',
+            'Adjective Humanoid',
+            'Adjective _Tavern',
+            'Royalty _Tavern',
+            'Adjective Royalty',
+            'Royalty Humanoid'
+        ],
         'bardiccollege': [
-            'Adjective Instrument', 'Descriptor Instrument', 'The Instrument & Instrument Merchant',
-            'The Location Instrument', 'Merchant of the Descriptor Instrument',
-            'Merchant of the Instrument', 'Merchant of the Adjective Instrument',
-            'Instrument College', 'Adjective Instrument College', 'Descriptor Instrument College',
-            'College of the Instrument', 'College of the Adjective Instrument',
+            'Adjective Instrument', 
+            'Descriptor Instrument', 
+            'The Instrument & Instrument Merchant',
+            'The Location Instrument', 
+            'Merchant of the Descriptor Instrument',
+            'Merchant of the Instrument', 
+            'Merchant of the Adjective Instrument',
+            'Instrument College', 
+            'Adjective Instrument College', 
+            'Descriptor Instrument College',
+            'College of the Instrument', 
+            'College of the Adjective Instrument',
             'College of the Descriptor Instrument'
         ],
         'duelingcollege': [
-            'Adjective Weapon College', 'Descriptor Weapon College',
-            'College of the Adjective Weapon', 'College of the Descriptor Weapon',
-            'College of the Weapon', 'College of the Adjective Descriptor Weapon'
+            'Adjective Weapon College', 
+            'Descriptor Weapon College',
+            'College of the Adjective Weapon', 
+            'College of the Descriptor Weapon',
+            'College of the Weapon', 
+            'College of the Adjective Descriptor Weapon'
         ],
+        'house': ['HOUSE'],
         'mageschool' : [
-            'Descriptor Building', 'Adjective Building', 'The Descriptor Building', 'The Adjective Building'
+            'Adjective Building', 
+            'Arcane Building', 
+            'Arcane Militant', 
         ],
         'mercenarycompany': [
-            'Location Militant', 'Weapon Militant', 'Location Weapon',
-            'Adjective Militant', 'Adjective Weapon'
+            'Adjective Weapon Company',
+            'Location Militant', 
+            'Location Weapon',
+            'Adjective Weapon Company',
+            'Weapon Militant', 
+            'Adjective Militant', 
+            'Adjective Weapon Company',
         ],
         'merchantguild' : [
-            'Geographical Merchant', 'Merchant of Location', 'The Geographical Merchant',
-            'Adjective Geographical Merchant', 'Adjective Merchant of Location', 'The Adjective Geographical Merchant',
-            'Descriptor Geographical Merchant', 'Descriptor Merchant of Location', 'The Descriptor Geographical Merchant',
+            'Geographical Merchant', 
+            'Merchant of Location', 
+            'Adjective Geographical Merchant', 
+            'Adjective Merchant of Location', 
+            'Descriptor Geographical Merchant', 
+            'Descriptor Merchant of Location', 
+            'The Descriptor Geographical Merchant',
         ],
         'monasticorder' : [
-            'Order of the Descriptor Noun', 'Order of the Adjective Noun', 'Order of the Descriptor Weapon',
-            'Order of the Adjective Weapon', 'Order of the Adjective Descriptor Weapon', 
+            'Order of the Arcane Abstract', 
+            'Order of the Adjective Noun', 
+            'Order of the Arcane Weapon',
+            'Order of the Adjective Weapon', 
+            'Order of the Adjective Abstract',
+            'Order of the Abstract Weapon',
         ],
         'roguesguild': [
             'Merchant of the Noun', 'Descriptor Noun', 'Merchant of the Descriptor Noun',
@@ -167,3 +239,27 @@ def namegen(which):
     }
 
     return replace(oneof(schemes[which]))
+
+def main():
+    namechoices = [
+         'tavern', 'bardiccollege', 'duelingcollege', 'house', 'mageschool',
+         'merchantguild', 'mercenarycompany', 'monasticorder', 'roguesguild'
+    ]
+    parser = argparse.ArgumentParser(
+                    prog='NameGen',
+                    description='A tool for generating random organization/business names',
+                    epilog='Written in Python with love')
+    parser.add_argument('--version', action='version', version='%(prog)s 0.1')
+    parser.add_argument('--name', choices=namechoices, help="What kind of name to generate")
+    parser.add_argument('--num', help='How many to generate')
+    args = parser.parse_args()
+
+    iterations = 1
+    if args.num != None:
+        iterations = int(args.num)
+    which = args.name
+    for _ in range(iterations):
+        print(namegen(which))
+
+if __name__ == '__main__':
+	main()

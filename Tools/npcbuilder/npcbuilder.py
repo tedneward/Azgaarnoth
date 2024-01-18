@@ -1125,9 +1125,51 @@ class NPC:
         
         def genage():
             ages = [
-                "Child", "Teenager", "Young adult", "Adult", "Middle-aged", "Old adult", "Elderly"
+                "Adolescent", "Young adult", "Adult", "Middle-aged", "Old", "Elderly"
             ]
-            return ages[random.randint(0, len(ages) -1)]
+            age = dieroll('1d4 + 1')
+            if self.levels() < 5:
+                age -= 1
+            elif self.levels() > 10:
+                age += 1
+            if age < 0: age = 0
+            if age > len(ages): age = len(ages) - 1
+            return ages[age]
+
+        def genlifepath():
+            
+
+            age = genage()
+            events = 0
+            if age == 'Adolescent': events = dieroll('1d4') 
+            elif age == 'Young adult': events = dieroll('1d6') 
+            elif age == 'Adult': events = dieroll('2d4') 
+            elif age == 'Middle-aged': events = dieroll('2d6') 
+            elif age == 'Old': events = dieroll('2d8') 
+            elif age == 'Elderly': events = dieroll('3d8')
+            while events > 0:
+                events -= 1
+                event = dieroll('1d10')
+                if event == 1:
+                    print("Nemesis event!")
+                elif event == 2:
+                    print("Mentor event!")
+                elif event == 3:
+                    print("Event!")
+                elif event == 4:
+                    print("Notoriety event!")
+                elif event == 5:
+                    print("Romance event!")
+                elif event == 6:
+                    print("Possessions event!")
+                elif event == 7:
+                    print("Revelations event!")
+                elif event == 8:
+                    print("Political event!")
+                elif event == 9:
+                    print("Creations event!")
+                elif event == 10:
+                    print("Friends event!")
         
         def genappearance():
             features = [
@@ -1441,7 +1483,7 @@ class NPC:
         result += "\n#### Description\n"
         result += f"***Ideals:*** *{genideal()}/{genideal()}/{genideal()}.*\n\n"
         result += f"***Motivation:*** *{genmotivation()}.*\n\n"
-        result += f"***Appearance:*** *{genage()}*, *{genappearance()}.*\n\n"
+        result += f"***Appearance:*** *{genage(self)}*, *{genappearance()}.*\n\n"
         result += f"***Talents:*** *{gentalent()}.*\n\n"
         result += f"***Mannerisms:*** *{genmannerism()}.*\n\n"
         result += f"***Interactions (with others):*** *{geninteractions()}*.\n\n"
