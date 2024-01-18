@@ -6,6 +6,32 @@ name = 'Arcane Legacy'
 description = "***Sorcerous Origin: Arcane Legacy.*** You have inherited an aptitude for magic which you later learned to control. This usually means you are part of a long line of powerful mages, but it's also possible that your inborn talent is the first in your family."
 ```
 
+## Legacy Magic
+Most sorcerers' magic is simplistic and raw, but yours carries the echoes of great practitioners of the past. Even though you haven't studied enough to master ritual casting, you nevertheless have a knack for some of those spells.
+
+You learn extra spells at certain levels, as shown in the Legacy Spells chart below. These spells count as sorcerer spells for you, and do not count against your total number of spells known. Additionally, whenever you cast a spell you know that has the ritual tag, you can choose to expend 1 sorcery point instead of a spell slot.
+
+**Legacy Spells**
+Sorcerer Level|Spell
+--------------|-----
+1st|[alienated mind](../../Magic/Spells/alienated-mind.md), [cooperative channeling](../../Magic/Spells/cooperative-channeling.md)
+3rd|[arcane transference](../../Magic/Spells/arcane-transference.md), [disperse reserves](../../Magic/Spells/disperse-reserves.md)
+5th|[Leomund's tiny hut](../../Magic/Spells/leomunds-tiny-hut.md), [life transference](../../Magic/Spells/life-transference.md)
+7th|[detect curses](../../Magic/Spells/detect-curses.md)
+9th|[Rary's mnemonic enhancer](../../Magic/Spells/rarys-mnemonic-enhancer.md)
+
+```
+bonusspells = {
+    1: ['cooperative channeling', 'alienated mind']
+    3: ['arcane transference', 'disperse reserves']
+    5: ['leomunds tiny hut', 'life transference']
+    7: ['detect curses']
+    9: ['rarys mnemonic enhancer']
+}
+```
+
+> **GM's Note:** Alternatively, allow the player to choose a non-sorcerer spell of their choice from the wizard's spell list, so long as all the spells chosen follow a player-defined theme.
+
 ## Arcane Awareness
 *1st-level Arcane Legacy feature*
 
@@ -15,36 +41,6 @@ The arcane power which suffuses your being makes you sensitive to the magic in y
 def level1(npc):
     npc.spellcasting['Sorcerer'].spellsalwaysprepared.append('detect magic')
     npc.spellcasting['Sorcerer'].spellsalwaysprepared.append('identify')
-```
-
-## Legacy Magic
-*1st-level Arcane Legacy feature*
-
-Most sorcerers' magic is simplistic and raw, but yours carries the echoes of great practitioners of the past. Even though you haven't studied enough to master ritual casting, you nevertheless have a knack for some of those spells.
-
-You learn extra spells at certain levels, as shown in the Legacy Spells chart below. These spells count as sorcerer spells for you, and do not count against your total number of spells known. Additionally, whenever you cast a spell you know that has the ritual tag, you can choose to expend 1 sorcery point instead of a spell slot.
-
-**Legacy Spells**
-Sorcerer Level|Spell
---------------|-----
-1st|[find familiar](../../Magic/Spells/find-familiar.md)
-3rd|[silence](../../Magic/Spells/arcane-transference.md)
-5th|[Leomund's tiny hut](../../Magic/Spells/leomunds-tiny-hut.md)
-7th|[detect curses](../../Magic/Spells/detect-curses.md)
-9th|[Rary's mnemonic enhancer](../../Magic/Spells/rarys-mnemonic-enhancer.md)
-
-> **GM's Note:** Alternatively, allow the player to choose a non-sorcerer spell of their choice from the wizard's spell list, so long as all the spells chosen follow a player-defined theme.
-
-```
-    def legacyspells(npc):
-        level = npc.levels('Sorcerer')
-        spellcasting = npc.spellcasting['Sorcerer']
-        spellcasting.spellsalwaysprepared.append('find familiar')
-        if level >= 3: spellcasting.spellsalwaysprepared.append('arcane transference')
-        if level >= 5: spellcasting.spellsalwaysprepared.append('leomunds tiny hut')
-        if level >= 7: spellcasting.spellsalwaysprepared.append('detect curses')
-        if level >= 9: spellcasting.spellsalwaysprepared.append('rarys telepathic bond')
-    npc.defer(lambda npc: legacyspells(npc))
 ```
 
 ## Magical Knack

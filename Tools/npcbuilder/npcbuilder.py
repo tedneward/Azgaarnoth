@@ -12,7 +12,7 @@ import types
 # process. In essence, this is a flavor of "literate programming".
 
 quiet = False
-verbose = False
+verbose = True
 scripted = False
 SAVEPY = os.getenv('SAVE_PY')
 

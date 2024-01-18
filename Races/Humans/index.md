@@ -50,17 +50,35 @@ Humans may be [dragonmarked](Dragonmarked.md) with the [Mark of Handling](Handli
 
 ```
 # From https://www.roll4.net/generators/dd-name-generators/dnd-human-name-generator
-def generate_name(npc, gender):
+def generate_name(npc):
+    male_firstnames = [
+        'Alden', 'Alec', 'Anton', 'Arden', 'Arlen', 'Armand', 'Arron', 'Augustus', 'Avery', 'Benedict', 'Bennett', 'Branden', 'Brendon', 'Britt', 'Broderick', 'Carter', 'Chadwick', 'Chas', 'Chet', 'Colby', 'Cole', 'Cordell', 'Dalton', 'Damien', 'Dante', 'Darell', 'Darius', 'Darron', 'Darwin', 'Dewitt', 'Diego', 'Dillon', 'Dirk', 'Domenic', 'Donovan', 'Dorian', 'Dorsey', 'Edison', 'Elden', 'Elvin', 'Erich', 'Galen', 'Garret', 'Gaston', 'Gavin', 'German', 'Graham', 'Hal', 'Hank', 'Harlan', 'Hayden', 'Herschel', 'Hoyt', 'Hunter', 'Isaias', 'Issac', 'Jacinto', 'Jarred', 'Jonas', 'Kendrick', 'Keneth', 'Kennith', 'Keven', 'Leif', 'Lenard', 'Lincoln', 'Linwood', 'Lucius', 'Lynwood', 'Malcolm', 'Malik', 'Maxwell', 'McKinley', 'Merlin', 'Merrill', 'Michal', 'Monty', 'Newton', 'Nolan', 'Porter', 'Quinton', 'Raphael', 'Reid', 'Rory', 'Scotty', 'Shad', 'Stanton', 'Stefan', 'Thaddeus', 'Tobias', 'Trenton', 'Vance', 'Walker', 'Walton', 'Weldon', 'Wes', 'Weston', 'Willian', 'Winford', 'Wyatt', 'Tayler', 'Xaris', 'Ulan', 'Permilan', 'Caseer', 'Camen', 'Adler', 'Arker', 'Yaelan', 'Pert', 'Quincy', 'Junter', 'Jonald'
+    ]
+
     female_firstnames = [
         'Ustice','Ey','Pari','Cora','Ulia','Lla','La','Hali','Zoe','Jeanor','Ypri',
         'Charle','Zie','Ker','Xaris','Ta','Premila'
     ]
-    male_firstnames = [
-        'Pert','Quincy','Son','Junter','Jonald','Ver','Xan','Eonald','Oinn','Hannon',
-        'Isdel','Del','Yer','Ylis','Yaelan','Arker','Wan','Adler','Camen','Caseer',
-        'Premilan','Ulan','Xaris','Tayler','Lyn'
-    ]
     
+    # Human last names are often two-parters
+    nounparts = [
+        'strong','steady', 'barren','dizzy','drift',
+        'plate','steel','noble','dark','bristle',
+        'sword','spear','axe','hammer',
+        'wolf','bear','tiger','rat','troll','dragon','wraith',
+        'eagle','raven','hawk','hen','drake','orc','goblin','kobold',
+        'brown','gray','green','black','red',
+        'wooden','oaken','ivy','hard',
+        'fire','earth','air','water','lightning','thunder','psychic',
+        'ice','snow','storm','lava','ash',
+        'twilight','grumble','dusk',
+    ]
+    verbs = [
+        'basher','bender','brander','breaker','brewer','buster',
+        'digger','screamer', 'striker', 'crawler', 'seeker','binder','chaser',
+        'shaper','slasher','smiter','speaker','stealer','sunder',
+    ]
+
     last_names = [
         'We','Ynn','Mpson','Va','Wang','Aross','Barrin','Yncano','Guerre','Krajas',
         'Ser','Guerra','An','Pez','Pruz','Ussen','Corte','Ton','Ubbott','Na','Gers',
@@ -71,5 +89,5 @@ def generate_name(npc, gender):
         'Cranepunch','Wolfguts'
     ]
 
-    return (random(female_firstnames) if gender == 'female' else random(male_firstnames)) + random(last_names) 
+    return (random(female_firstnames) if npc.gender == 'Female' else random(male_firstnames)) + random(last_names)
 ```
