@@ -6,19 +6,7 @@ name = 'Aberrant Mind'
 description = "***Sorcerous Origin: Aberrant Mind.*** An alien influence has wrapped its tendrils around you, warping you in both body and mind. Perhaps a psychic splinter lodged in your psyche after you suffered domination by an aboleth. Maybe you were born somewhere tainted by the Far Realm, a planar blot that changed you forever. Or perhaps mind flayers kidnapped you, subjecting you to the nightmarish process of ceremorphosis---but the transformation failed and left you altered."
 ```
 
-## Invasive Thoughts
-*1st-level Aberrant Mind feature*
-
-You gain the ability to use a bonus action to magically create a telepathic link with one creature you can see within 30 feet of you. Until the link ends, you can telepathically speak to the target through the link, and if it understands at least one language, it can speak telepathically to you. The link lasts for 10 minutes, and it ends early if you are incapacitated or die, or if you use another bonus action to break the link or to establish this link with a different creature.
-
-```
-def level1(npc):
-    npc.bonusactions.append("***Invasive Thoughts.*** You create a telepathic link with one creature you can see within 30 feet of you. Until the link ends, you can telepathically speak to the target through the link, and if it understands at least one language, it can speak telepathically to you. The link lasts for 10 minutes, and it ends early if you are incapacitated or die, or if you use another bonus action to break the link or to establish this link with a different creature.")
-```
-
 ## Psionic Spells
-*1st-level Aberrant Mind feature*
-
 Your aberrant nature changes your mind in subtle but profound ways. You learn additional spells when you reach certain levels in this class, as shown on the Psionic Spells table. The spell counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know. These spells can't be replaced when you gain a level in this class.
 
 **Psionic Spells**
@@ -31,25 +19,23 @@ Sorcerer Level | Spells
 9th | modify memory, Rary's telepathic bond
 
 ```
-    def psionicspells(npc):
-        level = npc.levels('Sorcerer')
-        spellcasting = npc.spellcasting['Sorcerer']
-        spellcasting.spellsalwaysprepared.append('arms of hadar')
-        spellcasting.spellsalwaysprepared.append('dissonant whispers')
-        if level > 2:
-            spellcasting.spellsalwaysprepared.append('calm emotions')
-            spellcasting.spellsalwaysprepared.append('detect thoughts')
-        if level > 4:
-            spellcasting.spellsalwaysprepared.append('hunger of hadar')
-            spellcasting.spellsalwaysprepared.append('sending')
-        if level > 6:
-            spellcasting.spellsalwaysprepared.append('compulsion')
-            spellcasting.spellsalwaysprepared.append('evards black tentacles')
-        if level > 8:
-            spellcasting.spellsalwaysprepared.append('modify memory')
-            spellcasting.spellsalwaysprepared.append('rarys telepathic bond')
+bonusspells = {
+    1: ['arms of hadar', 'dissonant whispers'],
+    3: ['calm emotions', 'detect thoughts'],
+    5: ['hunger of hadar', 'sending'],
+    7: ['compulsion', 'evards black tentacles'],
+    9: ['modify memory', 'rarys telepathic bond']
+}
+```
 
-    npc.defer(lambda npc: psionicspells(npc) )
+## Invasive Thoughts
+*1st-level Aberrant Mind feature*
+
+You gain the ability to use a bonus action to magically create a telepathic link with one creature you can see within 30 feet of you. Until the link ends, you can telepathically speak to the target through the link, and if it understands at least one language, it can speak telepathically to you. The link lasts for 10 minutes, and it ends early if you are incapacitated or die, or if you use another bonus action to break the link or to establish this link with a different creature.
+
+```
+def level1(npc):
+    npc.bonusactions.append("***Invasive Thoughts.*** You create a telepathic link with one creature you can see within 30 feet of you. Until the link ends, you can telepathically speak to the target through the link, and if it understands at least one language, it can speak telepathically to you. The link lasts for 10 minutes, and it ends early if you are incapacitated or die, or if you use another bonus action to break the link or to establish this link with a different creature.")
 ```
 
 ## Warped Being

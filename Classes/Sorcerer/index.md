@@ -176,6 +176,23 @@ Your choice grants you features when you choose it at 1st level and again at 6th
     (_, subclass) = choose("Choose a Sorcerous Origin:", subclasses)
     npc.subclasses[allclasses['Sorcerer']] = subclass
     npc.description.append(subclass.description)
+
+    # Sorcerous subclasses often have bonus spells
+    if getattr(subclass, 'bonusspells', None) != None:
+        def generatebonusspellslist(npc):
+            bonusspells = npc.subclasses[allclasses['Sorcerer']].bonusspells
+            bonusspellslist = []
+            if npc.levels('Sorcerer') >= 1: bonusspellslist.extend(bonusspells[1])
+            if npc.levels('Sorcerer') >= 3: bonusspellslist.extend(bonusspells[3])
+            if npc.levels('Sorcerer') >= 5: bonusspellslist.extend(bonusspells[5])
+            if npc.levels('Sorcerer') >= 7: bonusspellslist.extend(bonusspells[7])
+            if npc.levels('Sorcerer') >= 9: bonusspellslist.extend(bonusspells[9])
+
+            spellcasting = npc.spellcasting['Sorcerer']
+            spellcasting.spellsalwaysprepared.extend(bonusspellslist)
+
+            npc.traits.append(f"***Bonus Spells.*** The following spells do not count against your list of known spells and are always known to you: {",".join(bonusspellslist)}.")
+        npc.defer(lambda npc: generatebonusspellslist(npc))
 ```
 
 ## Font of Magic

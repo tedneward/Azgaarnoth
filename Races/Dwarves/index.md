@@ -55,64 +55,86 @@ Dwarves have a number of genetically-differentiated offshoots (subraces):
 * [Mark of Warding Dragonmark](Warding.md)
 
 ```
-def generate_name(npc, gender):
+def generate_name(npc):
     def generate_firstname():
         names = [
-            'Alaron', 'Aldrek', 'Ardo',
-            'Barazak', 'Balur', 'Bombur', 'Bofur', 'Bnar',
-            'Chakrir', 'Carnir', 'Cadmael',
-            'Dendirsyr', 'Dorn', 'Dophensus',
-            'Erwid', 'Erli', 'Ednir',
-            'Farsben', 'Fili', 'Fordreth', 'Fenzig',
-            'Gadaric', 'Gimli', 'Graflyn', 'Gunder', 'Goltan', 'Grimn', 'Grisbane',
-            'Haldrik', 'Heimoc', 'Helsbid', 'Helwright', 'Hoskuld',
-            'Kalhor', 'Karsten', 'Kenth', 'Kili', 'Kulderik', 'Kellan', 'Kardnyr', 'Krael',
-            'Kall',
-            'Lornir', 'Lorik', 'Laron',
-            'Maarik', 'Meli', 'Mostyr',
-            'Nomir',
-            'Ostrin',
-            'Ryonn',
-            'Thorin', 'Thordrik', 'Thorstyr', 'Thaladan', 'Tomir',
-            'Valamar', 'Valdan',
+            'Alaron','Aldrek','Ardo','Alrik','Aradun',
+            'Barazak','Balur','Bombur','Bofur','Bnar','Balin','Belegar',
+            'Belnar','Bron','Bruvaen','Bomvaen','Belvaen','Buzim','Bhaggon',
+            'Chakrir','Carnir','Cadmael',
+            'Dendirsyr','Dorn','Dophensus','Dondar','Durin',
+            'Dwosdrem','Dalolomi','Dalordarlig',
+            'Erwid','Erli','Ednir','Erzig','Etrek','Eldotir',
+            'Farsben','Fili','Fordreth','Fenzig','Fovratir','Fomdomlir',
+            'Gadaric','Gimli','Graflyn','Gunder','Goltan','Grimn','Grisbane',
+            'Garrim','Gimlet','Gotrek','Gardril','Gloritratin',
+            'Haldrik','Heimoc','Helsbid','Helwright','Hoskuld','Harrim',
+            'Kalhor','Karsten','Kenth','Kili','Kulderik','Kellan','Kardnyr','Krael',
+            'Kall','Kazdun','Kurgan','Korfat','Kukgruth',
+            'Jazzorlum',
+            'Lornir','Lorik','Laron',
+            'Maarik','Meli','Mostyr','Malakai',
+            'Nomir','Nozrik','Nallet','Nalak','Noratraek','Noghon',
+            'Ostrin','Ori','Ossorlum','Ozerlun',
+            'Ryonn','Romir','Renzig','Roskrim',
+            'Snafrorlig','Snaveth',
+            'Thorin','Thordrik','Thorstyr','Thaladan','Tomir','Thudrick','Thrain',
+            'Umgrim',
+            'Valamar','Valdan','Varric',
+            'Yodgrid','Yanmoir',
+            'Zorken'
         ]
-        return generate_name(names)
+        name = generatemarkovname(names)
+        if npc.gender == 'Female': name += random(['a','e','o','u'])
+        return name
 
     def generate_lastname():
         # Dwarven lastnames are often two-parters
         prenouns = [
-            'strong', 'steady', 'barren',
-            'mountain','hill','cliff','range','mine','crag','storm','root',
-            'sword', 'spear', 'axe', 'hammer',
-            'two', 'three', 'four',
-            'shaft', 'haft',
-            'wolf', 'bear', 'tiger', 'rat', 'troll', 'dragon',
-            'eagle','raven','hawk','hen',
-            'brown', 'gray', 'green', 'black', 'red',
-            'coal', 'shale', 'iron', 'oak', 'steel', 'gravel',
-            'wooden','oaken','ivy',
+            'strong','steady', 'barren','dizzy','drift',
+            'mountain','hill','cliff','range','mine','crag','root',
+            'granite','plate','steel',
+            'heavy','light','noble','dark','bristle',
+            'sword','spear','axe','hammer',
+            'two','three','four',
+            'shaft','haft','bottle',
+            'keg','barrel','crate',
+            'wolf','bear','tiger','rat','troll','dragon','wraith',
+            'eagle','raven','hawk','hen','drake','orc','goblin','kobold',
+            'brown','gray','green','black','red',
+            'coal','shale','iron','oak','steel','gravel','beryl','garnet',
+            'amethyst','crystal','topaz','diamond','gold','silver','copper',
+            'wooden','oaken','ivy','hard','flint',
             'fire','earth','air','water','lightning','thunder','psychic',
+            'ice','snow','storm','lava','ash',
+            'twilight','grumble','dusk',
         ]
         postnouns = [
-            'mountain','hill','cliff','range','mine','crag','storm','root',
-            'gates',
-            'sword', 'spear', 'axe', 'hammer', 'shield',
-            'hand','tongue', 'skull', 'blood', 'fist',
-            'talon','claw','beak','hawk',
-            'borne', 'heim', 'bane',
+            'mountain','hill','cliff','range','mine','crag','storm',
+            'root','gates','stone',
+            'sword','spear','axe','hammer','shield','pike','maul',
+            'hand','tongue','skull','blood','fist','foot','mane',
+            'shoulder','back','belly','horn','coat',
+            'talon','claw','beak',
+            'branch','trunk','leaf',
+            'borne','heim','bane','thane','fury',
             'pants','vest','tunic','shirt',
-            'smith','shadow',
+            'smith','shadow','forge','mantle',
         ]
         verbs = [
-            'breaker','smiter','hewer','slasher','stealer'
+            'basher','bender','brander','breaker','brewer','buster',
+            'delver','digger',
+            'hewer',
+            'miner',
+            'shaper','slasher','smiter','speaker','stealer','sunder',
         ]
-        if random.randint(0,1) == 0:
-            part1 = prenouns[random.randint(0, len(prenouns)-1)].capitalize()
-            part2 = postnouns[random.randint(0, len(postnouns)-1)]
+        if randomint(0,1) == 0:
+            part1 = random(prenouns).capitalize()
+            part2 = random(postnouns)
             return f"{part1}{part2}"
         else:
-            part1 = prenouns[random.randint(0, len(prenouns)-1)].capitalize()
-            part2 = verbs[random.randint(0, len(verbs)-1)]
+            part1 = random(prenouns).capitalize()
+            part2 = random(verbs)
             return f"{part1}{part2}"
     return f"{generate_firstname()} {generate_lastname()}"
 ```

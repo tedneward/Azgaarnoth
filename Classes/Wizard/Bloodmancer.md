@@ -18,6 +18,7 @@ Furthermore, when you perform the Arcane Recovery feature, you also regain 1 exp
 ```
 def level2(npc):
     npc.expertises.append('Medicine')
+
     npc.defer(lambda npc: replace("***Arcane Recovery.***", npc.traits, f" Once per day when you finish a short rest, you can regain 1 expended hit die and choose expended spell slots to recover. The spell slots can have a combined level of {((npc.levels('Wizard') + 1) // 2)}, and none of the slots can be 6th level or higher.") )
 ```
 

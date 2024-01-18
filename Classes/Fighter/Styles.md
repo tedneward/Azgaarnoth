@@ -118,7 +118,8 @@ At the start of each of your turns, you can deal 1d4 bludgeoning damage to one c
 
 ```
 def unarmedfighting(npc):
-    npc.defer(lambda npc: npc.actions.append(f"***Fighting Style: Unarmed Fighting.*** Your unarmed strikes can deal 1d6 + {npc.STRbonus()} bludgeoning damage on a hit. If you aren't wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8. At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you."))
+    npc.traits.append("***Fighting Style: Unarmed Fighting.*** At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you.")
+    npc.defer(lambda npc: npc.actions.append(f"***Unarmed Strike.*** Melee Weapon Attack: +{npc.proficiencybonus() + npc.STRbonus()} to hit, reach 5ft., one target. Hit: 1d6 + {npc.STRbonus()} bludgeoning damage; if you aren't wielding any weapons or a shield when you make the attack roll, 1d8 + {npc.STRbonus()} bludgeoning damage."))
 ```
 
 ```

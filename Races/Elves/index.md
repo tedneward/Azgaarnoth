@@ -60,3 +60,72 @@ Elves have a number of genetically-differentiated offshoots (subraces):
 * [Shadow Elves](Elves/Shadow.md)
 * [Dark Elves](Elves/Dark.md)
 
+```
+def generate_name(npc):
+    def generate_malefirstname():
+        return generatemarkovname([
+            'Adorellan','Ailluin','Airdan','Akkar','Aumanas',
+            'Conall',
+            'Ehlark','Eldaerenth','Elidyr',
+            'Ganamede',
+            'Halueve','Horith',
+            'Illianaro','Ivaran','Iymbryl',
+            'Jaonos',
+            'Kellam','Kharis',
+            'Lathlaeril',
+            'Navarre','Nym',
+            'Olaurae','Ornthalas',
+            'Rilitar','Riluaneth','Ruven',
+            'Sythaeryn',
+            'Toross',
+            'Usunaar',
+        ])
+    def generate_femalefirstname():
+        return generatemarkovname([
+            'Aila','Arthia','Allisa','Aerilaya','Ashera',
+            'Clanire',
+            'Elincia','Elmyra','Edraele',
+            'Fayeth',
+            'Hamalitia','Hycis',
+            'Immianthe',
+            'Kilyn',
+            'Leilatha',
+            'Madris','Melarue',
+            'Nueleth','Nyana','Naexi',
+            'Phaerille','Phyrra',
+            'Sana','Shaerra','Syllia',
+            'Thaciona','Thasinia','Tanelia',
+            'Yalanue',
+            'Zentha',
+        ])
+
+    def generate_lastname():
+        return generatemarkovname([
+            'Adsys','Aetumal','Aehana',
+            'Bryxalim','Brynelis','Brygolor',
+            'Cargwyn','Crawenys',
+            'Dalee','Damyar',
+            'Elkian','Enris',
+            'Faedove','Farralei','Faquinal',
+            'Genthyra',
+            'Hervalur',
+            'Ianhana','Ianxalim','Iliqen','Ilihorn',
+            'Keagella','Krisceran','Kelthana',
+            'Liaqirelle','Luroris','Luwynn',
+            'Magwenys','Miafir','Miaharice','Morleth',
+            'Norbalar',
+            'Olahana','Olawraek','Omasatra',
+            'Papeiros',
+            'Ralofir','Ravagolor','Rogwyn','Ralogeiros',
+            'Sarjor','Shapeiros','Sylmaer',
+            'Thefiel','Tramaer',
+            'Ulasatra','Ulawynn','Urikalyn',
+            'Venmenor',
+            'Wranrora','Wynlen','Wysaroris',
+            'Yeszeiros','Yinthana','Yesfir','Yindithas','Yllakalyn',
+            'Zinynore','Zinlen','Zylrie',
+        ])
+
+    return f"{generate_malefirstname() if npc.gender == 'Male' else generate_femalefirstname()} {generate_lastname()}"
+```
+
