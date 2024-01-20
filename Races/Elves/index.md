@@ -82,28 +82,30 @@ def generate_name(npc):
         ])
     def generate_femalefirstname():
         return generatemarkovname([
-            'Aila','Arthia','Allisa','Aerilaya','Ashera',
-            'Clanire',
+            'Aila','Arthia','Allisa','Aerilaya','Ashera','Aravae',
+            'Bemere',
+            'Clanire','Cithrel',
             'Elincia','Elmyra','Edraele',
-            'Fayeth',
+            'Fayeth','Faraine',
             'Hamalitia','Hycis',
             'Immianthe',
             'Kilyn',
             'Leilatha',
             'Madris','Melarue',
             'Nueleth','Nyana','Naexi',
-            'Phaerille','Phyrra',
-            'Sana','Shaerra','Syllia',
+            'Phaerille','Phyrra','Pyria',
+            'Sana','Shaerra','Syllia','Sorisana',
             'Thaciona','Thasinia','Tanelia',
+            'Vaeri',
             'Yalanue',
             'Zentha',
         ])
 
     def generate_lastname():
         return generatemarkovname([
-            'Adsys','Aetumal','Aehana',
+            'Adsys','Aetumal','Aehana','Aegwyn',
             'Bryxalim','Brynelis','Brygolor',
-            'Cargwyn','Crawenys',
+            'Cargwyn','Crawenys','Carna,
             'Dalee','Damyar',
             'Elkian','Enris',
             'Faedove','Farralei','Faquinal',
@@ -111,17 +113,17 @@ def generate_name(npc):
             'Hervalur',
             'Ianhana','Ianxalim','Iliqen','Ilihorn',
             'Keagella','Krisceran','Kelthana',
-            'Liaqirelle','Luroris','Luwynn',
+            'Liaqirelle','Luroris','Luwynn','Luzorwyn,
             'Magwenys','Miafir','Miaharice','Morleth',
             'Norbalar',
-            'Olahana','Olawraek','Omasatra',
+            'Olahana','Olawraek','Omasatra','Oloro',
             'Papeiros',
             'Ralofir','Ravagolor','Rogwyn','Ralogeiros',
             'Sarjor','Shapeiros','Sylmaer',
             'Thefiel','Tramaer',
             'Ulasatra','Ulawynn','Urikalyn',
-            'Venmenor',
-            'Wranrora','Wynlen','Wysaroris',
+            'Venmenor','Valsys','Virmaer','Vathyra','Venmyar',
+            'Wranrora','Wynlen','Wysaroris','Wynceran','Waesxisys',
             'Yeszeiros','Yinthana','Yesfir','Yindithas','Yllakalyn',
             'Zinynore','Zinlen','Zylrie',
         ])
@@ -129,3 +131,128 @@ def generate_name(npc):
     return f"{generate_malefirstname() if npc.gender == 'Male' else generate_femalefirstname()} {generate_lastname()}"
 ```
 
+#### Male
+Alwin Herwenys
+Ellisar Herthana
+Raibyn Naewenys
+Rhistel Elacan
+Elephon Quijor
+Saevel Wranrie
+Zaos Elasys
+Almar Elkalyn
+Kivessin Kelkrana
+Grathgor Mormaris
+Kellam Rolee
+Alinar Fennelis
+Aithlin Wranmaris
+Halueth Leobanise
+Erendriel Bryhorn
+Intevar Yesbalar
+Elashor Elrona
+Ayred Reytoris
+Grathgor Faedi
+Drannor Yelthana
+Jandar Elafina
+Rhothomir Beigolor
+Laiex Yllajeon
+Merellien Genydark
+Garrik Aeharice
+Iliphar Xilceran
+Ardreth Glynzana
+Cohnal Yinwenys
+Gorred Oriyarus
+Elas Bihice
+Gorluin Miadove
+Kelvhan Carnan
+Elkhazel Ravazorwyn
+Elorshin Leokrana
+Navarre Liacyne
+Katar Aracyne
+Klaern Daehana
+Abarat Balzeiros
+Abarat Aerona
+Adamar Aegwyn
+
+#### Female Names
+Gaelira Xilynore
+Micaiah Sarneiros
+Faylen Kelsalor
+Vestele Heithana
+Lyndis Yllaran
+Syvis Farmys
+Sumina Qilynn
+Shalaevar Keaphyra
+Nakiasha Rowynn
+Tephysea Yeswenys
+Artin Vabella
+Ynaselle Lufir
+Sakaala Qingella
+Lenna Eilren
+Darshee Virxina
+Liluth Pamoira
+Chaenath Waesnala
+Keenor Miaro
+Shanaera Araxina
+Ratha Daekrana
+Leena Perric
+Imra Wysaydark
+Lensa Faexina
+Meira Qinqen
+Lusserina Ilinorin
+Ahrendue Elaro
+Rophalin Zinyra
+Alanis Venyra
+Lithoniel Grecyne
+Nuovis Magdan
+
+#### Neutral
+Taleasin Lorajor
+Haemir Aethana
+Gorre Waesvaris
+Ailuin Chaeneiros
+Jhaartael Xyrralei
+Luthais Balstina
+Elre Triszana
+Folluin Enwynn
+Darunia Thefiel
+Jhaeros Yesrora
+Ellisar Kelstina
+Paeris Royarus
+Ithronel Qinberos
+Tamnaeth Nerineiros
+Cohnal Gilhana
+Cyran Kelsatra
+Ilphas Lumaris
+Artin Olohorn
+Sinaht Ronan
+Halaema Xilwraek
+Sinaht Sarlamin
+Erendriel Heinorin
+Imizael Fenmaer
+Kharis Xilphine
+Vaeril Ianyarus
+Alosrin Arapeiros
+Naevys Loranala
+Ciradyl Heican
+Iliphar Olobella
+Neremyn Wynxalim
+Goren Presrel
+Isilynor Umetumal
+Vulwin Omamys
+Ailre Yellen
+Zeno Vazeiros
+Wynather Torthyra
+Aimer Zinvyre
+Elas Gilwenys
+Myriil Farberos
+Cornaith Yessandoral
+Syvis Bryrel
+Ciradyl Thegwyn
+Mnementh Bilana
+Elanil Wynren
+Dain Waesvalur
+Kailu Eldan
+Tamnaeth Erynore
+Alais Sargella
+Saida Elro
+Tannyll Venric
