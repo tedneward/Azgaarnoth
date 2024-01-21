@@ -93,7 +93,7 @@ When you use your action to cast a cantrip, you can make one weapon attack as a 
 
 ```
 def level7(npc):
-    npc.bonusactions.append("***War Magic.*** When you use your action to cast a cantrip, you can make one weapon attack as a bonus action.")
+    npc.bonusactions.append("***War Magic.*** When you use your action to cast a cantrip, make one weapon attack.")
     npc.spellcasting[name].maxspellsknown += 1
 def level8(npc):
     npc.spellcasting[name].maxspellsknown += 1
@@ -140,7 +140,7 @@ When you use your action to cast a spell, you can make one weapon attack as a bo
 
 ```
 def level18(npc):
-    replace("***War Magic", npc.bonusactions, ".*** When you use your action to cast a cantrip or spell, you can make one weapon attack as a bonus action.")
+    replace("***War Magic", npc.bonusactions, ".*** When you use your action to cast a cantrip or spell, make one weapon attack.")
 def level19(npc):
     npc.spellcasting[name].maxspellsknown += 1
 def level20(npc):

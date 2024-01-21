@@ -19,4 +19,7 @@ def level0(npc):
     
     npc.speed['climbing'] = npc.speed['walking']
     npc.traits.append("***Mountain Climber.*** You can make a running long jump or a running high jump after moving only 5 feet on foot.")
+
+def generate_name(npc):
+    return random(['Daisuke', 'Hana', 'Kaito', 'Sakura', 'Taro', 'Yumi', 'Zenitsu'])
 ```

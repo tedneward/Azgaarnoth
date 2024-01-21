@@ -67,13 +67,6 @@ River Spirit Folk Names. Akiko, Emi, Hiroshi, Kaede, Noriko, Ryuji, Yumi.
 Sea Spirit Folk Names. Akira, Kaida, Makoto, Nami, Takeshi, Yori, Mizuki.
 
 ```
-def generate_name(npc, gender):
-    if npc.subrace.name == 'Bamboo':
-        return random(['Chihiro', 'Haruki', 'Mei', 'Ren', 'Sora', 'Yuki', 'Zenko'])
-    elif npc.subrace.name == 'Mountain':
-        return random(['Daisuke', 'Hana', 'Kaito', 'Sakura', 'Taro', 'Yumi', 'Zenitsu'])
-    elif npc.subrace.name == 'River':
-        return random(['Akiko', 'Emi', 'Hiroshi', 'Kaede', 'Noriko', 'Ryuji', 'Yumi'])
-    elif npc.subrace.name == 'Sea':
-        return random(['Akira', 'Kaida', 'Makoto', 'Nami', 'Takeshi', 'Yori', 'Mizuki'])
+def generate_name(npc):
+    return 'Fred Flintstone'
 ```

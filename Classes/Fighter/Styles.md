@@ -140,11 +140,15 @@ styles = {
     'Unarmed': unarmedfighting
 }
 def choosestyle(npc):
-    (stylename, stylefn) = choose("Choose a Fighting Style: ", styles)
     if getattr(npc, "fightingstyles", None) == None:
         npc.fightingstyles = []
-    npc.fightingstyles.append(stylename)
+    availablestyles = {}
+    for sname in styles:
+        if sname not in npc.fightingstyles:
+            availablestyles[sname] = styles[sname]
+    (stylename, stylefn) = choose("Choose a Fighting Style: ", availablestyles)
     stylefn(npc)
+    npc.fightingstyles.append(stylename)
 
 allclasses['Fighter'].choosestyle = choosestyle
 ```

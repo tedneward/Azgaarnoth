@@ -105,7 +105,7 @@ def generate_name(npc):
         return generatemarkovname([
             'Adsys','Aetumal','Aehana','Aegwyn',
             'Bryxalim','Brynelis','Brygolor',
-            'Cargwyn','Crawenys','Carna,
+            'Cargwyn','Crawenys','Carna',
             'Dalee','Damyar',
             'Elkian','Enris',
             'Faedove','Farralei','Faquinal',
@@ -113,7 +113,7 @@ def generate_name(npc):
             'Hervalur',
             'Ianhana','Ianxalim','Iliqen','Ilihorn',
             'Keagella','Krisceran','Kelthana',
-            'Liaqirelle','Luroris','Luwynn','Luzorwyn,
+            'Liaqirelle','Luroris','Luwynn','Luzorwyn',
             'Magwenys','Miafir','Miaharice','Morleth',
             'Norbalar',
             'Olahana','Olawraek','Omasatra','Oloro',

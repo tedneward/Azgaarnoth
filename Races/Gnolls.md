@@ -75,17 +75,34 @@ Male: Dagnyr, Dhyrn, Doryc, Ghyrryn, Gnasc, Gnoryc, Gnyrn, Hyrn, Lhoryn, Lhyr, M
 Female: Dagnyra, Gnara, Gnora, Gnyrl, Hyra, Hyrgna, Lhyra, Lhyrl, Malgna, Myrl, Sargna, Shyrla, Tarnyra, Yrgna
 
 ```
-def generate_name(npc, gender):
-    female_surnames = ['Dagnyra', 'Gnara', 'Gnora', 'Gnyrl', 'Hyra', 'Hyrgna', 'Lhyra', 'Lhyrl', 'Malgna', 'Myrl', 'Sargna', 'Shyrla', 'Tarnyra', 'Yrgna']
-    male_surnames = ['Dagnyr', 'Dhyrn', 'Doryc', 'Ghyrryn', 'Gnasc', 'Gnoryc', 'Gnyrn', 'Hyrn', 'Lhoryn', 'Lhyr', 'Mognyr', 'Sorgnyn', 'Thyrn', 'Toryc', 'Yrgnyn', 'Yrych']
+def generate_name(npc):
+    female_surnames = [
+        'Dagnyra', 'Gnara', 'Gnora', 'Gnyrl', 'Hyra', 'Hyrgna', 'Lhyra', 'Lhyrl', 'Malgna', 'Myrl', 'Sargna', 'Shyrla', 'Tarnyra', 'Yrgna'
+    ]
+    male_surnames = [
+        'Dagnyr', 'Dhyrn', 'Doryc', 'Ghyrryn', 'Gnasc', 'Gnoryc', 'Gnyrn', 'Hyrn', 'Lhoryn', 'Lhyr', 'Mognyr', 'Sorgnyn', 'Thyrn', 'Toryc', 'Yrgnyn', 'Yrych'
+    ]
     # Family names
-    family_names = ['Artar', 'Athak', 'Bagoslalar', 'Bregan', 'Dheubpurwen', 'Dragazakama', 'Entragath', 'Feldadar', 
-        'Heral', 'Jernovalrimi', 'Jernokal', 'Malauth', 'Krasgosian', 'Natimorneh', 'Kaziganthi', 'Lagrangli', 
-        'Larenthian', 'Mascun', 'Orilg', 'Sahramar', 'Shiagan', 'Orilgrammar', 'Masral', 'Kulris', 'Manaron', 
-        'Sumarr', 'Teskos',  'Zhakan', 'Tanhos', 'Ilhagos']
+    family_names = [
+        'Artar', 'Athak', 
+        'Bagoslalar', 'Bregan', 
+        'Dheubpurwen', 'Dragazakama', 
+        'Entragath', 
+        'Feldadar', 
+        'Heral', 
+        'Ilhagos',
+        'Jernovalrimi', 'Jernokal', 
+        'Krasgosian', 'Kaziganthi', 'Kulris', 
+        'Lagrangli', 'Larenthian', 
+        'Malauth', 'Mascun', 'Masral', 'Manaron', 
+        'Natimorneh',  
+        'Orilg', 'Orilgrammar', 
+        'Sahramar', 'Shiagan','Sumarr',
+        'Tanhos', 'Teskos',  
+        'Zhakan', 
+    ]
 
-    if gender == 'female': return random(female_surnames) + " " + random(family_names)
-    else: return random(male_surnames) + " " + random(family_names)
+    return (random(female_surnames) if npc.gender == 'Female' else random(male_surnames)) + " " + random(family_names)
 ```
 
 #### Names
