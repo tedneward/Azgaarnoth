@@ -21,5 +21,13 @@ def prereq(npc):
 
 def apply(npc):
     npc.traits.append("***Heightened Magic.*** You learn one 2nd-level spell of your choice. The 2nd-level spell must be from the spells available to your school. You can cast this feat's 2nd-level spell without a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast this spell using spell slots you have of the appropriate level.")
-    npc.traits.append("***Mage School Ability.*** CHOOSE: Life Channel (You can channel your lifeforce into the power of your magic. When a creature you can see within 60 feet of you fails on a saving throw against a spell you cast, you can expend a number of Hit Dice equal to the level of the spell. Roll a number of Hit Dice equal to half the number of Hit Dice expended (rounded up) and the damage the triggering creature takes increases by an amount equal to the total rolled of those dice.), Magical Balance(When you make an attack roll, an ability check, or a saving throw, and roll a 9 or lower on the d20, you can use your reaction to balance fate and treat the roll as a 10. You can use this reaction a number of times equal to your), or Protective Ward (When you or a creature you can see within 30 feet of you takes damage, you can use your reaction to expend a spell slot and weave protective magic around the target. Roll a number of d4s equal to the level of the spell slot expended and reduce the damage the target takes by the total rolled on those dice + your spellcasting ability modifier.), or use one from the mage school.")
+    choice = choose("Choose which school: ", ['Life', 'Balance', 'Protective'])
+    if choice == 'Life':
+        npc.traits.append("***Life Channel.*** You can channel your lifeforce into the power of your magic. When a creature you can see within 60 feet of you fails on a saving throw against a spell you cast, you can expend a number of Hit Dice equal to the level of the spell. Roll a number of Hit Dice equal to half the number of Hit Dice expended (rounded up) and the damage the triggering creature takes increases by an amount equal to the total rolled of those dice.")
+    elif choice == 'Balance':
+        npc.defer(lambda npc: npc.reactions.append(f"***Magical Balance ({npc.proficiencybonus()}/Recharges on long rest).*** When you make an attack roll, an ability check, or a saving throw, and roll a 9 or lower on the d20, you balance fate and treat the roll as a 10.") )
+    elif choice == 'Protective':
+        npc.reactions.append("***Protective Ward.** When you or a creature you can see within 30 feet of you takes damage, you can use your reaction to expend a spell slot and weave protective magic around the target. Roll a number of d4s equal to the level of the spell slot expended and reduce the damage the target takes by the total rolled on those dice + your spellcasting ability modifier.")
+    else:
+        error("WTF?!? What is " + choice)
 ```

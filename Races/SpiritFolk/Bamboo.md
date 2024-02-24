@@ -15,4 +15,7 @@ def level0(npc):
     npc.damageresistances.append('poison')
     npc.traits.append("***Bamboo Resilience.*** You have advantage on saving throws against being poisoned.")
     npc.traits.append("***Bamboo Stride.*** You can move through difficult terrain made of plants, such as dense undergrowth and overgrown areas, without spending extra movement.")
+
+def generate_name(npc):
+    return random(['Chihiro', 'Haruki', 'Mei', 'Ren', 'Sora', 'Yuki', 'Zenko'])
 ```

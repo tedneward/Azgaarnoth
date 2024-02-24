@@ -56,38 +56,52 @@ def generate_name(npc):
     ]
 
     female_firstnames = [
-        'Ustice','Ey','Pari','Cora','Ulia','Lla','La','Hali','Zoe','Jeanor','Ypri',
+        'Ustice','Ey','Pari','Cora','Ulia','Lla','La','Hali','Zoe','Jeanor','Ypri','Yasmina',
         'Charle','Zie','Ker','Xaris','Ta','Premila'
     ]
     
-    # Human last names are often two-parters
-    nounparts = [
-        'strong','steady', 'barren','dizzy','drift',
-        'plate','steel','noble','dark','bristle',
-        'sword','spear','axe','hammer',
-        'wolf','bear','tiger','rat','troll','dragon','wraith',
-        'eagle','raven','hawk','hen','drake','orc','goblin','kobold',
-        'brown','gray','green','black','red',
-        'wooden','oaken','ivy','hard',
-        'fire','earth','air','water','lightning','thunder','psychic',
-        'ice','snow','storm','lava','ash',
-        'twilight','grumble','dusk',
-    ]
-    verbs = [
-        'basher','bender','brander','breaker','brewer','buster',
-        'digger','screamer', 'striker', 'crawler', 'seeker','binder','chaser',
-        'shaper','slasher','smiter','speaker','stealer','sunder',
-    ]
+    def genlastname():
+        nouns = [
+            'strong','steady', 'barren','dizzy','drift',
+            'plate','steel','noble','dark','bristle',
+            'sword','spear','axe','hammer',
+            'wolf','bear','tiger','rat','troll','dragon','wraith',
+            'eagle','raven','hawk','hen','drake','orc','goblin','kobold',
+            'brown','gray','green','black','red',
+            'wooden','oaken','ivy','hard',
+            'fire','earth','air','water','lightning','thunder','psychic',
+            'ice','snow','storm','lava','ash',
+            'twilight','grumble','dusk','love','shine',
+            'summer','spring','winter','autumn','fall',
+            'wing','talon','skull','guts'
+        ]
+        verbs = [
+            'basher','bender','brander','breaker','brewer','buster',
+            'digger','screamer', 'striker', 'crawler', 'seeker','binder','chaser',
+            'shaper','slasher','smiter','speaker','stealer','sunder',
+            'smith','baker','barrister','cooper','tanner','butcher',
+        ]
 
-    last_names = [
-        'We','Ynn','Mpson','Va','Wang','Aross','Barrin','Yncano','Guerre','Krajas',
-        'Ser','Guerra','An','Pez','Pruz','Ussen','Corte','Ton','Ubbott','Na','Gers',
-        'Quinn','Crosby','Sam','Rince','Ke','Quez','Quinne','Goosethorn',
-        'Winterscreamer','Snakewing','Icestriker','Camelcrawl','Fallseeker',
-        'Oathbreak','Jaguarscreamer','Crocchaser','Windhold','Tigerwind',
-        'Tigerbone','Lionbone','Bearwind','Starlove','Lightforge','Morningbinder',
-        'Cranepunch','Wolfguts'
-    ]
+        r = dieroll('d3')
+        if r == 1:
+            # Generate a noun/verb name
+            return (random(nouns) + random(verbs)).capitalize()
+        elif r == 2:
+            # Generate a noun/noun name
+            return (random(nouns) + random(nouns)).capitalize()
+        elif r == 3:
+            # Generate a markov name
+            seeds = [
+                'We','Ynn','Mpson','Va','Wang','Aross','Barrin',
+                'Yncano','Guerre','Krajas',
+                'Ser','Guerra','An','Pez','Pruz','Ussen','Corte',
+                'Ton','Ubbott','Na','Gers',
+                'Quinn','Crosby','Sam','Rince','Ke','Quez',
+                'Quinne','Goosethorn',
+            ]
+            return generatemarkovname(seeds)
 
-    return (random(female_firstnames) if npc.gender == 'Female' else random(male_firstnames)) + random(last_names)
+    surname = (generatemarkovname(female_firstnames) if npc.gender == 'Female' else generatemarkovname(male_firstnames))
+    lastname = genlastname()
+    return surname + " " + lastname
 ```

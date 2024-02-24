@@ -191,7 +191,7 @@ Your choice grants you features when you choose it at 1st level and again at 6th
             spellcasting = npc.spellcasting['Sorcerer']
             spellcasting.spellsalwaysprepared.extend(bonusspellslist)
 
-            npc.traits.append(f"***Bonus Spells.*** The following spells do not count against your list of known spells and are always known to you: {",".join(bonusspellslist)}.")
+            npc.traits.append(f"***Bonus Spells.*** The following spells do not count against your list of known spells and are always known to you: {','.join(bonusspellslist)}.")
         npc.defer(lambda npc: generatebonusspellslist(npc))
 ```
 

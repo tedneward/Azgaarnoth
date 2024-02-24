@@ -1,103 +1,169 @@
->### TaylerKrajas
->*Medium Male humanoid ( Human) Sorcerer (Storm) 2, any alignment*
+>### (Name)
+>*Medium Male humanoid/celestial (Fallen Aasimar) Fighter (Eldritch Knight) 20, any alignment*
 >___
->- **Armor Class** 9 (DEX (-1))
->- **Hit Points** 15 (2d6 + 4)
+>- **Armor Class** 17 (Chain mail (16),Fighting Style (+1))
+>- **Hit Points** 157 (20d10 + 14)
 >- **Speed** 30 ft
 >___
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:-:|:-:|:-:|:-:|:-:|:-:|
->|12 (+1)|8 (-1)|15 (+2)|12 (+1)|12 (+1)|18 (+4)|
+>|12 (+1)|11 (+0)|13 (+1)|17 (+3)|11 (+0)|13 (+1)|
 >___
->- **Proficiency Bonus** +2
->- **Saving Throws** Cha +6,Con +4
+>- **Proficiency Bonus** +7
+>- **Saving Throws** Str +8,Con +8,Int +10
 >- **Damage Vulnerabilities** 
->- **Damage Resistances** 
+>- **Damage Resistances** necrotic
 >- **Damage Immunities** 
 >- **Condition Immunities** 
->- **Skills** Deception +6,History +3,Insight +3
->- **Proficiencies** Dagger,Dart,Light crossbow,Quarterstaff,Sling
->- **Senses** passive Perception 11
->- **Languages** Common,CHOOSE
+>- **Skills** Arcana +17,Athletics +8
+>- **Proficiencies** Battle robe,Battleaxe,Blowgun,Breastplate,Buckler,Chain mail,Chain shirt,Club,Dagger,Dart,Fencing cloak,Flail,Glaive,Greataxe,Greatclub,Greatsword,Halberd,Half-plate,Hand Crossbow,Handaxe,Heavy Crossbow,Hide armor,Javelin,Kozane,Lance,Leather armor,Leather lamellar,Light Crossbow,Light hammer,Longbow,Longsword,Lorica segmentata,Mace,Maul,Morningstar,Net,Padded armor,Pike,Plate armor,Plated leather,Quarterstaff,Rapier,Ring mail,Scale mail,Scimitar,Shield,Shortbow,Shortsword,Sickle,Sling,Spear,Splint armor,Studded leather armor,Tower shield,Trident,Vambrace,War pick,Warhammer,Whip,Wood
+>- **Senses** darkvision 60ft,passive Perception 10
+>- **Languages** Common,Celestial
 >___
->***Bonus Spells.*** The following spells do not count against your list of known spells and are always known to you: fog cloud,thunderwave
+>***Action Surge (2/Recharges on short or long rest).*** On your turn, you can take one additional action on top of your regular action and a possible bonus action. When you use this, you can teleport up to 30 feet to an unoccupied space you can see. You can teleport before or after the additional action.
 >
->***Elemental Touched.*** When you finish a long rest, you can choose which element you are attuned to: Air, Earth, Fire, or Water. Depending on your choice, you can use the appropriate bonus action listed.
+>***Eldritch Strike.*** When you hit a creature with a weapon attack, that creature has disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn.
 >
->***Font of Magic (Recharges on long rest).*** You have 2 sorcery points.
+>***Fighting Style: Defense.*** While you are wearing armor, you gain a +1 bonus to AC.
 >
->***Font of Magic: Empowering Reserves.*** When you make an ability check on your turn, you can spend 2 sorcery points to gain advantage on the check.
+>***Heightened Magic.*** You learn one 2nd-level spell of your choice. The 2nd-level spell must be from the spells available to your school. You can cast this feat's 2nd-level spell without a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast this spell using spell slots you have of the appropriate level.
+>
+>***Indomitable (3/Recharges on long rest).*** You can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
+>
+>***Weapon Bond.*** You learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond. Once you have bonded a weapon to yourself, you can't be disarmed of that weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand. You can have up to two bonded weapons, but can summon only one at a time with your bonus action. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
 >
 >#### Actions
->***Font of Magic: Sorcerous Fortitude.*** You spend any number of sorcery points to roll a d4 for each point expended. You gain a number of temporary hit points equal to the total.
+>***Armor of Shadows.*** You can cast [mage armor](http://azgaarnoth.tedneward.com/magic/spells/mage-armor/) at will, without expending a spell slot or material components.
 >
->***Elemental Touched Spellcasting (Cha. Recharges on long rest).*** **Spell save DC: 14**, **Spell attack bonus: +6**
+>***Healing Hands (Recharges after long rest).*** You can touch a creature and cause it to regain 20 hit points.
 >
->* *Cantrips:* [druidcraft](http://azgaarnoth.tedneward.com/magic/spells/druidcraft/)
+>***Multiattack.*** You can attack four times whenever you take the Attack action on your turn.
 >
->***Sorcerer Spellcasting (Cha, at level 2. Recharges on long rest).*** 4 cantrips known. 3 spells known. **Spell save DC: 14**, **Spell attack bonus: +6**
+>***Necrotic Shroud (Recharges after long rest).*** You can unleash the divine energy within yourself, causing your eyes to turn into pools of darkness and two skeletal, ghostly, flightless wings to sprout from your back. The instant you transform, other creatures within 10 feet of you that can see you must each succeed on a Charisma saving throw (DC 16) or become frightened of you until the end of your next turn. Your transformation lasts for 1 minute or until you end it as a bonus action. During it, once on each of your turns, you can deal 20 extra necrotic damage to one target when you deal damage to it with an attack or a spell.
 >
+>***Aasimar Spellcasting (Cha. Recharges on long rest).*** **Spell save DC: 16**, **Spell attack bonus: +8**
 >
->Spells always prepared: [fog cloud](http://azgaarnoth.tedneward.com/magic/spells/fog-cloud/),[thunderwave](http://azgaarnoth.tedneward.com/magic/spells/thunderwave/)
+>* *Cantrips:* [light](http://azgaarnoth.tedneward.com/magic/spells/light/)
+>
+>***Eldritch Knight Spellcasting (Int, at level 20. Recharges on long rest).*** 2 cantrips known. 13 spells known. **Spell save DC: 18**, **Spell attack bonus: +10**
 >
 >* *Cantrips:* 
->* *1st (3 slots):* 
+>* *1st (4 slots):* 
+>* *2nd (3 slots):* 
+>* *3rd (3 slots):* 
+>* *4th (1 slots):* 
+>
+>***Arcanist Spellcasting (Cha. Recharges on long rest).*** **Spell save DC: 16**, **Spell attack bonus: +8**
+>
+>* *Cantrips:* [prestidigitation](http://azgaarnoth.tedneward.com/magic/spells/prestidigitation/)
+>* *1/day:* [detect magic](http://azgaarnoth.tedneward.com/magic/spells/detect-magic/)
+>
+>#### Reactions
+>***Magical Balance (7/Recharges on long rest).*** When you make an attack roll, an ability check, or a saving throw, and roll a 9 or lower on the d20, you balance fate and treat the roll as a 10.
 >
 >
 >#### Bonus Actions
->***Air-Touched (2/Recharges on long rest).*** You gain a fly speed equal to your walking speed until the end of your turn. If you are airborne at the end of your turn after using this movement and aren't held aloft by other means, you fall.
+>***Second Wind (Recharges on short or long rest).*** On your turn, you can regain 1d10 + 20 hit points.
 >
->***Earth-Touched (2/Recharges on long rest).*** You cause the ground within 30 feet of you to become difficult terrain for 1 minute or until you create this effect again. During that time, you can move across ground that is difficult terrain without spending extra movement.
+>***Summon Bonded Weapon.*** You can summon one of your bonded weapons, causing it to teleport instantly to your hand.
 >
->***Fire-Touched (2/Recharges on long rest).*** You surround yourself in a cloud of ash and smoke. Until the end of your turn, your movement doesn't provoke opportunity attacks.
->
->***Font of Magic: Convert.*** You expend one spell slot and gain a number of sorcery points equal to the slot's level.
->
->***Font of Magic: Create.*** You expend sorcery points to create a spell slot. 2 points creates a 1st-level slot, 3 creates a 2nd, 5 creates a 3rd, 6 creates a 4th, and 7 points creates a 5th-level slot.
->
->***Tempestuous Magic.*** Whenever you cast a spell other than a cantrip during your turn, you can fly 10 feet without provoking opportunity attacks.
->
->***Water-Touched (2/Recharges on long rest).*** You can create a forceful surge of water directed at a creature within 15 feet of you that you can see. The creature must succeed on a Strength saving throw (DC 14) (which it can choose to fail) or be pushed up to 10 feet away from you. The water vanishes immediately after the creature succeeds or fails.
+>***War Magic .*** When you use your action to cast a cantrip or spell, make one weapon attack.
 >
 >
 >#### Equipment
->Light crossbow and 20 bolts OR any simple weapon
+>Martial weapon
 >
->Component pouch OR an arcane focus
+>Shield OR martial weapon
+>
+>Light crossbow and 20 bolts OR two handaxes
 >
 >Dungeoneer's pack, or explorer's pack
 >
->Two daggers
+>***Magic Item: Uncommon Permanent.***
+>
+>***Magic Item: Uncommon Permanent.***
+>
+>***Magic Item: Rare Permanent.***
+>
+>***Magic Item: Rare Permanent.***
+>
+>***Magic Item: Very Rare Permanent.***
+>
+>***Magic Item: Legendary Permanent.***
 >
 
 #### Description
-***Ideals:*** *Charity/Knowledge/Aspiration.*
+***Ideals:*** *Freedom/Knowledge/Honor.*
 
-***Motivation:*** *Acquiring money (just to acquire money).*
+***Motivation:*** *Staying loyal to a promise/ideal.*
 
-***Appearance:*** *Old adult*, *Formal, clean clothes.*
+***Appearance:*** *Elderly*, *Missing teeth.*
 
-***Talents:*** *Unremarkable, can hide in plain sight.*
+***Talents:*** *Expert salesperson.*
 
-***Mannerisms:*** *Absent-minded (when not under stress).*
+***Mannerisms:*** *Bites fingernails.*
 
-***Interactions (with others):*** *Generous*.
+***Interactions (with others):*** *Argumentative*.
 
-***Bond:*** *Protective of a sentimental keepsake.*
+***Bond:*** *Captivated by a romantic interest.*
 
-***Secret:*** *Secret (typically illegal) pleasure.*
+***Secret:*** *Is a member of an illicit organization.*
 
-***Flaw:*** *Emaciated.*
+***Flaw:*** *Walks (or worse) while sleeping.*
 
-***Race: Human.*** Humans are the most adaptable and ambitious people among the common races. They have widely varying tastes, morals, and customs in the many different lands where they have settled. When they settle, though, they stay: they build cities to last for the ages, and great kingdoms that can persist for long centuries. An individual human might have a relatively short life span, but a human nation or culture preserves traditions with origins far beyond the reach of any single human’s memory. They live fully in the present — making them well suited to the adventuring life — but also plan for the future, striving to leave a lasting legacy. Individually and as a group, humans are adaptable opportunists, and they stay alert to changing political and social dynamics.Owing to the prodigious rate at which humans reproduce, they are the dominant species of the Azgaarnothian lands. Owing to the 8,000-plus years of intermixing, humans characteristics are all over the map--different skin tones, different complexions, heights, weights, and so on.
+***Race: Aasimar.*** 
 
-***Feat: Elemental Touched.*** You've been exposed to the primordial magic of the Elemental Planes, granting you a measure of control over the natural world around you.
+***Fallen Aasimar.*** An aasimar who was touched by dark powers as a youth or who turns to evil in early adulthood can become one of the fallen -- a group of aasimar whose inner light has been replaced by shadow.
 
+***Class: Fighter.*** Fighters share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. They are well acquainted with death, both meting it out and staring it defiantly in the face.
 
+***Martial Archetype: Eldritch Knight.*** The archetypal Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic. Eldritch Knights use magical techniques similar to those practiced by wizards. They focus their study on two of the eight schools of magic: abjuration and evocation. Abjuration spells grant an Eldritch Knight additional protection in battle, and evocation spells deal damage to many foes at once, extending the fighter's reach in combat. These knights learn a comparatively small number of spells, committing them to memory instead of keeping them in a spellbook.
 
-***Class: Sorcerer.*** Sorcerers carry a magical birthright conferred upon them by an exotic bloodline, some otherworldly influence, or exposure to unknown cosmic forces. No one chooses sorcery; the power chooses the sorcerer.
+***Feat: Arcanist.*** You study the arcane arts. (If you are a member of a mage school, your cantrip and spell may be different than these given.)
 
-***Sorcerous Origin: Storm.*** Storm sorcerers channel the power of the thunderstorm: The gale-force winds, the crashing of thunder, the pelting rain. This connection to the storm echoes radiates out of them, giving them some control over wind and weather in their immediate area. Their magic embraces the air and storm, and their connection allows them to communicate with the creatures born of the power of the storm.
+***Feat: Adept of the Mage School.*** Your ambition and loyalty to the school has been recognized. (Must be a member of a mage school.)
+
+***Feat: Eldritch Adept.*** Studying occult lore, you have unlocked eldritch power within yourself.
+
+***Feat: Resilient.*** You are harder to kill than most.
+
+***Political event.***
+
+***Political event.***
+
+***Political event.***
+
+***Revelations event.***
+
+***Romance event.***
+
+***Possessions event.***
+
+***Possessions event.***
+
+***Romance event.***
+
+***Political event.***
+
+***Friends event.***
+
+***Creations event.***
+
+***Notoriety event.***
+
+***Possessions event.***
+
+***Revelations event.***
+
+***Revelations event.***
+
+***Notoriety event.***
+
+***Notoriety event.***
+
+***Friends event.***
+
+***Event.***
 
 
 

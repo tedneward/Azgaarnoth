@@ -22,10 +22,10 @@ Sorcerer Level|Spell
 
 ```
 bonusspells = {
-    1: ['cooperative channeling', 'alienated mind']
-    3: ['arcane transference', 'disperse reserves']
-    5: ['leomunds tiny hut', 'life transference']
-    7: ['detect curses']
+    1: ['cooperative channeling', 'alienated mind'],
+    3: ['arcane transference', 'disperse reserves'],
+    5: ['leomunds tiny hut', 'life transference'],
+    7: ['detect curses'],
     9: ['rarys mnemonic enhancer']
 }
 ```

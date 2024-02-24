@@ -49,23 +49,45 @@ def level0(npc):
 
     npc.defer(lambda npc: npc.actions.append(f"***Horns.*** Melee Weapon Attack: {npc.proficiencybonus() + npc.STRbonus()} to it, reach 5ft., one creature. Hit: 1d6 + {npc.STRbonus()} piercing damage. Your horns grant you advantage on all checks made to shove a creature, but not to avoid being shoved yourself."))
 
-    npc.bonusactions.append("***Goring Rush.*** When you use the Dash action during your turn, you can make a melee attack with your horns as a bonus action.")
+    npc.bonusactions.append("***Goring Rush.*** When you use the Dash action during your turn, you can make a Horns melee attack.")
 
     npc.bonusactions.append("***Hammering Horns.*** When you use the Attack action during your turn to make a melee attack, you can attempt to shove a creature with your horns as a bonus action. You cannot use this shove attempt to knock a creature prone.")
 
-def generate_name(npc, gender):
-    # Female names always end in a vowel
-    female_surnames = ['Ayasha', 'Calina', 'Fliara', 'Helati', 'Keeli', 'Kyri', 'Mogara', 'Sekra', 'Tariki', 'Telia']
-    # Male names never end in a vowel
-    male_surnames = ['Beliminorgath', 'Cinmac', 'Dastrun', 'Edder', 'Galdar', 'Ganthirogan', 'Hecariveran', 'Kyris', 'Tosher', 'Zurgas']
-    # Family names
-    family_names = ['Artar', 'Athak', 'Bagoslalar', 'Bregan', 'Dheubpurwen', 'Dragazakama', 'Entragath', 'Feldadar', 
-        'Heral', 'Jernovalrimi', 'Jernokal', 'Malauth', 'Krasgosian', 'Natimorneh', 'Kaziganthi', 'Lagrangli', 
-        'Larenthian', 'Mascun', 'Orilg', 'Sahramar', 'Shiagan', 'Orilgrammar', 'Masral', 'Kulris', 'Manaron', 
-        'Sumarr', 'Teskos',  'Zhakan', 'Tanhos', 'Ilhagos']
+def generate_name(npc):
+    def genfemale():
+        # Female names always end in a vowel
+        seeds = [
+            'Ayasha', 'Calina', 'Fliara', 'Helati', 'Keeli', 'Kyri', 'Mogara', 'Sekra', 'Tariki', 'Telia'
+        ]
+        return generatemarkovname(seeds)
+    def genmale():
+        seeds = [
+            'Beliminorgath', 'Cinmac', 'Dastrun', 'Edder', 'Galdar', 'Ganthirogan', 'Hecariveran', 'Kyris', 'Tosher', 'Zurgas'
+        ]
+        return generatemarkovname(seeds)
+    def genfamily():
+        family_names = [
+            'Artar', 'Athak', 
+            'Bagoslalar', 'Bregan', 
+            'Dheubpurwen', 'Dragazakama', 
+            'Entragath', 
+            'Feldadar', 
+            'Heral', 
+            'Ilhagos',
+            'Jernovalrimi', 'Jernokal', 
+            'Krasgosian', 'Kaziganthi', 'Kulris', 
+            'Lagrangli', 'Larenthian', 
+            'Malauth', 'Mascun', 'Masral', 'Manaron', 
+            'Natimorneh',  
+            'Orilg', 'Orilgrammar', 
+            'Sahramar', 'Shiagan','Sumarr',
+            'Tanhos', 'Teskos',  
+            'Zhakan', 
+        ]
+        return random(family_names)
 
-    if gender == 'female': return random(female_surnames) + " " + random(family_names)
-    else: return random(male_surnames) + " " + random(family_names)
+    if npc.gender == 'Female': return genfemale() + " " + genfamily()
+    else: return genmale() + " " + genfamily()
 ```
 
 ## Sample minotaur names (from https://www.roll4.net/generators/dd-name-generators/minotaur-name-generator)
