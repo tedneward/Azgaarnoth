@@ -39,6 +39,29 @@ Some items can only be a particular specific within the category--for example, a
 
 * [Scroll](scrolls.md)
 
+## Magic Item Prices
+Most common items are going to price out at 250-500gp, depending on how directly useful they might be in combat, with combat items going for the higher end.
+
+In general, consumables are going to be relatively cheap, since they're one-shots. By default, consumables are somewhere around 10% of the price of an equivalent permanent item. Potion of cure wounds, for example, as the most popular potion ever, will be 50gp.
+
+In general, no rare, very rare, or legendary item can be purchased; selling them would almost always be an auction, and could fetch wildly-varying prices depending on where it is sold and what the item does.
+
+For "simple" items (+1 weapons, armor, etc), with no additional embellishments or features:
+
+* *+1 ammunition* (arrows, bolts): 25gp each
+* *+1 melee weapon* (swords, axes, spears, etc): 1000gp
+* *+1 ranged weapon* (bows, crossbows, etc): 1000gp
+* *+1 light armor*: 1500gp
+* *+1 medium armor*: 2000gp
+* *+1 heavy armor*: 5000gp
+* *+1 shield* or *+1 tower shield*: 1500gp
+* *+1 vambrances*, etc: 
+
+"Second-tier" items (+2 weapons, armor, etc), with no additional embellishments or features are much rarer, typically must be commissioned if not found, and often are *restricted* or *keyed*, as described below. If they can be purchased, they will often command prices like so:
+
+* *+2 ammunition* (arrows, bolts): 100gp each. +2 ammunition is the most common "second-tier" item that can be purchased, but typically only at a high-end smithy with ties to a mage school.
+* 
+
 ## Restricted Items
 Many arcane item smiths have long known ways to "tie" an item to a specific collection of creatures, usually by creature type or sub-type (like *dwarven plate*, for example). Many arcane smiths have found that applying such restrictors to items can grant the item additional benefits or abilities, or extend the utility of the item (such as additional charges). Some smiths have even figured out how to add a "defense" mechanism to the restriction, so that creatures of certain categories that attempt to attune or even touch the item suffer some negative consequence.
 
