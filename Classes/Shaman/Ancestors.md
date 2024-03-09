@@ -13,11 +13,12 @@ Shamans who speak for the ancestors walk the line between life and death, master
 **Balance.** Ancestral spirits occupy a strange place, as they accept death but are still drawn to the living. No longer alive, but unwilling or unable to pass on to the realms of the dead, they exist in a precarious balance between life and death. The shamans of these spirits often see the point of balance in any situation as having special significance, and seek balance in all things. In some cases, balance may come in the form of a natural cycle: from the shadow of death, new life can emerge.
 
 **Speaker of Ancestors Calling Spells**
+
 Shaman Level | Calling Spells
 ------------ | --------------
 1st | [inflict wounds](../../Magic/Spells/inflict-wounds.md), [unseen servant](../../Magic/Spells/unseen-servant.md)
 3rd | [blindness/deafness](../../Magic/Spells/blindness-deafness.md), [gentle repose](../../Magic/Spells/gentle-repose.md)
-5th | [feign death](../../Magic/Spells/feign-death.md), [revivify](../../Magic/Spells/revivify.md)
+5th | [speak with dead](../../Magic/Spells/speak-with-dead.md), [revivify](../../Magic/Spells/revivify.md)
 7th | [banishment](../../Magic/Spells/banishment.md), [blight](../../Magic/Spells/blight.md)
 9th | [antilife shell](../../Magic/Spells/antilife-shell.md), [legend lore](../../Magic/Spells/legend-lore.md)
 
