@@ -72,5 +72,5 @@ Whenever you use a Blade Flourish option, you can roll a d6 and use it instead o
 # Custom Bard Spells
 The College of Swords developed many custom spells over the years.
 
-* 2nd: [body spin]()
-* 4th: [winterfloor]()
+* 2nd: [body spin](../../Magic/Spells/body-spin.md)
+* 4th: [winterfloor](../../Magic/Spells/winterfloor.md)
