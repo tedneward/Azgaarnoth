@@ -55,12 +55,11 @@ For "simple" items (+1 weapons, armor, etc), with no additional embellishments o
 * *+1 medium armor*: 2000gp
 * *+1 heavy armor*: 5000gp
 * *+1 shield* or *+1 tower shield*: 1500gp
-* *+1 vambrances*, etc: 
+* *+1 vambrances*, etc: 1000gp
 
-"Second-tier" items (+2 weapons, armor, etc), with no additional embellishments or features are much rarer, typically must be commissioned if not found, and often are *restricted* or *keyed*, as described below. If they can be purchased, they will often command prices like so:
+"Second-tier" items (+2 weapons, armor, etc), with no additional embellishments or features are much rarer, typically must be commissioned if not found, and often are *restricted* or *keyed*, as described below. If they can be purchased, they will often command high prices.
 
 * *+2 ammunition* (arrows, bolts): 100gp each. +2 ammunition is the most common "second-tier" item that can be purchased, but typically only at a high-end smithy with ties to a mage school.
-* 
 
 ## Restricted Items
 Many arcane item smiths have long known ways to "tie" an item to a specific collection of creatures, usually by creature type or sub-type (like *dwarven plate*, for example). Many arcane smiths have found that applying such restrictors to items can grant the item additional benefits or abilities, or extend the utility of the item (such as additional charges). Some smiths have even figured out how to add a "defense" mechanism to the restriction, so that creatures of certain categories that attempt to attune or even touch the item suffer some negative consequence.
