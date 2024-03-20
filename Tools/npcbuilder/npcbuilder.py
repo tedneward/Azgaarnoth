@@ -1565,7 +1565,13 @@ def generatenpc():
                 scores.pop(0)
                 stats.remove(stat)
 
-        (choose("Method:", {"Standard": standard, "NPC": npcstandard, "Hand": handentry, "Randomgen": randomgen, "Average": average}))[1]()
+        (choose("Method:", {
+            "Standard": standard, 
+            "NPC": npcstandard, 
+            "Hand": handentry, 
+            "Randomgen": randomgen, 
+            "Average": average
+        }))[1]()
 
     def selectrace():
         (_, mod) = choose("Choose a race: ", races)
