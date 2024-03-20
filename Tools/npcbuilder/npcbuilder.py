@@ -1501,6 +1501,21 @@ def generatenpc():
         if levelfn != None: levelfn(npc)
 
     def selectabilities():
+        # Other methods:
+        # Balanced:
+        #   Terrible: 8,8,8,8,7,7
+        #   Bad: 10,10,10,10,10,8
+        #   Poor: 12,12,11,10,10,8
+        #   Good: 16,14,12,11,10,10
+        #   Hero: 18,16,14,12,10,10
+        #   Epic: 20,16,14,14,12,10
+        # Unbalanced:
+        #   Terrible: 12,8,8,8,8,7
+        #   Bad: 13,10,8,8,8,8
+        #   Lower: 13,10,10,10,8,8
+        #   Medium: 14,12,10,10,8,8
+        #   High: 16,14,12,10,8,8
+
         def roll():
             return random.randrange(1,6) + random.randrange(1,6) + random.randrange(1,6)
         def handentry():
