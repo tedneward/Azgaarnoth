@@ -22,7 +22,7 @@ def allyofflame(npc):
     npc.actions.append("***Ally of Flame.*** Any time an ally makes a saving throw against one of your spells that deals fire damage they take half damage on a failed save and no damage on success. You may expend one hit dice to have a creature automatically succeed on their saving throw, you can protect as many creatures as you have hit dice.")
 
 def allyofflame_prereq(npc):
-    return npc.subclasses[allclasses['Warlock']].name == 'Phoenix'
+    return npc.levels('Warlock') > 0 and npc.subclasses[allclasses['Warlock']].name == 'Phoenix'
 ```
 
 ### Ambassador of the Depths
@@ -50,7 +50,7 @@ def arcanespecialty(npc):
     npc.actions.append("***Arcane Specialty (Recharges on long rest).*** When you finish a long rest with the skull in your possession, you can select one school of magic (abjuration, conjuration, etc). When you use your magic skull as a spellcasting focus to cast a warlock spell of 1st-level or higher, if the spell belongs to the chosen school of magic, you can also cast a cantrip that belongs to the same school of magic as part of the same action. You can't use this invocation to cast eldritch blast.")
 
 def arcanespecialty_prereq(npc):
-    return npc.pactboon == 'Pact of the Skull'
+    return npc.levels('Warlock') > 0 and npc.pactboon == 'Pact of the Skull'
 ```
 
 ### Armor of Shadows
@@ -87,7 +87,7 @@ def aspectofthemoon(npc):
     npc.conditionimmunities.append("sleep")
 
 def aspectofthemoon_prereq(npc):
-    return npc.pactboon == 'Pact of the Tome'
+    return npc.levels('Warlock') > 0 and npc.pactboon == 'Pact of the Tome'
 ```
 
 ### Baleful Blood
@@ -102,7 +102,7 @@ def balefulblood(npc):
     npc.defer(lambda npc: npc.reactions.append(f"***Baleful Blood ({npc.proficiencybonus()}/Recharges on long rest). When you take slashing, bludgeoning, or piercing damage, or damage from a Blood spell, you inflict vengeance on the creature that damaged you; if the target is within 60 feet of you and you can see it, it takes {npc.CHAbonus()} force damage.") )
 
 def balefulblood_prereq(npc):
-    return npc.pactboon == 'Pact of the Blood'
+    return npc.levels('Warlock') > 0 and npc.pactboon == 'Pact of the Blood'
 ```
 
 ### Beast Speech
@@ -162,7 +162,7 @@ def bookofancientsecrets(npc):
     npc.traits.append("***Book of Ancient Secrets.*** You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the *ritual* tag from any class's spell list (the two needn't be from the same list). The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the *ritual* tag. On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it. There is no limit to the number of rituals you can have in your Book.")
 
 def bookofancientsecrets_prereq(npc):
-    return npc.pactboon == 'Pact of the Tome'
+    return npc.levels('Warlock') > 0 and npc.pactboon == 'Pact of the Tome'
 ```
 
 ### Chain Master's Fury
@@ -175,7 +175,7 @@ def chainmastersfury(npc):
     npc.bonusactions.append("***Chain Master's Fury.*** You command your familiar to make one attack.")
 
 def chainmastersfury_prereq(npc):
-    return npc.pactboon == 'Pact of the Tome' and npc.levels('Warlock') >= 9
+    return npc.levels('Warlock') >=9 and npc.pactboon == 'Pact of the Tome'
 ```
 
 ### Chains of Carceri
@@ -275,7 +275,7 @@ As an action, you can touch a suit of armor that isn't being worn or carried by 
 def eldritcharmor(npc):
     npc.actions.append("***Eldritch Armor.*** You touch a suit of armor that isn't being worn or carried by anyone and instantly don it, provided you aren't wearing armor already. You are proficient with this suit of armor until it's removed.")
 
-def eldritcharmor_prereq(npc): return npc.pactboon == 'Pact of the Blade'
+def eldritcharmor_prereq(npc): return npc.levels('Warlock') > 0 and npc.pactboon == 'Pact of the Blade'
 ```
 
 ### Eldritch Mind
@@ -287,7 +287,7 @@ You have advantage on Constitution saving throws that you make to maintain your 
 def eldritchmind(npc):
     npc.traits.append("***Eldritch Mind.*** You have advantage on Constitution saving throws that you make to maintain your concentration on a spell.")
 
-def eldritchmind_prereq(npc): return npc.pactboon == 'Pact of the Tome'
+def eldritchmind_prereq(npc): return npc.levels('Warlock') > 0 and npc.pactboon == 'Pact of the Tome'
 ```
 
 ### Eldritch Sight
@@ -351,7 +351,7 @@ def enticinggaze(npc):
     npc.actions.append("***Enticing Gaze.*** You attempt to enthrall one creature that you can see within 60 feet. If the target can see you, it must succeed on a Wisdom saving throw or become charmed by you for 1 minute. While it is charmed in this way, it regards you as a trusted friend to be heeded and protected If you or your companions do anything harmful to the target, the effect ends immediately. You can't use this invocation while you are in sunlight.")
 
 def enticinggaze_prereq(npc):
-    return "Vampiric Aspect" in npc.invocations
+    return npc.levels('Warlock') > 0 and "Vampiric Aspect" in npc.invocations
 ```
 
 ### Eyes of the Rune Keeper
@@ -440,7 +440,7 @@ Whenever you regain hit points while your familiar is within 100 feet of you, tr
 def giftoftheeverlivingones(npc):
     npc.traits.append("***Gift of the Ever-Living Ones.*** Whenever you regain hit points while your familiar is within 100 feet of you, treat any dice rolled to determine the hit points you regain as having rolled their maximum value for you.")
 
-def giftoftheeverlivingones_prereq(npc): return npc.pactboon == 'Pact of the Chain'
+def giftoftheeverlivingones_prereq(npc): return npc.levels('Warlock') > 0 and npc.pactboon == 'Pact of the Chain'
 ```
 
 ### Gift of the Protectors
@@ -493,7 +493,7 @@ def graspingshadow(npc):
     npc.bonusactions.append("***Grasping Shadow.*** You can command your shadow servant to grapple a creature within 5 feet of the servant, using your warlock spellcasting ability in place of its Strength for the Strength (Athletics) check.")
 
 def graspingshadow_prereq(npc):
-    return npc.pactboon == 'Pact of the Shadow'
+    return npc.levels('Warlock') > 0 and npc.pactboon == 'Pact of the Shadow'
 ```
 
 ### Hag's Heritage
@@ -512,7 +512,7 @@ However, you also have the following flaws:
 * **Hideous Countenance.** Your true appearance is ugly, and those who see your true form or your cursed form may become disgusted or worse. Whenever a creature sees either your true form or your cursed form for the first time, it must succeed on a DC 13 Wisdom saving throw or else it becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek to flee from you or make you leave the area in nonviolent ways (at the DM's discretion1 depending on the nature of your interaction with it.
 
 ```
-def hagsheritage_prereq(npc): return npc.subclasses[allclasses['Warlock']].name == 'Progenitor'
+def hagsheritage_prereq(npc): return npc.levels('Warlock') > 0 and npc.subclasses[allclasses['Warlock']].name == 'Progenitor'
 def hagsheritage(npc):
     npc.traits.append("***Hag's Heritage.*** You have advantage on saving throws against being charmed.")
     npc.conditionimmunities.append("sleep")
@@ -538,7 +538,7 @@ Finally, the weapon you conjure can be a shortbow, longbow, light crossbow, or h
 def improvedpactweapon(npc):
     npc.traits.append("***Improved Pact Weapon.*** You can use any weapon you summon with your Pact of the Blade feature as a spellcasting focus for your warlock spells. In addition, the weapon gains a +1 bonus to its attack and damage rolls, unless it is a magic weapon that already has a bonus to those rolls. Finally, the weapon you conjure can be a shortbow, longbow, light crossbow, or heavy crossbow.")
 
-def improvedpactweapon_prereq(npc): return npc.pactboon == 'Pact of the Blade'
+def improvedpactweapon_prereq(npc): return npc.levels('Warlock') > 0 and npc.pactboon == 'Pact of the Blade'
 ```
 
 ### Increased Vitality
@@ -551,7 +551,7 @@ def increasedvitality(npc):
     npc.defer(lambda npc: npc.actions.append(f"***Increased Vitality.*** You gain {npc.CHAbonus()} extra hit dice.") )
 
 def increasedvitality_prereq(npc):
-    return npc.subclasses[allclasses['Warlock']].name == 'Phoenix'
+    return npc.levels('Warlock') > 0 and npc.subclasses[allclasses['Warlock']].name == 'Phoenix'
 ```
 
 ### Investment of the Chain Master
@@ -568,7 +568,7 @@ When you cast [find familiar](../../Magic/Spells/find-familiar.md), you infuse t
 def investmentofthechainmaster(npc):
     npc.defer(lambda npc: npc.traits.append(f"***Investment of the Chain Master.*** When you cast {spelllinkify('find familiar')}, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits: The familiar gains either a flying speed or a swimming speed (your choice) of 40 feet; The familiar no longer needs to breathe; The familiar's weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks; If the familiar forces a creature to make a saving throw, it uses your spell save DC ({npc.pactmagic.spellsavedc()}).") )
 
-def investmentofthechainmaster_prereq(npc): return npc.pactboon == 'Pact of the Chain'
+def investmentofthechainmaster_prereq(npc): return npc.levels('Warlock') > 0 and npc.pactboon == 'Pact of the Chain'
 ```
 
 ### Ironfell Blade
@@ -721,7 +721,7 @@ However, you also have the following flaw:
 ***Silver Hypersensitivity.*** You have vulnerability to bludgeoning, piercing, and slashing damage dealt by silvered weapons. While touching silver, you have disadvantage on attack rolls and ability checks.
 
 ```
-def powerofthemoon_prereq(npc): return npc.subclasses[allclasses['Warlock']].name == 'Progenitor'
+def powerofthemoon_prereq(npc): return npc.levels('Warlock') > 0 and npc.subclasses[allclasses['Warlock']].name == 'Progenitor'
 def powerofthemoon(npc):
     npc.traits.append("***Power of the Moon.*** You count as a shapechanger at all times. While you're in your Cursed Shapechanger form, and in moonlight at night, you gain a +1 bonus to AC and attack rolls and have advantage on saving throws.")
     npc.traits.append("***Silver Hypersensitivity.*** You have vulnerability to bludgeoning, piercing, and slashing damage dealt by silvered weapons. While touching silver, you have disadvantage on attack rolls and ability checks.")
@@ -920,7 +920,7 @@ However, you also have the following flaws:
 ***Sunlight Hypersensitivity.*** You take radiant damage equal to 5 + your level when you start your turn in sunlight. While in sunlight, you have disadvantage on attack rolls and ability checks.
 
 ```
-def vampiricaspect_prereq(npc): return npc.subclasses[allclasses['Warlock']].name == 'Progenitor'
+def vampiricaspect_prereq(npc): return npc.levels('Warlock') > 0 and npc.subclasses[allclasses['Warlock']].name == 'Progenitor'
 def vampiricaspect(npc):
     npc.damageresistances.append('necrotic')
     npc.type = npc.type + "/undead"
@@ -964,7 +964,7 @@ You can communicate telepathically with your familiar and perceive through your 
 def voicesofthechainmaster(npc):
     npc.traits.append("***Voices of the Chain Master.*** You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.")
 
-def voicesofthechainmaster_prereq(npc): return npc.pactboon == 'Pact of the Chain'
+def voicesofthechainmaster_prereq(npc): return npc.levels('Warlock') > 0 and npc.pactboon == 'Pact of the Chain'
 ```
 
 ### Whispers of the Grave
@@ -1499,6 +1499,9 @@ invocations = {
     'Witch Sight': [witchsight, witchsight_prereq]
 }
 def chooseinvocation(npc):
+    if getattr(npc, 'invocations', None) == None:
+        npc.invocations = []
+
     choices = {}
     for (name, fnlist) in invocations.items():
         prereqfn = fnlist[1]

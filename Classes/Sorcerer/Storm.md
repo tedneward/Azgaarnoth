@@ -14,11 +14,11 @@ The arcane magic you command is infused with elemental air. You can speak, read,
 **Storm Sorcerer Bonus Spells**
 Sorcerer Level | Spells
 -------------- | ------
-1st | Fog cloud, thunderwave
-3rd | Gust of wind, levitate
-5th | Call lightning, sleet storm
-7th | Conjure minor elementals (smoke mephits, steam mephits, ice mephits, or dust mephits only),  ice storm
-9th | Conjure elemental (air elementals only)
+1st | fog cloud, thunderwave
+3rd | gust of wind, levitate
+5th | call lightning, sleet storm
+7th | conjure minor elementals (smoke mephits, steam mephits, ice mephits, or dust mephits only),  ice storm
+9th | conjure elemental (air elementals only)
 
 ```
 bonusspells = {

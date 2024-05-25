@@ -42,7 +42,7 @@ You can choose a second option from the Fighting Style feature.
 
 ```
 def level10(npc):
-    npc.traits.append("***TODO***")
+    allclasses['Fighter'].choosestyle(npc)
 ```
 
 ## Devastating Critical
@@ -52,7 +52,7 @@ When you score a critical hit with a weapon attack, you gain a bonus to that wea
 
 ```
 def level15(npc):
-    npc.traits.append("***TODO***")
+    npc.defer(lambda npc: npc.traits.append("***Devastating Critical.*** When you score a critical hit with a weapon attack, you gain a +{npc.levels('Fighter')}bonus to that weapon's damage roll.") )
 ```
 
 
@@ -63,5 +63,5 @@ You attain the pinnacle of resilience in battle. At the start of each of your tu
 
 ```
 def level18(npc):
-    npc.traits.append("***TODO***")
+    npc.defer(lambda npc: npc.traits.append("***Survivor.*** At the start of each of your turns in combat, you regain {5 + npc.CONbonus()} hit points. You don't gain this benefit if you have 0 hit points or if you have more than half of your hit points left.") )
 ```

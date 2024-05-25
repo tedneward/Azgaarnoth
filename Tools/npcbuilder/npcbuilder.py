@@ -1125,20 +1125,17 @@ class NPC:
         
         def genage():
             ages = [
-                "Adolescent", "Young adult", "Adult", "Middle-aged", "Old", "Elderly"
+                "Adolescent", "Young adult", "Adult", 
+                "Middle-aged", "Old", "Elderly"
             ]
-            age = dieroll('1d4 + 1')
-            if self.levels() < 5:
-                age -= 1
-            elif self.levels() > 10:
-                age += 1
+            age = dieroll('1d4') + 1
+            if self.levels() < 5: age -= 1
+            elif self.levels() > 10: age += 1
             if age < 0: age = 0
-            if age > len(ages): age = len(ages) - 1
+            if age >= len(ages): age = len(ages) - 1
             return ages[age]
 
-        def genlifepath():
-            
-
+        def genlifepath(npc):
             age = genage()
             events = 0
             if age == 'Adolescent': events = dieroll('1d4') 
@@ -1148,28 +1145,28 @@ class NPC:
             elif age == 'Old': events = dieroll('2d8') 
             elif age == 'Elderly': events = dieroll('3d8')
             while events > 0:
-                events -= 1
                 event = dieroll('1d10')
                 if event == 1:
-                    print("Nemesis event!")
+                    npc.description.append("***Nemesis event.***")
                 elif event == 2:
-                    print("Mentor event!")
+                    npc.description.append("***Mentor event.***")
                 elif event == 3:
-                    print("Event!")
+                    npc.description.append("***Event.***")
                 elif event == 4:
-                    print("Notoriety event!")
+                    npc.description.append("***Notoriety event.***")
                 elif event == 5:
-                    print("Romance event!")
+                    npc.description.append("***Romance event.***")
                 elif event == 6:
-                    print("Possessions event!")
+                    npc.description.append("***Possessions event.***")
                 elif event == 7:
-                    print("Revelations event!")
+                    npc.description.append("***Revelations event.***")
                 elif event == 8:
-                    print("Political event!")
+                    npc.description.append("***Political event.***")
                 elif event == 9:
-                    print("Creations event!")
+                    npc.description.append("***Creations event.***")
                 elif event == 10:
-                    print("Friends event!")
+                    npc.description.append("***Friends event.***")
+                events -= 1
         
         def genappearance():
             features = [
@@ -1480,10 +1477,11 @@ class NPC:
             for equip in self.equipment:
                 result += f">{equip}\n"
                 result +=  ">\n"
+        genlifepath(self)
         result += "\n#### Description\n"
         result += f"***Ideals:*** *{genideal()}/{genideal()}/{genideal()}.*\n\n"
         result += f"***Motivation:*** *{genmotivation()}.*\n\n"
-        result += f"***Appearance:*** *{genage(self)}*, *{genappearance()}.*\n\n"
+        result += f"***Appearance:*** *{genage()}*, *{genappearance()}.*\n\n"
         result += f"***Talents:*** *{gentalent()}.*\n\n"
         result += f"***Mannerisms:*** *{genmannerism()}.*\n\n"
         result += f"***Interactions (with others):*** *{geninteractions()}*.\n\n"
@@ -1503,6 +1501,21 @@ def generatenpc():
         if levelfn != None: levelfn(npc)
 
     def selectabilities():
+        # Other methods:
+        # Balanced:
+        #   Terrible: 8,8,8,8,7,7
+        #   Bad: 10,10,10,10,10,8
+        #   Poor: 12,12,11,10,10,8
+        #   Good: 16,14,12,11,10,10
+        #   Hero: 18,16,14,12,10,10
+        #   Epic: 20,16,14,14,12,10
+        # Unbalanced:
+        #   Terrible: 12,8,8,8,8,7
+        #   Bad: 13,10,8,8,8,8
+        #   Lower: 13,10,10,10,8,8
+        #   Medium: 14,12,10,10,8,8
+        #   High: 16,14,12,10,8,8
+
         def roll():
             return random.randrange(1,6) + random.randrange(1,6) + random.randrange(1,6)
         def handentry():
@@ -1552,7 +1565,13 @@ def generatenpc():
                 scores.pop(0)
                 stats.remove(stat)
 
-        (choose("Method:", {"Standard": standard, "NPC": npcstandard, "Hand": handentry, "Randomgen": randomgen, "Average": average}))[1]()
+        (choose("Method:", {
+            "Standard": standard, 
+            "NPC": npcstandard, 
+            "Hand": handentry, 
+            "Randomgen": randomgen, 
+            "Average": average
+        }))[1]()
 
     def selectrace():
         (_, mod) = choose("Choose a race: ", races)

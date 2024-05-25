@@ -7,8 +7,6 @@
 
 **Citadel.** Shiagan retains a citadel for the upper ranks and guests, and much of the elite guard resides there.
 
-**Plaza.** Shiagan's city center boasts a large plaza, called **TODO**, which is a central place in the lives of many within the city.
-
 ## Geography
 
 ![](Shiagan.jpeg)
@@ -16,6 +14,48 @@
 Latitude: -7.14, Longitude: 31.51
 
 City Elevation: 207
+
+### "Outer Ring" districts
+The "Outer Ring" is the city of the merchants, commoners, and lower classes. It is here where much of the city's day-to-day activity takes place.
+
+#### Bridge Market District
+
+#### Bridge Village District
+
+#### Bright Market District
+
+#### Charger's District
+
+#### Iron Piers District
+
+#### Servant's Farthing
+
+#### Demon's Borough
+
+#### Archscepter Ward
+
+#### Citadel Village
+
+#### Lake Borough
+
+#### Broad Market
+
+#### Chain Docks
+
+### "Citadel" districts
+The Citadel, a collection of four districts at the heart of the city, are reserved for the upper classes--the residences and halls of the nobility and leadership, along with a few older mage schools and temples. Residence here is a sign of wealth, power, and prestige, and those who live here do so at exorbitant expense.
+
+#### Falls Ward
+
+#### Bell Ward
+
+#### Crown Ward
+
+#### Old Queenscourt Village
+
+
+
+
 
 ## Prominent Figures
 **TODO**, Paladin 12, Captain of the City Guard
@@ -54,23 +94,15 @@ City Elevation: 207
 
 **TODO**, Paladin 7, High Priest of [Kaevarian Church](../Religions/KaevarianChurch.md)
 
-**TODO**, Cleric 11, High Priest of [Spiritualism](../Religions/Spirits.md)
-
 **TODO**, Paladin 8, High Priest of WeeJas
-
-**TODO**, Cleric 7, High Priest of [Al'Uma - Prophet](../Religions/AlUma.md)
 
 **TODO**, Warlock 9, High Priest of [Spiritualism](../Religions/Spirits.md)
 
-**TODO**, Cleric 10, High Priest of [Druidism]((../Religions/Druidism.md))
-
-**TODO**, Rogue 7, Guildmaster of the Red Rose rogues guild
+**TODO**, Druid 10, High Priest of [Druidism]((../Religions/Druidism.md))
 
 **TODO**, Rogue 11, Guildmaster of the Gilded Fabulous Devil rogues guild
 
 **TODO**, Monk 10, Guildmaster of the Harmonic Purple Octopus rogues guild
-
-**TODO**, Rogue 11, Guildmaster of the Red Rose rogues guild
 
 **TODO**, Rogue 12, Guildmaster of the Contract of the Sepia Shield rogues guild
 
@@ -80,49 +112,25 @@ City Elevation: 207
 
 **TODO**, Rogue 12, Guildmaster of the Red Rose rogues guild
 
-**TODO**, Rogue 7, Guildmaster of the Red Rose rogues guild
-
 **TODO**, Ranger 7, Guildmaster of the Black Masks rogues guild
 
 **TODO**, Rogue 10, Guildmaster of the Contract of the Nightshade Sheep rogues guild
 
-**TODO**, Ranger 11, Guildmaster of the  Traders of the Sleepy Boat rogues guild
+**TODO**, Ranger 11, Guildmaster of the Traders of the Sleepy Boat rogues guild
 
-**TODO**, Guildmaster - Vekku Guild
-
-**TODO**, Guildmaster - Vekku Guild
-
-**TODO**, Guildmaster - Hammerfist Compact
-
-**TODO**, Guildmaster - Vekku Guild
-
-**TODO**, Guildmaster - Compact of the Kaze Clan
+**Gothrash Breathtaker**, Guildmaster - Compact of the Kaze Clan (Hobgoblin Fighter 2)
 
 **TODO**, Guildmaster - Hammerfist Compact
 
 **TODO**, Guildmaster - Slayer Conclave
 
 **TODO**, Guildmaster - Slayer Conclave
-
-**TODO**, Guildmaster - Vekku Guild
-
-**TODO**, Guildmaster - Hammerfist Compact
 
 **TODO**, Guildmaster - Vekku Guild
 
 **TODO**, Guildmaster - Lonely Tragekian Faction
 
 **TODO**, Guildmaster - Kaalean Mercantile Compact
-
-**TODO**, Guildmaster - Kaalean Mercantile Compact
-
-**TODO**, Guildmaster - Compact of the Kaze Clan
-
-**TODO**, Guildmaster - Kaalean Mercantile Compact
-
-**TODO**, Guildmaster - Vekku Guild
-
-**TODO**, Guildmaster - Vekku Guild
 
 **TODO**, Monk 11 Grand Sensei of the Order of the Nefarious Consortium monastic order
 
@@ -168,23 +176,21 @@ Lyceum of the Shimmering Shield
 Lodge of the Wooden Rapier
 
 ## Mage Schools
-**[Night's Blessing](../Organizations/MageSchools/Night's Blessing.md)**
+**[Night's Blessing](../Organizations/MageSchools/NightsBlessing.md)**
 
-**[Collared Fiend](../Organizations/MageSchools/Collared Fiend.md)**
+**[Collared Fiend](../Organizations/MageSchools/CollaredFiend.md)**
 
-**[Glittering Eye](../Organizations/MageSchools/Glittering Eye.md)**
+**[Glittering Eye](../Organizations/MageSchools/GlitteringEye.md)**
 
-**[Blue Sky](../Organizations/MageSchools/Blue Sky.md)**
+**[Blue Sky](../Organizations/MageSchools/BlueSky.md)**
 
-**[The Navy Arch](../Organizations/MageSchools/The Navy Arch.md)**
+**[The Navy Arch](../Organizations/MageSchools/TheNavyArch.md)**
 
-**[Silver Column](../Organizations/MageSchools/Silver Column.md)**
+**[Silver Column](../Organizations/MageSchools/SilverColumn.md)**
 
-**[Drowning Monument](../Organizations/MageSchools/Drowning Monument.md)**
+**[Drowning Monument](../Organizations/MageSchools/DrowningMonument.md)**
 
 **[Nethermancers](../Organizations/MageSchools/Nethermancers.md)**
-
-**[School of the Eldar](../Organizations/MageSchools/School of the Eldar.md)**
 
 ## Religious Organizations
 **Temple.** The temple to [Al'Uma - Prophet](../Religions/AlUma.md) has around 370 followers.

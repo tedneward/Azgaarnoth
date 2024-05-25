@@ -3,6 +3,8 @@ Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they 
 
 > Jump to: [Bugbear](Bugbears.md#bugbear) | [Bugbear Chief](Bugbears.md#bugbear-chief) | [Blood Ghost Berserker](Bugbears.md#blood-ghost-berserker)
 
+![](Bugbears.png)
+
 ***Goblinoids.*** Bugbears are often found in the company of their cousins, [hobgoblins](Hobgoblins.md) and [goblins](Goblins.md). Bugbears usually enslave goblins they encounter, and they bully hobgoblins into giving them gold and food in return for serving as scouts and shock troops. Even when paid, bugbears are at best unreliable allies, yet goblins and hobgoblins understand that no matter how much bugbears might drain a tribe of resources, these creatures are a potent force.
 
 ***Followers of Hruggek.*** Bugbears worship Hruggek, a lesser god who dwells on the plane of Acheron. In the absence of their goblinoid kin, bugbears form loose war bands, each one led by its fiercest member. Bugbears believe that when they die, their spirits have a chance to fight at Hruggek's side. They try to prove themselves worthy by defeating as many foes as possible.
@@ -14,13 +16,13 @@ Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they 
 ---
 
 ## Bugbear
-(No description given)
+The average bugbear is a fearsome humanoid, often able to wreak serious havoc on a battlefield against other humanoids... but only when it can be compelled out of its laziness to do so.
 
 ### Environment
 Forest, Grassland, Underdark, Urban
 
 ### Token
-![](Bugbear-Token.png)
+![](Bugbears-Token.png)
 
 >### Bugbear
 >*Medium humanoid (goblinoid), chaotic evil*
@@ -64,7 +66,7 @@ Many bugbear chiefs are simply the strongest or most brutal of the tribe, but as
 Forest, Grassland, Underdark, Urban
 
 ### Token
-![](BugbearChief-Token.png)
+![](Bugbears-Chief-Token.png)
 
 >### Bugbear Chief
 >*Medium humanoid (goblinoid), chaotic evil*
@@ -112,7 +114,7 @@ The bugbear that follows the path of the Blood Ghost Beserker tribe is generally
 Forest, Grassland, Underdark, Urban
 
 ### Token
-![](BloodGhostBerserker-Token.png)
+![](Bugbears-BloodGhostBerserker-Token.png)
 
 >### Blood Ghost Berserker
 >*Medium humanoid, chaotic evil*

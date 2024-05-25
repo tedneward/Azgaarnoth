@@ -20,4 +20,7 @@ def level0(npc):
     npc.traits.append(traits['amphibious'])
     npc.speed['swimming'] = npc.speed['walking']
     npc.languages.append("Aquan")
+
+def generate_name(npc):
+    return random(['Akira', 'Kaida', 'Makoto', 'Nami', 'Takeshi', 'Yori', 'Mizuki'])
 ```
