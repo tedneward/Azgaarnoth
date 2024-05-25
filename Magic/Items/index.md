@@ -12,6 +12,8 @@ Some items can only be a particular specific within the category--for example, a
 
 * *Defense*: Armor, Bracers, Gauntlets, Helm, Shield, Barding
 
+* *Shield*: Buckler, Shield, Tower Shield
+
 * *Focus*: Amulet, Grimoire, Rod, Scepter, Staff, Wand
 
 * *Footwear*: Boots, Shoes, Slippers
