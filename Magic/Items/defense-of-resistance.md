@@ -1,7 +1,7 @@
-# *Ornament* of Resistance
+# *Defense* of Resistance
 *rare (requires attunement)*
 
-You have resistance to one damage type while wearing this. The gem in the *ornament* indicates the type:.
+You have resistance to one damage type while wearing this. Gems inlaid in the *defense* indicates the type:.
 
 d10 | Damage Type | Gem
 --- | ----------- | ---------------
@@ -17,3 +17,5 @@ d10 | Damage Type | Gem
  10 | Thunder | Spinel
 
 Legendary versions of this *ornament* will have two gems; if they are of the same type, they provide immunity to that damage type.
+
+This defense offers no additional bonus to AC.

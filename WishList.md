@@ -1,0 +1,11 @@
+# Wish List
+It has apparently become something of a fashion for players to defray some of the costs DMs incur when running D&D campaigns; it's a nice gesture, and in that vein, I'm putting together a list of sourcebooks (PDF only--while I love the artwork, PDFs are soooo much easier to work with, most of the time, particularly when ripping them apart and splicing them in here) that I'd love to have:
+
+* [*Return of the Lazy Dungeon Master*](https://preview.drivethrurpg.com/en/product/251431/Return-of-the-Lazy-Dungeon-Master)
+* [*Lazy DM's Forge of Foes*](https://preview.drivethrurpg.com/en/product/455956/The-Lazy-DMs-Forge-of-Foes)
+* [*Monster Manual Expanded (Bundle)*](https://www.dmsguild.com/product/413231/Monster-Manual-Expanded-Adamantine-Bundle-PDFs-BUNDLE) - This one's kinda expensive ($75, last I checked), because it's three sourcebooks, but that then opens up a LOT of monsters with which to totally eviscerate the party--*cough* I mean, entertain, yes, entertain!--the party.
+* [*Tome of Beasts 1*](https://preview.drivethrurpg.com/en/product/190499/tome-of-beasts-for-5th-edition-2023-edition), [*Tome of Beasts 2*](https://preview.drivethrurpg.com/en/product/334518/tome-of-beasts-2-for-5th-edition), [*Tome of Beasts 3*](https://preview.drivethrurpg.com/en/product/416964/tome-of-beasts-3-for-5th-edition) - Vol 3 looks like the most interesting of the 3 volumes released, but all of them seem to offer up... options...
+* [*Strongholds and Followers*](https://shop.mcdmproductions.com/collections/strongholds-followers-books/products/strongholds-followers-pdf) - The official Bastions material leaves me a little underwhelmed
+* [*Kingdoms and Warfare*](https://shop.mcdmproductions.com/products/kingdoms-and-warfare-pdf) - This feels like a natural successor to *Strongholds & Followers*, because what good is a stronghold/demesne if you can't go invade somebody with it?!?
+* [*Flee, Mortals!*](https://shop.mcdmproductions.com/collections/flee-mortals-the-mcdm-monster-book/products/flee-mortals-the-mcdm-monster-book-pdf): 300+ stat blocks for new creatures? Oh, my, yes, please.
+* [*Griffon's Saddlebag*](https://www.thegriffonssaddlebag.com/) - This is supposedly one book with another volume coming out soon, but I can't find PDFs on the site.
