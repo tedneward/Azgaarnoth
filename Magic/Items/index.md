@@ -30,7 +30,7 @@ Some items can only be a particular specific within the category--for example, a
 
 * *Weapon*: Axe, Bow (long, short), Dagger, Flail, Mace, Spear, Sword, Trident, ...
 
-* *Vessel*: Bag, Bowl, Censer, Chalice, Decanter, Flask, Jug, Sack, Vial
+* *Vessel*: Bag, Bottle, Bowl, Censer, Chalice, Decanter, Flask, Jug, Quiver, Sack, Vial
 
 ## One-shot Items
 *Items that hold only one charge/use*

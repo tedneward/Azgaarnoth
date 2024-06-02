@@ -1,5 +1,5 @@
 # *Clothing/Defense/Ornament* of Giant Strength
-*Wondrous item, rarity varies (requires attunement)*
+*Wondrous item*, *rarity varies (requires attunement)*
 
 While wearing this, your Strength score changes. The item has no effect on you if your Strength without the item is equal to or greater than the item’s score.
 
