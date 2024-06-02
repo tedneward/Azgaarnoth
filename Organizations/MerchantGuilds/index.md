@@ -27,7 +27,7 @@ Across the Azgaarnothian continent, hundreds of guilds routinely crisscross the 
 
 * *Agricultural*: many Guilds work with the farmers of Azgaarnoth, buying their harvest and shipping it elsewhere for resale. This denies the farmers the added markup of selling directly, but also relieves the farmers of transport costs/overhead and storage. Most agricultural Guilds are highly commoditized, and are often looking for any advantage they can get over their competitors.
 
-    * **[Kaze Clan Compact](KazeClan.md)**: Liria, Bedia, Travesimia, Travenia, Whaveminsia, Bagonbia, Mighalia. Heavily invested into agricultural products (harvests) and foodstuffs. A smaller, yet highly profitable, portion of the Compact is dedicated to the production of a variety of alcoholic beverages.
+    * **[Compact of the Kaze Clan](KazeClan.md)**: Liria, Bedia, Travesimia, Travenia, Whaveminsia, Bagonbia, Mighalia. Heavily invested into agricultural products (harvests) and foodstuffs. A smaller, yet highly profitable, portion of the Compact is dedicated to the production of a variety of alcoholic beverages.
 
 * *Entertainment*: these Guilds back musician and drama troupes, in return for percentage of the house take. These are generally newer Guilds, and many such Guilds were originally venture-backed by Donato's until they bought their investment back.
 
@@ -37,8 +37,5 @@ Across the Azgaarnothian continent, hundreds of guilds routinely crisscross the 
     * **Smolfont's**: Liria. Investments are medium-risk ventures, primarily around exotic trade.
     * **Stonegate and Drumhammer**: Liria, Travenia, and Bedia. Founded by a pair of dwarven merchants over five thousand years ago, this guild claims to be the oldest banking guild in existence, and proudly claims reserves in excess of 10 million gp worth. They are, however, extremely secretive, and refuse to disclose anything about their internal operations except under extreme duress.
 
-* **Mercenary's Guild**: quite possibly the most famous of the Merchant Guilds, either mercenary companies and/or their employers will require contracts to be filed with this Guild. The Guild will hold the contract sum in escrow (minus any up-front payment) until the fulfillment of the contract. Disputes will be heard by the Mercenary Bond Council, which forms a seven-person board of inquiry to investigate using means both physical and arcane. All board findings are final, and mercenary companies or employers that are found in violation of contract risk censure or even outright ban.
-
-    * **[Hammerfist Compact](HammerfistCompact.md)**
-    * **[Slayer Conclave](SlayerConclave.md)**
-
+* **[Mercenary's Guild](../MercCompanies/index.md)**: quite possibly the most famous of the Merchant Guilds, either mercenary companies and/or their employers will require contracts to be filed with this Guild. The Guild will hold the contract sum in escrow (minus any up-front payment) until the fulfillment of the contract. Disputes will be heard by the Mercenary Bond Council, which forms a seven-person board of inquiry to investigate using means both physical and arcane. All board findings are final, and mercenary companies or employers that are found in violation of contract risk censure or even outright ban. Nearly every city (that is, population over 5,000 people) in Azgaarnoth has at least a representative of the Mercenary's Guild within city limits.
+    Each individual mercenary company also generally files a guild contract (describing the by-laws, ownership, and operating procedures for the company) which technically makes them a merchant guild, but for the most part any issues around the operation or execution of a mercenary company falls to the Mercenary's Guild for adjudication.
