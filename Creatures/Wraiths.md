@@ -18,7 +18,7 @@ Wraiths sometimes rule the legions of the dead, plotting the doom of living crea
 ---
 
 ## Wraith
-![](Wraith.png)
+![](Wraiths-Wraith.png)
 
 The individual wraith is a frightening apparition, to be feared if faced without proper preparation.
 
@@ -151,13 +151,14 @@ Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Un
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|19 (+4)|19 (+4)|15 (+2)|17 (+3)|20 (+5)|
+>
 >___
 >- **Proficiency Bonus** +4
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
 >- **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 >- **Damage Immunities** necrotic, poison
->- **Condition Immunities** charmed,exhaustion,grappled,paralyzed,petrified,poisoned,prone,restrained
+>- **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
 >- **Skills** 
 >- **Senses** darkvision 60 ft., passive Perception 13
 >- **Languages** the languages it knew in life
