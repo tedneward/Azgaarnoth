@@ -20,6 +20,7 @@ Some halflings have independently shown characteristics of these two subraces of
 ```
 name = 'Halfling'
 description = "***Race: Halfling.*** Halflings are the archetypal small race, and have made beloved thieves and trackers and hosts for millennia."
+type = 'humanoid'
 
 def level0(npc):
     npc.DEX += 2
@@ -33,10 +34,46 @@ def level0(npc):
     npc.languages.append("Common")
     npc.languages.append("Halfling")
 
-def generate_name(npc, gender):
-    male_names = [ "Alton", "Ander", "Cade", "Corrin", "Eldon", "Errich", "Finnan", "Garret", "Lindal", "Lyle", "Merric", "Milo", "Osborn", "Perrin", "Reed", "Roscoe", "Wellby" ]
+```
+def generate_name(npc):
+    def generate_malefirstname():
+        return generatemarkovname([ "Alton", "Ander", "Cade", "Corrin", "Eldon", "Errich", "Finnan", "Garret", "Lindal", "Lyle", "Merric", "Milo", "Osborn", "Perrin", "Reed", "Roscoe", "Wellby" ])
 
-    female_names = ["Andry", "Bree", "Callie", "Cora", "Euphemia", "Jillian", "Kithri", "Lavinia", "Lidda", "Merla", "Nedda", "Paela", "Portia", "Seraphina", "Shaena", "Trym", "Vani", "Verna"]
+    def generate_femalefirstname():
+        return generatemarkovname(["Andry", "Bree", "Callie", "Cora", "Euphemia", "Jillian", "Kithri", "Lavinia", "Lidda", "Merla", "Nedda", "Paela", "Portia", "Seraphina", "Shaena", "Trym", "Vani", "Verna"])
 
-    family_names = ["Brushgather", "Goodbarrel", "Greenbottle", "Highhill", "Hilltopple", "Leagallow", "Lightleaf", "Lightgage", "Goodleaf", "Tealeaf", "Thorngage", "Tosscobble", "Tossleaf", "Underbough", "Underhill"]
+    def generate_lastname():
+        # Halfling lastnames are two-parters
+        preadjectives = [
+            'brush',
+            'good',
+            'red','green','yellow',
+            'heavy','light','under',
+            'copper','brass','gold','silver',
+        ]
+        nouns = [
+            'mountain','hill','cliff','range','mine','crag','storm','bough',
+            'root','gates','stone',
+            'belly','foot',
+            'barrel','bottle','crate','sack',
+            'branch','trunk','leaf',
+            'pants','vest','tunic','shirt',
+            'smith','shadow','forge','mantle',
+        ]
+        postadjectives = [
+            'brush',
+            'good',
+            'red','green','yellow',
+            'heavy','light',
+            'copper','brass','gold','silver',
+        ]
+        if randomint(0,1) == 0:
+            part1 = random(preadjectives).capitalize()
+            part2 = random(nouns)
+            return f"{part1}{part2}"
+        else:
+            part1 = random(nouns).capitalize()
+            part2 = random(postadjectives)
+            return f"{part1}{part2}"
+    return f"{generate_firstname()} {generate_lastname()}"
 ```

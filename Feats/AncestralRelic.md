@@ -20,9 +20,9 @@ def prereq(npc): return npc.levels() >= 3
 def apply(npc):
     if npc.levels() < 9:
         npc.equipment.append("***Ancestral Relic: Uncommon.***")
-    else if npc.levels() < 13:
+    elif npc.levels() < 13:
         npc.equipment.append("***Ancestral Relic: Rare.***")
-    else if npc.levels() < 17:
+    elif npc.levels() < 17:
         npc.equipment.append("***Ancestral Relic: Very Rare.***")
     else:
         npc.equipment.append("***Ancestral Relic: Legendary.***")

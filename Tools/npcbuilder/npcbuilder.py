@@ -12,7 +12,7 @@ import types
 # process. In essence, this is a flavor of "literate programming".
 
 quiet = False
-verbose = True
+verbose = False
 scripted = False
 SAVEPY = os.getenv('SAVE_PY')
 
@@ -570,7 +570,7 @@ def loadmodule(filename, modulename=None):
 
     literatecode = parsemd(filename)
     if len(literatecode) > 0:
-        if verbose: print(literatecode)
+        #if verbose: print(literatecode)
         if modulename == None:
             modulename = os.path.splitext(os.path.basename(filename))[0]
         module = types.ModuleType(modulename)
@@ -1695,8 +1695,9 @@ def main():
     if args.verbose != None:
         if args.verbose == 'verbose':
             verbose = True
-        elif args.verbose == 'quiet':
+        if args.verbose == 'quiet':
             quiet = True
+        print("Running verbose: ", verbose, " and quiet: ", quiet)
     
     if not scripted:
         npc = generatenpc()
