@@ -1,7 +1,7 @@
 # Trolls
 Trolls that are nearly obliterated but survive and regenerate from mere scraps of flesh can display bizarre features. Radically transformed trolls like the rot trolls, spirit trolls, and venom trolls that follow are especially likely to arise when trolls regenerate in the presence of magical emanations, planar energy, disease, or death on a vast scale, or if their bodies were damaged by elemental forces. These unusual forms can also be produced and shaped by the ritual magic of evil spellcasters or by trolls' own practices, as is the case for dire trolls.
 
-> Jump to: [Troll](Trolls.md#troll) | [Cave Troll](Trolls.md#cave-troll) | [Dire Troll](Trolls.md#dire-troll) | [Forest Troll](Trolls.md#forest-troll) | [Mountain Troll](Trolls.md#mountain-troll) | [River Troll](Trolls.md#river-troll) | [Rot Troll](Trolls.md#rot-troll) | [Spirit Troll](Trolls.md#spirit-troll) | [Stone Troll](Trolls.md#stone-troll) | [Venom Troll](Trolls.md#venom-troll) | [Troll Shaman](Trolls.md#troll-shaman)
+> Jump to: [Troll](Trolls.md#troll) | [Aquatic Troll](Trolls.md#aquatic-troll) [Cave Troll](Trolls.md#cave-troll) | [Dire Troll](Trolls.md#dire-troll) | [Forest Troll](Trolls.md#forest-troll) | [Mountain Troll](Trolls.md#mountain-troll) | [River Troll](Trolls.md#river-troll) | [Rot Troll](Trolls.md#rot-troll) | [Spirit Troll](Trolls.md#spirit-troll) | [Stone Troll](Trolls.md#stone-troll) | [Venom Troll](Trolls.md#venom-troll) | [Troll Shaman](Trolls.md#troll-shaman)
 
 ***Vaprak the Destroyer.*** Although trolls are rarely devout and seldom ponder spiritual questions, some fear and venerate the entity known as Vaprak the Destroyer. Vaprak's true nature is something of a mystery, but Vaprak is always portrayed as a horrid, misshapen, greenish creature strongly resembling a troll. Vaprak is given to fits of mindless destruction and uncontrollably fears the plots and ambitions of other deities.Vaprak's troll worshipers believe this god devours the souls of those who have been cooked or digested (slain by fire or acid). Otherwise, the god spits the soul back into the world to regenerate a new body.
 
@@ -55,6 +55,11 @@ Arctic, Forest, Hill, Mountain, Ruins, Swamp, Underdark
 >
 >***Claw.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
 >
+
+---
+
+## Aquatic Troll
+(TODO)
 
 ---
 

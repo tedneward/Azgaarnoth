@@ -1,9 +1,11 @@
 # Sahuagin
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn -- a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
 
-> Jump to: [Sahuagin](Sahuagin.md#sahuagin-1) | [Sahuagin Priestess](Sahuagin.md#sahuagin-priestess) | [Sahuagin Baron](Sahuagin.md#sahuagin-baron)
+> Jump to: [Sahuagin](Sahuagin.md#sahuagin-1) | [Sahuagin Raider](Sahuagin.md#sahuagin-raider) | [Sahuagin Priestess](Sahuagin.md#sahuagin-priestess) | [Sahuagin Baron](Sahuagin.md#sahuagin-baron)
 
 ***Devils of the Deep.*** Sahuagin are a predatory, piscine race that ventures from the ocean's black depths to hunt the creatures of the shallows and shore. Though they dwell in the deepest trenches of the ocean, sahuagin view the entire aquatic realm as their kingdom and the creatures in it as blood sport for their hunting parties.
+
+![](Sahuagin.png)
 
 The self-styled rulers of sahuagin ocean domains are massive mutant males that grow second sets of arms. They are terrible foes in battle, and all sahuagin bow down before these powerful barons.
 
@@ -24,10 +26,12 @@ The sahuagin put the *malenti* to good use as spies and assassins in aquatic elf
 ---
 
 ## Sahuagin
-(No description given)
+The average sahuagin is, like many races, an average combatant, but no less fierce for that. Males and females are of similar size and strength, and if they are found in their lair they will fight viciously to defend their homes, offering no quarter. They are quite intelligent, and will make use of whatever environmental advantages they can find, often lookign to leverage their natural physical abilities underwater.
+
+Rarely will an average sahuagin journey outside of their homes without either substantial numbers or guards to accompany them.
 
 ### Environment
-(FIXME)
+Coastal, Ocean, Undersea
 
 ### Token
 ![](Sahuagin-Token.png)
@@ -77,10 +81,11 @@ The sahuagin put the *malenti* to good use as spies and assassins in aquatic elf
 The sahuagin raiders are often the most experienced, toughest warriors of the tribe, most commonly used when the tribe seeks to wreak deadly violence upon the targets of their interest or wrath. They are almost always accompanied by at least one or more [priestesses](#sahuagin-priestess) and almost always led by a [baron](#sahuagin-baron).
 
 ### Environment
-Coastal, Undersea
+Coastal, Ocean, Undersea
 
 ### Token
-![]()
+![](Sahuagin-Raider-Token.png)
+![](Sahuagin-Raider-Token.png)
 
 >### Sahuagin Raider
 *Medium humanoid (Sahuagin) Fighter (Brute) 5, lawful evil*
@@ -92,6 +97,7 @@ Coastal, Undersea
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:-:|:-:|:-:|:-:|:-:|:-:|
 >|16 (+3)|11 (+0)|13 (+1)|12 (+1)|14 (+2)|9 (-1)|
+>
 >___
 >- **Proficiency Bonus** +3
 >- **Saving Throws** Str +6,Con +4
@@ -146,10 +152,10 @@ The sahuagin raiders often wear a form of half-plate made from Undersea material
 (No description given)
 
 ### Environment
-(FIXME)
+Coastal, Ocean, Undersea
 
 ### Token
-![](SahuaginPriestess-Token.png)
+![](Sahuagin-Priestess-Token.png)
 
 >### Sahuagin Priestess
 >*Medium humanoid (sahuagin), lawful evil*
@@ -180,13 +186,6 @@ The sahuagin raiders often wear a form of half-plate made from Undersea material
 >
 >***Shark Telepathy.*** The sahuagin can magically command any shark within 120 feet of her, using a limited telepathy.
 >
->***Spellcasting.*** The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following cleric spells prepared:
->
->* *Cantrips (at will):* [guidance](http://azgaarnoth.tedneward.com/magic/spells/guidance/), [thaumaturgy](http://azgaarnoth.tedneward.com/magic/spells/thaumaturgy/)
->* *1st level (4 slots):* [bless](http://azgaarnoth.tedneward.com/magic/spells/bless/), [detect magic](http://azgaarnoth.tedneward.com/magic/spells/detect-magic/), [guiding bolt](http://azgaarnoth.tedneward.com/magic/spells/guiding-bolt/)
->* *2nd level (3 slots):* [hold person](http://azgaarnoth.tedneward.com/magic/spells/hold-person/), [spiritual weapon](http://azgaarnoth.tedneward.com/magic/spells/spiritual-weapon/) (trident)
->* *3rd level (3 slots):* [mass healing word](http://azgaarnoth.tedneward.com/magic/spells/mass-healing-word/), [tongues](http://azgaarnoth.tedneward.com/magic/spells/tongues/)
->
 >#### Actions
 >***Multiattack.*** The sahuagin makes two attacks: one with her bite and one with her claws.
 >
@@ -194,17 +193,26 @@ The sahuagin raiders often wear a form of half-plate made from Undersea material
 >
 >***Claws.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.
 >
+>***Spellcasting.*** The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following cleric spells prepared:
+>
+>* *Cantrips (at will):* [guidance](http://azgaarnoth.tedneward.com/magic/spells/guidance/), [thaumaturgy](http://azgaarnoth.tedneward.com/magic/spells/thaumaturgy/)
+>* *1st level (4 slots):* [bless](http://azgaarnoth.tedneward.com/magic/spells/bless/), [detect magic](http://azgaarnoth.tedneward.com/magic/spells/detect-magic/), [guiding bolt](http://azgaarnoth.tedneward.com/magic/spells/guiding-bolt/)
+>* *2nd level (3 slots):* [hold person](http://azgaarnoth.tedneward.com/magic/spells/hold-person/), [spiritual weapon](http://azgaarnoth.tedneward.com/magic/spells/spiritual-weapon/) (trident)
+>* *3rd level (3 slots):* [mass healing word](http://azgaarnoth.tedneward.com/magic/spells/mass-healing-word/), [tongues](http://azgaarnoth.tedneward.com/magic/spells/tongues/)
+>
 
 ---
 
 ## Sahuagin Baron
 (No description given)
 
+![](Sahuagin-Baron.webp)
+
 ### Environment
-(FIXME)
+Coastal, Ocean, Undersea
 
 ### Token
-![](SahuaginBaron-Token.png)
+![](Sahuagin-Baron-Token.png)
 
 >### Sahuagin Baron
 >*Large humanoid (sahuagin), lawful evil*

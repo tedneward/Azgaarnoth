@@ -13,7 +13,7 @@ Humanoids | Intelligence (History)
 
 DC + CR | Knowledge
 ------- | ---------------------
-CR + 5  | attacks, Hit Dice, speed, Armor Class
+CR + 5  | attacks, Hit Dice, speed, Armor Class, environment(s)
 CR + 10 | abilities, bonus attacks, reactions, class (if any)
 CR + 15 | traits, damage resistances, class levels (if any)
 CR + 20 | damage immunities, damage vulnerabilities, condition immunities

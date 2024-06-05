@@ -5,6 +5,9 @@
 ## Categories
 [Aberrations](./index-aberration.md) | [Beasts](./index-beast.md) | [Constructs](./index-construct.md) | [Celestials](./index-celestial.md) | [Dragons](./index-dragon.md) | [Elementals](./index-elemental.md) | [Fey](./index-fey.md) | [Fiend](./index-fiend.md) | [Giant](./index-giant.md) | [Humanoids](./index-humanoid.md) | [Monstrosities](./index-monstrosity.md) | [Oozes](./index-ooze.md) | [Plants](./index-plant.md) | [Undead](./index-undead.md)
 
+## Environments
+Arctic, Astral, Coastal, Desert, Ethereal, Exotic, Forest, Grassland, Hill, Mountain, Ocean, Swamp, Underdark, Underwater, Urban, Extraplanar, Summoned/Conjured
+
 ## Players!
 For PCs to know more about a creature, they must make a skill check of the type specified in the below table:
 
@@ -20,7 +23,7 @@ Humanoids | Intelligence (History)
 
 DC + CR | Knowledge
 ------- | ---------------------
-CR + 5  | attacks, Hit Dice, speed, Armor Class
+CR + 5  | attacks, Hit Dice, speed, Armor Class, environments
 CR + 10 | abilities, bonus attacks, reactions, class (if any)
 CR + 15 | traits, damage resistances, class levels (if any)
 CR + 20 | damage immunities, damage vulnerabilities, condition immunities

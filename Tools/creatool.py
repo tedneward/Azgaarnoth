@@ -194,7 +194,7 @@ class Creature:
                         if line == '### Environment':
                             # Environments can be Arctic, Astral, Coastal, Desert, 
                             # Ethereal, Exotic, Forest, Grassland, Hill, Mountain, 
-                            # Swamp, Underdark, Underwater, Urban, Extraplanar, or
+                            # Ocean, Swamp, Underdark, Underwater, Urban, Extraplanar, or
                             # Summoned/Conjured
                             linect += 1
                             self.environments = mdlines[linect].strip().split(",")
@@ -978,6 +978,7 @@ def main(argv):
     parser.add_argument('--apply', choices=['ghostly', 'skeletal', 'zombie'], help='TODO: Apply a template to the current list of creatures')
     parser.add_argument('--list', help='Print out the current set of creatures')
     parser.add_argument('--writeindex', help='Write out an index of the creatures')
+    parser.add_argument('--writeenvindex', help='Write out an environmental index of the creatures')
     parser.add_argument('--writemd', help='Target directory for MD files to be emitted')
     args = parser.parse_args()
 
