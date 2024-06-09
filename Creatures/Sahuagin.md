@@ -109,6 +109,7 @@ Coastal, Ocean, Undersea
 >- **Proficiencies** All armor and shields,Simple weapons,Martial weapons
 >- **Senses** darkvision 60 ft, blood 20 ft, passive Perception 12
 >- **Languages** Common, Sahuagin, Aquan
+>- **Challenge** 1
 >___
 >***Blood Frenzy.*** The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 >
