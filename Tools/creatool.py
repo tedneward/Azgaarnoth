@@ -30,6 +30,8 @@ class SubtypedCreature:
             # Start by parsing the SubtypedCreature description text
             subtypedcreature.name = (mdlines[0])[2:].strip()
 
+            print("Parsing ", subtypedcreature.name)
+
             # Grab the rest of the description, appending until
             # we reach the first '---' break
             linect = 1
@@ -972,7 +974,7 @@ def main(argv):
     #parser.add_argument('--filter', help='Filter the source set') # When I figure out an expression language to use
     parser.add_argument('--filteralignment', help='TODO: Filter the source set by alignment')
     parser.add_argument('--filtercr', help='TODO: Filter the source set by Challenge Rating')
-    parser.add_argument('--filterenv', choices=['Arctic', 'Coastal', 'Desert', 'Forest', 'Grassland', 'Hill', 'Mountain', 'Swamp', 'Underdark', 'Underwater', 'Urban'], help='TODO: Filter the source set by Environment')
+    parser.add_argument('--filterenv', choices=['Arctic', 'Coastal', 'Desert', 'Forest', 'Grassland', 'Hill', 'Mountain', 'Ocean', 'Swamp', 'Underdark', 'Underwater', 'Urban'], help='TODO: Filter the source set by Environment')
     parser.add_argument('--filtertype', choices=['aberration', 'beast', 'celestial', 'construct', 'dragon', 'elemental', 'fey', 'fiend', 'giant', 'humanoid', 'monstrosity', 'ooze', 'plant', 'undead'], help='TODO: Filter the source set by type')
     # Apply templates to the filtered creatures
     parser.add_argument('--apply', choices=['ghostly', 'skeletal', 'zombie'], help='TODO: Apply a template to the current list of creatures')

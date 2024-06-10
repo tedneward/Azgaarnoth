@@ -300,14 +300,22 @@ Examples:
 
 A character who has the time, the money, and the needed tools can use downtime to craft armor, weapons, clothing, or other kinds of nonmagical gear. 
 
-To create a magic item, four things are required:
+***Requirements.*** To create a magic item, four things are required:
 
 * ***A "formula".*** The formula is like a recipe. It lists the materials needed and steps required to make the item.
 * ***Skills.*** Certain skills are required to craft items of particular types, which are used to make proficiency checks during the crafting.
 * ***Materials.*** Crafting a magic item will require raw materials.
 * ***Time.*** It takes time to craft, though less if there are multiple individuals crafting.
 
-**Formula.** If a crafter wants to craft an item, they require a detailed set of instructions to follow in order to be successful.
+More details for each are described below.
+
+**Formula.** If a crafter wants to craft an item, they require a detailed set of instructions to follow in order to be successful. These formulae can obtained in a variety of ways:
+
+* *Research.* The crafter can spend a week engaged in experimentation and study, looking to "unlock" the correct combination of materials, enchantments, and other work required. The DC for the check required varies with the rarity of the intended item: common: 15, uncommon: 20, rare: 25, very rare: 30, legendary: 40. For each week spent uninterrupted (other than a long rest), the DC check can be reduced by 1. If the check fails, the research must begin entirely from scratch. (There's a reason why there's so few legendary items in existence!)
+* *Spellbooks/Scrolls.* Formulae for crafting items can be written down (see below), and such formulae sometimes appear in treasure hauls or other collections. Certain formulae are available for purchase from a mage school or other source of magical information. For example, the formula for a *potion of healing* is often easily obtained from Life clerics for a nominal fee.
+* *Verbal consultation.* Another crafter who has crafted the item before can teach the formula, verbally describing the formula to the student. The teacher must be present during at least half the time required for the item's crafting, and once the crafting is complete, the formula is memorized by the student.
+
+Once the formula is obtained, it can be scribed on to scrolls or into a spellbook in one uninterrupted hour at a cost of 50gp (for materials).
 
 **Skills.** The skills and proficiencies required to craft an item can vary, but in general will follow the following table:
 

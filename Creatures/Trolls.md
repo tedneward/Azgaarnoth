@@ -59,7 +59,56 @@ Arctic, Forest, Hill, Mountain, Ruins, Swamp, Underdark
 ---
 
 ## Aquatic Troll
+The aquatic version of the troll.
+
+***Regeneration.*** Smashing a troll’s bones and slashing through its rubbery hide only makes it angry. A troll’s wounds close quickly. If the monster loses an arm, a leg, or even its head, those dismembered parts can sometimes act with a life of their own. A troll can even reattach severed body parts, untroubled by its momentary disability. Only acid and fire can arrest the regenerative properties of a troll’s flesh. So long as the aquatic toll has contact with water, it regenerates.
+
+***Troll Freaks.*** Their regenerative capabilities make trolls especially susceptible to mutation. Although uncommon, such transformations can result from what the troll has done or what has been done to it. A decapitated troll might grow two heads from the stump of its neck, while a troll that eats a fey creature might gain one or more of that creature’s traits.
+
+### Environment
+Coastal, Ocean, Undersea
+
+### Token
 (TODO)
+
+>### Aquatic Troll
+>*Large giant, chaotic evil*
+>___
+>- **Armor Class** 15 (natural armor)
+>- **Hit Points** 84 (8d10 + 40)
+>- **Speed** 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|13 (+1)|20 (+5)|7 (-2)|9 (-1)|7 (-2)|
+>
+>___
+>- **Proficiency Bonus** +3
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** 
+>- **Damage Immunities** 
+>- **Condition Immunities** 
+>- **Skills** Perception +2
+>- **Senses** darkvision 60 ft.,passive Perception 12
+>- **Languages** Giant
+>- **Challenge** 5
+>___
+>***Amphibious.*** The troll can breathe equally well under water or on land.
+>
+>***Blood Frenzy.*** The troll has advantage on melee attack rolls against any creature that doesn't have all its hit points.
+>
+>***Keen Smell.*** The troll has advantage on Wisdom (Perception) checks that rely on smell.
+>
+>***Regeneration.*** The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
+>
+>#### Actions
+>***Multiattack.*** The troll makes three attacks: one with its bite and two with its claws.
+>
+>***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+>
+>***Claw.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+>
 
 ---
 
