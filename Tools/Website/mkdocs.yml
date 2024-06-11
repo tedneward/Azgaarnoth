@@ -17,17 +17,17 @@ nav:
       - Militant Orders: Organizations/MilitantOrders
       - Monastic Orders: Organizations/MonasticOrders
       - Rogues' Guilds: Organizations/RoguesGuilds
-    - History:
+    - 'History':
       - Ancient: History/Ancient.md
       - Modern: History/Modern.md
       - Timeline: History/Timeline.md
   - 'System':
     - Backgrounds: Cultures/Backgrounds/index.md
-    - Races: Races/index.md
-    - Classes: Classes/index.md
-    - Conditions: Conditions/index.md
-    - Equipment: Equipment/index.md
-    - Feats: Feats/index.md
+    - Races: Races/
+    - Classes: Classes/
+    - Conditions: Conditions/
+    - Equipment: Equipment/
+    - Feats: Feats/
     - 'Magic':
       - Items: Magic/Items/index.md
       - Spells: Magic/Spells/index.md
@@ -37,7 +37,7 @@ nav:
     - 'Creatures':
       - Index: Creatures/index.md
       - List: Creatures/index-az.md
-      - Types:
+      - 'Types':
         - Aberrations: Creatures/index-aberration.md
         - Beasts: Creatures/index-beast.md
         - Celestials: Creatures/index-celestial.md
