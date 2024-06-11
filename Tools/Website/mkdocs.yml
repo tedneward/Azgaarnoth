@@ -38,9 +38,23 @@ nav:
       - Index: Creatures/index.html
       - List: Creatures/index-az.html
       - 'Challenge Rating':
-        - 1/4: Creatures/index-cr1-4.html
-        - 1/2: Creatures/index-cr1-2.html
-        - 1: Creatures/index-cr1.html
+        - 1/4: Creatures/index-cr1-4/index.html
+        - 1/2: Creatures/index-cr1-2/index.html
+        - 1: Creatures/index-cr1/index.html
+        - 2: Creatures/index-cr2/index.html
+        - 3: Creatures/index-cr3/index.html
+        - 4: Creatures/index-cr4/index.html
+        - 5: Creatures/index-cr5/index.html
+        - 6: Creatures/index-cr6/index.html
+        - 7: Creatures/index-cr7/index.html
+        - 8: Creatures/index-cr8/index.html
+        - 9: Creatures/index-cr9/index.html
+        - 10: Creatures/index-cr10/index.html
+        - 11: Creatures/index-cr11/index.html
+        - 12: Creatures/index-cr12/index.html
+        - 13: Creatures/index-cr13/index.html
+        - 14: Creatures/index-cr14/index.html
+        - 15: Creatures/index-cr15/index.html
       - 'Environments':
         - Arctic: Creatures/index-arctic.html
         - Coastal: Creatures/index-coastal.html
