@@ -29,6 +29,7 @@
 * *fire giant strength*: *(2500gp)*
 * *heroism*: you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the [bless](../Spells/bless.md) spell (no concentration required). *(2500gp)*
 * *invulnerability*: For 1 minute after you drink this potion, you have resistance to all damage. *(2500gp)*
+* *mage blood, lesser*: This potion is made from the blood of a magic user of level 4 or lower. It is not consumed, but is smashed on the floor while casting a spell. The target of the spell makes any saves against the effects of the spell with a -1 penalty. *(2500gp)*
 * *mind reading*: you gain the effect of the [detect thoughts](../Spells/detect-thoughts.md) spell (save DC 13). *(2500gp)*
 * *monstrous disguise*: this sticky oil can can cover a Medium or smaller creature, and takes 10 minutes to apply to yourself. You make yourself look like a piercer, rust monster, death dog, harpy, ettercap, grick, mimic, peryton, or basilisk. The effect is otherwise as the spell [Disguise Self](../Spells/disguise-self.md). *(2500gp)*
 * *shadow armor*: this metallic oil can cover a Medium or smaller creature, and takes 10 minutes to apply. The affected creature appears to be wearing ornate plate armor, though this armor is only semi-real and provides an Armor Class of 13 plus the creature's Dexterity modifier. The effect lasts for 1 hour. *(2500gp)*
@@ -49,3 +50,29 @@
 ## Legendary
 
 * *storm giant strength*:
+
+## Unsure
+
+* *battle*: The user gains a +1 bonus on to hit rolls, damage rolls from melee and ranged weapon attacks, and a +1 bonus to his armor class.
+* *celerity*: This potion allows the character who drinks it to move 50% faster than normal. He gains a +1 bonus on individual initiative and a +1 bonus to Armor Class.
+* *elemental bane*: These potions are anathema to elementals. Merely having the potion bottle uncorked within 20 feet of an elemental will inflict 1 point of damage per round. Shattering the potion (which can be thrown as a flask of oil) will release a cloud of mist that fills a 20 foot radius and then evaporates nearly immediately. Elementals caught in the area of the mist when it is released are dealt 4d8 damage. There are five types of elemental bane potion, the major elemental bane potion affecting all elementals, and the minor ones affecting only one type of elemental.
+
+    Die Roll (d8) | Elemental Bane Potion Type
+    ------------- | --------------------------
+    1 | Lesser – Air
+    2 | Lesser – Earth
+    3 | Lesser – Fire
+    4 | Lesser – Water
+    5 | Lesser – Wood
+    6 | Greater – All
+    7 | Greater – All
+    8 | Greater – All
+
+* *fulmigating*: This potion is treated as a potion of poison if inbibed. However, if thrown as a flask of oil, it will explode dealing 3d6 damage to all within 10 feet of it, and 1d6 damage to those within a 20 foot radius.
+* *hero’s heartblood*: The user of this potion gains a +2 bonus on attack and damage rolls, retainer morale goes up by +2, and is immune to fear. Neutral characters gain half this bonus, and Chaotic characters must make a saving throw against spells – if successfull they gain the full bonuses as they force the spirit of the hero to help them, otherwise the chaotic character suffers a -1 penalty on attack and damage rolls for the duration.
+* *horseman’s*: The user gains +1 on all attack rolls and saving throws while mounted, and under his command his mount gains these same bonuses.
+* *mage blood, greater*: This version of the Mage Blood potion (above) is much rarer, requiring the blood of a magic user of at least fifth level. It is treated as its lesser cousin, but produces a -2 penalty.
+* *poseidon's wine*: The user gains the benefits of the water breathing spell. This wine is usually found in a larger bottle than most potions, containing 6 ‘doses’ of the potion.
+* *saddleborn's draught*: The user gains the benefits of the Horseman’s Potion (+1 on all attack rolls and saving throws while mounted, and his mount gains these same bonuses), and also gains the ability to speak with horses, hippogriffs, griffons and pegasi.
+* *satiety*: This potion eliminates the need for food or drink for 1d6 days. The user feels neither hunger nor thirst but can still eat or drink if he pleases. At the end of the duration, there are no ill effects from having not eaten or drunk for the duration.
+* *shadows*: After imbibing this potion, the user casts no shadow. Instead a shadow replaces his natural shadow and follows his orders, even to the death. It can travel up to 240 feet away from the user in pursuit of its orders.
