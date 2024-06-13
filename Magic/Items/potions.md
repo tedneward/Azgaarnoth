@@ -75,4 +75,4 @@
 
 ## Legendary
 
-* *storm giant strength*:
+* *storm giant strength*: *(10,000gp)*
