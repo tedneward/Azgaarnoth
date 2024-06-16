@@ -49,6 +49,41 @@ If you are a player, please don't consult the reference page during the game! Br
 
 ---
 
+## Undead Powers
+
+* All But Invisible – cannot be detected except by touch and feel. Cannot be detected by magic, psionics, sound or scent, etc.
+* Animate Dead – as the spell, 2/day.
+* Arcane Devourer – attacks drain one spell from a spellcaster's prepared spells (starting with highest level spells, specific spell chosen randomly). If the undead successfully saves against a spell cast upon it, the caster of the spell also loses another spell as if struck by the undead.
+* Breath of Decay – once per turn the undead can make a breath weapon attack (typically a magical "blast" of decay, but sometimes shards of bone, or regurgitated black evil, or even fire or gas or something thematically appropriate) in a 15' cloud in front of him that deals 1d6 damage per 2 hit dice of the undead.
+* Charm Gaze – gaze attack acts as a charm monster spell.
+* Clerical Ability – casts spells as a cleric, caster level of 1/2 the undead's hit dice.
+* Curse of the Fallen – undead casts curse 3/day (typically opening a battle with such a curse).
+* Darkness – as the darkness spell at will.
+* Dimension Door – as the spell, 3/day.
+* Diseased – attacks transmit mummy rot (see the mummy description).
+* Faithless – turned by clerics as if the undead had 3 hit dice more than it has.
+* Hollow – when struck down, the undead splits open producing an insect plague as the spell as well as a 10' radius cloud of poisonous gas (to which the undead insects are immune).
+* Immortal – unless destroyed by a cleric's turn undead attempt, dissintegrated, or burned and the ashes mixed with holy water, this undead will reform in 2d12 hours after being slain.
+* Limited Flight – 60' (20') movement rate. Seems to walk through the air.
+* Magical Ability – casts spells as a magic user, caster level of 1/2 the undead's hit dice.
+* Massive Claws – unarmed attacks deal an extra die of damage, or 1d8 damage if it didn't have such an attack.
+* Paralyzing Strike – the undead's blows paralyze as a ghoul (although elves are not immune).
+* Putrefying Aura – all food and drink within 20' is rotted and destroyed – magical food and drinks get their owner's save versus poison.
+* Regeneration – the undead regenerates 3 hit points per round except from holy damage. It ceases regenerating if destroyed.
+* Soul Eater – creatures slain by the undead cannot be raised or resurrected. The undead gains 1 HD for 24 hours, and permanently gains 1 hit point.
+* Soul Wrench – the undead's blows are deadly. The target gets a save versus death.
+* Special Senses – Detects magic, life and invisibility at will.
+* Striking Aura – the palpable aura of fear freezes all those who see the undead. Save versus paralysis when encountering the undead or be paralyzed for 1d6+1 rounds.
+* Track Life – Once he's met you, he can track you without fail. Even across the planes if need be. The only way to break the trail is to die and be brought back to life.
+* Unnatural Might – +2 to hit and damage.
+* Vampiric Drain – damage dealt by the undead in melee heals it an equivalent amount.
+* Wail of the Haunted – once per turn the undead can howl or wail. Living creatures within 60 feet must save versus paralysis or run in fear.
+* Wail of Mourning – once per hour the undead can howl or wail. Living creatures within 30 feet must save versus death or die.
+* Weakening Blow – the undead's blows drain Strength or Constitution (choose/roll which) like a Shadow.
+* Withering Touch – touch causes plants to wither and other living things to rot. Deals 2d4 damage to creatures.
+
+---
+
 ## Markdown Template
 
 ## Name
