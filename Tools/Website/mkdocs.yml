@@ -35,8 +35,8 @@ nav:
       - Undead Grafts: Magic/UndeadGrafts/index.html
       - Wild: Magic/Wild/index.html
     - 'Creatures':
-      - Index: Creatures/index.html
-      - List: Creatures/index-az.html
+      - Index: Creatures/index/index.html
+      - List: Creatures/index-az/index.html
       - 'Challenge Rating':
         - 1/4: Creatures/index-cr1-4/index.html
         - 1/2: Creatures/index-cr1-2/index.html
@@ -56,18 +56,18 @@ nav:
         - 14: Creatures/index-cr14/index.html
         - 15: Creatures/index-cr15/index.html
       - 'Environments':
-        - Arctic: Creatures/index-arctic.html
-        - Coastal: Creatures/index-coastal.html
-        - Desert : Creatures/index-desert.html
-        - Forest: Creatures/index-forest.html
-        - Grassland: Creatures/index-grassland.html
-        - Hill: Creatures/index-hill.html
-        - Mountain: Creatures/index-mountain.html
-        - Ocean: Creatures/index-ocean.html
-        - Swamp: Creatures/index-swamp.html
-        - Underdark: Creatures/index-underdark.html
-        - Underwater: Creatures/index-underwater.html
-        - Urban: Creatures/index-urban.html
+        - Arctic: Creatures/index-arctic/index.html
+        - Coastal: Creatures/index-coastal/index.html
+        - Desert : Creatures/index-desert/index.html
+        - Forest: Creatures/index-forest/index.html
+        - Grassland: Creatures/index-grassland/index.html
+        - Hill: Creatures/index-hill/index.html
+        - Mountain: Creatures/index-mountain/index.html
+        - Ocean: Creatures/index-ocean/index.html
+        - Swamp: Creatures/index-swamp/index.html
+        - Underdark: Creatures/index-underdark/index.html
+        - Underwater: Creatures/index-underwater/index.html
+        - Urban: Creatures/index-urban/index.html
       - 'Types':
         - Aberrations: Creatures/index-aberration.html
         - Beasts: Creatures/index-beast.html
