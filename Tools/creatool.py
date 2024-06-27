@@ -1052,6 +1052,19 @@ def main(argv):
                 if creature.type == type:
                     typecreatures.append(creature)
         creatures = typecreatures
+    elif args.filterenv != None:
+        env = args.filterenv
+        print(f"Looking for {env} creatures")
+        envcreatures = []
+        for creature in creatures:
+            if isinstance(creature, SubtypedCreature):
+                for subcreature in creature.subtypes:
+                    if env in subcreature.environments:
+                        envcreatures.append(subcreature)
+            else:
+                if env in creature.environments:
+                    envcreatures.append(creature)
+        creatures = envcreatures
 
     # Ingest?
     if args.ingest != None:

@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Convert it
-mkdocs build
+mkdocs build --no-directory-urls

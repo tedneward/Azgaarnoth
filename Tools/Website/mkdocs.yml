@@ -2,39 +2,86 @@ site_name: Azgaarnoth
 site_url: http://azgaarnoth.tedneward.com/
 nav:
   - 'World':
-    - Geography: Geography
-    - Religions: Religions
-    - Nations: Nations
-    - Cities: Cities
-    - Cultures: Cultures
+    - Geography: Geography/index.html
+    - Religions: Religions/index.html
+    - Nations: Nations/index.html
+    - Cities: Cities/index.html
+    - Cultures: Cultures/index.html
     - 'Organizations':
-      - Overview: Organizations
-      - Bardic Colleges: Organizations/BardicColleges
-      - Dueling Colleges: Organizations/DuelingColleges
-      - Great Houses: Organizations/Houses
-      - Mage Schools: Organizations/MageSchools
-      - Merchant Guilds: Organizations/MerchantGuilds
-      - Militant Orders: Organizations/MilitantOrders
-      - Monastic Orders: Organizations/MonasticOrders
-      - Rogues' Guilds: Organizations/RoguesGuilds
-    - History:
-      - Ancient: History/Ancient.md
-      - Modern: History/Modern.md
-      - Timeline: History/Timeline.md
+      - Overview: Organizations/index.html
+      - Bardic Colleges: Organizations/BardicColleges/index.html
+      - Dueling Colleges: Organizations/DuelingColleges/index.html
+      - Great Houses: Organizations/Houses/index.html
+      - Mage Schools: Organizations/MageSchools/index.html
+      - Merchant Guilds: Organizations/MerchantGuilds/index.html
+      - Militant Orders: Organizations/MilitantOrders/index.html
+      - Monastic Orders: Organizations/MonasticOrders/index.html
+      - Rogues' Guilds: Organizations/RoguesGuilds/index.html
+    - 'History':
+      - Ancient: History/Ancient/index.html
+      - Modern: History/Modern/index.html
+      - Timeline: History/Timeline/index.html
   - 'System':
-    - Backgrounds: Cultures/Backgrounds/index.md
-    - Races: Races/index.md
-    - Classes: Classes/index.md
-    - Conditions: Conditions/index.md
-    - Equipment: Equipment/index.md
-    - Feats: Feats/index.md
+    - Backgrounds: Cultures/Backgrounds/index.html
+    - Races: Races/index.html
+    - Classes: Classes/index.html
+    - Conditions: Conditions/index.html
+    - Equipment: Equipment/index.html
+    - Feats: Feats/index.html
     - 'Magic':
-      - Items: Magic/Items
-      - Spells: Magic/Spells
-      - Tattoos: Magic/Tattoos
-      - Undead Grafts: Magic/UndeadGrafts
-      - Wild: Magic/Wild
-    - Creatures: Creatures
+      - Items: Magic/Items/index.html
+      - Spells: Magic/Spells/index.html
+      - Tattoos: Magic/Tattoos/index.html
+      - Undead Grafts: Magic/UndeadGrafts/index.html
+      - Wild: Magic/Wild/index.html
+    - 'Creatures':
+      - Index: Creatures/index/index.html
+      - List: Creatures/index-az/index.html
+      - 'Challenge Rating':
+        - 1/4: Creatures/index-cr1-4/index.html
+        - 1/2: Creatures/index-cr1-2/index.html
+        - 1: Creatures/index-cr1/index.html
+        - 2: Creatures/index-cr2/index.html
+        - 3: Creatures/index-cr3/index.html
+        - 4: Creatures/index-cr4/index.html
+        - 5: Creatures/index-cr5/index.html
+        - 6: Creatures/index-cr6/index.html
+        - 7: Creatures/index-cr7/index.html
+        - 8: Creatures/index-cr8/index.html
+        - 9: Creatures/index-cr9/index.html
+        - 10: Creatures/index-cr10/index.html
+        - 11: Creatures/index-cr11/index.html
+        - 12: Creatures/index-cr12/index.html
+        - 13: Creatures/index-cr13/index.html
+        - 14: Creatures/index-cr14/index.html
+        - 15: Creatures/index-cr15/index.html
+      - 'Environments':
+        - Arctic: Creatures/index-arctic/index.html
+        - Coastal: Creatures/index-coastal/index.html
+        - Desert : Creatures/index-desert/index.html
+        - Forest: Creatures/index-forest/index.html
+        - Grassland: Creatures/index-grassland/index.html
+        - Hill: Creatures/index-hill/index.html
+        - Mountain: Creatures/index-mountain/index.html
+        - Ocean: Creatures/index-ocean/index.html
+        - Swamp: Creatures/index-swamp/index.html
+        - Underdark: Creatures/index-underdark/index.html
+        - Underwater: Creatures/index-underwater/index.html
+        - Urban: Creatures/index-urban/index.html
+      - 'Types':
+        - Aberrations: Creatures/index-aberration.html
+        - Beasts: Creatures/index-beast.html
+        - Celestials: Creatures/index-celestial.html
+        - Constructs: Creatures/index-construct.html
+        - Dragons: Creatures/index-dragon.html
+        - Elementals: Creatures/index-elemental.html
+        - Fey: Creatures/index-fey.html
+        - Fiends: Creatures/index-fiend.html
+        - Giants: Creatures/index-giant.html
+        - Humanoids: Creatures/index-humanoid.html
+        - Oozes: Creatures/index-ooze.html
+        - Plants: Creatures/index-plant.html
+        - Undead: Creatures/index-undead.html
   - 'About':
-    - ... this site: about.md
-    - ... my games: GameNotes.md
+    - ... this site: about/index.html
+    - ... my games: GameNotes/index.html
