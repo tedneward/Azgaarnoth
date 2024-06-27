@@ -11,6 +11,12 @@ Of all the terrors created by foul sorcery, gibbering mouthers are among the mos
 
 A gibbering mouther leaves nothing of its prey behind. However, even as the last of a victim's body is consumed, its eyes and mouth boil to the surface, ready to join the chorus of tormented gibbering that welcomes the monster's next meal.
 
+### Environment
+
+
+### Token
+![](GibberingMouther-Token.png)
+
 >### Gibbering Mouther
 >*Medium aberration, neutral*
 >___
