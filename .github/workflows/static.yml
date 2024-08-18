@@ -29,7 +29,7 @@ jobs:
       - name: Get config file
         run: cp Tools/Website/mkdocs.yml .
       - name: Run mkdocs
-        run: mkdocs 
+        run: mkdocs build
 
       # Upload content
       - name: Upload artifact
