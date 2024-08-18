@@ -26,8 +26,8 @@ jobs:
       - name: Install mkdocs
         run: pip install mkdocs
 
-      - name: Run mkdocs
-        run: cd Tools/Website; mkdocs build
+      - name: Bake away
+        run: cd Tools/Website; ./bake.sh
 
       # Upload content
       - name: Upload artifact
