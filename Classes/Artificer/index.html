@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="http://azgaarnoth.tedneward.com/Classes/Artificer/">
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>Artificer - Azgaarnoth</title>
+        <link href="../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../..">Azgaarnoth</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">World <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../Geography" class="dropdown-item">Geography</a>
+</li>
+                                    
+<li>
+    <a href="../../Religions" class="dropdown-item">Religions</a>
+</li>
+                                    
+<li>
+    <a href="../../Nations" class="dropdown-item">Nations</a>
+</li>
+                                    
+<li>
+    <a href="../../Cities" class="dropdown-item">Cities</a>
+</li>
+                                    
+<li>
+    <a href="../../Cultures" class="dropdown-item">Cultures</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Organizations</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../Organizations" class="dropdown-item">Overview</a>
+</li>
+            
+<li>
+    <a href="../../Organizations/BardicColleges" class="dropdown-item">Bardic Colleges</a>
+</li>
+            
+<li>
+    <a href="../../Organizations/DuelingColleges" class="dropdown-item">Dueling Colleges</a>
+</li>
+            
+<li>
+    <a href="../../Organizations/Houses" class="dropdown-item">Great Houses</a>
+</li>
+            
+<li>
+    <a href="../../Organizations/MageSchools" class="dropdown-item">Mage Schools</a>
+</li>
+            
+<li>
+    <a href="../../Organizations/MerchantGuilds" class="dropdown-item">Merchant Guilds</a>
+</li>
+            
+<li>
+    <a href="../../Organizations/MilitantOrders" class="dropdown-item">Militant Orders</a>
+</li>
+            
+<li>
+    <a href="../../Organizations/MonasticOrders" class="dropdown-item">Monastic Orders</a>
+</li>
+            
+<li>
+    <a href="../../Organizations/RoguesGuilds" class="dropdown-item">Rogues' Guilds</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">History</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../History/Ancient/" class="dropdown-item">Ancient</a>
+</li>
+            
+<li>
+    <a href="../../History/Modern/" class="dropdown-item">Modern</a>
+</li>
+            
+<li>
+    <a href="../../History/Timeline/" class="dropdown-item">Timeline</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">System <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../Cultures/Backgrounds/index.md" class="dropdown-item">Backgrounds</a>
+</li>
+                                    
+<li>
+    <a href="../../Races/" class="dropdown-item">Races</a>
+</li>
+                                    
+<li>
+    <a href="../" class="dropdown-item">Classes</a>
+</li>
+                                    
+<li>
+    <a href="../../Conditions/index.md" class="dropdown-item">Conditions</a>
+</li>
+                                    
+<li>
+    <a href="../../Equipment/index.md" class="dropdown-item">Equipment</a>
+</li>
+                                    
+<li>
+    <a href="../../Feats/" class="dropdown-item">Feats</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Magic</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../Magic/Items" class="dropdown-item">Items</a>
+</li>
+            
+<li>
+    <a href="../../Magic/Spells" class="dropdown-item">Spells</a>
+</li>
+            
+<li>
+    <a href="../../Magic/Tattoos" class="dropdown-item">Tattoos</a>
+</li>
+            
+<li>
+    <a href="../../Magic/UndeadGrafts" class="dropdown-item">Undead Grafts</a>
+</li>
+            
+<li>
+    <a href="../../Magic/Wild" class="dropdown-item">Wild</a>
+</li>
+    </ul>
+  </li>
+                                    
+<li>
+    <a href="../../Creatures" class="dropdown-item">Creatures</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../about/" class="dropdown-item">... this site</a>
+</li>
+                                    
+<li>
+    <a href="../../GameNotes/" class="dropdown-item">... my games</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#artificer" class="nav-link">Artificer</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#class-features" class="nav-link">Class Features</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#magical-tinkering" class="nav-link">Magical Tinkering</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#spellcasting" class="nav-link">Spellcasting</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#preparing-and-casting-spells" class="nav-link">Preparing and Casting Spells</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#infuse-item" class="nav-link">Infuse Item</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#artificer-specialist" class="nav-link">Artificer Specialist</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#the-right-tool-for-the-job" class="nav-link">The Right Tool for the Job</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#ability-score-improvement" class="nav-link">Ability Score Improvement</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#tool-expertise" class="nav-link">Tool Expertise</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#flash-of-genius" class="nav-link">Flash of Genius</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#magic-item-adept" class="nav-link">Magic Item Adept</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#spell-storing-item" class="nav-link">Spell-Storing Item</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#magic-item-savant" class="nav-link">Magic Item Savant</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#magic-item-master" class="nav-link">Magic Item Master</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#soul-of-artifice" class="nav-link">Soul of Artifice</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#core-artificer-spells" class="nav-link">"Core" Artificer Spells</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#cantrips_1" class="nav-link">Cantrips</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#1st-level" class="nav-link">1st Level</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#2nd-level" class="nav-link">2nd Level</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#3rd-level" class="nav-link">3rd Level</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#4th-level" class="nav-link">4th Level</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#5th-level" class="nav-link">5th Level</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="artificer">Artificer</h1>
+<p>Masters of invention, artificers use ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions. Artificers use a variety of tools to channel their arcane power. To cast a spell, an artificer might use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power, or tinker's tools to craft a temporary charm. The magic of artificers is tied to their tools and their talents, and few other characters can produce the right tool for a job as well as an artificer.</p>
+<p>Artificers are almost always recruited at some point by <a href="../../Organizations/MerchantGuilds/MerchantGuilds.md">Merchant Guilds</a>, <a href="../../Organizations/MercCompanies/MercCompanies.md">Mercenary Companies</a>, or the <a href="../../Organizations/DraconicOrder/Steel.md">Order of the Steel Dragon</a>, in that order, depending on the level/quality of the work produced by the artificer. (The Steels want only the best as part of their Order, and the merchants want anything they can sell regardless of quality.)</p>
+<p>Rumors persist that the <a href="../../People/DreadEmperor/">Dread Emperor</a> has been known to kidnap promising artificers, and force them to artifice on his behalf.</p>
+<h2 id="class-features">Class Features</h2>
+<p>As an artificer, you gain the following class features.</p>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Proficiency Bonus</th>
+<th>Infusions</th>
+<th>Infused Items</th>
+<th>Cantrips</th>
+<th>1st</th>
+<th>2nd</th>
+<th>3rd</th>
+<th>4th</th>
+<th>5th</th>
+<th>Features</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1st</td>
+<td>+2</td>
+<td>-</td>
+<td>-</td>
+<td>2</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td><a href="#magical-tinkering">Magical Tinkering</a>, <a href="#spellcasting">Spellcasting</a></td>
+</tr>
+<tr>
+<td>2nd</td>
+<td>+2</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td><a href="#infuse-item">Infuse Item</a></td>
+</tr>
+<tr>
+<td>3rd</td>
+<td>+2</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td><a href="#artificer-specialist">Artificer Specialist</a>, <a href="#the-right-tool-for-the-job">Right Tool for the Job</a></td>
+</tr>
+<tr>
+<td>4th</td>
+<td>+2</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td><a href="#ability-score-improvement">Ability Score Improvement</a> or <a href="../Feats.md">Feat</a></td>
+</tr>
+<tr>
+<td>5th</td>
+<td>+3</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>Artificer Specialist feature</td>
+</tr>
+<tr>
+<td>6th</td>
+<td>+3</td>
+<td>6</td>
+<td>3</td>
+<td>2</td>
+<td>4</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td><a href="#tool-expertise">Tool Expertise</a></td>
+</tr>
+<tr>
+<td>7th</td>
+<td>+3</td>
+<td>6</td>
+<td>3</td>
+<td>2</td>
+<td>4</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td><a href="#flash-of-genius">Flash of Genius</a></td>
+</tr>
+<tr>
+<td>8th</td>
+<td>+3</td>
+<td>6</td>
+<td>3</td>
+<td>2</td>
+<td>4</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td><a href="#ability-score-improvement">Ability Score Improvement</a> or <a href="../Feats.md">Feat</a></td>
+</tr>
+<tr>
+<td>9th</td>
+<td>+4</td>
+<td>6</td>
+<td>3</td>
+<td>2</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>Artificer Specialist feature</td>
+</tr>
+<tr>
+<td>10th</td>
+<td>+4</td>
+<td>8</td>
+<td>4</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td><a href="#magic-item-adept">Magic Item Adept</a></td>
+</tr>
+<tr>
+<td>11th</td>
+<td>+4</td>
+<td>8</td>
+<td>4</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td><a href="#spell-storing-item">Spell-Storing Item</a></td>
+</tr>
+<tr>
+<td>12th</td>
+<td>+4</td>
+<td>8</td>
+<td>4</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td><a href="#ability-score-improvement">Ability Score Improvement</a> or <a href="../Feats.md">Feat</a></td>
+</tr>
+<tr>
+<td>13th</td>
+<td>+5</td>
+<td>8</td>
+<td>4</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>-</td>
+<td>--</td>
+</tr>
+<tr>
+<td>14th</td>
+<td>+5</td>
+<td>10</td>
+<td>5</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>-</td>
+<td><a href="#magic-item-savant">Magic Item Savant</a></td>
+</tr>
+<tr>
+<td>15th</td>
+<td>+5</td>
+<td>10</td>
+<td>5</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>-</td>
+<td>Artificer Specialist feature</td>
+</tr>
+<tr>
+<td>16th</td>
+<td>+5</td>
+<td>10</td>
+<td>5</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>-</td>
+<td><a href="#ability-score-improvement">Ability Score Improvement</a> or <a href="../Feats.md">Feat</a></td>
+</tr>
+<tr>
+<td>17th</td>
+<td>+6</td>
+<td>10</td>
+<td>5</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>--</td>
+</tr>
+<tr>
+<td>18th</td>
+<td>+6</td>
+<td>12</td>
+<td>6</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td><a href="#magic-item-master">Magic Item Master</a></td>
+</tr>
+<tr>
+<td>19th</td>
+<td>+6</td>
+<td>12</td>
+<td>6</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td><a href="#ability-score-improvement">Ability Score Improvement</a> or <a href="../Feats.md">Feat</a></td>
+</tr>
+<tr>
+<td>20th</td>
+<td>+6</td>
+<td>12</td>
+<td>6</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td><a href="#soul-of-artifice">Soul of Artifice</a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="hit-points">Hit Points</h3>
+<p><strong>Hit Dice</strong>: 1d8 per artificer level</p>
+<p><strong>Hit Points at 1st Level</strong>: 8 + your Constitution modifier</p>
+<p><strong>Hit Points at Higher Levels</strong>: 1d8 (or 5) + your Constitution modifier per artificer level after 1st</p>
+<h3 id="proficiencies">Proficiencies</h3>
+<p><strong>Armor</strong>: Light armor, medium armor, shields </p>
+<p><strong>Weapons</strong>: Simple weapons</p>
+<p><strong>Tools</strong>: Thieves' tools, tinker's tools, one type of artisan's tools of your choice</p>
+<p><strong>Saving Throws</strong>: Constitution, Intelligence</p>
+<p><strong>Skills</strong>: Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand </p>
+<h3 id="equipment">Equipment</h3>
+<p>You start with the following equipment, in addition to the equipment granted by your background:</p>
+<ul>
+<li>any two simple weapons</li>
+<li>a light crossbow and 20 bolts</li>
+<li>(a) studded leather armor or (b) scale mail</li>
+<li>thieves' tools and a dungeoneer's pack</li>
+</ul>
+<p>If you forgo this starting equipment, as well as the items offered by your background, you start with 5d4 + 10 gp to buy your equipment.</p>
+<h2 id="magical-tinkering">Magical Tinkering</h2>
+<p><em>1st-level artificer feature</em></p>
+<p>You've learned how to invest a spark of magic in objects that would otherwise be mundane. To use this ability, you must have thieves' tools, tinker's tools, or other artisan's tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:</p>
+<ul>
+<li>The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</li>
+<li>Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.</li>
+<li>The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.</li>
+<li>A static visual effect appears on one of the object's surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.</li>
+</ul>
+<p>The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.</p>
+<p>You can give the magic of this feature to multiple objects, touching one object each time you use the feature, and a single object can bear only one of the properties at a time. The maximum number of objects you can affect with the feature at one time is equal to your Intelligence modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.</p>
+<h2 id="spellcasting">Spellcasting</h2>
+<p><em>1st-level artificer feature</em></p>
+<p>You've studied the workings of magic and how to cast spells, channeling the magic through objects. To observers, you don't appear to be casting spells in a conventional way; you appear to produce wonders from mundane items and outlandish inventions.</p>
+<h3 id="tools-required">Tools Required</h3>
+<p>You produce your artificer spell effects through your tools. You must have a spellcasting focus--specifically thieves' tools or some kind of artisan's tool--in hand when you cast any spell with this Spellcasting feature (meaning the spell has an "M" component when you cast it). You must be proficient with the tool to use it in this way. See the equipment chapter in the Player's Handbook for descriptions of these tools.</p>
+<p>After you gain the Infuse Item feature at 2nd level, you can also use any item bearing one of your infusions as a spellcasting focus.  </p>
+<h3 id="cantrips">Cantrips</h3>
+<p>At 1st level, you know two cantrips of your choice from the artificer spell list (at the end of this page). At higher levels, you learn additional artificer cantrips of your choice, as shown in the Cantrips Known column of the Artificer table.</p>
+<p>When you gain a level in this class, you can replace one of the artificer cantrips you know with another cantrip from the artificer spell list.</p>
+<h2 id="preparing-and-casting-spells">Preparing and Casting Spells</h2>
+<p>The Artificer table shows how many spell slots you have to cast your artificer spells. To cast one of your artificer spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p>
+<p>You prepare the list of artificer spells that are available for you to cast, choosing from the artificer spell list. When you do so, choose a number of artificer spells equal to your Intelligence modifier + half your artificer level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.</p>
+<p>For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.</p>
+<p>You can change your list of prepared spells when you finish a long rest. Preparing a new list of artificer spells requires time spent in tinkering with your spellcasting focuses: at least 1 minute per spell level for each spell on your list.</p>
+<h3 id="spellcasting-ability">Spellcasting Ability</h3>
+<p>Intelligence is your spellcasting ability for your artificer spells; your understanding of the theory behind magic allows you to wield these spells with superior skill. You use your Intelligence whenever an artificer spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an artificer spell you cast and when making an attack roll with one.</p>
+<p><strong>Spell save DC</strong> = 8 + your proficiency bonus + your Intelligence modifier</p>
+<p><strong>Spell attack modifier</strong> = your proficiency bonus + your Intelligence modifier</p>
+<h3 id="ritual-casting">Ritual Casting</h3>
+<p>You can cast an artificer spell as a ritual if that spell has the ritual tag and you have the spell prepared.</p>
+<h2 id="infuse-item">Infuse Item</h2>
+<p><em>2nd-level artificer feature</em></p>
+<p>You've gained the ability to imbue mundane items with certain magical infusions, turning those objects into magical items.</p>
+<h3 id="infusions-known">Infusions Known</h3>
+<p>When you gain this feature, pick four artificer infusions to learn, choosing from the <a href="Infusions/">Artificer Infusions</a>. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer table.</p>
+<p>Whenever you gain a level in this class, you can replace one of the artificer infusions you learned with a new one.</p>
+<h3 id="infusing-an-item">Infusing an Item</h3>
+<p>Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your artificer infusions, turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion's description. If the item requires attunement, you can attune yourself to it the instant you infuse the item, or you can forgo attunement so that someone else an attune to the item. If you decide to attune to the item later, you must do so using the normal process for attunement (see "Attunement" in the <em>Dungeon Master's Guide</em>).</p>
+<p>Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after a number of days have passed equal to your Intelligence modifier (minimum of 1 day). The infusion also vanishes if you give up your knowledge of the infusion for another one.</p>
+<p>You can infuse more than one nonmagical object at the end of a long rest; the maximum number of objects appears in the Infused Items column of the Artificer table. You must touch each of the objects, and each of your infusions can be in only one object at a time. No object can bear more than one of your infustions at a time. If you try to exceed your maximum number of infusions, the oldest infusion immediately ends, and then the new infusion applies.</p>
+<p>If an infusion ends on an item that contains other things, like a <em>bag of holding</em>, its contents harmlessly appear in and around its space. </p>
+<h2 id="artificer-specialist">Artificer Specialist</h2>
+<p><em>3rd-level artificer feature</em></p>
+<p>Choose the type of specialist you are: <a href="Alchemist/">Alchemist</a>, <a href="Armorer/">Armorer</a>, <a href="Artillerist/">Artillerist</a>, <a href="BattleSmith/">Battle Smith</a>, or <a href="Tattooist/">Tattoist</a>.</p>
+<h2 id="the-right-tool-for-the-job">The Right Tool for the Job</h2>
+<p><em>3rd-level artificer feature</em></p>
+<p>You've learned how to produce exactly the tool you need: with thieves' tools or artisan's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.</p>
+<h2 id="ability-score-improvement">Ability Score Improvement</h2>
+<p>When you reach 4th level and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. </p>
+<h2 id="tool-expertise">Tool Expertise</h2>
+<p><em>6th-level artificer feature</em></p>
+<p>Your proficiency bonus is now doubled for any ability check you make that uses your proficiency with a tool. </p>
+<h2 id="flash-of-genius">Flash of Genius</h2>
+<p><em>7th-level artificer feature</em></p>
+<p>You've gained the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add your Intelligence modifier to the roll.</p>
+<p>You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.</p>
+<h2 id="magic-item-adept">Magic Item Adept</h2>
+<p><em>10th-level artificer feature</em></p>
+<p>You've achieved a profound understanding of how to use and make magic items:</p>
+<ul>
+<li>You can attune to up to four magic items at once.</li>
+<li>If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.</li>
+</ul>
+<h2 id="spell-storing-item">Spell-Storing Item</h2>
+<p><em>11th-level artificer feature</em></p>
+<p>You can now store a spell in an object. Whenever you finish a long rest, you can touch one simple or martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the artificer spell list that requires 1 action to cast (you needn't have it prepared). </p>
+<p>While holding the object, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires concentration, the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.</p>
+<h2 id="magic-item-savant">Magic Item Savant</h2>
+<p><em>14th-level artificer feature</em></p>
+<p>Your skill with magic items deepens:</p>
+<ul>
+<li>You can attune to up to five magic items at once.</li>
+<li>You ignore all class, race, spell, and level requirements on attuning to or using a magic item.</li>
+</ul>
+<h2 id="magic-item-master">Magic Item Master</h2>
+<p><em>18th-level artificer feature</em></p>
+<p>You can now attune to up to six magic items at once.</p>
+<h2 id="soul-of-artifice">Soul of Artifice</h2>
+<p><em>20th-level artificer feature</em></p>
+<p>You have developed a mystical connection to your magic items, which you can draw on for protection:</p>
+<ul>
+<li>You gain a +1 bonus to all saving throws per magic item you are currently attuned to.</li>
+<li>If you're reduced to 0 hit points but not killed outright, you can use your reaction to end one of your artificer infusions, causing you to drop to 1 hit point instead of 0. </li>
+</ul>
+<hr />
+<h1 id="core-artificer-spells">"Core" Artificer Spells</h1>
+<p>The following spells listed are available to all artificers throughout Azgaarnoth; this is not the complete list of all artificer spells, however. Certain specializations may have additional spells that are only known to their members. Artificers can learn new spells by visiting foreign shops, uncovering new books in ancient ruins, and so on. (In other words, DM's choice about adding new artificer spells to the "known" list, and the artificer may need to do some in-game activity or adventure to obtain them.)</p>
+<h2 id="cantrips_1">Cantrips</h2>
+<ul>
+<li><a href="../../Magic/Spells/acid-splash/">acid splash</a></li>
+<li><a href="../../Magic/Spells/balance/">balance</a></li>
+<li><a href="../../Magic/Spells/bolster/">bolster</a></li>
+<li><a href="../../Magic/Spells/create-bonfire/">create bonfire</a></li>
+<li><a href="../../Magic/Spells/dancing-lights/">dancing lights</a></li>
+<li><a href="../../Magic/Spells/fire-bolt/">fire bolt</a></li>
+<li><a href="../../Magic/Spells/frostbite/">frostbite</a></li>
+<li><a href="../../Magic/Spells/guidance/">guidance</a></li>
+<li><a href="../../Magic/Spells/light/">light</a></li>
+<li><a href="../../Magic/Spells/mage-hand/">mage hand</a></li>
+<li><a href="../../Magic/Spells/magic-stone/">magic stone</a></li>
+<li><a href="../../Magic/Spells/mending/">mending</a></li>
+<li><a href="../../Magic/Spells/message/">message</a></li>
+<li><a href="../../Magic/Spells/poison-spray/">poison spray</a></li>
+<li><a href="../../Magic/Spells/prestidigitation/">prestidigitation</a></li>
+<li><a href="../../Magic/Spells/ray-of-frost/">ray of frost</a></li>
+<li><a href="../../Magic/Spells/renewal/">renewal</a></li>
+<li><a href="../../Magic/Spells/resistance/">resistance</a></li>
+<li><a href="../../Magic/Spells/shocking-grasp/">shocking grasp</a></li>
+<li><a href="../../Magic/Spells/spare-the-dying/">spare the dying</a></li>
+<li><a href="../../Magic/Spells/thorn-whip/">thorn whip</a></li>
+<li><a href="../../Magic/Spells/thunderclap/">thunderclap</a></li>
+</ul>
+<h2 id="1st-level">1st Level</h2>
+<ul>
+<li><a href="../../Magic/Spells/absorb-elements/">absorb elements</a></li>
+<li><a href="../../Magic/Spells/alarm/">alarm</a> (ritual)</li>
+<li><a href="../../Magic/Spells/arcane-weapon/">arcane weapon</a></li>
+<li><a href="../../Magic/Spells/attract-projectiles/">attract projectiles</a></li>
+<li><a href="../../Magic/Spells/blackout/">blackout</a></li>
+<li><a href="../../Magic/Spells/catapult/">catapult</a></li>
+<li><a href="../../Magic/Spells/cure-wounds/">cure wounds</a></li>
+<li><a href="../../Magic/Spells/detect-magic/">detect magic</a> (ritual)</li>
+<li><a href="../../Magic/Spells/disguise-self/">disguise self</a></li>
+<li><a href="../../Magic/Spells/expeditious-retreat/">expeditious retreat</a></li>
+<li><a href="../../Magic/Spells/faerie-fire/">faerie fire</a></li>
+<li><a href="../../Magic/Spells/false-life/">false life</a></li>
+<li><a href="../../Magic/Spells/feather-fall/">feather fall</a></li>
+<li><a href="../../Magic/Spells/glide/">glide</a></li>
+<li><a href="../../Magic/Spells/grease/">grease</a></li>
+<li><a href="../../Magic/Spells/identify/">identify</a> (ritual)</li>
+<li><a href="../../Magic/Spells/jump/">jump</a></li>
+<li><a href="../../Magic/Spells/longstrider/">longstrider</a></li>
+<li><a href="../../Magic/Spells/purify-food-and-drink/">purify food and drink</a></li>
+<li><a href="../../Magic/Spells/sanctuary/">sanctuary</a></li>
+<li><a href="../../Magic/Spells/shield-of-vanity/">shield of vanity</a></li>
+<li><a href="../../Magic/Spells/snare/">snare</a></li>
+<li><a href="../../Magic/Spells/swoop/">swoop</a></li>
+</ul>
+<h2 id="2nd-level">2nd Level</h2>
+<ul>
+<li><a href="../../Magic/Spells/aid/">aid</a></li>
+<li><a href="../../Magic/Spells/alter-self/">alter self</a></li>
+<li><a href="../../Magic/Spells/arcane-lock/">arcane lock</a></li>
+<li><a href="../../Magic/Spells/blur/">blur</a></li>
+<li><a href="../../Magic/Spells/continual-flame/">continual flame</a></li>
+<li><a href="../../Magic/Spells/darkvision/">darkvision</a></li>
+<li><a href="../../Magic/Spells/dive/">dive</a></li>
+<li><a href="../../Magic/Spells/dragons-breath/">dragon's breath</a></li>
+<li><a href="../../Magic/Spells/enhance-ability/">enhance ability</a></li>
+<li><a href="../../Magic/Spells/enlarge-reduce/">enlarge/reduce</a></li>
+<li><a href="../../Magic/Spells/heat-metal/">heat metal</a></li>
+<li><a href="../../Magic/Spells/ice-sculpture/">ice sculpture</a></li>
+<li><a href="../../Magic/Spells/infuse-blood/">infuse blood</a></li>
+<li><a href="../../Magic/Spells/invisibility/">invisibility</a></li>
+<li><a href="../../Magic/Spells/lesser-restoration/">lesser restoration</a></li>
+<li><a href="../../Magic/Spells/levitate/">levitate</a></li>
+<li><a href="../../Magic/Spells/magic-mouth">magic mouth</a> (ritual.md)</li>
+<li><a href="../../Magic/Spells/magic-weapon/">magic weapon</a></li>
+<li><a href="../../Magic/Spells/protection-from-poison/">protection from poison</a></li>
+<li><a href="../../Magic/Spells/pyrotechnics/">pyrotechnics</a></li>
+<li><a href="../../Magic/Spells/rope-trick/">rope trick</a></li>
+<li><a href="../../Magic/Spells/see-invisibility/">see invisibility</a></li>
+<li><a href="../../Magic/Spells/skywrite">skywrite</a> (ritual.md)</li>
+<li><a href="../../Magic/Spells/spider-climb/">spider climb</a></li>
+<li><a href="../../Magic/Spells/web/">web</a></li>
+</ul>
+<h2 id="3rd-level">3rd Level</h2>
+<ul>
+<li><a href="../../Magic/Spells/blink/">blink</a></li>
+<li><a href="../../Magic/Spells/catnap/">catnap</a></li>
+<li><a href="../../Magic/Spells/create-food-and-water/">create food and water</a></li>
+<li><a href="../../Magic/Spells/disguise-other/">disguise other</a></li>
+<li><a href="../../Magic/Spells/dispel-magic/">dispel magic</a></li>
+<li><a href="../../Magic/Spells/elemental-weapon/">elemental weapon</a></li>
+<li><a href="../../Magic/Spells/fly/">fly</a></li>
+<li><a href="../../Magic/Spells/glyph-of-warding/">glyph of warding</a></li>
+<li><a href="../../Magic/Spells/haste/">haste</a></li>
+<li><a href="../../Magic/Spells/healing-wave/">healing wave</a></li>
+<li><a href="../../Magic/Spells/mass-shield/">mass shield</a></li>
+<li><a href="../../Magic/Spells/mirror-weapon/">mirror weapon</a></li>
+<li><a href="../../Magic/Spells/protection-from-energy/">protection from energy</a></li>
+<li><a href="../../Magic/Spells/relocate/">relocate</a></li>
+<li><a href="../../Magic/Spells/revivify/">revivify</a></li>
+<li><a href="../../Magic/Spells/water-breathing/">water breathing</a> (ritual)</li>
+<li><a href="../../Magic/Spells/water-walk/">water walk</a> (ritual)</li>
+</ul>
+<h2 id="4th-level">4th Level</h2>
+<ul>
+<li><a href="../../Magic/Spells/arcane-eye/">arcane eye</a></li>
+<li><a href="../../Magic/Spells/elemental-bane/">elemental bane</a></li>
+<li><a href="../../Magic/Spells/enhance-body/">enhance body</a></li>
+<li><a href="../../Magic/Spells/envenomed-weapon/">envenomed weapon</a></li>
+<li><a href="../../Magic/Spells/fabricate/">fabricate</a></li>
+<li><a href="../../Magic/Spells/freedom-of-movement/">freedom of movement</a></li>
+<li><a href="../../Magic/Spells/greater-renewal/">greater renewal</a></li>
+<li><a href="../../Magic/Spells/hoodwink/">hoodwink</a></li>
+<li><a href="../../Magic/Spells/leomunds-secret-chest/">Leomund's secret chest</a></li>
+<li><a href="../../Magic/Spells/mordenkainens-faithful-hound/">Mordenkainen's faithful hound</a></li>
+<li><a href="../../Magic/Spells/mordenkainens-private-sanctum/">Mordenkainen's private sanctum</a></li>
+<li><a href="../../Magic/Spells/otilukes-resilient-sphere/">Otiluke's resilient sphere</a></li>
+<li><a href="../../Magic/Spells/stone-shape/">stone shape</a></li>
+<li><a href="../../Magic/Spells/stoneskin/">stoneskin</a></li>
+<li><a href="../../Magic/Spells/wind-funnel/">wind funnel</a></li>
+</ul>
+<h2 id="5th-level">5th Level</h2>
+<ul>
+<li><a href="../../Magic/Spells/animate-objects/">animate objects</a></li>
+<li><a href="../../Magic/Spells/bigbys-hand/">Bigby's hand</a></li>
+<li><a href="../../Magic/Spells/burrow/">burrow</a></li>
+<li><a href="../../Magic/Spells/creation/">creation</a></li>
+<li><a href="../../Magic/Spells/greater-restoration/">greater restoration</a></li>
+<li><a href="../../Magic/Spells/reverse-projectiles/">reverse projectiles</a></li>
+<li><a href="../../Magic/Spells/skill-empowerment/">skill empowerment</a></li>
+<li><a href="../../Magic/Spells/soar/">soar</a></li>
+<li><a href="../../Magic/Spells/transmute-rock/">transmute rock</a></li>
+<li><a href="../../Magic/Spells/wall-of-stone/">wall of stone</a></li>
+</ul></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="../../js/jquery-3.6.0.min.js"></script>
+        <script src="../../js/bootstrap.min.js"></script>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../js/base.js"></script>
+        <script src="../../search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

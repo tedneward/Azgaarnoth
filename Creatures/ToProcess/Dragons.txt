@@ -1,0 +1,1404 @@
+Red Dragon
+The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures.
+
+The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
+
+The scales of a red dragon wyrmling are a bright glossy scarlet, turning a dull, deeper red and becoming as thick and strong as metal as the dragon ages. Its pupils also fade as it ages, and the oldest red dragons have eyes that resemble molten lava orbs.
+
+Mountain Masters. Red dragons prefer mountainous terrain, badlands, and any other locale where they can perch high and survey their domain. Their preference for mountains brings them into conflict with the hill-dwelling copper dragons from time to time.
+
+Arrogant Tyrants. Red dragons fly into destructive rages and act on impulse when angered. They are so ferocious and vengeful that they are regarded as the archetypical evil dragon by many cultures.
+
+No other dragon comes close to the arrogance of the red dragon. These creatures see themselves as kings and emperors, and view the rest of dragonkind as inferior. Believing that they are chosen by Tiamat to rule in her name, red dragons consider the world and every creature in it as theirs to command.
+
+Status and Servants. Red dragons are fiercely territorial and isolationist. However, they yearn to know about events in the wider world, and they make use of lesser creatures as informants, messengers, and spies. They are most interested in news about other red dragons, with which they compete constantly for status.
+
+When it requires servants, a red dragon demands fealty from chaotic evil humanoids. If allegiance isn't forthcoming, it slaughters a tribe's leaders and claims lordship over the survivors. Creatures serving a red dragon live in constant terror of being roasted and eaten for displeasing it. They spend most of their time fawning over the creature in an attempt to stay alive.
+
+Obsessive Collectors. Red dragons value wealth above all else, and their treasure hoards are legendary. They covet anything of monetary value, and can often judge the worth of a bauble to within a copper piece at a glance. A red dragon has a special affection for treasure claimed from powerful enemies it has slain, exhibiting that treasure to prove its superiority.
+
+A red dragon knows the value and provenance of every item in its hoard, along with each item's exact location. It might notice the absence of a single coin, igniting its rage as it tracks down and slays the thief without mercy. If the thief can't be found, the dragon goes on a rampage, laying waste to towns and villages in an attempt to sate its wrath.
+
+
+A Red Dragon's Lair
+Red dragons lair in high mountains or hills, dwelling in caverns under snow-capped peaks, or within the deep halls of abandoned mines and dwarven strongholds. Caves with volcanic or geothermal activity are the most highly prized red dragon lairs, creating hazards that hinder intruders and letting searing heat and volcanic gases wash over a dragon as it sleeps.
+
+With its hoard well protected deep within the lair, a red dragon spends as much of its time outside the mountain as in it. For a red dragon, the great heights of the world are the throne from which it can look out to survey all it controls — and the wider world it seeks to control.
+
+Throughout the lair complex, servants erect monuments to the dragon's power, telling the grim story of its life, the enemies it has slain, and the nations it has conquered.
+
+Lair Actions
+On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
+
+Magma erupts from a point on the ground the dragon can see within 120 feet of it, creating a 20-foot-high, 5-foot-radius geyser. Each creature in the geyser's area must make a DC 15 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
+A tremor shakes the lair in a 60-foot radius around the dragon. Each creature other than the dragon on the ground in that area must succeed on a DC 15 Dexterity saving throw or be knocked prone.
+Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads around corners, and its area is lightly obscured. It lasts until initiative count 20 on the next round. Each creature that starts its turn in the cloud must succeed on a DC 13 Constitution saving throw or be poisoned until the end of its turn. While poisoned in this way, a creature is incapacitated.
+Regional Effects
+The region containing a legendary red dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
+
+Small earthquakes are common within 6 miles of the dragon's lair.
+Water sources within 1 mile of the lair are supernaturally warm and tainted by sulfur.
+Rocky fissures within 1 mile of the dragon's lair form portals to the Elemental Plane of Fire, allowing creatures of elemental fire into the world to dwell nearby.
+If the dragon dies, these effects fade over the course of 1d10 days.
+
+
+
+
+White Dragon
+The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
+
+A white dragon has feral eyes, a sleek profile, and a spined crest. The scales of a wyrmling white dragon glisten pure white. As the dragon ages, its sheen disappears and some of its scales begin to darken, so that by the time it is old, it is mottled by patches of pale blue and light gray. This patterning helps the dragon blend into the realms of ice and stone in which it hunts, and to fade from view when it soars across a cloud-filled sky.
+
+Primal and Vengeful. White dragons lack the cunning and tactics of most other dragons. However, their bestial nature makes them the best hunters among all dragonkind, singularly focused on surviving and slaughtering their enemies. A white dragon consumes only food that has been frozen, devouring creatures killed by its breath weapon while they are still stiff and frigid. It encases other kills in ice or buries them in snow near its lair, and finding such a larder is a good indication that a white dragon dwells nearby.
+
+A white dragon also keeps the bodies of its greatest enemies as trophies, freezing corpses where it can look upon them and gloat. The remains of giants, remorhazes, and other dragons are often positioned prominently within a white dragon's lair as warnings to intruders.
+
+Though only moderately intelligent, white dragons have extraordinary memories. They recall every slight and defeat, and have been known to conduct malicious vendettas against creatures that have offended them. This often includes silver dragons, which lair in the same territories as whites. White dragons can speak as all dragons can, but they rarely talk unless moved to do so.
+
+Lone Masters. White dragons avoid all other dragons except whites of the opposite sex. Even then, when white dragons seek each other out as mates, they stay together only long enough to conceive offspring before fleeing into isolation again.
+
+White dragons can't abide rivals near their lairs. As a result, a white dragon attacks other creatures without provocation, viewing such creatures as either too weak or too powerful to live. The only creatures that typically serve a white dragon are intelligent humanoids that demonstrate enough strength to assuage the dragon's wrath, and can put up with sustaining regular losses as a result of its hunger. This includes dragon-worshiping kobolds, which are commonly found in their lairs.
+
+Powerful creatures can sometimes gain a white dragon's obedience through a demonstration of physical or magical might. Frost giants challenge white dragons to prove their own strength and improve their status in their clans, and their cracked bones litter many a white dragon's lair. However, a white dragon defeated by a frost giant often becomes its servant, accepting the mastery of a superior creature in exchange for asserting its own domination over the other creatures that serve or oppose the giant.
+
+Treasure Under Ice. White dragons love the cold sparkle of ice and favor treasure with similar qualities, particularly diamonds. However, in their remote arctic climes, the treasure hoards of white dragons more often contain walrus and mammoth tusk ivory, whale-bone sculptures, figureheads from ships, furs, and magic items seized from overly bold adventurers.
+
+Loose coins and gems are spread across a white dragon's lair, glittering like stars when the light strikes them. Larger treasures and chests are encased in layers of rime created by the white dragon's breath, and held safe beneath layers of transparent ice. The dragon's great strength allows it to easily access its wealth, while lesser creatures must spend hours chipping away or melting the ice to reach the dragon's main hoard.
+
+A white dragon's flawless memory means that it knows how it came to possess every coin, gem, and magic item in its hoard, and it associates each item with a specific victory. White dragons are notoriously difficult to bribe, since any offers of treasure are seen as an insult to their ability to simply slay the creature making the offer and seize the treasure on their own.
+
+A White Dragon's Lair
+
+White dragons lair in icy caves and deep subterranean chambers far from the sun. They favor high mountain vales accessible only by flying, caverns in cliff faces, and labyrinthine ice caves in glaciers. White dragons love vertical heights in their caverns, flying up to the ceiling to latch on like bats or slithering down icy crevasses.
+
+A legendary white dragon's innate magic deepens the cold in the area around its lair. Mountain caverns are fast frozen by the white dragon's presence. A white dragon can often detect intruders by the way the keening wind in its lair changes tone.
+
+A white dragon rests on high ice shelves and cliffs in its lair, the floor around it a treacherous morass of broken ice and stone, hidden pits, and slippery slopes. As foes struggle to move toward it, the dragon flies from perch to perch and destroys them with its freezing breath.
+
+Lair Actions
+On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
+
+Freezing fog fills a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The fog spreads around corners, and its area is heavily obscured. Each creature in the fog when it appears must make a DC 10 Constitution saving throw, taking 10 (3d6) cold damage on a failed save, or half as much damage on a successful one. A creature that ends its turn in the fog takes 10 (3d6) cold damage. A wind of at least 20 miles per hour disperses the fog. The fog otherwise lasts until the dragon uses this lair action again or until the dragon dies.
+Jagged ice shards fall from the ceiling, striking up to three creatures underneath that the dragon can see within 120 feet of it. The dragon makes one ranged attack roll (+7 to hit) against each target. On a hit, the target takes 10 (3d6) piercing damage.
+The dragon creates an opaque wall of ice on a solid surface it can see within 120 feet of it. The wall can be up to 30 feet long, 30 feet high, and 1 foot thick. When the wall appears, each creature within its area is pushed 5 feet out of the wall's space, appearing on whichever side of the wall it wants. Each 10-foot section of the wall has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. The wall disappears when the dragon uses this lair action again or when the dragon dies.
+Regional Effects
+The region containing a legendary white dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
+
+Chilly fog lightly obscures the land within 6 miles of the dragon's lair.
+Freezing precipitation falls within 6 miles of the dragon's lair, sometimes forming blizzard conditions when the dragon is at rest.
+Icy walls block off areas in the dragon's lair. Each wall is 6 inches thick, and a 10-foot section has AC 5, 15 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage.
+
+If the dragon wishes to move through a wall, it can do so without slowing down. The portion of the wall the dragon moves through is destroyed, however.
+
+Freezing precipitation falls within 6 miles of the dragon's lair, sometimes forming blizzard conditions when the dragon is at rest.
+If the dragon dies, the fog and precipitation fade within 1 day. The ice walls melt over the course of 1d10 days.
+
+
+
+
+
+
+Brass Dragon
+The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
+
+A brass dragon's head is defined by the broad protective plate that expands from its forehead and the spikes protruding from its chin. A frill runs the length of its neck, and its tapering wings extend down the length of its tail. A brass dragon wyrmling's scales are a dull, mottled brown. As it ages, the dragon's scales begin to shine, eventually taking on a warm, burnished luster. Its wings and frills are mottled green toward the edges, darkening with age. As a brass dragon grows older, its pupils fade until its eyes resemble molten metal orbs.
+
+Ancient Brass Dragon
+ANCIENT BRASS DRAGON
+Gargantuan dragon, chaotic good
+
+Armor Class 20 (natural armor)
+
+Hit Points 297 (17d20 + 119)
+
+Speed 40 ft., burrow 40 ft., fly 80 ft.
+
+STR
+27 (+8)
+DEX
+10 (+0)
+CON
+25 (+7)
+INT
+16 (+3)
+WIS
+15 (+2)
+CHA
+19 (+4)
+Saving Throws Dex +6, Con +13, Wis +8, Cha +10
+
+Skills History +9, Perception +14, Persuasion +10, Stealth +6
+
+Damage Immunities fire
+
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 24
+
+Languages Common, Draconic
+
+Challenge 20 (25,000 XP)
+
+Legendary Resistance (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
+
+Actions
+
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+Bite. Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 19 (2d10 + 8) piercing damage.
+
+Claw. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 15 (2d6 + 8) slashing damage.
+
+Tail. Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 17 (2d8 + 8) bludgeoning damage.
+
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons:
+
+Fire Breath. The dragon exhales fire in an 90-foot line that is 10 feet wide. Each creature in that line must make a DC 21 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+
+Sleep Breath. The dragon exhales sleep gas in a 90-foot cone. Each creature in that area must succeed on a DC 21 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+
+Change Shape. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+Detect. The dragon makes a Wisdom (Perception) check.
+
+Tail Attack. The dragon makes a tail attack.
+
+Wing Attack (Costs 2 Actions). The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+
+Adult Brass Dragon
+ADULT BRASS DRAGON
+Huge dragon, chaotic good
+
+Armor Class 18 (natural armor)
+
+Hit Points 172 (15d12 + 75)
+
+Speed 40 ft., burrow 30 ft., fly 80 ft.
+
+STR
+23 (+6)
+DEX
+10 (+0)
+CON
+21 (+5)
+INT
+14 (+2)
+WIS
+13 (+1)
+CHA
+17 (+3)
+Saving Throws Dex +5, Con +10, Wis +6, Cha +8
+
+Skills History +7, Perception +11, Persuasion +8, Stealth +5
+
+Damage Immunities fire
+
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+Languages Common, Draconic
+
+Challenge 13 (10,000 XP)
+
+Legendary Resistance (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
+
+Actions
+
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+Bite. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage.
+
+Claw. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.
+
+Tail. Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage.
+
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
+
+Fire Breath. The dragon exhales fire in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 45 (13d6) fire damage on a failed save, or half as much damage on a successful one.
+
+Sleep Breath. The dragon exhales sleep gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+
+Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+Detect. The dragon makes a Wisdom (Perception) check.
+
+Tail Attack. The dragon makes a tail attack.
+
+Wing Attack (Costs 2 Actions). The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+Young Brass Dragon
+YOUNG BRASS DRAGON
+Large dragon, chaotic good
+
+Armor Class 17 (natural armor)
+
+Hit Points 110 (13d10 + 39)
+
+Speed 40 ft., burrow 20 ft., fly 80 ft.
+
+STR
+19 (+4)
+DEX
+10 (+0)
+CON
+17 (+3)
+INT
+12 (+1)
+WIS
+11 (+0)
+CHA
+15 (+2)
+Saving Throws Dex +3, Con +6, Wis +3, Cha +5
+
+Skills Perception +6, Persuasion +5, Stealth +3
+
+Damage Immunities fire
+
+Senses blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+Languages Common, Draconic
+
+Challenge 6 (2,300 XP)
+
+Actions
+
+Multiattack. The dragon makes three attacks: one with its bite and two with its claws.
+
+Bite. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage.
+
+Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
+
+Fire Breath. The dragon exhales fire in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one.
+
+Sleep Breath. The dragon exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+
+Brass Dragon Wyrmling
+BRASS DRAGON WYRMLING
+Medium dragon, chaotic good
+
+Armor Class 16 (natural armor)
+
+Hit Points 16 (3d8 + 3)
+
+Speed 30 ft., burrow 15 ft., fly 60 ft.
+
+STR
+15 (+2)
+DEX
+10 (+0)
+CON
+13 (+1)
+INT
+10 (+0)
+WIS
+11 (+0)
+CHA
+13 (+1)
+Saving Throws Dex +2, Con +3, Wis +2, Cha +3
+
+Skills Perception +4, Stealth +2
+
+Damage Immunities fire
+
+Senses blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+Languages Draconic
+
+Challenge 1 (200 XP)
+
+Actions
+
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
+
+Fire Breath. The dragon exhales fire in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.
+
+Sleep Breath. The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+
+Boldly Talkative. A brass dragon engages in conversations with thousands of creatures throughout its long life, accumulating useful information which it will gladly share for gifts of treasure. If an intelligent creature tries to leave a brass dragon's presence without engaging in conversation, the dragon follows it. If the creature attempts to escape by magic or force, the dragon might respond with a fit of pique, using its sleep gas to incapacitate the creature. When it wakes, the creature finds itself pinned to the ground by giant claws or buried up to its neck in the sand while the dragon's thirst for small talk is slaked.
+
+A brass dragon is trusting of creatures that appear to enjoy conversation as much as it does, but is smart enough to know when it is being manipulated. When that happens, the dragon often responds in kind, treating a bout of mutual trickery as a game.
+
+Prized Treasures. Brass dragons covet magic items that allow them to converse with interesting personalities. An intelligent telepathic weapon or a magic lamp with a djinni bound inside it are among the greatest treasures a brass dragon can possess.
+
+Brass dragons conceal their hoards under mounds of sand or in secret places far from their primary lairs. They have no trouble remembering where their treasure is buried, and therefore have no need for maps. Adventurers and wanderers should be wary if they happen across a chest hidden in an oasis or a treasure cache tucked away in a half-buried desert ruin, for these might be parts of a brass dragon's hoard.
+
+A Brass Dragon's Lair
+
+A brass dragon's desert lair is typically a ruin, canyon, or cave network with ceiling holes to allow for sunlight.
+
+Lair Actions
+On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:
+
+A strong wind blows around the dragon. Each creature within 60 feet of the dragon must succeed on a DC 15 Strength saving throw or be pushed 15 feet away from the dragon and knocked prone. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames, such as lanterns, have a 50 percent chance of being extinguished.
+A cloud of sand swirls about in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The cloud spreads around corners. Each creature in it must succeed on a DC 15 Constitution saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Regional Effects
+The region containing a legendary brass dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
+
+Tracks appear in the sand within 6 miles of the dragon's lair. The tracks lead to safe shelters and hidden water sources, while also leading away from areas that the dragon prefers to remain undisturbed.
+Images of Large or smaller monsters haunt the desert sands within 1 mile of the dragon's lair. These illusions move and appear real, although they can do no harm. A creature that examines an image from a distance can tell it's an illusion with a successful DC 20 Intelligence (Investigation) check. Any physical interaction with an image reveals it to be an illusion, because objects pass through it.
+Whenever a creature with an Intelligence of 3 or higher comes within 30 feet of a water source within 1 mile of the dragon's lair, the dragon becomes aware of the creature's presence and location.
+If the dragon dies, the tracks fade in 1d10 days, but the other effects fade immediately.
+
+Bronze Dragon
+Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
+
+Ancient Bronze Dragon
+ANCIENT BRONZE DRAGON
+Gargantuan dragon, lawful good
+
+Armor Class 22 (natural armor)
+
+Hit Points 444 (24d20 + 192)
+
+Speed 40 ft., fly 80 ft., swim 40 ft.
+
+STR
+29 (+9)
+DEX
+10 (+0)
+CON
+27 (+8)
+INT
+18 (+4)
+WIS
+17 (+3)
+CHA
+21 (+5)
+Saving Throws Dex +7, Con +15, Wis +10, Cha +12
+
+Skills Insight +10, Perception +17, Stealth +7
+
+Damage Immunities lightning
+
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+Languages Common, Draconic
+
+Challenge 22 (41,000 XP)
+
+Amphibious. The dragon can breathe air and water.
+
+Legendary Resistance (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
+
+Actions
+
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+Bite. Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) piercing damage.
+
+Claw. Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 16 (2d6 + 9) slashing damage.
+
+Tail. Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 18 (2d8 + 9) bludgeoning damage.
+
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
+
+Lightning Breath. The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+Repulsion Breath. The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 23 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
+
+Change Shape. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+Detect. The dragon makes a Wisdom (Perception) check.
+
+Tail Attack. The dragon makes a tail attack.
+
+Wing Attack (Costs 2 Actions). The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+
+Adult Bronze Dragon
+ADULT BRONZE DRAGON
+Huge dragon, lawful good
+
+Armor Class 19 (natural armor)
+
+Hit Points 212 (17d12 + 102)
+
+Speed 40 ft., fly 80 ft., swim 40 ft.
+
+STR
+25 (+7)
+DEX
+10 (+0)
+CON
+23 (+6)
+INT
+16 (+3)
+WIS
+15 (+2)
+CHA
+19 (+4)
+Saving Throws Dex +5, Con +11, Wis +7, Cha +9
+
+Skills Insight +7, Perception +12, Stealth +5
+
+Damage Immunities lightning
+
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+Languages Common, Draconic
+
+Challenge 15 (13,000 XP)
+
+Amphibious. The dragon can breathe air and water.
+
+Legendary Resistance (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
+
+Actions
+
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+Bite. Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 18 (2d10 + 7) piercing damage.
+
+Claw. Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage.
+
+Tail. Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 16 (2d8 + 7) bludgeoning damage.
+
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
+
+Lightning Breath. The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+Repulsion Breath. The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
+
+Change Shape. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+Detect. The dragon makes a Wisdom (Perception) check.
+
+Tail Attack. The dragon makes a tail attack.
+
+Wing Attack (Costs 2 Actions). The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+
+Young Bronze Dragon
+YOUNG BRONZE DRAGON
+Large dragon, lawful good
+
+Armor Class 18 (natural armor)
+
+Hit Points 142 (15d10 + 60)
+
+Speed 40 ft., fly 80 ft., swim 40 ft.
+
+STR
+21 (+5)
+DEX
+10 (+0)
+CON
+19 (+4)
+INT
+14 (+2)
+WIS
+13 (+1)
+CHA
+17 (+3)
+Saving Throws Dex +3, Con +7, Wis +4, Cha +6
+
+Skills Insight +4, Perception +7, Stealth +3
+
+Damage Immunities lightning
+
+Senses blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+Languages Common, Draconic
+
+Challenge 8 (3,900 XP)
+
+Amphibious. The dragon can breathe air and water.
+
+Actions
+
+Multiattack. The dragon makes three attacks: one with its bite and two with its claws.
+
+Bite. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage.
+
+Claw. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
+
+Lightning Breath. The dragon exhales lightning in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+Repulsion Breath. The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.
+
+Bronze Dragon Wyrmling
+BRONZE DRAGON WYRMLING
+Medium dragon, lawful good
+
+Armor Class 17 (natural armor)
+
+Hit Points 32 (5d8 + 10)
+
+Speed 30 ft., fly 60 ft., swim 30 ft.
+
+STR
+17 (+3)
+DEX
+10 (+0)
+CON
+15 (+2)
+INT
+12 (+1)
+WIS
+11 (+0)
+CHA
+15 (+2)
+Saving Throws Dex +2, Con +4, Wis +2, Cha +4
+
+Skills Perception +4, Stealth +2
+
+Damage Immunities lightning
+
+Senses blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+Languages Draconic
+
+Challenge 2 (450 XP)
+
+Amphibious. The dragon can breathe air and water.
+
+Actions
+
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
+
+Lightning Breath. The dragon exhales lightning in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+Repulsion Breath. The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
+
+A ribbed and fluted crest defines the shape of a bronze dragon's head. Curving horns extend out from the crest, echoed by spines on its lower jaw and chin. To help them swim, bronze dragons have webbed feet and smooth scales. A bronze wyrmling's scales are yellow tinged with green; only as the dragon approaches adulthood does its color deepen to a darker, rich bronze tone. The pupils of a bronze dragon's eyes fade as the dragon ages, until they resemble glowing green orbs.
+
+
+Dragons of the Coast. Bronze dragons love to watch ships traveling up and down the coastlines near their lairs, sometimes taking the forms of dolphins or seagulls to inspect those ships and their crews more closely. A daring bronze dragon might slip aboard a ship in the guise of a bird or rat, inspecting the hold for treasure. If the dragon finds a worthy addition to its hoard, it barters with the ship's captain for the item.
+
+War Machines. Bronze dragons actively oppose tyranny, and many bronze dragons yearn to test their mettle by putting their size and strength to good use.
+
+When a conflict unfolds near its lair, a bronze dragon ascertains the underlying cause, then offers its services to any side that fights for good. Once a bronze dragon commits to a cause, it remains a staunch ally.
+
+Well-Organized Wealth. Bronze dragons loot sunken ships and also collect colorful coral and pearls from the reefs and seabeds near their lairs. When a bronze dragon pledges to help an army wage war against tyranny, it asks for nominal payment. If such a request is beyond its allies' means, it might settle for a collection of old books on military history or a ceremonial item commemorating the alliance. A bronze dragon might also lay claim to a treasure held by the enemy that it feels would be safer under its protection.
+
+A Bronze Dragon's Lair
+A bronze dragon lairs in coastal caves. It might salvage a wrecked ship, reconstruct it within the confines of its lair, and use it as a treasure vault or nest for its eggs.
+
+Lair Actions
+On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:
+
+The dragon creates fog as though it had cast the fog cloud spell. The fog lasts until initiative count 20 on the next round.
+A thunderclap originates at a point the dragon can see within 120 feet of it. Each creature within a 20-foot radius centered on that point must make a DC 15 Constitution saving throw or take 5 (1d10) thunder damage and be deafened until the end of its next turn.
+Regional Effects
+The region containing a legendary bronze dragon's lair is warped by the dragon's magic.
+
+Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the control weather spell.
+Underwater plants within 6 miles of the dragon's lair take on dazzlingly brilliant hues.
+Within its lair, the dragon can set illusory sounds, such as soft music and strange echoes, so that they can be heard in various parts of the lair.
+If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in 1d10 days.
+
+Copper Dragon
+Copper dragons are incorrigible pranksters, joke tellers, and riddlers that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.
+
+A copper dragon has brow plates jutting over its eyes, extending back to long horns that grow as a series of overlapping segments. Its backswept cheek ridges and jaw frills give it a pensive look. At birth, a copper dragon's scales are a ruddy brown with a metallic tint. As the dragon ages, its scales become more coppery in color, later taking on a green tint as it ages. A copper dragon's pupils fade with age, and the eyes of the oldest copper dragons resemble glowing turquoise orbs.
+
+Ancient Copper Dragon
+ANCIENT COPPER DRAGON
+Gargantuan dragon, chaotic good
+
+Armor Class 21 (natural armor)
+
+Hit Points 350 (20d20 + 140)
+
+Speed 40 ft., climb 40 ft., fly 80 ft.
+
+STR
+27 (+8)
+DEX
+12 (+1)
+CON
+25 (+7)
+INT
+20 (+5)
+WIS
+17 (+3)
+CHA
+19 (+4)
+Saving Throws Dex +8, Con +14, Wis +10, Cha +11
+
+Skills Deception +11, Perception +17, Stealth +8
+
+Damage Immunities acid
+
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+Languages Common, Draconic
+
+Challenge 21 (33,000 XP)
+
+Legendary Resistance (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
+
+Actions
+
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+Bite. Melee Weapon Attack: +15 to hit, reach 15 ft., one target. Hit: 19 (2d10 + 8) piercing damage.
+
+Claw. Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 15 (2d6 + 8) slashing damage.
+
+Tail. Melee Weapon Attack: +15 to hit, reach 20 ft., one target. Hit: 17 (2d8 + 8) bludgeoning damage.
+
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
+
+Acid Breath. The dragon exhales acid in an 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 63 (14d8) acid damage on a failed save, or half as much damage on a successful one.
+
+Slowing Breath. The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 22 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+Change Shape. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+Detect. The dragon makes a Wisdom (Perception) check.
+
+Tail Attack. The dragon makes a tail attack.
+
+Wing Attack (Costs 2 Actions). The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+Adult Copper Dragon
+ADULT COPPER DRAGON
+Huge dragon, chaotic good
+
+Armor Class 18 (natural armor)
+
+Hit Points 184 (16d12 + 80)
+
+Speed 40 ft., climb 40 ft., fly 80 ft.
+
+STR
+23 (+6)
+DEX
+12 (+1)
+CON
+21 (+5)
+INT
+18 (+4)
+WIS
+15 (+2)
+CHA
+17 (+3)
+Saving Throws Dex +6, Con +10, Wis +7, Cha +8
+
+Skills Deception +8, Perception +12, Stealth +6
+
+Damage Immunities acid
+
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+Languages Common, Draconic
+
+Challenge 14 (11,500 XP)
+
+Legendary Resistance (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
+
+Actions
+
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+Bite. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage.
+
+Claw. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.
+
+Tail. Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage.
+
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
+
+Acid Breath. The dragon exhales acid in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
+
+Slowing Breath. The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+Detect. The dragon makes a Wisdom (Perception) check.
+
+Tail Attack. The dragon makes a tail attack.
+
+Wing Attack (Costs 2 Actions). The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+Young Copper Dragon
+YOUNG COPPER DRAGON
+Large dragon, chaotic good
+
+Armor Class 17 (natural armor)
+
+Hit Points 119 (14d10 + 42)
+
+Speed 40 ft., climb 40 ft., fly 80 ft.
+
+STR
+19 (+4)
+DEX
+12 (+1)
+CON
+17 (+3)
+INT
+16 (+3)
+WIS
+13 (+1)
+CHA
+15 (+2)
+Saving Throws Dex +4, Con +6, Wis +4, Cha +5
+
+Skills Deception +5, Perception +7, Stealth +4
+
+Damage Immunities acid
+
+Senses blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+Languages Common, Draconic
+
+Challenge 7 (2,900 XP)
+
+Actions
+
+Multiattack. The dragon makes three attacks: one with its bite and two with its claws.
+
+Bite. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage.
+
+Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
+
+Acid Breath. The dragon exhales acid in an 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
+
+Slowing Breath. The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+Copper Dragon Wyrmling
+COPPER DRAGON WYRMLING
+Medium dragon, chaotic good
+
+Armor Class 16 (natural armor)
+
+Hit Points 22 (4d8 + 4)
+
+Speed 30 ft., climb 30 ft., fly 60 ft.
+
+STR
+15 (+2)
+DEX
+12 (+1)
+CON
+13 (+1)
+INT
+14 (+2)
+WIS
+11 (+0)
+CHA
+13 (+1)
+Saving Throws Dex +3, Con +3, Wis +2, Cha +3
+
+Skills Perception +4, Stealth +3
+
+Damage Immunities acid
+
+Senses blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+Languages Draconic
+
+Challenge 1 (200 XP)
+
+Actions
+
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
+
+Acid Breath. The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
+
+Slowing Breath. The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+
+Good Hosts. A copper dragon appreciates wit, a good joke, humorous story, or riddle. A copper dragon becomes annoyed with any creature that doesn't laugh at its jokes or accept its tricks with good humor.
+
+Copper dragons are particularly fond of bards. A dragon might carve out part of its lair as a temporary abode for a bard willing to regale it with stories, riddles, and music. To a copper dragon, such companionship is a treasure to be coveted.
+
+Cautious and Crafty. When building its hoard, a copper dragon prefers treasures from the earth. Metals and precious stones are favorites of these creatures.
+
+A copper dragon is wary when it comes to showing off its possessions. If it knows that other creatures seek a specific item in its hoard, a copper dragon will not admit to possessing the item. Instead, it might send curious treasure hunters on a wild goose chase to search for the object while it watches from afar for its own pleasure.
+
+A Copper Dragon's Lair
+Copper dragons dwell in dry uplands and on hilltops, where they make their lairs in narrow caves. False walls in the lair hide secret antechambers where the dragon stores valuable ores, art objects, and other oddities it has collected over its lifetime. Worthless items are put on display in open caves to tantalize treasure seekers and distract them from where the real treasure is hidden.
+
+Lair Actions
+On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:
+
+The dragon chooses a point on the ground that it can see within 120 feet of it. Stone spikes sprout from the ground in a 20-foot radius centered on that point. The effect is otherwise identical to the spike growth spell and lasts until the dragon uses this lair action again or until the dragon dies.
+The dragon chooses a 10-foot-square area on the ground that it can see within 120 feet of it. The ground in that area turns into 3-foot-deep mud. Each creature on the ground in that area when the mud appears must succeed on a DC 15 Dexterity saving throw or sink into the mud and become restrained. A creature can take an action to attempt a DC 15 Strength check, freeing itself or another creature within its reach and ending the restrained condition on a success. Moving 1 foot in the mud costs 2 feet of movement. On initiative count 20 on the next round, the mud hardens, and the Strength DC to work free increases to 20.
+Regional Effects
+
+The region containing a legendary copper dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
+
+Magic carvings of the dragon's smiling visage can be seen worked into stone terrain and objects within 6 miles of the dragon's lair.
+Tiny beasts such as rodents and birds that are normally unable to speak gain the magical ability to speak and understand Draconic while within 1 mile of the dragon's lair. These creatures speak well of the dragon, but can't divulge its whereabouts.
+Intelligent creatures within 1 mile of the dragon's lair are prone to fits of giggling. Even serious matters suddenly seem amusing.
+If the dragon dies, the magic carvings fade over the course of 1d10 days. The other effects end immediately.
+
+Gold Dragon
+The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
+
+A gold dragon has a sagacious face anointed with flexible spines that resemble whiskers. Its horns sweep back from its nose and brow, echoing twin frills that adorn its long neck. A gold dragon's sail-like wings start at its shoulders and trace down to the tip of its tail, letting it fly with a distinctive rippling motion as if swimming through the air. A gold dragon wyrmling has scales of dark yellow with metallic flecks. Those flecks grow larger as the dragon matures. As a gold dragon ages, its pupils fade until its eyes resemble pools of molten gold.
+
+Ancient Gold Dragon
+ANCIENT GOLD DRAGON
+Gargantuan dragon, lawful good
+
+Armor Class 22 (natural armor)
+
+Hit Points 546 (28d20 + 252)
+
+Speed 40 ft., fly 80 ft., swim 40 ft.
+
+STR
+30 (+10)
+DEX
+14 (+2)
+CON
+29 (+9)
+INT
+18 (+4)
+WIS
+17 (+3)
+CHA
+28 (+9)
+Saving Throws Dex +9, Con +16, Wis +10, Cha +16
+
+Skills Insight +10, Perception +17, Persuasion +16, Stealth +9
+
+Damage Immunities fire
+
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+Languages Common, Draconic
+
+Challenge 24 (62,000 XP)
+
+Amphibious. The dragon can breathe air and water.
+
+Legendary Resistance (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
+
+Actions
+
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+Bite. Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 21 (2d10 + 10) piercing damage.
+
+Claw. Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 17 (2d6 + 10) slashing damage.
+
+Tail. Melee Weapon Attack: +17 to hit, reach 20 ft., one target. Hit: 19 (2d8 + 10) bludgeoning damage.
+
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
+
+Fire Breath. The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one.
+
+Weakening Breath. The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Change Shape. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+Detect. The dragon makes a Wisdom (Perception) check.
+
+Tail Attack. The dragon makes a tail attack.
+
+Wing Attack (Costs 2 Actions). The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+
+Adult Gold Dragon
+ADULT GOLD DRAGON
+Huge dragon, lawful good
+
+Armor Class 19 (natural armor)
+
+Hit Points 256 (19d12 + 133)
+
+Speed 40 ft., fly 80 ft., swim 40 ft.
+
+STR
+27 (+8)
+DEX
+14 (+2)
+CON
+25 (+7)
+INT
+16 (+3)
+WIS
+15 (+2)
+CHA
+24 (+7)
+Saving Throws Dex +8, Con +13, Wis +8, Cha +13
+
+Skills Insight +8, Perception +14, Persuasion +13, Stealth +8
+
+Damage Immunities fire
+
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 24
+
+Languages Common, Draconic
+
+Challenge 17 (18,000 XP)
+
+Amphibious. The dragon can breathe air and water.
+
+Legendary Resistance (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
+
+Actions
+
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+Bite. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 19 (2d10 + 8) piercing damage.
+
+Claw. Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) slashing damage.
+
+Tail. Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 17 (2d8 + 8) bludgeoning damage.
+
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
+
+Fire Breath. The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one.
+
+Weakening Breath. The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Change Shape. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+Detect. The dragon makes a Wisdom (Perception) check.
+
+Tail Attack. The dragon makes a tail attack.
+
+Wing Attack (Costs 2 Actions). The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+Young Gold Dragon
+YOUNG GOLD DRAGON
+Large dragon, lawful good
+
+Armor Class 18 (natural armor)
+
+Hit Points 178 (17d10 + 85)
+
+Speed 40 ft., fly 80 ft., swim 40 ft.
+
+STR
+23 (+6)
+DEX
+14 (+2)
+CON
+21 (+5)
+INT
+16 (+3)
+WIS
+13 (+1)
+CHA
+20 (+5)
+Saving Throws Dex +6, Con +9, Wis +5, Cha +9
+
+Skills Insight +5, Perception +9, Persuasion +9, Stealth +6
+
+Damage Immunities fire
+
+Senses blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+Languages Common, Draconic
+
+Challenge 10 (5,900 XP)
+
+Amphibious. The dragon can breathe air and water.
+
+Actions
+
+Multiattack. The dragon makes three attacks: one with its bite and two with its claws.
+
+Bite. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage.
+
+Claw. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
+
+Fire Breath. The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
+
+Weakening Breath. The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Gold Dragon Wyrmling
+GOLD DRAGON WYRMLING
+Medium dragon, lawful good
+
+Armor Class 17 (natural armor)
+
+Hit Points 60 (8d8 + 24)
+
+Speed 30 ft., fly 60 ft., swim 30 ft.
+
+STR
+19 (+4)
+DEX
+14 (+2)
+CON
+17 (+3)
+INT
+14 (+2)
+WIS
+11 (+0)
+CHA
+16 (+3)
+Saving Throws Dex +4, Con +5, Wis +2, Cha +5
+
+Skills Perception +4, Stealth +4
+
+Damage Immunities fire
+
+Senses blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+Languages Draconic
+
+Challenge 3 (700 XP)
+
+Amphibious. The dragon can breathe air and water.
+
+Actions
+
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
+
+Fire Breath. The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+
+Weakening Breath. The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+
+Devourer of Wealth. Gold dragons can eat just about anything, but their preferred diet consists of pearls and gems. Thankfully, a gold dragon doesn't need to gorge itself on such wealth to feel satisfied. Gifts of treasure that it can consume are well received by a gold dragon, as long as they aren't bribes.
+
+Reserved Shapeshifters. Gold dragons are respected by the other metallic dragons for their wisdom and fairness, but they are the most aloof and grim of the good-aligned dragons. They value their privacy to the extent that they rarely fraternize with other dragons except their own mates and offspring.
+
+Older gold dragons can assume animal and humanoid forms. Rarely does a gold dragon in disguise reveal its true form. In the guise of a peddler, it might regularly visit a town to catch up on local gossip, patronize honest businesses, and lend a helping hand in unseen ways. In the guise of an animal, the dragon might befriend a lost child, a wandering minstrel, or an innkeeper, serving as a companion for days or weeks on end.
+
+Master Hoarders. A gold dragon keeps its hoard in a well-guarded vault deep within its lair. Magical wards placed on the vault make it all but impossible to remove any treasures without the dragon knowing about it.
+
+A Gold Dragon's Lair
+Gold dragons make their homes in out-of-the-way places, where they can do as they please without arousing suspicion or fear. Most dwell near idyllic lakes and rivers, mist-shrouded islands, cave complexes hidden behind sparkling waterfalls, or ancient ruins.
+
+Lair Actions
+On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
+
+The dragon glimpses the future, so it has advantage on attack rolls, ability checks, and saving throws until initiative count 20 on the next round.
+One creature the dragon can see within 120 feet of it must succeed on a DC 15 Charisma saving throw or be banished to a dream plane, a different plane of existence the dragon has imagined into being. To escape, the creature must use its action to make a Charisma check contested by the dragon's. If the creature wins, it escapes the dream plane. Otherwise, the effect ends on initiative count 20 on the next round. When the effect ends, the creature reappears in the space it left or in the nearest unoccupied space if that one is occupied.
+Regional Effects
+The region containing a legendary gold dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
+
+Whenever a creature that can understand a language sleeps or enters a state of trance or reverie within 6 miles of the dragon's lair, the dragon can establish telepathic contact with that creature and converse with it in its dreams. The creature remembers its conversation with the dragon upon waking.
+Banks of beautiful, opalescent mist manifest within 6 miles of the dragon's lair. The mist doesn't obscure anything. It assumes haunting forms when evil creatures are near the dragon or other non-evil creatures in the mist, warning such creatures of the danger.
+Gems and pearls within 1 mile of the dragon's lair sparkle and gleam, shedding dim light in a 5-foot radius.
+If the dragon dies, these effects end immediately.
+
+Silver Dragon
+The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
+
+A silver dragon shimmers as if sculpted from pure metal, its face given a noble cast by its high eyes and sweeping beard-like chin spikes. A spiny frill rises high over its head, tracing down its neck to the tip of its tail. A silver wyrmling's scales are blue-gray with silver highlights. As the dragon approaches adulthood, its color gradually brightens until its individual scales are barely visible. As a silver dragon grows older, its pupils fade until its eyes resemble orbs of mercury.
+
+Ancient Silver Dragon
+ANCIENT SILVER DRAGON
+Gargantuan dragon, lawful good
+
+Armor Class 22 (natural armor)
+
+Hit Points 487 (25d20 + 225)
+
+Speed 40 ft., fly 80 ft.
+
+STR
+30 (+10)
+DEX
+10 (+0)
+CON
+29 (+9)
+INT
+18 (+4)
+WIS
+15 (+2)
+CHA
+23 (+6)
+Saving Throws Dex +7, Con +16, Wis +9, Cha +13
+
+Skills Arcana +11, History +11, Perception +16, Stealth +7
+
+Damage Immunities cold
+
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+Languages Common, Draconic
+
+Challenge 23 (50,000 XP)
+
+Legendary Resistance (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
+
+Actions
+
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+Bite. Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 21 (2d10 + 10) piercing damage.
+
+Claw. Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 17 (2d6 + 10) slashing damage.
+
+Tail. Melee Weapon Attack: +17 to hit, reach 20 ft., one target. Hit: 19 (2d8 + 10) bludgeoning damage.
+
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
+
+Cold Breath. The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+
+Paralyzing Breath. The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Change Shape. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+Detect. The dragon makes a Wisdom (Perception) check.
+
+Tail Attack. The dragon makes a tail attack.
+
+Wing Attack (Costs 2 Actions). The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+
+Adult Silver Dragon
+ADULT SILVER DRAGON
+Huge dragon, lawful good
+
+Armor Class 19 (natural armor)
+
+Hit Points 243 (18d12 + 126)
+
+Speed 40 ft., fly 80 ft.
+
+STR
+27 (+8)
+DEX
+10 (+0)
+CON
+25 (+7)
+INT
+16 (+3)
+WIS
+13 (+1)
+CHA
+21 (+5)
+Saving Throws Dex +5, Con +12, Wis +6, Cha +10
+
+Skills Arcana +8, History +8, Perception +11, Stealth +5
+
+Damage Immunities cold
+
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+Languages Common, Draconic
+
+Challenge 16 (15,000 XP)
+
+Legendary Resistance (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
+
+Actions
+
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+Bite. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 19 (2d10 + 8) piercing damage.
+
+Claw. Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) slashing damage.
+
+Tail. Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 17 (2d8 + 8) bludgeoning damage.
+
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
+
+Cold Breath. The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+
+Paralyzing Breath. The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Change Shape. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+Detect. The dragon makes a Wisdom (Perception) check.
+
+Tail Attack. The dragon makes a tail attack.
+
+Wing Attack (Costs 2 Actions). The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+Young Silver Dragon
+YOUNG SILVER DRAGON
+Large dragon, lawful good
+
+Armor Class 18 (natural armor)
+
+Hit Points 168 (16d10 + 80)
+
+Speed 40 ft., fly 80 ft.
+
+STR
+23 (+6)
+DEX
+10 (+0)
+CON
+21 (+5)
+INT
+14 (+2)
+WIS
+11 (+0)
+CHA
+19 (+4)
+Saving Throws Dex +4, Con +9, Wis +4, Cha +8
+
+Skills Arcana +6, History +6, Perception +8, Stealth +4
+
+Damage Immunities cold
+
+Senses blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+Languages Common, Draconic
+
+Challenge 9 (5,000 XP)
+
+Actions
+
+Multiattack. The dragon makes three attacks: one with its bite and two with its claws.
+
+Bite. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage.
+
+Claw. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
+
+Cold Breath. The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+Paralyzing Breath. The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Silver Dragon Wyrmling
+SILVER DRAGON WYRMLING
+Medium dragon, lawful good
+
+Armor Class 17 (natural armor)
+
+Hit Points 45 (6d8 + 18)
+
+Speed 30 ft., fly 60 ft.
+
+STR
+19 (+4)
+DEX
+10 (+0)
+CON
+17 (+3)
+INT
+12 (+1)
+WIS
+11 (+0)
+CHA
+15 (+2)
+Saving Throws Dex +2, Con +5, Wis +2, Cha +4
+
+Skills Perception +4, Stealth +2
+
+Damage Immunities cold
+
+Senses blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+Languages Draconic
+
+Challenge 2 (450 XP)
+
+Actions
+
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
+
+Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
+
+Cold Breath. The dragon exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+Paralyzing Breath. The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+Dragons of Virtue. Silver dragons believe that living a moral life involves doing good deeds and ensuring that one's actions cause no undeserved harm to other sentient beings. They don't take it upon themselves to root out evil, as gold and bronze dragons do, but they will gladly oppose creatures that dare to commit evil acts or harm the innocent.
+
+Friends of the Small Races. Silver dragons enjoy the company of other silver dragons. Their only true friendships outside their own kin arise in the company of humanoids, and many silver dragons spend as much time in humanoid form as they do in draconic form. A silver dragon adopts a benign humanoid persona such as a kindly old sage or a young wanderer, and it often has mortal companions with whom it develops strong friendships.
+
+Silver dragons must step away from their humanoid lives on a regular basis, returning to their true forms to mate and rear offspring, or to tend to their hoards and personal affairs. Because many lose track of time while away, they sometimes return to find that their companions have grown old or died. Silver dragons often end up befriending several generations of humanoids within a single family as a result.
+
+Respect for Humanity. Silver dragons befriend humanoids of all races, but shorter-lived races such as humans spark their curiosity in a way the longer-lived elves and dwarves don't. Humans have a drive and zest for life that silver dragons find fascinating.
+
+Hoarding History. Silver dragons love to possess relics of humanoid history. This includes the great piles of coins they covet, minted by current and fallen humanoid empires, as well as art objects and fine jewelry crafted by numerous races. Other treasures that make up their hoards can include intact ships, the remains of kings and queens, thrones, the crown jewels of ancient empires, inventions and contraptions, and monoliths carried from the ruins of fallen cities.
+
+A Silver Dragon's Lair
+Silver dragons dwell among the clouds, making their lairs on secluded cold mountain peaks. Though many are comfortable in natural cavern complexes or abandoned mines, silver dragons covet the lost outposts of humanoid civilization. An abandoned mountaintop citadel or a remote tower raised by a long-dead wizard is the sort of lair that every silver dragon dreams of.
+
+Lair Actions
+On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:
+
+The dragon creates fog as if it had cast the fog cloud spell. The fog lasts until initiative count 20 on the next round.
+A blisteringly cold wind blows through the lair near the dragon. Each creature within 120 feet of the dragon must succeed on a DC 15 Constitution saving throw or take 5 (1d10) cold damage. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames, such as lanterns, have a 50 percent chance of being extinguished.
+Regional Effects
+The region containing a legendary silver dragon's lair is warped by the dragon's magic, which creates one or more of the following effects.
+
+Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the control weather spell.
+Within 1 mile of the lair, winds buoy non-evil creatures that fall due to no act of the dragon's or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage.
+Given days or longer to work, the dragon can make clouds and fog within its lair as solid as stone, forming structures and other objects as it wishes.
+If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in 1d10 days.
