@@ -1,5 +1,6 @@
 site_name: Azgaarnoth
 site_url: https://azgaarnoth.tedneward.com/
+docs_dir: .
 nav:
   - 'World':
     - Geography: Geography/index.html
