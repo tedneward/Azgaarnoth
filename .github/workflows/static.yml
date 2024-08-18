@@ -26,17 +26,15 @@ jobs:
       - name: Install mkdocs
         run: pip install mkdocs
 
-      - name: Get config file
-        run: cp Tools/Website/mkdocs.yml .
       - name: Run mkdocs
-        run: mkdocs build
+        run: cd Tools/Website; mkdocs build
 
       # Upload content
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: './site'
+          path: './Tools/Website/site'
           
       - name: Deploy to GitHub Pages
         id: deployment
