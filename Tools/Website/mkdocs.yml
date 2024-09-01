@@ -1,5 +1,5 @@
 site_name: Azgaarnoth
-site_url: http://azgaarnoth.tedneward.com/
+site_url: https://azgaarnoth.tedneward.com/
 nav:
   - 'World':
     - Geography: Geography/index.html
@@ -83,5 +83,5 @@ nav:
         - Plants: Creatures/index-plant.html
         - Undead: Creatures/index-undead.html
   - 'About':
-    - ... this site: about/index.html
-    - ... my games: GameNotes/index.html
+    - ... this site: about.html
+    - ... my games: GameNotes.html
