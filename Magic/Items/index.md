@@ -1,6 +1,6 @@
 # Magical Items
 
-Jump to: [Index of Items](#list) | [Restricted Items](#restricted-items) | [Keyed Items](#keyed-items) | [Sentient Items](#sentient-items) | [Categorization](#categories) | [Buying](#buying-magic-items) | [Crafting](#crafting-magic-items) | [Variants](#variants)
+Jump to: [Index of Items](#list) | [Restricted Items](#restricted-items) | [Keyed Items](#keyed-items) | [Sentient Items](#sentient-items) | [Categorization](#categories) | [Buying](#buying-magic-items) | [Crafting](#crafting-magic-items) | [Effects](#effects)
 
 ## Restricted Items
 Many arcane item smiths have long known ways to "tie" an item to a specific collection of creatures, usually by creature type or sub-type (like *dwarven plate*, for example). Many arcane smiths have found that applying such restrictors to items can grant the item additional benefits or abilities, or extend the utility of the item (such as additional charges). Some smiths have even figured out how to add a "defense" mechanism to the restriction, so that creatures of certain categories that attempt to attune or even touch the item suffer some negative consequence.
@@ -423,223 +423,225 @@ d12 | Complication
 
 Most of these events demand role-playing solutions; players can attempt Charisma-based actions to try and defuse the situation, but over time could create poor relations with their neighbors. Note that crafters can also take positive steps to sway the locals, which can offer bonuses to the negotiations' die rolls.
 
-## Variants
+## Effects
 
-### Armor
-- Arboreal: Armor is +1 while within a forest. This effect fades upon leaving a forest, and only returns after completing a long rest within a forest.
-- Arid: Armor is +1 while within a desert. This effect fades upon leaving a desert, and only returns after completing a long rest within a desert.
-- Astute: It takes half the time to don or doff this armor than normal armor of this type.
-- Bloodthirsty: Wearer may spend a hit die to turn this armor into +1 armor for 1d4 rounds.
-- Brawler's: When the wearer makes an attack with an improvised weapon, the armor becomes a +1 armor until the end of the wearer's next turn.
-- Cavernous: Armor is a +1 while in a cave. This effect fades upon leaving the underground, and only returns after completing a long rest underground.
-- Charitable: After the character makes a donation to the temple of a deity of the proper alignment for the weapon's enchantment, the armor becomes a +1 armor for one day per 10gp of value of the charity. If a month passes without any such donation, the armor becomes a -1 weapon until a suitable donation is made.
-- Chirurgeon's: Armor is lined with pockets, compartments, and medical supplies that renew themselves when the bearer completes a long rest. Wearing this armor is treated as using a healer's kit.
-- Civilized: Armor is a +1 armor while in a living urban environment. This effect fades upon leaving the city, and only returns after completing a long rest in a city.
-- Climber's: Armor is suited with harnesses, rope, and other climbing tools that renew themselves when the bearer completes a long rest. Wearing this armor is treated as using a climbing kit.
-- Comforting: Armor is a +1 armor while the wearer has any levels of exhaustion.
-- Consecrated: Armor is a +1 armor against undead.
-- Crystalline: Armor has pieces of crystal growing on it. It is a +1 armor until the wearer takes a critical hit, at which point the crystal shatters and the effect ends. The crystal regrows when the wearer completes a long rest.
-- Deflecting: Armor is a +1 armor against ranged weapon attacks.
-- Evasive: Whenever the wearer takes a Dodge action, they gain +1 AC until the end of their next turn.
-- Ever-Armed: Pieces of the armor can be used to assemble a dagger by spending an action. This reduces the AC of the armor by 1 until the dagger is returned to the armor. When the wearer completes a long rest, the pieces automatically return to the armor, even if the dagger was lost or stolen.
-- Fair-Weather: The armor is a +1 armor as long as the bearer has at least half their hit points.
-- Fen: Armor is a +1 while in a swamp. This effect fades upon leaving the swamp, and only returns after completing a long rest in a swamp.
-- Flanked: Armor is a +1 armor if two or more enemies are adjacent to the wearer.
-- Forgotten: Bearer may spend an action to attempt to ignite the ancient magics in this armor , making a DC 13 Charisma check. If successful, the armor is a +1 armor for as long as the bearer maintains Concentration.
-- Furious: Armor is a +1 armor as long as the bearer is in a rage.
-- Glass: Armor is a +1 armor as long as the bearer is at full hit points.
-- Insightful: Wearer may spend their reaction to add their Wisdom bonus to their AC until the end of their next turn.
-- Lightweight: Armor weight is reduced by 25%, and Strength requirements are reduced by 1.
-- Mage-Killer's: Armor is a +1 armor against spell attacks.
-- Masquerading: Armor changes to fit disguises, granting advantage when using disguise kit.
-- Moonlit: Armor is a +1 armor when under the light of the full moon at night.
-- Mortal: At the end of a turn where the wearer failed a death saving throw, the magic in the armor attempts to stabilize them, rolling a Wisdom (Medicine) check with a +3 modifier.
-- Mournful: When an ally falls unconscious due to having 0 hit points, the bearer gains a +1 AC bonus for the next ten minutes. If that ally awakens, the bearer loses this bonus.
-- Prairie: Armor is a +1 armor while in a grasslands. This effect fades upon leaving the grasslands, and only returns after completing a long rest in a grasslands.
-- Precipice: Armor is a +1 armor while in the mountains. This effect fades upon leaving the mountains, and only returns after completing a long rest in the mountains.
-- Primeval: Armor is a +1 armor while in a jungle. This effect fades upon leaving the jungle, and only returns after completing a long rest in the jungle.
-- Resonant: Bearer may use a bonus action and spend a ki point to treat this armor as a +1 armor . Lasts for one minute.
-- Righteous: Armor is a +1 armor when wielded by a good character during the day.
-- Runic: When the bearer casts a spell, this armor becomes a +1 armor until the end of their next turn.
-- Sailor's: Armor is a +1 armor while at sea. This effect fades upon returning to land, and only returns after completing a long rest at sea.
-- Shaded: Armor is a +1 armor when in dim light or darkness.
-- Slayer's: Armor is a +1 armor against devils and demons.
-- Solar: Armor is a +1 armor when in direct and full sunlight.
-- Submerged: Armor is a +1 armor when its wearer is completely submerged in water.
-- Swift: Armor is a +1 armor if the bearer is first in the initiative order.
-- Transmuted: Armor is wrought of a material unusual for the creation of such an item. Its other traits are unaltered.
-- Trusty: Armor is a +1 armor when the wielder has half their hit points or less.
-- Twilight: Armor is a +1 armor within an hour before or after rising or setting of the sun, or during a solar eclipse.
-- United: When the bearer of this armor is the recipient of a Help action in combat, this armor is considered a +1 armor . When the bearer of this armor aids another with the Help action in combat, the beneficiary of that Help action's armor is considered a +1 armor.
-- Unyielding: When the wearer takes any damage, this armor becomes a +1 armor until the end of the wearer's next turn.
-- Vanguard: Armor is a +1 armor against melee weapon attacks.
-- Vile: Armor is a +1 armor when wielded by an evil character at night.
-- Watcher's: Armor is a +1 armor during surprise rounds or against attacks the bearer is unaware of.
+### *defense* Effects
+1. *Arboreal*: Armor is +1 while within a forest. This effect fades upon leaving a forest, and only returns after completing a long rest within a forest.
+2. *Arid*: Armor is +1 while within a desert. This effect fades upon leaving a desert, and only returns after completing a long rest within a desert.
+3. *Astute*: It takes half the time to don or doff this armor than normal armor of this type.
+4. *Bloodthirsty*: Wearer may spend a hit die to turn this armor into +1 armor for 1d4 rounds.
+5. *Brawler's*: When the wearer makes an attack with an improvised weapon, the armor becomes a +1 armor until the end of the wearer's next turn.
+6. *Cavernous*: Armor is a +1 while in a cave. This effect fades upon leaving the underground, and only returns after completing a long rest underground.
+7. *Charitable*: After the character makes a donation to the temple of a deity of the proper alignment for the weapon's enchantment, the armor becomes a +1 armor for one day per 10gp of value of the charity. If a month passes without any such donation, the armor becomes a -1 weapon until a suitable donation is made.
+8. *Chirurgeon's*: Armor is lined with pockets, compartments, and medical supplies that renew themselves when the bearer completes a long rest. Wearing this armor is treated as using a healer's kit.
+9. *Civilized*: Armor is a +1 armor while in a living urban environment. This effect fades upon leaving the city, and only returns after completing a long rest in a city.
+10. *Climber's*: Armor is suited with harnesses, rope, and other climbing tools that renew themselves when the bearer completes a long rest. Wearing this armor is treated as using a climbing kit.
+11. *Comforting*: Armor is a +1 armor while the wearer has any levels of exhaustion.
+12. *Consecrated*: Armor is a +1 armor against undead.
+13. *Crystalline*: Armor has pieces of crystal growing on it. It is a +1 armor until the wearer takes a critical hit, at which point the crystal shatters and the effect ends. The crystal regrows when the wearer completes a long rest.
+14. *Deflecting*: Armor is a +1 armor against ranged weapon attacks.
+15. *Evasive*: Whenever the wearer takes a Dodge action, they gain +1 AC until the end of their next turn.
+16. *Ever-Armed*: Pieces of the armor can be used to assemble a dagger by spending an action. This reduces the AC of the armor by 1 until the dagger is returned to the armor. When the wearer completes a long rest, the pieces automatically return to the armor, even if the dagger was lost or stolen. The dagger is a +1 magic weapon.
+17. *Fair-Weather*: The armor is a +1 armor as long as the bearer has at least half their hit points.
+18. *Fen*: Armor is a +1 while in a swamp. This effect fades upon leaving the swamp, and only returns after completing a long rest in a swamp.
+19. *Flanked*: Armor is a +1 armor if two or more enemies are adjacent to the wearer.
+20. *Forgotten*: Bearer may spend an action to attempt to ignite the ancient magics in this armor, making a DC 13 Charisma check. If successful, the armor is a +1 armor for as long as the bearer maintains Concentration.
+21. *Furious*: Armor is a +1 armor as long as the bearer is in a rage.
+22. *Glass*: Armor is a +1 armor as long as the bearer is at full hit points.
+23. *Insightful*: Wearer may spend their reaction to add their Wisdom bonus to their AC until the end of their next turn.
+24. *Lightweight*: Armor weight is reduced by 25%, and Strength requirements are reduced by 1.
+25. *Mage-Killer's*: Armor is a +1 armor against spell attacks.
+26. *Masquerading*: Armor changes to fit disguises, granting advantage when using disguise kit.
+27. *Moonlit*: Armor is a +1 armor when under the light of the full moon at night.
+28. *Mortal*: At the end of a turn where the wearer failed a death saving throw, the magic in the armor attempts to stabilize them, rolling a Wisdom (Medicine) check with a +3 modifier.
+29. *Mournful*: When an ally falls unconscious due to having 0 hit points, the bearer gains a +1 AC bonus for the next ten minutes. If that ally awakens, the bearer loses this bonus.
+30. *Prairie*: Armor is a +1 armor while in a grasslands. This effect fades upon leaving the grasslands, and only returns after completing a long rest in a grasslands.
+31. *Precipice*: Armor is a +1 armor while in the mountains. This effect fades upon leaving the mountains, and only returns after completing a long rest in the mountains.
+32. *Primeval*: Armor is a +1 armor while in a jungle. This effect fades upon leaving the jungle, and only returns after completing a long rest in the jungle.
+33. *Profane*: Armor is a +1 armor when worn by undead.
+34. *Resonant*: Bearer may use a bonus action and spend a ki point to treat this armor as a +1 armor. Lasts for one minute.
+35. *Righteous*: Armor is a +1 armor when wielded by a good character.
+36. *Runic*: When the bearer casts a spell, this armor becomes a +1 armor until the end of their next turn.
+37. *Sailor's*: Armor is a +1 armor while at sea. This effect fades upon returning to land, and only returns after completing a long rest at sea.
+38. *Shaded*: Armor is a +1 armor when in dim light or darkness.
+39. *Slayer's*: Armor is a +1 armor against devils and demons.
+40. *Solar*: Armor is a +1 armor when in direct and full sunlight.
+41. *Submerged*: Armor is a +1 armor when its wearer is completely submerged in water.
+42. *Swift*: Armor is a +1 armor if the bearer is first in the initiative order.
+43. *Transmuted*: Armor is wrought of a material unusual for the creation of such an item. Its other traits are unaltered.
+44. *Trusty*: Armor is a +1 armor when the wielder has half their hit points or less.
+45. *Twilight*: Armor is a +1 armor within an hour before or after rising or setting of the sun, or during a solar eclipse.
+46. *United*: When the bearer of this armor is the recipient of a Help action in combat, this armor is considered a +1 armor. When the bearer of this armor aids another with the Help action in combat, the beneficiary of that Help action's armor is considered a +1 armor.
+47. *Unyielding*: When the wearer takes any damage, this armor becomes a +1 armor until the end of the wearer's next turn.
+48. *Vanguard*: Armor is a +1 armor against melee weapon attacks.
+49. *Vile*: Armor is a +1 armor when worn by an evil character.
+50. *Watcher's*: Armor is a +1 armor during surprise rounds or against attacks the bearer is unaware of.
 
-### Miscellaneous Trinkets
-- Arcane (Lesser): Bearer may cast a wizard cantrip. Must complete a short rest before using ability again.
-- Arcane (Greater): Bearer may cast a wizard spell of 1st level. Must complete a long rest before using ability again.
-- Arresting: Bearer may use a reaction to reduce fall damage by 1d6. Must complete a short rest before using this again.
-- Artist's: Bearer may use to make colored marks on any surface. Marks fade in 24 hours.
-- Bardic (Lesser): Bearer may cast a bard cantrip. Must complete a short rest before using ability again.
-- Bardic (Greater): Bearer may cast a bard spell of 1st level. Must complete a long rest before using ability again.
-- Beacon: Bearer can use a bonus action to cause the item to shed bright light in a 10-foot radius and dim light for an additional 10 feet, or to extinguish the light.
-- Blessed: Bearer gains an additional 1d4 points of healing when they receive divine healing.
-- Cartographic: Item records a map of the environments that the bearer is exploring and can magically project a mental map of areas explored into the bearer's mind.
-- Channeling: Bearer may ignore the Verbal or Somatic component of one spell when casting. Must complete a long rest before using this ability again.
-- Chiropteran: Bearer can hear a pin drop in a crowded room and gains advantage on Wisdom (Perception) checks that use hearing.
-- Compass: The bearer can use an action to learn which way is north.
-- Conscientious: When the bearer of this item contemplates or undertakes a malevolent act, the item enhances pangs of conscience.
-- Dazzling: The bearer may spend an action to cause the magic in this item to ignite, causing a brilliant flare. Creatures within a 10 foot radius must use their reaction or be blinded until the end of their next turn. The bearer must complete a long rest before using this ability again.
-- Defensive: When the bearer takes a Dodge action, they may move an additional 5 feet.
-- Delver: While underground, the bearer always knows the item's depth beneath the surface and direction to the nearest staircase, ramp, or other path leading upward.
-- Diplomatic: Bearer gains the ability to speak, read, write, and understand a language.
-- Drunkard's: Bearer always knows the direction to the nearest alcholic beverage.
-- Eagle-Eyed: The bearer sees twice as far and gains advantage on sight-based Wisdom (Perception) checks.
-- Eavesdropper's: As long as they are on the same plane, the bearer of this item may hear through this item as though they were present, as long as he "owns" the item. In order to "own" the item, a character must spend a long rest with the item in their possession. It remains owned until another character does so.
-- First: Bearer gains a +1 to initiative rolls.
-- Focal: Item is wrought according to arcane principles. Wizards, sorcerers, and warlocks may use the item as an arcane focus.
-- Fresh: Bearer never gets dirty and remains odorless.
-- Gleaming: The item never gets dirty or scuffed.
-- Greatlung: Bearer can hold their breath for 3 minutes before the onset of asphyxiation.
-- Guardian: Item whispers warnings to its bearer, granting a +2 bonus to initiative if the bearer isn't incapacitated.
-- Harmonious: Attuning this item takes only one minute.
-- Hidden Message: A message is hidden somewhere on the item. It might be visible only at a certain time of the year, under the light of one phase of the moon, or in a specific location.
-- Iconic: Item is inscribed with holy symbol of a given deity. Clerics and paladins of that deity may use the item as a divine focus.
-- Illusion: The item is imbued with illusion magic, allowing its bearer to alter the items appearance in minor ways. The item reverts to its true appearance when no one is carrying or wearing it.
-- Inspired: Whenever gaining or granting Inspiration, the bearer heals a number of hit points equal to the Charisma bonus of the bard granting Inspiration.
-- Key: The item is used to unlcok a container, chamber, vault, or other entryway.
-- Locating: As long as they are on the same plane, the bearer of this item may sense in what direction this item lies when they are parted from it as long as he "owns" the item. In order to "own" the item, a character must spend a long rest with the item in their possession. It remains owned until another character does so.
-- Lunar: Bearer gains an extra level one spell slot, which recovers only after a full moon rises.
-- Lupine: Bearer can detect and distinguish scents as a wolf does, and gains advantage on Wisdom (Perception) checks that use smell and on Wisdom (Survival) checks to track.
-- Miraculous (Lesser): Bearer may cast a cleric cantrip. Must complete a short rest before using ability again.
-- Miraculous (Greater): Bearer may cast a cleric spell of 1st level. Must complete a long rest before using ability again.
-- Nourishing: Bearer rarely feels hungry and only needs to consume one-quarter the usual amount of food.
-- Pacted (Lesser): Bearer may cast a warlock cantrip. Must complete a short rest before using ability again.
-- Pacted (Greater): Bearer may cast a warlock spell of 1st level. Must complete a long rest before using ability again.
-- Preacher's: Bearer may increase the range of their Channel Divinity by 5 feet.
-- Primal (Lesser): Bearer may cast a druid cantrip. Must complete a short rest before using ability again.
-- Primal (Greater): Bearer may cast a druid spell of 1st level. Must complete a long rest before using ability again.
-- Projecting: Bearer may send messages mentally to willing character within 30 feet. This communication is one-way only.
-- Regenerative: When the bearer rolls hit dice, may choose to re-roll the result. The second roll must be taken.
-- Ritual: When the bearer is casting a spell as a ritual, they have advantage on Concentration saves to maintain the casting of the ritual.
-- Rooted: Any forced movement effect used on the character is reduced by 5 feet.
-- Sacred: Bearer's Lay on Hands pool total increases by 5.
-- Sentinel: Faintly glows when creatures of a certain race are within a 100 foot radius.
-- Shifting: With an action, bearer can change minor physical traits of this item's appearance. This is permanent until this ability is invoked again.
-- Sojourner: A poem, story, or map is accessed via this item in some way, whether projected against a wall in firelight, etched into its surface, or by other means.
-- Song Craft: When this item is struck or used to strike a foe, its bearer hears a figment of an ancient song.
-- Sorcerous (Lesser): Bearer may cast a sorcerer cantrip. Must complete a short rest before using ability again.
-- Sorcerous (Greater): Bearer may cast a sorcerer spell of 1st level. Must complete a long rest before using ability again.
-- Subtle: Bearer gains proficiency in Thieves' Cant.
-- Temperate: Bearer suffers no harm in temperature as cold as -20 degrees Fahrenheit or as warm as 120 degrees Fahrenheit.
-- Tenacious: When taking a long rest, the bearer regains one additional hit die.
-- Undertaker's: If the bearer of this item dies, the item immediately casts gentle repose (as with a 2nd level spell slot) on their remains.
-- Unbreakable: The item cannot be broken, requiring special means to break it.
-- Victorious: When the bearer kills a creature while wearing this armor, they gain temporary hit points equal to the creature's CR.
-- Vital: Once the bearer has completed a long rest while in possession of this item, their maximum hit points increases by their Constitution bonus. This bonus fades if the bearer completes a long rest without this item in their possession.
-- Vulpine: Bearer inflicts disadvantage on character attempting to track them.
-- Warded: Bearer cannot be possessed while they bear this item.
-- War Leader: Bearer may choose to amplify voice to be heard up to 300 feet clearly.
-- Waterborne: This item floats on water and other liquids. Bearer gains advantage on Strength (Athletics) checks to swim.
-- Wicked: When the bearer is presented with an opportunity to act in a selfish or malevolent way, the item heightens the bearer's urges to do so.
-- Winged: Bearer gains +5ft speed as long as the item is in their possession.
+### Save Effects
+1. *Adroit*: Bearer gains a +1 bonus to Intelligence saving throws
+2. *Dynamic*: Bearer gains a +1 bonus to Charisma saving throws
+3. *Favored*: Bearer gains advantage on one saving throw. Must complete a long rest before using this ability again.
+4. *Heroic*: Bearer gains advantage on saves against fear.
+5. *Invigorating*: Bearer gains advantage on saves against exhaustion.
+6. *Mindful*: Bearer gains a +1 bonus on Wisdom saving throws.
+7. *Nimble*: Bearer gains a +1 bonus on Dexterity saving throws.
+8. *Reaper's*: Bearer gains advantage on death saves.
+9. *Solemn*: Bearer may spend an action to remove all of the failed death saves in an adjacent target. This does not stabilize the target.
+10. *Unbroken*: Bearer gains a +1 bonus on Constitution saving throws.
+11. *Vigorous*: Bearer gains a +1 bonus on Strength saving throws.
+12. ???
 
-### Skill Trinkets
-- Acolyte's: Bearer gains a +1 bonus to Wisdom (Religion) checks.
-- Barbarian's: Bearer gains a +1 bonus to Strength (Athletics) checks.
-- Bard's: Bearer gains a +1 bonus to Charisma (Performance) checks.
-- Burglar's: Bearer gains +1 to Dexterity (Sleight of Hand) checks.
-- Discerning: Bearer gains +1 to Wisdom (Insight) checks.
-- Druid's: Bearer gains +1 to Intelligence (Nature) checks.
-- False: Bearer gains +1 to Charisma (Deception) checks.
-- Grim: Bearer gains +1 to Charisma (Intimidation) checks.
-- Inquisitor's: Bearer gains +1 to Intelligence (Investigation) checks.
-- Jack-of-All-Trade's: Bearer gains a +1 bonus to any Skill check. Must complete a long rest before using this ability again.
-- Maverick: Bearer gains +1 to any Skill check involving gambling or betting.
-- Sage's: Bearer gains +1 to Intelligence (History) checks.
-- Shepherd's: Bearer gains +1 to Wisdom (Animal Handling) checks.
-- Silent: Bearer gains +1 to Dexterity (Stealth) checks (armor that inflicts disadvantage instead no longer does so).
-- Silver-Tongued: Bearer gains +1 to Charisma (Persuasion) checks.
-- Surgeon's: Bearer gains a +1 to Wisdom (Medicine) checks.
-- Tracker's: Bearer gains a +1 to Wisdom (Survival) checks.
-- Tumbler's: Bearer gains a +1 to Dexterity (Acrobatics) checks.
-- Vigilant: Bearer gains +2 to their passive Perception.
-- Wizard's: Bearer gains a +1 to Intelligence (Arcana) checks.
+### Skill Effects
+1. *Acolyte's*: Bearer gains a +1 bonus to Wisdom (Religion) checks.
+2. *Barbarian's*: Bearer gains a +1 bonus to Strength (Athletics) checks.
+3. *Bard's*: Bearer gains a +1 bonus to Charisma (Performance) checks.
+4. *Burglar's*: Bearer gains +1 to Dexterity (Sleight of Hand) checks.
+5. *Discerning*: Bearer gains +1 to Wisdom (Insight) checks.
+6. *Druid's*: Bearer gains +1 to Intelligence (Nature) checks.
+7. *False*: Bearer gains +1 to Charisma (Deception) checks.
+8. *Grim*: Bearer gains +1 to Charisma (Intimidation) checks.
+9. *Inquisitor's*: Bearer gains +1 to Intelligence (Investigation) checks.
+10. *Jack-of-All-Trade's*: Bearer gains a +1 bonus to any Skill check. Must complete a long rest before using this ability again.
+11. *Maverick*: Bearer gains +1 to any Skill check involving gambling or betting.
+12. *Sage's*: Bearer gains +1 to Intelligence (History) checks.
+13. *Shepherd's*: Bearer gains +1 to Wisdom (Animal Handling) checks.
+14. *Silent*: Bearer gains +1 to Dexterity (Stealth) checks (armor that inflicts disadvantage instead no longer does so).
+15. *Silver-Tongued*: Bearer gains +1 to Charisma (Persuasion) checks.
+16. *Surgeon's*: Bearer gains a +1 to Wisdom (Medicine) checks.
+17. *Tracker's*: Bearer gains a +1 to Wisdom (Survival) checks.
+18. *Tumbler's*: Bearer gains a +1 to Dexterity (Acrobatics) checks.
+19. *Vigilant*: Bearer gains +2 to their passive Perception.
+20. *Wizard's*: Bearer gains a +1 to Intelligence (Arcana) checks.
 
-### Save Trinkets
-- Adroit: Bearer gains a +1 bonus to Intelligence saving throws
-- Dynamic: Bearer gains a +1 bonus to Charisma saving throws
-- Favored: Bearer gains advantage on one saving throw. Must complete a long rest before using this ability again.
-- Heroic: Bearer gains advantage on saves against fear.
-- Invigorating: Bearer gains advantage on saves against exhaustion.
-- Mindful: Bearer gains a +1 bonus on Wisdom saving throws.
-- Nimble: Bearer gains a +1 bonus on Dexterity saving throws.
-- Reaper's: Bearer gains advantage on death saves.
-- Solemn: Bearer may spend an action to remove all of the failed death saves in an adjacent target. This does not stabilize the target.
-- Unbroken: Bearer gains a +1 bonus on Constitution saving throws.
-- Vigorous: Bearer gains a +1 bonus on Strength saving throws.
+### *weapon* Effects
+1. *Arboreal*: Weapon is +1 while within a forest. This effect fades upon leaving a forest, and only returns after completing a long rest within a forest.
+2. *Arid*: Weapon is a +1 while in a desert. This effect fades upon leaving a desert, and only returns after completing a long rest within a desert.
+3. *Assassin's*: Bearer may add proficiency bonus to damage rolls dealt during a surprise round.
+4. *Barbed*: Bearer may use a bonus action to change the damage type of this weapon to piercing, and its damage roll gains a +1 bonus. Lasts for one minute.
+5. *Binding*: Creatures struck by this weapon reduce their speed by 5 until the end of its next turn.
+6. *Bloodthirsty*: Bearer may spend a hit die to turn this weapon into a +1 weapon for 1d4 rounds.
+7. *Booming*: Bearer may use a bonus action to change the damage type of this weapon to thunder, and its damage roll gains a +1 bonus. Lasts for one minute.
+8. *Capricious*: Treat as a +1 weapon if wielded by a Chaotic character and the attack roll was an even number.
+9. *Caustic*: Bearer may use a bonus action to change the damage type of this weapon to acid, and its damage roll gains a +1 bonus. Lasts for one minute.
+10. *Cavernous*: Weapon is a +1 while in a cave. This effect fades upon leaving the underground, and only returns after completing a long rest underground.
+11. *Chained*: Bearer may spend a bonus action to affix this weapon to their wrist, becoming immune to being disarmed. Must spend a full action to switch to another weapon, however.
+12. *Charged*: Bearer may use a bonus action to change the damage type of this weapon to lightning, and its damage roll gains a +1 bonus. Lasts for one minute.
+13. *Charitable*: After the character makes a donation to the temple of a deity of the proper alignment for the weapon's enchantment, the weapon becomes a +1 weapon for one day per 10gp of value of the charity. If a month passes without any such donation, the weapon becomes a -1 weapon until a suitable donation is made.
+14. *Civilized*: Weapon is a +1 weapon while in a living urban environment. This effect fades upon leaving the city, and only returns after completing a long rest in a city.
+15. *Cleaving*: Bearer may use a bonus action to change the damage type of this weapon to slashing, and its damage roll gains a +1 bonus. Lasts for one minute.
+16. *Consecrated*: Weapon is a +1 weapon against undead.
+17. *Cruel*: Bearer may re-roll damage from critical hits scored with this weapon. The second result must be taken.
+18. *Crushing*: Bearer may use a bonus action to change the damage type of this weapon to bludgeoning, and its damage roll gains a +1 bonus. Lasts for one minute.
+19. *Dark*: Bearer may use a bonus action to change the damage type of this weapon to necrotic, and its damage roll gains a +1 bonus. Lasts for one minute.
+20. *Disarming*: Bearer may choose to forego damage and instead attempt to disarm the target, who must make a Strength or Dexterity save against a DC of (8 + bearer's proficiency bonus + ability bonus used with weapon) or be disarmed. Disarmed weapons land 10' in a random direction.
+21. *Draining*: When the bearer successfully inflicts a critical hit, he gains 10% of the total damage inflicted as temporary hit points (round down, minimum 1).
+22. *Esper*: Bearer may use a bonus action to change the damage type of this weapon to psychic, and its damage rolls gain a +1 bonus. Lasts for one minute.
+23. *Equanimeous*: The weapon has a +1 attack bonus during the day and a +1 damage bonus at night when wielded by a neutral character.
+24. *Fair-Weather*: The weapon is a +1 weapon as long as the bearer has at least half their hit points.
+25. *Fen*: Weapon is a +1 while in a swamp. This effect fades upon leaving the swamp, and only returns after completing a long rest in a swamp.
+26. *Flanking*: Weapon is a +1 if an ally is adjacent to the enemy you are attacking.
+27. *Forgotten*: Bearer may spend an action to attempt to ignite the ancient magics in this weapon, making a DC 13 Charisma check. If successful, the weapon is a +1 weapon for as long as the bearer maintains Concentration.
+28. *Frozen*: Bearer may use a bonus action to change the damage type of this weapon to cold, and its damage roll gains a +1 bonus. Lasts for one minute.
+29. *Furious*: Weapon is a +1 weapon as long as the bearer is in a rage.
+30. *Glass*: Weapon is a +1 weapon as long as the bearer is at full hit points.
+31. *Glorious*: Bearer may use a bonus action to change the damage type of this weapon to radiant, and its damage roll gains a +1 bonus. Lasts for one minute.
+32. *Haunted*: Weapon emits misty smoke when drawn, and apparitions can be seen in it when in dim light or darker. Weapon inflicts +2 necrotic damage from those haunts attacking it, though they can be turned as CR 1 undead creatures, negating this benefit until the bearer completes a long rest.
+33. *Jagged*: When a creature takes damage from this weapon, it cannot regain hit points until the beginning of its next turn.
+34. *Mage-Killer's*: Weapon ignores the AC bonus granted by spells.
+35. *Maligning*: When used to make an opportunity attack, this weapon inflicts 1d4 additional points of damage.
+36. *Moonlit*: Weapon is a +1 weapon on nights of the full moon.
+37. *Parrying*: Bearer may use their reaction to gain a +1 AC bonus until the beginning of their next turn.
+38. *Patient*: Weapon is a +1 weapon until the beginning of the bearer's next turn when they ready an action.
+39. *Prairie*: Weapon is a +1 weapon while in a grasslands. This effect fades upon leaving the grasslands, and only returns after completing a long rest in a grasslands.
+40. *Precipice*: Weapon is a +1 weapon while in the mountains. This effect fades upon leaving the mountains, and only returns after completing a long rest in the mountains.
+41. *Primeval*: Weapon is a +1 weapon while in a jungle. This effect fades upon leaving the jungle, and only returns after completing a long rest in the jungle.
+42. *Pulsing*: Bearer may use a bonus action to change the damage type of this weapon to force, and its damage roll gains a +1 bonus. Lasts for one minute.
+43. *Resonant*: Bearer may use a bonus action and spend a ki point to treat this weapon as a +1 weapon. Lasts for one minute.
+44. *Righteous*: Weapon is a +1 weapon when wielded by a good character during the day.
+45. *Runic*: When the bearer casts a spell, this weapon becomes a +1 weapon until the end of their next turn.
+46. *Sailor's*: Weapon is a +1 weapon while at sea. This effect fades upon returning to land, and only returns after completing a long rest at sea.
+47. *Seismic*: When this weapon strikes a patch of ground, it shatters it, turning it into difficult terrain. When used to strike a target, this effect travels through the target, turning the ground beneath their feet into difficult terrain.
+48. *Shaded*: Weapon is a +1 weapon when in dim light or darkness.
+49. *Slayer's*: Weapon is a +1 weapon against devils and demons.
+50. *Smoldering*: Bearer may use a bonus action to change the damage type of this weapon to fire, and its damage roll gains a +1 bonus. Lasts for one minute.
+51. *Solar*: Weapon is a +1 weapon when in direct and full sunlight.
+52. *Twilight*: Weapon is a +1 weapon within an hour before or after rising or setting of the sun, or during a solar eclipse.
+53. *Swift*: Weapon is a +1 weapon if the bearer is first in the initiative order.
+54. *Transmuted*: Weapon is wrought of a material unusual for the creation of such an item. Its other traits are unaltered.
+55. *Trusty*: Weapon is a +1 weapon when the wielder has half their hit points or less.
+56. *United*: When the bearer of this weapon is the recipient of a Help action in combat, this weapon is considered a +1 weapon. When the bearer of this weapon aids another with the Help action in combat, the beneficiary of that Help action's weapon is considered a +1 weapon.
+57. *Vampiric*: When the bearer successfully strikes an enemy and inflicts damage at least equal to the maximum of one of his hit dice, he may choose to regain one hit die of that type. Bearer must complete a short rest before using this again.
+58. *Venomous*: Bearer may use a bonus action to change the damage type of this weapon to poison, and its damage roll gains a +1 bonus. Lasts for one minute.
+59. *Victorious*: When the bearer kills a creature with this weapon, they gain temporary hit points equal to the creature's CR.
+60. *Vile*: Weapon is a +1 weapon when wielded by an evil character at night.
+61. *Winter*: Weapon is a +1 weapon while in the snow. This effect fades upon leaving the snows, and only returns after completing a long rest in a snowscape.
+62. *Withering*: A target struck by this weapon must make a DC 13 Constitution saving throw. If successful, there is no effect and the target is immune to further strikes from this weapon, If failed, the target loses 1 point of Strength until they complete a short rest.
 
-### Weapon Trinkets
-- Arboreal: Weapon is +1 while within a forest. This effect fades upon leaving a forest, and only returns after completing a long rest within a forest.
-- Arid: Weapon is a +1 while in a desert. This effect fades upon leaving a desert, and only returns after completing a long rest within a desert.
-- Assassin's: Bearer may add proficiency bonus to damage rolls dealt during a surprise round.
-- Barbed: Bearer may use a bonus action to change the damage type of this weapon to piercing, and its damage roll gains a +1 bonus. Lasts for one minute.
-- Binding: Creatures struck by this weapon reduce their speed by 5 until the end of its next turn.
-- Bloodthirsty: Bearer may spend a hit die to turn this weapon into a +1 weapon for 1d4 rounds.
-- Booming: Bearer may use a bonus action to change the damage type of this weapon to thunder, and its damage roll gains a +1 bonus. Lasts for one minute.
-- Capricious: Treat as a +1 weapon if wielded by a Chaotic character and the attack roll was an even number.
-- Caustic: Bearer may use a bonus action to change the damage type of this weapon to acid, and its damage roll gains a +1 bonus. Lasts for one minute.
-- Cavernous: Weapon is a +1 while in a cave. This effect fades upon leaving the underground, and only returns after completing a long rest underground.
-- Chained: Bearer may spend a bonus action to affix this weapon to their wrist, becoming immune to being disarmed. Must spend a full action to switch to another weapon, however.
-- Charged: Bearer may use a bonus action to change the damage type of this weapon to lightning, and its damage roll gains a +1 bonus. Lasts for one minute.
-- Charitable: After the character makes a donation to the temple of a deity of the proper alignment for the weapon's enchantment, the weapon becomes a +1 weapon for one day per 10gp of value of the charity. If a month passes without any such donation, the weapon becomes a -1 weapon until a suitable donation is made.
-- Civilized: Weapon is a +1 weapon while in a living urban environment. This effect fades upon leaving the city, and only returns after completing a long rest in a city.
-- Cleaving: Bearer may use a bonus action to change the damage type of this weapon to slashing, and its damage roll gains a +1 bonus. Lasts for one minute.
-- Consecrated: Weapon is a +1 weapon against undead.
-- Cruel: Bearer may re-roll damage from critical hits scored with this weapon. The second result must be taken.
-- Crushing: Bearer may use a bonus action to change the damage type of this weapon to bludgeoning, and its damage roll gains a +1 bonus. Lasts for one minute.
-- Dark: Bearer may use a bonus action to change the damage type of this weapon to necrotic, and its damage roll gains a +1 bonus. Lasts for one minute.
-- Disarming: Bearer may choose to forego damage and instead attempt to disarm the target, who must make a Strength or Dexterity save against a DC of (8 + bearer's proficiency bonus + ability bonus used with weapon) or be disarmed. Disarmed weapons land 10' in a random direction.
-- Draining: When the bearer successfully inflicts a critical hit, he gains 10% of the total damage inflicted as temporary hit points (round down, minimum 1).
-- Esper: Bearer may use a bonus action to change the damage type of this weapon to psychic, and its damage rolls gain a +1 bonus. Lasts for one minute.
-- Equanimeous: The weapon has a +1 attack bonus during the day and a +1 damage bonus at night when wielded by a neutral character.
-- Fair-Weather: The weapon is a +1 weapon as long as the bearer has at least half their hit points.
-- Fen: Weapon is a +1 while in a swamp. This effect fades upon leaving the swamp, and only returns after completing a long rest in a swamp.
-- Flanking: Weapon is a +1 if an ally is adjacent to the enemy you are attacking.
-- Forgotten: Bearer may spend an action to attempt to ignite the ancient magics in this weapon, making a DC 13 Charisma check. If successful, the weapon is a +1 weapon for as long as the bearer maintains Concentration.
-- Frozen: Bearer may use a bonus action to change the damage type of this weapon to cold, and its damage roll gains a +1 bonus. Lasts for one minute.
-- Furious: Weapon is a +1 weapon as long as the bearer is in a rage.
-- Glass: Weapon is a +1 weapon as long as the bearer is at full hit points.
-- Glorious: Bearer may use a bonus action to change the damage type of this weapon to radiant, and its damage roll gains a +1 bonus. Lasts for one minute.
-- Haunted: Weapon emits misty smoke when drawn, and apparitions can be seen in it when in dim light or darker. Weapon inflicts +2 necrotic damage from those haunts attacking it, though they can be turned as CR 1 undead creatures, negating this benefit until the bearer completes a long rest.
-- Jagged: When a creature takes damage from this weapon, it cannot regain hit points until the beginning of its next turn.
-- Mage-Killer's: Weapon ignores the AC bonus granted by spells.
-- Maligning: When used to make an opportunity attack, this weapon inflicts 1d4 additional points of damage.
-- Moonlit: Weapon is a +1 weapon on nights of the full moon.
-- Parrying: Bearer may use their reaction to gain a +1 AC bonus until the beginning of their next turn.
-- Patient: Weapon is a +1 weapon until the beginning of the bearer's next turn when they ready an action.
-- Prairie: Weapon is a +1 weapon while in a grasslands. This effect fades upon leaving the grasslands, and only returns after completing a long rest in a grasslands.
-- Precipice: Weapon is a +1 weapon while in the mountains. This effect fades upon leaving the mountains, and only returns after completing a long rest in the mountains.
-- Primeval: Weapon is a +1 weapon while in a jungle. This effect fades upon leaving the jungle, and only returns after completing a long rest in the jungle.
-- Pulsing: Bearer may use a bonus action to change the damage type of this weapon to force, and its damage roll gains a +1 bonus. Lasts for one minute.
-- Resonant: Bearer may use a bonus action and spend a ki point to treat this weapon as a +1 weapon. Lasts for one minute.
-- Righteous: Weapon is a +1 weapon when wielded by a good character during the day.
-- Runic: When the bearer casts a spell, this weapon becomes a +1 weapon until the end of their next turn.
-- Sailor's: Weapon is a +1 weapon while at sea. This effect fades upon returning to land, and only returns after completing a long rest at sea.
-- Seismic: When this weapon strikes a patch of ground, it shatters it, turning it into difficult terrain. When used to strike a target, this effect travels through the target, turning the ground beneath their feet into difficult terrain.
-- Shaded: Weapon is a +1 weapon when in dim light or darkness.
-- Slayer's: Weapon is a +1 weapon against devils and demons.
-- Smoldering: Bearer may use a bonus action to change the damage type of this weapon to fire, and its damage roll gains a +1 bonus. Lasts for one minute.
-- Solar: Weapon is a +1 weapon when in direct and full sunlight.
-- Twilight: Weapon is a +1 weapon within an hour before or after rising or setting of the sun, or during a solar eclipse.
-- Swift: Weapon is a +1 weapon if the bearer is first in the initiative order.
-- Transmuted: Weapon is wrought of a material unusual for the creation of such an item. Its other traits are unaltered.
-- Trusty: Weapon is a +1 weapon when the wielder has half their hit points or less.
-- United: When the bearer of this weapon is the recipient of a Help action in combat, this weapon is considered a +1 weapon. When the bearer of this weapon aids another with the Help action in combat, the beneficiary of that Help action's weapon is considered a +1 weapon.
-- Vampiric: When the bearer successfully strikes an enemy and inflicts damage at least equal to the maximum of one of his hit dice, he may choose to regain one hit die of that type. Bearer must complete a short rest before using this again.
-- Venomous: Bearer may use a bonus action to change the damage type of this weapon to poison, and its damage roll gains a +1 bonus. Lasts for one minute.
-- Victorious: When the bearer kills a creature with this weapon, they gain temporary hit points equal to the creature's CR.
-- Vile: Weapon is a +1 weapon when wielded by an evil character at night.
-- Winter: Weapon is a +1 weapon while in the snow. This effect fades upon leaving the snows, and only returns after completing a long rest in a snowscape.
-- Withering: A target struck by this weapon must make a DC 13 Constitution saving throw. If successful, there is no effect and the target is immune to further strikes from this weapon, If failed, the target loses 1 point of Strength until they complete a short rest.
+### Miscellaneous Effects
+1. *Arcane (Lesser)*: Bearer may cast a (specific) wizard cantrip. Must complete a short rest before using ability again.
+2. *Arcane (Greater)*: Bearer may cast a (specific) wizard spell of 1st level. Must complete a long rest before using ability again.
+3. *Arresting*: Bearer may use a reaction to reduce fall damage by 1d6. Must complete a short rest before using this again.
+4. *Artist's*: Bearer may use to make colored marks on any surface. Marks fade in 24 hours.
+5. *Bardic (Lesser)*: Bearer may cast a (specific) bard cantrip. Must complete a short rest before using ability again.
+6. *Bardic (Greater)*: Bearer may cast a (specific) bard spell of 1st level. Must complete a long rest before using ability again.
+7. *Beacon*: Bearer can use a bonus action to cause the item to shed bright light in a 10-foot radius and dim light for an additional 10 feet, or to extinguish the light.
+8. *Blessed*: Bearer gains an additional 1d4 points of healing when they receive divine healing.
+9. *Cartographic*: Item records a map of the environments that the bearer is exploring and can magically project a mental map of areas explored into the bearer's mind.
+10. *Channeling*: Bearer may ignore the Verbal or Somatic component of one spell when casting. Must complete a long rest before using this ability again.
+11. *Chiropteran*: Bearer can hear a pin drop in a crowded room and gains advantage on Wisdom (Perception) checks that use hearing.
+12. *Compass*: The bearer can use an action to learn (unerringly) which way is north.
+13. *Conscientious*: When the bearer of this item contemplates or undertakes a malevolent act, the item enhances pangs of conscience.
+14. *Dazzling*: The bearer may spend an action to cause the magic in this item to ignite, causing a brilliant flare. Creatures within a 10 foot radius must use their reaction or be blinded until the end of their next turn. The bearer must complete a long rest before using this ability again.
+15. *Defensive*: When the bearer takes a Dodge action, they may move an additional 5 feet.
+16. *Delver*: While underground, the bearer always knows the item's depth beneath the surface and direction to the nearest staircase, ramp, or other path leading upward.
+17. *Diplomatic*: Bearer gains the ability to speak, read, write, and understand a language. This language remains available to the bearer until they complete a long rest, at which time they can change to a different language.
+18. *Drunkard's*: Bearer always knows the direction to the nearest alcholic beverage.
+19. *Eagle-Eyed*: The bearer sees twice as far and gains advantage on sight-based Wisdom (Perception) checks.
+20. *Eavesdropper's*: As long as they are on the same plane, the bearer of this item may hear through this item as though they were present, as long as he is attuned to the item. The item cannot be attuned to another until the currently-attuned owner is no longer attuned to it.
+21. *First*: Bearer gains a +1 to initiative rolls.
+22. *Focal*: Item is wrought according to arcane principles. Arcane casters (wizards, sorcerers, and artificers) may use the item as an arcane focus.
+23. *Fresh*: Bearer never gets dirty and remains odorless.
+24. *Gleaming*: The item never gets dirty or scuffed.
+25. *Greatlung*: Bearer can hold their breath for 3 minutes before the onset of asphyxiation.
+26. *Guardian*: Item whispers warnings to its bearer, granting a +2 bonus to initiative if the bearer isn't incapacitated.
+27. *Harmonious*: Attuning this item takes only one minute.
+28. *Hidden Message*: A message is hidden somewhere on the item. It might be visible only at a certain time of the year, under the light of one phase of the moon, or in a specific location.
+29. *Iconic*: Item is inscribed with holy symbol of a given deity. Clerics and paladins of that deity may use the item as a divine focus.
+30. *Illusion*: The item is imbued with illusion magic, allowing its bearer to alter the items appearance in minor ways. The item reverts to its true appearance when no one is carrying or wearing it.
+31. *Inspired*: Whenever gaining or granting Inspiration, the bearer heals a number of hit points equal to the Charisma bonus of the bard granting Inspiration.
+32. *Key*: The item can unlock any non-magicl container, chamber, vault, or other entryway.
+33. *Locating*: As long as they are on the same plane, the bearer of this item may sense in what direction this item lies when they are parted from it as long as he "owns" the item. In order to "own" the item, a character must spend a long rest with the item in their possession. It remains owned until another character does so.
+34. *Lunar*: Bearer gains an extra level 1 spell slot, which recovers only after a full moon rises.
+35. *Lupine*: Bearer can detect and distinguish scents as a wolf does, and gains advantage on Wisdom (Perception) checks that use smell and on Wisdom (Survival) checks to track.
+36. *Miraculous (Lesser)*: Bearer may cast a (specific) cleric cantrip. Must complete a short rest before using ability again.
+37. *Miraculous (Greater)*: Bearer may cast a (specific) cleric spell of 1st level. Must complete a long rest before using ability again.
+38. *Nourishing*: Bearer rarely feels hungry and only needs to consume one-quarter the usual amount of food.
+39. *Pacted (Lesser)*: Bearer may cast a (specific) warlock cantrip. Must complete a short rest before using ability again.
+40. *Pacted (Greater)*: Bearer may cast a (specific) warlock spell of 1st level. Must complete a long rest before using ability again.
+41. *Preacher's*: Bearer may increase the range of their Channel Divinity by 5 feet.
+42. *Primal (Lesser)*: Bearer may cast a (specific) druid cantrip. Must complete a short rest before using ability again.
+43. *Primal (Greater)*: Bearer may cast a (specific) druid spell of 1st level. Must complete a long rest before using ability again.
+44. *Projecting*: Bearer may send messages mentally to willing character within 30 feet. This communication is one-way only.
+45. *Regenerative*: When the bearer rolls hit dice, may choose to re-roll the result. The second roll must be taken.
+46. *Ritual*: When the bearer is casting a spell as a ritual, they have advantage on Concentration saves to maintain the casting of the ritual.
+47. *Rooted*: Any forced movement effect used on the character is reduced by 5 feet.
+48. *Sacred*: Bearer's Lay on Hands pool total increases by 5.
+49. *Sentinel*: Faintly glows when creatures of a certain race are within a 100 foot radius.
+50. *Shifting*: With an action, bearer can change minor physical traits of this item's appearance. This is permanent until this ability is invoked again.
+51. *Sojourner*: A poem, story, or map is accessed via this item in some way, whether projected against a wall in firelight, etched into its surface, or by other means.
+52. *Song Craft*: When this item is struck or used to strike a foe, its bearer hears a figment of an ancient song.
+53. *Sorcerous (Lesser)*: Bearer may cast a (specific) sorcerer cantrip. Must complete a short rest before using ability again.
+54. *Sorcerous (Greater)*: Bearer may cast a (specific) sorcerer spell of 1st level. Must complete a long rest before using ability again.
+55. *Subtle*: Bearer gains proficiency in Thieves' Cant.
+56. *Temperate*: Bearer suffers no harm in temperature as cold as -20 degrees Fahrenheit or as warm as 120 degrees Fahrenheit.
+57. *Tenacious*: When taking a long rest, the bearer regains one additional hit die.
+58. *Undertaker's*: If the bearer of this item dies, the item immediately casts [gentle repose](../Spells/gentle-repose.md) (as with a 2nd level spell slot) on their remains.
+59. *Unbreakable*: The item cannot be broken, requiring special means to break it.
+60. *Victorious*: When the bearer kills a creature while wearing this armor, they gain temporary hit points equal to the creature's CR.
+61. *Vital*: Once the bearer has completed a long rest while in possession of this item, their maximum hit points increases by their Constitution bonus. This bonus fades if the bearer completes a long rest without this item in their possession.
+62. *Vulpine*: Bearer inflicts disadvantage on character attempting to track them.
+63. *Warded*: Bearer cannot be possessed while they bear this item.
+64. *War Leader*: Bearer may choose to amplify voice to be heard up to 300 feet clearly.
+65. *Waterborne*: This item floats on water and other liquids. Bearer gains advantage on Strength (Athletics) checks to swim.
+66. *Wicked*: When the bearer is presented with an opportunity to act in a selfish or malevolent way, the item heightens the bearer's urges to do so.
+67. *Winged*: Bearer gains +5ft speed as long as the item is in their possession.

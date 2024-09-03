@@ -75,5 +75,6 @@ def generate_name(npc):
             part1 = random(nouns).capitalize()
             part2 = random(postadjectives)
             return f"{part1}{part2}"
+            
     return f"{generate_firstname()} {generate_lastname()}"
 ```
