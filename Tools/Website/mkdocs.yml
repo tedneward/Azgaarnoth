@@ -2,21 +2,21 @@ site_name: Azgaarnoth
 site_url: http://azgaarnoth.tedneward.com/
 nav:
   - 'World':
-    - Geography: Geography/index.html
-    - Religions: Religions/index.html
-    - Nations: Nations/index.html
-    - Cities: Cities/index.html
-    - Cultures: Cultures/index.html
+    - Geography: Geography/
+    - Religions: Religions/
+    - Nations: Nations/
+    - Cities: Cities/
+    - Cultures: Cultures/
     - 'Organizations':
-      - Overview: Organizations/index.html
-      - Bardic Colleges: Organizations/BardicColleges/index.html
-      - Dueling Colleges: Organizations/DuelingColleges/index.html
-      - Great Houses: Organizations/Houses/index.html
-      - Mage Schools: Organizations/MageSchools/index.html
-      - Merchant Guilds: Organizations/MerchantGuilds/index.html
-      - Militant Orders: Organizations/MilitantOrders/index.html
-      - Monastic Orders: Organizations/MonasticOrders/index.html
-      - Rogues' Guilds: Organizations/RoguesGuilds/index.html
+      - Overview: Organizations/
+      - Bardic Colleges: Organizations/BardicColleges/
+      - Dueling Colleges: Organizations/DuelingColleges/
+      - Great Houses: Organizations/Houses/
+      - Mage Schools: Organizations/MageSchools/
+      - Merchant Guilds: Organizations/MerchantGuilds/
+      - Militant Orders: Organizations/MilitantOrders/
+      - Monastic Orders: Organizations/MonasticOrders/
+      - Rogues' Guilds: Organizations/RoguesGuilds/
     - 'History':
       - Ancient: History/Ancient/index.html
       - Modern: History/Modern/index.html
@@ -35,7 +35,7 @@ nav:
       - Undead Grafts: Magic/UndeadGrafts/index.html
       - Wild: Magic/Wild/index.html
     - 'Creatures':
-      - Index: Creatures/index/index.html
+      - Index: Creatures/index.html
       - List: Creatures/index-az/index.html
       - 'Challenge Rating':
         - 1/4: Creatures/index-cr1-4/index.html

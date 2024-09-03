@@ -1,7 +1,7 @@
 ## Gibbering Mouther
 Of all the terrors created by foul sorcery, gibbering mouthers are among the most wicked and depraved. This creature is the composite eyes, mouths, and liquefied matter of its former victims. Tormented by the destruction of their bodies and absorption into the mouther, those victims gibber incoherently and are forced to consume everything in reach.
 
-![](GibberingMouther.png)
+![](GibberingMouther.jpeg)
 
 ***Amoeboid Form.*** The gibbering mouther's body is an amorphous mass of mouths and eyes that propels itself by oozing forward, fastening several mouths to the ground and pulling its bulk behind. Though it moves slowly, it swims through water, mud, and quicksand with ease.
 
