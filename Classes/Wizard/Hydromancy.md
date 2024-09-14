@@ -1,8 +1,8 @@
 # Arcane Tradition: Hydromancy
-Water, the source of all life, can be a formidable foe or a wondrous ally. Wizards of the school of hydromancy study the elemental magic of water. These wizards know that water magic is a delicate practice. After all, water, being the fl uid that it is, is all about maintaining a fine balance. In its purest liquid form, it is flowing.  Too cold and it becomes solid ice, too hot and it becomes piping steam. A hydromancer wizard seeks to maintain a balanced life, much like water but also sees the practicality of being fl uid and adaptable, as water can be.
+Water, the source of all life, can be a formidable foe or a wondrous ally. Wizards of the school of hydromancy study the elemental magic of water. These wizards know that water magic is a delicate practice. After all, water, being the fluid that it is, is all about maintaining a fine balance. In its purest liquid form, it is flowing.  Too cold and it becomes solid ice, too hot and it becomes piping steam. A hydromancer wizard seeks to maintain a balanced life, much like water but also sees the practicality of being fluid and adaptable, as water can be.
 
 ## Affinity for Water
-Starting at 2nd level, your affi nity for water, and all its uses, has aided you in learning how to adapt to its nature. You have a swim speed of 30 feet. Additionally, you can breathe both air and water.
+Starting at 2nd level, your affinity for water, and all its uses, has aided you in learning how to adapt to its nature. You have a swim speed of 30 feet. Additionally, you can breathe both air and water.
 
 ## Liquefy
 Beginning at 6th level, as an action, one inanimate object that you touch is turned into pure water, destroying the object in the process. The object must weigh less than 30 pounds and must be able to fit inside a 1-foot cube. Magic items are unaffected by this ability. Once you have used this feature, you cannot use it again until after you have completed a short or long rest.

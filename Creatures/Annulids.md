@@ -50,9 +50,9 @@ Annulid broodlings are the most numerous of their kind, so much so that many spe
 >
 >***Spellcasting.*** The annulid is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The annulid has the following wizard spells prepared:
 >
->* *Cantrips (at will)*: poison spray, prestidigitation, ray of frost
->* *1st level (4 slots)*: detect magic, magic missile, silent image
->* *2nd level (2 slots)*: invisibility, suggestion
+>* *Cantrips (at will)*: [poison spray](), [prestidigitation](), [ray of frost]()
+>* *1st level (4 slots)*: [detect magic](), [magic missile](), [silent image]()
+>* *2nd level (2 slots)*: [invisibility](), [suggestion]()
 >
 >***Bite.*** *Melee Weapon Attack*: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage, and the annulid attaches to the target. While attached, the annulid can't make bite attacks and at the start of each of the annulid's turns, the target loses 5 (1d6 + 2) hit points due to blood loss.
 The annulid can detach itself by spending 5 feet of its movement. It does so after it drains 15 hit points of blood from the target or the target dies. A creature, including the target, can use its action to attempt to detach the annulid with a DC 12 Strength check.
