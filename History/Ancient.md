@@ -1,5 +1,9 @@
 # The Ancient World
 
+This all needs reconciling with the Timeline.
+
+---
+
 ## The Eldar-ruled World
 It is said that the Eldar were the ones that brought arcane magic into the world, and that their close proximity to the gods is what enabled the granting of divine magic as well. Eldar are said to have fought toe-to-toe with the worst of the demon lords and devil princes, and supposedly stood alongside the gods when the fiends were banished to the Outer Planes and the Compact (which prevents fiends from ever calling the mortal plane home) was imposed upon them. Great works of architecture, art, music, craft, poetry, and even dance were said to be the hallmark of Eldar culture and presence.
 
@@ -30,3 +34,15 @@ In time, the various races realized that an Eldar had not been seen in over five
 ## The Exodus
 
 ## The Returns
+
+---
+
+## The Ancient World (up to the Fall)
+The Eldar were known to create the world, and chose to settle within the boundaries of what is now known as Azgaarnoth. A land of low forests and grasslands, punctuated by a spine of mountainous activity stretching through the center, the Eldar created a beautiful--if sparsely populated--paradise for themselves. Dragons, awesome and beautiful beings of majesty and might, were seen as partners and companions, in much the same way that a mage or druid would partner with a companion, save that dragons were equally intelligent and powerful.
+
+As the Eldar moved through the world, they found that numerous tasks involved around upkeep, maintenance, development, and growth were distracting from their larger purpose. Convening, they decided to give life to two new races of creatures "in the Eldars' image" to serve as stewards and caretakers of the world while the Eldar went about their purpose. Thus were the ["Firstborn"](/Races/Firstborn.md), the [elves](/Races/Elves.md) and [dwarves](/Races/Dwarves.md), given life, one to concentrate their efforts on the natural world around them, the other to focus their efforts on the earth beneath. For thousands of years, elves, dwarves, and Eldar worked side by side to heighten and enhance the paradise that came to be known as Azgaarnoth.
+
+> ### Ancient lifespans
+> Ancient records and histories hold that these Firstborn lived much longer than their current kin. It is said that the original elves--what some call the "pure elves"--were in fact ageless, and lived for as long as they chose, barring any sort of physical harm broght to them. The first dwarves, too, were rumored to be ageless, although fewer tales of such "timeless ones" are told. It is theorized that their close exposure to the Eldar granted them longer lifespans--or else it was simply that the world was simply a safer place.
+
+During this time, the Eldar and the Firstborn lived in a veritable utopia, crafting wondrous works, engaging in high magic, and possibly even journeying to distant planes and stars. It is theorized among a few scholars that it was this latter research that led to what came next.
