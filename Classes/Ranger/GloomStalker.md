@@ -7,13 +7,14 @@ This Conclave came into being as part of the Returns, and many dwarves took up t
 Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Gloom Stalker Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
 
 **Gloom Stalker Spells**
-Ranger Level|Spells
-------------|------
-3rd|[disguise self](https://www.dndbeyond.com/spells/disguise-self)
-5th|[rope trick](https://www.dndbeyond.com/spells/rope-trick)
-9th|[fear](https://www.dndbeyond.com/spells/fear)
-13th|[greater invisibility](https://www.dndbeyond.com/spells/greater-invisibility)
-17th|[seeming](https://www.dndbeyond.com/spells/seeming)
+
+Ranger Level | Spells
+------------ | ------
+3rd | [disguise self](https://www.dndbeyond.com/spells/disguise-self)
+5th | [rope trick](https://www.dndbeyond.com/spells/rope-trick)
+9th | [fear](https://www.dndbeyond.com/spells/fear)
+13th | [greater invisibility](https://www.dndbeyond.com/spells/greater-invisibility)
+17th | [seeming](https://www.dndbeyond.com/spells/seeming)
 
 ## Dread Ambusher
 At 3rd level, you master the art of the ambush. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier.

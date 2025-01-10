@@ -2,7 +2,7 @@
 ___
 - **Government**: Republic
 - **Capital**: [Kraston](../Cities/Kraston.md)
-- **Population**: 6 million (~20% human, ~20% firstborn, ~15% Created, ~45% Hordish)
+- **Population**: 6 million (~25% human, ~25% firstborn, ~15% Created, ~35% Hordish)
 - **Area**: 330,000 sq mi
 ---
 
@@ -17,9 +17,38 @@ By the time Yithi lay on his deathbed in his tent, the nation he sought to creat
 
 Geographically, Yithi is a large collection of rainforest, grasslands, and periodic stretches of swamp. A range of hills extend out from the end of the Daw Mountain range in western Yithi, but for the most part, the land is flat, hot, and wet. As one moves further south, the wetlands dry out, the forests become more deciduous, and the wetlands turn more into grasslands.
 
-The most dominant feature of Yithi, Lake Venerinat, is a cultural center of the nation; supposedly it was here, on its shores, that Yithi first began to give his public oration around a future of less war and more life. Legend holds that it was here, on the lake, that Yithi convinced the leaders of four other tribes to give his ideas a try, and it was here that the tribes forged the Five Nations Pact that created what would later become the Principality of Yihi. 
+Western Yithi is crisscrossed with a variety of military keeps and outposts, designed to fend off constant raids and incursions by Zabalasan forces and tribes. The Yithi Road, which stretches from the easternmost shore of Yithi all the way to the western cost of Alalihat (ending at the city of [Zvelaino](../Cities/Zvelaino.md)) sees its name change to the Great Al'Uman Road at the border, though the border is unclear to any who traverse the Road--burned-out outposts and shattered keeps line the sides of the Road, as neither side has found it useful or profitable to keep standing structures. Instead, each side maintains roving bands of militant forces that enact tariffs on passing merchants; many's the pitched battle between a Zabalasan Tax Company unit that happened to run across a Yithi Revenue Company somewhere between the Eldrak and Cragnortharand Rivers.
 
-(Asian rainforest)
+Once past the western borderlands, however, the Yithi grasslands flourish, and much of the nation's agriculture and urban development resides here. [Jernovalrimi](../Cities/Jernovalrimi.md) is a major metropolitan area, second in size only to [Fenpreloval](../Cities/Fenpreloval.md) to the east, which occupies the intersection of the Yithi and Zhi Roads, and rivals [Aktar](../Cities/Aktar.md), just down the Yithi Road from Fenpreloval. 
+
+The most dominant feature of Yithi, Lake Venerinat, is a cultural center of the nation; supposedly it was here, on its shores, that Yithi first began his public oration around a future of less war and more life, and that here he convinced the leaders of four other tribes to give his ideas a try and forged the Five Nations Pact that created what would later become the Principality of Yihi. On the Lake itself are a few "lake tribes", who spend as much time on the lake as they do off it. The Lake reaches significant depths, and it is said that at the bottom of the Lake lies Yithi's secret tomb, from which he will emerge in a time of great crisis for the nation.
+
+The massive Bleuratulaun River, measured miles wide in places, connects the Lake to the Northern Sound, also known as the Bay of Blood for its witness to the countless number of naval battles between Yithi/Zhi and Zabalasan navies. The islands in the Northern Sound are all wild, any settlements there having long been burned to the ground by raiding parties from both sides. (The Cinhu Governorate on the small "finger" of land between [Deubpurwen](../Cities/Deubpurwen.md) and [Prolaladasset](../Cities/Prolaladasset.md) was granted to Zhi primarily so as to establish a Zhian naval base closer to Zabalasan coastal shores.) The Bleuratulaun River, which is a deep, wide, and fast-moving river, provides excellent maritime traffic flow from the Sound all the way through to the Lake, and many times a Yithi naval defeat has been followed by massive naval construction on the Lake and along the River, where the superior Zabalasan ships cannot reach.
+
+Southeast of the Lake lie the Great Yithi Plains, a long rolling expanse of grassland that is interrupted solely by the Yithi Road or the Duplanpylvele or Krileuthdam Rivers, and stretches eastward to the sea. A few cities dot the Plains and act as a trading post for the various nomadic tribes, but aside from traffic along the Road, it is possible to go whole days without seeing another soul out on the Plains proper.
+
+Along the southern, eastern, southwestern and northeastern coasts lie smaller, more agricultural-focused cities, with heavy emphasis on maritime traffic connecting them to each other and the world beyond. Some (like [Thaugnorryx](../Cities/Thaugnorryx.md)) set themselves well back from the coast, using the river as their coastal access as a historic defense measure against the raids of the Tragekian Hordes.
+
+To the very southeastern corner of Yithi lies that region known as "Yithi's Boot", which sees larger urban areas owing to its more mild and pleasant climate. Though still warm and wet, these areas see less rain than their northern cousins, and the Drag-Heral Road (which runs from [Dragazakama](../Cities/Dragazakama.md) to the Yithi Road just west of [Heral](../Cities/Heral.md)) sees a great deal of traffic between the various cities. However, the "Heel of the Boot", southeast of [Venonaxaxis](../Cities/Venonaxaxis.md), as well as the coastal lands due north of it (east of [Overoslugry](../Cities/Overoslugry.md), the lands surrounding [Pramamorloth](../Cities/Pramamorloth.md), the lands surrounding [Thaugnorryx](../Cities/Thaugnorryx.md), as well as everything east of [Vennaacwen](../Cities/Vennaacwen.md)) are swampy, marshy ground, much of which remains untamed. (It is here where large bands of [lizardfolk](../Races/Lizardfolk.md) and [yuan-ti](../Races/YuanTi.md) reside, many of which have formal relationships with Yithi city, provincial, and national government, making them formal citizens of Yithi.)
+
+Curiously, just off the southern tip of "Yithi's Boot" lies an island, roughly 20 miles in diameter, that remains entirely unpopulated by any Yithi (or any other) folk. Local fishermen steer wide of the island, and the maritime traffic routes that pass stay closer to the coast until it is far past. Legends are silent on why this small patch of grassland on the edge of the Great Ocean lies entirely barren of life, but the locals are both adamant about steering clear of it, and silent on the fate of any who have visited it.
+
+## Population
+Yithi is the most evenly-populated nation in all of Azgaarnoth, with only a slight tilt towards the Hordish races (as would be expected given its history). Two-plus million sentient beings are mostly evenly divided across the country, and generally the races intermingle freely and openly--it is extremely rare to find a "elves' quarter" or "halfling shire" anywhere within the borders of Yithi; some cities boast a "halfling shire" section, but it is a nod towards the architectural style rather than a descriptor of its racial makeup.
+
+Most of the population is clustered towards the coasts, particularly in the eastern two-thirds of the nation. The western third is more population-dense, as well as more "militant", thanks on the constant threat of raids and incursions from their Al'Uman neighbor to the west. Down the southeastern "Boot" of Yithi most cast their eyes towards the South, rather than the West, and guard against raids from Tragekia (though fewer and fewer in the last millennium) and Dradehalia (which are always met fiercely).
+
+Some collections of Hordish families choose to keep to their nomadic roots, and journey from city to city, but these are growing more rare as the benefits of civlization grow more and more firm within the cultural mindset of the Yithian population. These tend to wander the Great Yithi Plains, but some take to riverine travel along the two major Rivers, and some tribes even embrace nautical tribalism, and sail the coasts and seas surrounding Yithi.
+
+In the grassy plains surrounding Sahramar, nomadic tribes wander, stopping only in to Sahrimar (or )
+
+## Culture
+Culturally, Yithi is a nation of tribes each made up of many races, all favoring a view of the universe that is "elemental" in nature: Air, Earth, Fire, Water, and the Void that holds the other elements together. These elements, sometimes called the Five Rings, are represented in the sacred spirits of the land and the natural world, but also in society and in one's psyche. 
+
+Air is the weather and the wind, the invisible and the innuendo, and the swiftness of a bird of prey. Earth is stone, wood, and metal, as well as a donkey's stubbornness and a tortoise's patience. Fire is the gentle warmth of the sun or the rage of a wildfire, but also the spark of innovation, the passion of devotion, and the ferocity of a wildcat. Water is an octopus's adaptability and flexibility; it takes the shape of its container, be it a puddle, river, or endless sea. Void is the emptiness of the night sky, at once present and transcendent.
+
+Many are the mortals capable of invoking the power of the spirits of Air, Earth, Fire, and Water, and many of them are known as elementalists. 
+
 
 ## Government
 **TODO**, Prince of Yithi
@@ -28,89 +57,85 @@ Yithi is a Republic led by a Prince, the current one being the latest in the lin
 
 Yithi currently is made up of twenty-four tribes, each one in control of a city within the borders. (The capital is not owned by any particular tribe, but instead is governed by the Prince directly, who is of "all tribes and none".) Each tribe has a long history within the nation, particularly five tribes known as the First Five (Feldadar, Malauth, Sahramar, Shiagan, and Artar). These were the Five Nations that formed the original Pact that Yithi forged, then used to unite the rest of the remaining tribes. These five tribes nominally have an equal voice in the Prince's Council, but in practical reality these five are the first among equals. Jockeying among the tribes for prominence is typical, but in most cases, when the Prince speaks, all the tribes listen, and most large crises can be acted on quickly.
 
-Each tribe is headed by a Chieftain, and each tribe decides for itself how it selects its Chieftain and how the Chieftain arrives at the decisions required for effective governance of the tribe. The Prince is nominally able to set aside any of these decisions if he feels it threatens Yithi as a whole, but history and convention compel him to remain officially aloof, even if his agents sometimes work to "guide" a tribe into a particular direction from within.
+Each tribe is headed by a Chieftain, and each tribe decides for itself how it selects its Chieftain and how the Chieftain arrives at the decisions required for effective governance of the tribe. The Prince is nominally able to set aside any of these decisions if he feels it threatens Yithi as a whole, but history and convention compel him to remain officially aloof; that said, it is an open secret that the Prince's agents sometimes work to "guide" a tribe into a particular direction from within.
 
-Yithi has roving magistrates called [Marshals](../Organizations/MilitantOrders/Marshals.md) that provide an independent legal entity across the land. These are entirely independent of any tribal control, and report directly to the Prince. They act as a check against the power of the tribal chieftains, and are charged with keeping the law even in the face of tribal authority.
+Early in his nation's inception, Yithi established roving magistrates called [Marshals](../Organizations/MilitantOrders/Marshals.md) that provide an independent legal entity across the land. Marshals are entirely independent of any tribal control, and report directly to the Prince. They act as a check against the power of the tribal chieftains, and are charged with keeping the law even in the face of tribal authority. Attempts by outside forces to subvert the Marshals have universally met with failure, and the tradition of the Marshals has kept them 
 
 ## Political Structure
-The twenty-four tribes of the Yithi, each corresponding to one of the cities within the Principality, are as follows:
+Yithi's own tribe, which named itself after him, built [Kraston](../Cities/Kraston.md) as the capital to the nation. After the city's construction, however, Yithi disbanded the tribe, charging them to form a different set of tribes, "homeless" in nature, that would govern the provinces surrounding the cities. However, he forced those "homeless" tribes to establish their governing structure and homes within the tribal boundaries of the cities.
 
-* Artar: First Nation tribe.
+* Athaladatu (capitaled in [Jernovalrimi](../Cities/Jernovalrimi.md))
 
-* Feldadar: First Nation tribe.
+* Chachiva (capitaled in [Glougiyka](../Cities/Glougiyka.md))
 
-* Malauth: First Nation tribe.
+* Dheublar'ty (capitaled in [Overoslugry](../Cities/Overoslugry.md))
 
-* Sahramar: First Nation tribe.
+* Kharat (capitaled in [Bagoslalare](../Cities/Bagoslalare.md))
 
-* Shiagan: First Nation tribe.
+* Medehkerinat (capitaled in [Malauth](../Cities/Malauth.md))
 
-* Bagoslalare:
+* Merdenbia (capitaled in [Venonaxaxis](../Cities/Venonaxaxis.md))
 
-* Dheupurwen:
+* Rathondan ()
 
-* Dragozakam:
+* Durvorlilant ()
 
-* Garhanosmena:
-
-* Ghaulanejasti
-
-* Glougiyka:
-
-* Heral:
-
-* Jernovalrimi:
-
-* Krikal:
-
-* Medehkerinat:
-
-* Natimorneh:
-
-* Onimintilarma:
-
-* Overoslugry:
-
-* Pramamorloth:
-
-* Prolaladasset:
-
-* Thaugnorryx:
-
-* Venerintyr:
-
-* Vennacwen:
-
-* Venonaxaxis:
-
-* Zisarlaarlathi:
-
-Yithi's own tribe, which named itself after him, built [Kraston](../Cities/Kraston.md). After the city's construction, however, Yithi disbanded them as a tribe, and charged them to form a different set of tribes, "homeless" in nature, that would govern the provinces of the cities but be forced to live within the tribal boundaries of those city-hosting tribes:
-
-* Zachoqal:
-
-* Chachiva:
-
-* Medehkerina:
-
-* Dheublar'ty:
-
-* Rathondan:
-
-* Kharat:
-
-* Merdenbia:
-
-* Durvorlilant:
-
-* Athaladatu:
+* Zachoqal ()
 
 These "homeless" tribes provide tribal structure to those who find themselves cast out of a tribe elsewhere within Yithi. These are associated to the provinces themselves, as opposed to a city within the province, and frequently the provincial Governor is the Chieftain of these tribes (although not always); Yithi deliberately arranged this system so that the "homeless" tribes would have a check against the power of the tribal Chieftains in the cities, and for the most part the distinction has served the Principality well.
 
-## Population
-Without a doubt, Yithi is one of the most evenly-populated nation in all of Azgaarnoth, slightly titled towards the Hordish races (as would be expected given its history). Two-plus million sentient beings are mostly evenly divided across the country, and generally the races intermingle freely and openly--it is extremely rare to find a "elves' quarter" or "halfling shire" anywhere within the borders of Yithi, although it is often that some of the racial styles are populated by a cross-section of races. Some collections of Hordish families choose to keep to their nomadic roots, and journey from city to city, but these are growing more rare as the benefits of civlization grow more and more firm within the cultural mindset of the Yithian population.
+The twenty-four tribes of the Yithi, each corresponding to one of the cities within the Principality, are as follows:
 
-## Culture
+### Artar (First Nation tribe)
+
+### Feldadar (First Nation tribe)
+
+### Malauth (First Nation tribe)
+
+### Sahramar (First Nation tribe)
+
+### Shiagan (First Nation tribe)
+
+### Bagoslalare
+
+### Dheupurwen
+
+### Dragozakam
+
+### Garhanosmena
+
+### Ghaulanejasti
+
+### Glougiyka
+
+### Heral
+
+### Jernovalrimi
+
+### Krikal
+
+### Medehkerinat
+The tribe of Medehkerinat has, through some interesting marriages and tragic accidents, found itself uniquely both provincial governors (of the province bearing their name) and city lords (of the city of the same name within their province). When this unfolded, some centuries after Yithi's passing, his successors permitted the Medehkerinat tribe to retain possession of both, but ordered the provincial government relocated to the city of Malauth as a gesture to Yithi's "checks and balances" between cities and provincial government. They also established legal doctrine that would prevent any tribal figure from holding power (either city or provincial) while a "near family member" held the other. Since the ruling, the Medehkerinat tribe has sought to keep its head down, politically speaking, and the tribe prefers to invest in its holdings in Malauth, rather than appear to indulgent around the tribe's holdings in the city of Medehkerinat.
+
+### Natimorneh
+
+### Onimintilarma
+
+### Overoslugry
+
+### Pramamorloth
+
+### Prolaladasset
+
+### Thaugnorryx
+
+### Venerintyr
+
+### Vennacwen
+
+### Venonaxaxis
+
+### Zisarlaarlathi
 
 ## Relations
 **[Alalihat](Alalihat.md)**: Neutral. While not quite as fervent about exterminating the Principality as [Zalabasa](Zalabasa.md) is, Alalihat definitely has no love for the ex-Hordes nation to its east. Alalihatian sailors, too, find the [Sea Reavers](../Organizations/MercCompanies/SeaReavers.md) a constant irritant, and constantly urge the Caliphate to take stronger action against those pirates.

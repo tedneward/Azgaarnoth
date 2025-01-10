@@ -47,6 +47,8 @@ The "Outer Ring" is the city of the merchants, commoners, and lower classes. It 
 #### Iron Piers District
 **The Guildhall:** A grand half-timbered building, once a minor temple. It contains a large meeting hall and several smaller rooms, and is shared amongst several local trade guilds.
 
+**The Drowning Monument School:** This building, just inside the Outer Ring Wall, has its own pier, and often has a small ship (often a longboat or slightly larger two-decked ship) docked to it. The pier is entirely walled off from public access by the mage school building, and attempts to dock at the pier without the school's permission are often met with some measure of resistance, starting with a gentle nautical shove away from the pier.
+
 #### Servant's Farthing
 
 #### Demon's Borough
@@ -85,7 +87,15 @@ The Citadel, a collection of four districts at the heart of the city, are reserv
 ---
 
 ## Prominent Figures
+Lord Shiagan **[Rhurg Kruvlek](../People/RhurgKruvlek.md)** (male hobgoblin), Fighter 2, Chieftain of Shiagan: The latest Chieftain Shiagan is recently come to his seat, his father having perished in a freak accident last year.
+
 Lord-Captain **[Moba Andravaeraurak](../People/MobaAndravaeraurak.md)** (male kobold), Captain of the [City Guard](#military-units): A diminutive figure in size, Lord-Captain Andravaeraurak is well aware that his size belies his skill, and often uses it to his advantage when first meeting those he wishes to study further before revealing his rank. Quiet, firm, and absolutely fearless, Moba is absolutely dedicated to the city and its inhabitants, and will unhesitatingly risk his life to preserve Shiagan against threats to its existence or residents. He is well-liked by the City Guards, and several have formed a small semiformal bodyguard unit ("the Lord-Captain's Guards") in response to several assassination attempts against him in recent years.
+
+**TODO**, First Councilor
+
+**TODO**, Second Councilor
+
+**[Shragic Ironchest](../People/ShragicIronchest.md)** (male kobold), Wizard (Enchanter) 15, Third Councilor of Shiagan. Shragic recently befriended Rhurg Kruvlek, Lord Shiagan, and was anointed Third Councilor shortly thereafter. In addition to this being outside the normal practice, he has recently caused some stir among the City Council with some of the decisions he has encouraged (such as the hiring of the [Thieving Daggers](#mercenary-companies) and the decision to openly embrace a school of the [Nethermancers](#mage-schools)).
 
 **Orlis Julu** (female bugbear), Fighter (Duelist) 12, Head of the [Lodge of the Cutlass](#dueling-colleges) dueling college
 
@@ -111,7 +121,7 @@ Lord-Captain **[Moba Andravaeraurak](../People/MobaAndravaeraurak.md)** (male ko
 
 **TODO**, Sorcerer 9, Arcane Master, [Silver Column](#mage-schools)
 
-**TODO**, Sorcerer 7, Arcane Master, [Drowning Monument](#mage-schools)
+**TODO**, Wizard (hydromancer) 15, Arcane Master, Master of the [Drowning Monument](#mage-schools) School
 
 **TODO**, Cleric 8, High Priest of [Al'Uma - Prophet](#religious-organizations)
 
@@ -147,11 +157,11 @@ Guildmaster **[Gothrash Breathtaker](../People/GothrashBreathtaker.md)** (male h
 
 **TODO**, Ranger (Slayer) 15, Guildmaster of the Slayer Conclave
 
-**TODO**, Guildmaster of the Vekku Guild
+**TODO**, Guildmaster of the [Vekku Guild](../Organizations/MerchantGuilds/Vekku.md)
 
 **TODO**, Guildmaster of the Lonely Tragekian Faction
 
-**TODO**, Guildmaster of the Kaalean Mercantile Compact
+**TODO**, Guildmaster of the [Kaalean Mercantile Compact](../Organizations/MerchantGuilds/KaaleanMercantileCompact.md)
 
 **TODO**, Monk 11, Grand Sensei of the [Order of the Nefarious Consortium](#monastic-orders) monastic order
 
@@ -180,14 +190,14 @@ Guildmaster **[Gothrash Breathtaker](../People/GothrashBreathtaker.md)** (male h
 
 
 ## Mercenary Companies
-**[Hatchet Knights](../Organizations/MercCompanies/HatchetKnights.md)**
+**[Hatchet Knights](../Organizations/MercCompanies/HatchetKnights.md)**: The Knights are deeply suspicious of Lord Shiagan's decision to hire the Daggers, and although they are not yet ready to depart, they keep their barracks on watch 24 hours a day, alert to any behavior that threatens them.
 
-**[Thieving Dagger](../Organizations/MercCompanies/ThievingDagger.md)**
+**[Thieving Daggers](../Organizations/MercCompanies/ThievingDaggers.md)**: Lord Shiagan's willingness to hire the Daggers has raised eyebrows all up and down the coast.
 
-**[Axe Guards](../Organizations/MercCompanies/AxeGuards.md)**
+**[17th Axe Guards](../Organizations/MercCompanies/AxeGuards.md)**: The Axe Guards are a rarity in Yithi: not only is it a company of heavy infantry, but it's a company exclusively of dwarves. The Seventeenth is one of many Axe Guards companies, all of which have their charters dating back to the Exodus and the Reclamations, and its proud traditions are firmly in place.
 
 ## Dueling Colleges
-**Lodge of the Cutlass:** One of the few dueling colleges that specializes in naval/marine combat, the Lodge of the Cutlass was formed centuries ago in response to the growing numbers of battles taking place on the seas. A long-standing tradition of the Cutlass Lodge is that their dueling tournaments are often held out on the water, in "dueling circles" that comprise of a ship, sometimes under varying conditions (weather, combat damage to the ship, and so on). Some of the college's most popular exhibitions are "boarding actions", wherein one team of duelists must take control of a ship in the harbor against another team of duelists who defend it, cheered on by spectators in floating barges a safe distance away.
+**Lodge of the Cutlass:** One of the few dueling colleges that specializes in naval/marine combat, the Lodge of the Cutlass was formed centuries ago in response to the growing numbers of battles taking place on the seas. A long-standing tradition of the Cutlass Lodge is that their dueling tournaments are often held out on the water, in "dueling circles" that comprise of a ship, sometimes under varying conditions (movement, weather, combat damage to the ship, and so on). Some of the college's most popular exhibitions are "boarding actions", wherein one team of duelists must take control of a ship in the harbor against another team of duelists who defend it, cheered on by spectators in floating barges a safe distance away.
 
 **Lyceum of the Shimmering Shield:** The Shimmering Shield Lyceum is a dueling college that specializes in individual martial-arcane combat. Founded three hundred years ago by an elvish Bladesinger, the Shimmering Shield holds that the best way to win a fight is to make sure you bring both sword and spell to bear. The college's members are often in high demand as guards on board merchant vessels coming and going from Shiagan, but membership is restricted to those who can demonstrate proficiency in both magical and mundane combat.
 
@@ -215,11 +225,9 @@ Guildmaster **[Gothrash Breathtaker](../People/GothrashBreathtaker.md)** (male h
 ## Religious Organizations
 **Kaevarian Church in Shiagan.** The temple to [Kaevarian Church](../Religions/KaevarianChurch.md) has around 300 followers.
 
-**Temple.** The temple to [Al'Uma - Prophet](../Religions/AlUma.md) has around 370 followers.
+**Temple.** The temple to [Al'Uma - Prophet](../Religions/AlUma.md#alalihatian-prophecy) has around 370 followers.
 
-**Temple.** The temple to [Al'Uma - Prophet](../Religions/AlUma.md) has around 490 followers.
-
-**Temple.** The temple to [Al'Uma - Disciple](../Religions/AlUma.md) has around 160 followers.
+**Temple.** The temple to [Al'Uma - Disciple](../Religions/AlUma.md#zalabasan-sect) has around 160 followers.
 
 **Temple.** The temple to [Dail](../Religions/Dail.md) has around 500 followers.
 
@@ -230,13 +238,13 @@ About 120 followers follow [Spiritualism](../Religions/Spirits.md).
 There are about 480 followers who openly follow [Druidism](../Religions/Druidism.md), and they often have gatherings in a small copse of trees just outside the city.
 
 ## Monastic Orders
-**Monastic Order: Order of the Nefarious Consortium.** The order currently has 49 monks.
+**Monastic Order: [Order of the Nefarious Consortium](../Organizations/MonasticOrders/NefariousConsortium.md).** The order currently has 49 monks.
 
-**Monastic Order: Order of the Beautiful Bronze Scythe.** The order currently has 44 monks.
+**Monastic Order: [Order of the Beautiful Bronze Scythe](../Organizations/MonasticOrders/BeautifulBronzeScythe.md).** The order currently has 44 monks.
 
-**Monastic Order: Order of the Umbral Mantis.** The order currently has 48 monks.
+**Monastic Order: [Order of the Umbral Mantis](../Organizations/MonasticOrders/UmbralMantis.md).** The order currently has 48 monks.
 
-**Monastic Order: Order of the Miasmal Shield.** The order currently has 50 monks.
+**Monastic Order: [Order of the Miasmal Shield](../Organizations/MonasticOrders/MiasmalShield.md).** The order currently has 50 monks.
 
 ---
 

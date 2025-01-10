@@ -22,7 +22,7 @@ Kruthiks hatch from eggs laid by female adults. Each egg is about the size of an
 Underdark
 
 ### Token
-![](YoungKruthik-Token.png)
+![](Kruthik-Young-Token.png)
 
 >### Young Kruthik
 >*Small monstrosity, Unaligned*
@@ -66,7 +66,7 @@ Adult kruthiks grow spiky protrusions on their legs and can fling these dagger-s
 Underdark
 
 ### Token
-![](AdultKruthik-Token.png)
+![](Kruthik-Adult-Token.png)
 
 >### Adult Kruthik
 >*Medium monstrosity, Unaligned*
@@ -112,7 +112,7 @@ A hive lord rules each kruthik hive. When the hive lord dies, the surviving memb
 Underdark
 
 ### Token
-![](KruthikHiveLord-Token.png)
+![](Kruthik-HiveLord-Token.png)
 
 >### Kruthik Hive Lord
 >*Large monstrosity, Unaligned*

@@ -1,12 +1,18 @@
 # Half-Illithids
 
 This aberration is the result of ceremorphosis, in which an illithid tadpole burrows into its victim's brain. The host's personality is erased, allowing the illithid to meld with the lower brain and claim the body.
-While illithids favor human hosts, lizardfolk make useful slaves and guards if the mind flayer's lair is near jungle or swamp.
 
 > Jump to: [Half-Illithid Lizardfolk](#half-illithid-lizardfolk)
 
-## Half-Illithid Lizardfolk
+![](./Half-Illithid-Lizardfolk.jpeg)
 
+## Half-Illithid Lizardfolk
+While illithids favor human hosts, lizardfolk make useful slaves and guards if the mind flayer's lair is near jungle or swamp.
+
+### Environment
+Jungle, Swamp
+
+### Token
 
 
 >### Half-Illithid Lizardfolk 

@@ -18,13 +18,14 @@ The tenets of the Oath of Glory drive a paladin to attempt heroics that might on
 You gain oath spells at the paladin levels listed in the Oath of Glory Spells table. See the Sacred Oath class feature for how oath spells work.
 
 **Oath of Glory Spells**
-Paladin Level|Spells
--------------|------
-3rd|guiding bolt, heroism
-5th|enhance ability, magic weapon
-9th|haste, protection from energy
-13th|compulsion, freedom of movement
-17th|commune, flame strike 
+
+Paladin Level | Spells
+------------- | ------
+3rd | guiding bolt, heroism
+5th | enhance ability, magic weapon
+9th | haste, protection from energy
+13th | compulsion, freedom of movement
+17th | commune, flame strike 
 
 ## Channel Divinity
 *3rd-level Oath of Glory feature*
