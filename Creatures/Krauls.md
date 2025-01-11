@@ -17,7 +17,7 @@ Ruins, Underdark
 ### Token
 ![](Krauls-KraulWarrior-Token.webp)
 
->## Kraul Warrior
+>### Kraul Warrior
 >*Medium Humanoid (Kraul), neutral evil*
 >___
 >- **Armor Class** 18 (natural armor)
@@ -40,7 +40,12 @@ Ruins, Underdark
 >***Spider Climb.*** The kraul can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >
 >### Actions
->***Spear.*** *Melee  or Ranged Weapon Attack:*  +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+>***Spear.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+>
+>***Spear (Two-Handed).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+>
+>***Spear (Thrown).*** *Ranged Weapon Attack:* +3 to hit, range 20/60 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+>
 
 ---
 
@@ -52,7 +57,6 @@ Ruins, Underdark
 
 ### Token
 ![](Krauls-KraulWarrior-Token.webp)
-
 
 >### Winged Kraul Warrior
 >*Medium Humanoid (Kraul), neutral evil*
@@ -77,7 +81,12 @@ Ruins, Underdark
 >***Spider Climb.*** The kraul can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
 >
 >### Actions
->***Spear.*** *Melee  or Ranged Weapon Attack:*  +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+>***Spear.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+>
+>***Spear (Two-Handed).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+>
+>***Spear (Thrown).*** *Ranged Weapon Attack:* +3 to hit, range 20/60 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+>
 
 ---
 
@@ -129,7 +138,7 @@ Ruins, Underdark
 >
 >***Innate Spellcasting.*** The kraul's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The kraul can innately cast the following spells, requiring no material components:  
 >
->* At will: *chill touch*, *poison spray*  
->* 3/day each: *ray of enfeeblement*, *ray of sickness*  
->* 1/day each: *animate dead*, *blight*, *vampiric touch*  
+>* *At will*: *chill touch*, *poison spray*  
+>* *3/day each*: *ray of enfeeblement*, *ray of sickness*  
+>* *1/day each*: *animate dead*, *blight*, *vampiric touch*  
 >
