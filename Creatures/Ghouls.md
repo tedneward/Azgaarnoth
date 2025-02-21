@@ -8,6 +8,9 @@ Ghouls roam the night in packs, driven by an insatiable hunger for humanoid fles
 ## Ghoul
 ***Devourers of Flesh.*** Like maggots or carrion beetles, ghouls thrive in places rank with decay and death. A ghoul haunts a place where it can gorge on dead flesh and decomposing organs. When it can't feed on the dead, it pursues living creatures and attempts to make corpses of them. Though they gain no nourishment from the corpses they devour, ghouls are driven by an unending hunger that compels them to consume. A ghoul's undead flesh never rots, and this monster can persist in a crypt or tomb for untold ages without feeding.
 
+
+![](Ghouls-Ghoul.webp)
+
 ***Abyssal Origins.*** Ghouls trace their origins to the Abyss. Doresain, the first of their kind, was an elf worshiper of Orcus. Turning against his own people, he feasted on humanoid flesh to honor the Demon Prince of Undeath. As a reward for his service, Orcus transformed Doresain into the first ghoul. Doresain served Orcus faithfully in the Abyss, creating ghouls from the demon lord's other servants until an incursion by Yeenoghu, the demonic Gnoll Lord, robbed Doresain of his abyssal domain. When Orcus would not intervene on his behalf, Doresain turned to the elf gods for salvation, and they took pity on him and helped him escape certain destruction. Since then, elves have been immune to the ghouls' paralytic touch.
 
 ### Environment
@@ -52,7 +55,7 @@ Some say the aquatic ghouls were always part of Orcus' original design, others s
 
 ***Devourers of Flesh.*** Like maggots or carrion beetles, ghouls thrive in places rank with decay and death under, in, or near the water. A ghoul haunts a place where it can gorge on dead flesh and decomposing organs, and the aquatic variety particularly love places where they can feast on the many corpses of a shipwreck. When it can't feed on the dead, it pursues living creatures and attempts to make corpses of them. Though they gain no nourishment from the corpses they devour, ghouls are driven by an unending hunger that compels them to consume. A ghoul's undead flesh never rots, and this monster can persist in a watery grave for untold ages without feeding.
 
-![](Ghouls-AquaticGhoul.png)
+![](Ghouls-Aquatic.jpeg)
 
 ***Underwater Foes.*** Aquatic ghouls' powerful limbs make them fearsome predators in the water, capable of fearsome speeds compared to what they can achieve on land. Sailors tell horror stories at night of these horrific creatures leaping out of the water onto ships' decks, from which they can take sentries by surprise and feast on entire crews without warning.
 
@@ -60,7 +63,7 @@ Some say the aquatic ghouls were always part of Orcus' original design, others s
 Coastal, Ocean, Undersea
 
 ### Token
-![](Ghouls-AquaticGhoul-Token.png)
+![](Ghouls-AquaticGhoul-Token.jpeg)
 
 >### Ghoul
 >*Medium undead, chaotic evil*
@@ -100,13 +103,13 @@ Coastal, Ocean, Undersea
 ## Ghast
 Orcus (or a necromancer or pale master) sometimes infuses a ghoul with a stronger dose of abyssal energy, making a ghast. Whereas ghouls are little more than savage beasts, a ghast is cunning and can inspire a pack of ghouls to follow its commands.
 
-![](Ghouls-Ghast.png)
+![](Ghouls-Ghast.jpeg)
 
 ### Environment
 Extraplanar, Ruins, Urban, Underdark
 
 ### Token
-![](Ghouls-Ghast-Token.png)
+![](Ghouls-Ghast-Token.jpeg)
 
 >### Ghast
 >*Medium undead, chaotic evil*
@@ -146,13 +149,15 @@ Extraplanar, Ruins, Urban, Underdark
 ## Aquatic Ghast
 This is a ghast, but with the ability to swim and operate underwater.
 
+![](Ghouls-AquaticGhast.jpeg)
+
 Some say the aquatic ghasts were always part of Orcus' original design, others say the aquatic ghast is the result of an Undersea race turned to a ghast when slain. Regardless of their origin, the aquatic ghast (and its slower and dimmer cousin, the [aquatic ghoul](#aquatic-ghoul)) are the stuff of many a sailor's nightmares.
 
 ### Environment
 Coastal, Ocean, Undersea
 
 ### Token
-![](Ghouls-AquaticGhast-Token.png)
+![](Ghouls-AquaticGhast-Token.jpeg)
 
 >### Ghast
 >*Medium undead, chaotic evil*

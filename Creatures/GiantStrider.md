@@ -1,13 +1,15 @@
 ## Giant Strider
 These fierce and majestic monsters exhibit attributes of both birds and reptiles, but are truly neither. Giant striders have a supernatural affinity to fire and can spit gouts of flame at distant enemies. They are most often found in tropical, volcanically active areas or regions that similarly provide sources of both water and extreme heat.
 
+![](GiantStrider.jpeg)
+
 [Firenewts](Firenewts.md) prize giant striders and seek to adopt them whenever possible. They provide for stables of these creatures in their lairs, and in return, the giant striders voluntarily serve as mounts for firenewt warriors (in this book).
 
 ### Environment
 Exotic, Swamp
 
 ### Token
-![](GiantStrider-Token.png)
+![](GiantStrider-Token.jpeg)
 
 >### Giant Strider
 >*Large Elemental, Unaligned*

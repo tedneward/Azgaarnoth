@@ -1,8 +1,7 @@
 # Annulids
-
 Annulids, also known as leech mages for their leech-like bodies and magical abilities, are aberrant creatures from the Far Realm who are respectful, civil, polite and no less evil for it. An annulid's body resembles that of an overgrown leech with two bulbous black eyes and four tentacles like a parody of a human's arms and legs. Annulids always cover their bodies with dark robes, raised hoods and plain masks which cover their mouths, lined with teeth and able to grab tightly to their prey. In battle, annulids remove their masks and lower their hoods, that they might drain blood from their victims more easily, though they also frequently make use of another weapon; the staff, also used as a symbol of status among their kind.
 
-> Jump to: [Annulid Broodling](#annulid-broodling) | [Annulid Gargantuan]() | [Annulid Hierophant]() | [Annulid Messiah]() | [Cadaverous Annulid](#cadaverous-annulid)
+> Jump to: [Annulid Broodling](Annulids.md#annulid-broodling) | [Annulid Gargantuan]() | [Annulid Hierophant](Annulids.md#annulid-hierophant) | [Annulid Messiah](Annulids.md#annulid-messiah) | [Cadaverous Annulid](#cadaverous-annulid)
 
 All annulids are also innately capable of teleportation, which they will instinctively use to avoid danger and reach advantageous positions.
 
@@ -65,104 +64,110 @@ The annulid can detach itself by spending 5 feet of its movement. It does so aft
 
 ---
 
-Annulid Gargantuan
+## Annulid Gargantuan
 
 Annulid gargantuans are truly massive and possess immense strength. Unlike other annulids, gargantuans prefer to be wherever the fighting is most dangerous, gladly risking their own lives to protect their weaker kin and using their teleportation to close the distance between themselves and their enemies.
 
-Annulid Gargantuan
-Huge aberration, lawful evil
-
-Armor Class 17 (natural armor)
-Hit Points 210 (20d12 + 80)
-Speed 40 ft., climb 40 ft., swim 40 ft.
-
-STR	DEX	CON	INT	WIS	CHA
-22 (+6)	15 (+2)	18 (+4)	14 (+2)	14 (+2)	12 (+1)
-Saving Throws Wis +6
-Skills Arcana +6, Deception +5, Persuasion +5, Stealth +10
-Proficiency Bonus +4
-Senses blindsight 30 ft., darkvision 60 ft., passive Perception 12
-Languages Deep Speech, telepathy 60 ft.
-Challenge 12 (8,400 XP)
-Amphibious. The annulid can breathe air and water.
-
-Spider Climb. The annulid can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
-
-Innate Spellcasting (Psionics). The annulid's innate spellcasting ability is Intelligence (spell save DC 14). The annulid can cast the following spells innately, requiring no material components:
-
-At will: mage hand (the hand is invisible)
-3/day each: charm person, darkness
-
-Spellcasting. The annulid is a 4th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The annulid has the following wizard spells prepared:
-
-Cantrips (at will): poison spray, prestidigitation, ray of frost, shocking grasp
-1st level (4 slots): detect magic, magic missile, sleep
-2nd level (3 slots): invisibility, hold person, shatter
-
-ACTIONS
-Multiattack. The annulid makes three attacks, only one of which can be with its bite.
-
-Bite. Melee Weapon Attack: +10 to hit, reach 10 ft., one creature. Hit: 22 (3d10 + 6) piercing damage, and the annulid attaches to the target. While attached, the annulid can't make bite attacks and at the start of each of the annulid's turns, the target loses 22 (3d10 + 6) hit points due to blood loss.
-The annulid can detach itself by spending 5 feet of its movement. It does so after it drains 66 hit points of blood from the target or the target dies. A creature, including the target, can use its action to attempt to detach the annulid with a DC 18 Strength check.
-
-Tentacle. Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.
-
-REACTIONS
-Reflexive Blink. When the annulid takes damage, it magically teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
-
-Shield. When a creature makes an attack against an ally of the annulid, the annulid grants a +2 bonus to the ally's AC if the annulid is within 5 feet of the ally.
+>### Annulid Gargantuan
+>*Huge aberration, lawful evil*
+>___
+>- **Armor Class** 17 (natural armor)
+>- **Hit Points** 210 (20d12 + 80)
+>- **Speed** 40 ft., climb 40 ft., swim 40 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|22 (+6)|15 (+2)|18 (+4)|14 (+2)|14 (+2)|12 (+1)|
+>
+>___
+>- **Saving Throws** Wis +6
+>- **Skills** Arcana +6, Deception +5, Persuasion +5, Stealth +10
+>- **Proficiency Bonus** +4
+>- **Senses** blindsight 30 ft., darkvision 60 ft., passive Perception 12
+>- **Languages** Deep Speech, telepathy 60 ft.
+>- **Challenge** 12 (8,400 XP)
+>___
+>**Amphibious.** The annulid can breathe air and water.
+>
+>**Spider Climb.** The annulid can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+>
+>**Innate Spellcasting (Psionics).** The annulid's innate spellcasting ability is Intelligence (spell save DC 14). The annulid can cast the following spells innately, requiring no material components:
+>
+>* * *At will*: mage hand (the hand is invisible)
+>* * *3/day each*: charm person, darkness
+>
+>**Spellcasting.** The annulid is a 4th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The annulid has the following wizard spells prepared:
+>
+>* *Cantrips (at will)*: poison spray, prestidigitation, ray of frost, shocking grasp
+>* *1st level (4 slots)*: detect magic, magic missile, sleep
+>* *2nd level (3 slots)*: invisibility, hold person, shatter
+>
+>#### Actions
+>**Multiattack.** The annulid makes three attacks, only one of which can be with its bite.
+>
+>**Bite.** *Melee Weapon Attack*: +10 to hit, reach 10 ft., one creature. Hit: 22 (3d10 + 6) piercing damage, and the annulid attaches to the target. While attached, the annulid can't make bite attacks and at the start of each of the annulid's turns, the target loses 22 (3d10 + 6) hit points due to blood loss. The annulid can detach itself by spending 5 feet of its movement. It does so after it drains 66 hit points of blood from the target or the target dies. A creature, including the target, can use its action to attempt to detach the annulid with a DC 18 Strength check.
+>
+>**Tentacle.** *Melee Weapon Attack*: +10 to hit, reach 15 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.
+>
+>#### Reactions
+>**Reflexive Blink.** When the annulid takes damage, it magically teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
+>
+>**Shield.** When a creature makes an attack against an ally of the annulid, the annulid grants a +2 bonus to the ally's AC if the annulid is within 5 feet of the ally.
+>
 
 ---
 
 ## Annulid Hierophant
-
 Annulid hierophants lead other annulids in worship of Isuga, wielding powerful divine magic to wreak havoc upon those who would oppose the Leech Mother's will. Whenever hierophants go to battle, they are surrounded by throngs of fawning cultists and their lesser kin, eager to earn the blessings of Isuga by aiding one who has already attained them.
 
-Annulid Hierophant
-Medium aberration, lawful evil
-
-Armor Class 14 (natural armor)
-Hit Points 105 (14d8 + 42)
-Speed 30 ft., climb 30 ft., swim 30 ft.
-
-STR	DEX	CON	INT	WIS	CHA
-10 (+0)	16 (+3)	16 (+3)	18 (+4)	18 (+4)	18 (+4)
-Saving Throws Dex +6, Wis +7, Cha +7
-Skills Arcana +7, Deception +7, Persuasion +7, Religion +10, Stealth +9
-Proficiency Bonus +3
-Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks
-Senses blindsight 30 ft., darkvision 120 ft., passive Perception 14
-Languages Deep Speech, telepathy 120 ft.
-Challenge 9 (5,000 XP)
-Amphibious. The annulid can breathe air and water.
-
-Spider Climb. The annulid can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
-
-ACTIONS
-Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) piercing damage, and the annulid attaches to the target. While attached, the annulid can't make bite attacks and at the start of each of the annulid's turns, the target loses 10 (2d6 + 3) hit points due to blood loss.
-The annulid can detach itself by spending 5 feet of its movement. It does so after it drains 30 hit points of blood from the target or the target dies. A creature, including the target, can use its action to attempt to detach the annulid with a DC 15 Strength check.
-
-Quarterstaff. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with two hands.
-
-Innate Spellcasting (Psionics). The annulid's innate spellcasting ability is Intelligence (spell save DC 16). The annulid can cast the following spells innately, requiring no material components:
-
-At will: darkness, mage hand (the hand is invisible)
-3/day each: charm person, confusion
-1/day: teleport
-
-Spellcasting. The annulid is a 14th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). The annulid has the following cleric spells prepared:
-
-Cantrips (at will): guidance, mending, sacred flame, thaumaturgy, toll the dead
-1st level (4 slots): bane, cure wounds, detect magic, guiding bolt
-2nd level (3 slots): aid, enhance ability, hold person, spiritual weapon
-3rd level (3 slots): dispel magic, mass healing word, remove curse, spirit guardians
-4th level (3 slots): divination, guardian of faith
-5th level (2 slots): contagion, flame strike
-6th level (1 slot): blade barrier
-7th level (1 slot): regenerate
-
-REACTIONS
-Reflexive Blink. When the annulid takes damage, it magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+>### Annulid Hierophant
+>*Medium aberration, lawful evil*
+>___
+>- **Armor Class** 14 (natural armor)
+>- **Hit Points** 105 (14d8 + 42)
+>- **Speed** 30 ft., climb 30 ft., swim 30 ft.
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|16 (+3)|16 (+3)|18 (+4)|18 (+4)|18 (+4)|
+>___
+>- **Saving Throws** Dex +6, Wis +7, Cha +7
+>- **Skills** Arcana +7, Deception +7, Persuasion +7, Religion +10, Stealth +9
+>- **Proficiency Bonus** +3
+>- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+>- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 14
+>- **Languages** Deep Speech, telepathy 120 ft.
+>- **Challenge** 9 (5,000 XP)
+>___
+>**Amphibious.** The annulid can breathe air and water.
+>
+>**Spider Climb.** The annulid can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+>
+>#### Actions
+>**Bite.** *Melee Weapon Attack*: +7 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) piercing damage, and the annulid attaches to the target. While attached, the annulid can't make bite attacks and at the start of each of the annulid's turns, the target loses 10 (2d6 + 3) hit points due to blood loss. The annulid can detach itself by spending 5 feet of its movement. It does so after it drains 30 hit points of blood from the target or the target dies. A creature, including the target, can use its action to attempt to detach the annulid with a DC 15 Strength check.
+>
+>**Quarterstaff.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with two hands.
+>
+>**Innate Spellcasting (Psionics).** The annulid's innate spellcasting ability is Intelligence (spell save DC 16). The annulid can cast the following spells innately, requiring no material components:
+>
+>* *At will*: darkness, mage hand (the hand is invisible)
+>* *3/day each*: charm person, confusion
+>* *1/day*: teleport
+>
+>**Spellcasting.** The annulid is a 14th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). The annulid has the following cleric spells prepared:
+>
+>* *Cantrips (at will)*: guidance, mending, sacred flame, thaumaturgy, toll the dead
+>* *1st level (4 slots)*: bane, cure wounds, detect magic, guiding bolt
+>* *2nd level (3 slots)*: aid, enhance ability, hold person, spiritual weapon
+>* *3rd level (3 slots)*: dispel magic, mass healing word, remove curse, spirit guardians
+>* *4th level (3 slots)*: divination, guardian of faith
+>* *5th level (2 slots)*: contagion, flame strike
+>* *6th level (1 slot)*: blade barrier
+>* *7th level (1 slot)*: regenerate
+>
+>#### Reactions
+>**Reflexive Blink.** When the annulid takes damage, it magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+>
 
 ---
 

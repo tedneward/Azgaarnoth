@@ -19,6 +19,7 @@ You have manifested such an aberrant dragonmark. Determine its appearance and th
 While aberrant dragonmarks can be disturbing, on the surface an aberrant mark seems no more dangerous or threatening than the powers of a sorcerer. So, what makes them significant? Aberrant marks always have flaws. These may not actively hurt a character, but they are always a burden in some way---a burden that could drive a weak-willed person to madness. If you develop an aberrant mark, you can choose a flaw from this list, or you and the DM can develop a unique flaw of your own.
 
 **Aberrant Mark Flaw**
+
 1d8 | Aberrant Mark Flaw
 --- | ------------------
 1 | Your mark is a source of constant pain.
