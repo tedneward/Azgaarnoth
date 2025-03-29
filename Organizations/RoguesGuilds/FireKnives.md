@@ -6,6 +6,7 @@ Each Fire Knife cell is led by one individual, called a "Hilt", who is the only 
 
 Assassination as a means of advancement is entirely forbidden; while the Fire Knives do not torture their paid targets, they are extremely accomplished at the task, and will bring all of their arts to bear on any Fire Knife member who violates the order of assassination, regardless of rank.
 
-Those who seek to unravel the secrets of the Fire Knives are prone to wind up dead themselves, usually in particularly grisly fashion. Many City Watch guards will resoundingly swear off any case if a Fire Knife brand appears anywhere; however, Fire Knives also jealously guard their emblem, and any unauthorized use of the brand is also subject to extreme sanction, also in particularly grisly fashion.
+Those who seek to unravel the secrets of the Fire Knives are prone to wind up dead themselves, usually in particularly grisly fashion. Many City Watch guards will resoundingly swear off any case if a Fire Knife brand appears anywhere; however, Fire Knives also jealously guard their emblem, and any unauthorized use of the brand is also subject to extreme sanction, also in particularly grisly fashion. In a few particularly fun scenarios, Fire Knives will assist the Watch in tracking down an unauthorized killing done in the Fire Knives' name, so long as the Watch looks the other way when the perpetrator mysteriously disappears once apprehended.
 
 The Fire Knives are rumored to have several "schools" within Liria, where one can learn the arts of assassination. No such school has ever been found, nor is the means by which they recruit new members known to anyone, at least publicly.
+
