@@ -12,7 +12,7 @@ A devourer resembles a walking brain protected by a crusty covering and set on b
 ## Charm Devourer
 A charm devourer is the bane of bards and sorcerers all over the Underdark, drawing away the magnetism and "presence" of its victims' charisma, until all that remains is a physical husk suitable as a shell.
 
-***Rogue Servants.*** Of the devourers
+***Rogue Servants.*** Of the devourers, charm devourers are the most likely to "go rogue" and defy their illithid masters.
 
 ### Environment
 Underdark

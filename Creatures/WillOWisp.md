@@ -26,7 +26,7 @@ Will-o'-wisps lure unwary creatures into quicksand pits, monster lairs, and othe
 >- **Proficiency Bonus** +2
 >- **Saving Throws** 
 >- **Damage Vulnerabilities** 
->- **Damage Resistances** 
+>- **Damage Resistances** acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 >- **Damage Immunities** lightning,poison
 >- **Condition Immunities** exhaustion,grappled,paralyzed,poisoned,prone,restrained,unconscious
 >- **Skills** 
@@ -34,8 +34,6 @@ Will-o'-wisps lure unwary creatures into quicksand pits, monster lairs, and othe
 >- **Languages** the languages it knew in life
 >- **Challenge** 2
 >___
->Damage Resistance acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
->
 >***Consume Life.*** As a bonus action, the will-o'-wisp can target one creature it can see within 5 feet of it that has 0 hit points and is still alive. The target must succeed on a DC 10 Constitution saving throw against this magic or die. If the target dies, the will-o'-wisp regains 10 (3d6) hit points.
 >
 >***Ephemeral.*** The will-o'-wisp can't wear or carry anything.

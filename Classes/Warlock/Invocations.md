@@ -645,7 +645,7 @@ def maskofmanyfaces_prereq(npc): return True
 ### Master of Myriad Forms
 *Prerequisite: 15th level*
 
-You can cast [alter self](../../Magic/Spells/alter-self) at will, without expending a spell slot.md.
+You can cast [alter self](../../Magic/Spells/alter-self.md) at will, without expending a spell slot.
 
 ```
 def masterofmyriadforms(npc):
