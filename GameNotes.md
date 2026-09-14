@@ -1,4 +1,5 @@
 # Generalized Game Notes
+Hi, Matt, hi Sam.
 
 ## Homebrew Rules
 I like these rules, and look to use them in the campaign. (The Silver Monetary Standard I will quietly slip in to places.)
