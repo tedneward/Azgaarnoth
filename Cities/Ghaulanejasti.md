@@ -62,7 +62,7 @@ The Shiagan Road district is, like the neighboring Cotton Way district, a slum. 
 ## Great Houses
 Technically, Yithi has no connections to any of the Great Houses. In practice, however, many of the Great Houses maintain a presence in the city in the furtherance of House designs.
 
-[House Kaal](../Organizations/Houses/Kaal.md) has an office here, led by **TODO**, who is content to merely observe and report the various goings-on within the city.
+[House Kaal](../Organizations/Houses/Kaal.md) has an office here, led by [[NPC: ]], who is content to merely observe and report the various goings-on within the city.
 
 [House Jarmaath](../Organizations/Houses/Jarmaath.md) also has an office here, headed by **TODO**, who is openly seeking to improve relations between Liria and Yithi. Unfortunately, House agents are often 
 
