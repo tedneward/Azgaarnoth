@@ -1,5 +1,5 @@
 # *Wearable* of the Winterlands
-*Wondrous item*, *uncommon (requires attunement)*
+*uncommon (requires attunement)*
 
 This *wearable* tends to be furred, and feels snug and quite warm. 
 

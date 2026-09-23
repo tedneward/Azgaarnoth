@@ -6,20 +6,8 @@ Different sorts of ground vehicles found in Azgaarnoth:
 * Cart
 * Carriage
 
-## Water
-Different sorts of ships are found in Azgaarnoth:
-
-* [Rowboat](Rowboat.md)
-
-### Keelboat (1/3)
-
-### Longship (10/40)
-
-### Galley (20/80)
-
-### Sailing Ship (10/30)
-
-### Warship (20/40)
+## [Sea](./Sea/index.md)
+Any travel over sea requires specialized knowlege.
 
 ### Vehicle (Water) Proficiency
 Checks with this tool proficiency add the PC's proficiency bonus if they have **Navigator's Tools** when they make it.

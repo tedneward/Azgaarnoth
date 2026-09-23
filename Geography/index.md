@@ -23,8 +23,11 @@ Thanks also to the mass of water surrounding and permeating Azgaarnoth lands, we
 
 The major land masses of Azgaarnoth include [Liria](Liria.md), [Al'Uma](AlUma.md), [Dradehalia](Dradehalia.md), [Bedia](Bedia.md), [Chidia](Chidia.md), [Tragekia](Tragekia.md), [Travenia](Travenia.md), [Travesimia](Travesimia.md), and [Yithia](Yithia.md).
 
-## Roads
-The history of Azgaarnoth is over 10 millennia old, and much of the continent--with the exception of the large landmass called "Northern Bedia", in the far northwest--is crisscrossed with roads, or at least, what were once roads. Cities once connected by large, well-traveled, well-maintained highways have seen those roads fall into disrepair, many of them, and many towns and villages cling to a single dirt track that connects them with other towns and villages nearby. Many roads are paved, but with broken pavingstones every so often, making it less comfortable on wagons than merchants would prefer. In many cases, it seems easier and cheaper to ship by boat than by wagon.
+
+## Travel
+The history of Azgaarnoth is over 10 millennia old, and much of the continent--with the exception of the large landmass called "Northern Bedia", in the far northwest--is [crisscrossed with roads](Land/index.md), or at least, what were once roads. Cities once connected by large, well-traveled, well-maintained highways have seen those roads fall into disrepair, many of them, and many towns and villages cling to a single dirt track that connects them with other towns and villages nearby. Many roads are paved, but with broken pavingstones every so often, making it less comfortable on wagons than merchants would prefer. In many cases, it seems easier and cheaper to ship by boat than by wagon.
+
+Similarly, sailors have been [shipping people and cargo](Sea/index.md) across every body of water south of the Northern Oceans, all along the Bedian Coasts, the Eastern Seaboard, and the Southern Ocean. The Deepwaters, Bloodwaters, and Travenian Sea, in particular, have seen extensive maritime traffic of both economic and military variety, and the ocean floors of all three are littered with thousands upon thousands of wrecks.
 
 ## Notable geography
 
