@@ -69,7 +69,7 @@ Different sorts of ships are found in Azgaarnoth:
 * [Longship](Longship.md)
 * [Galley](Galley.md)
 * [Sailing Ship](SailingShip.md)
-* [Warhsip](Warship.md)
+* [Warship](Warship.md)
 * Al'Uman Corsair
 * Bedian Frigate
 * [Dradehalian Dreadnaught](DradehalianDreadnaught.md)
@@ -154,6 +154,7 @@ When a ship crashes, it must immediately make a DC 10 Constitution saving throw.
 A creature struck by a ship must make a Dexterity saving throw with a DC equal to 10 + the ship's Strength modifier, taking damage based on the ship's size (as shown on the Crash Damage table) on a failed save, or half as much damage on a successful one.
 
 **Crash Damage**
+
 Size | Bludgeoning Damage
 ---- | ------------------
 Small | 1d6
@@ -228,6 +229,7 @@ These sails glitter with a fine coat of mithral treated with abjuration magic. W
 Dragon scales woven into these sails make them more resistant to damage. The sails gain a +3 bonus to AC, and they have resistance to a damage type based on the type of scales used to craft them, as shown on the Dragon Sails table.
 
 **Dragon Sails**
+
 | Dragon Type | Damage Type |
 |:-----------:|:-----------:|
 |    Black    |     Acid    |

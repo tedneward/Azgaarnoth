@@ -38,6 +38,7 @@ The keelboat cabin has the following features:
 >|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|7 (-2)|13 (+1)| 0 | 0 | 0 |
+>
 >___
 >- **Damage Immunities** poison, psychic
 >- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious
