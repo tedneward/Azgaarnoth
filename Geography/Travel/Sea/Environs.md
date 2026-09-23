@@ -7,6 +7,7 @@ A blue hole is a circular sinkhole that forms on the bed of the sea in shallow w
 Blue holes are filled with secrets. Many blue holes hide monsters or treasure, as shown on the Hiding in Blue Holes table.
 
 **Hiding in Blue Holes**
+
 d10 | Creatures or Treasure
 --- | ---------------------
 1 | 2d10 sahuagin
@@ -255,14 +256,16 @@ Total Failure | As a failure. Additionally, if the vessel is in the whirlpool at
 ### Whirlpool Destinations
 While a whirlpool might be a short-lived hazard that drags things into the depths, they might also serve as a violent passage to another realm. In such cases, things dragged into a whirlpool are deposited elsewhere, be it through a crack in the seafloor leading to an Underdark ocean or a portal to a different plane of existence. Use the Whirlpool Destinations table to choose or randomly determine where a whirlpool leads, usually to a body of water in that destination. See chapter 2 of the Dungeon Master's Guide for information about the destinations on other planes.
 
-Whirlpool Destinations
-d10	Destination
-1-3	Underdark
-4	Elemental Plane of Water
-5	Elemental Plane of Earth
-6	Feywild
-7	Shadowfell
-8	Astral Plane
-9	Outlands
-10	Outer Plane of the DM's choice
+**Whirlpool Destinations**
+
+d10 | Destination
+--- | -----------
+1-3 | Underdark
+4 | Elemental Plane of Water
+5 | Elemental Plane of Earth
+6 | Feywild
+7 | Shadowfell
+8 | Astral Plane
+9 | Outlands
+10 | Outer Plane of the DM's choice
 
