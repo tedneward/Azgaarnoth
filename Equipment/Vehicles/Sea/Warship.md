@@ -1,6 +1,8 @@
 # Warship
 Warships are slow, heavily armed vessels capable of taking on large amounts of cargo.
 
+![](./Warship.webp)
+
 A warship ship has the following features:
 
 - **Ceilings.** The ceilings in the lower deck, holds, and cabins are 8 feet high with 6-foot-high doorways.
@@ -26,7 +28,7 @@ A warship typically includes the following additional crew to augment its fighti
 #### 1. Main Deck
 The main deck of the ship has the following features:
 
-- **Mangonel.** Sailing ships have one mangonel (DMG, ch. 8) attached to the deck. Warships have two mangonels (DMG, ch. 8). Each weapon has 10 mangonel stones stacked and secured near it.
+- **Mangonel.** Warships have two mangonels (DMG, ch. 8). Each weapon has 10 mangonel stones stacked and secured near it.
 - **Hatch.** A covered, 10-foot-square opening leads to the lower deck (area W8).
 - **Railing.** The main deck has a 3-foot-high rail around its perimeter that provides half cover for Medium creatures and three-quarters cover for Small creatures behind it.
 - **Rowboats.** Four rowboats are stacked on top of each other on this deck. Ropes and pulleys can hoist these boats in and out of the water.
