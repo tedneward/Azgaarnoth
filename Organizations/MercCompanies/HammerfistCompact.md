@@ -1,2 +1,2 @@
-# Merchant Guild: Hammerfist Compact
+# Mercenary Company: Hammerfist Compact
 

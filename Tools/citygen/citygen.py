@@ -23,12 +23,14 @@ def existingorg(orgtype, directory):
     return (org, filename)
 
 def randreligion():
-    religions = ["[Al'Uma - Prophet](../Religions/AlUma.md)", "[Al'Uma - Disciple](../Religions/AlUma.md)",
-                 '[Dail](../Religions/Dail.md)', '[Druidism]((../Religions/Druidism.md))', 
-                 '[Kaevarian Church](../Religions/KaevarianChurch.md)', 
-                 'Pantheon', 
-                 '[Spiritualism](../Religions/Spirits.md)', 
-                 '[Trinitarian Church](../Religions/Trinitarian.md)']
+    religions = ["[Al'Uma - Prophet](/Religions/AlUma.md)", 
+                 "[Al'Uma - Disciple](/Religions/AlUma.md)",
+                 "[Dail](/Religions/Dail.md)", 
+                 "[Druidism](/Religions/Druidism.md)", 
+                 "[Kaevarian Church](/Religions/KaevarianChurch.md)", 
+                 "Pantheon", 
+                 "[Spiritualism](/Religions/Spirits.md)", 
+                 "[Trinitarian Church](/Religions/Trinitarian.md)"]
     religion = religions[random.randint(0, len(religions)-1)]
     if religion == 'Pantheon':
         gods = os.listdir('../../Religions/Pantheon')
@@ -65,7 +67,11 @@ def namegen(which):
             merc = open('../../Organizations/MercCompanies/' + mercs[random.randint(0, len(mercs)-1)], 'r').readlines()[0][len('# Mercenary Company: '):-1]
             return merc
     elif which == 'house':
-        return "**GREAT HOUSE**"
+        if random.randint(0, 100) > 60:
+            houses = os.listdir('../../Organizations/Houses')
+            houses.remove('index.md')
+            house = open('../../Organizations/Houses/' + houses[random.randint(0, len(houses))], 'r').readlines()[0][len('# Great House: '):-1]
+            return house
 
     # If we're still here, then let's gen a name
     return NameGenerator.namegen(which)
@@ -383,8 +389,8 @@ class City:
 
         for _ in range(nummercs):
             merc = namegen('mercenarycompany')
-            self.mercenarycompanies.append(f'**[{merc}](../Organizations/MercCompanies/{merc}.md)**')
-            self.authorities.append(f"**TODO**, {self.genleader('Mercenary Captain')}, Captain - {merc}")
+            self.mercenarycompanies.append(f'**[{merc}](/Organizations/MercCompanies/{merc}.md)**')
+            self.authorities.append(f"**TODO**, Captain - {merc}, {self.genleader('Mercenary Captain')}")
 
     def calculatemageschools(self):
         # How many schools are here? 1 per 7500 population?
@@ -395,11 +401,11 @@ class City:
             if random.randint(0, 100) > 25:
                 (school, link) = existingorg('Mage School', '../../Organizations/MageSchools')
                 self.mageschools.append(f'**[{school}]({link}).** The school currently has {schoolpop * 2} active members.')
-                self.authorities.append(f"**TODO**, {self.genleader('Arcane Master')}, Arcane Master, [{school}]({link})")
+                self.authorities.append(f"**TODO**, Arcane Master, [{school}]({link}), {self.genleader('Arcane Master')}")
             else:
                 school = namegen('mageschool')
                 self.mageschools.append(f'**{school}.** The school currently has {schoolpop} active members.')
-                self.authorities.append(f"**TODO**, {self.genleader('Arcane Master')}, Arcane Master, {school}")
+                self.authorities.append(f"**TODO**, Arcane Master, {self.genleader('Arcane Master')}, {school}")
 
     def calculatereligiousgroups(self):
         numgroups = int(self.populationct // 7500)
@@ -408,7 +414,7 @@ class City:
             god = randreligion()
             pop = random.randint(10, 20) * int(self.populationct // 100)
             self.religiousgroups.append(f'**Temple.** The temple to {god} has around {pop} followers.')
-            self.authorities.append(f"**TODO**, {self.genleader('High Priest')}, High Priest of {god}")
+            self.authorities.append(f"**TODO**, High Priest of {god}, {self.genleader('High Priest')}")
 
     def calculatemerchantguilds(self):
         numguilds = self.populationct // 5000
@@ -422,7 +428,7 @@ class City:
         for _ in range(int(numguilds)):
             if random.randint(0, 100) <= 25:
                 (guild, link) = existingorg('Merchant Guild', '../../Organizations/MerchantGuilds')
-                self.merchantguilds.append(f'**[{guild}](../Organizations/MerchantGuilds/{link})**')
+                self.merchantguilds.append(f'**[{guild}](/Organizations/MerchantGuilds/{link})**')
                 self.authorities.append(f'**TODO**, Guildmaster - {guild}')
             else:
                 guild = namegen('merchantguild')
@@ -436,7 +442,7 @@ class City:
             pop = random.randint(10, 50)
             name = namegen('monasticorder')
             self.monasticorders.append(f'**Monastic Order: {name}.** The order currently has {pop} monks.')
-            self.authorities.append(f"**TODO**, {self.genleader('Grand Sensei')} Grand Sensei of the {name} monastic order")
+            self.authorities.append(f"**TODO**, Grand Sensei of the {name} monastic order, {self.genleader('Grand Sensei')}")
 
     def calculateduelingcolleges(self):
         numcolleges = len(self.militaryunits)
@@ -455,7 +461,7 @@ class City:
         for _ in range(numcolleges):
             dc = namegen('duelingcollege')
             self.duelingcolleges.append(dc)
-            self.authorities.append(f"**TODO**, {self.genleader('Dueling College')}, Head of the {dc} dueling college")
+            self.authorities.append(f"**TODO**, Head of the {dc} dueling college, {self.genleader('Dueling College')}")
 
     def calculateroguesguilds(self):
         numguilds = self.populationct // 5000
@@ -470,18 +476,18 @@ class City:
             if random.randint(0, 100) <= 25:
                 (guild, link) = existingorg('Rogues Guild', '../../Organizations/RoguesGuilds')
                 self.roguesguilds.append(f'**[{guild}]({link})**')
-                self.authorities.append(f'**TODO**, Guildmaster, [{guild}]({link})')
+                self.authorities.append(f'**TODO**, Guildmaster, [{guild}]({link}), {self.genleader("Rogues Guild")}')
             else:
                 guild = namegen('roguesguild')
                 self.roguesguilds.append(f'**{guild}**')
-                self.authorities.append(f'**TODO**, Guildmaster, {guild}')
-    
+                self.authorities.append(f'**TODO**, Guildmaster, {guild}, {self.genleader("Rogues Guild")}')
+
     def formatmd(self):
         results = f"# {self.name}\n"
         if self.province != '':
-            results += f"*({self.province}, [{self.state}](../Nations/{self.state}.md))*\n"
+            results += f"*({self.province}, [{self.state}](/Nations/{self.state}.md))*\n"
         else:
-            results += f"*([{self.state}](../Nations/{self.state}.md))*\n"
+            results += f"*([{self.state}](/Nations/{self.state}.md))*\n"
         results += "\n"
         results += f"**Population:** {self.populationct}  "
         results += (f"*(Humans: {self.populationbreakdown['Human']}, " + 
@@ -494,12 +500,15 @@ class City:
         results += "\n"
         results += f"![]({self.name}.jpeg)\n"
         results += "\n"
-        results += f"Latitude: {self.latitude}, Longitude: {self.longitude}\n"
+        results += f"**Coordinates:** Latitude: {self.latitude}, Longitude: {self.longitude}\n"
         results += "\n"
-        results += f"City Elevation: {self.elevation}\n"
+        results += f"**Elevation:** {self.elevation} feet above sea level\n"
         results += "\n"
-        results += "## Prominent Figures\n"
-        results += "\n\n".join(self.authorities) + "\n"
+        results += "**TODO** General description.\n"
+        results += "\n"
+        results += "### Surrounding Area\n"
+        results += "\n"
+        results += "### City Layout\n"
         results += "\n"
         results += "## Great Houses\n"
         results += "\n\n".join(self.houses) + "\n"
@@ -528,6 +537,9 @@ class City:
         results += "## Rogues' Guilds\n"
         results += "Like any city, " + self.name + " has its share of crimincals and seedy activity; however, the Rogues' Guilds that prominently domainte that activity include:\n\n"
         results += "\n\n".join(self.roguesguilds) + "\n"
+        results += "\n"
+        results += "## Prominent Figures\n"
+        results += "\n\n".join(self.authorities) + "\n"
         results += "\n"
 
         return results
@@ -583,7 +595,7 @@ def main():
             with open(target + "/index.md", 'w') as outfile:
                 print("# Cities in Azgaarnoth\n\n")
                 for state in states:
-                    outfile.write(f"## [{state}](../Nations/{state}.md)")
+                    outfile.write(f"## [{state}](/Nations/{state}.md)")
                     stateburbs = list(filter(lambda city: city.state == state, burbs))
                     stateburbs.sort(key=lambda city: city.name)
                     for burb in stateburbs:

@@ -1,6 +1,8 @@
 ## Umber Hulk
 An abominable horror from deep beneath the earth, an umber hulk burrows into cave complexes, dungeons, or Underdark settlements in search of food. Those lucky enough to survive an umber hulk attack often remember precious little of the incident, thanks to the umber hulk's mind-scrambling gaze.
 
+![](./UmberHulk.jpg)
+
 ***Devious Delvers.*** Umber hulks can burrow through solid rock, forming new tunnels in their wake. The steel-hard chitin of its body can withstand the cave-ins, tunnel collapses, and rock falls that commonly follow it.
 
 Burrowing into the wall of a cavern or passageway, an umber hulk lies in wait for creatures to pass by on the other side, its hair-like feelers sensing any movement around it. When it explodes out in a shower of earth and rock, its unsuspecting quarry turns to face the oncoming threat -- and is entranced by the umber hulk's bewildering eyes, forced to stand helpless as its mandibles snap shut.

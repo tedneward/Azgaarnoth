@@ -55,6 +55,51 @@ Conjured/Summoned
 
 ---
 
+## Bestial Spirit
+
+### Environment
+Conjured/Summoned
+
+### Token
+![](Spirits-BestialSpirit-Token.png)
+
+>### Bestial Spirit
+>*Small beast, unaligned*
+>___
+>- **Armor Class** 11 + the level of the spell (natural armor)
+>- **Hit Points** 20 (Air only) or 30 (Land and Water only) + 5 for each spell level above 2nd
+>- **Speed** 30 ft.; climb 30 ft. (Land only); fly 60 ft. (Air only); swim 30 ft. (Water only)
+>___
+>|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|11 (+0)|16 (+3)|4 (-3)|14 (+2)|5 (-3)|
+>
+>___
+>- **Proficiency Bonus** +Caster's PB
+>- **Saving Throws** 
+>- **Damage Vulnerabilities** 
+>- **Damage Resistances** radiant
+>- **Damage Immunities** 
+>- **Condition Immunities** charmed,frightened
+>- **Skills** 
+>- **Senses** darkvision 60 ft., passive Perception 12
+>- **Languages** understands the languages the caster speaks
+>- **Challenge** —
+>___
+>***Flyby (Air Only).*** The beast doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+>
+>***Pack Tactics (Land and Water Only).*** The beast has advantage on an attack roll against a creature if at least one of the beast's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>
+>***Water Breathing (Water Only).*** The beast can breathe only underwater.
+>
+>#### Actions
+>***Multiattack.*** The celestial makes a number of attacks equal to half this spell's level (rounded down).
+>
+>***Maul.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* ld8 + 4 + the spell's level piercing damage. 
+>
+
+---
+
 ## Celestial Spirit
 When this spirit is summoned, it takes the form of either an Avenger or Defender celestial, and once chosen, cannot change its form. The creature's statistics vary based on that choice, the spell's level when cast, and the caster's own statistics.
 
@@ -62,7 +107,7 @@ When this spirit is summoned, it takes the form of either an Avenger or Defender
 Conjured/Summoned
 
 ### Token
-![](CelestialSpirit-Token.png)
+![](Spirits-CelestialSpirit-Token.png)
 
 >### Celestial Spirit
 >*Large celestial, unaligned*

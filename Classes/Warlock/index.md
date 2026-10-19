@@ -442,7 +442,7 @@ dependentmodules = ['Invocations.md']
 * [healing elixir](../../Magic/Spells/healing-elixir.md)
 * [hellish rebuke](../../Magic/Spells/hellish-rebuke.md)
 * [hex](../../Magic/Spells/hex.md)
-* [id insinuation](../../Magic/Spells/id-insinuation) (UA.md)
+* [id insinuation](../../Magic/Spells/id-insinuation.md)
 * [illusory script](../../Magic/Spells/illusory-script.md)
 * [protection from evil and good](../../Magic/Spells/protection-from-evil-and-good.md)
 * [puppet](../../Magic/Spells/puppet.md)

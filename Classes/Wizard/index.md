@@ -370,7 +370,7 @@ This is a list of the spells accessible to any wizard throughout Azgaarnoth (und
 * [knock](../../Magic/Spells/knock.md)
 * [levitate](../../Magic/Spells/levitate.md)
 * [locate object](../../Magic/Spells/locate-object.md)
-* [magic mouth](../../Magic/Spells/magic-mouth) (ritual.md)
+* [magic mouth](../../Magic/Spells/magic-mouth.md) (ritual)
 * [magic weapon](../../Magic/Spells/magic-weapon.md)
 * [Melf's acid arrow](../../Magic/Spells/melfs-acid-arrow.md)
 * [mirror image](../../Magic/Spells/mirror-image.md)

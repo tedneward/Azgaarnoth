@@ -1,7 +1,8 @@
 # Generalized Game Notes
+Hi, Matt, hi Sam.
 
 ## Homebrew Rules
-I like these rules, and look to use them in the campaign. (The Silver Monetary Standard I will quietly slip in to places.)
+I like these rules, and look to use them in the campaign.
 
 ### Monster Lore
 For PCs to know more about a creature, they must make a skill check of the type specified in the below table:
@@ -40,14 +41,6 @@ A player's character receives a +1 bonus to any die roll during the round *if* t
 
 ### Bonus Action Slots
 Each character has three "slots" in which they can store items that can be reached as a bonus action. Potions kept here can be quaffed as a bonus action; scrolls kept here can be pulled out and used immediately as an action (casting time pending), and so on. Includes weapons.
-
-### The Silver Monetary Standard
-Roughly, one silver is what a day's room and board in a low-quality inn goes for.
-
-100cp = 1sp
-100sp = 1gp
-
-Any non-magical gear in the PHB is converted from gp to sp.
 
 ### Burrow
 *movement option*

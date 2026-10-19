@@ -47,10 +47,8 @@ Whatever the goal, it always reflects the patron's interests, ranging from small
 >
 >***Spellcasting.*** The deathlock casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 13):
 >
->At will: detect magic, disguise self, mage armor, mage hand
->
->1/day each: dispel magic, hunger of Hadar, invisibility, spider climb
->
+>* At will: detect magic, disguise self, mage armor, mage hand
+>* 1/day each: dispel magic, hunger of Hadar, invisibility, spider climb
 
 ---
 
@@ -95,10 +93,8 @@ Though deathlocks exist to serve their patrons, they retain some freedom when it
 >
 >***Spellcasting.*** The deathlock casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 14):
 >
->At will: detect magic, disguise self, mage armor, minor illusion
->
->1/day each: darkness, dimension door, dispel magic, fly, invisibility
->
+>* At will: detect magic, disguise self, mage armor, minor illusion
+>* 1/day each: darkness, dimension door, dispel magic, fly, invisibility
 
 ---
 
@@ -143,8 +139,6 @@ Deprived of much of its magic as a special punishment, a deathlock wight lingers
 >
 >***Spellcasting.*** The deathlock casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 13):
 >
->At will: detect magic, disguise self, mage armor
->
->1/day each: fear, hold person
->
+>* At will: detect magic, disguise self, mage armor
+>* 1/day each: fear, hold person
 
