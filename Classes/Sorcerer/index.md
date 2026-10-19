@@ -282,7 +282,7 @@ def elementalspell(npc):
 
 ```
 def empoweredspell(npc):
-    npc.defer(lambda npc: npc.traits.append("***Metamagic: You spend 1 sorcery point to reroll up to {npc.CHAbonus()} damage dice. You must use the new rolls. You can use this even if you have already used a different Metamagic option during the casting of the spell.") )
+    npc.defer(lambda npc: npc.traits.append("***Metamagic: Empowered Spell.*** You spend 1 sorcery point to reroll up to {npc.CHAbonus()} damage dice. You must use the new rolls. You can use this even if you have already used a different Metamagic option during the casting of the spell.") )
 ```
 
 * **Extended Spell**
@@ -363,6 +363,10 @@ def choosemetamagic(npc):
         npc.metamagic = []
     npc.metamagic.append(metaname)
     metafn(npc)
+
+def level3(npc):
+    choosemetamagic(npc)
+    choosemetamagic(npc)
 ```
 
 ## Ability Score Improvement
@@ -380,6 +384,11 @@ def level19(npc): abilityscoreimprovement(npc)
 *20th-level sorcerer feature*
 
 You regain 4 expended sorcery points whenever you finish a short rest.
+
+```
+def level20(npc):
+    npc.traits.append("***Sorcerous Restoration.*** You regain 4 expended sorcery points whenever you finish a short rest.")
+```
 
 ---
 

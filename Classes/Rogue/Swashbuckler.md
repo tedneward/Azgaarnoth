@@ -24,7 +24,7 @@ def level3(npc):
 Your unmistakable confidence propels you into battle. You add your Charisma modifier to your initiative rolls. In addition, you can use Sneak Attack with any melee attack made against a target that has none of your allies adjacent to it.
 
 ```
-    npc.traits.append("***Always Audacious.*** You add your Charisma modifier to your initiative rolls.")
+    npc.traits.append("***Always Audacious.*** You add your Charisma modifier to your initiative rolls. In addition, you can use Sneak Attack with any melee attack made against a target that has none of your allies adjacent to it.")
 ```
 
 ## Panache

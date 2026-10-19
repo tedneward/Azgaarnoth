@@ -30,7 +30,7 @@ Longsword | 15 gp | 1d8 slashing | 3 lb. | Versatile (1d10) |
 Maul | 10 gp | 2d6 bludgeoning | 10 lb. | Heavy, two-handed | 
 Morningstar | 15 gp | 1d8 piercing | 4 lb. | — | 
 Pike | 5 gp | 1d10 piercing | 18 lb. | Heavy, reach, two-handed | 
-Rapier | 25 gp | 1d8 piercing | 2 lb. | Finesse | 
+Rapier | 25 gp | 1d8 piercing | 2 lb. | Finesse | ***Rapier.*** *Melee Weapon Attack:* +{proficiency bonus + STRbonus/DEXbonus} to hit, 5ft., one target. *Hit:* 1d8 + {proficiency bonus + STRbonus/DEXbonus} piercing damage.
 Scimitar | 25 gp | 1d6 slashing | 3 lb. | Finesse, light | 
 Shortsword | 10 gp | 1d6 piercing | 2 lb. | Finesse, light | 
 Trident | 5 gp | 1d6 piercing | 4 lb. | Thrown (20/60), versatile (1d8) | 
